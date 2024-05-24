@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-24 11:03:41**
+As of **2024-05-24 11:18:40**
 
 ## Newspaper Stats
 
-*Scraped **26,023** Articles*
+*Scraped **26,030** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,37 +16,141 @@ islandlk | 1,410
 economynextcom | 1,497
 dailyftlk | 1,533
 adalk | 2,225
-adaderanalk | 2,984
+adaderanalk | 2,986
 tamilmirrorlk | 3,034
-virakesarilk | 3,967
-dailymirrorlk | 4,097
+virakesarilk | 3,969
+dailymirrorlk | 4,100
 adaderanasinhalalk | 4,159
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,022 (100.0%) of 26,023 articles have been extended.
+26,023 (100.0%) of 26,030 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-24 (Friday)
 
+### யாழுக்கு விஜயம் மேற்கொண்டுள்ள ஜனாதிபதி
+
+*2024-05-24 11:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/184358) · `ta`
+
+ஜனாதிபதி ரணில் விக்கிரமசிங்க பல்வேறு நிகழ்வுகளில் கலந்து கொள்வதற்காக இன்று வெள்ளிக்கிழமை (24) யாழ்ப்பாணத்தை வந்தடைந்துள்ளார்.
+
+யாழ்ப்பாணம் மத்திய கல்லூரி மைதானத்தில் விசேட உலங்கு வானுர்தியில் வந்திறங்கிய ஜனாதிபதியை கடற்தொழில் அமைச்சர் டக்ளஸ் தேவானந்தா, முன்னாள் இராஜாங்க அமைச்சர் விஜயகலா மகேஸ்வரன் உள்ளிட்ட குழுவினர் வரவேற்றனர்.
+
+வடக்கிற்கு மூன்று நாள் விஜயமாக வரும் ஜனாதிபதி ரணில் விக்கிரமசிங்க, யாழ்ப்பாணம், முல்லைத்தீவு, கிளிநொச்சி மற்றும் வவுனியா மாவட்டங்களில் உரித்து தேசிய வேலைத்திட்டத்தின் கீழ் காணி உரிமங்களை வழங்கி வைக்கவுள்ளார்.
+
+அத்தோடு வடக்கில் இளைஞர்களுடன் ஜனாதிபதி விசேட சந்திப்பொன்றிலும் கலந்து கொள்ளவுள்ளதுடன் ,  10 முக்கிய நிகழ்வுகளில் ஜனாதிபதி பங்கேற்கவுள்ளதாக தெரிவிக்கப்படுகிறது.
+
+அதேவேளை வடக்கில் முன்னெடுக்கப்படும் அபிவிருத்தி திட்டங்கள் தொடர்பிலும் இவ்விஜயத்தின் போது விசேட அவதானம் செலுத்தப்படவுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/cc04c64d.json)
+
+---
+
+### காசா மீதான இஸ்ரேலின் போர் குறித்த சர்வதேச நீதிமன்றத்தின் தீர்ப்பு இன்று- பிடியாணை குறித்த விசாரணைகளும் ஆரம்;பம்
+
+*2024-05-24 11:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/184359) · `ta`
+
+இஸ்ரேல் சர்வதேசரீதியில் இராஜதந்திரரீதியாக தனிமைப்படுத்தப்படுவது குறித்து அமெரிக்கா கவலை வெளியிட்டுள்ள சூழ்நிலையில் இந்த தீர்ப்பு வெளியாகவுள்ளது.
+
+இஸ்ரேல் தனது இராணுவநடவடிக்கையை நிறுத்தவேண்டும் என ஐசிசி உத்தரவிடலாம் என்ற எதிர்பார்ப்பு நிலவுகின்றது.
+
+இதேவேளை இஸ்ரேலிய பிரதமர் ஹமாஸ் தலைவர்களிற்கு எதிராக பிடியாணையை பிறப்பிக்கவேண்டும் என்ற சர்வதேச குற்றவியல் நீதிமன்றத்தின் வேண்டுகோள்கள் குறித்தும் நீதிபதிகள் ஆராயவுள்ளனர்.
+
+கடந்தவாரம் இஸ்ரேல் காசா மீதான தனது நடவடிக்கைகளை நிறுத்தவேண்டும் என சர்வதேச நீதிமன்றம் உத்தரவிடவேண்டும் என தென்னாபிரிக்கா வேண்டுகோள் விடுத்திருந்தது. ரபா குறித்து தென்னாபிரிக்கா விசேடமாக வேண்டுகோள் விடுத்திருந்தது.
+
+சர்வதேச நீதிமன்றத்தின் உத்தரவுகள் கடந்த காலங்களில் புறக்கணிக்கப்பட்டுள்ளன எனினும் அவை சர்வதேசரீதியில் முக்கியத்துவம் பெறுகின்றன.
+
+யுத்தத்தை நிறுத்துமாறு சர்வதேசநீதிமன்றம் உத்தரவு பிறப்பித்தால் அதனை ஏற்றுக்கொள்ளப்போவதில்லை என இஸ்ரேல் தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/51078d88.json)
+
+---
+
+### Malaysia repatriates over 1,600 Sri Lankan illegal migrants
+
+*2024-05-24 10:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/99408/malaysia-repatriates-over-1600-sri-lankan-illegal-migrants) · `en`
+
+The Sri Lanka High Commission in Malaysia has successfully facilitated the repatriation of 1,608 Sri Lankan illegal migrants.
+
+This operation, conducted in coordination with the Malaysian Government’s Migrant Repatriation Programme over a two-month period from 01 March 2024 to 30 April 2024, the Sri Lanka High Commission in Kuala Lumpur, Malaysia said.
+
+Issuing a statement, the Sri Lanka High Commission in Malaysia stated that before the start of this repatriation programme, from 01 January to 28 February 2024, the High Commission facilitated the repatriation of 124 illegal migrants who were stranded in Malaysia with various difficulties. This brings the total number of repatriations to 1,732.
+
+...
+
+[Data](articles/dea87af1.json)
+
+---
+
 ### ආර්ථික පරිවර්තන පනත් කෙටුම්පතට එරෙහිව නඩු පැවරීමට යයි
 
 *2024-05-24 10:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196964) · `si`
 
-පාර්ලිමේන්තුවට ඉදිරිපත් කළ ආර්ථික පරිවර්තනය පිළිබඳ පනත් කෙටුම්පතට එරෙහිව ශ්‍රේෂ්ඨාධිකරණයේ නඩු පැවරීමට ජාතික ජන බලවේගය පක්ෂය තීරණය කර තිබේ.
+UNP plans to sue Supreme Court over Economic Transformation Bill, which aims to improve economic governance and was recently presented to Parliament. The move comes after criticism from the national folk regarding the government's handling of the country's economy and suggestions from BOI to abolish itself. The party argues the government should clarify its intentions behind such a bill, as it hasn't received support from business councils, trade unions, or private sector entities.
+
+🟩
+
+The UNP has decided to prosecute the Supreme Court against the Supreme Court against the Economic Transformation Bill.
 
 ආර්ථික පරිවර්තනය පිළිබඳ පනත් කෙටුම්පත සහ රටේ රාජ්‍ය මූල්‍ය කළමනාකරණය ප්‍රශස්ත මට්ටමක පවත්වාගෙන යාම වෙනුවෙන් “රාජ්‍ය මූල්‍ය කළමනාකරණ පනත් කෙටුම්පත” ද පසුගිය දා පාර්ලිමේන්තුවට ඉදිරිපත් කරනු ලැබීය.
 
-කෙසේවෙතත් වර්තමාන ආණ්ඩුව රටේ ආර්ථිකය පිළිබඳ බරපතළ පනතක් ඉතාමත්ම හෑල්ලුවකින් ඉදිරිපත් කර ඇති බවත් එම පනතින් ආයෝජන මණ්ඩලය අහෝසි කිරීමට යෝජනා කර ඇති බවත් ජාතික ජන බලවේගය පක්ෂය පෙන්වා දෙයි.
+However, the national folk pointed out that the present government has a serious bill of the country's economy and the BOI points out that the BOI has proposed to be abolished.
 
 මෙවැනි පනතක් පිළිබඳ ඉල්ලීමක් වාණිජ මණ්ඩලය හෝ කර්මාන්තකරුවන්ගේ සංගම් හෝ පෞද්ගලික අංශයේ කිසිවෙකුගෙන් ලැබී නොමැති අවස්ථාවක එහි අභිලාශය කුමක්දැයි ආණ්ඩුව පැහැදිලි කළ යුතු බව එම පක්ෂය සඳහන් කරයි.
 
 ◼️
 
 [Data](articles/f07b8120.json)
+
+[Extended Data](ext_articles/f07b8120.ext.json)
+
+---
+
+### Several train delays and cancellations on up-country line
+
+*2024-05-24 10:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/99407/several-train-delays-and-cancellations-on-up-country-line) · `en`
+
+The train services on the up-country line have been delayed today (24) due to trees and rocks falling on to the tracks, Sri Lanka Railways announced.
+
+Meanwhile, the night mail trains to and from Badulla and other special trains on the line are cancelled today, according to the Department of Railways.
+
+◼️
+
+[Data](articles/f733d8eb.json)
+
+---
+
+### Czech president injured while racing motorcycle
+
+*2024-05-24 10:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Czech-president-injured-while-racing-motorcycle/107-283287) · `en`
+
+May 24 (BBC) - Czech President Petr Pavel has been taken to hospital after injuring himself while riding a motorcycle, his office has said.
+
+It said the injuries "are not serious", but a "short observation" was required. It gave no further details.
+
+Czech police said they were not investigating the accident because it happened on a closed racing circuit - not on the road.
+
+Mr Pavel, aged 62, is known for his love of motorbikes. He is believed to be currently racing a BMW R1200 GS.
+
+It is not the first time he has attracted trouble over his hobby.
+
+Last year, he had to publicly apologise after being spotted riding a bike without a helmet.
+
+A former high-ranking Nato general, Mr Pavel was elected as the Czech Republic's president in March 2023.
+
+A few weeks after his inauguration, he rode a motorbike to the state of Bavaria in neighbouring Germany.
+
+...
+
+[Data](articles/dc1e7f2f.json)
 
 ---
 
@@ -79,6 +183,34 @@ She says that the world should never forget the attack.
 [Data](articles/98330e27.json)
 
 [Extended Data](ext_articles/98330e27.ext.json)
+
+---
+
+### Huge landslide strikes remote village in Papua New Guinea, with 100 people feared dead
+
+*2024-05-24 10:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Huge-landslide-strikes-remote-village-in-Papua-New-Guinea-with-100-people-feared-dead/107-283285) · `en`
+
+May 24 (ABC) - A huge landslide has struck a remote village in Papua New Guinea, with bodies being recovered by villagers.
+
+The landslide reportedly hit Kaokalam Village in Enga Province, about 600 kilometres north-west of Port Moresby, about 3am.
+
+Residents say current estimates of the death toll sit above 100, though authorities have not confirmed this figure.
+
+Elizabeth Laruma, the president of the Porgera Women in Business Association, said houses were flattened when the side of a nearby mountain gave way.
+
+"It has occurred when people were still asleep in the early hours and the entire village has gone down," Ms Laruma said.
+
+"From what I can presume, it's about 100-plus people who are buried beneath the ground."
+
+Papua New Guinea police have not responded to the ABC's request for comment.
+
+It's unclear whether emergency services have visited the remote area.
+
+Ninga Role, who is from Kaokalam but is attending university in Madang, said he received news of the damage this morning.
+
+...
+
+[Data](articles/ff567add.json)
 
 ---
 
@@ -159,6 +291,26 @@ Prabhat Ekanayake has said that the only station in the Peradeniya University is
 [Data](articles/3a573b1a.json)
 
 [Extended Data](ext_articles/3a573b1a.ext.json)
+
+---
+
+### 95% candidates pass 2023 Korean exam
+
+*2024-05-24 10:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/95-candidates-pass-2023-Korean-exam/108-283284) · `en`
+
+A total of 95 percent of the candidates have passed the 2023 Korean Language Proficiency examination, the Sri Lanka Bureau of Foreign Employement (SLBFE) said.
+
+The examination results of the production and fishing sectors were released, and 3,422 applicants have passed.
+
+A group of 3,580 applicants had sat for this examination and the number of candidates who passed was 95.6 percent of the total number of candidates, the bureau said.
+
+They said the results of this examination will be published on the website www.slbfe.lk on May 27 and the medical examination for the candidates who have passed the examination will begin on May 28.
+
+The relevant interviews for the applicants who have passed the examination will be conducted on June 06, 07 and 10 at the bureau's provincial offices, immigration resource centers and training centers.
+
+◼️
+
+[Data](articles/48603272.json)
 
 ---
 
@@ -2153,173 +2305,5 @@ The actor's dear friend and actress Juhi Chawla visited the actor at the hospita
 [Data](articles/85c9a39a.json)
 
 [Extended Data](ext_articles/85c9a39a.ext.json)
-
----
-
-### Emana generator smoke for two
-
-*2024-05-23 15:07:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/இருவருக்கு-எமனான-ஜெனரேட்டர்-புகை/76-337772) · `ta`
-
-A father and son, aged 40 and 17, died from inhaling carbon monoxide fumes while sleeping near a generator in Buburasa. The incident occurred during a power outage when preparing for a meal.
-
-🟩
-
-The death of a father and son who went to sleep after drivering the generator took place on Thursday morning (23), Buburasa police said.
-
-Both 40 -year -old Sanath Rohana and 17 -year -old Gagana Madusanga, a native of Bupurasa Nesta Colony, died.
-
-Electricity has been cut off in the area as a meal event was prepared on Thursday
-
-In this case, the father and son were sleeping in his room with a generator machine.
-
-When the Buburasa police were investigating the matter, it was revealed that the two had died after breathing the carbon monoxide gas from the generator.
-
-◼️
-
-[Data](articles/216f1077.json)
-
-[Extended Data](ext_articles/216f1077.ext.json)
-
----
-
-### A Chinese military exercise near Taiwan
-
-*2024-05-23 15:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196937) · `si`
-
-China conducts a two-day military drill near Taiwan, citing it as a response to Taiwan's separatist activities and its international relationships. This move comes shortly after William Li's inauguration as Taiwan's president. The exercise has drawn criticism from Taiwan, emphasizing the need for caution and diplomacy amidst rising tensions. Despite being a democracy and a technologically advanced nation, Taiwan's status remains unresolved internationally, partly due to China's opposition and influence within the United Nations.
-
-🟩
-
-China has launched a two-day war zone around Taiwan around Taiwan.
-
-China says that the war exercise is a punishment for the separatist process of Taiwan.
-
-China is also disappeared on Taiwan's close relations with Taiwan.
-
-China, Taiwan is anti-war exercise by the time of time, and in the near future war exercises.
-
-China was established in Taiwan around three days after the swearing in of William Li as the new president in Taiwan.
-
-China is a punishment for the separatist process of Taiwan.
-
-China's warfare has been severely criticized in Taiwan and advised the Taiwan army.
-
-Although a democratic elected government in Taiwan is considered to be regarded as an area of the country.
-
-Although Taiwan has a technologically advanced state, the global organization has not yet accepted it as a free country.
-
-It is also reported that China's pressure is due to the negative country of the UN.
-
-◼️
-
-[Data](articles/312223f2.json)
-
-[Extended Data](ext_articles/312223f2.ext.json)
-
----
-
-### Mankulam Hospital's name board requests to correct Tamil writing error
-
-*2024-05-23 14:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/184315) · `ta`
-
-"Mankulam Hospital's signboard has a Tamil spelling mistake. The center, near Mankulam school, awaits President Wickremesinghe's visit. Activists urge correcting the Tamil script."
-
-🟩
-
-The Medical Rehabilitation and Mental Health Development Center, which is specially set up in the Northern Province, is to be opened in the adjoining area of the Mankulam support school complex.
-
-President Ranil Wickremesinghe will visit the hospital on the 26th of this month.
-
-In this case, Mangulam is incorrectly written in Tamil on the name board set up in front of the hospital.
-
-It has not been changed to this day, but to date, it has not been changed. Therefore, community activists have demanded that the Tamil language be repaired and the name board should be changed before the inauguration.
-
-◼️
-
-[Data](articles/c2f506af.json)
-
-[Extended Data](ext_articles/c2f506af.ext.json)
-
----
-
-### Government to complete stalled Hyatt Hotel project with military aid
-
-*2024-05-23 14:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Government-to-complete-stalled-Hyatt-Hotel-project-with-military-aid/108-283256) · `en`
-
-Colombo -  In response to the delays in several high-profile urban development projects like Colombo Hyatt Hotel, State Minister for Urban Development and Housing, Arundika Fernando said If an appropriate investor does not emerge, the government is prepared to proceed with completion with the assistance of the armed forces, with financing from the treasury.
-
-He noted that valuable government land had been allocated for ventures such as the Colombo Hyatt Hotel, Krrish, and Destiny projects; however, investors have abandoned these projects, leaving them incomplete.
-
-“The Colombo Hyatt Hotel project has particularly strained public resources, with USD 60 million in public funds already invested and an outstanding debt of USD 35 million. This project occupies a significant plot of land in Colombo,” he pointed out.
-
-As such, Minister Fernando emphasized that if new investors do not step forward, the government is ready to take over the completion of these projects.
-
-◼️
-
-[Data](articles/87fcc464.json)
-
-[Extended Data](ext_articles/87fcc464.ext.json)
-
----
-
-### Nine killed in Mexico stage collapse at campaign event
-
-*2024-05-23 14:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/99398/nine-killed-in-mexico-stage-collapse-at-campaign-event) · `en`
-
-A stage collapsed at a Mexican election campaign rally on Wednesday, killing nine people and injuring dozens as high winds tore apart the large, concert-style structure, scattering politicians and attendees.
-
-Around 50 people were injured at the rally for the Citizens’ Movement party in the northern Mexican state of Nuevo Leon, Samuel Garcia, the state’s governor, said on social media.
-
-The victims were eight adults and one child, Garcia said, adding he was headed to a hospital where three people were in surgery. Many of the injured were being treated at local clinics, the director of Mexico’s social security institute reported.
-
-Jorge Alvarez Maynez, the presidential candidate for the centrist Citizens’ Movement party, said a gust of wind caused the stage to collapse at the event in the city of San Pedro Garza Garcia, a wealthy enclave near the industrial hub of Monterrey.
-
-...
-
-[Data](articles/01452f1c.json)
-
-[Extended Data](ext_articles/01452f1c.ext.json)
-
----
-
-### Special permission to visit prisoners in view of Vesak event
-
-*2024-05-23 14:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/184311) · `ta`
-
-For Vesak, the Special Prisons Department allows outside visits on Thursdays and Fridays. Today and tomorrow, families can bring food, sweets, and healthcare items. This applies nationwide under Prisons Commissioner Gamini B's guidance.
-
-🟩
-
-The Special Prisons Department has been granted by the Department of Special Prisons to visit outsiders on both Thursdays and Fridays on Thursday and Friday on Friday.
-
-Accordingly, today and tomorrow, the relatives of the prisoners have been given the opportunity to provide a general amount of food, sweet commodities and health care products.
-
-Prisons Commissioner Gamini B says that the action of outsiders in the country will be carried out in all prisons in the country.. Dissanayake said in a media statement.
-
-◼️
-
-[Data](articles/4d62e015.json)
-
-[Extended Data](ext_articles/4d62e015.ext.json)
-
----
-
-### 36900 fensions
-
-*2024-05-23 14:18:10* · [`adalk`](https://www.ada.lk/breaking_news/විදුලිබිඳ-වැටීම්-36900ක්/11-409804) · `si`
-
-Due to bad weather, over 300k customers lost power, with 39,600 outages reported in the past three days.
-
-🟩
-
-The electricity and power of power, Kanchana Wijesekara says that the electricity supply of more than three hundred thousand customers have been disconnected in the last three days due to inclement weather.
-
-He said a note from his X account that 39600 electric drows were reported. .
-
-◼️
-
-[Data](articles/70a0d101.json)
-
-[Extended Data](ext_articles/70a0d101.ext.json)
 
 ---

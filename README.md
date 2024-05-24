@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-25 01:03:34**
+As of **2024-05-25 01:18:38**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,175
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,125 (100.0%) of 26,129 articles have been extended.
+26,129 (100.0%) of 26,129 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,6 +46,8 @@ The ‘Mothers of the Disappeared’ was a coming together of female Sinhalese, 
 
 [Data](articles/1a55a6b9.json)
 
+[Extended Data](ext_articles/1a55a6b9.ext.json)
+
 ---
 
 ### God won’t change your destiny until you change yourself
@@ -61,6 +63,8 @@ However, the race for the top most post started months ago with the Jathika Jana
 ...
 
 [Data](articles/2a641d03.json)
+
+[Extended Data](ext_articles/2a641d03.ext.json)
 
 ---
 
@@ -78,6 +82,8 @@ A single pivotal moment or a well-made point can indeed have a significant impac
 
 [Data](articles/d179f449.json)
 
+[Extended Data](ext_articles/d179f449.ext.json)
+
 ---
 
 ### Tragedy and farce on a day of mourning
@@ -93,6 +99,8 @@ As the monsoonal rains are set to wreak havoc and a climate emergency is in the 
 ...
 
 [Data](articles/d6f9fd59.json)
+
+[Extended Data](ext_articles/d6f9fd59.ext.json)
 
 ---
 

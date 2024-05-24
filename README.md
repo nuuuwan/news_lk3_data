@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-24 13:03:49**
+As of **2024-05-24 13:18:28**
 
 ## Newspaper Stats
 
-*Scraped **26,050** Articles*
+*Scraped **26,051** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,500
 dailyftlk | 1,533
 adalk | 2,226
 adaderanalk | 2,989
-tamilmirrorlk | 3,037
+tamilmirrorlk | 3,038
 virakesarilk | 3,974
 dailymirrorlk | 4,103
 adaderanasinhalalk | 4,161
@@ -26,23 +26,43 @@ adaderanasinhalalk | 4,161
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,049 (100.0%) of 26,050 articles have been extended.
+26,050 (100.0%) of 26,051 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-24 (Friday)
 
-### மலையக ரயில் சேவையில் தாமதம்
+### மக்களே... இவர்களைக் கண்டால் உடன் தகவல் தாருங்கள்...
+
+*2024-05-24 13:00:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/மக்களே-இவர்களைக்-கண்டால்-உடன்-தகவல்-தாருங்கள்/73-337810) · `ta`
+
+அம்பாறை நகரில் பொருட்களை திருடியதாக சந்தேகிக்கப்படும் 3 பெண்கள் தொடர்பில் தகவல்களை தந்துதவுமாறு பொலிஸார் பொது மக்களிடம் கோரியுள்ளனர்.
+
+இவர்கள் தொடர்பில் ஏதேனும் தகவல் தெரிந்தால் அம்பாறை பொலிஸ் நிலைய குற்றப்புலனாய்வு பிரிவினருக்கு 0718593256, 0772921071 என்ற இலக்கத்திற்கு அறிவிக்குமாறும் அம்பாறை பொலிஸார் கோரியுள்ளனர். R
+
+◼️
+
+[Data](articles/ed60b7d4.json)
+
+---
+
+### Delay in the hill station service
 
 *2024-05-24 12:33:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மலையக-ரயில்-சேவையில்-தாமதம்/76-337809) · `ta`
 
-மலையக ரயில் தண்டவாளத்தில் மரங்கள் மற்றும் பாறைகள் விழுந்து கிடப்பதால் மலையக ரயில் சேவையில் தாமதம் ஏற்பட்டுள்ளது.
+"Railway delays due to fallen trees and rocks on tracks; postal and special trains from Badulla canceled."
 
-இதன் காரணமாக, பதுளை நோக்கி செல்லும் மற்றும் பதுளையில் இருந்து புறப்படும் இரவு தபால் ரயில் மற்றும் சிறப்பு ரயில்கள் இன்று ரத்து செய்யப்பட்டுள்ளதாக  ரயில்வே கட்டுப்பாட்டு அறை தெரிவித்துள்ளது. R
+🟩
+
+Trees and rocks have fallen on the railway track.
+
+Due to this, the Railway Control Room said that the postal trains and special trains from Badulla to Badulla have been canceled today.. Remble
 
 ◼️
 
 [Data](articles/a2ed6810.json)
+
+[Extended Data](ext_articles/a2ed6810.ext.json)
 
 ---
 
@@ -2281,31 +2301,5 @@ Furthermore, the relevant interviews will be held on June 06, 07 and 10 at all t
 [Data](articles/6cc32bd3.json)
 
 [Extended Data](ext_articles/6cc32bd3.ext.json)
-
----
-
-### India in talks with Sri Lanka to acquire graphite mines
-
-*2024-05-23 17:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/India-in-talks-with-Sri-Lanka-to-acquire-graphite-mines/108-283267) · `en`
-
-New Delhi , May 23 (PTI)- India is in talks with Sri Lanka to acquire graphite mines in the island nation. The demand for graphite is steadily increasing, as it is the most common material used for anodes in lithium-ion and other batteries.
-
-The Indian government had discussions with the government of Sri Lanka on acquiring graphite mines there, sources said.
-
-However, the sources refused to give further details stating that the talks are at very preliminary stage.
-
-Graphite features on the list of 30 critical minerals, which was released by the government last year.
-
-The government had recently said that public sector companies Coal India, NMDC and ONGC Videsh Ltd (OVL) will start looking actively for critical mineral assets overseas.
-
-OVL is the overseas investment arm of state-owned Oil and Natural Gas Corporation.
-
-These public sector enterprises already have some kind of presence abroad.
-
-...
-
-[Data](articles/589eadd2.json)
-
-[Extended Data](ext_articles/589eadd2.ext.json)
 
 ---

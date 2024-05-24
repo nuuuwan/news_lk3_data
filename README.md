@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-24 11:18:40**
+As of **2024-05-24 11:34:01**
 
 ## Newspaper Stats
 
-*Scraped **26,030** Articles*
+*Scraped **26,033** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 259
 bbccomsinhala | 263
 newsfirstlk | 363
 islandlk | 1,410
-economynextcom | 1,497
+economynextcom | 1,500
 dailyftlk | 1,533
 adalk | 2,225
 adaderanalk | 2,986
@@ -26,51 +26,83 @@ adaderanasinhalalk | 4,159
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,023 (100.0%) of 26,030 articles have been extended.
+26,030 (100.0%) of 26,033 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-24 (Friday)
 
-### யாழுக்கு விஜயம் மேற்கொண்டுள்ள ஜனாதிபதி
+### President
 
 *2024-05-24 11:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/184358) · `ta`
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்க பல்வேறு நிகழ்வுகளில் கலந்து கொள்வதற்காக இன்று வெள்ளிக்கிழமை (24) யாழ்ப்பாணத்தை வந்தடைந்துள்ளார்.
+President Ranil Wickremesinghe visited Jaffna, welcomed by Fisheries Minister Douglas Devananda and former State Minister Vijayagala Maheshwaran. He'll receive land licenses in Northern districts and meet with local youth, focusing on development projects.
 
-யாழ்ப்பாணம் மத்திய கல்லூரி மைதானத்தில் விசேட உலங்கு வானுர்தியில் வந்திறங்கிய ஜனாதிபதியை கடற்தொழில் அமைச்சர் டக்ளஸ் தேவானந்தா, முன்னாள் இராஜாங்க அமைச்சர் விஜயகலா மகேஸ்வரன் உள்ளிட்ட குழுவினர் வரவேற்றனர்.
+🟩
 
-வடக்கிற்கு மூன்று நாள் விஜயமாக வரும் ஜனாதிபதி ரணில் விக்கிரமசிங்க, யாழ்ப்பாணம், முல்லைத்தீவு, கிளிநொச்சி மற்றும் வவுனியா மாவட்டங்களில் உரித்து தேசிய வேலைத்திட்டத்தின் கீழ் காணி உரிமங்களை வழங்கி வைக்கவுள்ளார்.
+President Ranil Wickremesinghe has arrived in Jaffna today (24) to attend various events.
 
-அத்தோடு வடக்கில் இளைஞர்களுடன் ஜனாதிபதி விசேட சந்திப்பொன்றிலும் கலந்து கொள்ளவுள்ளதுடன் ,  10 முக்கிய நிகழ்வுகளில் ஜனாதிபதி பங்கேற்கவுள்ளதாக தெரிவிக்கப்படுகிறது.
+Fisheries Minister Douglas Devananda and former State Minister Vijayagala Maheshwaran welcomed the President who arrived at the Central College grounds in Jaffna.
 
-அதேவேளை வடக்கில் முன்னெடுக்கப்படும் அபிவிருத்தி திட்டங்கள் தொடர்பிலும் இவ்விஜயத்தின் போது விசேட அவதானம் செலுத்தப்படவுள்ளமை குறிப்பிடத்தக்கது.
+President Ranil Wickremesinghe, who will be visiting the North, will be given land licenses under the National Program in Jaffna, Mullaitivu, Kilinochchi and Vavuniya districts.
+
+The President will also attend a special meeting with the youth in the North and the President will participate in 10 major events.
+
+At the same time, special attention will be paid to the development projects in the North.
 
 ◼️
 
 [Data](articles/cc04c64d.json)
 
+[Extended Data](ext_articles/cc04c64d.ext.json)
+
 ---
 
-### காசா மீதான இஸ்ரேலின் போர் குறித்த சர்வதேச நீதிமன்றத்தின் தீர்ப்பு இன்று- பிடியாணை குறித்த விசாரணைகளும் ஆரம்;பம்
+### The International Court of Justice on Israel's war on Gaza today
 
 *2024-05-24 11:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/184359) · `ta`
 
-இஸ்ரேல் சர்வதேசரீதியில் இராஜதந்திரரீதியாக தனிமைப்படுத்தப்படுவது குறித்து அமெரிக்கா கவலை வெளியிட்டுள்ள சூழ்நிலையில் இந்த தீர்ப்பு வெளியாகவுள்ளது.
+The International Court of Justice (ICJ) is set to deliver a verdict on Israel's Gaza conflict amidst US concerns over Israel's international isolation. Expectations are high for the ICJ to halt Israel's military operations. The court will also consider a request to indict Israeli Prime Minister and Hamas leaders. Despite previous disregard for ICJ orders, they hold significant global importance. Israel has stated it won't comply with the ICJ's decision to cease hostilities.
 
-இஸ்ரேல் தனது இராணுவநடவடிக்கையை நிறுத்தவேண்டும் என ஐசிசி உத்தரவிடலாம் என்ற எதிர்பார்ப்பு நிலவுகின்றது.
+🟩
 
-இதேவேளை இஸ்ரேலிய பிரதமர் ஹமாஸ் தலைவர்களிற்கு எதிராக பிடியாணையை பிறப்பிக்கவேண்டும் என்ற சர்வதேச குற்றவியல் நீதிமன்றத்தின் வேண்டுகோள்கள் குறித்தும் நீதிபதிகள் ஆராயவுள்ளனர்.
+The verdict will be issued in a situation where the US is concerned about the diplomatic isolation of Israel internationally.
 
-கடந்தவாரம் இஸ்ரேல் காசா மீதான தனது நடவடிக்கைகளை நிறுத்தவேண்டும் என சர்வதேச நீதிமன்றம் உத்தரவிடவேண்டும் என தென்னாபிரிக்கா வேண்டுகோள் விடுத்திருந்தது. ரபா குறித்து தென்னாபிரிக்கா விசேடமாக வேண்டுகோள் விடுத்திருந்தது.
+There is an expectation that the ICC may order Israel to stop its military action.
 
-சர்வதேச நீதிமன்றத்தின் உத்தரவுகள் கடந்த காலங்களில் புறக்கணிக்கப்பட்டுள்ளன எனினும் அவை சர்வதேசரீதியில் முக்கியத்துவம் பெறுகின்றன.
+Meanwhile, the judges will also look into the request of the International Criminal Court to issue a cabinet against Israeli Prime Minister Hamas leaders.
 
-யுத்தத்தை நிறுத்துமாறு சர்வதேசநீதிமன்றம் உத்தரவு பிறப்பித்தால் அதனை ஏற்றுக்கொள்ளப்போவதில்லை என இஸ்ரேல் தெரிவித்துள்ளது.
+South Africa has appealed to the International Court of Justice to stop its actions on Israeli Gaza last week.. South Africa has specially appealed to Rabba.
+
+International court orders have been ignored in the past, but they are internationally important.
+
+Israel has said it will not accept the International Court of Justice to stop the war.
 
 ◼️
 
 [Data](articles/51078d88.json)
+
+[Extended Data](ext_articles/51078d88.ext.json)
+
+---
+
+### Desperate Sri Lankans seek risky foreign jobs amid tough IMF reforms
+
+*2024-05-24 11:00:00* · [`economynextcom`](https://economynext.com/desperate-sri-lankans-seek-risky-foreign-jobs-amid-tough-imf-reforms-164462/) · `en`
+
+ECONOMYNEXT – After working 11 years in Saudi Arabia as a driver, Sanath returned to Sri Lanka with dreams of starting a transport service company, buoyed by Gotabaya Rajapaksa’s 2019 presidential victory.
+
+However, the COVID-19 pandemic in 2020 and an unprecedented economic crisis in 2022 shattered his dreams. Once an aspiring entrepreneur, he became a bank defaulter.
+
+Facing hyperinflation, an unbearable cost of living, and his family’s daily struggles, Sanath sought greener pastures again—this time in the United Arab Emirates (UAE).
+
+“I had to pay 900,000 rupees ($3,000) to secure a driving job here,” Sanath (45), a father of two, told EconomyNext while having a cup of tea and a parotta for dinner near Khalifa University in Abu Dhabi.
+
+Working for a reputed taxi company in the UAE, Sanath’s modest meal cost only 3 UAE dirhams (243 Sri Lankan rupees). Despite a monthly salary of around 3,000 dirhams, he limits his spending to save as much as possible.
+
+...
+
+[Data](articles/d2a7b2e7.json)
 
 ---
 
@@ -87,6 +119,8 @@ Issuing a statement, the Sri Lanka High Commission in Malaysia stated that befor
 ...
 
 [Data](articles/dea87af1.json)
+
+[Extended Data](ext_articles/dea87af1.ext.json)
 
 ---
 
@@ -126,6 +160,8 @@ Meanwhile, the night mail trains to and from Badulla and other special trains on
 
 [Data](articles/f733d8eb.json)
 
+[Extended Data](ext_articles/f733d8eb.ext.json)
+
 ---
 
 ### Czech president injured while racing motorcycle
@@ -151,6 +187,8 @@ A few weeks after his inauguration, he rode a motorbike to the state of Bavaria 
 ...
 
 [Data](articles/dc1e7f2f.json)
+
+[Extended Data](ext_articles/dc1e7f2f.ext.json)
 
 ---
 
@@ -211,6 +249,8 @@ Ninga Role, who is from Kaokalam but is attending university in Madang, said he 
 ...
 
 [Data](articles/ff567add.json)
+
+[Extended Data](ext_articles/ff567add.ext.json)
 
 ---
 
@@ -311,6 +351,8 @@ The relevant interviews for the applicants who have passed the examination will 
 ◼️
 
 [Data](articles/48603272.json)
+
+[Extended Data](ext_articles/48603272.ext.json)
 
 ---
 
@@ -571,6 +613,26 @@ Fairly strong winds about 30-40 kmph can be expected at times elsewhere of the i
 [Data](articles/61fd8f27.json)
 
 [Extended Data](ext_articles/61fd8f27.ext.json)
+
+---
+
+### Sri Lanka state interference in plantation wages escalates into land grab threat
+
+*2024-05-24 08:13:00* · [`economynextcom`](https://economynext.com/sri-lanka-state-interference-in-plantation-wages-escalates-into-land-grab-threat-164467/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s state interference in privatized plantations wages has escalated into a threat to grab the leased land if the companies fail to pay the government ordered salaries due to ‘mismanagement’.
+
+Sri Lanka is 2011 expropriated several private companies including two privatized sugar plantations, and a publicly listed hotel, claiming their assets were ‘underutilized’.
+
+Sri Lanka has been unable to attract foreign investment in the scale of countries like Vietnam despite being socialist one party state, who have created better perceptions about investor protection and labour laws, analysts say.
+
+Sri Lanka’s President Ranil Wickremesinghe in the presence of several plantations sector legislators announced on May Day that a 1,700 rupee a day wage had been ruled by a gazette.
+
+Plantations and worker unions ended collective bargaining after President Gotabaya Rajapaksa ordered a 1,000 rupee a day wage under gazette rule.
+
+...
+
+[Data](articles/b1230a33.json)
 
 ---
 
@@ -1728,6 +1790,28 @@ Motorists using the Colombo-Kandy main road are advised to be vigilant as there 
 
 ### Sri Lanka eyes private battery systems to counter renewable power instability
 
+*2024-05-23 18:48:00* · [`economynextcom`](https://economynext.com/sri-lanka-eyes-private-battery-systems-to-counter-renewable-power-instability-164432/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s cabinet of ministers had given approval to develop grid scale battery energy storage systems (BESS) to maintain power system stability as variable renewable power plants expand, a government statement said.
+
+Sri Lanka is expecting to connect large volumes solar and wind power between 2024-2030 to meet a 70 percent renewable electricity target, but due to variability of wind and solar (non-firm energy), the system stability is undermined.
+
+As a result, the power grid has to be able to absorb the shocks from non-firm energy.
+
+Battery energy systems storage (BESS) is one of the solutions identified in a long-term generation plan, the statement said.
+
+A committee appointed to study the issue had recommended building battery banks.
+
+The cabinet had approved the development of battery storage system as public private partnerships or private projects. (Colombo/May24/2025)
+
+◼️
+
+[Data](articles/6d3e62e4.json)
+
+---
+
+### Sri Lanka eyes private battery systems to counter renewable power instability
+
 *2024-05-23 18:48:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-eyes-private-battery-systems-to-counter-renewable-power-instability-164432/) · `en`
 
 ECONOMYNEXT – Sri Lanka’s cabinet of ministers had given approval to develop grid scale battery energy storage systems (BESS) to maintain power system stability as variable renewable power plants expand, a government statement said.
@@ -2237,73 +2321,5 @@ All the work of the film is scheduled to be completed by the end of this year at
 [Data](articles/621809f2.json)
 
 [Extended Data](ext_articles/621809f2.ext.json)
-
----
-
-### A sister's boyfriend abuse
-
-*2024-05-23 15:14:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/அக்காவின்-காதலனால்-தங்கை-துஷ்பிரயோகம்/72-337774) · `ta`
-
-Man hides after police seek him for sister's boyfriend abuse case.
-
-🟩
-
-The man is said to have been hiding even though the police took steps to arrest the suspect in connection with the incident.
-
-◼️
-
-[Data](articles/0978632a.json)
-
-[Extended Data](ext_articles/0978632a.ext.json)
-
----
-
-### Amazingly arrested when he was seated while hesing
-
-*2024-05-23 15:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196938) · `si`
-
-A child was reported missing from Madurankuliya, last seen with a monk at a local temple. The boy, the eldest of three siblings, disappeared after watching TV with his grandmother. Despite extensive searches and no CCTV evidence, the child was found at a Kataragama temple, handed over by a monk from the Puttalam Paliyava temple.
-
-🟩
-
-With the grandmother with the grandmother, the child who went away and went to death.
-
-Madurankuliya Police said that a monk was taken while he was discovered while he was taken away at a Viharaya area in Kataragama.
-
-The children who were studying in a house near Madurankuliya Sampayer Sampayer College, who was living near Madurankuliya Sampayer College, who was living near Madurankuliya Sampayer College, was a resident of Madurankuliya.
-
-He is the eldest child of a family consisting of three brothers and sisters.
-
-The child had been watching the television in Madurankuliya on the 18th of his grandmother on the 18th of his grandmother.
-
-Investigations by the Maduranakuliya Police have revealed that the Madurankuliya Police had revealed the road to Pulipankulam.
-
-But the CCTV footage is not met with the child.
-
-The Kataragama police have received information yesterday (22) that the child was raised at a Kataragama Viharaya with the continuous revelation of the missing child.
-
-...
-
-[Data](articles/f149719e.json)
-
-[Extended Data](ext_articles/f149719e.ext.json)
-
----
-
-### Shah Rukh Khan admitted to Ahmedabad Hospital due to heat stroke
-
-*2024-05-23 15:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Shah-Rukh-Khan-admitted-to-Ahmedabad-Hospital-due-to-heat-stroke/107-283257) · `en`
-
-May 23 (NDTV) - Bollywood superstar Shah Rukh Khan has been admitted to a hospital in Ahmedabad after suffering a heat stroke. The actor was in Ahmedabad to watch the Indian Premier League (IPL) match between his Kolkata Knight Riders and Sunrisers Hyderabad on Tuesday.
-
-"The actor was suffering from dehydration amid a high temperature of 45-degree Celcius in Ahmedabad. He is under medical observation although his health is stable. Security has been tightened around the hospital," news agency IANS reported, quoting sources.
-
-The actor's dear friend and actress Juhi Chawla visited the actor at the hospital. An official statement from the hospital is expected soon, news agency IANS reported.
-
-...
-
-[Data](articles/85c9a39a.json)
-
-[Extended Data](ext_articles/85c9a39a.ext.json)
 
 ---

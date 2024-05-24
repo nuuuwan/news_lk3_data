@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-24 16:51:28**
+As of **2024-05-24 17:03:36**
 
 ## Newspaper Stats
 
-*Scraped **26,080** Articles*
+*Scraped **26,081** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 232
 dbsjeyarajcom | 260
-bbccomsinhala | 263
+bbccomsinhala | 264
 newsfirstlk | 363
 islandlk | 1,410
 economynextcom | 1,501
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,166
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,080 (100.0%) of 26,080 articles have been extended.
+26,080 (100.0%) of 26,081 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1202,6 +1202,26 @@ She says that the world should never forget the attack.
 
 ---
 
+### පවුල් ජීවිත අවුල් කරන අසීමාන්තික මව-පුතු  බැඳීම
+
+*2024-05-24 10:28:55* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/clmmxdnyz5go) · `si`
+
+බොහෝ යුවතියන් මෙන් රොෂෙල් ද යුග දිවියට එළඹුණේ දහසකුත් බලාපොරොත්තු පොදි බැඳ ගෙන ය. නමුත්, විවාහ වී වසරකුත් ගත වීමට ප්‍රථම ඇය මැවූ සිහින බිඳ වැටුණේ ඇය ද නොසිතු අයුරිනි.
+
+මේ වන විට 29 හැවිරිදි වියේ පසුවන රොෂෙල් දික්කසාද නඩුවක පැමිණිලිකාර පාර්ශවය වී අවසන් ය. තම රැකියාවෙන් උපයා ගන්නා මුදල් නීති කටයුතු සඳහා වැය කිරීමට දැන් ඇයට  සිදුවී ඇත.
+
+රොෂෙල් යනු, මෙම ලිපියේ කතා නායිකාවගේ සත්‍ය නාමය වෙනුවට ඇයගේ අනන්‍යතාව සුරැකීම වෙනුවෙන් අප විසින් භාවිත කරනු ලබන අන්වර්ථ නාමයකි.
+
+ඉකුත් මාසයේ මෙරට මාධ්‍ය, රෙජිස්ට්‍රාර් ජනරාල් දෙපාර්තමේන්තුව උපුටා දක්වමින් සඳහන් කර තිබුණේ, 2020 වසරේ සිට "ශ්‍රී ලංකාවේ විවාහ වන්නන් අතර දික්කසාදවල ඉහළ යාමක්" දක්නට ලැබෙන බව ය.
+
+රොෂෙල් විශ්වාස කරන පරිදි තම විවාහය දෙදරා යාමට බලපෑ ප්‍රධානතම සාධකය, තම ස්වාමි පුරුෂයා සහ ඔහුගේ මව අතර පැවති "පමණ ඉක්මවූ බැඳීම" ය. ඔවුන් වෙන්ව වෙනත් නිවසක වාසය කළ ද එය ඔවුන්ගේ පවුල් ජීවිතයට දිගින් දිගට ම බලපෑම් එල්ල කළ බව ඇගේ මතය යි.
+
+...
+
+[Data](articles/4957d12b.json)
+
+---
+
 ### Huge landslide strikes remote village in Papua New Guinea, with 100 people feared dead
 
 *2024-05-24 10:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Huge-landslide-strikes-remote-village-in-Papua-New-Guinea-with-100-people-feared-dead/107-283285) · `en`
@@ -2273,21 +2293,5 @@ You will come to Derana Dansala at the time of 24 hours.
 [Data](articles/7489b9a4.json)
 
 [Extended Data](ext_articles/7489b9a4.ext.json)
-
----
-
-### President stresses importance of preserving true essence of Theravada Buddhism and sharing its wisdom with world
-
-*2024-05-23 22:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/99405/president-stresses-importance-of-preserving-true-essence-of-theravada-buddhism-and-sharing-its-wisdom-with-world) · `en`
-
-President Ranil Wickremesinghe underscored the significance of Theravada Buddhism in addressing the challenges posed by a world rapidly advancing in science and technology. Speaking at the State Vesak Ceremony held at the Dharmaraja Piriven Viharaya in Matale virtually this morning (23), President Wickremesinghe stressed the importance of preserving the true essence of Theravada Buddhism and sharing its wisdom with the world.
-
-Although President Wickremesinghe was scheduled to participate in the State Vesak Ceremony in person, adverse weather conditions prevented his attendance. Instead, he joined the State Vesak Ceremony virtually and extended his wishes to all Buddhists for a meaningful Vesak celebration.
-
-...
-
-[Data](articles/26dfae55.json)
-
-[Extended Data](ext_articles/26dfae55.ext.json)
 
 ---

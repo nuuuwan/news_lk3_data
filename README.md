@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-24 20:52:40**
+As of **2024-05-24 21:03:30**
 
 ## Newspaper Stats
 
-*Scraped **26,101** Articles*
+*Scraped **26,107** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,77 @@ dailyftlk | 1,533
 adalk | 2,229
 adaderanalk | 2,995
 tamilmirrorlk | 3,040
-virakesarilk | 3,984
-dailymirrorlk | 4,119
-adaderanasinhalalk | 4,171
+virakesarilk | 3,988
+dailymirrorlk | 4,120
+adaderanasinhalalk | 4,172
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,101 (100.0%) of 26,101 articles have been extended.
+26,101 (100.0%) of 26,107 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-24 (Friday)
+
+### මීදුමෙන් වැසී ගිය දුම්රිය මඟ
+
+*2024-05-24 20:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196979) · `si`
+
+පවතින අධික වර්ෂාවත් සමඟ හපුතලේ ප්‍රදේශයට දැඩි මීදුම් සහිත තත්ත්වයක් මතුව තිබේ.
+
+එම ප්‍රදේශයෙන් දුම්රිය ධාවනය කෙරුණේද දැඩි මීදුම් සහිත තත්ත්වයක දීය.
+
+එමෙන්ම වාරිමාර්ග දෙපාර්තමේන්තුව අද (24) පෙරවරුවේ නිකුත් කළ වාර්තාවට අනුව කළු ගඟ මිල්ලකන්දෙන් සුළු ගංවතුර තත්ත්වයක් දක්වා වර්ධනය වී තිබේ.
+
+අත්තනුගලු ඔය ද දූනමලේ ප්‍රදේශයෙන් සුළු ගංවතුර තත්ත්වයක් දක්වා වර්ධනය වී ඇති බව ද එම වාර්තාවේ දැක්වේ.
+
+◼️
+
+[Data](articles/67b103a9.json)
+
+---
+
+### Three new Board members appointed to NMRA
+
+*2024-05-24 20:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Three-new-Board-members-appointed-to-NMRA/108-283314) · `en`
+
+Colombo, May 24 - Health Minister Dr. Ramesh Pathirana has appointed three new professionals to the National Medicines Regulatory Authority (NMRA) Board.
+
+This decision aligns with the NMRA Act of 2015, which empowers the Minister to nominate and appoint professionals of eminence from the fields of law, accountancy, management, and health.
+
+Accordingly, the new appointees include Chartered Accountant Sujeewa Mudalige, President’s Counsel Palitha Kumarasinghe and senior Grade 1 officer in the Sri Lanka Administrative Service Susantha Kahawatta.
+
+These appointments follow the resignation of three board members who were appointed by the previous Health Minister, Keheliya Rambukwella.
+
+The outgoing members include Supul Wijesinghe from the field of accounting, Attorney-at-Law Manoj Gamage from the field of law, and architect Priyantha Serasinghe from the field of management.
+
+◼️
+
+[Data](articles/157e6dc1.json)
+
+---
+
+### பதுளையில் இருந்து கொழும்புக்கு செல்லும் வீதியில் தியத்தலாவைக்கும் ஹப்புத்தளைக்கும் இடையே மீண்டும் போக்குவரத்து தடை
+
+*2024-05-24 20:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/184419) · `ta`
+
+பதுளையில் இருந்து கொழும்புக்கு செல்லும் வீதியில் தியத்தலாவைக்கும் ஹப்புத்தளைக்கும் இடையே மீண்டும் போக்குவரத்து முற்றாக தடைப்பட்டுள்ளதாக தியத்தலாவ பொலிஸார் தெரிவித்தனர்
+
+குறித்த வீதியின் 24ஆம் திகதி வெள்ளிக்கிழமை காலை  வீதியில் பாரிய மரங்கள் முறிந்து விழுந்ததை தொடர்ந்து குறித்த வீதியின் ஊடான போக்குவரத்து இன்று மாலை 3.30 மணி வரை தடைப்பட்டு இருந்து.
+
+தியத்தலாவ பொலிஸாரும்  வீதி அபிவிருத்தி அதிகாரசபை ஊழியர்களும் பிரதேச சபை ஊழியர்கள் இராணுவத்தினரும் இணைந்து மரங்களை அகற்றி பின்னர் போக்குவரத்து இன்று 3.30. மணிக்கு வழமைக்கு திரும்பியதாக தியத்தலாவ பொலிஸார் தெரிவித்தனர்
+
+பின்னர் குறித்த வீதியின் மீண்டும் மரங்கள் முறிந்து வீதியில் விழ்ந்தமையினால் போக்குவரத்து முற்றாக தடைப்பட்டுள்ளதாக தியத்தலாவ பொலிஸார் தெரிவித்தனர்.
+
+எனவே பண்டாரவளையில் இருந்து ஹப்புத்தளை செல்லும் மேல் வீதியை பயன்படுத்துமாறு சாரதிகளிடம் பொலிஸார் வேண்டுகோள் விடுத்துள்ளனர்.
+
+◼️
+
+[Data](articles/9beef705.json)
+
+---
 
 ### The secret video of the Hamas out
 
@@ -51,6 +109,60 @@ The views of Israeli Prime Minister Benjamin Ratmanyahu will be intensifying the
 [Data](articles/b2427024.json)
 
 [Extended Data](ext_articles/b2427024.ext.json)
+
+---
+
+### ரபா மீதான தாக்குதலை இஸ்ரேல் உடனடியாக  நிறுத்தவேண்டும் -சர்வதேச நீதிமன்றம் உத்தரவு
+
+*2024-05-24 19:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/184416) · `ta`
+
+காசாவின் ரபா மீதான தாக்குதலை இஸ்ரேல் நிறுத்தவேண்டும் என சர்வேதேச நீதிமன்றம்  உத்தரவிட்டுள்ளது.
+
+இஸ்ரேல் உடனடியாக ரபா மீதான தாக்குதலையும் ஏனைய நடவடிக்கைகளையும் நிறுத்தவேண்டும் என சர்வதேச குற்றவியல் நீதிமன்றம் உத்தரவிட்டுள்ளமை குறிப்பிடத்தக்கது.
+
+மனிதாபிமான பொருட்களை காசாவிற்குள் கொண்டு செல்வதற்காக இஸ்ரேல் எகிப்து எல்லையில் உள்ள ரபா எல்லையைதிறக்கவேண்டும் விசாரணையாளர்களும் காசாவில் என்ன நடக்கின்றது என்பதை அறிவதற்கான நடவடிக்கைகளில் ஈடுபட்டுள்ளவர்களும் காசாவிற்குள் செல்வதற்கு அனுமதிக்கவேண்டும் எனவும் சர்வதேச நீதிமன்றம் உத்தரவிட்டுள்ளது.
+
+சர்வதேச நீதிமன்றம் தனது உத்தரவை நடைமுறைப்படுத்துவதில் ஏற்பட்டுள்ள முன்னேற்றங்கள் குறித்து ஒரு மாதகாலத்திற்குள் அறிக்கை சமர்ப்பிக்கவேண்டும்எனவும் உத்தரவிட்டுள்ளது.
+
+◼️
+
+[Data](articles/4e536048.json)
+
+---
+
+### உலக பரா ஈட்டி எறிதலில் உத்தியோகப்பற்றற்ற முடிவின் பிரகாரம் தினேஷ் ஹேரத் இரண்டாம் இடம் வகைப்படுத்தல் தொடர்பான ஆட்சேபம் எழுப்பப்பட்டுள்ளது
+
+*2024-05-24 19:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/184418) · `ta`
+
+ஜப்பானின் கோபே விளையாட்டரங்கில் வெள்ளிக்கிழமை (24) நடைபெற்ற ஆண்களுக்கான F46 பிரிவு ஈட்டி எரிதல் போட்டிக்கான உத்தியோகப்பற்றற்ற முடிவுகளின் பிரகாரம் தினேஷ் ப்ரியன்த ஹேரத் இரண்டாம் இடத்தைப் பெற்றுள்ளார்.
+
+பரா மெய்வல்லுநர்களை வகைப்படுத்துதல் தொடர்பாக சமர்ப்பிக்கப்பட்டுள்ள ஆட்சேபம் காரணமாக உத்தியோகபூர்வ போட்டி முடிவு இடைநிறுத்திவைக்கப்பட்டுள்ளது.
+
+ஆட்சேபனை தொடர்பான விசாரணைகள் முடிவடைந்த பின்னர் எடுக்கப்படும் தீர்மானத்தின் அடிப்படையில் போட்டி முடிவு உத்தியோகபூர்வமாக வெளியிடப்படும் என உலக பரா மெய்வல்லுநர் சங்கம் தனது உத்தியோகபூர்வ இணையத்தளத்தில் குறிப்பிட்டுள்ளது.
+
+தினேஷ் ப்ரியன்த ஹேரத் ஈட்டியை 64.59 மீற்றர் தூரத்திற்கு எறிந்து இரண்டாம் இடத்தைப் பெற்றார்.
+
+எட்டு நாடுகளைச் செர்ந்த 12 பரா வீரர்கள் பங்குபற்றிய இப் போட்டியில் தினேஷ் ப்ரியன்த தனது 2ஆவது முயற்சியில் இத் தூரத்தைப் பதிவுசெய்திருந்தார்.
+
+ஐந்து முயற்சிகள் வரை முதலிடத்தில் இருந்த தினேஷ் ஹேரத், கியூபா வீரரின் கடைசி முயற்சி முடிவை அடுத்து இரண்டாம் இடத்திற்கு தள்ளப்பட்டார்.
+
+...
+
+[Data](articles/10d345a4.json)
+
+---
+
+### கோப்பாயில் கசிப்பு விற்பனை; பெண் கைது
+
+*2024-05-24 19:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/184417) · `ta`
+
+யாழ்ப்பாணம் - கோப்பாய் பொலிஸ் பிரிவு உட்பட்ட செல்வபுரம் பகுதியில் கசிப்பு விற்பனையில் ஈடுபட்ட பெண் ஒருவர் இன்று வெள்ளிக்கிழமை யாழ்ப்பாண மாவட்ட பொலிஸ்மா அதிபரின் கீழ் இயங்கும் விசேட பொலிஸ் புலனாய்வுப் பிரிவினரால் கைது செய்யப்பட்டார்.
+
+24 ஆம் திகதி போயா தினமான இன்று மதுபானசாலைகள் மூடப்பட்ட நிலையில் கசிப்பு வியாபாரத்தில் பெண் ஒருவர் ஈடுபடுவதாக பொலிஸ் புலனாய்வு பிரிவினருக்கு கிடைத்த இரகசிய தகவலை அடுத்து குறித்த பெண் கைது செய்யப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/5341e68a.json)
 
 ---
 
@@ -2235,125 +2347,5 @@ The Sri Lanka Institute of Local and Local Government Affairs Ministry of Public
 [Data](articles/51a9841b.json)
 
 [Extended Data](ext_articles/51a9841b.ext.json)
-
----
-
-### 6-year-old child dies after car
-
-*2024-05-24 07:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196957) · `si`
-
-A tragic accident claimed the life of a 6-year-old child near Serunuwara, Trincomalee-Batticaloa road yesterday.
-
-🟩
-
-A 6-year-old child was killed in a caring accident.
-
-The accident had occurred yesterday (23) at Serunuwara and running to Serunuwara along the Trincomalee Batticaloa.
-
-◼️
-
-[Data](articles/22fdd3af.json)
-
-[Extended Data](ext_articles/22fdd3af.ext.json)
-
----
-
-### A lending program under relief interest
-
-*2024-05-24 07:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196956) · `si`
-
-Starting next week, the government will launch special loan schemes aimed at identifying and meeting the financial needs of industries at both regional and district levels. This initiative was announced by Secretary Shantha Weerasinghe of the Ministry of Industry.
-
-🟩
-
-The government has decided to implement some special loan schemes from the upcoming week.
-
-The Ministry of Industries stated that programs to identify the financial needs of industrial requirements at regional and district level.
-
-Secretary to the Ministry of Industry Shantha Weerasinghe said this.
-
-◼️
-
-[Data](articles/3dbb1799.json)
-
-[Extended Data](ext_articles/3dbb1799.ext.json)
-
----
-
-### Heavy rains today
-
-*2024-05-24 06:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196955) · `si`
-
-Today's heavy rains, caused by the southwest monsoon, will bring showers or thundershowers across various regions including the Western, Sabaragamuwa, Central, North Western, South, and Northern provinces. Expectations range from 30-40 strong wind occurrences to over 100 heavy showers in areas like Nuwara Eliya, Kandy, Mannar, Galle, and Matara districts.
-
-🟩
-
-The Department of Meteorology has issued the extent of rain and winds due to the southwest monsoon.
-
-As a result, showers or thundershowers will occur at times in the Western, Sabaragamuwa, Central, North Western, south and northern provinces.
-
-In some places in the Nuwara Eliya district of Sabaragamuwa Province. It is also reported that around 150 heavy showers can occur.
-
-In some places in the Kandy, Mannar, Galle and Matara districts, the Western and North Western Provinces.. Heavy rains may occur at more than 100.
-
-Showers or thundershowers will occur at several places elsewhere in the country.
-
-At times, the Trincomalee district, the West, North, North, North Central, North Central, Southern and North Western provinces.. Strong winds can occur 50-60.
-
-From time to time in the rest of the island.. It is also possible that about 30-40 times strong winds can also occur.
-
-◼️
-
-[Data](articles/c35925ef.json)
-
-[Extended Data](ext_articles/c35925ef.ext.json)
-
----
-
-### Ceylinco Life launches ‘Medical Saver’ plan to cover medical expenses of senior citizens
-
-*2024-05-24 04:00:00* · [`islandlk`](http://island.lk/ceylinco-life-launches-medical-saver-plan-to-cover-medical-expenses-of-senior-citizens/) · `en`
-
-A timely medical cum life insurance plan that enables a policyholder to build up a medical fund that can pay for medical needs for up to 20 years after the original plan matures, has been launched by Ceylinco Life in response to the evolving needs of the market.
-
-‘Ceylinco Life Medical Saver’ is positioned as the first health insurance plan in the country to cover medical needs of today, tomorrow, and beyond policy maturity. It offers local and global hospitalisation cover for reimbursement of medical and surgical expenses; life cover with supplementary benefits for the term of the policy; and saving for future medical expenses after policy maturity, creating a backup health fund for medical needs during retirement.
-
-...
-
-[Data](articles/66adee38.json)
-
-[Extended Data](ext_articles/66adee38.ext.json)
-
----
-
-### AIA Insurance expands reach with the grand opening of Bandarawela Regional Development Office
-
-*2024-05-24 03:59:00* · [`islandlk`](http://island.lk/aia-insurance-expands-reach-with-the-grand-opening-of-bandarawela-regional-development-office/) · `en`
-
-May 22nd 2024 – AIA Insurance proudly announces the inauguration of its newest Regional Development Office (RDO) in the heart of the Bandarawela City, located at No. 451, Badulla Road. This milestone marks another significant stride in AIA’s commitment to extending its distribution network and delivering unparalleled insurance experiences to the community.
-
-With a vision to empower the people of Bandarawela with comprehensive insurance solutions, the newly launched office is equipped with state-of-the-art facilities and staffed by a team of experienced insurance professionals. Customers can expect personalised service tailored to their needs, covering a diverse range of offerings including life insurance, health insurance, retirement plans, and investment solutions.
-
-...
-
-[Data](articles/44db326a.json)
-
-[Extended Data](ext_articles/44db326a.ext.json)
-
----
-
-### Sri Lanka Tourism performs a successful stint at the Arabian Travel Market – 2024 in Dubai, UAE
-
-*2024-05-24 03:58:00* · [`islandlk`](http://island.lk/sri-lanka-tourism-performs-a-successful-stint-at-the-arabian-travel-market-2024-in-dubai-uae/) · `en`
-
-Sri Lanka Tourism made headlines at the 31st edition of the Arabian Travel Market (ATM) which was held from 6th May to 9th May 2024 in Dubai, UAE. The travel fair was held at the Dubai World Trade Center (DWTC) in line with the theme of empowering innovation – transforming travel through entrepreneurship. This is the largest tourism event in Middle East which provides global exposure, business & travel opportunities for the tourism sector.
-
-Sri Lanka Tourism Promotion Bureau (SLTPB) has been participating at this event since 2003 along with the members of the travel and tourism industry in Sri Lanka and this year SLTPB has vibrant and elegant stand with more than 60 participants from the travel and tourism industry.
-
-...
-
-[Data](articles/05096e4b.json)
-
-[Extended Data](ext_articles/05096e4b.ext.json)
 
 ---

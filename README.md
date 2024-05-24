@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-24 14:19:05**
+As of **2024-05-24 14:33:49**
 
 ## Newspaper Stats
 
-*Scraped **26,056** Articles*
+*Scraped **26,057** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,34 @@ adalk | 2,226
 adaderanalk | 2,989
 tamilmirrorlk | 3,038
 virakesarilk | 3,974
-dailymirrorlk | 4,106
+dailymirrorlk | 4,107
 adaderanasinhalalk | 4,162
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,054 (100.0%) of 26,056 articles have been extended.
+26,056 (100.0%) of 26,057 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-24 (Friday)
+
+### Over 1,280 Naval personnel discharged during general amnesty
+
+*2024-05-24 13:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Over-1-280-Naval-personnel-discharged-during-general-amnesty/108-283298) · `en`
+
+Colombo ,May 23 (Daily Mirror) -  A total of 1,289 naval personnel who were absent without leave (AWL) have been legally discharged during the General Amnesty period from April 20 to May 20, 2024.
+
+This amnesty applied exclusively to sailors, excluding Artificers, Professional Medical and Professional Dental sailors, allowing them to obtain an official discharge.
+
+During this period, 1,254 AWL naval personnel and an additional 35 naval personnel currently overseas and AWL were officially discharged.
+
+◼️
+
+[Data](articles/f44641ad.json)
+
+---
 
 ### MasterChef finalist credits Sri Lankan heritage for love of food
 
@@ -51,6 +67,8 @@ He was working as a veterinary surgeon in Bristol before entering the show, and 
 ...
 
 [Data](articles/514bc233.json)
+
+[Extended Data](ext_articles/514bc233.ext.json)
 
 ---
 
@@ -1562,6 +1580,8 @@ To demonstrate this, the film uses a Native American fable about a wolf. How the
 
 [Data](articles/f0e61cf2.json)
 
+[Extended Data](ext_articles/f0e61cf2.ext.json)
+
 ---
 
 ### 2024-05-23 (Thursday)
@@ -2275,27 +2295,5 @@ The 48-year-old passenger has been identified as a resident of Chilaw and a regu
 [Data](articles/54705246.json)
 
 [Extended Data](ext_articles/54705246.ext.json)
-
----
-
-### Notice to Colombo-Kandy road
-
-*2024-05-23 19:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196947) · `si`
-
-Drivers on Colombo-Kandy road should be cautious due to potential hazards from soil, stones, and trees near Kadugannawa caused by adverse weather conditions. This alert is issued without official disaster management announcements from Kegalle.
-
-🟩
-
-The drivers of Colombo-Kandy main road have been notified to travel.
-
-The road is at a risk of soil, stones and trees in the lower Kadugannawa area due to bad weather.
-
-This is not informed by a disaster management center announcement in Kegalle.
-
-◼️
-
-[Data](articles/d4a1d4ce.json)
-
-[Extended Data](ext_articles/d4a1d4ce.ext.json)
 
 ---

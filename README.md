@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-24 10:34:00**
+As of **2024-05-24 10:52:05**
 
 ## Newspaper Stats
 
-*Scraped **26,021** Articles*
+*Scraped **26,022** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,89 +20,143 @@ adaderanalk | 2,984
 tamilmirrorlk | 3,034
 virakesarilk | 3,967
 dailymirrorlk | 4,097
-adaderanasinhalalk | 4,157
+adaderanasinhalalk | 4,158
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,017 (100.0%) of 26,021 articles have been extended.
+26,021 (100.0%) of 26,022 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-24 (Friday)
 
-### துப்பாக்கியால் தன்னைத்தானே சுட்டு நபரொருவர் உயிர்மாய்ப்பு
+### නෝවා ප්‍රහාරය සිහි කරමින් නිර්මාණයක්
 
-*2024-05-24 10:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/184353) · `ta`
+*2024-05-24 10:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196963) · `si`
 
-காலி மாவட்டத்தில் தெல்வத்த - மீட்டியாகொடை பகுதியில் வீடொன்றில் துப்பாக்கிச் சூட்டுக்கு இலக்காகி உயிரிழந்த நபரொருவரின் சடலம் நேற்று புதன்கிழமை காலை மீட்கப்பட்டுள்ளது.
+ඊශ්‍රායල - හමාස් යුද ගැටුම් ආරම්භවී මේ වනවිට මාස 7ක කාලයක් ගත්වී තිබුණත් යුද ගැටුම් තවමත් ලොව පුරා පුවත් මවන මාතෘකාවකි.
 
-இந்த நபர் தன் நெற்றியில் துப்பாக்கியை வைத்துக்கொண்டு எடுத்துள்ள செல்பியை வைத்து இது தற்கொலையாக இருக்கலாம் என  பொலிஸார் சந்தேகிக்கின்றனர்.
+ඒ, යුද ගැටුම් ආරම්භයට මුල් වූ නෝවා සැණකෙළිය ඉලක්ක කළ ප්‍රහාරය සිහිපත් කරමින් කළ නිර්මාණයක් පිළිබඳ පුවතකි.
 
-மகன் காலை வேளை எழுந்திருக்காத நிலையில் அறையின் கதவைத் திறந்தபோது, இவரது சடலம் தரையில் கிடப்பதைக் கண்டதாக தாய் பொலிஸாரிடம் தெரிவித்துள்ளார்.
+මෙම නිර්මාණය සිදුකර ඇත්තේ අමෙරිකානු කලාකාරිනියක් වන මොන්ටානා ටකර්ගේ ප්‍රධානත්වයෙනි.
 
-உயிரிழந்த மகனின் அருகில் இருந்த துப்பாக்கியை கருவா தோட்டத்தில் வீசியதாக தாயாரும் பாட்டியும் விசாரணையின் போது பொலிஸாரிடம் தெரிவித்துள்ளனர். இந்நிலையில் அங்கிருந்து பொலிஸார் உயிரை மாய்த்துக் கொள்ள பயன்படுத்திய துப்பாக்கியை பொலிஸார் மீட்டுள்ளனர்.
+ඊට එක්වූ පිරිස ඊශ්‍රායල නර්තන ස්ටුඩියෝවේ වෘත්තීය නර්තන ශිල්පීන් බව විදෙස් වාර්තා පෙන්වා දෙයි.
 
-மேலும், இந்த நபர் போதைக்கு அடிமையானவர் என்பதும், காதலியால் காதல் உறவு துண்டிக்கப்பட்டதால் மன உளைச்சலுக்கு ஆளானவர் என்பதும்  விசாரணையில் தெரியவந்துள்ளது.
+නෝවා සංගීත සැණකෙළියට එල්ලවූ ප්‍රහාරයෙන් 300 ඉක්මවූ පිරිසක් මියගොස් තිබුණි.
 
-உயிரிழந்த நபரின் கைத்தொலைபேசியை பொலிஸார் ஆய்வு செய்ததில் இவர் தன்னைத்தானே சுட்டுக் உயிரை மாய்த்து கொள்வதற்கு முன் அவர் எடுத்த செல்பியைக் கண்டுப்பிடித்தனர்.
+මෙම පිරිස මෙම නර්තනය නිර්මාණය කර තිබුණේ ඔවුන් සිහිපත් කරමිනි.
 
-...
+මොන්ටානා ටකර් ඊශ්‍රායල - හමාස් යුද ගැටුම් සම්බන්ධයෙන් සටන් විරාමයක් ඉල්ලා හඬනඟන සමාජ මාධ්‍ය ක්‍රියාකාරිනියකි.
 
-[Data](articles/b1fd4b20.json)
+ඇය පවසන්නේ ඔක්තෝබර් 7 ප්‍රහාරය ලෝකය කිසිදා අමතක නොකළ යුතු බවය.
+
+◼️
+
+[Data](articles/98330e27.json)
 
 ---
 
-### අනියම් පෙම මරණයෙන් කෙළවර වෙයි
+### The firearm shot itself
+
+*2024-05-24 10:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/184353) · `ta`
+
+A man was found dead from a self-inflicted gunshot wound in Telvatta, Meediyagoda, Galle district. The incident occurred after the man reportedly took out a gun and aimed it at his forehead. His mother discovered him unconscious in the room, leading to the recovery of the weapon from the garden. Investigations suggest the man was dealing with depression and substance abuse issues, possibly triggered by relationship problems.
+
+🟩
+
+The body of a man who was shot dead in a house in Telvatta - Meediyagoda in Galle district has been recovered on Wednesday morning.
+
+Police suspect that this may be suicidal with the cell phone that the man has taken a gun on his forehead.
+
+When the son opened the door of the room when the son did not wake up in the morning, the mother told the police that his body was lying on the ground.
+
+During the investigation, the mother and grandmother told police that the gun was thrown in the garden of the deceased son.. From there, the police have recovered the gun used to save his life.
+
+Investigations have revealed that this person is addicted to addiction and is depressed by his girlfriend.
+
+When police investigated the cell phone of the deceased man, he found himself a cellphone before he shot himself.
+
+Meetiyagoda police are conducting further investigations on the directive of the Galle District Deputy Inspector General of Police Priyantha Chandrasir.
+
+◼️
+
+[Data](articles/b1fd4b20.json)
+
+[Extended Data](ext_articles/b1fd4b20.ext.json)
+
+---
+
+### Concluded by death
 
 *2024-05-24 10:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196962) · `si`
 
-රාගම නාරංගොඩපාළුව ප්‍රදේශයේදී තියුණු ආයුධයකින් පහරදී පුද්ගලයෙකු ඝාතනය කර තිබේ.
+In Narangodapitiya, Ragama, a 42-year-old man was murdered due to a dispute over an illicit affair. The killer, involved with the victim's wife, used a sharp object.
 
-අනියම් සබඳතාවක් හේතුවෙන් හටගත් ආරවුලක් දුරදිග යාමෙන් සිදුකළ පහරදීමකින් මෙම ඝාතනය සිදුකර ඇති බව පොලිස් මූලස්ථානය පැවසීය.
+🟩
 
-මියගිය පුද්ගලයාගේ බිරිඳ සමග අනියම් සබඳතාවක් පවත්වාගෙන යන පුද්ගලයෙකු විසින් ඝාතනය සිදුකර ඇති අතර ඔවුන් දෙදෙනා රාගම පොලීසිය මගින් අත්අඩංගුවට ගෙන තිබේ.
+A person has been attacked with a sharp object in Narangodapitiya, Ragama.
 
-ඝාතනයට ලක්වී ඇත්තේ 42 හැවිරිදි නාරංගොඩපාළුව ප්‍රදේශයේ පදිංචිකරුවෙකු බව පොලීසිය පැවසීය.
+The murder had been carried out with a dispute caused by an illicit affair.
+
+The murder was carried out by a person who had a casual affair with the wife of the deceased.
+
+The victim has been identified as a 42 year old resident of Narangoda.
 
 ◼️
 
 [Data](articles/cdcc642d.json)
 
+[Extended Data](ext_articles/cdcc642d.ext.json)
+
 ---
 
-### பயங்கரவாத வடிவில் தொழிற்சங்க நடவடிக்கைகளை மேற்கொள்ளக் கூடாது - கலாநிதி பிரபாத் ஏகநாயக்க தெரிவிப்பு!
+### Trade union action should not be taken in the form of terrorism - Dr. Prabhat Ekanayake
 
 *2024-05-24 10:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/184354) · `ta`
 
-பயங்கரவாத வடிவில் தொழிற்சங்க நடவடிக்கைகளை மேற்கொள்ளக் கூடாது என பேராதனைப் பல்கலைக்கழகத்தின் கலைப் பீடத்தின் பீடாதிபதி கலாநிதி பிரபாத் ஏகநாயக்க தெரிவித்துள்ளார்.
+Dr. Prabhat Ekanayake from Peradeniya University opposes trade unions resorting to terrorism-like actions. He highlights that non-academic staff can work towards their career rights without disrupting educational services. Ekanayake warns against potential disruptions to internet facilities, threatening online teaching, and mentions the impact of non-academic staff's professional activities on student education. He emphasizes the importance of maintaining essential services like lectures for disabled students during university crises.
 
-கல்வி சாரா ஊழியர்கள் தமது தொழில் உரிமைகளை வென்றெடுப்பதற்காக செயற்படுவதில் எவ்வித பிரச்சினையும் இல்லை எனவும், ஆனால் வேலை நிறுத்தத்தில் ஈடுபடாத கல்வி ஊழியர்களின் கடமைகளுக்கு இடையூறு விளைவித்தால் அதனை அங்கீகரிக்க முடியாது எனவும் அவர் தெரிவித்துள்ளார்.
+🟩
 
-பல்கலைக்கழகத்தின் இணைய வசதிகள் துண்டிக்கப்பட்டுள்ளதால், விரிவுரையாளர்கள், விரிவுரையாளர்களின் தனிப்பட்ட பணத்தைச் செலவழித்து, ஒன்லைன் முறையின் மூலம் மாணவர்களுக்கு கற்பிக்க வேண்டிய நிலை ஏற்பட்டுள்ளதாகவும் , எதிர்காலத்தில் தண்ணீர் மற்றும் மின்சாரத்தை துண்டிக்கப்போவதாக அச்சுறுத்தல் ஏற்படக்கூடும் எனவும் ஏகநாயக்க தெரிவித்துள்ளார்.
+Dr. Prabhat Ekanayake, the Faculty of the Peradeniya University, said that trade union action should not be taken in the form of terrorism.
 
-கல்விசாரா ஊழியர்கள் மற்றும் நிர்வாக மட்ட அதிகாரிகளின் தொழில்சார் நடவடிக்கையினால், மாணவர்களின் கல்விச் செயற்பாடுகள் முழு பல்கலைக்கழக அமைப்பிலும் உடைந்துள்ளதாகவும் அவர் வலியுறுத்தியுள்ளார்.
+He said that non -academic employees have no problems in working to win their career rights, but it cannot be recognized if the duties of education staff who are not on strike are disrupted.
 
-...
+Ekanayake said that as the university's internet facilities have been cut off, lecturers and lecturers have been able to teach students through an online system and threaten to cut off water and electricity in the future.
+
+He also stressed that due to the professional activities of non -academic staff and administrative level officials, the education of the students has been broken in the entire university.
+
+Prabhat Ekanayake has said that the only station in the Peradeniya University is that the only station to conduct lectures for children of the disabled child is in the dissolution of the University.
+
+◼️
 
 [Data](articles/3a573b1a.json)
 
+[Extended Data](ext_articles/3a573b1a.ext.json)
+
 ---
 
-### வெசாக் பண்டிகை நிகழ்வுக்கு அமைக்கப்பட்டிருந்த  சாகசக்  கிணறு சரிந்து விழுந்ததில் ஐவர் காயம்!
+### Five people injured when the adventure well collapsed for the Vesak festival
 
 *2024-05-24 09:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/184351) · `ta`
 
-திவுலபெலஸ்ஸ  ரொடலவெல விளையாட்டரங்கில் வெசாக் பண்டிகையை முன்னிட்டு நேற்று வியாழக்கிழமை (24) இரவு இடம்பெற்ற  விழா ஒன்றில் அமைக்கப்பட்டிருந்த சாகசக் கிணறு சரிந்து விழுந்ததில் ஐவர் காயமடைந்து வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+During the Vesak festival, five people were hurt as a well collapsed at the Divulabalesa Rodalawela Stadium. The victims include a 50-year-old woman and four men aged 13, 36, 40, and 45. Two are at Hingrankottai Hospital, while the others are at Mahiyanganna Hospital.
 
-காயமடைந்தவர்கள்  திவுலபெலஸ்ஸ பிரதேசத்தைச் சேர்ந்த 50 வயதுடைய பெண் ஒருவரும் 13, 36, 40 மற்றும் 45 வயதுடைய நான்கு ஆண்களும் என பொலிஸார் தெரிவித்துள்ளனர்.
+🟩
 
-மேலும், காயமடைந்தவர்களில் இருவர் ஹிங்கிரான்கோட்டை வைத்தியசாலையிலும் ஏனைய மூவர்  மஹியங்கனை வைத்தியசாலையிலும் சிகிச்சை பெற்று வருவதாக பொலிஸார் தெரிவித்துள்ளனர்.
+Five persons were injured when a well was injured in a ceremony held at a ceremony held at the Divulabalesa Rodalawela Stadium on Thursday night (24).
+
+The injured were a 50 -year -old woman from Divulabalesa area and four men aged 13, 36, 40 and 45, four, four men, police said.
+
+In addition, two of the injured are being treated at the Hingrankottai Hospital and the other three are being treated at the Mahiyanganna Hospital.
 
 ◼️
 
 [Data](articles/391fbc83.json)
+
+[Extended Data](ext_articles/391fbc83.ext.json)
 
 ---
 
@@ -2277,27 +2331,5 @@ In addition, the businessman is the "Platinum" type of "Platinum" cigarettes wor
 [Data](articles/a6bb8448.json)
 
 [Extended Data](ext_articles/a6bb8448.ext.json)
-
----
-
-### Allow Karapitiya Hospital to be converted into National Hospital
-
-*2024-05-23 14:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/184310) · `ta`
-
-The Sri Lankan Cabinet has approved converting Karapitiya Hospital into a National Hospital, marking it as the country's third such facility alongside those in Colombo and Kandy. This decision follows a proposal by Health Minister Ramesh Pathirana, with details set to be announced at a forthcoming press conference.
-
-🟩
-
-Cabinet Spokesperson Minister Bandula Gunawardena said that the Cabinet has approved the idea of developing the Karapitiya Teaching Hospital as a National Hospital in Galle District.
-
-The press conference will announce the decisions taken during the Cabinet meeting that the Cabinet paper was submitted by Health Minister Ramesh Pathrana.
-
-Minister Bandula Gunawardena has said that the third National Hospital will be the third National Hospital in addition to the two National Hospitals in Colombo and Kandy.
-
-◼️
-
-[Data](articles/c2dca34e.json)
-
-[Extended Data](ext_articles/c2dca34e.ext.json)
 
 ---

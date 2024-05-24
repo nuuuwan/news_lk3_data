@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-24 14:04:24**
+As of **2024-05-24 14:19:05**
 
 ## Newspaper Stats
 
-*Scraped **26,054** Articles*
+*Scraped **26,056** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 232
-dbsjeyarajcom | 259
+dbsjeyarajcom | 260
 bbccomsinhala | 263
 newsfirstlk | 363
 islandlk | 1,410
@@ -19,18 +19,40 @@ adalk | 2,226
 adaderanalk | 2,989
 tamilmirrorlk | 3,038
 virakesarilk | 3,974
-dailymirrorlk | 4,105
+dailymirrorlk | 4,106
 adaderanasinhalalk | 4,162
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,054 (100.0%) of 26,054 articles have been extended.
+26,054 (100.0%) of 26,056 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-24 (Friday)
+
+### MasterChef finalist credits Sri Lankan heritage for love of food
+
+*2024-05-24 13:37:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/MasterChef-finalist-credits-Sri-Lankan-heritage-for-love-of-food/108-283296) · `en`
+
+May 24 - A veterinary surgeon whose love of cooking is inspired by his Sri Lankan heritage has been crowned the 20th winner of BBC TV's Masterchef.
+
+Brin Pirathapan, 29, from Chelmsford, impressed judges John Torode and Gregg Wallace to beat 57 others in this year's amateur contest.
+
+Mr Pirathapan cooked a winning menu of a seafood starter, a spiced venison main and a dessert of white chocolate and cardamom and saffron cremeux with a lime and chili sorbet.
+
+"The show is one of the reasons I’m the cook I am today," he said.
+
+He was working as a veterinary surgeon in Bristol before entering the show, and said he had watched the show since he way a boy.
+
+"The food I grew up with was never boring. Coming from a Tamil, Sri Lankan background, we had nice food on the table and it's never bland," he said.
+
+...
+
+[Data](articles/514bc233.json)
+
+---
 
 ### SC overturns Appeal Court order over case against Ravi Karunanayake
 
@@ -1318,6 +1340,22 @@ It is also worth noting that the 23rd and 24 meals event will be held in view of
 
 ---
 
+### Can Ranil  Wickremesinghe  Regain the Support of Tamil and Muslim Voters at the 2024 Presidential Elections?
+
+*2024-05-24 03:33:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84070) · `en`
+
+Sri Lanka’s last official census was taken in 2012. According to that census, Sri Lanka’s majority ethnic community the Sinhalese comprises 74.9 % of the island nation’s population.  Numerically, the second largest ethnicity is the Sri Lankan Tamils who are 11.1% of the population. The third largest ethnicity is the Sri Lankan Muslims or Moors who comprise 9.3% of the population. The fourth largest ethnic group is the Tamils of  Indian origin known as “Malaiyagath Thamizhar” (Hill Country Tamils) who are 4.1%.
+
+The three numerical minorities namely the Sri Lankan Tamils, Muslims and Indian Tamils together are 25.5% of the population. These three ethnic groups form the majority in some Sri Lankan districts. In other districts they are a substantive segment of the population. Since the people of all districts vote together in the Presidential elections, the entire island is transformed into a “single” constituency with a 74.9% Sinhala majority and 25.5 % non – Sinhala minorities.
+
+...
+
+[Data](articles/008ff134.json)
+
+[Extended Data](ext_articles/008ff134.ext.json)
+
+---
+
 ### People protest against Taiti illegal Tissa Vihara!
 
 *2024-05-24 03:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/184347) · `ta`
@@ -1505,6 +1543,24 @@ The deceased is said to be the father of a 38 -year -old child who lived in Kand
 [Data](articles/d6c9ed36.json)
 
 [Extended Data](ext_articles/d6c9ed36.ext.json)
+
+---
+
+### Sudath Mahadivulwewa’s “My Red Comrade”  is an excellent film, with fine direction, a masterful script, skilful use of sound and lighting and impeccable performance from the leads.It is a commendable and brave experimentation in filmmaking.
+
+*2024-05-24 01:11:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84082) · `en`
+
+Sudath Mahadivulwewa’s latest film, now in cinemas, is openly political and experimental. A major aspect of the film is a debate between the old view of revolution and a more modern one
+
+Sudath Mahadivulwewa, the producer of the film ‘My Red Comrade’, is well-known for his various feature films, documentaries, theatre work and social awareness campaigns, in Sri Lanka.
+
+His latest film is openly political and experimental. A major aspect of the film is a debate between the old view of revolution and a more modern one which is construed to be more inclusive. The film conveys a message “think simple as a child, and do not make things more complicated than necessary”.
+
+To demonstrate this, the film uses a Native American fable about a wolf. How the wolf gets into us from the environment we are brought in; an environment in which we receive our education, the media we are exposed to and the conscious choices we make:
+
+...
+
+[Data](articles/f0e61cf2.json)
 
 ---
 
@@ -2241,67 +2297,5 @@ This is not informed by a disaster management center announcement in Kegalle.
 [Data](articles/d4a1d4ce.json)
 
 [Extended Data](ext_articles/d4a1d4ce.ext.json)
-
----
-
-### Motorists using Colombo-Kandy main road cautioned
-
-*2024-05-23 18:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/99402/motorists-using-colombo-kandy-main-road-cautioned) · `en`
-
-Motorists using the Colombo-Kandy main road are advised to be vigilant as there are risks of rocks and trees falling on to the stretch of road at Pahala Kadugannawa, the Disaster Management Centre (DMC) in Kegalle said.
-
-◼️
-
-[Data](articles/0a50e275.json)
-
-[Extended Data](ext_articles/0a50e275.ext.json)
-
----
-
-### Sri Lanka eyes private battery systems to counter renewable power instability
-
-*2024-05-23 18:48:00* · [`economynextcom`](https://economynext.com/sri-lanka-eyes-private-battery-systems-to-counter-renewable-power-instability-164432/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s cabinet of ministers had given approval to develop grid scale battery energy storage systems (BESS) to maintain power system stability as variable renewable power plants expand, a government statement said.
-
-Sri Lanka is expecting to connect large volumes solar and wind power between 2024-2030 to meet a 70 percent renewable electricity target, but due to variability of wind and solar (non-firm energy), the system stability is undermined.
-
-As a result, the power grid has to be able to absorb the shocks from non-firm energy.
-
-Battery energy systems storage (BESS) is one of the solutions identified in a long-term generation plan, the statement said.
-
-A committee appointed to study the issue had recommended building battery banks.
-
-The cabinet had approved the development of battery storage system as public private partnerships or private projects. (Colombo/May24/2025)
-
-◼️
-
-[Data](articles/6d3e62e4.json)
-
-[Extended Data](ext_articles/6d3e62e4.ext.json)
-
----
-
-### Sri Lanka eyes private battery systems to counter renewable power instability
-
-*2024-05-23 18:48:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-eyes-private-battery-systems-to-counter-renewable-power-instability-164432/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s cabinet of ministers had given approval to develop grid scale battery energy storage systems (BESS) to maintain power system stability as variable renewable power plants expand, a government statement said.
-
-Sri Lanka is expecting to connect large volumes solar and wind power between 2024-2030 to meet a 70 percent renewable electricity target, but due to variability of wind and solar (non-firm energy), the system stability is undermined.
-
-As a result, the power grid has to be able to absorb the shocks from non-firm energy.
-
-Battery energy systems storage (BESS) is one of the solutions identified in a long-term generation plan, the statement said.
-
-A committee appointed to study the issue had recommended building battery banks.
-
-The cabinet had approved the development of battery storage system as public private partnerships or private projects. (Colombo/May24/2025)
-
-◼️
-
-[Data](articles/cad7ee76.json)
-
-[Extended Data](ext_articles/cad7ee76.ext.json)
 
 ---

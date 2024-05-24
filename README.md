@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-24 13:33:59**
+As of **2024-05-24 13:53:22**
 
 ## Newspaper Stats
 
-*Scraped **26,051** Articles*
+*Scraped **26,054** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,60 @@ adalk | 2,226
 adaderanalk | 2,989
 tamilmirrorlk | 3,038
 virakesarilk | 3,974
-dailymirrorlk | 4,103
-adaderanasinhalalk | 4,161
+dailymirrorlk | 4,105
+adaderanasinhalalk | 4,162
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,051 (100.0%) of 26,051 articles have been extended.
+26,051 (100.0%) of 26,054 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-24 (Friday)
+
+### SC overturns Appeal Court order over case against Ravi Karunanayake
+
+*2024-05-24 13:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SC-overturns-Appeal-Court-order-over-case-against-Ravi-Karunanayake/108-283292) · `en`
+
+May 24 - The Supreme Court of Sri Lanka has today granted special leave to appeal in a high-profile bribery case against former Minister of Finance Ravi Karunanayake.
+
+The case centers around allegations that Karunanayake accepted an apartment from Arjun Aloysius, a director of a primary dealer company.
+
+This development follows the submission of a special leave to appeal application by the Commission to Investigate Allegations of Bribery or Corruption (CIABOC).
+
+The application sought to challenge an earlier decision by the Court of Appeal, which had overruled a preliminary objection raised by CIABOC. The objection contended that the accused, Karunanayake, did not have the right to appeal against an interim order of the High Court.
+
+...
+
+[Data](articles/9cf2793e.json)
+
+---
+
+### පෘථිවියට සමාන ජීවත්වීමට සුදුසුම ග්‍රහලෝකයක් සොයාගනී ?
+
+*2024-05-24 13:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196968) · `si`
+
+තාරකා විද්‍යාඥයින්ගේ ජාත්‍යන්තර කණ්ඩායම් දෙකක් පෘථිවි සහ සිකුරු ප්‍රමාණයේ ආලෝක වර්ෂ 40ක් ඈතින් පිහිටි ආකර්ෂණීය ග්‍රහලෝකයක් සොයාගැනීමට සමත්වී තිබේ.
+
+Gliese 12b නමින් නම්කර ඇති මෙම ග්‍රහලෝකය මේ දක්වා පෘථිවියට සමාන ජීවිත්වීමට සුදුසුම ග්‍රහලෝකය බවට උපකල්පනය කරයි.
+
+යුරෝපීය අභ්‍යාවකාශ ඒජන්සිය සමග නාසා ආයතනය සිදුකළ පර්යේෂණයක ප්‍රතිඵලයක් ලෙස මෙම නව ග්‍රහලෝකය සොයාගෙන ඇත.
+
+2022දී එක්සත් රාජධානියේ පැවැති උණුසුමට සමාන තත්ත්වයක් මෙම ග්‍රහලෝකය තුළ ඇති බවට පර්යේෂණවලින් අනාවරණ වී තිබේ.
+
+විද්‍යාඥයින්ගේ මතය වී ඇත්තේ, ග්ලීස් 12 බී ග්‍රහලෝකය මිනිස් වාසයට සුදුසු දැනටමත් හදුනාගෙන ඇති ග්‍රහලෝක කිහිපයට අයත් බවය.
+
+ග්ලීස් 12 බී ග්‍රහලෝකයේ මතුපිට උෂ්ණත්වය සෙල්සියස් අංශක 42ක් පමණ වන බවට ඇස්තමේන්තු ගත කර ඇති නමුත් එහි වායුගෝලය කෙබඳුද යන්න පිළිබඳව තවමත් අවිනිශ්චිත තත්ත්වයක පවතී.
+
+කෙසේවෙතත් මෙම ග්‍රහලෝකයේ පෘථිවියේ සිට ආලෝක වර්ෂ 40ක දුරින් පිහිටීම නිසා එය සමීපව නිරීක්ෂණයට බාධාවක් වී ඇති බව විද්‍යාඥයින් පවසයි.
+
+...
+
+[Data](articles/66fdc5bf.json)
+
+---
 
 ### People ... If you find them ...
 
@@ -49,6 +91,24 @@ If they find any information about them, the Ampara Police have asked the Ampara
 [Data](articles/ed60b7d4.json)
 
 [Extended Data](ext_articles/ed60b7d4.ext.json)
+
+---
+
+### New report reveals trends in social media regulation in Sri Lanka
+
+*2024-05-24 12:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/New-report-reveals-trends-in-social-media-regulation-in-Sri-Lanka/108-283291) · `en`
+
+Colombo -  A groundbreaking report titled "Social Media Regulation and Rule of Law: Key Trends in Sri Lanka, India, and Bangladesh" was recently unveiled in Colombo, offering insights into the complex interplay between social media regulation and the rule of law in these South Asian nations.
+
+Produced collaboratively by Konrad Adenauer Stiftung’s Rule of Law Programme Asia, LIRNEasia Sri Lanka, the Centre for Communication Governance (CCG) at the National Law University Delhi (NLUD) India, and the School of Law at BRAC University Bangladesh, the report delves into critical issues such as free speech, privacy, internet shutdowns, and content control.
+
+The report highlights the significant influence of social media on national security and human rights, underlining challenges such as:
+
+Liability Exemptions: Bangladesh and India offer conditional liability exemptions for third-party content hosted by intermediaries. However, recent legislative trends indicate a weakening of these protections.
+
+...
+
+[Data](articles/b477102f.json)
 
 ---
 
@@ -2231,81 +2291,5 @@ The cabinet had approved the development of battery storage system as public pri
 [Data](articles/cad7ee76.json)
 
 [Extended Data](ext_articles/cad7ee76.ext.json)
-
----
-
-### Approval to amend the Gun Command
-
-*2024-05-23 18:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196946) · `si`
-
-Cabinet approves amendments to the Gun-Ordinance Act, including updates to firearm license fees. The proposal, led by President Ranil Wickremesinghe, aims to align firearm issuance with the Gunkunic Equity Act and the Gun Amendment Act, focusing on both non-agricultural and agricultural uses. The Department of Defense holds 34,318 firearms, with annual licensing fees set to be revised to better suit current requirements.
-
-🟩
-
-Cabinet approval has been made to amend several clauses in the Gun-Ordinance Act to update firearm license fees.
-
-The proposal made by President Ranil Wickremesinghe as the Minister of Defense said:
-
-According to the Gunkunic Equity Act No. 33 of 1916 and the Gun Amendment Act No. 33 of 1996, firearms will be issued on non-agricultural and agricultural purposes.
-
-The Department of Defense is currently a 34,318 firearms and will be credited to the Treasury annually as the licensing fee.
-
-However, the licensing fee is being completely revised to meet the current needs, but the government has decided to revise the Gun-Ordinance Act.
-
-◼️
-
-[Data](articles/79c1e901.json)
-
-[Extended Data](ext_articles/79c1e901.ext.json)
-
----
-
-### A bus collapses in a muscle tree forwarding
-
-*2024-05-23 18:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196945) · `si`
-
-In Hatton, a SLTB bus en route to Kandy collided with a large tree due to adverse weather conditions, causing significant damage. The incident occurred near the Diyagala area on the main road. Authorities advise caution while driving during heavy rain and strong winds.
-
-🟩
-
-A SLTB bus, which was traveling from Hatton to Kandy, has collapsed a branch of a large tree.
-
-The accident had taken place in the Diyagala area in Hatton-Kandy main road.
-
-The SLTB bus, which was run from Hatton to Kandy due to inclement weather and strong winds in the western standard, the SLTB bus was touched from Hatton to Kandy.
-
-"The bus survived by the bus," says the police.
-
-The police calls on the public to take care of the vehicles of roads due to heavy rains and strong winds.
-
-◼️
-
-[Data](articles/a41b961c.json)
-
-[Extended Data](ext_articles/a41b961c.ext.json)
-
----
-
-### Korean language proficiency test results released
-
-*2024-05-23 17:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/99401/korean-language-proficiency-test-results-released) · `en`
-
-The Korean language proficiency test results related to the production and fisheries sectors have been released, the Sri Lanka Bureau of Foreign Employment (SLBFE) said.
-
-The SLBFE revealed that accordingly, 3,422 of those who sat for the Korean language proficiency test have passed by obtaining scores over the minimum pass mark.
-
-The total figure of passed candidates is 95.6% out of 3,580 individuals who faced the test, according to the SLBFE.
-
-Meanwhile, the relevant results will be made available on the official website of the SLBFE on 27 May 2024, and can be accessed via www.slbfe.lk, it announced.
-
-The SLBFE also said the medical examinations of the passed candidates will commence on May 28.
-
-Furthermore, the relevant interviews will be held on June 06, 07 and 10 at all the provincial offices of the SLBFE, Migrant Resource Centres and training centres, according to the SLBFE.
-
-◼️
-
-[Data](articles/6cc32bd3.json)
-
-[Extended Data](ext_articles/6cc32bd3.ext.json)
 
 ---

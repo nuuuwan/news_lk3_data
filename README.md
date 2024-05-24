@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-24 17:03:36**
+As of **2024-05-24 17:20:01**
 
 ## Newspaper Stats
 
-*Scraped **26,081** Articles*
+*Scraped **26,083** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,63 @@ islandlk | 1,410
 economynextcom | 1,501
 dailyftlk | 1,533
 adalk | 2,226
-adaderanalk | 2,992
+adaderanalk | 2,993
 tamilmirrorlk | 3,040
 virakesarilk | 3,979
 dailymirrorlk | 4,115
-adaderanasinhalalk | 4,166
+adaderanasinhalalk | 4,167
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,080 (100.0%) of 26,081 articles have been extended.
+26,081 (100.0%) of 26,083 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-24 (Friday)
+
+### Kusal Mendis and Asitha Fernando join T20 team in US after visa delay
+
+*2024-05-24 16:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/99416/kusal-mendis-and-asitha-fernando-join-t20-team-in-us-after-visa-delay-) · `en`
+
+Sri Lankan batsman Kusal Mendis and bowler Asitha Fernando have joined the Sri Lankan T20 team currently in the U.S. to take part in the upcoming ICC Men’s T20 World Cup, on Thursday (23).
+
+The two Sri Lankan cricketers were unable to leave the country with the team initially, as their US visas had not been approved in time. They were requested for more information related to an issue, according to Sri Cricket (SLC) officials.
+
+The 15-member Sri Lankan squad, led by Wanindu Hasaranga, will face the Netherlands on May 28 in their first warm-up match of the tournament.
+
+The ICC Men’s T20 World Cup 2024 will be held in the West Indies and USA from June 01 to June 29, 2024.
+
+Meanwhile, Sri Lanka is scheduled to face South Africa in their opening group-stage match on June 03.
+
+◼️
+
+[Data](articles/6c031ace.json)
+
+---
+
+### තවත් ගසක් මෝටර් රථයක් මතට කඩා වැටෙයි
+
+*2024-05-24 16:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196974) · `si`
+
+මහවැව, කොස්වාඩිය ප්‍රදේශයේ නවතා තිබූ මෝටර් රථයක් මතට ගසක් කඩා වැටී පුද්ගලයින් තිදෙනෙක් තුවාල ලබා තිබේ.
+
+අද (24) දහවල් මෙම අනතුර සිදුවු අතර, මෝටර් රථයේ සිටි පුද්ගලයින් තිදෙනෙක් මාරවිල මුලික රෝහලට ඇතුළත් කළ බව පුත්තලම දිස්ත්‍රික් ආපදා කළමණාකරණ ඒකකය හා අපදා සහන නිලධාරීන් පවසයි.
+
+හලාවත සිට කොළඹ බලා ගමන් කරමින් තිබු මෝටර් රථය කොස්වාඩිය ප්‍රදේශයේ දී නවතා තිබියදී නොසිතු ලෙස එම ස්ථානයේ තිබු දැවැන්ත ගසක් එකවර මෝටර් රථය මතට කඩා වැටී ඇත.
+
+අනතුරින් එකම පවුලේ සැමියා, බිරිඳ සහ හත් හැවිරිදි දියණිය මෙලෙස තුවාල ලබා තිබේ.
+
+මෝටර් රථයේ සිරවී සිටි සියලුදෙනාම මහතා පරිශ්‍රමයක් දරා එළියට ගැනීමට ප්‍රදේශවාසීන්ට හැකි වී තිබු අතර දියණිය හා අදාළ යුවළ දැඩි කම්පනයට පත්ව සිටි බව ඔවුන් පැවසීය.
+
+පසුගිය දින කිහිපය තුළ ගස් කඩා වැටීමේන් යතුරුපැදිවල ගමන් කළ කාන්තාවන් තිදෙනෙකු මරණයට පත් තිබිණි.
+
+◼️
+
+[Data](articles/405fe5c2.json)
+
+---
 
 ### Papua New Guinea is a hideous landslide
 
@@ -1202,23 +1244,63 @@ She says that the world should never forget the attack.
 
 ---
 
-### පවුල් ජීවිත අවුල් කරන අසීමාන්තික මව-පුතු  බැඳීම
+### Family mother-son join
 
 *2024-05-24 10:28:55* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/clmmxdnyz5go) · `si`
 
-බොහෝ යුවතියන් මෙන් රොෂෙල් ද යුග දිවියට එළඹුණේ දහසකුත් බලාපොරොත්තු පොදි බැඳ ගෙන ය. නමුත්, විවාහ වී වසරකුත් ගත වීමට ප්‍රථම ඇය මැවූ සිහින බිඳ වැටුණේ ඇය ද නොසිතු අයුරිනි.
+It seems like you've shared a detailed conversation involving various perspectives on family dynamics, especially focusing on the relationship between mothers, sons, and daughters-in-law. This discussion touches on several themes including cultural expectations, personal growth, and the challenges of balancing familial obligations with individual desires.
 
-මේ වන විට 29 හැවිරිදි වියේ පසුවන රොෂෙල් දික්කසාද නඩුවක පැමිණිලිකාර පාර්ශවය වී අවසන් ය. තම රැකියාවෙන් උපයා ගන්නා මුදල් නීති කටයුතු සඳහා වැය කිරීමට දැන් ඇයට  සිදුවී ඇත.
 
-රොෂෙල් යනු, මෙම ලිපියේ කතා නායිකාවගේ සත්‍ය නාමය වෙනුවට ඇයගේ අනන්‍යතාව සුරැකීම වෙනුවෙන් අප විසින් භාවිත කරනු ලබන අන්වර්ථ නාමයකි.
 
-ඉකුත් මාසයේ මෙරට මාධ්‍ය, රෙජිස්ට්‍රාර් ජනරාල් දෙපාර්තමේන්තුව උපුටා දක්වමින් සඳහන් කර තිබුණේ, 2020 වසරේ සිට "ශ්‍රී ලංකාවේ විවාහ වන්නන් අතර දික්කසාදවල ඉහළ යාමක්" දක්නට ලැබෙන බව ය.
+From the conversation, several key points emerge:
 
-රොෂෙල් විශ්වාස කරන පරිදි තම විවාහය දෙදරා යාමට බලපෑ ප්‍රධානතම සාධකය, තම ස්වාමි පුරුෂයා සහ ඔහුගේ මව අතර පැවති "පමණ ඉක්මවූ බැඳීම" ය. ඔවුන් වෙන්ව වෙනත් නිවසක වාසය කළ ද එය ඔවුන්ගේ පවුල් ජීවිතයට දිගින් දිගට ම බලපෑම් එල්ල කළ බව ඇගේ මතය යි.
+
+
+1. **Cultural Expectations vs. Personal Growth**: There's a tension between traditional cultural expectations (such as the importance of respecting elders and maintaining family harmony) and the need for individuals to grow and assert their independence. This is evident in the discussions around how sons and daughters-in-law navigate their relationships with their mothers.
+
+
+
+2. **Communication and Conflict Resolution**: Effective communication is highlighted as crucial in resolving conflicts within families. However, the conversation suggests that misunderstandings and miscommunications often lead to deeper rifts, especially when it comes to decisions regarding marriage and lifestyle choices.
+
+
+
+3. **Role of Elders in Decision Making**: The conversation underscores the significant influence elders, particularly mothers, have over their offspring's lives. This influence extends to whom they marry and how they conduct themselves post-marriage. However, it also raises questions about the autonomy of adults and the rights of spouses to make their own decisions.
+
+
+
+4. **Impact of External Interference on Marital Harmony**: External interference, especially from mothers, is seen as a source of stress and conflict in marriages. The conversation suggests that while parental advice and guidance can be beneficial, excessive involvement can undermine marital stability and happiness.
+
+
+
+5. **Psychological Perspectives**: The inclusion of psychiatric insights highlights the importance of mental health in family dynamics. Issues such as anxiety, depression, and the impact of societal pressures on mental well-being are discussed, emphasizing the need for empathy and understanding in family relationships.
+
+
+
+6. **Cultural Specificity**: The conversation reflects specific cultural nuances, particularly from a Sri Lankan perspective. Understanding these nuances is essential for addressing the unique challenges faced by families in different cultural contexts.
+
+
+
+In summary, the conversation delves into the complexities of family relationships, highlighting the interplay between cultural traditions, personal aspirations, and the evolving roles of family members. It underscores the importance of open communication, mutual respect, and the recognition of each individual's right to self-determination in fostering healthy and harmonious family dynamics.
+
+🟩
+
+Like many couples, Roshel was also married to a margin of thousand hopes. But she was unknown to her dreams that she had created before they were married.
+
+The complainant part of the 29-year-old rochelle was completed in a divorce case. She now has to spend money on the legal action earned by his job.
+
+Roshell is a nickname we use to protect her identity instead of the true name of the Leader of this article.
+
+The country's Department of Media, Registrar General of Sri Lanka, was indicated that 2020 has been seen in "a divorce between the marriages in Sri Lanka since 2020.
+
+The main factor in which Roshell believed to be diagnosed with her husband and his mother, the "bond exceeded" among his husband and his mother. It is her opinion that they have lived in another house separately, but it has continued their family life.
+
+Rochelle is a strong effort to protect his marriage. But the lack of seeking the law of the Law.
 
 ...
 
 [Data](articles/4957d12b.json)
+
+[Extended Data](ext_articles/4957d12b.ext.json)
 
 ---
 
@@ -2245,53 +2327,5 @@ The deceased was reportedly a 38 -year -old father of a child, who was born in a
 [Data](articles/d3807c5d.json)
 
 [Extended Data](ext_articles/d3807c5d.ext.json)
-
----
-
-### Motorcycle train crashes
-
-*2024-05-23 22:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/184341) · `ta`
-
-In a tragic incident, three youths aged 17-19 died after their motorcycle crashed into a train at a malfunctioning security crossing near Galle, Pussa, and Pindaliya junctions. The accident happened during a train journey from Maradana to Matara on a Thursday evening.
-
-🟩
-
-Three youths were killed when a motorcycle collided with a train at a security crossing at Galle, Pussa and Pindaliya junction.
-
-The accident occurred when a train traveling from Maradana to Matara.
-
-The accident took place on Thursday evening, police said.
-
-The three youths who died in the accident were between the ages of 17 and 19, police said.
-
-However, a preliminary investigation by the police revealed that three people were traveling on a motorcycle.
-
-It is noteworthy that the public had stated that the cross was not functioning properly.
-
-◼️
-
-[Data](articles/e695cfa1.json)
-
-[Extended Data](ext_articles/e695cfa1.ext.json)
-
----
-
-### Come on some food and come
-
-*2024-05-23 22:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196954) · `si`
-
-"Derana Dansala, Sri Lanka's largest event, is happening now at Independence Square, open 24/7."
-
-🟩
-
-Sri Lanka's biggest Daseline is currently being held at the Independence Square premises.
-
-You will come to Derana Dansala at the time of 24 hours.
-
-◼️
-
-[Data](articles/7489b9a4.json)
-
-[Extended Data](ext_articles/7489b9a4.ext.json)
 
 ---

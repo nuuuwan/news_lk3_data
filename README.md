@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-24 17:54:36**
+As of **2024-05-24 18:11:39**
 
 ## Newspaper Stats
 
-*Scraped **26,086** Articles*
+*Scraped **26,087** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,35 +20,65 @@ adaderanalk | 2,993
 tamilmirrorlk | 3,040
 virakesarilk | 3,981
 dailymirrorlk | 4,116
-adaderanasinhalalk | 4,167
+adaderanasinhalalk | 4,168
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,083 (100.0%) of 26,086 articles have been extended.
+26,086 (100.0%) of 26,087 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-24 (Friday)
 
-### இறுதிப் போட்டியில் கொல்கத்தாவை எதிர்த்தாடுவது ஹைதராபாத்தா? ராஜஸ்தானா? ; சென்னையில் இன்று இரண்டாவது தகுதிகாண் போட்டி
+### උතුර ට ගිය ජනපතිගෙන් පොරොන්දුවක්
+
+*2024-05-24 17:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196975) · `si`
+
+යුද්ධය නිසා උතුරු නැගෙනහිරට බලපෑ ප්‍රශ්න කඩිනමින් අවසන් කර එම ජනතාවට ද සංවර්ධනයේ ප්‍රතිලාභ ලබා දෙන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+
+උතුරු පළාත තුළ උසස් මට්ටමේ සෞඛ්‍ය සේවාවක් සහතික කිරීම වෙනුවෙන් යාපනය රෝහල නුදුරේදීම ජාතික රෝහලක් බවට පත් කිරීමට කටයුතු කරන බවත් දකුණු පළාත තුළ පැවති දීර්ඝකාලීන අවශ්‍යතාවයක් ඉටු කරමින් කරාපිටිය රෝහල ජාතික රෝහලක් බවට පත් කිරීමට අදාළ කැබිනට් අනුමැතිය හිමිවී ඇති බවද ජනාධිපතිවරයා සඳහන් කළේය.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මෙම අදහස් පළ කර සිටියේ යාපනය විශ්වවිද්‍යාලයේ වෛද්‍ය පීඨයේ ඉදිකළ සායනික පුහුණු සහ පර්යේෂණ අංශ ගොඩනැගිල්ල විවෘත කිරීමේ අවස්ථාවට අද (24) පෙරවරුවේ එක් වෙමිනි.
+
+මේ අතර "උරුමය "  වැඩසටහන යටතේ යාපනය දිස්ත්‍රික්කයේ ප්‍රාදේශීය ලේකම් කාර්යාල 15ම ආවරණය වන පරිදි සින්නක්කර ඔප්පු 1,286ක් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අතින් ජනතාවට ලබාදීම අද යාපනයේදී සිදුකෙරිණි.
+
+එමෙන්ම උතුරු පළාතට අයත් මුලතිව්, කිලිනොච්චිය, වවුනියාව හා මන්නාරම දිස්ත්‍රික්කවලට අදාළව "උරුමය" වැඩසටහන යටතේ සින්නක්කර ඔප්පු 13,858ක් ඉදිරියේදී ලබා දීමට නියමිතව තිබේ.
+
+◼️
+
+[Data](articles/462915bb.json)
+
+---
+
+### Is Hyderabad to oppose Kolkata in the final?Rajasthan?;The second qualifying competition in Chennai today
 
 *2024-05-24 17:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/184402) · `ta`
 
-கொல்கத்தா நைட் ரைடர்ஸ் அணிக்கு எதிராக எதிர்வரும் ஞாயிற்றுக்கிழமை நடைபெறவுள்ள 17ஆவது இண்டியன் பிறீமியர் லீக் அத்தியாத்தின் இறுதிப் போட்டியில்  விளையாடப் போகும் அணியைத் தீர்மானிக்கும் இரண்டாவது தகுதிகாண் போட்டி சென்னை சேப்பாக்கம் எம். ஏ. சிதம்பரம் விளையாட்டரங்கில் இன்று இரவு நடைபெறவுள்ளது.
+Hyderabad faces Kolkata in the IPL final after defeating Rajasthan in the qualifiers. Both teams have shown impressive performances, but Hyderabad's talent edge might give them an advantage. Key players like Travis Head and Abhishek Sharma could be crucial for Hyderabad, while Rajasthan may rely on their tried-and-tested lineup from the eliminator match.
 
-கொல்கத்தா நைட் ரைடர்ஸ் அணியுடனான முதலாவது தகுதிகாணில் தோல்வி அடைந்ததால் இன்றைய இரண்டாவது தகுதிகாண் போட்டியில் சன்ரைசர்ஸ் ஹைதராபாத் விளையாடவுள்ளது.
+🟩
 
-மறுபுறத்தில் தொடர்ச்சியாக தோல்விகளைத் தழுவிவந்த நிலையில் நீக்கல் போட்டியில் பலம்வாய்ந்த றோயல் செலஞ்சர்ஸ் பெங்களூரு அணியை வெற்றிகொண்டதன் மூலம் ராஜஸ்தான் றோயல்ஸ் இரண்டாவது தகுதிகாணில் விளையாட தகுதிபெற்றது.
+The second qualifying tournament to play in the final of the 17th Indian Premier League League Athathi will be held against Kolkata Knight Riders on Sunday.. A.. The Chidambaram Stadium will be held tonight.
 
-சன்ரைசர்ஸ் ஹைதராபாத் மற்றும் ராஜஸ்தான் றோயல்ஸ் ஆகிய இரண்டு அணிகளில் எந்த அணி பலம் வாய்ந்தது என தீர்மானிப்பது கடினமானது.
+Sunrisers Hyderabad will play in today's second qualifying match as they lost their first qualification against Kolkata Knight Riders.
 
-ஆனால், லீக் போட்டிகளில் இரண்டு அணிகளினதும் ஆற்றல் வெளிப்பாடுகளை நோக்கும் போது சன்ரைசர்ஸ் ஹைதராபாத்தின் திறமை சற்று மேலோங்கி இருப்பதைக் காணலாம்.
+On the other hand, Rajasthan Royals qualified to play in the second qualification by winning the Royal Challengers Bangalore team in the elimination match.
+
+It is difficult to determine which team is strong in the two teams - Sunrisers Hyderabad and Rajasthan Royals.
+
+But when looking at the energy manifestations of the two teams in the league matches, Sunrisers Hyderabad's talent is slightly overwhelmed.
+
+Sunrisers Hyderabad took the pride of renewing it in the tournament.
+
+Sunrisers Hyderabad's record of 263 runs for the loss of 5 wickets in 2013 against the Royal Challengers Pune Warriors in 2013 is revealed by 3 times this year.
 
 ...
 
 [Data](articles/17ae2046.json)
+
+[Extended Data](ext_articles/17ae2046.ext.json)
 
 ---
 
@@ -65,6 +95,8 @@ The Minister said there is no policy for tree planting in Sri Lanka where anyone
 ...
 
 [Data](articles/8979d115.json)
+
+[Extended Data](ext_articles/8979d115.ext.json)
 
 ---
 
@@ -188,21 +220,27 @@ Social media footage posted by Role showed people clambering over rocks, uproote
 
 ---
 
-### ஹப்புத்தளை - தியத்தலாவை வீதியில் மரங்கள் முறிந்து வீழ்ந்ததால் போக்குவரத்து பாதிப்பு
+### Haputale - Diyathalawa road
 
 *2024-05-24 15:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/184387) · `ta`
 
-நாட்டில் நிலவுகின்ற கடும் மழை மற்றும் பலத்த காற்றுடன் கூடிய மோசமான காலநிலை காரணமாக இன்று வெள்ளிக்கிழமை (24) அதிகாலை ஹப்புத்தளைக்கும் தியத்தலாவைக்கும் இடைப்பட்ட பகுதியில் பாரிய கராபன்டைன் மரங்கள் முறிந்து வீழ்ந்ததால் அவ்வீதியில் போக்குவரத்து முற்றாக தடைப்பட்டிருந்ததாக தியத்தலாவை பொலிஸார் தெரிவித்தனர்.
+Heavy rains and winds caused significant damage in Sri Lanka, blocking roads like Haputale-Diyathalawa due to fallen karapandine trees. Authorities advise using alternative routes such as Bandarawela road via Diyatalawa Udapara Kahagolla. Efforts are underway to clear the debris, involving local law enforcement and disaster management teams.
 
-அத்துடன், அப்பகுதியில் உள்ள கராபன்டைன் மரங்கள் மற்றும் பாரிய மரங்கள் எந்த நேரத்திலும் விழக்கூடிய அபாயம் காணப்படுவதாக சாரதிகளும் பிரதேசவாசிகளும் தெரிவித்துள்ளனர்.
+🟩
 
-இந்த வீதியை பயன்படுத்துவோர் மாற்றுவீதிகளை பயன்படுத்துமாறும், மாற்றுவீதியூடாக தியத்தலாவை உடபர கஹகொல்ல ஊடாக பண்டாரவளை வீதியை பயன்படுத்துமாறும் தியத்தலாவை பொலிஸ் நிலைய பிரதான பொலிஸ் பரிசோதகர் சாகர தயாரத்ன தெரிவித்தார்.
+Diyathalawa police said that the traffic was completely blocked due to heavy rains and strong winds in the country due to the collapse of massive karapandine trees between Haputtala and Diyathala in the early hours of Friday morning.
 
-மேலும், தியத்தலாவை இராணுவம், தியத்தலாவை பொலிஸார், ஹப்புத்தளை விசேட அதிரடிப்படை, ஹப்புத்தளை பிரதேச சபை, ஹப்புத்தளை பிரதேச செயலகம் ஆகியவற்றின் அனர்த்த பிரிவின் குழுக்கள் இணைந்து பிரதான வீதியில் வீழ்ந்துள்ள மரங்களை அகற்றும் பணியில் ஈடுபட்டுள்ளதாக பதுளை அனர்த்த முகாமைத்துவ நிலையத்தின் பிரதிப் பணிப்பாளர் தெரிவித்தார்.
+Drivers and residents have said that there is a risk that there is a risk of karapantine trees and massive trees in the area at any time.
+
+The Chief Inspector of the Police Station, Sagara, said that the people who use this road to use alternatives and to use the Bandarawela road via Diyatalawa Udapara Kahagolla.
+
+The Deputy Director of the Badulla Disaster Management Center said that the Diyathalawa Army, Diyathalawa Police, Haputale Special Task Force, Haputale Pradeshiya Sabha and Haputtala Divisional Secretariat are working on the removal of trees that have fallen on the main road.
 
 ◼️
 
 [Data](articles/2f5289c8.json)
+
+[Extended Data](ext_articles/2f5289c8.ext.json)
 
 ---
 
@@ -2287,31 +2325,5 @@ When asked whether speculations that Parliament would be dissolved by June 15, h
 [Data](articles/eda05f29.json)
 
 [Extended Data](ext_articles/eda05f29.ext.json)
-
----
-
-### Traffic impacts due to falling down the tree
-
-*2024-05-23 23:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/184346) · `ta`
-
-A massive tree collapse in Norton Mikford disrupted traffic and daily life due to heavy rains causing landslides and soil erosion risks. Residents and authorities are clearing the debris, urging caution on roads prone to landslides and tree falls.
-
-🟩
-
-The massive tree in the Norton Mikford area on the main road of Attan Luxbana has collapsed on Thursday 23rd.
-
-Residents and Road Development Authority employees are working on cutting the tree. The people's normal life has been greatly affected by heavy rains in the hill country over the past few days.
-
-Heavy rains have caused the risk of landslides in many places on the main streets of Hatton and Hatton Nuwara Eliya. Traffic police have warned that motorists traveling on these roads should be very careful.
-
-The Risk Management Center has requested that the people living near the mudslides and the mountains should be very careful due to the risk of soil decline in many areas due to continuous rainfall.
-
-Meanwhile, the public should be very observed by the rain and the danger of breaking the trees due to heavy winds, while the drivers who drive the vehicle lights are on the road to the Nuwara Eliya Attan main road and the snowfall on the Nanuoya bungalow area and the Nanuoya cross road.
-
-◼️
-
-[Data](articles/8e28bba1.json)
-
-[Extended Data](ext_articles/8e28bba1.ext.json)
 
 ---

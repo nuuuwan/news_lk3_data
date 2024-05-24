@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-24 15:34:04**
+As of **2024-05-24 15:52:52**
 
 ## Newspaper Stats
 
-*Scraped **26,068** Articles*
+*Scraped **26,074** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,64 +19,120 @@ adalk | 2,226
 adaderanalk | 2,991
 tamilmirrorlk | 3,040
 virakesarilk | 3,978
-dailymirrorlk | 4,107
-adaderanasinhalalk | 4,164
+dailymirrorlk | 4,112
+adaderanasinhalalk | 4,165
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,063 (100.0%) of 26,068 articles have been extended.
+26,068 (100.0%) of 26,074 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-24 (Friday)
 
-### போராட்டத்தில் ஈடுபட்டவர்களையும் ஊடகவியலாளர்களையும் படமெடுத்து அச்சுறுத்திய பொலிஸார்
+### කුසල් සහ අසිත ශ්‍රී ලංකා සංචිතය හා එක්වෙයි
+
+*2024-05-24 15:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196972) · `si`
+
+විස්සයි විස්ස ලෝක කුසලාන ක්‍රිකට් තරගාවලිය වෙනුවෙන් ශ්‍රී ලංකා ආරම්භක පිතිකරු කුසල් මෙන්ඩිස් සහ වේග පන්දු යවන ක්‍රීඩක අසිත ප්‍රනාන්දු ශ්‍රී ලංකා සංචිතය සමඟ ඊයේ (23)  එක්ව තිබේ.
+
+වීසා ගැටලුවක් හේතුවෙන් මොවුන්ට අමෙරිකාව බලායෑමට නොහැකිවූ අතර,  පසුව එය නිරාකරණය කරගැනීමත් සමග ඊයේ සංචිතයට එක්ව ඇත.
+
+එළඹෙන පන්දුවාර විස්සයි 20 ලෝක කුසලාන ක්‍රිකට් තරගාවලිය සඳහා නම් කළ ශ්‍රී ලංකා ක්‍රිකට් සංචිතය පසුගිය දා ප්‍රකාශයට පත් කෙරුණි.
+
+වනිඳු හසරංගගේ නායකත්වයෙන් යුත් මෙම සංචිතය සඳහා ක්‍රීඩකයින් 15 දෙනෙකු ඇතුළත් ය.
+
+ඒ අනුව ලෝක කුසලානයට සහභාගී වන 15 දෙනෙකුගෙන් සමන්විත ශ්‍රී ලංකා සංචිතය මැයි මස 14 වන දා දිවයිනෙන් පිටත්ව ගියේය.
+
+පන්දුවාර 20 -20 ලෝක කුසලාන ක්‍රිකට් තරගාවලිය ජුනි 01 වනදා සිට 29 වනදා දක්වා අමෙරිකාවේ සහ බටහිර ඉන්දීය කොදෙව් හිදී පැවැත්වීමට නියමිතය.
+
+◼️
+
+[Data](articles/50c25ba7.json)
+
+---
+
+### Police threatened and threatened the protesters and journalists
 
 *2024-05-24 15:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/184384) · `ta`
 
-தையிட்டியில் அமைந்துள்ள சட்டவிரோத திஸ்ஸ விகாரைக்கு எதிரான போராட்டத்தில் ஈடுபட்ட போராட்டக்காரர்களையும், ஊடகவியலாளர்களையும் அங்கிருந்த பொலிசார் கைத்தொலைபேசியில் புகைப்படம் எடுத்து அச்சுறுத்தும் விதத்தில் செயல்பட்டுள்ளனர்.
+Protesters and journalists faced threats from police over an illegal temple issue. The police, including those from the Palali station, used mobile phones to communicate during the incident.
 
-இதன்போது அவ்விடத்திற்கு பலாலி பொலிஸ் நிலைய பொறுப்பதிகாரி வருகை தந்தவேளை, "பலாலி பொலிஸ் நிலைய பொறுப்பதிகாரி ஒரு கொலைகாரன், பலாலி பொலிஸ் நிலைய பொறுப்பதிகாரி ஒழிக" என கூச்சலிட்டனர்.
+🟩
+
+The police and the journalists who were protesting against the illegal Tissa Vihara located in Tittitti have been working on a mobile phone.
+
+When the Palali Police Station was in charge of the site, the police shouted, "Palali police officer in charge of the Palali Police Station, Palali Police Station Officer."
 
 ◼️
 
 [Data](articles/a722f7eb.json)
 
+[Extended Data](ext_articles/a722f7eb.ext.json)
+
 ---
 
-### இறுதி யுத்தத்தில் இராணுவத்தினரால் கைதுசெய்யப்பட்டு மிக மோசமான சித்திரவதைகளை அனுபவித்த – யுத்தத்தினால் பாதிக்கப்பட்ட பெண்களின் உரிமைக்காக குரல்கொடுக்கும்  சுகந்தினிக்கு கொரியாவில் உயர் விருது
+### Sukandini is a high award in Korea for the rights of war -affected women who have been arrested by the military in the final war and suffered the worst torture
 
 *2024-05-24 15:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/184386) · `ta`
 
-ஈழதமிழ் பெண்களின் உரிமைக்காக குரல்கொடுக்கும் மனித உரிமை செயற்பாட்டாளர் சுகந்தினி மதியமுதன் தங்கராஜிற்கு தென்கொரியாவின் மே18 நினைவு அறக்கட்டளை 2024 குவாங்ஜூ விருதினை வழங்கி கௌரவித்துள்ளது.
+Sukandini Mathiyamudhan Thangaraj, a human rights activist, received the 2024 Guangzhou Award for her work advocating for Eelam Tamil women's rights, particularly those affected by war. She launched the Amara system to empower these women. The May 18 Memorial Foundation recognizes Sukandini as a symbol of courage, highlighting her efforts to improve the lives of Tamil women in Sri Lanka. Her activism aims to shed light on the injustices faced by these women, emphasizing the importance of international support.
 
-இலங்கை அரசாங்கத்தினதும் அதன் பாதுகாப்பு படையினரினதும் ஒடுக்குமுறையால் பாதிக்கப்பட்டுள்ள -யுத்தத்தினால் பாதிக்கப்பட்ட தமிழ் பெண்களின் உரிமைகள் அவர்களை வலுப்படுத்துதல் ஆகியவற்றிற்காக அமரா என்ற அமைப்பை ஆரம்பித்து சுகந்தினி தனது செயற்பாடுகளை முன்னெடுத்துவருகின்றார்.
+🟩
 
-இராணுவத்திடம் அனைத்தையும் இழந்த பல பெண்களிற்கு நம்பிக்கையை  ஏற்படுத்துபவராக துணிச்சல் தைரியத்தின் அடையாளமாக சுகந்தினி காணப்படுகின்றார் என மே 18 நினைவு அறக்கட்டளை தெரிவித்துள்ளது.
+South Korea's May 18 Memorial Foundation has honored the 2024 Guangzhou Award for Human Rights activist Sukandini Mathiyamudhan Thangaraj, who voices the rights of Eelam Tamil women.
 
-சுகந்தினியின் செயற்பாடுகள் எங்கள் அமைப்பின் உணர்வுகளோ நெருக்கமானதாக காணப்படுகின்றது என கருதுகின்றோம் என தெரிவித்துள்ள மே 18 நினைவு அறக்கட்டளை இலங்கையில் தமிழ் பெண்களின் மனித உரிமை நிலவரத்தில் மாற்றங்களை ஏற்படுத்துவதற்கான அவரது முயற்சிகளிற்கு உறுதியான ஆதரவை வழங்குகின்றோம் எனவும் தெரிவித்துள்ளது.
+Sukandini is carrying out his activities by launching the Amara system to strengthen the rights of Tamil women affected by the war -affected war -torn Tamil women.
+
+The May 18 Memorial Foundation said that Sukandini is seen as a symbol of courage to give confidence to many women who lost everything from the military.
+
+The May 18 Memorial Foundation, May 18 Memorial Foundation, said that Sukandini's actions are close to our organization, we are giving her efforts to change the situation of Tamil women in Sri Lanka.
+
+The organization said that the concern, attention, cooperation and support of the international community would help to come to light the iniquities of the soldiers.
+
+Sukandini has said that I have joined the liberation movement for two reasons.
 
 ...
 
 [Data](articles/fbd12776.json)
 
+[Extended Data](ext_articles/fbd12776.ext.json)
+
 ---
 
-### கிளிநொச்சியில் இருந்து யாழ்ப்பாணத்திற்கு பேருந்தில் கொண்டுவரப்பட்ட மான் கொம்பு!
+### Deer horn brought by bus from Kilinochchi to Jaffna
 
 *2024-05-24 15:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/184382) · `ta`
 
-கிளிநொச்சியில் இருந்து யாழ்ப்பாணத்திற்கு  பேருந்தில் மான் கொம்பு கொண்டுவரப்பட்ட சம்பவமொன்று பதிவாகியுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+A man transporting a deer horn from Kilinochchi to Jaffna was arrested by police on 24th after intelligence unit tip-off.
 
-இதன் போது,  மான் கொம்பு கொண்டுவந்தவர் பொலிஸாரால் இன்று வெள்ளிக்கிழமை (24)  கைது செய்யப்பட்டுள்ளார்.
+🟩
 
-யாழ்ப்பாண பிராந்திய பொலிஸ் புலனாய்வு பிரிவிற்கு கிடைத்த தகவலின் அடிப்படையில்  குறித்த கைது நடவடிக்கை மேற்கொள்ளப்பட்டது.
+Police said that a bus was brought to Jaffna from Kilinochchi to Jaffna.
+
+The man who brought the deer horn was arrested by the police today (24).
+
+The arrest was taken based on information received by the Jaffna Regional Police Intelligence Unit.
 
 ◼️
 
 [Data](articles/13a205cc.json)
+
+[Extended Data](ext_articles/13a205cc.ext.json)
+
+---
+
+### Wild dance of nature...
+
+*2024-05-24 15:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Wild-dance-of-nature/110-283297) · `en`
+
+Gusty winds sweep through Colombo, bringing both chaos and joy. Amidst the flurry of leaves and scattered debris, some find exhilaration in the tempest, their faces alight with delight as they embrace the wild dance of nature. Pix by Nisal Baduge
+
+◼️
+
+[Data](articles/b7374db3.json)
 
 ---
 
@@ -98,13 +154,15 @@ In addition, the central bank also faced a conflict of interest because it had a
 
 [Data](articles/e83ef311.json)
 
+[Extended Data](ext_articles/e83ef311.ext.json)
+
 ---
 
 ### Sri Lanka rejects inclusion of Cuba on list of terrorist states
 
 *2024-05-24 14:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/99414/sri-lanka-rejects-inclusion-of-cuba-on-list-of-terrorist-states) · `en`
 
-Colombo, May 23 (Prensa Latina) The Joint Committee of Democratic Unions of Sri Lanka confirmed its support for Cuba’s declaration demanding its fair elimination from the list of states sponsors of terrorism created by the United States.
+The Joint Committee of Democratic Unions of Sri Lanka confirmed its support for Cuba’s declaration demanding its fair elimination from the list of states sponsors of terrorism created by the United States.
 
 The organization confirmed in a statement that adding Cuba to the arbitrary list has political purposes and causes serious economic problems for the Cuban people, despite which Cuba resists and is an example for the people who fight against imperialism.
 
@@ -162,6 +220,22 @@ Very strong winds 60-70 kmph, accompanied with heavy rainfalls and very rough se
 
 ---
 
+### Fishing communities cautioned over cyclonic storm
+
+*2024-05-24 14:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Fishing-communities-cautioned-over-cyclonic-storm/108-283300) · `en`
+
+Colombo, May 24 (Daily Mirror) - A looming cyclonic storm poses a significant threat to the South-Eastern Arabian Sea and the Bay of Bengal areas, prompting urgent warnings to naval and fishing communities to exercise extreme caution.
+
+The low-pressure area over the South-West Bay of Bengal has intensified into a depression, now centered near 15.0°N and 88.4°E as of 05:30 a.m. today.
+
+According to the latest forecasts by meteorological authorities, the depression is anticipated to continue its North-Eastward trajectory, consolidating into a cyclonic storm over the east-central Bay of Bengal by 05:30 a.m. tomorrow, May 25, 2024. Subsequently, it is expected to track northwards, intensifying further into a severe cyclonic storm over the same region by 11:30 p.m. tomorrow.
+
+...
+
+[Data](articles/e98c60bc.json)
+
+---
+
 ### Strong wind blows;Be careful ...
 
 *2024-05-24 14:34:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பலத்த-காற்று-வீசும்-அவதானமாக-இருங்கள்/175-337812) · `ta`
@@ -207,6 +281,26 @@ It is reported that the search effort has been slightly delayed as the sea is st
 [Data](articles/ff651b20.json)
 
 [Extended Data](ext_articles/ff651b20.ext.json)
+
+---
+
+### Health officials raise alarm over hygiene standards at Dansals
+
+*2024-05-24 14:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Health-officials-raise-alarm-over-hygiene-standards-at-Dansals/108-283299) · `en`
+
+Colombo, May 24 (Daily Mirror) -  As relentless rainfall continues, health authorities are sounding the alarm on hygiene standards at dansals during the Vesak festival.
+
+A senior official from the Health Ministry disclosed to the Daily Mirror that they have instructed local Medical Officers of Health and Public Health Inspectors to intensify monitoring of hygiene practices at dansals.
+
+Furthermore, health authorities have issued a public notice urging immediate reporting to the nearest Medical Officer of Health or Public Health Inspector if any food served at dansals is deemed unsafe or unfit for consumption.
+
+Despite regular inspections conducted by Public Health Inspectors (PHIs) during the Vesak festival, Head of the PHI Union Upul Rohan told Daily Mirror that certain dansals have failed to meet the required hygiene standards.
+
+“We will take necessary action against operators of the such dansals,” he stressed.
+
+...
+
+[Data](articles/38469668.json)
 
 ---
 
@@ -300,6 +394,24 @@ The application sought to challenge an earlier decision by the Court of Appeal, 
 
 ---
 
+### SC overturns Appeal Court order over case against Ravi Karunanayake
+
+*2024-05-24 13:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/SC-overturns-Appeal-Court-order-over-case-against-Ravi-Karunanayake/155-283292) · `en`
+
+May 24 - The Supreme Court of Sri Lanka has today granted special leave to appeal in a high-profile bribery case against former Minister of Finance Ravi Karunanayake.
+
+The case centers around allegations that Karunanayake accepted an apartment from Arjun Aloysius, a director of a primary dealer company.
+
+This development follows the submission of a special leave to appeal application by the Commission to Investigate Allegations of Bribery or Corruption (CIABOC).
+
+The application sought to challenge an earlier decision by the Court of Appeal, which had overruled a preliminary objection raised by CIABOC. The objection contended that the accused, Karunanayake, did not have the right to appeal against an interim order of the High Court.
+
+...
+
+[Data](articles/a3b56fb3.json)
+
+---
+
 ### Do you find the right planet to live like Earth?
 
 *2024-05-24 13:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196968) · `si`
@@ -332,21 +444,27 @@ The Warwick University of Warwick, Dr. Thomas Wilson said, "It will help us to h
 
 ---
 
-### விபத்தில் படுகாயமடைந்தவர் சிகிச்சை  பலனின்றி உயிரிழப்பு!
+### The victim of the accident dies without treatment
 
 *2024-05-24 13:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/184369) · `ta`
 
-விபத்தில் சிக்கி படுகாயமடைந்த நிலையில் யாழ்.போதனா வைத்தியசாலையில் சிகிச்சை பெற்று வந்த கிளிநொச்சியை சேர்ந்த நபர் ஒருவர் சிகிச்சை பலனின்றி நேற்று வியாழக்கிழமை (23)  உயிரிழந்துள்ளார்.
+Thambirasa Ravischandran, a 35-year-old from Kilinochchi, passed away at Jaffna Bodhana Hospital after being transferred from Kilinochchi District Hospital for further treatment.
 
-கிளிநொச்சி வட்டக்கச்சி பகுதியைச் சேர்ந்த தம்பிராசா ரவிசந்திரன் (வயது 35) என்பவரே உயிரிழந்துள்ளார்.
+🟩
 
-கனகபுரம் பகுதியில் கடந்த 17ஆம் திகதி இடம்பெற்ற விபத்தில் படுகாயமடைந்த நிலையில் கிளிநொச்சி மாவட்ட வைத்தியசாலையில் அனுமதிக்கப்பட்டவர் அங்கிருந்து மேலதிக சிகிச்சைக்காக யாழ்.போதனா வைத்தியசாலைக்கு மாற்றப்பட்டார்.
+A man from Kilinochchi, who was receiving treatment at the Jaffna Bodhana Hospital, died on Thursday (23).
 
-இதேவேளை, போதனா வைத்தியசாலையில் சிகிச்சை பெற்று வந்த நிலையில் சிகிச்சை பலனின்றி நேற்றைய தினம் உயிரிழந்துள்ளார்.
+The deceased is Thambirasa Ravischandran (age 35) from Vattakachi, Kilinochchi.
+
+The person who was admitted to the Kilinochchi District Hospital was transferred to the Jaffna Bodhana Hospital for further treatment.
+
+Meanwhile, he died yesterday after receiving treatment at the teaching hospital.
 
 ◼️
 
 [Data](articles/dfa6722b.json)
+
+[Extended Data](ext_articles/dfa6722b.ext.json)
 
 ---
 
@@ -1376,6 +1494,26 @@ Plantations and worker unions ended collective bargaining after President Gotaba
 
 ### Snap general election to follow presidential election immediately
 
+*2024-05-24 08:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Snap-general-election-to-follow-presidential-election-immediately/108-283278) · `en`
+
+Colombo, May 24 (Daily Mirror)- A snap general election will follow immediately after the presidential elections to be concluded in October, this year, the Daily Mirror learns.
+
+President Ranil Wickremesinghe is reported to have ruled out his intention to declare a snap general election ahead of or during the presidential poll. He has told the Cabinet ministers that a parliamentary election will follow the presidential elections.
+
+It is politically sensible that a snap election will be declared whoever wins the presidential elections in October instead of waiting till the scheduled time for such an election in the
+
+Any candidate who wins will choose to have a new Parliament with a majority for his party or alliance. It is natural in Sri Lankan political culture for the party that wins presidential
+
+Last time, the general election was conducted in August, 2020. The Election Commission is bound legally to conduct any election declared in terms of the Constitution. Also, there are
+
+...
+
+[Data](articles/062d944a.json)
+
+---
+
+### Snap general election to follow presidential election immediately
+
 *2024-05-24 08:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Snap-general-election-to-follow-presidential-election-immediately/155-283278) · `en`
 
 Colombo, May 24 (Daily Mirror)- A snap general election will follow immediately after the presidential elections to be concluded in October, this year, the Daily Mirror learns.
@@ -2159,135 +2297,5 @@ The deceased is a 23 year old resident of the area and the other was seriously i
 [Data](articles/e22da49c.json)
 
 [Extended Data](ext_articles/e22da49c.ext.json)
-
----
-
-### 'Buddha Rashmi' Vesak Zone opens
-
-*2024-05-23 21:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Buddha-Rashmi-Vesak-Zone-opens/110-283275) · `en`
-
-The Gangaramaya 'Buddha Rashmi' Vesak Zone was declared open by President Ranil Wickremesinghe this evening. Pix by Nimalsiri Edirisinghe
-
-◼️
-
-[Data](articles/f7ba54a6.json)
-
-[Extended Data](ext_articles/f7ba54a6.ext.json)
-
----
-
-### Twenty trees fallen in Colombo due to inclement weather
-
-*2024-05-23 21:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Twenty-trees-fallen-in-Colombo-due-to-inclement-weather/108-283265) · `en`
-
-Colombo, May 23 (Daily Mirror)- At least 20 trees in the Colombo city had fallen due to inclement weather conditions that prevailed during the past few days.
-
-Commissioner Colombo Municipal Council (CMC) Badrani Jayawardene told Daily Mirror that these trees that are located along the streets and at the Viharamahadevi Park due to gushing winds.
-
-One tree along Maitland Crescent fell last morning but was cleared by evening while one tree near Sirimavo Bandaranaike Mawatha and one near Borella Kanatte and few within the park had come down during the past few days.
-
-“The Fire Brigade and the two other teams have been kept on alert for any emergency and they have already gone into action to clear the fallen trees,” she said.
-
-“We have decided to remove or trim the branches of the trees which have been found to be dangerous by botanical experts,” she added.
-
-...
-
-[Data](articles/0a98af92.json)
-
-[Extended Data](ext_articles/0a98af92.ext.json)
-
----
-
-### The Marga Dialogue: Nationalism and centre-left
-
-*2024-05-23 20:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/The-Marga-Dialogue-Nationalism-and-centre-left/172-283274) · `en`
-
-Dr. Dayan Jayatilleka’s collection of essays, titled: “Interventions: Selected Political Writings”.
-
-...
-
-[Data](articles/f3f6cad7.json)
-
-[Extended Data](ext_articles/f3f6cad7.ext.json)
-
----
-
-### The information of the Sri Lankans entered into ISIS
-
-*2024-05-23 20:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196951) · `si`
-
-A Sri Lankan man was arrested in Maligawatta for alleged links to ISIS. Investigations led by the Terrorism Investigation Division (TID) uncovered connections between local individuals and ISIS members arrested in India. The TID is probing four Sri Lankans involved in drug trafficking and suspected terrorist activities against Jews, Christians, and Indian leaders.
-
-🟩
-
-In Maligawatte, a Sri Lankan has been arrested in Maligawatta
-
-Investigations Officials reveal that Mohamed Nugrean, who was arrested in India, is a son of a large scale drug dealer Pottt.
-
-A investigating team was appointed under the supervision of the DIG in charge of the IGP to investigate the Sri Lankan ISIS members who were arrested in India.
-
-It contained in the Terrorism Investigation Division and requested the four Sri Lankans who were arrested in India at present.
-
-In such a background, the four persons have already begun a separate investigation into the people in Sri Lanka.
-
-As a result, a person has been arrested in Maligawatta in Maligawatta.
-
-Investigators say that he is a different directories, including providing air tickets.
-
-The suspect is currently being interrogated in the Terrorist Investigation Division.
-
-Meanwhile, the following four ISIS members had gone to Chennai through the Katunayake airport by the Nightland Airport on the 19th.
-
-...
-
-[Data](articles/801d3f1c.json)
-
-[Extended Data](ext_articles/801d3f1c.ext.json)
-
----
-
-### Motorcycle collided with train: three youths die
-
-*2024-05-23 20:51:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயிலுடன்-மோதிய-மோட்டார்-சைக்கிள்-மூன்று-இளைஞர்கள்-பலி்/175-337798) · `ta`
-
-A tragic accident occurred when a motorcycle collided with a train near Galle, resulting in the deaths of three young individuals aged 17 to 19. The incident happened as the train was moving from Maradana to Matara.
-
-🟩
-
-Three youths have been killed when a motorcycle crashed into a train at the Galle - Pussa and Bindaliya railway line this evening.
-
-The accident occurred when a train traveling from Maradana to Matara collided.
-
-The three youths who died in the accident were between the ages of 17 and 19, police said.
-
-However, the preliminary inquiry by the police revealed that three people were traveling on a motorcycle on a motorcycle.. Remble
-
-◼️
-
-[Data](articles/2f5b3a8e.json)
-
-[Extended Data](ext_articles/2f5b3a8e.ext.json)
-
----
-
-### Three youth killed in train
-
-*2024-05-23 20:45:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயிலில்-மோதுண்டு-3-இளைஞர்கள்-பலி/175-337797) · `ta`
-
-In separate incidents, three youths were fatally injured: two in a train crash at Pindaliya Railway Cross, Kindota, and one in a motorcycle accident involving the Ruhunu Kumari train.
-
-🟩
-
-Three youths were killed in a train accident at Pindaliya Railway Cross in Kindota, police said.
-
-Three youths on a motorbike were killed when the Ruhunu Kumari Kumari, who was traveling from Maradana to Matara, was killed, the Galle Police Superintendent's Office said.
-
-Three youths aged twenty -year -olds from Kekila Mandia, who belong to the Telikada Police Division, died.
-
-◼️
-
-[Data](articles/5fb57612.json)
-
-[Extended Data](ext_articles/5fb57612.ext.json)
 
 ---

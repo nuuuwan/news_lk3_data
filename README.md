@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-24 14:52:39**
+As of **2024-05-24 15:03:38**
 
 ## Newspaper Stats
 
-*Scraped **26,060** Articles*
+*Scraped **26,062** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,77 +16,129 @@ islandlk | 1,410
 economynextcom | 1,500
 dailyftlk | 1,533
 adalk | 2,226
-adaderanalk | 2,989
+adaderanalk | 2,990
 tamilmirrorlk | 3,040
 virakesarilk | 3,974
 dailymirrorlk | 4,107
-adaderanasinhalalk | 4,163
+adaderanasinhalalk | 4,164
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,057 (100.0%) of 26,060 articles have been extended.
+26,060 (100.0%) of 26,062 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-24 (Friday)
 
-### பலத்த காற்று வீசும் ; அவதானமாக இருங்கள்...
+### විදුලිය බිඳ වැටීම් ගැන විදුලිබල මණ්ඩලයෙන් දැනුම්දීමක්
+
+*2024-05-24 14:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196971) · `si`
+
+අයහපත් කාලගුණ තත්ත්වය හේතුවෙන් සිදුවන විදුලි බිඳවැටීම් යථා තත්ත්වයට පත්කිරීමේ දී සිදුවන ප්‍රමාදයන් පිළිබඳව කනගාටුව ප්‍රකාශ කරමින් ලංකා විදුලිබල මණ්ඩල ඉංජිනේරු සංගමය නිවේදනයක් නිකුත් කර තිබේ.
+
+ආපදා තත්ත්වයන් යටතේ ඇතැම් ප්‍රදේශවල බෙදාහැරීම් ‍වෝල්ටීයතා විදුලි රැහැන් මාර්ග විශාල ප්‍රමාණයක් මෙන්ම transformer මතට පවා ගස් කඩා වැටී විදුලිය බිඳ වැටී ඇත.
+
+මේ සම්බන්ධයෙන් විදුලිබල මණ්ඩල ඉංජිනේරු සංගමය නිකුත් කළ නිවේදනය පහතින් දැක්වේ.
+
+◼️
+
+[Data](articles/d2d87d09.json)
+
+---
+
+### Warning issued for fishing and naval communities over cyclonic storm
+
+*2024-05-24 14:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/99413/warning-issued-for-fishing-and-naval-communities-over-cyclonic-storm) · `en`
+
+The Department of Meteorology has issued a ‘red’ warning for strong winds and rough seas for naval and fishermen communities in the deep-sea areas in the South-eastern Arabian Sea and in the Bay of Bengal.
+
+The ‘red’ alert states that a low-pressure area over south west Bay of Bengal has intensified into a Depression and lay centered near 15.0°N and 88.4°E at 05.30 a.m. of today (24 May).
+
+It is likely to continue to move northeastwards and concentrate into a cyclonic storm over east-central Bay of Bengal by 05.30 a.m. of 25th may, 2024. Thereafter, it is likely to move northwards, intensify further into a severe cyclonic storm over same region by 11.30 p.m. of 25th May 2024, the advisory said.
+
+Very strong winds 60-70 kmph, accompanied with heavy rainfalls and very rough seas are likely over the sea areas around the country and over the South-eastern Arabian Sea areas and Bay of Bengal.
+
+...
+
+[Data](articles/9675a771.json)
+
+---
+
+### Strong wind blows;Be careful ...
 
 *2024-05-24 14:34:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பலத்த-காற்று-வீசும்-அவதானமாக-இருங்கள்/175-337812) · `ta`
 
-நாடளாவிய ரீதியில் தென்மேற்கு பருவக்காற்றின் வேகம் அதிகரிப்பதன் காரணமாக அவ்வப்போது மணித்தியாலத்துக்கு 50 தொடக்கம் 60 கிலோமீற்றர் வேகத்தில் பலத்த காற்று வீசக்கூடும் என வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+Strong winds, 50-60 km/h, expected in central highlands, north, north-central, southern regions, and Trincomalee district. Other areas may see 30-40 km/h gusts. Warning issued.
 
-அதன்படி, மத்திய மலைநாட்டின் மேற்கு சரிவுப் பகுதிகளிலும் வடக்கு, வடமத்திய, மேல், தென் மற்றும் வடமேல் மாகாணங்களிலும் திருகோணமலை மாவட்டத்திலும் அவ்வப்போது மணித்தியாலத்துக்கு 50-60 கிலோ மீற்றர் வரையான வேகத்தில் பலத்த காற்று வீசக் கூடிய சாத்தியம் காணப்படுவதுடன் நாட்டின் ஏனைய பிர தேசங்களில் அவ்வப்போது மணித்தியாலத்துக்கு 30-40 கிலோ மீற்றர் வரையான வேகத்தில் ஓரளவு பலத்த காற்று வீசக் கூடிய சாத்தியம் காணப்படுகின்றது.
+🟩
 
-நாளை (25) காலை 10.30 மணி வரை செல்லுபடியாகும் வகையில் இன்று (24) காலை 10.30 மணிக்கு இந்த எச்சரிக்கை விடுக்கப்பட்டுள்ளது. R
+The Department of Meteorology has said that strong winds can be blowing at speeds of 50 to 60 km / h from time to time due to the increase in the speed of the southwest monsoon across the country.
+
+Accordingly, in the western areas of the Central Highlands, the North, North Central, Southern, Southern and North Western Provinces and Trincomalee district, there is a possibility of strong winds at 50-60 km / h from time to time and in the rest of the country from time to time in the other nations at 30-40 km / h.The possibility of blowing is seen.
+
+The warning will be issued today (25) at 10.30 am today (24) at 10.30 am.. Remble
 
 ◼️
 
 [Data](articles/0820e8c0.json)
 
+[Extended Data](ext_articles/0820e8c0.ext.json)
+
 ---
 
-### காணாமல் போன மீனவர்கள் - உலங்குவானூர்தி மூலம் தேடுதல் தீவிரம்
+### Missing fishermen
 
 *2024-05-24 14:31:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/காணாமல்-போன-மீனவர்கள்-உலங்குவானூர்தி-மூலம்-தேடுதல்-தீவிரம்/75-337811) · `ta`
 
-திருகோணமலை சல்லிக்கடற்கரையிலிருந்து இம்மாதம் 21ஆம் திகதி மீன்பிடிக்க கடலுக்குச் சென்ற சல்லிப் பகுதியை சேர்ந்த இரண்டு மீனவர்கள் காணாமல் போயிலுள்ளனர்.
+Two fishermen from Sallika vanished on the 21st. Their relatives filed complaints on the 22nd and 23rd. The Minister of Fisheries, informed by T. Pusparaja, initiated a search involving the Air Force due to adverse weather conditions.
 
-காணாமல் போனவர்களின் உறவினர்களால் இவ்விடயம் பற்றி மாவட்ட மீன்பிடித் திணைக்களத்தில் 22ஆம் திகதியும்,23ஆம் திகதி துறைமுகப் பொலிஸ் நிலையத்திலும் முறைப்பாடு செய்யப்பட்டுள்ளது.
+🟩
 
-இதேவேளை சம்பவம் தொடர்பில் மீன்பிடி மற்றும் நீரியல் வளத்துறை அமைச்சர் டக்ளஸ் தேவானந்தாவிற்கு, திருகோணமலை மாவட்ட ஈ.பி.டி.பி.கட்சியின் பொறுப்பாளர் த.புஸ்பராஜா மூலம் தகவல் தெரிவிக்கப்பட்டது.
+Two fishermen from Sallika, who went to the sea on the 21st of this month from Sallika Kadir, Trincomalee, have disappeared.
 
-தற்போது காலநிலை சீரின்மையால் விமானப்படையின் உலங்கு வானூர்தி மூலம் தேடுதலில் ஈடுபடுவதற்கு முயற்சிகள் ஆரம்பிக்கப்பட்டுள்ளதாக கடற்தொழில் அமைச்சர் தெரிவித்துள்ளார்.
+Relatives of the missing have lodged a complaint with the District Fisheries Department on the 22nd and the 23rd of this month.
 
-தொடர்ந்தும் கடற்பகுதி அதிக கொந்தளிப்பான நிலையில் உள்ளதால் தேடுதல் முயற்சிகள் சற்று தாமதம் அடைந்துள்ளதாக தெரிவிக்கப்படுகின்றது. R
+Meanwhile, Minister of Fisheries and Aquatic Resources Douglas Devananda was informed about the incident through T. Pusparaja, the Trincomalee District EPDP party.
+
+The Minister of Fisheries said that efforts have been initiated to search for the Air Force Air Force due to lack of climate conditions.
+
+It is reported that the search effort has been slightly delayed as the sea is still in high turbulence. Remble
 
 ◼️
 
 [Data](articles/ff651b20.json)
 
+[Extended Data](ext_articles/ff651b20.ext.json)
+
 ---
 
-### සැලකිලිමත් වන්න - කාලගුණයෙන් රතු නිවේදනයක්
+### Be careful - a red announcement from the weather
 
 *2024-05-24 14:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196970) · `si`
 
-තද සුළං සහ මුහුද රළුවීම පිළිබඳ අනතුරු ඇඟවීමේ රතු නිවේදනයක් කාලගුණවිද්‍යා දෙපාර්තමේන්තුව විසින් නිකුත් කර තිබේ.
+Strong winds and high seas expected; extreme caution advised for fisheries and naval units in the southeastern Arabian Sea and Bay of Bengal. Winds could intensify to hurricane levels in the central Bay of Bengal, affecting the southwestern region. Heavy rain and rough seas predicted for Watawana Island and Bayken Arabian areas.
 
-ඒ අනුව ගිනිකොණදිග අරාබි මුහුද සහ බෙංගාල බොක්ක මුහුද ආශ්‍රිත ගැඹුරු මුහුදු ප්‍රදේශවල ක්‍රියාකරන ධීවර සහ නාවික ප්‍රජාවට වඩාත් සැලකිලිමත් වන ලෙස ද කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+🟩
 
-නිරිත දිග බෙංගාල බොක්ක ප්‍රදේශයේ පැවති අඩුපීඩන කලාපය හෙට (25) උදේ 5.30 වනවිට ඊසාන දෙසට ගමන් කර මධ්‍යම බෙංගාල බොක්ක ආශ්‍රිතව සුළි කුණාටුවක් දක්වා වර්ධනය විය හැක.
+The Department of Meteorology has issued a warning red announcement of the strong winds and the sea.
 
-ඉන්පසුව තවදුරටත් එය උතුරු දෙසට ගමන් කරමින්, හෙට රාත්‍රී 11.30 පමණ වන විට චණ්ඩ සුළි කුණාටුවක් දක්වා තවදුරටත් වර්ධනය වීමට බොහෝ දුරට ඉඩ ඇත.
+Accordingly, the Meteorology Department announces more care for the fisheries and naval community in the southeastern Arabian Sea and the Bay Bay Sea.
 
-දිවයින වටාවන මුහුදු ප්‍රදේශවලත් ගිනිකොණදිග අරාබි මුහුදු ප්‍රදේශයේත් බෙංගාල බොක්ක මුහුදු ප්‍රදේශවලත් ඉතා තද පැ.කි.මී 60 - 70 අතර සුළං සහ තද වැසි ඇති වේ.
+The depending zone in the southwestern Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bay of Baying will be northward and grow up to a hurricane in Central Bay.
 
-මේ අතර මුහුදු ප්‍රදේශ ද ඉතා රළු විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+It is then almost 14.30 am tomorrow to grow up to 11.30 pm, moving north.
+
+Winds and heavy showers in the Grounds in the island Watawana sea areas and in the Bay of Bay of Bayken Arabian areas.
+
+Meanwhile, the Department of Meteorology announces that the sea areas can also be very rough.
 
 ◼️
 
 [Data](articles/a08112da.json)
+
+[Extended Data](ext_articles/a08112da.ext.json)
 
 ---
 
@@ -2249,43 +2301,5 @@ The President said that when the founder of the PA Basil Rajapaksa continued to 
 [Data](articles/8afbf8b7.json)
 
 [Extended Data](ext_articles/8afbf8b7.ext.json)
-
----
-
-### Three youths killed as train hits motorcycle in Boossa
-
-*2024-05-23 19:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/99403/three-youths-killed-as-train-hits-motorcycle-in-boossa) · `en`
-
-Three youths have been killed after a train collided with a motorcycle at the Pintaliya railway crossing in Boossa, the police said.
-
-The motorcycle had collided with a Matara-bound train from Maradana.
-
-Police said that the deceased youths have been identified to be aged between 17 and 19 years.
-
-◼️
-
-[Data](articles/3b466a6b.json)
-
-[Extended Data](ext_articles/3b466a6b.ext.json)
-
----
-
-### Sri Lanka CHEC Port City project completion date extended
-
-*2024-05-23 19:28:00* · [`economynextcom`](https://economynext.com/sri-lanka-chec-port-city-project-completion-date-extended-164433/) · `en`
-
-ECONOMYNEXT – Sri Lanka will extend the CHEC Port City Colombo (Pvt) Ltd project completion date by two (2) years, cabinet spokesman Bandula Gunawardena said.
-
-The then Ministry of Megapolis and Western Development, Urban Development Authority and CHEC Port City Colombo (Pvt) Ltd signed a tripartite agreement in 2016 with a target completion date of June 5, 2025.
-
-However, due to the pandemic, and the project company’s financial constraints and inability to generate sufficient revenue to meet obligations to creditors, the project will not be completed on time, the minister said.
-
-“Therefore the period of implementation of the Colombo Port City Development Project will be extended to June 5, 2027 with the signing of a supplementary agreement between the Ministry of Investment Promotion, Colombo Port City Economic Commission and CHEC Port City Colombo (Pvt) Ltd company,” Gunawardena told reporters on Thursday.
-
-...
-
-[Data](articles/4cecaeae.json)
-
-[Extended Data](ext_articles/4cecaeae.ext.json)
 
 ---

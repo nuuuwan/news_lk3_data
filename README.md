@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-24 07:19:29**
+As of **2024-05-24 07:58:05**
 
 ## Newspaper Stats
 
-*Scraped **25,998** Articles*
+*Scraped **26,003** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,104 @@ economynextcom | 1,497
 dailyftlk | 1,533
 adalk | 2,223
 adaderanalk | 2,983
-tamilmirrorlk | 3,032
+tamilmirrorlk | 3,033
 virakesarilk | 3,963
 dailymirrorlk | 4,092
-adaderanasinhalalk | 4,149
+adaderanasinhalalk | 4,153
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,989 (100.0%) of 25,998 articles have been extended.
+26,000 (100.0%) of 26,003 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-24 (Friday)
+
+### TV දෙරණ ලොකුම දන්සල තවදුරටත් අඛණ්ඩව
+
+*2024-05-24 07:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196958) · `si`
+
+පැය 24 පුරා පැවැත්වෙන මෙරට විශාලතම බත් දන්සල දෙරණ මාධ්‍ය ජාලයේ සංවිධායකත්වයෙන් මේ වනවිටත් කොළඹ නිදහස් චතුරස්‍ර පරිශ්‍රයේදී පැවැත්වෙයි.
+
+ඊයේ රාත්‍රී 8.00ට බත් දන්සලේ කටයුතු ආරම්භ වු අතර අද අළුයම වන තුරුත් ඊට අති විශාල ජනකායක් එක්වී තිබුණි.
+
+අද රාත්‍රීය තෙක් අඛණ්ඩව මෙම බත් දන්සල ක්‍රියාත්මක අතර දන්සලට පැමිණෙන ඔබට ප්‍රණීත ආහාර වේලක රස බැලීමට අවස්ථාව හිමිවෙයි.
+
+මෙම බත් දන්සලේ කටයුතු සඳහා ශ්‍රී ලංකා සූපවේදීන්ගේ සංගමය, රාජ්‍ය පරිපාලන ස්වදේශ කටයුතු පළාත් සභා හා පළාත් පාලන අමාත්‍යශය, ශ්‍රී ලංකා ගුවන් හමුදාව සහ කොළඹ මහනගර සභාව දායකත්වය ලබාදෙයි.
+
+◼️
+
+[Data](articles/51a9841b.json)
+
+---
+
+### මෝටර් රථයක් පෙරළී 6 හැවිරිදි දරුවෙක් මරුට
+
+*2024-05-24 07:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196957) · `si`
+
+මෝටර් රථයක් පෙරළීමෙන් සිදුවූ අනතුරකින් 6 හැවිරිදි දරුවෙකු මියගොස් තිබේ.
+
+මෙම අනතුර ඊයේ (23) අලුයම ත්‍රිකුණාමලය මඩකලපුව මාර්ගයේ සේරුනුවර දෙස සිට චෙරුගල් දෙසට ධාවනය වීමේදී සිදුවී තිබුණි.
+
+◼️
+
+[Data](articles/22fdd3af.json)
+
+---
+
+### A lending program under relief interest
+
+*2024-05-24 07:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196956) · `si`
+
+Starting next week, the government will launch special loan schemes aimed at identifying and meeting the financial needs of industries at both regional and district levels. This initiative was announced by Secretary Shantha Weerasinghe of the Ministry of Industry.
+
+🟩
+
+The government has decided to implement some special loan schemes from the upcoming week.
+
+The Ministry of Industries stated that programs to identify the financial needs of industrial requirements at regional and district level.
+
+Secretary to the Ministry of Industry Shantha Weerasinghe said this.
+
+◼️
+
+[Data](articles/3dbb1799.json)
+
+[Extended Data](ext_articles/3dbb1799.ext.json)
+
+---
+
+### Heavy rains today
+
+*2024-05-24 06:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196955) · `si`
+
+Today's heavy rains, caused by the southwest monsoon, will bring showers or thundershowers across various regions including the Western, Sabaragamuwa, Central, North Western, South, and Northern provinces. Expectations range from 30-40 strong wind occurrences to over 100 heavy showers in areas like Nuwara Eliya, Kandy, Mannar, Galle, and Matara districts.
+
+🟩
+
+The Department of Meteorology has issued the extent of rain and winds due to the southwest monsoon.
+
+As a result, showers or thundershowers will occur at times in the Western, Sabaragamuwa, Central, North Western, south and northern provinces.
+
+In some places in the Nuwara Eliya district of Sabaragamuwa Province. It is also reported that around 150 heavy showers can occur.
+
+In some places in the Kandy, Mannar, Galle and Matara districts, the Western and North Western Provinces.. Heavy rains may occur at more than 100.
+
+Showers or thundershowers will occur at several places elsewhere in the country.
+
+At times, the Trincomalee district, the West, North, North, North Central, North Central, Southern and North Western provinces.. Strong winds can occur 50-60.
+
+From time to time in the rest of the island.. It is also possible that about 30-40 times strong winds can also occur.
+
+◼️
+
+[Data](articles/c35925ef.json)
+
+[Extended Data](ext_articles/c35925ef.ext.json)
+
+---
 
 ### Ceylinco Life launches ‘Medical Saver’ plan to cover medical expenses of senior citizens
 
@@ -43,6 +127,8 @@ A timely medical cum life insurance plan that enables a policyholder to build up
 ...
 
 [Data](articles/66adee38.json)
+
+[Extended Data](ext_articles/66adee38.ext.json)
 
 ---
 
@@ -57,6 +143,8 @@ With a vision to empower the people of Bandarawela with comprehensive insurance 
 ...
 
 [Data](articles/44db326a.json)
+
+[Extended Data](ext_articles/44db326a.ext.json)
 
 ---
 
@@ -146,6 +234,24 @@ The protesters said, "Taitti is our property, the Tamil homeland of the North an
 
 ---
 
+### ’பெருந்தோட்ட பகுதிகளில் உணவு பாதுகாப்பின்மை’
+
+*2024-05-24 02:50:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெருந்தோட்ட-பகுதிகளில்-உணவு-பாதுகாப்பின்மை/175-337802) · `ta`
+
+இலங்கையின் பெருந்தோட்ட பகுதிகளில் உணவு பாதுகாப்பின்மை அதிகரித்துள்ளதாக  உலக உணவுத் திட்டம் தெரிவித்துள்ளது.
+
+2023 ஆம் ஆண்டில் இலங்கையில் அதிக உணவு பாதுகாப்பின்மை வீதம் பெருந்தோட்ட பகுதிகளில் பதிவாகியுள்ளதாக  உலக உணவுத் திட்டம் குறிப்பிட்டுள்ளது.
+
+உலக உணவுத் திட்டம் தனது 2023 ஆண்டுக்கான வீட்டு உணவுப் பாதுகாப்பு தொடர்பான மதிப்பீட்டு அறிக்கையை மாதிரிக் குடும்பங்களின் அடிப்படையில் வெளியிட்டுள்ளது.
+
+கடந்த ஆண்டில் 24 வீத குடும்பங்கள் மட்டளவில்  உணவுப் பாதுகாப்பின்மையை எதிர்கொண்டிருந்தன என அந்த அறிக்கையில் தெரிவிக்கப்பட்டுள்ளது. (a)
+
+◼️
+
+[Data](articles/b6e64927.json)
+
+---
+
 ### President visits the North today
 
 *2024-05-24 02:44:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-இன்று-வடக்குக்கு-விஜயம்/175-337801) · `ta`
@@ -182,6 +288,8 @@ Ms Gowri Rajan an award winning business professional is the Director of Sun Mat
 
 [Data](articles/ff484995.json)
 
+[Extended Data](ext_articles/ff484995.ext.json)
+
 ---
 
 ### Sri Lanka Insurance Corporation General Limited hosts General Insurance Summit 2023 celebrating excellence
@@ -196,6 +304,8 @@ The residential summit fostered interactions, knowledge enhancement and skill de
 
 [Data](articles/c01cd11a.json)
 
+[Extended Data](ext_articles/c01cd11a.ext.json)
+
 ---
 
 ### Stakeholders’ meeting to implement Green Entrepreneurship program held
@@ -207,6 +317,8 @@ Ruwan Wijewardene, Senior Advisor to the President on Climate Change, with a vis
 ...
 
 [Data](articles/c5a83695.json)
+
+[Extended Data](ext_articles/c5a83695.ext.json)
 
 ---
 
@@ -2179,123 +2291,5 @@ In the rest of the island, there may be 30 - 40 strong winds.
 [Data](articles/41c9fe3c.json)
 
 [Extended Data](ext_articles/41c9fe3c.ext.json)
-
----
-
-### Japan to provide HR scholarships to Sri Lanka public officials
-
-*2024-05-23 12:52:00* · [`economynextcom`](https://economynext.com/japan-to-provide-hr-scholarships-to-sri-lanka-public-officials-164420/) · `en`
-
-ECONOMYNEXT – The Government of Japan will provide scholarships to study Master’s Degrees and Doctorate Degrees in HR to executive level officials in Sri Lanka’s public sector, cabinet spokesman minister Bandula Gunawardena said.
-
-“Japan has agreed to grant scholarships worth 304 million Japanese yen (approximately 578 million rupees),” Gunawardena told reporters on Thursday.
-
-“Accordingly. the Cabinet approved the proposal to sign  letters of exchange with the Government of Japan and to enter into an agreement with the Japan International Cooperation Agency (JICA) in order to receive the grant.
-
-The Japanese Grant Aid for Human Resources Development Scholarship (JDS) Programme was introduced in 2010 to enable Sri Lankan officials to study in prominent universities in Japan.
-
-Under the scheme, 225 scholarships have been provided previously for public officials to pursue postgraduate courses, and 17 scholarships for doctoral courses, the minister said.
-
-...
-
-[Data](articles/adbf36e3.json)
-
-[Extended Data](ext_articles/adbf36e3.ext.json)
-
----
-
-### Public apology for Vesak Day;3 Prisoners released in Vavuniya
-
-*2024-05-23 12:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/184299) · `ta`
-
-On Vesak Pournami Day, three prisoners were released from Vavuniya Prison as part of a larger release of 278 inmates granted pardons under the Chancellor's Constitution.
-
-🟩
-
-Three inmates from the Vavuniya Prison have been released today (23) on the occasion of Vesak Pournami Day.
-
-It is noteworthy that 278 prisoners have been released on the basis of a special state of pardon for the prisoners in accordance with the powers vested in the 34th of the Chancellor's Constitution on the eve of Vesak Full Moon Day.
-
-◼️
-
-[Data](articles/e11858e5.json)
-
-[Extended Data](ext_articles/e11858e5.ext.json)
-
----
-
-### Special notification on electrical disconnection
-
-*2024-05-23 12:31:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்-துண்டிப்புகள்-குறித்து-விசேட-அறிவித்தல்/175-337761) · `ta`
-
-Due to severe weather, over 300,000 Ceylon Electricity Board (CEB) users have lost power. The CEB is working round-the-clock to restore electricity, with additional staff deployed. For updates, call the emergency number or text 1987; alternatively, visit http://cebcare.ceb.lk.
-
-🟩
-
-The Ceylon Electricity Board (CEB) has registered more than 300,000 users in the country due to inclement weather due to inclement weather.
-
-He said that additional service staff has been assigned to look at these conditions and that the CEB administration and service workers are working 24 hours a day to supply electricity to the affected consumers.
-
-If CEB's Emergency Call is unable to announce the power outage by 1987, they can use SMS for 1987. He also said that you can use CEB Care or access through http://cebcare.ceb.lk.
-
-◼️
-
-[Data](articles/0e0afa9d.json)
-
-[Extended Data](ext_articles/0e0afa9d.ext.json)
-
----
-
-### Public apology for Vesak Day;6 Prisoners released in Batticaloa Prison
-
-*2024-05-23 12:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/184295) · `ta`
-
-In a public apology for Vesak Day, six prisoners were released in Batticaloa Prison due to financial hardship. Led by Superintendent N. Prabhakaran, this act of clemency was carried out under an amnesty policy. The event saw participation from prison welfare officers and officers, concluding with the prisoners expressing gratitude towards the prison officials.
-
-🟩
-
-Batticaloa Superintendent N.. Prabhakaran said.
-
-He added that those who could not afford the minority and the penalty were released on a amnesty basis.
-
-The Prisoner of the Prison. Prison Welfare Officers and Prison Officers participated in the release of the prisoners headed by Prabhakaran.
-
-It is noteworthy that the prisoners evacuated from the prison for gratitude after worshiping the prison officials.
-
-◼️
-
-[Data](articles/c8e8a2cb.json)
-
-[Extended Data](ext_articles/c8e8a2cb.ext.json)
-
----
-
-### பேச்சுவார்த்தைகள் மூலமே பாலஸ்தீன தேசத்தை அடையமுடியும் ஒரு தலைப்பட்சமான பிரகடனங்கள் மூலம் அதனை அடைய முடியாது- அமெரிக்கா கருத்து-
-
-*2024-05-23 12:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/184298) · `ta`
-
-The US expresses concern over its isolation due to Norway recognizing Palestine, fearing Israel's diplomatic isolation. The US acknowledges the legitimacy of questioning whether Israel is becoming more isolated. The National Security Advisor highlights the shift in international support for Israel, suggesting past backing no longer contributes to its long-term security. Sullivan advises Israel to counteract isolation by defeating Hamas, emphasizing the importance of negotiation for achieving Palestinian statehood.
-
-🟩
-
-இஸ்ரேலிற்கு பாரம்பரியமாக ஆதரவை வெளியிட்டு வந்த நாடுகளால் இஸ்ரேல் தற்போது இராஜதந்திரரீதியில் தனிமைப்படுத்தப்படுவது  குறித்து அமெரிக்கா கவலை வெளியிட்டுள்ளது.
-
-The US has expressed concern over the isolation of the US as Norway has announced that it will recognize the Palestinian nation.
-
-இஸ்ரேல் இராஜதந்திரரீதியில் தனிமைப்படுத்தப்படுவது  குறித்து கரிசனையடைந்துள்ளீர்களா என்ற கேள்விக்கு ஆம் என அவர் பதிலளித்துள்ளார்.
-
-"This is a legitimate question," he said, "We see the increase in voices against Israel on the basis of a country that supports Israel in international organizations."
-
-The National Security Advisor in the United States also said that the voices of Israel's support in the past are traveling in the past.
-
-He said it would not contribute to Israel's long -term security, he said.
-
-Sulivan said that Israel could avoid being isolated internationally by promoting the tactics of defeating the Hamas.
-
-...
-
-[Data](articles/d93ce94e.json)
-
-[Extended Data](ext_articles/d93ce94e.ext.json)
 
 ---

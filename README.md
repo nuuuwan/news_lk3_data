@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-24 09:34:06**
+As of **2024-05-24 09:53:16**
 
 ## Newspaper Stats
 
-*Scraped **26,013** Articles*
+*Scraped **26,014** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 1,533
 adalk | 2,223
 adaderanalk | 2,984
 tamilmirrorlk | 3,034
-virakesarilk | 3,963
+virakesarilk | 3,964
 dailymirrorlk | 4,097
 adaderanasinhalalk | 4,155
 
@@ -26,11 +26,31 @@ adaderanasinhalalk | 4,155
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,008 (100.0%) of 26,013 articles have been extended.
+26,013 (100.0%) of 26,014 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-24 (Friday)
+
+### குஜராத் விமானநிலையத்தில் கைதுசெய்யப்பட்டவர்களின் சகா இலங்கையில் கைது
+
+*2024-05-24 09:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/184352) · `ta`
+
+குஜராத்தில் ஐஎஸ் பயங்கரவாத அமைப்பை சேர்ந்தவர்கள்  என்ற சந்தேகத்தின் பேரில் கைதுசெய்யப்பட்டுள்ள இலங்கையர்களுடன் தொடர்புபட்டவர் என்ற சந்தேகத்தில் இலங்கையில் ஒருவர் பயங்கரவாத விசாரiணை பிரிவினரால் கைதுசெய்யப்பட்டுள்ளார்.
+
+குஜராத் விமானநிலையத்தில் இலங்கையர்கள் கைதுசெய்யப்பட்ட பின்னர் இவர்க கைதுசெய்யப்பட்டார் விசாரணைகள் இடம்பெறுகின்றன என பொலிஸ் பேச்சாளர் தெரிவித்துள்ளார்.
+
+இந்த சம்பவம் குறித்து விசாரணைகளை மேற்கொள்வதற்காக பொலிஸ்மா அதிபர் விசேட குழுவொன்றை நியமித்துள்ளார் என பொலிஸ் பேச்சாளர் தெரிவித்துள்ளார்.
+
+முகமட் நவ்;ரான் ( 27) முகமட் நுஸ்ரட் 33 முகமட் பாரிஸ் 35 முகமட் ராஸ்தீன் 45 ஆகிய நால்வரே குஜராத் விமானநிலையத்தில் கைதுசெய்யப்பட்டுள்ளனர்.
+
+சந்தேகநபர்களில் ஒருவர் போதைப்பொருள் குற்றவாளி பொட்டநவ்பரின் மகன் என்பதை பொலிஸ் பேச்சாளர் உறுதிசெய்துள்ளார்
+
+◼️
+
+[Data](articles/ec707f83.json)
+
+---
 
 ### Showery, windy conditions expected to continue today as well
 
@@ -51,6 +71,8 @@ Strong winds upto 40 kmph can be expected elsewhere in the island.
 ◼️
 
 [Data](articles/6938843f.json)
+
+[Extended Data](ext_articles/6938843f.ext.json)
 
 ---
 
@@ -116,6 +138,8 @@ Tharanga expressed relief that the team arrived in the US two weeks in advance, 
 
 [Data](articles/73bc7b5c.json)
 
+[Extended Data](ext_articles/73bc7b5c.ext.json)
+
 ---
 
 ### Selfie before suicide with gun on forehead
@@ -136,6 +160,8 @@ Police examined his cellular phone to find the selfie taken by him before he sho
 
 [Data](articles/1ff7f329.json)
 
+[Extended Data](ext_articles/1ff7f329.ext.json)
+
 ---
 
 ### Sri Lanka TID detains suspect tied to Ahmedabad ISIS arrests
@@ -151,6 +177,8 @@ DIG Thalduwa said that IGP Deshabandu Tennakoon has appointed a special team, le
 ...
 
 [Data](articles/623b2c56.json)
+
+[Extended Data](ext_articles/623b2c56.ext.json)
 
 ---
 
@@ -197,6 +225,8 @@ Last time, the general election was conducted in August, 2020. The Election Comm
 ...
 
 [Data](articles/2709dd4b.json)
+
+[Extended Data](ext_articles/2709dd4b.ext.json)
 
 ---
 
@@ -2267,19 +2297,5 @@ Several prisoners were released from the Welikada Prison today to mark the Vesak
 [Data](articles/cdeb32be.json)
 
 [Extended Data](ext_articles/cdeb32be.ext.json)
-
----
-
-### Tree uprooted in Maitland Crescent...
-
-*2024-05-23 13:27:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Tree-uprooted-in-Maitland-Crescent/110-283250) · `en`
-
-Inclement weather conditions uprooted a tree along  Maitland Crescent today. The tree was cleared by the CMC officials later. Pix by Pradeep Dilrukshana
-
-◼️
-
-[Data](articles/404d9f44.json)
-
-[Extended Data](ext_articles/404d9f44.ext.json)
 
 ---

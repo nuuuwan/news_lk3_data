@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-24 14:33:49**
+As of **2024-05-24 14:52:39**
 
 ## Newspaper Stats
 
-*Scraped **26,057** Articles*
+*Scraped **26,060** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,78 @@ economynextcom | 1,500
 dailyftlk | 1,533
 adalk | 2,226
 adaderanalk | 2,989
-tamilmirrorlk | 3,038
+tamilmirrorlk | 3,040
 virakesarilk | 3,974
 dailymirrorlk | 4,107
-adaderanasinhalalk | 4,162
+adaderanasinhalalk | 4,163
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,056 (100.0%) of 26,057 articles have been extended.
+26,057 (100.0%) of 26,060 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-24 (Friday)
+
+### பலத்த காற்று வீசும் ; அவதானமாக இருங்கள்...
+
+*2024-05-24 14:34:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பலத்த-காற்று-வீசும்-அவதானமாக-இருங்கள்/175-337812) · `ta`
+
+நாடளாவிய ரீதியில் தென்மேற்கு பருவக்காற்றின் வேகம் அதிகரிப்பதன் காரணமாக அவ்வப்போது மணித்தியாலத்துக்கு 50 தொடக்கம் 60 கிலோமீற்றர் வேகத்தில் பலத்த காற்று வீசக்கூடும் என வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+
+அதன்படி, மத்திய மலைநாட்டின் மேற்கு சரிவுப் பகுதிகளிலும் வடக்கு, வடமத்திய, மேல், தென் மற்றும் வடமேல் மாகாணங்களிலும் திருகோணமலை மாவட்டத்திலும் அவ்வப்போது மணித்தியாலத்துக்கு 50-60 கிலோ மீற்றர் வரையான வேகத்தில் பலத்த காற்று வீசக் கூடிய சாத்தியம் காணப்படுவதுடன் நாட்டின் ஏனைய பிர தேசங்களில் அவ்வப்போது மணித்தியாலத்துக்கு 30-40 கிலோ மீற்றர் வரையான வேகத்தில் ஓரளவு பலத்த காற்று வீசக் கூடிய சாத்தியம் காணப்படுகின்றது.
+
+நாளை (25) காலை 10.30 மணி வரை செல்லுபடியாகும் வகையில் இன்று (24) காலை 10.30 மணிக்கு இந்த எச்சரிக்கை விடுக்கப்பட்டுள்ளது. R
+
+◼️
+
+[Data](articles/0820e8c0.json)
+
+---
+
+### காணாமல் போன மீனவர்கள் - உலங்குவானூர்தி மூலம் தேடுதல் தீவிரம்
+
+*2024-05-24 14:31:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/காணாமல்-போன-மீனவர்கள்-உலங்குவானூர்தி-மூலம்-தேடுதல்-தீவிரம்/75-337811) · `ta`
+
+திருகோணமலை சல்லிக்கடற்கரையிலிருந்து இம்மாதம் 21ஆம் திகதி மீன்பிடிக்க கடலுக்குச் சென்ற சல்லிப் பகுதியை சேர்ந்த இரண்டு மீனவர்கள் காணாமல் போயிலுள்ளனர்.
+
+காணாமல் போனவர்களின் உறவினர்களால் இவ்விடயம் பற்றி மாவட்ட மீன்பிடித் திணைக்களத்தில் 22ஆம் திகதியும்,23ஆம் திகதி துறைமுகப் பொலிஸ் நிலையத்திலும் முறைப்பாடு செய்யப்பட்டுள்ளது.
+
+இதேவேளை சம்பவம் தொடர்பில் மீன்பிடி மற்றும் நீரியல் வளத்துறை அமைச்சர் டக்ளஸ் தேவானந்தாவிற்கு, திருகோணமலை மாவட்ட ஈ.பி.டி.பி.கட்சியின் பொறுப்பாளர் த.புஸ்பராஜா மூலம் தகவல் தெரிவிக்கப்பட்டது.
+
+தற்போது காலநிலை சீரின்மையால் விமானப்படையின் உலங்கு வானூர்தி மூலம் தேடுதலில் ஈடுபடுவதற்கு முயற்சிகள் ஆரம்பிக்கப்பட்டுள்ளதாக கடற்தொழில் அமைச்சர் தெரிவித்துள்ளார்.
+
+தொடர்ந்தும் கடற்பகுதி அதிக கொந்தளிப்பான நிலையில் உள்ளதால் தேடுதல் முயற்சிகள் சற்று தாமதம் அடைந்துள்ளதாக தெரிவிக்கப்படுகின்றது. R
+
+◼️
+
+[Data](articles/ff651b20.json)
+
+---
+
+### සැලකිලිමත් වන්න - කාලගුණයෙන් රතු නිවේදනයක්
+
+*2024-05-24 14:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196970) · `si`
+
+තද සුළං සහ මුහුද රළුවීම පිළිබඳ අනතුරු ඇඟවීමේ රතු නිවේදනයක් කාලගුණවිද්‍යා දෙපාර්තමේන්තුව විසින් නිකුත් කර තිබේ.
+
+ඒ අනුව ගිනිකොණදිග අරාබි මුහුද සහ බෙංගාල බොක්ක මුහුද ආශ්‍රිත ගැඹුරු මුහුදු ප්‍රදේශවල ක්‍රියාකරන ධීවර සහ නාවික ප්‍රජාවට වඩාත් සැලකිලිමත් වන ලෙස ද කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+
+නිරිත දිග බෙංගාල බොක්ක ප්‍රදේශයේ පැවති අඩුපීඩන කලාපය හෙට (25) උදේ 5.30 වනවිට ඊසාන දෙසට ගමන් කර මධ්‍යම බෙංගාල බොක්ක ආශ්‍රිතව සුළි කුණාටුවක් දක්වා වර්ධනය විය හැක.
+
+ඉන්පසුව තවදුරටත් එය උතුරු දෙසට ගමන් කරමින්, හෙට රාත්‍රී 11.30 පමණ වන විට චණ්ඩ සුළි කුණාටුවක් දක්වා තවදුරටත් වර්ධනය වීමට බොහෝ දුරට ඉඩ ඇත.
+
+දිවයින වටාවන මුහුදු ප්‍රදේශවලත් ගිනිකොණදිග අරාබි මුහුදු ප්‍රදේශයේත් බෙංගාල බොක්ක මුහුදු ප්‍රදේශවලත් ඉතා තද පැ.කි.මී 60 - 70 අතර සුළං සහ තද වැසි ඇති වේ.
+
+මේ අතර මුහුදු ප්‍රදේශ ද ඉතා රළු විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+
+◼️
+
+[Data](articles/a08112da.json)
+
+---
 
 ### Over 1,280 Naval personnel discharged during general amnesty
 
@@ -45,6 +103,8 @@ During this period, 1,254 AWL naval personnel and an additional 35 naval personn
 ◼️
 
 [Data](articles/f44641ad.json)
+
+[Extended Data](ext_articles/f44641ad.ext.json)
 
 ---
 
@@ -427,6 +487,8 @@ New building for the Jaffna University has been constructed 46 years later. 942 
 President Ranil Wickremesinghe today inaugurated the Clinical Training and Research Block at the Jaffna University’s Faculty of Medicine, the President’s Media Division (PMD) said.
 
 Built at a cost of Rs. 942 million, this is the first new construction at the university in 46 years, according to the PMD.
+
+Addressing the inauguration of the Clinical Training and Research Block at the Medical Faculty of Jaffna University, President Wickremesinghe said the Jaffna Hospital would be upgraded as a national hospital soon to ensure an excellent health system in the North.
 
 ◼️
 
@@ -2225,75 +2287,5 @@ However, due to the pandemic, and the project company’s financial constraints 
 [Data](articles/4cecaeae.json)
 
 [Extended Data](ext_articles/4cecaeae.ext.json)
-
----
-
-### Science tends to resign today - President
-
-*2024-05-23 19:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196948) · `si`
-
-President Ranil Wickremesinghe highlights Theravada Buddhism as a solution to modern challenges, emphasizing its role in preserving Buddhist principles amidst rapid technological advancements. He speaks at the State Vesak Festival, noting the importance of safeguarding Buddhism's essence and the need for increased attention to its teachings.
-
-🟩
-
-President Ranil Wickremesinghe says that the Theravada Buddhism is solutions to the problems faced with science and technology.
-
-The President pointed out that the Theravada Buddhism is to protect it to the world, protecting the right core of Buddhism.
-
-President Ranil Wickremesinghe addressing the State Vesak Festival at Dharmaraja Pirivena Viharaya today (23).
-
-Although President Ranil Wickremesinghe was due to attend the State Vesak Festival, the President did not participate in the inclement weather.
-
-"The Matale district is to be an important place in Buddhism Buddhism. Tripitaka gathering took place at Wahuhayawa. So the Buddha's Dhamma has been protected. We need to pay more and more attention to the Theravada Buddhism.
-
-The Maha Sangha is not the only one who was born in the Anuradhapura period. The education of the world was the opinion of such education to launch the main irrigation system in Sri Lanka.
-
-...
-
-[Data](articles/44b79b9a.json)
-
-[Extended Data](ext_articles/44b79b9a.ext.json)
-
----
-
-### China , Sri Lanka celebrate tea for harmony
-
-*2024-05-23 19:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/China-Sri-Lanka-celebrate-tea-for-harmony/110-283269) · `en`
-
-On the occasion of the "International Tea Day" on May 21st, 2024, China Cultural Center in Sri Lanka held  “Tea for Harmony”—Yaji Cultural Salon event opening ceremony in Colombo recently.
-
-The activities included  Guangxi ethnic costume catwalk, Guangxi pictorial tour exhibition, Chinese and Sri Lankan traditional song and dance performances, intangible cultural heritage tea art experience, etc.
-
-The combination of Guangxi folk customs and tea allows  you to experience the oriental aesthetic life that has been passed down for thousands of years.
-
-Addressing the function , Chinese Ambassador Qi Zhenhong said that China is the birthplace of tea.
-
-...
-
-[Data](articles/4f1d663c.json)
-
-[Extended Data](ext_articles/4f1d663c.ext.json)
-
----
-
-### Vesak Day search operations lead to detection of  Rs.5.1 Mn worth cigarettes at BIA
-
-*2024-05-23 19:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Vesak-Day-search-operations-lead-to-detection-of-Rs-5-1-Mn-worth-cigarettes-at-BIA/108-283268) · `en`
-
-Colombo, May 23 (Daily Mirror)- A special search operation carried out on Vesak Full Moon Poya Day by the Police Narcotic Bureau (PNB) officials at the airport led to two detections of counterfeit cigarettes worth over Rs.5.1 million, involving a man and woman respectively returning from Dubai and India.
-
-PNB officials deployed at the Bandaranaike International Airport (BIA) took a suspicious looking woman returning from India for questioning.
-
-The female passenger who was returning from Bangalore on SriLankan Airline flight UL174 had arrived in the country around 5.00 am when she was subjected to scrutiny.
-
-Police found 17,200 sticks of a brand of cigarettes in 86 cartons of which the sale and consumption is prohibited in Sri Lanka. A stick has a street value of Rs.100 and the stock has been valued at Rs. 1,720,000.
-
-The 48-year-old passenger has been identified as a resident of Chilaw and a regular traveller who carry goods from India to sell here.
-
-...
-
-[Data](articles/54705246.json)
-
-[Extended Data](ext_articles/54705246.ext.json)
 
 ---

@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-25 04:33:57**
+As of **2024-05-25 04:51:29**
 
 ## Newspaper Stats
 
-*Scraped **26,133** Articles*
+*Scraped **26,135** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 232
+colombotelegraphcom | 234
 dbsjeyarajcom | 260
 bbccomsinhala | 264
 newsfirstlk | 363
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,175
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,133 (100.0%) of 26,133 articles have been extended.
+26,133 (100.0%) of 26,135 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -414,6 +414,16 @@ The CBSL recently launched its publication, “Financial Literacy Roadmap of Sri
 
 ---
 
+### Whither The National Education Policy Framework Of Sri Lanka?
+
+*2024-05-24 21:46:35* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/whither-the-national-education-policy-framework-of-sri-lanka/) · `en`
+
+...
+
+[Data](articles/c0ffe754.json)
+
+---
+
 ### National program in Singapore Model for Disaster Control
 
 *2024-05-24 21:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196980) · `si`
@@ -485,6 +495,20 @@ As several parts in Sri Lanka have experienced significant rainfall for the past
 [Data](articles/36028677.json)
 
 [Extended Data](ext_articles/36028677.ext.json)
+
+---
+
+### Do Sri Lankan Politicians Need Educational Qualifications?
+
+*2024-05-24 21:20:35* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/do-sri-lankan-politicians-need-educational-qualifications/) · `en`
+
+This is probably an extension to the articles published under the title ‘The Right To Information Act & The Educational Qualifications of MPs’ by the Economist DNR Samaranayaka and the story under ‘Parliament Writes To MPs Under RTI To Get Educational Qualifications But No Response!’, both in 2021.
+
+In an article on the Politics and Education website, Pawan Singh went into the contentious issue of educational qualifications among politicians, drawing parallels with the Indian political landscape. The essence of his piece, titled ‘The Debate Over Educational Qualification for Politicians in India,’ underscores a contradiction.
+
+...
+
+[Data](articles/b34b4fc5.json)
 
 ---
 
@@ -2257,41 +2281,5 @@ Working for a reputed taxi company in the UAE, Sanath’s modest meal cost only 
 [Data](articles/d2a7b2e7.json)
 
 [Extended Data](ext_articles/d2a7b2e7.ext.json)
-
----
-
-### Malaysia repatriates over 1,600 Sri Lankan illegal migrants
-
-*2024-05-24 10:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/99408/malaysia-repatriates-over-1600-sri-lankan-illegal-migrants) · `en`
-
-The Sri Lanka High Commission in Malaysia has successfully facilitated the repatriation of 1,608 Sri Lankan illegal migrants.
-
-This operation, conducted in coordination with the Malaysian Government’s Migrant Repatriation Programme over a two-month period from 01 March 2024 to 30 April 2024, the Sri Lanka High Commission in Kuala Lumpur, Malaysia said.
-
-Issuing a statement, the Sri Lanka High Commission in Malaysia stated that before the start of this repatriation programme, from 01 January to 28 February 2024, the High Commission facilitated the repatriation of 124 illegal migrants who were stranded in Malaysia with various difficulties. This brings the total number of repatriations to 1,732.
-
-...
-
-[Data](articles/dea87af1.json)
-
-[Extended Data](ext_articles/dea87af1.ext.json)
-
----
-
-### Sri Lankan envoy congratulates Chad’s new President
-
-*2024-05-24 10:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Sri-Lankan-envoy-congratulates-Chads-new-President/110-283319) · `en`
-
-Sri Lankan Ambassador to Kenya, Veluppillai Kananathan, attended the investiture ceremony of Chad's newly elected President, Mahamat Idriss Déby. The ceremony, held in N'Djamena, Chad's capital.
-
-Ambassador Kananathan personally extended his congratulations to President Déby, emphasizing the longstanding friendship and respect between Sri Lanka and Chad.
-
-President Mahamat Idriss Déby assumed office three years prior after the passing of his father, Idriss Déby, who had governed Chad for three decades. Initially committing to early elections, Déby Jr.'s government faced delays but eventually upheld democratic processes, reflecting Chad's journey towards stability amidst regional political shifts.
-
-◼️
-
-[Data](articles/e26a7795.json)
-
-[Extended Data](ext_articles/e26a7795.ext.json)
 
 ---

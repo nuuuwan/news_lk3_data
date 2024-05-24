@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-24 12:05:49**
+As of **2024-05-24 12:18:34**
 
 ## Newspaper Stats
 
-*Scraped **26,038** Articles*
+*Scraped **26,043** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,99 @@ islandlk | 1,410
 economynextcom | 1,500
 dailyftlk | 1,533
 adalk | 2,225
-adaderanalk | 2,988
+adaderanalk | 2,989
 tamilmirrorlk | 3,034
-virakesarilk | 3,969
-dailymirrorlk | 4,102
+virakesarilk | 3,972
+dailymirrorlk | 4,103
 adaderanasinhalalk | 4,160
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,037 (100.0%) of 26,038 articles have been extended.
+26,038 (100.0%) of 26,043 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-24 (Friday)
+
+### தமிழ் பின்னணியே புதிய சுவையான உணவுகளை உருவாக்குவதற்கான உத்வேகத்தை தந்தது – தமிழ் கலாச்சாரத்திலிருந்து பல விடயங்களை கற்றுக்கொண்டேன் - பிரிட்டனின் மாஸ்டர் செவ் சம்பியன் பிரின் பிரதாபன்
+
+*2024-05-24 11:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/184368) · `ta`
+
+பிரிட்டனின் மிகப்பிரபலமான சமையல் போட்டியான மாஸ்டர் செவ் 2024 போட்டியில் தமிழ் கால்நடை மருத்துவர் பிரின் பிரதாபன் வெற்றிபெற்றுள்ளார்.
+
+தமிழ் கார்டியனிற்கு வழங்கியுள்ள பேட்டியில் அவர் தனது தமிழ் பின்னணியிலிருந்து  தைரியமான ஆக்கபூர்வமான சுவைகளின் சேர்க்கைகளை உருவாக்கப்பெற்ற உத்வேகத்தின் காரணமாகவே மாஸ்டர் செவ்வில் வெற்றிபெற முடிந்தது என தெரிவித்துள்ளார்.
+
+தனது பெற்றோர்களே தனக்கு உணவு மற்றும் சுவையின் மீதான ஆர்வத்தை தூண்டினார்கள் என அவர் தெரிவித்துள்ளார்
+
+பிரின் பிரதாபனின் தந்தை கோபால் ஒரு பொறியியலாளர் தாயார் டார்க்கே வங்கியில் பணிபுரிகின்றார்.
+
+எனது சமையலில் தமிழ் கலாச்சாரம் முக்கிய பங்கு வகித்தது இந்த விடயத்தில் நான் அதிஸ்டசாலி என அவர் தெரிவித்துள்ளார்.
+
+எனது பெற்றோர் மிகச்சிறந்த சமையல்திறன் மிக்கவர்கள் எனது வாழ்நாள் முழுவதும் அற்புதமான தமிழ் சுவையால் வழிநடத்தப்படும் சந்தர்ப்பம் எனக்கு கிடைத்தது என அவர் தெரிவித்துள்ளார்
+
+...
+
+[Data](articles/2944b2bc.json)
+
+---
+
+### President unveils Clinical Training & Research block at Jaffna university
+
+*2024-05-24 11:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/President-unveils-Clinical-Training-Research-block-at-Jaffna-university/108-283289) · `en`
+
+Colombo, May 24 (Daily Mirror) - President Ranil Wickremesinghe officially inaugurated the long-awaited Clinical Training and Research Block at the Jaffna University Faculty of Medicine this morning.
+
+This new addition is the first significant construction project at the faculty in 46 years.
+
+The state-of-the-art facility, constructed at a cost of Rs. 942 million, aims to host several innovations to benefit patients and support clinical research and training of undergraduate and postgraduate students.
+
+Initially proposed in 2017 with an estimated budget of 700 million Sri Lankan rupees and an expected completion date of 2019, the project was ultimately finished in December 2023 at an approximate cost of 942 million rupees, funded by the Government of Sri Lanka.
+
+The facility was ceremonially opened by the President today with the ceremony also seeing the launch of the Jaffna Regional Collaboration Centre (RCC) in partnership with SingHealth Duke NUS.
+
+◼️
+
+[Data](articles/f74e4055.json)
+
+---
+
+### Red alert issued for heavy rainfall in multiple districts
+
+*2024-05-24 11:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/99411/red-alert-issued-for-heavy-rainfall-in-multiple-districts) · `en`
+
+The Department of Meteorology has issued a ‘Red’ warning for heavy rains for Sabaragamuwa province and in Nuwara-Eliya district today (19).
+
+Due to the southwest monsoon that has established over the island, the prevailing rain and wind conditions are expected to continue further, the Met. Department said.
+
+Very heavy showers of about 150 mm are likely at some places in Sabaragamuwa province and in Nuwara-Eliya district. Heavy showers above 100 mm are likely at some places in Western and North-western provinces and in Kandy, Mannar, Galle and Matara districts, it added.
+
+Meanwhile, the Met. Department also issued an advisory for strong winds in the Western slopes of the central hills and Northern, North-central, Western, Southern and North-western provinces and in Trincomalee district, effective for the next 24 hours.
+
+...
+
+[Data](articles/8e782f53.json)
+
+---
+
+### தொடரும் சீரற்ற காலநிலையால் யாழில் 7 குடும்பங்கள் பாதிப்பு!
+
+*2024-05-24 11:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/184362) · `ta`
+
+தொரடரும் சீரற்ற காலநிலையால் யாழ்ப்பாணத்தில் 7 குடும்பங்களை சேர்ந்த 19 பேர் பாதிக்கப்பட்டுள்ளதாக யாழ்ப்பாண மாவட்ட அனர்த்த முகாமைத்துவ பிரிவின் பிரதிப் பணிப்பாளர் ரி.என்.சூரியராஜா தெரிவித்துள்ளார்.
+
+நல்லூர் பிரதேச செயலர் பிரிவிற்குட்பட்ட ஜே/125 கிராம சேவகர் பிரிவில் இரண்டு குடும்பங்களைச் சேர்ந்த நால்வர் பாதிக்கப்பட்டுள்ளதுடன் வீடு ஒன்று பகுதியளவில் சேதமடைந்துள்ளது. ஜே/191 கிராம சேவகர் பிரிவில் ஒரு குடும்பத்தை சேர்ந்த நால்வர் பாதிக்கப்பட்டுள்ளதுடன் வீடு ஒன்றும் பகுதியளவில் சேதமடைந்துள்ளது.
+
+வேலணை பிரதேச செயலர் பிரிவிற்குட்பட்ட ஜே/33 கிராம சேவகர் பிரிவில் ஒரு குடும்பத்தை சேர்ந்த ஒருவர் பாதிக்கப்பட்டதுடன் வீடு ஒன்றும் பகுதியளவில் சேதமடைந்துள்ளது.ஜே/26 மற்றும் ஜே/21 ஆகிய பகுதிகளில் இரண்டு அடிப்படை கட்டமைப்புக்கள் பகுதியளவில் சேதமடைந்துள்ளன.
+
+தெல்லிப்பழை பிரதேச செயலாளர் பிரிவிற்குட்பட்ட ஜே/232 கிராம சேவகர் பிரிவில் ஒரு குடும்பத்தை சேர்ந்த இருவர் பாதிக்கப்பட்டுள்ளதுடன் வீடு ஒன்றும் பகுதியளவில் சேதமடைந்துள்ளது.
+
+...
+
+[Data](articles/081f8c19.json)
+
+---
 
 ### President inaugurates Clinical Training and Research Block at Jaffna Medical Faculty
 
@@ -45,6 +123,24 @@ Built at a cost of Rs. 942 million, this is the first new construction at the un
 [Data](articles/c81770e4.json)
 
 [Extended Data](ext_articles/c81770e4.ext.json)
+
+---
+
+### பப்புவா நியூ கினியாவில் பாரிய மண்சரிவு ; 100 பேர் உயிரிழந்திருக்கலாமென அச்சம்
+
+*2024-05-24 11:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/184364) · `ta`
+
+போர்ட் மோர்ஸ்பிக்கு வடமேற்கே சுமார் 600 கிலோமீட்டர் தொலைவில் உள்ள எங்க மாகாணத்தில் உள்ள காகலம் கிராமத்தில் வெள்ளிக்கிழமை அதிகாலை 3 மணியளவில் இந்த பாரிய மண்சரிவு ஏற்பட்டுள்ளது.
+
+மண்சரிவில் சிக்கியவர்களை மீட்கும் பணிகள் ஆரம்பிக்கப்பட்டுள்ளதோடு, 100 பேருக்கு மேற்பட்டோர் உயிரிழந்திருக்கலாம் என  குடியிருப்பாளர்கள் தெரிவிக்கின்றனர்.
+
+கிராமத்தில் அருகிலிருந்த மலைப்பகுதி சரிந்து வீழ்ந்தமையால் வீடுகள் தரைமட்டமாகியதாக கெரா பெண்கள் சங்கத்தின் தலைவர் எலிசபெத் லாருமா தெரிவித்துள்ளார்.
+
+சமூக ஊடகங்களில் பகிரப்பட்ட வீடியோக்களளில் குடியிருப்பாளர்கள் பெரிய பாறைகளை அகற்றுவதையும், இடிபாடுகள் மற்றும் வீழ்ந்த மரங்களின் அடியில் இருந்து உடல்களை மீட்பதையும் காணமுடிகிறது.
+
+◼️
+
+[Data](articles/2aaed903.json)
 
 ---
 
@@ -97,6 +193,8 @@ Efforts are currently underway to clear the tracks and restore normal services a
 ◼️
 
 [Data](articles/f81480d2.json)
+
+[Extended Data](ext_articles/f81480d2.ext.json)
 
 ---
 
@@ -2191,111 +2289,5 @@ The other organizers of the Dansela who found the two individuals lying motionle
 [Data](articles/1ff3b452.json)
 
 [Extended Data](ext_articles/1ff3b452.ext.json)
-
----
-
-### History: Mahatma Gandhi who ran on the street like a child!- May 15, 1934 ...
-
-*2024-05-23 16:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/184320) · `ta`
-
-On May 15, 1934, Mahatma Gandhi visited India to combat untouchability. The Weerakesari magazine reported his arrival with enthusiasm, noting his impact as "a quarter of a quarter of excitement," causing distress to a Sub Inspector.
-
-🟩
-
-In 1934, Mahatma Gandhi and his team went to India to eradicate untouchability.
-
-The Weerakesari magazine, published on May 15, 1934, said, "Mahatma's Ottapadi: A quarter of a quarter of excitement: hurt to the Sub Inspector".
-
-◼️
-
-[Data](articles/67936e93.json)
-
-[Extended Data](ext_articles/67936e93.ext.json)
-
----
-
-### 'My mother is the soil of the soil, this is the Tamil army' '
-
-*2024-05-23 16:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/184319) · `ta`
-
-"Indian 2," featuring Kamal Haasan, releases its first song "Bhara.." to much anticipation, drawing over a million views. Directed by Shankar, it stars Siddharth, Kajal Agarwal, and others. The film, set for release on July 12th, is produced by Subaskaran under Leica Productions, distributed by Red Giant Movies. The song, penned by Pa Vijay and composed by Anirudh, resonates with fans.
-
-🟩
-
-The first song, which will be titled 'Bhara ..', which is featured in 'Indian 2' starring 'Kamal Haasan' starring Kamal Haasan, has also been released.. The film, which was highly anticipated, has been visited by more than a million spectators within the short term of the film's single track.
-
-Kamal Haasan, Siddharth, Kajal Agarwal, Rakul Breath Singh, Shankar, directed by Shankar.. J.. Surya, Bobby Simha, Priya Bhavani Shankar, Brahmanandam, Samudrakani, Kalidas Jayaram and many others have been cast. Anirudh has composed the film, which is being recorded by Ravi Varman. The film is being produced by producer Subhashkaran on behalf of Leica Productions Company.. The film is provided by Red Giant Movies.
-
-...
-
-[Data](articles/6916f7b9.json)
-
-[Extended Data](ext_articles/6916f7b9.ext.json)
-
----
-
-### Showery and windy conditions to continue during next 36 hours
-
-*2024-05-23 16:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/99400/showery-and-windy-conditions-to-continue-during-next-36-hours) · `en`
-
-The Department of Meteorology announced that due to the South-West monsoon condition, the prevailing showery and windy conditions are expected to continue during the next 36 hours.
-
-In its latest forecast, the Met. Department stated that showers or thundershowers will occur at times in Western, Sabaragamuwa, Central, North-western, Southern and Northern provinces.
-
-Very heavy showers about 150 mm are likely at some places in Sabaragamuwa province and in Kandy and Nuwara-Eliya districts, while heavy showers above 100 mm are likely at some places in Western and North-western provinces and in Mannar, Galle and Matara districts, it added.
-
-Showers or thundershowers will occur at several places elsewhere of the island.
-
-Strong winds of about 50-60 kmph can be expected at times over Western slopes of the central hills and in Northern, North-central, Western, Southern and North western provinces and in Trincomalee district.
-
-...
-
-[Data](articles/53693f53.json)
-
-[Extended Data](ext_articles/53693f53.ext.json)
-
----
-
-### Journey makes the third national hospital in Sri Lanka
-
-*2024-05-23 16:06:33* · [`adalk`](https://www.ada.lk/breaking_news/කරාපිටිිය-ලංකාවේ-තෙවැනි-ජාතික-රෝහල-බවට-පත්කරයි/11-409808) · `si`
-
-Sri Lanka's Galle Teaching Hospital becomes the nation's third national hospital, joining Colombo and Kandy. The decision follows significant contributions from Karapitiya Hospital in Galle, which trains over a thousand medical students annually.
-
-🟩
-
-Cabinet approval has been approved by the Galle Teaching Hospital to be the third national hospital in the country.
-
-Colombo and Kandy hospitals have been recognized as the two developed national hospitals in Sri Lanka. According to the third national hospital, Cabinet has approved to develop the Galle National Hospital.
-
-Karapitiya Hospital in Galle is already very contributing to doctors and nurses in the field of health.A thousand medical students at the University of Ruhuna University provides clinical training by Galle.
-
-◼️
-
-[Data](articles/f4bd847e.json)
-
-[Extended Data](ext_articles/f4bd847e.ext.json)
-
----
-
-### 95 percent of the Korea wrote in the manufacturing and fisheries sector
-
-*2024-05-23 15:58:05* · [`adalk`](https://www.ada.lk/breaking_news/නිෂ්පාදන-හා-ධීවර-අංශයේ-කොරියා-විභාගය-ලියූ-අයගෙන්-සියයට-95ක්ම-සමත්/11-409807) · `si`
-
-In the Korean Language Proficiency Examination related to manufacturing and fisheries, 95% of 3,580 applicants passed. Results will be out on May 27th, followed by medical exams on May 28th. Interviews for successful candidates are scheduled for June 6th, 7th, and 10th at Provincial Offices.
-
-🟩
-
-The results of the Korean Language Proficiency Examination have been released in relation to the products and fisheries sectors and 3422 applicants have passed.
-
-මෙම විභාගය සඳහා අයදුම්කරුවන් 3580 පිරිසක් ඉදිරිපත් වී තිබුණු අතර ඉන් සමත් සංඛ්‍යාව මුළු පිරිසෙන් සියයට 95.6 කි. The results will be published on the 27th of May and medical examinations will be opened on 28th May of May.
-
-The interviews for candidates who pass the examination will be held at the Provincial Offices of the Ministry of Provincial Offices on June 06, 07 and 10.
-
-◼️
-
-[Data](articles/5fee00ea.json)
-
-[Extended Data](ext_articles/5fee00ea.ext.json)
 
 ---

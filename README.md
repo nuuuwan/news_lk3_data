@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-24 13:53:22**
+As of **2024-05-24 14:04:24**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,162
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,051 (100.0%) of 26,054 articles have been extended.
+26,054 (100.0%) of 26,054 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,29 +48,39 @@ The application sought to challenge an earlier decision by the Court of Appeal, 
 
 [Data](articles/9cf2793e.json)
 
+[Extended Data](ext_articles/9cf2793e.ext.json)
+
 ---
 
-### පෘථිවියට සමාන ජීවත්වීමට සුදුසුම ග්‍රහලෝකයක් සොයාගනී ?
+### Do you find the right planet to live like Earth?
 
 *2024-05-24 13:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196968) · `si`
 
-තාරකා විද්‍යාඥයින්ගේ ජාත්‍යන්තර කණ්ඩායම් දෙකක් පෘථිවි සහ සිකුරු ප්‍රමාණයේ ආලෝක වර්ෂ 40ක් ඈතින් පිහිටි ආකර්ෂණීය ග්‍රහලෝකයක් සොයාගැනීමට සමත්වී තිබේ.
+Astronomers have discovered GLSE 12b, a planet resembling Earth in size and potentially habitable conditions, thanks to a collaboration between NASA and the European Space Agency. This discovery, which includes a surface temperature of about 42°C, suggests it could support life. However, uncertainties remain about its atmosphere. The planet orbits a red dwarf star and receives 1.6 times the solar radiation Earth does. Despite being 40 light-years away, this finding offers valuable insights into exoplanet exploration and potential extraterrestrial life.
 
-Gliese 12b නමින් නම්කර ඇති මෙම ග්‍රහලෝකය මේ දක්වා පෘථිවියට සමාන ජීවිත්වීමට සුදුසුම ග්‍රහලෝකය බවට උපකල්පනය කරයි.
+🟩
 
-යුරෝපීය අභ්‍යාවකාශ ඒජන්සිය සමග නාසා ආයතනය සිදුකළ පර්යේෂණයක ප්‍රතිඵලයක් ලෙස මෙම නව ග්‍රහලෝකය සොයාගෙන ඇත.
+Two of the international groups of astronomers have been able to find an attractive planet apart from the size of Earth and Venus.
 
-2022දී එක්සත් රාජධානියේ පැවැති උණුසුමට සමාන තත්ත්වයක් මෙම ග්‍රහලෝකය තුළ ඇති බවට පර්යේෂණවලින් අනාවරණ වී තිබේ.
+GLSE 12b, this planet, assumes that this planet is designated to be the best planet to be like Earth.
 
-විද්‍යාඥයින්ගේ මතය වී ඇත්තේ, ග්ලීස් 12 බී ග්‍රහලෝකය මිනිස් වාසයට සුදුසු දැනටමත් හදුනාගෙන ඇති ග්‍රහලෝක කිහිපයට අයත් බවය.
+The new planet has been found as a result of a research conducted by NASA with the European Space Agency.
 
-ග්ලීස් 12 බී ග්‍රහලෝකයේ මතුපිට උෂ්ණත්වය සෙල්සියස් අංශක 42ක් පමණ වන බවට ඇස්තමේන්තු ගත කර ඇති නමුත් එහි වායුගෝලය කෙබඳුද යන්න පිළිබඳව තවමත් අවිනිශ්චිත තත්ත්වයක පවතී.
+Research has revealed that in the planet, a similar situation in the UK in 2022, research has revealed.
 
-කෙසේවෙතත් මෙම ග්‍රහලෝකයේ පෘථිවියේ සිට ආලෝක වර්ෂ 40ක දුරින් පිහිටීම නිසා එය සමීපව නිරීක්ෂණයට බාධාවක් වී ඇති බව විද්‍යාඥයින් පවසයි.
+Scientists' opinion include the few planetards that have already already identified for human habitation.
+
+The surface temperature of the planet 12 B is estimated that the surface temperature of the planet is about 42 degrees Celsius, but is still uncertain about how the atmosphere is like.
+
+However, scientists say that it is closely disrupted by the planet's 40 light years from the planet.
+
+The Warwick University of Warwick, Dr. Thomas Wilson said, "It will help us to help our research on planets, such as our galaxy through our galaxy."
 
 ...
 
 [Data](articles/66fdc5bf.json)
+
+[Extended Data](ext_articles/66fdc5bf.ext.json)
 
 ---
 
@@ -109,6 +119,8 @@ Liability Exemptions: Bangladesh and India offer conditional liability exemption
 ...
 
 [Data](articles/b477102f.json)
+
+[Extended Data](ext_articles/b477102f.ext.json)
 
 ---
 

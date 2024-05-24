@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-24 23:18:22**
+As of **2024-05-24 23:33:52**
 
 ## Newspaper Stats
 
-*Scraped **26,116** Articles*
+*Scraped **26,121** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,94 @@ economynextcom | 1,501
 dailyftlk | 1,533
 adalk | 2,230
 adaderanalk | 2,996
-tamilmirrorlk | 3,042
+tamilmirrorlk | 3,045
 virakesarilk | 3,988
-dailymirrorlk | 4,122
+dailymirrorlk | 4,124
 adaderanasinhalalk | 4,175
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,116 (100.0%) of 26,116 articles have been extended.
+26,116 (100.0%) of 26,121 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-24 (Friday)
+
+### ரஷ்ய போருக்கு இலங்கையர்களை அனுப்பி வைத்த தம்பதியினர் கைது
+
+*2024-05-24 23:17:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரஷ்ய-போருக்கு-இலங்கையர்களை-அனுப்பி-வைத்த-தம்பதியினர்-கைது/175-337818) · `ta`
+
+ரஷ்ய - உக்ரைன் போருக்காக இலங்கையைச் சேர்ந்த ஓய்வுபெற்ற இராணுவ உறுப்பினர்களை அனுப்பி ஆட்கடத்தலில் ஈடுபட்டமை தொடர்பில் ஓய்வுபெற்ற மேஜர் ஒருவரும் அவரது மனைவியும் குற்றப்புலனாய்வு திணைக்களத்தினரால் கைது செய்யப்பட்டுள்ளனர்.
+
+குறித்த நபர் வத்தளையிலும் அவரது மனைவி பொரளையிலும் கைது செய்யப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
+
+சந்தேகநபர்கள் இருவரும் நீர்கொழும்பு நீதவான் நீதிமன்றத்தில் ஆஜர்படுத்தப்பட்ட பின்னர் குறித்த நபர் விளக்கமறியலில் வைக்கப்பட்டுள்ளதுடன், மனைவி பிணையில் விடுவிக்கப்பட்டுள்ளார்.
+
+இந்த சம்பவம் தொடர்பில் இதுவரை 9 பேர் கைது செய்யப்பட்டுள்ளதாக குற்றப்புலனாய்வு திணைக்களம் தெரிவித்துள்ளது. R
+
+◼️
+
+[Data](articles/aa30ed4b.json)
+
+---
+
+### இடைநிறுத்தப்பட்ட  வீட்டுத்திட்டம் மீண்டும் ஆரம்பிக்கப்படும் - யாழில் ஜனாதிபதி தெரிவிப்பு
+
+*2024-05-24 23:11:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/இடைநிறுத்தப்பட்ட-வீட்டுத்திட்டம்-மீண்டும்-ஆரம்பிக்கப்படும்-யாழில்-ஜனாதிபதி-தெரிவிப்பு/71-337817) · `ta`
+
+தெற்காசியாவில் மக்களுக்கு இலவச காணி உரிமையை வழங்கும் ஒரே நாடு இலங்கை. வடக்கு மாகாணத்தில் வீடுகளை நிர்மாணிப்பதற்கு அடுத்த வருடம் நிதி ஒதுக்கப்படும் என "உறுமய " வேலைத்திட்டத்தின் கீழ் யாழ். மாவட்ட மக்களுக்கு காணி உறுதிகளை வழங்கும் நிகழ்வில் ஜனாதிபதி தெரிவித்தார்.
+
+நாட்டு மக்களின் காணி உரிமை உறுதிப்படுத்தப்பட்டு முன்னோக்கி செல்வதற்கான சந்தர்ப்பம் உருவாக்கப்படும் என ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+
+தெற்காசியாவிலேயே மக்களுக்கு இலவச காணி உரிமையை வழங்கும் ஒரே நாடு இலங்கை என்று தெரிவித்த ஜனாதிபதி, “உறுமய” வேலைத்திட்டத்தின் மூலம் வழங்கப்படும் இலவசப் பத்திரங்களை அடுத்த சந்ததியினர் பயன்படுத்தும் வகையில் பாதுகாப்பாக வைத்திருக்குமாறு உரிமையாளர்களிடம் ஜனாதிபதி கேட்டுக்கொண்டார்.
+
+“உறுமய” வேலைத்திட்டத்தின் கீழ் யாழ்.மாவட்ட மக்களுக்கான காணி உறுதிப்பத்திரங்கள் வழங்கும் நிகழ்வில் இன்று (24) கலந்து கொண்டு ஜனாதிபதி ரணில் விக்ரமசிங்க இதனைக் குறிப்பிட்டார்.
+
+...
+
+[Data](articles/d6157b93.json)
+
+---
+
+### Top UN court orders Israel to stop Rafah offensive
+
+*2024-05-24 23:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Top-UN-court-orders-Israel-to-stop-Rafah-offensive/107-283323) · `en`
+
+May 24 (BBC) - The UN's top court, the International Court of Justice (ICJ), has issued a dramatic ruling, ordering Israel to "immediately halt its military offensive in Rafah".
+
+It acted in support of a South African application last week which sought a number of measures against Israel, accusing it of stepping up what it says is a genocide.
+
+Presiding judge Nawaf Salam said the situation in Gaza had deteriorated since the court last ordered Israel to take steps to improve it.
+
+Israel has vehemently denied the allegation and signalled it would ignore any order to halt its operation.
+
+Reading the court's ruling on Friday, Nawaf Salam said "Israel must immediately halt its military offensive, and any other action in the Rafah Governorate" which could bring about "the physical destruction" of the Palestinians - alluding to what constitutes genocide under international law.
+
+Israel, he added, must also allow unimpeded access to Gaza to any UN body investigating allegations of genocide.
+
+...
+
+[Data](articles/c1eba29f.json)
+
+---
+
+### 6 பேர் மரணம் - அனர்த்த நிலைமைகள் தொடர்பில் விசேட கலந்துரையாடல்
+
+*2024-05-24 22:59:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/6-பேர்-மரணம்-அனர்த்த-நிலைமைகள்-தொடர்பில்-விசேட-கலந்துரையாடல்/175-337816) · `ta`
+
+நாட்டில் நிலவும் கடும் மழை மற்றும் காற்றுடன் கூடிய காலநிலை காரணமாக ஏற்பட்டுள்ள அனர்த்த நிலைமைகள் தொடர்பில் மேற்கொள்ள வேண்டிய நடவடிக்கைகள் குறித்து பாதுகாப்பு அமைச்சின் கீழ் இயங்கும் அனர்த்த முகாமைத்துவ மத்திய நிலையத்தின் அவசர செயற்பாட்டு நிலையத்தில் இன்று (மே 24) விசேட கலந்துரையாடல் பாதுகாப்பு இராஜாங்க அமைச்சர் பிரமித்த பண்டார தென்னகோன்  தலைமையில் இடம்பெற்றது.
+
+மரங்கள் முறிந்து விழும் அபாயம் குறித்து இந்த கலந்துரையாடலின் போது விசேட கவனம் செலுத்தப்பட்டது.
+
+இதேவேளை, கடந்த 19ஆம் திகதி முதல் இன்று வரை மரங்கள் முறிந்து விழுந்ததில் 6பேர் உயிரிழந்துள்ளதுடன் 11பேர் காயமடைந்துள்ளதாகவும் 18 மாவட்டங்களில் 9616 குடும்பங்களைச் சேர்ந்த 34880 பேர் அனர்த்தத்தினால் பாதிக்கப்பட்டுள்ளதாகவும் புள்ளிவிபரங்கள் தெரிவிக்கின்றன.
+
+...
+
+[Data](articles/e6f56b9c.json)
+
+---
 
 ### Special notice to Maldives in Sri Lanka
 
@@ -1920,6 +1994,22 @@ Issuing a statement, the Sri Lanka High Commission in Malaysia stated that befor
 
 ---
 
+### Sri Lankan envoy congratulates Chad’s new President
+
+*2024-05-24 10:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Sri-Lankan-envoy-congratulates-Chads-new-President/110-283319) · `en`
+
+Sri Lankan Ambassador to Kenya, Veluppillai Kananathan, attended the investiture ceremony of Chad's newly elected President, Mahamat Idriss Déby. The ceremony, held in N'Djamena, Chad's capital.
+
+Ambassador Kananathan personally extended his congratulations to President Déby, emphasizing the longstanding friendship and respect between Sri Lanka and Chad.
+
+President Mahamat Idriss Déby assumed office three years prior after the passing of his father, Idriss Déby, who had governed Chad for three decades. Initially committing to early elections, Déby Jr.'s government faced delays but eventually upheld democratic processes, reflecting Chad's journey towards stability amidst regional political shifts.
+
+◼️
+
+[Data](articles/e26a7795.json)
+
+---
+
 ### ආර්ථික පරිවර්තන පනත් කෙටුම්පතට එරෙහිව නඩු පැවරීමට යයි
 
 *2024-05-24 10:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196964) · `si`
@@ -2255,139 +2345,5 @@ The Department of Sri Lanka Railways added that the special train has been cance
 [Data](articles/38af472b.json)
 
 [Extended Data](ext_articles/38af472b.ext.json)
-
----
-
-### Arrested in Gujarat Airport
-
-*2024-05-24 09:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/184352) · `ta`
-
-Sri Lankan nationals were arrested at Gujarat Airport on suspicion of links to the IS terrorist group. Investigations led by a special committee are ongoing. Among them, Mohammed Nau, Mohammed Nusrat, Mohammed Paris, and Mohammed Rastein have been identified. One suspect is linked to a drug criminal family.
-
-🟩
-
-One Sri Lanka has been arrested by the terrorist unit in Sri Lanka on suspicion of involvement with Sri Lankans arrested on suspicion of belonging to the IS terrorist organization in Gujarat.
-
-Investigations are underway after Sri Lankans arrested at the Gujarat airport.
-
-The police spokesman said that the Inspector General of Police has appointed a special committee to investigate the incident.
-
-Mohammed Nau (27) Mohammed Nusrat 33 Mohammed Paris 35 Mohammed Rastein 45 has been arrested at Gujarat Airport.
-
-Police spokesman confirmed that one of the suspects is the son of a drug culprit
-
-◼️
-
-[Data](articles/ec707f83.json)
-
-[Extended Data](ext_articles/ec707f83.ext.json)
-
----
-
-### Three youths who went to Dansal were killed in train train
-
-*2024-05-24 09:16:24* · [`adalk`](https://www.ada.lk/breaking_news/දන්සල්-වදින්න-ගිය-තරුණයින්--තිදෙනා-දුම්රියේ-ගැටි-මරුට/11-409810) · `si`
-
-Three youths from Galagodawatte, Ratgama, aged 18, 19, and 20, died after being hit by a train while riding a motorcycle near the Rapagama Boossa Peptaleiya Junction. They were critically injured and taken to Karapitiya Hospital, where their bodies are now. Further investigations are ongoing by the Ratgama Police.
-
-🟩
-
-The Ratgama Police say that three youths were killed in a motorbike on the train on the railway crossing at the Rapagama Boossa Peptaleiya Junction yesterday.
-
-The deceased is three youths from Galagodawatte, Ratgama.
-
-The three youths were killed in a motorcycle train, police said.
-
-They are 18, nineteen, nineteen and twenty-age.
-
-The three youths were severely wounded and taken seriously injured and taken to the Karapitiya hospital.
-
-Police said their bodies were placed at the Karapitiya Hospital morgue and the deaths will be held at the Karapitiya Hospital today.  The Ratgama Police are conducting further investigations.
-
-◼️
-
-[Data](articles/247791b0.json)
-
-[Extended Data](ext_articles/247791b0.ext.json)
-
----
-
-### Five dead breaks at hospital
-
-*2024-05-24 09:03:20* · [`adalk`](https://www.ada.lk/breaking_news/මාරක-ළිද-කඩාවැටි-පහක්-රෝහලේ/11-409809) · `si`
-
-In a tragic incident at a Carnival's cave, five individuals died, including a 50-year-old woman and four men aged 13, 36, 6, and 45. Four others were injured, two critically, and are being treated at Girandurukotta and Mahiyangana hospitals. The victims were from Rothalawela, Divulpassa, and the event was part of a Vesak celebration.
-
-🟩
-
-Five suffered injuries at the sudden death of a Carnival's cave yesterday (23) was admitted to the Mahiyangana Hospital yesterday.
-
-Among the injured were a 50 year old woman and four male agents aged 13, 36,6,45 years old.
-
-The police said that they were residents of Rothalawela area in Divulpassa area.
-
-Two of these injured are receiving treatment at the Girandurukotta hospital and the other is receiving treatment at the Mahiyangana Hospital.
-
-A large number of people were inaugurated by a temple in Divulapassa Rothalawela, which was organized by Vesak.
-
-The police said that before visitors take tickets and enter the tickets before the commencement, the police said.
-
-According to a hospital statement, three of the injured have been severely serious.
-
-Uva Provincial Deputy Inspector General of Police has conducted further investigations on the instructions of the Badulla Senior Superintendent of Police Wasantha Kandadawala, Badulla.
-
-◼️
-
-[Data](articles/3aa20d7a.json)
-
-[Extended Data](ext_articles/3aa20d7a.ext.json)
-
----
-
-### Showery, windy conditions expected to continue today as well
-
-*2024-05-24 09:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Showery-windy-conditions-expected-to-continue-today-as-well/108-283282) · `en`
-
-Due to the South West Monsoon condition, the prevailing showery and windy conditions are expected to continue, the Forecasting Division of the National Meteorological Centre said.
-
-They said heavy showers of about 150 mm are likely in the Sabaragamuwa Province and in the Nuwara-Eliya district.
-
-Meanwhile, showers will occur in the Western, Sabaragamuwa, Central, North­-Western, Southern and Northern Provinces.
-
-Heavy showers of about 150 mm are likely in the Sabaragamuwa Province and in Nuwara-Eliya the district.
-
-Strong winds upto 60 kmph can be expected over the Western slopes of the central hills and in the Northern, North-Central, Western, Southern and North-Western Provinces and in the Trincomalee district.
-
-Strong winds upto 40 kmph can be expected elsewhere in the island.
-
-◼️
-
-[Data](articles/6938843f.json)
-
-[Extended Data](ext_articles/6938843f.ext.json)
-
----
-
-### Suspect arrested for shot
-
-*2024-05-24 09:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196960) · `si`
-
-A suspect linked to a fatal shooting in Ahungalla was arrested in Uragasmanhandiya. The 28-year-old man also had heroin.
-
-🟩
-
-Police say a suspect who had been requested to attempt to shot a person was arrested.
-
-A person had been shot dead at Ahungalla on the 8th and a suspect who supported it was arrested yesterday (23) at the Uragasmanhandiya area.
-
-The suspect, a resident of Uragasmanhandiya, is 28 grams of heroin in his possession, police said.
-
-The suspect is spying for shoving by the suspect.
-
-◼️
-
-[Data](articles/3af3d3b9.json)
-
-[Extended Data](ext_articles/3af3d3b9.ext.json)
 
 ---

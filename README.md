@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-24 22:34:03**
+As of **2024-05-24 22:52:28**
 
 ## Newspaper Stats
 
-*Scraped **26,115** Articles*
+*Scraped **26,116** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,31 +20,57 @@ adaderanalk | 2,996
 tamilmirrorlk | 3,042
 virakesarilk | 3,988
 dailymirrorlk | 4,122
-adaderanasinhalalk | 4,174
+adaderanasinhalalk | 4,175
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,112 (100.0%) of 26,115 articles have been extended.
+26,115 (100.0%) of 26,116 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-24 (Friday)
 
-### ගංවතුර අනතුරු ඇඟවීම් දීර්ඝ කෙරේ
+### ශ්‍රී ලංකාවේ සිටින මාලදිවයින් ජාතිකයින්ට විශේෂ දැනුම්වත් කිරීමක්
+
+*2024-05-24 22:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196982) · `si`
+
+ශ්‍රී ලංකාවේ සංචාරක වීසා පිළිබඳ සිදුකළ වෙනස්කම් සම්බන්ධයෙන් මාලදිවයිනේ විදේශ කටයුතු අමාත්‍යාංශ නිවේදනයක් නිකුත් කර තිබේ.
+
+ඔවුන් එහි සඳහන් කර ඇත්තේ, දැනට පවතින ක්‍රියා පටිපාටිය අනුව මාලදිවයින් වැසියන්ට ශ්‍රී ලංකාවට පැමිණීමෙන් පසු දින 30ක සංචාරක වීසා බලපත්‍රයක් නොමිලේ ලබා ගත හැකි බවය.
+
+එමෙන්ම දින 30කට වැඩි රැඳී සිටීමක් සඳහා, මාලදිවයින් ජාතිකයින්ට https://www.srilankaevisa.lk/ යන වෙබ් අඩවියට පිවිස නොමිලේ මාස 6ක වීසා බලපත්‍රයක් සඳහා අන්තර්ජාලය හරහා අයදුම් කළ හැකි අතර මෙම වීසා බලපත්‍රයට පරිපාලන ගාස්තුවක් අය කරනු ඇති බවද දන්වා තිබේ.
+
+එසේ නොමැතිව දැනටමත් ශ්‍රී ලංකාවේ සිටින සහ වීසා දිගුවක් අවශ්‍ය මාලදිවයින් ජාතිකයින් සඳහා කොළඹ මාලදිවයිනේ මහ කොමසාරිස් කාර්යාලය හා සම්බන්ධ විය හැකි බව එම නිවේදනයේ වැඩිදුරටත් සඳහන් වේ.
+
+ඔවුන් පවසන්නේ ශ්‍රී ලංකාවේ සංචාරක වීසා සම්බන්ධයෙන් මෑත කාලීනව සිදුකළ වෙනස්කම් පිළිබඳව පැහැදිලි කිරීමක් අපේක්ෂා කරන බවය.
+
+...
+
+[Data](articles/07d3d7c2.json)
+
+---
+
+### Flood warnings extended
 
 *2024-05-24 22:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196981) · `si`
 
-අත්තනගලු ඔය ද්‍රෝණිය සහ කළු ගඟෙහි කුඩා ගඟ උපද්‍රොණිය සඳහා නිකුත් කර තිබු ගංවතුර අනතුරු ඇඟවීම පැය 24කින් දීර්ඝ කර තිබේ.
+Flood warnings for Attanagalu Oya and Small River in Kalu Ganga extended by 24 hours due to ongoing water releases from May 20 until 9 PM. Residents and drivers advised to take caution.
 
-නිවේදනයක් නිකුත් කරමින් වාරිමාර්ග දෙපාර්තමේන්තුව සඳහන් කළේ, පසුගිය මැයි 20 වන දින නිකුත් කළ ගංවතුර නිවේදනය ඉදිරි පැය 24 දක්වා එනම් හෙට (25) රාත්‍රී 9 දක්වා දීර්ඝ කළ බවය.
+🟩
 
-මෙම තත්ත්වය දැඩි සැලකිල්ලට ගෙන කටයුතු කරන ලෙ අදාළ ප්‍රදේශවල ජනතාවට දැනුම් දෙන අතර,  එම ප්‍රදේශ හරහා ගමන් ගන්නා රියදුරන්ට ද සැලකිලිමත් වන ලෙස දැනුම් දී ඇත.
+The flood warning of the Attanagalu Oya and the Small River in the Kalu Ganga has been extended by 24 hours.
+
+The Irrigation Department stated that the launches released on May 20 at the next 24 hours, the next 24 hours, will be extended to 9 pm.
+
+The people in the respective areas of this situation are noticed to the people of the respective areas and drivers travel through those areas have also been informed to care.
 
 ◼️
 
 [Data](articles/7a146f01.json)
+
+[Extended Data](ext_articles/7a146f01.ext.json)
 
 ---
 
@@ -61,6 +87,8 @@ To this end, SLC has enlisted the International Cricket Council's Anti-Corruptio
 ...
 
 [Data](articles/c526b4b8.json)
+
+[Extended Data](ext_articles/c526b4b8.ext.json)
 
 ---
 
@@ -121,6 +149,8 @@ As several parts in Sri Lanka have experienced significant rainfall for the past
 ◼️
 
 [Data](articles/36028677.json)
+
+[Extended Data](ext_articles/36028677.ext.json)
 
 ---
 
@@ -2349,27 +2379,5 @@ The suspect is spying for shoving by the suspect.
 [Data](articles/3af3d3b9.json)
 
 [Extended Data](ext_articles/3af3d3b9.ext.json)
-
----
-
-### A branch of a tree collapses and another death
-
-*2024-05-24 08:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196959) · `si`
-
-In Mahakdugala reserve, during inclement weather, a tree branch collapse killed one person as five others collected firewood yesterday.
-
-🟩
-
-Another person has died after the inclement weather has collapsed the branch of a tree.
-
-The accident had taken place yesterday (23) at a reserve in Mahakdugala.
-
-The accident had occurred while five people went to collect firewood while the accident had occurred.
-
-◼️
-
-[Data](articles/30d5267a.json)
-
-[Extended Data](ext_articles/30d5267a.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-24 06:19:16**
+As of **2024-05-24 06:58:17**
 
 ## Newspaper Stats
 
-*Scraped **25,987** Articles*
+*Scraped **25,989** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,12 +12,12 @@ colombotelegraphcom | 232
 dbsjeyarajcom | 259
 bbccomsinhala | 262
 newsfirstlk | 363
-islandlk | 1,400
+islandlk | 1,401
 economynextcom | 1,497
 dailyftlk | 1,533
 adalk | 2,223
 adaderanalk | 2,983
-tamilmirrorlk | 3,031
+tamilmirrorlk | 3,032
 virakesarilk | 3,963
 dailymirrorlk | 4,092
 adaderanasinhalalk | 4,149
@@ -26,57 +26,109 @@ adaderanasinhalalk | 4,149
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,984 (100.0%) of 25,987 articles have been extended.
+25,987 (100.0%) of 25,989 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-24 (Friday)
 
-### கடல் கொந்தளிப்பாக இருக்கும் என்ற காரணத்தால் குறிகாட்டுவான் - நெடுந்தீவு கடற்போக்குவரத்து இடம்பெறமாட்டாது
+### Sri Lanka Tourism performs a successful stint at the Arabian Travel Market – 2024 in Dubai, UAE
+
+*2024-05-24 03:58:00* · [`islandlk`](http://island.lk/sri-lanka-tourism-performs-a-successful-stint-at-the-arabian-travel-market-2024-in-dubai-uae/) · `en`
+
+Sri Lanka Tourism made headlines at the 31st edition of the Arabian Travel Market (ATM) which was held from 6th May to 9th May 2024 in Dubai, UAE. The travel fair was held at the Dubai World Trade Center (DWTC) in line with the theme of empowering innovation – transforming travel through entrepreneurship. This is the largest tourism event in Middle East which provides global exposure, business & travel opportunities for the tourism sector.
+
+Sri Lanka Tourism Promotion Bureau (SLTPB) has been participating at this event since 2003 along with the members of the travel and tourism industry in Sri Lanka and this year SLTPB has vibrant and elegant stand with more than 60 participants from the travel and tourism industry.
+
+...
+
+[Data](articles/05096e4b.json)
+
+---
+
+### The sea will not be a maritime transport
 
 *2024-05-24 03:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/184349) · `ta`
 
-கடல் கொந்தளிப்பாக இருக்கும் என்ற காரணத்தால் பொதுமக்கள் பாதுகாப்பு கருதி குறிகாட்டுவான் - நெடுந்தீவு கடற்போக்குவரத்து 24 ஆம் திகதி இடம்பெறமாட்டாது என அறிவிக்கப்பட்டுள்ளது.
+Due to expected turbulence, the sea-based maritime transport event scheduled for the 24th has been canceled.
 
-வளிமண்டல திணைக்கள காலநிலை அறிக்கை பிரகாரம் 24 ஆம் திகதி வெள்ளிக்கிழமை கடல் கொந்தளிப்பாக இருக்குமென எதிர்வு கூறப்பட்டதன் காரணமாக குறித்த முடிவு எட்டப்பட்டுள்ளதாக யாழ்ப்பாண மாவட்ட அனர்த்த முகாமைத்துவ பிரிவு பிரதிப் பணிப்பாளர் என்.சூரியராஜா தெரிவித்தார்.
+🟩
+
+It has been announced that the sea will not be held on the 24th of this month.
+
+Deputy Director of the Jaffna District Disaster Management Division N. Suriyarajah said that the decision has been reached due to the fact that the sea will be turbulent on Friday, 24th.
 
 ◼️
 
 [Data](articles/3f6a040f.json)
 
+[Extended Data](ext_articles/3f6a040f.ext.json)
+
 ---
 
-### தமிழ் பக்தி பாடல், பௌத்த வரலாற்று கதைகளுடன் பல்லாயிரக்கணக்கான  மக்களுடன் இடம்பெற்ற வெசாக்தின கொண்டாட்டம்
+### Tamil devotional song, Buddhist historical stories with tens of thousands of people
 
 *2024-05-24 03:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/184348) · `ta`
 
-கௌதம புத்தரின் பிறப்பு, ஞானம் பெறல் மற்றும் பரிநிர்வானத்தை நினைவு கூரும் உலக பௌத்தர்களின் புனிதமான நாளான வெசாக் தினம் முல்லைத்தீவு, புதுக்குடியிருப்பில் வெகுவிமர்சையாக கொண்டாடப்பட்டிருந்தது.
+On Vesak Day, Buddhists worldwide honor Buddha's birth, enlightenment, and transformation. In Mullaitivu, Pudukkudiyiruppu, this sacred day was marked with Tamil devotional songs, historical stories, and the lighting of lamps. Despite differences in caste, religion, and race, tens of thousands joined in celebration, emphasizing unity and devotion.
 
-உள்நாட்டிலும், வெளிநாட்டிலும் உள்ள பௌத்தர்கள் விளக்குகளை ஒளிரவிட்டு, வழிபாடுகளுக்கு முன்னுரிமை அளித்து, மிகுந்த பக்தியுடன் இதனைக் வருடம் தோறும் மே மாதம் 23 திகதி கொண்டாடி வருகின்றனர். அந்தவகையில் வெசாக்தினம் முல்லைத்தீவு புதுக்குடியிருப்பு 59ஆவது காலால் படையினரின் ஏற்பாட்டில்  புதுக்குடியிருப்பு பிரதேசசபை  மைதானத்தில்  சிறப்பாக கொண்டாடப்பட்டிருந்தது.
+🟩
 
-குறித்த நிகழ்வில் புத்த பெருமானின் பரிநிர்வானத்தை  நினைவுகூரும் வரலாற்று கதைகள் வெளிச்ச வீடுகளில் தமிழ் மொழியில் ஒலி மூலம் வெளிப்படுத்தப்பட்டதோடு, சில வெளிச்ச வீடுகளில் ஞானம் பெறும் நிலையில் தமிழ் பக்தி பாடல்கள் ஒலிபரப்பப்பட்டிருந்தது. அத்தோடு குறித்த நிகழ்வில் கலந்து கொண்ட மக்கள் அனைவருக்கும் சிறந்த முறையில் வேறுபாடின்றி இரவு உணவும் வழங்கப்பட்டிருந்தது.
+Vesak Day, the sacred day of the world Buddhists, celebrated the birth, enlightenment and transformation of Gautama Buddha, was celebrated in Mullaitivu, Pudukkudiyiruppu.
 
-...
+Buddhists at home and abroad celebrate the lighting of the lights, prioritize worship, and celebrate it on May 23rd annually with great devotion.. The Vesakthinam Mullaitivu Pudukkudiyiruppu was celebrated at the Pudukkudiyiruppu Pradeshiya Sabha grounds under the arrangement of the 59th foot.
+
+In the event, the historical stories that commemorate the Buddhist monarchy were expressed in Tamil language in Tamil and the Tamil devotional songs were broadcast as some light houses were enlightened.. All the people who attended the event were also provided with dinner.
+
+Tens of thousands of people participated in the Vesak celebration of the Vesak celebration, crossing the difference between caste, religion and race.
+
+It is also worth noting that the 23rd and 24 meals event will be held in view of the Vesakthinam.
+
+◼️
 
 [Data](articles/40a0a9e8.json)
 
+[Extended Data](ext_articles/40a0a9e8.ext.json)
+
 ---
 
-### தையிட்டி சட்டவிரோத திஸ்ஸ விகாரைக்கு எதிராக மக்கள் ஆர்ப்பாட்டம்!
+### People protest against Taiti illegal Tissa Vihara!
 
 *2024-05-24 03:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/184347) · `ta`
 
-சட்டவிரோத திஸ்ஸ விகாரைக்கு எதிரான போராட்டமானது ஒரு வருடத்தை தாண்டிய நிலையில் முன்னெடுக்கப்பட்டுக் கொண்டிருக்கின்றது.
+Protesters demand removal of an unauthorized structure in Taiti, citing it as encroachment on public land. The dispute, ongoing for over a year, intensified during a religious event, drawing hundreds of participants. They accuse authorities of negligence and vow continued action until resolution.
 
-இந் நிலையில் 23 ஆம் திகதி வியாழக்கிழமை பௌர்ணமி தின வழிபாடுகள் ஆரம்பமாக இருந்த நிலையில் 22 ஆம் திகதி புதன்கிழமை போராட்டம் ஆரம்பமானது. இந்நிலையில் வியாழக்கிழமை (23) தென் பகுதியில் இருந்து மக்கள் குறித்த விகாரைக்கு வழிபாடுகளை மேற்கொள்வதற்காக வருகை தந்திருந்தனர்.
+🟩
 
-இதன்போது பல நூற்றுக்கணக்கான மக்கள் அணி திரண்டு, அனுமதியின்றி மக்களது காணியில் கட்டப்பட்ட குறித்த சட்டவிரோத விகாரையை அகற்றுமாறு கோரி போராட்டத்தினை முன்னெடுத்தனர்.
+The struggle against the illegal Tissa Vihara is being carried out over a year.
 
-இதன்போது போராட்டத்தில் ஈடுபட்டவர்கள் "தையிட்டி எங்கள் சொத்து, வடக்கு கிழக்கும் தமிழர் தாயகம், மண் துறந்த புத்தருக்கு மண் மீது ஆசையா, பலாலி பொலிஸ் பொறுப்பு அதிகாரி ஒரு கொலைகாரன், பௌத்தத்தின் பெயரால் காணிகளை அபகரிக்காதே, இந்த மண் எங்களின் சொந்த மண், சட்டவிரோத விகாரைக்கு காவல்துறை காவலா, பௌத்தத்தின் போதனை சட்டவிரோத ஆக்கிரமிப்பா" என கோஷங்களை எழுப்பியவாறு போராட்டத்தில் ஈடுபட்டனர்.
+The struggle began on Wednesday, the 22nd as the full moon day worship began on Thursday 23rd.. In this case, on Thursday (23), the people from the southern part were visited to worship the idol of the people.
+
+Hundreds of people gathered and launched a protest demanding the removal of the illegal strain built on the land of the people without permission.
+
+The protesters said, "Taitti is our property, the Tamil homeland of the North and East, the Buddha on the soil, the Palali Police Responsibility Officer is a murderer, the name of Buddhism, this soil is the police custody of our own soil, the teaching of Buddhism."They engaged in a struggle as raised.
 
 ...
 
 [Data](articles/e55c8fe8.json)
+
+[Extended Data](ext_articles/e55c8fe8.ext.json)
+
+---
+
+### ஜனாதிபதி இன்று வடக்குக்கு விஜயம்
+
+*2024-05-24 02:44:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-இன்று-வடக்குக்கு-விஜயம்/175-337801) · `ta`
+
+ஜனாதிபதி ரணில் விக்கிரமசிங்க பல்வேறு நிகழ்வுகளில் கலந்துகொள்வதற்காக இன்று வடக்குக்கு விஜயம் மேற்கொள்கின்றார்.
+
+3 நாட்கள் விஜயமாக வடக்கு வரும் ஜனாதிபதி ரணில் விக்கிரமசிங்க, யாழ்ப்பாணம், முல்லைத்தீவு, கிளிநொச்சி மற்றும் வவுனியா மாவட்டங்களில் உரித்து தேசிய வேலைத்திட்டத்தின் கீழ் காணி உரிமங்களை வழங்கி வைக்கவுள்ளார்.
+
+இதேவேளை, கிளிநொச்சி வைத்தியசாலையில் பெண்கள் சுகாதாரப் பிரிவொன்றும் ஜனாதிபதியால் திறந்து வைக்கப்படவுள்ளது. (a)
+
+◼️
+
+[Data](articles/8d654a38.json)
 
 ---
 
@@ -2281,41 +2333,5 @@ We immediately contacted the Mannar District Government Agent and informed the i
 [Data](articles/765ae38e.json)
 
 [Extended Data](ext_articles/765ae38e.ext.json)
-
----
-
-### Sri Lanka plans to expand Bingiriya export zone to 1,100 acres
-
-*2024-05-23 11:46:00* · [`economynextcom`](https://economynext.com/sri-lanka-plans-to-expand-bingiriya-export-zone-to-1100-acres-164413/) · `en`
-
-ECONOMYNEXT – Sri Lanka is expanding an export processing zone in Bingiriya in Kurunegala and plans to link the area with Puttalam with roads and other infrastructure, Minister Bandula Gunawardana said.
-
-A task force of ministerial secretaries will be appointed to carry out the tasks speedily, following a cabinet paper submitted by President Ranil Wickremesinghe said.
-
-The Bingiriya zone already has 157 acres and another 282 acres is being developed by the Board of Investment, he said.
-
-There was no information whose lands would be acquired. (Colombo/May23/2024)
-
-◼️
-
-[Data](articles/8c79482c.json)
-
-[Extended Data](ext_articles/8c79482c.ext.json)
-
----
-
-### Ranil clearly declared in the cabinet of the presidential election
-
-*2024-05-23 11:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/184287) · `ta`
-
-President Ranil Wickremesinghe clarified during a cabinet meeting that the presidential election, as per the constitution, will be conducted before any other election. He emphasized the importance of completing international debt restructuring, including agreements with the IMF and support from countries like India, Japan, France, and China. The election date is expected to be confirmed soon, between September 16 and October 17, aligning with the advice of the Election Commission.
-
-🟩
-
-...
-
-[Data](articles/d057ff27.json)
-
-[Extended Data](ext_articles/d057ff27.ext.json)
 
 ---

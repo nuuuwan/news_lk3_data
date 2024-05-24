@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-24 19:34:04**
+As of **2024-05-24 19:52:05**
 
 ## Newspaper Stats
 
-*Scraped **26,098** Articles*
+*Scraped **26,099** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,410
 economynextcom | 1,501
 dailyftlk | 1,533
 adalk | 2,229
-adaderanalk | 2,994
+adaderanalk | 2,995
 tamilmirrorlk | 3,040
 virakesarilk | 3,984
 dailymirrorlk | 4,118
@@ -26,11 +26,25 @@ adaderanasinhalalk | 4,170
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,097 (100.0%) of 26,098 articles have been extended.
+26,098 (100.0%) of 26,099 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-24 (Friday)
+
+### UN’s top court orders Israel to halt military offensive in Rafah
+
+*2024-05-24 19:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/99418/uns-top-court-orders-israel-to-halt-military-offensive-in-rafah) · `en`
+
+The top United Nations court ordered Israel on Friday to immediately halt its military operations in the southern Gaza city of Rafah — but stopped short of ordering a full cease-fire. While Israel is unlikely to comply with the order, it will ratchet up the pressure on the increasingly isolated country.
+
+Criticism of Israel’s conduct in the war in Gaza has been growing, particularly on operations in Rafah — and even from its closest ally, the United States. This week alone, three European countries announced they would recognize a Palestinian state, and the chief prosecutor for another U.N. court requested arrest warrants for Israeli leaders, along with Hamas officials.
+
+...
+
+[Data](articles/457b6d62.json)
+
+---
 
 ### Over 300,000 power disruptions due to bad weather
 
@@ -72,23 +86,29 @@ Accordingly, a total of 1,289 personnel including 1,254 naval personnel who were
 
 ---
 
-### நிறுத்தி வைக்கப்பட்டிருந்த கார் மீது மரம் ஒன்று முறிந்து விழுந்ததில் மூவர் காயம்
+### Three injured when a tree fell on a parked car
 
 *2024-05-24 18:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/184415) · `ta`
 
-மஹவெவ, கொஸ்வாடிய பிரதேசத்தில் நிறுத்தி வைக்கப்பட்டிருந்த கார் மீது மரம் ஒன்று முறிந்து விழுந்ததில் மூவர் காயமடைந்துள்ளனர்.
+In Koswadiya, a falling tree injured three people in a parked car, including a family of three. The accident occurred on a Friday afternoon, leading to hospital admissions.
 
-குறித்த விபத்து 24 ஆம் திகதி வெள்ளிக்கிழமை பிற்பகல் இடம்பெற்றுள்ளதாகவும், காரில் இருந்த மூவர் மாரவில ஆரம்ப வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாகவும் புத்தளம் மாவட்ட அனர்த்த முகாமைத்துவ பிரிவு மற்றும் அனர்த்த நிவாரண அதிகாரிகள் தெரிவித்தனர்.
+🟩
 
-ஹலவத்தையில் இருந்து கொழும்பு நோக்கி பயணித்த கார் கொஸ்வாடியா பகுதியில் நிறுத்தி வைக்கப்பட்டிருந்த போதே பாரிய மரம் ஒன்று கார் மீது விழுந்துள்ள இந்த சோகம் சம்பவம் நிகந்துள்ளது.
+Three people were injured when a tree fell on a car parked in Koswadiya area.
 
-விபத்தில் ஒரே குடும்பத்தைச் சேர்ந்த கணவன், மனைவி மற்றும் ஏழு வயது மகள் ஆகியோர் காயமடைந்துள்ளனர்.
+The accident took place on Friday afternoon and three persons in the car were admitted to the Marawila Primary Hospital, Puttalam District Disaster Management Unit and Disaster Relief Officers said.
 
-இதே போல் கடந்த சில நாட்களுக்கு முன்பு மோட்டார் சைக்கிளில் சென்ற மூன்று பெண்கள் மரம் விழுந்து உயிரிழந்தமை குறிப்பிடத்தக்கது.
+The tragedy that a massive tree has fallen into the car is the incident when a car traveling from Halawatha to Colombo was parked in Koswadia area.
+
+A husband, wife and seven -year -old daughter of the same family were injured in the accident.
+
+Similarly, three women on a motorcycle fell down a tree a few days ago.
 
 ◼️
 
 [Data](articles/d2eff5f8.json)
+
+[Extended Data](ext_articles/d2eff5f8.ext.json)
 
 ---
 
@@ -2335,21 +2355,5 @@ It is also worth noting that the 23rd and 24 meals event will be held in view of
 [Data](articles/40a0a9e8.json)
 
 [Extended Data](ext_articles/40a0a9e8.ext.json)
-
----
-
-### Can Ranil  Wickremesinghe  Regain the Support of Tamil and Muslim Voters at the 2024 Presidential Elections?
-
-*2024-05-24 03:33:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84070) · `en`
-
-Sri Lanka’s last official census was taken in 2012. According to that census, Sri Lanka’s majority ethnic community the Sinhalese comprises 74.9 % of the island nation’s population.  Numerically, the second largest ethnicity is the Sri Lankan Tamils who are 11.1% of the population. The third largest ethnicity is the Sri Lankan Muslims or Moors who comprise 9.3% of the population. The fourth largest ethnic group is the Tamils of  Indian origin known as “Malaiyagath Thamizhar” (Hill Country Tamils) who are 4.1%.
-
-The three numerical minorities namely the Sri Lankan Tamils, Muslims and Indian Tamils together are 25.5% of the population. These three ethnic groups form the majority in some Sri Lankan districts. In other districts they are a substantive segment of the population. Since the people of all districts vote together in the Presidential elections, the entire island is transformed into a “single” constituency with a 74.9% Sinhala majority and 25.5 % non – Sinhala minorities.
-
-...
-
-[Data](articles/008ff134.json)
-
-[Extended Data](ext_articles/008ff134.ext.json)
 
 ---

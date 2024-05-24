@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-24 12:50:52**
+As of **2024-05-24 13:03:49**
 
 ## Newspaper Stats
 
-*Scraped **26,049** Articles*
+*Scraped **26,050** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,500
 dailyftlk | 1,533
 adalk | 2,226
 adaderanalk | 2,989
-tamilmirrorlk | 3,036
+tamilmirrorlk | 3,037
 virakesarilk | 3,974
 dailymirrorlk | 4,103
 adaderanasinhalalk | 4,161
@@ -26,11 +26,25 @@ adaderanasinhalalk | 4,161
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,049 (100.0%) of 26,049 articles have been extended.
+26,049 (100.0%) of 26,050 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-24 (Friday)
+
+### மலையக ரயில் சேவையில் தாமதம்
+
+*2024-05-24 12:33:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மலையக-ரயில்-சேவையில்-தாமதம்/76-337809) · `ta`
+
+மலையக ரயில் தண்டவாளத்தில் மரங்கள் மற்றும் பாறைகள் விழுந்து கிடப்பதால் மலையக ரயில் சேவையில் தாமதம் ஏற்பட்டுள்ளது.
+
+இதன் காரணமாக, பதுளை நோக்கி செல்லும் மற்றும் பதுளையில் இருந்து புறப்படும் இரவு தபால் ரயில் மற்றும் சிறப்பு ரயில்கள் இன்று ரத்து செய்யப்பட்டுள்ளதாக  ரயில்வே கட்டுப்பாட்டு அறை தெரிவித்துள்ளது. R
+
+◼️
+
+[Data](articles/a2ed6810.json)
+
+---
 
 ### President Ranil Wickremesinghe visited Jaffna
 
@@ -2293,27 +2307,5 @@ These public sector enterprises already have some kind of presence abroad.
 [Data](articles/589eadd2.json)
 
 [Extended Data](ext_articles/589eadd2.ext.json)
-
----
-
-### Main reservoir water capacity increases to 80%
-
-*2024-05-23 17:18:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Main-reservoir-water-capacity-increases-to-80/108-283266) · `en`
-
-With the current higher rainfall, the total water capacity of the main reservoirs in the country have reached to 80 percent, Irrigation (Hydrology) Director Eng. S.P.C. Sugeeshwara Bandara said.
-
-Accordingly, Deduru Oya reservoir in the Kurunegala district, Rajanganaya and Angamuwa reservoirs in the Anuradhapura District and several reservoirs in the Hambantota and Matara Districts have started spilling, he said.
-
-"Medium size tanks in the Matara district have started to spill. The spilling water levels of these tanks will increase with the higher rainfall in the next few days," he said.
-
-Meanwhile, the Irrigation Department today requested those living in the Kandy, Nuwara-Eliya and Sabaragamuwa districts to be vigilant over sudden floods due to heavy showers of about 150 mm.
-
-Those living in the above areas who have previous experiencs of sudden floods are requested to be watchful of emerging flash floods.
-
-...
-
-[Data](articles/051e50fb.json)
-
-[Extended Data](ext_articles/051e50fb.ext.json)
 
 ---

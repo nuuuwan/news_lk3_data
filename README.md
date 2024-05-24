@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-25 02:18:23**
+As of **2024-05-25 02:34:01**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 4,175
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,131 (100.0%) of 26,132 articles have been extended.
+26,132 (100.0%) of 26,132 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-25 (Saturday)
 
-### ’நாட்டை மாற்றி அமைத்த தலைவர் ரணில்’
+### Ranil, the leader who transformed the country
 
 *2024-05-25 01:39:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாட்டை-மாற்றி-அமைத்த-தலைவர்-ரணில்/175-337819) · `ta`
 
-நெருக்கடியில் சிக்கித் தவித்த நாட்டை மீட்டெடுத்து  சவால்களை தனி நபராக எதிர்கொண்டு நாட்டை மாற்றி அமைத்த தலைவர் ஐனாதிபதி ரணில் விக்கிரமசிங்க என்று வடக்கு மாகாண ஆளுநர் திருமதி சாள்ர்ஸ் தெரிவித்தார்.
+Ranil Wickremesinghe, hailed as a transformative leader, navigated Sri Lanka through economic crises, including essential shortages and power outages, showcasing resilience and leadership. His efforts were celebrated during the inauguration of the President's Medical Training and Research Building at the University of Jaffna by Mrs. Sarath Fonseka, the Governor of the Northern Province.
 
-யாழ்ப்பாணப் பல்கலைக்கழக மருத்துவபீடத்தின் மருத்துவப்பயிற்சி மற்றும் ஆராய்ச்சிக்கான கட்டடத்தொகுதி  ஜனாதிபதி திறந்து வைக்கும் நிகழ்வில் கலந்து கொண்டு உரையாற்றும் போது அவர் இவ்வாறு தெரிவித்தார். அவர் மேலும் தெரிவிக்கையில்,
+🟩
 
-பொருளாதார நெருக்கடியில் சிக்கித் தவித்த நாட்டை மீட்டெடுத்த தலைவர் எமது ஜனாதிபதி. அத்தியாவசிய பொருள்களுக்கான தட்டுப்பாடு, எரிபொருள் தட்டுப்பாடு, மின்சாரம் இன்றி நாடு இருளுக்குள் கிடந்த போது, தலைமைத்துவத்தை பொறுப்பேற்று சவால்களை வெற்றிக்கொண்டார். பல சவால்களை தனி நபராக எதிர்கொண்டு, நாட்டை மாற்றி அமைத்தார். இவ்வாறான ஜனாதிபதியின் பிரதிநிதியாக வடக்கில் ஆளுநராக சேவையாற்றுவதில் பெருமிதம் அடைகின்றேன் என்றார். (a)
+Governor of the Northern Province, Mrs. Salrs, said that the leader of the country, Ranil Wickremesinghe, who has rescued the country in crisis and confronts the country as an individual.
+
+He said this while addressing the inauguration of the President's Medical Training and Research Building at the University of Jaffna.. As he further stated,
+
+Our President who rescued the country that was caught in the economic crisis. When the country was lying in darkness without the shortage of essentials, fuel shortages and electricity, he took responsibility for leadership in charge of leadership. Faced many challenges as an individual and changed the country. I am proud to serve as the Governor of the North as the President's representative. (A)
 
 ◼️
 
 [Data](articles/77d0b998.json)
+
+[Extended Data](ext_articles/77d0b998.ext.json)
 
 ---
 

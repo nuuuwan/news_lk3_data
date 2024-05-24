@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-24 19:52:05**
+As of **2024-05-24 20:03:37**
 
 ## Newspaper Stats
 
-*Scraped **26,099** Articles*
+*Scraped **26,100** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ adaderanalk | 2,995
 tamilmirrorlk | 3,040
 virakesarilk | 3,984
 dailymirrorlk | 4,118
-adaderanasinhalalk | 4,170
+adaderanasinhalalk | 4,171
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,098 (100.0%) of 26,099 articles have been extended.
+26,099 (100.0%) of 26,100 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-24 (Friday)
+
+### එළියට ආ හමාස් රහස් වීඩියෝව
+
+*2024-05-24 19:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196978) · `si`
+
+ඊශ්‍රායල - හමාස් යුද ගැටුම්වලට මුල්වූ ඔක්තෝබර් 7 ප්‍රහාරයේදී හමාස් සංවිධානය ඊශ්‍රායල හමුදා සෙබළියන් හත් දෙනෙකු ප්‍රාණඇපයට ගන්නා වීඩියෝවක් ඊශ්‍රායල මාධ්‍ය විකාශය කර තිබේ.
+
+මේ අතරින් අයෙක් නිදහස් කර ඇති අතර තවත් අයෙක් මියගොස් ඇති බව සඳහන් වේ.
+
+ඊශ්‍රායල ජනතාවගේ අපේක්ෂාව වන්නේ, ප්‍රාණඇපකරුවන් නිදහස් කරගන්නා ලෙස ඊශ්‍රායල අගමැති බෙන්ජමින් නෙතෙන්යාහුට එල්ලවන පීඩනය මෙම වීඩියෝව මඟින් තීව්‍ර වනු ඇති බවය.
+
+◼️
+
+[Data](articles/b2427024.json)
+
+---
 
 ### UN’s top court orders Israel to halt military offensive in Rafah
 
@@ -43,6 +59,8 @@ Criticism of Israel’s conduct in the war in Gaza has been growing, particularl
 ...
 
 [Data](articles/457b6d62.json)
+
+[Extended Data](ext_articles/457b6d62.ext.json)
 
 ---
 
@@ -2329,31 +2347,5 @@ Deputy Director of the Jaffna District Disaster Management Division N. Suriyaraj
 [Data](articles/3f6a040f.json)
 
 [Extended Data](ext_articles/3f6a040f.ext.json)
-
----
-
-### Tamil devotional song, Buddhist historical stories with tens of thousands of people
-
-*2024-05-24 03:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/184348) · `ta`
-
-On Vesak Day, Buddhists worldwide honor Buddha's birth, enlightenment, and transformation. In Mullaitivu, Pudukkudiyiruppu, this sacred day was marked with Tamil devotional songs, historical stories, and the lighting of lamps. Despite differences in caste, religion, and race, tens of thousands joined in celebration, emphasizing unity and devotion.
-
-🟩
-
-Vesak Day, the sacred day of the world Buddhists, celebrated the birth, enlightenment and transformation of Gautama Buddha, was celebrated in Mullaitivu, Pudukkudiyiruppu.
-
-Buddhists at home and abroad celebrate the lighting of the lights, prioritize worship, and celebrate it on May 23rd annually with great devotion.. The Vesakthinam Mullaitivu Pudukkudiyiruppu was celebrated at the Pudukkudiyiruppu Pradeshiya Sabha grounds under the arrangement of the 59th foot.
-
-In the event, the historical stories that commemorate the Buddhist monarchy were expressed in Tamil language in Tamil and the Tamil devotional songs were broadcast as some light houses were enlightened.. All the people who attended the event were also provided with dinner.
-
-Tens of thousands of people participated in the Vesak celebration of the Vesak celebration, crossing the difference between caste, religion and race.
-
-It is also worth noting that the 23rd and 24 meals event will be held in view of the Vesakthinam.
-
-◼️
-
-[Data](articles/40a0a9e8.json)
-
-[Extended Data](ext_articles/40a0a9e8.ext.json)
 
 ---

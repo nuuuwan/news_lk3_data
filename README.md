@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-24 12:18:34**
+As of **2024-05-24 12:34:00**
 
 ## Newspaper Stats
 
-*Scraped **26,043** Articles*
+*Scraped **26,049** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,42 +15,144 @@ newsfirstlk | 363
 islandlk | 1,410
 economynextcom | 1,500
 dailyftlk | 1,533
-adalk | 2,225
+adalk | 2,226
 adaderanalk | 2,989
-tamilmirrorlk | 3,034
-virakesarilk | 3,972
+tamilmirrorlk | 3,036
+virakesarilk | 3,974
 dailymirrorlk | 4,103
-adaderanasinhalalk | 4,160
+adaderanasinhalalk | 4,161
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,038 (100.0%) of 26,043 articles have been extended.
+26,043 (100.0%) of 26,049 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-24 (Friday)
 
-### தமிழ் பின்னணியே புதிய சுவையான உணவுகளை உருவாக்குவதற்கான உத்வேகத்தை தந்தது – தமிழ் கலாச்சாரத்திலிருந்து பல விடயங்களை கற்றுக்கொண்டேன் - பிரிட்டனின் மாஸ்டர் செவ் சம்பியன் பிரின் பிரதாபன்
+### யாழ்ப்பாணம் வந்தார் ஜனாதிபதி ரணில் விக்ரமசிங்க
+
+*2024-05-24 12:16:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/யாழ்ப்பாணம்-வந்தார்-ஜனாதிபதி-ரணில்-விக்ரமசிங்க/71-337808) · `ta`
+
+வடக்கு மாகாணத்திற்கான மூன்று நாள் விஜயத்திற்காக ஜனாதிபதி ரணில் விக்ரமசிங்க இன்று காலை யாழ்ப்பாணத்தை வந்தடைந்தார்.
+
+உலங்கு வானூர்தி மூலம்  யாழ்ப்பாணம் மத்திய கல்லூரி மைதானத்தில் வந்திறங்கிய ஜனாதிபதியை, அமைச்சர் டக்ளஸ் தேவானந்தா, முன்னாள் இராஜாங்க அமைச்சர் விஜயகலா மகேஸ்வரன் ஆகியோர் வரவேற்றனர்.
+
+ஜனாதிபதி ரணில் விக்ரமசிங்க யாழ்ப்பாணப் பல்கலைக்கழக மருத்துவ பீட கட்டிடத்தை திறந்துவைப்பதுடன், துரையப்பா விளையாட்டரங்கில் நடைபெறும் இளைஞர் சேவை மன்ற நிகழ்வு, தந்தை செல்வா கலையரங்கில் நடைபெறும் ஆசிரியர் நியமன நிகழ்விலும் கலந்துகொள்கிறார். R
+
+◼️
+
+[Data](articles/7682ae2e.json)
+
+---
+
+### விபத்தில் 6 வயதுச் சிறுமி மரணம்
+
+*2024-05-24 12:12:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விபத்தில்-6-வயதுச்-சிறுமி-மரணம்/175-337807) · `ta`
+
+திருகோணமலை - மட்டக்களப்பு விதியில் நேற்று அதிகாலை மோட்டார் வாகனமொன்று கவிழ்ந்து  விபத்திற்குள்ளானதில் 6 வயதுக் குழந்தை ஒன்று உயிரிழந்துள்ளது.
+
+சேருநுவரவில் இருந்து செருகல் நோக்கி மோட்டார் வாகனம் பணித்த போது சாரதிக்கு ஏற்பட்ட தூக்கம் காரணமாக இந்த விபத்து இடம்பெற்றுள்ளது.
+
+இதன்போது, மோட்டார் வாகனத்தில் சாரதியின் குடும்ப உறுப்பினர்கள் பயணித்துள்ள நிலையில் படுகாயமடைந்த இரண்டு குழந்தைகள் ஈச்சிலம்பற்று  வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+
+அதில் ஒரு குழந்தை மேலதிக சிகிச்சைக்காக மூதூர் வைத்தியசாலைக்கு மாற்றப்பட்ட நிலையில் உயிரிழந்துள்ளார்.
+
+சடலம் மூதூர் வைத்தியசாலையின் பிரேத அறையில் வைக்கப்பட்டுள்ள நிலையில் ஈச்சிலம்பற்று பொலிஸார் விசாரணைகளை மேற்கொண்டு வருகின்றனர். R
+
+◼️
+
+[Data](articles/61203e5c.json)
+
+---
+
+### ரயில் சமிக்ஞை அமைப்பு கோளாறு: போக்குவரத்து பாதிப்பு!
+
+*2024-05-24 12:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/184367) · `ta`
+
+மலையக ரயில் சமிக்ஞை அமைப்பில் ஏற்பட்ட கோளாறு காரணமாக இன்று வெள்ளிக்கிழமை  (24) காலை முதல் மலையக ரயிலின்  பாதையின் போக்குவரத்து கடுமையாக பாதிக்கப்பட்டுள்ளது.
+
+ரயில் பாதையில் மண், கற்கள் மற்றும் மரங்கள் விழுந்துள்ளதால் ரயில் தாமதமாக வருவதாக ரயில்வே திணைக்களம் தெரிவித்துள்ளது.
+
+இதல்கஸ்ஹின்ன , ஒஹியா,அம்பேவெல மற்றும் பட்டிபொல ரயில்வே நிலையங்களுக்கு இடையிலான சமிக்ஞை அமைப்பு தடைப்பட்டுள்ளது.
+
+அத்தோடு, கொழும்பு – பதுளை மற்றும் பதுளை – கொழும்பு ஆகிய பிரதேசங்களுக்கிடையிலான இரவு நேர அஞ்சல் ரயில்களையும் இரத்து செய்ய தீர்மானிக்கப்பட்டுள்ளது.
+
+மேலும், இன்றைய விசேட ரயில் சேவையும் இரத்து செய்யப்பட்டுள்ளதாக ரயில்வே திணைக்களம் தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/e6f9093e.json)
+
+---
+
+### சுயேச்சை ஜனாதிபதி வேட்பாளராக பொன்சேக்கா…! ; வாக்களிக்கப் போகும் தரப்பினர் யார்?
+
+*2024-05-24 12:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/184365) · `ta`
+
+2009 ஆம் ஆண்டு விடுதலை புலிகளுக்கு எதிரான யுத்தம் முடிவுக்கு வந்ததும் புலிகளை வெற்றி கொள்வதற்கான வியூகங்களை யார் வகுத்தது என்ற போட்டி மனப்பான்மை  ராஜபக்ச சகோதரர்களுக்கும்  இராணுவத் தளபதி சரத் பொன்சேக்காவுக்கும் எழுந்தது. குளிர்சாத அறைகளுக்குள் அமர்ந்து கொண்டு உத்தரவுகளைப் பிறப்பித்த அதிகாரிகளை விட களத்தில் சமர் செய்த இராணுவ வீரர்களே நாட்டை காத்தனர். அவர்களுக்கே கெளரவம் செலுத்தப்படல் வேண்டும் என இராணுவத்தளபதி  சரத் பொன்சேக்கா தெரிவித்திருந்தார். அவர் பாதுகாப்பு அமைச்சின் செயலாளராக விளங்கிய கோட்டாபய ராஜபக்சவையே அவ்வாறு மறைமுகமாக சுட்டிக்காட்டினார். நாட்டின் சிங்கள பெளத்த மக்கள் போர் வெற்றிக்கு சரத் பொன்சேக்காவே காரணகர்த்தா என நினைத்தனர். அவர் மகிந்தவை விட புகழ்பெற்று விடுவார் என்று நினைத்த ராஜபக்ச சகோதரர்கள் அவரை இராணுவத்தளபதி பதவியிலிருந்து விலகக்கோரி, அதை விட குறைந்த அதிகாரமும் அந்தஸ்த்தும் கொண்ட  பாதுகாப்பு ஆளணித் தலைவர் பதவிக்கு    உயர்த்தப்பட்டார். அதன் பின்னரே பொன்சேக்கா  தனது ஓய்வை அறிவித்து விட்டு ராஜபக்சகளுக்கு எதிராக  ஜனாதிபதி தேர்தலில் களமிறங்கினார்.
+
+◼️
+
+[Data](articles/50ef9e31.json)
+
+---
+
+### Massive landslide in Papua New Guinea;Fear that 100 people may have died
+
+*2024-05-24 12:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/184364) · `ta`
+
+A devastating landslide struck Kakalam village in Papua New Guinea at 3 am on Friday, potentially claiming over 100 lives. Rescue efforts are underway amidst fears of widespread casualties.
+
+🟩
+
+The massive landslide occurred at 3 am on Friday morning at Kakalam village in the province, about 600 kilometers northwest northwest of Port Morsby.
+
+Rescuers have begun rescue operations and more than 100 people may have died, residents say.
+
+The president of the Gera Women's Association, Elizabeth Laruma, said that the houses were on the ground as the nearby hillside collapsed in the village.
+
+In the videos shared on social media, residents are seen removing large rocks and recovering the bodies from the bottom of the ruins and fallen trees.
+
+◼️
+
+[Data](articles/2aaed903.json)
+
+[Extended Data](ext_articles/2aaed903.ext.json)
+
+---
+
+### The Tamil background gave the inspiration to create new delicious foods - I learned many things from Tamil culture - Britain's Master Chev Champion Pratapan
 
 *2024-05-24 11:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/184368) · `ta`
 
-பிரிட்டனின் மிகப்பிரபலமான சமையல் போட்டியான மாஸ்டர் செவ் 2024 போட்டியில் தமிழ் கால்நடை மருத்துவர் பிரின் பிரதாபன் வெற்றிபெற்றுள்ளார்.
+Tamil chef Brin Pratapan won the British Master Chef 2024, inspired by his cultural heritage. He combines traditional flavors with creativity, attributing his success to his parents' love for food and the rich tastes of Tamil cuisine.
 
-தமிழ் கார்டியனிற்கு வழங்கியுள்ள பேட்டியில் அவர் தனது தமிழ் பின்னணியிலிருந்து  தைரியமான ஆக்கபூர்வமான சுவைகளின் சேர்க்கைகளை உருவாக்கப்பெற்ற உத்வேகத்தின் காரணமாகவே மாஸ்டர் செவ்வில் வெற்றிபெற முடிந்தது என தெரிவித்துள்ளார்.
+🟩
 
-தனது பெற்றோர்களே தனக்கு உணவு மற்றும் சுவையின் மீதான ஆர்வத்தை தூண்டினார்கள் என அவர் தெரிவித்துள்ளார்
+Tamil veterinarian Brin Pratapan has won the British most popular culinary competition, Master Chew 2024.
 
-பிரின் பிரதாபனின் தந்தை கோபால் ஒரு பொறியியலாளர் தாயார் டார்க்கே வங்கியில் பணிபுரிகின்றார்.
+In an interview with the Tamil Guardian, he said that he was able to win the Master Chest because of the inspiration to create a combination of bold creative flavors from his Tamil background.
 
-எனது சமையலில் தமிழ் கலாச்சாரம் முக்கிய பங்கு வகித்தது இந்த விடயத்தில் நான் அதிஸ்டசாலி என அவர் தெரிவித்துள்ளார்.
+He said his parents were the interest of food and flavor.
 
-எனது பெற்றோர் மிகச்சிறந்த சமையல்திறன் மிக்கவர்கள் எனது வாழ்நாள் முழுவதும் அற்புதமான தமிழ் சுவையால் வழிநடத்தப்படும் சந்தர்ப்பம் எனக்கு கிடைத்தது என அவர் தெரிவித்துள்ளார்
+Brin Pratapan's father, Gopal, is working in the bank of an engineer.
 
-...
+He said that Tamil culture played an important role in my kitchen.
+
+I have had the opportunity to lead my parents with the best cooks for the rest of my life with a wonderful Tamil flavor.
+
+As for the Tamil background, there is every taste for every taste.
+
+I have learned lessons from my Tamil culture and added them to many of the food I produce, "he told the Tamil Cardian.
+
+◼️
 
 [Data](articles/2944b2bc.json)
+
+[Extended Data](ext_articles/2944b2bc.ext.json)
 
 ---
 
@@ -72,6 +174,8 @@ The facility was ceremonially opened by the President today with the ceremony al
 
 [Data](articles/f74e4055.json)
 
+[Extended Data](ext_articles/f74e4055.ext.json)
+
 ---
 
 ### Red alert issued for heavy rainfall in multiple districts
@@ -90,23 +194,47 @@ Meanwhile, the Met. Department also issued an advisory for strong winds in the W
 
 [Data](articles/8e782f53.json)
 
+[Extended Data](ext_articles/8e782f53.ext.json)
+
 ---
 
-### தொடரும் சீரற்ற காலநிலையால் யாழில் 7 குடும்பங்கள் பாதிப்பு!
+### 7 families in Jaffna
 
 *2024-05-24 11:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/184362) · `ta`
 
-தொரடரும் சீரற்ற காலநிலையால் யாழ்ப்பாணத்தில் 7 குடும்பங்களை சேர்ந்த 19 பேர் பாதிக்கப்பட்டுள்ளதாக யாழ்ப்பாண மாவட்ட அனர்த்த முகாமைத்துவ பிரிவின் பிரதிப் பணிப்பாளர் ரி.என்.சூரியராஜா தெரிவித்துள்ளார்.
+In Jaffna, inclement weather has affected 19 individuals from 7 families across various divisions, causing partial damage to homes. The Deputy Director of the Jaffna District Disaster Management Division highlighted the impact, noting the need to cancel the Sea of the Sea event in Nedundevu due to expected turbulence.
 
-நல்லூர் பிரதேச செயலர் பிரிவிற்குட்பட்ட ஜே/125 கிராம சேவகர் பிரிவில் இரண்டு குடும்பங்களைச் சேர்ந்த நால்வர் பாதிக்கப்பட்டுள்ளதுடன் வீடு ஒன்று பகுதியளவில் சேதமடைந்துள்ளது. ஜே/191 கிராம சேவகர் பிரிவில் ஒரு குடும்பத்தை சேர்ந்த நால்வர் பாதிக்கப்பட்டுள்ளதுடன் வீடு ஒன்றும் பகுதியளவில் சேதமடைந்துள்ளது.
+🟩
 
-வேலணை பிரதேச செயலர் பிரிவிற்குட்பட்ட ஜே/33 கிராம சேவகர் பிரிவில் ஒரு குடும்பத்தை சேர்ந்த ஒருவர் பாதிக்கப்பட்டதுடன் வீடு ஒன்றும் பகுதியளவில் சேதமடைந்துள்ளது.ஜே/26 மற்றும் ஜே/21 ஆகிய பகுதிகளில் இரண்டு அடிப்படை கட்டமைப்புக்கள் பகுதியளவில் சேதமடைந்துள்ளன.
+Deputy Director of the Jaffna District Disaster Management Division, TN Suriyarajah, said that 19 persons belonging to 7 families in Jaffna have been affected by the inclement weather.
 
-தெல்லிப்பழை பிரதேச செயலாளர் பிரிவிற்குட்பட்ட ஜே/232 கிராம சேவகர் பிரிவில் ஒரு குடும்பத்தை சேர்ந்த இருவர் பாதிக்கப்பட்டுள்ளதுடன் வீடு ஒன்றும் பகுதியளவில் சேதமடைந்துள்ளது.
+Four families in the J/125 Grama Niladhari Division of the Nallur Divisional Secretariat have been affected and a house has been partially damaged.. In the J/191 Grama Niladhari Division, four members of a family have been affected and a house has been partially damaged.
+
+A family belonging to a family in the J/33 Grama Niladhari Division of the Velanai Divisional Secretariat has been partially damaged.
+
+Two members of a family have been affected and a house has been partially damaged in the J/232 Grama Niladhari Division, which belongs to the Tellippalai Divisional Secretariat Division.
+
+Four members of a family have been affected and a house has been partially damaged in the J/66 Grama Niladhari Division, which belongs to the Jaffna Divisional Secretariat Division.
 
 ...
 
 [Data](articles/081f8c19.json)
+
+[Extended Data](ext_articles/081f8c19.ext.json)
+
+---
+
+### යාපනය සරසවියේ වෛද්‍ය පීඨ නව ගොඩනැගිල්ල ජනපති විවෘත කරයි
+
+*2024-05-24 11:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196966) · `si`
+
+යාපනය විශ්වවිද්‍යාලයේ වෛද්‍ය පීඨයේ නව ගොඩනැගිල්ල ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් විවෘත කෙරුණි.
+
+යාපනය විශ්වවිද්‍යාලයේ මෙලෙස නව ගොඩනැගිල්ලක් ඉදිකර ඇත්තේ වසර 46කට පසුවය. ඒ සඳහා වැයවී ඇති මුදල රුපියල් මිලියන 942කි.
+
+◼️
+
+[Data](articles/c7e00ed3.json)
 
 ---
 
@@ -123,24 +251,6 @@ Built at a cost of Rs. 942 million, this is the first new construction at the un
 [Data](articles/c81770e4.json)
 
 [Extended Data](ext_articles/c81770e4.ext.json)
-
----
-
-### பப்புவா நியூ கினியாவில் பாரிய மண்சரிவு ; 100 பேர் உயிரிழந்திருக்கலாமென அச்சம்
-
-*2024-05-24 11:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/184364) · `ta`
-
-போர்ட் மோர்ஸ்பிக்கு வடமேற்கே சுமார் 600 கிலோமீட்டர் தொலைவில் உள்ள எங்க மாகாணத்தில் உள்ள காகலம் கிராமத்தில் வெள்ளிக்கிழமை அதிகாலை 3 மணியளவில் இந்த பாரிய மண்சரிவு ஏற்பட்டுள்ளது.
-
-மண்சரிவில் சிக்கியவர்களை மீட்கும் பணிகள் ஆரம்பிக்கப்பட்டுள்ளதோடு, 100 பேருக்கு மேற்பட்டோர் உயிரிழந்திருக்கலாம் என  குடியிருப்பாளர்கள் தெரிவிக்கின்றனர்.
-
-கிராமத்தில் அருகிலிருந்த மலைப்பகுதி சரிந்து வீழ்ந்தமையால் வீடுகள் தரைமட்டமாகியதாக கெரா பெண்கள் சங்கத்தின் தலைவர் எலிசபெத் லாருமா தெரிவித்துள்ளார்.
-
-சமூக ஊடகங்களில் பகிரப்பட்ட வீடியோக்களளில் குடியிருப்பாளர்கள் பெரிய பாறைகளை அகற்றுவதையும், இடிபாடுகள் மற்றும் வீழ்ந்த மரங்களின் அடியில் இருந்து உடல்களை மீட்பதையும் காணமுடிகிறது.
-
-◼️
-
-[Data](articles/2aaed903.json)
 
 ---
 
@@ -613,6 +723,28 @@ Police spokesman confirmed that one of the suspects is the son of a drug culprit
 [Data](articles/ec707f83.json)
 
 [Extended Data](ext_articles/ec707f83.ext.json)
+
+---
+
+### දන්සල් වදින්න ගිය තරුණයින්  තිදෙනා දුම්රියේ ගැටි මරුට
+
+*2024-05-24 09:16:24* · [`adalk`](https://www.ada.lk/breaking_news/දන්සල්-වදින්න-ගිය-තරුණයින්--තිදෙනා-දුම්රියේ-ගැටි-මරුට/11-409810) · `si`
+
+රත්ගම බූස්ස  පිංතාලිය හන්දියේ දුම්රිය හරස් මාර්ගයේදී ඊයේ (23) රෑ යතුරු පැදියක් දුම්රියේ ගැටී  තරුණයින් තිදෙනෙක් ජීවිතක්ෂයට පත්වී ඇති බව රත්ගම පොලීසිය කියයි.
+
+මෙසේ මිය ගොස් ඇත්තේ රත්ගම ගලගොඩවත්ත පදිංචි තරුණයින් තිදෙනෙක් බවද පොලීසිය කියයි.
+
+තරුණයින් තිදෙනා  වෙසක් දන්සල්  වදින්න යමින් සිටි යතුරු පැදිය දුම්රියේ ගැටීමෙන් තිදෙනා මිය ගොස් ඇති බවද පොලීසිය කියයි.
+
+ඔවුන් වයස දහ අට,දහනවය හා විස්ස වයස්  වල පසුවූවන් බවද පොලීසිය කියයි.
+
+තරුණයින් තිදෙනා ගමන් ගත් යතුරු පැදිය දුම්රියේ ගැටී බරපතල තුවාල ලබා කරාපිටිය රෝහලට රැගෙන යමින් සිටියදී තිදෙනාම ජීවික්ෂයට පත්වී ඇති බව ද පොලීසිය කියයි.
+
+ඔවුන්ගේ දේහයන් කරාපිටිය රෝහල් මෘත ශරීරාගාරයේ තැන්පත් කර බවත් අද මරණ පරීක්ෂණය කරාපිටිය රෝහලේදී පැවැත්වීමට නියමිත බවත් පොලීසිය කියයි.  රත්ගම පොලීසිය මේ පිළිබදව වාඩිදුර පරීක්ෂණ පවත්වයි.
+
+◼️
+
+[Data](articles/247791b0.json)
 
 ---
 
@@ -2147,147 +2279,5 @@ Those living in the above areas who have previous experiencs of sudden floods ar
 [Data](articles/051e50fb.json)
 
 [Extended Data](ext_articles/051e50fb.ext.json)
-
----
-
-### Korean language examination results released
-
-*2024-05-23 17:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196943) · `si`
-
-Korea language proficiency exam results for production and dealer sectors announced. 3,422 passed Sri Lanka Bureau of Foreign Employment exam out of 3,580 candidates (95.6%). Results due May 27, medical exams start May 28. Interviews for successful candidates on June 6 & 10 at various locations.
-
-🟩
-
-නිෂ්පාදන හා ධීවර අංශයන්ට අදාළව පැවැති කොරියානු භාෂා ප්‍රවීණතා විභාගයේ ප්‍රතිඵල නිකුත් කර තිබේ.
-
-3,422 applicants have passed the Sri Lanka Bureau of Foreign Employment.
-
-3,580 candidates were present at the examination and 95.6 percent of the total number of people.
-
-The results will be published on the 27th of May on the 27st of May and medical examinations will commence on 28th May.
-
-The interviews for candidates who pass the examination will be held on June 06 and 10, Provincial Offices, Provincial Offices, Migrant Resource Centers and Training Centers.
-
-◼️
-
-[Data](articles/dc2ca292.json)
-
-[Extended Data](ext_articles/dc2ca292.ext.json)
-
----
-
-### Sister's boyfriend in Kilinochchi
-
-*2024-05-23 17:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/184318) · `ta`
-
-In Kilinochchi, a 14-year-old girl was sexually assaulted by her sister's boyfriend. The incident was reported via emergency number 118, leading to police investigations. The suspect remains at large despite efforts to apprehend him, and the victim is hospitalized.
-
-🟩
-
-A 14 -year -old girl in Kilinochchi has been reported to have been sexually abused by her sister's boyfriend.
-
-Investigations carried out by the Kilinochchi police have revealed that the information was exchanged to the police following the incident of an emergency telephone number 118 in connection with the incident.
-
-Kilinochchi police said that a 14 -year -old girl from Kilinochchi has been sexually abused by the boy's boyfriend and the victim is now admitted to the Kilinochchi District Hospital.
-
-The man is said to have been hiding even though the police have taken steps to arrest the suspect in connection with the incident.
-
-◼️
-
-[Data](articles/2134e93d.json)
-
-[Extended Data](ext_articles/2134e93d.ext.json)
-
----
-
-### Samanian - Review
-
-*2024-05-23 16:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/184321) · `ta`
-
-"Samayanam" stars Ramarajan as Major Sankara Narayanan, an army officer facing personal and financial struggles. The plot revolves around a young couple, Leo Sivakumar and Naksha Saran, who face eviction and financial ruin, leading to their tragic end. Ramarajan's return to cinema after a hiatus may disappoint some due to his aging appearance. The film's soundtrack, especially the song "Namutu Laughter," featuring Ramarajan, is anticipated. Despite its slow start, the film aims to captivate audiences with its emotional climax and performances by supporting actors like M.S. Bhaskar and Radha Ravi.
-
-🟩
-
-Actors: Ramarajan, Radha Ravi, M. S.. Bhaskar, Bose Venkat, Mime Kobe, K. S.. Ravikumar, Naksha Saran, Leo Sivakumar, Smriti Venkat, Abernathi et al.
-
-Will the film meet the expectations of visitors who visit the film mansion with the single magnetic attraction and expectation of the film starring Ramarajan, who is still praised by the village fans today?Don't doWe will continue to see.
-
-Major Sankara Narayanan (Ramarajan) is working in the Indian Army and living in his village. She is a adopted woman, Naksha Saran- loves Leo Sivakumar, who is working with her parents' consent.. After marriage, they move from village to Chennai and live in rented house. The owner of the house is planning to buy a home home to give them various troubles. They are asking for a loan at a private bank.
-
-...
-
-[Data](articles/7cdb2cda.json)
-
-[Extended Data](ext_articles/7cdb2cda.ext.json)
-
----
-
-### A big rain in the next 36 hours
-
-*2024-05-23 16:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196941) · `si`
-
-Heavy rainfall expected in the next 36 hours across Sri Lanka, particularly in Kandy, Nuwara Eliya, and Western/North Western provinces. Southwest monsoon conditions persist, with potential flooding in some areas.
-
-🟩
-
-A weather notification has been issued to the next 36 hours.
-
-It states that the rain and wind is still waiting for the southwest monsoon.
-
-Accordingly, in some places in the Kandy and Nuwara Eliya districts of the Kandy and Nuwara Eliya districts of the Kandy and Nuwara Elamuwa districts. It is informed that there may be about 150 stressful.
-
-In the Western and North Western provinces, Mannar, Galle and Matara districts, mm.. Heavy rains may occur over 100.
-
-◼️
-
-[Data](articles/ff3bba8a.json)
-
-[Extended Data](ext_articles/ff3bba8a.ext.json)
-
----
-
-### The Sri Lanka - Reconciliation Project should be re -elected to the Human Rights Council Commission in September - International Human Rights Watch
-
-*2024-05-23 16:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/184322) · `ta`
-
-International Human Rights Watch urges the renewal of Sri Lanka's seat in the UN Human Rights Council, highlighting ongoing threats against civil war victims' commemorations and the need for international action to address forced disappearances and abuses. The organization calls for the repeal of laws enabling such abuses and advocates for the implementation of UN recommendations to ensure justice and prevent future atrocities.
-
-🟩
-
-Sri Lankan authorities threatened to commemorate those who were killed during Sri Lanka's civil war, the International Human Rights Watch said.
-
-The United Nations Human Rights Commission has issued a report on May 17 to take international inquiries and other accountability measures to resolve the issue of forcible disappearances during Sri Lanka's civil war, which ended on May 18, 2009.
-
-The Sri Lankan government has continued to refuse the injustices inflicted on during the Sri Lankan civil war, saying that the Sri Lankan government is seeking silence the victims and their community in response to the provision of real justice compensation.
-
-He said that more international measures are needed to provide relief to the affected people and prevent abuse.
-
-...
-
-[Data](articles/c3611427.json)
-
-[Extended Data](ext_articles/c3611427.ext.json)
-
----
-
-### Generator fumes suffocate sleeping father, son to death
-
-*2024-05-23 16:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Generator-fumes-suffocate-sleeping-father-son-to-death/108-283260) · `en`
-
-Hatton, May 23 (Daily Mirrort)- A young man and his father who had gone to bed with a standby power generator running were found dead last morning in the room.
-
-Police believe that the two men had died of suffocation caused by breathing Carbon monoxide gas emmitted by the generator.
-
-The victims Sanath Rohana (40) and his son Gagana Madusanka (17) were residents of Nesta Colony in Pupuressa.
-
-Investigations revealed that they were organizing a rice Dansela for Vesak day and when the power supply to the area was interrupted they had used a standby power generator in a room of their home. However, they had gone to bed with the generator running.
-
-The other organizers of the Dansela who found the two individuals lying motionless in the room informed police, who initiated investigations.
-
-◼️
-
-[Data](articles/1ff3b452.json)
-
-[Extended Data](ext_articles/1ff3b452.ext.json)
 
 ---

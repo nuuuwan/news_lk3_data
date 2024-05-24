@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-24 23:33:52**
+As of **2024-05-24 23:53:36**
 
 ## Newspaper Stats
 
-*Scraped **26,121** Articles*
+*Scraped **26,123** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 260
 bbccomsinhala | 264
 newsfirstlk | 363
 islandlk | 1,410
-economynextcom | 1,501
+economynextcom | 1,503
 dailyftlk | 1,533
 adalk | 2,230
 adaderanalk | 2,996
@@ -26,45 +26,55 @@ adaderanasinhalalk | 4,175
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,116 (100.0%) of 26,121 articles have been extended.
+26,121 (100.0%) of 26,123 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-24 (Friday)
 
-### ரஷ்ய போருக்கு இலங்கையர்களை அனுப்பி வைத்த தம்பதியினர் கைது
+### Couples arrested for sending Sri Lankans to Russian war
 
 *2024-05-24 23:17:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரஷ்ய-போருக்கு-இலங்கையர்களை-அனுப்பி-வைத்த-தம்பதியினர்-கைது/175-337818) · `ta`
 
-ரஷ்ய - உக்ரைன் போருக்காக இலங்கையைச் சேர்ந்த ஓய்வுபெற்ற இராணுவ உறுப்பினர்களை அனுப்பி ஆட்கடத்தலில் ஈடுபட்டமை தொடர்பில் ஓய்வுபெற்ற மேஜர் ஒருவரும் அவரது மனைவியும் குற்றப்புலனாய்வு திணைக்களத்தினரால் கைது செய்யப்பட்டுள்ளனர்.
+A retired Major and his wife have been arrested by the Criminal Investigation Department for allegedly sending Sri Lanka's retired military members for the Russian -Ukraine war.
 
-குறித்த நபர் வத்தளையிலும் அவரது மனைவி பொரளையிலும் கைது செய்யப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
+Police said the man was arrested in Wattala and his wife in Borella.
 
-சந்தேகநபர்கள் இருவரும் நீர்கொழும்பு நீதவான் நீதிமன்றத்தில் ஆஜர்படுத்தப்பட்ட பின்னர் குறித்த நபர் விளக்கமறியலில் வைக்கப்பட்டுள்ளதுடன், மனைவி பிணையில் விடுவிக்கப்பட்டுள்ளார்.
+The two suspects have been remanded after being produced before the Negombo Magistrate's Court and the wife has been released on bail.
 
-இந்த சம்பவம் தொடர்பில் இதுவரை 9 பேர் கைது செய்யப்பட்டுள்ளதாக குற்றப்புலனாய்வு திணைக்களம் தெரிவித்துள்ளது. R
+The Criminal Investigation Department said that nine people have been arrested so far in connection with the incident.. Remble
 
 ◼️
 
 [Data](articles/aa30ed4b.json)
 
+[Extended Data](ext_articles/aa30ed4b.ext.json)
+
 ---
 
-### இடைநிறுத்தப்பட்ட  வீட்டுத்திட்டம் மீண்டும் ஆரம்பிக்கப்படும் - யாழில் ஜனாதிபதி தெரிவிப்பு
+### The suspended housing scheme will be resumed - President announced in Jaffna
 
 *2024-05-24 23:11:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/இடைநிறுத்தப்பட்ட-வீட்டுத்திட்டம்-மீண்டும்-ஆரம்பிக்கப்படும்-யாழில்-ஜனாதிபதி-தெரிவிப்பு/71-337817) · `ta`
 
-தெற்காசியாவில் மக்களுக்கு இலவச காணி உரிமையை வழங்கும் ஒரே நாடு இலங்கை. வடக்கு மாகாணத்தில் வீடுகளை நிர்மாணிப்பதற்கு அடுத்த வருடம் நிதி ஒதுக்கப்படும் என "உறுமய " வேலைத்திட்டத்தின் கீழ் யாழ். மாவட்ட மக்களுக்கு காணி உறுதிகளை வழங்கும் நிகழ்வில் ஜனாதிபதி தெரிவித்தார்.
+In Jaffna, President Ranil Wickremesinghe announced the resumption of the suspended housing scheme, highlighting Sri Lanka's unique provision of free land rights across South Asia through the "Urumaya" program. This initiative aims to address land issues in the Northern Province, with plans to issue 13,858 free land guarantees in Mullaitivu, Kilinochchi, Vavuniya, and Mannar districts. The President emphasized the importance of this program in providing land rights to all citizens, addressing historical land loss due to war, and moving towards resolving land disputes in the North and East.
 
-நாட்டு மக்களின் காணி உரிமை உறுதிப்படுத்தப்பட்டு முன்னோக்கி செல்வதற்கான சந்தர்ப்பம் உருவாக்கப்படும் என ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+🟩
 
-தெற்காசியாவிலேயே மக்களுக்கு இலவச காணி உரிமையை வழங்கும் ஒரே நாடு இலங்கை என்று தெரிவித்த ஜனாதிபதி, “உறுமய” வேலைத்திட்டத்தின் மூலம் வழங்கப்படும் இலவசப் பத்திரங்களை அடுத்த சந்ததியினர் பயன்படுத்தும் வகையில் பாதுகாப்பாக வைத்திருக்குமாறு உரிமையாளர்களிடம் ஜனாதிபதி கேட்டுக்கொண்டார்.
+Sri Lanka is the only country in South Asia to give people free land rights. Under the "Urumaya" program, the Northern Province will allocate funds for the construction of houses in the Northern Province next year. The President said at the event to provide land guarantees to the people of the district.
 
-“உறுமய” வேலைத்திட்டத்தின் கீழ் யாழ்.மாவட்ட மக்களுக்கான காணி உறுதிப்பத்திரங்கள் வழங்கும் நிகழ்வில் இன்று (24) கலந்து கொண்டு ஜனாதிபதி ரணில் விக்ரமசிங்க இதனைக் குறிப்பிட்டார்.
+President Ranil Wickremesinghe said that the land rights of the people will be confirmed and the opportunity to move forward.
+
+The President said that Sri Lanka was the only country that provides free land rights to the people in South Asia, and the President asked the owners to keep the free bonds issued by the "Urumaya" program to keep the next offspring.
+
+President Ranil Wickremesinghe made this statement today (24) at the Land Rectangular Center for the people of Jaffna under the "Urumaya" program.
+
+1286 free bonds, including 15 Divisional Secretariat Divisions of the Jaffna Mawatham, were issued to the people and the President handed over land guarantees to some.
 
 ...
 
 [Data](articles/d6157b93.json)
+
+[Extended Data](ext_articles/d6157b93.ext.json)
 
 ---
 
@@ -88,21 +98,29 @@ Israel, he added, must also allow unimpeded access to Gaza to any UN body invest
 
 [Data](articles/c1eba29f.json)
 
+[Extended Data](ext_articles/c1eba29f.ext.json)
+
 ---
 
-### 6 பேர் மரணம் - அனர்த்த நிலைமைகள் தொடர்பில் விசேட கலந்துரையாடல்
+### 6 Death - Special Discussion on Disaster Conditions
 
 *2024-05-24 22:59:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/6-பேர்-மரணம்-அனர்த்த-நிலைமைகள்-தொடர்பில்-விசேட-கலந்துரையாடல்/175-337816) · `ta`
 
-நாட்டில் நிலவும் கடும் மழை மற்றும் காற்றுடன் கூடிய காலநிலை காரணமாக ஏற்பட்டுள்ள அனர்த்த நிலைமைகள் தொடர்பில் மேற்கொள்ள வேண்டிய நடவடிக்கைகள் குறித்து பாதுகாப்பு அமைச்சின் கீழ் இயங்கும் அனர்த்த முகாமைத்துவ மத்திய நிலையத்தின் அவசர செயற்பாட்டு நிலையத்தில் இன்று (மே 24) விசேட கலந்துரையாடல் பாதுகாப்பு இராஜாங்க அமைச்சர் பிரமித்த பண்டார தென்னகோன்  தலைமையில் இடம்பெற்றது.
+Special discussion was held today (May 24) at the Emergency Operations of the Disaster Management Center under the Ministry of Defense to take steps to take steps to be carried out in the country.
 
-மரங்கள் முறிந்து விழும் அபாயம் குறித்து இந்த கலந்துரையாடலின் போது விசேட கவனம் செலுத்தப்பட்டது.
+Special attention was paid to the discussion on the risk of falling trees.
 
-இதேவேளை, கடந்த 19ஆம் திகதி முதல் இன்று வரை மரங்கள் முறிந்து விழுந்ததில் 6பேர் உயிரிழந்துள்ளதுடன் 11பேர் காயமடைந்துள்ளதாகவும் 18 மாவட்டங்களில் 9616 குடும்பங்களைச் சேர்ந்த 34880 பேர் அனர்த்தத்தினால் பாதிக்கப்பட்டுள்ளதாகவும் புள்ளிவிபரங்கள் தெரிவிக்கின்றன.
+Meanwhile, 6 people have been killed and 11 people have been injured in the collapse of trees from the 19th to the present and 34880 people from 9616 families in 18 districts have been affected by the disaster.
+
+At this point, the Minister of State has congratulated the National Disaster Management Center, Government Department, District Government Agent Offices, Divisional Secretariats, Grama Niladhari Officers, Relief Service Officers, especially security forces, police and civil security forces.
+
+The Minister of State said that the number of trees falling in the recent past and that a national program is expected to be started.
 
 ...
 
 [Data](articles/e6f56b9c.json)
+
+[Extended Data](ext_articles/e6f56b9c.ext.json)
 
 ---
 
@@ -950,6 +968,26 @@ The Deputy Director of the Badulla Disaster Management Center said that the Diya
 
 ---
 
+### Sri Lanka to find investors by ‘competitive system’ after revoking plantations privatizations
+
+*2024-05-24 15:55:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-find-investors-by-competitive-system-after-revoking-plantations-privatizations-164501/) · `en`
+
+ECONOMYNEXT – Sri Lanka will revoke the privatization of plantation companies that do not pay government dictated wages, by cancelling land leases and find new investors under a ‘competitive system’, State Minister for Finance Ranjith Siyambalapitiya has said.
+
+Sri Lanka privatized the ownership of 22 plantations companies in the 1990s through long term leases after initially giving only management to private firms.
+
+Management companies that made profits (mostly those with more rubber) were given the firms under a valuation and those that made losses (mostly ones with more tea) were sold on the stock market.
+
+The privatized firms then made annual lease payments and paid taxes when profits were made.
+
+In 2024 the government decreed a wage hike announced a mandated wage after President Ranil Wickremesinghe made the announcement in the presence of several politicians representing plantations workers.
+
+...
+
+[Data](articles/5f2f435a.json)
+
+---
+
 ### 1,700 Sri Lankans who have been illegally settled in Malaysia have returned home
 
 *2024-05-24 15:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/184379) · `ta`
@@ -1113,6 +1151,26 @@ The arrest was taken based on information received by the Jaffna Regional Police
 [Data](articles/13a205cc.json)
 
 [Extended Data](ext_articles/13a205cc.ext.json)
+
+---
+
+### 300 out of 1,200 Sri Lanka central bank staff works on EPF: CB Governor
+
+*2024-05-24 15:00:00* · [`economynextcom`](https://economynext.com/300-out-of-1200-sri-lanka-central-bank-staff-works-on-epf-cb-governor-164476/) · `en`
+
+ECONOMYNEXT – About 300 central bank staff out of 1,200 are employed in the Employees Provident Fund and related work, Governor Nandalal Weerasinghe said, with the function due to be transferred to a separate agency after a revamp of its governing law.
+
+“When it comes to the EPF there is an obvious conflict of interest. We are very happy to take that function out,”  Governor Weerasinghe told a forum organized by Colombo-based Advocata Institute.
+
+“We have about 300 staff out of 1,200 including contract staff, almost 150 of permanent staff is employed to run this huge operation. I don’t think the central bank should be doing this business,”
+
+The EPF had come under fire in the past over questionable investments in stocks and also bonds.
+
+In addition, the central bank also faced a conflict of interest because it had another agency function to sell bonds for the Treasury at the lowest possible price, not to mention its monetary policy functions.
+
+...
+
+[Data](articles/4177b7d3.json)
 
 ---
 
@@ -2008,6 +2066,8 @@ President Mahamat Idriss Déby assumed office three years prior after the passin
 
 [Data](articles/e26a7795.json)
 
+[Extended Data](ext_articles/e26a7795.ext.json)
+
 ---
 
 ### ආර්ථික පරිවර්තන පනත් කෙටුම්පතට එරෙහිව නඩු පැවරීමට යයි
@@ -2299,51 +2359,5 @@ The relevant interviews for the applicants who have passed the examination will 
 [Data](articles/48603272.json)
 
 [Extended Data](ext_articles/48603272.ext.json)
-
----
-
-### Five people injured when the adventure well collapsed for the Vesak festival
-
-*2024-05-24 09:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/184351) · `ta`
-
-During the Vesak festival, five people were hurt as a well collapsed at the Divulabalesa Rodalawela Stadium. The victims include a 50-year-old woman and four men aged 13, 36, 40, and 45. Two are at Hingrankottai Hospital, while the others are at Mahiyanganna Hospital.
-
-🟩
-
-Five persons were injured when a well was injured in a ceremony held at a ceremony held at the Divulabalesa Rodalawela Stadium on Thursday night (24).
-
-The injured were a 50 -year -old woman from Divulabalesa area and four men aged 13, 36, 40 and 45, four, four men, police said.
-
-In addition, two of the injured are being treated at the Hingrankottai Hospital and the other three are being treated at the Mahiyanganna Hospital.
-
-◼️
-
-[Data](articles/391fbc83.json)
-
-[Extended Data](ext_articles/391fbc83.ext.json)
-
----
-
-### Upcountry train is obstructed
-
-*2024-05-24 09:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196961) · `si`
-
-Inclement weather causes upcountry train delays; soil, stone, and tree collapses block the track. Night post trains from Colombo to Badulla and vice versa are canceled. Today's special train is also off.
-
-🟩
-
-Due to the inclement weather, the upcountry train has been interrupted.
-
-The Railway Department states that the railroad is delayed due to the collapse of soil, stones and trees.
-
-Meanwhile, it has also been decided to cancel Colombo-Badulla and Badulla-Colombo night post trains.
-
-The Department of Sri Lanka Railways added that the special train has been canceled today.
-
-◼️
-
-[Data](articles/38af472b.json)
-
-[Extended Data](ext_articles/38af472b.ext.json)
 
 ---

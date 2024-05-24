@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-24 10:52:05**
+As of **2024-05-24 11:03:41**
 
 ## Newspaper Stats
 
-*Scraped **26,022** Articles*
+*Scraped **26,023** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,41 +20,65 @@ adaderanalk | 2,984
 tamilmirrorlk | 3,034
 virakesarilk | 3,967
 dailymirrorlk | 4,097
-adaderanasinhalalk | 4,158
+adaderanasinhalalk | 4,159
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,021 (100.0%) of 26,022 articles have been extended.
+26,022 (100.0%) of 26,023 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-24 (Friday)
 
-### නෝවා ප්‍රහාරය සිහි කරමින් නිර්මාණයක්
+### ආර්ථික පරිවර්තන පනත් කෙටුම්පතට එරෙහිව නඩු පැවරීමට යයි
+
+*2024-05-24 10:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196964) · `si`
+
+පාර්ලිමේන්තුවට ඉදිරිපත් කළ ආර්ථික පරිවර්තනය පිළිබඳ පනත් කෙටුම්පතට එරෙහිව ශ්‍රේෂ්ඨාධිකරණයේ නඩු පැවරීමට ජාතික ජන බලවේගය පක්ෂය තීරණය කර තිබේ.
+
+ආර්ථික පරිවර්තනය පිළිබඳ පනත් කෙටුම්පත සහ රටේ රාජ්‍ය මූල්‍ය කළමනාකරණය ප්‍රශස්ත මට්ටමක පවත්වාගෙන යාම වෙනුවෙන් “රාජ්‍ය මූල්‍ය කළමනාකරණ පනත් කෙටුම්පත” ද පසුගිය දා පාර්ලිමේන්තුවට ඉදිරිපත් කරනු ලැබීය.
+
+කෙසේවෙතත් වර්තමාන ආණ්ඩුව රටේ ආර්ථිකය පිළිබඳ බරපතළ පනතක් ඉතාමත්ම හෑල්ලුවකින් ඉදිරිපත් කර ඇති බවත් එම පනතින් ආයෝජන මණ්ඩලය අහෝසි කිරීමට යෝජනා කර ඇති බවත් ජාතික ජන බලවේගය පක්ෂය පෙන්වා දෙයි.
+
+මෙවැනි පනතක් පිළිබඳ ඉල්ලීමක් වාණිජ මණ්ඩලය හෝ කර්මාන්තකරුවන්ගේ සංගම් හෝ පෞද්ගලික අංශයේ කිසිවෙකුගෙන් ලැබී නොමැති අවස්ථාවක එහි අභිලාශය කුමක්දැයි ආණ්ඩුව පැහැදිලි කළ යුතු බව එම පක්ෂය සඳහන් කරයි.
+
+◼️
+
+[Data](articles/f07b8120.json)
+
+---
+
+### Design, remembering Noah attack
 
 *2024-05-24 10:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196963) · `si`
 
-ඊශ්‍රායල - හමාස් යුද ගැටුම් ආරම්භවී මේ වනවිට මාස 7ක කාලයක් ගත්වී තිබුණත් යුද ගැටුම් තවමත් ලොව පුරා පුවත් මවන මාතෘකාවකි.
+American artist Montana Tucker designed a dance piece titled "Noah Attack," inspired by the first clash between Israeli-Hamas, honoring the victims of Noah's Carnival. The performance involved 300 dancers from Israel's renowned studios, aiming to remember and call for peace through art.
 
-ඒ, යුද ගැටුම් ආරම්භයට මුල් වූ නෝවා සැණකෙළිය ඉලක්ක කළ ප්‍රහාරය සිහිපත් කරමින් කළ නිර්මාණයක් පිළිබඳ පුවතකි.
+🟩
 
-මෙම නිර්මාණය සිදුකර ඇත්තේ අමෙරිකානු කලාකාරිනියක් වන මොන්ටානා ටකර්ගේ ප්‍රධානත්වයෙනි.
+Israeli-Hamas and Hamas have begun in the conflict and seven months, the war clashes still a title.
 
-ඊට එක්වූ පිරිස ඊශ්‍රායල නර්තන ස්ටුඩියෝවේ වෘත්තීය නර්තන ශිල්පීන් බව විදෙස් වාර්තා පෙන්වා දෙයි.
+It is a story about a design that reminds the attack on Noah Carnival, the first confrontation.
 
-නෝවා සංගීත සැණකෙළියට එල්ලවූ ප්‍රහාරයෙන් 300 ඉක්මවූ පිරිසක් මියගොස් තිබුණි.
+The creation was made by American artist Montana Tucker.
 
-මෙම පිරිස මෙම නර්තනය නිර්මාණය කර තිබුණේ ඔවුන් සිහිපත් කරමිනි.
+The group said that the famous dancers of Israel's dancing studio.
 
-මොන්ටානා ටකර් ඊශ්‍රායල - හමාස් යුද ගැටුම් සම්බන්ධයෙන් සටන් විරාමයක් ඉල්ලා හඬනඟන සමාජ මාධ්‍ය ක්‍රියාකාරිනියකි.
+There were 300 people from Noah's carnival.
 
-ඇය පවසන්නේ ඔක්තෝබර් 7 ප්‍රහාරය ලෝකය කිසිදා අමතක නොකළ යුතු බවය.
+They had created this dance with remembrance of them.
+
+Montana Tucker is a social media activist calling for a ceasefire on war conflicts.
+
+She says that the world should never forget the attack.
 
 ◼️
 
 [Data](articles/98330e27.json)
+
+[Extended Data](ext_articles/98330e27.ext.json)
 
 ---
 
@@ -2297,39 +2321,5 @@ He said a note from his X account that 39600 electric drows were reported. .
 [Data](articles/70a0d101.json)
 
 [Extended Data](ext_articles/70a0d101.ext.json)
-
----
-
-### Cigarettes of 51 lakhs arrested
-
-*2024-05-23 14:13:05* · [`adalk`](https://www.ada.lk/breaking_news/ලක්‍ෂ--51ක-දුම්වැටි-කටුනායකින්-අල්ලයි/11-409803) · `si`
-
-Two individuals, a 48-year-old businessman from Marawila, Chilaw, and a 33-year-old from Modara, Colombo, were arrested at the Katunayake airport for smuggling cigarettes. The first had 86 cartons (17,200 cigarettes) and the second had 123 cartons (24,600 cigarettes), along with 49 cartons of "Platinum" cigarettes. They were released on bail and will appear in court on May 29th.
-
-🟩
-
-Two passengers were brought to the country with 51,600 cigarettes of Rs.5/23 morning was arrested.
-
-One of the passengers, a 48 year old businessman resident of Marawila, Chilaw. She is frequent frequent flights and selling various items to Sri Lanka.
-
-She was 5.15 am from Bangalore, Bangalore, India from Bangalore, India from Bangalore, India - The Airport held at the Katunayake airport on the 174th.
-
-She was enacted by her travel bag and 86 cigarettes crocodies were brought in 17,200 smoky cigarettes worth Rs.
-
-A 33-year-old businessman resident of Modara, Colombo, was also taken to the Katunayake airport.
-
-He from Dubai to SriLankan Airlines from Dubai at 05/23 days. The airport was arrived at the Katunayake airport on the 226.
-
-He has taken 123 cigarettes cartoons containing 24,600 smoking cigarettes worth Rs.
-
-In addition, the businessman is the "Platinum" type of "Platinum" cigarettes worth Rs
-
-49 smoking cartoons containing 9,800 cigarettes were brought to their luggage.
-
-...
-
-[Data](articles/a6bb8448.json)
-
-[Extended Data](ext_articles/a6bb8448.ext.json)
 
 ---

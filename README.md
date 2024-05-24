@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-24 17:20:01**
+As of **2024-05-24 17:34:14**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,167
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,081 (100.0%) of 26,083 articles have been extended.
+26,083 (100.0%) of 26,083 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,27 +50,35 @@ Meanwhile, Sri Lanka is scheduled to face South Africa in their opening group-st
 
 [Data](articles/6c031ace.json)
 
+[Extended Data](ext_articles/6c031ace.ext.json)
+
 ---
 
-### තවත් ගසක් මෝටර් රථයක් මතට කඩා වැටෙයි
+### Another tree collapses on a car
 
 *2024-05-24 16:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196974) · `si`
 
-මහවැව, කොස්වාඩිය ප්‍රදේශයේ නවතා තිබූ මෝටර් රථයක් මතට ගසක් කඩා වැටී පුද්ගලයින් තිදෙනෙක් තුවාල ලබා තිබේ.
+A massive tree fell on a parked car in Koswadiya, injuring three members of a family during their trip from Chilaw to Colombo. The victims, including a husband, wife, and their seven-year-old child, were rushed to Marawila Base Hospital after the incident. This tragic event follows recent deaths of three women hit by motorcycles.
 
-අද (24) දහවල් මෙම අනතුර සිදුවු අතර, මෝටර් රථයේ සිටි පුද්ගලයින් තිදෙනෙක් මාරවිල මුලික රෝහලට ඇතුළත් කළ බව පුත්තලම දිස්ත්‍රික් ආපදා කළමණාකරණ ඒකකය හා අපදා සහන නිලධාරීන් පවසයි.
+🟩
 
-හලාවත සිට කොළඹ බලා ගමන් කරමින් තිබු මෝටර් රථය කොස්වාඩිය ප්‍රදේශයේ දී නවතා තිබියදී නොසිතු ලෙස එම ස්ථානයේ තිබු දැවැන්ත ගසක් එකවර මෝටර් රථය මතට කඩා වැටී ඇත.
+Three persons were injured in a tree that collapsed on a car parked in the Koswadiya area in Mahawewa.
 
-අනතුරින් එකම පවුලේ සැමියා, බිරිඳ සහ හත් හැවිරිදි දියණිය මෙලෙස තුවාල ලබා තිබේ.
+The accident had occurred this afternoon and three persons in the car have been admitted to the Marawila Base Hospital.
 
-මෝටර් රථයේ සිරවී සිටි සියලුදෙනාම මහතා පරිශ්‍රමයක් දරා එළියට ගැනීමට ප්‍රදේශවාසීන්ට හැකි වී තිබු අතර දියණිය හා අදාළ යුවළ දැඩි කම්පනයට පත්ව සිටි බව ඔවුන් පැවසීය.
+While traveling from Chilaw to Colombo, the car parked in the Koswadi area, and a tremendous tree in the collapse collapsed on the car simultaneously.
 
-පසුගිය දින කිහිපය තුළ ගස් කඩා වැටීමේන් යතුරුපැදිවල ගමන් කළ කාන්තාවන් තිදෙනෙකු මරණයට පත් තිබිණි.
+The same family husband, wife and seven were injured in the accident.
+
+Residents of the area were able to take out of the car to carry out the effort and the daughter and the couple were shocked.
+
+In the past few days, three women who have traveled in motorcyclists in the past few days have died.
 
 ◼️
 
 [Data](articles/405fe5c2.json)
+
+[Extended Data](ext_articles/405fe5c2.ext.json)
 
 ---
 

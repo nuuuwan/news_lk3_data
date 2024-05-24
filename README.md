@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-24 16:34:04**
+As of **2024-05-24 16:51:28**
 
 ## Newspaper Stats
 
@@ -26,29 +26,35 @@ adaderanasinhalalk | 4,166
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,078 (100.0%) of 26,080 articles have been extended.
+26,080 (100.0%) of 26,080 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-24 (Friday)
 
-### පැපුවා නිව් ගිනියාවේ බිහිසුණු නායයෑමක්
+### Papua New Guinea is a hideous landslide
 
 *2024-05-24 16:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196973) · `si`
 
-පැපුවා නිව් ගිනියාවේ දුෂ්කර ගම්මාන හයකට බලපෑම් එල්ල කරමින් ඇති වූ නායයෑමෙන් ජීවිත රැසක් අහිමි වී ඇතැයි විදෙස් මාධ්‍ය වාර්තා කරයි.
+A devastating landslide in Papua New Guinea submerged over 100 homes, causing unknown casualties and trapping victims under debris. The event, described as a natural catastrophe by local authorities, prompted Prime Minister James Marape to dispatch disaster relief teams.
 
-ඊයේ (23) සිදු වූ මෙම නායයෑමෙන් නිවාස 100කට වැඩි ගණනක් පස්වලින් සම්පූර්ණයෙන්ම යට වී ඇති බව විදෙස් වාර්තා සඳහන් කරයි.
+🟩
 
-මෙහිදී සිදු වී ඇති ජීවිත හානි ගණන හෝ සුන්බුන් අතර කොපමණ පිරිසක් සිරවී ඇති ද යන්න නිශ්චිතවම තවමත් ප්‍රකාශ කළ නොහැකි බව වාර්තා වේ.
+Foreign media reports that landslides have been deprived of a landslide in Papua New Guinea.
 
-මෙම නායයෑම සිදු වූ  Enga නම් ප්‍රදේශයේ ආණ්ඩුකාරවරයා මාධ්‍යයට පවසා ඇත්තේ මෙය මීට පෙර සිදුනොවූ ස්වභාවික ව්‍යවසනයක් බවය.
+The landslide of yesterday (23) had been submerged from more than 100 houses.
 
-එමෙන්ම පැපුවා නිව් ගිනියාවේ අග්‍රාමාත්‍ය James Marape පවසා ඇත්තේ, මළ සිරුරු ගොඩගැනීම සඳහා අවශ්‍ය සහන සේවා සැපයීමට සහ යටිතල පහසුකම් සඳහා අදාළ ස්ථානයට ආපදා නිලධාරීන් යොමු කර ඇති බවය.
+It is reported that how many people have been stuck between the number of casualties or debris.
+
+The governor of the Ega, the landslide, told the media that this was a natural catastrophe.
+
+Papua New Guinea, Prime Minister James Marape, has said that the disaster officers have been sent to the relevant place for the construction of bodies and the infrastructure.
 
 ◼️
 
 [Data](articles/742eb003.json)
+
+[Extended Data](ext_articles/742eb003.ext.json)
 
 ---
 
@@ -67,6 +73,8 @@ It also confirmed no evidence of bullets or similar items in the wreckage.
 ◼️
 
 [Data](articles/8af00c6f.json)
+
+[Extended Data](ext_articles/8af00c6f.ext.json)
 
 ---
 

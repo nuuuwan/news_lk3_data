@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-24 19:03:47**
+As of **2024-05-24 19:18:19**
 
 ## Newspaper Stats
 
-*Scraped **26,095** Articles*
+*Scraped **26,097** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,53 +16,103 @@ islandlk | 1,410
 economynextcom | 1,501
 dailyftlk | 1,533
 adalk | 2,229
-adaderanalk | 2,993
+adaderanalk | 2,994
 tamilmirrorlk | 3,040
 virakesarilk | 3,983
-dailymirrorlk | 4,117
+dailymirrorlk | 4,118
 adaderanasinhalalk | 4,170
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,093 (100.0%) of 26,095 articles have been extended.
+26,095 (100.0%) of 26,097 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-24 (Friday)
 
-### ශ්‍රී පාද වන්දනා වාරය අවසන්
+### Over 300,000 power disruptions due to bad weather
 
-*2024-05-24 18:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196977) · `si`
+*2024-05-24 18:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Over-300-000-power-disruptions-due-to-bad-weather/108-283304) · `en`
 
-2023-2024 වර්ෂය සඳහා පැවති ශ්‍රී පාද වන්දනා වාරය ඊයේ දින වෙසක් පොහෝ දිනයෙන් අවසන් විමත් සමඟ ශ්‍රී පාද උඩ මළුවේ තැන්පත් කර තිබු සධාතුක කරඬුව, සමන් දේව ප්‍රතිමාව සහ දේව ආභරණ පැල්මඩුල්ල රජ මහා විහාරස්ථානය දක්වා මාර්ග හතරක් ඔස්සේ වැඩම කිරීම අද (24) සිදුකෙරිණි.
+Colombo, May 24 (Daily Mirror) - Over 300,000 power disruption incidents were reported during the past few days with more than 30,000 occurring within a single hour on some days, the Ceylon Electricity Board Engineers' Union (CEBEU) said.
 
-ඉන් එක් පෙරහරක් ශ්‍රී පාද උඩ මළුවේ සිට රත්නපුර පලාබද්දල මාර්ගය ඔස්සේත් තවත් පෙරහරක් කුරුවිට එරත්න මාර්ගය ඔස්සේ ත් වැඩම කළ අතර, තවත් පෙරහරක් ශ්‍රී පාද උඩ මළුවේ සිට නල්ලතන්නිය ලක්ෂපාන අවිස්සාවේල්ල රත්නපුර හරහා පැල්මඩුල්ල රජමහා විහාරස්ථානය දක්වා වැඩම කරන බව ශ්‍රී පාදස්ථානාධිපති සබරගමු පළාත් ප්‍රධාන සංඝ නායක බෙංගමුවේ ධම්මදින්න නාහිමියන් පවසයි.
+While issuing a media release they said they had experienced significant delays in restoring power outages caused by recent severe weather conditions.
 
-නල්ලතන්නිය බෞද්ධ මධ්‍යස්ථානයේ සිට කරඬුන් වහන්සේ නමක් රැගත් තවත් පෙරහැරක් බගවන්තලාව බලංගොඩ මාර්ගය ඔස්සේ පැල්මඩුල්ල රජමහා විහාරස්ථානය වෙත වැඩම කෙරිණ.
+The CEBEU has expressed regret over these delays, attributing them to the limited number of technical staff available to address the issues.
 
-මාර්ග හතරක් ඔස්සේ වැඩම කරනු ලැබු සධාතුක කරඬුව, සමන් දේව ප්‍රතිමාව සහ දේව ආභරණ අද රාත්‍රියේ සිට හෙට (25) දහවල් වන තෙක් පැල්මඩුල්ල ශ්‍රී පාද රජ මහා විහාරස්ථානයේ තැන්පත් කර විශේෂ දේව පුජාවන් ගණනාවක් පවත්වයි.
+Additionally, the high volume of calls has overwhelmed CEB telephone operators, leading to many calls from consumers going unanswered.
 
-...
+The union has urged the public to exercise patience and caution, advising them not to touch any live wires during outages, while the technical teams work to restore power as quickly as possible.
 
-[Data](articles/4707b86f.json)
+◼️
+
+[Data](articles/7b6d5d40.json)
 
 ---
 
-### කොල්ලුපි‍ටියේ පෞද්ගලික රෝහලක ගින්නක්
+### 1,289 Navy deserters discharge during general amnesty
+
+*2024-05-24 18:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/99417/1289-navy-deserters-discharge-during-general-amnesty) · `en`
+
+Nearly 1,300 naval personnel, who were absent without obtaining leave (AWOL) have been legally discharged during the general amnesty period declared from 20th April to 20th May 2024, Sri Lanka Navy said.
+
+This general amnesty was applicable only for sailors, except all Artificers, Professional Medical and Professional Dental sailors, who have been absent without leave, to obtain official discharge, it added.
+
+Accordingly, a total of 1,289 personnel including 1,254 naval personnel who were absent without leave and an additional 35 naval personnel who are currently overseas and AWOL, were official discharged during this general amnesty period, according to Sri Lanka Navy.
+
+◼️
+
+[Data](articles/df68933d.json)
+
+---
+
+### Sri Pada pilgrimage is over
+
+*2024-05-24 18:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196977) · `si`
+
+The Sri Pada pilgrimage concluded with events like the Scheme of Scheme for 2023-2024, unveiling the Saman Deva statue, and the Deva Jeweramanna across four routes leading to the Pelmadulla Raja Maha Viharaya. Notably, one route saw an increase in participation from the Kuruwita road via Ratnapura, extending through Sri Pilateeniya and Sri Padawita Roads in the Sabaragamuwa Province. The Nallataniiya procession also reached the Pelmadulla Rajamaha Viharaya via the Bagawadalawa Balangoda road. Tomorrow, the Pelmadulla Sri Pada Raja Maha Viharaya will host activities until the afternoon, followed by a journey to the Gavalpattawa Viharaya for residents.
+
+🟩
+
+The Scheme of Scheme for the year 2023-2024, Saman Deva statue and the Deva Jeweramanna took place on four routes to the Pelmadulla Raja Maha Viharaya.
+
+One of the fillers increased from the Kuruwita road from the Kuruwita road from Ratnapura from Ratnapura from Ratnapura from Ratnapura from Ratnapura from Ratnapura, Sri Pilateeniya road from Ratnapura from Ratnapura, Sri Padawita Road, Sabaragamuwa Province.The Dhammanda Thero says.
+
+The Nallataniiya was taken to the Pelmadulla Rajamaha Viharaya in Bagawadalawa Balangoda road.
+
+Pelmadulla Sri Pada Pada Raja Maha Viharaya will be placed at the Peliya Pada Raja Maha Viharaya tomorrow until the afternoon.
+
+The Commander of the Sri Parathi Thera said that the resident of the road will be taken to the Gavalpattawa Viharaya of the afternoon tomorrow evening.
+
+◼️
+
+[Data](articles/4707b86f.json)
+
+[Extended Data](ext_articles/4707b86f.ext.json)
+
+---
+
+### Fire in a private hospital in Kollupitiya
 
 *2024-05-24 18:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196976) · `si`
 
-කොල්ලුපිටිය ප්‍රදේශයේ පිහිටි පෞද්ගලික රෝහලක හටගත් ගින්න පාලනය කර තිබේ.
+A fire broke out in a private hospital in Kollupitiya, managed by two fire delegates from the Colombo Municipal Council, who successfully contained it by 12 noon on 24th.
 
-අද (24) දහවල් 12ට පමණ එම රෝහලේ තෙවන මහලේ ගින්නක් හටගෙන ඇති බවට කොළඹ මහනගර සභාවේ ගිනිනිවීම් ඒකකය වෙත දැනුම් දී ඇති බව සඳහන්ය.
+🟩
 
-ඒ සඳහා ගිනි නිවීමේ රථ දෙකක් පිටත්කර ඇති අතර ගින්න සම්පූර්ණයෙන්ම මේ වන විට පාලනය කර ඇති බව කොළඹ මහ නගර සභාවේ ගිනිනිවීම් ඒකකය පැවසුවේය.
+The fire was managed in a private hospital in Kollupitiya.
+
+The fire of the Colombo Municipal Council has informed the Colombo Municipal Council that a fire has erupted at around 12 noon today (24).
+
+Two fire delegates have been departed and the fire has been completely controlled so far, according to the Fireviring Unit of the Colombo Municipal Council.
 
 ◼️
 
 [Data](articles/2f5f34b0.json)
+
+[Extended Data](ext_articles/2f5f34b0.ext.json)
 
 ---
 
@@ -2301,53 +2351,5 @@ The protesters said, "Taitti is our property, the Tamil homeland of the North an
 [Data](articles/e55c8fe8.json)
 
 [Extended Data](ext_articles/e55c8fe8.ext.json)
-
----
-
-### The solution to the world's problems
-
-*2024-05-24 03:17:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உலக-பிரச்சினைகளுக்கு-தேரவாத-பௌத்தத்தில்-தீர்வு/175-337803) · `ta`
-
-President Wickremesinghe highlighted Theravada Buddhism as a solution to global challenges, citing its preservation in Matale and its potential to address modern issues like AI and technology. He emphasized the importance of understanding Buddhism's true essence to tackle contemporary problems effectively.
-
-🟩
-
-President Ranil Wickremesinghe said that the problems faced by the world with science and technology are solved in Theravada Buddhism.
-
-The President said this while addressing the State Vesak Festival held at the Dharmaraja Paravena Viharaya in Matale yesterday morning through electronic technology.. As he further stated,
-
-“St. Buddhism was preserved because of the consecration of the Tripitakam in the historic article in Matale. It is a pleasure to celebrate the royal Vesak festival this year, focusing on the Matale district, which is the main place of Theravada Buddhism.
-
-The Maha Sangha is not the only one from the divisions in the Anuradhapura Yuga. Scholars such as Senarath Paranavidhana have stated that the education system has the opportunity to start the world's most important irrigation system in Sri Lanka.
-
-...
-
-[Data](articles/396de751.json)
-
-[Extended Data](ext_articles/396de751.ext.json)
-
----
-
-### Food insecurity
-
-*2024-05-24 02:50:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெருந்தோட்ட-பகுதிகளில்-உணவு-பாதுகாப்பின்மை/175-337802) · `ta`
-
-In 2023, Sri Lanka saw a significant increase in food insecurity, especially in plantation areas, with the highest rates ever recorded. The World Food Scheme's report revealed that 24% of families lacked sufficient food, highlighting a critical issue.
-
-🟩
-
-The World Food Scheme said that food insecurity has increased in the plantation areas of Sri Lanka.
-
-The World Food Scheme said that the highest food insecurity rate in Sri Lanka was recorded in 2023.
-
-The World Food Scheme has released its 2023 home food safety assessment report based on sample families.
-
-According to the report, 24 percent of families were facing lack of food security last year.. (A)
-
-◼️
-
-[Data](articles/b6e64927.json)
-
-[Extended Data](ext_articles/b6e64927.ext.json)
 
 ---

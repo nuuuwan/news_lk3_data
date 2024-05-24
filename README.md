@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-24 15:03:38**
+As of **2024-05-24 15:18:24**
 
 ## Newspaper Stats
 
-*Scraped **26,062** Articles*
+*Scraped **26,063** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,410
 economynextcom | 1,500
 dailyftlk | 1,533
 adalk | 2,226
-adaderanalk | 2,990
+adaderanalk | 2,991
 tamilmirrorlk | 3,040
 virakesarilk | 3,974
 dailymirrorlk | 4,107
@@ -26,25 +26,49 @@ adaderanasinhalalk | 4,164
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,060 (100.0%) of 26,062 articles have been extended.
+26,062 (100.0%) of 26,063 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-24 (Friday)
 
-### විදුලිය බිඳ වැටීම් ගැන විදුලිබල මණ්ඩලයෙන් දැනුම්දීමක්
+### Sri Lanka rejects inclusion of Cuba on list of terrorist states
+
+*2024-05-24 14:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/99414/sri-lanka-rejects-inclusion-of-cuba-on-list-of-terrorist-states) · `en`
+
+Colombo, May 23 (Prensa Latina) The Joint Committee of Democratic Unions of Sri Lanka confirmed its support for Cuba’s declaration demanding its fair elimination from the list of states sponsors of terrorism created by the United States.
+
+The organization confirmed in a statement that adding Cuba to the arbitrary list has political purposes and causes serious economic problems for the Cuban people, despite which Cuba resists and is an example for the people who fight against imperialism.
+
+The Committee agreed with the Cuban Foreign Ministry that it is not enough for the United States to recognize Cuba’s full collaboration in the fight against terrorism; they must go further and remove Cuba from the unjust list.
+
+In recent days, various Sri Lankan organizations joined the global demand against the aggressive policy of the United States against Cuba and demanded the removal of Cuba from the unjust list once and for all.
+
+...
+
+[Data](articles/4ac331ed.json)
+
+---
+
+### The Electricity Board (CEB) an notice of electricity crash
 
 *2024-05-24 14:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196971) · `si`
 
-අයහපත් කාලගුණ තත්ත්වය හේතුවෙන් සිදුවන විදුලි බිඳවැටීම් යථා තත්ත්වයට පත්කිරීමේ දී සිදුවන ප්‍රමාදයන් පිළිබඳව කනගාටුව ප්‍රකාශ කරමින් ලංකා විදුලිබල මණ්ඩල ඉංජිනේරු සංගමය නිවේදනයක් නිකුත් කර තිබේ.
+Due to adverse weather conditions, the Ceylon Electricity Board reports delays in restoring electricity. Some areas experienced damage to distribution lines and transformers.
 
-ආපදා තත්ත්වයන් යටතේ ඇතැම් ප්‍රදේශවල බෙදාහැරීම් ‍වෝල්ටීයතා විදුලි රැහැන් මාර්ග විශාල ප්‍රමාණයක් මෙන්ම transformer මතට පවා ගස් කඩා වැටී විදුලිය බිඳ වැටී ඇත.
+🟩
 
-මේ සම්බන්ධයෙන් විදුලිබල මණ්ඩල ඉංජිනේරු සංගමය නිකුත් කළ නිවේදනය පහතින් දැක්වේ.
+The Ceylon Electricity Board Engineer (CEB) has issued a statement regarding the delays in the delay in the restoration of electricity due to inclement weather.
+
+In some areas under disasters, some distribution voltage power wires and even on Transformer have collapsed the electricity.
+
+The following is a statement issued by the Electricity Board Engineer in this regard.
 
 ◼️
 
 [Data](articles/d2d87d09.json)
+
+[Extended Data](ext_articles/d2d87d09.ext.json)
 
 ---
 
@@ -63,6 +87,8 @@ Very strong winds 60-70 kmph, accompanied with heavy rainfalls and very rough se
 ...
 
 [Data](articles/9675a771.json)
+
+[Extended Data](ext_articles/9675a771.ext.json)
 
 ---
 
@@ -2277,29 +2303,5 @@ The police have died in danger between the ages of 17 and 19 years old.
 [Data](articles/0cdfb588.json)
 
 [Extended Data](ext_articles/0cdfb588.ext.json)
-
----
-
-### We are looking forward to the presidential candidate of PA - Udaya Kammanpila
-
-*2024-05-23 19:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/184340) · `ta`
-
-Udaya Kammanpila, leader of the Pivithuru Hela Urumaya, supports President Ranil Wickremesinghe, indicating a shift in the Bandaranaike family's political future. Despite Basil Rajapaksa's efforts to dissolve parliament, the PA leans towards Wickremesinghe as their candidate, suggesting a potential change in leadership and alliances ahead of the elections.
-
-🟩
-
-With the support of the PA, President Ranil Wickremesinghe re -ruled with the people of the Bandaranaike family, the Rajapaksas will be the political fate of the Bandaranaike family. Udaya Kammanpila, the leader of the Pivithuru Hela Urumaya (Hela Urumaya Party) and Member of Parliament, said,
-
-He was speaking to the media after attending a function held in Colombo on Thursday (23).
-
-The president has reiterated that the presidential election will be held in accordance with the Constitution. If the general election is held before the presidential election, it will be a disadvantage for the president and the country.
-
-The President said that when the founder of the PA Basil Rajapaksa continued to insist on holding the general election before the presidential election, the President said that the signatures of 113 members should be dissolved.
-
-...
-
-[Data](articles/8afbf8b7.json)
-
-[Extended Data](ext_articles/8afbf8b7.ext.json)
 
 ---

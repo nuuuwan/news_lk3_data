@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-24 20:03:37**
+As of **2024-05-24 20:18:39**
 
 ## Newspaper Stats
 
-*Scraped **26,100** Articles*
+*Scraped **26,101** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,32 +19,38 @@ adalk | 2,229
 adaderanalk | 2,995
 tamilmirrorlk | 3,040
 virakesarilk | 3,984
-dailymirrorlk | 4,118
+dailymirrorlk | 4,119
 adaderanasinhalalk | 4,171
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,099 (100.0%) of 26,100 articles have been extended.
+26,100 (100.0%) of 26,101 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-24 (Friday)
 
-### එළියට ආ හමාස් රහස් වීඩියෝව
+### The secret video of the Hamas out
 
 *2024-05-24 19:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196978) · `si`
 
-ඊශ්‍රායල - හමාස් යුද ගැටුම්වලට මුල්වූ ඔක්තෝබර් 7 ප්‍රහාරයේදී හමාස් සංවිධානය ඊශ්‍රායල හමුදා සෙබළියන් හත් දෙනෙකු ප්‍රාණඇපයට ගන්නා වීඩියෝවක් ඊශ්‍රායල මාධ්‍ය විකාශය කර තිබේ.
+Hamas attacked Israel on Oct 7, capturing 7 soldiers; one released, one dead. This escalates tensions as PM Netanyahu faces calls from PM Rattanyahu to free the hostages.
 
-මේ අතරින් අයෙක් නිදහස් කර ඇති අතර තවත් අයෙක් මියගොස් ඇති බව සඳහන් වේ.
+🟩
 
-ඊශ්‍රායල ජනතාවගේ අපේක්ෂාව වන්නේ, ප්‍රාණඇපකරුවන් නිදහස් කරගන්නා ලෙස ඊශ්‍රායල අගමැති බෙන්ජමින් නෙතෙන්යාහුට එල්ලවන පීඩනය මෙම වීඩියෝව මඟින් තීව්‍ර වනු ඇති බවය.
+Israeli-Hamas - Hamas was attacked by the Hamas, 4 October 7 attack, the Hamas had seven Israeli soldiers a video of the country.
+
+One of them has been released and another has died.
+
+The views of Israeli Prime Minister Benjamin Ratmanyahu will be intensifying the pressure to Israeli Prime Minister Benjamin Netheh to free the hostages.
 
 ◼️
 
 [Data](articles/b2427024.json)
+
+[Extended Data](ext_articles/b2427024.ext.json)
 
 ---
 
@@ -867,6 +873,26 @@ Despite regular inspections conducted by Public Health Inspectors (PHIs) during 
 [Data](articles/38469668.json)
 
 [Extended Data](ext_articles/38469668.ext.json)
+
+---
+
+### Health officials raise alarm over hygiene standards at Dansals
+
+*2024-05-24 14:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Health-officials-raise-alarm-over-hygiene-standards-at-Dansals/155-283299) · `en`
+
+Colombo, May 24 (Daily Mirror) -  As relentless rainfall continues, health authorities are sounding the alarm on hygiene standards at dansals during the Vesak festival.
+
+A senior official from the Health Ministry disclosed to the Daily Mirror that they have instructed local Medical Officers of Health and Public Health Inspectors to intensify monitoring of hygiene practices at dansals.
+
+Furthermore, health authorities have issued a public notice urging immediate reporting to the nearest Medical Officer of Health or Public Health Inspector if any food served at dansals is deemed unsafe or unfit for consumption.
+
+Despite regular inspections conducted by Public Health Inspectors (PHIs) during the Vesak festival, Head of the PHI Union Upul Rohan told Daily Mirror that certain dansals have failed to meet the required hygiene standards.
+
+“We will take necessary action against operators of the such dansals,” he stressed.
+
+...
+
+[Data](articles/967be844.json)
 
 ---
 
@@ -2327,25 +2353,5 @@ Sri Lanka Tourism Promotion Bureau (SLTPB) has been participating at this event 
 [Data](articles/05096e4b.json)
 
 [Extended Data](ext_articles/05096e4b.ext.json)
-
----
-
-### The sea will not be a maritime transport
-
-*2024-05-24 03:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/184349) · `ta`
-
-Due to expected turbulence, the sea-based maritime transport event scheduled for the 24th has been canceled.
-
-🟩
-
-It has been announced that the sea will not be held on the 24th of this month.
-
-Deputy Director of the Jaffna District Disaster Management Division N. Suriyarajah said that the decision has been reached due to the fact that the sea will be turbulent on Friday, 24th.
-
-◼️
-
-[Data](articles/3f6a040f.json)
-
-[Extended Data](ext_articles/3f6a040f.ext.json)
 
 ---

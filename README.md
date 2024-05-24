@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-24 19:18:19**
+As of **2024-05-24 19:34:04**
 
 ## Newspaper Stats
 
-*Scraped **26,097** Articles*
+*Scraped **26,098** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 1,533
 adalk | 2,229
 adaderanalk | 2,994
 tamilmirrorlk | 3,040
-virakesarilk | 3,983
+virakesarilk | 3,984
 dailymirrorlk | 4,118
 adaderanasinhalalk | 4,170
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,170
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,095 (100.0%) of 26,097 articles have been extended.
+26,097 (100.0%) of 26,098 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,6 +50,8 @@ The union has urged the public to exercise patience and caution, advising them n
 
 [Data](articles/7b6d5d40.json)
 
+[Extended Data](ext_articles/7b6d5d40.ext.json)
+
 ---
 
 ### 1,289 Navy deserters discharge during general amnesty
@@ -65,6 +67,28 @@ Accordingly, a total of 1,289 personnel including 1,254 naval personnel who were
 ◼️
 
 [Data](articles/df68933d.json)
+
+[Extended Data](ext_articles/df68933d.ext.json)
+
+---
+
+### நிறுத்தி வைக்கப்பட்டிருந்த கார் மீது மரம் ஒன்று முறிந்து விழுந்ததில் மூவர் காயம்
+
+*2024-05-24 18:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/184415) · `ta`
+
+மஹவெவ, கொஸ்வாடிய பிரதேசத்தில் நிறுத்தி வைக்கப்பட்டிருந்த கார் மீது மரம் ஒன்று முறிந்து விழுந்ததில் மூவர் காயமடைந்துள்ளனர்.
+
+குறித்த விபத்து 24 ஆம் திகதி வெள்ளிக்கிழமை பிற்பகல் இடம்பெற்றுள்ளதாகவும், காரில் இருந்த மூவர் மாரவில ஆரம்ப வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாகவும் புத்தளம் மாவட்ட அனர்த்த முகாமைத்துவ பிரிவு மற்றும் அனர்த்த நிவாரண அதிகாரிகள் தெரிவித்தனர்.
+
+ஹலவத்தையில் இருந்து கொழும்பு நோக்கி பயணித்த கார் கொஸ்வாடியா பகுதியில் நிறுத்தி வைக்கப்பட்டிருந்த போதே பாரிய மரம் ஒன்று கார் மீது விழுந்துள்ள இந்த சோகம் சம்பவம் நிகந்துள்ளது.
+
+விபத்தில் ஒரே குடும்பத்தைச் சேர்ந்த கணவன், மனைவி மற்றும் ஏழு வயது மகள் ஆகியோர் காயமடைந்துள்ளனர்.
+
+இதே போல் கடந்த சில நாட்களுக்கு முன்பு மோட்டார் சைக்கிளில் சென்ற மூன்று பெண்கள் மரம் விழுந்து உயிரிழந்தமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/d2eff5f8.json)
 
 ---
 
@@ -2327,29 +2351,5 @@ The three numerical minorities namely the Sri Lankan Tamils, Muslims and Indian 
 [Data](articles/008ff134.json)
 
 [Extended Data](ext_articles/008ff134.ext.json)
-
----
-
-### People protest against Taiti illegal Tissa Vihara!
-
-*2024-05-24 03:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/184347) · `ta`
-
-Protesters demand removal of an unauthorized structure in Taiti, citing it as encroachment on public land. The dispute, ongoing for over a year, intensified during a religious event, drawing hundreds of participants. They accuse authorities of negligence and vow continued action until resolution.
-
-🟩
-
-The struggle against the illegal Tissa Vihara is being carried out over a year.
-
-The struggle began on Wednesday, the 22nd as the full moon day worship began on Thursday 23rd.. In this case, on Thursday (23), the people from the southern part were visited to worship the idol of the people.
-
-Hundreds of people gathered and launched a protest demanding the removal of the illegal strain built on the land of the people without permission.
-
-The protesters said, "Taitti is our property, the Tamil homeland of the North and East, the Buddha on the soil, the Palali Police Responsibility Officer is a murderer, the name of Buddhism, this soil is the police custody of our own soil, the teaching of Buddhism."They engaged in a struggle as raised.
-
-...
-
-[Data](articles/e55c8fe8.json)
-
-[Extended Data](ext_articles/e55c8fe8.ext.json)
 
 ---

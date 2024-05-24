@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-24 10:05:08**
+As of **2024-05-24 10:18:22**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 4,156
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,014 (100.0%) of 26,017 articles have been extended.
+26,017 (100.0%) of 26,017 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-24 (Friday)
 
-### උඩරට මාර්ගයේ දුම්රිය ධාවනයට බාධා
+### Upcountry train is obstructed
 
 *2024-05-24 09:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196961) · `si`
 
-පවතින අයහපත් කාලගුණ තත්ත්වය හේතුවෙන් උඩරට මාර්ගයේ දුම්රිය ධාවනයට බාධා එල්ලවී තිබේ.
+Inclement weather causes upcountry train delays; soil, stone, and tree collapses block the track. Night post trains from Colombo to Badulla and vice versa are canceled. Today's special train is also off.
 
-ශ්‍රී ලංකා දුම්රිය දෙපාර්තමේන්තුව පවසන්නේ දුම්රිය මාර්ගයට පස්, ගල් සහ ගස් කඩාවැටීම හේතුවෙන් දුම්රිය ධාවනය ප්‍රමාද වන බවය.
+🟩
 
-මේ අතර කොළඹ - බදුල්ල සහ බදුල්ල - කොළඹ රාත්‍රී තැපැල් දුම්රිය අවලංගු කිරීමට ද තීරණය කර තිබේ.
+Due to the inclement weather, the upcountry train has been interrupted.
 
-ශ්‍රී ලංකා දුම්රිය දෙපාර්තමේන්තුව වැඩිදුරටත් සඳහන් කළේ අද දිනයේ විශේෂ දුම්රිය ද අවලංගු කර ඇති බවය.
+The Railway Department states that the railroad is delayed due to the collapse of soil, stones and trees.
+
+Meanwhile, it has also been decided to cancel Colombo-Badulla and Badulla-Colombo night post trains.
+
+The Department of Sri Lanka Railways added that the special train has been canceled today.
 
 ◼️
 
 [Data](articles/38af472b.json)
+
+[Extended Data](ext_articles/38af472b.ext.json)
 
 ---
 
@@ -76,25 +82,35 @@ Police spokesman confirmed that one of the suspects is the son of a drug culprit
 
 ---
 
-### මාරක ළිද කඩාවැටි පහක් රෝහලේ
+### Five dead breaks at hospital
 
 *2024-05-24 09:03:20* · [`adalk`](https://www.ada.lk/breaking_news/මාරක-ළිද-කඩාවැටි-පහක්-රෝහලේ/11-409809) · `si`
 
-දිවුලපැලැස්ස රොටලවෙල ක්‍රීඩාංගණයේ පැවති කානිවල් සැනකෙලියක ඉදිකර තිබූ මාරක ලිදක් ඊයේ (23) රාත්‍රි හදිසියේ  කඩා  වැටීමෙන් පස්දෙනෙකු තුවාල ලබා ගිරාදුරුකෝට්ට සහ මහියංගණ රෝහලට ඇතුළත් කළ බව දිවුලපැලැස්ස පොලිසිය පවසයි .
+In a tragic incident at a Carnival's cave, five individuals died, including a 50-year-old woman and four men aged 13, 36, 6, and 45. Four others were injured, two critically, and are being treated at Girandurukotta and Mahiyangana hospitals. The victims were from Rothalawela, Divulpassa, and the event was part of a Vesak celebration.
 
-තුවාල ලැබූවන් අතර අවුරුදු 50 ක් වයස කාන්තාවක් සහ අවුරුදු 13, 36,40,45 වයසේ පසුවෙන පිරිමි පුද්ගලයන් සිව්දෙනෙකු සිටින බවත් පොලිසිය කීය .
+🟩
 
-මොවුන් දිවුලපැලැස්ස රොටලවෙල ප්‍රදේශයේ පදිංචි අයවලුන් බවද පොලිසිය පැවසීය .
+Five suffered injuries at the sudden death of a Carnival's cave yesterday (23) was admitted to the Mahiyangana Hospital yesterday.
 
-මෙම තුවාලකරුවන් ගෙන් දෙදෙනකු ගිරාදුරුකෝට්ට රෝහලේ ත්, සෙසු තිදෙනා මහියංගණ රෝහලෙත් නේවාසිකව ප්‍රතිකාර ලබමින් පසුවෙන බව පොලිසිය සදහන් කළේය .
+Among the injured were a 50 year old woman and four male agents aged 13, 36,6,45 years old.
 
-වෙසක් උත්සවය නිමිත්තෙන් දිවුලපැලැස්ස රොටලවෙල ප්‍රදේශයේ විහාරස්ථානයක් මගින් සංවිධානය කර තිබූ මෙම කානිවල් සැනකෙලියේ සමාරම්භක  (23)  අද දින රාත්‍රි සැනකෙලිය නැරඹීමට විශාල පිරිසක් පැමිණ ඇති අතර , සැණකෙළි  භූමියේ ඉදිකර තිබූ මාරක ලිද නැරඹීමට ද ජනතාව පැමිණ තිබේ .
+The police said that they were residents of Rothalawela area in Divulpassa area.
 
-මාරක ලිද ආරම්භ වීමට පෙර නරඹන්නන් ප්‍රවේශ පත් රැගෙන එයට ඇතුලු වී සිටියදී එක්වරම මාරක ලිදේ අඩි 15 ක් පමණ උසින් පිහිටි කොටසක් මෙසේ එක්වරම කඩා ගෙන   බිමට   වැටී ඇතැයි පොලිසිය පැවසීය .
+Two of these injured are receiving treatment at the Girandurukotta hospital and the other is receiving treatment at the Mahiyangana Hospital.
 
-...
+A large number of people were inaugurated by a temple in Divulapassa Rothalawela, which was organized by Vesak.
+
+The police said that before visitors take tickets and enter the tickets before the commencement, the police said.
+
+According to a hospital statement, three of the injured have been severely serious.
+
+Uva Provincial Deputy Inspector General of Police has conducted further investigations on the instructions of the Badulla Senior Superintendent of Police Wasantha Kandadawala, Badulla.
+
+◼️
 
 [Data](articles/3aa20d7a.json)
+
+[Extended Data](ext_articles/3aa20d7a.ext.json)
 
 ---
 
@@ -1758,19 +1774,25 @@ Strong winds of about 50-60 kmph can be expected at times over Western slopes of
 
 ---
 
-### කරාපිටිිය ලංකාවේ තෙවැනි ජාතික රෝහල බවට පත්කරයි
+### Journey makes the third national hospital in Sri Lanka
 
 *2024-05-23 16:06:33* · [`adalk`](https://www.ada.lk/breaking_news/කරාපිටිිය-ලංකාවේ-තෙවැනි-ජාතික-රෝහල-බවට-පත්කරයි/11-409808) · `si`
 
-ගාල්ල  කරාපිටිය ශික්ෂණ රෝහල මෙරට තෙවැනි ජාතික රෝහල බවට පත්කිරීමට කැබිනට් මණ්ඩල අනුමැතිය හිමිව තිබේ.
+Sri Lanka's Galle Teaching Hospital becomes the nation's third national hospital, joining Colombo and Kandy. The decision follows significant contributions from Karapitiya Hospital in Galle, which trains over a thousand medical students annually.
 
-ශ්‍රී ලංකාවේ මේ වනවිට  සංවර්ධිත ජාතික රෝහල් දෙක ලෙස කොළඹ සහ මහනුවර රෝහල් පිළිගෙන තිබේ.ඒ අනුව  ගාල්ල කරාපිටිය ශික්ෂණ තෙවන ජාතික රෝහල  ලෙස සංවර්ධනය කිරීමට අමාත්‍ය මණ්ඩල අනුමැතිය හිමි වී ඇත..
+🟩
 
-ගාල්ල කරාපිටිය රෝහල  මේ වන විටත් සෞඛ්‍ය කේෂ්ත්‍රයේ වෛද්‍යවරු, හෙද හෙදියන් පුහුණුකිරීමේ කටයුතුවලට වැඩි දායකත්වයක් සපයයි.  එසේම   රුහුණු විශ්වවිද්‍යාලයේ  වෛද්‍ය සිසුන් දහසකට පමණ ගාල්ල කරාපිටිය රෝහල මගින් සායනික පුහුණුව ලබාදීම  සිදු කරයි.
+Cabinet approval has been approved by the Galle Teaching Hospital to be the third national hospital in the country.
+
+Colombo and Kandy hospitals have been recognized as the two developed national hospitals in Sri Lanka. According to the third national hospital, Cabinet has approved to develop the Galle National Hospital.
+
+Karapitiya Hospital in Galle is already very contributing to doctors and nurses in the field of health.A thousand medical students at the University of Ruhuna University provides clinical training by Galle.
 
 ◼️
 
 [Data](articles/f4bd847e.json)
+
+[Extended Data](ext_articles/f4bd847e.ext.json)
 
 ---
 

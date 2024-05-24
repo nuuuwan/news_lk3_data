@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-24 23:53:36**
+As of **2024-05-25 00:05:10**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,175
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,121 (100.0%) of 26,123 articles have been extended.
+26,123 (100.0%) of 26,123 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -35,6 +35,10 @@ Extensions include translations and NER (Named Entity Recognition).
 ### Couples arrested for sending Sri Lankans to Russian war
 
 *2024-05-24 23:17:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரஷ்ய-போருக்கு-இலங்கையர்களை-அனுப்பி-வைத்த-தம்பதியினர்-கைது/175-337818) · `ta`
+
+A retired Major and his wife were arrested for allegedly recruiting Sri Lankan veterans for the Russian-Ukraine conflict. The couple was detained separately in Wattala and Borella, with the wife later released on bail. Nine individuals have been arrested in total over this matter.
+
+🟩
 
 A retired Major and his wife have been arrested by the Criminal Investigation Department for allegedly sending Sri Lanka's retired military members for the Russian -Ukraine war.
 
@@ -105,6 +109,10 @@ Israel, he added, must also allow unimpeded access to Gaza to any UN body invest
 ### 6 Death - Special Discussion on Disaster Conditions
 
 *2024-05-24 22:59:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/6-பேர்-மரணம்-அனர்த்த-நிலைமைகள்-தொடர்பில்-விசேட-கலந்துரையாடல்/175-337816) · `ta`
+
+A special meeting was held on May 24 to address the issue of falling trees, which have resulted in 6 deaths, 11 injuries, and affected 34,880 people across 18 districts since the 19th. The government is prioritizing student safety through the 'Surakimu' program and plans to start a national tree management program. They are seeking cooperation from various authorities to control street trees and form a national policy on tree planting. Measures to control flooding due to unauthorized constructions are also being expedited. The Meteorology Department predicts continued rainfall, prompting the government to prepare for potential emergencies and advising the public to stay alert.
+
+🟩
 
 Special discussion was held today (May 24) at the Emergency Operations of the Disaster Management Center under the Ministry of Defense to take steps to take steps to be carried out in the country.
 
@@ -986,6 +994,8 @@ In 2024 the government decreed a wage hike announced a mandated wage after Presi
 
 [Data](articles/5f2f435a.json)
 
+[Extended Data](ext_articles/5f2f435a.ext.json)
+
 ---
 
 ### 1,700 Sri Lankans who have been illegally settled in Malaysia have returned home
@@ -1171,6 +1181,8 @@ In addition, the central bank also faced a conflict of interest because it had a
 ...
 
 [Data](articles/4177b7d3.json)
+
+[Extended Data](ext_articles/4177b7d3.ext.json)
 
 ---
 

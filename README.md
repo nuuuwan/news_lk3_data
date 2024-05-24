@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-24 15:52:52**
+As of **2024-05-24 16:05:26**
 
 ## Newspaper Stats
 
-*Scraped **26,074** Articles*
+*Scraped **26,077** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,45 +18,107 @@ dailyftlk | 1,533
 adalk | 2,226
 adaderanalk | 2,991
 tamilmirrorlk | 3,040
-virakesarilk | 3,978
-dailymirrorlk | 4,112
+virakesarilk | 3,979
+dailymirrorlk | 4,114
 adaderanasinhalalk | 4,165
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,068 (100.0%) of 26,074 articles have been extended.
+26,074 (100.0%) of 26,077 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-24 (Friday)
 
-### කුසල් සහ අසිත ශ්‍රී ලංකා සංචිතය හා එක්වෙයි
+### Two Sri Lankan students in Japan accused of illegal abortion
+
+*2024-05-24 15:43:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Two-Sri-Lankan-students-in-Japan-accused-of-illegal-abortion/108-283302) · `en`
+
+MITO -- Two Sri Lankan students in Japan were arrested over an illegal abortion, and an expert points out that international students' unstable resident status may be a factor behind the incident.
+
+Ibaraki Prefectural Police on May 23 announced the arrests of Rubasing Liyanage Udeshika Ayomi Jayalath of Toride, Ibaraki Prefecture, for allegedly aborting her baby when she was about nine months pregnant, and her boyfriend Munasingha Sudesh Dilshan De Soysa of Utsunomiya in the neighboring prefecture of Tochigi, for allegedly aiding the abortion.
+
+According to the police, Jayalath used a drug to abort her baby at De Soysa's home around April 29. The suspects, both 30, have admitted to the allegations. Jayalath had visited an obstetrician in Tochigi Prefecture in late March to ask for an abortion, but the doctor refused as she was beyond the period allowed for an abortion under Japan's Maternal Health Act.
+
+...
+
+[Data](articles/3029c3b9.json)
+
+---
+
+### Scientists find Earth-like planet that could be home to alien life
+
+*2024-05-24 15:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Scientists-find-Earth-like-planet-that-could-be-home-to-alien-life/108-283301) · `en`
+
+May 24 - Scientists have found a new Earth-like planet that could support alien life – just 40 light-years away.
+
+The planet is a remarkable discovery in the search for habitable worlds: it is slightly smaller than the Earth, and thought to be just a little hotter. Many planets outside our solar system, called exoplanets, tend to be much larger and hotter than our own world.
+
+The newly discovered planet is called Gliese 12b and researchers say that even if we cannot find whether it is home to alien life then it will help in our search for other worlds that might be.
+
+The planet planet orbits its host star every 12.8 days, and is comparable in size to Venus - so slightly smaller than Earth.
+
+It has an estimated surface temperature of 42C, which is lower than most of the 5,000-odd exoplanets (planets outside of the solar system) confirmed so far.
+
+◼️
+
+[Data](articles/bda76362.json)
+
+---
+
+### மலேசியாவில் சட்டவிரோதமாக குடியேறி இருந்த 1,700 இலங்கையர்கள் நாடு திரும்பியுள்ளனர்
+
+*2024-05-24 15:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/184379) · `ta`
+
+2024 ஆம் ஆண்டு மார்ச் 1 ஆம் திகதி முதல் ஏப்ரல் 30 ஆம் திகதி வரையான காலப்பகுதியில் மலேசியாவிலிருந்து 1,608 இலங்கையர்கள் நாடு திரும்பியுள்ளனர்.
+
+இவர்கள் மலேசியாவில் சட்டவிரோதமாக குடியேறி இருந்த நிலையில், இலங்கை உயர்ஸ்தானிகராலயத்தின் உதவியுடன் நாடு திரும்பியுள்ளனர்.
+
+மலேசிய அரசாங்கத்தின் புலம்பெயர்ந்தோரைத் திருப்பி அனுப்பும் திட்டத்துடன் இணைந்து இந்த முயற்சி மேற்கொள்ளப்படுவதாக கோலாலம்பூரில் உள்ள இலங்கை உயர்ஸ்தானிகராலயம் தெரிவித்துள்ளது.
+
+இத்திட்டத்தினூடாக ஏற்கனவே ஜனவரி 1 ஆம் திகதி முதல் பெப்ரவரி 28 ஆம் திகதி வரையான காலப்பகுதியில் 124 மலேசியாவில் சட்டவிரோதமான முறையில் குடியேறி இருந்த 124 இலங்கையர்கள் திருப்பி அனுப்பப்பட்டுள்ளனர். அதன்படி,  மொத்த திருப்பி அனுப்பப்பட்டவர்களின் எண்ணிக்கையை 1,732 ஆகும்.
+
+மலேசிய அரசாங்கத்தால் தொடங்கப்பட்ட புலம்பெயர்ந்தோர் திருப்பி அனுப்பும் திட்டம், சட்ட விலக்குகள் மற்றும் நிதி நிவாரணங்களை வழங்குவதன் மூலம் சட்டவிரோதமாக குடியேறியவர்கள் தானாக முன்வந்து சொந்த நாடுகளுக்குத் திரும்ப உதவுவதை நோக்கமாகக் கொண்டுள்ளது.
+
+...
+
+[Data](articles/ce43d1be.json)
+
+---
+
+### Kusal and Asitha Sri Lanka joins the squad
 
 *2024-05-24 15:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196972) · `si`
 
-විස්සයි විස්ස ලෝක කුසලාන ක්‍රිකට් තරගාවලිය වෙනුවෙන් ශ්‍රී ලංකා ආරම්භක පිතිකරු කුසල් මෙන්ඩිස් සහ වේග පන්දු යවන ක්‍රීඩක අසිත ප්‍රනාන්දු ශ්‍රී ලංකා සංචිතය සමඟ ඊයේ (23)  එක්ව තිබේ.
+Kusal Mendis and Asitha Fernando join Sri Lanka's T20 World Cup squad after resolving visa issues, led by Wanindu Hasaranga. The team departed on May 14 for the tournament starting June 1st in the US and West Indies.
 
-වීසා ගැටලුවක් හේතුවෙන් මොවුන්ට අමෙරිකාව බලායෑමට නොහැකිවූ අතර,  පසුව එය නිරාකරණය කරගැනීමත් සමග ඊයේ සංචිතයට එක්ව ඇත.
+🟩
 
-එළඹෙන පන්දුවාර විස්සයි 20 ලෝක කුසලාන ක්‍රිකට් තරගාවලිය සඳහා නම් කළ ශ්‍රී ලංකා ක්‍රිකට් සංචිතය පසුගිය දා ප්‍රකාශයට පත් කෙරුණි.
+Sri Lanka opener Kusal Mendis and fast bowler, Kusal Mendis and fast bowler, had joined the Twenty20 World Cup.
 
-වනිඳු හසරංගගේ නායකත්වයෙන් යුත් මෙම සංචිතය සඳහා ක්‍රීඩකයින් 15 දෙනෙකු ඇතුළත් ය.
+Due to a visa issue, they were unable to force America, and later resolved in the squad.
 
-ඒ අනුව ලෝක කුසලානයට සහභාගී වන 15 දෙනෙකුගෙන් සමන්විත ශ්‍රී ලංකා සංචිතය මැයි මස 14 වන දා දිවයිනෙන් පිටත්ව ගියේය.
+The SLC squad was declared recently for the upcoming Twenty20 World Cup.
 
-පන්දුවාර 20 -20 ලෝක කුසලාන ක්‍රිකට් තරගාවලිය ජුනි 01 වනදා සිට 29 වනදා දක්වා අමෙරිකාවේ සහ බටහිර ඉන්දීය කොදෙව් හිදී පැවැත්වීමට නියමිතය.
+The squad led by Wanindu Hasaranga includes 15 players.
+
+Accordingly, the 15 people who participate in the World Cup have left the island on May 14.
+
+The 20 -20 World Cup will be held from June 01 from June 01 at US and West Indies.
 
 ◼️
 
 [Data](articles/50c25ba7.json)
 
+[Extended Data](ext_articles/50c25ba7.ext.json)
+
 ---
 
 ### Police threatened and threatened the protesters and journalists
 
-*2024-05-24 15:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/184384) · `ta`
+*2024-05-24 15:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/184384) · `ta`
 
 Protesters and journalists faced threats from police over an illegal temple issue. The police, including those from the Palali station, used mobile phones to communicate during the incident.
 
@@ -133,6 +195,8 @@ Gusty winds sweep through Colombo, bringing both chaos and joy. Amidst the flurr
 ◼️
 
 [Data](articles/b7374db3.json)
+
+[Extended Data](ext_articles/b7374db3.ext.json)
 
 ---
 
@@ -234,6 +298,8 @@ According to the latest forecasts by meteorological authorities, the depression 
 
 [Data](articles/e98c60bc.json)
 
+[Extended Data](ext_articles/e98c60bc.ext.json)
+
 ---
 
 ### Strong wind blows;Be careful ...
@@ -301,6 +367,8 @@ Despite regular inspections conducted by Public Health Inspectors (PHIs) during 
 ...
 
 [Data](articles/38469668.json)
+
+[Extended Data](ext_articles/38469668.ext.json)
 
 ---
 
@@ -409,6 +477,8 @@ The application sought to challenge an earlier decision by the Court of Appeal, 
 ...
 
 [Data](articles/a3b56fb3.json)
+
+[Extended Data](ext_articles/a3b56fb3.ext.json)
 
 ---
 
@@ -1510,6 +1580,8 @@ Last time, the general election was conducted in August, 2020. The Election Comm
 
 [Data](articles/062d944a.json)
 
+[Extended Data](ext_articles/062d944a.ext.json)
+
 ---
 
 ### Snap general election to follow presidential election immediately
@@ -2215,87 +2287,5 @@ The medical examination for the applicants who have been examined in the exam wi
 [Data](articles/ea453831.json)
 
 [Extended Data](ext_articles/ea453831.ext.json)
-
----
-
-### TID detains suspect linked ISIS terrorists arrested at Ahmedabad Airport
-
-*2024-05-23 21:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/99404/tid-detains-suspect-linked-isis-terrorists-arrested-at-ahmedabad-airport) · `en`
-
-A suspect who had close connections with the ISIS terrorists of Sri Lankan origin who were recently arrested at the Ahamedabad International Airport in India, has been arrested by the Terrorism Investigation Division (TID) of Sri Lanka Police.
-
-According to Sri Lanka Police, the suspect has aided the four terrorists in obtaining air tickets.
-
-Further, investigations are underway to detect whether more ISIS terrorists from Sri Lanka have left for India, the police said.
-
-On Sunday (19), the anti-terrorist squad of Gujarat, India arrested four Sri Lankan nationals who are members of the terrorist organisation ISIS at the Sardar Vallabhbhai Patel International Airport in Ahamedabad.
-
-The arrested suspects were Mohammad Nusrat (33), Mohammad Farish (35), Mohammad Nafran (27) and Mohammad Rashdeen (43), as per Indian officials.
-
-According to the Gujarat Police, interrogations revealed that the suspects were encouraged to carry out a terror attack in India.
-
-...
-
-[Data](articles/ae1b6756.json)
-
-[Extended Data](ext_articles/ae1b6756.ext.json)
-
----
-
-### TID detains suspect linked to ISIS terrorists arrested at Ahmedabad Airport
-
-*2024-05-23 21:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/99404/tid-detains-suspect-linked-to-isis-terrorists-arrested-at-ahmedabad-airport) · `en`
-
-A suspect who had close connections with the ISIS terrorists of Sri Lankan origin who were recently arrested at the Ahamedabad International Airport in India, has been arrested by the Terrorism Investigation Division (TID) of Sri Lanka Police.
-
-According to Sri Lanka Police, the suspect has aided the four terrorists in obtaining air tickets.
-
-Further, investigations are underway to detect whether more ISIS terrorists from Sri Lanka have left for India, the police said.
-
-On Sunday (19), the anti-terrorist squad of Gujarat, India arrested four Sri Lankan nationals who are members of the terrorist organisation ISIS at the Sardar Vallabhbhai Patel International Airport in Ahamedabad.
-
-The arrested suspects were Mohammad Nusrat (33), Mohammad Farish (35), Mohammad Nafran (27) and Mohammad Rashdeen (43), as per Indian officials.
-
-According to the Gujarat Police, interrogations revealed that the suspects were encouraged to carry out a terror attack in India.
-
-...
-
-[Data](articles/c9e853c4.json)
-
-[Extended Data](ext_articles/c9e853c4.ext.json)
-
----
-
-### Disaster deaths up
-
-*2024-05-23 21:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196952) · `si`
-
-Inclement weather has led to six fatalities, including a man hit by a road collapse and a young woman in a motorcycle crash. The Met Department warns of heavy rains, with Nuwara Eliya seeing 104.6mm. Strong winds have caused tree damage and further casualties.
-
-🟩
-
-The number of deaths due to inclement weather has increased to six people.
-
-The Met Department of Meteorology states that around 150 millimeters can also occur in the next 24 hours.
-
-With the actual activation of the southwest monsoon, there are overwhelming rain.
-
-The highest rainfall was 104.6 millimeters in the Nuwara Eliya - Nuwara Eliya.
-
-The trees have been reported due to strong winds, property and deaths and deaths due to strong winds.
-
-A man was traveling on a motorcycle to collapse into a road collapse in Hanwella area with rain.
-
-The deceased has been identified as Upul Anuruddha Liyanage, a resident of the area.
-
-Meanwhile, a young woman killed in a motorcycle on a motorcycle traveling on a motorcycle in Mundalama Junction area in Puttalam.
-
-The deceased is a 23 year old resident of the area and the other was seriously injured and admitted to the Chilaw General Hospital.
-
-...
-
-[Data](articles/e22da49c.json)
-
-[Extended Data](ext_articles/e22da49c.ext.json)
 
 ---

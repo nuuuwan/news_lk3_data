@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-25 01:52:33**
+As of **2024-05-25 02:03:32**
 
 ## Newspaper Stats
 
-*Scraped **26,129** Articles*
+*Scraped **26,131** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 1,533
 adalk | 2,230
 adaderanalk | 2,996
 tamilmirrorlk | 3,045
-virakesarilk | 3,990
+virakesarilk | 3,992
 dailymirrorlk | 4,128
 adaderanasinhalalk | 4,175
 
@@ -26,11 +26,47 @@ adaderanasinhalalk | 4,175
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,129 (100.0%) of 26,129 articles have been extended.
+26,129 (100.0%) of 26,131 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-25 (Saturday)
+
+### அகில இலங்கை நகை வியாபாரிகள் சங்கத்தினரால் வருடந்தோரும் நடாத்தப்படும் வெசாக் அன்னதான நிகழ்வு
+
+*2024-05-25 01:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/184424) · `ta`
+
+அகில இலங்கை நகை வியாபாரிகள் சங்கத்தினரால் வருடந்தோரும் நடாத்தப்படும்  வெசாக் அன்னதான நிகழ்வு செட்டியார் தெருவில் 23 ஆம் திகதி வியாழக்கிழமை சங்கத்தின் தலைவர் விஜயகுமார், செயலாளர் சரவணன், பொருளாளரபாலசுப்ரமணியம் மற்றும் சங்கத்தின் நிர்வாகக்குழு உறுப்பினர்களின் ஒத்துழைப்புடன் இந்நிகழ்வு இடம்பெற்றது.
+
+மேற்படி நிகழ்வில் கொழும்பு பிரதேச உதவி பொலிஸ் அத்தியட்சகர் திரு கமால் கிரியெல்ல புறக்கோட்டை பொலிஸ் நிலைய பொறுப்பதிகாரி திரு சுலோகம மற்றும் பொகவந்தலாவ ராஹுல தேரர் ஆகியோர் கலந்து சிறப்பித்தார்கள்.
+
+◼️
+
+[Data](articles/edcfc149.json)
+
+---
+
+### ராஜஸ்தானை இலகுவாக வீழ்த்திய ஹைதராபாத் இறுதிப் போட்டியில் கொல்கத்தாவை சந்திக்கிறது
+
+*2024-05-25 00:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/184423) · `ta`
+
+சென்னை சேப்பாக்கம் எம்.ஏ.சிதம்பரம் விளையாட்டரங்கில் வெள்ளிக்கிழமை (24) இரவு நடைபெற்ற 17ஆவது இண்டியன் பிறீமியர் லீக் அத்தியாயத்தின் இரண்டாவது தகுதிகாண் போட்டியில் ராஜஸ்தான் றோயல்ஸை எதிர்த்தாடிய சன்ரைசர்ஸ் ஹைதராபாத் 36 ஓட்டங்களால் வெற்றிபெற்றது.
+
+இந்த வெற்றியுடன் சன்ரைசர்ஸ் ஹைதராபாத் இதே விளையாட்டரங்கில் ஞாயிற்றுக்கிழமை (26) நடைபெறவுள்ள ஐபிஎல் சம்பியனைத் தீர்மானிக்கும் இறுதிப் போட்டியில் முன்னாள் சம்பியன் கொல்கத்தா நைட் ரைடர்ஸை எதிர்த்தாடவுள்ளது.
+
+2016இல் சம்பியனான சன்ரைசர்ஸ் ஹைதராபாத் 3ஆவது தடவையாக இறுதிப் போட்டியில் விளையாட தகதிபெற்றுள்ளது.
+
+அங்குரார்ப்பண ஐபிஎல் அத்தியாயத்தில் (2008) சம்பியனான ராஜஸ்தான் றோயல்ஸ் 3ஆவது தடவையாக இறுதிப் போட்டிக்குள் பிரவேசிக்கும்  வாய்ப்பைத் தவறவிட்டது.
+
+ஹென்றிச் க்ளாசெனின் அரைச் சதம், தங்கராசு நடராஜன், ஷாஹ்பாஸ் அஹ்மத், அபிஷேக் ஷர்மா ஆகியோரது துல்லியமான பந்துவீச்ச என்பன கொல்கத்தாவின் வெற்றியில் முக்கிய பங்காற்றின.
+
+அப் போட்டியில் முதலில் துடுப்பெடுத்தாட அழைக்கப்பட்ட சன்ரைசர்ஸ் ஹைதராபாத் 20 ஓவர்களில் 9 விக்கெட்களை இழந்து 174 ஓட்டங்களைப் பெற்றது.
+
+...
+
+[Data](articles/1b0c0abe.json)
+
+---
 
 ### Commemoration of war victims-celebrations and harassment
 
@@ -2241,65 +2277,5 @@ Meanwhile, the night mail trains to and from Badulla and other special trains on
 [Data](articles/f733d8eb.json)
 
 [Extended Data](ext_articles/f733d8eb.ext.json)
-
----
-
-### Czech president injured while racing motorcycle
-
-*2024-05-24 10:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Czech-president-injured-while-racing-motorcycle/107-283287) · `en`
-
-May 24 (BBC) - Czech President Petr Pavel has been taken to hospital after injuring himself while riding a motorcycle, his office has said.
-
-It said the injuries "are not serious", but a "short observation" was required. It gave no further details.
-
-Czech police said they were not investigating the accident because it happened on a closed racing circuit - not on the road.
-
-Mr Pavel, aged 62, is known for his love of motorbikes. He is believed to be currently racing a BMW R1200 GS.
-
-It is not the first time he has attracted trouble over his hobby.
-
-Last year, he had to publicly apologise after being spotted riding a bike without a helmet.
-
-A former high-ranking Nato general, Mr Pavel was elected as the Czech Republic's president in March 2023.
-
-A few weeks after his inauguration, he rode a motorbike to the state of Bavaria in neighbouring Germany.
-
-...
-
-[Data](articles/dc1e7f2f.json)
-
-[Extended Data](ext_articles/dc1e7f2f.ext.json)
-
----
-
-### Design, remembering Noah attack
-
-*2024-05-24 10:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196963) · `si`
-
-American artist Montana Tucker designed a dance piece titled "Noah Attack," inspired by the first clash between Israeli-Hamas, honoring the victims of Noah's Carnival. The performance involved 300 dancers from Israel's renowned studios, aiming to remember and call for peace through art.
-
-🟩
-
-Israeli-Hamas and Hamas have begun in the conflict and seven months, the war clashes still a title.
-
-It is a story about a design that reminds the attack on Noah Carnival, the first confrontation.
-
-The creation was made by American artist Montana Tucker.
-
-The group said that the famous dancers of Israel's dancing studio.
-
-There were 300 people from Noah's carnival.
-
-They had created this dance with remembrance of them.
-
-Montana Tucker is a social media activist calling for a ceasefire on war conflicts.
-
-She says that the world should never forget the attack.
-
-◼️
-
-[Data](articles/98330e27.json)
-
-[Extended Data](ext_articles/98330e27.ext.json)
 
 ---

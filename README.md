@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-24 18:52:49**
+As of **2024-05-24 19:03:47**
 
 ## Newspaper Stats
 
-*Scraped **26,093** Articles*
+*Scraped **26,095** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,75 +20,131 @@ adaderanalk | 2,993
 tamilmirrorlk | 3,040
 virakesarilk | 3,983
 dailymirrorlk | 4,117
-adaderanasinhalalk | 4,168
+adaderanasinhalalk | 4,170
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,089 (100.0%) of 26,093 articles have been extended.
+26,093 (100.0%) of 26,095 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-24 (Friday)
 
-### උඩරට දුම්රිය මාර්ගයේ රාත්‍රී  දුම්රියන් අවලංගු කරයි
+### ශ්‍රී පාද වන්දනා වාරය අවසන්
+
+*2024-05-24 18:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196977) · `si`
+
+2023-2024 වර්ෂය සඳහා පැවති ශ්‍රී පාද වන්දනා වාරය ඊයේ දින වෙසක් පොහෝ දිනයෙන් අවසන් විමත් සමඟ ශ්‍රී පාද උඩ මළුවේ තැන්පත් කර තිබු සධාතුක කරඬුව, සමන් දේව ප්‍රතිමාව සහ දේව ආභරණ පැල්මඩුල්ල රජ මහා විහාරස්ථානය දක්වා මාර්ග හතරක් ඔස්සේ වැඩම කිරීම අද (24) සිදුකෙරිණි.
+
+ඉන් එක් පෙරහරක් ශ්‍රී පාද උඩ මළුවේ සිට රත්නපුර පලාබද්දල මාර්ගය ඔස්සේත් තවත් පෙරහරක් කුරුවිට එරත්න මාර්ගය ඔස්සේ ත් වැඩම කළ අතර, තවත් පෙරහරක් ශ්‍රී පාද උඩ මළුවේ සිට නල්ලතන්නිය ලක්ෂපාන අවිස්සාවේල්ල රත්නපුර හරහා පැල්මඩුල්ල රජමහා විහාරස්ථානය දක්වා වැඩම කරන බව ශ්‍රී පාදස්ථානාධිපති සබරගමු පළාත් ප්‍රධාන සංඝ නායක බෙංගමුවේ ධම්මදින්න නාහිමියන් පවසයි.
+
+නල්ලතන්නිය බෞද්ධ මධ්‍යස්ථානයේ සිට කරඬුන් වහන්සේ නමක් රැගත් තවත් පෙරහැරක් බගවන්තලාව බලංගොඩ මාර්ගය ඔස්සේ පැල්මඩුල්ල රජමහා විහාරස්ථානය වෙත වැඩම කෙරිණ.
+
+මාර්ග හතරක් ඔස්සේ වැඩම කරනු ලැබු සධාතුක කරඬුව, සමන් දේව ප්‍රතිමාව සහ දේව ආභරණ අද රාත්‍රියේ සිට හෙට (25) දහවල් වන තෙක් පැල්මඩුල්ල ශ්‍රී පාද රජ මහා විහාරස්ථානයේ තැන්පත් කර විශේෂ දේව පුජාවන් ගණනාවක් පවත්වයි.
+
+...
+
+[Data](articles/4707b86f.json)
+
+---
+
+### කොල්ලුපි‍ටියේ පෞද්ගලික රෝහලක ගින්නක්
+
+*2024-05-24 18:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196976) · `si`
+
+කොල්ලුපිටිය ප්‍රදේශයේ පිහිටි පෞද්ගලික රෝහලක හටගත් ගින්න පාලනය කර තිබේ.
+
+අද (24) දහවල් 12ට පමණ එම රෝහලේ තෙවන මහලේ ගින්නක් හටගෙන ඇති බවට කොළඹ මහනගර සභාවේ ගිනිනිවීම් ඒකකය වෙත දැනුම් දී ඇති බව සඳහන්ය.
+
+ඒ සඳහා ගිනි නිවීමේ රථ දෙකක් පිටත්කර ඇති අතර ගින්න සම්පූර්ණයෙන්ම මේ වන විට පාලනය කර ඇති බව කොළඹ මහ නගර සභාවේ ගිනිනිවීම් ඒකකය පැවසුවේය.
+
+◼️
+
+[Data](articles/2f5f34b0.json)
+
+---
+
+### Night trains canceled on the Upcountry Railway Station
 
 *2024-05-24 18:26:01* · [`adalk`](https://www.ada.lk/breaking_news/උඩරට-දුම්රිය-මාර්ගයේ-රාත්‍රී--දුම්රියන්-අවලංගු-කරයි/11-409814) · `si`
 
-අයහපත් කාලගුණය හේතුවෙන් උඩරට දුම්රිය මාර්ගයේ රාත්‍රී  දුම්රියන් අද 24 අවලංගු කළ බව දුම්රිය පාලක මැදිරිය පැවසීය.
+Due to adverse weather conditions, all night trains on the Upcountry Railway Station, including postal and special trains to Badulla and Colombo, have been canceled. The decision was made to ensure safety from potential disasters. Communication lines at stations like Oudawenna and Oudiya have also ceased. This move affects travelers planning to use the service during the holiday season.
 
-ඒ අනුව  බදුල්ල සිට කොළඹ බලා ධාවනය වීමට නියමිත රාත්‍රී තැපැල් දුම්රිය සහ විශේෂ දුම්රියද  කොළඹ සිට බදුල්ල බලා ධාවනය  වීමට නියමිත රාත්‍රී සීඝ්‍රගාමී දුම්රියද මේ වන විට අවලංගු කර තිබේ.
+🟩
 
-අයහපත් කාලගුණික තත්ත්වය යටතේ දුම්රිය මාර්ගයට සිදුවිය හැකි ආපදාවන් හේතුවෙන් ඇතිවන අවදානම් තත්ත්වය මෙම තීරණය ගැනීමට හේතුවී තිබේ.
+The Railway Control Room said that the night of the Upcountry railway line night has been canceled today.
 
-මේ වන විටත් ඉදල්ගස්හින්න, ඕහිය යන දුම්රිය ස්ථානවල සන්නිවේදන සම්බන්ධතා ඇනහිට ඇති බවද නාවලපිටිය දුම්රිය පාලක මැදිරිය පැවසීය.
+Accordingly, the night postal trains and special trains to travel to Badulla to Colombo and the night railway to travel to Badulla has been canceled.
 
-නිවාඩු සමයේ දුම්රියෙන් ගමන් ගැනීමට බලාපොරොත්තුව විශාල මගීහු සංඛ්‍යාවක් සිටිය හැකි බවද පැවසේ.
+This decision has been taken due to the risk situation due to disasters that can occur under the bad weather conditions.
+
+The Nawalapitiya Railway Control Room stated that communications connections at the Railway Stations already in Oudawenna and Oudiya have stopped.
+
+It is said that the hope of traveling by the holiday season can have large passengers.
 
 ◼️
 
 [Data](articles/2f6b9d19.json)
 
+[Extended Data](ext_articles/2f6b9d19.ext.json)
+
 ---
 
-### කොළඹ බදුල්ල මාර්ගය යථා තත්වයට
+### Back to Colombo Badulla road
 
 *2024-05-24 18:15:53* · [`adalk`](https://www.ada.lk/breaking_news/කොළඹ-බදුල්ල-මාර්ගය-යථා-තත්වයට/11-409813) · `si`
 
-ස්ථාන හතරකින් ගස් කඩා වැටී අවහිරවී තිබූ කොළඹ බදුල්ල ප්‍රධාන මාර්ගයේ දියතලාව හපුතලේ අතර කොටස ගස් කපා ඉවත් කර අද 24 සවස යළි විවෘත කළ බව  දියතලාව පොලීසිය  පැවසීය.
+Diyatalawa-Haputale road was temporarily closed due to landslides but has since reopened after clearing debris from four locations. The road's sides experienced significant damage, including tree falls, posing risks to travelers. Local authorities, including the army and police, are monitoring the situation closely.
 
-අද අලුයම පැවති සුළං සහ වර්ෂාව සමඟ මෙම මාර්ගයේ දෙපස ඉවුරු වල පස්  කන්ඩි  මත තිබූ අඩි සියයකට  වඩා උස දැවැන්ත කරපන්ටයින්  ගස් කඩා වැටී එම මාර්ගය  සම්පූර්ණයෙන්ම අවහිර වී තිබුණි.  ගස් කීපයක් එකම ස්ථානයකදී ඇදවැටී  තිබූ අයුරු ද  දක්නට ලැබුණි.
+🟩
 
-දියතලාව යුධ  හමුදාව  හපුතලේ ප්‍රාදේශීය සභාව, ප්‍රාදේශීය ලේකම් කාර්යාලය,හපුතලේ  විශේෂ කාර්ය බළකාය ,දැව   සංස්ථාව , ප්‍රදේශවාසීහු   දියතලාව පොලීසිය හා එක්ව පැය  හතක පමණ මෙහෙයුමකින් පසුව මාර්ගය විවෘත කර ගැනීමට හැකි වූ බව දියතලාව පොලිස් ස්ථානාධිපති ප්‍රධාන පොලිස්පරීක්ෂක සාගර දයාරත්න මහතා පැවසීය.
+Diyatalawa Haputale has been cut off and reopened with the Colombo Badulla-Badulla main road with four locations.
 
-කෙසේ වෙතත් මෙම මාර්ග කොටසේ  මාර්ගය දෙසට ඇලවී කඩාවැටීමට ආසන්නයේ තිබෙන තවත් ගස් රැසක් තිබෙන බැවින් එම මාර්ගය භාවිතා කිරීම  අනතුරුදායක තත්ත්වයක පවතින බව   රියදුරෝ ඇතුළු ප්‍රදේශවාසීහු පෙන්වා දෙති.
+The path of taller collapses on both sides of this morning were collapsed and completely blocked.  A few trees were also seen in the same place.
+
+Diyatalawa Army, Haputale Pradeshiya Sabha, Haputale Special Task Force, Haputale Corporation, Haputale Corporation, the Timpa Corporation, the Timpa Corporation and Residents of the Diyatalawa Police said.
+
+However, the use of many trees in the road towards the road towards the road towards the road and have many trees are in danger.
 
 ◼️
 
 [Data](articles/fc9e5b30.json)
 
+[Extended Data](ext_articles/fc9e5b30.ext.json)
+
 ---
 
-### பலஸ்தீன படுகொலைகளை ஆதரிக்கிறதா இலங்கை?
+### Is Sri Lanka supporting the Palestinian massacre?
 
 *2024-05-24 18:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/184407) · `ta`
 
-'அணிசேராக் கொள்கையாளனாக காண்பித்து வரும் இலங்கை அரசாங்கம் இஸ்ரேல்-பலஸ்தீன் மோதல் விடயத்தில் மனிதாபிமானமின்றி இரட்டை நிலைப்பாட்டைப் பின்பற்றுவதை உடன் நிறுத்த வேண்டும்'
+Sri Lanka's stance in the Israeli-Palestinian conflict is ambiguous, criticized for supporting Israel while expressing sympathy for Palestinians. The government faces internal opposition due to its actions, such as sending workers to Israel and failing to condemn Israeli actions strongly enough.
 
-பலஸ்தீனத்தின் மீது இஸ்ரேல் தனது சகல வழிகளிலுமான பலப்பிரயோகத்தினை கொண்டு முன்னெடுத்து வரும் போர் நாளுக்கு நாள் தீவிரமடைந்து வருகின்றது.
+🟩
 
-இருபத்தோராம் நூற்றாண்டில் பஸ்தீனில் மனிதப் பேரவலம் நிகழ்ந்து கொண்டிருக்கையில், உலகத்தின் பல நாடுகள் அதற்கு தமது கண்டனங்களைத் தெரிவித்து வருகின்றன.
+'The Sri Lankan government, which is being shown as a member of the Almighty, must be accompanied by inhumanity in the Israeli-Palestinian conflict'
 
-இளைய சமூகத்தினர் எழுச்சிகொண்டு மோதல்களை முடிவுக்கு கொண்டுவருமாறு சர்வதேச ரீதியாக போராட்டங்களை முன்னெடுத்து வருகின்றார்கள்.
+Israel is intensifying the day of the war on the day of the war, with the use of all its ways on Palestine.
 
-குறிப்பாக வல்லாதிக்க நாடுகள் இஸ்ரேலுக்கு ஆதரவாக இருந்தாலும் கூட இளைய சமூகத்தினரும், மனித உரிமைச் செயற்பாட்டாளர்களும் போருக்கு முற்றுப்புள்ளி வைப்பதற்கே அழுத்தங்களைப் பிரயோகிக்கின்றார்கள்.
+While human beings are occurring in Bastin in the twenty -first century, many countries of the world express their condemnation.
 
-துரதிஷ்டவசமாக இலங்கை அரசாங்கமானது இஸ்ரேல்-பலஸ்தீன் மோதல் விடயத்தில் பாம்புக்குத் தலையும், மீனுக்கு வாலையும் காட்டுவது போன்று இரட்டை நிலைப்பாட்டில் செயற்படுகின்றது.
+The younger community is carrying out international struggles to end the conflict.
+
+The younger community and human rights activists are pressing for the end of the war, especially in support of Israel, especially in support of Israel.
+
+Unfortunately, the Sri Lankan government is working on a dual position as the head of the snake and the tail of the fish in the Israeli-Palestine conflict.
+
+Specificly, the government is constantly sending Sri Lankan citizens to work on Israeli farms.
+
+Their life safety, including the tensions of their families, continues to be aimed at sending workers.
 
 ...
 
 [Data](articles/3a5fefa4.json)
+
+[Extended Data](ext_articles/3a5fefa4.ext.json)
 
 ---
 
@@ -136,15 +192,25 @@ Meanwhile, President Ranil Wickremesinghe was handed over to the public by Presi
 
 ---
 
-### இலங்கையை விசேட கண்காணிப்புப் பட்டியலில் சேர்க்குமாறு பைடன் அரசாங்கத்துக்குப் பரிந்துரை
+### Suggested to the Government of Bidan to include Sri Lanka on special surveillance list
 
 *2024-05-24 17:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/184391) · `ta`
 
-மத சிறுபான்மையினருக்கு எதிராக பௌத்த பிக்குகளால் தூண்டப்பட்ட ஒடுக்குமுறைகளைத் தடுப்பதற்கு இலங்கை அரசாங்கம் தவறியிருக்கிறது. இலங்கையின் மதச்சுதந்திரம் தொடர்பான வருடாந்த அறிக்கையில் அமெரிக்க ஆணைக்குழு சுட்டிக்காட்டும் பல்வேறு சந்தர்ப்பங்களில் பௌத்த பிக்குகளால் மத சிறுபான்மையினருக்கு எதிராகத் தூண்டப்பட்ட அமைதியின்மை மற்றும் வன்முறைகளைத் தடுப்பதற்கு இலங்கை அரசாங்கம் தவறியிருப்பதாக தமது வருடாந்த அறிக்கையில் சுட்டிக்காட்டியிருக்கும் சர்வதேச மதச் சுதந்திரம் தொடர்பான அமெரிக்க ஆணைக்குழு, மதச்சுதந்திரத்துடன் தொடர்புடைய விவகாரத்தில் இலங்கையை விசேட கண்காணிப்புப் பட்டியலில் சேர்க்குமாறு ஜோ பைடன் தலைமையிலான அரசாங்கத்துக்குப் பரிந்துரை செய்துள்ளது.
+The US Commission on International Religious Freedom recommended the inclusion of Sri Lanka on a special surveillance list due to ongoing religious oppression and violence against minorities. The report highlighted the Sri Lankan government's failure to protect religious minorities, particularly Buddhists targeting Christians and Muslims. It detailed challenges in church registration, misuse of anti-terrorism laws, forced detentions, and land seizures by the Archaeological Department affecting Hindus and Muslims. The report called for the implementation of the UN Human Rights Council's resolution and revisions to the Terrorism Act to address these issues.
+
+🟩
+
+The Sri Lankan government fails to prevent the oppression of Buddhist monks against religious minorities. The US Commission on International Religious Freedom, which has pointed out that the Sri Lankan government has failed to prevent peace and violence against the religious minorities by Buddhist monks on various occasions that the US Commission has indicated in the annual report on Sri Lanka's secularism.
+
+In 2023, the US Commission has issued a 102 -page annual report on the religious institution, including the steps to the US government on the level of the religious institution of the country, and the steps to be taken on the religious status of those countries, including the Religious Affairs.. In this case, the key issues indicated on the status quo of Sri Lanka are:
+
+Sri Lanka's religious status continued in 2023 and continued. The Sri Lankan government has continued to oppress and threaten religious minorities and sometimes refuse to enter their places of worship.
 
 ...
 
 [Data](articles/9975fac7.json)
+
+[Extended Data](ext_articles/9975fac7.ext.json)
 
 ---
 
@@ -2283,45 +2349,5 @@ According to the report, 24 percent of families were facing lack of food securit
 [Data](articles/b6e64927.json)
 
 [Extended Data](ext_articles/b6e64927.ext.json)
-
----
-
-### President visits the North today
-
-*2024-05-24 02:44:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-இன்று-வடக்குக்கு-விஜயம்/175-337801) · `ta`
-
-President Ranil Wickremesinghe is in the North for three days, issuing land licenses in Jaffna, Mullaitivu, Kilinochchi, and Vavuniya. He also opens a Women's Health Unit at Kilinochchi Hospital.
-
-🟩
-
-President Ranil Wickremesinghe is visiting the North today to attend various events.
-
-President Ranil Wickremesinghe, who arrives in the North for 3 days, will be issued land licenses under the National Program in Jaffna, Mullaitivu, Kilinochchi and Vavuniya districts.
-
-Meanwhile, a Women's Health Unit will be opened by the President at the Kilinochchi Hospital. (A)
-
-◼️
-
-[Data](articles/8d654a38.json)
-
-[Extended Data](ext_articles/8d654a38.ext.json)
-
----
-
-### Sri Lankan business leader Gowri Rajan to speak at the Rotary Foundation Donor Summit in Singapore
-
-*2024-05-24 02:21:00* · [`islandlk`](http://island.lk/sri-lankan-business-leader-gowri-rajan-to-speak-at-the-rotary-foundation-donor-summit-in-singapore/) · `en`
-
-The sought after Rotary event globally is the annual convention where networking and learning comes together. The 2024 Convention will attract over twenty five thousand Rotary members across the world to the beautiful city of Singapore. Some describe the event as a Mini United Nations given the International scope and commitment to cultural diversity where global leaders come together to find solutions to the challenges that the world is experiencing.
-
-Sri Lankan first female Governor for Rotary in Sri Lanka and Maldives  has been selected to be a speaker at the Rotary Foundation Donor Summit to be held at the annual Convention . The Rotary International President Gordon Maccinally has themed the year as ‘ Create Hope with the World.
-
-Ms Gowri Rajan an award winning business professional is the Director of Sun Match Company based in Kundasale, Kandy that is the market leader in the category of safety matches and today is a diversified conglomerate
-
-...
-
-[Data](articles/ff484995.json)
-
-[Extended Data](ext_articles/ff484995.ext.json)
 
 ---

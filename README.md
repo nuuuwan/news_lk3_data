@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-24 17:34:14**
+As of **2024-05-24 17:54:36**
 
 ## Newspaper Stats
 
-*Scraped **26,083** Articles*
+*Scraped **26,086** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,55 @@ dailyftlk | 1,533
 adalk | 2,226
 adaderanalk | 2,993
 tamilmirrorlk | 3,040
-virakesarilk | 3,979
-dailymirrorlk | 4,115
+virakesarilk | 3,981
+dailymirrorlk | 4,116
 adaderanasinhalalk | 4,167
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,083 (100.0%) of 26,083 articles have been extended.
+26,083 (100.0%) of 26,086 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-24 (Friday)
+
+### இறுதிப் போட்டியில் கொல்கத்தாவை எதிர்த்தாடுவது ஹைதராபாத்தா? ராஜஸ்தானா? ; சென்னையில் இன்று இரண்டாவது தகுதிகாண் போட்டி
+
+*2024-05-24 17:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/184402) · `ta`
+
+கொல்கத்தா நைட் ரைடர்ஸ் அணிக்கு எதிராக எதிர்வரும் ஞாயிற்றுக்கிழமை நடைபெறவுள்ள 17ஆவது இண்டியன் பிறீமியர் லீக் அத்தியாத்தின் இறுதிப் போட்டியில்  விளையாடப் போகும் அணியைத் தீர்மானிக்கும் இரண்டாவது தகுதிகாண் போட்டி சென்னை சேப்பாக்கம் எம். ஏ. சிதம்பரம் விளையாட்டரங்கில் இன்று இரவு நடைபெறவுள்ளது.
+
+கொல்கத்தா நைட் ரைடர்ஸ் அணியுடனான முதலாவது தகுதிகாணில் தோல்வி அடைந்ததால் இன்றைய இரண்டாவது தகுதிகாண் போட்டியில் சன்ரைசர்ஸ் ஹைதராபாத் விளையாடவுள்ளது.
+
+மறுபுறத்தில் தொடர்ச்சியாக தோல்விகளைத் தழுவிவந்த நிலையில் நீக்கல் போட்டியில் பலம்வாய்ந்த றோயல் செலஞ்சர்ஸ் பெங்களூரு அணியை வெற்றிகொண்டதன் மூலம் ராஜஸ்தான் றோயல்ஸ் இரண்டாவது தகுதிகாணில் விளையாட தகுதிபெற்றது.
+
+சன்ரைசர்ஸ் ஹைதராபாத் மற்றும் ராஜஸ்தான் றோயல்ஸ் ஆகிய இரண்டு அணிகளில் எந்த அணி பலம் வாய்ந்தது என தீர்மானிப்பது கடினமானது.
+
+ஆனால், லீக் போட்டிகளில் இரண்டு அணிகளினதும் ஆற்றல் வெளிப்பாடுகளை நோக்கும் போது சன்ரைசர்ஸ் ஹைதராபாத்தின் திறமை சற்று மேலோங்கி இருப்பதைக் காணலாம்.
+
+...
+
+[Data](articles/17ae2046.json)
+
+---
+
+### National policy on planting trees soon: Pramitha Bandara
+
+*2024-05-24 17:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/National-policy-on-planting-trees-soon-Pramitha-Bandara/108-283308) · `en`
+
+Colombo, May 24 (Daily Mirror)- Claiming that an increase in accidents involving fallen trees by the roadsides have been observed recently, State Minister of Defense Pramitha Banadara Tennakoon said and added that a special committee will be appointed soon to draft a national policy on planting trees.
+
+He told a news conference that a national policy will be introduced aiming to control and mitigate accidents caused due to falling and fallen trees.
+
+The Minister said there is no policy for tree planting in Sri Lanka where anyone can plant any tree at any time and added that the Singapore model is to be studied and adopted in this regard.
+
+...
+
+[Data](articles/8979d115.json)
+
+---
 
 ### Kusal Mendis and Asitha Fernando join T20 team in US after visa delay
 
@@ -152,6 +188,52 @@ Social media footage posted by Role showed people clambering over rocks, uproote
 
 ---
 
+### ஹப்புத்தளை - தியத்தலாவை வீதியில் மரங்கள் முறிந்து வீழ்ந்ததால் போக்குவரத்து பாதிப்பு
+
+*2024-05-24 15:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/184387) · `ta`
+
+நாட்டில் நிலவுகின்ற கடும் மழை மற்றும் பலத்த காற்றுடன் கூடிய மோசமான காலநிலை காரணமாக இன்று வெள்ளிக்கிழமை (24) அதிகாலை ஹப்புத்தளைக்கும் தியத்தலாவைக்கும் இடைப்பட்ட பகுதியில் பாரிய கராபன்டைன் மரங்கள் முறிந்து வீழ்ந்ததால் அவ்வீதியில் போக்குவரத்து முற்றாக தடைப்பட்டிருந்ததாக தியத்தலாவை பொலிஸார் தெரிவித்தனர்.
+
+அத்துடன், அப்பகுதியில் உள்ள கராபன்டைன் மரங்கள் மற்றும் பாரிய மரங்கள் எந்த நேரத்திலும் விழக்கூடிய அபாயம் காணப்படுவதாக சாரதிகளும் பிரதேசவாசிகளும் தெரிவித்துள்ளனர்.
+
+இந்த வீதியை பயன்படுத்துவோர் மாற்றுவீதிகளை பயன்படுத்துமாறும், மாற்றுவீதியூடாக தியத்தலாவை உடபர கஹகொல்ல ஊடாக பண்டாரவளை வீதியை பயன்படுத்துமாறும் தியத்தலாவை பொலிஸ் நிலைய பிரதான பொலிஸ் பரிசோதகர் சாகர தயாரத்ன தெரிவித்தார்.
+
+மேலும், தியத்தலாவை இராணுவம், தியத்தலாவை பொலிஸார், ஹப்புத்தளை விசேட அதிரடிப்படை, ஹப்புத்தளை பிரதேச சபை, ஹப்புத்தளை பிரதேச செயலகம் ஆகியவற்றின் அனர்த்த பிரிவின் குழுக்கள் இணைந்து பிரதான வீதியில் வீழ்ந்துள்ள மரங்களை அகற்றும் பணியில் ஈடுபட்டுள்ளதாக பதுளை அனர்த்த முகாமைத்துவ நிலையத்தின் பிரதிப் பணிப்பாளர் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/2f5289c8.json)
+
+---
+
+### 1,700 Sri Lankans who have been illegally settled in Malaysia have returned home
+
+*2024-05-24 15:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/184379) · `ta`
+
+Between Jan-Feb 2024, 1,732 Sri Lankans were repatriated from Malaysia, including 1,608 between Mar 1-Mar 1, 2024. The Sri Lankan High Commission collaborated with Malaysia's government to facilitate this process, focusing on vulnerable groups like the elderly, pregnant women, and minors.
+
+🟩
+
+From March 1 to March 1, 2024, 1,608 Sri Lankans have returned from Malaysia.
+
+They have returned to the country with the help of the Sri Lankan High Commission, as they have been illegally settled in Malaysia.
+
+The Sri Lankan High Commission in Kuala Lumpur has said that the effort is being made in collaboration with the Malaysian government's migrants.
+
+From January 1 to February 28, 124 Sri Lankans who have been illegally settled in Malaysia have been sent back from January 1 to February 28.. Accordingly, the total number of repatriates is 1,732.
+
+The Malaysian government's repayment plan is aimed at helping illegal immigrants voluntarily returning to their homes by providing legal exclusions and financial relief.
+
+The High Commission said that special attention was paid to the elderly, pregnant women, people who need medical care and children under the age of twelve.
+
+◼️
+
+[Data](articles/ce43d1be.json)
+
+[Extended Data](ext_articles/ce43d1be.ext.json)
+
+---
+
 ### Two Sri Lankan students in Japan accused of illegal abortion
 
 *2024-05-24 15:43:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Two-Sri-Lankan-students-in-Japan-accused-of-illegal-abortion/108-283302) · `en`
@@ -189,34 +271,6 @@ It has an estimated surface temperature of 42C, which is lower than most of the 
 [Data](articles/bda76362.json)
 
 [Extended Data](ext_articles/bda76362.ext.json)
-
----
-
-### 1,700 Sri Lankans who have been illegally settled in Malaysia have returned home
-
-*2024-05-24 15:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/184379) · `ta`
-
-Between Jan-Feb 2024, 1,732 Sri Lankans were repatriated from Malaysia, including 1,608 between Mar 1-Mar 1, 2024. The Sri Lankan High Commission collaborated with Malaysia's government to facilitate this process, focusing on vulnerable groups like the elderly, pregnant women, and minors.
-
-🟩
-
-From March 1 to March 1, 2024, 1,608 Sri Lankans have returned from Malaysia.
-
-They have returned to the country with the help of the Sri Lankan High Commission, as they have been illegally settled in Malaysia.
-
-The Sri Lankan High Commission in Kuala Lumpur has said that the effort is being made in collaboration with the Malaysian government's migrants.
-
-From January 1 to February 28, 124 Sri Lankans who have been illegally settled in Malaysia have been sent back from January 1 to February 28.. Accordingly, the total number of repatriates is 1,732.
-
-The Malaysian government's repayment plan is aimed at helping illegal immigrants voluntarily returning to their homes by providing legal exclusions and financial relief.
-
-The High Commission said that special attention was paid to the elderly, pregnant women, people who need medical care and children under the age of twelve.
-
-◼️
-
-[Data](articles/ce43d1be.json)
-
-[Extended Data](ext_articles/ce43d1be.ext.json)
 
 ---
 
@@ -2259,81 +2313,5 @@ Meanwhile, the public should be very observed by the rain and the danger of brea
 [Data](articles/8e28bba1.json)
 
 [Extended Data](ext_articles/8e28bba1.ext.json)
-
----
-
-### Shah Rukh Khan was admitted to KD hospital for treatment
-
-*2024-05-23 22:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/184345) · `ta`
-
-Shah Rukh Khan, a Bollywood superstar, was hospitalized on Wednesday after experiencing a heatstroke during an IPL match in Ahmedabad. The incident occurred while watching the game between Kolkata Knight Riders and Sunrisers Hyderabad. His health worsened due to the high humidity, leading to his admission to KD Hospital. His condition stabilized under medical care, with his family, including wife Gauri Khan and friends Juhi Chawla and Jai Mehta, visiting him. However, there's no official update on his health status.
-
-🟩
-
-Bollywood star Shah Rukh Khan was admitted to the hospital on Wednesday, 22nd, suffering from a Heat stroke during the IPL.
-
-An Indian media reports that he suffered from diabetes while at the stadium in Ahmedabad to watch the IPL match between Dan actor, Kolkata Knight Riders and Sunrisers Hyderabad.
-
-Shah Rukh Khan's health deteriorated due to humid temperature in Ahmedabad and police confirmed that KD hospital was admitted to the hospital, where Ahmedabad police superintendent Om Prakash Jat said his condition was steady.
-
-Later, his wife Gauri Khan and girlfriend Juhi Chawla and her husband Jai Mehta came to the hospital. It is noteworthy that Shah Rukh Khan's family has no official report on the actor's health.
-
-◼️
-
-[Data](articles/20572f25.json)
-
-[Extended Data](ext_articles/20572f25.ext.json)
-
----
-
-### Action arrested for assisting ISIS members;More and more startling information
-
-*2024-05-23 22:48:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ISIS-உறுப்பினர்களுக்கு-உதவியவர்-அதிரடி-கைது-மேலும்-பல-திடுக்கிடும்-தகவல்கள்/175-337799) · `ta`
-
-A Sri Lankan man linked to four arrested ISIS members in India faces charges after being detained by Maligawatta's Terrorist Investigation Unit. Investigations reveal connections to drug dealing and frequent travel between Sri Lanka and India. The group, suspected of targeting religious minorities and Indian political leaders, has been under scrutiny since February.
-
-🟩
-
-A Sri Lankan who was closely linked to four Sri Lankan ISIS members arrested in India has been arrested by the terrorist investigation unit in Maligawatta.
-
-Investigations have revealed that Mohamed Nufran, one of the four arrested in India, is the son of a massive drug dealer Pota Naubar.
-
-A team of inquiries was appointed to investigate ISIS members arrested in India.
-
-In this context, a separate investigation has already been launched in connection with the four persons who have been involved in the country.
-
-Subsequently, a person who had close contact with them was arrested by the Terrorist Investigation Unit at Maligawatta.
-
-Investigators said that he was doing various assistance, including the provision of air tickets to those involved.
-
-The suspect is currently being detained in the Terrorist Investigation Unit and continues to be investigated.
-
-Meanwhile, police said that the Indigo Airlines -owned flight was departed from Chennai to Chennai on the night of the 19th.
-
-...
-
-[Data](articles/faf20356.json)
-
-[Extended Data](ext_articles/faf20356.ext.json)
-
----
-
-### Due to inclement weather in Ragala: Tree falls down and death
-
-*2024-05-23 22:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/184344) · `ta`
-
-In Ragala, inclement weather caused a tree to fall, resulting in a man's death. The victim, a 38-year-old father from Maskeliya, was killed in the Magudugalai area.
-
-🟩
-
-Ragala police said that a man was killed in a tree collapsing in the Magudugalai area of ​​the Ragala area due to the inclement weather conditions in the Nuwara Eliya district.
-
-The deceased was reportedly a 38 -year -old father of a child, who was born in a native of Maskeliya and a wife of Kandapalai with his wife after the wedding.
-
-◼️
-
-[Data](articles/d3807c5d.json)
-
-[Extended Data](ext_articles/d3807c5d.ext.json)
 
 ---

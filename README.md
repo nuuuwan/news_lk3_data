@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-24 18:11:39**
+As of **2024-05-24 18:25:01**
 
 ## Newspaper Stats
 
-*Scraped **26,087** Articles*
+*Scraped **26,088** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,410
 economynextcom | 1,501
 dailyftlk | 1,533
-adalk | 2,226
+adalk | 2,227
 adaderanalk | 2,993
 tamilmirrorlk | 3,040
 virakesarilk | 3,981
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,168
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,086 (100.0%) of 26,087 articles have been extended.
+26,087 (100.0%) of 26,088 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -36,19 +36,23 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2024-05-24 17:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196975) · `si`
 
+President Ranil Wickremesinghe announced the completion of issues affecting the Northeast due to war, ensuring development benefits for its people. He mentioned efforts to upgrade healthcare services in the North, including converting hospitals like Jaffna General Hospital into national ones. Additionally, he highlighted the approval for converting Karapitiya Hospital in the South into a national hospital, addressing long-standing needs.
+
+🟩
+
 යුද්ධය නිසා උතුරු නැගෙනහිරට බලපෑ ප්‍රශ්න කඩිනමින් අවසන් කර එම ජනතාවට ද සංවර්ධනයේ ප්‍රතිලාභ ලබා දෙන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
 
 උතුරු පළාත තුළ උසස් මට්ටමේ සෞඛ්‍ය සේවාවක් සහතික කිරීම වෙනුවෙන් යාපනය රෝහල නුදුරේදීම ජාතික රෝහලක් බවට පත් කිරීමට කටයුතු කරන බවත් දකුණු පළාත තුළ පැවති දීර්ඝකාලීන අවශ්‍යතාවයක් ඉටු කරමින් කරාපිටිය රෝහල ජාතික රෝහලක් බවට පත් කිරීමට අදාළ කැබිනට් අනුමැතිය හිමිවී ඇති බවද ජනාධිපතිවරයා සඳහන් කළේය.
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මෙම අදහස් පළ කර සිටියේ යාපනය විශ්වවිද්‍යාලයේ වෛද්‍ය පීඨයේ ඉදිකළ සායනික පුහුණු සහ පර්යේෂණ අංශ ගොඩනැගිල්ල විවෘත කිරීමේ අවස්ථාවට අද (24) පෙරවරුවේ එක් වෙමිනි.
+President Ranil Wickremesinghe was speaking at the opening of the Clinical Training and Research Division built by the Faculty of Medicine at the Medical Faculty of Jaffna University today (24).
 
-මේ අතර "උරුමය "  වැඩසටහන යටතේ යාපනය දිස්ත්‍රික්කයේ ප්‍රාදේශීය ලේකම් කාර්යාල 15ම ආවරණය වන පරිදි සින්නක්කර ඔප්පු 1,286ක් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අතින් ජනතාවට ලබාදීම අද යාපනයේදී සිදුකෙරිණි.
+Meanwhile, President Ranil Wickremesinghe was handed over to the public by President Ranil Wickremesinghe covering 15 Divisional Secretariats covering 15 Divisional Secretariats in Jaffna District under the "Heritage" program.
 
-එමෙන්ම උතුරු පළාතට අයත් මුලතිව්, කිලිනොච්චිය, වවුනියාව හා මන්නාරම දිස්ත්‍රික්කවලට අදාළව "උරුමය" වැඩසටහන යටතේ සින්නක්කර ඔප්පු 13,858ක් ඉදිරියේදී ලබා දීමට නියමිතව තිබේ.
-
-◼️
+...
 
 [Data](articles/462915bb.json)
+
+[Extended Data](ext_articles/462915bb.ext.json)
 
 ---
 
@@ -867,6 +871,22 @@ Eichilampattu police are conducting investigations as the body is placed in the 
 [Data](articles/61203e5c.json)
 
 [Extended Data](ext_articles/61203e5c.ext.json)
+
+---
+
+### තද සුළං පිළිබඳ අවවාදාත්මක නිවේදනයක්
+
+*2024-05-24 12:10:55* · [`adalk`](https://www.ada.lk/breaking_news/තද-සුළං-පිළිබඳ-අවවාදාත්මක-නිවේදනයක්/11-409811) · `si`
+
+තද සුළං පිළිබඳ අවවාදාත්මක නිවේදනයක් කාලගුණ විද්‍යා දෙපාර්තමේන්තුව මගින් නිකුත් කර තිබේ. එම දෙපාර්තමේන්තුව මගින් නිකුත් කළ මෙම නිවේදනය හෙට පෙරවරු 10.30  තෙක් වලංගු වෙයි.
+
+මේ අනුව මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවල සහ උතුරු, උතුරු මැද බස්නාහිර, දකුණු , වයඹ පළාත් සහ ත්‍රිකුණාමලය දිස්ත්‍රත්‍රික්කය සඳහා අදාළ වන පරිදි මෙම නිවේදනය නිකුත් කර තිබේ.
+
+දිවයින හරහා නිරිත දිග මෝසම් සුළං ප්‍රවාහයේ වැඩිවීම හේතුවෙන් මධ්‍යම කඳුකරයේ බටහිර බෑවුම් ප්‍ර දේශවල හා උතුරු, උතුරු මැද බස්නාහිර, දකුණු , වයඹ පළාත් සහ ත්‍රිකුණාමලය දිස්ත්‍රත්‍රික්කයේත්  විටින් විට හමන පැ.කි.මී. (50-60) ක පමණ තද සුළං ඇතිවිය හැකියි එම දෙපාර්තමේන්තුව පවසයි. දිවයිහේ සෙසු ප්‍ර දේශවල විටින් විට හමන පැ.කි.මී. (30-40) ක පමණ තරමක තද සුළං ඇතිවිය හැකි යැයිද එම නිවේදනයේ වැඩිදුරටත් දැක්වෙයි.
+
+◼️
+
+[Data](articles/bba51bce.json)
 
 ---
 
@@ -2303,27 +2323,5 @@ To demonstrate this, the film uses a Native American fable about a wolf. How the
 [Data](articles/f0e61cf2.json)
 
 [Extended Data](ext_articles/f0e61cf2.ext.json)
-
----
-
-### 2024-05-23 (Thursday)
-
-### Government refutes plans to dissolve parliament: Bandula
-
-*2024-05-23 23:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Government-refutes-plans-to-dissolve-parliament-Bandula/108-283277) · `en`
-
-Colombo, May 23 (Daily Mirror)- President Ranil Wickremesinghe has no plans to amend the Constitution to extend his term of office or hold a snap general election as reported, Cabinet Spokesman Minister Bandula Gunawardana said today.
-
-He told the weekly cabinet briefing that there has been turbulence in the share market due to statements made by various factions last week that a snap general election would be held before the presidential election.
-
-He said the President clearly stated that the presidential election would be held this year as per the Constitution and that money has been allocated in the budget for that purpose.
-
-When asked whether speculations that Parliament would be dissolved by June 15, he said there was no basis in the speculations and that the President did not inform the cabinet of such a matter.
-
-...
-
-[Data](articles/eda05f29.json)
-
-[Extended Data](ext_articles/eda05f29.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-25 03:33:48**
+As of **2024-05-25 03:51:59**
 
 ## Newspaper Stats
 
-*Scraped **26,132** Articles*
+*Scraped **26,133** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,410
 economynextcom | 1,503
 dailyftlk | 1,533
 adalk | 2,230
-adaderanalk | 2,996
+adaderanalk | 2,997
 tamilmirrorlk | 3,046
 virakesarilk | 3,992
 dailymirrorlk | 4,128
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,175
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,132 (100.0%) of 26,132 articles have been extended.
+26,132 (100.0%) of 26,133 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -713,6 +713,22 @@ The union has urged the public to exercise patience and caution, advising them n
 [Data](articles/7b6d5d40.json)
 
 [Extended Data](ext_articles/7b6d5d40.ext.json)
+
+---
+
+### 1,289 Navy deserters legally discharged during amnesty
+
+*2024-05-24 18:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/99417/1289-navy-deserters-legally-discharged-during-amnesty) · `en`
+
+Nearly 1,300 naval personnel, who were absent without obtaining leave (AWOL) have been legally discharged during the general amnesty period declared from 20th April to 20th May 2024, Sri Lanka Navy said.
+
+This general amnesty was applicable only for sailors, except all Artificers, Professional Medical and Professional Dental sailors, who have been absent without leave, to obtain official discharge, it added.
+
+Accordingly, a total of 1,289 personnel including 1,254 naval personnel who were absent without leave and an additional 35 naval personnel who are currently overseas and AWOL, were official discharged during this general amnesty period, according to Sri Lanka Navy.
+
+◼️
+
+[Data](articles/da584de7.json)
 
 ---
 
@@ -2275,29 +2291,5 @@ President Mahamat Idriss Déby assumed office three years prior after the passin
 [Data](articles/e26a7795.json)
 
 [Extended Data](ext_articles/e26a7795.ext.json)
-
----
-
-### ආර්ථික පරිවර්තන පනත් කෙටුම්පතට එරෙහිව නඩු පැවරීමට යයි
-
-*2024-05-24 10:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196964) · `si`
-
-UNP plans to sue Supreme Court over Economic Transformation Bill, which aims to improve economic governance and was recently presented to Parliament. The move comes after criticism from the national folk regarding the government's handling of the country's economy and suggestions from BOI to abolish itself. The party argues the government should clarify its intentions behind such a bill, as it hasn't received support from business councils, trade unions, or private sector entities.
-
-🟩
-
-The UNP has decided to prosecute the Supreme Court against the Supreme Court against the Economic Transformation Bill.
-
-ආර්ථික පරිවර්තනය පිළිබඳ පනත් කෙටුම්පත සහ රටේ රාජ්‍ය මූල්‍ය කළමනාකරණය ප්‍රශස්ත මට්ටමක පවත්වාගෙන යාම වෙනුවෙන් “රාජ්‍ය මූල්‍ය කළමනාකරණ පනත් කෙටුම්පත” ද පසුගිය දා පාර්ලිමේන්තුවට ඉදිරිපත් කරනු ලැබීය.
-
-However, the national folk pointed out that the present government has a serious bill of the country's economy and the BOI points out that the BOI has proposed to be abolished.
-
-මෙවැනි පනතක් පිළිබඳ ඉල්ලීමක් වාණිජ මණ්ඩලය හෝ කර්මාන්තකරුවන්ගේ සංගම් හෝ පෞද්ගලික අංශයේ කිසිවෙකුගෙන් ලැබී නොමැති අවස්ථාවක එහි අභිලාශය කුමක්දැයි ආණ්ඩුව පැහැදිලි කළ යුතු බව එම පක්ෂය සඳහන් කරයි.
-
-◼️
-
-[Data](articles/f07b8120.json)
-
-[Extended Data](ext_articles/f07b8120.ext.json)
 
 ---

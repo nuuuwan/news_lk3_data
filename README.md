@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-24 07:47:22**
+As of **2024-05-24 07:19:29**
 
 ## Newspaper Stats
 
-*Scraped **26,000** Articles*
+*Scraped **25,998** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,57 +20,17 @@ adaderanalk | 2,983
 tamilmirrorlk | 3,032
 virakesarilk | 3,963
 dailymirrorlk | 4,092
-adaderanasinhalalk | 4,151
+adaderanasinhalalk | 4,149
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,995 (100.0%) of 26,000 articles have been extended.
+25,989 (100.0%) of 25,998 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-24 (Friday)
-
-### සහන පොලී යටතේ ණය දීමේ වැඩසටහනක් රජයෙන්
-
-*2024-05-24 07:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196956) · `si`
-
-විශේෂ ණය යෝජනා ක්‍රම කිහිපයක් එළඹෙන සතියේ සිට ක්‍රියාත්මක කිරීමට රජය තීරණය කර තිබේ.
-
-මේ අනුව ප්‍රාදේශීය හා දිස්ත්‍රික් මට්ටමින් කර්මාන්තකරුවන්ගේ මුල්‍ය අවශ්‍යතා හඳුනාගෙන වාණිජ බැංකු හරහා සහන පොලී යටතේ ණය ලබාදීමේ වැඩසටහන් ක්‍රියාත්මක කිරීමට නියමිත බව කර්මාන්ත අමාත්‍යංශය පැවසීය.
-
-කර්මාන්ත අමාත්‍යංශ ලේකම් ශාන්ත වීරසිංහ මහතා මේ බව සඳහන් කළේය.
-
-◼️
-
-[Data](articles/3dbb1799.json)
-
----
-
-### අදත් තද වැසි
-
-*2024-05-24 06:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196955) · `si`
-
-නිරිතදිග මෝසම් තත්ත්වය හේතුවෙන් පවතින වැසි සහ සුළං තත්ත්වය තවදුරටත් බලාපොරොත්තු වෙන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව අද (24) උදෑසන නිකුත් කළ නිවේදනයේ දැක්වෙයි.
-
-ඒ හේතුවෙන් බස්නාහිර, සබරගමුව, මධ්‍යම, වයඹ, දකුණු සහ උතුරු පළාත්වල විටින්විට වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකිය.
-
-සබරගමුව පළාතෙත් නුවරඑළිය දිස්ත්‍රික්කයේත් ඇතැම් ස්ථානවල මි.මී. 150ක පමණ ඉතා තද වැසි ඇතිවිය හැකි බවද දැනුම්දෙයි.
-
-බස්නාහිර සහ වයඹ පළාත්වලත් මහනුවර, මන්නාරම, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල මි.මී. 100 ට වැඩි තද වැසි ඇතිවිය හැකිය.
-
-දිවයිනේ සෙසු පළාත්වල තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වෙයි.
-
-මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවල සහ උතුරු, උතුරු මැද, බස්නාහිර, දකුණු සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය දිස්ත්‍රික්කයේත් විටින් විට හමන පැ.කි.මී. 50-60ක පමණ තද සුළං ඇතිවිය හැකිය.
-
-දිවයිනේ සෙසු ප්‍රදේශවල විටින් විට හමන පැ.කි.මී. 30-40 ක පමණ තරමක තද සුළං ද ඇතිවිය හැකි බව එහි දැක්වෙයි.
-
-◼️
-
-[Data](articles/c35925ef.json)
-
----
 
 ### Ceylinco Life launches ‘Medical Saver’ plan to cover medical expenses of senior citizens
 
@@ -83,8 +43,6 @@ A timely medical cum life insurance plan that enables a policyholder to build up
 ...
 
 [Data](articles/66adee38.json)
-
-[Extended Data](ext_articles/66adee38.ext.json)
 
 ---
 
@@ -99,8 +57,6 @@ With a vision to empower the people of Bandarawela with comprehensive insurance 
 ...
 
 [Data](articles/44db326a.json)
-
-[Extended Data](ext_articles/44db326a.ext.json)
 
 ---
 
@@ -226,8 +182,6 @@ Ms Gowri Rajan an award winning business professional is the Director of Sun Mat
 
 [Data](articles/ff484995.json)
 
-[Extended Data](ext_articles/ff484995.ext.json)
-
 ---
 
 ### Sri Lanka Insurance Corporation General Limited hosts General Insurance Summit 2023 celebrating excellence
@@ -242,8 +196,6 @@ The residential summit fostered interactions, knowledge enhancement and skill de
 
 [Data](articles/c01cd11a.json)
 
-[Extended Data](ext_articles/c01cd11a.ext.json)
-
 ---
 
 ### Stakeholders’ meeting to implement Green Entrepreneurship program held
@@ -255,8 +207,6 @@ Ruwan Wijewardene, Senior Advisor to the President on Climate Change, with a vis
 ...
 
 [Data](articles/c5a83695.json)
-
-[Extended Data](ext_articles/c5a83695.ext.json)
 
 ---
 
@@ -2293,5 +2243,59 @@ If CEB's Emergency Call is unable to announce the power outage by 1987, they can
 [Data](articles/0e0afa9d.json)
 
 [Extended Data](ext_articles/0e0afa9d.ext.json)
+
+---
+
+### Public apology for Vesak Day;6 Prisoners released in Batticaloa Prison
+
+*2024-05-23 12:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/184295) · `ta`
+
+In a public apology for Vesak Day, six prisoners were released in Batticaloa Prison due to financial hardship. Led by Superintendent N. Prabhakaran, this act of clemency was carried out under an amnesty policy. The event saw participation from prison welfare officers and officers, concluding with the prisoners expressing gratitude towards the prison officials.
+
+🟩
+
+Batticaloa Superintendent N.. Prabhakaran said.
+
+He added that those who could not afford the minority and the penalty were released on a amnesty basis.
+
+The Prisoner of the Prison. Prison Welfare Officers and Prison Officers participated in the release of the prisoners headed by Prabhakaran.
+
+It is noteworthy that the prisoners evacuated from the prison for gratitude after worshiping the prison officials.
+
+◼️
+
+[Data](articles/c8e8a2cb.json)
+
+[Extended Data](ext_articles/c8e8a2cb.ext.json)
+
+---
+
+### பேச்சுவார்த்தைகள் மூலமே பாலஸ்தீன தேசத்தை அடையமுடியும் ஒரு தலைப்பட்சமான பிரகடனங்கள் மூலம் அதனை அடைய முடியாது- அமெரிக்கா கருத்து-
+
+*2024-05-23 12:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/184298) · `ta`
+
+The US expresses concern over its isolation due to Norway recognizing Palestine, fearing Israel's diplomatic isolation. The US acknowledges the legitimacy of questioning whether Israel is becoming more isolated. The National Security Advisor highlights the shift in international support for Israel, suggesting past backing no longer contributes to its long-term security. Sullivan advises Israel to counteract isolation by defeating Hamas, emphasizing the importance of negotiation for achieving Palestinian statehood.
+
+🟩
+
+இஸ்ரேலிற்கு பாரம்பரியமாக ஆதரவை வெளியிட்டு வந்த நாடுகளால் இஸ்ரேல் தற்போது இராஜதந்திரரீதியில் தனிமைப்படுத்தப்படுவது  குறித்து அமெரிக்கா கவலை வெளியிட்டுள்ளது.
+
+The US has expressed concern over the isolation of the US as Norway has announced that it will recognize the Palestinian nation.
+
+இஸ்ரேல் இராஜதந்திரரீதியில் தனிமைப்படுத்தப்படுவது  குறித்து கரிசனையடைந்துள்ளீர்களா என்ற கேள்விக்கு ஆம் என அவர் பதிலளித்துள்ளார்.
+
+"This is a legitimate question," he said, "We see the increase in voices against Israel on the basis of a country that supports Israel in international organizations."
+
+The National Security Advisor in the United States also said that the voices of Israel's support in the past are traveling in the past.
+
+He said it would not contribute to Israel's long -term security, he said.
+
+Sulivan said that Israel could avoid being isolated internationally by promoting the tactics of defeating the Hamas.
+
+...
+
+[Data](articles/d93ce94e.json)
+
+[Extended Data](ext_articles/d93ce94e.ext.json)
 
 ---

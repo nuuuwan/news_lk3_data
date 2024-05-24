@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-24 22:05:04**
+As of **2024-05-24 22:18:41**
 
 ## Newspaper Stats
 
-*Scraped **26,110** Articles*
+*Scraped **26,112** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,55 @@ islandlk | 1,410
 economynextcom | 1,501
 dailyftlk | 1,533
 adalk | 2,230
-adaderanalk | 2,995
+adaderanalk | 2,996
 tamilmirrorlk | 3,042
 virakesarilk | 3,988
 dailymirrorlk | 4,120
-adaderanasinhalalk | 4,172
+adaderanasinhalalk | 4,173
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,110 (100.0%) of 26,110 articles have been extended.
+26,110 (100.0%) of 26,112 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-24 (Friday)
+
+### CBSL to use govt. office networks to enhance financial literacy
+
+*2024-05-24 21:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/99419/cbsl-to-use-govt-office-networks-to-enhance-financial-literacy) · `en`
+
+The Central Bank of Sri Lanka (CBSL) states that in order to implement the actions under its ‘Financial Literacy Roadmap’ for the country, it plans to use the current network systems of government offices to create and deliver financial-related content to targeted audience, which are the youth and women.
+
+The regulator said that before implementing the programme, the current network will be analysed and modified to be effective in delivering financial literacy.
+
+The CBSL recently launched its publication, “Financial Literacy Roadmap of Sri Lanka 2024–2028,”. The roadmap has been developed as part of the “Financial Literacy and Capacity Building” pillar of the National Financial Inclusion Strategy.
+
+...
+
+[Data](articles/ecefb239.json)
+
+---
+
+### ආපදා පාලනයට සිංගප්පූරු මොඩලයේ ජාතික වැඩපිළි‍වෙලක්
+
+*2024-05-24 21:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196980) · `si`
+
+අයහපත් කාලගුණයත් සමග ඇතිවන හදිසි අනතුරු සහ ආපදා පාලනය කිරීම සඳහා සිංගප්පූරු මොඩලයේ ජාතික වැඩපිළිවෙළක් ආරම්භ කිරීමට සැලසුම් කර ඇති බව ආරක්ෂක රාජ්‍ය අමාත්‍ය ප්‍රමිත බණ්ඩාර තෙන්නකෝන් මහතා පවසයි.
+
+මාර්ග සංවර්ධන අධිකාරියේ සහ පළාත් පාලන ආයතනවල සහය මේ සඳහා අපේක්ෂා කරන බව ඔහු සඳහන් කළේය.
+
+අද (24) කොළඹ පැවති මාධ්‍ය හමුවකට එක්වෙමින් ආරක්ෂක රාජ්‍ය අමාත්‍ය ප්‍රමිත බණ්ඩාර තෙන්නකෝන් මහතා මේ බව කියා සිටියේය.
+
+"ගස් කඩා වැටීම නිසා සිදුවු මරණ සංඛ්‍යාව 6යි. තුවාල ලැබු සංඛ්‍යාව 11යි. අපිට නිරීක්ෂණය වෙනවා ගස් කඩා වැටීම්වල වැඩිවීමක්. දැනට අපේ රටේ ගස් සිටුවීම ගැන කිසිදු ප්‍රතිපත්තියක් නෑ. ඒ ගැන ජාතික ප්‍රතිපත්තියක් සැකසීම යෝග්‍යයයි කියලා අපට අවබෝධ වෙලා තියෙනවා. සිංගප්පූරු මෝඩලය අපි අධ්‍යයනය කිරීමට බලාපොරොත්තු වෙනවා. ඒ අනුව ඉදිරි කාලයේ දී මාර්ගය දෙපස සිටුවීමට සුදුසු ගස් ගැන ජනතාව දැනුවත් කර ප්‍රතිපත්තියක් සැකසීමටත් අපි බලාපොරොත්තු වෙනවා. ජාතික ගොඩනැගිලි  පර්යේෂණ ආයතනයට භාරදීලා තියෙනවා. අපි විශේෂ කමිටුවක් ජාතික ප්‍රතිප්තිය සැකසීමට බලාරොත්තු වෙනවා.
+
+...
+
+[Data](articles/9aaf974a.json)
+
+---
 
 ### The train covered with fog
 
@@ -2339,53 +2373,5 @@ DIG Thalduwa said that IGP Deshabandu Tennakoon has appointed a special team, le
 [Data](articles/623b2c56.json)
 
 [Extended Data](ext_articles/623b2c56.ext.json)
-
----
-
-### Heavy showers and strong winds expected in parts of the island
-
-*2024-05-24 08:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/99406/heavy-showers-and-strong-winds-expected-in-parts-of-the-island) · `en`
-
-Due to the Southwest monsoon conditions, the prevailing showery and windy conditions are expected to continue, says the Meteorology Department.
-
-Showers or thundershowers will occur at times in Western, Sabaragamuwa, Central, North-western, Southern and Northern provinces.
-
-Very heavy showers about 150mm are likely at some places in Sabaragamuwa province and in Nuwara-Eliya districts.
-
-Heavy showers above 100 mm are likely at some places in Western and North-western provinces and in Kandy, Mannar, Galle and Matara districts.
-
-Showers or thundershowers will occur at several places elsewhere of the island, it said.
-
-Strong winds of about 50-60 kmph can be expected at times over Western slopes of the central hills and in Northern, North-central, Western, Southern and North western provinces and in Trincomalee district.
-
-Fairly strong winds about 30-40 kmph can be expected at times elsewhere of the island.
-
-◼️
-
-[Data](articles/61fd8f27.json)
-
-[Extended Data](ext_articles/61fd8f27.ext.json)
-
----
-
-### Sri Lanka state interference in plantation wages escalates into land grab threat
-
-*2024-05-24 08:13:00* · [`economynextcom`](https://economynext.com/sri-lanka-state-interference-in-plantation-wages-escalates-into-land-grab-threat-164467/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s state interference in privatized plantations wages has escalated into a threat to grab the leased land if the companies fail to pay the government ordered salaries due to ‘mismanagement’.
-
-Sri Lanka is 2011 expropriated several private companies including two privatized sugar plantations, and a publicly listed hotel, claiming their assets were ‘underutilized’.
-
-Sri Lanka has been unable to attract foreign investment in the scale of countries like Vietnam despite being socialist one party state, who have created better perceptions about investor protection and labour laws, analysts say.
-
-Sri Lanka’s President Ranil Wickremesinghe in the presence of several plantations sector legislators announced on May Day that a 1,700 rupee a day wage had been ruled by a gazette.
-
-Plantations and worker unions ended collective bargaining after President Gotabaya Rajapaksa ordered a 1,000 rupee a day wage under gazette rule.
-
-...
-
-[Data](articles/b1230a33.json)
-
-[Extended Data](ext_articles/b1230a33.ext.json)
 
 ---

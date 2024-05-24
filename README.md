@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-24 22:18:41**
+As of **2024-05-24 22:34:03**
 
 ## Newspaper Stats
 
-*Scraped **26,112** Articles*
+*Scraped **26,115** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,50 @@ adalk | 2,230
 adaderanalk | 2,996
 tamilmirrorlk | 3,042
 virakesarilk | 3,988
-dailymirrorlk | 4,120
-adaderanasinhalalk | 4,173
+dailymirrorlk | 4,122
+adaderanasinhalalk | 4,174
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,110 (100.0%) of 26,112 articles have been extended.
+26,112 (100.0%) of 26,115 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-24 (Friday)
+
+### ගංවතුර අනතුරු ඇඟවීම් දීර්ඝ කෙරේ
+
+*2024-05-24 22:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196981) · `si`
+
+අත්තනගලු ඔය ද්‍රෝණිය සහ කළු ගඟෙහි කුඩා ගඟ උපද්‍රොණිය සඳහා නිකුත් කර තිබු ගංවතුර අනතුරු ඇඟවීම පැය 24කින් දීර්ඝ කර තිබේ.
+
+නිවේදනයක් නිකුත් කරමින් වාරිමාර්ග දෙපාර්තමේන්තුව සඳහන් කළේ, පසුගිය මැයි 20 වන දින නිකුත් කළ ගංවතුර නිවේදනය ඉදිරි පැය 24 දක්වා එනම් හෙට (25) රාත්‍රී 9 දක්වා දීර්ඝ කළ බවය.
+
+මෙම තත්ත්වය දැඩි සැලකිල්ලට ගෙන කටයුතු කරන ලෙ අදාළ ප්‍රදේශවල ජනතාවට දැනුම් දෙන අතර,  එම ප්‍රදේශ හරහා ගමන් ගන්නා රියදුරන්ට ද සැලකිලිමත් වන ලෙස දැනුම් දී ඇත.
+
+◼️
+
+[Data](articles/7a146f01.json)
+
+---
+
+### SLC denies corruption allegations involving its officials in LPL
+
+*2024-05-24 21:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SLC-denies-corruption-allegations-involving-its-officials-in-LPL/108-283315) · `en`
+
+Colombo, May 24 (Daily Mirror) - Sri Lanka Cricket (SLC) has strongly denied the allegations by Member of Parliament Hesha Withanage during a media briefing today, accusing the SLC President, the Tournament Director of the Lanka Premier League (LPL) and other SLC officials of involvement in match-fixing and corrupt conduct related to the LPL.
+
+As the governing body for cricket in Sri Lanka and the organizing authority for the LPL since its inception in 2020, SLC emphasized its commitment to maintaining the integrity of the sport.
+
+To this end, SLC has enlisted the International Cricket Council's Anti-Corruption Unit (ICC-ACU) to oversee anti-corruption measures for the LPL tournament. ICC-ACU officials attended and monitored the recent LPL player auction as part of their ongoing support, SLC said.
+
+...
+
+[Data](articles/c526b4b8.json)
+
+---
 
 ### CBSL to use govt. office networks to enhance financial literacy
 
@@ -46,23 +78,49 @@ The CBSL recently launched its publication, “Financial Literacy Roadmap of Sri
 
 [Data](articles/ecefb239.json)
 
+[Extended Data](ext_articles/ecefb239.ext.json)
+
 ---
 
-### ආපදා පාලනයට සිංගප්පූරු මොඩලයේ ජාතික වැඩපිළි‍වෙලක්
+### National program in Singapore Model for Disaster Control
 
 *2024-05-24 21:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196980) · `si`
 
-අයහපත් කාලගුණයත් සමග ඇතිවන හදිසි අනතුරු සහ ආපදා පාලනය කිරීම සඳහා සිංගප්පූරු මොඩලයේ ජාතික වැඩපිළිවෙළක් ආරම්භ කිරීමට සැලසුම් කර ඇති බව ආරක්ෂක රාජ්‍ය අමාත්‍ය ප්‍රමිත බණ්ඩාර තෙන්නකෝන් මහතා පවසයි.
+Singapore-inspired disaster management program announced in Sri Lanka, focusing on weather-related incidents. Defense Minister Pinhase Bandara Tennakoon highlighted the need for a national policy on tree planting after recent fatalities and injuries from falling trees. The initiative aims to enhance public awareness and involve authorities like the Road Development Authority and Local Authorities.
 
-මාර්ග සංවර්ධන අධිකාරියේ සහ පළාත් පාලන ආයතනවල සහය මේ සඳහා අපේක්ෂා කරන බව ඔහු සඳහන් කළේය.
+🟩
 
-අද (24) කොළඹ පැවති මාධ්‍ය හමුවකට එක්වෙමින් ආරක්ෂක රාජ්‍ය අමාත්‍ය ප්‍රමිත බණ්ඩාර තෙන්නකෝන් මහතා මේ බව කියා සිටියේය.
+Defense Minister Pinhase Bandara Tennakoon says that it is planned to launch a national program in the Singapore Model to control accidents and disasters with inclement weather.
 
-"ගස් කඩා වැටීම නිසා සිදුවු මරණ සංඛ්‍යාව 6යි. තුවාල ලැබු සංඛ්‍යාව 11යි. අපිට නිරීක්ෂණය වෙනවා ගස් කඩා වැටීම්වල වැඩිවීමක්. දැනට අපේ රටේ ගස් සිටුවීම ගැන කිසිදු ප්‍රතිපත්තියක් නෑ. ඒ ගැන ජාතික ප්‍රතිපත්තියක් සැකසීම යෝග්‍යයයි කියලා අපට අවබෝධ වෙලා තියෙනවා. සිංගප්පූරු මෝඩලය අපි අධ්‍යයනය කිරීමට බලාපොරොත්තු වෙනවා. ඒ අනුව ඉදිරි කාලයේ දී මාර්ගය දෙපස සිටුවීමට සුදුසු ගස් ගැන ජනතාව දැනුවත් කර ප්‍රතිපත්තියක් සැකසීමටත් අපි බලාපොරොත්තු වෙනවා. ජාතික ගොඩනැගිලි  පර්යේෂණ ආයතනයට භාරදීලා තියෙනවා. අපි විශේෂ කමිටුවක් ජාතික ප්‍රතිප්තිය සැකසීමට බලාරොත්තු වෙනවා.
+He added that the support of the Road Development Authority and Local Authorities.
+
+He was speaking at a media briefing held in Colombo today (24).
+
+6 deaths due to trees fall. 11 injured. We have observed an increase in trees. There is no policy to plant trees currently in our country. We understand that it is appropriate to set up a national policy. We hope to study Singapore model. Accordingly, we hope to educate the public about the trees to be planted on either side of the road in the next period.. Has been handed over to the National Building Research Institute. A special committee will help you to set up the national stupid.
 
 ...
 
 [Data](articles/9aaf974a.json)
+
+[Extended Data](ext_articles/9aaf974a.ext.json)
+
+---
+
+### Dengue cases for 2024 surpass 24,000
+
+*2024-05-24 21:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Dengue-cases-for-2024-surpass-24-000/108-283306) · `en`
+
+Colombo, May 24 (Daily Mirror) -   The tally of dengue cases recorded for 2024 has topped the 24,000 mark, according to the Epidemiology Unit.
+
+As of May 23, a total of 24,227 cases have been reported in 2024, with the highest number being from the Colombo district, which stood at 5,183.
+
+The Western Province has recorded 8,711 cases, the highest province-wise while the month of May has also logged 1,954 Dengue cases.
+
+As several parts in Sri Lanka have experienced significant rainfall for the past few days, health officials urge people to keep their surroundings clean and destroy mosquito breeding places in order to keep dengue at bay.
+
+◼️
+
+[Data](articles/36028677.json)
 
 ---
 
@@ -2313,65 +2371,5 @@ The accident had occurred while five people went to collect firewood while the a
 [Data](articles/30d5267a.json)
 
 [Extended Data](ext_articles/30d5267a.ext.json)
-
----
-
-### Mendis and Fernando join T20 World Cup squad in USA after visa delay
-
-*2024-05-24 08:42:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Mendis-and-Fernando-join-T20-World-Cup-squad-in-USA-after-visa-delay/108-283281) · `en`
-
-Colombo, May 24 (Daily Mirror) - Sri Lanka’s top-order batsman and wicketkeeper Kusal Mendis, along with fast bowler Asitha Fernando, have joined the national T20 World Cup team in the USA after a delay in receiving their visas, Sri Lanka Cricket (SLC) Selection Committee Chairman Upul Tharanga told the Daily Mirror.
-
-Although the national team departed for the USA on May 14, Mendis and Fernando could not travel with the team due to their visas not being issued by the US Embassy in Sri Lanka.
-
-The 15-member Sri Lanka team left for the USA in advance to train and acclimatize to the conditions. They arrived in the USA last Wednesday and began training at the Morrisville Facility in North Carolina.
-
-Tharanga expressed relief that the team arrived in the US two weeks in advance, allowing the players to familiarize themselves with the conditions. He confirmed that all players are fit for the upcoming warm-up games.
-
-...
-
-[Data](articles/73bc7b5c.json)
-
-[Extended Data](ext_articles/73bc7b5c.ext.json)
-
----
-
-### Selfie before suicide with gun on forehead
-
-*2024-05-24 08:37:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Selfie-before-suicide-with-gun-on-forehead/108-283280) · `en`
-
-Hikkaduwa, May 24 (Daily Mirror)- The body of an individual who had died of gunshot injuries was recovered from a house at Meetiyagoda in Thelwatta last morning. Judging from a selfie taken by him with the gun placed on his forehead, the police suspect it to be a case of suicide.
-
-The victim was a resident of Metiwala in Thelwatta in Hikkaduwa. His mother told police that she opened the door of her son’s room when he did not wake up in the morning to find his body lying on the floor.
-
-During interrogation of his mother and grandmother, the latter told police that she threw away the gun into the nearby cinnamon grove. The police recovered the gun used in the suicide.
-
-Further investigations revealed that he was a drug addict and that he had been depressed after he was jilted by his girlfriend.
-
-Police examined his cellular phone to find the selfie taken by him before he shot himself dead.
-
-...
-
-[Data](articles/1ff7f329.json)
-
-[Extended Data](ext_articles/1ff7f329.ext.json)
-
----
-
-### Sri Lanka TID detains suspect tied to Ahmedabad ISIS arrests
-
-*2024-05-24 08:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-TID-detains-suspect-tied-to-Ahmedabad-ISIS-arrests/108-283279) · `en`
-
-Colombo, May 24 (Daily Mirror) - A day after four ISIS terrorists were arrested in Ahmedabad, India, Sri Lanka's Terrorism Investigation Division (TID) arrested a suspect in Colombo connected to those arrested in India.
-
-Police Spokesman DIG Nihal Thalduwa said that the 44-year-old suspect was detained the day after the arrest of four Sri Lankan nationals in India and the suspect is being questioned by the TID. He said that Sri Lankan authorities are closely coordinating with Indian authorities on the investigation.
-
-DIG Thalduwa said that IGP Deshabandu Tennakoon has appointed a special team, led by a Senior DIG, to probe the incident. It was learnt that the Sri Lanka Police to record statements from several individuals in Sri Lanka reportedly connected to the arrested suspects.
-
-...
-
-[Data](articles/623b2c56.json)
-
-[Extended Data](ext_articles/623b2c56.ext.json)
 
 ---

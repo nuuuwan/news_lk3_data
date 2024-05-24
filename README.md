@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-24 12:34:00**
+As of **2024-05-24 12:50:52**
 
 ## Newspaper Stats
 
@@ -26,77 +26,101 @@ adaderanasinhalalk | 4,161
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,043 (100.0%) of 26,049 articles have been extended.
+26,049 (100.0%) of 26,049 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-24 (Friday)
 
-### யாழ்ப்பாணம் வந்தார் ஜனாதிபதி ரணில் விக்ரமசிங்க
+### President Ranil Wickremesinghe visited Jaffna
 
 *2024-05-24 12:16:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/யாழ்ப்பாணம்-வந்தார்-ஜனாதிபதி-ரணில்-விக்ரமசிங்க/71-337808) · `ta`
 
-வடக்கு மாகாணத்திற்கான மூன்று நாள் விஜயத்திற்காக ஜனாதிபதி ரணில் விக்ரமசிங்க இன்று காலை யாழ்ப்பாணத்தை வந்தடைந்தார்.
+President Ranil Wickremesinghe embarked on a three-day visit to Jaffna, where he was greeted by Minister Douglas Devananda and former State Minister Vijayagala Maheshwaran. The President's itinerary includes opening the Jaffna University Medical Faculty building and attending a Youth Service forum at Duraiyappa Stadium.
 
-உலங்கு வானூர்தி மூலம்  யாழ்ப்பாணம் மத்திய கல்லூரி மைதானத்தில் வந்திறங்கிய ஜனாதிபதியை, அமைச்சர் டக்ளஸ் தேவானந்தா, முன்னாள் இராஜாங்க அமைச்சர் விஜயகலா மகேஸ்வரன் ஆகியோர் வரவேற்றனர்.
+🟩
 
-ஜனாதிபதி ரணில் விக்ரமசிங்க யாழ்ப்பாணப் பல்கலைக்கழக மருத்துவ பீட கட்டிடத்தை திறந்துவைப்பதுடன், துரையப்பா விளையாட்டரங்கில் நடைபெறும் இளைஞர் சேவை மன்ற நிகழ்வு, தந்தை செல்வா கலையரங்கில் நடைபெறும் ஆசிரியர் நியமன நிகழ்விலும் கலந்துகொள்கிறார். R
+President Ranil Wickremesinghe arrived in Jaffna this morning for a three -day visit to the Northern Province.
+
+Minister Douglas Devananda and former State Minister Vijayagala Maheshwaran welcomed the President who arrived at the Jaffna Central College grounds through the air.
+
+President Ranil Wickremesinghe will open the Jaffna University Medical Faculty building and attends the Youth Service forum at Duraiyappa Stadium. Remble
 
 ◼️
 
 [Data](articles/7682ae2e.json)
 
+[Extended Data](ext_articles/7682ae2e.ext.json)
+
 ---
 
-### விபத்தில் 6 வயதுச் சிறுமி மரணம்
+### 6 -year -old girl death in an accident
 
 *2024-05-24 12:12:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விபத்தில்-6-வயதுச்-சிறுமி-மரணம்/175-337807) · `ta`
 
-திருகோணமலை - மட்டக்களப்பு விதியில் நேற்று அதிகாலை மோட்டார் வாகனமொன்று கவிழ்ந்து  விபத்திற்குள்ளானதில் 6 வயதுக் குழந்தை ஒன்று உயிரிழந்துள்ளது.
+In a tragic accident, a 6-year-old girl lost her life when a car crash occurred near Trincomalee-Batticaloa. The incident happened due to the driver falling asleep while driving from Cherunuwara to Inthirangam. The driver and his family were injured; one child passed away after being taken to Muttur Hospital. Police are investigating the case.
 
-சேருநுவரவில் இருந்து செருகல் நோக்கி மோட்டார் வாகனம் பணித்த போது சாரதிக்கு ஏற்பட்ட தூக்கம் காரணமாக இந்த விபத்து இடம்பெற்றுள்ளது.
+🟩
 
-இதன்போது, மோட்டார் வாகனத்தில் சாரதியின் குடும்ப உறுப்பினர்கள் பயணித்துள்ள நிலையில் படுகாயமடைந்த இரண்டு குழந்தைகள் ஈச்சிலம்பற்று  வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+A 6 -year -old child was killed when a motor vehicle crashed in the early hours of this morning in the Trincomalee - Batticaloa rule.
 
-அதில் ஒரு குழந்தை மேலதிக சிகிச்சைக்காக மூதூர் வைத்தியசாலைக்கு மாற்றப்பட்ட நிலையில் உயிரிழந்துள்ளார்.
+The accident occurred due to a driver's sleep when working on a motor vehicle from Cherunuwara to insertion.
 
-சடலம் மூதூர் வைத்தியசாலையின் பிரேத அறையில் வைக்கப்பட்டுள்ள நிலையில் ஈச்சிலம்பற்று பொலிஸார் விசாரணைகளை மேற்கொண்டு வருகின்றனர். R
+The driver's family members have been admitted to the Eichilampattu Hospital as the driver's family members have been traveling in a motor vehicle.
+
+One of the children died after being transferred to Muttur Hospital for further treatment.
+
+Eichilampattu police are conducting investigations as the body is placed in the funeral room of the Muttur hospital.. Remble
 
 ◼️
 
 [Data](articles/61203e5c.json)
 
+[Extended Data](ext_articles/61203e5c.ext.json)
+
 ---
 
-### ரயில் சமிக்ஞை அமைப்பு கோளாறு: போக்குவரத்து பாதிப்பு!
+### Rail signal system disorder: traffic impact!
 
 *2024-05-24 12:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/184367) · `ta`
 
-மலையக ரயில் சமிக்ஞை அமைப்பில் ஏற்பட்ட கோளாறு காரணமாக இன்று வெள்ளிக்கிழமை  (24) காலை முதல் மலையக ரயிலின்  பாதையின் போக்குவரத்து கடுமையாக பாதிக்கப்பட்டுள்ளது.
+Traffic in the hill station is severely affected due to rail signal system disorder caused by mud, stones, and trees on the railway line. The signal system between Italgasinna, Ohia, Ambewela, and Patipola stations is blocked, leading to delays and cancellations of night post trains between Colombo-Badulla and vice versa. Today's special train service is also canceled.
 
-ரயில் பாதையில் மண், கற்கள் மற்றும் மரங்கள் விழுந்துள்ளதால் ரயில் தாமதமாக வருவதாக ரயில்வே திணைக்களம் தெரிவித்துள்ளது.
+🟩
 
-இதல்கஸ்ஹின்ன , ஒஹியா,அம்பேவெல மற்றும் பட்டிபொல ரயில்வே நிலையங்களுக்கு இடையிலான சமிக்ஞை அமைப்பு தடைப்பட்டுள்ளது.
+Traffic of the hill station has been hit hard since Friday morning.
 
-அத்தோடு, கொழும்பு – பதுளை மற்றும் பதுளை – கொழும்பு ஆகிய பிரதேசங்களுக்கிடையிலான இரவு நேர அஞ்சல் ரயில்களையும் இரத்து செய்ய தீர்மானிக்கப்பட்டுள்ளது.
+The railway department said that the train is delayed due to mud, stones and trees on the railway line.
 
-மேலும், இன்றைய விசேட ரயில் சேவையும் இரத்து செய்யப்பட்டுள்ளதாக ரயில்வே திணைக்களம் தெரிவித்துள்ளது.
+The signal system between Italgasinna, Ohia, Ambewela and Patipola railway stations has been blocked.
+
+In addition, it has been decided to cancel night post trains between Colombo - Badulla and Badulla and Colombo.
+
+The Railway Department said that today's special train service has been canceled.
 
 ◼️
 
 [Data](articles/e6f9093e.json)
 
+[Extended Data](ext_articles/e6f9093e.ext.json)
+
 ---
 
-### சுயேச்சை ஜனாதிபதி வேட்பாளராக பொன்சேக்கா…! ; வாக்களிக்கப் போகும் தரப்பினர் யார்?
+### Fonseka as independent presidential candidate…!; Who are going to vote?
 
 *2024-05-24 12:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/184365) · `ta`
 
-2009 ஆம் ஆண்டு விடுதலை புலிகளுக்கு எதிரான யுத்தம் முடிவுக்கு வந்ததும் புலிகளை வெற்றி கொள்வதற்கான வியூகங்களை யார் வகுத்தது என்ற போட்டி மனப்பான்மை  ராஜபக்ச சகோதரர்களுக்கும்  இராணுவத் தளபதி சரத் பொன்சேக்காவுக்கும் எழுந்தது. குளிர்சாத அறைகளுக்குள் அமர்ந்து கொண்டு உத்தரவுகளைப் பிறப்பித்த அதிகாரிகளை விட களத்தில் சமர் செய்த இராணுவ வீரர்களே நாட்டை காத்தனர். அவர்களுக்கே கெளரவம் செலுத்தப்படல் வேண்டும் என இராணுவத்தளபதி  சரத் பொன்சேக்கா தெரிவித்திருந்தார். அவர் பாதுகாப்பு அமைச்சின் செயலாளராக விளங்கிய கோட்டாபய ராஜபக்சவையே அவ்வாறு மறைமுகமாக சுட்டிக்காட்டினார். நாட்டின் சிங்கள பெளத்த மக்கள் போர் வெற்றிக்கு சரத் பொன்சேக்காவே காரணகர்த்தா என நினைத்தனர். அவர் மகிந்தவை விட புகழ்பெற்று விடுவார் என்று நினைத்த ராஜபக்ச சகோதரர்கள் அவரை இராணுவத்தளபதி பதவியிலிருந்து விலகக்கோரி, அதை விட குறைந்த அதிகாரமும் அந்தஸ்த்தும் கொண்ட  பாதுகாப்பு ஆளணித் தலைவர் பதவிக்கு    உயர்த்தப்பட்டார். அதன் பின்னரே பொன்சேக்கா  தனது ஓய்வை அறிவித்து விட்டு ராஜபக்சகளுக்கு எதிராக  ஜனாதிபதி தேர்தலில் களமிறங்கினார்.
+After the 2009 end of Sri Lanka's civil war, tensions flared between military leaders and politicians. Sarath Fonseka, a popular figure credited with the war's victory, faced backlash from the Rajapaksa brothers, leading to his demotion and eventual run for president against them.
+
+🟩
+
+When the war against the LTTE ended in 2009, the rival attitude of who set up the Tigers' strategies arose to the Rajapakse brothers and army commander Sarath Fonseka.. Soldiers who sat on the field more than the officers who sat in the refrigerator and waited for the country. Army Commander Sarath Fonseka said they should be honored with them. He indirectly pointed out Gotabhaya Rajapaksa, the Secretary of the Ministry of Defense.. The Sinhalese Buddhist people of the country thought that Sarath Fonseka was responsible for the victory of the war. The Rajapaksa brothers, who thought he would be more famous than Mahinda, resigned from the post of Army Commander, raised to the post of security governing leader with less power and status.. It was only then that Fonseka announced his retirement and went on the presidential election against the Rajapaksa.
 
 ◼️
 
 [Data](articles/50ef9e31.json)
+
+[Extended Data](ext_articles/50ef9e31.ext.json)
 
 ---
 
@@ -224,17 +248,23 @@ Four members of a family have been affected and a house has been partially damag
 
 ---
 
-### යාපනය සරසවියේ වෛද්‍ය පීඨ නව ගොඩනැගිල්ල ජනපති විවෘත කරයි
+### President opens new building for Medical Faculty of Jaffna University
 
 *2024-05-24 11:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196966) · `si`
 
-යාපනය විශ්වවිද්‍යාලයේ වෛද්‍ය පීඨයේ නව ගොඩනැගිල්ල ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් විවෘත කෙරුණි.
+President Ranil Wickremesinghe inaugurated a new building at Jaffna University's Medical Faculty after 46 years, costing Rs. 942 million.
 
-යාපනය විශ්වවිද්‍යාලයේ මෙලෙස නව ගොඩනැගිල්ලක් ඉදිකර ඇත්තේ වසර 46කට පසුවය. ඒ සඳහා වැයවී ඇති මුදල රුපියල් මිලියන 942කි.
+🟩
+
+President Ranil Wickremesinghe was opened under the patronage of President Ranil Wickremesinghe's new building at the Medical Faculty of the Jaffna University.
+
+New building for the Jaffna University has been constructed 46 years later. 942 million is Rs. 942 million.
 
 ◼️
 
 [Data](articles/c7e00ed3.json)
+
+[Extended Data](ext_articles/c7e00ed3.ext.json)
 
 ---
 
@@ -726,25 +756,31 @@ Police spokesman confirmed that one of the suspects is the son of a drug culprit
 
 ---
 
-### දන්සල් වදින්න ගිය තරුණයින්  තිදෙනා දුම්රියේ ගැටි මරුට
+### Three youths who went to Dansal were killed in train train
 
 *2024-05-24 09:16:24* · [`adalk`](https://www.ada.lk/breaking_news/දන්සල්-වදින්න-ගිය-තරුණයින්--තිදෙනා-දුම්රියේ-ගැටි-මරුට/11-409810) · `si`
 
-රත්ගම බූස්ස  පිංතාලිය හන්දියේ දුම්රිය හරස් මාර්ගයේදී ඊයේ (23) රෑ යතුරු පැදියක් දුම්රියේ ගැටී  තරුණයින් තිදෙනෙක් ජීවිතක්ෂයට පත්වී ඇති බව රත්ගම පොලීසිය කියයි.
+Three youths from Galagodawatte, Ratgama, aged 18, 19, and 20, died after being hit by a train while riding a motorcycle near the Rapagama Boossa Peptaleiya Junction. They were critically injured and taken to Karapitiya Hospital, where their bodies are now. Further investigations are ongoing by the Ratgama Police.
 
-මෙසේ මිය ගොස් ඇත්තේ රත්ගම ගලගොඩවත්ත පදිංචි තරුණයින් තිදෙනෙක් බවද පොලීසිය කියයි.
+🟩
 
-තරුණයින් තිදෙනා  වෙසක් දන්සල්  වදින්න යමින් සිටි යතුරු පැදිය දුම්රියේ ගැටීමෙන් තිදෙනා මිය ගොස් ඇති බවද පොලීසිය කියයි.
+The Ratgama Police say that three youths were killed in a motorbike on the train on the railway crossing at the Rapagama Boossa Peptaleiya Junction yesterday.
 
-ඔවුන් වයස දහ අට,දහනවය හා විස්ස වයස්  වල පසුවූවන් බවද පොලීසිය කියයි.
+The deceased is three youths from Galagodawatte, Ratgama.
 
-තරුණයින් තිදෙනා ගමන් ගත් යතුරු පැදිය දුම්රියේ ගැටී බරපතල තුවාල ලබා කරාපිටිය රෝහලට රැගෙන යමින් සිටියදී තිදෙනාම ජීවික්ෂයට පත්වී ඇති බව ද පොලීසිය කියයි.
+The three youths were killed in a motorcycle train, police said.
 
-ඔවුන්ගේ දේහයන් කරාපිටිය රෝහල් මෘත ශරීරාගාරයේ තැන්පත් කර බවත් අද මරණ පරීක්ෂණය කරාපිටිය රෝහලේදී පැවැත්වීමට නියමිත බවත් පොලීසිය කියයි.  රත්ගම පොලීසිය මේ පිළිබදව වාඩිදුර පරීක්ෂණ පවත්වයි.
+They are 18, nineteen, nineteen and twenty-age.
+
+The three youths were severely wounded and taken seriously injured and taken to the Karapitiya hospital.
+
+Police said their bodies were placed at the Karapitiya Hospital morgue and the deaths will be held at the Karapitiya Hospital today.  The Ratgama Police are conducting further investigations.
 
 ◼️
 
 [Data](articles/247791b0.json)
+
+[Extended Data](ext_articles/247791b0.ext.json)
 
 ---
 

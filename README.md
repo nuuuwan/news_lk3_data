@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-25 03:51:59**
+As of **2024-05-25 04:03:40**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,175
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,132 (100.0%) of 26,133 articles have been extended.
+26,133 (100.0%) of 26,133 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -729,6 +729,8 @@ Accordingly, a total of 1,289 personnel including 1,254 naval personnel who were
 ◼️
 
 [Data](articles/da584de7.json)
+
+[Extended Data](ext_articles/da584de7.ext.json)
 
 ---
 

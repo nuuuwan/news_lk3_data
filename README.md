@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-24 11:53:31**
+As of **2024-05-24 12:05:49**
 
 ## Newspaper Stats
 
-*Scraped **26,037** Articles*
+*Scraped **26,038** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 2,225
 adaderanalk | 2,988
 tamilmirrorlk | 3,034
 virakesarilk | 3,969
-dailymirrorlk | 4,101
+dailymirrorlk | 4,102
 adaderanasinhalalk | 4,160
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,033 (100.0%) of 26,037 articles have been extended.
+26,037 (100.0%) of 26,038 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -43,6 +43,8 @@ Built at a cost of Rs. 942 million, this is the first new construction at the un
 ◼️
 
 [Data](articles/c81770e4.json)
+
+[Extended Data](ext_articles/c81770e4.ext.json)
 
 ---
 
@@ -62,6 +64,8 @@ However, the NPP points out that the government has presented a bill which has a
 
 [Data](articles/5e76855d.json)
 
+[Extended Data](ext_articles/5e76855d.ext.json)
+
 ---
 
 ### Vesak Poya holiday empties Colombo
@@ -74,19 +78,45 @@ Most people were out of Colombo due to the long holiday for Vesak Poya, leaving 
 
 [Data](articles/daf85d24.json)
 
+[Extended Data](ext_articles/daf85d24.ext.json)
+
 ---
 
-### සුළං ප්‍රවාහයේ වැඩිවීමක්
+### Train services hampered on up-country line
+
+*2024-05-24 11:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Train-services-hampered-on-up-country-line/108-283288) · `en`
+
+Colombo, May 24 - Sri Lanka Railways announced significant delays on the up-country train line today after trees and rocks fell onto the tracks causing widespread disruption to services.
+
+In addition to the delays, the Department of Railways confirmed the cancellation of the night mail trains to and from Badulla.
+
+Further, several other special trains scheduled to run on the up-country line today have also been cancelled.
+
+Efforts are currently underway to clear the tracks and restore normal services as quickly as possible.
+
+◼️
+
+[Data](articles/f81480d2.json)
+
+---
+
+### An increase in wind flow
 
 *2024-05-24 11:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196965) · `si`
 
-දිවයින හරහා නිරිතදිග මෝසම් සුළං ප්‍රවාහයේ වැඩිවීම හේතුවෙන් විටින්විට පැයට කිලෝමීටර් 50ත් 60ත් අතර තද සුළං ඇතිවිය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Strong winds expected due to southwest monsoon, lasting 50-60 hours, with warnings issued this morning.
 
-හෙට (25) දිනයේ උදෑසන 10:30 වන තෙක් වලංගු වන පරිදි අද (24) පෙරවරු 10:30ට මෙම අනතුරු ඇඟවීම නිකුත් කෙරුණි.
+🟩
+
+The southwest monsoon wind flow through the island can cause strong winds between 50 and 60 hours from time to time.
+
+The warning was issued today 10:30 am today (25) at 10:40 am today.
 
 ◼️
 
 [Data](articles/8be3ac77.json)
+
+[Extended Data](ext_articles/8be3ac77.ext.json)
 
 ---
 
@@ -2267,29 +2297,5 @@ The interviews for candidates who pass the examination will be held at the Provi
 [Data](articles/5fee00ea.json)
 
 [Extended Data](ext_articles/5fee00ea.ext.json)
-
----
-
-### The lights cut off the light on Poya Day
-
-*2024-05-23 15:50:52* · [`adalk`](https://www.ada.lk/breaking_news/පෝය-දිනයේ-ලයිට්-කපලා-ජනතාව-අමාරුවේ/11-409806) · `si`
-
-On Vesak Poya Day, residents faced hardships due to a lack of water and electricity in Balapitiya, Watawala, Meetiyagoda, Ambalangoda, and Wattapola. The water crisis was exacerbated by an accident at the Baddegama pumping station, affecting over 200 temples across several cities. Despite efforts to manage the situation, including adjusting meal times and sourcing water from wells, the day was marked by significant difficulties.
-
-🟩
-
-Vesak Poya has been raised from 5.00 am to 4:00 pm today (23) at the Balapitiya, Balapitiya, Watawala, Meetiyagoda, Ambalangoda, Ambalangoda, Wattapola.Residents say they had to face severe hardships.
-
-The organizers were unable to adjust the food in Dansals prepared for the afternoon and dawn of these areas.
-
-Water services from the Baddegama pumping site of the National Water Supply and Jala Transport Board.  Although the writer spoke to the head office to learn about the unknown water, the writer had not responded to the phone. When he spoke and asked the mobile of an employee of the office, he said there was an accident in Baddegama Water Pumps. He said that it was impossible to reschedule because of the power of this area
-
-Residents Say, the area says that these officers do not understand the difficulty of Vesak Poya Day, such as water for more than seven hours.
-
-...
-
-[Data](articles/7f990641.json)
-
-[Extended Data](ext_articles/7f990641.ext.json)
 
 ---

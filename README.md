@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-24 18:25:01**
+As of **2024-05-24 18:34:42**
 
 ## Newspaper Stats
 
-*Scraped **26,088** Articles*
+*Scraped **26,089** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,36 @@ adalk | 2,227
 adaderanalk | 2,993
 tamilmirrorlk | 3,040
 virakesarilk | 3,981
-dailymirrorlk | 4,116
+dailymirrorlk | 4,117
 adaderanasinhalalk | 4,168
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,087 (100.0%) of 26,088 articles have been extended.
+26,088 (100.0%) of 26,089 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-24 (Friday)
+
+### Constitutionality of Sri Lanka Telecommunications Bill challenged in SC
+
+*2024-05-24 18:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Constitutionality-of-Sri-Lanka-Telecommunications-Bill-challenged-in-SC/108-283309) · `en`
+
+Colombo, May 24 (Daily Mirror)- A Special Determination petition was filed before the Supreme Court challenging the constitutionality of the Sri Lanka Telecommunications (Amendment) Bill which was recently placed on the Order Paper of Parliament.
+
+Media Law Forum (Guarantee) Limited filed this petition alleging that the structure of this Bill appears to be an effort to curtail the expression of opinions that diverge from the government's stance.
+
+The petitioner is seeking a declaration that the Bill requires the approval by the people at a Referendum in addition to the two-thirds approval of Parliament.
+
+The petitioner challenges the constitutionality of this Bill on the grounds that it falls outside the purview of the Constitution.
+
+...
+
+[Data](articles/7a2e658c.json)
+
+---
 
 ### උතුර ට ගිය ජනපතිගෙන් පොරොන්දුවක්
 
@@ -874,19 +892,25 @@ Eichilampattu police are conducting investigations as the body is placed in the 
 
 ---
 
-### තද සුළං පිළිබඳ අවවාදාත්මක නිවේදනයක්
+### A warning of strong winds
 
 *2024-05-24 12:10:55* · [`adalk`](https://www.ada.lk/breaking_news/තද-සුළං-පිළිබඳ-අවවාදාත්මක-නිවේදනයක්/11-409811) · `si`
 
-තද සුළං පිළිබඳ අවවාදාත්මක නිවේදනයක් කාලගුණ විද්‍යා දෙපාර්තමේන්තුව මගින් නිකුත් කර තිබේ. එම දෙපාර්තමේන්තුව මගින් නිකුත් කළ මෙම නිවේදනය හෙට පෙරවරු 10.30  තෙක් වලංගු වෙයි.
+Strong winds warning issued by the Department of Meteorology for the western-central hills, Northern, Western, Southern Western Provinces, and Trincomalee District due to increased southwest monsoon wind stream. Expect educational strong winds across the island, possibly leading to collapses. Valid until 10:30 am tomorrow.
 
-මේ අනුව මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවල සහ උතුරු, උතුරු මැද බස්නාහිර, දකුණු , වයඹ පළාත් සහ ත්‍රිකුණාමලය දිස්ත්‍රත්‍රික්කය සඳහා අදාළ වන පරිදි මෙම නිවේදනය නිකුත් කර තිබේ.
+🟩
 
-දිවයින හරහා නිරිත දිග මෝසම් සුළං ප්‍රවාහයේ වැඩිවීම හේතුවෙන් මධ්‍යම කඳුකරයේ බටහිර බෑවුම් ප්‍ර දේශවල හා උතුරු, උතුරු මැද බස්නාහිර, දකුණු , වයඹ පළාත් සහ ත්‍රිකුණාමලය දිස්ත්‍රත්‍රික්කයේත්  විටින් විට හමන පැ.කි.මී. (50-60) ක පමණ තද සුළං ඇතිවිය හැකියි එම දෙපාර්තමේන්තුව පවසයි. දිවයිහේ සෙසු ප්‍ර දේශවල විටින් විට හමන පැ.කි.මී. (30-40) ක පමණ තරමක තද සුළං ඇතිවිය හැකි යැයිද එම නිවේදනයේ වැඩිදුරටත් දැක්වෙයි.
+Consultation on Strong Winds has issued an announcement by the Department of Meteorology. The announcement issued by the department is valid until 10.30am tomorrow.
+
+Accordingly, the announcement has been issued in the western-balconies of the central hills and the Northern, Western, Southern Western Province and Trincomalee District.
+
+Due to the increase in the southwest monsoon wind stream through the island, the western slopes of the central hills and northern, North-North Western Province and Trincomalee District.. Educational strong winds can occur. From time to time in other lands of the island and the life.. The statement further states that there are about collapse strong winds.
 
 ◼️
 
 [Data](articles/bba51bce.json)
+
+[Extended Data](ext_articles/bba51bce.ext.json)
 
 ---
 
@@ -2303,25 +2327,5 @@ The deceased is said to be the father of a 38 -year -old child who lived in Kand
 [Data](articles/d6c9ed36.json)
 
 [Extended Data](ext_articles/d6c9ed36.ext.json)
-
----
-
-### Sudath Mahadivulwewa’s “My Red Comrade”  is an excellent film, with fine direction, a masterful script, skilful use of sound and lighting and impeccable performance from the leads.It is a commendable and brave experimentation in filmmaking.
-
-*2024-05-24 01:11:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84082) · `en`
-
-Sudath Mahadivulwewa’s latest film, now in cinemas, is openly political and experimental. A major aspect of the film is a debate between the old view of revolution and a more modern one
-
-Sudath Mahadivulwewa, the producer of the film ‘My Red Comrade’, is well-known for his various feature films, documentaries, theatre work and social awareness campaigns, in Sri Lanka.
-
-His latest film is openly political and experimental. A major aspect of the film is a debate between the old view of revolution and a more modern one which is construed to be more inclusive. The film conveys a message “think simple as a child, and do not make things more complicated than necessary”.
-
-To demonstrate this, the film uses a Native American fable about a wolf. How the wolf gets into us from the environment we are brought in; an environment in which we receive our education, the media we are exposed to and the conscious choices we make:
-
-...
-
-[Data](articles/f0e61cf2.json)
-
-[Extended Data](ext_articles/f0e61cf2.ext.json)
 
 ---

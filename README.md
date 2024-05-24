@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-24 09:03:25**
+As of **2024-05-24 09:18:37**
 
 ## Newspaper Stats
 
-*Scraped **26,006** Articles*
+*Scraped **26,008** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,51 @@ adaderanalk | 2,984
 tamilmirrorlk | 3,034
 virakesarilk | 3,963
 dailymirrorlk | 4,092
-adaderanasinhalalk | 4,153
+adaderanasinhalalk | 4,155
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,003 (100.0%) of 26,006 articles have been extended.
+26,006 (100.0%) of 26,008 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-24 (Friday)
+
+### වෙඩිතැබීමකට අනුබල දුන් අයෙක් අත්අඩංගුවට
+
+*2024-05-24 09:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196960) · `si`
+
+පුද්ගලයෙකුට වෙඩිතබා ඝාතනය කිරීමට තැත් කිරීමේ සිද්ධියක් සම්බන්ධයෙන් අවශ්‍ය කර සිටි සැකකරුවෙකු අත්අඩංගුවට ගත් බව පොලීසිය පවසයි.
+
+පසුගිය 08 වනදා අහුංගල්ලේදී පුද්ගලයෙකු වෙඩිතබා ඝාතනය කිරීමට උත්සාහ කර තිබූ අතර ඊට ආධාර අනුබල දුන් සැකකරුවෙකු ඊයේ (23) දින ඌරගස්මංහන්දිය ප්‍රදේශයේදී මෙලෙස අත්අඩංගුවට ගෙන ඇත.
+
+ඌරගස්මංහන්දිය ප්‍රදේශයේ පදිංචි සැකකරු 28 වන වියේ පසුවන අතර ඔහු සන්තකයේ තිබී හෙරොයින් ග්‍රෑම් 4ක් ද සොයාගත් බව පොලීසිය පවසයි.
+
+අදාළ සැකකරු විසින් වෙඩිතැබීම සඳහා ඔත්තු බලා ඇතැයි පොලීසිය සැකකරයි.
+
+◼️
+
+[Data](articles/3af3d3b9.json)
+
+---
+
+### ගසක අත්තක් කඩා වැටී තවත් මරණයක්
+
+*2024-05-24 08:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196959) · `si`
+
+අයහපත් කාලගුණ තත්ත්වය හේතුවෙන් ගසක අත්තක් කඩාවැටී එයට යටවීමෙන් තවත් පුද්ගලයෙකු මියගොස් තිබේ.
+
+මෙම අනතුර සිදුවී ඇත්තේ ඊයේ (23) රාගල මහකුඩුගල රක්ෂිත ප්‍රදේශයකදී ය.
+
+පුද්ගලයින් 05 දෙනෙකු දර එකතු කිරීමට ගොස් සිටියදී මෙම අනතුර සිදුවී ඇති අතර සිද්ධිය සම්බන්ධයෙන් වැඩිදුර විමර්ශන ක්‍රියාත්මකය.
+
+◼️
+
+[Data](articles/30d5267a.json)
+
+---
 
 ### Heavy showers and strong winds expected in parts of the island
 
@@ -53,6 +87,8 @@ Fairly strong winds about 30-40 kmph can be expected at times elsewhere of the i
 ◼️
 
 [Data](articles/61fd8f27.json)
+
+[Extended Data](ext_articles/61fd8f27.ext.json)
 
 ---
 
@@ -270,21 +306,27 @@ The protesters said, "Taitti is our property, the Tamil homeland of the North an
 
 ---
 
-### ’உலக பிரச்சினைகளுக்கு தேரவாத பௌத்தத்தில் தீர்வு’
+### The solution to the world's problems
 
 *2024-05-24 03:17:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உலக-பிரச்சினைகளுக்கு-தேரவாத-பௌத்தத்தில்-தீர்வு/175-337803) · `ta`
 
-விஞ்ஞானம் மற்றும் தொழிநுட்பத்துடன் வேகமாக முன்னேறும் உலகம் எதிர்நோக்கும் பிரச்சினைகளுக்கு தேரவாத பௌத்தத்தில் தீர்வு இருக்கின்றதாக ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+President Wickremesinghe highlighted Theravada Buddhism as a solution to global challenges, citing its preservation in Matale and its potential to address modern issues like AI and technology. He emphasized the importance of understanding Buddhism's true essence to tackle contemporary problems effectively.
 
-மாத்தளை தர்மராஜா பிரிவேனா விகாரையில் நேற்று முற்பகல் நடைபெற்ற அரச வெசாக் விழாவில் இலத்திரனியல் தொழில்நுட்பத்தின் ஊடாக கலந்து கொண்டு உரையாற்றும் போதே ஜனாதிபதி இவ்வாறு குறிப்பிட்டார். அவர் மேலும் தெரிவிக்கையில்,
+🟩
 
-"மாத்தளை வரலாற்றுச் சிறப்புமிக்க அலுவிகாரையில் திரிபீடகம் பிரதிஷ்டை செய்யப்பட்டதன் காரணமாகவே புனித பௌத்த மதம் பாதுகாக்கப்பட்டது. தேரவாத பௌத்தத்தின் முக்கிய இடமாக விளங்கிய மாத்தளை மாவட்டத்தை மையமாகக் கொண்டு இவ்வருடம் அரச வெசாக் பண்டிகையை கொண்டாடும் வாய்ப்பு கிடைத்தமை  மகிழ்ச்சி.
+President Ranil Wickremesinghe said that the problems faced by the world with science and technology are solved in Theravada Buddhism.
 
-அநுராதபுர யுகத்தில் இருந்த பிரிவேனாக்களில் இருந்து மகா சங்கத்தினர் மட்டும் உருவாகவில்லை. உலகின் முக்கியமான நீர்ப்பாசன முறையை இலங்கையில் ஆரம்பிக்கும் வாய்ப்பு அந்தக் கல்வி முறையினால் கிடைத்ததாக செனரத் பரணவிதான போன்ற அறிஞர்கள் குறிப்பிட்டிருந்தனர்.
+The President said this while addressing the State Vesak Festival held at the Dharmaraja Paravena Viharaya in Matale yesterday morning through electronic technology.. As he further stated,
+
+“St. Buddhism was preserved because of the consecration of the Tripitakam in the historic article in Matale. It is a pleasure to celebrate the royal Vesak festival this year, focusing on the Matale district, which is the main place of Theravada Buddhism.
+
+The Maha Sangha is not the only one from the divisions in the Anuradhapura Yuga. Scholars such as Senarath Paranavidhana have stated that the education system has the opportunity to start the world's most important irrigation system in Sri Lanka.
 
 ...
 
 [Data](articles/396de751.json)
+
+[Extended Data](ext_articles/396de751.ext.json)
 
 ---
 
@@ -382,23 +424,29 @@ Ruwan Wijewardene, Senior Advisor to the President on Climate Change, with a vis
 
 ---
 
-### වීදී සුනඛයින්ට වසර 13ක් රැකවරණය දෙන  පොලිස් SI
+### Police SI for 13 years of protection for Vidya
 
 *2024-05-24 02:05:19* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/crggn6j3d11o) · `si`
 
-මෙහි කිසිවක් අඩංගු නැත.වීඩියෝ ශීර්ෂ වැකිය, ''මට බයිසිකලේ වෙන ගමනක්වත් යන්න බෑ. පස්සෙන් දුවගෙන එනවා.''
+For 13 years, a police sub-inspector (SI) named Vidya dedicated her service to protect street dogs, highlighting the silent suffering of these creatures who have been companions to humans for thousands of years.
 
-සුනඛයින් යනු වසර දහස් ගණනක සිට මිනිසා සමීපයේ සිටින සත්ත්වයෙකි.
+🟩
 
-එහෙත් කිසිවෙකුගේ රැකවරණයක් නොමැතිව සුනඛයෝ විශාල පිරිසක් වීදිවල ජිවත් වෙති.
+None contains anything here. Comes afterwards. "
 
-එලෙස අම්පාරේ සිටින වීදී සුනඛයන් 150කට පමණ දිනපතා අහාර ලබා දෙන උප පොලිස් පරීක්ෂකවරයෙකු ගැන අපට අසන්නට ලැබිණි.
+Dogs are a living creature in the man to thousands of years.
 
-''මම හැමදාම සේවය අවසන් වෙලා කෑම දෙනවා. කොච්චර වර්ෂාව ආවත් වරද්දන්නෙ නෑ. අවුරුදු 13ක් තිස්සේ මේක කරනවා. මේ සතුන්ට බඩගිනි දැනුනට කතා කරන්න බෑ. ජීවත්වෙලා ඉන්නකන් මගේ වියදමින් මේක කරනවා.'' යනුවෙන් උප පොලිස් පරීක්ෂක සරත් විජේසිංහ  BBC සිංහල සේවයට පැවසුවේය.
+But a large number of dogs live in the streets without any protection.
+
+As a result, we were heard about a sub-inspector of the school daily.
+
+"I always end up serving. There is no rainfall. For 13 years. These animals cannot speak. Untitha, I will do this at a cost. "
 
 ◼️
 
 [Data](articles/5f829ed8.json)
+
+[Extended Data](ext_articles/5f829ed8.ext.json)
 
 ---
 
@@ -2247,51 +2295,5 @@ However, the hospital and health authorities are conducting a thorough investiga
 [Data](articles/c2ba0e80.json)
 
 [Extended Data](ext_articles/c2ba0e80.ext.json)
-
----
-
-### Red warning again on the climate
-
-*2024-05-23 13:10:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காலநிலை-குறித்து-மீண்டும்-சிவப்பு-எச்சரிக்கை/175-337765) · `ta`
-
-The Department of Meteorology warns of severe weather due to continuous heavy rains across the country, with the southwest monsoon intensifying conditions. Areas like Sabaragamuwa Province, Kandy, Nuwara Eliya, and parts of the Western, Northwestern, Mannar, Galle, and Matara districts may experience heavy rainfall exceeding 150mm.
-
-🟩
-
-The Department of Meteorology has issued a red announcement regarding continuous heavy rains in the country.
-
-The southwest monsoon in the country will continue to increase the situation in the country, the department's new announcement said.
-
-Heavy rains are expected to be 150 millimeters in some areas in the Sabaragamuwa Province and Kandy and Nuwara Eliya district.
-
-Meanwhile, the Department of Meteorology has announced that heavy rainfall is expected in some places in the Western and North Western Provinces and Mannar, Galle and Matara districts.
-
-◼️
-
-[Data](articles/96c26fb7.json)
-
-[Extended Data](ext_articles/96c26fb7.ext.json)
-
----
-
-### In the yarns. The man who went to the sea fell into a sea of death
-
-*2024-05-23 13:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/184300) · `ta`
-
-Antony Pillai Roman Mainran, a 58-year-old fisherman from Allaipiti 3, tragically drowned while fishing near Jaffna. His body was recovered and sent for autopsy.
-
-🟩
-
-A worker who went to a sea business in Jaffna fell into a sea yesterday (22).
-
-The deceased is 58 -year -old Antony Pillai Roman Mainran from Allaipiti 3.
-
-When he went into the sea to fish in a tumbler, he fell into the sea and fell into the sea.. The body has been handed over to the Jaffna Bodhana Hospital for anatomical examination.
-
-◼️
-
-[Data](articles/3f73b354.json)
-
-[Extended Data](ext_articles/3f73b354.ext.json)
 
 ---

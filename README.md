@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-25 00:05:10**
+As of **2024-05-25 00:18:43**
 
 ## Newspaper Stats
 
-*Scraped **26,123** Articles*
+*Scraped **26,125** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 1,533
 adalk | 2,230
 adaderanalk | 2,996
 tamilmirrorlk | 3,045
-virakesarilk | 3,988
+virakesarilk | 3,990
 dailymirrorlk | 4,124
 adaderanasinhalalk | 4,175
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,175
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,123 (100.0%) of 26,123 articles have been extended.
+26,123 (100.0%) of 26,125 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -132,6 +132,22 @@ The Minister of State said that the number of trees falling in the recent past a
 
 ---
 
+### தேர்தலில் புத்திசாலித்தனமான தீர்மானம் எடுப்பது நாட்டு மக்களின் பொறுப்பாகும் - இம்தியாஸ் பாக்கிர் மாக்கார்
+
+*2024-05-24 22:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/184422) · `ta`
+
+எதிர்வரும் தேர்தலின்போது வரலாற்றில் பாடம் கற்றுக்கொண்டு  விழுந்த குழியில் மீண்டும் விழாமல் புத்திசாலித்தனமான தீர்மானம் எடுப்பது நாட்டு மக்களின் பொறுப்பாகும். அரசியலமைப்பின் பிரகாரம் தேர்தலை நடத்தாமல் இருப்பதற்கு யாருக்கும் முடியாது என ஐக்கிய மக்கள் சக்தி பாராளுமன்ற உறுப்பினர் இம்தியாஸ் பாக்கிர் மாக்கார் தெரிவித்தார்.
+
+பேரிவலை பிரதேசத்தில் 24 ஆம் திகதி வெள்ளிக்கிழமை இடம்பெற்ற நிகழ்வொன்றின் பின்னர் ஊடகங்களுக்குக் கருத்து தெரிவிக்கையிலேயே இவ்வாறு தெரிவித்தார்.
+
+ஜனாதிபதித் தேர்தல் எமது நாட்டின் அரசியலமைப்பின் பிரகாரம் நடத்தப்பட வேண்டும். அதனை மாற்ற முடியாது. தேர்தல் தொடர்பில் அறிவிக்கும் பாெறுப்பு தேர்தல் ஆணைக்குழுவுக்கே இருக்கிறது.அரசியல்வாதிகள் அதுதொடர்பில் முடிவெடுக்க முடியாது.
+
+...
+
+[Data](articles/83a20034.json)
+
+---
+
 ### Special notice to Maldives in Sri Lanka
 
 *2024-05-24 22:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196982) · `si`
@@ -181,6 +197,22 @@ The people in the respective areas of this situation are noticed to the people o
 [Data](articles/7a146f01.json)
 
 [Extended Data](ext_articles/7a146f01.ext.json)
+
+---
+
+### மரங்கள் விழும் ஆபத்து இருந்தால் 117 என்ற துரித இலக்கத்துக்கு அறிவிக்கவும் - அனர்த்த முகாமைத்துவ அமைச்சு கோரிக்கை
+
+*2024-05-24 22:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/184421) · `ta`
+
+நாட்டில் எப்பிரதேசத்திலும் அனர்த்த நிலைமை அல்லது மரம் முறிந்துவிழும் ஆபத்து இருக்குமானால் அதுதொடர்பில் அனர்த்த முகாமைத்துவ மத்திய நிலையத்தின் 117என்ற துரித இலக்கத்துக்கு அறிவித்தால் உடனடியாக நடவடிக்கை எடுக்க ஏற்பாடு செய்யப்பட்டிருக்கிறது என அனர்த்த முகாமைத்துவ மற்றும் பாதுகாப்பு இராஜாங்க அமைச்சர் பிரமித்த பண்டார தென்னகோன் தெரிவித்தார்.
+
+அனர்த்த முகாமைத்துவ இராஜாங்க அமைச்சில் 24ஆம் திகதி வெள்ளிக்கிழமை இடம்பெற்ற விசேட செய்தியாளர் சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கையிலேயே இவ்வாறு தெரிவித்தார்.
+
+சீரற்ற காலநிலை தொடர்பாக வளிமண்டலவியல் திணைக்களம் அறிவிப்பு செய்கிறது. அதனால் வளிமண்டல திணைக்களத்தின் அறிவித்தல்களின் பிரகாரம் செயற்படுவது அனைவரதும் கடமை. அதனால் சீரற்ற காலநிலையால் ஏற்படும் அனர்த்தங்களில் இருந்து பாதுகாப்பு பெற வளிமண்டலவியல் திணைக்களத்தின் அறிவித்தல்களுக்கு கவனம்செலுத்துமாறு நாங்கள் நாட்டு மக்களை கேட்டுக்கொள்கிறோம்.
+
+...
+
+[Data](articles/9150de22.json)
 
 ---
 
@@ -241,6 +273,36 @@ He was speaking at a media briefing held in Colombo today (24).
 [Data](articles/9aaf974a.json)
 
 [Extended Data](ext_articles/9aaf974a.ext.json)
+
+---
+
+### Dinesh Herath II Classification has been raised according to the unofficial conclusion of the World Paradise throwing
+
+*2024-05-24 21:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/184418) · `ta`
+
+In the unofficial results of the men's F46 Division Extreme Earring Competition, Dinesh Priyantha Herath came second with a throw of 64.59 meters, just behind Cuba's Varona Konzalas who threw 65.16 meters. The official results are pending due to objections over athlete classifications.
+
+🟩
+
+Dinesh Priyantha Herath is ranked second in accordance with the unofficial results for the men's F46 Division Extreme Earring Competition held on Friday (24) at the Gobe Stadium in Japan.
+
+The official competition results have been suspended due to the objections submitted on the classification of the athletes.
+
+The World Para Athletics Association has stated on its official website that the competition results will be officially released based on the decision taken after the inquiry into the objection.
+
+Dinesh Priyantha Herath's spear was 64.59 meters away.
+
+Dinesh Priyanda recorded this distance in the competition, which was attended by 12 Para players from eight countries.
+
+Dinesh Herath, who topped the number five attempts, was pushed to second place after the last attempt of the Cuban player.
+
+Cuban player Varona Konzalas topped the list with the record for throwing a spear of 65.16 meters in his last attempt.
+
+...
+
+[Data](articles/10d345a4.json)
+
+[Extended Data](ext_articles/10d345a4.ext.json)
 
 ---
 
@@ -431,36 +493,6 @@ The International Court of Justice has ordered the submission of a report within
 [Data](articles/4e536048.json)
 
 [Extended Data](ext_articles/4e536048.ext.json)
-
----
-
-### Dinesh Herath II Classification has been raised according to the unofficial conclusion of the World Paradise throwing
-
-*2024-05-24 19:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/184418) · `ta`
-
-In the unofficial results of the men's F46 Division Extreme Earring Competition, Dinesh Priyantha Herath came second with a throw of 64.59 meters, just behind Cuba's Varona Konzalas who threw 65.16 meters. The official results are pending due to objections over athlete classifications.
-
-🟩
-
-Dinesh Priyantha Herath is ranked second in accordance with the unofficial results for the men's F46 Division Extreme Earring Competition held on Friday (24) at the Gobe Stadium in Japan.
-
-The official competition results have been suspended due to the objections submitted on the classification of the athletes.
-
-The World Para Athletics Association has stated on its official website that the competition results will be officially released based on the decision taken after the inquiry into the objection.
-
-Dinesh Priyantha Herath's spear was 64.59 meters away.
-
-Dinesh Priyanda recorded this distance in the competition, which was attended by 12 Para players from eight countries.
-
-Dinesh Herath, who topped the number five attempts, was pushed to second place after the last attempt of the Cuban player.
-
-Cuban player Varona Konzalas topped the list with the record for throwing a spear of 65.16 meters in his last attempt.
-
-...
-
-[Data](articles/10d345a4.json)
-
-[Extended Data](ext_articles/10d345a4.ext.json)
 
 ---
 
@@ -2323,53 +2355,5 @@ The victim has been identified as a 42 year old resident of Narangoda.
 [Data](articles/cdcc642d.json)
 
 [Extended Data](ext_articles/cdcc642d.ext.json)
-
----
-
-### Trade union action should not be taken in the form of terrorism - Dr. Prabhat Ekanayake
-
-*2024-05-24 10:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/184354) · `ta`
-
-Dr. Prabhat Ekanayake from Peradeniya University opposes trade unions resorting to terrorism-like actions. He highlights that non-academic staff can work towards their career rights without disrupting educational services. Ekanayake warns against potential disruptions to internet facilities, threatening online teaching, and mentions the impact of non-academic staff's professional activities on student education. He emphasizes the importance of maintaining essential services like lectures for disabled students during university crises.
-
-🟩
-
-Dr. Prabhat Ekanayake, the Faculty of the Peradeniya University, said that trade union action should not be taken in the form of terrorism.
-
-He said that non -academic employees have no problems in working to win their career rights, but it cannot be recognized if the duties of education staff who are not on strike are disrupted.
-
-Ekanayake said that as the university's internet facilities have been cut off, lecturers and lecturers have been able to teach students through an online system and threaten to cut off water and electricity in the future.
-
-He also stressed that due to the professional activities of non -academic staff and administrative level officials, the education of the students has been broken in the entire university.
-
-Prabhat Ekanayake has said that the only station in the Peradeniya University is that the only station to conduct lectures for children of the disabled child is in the dissolution of the University.
-
-◼️
-
-[Data](articles/3a573b1a.json)
-
-[Extended Data](ext_articles/3a573b1a.ext.json)
-
----
-
-### 95% candidates pass 2023 Korean exam
-
-*2024-05-24 10:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/95-candidates-pass-2023-Korean-exam/108-283284) · `en`
-
-A total of 95 percent of the candidates have passed the 2023 Korean Language Proficiency examination, the Sri Lanka Bureau of Foreign Employement (SLBFE) said.
-
-The examination results of the production and fishing sectors were released, and 3,422 applicants have passed.
-
-A group of 3,580 applicants had sat for this examination and the number of candidates who passed was 95.6 percent of the total number of candidates, the bureau said.
-
-They said the results of this examination will be published on the website www.slbfe.lk on May 27 and the medical examination for the candidates who have passed the examination will begin on May 28.
-
-The relevant interviews for the applicants who have passed the examination will be conducted on June 06, 07 and 10 at the bureau's provincial offices, immigration resource centers and training centers.
-
-◼️
-
-[Data](articles/48603272.json)
-
-[Extended Data](ext_articles/48603272.ext.json)
 
 ---

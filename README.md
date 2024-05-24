@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-25 00:49:36**
+As of **2024-05-25 01:03:34**
 
 ## Newspaper Stats
 
-*Scraped **26,125** Articles*
+*Scraped **26,129** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,16 +19,82 @@ adalk | 2,230
 adaderanalk | 2,996
 tamilmirrorlk | 3,045
 virakesarilk | 3,990
-dailymirrorlk | 4,124
+dailymirrorlk | 4,128
 adaderanasinhalalk | 4,175
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,125 (100.0%) of 26,125 articles have been extended.
+26,125 (100.0%) of 26,129 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-05-25 (Saturday)
+
+### Commemoration of war victims-celebrations and harassment
+
+*2024-05-25 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Commemoration-of-war-victims-celebrations-and-harassment/172-283318) · `en`
+
+Each year in April, the Janatha Vimukthi Peramuna (JVP) marks its first armed insurrection against the government in 1971, as ‘April Heroes’ Commemoration Day. The second JVP insurrection is memorialised by way of the ‘November Heroes’ commemoration marking the death of JVP founder and leader Rohana Wijeweera in 1989.
+
+Wijeweera led two rebellions, one in 1971 and a second in 1989. Thousands of young Sinhalese men and women died in the two insurgencies led by the then-JVP leader. In those dark days, civilians were involuntarily disappeared by state forces, while the JVP too killed many civilians.
+
+The ‘Mothers of the Disappeared’ was a coming together of female Sinhalese, who lost relatives during the JVP insurrections to government forces. They came together under a common umbrella to demand information as to what had happened to their sons, daughters, husbands and wives.
+
+...
+
+[Data](articles/1a55a6b9.json)
+
+---
+
+### God won’t change your destiny until you change yourself
+
+*2024-05-25 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/God-wont-change-your-destiny-until-you-change-yourself/172-283320) · `en`
+
+Despite President Wickremesinghe yet to officially announce his candidature the prospect of him contesting is increasing
+
+Following the Election Commission’s announcement on May 9 that the Presidential election would be held between September 17 and October 16, President Ranil Wickremesinghe  informed the Cabinet on Wednesday that only the said election would be held this year putting an end to speculations that Parliament might be dissolved before the Presidential election.
+
+However, the race for the top most post started months ago with the Jathika Jana Balawegaya (JJB) or the National People’s Power (NPP) and the Samagi Jana Balawegaya (SJB), the apparent two front-runners having commenced their campaigns in a huge way. They have been organising public meetings for various interest groups such as women, farmers and retired armed forces personnel with large crowds attending.
+
+...
+
+[Data](articles/2a641d03.json)
+
+---
+
+### Sajith-Anura Debate, that never happened
+
+*2024-05-25 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Sajith-Anura-Debate-that-never-happened/172-283317) · `en`
+
+Sajith, with his haphazardly acquired knowledge, lacked the courage to face Anura directly.
+
+Both leaders should be held responsible for sabotaging the debate. They repeated their 2022 strategy of evading responsibility by refusing to address the task of revitalizing the bankrupt economy. However, they deserve commendation for declining the offer, as they had the wisdom to recognize the enormity of the challenge, and acknowledging it as beyond their capabilities.
+
+A single pivotal moment or a well-made point can indeed have a significant impact on the
+
+...
+
+[Data](articles/d179f449.json)
+
+---
+
+### Tragedy and farce on a day of mourning
+
+*2024-05-25 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Tragedy-and-farce-on-a-day-of-mourning/172-283316) · `en`
+
+The government wanted Sri Lankans to mourn over the demise of an Islamic ultra-conservative nicknamed ‘Butcher of Tehran’
+
+The death of Mahsa Amini, a Kurdish woman in the custody of Iran’s moral  police over charges of not properly covering up hair, unleashed  nationwide protests in Iran, followed by a brutal crackdown by a regime  devoid of semblance of legitimacy, until Iranian proxies, Hamas  momentarily shifted the global spotlight from Iran’s suppression of its  people by carrying out an industrial scale massacre in Israel on October  7 last year.
+
+As the monsoonal rains are set to wreak havoc and a climate emergency is in the making, the government had other pressing priorities. It declared a day of national mourning over the death of Iranian President and Islamic hardliner Ebrahim Raisi, whose VIP chopper crashed during a trip from Azerbaijan.
+
+...
+
+[Data](articles/d6f9fd59.json)
+
+---
 
 ### 2024-05-24 (Friday)
 
@@ -1075,6 +1141,8 @@ The High Commission said that special attention was paid to the elderly, pregnan
 ### Two Sri Lankan students in Japan accused of illegal abortion
 
 *2024-05-24 15:43:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Two-Sri-Lankan-students-in-Japan-accused-of-illegal-abortion/108-283302) · `en`
+
+(This story has originally been reported by Japanese media 'The Mainichi')
 
 MITO -- Two Sri Lankan students in Japan were arrested over an illegal abortion, and an expert points out that international students' unstable resident status may be a factor behind the incident.
 
@@ -2225,149 +2293,5 @@ She says that the world should never forget the attack.
 [Data](articles/98330e27.json)
 
 [Extended Data](ext_articles/98330e27.ext.json)
-
----
-
-### Family mother-son join
-
-*2024-05-24 10:28:55* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/clmmxdnyz5go) · `si`
-
-It seems like you've shared a detailed conversation involving various perspectives on family dynamics, especially focusing on the relationship between mothers, sons, and daughters-in-law. This discussion touches on several themes including cultural expectations, personal growth, and the challenges of balancing familial obligations with individual desires.
-
-
-
-From the conversation, several key points emerge:
-
-
-
-1. **Cultural Expectations vs. Personal Growth**: There's a tension between traditional cultural expectations (such as the importance of respecting elders and maintaining family harmony) and the need for individuals to grow and assert their independence. This is evident in the discussions around how sons and daughters-in-law navigate their relationships with their mothers.
-
-
-
-2. **Communication and Conflict Resolution**: Effective communication is highlighted as crucial in resolving conflicts within families. However, the conversation suggests that misunderstandings and miscommunications often lead to deeper rifts, especially when it comes to decisions regarding marriage and lifestyle choices.
-
-
-
-3. **Role of Elders in Decision Making**: The conversation underscores the significant influence elders, particularly mothers, have over their offspring's lives. This influence extends to whom they marry and how they conduct themselves post-marriage. However, it also raises questions about the autonomy of adults and the rights of spouses to make their own decisions.
-
-
-
-4. **Impact of External Interference on Marital Harmony**: External interference, especially from mothers, is seen as a source of stress and conflict in marriages. The conversation suggests that while parental advice and guidance can be beneficial, excessive involvement can undermine marital stability and happiness.
-
-
-
-5. **Psychological Perspectives**: The inclusion of psychiatric insights highlights the importance of mental health in family dynamics. Issues such as anxiety, depression, and the impact of societal pressures on mental well-being are discussed, emphasizing the need for empathy and understanding in family relationships.
-
-
-
-6. **Cultural Specificity**: The conversation reflects specific cultural nuances, particularly from a Sri Lankan perspective. Understanding these nuances is essential for addressing the unique challenges faced by families in different cultural contexts.
-
-
-
-In summary, the conversation delves into the complexities of family relationships, highlighting the interplay between cultural traditions, personal aspirations, and the evolving roles of family members. It underscores the importance of open communication, mutual respect, and the recognition of each individual's right to self-determination in fostering healthy and harmonious family dynamics.
-
-🟩
-
-Like many couples, Roshel was also married to a margin of thousand hopes. But she was unknown to her dreams that she had created before they were married.
-
-The complainant part of the 29-year-old rochelle was completed in a divorce case. She now has to spend money on the legal action earned by his job.
-
-Roshell is a nickname we use to protect her identity instead of the true name of the Leader of this article.
-
-The country's Department of Media, Registrar General of Sri Lanka, was indicated that 2020 has been seen in "a divorce between the marriages in Sri Lanka since 2020.
-
-The main factor in which Roshell believed to be diagnosed with her husband and his mother, the "bond exceeded" among his husband and his mother. It is her opinion that they have lived in another house separately, but it has continued their family life.
-
-Rochelle is a strong effort to protect his marriage. But the lack of seeking the law of the Law.
-
-...
-
-[Data](articles/4957d12b.json)
-
-[Extended Data](ext_articles/4957d12b.ext.json)
-
----
-
-### Huge landslide strikes remote village in Papua New Guinea, with 100 people feared dead
-
-*2024-05-24 10:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Huge-landslide-strikes-remote-village-in-Papua-New-Guinea-with-100-people-feared-dead/107-283285) · `en`
-
-May 24 (ABC) - A huge landslide has struck a remote village in Papua New Guinea, with bodies being recovered by villagers.
-
-The landslide reportedly hit Kaokalam Village in Enga Province, about 600 kilometres north-west of Port Moresby, about 3am.
-
-Residents say current estimates of the death toll sit above 100, though authorities have not confirmed this figure.
-
-Elizabeth Laruma, the president of the Porgera Women in Business Association, said houses were flattened when the side of a nearby mountain gave way.
-
-"It has occurred when people were still asleep in the early hours and the entire village has gone down," Ms Laruma said.
-
-"From what I can presume, it's about 100-plus people who are buried beneath the ground."
-
-Papua New Guinea police have not responded to the ABC's request for comment.
-
-It's unclear whether emergency services have visited the remote area.
-
-Ninga Role, who is from Kaokalam but is attending university in Madang, said he received news of the damage this morning.
-
-...
-
-[Data](articles/ff567add.json)
-
-[Extended Data](ext_articles/ff567add.ext.json)
-
----
-
-### The firearm shot itself
-
-*2024-05-24 10:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/184353) · `ta`
-
-A man was found dead from a self-inflicted gunshot wound in Telvatta, Meediyagoda, Galle district. The incident occurred after the man reportedly took out a gun and aimed it at his forehead. His mother discovered him unconscious in the room, leading to the recovery of the weapon from the garden. Investigations suggest the man was dealing with depression and substance abuse issues, possibly triggered by relationship problems.
-
-🟩
-
-The body of a man who was shot dead in a house in Telvatta - Meediyagoda in Galle district has been recovered on Wednesday morning.
-
-Police suspect that this may be suicidal with the cell phone that the man has taken a gun on his forehead.
-
-When the son opened the door of the room when the son did not wake up in the morning, the mother told the police that his body was lying on the ground.
-
-During the investigation, the mother and grandmother told police that the gun was thrown in the garden of the deceased son.. From there, the police have recovered the gun used to save his life.
-
-Investigations have revealed that this person is addicted to addiction and is depressed by his girlfriend.
-
-When police investigated the cell phone of the deceased man, he found himself a cellphone before he shot himself.
-
-Meetiyagoda police are conducting further investigations on the directive of the Galle District Deputy Inspector General of Police Priyantha Chandrasir.
-
-◼️
-
-[Data](articles/b1fd4b20.json)
-
-[Extended Data](ext_articles/b1fd4b20.ext.json)
-
----
-
-### Concluded by death
-
-*2024-05-24 10:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196962) · `si`
-
-In Narangodapitiya, Ragama, a 42-year-old man was murdered due to a dispute over an illicit affair. The killer, involved with the victim's wife, used a sharp object.
-
-🟩
-
-A person has been attacked with a sharp object in Narangodapitiya, Ragama.
-
-The murder had been carried out with a dispute caused by an illicit affair.
-
-The murder was carried out by a person who had a casual affair with the wife of the deceased.
-
-The victim has been identified as a 42 year old resident of Narangoda.
-
-◼️
-
-[Data](articles/cdcc642d.json)
-
-[Extended Data](ext_articles/cdcc642d.ext.json)
 
 ---

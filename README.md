@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-24 16:05:26**
+As of **2024-05-24 16:18:44**
 
 ## Newspaper Stats
 
-*Scraped **26,077** Articles*
+*Scraped **26,078** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,410
 economynextcom | 1,501
 dailyftlk | 1,533
 adalk | 2,226
-adaderanalk | 2,991
+adaderanalk | 2,992
 tamilmirrorlk | 3,040
 virakesarilk | 3,979
 dailymirrorlk | 4,114
@@ -26,11 +26,33 @@ adaderanasinhalalk | 4,165
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,074 (100.0%) of 26,077 articles have been extended.
+26,077 (100.0%) of 26,078 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-24 (Friday)
+
+### Hundreds feared dead after landslide hits remote Papua New Guinea village
+
+*2024-05-24 16:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/99415/hundreds-feared-dead-after-landslide-hits-remote-papua-new-guinea-village) · `en`
+
+Hundreds are feared dead after a massive landslide flattened dozens of homes and buried families alive in a remote village in northern Papua New Guinea (PNG) early on Friday, a resident said.
+
+More than 50 homes, many with people still asleep inside, were buried when the landslide hit Kaokalam village around 3 a.m., villager Ninga Role told Reuters by phone. The death toll was nearly 300, among them his brother and cousin, he said.
+
+The Australian Broadcasting Corp and other local media reported that more than 100 people had been killed.
+
+One man who turned back to try to save his two children was buried along with his extended family, Role said.
+
+Social media footage posted by Role showed people clambering over rocks, uprooted trees and mounds of dirt searching for survivors. Women can be heard weeping in the background.
+
+“It’s very impossible, the area covered by the landslide is large and there are rocks and trees everywhere,” Role said.
+
+...
+
+[Data](articles/4906978a.json)
+
+---
 
 ### Two Sri Lankan students in Japan accused of illegal abortion
 
@@ -45,6 +67,8 @@ According to the police, Jayalath used a drug to abort her baby at De Soysa's ho
 ...
 
 [Data](articles/3029c3b9.json)
+
+[Extended Data](ext_articles/3029c3b9.ext.json)
 
 ---
 
@@ -66,25 +90,35 @@ It has an estimated surface temperature of 42C, which is lower than most of the 
 
 [Data](articles/bda76362.json)
 
+[Extended Data](ext_articles/bda76362.ext.json)
+
 ---
 
-### மலேசியாவில் சட்டவிரோதமாக குடியேறி இருந்த 1,700 இலங்கையர்கள் நாடு திரும்பியுள்ளனர்
+### 1,700 Sri Lankans who have been illegally settled in Malaysia have returned home
 
 *2024-05-24 15:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/184379) · `ta`
 
-2024 ஆம் ஆண்டு மார்ச் 1 ஆம் திகதி முதல் ஏப்ரல் 30 ஆம் திகதி வரையான காலப்பகுதியில் மலேசியாவிலிருந்து 1,608 இலங்கையர்கள் நாடு திரும்பியுள்ளனர்.
+Between Jan-Feb 2024, 1,732 Sri Lankans were repatriated from Malaysia, including 1,608 between Mar 1-Mar 1, 2024. The Sri Lankan High Commission collaborated with Malaysia's government to facilitate this process, focusing on vulnerable groups like the elderly, pregnant women, and minors.
 
-இவர்கள் மலேசியாவில் சட்டவிரோதமாக குடியேறி இருந்த நிலையில், இலங்கை உயர்ஸ்தானிகராலயத்தின் உதவியுடன் நாடு திரும்பியுள்ளனர்.
+🟩
 
-மலேசிய அரசாங்கத்தின் புலம்பெயர்ந்தோரைத் திருப்பி அனுப்பும் திட்டத்துடன் இணைந்து இந்த முயற்சி மேற்கொள்ளப்படுவதாக கோலாலம்பூரில் உள்ள இலங்கை உயர்ஸ்தானிகராலயம் தெரிவித்துள்ளது.
+From March 1 to March 1, 2024, 1,608 Sri Lankans have returned from Malaysia.
 
-இத்திட்டத்தினூடாக ஏற்கனவே ஜனவரி 1 ஆம் திகதி முதல் பெப்ரவரி 28 ஆம் திகதி வரையான காலப்பகுதியில் 124 மலேசியாவில் சட்டவிரோதமான முறையில் குடியேறி இருந்த 124 இலங்கையர்கள் திருப்பி அனுப்பப்பட்டுள்ளனர். அதன்படி,  மொத்த திருப்பி அனுப்பப்பட்டவர்களின் எண்ணிக்கையை 1,732 ஆகும்.
+They have returned to the country with the help of the Sri Lankan High Commission, as they have been illegally settled in Malaysia.
 
-மலேசிய அரசாங்கத்தால் தொடங்கப்பட்ட புலம்பெயர்ந்தோர் திருப்பி அனுப்பும் திட்டம், சட்ட விலக்குகள் மற்றும் நிதி நிவாரணங்களை வழங்குவதன் மூலம் சட்டவிரோதமாக குடியேறியவர்கள் தானாக முன்வந்து சொந்த நாடுகளுக்குத் திரும்ப உதவுவதை நோக்கமாகக் கொண்டுள்ளது.
+The Sri Lankan High Commission in Kuala Lumpur has said that the effort is being made in collaboration with the Malaysian government's migrants.
 
-...
+From January 1 to February 28, 124 Sri Lankans who have been illegally settled in Malaysia have been sent back from January 1 to February 28.. Accordingly, the total number of repatriates is 1,732.
+
+The Malaysian government's repayment plan is aimed at helping illegal immigrants voluntarily returning to their homes by providing legal exclusions and financial relief.
+
+The High Commission said that special attention was paid to the elderly, pregnant women, people who need medical care and children under the age of twelve.
+
+◼️
 
 [Data](articles/ce43d1be.json)
+
+[Extended Data](ext_articles/ce43d1be.ext.json)
 
 ---
 
@@ -2265,27 +2299,5 @@ In this case, the police have demanded that the residents of Kesalgamuwa Yaya be
 [Data](articles/02b3ad85.json)
 
 [Extended Data](ext_articles/02b3ad85.ext.json)
-
----
-
-### Korean language exam results have been released
-
-*2024-05-23 21:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/184342) · `ta`
-
-In 2023, 95% of 3580 candidates passed the Korean Language Exam conducted by the Sri Lanka Foreign Employment Bureau. Results will be available from the 27th, followed by medical exams and interviews on the 28th, 6th, and 10th of June.
-
-🟩
-
-The Sri Lanka Foreign Employment Bureau has announced that 95 percent of the candidates have passed the Korean Language Examination.
-
-There were 3580 examinations for the Korean Language Examination in 2023. Of these, 3422 have passed. This is 95.6 percent of the exams. The results of the exam will be posted on the 27th of this month at the Bureau's www.slbfe.l.
-
-The medical examination for the applicants who have been examined in the exam will commence on the 28th of this month. At the same time, interviews for applicants who have passed the exam will be held on the 6th and 10th of June at the Bureau of the Bureau at the Provincial Office, Migrant Resources Center and Training Centers.
-
-◼️
-
-[Data](articles/ea453831.json)
-
-[Extended Data](ext_articles/ea453831.ext.json)
 
 ---

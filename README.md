@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-25 04:51:29**
+As of **2024-05-25 05:03:30**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,175
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,133 (100.0%) of 26,135 articles have been extended.
+26,135 (100.0%) of 26,135 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -422,6 +422,8 @@ The CBSL recently launched its publication, “Financial Literacy Roadmap of Sri
 
 [Data](articles/c0ffe754.json)
 
+[Extended Data](ext_articles/c0ffe754.ext.json)
+
 ---
 
 ### National program in Singapore Model for Disaster Control
@@ -509,6 +511,8 @@ In an article on the Politics and Education website, Pawan Singh went into the c
 ...
 
 [Data](articles/b34b4fc5.json)
+
+[Extended Data](ext_articles/b34b4fc5.ext.json)
 
 ---
 

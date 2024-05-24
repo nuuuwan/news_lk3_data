@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-25 00:18:43**
+As of **2024-05-25 00:33:52**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,175
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,123 (100.0%) of 26,125 articles have been extended.
+26,125 (100.0%) of 26,125 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -132,19 +132,27 @@ The Minister of State said that the number of trees falling in the recent past a
 
 ---
 
-### தேர்தலில் புத்திசாலித்தனமான தீர்மானம் எடுப்பது நாட்டு மக்களின் பொறுப்பாகும் - இம்தியாஸ் பாக்கிர் மாக்கார்
+### It is the responsibility of the nation to make a wise decision in the election - Imtiaz Pakir Makar
 
 *2024-05-24 22:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/184422) · `ta`
 
-எதிர்வரும் தேர்தலின்போது வரலாற்றில் பாடம் கற்றுக்கொண்டு  விழுந்த குழியில் மீண்டும் விழாமல் புத்திசாலித்தனமான தீர்மானம் எடுப்பது நாட்டு மக்களின் பொறுப்பாகும். அரசியலமைப்பின் பிரகாரம் தேர்தலை நடத்தாமல் இருப்பதற்கு யாருக்கும் முடியாது என ஐக்கிய மக்கள் சக்தி பாராளுமன்ற உறுப்பினர் இம்தியாஸ் பாக்கிர் மாக்கார் தெரிவித்தார்.
+Imtiaz Pakir Makar emphasizes the importance of making informed decisions in the upcoming election, drawing parallels between past mistakes and current political maneuvers. He stresses the constitutional requirement for holding elections and criticizes attempts to manipulate democratic processes for personal gain.
 
-பேரிவலை பிரதேசத்தில் 24 ஆம் திகதி வெள்ளிக்கிழமை இடம்பெற்ற நிகழ்வொன்றின் பின்னர் ஊடகங்களுக்குக் கருத்து தெரிவிக்கையிலேயே இவ்வாறு தெரிவித்தார்.
+🟩
 
-ஜனாதிபதித் தேர்தல் எமது நாட்டின் அரசியலமைப்பின் பிரகாரம் நடத்தப்பட வேண்டும். அதனை மாற்ற முடியாது. தேர்தல் தொடர்பில் அறிவிக்கும் பாெறுப்பு தேர்தல் ஆணைக்குழுவுக்கே இருக்கிறது.அரசியல்வாதிகள் அதுதொடர்பில் முடிவெடுக்க முடியாது.
+It is the responsibility of the people to make a wise decision without learn to learn the lesson in history during the upcoming election. United People's Power Parliamentarian Imtiaz Pakir Makar said no one could have no election as per the constitution.
+
+He was speaking to the media after an event held on Friday 24th in the area.
+
+The presidential election must be held in accordance with the constitution of our country. It cannot be changed. The Election Commission is to announce the election. Politicians cannot decide on it.
+
+At the same time, I am surprised to say that there is no need to hold a parliamentary election on this occasion. The tongue of those who honor democracy can not come. If such a word is revealed by the tongue of someone who holds a responsible position in politics, I see Hitler's relative to Mossad.
 
 ...
 
 [Data](articles/83a20034.json)
+
+[Extended Data](ext_articles/83a20034.ext.json)
 
 ---
 
@@ -200,19 +208,25 @@ The people in the respective areas of this situation are noticed to the people o
 
 ---
 
-### மரங்கள் விழும் ஆபத்து இருந்தால் 117 என்ற துரித இலக்கத்துக்கு அறிவிக்கவும் - அனர்த்த முகாமைத்துவ அமைச்சு கோரிக்கை
+### Notify 117 fast digits if there is a risk of falling trees - Ministry of Disaster Management
 
 *2024-05-24 22:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/184421) · `ta`
 
-நாட்டில் எப்பிரதேசத்திலும் அனர்த்த நிலைமை அல்லது மரம் முறிந்துவிழும் ஆபத்து இருக்குமானால் அதுதொடர்பில் அனர்த்த முகாமைத்துவ மத்திய நிலையத்தின் 117என்ற துரித இலக்கத்துக்கு அறிவித்தால் உடனடியாக நடவடிக்கை எடுக்க ஏற்பாடு செய்யப்பட்டிருக்கிறது என அனர்த்த முகாமைத்துவ மற்றும் பாதுகாப்பு இராஜாங்க அமைச்சர் பிரமித்த பண்டார தென்னகோன் தெரிவித்தார்.
+In case of disaster risks or falling trees, contact the Disaster Management Center's quick number 117. The Minister highlighted the importance of heeding meteorological department warnings to prevent weather-related disasters. There's a growing concern about tree falls but no specific warning system exists yet. The responsibility lies with the Building Research Institute to develop one, involving industry experts and aligning with national policies. Illegal constructions without permits contribute significantly to flooding issues. It's crucial for local governments to address these problems promptly to facilitate relief efforts effectively.
 
-அனர்த்த முகாமைத்துவ இராஜாங்க அமைச்சில் 24ஆம் திகதி வெள்ளிக்கிழமை இடம்பெற்ற விசேட செய்தியாளர் சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கையிலேயே இவ்வாறு தெரிவித்தார்.
+🟩
 
-சீரற்ற காலநிலை தொடர்பாக வளிமண்டலவியல் திணைக்களம் அறிவிப்பு செய்கிறது. அதனால் வளிமண்டல திணைக்களத்தின் அறிவித்தல்களின் பிரகாரம் செயற்படுவது அனைவரதும் கடமை. அதனால் சீரற்ற காலநிலையால் ஏற்படும் அனர்த்தங்களில் இருந்து பாதுகாப்பு பெற வளிமண்டலவியல் திணைக்களத்தின் அறிவித்தல்களுக்கு கவனம்செலுத்துமாறு நாங்கள் நாட்டு மக்களை கேட்டுக்கொள்கிறோம்.
+Disaster Management and Defense Minister of State for Disaster Management and Defense, Bandara Tennakoon, said that if there is a risk of disaster in the country or the risk of breaking the tree, it has been informed of the speedy digit of the Disaster Management Center 117.
+
+He was speaking at a special press conference held at the Ministry of Disaster Management on Friday the 24th.
+
+The Department of Meteorology announces notification of random climate. So it is the duty of the Atmospheric Department to act according to the announcements. So we urge the people of the country to pay attention to the announcements of the Department of Meteorology to protect the disasters caused by inclement weather.
 
 ...
 
 [Data](articles/9150de22.json)
+
+[Extended Data](ext_articles/9150de22.ext.json)
 
 ---
 

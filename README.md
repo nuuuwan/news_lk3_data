@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-24 11:34:01**
+As of **2024-05-24 11:53:31**
 
 ## Newspaper Stats
 
-*Scraped **26,033** Articles*
+*Scraped **26,037** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,79 @@ islandlk | 1,410
 economynextcom | 1,500
 dailyftlk | 1,533
 adalk | 2,225
-adaderanalk | 2,986
+adaderanalk | 2,988
 tamilmirrorlk | 3,034
 virakesarilk | 3,969
-dailymirrorlk | 4,100
-adaderanasinhalalk | 4,159
+dailymirrorlk | 4,101
+adaderanasinhalalk | 4,160
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,030 (100.0%) of 26,033 articles have been extended.
+26,033 (100.0%) of 26,037 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-24 (Friday)
+
+### President inaugurates Clinical Training and Research Block at Jaffna Medical Faculty
+
+*2024-05-24 11:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/99410/president-inaugurates-clinical-training-and-research-block-at-jaffna-medical-faculty-) · `en`
+
+President Ranil Wickremesinghe today inaugurated the Clinical Training and Research Block at the Jaffna University’s Faculty of Medicine, the President’s Media Division (PMD) said.
+
+Built at a cost of Rs. 942 million, this is the first new construction at the university in 46 years, according to the PMD.
+
+◼️
+
+[Data](articles/c81770e4.json)
+
+---
+
+### NPP to challenge Economic Transformation Bill in court
+
+*2024-05-24 11:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/99409/npp-to-challenge-economic-transformation-bill-in-court-) · `en`
+
+The National People’s Power (NPP) has decided to challenge the Economic Transformation Bill recently tabled in Parliament by the government, before the Supreme Court.
+
+On May 22, the Economic Transformation Bill and the Public Financial Management Bill were presented to the Parliament for the first reading. The government says the two significant bills are aimed at bolstering the country’s economy.
+
+The “Economic Transformation Bill” and the “Public Financial Management Bill,” are designed to enhance the management of public finances, thereby safeguarding against future economic downturns, the State Minister of Finance Shehan Semasinghe said recently.
+
+However, the NPP points out that the government has presented a bill which has a crucial impact on the country’s economy in a very demeaning manner and has proposed to abolish the Board of Investment (BoI) through the relevant bill.
+
+...
+
+[Data](articles/5e76855d.json)
+
+---
+
+### Vesak Poya holiday empties Colombo
+
+*2024-05-24 11:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Vesak-Poya-holiday-empties-Colombo/110-283286) · `en`
+
+Most people were out of Colombo due to the long holiday for Vesak Poya, leaving many roads in the city deserted. Pix by Kithsiri De Mel
+
+◼️
+
+[Data](articles/daf85d24.json)
+
+---
+
+### සුළං ප්‍රවාහයේ වැඩිවීමක්
+
+*2024-05-24 11:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196965) · `si`
+
+දිවයින හරහා නිරිතදිග මෝසම් සුළං ප්‍රවාහයේ වැඩිවීම හේතුවෙන් විටින්විට පැයට කිලෝමීටර් 50ත් 60ත් අතර තද සුළං ඇතිවිය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+හෙට (25) දිනයේ උදෑසන 10:30 වන තෙක් වලංගු වන පරිදි අද (24) පෙරවරු 10:30ට මෙම අනතුරු ඇඟවීම නිකුත් කෙරුණි.
+
+◼️
+
+[Data](articles/8be3ac77.json)
+
+---
 
 ### President
 
@@ -103,6 +161,8 @@ Working for a reputed taxi company in the UAE, Sanath’s modest meal cost only 
 ...
 
 [Data](articles/d2a7b2e7.json)
+
+[Extended Data](ext_articles/d2a7b2e7.ext.json)
 
 ---
 
@@ -633,6 +693,8 @@ Plantations and worker unions ended collective bargaining after President Gotaba
 ...
 
 [Data](articles/b1230a33.json)
+
+[Extended Data](ext_articles/b1230a33.ext.json)
 
 ---
 
@@ -1808,6 +1870,8 @@ The cabinet had approved the development of battery storage system as public pri
 
 [Data](articles/6d3e62e4.json)
 
+[Extended Data](ext_articles/6d3e62e4.ext.json)
+
 ---
 
 ### Sri Lanka eyes private battery systems to counter renewable power instability
@@ -2227,99 +2291,5 @@ Residents Say, the area says that these officers do not understand the difficult
 [Data](articles/7f990641.json)
 
 [Extended Data](ext_articles/7f990641.ext.json)
-
----
-
-### Two son killed in preparating and sleeping the Dansala
-
-*2024-05-23 15:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196939) · `si`
-
-During the Vesak celebrations, a father and son from Nestta were tragically killed while preparing for a Dansala event. The victims, identified as 40-year-old Sanath Rohana and his 17-year-old son, were asleep when a passing vehicle caused an explosion. The incident was reported to the Gampola Magistrate's Court, where further investigations are underway.
-
-🟩
-
-Tapure Police say that a father and son has been killed and a son has been killed this morning (23).
-
-The deceased has been identified as Sanath Rohana, a 40-year-old resident of Nestta, and a 17-year-old resident of Nestta.
-
-The two died on the Vesak celebration today.
-
-It is reported that the two had gone to sleep with a sudden vessel was dropped by a sudden vehicle.
-
-The detonation was informed by a group to organize the Dasandy because the two dawn was not woke up.
-
-The exploitation of the exploitation of the exploitation of the police and his father had died when he was investigating it.
-
-The Gampola Magistrate's Court (PS) has reported to the incident, the acting Magistrate Kanthi Fernando of the Gampola Magistrate's Court, the bodies were referred to the Judicial Medical Medical Officer of the Gampola Main Magistrate.
-
-Investigations investigating that the two men were killed in the electrical machine, police said.
-
-◼️
-
-[Data](articles/974d29c1.json)
-
-[Extended Data](ext_articles/974d29c1.ext.json)
-
----
-
-### Rice Dansala in Pettah...
-
-*2024-05-23 15:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Rice-Dansala-in-Pettah/110-283258) · `en`
-
-The annual rice Dansala organised by the Pettah Eksath Bodhiraja Society being held at the Pettah today with the participation of a large crowd. The Danasala will continue till tomorrow. Pix by Nimalsiri Edirisinghe
-
-◼️
-
-[Data](articles/c285b0a8.json)
-
-[Extended Data](ext_articles/c285b0a8.ext.json)
-
----
-
-### Heroin - trio arrested from Colombo to Jaffna
-
-*2024-05-23 15:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/184312) · `ta`
-
-In a drug trafficking case, three individuals, including a woman, were arrested after heroin was found in a package sent from Colombo to Jaffna. The package contained clothes, including a saree, but was intercepted due to suspicions. Two of the arrestees were linked to receiving and handling the package, while one was identified as the sender based on further investigation. The police recovered 3 grams of heroin from the suspects and continue their probe under court orders.
-
-🟩
-
-Three men, including a woman, have been arrested in connection with the incident of the drug sent by the drug in a package sent from Colombo to Jaffna.
-
-A woman from Jaffna has been sent a packet of clothing, including saree, through a private company's package services. Heroin drugs have been sent to the package.
-
-Based on the confidential information received by the Jaffna District Crime Police Division, the police arrested two persons, including the receipt of the package and the woman who had been paid the money.. They also recovered 3 grams of heroin from them.
-
-Based on investigations carried out by the arrested persons, the person who sent the package was arrested in Colombo.
-
-The police are conducting investigations, with permission to carry out investigations into the Jaffna Magistrate's Court on Wednesday (22).
-
-◼️
-
-[Data](articles/ab3d6b7f.json)
-
-[Extended Data](ext_articles/ab3d6b7f.ext.json)
-
----
-
-### 'Pillaiyar Suzhi' speaks of the life of the transgender child
-
-*2024-05-23 15:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/184316) · `ta`
-
-"Pillaiyar Suzhi," a film about a transgender child, has been selected for the New York City International Film Festival. Directed by Manoharan, it features cinematography by Prasad and music by R. Hari. Produced by V under Pillaiyar Suzhi Productions and Air Flix, the film is expected to complete production by the end of the year and has heightened fan anticipation.
-
-🟩
-
-The film crew has released special photos that the film 'Pillaiyar Suzhi' has been selected at the International Film Festival in New York City in the United States...
-
-In the film 'Pillaiyar Suzhi', directed by debutant director Manoharan, 'Pillaiyar Suzhi'Have played many others. Prasad's cinematography for the film. R. Hari has composed the music. Producer V is on behalf of Pillaiyar Suzhi Productions and Air Flix. Silambarasi has produced.
-
-All the work of the film is scheduled to be completed by the end of this year at the film House. The film is being screened at the International Film Festival in New York City. Thus the expectation of the film has increased in fans.
-
-◼️
-
-[Data](articles/621809f2.json)
-
-[Extended Data](ext_articles/621809f2.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-24 09:18:37**
+As of **2024-05-24 09:34:06**
 
 ## Newspaper Stats
 
-*Scraped **26,008** Articles*
+*Scraped **26,013** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,50 +19,138 @@ adalk | 2,223
 adaderanalk | 2,984
 tamilmirrorlk | 3,034
 virakesarilk | 3,963
-dailymirrorlk | 4,092
+dailymirrorlk | 4,097
 adaderanasinhalalk | 4,155
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,006 (100.0%) of 26,008 articles have been extended.
+26,008 (100.0%) of 26,013 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-24 (Friday)
 
-### වෙඩිතැබීමකට අනුබල දුන් අයෙක් අත්අඩංගුවට
+### Showery, windy conditions expected to continue today as well
+
+*2024-05-24 09:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Showery-windy-conditions-expected-to-continue-today-as-well/108-283282) · `en`
+
+Due to the South West Monsoon condition, the prevailing showery and windy conditions are expected to continue, the Forecasting Division of the National Meteorological Centre said.
+
+They said heavy showers of about 150 mm are likely in the Sabaragamuwa Province and in the Nuwara-Eliya district.
+
+Meanwhile, showers will occur in the Western, Sabaragamuwa, Central, North­-Western, Southern and Northern Provinces.
+
+Heavy showers of about 150 mm are likely in the Sabaragamuwa Province and in Nuwara-Eliya the district.
+
+Strong winds upto 60 kmph can be expected over the Western slopes of the central hills and in the Northern, North-Central, Western, Southern and North-Western Provinces and in the Trincomalee district.
+
+Strong winds upto 40 kmph can be expected elsewhere in the island.
+
+◼️
+
+[Data](articles/6938843f.json)
+
+---
+
+### Suspect arrested for shot
 
 *2024-05-24 09:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196960) · `si`
 
-පුද්ගලයෙකුට වෙඩිතබා ඝාතනය කිරීමට තැත් කිරීමේ සිද්ධියක් සම්බන්ධයෙන් අවශ්‍ය කර සිටි සැකකරුවෙකු අත්අඩංගුවට ගත් බව පොලීසිය පවසයි.
+A suspect linked to a fatal shooting in Ahungalla was arrested in Uragasmanhandiya. The 28-year-old man also had heroin.
 
-පසුගිය 08 වනදා අහුංගල්ලේදී පුද්ගලයෙකු වෙඩිතබා ඝාතනය කිරීමට උත්සාහ කර තිබූ අතර ඊට ආධාර අනුබල දුන් සැකකරුවෙකු ඊයේ (23) දින ඌරගස්මංහන්දිය ප්‍රදේශයේදී මෙලෙස අත්අඩංගුවට ගෙන ඇත.
+🟩
 
-ඌරගස්මංහන්දිය ප්‍රදේශයේ පදිංචි සැකකරු 28 වන වියේ පසුවන අතර ඔහු සන්තකයේ තිබී හෙරොයින් ග්‍රෑම් 4ක් ද සොයාගත් බව පොලීසිය පවසයි.
+Police say a suspect who had been requested to attempt to shot a person was arrested.
 
-අදාළ සැකකරු විසින් වෙඩිතැබීම සඳහා ඔත්තු බලා ඇතැයි පොලීසිය සැකකරයි.
+A person had been shot dead at Ahungalla on the 8th and a suspect who supported it was arrested yesterday (23) at the Uragasmanhandiya area.
+
+The suspect, a resident of Uragasmanhandiya, is 28 grams of heroin in his possession, police said.
+
+The suspect is spying for shoving by the suspect.
 
 ◼️
 
 [Data](articles/3af3d3b9.json)
 
+[Extended Data](ext_articles/3af3d3b9.ext.json)
+
 ---
 
-### ගසක අත්තක් කඩා වැටී තවත් මරණයක්
+### A branch of a tree collapses and another death
 
 *2024-05-24 08:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196959) · `si`
 
-අයහපත් කාලගුණ තත්ත්වය හේතුවෙන් ගසක අත්තක් කඩාවැටී එයට යටවීමෙන් තවත් පුද්ගලයෙකු මියගොස් තිබේ.
+In Mahakdugala reserve, during inclement weather, a tree branch collapse killed one person as five others collected firewood yesterday.
 
-මෙම අනතුර සිදුවී ඇත්තේ ඊයේ (23) රාගල මහකුඩුගල රක්ෂිත ප්‍රදේශයකදී ය.
+🟩
 
-පුද්ගලයින් 05 දෙනෙකු දර එකතු කිරීමට ගොස් සිටියදී මෙම අනතුර සිදුවී ඇති අතර සිද්ධිය සම්බන්ධයෙන් වැඩිදුර විමර්ශන ක්‍රියාත්මකය.
+Another person has died after the inclement weather has collapsed the branch of a tree.
+
+The accident had taken place yesterday (23) at a reserve in Mahakdugala.
+
+The accident had occurred while five people went to collect firewood while the accident had occurred.
 
 ◼️
 
 [Data](articles/30d5267a.json)
+
+[Extended Data](ext_articles/30d5267a.ext.json)
+
+---
+
+### Mendis and Fernando join T20 World Cup squad in USA after visa delay
+
+*2024-05-24 08:42:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Mendis-and-Fernando-join-T20-World-Cup-squad-in-USA-after-visa-delay/108-283281) · `en`
+
+Colombo, May 24 (Daily Mirror) - Sri Lanka’s top-order batsman and wicketkeeper Kusal Mendis, along with fast bowler Asitha Fernando, have joined the national T20 World Cup team in the USA after a delay in receiving their visas, Sri Lanka Cricket (SLC) Selection Committee Chairman Upul Tharanga told the Daily Mirror.
+
+Although the national team departed for the USA on May 14, Mendis and Fernando could not travel with the team due to their visas not being issued by the US Embassy in Sri Lanka.
+
+The 15-member Sri Lanka team left for the USA in advance to train and acclimatize to the conditions. They arrived in the USA last Wednesday and began training at the Morrisville Facility in North Carolina.
+
+Tharanga expressed relief that the team arrived in the US two weeks in advance, allowing the players to familiarize themselves with the conditions. He confirmed that all players are fit for the upcoming warm-up games.
+
+...
+
+[Data](articles/73bc7b5c.json)
+
+---
+
+### Selfie before suicide with gun on forehead
+
+*2024-05-24 08:37:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Selfie-before-suicide-with-gun-on-forehead/108-283280) · `en`
+
+Hikkaduwa, May 24 (Daily Mirror)- The body of an individual who had died of gunshot injuries was recovered from a house at Meetiyagoda in Thelwatta last morning. Judging from a selfie taken by him with the gun placed on his forehead, the police suspect it to be a case of suicide.
+
+The victim was a resident of Metiwala in Thelwatta in Hikkaduwa. His mother told police that she opened the door of her son’s room when he did not wake up in the morning to find his body lying on the floor.
+
+During interrogation of his mother and grandmother, the latter told police that she threw away the gun into the nearby cinnamon grove. The police recovered the gun used in the suicide.
+
+Further investigations revealed that he was a drug addict and that he had been depressed after he was jilted by his girlfriend.
+
+Police examined his cellular phone to find the selfie taken by him before he shot himself dead.
+
+...
+
+[Data](articles/1ff7f329.json)
+
+---
+
+### Sri Lanka TID detains suspect tied to Ahmedabad ISIS arrests
+
+*2024-05-24 08:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-TID-detains-suspect-tied-to-Ahmedabad-ISIS-arrests/108-283279) · `en`
+
+Colombo, May 24 (Daily Mirror) - A day after four ISIS terrorists were arrested in Ahmedabad, India, Sri Lanka's Terrorism Investigation Division (TID) arrested a suspect in Colombo connected to those arrested in India.
+
+Police Spokesman DIG Nihal Thalduwa said that the 44-year-old suspect was detained the day after the arrest of four Sri Lankan nationals in India and the suspect is being questioned by the TID. He said that Sri Lankan authorities are closely coordinating with Indian authorities on the investigation.
+
+DIG Thalduwa said that IGP Deshabandu Tennakoon has appointed a special team, led by a Senior DIG, to probe the incident. It was learnt that the Sri Lanka Police to record statements from several individuals in Sri Lanka reportedly connected to the arrested suspects.
+
+...
+
+[Data](articles/623b2c56.json)
 
 ---
 
@@ -89,6 +177,26 @@ Fairly strong winds about 30-40 kmph can be expected at times elsewhere of the i
 [Data](articles/61fd8f27.json)
 
 [Extended Data](ext_articles/61fd8f27.ext.json)
+
+---
+
+### Snap general election to follow presidential election immediately
+
+*2024-05-24 08:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Snap-general-election-to-follow-presidential-election-immediately/155-283278) · `en`
+
+Colombo, May 24 (Daily Mirror)- A snap general election will follow immediately after the presidential elections to be concluded in October, this year, the Daily Mirror learns.
+
+President Ranil Wickremesinghe is reported to have ruled out his intention to declare a snap general election ahead of or during the presidential poll. He has told the Cabinet ministers that a parliamentary election will follow the presidential elections.
+
+It is politically sensible that a snap election will be declared whoever wins the presidential elections in October instead of waiting till the scheduled time for such an election in the
+
+Any candidate who wins will choose to have a new Parliament with a majority for his party or alliance. It is natural in Sri Lankan political culture for the party that wins presidential
+
+Last time, the general election was conducted in August, 2020. The Election Commission is bound legally to conduct any election declared in terms of the Constitution. Also, there are
+
+...
+
+[Data](articles/2709dd4b.json)
 
 ---
 
@@ -2173,127 +2281,5 @@ Inclement weather conditions uprooted a tree along  Maitland Crescent today. Th
 [Data](articles/404d9f44.json)
 
 [Extended Data](ext_articles/404d9f44.ext.json)
-
----
-
-### The young man injections
-
-*2024-05-23 13:25:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஊசி-போட்ட-இளைஞன்-திடீர்-மரணம்/175-337766) · `ta`
-
-A 31-year-old man died suddenly after receiving a Cefuroxime injection at the National Hospital in Colombo. Authorities have suspended the use of the drug, produced by Opsonin Pharma Limited, due to a severe adverse reaction. An investigation is underway to determine the cause.
-
-🟩
-
-According to reports, a thirty -one -year -old man who was admitted to the National Hospital in Colombo died shortly after the accident.
-
-According to the sources, the patient's room number. Cefuroxime is said to have been paid when it arrived at 17, which led to his sudden death.
-
-In response to the incident, authorities have suspended the VL040 set of the CEFUROXIME INJECTION 750MG Vial (SR: 00101406), produced by Bangladesh's Opsonin Pharma Limited.
-
-However, hospital and health officials are conducting a thorough investigation to identify the cause of this severe adverse reaction (ADR).
-
-◼️
-
-[Data](articles/4ddec774.json)
-
-[Extended Data](ext_articles/4ddec774.ext.json)
-
----
-
-### India explores acquisition of Sri Lankan graphite mines
-
-*2024-05-23 13:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/99396/india-explores-acquisition-of-sri-lankan-graphite-mines) · `en`
-
-New Delhi, India is in talks with Sri Lanka to acquire graphite mines in the island nation. The demand for graphite is steadily increasing, as it is the most common material used for anodes in lithium-ion and other batteries.
-
-The Indian government had discussions with the government of Sri Lanka on acquiring graphite mines there, sources said.
-
-However, the sources refused to give further details stating that the talks are at very preliminary stage.
-
-Graphite features on the list of 30 critical minerals, which was released by the government last year.
-
-The government had recently said that public sector companies Coal India, NMDC and ONGC Videsh Ltd (OVL) will start looking actively for critical mineral assets overseas.
-
-OVL is the overseas investment arm of state-owned Oil and Natural Gas Corporation.
-
-These public sector enterprises already have some kind of presence abroad.
-
-...
-
-[Data](articles/f9ce3403.json)
-
-[Extended Data](ext_articles/f9ce3403.ext.json)
-
----
-
-### A new way to inform the collapse of electricity
-
-*2024-05-23 13:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196933) · `si`
-
-The Ceylon Electricity Board (CEB) has implemented a new electricity distribution system across Sri Lanka, especially during adverse weather conditions. This change follows the widespread power outages reported via the 1987 emergency hotline. Customers are advised to adhere to specific procedures during such incidents.
-
-🟩
-
-The Ceylon Electricity Board has introduced a new system of electricity throughout the island with inclement weather.
-
-That was due to the busy active of the 1987 instant telephone number that had been notified regarding electricity crashes.
-
-The Ceylon Electricity Board (CEB) has requested customers to follow the following procedures.
-
-◼️
-
-[Data](articles/966b7bac.json)
-
-[Extended Data](ext_articles/966b7bac.ext.json)
-
----
-
-### Rain with heavy winds in Nuwara Eliya
-
-*2024-05-23 13:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/184304) · `ta`
-
-Nuwara Eliya faces severe weather with heavy rain and winds, causing snowfall and damaging infrastructure. Trees fell, blocking roads, and traffic was disrupted. Motorists urged to use caution and headlights due to poor visibility.
-
-🟩
-
-Due to the inclement weather in the country, Nuwara Eliya is experiencing snowfall.
-
-In this case, the roofs of the houses were thrown into the Nuwara Eliya area on Wednesday night (22) night.
-
-It is also worth noting that heavy winds and heavy rainfall is still reported today (23).
-
-Massive trees have fallen on several main streets in the Nuwara Eliya and Nanuoya area, and the posts and nameplates fitted at business centers have been broken and damaged.
-
-Traffic along the area was blocked for about an hour when a massive tree collapsed near the Nuwara Eliya Central Public Market this morning.
-
-Motorists have to pay vehicles with great care due to the prevailing inclement weather.
-
-Also, due to the continuous rainfall weather, the Nuwara Eliya district is full of snowfall. Therefore, motorists traveling on the streets of Attan - Nuwara Eliya, Welimada and Kandy are appealing to the traffic police to light the vehicle lights.
-
-◼️
-
-[Data](articles/a0a2e3ae.json)
-
-[Extended Data](ext_articles/a0a2e3ae.ext.json)
-
----
-
-### Antibiotic injection withheld following tragic death
-
-*2024-05-23 13:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Antibiotic-injection-withheld-following-tragic-death/108-283249) · `en`
-
-Colombo, May 23 (Daily Mirror) -  A thirty-one-year-old male, admitted to National Hospital in Colombo for treatment of burn injuries following an accident, died shortly after receiving an antibiotic injection, sources said.
-
-According to the sources, the patient was reportedly administered Cefuroxime upon arrival at Ward No. 17, leading to his sudden demise.
-
-In response to this incident, authorities have temporarily withheld the batch VLL040 of Cefuroxime Injection 750mg Vial (SR: 00101406), manufactured by Opsonin Pharma Limited, Bangladesh, pending further investigations.
-
-However, the hospital and health authorities are conducting a thorough investigation to determine the cause of this severe adverse drug reaction (ADR).
-
-◼️
-
-[Data](articles/c2ba0e80.json)
-
-[Extended Data](ext_articles/c2ba0e80.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-24 15:18:24**
+As of **2024-05-24 15:34:04**
 
 ## Newspaper Stats
 
-*Scraped **26,063** Articles*
+*Scraped **26,068** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,12 +13,12 @@ dbsjeyarajcom | 260
 bbccomsinhala | 263
 newsfirstlk | 363
 islandlk | 1,410
-economynextcom | 1,500
+economynextcom | 1,501
 dailyftlk | 1,533
 adalk | 2,226
 adaderanalk | 2,991
 tamilmirrorlk | 3,040
-virakesarilk | 3,974
+virakesarilk | 3,978
 dailymirrorlk | 4,107
 adaderanasinhalalk | 4,164
 
@@ -26,11 +26,79 @@ adaderanasinhalalk | 4,164
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,062 (100.0%) of 26,063 articles have been extended.
+26,063 (100.0%) of 26,068 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-24 (Friday)
+
+### போராட்டத்தில் ஈடுபட்டவர்களையும் ஊடகவியலாளர்களையும் படமெடுத்து அச்சுறுத்திய பொலிஸார்
+
+*2024-05-24 15:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/184384) · `ta`
+
+தையிட்டியில் அமைந்துள்ள சட்டவிரோத திஸ்ஸ விகாரைக்கு எதிரான போராட்டத்தில் ஈடுபட்ட போராட்டக்காரர்களையும், ஊடகவியலாளர்களையும் அங்கிருந்த பொலிசார் கைத்தொலைபேசியில் புகைப்படம் எடுத்து அச்சுறுத்தும் விதத்தில் செயல்பட்டுள்ளனர்.
+
+இதன்போது அவ்விடத்திற்கு பலாலி பொலிஸ் நிலைய பொறுப்பதிகாரி வருகை தந்தவேளை, "பலாலி பொலிஸ் நிலைய பொறுப்பதிகாரி ஒரு கொலைகாரன், பலாலி பொலிஸ் நிலைய பொறுப்பதிகாரி ஒழிக" என கூச்சலிட்டனர்.
+
+◼️
+
+[Data](articles/a722f7eb.json)
+
+---
+
+### இறுதி யுத்தத்தில் இராணுவத்தினரால் கைதுசெய்யப்பட்டு மிக மோசமான சித்திரவதைகளை அனுபவித்த – யுத்தத்தினால் பாதிக்கப்பட்ட பெண்களின் உரிமைக்காக குரல்கொடுக்கும்  சுகந்தினிக்கு கொரியாவில் உயர் விருது
+
+*2024-05-24 15:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/184386) · `ta`
+
+ஈழதமிழ் பெண்களின் உரிமைக்காக குரல்கொடுக்கும் மனித உரிமை செயற்பாட்டாளர் சுகந்தினி மதியமுதன் தங்கராஜிற்கு தென்கொரியாவின் மே18 நினைவு அறக்கட்டளை 2024 குவாங்ஜூ விருதினை வழங்கி கௌரவித்துள்ளது.
+
+இலங்கை அரசாங்கத்தினதும் அதன் பாதுகாப்பு படையினரினதும் ஒடுக்குமுறையால் பாதிக்கப்பட்டுள்ள -யுத்தத்தினால் பாதிக்கப்பட்ட தமிழ் பெண்களின் உரிமைகள் அவர்களை வலுப்படுத்துதல் ஆகியவற்றிற்காக அமரா என்ற அமைப்பை ஆரம்பித்து சுகந்தினி தனது செயற்பாடுகளை முன்னெடுத்துவருகின்றார்.
+
+இராணுவத்திடம் அனைத்தையும் இழந்த பல பெண்களிற்கு நம்பிக்கையை  ஏற்படுத்துபவராக துணிச்சல் தைரியத்தின் அடையாளமாக சுகந்தினி காணப்படுகின்றார் என மே 18 நினைவு அறக்கட்டளை தெரிவித்துள்ளது.
+
+சுகந்தினியின் செயற்பாடுகள் எங்கள் அமைப்பின் உணர்வுகளோ நெருக்கமானதாக காணப்படுகின்றது என கருதுகின்றோம் என தெரிவித்துள்ள மே 18 நினைவு அறக்கட்டளை இலங்கையில் தமிழ் பெண்களின் மனித உரிமை நிலவரத்தில் மாற்றங்களை ஏற்படுத்துவதற்கான அவரது முயற்சிகளிற்கு உறுதியான ஆதரவை வழங்குகின்றோம் எனவும் தெரிவித்துள்ளது.
+
+...
+
+[Data](articles/fbd12776.json)
+
+---
+
+### கிளிநொச்சியில் இருந்து யாழ்ப்பாணத்திற்கு பேருந்தில் கொண்டுவரப்பட்ட மான் கொம்பு!
+
+*2024-05-24 15:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/184382) · `ta`
+
+கிளிநொச்சியில் இருந்து யாழ்ப்பாணத்திற்கு  பேருந்தில் மான் கொம்பு கொண்டுவரப்பட்ட சம்பவமொன்று பதிவாகியுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+இதன் போது,  மான் கொம்பு கொண்டுவந்தவர் பொலிஸாரால் இன்று வெள்ளிக்கிழமை (24)  கைது செய்யப்பட்டுள்ளார்.
+
+யாழ்ப்பாண பிராந்திய பொலிஸ் புலனாய்வு பிரிவிற்கு கிடைத்த தகவலின் அடிப்படையில்  குறித்த கைது நடவடிக்கை மேற்கொள்ளப்பட்டது.
+
+◼️
+
+[Data](articles/13a205cc.json)
+
+---
+
+### 300 out of 1,200 Sri Lanka central bank staff works on EPF: CB Governor
+
+*2024-05-24 15:00:00* · [`economynextcom`](https://economynext.com/300-sri-lanka-central-bank-staff-works-epf-cb-govern-or-164476/) · `en`
+
+ECONOMYNEXT – About 300 central bank staff out of 1,200 are employed in the Employees Provident Fund and related work, Governor Nandalal Weerasinghe said, with the function due to be transferred to a separate agency after a revamp of its governing law.
+
+“When it comes to the EPF there is an obvious conflict of interest. We are very happy to take that function out,”  Governor Weerasinghe told a forum organized by Colombo-based Advocata Institute.
+
+“We have about 300 staff out of 1,200 including contract staff, almost 150 of permanent staff is employed to run this huge operation. I don’t think the central bank should be doing this business,”
+
+The EPF had come under fire in the past over questionable investments in stocks and also bonds.
+
+In addition, the central bank also faced a conflict of interest because it had another agency function to sell bonds for the Treasury at the lowest possible price, not to mention its monetary policy functions.
+
+...
+
+[Data](articles/e83ef311.json)
+
+---
 
 ### Sri Lanka rejects inclusion of Cuba on list of terrorist states
 
@@ -47,6 +115,8 @@ In recent days, various Sri Lankan organizations joined the global demand agains
 ...
 
 [Data](articles/4ac331ed.json)
+
+[Extended Data](ext_articles/4ac331ed.ext.json)
 
 ---
 
@@ -259,6 +329,24 @@ The Warwick University of Warwick, Dr. Thomas Wilson said, "It will help us to h
 [Data](articles/66fdc5bf.json)
 
 [Extended Data](ext_articles/66fdc5bf.ext.json)
+
+---
+
+### விபத்தில் படுகாயமடைந்தவர் சிகிச்சை  பலனின்றி உயிரிழப்பு!
+
+*2024-05-24 13:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/184369) · `ta`
+
+விபத்தில் சிக்கி படுகாயமடைந்த நிலையில் யாழ்.போதனா வைத்தியசாலையில் சிகிச்சை பெற்று வந்த கிளிநொச்சியை சேர்ந்த நபர் ஒருவர் சிகிச்சை பலனின்றி நேற்று வியாழக்கிழமை (23)  உயிரிழந்துள்ளார்.
+
+கிளிநொச்சி வட்டக்கச்சி பகுதியைச் சேர்ந்த தம்பிராசா ரவிசந்திரன் (வயது 35) என்பவரே உயிரிழந்துள்ளார்.
+
+கனகபுரம் பகுதியில் கடந்த 17ஆம் திகதி இடம்பெற்ற விபத்தில் படுகாயமடைந்த நிலையில் கிளிநொச்சி மாவட்ட வைத்தியசாலையில் அனுமதிக்கப்பட்டவர் அங்கிருந்து மேலதிக சிகிச்சைக்காக யாழ்.போதனா வைத்தியசாலைக்கு மாற்றப்பட்டார்.
+
+இதேவேளை, போதனா வைத்தியசாலையில் சிகிச்சை பெற்று வந்த நிலையில் சிகிச்சை பலனின்றி நேற்றைய தினம் உயிரிழந்துள்ளார்.
+
+◼️
+
+[Data](articles/dfa6722b.json)
 
 ---
 
@@ -2201,107 +2289,5 @@ Three youths aged twenty -year -olds from Kekila Mandia, who belong to the Telik
 [Data](articles/5fb57612.json)
 
 [Extended Data](ext_articles/5fb57612.ext.json)
-
----
-
-### ICC arrest warrants on Israeli leaders: US protests and threats outrageous
-
-*2024-05-23 20:42:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/ICC-arrest-warrants-on-Israeli-leaders-US-protests-and-threats-outrageous/172-283273) · `en`
-
-Karim Khan seeks ICC arrest warrants on Israeli Prime Minister Benjamin Netanyahu, Defence Minister Yoav Gallant and three top Hamas leaders
-
-Israel has no intention to slow down its genocidal campaign in the Gaza Strip, even after a series of blows it suffered this week in the form of the International Criminal Court (ICC) prosecutor seeking arrest warrants for its leaders and the recognition of Palestine as an independent state by three European countries: Ireland, Norway, and Spain.
-
-There is no letup in Israel’s killer intent. The Gaza Strip has been made uninhabitable. It is heartbreaking to watch on Al Jazeera the wounded, the sick, the elderly, and little children running for cover in search of not-to-be-found safety amid a severe shortage of food, fuel, and medicine, among other essentials.
-
-...
-
-[Data](articles/da6ff145.json)
-
-[Extended Data](ext_articles/da6ff145.ext.json)
-
----
-
-### On a ‘divided’ road and heading for trouble - EDITORIAL
-
-*2024-05-23 20:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/On-a-divided-road-and-heading-for-trouble-EDITORIAL/172-283272) · `en`
-
-The Sri Lanka Police has caused a stir in the motoring scene by making great efforts to strictly follow an old law that relates to the ownership of vehicles. What stirred a hornet’s nest in social media was when a female police officer checked a vehicle recently and demanded to know details of vehicle ownership.
-
-Now we come to know that the police have powers vested in them to check vehicle registration details courtesy a law passed in Parliament many years ago. This law was possibly passed to prevent unlawful activities linked to vehicles; example theft and unlawful assembling of vehicles.
-
-However, the incident made motorists wake up to the requirement of keeping the ownership details of vehicles in order. In the past there was a habit of delaying the updating of the vehicle registration book when ownership of the ‘machine’ changed. Now new owners of vehicles have to be more responsible in having vehicle registration documents in order.
-
-...
-
-[Data](articles/256dafd0.json)
-
-[Extended Data](ext_articles/256dafd0.ext.json)
-
----
-
-### Train-motorcycle collision leaves three youths dead
-
-*2024-05-23 20:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Train-motorcycle-collision-leaves-three-youths-dead/108-283271) · `en`
-
-Tragedy struck at the Pinthaliya railway crossing in Boossa when a train collided with a motorcycle, resulting in the deaths of three young individuals, according to police.
-
-The accident occurred when the motorcycle carrying the three youths collided with a train bound for Matara from Maradana.
-
-The victims have been identified as teenagers aged between 17 and 19 years old.
-
-◼️
-
-[Data](articles/05bf6c99.json)
-
-[Extended Data](ext_articles/05bf6c99.ext.json)
-
----
-
-### The funeral of Iraniya will take place
-
-*2024-05-23 20:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196950) · `si`
-
-The funeral of Iran's President Dr. Irava and Minister Hussein Amiteman took place in Tehran, attended by Hamas leader Captain and Deputy Minister Ali Sabri. Thousands mourned in Burdjand.
-
-🟩
-
-The official funeral of the Iranian president, Dr. Irava and Irava, Minister of Iranian Foreign Minister Hussein Amiteman and the officials was held in Tehran capital.
-
-It is noteworthy that the Hamas Leader in Hamas captain is among the state leaders who had joined the deceased Iranian President.
-
-Deputy Minister of Foreign Minister Ali Sabri joined the last respects of the President.
-
-Thousands of people gathered in Burdjand to pay his last respects to the President.
-
-Accordingly, the funeral of the Iranian president of Iranian president of the Iranian president of 2021 was held this afternoon.
-
-◼️
-
-[Data](articles/afd88011.json)
-
-[Extended Data](ext_articles/afd88011.ext.json)
-
----
-
-### Three killed and 30 kills a motorbike train
-
-*2024-05-23 19:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196949) · `si`
-
-In a tragic accident on the Boossa picture railway crossing, three individuals aged 17 to 19 were killed while riding a motorcycle train from Maradana to Matara.
-
-🟩
-
-Three persons were killed in a motorcycle train on the Boossa picture railway crossing.
-
-The accident had occurred when the train traveling from Maradana to Matara.
-
-The police have died in danger between the ages of 17 and 19 years old.
-
-◼️
-
-[Data](articles/0cdfb588.json)
-
-[Extended Data](ext_articles/0cdfb588.ext.json)
 
 ---

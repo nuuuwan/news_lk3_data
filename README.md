@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-24 22:52:28**
+As of **2024-05-24 23:03:59**
 
 ## Newspaper Stats
 
@@ -26,29 +26,39 @@ adaderanasinhalalk | 4,175
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,115 (100.0%) of 26,116 articles have been extended.
+26,116 (100.0%) of 26,116 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-24 (Friday)
 
-### ශ්‍රී ලංකාවේ සිටින මාලදිවයින් ජාතිකයින්ට විශේෂ දැනුම්වත් කිරීමක්
+### Special notice to Maldives in Sri Lanka
 
 *2024-05-24 22:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196982) · `si`
 
-ශ්‍රී ලංකාවේ සංචාරක වීසා පිළිබඳ සිදුකළ වෙනස්කම් සම්බන්ධයෙන් මාලදිවයිනේ විදේශ කටයුතු අමාත්‍යාංශ නිවේදනයක් නිකුත් කර තිබේ.
+Maldives issues a statement about changes in Sri Lanka's tourism visa policy, allowing Maldivian citizens to get a free 30-day visa upon arrival. For stays longer than 30 days, they must apply online via https://www.srilankaevisa.lk/. The Maldives High Commission in Colombo has been reached out to for further inquiries. The Maldives is in discussions with Sri Lanka to implement a new electronic visa system, advising potential visitors to contact the Ministry for any necessary assistance.
 
-ඔවුන් එහි සඳහන් කර ඇත්තේ, දැනට පවතින ක්‍රියා පටිපාටිය අනුව මාලදිවයින් වැසියන්ට ශ්‍රී ලංකාවට පැමිණීමෙන් පසු දින 30ක සංචාරක වීසා බලපත්‍රයක් නොමිලේ ලබා ගත හැකි බවය.
+🟩
 
-එමෙන්ම දින 30කට වැඩි රැඳී සිටීමක් සඳහා, මාලදිවයින් ජාතිකයින්ට https://www.srilankaevisa.lk/ යන වෙබ් අඩවියට පිවිස නොමිලේ මාස 6ක වීසා බලපත්‍රයක් සඳහා අන්තර්ජාලය හරහා අයදුම් කළ හැකි අතර මෙම වීසා බලපත්‍රයට පරිපාලන ගාස්තුවක් අය කරනු ඇති බවද දන්වා තිබේ.
+The Maldives has issued a statement regarding the changes in the tourism visa in Sri Lanka.
 
-එසේ නොමැතිව දැනටමත් ශ්‍රී ලංකාවේ සිටින සහ වීසා දිගුවක් අවශ්‍ය මාලදිවයින් ජාතිකයින් සඳහා කොළඹ මාලදිවයිනේ මහ කොමසාරිස් කාර්යාලය හා සම්බන්ධ විය හැකි බව එම නිවේදනයේ වැඩිදුරටත් සඳහන් වේ.
+They have stated that according to the current procedure, the Maldivian people can receive a 30-day tourist visa for free after arriving in the Maldives.
 
-ඔවුන් පවසන්නේ ශ්‍රී ලංකාවේ සංචාරක වීසා සම්බන්ධයෙන් මෑත කාලීනව සිදුකළ වෙනස්කම් පිළිබඳව පැහැදිලි කිරීමක් අපේක්ෂා කරන බවය.
+For more than 30 days, Maldivian nationals can visit https://www.srilankaevisa.lk/.
 
-...
+Otherwise, it is said that the Maldivian High Commission in Sri Lanka has already been contacted to the Maldives High Commission in Colombo.
+
+They say that the recent changes in Sri Lanka is looking forward to an explanation of recent changes.
+
+The statement states that the Maldives is being discussed with representatives of Sri Lanka to ensure a new electronic visa system in Sri Lanka.
+
+The Maldivesians who are expected to come to Sri Lanka have been asked that they can contact the Ministry if necessary.
+
+◼️
 
 [Data](articles/07d3d7c2.json)
+
+[Extended Data](ext_articles/07d3d7c2.ext.json)
 
 ---
 

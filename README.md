@@ -1,23 +1,23 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-24 08:52:43**
+As of **2024-05-24 09:03:25**
 
 ## Newspaper Stats
 
-*Scraped **26,003** Articles*
+*Scraped **26,006** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 232
 dbsjeyarajcom | 259
-bbccomsinhala | 262
+bbccomsinhala | 263
 newsfirstlk | 363
 islandlk | 1,410
 economynextcom | 1,497
 dailyftlk | 1,533
 adalk | 2,223
-adaderanalk | 2,983
-tamilmirrorlk | 3,033
+adaderanalk | 2,984
+tamilmirrorlk | 3,034
 virakesarilk | 3,963
 dailymirrorlk | 4,092
 adaderanasinhalalk | 4,153
@@ -26,11 +26,35 @@ adaderanasinhalalk | 4,153
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,003 (100.0%) of 26,003 articles have been extended.
+26,003 (100.0%) of 26,006 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-24 (Friday)
+
+### Heavy showers and strong winds expected in parts of the island
+
+*2024-05-24 08:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/99406/heavy-showers-and-strong-winds-expected-in-parts-of-the-island) · `en`
+
+Due to the Southwest monsoon conditions, the prevailing showery and windy conditions are expected to continue, says the Meteorology Department.
+
+Showers or thundershowers will occur at times in Western, Sabaragamuwa, Central, North-western, Southern and Northern provinces.
+
+Very heavy showers about 150mm are likely at some places in Sabaragamuwa province and in Nuwara-Eliya districts.
+
+Heavy showers above 100 mm are likely at some places in Western and North-western provinces and in Kandy, Mannar, Galle and Matara districts.
+
+Showers or thundershowers will occur at several places elsewhere of the island, it said.
+
+Strong winds of about 50-60 kmph can be expected at times over Western slopes of the central hills and in Northern, North-central, Western, Southern and North western provinces and in Trincomalee district.
+
+Fairly strong winds about 30-40 kmph can be expected at times elsewhere of the island.
+
+◼️
+
+[Data](articles/61fd8f27.json)
+
+---
 
 ### TV Derana continued to continue
 
@@ -246,6 +270,24 @@ The protesters said, "Taitti is our property, the Tamil homeland of the North an
 
 ---
 
+### ’உலக பிரச்சினைகளுக்கு தேரவாத பௌத்தத்தில் தீர்வு’
+
+*2024-05-24 03:17:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உலக-பிரச்சினைகளுக்கு-தேரவாத-பௌத்தத்தில்-தீர்வு/175-337803) · `ta`
+
+விஞ்ஞானம் மற்றும் தொழிநுட்பத்துடன் வேகமாக முன்னேறும் உலகம் எதிர்நோக்கும் பிரச்சினைகளுக்கு தேரவாத பௌத்தத்தில் தீர்வு இருக்கின்றதாக ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+
+மாத்தளை தர்மராஜா பிரிவேனா விகாரையில் நேற்று முற்பகல் நடைபெற்ற அரச வெசாக் விழாவில் இலத்திரனியல் தொழில்நுட்பத்தின் ஊடாக கலந்து கொண்டு உரையாற்றும் போதே ஜனாதிபதி இவ்வாறு குறிப்பிட்டார். அவர் மேலும் தெரிவிக்கையில்,
+
+"மாத்தளை வரலாற்றுச் சிறப்புமிக்க அலுவிகாரையில் திரிபீடகம் பிரதிஷ்டை செய்யப்பட்டதன் காரணமாகவே புனித பௌத்த மதம் பாதுகாக்கப்பட்டது. தேரவாத பௌத்தத்தின் முக்கிய இடமாக விளங்கிய மாத்தளை மாவட்டத்தை மையமாகக் கொண்டு இவ்வருடம் அரச வெசாக் பண்டிகையை கொண்டாடும் வாய்ப்பு கிடைத்தமை  மகிழ்ச்சி.
+
+அநுராதபுர யுகத்தில் இருந்த பிரிவேனாக்களில் இருந்து மகா சங்கத்தினர் மட்டும் உருவாகவில்லை. உலகின் முக்கியமான நீர்ப்பாசன முறையை இலங்கையில் ஆரம்பிக்கும் வாய்ப்பு அந்தக் கல்வி முறையினால் கிடைத்ததாக செனரத் பரணவிதான போன்ற அறிஞர்கள் குறிப்பிட்டிருந்தனர்.
+
+...
+
+[Data](articles/396de751.json)
+
+---
+
 ### Food insecurity
 
 *2024-05-24 02:50:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெருந்தோட்ட-பகுதிகளில்-உணவு-பாதுகாப்பின்மை/175-337802) · `ta`
@@ -337,6 +379,26 @@ Ruwan Wijewardene, Senior Advisor to the President on Climate Change, with a vis
 [Data](articles/c5a83695.json)
 
 [Extended Data](ext_articles/c5a83695.ext.json)
+
+---
+
+### වීදී සුනඛයින්ට වසර 13ක් රැකවරණය දෙන  පොලිස් SI
+
+*2024-05-24 02:05:19* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/crggn6j3d11o) · `si`
+
+මෙහි කිසිවක් අඩංගු නැත.වීඩියෝ ශීර්ෂ වැකිය, ''මට බයිසිකලේ වෙන ගමනක්වත් යන්න බෑ. පස්සෙන් දුවගෙන එනවා.''
+
+සුනඛයින් යනු වසර දහස් ගණනක සිට මිනිසා සමීපයේ සිටින සත්ත්වයෙකි.
+
+එහෙත් කිසිවෙකුගේ රැකවරණයක් නොමැතිව සුනඛයෝ විශාල පිරිසක් වීදිවල ජිවත් වෙති.
+
+එලෙස අම්පාරේ සිටින වීදී සුනඛයන් 150කට පමණ දිනපතා අහාර ලබා දෙන උප පොලිස් පරීක්ෂකවරයෙකු ගැන අපට අසන්නට ලැබිණි.
+
+''මම හැමදාම සේවය අවසන් වෙලා කෑම දෙනවා. කොච්චර වර්ෂාව ආවත් වරද්දන්නෙ නෑ. අවුරුදු 13ක් තිස්සේ මේක කරනවා. මේ සතුන්ට බඩගිනි දැනුනට කතා කරන්න බෑ. ජීවත්වෙලා ඉන්නකන් මගේ වියදමින් මේක කරනවා.'' යනුවෙන් උප පොලිස් පරීක්ෂක සරත් විජේසිංහ  BBC සිංහල සේවයට පැවසුවේය.
+
+◼️
+
+[Data](articles/5f829ed8.json)
 
 ---
 
@@ -2231,83 +2293,5 @@ When he went into the sea to fish in a tumbler, he fell into the sea and fell in
 [Data](articles/3f73b354.json)
 
 [Extended Data](ext_articles/3f73b354.ext.json)
-
----
-
-### Prime Minister Modi threatens to kill
-
-*2024-05-23 13:01:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரதமர்-மோடிக்கு-கொலை-மிரட்டல்/175-337764) · `ta`
-
-An anonymous caller threatened to kill PM Modi during a call to the NIA office in Chennai, speaking in Hindi before abruptly ending the conversation. This incident led to a complaint filed with the Chennai Cyber Crime Police, sparking investigations into the identity of the threatener. The context includes four militants linked to IS, traveling from Sri Lanka to India, raising concerns about potential attacks.
-
-🟩
-
-The mysterious person who contacted the NIA office in Chennai's Purasivakam has threatened to kill Prime Minister Modi.
-
-A mysterious person contacting the control room of the NIA office in Chennai. The mysterious person who spoke in Hindi and threatened to kill him, then cut off the link. NIA officials lodged a complaint with the Cyber ​​Crime Police of the Chennai Police.
-
-The Chennai police are investigating the incident in which Prime Minister Modi threatened to kill. Investigations have begun at various angles as to who the mysterious person who threatened the murder was intimidated.
-
-Four militants who traveled to Ahmedabad from Sri Lanka to Chennai airport to carry out an attack in Gujarat three days ago. All four were in contact with IS militants. It is in this situation that Prime Minister Modi has been threatened with murder.
-
-◼️
-
-[Data](articles/78b0dbba.json)
-
-[Extended Data](ext_articles/78b0dbba.ext.json)
-
----
-
-### Sri Lanka plans golf course in Chilaw
-
-*2024-05-23 12:56:00* · [`economynextcom`](https://economynext.com/sri-lanka-plans-golf-course-in-chilaw-164424/) · `en`
-
-ECONOMYNEXT- Sri Lanka is planning a golf course in Chilaw as part of an overall strategy to develop a tourism hub in the Chilaw-Iranawila area, Cabinet Spokesman, Bandula Gunawardana said.
-
-“Iranawila and Chilaw will be developed as a tourism hub,” Gunawardana on Thursday.
-
-Sri Lanka already has several golf course in Colombo, Kandy and Nuwara Eliya.
-
-Sri Lanka has five 18-hole golf courses and several 9-hole golf courses and is currently promoting itself as a destination for golf tourism.
-
-A connecting road will also be built between Chilaw and Bingiriya where and export zone is being expanded, Minister Gunawardana said.
-
-The task of developing the Chilaw-Iranawila tourism hub will be handed over to a task force charged with the integrated development plan for Bingiriya. (Colombo/May23/2024)
-
-◼️
-
-[Data](articles/3d4b743c.json)
-
-[Extended Data](ext_articles/3d4b743c.ext.json)
-
----
-
-### Several districts. Heavy rains exceeding 150 bee
-
-*2024-05-23 12:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196932) · `si`
-
-Heavy rains exceeding 150mm expected across several districts due to the southwest monsoon. Showers/thunderstorms forecasted in Western, Sabaragamuwa, Central, North Western, Southern, and Northern provinces. Some areas may receive over 100mm rainfall. Strong winds of 30-40 km/h anticipated in other regions.
-
-🟩
-
-The southwest monsoon monsoon is further expecting the rain and wind condition.
-
-The Department of Meteorological Department announced that there could be rains in some 150 mm.
-
-Showers or thundershowers will occur at times in the Western, Sabaragamuwa, Central, North Western, Southern and Northern provinces.
-
-In some places, there are Heavy showers over 100 mm mm.
-
-Showers or thundershowers will occur at several places elsewhere in the country.
-
-The Triangle in the western slopes of the central hills and in the North, North Central, Southern and North-Western, Southern and North-Western Provinces.
-
-In the rest of the island, there may be 30 - 40 strong winds.
-
-◼️
-
-[Data](articles/41c9fe3c.json)
-
-[Extended Data](ext_articles/41c9fe3c.ext.json)
 
 ---

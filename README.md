@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-24 06:58:17**
+As of **2024-05-24 07:19:29**
 
 ## Newspaper Stats
 
-*Scraped **25,989** Articles*
+*Scraped **25,998** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 232
 dbsjeyarajcom | 259
 bbccomsinhala | 262
 newsfirstlk | 363
-islandlk | 1,401
+islandlk | 1,410
 economynextcom | 1,497
 dailyftlk | 1,533
 adalk | 2,223
@@ -26,11 +26,39 @@ adaderanasinhalalk | 4,149
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25,987 (100.0%) of 25,989 articles have been extended.
+25,989 (100.0%) of 25,998 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-24 (Friday)
+
+### Ceylinco Life launches ‘Medical Saver’ plan to cover medical expenses of senior citizens
+
+*2024-05-24 04:00:00* · [`islandlk`](http://island.lk/ceylinco-life-launches-medical-saver-plan-to-cover-medical-expenses-of-senior-citizens/) · `en`
+
+A timely medical cum life insurance plan that enables a policyholder to build up a medical fund that can pay for medical needs for up to 20 years after the original plan matures, has been launched by Ceylinco Life in response to the evolving needs of the market.
+
+‘Ceylinco Life Medical Saver’ is positioned as the first health insurance plan in the country to cover medical needs of today, tomorrow, and beyond policy maturity. It offers local and global hospitalisation cover for reimbursement of medical and surgical expenses; life cover with supplementary benefits for the term of the policy; and saving for future medical expenses after policy maturity, creating a backup health fund for medical needs during retirement.
+
+...
+
+[Data](articles/66adee38.json)
+
+---
+
+### AIA Insurance expands reach with the grand opening of Bandarawela Regional Development Office
+
+*2024-05-24 03:59:00* · [`islandlk`](http://island.lk/aia-insurance-expands-reach-with-the-grand-opening-of-bandarawela-regional-development-office/) · `en`
+
+May 22nd 2024 – AIA Insurance proudly announces the inauguration of its newest Regional Development Office (RDO) in the heart of the Bandarawela City, located at No. 451, Badulla Road. This milestone marks another significant stride in AIA’s commitment to extending its distribution network and delivering unparalleled insurance experiences to the community.
+
+With a vision to empower the people of Bandarawela with comprehensive insurance solutions, the newly launched office is equipped with state-of-the-art facilities and staffed by a team of experienced insurance professionals. Customers can expect personalised service tailored to their needs, covering a diverse range of offerings including life insurance, health insurance, retirement plans, and investment solutions.
+
+...
+
+[Data](articles/44db326a.json)
+
+---
 
 ### Sri Lanka Tourism performs a successful stint at the Arabian Travel Market – 2024 in Dubai, UAE
 
@@ -43,6 +71,8 @@ Sri Lanka Tourism Promotion Bureau (SLTPB) has been participating at this event 
 ...
 
 [Data](articles/05096e4b.json)
+
+[Extended Data](ext_articles/05096e4b.ext.json)
 
 ---
 
@@ -116,19 +146,67 @@ The protesters said, "Taitti is our property, the Tamil homeland of the North an
 
 ---
 
-### ஜனாதிபதி இன்று வடக்குக்கு விஜயம்
+### President visits the North today
 
 *2024-05-24 02:44:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-இன்று-வடக்குக்கு-விஜயம்/175-337801) · `ta`
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்க பல்வேறு நிகழ்வுகளில் கலந்துகொள்வதற்காக இன்று வடக்குக்கு விஜயம் மேற்கொள்கின்றார்.
+President Ranil Wickremesinghe is in the North for three days, issuing land licenses in Jaffna, Mullaitivu, Kilinochchi, and Vavuniya. He also opens a Women's Health Unit at Kilinochchi Hospital.
 
-3 நாட்கள் விஜயமாக வடக்கு வரும் ஜனாதிபதி ரணில் விக்கிரமசிங்க, யாழ்ப்பாணம், முல்லைத்தீவு, கிளிநொச்சி மற்றும் வவுனியா மாவட்டங்களில் உரித்து தேசிய வேலைத்திட்டத்தின் கீழ் காணி உரிமங்களை வழங்கி வைக்கவுள்ளார்.
+🟩
 
-இதேவேளை, கிளிநொச்சி வைத்தியசாலையில் பெண்கள் சுகாதாரப் பிரிவொன்றும் ஜனாதிபதியால் திறந்து வைக்கப்படவுள்ளது. (a)
+President Ranil Wickremesinghe is visiting the North today to attend various events.
+
+President Ranil Wickremesinghe, who arrives in the North for 3 days, will be issued land licenses under the National Program in Jaffna, Mullaitivu, Kilinochchi and Vavuniya districts.
+
+Meanwhile, a Women's Health Unit will be opened by the President at the Kilinochchi Hospital. (A)
 
 ◼️
 
 [Data](articles/8d654a38.json)
+
+[Extended Data](ext_articles/8d654a38.ext.json)
+
+---
+
+### Sri Lankan business leader Gowri Rajan to speak at the Rotary Foundation Donor Summit in Singapore
+
+*2024-05-24 02:21:00* · [`islandlk`](http://island.lk/sri-lankan-business-leader-gowri-rajan-to-speak-at-the-rotary-foundation-donor-summit-in-singapore/) · `en`
+
+The sought after Rotary event globally is the annual convention where networking and learning comes together. The 2024 Convention will attract over twenty five thousand Rotary members across the world to the beautiful city of Singapore. Some describe the event as a Mini United Nations given the International scope and commitment to cultural diversity where global leaders come together to find solutions to the challenges that the world is experiencing.
+
+Sri Lankan first female Governor for Rotary in Sri Lanka and Maldives  has been selected to be a speaker at the Rotary Foundation Donor Summit to be held at the annual Convention . The Rotary International President Gordon Maccinally has themed the year as ‘ Create Hope with the World.
+
+Ms Gowri Rajan an award winning business professional is the Director of Sun Match Company based in Kundasale, Kandy that is the market leader in the category of safety matches and today is a diversified conglomerate
+
+...
+
+[Data](articles/ff484995.json)
+
+---
+
+### Sri Lanka Insurance Corporation General Limited hosts General Insurance Summit 2023 celebrating excellence
+
+*2024-05-24 02:20:00* · [`islandlk`](http://island.lk/sri-lanka-insurance-corporation-general-limited-hosts-general-insurance-summit-2023-celebrating-excellence/) · `en`
+
+Sri Lanka Insurance Corporation General Limited (SLICGL) recently hosted a highly anticipated General Insurance Summit 2023, themed ‘Unveiling Excellence – A New Era Unfolds’. The flagship two-day event held from 22nd to 23rd March 2024 at Jetwing Blue, Negombo provided a platform to honour top-performing sales staff and key employees for their exceptional contributions to achieving revenue targets during a successful six-month sales drive.
+
+The residential summit fostered interactions, knowledge enhancement and skill development among participants. With a diverse range of objectives and activities, the summit aimed to elevate the capabilities and morale of attendees while acknowledging their hard work and dedication within SLICGL’s operations.
+
+...
+
+[Data](articles/c01cd11a.json)
+
+---
+
+### Stakeholders’ meeting to implement Green Entrepreneurship program held
+
+*2024-05-24 02:20:00* · [`islandlk`](http://island.lk/stakeholders-meeting-to-implement-green-entrepreneurship-program-held/) · `en`
+
+Ruwan Wijewardene, Senior Advisor to the President on Climate Change, with a vision of developing a large number of country’s youth to be the Green Entrepreneurs for Mangrove development and restoration, called a meeting of all the stakeholders early last week to further concretise the idea and develop a road map for action. He introduced the subject by emphasising that he would like to see development and environmental conservation go hand-in-hand, without being in conflict with each other.
+
+...
+
+[Data](articles/c5a83695.json)
 
 ---
 
@@ -2219,119 +2297,5 @@ Sulivan said that Israel could avoid being isolated internationally by promoting
 [Data](articles/d93ce94e.json)
 
 [Extended Data](ext_articles/d93ce94e.ext.json)
-
----
-
-### Car accident on Bogawantalawa main road;Two persons, including a small child, are allowed in hospital
-
-*2024-05-23 12:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/184294) · `ta`
-
-A car crash on Bogawantalawa's main road injured two passengers, including a child, and sent them to Dikoya Hospital due to heavy rain.
-
-🟩
-
-A car crashed off the road at around 4 pm on Wednesday (22) at the Bogawantalawa main road in Bogawantala.
-
-Norwood police said that two people, including a small child who was traveling in the car, were injured and admitted to the Dikoya Hospital.
-
-Norwood police said the accident was caused by heavy rains and is conducting further investigations.
-
-◼️
-
-[Data](articles/1c73bca8.json)
-
-[Extended Data](ext_articles/1c73bca8.ext.json)
-
----
-
-### Badulla - Colombo Rail Service
-
-*2024-05-23 12:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/184291) · `ta`
-
-Railway service between Badulla and Colombo Fort halted due to tree collapse near Diyathalawa. Trains stopped at Bandarawela and Haputtala stations. Military removing fallen trees; inclement weather blamed.
-
-🟩
-
-The Railway Department said that the railway service between the Badulla and the Colombo Fort has been blocked due to the collapse of massive turpentine trees on the railway line between Diyathalawa - Haputtalai and Diyathalawa - Bandarawa.
-
-As a result, the "Udaratta Menige" train from Badulla to Colombo Fort has been stopped at the Bandarawela railway station and the night posting from Colombo Fort to Badulla at Haputtala railway station.
-
-The Railway Department said that the trees have fallen on the railway line with inclement weather and the Diyathalawa military authorities are engaged in the removal of trees that have fallen on the railway track.
-
-◼️
-
-[Data](articles/f6006d21.json)
-
-[Extended Data](ext_articles/f6006d21.ext.json)
-
----
-
-### Over 36,000 breakdowns during last three days: Minister
-
-*2024-05-23 12:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Over-36-000-breakdowns-during-last-three-days-Minister/108-283248) · `en`
-
-Colombo, May 23 (Daily Mirror)- The Ceylon Electricity Board (CEB) has reported over 36,900 breakdowns resulting in power interruptions to more than 300,000 consumers in the last three days due to the inclement weather, Power and Energy Minister Kanchana Wijsekara said today.
-
-He said in a statement on X that additional service staff has been assigned to attend to the breakdowns and the CEB management and service staff are working 24 hours to restore power to the affected consumers.
-
-"If consumers are unable to repot power interruptions through the CEB hotline 1987, they can use the SMS option to 1987 with BD and the electricity consumer number to follow, use the CEB Care app or through http://cebcare.ceb.lk," he said.
-
-◼️
-
-[Data](articles/a95dc7aa.json)
-
-[Extended Data](ext_articles/a95dc7aa.ext.json)
-
----
-
-### The budget will be presented in January or February as the election is due - the President
-
-*2024-05-23 11:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/184288) · `ta`
-
-The President plans to present the budget in January or February, aiming for economic recovery post-elections. IMF representatives visit in June for a project starting with the 2025 budget. Economic improvement efforts include negotiations with lenders and implementing measures like legalizing the National Security Council and improving retired security personnel's lives.
-
-🟩
-
-Representatives of the International Monetary Fund are coming to Sri Lanka in June. The project will be implemented with the 2025 budget after the negotiations are completed. President Ranil Wickremesinghe said the budget would be presented in January or February as the elections were held.
-
-He further stated that he was speaking at the inauguration of the Headquarters of the former Sri Lankan Veterans Association, which was built at the Ministry of Defense, Battaramulla Akuregoda, Battaramulla.
-
-His first task was to strengthen the country's economy after taking over the country. In the coming four years, the resolutions to be taken for the economy of the country had to be quickly. The country is currently improveing economically. Negotiations are now being negotiated with the countries that have been lenting over the full relief from the bankruptcy.  The International Monetary Fund has already accepted the ongoing tasks.
-
-...
-
-[Data](articles/58039847.json)
-
-[Extended Data](ext_articles/58039847.ext.json)
-
----
-
-### Wild elephant walk for the 2nd day in Mannar and Murugan
-
-*2024-05-23 11:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/184280) · `ta`
-
-For the second consecutive day, a wild elephant roams Mannar Murugan, causing panic among locals. Authorities and MPs urged to relocate it swiftly to safeguard lives and livelihoods.
-
-🟩
-
-Blessed by State Officers and MPs have demanded that state officials and MPs come forward to evacuate the wild elephant for the second day on Thursday (23) this morning in the Mannar Murugan area.
-
-A wild elephant is walking for the second day on Thursday (23) this morning in the Mannar Murugan area.
-
-The elephant wandered around the area on Wednesday morning (22).
-
-In the meantime, this morning (23), the people are walking for the second day in the area where people are walking.
-
-The elephant should be immediately taken from the area and taken to a place where the authorities should take swift measures.
-
-The elephant is now in a state of impact on the livelihood of the people in the area. In this regard, the Nanatan Divisional Secretary should also take swift measures in view of the welfare of the people.
-
-We immediately contacted the Mannar District Government Agent and informed the incident.
-
-...
-
-[Data](articles/765ae38e.json)
-
-[Extended Data](ext_articles/765ae38e.ext.json)
 
 ---

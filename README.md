@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-25 23:03:54**
+As of **2024-05-25 23:18:41**
 
 ## Newspaper Stats
 
-*Scraped **26,236** Articles*
+*Scraped **26,238** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 363
 islandlk | 1,417
 economynextcom | 1,504
 dailyftlk | 1,533
-adalk | 2,234
-adaderanalk | 3,012
+adalk | 2,235
+adaderanalk | 3,013
 tamilmirrorlk | 3,060
 virakesarilk | 4,005
 dailymirrorlk | 4,146
@@ -26,25 +26,55 @@ adaderanasinhalalk | 4,201
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,234 (100.0%) of 26,236 articles have been extended.
+26,236 (100.0%) of 26,238 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-25 (Saturday)
 
-### මාවනැල්ලේ කලබල කළ සද්ධන්තයා - ඇත්ගොව්වාට බරපතළයි
+### India games arcade fire kills 22 including children
+
+*2024-05-25 22:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/99436/india-games-arcade-fire-kills-22-including-children) · `en`
+
+At least 22 people have died in a “massive fire” at a games arcade in India, local officials say.
+
+Several victims are reported to be children, according to local media.
+
+Flames and a huge pall of smoke could be seen rising into the sky at the building in Rajkot, in the western state of Gujarat.
+
+The fire is now under control and a search has been launched. There are fears more victims may be trapped under the wreckage, including children.
+
+Local police said that identification of the heavily burned bodies had proven difficult.
+
+The cause of the fire has yet to be determined. Gujarat Chief Minister Bhupendra Patel said a “special investigation team” had been assigned.
+
+India’s Prime Minister Narendra Modi said he was “extremely distressed” by the fire in Rajkot and said his thoughts were with those who had lost loved ones.
+
+◼️
+
+[Data](articles/635f2e8f.json)
+
+---
+
+### Panthaya who worked in Mawanella - elephant is serious
 
 *2024-05-25 22:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197010) · `si`
 
-එලෙස කුලප්පූ වූ ඇතාගේ පහරදීමෙන් බරපතළ තුවාල ලැබූ ඇත්ගොව්වා මාවනැල්ල මූලික රෝහලට ඇතුළත් කර ඇත.
+An elephant from the Dalada Maligawa in Kandy attacked Panthaya in Mawanella, seriously injuring him. The elephant was brought to the Mawanella Base Hospital under tight security.
 
-එම ඇතා මහනුවර දළදා මාලිගාවේ ඇත් පන්තියට අයත් රාජා නම් ඇතා බව අප වාර්තාකරු පැවසීය.
+🟩
 
-අප වාර්තාකරු පැවසුවේ කලබලයට පත්ව මාවනැල්ල නගරයට පැමිණි ඇතා මේ වනවිට විශේෂ ආරක්ෂාවක් යටතේ පොළ භූමියේ රඳවා ඇති බවය.
+The attack has been admitted to the Mawanella Base Hospital with the attack.
+
+According to our correspondent, the elephant belonging to the elephant of the Dalada Maligawa in Kandy Kandy.
+
+Our correspondent said that he had come to Mawanalena and arrived in Mawanella to a special security.
 
 ◼️
 
 [Data](articles/cf76115c.json)
+
+[Extended Data](ext_articles/cf76115c.ext.json)
 
 ---
 
@@ -699,6 +729,22 @@ He has effectively advocated many top and most popular court cases in Sri Lanka.
 [Data](articles/1fc6c32a.json)
 
 [Extended Data](ext_articles/1fc6c32a.ext.json)
+
+---
+
+### අද රාත්‍රි බදුල්ල දුම්රිය අවලංගුයි
+
+*2024-05-25 16:36:20* · [`adalk`](https://www.ada.lk/breaking_news/අද-රාත්‍රි-බදුල්ල-දුම්රිය-අවලංගුයි/11-409819) · `si`
+
+අයහපත් කාලගුණික තත්ත්වය හේතුවෙන් උඩරට දුම්රිය මාර්ගයට ගස්, ගල්,සමග පස් කඳු  කඩාවැටීමේ අවදානම සැලකිල්ලට ගෙන අදත් 25 රාත්‍රී  කොළඹ බදුල්ල අතර රාත්‍රී දුම්රියයන් හතරක්  ධාවනය අවලංගු කළ බව දුම්රිය පාලක මැදිරිය පැවසීය.
+
+විශේෂයෙන් කොළඹ බදුල්ල සහ බදුල්ල කොළඹ කොටුව රාත්‍රියේ තැපැල් දුම්රියන් දෙක සහ බදුල්ල කොළඹ සහ කොළඹ බදුල්ල රාත්‍රී විශේෂ දුම්රියන් දෙකද  ධාවනය  වීම අවලංගු කළ බව  නාවලපිටිය දුම්රිය පාලක මැදිරිය පැවසීය.
+
+හදිසි ආපදා තත්ත්වයන්හිදී දුම්රිය මගීන්ට ඇතිවන අවදානම් තත්ත්වය සහ අතරමග දුම්රිය නතර කිරීමට සිදුවුවහොත් මගීන්ට සිදුවන අපහසුතා සැලකිල්ලට ගෙන මෙම තීරණය ගත් බවද දුම්රිය දෙපාර්තමේන්තුවේ උසස් නිලධාරියකු පැවසීය.
+
+◼️
+
+[Data](articles/4e89bcac.json)
 
 ---
 
@@ -2174,6 +2220,8 @@ When Antony Jesurathnam Mariapushparani, 62, recalls the horrific final days of 
 
 [Data](articles/7dbb9ab8.json)
 
+[Extended Data](ext_articles/7dbb9ab8.ext.json)
+
 ---
 
 ### Vesak Annual Event by the All Ceylon Jewelry Merchants Association
@@ -2261,41 +2309,5 @@ The ‘Mothers of the Disappeared’ was a coming together of female Sinhalese, 
 [Data](articles/1a55a6b9.json)
 
 [Extended Data](ext_articles/1a55a6b9.ext.json)
-
----
-
-### God won’t change your destiny until you change yourself
-
-*2024-05-25 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/God-wont-change-your-destiny-until-you-change-yourself/172-283320) · `en`
-
-Despite President Wickremesinghe yet to officially announce his candidature the prospect of him contesting is increasing
-
-Following the Election Commission’s announcement on May 9 that the Presidential election would be held between September 17 and October 16, President Ranil Wickremesinghe  informed the Cabinet on Wednesday that only the said election would be held this year putting an end to speculations that Parliament might be dissolved before the Presidential election.
-
-However, the race for the top most post started months ago with the Jathika Jana Balawegaya (JJB) or the National People’s Power (NPP) and the Samagi Jana Balawegaya (SJB), the apparent two front-runners having commenced their campaigns in a huge way. They have been organising public meetings for various interest groups such as women, farmers and retired armed forces personnel with large crowds attending.
-
-...
-
-[Data](articles/2a641d03.json)
-
-[Extended Data](ext_articles/2a641d03.ext.json)
-
----
-
-### Sajith-Anura Debate, that never happened
-
-*2024-05-25 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Sajith-Anura-Debate-that-never-happened/172-283317) · `en`
-
-Sajith, with his haphazardly acquired knowledge, lacked the courage to face Anura directly.
-
-Both leaders should be held responsible for sabotaging the debate. They repeated their 2022 strategy of evading responsibility by refusing to address the task of revitalizing the bankrupt economy. However, they deserve commendation for declining the offer, as they had the wisdom to recognize the enormity of the challenge, and acknowledging it as beyond their capabilities.
-
-A single pivotal moment or a well-made point can indeed have a significant impact on the
-
-...
-
-[Data](articles/d179f449.json)
-
-[Extended Data](ext_articles/d179f449.ext.json)
 
 ---

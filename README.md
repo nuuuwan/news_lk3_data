@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-25 09:18:29**
+As of **2024-05-25 09:34:04**
 
 ## Newspaper Stats
 
-*Scraped **26,154** Articles*
+*Scraped **26,155** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ adaderanalk | 2,999
 tamilmirrorlk | 3,052
 virakesarilk | 3,992
 dailymirrorlk | 4,128
-adaderanasinhalalk | 4,178
+adaderanasinhalalk | 4,179
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,154 (100.0%) of 26,154 articles have been extended.
+26,154 (100.0%) of 26,155 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-25 (Saturday)
+
+### කටුකුරුන්ද ඝාතනය ට තිදෙනෙක් අත්අඩංගුවට
+
+*2024-05-25 09:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196986) · `si`
+
+වෙඩි තබා පුද්ගලයෙකු ඝාතනය කිරීම සම්බන්ධ‍‍යෙන් සැකකරුවන් තිදෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
+
+පසුගිය 20 වනදා රාත්‍රී කාලයේ දී කටුකුරුන්ද ප්‍රදේශයේ දී යතුරුපැදියකින් පැමිණි නාඳුනන පුද්ගලයින් දෙදෙ‍ෙනකු විසින්  නිවසක සිටි පුද්ගලයෙකුට ‍වෙඩි තබා ඝාතනය කර පළා ගොස් තිබුණි.
+
+ඒ අනුව කළුතර කොට්ඨාස අපරාධ විමර්ශන අංශයේ නිලධාරීන් විසින් සිදුකළ විමර්ශනයකට අනුව මෙම සැකකරුවන් ති‍දෙනා අත්අඩංගුවට ගත් බව පොලීසිය පවසයි.
+
+ඊයේ (24) සවස පැලපිටියාගොඩ හා නුගේගොඩ ප්‍රදේශවලදී  මෙම සැකකරුවන් අත්අඩංගුවට ‍ගෙන තිබේ.
+
+සැකකරුවන් 24, 39, 41 යන වයස්වල පසුවන තෙඹුවන හා මොරොන්තුඩුව ප්‍රදේශවල පදිංචිකරුවන් බව පොලීසිය පවසයි.
+
+වැඩිදුර විමර්ශන වලදී ‍මොවුන් සතුව තිබී ක්‍රියාකාරී නොමැති ටී 56 වර්ගයේ ගිනි අවියක්, හිස් පතරොම් ගැබ් 2ක්, ජීව පතරොම් 4ක්, කේරළ ගංජා කිලෝග්‍රෑම් 1ක්, මත්ද්‍රව්‍ය ජාවාරමෙන් උපයා ගත් බවට සැක කරන මුදල් රුපියල් 340,000ක් හා කාර් රථයක් ද පොලිස් භාරයට ‍ගෙන ඇත.
+
+◼️
+
+[Data](articles/76c25890.json)
+
+---
 
 ### Yupun Abeykoon wins at Anhalt Athletic Championship
 
@@ -2259,31 +2281,5 @@ Due to the increase in the southwest monsoon wind stream through the island, the
 [Data](articles/bba51bce.json)
 
 [Extended Data](ext_articles/bba51bce.ext.json)
-
----
-
-### Rail signal system disorder: traffic impact!
-
-*2024-05-24 12:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/184367) · `ta`
-
-Traffic in the hill station is severely affected due to rail signal system disorder caused by mud, stones, and trees on the railway line. The signal system between Italgasinna, Ohia, Ambewela, and Patipola stations is blocked, leading to delays and cancellations of night post trains between Colombo-Badulla and vice versa. Today's special train service is also canceled.
-
-🟩
-
-Traffic of the hill station has been hit hard since Friday morning.
-
-The railway department said that the train is delayed due to mud, stones and trees on the railway line.
-
-The signal system between Italgasinna, Ohia, Ambewela and Patipola railway stations has been blocked.
-
-In addition, it has been decided to cancel night post trains between Colombo - Badulla and Badulla and Colombo.
-
-The Railway Department said that today's special train service has been canceled.
-
-◼️
-
-[Data](articles/e6f9093e.json)
-
-[Extended Data](ext_articles/e6f9093e.ext.json)
 
 ---

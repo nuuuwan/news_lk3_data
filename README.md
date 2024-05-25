@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-25 18:52:09**
+As of **2024-05-25 19:03:45**
 
 ## Newspaper Stats
 
-*Scraped **26,220** Articles*
+*Scraped **26,224** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,99 @@ islandlk | 1,417
 economynextcom | 1,504
 dailyftlk | 1,533
 adalk | 2,234
-adaderanalk | 3,009
+adaderanalk | 3,011
 tamilmirrorlk | 3,058
 virakesarilk | 4,005
 dailymirrorlk | 4,143
-adaderanasinhalalk | 4,194
+adaderanasinhalalk | 4,196
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,213 (100.0%) of 26,220 articles have been extended.
+26,220 (100.0%) of 26,224 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-25 (Saturday)
+
+### කොළඹ කඩාවැටෙන දැවැන්ත ගස් ගැන හෙළිදරව්වක්
+
+*2024-05-25 18:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197005) · `si`
+
+පවතින අයහපත් කාලගුණ තත්ත්වයේ හේතුවෙන් කොළඹ ප්‍රදේශයේ කඩාවැටුණු ගස්වලින් බොහෝ සංඛ්‍යාවක් අවදානම් තත්ත්වයේ නොතිබූ ඒවා බවට තොරතුරු අනාවරණය වී ඇති බව කොළඹ මහනගර සභාව පවසයි.
+
+වසර 50ත් 150ත් අතර පැරණි ගස් 200කට ආසන්න සංඛ්‍යාවක් අවදානම් තත්ත්වයේ ඒවා බවට කොළඹ මහනගර සභාව සිදුකළ විමර්ශනයක දී තොරතුරු අනාවරණය විය.
+
+එම ගස්වලින් බොහෝ ප්‍රමාණයක් කද දිරායාම හේතුවෙන් කඩාවැටීමේ අවදානමට ලක්වී තිබු ඒවා බව කොළඹ මහනගර සභාව තවදුරටත් සඳහන් කළේය.
+
+එලෙස හඳුනාගත් ගස්වලින් ගස් 100කට අධික සංඛ්‍යාවක් කපා ඉවත් කිරීමට පියවර ගත් අතර අනෙකුත් ගස්වල අතු කප්පාදු කිරීමට පියවර ගනු ලැබීය.
+
+කෙසේවෙතත් නිරිත දිග මෝසම් තත්ත්වය සමග පවතින සුළං තත්ත්වය හේතුවෙන් මේ වනවිට කොළඹ මහනගර සීමාව තුළ ගස් 50ක් පමණ කඩා වැටී ඇති බව වාර්තා වෙයි.
+
+එහෙත් එම කඩා වැටුණු කිසිඳු ගසක් මීට පෙර හඳුනාගත් අවදානම් සහිත තත්ත්වයේ ඒවා නොවන බව කොළඹ මහ නගර සභාව සඳහන් කළේය.
+
+ඒ සම්බන්ධයෙන් සිදුකළ විමර්ශනයක දී අනාවරණය වී ඇත්තේ එම ගස්වලින් බොහෝ සංඛ්‍යාවක් සුළං තත්ත්වය හේතුවෙන් මුලෙන් ඉදිරී ගොස් කඩා වැටී ඇති බවය.
+
+...
+
+[Data](articles/157bda71.json)
+
+---
+
+### Motorists using  expressways cautioned
+
+*2024-05-25 18:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/99434/motorists-using-expressways-cautioned-) · `en`
+
+The Road Development Authority (RDA) has informed motorists using the expressways to maintain at least a 50-meter distance between vehicles while driving, owing to the adverse weather conditions prevailing across the country.
+
+The RDA says it has taken steps to display the warnings on electronic display boards and urges the motorists to strictly follow them.
+
+Meanwhile, authorities also notify motorists not to exceed the speed limits displayed on the electronic display boards on each of the expressways.
+
+◼️
+
+[Data](articles/26d98ecd.json)
+
+---
+
+### කොළඹ - නුවර ප්‍රධාන මාර්ගයේ පහළ කඩුගන්නාව ගැන තීරණයක්
+
+*2024-05-25 18:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197004) · `si`
+
+කොළඹ - නුවර ප්‍රධාන මාර්ගයේ පහළ කඩුගන්නාව ප්‍රදේශයේ මාර්ගයට ඉහළින් ඇති අවදානම් සහිත විශාල ගල් කිහිපයක් ඉවත් කිරීමට ඉදිරි දින කිහිපයේදී සිදු කිරීමට නියමිතය.
+
+ඒ, හේතුවෙන් මෙම මාර්ගය භාවිත කරන රියදුරන්ට විකල්ප මාර්ග භාවිත කරන ලෙස රාජ්‍ය අමාත්‍ය කනක හේරත් මහාතා රියදුරන්ගෙන් ඉල්ලා සිටී.
+
+රාජ්‍ය අමාත්‍යවරයා ඒ බව පැවසුවේ අද එම ස්ථානට ගොස් ස්ථානීය පරික්ෂණයක් සිදුකිරීමෙන් අනතුරුවය.
+
+පසුගිය 23 වනදා මෙම මාර්ගයට විශාල ගසක් කඩාවැටීමෙන් පසු එම ප්‍රදේශය පිළිබඳ පරීක්ෂණය සිදුකර තිබුණි.
+
+එහිදී නිරික්ෂණය වී තිබුණේ මාර්ගයට ඉහළින් දැඩි අවදානම් සහිත ගල් කුට්ටි කිපයක් හා විශාල ගස් කිහියක්ද අවදානම් තත්ත්වයේ ඇති බවය.
+
+◼️
+
+[Data](articles/33c40742.json)
+
+---
+
+### Several roads in Colombo closed for traffic tonight due to bad weather
+
+*2024-05-25 18:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/99433/several-roads-in-colombo-closed-for-traffic-tonight-due-to-bad-weather) · `en`
+
+Sri Lanka Police says it has been decided to close several roads in Colombo for traffic tonight (25) in order to avoid repetition of the incidents during the last two days due to the current weather conditions.
+
+Accordingly, Police Media Spokesman DIG Nihal Thalduwa said that Braybrooke Place, Cemetry Roundabout in Borella to Tummulla Junction, Bauddhaloka Mawatha, and the stretches of road from Dr. Lester James Peiris Mawatha to Rotunda Junction in Colombo 03 will remain closed for traffic tonight.
+
+Several incidents of trees falling, damages to vehicles and disruptions to traffic movement had been reported in Colombo during the last few days owing to the prevailing inclement weather conditions.
+
+Colombo traffic plan - Police report by Adaderana Online on Scribd
+
+◼️
+
+[Data](articles/190f22bc.json)
+
+---
 
 ### Several roads in Colombo closed tonight due to bad weather
 
@@ -46,23 +124,31 @@ Several incidents of trees falling, damages to vehicles and disruptions to traff
 
 [Data](articles/864aefe2.json)
 
+[Extended Data](ext_articles/864aefe2.ext.json)
+
 ---
 
-### உங்களுக்குத் தெரியுமா?
+### Do you know?
 
 *2024-05-25 18:19:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உங்களுக்குத்-தெரியுமா/175-337834) · `ta`
 
-குற்றப் புலனாய்வுப் பிரிவினரால் மேற்கொள்ளப்படும் விசேட விசாரணையின் தொடர்பில் தேடப்பட்டு வரும் சந்தேகநபர் ஒருவரைக் கைதுசெய்வதற்கு 2 மில்லியன் ரூபாய் சன்மானமாக அறிவித்துள்ளது.
+A reward of 2 million rupees is offered for the arrest of suspect Gerath Pushparajah Osman Gerad, wanted by the Criminal Investigation Department. The public is urged to share any information leading to his capture, contacting CID Director at 071-8591753 or OIC at 071-8591774.
 
-சந்தேக நபரான தெமட்டகொட பகுதியைச் சேர்ந்த ஜெராட் புஷ்பராஜா ஒஸ்மான் ஜெராட் என்பவரைக் கைது செய்வதற்கு பொலிஸார் பொதுமக்களின் உதவியை நாடியுள்ளனர்.
+🟩
 
-பொலிஸார் சந்தேக நபரின் புகைப்படத்தை வெளியிட்டதுடன், சந்தேக நபர் குறித்த தகவல்களை பின்வரும் தொலைபேசி இலக்கங்களுக்கு வழங்குமாறு பொதுமக்களிடம் கோரிக்கை விடுக்கின்றனர்:
+2 million rupees has been announced to arrest a suspect, who is searching for a special investigation by the Criminal Investigation Department.
 
-பணிப்பாளர் (CID) 071-8591753 அல்லது குற்றப் புலனாய்வுத் திணைக்களத்தின் OIC 071- 8591774 ஊடாக தகவல் தரலாம்
+The police have sought the help of the public to arrest the suspect, Gerath Pushparajah Osman Gerad, a suspect, Dematagoda.
+
+Police have released a photo of the suspect and request the public to provide information about the suspect to the following telephone numbers:
+
+Director (CID) can be informed via 071-8591753 or Criminal Investigation Department OIC 071- 8591774
 
 ◼️
 
 [Data](articles/eb433b06.json)
+
+[Extended Data](ext_articles/eb433b06.ext.json)
 
 ---
 
@@ -82,37 +168,51 @@ The DMC requests those living in low-lying areas along the above reservoirs to b
 
 [Data](articles/ff3d0182.json)
 
+[Extended Data](ext_articles/ff3d0182.ext.json)
+
 ---
 
-### அனர்த்தங்களால் உயிரிழந்தவர்களின் எண்ணிக்கை அதிகரிப்பு
+### Increase in the number of casualties due to disasters
 
 *2024-05-25 18:15:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அனர்த்தங்களால்-உயிரிழந்தவர்களின்-எண்ணிக்கை-அதிகரிப்பு/175-337833) · `ta`
 
-பலத்த மழையுடனான வானிலையால் ஏற்பட்ட அனர்த்தங்களில் உயிரிழந்தோரின் எண்ணிக்கை 7 ஆக அதிகரித்துள்ளதுடன், 13 பேர் காயமடைந்துள்ளனர்.
+Heavy rains have led to 7 deaths and 13 injuries, affecting 45,344 individuals across 12,197 families in 18 districts, with Puttalam being the hardest hit. A landslide warning covers seven districts, including Colombo and Kandy.
 
-மேலும், 18 மாவட்டங்களில் 12,197 குடும்பங்களை சேர்ந்த 45,344 பேர் பாதிக்கப்பட்டுள்ளதாக இடர் முகாமைத்துவ மத்திய நிலையம் தெரிவித்துள்ளது.
+🟩
 
-புத்தளம் மாவட்டமே அதிகளவில் பாதிக்கப்பட்டுள்ளதுடன், அங்கு 3455 குடும்பங்களை சேர்ந்த 11,815 பேர் பாதிக்கப்பட்டுள்ளதாக நிலையம் குறிப்பிட்டுள்ளது.
+The death toll from the weather caused by heavy rains has risen to 7 and 13 people have been injured.
 
-இதேவேளை கொழும்பு, கம்பஹா, களுத்துறை, கண்டி, கேகாலை, நுவரெலியா, இரத்தினபுரி ஆகிய 7 மாவட்டங்களின் சில பிரதேச செயலக பிரிவுகளுக்கு விடுக்கப்பட்ட மண்சரிவு அபாய எச்சரிக்கை தொடர்ந்தும் நீடிக்கப்பட்டுள்ளது. R
+In addition, 45,344 people from 12,197 families in 18 districts have been affected, the Risk Management Center said.
+
+The Puttalam district is the most affected and 11,815 people from 3455 families have been affected.
+
+Meanwhile, a landslide hazard warning has been extended to some of the seven districts of Colombo, Gampaha, Kalutara, Kandy, Kegalle, Nuwara Eliya and Ratnapura.. Remble
 
 ◼️
 
 [Data](articles/cf486548.json)
 
+[Extended Data](ext_articles/cf486548.ext.json)
+
 ---
 
-### விஜயராம மாவத்தையில் பாரிய மரம் விழுந்தது
+### Massive tree fell in Vijayarama Mawatha
 
 *2024-05-25 18:12:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விஜயராம-மாவத்தையில்-பாரிய-மரம்-விழுந்தது/175-337832) · `ta`
 
-விஜேராம மாவத்தையில் உள்ள பௌத்த தொலைக்காட்சி அலைவரிசைக்கு அருகில் இன்று மாலை வீதியின் குறுக்கே ஆலமரம் முறிந்து வீழ்ந்ததால் வீதி தடைப்பட்டுள்ளது.
+A massive banyan tree collapsed in Vijayarama Mawatha, blocking the road near the Buddhist TV channel. The Colombo Municipal Council and Fire Service are assisting with its removal.
 
-கொழும்பு மாநகர சபை மற்றும் கொழும்பு தீயணைப்பு சேவை திணைக்களத்தின் உதவியுடன் மரத்தை அகற்றும் நடவடிக்கைகள் தற்போது மேற்கொள்ளப்பட்டு வருகின்றன.
+🟩
+
+The road has been blocked due to the collapse of a banyan tree across the road this evening near the Buddhist television channel in Wijerama Mawatha.
+
+With the help of the Colombo Municipal Council and the Colombo Fire Service Department, the tree is currently underway.
 
 ◼️
 
 [Data](articles/f3d7f508.json)
+
+[Extended Data](ext_articles/f3d7f508.ext.json)
 
 ---
 
@@ -127,6 +227,8 @@ The 1,500-kilometre road renovation project was started in 2024. Under the proje
 ◼️
 
 [Data](articles/2e0772cb.json)
+
+[Extended Data](ext_articles/2e0772cb.ext.json)
 
 ---
 
@@ -205,6 +307,8 @@ Acting on tipoff on May 20 about his alleged illegal activities, CCB inspector K
 ...
 
 [Data](articles/f318c7e2.json)
+
+[Extended Data](ext_articles/f318c7e2.ext.json)
 
 ---
 
@@ -2183,99 +2287,5 @@ He was speaking at a media briefing held in Colombo today (24).
 [Data](articles/9aaf974a.json)
 
 [Extended Data](ext_articles/9aaf974a.ext.json)
-
----
-
-### Dinesh Herath II Classification has been raised according to the unofficial conclusion of the World Paradise throwing
-
-*2024-05-24 21:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/184418) · `ta`
-
-In the unofficial results of the men's F46 Division Extreme Earring Competition, Dinesh Priyantha Herath came second with a throw of 64.59 meters, just behind Cuba's Varona Konzalas who threw 65.16 meters. The official results are pending due to objections over athlete classifications.
-
-🟩
-
-Dinesh Priyantha Herath is ranked second in accordance with the unofficial results for the men's F46 Division Extreme Earring Competition held on Friday (24) at the Gobe Stadium in Japan.
-
-The official competition results have been suspended due to the objections submitted on the classification of the athletes.
-
-The World Para Athletics Association has stated on its official website that the competition results will be officially released based on the decision taken after the inquiry into the objection.
-
-Dinesh Priyantha Herath's spear was 64.59 meters away.
-
-Dinesh Priyanda recorded this distance in the competition, which was attended by 12 Para players from eight countries.
-
-Dinesh Herath, who topped the number five attempts, was pushed to second place after the last attempt of the Cuban player.
-
-Cuban player Varona Konzalas topped the list with the record for throwing a spear of 65.16 meters in his last attempt.
-
-...
-
-[Data](articles/10d345a4.json)
-
-[Extended Data](ext_articles/10d345a4.ext.json)
-
----
-
-### Dengue cases for 2024 surpass 24,000
-
-*2024-05-24 21:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Dengue-cases-for-2024-surpass-24-000/108-283306) · `en`
-
-Colombo, May 24 (Daily Mirror) -   The tally of dengue cases recorded for 2024 has topped the 24,000 mark, according to the Epidemiology Unit.
-
-As of May 23, a total of 24,227 cases have been reported in 2024, with the highest number being from the Colombo district, which stood at 5,183.
-
-The Western Province has recorded 8,711 cases, the highest province-wise while the month of May has also logged 1,954 Dengue cases.
-
-As several parts in Sri Lanka have experienced significant rainfall for the past few days, health officials urge people to keep their surroundings clean and destroy mosquito breeding places in order to keep dengue at bay.
-
-◼️
-
-[Data](articles/36028677.json)
-
-[Extended Data](ext_articles/36028677.ext.json)
-
----
-
-### Do Sri Lankan Politicians Need Educational Qualifications?
-
-*2024-05-24 21:20:35* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/do-sri-lankan-politicians-need-educational-qualifications/) · `en`
-
-This is probably an extension to the articles published under the title ‘The Right To Information Act & The Educational Qualifications of MPs’ by the Economist DNR Samaranayaka and the story under ‘Parliament Writes To MPs Under RTI To Get Educational Qualifications But No Response!’, both in 2021.
-
-In an article on the Politics and Education website, Pawan Singh went into the contentious issue of educational qualifications among politicians, drawing parallels with the Indian political landscape. The essence of his piece, titled ‘The Debate Over Educational Qualification for Politicians in India,’ underscores a contradiction.
-
-...
-
-[Data](articles/b34b4fc5.json)
-
-[Extended Data](ext_articles/b34b4fc5.ext.json)
-
----
-
-### Jaffna hospital converts a national hospital
-
-*2024-05-24 20:58:26* · [`adalk`](https://www.ada.lk/breaking_news/යාපනය-රෝහල-නුදුරේදීම-ජාතික-රෝහලක්-බවට-පත්-කරනවා/11-409815) · `si`
-
-Jaffna hospital is set to become a national hospital, ensuring high-quality healthcare in the Northern Province. This decision follows the Cabinet's approval to upgrade Karapitiya Hospital in the Southern Province. President Ranil Wickremesinghe highlighted the importance of technological advancements and knowledge transfer during the opening of the Clinical Training and Research Division at Jaffna University. The new facility, costing Rs. 942 million, spans 6,000 square meters and includes state-of-the-art equipment and specialized rooms for various medical procedures.
-
-🟩
-
-President Ranil Wickremesinghe said that the Jaffna hospital will be a national hospital at the near future to ensure high quality health care in the Northern Province.
-
-The Cabinet approval has been made to make the Karapitiya Hospital a national hospital by placing a long-term requirement in the Southern Province.
-
-President Ranil Wickremesinghe was speaking at the opening of the Clinical Training and Research Division built by the Faculty of Medicine at the Medical Faculty of Jaffna University today (24).
-
-The Chairperson of the University Grants Commission (NBT) has also pointed out that all the world's science subjects, including the Faculty of Medicine, Science, Science and Agriculture Faculties..
-
-He said Sri Lankan children in foreign countries show that the technology could not be introduced, but only on their knowledge, he said.
-
-The President also instructed the Department of Science and Technology and the Ministry of Education and to submit the Ministry of Education.
-
-...
-
-[Data](articles/52ad0c1f.json)
-
-[Extended Data](ext_articles/52ad0c1f.ext.json)
 
 ---

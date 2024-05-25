@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-25 22:52:09**
+As of **2024-05-25 23:03:54**
 
 ## Newspaper Stats
 
-*Scraped **26,234** Articles*
+*Scraped **26,236** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 234
-dbsjeyarajcom | 261
+dbsjeyarajcom | 262
 bbccomsinhala | 265
 newsfirstlk | 363
 islandlk | 1,417
@@ -20,35 +20,57 @@ adaderanalk | 3,012
 tamilmirrorlk | 3,060
 virakesarilk | 4,005
 dailymirrorlk | 4,146
-adaderanasinhalalk | 4,200
+adaderanasinhalalk | 4,201
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,231 (100.0%) of 26,234 articles have been extended.
+26,234 (100.0%) of 26,236 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-25 (Saturday)
 
-### ඉන්දියාවේ ගින්නකින් ළමුන් ඇතුළු 20ක් මරුට
+### මාවනැල්ලේ කලබල කළ සද්ධන්තයා - ඇත්ගොව්වාට බරපතළයි
+
+*2024-05-25 22:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197010) · `si`
+
+එලෙස කුලප්පූ වූ ඇතාගේ පහරදීමෙන් බරපතළ තුවාල ලැබූ ඇත්ගොව්වා මාවනැල්ල මූලික රෝහලට ඇතුළත් කර ඇත.
+
+එම ඇතා මහනුවර දළදා මාලිගාවේ ඇත් පන්තියට අයත් රාජා නම් ඇතා බව අප වාර්තාකරු පැවසීය.
+
+අප වාර්තාකරු පැවසුවේ කලබලයට පත්ව මාවනැල්ල නගරයට පැමිණි ඇතා මේ වනවිට විශේෂ ආරක්ෂාවක් යටතේ පොළ භූමියේ රඳවා ඇති බවය.
+
+◼️
+
+[Data](articles/cf76115c.json)
+
+---
+
+### Fire in India kill 20 children
 
 *2024-05-25 22:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197009) · `si`
 
-ඉන්දියාවේ, ගුජරාට් ප්‍රාන්තයේ රාජ්කෝට් නගරයේ විනෝද ක්‍රීඩා මධ්‍යස්ථානයක ගින්නක් හටගෙන තිබේ.
+A tragic fire at a sports center in Rajokora, India, resulted in the deaths of 20 individuals, including 12 children. Relief teams quickly responded to extinguish the blaze, but the death toll could rise.
 
-එම ගින්නෙන් පුද්ගලයින් 20දෙනෙකු පමණ ජීවිතක්ෂයට පත්ව ඇති බව ඉන්දීය මාධ්‍ය වාර්තාකරයි.
+🟩
 
-එලෙස මියගිය පිරිස අතර ළමුන් 12 දෙනෙකු පමණ සිටින බව වාර්තා වේ.
+A fire broke out at a fun sports center in Rajokora, India, India.
 
-සිදුවීම සැලවීමත් සමඟ සහන කණ්ඩායම් එම ස්ථානයට පැමිණ ගින්න නිවීමටත්, මුදාගැනීම් සිදුකිරීමටත් කටයුතු කරමින් සිටී.
+About 20 people were killed in the fire.
 
-මෙම ගින්න හේතුවෙන් සිදුවී ඇති මරණ සංඛ්‍යාව තවත් ඉහළ යා හැකි බව ඉන්දීය මාධ්‍ය වාර්තාකරයි.
+There are about 12 children among the deceased.
+
+With the inclusion of the incident, relief teams come to the place and extinguish fire, to freeze the fire.
+
+The number of deaths due to this fire can be increased.
 
 ◼️
 
 [Data](articles/fa2162ff.json)
+
+[Extended Data](ext_articles/fa2162ff.ext.json)
 
 ---
 
@@ -68,6 +90,8 @@ The President made these comments after inaugurating the “Centre of Excellence
 
 [Data](articles/60c9289d.json)
 
+[Extended Data](ext_articles/60c9289d.ext.json)
+
 ---
 
 ### No JVP member has joined SJB: Anura Kumara refutes SJB claims
@@ -83,6 +107,8 @@ Speaking at a meeting in Mannar, Dissanayake said the particular person Hitihami
 ...
 
 [Data](articles/8b21bb03.json)
+
+[Extended Data](ext_articles/8b21bb03.ext.json)
 
 ---
 
@@ -1968,6 +1994,22 @@ My family is followers of Trotic Policies and is literally, "three teachings of 
 
 ---
 
+### Can Ranil  Wickremesinghe  Regain the Support of Tamil and Muslim Voters at the 2024 Presidential Elections?
+
+*2024-05-25 03:33:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84070) · `en`
+
+Sri Lanka’s last official census was taken in 2012. According to that census, Sri Lanka’s majority ethnic community the Sinhalese comprises 74.9 % of the island nation’s population.  Numerically, the second largest ethnicity is the Sri Lankan Tamils who are 11.1% of the population. The third largest ethnicity is the Sri Lankan Muslims or Moors who comprise 9.3% of the population. The fourth largest ethnic group is the Tamils of  Indian origin known as “Malaiyagath Thamizhar” (Hill Country Tamils) who are 4.1%.
+
+The three numerical minorities namely the Sri Lankan Tamils, Muslims and Indian Tamils together are 25.5% of the population. These three ethnic groups form the majority in some Sri Lankan districts. In other districts they are a substantive segment of the population. Since the people of all districts vote together in the Presidential elections, the entire island is transformed into a “single” constituency with a 74.9% Sinhala majority and 25.5 % non – Sinhala minorities.
+
+...
+
+[Data](articles/008ff134.json)
+
+[Extended Data](ext_articles/008ff134.ext.json)
+
+---
+
 ### The risk of spreading dengue by rain
 
 *2024-05-25 02:45:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மழையால்-டெங்கு-பரவும்-அபாயம்/175-337823) · `ta`
@@ -2120,6 +2162,20 @@ With 6 tickets up for grabs by 3 lucky winners, Seylan Card holders need to carr
 
 ---
 
+### Poverty of Hope Among Sri Lankan Tamils due to Widespread Economic Misery Compounded by the 2022 Financial Crisis and a Fractured Tamil Polity
+
+*2024-05-25 01:11:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84091) · `en`
+
+When Antony Jesurathnam Mariapushparani, 62, recalls the horrific final days of Sri Lanka’s civil war in striking detail, it is hard to believe it has been 15 years since its end.
+
+“That is where we prepared and had the kanji (porridge); that is where we headed to cross the Vattuvagal bridge; that is where we waited,” she says breathlessly, showing once-bloody spots in Mullivaikkal, a village in Mullaitivu district on the north-eastern coast. Many Tamil civilians had crossed the bridge in May 2009, hoping that moving into government-controlled territory on the other side would be safer.
+
+...
+
+[Data](articles/7dbb9ab8.json)
+
+---
+
 ### Vesak Annual Event by the All Ceylon Jewelry Merchants Association
 
 *2024-05-25 01:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/184424) · `ta`
@@ -2241,75 +2297,5 @@ A single pivotal moment or a well-made point can indeed have a significant impac
 [Data](articles/d179f449.json)
 
 [Extended Data](ext_articles/d179f449.ext.json)
-
----
-
-### Tragedy and farce on a day of mourning
-
-*2024-05-25 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Tragedy-and-farce-on-a-day-of-mourning/172-283316) · `en`
-
-The government wanted Sri Lankans to mourn over the demise of an Islamic ultra-conservative nicknamed ‘Butcher of Tehran’
-
-The death of Mahsa Amini, a Kurdish woman in the custody of Iran’s moral  police over charges of not properly covering up hair, unleashed  nationwide protests in Iran, followed by a brutal crackdown by a regime  devoid of semblance of legitimacy, until Iranian proxies, Hamas  momentarily shifted the global spotlight from Iran’s suppression of its  people by carrying out an industrial scale massacre in Israel on October  7 last year.
-
-As the monsoonal rains are set to wreak havoc and a climate emergency is in the making, the government had other pressing priorities. It declared a day of national mourning over the death of Iranian President and Islamic hardliner Ebrahim Raisi, whose VIP chopper crashed during a trip from Azerbaijan.
-
-...
-
-[Data](articles/d6f9fd59.json)
-
-[Extended Data](ext_articles/d6f9fd59.ext.json)
-
----
-
-### 2024-05-24 (Friday)
-
-### Couples arrested for sending Sri Lankans to Russian war
-
-*2024-05-24 23:17:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரஷ்ய-போருக்கு-இலங்கையர்களை-அனுப்பி-வைத்த-தம்பதியினர்-கைது/175-337818) · `ta`
-
-A retired Major and his wife were arrested for allegedly recruiting Sri Lankan veterans for the Russian-Ukraine conflict. The couple was detained separately in Wattala and Borella, with the wife later released on bail. Nine individuals have been arrested in total over this matter.
-
-🟩
-
-A retired Major and his wife have been arrested by the Criminal Investigation Department for allegedly sending Sri Lanka's retired military members for the Russian -Ukraine war.
-
-Police said the man was arrested in Wattala and his wife in Borella.
-
-The two suspects have been remanded after being produced before the Negombo Magistrate's Court and the wife has been released on bail.
-
-The Criminal Investigation Department said that nine people have been arrested so far in connection with the incident.. Remble
-
-◼️
-
-[Data](articles/aa30ed4b.json)
-
-[Extended Data](ext_articles/aa30ed4b.ext.json)
-
----
-
-### The suspended housing scheme will be resumed - President announced in Jaffna
-
-*2024-05-24 23:11:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/இடைநிறுத்தப்பட்ட-வீட்டுத்திட்டம்-மீண்டும்-ஆரம்பிக்கப்படும்-யாழில்-ஜனாதிபதி-தெரிவிப்பு/71-337817) · `ta`
-
-In Jaffna, President Ranil Wickremesinghe announced the resumption of the suspended housing scheme, highlighting Sri Lanka's unique provision of free land rights across South Asia through the "Urumaya" program. This initiative aims to address land issues in the Northern Province, with plans to issue 13,858 free land guarantees in Mullaitivu, Kilinochchi, Vavuniya, and Mannar districts. The President emphasized the importance of this program in providing land rights to all citizens, addressing historical land loss due to war, and moving towards resolving land disputes in the North and East.
-
-🟩
-
-Sri Lanka is the only country in South Asia to give people free land rights. Under the "Urumaya" program, the Northern Province will allocate funds for the construction of houses in the Northern Province next year. The President said at the event to provide land guarantees to the people of the district.
-
-President Ranil Wickremesinghe said that the land rights of the people will be confirmed and the opportunity to move forward.
-
-The President said that Sri Lanka was the only country that provides free land rights to the people in South Asia, and the President asked the owners to keep the free bonds issued by the "Urumaya" program to keep the next offspring.
-
-President Ranil Wickremesinghe made this statement today (24) at the Land Rectangular Center for the people of Jaffna under the "Urumaya" program.
-
-1286 free bonds, including 15 Divisional Secretariat Divisions of the Jaffna Mawatham, were issued to the people and the President handed over land guarantees to some.
-
-...
-
-[Data](articles/d6157b93.json)
-
-[Extended Data](ext_articles/d6157b93.ext.json)
 
 ---

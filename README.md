@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-25 14:52:10**
+As of **2024-05-25 15:03:57**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,186
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,187 (100.0%) of 26,190 articles have been extended.
+26,190 (100.0%) of 26,190 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -58,21 +58,29 @@ He was also a candidate of the JVP Polonnaruwa Urban Council. Samantha Bandara w
 
 ---
 
-### வடக்கு ஆளுநர் மூத்த அதிகாரிகளை வெறுக்கிறார் - ஜனாதிபதிக்கு விக்னேஸ்வரன் எம்பி காட்டமான கடிதம்
+### Northern Governor hates senior officials - Vigneswaran MP to the president
 
 *2024-05-25 14:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/184453) · `ta`
 
-வடக்கில் அரசாங்க அதிபர்கள் மற்றும் அமைச்சுக்களுக்கான செயலாளர்கள் நியமனம் அரசியல் காரணமாக பின்னடிப்புச் செய்யக் கூடாதென ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கு பாராளுமன்ற உறுப்பினர் சி.வி.விக்னேஸ்வரன் எழுத்து மூலம் கடிதம் அனுப்பியுள்ளார்.
+Vigneswaran MP wrote to President Wickremesinghe, expressing concern over the delay in appointing permanent Government Agents (GAs) in Jaffna and Kilinochchi districts, affecting essential services like health, education, and women's affairs. He criticized the Northern Governor for favoring younger officials over experienced ones, leading to inefficiencies and undermining public trust.
 
-குறித்த கடிதத்தில், யாழ்ப்பாணம் மற்றும் கிளிநொச்சி ஆகிய இரண்டு மாவட்டங்களிலுமுள்ள நிரந்தர ஜிஏக்கள் ஓய்வு பெற்று சுமார் 03 மாதங்களாகியும் நிரந்தர அரச அதிகாரிகள் நியமிக்கப்படவில்லை.
+🟩
 
-கூடுதல் GAக்கள் அந்த கடமைகளை உள்ளடக்கி உள்ளனர். தகுதியான தமிழ் சிறப்பு தர SLAS அதிகாரிகள் நியமனத்திற்கு தகுதி இருந்தும் முக்கியமான பொதுப் பதவிகளுக்கு இந்த மூத்த அதிகாரிகளின் நியமனங்களை அரசியல் தடுக்கக் கூடாது. மேலும், வட்டாட்சியர் அலுவலகத்தில் 04 செயலர் பணியிடங்கள் காலியாக உள்ளன.
+Parliamentarian CV Wigneswaran has sent a letter to President Ranil Wickremesinghe in writing that the appointment of government principals and ministries in the North should not be dismissed due to politics.
 
-சுகாதாரம், கல்வி மற்றும் மகளிர் விவகார அமைச்சகங்கள். ஆனால் கிரேடு 1 அதிகாரிகள் செய்கிறார்கள்.
+In the letter, permanent GAs in both districts of Jaffna and Kilinochchi have not been appointed permanent government officials for about three months after retirement.
+
+Additional GAs include those duties. Politics should not prevent the appointments of these senior officials for important public positions. Also, 04 secretariat workplaces are vacant in the Vattakshiar office.
+
+Ministries of Health, Education and Women's Affairs. But Grade 1 officers are doing.
+
+The Ministry of Education, Ministry of Women's Affairs and the Governor's Office serves as the Secretary to the Ministry of Health. Mr.. Guganathan, Mr.. Sri, Mrs.. Elilarisi and Mr.. Senior specialists such as Arulraj, for political reasons, have been neglected and plundered by the secretaries of GAs and Ministries.
 
 ...
 
 [Data](articles/0abe2a54.json)
+
+[Extended Data](ext_articles/0abe2a54.ext.json)
 
 ---
 
@@ -114,21 +122,27 @@ It is noteworthy that the government has launched the project with the help of t
 
 ---
 
-### ஐக்கிய மக்கள் சக்தியோடு இணைந்த முன்னாள் அமைச்சர்கள் !
+### Former ministers affiliated with the United People's Power!
 
 *2024-05-25 13:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/184454) · `ta`
 
-ஐக்கிய மக்கள் சக்தியினால் முன்னெடுக்கப்பட்டு வரும் மக்கள் அரண் வேலைத்திட்டத்தின் பொலன்னறுவை மாவட்டக் கூட்டம் இன்று சனிக்கிழமை (25) நடைபெற்ற போது ஸ்ரீலங்கா சுதந்திரக் கட்சி மற்றும் மக்கள் விடுதலை முன்னணியின் பிரதேச அமைப்பாளர்கள் பலர் எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாசவைச் சந்தித்து ஐக்கிய மக்கள் சக்தியில் இணைந்து கொண்டனர்.
+Ex-ministers Nandasena Herath and Tilak Mahalekamke, along with H. Samantha Bandara, have joined the United People's Power to back opposition leader Sajith Premadasa. Herath, a former deputy minister of food trade, and Mahalekamke, ex-MP and director of the Mahaweli Development Authority, were part of the SLFP and JVP before switching sides.
 
-முன்னாள் பாராளுமன்ற உறுப்பினரும் முன்னாள் அமைச்சருமான நந்தசேன ஹேரத், எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாசவுக்கு ஆதரவளிக்கும் நோக்கில் ஐக்கிய மக்கள் சக்தியில் இணைந்து கொண்டார்.
+🟩
 
-1993 இல் வடமத்திய மாகாண சபை உறுப்பினராக கடமையாற்றிய இவர், 1994 இல் பொலன்னறுவை மாவட்டத்திலிருந்து பாராளுமன்றத்திற்கு தெரிவு செய்யப்பட்டார். மேலும், 2001 இல் உணவு வர்த்தகம் தொடர்பான பிரதி அமைச்சராகவும் பணியாற்றினார்.
+The Sri Lanka Freedom Party (SLFP) and the Janatha Vimukthi Peramuna (JVP) organizers met with opposition leader Sajith Premadasa and joined the United People's Power during a meeting of the Polonnaruwa District Meeting of the People's Palace Program being carried out by the United People's Power.
 
-அவ்வாறே, ஸ்ரீலங்கா சுதந்திரக் கட்சியின் முன்னாள் பாராளுமன்ற உறுப்பினரும், மகாவலி அபிவிருத்தி அதிகார சபையின் முன்னாள் பணிப்பாளருமான திலக் மகலேகம்கே இன்று ஐக்கிய மக்கள் சக்தியில் இணைந்து கொண்டார்.
+Former parliamentarian and former minister Nandasena Herath has joined the United People's Power to support opposition leader Sajith Premadasa.
+
+He served as a member of the North Central Provincial Council in 1993 and was elected to Parliament from the Polonnaruwa District in 1994. He also served as the Deputy Minister of Food Trade in 2001.
+
+Likewise, Tilak Mahalekamke, a former Member of Parliament for the Sri Lanka Freedom Party and former Director of the Mahaweli Development Authority, joined the United People's Power today.
 
 ...
 
 [Data](articles/8699a61b.json)
+
+[Extended Data](ext_articles/8699a61b.ext.json)
 
 ---
 
@@ -327,6 +341,8 @@ Roads in several areas were flooded due to incessant rains disrupting the vehicu
 ◼️
 
 [Data](articles/5b7f3f35.json)
+
+[Extended Data](ext_articles/5b7f3f35.ext.json)
 
 ---
 

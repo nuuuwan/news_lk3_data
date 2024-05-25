@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-25 22:05:48**
+As of **2024-05-25 22:18:36**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 4,199
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,230 (100.0%) of 26,231 articles have been extended.
+26,231 (100.0%) of 26,231 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-25 (Saturday)
 
-### පාසල් ගොඩනැගිල්ලක් මතට විශාල ගසක් කඩා වැටෙයි
+### Large tree falls on a school building
 
 *2024-05-25 21:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197008) · `si`
 
-පවතින අධික වර්ෂාවෙන් වැඩිම බලපෑම් එල්ලවූ පුත්තලම දිස්ත්‍රික්කයේ, හලාවත ආනන්ද ජාතික පාසලේ ගොඩනැගිල්ලක් මතට විශාල ගසක් කඩාවැටී තිබේ.
+A massive tree fell on Ananda National School in Puttalam, affecting 44,398 individuals from 11,765 families. The Disaster Management Center is providing immediate relief.
 
-මේ අතර පවතින අයහපත් කාලගුණ තත්ත්වය හේතුවෙන් මේ වනවිට පවුල් 11,765කට අයත් පුද්ගලයින්  44,398 දෙනෙකු පීඩාවට පත්වී සිටී.
+🟩
 
-ආපදා කළමණාකරණ මධ්‍යස්ථානය පැවසුවේ, ආපදාවට ලක්වූවන් සඳහා කඩිනමින් සහන සලසන බවය.
+A large tree collapses on a building of Ananda National School in the Puttalam district, the highest affected inventory.
+
+Meanwhile, 44,398 persons belonging to 11,765 families have been affected due to the inclement weather.
+
+The Disaster Management Center said that the concessions of the affected persons are being provided with immediate relief.
 
 ◼️
 
 [Data](articles/df01bbbe.json)
+
+[Extended Data](ext_articles/df01bbbe.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-25 20:03:40**
+As of **2024-05-25 20:18:32**
 
 ## Newspaper Stats
 
-*Scraped **26,226** Articles*
+*Scraped **26,227** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ adaderanalk | 3,011
 tamilmirrorlk | 3,059
 virakesarilk | 4,005
 dailymirrorlk | 4,144
-adaderanasinhalalk | 4,196
+adaderanasinhalalk | 4,197
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,226 (100.0%) of 26,226 articles have been extended.
+26,226 (100.0%) of 26,227 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-25 (Saturday)
+
+### සුලාර ධනුක ශ්‍රී ලංකාවට රන් පදක්කම් 3ක් දිනා දෙයි
+
+*2024-05-25 20:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197006) · `si`
+
+ශ්‍රී ලංකාවේ ඒ. වී සුලාර ධනුක මාලිංග ICN New Zealand ජාතික ශූරතාවලිය සඳහා තේරී පත්වී තිබේ.
+
+ඔහු එලෙස තේරී පත්වී ඇත්තේ, ICN New Zealand Natural Body Building Fedaration විසින් සංවිධානය කරන ලද කායවර්ධන තරගයකට සහභාගී වෙමිනි.
+
+2024 මැයි 19 වනදා නවසීලන්තයේ ටවුපෝ නගරයේදී මෙම තරගය පවත්වා තිබුණි.
+
+ධනුක මාලිංග එම තරගයේදී රන් පදක්කම් 03ක් සහ රිදී පදක්කමක් ලබා ගැනීමට සමත්විය.
+
+මෙම තරගය සඳහා සුලාර ධනුක මාලිංග ශ්‍රී ලංකාවේ පුහුණුකරුවෙකු වන යොහාන් සෙත් නමැති පුහුණුකරු යටතේ පුහුණුවීම් ලබා තිබුණි.
+
+සුලාර ධනුක මාලිංග දෙනියාය මධ්‍ය විද්‍යාලයේ සහ ගල්ල රිච්මන්ඩ් විද්‍යාලයේ ආදි සිසුවෙකු වන අතර ඔහු දැනට වෘත්තියෙන් විදුලි ඉංජිනේරුවරයකු වශයෙන් නවසීලන්තයේ සේවය කරයි.
+
+◼️
+
+[Data](articles/c840c93d.json)
+
+---
 
 ### Poisonous wife arrested in husband's wine cup
 
@@ -2295,23 +2317,5 @@ To this end, SLC has enlisted the International Cricket Council's Anti-Corruptio
 [Data](articles/c526b4b8.json)
 
 [Extended Data](ext_articles/c526b4b8.ext.json)
-
----
-
-### CBSL to use govt. office networks to enhance financial literacy
-
-*2024-05-24 21:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/99419/cbsl-to-use-govt-office-networks-to-enhance-financial-literacy) · `en`
-
-The Central Bank of Sri Lanka (CBSL) states that in order to implement the actions under its ‘Financial Literacy Roadmap’ for the country, it plans to use the current network systems of government offices to create and deliver financial-related content to targeted audience, which are the youth and women.
-
-The regulator said that before implementing the programme, the current network will be analysed and modified to be effective in delivering financial literacy.
-
-The CBSL recently launched its publication, “Financial Literacy Roadmap of Sri Lanka 2024–2028,”. The roadmap has been developed as part of the “Financial Literacy and Capacity Building” pillar of the National Financial Inclusion Strategy.
-
-...
-
-[Data](articles/ecefb239.json)
-
-[Extended Data](ext_articles/ecefb239.ext.json)
 
 ---

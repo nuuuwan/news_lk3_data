@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-25 17:18:34**
+As of **2024-05-25 17:34:13**
 
 ## Newspaper Stats
 
-*Scraped **26,205** Articles*
+*Scraped **26,207** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,70 @@ adalk | 2,233
 adaderanalk | 3,007
 tamilmirrorlk | 3,055
 virakesarilk | 4,005
-dailymirrorlk | 4,137
+dailymirrorlk | 4,139
 adaderanasinhalalk | 4,191
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,205 (100.0%) of 26,205 articles have been extended.
+26,205 (100.0%) of 26,207 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-25 (Saturday)
+
+### Prevailing rains, windy conditions expected to continue further
+
+*2024-05-25 17:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Prevailing-rains-windy-conditions-expected-to-continue-further/108-283347) · `en`
+
+Colombo, May 25 (Daily Mirror) - Due to the south-west monsoon that has established over the island, the prevailing rain and wind conditions are expected to continue further, the Natural Hazards Early Warning Centre of the Meteorology Department said
+
+Accordingly, heavy showers above 100 mm are likely at some places in the Sabaragamuwa Province and the Nuwara-Eliya district.
+
+Fairly heavy showers of about 75 mm are likely at some places in the Western and North-Western Provinces and the Kandy, Galle and Matara districts.
+
+◼️
+
+[Data](articles/36cd53b7.json)
+
+---
+
+### President presented 1286 free land guarantees in Kilinochchi
+
+*2024-05-25 17:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/184460) · `ta`
+
+President Ranil Wickremesinghe launched the "Urumaya" program, issuing 1,700 free land guarantees in Kilinochchi, including 1286 under his leadership.
+
+🟩
+
+Under the "Urumaya" program, President Ranil Wickremesinghe has issued 1,700 free land guarantees of the Kilinochchi District.
+
+◼️
+
+[Data](articles/263eb50e.json)
+
+[Extended Data](ext_articles/263eb50e.ext.json)
+
+---
+
+### Several train services cancelled due to trees, rocks obstructing tracks
+
+*2024-05-25 17:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Several-train-services-cancelled-due-to-trees-rocks-obstructing-tracks/108-283345) · `en`
+
+Colombo, May 25 (Daily Mirror) The Sri Lanka Railways Department announced today (25) that the night mail trains between Badulla and Colombo and other special trains on the up-country line have been cancelled due to trees and rocks obstructing the tracks.
+
+They reported over 15 incidents of trees falling onto the tracks so far.
+
+Additionally, power interruptions have caused significant issues with the railway signal system, particularly beyond Nanu Oya station.
+
+The Department urged motorists to exercise caution at railway crossings, as signal failures are possible due to power breakdowns. Drivers are advised to be vigilant if there is no signal or if the electric bells continue to ring with only a red signal at the crossings.
+
+◼️
+
+[Data](articles/88cdce15.json)
+
+---
 
 ### Senior President's Lawyer Gamini Marapana passed away
 
@@ -379,24 +431,6 @@ Sheba was dead due to Lieu Liukemia, belonging to the Dou.
 [Data](articles/eea35611.json)
 
 [Extended Data](ext_articles/eea35611.ext.json)
-
----
-
-### President presented 1286 free land guarantees in Kilinochchi
-
-*2024-05-25 15:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/184460) · `ta`
-
-President Ranil Wickremesinghe launched the "Urumaya" program, issuing 1,700 free land guarantees in Kilinochchi, including 1286 under his leadership.
-
-🟩
-
-Under the "Urumaya" program, President Ranil Wickremesinghe has issued 1,700 free land guarantees of the Kilinochchi District.
-
-◼️
-
-[Data](articles/263eb50e.json)
-
-[Extended Data](ext_articles/263eb50e.ext.json)
 
 ---
 
@@ -2287,53 +2321,5 @@ Similarly, three women on a motorcycle fell down a tree a few days ago.
 [Data](articles/d2eff5f8.json)
 
 [Extended Data](ext_articles/d2eff5f8.ext.json)
-
----
-
-### Sri Pada pilgrimage is over
-
-*2024-05-24 18:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196977) · `si`
-
-The Sri Pada pilgrimage concluded with events like the Scheme of Scheme for 2023-2024, unveiling the Saman Deva statue, and the Deva Jeweramanna across four routes leading to the Pelmadulla Raja Maha Viharaya. Notably, one route saw an increase in participation from the Kuruwita road via Ratnapura, extending through Sri Pilateeniya and Sri Padawita Roads in the Sabaragamuwa Province. The Nallataniiya procession also reached the Pelmadulla Rajamaha Viharaya via the Bagawadalawa Balangoda road. Tomorrow, the Pelmadulla Sri Pada Raja Maha Viharaya will host activities until the afternoon, followed by a journey to the Gavalpattawa Viharaya for residents.
-
-🟩
-
-The Scheme of Scheme for the year 2023-2024, Saman Deva statue and the Deva Jeweramanna took place on four routes to the Pelmadulla Raja Maha Viharaya.
-
-One of the fillers increased from the Kuruwita road from the Kuruwita road from Ratnapura from Ratnapura from Ratnapura from Ratnapura from Ratnapura from Ratnapura, Sri Pilateeniya road from Ratnapura from Ratnapura, Sri Padawita Road, Sabaragamuwa Province.The Dhammanda Thero says.
-
-The Nallataniiya was taken to the Pelmadulla Rajamaha Viharaya in Bagawadalawa Balangoda road.
-
-Pelmadulla Sri Pada Pada Raja Maha Viharaya will be placed at the Peliya Pada Raja Maha Viharaya tomorrow until the afternoon.
-
-The Commander of the Sri Parathi Thera said that the resident of the road will be taken to the Gavalpattawa Viharaya of the afternoon tomorrow evening.
-
-◼️
-
-[Data](articles/4707b86f.json)
-
-[Extended Data](ext_articles/4707b86f.ext.json)
-
----
-
-### Fire in a private hospital in Kollupitiya
-
-*2024-05-24 18:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196976) · `si`
-
-A fire broke out in a private hospital in Kollupitiya, managed by two fire delegates from the Colombo Municipal Council, who successfully contained it by 12 noon on 24th.
-
-🟩
-
-The fire was managed in a private hospital in Kollupitiya.
-
-The fire of the Colombo Municipal Council has informed the Colombo Municipal Council that a fire has erupted at around 12 noon today (24).
-
-Two fire delegates have been departed and the fire has been completely controlled so far, according to the Fireviring Unit of the Colombo Municipal Council.
-
-◼️
-
-[Data](articles/2f5f34b0.json)
-
-[Extended Data](ext_articles/2f5f34b0.ext.json)
 
 ---

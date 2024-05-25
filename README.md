@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-25 19:18:22**
+As of **2024-05-25 19:33:47**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 4,196
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,224 (100.0%) of 26,226 articles have been extended.
+26,226 (100.0%) of 26,226 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-25 (Saturday)
 
-### கணவனின் மது கோப்பையில் விஷம் கலந்த மனைவி கைது
+### Poisonous wife arrested in husband's wine cup
 
 *2024-05-25 18:56:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கணவனின்-மது-கோப்பையில்-விஷம்-கலந்த-மனைவி-கைது/175-337835) · `ta`
 
-தனது கணவனின் மது கோப்பையில் விஷம் கலந்து படுகொலைச் செய்த குற்றச்சாட்டில் அவரது மனைவியும் மனைவியின் சகோதரனும் கைது செய்யப்பட்டுள்ளனர்.
+A woman and her brother are arrested for allegedly poisoning her husband's wine, leading to his death. The victim, a 45-year-old father of three, passed away from suspected poisoning after consuming the tainted drink at his wife's home.
 
-பெலியத்த கொஸ்கஹகொட பிரதேசத்தில் வசிக்கும்   மூன்று பிள்ளைகளின் தாயும் (45 வயது), அவருக்கு ஆதரவாக இருந்த அவரது சகோதரரும் இன்று (25) பிற்பகல் கைது செய்யப்பட்டனர்.
+🟩
 
-தனது கணவரின் மது கோப்பையில் விஷ இரசாயனத்தை ஊற்றி கொலை செய்த குற்றச்சாட்டில் கைது செய்யப்பட்டதாக பெலியத்த பொலிஸார் தெரிவித்தனர்.
+His wife and wife's brother have been arrested on charges of poisoning her husband's wine cup.
 
-சந்தேகநபரின் கணவர் கடந்த 20ஆம் திகதி தனது வீட்டில் மது அருந்திய போது ஏற்பட்ட சுகவீனம் காரணமாக உயிரிழந்துள்ளதாகவும் பிரேத பரிசோதனையில் விஷம் அருந்தி உயிரிழந்துள்ளதாகவும் பொலிஸார் தெரிவித்தனர்
+The mother of three children (45 years old) and his brother who were supporting him were arrested this afternoon.
+
+Beliatta police said they were arrested on charges of pouring poisonous chemicals in her husband's wine cup.
+
+The suspect's husband died of a sickness during his drinking at her home on the 20th and died of poisoning in the autopsy, police said that he had died.
 
 ◼️
 
 [Data](articles/c53b7d92.json)
+
+[Extended Data](ext_articles/c53b7d92.ext.json)
 
 ---
 
@@ -97,6 +103,8 @@ The suspect is to be produced before the Teldeniya Magistrate's Court.
 ◼️
 
 [Data](articles/e28786ee.json)
+
+[Extended Data](ext_articles/e28786ee.ext.json)
 
 ---
 

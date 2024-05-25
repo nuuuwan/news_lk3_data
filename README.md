@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-25 12:18:19**
+As of **2024-05-25 12:33:57**
 
 ## Newspaper Stats
 
-*Scraped **26,169** Articles*
+*Scraped **26,172** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,56 @@ newsfirstlk | 363
 islandlk | 1,417
 economynextcom | 1,504
 dailyftlk | 1,533
-adalk | 2,231
+adalk | 2,232
 adaderanalk | 3,002
-tamilmirrorlk | 3,052
+tamilmirrorlk | 3,053
 virakesarilk | 3,992
-dailymirrorlk | 4,134
+dailymirrorlk | 4,135
 adaderanasinhalalk | 4,181
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,168 (100.0%) of 26,169 articles have been extended.
+26,169 (100.0%) of 26,172 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-25 (Saturday)
+
+### பெண்களுக்கான சிறப்பு சுகாதார நிலையம் திறந்து வைப்பு
+
+*2024-05-25 11:47:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/பெண்களுக்கான-சிறப்பு-சுகாதார-நிலையம்-திறந்து-வைப்பு/72-337828) · `ta`
+
+கிளிநொச்சி மாவட்ட பொது வைத்தியசாலையில் 5,320 மில்லியன் ரூபா செலவில் நிர்மாணிக்கப்பட்டுள்ள பெண்களுக்கான சிறப்பு சுகாதார நிலையம் (Centre of Excellence for Women’s Healthcare) ஜனாதிபதி ரணில் விக்ரமசிங்கவினால் இன்று (25) திறந்து வைக்கப்பட்டது.
+
+நாடளாவிய ரீதியில் சுகாதார வசதிகளை மேம்படுத்துவதற்கான திட்டத்தின் கீழ் நெதர்லாந்து அரசாங்கத்தின் உதவியுடன், அரசாங்கம் இந்தத் திட்டத்தை முன்னெடுத்துள்ளது. R
+
+◼️
+
+[Data](articles/935c4bef.json)
+
+---
+
+### Sri Lanka to free 43 Pakistanis in jails
+
+*2024-05-25 11:42:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-to-free-43-Pakistanis-in-jails/108-283331) · `en`
+
+Islamabad, MAy 25 (AFP) -  Pakistan and Sri Lanka have agreed to take immediate steps to facilitate return of prisoners of each country to their homeland.
+
+The move, which would bring 43 Pakistani citizens back to their homes from Siri Lankan jails, was part of an understanding reached at a meeting of High Commissioner of Sri Lanka, Admiral (Retd) Ravindra Chandra Srivijay Gunaratne with Interior Minister Mohsin Naqvi on Friday.
+
+Both sides agreed to increase cooperation in the field of security and counter-narcotics, as issues of mutual interest and the development of bilateral relations came under discussion at the meeting.
+
+The interior ministry had been working with the Sri Lankan authorities for the past month to bring back the 43 Pakistani prisoners.
+
+The Sri Lankan high commissioner assured all possible cooperation in this regard. The interior minister thanked the diplomat for his support for the repatriation of the prisoners.
+
+...
+
+[Data](articles/6faac606.json)
+
+---
 
 ### Student killed in Expressway from a flyover
 
@@ -120,17 +154,23 @@ She made a complaint when she was asked to pay Rs.30,000, and the suspect was ar
 
 ---
 
-### කිලිනොච්චියට කාන්තා සෞඛ්‍ය පිළිබඳ විශේෂ විශිෂ්ටතා මධ්‍යස්ථානයක්
+### Special Excellence Center for Women's Health for Kilinochchi
 
 *2024-05-25 10:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196987) · `si`
 
-කිලිනොච්චි දිස්ත්‍රික් මහ රෝහලේ කාන්තා සෞඛ්‍ය සේවා සඳහා වන විශිෂ්ටතා මධ්‍යස්ථානය (Centre of Excellence for Women’s Healthcare) අද (25) විවෘත කෙරුණි.
+Kilinochchi District General Hospital launched a Special Excellence Center for Women's Health today, part of a nationwide initiative to enhance healthcare services across Sri Lanka.
 
-දිවයින පුරා සෞඛ්‍ය සේවා පහසුකම් වැඩිදියුණු කිරීම සඳහා වන රජයේ වැඩසටහන යටතේ මෙය සිදුකර තිබේ.
+🟩
+
+The Excellence Center for Women's Health Services at the Kilinochchi District General Hospital (Excellence for women's healthcare) was opened today (25).
+
+This has been done under the government program to improve health care facilities island wide.
 
 ◼️
 
 [Data](articles/d4a25da6.json)
+
+[Extended Data](ext_articles/d4a25da6.ext.json)
 
 ---
 
@@ -167,6 +207,24 @@ It has been funded by the Government of Netherlands, according to the PMD.
 [Data](articles/8b47b7a1.json)
 
 [Extended Data](ext_articles/8b47b7a1.ext.json)
+
+---
+
+### උඩරට දුම්රිය ධාවනය සාමාන්‍ය පරිදි
+
+*2024-05-25 09:52:34* · [`adalk`](https://www.ada.lk/breaking_news/උඩරට-දුම්රිය-ධාවනය-සාමාන්‍ය-පරිදි/11-409816) · `si`
+
+අයහපත් කාලගුණයේ බලපෑම නිසා මතුවී තිබූ ගස්කඩා වැටීමේ  අවදානම හා ස ංඥා පද්ධති  හා සන්නිවේදන බාධා නිසා තාවකාලිකව නවතා තිබූ උඩරට දුම්රිය මාර්ගයේ බදුල්ල කොළඹ සහ කොළඹ බදුල්ල  දුම්රියන් අද 25  අලුයම  සිට නැවතත් සාමාන්‍ය පරිදි ධාවනය  වන බව නාවලපිටිය දුම්රිය පාලක මැදිරිය පැවසීය.
+
+උඩරට දුම්රිය මාර්ගයේ ධාවනය  වීමට නියමිතව තිබූ සියලු දුම්රියන් ඊයේ 24 රාත්‍රී  අවලංගු  කර තිබුණි .
+
+මේ වනවිට  පිටකොටුව සිට බදුල්ලට ධාවනය කිරීමට නියමිත දුම්රිය සහ බදුල්ල සිට කොළඹට ධාවනය වීමට නියමිත දුම්රියද  අද සමාන්‍ය පරිදි   ධාවනය ආරම්භ කළ බව දුම්රිය පාලක මැදිරිය පැවසීය.
+
+මේ අතර දුම්රිය මාර්ගයේ කඳුකර ප්‍රදේශ ආශ්‍රිතව තද වැස්ස අධික මීදුම සුළං සහිත බව නිසා දුම්රිය රියදුරන්ටද මාර්ගය පැහැදිලිව නොපෙනිය හැකි බැවින්ද  දුම්රිය මාර්ගයේ ගමන් ගන්නා අයට ත් දුම්රිය එන හඬ පැහැදිලිව නොඇසෙන බැවින්ද දුම්රිය මගේ ගමන් ගන්නා පිරිස් විමසිලිමත්ව අවධානයෙන්  යුතුව සුපරීක්ෂාකාරීව  ගමන් ගැනීමේ අවශ්‍යතාවය දුම්රිය ස්ථානාධිපතිවරු පෙන්වා දෙයි.
+
+...
+
+[Data](articles/67e6cc61.json)
 
 ---
 
@@ -2215,77 +2273,5 @@ It is reported that the search effort has been slightly delayed as the sea is st
 [Data](articles/ff651b20.json)
 
 [Extended Data](ext_articles/ff651b20.ext.json)
-
----
-
-### Health officials raise alarm over hygiene standards at Dansals
-
-*2024-05-24 14:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Health-officials-raise-alarm-over-hygiene-standards-at-Dansals/108-283299) · `en`
-
-Colombo, May 24 (Daily Mirror) -  As relentless rainfall continues, health authorities are sounding the alarm on hygiene standards at dansals during the Vesak festival.
-
-A senior official from the Health Ministry disclosed to the Daily Mirror that they have instructed local Medical Officers of Health and Public Health Inspectors to intensify monitoring of hygiene practices at dansals.
-
-Furthermore, health authorities have issued a public notice urging immediate reporting to the nearest Medical Officer of Health or Public Health Inspector if any food served at dansals is deemed unsafe or unfit for consumption.
-
-Despite regular inspections conducted by Public Health Inspectors (PHIs) during the Vesak festival, Head of the PHI Union Upul Rohan told Daily Mirror that certain dansals have failed to meet the required hygiene standards.
-
-“We will take necessary action against operators of the such dansals,” he stressed.
-
-...
-
-[Data](articles/38469668.json)
-
-[Extended Data](ext_articles/38469668.ext.json)
-
----
-
-### Health officials raise alarm over hygiene standards at Dansals
-
-*2024-05-24 14:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Health-officials-raise-alarm-over-hygiene-standards-at-Dansals/155-283299) · `en`
-
-Colombo, May 24 (Daily Mirror) -  As relentless rainfall continues, health authorities are sounding the alarm on hygiene standards at dansals during the Vesak festival.
-
-A senior official from the Health Ministry disclosed to the Daily Mirror that they have instructed local Medical Officers of Health and Public Health Inspectors to intensify monitoring of hygiene practices at dansals.
-
-Furthermore, health authorities have issued a public notice urging immediate reporting to the nearest Medical Officer of Health or Public Health Inspector if any food served at dansals is deemed unsafe or unfit for consumption.
-
-Despite regular inspections conducted by Public Health Inspectors (PHIs) during the Vesak festival, Head of the PHI Union Upul Rohan told Daily Mirror that certain dansals have failed to meet the required hygiene standards.
-
-“We will take necessary action against operators of the such dansals,” he stressed.
-
-...
-
-[Data](articles/967be844.json)
-
-[Extended Data](ext_articles/967be844.ext.json)
-
----
-
-### Be careful - a red announcement from the weather
-
-*2024-05-24 14:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196970) · `si`
-
-Strong winds and high seas expected; extreme caution advised for fisheries and naval units in the southeastern Arabian Sea and Bay of Bengal. Winds could intensify to hurricane levels in the central Bay of Bengal, affecting the southwestern region. Heavy rain and rough seas predicted for Watawana Island and Bayken Arabian areas.
-
-🟩
-
-The Department of Meteorology has issued a warning red announcement of the strong winds and the sea.
-
-Accordingly, the Meteorology Department announces more care for the fisheries and naval community in the southeastern Arabian Sea and the Bay Bay Sea.
-
-The depending zone in the southwestern Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bay of Bay of Baying will be northward and grow up to a hurricane in Central Bay.
-
-It is then almost 14.30 am tomorrow to grow up to 11.30 pm, moving north.
-
-Winds and heavy showers in the Grounds in the island Watawana sea areas and in the Bay of Bay of Bayken Arabian areas.
-
-Meanwhile, the Department of Meteorology announces that the sea areas can also be very rough.
-
-◼️
-
-[Data](articles/a08112da.json)
-
-[Extended Data](ext_articles/a08112da.ext.json)
 
 ---

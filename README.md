@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-25 09:34:04**
+As of **2024-05-25 09:53:01**
 
 ## Newspaper Stats
 
@@ -26,31 +26,37 @@ adaderanasinhalalk | 4,179
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,154 (100.0%) of 26,155 articles have been extended.
+26,155 (100.0%) of 26,155 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-25 (Saturday)
 
-### කටුකුරුන්ද ඝාතනය ට තිදෙනෙක් අත්අඩංගුවට
+### Three arrested for killing Katukurunda
 
 *2024-05-25 09:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196986) · `si`
 
-වෙඩි තබා පුද්ගලයෙකු ඝාතනය කිරීම සම්බන්ධ‍‍යෙන් සැකකරුවන් තිදෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
+Three men, aged 24, 39, and 41, were arrested in Palathiligoda and Nugegoda for allegedly murdering a person in Katukurunda. The suspects were found with two biotomome firearms, four biological firearms, six kilograms of Kerala cannabis, and a vehicle during their arrest.
 
-පසුගිය 20 වනදා රාත්‍රී කාලයේ දී කටුකුරුන්ද ප්‍රදේශයේ දී යතුරුපැදියකින් පැමිණි නාඳුනන පුද්ගලයින් දෙදෙ‍ෙනකු විසින්  නිවසක සිටි පුද්ගලයෙකුට ‍වෙඩි තබා ඝාතනය කර පළා ගොස් තිබුණි.
+🟩
 
-ඒ අනුව කළුතර කොට්ඨාස අපරාධ විමර්ශන අංශයේ නිලධාරීන් විසින් සිදුකළ විමර්ශනයකට අනුව මෙම සැකකරුවන් ති‍දෙනා අත්අඩංගුවට ගත් බව පොලීසිය පවසයි.
+Three suspects have been arrested in connection with the murder of a person.
 
-ඊයේ (24) සවස පැලපිටියාගොඩ හා නුගේගොඩ ප්‍රදේශවලදී  මෙම සැකකරුවන් අත්අඩංගුවට ‍ගෙන තිබේ.
+On the night of the night, a man was shot dead by two unidentified persons from the Katukurunda on the night of the night.
 
-සැකකරුවන් 24, 39, 41 යන වයස්වල පසුවන තෙඹුවන හා මොරොන්තුඩුව ප්‍රදේශවල පදිංචිකරුවන් බව පොලීසිය පවසයි.
+Accordingly, the three suspects were arrested following a investigation by the Kalutara Central Criminal Investigation Division.
 
-වැඩිදුර විමර්ශන වලදී ‍මොවුන් සතුව තිබී ක්‍රියාකාරී නොමැති ටී 56 වර්ගයේ ගිනි අවියක්, හිස් පතරොම් ගැබ් 2ක්, ජීව පතරොම් 4ක්, කේරළ ගංජා කිලෝග්‍රෑම් 1ක්, මත්ද්‍රව්‍ය ජාවාරමෙන් උපයා ගත් බවට සැක කරන මුදල් රුපියල් 340,000ක් හා කාර් රථයක් ද පොලිස් භාරයට ‍ගෙන ඇත.
+The suspects were arrested in Palathiligoda and Nugegoda in Palatitiyagoda yesterday evening.
+
+Residents of Tembuwana and Morontuduwa areas, who are aged 24, 39, 41.
+
+In further investigations, they have taken 2 biotomome firearm, four biological firearms, six kilograms of Kerala cannabis and a car has been taken into police custody.
 
 ◼️
 
 [Data](articles/76c25890.json)
+
+[Extended Data](ext_articles/76c25890.ext.json)
 
 ---
 

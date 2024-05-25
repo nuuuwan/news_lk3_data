@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-25 13:03:42**
+As of **2024-05-25 13:18:34**
 
 ## Newspaper Stats
 
-*Scraped **26,173** Articles*
+*Scraped **26,175** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,57 @@ islandlk | 1,417
 economynextcom | 1,504
 dailyftlk | 1,533
 adalk | 2,232
-adaderanalk | 3,003
+adaderanalk | 3,004
 tamilmirrorlk | 3,053
 virakesarilk | 3,992
 dailymirrorlk | 4,135
-adaderanasinhalalk | 4,181
+adaderanasinhalalk | 4,182
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,173 (100.0%) of 26,173 articles have been extended.
+26,173 (100.0%) of 26,175 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-25 (Saturday)
+
+### සියලුම ජනතාවගේ නිශ්චල සහ චංචල දේපොළ ගැන තොරතුරු ගනී
+
+*2024-05-25 12:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196989) · `si`
+
+රජයේ ආයතන ඇතුළු මෙරට පුරවැසියන්ගේ නිශ්චල හා චංචල දේපළ පිළිබඳ තොරතුරු ජුලි මස පළමු වනදා සිට දේශීය ආදායම් දෙපාර්තමේන්තුව වෙත අනිවාර්යෙන්ම ලබාදිය යුතු බවට නියම කරමින් අතිවිශේෂ ගැසට් නිවේදනයක් නිකුත් කර තිබේ.
+
+මුදල්, ආර්ථික ස්ථායිකරණ සහ ජාතික ප්‍රතිපත්ති අමාත්‍යවරයා ලෙස ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් මෙම ගැසට් නිවේදනය නිකුත් කර තිබේ.
+
+අදාළ ගැසට් නිවේදනයට අනුව මෙරට පුද්ගලයින්ගේ ලියාපදිංචි කළ ඉඩම්වල, දේපොළවල අයිතිය හිමිකම් පිළිබඳ තොරතුරු, ලියාපදිංචි කළ බදු ගිවිසුම් පිළිබඳ තොරතුරු, ලියාපදිංචි සමාගම් පිළිබඳ තොරතුරු සහ කොටස් වෙළෙඳපොළේ කොටස් අයිතිය පිළිබඳ තොරතුරු නිතිපතා දේශීය ආදායම් කොමසාරිස් ජනරාල්වරයා වෙත ලබා දිය යුතු වෙයි.
+
+එමෙන්ම මෙරට පුරවැසියන්ගේ ලියාපදිංචි කළ වාහන සහ වාහන හිමිකම් පැවරීම් පිළිබඳ තොරතුරු නිලධාරීන් විසින් පරිශීලනය කරන ලද තොරතුරු ආදිය ද නිතිපතා දේශීය ආදායම් කොමසාරිස් ජනරාල්වරයා වෙත ලබා දිය යුතු බව එම ගැසට් නිවේදනයේ සඳහන් වෙයි.
+
+...
+
+[Data](articles/53a409e4.json)
+
+---
+
+### 43 Pakistani inmates in Sri Lanka to be repatriated
+
+*2024-05-25 12:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/99426/43-pakistani-inmates-in-sri-lanka-to-be-repatriated) · `en`
+
+At least 43 Pakistani prisoners will be repatriated from Sri Lanka, announced Pakistan’s Interior Minister Mohsin Naqvi on Friday after securing an agreement with the Sri Lankan government.
+
+The announcement came following a meeting between Naqvi, Sri Lankan High Commissioner Admiral (retd) Ravindra Chandra Srivijay Gunaratne alongside Interior Secretary Khurram Ali Agha, National Database and Registration Authority (NADRA) Chairman Lt General Muhammad Munir, and other officials.
+
+Naqvi stated that the interior ministry closely collaborated with Sri Lankan authorities over the past month to facilitate the return of the incarcerated individuals. He maintained that both nations have agreed to expedite the repatriation process.
+
+Describing the agreement as a “positive outcome” of diplomatic efforts, he added that the arrangements for the return of Pakistani prisoners would be concluded within a few days.
+
+...
+
+[Data](articles/15fa1d14.json)
+
+---
 
 ### 19-year-old dies after allegedly jumping from flyover to expressway
 
@@ -2251,45 +2287,5 @@ Very strong winds 60-70 kmph, accompanied with heavy rainfalls and very rough se
 [Data](articles/9675a771.json)
 
 [Extended Data](ext_articles/9675a771.ext.json)
-
----
-
-### Fishing communities cautioned over cyclonic storm
-
-*2024-05-24 14:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Fishing-communities-cautioned-over-cyclonic-storm/108-283300) · `en`
-
-Colombo, May 24 (Daily Mirror) - A looming cyclonic storm poses a significant threat to the South-Eastern Arabian Sea and the Bay of Bengal areas, prompting urgent warnings to naval and fishing communities to exercise extreme caution.
-
-The low-pressure area over the South-West Bay of Bengal has intensified into a depression, now centered near 15.0°N and 88.4°E as of 05:30 a.m. today.
-
-According to the latest forecasts by meteorological authorities, the depression is anticipated to continue its North-Eastward trajectory, consolidating into a cyclonic storm over the east-central Bay of Bengal by 05:30 a.m. tomorrow, May 25, 2024. Subsequently, it is expected to track northwards, intensifying further into a severe cyclonic storm over the same region by 11:30 p.m. tomorrow.
-
-...
-
-[Data](articles/e98c60bc.json)
-
-[Extended Data](ext_articles/e98c60bc.ext.json)
-
----
-
-### Strong wind blows;Be careful ...
-
-*2024-05-24 14:34:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பலத்த-காற்று-வீசும்-அவதானமாக-இருங்கள்/175-337812) · `ta`
-
-Strong winds, 50-60 km/h, expected in central highlands, north, north-central, southern regions, and Trincomalee district. Other areas may see 30-40 km/h gusts. Warning issued.
-
-🟩
-
-The Department of Meteorology has said that strong winds can be blowing at speeds of 50 to 60 km / h from time to time due to the increase in the speed of the southwest monsoon across the country.
-
-Accordingly, in the western areas of the Central Highlands, the North, North Central, Southern, Southern and North Western Provinces and Trincomalee district, there is a possibility of strong winds at 50-60 km / h from time to time and in the rest of the country from time to time in the other nations at 30-40 km / h.The possibility of blowing is seen.
-
-The warning will be issued today (25) at 10.30 am today (24) at 10.30 am.. Remble
-
-◼️
-
-[Data](articles/0820e8c0.json)
-
-[Extended Data](ext_articles/0820e8c0.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-25 16:33:50**
+As of **2024-05-25 16:50:37**
 
 ## Newspaper Stats
 
-*Scraped **26,198** Articles*
+*Scraped **26,202** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ newsfirstlk | 363
 islandlk | 1,417
 economynextcom | 1,504
 dailyftlk | 1,533
-adalk | 2,232
+adalk | 2,233
 adaderanalk | 3,007
 tamilmirrorlk | 3,054
-virakesarilk | 4,001
+virakesarilk | 4,004
 dailymirrorlk | 4,137
 adaderanasinhalalk | 4,190
 
@@ -26,25 +26,51 @@ adaderanasinhalalk | 4,190
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,195 (100.0%) of 26,198 articles have been extended.
+26,198 (100.0%) of 26,202 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-25 (Saturday)
 
-### IPL කුසලානය කාටද ?
+### President opens special health center for women at Kilinochchi General Hospital
+
+*2024-05-25 16:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/184430) · `ta`
+
+President Ranil Wickremesinghe inaugurated a Rs 5,320 million Center of Excellence for Women's Healthcare at Kilinochchi General Hospital, funded by the Sri Lankan and Dutch governments to enhance national healthcare facilities.
+
+🟩
+
+The Center of Excellence for Women's Healthcare was opened by President Ranil Wickremesinghe on Saturday (25) at the Kilinochchi District General Hospital at a cost of Rs 5,320 million.
+
+It is noteworthy that the government has launched the project with the help of the Netherlands government under the plan to improve health facilities nationwide.
+
+◼️
+
+[Data](articles/ad620475.json)
+
+[Extended Data](ext_articles/ad620475.ext.json)
+
+---
+
+### Who is the IPL trophy?
 
 *2024-05-25 16:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196999) · `si`
 
-මෙවර IPL තරගාවලියේ අවසන් මහා තරගයට සුදුසුකම් ලබා ගැනීමට සන්රයිසස් හයිද්‍රාබාද් කණ්ඩායම ඊයේ (24) රාත්‍රියේ සමත්විය.
+The IPL trophy went to Rajasthan Royals after defeating Sunrisers Hyderabad by 36 runs in the final, marking the latter's first-ever IPL finals appearance.
 
-ඒ අවසන් තරග වටයේ තුන්වැනි තරගයේදී රාජස්ථාන් රෝයල්ස් කණ්ඩායම ලකුණු 36කින් පරාජය කරමිනි.
+🟩
 
-සන්රයිසස් හයිද්‍රාබාද් කණ්ඩායම IPL අවසන් තරගයකට සුදුසුකම් ලබා ගත් තුත්වැනි අවස්ථා මෙය වන අතර  මෙවර IPL අවසන් මහ තරගය කොල්කටා නයිට් රයිඩර්ස් සහ සන්රයිසස් හයිද්‍රාබාද් කණ්ඩායම අතර චෙන්නායි හිදී හෙට (26) පැවැත්වීමට නියමිතය.
+Sunrisers Hyderabad team to qualify for the finals of the IPL to match the IPL tournament last night.
+
+Rajasthan Royals defeated Royals by 36 runs in the final.
+
+This is due to the final occasion of the Sunrises Hyderabad team eligible for an IPL finals.
 
 ◼️
 
 [Data](articles/3c1f17d3.json)
+
+[Extended Data](ext_articles/3c1f17d3.ext.json)
 
 ---
 
@@ -65,6 +91,8 @@ Drivers are advised to be cautious when crossing level crossings if there is no 
 ◼️
 
 [Data](articles/eb513838.json)
+
+[Extended Data](ext_articles/eb513838.ext.json)
 
 ---
 
@@ -90,29 +118,61 @@ People should be vigilant. Even if it rains in the future, it will occur.. Rembl
 
 ---
 
-### මෙවර කුණාටු වඩාත් ප්‍රචණ්ඩකාරී වෙයි
+### Storms will be more violent
 
 *2024-05-25 15:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196998) · `si`
 
-මෙවර අත්ලාන්තික් සුළි කුණාටු සමයේදී වඩාත් ප්‍රචණ්ඩකාරී සුළි කුණාටු වාර්තා විය හැකි බවට අමෙරිකානු ජාතික සාගර සහ වායුගෝලීය අධිකාරිය පුරෝකතනය කරයි.
+The US National Oceans and Atmospheric Authority predicts a record-breaking hurricane season in the Atlantic, starting from early June. Expecting 25 storms, 85% will be more intense than usual, with around 7 being extremely severe due to La Niña conditions. This follows last year's trend where 20 hurricanes were reported, 14 of which were severe.
 
-අත්ලාන්තික් සුළි කුණාටු සමය සාමාන්‍යයෙන් ආරම්භ වන්නේ ජූනි පළමු සතියේ දී ය.
+🟩
 
-බලධාරීන් පුරෝකතනය කරන්නේ මෙවර කුණාටු සමයේදී කුණාටු 25කට ආසන්න සංඛ්‍යාවක් වාර්තාවිය හැකි බවය.
+The US national oceans and atmospheric authority prophesy that the most violent hurricanes can be recorded during this year's Atlantic.
 
-ඒ අතරින්, සියයට 85ක් පමණ සාමාන්‍ය ප්‍රමාණයට වඩා ප්‍රචණ්ඩකාරී වනු ඇතැයි ඔවුන් පවසයි.
+Atlantic cyclone season usually begins in the first week of June.
 
-ඉන් ආසන්න වශයෙන් කුණාටු 7ක් පමණ තෙවන මට්ටමේ හෝ ඊට ඉහළ මට්ටමේ වඩාත් ප්‍රචණ්ඩකාරී කුණාටු වනු ඇතැයි සඳහන් ය.
+Authorities predict 25 storms during the storm.
 
-මෙම තත්ත්වයට හේතුවන්නේ පොළොව මතුපිට සිසිල් වීමට හේතුවන ලා නීනා කාලගුණ සංසිද්ධියයි.
+According to them, about 85 percent will be more violent than average.
 
-ඉන් වැඩි බලපෑමක් එල්ල වන්නේ කවර රටවලටද යන්න පුරෝකතනය කළ නොහැකි බව බලධාරීන් තවදුරටත් පෙන්වා දෙයි.
+Approximately 7 of these storms will be more violent storms at a third level or higher.
 
-2023 වසරේ දී සුළි කුණාටු 20ක් වාර්තා වූ අතර ඒ අතරින් 14ක් වඩාත් ප්‍රචණ්ඩකාරී ස්වරූපයක් ගෙන තිබුණි.
+This is because the La Nene Meteorology, which is cooled on the ground on the surface of the ground.
+
+Authorities further indicate that the country cannot be predicted.
+
+In 2023, 20 hurricanes were reported, and 14 were more violent.
 
 ◼️
 
 [Data](articles/abeb091c.json)
+
+[Extended Data](ext_articles/abeb091c.ext.json)
+
+---
+
+### Northern Governor hates senior officials - Vigneswaran MP to the president
+
+*2024-05-25 15:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/184453) · `ta`
+
+Vigneswaran MP wrote to President Wickremesinghe, expressing concern over the delay in appointing permanent Government Agents (GAs) in Jaffna and Kilinochchi districts, affecting essential services like health, education, and women's affairs. He criticized the Northern Governor for favoring younger officials over experienced ones, leading to inefficiencies and undermining public trust.
+
+🟩
+
+Parliamentarian CV Wigneswaran has sent a letter to President Ranil Wickremesinghe in writing that the appointment of government principals and ministries in the North should not be dismissed due to politics.
+
+In the letter, permanent GAs in both districts of Jaffna and Kilinochchi have not been appointed permanent government officials for about three months after retirement.
+
+Additional GAs include those duties. Politics should not prevent the appointments of these senior officials for important public positions. Also, 04 secretariat workplaces are vacant in the Vattakshiar office.
+
+Ministries of Health, Education and Women's Affairs. But Grade 1 officers are doing.
+
+The Ministry of Education, Ministry of Women's Affairs and the Governor's Office serves as the Secretary to the Ministry of Health. Mr.. Guganathan, Mr.. Sri, Mrs.. Elilarisi and Mr.. Senior specialists such as Arulraj, for political reasons, have been neglected and plundered by the secretaries of GAs and Ministries.
+
+...
+
+[Data](articles/0abe2a54.json)
+
+[Extended Data](ext_articles/0abe2a54.ext.json)
 
 ---
 
@@ -150,6 +210,26 @@ The drivers are informed to move viciously after electrical bells without any si
 
 ---
 
+### 43 பாகிஸ்தானிய கைதிகளை திருப்பி அனுப்பும் இலங்கை
+
+*2024-05-25 15:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/184458) · `ta`
+
+பாகிஸ்தானும் இலங்கையும் தங்களது நாடுகளிலுள்ள கைதிகளை அவர்களது தாய்நாட்டிற்கு திருப்பி அனுப்புவதற்கு  நடவடிக்கை எடுக்க ஒப்புக்கொண்டுள்ளன.
+
+பாகிஸ்தானுக்கான இலங்கை உயர் ஸ்தானிகர் ஓய்வு பெற்ற அட்மிரல் ரவீந்திர சந்திர ஸ்ரீவிஜய் குணரத்ன மற்றும் உள்நாட்டு அமைச்சர் மொஹ்சின் நக்விக்கும் இடையில் பாகிஸ்தானில் நடைபெற்ற கலந்துரையாடலில் இந்த புரிந்துணர்வு ஒப்பந்தம் மேற்கொள்ளப்பட்டுள்ளது.
+
+இந்த சந்திப்பில் பரஸ்பர நலன் மற்றும் இருதரப்பு உறவுகளின் மேம்பாடு குறித்து கலந்துரையாடப்பட்டதோடு, பாதுகாப்பு மற்றும் போதைப்பொருள் தடுப்பு  ஒத்துழைப்பை அதிகரிக்க இரு தரப்பினரும் ஒப்புக்கொண்டன.
+
+43 கைதிகளை பாகிஸ்தானுக்கு  திரும்ப அழைத்து வருவதற்கு இலங்கை அதிகாரிகளுடன் அந்நாட்டு  உள்விவகார அமைச்சகம் கடந்த ஒரு மாதமாக முயற்சிகளை மேற்கொண்டு வருகிறது.
+
+இவ்விவகாரத்தில் இலங்கை உயர்ஸ்தானிகர் சகலவிதமான ஒத்துழைப்பையும் வழங்குவதாக உறுதியளித்துள்ளார். கைதிகளை திருப்பி அனுப்புவதற்கு ஆதரவளித்த இராஜதந்திரிக்கு உள்விவகார அமைச்சர் நன்றி தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/8e96bf9f.json)
+
+---
+
 ### Senior President’s Counsel Gamini Marapana passes away
 
 *2024-05-25 15:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/99430/senior-presidents-counsel-gamini-marapana-passes-away) · `en`
@@ -170,6 +250,28 @@ Family sources said the final rites of the distinguished attorney will be notifi
 
 ---
 
+### ஜனாதிபதி ரணிலின் வருகையை எதிர்த்த காணாமல் ஆக்கப்பட்ட உறவுகள்
+
+*2024-05-25 15:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/184461) · `ta`
+
+கிளிநொச்சி மாவட்ட வலிந்து காணாமல் ஆக்கப்பட்ட உறவுகள் இன்று ஊடக சந்திப்பொன்றை ஏற்பாடு செய்திருந்தனர்.
+
+கிளிநொச்சி மாவட்ட வலிந்து ஆக்கப்பட்ட உறவுகள் சார்பில் கதிர்காமநாதன் கோகிலவாணி மேலும் தெரிவிக்கையில்,
+
+இன்று கிளிநொச்சிக்கு ஐனாதிபதி ரணில் விக்கிரமசிங்க விஜயம ஒன்றினை மேற்கொண்டுள்ளார். அவரின் வருகைக்கு எதிர்ப்பு தெரிவித்து எதிர்ப்பு போராட்டம் ஒன்றை நிகழ்த்த திட்டமிட்டிருந்ததாகவும், அந்த போராட்டத்திற்கு நீதிமன்ற தடை உத்தரவு விதிக்கப்பட்டதாகவும் அவர் தெரிவித்தார்.
+
+தமது பிள்ளைகளை யுத்த காலத்தில் இராணுவத்திடம் கையால் ஒப்படைத்தும் விசாரணைக்கு என்று அழைத்து செல்லப்பட்டும் காணாமல் ஆக்கப்பட்டு இன்றுவரையில் எமக்கான நீதி கிடைக்கப்பெறவில்லை.
+
+எத்தனையோ போராட்டங்கள் வாயிலாக ஊடகங்கள் வாயிலாக தெரிவித்தும் இதுவரையில் எமக்கான நீதி கிடைக்கவில்லை எனவும் தெரிவித்திருந்தனர்.
+
+கடந்த யுத்த காலங்களில் உண்ண உணவின்றி உப்பு கஞ்சி குடித்து உயிரை காத்து கொண்டோம் அதனை சர்வதேசத்திற்கும் இலங்கை அரசாங்கத்திற்கும் எடுத்து காட்டும் முகமாக மே 18 முள்ளிவாய்க்கால் கஞ்சி  வழங்கப்பட்டு வந்தது.
+
+...
+
+[Data](articles/a3670b01.json)
+
+---
+
 ### The pet identifies a world dies
 
 *2024-05-25 15:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196995) · `si`
@@ -187,6 +289,18 @@ Sheba was dead due to Lieu Liukemia, belonging to the Dou.
 [Data](articles/eea35611.json)
 
 [Extended Data](ext_articles/eea35611.ext.json)
+
+---
+
+### கிளிநொச்சியில் 1286 இலவச காணி உறுதிப் பத்திரங்களை வழங்கினார் ஜனாதிபதி
+
+*2024-05-25 15:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/184460) · `ta`
+
+“உறுமய” வேலைத்திட்டத்தின் கீழ் கிளிநொச்சி மாவட்டத்தின் 04 பிரதேச செயலகங்களையும் உள்வாங்கி 1,700   இலவச காணி உறுதிப் பத்திரங்கள் ஜனாதிபதி ரணில் விக்ரமசிங்க வழங்கி வைத்தார்.
+
+◼️
+
+[Data](articles/263eb50e.json)
 
 ---
 
@@ -238,32 +352,6 @@ He was also a candidate of the JVP Polonnaruwa Urban Council. Samantha Bandara w
 
 ---
 
-### Northern Governor hates senior officials - Vigneswaran MP to the president
-
-*2024-05-25 14:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/184453) · `ta`
-
-Vigneswaran MP wrote to President Wickremesinghe, expressing concern over the delay in appointing permanent Government Agents (GAs) in Jaffna and Kilinochchi districts, affecting essential services like health, education, and women's affairs. He criticized the Northern Governor for favoring younger officials over experienced ones, leading to inefficiencies and undermining public trust.
-
-🟩
-
-Parliamentarian CV Wigneswaran has sent a letter to President Ranil Wickremesinghe in writing that the appointment of government principals and ministries in the North should not be dismissed due to politics.
-
-In the letter, permanent GAs in both districts of Jaffna and Kilinochchi have not been appointed permanent government officials for about three months after retirement.
-
-Additional GAs include those duties. Politics should not prevent the appointments of these senior officials for important public positions. Also, 04 secretariat workplaces are vacant in the Vattakshiar office.
-
-Ministries of Health, Education and Women's Affairs. But Grade 1 officers are doing.
-
-The Ministry of Education, Ministry of Women's Affairs and the Governor's Office serves as the Secretary to the Ministry of Health. Mr.. Guganathan, Mr.. Sri, Mrs.. Elilarisi and Mr.. Senior specialists such as Arulraj, for political reasons, have been neglected and plundered by the secretaries of GAs and Ministries.
-
-...
-
-[Data](articles/0abe2a54.json)
-
-[Extended Data](ext_articles/0abe2a54.ext.json)
-
----
-
 ### Death of Gamini Marapana
 
 *2024-05-25 13:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196993) · `si`
@@ -279,26 +367,6 @@ President's Counsel Gamini Marapana has passed away this morning (25).
 [Data](articles/472e8a0f.json)
 
 [Extended Data](ext_articles/472e8a0f.ext.json)
-
----
-
-### President opens special health center for women at Kilinochchi General Hospital
-
-*2024-05-25 13:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/184430) · `ta`
-
-President Ranil Wickremesinghe inaugurated a Rs 5,320 million Center of Excellence for Women's Healthcare at Kilinochchi General Hospital, funded by the Sri Lankan and Dutch governments to enhance national healthcare facilities.
-
-🟩
-
-The Center of Excellence for Women's Healthcare was opened by President Ranil Wickremesinghe on Saturday (25) at the Kilinochchi District General Hospital at a cost of Rs 5,320 million.
-
-It is noteworthy that the government has launched the project with the help of the Netherlands government under the plan to improve health facilities nationwide.
-
-◼️
-
-[Data](articles/ad620475.json)
-
-[Extended Data](ext_articles/ad620475.ext.json)
 
 ---
 
@@ -509,6 +577,18 @@ The public is urging the public to take stern action on such incidents.
 [Data](articles/41d903ae.json)
 
 [Extended Data](ext_articles/41d903ae.ext.json)
+
+---
+
+### මෙයා ගැන තොරතුරක් දුන්නොත් පොලිසියෙන් මිලියන දෙකක ත්‍යාගයක්
+
+*2024-05-25 11:58:45* · [`adalk`](https://www.ada.lk/breaking_news/මෙයා-ගැන-තොරතුරක්-දුන්නොත්-පොලිසියෙන්-මිලියන-දෙකක-ත්‍යාගයක්/11-409817) · `si`
+
+අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව මගින් සිදු කරනු ලබන විශේෂ විමර්ශනයකට අදාළව සැකකරුවෙක්ද අත්අඩංගවට ගැනිමට පොලීසිය මහජන සහාය ඉල්ලා සිටියි. සැකකරු පිළිබඳව ‌නිවැරදි තොරතුරක් දෙන අයෙකුට රුපියල් මිලියන දෙකක මුදල් ත්‍යාගයක් ලබාදෙන බවද පොලීසිය නිවේදනය කරයි.
+
+◼️
+
+[Data](articles/583a22a4.json)
 
 ---
 
@@ -2217,103 +2297,5 @@ However, the use of many trees in the road towards the road towards the road tow
 [Data](articles/fc9e5b30.json)
 
 [Extended Data](ext_articles/fc9e5b30.ext.json)
-
----
-
-### India to belonged British Chief Exporters in Sri Lanka Second
-
-*2024-05-24 18:04:44* · [`adalk`](https://www.ada.lk/breaking_news/මෙරට-ප්‍රධාන-අපනයන-ගැනුම්කරු-ඇමෙරිකාව-බ්‍රිතාන්‍ය-පරදා-ඉන්දියාව-දෙවන-තැනට/11-409812) · `si`
-
-In 2023, India surpassed the UK as Sri Lanka's second-largest exporter, trailing only the US, which leads with $23.2 million in exports. This shift highlights changing economic dynamics between these nations.
-
-🟩
-
-The United States continues to receive the highest income of 23.2 million US $ 2769 percent in the US $ 2769 percent in the US $ 2769 percent in the US $ 2769 percent.
-
-The UK, who was the third largest export earnings in Sri Lanka, was the third place in the second largest export earnings in Sri Lanka for the last few years.
-
-This will reveal the Economic Revenue Data in the 2023 Anniversary Enetary Revenue Report in the 2023 Annual ENSI.
-
-◼️
-
-[Data](articles/9c9b6dfe.json)
-
-[Extended Data](ext_articles/9c9b6dfe.ext.json)
-
----
-
-### Is Sri Lanka supporting the Palestinian massacre?
-
-*2024-05-24 18:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/184407) · `ta`
-
-Sri Lanka's stance in the Israeli-Palestinian conflict is ambiguous, criticized for supporting Israel while expressing sympathy for Palestinians. The government faces internal opposition due to its actions, such as sending workers to Israel and failing to condemn Israeli actions strongly enough.
-
-🟩
-
-'The Sri Lankan government, which is being shown as a member of the Almighty, must be accompanied by inhumanity in the Israeli-Palestinian conflict'
-
-Israel is intensifying the day of the war on the day of the war, with the use of all its ways on Palestine.
-
-While human beings are occurring in Bastin in the twenty -first century, many countries of the world express their condemnation.
-
-The younger community is carrying out international struggles to end the conflict.
-
-The younger community and human rights activists are pressing for the end of the war, especially in support of Israel, especially in support of Israel.
-
-Unfortunately, the Sri Lankan government is working on a dual position as the head of the snake and the tail of the fish in the Israeli-Palestine conflict.
-
-Specificly, the government is constantly sending Sri Lankan citizens to work on Israeli farms.
-
-Their life safety, including the tensions of their families, continues to be aimed at sending workers.
-
-...
-
-[Data](articles/3a5fefa4.json)
-
-[Extended Data](ext_articles/3a5fefa4.ext.json)
-
----
-
-### Constitutionality of Sri Lanka Telecommunications Bill challenged in SC
-
-*2024-05-24 18:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Constitutionality-of-Sri-Lanka-Telecommunications-Bill-challenged-in-SC/108-283309) · `en`
-
-Colombo, May 24 (Daily Mirror)- A Special Determination petition was filed before the Supreme Court challenging the constitutionality of the Sri Lanka Telecommunications (Amendment) Bill which was recently placed on the Order Paper of Parliament.
-
-Media Law Forum (Guarantee) Limited filed this petition alleging that the structure of this Bill appears to be an effort to curtail the expression of opinions that diverge from the government's stance.
-
-The petitioner is seeking a declaration that the Bill requires the approval by the people at a Referendum in addition to the two-thirds approval of Parliament.
-
-The petitioner challenges the constitutionality of this Bill on the grounds that it falls outside the purview of the Constitution.
-
-...
-
-[Data](articles/7a2e658c.json)
-
-[Extended Data](ext_articles/7a2e658c.ext.json)
-
----
-
-### උතුර ට ගිය ජනපතිගෙන් පොරොන්දුවක්
-
-*2024-05-24 17:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196975) · `si`
-
-President Ranil Wickremesinghe announced the completion of issues affecting the Northeast due to war, ensuring development benefits for its people. He mentioned efforts to upgrade healthcare services in the North, including converting hospitals like Jaffna General Hospital into national ones. Additionally, he highlighted the approval for converting Karapitiya Hospital in the South into a national hospital, addressing long-standing needs.
-
-🟩
-
-යුද්ධය නිසා උතුරු නැගෙනහිරට බලපෑ ප්‍රශ්න කඩිනමින් අවසන් කර එම ජනතාවට ද සංවර්ධනයේ ප්‍රතිලාභ ලබා දෙන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
-
-උතුරු පළාත තුළ උසස් මට්ටමේ සෞඛ්‍ය සේවාවක් සහතික කිරීම වෙනුවෙන් යාපනය රෝහල නුදුරේදීම ජාතික රෝහලක් බවට පත් කිරීමට කටයුතු කරන බවත් දකුණු පළාත තුළ පැවති දීර්ඝකාලීන අවශ්‍යතාවයක් ඉටු කරමින් කරාපිටිය රෝහල ජාතික රෝහලක් බවට පත් කිරීමට අදාළ කැබිනට් අනුමැතිය හිමිවී ඇති බවද ජනාධිපතිවරයා සඳහන් කළේය.
-
-President Ranil Wickremesinghe was speaking at the opening of the Clinical Training and Research Division built by the Faculty of Medicine at the Medical Faculty of Jaffna University today (24).
-
-Meanwhile, President Ranil Wickremesinghe was handed over to the public by President Ranil Wickremesinghe covering 15 Divisional Secretariats covering 15 Divisional Secretariats in Jaffna District under the "Heritage" program.
-
-...
-
-[Data](articles/462915bb.json)
-
-[Extended Data](ext_articles/462915bb.ext.json)
 
 ---

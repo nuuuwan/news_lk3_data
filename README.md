@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-25 10:51:56**
+As of **2024-05-25 11:03:40**
 
 ## Newspaper Stats
 
-*Scraped **26,160** Articles*
+*Scraped **26,161** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,417
 economynextcom | 1,503
 dailyftlk | 1,533
 adalk | 2,231
-adaderanalk | 3,000
+adaderanalk | 3,001
 tamilmirrorlk | 3,052
 virakesarilk | 3,992
 dailymirrorlk | 4,130
@@ -26,11 +26,29 @@ adaderanasinhalalk | 4,179
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,159 (100.0%) of 26,160 articles have been extended.
+26,160 (100.0%) of 26,161 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-25 (Saturday)
+
+### Notice on new e-visa system for Maldivians travelling to Sri Lanka
+
+*2024-05-25 10:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/99423/notice-on-new-e-visa-system-for-maldivians-travelling-to-sri-lanka) · `en`
+
+The Ministry of Foreign Affairs of the Maldives has issued a clarification for Maldivian travelers regarding recent changes to Sri Lanka’s tourist visa scheme.
+
+In a statement, the Maldivian Foreign Affairs Ministry stated that following the announcement of a new e-visa system in Sri Lanka, they have been engaged in discussions with their Sri Lankan counterparts to ensure a smooth transition for Maldivian travelers.
+
+Currently, Maldivians can obtain a free 30-day tourist visa upon arrival in Sri Lanka. For stays exceeding 30 days, Maldivians can apply for a free 6-month visa online at https://www.srilankaevisa.lk/. This visa incurs an administrative fee, the statement added.
+
+Maldivians who are already in Sri Lanka and require a visa extension may contact the Maldives High Commission in Colombo.
+
+...
+
+[Data](articles/c84a5fa8.json)
+
+---
 
 ### President inaugurates Women’s Healthcare Centre at Kilinochchi Hospital
 
@@ -45,6 +63,8 @@ It has been funded by the Government of Netherlands, according to the PMD.
 ◼️
 
 [Data](articles/8b47b7a1.json)
+
+[Extended Data](ext_articles/8b47b7a1.ext.json)
 
 ---
 
@@ -2281,25 +2301,5 @@ Meanwhile, he died yesterday after receiving treatment at the teaching hospital.
 [Data](articles/dfa6722b.json)
 
 [Extended Data](ext_articles/dfa6722b.ext.json)
-
----
-
-### People ... If you find them ...
-
-*2024-05-24 13:00:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/மக்களே-இவர்களைக்-கண்டால்-உடன்-தகவல்-தாருங்கள்/73-337810) · `ta`
-
-Ampara Police seek info on 3 women thieves; contact 0718593256 or 0772921071.
-
-🟩
-
-Police have asked the public to provide information on 3 women suspected of stealing goods in Ampara.
-
-If they find any information about them, the Ampara Police have asked the Ampara Police Criminal Investigation Division to notify 0718593256, 0772921071. Remble
-
-◼️
-
-[Data](articles/ed60b7d4.json)
-
-[Extended Data](ext_articles/ed60b7d4.ext.json)
 
 ---

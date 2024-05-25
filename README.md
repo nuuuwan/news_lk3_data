@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-25 22:33:54**
+As of **2024-05-25 22:52:09**
 
 ## Newspaper Stats
 
-*Scraped **26,231** Articles*
+*Scraped **26,234** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,75 @@ islandlk | 1,417
 economynextcom | 1,504
 dailyftlk | 1,533
 adalk | 2,234
-adaderanalk | 3,011
+adaderanalk | 3,012
 tamilmirrorlk | 3,060
 virakesarilk | 4,005
-dailymirrorlk | 4,145
-adaderanasinhalalk | 4,199
+dailymirrorlk | 4,146
+adaderanasinhalalk | 4,200
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,231 (100.0%) of 26,231 articles have been extended.
+26,231 (100.0%) of 26,234 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-25 (Saturday)
+
+### ඉන්දියාවේ ගින්නකින් ළමුන් ඇතුළු 20ක් මරුට
+
+*2024-05-25 22:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197009) · `si`
+
+ඉන්දියාවේ, ගුජරාට් ප්‍රාන්තයේ රාජ්කෝට් නගරයේ විනෝද ක්‍රීඩා මධ්‍යස්ථානයක ගින්නක් හටගෙන තිබේ.
+
+එම ගින්නෙන් පුද්ගලයින් 20දෙනෙකු පමණ ජීවිතක්ෂයට පත්ව ඇති බව ඉන්දීය මාධ්‍ය වාර්තාකරයි.
+
+එලෙස මියගිය පිරිස අතර ළමුන් 12 දෙනෙකු පමණ සිටින බව වාර්තා වේ.
+
+සිදුවීම සැලවීමත් සමඟ සහන කණ්ඩායම් එම ස්ථානයට පැමිණ ගින්න නිවීමටත්, මුදාගැනීම් සිදුකිරීමටත් කටයුතු කරමින් සිටී.
+
+මෙම ගින්න හේතුවෙන් සිදුවී ඇති මරණ සංඛ්‍යාව තවත් ඉහළ යා හැකි බව ඉන්දීය මාධ්‍ය වාර්තාකරයි.
+
+◼️
+
+[Data](articles/fa2162ff.json)
+
+---
+
+### Sri Lanka’s Gender Equality Bill will be passed before end of June - President
+
+*2024-05-25 22:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/99435/sri-lankas-gender-equality-bill-will-be-passed-before-end-of-june-president) · `en`
+
+Highlighting the government’s commitment to safeguarding women’s rights, President Ranil Wickremesinghe today announced plans to establish a dedicated commission to enforce legal measures aimed at empowering women.
+
+He further assured the passing of the Gender Equality Bill before the end of June, expressing hope for unanimous support from Parliamentarians.
+
+The President made these comments after inaugurating the “Centre of Excellence for Women’s Healthcare” at the Kilinochchi District General Hospital this morning (25), the PMD reported.
+
+“The inauguration of the Centre of Excellence for Women’s Health Services signifies a significant milestone in serving the women of our nation. We have implemented various special measures to empower women, reaffirming our commitment to their well-being.
+
+...
+
+[Data](articles/60c9289d.json)
+
+---
+
+### No JVP member has joined SJB: Anura Kumara refutes SJB claims
+
+*2024-05-25 22:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/No-JVP-member-has-joined-SJB-Anura-Kumara-refutes-SJB-claims/108-283353) · `en`
+
+Mannar, May 25 (Daily Mirror)- The National People's Power (NPP) today refuted claims that a JVP member has joined the Samagi Jana Balawegaya (SJB) during a meeting in Polonnaruwa.
+
+NPP leader Anura Kumara Dissanayake said the particular person was not a JVP member but an SLFP member.
+
+Speaking at a meeting in Mannar, Dissanayake said the particular person Hitihamilage Saman Kumara is an SLFP candidate who had submitted nominations for the Local Government elections to contest for the Bendiwewa Division of the Polonnaruwa Municipal Council.
+
+...
+
+[Data](articles/8b21bb03.json)
+
+---
 
 ### Large tree falls on a school building
 
@@ -2257,79 +2311,5 @@ President Ranil Wickremesinghe made this statement today (24) at the Land Rectan
 [Data](articles/d6157b93.json)
 
 [Extended Data](ext_articles/d6157b93.ext.json)
-
----
-
-### Top UN court orders Israel to stop Rafah offensive
-
-*2024-05-24 23:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Top-UN-court-orders-Israel-to-stop-Rafah-offensive/107-283323) · `en`
-
-May 24 (BBC) - The UN's top court, the International Court of Justice (ICJ), has issued a dramatic ruling, ordering Israel to "immediately halt its military offensive in Rafah".
-
-It acted in support of a South African application last week which sought a number of measures against Israel, accusing it of stepping up what it says is a genocide.
-
-Presiding judge Nawaf Salam said the situation in Gaza had deteriorated since the court last ordered Israel to take steps to improve it.
-
-Israel has vehemently denied the allegation and signalled it would ignore any order to halt its operation.
-
-Reading the court's ruling on Friday, Nawaf Salam said "Israel must immediately halt its military offensive, and any other action in the Rafah Governorate" which could bring about "the physical destruction" of the Palestinians - alluding to what constitutes genocide under international law.
-
-Israel, he added, must also allow unimpeded access to Gaza to any UN body investigating allegations of genocide.
-
-...
-
-[Data](articles/c1eba29f.json)
-
-[Extended Data](ext_articles/c1eba29f.ext.json)
-
----
-
-### 6 Death - Special Discussion on Disaster Conditions
-
-*2024-05-24 22:59:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/6-பேர்-மரணம்-அனர்த்த-நிலைமைகள்-தொடர்பில்-விசேட-கலந்துரையாடல்/175-337816) · `ta`
-
-A special meeting was held on May 24 to address the issue of falling trees, which have resulted in 6 deaths, 11 injuries, and affected 34,880 people across 18 districts since the 19th. The government is prioritizing student safety through the 'Surakimu' program and plans to start a national tree management program. They are seeking cooperation from various authorities to control street trees and form a national policy on tree planting. Measures to control flooding due to unauthorized constructions are also being expedited. The Meteorology Department predicts continued rainfall, prompting the government to prepare for potential emergencies and advising the public to stay alert.
-
-🟩
-
-Special discussion was held today (May 24) at the Emergency Operations of the Disaster Management Center under the Ministry of Defense to take steps to take steps to be carried out in the country.
-
-Special attention was paid to the discussion on the risk of falling trees.
-
-Meanwhile, 6 people have been killed and 11 people have been injured in the collapse of trees from the 19th to the present and 34880 people from 9616 families in 18 districts have been affected by the disaster.
-
-At this point, the Minister of State has congratulated the National Disaster Management Center, Government Department, District Government Agent Offices, Divisional Secretariats, Grama Niladhari Officers, Relief Service Officers, especially security forces, police and civil security forces.
-
-The Minister of State said that the number of trees falling in the recent past and that a national program is expected to be started.
-
-...
-
-[Data](articles/e6f56b9c.json)
-
-[Extended Data](ext_articles/e6f56b9c.ext.json)
-
----
-
-### It is the responsibility of the nation to make a wise decision in the election - Imtiaz Pakir Makar
-
-*2024-05-24 22:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/184422) · `ta`
-
-Imtiaz Pakir Makar emphasizes the importance of making informed decisions in the upcoming election, drawing parallels between past mistakes and current political maneuvers. He stresses the constitutional requirement for holding elections and criticizes attempts to manipulate democratic processes for personal gain.
-
-🟩
-
-It is the responsibility of the people to make a wise decision without learn to learn the lesson in history during the upcoming election. United People's Power Parliamentarian Imtiaz Pakir Makar said no one could have no election as per the constitution.
-
-He was speaking to the media after an event held on Friday 24th in the area.
-
-The presidential election must be held in accordance with the constitution of our country. It cannot be changed. The Election Commission is to announce the election. Politicians cannot decide on it.
-
-At the same time, I am surprised to say that there is no need to hold a parliamentary election on this occasion. The tongue of those who honor democracy can not come. If such a word is revealed by the tongue of someone who holds a responsible position in politics, I see Hitler's relative to Mossad.
-
-...
-
-[Data](articles/83a20034.json)
-
-[Extended Data](ext_articles/83a20034.ext.json)
 
 ---

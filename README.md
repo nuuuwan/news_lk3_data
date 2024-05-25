@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-25 15:03:57**
+As of **2024-05-25 15:18:41**
 
 ## Newspaper Stats
 
-*Scraped **26,190** Articles*
+*Scraped **26,191** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,417
 economynextcom | 1,504
 dailyftlk | 1,533
 adalk | 2,232
-adaderanalk | 3,004
+adaderanalk | 3,005
 tamilmirrorlk | 3,053
 virakesarilk | 4,001
 dailymirrorlk | 4,137
@@ -26,11 +26,31 @@ adaderanasinhalalk | 4,186
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,190 (100.0%) of 26,190 articles have been extended.
+26,190 (100.0%) of 26,191 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-25 (Saturday)
+
+### Funds earmarked for construction of homes in Northern Province next year – President
+
+*2024-05-25 14:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/99429/funds-earmarked-for-construction-of-homes-in-northern-province-next-year-president) · `en`
+
+President Ranil Wickremesinghe emphasized the confirmation of land rights for the people, ensuring avenues for progress.
+
+The President highlighted Sri Lanka’s unique status as the sole South Asian nation offering free land rights to its citizens.
+
+Encouraging recipients to safeguard the freehold deeds from the “Heritage” program for future generations, he made these remarks during today’s (24) ceremony, where land deeds were bestowed upon the residents of the Jaffna district.
+
+A total of 1286 freehold deeds, encompassing all 15 Divisional Secretariat divisions within the Jaffna district, were distributed to the people, with the President symbolically participating in the awarding ceremony.
+
+Furthermore, under the “Urumaya” program, 13,858 freehold deeds are scheduled for distribution across the Mullaitivu, Kilinochchi, Vavuniya, and Mannar districts of the Northern Province.
+
+...
+
+[Data](articles/7498e3ab.json)
+
+---
 
 ### Three former MPs and three former ministers join
 
@@ -2301,29 +2321,5 @@ It also confirmed no evidence of bullets or similar items in the wreckage.
 [Data](articles/8af00c6f.json)
 
 [Extended Data](ext_articles/8af00c6f.ext.json)
-
----
-
-### Hundreds feared dead after landslide hits remote Papua New Guinea village
-
-*2024-05-24 16:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/99415/hundreds-feared-dead-after-landslide-hits-remote-papua-new-guinea-village) · `en`
-
-Hundreds are feared dead after a massive landslide flattened dozens of homes and buried families alive in a remote village in northern Papua New Guinea (PNG) early on Friday, a resident said.
-
-More than 50 homes, many with people still asleep inside, were buried when the landslide hit Kaokalam village around 3 a.m., villager Ninga Role told Reuters by phone. The death toll was nearly 300, among them his brother and cousin, he said.
-
-The Australian Broadcasting Corp and other local media reported that more than 100 people had been killed.
-
-One man who turned back to try to save his two children was buried along with his extended family, Role said.
-
-Social media footage posted by Role showed people clambering over rocks, uprooted trees and mounds of dirt searching for survivors. Women can be heard weeping in the background.
-
-“It’s very impossible, the area covered by the landslide is large and there are rocks and trees everywhere,” Role said.
-
-...
-
-[Data](articles/4906978a.json)
-
-[Extended Data](ext_articles/4906978a.ext.json)
 
 ---

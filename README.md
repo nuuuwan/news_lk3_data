@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-25 23:53:31**
+As of **2024-05-26 00:04:20**
 
 ## Newspaper Stats
 
-*Scraped **26,242** Articles*
+*Scraped **26,243** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,417
 economynextcom | 1,505
 dailyftlk | 1,533
 adalk | 2,235
-adaderanalk | 3,013
+adaderanalk | 3,014
 tamilmirrorlk | 3,063
 virakesarilk | 4,005
 dailymirrorlk | 4,146
@@ -26,59 +26,99 @@ adaderanasinhalalk | 4,201
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,238 (100.0%) of 26,242 articles have been extended.
+26,242 (100.0%) of 26,243 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-25 (Saturday)
 
-### கொழும்பில் முக்கிய வீதிகளுக்கு இன்று இரவு பூட்டு
+### Perahera elephant goes on rampage in Mawanella town
+
+*2024-05-25 23:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/99437/perahera-elephant-goes-on-rampage-in-mawanella-town) · `en`
+
+An elephant has reportedly gone on a rampage at the end of a ‘Vesak Perahera’ held in the Mawanella town tonight while a mahout has been critically injured and hospitalised after being attacked by the tusker.
+
+The mahout, who was critically injured in the attack by the rampaging elephant, has been admitted to the Mawanella Base Hospital.
+
+Ada Derana reporter said that the elephant in question, “Raja” belongs to the fleet of tuskers of the Sri Dalada Maligawa, Kandy.
+
+The incident had reportedly occurred at around 8.00 p.m. tonight at the end of the Perahera (procession).
+
+Ada Derana reporter said that the elephant was later seen marching down the streets of the Mawanella town in a panic, and has now been kept under special security at the market grounds.
+
+◼️
+
+[Data](articles/5353e87a.json)
+
+---
+
+### Lock Tonight to Main Street in Colombo
 
 *2024-05-25 23:13:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பில்-முக்கிய-வீதிகளுக்கு-இன்று-இரவு-பூட்டு/175-337839) · `ta`
 
-தற்போது நிலவும் சீரற்ற வானிலை காரணமாக கொழும்பில் பல வீதிகளை இன்று (25) இரவு மூடவுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+Due to bad weather, several roads in Colombo will be shut down tonight. The Colombo Brave Place has announced the closure of roads from Sir Lester James Peiris to Borella Maya Circuit, as stated by Niwal Dalal Dalatuwa.
 
-அதன்படி கொழும்பு பிரேபுரூக் பிளேஸ், பொரளை மயான சுற்றுவட்டத்தில் இருந்து தும்முல்லை சந்தி, பௌத்தலோக மாவத்தை, சர் லெஸ்டர் ஜேம்ஸ் பீரிஸ் சுற்றுவட்டத்திலிருந்து ரொட்டுண்டா சுற்றுவட்டம் வரையான வீதிகளை மூடுவதற்கு தீர்மானிக்கப்பட்டுள்ளதாக பொலிஸ் ஊடகப் பச்சாளர், பிரதி பொலிஸ் மா அதிபர் சட்டத்தரணி நிஹால் தல்துவ தெரிவித்துள்ளார். R
+🟩
+
+Due to the inclement weather, many roads in Colombo will be closed tonight, police said.
+
+Accordingly, the Colombo Brave Place, Colombo, has decided to close the roads from Sir Lester James Peiris to Sir Lester James Peiris from the Borella Maya Circuit, Buddhist Magadhi, said Niwal Dalal Dalatuwa.. Remble
 
 ◼️
 
 [Data](articles/57b894a0.json)
 
+[Extended Data](ext_articles/57b894a0.ext.json)
+
 ---
 
-### யாழில் மோதலை தடுக்கச் சென்ற இளைஞன் உயிரிழப்பு - மச்சான் கைது
+### Machan arrested for death in Jaffna
 
 *2024-05-25 23:08:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/யாழில்-மோதலை-தடுக்கச்-சென்ற-இளைஞன்-உயிரிழப்பு-மச்சான்-கைது/71-337838) · `ta`
 
-யாழ்ப்பாணம் - தாவடி பகுதியில் தனது தந்தைக்கும் மச்சானுக்கும் இடையில் ஏற்பட்ட மோதலை தடுக்கச் சென்ற, 23 வயதுடைய வரதராசா நியூட்சன் எனும் இளைஞன் கத்திக்குத்துக்கு இலக்காகி உயிரிழந்துள்ளார்.
+In Jaffna, a 23-year-old, Varadarasa Newkson, was stabbed to death in a dispute between his father and husband. The victim tried to intervene but was injured. He was hospitalized but passed away untreated. The attacker was arrested and is being questioned by the police.
 
-கடந்த 2ஆம் திகதி இளைஞனின் தந்தைக்கும் , இளைஞனின் அக்காவின் கணவருக்கும் இடையில் முரண்பாடு ஏற்பட்டு, கைக்கலப்பாக மாறியுள்ளது.
+🟩
 
-அதனை அவதானித்த இளைஞன் இருவருக்கும் இடையிலான மோதலை தடுக்க முற்பட்ட வேளை அக்காவின் கணவரின் கத்திகுத்துக்கு இலக்காகி படுகாயமடைந்துள்ளனர்.
+A 23 -year -old Varadarasa Newkson, a young man, has been killed by a knife in the Jaffna -Dawadi area.
 
-படுகாயமடைந்த இளைஞனை அங்கிருந்து மீட்டு , சிகிச்சைக்காக யாழ்.போதனா வைத்தியசாலையில் அனுமதிக்கப்பட்டு, சிகிச்சை பெற்று வந்த நிலையில் வெள்ளிக்கிழமை சிகிச்சை பலனின்றி உயிரிழந்துள்ளார்.
+On the 2nd, the conflict between the young man's father and the young man's husband has become a kaikkal.
 
-சம்பவம் தொடர்பில் விசாரணைகளை முன்னெடுத்த சுன்னாகம் பொலிஸார் கத்திக்குத்து தாக்குதல் மேற்கொண்டவரை கைது செய்து மல்லாகம் நீதவான் நீதிமன்றில் முற்படுத்திய வேளை , சந்தேகநபரை விளக்கமறியலில் வைக்குமாறு மன்று உத்தரவிட்டுள்ளது. R
+The young man who observed it was trying to prevent the clash between the two and was injured.
+
+The victim was rescued and admitted to the Jaffna Bodhana Hospital for treatment and was treated on Friday without treatment.
+
+The Chunnakam police, who investigated the incident, arrested the man who had been arrested by the Mallakam Magistrate's Court and ordered the suspect to be interrogated.. Remble
 
 ◼️
 
 [Data](articles/de49b557.json)
 
+[Extended Data](ext_articles/de49b557.ext.json)
+
 ---
 
-### நுவரெலியா வலயக் கல்வி பணிமனையில் தமிழ் புறக்கணிப்பு?
+### Tamil boycott at Nuwara Eliya Zonal Education Workshop?
 
 *2024-05-25 22:59:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/நுவரெலியா-வலயக்-கல்வி-பணிமனையில்-தமிழ்-புறக்கணிப்பு/76-337837) · `ta`
 
-நுவரெலியா வலய கல்வி பணிமனையின் பணிப்பாளர் அதிபர்களுக்கான கூட்டம் நடைபெறுகின்றமை தொடர்பாக தமிழ் பாடசாலை அதிபர்களுக்கும் சிங்கள மொழியில் அறிவிக்கப்பட்டிருக்கின்றமை தொடர்பாக தமது அதிருப்தியை அதிபர்கள் வெயிட்டுள்ளனர்.
+Nuwara Eliya Zonal Education Workshop faced a Tamil boycott due to alleged miscommunication and lack of transparency. Principals claimed directors failed to inform them adequately about meetings, leading to dissatisfaction. The situation escalated when a letter was sent on the day of the meeting, prompting educators to sign without reading it. The workshop officials canceled the meeting and promised bilingual announcements, but the damage was done, highlighting communication issues within the education system.
 
-இது தொடர்பாக பல அதிபர்கள் நுவரெலியா மாவட்ட பாராளுமன்ற உறுப்பினர்களின் கவனத்திற்கு கொண்டு வந்துள்ளதாகவும் அண்மைக் காலமாக அநேகமான கடிதங்கள் இவ்வாறு கிடைக்கப் பெறுவதாகவும் அதிபர்கள் குற்றம் சுமத்துகின்றனர்.
+🟩
 
-கடந்த காலங்களில் கடமையில் இருந்த பல வலயக் கல்வி பணிமனையின் பணிப்பாளர்கள் தமிழ் மொழியில் கடிதங்கள் உட்பட அனைத்து விடயங்களையும் தங்களுக்கு அறிவித்திருந்தனர் எனவும், புதிதாக வருகை தந்துள்ள வலய கல்வி பணிப்பாளர் தொடர்ந்து இவ்வாறான செயற்படுகளில் ஈடுபட்டு வருவதாகவும் அதிபர்கள் குற்றம் சுமத்துகின்றனர்.
+The Director of the Nuwara Eliya Zonal Education Workshop has expressed their dissatisfaction with the announcement of the meeting for the Principals of the Tamil school.
+
+The principals allege that many principals have brought to the notice of Nuwara Eliya district parliamentarians in this regard and that many letters have been obtained in recent years.
+
+The principals have accused the directors of the Zonal Education Workshop in the past that the directors of the Zonal Education Workshop have informed them of all the issues, including letters, and that the newly visited Zonal Education Director is continuing to engage in such activities.
+
+It is also revealed that the letter has been sent on the date of the meeting.. Therefore, the educators have expressed their displeasure over the letters sent through the Education Workshop without any responsibility and have signed the letter without reading the letter of the Zonal Education Director of the Education Workshop.
 
 ...
 
 [Data](articles/4684d667.json)
+
+[Extended Data](ext_articles/4684d667.ext.json)
 
 ---
 
@@ -1226,6 +1266,8 @@ High winds had rains have brought down trees across power lines and transformers
 
 [Data](articles/c0b69598.json)
 
+[Extended Data](ext_articles/c0b69598.ext.json)
+
 ---
 
 ### Death of Gamini Marapana
@@ -2287,21 +2329,5 @@ With 6 tickets up for grabs by 3 lucky winners, Seylan Card holders need to carr
 [Data](articles/14494d70.json)
 
 [Extended Data](ext_articles/14494d70.ext.json)
-
----
-
-### Poverty of Hope Among Sri Lankan Tamils due to Widespread Economic Misery Compounded by the 2022 Financial Crisis and a Fractured Tamil Polity
-
-*2024-05-25 01:11:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84091) · `en`
-
-When Antony Jesurathnam Mariapushparani, 62, recalls the horrific final days of Sri Lanka’s civil war in striking detail, it is hard to believe it has been 15 years since its end.
-
-“That is where we prepared and had the kanji (porridge); that is where we headed to cross the Vattuvagal bridge; that is where we waited,” she says breathlessly, showing once-bloody spots in Mullivaikkal, a village in Mullaitivu district on the north-eastern coast. Many Tamil civilians had crossed the bridge in May 2009, hoping that moving into government-controlled territory on the other side would be safer.
-
-...
-
-[Data](articles/7dbb9ab8.json)
-
-[Extended Data](ext_articles/7dbb9ab8.ext.json)
 
 ---

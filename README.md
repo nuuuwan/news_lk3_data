@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-25 10:18:55**
+As of **2024-05-25 10:33:59**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,179
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,155 (100.0%) of 26,159 articles have been extended.
+26,158 (100.0%) of 26,159 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -52,6 +52,8 @@ With a market capitalization of around $23.6 billion, Dogecoin is now the ninth 
 
 [Data](articles/f388e075.json)
 
+[Extended Data](ext_articles/f388e075.ext.json)
+
 ---
 
 ### Yupun Abeykoon wins gold in men’s 100m at Anhalt Athletic Championship
@@ -67,6 +69,8 @@ The "Anhalt 2024 - Internationales Leichtathletik Meeting," a World Athletics Co
 ◼️
 
 [Data](articles/147a0761.json)
+
+[Extended Data](ext_articles/147a0761.ext.json)
 
 ---
 
@@ -266,29 +270,41 @@ From time to time in the rest of the island.. The Department further stated that
 
 ---
 
-### ඉන්දුනීසියාවේ බුදු දහම ගැන ඔබ මෙම කරුණු දැන සිටියා ද?
+### Did you know these issues about Buddhism in Indonesia?
 
 *2024-05-25 03:39:38* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cxwwnp77m87o) · `si`
 
-ථෙරවාද, මහායාන සහ වජ්‍රයාන ඇතුළු බුදු දහමේ විවිධ ඉගැන්වීම් අද මුළු මහත් ඉන්දුනීසියාව පුරා පැතිර පවතී. එය ආරම්භ වූයේ කෙසේ ද සහ 1965 ඛේදවාචකයෙන් පසු බුද දහම විවිධ සම්ප්‍රදායන්ට වෙන් වූයේ කෙසේ ද?
+It seems like you've shared a detailed narrative about the evolution of Buddhism in Indonesia, particularly focusing on the influence of Ashin Thera and the development of a unique Buddhist tradition that incorporates elements of Indonesian multiculturalism and language. This narrative touches upon the historical context of Buddhism in Indonesia, including its interaction with the government, the rise of Christianity among certain groups, and the adaptation of Buddhism to fit local cultures.
 
-පාසල් අවධියේ එක් දිනක මම ජකර්තා නුවර දකුණු ප්‍රදේශයේ පිහිටා ඇති මිතුරෙකුගේ නිවස වෙත ගියෙමි. මා මෙන් ම මේ මිතුරා ද චීන සම්භවයක් ඇති අයෙකි. වෙනස ඇත්තේ ඔහු කිතුණුවෙකු වීමත් මා බෞද්ධයෙකු වීමත් ය.
 
-යළි නිවස බලා යාමට අවශ්‍ය වූ පසු මා ඔහුගේ මවට සමුදුන් අතර ඇය මා නිවසේ ගේට්ටුව වෙත කැටුව ආවා ය.
 
-එහිදී ඇය මා සමග කෙටි සල්ලාපයක යෙදුණා ය: "මොන පල්ලියට ද ඔයා යන්නේ?"
+If you have specific questions or need further clarification on any part of this narrative, feel free to ask
 
-යළිත් වරක් ඇයට සමුදී පිටව යාමට පෙර මම ඊට "ඔව්" ලෙස පිළිතුරු දුන්නෙමි.
+🟩
 
-කුමක් හෝ හේතුවක් නිසා මා එම මිතුරාගේ නිවසට ගොස් වසර 15කට වැඩි කාලයකට ගතව තිබුණ ද ඇය එදින පැවසූ "තවමත් බෞද්ධ" යන ප්‍රකාශය මා නොසන්සුන්තාවට පත් කළේ ය.
+The various teachings of Buddhism, including theravada and wita, is spreading throughout the entire Indonesia today. How did it break into different traditions after it began?
 
-ඇයගේ චේතනාව අයහපත් එකක් නොවිණි. ඇය එය පැවසුවේ සාමාන්‍ය ස්වරයකින් මිස සමච්චලයට නොවේ.
+One day at the school phase I went to the house of a friend located in the southern part of Jakarta. Like me, this friend is also a Chinese origin. The difference is that he is a Christian and is a Buddhist.
 
-කෙසේ වෙතත්, එම ප්‍රකාශයට සිහියට නැගෙන ඇතැම් අවස්ථාවලදී මම, "ඉතින් මොක ද, මම තාම බෞද්ධයෙක් වුණා ම?" යැයි මාගෙන් ප්‍රශ්න කරමි.
+After I wanted to return home, I came to his mother, and she came to my gate.
+
+There she briefly replied with me: "What church are you going?"
+
+Back to her again I have answered "yes" before she left.
+
+For more than 15 years, for more than 15 years, I have been unrest that I was saying that "still Buddhist" on the same day.
+
+Her motive was not bad. She said it was by a normal tone and not to ridicule.
+
+However, when I think of the statement, I said, "So what have I been in a Buddhist?"I question me that I am.
+
+My family is followers of Trotic Policies and is literally, "three teachings of truth".
 
 ...
 
 [Data](articles/77712f63.json)
+
+[Extended Data](ext_articles/77712f63.ext.json)
 
 ---
 

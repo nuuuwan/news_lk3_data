@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-25 14:03:55**
+As of **2024-05-25 14:18:53**
 
 ## Newspaper Stats
 
@@ -26,21 +26,27 @@ adaderanasinhalalk | 4,185
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,182 (100.0%) of 26,186 articles have been extended.
+26,186 (100.0%) of 26,186 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-25 (Saturday)
 
-### ගාමිණි මාරපන අභාවප්‍රාප්ත වෙයි
+### Death of Gamini Marapana
 
 *2024-05-25 13:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196993) · `si`
 
-ජනාධිපති නීතිඥ ගාමිණි මාරපන මහතා අද (25) උදෑසන අභාවප්‍රාප්ත වී තිබේ.
+Gamini Marapana, President's Counsel, passed away today.
+
+🟩
+
+President's Counsel Gamini Marapana has passed away this morning (25).
 
 ◼️
 
 [Data](articles/472e8a0f.json)
+
+[Extended Data](ext_articles/472e8a0f.ext.json)
 
 ---
 
@@ -58,39 +64,53 @@ Police released a photograph of the suspect and request the public to provide in
 
 [Data](articles/3ac27c12.json)
 
+[Extended Data](ext_articles/3ac27c12.ext.json)
+
 ---
 
-### මෙම සැකකරු ගැන නිවැරදි තොරතුරක් දුන්නොත් මුදල් තෑගි
+### If you give the right information about the suspect, the money gifts
 
 *2024-05-25 13:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196992) · `si`
 
-විශේෂ විමර්ශනයකට අදාළව අත්අඩංගුවට ගැනීමට අවශ්‍යව සිටින සැකකරුවෙක් සම්බන්ධයෙන් තොරතුරක් වෙතොත් දැනුම්දෙන ලෙස පොලිස්පතිවරයා ජනතාවගෙන් ඉල්ලා සිටී.
+The IGP seeks public help to identify Gerard Pushraja from Demodagoda for arrest. The Criminal Investigations Department is involved in the investigation. Informants providing accurate details will receive monetary rewards.
 
-අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව දිසාව මගින් අදාළ සැකකරු සම්බන්ධයෙන් විමර්ශන සිදුකරයි.
+🟩
 
-මෙම සැකකරු දෙමටගොඩ ප්‍රදේශයේ පදිංචි ජෙරාඩ් පුෂ්පරාජා ඔස්මන් ජෙරාඩ් නම් පුද්ගලයා බව පොලීසිය පවසයි.
+The IGP requests the public to inform the people of a suspect who is needed to arrest in the area.
 
-මෙම සැකකරු පිළිබඳව නිවැරදි තොරතුරක් ලබාදෙන පුද්ගලයෙකුට රුපියල් ලක්ෂ 20ක ත්‍යාග මුදලක් ලබාදෙන බවද පොලිස් මූලස්ථානය සඳහන් කළේය.
+The Criminal Investigations Department is investigating the suspect in the district.
+
+Police say that the suspect is Gerard Pushraja, a resident of Demodagoda, police said.
+
+The police headquarters said that a person who provides accurate information on the suspect is given a gift of Rs.
 
 ◼️
 
 [Data](articles/72c511e3.json)
 
+[Extended Data](ext_articles/72c511e3.ext.json)
+
 ---
 
-### මිලිමීටර් 350කට අධික වර්ෂාවක් ඇදහැලෙයි
+### Over 350mm get rainy
 
 *2024-05-25 13:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196990) · `si`
 
-ඇතැම් ප්‍රදේශවලට මිලිමීටර් 350කට අධික වර්ෂාවක් ලැබී ඇති බවට වාර්තා වෙන බවත් ඒ හේතුවෙන් ඉදිරියේදී ඇදහැලෙන සුළු වර්ෂාවකදී පවා නායයෑමේ අනතුරක් සිදුවිය හැකි බවට ජාතික ගොඩනැගිලි පර්යේෂණ සංවිධානයේ අනතුරු අඟවයි.
+Areas like Kegalle, Ratnapura, and Kalutara may see over 350mm rainfall, posing risks of landslides and accidents.
 
-ජාතික ගොඩනැගිලි පර්යේෂණ සංවිධානයේ ජ්‍යේෂ්ඨ විද්‍යාඥ වසන්ත සේනාධීර මහතා මේ බව පැවසීය.
+🟩
 
-"කෑගල්ල, රත්නපුර, කළුතර යන දිස්ත්‍රික්කවල ඇතැම් ස්ථානවලට මිලිමීටර් 350ට අධික වර්ෂාපතනයක් ලැබී තිබෙනවා. ජනතාව ඒ සම්බන්ධව අවධානයෙන් සිටින්න ඕනේ. ඉදිරියේදී ලැබෙන සුළු වර්ෂාවකින් වුවද කණ්ඩි කඩා වැටීම් සහ නායයෑම් අනතුරක් සිදුවිය හැකියි."
+In some areas, the National Building Research Organization warns that there will be over 350 millimeters.
+
+The Senior Scientific Research Organization of the National Building Research Organization, Mr. Wasantha Senadheera said this.
+
+"Some places in Kegalle, Ratnapura and Kalutara districts have received over 350 millips. People should be aware of the. Even in the future, the crashes and a landslide accident can occur. "
 
 ◼️
 
 [Data](articles/c9993dd9.json)
+
+[Extended Data](ext_articles/c9993dd9.ext.json)
 
 ---
 

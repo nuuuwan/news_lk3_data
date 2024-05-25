@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-25 16:18:34**
+As of **2024-05-25 16:33:50**
 
 ## Newspaper Stats
 
-*Scraped **26,195** Articles*
+*Scraped **26,198** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,35 +16,103 @@ islandlk | 1,417
 economynextcom | 1,504
 dailyftlk | 1,533
 adalk | 2,232
-adaderanalk | 3,006
+adaderanalk | 3,007
 tamilmirrorlk | 3,054
 virakesarilk | 4,001
 dailymirrorlk | 4,137
-adaderanasinhalalk | 4,188
+adaderanasinhalalk | 4,190
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,194 (100.0%) of 26,195 articles have been extended.
+26,195 (100.0%) of 26,198 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-25 (Saturday)
 
-### சிறிய மழை பெய்தாலும் பாரிய மண்சரிவு ஏற்படும்
+### IPL කුසලානය කාටද ?
+
+*2024-05-25 16:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196999) · `si`
+
+මෙවර IPL තරගාවලියේ අවසන් මහා තරගයට සුදුසුකම් ලබා ගැනීමට සන්රයිසස් හයිද්‍රාබාද් කණ්ඩායම ඊයේ (24) රාත්‍රියේ සමත්විය.
+
+ඒ අවසන් තරග වටයේ තුන්වැනි තරගයේදී රාජස්ථාන් රෝයල්ස් කණ්ඩායම ලකුණු 36කින් පරාජය කරමිනි.
+
+සන්රයිසස් හයිද්‍රාබාද් කණ්ඩායම IPL අවසන් තරගයකට සුදුසුකම් ලබා ගත් තුත්වැනි අවස්ථා මෙය වන අතර  මෙවර IPL අවසන් මහ තරගය කොල්කටා නයිට් රයිඩර්ස් සහ සන්රයිසස් හයිද්‍රාබාද් කණ්ඩායම අතර චෙන්නායි හිදී හෙට (26) පැවැත්වීමට නියමිතය.
+
+◼️
+
+[Data](articles/3c1f17d3.json)
+
+---
+
+### Fallen trees and signal failures continue to disrupt train services
+
+*2024-05-25 16:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/99431/fallen-trees-and-signal-failures-continue-to-disrupt-train-services-) · `en`
+
+The night mail trains to and from Badulla and other special trains on the up-country line have been cancelled today (25) due to trees and rocks falling onto the tracks, Sri Lanka Railways announced.
+
+Meanwhile, Deputy General Manager of Railways, N.J. Indipolage, stated that over 15 incidents of trees falling on to the rail tracks have been reported so far.
+
+Additionally, power interruptions have caused critical issues in maintaining the railway signaling system, especially beyond Nanu Oya railway station, he added.
+
+The Department of Railways also urged motorists to be vigilant while driving across railway crossings, as signal failures are possible at level crossings due to power breakdowns.
+
+Drivers are advised to be cautious when crossing level crossings if there is no signal or if the electric bells continue to ring with only a red signal at the crossings.
+
+◼️
+
+[Data](articles/eb513838.json)
+
+---
+
+### Massive landslide can occur despite the small rainfall
 
 *2024-05-25 16:07:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறிய-மழை-பெய்தாலும்-பாரிய-மண்சரிவு-ஏற்படும்/175-337830) · `ta`
 
-சில பிரதேசங்களில் சிறிய மழை பெய்தாலும் மண்சரிவு அபாயம் ஏற்படலாமென  தேசிய கட்டிட ஆராய்ச்சி அமைப்பின் சிரேஷ்ட ஆலோசகர் எச்சரிக்கை விடுத்துள்ளார்.
+Despite minimal rainfall, there's a high risk of massive landslides in certain regions due to heavy rainfalls in Kegalle, Ratnapura, and Kalutara districts. The National Building Research Organization advises caution as even light showers could trigger landslides.
 
-‘கேகாலை, இரத்தினபுரி மற்றும் களுத்துறை மாவட்டங்களில் சில இடங்களில் 350 மில்லிமீற்றருக்கும் அதிகமான மழை பெய்துள்ளது.
+🟩
 
-மக்கள் அவதானமாக இருக்க வேண்டும். எதிர்காலத்தில் சிறிதளவு மழை பெய்தாலும் மண்சரிவு ஏற்படலாம்.’ எனக் குறிப்பிட்டுள்ளார். R
+The senior adviser to the National Building Research Organization has warned that some areas are in danger of landslides despite the risk of rainfall in some areas.
+
+More than 350 millimeters of rainfall has been reported in some places in Kegalle, Ratnapura and Kalutara districts.
+
+People should be vigilant. Even if it rains in the future, it will occur.. Remble
 
 ◼️
 
 [Data](articles/f10de1cf.json)
+
+[Extended Data](ext_articles/f10de1cf.ext.json)
+
+---
+
+### මෙවර කුණාටු වඩාත් ප්‍රචණ්ඩකාරී වෙයි
+
+*2024-05-25 15:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196998) · `si`
+
+මෙවර අත්ලාන්තික් සුළි කුණාටු සමයේදී වඩාත් ප්‍රචණ්ඩකාරී සුළි කුණාටු වාර්තා විය හැකි බවට අමෙරිකානු ජාතික සාගර සහ වායුගෝලීය අධිකාරිය පුරෝකතනය කරයි.
+
+අත්ලාන්තික් සුළි කුණාටු සමය සාමාන්‍යයෙන් ආරම්භ වන්නේ ජූනි පළමු සතියේ දී ය.
+
+බලධාරීන් පුරෝකතනය කරන්නේ මෙවර කුණාටු සමයේදී කුණාටු 25කට ආසන්න සංඛ්‍යාවක් වාර්තාවිය හැකි බවය.
+
+ඒ අතරින්, සියයට 85ක් පමණ සාමාන්‍ය ප්‍රමාණයට වඩා ප්‍රචණ්ඩකාරී වනු ඇතැයි ඔවුන් පවසයි.
+
+ඉන් ආසන්න වශයෙන් කුණාටු 7ක් පමණ තෙවන මට්ටමේ හෝ ඊට ඉහළ මට්ටමේ වඩාත් ප්‍රචණ්ඩකාරී කුණාටු වනු ඇතැයි සඳහන් ය.
+
+මෙම තත්ත්වයට හේතුවන්නේ පොළොව මතුපිට සිසිල් වීමට හේතුවන ලා නීනා කාලගුණ සංසිද්ධියයි.
+
+ඉන් වැඩි බලපෑමක් එල්ල වන්නේ කවර රටවලටද යන්න පුරෝකතනය කළ නොහැකි බව බලධාරීන් තවදුරටත් පෙන්වා දෙයි.
+
+2023 වසරේ දී සුළි කුණාටු 20ක් වාර්තා වූ අතර ඒ අතරින් 14ක් වඩාත් ප්‍රචණ්ඩකාරී ස්වරූපයක් ගෙන තිබුණි.
+
+◼️
+
+[Data](articles/abeb091c.json)
 
 ---
 
@@ -2247,75 +2315,5 @@ Meanwhile, President Ranil Wickremesinghe was handed over to the public by Presi
 [Data](articles/462915bb.json)
 
 [Extended Data](ext_articles/462915bb.ext.json)
-
----
-
-### Suggested to the Government of Bidan to include Sri Lanka on special surveillance list
-
-*2024-05-24 17:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/184391) · `ta`
-
-The US Commission on International Religious Freedom recommended the inclusion of Sri Lanka on a special surveillance list due to ongoing religious oppression and violence against minorities. The report highlighted the Sri Lankan government's failure to protect religious minorities, particularly Buddhists targeting Christians and Muslims. It detailed challenges in church registration, misuse of anti-terrorism laws, forced detentions, and land seizures by the Archaeological Department affecting Hindus and Muslims. The report called for the implementation of the UN Human Rights Council's resolution and revisions to the Terrorism Act to address these issues.
-
-🟩
-
-The Sri Lankan government fails to prevent the oppression of Buddhist monks against religious minorities. The US Commission on International Religious Freedom, which has pointed out that the Sri Lankan government has failed to prevent peace and violence against the religious minorities by Buddhist monks on various occasions that the US Commission has indicated in the annual report on Sri Lanka's secularism.
-
-In 2023, the US Commission has issued a 102 -page annual report on the religious institution, including the steps to the US government on the level of the religious institution of the country, and the steps to be taken on the religious status of those countries, including the Religious Affairs.. In this case, the key issues indicated on the status quo of Sri Lanka are:
-
-Sri Lanka's religious status continued in 2023 and continued. The Sri Lankan government has continued to oppress and threaten religious minorities and sometimes refuse to enter their places of worship.
-
-...
-
-[Data](articles/9975fac7.json)
-
-[Extended Data](ext_articles/9975fac7.ext.json)
-
----
-
-### Is Hyderabad to oppose Kolkata in the final?Rajasthan?;The second qualifying competition in Chennai today
-
-*2024-05-24 17:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/184402) · `ta`
-
-Hyderabad faces Kolkata in the IPL final after defeating Rajasthan in the qualifiers. Both teams have shown impressive performances, but Hyderabad's talent edge might give them an advantage. Key players like Travis Head and Abhishek Sharma could be crucial for Hyderabad, while Rajasthan may rely on their tried-and-tested lineup from the eliminator match.
-
-🟩
-
-The second qualifying tournament to play in the final of the 17th Indian Premier League League Athathi will be held against Kolkata Knight Riders on Sunday.. A.. The Chidambaram Stadium will be held tonight.
-
-Sunrisers Hyderabad will play in today's second qualifying match as they lost their first qualification against Kolkata Knight Riders.
-
-On the other hand, Rajasthan Royals qualified to play in the second qualification by winning the Royal Challengers Bangalore team in the elimination match.
-
-It is difficult to determine which team is strong in the two teams - Sunrisers Hyderabad and Rajasthan Royals.
-
-But when looking at the energy manifestations of the two teams in the league matches, Sunrisers Hyderabad's talent is slightly overwhelmed.
-
-Sunrisers Hyderabad took the pride of renewing it in the tournament.
-
-Sunrisers Hyderabad's record of 263 runs for the loss of 5 wickets in 2013 against the Royal Challengers Pune Warriors in 2013 is revealed by 3 times this year.
-
-...
-
-[Data](articles/17ae2046.json)
-
-[Extended Data](ext_articles/17ae2046.ext.json)
-
----
-
-### National policy on planting trees soon: Pramitha Bandara
-
-*2024-05-24 17:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/National-policy-on-planting-trees-soon-Pramitha-Bandara/108-283308) · `en`
-
-Colombo, May 24 (Daily Mirror)- Claiming that an increase in accidents involving fallen trees by the roadsides have been observed recently, State Minister of Defense Pramitha Banadara Tennakoon said and added that a special committee will be appointed soon to draft a national policy on planting trees.
-
-He told a news conference that a national policy will be introduced aiming to control and mitigate accidents caused due to falling and fallen trees.
-
-The Minister said there is no policy for tree planting in Sri Lanka where anyone can plant any tree at any time and added that the Singapore model is to be studied and adopted in this regard.
-
-...
-
-[Data](articles/8979d115.json)
-
-[Extended Data](ext_articles/8979d115.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-25 15:18:41**
+As of **2024-05-25 15:34:19**
 
 ## Newspaper Stats
 
-*Scraped **26,191** Articles*
+*Scraped **26,192** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,31 @@ adaderanalk | 3,005
 tamilmirrorlk | 3,053
 virakesarilk | 4,001
 dailymirrorlk | 4,137
-adaderanasinhalalk | 4,186
+adaderanasinhalalk | 4,187
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,190 (100.0%) of 26,191 articles have been extended.
+26,191 (100.0%) of 26,192 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-25 (Saturday)
+
+### ලොවක් හඳුනන සුරතලා මිය යයි
+
+*2024-05-25 15:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196995) · `si`
+
+ක්‍රිප්ටෝ මුදල් ඒකකයක් වන ඩොජ්කොයින්හි සංකේතය වන සුනඛ මුහුණට හිමිකම් කියන කබොසු සුනඛයා මිය ගොස් තිබේ.
+
+ෂීබා ඉනූ සුනඛ වර්ගයට අයත් කබොසු ලියුකේමියාව හේතුවෙන් මියගොස් ඇත.
+
+◼️
+
+[Data](articles/eea35611.json)
+
+---
 
 ### Funds earmarked for construction of homes in Northern Province next year – President
 
@@ -49,6 +63,8 @@ Furthermore, under the “Urumaya” program, 13,858 freehold deeds are schedule
 ...
 
 [Data](articles/7498e3ab.json)
+
+[Extended Data](ext_articles/7498e3ab.ext.json)
 
 ---
 
@@ -2301,25 +2317,5 @@ Papua New Guinea, Prime Minister James Marape, has said that the disaster office
 [Data](articles/742eb003.json)
 
 [Extended Data](ext_articles/742eb003.ext.json)
-
----
-
-### Iran releases first report on President Raisi’s death
-
-*2024-05-24 16:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Iran-releases-first-report-on-President-Raisis-death/108-283303) · `en`
-
-May 24- The General Staff of Iran's Armed Forces made public the first investigative report concerning the recent helicopter crash that led to the death of Iranian President Ebrahim Raisi and others.
-
-Tasnim news agency quoted the report saying the helicopter adhered to its predetermined course without any deviation.
-
-The pilot attempted communication with other helicopters in the convoy approximately 90 seconds before the crash, as per the report.
-
-It also confirmed no evidence of bullets or similar items in the wreckage.
-
-◼️
-
-[Data](articles/8af00c6f.json)
-
-[Extended Data](ext_articles/8af00c6f.ext.json)
 
 ---

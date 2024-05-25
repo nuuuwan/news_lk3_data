@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-25 05:18:38**
+As of **2024-05-25 05:36:07**
 
 ## Newspaper Stats
 
-*Scraped **26,135** Articles*
+*Scraped **26,141** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 234
 dbsjeyarajcom | 260
 bbccomsinhala | 264
 newsfirstlk | 363
-islandlk | 1,410
+islandlk | 1,416
 economynextcom | 1,503
 dailyftlk | 1,533
 adalk | 2,230
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,175
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,135 (100.0%) of 26,135 articles have been extended.
+26,135 (100.0%) of 26,141 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -54,6 +54,36 @@ Our President who rescued the country that was caught in the economic crisis. Wh
 
 ---
 
+### SLCB inspires hoteliers in Southern region to promote MICE tourism
+
+*2024-05-25 01:17:00* · [`islandlk`](http://island.lk/slcb-inspires-hoteliers-in-southern-region-to-promote-mice-tourism/) · `en`
+
+The Sri Lanka Convention Bureau (SLCB) an entity under the Ministry of Tourism and Lands successfully concluded the Southern Hoteliers Training Program on MICE Tourism on the 8th of May 2024 at the Occidental Eden Beruwala.
+
+This is one of the series of training programs that had been organized by SLCB in many parts of the country during the past few years. This particular MICE Tourism training programme was organized in order to create awareness on MICE Tourism among the southern hoteliers and for them to geared up for the upcoming Southern MICE EXPO 2024 to be held on from 27-31 May 2024. Expo will be attended by more than 100 hosted buyers across the globe and also 15 international media.
+
+This program was attended by nearly 50 participants from 20 hotels in the southern coastal belt.
+
+...
+
+[Data](articles/6ac396e4.json)
+
+---
+
+### Seylan Cards partners with Hayleys Travels to continue its Swipe and Win promo
+
+*2024-05-25 01:16:00* · [`islandlk`](http://island.lk/seylan-cards-partners-with-hayleys-travels-to-continue-its-swipe-and-win-promo/) · `en`
+
+Seylan Cards, the Essential Card for Heartfelt Essentials, has tied up with Hayleys Travels, the most reliable travel partner in Sri Lanka, to continue its Swipe and Win promo, offering Seylan Card holders an opportunity to win free airline tickets. One lucky Seylan Card holder will have the chance to win two airline tickets to Singapore starting from March 15th till June 15th 2024, monthly.
+
+With 6 tickets up for grabs by 3 lucky winners, Seylan Card holders need to carry out a minimum transaction of Rs. 5000 using their Seylan Credit Card to enter the draw. The more transactions they make, the higher their chances of winning. Seylan Bank will announce the winners on a monthly basis, ensuring transparency and fairness in the selection process.
+
+...
+
+[Data](articles/14494d70.json)
+
+---
+
 ### Vesak Annual Event by the All Ceylon Jewelry Merchants Association
 
 *2024-05-25 01:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/184424) · `ta`
@@ -71,6 +101,22 @@ Mr. Sulokama and Bogawantalawa Rahula Thera, the Superintendent of Police, Mr. K
 [Data](articles/edcfc149.json)
 
 [Extended Data](ext_articles/edcfc149.ext.json)
+
+---
+
+### High cost of mandatory currency conversions on Sri Lanka’s ability to earn foreign exchange
+
+*2024-05-25 00:48:00* · [`islandlk`](http://island.lk/high-cost-of-mandatory-currency-conversions-on-sri-lankas-ability-to-earn-foreign-exchange/) · `en`
+
+Politics and economics are concepts that are fundamentally intertwined. Yet the unprecedented economic crisis of 2022 highlighted the complex challenges of aligning short-term political goals with long-term economic strategies.
+
+While the sharp appreciation of the Sri Lankan rupee in recent months has been roundly welcomed by most sectors of society as a positive signal, this optimism overlooks the nuanced factors influencing our currency’s strength and the medium-long-term challenges that could arise from volatile fluctuations in the price of the rupee.
+
+While a stronger rupee certainly promises cheaper imports of essentials like petroleum, electricity, food medicine and other essentials in the short term, as a nation that is surviving on borrowed time and foreign currency, we cannot afford to ignore the other side of the equation – exports.
+
+...
+
+[Data](articles/e656d0c3.json)
 
 ---
 
@@ -2209,81 +2255,5 @@ The warning was issued today 10:30 am today (25) at 10:40 am today.
 [Data](articles/8be3ac77.json)
 
 [Extended Data](ext_articles/8be3ac77.ext.json)
-
----
-
-### President
-
-*2024-05-24 11:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/184358) · `ta`
-
-President Ranil Wickremesinghe visited Jaffna, welcomed by Fisheries Minister Douglas Devananda and former State Minister Vijayagala Maheshwaran. He'll receive land licenses in Northern districts and meet with local youth, focusing on development projects.
-
-🟩
-
-President Ranil Wickremesinghe has arrived in Jaffna today (24) to attend various events.
-
-Fisheries Minister Douglas Devananda and former State Minister Vijayagala Maheshwaran welcomed the President who arrived at the Central College grounds in Jaffna.
-
-President Ranil Wickremesinghe, who will be visiting the North, will be given land licenses under the National Program in Jaffna, Mullaitivu, Kilinochchi and Vavuniya districts.
-
-The President will also attend a special meeting with the youth in the North and the President will participate in 10 major events.
-
-At the same time, special attention will be paid to the development projects in the North.
-
-◼️
-
-[Data](articles/cc04c64d.json)
-
-[Extended Data](ext_articles/cc04c64d.ext.json)
-
----
-
-### The International Court of Justice on Israel's war on Gaza today
-
-*2024-05-24 11:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/184359) · `ta`
-
-The International Court of Justice (ICJ) is set to deliver a verdict on Israel's Gaza conflict amidst US concerns over Israel's international isolation. Expectations are high for the ICJ to halt Israel's military operations. The court will also consider a request to indict Israeli Prime Minister and Hamas leaders. Despite previous disregard for ICJ orders, they hold significant global importance. Israel has stated it won't comply with the ICJ's decision to cease hostilities.
-
-🟩
-
-The verdict will be issued in a situation where the US is concerned about the diplomatic isolation of Israel internationally.
-
-There is an expectation that the ICC may order Israel to stop its military action.
-
-Meanwhile, the judges will also look into the request of the International Criminal Court to issue a cabinet against Israeli Prime Minister Hamas leaders.
-
-South Africa has appealed to the International Court of Justice to stop its actions on Israeli Gaza last week.. South Africa has specially appealed to Rabba.
-
-International court orders have been ignored in the past, but they are internationally important.
-
-Israel has said it will not accept the International Court of Justice to stop the war.
-
-◼️
-
-[Data](articles/51078d88.json)
-
-[Extended Data](ext_articles/51078d88.ext.json)
-
----
-
-### Desperate Sri Lankans seek risky foreign jobs amid tough IMF reforms
-
-*2024-05-24 11:00:00* · [`economynextcom`](https://economynext.com/desperate-sri-lankans-seek-risky-foreign-jobs-amid-tough-imf-reforms-164462/) · `en`
-
-ECONOMYNEXT – After working 11 years in Saudi Arabia as a driver, Sanath returned to Sri Lanka with dreams of starting a transport service company, buoyed by Gotabaya Rajapaksa’s 2019 presidential victory.
-
-However, the COVID-19 pandemic in 2020 and an unprecedented economic crisis in 2022 shattered his dreams. Once an aspiring entrepreneur, he became a bank defaulter.
-
-Facing hyperinflation, an unbearable cost of living, and his family’s daily struggles, Sanath sought greener pastures again—this time in the United Arab Emirates (UAE).
-
-“I had to pay 900,000 rupees ($3,000) to secure a driving job here,” Sanath (45), a father of two, told EconomyNext while having a cup of tea and a parotta for dinner near Khalifa University in Abu Dhabi.
-
-Working for a reputed taxi company in the UAE, Sanath’s modest meal cost only 3 UAE dirhams (243 Sri Lankan rupees). Despite a monthly salary of around 3,000 dirhams, he limits his spending to save as much as possible.
-
-...
-
-[Data](articles/d2a7b2e7.json)
-
-[Extended Data](ext_articles/d2a7b2e7.ext.json)
 
 ---

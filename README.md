@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-25 12:06:02**
+As of **2024-05-25 12:18:19**
 
 ## Newspaper Stats
 
-*Scraped **26,168** Articles*
+*Scraped **26,169** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,13 +20,13 @@ adaderanalk | 3,002
 tamilmirrorlk | 3,052
 virakesarilk | 3,992
 dailymirrorlk | 4,134
-adaderanasinhalalk | 4,180
+adaderanasinhalalk | 4,181
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,167 (100.0%) of 26,168 articles have been extended.
+26,168 (100.0%) of 26,169 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -117,6 +117,20 @@ She made a complaint when she was asked to pay Rs.30,000, and the suspect was ar
 [Data](articles/99721f19.json)
 
 [Extended Data](ext_articles/99721f19.ext.json)
+
+---
+
+### කිලිනොච්චියට කාන්තා සෞඛ්‍ය පිළිබඳ විශේෂ විශිෂ්ටතා මධ්‍යස්ථානයක්
+
+*2024-05-25 10:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196987) · `si`
+
+කිලිනොච්චි දිස්ත්‍රික් මහ රෝහලේ කාන්තා සෞඛ්‍ය සේවා සඳහා වන විශිෂ්ටතා මධ්‍යස්ථානය (Centre of Excellence for Women’s Healthcare) අද (25) විවෘත කෙරුණි.
+
+දිවයින පුරා සෞඛ්‍ය සේවා පහසුකම් වැඩිදියුණු කිරීම සඳහා වන රජයේ වැඩසටහන යටතේ මෙය සිදුකර තිබේ.
+
+◼️
+
+[Data](articles/d4a25da6.json)
 
 ---
 
@@ -265,6 +279,8 @@ The resort will have a 687-room Cinnamon Life hotel and the Nuwa hotel described
 ...
 
 [Data](articles/b61293d8.json)
+
+[Extended Data](ext_articles/b61293d8.ext.json)
 
 ---
 
@@ -2271,23 +2287,5 @@ Meanwhile, the Department of Meteorology announces that the sea areas can also b
 [Data](articles/a08112da.json)
 
 [Extended Data](ext_articles/a08112da.ext.json)
-
----
-
-### Over 1,280 Naval personnel discharged during general amnesty
-
-*2024-05-24 13:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Over-1-280-Naval-personnel-discharged-during-general-amnesty/108-283298) · `en`
-
-Colombo ,May 23 (Daily Mirror) -  A total of 1,289 naval personnel who were absent without leave (AWL) have been legally discharged during the General Amnesty period from April 20 to May 20, 2024.
-
-This amnesty applied exclusively to sailors, excluding Artificers, Professional Medical and Professional Dental sailors, allowing them to obtain an official discharge.
-
-During this period, 1,254 AWL naval personnel and an additional 35 naval personnel currently overseas and AWL were officially discharged.
-
-◼️
-
-[Data](articles/f44641ad.json)
-
-[Extended Data](ext_articles/f44641ad.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-25 12:33:57**
+As of **2024-05-25 12:50:50**
 
 ## Newspaper Stats
 
-*Scraped **26,172** Articles*
+*Scraped **26,173** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,417
 economynextcom | 1,504
 dailyftlk | 1,533
 adalk | 2,232
-adaderanalk | 3,002
+adaderanalk | 3,003
 tamilmirrorlk | 3,053
 virakesarilk | 3,992
 dailymirrorlk | 4,135
@@ -26,23 +26,53 @@ adaderanasinhalalk | 4,181
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,169 (100.0%) of 26,172 articles have been extended.
+26,172 (100.0%) of 26,173 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-25 (Saturday)
 
-### பெண்களுக்கான சிறப்பு சுகாதார நிலையம் திறந்து வைப்பு
+### 19-year-old dies after allegedly jumping from flyover to expressway
+
+*2024-05-25 12:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/99425/19-year-old-dies-after-allegedly-jumping-from-flyover-to-expressway) · `en`
+
+A youth is suspected to have jumped to his death from a flyover to the Outer Circular Highway in Colombo last night (24).
+
+The 19-year-old male had died after falling from the flyover near the 1.2km post of the Outer Circular Highway in Colombo on to the expressway at around 7.00 p.m. last night.
+
+At the time, he had collided with a car heading towards Matara, police said.
+
+The youth, who was seriously injured in the accident, was pronounced dead after being admitted to Homagama Base Hospital for treatment.
+
+However, police state that the incident has occurred under suspicious circumstances as they believe the deceased may have attempted to take his own life.
+
+The deceased, a 19-year-old resident of the Athurugiriya area, was following a course at a private university in Padukka, the police said.
+
+The vehicle, in which the deceased had come into contact with, was also damaged in the incident while the police have arrested the driver of the car.
+
+...
+
+[Data](articles/62639d58.json)
+
+---
+
+### Deposit of Special Health Center for Women
 
 *2024-05-25 11:47:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/பெண்களுக்கான-சிறப்பு-சுகாதார-நிலையம்-திறந்து-வைப்பு/72-337828) · `ta`
 
-கிளிநொச்சி மாவட்ட பொது வைத்தியசாலையில் 5,320 மில்லியன் ரூபா செலவில் நிர்மாணிக்கப்பட்டுள்ள பெண்களுக்கான சிறப்பு சுகாதார நிலையம் (Centre of Excellence for Women’s Healthcare) ஜனாதிபதி ரணில் விக்ரமசிங்கவினால் இன்று (25) திறந்து வைக்கப்பட்டது.
+President Ranil Wickremesinghe inaugurated the Center of Excellence for Women's Healthcare at Kilinochchi District General Hospital, costing Rs 5,320 million. Funded by the Dutch government as part of a national health facility improvement initiative.
 
-நாடளாவிய ரீதியில் சுகாதார வசதிகளை மேம்படுத்துவதற்கான திட்டத்தின் கீழ் நெதர்லாந்து அரசாங்கத்தின் உதவியுடன், அரசாங்கம் இந்தத் திட்டத்தை முன்னெடுத்துள்ளது. R
+🟩
+
+The Center of Excellence for Women's Healthcare was opened by President Ranil Wickremesinghe today (25) at the Kilinochchi District General Hospital at a cost of Rs 5,320 million.
+
+With the help of the Government of the Netherlands under the plan to improve health facilities nationwide, the government has launched the project.. Remble
 
 ◼️
 
 [Data](articles/935c4bef.json)
+
+[Extended Data](ext_articles/935c4bef.ext.json)
 
 ---
 
@@ -63,6 +93,8 @@ The Sri Lankan high commissioner assured all possible cooperation in this regard
 ...
 
 [Data](articles/6faac606.json)
+
+[Extended Data](ext_articles/6faac606.ext.json)
 
 ---
 
@@ -210,21 +242,31 @@ It has been funded by the Government of Netherlands, according to the PMD.
 
 ---
 
-### උඩරට දුම්රිය ධාවනය සාමාන්‍ය පරිදි
+### Upcountry train runs is normal
 
 *2024-05-25 09:52:34* · [`adalk`](https://www.ada.lk/breaking_news/උඩරට-දුම්රිය-ධාවනය-සාමාන්‍ය-පරිදි/11-409816) · `si`
 
-අයහපත් කාලගුණයේ බලපෑම නිසා මතුවී තිබූ ගස්කඩා වැටීමේ  අවදානම හා ස ංඥා පද්ධති  හා සන්නිවේදන බාධා නිසා තාවකාලිකව නවතා තිබූ උඩරට දුම්රිය මාර්ගයේ බදුල්ල කොළඹ සහ කොළඹ බදුල්ල  දුම්රියන් අද 25  අලුයම  සිට නැවතත් සාමාන්‍ය පරිදි ධාවනය  වන බව නාවලපිටිය දුම්රිය පාලක මැදිරිය පැවසීය.
+Due to bad weather, train services between Nawalapitiya, Badulla, and Colombo have been temporarily suspended to prevent tree falls and communication disruptions. All Kandyan Railway line trains were cancelled yesterday. The service from Pettah to Badulla and vice versa is operational. Visibility issues may affect railway drivers. Train operations are expected to resume during the long vacation period.
 
-උඩරට දුම්රිය මාර්ගයේ ධාවනය  වීමට නියමිතව තිබූ සියලු දුම්රියන් ඊයේ 24 රාත්‍රී  අවලංගු  කර තිබුණි .
+🟩
 
-මේ වනවිට  පිටකොටුව සිට බදුල්ලට ධාවනය කිරීමට නියමිත දුම්රිය සහ බදුල්ල සිට කොළඹට ධාවනය වීමට නියමිත දුම්රියද  අද සමාන්‍ය පරිදි   ධාවනය ආරම්භ කළ බව දුම්රිය පාලක මැදිරිය පැවසීය.
+The Nawalapitiya Railway Control Room, Badulla and Colombo, temporary due to the influence of the inclement weather, the Nawalapitiya Railway Control Room said that the risk of the fall of the trees and systems and communication interrupts.
 
-මේ අතර දුම්රිය මාර්ගයේ කඳුකර ප්‍රදේශ ආශ්‍රිතව තද වැස්ස අධික මීදුම සුළං සහිත බව නිසා දුම්රිය රියදුරන්ටද මාර්ගය පැහැදිලිව නොපෙනිය හැකි බැවින්ද  දුම්රිය මාර්ගයේ ගමන් ගන්නා අයට ත් දුම්රිය එන හඬ පැහැදිලිව නොඇසෙන බැවින්ද දුම්රිය මගේ ගමන් ගන්නා පිරිස් විමසිලිමත්ව අවධානයෙන්  යුතුව සුපරීක්ෂාකාරීව  ගමන් ගැනීමේ අවශ්‍යතාවය දුම්රිය ස්ථානාධිපතිවරු පෙන්වා දෙයි.
+All trains who were due to run on the Kandyan Railway line were canceled yesterday morning.
 
-...
+The Railway Control Room stated that the train to travel from Pettah to Badulla to Badulla has also launched a railway from Badulla to Colombo.
+
+Meanwhile, the railway drivers will not be clearly visible for the railway drivers, as the train services are clearly visible, as the train travel is clearly invisible, as the train travel is clearly visible, as the train traveling is clearly visible, as the train traveling is clearly visible..
+
+The railway station is also found in the area of Archkku Naviya Balama, Demodara Haputale these days.
+
+It is said that the train is largely expected to travel by train with the long vacation.
+
+◼️
 
 [Data](articles/67e6cc61.json)
+
+[Extended Data](ext_articles/67e6cc61.ext.json)
 
 ---
 
@@ -2247,31 +2289,5 @@ The warning will be issued today (25) at 10.30 am today (24) at 10.30 am.. Rembl
 [Data](articles/0820e8c0.json)
 
 [Extended Data](ext_articles/0820e8c0.ext.json)
-
----
-
-### Missing fishermen
-
-*2024-05-24 14:31:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/காணாமல்-போன-மீனவர்கள்-உலங்குவானூர்தி-மூலம்-தேடுதல்-தீவிரம்/75-337811) · `ta`
-
-Two fishermen from Sallika vanished on the 21st. Their relatives filed complaints on the 22nd and 23rd. The Minister of Fisheries, informed by T. Pusparaja, initiated a search involving the Air Force due to adverse weather conditions.
-
-🟩
-
-Two fishermen from Sallika, who went to the sea on the 21st of this month from Sallika Kadir, Trincomalee, have disappeared.
-
-Relatives of the missing have lodged a complaint with the District Fisheries Department on the 22nd and the 23rd of this month.
-
-Meanwhile, Minister of Fisheries and Aquatic Resources Douglas Devananda was informed about the incident through T. Pusparaja, the Trincomalee District EPDP party.
-
-The Minister of Fisheries said that efforts have been initiated to search for the Air Force Air Force due to lack of climate conditions.
-
-It is reported that the search effort has been slightly delayed as the sea is still in high turbulence. Remble
-
-◼️
-
-[Data](articles/ff651b20.json)
-
-[Extended Data](ext_articles/ff651b20.ext.json)
 
 ---

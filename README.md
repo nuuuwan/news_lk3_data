@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-25 16:05:53**
+As of **2024-05-25 16:18:34**
 
 ## Newspaper Stats
 
-*Scraped **26,194** Articles*
+*Scraped **26,195** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,504
 dailyftlk | 1,533
 adalk | 2,232
 adaderanalk | 3,006
-tamilmirrorlk | 3,053
+tamilmirrorlk | 3,054
 virakesarilk | 4,001
 dailymirrorlk | 4,137
 adaderanasinhalalk | 4,188
@@ -26,37 +26,59 @@ adaderanasinhalalk | 4,188
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,193 (100.0%) of 26,194 articles have been extended.
+26,194 (100.0%) of 26,195 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-25 (Saturday)
 
-### රාත්‍රී තැපැල් දුම්රිය අදත් අවලංගු කෙරෙයි
+### சிறிய மழை பெய்தாலும் பாரிய மண்சரிவு ஏற்படும்
+
+*2024-05-25 16:07:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறிய-மழை-பெய்தாலும்-பாரிய-மண்சரிவு-ஏற்படும்/175-337830) · `ta`
+
+சில பிரதேசங்களில் சிறிய மழை பெய்தாலும் மண்சரிவு அபாயம் ஏற்படலாமென  தேசிய கட்டிட ஆராய்ச்சி அமைப்பின் சிரேஷ்ட ஆலோசகர் எச்சரிக்கை விடுத்துள்ளார்.
+
+‘கேகாலை, இரத்தினபுரி மற்றும் களுத்துறை மாவட்டங்களில் சில இடங்களில் 350 மில்லிமீற்றருக்கும் அதிகமான மழை பெய்துள்ளது.
+
+மக்கள் அவதானமாக இருக்க வேண்டும். எதிர்காலத்தில் சிறிதளவு மழை பெய்தாலும் மண்சரிவு ஏற்படலாம்.’ எனக் குறிப்பிட்டுள்ளார். R
+
+◼️
+
+[Data](articles/f10de1cf.json)
+
+---
+
+### The night mail train will be canceled today
 
 *2024-05-25 15:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196996) · `si`
 
-අයහපත් කාලගුණය හේතුවෙන් උඩරට දුම්රිය මාර්ගයේ රාත්‍රී තැපැල් දුම්රිය අද (25) දින අවලංගු කර තිබේ.
+The night mail train on the upcountry railway line is canceled today due to safety concerns related to potential terrorist activity near railway stations. This affects services between Colombo and Badulla. Special night trains are also halted. The cancellation is part of increased security measures, impacting traffic flow as well.
 
-ඒ බව දුම්රිය නියෝජ්‍ය සාමාන්‍යාධිකාරී (ගමනාගමන) එන්. ජී. ඉඳිපොළගේ මහතා පැවසීය.
+🟩
 
-මේ හේතුවෙන් අද දින කොළඹ සිට බදුල්ල දක්වා සහ බදුල්ලේ සිටි කොළඹ දක්වා ධාවනය වීමට තිබූ රාත්‍රී තැපැල් දුම්රිය අවලංගු කෙරෙයි.
+The night mail train on the upcountry railway line has been canceled today (25).
 
-රාත්‍රියේ ගමන් ආරම්භවීමට නියමිත විශේෂ දුම්රිය ධාවනය ද නතර කර තිබේ.
+The Railway Deputy General Manager (Transportation) N. G. Said Mr. Wernipo's.
 
-දුම්රිය මාර්ගයට ගස් කඩා වැටීම හේතුවෙන් මෙලෙස රාත්‍රී කාලයේ තැපැල් දුම්රිය අවලංගු කිරීමට හේතුව වෙයි.
+Due to this, the night mail train to be run to Colombo from Colombo to Badulla and Badulla will be canceled.
 
-දුම්රිය මාර්ගයට ගස් කඩාවැටීම් ස්ථාන 15කින්, 20කින් පමණ වාර්තා වන බවත් දුම්රිය සංඥා පද්ධතිය ක්‍රියාත්මක කිරීම දැඩි ගැටලුවක් වී තිබෙන බවත් ඔහු කියා සිටී.
+Special trains have also been stopped at night.
 
-ඒ හේතුවෙන් නානුඔයෙන් එහා ප්‍රදේශවලට මෙම විදුලි බිඳ වැටීම් දැඩිව බලපා ඇත.
+The railway line is due to cancellation the night mail train.
 
-විදුලිය බිඳවැටීම් හේතුවෙන් සංඥා ක්‍රියාත්මක නොවීම මත දුම්රිය හරස් මාර්ගයේ ගමන් ගන්නා රථවාහන රියදුරන් වඩා සැලකිලිමත්ව කටයුතු කරන ලෙසත් දැනුම්දෙයි.
+He says that the execution of the railway station is in about 15 and 20 terrorists, including about 15 and 20 respectively.
 
-කිසිදු සංඥාවක් නොමැති හෝ රතු සංඥාව පමණක් සහිතව විදුලි සීනු දිගටම නාද වෙන අවස්ථාවක් තිබේ නම් ඉතාමත් කල්පනාකාරීව දුම්රිය හරස් මාර්ග හරහා ගමන් කරන ලෙසද රියදුරන්ට දැනුම්දෙයි.
+As a result, the electricity crashes were severely affected by the Nanu Ohu.
+
+Traffic drivers traveling to the railway crossing will be taken care of more carefully due to the influence of the signals due to the collapse of electricity.
+
+The drivers are informed to move viciously after electrical bells without any signal or red signal.
 
 ◼️
 
 [Data](articles/0f5e497e.json)
+
+[Extended Data](ext_articles/0f5e497e.ext.json)
 
 ---
 
@@ -2295,27 +2317,5 @@ The Minister said there is no policy for tree planting in Sri Lanka where anyone
 [Data](articles/8979d115.json)
 
 [Extended Data](ext_articles/8979d115.ext.json)
-
----
-
-### Kusal Mendis and Asitha Fernando join T20 team in US after visa delay
-
-*2024-05-24 16:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/99416/kusal-mendis-and-asitha-fernando-join-t20-team-in-us-after-visa-delay-) · `en`
-
-Sri Lankan batsman Kusal Mendis and bowler Asitha Fernando have joined the Sri Lankan T20 team currently in the U.S. to take part in the upcoming ICC Men’s T20 World Cup, on Thursday (23).
-
-The two Sri Lankan cricketers were unable to leave the country with the team initially, as their US visas had not been approved in time. They were requested for more information related to an issue, according to Sri Cricket (SLC) officials.
-
-The 15-member Sri Lankan squad, led by Wanindu Hasaranga, will face the Netherlands on May 28 in their first warm-up match of the tournament.
-
-The ICC Men’s T20 World Cup 2024 will be held in the West Indies and USA from June 01 to June 29, 2024.
-
-Meanwhile, Sri Lanka is scheduled to face South Africa in their opening group-stage match on June 03.
-
-◼️
-
-[Data](articles/6c031ace.json)
-
-[Extended Data](ext_articles/6c031ace.ext.json)
 
 ---

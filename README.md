@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-26 00:33:53**
+As of **2024-05-26 00:49:29**
 
 ## Newspaper Stats
 
@@ -35,8 +35,6 @@ Extensions include translations and NER (Named Entity Recognition).
 ### Perahera elephant goes on rampage in Mawanella town
 
 *2024-05-25 23:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/99437/perahera-elephant-goes-on-rampage-in-mawanella-town) · `en`
-
-Rampaging 'Perahera' elephant wreaks havoc in Mawanella town pic.twitter.com/lO2FaJgwBx— Ada Derana (@adaderana) May 25, 2024
 
 An elephant has reportedly gone on a rampage at the end of a ‘Vesak Perahera’ held in the Mawanella town tonight while a mahout has been critically injured and hospitalised after being attacked by the tusker.
 

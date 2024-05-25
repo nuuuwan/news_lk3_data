@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-25 11:34:19**
+As of **2024-05-25 11:53:21**
 
 ## Newspaper Stats
 
-*Scraped **26,166** Articles*
+*Scraped **26,167** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ adaderanalk | 3,002
 tamilmirrorlk | 3,052
 virakesarilk | 3,992
 dailymirrorlk | 4,134
-adaderanasinhalalk | 4,179
+adaderanasinhalalk | 4,180
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,161 (100.0%) of 26,166 articles have been extended.
+26,166 (100.0%) of 26,167 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-25 (Saturday)
+
+### ගුවන් පාලමක් මතින් අධිවේගී මාර්ගයට වැටුණු සිසුවා මරුට
+
+*2024-05-25 11:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196988) · `si`
+
+කොළඹ පිටත වටරවුම් මාර්ගයේ ගුවන් පාලම මතින් අධිවේගී මාර්ගයට වැටී තරුණයෙකු මියගොස් තිබේ.
+
+කොළඹ පිටත වටරවුම් මාර්ගයේ කිලෝමීටර් 1.2 කණුව අසල ඇති ගුවන් පාලම මතින් අධිවේගී මාර්ගයට ඊයේ (24) රාත්‍රී 7ට පමණ මෙම තරුණයා වැටී තිබේ.
+
+එම අවස්ථාවේදී මාතර දෙසට ගමන්ගත් මෝටර් රථයකද ඔහු ගැටී ඇති බව පොලීසිය සඳහන් කරයි.
+
+අනතුරින් බරපතළ තුවාල ලැබූ තරුණයා හෝමාගම මූලික රෝහලට ඇතුළත් කිරීමෙන් අනතුරුව මියගොස් ඇත.
+
+එලෙස මියගොස් ඇත්තේ, 19 හැවිරිදි මෙනාත් බානුජ නමැති අතුරුගිරිය ප්‍රදේශයේ පදිංචි පාදුක්කේ පිහිටි පෞද්ගලික විශ්වවිද්‍යාලයක පාඨමාලාවක් හදාරන තරුණයෙකි.
+
+අනතුරින් මෝටර් රථයට ද හානි සිදුවී ඇති අතර මෝටර් රථ රියදුරද පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+මේ අතර පොලීසිය සිදුකළ සොයාබැලීමේ දී මියගිය තරුණයාගේ නිවසේ තිබී තමන් සියදිවි නසාගන්නා බවට ඉංග්‍රීසි බසින් ලියන ලද ලිපියක් ද හමුවී ඇති බව පොලීසිය සඳහන් කරයි.
+
+◼️
+
+[Data](articles/f37a6361.json)
+
+---
 
 ### Advisories issued for heavy rains and strong winds
 
@@ -47,6 +71,8 @@ Meanwhile, the Met. Department also issued an advisory for strong winds in the W
 ...
 
 [Data](articles/dc764f75.json)
+
+[Extended Data](ext_articles/dc764f75.ext.json)
 
 ---
 
@@ -84,6 +110,8 @@ She made a complaint when she was asked to pay Rs.30,000, and the suspect was ar
 
 [Data](articles/99721f19.json)
 
+[Extended Data](ext_articles/99721f19.ext.json)
+
 ---
 
 ### Rs. 4.5 billion fine to be imposed on 13 leading jewellers for gold smuggling
@@ -99,6 +127,8 @@ Daily Mirror learns that there is a sinister move involving some customs officia
 ◼️
 
 [Data](articles/2f02d90f.json)
+
+[Extended Data](ext_articles/2f02d90f.ext.json)
 
 ---
 
@@ -2257,25 +2287,5 @@ He was working as a veterinary surgeon in Bristol before entering the show, and 
 [Data](articles/514bc233.json)
 
 [Extended Data](ext_articles/514bc233.ext.json)
-
----
-
-### SC overturns Appeal Court order over case against Ravi Karunanayake
-
-*2024-05-24 13:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SC-overturns-Appeal-Court-order-over-case-against-Ravi-Karunanayake/108-283292) · `en`
-
-May 24 - The Supreme Court of Sri Lanka has today granted special leave to appeal in a high-profile bribery case against former Minister of Finance Ravi Karunanayake.
-
-The case centers around allegations that Karunanayake accepted an apartment from Arjun Aloysius, a director of a primary dealer company.
-
-This development follows the submission of a special leave to appeal application by the Commission to Investigate Allegations of Bribery or Corruption (CIABOC).
-
-The application sought to challenge an earlier decision by the Court of Appeal, which had overruled a preliminary objection raised by CIABOC. The objection contended that the accused, Karunanayake, did not have the right to appeal against an interim order of the High Court.
-
-...
-
-[Data](articles/9cf2793e.json)
-
-[Extended Data](ext_articles/9cf2793e.ext.json)
 
 ---

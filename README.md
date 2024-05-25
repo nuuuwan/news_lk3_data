@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-25 23:33:56**
+As of **2024-05-25 23:53:31**
 
 ## Newspaper Stats
 
-*Scraped **26,238** Articles*
+*Scraped **26,242** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,11 +13,11 @@ dbsjeyarajcom | 262
 bbccomsinhala | 265
 newsfirstlk | 363
 islandlk | 1,417
-economynextcom | 1,504
+economynextcom | 1,505
 dailyftlk | 1,533
 adalk | 2,235
 adaderanalk | 3,013
-tamilmirrorlk | 3,060
+tamilmirrorlk | 3,063
 virakesarilk | 4,005
 dailymirrorlk | 4,146
 adaderanasinhalalk | 4,201
@@ -26,11 +26,61 @@ adaderanasinhalalk | 4,201
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,238 (100.0%) of 26,238 articles have been extended.
+26,238 (100.0%) of 26,242 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-25 (Saturday)
+
+### கொழும்பில் முக்கிய வீதிகளுக்கு இன்று இரவு பூட்டு
+
+*2024-05-25 23:13:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பில்-முக்கிய-வீதிகளுக்கு-இன்று-இரவு-பூட்டு/175-337839) · `ta`
+
+தற்போது நிலவும் சீரற்ற வானிலை காரணமாக கொழும்பில் பல வீதிகளை இன்று (25) இரவு மூடவுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+அதன்படி கொழும்பு பிரேபுரூக் பிளேஸ், பொரளை மயான சுற்றுவட்டத்தில் இருந்து தும்முல்லை சந்தி, பௌத்தலோக மாவத்தை, சர் லெஸ்டர் ஜேம்ஸ் பீரிஸ் சுற்றுவட்டத்திலிருந்து ரொட்டுண்டா சுற்றுவட்டம் வரையான வீதிகளை மூடுவதற்கு தீர்மானிக்கப்பட்டுள்ளதாக பொலிஸ் ஊடகப் பச்சாளர், பிரதி பொலிஸ் மா அதிபர் சட்டத்தரணி நிஹால் தல்துவ தெரிவித்துள்ளார். R
+
+◼️
+
+[Data](articles/57b894a0.json)
+
+---
+
+### யாழில் மோதலை தடுக்கச் சென்ற இளைஞன் உயிரிழப்பு - மச்சான் கைது
+
+*2024-05-25 23:08:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/யாழில்-மோதலை-தடுக்கச்-சென்ற-இளைஞன்-உயிரிழப்பு-மச்சான்-கைது/71-337838) · `ta`
+
+யாழ்ப்பாணம் - தாவடி பகுதியில் தனது தந்தைக்கும் மச்சானுக்கும் இடையில் ஏற்பட்ட மோதலை தடுக்கச் சென்ற, 23 வயதுடைய வரதராசா நியூட்சன் எனும் இளைஞன் கத்திக்குத்துக்கு இலக்காகி உயிரிழந்துள்ளார்.
+
+கடந்த 2ஆம் திகதி இளைஞனின் தந்தைக்கும் , இளைஞனின் அக்காவின் கணவருக்கும் இடையில் முரண்பாடு ஏற்பட்டு, கைக்கலப்பாக மாறியுள்ளது.
+
+அதனை அவதானித்த இளைஞன் இருவருக்கும் இடையிலான மோதலை தடுக்க முற்பட்ட வேளை அக்காவின் கணவரின் கத்திகுத்துக்கு இலக்காகி படுகாயமடைந்துள்ளனர்.
+
+படுகாயமடைந்த இளைஞனை அங்கிருந்து மீட்டு , சிகிச்சைக்காக யாழ்.போதனா வைத்தியசாலையில் அனுமதிக்கப்பட்டு, சிகிச்சை பெற்று வந்த நிலையில் வெள்ளிக்கிழமை சிகிச்சை பலனின்றி உயிரிழந்துள்ளார்.
+
+சம்பவம் தொடர்பில் விசாரணைகளை முன்னெடுத்த சுன்னாகம் பொலிஸார் கத்திக்குத்து தாக்குதல் மேற்கொண்டவரை கைது செய்து மல்லாகம் நீதவான் நீதிமன்றில் முற்படுத்திய வேளை , சந்தேகநபரை விளக்கமறியலில் வைக்குமாறு மன்று உத்தரவிட்டுள்ளது. R
+
+◼️
+
+[Data](articles/de49b557.json)
+
+---
+
+### நுவரெலியா வலயக் கல்வி பணிமனையில் தமிழ் புறக்கணிப்பு?
+
+*2024-05-25 22:59:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/நுவரெலியா-வலயக்-கல்வி-பணிமனையில்-தமிழ்-புறக்கணிப்பு/76-337837) · `ta`
+
+நுவரெலியா வலய கல்வி பணிமனையின் பணிப்பாளர் அதிபர்களுக்கான கூட்டம் நடைபெறுகின்றமை தொடர்பாக தமிழ் பாடசாலை அதிபர்களுக்கும் சிங்கள மொழியில் அறிவிக்கப்பட்டிருக்கின்றமை தொடர்பாக தமது அதிருப்தியை அதிபர்கள் வெயிட்டுள்ளனர்.
+
+இது தொடர்பாக பல அதிபர்கள் நுவரெலியா மாவட்ட பாராளுமன்ற உறுப்பினர்களின் கவனத்திற்கு கொண்டு வந்துள்ளதாகவும் அண்மைக் காலமாக அநேகமான கடிதங்கள் இவ்வாறு கிடைக்கப் பெறுவதாகவும் அதிபர்கள் குற்றம் சுமத்துகின்றனர்.
+
+கடந்த காலங்களில் கடமையில் இருந்த பல வலயக் கல்வி பணிமனையின் பணிப்பாளர்கள் தமிழ் மொழியில் கடிதங்கள் உட்பட அனைத்து விடயங்களையும் தங்களுக்கு அறிவித்திருந்தனர் எனவும், புதிதாக வருகை தந்துள்ள வலய கல்வி பணிப்பாளர் தொடர்ந்து இவ்வாறான செயற்படுகளில் ஈடுபட்டு வருவதாகவும் அதிபர்கள் குற்றம் சுமத்துகின்றனர்.
+
+...
+
+[Data](articles/4684d667.json)
+
+---
 
 ### India games arcade fire kills 22 including children
 
@@ -1156,6 +1206,28 @@ He was also a candidate of the JVP Polonnaruwa Urban Council. Samantha Bandara w
 
 ---
 
+### Sri Lanka power outages from falling trees worsened by unfilled vacancies: CEB union
+
+*2024-05-25 14:11:00* · [`economynextcom`](https://economynext.com/sri-lanka-power-outages-from-falling-trees-worsened-by-unfilled-vacancies-ceb-union-164564/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s power grid has been hit by 300,000 outages as heavy winds brought down trees, restoring supply has been delayed by unfilled vacancies of breakdown staff, a union statement said.
+
+Despite electricity being declared an essential service, vacancies have not been filled, the CEB Engineers Union said.
+
+“In this already challenging situation, the Acting General Manager of CEB issued a circular on May 21, 2024, abolishing several essential service positions, including the Maintenance Electrical Engineer in the Area Engineer Offices, Construction Units, and Distribution Maintenance Units,” the Union said.
+
+“This decision, made without any scientific basis, significantly reduces our capacity to provide adequate services to the public during this emergency.
+
+“On behalf of all the staff of CEB, we express our deep regret for the inconvenience caused to our valued customers.”
+
+High winds had rains have brought down trees across power lines and transformers, the statement said.
+
+...
+
+[Data](articles/c0b69598.json)
+
+---
+
 ### Death of Gamini Marapana
 
 *2024-05-25 13:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196993) · `si`
@@ -2231,93 +2303,5 @@ When Antony Jesurathnam Mariapushparani, 62, recalls the horrific final days of 
 [Data](articles/7dbb9ab8.json)
 
 [Extended Data](ext_articles/7dbb9ab8.ext.json)
-
----
-
-### Vesak Annual Event by the All Ceylon Jewelry Merchants Association
-
-*2024-05-25 01:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/184424) · `ta`
-
-The Vesak Annual Event by the All Ceylon Jewelry Merchants Association took place on April 23rd, organized by President Vijayakumar, Secretary Saravanan, and Treasurer, along with association members. Notable attendees included Mr. Sulokama, Superintendent of Police Bogawantalawa Rahula Thera, and Assistant Superintendent of Police Kamal Kiriella from Colombo.
-
-🟩
-
-The event was held on Thursday 23rd, with the cooperation of the Association President Vijayakumar, Secretary Saravanan, Treasurer of the Association and the members of the Association.
-
-Mr. Sulokama and Bogawantalawa Rahula Thera, the Superintendent of Police, Mr. Kamal Kiriella, the Assistant Superintendent of Police in Colombo.
-
-◼️
-
-[Data](articles/edcfc149.json)
-
-[Extended Data](ext_articles/edcfc149.ext.json)
-
----
-
-### High cost of mandatory currency conversions on Sri Lanka’s ability to earn foreign exchange
-
-*2024-05-25 00:48:00* · [`islandlk`](http://island.lk/high-cost-of-mandatory-currency-conversions-on-sri-lankas-ability-to-earn-foreign-exchange/) · `en`
-
-Politics and economics are concepts that are fundamentally intertwined. Yet the unprecedented economic crisis of 2022 highlighted the complex challenges of aligning short-term political goals with long-term economic strategies.
-
-While the sharp appreciation of the Sri Lankan rupee in recent months has been roundly welcomed by most sectors of society as a positive signal, this optimism overlooks the nuanced factors influencing our currency’s strength and the medium-long-term challenges that could arise from volatile fluctuations in the price of the rupee.
-
-While a stronger rupee certainly promises cheaper imports of essentials like petroleum, electricity, food medicine and other essentials in the short term, as a nation that is surviving on borrowed time and foreign currency, we cannot afford to ignore the other side of the equation – exports.
-
-...
-
-[Data](articles/e656d0c3.json)
-
-[Extended Data](ext_articles/e656d0c3.ext.json)
-
----
-
-### Hyderabad meets Kolkata in the finals of Rajasthan
-
-*2024-05-25 00:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/184423) · `ta`
-
-Sunrisers Hyderabad clinched a spot in the IPL final after defeating Rajasthan Royals by 36 runs in Chennai. They'll face Kolkata Knight Riders in the final. Key performers included Hench Clausen, Thangarasu Natarajan, Shahbas Ahmad, and Abhishek Sharma.
-
-🟩
-
-Sunrisers Hyderabad won by 36 runs against Rajasthan Royals in the second qualifying match of the 17th Indian Premier League chapter held at the Chepakkam MA Chidambaram Stadium in Chennai on Friday night.
-
-With this victory, Sunrisers Hyderabad will oppose former Champion Kolkata Knight Riders in the final match to be held on Sunday (26) at the Sunrisers Hyderabad.
-
-In 2016, Sunrisers Hyderabad has been able to play in the final for the 3rd time.
-
-In the IPL chapter (2008), the champion Rajasthan Royals failed to enter the final for the 3rd time.
-
-Hench Clausen's half -century, Thangarasu Natarajan, Shahbas Ahmad and Abhishek Sharma played a key role in Kolkata's success.
-
-Sunrisers Hyderabad, who was first invited to bat first, scored 174 runs for the loss of 9 wickets in 20 overs.
-
-Abhishek Sharma started a brief match, but lost 12 runs off 5 balls.
-
-Both Travis Head and Rahul Thrippiti have increased the number with a relaxed speed.
-
-...
-
-[Data](articles/1b0c0abe.json)
-
-[Extended Data](ext_articles/1b0c0abe.ext.json)
-
----
-
-### Commemoration of war victims-celebrations and harassment
-
-*2024-05-25 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Commemoration-of-war-victims-celebrations-and-harassment/172-283318) · `en`
-
-Each year in April, the Janatha Vimukthi Peramuna (JVP) marks its first armed insurrection against the government in 1971, as ‘April Heroes’ Commemoration Day. The second JVP insurrection is memorialised by way of the ‘November Heroes’ commemoration marking the death of JVP founder and leader Rohana Wijeweera in 1989.
-
-Wijeweera led two rebellions, one in 1971 and a second in 1989. Thousands of young Sinhalese men and women died in the two insurgencies led by the then-JVP leader. In those dark days, civilians were involuntarily disappeared by state forces, while the JVP too killed many civilians.
-
-The ‘Mothers of the Disappeared’ was a coming together of female Sinhalese, who lost relatives during the JVP insurrections to government forces. They came together under a common umbrella to demand information as to what had happened to their sons, daughters, husbands and wives.
-
-...
-
-[Data](articles/1a55a6b9.json)
-
-[Extended Data](ext_articles/1a55a6b9.ext.json)
 
 ---

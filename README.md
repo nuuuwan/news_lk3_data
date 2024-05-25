@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-25 14:33:47**
+As of **2024-05-25 14:52:10**
 
 ## Newspaper Stats
 
-*Scraped **26,187** Articles*
+*Scraped **26,190** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,37 +18,61 @@ dailyftlk | 1,533
 adalk | 2,232
 adaderanalk | 3,004
 tamilmirrorlk | 3,053
-virakesarilk | 3,999
-dailymirrorlk | 4,136
+virakesarilk | 4,001
+dailymirrorlk | 4,137
 adaderanasinhalalk | 4,186
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,186 (100.0%) of 26,187 articles have been extended.
+26,187 (100.0%) of 26,190 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-25 (Saturday)
 
-### හිටපු මැති ඇමතිගොල්ලෝ 03 දෙනෙක් සජබයට එක්වෙයි
+### Three former MPs and three former ministers join
 
 *2024-05-25 14:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196994) · `si`
 
-ශ්‍රී ලංකා නිදහස් පක්ෂයේ සහ ජනතා විමුක්ති පෙරමුණේ ප්‍රාදේශීය සංවිධායකවරුන් කිහිප දෙනෙකු විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා හමු වී සමගි ජන බලවේගය සමග එක්වී තිබේ.
+Sajith Premadasa, Opposition Leader, meets with former MPs and ministers, including Nandasena Herath and Thilak, both from the SLFP and JVP, aiming to strengthen his position. The gathering supports Premadasa's leadership, emphasizing unity and collaboration.
 
-ඒ සමගි ජන බලවේගයෙ විසින් ක්‍රියාත්මක ජන පවුර වැඩසටහනේ පොළොන්නරුව දිස්ත්‍රික් රැස්වීම පැවැති අවස්ථාවේදී ය.
+🟩
 
-හිටපු පාර්ලිමේන්තු මන්ත්‍රීවරයකු සහ හිටපු අමත්‍යවරයකු වූ නන්දසේන හේරත් මහතා විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතාට සහාය පළ කිරීමේ අරමුණින් සමගි ජන බලවේගය හා එක්විය.
+Opposition Leader Sajith Premadasa has met with the Opposition Leader Sajith Premadasa and several persons with the local organizers of the SLFP and JVP.
 
-එමෙන්ම ශ්‍රී ලංකා නිදහස් පක්ෂයේ හිටපු පාර්ලිමේන්තු මන්ත්‍රීවරයකු මෙන් ම මහවැලි සංවර්ධන අධිකාරියේ අධ්‍යයක්ෂවරයකු ලෙස කටයුතු කළ තිලක් මහලේකම්ගේ මහතා ද සමගි ජන බලවේගය හා එක්විය.
+The Polonnaruwa District meeting was held at the Janatha Power Program implemented by the Sicki power.
 
-තවද ජනතා විමුක්ති පෙරමුණේ පොළොන්නරුව නගර සභාවේ අපේක්ෂකයෙකුව සිටි එච්. සමන්ත බණ්ඩාර මහතා ද විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතාට සහාය පළ කිරීමේ අරමුණින් සමගි ජන බලවේගය හා එක්විය.
+An ex-Member of Parliament and Nandasena Herath joined the opposition leader Sajith Premadasa with the objective of supporting Opposition Leader Sajith Premadasa.
+
+Thilak Secretary General, who was as a former Sri Lanka Freedom Party (SLFP parliamentarian was also present in the Mahaweli Development Authority.
+
+He was also a candidate of the JVP Polonnaruwa Urban Council. Samantha Bandara was also associated with the reconciliation to support Opposition Leader Sajith Premadasa.
 
 ◼️
 
 [Data](articles/6a4bf37c.json)
+
+[Extended Data](ext_articles/6a4bf37c.ext.json)
+
+---
+
+### வடக்கு ஆளுநர் மூத்த அதிகாரிகளை வெறுக்கிறார் - ஜனாதிபதிக்கு விக்னேஸ்வரன் எம்பி காட்டமான கடிதம்
+
+*2024-05-25 14:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/184453) · `ta`
+
+வடக்கில் அரசாங்க அதிபர்கள் மற்றும் அமைச்சுக்களுக்கான செயலாளர்கள் நியமனம் அரசியல் காரணமாக பின்னடிப்புச் செய்யக் கூடாதென ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கு பாராளுமன்ற உறுப்பினர் சி.வி.விக்னேஸ்வரன் எழுத்து மூலம் கடிதம் அனுப்பியுள்ளார்.
+
+குறித்த கடிதத்தில், யாழ்ப்பாணம் மற்றும் கிளிநொச்சி ஆகிய இரண்டு மாவட்டங்களிலுமுள்ள நிரந்தர ஜிஏக்கள் ஓய்வு பெற்று சுமார் 03 மாதங்களாகியும் நிரந்தர அரச அதிகாரிகள் நியமிக்கப்படவில்லை.
+
+கூடுதல் GAக்கள் அந்த கடமைகளை உள்ளடக்கி உள்ளனர். தகுதியான தமிழ் சிறப்பு தர SLAS அதிகாரிகள் நியமனத்திற்கு தகுதி இருந்தும் முக்கியமான பொதுப் பதவிகளுக்கு இந்த மூத்த அதிகாரிகளின் நியமனங்களை அரசியல் தடுக்கக் கூடாது. மேலும், வட்டாட்சியர் அலுவலகத்தில் 04 செயலர் பணியிடங்கள் காலியாக உள்ளன.
+
+சுகாதாரம், கல்வி மற்றும் மகளிர் விவகார அமைச்சகங்கள். ஆனால் கிரேடு 1 அதிகாரிகள் செய்கிறார்கள்.
+
+...
+
+[Data](articles/0abe2a54.json)
 
 ---
 
@@ -67,6 +91,44 @@ President's Counsel Gamini Marapana has passed away this morning (25).
 [Data](articles/472e8a0f.json)
 
 [Extended Data](ext_articles/472e8a0f.ext.json)
+
+---
+
+### President opens special health center for women at Kilinochchi General Hospital
+
+*2024-05-25 13:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/184430) · `ta`
+
+President Ranil Wickremesinghe inaugurated a Rs 5,320 million Center of Excellence for Women's Healthcare at Kilinochchi General Hospital, funded by the Sri Lankan and Dutch governments to enhance national healthcare facilities.
+
+🟩
+
+The Center of Excellence for Women's Healthcare was opened by President Ranil Wickremesinghe on Saturday (25) at the Kilinochchi District General Hospital at a cost of Rs 5,320 million.
+
+It is noteworthy that the government has launched the project with the help of the Netherlands government under the plan to improve health facilities nationwide.
+
+◼️
+
+[Data](articles/ad620475.json)
+
+[Extended Data](ext_articles/ad620475.ext.json)
+
+---
+
+### ஐக்கிய மக்கள் சக்தியோடு இணைந்த முன்னாள் அமைச்சர்கள் !
+
+*2024-05-25 13:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/184454) · `ta`
+
+ஐக்கிய மக்கள் சக்தியினால் முன்னெடுக்கப்பட்டு வரும் மக்கள் அரண் வேலைத்திட்டத்தின் பொலன்னறுவை மாவட்டக் கூட்டம் இன்று சனிக்கிழமை (25) நடைபெற்ற போது ஸ்ரீலங்கா சுதந்திரக் கட்சி மற்றும் மக்கள் விடுதலை முன்னணியின் பிரதேச அமைப்பாளர்கள் பலர் எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாசவைச் சந்தித்து ஐக்கிய மக்கள் சக்தியில் இணைந்து கொண்டனர்.
+
+முன்னாள் பாராளுமன்ற உறுப்பினரும் முன்னாள் அமைச்சருமான நந்தசேன ஹேரத், எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாசவுக்கு ஆதரவளிக்கும் நோக்கில் ஐக்கிய மக்கள் சக்தியில் இணைந்து கொண்டார்.
+
+1993 இல் வடமத்திய மாகாண சபை உறுப்பினராக கடமையாற்றிய இவர், 1994 இல் பொலன்னறுவை மாவட்டத்திலிருந்து பாராளுமன்றத்திற்கு தெரிவு செய்யப்பட்டார். மேலும், 2001 இல் உணவு வர்த்தகம் தொடர்பான பிரதி அமைச்சராகவும் பணியாற்றினார்.
+
+அவ்வாறே, ஸ்ரீலங்கா சுதந்திரக் கட்சியின் முன்னாள் பாராளுமன்ற உறுப்பினரும், மகாவலி அபிவிருத்தி அதிகார சபையின் முன்னாள் பணிப்பாளருமான திலக் மகலேகம்கே இன்று ஐக்கிய மக்கள் சக்தியில் இணைந்து கொண்டார்.
+
+...
+
+[Data](articles/8699a61b.json)
 
 ---
 
@@ -206,26 +268,6 @@ The vehicle, in which the deceased had come into contact with, was also damaged 
 
 ---
 
-### President opens special health center for women at Kilinochchi General Hospital
-
-*2024-05-25 12:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/184430) · `ta`
-
-President Ranil Wickremesinghe inaugurated a Rs 5,320 million Center of Excellence for Women's Healthcare at Kilinochchi General Hospital, funded by the Sri Lankan and Dutch governments to enhance national healthcare facilities.
-
-🟩
-
-The Center of Excellence for Women's Healthcare was opened by President Ranil Wickremesinghe on Saturday (25) at the Kilinochchi District General Hospital at a cost of Rs 5,320 million.
-
-It is noteworthy that the government has launched the project with the help of the Netherlands government under the plan to improve health facilities nationwide.
-
-◼️
-
-[Data](articles/ad620475.json)
-
-[Extended Data](ext_articles/ad620475.ext.json)
-
----
-
 ### Yall. All the demands of the university will be fulfilled with the full cooperation of the President - Minister Douglas confirmed!
 
 *2024-05-25 12:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/184447) · `ta`
@@ -273,6 +315,18 @@ The public is urging the public to take stern action on such incidents.
 [Data](articles/41d903ae.json)
 
 [Extended Data](ext_articles/41d903ae.ext.json)
+
+---
+
+### Inundated…
+
+*2024-05-25 11:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Inundated/110-283310) · `en`
+
+Roads in several areas were flooded due to incessant rains disrupting the vehicular movement. Over 35,000 people have been affected so far owing to the bad weather.Pix by Pradeep Pathirana
+
+◼️
+
+[Data](articles/5b7f3f35.json)
 
 ---
 
@@ -2255,79 +2309,5 @@ Social media footage posted by Role showed people clambering over rocks, uproote
 [Data](articles/4906978a.json)
 
 [Extended Data](ext_articles/4906978a.ext.json)
-
----
-
-### Haputale - Diyathalawa road
-
-*2024-05-24 15:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/184387) · `ta`
-
-Heavy rains and winds caused significant damage in Sri Lanka, blocking roads like Haputale-Diyathalawa due to fallen karapandine trees. Authorities advise using alternative routes such as Bandarawela road via Diyatalawa Udapara Kahagolla. Efforts are underway to clear the debris, involving local law enforcement and disaster management teams.
-
-🟩
-
-Diyathalawa police said that the traffic was completely blocked due to heavy rains and strong winds in the country due to the collapse of massive karapandine trees between Haputtala and Diyathala in the early hours of Friday morning.
-
-Drivers and residents have said that there is a risk that there is a risk of karapantine trees and massive trees in the area at any time.
-
-The Chief Inspector of the Police Station, Sagara, said that the people who use this road to use alternatives and to use the Bandarawela road via Diyatalawa Udapara Kahagolla.
-
-The Deputy Director of the Badulla Disaster Management Center said that the Diyathalawa Army, Diyathalawa Police, Haputale Special Task Force, Haputale Pradeshiya Sabha and Haputtala Divisional Secretariat are working on the removal of trees that have fallen on the main road.
-
-◼️
-
-[Data](articles/2f5289c8.json)
-
-[Extended Data](ext_articles/2f5289c8.ext.json)
-
----
-
-### Sri Lanka to find investors by ‘competitive system’ after revoking plantations privatizations
-
-*2024-05-24 15:55:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-find-investors-by-competitive-system-after-revoking-plantations-privatizations-164501/) · `en`
-
-ECONOMYNEXT – Sri Lanka will revoke the privatization of plantation companies that do not pay government dictated wages, by cancelling land leases and find new investors under a ‘competitive system’, State Minister for Finance Ranjith Siyambalapitiya has said.
-
-Sri Lanka privatized the ownership of 22 plantations companies in the 1990s through long term leases after initially giving only management to private firms.
-
-Management companies that made profits (mostly those with more rubber) were given the firms under a valuation and those that made losses (mostly ones with more tea) were sold on the stock market.
-
-The privatized firms then made annual lease payments and paid taxes when profits were made.
-
-In 2024 the government decreed a wage hike announced a mandated wage after President Ranil Wickremesinghe made the announcement in the presence of several politicians representing plantations workers.
-
-...
-
-[Data](articles/5f2f435a.json)
-
-[Extended Data](ext_articles/5f2f435a.ext.json)
-
----
-
-### 1,700 Sri Lankans who have been illegally settled in Malaysia have returned home
-
-*2024-05-24 15:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/184379) · `ta`
-
-Between Jan-Feb 2024, 1,732 Sri Lankans were repatriated from Malaysia, including 1,608 between Mar 1-Mar 1, 2024. The Sri Lankan High Commission collaborated with Malaysia's government to facilitate this process, focusing on vulnerable groups like the elderly, pregnant women, and minors.
-
-🟩
-
-From March 1 to March 1, 2024, 1,608 Sri Lankans have returned from Malaysia.
-
-They have returned to the country with the help of the Sri Lankan High Commission, as they have been illegally settled in Malaysia.
-
-The Sri Lankan High Commission in Kuala Lumpur has said that the effort is being made in collaboration with the Malaysian government's migrants.
-
-From January 1 to February 28, 124 Sri Lankans who have been illegally settled in Malaysia have been sent back from January 1 to February 28.. Accordingly, the total number of repatriates is 1,732.
-
-The Malaysian government's repayment plan is aimed at helping illegal immigrants voluntarily returning to their homes by providing legal exclusions and financial relief.
-
-The High Commission said that special attention was paid to the elderly, pregnant women, people who need medical care and children under the age of twelve.
-
-◼️
-
-[Data](articles/ce43d1be.json)
-
-[Extended Data](ext_articles/ce43d1be.ext.json)
 
 ---

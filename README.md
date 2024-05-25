@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-25 09:04:25**
+As of **2024-05-25 09:18:29**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,178
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,153 (100.0%) of 26,154 articles have been extended.
+26,154 (100.0%) of 26,154 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,8 @@ The “Anhalt 2024 - Internationales Leichtathletik Meeting,” a World Athletic
 ◼️
 
 [Data](articles/4b16b89e.json)
+
+[Extended Data](ext_articles/4b16b89e.ext.json)
 
 ---
 

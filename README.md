@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-25 15:34:19**
+As of **2024-05-25 15:52:42**
 
 ## Newspaper Stats
 
-*Scraped **26,192** Articles*
+*Scraped **26,193** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,417
 economynextcom | 1,504
 dailyftlk | 1,533
 adalk | 2,232
-adaderanalk | 3,005
+adaderanalk | 3,006
 tamilmirrorlk | 3,053
 virakesarilk | 4,001
 dailymirrorlk | 4,137
@@ -26,23 +26,47 @@ adaderanasinhalalk | 4,187
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,191 (100.0%) of 26,192 articles have been extended.
+26,192 (100.0%) of 26,193 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-25 (Saturday)
 
-### ලොවක් හඳුනන සුරතලා මිය යයි
+### Senior President’s Counsel Gamini Marapana passes away
+
+*2024-05-25 15:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/99430/senior-presidents-counsel-gamini-marapana-passes-away) · `en`
+
+Prominent lawyer and Senior President’s Counsel Gamini Marapana has passed away at the age of 82.
+
+Gamini Marapana is the brother of Tilak Marapana PC, who served as the Minister of Foreign Affairs in the ‘Good Governance’ or ‘Yahapalana’ Government.
+
+Gamini Marapana, who appeared in several high-profile and highly publicized court cases in Sri Lanka, had also briefly served as the Chairman of Colombo Port City Economic Commission.
+
+Family sources said the final rites of the distinguished attorney will be notified later.
+
+◼️
+
+[Data](articles/c8983a83.json)
+
+---
+
+### The pet identifies a world dies
 
 *2024-05-25 15:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196995) · `si`
 
-ක්‍රිප්ටෝ මුදල් ඒකකයක් වන ඩොජ්කොයින්හි සංකේතය වන සුනඛ මුහුණට හිමිකම් කියන කබොසු සුනඛයා මිය ගොස් තිබේ.
+Kabou Dog, symbolizing a cryptocurrency unit, passed away. Sheba died from Leukemia, part of the Dou family.
 
-ෂීබා ඉනූ සුනඛ වර්ගයට අයත් කබොසු ලියුකේමියාව හේතුවෙන් මියගොස් ඇත.
+🟩
+
+The Kabou Dog, which is the symbol of a crypto cash unit, is dead.
+
+Sheba was dead due to Lieu Liukemia, belonging to the Dou.
 
 ◼️
 
 [Data](articles/eea35611.json)
+
+[Extended Data](ext_articles/eea35611.ext.json)
 
 ---
 
@@ -2291,31 +2315,5 @@ In the past few days, three women who have traveled in motorcyclists in the past
 [Data](articles/405fe5c2.json)
 
 [Extended Data](ext_articles/405fe5c2.ext.json)
-
----
-
-### Papua New Guinea is a hideous landslide
-
-*2024-05-24 16:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196973) · `si`
-
-A devastating landslide in Papua New Guinea submerged over 100 homes, causing unknown casualties and trapping victims under debris. The event, described as a natural catastrophe by local authorities, prompted Prime Minister James Marape to dispatch disaster relief teams.
-
-🟩
-
-Foreign media reports that landslides have been deprived of a landslide in Papua New Guinea.
-
-The landslide of yesterday (23) had been submerged from more than 100 houses.
-
-It is reported that how many people have been stuck between the number of casualties or debris.
-
-The governor of the Ega, the landslide, told the media that this was a natural catastrophe.
-
-Papua New Guinea, Prime Minister James Marape, has said that the disaster officers have been sent to the relevant place for the construction of bodies and the infrastructure.
-
-◼️
-
-[Data](articles/742eb003.json)
-
-[Extended Data](ext_articles/742eb003.ext.json)
 
 ---

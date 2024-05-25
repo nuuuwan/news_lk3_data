@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-25 10:33:59**
+As of **2024-05-25 10:51:56**
 
 ## Newspaper Stats
 
-*Scraped **26,159** Articles*
+*Scraped **26,160** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,417
 economynextcom | 1,503
 dailyftlk | 1,533
 adalk | 2,231
-adaderanalk | 2,999
+adaderanalk | 3,000
 tamilmirrorlk | 3,052
 virakesarilk | 3,992
 dailymirrorlk | 4,130
@@ -26,11 +26,27 @@ adaderanasinhalalk | 4,179
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,158 (100.0%) of 26,159 articles have been extended.
+26,159 (100.0%) of 26,160 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-25 (Saturday)
+
+### President inaugurates Women’s Healthcare Centre at Kilinochchi Hospital
+
+*2024-05-25 10:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/99422/president-inaugurates-womens-healthcare-centre-at-kilinochchi-hospital) · `en`
+
+President Ranil Wickremesinghe has inaugurated the Centre of Excellence for Women’s Healthcare at the District General Hospital in Kilinochchi, a short while ago.
+
+This project, costing Rs. 5,320 million, is in line with the government’s initiative to enhance health sector facilities nationwide, the President’s Media Division (PMD) said.
+
+It has been funded by the Government of Netherlands, according to the PMD.
+
+◼️
+
+[Data](articles/8b47b7a1.json)
+
+---
 
 ### Kabosu, the face of cryptocurrency Dogecoin, dies at 18, owner says
 
@@ -940,21 +956,31 @@ In an article on the Politics and Education website, Pawan Singh went into the c
 
 ---
 
-### යාපනය රෝහල නුදුරේදීම ජාතික රෝහලක් බවට පත් කරනවා
+### Jaffna hospital converts a national hospital
 
 *2024-05-24 20:58:26* · [`adalk`](https://www.ada.lk/breaking_news/යාපනය-රෝහල-නුදුරේදීම-ජාතික-රෝහලක්-බවට-පත්-කරනවා/11-409815) · `si`
 
-උතුරු පළාත තුළ උසස් මට්ටමේ සෞඛ්‍ය සේවාවක් සහතික කිරීම වෙනුවෙන් යාපනය රෝහල නුදුරේදීම ජාතික රෝහලක් බවට පත් කිරීමට කටයුතු කරන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+Jaffna hospital is set to become a national hospital, ensuring high-quality healthcare in the Northern Province. This decision follows the Cabinet's approval to upgrade Karapitiya Hospital in the Southern Province. President Ranil Wickremesinghe highlighted the importance of technological advancements and knowledge transfer during the opening of the Clinical Training and Research Division at Jaffna University. The new facility, costing Rs. 942 million, spans 6,000 square meters and includes state-of-the-art equipment and specialized rooms for various medical procedures.
 
-දකුණු පළාත තුළ පැවති දීර්ඝකාලීන අවශ්‍යතාවයක් ඉටු කරමින් කරාපිටිය රෝහල ජාතික රෝහලක් බවට පත් කිරීමට අදාළ කැබිනට් අනුමැතිය හිමිවී ඇති බවද ජනාධිපතිවරයා සඳහන් කළේය.
+🟩
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මෙම අදහස් පළ කර සිටියේ යාපනය විශ්වවිද්‍යාලයේ වෛද්‍ය පීඨයේ ඉදිකළ සායනික පුහුණු සහ පර්යේෂණ අංශ ගොඩනැගිල්ල විවෘත කිරීමේ අවස්ථාවට අද (24) පෙරවරුවේ එක් වෙමිනි.
+President Ranil Wickremesinghe said that the Jaffna hospital will be a national hospital at the near future to ensure high quality health care in the Northern Province.
 
-ඉංජිනේරු පීඨ, වෛද්‍ය පීඨ, විද්‍යා පීඨ සහ කෘෂිකර්ම පීඨ ඇතුළු විද්‍යා විෂයන් මත පදනම් වූ මෙරට ඇති සියලු පීඨවල දැනට පවතින්නේ පැරණි තාක්ෂණය බවත්, මෙම තාක්ෂණය නව ලෝකයට ගැළපෙන පරිදි සකස් කළ යුතු බවටත් විශ්වවිද්‍යාල ප්‍රතිපාදන කොමිෂන් සභාවේ සභාපති ජ්‍යෙෂ්ඨ මහාචාර්ය සම්පත් අමරතුංග මහතා මෙහිදී පෙන්වා දුන්නේය.
+The Cabinet approval has been made to make the Karapitiya Hospital a national hospital by placing a long-term requirement in the Southern Province.
+
+President Ranil Wickremesinghe was speaking at the opening of the Clinical Training and Research Division built by the Faculty of Medicine at the Medical Faculty of Jaffna University today (24).
+
+The Chairperson of the University Grants Commission (NBT) has also pointed out that all the world's science subjects, including the Faculty of Medicine, Science, Science and Agriculture Faculties..
+
+He said Sri Lankan children in foreign countries show that the technology could not be introduced, but only on their knowledge, he said.
+
+The President also instructed the Department of Science and Technology and the Ministry of Education and to submit the Ministry of Education.
 
 ...
 
 [Data](articles/52ad0c1f.json)
+
+[Extended Data](ext_articles/52ad0c1f.ext.json)
 
 ---
 
@@ -2275,25 +2301,5 @@ If they find any information about them, the Ampara Police have asked the Ampara
 [Data](articles/ed60b7d4.json)
 
 [Extended Data](ext_articles/ed60b7d4.ext.json)
-
----
-
-### New report reveals trends in social media regulation in Sri Lanka
-
-*2024-05-24 12:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/New-report-reveals-trends-in-social-media-regulation-in-Sri-Lanka/108-283291) · `en`
-
-Colombo -  A groundbreaking report titled "Social Media Regulation and Rule of Law: Key Trends in Sri Lanka, India, and Bangladesh" was recently unveiled in Colombo, offering insights into the complex interplay between social media regulation and the rule of law in these South Asian nations.
-
-Produced collaboratively by Konrad Adenauer Stiftung’s Rule of Law Programme Asia, LIRNEasia Sri Lanka, the Centre for Communication Governance (CCG) at the National Law University Delhi (NLUD) India, and the School of Law at BRAC University Bangladesh, the report delves into critical issues such as free speech, privacy, internet shutdowns, and content control.
-
-The report highlights the significant influence of social media on national security and human rights, underlining challenges such as:
-
-Liability Exemptions: Bangladesh and India offer conditional liability exemptions for third-party content hosted by intermediaries. However, recent legislative trends indicate a weakening of these protections.
-
-...
-
-[Data](articles/b477102f.json)
-
-[Extended Data](ext_articles/b477102f.ext.json)
 
 ---

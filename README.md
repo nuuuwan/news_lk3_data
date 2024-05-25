@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-25 15:52:42**
+As of **2024-05-25 16:05:53**
 
 ## Newspaper Stats
 
-*Scraped **26,193** Articles*
+*Scraped **26,194** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,45 @@ adaderanalk | 3,006
 tamilmirrorlk | 3,053
 virakesarilk | 4,001
 dailymirrorlk | 4,137
-adaderanasinhalalk | 4,187
+adaderanasinhalalk | 4,188
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,192 (100.0%) of 26,193 articles have been extended.
+26,193 (100.0%) of 26,194 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-25 (Saturday)
+
+### රාත්‍රී තැපැල් දුම්රිය අදත් අවලංගු කෙරෙයි
+
+*2024-05-25 15:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196996) · `si`
+
+අයහපත් කාලගුණය හේතුවෙන් උඩරට දුම්රිය මාර්ගයේ රාත්‍රී තැපැල් දුම්රිය අද (25) දින අවලංගු කර තිබේ.
+
+ඒ බව දුම්රිය නියෝජ්‍ය සාමාන්‍යාධිකාරී (ගමනාගමන) එන්. ජී. ඉඳිපොළගේ මහතා පැවසීය.
+
+මේ හේතුවෙන් අද දින කොළඹ සිට බදුල්ල දක්වා සහ බදුල්ලේ සිටි කොළඹ දක්වා ධාවනය වීමට තිබූ රාත්‍රී තැපැල් දුම්රිය අවලංගු කෙරෙයි.
+
+රාත්‍රියේ ගමන් ආරම්භවීමට නියමිත විශේෂ දුම්රිය ධාවනය ද නතර කර තිබේ.
+
+දුම්රිය මාර්ගයට ගස් කඩා වැටීම හේතුවෙන් මෙලෙස රාත්‍රී කාලයේ තැපැල් දුම්රිය අවලංගු කිරීමට හේතුව වෙයි.
+
+දුම්රිය මාර්ගයට ගස් කඩාවැටීම් ස්ථාන 15කින්, 20කින් පමණ වාර්තා වන බවත් දුම්රිය සංඥා පද්ධතිය ක්‍රියාත්මක කිරීම දැඩි ගැටලුවක් වී තිබෙන බවත් ඔහු කියා සිටී.
+
+ඒ හේතුවෙන් නානුඔයෙන් එහා ප්‍රදේශවලට මෙම විදුලි බිඳ වැටීම් දැඩිව බලපා ඇත.
+
+විදුලිය බිඳවැටීම් හේතුවෙන් සංඥා ක්‍රියාත්මක නොවීම මත දුම්රිය හරස් මාර්ගයේ ගමන් ගන්නා රථවාහන රියදුරන් වඩා සැලකිලිමත්ව කටයුතු කරන ලෙසත් දැනුම්දෙයි.
+
+කිසිදු සංඥාවක් නොමැති හෝ රතු සංඥාව පමණක් සහිතව විදුලි සීනු දිගටම නාද වෙන අවස්ථාවක් තිබේ නම් ඉතාමත් කල්පනාකාරීව දුම්රිය හරස් මාර්ග හරහා ගමන් කරන ලෙසද රියදුරන්ට දැනුම්දෙයි.
+
+◼️
+
+[Data](articles/0f5e497e.json)
+
+---
 
 ### Senior President’s Counsel Gamini Marapana passes away
 
@@ -47,6 +75,8 @@ Family sources said the final rites of the distinguished attorney will be notifi
 ◼️
 
 [Data](articles/c8983a83.json)
+
+[Extended Data](ext_articles/c8983a83.ext.json)
 
 ---
 
@@ -2287,33 +2317,5 @@ Meanwhile, Sri Lanka is scheduled to face South Africa in their opening group-st
 [Data](articles/6c031ace.json)
 
 [Extended Data](ext_articles/6c031ace.ext.json)
-
----
-
-### Another tree collapses on a car
-
-*2024-05-24 16:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196974) · `si`
-
-A massive tree fell on a parked car in Koswadiya, injuring three members of a family during their trip from Chilaw to Colombo. The victims, including a husband, wife, and their seven-year-old child, were rushed to Marawila Base Hospital after the incident. This tragic event follows recent deaths of three women hit by motorcycles.
-
-🟩
-
-Three persons were injured in a tree that collapsed on a car parked in the Koswadiya area in Mahawewa.
-
-The accident had occurred this afternoon and three persons in the car have been admitted to the Marawila Base Hospital.
-
-While traveling from Chilaw to Colombo, the car parked in the Koswadi area, and a tremendous tree in the collapse collapsed on the car simultaneously.
-
-The same family husband, wife and seven were injured in the accident.
-
-Residents of the area were able to take out of the car to carry out the effort and the daughter and the couple were shocked.
-
-In the past few days, three women who have traveled in motorcyclists in the past few days have died.
-
-◼️
-
-[Data](articles/405fe5c2.json)
-
-[Extended Data](ext_articles/405fe5c2.ext.json)
 
 ---

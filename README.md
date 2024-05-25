@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-25 18:10:51**
+As of **2024-05-25 18:22:31**
 
 ## Newspaper Stats
 
-*Scraped **26,211** Articles*
+*Scraped **26,213** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,48 @@ adalk | 2,234
 adaderanalk | 3,007
 tamilmirrorlk | 3,055
 virakesarilk | 4,005
-dailymirrorlk | 4,140
-adaderanasinhalalk | 4,193
+dailymirrorlk | 4,141
+adaderanasinhalalk | 4,194
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,210 (100.0%) of 26,211 articles have been extended.
+26,211 (100.0%) of 26,213 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-25 (Saturday)
+
+### අද රාත්‍රියේ  කොළඹ පාරවල් කිහිපයක් වසා දැමේ
+
+*2024-05-25 18:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197003) · `si`
+
+මේ වනවිට පවතින අයහපත් කාලගුණ තත්ත්වය හේතුවෙන් ඇතිවෙන සිද්ධි වළක්වාගැනීම වෙනුවෙන් අද (25) රාත්‍රියේ  කොළඹ මාර්ග කිහිපයක් වසා තැබීමට පියවර ගන්නා බව පොලීසිය පවසයි.
+
+කොළඹ බ්‍රේබෘෘක් පෙදෙස, කනත්ත වටරවුමේ සිට තුම්මුල්ල මංසන්ධිය, බෞද්ධාලෝක මාවත, සර් ලෙස්ටර් ජේම්ස් පීරිස් වටරවුමේ සිට රොටුන්ඩා වටරමුව දක්වා මාර්ග එසේ වසා තැබීමට තීරණය කර ඇත.
+
+පොලිස් මාධ්‍ය ප්‍රකාශය, නියෝජ්‍ය පොලිස්පති නීතිඥ නිහාල් තල්දූව මහතා මේ බව පවසයි.
+
+◼️
+
+[Data](articles/3ba43b88.json)
+
+---
+
+### Wijerama Mawatha obstructed by fallen tree
+
+*2024-05-25 17:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Wijerama-Mawatha-obstructed-by-fallen-tree/108-283349) · `en`
+
+Colombo, May 25 (Daily Mirror) - The road near the Buddhist Television channel in Wijerama Mawatha has been obstructed by a fallen banyan tree across the road this evening.
+
+Operations are currently being carried out to remove the tree with the help of the Colombo Municipal Council and the Colombo Fire Service Department.
+
+◼️
+
+[Data](articles/908d8dcf.json)
+
+---
 
 ### Inclement weather: 7 dead, 13 injured in 19 districts
 
@@ -47,6 +77,8 @@ A total of 3,137 houses were partially damaged, and 11 houses were completely da
 ◼️
 
 [Data](articles/1adb137f.json)
+
+[Extended Data](ext_articles/1adb137f.ext.json)
 
 ---
 
@@ -2289,41 +2321,5 @@ The International Court of Justice has ordered the submission of a report within
 [Data](articles/4e536048.json)
 
 [Extended Data](ext_articles/4e536048.ext.json)
-
----
-
-### Leak sales in the file;Arresting the woman
-
-*2024-05-24 19:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/184417) · `ta`
-
-A woman was arrested in Selvapuram for leaking sales data, including liquor store closures, after a tip-off to the Jaffna District Police.
-
-🟩
-
-A woman who was involved in leakage selling in Selvapuram area, including the Jaffna -Kopay police division, was arrested by the Special Police Investigation Unit of the Jaffna District Inspector General of Police on Friday.
-
-The woman has been arrested following a confidential information received by the Police Intelligence Unit for allegedly engaging in a leaky business with the closure of liquor stores on the 24th.
-
-◼️
-
-[Data](articles/5341e68a.json)
-
-[Extended Data](ext_articles/5341e68a.ext.json)
-
----
-
-### UN’s top court orders Israel to halt military offensive in Rafah
-
-*2024-05-24 19:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/99418/uns-top-court-orders-israel-to-halt-military-offensive-in-rafah) · `en`
-
-The top United Nations court ordered Israel on Friday to immediately halt its military operations in the southern Gaza city of Rafah — but stopped short of ordering a full cease-fire. While Israel is unlikely to comply with the order, it will ratchet up the pressure on the increasingly isolated country.
-
-Criticism of Israel’s conduct in the war in Gaza has been growing, particularly on operations in Rafah — and even from its closest ally, the United States. This week alone, three European countries announced they would recognize a Palestinian state, and the chief prosecutor for another U.N. court requested arrest warrants for Israeli leaders, along with Hamas officials.
-
-...
-
-[Data](articles/457b6d62.json)
-
-[Extended Data](ext_articles/457b6d62.ext.json)
 
 ---

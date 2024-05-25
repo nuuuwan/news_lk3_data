@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-25 21:18:38**
+As of **2024-05-25 21:34:08**
 
 ## Newspaper Stats
 
@@ -26,31 +26,39 @@ adaderanasinhalalk | 4,198
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,229 (100.0%) of 26,230 articles have been extended.
+26,230 (100.0%) of 26,230 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-25 (Saturday)
 
-### ලංකාවෙන් පැන්න ISIS ත්‍රස්තයින් ගැන අලුත් තොරතුරු
+### New information about Isis terrorists
 
 *2024-05-25 20:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197007) · `si`
 
-ඉන්දියාවේදී අත්අඩංගුවට ගත් ශ්‍රී ලාංකික ISIS ත්‍රස්තවාදීන් සිව්දෙනාට සම්බන්ධ දෙමටගොඩ ප්‍රදේශයේ පදිංචි පුද්ගලයෙකු අත්අඩංගුවට ගැනීම සඳහා පොලීසිය මහජන සහාය ඉල්ලා සිටී.
+Police seek public help to identify and arrest a 46-year-old suspect linked to ISIS terrorists in Sri Lanka. The suspect, Gerard Pushraja Ozman Jerad from Dematagoda, is wanted for questioning. A 34-year-old man previously arrested in India for ISIS links is also under investigation. Security forces continue to investigate potential ISIS activities in Sri Lanka.
 
-මේ අතර ISIS ත්‍රස්ත සංවිධානයට සම්බන්ධ තවත් පුද්ගලයින් මෙරට තුළ සිටින බව අනාවරණ කරගැනීම සඳහා ආරක්ෂක අංශ මගින් විමර්ශන කටයුතු ක්‍රියාත්මකය.
+🟩
 
-පසුගියදා ඉන්දියාවේදී අත්අඩංගුවට ගත් ශ්‍රී ලාංකික ISIS ත්‍රස්තවාදීන් සිව්දෙනා සම්බන්ධයෙන් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව සිදුකරන විමර්ශනවලට අදාළව ඔවුන් සමඟ සබඳතා පැවැත්වූ සැකකටයුතු පුද්ගලයෙකු සොයා මේ වනවිට විමර්ශන ආරම්භ කර ඇත.
+Police have requested public assistance to arrest a person in the Dematagoda area associated with the four terrorists who were arrested in India.
 
-ඒ අනුව සැකකරුගේ රූපරාමු කිහිපයක් සහ ඡායාරූපයක් ද පොලීසිය අද (25) මාධ්‍යයට නිකුත් කළේය.
+Meanwhile, security forces are conducting further investigations to uncover other persons involved in ISIS terrorist organization are in Sri Lanka.
 
-46 හැවිරිදි ජෙරාඩ් පුෂ්පරාජා ඔස්මන් ජෙරාඩ් නම් එම සැකකරු දෙමටගොඩ ප්‍රදේශයේ පදිංචි අඩි 05යි අඟල් 06ක් පමණ උස පුද්ගලයෙකි.
+Investigations have commenced investigating a suspicious person who had contacted the investigators of the Criminal Investigations carried out in India recently.
 
-එම පුද්ගලයා සම්බන්ධයෙන් තොරතුරක් ඇත්නම් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ අධ්‍යක්ෂවරයාගේ 071-8591753 දුරකථන අංකයට හෝ එහි ස්ථානාධිපතිවරයාගේ 071-8591774 අංකයට දැනුම් දෙන්නැයි පොලීසිය ජනතාවගෙන් ඉල්ලා සිටී.
+Accordingly, several sisters and photographs of the suspect and a photograph of the police have issued the police to the media today (25).
+
+The suspect is 46-year-old Gerard Pushraja Ozman Jerad, a resident of Demodagoda and 5 inches tall.
+
+If there is any information regarding the guy, the police urges the public to inform the telephone number of the Director of the Criminal Investigation (CID) or the OIC 071-8591774.
+
+The Police Headquarters emphasizes a rewards for a reward and protect the information of the information.
 
 ...
 
 [Data](articles/a4bffb29.json)
+
+[Extended Data](ext_articles/a4bffb29.ext.json)
 
 ---
 

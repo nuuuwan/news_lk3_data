@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-25 11:18:43**
+As of **2024-05-25 11:34:19**
 
 ## Newspaper Stats
 
-*Scraped **26,161** Articles*
+*Scraped **26,166** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,39 @@ islandlk | 1,417
 economynextcom | 1,503
 dailyftlk | 1,533
 adalk | 2,231
-adaderanalk | 3,001
+adaderanalk | 3,002
 tamilmirrorlk | 3,052
 virakesarilk | 3,992
-dailymirrorlk | 4,130
+dailymirrorlk | 4,134
 adaderanasinhalalk | 4,179
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,161 (100.0%) of 26,161 articles have been extended.
+26,161 (100.0%) of 26,166 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-25 (Saturday)
+
+### Advisories issued for heavy rains and strong winds
+
+*2024-05-25 11:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/99424/advisories-issued-for-heavy-rains-and-strong-winds) · `en`
+
+The Department of Meteorology has issued an ‘Amber’ warning for heavy rains in Sabaragamuwa province and in Nuwara-Eliya district today (25).
+
+Due to the southwest monsoon that has established over the island, the prevailing rain and wind conditions are expected to continue further, the Met. Department said.
+
+Heavy showers above 100 mm are likely at some places in Sabaragamuwa province and in Nuwara-Eliya district. Fairly heavy showers about 75 mm are likely at some places in Western and North-western provinces and in Kandy, Galle and Matara districts, it added.
+
+Meanwhile, the Met. Department also issued an advisory for strong winds in the Western slopes of the central hills and Northern, North-central, Western, Southern and North western provinces and in Trincomalee district, effective for the next 24 hours.
+
+...
+
+[Data](articles/dc764f75.json)
+
+---
 
 ### Notice on new e-visa system for Maldivians travelling to Sri Lanka
 
@@ -49,6 +67,38 @@ Maldivians who are already in Sri Lanka and require a visa extension may contact
 [Data](articles/c84a5fa8.json)
 
 [Extended Data](ext_articles/c84a5fa8.ext.json)
+
+---
+
+### School principal netted when trying to solicit Rs.30,000 bribe
+
+*2024-05-25 10:38:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/School-principal-netted-when-trying-to-solicit-Rs-30-000-bribe/108-283330) · `en`
+
+Colombo, May 25 (Daily Mirror)- The Bribery Commission apprehended a school principal in the Eheliyagoda area for trying to solicit a bribe of Rs.30,000 from a lady to offer the tender to supply food for the school canteen uninterrupted.
+
+The sleuths of the Bribery Commission netted the principal in his office room. It is learnt that the suspect has demanded Rs.50,000 as a bribe to recommend the release of payment for this lady for the supply of food for the months of March and April. Initially, he secured Rs.20,000 of this bribe.
+
+She made a complaint when she was asked to pay Rs.30,000, and the suspect was arrested accordingly
+
+◼️
+
+[Data](articles/99721f19.json)
+
+---
+
+### Rs. 4.5 billion fine to be imposed on 13 leading jewellers for gold smuggling
+
+*2024-05-25 10:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Rs-4-5-billion-fine-to-be-imposed-on-13-leading-jewellers-for-gold-smuggling/155-283328) · `en`
+
+Colombo, May 25 (Daily Mirror)- Sri Lanka Customs have raided 13 leading jewellery-making institutions and seized a stock of gold smuggled into the country and a fine of Rs. 4.5 billion is to be imposed in this regard, the Daily Mirror learns.
+
+There are a few leading jewellery business operators involved in this racket, according to information available. It is learnt that these business operators have continued to bring gold from India through unlawful means for a long time denying tax revenue to the government.
+
+Daily Mirror learns that there is a sinister move involving some customs officials to underestimate the value of gold stock seized for dubious transactions at the moment. The customs authorities suspect that gold items have been smuggled in boats from India and payments have been made through unlawful methods.
+
+◼️
+
+[Data](articles/2f02d90f.json)
 
 ---
 
@@ -2227,81 +2277,5 @@ The application sought to challenge an earlier decision by the Court of Appeal, 
 [Data](articles/9cf2793e.json)
 
 [Extended Data](ext_articles/9cf2793e.ext.json)
-
----
-
-### SC overturns Appeal Court order over case against Ravi Karunanayake
-
-*2024-05-24 13:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/SC-overturns-Appeal-Court-order-over-case-against-Ravi-Karunanayake/155-283292) · `en`
-
-May 24 - The Supreme Court of Sri Lanka has today granted special leave to appeal in a high-profile bribery case against former Minister of Finance Ravi Karunanayake.
-
-The case centers around allegations that Karunanayake accepted an apartment from Arjun Aloysius, a director of a primary dealer company.
-
-This development follows the submission of a special leave to appeal application by the Commission to Investigate Allegations of Bribery or Corruption (CIABOC).
-
-The application sought to challenge an earlier decision by the Court of Appeal, which had overruled a preliminary objection raised by CIABOC. The objection contended that the accused, Karunanayake, did not have the right to appeal against an interim order of the High Court.
-
-...
-
-[Data](articles/a3b56fb3.json)
-
-[Extended Data](ext_articles/a3b56fb3.ext.json)
-
----
-
-### Do you find the right planet to live like Earth?
-
-*2024-05-24 13:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196968) · `si`
-
-Astronomers have discovered GLSE 12b, a planet resembling Earth in size and potentially habitable conditions, thanks to a collaboration between NASA and the European Space Agency. This discovery, which includes a surface temperature of about 42°C, suggests it could support life. However, uncertainties remain about its atmosphere. The planet orbits a red dwarf star and receives 1.6 times the solar radiation Earth does. Despite being 40 light-years away, this finding offers valuable insights into exoplanet exploration and potential extraterrestrial life.
-
-🟩
-
-Two of the international groups of astronomers have been able to find an attractive planet apart from the size of Earth and Venus.
-
-GLSE 12b, this planet, assumes that this planet is designated to be the best planet to be like Earth.
-
-The new planet has been found as a result of a research conducted by NASA with the European Space Agency.
-
-Research has revealed that in the planet, a similar situation in the UK in 2022, research has revealed.
-
-Scientists' opinion include the few planetards that have already already identified for human habitation.
-
-The surface temperature of the planet 12 B is estimated that the surface temperature of the planet is about 42 degrees Celsius, but is still uncertain about how the atmosphere is like.
-
-However, scientists say that it is closely disrupted by the planet's 40 light years from the planet.
-
-The Warwick University of Warwick, Dr. Thomas Wilson said, "It will help us to help our research on planets, such as our galaxy through our galaxy."
-
-...
-
-[Data](articles/66fdc5bf.json)
-
-[Extended Data](ext_articles/66fdc5bf.ext.json)
-
----
-
-### The victim of the accident dies without treatment
-
-*2024-05-24 13:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/184369) · `ta`
-
-Thambirasa Ravischandran, a 35-year-old from Kilinochchi, passed away at Jaffna Bodhana Hospital after being transferred from Kilinochchi District Hospital for further treatment.
-
-🟩
-
-A man from Kilinochchi, who was receiving treatment at the Jaffna Bodhana Hospital, died on Thursday (23).
-
-The deceased is Thambirasa Ravischandran (age 35) from Vattakachi, Kilinochchi.
-
-The person who was admitted to the Kilinochchi District Hospital was transferred to the Jaffna Bodhana Hospital for further treatment.
-
-Meanwhile, he died yesterday after receiving treatment at the teaching hospital.
-
-◼️
-
-[Data](articles/dfa6722b.json)
-
-[Extended Data](ext_articles/dfa6722b.ext.json)
 
 ---

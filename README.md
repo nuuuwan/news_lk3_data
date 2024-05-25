@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-25 11:53:21**
+As of **2024-05-25 12:06:02**
 
 ## Newspaper Stats
 
-*Scraped **26,167** Articles*
+*Scraped **26,168** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 261
 bbccomsinhala | 265
 newsfirstlk | 363
 islandlk | 1,417
-economynextcom | 1,503
+economynextcom | 1,504
 dailyftlk | 1,533
 adalk | 2,231
 adaderanalk | 3,002
@@ -26,33 +26,39 @@ adaderanasinhalalk | 4,180
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,166 (100.0%) of 26,167 articles have been extended.
+26,167 (100.0%) of 26,168 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-25 (Saturday)
 
-### ගුවන් පාලමක් මතින් අධිවේගී මාර්ගයට වැටුණු සිසුවා මරුට
+### Student killed in Expressway from a flyover
 
 *2024-05-25 11:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196988) · `si`
 
-කොළඹ පිටත වටරවුම් මාර්ගයේ ගුවන් පාලම මතින් අධිවේගී මාර්ගයට වැටී තරුණයෙකු මියගොස් තිබේ.
+A 19-year-old student fell off a Colombo highway overpass and died after being hit by a car heading towards Matara. He was admitted to Homagama Base Hospital but succumbed to his injuries. The incident occurred near the 1.2 km mark of the Colombo Outer Circular Highway. Police have arrested the driver involved and found an English letter in the student's home.
 
-කොළඹ පිටත වටරවුම් මාර්ගයේ කිලෝමීටර් 1.2 කණුව අසල ඇති ගුවන් පාලම මතින් අධිවේගී මාර්ගයට ඊයේ (24) රාත්‍රී 7ට පමණ මෙම තරුණයා වැටී තිබේ.
+🟩
 
-එම අවස්ථාවේදී මාතර දෙසට ගමන්ගත් මෝටර් රථයකද ඔහු ගැටී ඇති බව පොලීසිය සඳහන් කරයි.
+A youth has fallen into the Expressway from the Colombo Outer Circular Highway and has died on the Expressway.
 
-අනතුරින් බරපතළ තුවාල ලැබූ තරුණයා හෝමාගම මූලික රෝහලට ඇතුළත් කිරීමෙන් අනතුරුව මියගොස් ඇත.
+The young man has fallen to the 17 kilometers near the 1.2 kilometer of the Colombo Outer Circular Highway at around 7 pm yesterday.
 
-එලෙස මියගොස් ඇත්තේ, 19 හැවිරිදි මෙනාත් බානුජ නමැති අතුරුගිරිය ප්‍රදේශයේ පදිංචි පාදුක්කේ පිහිටි පෞද්ගලික විශ්වවිද්‍යාලයක පාඨමාලාවක් හදාරන තරුණයෙකි.
+He was also confronted with a car traveling towards Matara.
 
-අනතුරින් මෝටර් රථයට ද හානි සිදුවී ඇති අතර මෝටර් රථ රියදුරද පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+The youth who was seriously injured in the accident died on admission to the Homagama Base Hospital.
 
-මේ අතර පොලීසිය සිදුකළ සොයාබැලීමේ දී මියගිය තරුණයාගේ නිවසේ තිබී තමන් සියදිවි නසාගන්නා බවට ඉංග්‍රීසි බසින් ලියන ලද ලිපියක් ද හමුවී ඇති බව පොලීසිය සඳහන් කරයි.
+The deceased has been identified as a young man in a private university located in Padukka, 19-year-old regime.
+
+The car has also been damaged in the accident and the vehicle driver was arrested by the police.
+
+Meanwhile, a letter written in English has also been found in the house of the deceased youth, police said.
 
 ◼️
 
 [Data](articles/f37a6361.json)
+
+[Extended Data](ext_articles/f37a6361.ext.json)
 
 ---
 
@@ -239,6 +245,26 @@ The “Anhalt 2024 - Internationales Leichtathletik Meeting,” a World Athletic
 [Data](articles/4b16b89e.json)
 
 [Extended Data](ext_articles/4b16b89e.ext.json)
+
+---
+
+### Melco’s Nuwa hotel to open in Sri Lanka in mid-2025
+
+*2024-05-25 08:31:00* · [`economynextcom`](https://economynext.com/melcos-nuwa-hotel-to-open-in-sri-lanka-in-mid-2025-164535/) · `en`
+
+ECONOMYNEXT – A Nuwa branded hotel run by Melco Resorts and Entertainment linked to their gaming operation in Colombo will open in mid 2025, its Sri Lanka partner John Keells Holdings said.
+
+The group’s integrated resort is being re-branded as a ‘City of Dreams’, a brand of Melco.
+
+The resort will have a 687-room Cinnamon Life hotel and the Nuwa hotel described as “ultra-high end”.
+
+“The 113-key exclusive hotel, situated on the top five floors of the integrated resort, will be managed by Melco under its ultra high-end luxury-standard hotel brand ‘Nuwa’, which has presence in Macau and the Philippines,” JKH told shareholders in the annual report.
+
+“Melco’s ultra high-end luxury-standard hotel and casino, together with its global brand and footprint, will strongly complement the MICE, entertainment, shopping, dining and leisure offerings in the ‘City of Dreams Sri Lanka’ integrated resort, establishing it as a one-of-a-kind destination in South Asia and the region.”
+
+...
+
+[Data](articles/b61293d8.json)
 
 ---
 
@@ -2263,29 +2289,5 @@ During this period, 1,254 AWL naval personnel and an additional 35 naval personn
 [Data](articles/f44641ad.json)
 
 [Extended Data](ext_articles/f44641ad.ext.json)
-
----
-
-### MasterChef finalist credits Sri Lankan heritage for love of food
-
-*2024-05-24 13:37:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/MasterChef-finalist-credits-Sri-Lankan-heritage-for-love-of-food/108-283296) · `en`
-
-May 24 - A veterinary surgeon whose love of cooking is inspired by his Sri Lankan heritage has been crowned the 20th winner of BBC TV's Masterchef.
-
-Brin Pirathapan, 29, from Chelmsford, impressed judges John Torode and Gregg Wallace to beat 57 others in this year's amateur contest.
-
-Mr Pirathapan cooked a winning menu of a seafood starter, a spiced venison main and a dessert of white chocolate and cardamom and saffron cremeux with a lime and chili sorbet.
-
-"The show is one of the reasons I’m the cook I am today," he said.
-
-He was working as a veterinary surgeon in Bristol before entering the show, and said he had watched the show since he way a boy.
-
-"The food I grew up with was never boring. Coming from a Tamil, Sri Lankan background, we had nice food on the table and it's never bland," he said.
-
-...
-
-[Data](articles/514bc233.json)
-
-[Extended Data](ext_articles/514bc233.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-25 05:36:07**
+As of **2024-05-25 06:17:31**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,175
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,135 (100.0%) of 26,141 articles have been extended.
+26,141 (100.0%) of 26,141 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -68,6 +68,8 @@ This program was attended by nearly 50 participants from 20 hotels in the southe
 
 [Data](articles/6ac396e4.json)
 
+[Extended Data](ext_articles/6ac396e4.ext.json)
+
 ---
 
 ### Seylan Cards partners with Hayleys Travels to continue its Swipe and Win promo
@@ -81,6 +83,8 @@ With 6 tickets up for grabs by 3 lucky winners, Seylan Card holders need to carr
 ...
 
 [Data](articles/14494d70.json)
+
+[Extended Data](ext_articles/14494d70.ext.json)
 
 ---
 
@@ -117,6 +121,8 @@ While a stronger rupee certainly promises cheaper imports of essentials like pet
 ...
 
 [Data](articles/e656d0c3.json)
+
+[Extended Data](ext_articles/e656d0c3.ext.json)
 
 ---
 

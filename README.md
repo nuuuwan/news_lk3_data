@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-26 02:18:22**
+As of **2024-05-26 02:33:50**
 
 ## Newspaper Stats
 
-*Scraped **26,244** Articles*
+*Scraped **26,245** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,505
 dailyftlk | 1,533
 adalk | 2,235
 adaderanalk | 3,014
-tamilmirrorlk | 3,063
+tamilmirrorlk | 3,064
 virakesarilk | 4,006
 dailymirrorlk | 4,146
 adaderanasinhalalk | 4,201
@@ -26,9 +26,29 @@ adaderanasinhalalk | 4,201
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,244 (100.0%) of 26,244 articles have been extended.
+26,244 (100.0%) of 26,245 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-05-26 (Sunday)
+
+### மலையக மார்க்க ரயில் சேவைகள் பல இரத்து
+
+*2024-05-26 02:00:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மலையக-மார்க்க-ரயில்-சேவைகள்-பல-இரத்து/175-337840) · `ta`
+
+மலையக ரயில் மார்க்கத்தின் பல இடங்களில் மரங்கள் முறிந்து வீழ்ந்துள்ளதால்,  ரயில் சேவைகளுக்கு இடையூறு ஏற்பட்டுள்ளது.
+
+கடுகன்னாவை பகுதியில் மரமொன்று முறிந்து வீழ்ந்தமையினால், கொழும்பிலிருந்து பதுளை நோக்கிச் செல்லும் பொடி மெனிக்கே ரயில் அந்தப் பகுதியில் நிறுத்திவைக்கப்பட்டுள்ளது.
+
+இதல்கஸ்ஹின்ன பகுதியில் மரமொன்று முறிந்து வீழ்ந்தமையினால், பதுளையிலிருந்து கொழும்பு நோக்கி பயணிக்கும் உடரட்ட மெனிக்கே ரயில் சேவையும் பாதிக்கப்பட்டுள்ளது.
+
+இதனிடையே, அதிக மழை மற்றும் காற்றுடனான வானிலையினால் ரயில் மார்க்கங்களில் ஏற்பட்டுள்ள பாதிப்புகளை கருத்திற்கொண்டு கொழும்பு - பதுளைக்கிடையிலான இரண்டு இரவு நேர தபால் சேவைகளும் இரத்து செய்யப்பட்டுள்ளன. (a)
+
+◼️
+
+[Data](articles/b109a9c3.json)
+
+---
 
 ### 2024-05-25 (Saturday)
 
@@ -2321,23 +2341,5 @@ Our President who rescued the country that was caught in the economic crisis. Wh
 [Data](articles/77d0b998.json)
 
 [Extended Data](ext_articles/77d0b998.ext.json)
-
----
-
-### SLCB inspires hoteliers in Southern region to promote MICE tourism
-
-*2024-05-25 01:17:00* · [`islandlk`](http://island.lk/slcb-inspires-hoteliers-in-southern-region-to-promote-mice-tourism/) · `en`
-
-The Sri Lanka Convention Bureau (SLCB) an entity under the Ministry of Tourism and Lands successfully concluded the Southern Hoteliers Training Program on MICE Tourism on the 8th of May 2024 at the Occidental Eden Beruwala.
-
-This is one of the series of training programs that had been organized by SLCB in many parts of the country during the past few years. This particular MICE Tourism training programme was organized in order to create awareness on MICE Tourism among the southern hoteliers and for them to geared up for the upcoming Southern MICE EXPO 2024 to be held on from 27-31 May 2024. Expo will be attended by more than 100 hosted buyers across the globe and also 15 international media.
-
-This program was attended by nearly 50 participants from 20 hotels in the southern coastal belt.
-
-...
-
-[Data](articles/6ac396e4.json)
-
-[Extended Data](ext_articles/6ac396e4.ext.json)
 
 ---

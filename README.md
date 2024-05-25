@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-25 13:53:03**
+As of **2024-05-25 14:03:55**
 
 ## Newspaper Stats
 
-*Scraped **26,182** Articles*
+*Scraped **26,186** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,80 @@ adalk | 2,232
 adaderanalk | 3,004
 tamilmirrorlk | 3,053
 virakesarilk | 3,999
-dailymirrorlk | 4,135
-adaderanasinhalalk | 4,182
+dailymirrorlk | 4,136
+adaderanasinhalalk | 4,185
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,182 (100.0%) of 26,182 articles have been extended.
+26,182 (100.0%) of 26,186 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-25 (Saturday)
+
+### ගාමිණි මාරපන අභාවප්‍රාප්ත වෙයි
+
+*2024-05-25 13:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196993) · `si`
+
+ජනාධිපති නීතිඥ ගාමිණි මාරපන මහතා අද (25) උදෑසන අභාවප්‍රාප්ත වී තිබේ.
+
+◼️
+
+[Data](articles/472e8a0f.json)
+
+---
+
+### CID offers Rs. 2Mn reward for info on wanted suspect
+
+*2024-05-25 13:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/CID-offers-Rs-2Mn-reward-for-info-on-wanted-suspect/108-283344) · `en`
+
+Colombo, May 25 (Daily Mirror)- The Criminal Investigations Department (CID) announced a reward of Rs. 2 million for information to arrest a suspect who is wanted in connection with a special investigation carried out by the CID.
+
+Police sought public assistance to arrest the suspect, Jerad Pushparaja Osman Jerad who is a resident of Dematagoda.
+
+Police released a photograph of the suspect and request the public to provide information on the suspect over the following telephone numbers: Director (CID) via 071-8591753 or OIC of Criminal Investigation Department via 071- 8591774.
+
+◼️
+
+[Data](articles/3ac27c12.json)
+
+---
+
+### මෙම සැකකරු ගැන නිවැරදි තොරතුරක් දුන්නොත් මුදල් තෑගි
+
+*2024-05-25 13:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196992) · `si`
+
+විශේෂ විමර්ශනයකට අදාළව අත්අඩංගුවට ගැනීමට අවශ්‍යව සිටින සැකකරුවෙක් සම්බන්ධයෙන් තොරතුරක් වෙතොත් දැනුම්දෙන ලෙස පොලිස්පතිවරයා ජනතාවගෙන් ඉල්ලා සිටී.
+
+අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව දිසාව මගින් අදාළ සැකකරු සම්බන්ධයෙන් විමර්ශන සිදුකරයි.
+
+මෙම සැකකරු දෙමටගොඩ ප්‍රදේශයේ පදිංචි ජෙරාඩ් පුෂ්පරාජා ඔස්මන් ජෙරාඩ් නම් පුද්ගලයා බව පොලීසිය පවසයි.
+
+මෙම සැකකරු පිළිබඳව නිවැරදි තොරතුරක් ලබාදෙන පුද්ගලයෙකුට රුපියල් ලක්ෂ 20ක ත්‍යාග මුදලක් ලබාදෙන බවද පොලිස් මූලස්ථානය සඳහන් කළේය.
+
+◼️
+
+[Data](articles/72c511e3.json)
+
+---
+
+### මිලිමීටර් 350කට අධික වර්ෂාවක් ඇදහැලෙයි
+
+*2024-05-25 13:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196990) · `si`
+
+ඇතැම් ප්‍රදේශවලට මිලිමීටර් 350කට අධික වර්ෂාවක් ලැබී ඇති බවට වාර්තා වෙන බවත් ඒ හේතුවෙන් ඉදිරියේදී ඇදහැලෙන සුළු වර්ෂාවකදී පවා නායයෑමේ අනතුරක් සිදුවිය හැකි බවට ජාතික ගොඩනැගිලි පර්යේෂණ සංවිධානයේ අනතුරු අඟවයි.
+
+ජාතික ගොඩනැගිලි පර්යේෂණ සංවිධානයේ ජ්‍යේෂ්ඨ විද්‍යාඥ වසන්ත සේනාධීර මහතා මේ බව පැවසීය.
+
+"කෑගල්ල, රත්නපුර, කළුතර යන දිස්ත්‍රික්කවල ඇතැම් ස්ථානවලට මිලිමීටර් 350ට අධික වර්ෂාපතනයක් ලැබී තිබෙනවා. ජනතාව ඒ සම්බන්ධව අවධානයෙන් සිටින්න ඕනේ. ඉදිරියේදී ලැබෙන සුළු වර්ෂාවකින් වුවද කණ්ඩි කඩා වැටීම් සහ නායයෑම් අනතුරක් සිදුවිය හැකියි."
+
+◼️
+
+[Data](articles/c9993dd9.json)
+
+---
 
 ### All people's immovable and movable property is taken
 
@@ -64,7 +126,7 @@ Information on all current accounts and the advances of all current accounts run
 
 At least 43 Pakistani prisoners will be repatriated from Sri Lanka, announced Pakistan’s Interior Minister Mohsin Naqvi on Friday after securing an agreement with the Sri Lankan government.
 
-The announcement came following a meeting between Naqvi, Sri Lankan High Commissioner Admiral (retd) Ravindra Chandra Srivijay Gunaratne alongside Interior Secretary Khurram Ali Agha, National Database and Registration Authority (NADRA) Chairman Lt General Muhammad Munir, and other officials.
+The announcement came following a meeting between Naqvi, Sri Lankan High Commissioner Admiral (retd) Ravindra Wijegunaratne alongside Interior Secretary Khurram Ali Agha, National Database and Registration Authority (NADRA) Chairman Lt General Muhammad Munir, and other officials.
 
 Naqvi stated that the interior ministry closely collaborated with Sri Lankan authorities over the past month to facilitate the return of the incarcerated individuals. He maintained that both nations have agreed to expedite the repatriation process.
 
@@ -2247,103 +2309,5 @@ According to the police, Jayalath used a drug to abort her baby at De Soysa's ho
 [Data](articles/3029c3b9.json)
 
 [Extended Data](ext_articles/3029c3b9.ext.json)
-
----
-
-### Scientists find Earth-like planet that could be home to alien life
-
-*2024-05-24 15:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Scientists-find-Earth-like-planet-that-could-be-home-to-alien-life/108-283301) · `en`
-
-May 24 - Scientists have found a new Earth-like planet that could support alien life – just 40 light-years away.
-
-The planet is a remarkable discovery in the search for habitable worlds: it is slightly smaller than the Earth, and thought to be just a little hotter. Many planets outside our solar system, called exoplanets, tend to be much larger and hotter than our own world.
-
-The newly discovered planet is called Gliese 12b and researchers say that even if we cannot find whether it is home to alien life then it will help in our search for other worlds that might be.
-
-The planet planet orbits its host star every 12.8 days, and is comparable in size to Venus - so slightly smaller than Earth.
-
-It has an estimated surface temperature of 42C, which is lower than most of the 5,000-odd exoplanets (planets outside of the solar system) confirmed so far.
-
-◼️
-
-[Data](articles/bda76362.json)
-
-[Extended Data](ext_articles/bda76362.ext.json)
-
----
-
-### Kusal and Asitha Sri Lanka joins the squad
-
-*2024-05-24 15:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196972) · `si`
-
-Kusal Mendis and Asitha Fernando join Sri Lanka's T20 World Cup squad after resolving visa issues, led by Wanindu Hasaranga. The team departed on May 14 for the tournament starting June 1st in the US and West Indies.
-
-🟩
-
-Sri Lanka opener Kusal Mendis and fast bowler, Kusal Mendis and fast bowler, had joined the Twenty20 World Cup.
-
-Due to a visa issue, they were unable to force America, and later resolved in the squad.
-
-The SLC squad was declared recently for the upcoming Twenty20 World Cup.
-
-The squad led by Wanindu Hasaranga includes 15 players.
-
-Accordingly, the 15 people who participate in the World Cup have left the island on May 14.
-
-The 20 -20 World Cup will be held from June 01 from June 01 at US and West Indies.
-
-◼️
-
-[Data](articles/50c25ba7.json)
-
-[Extended Data](ext_articles/50c25ba7.ext.json)
-
----
-
-### Police threatened and threatened the protesters and journalists
-
-*2024-05-24 15:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/184384) · `ta`
-
-Protesters and journalists faced threats from police over an illegal temple issue. The police, including those from the Palali station, used mobile phones to communicate during the incident.
-
-🟩
-
-The police and the journalists who were protesting against the illegal Tissa Vihara located in Tittitti have been working on a mobile phone.
-
-When the Palali Police Station was in charge of the site, the police shouted, "Palali police officer in charge of the Palali Police Station, Palali Police Station Officer."
-
-◼️
-
-[Data](articles/a722f7eb.json)
-
-[Extended Data](ext_articles/a722f7eb.ext.json)
-
----
-
-### Sukandini is a high award in Korea for the rights of war -affected women who have been arrested by the military in the final war and suffered the worst torture
-
-*2024-05-24 15:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/184386) · `ta`
-
-Sukandini Mathiyamudhan Thangaraj, a human rights activist, received the 2024 Guangzhou Award for her work advocating for Eelam Tamil women's rights, particularly those affected by war. She launched the Amara system to empower these women. The May 18 Memorial Foundation recognizes Sukandini as a symbol of courage, highlighting her efforts to improve the lives of Tamil women in Sri Lanka. Her activism aims to shed light on the injustices faced by these women, emphasizing the importance of international support.
-
-🟩
-
-South Korea's May 18 Memorial Foundation has honored the 2024 Guangzhou Award for Human Rights activist Sukandini Mathiyamudhan Thangaraj, who voices the rights of Eelam Tamil women.
-
-Sukandini is carrying out his activities by launching the Amara system to strengthen the rights of Tamil women affected by the war -affected war -torn Tamil women.
-
-The May 18 Memorial Foundation said that Sukandini is seen as a symbol of courage to give confidence to many women who lost everything from the military.
-
-The May 18 Memorial Foundation, May 18 Memorial Foundation, said that Sukandini's actions are close to our organization, we are giving her efforts to change the situation of Tamil women in Sri Lanka.
-
-The organization said that the concern, attention, cooperation and support of the international community would help to come to light the iniquities of the soldiers.
-
-Sukandini has said that I have joined the liberation movement for two reasons.
-
-...
-
-[Data](articles/fbd12776.json)
-
-[Extended Data](ext_articles/fbd12776.ext.json)
 
 ---

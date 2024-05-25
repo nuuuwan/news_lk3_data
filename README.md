@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-25 11:03:40**
+As of **2024-05-25 11:18:43**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,179
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,160 (100.0%) of 26,161 articles have been extended.
+26,161 (100.0%) of 26,161 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ Maldivians who are already in Sri Lanka and require a visa extension may contact
 ...
 
 [Data](articles/c84a5fa8.json)
+
+[Extended Data](ext_articles/c84a5fa8.ext.json)
 
 ---
 

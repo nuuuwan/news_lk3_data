@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-25 17:34:13**
+As of **2024-05-25 17:54:21**
 
 ## Newspaper Stats
 
-*Scraped **26,207** Articles*
+*Scraped **26,210** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,52 @@ newsfirstlk | 363
 islandlk | 1,417
 economynextcom | 1,504
 dailyftlk | 1,533
-adalk | 2,233
+adalk | 2,234
 adaderanalk | 3,007
 tamilmirrorlk | 3,055
 virakesarilk | 4,005
 dailymirrorlk | 4,139
-adaderanasinhalalk | 4,191
+adaderanasinhalalk | 4,193
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,205 (100.0%) of 26,207 articles have been extended.
+26,207 (100.0%) of 26,210 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-25 (Saturday)
+
+### අධිවේගී මාර්ගයේ යන රියදුරන්ට උපදෙස්
+
+*2024-05-25 17:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197002) · `si`
+
+අයහපත් කාලගුණය හේතුවෙන් අධිවේගී මාර්ගයේ වාහන ධාවනය කිරීමේදී  විද්‍යුත් පුවරුවල සඳහන් අවවාදාත්මක වැකි කෙරෙහි අවධානය යොමු කරන ලෙස රියදුරන්ට දැනුම්දෙයි.
+
+වාහන අතර පරතරය මීටර් 50ක් තබාගන්නා ලෙසත්, විද්‍යුත් පුවරුවලින් උපදෙස් ලබාදී ඇති වේගය ඉක්මවා නොයන ලෙසත් දැනුම්දී තිබේ.
+
+◼️
+
+[Data](articles/ceffde4f.json)
+
+---
+
+### පානදුරේ එක් මංතීරුවක් වසා තැබෙයි
+
+*2024-05-25 17:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197001) · `si`
+
+පින්වත්ත සුසාන භූමිය අසල සිට පානදුර නගර ශාලාව දක්වා ගාලු පාරේ කොටසක් එක් මංතීරුවකට සීමා කෙරෙන බව පොලීසිය දැනුම්දෙයි.
+
+පානදුරේට අදාළ කොටසේ ගාල්ල දෙස සිට කොළඹ දෙසට ගමන් කිරීමට ඇති මංතීරුව මෙලෙස වසා තැබීමට සිදුවන බව පොලීසිය රියදුරන්ට දැනුම්දෙයි.
+
+කොළඹ දෙස සිට ගාල්ල දෙසට ඇති මංතීරුව දෙපසටම ගමන් කළ හැකි පරිදි විවෘතව තැබෙයි.
+
+◼️
+
+[Data](articles/d8886d8d.json)
+
+---
 
 ### Prevailing rains, windy conditions expected to continue further
 
@@ -45,6 +75,8 @@ Fairly heavy showers of about 75 mm are likely at some places in the Western and
 ◼️
 
 [Data](articles/36cd53b7.json)
+
+[Extended Data](ext_articles/36cd53b7.ext.json)
 
 ---
 
@@ -81,6 +113,8 @@ The Department urged motorists to exercise caution at railway crossings, as sign
 ◼️
 
 [Data](articles/88cdce15.json)
+
+[Extended Data](ext_articles/88cdce15.ext.json)
 
 ---
 
@@ -127,6 +161,24 @@ In this case, a letter written in English has been found that the police committ
 [Data](articles/5804f16f.json)
 
 [Extended Data](ext_articles/5804f16f.ext.json)
+
+---
+
+### විගණනයෙන් දුන් නිර්දේශ 47ක් වසර හයක් තිස්සේ ක්‍රියාත්මක කර නෑ
+
+*2024-05-25 16:27:47* · [`adalk`](https://www.ada.lk/breaking_news/විගණනයෙන්-දුන්-නිර්දේශ-47ක්-වසර-හයක්-තිස්සේ-ක්‍රියාත්මක-කර-නෑ/11-409818) · `si`
+
+සෞඛ්‍ය අමාත්‍යාංශය මගින්  වෛද්‍ය සැපයුම් ලබා ගැනීම හා බෙදාහැරීමේ ක්‍රියාවලිය  විධිමත් කිරීම සඳහා  2018 දී ලබාදුන් විගණන නිර්දේශ 47 ක්  වසර හයකට වඩා කාලයක්  ගතවුවද තවමත් ක්‍රියාත්මක කර නැතැයි ජාතික විගණන කාර්යාලය අනාවරණය කරයි.
+
+මෙම ක්‍රියාවලිය හා   අදාලවන වෛද්‍ය සැපයුම් අංශය ,ජාතික ඖෂධ නියාමන අධිකාරිය සහ ජාතික ඖෂධ තත්ත්ව ආරක්ෂණ අධිකාරිය පිළිබඳව නොබෝදා නිකුත් කළ විශේෂ විගණන වාර්ථාව මගින් මේ බව අනාවරණය කර තිබේ.
+
+මේ අනුව 2018 දී එවකට විගණකාධිපති එච්.එම්.ගාමිනී විජේසිංහ මහතා විසින් මෙකී ආයතන සම්බන්ධයෙන් වූ  විගණනයේදී හෙලිවූ දුර්වලතා මගහැර  ප්‍රමිතියෙන් යුත්  වෛද්‍ය සැපයීම් අවම මිලකට ගෙන බෙදා හැරීම විධිමත් කිරීම සඳහා නිර්දේශ 47 ක් ඉදිරිපත් කර තිබිණි .
+
+එම නිර්දේශ කඩිනමින්  ක්‍රියාත්මක   කිරීමටත්  හා මෙතෙක් එම නිර්දේශ ක්‍රියාත්මක කිරීමට     ප්‍රමාණවත්  ක්‍රියාමාර්ග නොගත් තැනැත්තන් සම්බන්ධයෙන් සුදුසු ක්‍රියාමාර්ග ගැනීමටත්    මේ පිළිබඳව  තවත් නව නිර්දේශ 19 ක් ඉදිරිපත් කරමින් වත්මන් විගණකාධිපති ඩබ්ලිව් .පී.සී.වික්‍රමරත්න මහතා නොබෝදා  නිකුත් කළ ව්ගණන වාර්තාව මගින් නිර්දේශ කර තිබේ.
+
+◼️
+
+[Data](articles/f99180e5.json)
 
 ---
 
@@ -2259,67 +2311,5 @@ The union has urged the public to exercise patience and caution, advising them n
 [Data](articles/7b6d5d40.json)
 
 [Extended Data](ext_articles/7b6d5d40.ext.json)
-
----
-
-### 1,289 Navy deserters legally discharged during amnesty
-
-*2024-05-24 18:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/99417/1289-navy-deserters-legally-discharged-during-amnesty) · `en`
-
-Nearly 1,300 naval personnel, who were absent without obtaining leave (AWOL) have been legally discharged during the general amnesty period declared from 20th April to 20th May 2024, Sri Lanka Navy said.
-
-This general amnesty was applicable only for sailors, except all Artificers, Professional Medical and Professional Dental sailors, who have been absent without leave, to obtain official discharge, it added.
-
-Accordingly, a total of 1,289 personnel including 1,254 naval personnel who were absent without leave and an additional 35 naval personnel who are currently overseas and AWOL, were official discharged during this general amnesty period, according to Sri Lanka Navy.
-
-◼️
-
-[Data](articles/da584de7.json)
-
-[Extended Data](ext_articles/da584de7.ext.json)
-
----
-
-### 1,289 Navy deserters discharge during general amnesty
-
-*2024-05-24 18:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/99417/1289-navy-deserters-discharge-during-general-amnesty) · `en`
-
-Nearly 1,300 naval personnel, who were absent without obtaining leave (AWOL) have been legally discharged during the general amnesty period declared from 20th April to 20th May 2024, Sri Lanka Navy said.
-
-This general amnesty was applicable only for sailors, except all Artificers, Professional Medical and Professional Dental sailors, who have been absent without leave, to obtain official discharge, it added.
-
-Accordingly, a total of 1,289 personnel including 1,254 naval personnel who were absent without leave and an additional 35 naval personnel who are currently overseas and AWOL, were official discharged during this general amnesty period, according to Sri Lanka Navy.
-
-◼️
-
-[Data](articles/df68933d.json)
-
-[Extended Data](ext_articles/df68933d.ext.json)
-
----
-
-### Three injured when a tree fell on a parked car
-
-*2024-05-24 18:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/184415) · `ta`
-
-In Koswadiya, a falling tree injured three people in a parked car, including a family of three. The accident occurred on a Friday afternoon, leading to hospital admissions.
-
-🟩
-
-Three people were injured when a tree fell on a car parked in Koswadiya area.
-
-The accident took place on Friday afternoon and three persons in the car were admitted to the Marawila Primary Hospital, Puttalam District Disaster Management Unit and Disaster Relief Officers said.
-
-The tragedy that a massive tree has fallen into the car is the incident when a car traveling from Halawatha to Colombo was parked in Koswadia area.
-
-A husband, wife and seven -year -old daughter of the same family were injured in the accident.
-
-Similarly, three women on a motorcycle fell down a tree a few days ago.
-
-◼️
-
-[Data](articles/d2eff5f8.json)
-
-[Extended Data](ext_articles/d2eff5f8.ext.json)
 
 ---

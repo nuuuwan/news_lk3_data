@@ -1,36 +1,74 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-25 10:04:10**
+As of **2024-05-25 10:18:55**
 
 ## Newspaper Stats
 
-*Scraped **26,155** Articles*
+*Scraped **26,159** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 234
 dbsjeyarajcom | 261
-bbccomsinhala | 264
+bbccomsinhala | 265
 newsfirstlk | 363
 islandlk | 1,417
 economynextcom | 1,503
 dailyftlk | 1,533
-adalk | 2,230
+adalk | 2,231
 adaderanalk | 2,999
 tamilmirrorlk | 3,052
 virakesarilk | 3,992
-dailymirrorlk | 4,128
+dailymirrorlk | 4,130
 adaderanasinhalalk | 4,179
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,155 (100.0%) of 26,155 articles have been extended.
+26,155 (100.0%) of 26,159 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-25 (Saturday)
+
+### Kabosu, the face of cryptocurrency Dogecoin, dies at 18, owner says
+
+*2024-05-25 09:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Kabosu-the-face-of-cryptocurrency-Dogecoin-dies-at-18-owner-says/108-283326) · `en`
+
+WASHINGTON (Reuters) - Kabosu, the Japanese dog that became a global meme and the face of alternative cryptocurrency Dogecoin has died at 18, her owner announced in a blog post on Friday.
+
+The Japanese Shiba Inu passed away while sleeping, her owner Atsuko Sato wrote.
+
+Kabosu became recognizable as the face of Dogecoin, an alternative cryptocurrency that began as a satirical critique of the 2013 crypto frenzy.
+
+But the token jumped in value after Tesla boss Elon Musk, a proponent of cryptocurrencies, began tweeting about it in 2020. Since then the billionaire has repeatedly promoted the coin.
+
+Dogecoin added as much as $4 billion to its market value last year when the billionaire, who bought social media site Twitter in 2022, briefly replaced Twitter's blue bird logo with an image of Kabosu. Musk subsequently renamed Twitter X.
+
+With a market capitalization of around $23.6 billion, Dogecoin is now the ninth biggest cryptocurrency, according to data site Coingecko.com.
+
+...
+
+[Data](articles/f388e075.json)
+
+---
+
+### Yupun Abeykoon wins gold in men’s 100m at Anhalt Athletic Championship
+
+*2024-05-25 09:29:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Yupun-Abeykoon-wins-gold-in-mens-100m-at-Anhalt-Athletic-Championship/108-283327) · `en`
+
+Germany, May 25 (Daily Mirror) - Sri Lanka’s Yupun Abeykoon secured first place in the Men’s 100m event at the Anhalt Athletic Championship 2024 in Germany, clocking in at 10.16 seconds.
+
+Poland’s Dominik Kopeć finished second with a time of 10.21 seconds, while Omani sprinter Ali Anwar Ali Al-Balushi took bronze, finishing in 10.25 seconds.
+
+The "Anhalt 2024 - Internationales Leichtathletik Meeting," a World Athletics Continental Tour Bronze level event, was held at the Paul-Greifzu-Stadion in Dessau, Germany.
+
+◼️
+
+[Data](articles/147a0761.json)
+
+---
 
 ### Three arrested for killing Katukurunda
 
@@ -225,6 +263,32 @@ From time to time in the rest of the island.. The Department further stated that
 [Data](articles/a498fe7d.json)
 
 [Extended Data](ext_articles/a498fe7d.ext.json)
+
+---
+
+### ඉන්දුනීසියාවේ බුදු දහම ගැන ඔබ මෙම කරුණු දැන සිටියා ද?
+
+*2024-05-25 03:39:38* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cxwwnp77m87o) · `si`
+
+ථෙරවාද, මහායාන සහ වජ්‍රයාන ඇතුළු බුදු දහමේ විවිධ ඉගැන්වීම් අද මුළු මහත් ඉන්දුනීසියාව පුරා පැතිර පවතී. එය ආරම්භ වූයේ කෙසේ ද සහ 1965 ඛේදවාචකයෙන් පසු බුද දහම විවිධ සම්ප්‍රදායන්ට වෙන් වූයේ කෙසේ ද?
+
+පාසල් අවධියේ එක් දිනක මම ජකර්තා නුවර දකුණු ප්‍රදේශයේ පිහිටා ඇති මිතුරෙකුගේ නිවස වෙත ගියෙමි. මා මෙන් ම මේ මිතුරා ද චීන සම්භවයක් ඇති අයෙකි. වෙනස ඇත්තේ ඔහු කිතුණුවෙකු වීමත් මා බෞද්ධයෙකු වීමත් ය.
+
+යළි නිවස බලා යාමට අවශ්‍ය වූ පසු මා ඔහුගේ මවට සමුදුන් අතර ඇය මා නිවසේ ගේට්ටුව වෙත කැටුව ආවා ය.
+
+එහිදී ඇය මා සමග කෙටි සල්ලාපයක යෙදුණා ය: "මොන පල්ලියට ද ඔයා යන්නේ?"
+
+යළිත් වරක් ඇයට සමුදී පිටව යාමට පෙර මම ඊට "ඔව්" ලෙස පිළිතුරු දුන්නෙමි.
+
+කුමක් හෝ හේතුවක් නිසා මා එම මිතුරාගේ නිවසට ගොස් වසර 15කට වැඩි කාලයකට ගතව තිබුණ ද ඇය එදින පැවසූ "තවමත් බෞද්ධ" යන ප්‍රකාශය මා නොසන්සුන්තාවට පත් කළේ ය.
+
+ඇයගේ චේතනාව අයහපත් එකක් නොවිණි. ඇය එය පැවසුවේ සාමාන්‍ය ස්වරයකින් මිස සමච්චලයට නොවේ.
+
+කෙසේ වෙතත්, එම ප්‍රකාශයට සිහියට නැගෙන ඇතැම් අවස්ථාවලදී මම, "ඉතින් මොක ද, මම තාම බෞද්ධයෙක් වුණා ම?" යැයි මාගෙන් ප්‍රශ්න කරමි.
+
+...
+
+[Data](articles/77712f63.json)
 
 ---
 
@@ -857,6 +921,24 @@ In an article on the Politics and Education website, Pawan Singh went into the c
 [Data](articles/b34b4fc5.json)
 
 [Extended Data](ext_articles/b34b4fc5.ext.json)
+
+---
+
+### යාපනය රෝහල නුදුරේදීම ජාතික රෝහලක් බවට පත් කරනවා
+
+*2024-05-24 20:58:26* · [`adalk`](https://www.ada.lk/breaking_news/යාපනය-රෝහල-නුදුරේදීම-ජාතික-රෝහලක්-බවට-පත්-කරනවා/11-409815) · `si`
+
+උතුරු පළාත තුළ උසස් මට්ටමේ සෞඛ්‍ය සේවාවක් සහතික කිරීම වෙනුවෙන් යාපනය රෝහල නුදුරේදීම ජාතික රෝහලක් බවට පත් කිරීමට කටයුතු කරන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+
+දකුණු පළාත තුළ පැවති දීර්ඝකාලීන අවශ්‍යතාවයක් ඉටු කරමින් කරාපිටිය රෝහල ජාතික රෝහලක් බවට පත් කිරීමට අදාළ කැබිනට් අනුමැතිය හිමිවී ඇති බවද ජනාධිපතිවරයා සඳහන් කළේය.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මෙම අදහස් පළ කර සිටියේ යාපනය විශ්වවිද්‍යාලයේ වෛද්‍ය පීඨයේ ඉදිකළ සායනික පුහුණු සහ පර්යේෂණ අංශ ගොඩනැගිල්ල විවෘත කිරීමේ අවස්ථාවට අද (24) පෙරවරුවේ එක් වෙමිනි.
+
+ඉංජිනේරු පීඨ, වෛද්‍ය පීඨ, විද්‍යා පීඨ සහ කෘෂිකර්ම පීඨ ඇතුළු විද්‍යා විෂයන් මත පදනම් වූ මෙරට ඇති සියලු පීඨවල දැනට පවතින්නේ පැරණි තාක්ෂණය බවත්, මෙම තාක්ෂණය නව ලෝකයට ගැළපෙන පරිදි සකස් කළ යුතු බවටත් විශ්වවිද්‍යාල ප්‍රතිපාදන කොමිෂන් සභාවේ සභාපති ජ්‍යෙෂ්ඨ මහාචාර්ය සම්පත් අමරතුංග මහතා මෙහිදී පෙන්වා දුන්නේය.
+
+...
+
+[Data](articles/52ad0c1f.json)
 
 ---
 
@@ -2197,95 +2279,5 @@ Liability Exemptions: Bangladesh and India offer conditional liability exemption
 [Data](articles/b477102f.json)
 
 [Extended Data](ext_articles/b477102f.ext.json)
-
----
-
-### Delay in the hill station service
-
-*2024-05-24 12:33:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மலையக-ரயில்-சேவையில்-தாமதம்/76-337809) · `ta`
-
-"Railway delays due to fallen trees and rocks on tracks; postal and special trains from Badulla canceled."
-
-🟩
-
-Trees and rocks have fallen on the railway track.
-
-Due to this, the Railway Control Room said that the postal trains and special trains from Badulla to Badulla have been canceled today.. Remble
-
-◼️
-
-[Data](articles/a2ed6810.json)
-
-[Extended Data](ext_articles/a2ed6810.ext.json)
-
----
-
-### President Ranil Wickremesinghe visited Jaffna
-
-*2024-05-24 12:16:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/யாழ்ப்பாணம்-வந்தார்-ஜனாதிபதி-ரணில்-விக்ரமசிங்க/71-337808) · `ta`
-
-President Ranil Wickremesinghe embarked on a three-day visit to Jaffna, where he was greeted by Minister Douglas Devananda and former State Minister Vijayagala Maheshwaran. The President's itinerary includes opening the Jaffna University Medical Faculty building and attending a Youth Service forum at Duraiyappa Stadium.
-
-🟩
-
-President Ranil Wickremesinghe arrived in Jaffna this morning for a three -day visit to the Northern Province.
-
-Minister Douglas Devananda and former State Minister Vijayagala Maheshwaran welcomed the President who arrived at the Jaffna Central College grounds through the air.
-
-President Ranil Wickremesinghe will open the Jaffna University Medical Faculty building and attends the Youth Service forum at Duraiyappa Stadium. Remble
-
-◼️
-
-[Data](articles/7682ae2e.json)
-
-[Extended Data](ext_articles/7682ae2e.ext.json)
-
----
-
-### 6 -year -old girl death in an accident
-
-*2024-05-24 12:12:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விபத்தில்-6-வயதுச்-சிறுமி-மரணம்/175-337807) · `ta`
-
-In a tragic accident, a 6-year-old girl lost her life when a car crash occurred near Trincomalee-Batticaloa. The incident happened due to the driver falling asleep while driving from Cherunuwara to Inthirangam. The driver and his family were injured; one child passed away after being taken to Muttur Hospital. Police are investigating the case.
-
-🟩
-
-A 6 -year -old child was killed when a motor vehicle crashed in the early hours of this morning in the Trincomalee - Batticaloa rule.
-
-The accident occurred due to a driver's sleep when working on a motor vehicle from Cherunuwara to insertion.
-
-The driver's family members have been admitted to the Eichilampattu Hospital as the driver's family members have been traveling in a motor vehicle.
-
-One of the children died after being transferred to Muttur Hospital for further treatment.
-
-Eichilampattu police are conducting investigations as the body is placed in the funeral room of the Muttur hospital.. Remble
-
-◼️
-
-[Data](articles/61203e5c.json)
-
-[Extended Data](ext_articles/61203e5c.ext.json)
-
----
-
-### A warning of strong winds
-
-*2024-05-24 12:10:55* · [`adalk`](https://www.ada.lk/breaking_news/තද-සුළං-පිළිබඳ-අවවාදාත්මක-නිවේදනයක්/11-409811) · `si`
-
-Strong winds warning issued by the Department of Meteorology for the western-central hills, Northern, Western, Southern Western Provinces, and Trincomalee District due to increased southwest monsoon wind stream. Expect educational strong winds across the island, possibly leading to collapses. Valid until 10:30 am tomorrow.
-
-🟩
-
-Consultation on Strong Winds has issued an announcement by the Department of Meteorology. The announcement issued by the department is valid until 10.30am tomorrow.
-
-Accordingly, the announcement has been issued in the western-balconies of the central hills and the Northern, Western, Southern Western Province and Trincomalee District.
-
-Due to the increase in the southwest monsoon wind stream through the island, the western slopes of the central hills and northern, North-North Western Province and Trincomalee District.. Educational strong winds can occur. From time to time in other lands of the island and the life.. The statement further states that there are about collapse strong winds.
-
-◼️
-
-[Data](articles/bba51bce.json)
-
-[Extended Data](ext_articles/bba51bce.ext.json)
 
 ---

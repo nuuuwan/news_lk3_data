@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-25 13:34:03**
+As of **2024-05-25 13:53:03**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,182
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,175 (100.0%) of 26,182 articles have been extended.
+26,182 (100.0%) of 26,182 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -104,51 +104,73 @@ The vehicle, in which the deceased had come into contact with, was also damaged 
 
 ---
 
-### கிளிநொச்சி பொது வைத்தியசாலையில் பெண்களுக்கான சிறப்பு சுகாதார நிலையம் ஜனாதிபதியால் திறப்பு !
+### President opens special health center for women at Kilinochchi General Hospital
 
 *2024-05-25 12:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/184430) · `ta`
 
-கிளிநொச்சி மாவட்ட பொது வைத்தியசாலையில் 5,320 மில்லியன் ரூபா செலவில் நிர்மாணிக்கப்பட்டுள்ள பெண்களுக்கான சிறப்பு சுகாதார நிலையம் (Centre of Excellence for Women’s Healthcare) ஜனாதிபதி ரணில் விக்ரமசிங்கவினால் இன்று சனிக்கிழமை (25) திறந்து வைக்கப்பட்டது.
+President Ranil Wickremesinghe inaugurated a Rs 5,320 million Center of Excellence for Women's Healthcare at Kilinochchi General Hospital, funded by the Sri Lankan and Dutch governments to enhance national healthcare facilities.
 
-நாடளாவிய ரீதியில் சுகாதார வசதிகளை மேம்படுத்துவதற்கான திட்டத்தின் கீழ் நெதர்லாந்து அரசாங்கத்தின் உதவியுடன், அரசாங்கம் இந்தத் திட்டத்தை முன்னெடுத்துள்ளமை குறிப்பிடத்தக்கது.
+🟩
+
+The Center of Excellence for Women's Healthcare was opened by President Ranil Wickremesinghe on Saturday (25) at the Kilinochchi District General Hospital at a cost of Rs 5,320 million.
+
+It is noteworthy that the government has launched the project with the help of the Netherlands government under the plan to improve health facilities nationwide.
 
 ◼️
 
 [Data](articles/ad620475.json)
 
+[Extended Data](ext_articles/ad620475.ext.json)
+
 ---
 
-### யாழ். பல்கலைக்கழகத்தின் கோரிக்கைகள் அனைத்தும் ஜனாதிபதியின்  முழுமையான ஒத்துழைப்புடன்  நிறைவேற்றித் தருவேன் - அமைச்சர் டக்ளஸ் உறுதி!
+### Yall. All the demands of the university will be fulfilled with the full cooperation of the President - Minister Douglas confirmed!
 
 *2024-05-25 12:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/184447) · `ta`
 
-யாழ்ப்பாணம் மருத்துவ பயிற்சி மற்றும் ஆராய்ச்சித் தொகுதியினை மேலும் மேம்படுத்தும் வகையில் சுமார் 1,265 மில்லியன் ரூபா திட்டங்கள் தன்னிடம் முன்வைக்கப்பட்டுள்ளதாக  தெரிவித்துள்ள அமைச்சர் டக்ளஸ் தேவானந்தா ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் முழுமையான ஒத்துழைப்புடன் குறித்த திட்டங்களை முன்னெடுப்பதற்கு நடவடிக்கை எடுப்பேன் என்றும் உறுதிபடத் தெரிவித்துள்ளார்.
+Minister Douglas Devananda announced the fulfillment of all university demands with the President's support, highlighting a 1.265 billion rupee investment for the Jaffna Medical Training and Research Organization. This includes a newly opened Clinical Training and Research Block, costing 942 million rupees, equipped with lecture halls, exam spaces, and labs. The facility aims to enhance medical education and research, with a focus on surgical practices and professional skill improvement through global collaboration.
 
-யாழ்ப்பாணப் பல்கலைக்கழக மருத்துவ பீடத்தின் மருத்துவப்பயிற்சி மற்றும் ஆராய்ச்சிக்கான கட்டடத்தொகுதி  [Clinical Training and Research Block  - CTRB] அமைச்சர் டக்ளஸ் தேவானந்தாவின் பிரசன்னத்துடன் ஜனாதிபதி ரணில் விக்ரமசிங்கவினால் (24) திறந்து வைக்கப்பட்டது.
+🟩
 
-யாழ்ப்பாணப் பல்கலைக்கழக மருத்துவ பீடத்தின் மருத்துவப்பயிற்சி மற்றும் ஆராய்ச்சிக்கான கட்டடத்தொகுதியானது சுமார் 942 மில்லியன் ரூபா செலவில் யாழ் போதனா வைத்தியசாலைக்கு அருகில் 08 மாடிகளை கொண்டு நிர்மாணிக்கப்பட்டுள்ள  இந்த கட்டட தொகுதி 6000 சதுர மீட்டர் பரப்பில் நிர்மாணிக்கப்பட்டுள்ளது.
+Minister Douglas Devananda has said that about 1,265 million rupees has been put forward to further enhance the Jaffna Medical Training and Research Organization.
+
+The Clinical Training and Research Block - CTRB) was opened by President Ranil Wickremesinghe (24) with the presence of Minister Douglas Devananda.
+
+The building, which has been constructed with 8 floors of the Jaffna Teaching Hospital at a cost of about 942 million rupees at a cost of about 942 million rupees.
+
+This includes lectures for medical learning, examination halls, auditorium and medical development laboratories.
+
+The new building is found in the new building, including surgery rooms, rescue rooms, surgery disposal areas, disinfectant rooms, surgery preparations and medical storage rooms, staff change rooms, reception area patient waiting rooms.. The Regional Cooperation Center is also established here.
 
 ...
 
 [Data](articles/1fc998e3.json)
 
+[Extended Data](ext_articles/1fc998e3.ext.json)
+
 ---
 
-### சிற்றுண்டிக்குள் கம்பி துண்டு
+### Wire piece in the toast
 
 *2024-05-25 12:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/184445) · `ta`
 
-யாழ்ப்பாணம், மருதனார்மடம் சந்தியில் உள்ள வெதுப்பகத்தில் வாங்கிய சிற்றுண்டிக்குள் சுமார் 4 இஞ்சி அளவிலான கம்பி துண்டு ஒன்று காணப்பட்ட சம்பவம் அதிர்ச்சியை ஏற்படுத்தியிருக்கிறது.
+A shocking incident occurred when a wire was found in a snack at Vettuppakkam, Jaffna, leading to concerns about food safety. A man bought 10 snacks for 80 rupees, and upon sharing one with his young daughter, discovered the foreign object. The incident was shared on social media, prompting calls for stricter measures to prevent similar incidents.
 
-நேற்று வெள்ளிக்கிழமை மாலை உறவினர் வீட்டுக்கு கொண்டு செல்வதற்காக குறித்த வெதுப்பகத்தில் ஒருவர் 80 ரூபா விதம் 10 சிற்றுண்டி வாங்கிச் சென்றுள்ளார். உறவினர்களின் வீட்டில் குறித்த சிற்றுண்டியை உண்பதற்காக பரிமாறியபோது,  நான்கு வயது சிறுமி ஒருவருக்கு ஊட்டுவதற்காக தாய் சிற்றுண்டியை பிரித்த போதே சிற்றுண்டிக்குள் கம்பி துண்டு ஒன்று இருந்தது தெரிய வந்துள்ளது.
+🟩
 
-இது தொடர்பான புகைப்படங்களை குறித்த வெதுப்பகத்தில் சிற்றுண்டியை கொள்ளவனவு செய்த நபர் சமூக வலைத்தளங்களில் பதிவேற்றியுள்ளார்.
+The shocking incident of a 4 ginger -sized wire piece in the snack purchased at the Vettuppakkam at Marudanarmadam junction, Jaffna, has shocked.
 
-இவ்வாறான சம்பவங்கள் தொடர்பில் சுகாதார அதிகாரிகள் கடுமையான நடவடிக்கைகள் எடுக்கப்பட வேண்டும் எனவும் பொதுமக்கள் சார்பில் வலியுறுத்தப்பட்டுவருகிறது.
+On Friday evening, a relative was taken to the house of a man who bought 10 snacks for 80 rupees. When a four -year -old girl split the snack to feed a four -year -old girl, it was revealed that there was a wire in the toast.
+
+The person who has taken a snack on the issue of related photos has uploaded it on social media.
+
+The public is urging the public to take stern action on such incidents.
 
 ◼️
 
 [Data](articles/41d903ae.json)
+
+[Extended Data](ext_articles/41d903ae.ext.json)
 
 ---
 
@@ -172,29 +194,37 @@ With the help of the Government of the Netherlands under the plan to improve hea
 
 ---
 
-### டோஜ்காயின் (Dogecoin) கிரிப்டோ நாணயத்தின் உருவமான “கபோசு” நாய் உயிரிழப்பு
+### The "Kaposu" dog, the image of the crypto currency of Dogecoin
 
 *2024-05-25 11:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/184440) · `ta`
 
-இணைய மீமில் பிரலபமானதும், கிரிப்டோ நாணயத்துக்கு மாற்றீடான பிட்காயின் உருவமான ஜப்பானிய நாய் வெள்ளிக்கிழமை உயிரிழந்துள்ளது.
+Kabosu, the Shiba Inu dog featured on Dogecoin, passed away at 18. Developed in 2013 by Billy Markus and Jackson Palmer to challenge Bitcoin, Dogecoin's value surged after endorsements from Elon Musk, notably when he acquired Twitter in 2022. This led to Dogecoin reaching a market cap of $4 billion, ranking it among the top cryptocurrencies.
 
-கபோசு ( kabosu) என்றழைக்கப்படும் இந்த நாய் 18 ஆவது வயதில் தூங்கும் போது இறந்துள்ளதாக அதன் உரிமையாளர் அட்சுகோ சாடோ தெரிவுத்துள்ளார்.
+🟩
 
-பிட்காயின் உள்ளிட்ட கிரிப்டோ நாணய மோகத்தை பகிடி செய்வதற்காக டோஜ்காயின் (Dogecoin) கிரிப்டோ நாணயம் உருவாக்கப்பட்டது.
+The Japanese dog, the image of Bitcoin, who was replaced by the crypto coin, died on Friday.
 
-2013- ஆம் ஆண்டில் மென்பொருள் பொறியியலாளர்களான பில்லி மார்கஸ் மற்றும் ஜேக்சன் பால்மரால் ஆகியோரால் பிட்காயினுக்கு போட்டியாக டோஜ்காயின் உருவாக்கப்பட்டது.
+The dog, known as Kabosu, died while sleeping at the age of 18, and its owner Aksuko Sado has chosen.
 
-பெயரில் துவங்கி, செயல்பாடு வரை எல்லாவற்றிலும் டோஜ்காயின் கிரிப்டோ நாணயங்களின் பகிடி நாணயமாக இருந்தது.
+Dogecoin Crypto coin was developed for sharing crypto currency, including bitcoin.
 
-இதற்காக இணைய மீமில் பிரலபமான ஜப்பானிய நாயின் பெயரையும், உருவத்தையும் தேர்வு செய்தனர்.
+In 2013, Dojgai was created to compete with Bitcoin by software engineers Billy Marcus and Jackson Balmer.
 
-2020 ஆம் ஆண்டு கிரிப்டோ நாணயங்களின் ஆதரவாளரான டெஸ்லா கார் நிறுவன தலைவர் எலோன் மஸ்க்  டோஜ்காயின் பற்றி  டுவிட்டரில் (தற்போது எக்ஸ் தளம்) பதிவொன்றை இட்டத்தன் பின்னர் அதன் மதிப்பு அதிகரித்தது.
+Beginning with the name and functioning was the sharing currency of Dojgai's crypto coins.
 
-அதன் பின்னரும் எலோன் மஸ்க் டோஜ்காயின் கிரிப்டோ நாணயத்தை மீண்டும் மீண்டும் விளம்பரப்படுத்தினார்.
+For this purpose, they chose the name and image of the Japanese dog in the internet.
+
+In 2020, Tesla Car Chairman Elon Mask Togeta, a supporter of Crypto Coins, has increased its value on Twitter (currently X site).
+
+After that, Elon Musk repeatedly promoted the Crypto coin.
+
+That is, in 2022, Elon Mask bought the social media site Twitter and posted the image of Kaposu's image.. Due to this, the value of the Crypto currency of Dojgai last year increased to $ 4 billion.
 
 ...
 
 [Data](articles/c67c1161.json)
+
+[Extended Data](ext_articles/c67c1161.ext.json)
 
 ---
 
@@ -220,25 +250,35 @@ The Sri Lankan high commissioner assured all possible cooperation in this regard
 
 ---
 
-### மன்னார் பேசாலையில் வாள் வெட்டு ; ஒருவர் வைத்தியசாலையில் சிகிச்சை
+### Cut the sword in Mannar Basal;Treatment at the hospital
 
 *2024-05-25 11:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/184442) · `ta`
 
-மன்னார் - பேசாலை பொலிஸ் பிரிவிற்கு உட்பட்ட  முருகன் கோவிலடி 7ஆம் வட்டார பகுதியில் இடம் பெற்ற வாள் வெட்டுச் சம்பவத்தில்  குடும்பஸ்தர் ஒருவர் பலத்த காயங்களுடன் யாழ்ப்பாணம் மாவட்ட வைத்தியசாலையில் அனுமதிக்கப்பட்டு சிகிச்சை பெற்று வருகின்றார்.
+A man was seriously injured in a sword attack in the 7th region of Murugan Kovilladi, Mannar-Basalai, on Wednesday night. The 38-year-old father of three was taken to Jaffna District Hospital. His family filed a complaint at the local police station but no arrests were made. Over 15 individuals arrived armed with swords and iron rods. Authorities are urged to intervene and prevent similar incidents.
 
-இந்த சம்பவமானது கடந்த 22 ஆம் திகதி புதன்கிழமை இரவு 9 மணியளவில் இடம் பெற்றுள்ளது.
+🟩
 
-வாள்வெட்டு சம்பவத்தில் காயமடைந்தவர் அதே ஊரைச் சேர்ந்த 38 வயதுடைய மூன்று பிள்ளைகளின் தந்தை என தெரிய வருகிறது.
+A family member has been admitted to the Jaffna District Hospital with serious injuries during the sword cutting incident in the 7th region of the Murugan Kovilladi area, which belongs to the Mannar -Basalai police division.
 
-சம்பவம் தொடர்பில் பாதிக்கப்பட்ட குடும்பத்தினர்  கடந்த  23 ஆம் திகதி பேசாலை பொலிஸ் நிலையத்தில் முறைப்பாடு செய்துள்ளனர்.
+The incident took place at 9 pm on Wednesday 22nd.
 
-எனினும், வாள் வெட்டு சம்பவத்துடன் தொடர்புடைய எவரும் கைது செய்யப்படவில்லை என பாதிக்கப்பட்ட தரப்பினர் தெரிவித்தனர்.
+It is reported that the victim was the father of three children aged 38 in the same town.
 
-மேலும்,  அன்றையதினம் வாள் கத்தி இரும்பு கம்பிகளுடன் 15க்கும் மேற்பட்ட நபர்கள் வந்ததாகவும் வந்தவர்கள் கடும் போதையில் இருந்ததாகவும்  தெரிவிக்கப்பட்டது.
+The victim's family has lodged a complaint at the Basal police station on the 23rd.
 
-...
+However, the victims said that no one involved in the sword cutting incident has been arrested.
+
+In addition, it was reported that more than 15 persons came with the sword knife iron rods that day and the arrival of the arrival.
+
+In addition, the police have demanded that they take appropriate action and restrict them to the people involved in such fighting conflicts.
+
+It is noteworthy that the area has signed the sword and brought to the notice of the relevant authorities.
+
+◼️
 
 [Data](articles/72d9024d.json)
+
+[Extended Data](ext_articles/72d9024d.ext.json)
 
 ---
 
@@ -368,23 +408,29 @@ Daily Mirror learns that there is a sinister move involving some customs officia
 
 ---
 
-### தேசிய மருந்துகள் ஒழுங்குப்படுத்தல் அதிகாரசபையின் பணிப்பாளர் சபைக்கு புதிய உறுப்பினர்கள் 3 பேர் நியமனம்
+### 3 new members appointed to the Board of Directors of the National Drug Regulatory Authority
 
 *2024-05-25 10:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/184427) · `ta`
 
-தேசிய மருந்துகள் ஒழுங்குப்படுத்தல் அதிகாரசபையின் பணிப்பாளர் சபைக்கு புதிய உறுப்பினர்கள் 3 பேரை  சுகாதார அமைச்சர் ரமெஷ் பத்திரண  நியமித்துள்ளார்.
+Health Minister Ramesh Pathirana has appointed three new members to the National Drug Regulatory Authority's Board of Directors: Chartered Accountant Sujeewa Mullai, President's Attorney General Susantha Kahawatta Palitha Kumarasinghe, and a senior officer from the Sri Lanka Administration Service. These appointments follow the resignations of three previous members, including Subul Wijesinghe, Manoj Kamage, and Priyantha Serasinghe.
 
-2015 ஆம் ஆண்டு தேசிய மருந்துகள் ஒழுங்குப்படுத்தல் அதிகாரசபை சட்டத்திற்கமைய சட்டம், கணக்கியல், முகாமைத்துவம் மற்றும் சுகாதாரம் ஆகிய துறைகளில் இருந்து பணிப்பாளர் சபைக்கு சிறந்த நிபுணர்களை பரிந்துரைக்கவும் நியமிக்கவும் அமைச்சருக்கு அதிகாரம் உண்டு.
+🟩
 
-அதன்படி, பட்டய கணக்காளர் சுஜீவ முதலிகே,  ஜனாதிபதி சட்டத்தரணி மற்றும் இலங்கை நிர்வாக சேவையின் தரம் 1 இன் சிரேஷ்ட அதிகாரி சுசந்த கஹவத்த பாலித குமாரசிங்க ஆகியோர் பணிப்பாளர் சபை உறுப்பினர்களாக நியமிக்கப்பட்டுள்ளார்கள்.
+Health Minister Ramesh Pathirana has appointed three new members to the Board of Directors of the National Drug Regulatory Authority.
 
-முன்னாள் சுகாதார அமைச்சர்  கெஹலிய ரம்புக்வெல்லவினால் நியமிக்கப்பட்ட மூன்று நிர்வாக சபை உறுப்பினர்கள் இராஜினாமா செய்ததைத் அடுத்து இந்த நியமனங்கள் வழங்கப்பட்டுள்ளன.
+The Minister has the authority to recommend and appoint the Board of Directors from the Department of Law, Accounting, Management and Health in accordance with the National Drug Regulation Authority Act of 2015.
 
-கணக்கியல் துறையைச் சேர்ந்த சுபுல் விஜேசிங்க, சட்டத் துறையைச் சேர்ந்த சட்டத்தரணி மனோஜ் கமகே மற்றும் நிர்வாகத் துறையைச் சேர்ந்த கட்டிடக் கலைஞர் பிரியந்த சேரசிங்க ஆகியோர் இராஜினாமா செய்துள்ளனர்.
+Accordingly, Chartered Accountant Sujeewa Mullai, President's Attorney General and Senior Officer of the Sri Lanka Administration Service Susantha Kahawatta Palitha Kumarasinghe have been appointed as members of the Board of Directors.
+
+These appointments have been made following the resignation of three executive council members appointed by former Health Minister Keheliya Rambukwella.
+
+Subul Wijesinghe of the Accounting Department, Attorney -at -Law Manoj Kamage and Priyantha Serasinghe from the Administrative Department have resigned.
 
 ◼️
 
 [Data](articles/18520756.json)
+
+[Extended Data](ext_articles/18520756.ext.json)
 
 ---
 
@@ -406,23 +452,31 @@ It has been funded by the Government of Netherlands, according to the PMD.
 
 ---
 
-### சர்வதேச நீதிமன்றத்தின் தீர்ப்பை இஸ்ரேல் ஏற்றுக்கொள்ளும் என்பதற்கான எந்த அறிகுறியும் இல்லை – பிபிசி
+### There is no indication that Israel will accept the ruling of the International Court of Justice - the BBC
 
 *2024-05-25 10:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/184433) · `ta`
 
-சர்வதேச நீதிமன்றம் ரபா மீதான தாக்குதலை இஸ்ரேல் உடனடியாக நிறுத்தவேண்டும் என உத்தரவிட்டுள்ள போதிலும் இஸ்ரேல் அதனை ஏற்றுக்கொள்ளும் என்பதற்கான அறிகுறிகள் தென்படவில்லை என பிபிசி செய்தி வெளியிட்டுள்ளது.
+Israel shows no sign of accepting the International Court of Justice's order to halt attacks on Rafa, despite criticism from friends of PM Netanyahu and fears of safety for former spokesperson Nabil Salem. The BBC reports ongoing military action amidst international legal scrutiny.
 
-தனது இராணுவநடவடிக்கையை நிறுத்தவேண்டும் என சர்வதேசநீதிமன்றம் உத்தரவிடக்கூடாது என இஸ்ரேல் எதிர்பார்த்தது ஹமாசினை தோற்கடிப்பதற்கு இராணுவநடவடிக்கை அவசியம் என இஸ்ரேல் கருதுகின்றது என பிபிசி தெரிவித்துள்ளது.
+🟩
 
-எனினும் சர்வதேச நீதிமன்றத்தின் தீர்ப்பினை ஏற்று இஸ்ரேல் தனது பாதையை மாற்றும் என்பதற்கான அறிகுறிகள் இல்லை என பிபிசி தெரிவித்துள்ளது.
+The BBC has reported that there are no signs that Israel will accept it, but the International Court of Justice has ordered the immediate stopping of the attack on Rafa.
 
-சர்வதேச நீதிமன்றத்தின் தீர்ப்பு குறித்து பிரதமர் பெஞ்சமின் நெட்டன்யாகுவின் நண்பர்கள் கடும் சீற்றம் வெளியிட்டுள்ளனர்.சர்வதேசநீதிமன்றம் யூதஎதிர்ப்பு மனோபாவத்தை வெளிப்படுத்துகின்றது ஹமாசிற்கு ஆதரவாக செயற்படுகின்றது என அவர்கள் குற்றம்சாட்டியுள்ளனர்.
+The BBC has said that Israel's expectation that the International Court of Justice should not order its military action is necessary for military action to defeat Hamasin.
 
-சர்வதேச நீதிமன்ற நீதிபதிகளில் ஒருவரான நவாப்சலாம் லெபனானை சேர்ந்தவர் இஸ்ரேலிற்கு சார்பாக தீர்ப்பை வழங்கினால் அவரால் அவரது நாட்டிற்கு பாதுகாப்பாக செல்ல முடியாது  இஸ்ரேலின் முன்னாள் அரசாங்க பேச்சாளர் தெரிவித்துள்ளார்.
+However, there are no indications that Israel will change its path by accepting the ruling of the International Court of Justice.
+
+Friends of Prime Minister Benjamin Netanyaku have expressed furious over the ruling of the International Court of Justice.
+
+Former Israeli government spokesman said that if one of the International Court of Justice, Nawabsalam Lebanon, ruled on behalf of Israel, he would not be able to safely go to his country.
+
+The BBC said the Israeli tanks were continuing to improve within Rafa as the International Court of Justice was issued.
 
 ...
 
 [Data](articles/aa5c5a8d.json)
+
+[Extended Data](ext_articles/aa5c5a8d.ext.json)
 
 ---
 

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-26 00:04:20**
+As of **2024-05-26 00:18:23**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,201
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,242 (100.0%) of 26,243 articles have been extended.
+26,243 (100.0%) of 26,243 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,8 @@ Ada Derana reporter said that the elephant was later seen marching down the stre
 ◼️
 
 [Data](articles/5353e87a.json)
+
+[Extended Data](ext_articles/5353e87a.ext.json)
 
 ---
 

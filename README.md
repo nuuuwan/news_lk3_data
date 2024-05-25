@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-25 21:52:57**
+As of **2024-05-25 22:05:48**
 
 ## Newspaper Stats
 
-*Scraped **26,230** Articles*
+*Scraped **26,231** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ adaderanalk | 3,011
 tamilmirrorlk | 3,060
 virakesarilk | 4,005
 dailymirrorlk | 4,145
-adaderanasinhalalk | 4,198
+adaderanasinhalalk | 4,199
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,230 (100.0%) of 26,230 articles have been extended.
+26,230 (100.0%) of 26,231 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-25 (Saturday)
+
+### පාසල් ගොඩනැගිල්ලක් මතට විශාල ගසක් කඩා වැටෙයි
+
+*2024-05-25 21:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197008) · `si`
+
+පවතින අධික වර්ෂාවෙන් වැඩිම බලපෑම් එල්ලවූ පුත්තලම දිස්ත්‍රික්කයේ, හලාවත ආනන්ද ජාතික පාසලේ ගොඩනැගිල්ලක් මතට විශාල ගසක් කඩාවැටී තිබේ.
+
+මේ අතර පවතින අයහපත් කාලගුණ තත්ත්වය හේතුවෙන් මේ වනවිට පවුල් 11,765කට අයත් පුද්ගලයින්  44,398 දෙනෙකු පීඩාවට පත්වී සිටී.
+
+ආපදා කළමණාකරණ මධ්‍යස්ථානය පැවසුවේ, ආපදාවට ලක්වූවන් සඳහා කඩිනමින් සහන සලසන බවය.
+
+◼️
+
+[Data](articles/df01bbbe.json)
+
+---
 
 ### New information about Isis terrorists
 
@@ -2309,35 +2325,5 @@ At the same time, I am surprised to say that there is no need to hold a parliame
 [Data](articles/83a20034.json)
 
 [Extended Data](ext_articles/83a20034.ext.json)
-
----
-
-### Special notice to Maldives in Sri Lanka
-
-*2024-05-24 22:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196982) · `si`
-
-Maldives issues a statement about changes in Sri Lanka's tourism visa policy, allowing Maldivian citizens to get a free 30-day visa upon arrival. For stays longer than 30 days, they must apply online via https://www.srilankaevisa.lk/. The Maldives High Commission in Colombo has been reached out to for further inquiries. The Maldives is in discussions with Sri Lanka to implement a new electronic visa system, advising potential visitors to contact the Ministry for any necessary assistance.
-
-🟩
-
-The Maldives has issued a statement regarding the changes in the tourism visa in Sri Lanka.
-
-They have stated that according to the current procedure, the Maldivian people can receive a 30-day tourist visa for free after arriving in the Maldives.
-
-For more than 30 days, Maldivian nationals can visit https://www.srilankaevisa.lk/.
-
-Otherwise, it is said that the Maldivian High Commission in Sri Lanka has already been contacted to the Maldives High Commission in Colombo.
-
-They say that the recent changes in Sri Lanka is looking forward to an explanation of recent changes.
-
-The statement states that the Maldives is being discussed with representatives of Sri Lanka to ensure a new electronic visa system in Sri Lanka.
-
-The Maldivesians who are expected to come to Sri Lanka have been asked that they can contact the Ministry if necessary.
-
-◼️
-
-[Data](articles/07d3d7c2.json)
-
-[Extended Data](ext_articles/07d3d7c2.ext.json)
 
 ---

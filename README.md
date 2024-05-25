@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-25 20:18:32**
+As of **2024-05-25 20:33:59**
 
 ## Newspaper Stats
 
@@ -26,31 +26,37 @@ adaderanasinhalalk | 4,197
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,226 (100.0%) of 26,227 articles have been extended.
+26,227 (100.0%) of 26,227 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-25 (Saturday)
 
-### සුලාර ධනුක ශ්‍රී ලංකාවට රන් පදක්කම් 3ක් දිනා දෙයි
+### Sladuka win 3 gold medals
 
 *2024-05-25 20:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197006) · `si`
 
-ශ්‍රී ලංකාවේ ඒ. වී සුලාර ධනුක මාලිංග ICN New Zealand ජාතික ශූරතාවලිය සඳහා තේරී පත්වී තිබේ.
+Paddy Sulusena Malinga won 3 gold and a silver medal at the ICN New Zealand National Championship, coached by Johan Seth. He's an alumnus of Deniyaya Central and Gamaleya Richmond Colleges, now an electrical engineer in New Zealand.
 
-ඔහු එලෙස තේරී පත්වී ඇත්තේ, ICN New Zealand Natural Body Building Fedaration විසින් සංවිධානය කරන ලද කායවර්ධන තරගයකට සහභාගී වෙමිනි.
+🟩
 
-2024 මැයි 19 වනදා නවසීලන්තයේ ටවුපෝ නගරයේදී මෙම තරගය පවත්වා තිබුණි.
+A. of Sri Lanka. Paddy Sulance Malinga has been elected for the ICN New Zealand National Championship.
 
-ධනුක මාලිංග එම තරගයේදී රන් පදක්කම් 03ක් සහ රිදී පදක්කමක් ලබා ගැනීමට සමත්විය.
+He was elected to the ICN New ZEALAND BOILING BOILING BOILDING FEDARATION.
 
-මෙම තරගය සඳහා සුලාර ධනුක මාලිංග ශ්‍රී ලංකාවේ පුහුණුකරුවෙකු වන යොහාන් සෙත් නමැති පුහුණුකරු යටතේ පුහුණුවීම් ලබා තිබුණි.
+On May 19, 2024, the match was held in Tupo, New Zealand.
 
-සුලාර ධනුක මාලිංග දෙනියාය මධ්‍ය විද්‍යාලයේ සහ ගල්ල රිච්මන්ඩ් විද්‍යාලයේ ආදි සිසුවෙකු වන අතර ඔහු දැනට වෘත්තියෙන් විදුලි ඉංජිනේරුවරයකු වශයෙන් නවසීලන්තයේ සේවය කරයි.
+Dhanuka Malinga recovered three gold medals and a silver medal in the match.
+
+The match was trained under the coach of Johan Seth, a trainer in Sri Lanka.
+
+Sladaraka Malinga Malinga is an alumni of Deniyaya Central College and Gamala Richmond College, which is currently an electrical engineer in New Zealand.
 
 ◼️
 
 [Data](articles/c840c93d.json)
+
+[Extended Data](ext_articles/c840c93d.ext.json)
 
 ---
 
@@ -416,6 +422,24 @@ The gap between vehicles have been informed to keep 50 meters and not exceeded t
 
 ---
 
+### President presented 1286 free land guarantees in Kilinochchi
+
+*2024-05-25 17:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/184460) · `ta`
+
+President Ranil Wickremesinghe launched the "Urumaya" program, issuing 1,700 free land guarantees in Kilinochchi, including 1286 under his leadership.
+
+🟩
+
+Under the "Urumaya" program, President Ranil Wickremesinghe has issued 1,700 free land guarantees of the Kilinochchi District.
+
+◼️
+
+[Data](articles/263eb50e.json)
+
+[Extended Data](ext_articles/263eb50e.ext.json)
+
+---
+
 ### One lane in Panadura closes
 
 *2024-05-25 17:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197001) · `si`
@@ -453,24 +477,6 @@ Fairly heavy showers of about 75 mm are likely at some places in the Western and
 [Data](articles/36cd53b7.json)
 
 [Extended Data](ext_articles/36cd53b7.ext.json)
-
----
-
-### President presented 1286 free land guarantees in Kilinochchi
-
-*2024-05-25 17:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/184460) · `ta`
-
-President Ranil Wickremesinghe launched the "Urumaya" program, issuing 1,700 free land guarantees in Kilinochchi, including 1286 under his leadership.
-
-🟩
-
-Under the "Urumaya" program, President Ranil Wickremesinghe has issued 1,700 free land guarantees of the Kilinochchi District.
-
-◼️
-
-[Data](articles/263eb50e.json)
-
-[Extended Data](ext_articles/263eb50e.ext.json)
 
 ---
 

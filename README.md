@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-25 20:33:59**
+As of **2024-05-25 20:52:03**
 
 ## Newspaper Stats
 
-*Scraped **26,227** Articles*
+*Scraped **26,228** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,38 @@ adalk | 2,234
 adaderanalk | 3,011
 tamilmirrorlk | 3,059
 virakesarilk | 4,005
-dailymirrorlk | 4,144
+dailymirrorlk | 4,145
 adaderanasinhalalk | 4,197
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,227 (100.0%) of 26,227 articles have been extended.
+26,227 (100.0%) of 26,228 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-25 (Saturday)
+
+### Possible landslide risk issued for seven districts
+
+*2024-05-25 20:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Possible-landslide-risk-issued-for-seven-districts/108-283352) · `en`
+
+Colombo, May 25 (Daily Mirror) - The National Building Research Organisation (NBRO) today issued a potential landslide warning for seven districts.
+
+Accordingly, the Padukka, Seethawaka Divisional Secretariat Divisions (DSD) and surrounding areas in the Colombo District have been issued with possible landslide warnings.
+
+The Attanagalla DSD and surrounding areas in the Gampaha District have also been issued with possible landslide risk warnings.
+
+The Dodangoda, Walallawita, Agalawatta, Palindanuwara, Horana, Ingiriya, Bulathsinhala and Mathugama DSD and surrounding areas in the Kalutara District were alerted with a landslide risk warning.
+
+Udapalatha, Udunuwara, Ganga Ihala Korale, Yatinuwara, Ududumbara, Pasbage Korale, Kandy Four Gravets or Gangawata Korale DSD and surrounding areas in the Kandy district have also been issued with a landslide risk warning.
+
+...
+
+[Data](articles/b6439e73.json)
+
+---
 
 ### Sladuka win 3 gold medals
 
@@ -2305,23 +2325,5 @@ The Department of Meteorology announces notification of random climate. So it is
 [Data](articles/9150de22.json)
 
 [Extended Data](ext_articles/9150de22.ext.json)
-
----
-
-### SLC denies corruption allegations involving its officials in LPL
-
-*2024-05-24 21:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SLC-denies-corruption-allegations-involving-its-officials-in-LPL/108-283315) · `en`
-
-Colombo, May 24 (Daily Mirror) - Sri Lanka Cricket (SLC) has strongly denied the allegations by Member of Parliament Hesha Withanage during a media briefing today, accusing the SLC President, the Tournament Director of the Lanka Premier League (LPL) and other SLC officials of involvement in match-fixing and corrupt conduct related to the LPL.
-
-As the governing body for cricket in Sri Lanka and the organizing authority for the LPL since its inception in 2020, SLC emphasized its commitment to maintaining the integrity of the sport.
-
-To this end, SLC has enlisted the International Cricket Council's Anti-Corruption Unit (ICC-ACU) to oversee anti-corruption measures for the LPL tournament. ICC-ACU officials attended and monitored the recent LPL player auction as part of their ongoing support, SLC said.
-
-...
-
-[Data](articles/c526b4b8.json)
-
-[Extended Data](ext_articles/c526b4b8.ext.json)
 
 ---

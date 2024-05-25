@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-25 20:52:03**
+As of **2024-05-25 21:03:35**
 
 ## Newspaper Stats
 
-*Scraped **26,228** Articles*
+*Scraped **26,229** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,504
 dailyftlk | 1,533
 adalk | 2,234
 adaderanalk | 3,011
-tamilmirrorlk | 3,059
+tamilmirrorlk | 3,060
 virakesarilk | 4,005
 dailymirrorlk | 4,145
 adaderanasinhalalk | 4,197
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,197
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,227 (100.0%) of 26,228 articles have been extended.
+26,228 (100.0%) of 26,229 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,28 @@ Udapalatha, Udunuwara, Ganga Ihala Korale, Yatinuwara, Ududumbara, Pasbage Koral
 ...
 
 [Data](articles/b6439e73.json)
+
+[Extended Data](ext_articles/b6439e73.ext.json)
+
+---
+
+### தமிழ் மக்களுக்கு நாமல் கூறும் செய்தி
+
+*2024-05-25 20:24:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/தமிழ்-மக்களுக்கு-நாமல்-கூறும்-செய்தி/73-337836) · `ta`
+
+எதிர்வரும் தேர்தல்களில் தமிழ், முஸ்லிம் மக்களின் வாக்குகள் கொள்ளையடிக்கப்படாதவாறு அறிவுபூர்வமான தீர்மானத்தினை மேற்கொள்ள வேண்டுமென பாராளுமன்ற உறுப்பினர் நாமல் ராஜபக்ஸ தெரிவித்தார்.
+
+கட்சி உறுப்பினர்களுக்கு இடையில் இன்று (25) மட்டக்களப்பிலுள்ள தனியார் விடுதியொன்றில் நடைபெற்ற கலந்துரையாடலில் இதனை குறிப்பிட்டார்.
+
+இதன்போது, அனைத்து ஜனாதிபதித் தேர்தலின் போதும் தமிழ் மக்களின் வாக்குகள் கொள்ளையடிக்கப்படுவதாகக் குறிப்பிட்ட நாமல் ராஜபக்ஸ, இம்முறை அவ்வாறு நடக்காமல், அறிவுப்பூர்வமான தீர்மானத்தை தமிழ் மக்கள் மேற்கொள்ள வேண்டும் என குறிப்பிட்டார்.
+
+தமிழ் மக்களின் வாக்குகள் தமக்கு கிடைத்தாலும் கிடைக்காவிட்டாலும் அவர்களுக்காக பணியாற்ற தாம் தயாராக இருப்பதாக நாமல் ராஜபக்ஸ தெரிவித்தார்.
+
+தமிழ் மக்களின் வாக்குகள் கிடைக்கப்பெறாத மஹிந்த ராஜபக்ஸ தான் தமிழர்களுக்காக தொடர்ந்தும் பணியாற்றியதாக அவர் மேலும் தெரிவித்தார்.  R
+
+◼️
+
+[Data](articles/a4bdc9c1.json)
 
 ---
 
@@ -2303,27 +2325,5 @@ The people in the respective areas of this situation are noticed to the people o
 [Data](articles/7a146f01.json)
 
 [Extended Data](ext_articles/7a146f01.ext.json)
-
----
-
-### Notify 117 fast digits if there is a risk of falling trees - Ministry of Disaster Management
-
-*2024-05-24 22:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/184421) · `ta`
-
-In case of disaster risks or falling trees, contact the Disaster Management Center's quick number 117. The Minister highlighted the importance of heeding meteorological department warnings to prevent weather-related disasters. There's a growing concern about tree falls but no specific warning system exists yet. The responsibility lies with the Building Research Institute to develop one, involving industry experts and aligning with national policies. Illegal constructions without permits contribute significantly to flooding issues. It's crucial for local governments to address these problems promptly to facilitate relief efforts effectively.
-
-🟩
-
-Disaster Management and Defense Minister of State for Disaster Management and Defense, Bandara Tennakoon, said that if there is a risk of disaster in the country or the risk of breaking the tree, it has been informed of the speedy digit of the Disaster Management Center 117.
-
-He was speaking at a special press conference held at the Ministry of Disaster Management on Friday the 24th.
-
-The Department of Meteorology announces notification of random climate. So it is the duty of the Atmospheric Department to act according to the announcements. So we urge the people of the country to pay attention to the announcements of the Department of Meteorology to protect the disasters caused by inclement weather.
-
-...
-
-[Data](articles/9150de22.json)
-
-[Extended Data](ext_articles/9150de22.ext.json)
 
 ---

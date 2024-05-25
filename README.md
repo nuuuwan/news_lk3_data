@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-25 08:33:52**
+As of **2024-05-25 08:53:26**
 
 ## Newspaper Stats
 
-*Scraped **26,152** Articles*
+*Scraped **26,153** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,503
 dailyftlk | 1,533
 adalk | 2,230
 adaderanalk | 2,998
-tamilmirrorlk | 3,051
+tamilmirrorlk | 3,052
 virakesarilk | 3,992
 dailymirrorlk | 4,128
 adaderanasinhalalk | 4,178
@@ -26,27 +26,33 @@ adaderanasinhalalk | 4,178
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,147 (100.0%) of 26,152 articles have been extended.
+26,152 (100.0%) of 26,153 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-25 (Saturday)
 
-### තරුණයින් දෙදෙනෙක් අබිරහස් ලෙස මරුට
+### Two youth dies in myself
 
 *2024-05-25 08:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196985) · `si`
 
-සැකකටයුතු ‍ලෙස මියගිය පුද්ගලයින් දෙදෙනෙකුගේ සිරුරු දෙකක් දොම්පේ මල්වාන මායිවල ප්‍රදේශයේ කුඹුරක තිබී හමුව තිබේ.
+In Dompe Malwana, two unidentified bodies were discovered in a paddy field. The victims, from Ramboda, were reported missing after staying at a lodge for two days without returning. Police received complaints at 119 and 118 centers.
 
-මෙලෙස මියගොස් ඇත්තේ අවුරුදු 18 හා 29 වයස්වල පසු වූ නාවලතැන්නවත්ත, රම්බොඩ ප්‍රදේශයේ පදිංචිකරුවන් බවට හඳුනාගෙන ඇත.
+🟩
 
-පොලීසිය පැවසුවේ දොම්පේ මල්වාන මායිවල ප්‍රදේශයේ කුඹුරක සිරුරු දෙකක් පාවෙමින් තිබෙන බවට 119 හා 118 යන මධ්‍යස්ථානවලට ලද පැමිණිලි මත විමර්ශන ආරම්භ කළ බවය.
+Two bodies of two bodies of two suspects were found in a paddy field in Domma Malwana Males.
 
-මෙම දෙදෙනා පසුගිය 22 වනදා ඔවුන්ගේ නවාතැන්පොළින් පිටව ගොස් නැවතත් නොපැමිණීම හේතුවෙන් එම නවාතැන්පොළේ සිටි පුද්ගලයෙකු විසින් ඒ සම්බන්ධයෙන් පොලීසියට පැමිණිල්ලක් ද ඉදිරිපත් කර තිබේ.
+The deceased has been identified as the residents of Ramboda, Ramboda, the deceased.
+
+Police said that the complaints were initiated on the centers at 119 and 118 of the centers in a paddy field in Dompe Malwana Males.
+
+A person in the lodge had lodged a complaint with the police regarding the two days of his stay in the past 22 and not returning.
 
 ◼️
 
 [Data](articles/936b7812.json)
+
+[Extended Data](ext_articles/936b7812.ext.json)
 
 ---
 
@@ -72,41 +78,55 @@ Fairly strong winds about 30-40 kmph can be expected at times elsewhere of the i
 
 [Data](articles/ce083b2c.json)
 
+[Extended Data](ext_articles/ce083b2c.ext.json)
+
 ---
 
-### சிவனொளிபாதமலை பருவகால யாத்திரை நிறைவு
+### Sivanolipadamalai seasonal pilgrimage is completed
 
 *2024-05-25 08:00:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிவனொளிபாதமலை-பருவகால-யாத்திரை-நிறைவு/175-337825) · `ta`
 
-சிவனொளிபாதமலை உச்சியில் மக்கள் தரிசனத்துக்காக வைக்கப்பட்டிருந்த சமன் தெய்வத்தையும் மற்றும் பூஜைப் பொருட்களையும் புனித விக்கிரங்கள் அனைத்தும் 24.05.2024 நேற்று நல்லதண்ணியில் இருக்கும் விகாரைக்கு கொண்டு வரப்பட்டது.
+The annual pilgrimage to Sivanolipadamalai concluded successfully, with holy idols and offerings moved to its Vihara atop the hill. Today, at 8 AM, these items will be transferred to the Rajamaha Vihara in Ratnapura. The Norton Laxapana will also be relocated through various locations en route. Notably, the Pooja will be conducted on the full moon day in December, dedicated to the worship of Sivanolipadamalai.
 
-மேற்படி சமன் தெய்வம் மற்றும் பூஜைப் பொருட்கள் புனித விக்கிரங்களை 25.05.2024 இன்று காலை 8 மணியளவில் இரத்தினபுரி பெல்மதுளை ரஜமகா விகாரைக்கு வாகன தொடரணியாக எடுத்து செல்லப்படும்.
+🟩
 
-நோட்டன் லக்ஸபான வழியாக கிதுல்கலை, கரவனல்ல, தெகியோவிட்ட, யட்டியாந்தோட்டை, அவிசாவளை, இரத்தினபுரி ரஜமாக விகாரைக்கு கொண்டு செல்லப்படும்.
+All the holy idols and pooja items were brought to the Vihara, which was placed on the top of the Sivanolipadamalai.
 
-அங்கு பூஜைக்காக வைக்கப்பட்டு எதிர்வரும் டிசம்பர் மாதம் பௌர்ணமி தினத்தில் வழிபாட்டிற்காக சிவனொளிபாதமலைக்கு மீண்டும் கொண்டு வரப்படவுள்ளமை குறிப்பிடத்தக்கது. R
+The equivalent deity and pooja items will be taken to the Rajamaka Vihara to the Rajamaha Vihara, Ratnapura at 8 am today at 8 am.
+
+The Norton Laxapana will be transported to the Vihara as Kithulkalai, Karavanalla, Tekiyovita, Yatiyantota, Avissawella, Ratnapura Raja.
+
+It is noteworthy that the Pooja will be placed on the full moon day for the worship of Sivanolipadamalai on the full moon day in December.. Remble
 
 ◼️
 
 [Data](articles/eb287ccd.json)
 
+[Extended Data](ext_articles/eb287ccd.ext.json)
+
 ---
 
-### இலங்கையின் பல பகுதிகளில் மின்தடை
+### Resistor
 
 *2024-05-25 07:52:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையின்-பல-பகுதிகளில்-மின்தடை/175-337824) · `ta`
 
-சீரற்ற காலநிலையினால் இலங்கையில் 431, 500 பேர் மின் தடை காரணமாகப் பாதிக்கப்பட்டுள்ளதாக இலங்கை மின்சார சபை பொறியியலாளர் சங்கம் தெரிவித்துள்ளது.
+In Sri Lanka, heavy weather caused power outages affecting over 430,000 people. The Ceylon Electricity Board received 59,400 reports of electrical issues in four days, with over 3.3 million complaints addressed. Power supply was restored for 330,000 residents before the situation improved.
 
-மின் தடை தொடர்பில் நாளாந்தம் அதிகளவான முறைப்பாடுகள் கிடைக்கப் பெறுவதால், அனைத்து வாடிக்கையாளர்களுக்கும் மீள பதிலளிக்க முடியாத நிலை ஏற்பட்டுள்ளதாகவும் அச்சங்கம் தெரிவித்துள்ளது.
+🟩
 
-கடந்த 4 நாட்களில் 59,400 மின்சார செயலிழப்புச் சம்பவங்கள் பதிவாகியுள்ளதாகவும், கிடைக்கப் பெற்றுள்ள 3300,000ற்கும் அதிகமான முறைப்பாடுகளுக்கு அமைய மின் தடங்கல்களைச் சீரமைக்கும் பணிகளை துரிதப்படுத்தியுள்ளதாக இலங்கை மின்சார சபை பொறியியலாளர் சங்கம் தெரிவித்துள்ளது.
+The Ceylon Electricity Board Engineers Association said that 431 and 500 people in Sri Lanka have been affected by the inclement weather.
 
-இதன்படி, நேற்றைய தினம் வரையில் 330,000 பேருக்கான மின்சார விநியோகத்தை வழமைக்குக் கொண்டு வந்துள்ளதாக இலங்கை மின்சார சபை பொறியியலாளர் சங்கம் குறிப்பிட்டுள்ளது. R
+Due to the daily complaints of the power outage, all customers have been unable to respond to the day.
+
+The Ceylon Electricity Board Engineers Association said that 59,400 electrical malfunctions have been reported in the last four days and that more than 3300,000 complaints have been expedited.
+
+According to the Ceylon Electricity Board (CEB) Engineers Association, the power supply of 330,000 people has been brought to normal until yesterday.. Remble
 
 ◼️
 
 [Data](articles/dee11290.json)
+
+[Extended Data](ext_articles/dee11290.ext.json)
 
 ---
 
@@ -158,21 +178,45 @@ From time to time in the rest of the island.. The Department further stated that
 
 ---
 
-### ’ஜனாதிபதி வடக்கு, கிழக்கு அபிவிருத்திக்காக செயற்பட்டார்’
+### மழையால் டெங்கு பரவும் அபாயம்
+
+*2024-05-25 02:45:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மழையால்-டெங்கு-பரவும்-அபாயம்/175-337823) · `ta`
+
+நாட்டில் நிலவும் மழையுடனான காலநிலை காரணமாக டெங்கு நோய் பரவும் அபாயம் ஏற்பட்டுள்ளதாக டெங்கு நோய் கட்டுப்பாட்டு பிரிவு தெரிவித்துள்ளது.
+
+நாட்டில் இந்த வருடத்தில் இதுவரையான காலப்பகுதியில் 24 ஆயிரத்து 227 டெங்கு நேயாளர்கள் அடையாளம் காணப்பட்டுள்ளனர் என டெங்கு நோய் கட்டுப்பாட்டு பிரிவு விடுத்துள்ள அறிக்கையில் தெரிவிக்கப்பட்டுள்ளது.
+
+அந்த அறிக்கையின்படி, கடந்த ஏப்ரல் மாதத்தில் 2 ஆயிரத்து 234 டெங்கு நோயாளர்கள் பதிவாகியிருந்தனர். இந்த மாதத்தின் இதுரையான காலப்பகுதியில் 1,954 டெங்கு நோயாளர்கள் அடையாளம் காணப்பட்டுள்ளனர்.
+
+இந்த மாவட்டத்தில் 5 ஆயிரத்து 183 டெங்கு நோயாளர்கள் அடையாளம் காணப்பட்டுள்ளனர் என அந்த அறிக்கையில் குறிப்பிடப்பட்டுள்ளது. (a)
+
+◼️
+
+[Data](articles/9ecc3060.json)
+
+---
+
+### The President worked for the North and East Development
 
 *2024-05-25 02:38:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-வடக்கு-கிழக்கு-அபிவிருத்திக்காக-செயற்பட்டார்/175-337822) · `ta`
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்க பிரதமராக இருந்த காலம் முதல் வடக்கு மற்றும் கிழக்கின் அபிவிருத்திக்காக அர்ப்பணிப்புடன் செயற்பட்டுள்ளார் என  பாராளுமன்ற உறுப்பினர் எம்.ஏ. சுமந்திரன் தெரிவித்தார்.
+President Ranil Wickremesinghe has shown dedication to developing the North and East regions during his tenure as Prime Minister. He recently opened a Medical Training and Research Department building at the University Medical Faculty, highlighting his commitment to investing in these areas. This initiative aims to establish a center of excellence in Sri Lanka, focusing on the needs of the northern region.
 
-யாழ். பல்கலைக்கழக மருத்துவ பீடத்தில் நிர்மாணிக்கப்பட்ட மருத்துவ பயிற்சி மற்றும் ஆராய்ச்சி துறை கட்டடத்தை நேற்று முற்பகல் திறந்து வைக்கும் நிகழ்வில் கலந்து கொண்டு உரையாற்றுகையில் எம்.ஏ. சுமந்திரன் இவ்வாறு  குறிப்பிட்டார்.  அவர் மேலும்  உரையாற்றுகையில்,
+🟩
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்க பிரதமராக இருந்த காலம் முதல் வடக்கு மற்றும் கிழக்கின் அபிவிருத்திக்காக அர்ப்பணிப்புடன் செயற்பட்டுள்ளார். இன்று திறந்து வைக்கப்படும் யாழ்.பல்கலைக்கழகத்தின் இந்த மருத்துவ பீடக் கட்டடம் வடக்கிற்கு மாத்திரமன்றி நாட்டிற்கும் ஒரு நல்ல முதலீடாகும் என சுட்டிக்காட்டலாம்.
+President Ranil Wickremesinghe has been dedicated to the development of the North and East since he was prime minister.. Said Sumanthiran.
 
-மேலும் இது எதிர்காலத்தில் இலங்கையில் நிபுணர்களின் புகலிடமாக மாறும் என நான் நம்புகிறேன். முன்னதாக இச்சபையில் உரையாற்றியவர்கள் கூறியது போல் யாழ்.மாவட்டத்தின் அபிவிருத்தியிலும், மக்களின் அபிவிருத்தியிலும் ஜனாதிபதி விசேட கவனம் செலுத்தியுள்ளார் என்றார். (a)
+Yall. The MA MA addressed the opening ceremony of the Medical Training and Research Department building at the University Medical Faculty yesterday morning.. Sumanthiran said this.  When he further addresses,
+
+President Ranil Wickremesinghe has been dedicated to the development of the North and East since his time as Prime Minister. It can be pointed out that this medical faculty building at the Jaffna University, which is open today, is a good investment for the north.
+
+And I hope this will become the asylum of experts in Sri Lanka in the future. As those who had earlier said that the President said that the President had paid special attention to the development of the Jaffna Mawatha and the development of the people.. (A)
 
 ◼️
 
 [Data](articles/55d89667.json)
+
+[Extended Data](ext_articles/55d89667.ext.json)
 
 ---
 
@@ -2231,29 +2275,5 @@ When the war against the LTTE ended in 2009, the rival attitude of who set up th
 [Data](articles/50ef9e31.json)
 
 [Extended Data](ext_articles/50ef9e31.ext.json)
-
----
-
-### Massive landslide in Papua New Guinea;Fear that 100 people may have died
-
-*2024-05-24 12:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/184364) · `ta`
-
-A devastating landslide struck Kakalam village in Papua New Guinea at 3 am on Friday, potentially claiming over 100 lives. Rescue efforts are underway amidst fears of widespread casualties.
-
-🟩
-
-The massive landslide occurred at 3 am on Friday morning at Kakalam village in the province, about 600 kilometers northwest northwest of Port Morsby.
-
-Rescuers have begun rescue operations and more than 100 people may have died, residents say.
-
-The president of the Gera Women's Association, Elizabeth Laruma, said that the houses were on the ground as the nearby hillside collapsed in the village.
-
-In the videos shared on social media, residents are seen removing large rocks and recovering the bodies from the bottom of the ruins and fallen trees.
-
-◼️
-
-[Data](articles/2aaed903.json)
-
-[Extended Data](ext_articles/2aaed903.ext.json)
 
 ---

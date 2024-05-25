@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-26 01:51:59**
+As of **2024-05-26 02:03:47**
 
 ## Newspaper Stats
 
-*Scraped **26,243** Articles*
+*Scraped **26,244** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 1,533
 adalk | 2,235
 adaderanalk | 3,014
 tamilmirrorlk | 3,063
-virakesarilk | 4,005
+virakesarilk | 4,006
 dailymirrorlk | 4,146
 adaderanasinhalalk | 4,201
 
@@ -26,11 +26,59 @@ adaderanasinhalalk | 4,201
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,243 (100.0%) of 26,243 articles have been extended.
+26,243 (100.0%) of 26,244 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-25 (Saturday)
+
+### குற்றவாளிகளை நீதியின் முன் நிறுத்தவேண்டும் என்பதை நினைவுறுத்தும் அடையாளமே முள்ளிவாய்க்கால் - பிரித்தானிய தொழிற்கட்சித் தலைவர் சுட்டிக்காட்டு
+
+*2024-05-25 23:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/184469) · `ta`
+
+முள்ளிவாய்க்காலும், போரிலும் உயிரிழந்தவர்களை நினைவுகூருவதும் கடந்தகால மீறல்களுடன் தொடர்புடைய குற்றவாளிகளை நீதியின்முன் நிறுத்தவேண்டும் என்பதை நினைவுறுத்தும் அடையாளங்களாகப் பார்க்கப்படவேண்டும் என பிரித்தானிய தொழிற்கட்சித் தலைவர் கியர் ஸ்ராமர் வலியுறுத்தியுள்ளார்.
+
+பிரித்தானிய தமிழர் பேரவையினால் கடந்த 18 ஆம் திகதியன்று  லண்டன் ரபல்கர் சதுக்கத்தில் ஏற்பாடு செய்யப்பட்டிருந்த  முள்ளிவாய்க்கால் நினைவேந்தல் நிகழ்வில் கலந்துகொண்டு உரையாற்றுகையிலேயே தொழில் கட்சியின் தலைவர் கியர் ஸ்ராமர் மேற்கண்டவாறு தெரிவித்தார். அங்கு அவர் மேலும் கூறியதாவது:
+
+இலங்கையில் இறுதிக்கட்டப்போரில் கொல்லப்பட்ட ஆயிரக்கணக்கானோரையும், அங்கு இடம்பெற்ற மிகமோசமான மனித உரிமை மீறல்களால் பாதிக்கப்பட்டோரையும் நாம் முள்ளிவாய்க்கால் நினைவேந்தல் தினத்தில் நினைவுகூருகின்றோம். தமக்கு இழைக்கப்பட்ட அநீதியின் வலியுடன் இன்னமும் வாழ்ந்துவரும் பாதிக்கப்பட்ட தரப்பினரையும், மீறல்களிலிருந்து தப்பிப்பிழைத்தோரையும், அவர்களது அன்புக்குரியவர்களையும் இவ்வேளையில் நினைவுகூருகின்றேன்.
+
+...
+
+[Data](articles/0c861764.json)
+
+---
+
+### Missing Relationships opposed to President Ranil's arrival
+
+*2024-05-25 23:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/184461) · `ta`
+
+Kilinochchi District's Missing Relationships held a media briefing, criticizing President Ranil Wickremesinghe's visit due to unresolved issues from the war, including missing children and lack of justice. They highlighted the disparity in treatment between Sinhalese and Tamil communities, calling for equal application of laws and justice.
+
+🟩
+
+Kilinochchi District Missing Relationships have organized a media briefing today.
+
+Kadirgamanathan Kokilavani further said that on behalf of the Kilinochchi District
+
+President Ranil Wickremesinghe has made a Vijayama for Kilinochchi today. He said he was planning to launch a protest in protest of his arrival and that the protest was issued.
+
+Our children were handed over to the military during the war and taken to the investigation and the disappearance of our children to date.
+
+Many protests have been reported through the media and that we have not yet received justice.
+
+Mullivaikkal porridge was given to the international and Sri Lankan government in the last war.
+
+The military and the police have arrested many people, such as Kanji, as a health hazard.
+
+But today the Vesak is celebrating the country. But so far they are being treated without any confusion.
+
+...
+
+[Data](articles/a3670b01.json)
+
+[Extended Data](ext_articles/a3670b01.ext.json)
+
+---
 
 ### Perahera elephant goes on rampage in Mawanella town
 
@@ -1145,38 +1193,6 @@ Family sources said the final rites of the distinguished attorney will be notifi
 [Data](articles/c8983a83.json)
 
 [Extended Data](ext_articles/c8983a83.ext.json)
-
----
-
-### Missing Relationships opposed to President Ranil's arrival
-
-*2024-05-25 15:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/184461) · `ta`
-
-Kilinochchi District's Missing Relationships held a media briefing, criticizing President Ranil Wickremesinghe's visit due to unresolved issues from the war, including missing children and lack of justice. They highlighted the disparity in treatment between Sinhalese and Tamil communities, calling for equal application of laws and justice.
-
-🟩
-
-Kilinochchi District Missing Relationships have organized a media briefing today.
-
-Kadirgamanathan Kokilavani further said that on behalf of the Kilinochchi District
-
-President Ranil Wickremesinghe has made a Vijayama for Kilinochchi today. He said he was planning to launch a protest in protest of his arrival and that the protest was issued.
-
-Our children were handed over to the military during the war and taken to the investigation and the disappearance of our children to date.
-
-Many protests have been reported through the media and that we have not yet received justice.
-
-Mullivaikkal porridge was given to the international and Sri Lankan government in the last war.
-
-The military and the police have arrested many people, such as Kanji, as a health hazard.
-
-But today the Vesak is celebrating the country. But so far they are being treated without any confusion.
-
-...
-
-[Data](articles/a3670b01.json)
-
-[Extended Data](ext_articles/a3670b01.ext.json)
 
 ---
 
@@ -2315,21 +2331,5 @@ This program was attended by nearly 50 participants from 20 hotels in the southe
 [Data](articles/6ac396e4.json)
 
 [Extended Data](ext_articles/6ac396e4.ext.json)
-
----
-
-### Seylan Cards partners with Hayleys Travels to continue its Swipe and Win promo
-
-*2024-05-25 01:16:00* · [`islandlk`](http://island.lk/seylan-cards-partners-with-hayleys-travels-to-continue-its-swipe-and-win-promo/) · `en`
-
-Seylan Cards, the Essential Card for Heartfelt Essentials, has tied up with Hayleys Travels, the most reliable travel partner in Sri Lanka, to continue its Swipe and Win promo, offering Seylan Card holders an opportunity to win free airline tickets. One lucky Seylan Card holder will have the chance to win two airline tickets to Singapore starting from March 15th till June 15th 2024, monthly.
-
-With 6 tickets up for grabs by 3 lucky winners, Seylan Card holders need to carry out a minimum transaction of Rs. 5000 using their Seylan Credit Card to enter the draw. The more transactions they make, the higher their chances of winning. Seylan Bank will announce the winners on a monthly basis, ensuring transparency and fairness in the selection process.
-
-...
-
-[Data](articles/14494d70.json)
-
-[Extended Data](ext_articles/14494d70.ext.json)
 
 ---

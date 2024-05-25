@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-25 17:54:21**
+As of **2024-05-25 18:10:51**
 
 ## Newspaper Stats
 
-*Scraped **26,210** Articles*
+*Scraped **26,211** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,46 +19,76 @@ adalk | 2,234
 adaderanalk | 3,007
 tamilmirrorlk | 3,055
 virakesarilk | 4,005
-dailymirrorlk | 4,139
+dailymirrorlk | 4,140
 adaderanasinhalalk | 4,193
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,207 (100.0%) of 26,210 articles have been extended.
+26,210 (100.0%) of 26,211 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-25 (Saturday)
 
-### අධිවේගී මාර්ගයේ යන රියදුරන්ට උපදෙස්
+### Inclement weather: 7 dead, 13 injured in 19 districts
+
+*2024-05-25 17:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Inclement-weather-7-dead-13-injured-in-19-districts/108-283348) · `en`
+
+Colombo, May 25 (Daily Mirror) - Seven persons reported dead and 13 others were injured due to falling trees, floods, high winds, rain and rock falls in nineteen districts, the Disaster Management Centre said.
+
+While issuing a report, they said a total of 42,604 people belonging to 11,307 families have been affected, and some people have been sent to seven safe locations.
+
+Accordingly, 533 persons belonging to 140 families have been sent to safe locations. Meanwhile, 464 persons belonging to 122 families are living in their relatives' houses.
+
+A total of 3,137 houses were partially damaged, and 11 houses were completely damaged due to the inclement weather.
+
+◼️
+
+[Data](articles/1adb137f.json)
+
+---
+
+### Advice on drivers on the highway
 
 *2024-05-25 17:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197002) · `si`
 
-අයහපත් කාලගුණය හේතුවෙන් අධිවේගී මාර්ගයේ වාහන ධාවනය කිරීමේදී  විද්‍යුත් පුවරුවල සඳහන් අවවාදාත්මක වැකි කෙරෙහි අවධානය යොමු කරන ලෙස රියදුරන්ට දැනුම්දෙයි.
+In inclement weather, drivers should focus on e-panel warnings. Maintain a 50-meter gap from other vehicles and adhere to speed limits displayed on e-boards.
 
-වාහන අතර පරතරය මීටර් 50ක් තබාගන්නා ලෙසත්, විද්‍යුත් පුවරුවලින් උපදෙස් ලබාදී ඇති වේගය ඉක්මවා නොයන ලෙසත් දැනුම්දී තිබේ.
+🟩
+
+Drivers informed drivers to focus on the warning sentences on the e-panels due to inclement weather.
+
+The gap between vehicles have been informed to keep 50 meters and not exceeded the speed that has been instructed by e-boards.
 
 ◼️
 
 [Data](articles/ceffde4f.json)
 
+[Extended Data](ext_articles/ceffde4f.ext.json)
+
 ---
 
-### පානදුරේ එක් මංතීරුවක් වසා තැබෙයි
+### One lane in Panadura closes
 
 *2024-05-25 17:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197001) · `si`
 
-පින්වත්ත සුසාන භූමිය අසල සිට පානදුර නගර ශාලාව දක්වා ගාලු පාරේ කොටසක් එක් මංතීරුවකට සීමා කෙරෙන බව පොලීසිය දැනුම්දෙයි.
+A section of Galle Road near Panadura Town Hall is temporarily closed due to construction, affecting traffic from Colombo towards Galle but allowing travel from Galle to Colombo.
 
-පානදුරේට අදාළ කොටසේ ගාල්ල දෙස සිට කොළඹ දෙසට ගමන් කිරීමට ඇති මංතීරුව මෙලෙස වසා තැබීමට සිදුවන බව පොලීසිය රියදුරන්ට දැනුම්දෙයි.
+🟩
 
-කොළඹ දෙස සිට ගාල්ල දෙසට ඇති මංතීරුව දෙපසටම ගමන් කළ හැකි පරිදි විවෘතව තැබෙයි.
+The police are informed that a portion of the Galle Road will be limited to the Panadura Town Hall from the Pinwatta Cemetery.
+
+The police informed drivers that the lane is to be closed from Galle to Colombo to Colombo to Colombo.
+
+The lane from Colombo to Galle is open to the Galle.
 
 ◼️
 
 [Data](articles/d8886d8d.json)
+
+[Extended Data](ext_articles/d8886d8d.ext.json)
 
 ---
 
@@ -164,21 +194,27 @@ In this case, a letter written in English has been found that the police committ
 
 ---
 
-### විගණනයෙන් දුන් නිර්දේශ 47ක් වසර හයක් තිස්සේ ක්‍රියාත්මක කර නෑ
+### 47 recommendations made by audit have not been implemented for six years
 
 *2024-05-25 16:27:47* · [`adalk`](https://www.ada.lk/breaking_news/විගණනයෙන්-දුන්-නිර්දේශ-47ක්-වසර-හයක්-තිස්සේ-ක්‍රියාත්මක-කර-නෑ/11-409818) · `si`
 
-සෞඛ්‍ය අමාත්‍යාංශය මගින්  වෛද්‍ය සැපයුම් ලබා ගැනීම හා බෙදාහැරීමේ ක්‍රියාවලිය  විධිමත් කිරීම සඳහා  2018 දී ලබාදුන් විගණන නිර්දේශ 47 ක්  වසර හයකට වඩා කාලයක්  ගතවුවද තවමත් ක්‍රියාත්මක කර නැතැයි ජාතික විගණන කාර්යාලය අනාවරණය කරයි.
+In 2018, the National Audit Office gave 47 recommendations to improve medical supply regulation via the Ministry of Health. These suggestions aimed to ensure quality medical supplies at affordable prices. However, after six years, none of these recommendations have been implemented. The current Auditor General urges immediate action to address this issue.
 
-මෙම ක්‍රියාවලිය හා   අදාලවන වෛද්‍ය සැපයුම් අංශය ,ජාතික ඖෂධ නියාමන අධිකාරිය සහ ජාතික ඖෂධ තත්ත්ව ආරක්ෂණ අධිකාරිය පිළිබඳව නොබෝදා නිකුත් කළ විශේෂ විගණන වාර්ථාව මගින් මේ බව අනාවරණය කර තිබේ.
+🟩
 
-මේ අනුව 2018 දී එවකට විගණකාධිපති එච්.එම්.ගාමිනී විජේසිංහ මහතා විසින් මෙකී ආයතන සම්බන්ධයෙන් වූ  විගණනයේදී හෙලිවූ දුර්වලතා මගහැර  ප්‍රමිතියෙන් යුත්  වෛද්‍ය සැපයීම් අවම මිලකට ගෙන බෙදා හැරීම විධිමත් කිරීම සඳහා නිර්දේශ 47 ක් ඉදිරිපත් කර තිබිණි .
+The National Audit office reveals that 47 audit recommendations were given in 2018 to regularize medical supplies and distribution process through the Ministry of Health.
 
-එම නිර්දේශ කඩිනමින්  ක්‍රියාත්මක   කිරීමටත්  හා මෙතෙක් එම නිර්දේශ ක්‍රියාත්මක කිරීමට     ප්‍රමාණවත්  ක්‍රියාමාර්ග නොගත් තැනැත්තන් සම්බන්ධයෙන් සුදුසු ක්‍රියාමාර්ග ගැනීමටත්    මේ පිළිබඳව  තවත් නව නිර්දේශ 19 ක් ඉදිරිපත් කරමින් වත්මන් විගණකාධිපති ඩබ්ලිව් .පී.සී.වික්‍රමරත්න මහතා නොබෝදා  නිකුත් කළ ව්ගණන වාර්තාව මගින් නිර්දේශ කර තිබේ.
+This has been revealed by the special audit of the National Drug Regulatory Authority and the National Drug Quality Security Division in the National Drug Regulatory Authority and Protection Authority.
+
+Accordingly, in 2018, the Auditor General HM Goalni Wijesinghe had submitted 47 recommendations to regularize the distribution of quality medical supplies at the lowest prices of quality medical supplies.
+
+The current Auditor General has recommended the current Auditor General by the recently issued documents issued by the Ministry of Public Recommending to take appropriate measures to implement the recommendations and to implement those recommendations.
 
 ◼️
 
 [Data](articles/f99180e5.json)
+
+[Extended Data](ext_articles/f99180e5.ext.json)
 
 ---
 
@@ -2289,27 +2325,5 @@ Criticism of Israel’s conduct in the war in Gaza has been growing, particularl
 [Data](articles/457b6d62.json)
 
 [Extended Data](ext_articles/457b6d62.ext.json)
-
----
-
-### Over 300,000 power disruptions due to bad weather
-
-*2024-05-24 18:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Over-300-000-power-disruptions-due-to-bad-weather/108-283304) · `en`
-
-Colombo, May 24 (Daily Mirror) - Over 300,000 power disruption incidents were reported during the past few days with more than 30,000 occurring within a single hour on some days, the Ceylon Electricity Board Engineers' Union (CEBEU) said.
-
-While issuing a media release they said they had experienced significant delays in restoring power outages caused by recent severe weather conditions.
-
-The CEBEU has expressed regret over these delays, attributing them to the limited number of technical staff available to address the issues.
-
-Additionally, the high volume of calls has overwhelmed CEB telephone operators, leading to many calls from consumers going unanswered.
-
-The union has urged the public to exercise patience and caution, advising them not to touch any live wires during outages, while the technical teams work to restore power as quickly as possible.
-
-◼️
-
-[Data](articles/7b6d5d40.json)
-
-[Extended Data](ext_articles/7b6d5d40.ext.json)
 
 ---

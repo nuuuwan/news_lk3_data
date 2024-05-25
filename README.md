@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-25 18:22:31**
+As of **2024-05-25 18:33:47**
 
 ## Newspaper Stats
 
-*Scraped **26,213** Articles*
+*Scraped **26,220** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,35 +16,137 @@ islandlk | 1,417
 economynextcom | 1,504
 dailyftlk | 1,533
 adalk | 2,234
-adaderanalk | 3,007
-tamilmirrorlk | 3,055
+adaderanalk | 3,009
+tamilmirrorlk | 3,058
 virakesarilk | 4,005
-dailymirrorlk | 4,141
+dailymirrorlk | 4,143
 adaderanasinhalalk | 4,194
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,211 (100.0%) of 26,213 articles have been extended.
+26,213 (100.0%) of 26,220 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-25 (Saturday)
 
-### අද රාත්‍රියේ  කොළඹ පාරවල් කිහිපයක් වසා දැමේ
+### Several roads in Colombo closed tonight due to bad weather
+
+*2024-05-25 18:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/99433/several-roads-in-colombo-closed-tonight-due-to-bad-weather) · `en`
+
+Sri Lanka Police says it has been decided to close several roads in Colombo tonight (25) in order to avoid repetition of incidents during the last two days due to the current weather conditions.
+
+Accordingly, Police Media Spokesman DIG Nihal Thalduwa said that Braybrooke Place, Cemetry Roundabout in Borella to Tummulla Junction, Bauddhaloka Mawatha, and the stretches of road from Dr. Lester James Peiris Mawatha to Rotunda Junction in Colombo 03 will remain closed for traffic tonight.
+
+◼️
+
+[Data](articles/864aefe2.json)
+
+---
+
+### உங்களுக்குத் தெரியுமா?
+
+*2024-05-25 18:19:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உங்களுக்குத்-தெரியுமா/175-337834) · `ta`
+
+குற்றப் புலனாய்வுப் பிரிவினரால் மேற்கொள்ளப்படும் விசேட விசாரணையின் தொடர்பில் தேடப்பட்டு வரும் சந்தேகநபர் ஒருவரைக் கைதுசெய்வதற்கு 2 மில்லியன் ரூபாய் சன்மானமாக அறிவித்துள்ளது.
+
+சந்தேக நபரான தெமட்டகொட பகுதியைச் சேர்ந்த ஜெராட் புஷ்பராஜா ஒஸ்மான் ஜெராட் என்பவரைக் கைது செய்வதற்கு பொலிஸார் பொதுமக்களின் உதவியை நாடியுள்ளனர்.
+
+பொலிஸார் சந்தேக நபரின் புகைப்படத்தை வெளியிட்டதுடன், சந்தேக நபர் குறித்த தகவல்களை பின்வரும் தொலைபேசி இலக்கங்களுக்கு வழங்குமாறு பொதுமக்களிடம் கோரிக்கை விடுக்கின்றனர்:
+
+பணிப்பாளர் (CID) 071-8591753 அல்லது குற்றப் புலனாய்வுத் திணைக்களத்தின் OIC 071- 8591774 ஊடாக தகவல் தரலாம்
+
+◼️
+
+[Data](articles/eb433b06.json)
+
+---
+
+### Spill gates of five reservoirs opened due to inclement weather
+
+*2024-05-25 18:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Spill-gates-of-five-reservoirs-opened-due-to-inclement-weather/108-283350) · `en`
+
+Colombo, May 25 (Daily Mirror) - Due to the inclement weather and the high rainfall in the catchment areas, spill gates at several reservoirs have been opened, the Disaster Management Centre (DMC) said.
+
+They said six spill gates of the Deduru Oya Reservoir in the Kurunegala district have been opened for four feet.
+
+Four spill gates of the Thabbowa Wewa have been opened. Two spill gates of the Kala Wewa, one spill gate of the Kukule Ganga Reservoir, and three spill gates of the Polgolla Dam have been opened.
+
+The DMC requests those living in low-lying areas along the above reservoirs to be vigilant over possible floods with the continuous rain during the next few days.
+
+◼️
+
+[Data](articles/ff3d0182.json)
+
+---
+
+### அனர்த்தங்களால் உயிரிழந்தவர்களின் எண்ணிக்கை அதிகரிப்பு
+
+*2024-05-25 18:15:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அனர்த்தங்களால்-உயிரிழந்தவர்களின்-எண்ணிக்கை-அதிகரிப்பு/175-337833) · `ta`
+
+பலத்த மழையுடனான வானிலையால் ஏற்பட்ட அனர்த்தங்களில் உயிரிழந்தோரின் எண்ணிக்கை 7 ஆக அதிகரித்துள்ளதுடன், 13 பேர் காயமடைந்துள்ளனர்.
+
+மேலும், 18 மாவட்டங்களில் 12,197 குடும்பங்களை சேர்ந்த 45,344 பேர் பாதிக்கப்பட்டுள்ளதாக இடர் முகாமைத்துவ மத்திய நிலையம் தெரிவித்துள்ளது.
+
+புத்தளம் மாவட்டமே அதிகளவில் பாதிக்கப்பட்டுள்ளதுடன், அங்கு 3455 குடும்பங்களை சேர்ந்த 11,815 பேர் பாதிக்கப்பட்டுள்ளதாக நிலையம் குறிப்பிட்டுள்ளது.
+
+இதேவேளை கொழும்பு, கம்பஹா, களுத்துறை, கண்டி, கேகாலை, நுவரெலியா, இரத்தினபுரி ஆகிய 7 மாவட்டங்களின் சில பிரதேச செயலக பிரிவுகளுக்கு விடுக்கப்பட்ட மண்சரிவு அபாய எச்சரிக்கை தொடர்ந்தும் நீடிக்கப்பட்டுள்ளது. R
+
+◼️
+
+[Data](articles/cf486548.json)
+
+---
+
+### விஜயராம மாவத்தையில் பாரிய மரம் விழுந்தது
+
+*2024-05-25 18:12:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விஜயராம-மாவத்தையில்-பாரிய-மரம்-விழுந்தது/175-337832) · `ta`
+
+விஜேராம மாவத்தையில் உள்ள பௌத்த தொலைக்காட்சி அலைவரிசைக்கு அருகில் இன்று மாலை வீதியின் குறுக்கே ஆலமரம் முறிந்து வீழ்ந்ததால் வீதி தடைப்பட்டுள்ளது.
+
+கொழும்பு மாநகர சபை மற்றும் கொழும்பு தீயணைப்பு சேவை திணைக்களத்தின் உதவியுடன் மரத்தை அகற்றும் நடவடிக்கைகள் தற்போது மேற்கொள்ளப்பட்டு வருகின்றன.
+
+◼️
+
+[Data](articles/f3d7f508.json)
+
+---
+
+### First road completed under 1,500 km renovation project vested with public
+
+*2024-05-25 18:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/First-road-completed-under-1-500-km-renovation-project-vested-with-public/108-283346) · `en`
+
+Colombo, May 25 (Daily Mirror) - The first road project under the 1,500-kilometre road renovation project was vested with the public under the patronage of Transport, Highways Minister Bandula Gunawardena.
+
+The 1,500-kilometre road renovation project was started in 2024. Under the project, the Veniwelakola School Road, Polgasovita (1.650 km) was carpeted and handed over to the public today.
+
+◼️
+
+[Data](articles/2e0772cb.json)
+
+---
+
+### Several roads closed in Colombo tonight
 
 *2024-05-25 18:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197003) · `si`
 
-මේ වනවිට පවතින අයහපත් කාලගුණ තත්ත්වය හේතුවෙන් ඇතිවෙන සිද්ධි වළක්වාගැනීම වෙනුවෙන් අද (25) රාත්‍රියේ  කොළඹ මාර්ග කිහිපයක් වසා තැබීමට පියවර ගන්නා බව පොලීසිය පවසයි.
+Colombo roads closing tonight: Gummulla Junction, Bauddhaloka Mawatha, Sir Lester James Peries. Inclement weather precaution.
 
-කොළඹ බ්‍රේබෘෘක් පෙදෙස, කනත්ත වටරවුමේ සිට තුම්මුල්ල මංසන්ධිය, බෞද්ධාලෝක මාවත, සර් ලෙස්ටර් ජේම්ස් පීරිස් වටරවුමේ සිට රොටුන්ඩා වටරමුව දක්වා මාර්ග එසේ වසා තැබීමට තීරණය කර ඇත.
+🟩
 
-පොලිස් මාධ්‍ය ප්‍රකාශය, නියෝජ්‍ය පොලිස්පති නීතිඥ නිහාල් තල්දූව මහතා මේ බව පවසයි.
+Steps will be taken to close several roads in Colombo at night to prevent the case due to the inclement weather.
+
+It has been decided to close the road from the Gummulla Junction, Bauddhaloka Mawatha, Bauddhaloka Mawatha, Sir Lester James Peries.
+
+DIG's Media Declaration, DIG's lawyer, Nihal Talduuwa made this statement.
 
 ◼️
 
 [Data](articles/3ba43b88.json)
+
+[Extended Data](ext_articles/3ba43b88.ext.json)
 
 ---
 
@@ -59,6 +161,8 @@ Operations are currently being carried out to remove the tree with the help of t
 ◼️
 
 [Data](articles/908d8dcf.json)
+
+[Extended Data](ext_articles/908d8dcf.ext.json)
 
 ---
 
@@ -79,6 +183,26 @@ A total of 3,137 houses were partially damaged, and 11 houses were completely da
 [Data](articles/1adb137f.json)
 
 [Extended Data](ext_articles/1adb137f.ext.json)
+
+---
+
+### Sri Lankan who ran fake ID racket held, family caught trying to flee India
+
+*2024-05-25 17:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/99432/sri-lankan-who-ran-fake-id-racket-held-family-caught-trying-to-flee-india) · `en`
+
+A 40-year-old illegal immigrant from Sri Lanka who allegedly ran a fake government identity proof racket for eight years has finally been caught in India.
+
+CCB sleuths of India recovered a country-made pistol from the man accused of being involved in making fake Aadhaar cards, driving licences, debit/credit cards and bank account papers.
+
+Hours after his arrest, his wife and her three daughters were caught attempting to flee the country using Indian passports, when she mistakenly provided her Sri Lankan identity proof during frisking by immigration officials at the airport.
+
+A senior police officer identified the racketeer as Sharan Kumar Kalidas alias Umesh Bala Ravindran alias Choti Bin Bala, a resident of an apartment in Rachenahalli, north Bengaluru, India.
+
+Acting on tipoff on May 20 about his alleged illegal activities, CCB inspector Kavitha GM and her team camped near his apartment complex and stopped him as arrived in his car.
+
+...
+
+[Data](articles/f318c7e2.json)
 
 ---
 
@@ -2151,175 +2275,5 @@ The President also instructed the Department of Science and Technology and the M
 [Data](articles/52ad0c1f.json)
 
 [Extended Data](ext_articles/52ad0c1f.ext.json)
-
----
-
-### The train covered with fog
-
-*2024-05-24 20:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196979) · `si`
-
-In the Haputale region, a foggy train journey coincided with rising water levels due to heavy rainfall. The Kalu Ganga near Milkarakanda and the Attanagalu Oya in Bandarawela have both experienced minor floods.
-
-🟩
-
-With the high race, Haputale area has arisen.
-
-The train was operating in the area.
-
-According to the report issued by the Irrigation Department today (24th), the Kalu Ganga has grown to a slight flood from milkarakanda.
-
-The report also states that the Attanagalu Oya has increased to a small flood from the Bandarawela area.
-
-◼️
-
-[Data](articles/67b103a9.json)
-
-[Extended Data](ext_articles/67b103a9.ext.json)
-
----
-
-### Three new Board members appointed to NMRA
-
-*2024-05-24 20:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Three-new-Board-members-appointed-to-NMRA/108-283314) · `en`
-
-Colombo, May 24 - Health Minister Dr. Ramesh Pathirana has appointed three new professionals to the National Medicines Regulatory Authority (NMRA) Board.
-
-This decision aligns with the NMRA Act of 2015, which empowers the Minister to nominate and appoint professionals of eminence from the fields of law, accountancy, management, and health.
-
-Accordingly, the new appointees include Chartered Accountant Sujeewa Mudalige, President’s Counsel Palitha Kumarasinghe and senior Grade 1 officer in the Sri Lanka Administrative Service Susantha Kahawatta.
-
-These appointments follow the resignation of three board members who were appointed by the previous Health Minister, Keheliya Rambukwella.
-
-The outgoing members include Supul Wijesinghe from the field of accounting, Attorney-at-Law Manoj Gamage from the field of law, and architect Priyantha Serasinghe from the field of management.
-
-◼️
-
-[Data](articles/157e6dc1.json)
-
-[Extended Data](ext_articles/157e6dc1.ext.json)
-
----
-
-### Traffic between Diyathala and Haputtu on the road from Badulla to Colombo
-
-*2024-05-24 20:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/184419) · `ta`
-
-Traffic on the road from Badulla to Colombo, between Diyathalawa and Haputtal, is fully blocked due to fallen trees. The blockage is expected to last until 3:30 PM today. Authorities including police, road development workers, local council members, and military personnel are clearing the debris. Drivers are advised to use the Bandarala-Haputale route instead.
-
-🟩
-
-Diyathalawa police said that traffic between Diyathalawa and Haputtal on the road from Badulla to Colombo has been completely blocked.
-
-Traffic along the road will be blocked till 3.30 pm following the collapse of mass trees on the road on Friday morning on the 24th of this month.
-
-Diyathalawa Police, Road Development Authority employees and Pradeshiya Sabha staff and military personnel removed trees. Diyathalawa police said they returned to normal
-
-Diyatalawa police said that traffic was completely blocked due to the collapse of the trees on the road.
-
-So the police have requested the drivers to use the road from Bandarala to Haputale.
-
-◼️
-
-[Data](articles/9beef705.json)
-
-[Extended Data](ext_articles/9beef705.ext.json)
-
----
-
-### Continuing heavy rainfall - traffic impact.. Electro -discipline
-
-*2024-05-24 20:28:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/தொடர்ந்து-பெய்யும்-கனமழை-போக்குவரத்து-பாதிப்பு-மின்சாரம்-தடை/76-337814) · `ta`
-
-Heavy rains and winds in central hills block traffic and electricity. A large tree fell on a main road in Norwood, limiting traffic. Drivers warned about bamboo trees near Tikoya Hospital due to winds. Electricity cut off since yesterday due to wind damage. Cities like Hatton and Kotagala face difficulties in essential work.
-
-🟩
-
-Due to heavy rains and heavy winds in the central hills, traffic in many areas has been blocked and electricity has been blocked.
-
-Accordingly, Norwood police said that a massive tree (23), near the main road from the Norwood plantation area of ​​the Hatton Maskeliya main road, fell on the road last night.
-
-Police said that after the massive tree was cut down on the main road, the traffic of the road was limited to a road.
-
-Police have asked the drivers to take care of the bamboo sums near the Tikoya Resource Hospital due to heavy winds in the area.
-
-Electricity has been cut off since yesterday (23) afternoon, as the high wires have been cut off due to strong winds.
-
-Meanwhile, cities including Hatton and Kotagala have been in great difficulty as they are unable to carry out essential work as there is a period of time.. Remble
-
-◼️
-
-[Data](articles/c0527e66.json)
-
-[Extended Data](ext_articles/c0527e66.ext.json)
-
----
-
-### Three people were injured when a tree fell on the car
-
-*2024-05-24 20:23:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காரின்-மீது-மரம்-முறிந்து-விழுந்ததில்-மூவர்-படுகாயம்/175-337813) · `ta`
-
-A tree fell on a car near Mahawewa-Koswadiya, injuring three family members: a husband, wife, and their seven-year-old daughter. They were traveling from Chilaw to Colombo and have been hospitalized in Marawila.
-
-🟩
-
-Three people were injured when a tree fell on a car parked in Mahawewa - Koswadiya this afternoon.
-
-The tree has fallen on a car traveling from Chilaw to Colombo.
-
-Three of them have been admitted to the Marawila Primary Hospital, Puttalam District Disaster Management Division and Disaster Relief Officers said.
-
-Husband, wife and seven -year -old daughter of the same family. Remble
-
-◼️
-
-[Data](articles/d97fc163.json)
-
-[Extended Data](ext_articles/d97fc163.ext.json)
-
----
-
-### The secret video of the Hamas out
-
-*2024-05-24 19:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196978) · `si`
-
-Hamas attacked Israel on Oct 7, capturing 7 soldiers; one released, one dead. This escalates tensions as PM Netanyahu faces calls from PM Rattanyahu to free the hostages.
-
-🟩
-
-Israeli-Hamas - Hamas was attacked by the Hamas, 4 October 7 attack, the Hamas had seven Israeli soldiers a video of the country.
-
-One of them has been released and another has died.
-
-The views of Israeli Prime Minister Benjamin Ratmanyahu will be intensifying the pressure to Israeli Prime Minister Benjamin Netheh to free the hostages.
-
-◼️
-
-[Data](articles/b2427024.json)
-
-[Extended Data](ext_articles/b2427024.ext.json)
-
----
-
-### Israel should stop the attack on Raba
-
-*2024-05-24 19:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/184416) · `ta`
-
-Israel must halt attacks on Rafa as per orders from the International Criminal Court and the International Court of Justice. The latter also demands the opening of borders for humanitarian aid and a monthly report on compliance.
-
-🟩
-
-The Service Court has ordered Israel to stop the attack on Gaza's Rafa.
-
-It is noteworthy that the International Criminal Court has ordered Israel to immediately stop the attack on Rafa and other measures.
-
-The International Court of Justice has ordered that the Israeli border on the Egyptian border to transport humanitarian goods into the Gaza and allow those involved in the Gaza to know what is happening in Gaza.
-
-The International Court of Justice has ordered the submission of a report within a month of progress in implementing its order.
-
-◼️
-
-[Data](articles/4e536048.json)
-
-[Extended Data](ext_articles/4e536048.ext.json)
 
 ---

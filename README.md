@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-25 23:18:41**
+As of **2024-05-25 23:33:56**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,201
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,236 (100.0%) of 26,238 articles have been extended.
+26,238 (100.0%) of 26,238 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -53,6 +53,8 @@ India’s Prime Minister Narendra Modi said he was “extremely distressed” by
 ◼️
 
 [Data](articles/635f2e8f.json)
+
+[Extended Data](ext_articles/635f2e8f.ext.json)
 
 ---
 
@@ -732,19 +734,25 @@ He has effectively advocated many top and most popular court cases in Sri Lanka.
 
 ---
 
-### අද රාත්‍රි බදුල්ල දුම්රිය අවලංගුයි
+### Badulla train is invalid tonight
 
 *2024-05-25 16:36:20* · [`adalk`](https://www.ada.lk/breaking_news/අද-රාත්‍රි-බදුල්ල-දුම්රිය-අවලංගුයි/11-409819) · `si`
 
-අයහපත් කාලගුණික තත්ත්වය හේතුවෙන් උඩරට දුම්රිය මාර්ගයට ගස්, ගල්,සමග පස් කඳු  කඩාවැටීමේ අවදානම සැලකිල්ලට ගෙන අදත් 25 රාත්‍රී  කොළඹ බදුල්ල අතර රාත්‍රී දුම්රියයන් හතරක්  ධාවනය අවලංගු කළ බව දුම්රිය පාලක මැදිරිය පැවසීය.
+Due to bad weather, the Colombo-Badulla train service was cancelled last night. The Nawalapitiya Railway Control Room confirmed the cancellation of both postal trains. This decision was made by a senior railway official to ensure passenger safety.
 
-විශේෂයෙන් කොළඹ බදුල්ල සහ බදුල්ල කොළඹ කොටුව රාත්‍රියේ තැපැල් දුම්රියන් දෙක සහ බදුල්ල කොළඹ සහ කොළඹ බදුල්ල රාත්‍රී විශේෂ දුම්රියන් දෙකද  ධාවනය  වීම අවලංගු කළ බව  නාවලපිටිය දුම්රිය පාලක මැදිරිය පැවසීය.
+🟩
 
-හදිසි ආපදා තත්ත්වයන්හිදී දුම්රිය මගීන්ට ඇතිවන අවදානම් තත්ත්වය සහ අතරමග දුම්රිය නතර කිරීමට සිදුවුවහොත් මගීන්ට සිදුවන අපහසුතා සැලකිල්ලට ගෙන මෙම තීරණය ගත් බවද දුම්රිය දෙපාර්තමේන්තුවේ උසස් නිලධාරියකු පැවසීය.
+Due to the inclement weather, the upcountry railway line was canceled on the night of Colombo, Colombo, Colombo Badulla today.
+
+The Nawalapitiya Railway Control Room said that the two postal trains of Colombo and Badulla was canceled on the two postal trains at the Badulla and Badulla, Colombo and Badulla.
+
+A senior railway department has taken this decision to stop the risk situation and the railway train services to railway passengers.
 
 ◼️
 
 [Data](articles/4e89bcac.json)
+
+[Extended Data](ext_articles/4e89bcac.ext.json)
 
 ---
 
@@ -1672,13 +1680,15 @@ Subul Wijesinghe of the Accounting Department, Attorney -at -Law Manoj Kamage an
 
 *2024-05-25 10:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/99422/president-inaugurates-womens-healthcare-centre-at-kilinochchi-hospital) · `en`
 
-President Ranil Wickremesinghe has inaugurated the Centre of Excellence for Women’s Healthcare at the District General Hospital in Kilinochchi, a short while ago.
+President Ranil Wickremesinghe today inaugurated the Centre of Excellence for Women’s Healthcare at the Kilinochchi District General Hospital, the President’s Media Division (PMD) said.
 
-This project, costing Rs. 5,320 million, is in line with the government’s initiative to enhance health sector facilities nationwide, the President’s Media Division (PMD) said.
+The facility, constructed with funding of Rs. 5,320 million from the Government of the Netherlands, under the government’s initiative to enhance healthcare infrastructure nationwide, was officially inaugurated by the President, this morning (25).
 
-It has been funded by the Government of Netherlands, according to the PMD.
+Established in 2006, the Kilinochchi District General Hospital serves as the primary healthcare facility in the district, catering to the medical needs of over 150,000 residents.
 
-◼️
+The inauguration of the Centre of Excellence for Women’s Health Services today marks a significant advancement in maternal and Neonatal care in the North. This initiative is poised to enhance the healthcare system in the Northern Province by addressing the needs of women and newborns, as well as their families.
+
+...
 
 [Data](articles/8b47b7a1.json)
 

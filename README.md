@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-25 14:18:53**
+As of **2024-05-25 14:33:47**
 
 ## Newspaper Stats
 
-*Scraped **26,186** Articles*
+*Scraped **26,187** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ adaderanalk | 3,004
 tamilmirrorlk | 3,053
 virakesarilk | 3,999
 dailymirrorlk | 4,136
-adaderanasinhalalk | 4,185
+adaderanasinhalalk | 4,186
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,186 (100.0%) of 26,186 articles have been extended.
+26,186 (100.0%) of 26,187 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-25 (Saturday)
+
+### හිටපු මැති ඇමතිගොල්ලෝ 03 දෙනෙක් සජබයට එක්වෙයි
+
+*2024-05-25 14:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196994) · `si`
+
+ශ්‍රී ලංකා නිදහස් පක්ෂයේ සහ ජනතා විමුක්ති පෙරමුණේ ප්‍රාදේශීය සංවිධායකවරුන් කිහිප දෙනෙකු විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා හමු වී සමගි ජන බලවේගය සමග එක්වී තිබේ.
+
+ඒ සමගි ජන බලවේගයෙ විසින් ක්‍රියාත්මක ජන පවුර වැඩසටහනේ පොළොන්නරුව දිස්ත්‍රික් රැස්වීම පැවැති අවස්ථාවේදී ය.
+
+හිටපු පාර්ලිමේන්තු මන්ත්‍රීවරයකු සහ හිටපු අමත්‍යවරයකු වූ නන්දසේන හේරත් මහතා විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතාට සහාය පළ කිරීමේ අරමුණින් සමගි ජන බලවේගය හා එක්විය.
+
+එමෙන්ම ශ්‍රී ලංකා නිදහස් පක්ෂයේ හිටපු පාර්ලිමේන්තු මන්ත්‍රීවරයකු මෙන් ම මහවැලි සංවර්ධන අධිකාරියේ අධ්‍යයක්ෂවරයකු ලෙස කටයුතු කළ තිලක් මහලේකම්ගේ මහතා ද සමගි ජන බලවේගය හා එක්විය.
+
+තවද ජනතා විමුක්ති පෙරමුණේ පොළොන්නරුව නගර සභාවේ අපේක්ෂකයෙකුව සිටි එච්. සමන්ත බණ්ඩාර මහතා ද විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතාට සහාය පළ කිරීමේ අරමුණින් සමගි ජන බලවේගය හා එක්විය.
+
+◼️
+
+[Data](articles/6a4bf37c.json)
+
+---
 
 ### Death of Gamini Marapana
 
@@ -2309,25 +2329,5 @@ The High Commission said that special attention was paid to the elderly, pregnan
 [Data](articles/ce43d1be.json)
 
 [Extended Data](ext_articles/ce43d1be.ext.json)
-
----
-
-### Two Sri Lankan students in Japan accused of illegal abortion
-
-*2024-05-24 15:43:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Two-Sri-Lankan-students-in-Japan-accused-of-illegal-abortion/108-283302) · `en`
-
-(This story has originally been reported by Japanese media 'The Mainichi')
-
-MITO -- Two Sri Lankan students in Japan were arrested over an illegal abortion, and an expert points out that international students' unstable resident status may be a factor behind the incident.
-
-Ibaraki Prefectural Police on May 23 announced the arrests of Rubasing Liyanage Udeshika Ayomi Jayalath of Toride, Ibaraki Prefecture, for allegedly aborting her baby when she was about nine months pregnant, and her boyfriend Munasingha Sudesh Dilshan De Soysa of Utsunomiya in the neighboring prefecture of Tochigi, for allegedly aiding the abortion.
-
-According to the police, Jayalath used a drug to abort her baby at De Soysa's home around April 29. The suspects, both 30, have admitted to the allegations. Jayalath had visited an obstetrician in Tochigi Prefecture in late March to ask for an abortion, but the doctor refused as she was beyond the period allowed for an abortion under Japan's Maternal Health Act.
-
-...
-
-[Data](articles/3029c3b9.json)
-
-[Extended Data](ext_articles/3029c3b9.ext.json)
 
 ---

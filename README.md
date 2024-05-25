@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-25 07:10:50**
+As of **2024-05-25 07:34:07**
 
 ## Newspaper Stats
 
-*Scraped **26,142** Articles*
+*Scraped **26,143** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 234
-dbsjeyarajcom | 260
+dbsjeyarajcom | 261
 bbccomsinhala | 264
 newsfirstlk | 363
 islandlk | 1,417
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,175
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,142 (100.0%) of 26,142 articles have been extended.
+26,142 (100.0%) of 26,143 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -929,6 +929,18 @@ It is said that the hope of traveling by the holiday season can have large passe
 [Data](articles/2f6b9d19.json)
 
 [Extended Data](ext_articles/2f6b9d19.ext.json)
+
+---
+
+### 2024 ஜனாதிபதி தேர்தலில் தமிழ், முஸ்லிம் வாக்காளர்களின் ஆதரவை ரணிலால் மீண்டும் பெறமுடியுமா?
+
+*2024-05-24 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84086) · `en`
+
+இலங்கையில் உத்தியோகபூர்வ சனத்தொகை  கணக்கெடுப்பு 2012 ஆம் ஆண்டில் மேற்கொள்ளப்பட்டது. அந்த கணக்கெடுப்பின் பிரகாரம் இலங்கையின் பெரும்பான்மை இனத்தவர்களான சிங்களவர்கள் சனத்தொகையில் 74.9 சதவீதத்தினராக இருந்தனர். எண்ணிக்கையில் இரண்டாவது பெரிய இனத்தவர்களான  இலங்கைத் தமிழர்கள் 11.1சதவீதத்தினராக இருந்தனர்.  மூன்றாவது பெரிய இனத்தவர்களான இலங்கை முஸ்லிம்கள் 9.3 சதவீதத்தினராகவும் நான்காவது பெரிய இனத்தவர்களான ‘  மலையகத் தமிழர்கள் ‘ என்று அறியப்படும் இந்திய வம்சாவளித் தமிழர்கள் 4.1 சதவீதத்தினராகவும் இருந்தனர்.
+
+...
+
+[Data](articles/65ab8e32.json)
 
 ---
 
@@ -2241,25 +2253,5 @@ Efforts are currently underway to clear the tracks and restore normal services a
 [Data](articles/f81480d2.json)
 
 [Extended Data](ext_articles/f81480d2.ext.json)
-
----
-
-### An increase in wind flow
-
-*2024-05-24 11:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196965) · `si`
-
-Strong winds expected due to southwest monsoon, lasting 50-60 hours, with warnings issued this morning.
-
-🟩
-
-The southwest monsoon wind flow through the island can cause strong winds between 50 and 60 hours from time to time.
-
-The warning was issued today 10:30 am today (25) at 10:40 am today.
-
-◼️
-
-[Data](articles/8be3ac77.json)
-
-[Extended Data](ext_articles/8be3ac77.ext.json)
 
 ---

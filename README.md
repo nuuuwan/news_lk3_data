@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-25 08:18:34**
+As of **2024-05-25 08:33:52**
 
 ## Newspaper Stats
 
-*Scraped **26,147** Articles*
+*Scraped **26,152** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,99 @@ islandlk | 1,417
 economynextcom | 1,503
 dailyftlk | 1,533
 adalk | 2,230
-adaderanalk | 2,997
-tamilmirrorlk | 3,048
+adaderanalk | 2,998
+tamilmirrorlk | 3,051
 virakesarilk | 3,992
 dailymirrorlk | 4,128
-adaderanasinhalalk | 4,177
+adaderanasinhalalk | 4,178
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,147 (100.0%) of 26,147 articles have been extended.
+26,147 (100.0%) of 26,152 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-25 (Saturday)
+
+### තරුණයින් දෙදෙනෙක් අබිරහස් ලෙස මරුට
+
+*2024-05-25 08:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196985) · `si`
+
+සැකකටයුතු ‍ලෙස මියගිය පුද්ගලයින් දෙදෙනෙකුගේ සිරුරු දෙකක් දොම්පේ මල්වාන මායිවල ප්‍රදේශයේ කුඹුරක තිබී හමුව තිබේ.
+
+මෙලෙස මියගොස් ඇත්තේ අවුරුදු 18 හා 29 වයස්වල පසු වූ නාවලතැන්නවත්ත, රම්බොඩ ප්‍රදේශයේ පදිංචිකරුවන් බවට හඳුනාගෙන ඇත.
+
+පොලීසිය පැවසුවේ දොම්පේ මල්වාන මායිවල ප්‍රදේශයේ කුඹුරක සිරුරු දෙකක් පාවෙමින් තිබෙන බවට 119 හා 118 යන මධ්‍යස්ථානවලට ලද පැමිණිලි මත විමර්ශන ආරම්භ කළ බවය.
+
+මෙම දෙදෙනා පසුගිය 22 වනදා ඔවුන්ගේ නවාතැන්පොළින් පිටව ගොස් නැවතත් නොපැමිණීම හේතුවෙන් එම නවාතැන්පොළේ සිටි පුද්ගලයෙකු විසින් ඒ සම්බන්ධයෙන් පොලීසියට පැමිණිල්ලක් ද ඉදිරිපත් කර තිබේ.
+
+◼️
+
+[Data](articles/936b7812.json)
+
+---
+
+### Prevailing showery and windy conditions expected to continue
+
+*2024-05-25 08:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/99420/prevailing-showery-and-windy-conditions-expected-to-continue) · `en`
+
+Due to the Southwest monsoon conditions, the prevailing showery and windy conditions are expected to continue, says the Meteorology Department.
+
+Showers or thundershowers will occur at times in Western, Sabaragamuwa, Central, North-western and Southern provinces.
+
+Heavy showers above 100mm are likely at some places in Sabaragamuwa province and in Nuwara-Eliya district.
+
+Fairly heavy showers about 75mm are likely at some places in Western and North-western provinces and in Kandy, Galle and Matara districts.
+
+Several spells of showers will occur in Northern and North-central provinces, the department said.
+
+Strong winds of about 50-60 kmph can be expected at times over Western slopes of the central hills and in Northern, North-central, Western, Southern and North-western provinces and in Trincomalee district.
+
+Fairly strong winds about 30-40 kmph can be expected at times elsewhere of the island.
+
+◼️
+
+[Data](articles/ce083b2c.json)
+
+---
+
+### சிவனொளிபாதமலை பருவகால யாத்திரை நிறைவு
+
+*2024-05-25 08:00:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிவனொளிபாதமலை-பருவகால-யாத்திரை-நிறைவு/175-337825) · `ta`
+
+சிவனொளிபாதமலை உச்சியில் மக்கள் தரிசனத்துக்காக வைக்கப்பட்டிருந்த சமன் தெய்வத்தையும் மற்றும் பூஜைப் பொருட்களையும் புனித விக்கிரங்கள் அனைத்தும் 24.05.2024 நேற்று நல்லதண்ணியில் இருக்கும் விகாரைக்கு கொண்டு வரப்பட்டது.
+
+மேற்படி சமன் தெய்வம் மற்றும் பூஜைப் பொருட்கள் புனித விக்கிரங்களை 25.05.2024 இன்று காலை 8 மணியளவில் இரத்தினபுரி பெல்மதுளை ரஜமகா விகாரைக்கு வாகன தொடரணியாக எடுத்து செல்லப்படும்.
+
+நோட்டன் லக்ஸபான வழியாக கிதுல்கலை, கரவனல்ல, தெகியோவிட்ட, யட்டியாந்தோட்டை, அவிசாவளை, இரத்தினபுரி ரஜமாக விகாரைக்கு கொண்டு செல்லப்படும்.
+
+அங்கு பூஜைக்காக வைக்கப்பட்டு எதிர்வரும் டிசம்பர் மாதம் பௌர்ணமி தினத்தில் வழிபாட்டிற்காக சிவனொளிபாதமலைக்கு மீண்டும் கொண்டு வரப்படவுள்ளமை குறிப்பிடத்தக்கது. R
+
+◼️
+
+[Data](articles/eb287ccd.json)
+
+---
+
+### இலங்கையின் பல பகுதிகளில் மின்தடை
+
+*2024-05-25 07:52:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையின்-பல-பகுதிகளில்-மின்தடை/175-337824) · `ta`
+
+சீரற்ற காலநிலையினால் இலங்கையில் 431, 500 பேர் மின் தடை காரணமாகப் பாதிக்கப்பட்டுள்ளதாக இலங்கை மின்சார சபை பொறியியலாளர் சங்கம் தெரிவித்துள்ளது.
+
+மின் தடை தொடர்பில் நாளாந்தம் அதிகளவான முறைப்பாடுகள் கிடைக்கப் பெறுவதால், அனைத்து வாடிக்கையாளர்களுக்கும் மீள பதிலளிக்க முடியாத நிலை ஏற்பட்டுள்ளதாகவும் அச்சங்கம் தெரிவித்துள்ளது.
+
+கடந்த 4 நாட்களில் 59,400 மின்சார செயலிழப்புச் சம்பவங்கள் பதிவாகியுள்ளதாகவும், கிடைக்கப் பெற்றுள்ள 3300,000ற்கும் அதிகமான முறைப்பாடுகளுக்கு அமைய மின் தடங்கல்களைச் சீரமைக்கும் பணிகளை துரிதப்படுத்தியுள்ளதாக இலங்கை மின்சார சபை பொறியியலாளர் சங்கம் தெரிவித்துள்ளது.
+
+இதன்படி, நேற்றைய தினம் வரையில் 330,000 பேருக்கான மின்சார விநியோகத்தை வழமைக்குக் கொண்டு வந்துள்ளதாக இலங்கை மின்சார சபை பொறியியலாளர் சங்கம் குறிப்பிட்டுள்ளது. R
+
+◼️
+
+[Data](articles/dee11290.json)
+
+---
 
 ### Another superior victory to EUPAN Abeykoon
 
@@ -77,6 +155,24 @@ From time to time in the rest of the island.. The Department further stated that
 [Data](articles/a498fe7d.json)
 
 [Extended Data](ext_articles/a498fe7d.ext.json)
+
+---
+
+### ’ஜனாதிபதி வடக்கு, கிழக்கு அபிவிருத்திக்காக செயற்பட்டார்’
+
+*2024-05-25 02:38:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-வடக்கு-கிழக்கு-அபிவிருத்திக்காக-செயற்பட்டார்/175-337822) · `ta`
+
+ஜனாதிபதி ரணில் விக்கிரமசிங்க பிரதமராக இருந்த காலம் முதல் வடக்கு மற்றும் கிழக்கின் அபிவிருத்திக்காக அர்ப்பணிப்புடன் செயற்பட்டுள்ளார் என  பாராளுமன்ற உறுப்பினர் எம்.ஏ. சுமந்திரன் தெரிவித்தார்.
+
+யாழ். பல்கலைக்கழக மருத்துவ பீடத்தில் நிர்மாணிக்கப்பட்ட மருத்துவ பயிற்சி மற்றும் ஆராய்ச்சி துறை கட்டடத்தை நேற்று முற்பகல் திறந்து வைக்கும் நிகழ்வில் கலந்து கொண்டு உரையாற்றுகையில் எம்.ஏ. சுமந்திரன் இவ்வாறு  குறிப்பிட்டார்.  அவர் மேலும்  உரையாற்றுகையில்,
+
+ஜனாதிபதி ரணில் விக்கிரமசிங்க பிரதமராக இருந்த காலம் முதல் வடக்கு மற்றும் கிழக்கின் அபிவிருத்திக்காக அர்ப்பணிப்புடன் செயற்பட்டுள்ளார். இன்று திறந்து வைக்கப்படும் யாழ்.பல்கலைக்கழகத்தின் இந்த மருத்துவ பீடக் கட்டடம் வடக்கிற்கு மாத்திரமன்றி நாட்டிற்கும் ஒரு நல்ல முதலீடாகும் என சுட்டிக்காட்டலாம்.
+
+மேலும் இது எதிர்காலத்தில் இலங்கையில் நிபுணர்களின் புகலிடமாக மாறும் என நான் நம்புகிறேன். முன்னதாக இச்சபையில் உரையாற்றியவர்கள் கூறியது போல் யாழ்.மாவட்டத்தின் அபிவிருத்தியிலும், மக்களின் அபிவிருத்தியிலும் ஜனாதிபதி விசேட கவனம் செலுத்தியுள்ளார் என்றார். (a)
+
+◼️
+
+[Data](articles/55d89667.json)
 
 ---
 
@@ -2159,125 +2255,5 @@ In the videos shared on social media, residents are seen removing large rocks an
 [Data](articles/2aaed903.json)
 
 [Extended Data](ext_articles/2aaed903.ext.json)
-
----
-
-### The Tamil background gave the inspiration to create new delicious foods - I learned many things from Tamil culture - Britain's Master Chev Champion Pratapan
-
-*2024-05-24 11:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/184368) · `ta`
-
-Tamil chef Brin Pratapan won the British Master Chef 2024, inspired by his cultural heritage. He combines traditional flavors with creativity, attributing his success to his parents' love for food and the rich tastes of Tamil cuisine.
-
-🟩
-
-Tamil veterinarian Brin Pratapan has won the British most popular culinary competition, Master Chew 2024.
-
-In an interview with the Tamil Guardian, he said that he was able to win the Master Chest because of the inspiration to create a combination of bold creative flavors from his Tamil background.
-
-He said his parents were the interest of food and flavor.
-
-Brin Pratapan's father, Gopal, is working in the bank of an engineer.
-
-He said that Tamil culture played an important role in my kitchen.
-
-I have had the opportunity to lead my parents with the best cooks for the rest of my life with a wonderful Tamil flavor.
-
-As for the Tamil background, there is every taste for every taste.
-
-I have learned lessons from my Tamil culture and added them to many of the food I produce, "he told the Tamil Cardian.
-
-◼️
-
-[Data](articles/2944b2bc.json)
-
-[Extended Data](ext_articles/2944b2bc.ext.json)
-
----
-
-### President unveils Clinical Training & Research block at Jaffna university
-
-*2024-05-24 11:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/President-unveils-Clinical-Training-Research-block-at-Jaffna-university/108-283289) · `en`
-
-Colombo, May 24 (Daily Mirror) - President Ranil Wickremesinghe officially inaugurated the long-awaited Clinical Training and Research Block at the Jaffna University Faculty of Medicine this morning.
-
-This new addition is the first significant construction project at the faculty in 46 years.
-
-The state-of-the-art facility, constructed at a cost of Rs. 942 million, aims to host several innovations to benefit patients and support clinical research and training of undergraduate and postgraduate students.
-
-Initially proposed in 2017 with an estimated budget of 700 million Sri Lankan rupees and an expected completion date of 2019, the project was ultimately finished in December 2023 at an approximate cost of 942 million rupees, funded by the Government of Sri Lanka.
-
-The facility was ceremonially opened by the President today with the ceremony also seeing the launch of the Jaffna Regional Collaboration Centre (RCC) in partnership with SingHealth Duke NUS.
-
-◼️
-
-[Data](articles/f74e4055.json)
-
-[Extended Data](ext_articles/f74e4055.ext.json)
-
----
-
-### Red alert issued for heavy rainfall in multiple districts
-
-*2024-05-24 11:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/99411/red-alert-issued-for-heavy-rainfall-in-multiple-districts) · `en`
-
-The Department of Meteorology has issued a ‘Red’ warning for heavy rains for Sabaragamuwa province and in Nuwara-Eliya district today (19).
-
-Due to the southwest monsoon that has established over the island, the prevailing rain and wind conditions are expected to continue further, the Met. Department said.
-
-Very heavy showers of about 150 mm are likely at some places in Sabaragamuwa province and in Nuwara-Eliya district. Heavy showers above 100 mm are likely at some places in Western and North-western provinces and in Kandy, Mannar, Galle and Matara districts, it added.
-
-Meanwhile, the Met. Department also issued an advisory for strong winds in the Western slopes of the central hills and Northern, North-central, Western, Southern and North-western provinces and in Trincomalee district, effective for the next 24 hours.
-
-...
-
-[Data](articles/8e782f53.json)
-
-[Extended Data](ext_articles/8e782f53.ext.json)
-
----
-
-### 7 families in Jaffna
-
-*2024-05-24 11:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/184362) · `ta`
-
-In Jaffna, inclement weather has affected 19 individuals from 7 families across various divisions, causing partial damage to homes. The Deputy Director of the Jaffna District Disaster Management Division highlighted the impact, noting the need to cancel the Sea of the Sea event in Nedundevu due to expected turbulence.
-
-🟩
-
-Deputy Director of the Jaffna District Disaster Management Division, TN Suriyarajah, said that 19 persons belonging to 7 families in Jaffna have been affected by the inclement weather.
-
-Four families in the J/125 Grama Niladhari Division of the Nallur Divisional Secretariat have been affected and a house has been partially damaged.. In the J/191 Grama Niladhari Division, four members of a family have been affected and a house has been partially damaged.
-
-A family belonging to a family in the J/33 Grama Niladhari Division of the Velanai Divisional Secretariat has been partially damaged.
-
-Two members of a family have been affected and a house has been partially damaged in the J/232 Grama Niladhari Division, which belongs to the Tellippalai Divisional Secretariat Division.
-
-Four members of a family have been affected and a house has been partially damaged in the J/66 Grama Niladhari Division, which belongs to the Jaffna Divisional Secretariat Division.
-
-...
-
-[Data](articles/081f8c19.json)
-
-[Extended Data](ext_articles/081f8c19.ext.json)
-
----
-
-### President opens new building for Medical Faculty of Jaffna University
-
-*2024-05-24 11:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196966) · `si`
-
-President Ranil Wickremesinghe inaugurated a new building at Jaffna University's Medical Faculty after 46 years, costing Rs. 942 million.
-
-🟩
-
-President Ranil Wickremesinghe was opened under the patronage of President Ranil Wickremesinghe's new building at the Medical Faculty of the Jaffna University.
-
-New building for the Jaffna University has been constructed 46 years later. 942 million is Rs. 942 million.
-
-◼️
-
-[Data](articles/c7e00ed3.json)
-
-[Extended Data](ext_articles/c7e00ed3.ext.json)
 
 ---

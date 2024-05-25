@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-25 07:55:01**
+As of **2024-05-25 08:07:43**
 
 ## Newspaper Stats
 
@@ -26,81 +26,105 @@ adaderanasinhalalk | 4,177
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,143 (100.0%) of 26,147 articles have been extended.
+26,147 (100.0%) of 26,147 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-25 (Saturday)
 
-### යුපුන් අබේකෝන් ට තවත් සුපිරි ජයක්
+### Another superior victory to EUPAN Abeykoon
 
 *2024-05-25 07:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196984) · `si`
 
-ජර්මනියේ පැවති ඇන්හල්ට් මලල ක්‍රීඩා ශුරතා තරගාවලියේදී පිරිමි මීටර 100 ධාවන ඉසව්වේ ප්‍රථම ස්ථානය දිනා ගැනීමට යුපුන් අබේකෝන් ඊයේ (24) සමත් විය.
+EUPAN Abeykoon triumphs in the Salath Athletics Championships in Germany, securing first place in the UUBAN category. His exceptional speed, qualifying him for the finals, led to his victory in the initial round with a time of 10:15 seconds, showcasing his immense talent.
 
-යුපුන් මූලික වටයේදී තත්පර 10.15 දක්ෂතාවක් වාර්තා කරමින් ප්‍රථම ස්ථානය දිනා අවසන් තරගයට සුදුසුකම් ලැබූ අතර එම කාලය වාර්තා වුණේ යුපුන් මෙම කාලසීමාවේදී දැක් වූ හොඳම දක්ෂතාවය ලෙසය.
+🟩
+
+UUBAN Abeykoon was won by the first place in the Salath Athletics Championships in Germany.
+
+The fasters were first qualified for the final, recorded the first place in the basic round of 1015 seconds, as the most talent was the best talent.
 
 ◼️
 
 [Data](articles/8512362c.json)
 
+[Extended Data](ext_articles/8512362c.ext.json)
+
 ---
 
-### පවතින වැසි සහ සුළං තවදුරටත්
+### Existing rains and winds no longer
 
 *2024-05-25 06:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196983) · `si`
 
-නිරිත දිග මෝසම් තත්ත්වය හේතුවෙන් පවතින වැසි සහ සුළං තවදුරටත් බලාපොරොත්තු වන බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+The Department of Meteorology forecasts heavy rains and strong winds across several provinces, including the Western, Sabaragamuwa, Central, North Western, and Southern regions, with potential gusts exceeding 100mm in areas like Nuwara Eliya, Kandy, Galle, and Matara. Additionally, the Southwest Monsoon is expected to bring occasional showers and thunderstorms, posing a risk of flooding and landslides.
 
-බස්නාහිර, සබරගමුව, මධ්‍යම, වයඹ සහ දකුණු පළාත්වල විටින් විට වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවේ.
+🟩
 
-සබරගමුව පළාතෙත් නුවරඑළිය දිස්ත්‍රික්කයේත් ඇතැම් ස්ථානවල මි.මී. 100 ට වැඩි තද වැසි ඇතිවිය හැක.
+The Department of Meteorology says that the southwest monsoon is expected to be hoping.
 
-බස්නාහිර සහ වයඹ පළාත්වලත් මහනුවර, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල මි.මී. 75ක පමණ තරමක තද වැසි ඇතිවිය හැකි බවද දැනුම් දී තිබේ.
+Showers or thundershowers will occur at times in the Western, Sabaragamuwa, Central, North Western and Southern provinces.
 
-මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවල සහ උතුරු, උතුරු මැද, බස්නාහිර, දකුණු සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය දිස්ත්‍රික්කයේත් විටින් විට හමන පැ.කි.මී. (50-60) ක පමණ තද සුළං ඇතිවිය හැක.
+In some places in the Nuwara Eliya district of Sabaragamuwa Province. Heavy rains can occur at over 100.
 
-දිවයිනේ සෙසු ප්‍රදේශවල විටින් විට හමන පැ.කි.මී. (30-40) ක පමණ තරමක තද සුළං ඇතිවිය හැකි බව එම දෙපාර්තමේන්තුව වැඩිදුරටත් දැනුම් දී තිබේ.
+In some places in the Kandy, Galle and Matara districts in the Western and North Western Provinces and mm.. Heavy showers have been causing rains.
+
+At times, the Trincomalee district, the West, North, North, North Central, North Central, Southern and North Western provinces.. (50-60) can cause strong winds.
+
+From time to time in the rest of the island.. The Department further stated that there are about courageous winds.
 
 ◼️
 
 [Data](articles/a498fe7d.json)
 
+[Extended Data](ext_articles/a498fe7d.ext.json)
+
 ---
 
-### வெசாக் நிகழ்ச்சிகளில் ஜனாதிபதி பங்கேற்பு
+### President's participation in Vesak events
 
 *2024-05-25 02:26:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெசாக்-நிகழ்ச்சிகளில்-ஜனாதிபதி-பங்கேற்பு/175-337821) · `ta`
 
-நாடு முழுவதும் வெசாக் பண்டிகையை கொண்டாடும் வேளையில் ஜனாதிபதி ரணில் விக்கிரமசிங்க கொழும்பில் நடைபெற்ற பல வெசாக் நிகழ்ச்சிகளில் கலந்து கொண்டார்.
+President Ranil Wickremesinghe participated in various Vesak celebrations across Sri Lanka, including the inauguration of the Buddhist Rashmi Vesak Zone at Hunupitiya Gangarama Vihara and launching Vesak Annadhanam at Shankrila Green Ground. He also opened the Vesak Zone by the Peliyagoda Social Development Foundation and the spectacular Vesak posture by the United Buddhist Society of Maradana - Sudhewela United Buddhist Society.
 
-வெசாக் பண்டிகையை முன்னிட்டு கொழும்பு ஹுனுப்பிட்டி கங்காராம விகாரையின் ஏற்பாட்டில் ‘புத்த ரஷ்மி’ வெசாக் வலயம் ஜனாதிபதி ரணில் விக்கிரமசிங்க தலைமையில் நேற்று முன்தினம் ஆரம்பித்து வைக்கப்பட்டது.
+🟩
 
-இதேவேளை, ஷங்கிரிலா பசுமை மைதானத்தில் ஆரம்பிக்கப்பட்ட வெசாக் அன்னதானம் ஜனாதிபதி ரணில் விக்கிரமசிங்கவினால் ஆரம்பித்து வைக்கப்பட்டது.
+President Ranil Wickremesinghe attended several Vesak events in Colombo while celebrating the Vesak festival across the country.
 
-மேலும், பேலியகொட சமூக அபிவிருத்தி அறக்கட்டளை, பேலியகொட நகர சபை மற்றும் வர்த்தக சமூகம் இணைந்து முதன்முறையாக ஏற்பாடு செய்திருந்த வெசாக் வலயத்தை நேற்று முன்தினம் பிற்பகல் ஜனாதிபதி ரணில் விக்கிரமசிங்க திறந்து வைத்தார்.
+Buddhist Rashmi Vesak Zone was inaugurated yesterday by President Ranil Wickremesinghe under the auspices of the Hunupitiya Gangarama Vihara in Colombo on the occasion of the Vesak festival.
 
-இதேவேளை, வெசாக் பண்டிகையை முன்னிட்டு மருதானை - சுதுவெல்ல ஐக்கிய பௌத்த சங்கத்தினால் ஏற்பாடு செய்யப்பட்ட வெசாக் வலயமும் கண்கவர் வெசாக் தோரணமும் ஜனாதிபதி ரணில் விக்ரமசிங்கவினால் நேற்று முன்தினம் பிற்பகல் திறந்து வைக்கப்பட்டது. (a)
+Meanwhile, Vesak Annadhanam, which was started at the Shankrila Green Ground, was launched by President Ranil Wickremesinghe.
+
+President Ranil Wickremesinghe inaugurated the Vesak Zone which was organized by the Peliyagoda Social Development Foundation, the Peliyagoda Urban Council and the business community for the first time yesterday afternoon.
+
+Meanwhile, the Vesak Zone and the spectacular Vesak posture organized by the United Buddhist Society of Maradana - Sudhewela United Buddhist Society were opened yesterday afternoon by President Ranil Wickremesinghe.. (A)
 
 ◼️
 
 [Data](articles/761fa703.json)
 
+[Extended Data](ext_articles/761fa703.ext.json)
+
 ---
 
-### படகு சேவைகள் நிறுத்தம்
+### Boat services stop
 
 *2024-05-25 02:10:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/படகு-சேவைகள்-நிறுத்தம்/175-337820) · `ta`
 
-யாழ்ப்பாணத்தில் இருந்து கடல் கடந்து பயணிக்கும் தீவுப் பகுதிகளுக்கான படகுச் சேவைகள் இன்றும் இடம்பெறமாட்டாது என யாழ். மாவட்ட அனர்த்த முகாமைத்துவப் பிரிவு அறிவித்துள்ளது.
+Due to high winds, boat services to islands from Jaffna are suspended today. This includes Neduntivu, Ezhuwadivu, and Analadeevu, with limited service to Nainaadi.
 
-வளிமண்டலவியல் திணைக்களத்தின்  காலநிலை அறிக்கையின் பிரகாரம் நேற்று 24 ஆம் திகதி கடல் அதிக கொந்தளிப்பாகக் காணப்பட்டதன் காரணமாக பொதுமக்களின் பாதுகாப்புக் கருதி தீவுப் பகுதிகளுக்கான படகுச் சேவைகள் இரத்துச் செய்யப்பட்டன.
+🟩
 
-இதன் பிரகாரம் நெடுந்தீவு, எழுவைதீவு மற்றும் அனலைதீவுக்கான படகுச் சேவைகளே நேற்று முதல்  நிறுத்தப்பட்டன. இந்நிலையில், அதிக காற்றுடன் கூடிய காலநிலை தொடர்வதன் காரணமாக இன்றும் குறித்த 3 தீவுகளுக்குமான படகுச் சேவைகள் இடம்பெறமாட்டாது எனவும் நயினாதீவுக்கான படகுச் சேவைகள் மட்டுப்படுத்தப்பட்ட அளவில் இடம்பெறும் எனவும் யாழ். மாவட்ட அனர்த்த முகாமைத்துவப் பிரிவினரால்  அறிவிக்கப்பட்டுள்ளது. (a)
+Boat services for the islands traveling from Jaffna will not be held today.. The District Disaster Management Division has announced.
+
+According to the Department of Meteorology, the boat services for the island were canceled due to the security of the sea on the 24th of this month.
+
+Accordingly, the ferry services for the Neduntivu, Ezhuwadivu and Analadeevu have been stopped since yesterday. In this case, there will be no ferry services for the 3 islands today due to the continuing of high winds and that the boat services for Nainaadi will be limited.. Notified by the District Disaster Management Division. (A)
 
 ◼️
 
 [Data](articles/9dc93d3e.json)
+
+[Extended Data](ext_articles/9dc93d3e.ext.json)
 
 ---
 

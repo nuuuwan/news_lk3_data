@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-25 19:03:45**
+As of **2024-05-25 19:18:22**
 
 ## Newspaper Stats
 
-*Scraped **26,224** Articles*
+*Scraped **26,226** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,42 +17,86 @@ economynextcom | 1,504
 dailyftlk | 1,533
 adalk | 2,234
 adaderanalk | 3,011
-tamilmirrorlk | 3,058
+tamilmirrorlk | 3,059
 virakesarilk | 4,005
-dailymirrorlk | 4,143
+dailymirrorlk | 4,144
 adaderanasinhalalk | 4,196
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,220 (100.0%) of 26,224 articles have been extended.
+26,224 (100.0%) of 26,226 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-25 (Saturday)
 
-### කොළඹ කඩාවැටෙන දැවැන්ත ගස් ගැන හෙළිදරව්වක්
+### கணவனின் மது கோப்பையில் விஷம் கலந்த மனைவி கைது
+
+*2024-05-25 18:56:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கணவனின்-மது-கோப்பையில்-விஷம்-கலந்த-மனைவி-கைது/175-337835) · `ta`
+
+தனது கணவனின் மது கோப்பையில் விஷம் கலந்து படுகொலைச் செய்த குற்றச்சாட்டில் அவரது மனைவியும் மனைவியின் சகோதரனும் கைது செய்யப்பட்டுள்ளனர்.
+
+பெலியத்த கொஸ்கஹகொட பிரதேசத்தில் வசிக்கும்   மூன்று பிள்ளைகளின் தாயும் (45 வயது), அவருக்கு ஆதரவாக இருந்த அவரது சகோதரரும் இன்று (25) பிற்பகல் கைது செய்யப்பட்டனர்.
+
+தனது கணவரின் மது கோப்பையில் விஷ இரசாயனத்தை ஊற்றி கொலை செய்த குற்றச்சாட்டில் கைது செய்யப்பட்டதாக பெலியத்த பொலிஸார் தெரிவித்தனர்.
+
+சந்தேகநபரின் கணவர் கடந்த 20ஆம் திகதி தனது வீட்டில் மது அருந்திய போது ஏற்பட்ட சுகவீனம் காரணமாக உயிரிழந்துள்ளதாகவும் பிரேத பரிசோதனையில் விஷம் அருந்தி உயிரிழந்துள்ளதாகவும் பொலிஸார் தெரிவித்தனர்
+
+◼️
+
+[Data](articles/c53b7d92.json)
+
+---
+
+### A revelation of the massive trees of Colombo
 
 *2024-05-25 18:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197005) · `si`
 
-පවතින අයහපත් කාලගුණ තත්ත්වයේ හේතුවෙන් කොළඹ ප්‍රදේශයේ කඩාවැටුණු ගස්වලින් බොහෝ සංඛ්‍යාවක් අවදානම් තත්ත්වයේ නොතිබූ ඒවා බවට තොරතුරු අනාවරණය වී ඇති බව කොළඹ මහනගර සභාව පවසයි.
+In Colombo, despite warnings, over 150-year-old trees are at risk of collapse. The Colombo Municipal Council took action to remove branches and trees but faced challenges as 50 trees fell during the southwest monsoon. An investigation found that many trees had rotted at the roots, leading to collapses. The National Building Research Organization is now conducting a special inquiry.
 
-වසර 50ත් 150ත් අතර පැරණි ගස් 200කට ආසන්න සංඛ්‍යාවක් අවදානම් තත්ත්වයේ ඒවා බවට කොළඹ මහනගර සභාව සිදුකළ විමර්ශනයක දී තොරතුරු අනාවරණය විය.
+🟩
 
-එම ගස්වලින් බොහෝ ප්‍රමාණයක් කද දිරායාම හේතුවෙන් කඩාවැටීමේ අවදානමට ලක්වී තිබු ඒවා බව කොළඹ මහනගර සභාව තවදුරටත් සඳහන් කළේය.
+It has been revealed that there have been reports that many of the collapsing trees in Colombo, the Colombo area have not been in danger due to inclement weather.
 
-එලෙස හඳුනාගත් ගස්වලින් ගස් 100කට අධික සංඛ්‍යාවක් කපා ඉවත් කිරීමට පියවර ගත් අතර අනෙකුත් ගස්වල අතු කප්පාදු කිරීමට පියවර ගනු ලැබීය.
+The Colombo Municipal Council was revealed in the investigation of the Colombo Municipal Council that nearly 200 years old and over 150 years of trees were in danger.
 
-කෙසේවෙතත් නිරිත දිග මෝසම් තත්ත්වය සමග පවතින සුළං තත්ත්වය හේතුවෙන් මේ වනවිට කොළඹ මහනගර සීමාව තුළ ගස් 50ක් පමණ කඩා වැටී ඇති බව වාර්තා වෙයි.
+The Colombo Municipal Council further stated that most of those trees were at risk of collapse.
 
-එහෙත් එම කඩා වැටුණු කිසිඳු ගසක් මීට පෙර හඳුනාගත් අවදානම් සහිත තත්ත්වයේ ඒවා නොවන බව කොළඹ මහ නගර සභාව සඳහන් කළේය.
+Steps were taken to remove more than 100 trees from the trees and removed the branches of other trees.
 
-ඒ සම්බන්ධයෙන් සිදුකළ විමර්ශනයක දී අනාවරණය වී ඇත්තේ එම ගස්වලින් බොහෝ සංඛ්‍යාවක් සුළං තත්ත්වය හේතුවෙන් මුලෙන් ඉදිරී ගොස් කඩා වැටී ඇති බවය.
+However, it is reported that about 50 trees have been collapsed due to the windy of the southwest monsoon.
+
+However, the Colombo Municipal Council says that no such tree has been identified before.
+
+The investigation into the matter was revealed that many of the trees have gone to the root and collapsed due to the wind.
+
+Accordingly, the National Building Research Organization has informed the National Building Research Organization.
 
 ...
 
 [Data](articles/157bda71.json)
+
+[Extended Data](ext_articles/157bda71.ext.json)
+
+---
+
+### Udathalawinna Quazi court judge arrested for soliciting bribe of Rs. 4,500
+
+*2024-05-25 18:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Udathalawinna-Quazi-court-judge-arrested-for-soliciting-bribe-of-Rs-4-500/108-283351) · `en`
+
+The Judge of the Udathalawinna Quazi Court was arrested for soliciting and accepting a bribe of Rs. 4,500 to issue the divorce certificate of the judgement issued by the Quazi Court.
+
+The arrest was made by officers of the Commission to Investigate Allegations of Bribery or Corruption.
+
+The judge was arrested based on a complaint by a female resident of Rajawella.
+
+The suspect is to be produced before the Teldeniya Magistrate's Court.
+
+◼️
+
+[Data](articles/e28786ee.json)
 
 ---
 
@@ -70,25 +114,33 @@ Meanwhile, authorities also notify motorists not to exceed the speed limits disp
 
 [Data](articles/26d98ecd.json)
 
+[Extended Data](ext_articles/26d98ecd.ext.json)
+
 ---
 
-### කොළඹ - නුවර ප්‍රධාන මාර්ගයේ පහළ කඩුගන්නාව ගැන තීරණයක්
+### Decision on Colombo-Kandy main road
 
 *2024-05-25 18:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197004) · `si`
 
-කොළඹ - නුවර ප්‍රධාන මාර්ගයේ පහළ කඩුගන්නාව ප්‍රදේශයේ මාර්ගයට ඉහළින් ඇති අවදානම් සහිත විශාල ගල් කිහිපයක් ඉවත් කිරීමට ඉදිරි දින කිහිපයේදී සිදු කිරීමට නියමිතය.
+Following a site inspection post a tree collapse, it's decided to remove risky rocks along the Colombo-Kandy main road over the next few days. Drivers are advised to use alternate routes due to safety concerns.
 
-ඒ, හේතුවෙන් මෙම මාර්ගය භාවිත කරන රියදුරන්ට විකල්ප මාර්ග භාවිත කරන ලෙස රාජ්‍ය අමාත්‍ය කනක හේරත් මහාතා රියදුරන්ගෙන් ඉල්ලා සිටී.
+🟩
 
-රාජ්‍ය අමාත්‍යවරයා ඒ බව පැවසුවේ අද එම ස්ථානට ගොස් ස්ථානීය පරික්ෂණයක් සිදුකිරීමෙන් අනතුරුවය.
+The next few days will be taken to remove several risky stones above the Colombo-Kandy main road.
 
-පසුගිය 23 වනදා මෙම මාර්ගයට විශාල ගසක් කඩාවැටීමෙන් පසු එම ප්‍රදේශය පිළිබඳ පරීක්ෂණය සිදුකර තිබුණි.
+As a result, Minister of Public Minister Kanaka Herath calls for highways to use alternative routes to drivers using this road.
 
-එහිදී නිරික්ෂණය වී තිබුණේ මාර්ගයට ඉහළින් දැඩි අවදානම් සහිත ගල් කුට්ටි කිපයක් හා විශාල ගස් කිහියක්ද අවදානම් තත්ත්වයේ ඇති බවය.
+The State Minister said this after conducting a site inspection.
+
+The investigation was carried out on the area after a large tree collapsed on the 23rd.
+
+It was observed that there was a rich in rock and a large trees in high risk rock above the road.
 
 ◼️
 
 [Data](articles/33c40742.json)
+
+[Extended Data](ext_articles/33c40742.ext.json)
 
 ---
 
@@ -107,6 +159,8 @@ Colombo traffic plan - Police report by Adaderana Online on Scribd
 ◼️
 
 [Data](articles/190f22bc.json)
+
+[Extended Data](ext_articles/190f22bc.ext.json)
 
 ---
 
@@ -2251,41 +2305,5 @@ The CBSL recently launched its publication, “Financial Literacy Roadmap of Sri
 [Data](articles/ecefb239.json)
 
 [Extended Data](ext_articles/ecefb239.ext.json)
-
----
-
-### Whither The National Education Policy Framework Of Sri Lanka?
-
-*2024-05-24 21:46:35* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/whither-the-national-education-policy-framework-of-sri-lanka/) · `en`
-
-...
-
-[Data](articles/c0ffe754.json)
-
-[Extended Data](ext_articles/c0ffe754.ext.json)
-
----
-
-### National program in Singapore Model for Disaster Control
-
-*2024-05-24 21:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196980) · `si`
-
-Singapore-inspired disaster management program announced in Sri Lanka, focusing on weather-related incidents. Defense Minister Pinhase Bandara Tennakoon highlighted the need for a national policy on tree planting after recent fatalities and injuries from falling trees. The initiative aims to enhance public awareness and involve authorities like the Road Development Authority and Local Authorities.
-
-🟩
-
-Defense Minister Pinhase Bandara Tennakoon says that it is planned to launch a national program in the Singapore Model to control accidents and disasters with inclement weather.
-
-He added that the support of the Road Development Authority and Local Authorities.
-
-He was speaking at a media briefing held in Colombo today (24).
-
-6 deaths due to trees fall. 11 injured. We have observed an increase in trees. There is no policy to plant trees currently in our country. We understand that it is appropriate to set up a national policy. We hope to study Singapore model. Accordingly, we hope to educate the public about the trees to be planted on either side of the road in the next period.. Has been handed over to the National Building Research Institute. A special committee will help you to set up the national stupid.
-
-...
-
-[Data](articles/9aaf974a.json)
-
-[Extended Data](ext_articles/9aaf974a.ext.json)
 
 ---

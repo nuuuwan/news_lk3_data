@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-25 08:53:26**
+As of **2024-05-25 09:04:25**
 
 ## Newspaper Stats
 
-*Scraped **26,153** Articles*
+*Scraped **26,154** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,417
 economynextcom | 1,503
 dailyftlk | 1,533
 adalk | 2,230
-adaderanalk | 2,998
+adaderanalk | 2,999
 tamilmirrorlk | 3,052
 virakesarilk | 3,992
 dailymirrorlk | 4,128
@@ -26,11 +26,31 @@ adaderanasinhalalk | 4,178
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,152 (100.0%) of 26,153 articles have been extended.
+26,153 (100.0%) of 26,154 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-25 (Saturday)
+
+### Yupun Abeykoon wins at Anhalt Athletic Championship
+
+*2024-05-25 08:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/99421/yupun-abeykoon-wins-at-anhalt-athletic-championship) · `en`
+
+Sri Lanka’s Yupun Abeykoon has won first place in the Men’s 100m event at the Anhalt Athletic Championship 2024 in Germany.
+
+The Sri Lankan sprinter took first place with a timing of 10.16 seconds (wind+0.3) in the final on Friday.
+
+He had secured a place in the final after finishing first in the Heat 1 as well with a timing of 10.15 seconds (wind 0.0), a season best so far for the sprinter.
+
+Poland’s Dominik Kopeć (10.21) came in second while Omani sprinter Ali Anwar Ali Al-Balushi (10.25) took bronze.
+
+The “Anhalt 2024 - Internationales Leichtathletik Meeting,” a World Athletics Continental Tour Bronze level series, took place at the Paul-Greifzu-Stadion in Dessau, Germany.
+
+◼️
+
+[Data](articles/4b16b89e.json)
+
+---
 
 ### Two youth dies in myself
 
@@ -178,21 +198,27 @@ From time to time in the rest of the island.. The Department further stated that
 
 ---
 
-### மழையால் டெங்கு பரவும் அபாயம்
+### The risk of spreading dengue by rain
 
 *2024-05-25 02:45:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மழையால்-டெங்கு-பரவும்-அபாயம்/175-337823) · `ta`
 
-நாட்டில் நிலவும் மழையுடனான காலநிலை காரணமாக டெங்கு நோய் பரவும் அபாயம் ஏற்பட்டுள்ளதாக டெங்கு நோய் கட்டுப்பாட்டு பிரிவு தெரிவித்துள்ளது.
+Rainy weather increases dengue spread; 24,227 cases identified this year, including 2,234 in April and 1,954 in May.
 
-நாட்டில் இந்த வருடத்தில் இதுவரையான காலப்பகுதியில் 24 ஆயிரத்து 227 டெங்கு நேயாளர்கள் அடையாளம் காணப்பட்டுள்ளனர் என டெங்கு நோய் கட்டுப்பாட்டு பிரிவு விடுத்துள்ள அறிக்கையில் தெரிவிக்கப்பட்டுள்ளது.
+🟩
 
-அந்த அறிக்கையின்படி, கடந்த ஏப்ரல் மாதத்தில் 2 ஆயிரத்து 234 டெங்கு நோயாளர்கள் பதிவாகியிருந்தனர். இந்த மாதத்தின் இதுரையான காலப்பகுதியில் 1,954 டெங்கு நோயாளர்கள் அடையாளம் காணப்பட்டுள்ளனர்.
+The Dengue Control Unit said that there is a risk of spreading dengue due to rainy weather in the country.
 
-இந்த மாவட்டத்தில் 5 ஆயிரத்து 183 டெங்கு நோயாளர்கள் அடையாளம் காணப்பட்டுள்ளனர் என அந்த அறிக்கையில் குறிப்பிடப்பட்டுள்ளது. (a)
+According to a statement issued by the Dengue Regulatory Unit, 24 thousand 227 dengue leaders have been identified in the country so far this year.
+
+According to the report, 2 thousand 234 dengue patients were reported last April. 1,954 dengue patients have been identified during this period this month.
+
+According to the report, 5 thousand 183 dengue patients have been identified in the district. (A)
 
 ◼️
 
 [Data](articles/9ecc3060.json)
+
+[Extended Data](ext_articles/9ecc3060.ext.json)
 
 ---
 
@@ -2257,23 +2283,5 @@ The Railway Department said that today's special train service has been canceled
 [Data](articles/e6f9093e.json)
 
 [Extended Data](ext_articles/e6f9093e.ext.json)
-
----
-
-### Fonseka as independent presidential candidate…!; Who are going to vote?
-
-*2024-05-24 12:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/184365) · `ta`
-
-After the 2009 end of Sri Lanka's civil war, tensions flared between military leaders and politicians. Sarath Fonseka, a popular figure credited with the war's victory, faced backlash from the Rajapaksa brothers, leading to his demotion and eventual run for president against them.
-
-🟩
-
-When the war against the LTTE ended in 2009, the rival attitude of who set up the Tigers' strategies arose to the Rajapakse brothers and army commander Sarath Fonseka.. Soldiers who sat on the field more than the officers who sat in the refrigerator and waited for the country. Army Commander Sarath Fonseka said they should be honored with them. He indirectly pointed out Gotabhaya Rajapaksa, the Secretary of the Ministry of Defense.. The Sinhalese Buddhist people of the country thought that Sarath Fonseka was responsible for the victory of the war. The Rajapaksa brothers, who thought he would be more famous than Mahinda, resigned from the post of Army Commander, raised to the post of security governing leader with less power and status.. It was only then that Fonseka announced his retirement and went on the presidential election against the Rajapaksa.
-
-◼️
-
-[Data](articles/50ef9e31.json)
-
-[Extended Data](ext_articles/50ef9e31.ext.json)
 
 ---

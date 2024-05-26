@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-26 19:33:54**
+As of **2024-05-26 19:51:16**
 
 ## Newspaper Stats
 
-*Scraped **26,379** Articles*
+*Scraped **26,381** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,509
 dailyftlk | 1,533
 adalk | 2,244
 adaderanalk | 3,028
-tamilmirrorlk | 3,095
+tamilmirrorlk | 3,097
 virakesarilk | 4,026
 dailymirrorlk | 4,162
 adaderanasinhalalk | 4,225
@@ -26,11 +26,23 @@ adaderanasinhalalk | 4,225
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,378 (100.0%) of 26,379 articles have been extended.
+26,379 (100.0%) of 26,381 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-26 (Sunday)
+
+### பிரான்ஸ் தூதுவர் காலமானார்
+
+*2024-05-26 18:52:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரான்ஸ்-தூதுவர்-காலமானார்/175-337931) · `ta`
+
+இலங்கை மற்றும் மாலைதீவுக்கான பிரான்ஸ் தூதுவர் ஜீன் பிரான்சுவா பேக்டெட் இன்று (26) பிற்பகல் ராஜகிரியவில் உள்ள அவரது உத்தியோகபூர்வ இல்லத்தில் காலமானதாக பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/991c05bf.json)
+
+---
 
 ### News who shook the hearts of the terrible landslide
 
@@ -55,6 +67,26 @@ More than 150 houses have been completely buried.
 [Data](articles/8585bf4c.json)
 
 [Extended Data](ext_articles/8585bf4c.ext.json)
+
+---
+
+### 61,000க்கும் அதிகமான மின்துண்டிப்பு முறைப்பாடுகள் பதிவு
+
+*2024-05-26 18:43:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/61-000க்கும்-அதிகமான-மின்துண்டிப்பு-முறைப்பாடுகள்-பதிவு/175-337930) · `ta`
+
+இலங்கை மின்சார சபை இன்று பிற்பகல் 2 மணிக்குள் 61,000க்கும் அதிகமான மின் தடை முறைப்பாடுகளைப் பதிவு செய்துள்ளது.
+
+மே 21 மற்றும் 26 க்கு இடைப்பட்ட காலப்பகுதியில் கடந்த ஆறு நாட்களில் 467,500 க்கும் மேற்பட்ட நுகர்வோருக்கு மின்சாரம் துண்டிக்கப்பட்டதைத் தொடர்ந்து முறைப்பாடுகள் கிடைத்ததாக அவர்கள் தெரிவித்தனர்.
+
+அதன்படி, இன்று பிற்பகல் 2 மணிக்குள்ளாக சுமார் 26,700 மின் துண்டிப்புகள் சீர்செய்யப்பட்டு 425,500 நுகர்வோருக்கு மின்சாரம் வழங்கப்பட்டுள்ளது.
+
+பாதிக்கப்பட்ட அனைத்து நுகர்வோருக்கும் மின்சாரத்தை மீட்டெடுக்க CEB நிர்வாகமும் சேவை ஊழியர்களும் 24 மணி நேரமும் உழைத்து வருகின்றனர்.
+
+இருப்பினும், வெள்ளிக்கிழமை (மே 24) வரை, 59,400 க்கும் மேற்பட்ட மின் முறிவு முறைப்பாடுகள் பதிவாகியுள்ளன, இதன் விளைவாக மே 21 மற்றும் 24 க்கு இடைப்பட்ட காலத்தில் 431,500 க்கும் மேற்பட்ட நுகர்வோருக்கு மின் தடை ஏற்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/f4e5b948.json)
 
 ---
 
@@ -2223,51 +2255,5 @@ Retired High Court Judge CV Wigneswaran, the leader of the Tamil People's Nation
 [Data](articles/29b732d5.json)
 
 [Extended Data](ext_articles/29b732d5.ext.json)
-
----
-
-### Control for abortion pills
-
-*2024-05-26 08:45:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/கருக்கலைப்பு-மாத்திரைகளுக்கு-கட்டுப்பாடு/50-337861) · `ta`
-
-In Louisiana, a bill restricting abortion pills has passed, with Governor Jeb Landeri's approval. The law classifies these pills as dangerous, leading to potential 5-year prison sentences for suppliers without a doctor's recommendation. This move has garnered support from various factions.
-
-🟩
-
-It has been announced that the pill will be sentenced to five years in prison without doctors' recommendation.
-
-The bill on restrictions on these pills was filed in the Louisiana Provincial Legislative Assembly.
-
-Governor Jeb Landeri approved the success of the bill successfully. These two pills are included in the list of dangerous products.
-
-Therefore, the pill suppliers have been sentenced to 5 years in prison without doctors' recommendation letter.. Various parties are supporting this.
-
-◼️
-
-[Data](articles/8290fbf0.json)
-
-[Extended Data](ext_articles/8290fbf0.ext.json)
-
----
-
-### 7 Bachlang children killed in hospital
-
-*2024-05-26 08:40:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மருத்துவமனையில்-பயங்கர-தீ-விபத்து-7-பச்சிளங்-குழந்தைகள்-பலி/175-337860) · `ta`
-
-A devastating fire broke out in a children's hospital on Saturday night, killing 7 children and injuring others. Firefighters battled the blaze for hours before it was contained. Additionally, a separate fire incident in Gujarat resulted in 27 fatalities, adding to the tragedy.
-
-🟩
-
-Children's Hospital caught fire on Saturday (25) at 11.32 pm. Upon receiving information about the fire, the firefighters were working on extinguishing the fire.
-
-Was brought under fire for several hours. With 12 children rescued from the hospital, 7 children died. All children are being treated intensively. The cause of the fire has not yet been detected.
-
-27 people were killed in a fire in Gujarat on Saturday (25). The tragedy of the tragic event has caused a shock to the death of 7 children in the Delhi Hospital.
-
-◼️
-
-[Data](articles/7eecd0a2.json)
-
-[Extended Data](ext_articles/7eecd0a2.ext.json)
 
 ---

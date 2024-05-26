@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-26 08:33:59**
+As of **2024-05-26 08:52:52**
 
 ## Newspaper Stats
 
-*Scraped **26,267** Articles*
+*Scraped **26,269** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,61 @@ islandlk | 1,431
 economynextcom | 1,505
 dailyftlk | 1,533
 adalk | 2,235
-adaderanalk | 3,015
+adaderanalk | 3,016
 tamilmirrorlk | 3,068
 virakesarilk | 4,006
 dailymirrorlk | 4,146
-adaderanasinhalalk | 4,204
+adaderanasinhalalk | 4,205
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,264 (100.0%) of 26,267 articles have been extended.
+26,267 (100.0%) of 26,269 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-26 (Sunday)
+
+### 6 newborns killed after major fire at Delhi children’s hospital
+
+*2024-05-26 08:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/99439/6-newborns-killed-after-major-fire-at-delhi-childrens-hospital) · `en`
+
+#WATCH | Delhi: A massive fire broke out at a New Born Baby Care Hospital in Vivek Vihar As per a Fire Officer, Fire was extinguished completely, 11-12 people were rescued and taken to hospital and further details are awaited.(Video source - Fire Department) https://t.co/lHzou6KkHH pic.twitter.com/pE95ffjm9p— ANI (@ANI) May 25, 2024
+
+As many as six newborns have lost their lives after a massive fire broke out at a New Born Baby Care Hospital in Delhi’s Vivek Vihar in the late hours of Saturday.
+
+According to the Delhi Fire Department, a total of 12 children were rescued, out of which six have died, one is on the ventilator and five are admitted to the hospital.
+
+The rescued newborns have been shifted to East Delhi Advance NICU hospital.
+
+On information, police officials and firefighters reached the spot and doused the fire.
+
+...
+
+[Data](articles/a1412376.json)
+
+---
+
+### නිවසක් මතට ගසක් කඩා වැටී කාන්තාවක් මරුට
+
+*2024-05-26 08:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197015) · `si`
+
+අයහපත් කාලගුණ තත්ත්වය හේතුවෙන් නිවසක් මතට ගසක් කඩාවැටී එයට යටවීමෙන් කාන්තාවක් මියගොස් තිබේ.
+
+එම අනතුරින් තවත් කාන්තාවක් හා පිරිමි පුද්ගලයෙක් තුවාල ලබා රෝහල් ගත කර ඇති බව පොලීසිය පවසයි
+
+ඊයේ (25) රාත්‍රී කාලයේ හපුතලේ පොලිස් වසමේ පංකැටිය ප්‍රදේශයේදී එම අනතුර සිදුව ඇත.
+
+මියගොස් ඇත්තේ, පංකැටිය, හපුතලේ ප්‍රදේශයේ පදිංචිව සිටි 65 හැවිරිදි කාන්තාවකි.
+
+තුවාලකරුවන් දියතලාව රෝහලේ නේවාසිකව ප්‍රතිකාර ලබන අතර හපුතලේ පොලීසිය වැඩිදුර විමර්ශ සිදුකරයි.
+
+◼️
+
+[Data](articles/3820a029.json)
+
+---
 
 ### Heavy showers above 100mm expected in parts of the island
 
@@ -51,6 +91,8 @@ Fairly strong winds of about 30-40 kmph can be expected at times elsewhere of th
 ◼️
 
 [Data](articles/d37c25ab.json)
+
+[Extended Data](ext_articles/d37c25ab.ext.json)
 
 ---
 
@@ -2199,61 +2241,5 @@ The inauguration of the Centre of Excellence for Women’s Health Services today
 [Data](articles/8b47b7a1.json)
 
 [Extended Data](ext_articles/8b47b7a1.ext.json)
-
----
-
-### There is no indication that Israel will accept the ruling of the International Court of Justice - the BBC
-
-*2024-05-25 10:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/184433) · `ta`
-
-Israel shows no sign of accepting the International Court of Justice's order to halt attacks on Rafa, despite criticism from friends of PM Netanyahu and fears of safety for former spokesperson Nabil Salem. The BBC reports ongoing military action amidst international legal scrutiny.
-
-🟩
-
-The BBC has reported that there are no signs that Israel will accept it, but the International Court of Justice has ordered the immediate stopping of the attack on Rafa.
-
-The BBC has said that Israel's expectation that the International Court of Justice should not order its military action is necessary for military action to defeat Hamasin.
-
-However, there are no indications that Israel will change its path by accepting the ruling of the International Court of Justice.
-
-Friends of Prime Minister Benjamin Netanyaku have expressed furious over the ruling of the International Court of Justice.
-
-Former Israeli government spokesman said that if one of the International Court of Justice, Nawabsalam Lebanon, ruled on behalf of Israel, he would not be able to safely go to his country.
-
-The BBC said the Israeli tanks were continuing to improve within Rafa as the International Court of Justice was issued.
-
-...
-
-[Data](articles/aa5c5a8d.json)
-
-[Extended Data](ext_articles/aa5c5a8d.ext.json)
-
----
-
-### Upcountry train runs is normal
-
-*2024-05-25 09:52:34* · [`adalk`](https://www.ada.lk/breaking_news/උඩරට-දුම්රිය-ධාවනය-සාමාන්‍ය-පරිදි/11-409816) · `si`
-
-Due to bad weather, train services between Nawalapitiya, Badulla, and Colombo have been temporarily suspended to prevent tree falls and communication disruptions. All Kandyan Railway line trains were cancelled yesterday. The service from Pettah to Badulla and vice versa is operational. Visibility issues may affect railway drivers. Train operations are expected to resume during the long vacation period.
-
-🟩
-
-The Nawalapitiya Railway Control Room, Badulla and Colombo, temporary due to the influence of the inclement weather, the Nawalapitiya Railway Control Room said that the risk of the fall of the trees and systems and communication interrupts.
-
-All trains who were due to run on the Kandyan Railway line were canceled yesterday morning.
-
-The Railway Control Room stated that the train to travel from Pettah to Badulla to Badulla has also launched a railway from Badulla to Colombo.
-
-Meanwhile, the railway drivers will not be clearly visible for the railway drivers, as the train services are clearly visible, as the train travel is clearly invisible, as the train travel is clearly visible, as the train traveling is clearly visible, as the train traveling is clearly visible..
-
-The railway station is also found in the area of Archkku Naviya Balama, Demodara Haputale these days.
-
-It is said that the train is largely expected to travel by train with the long vacation.
-
-◼️
-
-[Data](articles/67e6cc61.json)
-
-[Extended Data](ext_articles/67e6cc61.ext.json)
 
 ---

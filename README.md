@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-26 14:03:47**
+As of **2024-05-26 14:18:39**
 
 ## Newspaper Stats
 
-*Scraped **26,321** Articles*
+*Scraped **26,323** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,42 +19,64 @@ adalk | 2,240
 adaderanalk | 3,022
 tamilmirrorlk | 3,085
 virakesarilk | 4,008
-dailymirrorlk | 4,155
+dailymirrorlk | 4,157
 adaderanasinhalalk | 4,215
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,320 (100.0%) of 26,321 articles have been extended.
+26,321 (100.0%) of 26,323 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-26 (Sunday)
 
-### කැලණි සහ කළු ගංගා අවදානම් මට්ටමට
+### To Kelani and Black River risks
 
 *2024-05-26 13:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197025) · `si`
 
-කැලණි සහ කළු ගංගාවල ධාරා ප්‍රදේශ වෙත අද දිනයේ අධික වැසි ලැබුණහොත් ගංවතුර තත්ත්වයක් ඇතිවීමේ අවධානමක් පවතින බව වාරිමාර්ග දෙපාර්තමේන්තුව පවසයි.
+Floods risk in Kelani and Kalu Runawala due to increased river levels and heavy rainfall exceeding 100mm. Southwest monsoon affects several districts, causing eight deaths and disrupting power in Aranayaka. Landslide warnings issued in Kalutara and Ratnapura; 45,344 people affected, 2,797 houses partially damaged.
 
-වාරිමාර්ග දෙපාර්තමේන්තුවේ ජල විද්‍යා හා ආපදා කළමනාකරණ අංශයේ අධ්‍යක්ෂ ඉංජිනේරු spc සුගීෂ්වර මහතා මේ බව සඳහන් කළේය.
+🟩
 
-එහිදී වැඩිදුරටත් අදහස් දැක්වූ සුගීෂ්වර මහතා පැවසුවේ කළු සහ කැළණි ගංගාවල ඉහළ ප්‍රදේශවල පහත්බිම්වල වෙසෙන ජනතාව අවධානයෙන් පසුවිය යුතු තත්ත්වය දක්වා ගංගාවල ජල මට්ටම ඉහළගොස් ඇති බවය.
+The Department of Irrigation says that there is a risk of floods in Kelani and Kalu Runawala.
 
-අද දිනය තුළදී මිලිමීටර් 100ට වැඩි තද වැසි ඇතිවුවහොත් එම ගංගා ආශ්‍රිතව ගංවතුර තත්ත්වය ඇතිවිය හැකි බවද ඒ මහතා පවසයි.
+The Director of the Irrigation Department of the Irrigation Department (Irrigation Department) Mr. SPC Suesshwara made this statement.
 
-මේ අතර නිරිතදිග මෝසමේ බලපෑම දිවයිනේ දිස්ත්‍රික්ක කිහිපයකට තවදුරටත් එල්ල වෙමින් තිබේ. ‍
+Speaking further Mr. Sugshwara added that the water levels of the rivers have increased the treasure of the people of Kalu and Kelani River.
 
-අයහපත් කාලගුණික තත්ත්වයෙන් සිදුව ඇති පුද්ගල මරණ සංඛ්‍යාව 08ක් දක්වා ඉහළ ගොස් ඇති අතර ඒ අතරින් මරණ 7ක්ම සිදුව ඇත්තේ ගස්කඩා වැටීම්වලිනි.
+He said heavy showers over 100 mm above 100 mm today.
 
-කෑගල්ල අරණායක මාවනැල්ල ප්‍රධාන මාර්ගයේ ජලසම්පාදන මණ්ඩලය අසළ පිහිටි කොස් ගසක කොටසක් ට්‍රාන්ෆෝමරයක් මතට කඩාවැටී තිබේ.
+Meanwhile, the influence of the southwest monsoon is still underway to several districts in the island. ‍
 
-මේ හේතුවෙන් අරණායක ප්‍රදේශයටම විදුලිය විසන්ධිවී ඇති බව ප්‍රදේශවාසීන් පවසයි.
+The number of deaths due to inclement weather has risen to eight and seven deaths have occurred in treeskada fells.
+
+A portion of a jack tree near the Aranayaka Mawanella main road is collapsed on a transformer.
+
+Residents of the area say that electricity has been disconnected from Aranayaka.
+
+The Disaster Management Center (DMC) said that the landslide warnings have been released in Kalutara and Ratnapura districts in Kalutara, Gampaha, Gampaha.
 
 ...
 
 [Data](articles/ed1acc00.json)
+
+[Extended Data](ext_articles/ed1acc00.ext.json)
+
+---
+
+### ’Leopard Tales’ exhibition unveiled
+
+*2024-05-26 13:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Leopard-Tales-exhibition-unveiled/110-283363) · `en`
+
+In a celebration of Sri Lanka's rich wildlife heritage, the Department of National Museums, in collaboration with Yala Leopard Diary, Yala Leopard Diary - Block 5, Leopards of Horton Plains, Wilpattu Leopard Diary, and Kumana Leopard Diary, organized an exquisite photographic exhibition titled "Leopard Tales - Exploring Sri Lanka’s Wilderness" at the at the Department of National Museums.
+
+The inauguration ceremony, held on May 17th, 2024, marked the opening of the exhibition. From May 18th to May 27th, 2024, visitors are welcomed to explore this captivating display of photography at the Colombo National Museum, from 10:00 am to 5:00 pm daily. Pix by Kushan pathiraja.
+
+◼️
+
+[Data](articles/06acccc6.json)
 
 ---
 
@@ -2255,21 +2277,5 @@ With the help of the Colombo Municipal Council and the Colombo Fire Service Depa
 [Data](articles/f3d7f508.json)
 
 [Extended Data](ext_articles/f3d7f508.ext.json)
-
----
-
-### First road completed under 1,500 km renovation project vested with public
-
-*2024-05-25 18:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/First-road-completed-under-1-500-km-renovation-project-vested-with-public/108-283346) · `en`
-
-Colombo, May 25 (Daily Mirror) - The first road project under the 1,500-kilometre road renovation project was vested with the public under the patronage of Transport, Highways Minister Bandula Gunawardena.
-
-The 1,500-kilometre road renovation project was started in 2024. Under the project, the Veniwelakola School Road, Polgasovita (1.650 km) was carpeted and handed over to the public today.
-
-◼️
-
-[Data](articles/2e0772cb.json)
-
-[Extended Data](ext_articles/2e0772cb.ext.json)
 
 ---

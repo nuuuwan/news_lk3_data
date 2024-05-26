@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-26 21:53:19**
+As of **2024-05-26 22:05:29**
 
 ## Newspaper Stats
 
-*Scraped **26,400** Articles*
+*Scraped **26,403** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,74 @@ adalk | 2,247
 adaderanalk | 3,028
 tamilmirrorlk | 3,097
 virakesarilk | 4,034
-dailymirrorlk | 4,166
-adaderanasinhalalk | 4,229
+dailymirrorlk | 4,167
+adaderanasinhalalk | 4,231
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,400 (100.0%) of 26,400 articles have been extended.
+26,400 (100.0%) of 26,403 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-26 (Sunday)
+
+### ලෝකෙම හදවත් වසඟයට ගත් නිර්මාණකරුවෙකු දිවියෙන් සමුගනී
+
+*2024-05-26 21:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197041) · `si`
+
+ඩිස්නි චිත්‍රපට සඳහා ගීත රචනා කළ රිචඩ් එම් ෂර්මන් අභාවප්‍රාප්ත වී තිබේ.
+
+වයෝවෘදභාවය සමග ඇති වූ රෝගී තත්ත්වයන් හේතුවෙන් මිය යනවිට ඔහු 95 වැනි වියේ පසුවිය.
+
+රිචඩ් එම් ෂර්මන්, මීට පෙර නැසීගිය ඔහුගේ සහෝදරයා වන රෝබට් ෂර්මන් සමඟ ඩිස්නි හි ගීත 150 කට වැඩි ප්‍රමාණයක් රචනා කර තිබේ.
+
+"Mary Poppins" නම් ඩිස්නි චිත්‍රපටය සඳහා ෂර්මන් සහෝදරයන් නිර්මාණය කළ ගීත සඳහා 1965 දී ඔස්කාර් සම්මාන දෙකක් ද හිමිව ඇත.
+
+සහෝදරයන් දෙදෙනාගේ නිර්මාණ අතර Jungle Book චිත්‍රපටයේ Trust in Me ගීතය සහ Chitty Chitty Bang Bang චිත්‍රපටයේ Truly Scrumptious නම් ගීතය ප්‍රධාන වේ.
+
+ෂර්මන් සහෝදරයන්ට 2008 වසරේ දී එක්සත් ජනපද ජාතික කලා පදක්කම ද හිමිව තිබේ.
+
+◼️
+
+[Data](articles/93452f94.json)
+
+---
+
+### මෙවර IPL කිරුළට 114ක ඉලක්කයක්
+
+*2024-05-26 21:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197040) · `si`
+
+IPL තරගාවලියේ අවසන් තරගයේ කාසියේ වාසිය හිමිකරගෙන ප්‍රථමයෙන් පන්දුවට පහරදුන් හයිද්‍රාබාද් කණ්ඩායම පන්දුවාර 18 යි පන්දු 3 කදී සියල්ලන් දැවී ලකුණු 113 ක් රැස්කළේය.
+
+ඒ අනුව ජයග්‍රහණය සඳහා  කොල්කටා කණ්ඩායමට හිමිව ඇත්තේ ලකුණු 114ක ඉලක්කයකි.
+
+◼️
+
+[Data](articles/3f38e5f6.json)
+
+---
+
+### Priyantha stripped of Silver from World Para Games
+
+*2024-05-26 21:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Priyantha-stripped-of-Silver-from-World-Para-Games/108-283374) · `en`
+
+Colombo, May 26 (Daily Mirror) - Sri Lankan Para athlete Dinesh Priyantha’s Silver Medal was stripped of the 11th World Para Athletic Championships 2024, in Kobe, Japan.
+
+The Sri Lanka Paralympics Gold Medallist finished second in the Men’s F-46 javelin throw event with an effort of 64.59m but following a protest, he was stripped of the medal by the International Paralimpic Committee.
+
+Priyantha was disqualified and according to medical experts who conducted a re-classification, Priyantha no longer qualifies for paralympic sports and will not be eligible for any of the disability categories.
+
+A six-member Sri Lankan contingent participated at the World Para Athletic Championships, which was conducted as a pre-runner for the 2024 Paris Paralympic Games with the participation of 1,078 athletes from 103 countries.
+
+Meanwhile, Sri Lanka finished with one Silver Medal and two Bronze Medals at the World Para Athletic Championships.
+
+...
+
+[Data](articles/b592c867.json)
+
+---
 
 ### Rimal is another
 
@@ -2203,77 +2259,5 @@ But he was also a ringleader in a gang which smuggled Sri Lankans into several E
 [Data](articles/8dede13b.json)
 
 [Extended Data](ext_articles/8dede13b.ext.json)
-
----
-
-### A warning of strong winds
-
-*2024-05-26 11:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197020) · `si`
-
-The Meteorological Department warns of strong winds across various regions including the central hills' western slopes, North-Central, South Western Province, and Trincomalee. Expect gusts of 50-60 km/h frequently, especially in the central hills and several provinces. The warning was issued at 10:30 am and will be effective from 10:00 am tomorrow.
-
-🟩
-
-The Department of Meteorological Department has issued a warning of strong winds.
-
-The announcement issued at 10.30 am will be found to 10:00 am tomorrow.
-
-The Meteorological Department says that the non-slopes are in the western slopes of the central hills and the North-Central, South Western Province and Trincomalee.
-
-Southwide monsoon winds, in the central hills and the Central Mountains and the North, North, North, Western, Southern and North Western Provinces and in the Trincomalee District.. Strong winds can occur 50-60.
-
-Over 30-40 times in the rest of the island, there will be 30-40 times strong winds.
-
-◼️
-
-[Data](articles/991157ff.json)
-
-[Extended Data](ext_articles/991157ff.ext.json)
-
----
-
-### Arrested with 14 gemstones
-
-*2024-05-26 11:02:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/14-மாணிக்கக்-கற்களுடன்-அறுவர்-கைது/76-337877) · `ta`
-
-Six individuals, including a woman, were arrested by Katugastota police for attempting to sell 14 valuable gemstones, allegedly stolen from a treasure. The suspects, aged 35-49 from Hiniduma, Galle, and Heinduduwa, were caught near an old bridge. Police found 14 gemstones, digital scales, and small lights during their arrest. It's unclear if the gems are real as further investigations continue.
-
-🟩
-
-Katugastota police said that six persons, including a woman, were arrested, including a woman who tried to sell 14 gemstones worth crores of rupees, allegedly taken from a treasure.
-
-According to information available to the police that the gemstones taken from a treasure are to be sold, an officer sent an officer in disguise and brought the suspects to the old bridge near the old bridge of Katugastot.
-
-The police have recovered 14 gemstones, digital scales and small lights.
-
-The arrested persons are between the ages of 35-49, from Hiniduma, Galle and Heinduduwa, and further investigations are being carried out.
-
-It is noteworthy that the police suspected that these gemstones may be fake.
-
-◼️
-
-[Data](articles/523ef36d.json)
-
-[Extended Data](ext_articles/523ef36d.ext.json)
-
----
-
-### A wild elephant attack
-
-*2024-05-26 10:58:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காட்டு-யானை-தாக்கி-ஒருவர்-பலி/175-337876) · `ta`
-
-An 82-year-old man was killed by a wild elephant early this morning. He had stepped out of his house when attacked.
-
-🟩
-
-An 82 -year -old man died in a wild elephant attack at around 4 am this morning (26), police said.
-
-It is said that the old man left his house this morning.
-
-◼️
-
-[Data](articles/b4fb7238.json)
-
-[Extended Data](ext_articles/b4fb7238.ext.json)
 
 ---

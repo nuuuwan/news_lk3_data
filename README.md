@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-26 06:22:37**
+As of **2024-05-26 07:00:08**
 
 ## Newspaper Stats
 
-*Scraped **26,245** Articles*
+*Scraped **26,248** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,12 +12,12 @@ colombotelegraphcom | 234
 dbsjeyarajcom | 262
 bbccomsinhala | 265
 newsfirstlk | 363
-islandlk | 1,417
+islandlk | 1,419
 economynextcom | 1,505
 dailyftlk | 1,533
 adalk | 2,235
 adaderanalk | 3,014
-tamilmirrorlk | 3,064
+tamilmirrorlk | 3,065
 virakesarilk | 4,006
 dailymirrorlk | 4,146
 adaderanasinhalalk | 4,201
@@ -26,11 +26,25 @@ adaderanasinhalalk | 4,201
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,245 (100.0%) of 26,245 articles have been extended.
+26,245 (100.0%) of 26,248 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-26 (Sunday)
+
+### வெள்ள அபாய எச்சரிக்கை நீடிப்பு
+
+*2024-05-26 02:03:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெள்ள-அபாய-எச்சரிக்கை-நீடிப்பு/175-337841) · `ta`
+
+இதன்படி களனி கங்கை, களுகங்கை, நில்வளா கங்கை, தெதுறு ஓயா மற்றும் அத்தனுகலு ஓயா ஆகியவற்றின் நீர்மட்டம் அதிகரித்து வருவதாக அந்த திணைக்களம் குறிப்பிட்டுள்ளது.
+
+இதனையடுத்து தெதுறு ஓயா மற்றும் களு கங்கையை அண்மித்த தாழ்நிலப்பகுதிகளுக்கு விடுக்கப்பட்ட வெள்ள அபாய எச்சரிக்கை தொடர்ந்தும் நீடிக்கப்பட்டுள்ளது. (a)
+
+◼️
+
+[Data](articles/329ec471.json)
+
+---
 
 ### Mountaineer Mark Train Services cancel
 
@@ -133,6 +147,20 @@ Ada Derana reporter said that the elephant was later seen marching down the stre
 [Data](articles/5353e87a.json)
 
 [Extended Data](ext_articles/5353e87a.ext.json)
+
+---
+
+### Eighty years in Sri Lanka:The Life and Times of Fr. Vito Perniola SJ
+
+*2024-05-25 23:16:00* · [`islandlk`](http://island.lk/eighty-years-in-sri-lankathe-life-and-times-of-fr-vito-perniola-sj/) · `en`
+
+I always wonder how he did it? A simple, slender Italian priest who used the bus to get about. He was one who never compromised on discipline. A stickler for proper diction who spoke a manifold of Western and Oriental languages. A first-rate scholar who realized there was a single door one could walk in and outof between history and social linguistics. He embraced the Lankan heritage by becoming a distinguished citizen of the country just after independence.
+
+Generations not born here will laud and praise the memory of Father Vito Perniola of the Society of Jesus for his exemplary efforts in publishing 19 definitive volumes on the Catholic Church of Sri Lanka. Abstemious by nature, and frugal in food, drink, clothes, and lifestyle, Fr. Vito Perniola was a shining example of plain living and high thinking.
+
+...
+
+[Data](articles/c92243dc.json)
 
 ---
 
@@ -315,6 +343,22 @@ Speaking at a meeting in Mannar, Dissanayake said the particular person Hitihami
 [Data](articles/8b21bb03.json)
 
 [Extended Data](ext_articles/8b21bb03.ext.json)
+
+---
+
+### Trump posts fake news about “the creation of a ‘Unified Reich’
+
+*2024-05-25 21:46:00* · [`islandlk`](http://island.lk/trump-posts-fake-news-about-the-creation-of-a-unified-reich/) · `en`
+
+A second Supreme Court judge defies the Constitution, flies flags of Fascism
+
+Last Monday, Trump posted a 30-second video on his Truth Social network which had a vision of himself speaking at a campaign rally, with a fake newspaper in the background, flaunting eye-catching 60-point-font bold headlines to grab the reader’s attention:
+
+This header was followed by the summary of a series of articles, stolen from Nazi propaganda, praising German industrial strength and production which had significantly improved after 1871, with the creation by Chancellor Otto von Bismarck, of the Erstes Reich, (First Reich). A unified German empire, which brought about German prosperity made possible by the closing of its borders and the deportation of 15 million illegal aliens and Jews, vermin who were poisoning the blood of Germany. Policies perfectly emulated by Adolf Hitler and the Third Reich in the 1930s.
+
+...
+
+[Data](articles/16b4fd4c.json)
 
 ---
 
@@ -2277,75 +2321,5 @@ And I hope this will become the asylum of experts in Sri Lanka in the future. As
 [Data](articles/55d89667.json)
 
 [Extended Data](ext_articles/55d89667.ext.json)
-
----
-
-### President's participation in Vesak events
-
-*2024-05-25 02:26:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெசாக்-நிகழ்ச்சிகளில்-ஜனாதிபதி-பங்கேற்பு/175-337821) · `ta`
-
-President Ranil Wickremesinghe participated in various Vesak celebrations across Sri Lanka, including the inauguration of the Buddhist Rashmi Vesak Zone at Hunupitiya Gangarama Vihara and launching Vesak Annadhanam at Shankrila Green Ground. He also opened the Vesak Zone by the Peliyagoda Social Development Foundation and the spectacular Vesak posture by the United Buddhist Society of Maradana - Sudhewela United Buddhist Society.
-
-🟩
-
-President Ranil Wickremesinghe attended several Vesak events in Colombo while celebrating the Vesak festival across the country.
-
-Buddhist Rashmi Vesak Zone was inaugurated yesterday by President Ranil Wickremesinghe under the auspices of the Hunupitiya Gangarama Vihara in Colombo on the occasion of the Vesak festival.
-
-Meanwhile, Vesak Annadhanam, which was started at the Shankrila Green Ground, was launched by President Ranil Wickremesinghe.
-
-President Ranil Wickremesinghe inaugurated the Vesak Zone which was organized by the Peliyagoda Social Development Foundation, the Peliyagoda Urban Council and the business community for the first time yesterday afternoon.
-
-Meanwhile, the Vesak Zone and the spectacular Vesak posture organized by the United Buddhist Society of Maradana - Sudhewela United Buddhist Society were opened yesterday afternoon by President Ranil Wickremesinghe.. (A)
-
-◼️
-
-[Data](articles/761fa703.json)
-
-[Extended Data](ext_articles/761fa703.ext.json)
-
----
-
-### Boat services stop
-
-*2024-05-25 02:10:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/படகு-சேவைகள்-நிறுத்தம்/175-337820) · `ta`
-
-Due to high winds, boat services to islands from Jaffna are suspended today. This includes Neduntivu, Ezhuwadivu, and Analadeevu, with limited service to Nainaadi.
-
-🟩
-
-Boat services for the islands traveling from Jaffna will not be held today.. The District Disaster Management Division has announced.
-
-According to the Department of Meteorology, the boat services for the island were canceled due to the security of the sea on the 24th of this month.
-
-Accordingly, the ferry services for the Neduntivu, Ezhuwadivu and Analadeevu have been stopped since yesterday. In this case, there will be no ferry services for the 3 islands today due to the continuing of high winds and that the boat services for Nainaadi will be limited.. Notified by the District Disaster Management Division. (A)
-
-◼️
-
-[Data](articles/9dc93d3e.json)
-
-[Extended Data](ext_articles/9dc93d3e.ext.json)
-
----
-
-### Ranil, the leader who transformed the country
-
-*2024-05-25 01:39:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாட்டை-மாற்றி-அமைத்த-தலைவர்-ரணில்/175-337819) · `ta`
-
-Ranil Wickremesinghe, hailed as a transformative leader, navigated Sri Lanka through economic crises, including essential shortages and power outages, showcasing resilience and leadership. His efforts were celebrated during the inauguration of the President's Medical Training and Research Building at the University of Jaffna by Mrs. Sarath Fonseka, the Governor of the Northern Province.
-
-🟩
-
-Governor of the Northern Province, Mrs. Salrs, said that the leader of the country, Ranil Wickremesinghe, who has rescued the country in crisis and confronts the country as an individual.
-
-He said this while addressing the inauguration of the President's Medical Training and Research Building at the University of Jaffna.. As he further stated,
-
-Our President who rescued the country that was caught in the economic crisis. When the country was lying in darkness without the shortage of essentials, fuel shortages and electricity, he took responsibility for leadership in charge of leadership. Faced many challenges as an individual and changed the country. I am proud to serve as the Governor of the North as the President's representative. (A)
-
-◼️
-
-[Data](articles/77d0b998.json)
-
-[Extended Data](ext_articles/77d0b998.ext.json)
 
 ---

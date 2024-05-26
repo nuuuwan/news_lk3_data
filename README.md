@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-26 19:18:35**
+As of **2024-05-26 19:03:39**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,225
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,377 (100.0%) of 26,378 articles have been extended.
+26,356 (99.9%) of 26,378 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -52,33 +52,25 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
-### Restoring Jaffna Teachers' Trainee
+### යාපනයේ ගුරු සිරිත අධ්‍යාපන ක්‍රමය යළි ඇති කරනවා
 
 *2024-05-26 18:27:01* · [`adalk`](https://www.ada.lk/breaking_news/යාපනයේ-ගුරු-සිරිත-අධ්‍යාපන-ක්‍රමය-යළි-ඇති-කරනවා/11-409829) · `si`
 
-President Ranil Wickremesinghe praised Jaffna teachers as exemplary during a district appointment ceremony, emphasizing their crucial role in shaping the future of students. He highlighted the need for committed educators, referencing the high standards set by Jaffna's renowned teachers. The event saw 375 appointments in the Northern Province, underscoring the importance of restoring the region's education system to its former glory.
+අතීතයේ යාපනයේ පැවති “යාපනය ගුරු සිරිත” රටේම ගුරුවරුන්ට මහඟු ආදර්ශයක් සැපයූ බවත්, එම අධ්‍යාපන ක්‍රමය නැවත ඇති කිරීමට කටයුතු කරන බවත් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ප්‍රකාශ කළේය.
 
-🟩
+ගුරු වෘත්තිය ආදර්ශයක් විය යුතු බවත් සටන් පාඨ කියමින් මහ පාරේ උද්ඝෝෂනය කරනවානම් ගුරුවරුන් සිසුන්ගෙන් ප්‍රතික්ෂේප වන බවත් පැවසු ජනාධිපතිවරයා වෘත්තීය ගෞරවය රැකෙන අයුරින් කටයුතු කිරීම සියලු ගුරුවරුන්ගේ වගකීම බවද අවධාරණය කළේය.
 
-President Ranil Wickremesinghe said that the "Jaffna Teacher" was a fine example of the country's teachers in Jaffna.
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ යාපනය තන්දයි සෙල්වා ශ්‍රවණාගාරයේ ඊයේ (25) පැවති යාපනය දිස්ත්‍රික් ගුරු පත්වීම් ප්‍රදානෝත්සවය අමතමිනි.
 
-It is said that the president of the president of the forefront of the students, the president is rejected by the president of the streets, that teachers will be rejected in the street.
+උතුරු පළාතේ යාපනය දිස්ත්‍රික්කයේ 375 දෙනෙකු සඳහා මෙහිදී ගුරු පත්වීම් ප්‍රදානය සිදු කෙරුණු අතර ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සංකේතාත්මකව පත්වීම් ප්‍රදානයට එක් විය.
 
-President Ranil Wickremesinghe addressing the Jaffna District Teachers' Appointments held at the Selva Auditorium in Jaffna yesterday (25).
+උතුරු පළාත් ආණ්ඩුකාර පී.එස්.එම්. චාල්ස් මහත්මිය විසින් ජනාධිපතිවරයා වෙත සමරු තිළිණයක් ද පිළිගැන්වීය.
 
-Teachers' appointments were granted for 375 people in the Northern Province.
-
-Northern Province Governor PSM. Mrs. Charles also presented a souvenir to the President.
-
-Minister Ranil Wickremesinghe further added:
-
-All of you who are teaching today accept a lot of responsibility. Today you take the future of children in a classroom of 35-40. The future of those children is created according to your guidance. If you cannot fulfill that responsibility, you will not be suitable for the teaching profession.
+උත්සව සභාව ඇමතු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා වැඩිදුරටත් මෙසේද පැවසීය,
 
 ...
 
 [Data](articles/908d59d1.json)
-
-[Extended Data](ext_articles/908d59d1.ext.json)
 
 ---
 
@@ -92,53 +84,35 @@ Colombo, May 26 (Daily Mirror) - Veteran musician Ananda Perera passed away toda
 
 [Data](articles/84cada3b.json)
 
-[Extended Data](ext_articles/84cada3b.ext.json)
-
 ---
 
-### Sri Lanka's French ambassador to death
+### ශ්‍රී ලංකාවේ ප්‍රංශ තානාපති මියයයි
 
 *2024-05-26 18:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197034) · `si`
 
-The French Ambassador in Sri Lanka passed away at his official residence in Rajagiriya. He was 53 years old.
+ශ්‍රී ලංකාවේ ප්‍රංශ තානාපතිවරයා රාජගිරිය ප්‍රදේශයේ පිහිටි සිය නිල නිවස තුළදී මියගොස් ඇති බව පොලීසිය පවසයි.
 
-🟩
-
-The French Ambassador in Sri Lanka has died in his official residence in Rajagiriya, police said.
-
-The 53-year-old was 53 years old when he died.
+Jean Francois Pactet මහතා මියයන විට 53 හැවිරිදි වියේ පසුවිය.
 
 ◼️
 
 [Data](articles/ba78e2ac.json)
 
-[Extended Data](ext_articles/ba78e2ac.ext.json)
-
 ---
 
-### The President will announce a definitive decision within a month - Harin Fernando
+### ஒரு மாதத்துக்குள் உறுதியான தீர்மானத்தை ஜனாதிபதி அறிவிப்பார் - ஹரின் பெர்னாண்டோ
 
 *2024-05-26 18:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/184554) · `ta`
 
-President Ranil Wickremesinghe plans to announce his decision on running for re-election within a month, with support from 10-15 members of the United People's Power. Opposition leaders Sajith Samadhi and Anura Kumara Dissanayake are expected to take a break during this period. Meanwhile, Parliamentarian Sarath Fonseka joins the United People's Power to strengthen it.
+ஜனாதிபதி தேர்தல் குறித்து ஜனாதிபதி ரணில் விக்கிரமசிங்க ஒருமாதத்துக்குள்  உறுதியான தீர்மானத்தை அறிவிப்பார். அவர் நிச்சயம் போட்டியிடுவார். ஜனாதிபதி தேர்தலுக்கு முன்னர் ஐக்கிய மக்கள் சக்தியின் 10 அல்லது 15 உறுப்பினர்கள் ஜனாதிபதியுடன் ஒன்றிணைவார்கள் என சுற்றுலாத்துறை மற்றும் காணி விவகாரங்கள் அமைச்சர் ஹரின் பெர்னாண்டோ தெரிவித்தார்.
 
-🟩
+கொழும்பில் ஞாயிற்றுக்கிழமை (26) இடம்பெற்ற நிகழ்வில் கலந்துக் கொண்டதன் பின்னர் ஊடகங்களுக்கு கருத்து  தெரிவிக்கையில் மேற்கண்டவாறு குறிப்பிட்டார்.
 
-President Ranil Wickremesinghe will announce a definitive decision on the presidential election within a month. He will definitely compete. Tourism and Land Affairs Minister Harin Fernando said 10 or 15 members of the United People's Power would unite with the president before the presidential election.
-
-He was speaking to the media after attending a function held in Colombo on Sunday (26).
-
-Opposition Leader Sajith Samadhi and Janatha Vimukthi Peramuna (JVP) leader Anura Kumara Dissanayake should be given a holiday that day.. The people of the country should be patiently sitting on the discussion of the two.
-
-President Ranil Wickremesinghe will definitely contest the election. The President will announce his position within a month.
-
-Once the official announcement of the presidential election, 10 or 15 members of the United National Party will be united with the president.
+எதிர்க்கட்சித் தலைவர் சஜித் பிரேதமாசவுக்கும், மக்கள் விடுதலை முன்னணியின் தலைவர் அநுரகுமார திஸாநாயக்கவுக்கும் இடையில் பகிரங்க விவாதம் இடம்பெறும் போது அன்றைய தினம் விடுமுறை வழங்க வேண்டும். இவ்விருவரின் விவாதத்தை நாட்டு மக்கள் பொறுமையாக அமர்ந்து பார்க்க வேண்டும்.விவாதத்தைப் பார்த்ததன் பின்னர் நாட்டு மக்கள் எவரும் இவ்விருவருக்கும் வாக்களிக்கமாட்டார்கள்.
 
 ...
 
 [Data](articles/0ddb5315.json)
-
-[Extended Data](ext_articles/0ddb5315.ext.json)
 
 ---
 
@@ -176,21 +150,15 @@ Ananda Perera, an expert musician, has passed away.
 
 ---
 
-### The microphone
+### நுணலும் தன் வாயால் கெடும்
 
 *2024-05-26 18:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/184549) · `ta`
 
-The JVP, aiming for Sinhalese army support, claims victory in the war through Lalkanta. Despite efforts by Anuragumara Dissanayake and Vijitha Herath to modernize its image, the party retains its old characteristics, as evidenced by Lal Kanta's controversial statements.
-
-🟩
-
-The JVP needs the votes of the Sinhalese army. That is why Lalkanta has made the claim in the war victory. The JVP, which has transformed into a national people's power, is still revealing that there is still old character and color. Although Anuragumara Dissanayake and Vijitha Herath are trying to show a new face to the national people's power, Lal Kanta's comments are proven to be "not in the heel."
+ஜே.வி.பி.க்கு தேவையாக இருப்பது சிங்கள இராணுவத்தினரின் வாக்குகள் தான். அதற்காகவே லால்காந்த போர் வெற்றியில் உரிமைகோரலைச் செய்துள்ளார். தேசிய மக்கள் சக்தியாக உருமாற்றிக் கொண்டுள்ள ஜே.வி.பி.க்குள், இன்னமும் பழைய குணமும் நிறமும் இருக்கிறது என்பதை அவ்வப்போது வெளிப்படுத்தி வருகிறார் லால் காந்த. அநுரகுமார திசாநாயக்கவும் விஜித ஹேரத்தும் தேசிய மக்கள் சக்திக்கு புதியதொரு முகத்தை காண்பிக்க முயன்றாலும், லால் காந்தவின் கருத்துக்கள் “எங்கப்பன் குதிருக்குள் இல்லை” என்பதை நிரூபித்து வருகிறது.
 
 ◼️
 
 [Data](articles/080227e3.json)
-
-[Extended Data](ext_articles/080227e3.ext.json)
 
 ---
 
@@ -220,27 +188,19 @@ It is noteworthy that regional journalists in the president's place in the North
 
 ---
 
-### People believe that you can solve the problems of the people: Wealth in the presence of the president
+### மக்களின் பிரச்சனைகளை உங்களால் தான் தீர்த்து வைக்க முடியும் என்ற நம்பிக்கை மக்களிடம் இருக்கிறது : ஜனாதிபதி முன்னிலையில் செல்வம் அடைக்கலநாதன்
 
 *2024-05-26 18:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/184550) · `ta`
 
-Selvam Adakkalanathan, a Vanni District Parliamentarian, expressed confidence in President Ranil Wickremesinghe's ability to address the issues facing the Mullaitivu district, including land stability and mobility challenges. He emphasized the need for decisive action from the District Development Committee under the President's leadership to resolve these problems.
+முல்லைத்தீவு மாவட்ட மக்களின் பிரச்சனைகளை உங்களால் தான் தீர்த்து வைக்க முடியும் என்ற நம்பிக்கை மக்களிடம் இருப்பதாக ஜனாதிபதி ரணில் விக்கிரமசிங்க முன்னிலையில் வன்னி மாவட்ட நாடாளுமன்ற உறுப்பினர் செல்வம் அடைக்கலநாதன் தெரிவித்துள்ளார்.
 
-🟩
+முல்லைத்தீவு, புதுக்குடியிருப்பு மகாவித்தியாலயத்தில் 26 ஆம் திகதி ஞாயிற்றுக்கிழமை இடம்பெற்ற உறுமய காணி உரித்து வழங்கும் நிகழ்வில் கலந்து கொண்டு கருத்து தெரிவித்த போதே அவர் இவ்வாறு தெரிவித்தார். அவர் மேலும் தெரிவிக்கையில்,
 
-Vanni District Parliamentarian Selvam Adakkalanathan said that you can solve the problems of the people of Mullaitivu district in the presence of President Ranil Wickremesinghe.
+யுத்தத்தால் பாதிக்கப்பட்ட முல்லைத்தீவு மாவட்டத்திற்கு ஜனாதிபதி வருகை தந்தையிட்டு மகிழ்ச்சியடைகின்றேன். இம்மாவட்டத்தில் பல பிரச்சனைகள் உள்ளன. அவற்றை உங்களால் தான் தீர்த்து வைக்க முடியும் என்ற நம்பிக்கை மக்களிடம் இருக்கிறது.
 
-He was speaking at a function held at the Pudukkudiyiruppu Maha Vidyalaya, Mullaitivu on Sunday 26th.. As he further stated,
-
-I am happy to visit the President of the Mullaitivu District. There are many problems in this country. People are confident that you can solve them.
-
-This District Development Committee should be held under your leadership and resolved the problem of the people of Mullaitivu district, including the land.. There are many more than the land stability. Is unable to go to own places. I am asking for action to solve all the problems of our people.
-
-◼️
+...
 
 [Data](articles/9d70d2b7.json)
-
-[Extended Data](ext_articles/9d70d2b7.ext.json)
 
 ---
 
@@ -272,93 +232,63 @@ With the arrest of the suspect, Sri Lanka was fleeing Sri Lanka with his wife an
 
 ---
 
-### Fonseka again as presidential candidate…?
+### ஜனாதிபதி வேட்பாளராக  மீண்டும் பொன்சேக்கா…?
 
 *2024-05-26 18:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/184547) · `ta`
 
-Sarath Fonseka remains crucial to Sajith's United People's Power despite tensions over military involvement. His continued leadership contrasts with Daya Ratnayake's recent addition, highlighting internal dynamics within the party.
-
-🟩
-
-It is important that Sarath Fonseka is still the Chairman of Sajith's United People's Power. Earlier this year, former Army Commander Daya Ratnayake joined Sajith. Sarath Fonseka disgusted his relationship with the United People's Energy, disgusted by Sajith's actions, which joined the party's military commanders into the party.
+சஜித்தின் ஐக்கிய மக்கள் சக்தியின் தவிசாளராக இன்னும் சரத் பொன்சேக்காவே இருக்கின்றார் என்பது முக்கிய விடயம். முன்னதாக இவ்வருடம் ஜனவரி மாதம் முன்னாள் இராணுவத் தளபதியான தயா ரத்நாயக்கவும் சஜித்துடன் இணைந்து கொண்டார். தன்னை விட கனிஷ்ட நிலையிலுள்ள இராணுவ தளபதிகளை கட்சிக்குள் இணைத்துக்கொள்ளும் சஜித்தின் நடவடிக்கைளால் வெறுப்புற்றே சரத் பொன்சேக்கா ஐக்கிய மக்கள் சக்தியுடனான தனது உறவை முறித்துக்கொண்டார்.
 
 ◼️
 
 [Data](articles/769fd83b.json)
 
-[Extended Data](ext_articles/769fd83b.ext.json)
-
 ---
 
-### Illegal Jewish settlements on the West Bank that is occupied
+### ஆக்கிரமிக்கப்பட்ட மேற்குக் கரையில் சட்ட விரோத யூத குடியிருப்புக்கள்
 
 *2024-05-26 18:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/184544) · `ta`
 
-Since October 7 last year, the conflict between Israel and Hamas has escalated, resulting in 502 Palestinian deaths on the West Bank and the destruction of 20 social gatherings, including 7 completely wiped out, as per reports from the UN and Human Rights Watch.
-
-🟩
-
-According to the United Nations report on October 7, last year, the Hamas movement attacked Israel, in the West Bar and East Jerusalem;Attacks on Palestinians. During this period, the number of Palestinians killed on the west bank has come to 502. Since October 7 last year, 20 social gatherings have been left out due to attacks by these quotes.. About 7 social meetings have been completely wiped out, the Human Rights Watch said.
+ஐக்கிய நாடுகள் அறிக்கையின்படி கடந்த ஆண்டு ஒக்டோபர் 7இல் ஹமாஸ் இயக்கம் இஸ்ரேல் மீது தாக்குதல் நடத்தியது முதல், மேற்குகரை மற்றும் கிழக்கு ஜெரூஸலத்தில்; உள்ள பலஸ்தீனர்கள் மீது தாக்குதல்கள் நடத்தப்படுகின்றது.  இக்காலப்பகுதியில் மேற்குக் கரையில் கொல்லப்பட்ட பலஸ்தீனர்களின் எண்ணிக்கை 502எனத்தெரிய வந்துள்ளது. கடந்த ஆண்டு ஒக்டோபர் 7முதல் வன்முறையில் ஈடுபடும் இக்குடியேற்ற காடையர்களால் நடத்தப்பட்ட தாக்குதல்கள் காரணமாக 20சமூகக் கூட்டங்கள் அங்கிருந்து வெளியேறியுள்ளன. சுமார் 7சமூகக் கூட்டங்கள் அங்கிருந்து முற்றாகத் துடைத்து எறியப்பட்டுள்ளன என்று மனித உரிமை கண்கானிப்பகம் தெரிவித்துள்ளது.
 
 ◼️
 
 [Data](articles/1ed4ad1b.json)
 
-[Extended Data](ext_articles/1ed4ad1b.ext.json)
-
 ---
 
-### Will I pull the Oslo report to the subcontinent?
+### ஒஸ்லோ அறிக்கையை துணைக்கு இழுப்பதேன் ?
 
 *2024-05-26 17:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/184543) · `ta`
 
-Sampanthan mentions three reasons for not having a common Tamil candidate: lack of a written agreement, changing political situations, and the need for solutions within a united Sri Lanka.
-
-🟩
-
-It is also said that Sampanthan has three reasons. The first reason is that we are continuously from the standpoint that a common candidate is not fielded on behalf of Tamils and is making efforts to find a solution within the United Sri Lanka.. The position that a common candidate does not die on behalf of Tamils is that there is no written agreement. Any political technique will be determined in accordance with the time flow - political situation change -. This is the political legacy.
+இரா.சம்பந்தன் மூன்று காரணங்களை முன் வைத்திருப்பதாகவும் கூறப்பட்டிருக்கிறது.  முதலாவது காரணம், தொடர்ச்சியாக தமிழா்கள் சார்பில் பொதுவேட்பாளர் ஒருவரை களமிற்குவதில்லை என்ற நிலைப்பாட்டில் இருந்து வருவதோடு, ஐக்கிய இலங்கைக்குள் தீர்வினை பெற்றுக் கொள்வதற்கான முயற்சிகளை முன்னெடுத்து வருகின்றோம் என்பதாகும். தமிழர்கள் சார்பில் பொது வேட்பாளர் ஒருவரை  களம் இறக்குவதில்லை என்ற நிலைப்பாட்டில் இருப்பதானது,  ஒன்றும் எழுதப்பட்ட ஒப்பந்தம் கிடையாது.  கால ஓட்டத்துக்கு ஏற்ப - அரசியல் சூழ்நிலை மாற்றத்திற்கு-  ஏற்பவே எந்த அரசியல் உத்தியும் தீர்மானிக்கப்படும். இதுதான் அரசியல் மரபு.
 
 ◼️
 
 [Data](articles/0c120fd8.json)
 
-[Extended Data](ext_articles/0c120fd8.ext.json)
-
 ---
 
-### Military Sajith side!
+### இராணுவமயமாகும் சஜித் தரப்பு!
 
 *2024-05-26 17:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/184530) · `ta`
 
-The statement highlights the significance of generals involved in the war around Sajith Premadasa, drawing attention to the impact on Tamil communities' perspectives.
-
-🟩
-
-"When the generals who played a major role in the war around Sajith Premadasa stand, the eyes of the Tamil people are visible.
+“சஜித் பிரேமதாசவைச் சுற்றி போரில் முக்கிய பங்காற்றிய தளபதிகள் நிற்கின்றபோது, தமிழ் மக்களின் கண் முன்பாக தெரியக்கூடியது, அவர்கள் போர்க்காலத்தில் நடந்துகொண்ட முறைதான்....”
 
 ◼️
 
 [Data](articles/41176b82.json)
 
-[Extended Data](ext_articles/41176b82.ext.json)
-
 ---
 
-### The decisive positions that Muslims take
+### முஸ்லிம்கள் எடுக்க வேண்டிய  தீர்க்கமான நிலைப்பாடுகள்
 
 *2024-05-26 17:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/184533) · `ta`
 
-Muslims express frustration over unfulfilled political promises and perceived betrayal by their leaders, including MPs and presidents, leading to a growing sense of disillusionment.
-
-🟩
-
-Meanwhile, the most disgusting attitude towards the rulers and the MPs they voted has been burning day by day in Muslim areas.. Political parties and Muslim MPs are being cheated as a continuation of Muslims. No promises made by Muslim parties and their MPs have been fulfilled yet. MPs of the Muslim parties have maintained more closeness with the presidents who have been elected from time to time.
+இதேவேளை ஆட்சியாளர்களின் மீதும், தாம் வாக்களித்த பாராளுமன்ற உறுப்பினர்களின் மீதும் அதிக வெறுப்பைக்காட்டும் மனப்போக்கு முஸ்லிம் பிரதேசங்களில் நாளுக்கு நாள் தீவரமடைந்து கொண்டிருக்கின்றது. அரசியல் கட்சிகளினாலும் முஸ்லிம் பாராளுமன்ற உறுப்பினர்களினாலும் முஸ்லிம்களின் தொடர்ச்சியாக ஏமாந்து கொண்டிருக்கின்றார்கள். முஸ்லிம் கட்சிகளினாலும் அவற்றின் பாராளுமன்ற உறுப்பினர்களினாலும் அளிக்கப்பட்ட உரிமை சார் வாக்குறுதிகள் எதுவும் இதுவரை நிறைவேற்றப்படவில்லை. முஸ்லிம் கட்சிகளின் பாராளுமன்ற உறுப்பினர்கள் காலத்துக்கு காலம் தெரிவு செய்யப்பட்ட ஜனாதிபதிகளுடன் அதிக நெருக்கத்தையே பேணி வந்துள்ளார்கள்.
 
 ◼️
 
 [Data](articles/9f554754.json)
-
-[Extended Data](ext_articles/9f554754.ext.json)
 
 ---
 
@@ -382,39 +312,27 @@ Prior to this, Jean-François Pactet had been posted at the French Embassy to th
 
 ---
 
-### History does not forgive
+### வரலாறு மன்னிக்காது
 
 *2024-05-26 17:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/184541) · `ta`
 
-Senathirajah, Sridharan, and Ariyanendran backed a Tamil presidential candidate but pledged collective decision-making. Opposing them were MA. Sumanthiran, Charles Nirmalanathan, and CVK. Sivagnanam, who criticized the common candidate strategy.
-
-🟩
-
-Senathirajah, Sridharan and Ariyanendran openly supported the attempt to field a Tamil candidate in the presidential election. However, they had promised to make a decision as a party. As well as the MA. Sumanthiran and Charles Nirmalanathan strongly opposed the common candidate's plan. CVK. Sivagnanam also expressed his opinion against it.
+ஜனாதிபதி தேர்தலில் தமிழ் பொது வேட்பாளரை நிறுத்துகின்ற முயற்சிகளை, சேனாதிராஜா,  சிறிதரன்,  அரியநேந்திரன் போன்றவர்கள் வெளிப்படையாகவே ஆதரித்திருந்தார்கள். ஆனாலும் கட்சியாக கூடித் தீர்மானம் எடுப்போம் என்று அவர்கள் உறுதியளித்திருந்தனர். அதேபோல எம்.ஏ. சுமந்திரன் , சாள்ஸ் நிர்மலநாதன் போன்றவர்கள் பொது வேட்பாளர் திட்டத்தை கடுமையாக எதிர்த்தனர். சி.வி.கே. சிவஞானமும் அதற்கு எதிராகவே கருத்தை வெளியிட்டிருந்தார்.
 
 ◼️
 
 [Data](articles/886b72d0.json)
 
-[Extended Data](ext_articles/886b72d0.ext.json)
-
 ---
 
-### The fall of world order
+### உலக ஒழுங்கின் வீழ்ச்சி
 
 *2024-05-26 17:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/184540) · `ta`
 
-Tamil demands for international justice have been met with repeated offers of domestic mechanisms instead. During her visit, Agnes Kalamar, Secretary General of Amnesty International, highlighted this issue in a Colombo press conference, focusing on the Mullivaikkal massacre.
-
-🟩
-
-Only the Tamil people who are demanding international justice are repeatedly extended to the domestic mechanism and the mixed mechanism. ”The Secretary General of the Amnesty International, Agnes Kalamart, held a press conference in Colombo at the end of her visit.. Based on issues, he shared his comments at a press conference based on matters- Mullivaikkal's assassination.
+சர்வதேச  நீதியைக் கோரும் தமிழ் மக்களுக்கு,  மீண்டும் மீண்டும் உள்நாட்டு பொறிமுறையும்,  கலப்பு பொறிமுறையும் மட்டுமே நீட்டப்படுகிறது” இலங்கைக்கு பயணம் மேற்கொண்டிருந்த சர்வதேச மன்னிப்பு சபையின் செயலாளர் நாயகம்,அக்னெஸ் கலமார்ட்  அம்மையார்,  தனது பயணத்தின் முடிவில் கொழும்பில் செய்தியாளர் சந்திப்பு ஒன்றை நடத்தியிருந்தார். முள்ளிவாய்க்கால் படுகொலை நினைவேந்தலில் பங்கேற்ற- காணாமல் ஆக்கப்பட்டவர்களின் குடும்பங்களை சந்தித்த- பாதிக்கப்பட்ட சமூகத்தினருடன் கலந்துரையாடிய- சிவில் சமூகத்தினருடன்  கலந்து பேசிய-  விடயங்களின் அடிப்படையில், அவர் செய்தியாளர் சந்திப்பில் கருத்துக்களைப் பகிர்ந்து கொண்டிருந்தார்.
 
 ◼️
 
 [Data](articles/32037918.json)
-
-[Extended Data](ext_articles/32037918.ext.json)
 
 ---
 
@@ -438,25 +356,19 @@ Tea production for the first four months were down 6.2 percent to 79.7 million k
 
 ---
 
-### Relationships of missing persons who have shown a black flag in protest of President's Vavuniya visit:
+### ஜனாதிபதியின் வவுனியா வருகைக்கு எதிர்ப்பு தெரிவித்து கறுப்புக் கொடி காட்டிய காணாமல ஆக்கப்பட்டோரின் உறவுகள்: குவிக்கப்பட்ட பொலிசார்
 
 *2024-05-26 17:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/184545) · `ta`
 
-Relatives of missing persons protested President Ranil Wickremesinghe's Vavuniya visit by displaying black flags. During his visit to the hospital and district secretariat, some mothers opposed his presence, leading to a confrontation where they were removed by police, disrupting his scheduled meeting.
+ஜனாதிபதி ரணில் விக்கிரமசிங்க அவர்களின் வவுனியா வருகைக்கு எதிர்ப்பு தெரிவித்து காணாமல் ஆக்கப்பட்டோரின் உறவினர்களால் கறுப்புக் கொடி காட்டப்பட்டது.
 
-🟩
+ஜனாதிபதி ரணில் விக்கிரமசிங்க வவுனியா வைத்தியசாலை மற்றும் மாவட்ட செயலகம் என்பவற்றுக்கு 26 ஆம் திகதி ஞாயிற்றுக்கிழமை பிற்பகல் வருகை தந்த நிலையில் மாவட்ட செயலகம் முன்பாக ஒன்று கூடிய வவுனியா மாவட்ட வலிந்து காணாமல் ஆக்கப்பட்டோர் சங்கத்தை சேர்ந்த தாய்மார் சிலர் ஜனாதிபதியின் வருகைக்கு கறுப்பு கொடி காட்டி தமது எதிர்ப்பை வெளிப்படுத்தினர்.
 
-The black flag was shown by relatives of the missing persons in protest of President Ranil Wickremesinghe's visit to Vavuniya.
-
-President Ranil Wickremesinghe visited the Vavuniya Hospital and the District Secretariat on Sunday afternoon and some mothers from the Vavuniya District Missing Association expressed their opposition to the President's arrival in front of the District Secretariat.
-
-At this time, the police and the Task Force were mobilized and forbidden to let the mothers unload the street.. After a while, the police had evicted the mothers who were trying to go to the District Secretariat gate.  For this reason, the president's meeting was in front of the District Secretariat until the end of the meeting.
+இதன்போது அங்கு மேலதிக பொலிசார் மற்றும் அதிரடிப்படையினர் குவிக்கப்பட்டு குறித்த தாய்மாரை வீதிக்கு இறக்க விடாது தடுக்கப்பட்டிருந்தனர். சிறிது நேரத்தின் பின் மாவட்ட செயலக வாயிலுக்கு செல்ல முற்பட்ட தாய்மாரை பொலிசார் வழிமறித்து அங்கிருந்து அவர்களை வெளியேற்றி இருந்தனர்.  இதன்காரணமாக, மாவட்ட செயலகம் முன்பாக ஜனாதிபதியின் கூட்டம் முடியும் வரை பரப்பான நிலமை காணப்பட்டது.
 
 ◼️
 
 [Data](articles/1fae0c55.json)
-
-[Extended Data](ext_articles/1fae0c55.ext.json)
 
 ---
 
@@ -538,21 +450,15 @@ In response to the protest, Northern Province Governor P. S. M. Charles personal
 
 ---
 
-### History does not always give occasions
+### வரலாறு சந்தர்ப்பங்களை எப்போதும் தருவதில்லை
 
 *2024-05-26 17:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/184537) · `ta`
 
-Sri Lanka's islands are contested by global powers, divided into two teams: US-led Indo-Pacific strategists and China-led Badi and Zone preferences. The current situation favors the Indo-Pacific group, leveraging Sri Lanka's economic crisis.
-
-🟩
-
-It is well known that the international powers have contested the Sri Lankan Islands as two teams. US -led Indo -Pacific strategists will be a team. China -led Badi and Zone prefers are another team. Indo -Pacific strategists in the current environment are on top. Sri Lanka's economic crisis gave it a chance.
+இலங்கைத் தீவு தொடர்பாக சர்வதேச சக்திகள் இரண்டு அணிகளாக போட்டியில் இறங்கியுள்ளனர் என்பது அனைவரும் அறிந்த விடயம் தான். அமெரிக்க தலைமையிலான இந்தோ - பசுபிக் மூலோபாயகாரர்கள் ஒரு அணியாகவுள்ளனர். சீனா தலைமையிலான பதை மற்றும் மண்டலம் முன்முற்சியாளர்கள் இன்னோர் அணியாகவும் உள்ளனர். தற்போதைய சூழலில் இந்தோ - பசுபிக் மூலோபாயக்காரர்களே மேல் நிலையில் உள்ளனர். இலங்கையின் பொருளாதார நெருக்கடி அதற்கான வாய்ப்பை கொடுத்திருந்தது.
 
 ◼️
 
 [Data](articles/b97bcdf7.json)
-
-[Extended Data](ext_articles/b97bcdf7.ext.json)
 
 ---
 
@@ -738,39 +644,27 @@ Due to the land issue, 56 families living in the village of Keppapilavu, includi
 
 ---
 
-### Tax policies - economic growth - complex relationship
+### வரிக் கொள்கைகள் - பொருளாதார வளர்ச்சி - சிக்கலான உறவு
 
 *2024-05-26 16:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/184520) · `ta`
 
-Tax policies have a nuanced impact on economic growth: while necessary for funding public services, excessive taxation can hinder employment, investment, and entrepreneurship, potentially stifling economic expansion.
-
-🟩
-
-The relationship between tax policies and economic growth is a complex and often controversial topic. On the one hand, governments need tax revenue to fund essential public services, infrastructure and social projects. On the other hand, high taxes can control employment, investment and entrepreneurship and prevent economic expansion. This article examines the complexity between tax policies and economic growth, the various tax structures, their impacts, and the debates around them.
+வரிக் கொள்கைகளுக்கும் பொருளாதார வளர்ச்சிக்கும் இடையிலான உறவு ஒரு சிக்கலான மற்றும் பெரும்பாலும் சர்ச்சைக்குரிய தலைப்பு. ஒருபுறம், அத்தியாவசிய பொது சேவைகள், உட்கட்டமைப்பு மற்றும் சமூக திட்டங்களுக்கு நிதியளிக்க அரசாங்கங்களுக்கு வரி வருவாய் தேவைப்படுகின்றது. மறுபுறம், அதிக வரிகள் வேலை வாய்ப்பு, முதலீடு மற்றும் தொழில்முனைவு ஆகியவற்றைத் கட்டுப்படுத்துவதுடன் பொருளாதார விரிவாக்கத்தைத் தடுக்கலாம். இந்தக் கட்டுரை வரிக் கொள்கைகளுக்கும் பொருளாதார வளர்ச்சிக்கும் இடையே உள்ள சிக்கலான தன்மை, பல்வேறு வரி கட்டமைப்புகள், அவற்றின்சாத்தியமான தாக்கங்கள் மற்றும் அவற்றைச் சுற்றியுள்ள விவாதங்கள் ஆகியவற்றை ஆராய்கின்றது.
 
 ◼️
 
 [Data](articles/a2ee0a4b.json)
 
-[Extended Data](ext_articles/a2ee0a4b.ext.json)
-
 ---
 
-### Did Sri Lanka's first Republican Politics provide political justice to Tamils?
+### இலங்கையின் முதல் குடியரசு அரசியற் சட்டம் தமிழருக்கு  அரசியற்சட்ட நீதியை வழங்கியதா?
 
 *2024-05-26 16:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/184527) · `ta`
 
-Sri Lanka's first Republican politics aimed to unify the country but sparked controversy over Tamil rights. Colvin RD Silva, a minister, highlighted the dual-nature of the Sinhala-centric law, hinting at its limited impact beyond six years.
-
-🟩
-
-When the Sinhala language official motion was passed, he said, 'One language is two countries;Colvin RD Silva, who voted in Parliament as a two -language nation, will always remember the passage of the political law in 1972 as the Minister of Political Affairs.. But this symbolism last six years.
+சிங்கள மொழி உத்தியோகச் சட்ட பிரேரணை நிறைவேற்றப்பட்ட வேளையில் , 'ஒரு மொழி இரு நாடு; இரு மொழி ஒரு நாடு’ எனப் பாராளுமன்றத்தில் எதிர்த்து வாக்களித்த கொல்வின் ஆர்.டி.சில்வா, 1972 இல் அரசியற் சட்ட விவகார அமைச்சராக இருந்து அரசியற் சட்டம் இயற்றியமையை தமிழ் மக்கள் என்றென்றும் நினைவில் வைத்திருப்பர் . ஆனால்,  இவ்வரசியல்  சட்டம்  ஆறு வருடங்கள் மட்டுமே நீடித்திருந்தது.
 
 ◼️
 
 [Data](articles/265912ef.json)
-
-[Extended Data](ext_articles/265912ef.ext.json)
 
 ---
 
@@ -800,21 +694,15 @@ The body has been directed to the Horana District Hospital for Judicial Medical 
 
 ---
 
-### Is the US resolution a turning point?
+### அமெரிக்க தீர்மானம் திருப்புமுனையா?
 
 *2024-05-26 16:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/184529) · `ta`
 
-The US resolution on holding Sri Lanka accountable for wartime violations lacks support from the Tamil community, who feel neglected by the international community. The resolution, despite its intentions, may face abandonment similar to previous efforts, highlighting ongoing issues in accountability and support for affected populations.
-
-🟩
-
-"Even though the idea that the international mechanism to be held accountable for the wartime violations in Sri Lanka, the Tamil people are not taking care of the international community ...". There it will be put in the warehouse and it will be abandoned when it arrives next year. This is what has been going on for the past few years ... ”
+"இலங்கையில் இடம்பெற்ற போர்க்கால மீறல்களுக்கு பொறுப்புக்கூறுவதற்கான சர்வதேச பொறிமுறை உருவாக்கப்பட வேண்டும் என்ற  கருத்து தமிழ் மக்களிடம் இருந்தாலும், சர்வதேச அளவில் அக்கோரிக்கை கவனத்தில் எடுக்கப்படாமல் இருக்கிறது....” "அமெரிக்கா காங்கிரஸின் இலங்கை தொடர்பான தீர்மானம் வெளியுறவு குழுவுக்கு அனுப்பப்படும். அங்கு அது கிடப்பில் போடப்படும்,  அடுத்த ஆண்டு வந்ததும் அது கைவிடப்படும். இதுதான் கடந்த சில ஆண்டுகளாக நடந்துகொண்டிருக்கிறது...”
 
 ◼️
 
 [Data](articles/a449c34c.json)
-
-[Extended Data](ext_articles/a449c34c.ext.json)
 
 ---
 
@@ -912,23 +800,17 @@ Furthermore, Wickremesinghe revealed that the Telecommunication Regulatory Commi
 
 ---
 
-### Slovaki Prime Minister's attempt to assassinate: Foreign intelligence in the background?
+### ஸ்லோவாக்கிய பிரதமர் கொலை முயற்சி  :  பின்னணியில் வெளிநாட்டு உளவு அமைப்பா?
 
 *2024-05-26 15:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/184525) · `ta`
 
-Robert Pigo, Slovakia's PM and a known Russian sympathizer, was shot last week. His assassination has sparked global condemnation, especially due to his stance against Ukraine's aid to fight Russia.
+கடந்த ஆண்டு முதல் ஸ்லோவாக்கியா பிரதமராக இருந்து வரும் 59வயதான ரொபர்ட் பிகோ இயல்பாகவே ரஷ்ய சார்புடையவர் எனக்கூறப்படுகிறது.
 
-🟩
-
-59 -year -old Robert Pigo, who has been the prime minister of Slovakia since last year, is said to be a Russian pro -Russian.
-
-Many world leaders have strongly condemned the shooting of Robert Pigo last week. Robert, heading the left-wing SMer-SST party, pledged to stop Ukraine war aid in the war against Russia last September.
+கடந்த வாரம் ரொபர்ட் பிகோ மீதான துப்பாக்கிச் சூட்டுச் சம்பவத்திற்கு உலக தலைவர்கள் பலரும் கடும் கண்டனம் தெரிவித்துள்ளனர். இடதுசாரி ஸ்மெர்-எஸ்.எஸ்.டி கட்சிக்குத் தலைமை தாங்கி வரும் ரொபர்ட், கடந்த செப்டெம்பரில் நடந்த தேர்தலில், ரஷ்யாவுக்கு எதிரான போரில் உக்ரேனுக்கான போர் உதவிகளை நிறுத்துவதாக உறுதிமொழி கொடுத்திருந்தார்.
 
 ◼️
 
 [Data](articles/e3493a15.json)
-
-[Extended Data](ext_articles/e3493a15.ext.json)
 
 ---
 
@@ -978,21 +860,15 @@ Although there is a color light signaling system on this railway crossing, it is
 
 ---
 
-### International parties have lost credibility: Amnesty International Secretary General
+### சர்வதேச தரப்புக்கள் நம்பகத்தன்மையை இழந்து விட்டன : சர்வதேச மன்னிப்புச்சபையின் செயலாளர் நாயகம் விசேட செவ்வி
 
 *2024-05-26 15:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/184518) · `ta`
 
-Amnesty International's Secretary General criticizes international parties for losing credibility among victims due to inconsistent stances influenced by global politics.
-
-🟩
-
-Amnesty International Secretary General of the International Council Agnes Kalamart Weerakesari said in a statement that the international parties have lost their credibility in the victims of the victims who are expecting responsibility as the international parties are taking different positions in accordance with global political environment.
+பூகோள அரசியல் சூழல்களுக்கு அமைவாக சர்வதேச தரப்புக்கள் மாறுபட்ட நிலைப்பாடுகளைக் கொள்வதால் பொறுப்புக்கூறலை எதிர்பார்க்கும் பாதிக்கப்பட்ட மக்களிடத்தில் நம்பகத்தன்மையை இழந்து விட்டன என்று சர்வதேச மன்னிப்புச்சபையின் செயலாளர் நாயகம் அக்னெஸ் கலமார்ட் வீரகேசரி வாரவெளியீட்டுக்கு வழங்கிய செவ்வியில் தெரிவித்தார்.
 
 ◼️
 
 [Data](articles/3b8fd5dc.json)
-
-[Extended Data](ext_articles/3b8fd5dc.ext.json)
 
 ---
 
@@ -1263,8 +1139,6 @@ Later, Lucas has notified the hostel staff and carried out a thorough test. At t
 ...
 
 [Data](articles/b0bf0492.json)
-
-[Extended Data](ext_articles/b0bf0492.ext.json)
 
 ---
 

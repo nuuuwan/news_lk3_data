@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-26 11:53:39**
+As of **2024-05-26 12:05:07**
 
 ## Newspaper Stats
 
-*Scraped **26,293** Articles*
+*Scraped **26,295** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 363
 islandlk | 1,431
 economynextcom | 1,505
 dailyftlk | 1,533
-adalk | 2,237
-adaderanalk | 3,018
+adalk | 2,238
+adaderanalk | 3,019
 tamilmirrorlk | 3,080
 virakesarilk | 4,006
 dailymirrorlk | 4,151
@@ -26,11 +26,47 @@ adaderanasinhalalk | 4,208
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,293 (100.0%) of 26,293 articles have been extended.
+26,293 (100.0%) of 26,295 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-26 (Sunday)
+
+### ‘Red’ alert issued over strong winds and rough seas due to cyclonic storm
+
+*2024-05-26 11:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/99442/red-alert-issued-over-strong-winds-and-rough-seas-due-to-cyclonic-storm) · `en`
+
+The Department of Meteorology has issued an advisory for strong winds and rough seas for naval and fishermen communities in the deep-sea areas in the South-eastern Arabian Sea and in the Bay of Bengal.
+
+The ‘red’ alert states that the cyclonic storm, named “Remal” (pronounced “Re-Mal”) over the North Bay of Bengal, intensified into a severe cyclone storm at 05.30 a.m. on May 26.
+
+It is located near 19.5°N and 89.3°E, to the north-east of Sri Lanka, and 1500 km away from Kankasanthurai and it is very likely to move nearly northwards, intensify further, and cross Bangladesh and adjoining West Bengal (India) coasts by May 26th at midnight, the advisory said.
+
+Accordingly, very strong winds 60-70 kmph, accompanied with heavy rainfalls and very rough seas are likely over the sea areas around the country and over the South-eastern Arabian Sea areas and Bay of Bengal Sea areas, it added.
+
+...
+
+[Data](articles/901eec76.json)
+
+---
+
+### සුලගීන් මාතරට බර හානී
+
+*2024-05-26 11:19:17* · [`adalk`](https://www.ada.lk/breaking_news/සුලගීන්-මාතරට-බර-හානී/11-409822) · `si`
+
+මාතර දිස්ත්‍රික්කය පුරා පසුගිය දිනවල පැවති තද සුලං තත්වය හේතුවෙන් නිවාස 300 කට පමණ අර්ධ හානී සිදු වී ඇති බව මාතර දිස්ත්‍රික් ආපදා කළමනාකරණ මධ්‍යස්ථානය පවසයි.
+
+එහි අධ්‍යක්ෂ ලුතිනන් කර්නල් ආරියවංශ කණ්ඩම්බි මහතා කියා සිටියේ වැලිගම,සුල්තානාගොඩ,පොල්වතුමෝදර,බටවල,පැලෑන,මෝදරවත්ත ආදී ප්‍රදේශ වලට එම තත්වය වැඩි වශයෙන් බලපා ඇති බවයි. නිවාස මතට ගස් හා අතු කඩා වැටීමෙන් වහලවල් වලට දැඩි අලාභ හානී සිදු වී තිබේ. මාතර දිස්ත්‍රික් ආපදා කලමණාකරණ මධ්‍යස්ථානය සදහන් කරන්නේ පොදු ස්ථාන වල ඇති අනතුරුදායක ගස් පිළිබඳව දැනුම් දෙන්නේ නම් රජයේ වියදමින් එම ගස් හෝ අතු කපා ඉවත් කිරීමට කටයුතු කරන බවයි.
+
+එවැනි ගස් පිළිබඳව දැනුම් දෙන ලෙස එම මධ්‍යස්ථානය මහජනතාවගෙන් ඉල්ලීමක් ද කරයි.
+
+තද සුලං හේතුවෙන් නිවාස වලට හානී සිදු වීම නිසා මාතර දිස්ත්‍රික්කයේ පුද්ගලයින් 1100 ක් පමණ පීඩාවට පත්ව සිටින බව කියති.
+
+...
+
+[Data](articles/4c5a6cdd.json)
+
+---
 
 ### Arrested with 14 gemstones
 
@@ -2209,47 +2245,5 @@ He was also a candidate of the JVP Polonnaruwa Urban Council. Samantha Bandara w
 [Data](articles/6a4bf37c.json)
 
 [Extended Data](ext_articles/6a4bf37c.ext.json)
-
----
-
-### Sri Lanka power outages from falling trees worsened by unfilled vacancies: CEB union
-
-*2024-05-25 14:11:00* · [`economynextcom`](https://economynext.com/sri-lanka-power-outages-from-falling-trees-worsened-by-unfilled-vacancies-ceb-union-164564/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s power grid has been hit by 300,000 outages as heavy winds brought down trees, restoring supply has been delayed by unfilled vacancies of breakdown staff, a union statement said.
-
-Despite electricity being declared an essential service, vacancies have not been filled, the CEB Engineers Union said.
-
-“In this already challenging situation, the Acting General Manager of CEB issued a circular on May 21, 2024, abolishing several essential service positions, including the Maintenance Electrical Engineer in the Area Engineer Offices, Construction Units, and Distribution Maintenance Units,” the Union said.
-
-“This decision, made without any scientific basis, significantly reduces our capacity to provide adequate services to the public during this emergency.
-
-“On behalf of all the staff of CEB, we express our deep regret for the inconvenience caused to our valued customers.”
-
-High winds had rains have brought down trees across power lines and transformers, the statement said.
-
-...
-
-[Data](articles/c0b69598.json)
-
-[Extended Data](ext_articles/c0b69598.ext.json)
-
----
-
-### Death of Gamini Marapana
-
-*2024-05-25 13:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196993) · `si`
-
-Gamini Marapana, President's Counsel, passed away today.
-
-🟩
-
-President's Counsel Gamini Marapana has passed away this morning (25).
-
-◼️
-
-[Data](articles/472e8a0f.json)
-
-[Extended Data](ext_articles/472e8a0f.ext.json)
 
 ---

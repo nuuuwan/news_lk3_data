@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-26 12:34:26**
+As of **2024-05-26 12:51:22**
 
 ## Newspaper Stats
 
-*Scraped **26,304** Articles*
+*Scraped **26,312** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,58 @@ economynextcom | 1,508
 dailyftlk | 1,533
 adalk | 2,238
 adaderanalk | 3,020
-tamilmirrorlk | 3,080
+tamilmirrorlk | 3,084
 virakesarilk | 4,006
-dailymirrorlk | 4,151
+dailymirrorlk | 4,155
 adaderanasinhalalk | 4,213
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,304 (100.0%) of 26,304 articles have been extended.
+26,304 (100.0%) of 26,312 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-26 (Sunday)
+
+### ’ரெமல்’ புயல் குறித்து சிவப்பு எச்சரிக்கை
+
+*2024-05-26 12:29:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரெமல்-புயல்-குறித்து-சிவப்பு-எச்சரிக்கை/175-337884) · `ta`
+
+இன்று இரவு 11.00 மணி முதல் அடுத்த 24 மணித்தியாலங்களுக்கு அமுலுக்கு வரும் வகையில் தென்கிழக்கு அரேபிய கடல் மற்றும் வங்காள விரிகுடா பகுதியில் கடற்படை மற்றும் மீனவ சமூகங்களுக்கு வளிமண்டலவியல் திணைக்களம் சிவப்பு எச்சரிக்கை விடுத்துள்ளது.
+
+வடக்கு வங்கக்கடலில் நிலை கொண்டுள்ள "ரெமல்" என்ற புயல் இன்று அதிகாலை 05.30 மணியளவில் தீவிர புயலாக வலுப்பெற்றது. இது இலங்கையின் வடகிழக்கில் 19.5°N மற்றும் 89.3°Eக்கு அருகில், காங்கேசன்துறையிலிருந்து 1500 கி.மீ தொலைவில் அமைந்துள்ளது.
+
+இது இன்று நள்ளிரவில் கிட்டத்தட்ட வடக்கு நோக்கி நகர்ந்து, மேலும் தீவிரமடைந்து, வங்கதேசம் மற்றும் அதை ஒட்டிய மேற்கு வங்க (இந்தியா) கடற்கரையை கடக்க அதிக வாய்ப்புள்ளது.
+
+இந்த காலகட்டத்தில், இலங்கையைச் சுற்றியுள்ள கடற்பரப்புகளிலும், தென்கிழக்கு அரேபிய கடல் பகுதிகளிலும், வங்காள விரிகுடா கடல் பகுதிகளிலும், 60-70 கிலோமீட்டர் வேகத்தில் பலத்த காற்று வீசக்கூடும்.
+
+◼️
+
+[Data](articles/64b29c20.json)
+
+---
+
+### Possibility of floods on Kelani, Kalu Ganga if 100mm rain received today
+
+*2024-05-26 12:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Possibility-of-floods-on-Kelani-Kalu-Ganga-if-100mm-rain-received-today/108-283360) · `en`
+
+May 26 (Daily Mirror) - The water levels of in the upper areas of the Kelani and Kalu Ganga have reached caution levels due to the higher rainfall in the catchment areas of these rivers, the Irrigation Department's Irrigation (Hydrology) Director Eng. S.P.C. Sugeeshwara Bandara said.
+
+He said the water levels in these rivers have reached caution levels for the first time soon after the north-east monsoon started.
+
+Specially those living along the upper areas of the Kelani and Kalu Ganga closer to the Ratnapura district are requested to be vigilent of sudden floods, he said.
+
+There are possibilities of sudden floods in these areas if rains of 100mm continue, Bandara said.
+
+However, due to heavy rains in the Sabaragamuwa and Western Provinces and the Galle and Matara districts in the Southern Province and certain areas in the North-Western Province, the water levels in these areas prevail at higher level, he added.
+
+◼️
+
+[Data](articles/3a33361f.json)
+
+---
 
 ### New news about Gujarat Fire
 
@@ -55,6 +93,24 @@ According to foreign investigations to identify the DNA samples and bodies of re
 [Data](articles/6a8357c6.json)
 
 [Extended Data](ext_articles/6a8357c6.ext.json)
+
+---
+
+### Police probe theft of Rs. 1.45 Mn from American businessman in Aluthgama hotel
+
+*2024-05-26 11:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Police-probe-theft-of-Rs-1-45-Mn-from-American-businessman-in-Aluthgama-hotel/108-283359) · `en`
+
+Aluthgama, May 26 (Daily Mirror) -  The Aluthgama police have initiated an investigation into the theft of local and foreign currency totaling Rs. 1.45 million from an American businessman staying at a luxury hotel in Aluthgama.
+
+Police said an investigation was launched based on a complaint filed by the American national, Andrew Christopher Lucas, who had reported the incident to the police.
+
+According to statement, the tourist arrived at the hotel on May 23, and on the 24 around 4:20 a.m., he woke up to find someone reaching through the open curtain of his room. He told the police that the suspect fled the scece upon shouting for help.
+
+Later, Lucas notified the hotel staff and conducted a thorough check, only to discover that his bag containing 4,000 US dollars, 210,000 Sri Lankan rupees, his passport, and driver's license were missing.
+
+◼️
+
+[Data](articles/4817de19.json)
 
 ---
 
@@ -95,6 +151,24 @@ Accordingly, very strong winds 60-70 kmph, accompanied with heavy rainfalls and 
 [Data](articles/badb4a93.json)
 
 [Extended Data](ext_articles/badb4a93.ext.json)
+
+---
+
+### வெசாக் பார்க்க சென்ற இளைஞனுக்கு காதலால் விபரீதம்
+
+*2024-05-26 11:49:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெசாக்-பார்க்க-சென்ற-இளைஞனுக்கு-காதலால்-விபரீதம்/175-337880) · `ta`
+
+கிராண்ட்பாஸ் பொலிஸ் பிரிவிற்குட்பட்ட ஒருகொடவத்தை , பேஸ்லைன் வீதியில் பண்டாரநாயக்க சுற்றுவட்டத்திற்கு அருகில் வைத்து கூரிய ஆயுதத்தால் தாக்கப்பட்டதில் இளைஞர் ஒருவர் உயிரிழந்துள்ளார்.
+
+பேலியகொட, நெல்லிகஹவத்த பகுதியைச் சேர்ந்த டி . லுக்ஷான் என்ற 22 வயதுடைய இளைஞனே இவ்வாறு உயிரிழந்துள்ளார்.
+
+குறித்த இளைஞன் தனது நண்பர்களுடன் வெசாக்கை  பார்வையிடுவதற்காக ஒருகொடவத்தை வீதிக்கு சென்று கொண்டிருந்த போது , காதல் உறவின் அடிப்படையில் ஏற்பட்ட தகராறில் சிலர் அவரை தாக்கியதாக தெரிவிக்கப்படுகிறது.
+
+இந்தக் கொலைச் சம்பவம் தொடர்பில்  வெல்லம்பிட்டிய பகுதியை சேர்ந்த 17 மற்றும் 18 வயதுடைய மூவர் கைது செய்யப்பட்டுள்ளதாகவும் ,  விசாரணைகளை மேற்கொண்டு வருவதாகவும் பொலிஸார் தெரிவித்துள்ளனர் .
+
+◼️
+
+[Data](articles/617e60c2.json)
 
 ---
 
@@ -148,6 +222,40 @@ According to the reports, 12 newborns were rescued when the fire caused.
 
 ---
 
+### சிறுவன், சிறுமி துஷ்பிரயோகம்: சித்தப்பாக்கள் கைது
+
+*2024-05-26 11:29:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/தென்-மாகாணம்/சிறுவன்-சிறுமி-துஷ்பிரயோகம்-சித்தப்பாக்கள்-கைது/93-337878) · `ta`
+
+சிறுவன் ஒருவனையும் சிறுமியையும் பாலியல் துஷ்பிரயோகத்துக்கு உட்படுத்தினர் என்றக் குற்றச்சாட்டின் பேரில், அவ்விருவரின் சித்தப்பாக்கள் இருவர் கைது செய்யப்பட்டுள்ளனர்.
+
+மொனராகலை பொலிஸ் பிரிவிற்குட்பட்ட இத்தேகடுவ தெனகல்லந்த பிரதேசத்தில் வசிக்கும் எட்டு வயது சிறுவனை பாலியல் வன்கொடுமை செய்த சிறுவனின் சிறிய தந்தையை மொனராகலை பொலிஸார் கடந்த (25) கைது செய்துள்ளனர்.
+
+சிறுவனின் தாத்தாவின் வீட்டில் வசிக்கும் அச்சிறுவனை, தாத்தா இல்லாத  பல சந்தர்ப்பங்களில்   பாலியல் வன்கொடுமை செய்துள்ளதாக முதற்கட்ட விசாரணையில் தெரியவந்துள்ளது. துஷ்பிரயோகத்திற்கு உள்ளான சிறுவன் மருத்துவ பரிசோதனைக்காக மொனராகலை மாவட்ட பொது வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
+
+சந்தேக நபரை மொனராகலை நீதவான் நீதிமன்றில் ஆஜர்படுத்துவதற்கு ஏற்பாடுகள் செய்யப்பட்டுள்ளன எனத் தெரிவித்த மொனராகலை தலைமையக பொலிஸ் பொறுப்பதிகாரி சர்மிந்த சஞ்சீவ விசாரணைகளை மேற்கொண்டு வருகிறார்.
+
+இதேவேளை, வெல்லவாய பொலிஸ் பிரிவில் வசிக்கும் பதின்மூன்று வயது சிறுமியை பாலியல் வன்கொடுமை செய்த சிறுமியின் சிறிய தந்தை,  கடந்த (25) கைது செய்யப்பட்டதாக வெல்லவாய பொலிஸார் தெரிவித்தனர்.
+
+...
+
+[Data](articles/35f3e947.json)
+
+---
+
+### Ranil holds talks with Wigneswaran
+
+*2024-05-26 11:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ranil-holds-talks-with-Wigneswaran/108-283358) · `en`
+
+Jaffna, May 26 (Daily Mirror) - President Ranil Wickremesinghe engaged in discussions with Member of Parliament and Former Chief Minister, C.V. Wigneswaran at his private residence in Jaffna yesterday.
+
+It was reported that the meeting centered on the ongoing development initiatives in the North and the strategies being implemented to address the concerns of the people in the area.
+
+◼️
+
+[Data](articles/5fe7b700.json)
+
+---
+
 ### Slagine harm Matara
 
 *2024-05-26 11:19:17* · [`adalk`](https://www.ada.lk/breaking_news/සුලගීන්-මාතරට-බර-හානී/11-409822) · `si`
@@ -169,6 +277,28 @@ It is said that about 1100 people in the Matara district have been affected due 
 [Data](articles/4c5a6cdd.json)
 
 [Extended Data](ext_articles/4c5a6cdd.ext.json)
+
+---
+
+### UK court orders extradition of Sri Lankan trafficking suspect
+
+*2024-05-26 11:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/UK-court-orders-extradition-of-Sri-Lankan-trafficking-suspect/108-283357) · `en`
+
+UK, May 26 - The UK court has ordered the extradition of a Sri Lankan man accused of running a people-trafficking ring while employed at a chicken shop to France.
+
+Sathasivam Sivagankan, 58, a refugee granted asylum in Britain, allegedly organized clandestine Channel crossings from his rented home, as revealed in court documents.
+
+A judge has now ordered the dad of two’s extradition to France, where last year he was convicted of people smuggling and given a five-year jail term in his absence, the Sun reported.
+
+Sivagankan had been granted indefinite leave to remain in Britain after fleeing the war in Sri Lanka in 2003 with his wife and sons, who are UK citizens.
+
+The 58-year-old Tamil, of Colliers Wood, South West London, was working part-time at Morley’s chicken shop in Brixton — and receiving universal credits, according to documents.
+
+But he was also a ringleader in a gang which smuggled Sri Lankans into several European countries over two years.
+
+...
+
+[Data](articles/8dede13b.json)
 
 ---
 
@@ -263,6 +393,22 @@ One person died on the spot and 13 people, including 7 women, have been admitted
 [Data](articles/d074ee67.json)
 
 [Extended Data](ext_articles/d074ee67.ext.json)
+
+---
+
+### வாகன விபத்தில் ஒருவர் பலி
+
+*2024-05-26 10:49:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாகன-விபத்தில்-ஒருவர்-பலி/175-337875) · `ta`
+
+பாதெனிய - அனுராதபுரம் வீதியில் கல்கமுவவில் இன்று அதிகாலை வேன் ஒன்று வீதியை விட்டு விலகி மரத்தில் மோதி விபத்துக்குள்ளானதில் ஒருவர் உயிரிழந்துள்ளதுடன் 13 பேர் காயமடைந்துள்ளனர்.
+
+வேனில் குறைந்தது 15 பேர் பயணித்ததாக பொலிஸார் தெரிவித்தனர். அனுராதபுரம் நோக்கிச் செல்லும் குறித்த வேனில் சாரதி உறங்கியதால் மீ ஓயாவிற்கு அருகில் வாகனம் வீதியை விட்டு விலகி விபத்துக்குள்ளானது.
+
+சம்பவ இடத்திலேயே ஒருவர் உயிரிழந்துள்ளதுடன், 7 பெண்கள் உட்பட 13 பேர் கல்கமுவ வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர். ஆபத்தான நிலையில் இருந்த 7 பேர் மேலதிக சிகிச்சைக்காக அனுராதபுரம் வைத்தியசாலைக்கு மாற்றப்பட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/edf6194e.json)
 
 ---
 
@@ -2051,189 +2197,5 @@ The Department urged motorists to exercise caution at railway crossings, as sign
 [Data](articles/88cdce15.json)
 
 [Extended Data](ext_articles/88cdce15.ext.json)
-
----
-
-### Senior President's Lawyer Gamini Marapana passed away
-
-*2024-05-25 16:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/184470) · `ta`
-
-Gamini Marapana, a renowned lawyer and former Minister of Foreign Affairs, passed away at 82. Known for advocating high-profile cases in Sri Lanka, he was also the brother of Tilak Marapana.
-
-🟩
-
-Popular lawyer and senior president's lawyer Gamini Marapana passed away this morning at the age of 82.
-
-Gamini Marapana, who served as the Minister of Foreign Affairs in the 'Good Governance' government. Tilak is the brother of Marapana.
-
-He has effectively advocated many top and most popular court cases in Sri Lanka.
-
-◼️
-
-[Data](articles/1fc6c32a.json)
-
-[Extended Data](ext_articles/1fc6c32a.ext.json)
-
----
-
-### Badulla train is invalid tonight
-
-*2024-05-25 16:36:20* · [`adalk`](https://www.ada.lk/breaking_news/අද-රාත්‍රි-බදුල්ල-දුම්රිය-අවලංගුයි/11-409819) · `si`
-
-Due to bad weather, the Colombo-Badulla train service was cancelled last night. The Nawalapitiya Railway Control Room confirmed the cancellation of both postal trains. This decision was made by a senior railway official to ensure passenger safety.
-
-🟩
-
-Due to the inclement weather, the upcountry railway line was canceled on the night of Colombo, Colombo, Colombo Badulla today.
-
-The Nawalapitiya Railway Control Room said that the two postal trains of Colombo and Badulla was canceled on the two postal trains at the Badulla and Badulla, Colombo and Badulla.
-
-A senior railway department has taken this decision to stop the risk situation and the railway train services to railway passengers.
-
-◼️
-
-[Data](articles/4e89bcac.json)
-
-[Extended Data](ext_articles/4e89bcac.ext.json)
-
----
-
-### Death of a young man who fell on highway from the bridge
-
-*2024-05-25 16:32:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மேம்பாலத்திலிருந்து-நெடுஞ்சாலையில்-விழுந்த-இளைஞன்-மரணம்/175-337831) · `ta`
-
-A 19-year-old from Athurugiriya, studying at a private university in Padukka, tragically fell from a bridge near the Colombo outer road, leading to his untimely death. A note found at the scene indicated suicide.
-
-🟩
-
-A youth has died from a bridge in Colombo at 7 pm last night (24).
-
-The youth has fallen from a bridge near the pillar of 1.2 kilometers of the Colombo outer road on the highway.
-
-The death of a 19 -year -old youth from Athurugiriya, who was educated at a private university in Padukka.
-
-In this case, a letter written in English has been found that the police committed suicide at the house of a young man who died.. Remble
-
-◼️
-
-[Data](articles/5804f16f.json)
-
-[Extended Data](ext_articles/5804f16f.ext.json)
-
----
-
-### 47 recommendations made by audit have not been implemented for six years
-
-*2024-05-25 16:27:47* · [`adalk`](https://www.ada.lk/breaking_news/විගණනයෙන්-දුන්-නිර්දේශ-47ක්-වසර-හයක්-තිස්සේ-ක්‍රියාත්මක-කර-නෑ/11-409818) · `si`
-
-In 2018, the National Audit Office gave 47 recommendations to improve medical supply regulation via the Ministry of Health. These suggestions aimed to ensure quality medical supplies at affordable prices. However, after six years, none of these recommendations have been implemented. The current Auditor General urges immediate action to address this issue.
-
-🟩
-
-The National Audit office reveals that 47 audit recommendations were given in 2018 to regularize medical supplies and distribution process through the Ministry of Health.
-
-This has been revealed by the special audit of the National Drug Regulatory Authority and the National Drug Quality Security Division in the National Drug Regulatory Authority and Protection Authority.
-
-Accordingly, in 2018, the Auditor General HM Goalni Wijesinghe had submitted 47 recommendations to regularize the distribution of quality medical supplies at the lowest prices of quality medical supplies.
-
-The current Auditor General has recommended the current Auditor General by the recently issued documents issued by the Ministry of Public Recommending to take appropriate measures to implement the recommendations and to implement those recommendations.
-
-◼️
-
-[Data](articles/f99180e5.json)
-
-[Extended Data](ext_articles/f99180e5.ext.json)
-
----
-
-### President opens special health center for women at Kilinochchi General Hospital
-
-*2024-05-25 16:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/184430) · `ta`
-
-President Ranil Wickremesinghe inaugurated a Rs 5,320 million Center of Excellence for Women's Healthcare at Kilinochchi General Hospital, funded by the Sri Lankan and Dutch governments to enhance national healthcare facilities.
-
-🟩
-
-The Center of Excellence for Women's Healthcare was opened by President Ranil Wickremesinghe on Saturday (25) at the Kilinochchi District General Hospital at a cost of Rs 5,320 million.
-
-It is noteworthy that the government has launched the project with the help of the Netherlands government under the plan to improve health facilities nationwide.
-
-◼️
-
-[Data](articles/ad620475.json)
-
-[Extended Data](ext_articles/ad620475.ext.json)
-
----
-
-### Will Duncan find firearm?
-
-*2024-05-25 16:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197000) · `si`
-
-Duncan, a victim from Matugama, was killed in the 2020s. His killer, linked to a crime gang, hid a firearm in a bottle near Menikagoda. The weapon, an 8mm automatic, is now under police scrutiny to determine its use in murders.
-
-🟩
-
-The firearm was found in a firearm that was identified as a crime gang member.
-
-The Katugahahena Duncan, in Matugama, was hacked to death in the 2020s.
-
-The firearm has been found according to investigations into investigations into the event that he had a firearm.
-
-It was buried in a bottle in the Menikagoda area.
-
-The same was found in an automatic firearm of 8 mm and an automatic firearm.
-
-The police have identified the relevant firearms into a firearm of functionality and the investigation into whether it was used for murders.
-
-◼️
-
-[Data](articles/b95f863e.json)
-
-[Extended Data](ext_articles/b95f863e.ext.json)
-
----
-
-### Who is the IPL trophy?
-
-*2024-05-25 16:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196999) · `si`
-
-The IPL trophy went to Rajasthan Royals after defeating Sunrisers Hyderabad by 36 runs in the final, marking the latter's first-ever IPL finals appearance.
-
-🟩
-
-Sunrisers Hyderabad team to qualify for the finals of the IPL to match the IPL tournament last night.
-
-Rajasthan Royals defeated Royals by 36 runs in the final.
-
-This is due to the final occasion of the Sunrises Hyderabad team eligible for an IPL finals.
-
-◼️
-
-[Data](articles/3c1f17d3.json)
-
-[Extended Data](ext_articles/3c1f17d3.ext.json)
-
----
-
-### Fallen trees and signal failures continue to disrupt train services
-
-*2024-05-25 16:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/99431/fallen-trees-and-signal-failures-continue-to-disrupt-train-services-) · `en`
-
-The night mail trains to and from Badulla and other special trains on the up-country line have been cancelled today (25) due to trees and rocks falling onto the tracks, Sri Lanka Railways announced.
-
-Meanwhile, Deputy General Manager of Railways, N.J. Indipolage, stated that over 15 incidents of trees falling on to the rail tracks have been reported so far.
-
-Additionally, power interruptions have caused critical issues in maintaining the railway signaling system, especially beyond Nanu Oya railway station, he added.
-
-The Department of Railways also urged motorists to be vigilant while driving across railway crossings, as signal failures are possible at level crossings due to power breakdowns.
-
-Drivers are advised to be cautious when crossing level crossings if there is no signal or if the electric bells continue to ring with only a red signal at the crossings.
-
-◼️
-
-[Data](articles/eb513838.json)
-
-[Extended Data](ext_articles/eb513838.ext.json)
 
 ---

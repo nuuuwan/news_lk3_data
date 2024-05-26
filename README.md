@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-26 14:34:03**
+As of **2024-05-26 14:52:32**
 
 ## Newspaper Stats
 
-*Scraped **26,326** Articles*
+*Scraped **26,327** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,431
 economynextcom | 1,508
 dailyftlk | 1,533
 adalk | 2,240
-adaderanalk | 3,022
+adaderanalk | 3,023
 tamilmirrorlk | 3,087
 virakesarilk | 4,008
 dailymirrorlk | 4,158
@@ -26,11 +26,31 @@ adaderanasinhalalk | 4,215
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,323 (100.0%) of 26,326 articles have been extended.
+26,326 (100.0%) of 26,327 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-26 (Sunday)
+
+### UN raises Papua New Guinea landslide death toll estimate to 670
+
+*2024-05-26 14:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/99445/un-raises-papua-new-guinea-landslide-death-toll-estimate-to-670) · `en`
+
+More than 670 people are believed to have died after a massive landslide obliterated a village in Papua New Guinea, a UN official told AFP on Sunday.
+
+“There are an estimated 150-plus houses now buried” said UN migration agency official Serhan Aktoprak, adding that “670-plus people are assumed dead”.
+
+“The situation is terrible with the land still sliding. The water is running and this is creating a massive risk for eveyrone involved,” added Aktoprak, who is based in Port Moresby.
+
+More than 1,000 people had been displaced from the once-bustling village, Aktoprak said, with food gardens and water supplies almost completely wiped out.
+
+“People are using digging sticks, spades, large agricultural forks to remove the bodies buried under the soil.”
+
+◼️
+
+[Data](articles/30acd754.json)
+
+---
 
 ### Michael Clarke named Brand Ambassador for LPL 2024
 
@@ -45,6 +65,8 @@ Expressing his enthusiasm for the new role, Clarke said, "I can't wait to get ba
 ...
 
 [Data](articles/b796f8a3.json)
+
+[Extended Data](ext_articles/b796f8a3.ext.json)
 
 ---
 
@@ -144,37 +166,51 @@ Meanwhile, the police urge the people to stay under stabbing in unprotected risk
 
 ---
 
-### இலஞ்சம் வாங்கிய காதி  நீதவான் கைது
+### Khadi Magistrate arrested bribes
 
 *2024-05-26 13:16:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/இலஞ்சம்-வாங்கிய-காதி-நீதவான்-கைது/76-337890) · `ta`
 
-விவாகரத்து மற்றும் விவாகரத்து ஆணையை வழங்குவதற்காக பெண்ணொருவரிடம் 4,500 ரூபாய் இலஞ்சம் கோரிய போது, ​​கண்டி-உடதலவின்ன பகுதியில்   வைத்து காதி நீதவான் ஒருவர்,  இலஞ்சம் அல்லது ஊழல் பற்றிய சார்த்துதல்களைப் புலனாய்வு செய்வதற்கான ஆணைக்குழு அதிகாரிகளால் கைது செய்யப்பட்டார்.
+A Khadi Magistrate was arrested for allegedly demanding a 4,500 rupee bribe for granting a divorce. The arrest followed a complaint to the Commission to Investigate Bribery or Corruption after a woman from Raja Ella Kumbakkadura sought a divorce in Khadi Court, Udadhalavinna.
 
-இலஞ்சம் அல்லது ஊழல் பற்றிய சார்த்துதல்களைப் புலனாய்வு செய்வதற்கான ஆணைக்குழுவுக்கு கிடைத்த முறைப்பாட்டின் அடிப்படையில் மேற்கொள்ளப்பட்ட சுற்றிவளைப்பின் போது குறித்த காதி நீதவான் கைது செய்யப்பட்டுள்ளார்.
+🟩
 
-ராஜாஎல்ல கும்பக்கடுர பகுதியைச் சேர்ந்த பெண்ணொருவர்  தனது கணவரிடமிருந்து விவாகரத்து கோரி உடதலவின்ன பகுதிலுள்ள காதி நீதிமன்றில் வழக்குத் தாக்கல் செய்துள்ளார். இந்த வழக்கு விசாரணையின் தீர்ப்பு வழங்குவதற்காகவே அந்த பெண்ணிடம் காதி நீதவான், 4,500 ரூபாய் இலஞ்சம் கேட்டள்ளார்.
+When a woman demanded a bribe of Rs 4,500 for a divorce and divorce order, a Khadi Magistrate was arrested by the Commission to investigate bribery or corruption.
 
-...
+The Khadi Magistrate has been arrested during a raid on the complaint received by the Commission to Investigate Bribery or Corruption.
+
+A woman from Raja Ella Kumbakkadura has filed a case in Khadi Court in Udadhalavinna demanding divorce from her husband.. Khadi Magistrate has asked the woman to bribe 4,500 rupees to give the case a verdict.
+
+The Khadi Magistrate has been arrested during a roundup of the Khadi court by the Commission to investigate bribery or corruption on the basis of a complaint made in this regard.
+
+◼️
 
 [Data](articles/6f58d9ff.json)
 
+[Extended Data](ext_articles/6f58d9ff.ext.json)
+
 ---
 
-### அமெரிக்கரிடம் இருந்து ரூ.1.45 மில்லியன் பணம் திருட்டு
+### Rs.1.45 million from American theft
 
 *2024-05-26 13:09:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமெரிக்கரிடம்-இருந்து-ரூ-1-45-மில்லியன்-பணம்-திருட்டு/175-337889) · `ta`
 
-அளுத்கமவில் உள்ள சொகுசு விடுதியில் தங்கியிருந்த அமெரிக்க வர்த்தகர் ஒருவரிடமிருந்து 1.45 மில்லியன் உள்ளூர் மற்றும் வெளிநாட்டு பணம் திருடப்பட்டமை தொடர்பில் அளுத்கம பொலிஸார் விசாரணைகளை ஆரம்பித்துள்ளனர்.
+Aluthgama police investigate a theft of $4,000 and 2.1 million Sri Lankan rupees from a US businessman at a luxury hotel. The incident occurred when the victim woke up to find someone escaping from his room.
 
-சம்பவம் தொடர்பில் பொலிஸில் முறைப்பாடு செய்த அமெரிக்க பிரஜையான ஆன்ட்ரூ கிறிஸ்டோபர் லூகாஸ் என்பவரின் முறைப்பாட்டின் அடிப்படையில் விசாரணைகள் ஆரம்பிக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+🟩
 
-அதன்படி, சுற்றுலாப் பயணி மே 23 அன்று ஹோட்டலுக்கு வந்துள்ளார், மேலும் 24 ஆம் திகதி அதிகாலை 4:20 மணியளவில், அவர் தனது அறையின் திறந்த திரை வழியாக யாரோ வருவதைக் கண்டு எழுந்தார். அப்போது தான் உதவி கோரி கூச்சலிட்டதையடுத்து சந்தேக நபர் அங்கிருந்து தப்பிச் சென்றதாக அவர் பொலிஸாரிடம் தெரிவித்தார்.
+Aluthgama police have launched an investigation into theft of 1.45 million local and foreign money from a US businessman who was staying at a luxury hotel in Aluthgama.
 
-பின்னர், லூகாஸ் விடுதி ஊழியர்களுக்கு அறிவித்து முழுமையான சோதனையை மேற்கொண்டுள்ளார். அப்போது அவரது பையில் இருந்த 4,000 அமெரிக்க டொலர்கள், 210,000 இலங்கை ரூபாய்கள், அவரது கடவுச்சீட்டு மற்றும் ஓட்டுநர் உரிமம் ஆகியவை காணாமல் போயிருந்ததாக.
+Investigations have been launched on the complaint of US citizen Andrew Christopher Lucas, who lodged a complaint with the police regarding the incident.
+
+Accordingly, the tourist arrived at the hotel on May 23, and at 4:20 am on the 24th, he woke up to find someone coming through the open screen of his room.. It was then that he told police that the suspect had escaped after shouting for help.
+
+Later, Lucas has notified the hostel staff and carried out a thorough test. At the time, he was missing the US $ 4,000, 210,000 Sri Lankan rupees, his passport and driver's license.
 
 ◼️
 
 [Data](articles/7bed22ef.json)
+
+[Extended Data](ext_articles/7bed22ef.ext.json)
 
 ---
 
@@ -2241,29 +2277,5 @@ Several incidents of trees falling, damages to vehicles and disruptions to traff
 [Data](articles/864aefe2.json)
 
 [Extended Data](ext_articles/864aefe2.ext.json)
-
----
-
-### Do you know?
-
-*2024-05-25 18:19:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உங்களுக்குத்-தெரியுமா/175-337834) · `ta`
-
-A reward of 2 million rupees is offered for the arrest of suspect Gerath Pushparajah Osman Gerad, wanted by the Criminal Investigation Department. The public is urged to share any information leading to his capture, contacting CID Director at 071-8591753 or OIC at 071-8591774.
-
-🟩
-
-2 million rupees has been announced to arrest a suspect, who is searching for a special investigation by the Criminal Investigation Department.
-
-The police have sought the help of the public to arrest the suspect, Gerath Pushparajah Osman Gerad, a suspect, Dematagoda.
-
-Police have released a photo of the suspect and request the public to provide information about the suspect to the following telephone numbers:
-
-Director (CID) can be informed via 071-8591753 or Criminal Investigation Department OIC 071- 8591774
-
-◼️
-
-[Data](articles/eb433b06.json)
-
-[Extended Data](ext_articles/eb433b06.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-26 20:03:39**
+As of **2024-05-26 20:18:49**
 
 ## Newspaper Stats
 
-*Scraped **26,383** Articles*
+*Scraped **26,387** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,30 +19,102 @@ adalk | 2,245
 adaderanalk | 3,028
 tamilmirrorlk | 3,097
 virakesarilk | 4,026
-dailymirrorlk | 4,162
+dailymirrorlk | 4,166
 adaderanasinhalalk | 4,226
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,381 (100.0%) of 26,383 articles have been extended.
+26,383 (100.0%) of 26,387 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-26 (Sunday)
 
-### IPL අවසන් ගැටුමේ කාසියේ වාසිය මෙන්න
+### 59 trees fall within Colombo in seven days
+
+*2024-05-26 19:38:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/59-trees-fall-within-Colombo-in-seven-days/108-283369) · `en`
+
+Colombo, May 25 (Daily Mirror) - A total of 59 trees have fallen within the Colombo Municipal Council's jurisdiction in the past week due to high winds, Colombo Municipal Commissioner Bhadrani Jayawardena revealed.
+
+According to the Commissioner, 19 tree falls were recorded in the Vihara Maha Devi Park, with most other incidents occurring along the main roads.
+
+“The Colombo Municipal Council, supported by the security forces, is currently removing the fallen trees,” she noted.
+
+Jayawardena stated that many of the affected trees were not initially at risk but succumbed to the strong winds.
+
+Furthermore, Jayawardena highlighted that nearly 200 trees, aged between 50 and 150 years, are in dangerous conditions.
+
+“Due to significant rot, a large number of these trees have been preemptively cut down to prevent further incidents,” she added.
+
+◼️
+
+[Data](articles/98a1ce2e.json)
+
+---
+
+### Here's the advantage of the coin of the IPL last conflict
 
 *2024-05-26 19:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197036) · `si`
 
-IPL තරගාවලියේ අවසන් තරගයේ කාසියේ වාසිය දිනාගැනීමට හයිද්‍රාබාද් කණ්ඩායම සනත්විය.
+Hyderabad won the IPL final after winning the toss and choosing to bat first against Kolkata.
 
-එහිදී ඔවුන් තීරණය කළේ කොල්කටා කණ්ඩායමට එරෙහිව ප්‍රථමයෙන් පන්දුවට පහරදීමටය.
+🟩
+
+The Hyderabad won the toss and win the IPL tournament.
+
+They decided to bat first against Kolkata team.
 
 ◼️
 
 [Data](articles/528d3c92.json)
+
+[Extended Data](ext_articles/528d3c92.ext.json)
+
+---
+
+### UN fears 670 people buried under Papua landslide
+
+*2024-05-26 19:07:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/UN-fears-670-people-buried-under-Papua-landslide/107-283371) · `en`
+
+May 26 (BBC) - About 670 people are estimated to be buried under a massive landslide in Papua New Guinea, a UN official says.
+
+The head of the International Organization for Migration in Papua New Guinea, Serhan Aktoprak, said the impact of Friday's landslide in the country's isolated Enga province was greater than initially thought.
+
+"There are an estimated 150-plus houses now buried," Mr Aktoprak said.
+
+The affected areas are in the highlands of Enga, in the north of the island nation in the south-west Pacific.
+
+Mr Aktoprak said rescuers were at risk because "the land still sliding".
+
+"The water is running and this is creating a massive risk for everyone involved," he said.
+
+There are nearly 4,000 people living in the area hit by the landslide.
+
+But Care Australia, the humanitarian agency which is helping with relief efforts, warned that the number affected was "likely to be higher" because of an influx of people escaping tribal conflicts in neighbouring areas.
+
+...
+
+[Data](articles/f21c65ac.json)
+
+---
+
+### French Ambassador to Sri Lanka dies of suspected cardiac arrest
+
+*2024-05-26 18:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/French-Ambassador-to-Sri-Lanka-dies-of-suspected-cardiac-arrest/155-283370) · `en`
+
+Colombo, May 26 (Daily Mirror) - The French ambassador to Sri Lanka, Jean Francois Pactet, died of a suspected cardiac arrest at his official residence in Rajagiriya today.
+
+Police Spokesman DIG Nihal Thalduwa said the 53-year-old ambassador was found dead at his residence this morning.
+
+It was revealed that the ambassador did not come out of his room today, and when checked, he was found dead.
+
+The Welikada Police are investigating the incident, and a post-mortem examination is to be conducted.
+
+◼️
+
+[Data](articles/840090ee.json)
 
 ---
 
@@ -116,19 +188,29 @@ However, as of Friday (May 24), more than 59,400 electrical fractures were repor
 
 ---
 
-### වතු කම්කරු වැටුප් වැඩි නොවුණොත් රජයට අයති වතු යළිත් පවරා ගන්නවා
+### If the estate workers' salaries are not increased, the government regimes again
 
 *2024-05-26 18:34:58* · [`adalk`](https://www.ada.lk/breaking_news/වතු-කම්කරු-වැටුප්-වැඩි-නොවුණොත්-රජයට-අයති-වතු-යළිත්-පවරා-ගන්නවා/11-409830) · `si`
 
-වැටුපවැඩිකිරීමට ජනාධිපතිතුමා විසින් තීරණය කළ බවත් එම තීරණයට එකඟ නොවුනහොත් රජයට අයත් වතුසියල්ලම යළි රජයට පවරා ගැනීමට තීරණය කර තිබෙන බවත් කම්කරු හා විදේශරැකියා  අමාත්‍ය මනුෂ නානයක්කාර මහතා අද ඇල්පිටියේදී මාධ්‍ය හමුවක් පවත්වමින් පැවසීය.
+Minister Manusha Nimankara plans to intervene if the government doesn't agree to increase estate workers' salaries to Rs. 1700, as per labor laws. This decision follows the government's failure to accept the labor commissioner's recommendations. Despite private tea factories offering higher wages, the government-controlled estates lag behind. The President aims to ensure a fair wage without compromising the government's estate management. The cabinet has approved drafting a basic act to address this issue, emphasizing the importance of supporting the government in improving the country's economic situation.
 
-"හාම්පුතුන් සමග සහ වෘත්තීය සමිති සමග සාකච්චාවට කිහිපයක් පැවැත්වීමෙන් පසු වතුහාම්පුතුන් එකඟ නොවූ නිසා එවැනි එකඟතාවයක් නැති අවස්ථාවල කම්කරු කොමසාරිස්වරයා වෙත පැවරී ඇති බලතල අනුව නීතියෙන් අපට ලැබී තිබෙන ප්‍රතිපාදන අනුව,මූලික වැටුප හැටියට රුපියල් 1350/=කුත්,දීමනාවක් හැටියට රුපියල් 350/=කුත්,වශයෙන් රුපියල් 1700/=ක දීමනාවක් ගෙවන හැටියට තීන්දු කළා.
+🟩
 
-එය අප්‍රේල් මාසෙ 30 වැනිදා ගැසට් කරනු ලැබුවා.එම පියවර ක්‍රියාත්මක කිරීම සඳහා දින 15 ක කාලයක් ලබාදුන්නා.නමුත් කිසුවෙකුගෙන් ඊට විධිමත්වූ විකල්ප යෝජනාවක් ලැබුණේ නැහැ.ඒ නිසා නැවත වතාවක් අපි ගත්තු තීරණය ස්ථිර කරමින් නැවත වතාවක් අපි රජයක් විදියටත් කම්කරු නීතිරීති අනුවත් අපට ලැබීතිබෙන බලතල අනුවත්  ගිය බ්‍රහස්පතින්දා කටයුතු කළා.
+Minister Manusha Nimankara has decided to take over the government to the government, if the decision has been decided to take salary and is not agreed to the government.
+
+According to the provisions of the law, the law has not been accepted by the Laboratories to the Commissioner of Labor and the authority assigned to the Commissioner of Labor as the authority has not agreed to the authority.He decided to pay Rs. 1700 / =.
+
+It was gazetted on the 30th of April.Thursday took place last.
+
+The President also discussed the matter with several occasions in several occasions.As a result, all the estimates happen to pay the minimum basic pay.
+
+Today, even private tea factories pays more salary than this basic salary. The government's estate is leased to the private sector.
 
 ...
 
 [Data](articles/fbd343dc.json)
+
+[Extended Data](ext_articles/fbd343dc.ext.json)
 
 ---
 
@@ -171,6 +253,18 @@ Colombo, May 26 (Daily Mirror) - Veteran musician Ananda Perera passed away toda
 [Data](articles/84cada3b.json)
 
 [Extended Data](ext_articles/84cada3b.ext.json)
+
+---
+
+### Veteran musician Ananda Perera passes away
+
+*2024-05-26 18:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Veteran-musician-Ananda-Perera-passes-away/108-283368) · `en`
+
+Colombo, May 26 (Daily Mirror), Veteran musician, composer and singer Ananda Perera passed away at the age of 67 a short while ago.
+
+◼️
+
+[Data](articles/9e7e8c61.json)
 
 ---
 
@@ -2151,109 +2245,5 @@ The deceased has been identified as a 69-year-old resident of Embilipitiya.
 [Data](articles/0616db39.json)
 
 [Extended Data](ext_articles/0616db39.ext.json)
-
----
-
-### Call for sustainability in the Bay of Bengal
-
-*2024-05-26 09:48:00* · [`economynextcom`](https://economynext.com/call-for-sustainability-in-the-bay-of-bengal-164743/) · `en`
-
-ECONOMYNEXT – On the one hand, is the Bay of Bengal Large Marine Ecosystem project, a five-year collaborative approach to address the many ecological challenges of the region.
-
-On the other, heightened geopolitical rivalries between competing nations, the USA and her allies, and China and her Belt and Road Initiative may well divide loyalties amongst the Bay’s littoral states impacting the smooth implementation of the project.
-
-The Bay of Bengal (BoB), the largest in the world lays claim to 12 per cent of mangroves including the Sundarbans mangrove forest, 8 per cent of coral reefs and a huge expanse of seagrasses. Its coastline is home to nearly 1.4 billion people.
-
-...
-
-[Data](articles/de8270a0.json)
-
-[Extended Data](ext_articles/de8270a0.ext.json)
-
----
-
-### Pilgrimage will end at fatal crash
-
-*2024-05-26 09:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197017) · `si`
-
-A pilgrimage ended tragically when a van carrying 15 passengers crashed near Galgamuwa, Meeoya, injuring 14 including one fatally. The driver lost control, causing the accident.
-
-🟩
-
-One person was injured and 13 others were injured in an accident.
-
-The accident had occurred near Galgamuwa, Meeoya today (26).
-
-The driver of Padeniya to Anuradhapura and slipped away from the road to the island of the Collision and clashed in the island of the Collapse of the Meeo.
-
-It is reported that about 15 people in the van were reported at the time of the accident.
-
-One person was killed in the accident and was admitted to the Galgamuwa Hospital.
-
-The deceased has been identified as a 69 year old resident of Embilipitiya.
-
-Seven out of the injured were rushed to the Anuradhapura hospital for further treatment.
-
-◼️
-
-[Data](articles/475740d9.json)
-
-[Extended Data](ext_articles/475740d9.ext.json)
-
----
-
-### 1 year old child died of a heart attack
-
-*2024-05-26 09:30:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/1-வயது-குழந்தை-மாரடைப்பால்-உயிரிழந்தது/50-337866) · `ta`
-
-A 23-year-old man from Ohio, Edward Murray, has been arrested for allegedly murdering his girlfriend's 1-year-old son. The child suffered severe injuries including brain damage, broken ribs, and internal organ damage, which led to his death. Investigations suggest the injuries could be from violent impacts or kicks. This tragic incident has sparked outrage and sadness over the brutal treatment of an innocent child.
-
-🟩
-
-Investigations into the brutal injuries of an adult child suggested that he had a heart attack, resulting in brain damage, the ribs.
-
-Edward Murray, 23, 23, who lives in Ohio, has been arrested for allegedly killing his girlfriend's 1 -year -old son.
-
-After the arrest of Murray on May 10, allegations of murder, brutal assault and danger to the child have been leveled.
-
-The sub -doctors at Cincinnati's house were invited on May 1, where they found the child did not respond. They then tried to save his life. He was sent to the Cincinnati Children's Hospital Medical Center for treatment. It was announced on May 5 that the child was dead
-
-Investigations into the brutal injuries of an adult, he had a heart attack, resulting in a brain damage, broken rib, corrupted liver, bleeding eye tissues and brain inflammation.
-
-According to doctors, the child's injuries may have been "only caused by violent impacts against the objects or the feet provided."
-
-...
-
-[Data](articles/8bf63eac.json)
-
-[Extended Data](ext_articles/8bf63eac.ext.json)
-
----
-
-### 1 -year -old child died of a heart attack
-
-*2024-05-26 09:30:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/1-வயது-குழந்தை-மாரடைப்பால்-உயிரிழந்தான்/50-337866) · `ta`
-
-A 23-year-old man from Ohio, Edward Murray, has been arrested for allegedly murdering his girlfriend's 1-year-old son. The child suffered severe injuries including brain damage, broken ribs, and other internal injuries, which led to his death. Investigations suggest the child might have experienced violent impacts, possibly from being kicked or hit with objects. This tragic incident has sparked outrage and sadness, highlighting the severity of child abuse cases.
-
-🟩
-
-Investigations into the brutal injuries of an adult child suggested that he had a heart attack, resulting in brain damage, the ribs.
-
-Edward Murray, 23, 23, who lives in Ohio, has been arrested for allegedly killing his girlfriend's 1 -year -old son.
-
-After the arrest of Murray on May 10, allegations of murder, brutal assault and danger to the child have been leveled.
-
-The sub -doctors at Cincinnati's house were invited on May 1, where they found the child did not respond. They then tried to save his life. He was sent to the Cincinnati Children's Hospital Medical Center for treatment. It was announced on May 5 that the child was dead
-
-Investigations into the brutal injuries of an adult, he had a heart attack, resulting in a brain damage, broken rib, corrupted liver, bleeding eye tissues and brain inflammation.
-
-According to doctors, the child's injuries may have been "only caused by violent impacts against the objects or the feet provided."
-
-...
-
-[Data](articles/9409367c.json)
-
-[Extended Data](ext_articles/9409367c.ext.json)
 
 ---

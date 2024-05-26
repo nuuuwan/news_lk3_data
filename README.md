@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-26 09:18:42**
+As of **2024-05-26 09:34:04**
 
 ## Newspaper Stats
 
-*Scraped **26,277** Articles*
+*Scraped **26,278** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adaderanalk | 3,016
 tamilmirrorlk | 3,075
 virakesarilk | 4,006
 dailymirrorlk | 4,147
-adaderanasinhalalk | 4,205
+adaderanasinhalalk | 4,206
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,276 (100.0%) of 26,277 articles have been extended.
+26,277 (100.0%) of 26,278 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-26 (Sunday)
+
+### ප්‍රේම සම්බන්ධය ඝාතනයකින් කෙළවර වෙයි
+
+*2024-05-26 09:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197016) · `si`
+
+ප්‍රේම සම්බන්ධතාවයක් මුල්කරගනිමින් ඇතිවූ ආරවුලක් හේතුවෙන් තියුණු ආයුධයකින් පහරදී තරුණයෙකු ඝාතනය කර තිබේ.
+
+ඊයේ (25) එම සිදුවීම වාර්තා වී තිබුණේ, ග්‍රෑන්ඩ්පාස් පොලිස් වසමේ බේස්ලයින් පාර බණ්ඩාරනායක වටරවුම ආසන්නයේදීය.
+
+මරණකරු වෙසක් සිරි නැරඹීම සඳහා තම හිතවතුන් කිහිපදෙනෙකු සමග ඔරුගොඩවත්ත දෙසට ගමන් කරමින් සිටින අතරතුරදී පිරිසක් විසින් තියුණු ආයුධයකින් පහරදී මෙම ඝාතනය සිදුකර තිබුණි.
+
+ඝාතනය සම්බන්ධයෙන් වැල්ලම්පිටිය ප්‍රදේශයේ පදිංචි අවුරුදු 17 හා 18 වයස්වල පසුවන සැකකරුවන් තිදෙනෙකු අත්අඩංගුවට ගෙන ඇත.
+
+◼️
+
+[Data](articles/131c8b02.json)
+
+---
 
 ### Wigneswaran met the president
 
@@ -111,6 +129,8 @@ Airlines for America said U.S carriers plan to fly more than 26,000 daily flight
 ...
 
 [Data](articles/f2df3677.json)
+
+[Extended Data](ext_articles/f2df3677.ext.json)
 
 ---
 
@@ -299,20 +319,6 @@ President Ranil Wickremesinghe made this statement participating at the Jaffna D
 [Data](articles/c50a24f8.json)
 
 [Extended Data](ext_articles/c50a24f8.ext.json)
-
----
-
-### Exciting Events at Babylon Oberoi
-
-*2024-05-26 06:52:00* · [`islandlk`](http://island.lk/exciting-events-at-babylon-oberoi/) · `en`
-
-As the new Food & Beverage Manager at Hotel Babylon Oberoi I wanted, in 1989, the hotel to make a name in hospitality and catering in Iraq. I was also keen to create and promote a string of international food festivals in Baghdad but encountered several challenges. With my experience ding this many times before, I was well-prepared, motivated, and confident of creating a buzz and present hospitality events and entertainment in Baghdad.
-
-...
-
-[Data](articles/b0717e62.json)
-
-[Extended Data](ext_articles/b0717e62.ext.json)
 
 ---
 
@@ -677,6 +683,20 @@ Generations not born here will laud and praise the memory of Father Vito Perniol
 [Data](articles/c92243dc.json)
 
 [Extended Data](ext_articles/c92243dc.ext.json)
+
+---
+
+### Exciting Events at Babylon Oberoi
+
+*2024-05-25 23:14:00* · [`islandlk`](http://island.lk/exciting-events-at-babylon-oberoi/) · `en`
+
+As the new Food & Beverage Manager at Hotel Babylon Oberoi I wanted, in 1989, the hotel to make a name in hospitality and catering in Iraq. I was also keen to create and promote a string of international food festivals in Baghdad but encountered several challenges. With my experience ding this many times before, I was well-prepared, motivated, and confident of creating a buzz and present hospitality events and entertainment in Baghdad.
+
+...
+
+[Data](articles/b0717e62.json)
+
+[Extended Data](ext_articles/b0717e62.ext.json)
 
 ---
 
@@ -2217,37 +2237,5 @@ The Sri Lankan high commissioner assured all possible cooperation in this regard
 [Data](articles/6faac606.json)
 
 [Extended Data](ext_articles/6faac606.ext.json)
-
----
-
-### Cut the sword in Mannar Basal;Treatment at the hospital
-
-*2024-05-25 11:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/184442) · `ta`
-
-A man was seriously injured in a sword attack in the 7th region of Murugan Kovilladi, Mannar-Basalai, on Wednesday night. The 38-year-old father of three was taken to Jaffna District Hospital. His family filed a complaint at the local police station but no arrests were made. Over 15 individuals arrived armed with swords and iron rods. Authorities are urged to intervene and prevent similar incidents.
-
-🟩
-
-A family member has been admitted to the Jaffna District Hospital with serious injuries during the sword cutting incident in the 7th region of the Murugan Kovilladi area, which belongs to the Mannar -Basalai police division.
-
-The incident took place at 9 pm on Wednesday 22nd.
-
-It is reported that the victim was the father of three children aged 38 in the same town.
-
-The victim's family has lodged a complaint at the Basal police station on the 23rd.
-
-However, the victims said that no one involved in the sword cutting incident has been arrested.
-
-In addition, it was reported that more than 15 persons came with the sword knife iron rods that day and the arrival of the arrival.
-
-In addition, the police have demanded that they take appropriate action and restrict them to the people involved in such fighting conflicts.
-
-It is noteworthy that the area has signed the sword and brought to the notice of the relevant authorities.
-
-◼️
-
-[Data](articles/72d9024d.json)
-
-[Extended Data](ext_articles/72d9024d.ext.json)
 
 ---

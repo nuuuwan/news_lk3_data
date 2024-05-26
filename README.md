@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-26 22:34:07**
+As of **2024-05-26 22:52:06**
 
 ## Newspaper Stats
 
-*Scraped **26,406** Articles*
+*Scraped **26,409** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,48 +19,106 @@ adalk | 2,247
 adaderanalk | 3,029
 tamilmirrorlk | 3,097
 virakesarilk | 4,035
-dailymirrorlk | 4,167
-adaderanasinhalalk | 4,232
+dailymirrorlk | 4,168
+adaderanasinhalalk | 4,234
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,403 (100.0%) of 26,406 articles have been extended.
+26,406 (100.0%) of 26,409 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-26 (Sunday)
 
-### சீரற்ற காலநிலையால் எட்டு பேர் உயிரிழப்பு: 45509 நபர்கள் பாதிப்பு; மழையுடனான காலநிலை தொடரும்
+### 2024 IPL කිරුළ කොල්කටා කණ්ඩායමට
+
+*2024-05-26 22:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197044) · `si`
+
+2024 IPL තරගාවලියේ කිරුළ හිමිකරගැනීමට කොල්කටා නයිට් රයිඩර්ස් කණ්ඩායම සමත්විය.
+
+◼️
+
+[Data](articles/b7088b20.json)
+
+---
+
+### Man arrested with nearly 2 kgs of heroin in Panadura
+
+*2024-05-26 22:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Man-arrested-with-nearly-2-kgs-of-heroin-in-Panadura/108-283376) · `en`
+
+Colombo, May 26 (Daily Mirror)- A 37-year-old man was arrested with 1.850 kilograms of heroin at Walapana in the Panadura South police division this evening.
+
+The raid was carried out by the Kalutara Crimes Division on information received by them. A mobile phone was also taken into police custody.
+
+◼️
+
+[Data](articles/15926847.json)
+
+---
+
+### හෙරොයින් තොගයක් සමග සැකකරුවෙකු අත්අඩංගුවට
+
+*2024-05-26 22:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197043) · `si`
+
+මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ 37 හැවිරිදි වියේ පසුවන පානදුර වලපන ප්‍රදේශයේ පදිංචිකරුවෙකි.
+
+එහිදී සැකකරු සන්තකයේ තිබී හෙරොයින් කිලෝග්‍රෑම් 1යි ග්‍රෑම් 850ක් පොලීසිය සොයාගෙන ඇත.
+
+සැකකරු අත්අඩංගුවට ගත් අවස්ථාවේ ඔහු සතුව තිබූ ජංගම දුරකථනයක්ද පොලීසිය සිය භාරයට ගෙන ඇත.
+
+◼️
+
+[Data](articles/ad29784f.json)
+
+---
+
+### Eight people die due to inclement weather: 45509 persons are affected; The climate will continue with the rainfall
 
 *2024-05-26 22:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/184560) · `ta`
 
-தென்மேல் பருவப் பெயர்ச்சி நிலைமை காரணமாக நாட்டில் தற்போது நிலவும் மழையுடனான சீரற்ற காலநிலை மேலும் தொடரும் என எதிர்பார்க்கப்படுவதாக வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது. மேல், சப்ரகமுவ, மத்திய, வடமேல் மற்றும் தென் மாகாணங்களில் இன்று அவ்வப்போது மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடிய சாத்தியம் காணப்படுகின்றது.
+Inclement weather caused by the southwestern monsoon has led to severe conditions across several provinces, affecting over 45,000 individuals and resulting in eight fatalities. Heavy rainfall, accompanied by strong winds and potential landslides, threatens further damage. The Department of Meteorology warns of continuous rainfall and advises caution against activities like fishing in turbulent seas. Precautions against lightning impacts are also recommended.
 
-சீரற்ற காலநிலையுடன் கூடிய பலத்த காற்றினால் மரம் முறிந்து விழல் மற்றும் மண்மேடு சரிதல் உள்ளிட்ட விபத்துக்களினால் இதுவரை 12207 குடும்பங்கள் பாதிக்கப்பட்டுள்ள நிலையில் 45509  பேர் பாதிக்கப்பட்டுள்ளதுடன்,இதுவரை (நேற்று மாலை ) 08 பேர் உயிரிழந்துள்ளதுடன்,13 பேர் காயமடைந்துள்ளனர்.12 வீடுகள் முழுமையாகவும்,3166 வீடுகள் பகுதியளவிலும் சேதமடைந்துள்ளன.
+🟩
+
+The Department of Meteorology has predicted that the prevailing rainy weather in the country is expected to continue due to the southwestern monsoon condition.. The upper, Sabaragamuwa, Central, North Western and Southern Provinces are likely to experience rains or thunderstorms today.
+
+About 12207 families have been affected by the accidents, including heavy winds, and the damage to the mudslide, and 45509 have been affected and 13 people have been killed and 13 injured yesterday evening.
+
+From time to time, there is a possibility of rain or thunderstorms in the seas along the coastal seas from Mannar to Colombo and Galle.. Heavy rainfall is expected in some parts of these seas, and in some other seas around the country, there is a possibility of rain or thundershowers.
+
+Due to the southwest monsoon condition, the current rainfall and wind conditions will continue.
 
 ...
 
 [Data](articles/007908ab.json)
 
+[Extended Data](ext_articles/007908ab.ext.json)
+
 ---
 
-### සමාජ මාධ්‍ය තහනමක් ගැන හරීන්ගෙන් අනතුරු ඇඟවීමක්
+### Harin warning about a social media ban
 
 *2024-05-26 22:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197042) · `si`
 
-ඇතැම් විද්‍යුත් මාධ්‍ය ද යොදාගනිමින් ක්‍රිකට් ක්‍රීඩාවට විනාශකාරී ලෙස පහර ගසන සමාජ මාධ්‍ය කල්ලිවලට එරෙහිව නෛතික පියවර ගැනීම අරඹා ඇති බව ක්‍රීඩා අමාත්‍ය හරීන් ප්‍රනාන්දු මහතා පවසයි.
+Sports Minister Harin Fernando announced legal action against social media groups damaging cricket, citing the Social Media Regulatory Act. He mentioned being accused alongside Sanath Jayasuriya, highlighting the need for stronger laws to prevent such issues in Sri Lanka.
 
-ඔහු මේ බව පැවසුවේ ශ්‍රී ලංකාවේ ප්‍රථම ගොල්ෆ් ඇකඩමිය විවෘත කිරීමේ අද (26) පැවති උත්සවයකට සහභාගී වෙමිනි.
+🟩
 
-අමාත්‍යවරයා එහිදී වැඩිදුරටත් පැවුසවේ සමාජ මාධ්‍ය නියාමන පනත හරහා නෛතික පියවර ගන්නා බවය.
+Sports Minister Harin Fernando says that some electronic media has launched legal action against cricket accustomed social media gangs.
 
-"සමාජ මාධ්‍ය කිහිපයක් ආයෙත් සූදානම් වෙලා ක්‍රිකට්වලට මඩ ගහන්න. ගොඩක් අය අද නොදන්න දේ මේ දඹුල්ල සිද්ධිය නිසා මටත් සනත් ජයසූරියටත් චෝදනා කරනවා. ක්‍රීඩා වැරදි වැළැක්වීමේ ඒකකය 2019 දී පිහිටුවූයේ මමයි. ලෝකේ නැති නීතියක් ලංකාවේ තිබීමම අපිට ශක්තියක්. අලුතෙන් ගෙනාපු ON LINE පනත හරහා මඩ ගහන සියලුදෙනාට නඩු පවරනවා. සියලුදෙනාගේ සමාජ මාධ්‍ය තහනමකට ලක්වෙනවා. එකම චෝදනා කරන කට්ටියක් එකම නාලිකාවක් අල්ලගෙන අපිට මඩ ගහනවා."
+He was speaking at a function held at the opening of the first Golf Academy of Sri Lanka today.
+
+The Minister said that legal action will be taken through the Social Media Regulatory Act.
+
+"Prepare several social media and muddled cricket. Many people do not know today are accusing of me and Sanath Jayasuriya. I was setting the sports wrong prevention unit in 2019. It is a strength to have a lawless law in Sri Lanka. The newly brought back to mudslinging through the Act. All of the social media ban. The same accusations hold a single channel and muddy us. "
 
 ◼️
 
 [Data](articles/ef226f06.json)
+
+[Extended Data](ext_articles/ef226f06.ext.json)
 
 ---
 
@@ -79,6 +137,8 @@ Speaking to the media in Kaduwela today (26), Tennakoon said: “A new committee
 ...
 
 [Data](articles/41df24af.json)
+
+[Extended Data](ext_articles/41df24af.ext.json)
 
 ---
 
@@ -2183,81 +2243,5 @@ Police say he had to suffer a lot of damage during the election procession.
 [Data](articles/463f5c82.json)
 
 [Extended Data](ext_articles/463f5c82.ext.json)
-
----
-
-### Red warning about the sea from the weather
-
-*2024-05-26 11:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197022) · `si`
-
-A red warning for severe winds and rough seas issued by the Department of Meteorology is effective for the next 24 hours. Heavy showers are expected in the island's Bay of Bayneraka area due to strong winds. The Northern Bengal Bay Sea's hurricane, Remas, has intensified to a hurricane at the North Bay Sea.
-
-🟩
-
-The Department of Meteorology has issued a red warning statement on the roughness of strong winds and sea.
-
-The Department has issued this announcement to be valid for the next 24 hours.
-
-Heavy showers in the area of the island and the Bay of Bay of Bay of Bay of Bayneraka have also occur due to strong winds.
-
-The sea areas can be very rough.
-
-The hurricane of Remas held in the Northern Bengal Bay Sea has increased to a hurricane at the North Bay Sea.
-
-Below is the red warning notification issued by the Department of Meteorological Department.
-
-◼️
-
-[Data](articles/90a7c111.json)
-
-[Extended Data](ext_articles/90a7c111.ext.json)
-
----
-
-### Fire breaks out in a children's hospital in India
-
-*2024-05-26 11:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197021) · `si`
-
-A tragic fire broke out in a children's hospital in India, resulting in the deaths of 7 children and the rescue of 12 newborns.
-
-🟩
-
-An emergency fire has erupted in a children's hospital in India.
-
-These reports further stated that nearly 7 children have died due to the fire.
-
-According to the reports, 12 newborns were rescued when the fire caused.
-
-◼️
-
-[Data](articles/c16705c9.json)
-
-[Extended Data](ext_articles/c16705c9.ext.json)
-
----
-
-### Boy, girl abuse: Siddhappas arrested
-
-*2024-05-26 11:29:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/தென்-மாகாணம்/சிறுவன்-சிறுமி-துஷ்பிரயோகம்-சித்தப்பாக்கள்-கைது/93-337878) · `ta`
-
-In Moneragala, two individuals were arrested for sexually abusing a boy and a girl. The boy was assaulted multiple times by his grandfather's caretaker, while the girl was abused by her father's friend, Siddhappa. Both victims were hospitalized for examinations, and the suspects will face court proceedings.
-
-🟩
-
-Two of them have been arrested on charges of sexually abusing a boy and a girl.
-
-Moneragala police have arrested a little father of a boy who sexually abused a boy living in the Thenagallanda area of ​​Ikkaduwa, a police division, belonging to the Moneragala Police Division.
-
-Preliminary inquiries have revealed that the boy who lives in the house of the boy's grandfather has been sexually abused on several occasions without grandfather.. The boy who was abused has been admitted to the Moneragala District General Hospital for medical examination.
-
-The Moneragala Headquarters Superintendent Sarminda Sanjeewa is conducting investigations that arrangements have been made to produce the suspect at the Moneragala Magistrate's Court.
-
-Meanwhile, Wellawaya police said that the little father of a girl who had sexually abused a thirteen -year -old girl living in the Wellawaya Police Division was arrested last (25).
-
-...
-
-[Data](articles/35f3e947.json)
-
-[Extended Data](ext_articles/35f3e947.ext.json)
 
 ---

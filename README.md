@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-26 08:19:39**
+As of **2024-05-26 08:33:59**
 
 ## Newspaper Stats
 
-*Scraped **26,266** Articles*
+*Scraped **26,267** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,431
 economynextcom | 1,505
 dailyftlk | 1,533
 adalk | 2,235
-adaderanalk | 3,014
+adaderanalk | 3,015
 tamilmirrorlk | 3,068
 virakesarilk | 4,006
 dailymirrorlk | 4,146
@@ -26,45 +26,79 @@ adaderanasinhalalk | 4,204
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,257 (100.0%) of 26,266 articles have been extended.
+26,264 (100.0%) of 26,267 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-26 (Sunday)
 
-### ඉන්දියාවේ ගින්නෙන් මියගිය පිරිස තවත් ඉහළට
+### Heavy showers above 100mm expected in parts of the island
+
+*2024-05-26 08:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/99438/heavy-showers-above-100mm-expected-in-parts-of-the-island) · `en`
+
+The Department of Meteorology says the prevailing showery and windy conditions are expected to continue due to the Southwest monsoon conditions.
+
+Showers or thundershowers will occur at times in Western, Sabaragamuwa, Central, North-western and Southern provinces.
+
+Heavy showers above 100 mm are likely at some places in Sabaragamuwa province and in Nuwara-Eliya District while fairly heavy showers of about 75 mm are likely at some places in Western and North-western provinces and in Kandy, Galle and Matara districts.
+
+Several spells of showers will occur in Northern and North-central provinces and a few showers may occur in the Eastern Province, it said.
+
+Strong winds of about 50-60 kmph can be expected at times over Western slopes of the central hills and in Northern, North-central, Western, Southern and North-western provinces and in Trincomalee district.
+
+Fairly strong winds of about 30-40 kmph can be expected at times elsewhere of the island.
+
+◼️
+
+[Data](articles/d37c25ab.json)
+
+---
+
+### More deceased
 
 *2024-05-26 07:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197014) · `si`
 
-ඉන්දියාවේ, ගුජරාට් ප්‍රාන්තයේ රාජ්කොට් නගරයේ හටගත් ගින්නෙන් මියගිය ගණන 27ක් දක්වා ඉහළ ගොස් තිබේ.
+In Rajkot, India, a fire at a sports center has resulted in 27 fatalities, including 12 children. The cause remains unknown as a committee investigates.
 
-මියගිය පිරිස අතර කුඩා ළමුන් 12 දෙනෙකු ද සිටින බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+🟩
 
-රාජ්කොට් නගරයේ පිහිටි විනෝද ක්‍රීඩා මධ්‍යස්ථානයක එම ගින්න හටගෙන තිබුණි.
+The fire in Rajkot, India, has risen to 27 deaths.
 
-ගින්නෙන් මියගිය බොහෝ පුද්ගලයින්ගෙන් සිරුරු හඳුනාගැනීමට නොහැකි ලෙස පිළිස්සී ගොස් තිබූ බව සඳහන්ය.
+There are also 12 small children among the deceased.
 
-එම ගින්න හේතුවෙන් සිදුවී ඇති මරණ සංඛ්‍යාව තවදුරටත් ඉහළ යා හැකි බව ඉන්දීය මාධ්‍ය පවසයි.
+The fire was caused by a fun sports center in Rajkot.
 
-සිද්ධිය සම්බන්ධයෙන් විමර්ශනය කිරීම සඳහා විශේෂ පංච පුද්ගල කමිටුවක් ද පත්කර ඇති අතර ගින්නට හේතුව මෙතෙක් අනාවරණය වී නොමැත.
+The bodies were burnt from many people who died in the fire.
+
+The total number of deaths due to the fire can be further increased, Indian media said.
+
+A special five-person committee has been appointed to investigate the incident and the cause of the fire has not been revealed yet.
 
 ◼️
 
 [Data](articles/149aef18.json)
 
+[Extended Data](ext_articles/149aef18.ext.json)
+
 ---
 
-### ஒக்டோபர் 17 ஆம் திகதி ஜனாதிபதி தேர்தல்
+### The presidential election on October 17
 
 *2024-05-26 07:42:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒக்டோபர்-17-ஆம்-திகதி-ஜனாதிபதி-தேர்தல்/175-337846) · `ta`
 
-ஜனாதிபதி தேர்தல் இந்த வருடம் ஒக்டோபர் மாதம் 17 ஆம் திகதி நடைபெறும் எனவும், அந்த தேர்தலை யாராலும் தடுக்க முடியாது எனவும் நீதி அமைச்சர் விஜயதாச ராஜபக்ஷ தெரிவித்துள்ளார்.
+Justice Minister Vijayadasa Rajapakse announced the presidential election will occur on October 17, emphasizing its inevitability during a function in Hatton on September 25.
 
-ஹட்டன் நகரில் சனிக்கிழமை (25) நடைபெற்ற நிகழ்வில் கலந்துகொண்டு கருத்துரைக்கும் போதே மேற்கண்டவாறு தெரிவித்தார்
+🟩
+
+Justice Minister Vijayadasa Rajapakse has said that the presidential election will be held on October 17 this year and no one can prevent the election.
+
+He said this while attending a function held in Hatton on Saturday (25)
 
 ◼️
 
 [Data](articles/0c6417bb.json)
+
+[Extended Data](ext_articles/0c6417bb.ext.json)
 
 ---
 
@@ -236,17 +270,23 @@ He is the Director of the Sri Lankan Airlines and the first chairman of the Colo
 
 ---
 
-### இன்று முதல் டெங்கு ஒழிப்பு வாரம்
+### Dengue Eradication Week today
 
 *2024-05-26 02:05:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-முதல்-டெங்கு-ஒழிப்பு-வாரம்/175-337842) · `ta`
 
-தற்போது நிலவும் சீரற்ற காலநிலையினால் டெங்கு நோய்ப் பரவும் விகிதம் அதிகரித்துள்ளமையினாலேயே டெங்கு ஒழிப்பு வாரம் பிரகடனப்படுத்தப்படவுள்ளதாக தேசிய டெங்கு கட்டுப்பாட்டுப் பிரிவு தெரிவித்துள்ளது.
+Due to unfavorable weather conditions, the National Dengue Control Unit has announced a dengue eradication week, focusing on high-risk areas.
 
-டெங்கு அபாயம் அதிகம் உள்ள பகுதிகளிலே குறித்த திட்டம் அமுல்ப்படுத்தப்படவள்ளதாக குறிப்பிடப்பட்டுள்ளது. (a)
+🟩
+
+The National Dengue Control Unit said that the dengue eradication week will be declared due to the prevailing inclement weather.
+
+The project is to be implemented in areas where dengue risk is high. (A)
 
 ◼️
 
 [Data](articles/88b015a9.json)
+
+[Extended Data](ext_articles/88b015a9.ext.json)
 
 ---
 
@@ -413,6 +453,8 @@ As the new Food & Beverage Manager at Hotel Babylon Oberoi I wanted, in 1989, th
 ...
 
 [Data](articles/b0717e62.json)
+
+[Extended Data](ext_articles/b0717e62.ext.json)
 
 ---
 
@@ -611,6 +653,8 @@ This header was followed by the summary of a series of articles, stolen from Naz
 ...
 
 [Data](articles/16b4fd4c.json)
+
+[Extended Data](ext_articles/16b4fd4c.ext.json)
 
 ---
 
@@ -2211,29 +2255,5 @@ It is said that the train is largely expected to travel by train with the long v
 [Data](articles/67e6cc61.json)
 
 [Extended Data](ext_articles/67e6cc61.ext.json)
-
----
-
-### Kabosu, the face of cryptocurrency Dogecoin, dies at 18, owner says
-
-*2024-05-25 09:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Kabosu-the-face-of-cryptocurrency-Dogecoin-dies-at-18-owner-says/108-283326) · `en`
-
-WASHINGTON (Reuters) - Kabosu, the Japanese dog that became a global meme and the face of alternative cryptocurrency Dogecoin has died at 18, her owner announced in a blog post on Friday.
-
-The Japanese Shiba Inu passed away while sleeping, her owner Atsuko Sato wrote.
-
-Kabosu became recognizable as the face of Dogecoin, an alternative cryptocurrency that began as a satirical critique of the 2013 crypto frenzy.
-
-But the token jumped in value after Tesla boss Elon Musk, a proponent of cryptocurrencies, began tweeting about it in 2020. Since then the billionaire has repeatedly promoted the coin.
-
-Dogecoin added as much as $4 billion to its market value last year when the billionaire, who bought social media site Twitter in 2022, briefly replaced Twitter's blue bird logo with an image of Kabosu. Musk subsequently renamed Twitter X.
-
-With a market capitalization of around $23.6 billion, Dogecoin is now the ninth biggest cryptocurrency, according to data site Coingecko.com.
-
-...
-
-[Data](articles/f388e075.json)
-
-[Extended Data](ext_articles/f388e075.ext.json)
 
 ---

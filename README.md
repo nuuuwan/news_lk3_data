@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-26 09:53:06**
+As of **2024-05-26 10:05:41**
 
 ## Newspaper Stats
 
@@ -26,51 +26,67 @@ adaderanasinhalalk | 4,207
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,278 (100.0%) of 26,280 articles have been extended.
+26,280 (100.0%) of 26,280 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-26 (Sunday)
 
-### වන්දනා ගමන මාරක අනතුරින් කෙළවර වෙයි
+### Pilgrimage will end at fatal crash
 
 *2024-05-26 09:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197017) · `si`
 
-වන්දනා ගමනක් යමින් වෑන් රථයක් මාර්ගයෙන් ඉවතට ලිස්සා ගොස් සිදුවූ අනතුරකින් පුද්ගලයෙකු මියගොස් තවත් 13 දෙනෙකු තුවාල රෝහල් ගත කර තිබේ.
+A pilgrimage ended tragically when a van carrying 15 passengers crashed near Galgamuwa, Meeoya, injuring 14 including one fatally. The driver lost control, causing the accident.
 
-ගල්ගමුව, මීඔය ආසන්නයේදී අද (26) අලුයම එම අනතුර සිදුව ඇති බව පොලීසිය පවසයි.
+🟩
 
-පාදෙණිය දෙස සිට අනුරාධපුර දෙසට ගමන්කළ වෑන්රථය රියදුරු ට නින්දයාම හේතුවෙන් මීඔය පාලමේ දූපතේ ගැටී මාර්ගයෙන් ඉවතට ලිස්සා ගොස්  ගසක ගැටී එම අනතුර සිදුව ඇත.
+One person was injured and 13 others were injured in an accident.
 
-අනතුර සිදුවන අවස්ථාවේදී වෑන් රථයේ 15 දෙනෙකු පමණ පිරිසක් සිට ඇති බව වාර්තා වෙයි.
+The accident had occurred near Galgamuwa, Meeoya today (26).
 
-වෑන් රථයේ ගමන්ගත් එක අයෙකු අනතුර සිදුවූ අවස්ථාවේදීම මියගොස් ඇති අතර අනතුරින් තුවාල ලැබූ තවත් 13 දෙනෙකු ගල්ගමුව රෝහලට ඇතුළත් කර තිබේ.
+The driver of Padeniya to Anuradhapura and slipped away from the road to the island of the Collision and clashed in the island of the Collapse of the Meeo.
 
-අනතුරින් මියගොස් ඇත්තේ, ඇඹිලිපිටිය ප්‍රදේශයේ පදිංචිව සිටි 69 හැවිරිදි පුද්ගලයෙකි.
+It is reported that about 15 people in the van were reported at the time of the accident.
 
-තුවාල ලබා ගල්ගමුව රෝහලට ඇතුළත් කළ අයගෙන් 07 දෙනෙකු වැඩිදුර ප්‍රතිකාර සඳහා අනුරාධපුර රෝහලට ඇතුළත් කර තිබේ.
+One person was killed in the accident and was admitted to the Galgamuwa Hospital.
+
+The deceased has been identified as a 69 year old resident of Embilipitiya.
+
+Seven out of the injured were rushed to the Anuradhapura hospital for further treatment.
 
 ◼️
 
 [Data](articles/475740d9.json)
 
+[Extended Data](ext_articles/475740d9.ext.json)
+
 ---
 
-### 1 வயது குழந்தை மாரடைப்பால் உயிரிழந்தான்
+### 1 -year -old child died of a heart attack
 
 *2024-05-26 09:30:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/1-வயது-குழந்தை-மாரடைப்பால்-உயிரிழந்தான்/50-337866) · `ta`
 
-ஒரு வயது குழந்தையின் கொடூரமான காயங்கள் பற்றிய விசாரணையில், அவருக்கு மாரடைப்பு ஏற்பட்டது, அதன் விளைவாக மூளை பாதிப்பு, விலா எலும்பு உடைந்திருந்தமையை காட்டியது.
+A 23-year-old man from Ohio, Edward Murray, has been arrested for allegedly murdering his girlfriend's 1-year-old son. The child suffered severe injuries including brain damage, broken ribs, and other internal injuries, which led to his death. Investigations suggest the child might have experienced violent impacts, possibly from being kicked or hit with objects. This tragic incident has sparked outrage and sadness, highlighting the severity of child abuse cases.
 
-தனது காதலியின் 1 வயது மகனைக் கொன்றதாக குற்றம் சாட்டப்பட்டு ஓஹியோவில் வசிக்கும் எட்வர்ட் முர்ரே, 23,  கைது செய்யப்பட்டார்.
+🟩
 
-மே 10 ஆம் திகதி முர்ரே கைது  செய்யப்பட்ட பின்னர், கொலை, கொடூரமான தாக்குதல் மற்றும் குழந்தைக்கு ஆபத்தை விளைவித்தல் ஆகிய குற்றச்சாட்டுகள் சுமத்தப்பட்டுள்ளன.
+Investigations into the brutal injuries of an adult child suggested that he had a heart attack, resulting in brain damage, the ribs.
 
-சின்சினாட்டி வீட்டிற்கு துணை மருத்துவர்கள் மே 1 ஆம் திகதி அழைக்கப்பட்டனர், அங்கு அவர்கள் குழந்தை பதிலளிக்காததைக் கண்டனர். இதையடுத்து அவரது உயிரைக் காப்பாற்றும் முயற்சியில் ஈடுபட்டனர். அவர் சிகிச்சைக்காக சின்சினாட்டி குழந்தைகள் மருத்துவமனை மருத்துவ மையத்தின் தீவிர சிகிச்சை பிரிவுக்கு அனுப்பப்பட்டார். குழந்தை இறந்துவிட்டதாக மே 5 ஆம் திகதி அறிவிக்கப்பட்டது
+Edward Murray, 23, 23, who lives in Ohio, has been arrested for allegedly killing his girlfriend's 1 -year -old son.
+
+After the arrest of Murray on May 10, allegations of murder, brutal assault and danger to the child have been leveled.
+
+The sub -doctors at Cincinnati's house were invited on May 1, where they found the child did not respond. They then tried to save his life. He was sent to the Cincinnati Children's Hospital Medical Center for treatment. It was announced on May 5 that the child was dead
+
+Investigations into the brutal injuries of an adult, he had a heart attack, resulting in a brain damage, broken rib, corrupted liver, bleeding eye tissues and brain inflammation.
+
+According to doctors, the child's injuries may have been "only caused by violent impacts against the objects or the feet provided."
 
 ...
 
 [Data](articles/9409367c.json)
+
+[Extended Data](ext_articles/9409367c.ext.json)
 
 ---
 

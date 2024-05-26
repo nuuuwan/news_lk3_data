@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-26 17:34:08**
+As of **2024-05-26 17:54:18**
 
 ## Newspaper Stats
 
-*Scraped **26,345** Articles*
+*Scraped **26,346** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,431
 economynextcom | 1,508
 dailyftlk | 1,533
 adalk | 2,242
-adaderanalk | 3,025
+adaderanalk | 3,026
 tamilmirrorlk | 3,094
 virakesarilk | 4,009
 dailymirrorlk | 4,159
@@ -26,11 +26,25 @@ adaderanasinhalalk | 4,220
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,345 (100.0%) of 26,345 articles have been extended.
+26,345 (100.0%) of 26,346 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-26 (Sunday)
+
+### President steps in to resolve land issue in Keppapilau village
+
+*2024-05-26 17:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/99448/president-steps-in-to-resolve-land-issue-in-keppapilau-village) · `en`
+
+President Ranil Wickremesinghe made a visit to Puthukkudiyiruppu Madhya Maha Vidyalaya today (26) as part of the freehold deeds distributing ceremony in Mullaitivu district under the “Urumaya” program. However, the event took an unexpected turn when two local women protested in front of the college, expressing their desire to meet the President.
+
+In response to the protest, Northern Province Governor P. S. M. Charles personally intervened, approaching the women to inquire about their concerns. The women reiterated their wish to present their issues directly to the President. Upon being briefed by the Governor, President Ranil Wickremesinghe visited the site of the protest and engaged with the women to listen to their grievances first-hand.
+
+...
+
+[Data](articles/c04152a9.json)
+
+---
 
 ### Landslide early warnings issued for 7 districts including Colombo
 
@@ -1642,8 +1656,6 @@ Airlines for America said U.S carriers plan to fly more than 26,000 daily flight
 
 *2024-05-26 08:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/99439/6-newborns-killed-after-major-fire-at-delhi-childrens-hospital) · `en`
 
-#WATCH | Delhi: A massive fire broke out at a New Born Baby Care Hospital in Vivek Vihar As per a Fire Officer, Fire was extinguished completely, 11-12 people were rescued and taken to hospital and further details are awaited.(Video source - Fire Department) https://t.co/lHzou6KkHH pic.twitter.com/pE95ffjm9p— ANI (@ANI) May 25, 2024
-
 As many as six newborns have lost their lives after a massive fire broke out at a New Born Baby Care Hospital in Delhi’s Vivek Vihar in the late hours of Saturday.
 
 According to the Delhi Fire Department, a total of 12 children were rescued, out of which six have died, one is on the ventilator and five are admitted to the hospital.
@@ -1651,6 +1663,8 @@ According to the Delhi Fire Department, a total of 12 children were rescued, out
 The rescued newborns have been shifted to East Delhi Advance NICU hospital.
 
 On information, police officials and firefighters reached the spot and doused the fire.
+
+Fire Officer Rajesh, said, “At 11:32 pm, Fire Service Control Room received information that fire broke out at a hospital...total 16 fire tenders reached the spot and fire has been extinguished completely. 2 buildings were affected by the fire, one is the hospital building and 2 floors of a residential building on the right side also caught fire...11-12 people were rescued and they were taken to hospital. Further details will be shared later”.
 
 ...
 
@@ -2303,27 +2317,5 @@ India’s Prime Minister Narendra Modi said he was “extremely distressed” by
 [Data](articles/635f2e8f.json)
 
 [Extended Data](ext_articles/635f2e8f.ext.json)
-
----
-
-### Panthaya who worked in Mawanella - elephant is serious
-
-*2024-05-25 22:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197010) · `si`
-
-An elephant from the Dalada Maligawa in Kandy attacked Panthaya in Mawanella, seriously injuring him. The elephant was brought to the Mawanella Base Hospital under tight security.
-
-🟩
-
-The attack has been admitted to the Mawanella Base Hospital with the attack.
-
-According to our correspondent, the elephant belonging to the elephant of the Dalada Maligawa in Kandy Kandy.
-
-Our correspondent said that he had come to Mawanalena and arrived in Mawanella to a special security.
-
-◼️
-
-[Data](articles/cf76115c.json)
-
-[Extended Data](ext_articles/cf76115c.ext.json)
 
 ---

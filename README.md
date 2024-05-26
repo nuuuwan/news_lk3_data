@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-26 23:03:45**
+As of **2024-05-26 23:18:40**
 
 ## Newspaper Stats
 
-*Scraped **26,412** Articles*
+*Scraped **26,414** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,509
 dailyftlk | 1,533
 adalk | 2,247
 adaderanalk | 3,030
-tamilmirrorlk | 3,097
+tamilmirrorlk | 3,099
 virakesarilk | 4,035
 dailymirrorlk | 4,170
 adaderanasinhalalk | 4,234
@@ -26,11 +26,47 @@ adaderanasinhalalk | 4,234
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,409 (100.0%) of 26,412 articles have been extended.
+26,412 (100.0%) of 26,414 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-26 (Sunday)
+
+### ’தாய்ப்பால் விற்பனைக்கு அனுமதி இல்லை’
+
+*2024-05-26 22:59:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாய்ப்பால்-விற்பனைக்கு-அனுமதி-இல்லை/175-337934) · `ta`
+
+தாய்ப்பாலை பதப்படுத்தவோ அல்லது விற்கவோ அங்கீகாரம் அளிக்கவில்லை. எனவே, அதற்கான உரிமங்களை வழங்குவதைத் தவிர்க்க வேண்டும் என மாநில அரசுகளுக்கு இந்திய உணவு பாதுகாப்பு மற்றும் தர நிர்ணய ஆணையம் உத்தரவிட்டுள்ளது.
+
+“உணவுப் பாதுகாப்பு மற்றும் தரநிலைச் சட்டம், 2006 விதிகளின் கீழ் தாய்ப்பாலை பதப்படுத்துதல் அல்லது விற்பனை செய்ய அனுமதியில்லை. எனவே, தாய்ப்பால் மற்றும் அதுதொடர்புடைய பொருள்கள் விற்பனை செய்யப்படுவதை உடனடியாக நிறுத்த வேண்டும். விதிகளை மீறினால் விற்பனை செய்தால் நடவடிக்கை எடுக்கப்படும்.
+
+மேலும் தாய்ப்பாலை விற்பனை செய்வதில் ஈடுபட்டுள்ள உணவு வணிகங்களுக்கு மத்திய, மாநில அரசுகள் உரிமம் வழங்கக்கூடாது. இதனை மத்திய, மாநில அரசுகள் உறுதி செய்ய வேண்டும்.
+
+பொதுச் சுகாதார பாலூட்டும் மையங்கள் வழிகாட்டுதல்களின்படி, தாய்ப்பாலை எந்தவொரு வணிக நோக்கத்துக்கும் பயன்படுத்த முடியாது. சிசுக்களுக்கு மட்டுமே இது வழங்கப்பட வேண்டும்.” - என்று தெரிவிக்கப்பட்டுள்ளது.
+
+...
+
+[Data](articles/7b93171f.json)
+
+---
+
+### ஐ.பி.எல்: சம்பியனானது கொல்கத்தா நைட் றைடர்ஸ்
+
+*2024-05-26 22:48:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/ஐ-பி-எல்-சம்பியனானது-கொல்கத்தா-நைட்-றைடர்ஸ்/44-337933) · `ta`
+
+சென்னையில் சற்று முன்னர் முடிவுக்கு வந்த சண்றைசர்ஸ் ஹைதரபாத்துடனான இறுதிப் போட்டியில் வென்றே மூன்றாவது முறையாக கொல்கத்தா சம்பியனானது.
+
+இப்போட்டியின் நாணயச் சுழற்சியில் வென்ற சண்றைசர்ஸின் அணித்தலைவர் பற் கமின்ஸ் தமதணி முதலில் துடுப்பெடுத்தாடும் என அறிவித்தார்.
+
+அந்தவகையில் முதலில் துடுப்பெடுத்தாடிய சண்றைசர்ஸ், மிற்செல் ஸ்டார்க் (2), வைபவ் அரோரா, ஹர்ஷித் ரானா (2), அன்ட்ரே ரஸல் (3), வருண் சக்கரவர்த்தி, சுனில் நரைனிடம் வரிசையாக விக்கெட்டுகளைப் பறிகொடுத்து 18.3 ஓவர்களில் சகல விக்கெட்டுகளையும் இழந்து 113 ஓட்டங்களையே பெற்றது.
+
+பதிலுக்கு 114 ஓட்டங்களை வெற்றியிலக்காகக் கொண்டு துடுப்பெடுத்தாடிய கொல்கத்தா, வெங்கடேஷ் ஐயரின் ஆட்டமிழக்காத 52 (26), ரஹ்மனுல்லாஹ் குர்பாஸின் 39 (32) ஓட்டங்களோடு 10.3 ஓவர்களில் 2 விக்கெட்டுகளை இழந்த நிலையில் வெற்றியிலக்கையடைந்தது.
+
+◼️
+
+[Data](articles/a4daf3df.json)
+
+---
 
 ### Kolkata thrash Hyderabad to win third IPL title
 
@@ -43,6 +79,8 @@ Kolkata bowled out Hyderabad for 113, a total they overhauled with 9.3 overs to 
 ◼️
 
 [Data](articles/4699e8b1.json)
+
+[Extended Data](ext_articles/4699e8b1.ext.json)
 
 ---
 
@@ -59,6 +97,8 @@ The funeral arrangements will be notified by the authorities in due course, a st
 ◼️
 
 [Data](articles/2055fe85.json)
+
+[Extended Data](ext_articles/2055fe85.ext.json)
 
 ---
 
@@ -77,6 +117,8 @@ SRH were reduced to 113 in 18.3 overs – the lowest score in an IPL final – b
 ◼️
 
 [Data](articles/d8d8c56b.json)
+
+[Extended Data](ext_articles/d8d8c56b.ext.json)
 
 ---
 
@@ -2197,45 +2239,5 @@ The police ordered the police to the police in the Homagama Death of Homagama.
 [Data](articles/965e6f9f.json)
 
 [Extended Data](ext_articles/965e6f9f.ext.json)
-
----
-
-### Police probe theft of Rs. 1.45 Mn from American businessman in Aluthgama hotel
-
-*2024-05-26 11:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Police-probe-theft-of-Rs-1-45-Mn-from-American-businessman-in-Aluthgama-hotel/108-283359) · `en`
-
-Aluthgama, May 26 (Daily Mirror) -  The Aluthgama police have initiated an investigation into the theft of local and foreign currency totaling Rs. 1.45 million from an American businessman staying at a luxury hotel in Aluthgama.
-
-Police said an investigation was launched based on a complaint filed by the American national, Andrew Christopher Lucas, who had reported the incident to the police.
-
-According to statement, the tourist arrived at the hotel on May 23, and on the 24 around 4:20 a.m., he woke up to find someone reaching through the open curtain of his room. He told the police that the suspect fled the scece upon shouting for help.
-
-Later, Lucas notified the hotel staff and conducted a thorough check, only to discover that his bag containing 4,000 US dollars, 210,000 Sri Lankan rupees, his passport, and driver's license were missing.
-
-◼️
-
-[Data](articles/4817de19.json)
-
-[Extended Data](ext_articles/4817de19.ext.json)
-
----
-
-### ‘Red’ alert issued over strong winds and rough seas due to cyclonic storm
-
-*2024-05-26 11:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/99442/red-alert-issued-over-strong-winds-and-rough-seas-due-to-cyclonic-storm) · `en`
-
-The Department of Meteorology has issued an advisory for strong winds and rough seas for naval and fishermen communities in the deep-sea areas in the South-eastern Arabian Sea and in the Bay of Bengal.
-
-The ‘red’ alert states that the cyclonic storm, named “Remal” (pronounced “Re-Mal”) over the North Bay of Bengal, intensified into a severe cyclone storm at 05.30 a.m. on May 26.
-
-It is located near 19.5°N and 89.3°E, to the north-east of Sri Lanka, and 1500 km away from Kankasanthurai and it is very likely to move nearly northwards, intensify further, and cross Bangladesh and adjoining West Bengal (India) coasts by May 26th at midnight, the advisory said.
-
-Accordingly, very strong winds 60-70 kmph, accompanied with heavy rainfalls and very rough seas are likely over the sea areas around the country and over the South-eastern Arabian Sea areas and Bay of Bengal Sea areas, it added.
-
-...
-
-[Data](articles/901eec76.json)
-
-[Extended Data](ext_articles/901eec76.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-26 08:52:52**
+As of **2024-05-26 09:04:02**
 
 ## Newspaper Stats
 
-*Scraped **26,269** Articles*
+*Scraped **26,276** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,505
 dailyftlk | 1,533
 adalk | 2,235
 adaderanalk | 3,016
-tamilmirrorlk | 3,068
+tamilmirrorlk | 3,075
 virakesarilk | 4,006
 dailymirrorlk | 4,146
 adaderanasinhalalk | 4,205
@@ -26,11 +26,57 @@ adaderanasinhalalk | 4,205
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,267 (100.0%) of 26,269 articles have been extended.
+26,269 (100.0%) of 26,276 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-26 (Sunday)
+
+### ஜனாதிபதியை சந்தித்தார் விக்னேஸ்வரன்
+
+*2024-05-26 08:49:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/ஜனாதிபதியை-சந்தித்தார்-விக்னேஸ்வரன்/71-337862) · `ta`
+
+தமிழ் மக்கள் தேசிய கூட்டணியின் தலைவரும் வடமாகாண முன்னாள் முதலமைச்சருமான ஓய்வுபெற்ற உயர்நீதிமன்ற நீதியரசரான பாராளுமன்ற உறுப்பினர் சி.வி.விக்னேஸ்வரன், ஜனாதிபதி ரணில் விக்கிரமசிங்கவை சந்தித்துப் பேச்சுவார்த்தை நடத்தியுள்ளார்.
+
+◼️
+
+[Data](articles/29b732d5.json)
+
+---
+
+### கருக்கலைப்பு மாத்திரைகளுக்கு கட்டுப்பாடு
+
+*2024-05-26 08:45:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/கருக்கலைப்பு-மாத்திரைகளுக்கு-கட்டுப்பாடு/50-337861) · `ta`
+
+டாக்டர்களின் பரிந்துரை கடிதம் இன்றி இந்த மாத்திரை வழங்குபவர்களுக்கு 5 ஆண்டுகள் வரை சிறை தண்டனை விதிக்கப்படுமென அறிவிக்கப்பட்டுள்ளது.
+
+இதனால் இந்த மாத்திரைகளுக்கு கட்டுப்பாடு விதிப்பது குறித்த மசோதா லூசியானா மாகாண சட்டமன்றத்தில் தாக்கல் செய்யப்பட்டது.
+
+இந்த மசோதா வெற்றிகரமாக நிறைவேறியதையடுத்து கவர்னர் ஜெப் லாண்ட்ரி அதற்கு ஒப்புதல் அளித்தார். இதன் மூலம் இந்த இரு மாத்திரைகளும் ஆபத்தான பொருட்கள் பட்டியலில் சேர்க்கப்பட்டு உள்ளன.
+
+எனவே டாக்டர்களின் பரிந்துரை கடிதம் இன்றி இந்த மாத்திரை வழங்குபவர்களுக்கு 5 ஆண்டுகள் வரை சிறை தண்டனை விதிக்க வழிவகை செய்யப்பட்டு உள்ளது. இதற்கு பல்வேறு தரப்பினரும் ஆதரவு தெரிவித்து வருகின்றனர்.
+
+◼️
+
+[Data](articles/8290fbf0.json)
+
+---
+
+### மருத்துவமனையில் பயங்கர தீ விபத்து: 7 பச்சிளங் குழந்தைகள் பலி
+
+*2024-05-26 08:40:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மருத்துவமனையில்-பயங்கர-தீ-விபத்து-7-பச்சிளங்-குழந்தைகள்-பலி/175-337860) · `ta`
+
+குழந்தைகள் மருத்துவமனையில் சனிக்கிழமை (25) இரவு 11.32 மணிக்கு பயங்கர தீ விபத்து ஏற்பட்டது. இந்த தீ விபத்து குறித்து தகவல் கிடைத்ததும் விரைந்து வந்த தீ அணைப்பு வீரர்கள் தீயை அணைக்கும் பணியில் ஈடுபட்டனர்.
+
+பல மணி நேரம் போராடி தீ கட்டுக்குள் கொண்டு வரப்பட்டது. மருத்துவமனையில் இருந்து 12 குழந்தைகள் மீட்கப்பட்ட நிலையில், 7 குழந்தைகள் உயிரிழந்தன.ஏனைய குழந்தைகளுக்கு தீவிர சிகிச்சை அளிக்கப்பட்டு வருகிறது. தீ விபத்துக்கான காரணம் இன்னும் கண்டறியப்படவில்லை.
+
+குஜராத்தில் சனிக்கிழமை (25) விளையாட்டு திடலில் ஏற்பட்ட தீ விபத்தில் சிக்கி 27 பேர் பலியான சம்பவம் பெரும் சோகத்தை ஏற்படுத்தியது. இந்த சோக நிகழ்வு நடைபெற்ற அதேநாளில் டெல்லி மருத்துவமனையிலும் தீ விபத்து ஏற்பட்டு 7 குழந்தைகள் உயிரிழந்து இருப்பது பெரும் அதிர்ச்சியை ஏற்படுத்தியுள்ளது.
+
+◼️
+
+[Data](articles/7eecd0a2.json)
+
+---
 
 ### 6 newborns killed after major fire at Delhi children’s hospital
 
@@ -50,25 +96,33 @@ On information, police officials and firefighters reached the spot and doused th
 
 [Data](articles/a1412376.json)
 
+[Extended Data](ext_articles/a1412376.ext.json)
+
 ---
 
-### නිවසක් මතට ගසක් කඩා වැටී කාන්තාවක් මරුට
+### Woman dies after falling back on a house
 
 *2024-05-26 08:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197015) · `si`
 
-අයහපත් කාලගුණ තත්ත්වය හේතුවෙන් නිවසක් මතට ගසක් කඩාවැටී එයට යටවීමෙන් කාන්තාවක් මියගොස් තිබේ.
+In the Panutu Police Division, a 65-year-old woman died when heavy weather caused her home to collapse. Two others, including another woman and a man, were hospitalized but are receiving treatment. The incident, which happened last night, is under investigation by the Haputale Police.
 
-එම අනතුරින් තවත් කාන්තාවක් හා පිරිමි පුද්ගලයෙක් තුවාල ලබා රෝහල් ගත කර ඇති බව පොලීසිය පවසයි
+🟩
 
-ඊයේ (25) රාත්‍රී කාලයේ හපුතලේ පොලිස් වසමේ පංකැටිය ප්‍රදේශයේදී එම අනතුර සිදුව ඇත.
+A woman was killed after the inclement weather had collapsed on a house.
 
-මියගොස් ඇත්තේ, පංකැටිය, හපුතලේ ප්‍රදේශයේ පදිංචිව සිටි 65 හැවිරිදි කාන්තාවකි.
+Another woman and a man hospitalized after the accident
 
-තුවාලකරුවන් දියතලාව රෝහලේ නේවාසිකව ප්‍රතිකාර ලබන අතර හපුතලේ පොලීසිය වැඩිදුර විමර්ශ සිදුකරයි.
+The accident had occurred in the Panutu Police Division in the Haputale Police Division yesterday night.
+
+The deceased has been identified as a 65 year old resident of the Haputale area in the Haputale area.
+
+The injured are currently receiving treatment at the Diyatalawa Hospital and Haputale Police are conducting further investigations.
 
 ◼️
 
 [Data](articles/3820a029.json)
+
+[Extended Data](ext_articles/3820a029.ext.json)
 
 ---
 
@@ -93,6 +147,24 @@ Fairly strong winds of about 30-40 kmph can be expected at times elsewhere of th
 [Data](articles/d37c25ab.json)
 
 [Extended Data](ext_articles/d37c25ab.ext.json)
+
+---
+
+### யாழில் தமிழ் பொலிஸாரை கட்டாயப்படுத்தி பிரித் ஓதவைப்பு?
+
+*2024-05-26 08:12:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/யாழில்-தமிழ்-பொலிஸாரை-கட்டாயப்படுத்தி-பிரித்-ஓதவைப்பு/71-337847) · `ta`
+
+யாழ்ப்பாணம் காங்கேசன்துறை பகுதியில் சட்டவிரோதமான முறையில் அமைக்கப்பட்டுள்ள கெமுனு விகாரையில்  நடைபெற்ற வெசாக் வழிபாட்டிற்காக தமிழ் பொலிஸ் உத்தியோகஸ்தர்களை கட்டாயப்படுத்தி அழைத்து செல்லப்பட்டதாக தெரிவிக்கப்படுகிறது.
+
+உயர் பாதுகாப்பு வலயமாக இராணுவ கட்டுப்பாட்டு பகுதிக்குள் குமார கோவில் இருந்தவேளை, ஆலயத்திற்கு முன்பாக இராணுவத்தினரால் கெமுனு விகாரை எந்தவிதமான அனுமதிகளும் பெறப்படாது நிர்மாணிக்கப்பட்டது.
+
+தற்போது குறித்த பகுதிகள் பொதுமக்களிடம் கையளிக்கப்பட்டு அப்பகுதி மக்கள் மீள்குடியேறி குமார கோவிலில் பூஜை வழிபாடுகளில் ஈடுபட்டு வருகின்ற நிலையில் , குறித்த விகாரையில் வழிபாடுகள் இடம்பெற்று வருகின்றன.
+
+இந்நிலையில் வெசாக் தினத்தில் கொழும்பில் இருந்து பிக்கு ஒருவர் அழைத்து வரப்பட்டு , தமிழில் பிரித் ஓதி வழிபாடுகள் இடம்பெற்றன.
+
+...
+
+[Data](articles/ed0b6a2b.json)
 
 ---
 
@@ -141,6 +213,18 @@ He said this while attending a function held in Hatton on Saturday (25)
 [Data](articles/0c6417bb.json)
 
 [Extended Data](ext_articles/0c6417bb.ext.json)
+
+---
+
+### ஒக்டோபர் 17 ஆம் திகதி ஜனாதிபதி தேர்தல்
+
+*2024-05-26 07:42:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/ஒக்டோபர்-17-ஆம்-திகதி-ஜனாதிபதி-தேர்தல்/150-337846) · `ta`
+
+ஜனாதிபதி தேர்தல் இந்த வருடம் ஒக்டோபர் மாதம் 17 ஆம் திகதி நடைபெறும் எனவும், அந்த தேர்தலை யாராலும் தடுக்க முடியாது எனவும் நீதி அமைச்சர் விஜயதாச ராஜபக்ஷ தெரிவித்துள்ளார். ஹட்டன் நகரில் சனிக்கிழமை (25) நடைபெற்ற நிகழ்வில் கலந்துகொண்டு கருத்துரைக்கும் போதே மேற்கண்டவாறு தெரிவித்தார்
+
+◼️
+
+[Data](articles/18d9ee89.json)
 
 ---
 
@@ -290,6 +374,24 @@ Aachchi (my paternal grandmother)’s claim to fame was a story about her mother
 
 ---
 
+### ’இளைஞர்களின் தொழில் பிரச்சினையைத் தீர்ப்போம்’
+
+*2024-05-26 02:14:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இளைஞர்களின்-தொழில்-பிரச்சினையைத்-தீர்ப்போம்/175-337845) · `ta`
+
+இவ்வருடத்திற்குள் நாட்டை வங்குரோத்து நிலையிலிருந்து மீட்டு இளைஞர் யுவதிகளின் தொழில் பிரச்சினை தீர்க்கப்படும் என்று ஜனாதிபதி ரணில் விக்கிரமசிங்க உறுதியளித்தார்.
+
+தேசிய இளைஞர் சேவைகள் மன்றத்தின் ஏற்பாட்டில் யாழ்ப்பாணம் துறையப்பா விளையாட்டரங்கத்தில் நேற்று முன்தினம் ஏற்பாடு செய்யப்பட்டிருந்த யாழ். மாவட்ட மாநாட்டிலேயே ஜனாதிபதி இவ்வாறு தெரிவித்தார். அவர் மேலும் தெரிவிக்கையில்,
+
+கடந்த நான்கு வருடங்களில் இலங்கையின் பொருளாதாரம் பாரிய பின்னடைவைச் சந்தித்துள்ளது. மக்கள் பெரும் அவதிப்பட்டனர். தற்போது நாடு வங்குரோத்து நிலையிலிருந்து மீண்டு வருகிறது. நாடு வங்குரோத்து நிலையிலிருந்து மீண்ட பிறகு, இளைஞர்களின் தொழில் இல்லாத பிரச்சினை நிவர்த்திக்கப்படும்.
+
+பொருளாதார மாற்றச் சட்டமூலம் ஏற்கனவே பாராளுமன்றத்தில் கொண்டு வரப்பட்டுள்ளது. ஏற்றுமதி சார்ந்த பொருளாதாரத்தை உருவாக்க எதிர்பார்த்திருக்கிறோம். வியட்நாம், மலேசியா, தாய்லாந்து போன்ற ஏற்றுமதி சார்ந்த பொருளாதாரம் இலங்கையிலும் கட்டியெழுப்பப்பட வேண்டும் என்றார். (a)
+
+◼️
+
+[Data](articles/9355030b.json)
+
+---
+
 ### Senior President's lawyer has passed away
 
 *2024-05-26 02:09:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிரேஷ்ட-ஜனாதிபதி-சட்டத்தரணி-காலமானார்/175-337844) · `ta`
@@ -309,6 +411,22 @@ He is the Director of the Sri Lankan Airlines and the first chairman of the Colo
 [Data](articles/b44e6d8a.json)
 
 [Extended Data](ext_articles/b44e6d8a.ext.json)
+
+---
+
+### வைத்தியசாலைக்குள் குழப்பம் விளைவித்த மூவர் கைது
+
+*2024-05-26 02:07:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வைத்தியசாலைக்குள்-குழப்பம்-விளைவித்த-மூவர்-கைது/175-337843) · `ta`
+
+யாழ்ப்பாணம் போதனா வைத்தியசாலைக்குள் மதுபோதையில் நுழைந்து பாதுகாப்பு உத்தியோகத்தர்களுடன் முரண்பட்டுக் குழப்பத்தில் ஈடுபட்ட மூவர் நேற்று கைது செய்யப்பட்டனர்.
+
+வைத்தியசாலையில் நோயாளிகளைப் பார்வையிடும் நேரம் முடிந்த பின்னர் தம்மை உள்நுழைய அனுமதிக்குமாறு பாதுகாப்பு உத்தியோகத்தர்களுடன் முரண்பட்டுக் குழப்பத்தில் ஈடுபட்டவர்களே இவ்வாறு கைது செய்யப்பட்டனர்.
+
+வைத்தியசாலை நிர்வாகம் யாழ்ப்பாணம் பொலிஸ் நிலையத்தில் முறைப்பாட்டை பதிவு செய்த நிலையில் கைது நடவடிக்கை முன்னெடுக்கப்பட்டது. (a)
+
+◼️
+
+[Data](articles/e86cdf8b.json)
 
 ---
 
@@ -2099,147 +2217,5 @@ Meanwhile, a letter written in English has also been found in the house of the d
 [Data](articles/f37a6361.json)
 
 [Extended Data](ext_articles/f37a6361.ext.json)
-
----
-
-### Advisories issued for heavy rains and strong winds
-
-*2024-05-25 11:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/99424/advisories-issued-for-heavy-rains-and-strong-winds) · `en`
-
-The Department of Meteorology has issued an ‘Amber’ warning for heavy rains in Sabaragamuwa province and in Nuwara-Eliya district today (25).
-
-Due to the southwest monsoon that has established over the island, the prevailing rain and wind conditions are expected to continue further, the Met. Department said.
-
-Heavy showers above 100 mm are likely at some places in Sabaragamuwa province and in Nuwara-Eliya district. Fairly heavy showers about 75 mm are likely at some places in Western and North-western provinces and in Kandy, Galle and Matara districts, it added.
-
-Meanwhile, the Met. Department also issued an advisory for strong winds in the Western slopes of the central hills and Northern, North-central, Western, Southern and North western provinces and in Trincomalee district, effective for the next 24 hours.
-
-...
-
-[Data](articles/dc764f75.json)
-
-[Extended Data](ext_articles/dc764f75.ext.json)
-
----
-
-### Notice on new e-visa system for Maldivians travelling to Sri Lanka
-
-*2024-05-25 10:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/99423/notice-on-new-e-visa-system-for-maldivians-travelling-to-sri-lanka) · `en`
-
-The Ministry of Foreign Affairs of the Maldives has issued a clarification for Maldivian travelers regarding recent changes to Sri Lanka’s tourist visa scheme.
-
-In a statement, the Maldivian Foreign Affairs Ministry stated that following the announcement of a new e-visa system in Sri Lanka, they have been engaged in discussions with their Sri Lankan counterparts to ensure a smooth transition for Maldivian travelers.
-
-Currently, Maldivians can obtain a free 30-day tourist visa upon arrival in Sri Lanka. For stays exceeding 30 days, Maldivians can apply for a free 6-month visa online at https://www.srilankaevisa.lk/. This visa incurs an administrative fee, the statement added.
-
-Maldivians who are already in Sri Lanka and require a visa extension may contact the Maldives High Commission in Colombo.
-
-...
-
-[Data](articles/c84a5fa8.json)
-
-[Extended Data](ext_articles/c84a5fa8.ext.json)
-
----
-
-### School principal netted when trying to solicit Rs.30,000 bribe
-
-*2024-05-25 10:38:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/School-principal-netted-when-trying-to-solicit-Rs-30-000-bribe/108-283330) · `en`
-
-Colombo, May 25 (Daily Mirror)- The Bribery Commission apprehended a school principal in the Eheliyagoda area for trying to solicit a bribe of Rs.30,000 from a lady to offer the tender to supply food for the school canteen uninterrupted.
-
-The sleuths of the Bribery Commission netted the principal in his office room. It is learnt that the suspect has demanded Rs.50,000 as a bribe to recommend the release of payment for this lady for the supply of food for the months of March and April. Initially, he secured Rs.20,000 of this bribe.
-
-She made a complaint when she was asked to pay Rs.30,000, and the suspect was arrested accordingly
-
-◼️
-
-[Data](articles/99721f19.json)
-
-[Extended Data](ext_articles/99721f19.ext.json)
-
----
-
-### Special Excellence Center for Women's Health for Kilinochchi
-
-*2024-05-25 10:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196987) · `si`
-
-Kilinochchi District General Hospital launched a Special Excellence Center for Women's Health today, part of a nationwide initiative to enhance healthcare services across Sri Lanka.
-
-🟩
-
-The Excellence Center for Women's Health Services at the Kilinochchi District General Hospital (Excellence for women's healthcare) was opened today (25).
-
-This has been done under the government program to improve health care facilities island wide.
-
-◼️
-
-[Data](articles/d4a25da6.json)
-
-[Extended Data](ext_articles/d4a25da6.ext.json)
-
----
-
-### Rs. 4.5 billion fine to be imposed on 13 leading jewellers for gold smuggling
-
-*2024-05-25 10:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Rs-4-5-billion-fine-to-be-imposed-on-13-leading-jewellers-for-gold-smuggling/155-283328) · `en`
-
-Colombo, May 25 (Daily Mirror)- Sri Lanka Customs have raided 13 leading jewellery-making institutions and seized a stock of gold smuggled into the country and a fine of Rs. 4.5 billion is to be imposed in this regard, the Daily Mirror learns.
-
-There are a few leading jewellery business operators involved in this racket, according to information available. It is learnt that these business operators have continued to bring gold from India through unlawful means for a long time denying tax revenue to the government.
-
-Daily Mirror learns that there is a sinister move involving some customs officials to underestimate the value of gold stock seized for dubious transactions at the moment. The customs authorities suspect that gold items have been smuggled in boats from India and payments have been made through unlawful methods.
-
-◼️
-
-[Data](articles/2f02d90f.json)
-
-[Extended Data](ext_articles/2f02d90f.ext.json)
-
----
-
-### 3 new members appointed to the Board of Directors of the National Drug Regulatory Authority
-
-*2024-05-25 10:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/184427) · `ta`
-
-Health Minister Ramesh Pathirana has appointed three new members to the National Drug Regulatory Authority's Board of Directors: Chartered Accountant Sujeewa Mullai, President's Attorney General Susantha Kahawatta Palitha Kumarasinghe, and a senior officer from the Sri Lanka Administration Service. These appointments follow the resignations of three previous members, including Subul Wijesinghe, Manoj Kamage, and Priyantha Serasinghe.
-
-🟩
-
-Health Minister Ramesh Pathirana has appointed three new members to the Board of Directors of the National Drug Regulatory Authority.
-
-The Minister has the authority to recommend and appoint the Board of Directors from the Department of Law, Accounting, Management and Health in accordance with the National Drug Regulation Authority Act of 2015.
-
-Accordingly, Chartered Accountant Sujeewa Mullai, President's Attorney General and Senior Officer of the Sri Lanka Administration Service Susantha Kahawatta Palitha Kumarasinghe have been appointed as members of the Board of Directors.
-
-These appointments have been made following the resignation of three executive council members appointed by former Health Minister Keheliya Rambukwella.
-
-Subul Wijesinghe of the Accounting Department, Attorney -at -Law Manoj Kamage and Priyantha Serasinghe from the Administrative Department have resigned.
-
-◼️
-
-[Data](articles/18520756.json)
-
-[Extended Data](ext_articles/18520756.ext.json)
-
----
-
-### President inaugurates Women’s Healthcare Centre at Kilinochchi Hospital
-
-*2024-05-25 10:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/99422/president-inaugurates-womens-healthcare-centre-at-kilinochchi-hospital) · `en`
-
-President Ranil Wickremesinghe today inaugurated the Centre of Excellence for Women’s Healthcare at the Kilinochchi District General Hospital, the President’s Media Division (PMD) said.
-
-The facility, constructed with funding of Rs. 5,320 million from the Government of the Netherlands, under the government’s initiative to enhance healthcare infrastructure nationwide, was officially inaugurated by the President, this morning (25).
-
-Established in 2006, the Kilinochchi District General Hospital serves as the primary healthcare facility in the district, catering to the medical needs of over 150,000 residents.
-
-The inauguration of the Centre of Excellence for Women’s Health Services today marks a significant advancement in maternal and Neonatal care in the North. This initiative is poised to enhance the healthcare system in the Northern Province by addressing the needs of women and newborns, as well as their families.
-
-...
-
-[Data](articles/8b47b7a1.json)
-
-[Extended Data](ext_articles/8b47b7a1.ext.json)
 
 ---

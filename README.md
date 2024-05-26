@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-26 10:05:41**
+As of **2024-05-26 10:18:35**
 
 ## Newspaper Stats
 
-*Scraped **26,280** Articles*
+*Scraped **26,281** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,431
 economynextcom | 1,505
 dailyftlk | 1,533
-adalk | 2,235
+adalk | 2,236
 adaderanalk | 3,016
 tamilmirrorlk | 3,076
 virakesarilk | 4,006
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,207
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,280 (100.0%) of 26,280 articles have been extended.
+26,280 (100.0%) of 26,281 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -383,6 +383,20 @@ President Ranil Wickremesinghe made this statement participating at the Jaffna D
 [Data](articles/c50a24f8.json)
 
 [Extended Data](ext_articles/c50a24f8.ext.json)
+
+---
+
+### Exciting Events at Babylon Oberoi
+
+*2024-05-26 06:52:00* · [`islandlk`](http://island.lk/exciting-events-at-babylon-oberoi/) · `en`
+
+As the new Food & Beverage Manager at Hotel Babylon Oberoi I wanted, in 1989, the hotel to make a name in hospitality and catering in Iraq. I was also keen to create and promote a string of international food festivals in Baghdad but encountered several challenges. With my experience ding this many times before, I was well-prepared, motivated, and confident of creating a buzz and present hospitality events and entertainment in Baghdad.
+
+...
+
+[Data](articles/b0717e62.json)
+
+[Extended Data](ext_articles/b0717e62.ext.json)
 
 ---
 
@@ -750,20 +764,6 @@ Generations not born here will laud and praise the memory of Father Vito Perniol
 
 ---
 
-### Exciting Events at Babylon Oberoi
-
-*2024-05-25 23:14:00* · [`islandlk`](http://island.lk/exciting-events-at-babylon-oberoi/) · `en`
-
-As the new Food & Beverage Manager at Hotel Babylon Oberoi I wanted, in 1989, the hotel to make a name in hospitality and catering in Iraq. I was also keen to create and promote a string of international food festivals in Baghdad but encountered several challenges. With my experience ding this many times before, I was well-prepared, motivated, and confident of creating a buzz and present hospitality events and entertainment in Baghdad.
-
-...
-
-[Data](articles/b0717e62.json)
-
-[Extended Data](ext_articles/b0717e62.ext.json)
-
----
-
 ### Lock Tonight to Main Street in Colombo
 
 *2024-05-25 23:13:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பில்-முக்கிய-வீதிகளுக்கு-இன்று-இரவு-பூட்டு/175-337839) · `ta`
@@ -879,6 +879,26 @@ Our correspondent said that he had come to Mawanalena and arrived in Mawanella t
 [Data](articles/cf76115c.json)
 
 [Extended Data](ext_articles/cf76115c.ext.json)
+
+---
+
+### ලංකාවේ විශාලම පුද්ගලීකරණය දැන් ක්‍රියාත්මකයි
+
+*2024-05-25 22:37:05* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවේ-විශාලම-පුද්ගලීකරණය-දැන්-ක්‍රියාත්මකයි/11-409820) · `si`
+
+රටේ ජනතාවගේ ඉඩම් අයිතිය තහවුරු කර ඉදිරියට යාමේ අවස්ථාව උදාකර දෙන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+
+ජනතාවට නොමිලේ ඉඩම් අයිතිය ලබා දෙන දකුණු ආසියාවේ එකම රට ශ්‍රී ලංකාව බව පැවසු ජනාධිපතිවරයා ” උරුමය “වැඩසටහන මගින් ලබාදෙන සින්නක්කර ඔප්පු සුරක්ෂිතව ඊළඟ පරම්පරාවට භාවිතා කිරීමට හැකි වන ආකාරයෙන් තබා ගන්නා ලෙසද ඔප්පුලාභීන්ගෙන් ඉල්ලා සිටියේය.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ “උරුමය ” වැඩසටහන යටතේ යාපනය දිස්ත්‍රික්කයේ ජනතාවට ඉඩම් ඔප්පු ප්‍රදානය කිරීම වෙනුවෙන් යාපනය තන්තයි චෙල්වා ශ්‍රවණාගාරයේ පැවති උත්සවයට එක්වෙමිනි.
+
+යාපනය දිස්ත්‍රික්කයේ ප්‍රාදේශීය ලේකම් කොට්ඨාස 15ම ආවරණය වන පරිදි සින්නක්කර ඔප්පු 1286ක් ජනතාවට ලබාදීම මෙහිදී සිදු කෙරුණු අතර ජනාධිපතිවරයා සංකේතාත්මකව ඉඩම් ඔප්පු ප්‍රදානය කිරීමට එක් විය.
+
+“උරුමය” වැඩසටහන යටතේ උතුරු පළාතට අයත් මුලතිව්, කිලිනොච්චිය , වවුනියාව හා මන්නාරම දිස්ත්‍රික්කවලට සින්නක්කර ඔප්පු 13,858ක් ඉදිරියේදී ලබා දීමට නියමිතය.
+
+...
+
+[Data](articles/e2f0de34.json)
 
 ---
 
@@ -2225,25 +2245,5 @@ Roads in several areas were flooded due to incessant rains disrupting the vehicu
 [Data](articles/5b7f3f35.json)
 
 [Extended Data](ext_articles/5b7f3f35.ext.json)
-
----
-
-### Deposit of Special Health Center for Women
-
-*2024-05-25 11:47:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/பெண்களுக்கான-சிறப்பு-சுகாதார-நிலையம்-திறந்து-வைப்பு/72-337828) · `ta`
-
-President Ranil Wickremesinghe inaugurated the Center of Excellence for Women's Healthcare at Kilinochchi District General Hospital, costing Rs 5,320 million. Funded by the Dutch government as part of a national health facility improvement initiative.
-
-🟩
-
-The Center of Excellence for Women's Healthcare was opened by President Ranil Wickremesinghe today (25) at the Kilinochchi District General Hospital at a cost of Rs 5,320 million.
-
-With the help of the Government of the Netherlands under the plan to improve health facilities nationwide, the government has launched the project.. Remble
-
-◼️
-
-[Data](articles/935c4bef.json)
-
-[Extended Data](ext_articles/935c4bef.ext.json)
 
 ---

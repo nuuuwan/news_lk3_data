@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-27 02:18:28**
+As of **2024-05-27 02:34:16**
 
 ## Newspaper Stats
 
-*Scraped **26,434** Articles*
+*Scraped **26,437** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 1,546
 adalk | 2,247
 adaderanalk | 3,030
 tamilmirrorlk | 3,099
-virakesarilk | 4,036
+virakesarilk | 4,039
 dailymirrorlk | 4,174
 adaderanasinhalalk | 4,234
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 4,234
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,431 (100.0%) of 26,434 articles have been extended.
+26,434 (100.0%) of 26,437 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-27 (Monday)
+
+### பொலன்னறுவையில் ஏழு யானைகள் சடலமாக மீட்பு
+
+*2024-05-27 02:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/184564) · `ta`
+
+பொலன்னறுவை வெள்ளப் பள்ளத்தாக்கு தேசிய பூங்காவின் ஹந்தபன்வில்லு ஏரியில் உயிரிழந்த ஏழு காட்டு யானைகளின் சடலங்கள் கண்டெடுக்கப்பட்டுள்ளன.
+
+அண்மையில் ஏற்பட்ட வெள்ளப்பெருக்கின் பின்னர் சுற்றித் திரிந்த காட்டு யானைகள் ஓடை கால்வாயை கடக்கும் போது சேற்றில் அடித்து செல்லப்பட்டிருக்கலாம் என வனவிலங்கு அதிகாரிகள் தெரிவித்துள்ளனர்.
+
+உயிரிழந்த யானைகளில் 8 முதல் 10 வயதுக்குட்பட்ட ஐந்து குட்டி யானைகளும், 30 முதல் 35 வயதுடைய இரண்டு காட்டு யானைகளும் என நம்பப்படுகிறது.
+
+◼️
+
+[Data](articles/1331cfc8.json)
+
+---
 
 ### Hydra-headed network of new institutions in Economic Transformation Bill
 
@@ -44,6 +60,8 @@ The recent gazette on Economic Transformation, Part II of 10 May 2024 issued on 
 
 [Data](articles/764d36cb.json)
 
+[Extended Data](ext_articles/764d36cb.ext.json)
+
 ---
 
 ### Gen Z and Y will decide new President
@@ -55,6 +73,48 @@ The trending theme in Sri Lanka in the recent past are the probable alliances an
 ...
 
 [Data](articles/e9a94d66.json)
+
+[Extended Data](ext_articles/e9a94d66.ext.json)
+
+---
+
+### மன்னாரில் முன் அறிவித்தல் இன்றி நீர் விநியோகத்தடை; மக்கள் அசௌகரியம்
+
+*2024-05-27 01:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/184563) · `ta`
+
+மன்னார் தேசிய  நீர் வழங்கல் வடிகாலமைப்புச் சபை ஊடாக வினியோகிக்கப்பட்டு வரும் குழாய் நீர் விநியோகம் எவ்வித முன் அறிவித்தல் இன்றி ஞாயிற்றுக்கிழமை (26) மாலை முதல் தடைப்பட்டுள்ளமையினால் மன்னார் மக்கள் பல்வேறு அசௌகரியங்களுக்கு முகம் கொடுத்து வருகின்றனர்.
+
+மன்னார் நகர பகுதியில் உள்ள அதிகமான மக்கள் தமது வீடுகளுக்கு மன்னார் தேசிய  நீர் வழங்கல் வடிகாலமைப்புச் சபையின் குடிநீர் இணைப்பை பெற்று தமது குடிநீர் தேவைகளை பூர்த்தி செய்து வருகின்றனர்.
+
+அண்மைக் காலமாக முன் அறிவித்தல் வழங்கப்பட்ட பின்னர் குடிநீர் விநியோகம் தடை செய்யப்படும்.
+
+எனினும் ஞாயிற்றுக்கிழமை (26) மாலை முதல் தற்போது வரை நீர் வினியோகம் எவ்வித அறிவித்தலும் இன்றி தடை செய்யப்பட்டுள்ளது.
+
+மேலும் மன்னார் தேசிய  நீர் வழங்கல் வடிகாலமைப்புச் சபைக்கான பொறியியலாளர் ஒருவர் நிரந்தரமாக இல்லாத நிலையில் பல்வேறு பிரச்சினைகள் இடம் பெற்று வருவதாகவும் தெரியவருகிறது.
+
+மன்னார், சின்னக்கடை பிரதான வீதியில்   நீர் குழாயில் ஏற்பட்டுள்ள பாரிய நீர் கசிவை சீர் செய்யும் நடவடிக்கை இடம்பெற்று வருகின்ற நிலையே நீர் விநியோகம் தடை செய்யப்பட்டுள்ளதாக அறிய முடிகின்றது.
+
+◼️
+
+[Data](articles/216d5900.json)
+
+---
+
+### ஹெரோயின் போதைப்பொருளுடன் சந்தேகநபர் ஒருவர் கைது
+
+*2024-05-27 01:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/184562) · `ta`
+
+ஹெரோயின் போதைப்பொருளுடன் சந்தேக நபர் ஒருவரை பொலிஸார் 26 ஆம் திகதி ஞாயிற்றுக்கிழமை கைது செய்துள்ளனர்.
+
+பாணந்துறை வலப்பன பிரதேசத்தை சேர்ந்த 37 வயதான ஒருவரே இவ்வாறு கைது செய்யப்பட்டுள்ளார்.
+
+சந்தேகநபரிடம் இருந்து 1 கிலோ 850 கிராம் ஹெரோயின் போதைப் பொருளை பொலிஸார் கண்டுபிடித்துள்ளனர்.
+
+சம்பவம் தொடர்பான மேலதிக விசாரணைகளை களுத்துறை குற்றப் பிரிவினர் மேற்கொண்டு வருகின்றனமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/a85c36c3.json)
 
 ---
 
@@ -351,6 +411,8 @@ Professionals in retirement are used to sharing their experiences in the form of
 ...
 
 [Data](articles/521d2c2b.json)
+
+[Extended Data](ext_articles/521d2c2b.ext.json)
 
 ---
 
@@ -2117,83 +2179,5 @@ Many world leaders have strongly condemned the shooting of Robert Pigo last week
 [Data](articles/e3493a15.json)
 
 [Extended Data](ext_articles/e3493a15.ext.json)
-
----
-
-### Van accident: One killed
-
-*2024-05-26 15:13:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாத்ரீகர்கள்-சென்ற-வேன்-விபத்து-ஒருவர்-பலி/175-337904) · `ta`
-
-In a tragic van accident near Kalkamuwa, one died and ten were injured. The crash occurred when the van, carrying pilgrims from Kurunegala to Anuradhapura, hit a tree. Victims are hospitalized; four moved to Anuradhapura Teaching Hospital. Police believe driver fatigue caused the accident, with ongoing investigations by Calcamuwa police.
-
-🟩
-
-One person was killed and ten people were injured in a vehicle accident on Sunday (26) near the Kalkamuwa Palukadawala junction on the Badeniya Anuradhapura road.
-
-A van carrying a group of pilgrims traveling from Kurunegala to Anuradhapura crashed into a tree and crashed into a tree.
-
-The injured have been admitted to the Calgamuwa Resource Hospital and four of them have been transferred to the Anuradhapura Teaching Hospital for further treatment.
-
-Police suspect that the driver's sleep was the cause of the accident. Further investigations into the incident are being carried out by the Calcamuwa police.
-
-◼️
-
-[Data](articles/51a7760c.json)
-
-[Extended Data](ext_articles/51a7760c.ext.json)
-
----
-
-### Pjarrok collides in train
-
-*2024-05-26 15:10:42* · [`adalk`](https://www.ada.lk/breaking_news/පැජරෝවක්-කෝච්චියේ-ගැටෙයි/11-409826) · `si`
-
-A taxi collision occurred at the Yakkolawatta railway crossing, causing severe damage to one vehicle. The train driver, after crossing, mistakenly shot himself. A young man from Meetiyagoda saved him but later collapsed on the way. Despite having a color light signaling system, it was not operational at the time of the accident.
-
-🟩
-
-Kosgoda Police say that a cab collided with a cab collide at the Yakkolawatta railway crossing.
-
-The police say that the cab has been severely damaged and the driver of the train has crossed the train, police said and accidentally fired his life, police said. A young man in Meetiyagoda has rescued his life and he has collapsed on his way to Meetiyagoda and traveling from Meetiyagoda.
-
-Although there is a color light signaling system on this railway crossing, it is now no longer a train, but the color light signal system functions.
-
-◼️
-
-[Data](articles/7f01a4b3.json)
-
-[Extended Data](ext_articles/7f01a4b3.ext.json)
-
----
-
-### We will take steps to solve the salary problem of plantation people - Wijeyadasa Rajapakse
-
-*2024-05-26 15:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/184522) · `ta`
-
-The government aims to address the salary issues faced by plantation workers, acknowledging their significant contributions to the nation's economy over centuries. Despite challenges, efforts are underway to resolve these issues, including increasing salaries and providing essential documents like ID cards and birth certificates to improve their status. The government also emphasizes the importance of unity and combating division caused by certain politicians, aiming to create a fair and just society free from corruption and discrimination.
-
-🟩
-
-The government has taken steps to increase the salaries of plantation people. There are various problems in that. However, Justice Minister Wijeyadasa Rajapaksa said that steps will be taken to find a solution.
-
-We must respect the cooperation of the plantation people for about 200 years to the economy of our country.
-
-Whatever the problem in the country, the plantation people made a huge contribution. We all respect all of them.
-
-Moreover, 80 per cent of the problems in the world are to be given to those who are not eligible.
-
-We found the experience in 30 years of war. 88, 89 We have seen the terror of the People's Liberation Front.
-
-We don't need to say again for such an era. We must do politics for the people.
-
-There is a land problem for the upcountry people. There's a pay issue. The government has proposed to increase the salaries of plantation people.
-
-In January last year, we operated a mobile service in Nuwara Eliya district.
-
-...
-
-[Data](articles/4ef48440.json)
-
-[Extended Data](ext_articles/4ef48440.ext.json)
 
 ---

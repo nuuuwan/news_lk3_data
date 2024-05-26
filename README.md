@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-26 11:18:48**
+As of **2024-05-26 11:34:13**
 
 ## Newspaper Stats
 
-*Scraped **26,292** Articles*
+*Scraped **26,293** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,431
 economynextcom | 1,505
 dailyftlk | 1,533
-adalk | 2,236
+adalk | 2,237
 adaderanalk | 3,018
 tamilmirrorlk | 3,080
 virakesarilk | 4,006
@@ -26,41 +26,55 @@ adaderanasinhalalk | 4,208
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,290 (100.0%) of 26,292 articles have been extended.
+26,292 (100.0%) of 26,293 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-26 (Sunday)
 
-### 14 மாணிக்கக் கற்களுடன் அறுவர் கைது
+### Arrested with 14 gemstones
 
 *2024-05-26 11:02:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/14-மாணிக்கக்-கற்களுடன்-அறுவர்-கைது/76-337877) · `ta`
 
-புதையல் ஒன்றில் இருந்து எடுக்கப்பட்டதாக கூறப்படும் ரூபாய் பதிமூன்றரை கோடி பெறுமதியான 14 மாணிக்கக்  கற்களை விற்பனை செய்ய முற்பட்ட பெண் ஒருவர் உட்பட ஆறு நபர்கள் கைது செய்யப்பட்டதாக கட்டுகஸ்தோட்டை பொலிஸார் தெரிவித்துள்ளனர் .
+Six individuals, including a woman, were arrested by Katugastota police for attempting to sell 14 valuable gemstones, allegedly stolen from a treasure. The suspects, aged 35-49 from Hiniduma, Galle, and Heinduduwa, were caught near an old bridge. Police found 14 gemstones, digital scales, and small lights during their arrest. It's unclear if the gems are real as further investigations continue.
 
-புதையல் ஒன்றில் இருந்து எடுக்கப்பட்ட மாணிக்கக்  கற்கள் விற்பனை செய்யப்பட உள்ளதாக பொலிஸாருக்கு கிடைக்கப்பெற்ற தகவலுக்கு அமைய, அதிகாரி ஒருவரை மாறுவேடத்தில் அனுப்பி ,  சந்தேக நபர்களை கட்டுகஸ்தோட்டை பழைய பாலத்திற்கு அருகில் வரவைத்து கைது நடவடிக்கை மேற்கொள்ளப்பட்டதாக தெரிவிக்கப்பட்டுள்ளது .
+🟩
 
-இதன்போது 14 மாணிக்கக் கற்கள் , டிஜிட்டல் தராசு ஒன்று மற்றும் சிறிய மின்விளக்கு ஆகியவற்றை பொலிஸாரால் மீட்கப்பட்டுள்ளது .
+Katugastota police said that six persons, including a woman, were arrested, including a woman who tried to sell 14 gemstones worth crores of rupees, allegedly taken from a treasure.
 
-கைது செய்யப்பட்ட நபர்கள்  ஹினிதும, காலி, ஹெய்ந்துடுவ ஆகிய பிரதேசங்களை சேர்ந்த 35-49 வயதுக்கு இடைப்பட்டவர்கள் எனவும்  இது தொடர்பில் மேலதிக விசாரணைகள் மேற்கொண்டு வருவதாகவும் கட்டுகஸ்தோட்டை பொலிஸார் தெரிவித்துள்ளனர் .
+According to information available to the police that the gemstones taken from a treasure are to be sold, an officer sent an officer in disguise and brought the suspects to the old bridge near the old bridge of Katugastot.
 
-...
+The police have recovered 14 gemstones, digital scales and small lights.
+
+The arrested persons are between the ages of 35-49, from Hiniduma, Galle and Heinduduwa, and further investigations are being carried out.
+
+It is noteworthy that the police suspected that these gemstones may be fake.
+
+◼️
 
 [Data](articles/523ef36d.json)
 
+[Extended Data](ext_articles/523ef36d.ext.json)
+
 ---
 
-### காட்டு யானை தாக்கி ஒருவர் பலி
+### A wild elephant attack
 
 *2024-05-26 10:58:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காட்டு-யானை-தாக்கி-ஒருவர்-பலி/175-337876) · `ta`
 
-இன்று ஞாயிற்றுக்கிழமை (26) அதிகாலை 4 மணியளவில் காட்டு யானை தாக்கியதில் கிராதுருக்கோட்டை பகுதியை சேர்ந்த 82 வயதுடைய ஒருவர் உயிரிழந்ததாக பொலிஸார் தெரிவித்தனர்.
+An 82-year-old man was killed by a wild elephant early this morning. He had stepped out of his house when attacked.
 
-இன்று அதிகாலை முதியவர் தனது வீட்டை விட்டு வெளியேறிய போதே இவ்வனர்த்தம் நேர்ந்ததாக கூறப்படுகிறது.
+🟩
+
+An 82 -year -old man died in a wild elephant attack at around 4 am this morning (26), police said.
+
+It is said that the old man left his house this morning.
 
 ◼️
 
 [Data](articles/b4fb7238.json)
+
+[Extended Data](ext_articles/b4fb7238.ext.json)
 
 ---
 
@@ -195,6 +209,24 @@ The deceased person has been identified as a 69-year-old resident of Embilipitiy
 [Data](articles/4c654e08.json)
 
 [Extended Data](ext_articles/4c654e08.ext.json)
+
+---
+
+### ජනපතිවරණය ‍ඔක්තෝබර් 17ට පෙර පවත්වනවා
+
+*2024-05-26 10:03:32* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිවරණය-‍ඔක්තෝබර්-17ට-පෙර-පවත්වනවා/11-409821) · `si`
+
+ජනාධිපතිවරණය ඔක්තොම්බර් මස පැවැත්වෙන බවත්, එය කිසිකෙනෙකුට වෙනස් කල නොහැකි බව අධිකරණ අමාත්‍යවරයා පවසයි.
+
+ජනාධිපති මැතිවරණය ප්‍රථමයෙන් මේ වසරේ ඔක්තොම්බර් මාසයේ 17 වන දිනට පෙර පවත්වන බවත්, එම මැතිවරණය කිසිවෙකුටත් වලක්වාලිය නොහැකි බව අධිකරණ අමාත්‍ය විජයදාස රාජපක්ෂ මහතා පැවසිය.
+
+අමාත්‍ය විජයදාස රාජපක්ෂ මහතා එ බැව් කියා සිටියේ (25)දින කදුරට ජනතා පෙරමු‍ණේ නායක හා නුවරඑළිය දිස්ත්‍රික් පාර්ලිමෙන්තු මන්ත්‍රි වි.රාධාක්‍රිෂ්ණන් මහතා හැටන් නගරයේදි සංවිධානය කර තිබු එම පක්ෂයේ උත්සවයක ප්‍රධාන ආරාධිතයා වශයෙන් සහභාගි විමෙන් අනතුරුව මාධ්‍යට අදහස් දක්වමිණි.
+
+මෙහිදි වැඩි දුරටත් අදහස් දැක්වු විජයදාස රාජපක්ෂ මහතා වැඩි දුරටත් කියා සිටියේ මෙවර ජනාධ්පති මැතිවරණයේදි ශ්‍රි ලංකා නිදහස් පක්ෂය ජනාධිපති මැතිවරණයේ තිරණාත්මක ශක්තිමත් පක්ෂයක් ලෙස කටයුතු කරන බවයි.
+
+◼️
+
+[Data](articles/00803535.json)
 
 ---
 
@@ -2213,29 +2245,5 @@ President's Counsel Gamini Marapana has passed away this morning (25).
 [Data](articles/472e8a0f.json)
 
 [Extended Data](ext_articles/472e8a0f.ext.json)
-
----
-
-### Former ministers affiliated with the United People's Power!
-
-*2024-05-25 13:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/184454) · `ta`
-
-Ex-ministers Nandasena Herath and Tilak Mahalekamke, along with H. Samantha Bandara, have joined the United People's Power to back opposition leader Sajith Premadasa. Herath, a former deputy minister of food trade, and Mahalekamke, ex-MP and director of the Mahaweli Development Authority, were part of the SLFP and JVP before switching sides.
-
-🟩
-
-The Sri Lanka Freedom Party (SLFP) and the Janatha Vimukthi Peramuna (JVP) organizers met with opposition leader Sajith Premadasa and joined the United People's Power during a meeting of the Polonnaruwa District Meeting of the People's Palace Program being carried out by the United People's Power.
-
-Former parliamentarian and former minister Nandasena Herath has joined the United People's Power to support opposition leader Sajith Premadasa.
-
-He served as a member of the North Central Provincial Council in 1993 and was elected to Parliament from the Polonnaruwa District in 1994. He also served as the Deputy Minister of Food Trade in 2001.
-
-Likewise, Tilak Mahalekamke, a former Member of Parliament for the Sri Lanka Freedom Party and former Director of the Mahaweli Development Authority, joined the United People's Power today.
-
-...
-
-[Data](articles/8699a61b.json)
-
-[Extended Data](ext_articles/8699a61b.ext.json)
 
 ---

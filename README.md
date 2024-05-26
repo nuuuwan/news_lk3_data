@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-26 07:00:08**
+As of **2024-05-26 07:24:28**
 
 ## Newspaper Stats
 
-*Scraped **26,248** Articles*
+*Scraped **26,263** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,37 +12,181 @@ colombotelegraphcom | 234
 dbsjeyarajcom | 262
 bbccomsinhala | 265
 newsfirstlk | 363
-islandlk | 1,419
+islandlk | 1,431
 economynextcom | 1,505
 dailyftlk | 1,533
 adalk | 2,235
 adaderanalk | 3,014
-tamilmirrorlk | 3,065
+tamilmirrorlk | 3,066
 virakesarilk | 4,006
 dailymirrorlk | 4,146
-adaderanasinhalalk | 4,201
+adaderanasinhalalk | 4,203
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,245 (100.0%) of 26,248 articles have been extended.
+26,247 (99.9%) of 26,263 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-26 (Sunday)
 
-### வெள்ள அபாய எச்சரிக்கை நீடிப்பு
+### ජනපතිගෙන් තරුණයින්ට පොරොන්දුවක්
+
+*2024-05-26 07:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197012) · `si`
+
+මෙම වසර තුළ රට බංකොලොත්භාවයෙන් මුදවා ගැනීමෙන් අනතුරුව රැකියා විරහිත තරුණ තරුණියන්ට රැකියා අවස්ථා ලබාදීමේ වැඩසටහන ආරම්භ කරන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+
+ඒ සමඟ අපනයන ආර්ථිකයක් නැවත ඇති කිරීම වෙනුවෙන් පෞද්ගලික සමාගම් සමඟ සම්බන්ධ වී නවීන කෘෂිකර්මය ගමට ගෙන යාමේ වැඩපිළිවෙළ ලබන වසරේ සිට ආරම්භ කරන බව ජනාධිපතිවරයා පවසයි.
+
+දොරේඅප්පා ක්‍රීඩාංගණයේ පැවති යාපනය දිස්ත්‍රික් තරුණ සමුළුවට එක්වෙමින් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ඒ බව කියා සිටියේය.
+
+"පසුගිය වසර හතරක කාලය තුළ ශ්‍රී ලංකා ආර්ථිකය විශාල වශයෙන් පසුබෑමකට ලක්වුණා. එහිදී ජනතාව විශාල ලෙස දුක් පීඩාවට ලක්වුණා. වර්තමානය වන විට රට බංකොලොත්භාවයෙන් මිදෙමින් තිබෙනවා. රට බංකොලොත්භාවයෙන් ඉවත් වූවායින් පසුව රැකියා විරහිත තරුණ තරුණියන්ට රැකියා ලබාදීමටත් බලාපොරොත්තු වෙනවා. මේ වන විටත් ආර්ථික පරිවර්තන නීති පනත් කෙටුම්පත පාර්ලිමේන්තුවට ගෙනවිත් තිබෙනවා. එමඟින් අපනයනය පදනම් කරගත් ආර්ථිකයකට පරිවර්තනය වීමට අප බලාපොරොත්තු වෙනවා. වියට්නාමය, මැලේසියාව, තායිලන්තය වැනි අපනයනය පදනම් වූ ආර්ථිකයක් මෙරට ද ගොඩනැඟිය යුතුයි."
+
+...
+
+[Data](articles/c50a24f8.json)
+
+---
+
+### වැසි සහ සුළං තත්ත්වය තවදුරටත්
+
+*2024-05-26 06:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197011) · `si`
+
+නිරිතදිග මෝසම් තත්ත්වය හේතුවෙන් පවතින වැසි සහ සුළං තත්ත්වය තවදුරටත් බලාපොරොත්තු විය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, බස්නාහිර, සබරගමුව, මධ්‍යම, වයඹ සහ දකුණු පළාත්වල විටින් විට වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බවය.
+
+සබරගමුව පළාතෙත් නුවරඑළිය දිස්ත්‍රික්කයේත් ඇතැම් ස්ථානවල මි.මී. 100ට වැඩි තද වැසි ඇතිවේ.
+
+එමෙන්ම බස්නාහිර සහ වයඹ පළාත්වලත් මහනුවර, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල මි.මී. 75ක පමණ තරමක තද වැසි ඇතිවිය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව නිවේදය කරයි.
+
+උතුරු සහ උතුරු මැද පළාත්වල වැසි වාර කිහිපයක් ඇතිවිය හැකි අතර නැගෙනහිර පළාතේ වැසි ස්වල්පයක් ඇතිවේ.
+
+මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවල සහ උතුරු, උතුරු මැද, බස්නාහිර, දකුණු සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය දිස්ත්‍රික්කයේත් විටින් විට පැ.කි.මී. 50-60ක පමණ තද සුළං ඇතිවේ.
+
+එමෙන්ම දිවයිනේ සෙසු ප්‍රදේශවල විටින් විට හමන පැ.කි.මී. 30-40ක පමණ තරමක තද සුළං ඇතිවිය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව වැඩිදුරටත් සඳහන් කරයි.
+
+◼️
+
+[Data](articles/6ffd229c.json)
+
+---
+
+### Techno Hub Malabe by ICC introduces innovative office spaces
+
+*2024-05-26 05:51:00* · [`islandlk`](http://island.lk/techno-hub-malabe-by-icc-introduces-innovative-office-spaces-3/) · `en`
+
+Techno Hub at Malabe is yet another innovative construction by International Construction Consortium (Pvt) Ltd (ICC) to provide commercial space at Malabe. With its success story of Iceland Business centre located in Colombo, Techno hub is considered as the second commercial space project constructed, developed & managed by ICC Pvt Ltd, said a press release.
+
+It said: Malabe has become the most sought-after residential suburbs in the Greater Colombo area with the rapid development of Southern Expressway and outer circular Highway with proximity to major financial and administrative hubs of Sri Lanka. Malabe has been proposed as the Information Technology Hub, as per the Government’s Megapolis Development Project.
+
+...
+
+[Data](articles/12ec3dac.json)
+
+---
+
+### DSI Tyres hosts Hankook Tyre Dealers’ Gathering at RIU
+
+*2024-05-26 05:51:00* · [`islandlk`](http://island.lk/dsi-tyres-hosts-hankook-tyre-dealers-gathering-at-riu/) · `en`
+
+A grand celebration honouring the exceptional service of world-renowned Hankook Radial Tyre dealers and their families was recently held at the RIU Hotel in Ahungalle. Hankook tyres were introduced to Sri Lanka by Sri Lanka’s most-trusted tyre company, DSI Tyres.
+
+The event featured the presentation of special framed certificates appointing as certified dealers, personally signed by the Managing Directors of both Hankook and DSI Tyres, to dealers who had notably contributed to the distribution of Hankook tyres in Sri Lanka. Additionally, dealers received guidance on effectively promoting Hankook tyres, ensuring that consumers purchase them responsibly and reliably.
+
+...
+
+[Data](articles/a8826690.json)
+
+---
+
+### Sanasa Life Insurance launches ‘Promise of a Mother’s Love’ child insurance policy
+
+*2024-05-26 05:51:00* · [`islandlk`](http://island.lk/sanasa-life-insurance-launches-promise-of-a-mothers-love-child-insurance-policy/) · `en`
+
+Sanasa Life Insurance celebrated the Mother’s Day with launch of special product titled ‘Promise of a Mother’s Love’.
+
+Sanasa Life Insurance Head of Marketing Mahesh Wickramatunga, Head of Marketing said: “This new plan builds upon the success of our existing child insurance policy, Senehasa. Senehasa is a popular choice for parents due to its high returns and low monthly premiums, which aligns perfectly with Sanasa Life Insurance’s core values of affordability and accessibility.”
+
+“At Sanasa Life Insurance, we believe the ‘Promise of a Mother’s Love’ policy goes beyond just financial security. We’re proud to offer a product that strengthens the bond between parents and children, fostering closer families. In fact, the positive impact of this plan extends beyond the family unit, creating a ripple effect that benefits communities and the nation as a whole,” Wickramathunga said.
+
+...
+
+[Data](articles/bf589ba2.json)
+
+---
+
+### Beware of the Weather Gods
+
+*2024-05-26 05:47:00* · [`islandlk`](http://island.lk/beware-of-the-weather-gods/) · `en`
+
+The one thing a pilot wishes for, when he lines up for take-off is a blue sky. He rolls his aeroplane down the runway with engines screaming at take-off power, and at rotational speed, he eases the aeroplane into the sky. Then he retracts the gear and the flaps, which is commonly called cleaning the aircraft and then sets the course in the direction of his destination. Whether it is an intercontinental 15-hour flight or a local one hour’s run from Ratmalana to Jaffna, the pilot has one ultra-important wish. That is to have a domed blue sky throughout his journey.
+
+...
+
+[Data](articles/4442e882.json)
+
+---
+
+### Memories of Jayantha Dhanapala (1938 – 2023)
+
+*2024-05-26 04:19:00* · [`islandlk`](http://island.lk/memories-of-jayantha-dhanapala-1938-2023/) · `en`
+
+Ambassador Jayantha Dhanapala’s career in national and international service spanned over half a century as he laboured to ensure a safer world for all, even after retirement. As we mark the first year of his passing, we remember with gratitude his invaluable contribution to diplomacy in general and his unwavering commitment to the promotion and safeguarding of Sri Lanka’s national interest in particular. He excelled as a diplomat, contributing tangibly to both international norm-setting as well as to nurturing compliant state practice which encompassed numerous fields, ranging from disarmament to good governance and from human rights to humanitarian endeavours.
+
+...
+
+[Data](articles/6188db75.json)
+
+---
+
+### Aachchi – My Heroine
+
+*2024-05-26 04:19:00* · [`islandlk`](http://island.lk/aachchi-my-heroine/) · `en`
+
+Aachchi (my paternal grandmother)’s claim to fame was a story about her mother’s bravery. My great-grandmother was 160-years old when the Krakatoa Volcano in the Javanese Sea erupted in 1883. She ran with her brother to the seabed to catch gasping fish left behind by the receding waves. When the sea swelled and exploded, it took her about a hundred metres before dashing her onto a building. If we pressed for more drama, Aachchi would say that her mother rode high waves and swam home over the railway track and coconut trees.
+
+...
+
+[Data](articles/912afa32.json)
+
+---
+
+### சிரேஷ்ட ஜனாதிபதி சட்டத்தரணி காலமானார்
+
+*2024-05-26 02:09:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிரேஷ்ட-ஜனாதிபதி-சட்டத்தரணி-காலமானார்/175-337844) · `ta`
+
+சிரேஷ்ட ஜனாதிபதி சட்டத்தரணி காமினி மாரப்பன தனது 83 ஆவது வயதில் நேற்று காலமானார்.
+
+1965 ஆம் அண்டு சட்டத்தரணியாக சத்தியப்பிரமாணம் செய்த மறைந்த காமினி மாரப்பன, 1990 ஆம் ஆண்டில் ஜனாதிபதி சட்டத்தரணியாக சத்தியப்பிரமாணம் செய்துகொண்டார்.
+
+ஶ்ரீ லங்கன் விமான சேவையின் பணிப்பாளராகவும், கொழும்பு துறைமுக நகர ஆணைக்குழுவின் முதலாவது தலைவராகவும் செயற்பட்ட அன்னார், தேசிய விளையாட்டுப் பேரவையின் தலைவராகவும் அவர் கடமையாற்றியுள்ளார். (a)
+
+◼️
+
+[Data](articles/b44e6d8a.json)
+
+---
+
+### Extension of flood hazards
 
 *2024-05-26 02:03:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெள்ள-அபாய-எச்சரிக்கை-நீடிப்பு/175-337841) · `ta`
 
-இதன்படி களனி கங்கை, களுகங்கை, நில்வளா கங்கை, தெதுறு ஓயா மற்றும் அத்தனுகலு ஓயா ஆகியவற்றின் நீர்மட்டம் அதிகரித்து வருவதாக அந்த திணைக்களம் குறிப்பிட்டுள்ளது.
+Flood warnings persist for lowlands near Thethuru Oya and Kalu Ganga due to rising water levels in rivers including Kelaniya Ganga, Kaluganga, Nilwala Ganga, Thethuru Oya, and Athanugalu Oya.
 
-இதனையடுத்து தெதுறு ஓயா மற்றும் களு கங்கையை அண்மித்த தாழ்நிலப்பகுதிகளுக்கு விடுக்கப்பட்ட வெள்ள அபாய எச்சரிக்கை தொடர்ந்தும் நீடிக்கப்பட்டுள்ளது. (a)
+🟩
+
+According to the department, the water level of Kelaniya Ganga, Kaluganga, Nilwala Ganga, Thethuru Oya and Athanugalu Oya is increasing.
+
+Subsequently, the flood warning issued to the lowlands of Thethuru Oya and Kalu Ganga has continued.. (A)
 
 ◼️
 
 [Data](articles/329ec471.json)
+
+[Extended Data](ext_articles/329ec471.ext.json)
 
 ---
 
@@ -71,6 +215,18 @@ Meanwhile, two -night postal services between Colombo and Badulla have been canc
 ---
 
 ### 2024-05-25 (Saturday)
+
+### Iran after Raisi
+
+*2024-05-25 23:32:00* · [`islandlk`](http://island.lk/iran-after-raisi/) · `en`
+
+At the time of his death on May 19, in a helicopter crash that has yet to be fully investigated, Iranian President Ebrahim Raisi had risen through the ranks. Sanctioned by the West and nicknamed the “Butcher of Tehran” for his uncompromising attitude to protesters, he was seen as the successor to Iran’s Supreme Leader Ayatollah Khamenei. Under his watch Iran went through some pretty turbulent times, including a spate of protests in 2021 following the death in custody of a 22-year-old woman. But it also saw through a transformation in its foreign relations, signalling an outreach to Asia and the Global South.
+
+...
+
+[Data](articles/6a29899a.json)
+
+---
 
 ### Mullivaikkal - British Labor Leader points
 
@@ -161,6 +317,20 @@ Generations not born here will laud and praise the memory of Father Vito Perniol
 ...
 
 [Data](articles/c92243dc.json)
+
+[Extended Data](ext_articles/c92243dc.ext.json)
+
+---
+
+### Exciting Events at Babylon Oberoi
+
+*2024-05-25 23:14:00* · [`islandlk`](http://island.lk/exciting-events-at-babylon-oberoi/) · `en`
+
+As the new Food & Beverage Manager at Hotel Babylon Oberoi I wanted, in 1989, the hotel to make a name in hospitality and catering in Iraq. I was also keen to create and promote a string of international food festivals in Baghdad but encountered several challenges. With my experience ding this many times before, I was well-prepared, motivated, and confident of creating a buzz and present hospitality events and entertainment in Baghdad.
+
+...
+
+[Data](articles/b0717e62.json)
 
 ---
 
@@ -2051,275 +2221,5 @@ The “Anhalt 2024 - Internationales Leichtathletik Meeting,” a World Athletic
 [Data](articles/4b16b89e.json)
 
 [Extended Data](ext_articles/4b16b89e.ext.json)
-
----
-
-### Melco’s Nuwa hotel to open in Sri Lanka in mid-2025
-
-*2024-05-25 08:31:00* · [`economynextcom`](https://economynext.com/melcos-nuwa-hotel-to-open-in-sri-lanka-in-mid-2025-164535/) · `en`
-
-ECONOMYNEXT – A Nuwa branded hotel run by Melco Resorts and Entertainment linked to their gaming operation in Colombo will open in mid 2025, its Sri Lanka partner John Keells Holdings said.
-
-The group’s integrated resort is being re-branded as a ‘City of Dreams’, a brand of Melco.
-
-The resort will have a 687-room Cinnamon Life hotel and the Nuwa hotel described as “ultra-high end”.
-
-“The 113-key exclusive hotel, situated on the top five floors of the integrated resort, will be managed by Melco under its ultra high-end luxury-standard hotel brand ‘Nuwa’, which has presence in Macau and the Philippines,” JKH told shareholders in the annual report.
-
-“Melco’s ultra high-end luxury-standard hotel and casino, together with its global brand and footprint, will strongly complement the MICE, entertainment, shopping, dining and leisure offerings in the ‘City of Dreams Sri Lanka’ integrated resort, establishing it as a one-of-a-kind destination in South Asia and the region.”
-
-...
-
-[Data](articles/b61293d8.json)
-
-[Extended Data](ext_articles/b61293d8.ext.json)
-
----
-
-### Two youth dies in myself
-
-*2024-05-25 08:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196985) · `si`
-
-In Dompe Malwana, two unidentified bodies were discovered in a paddy field. The victims, from Ramboda, were reported missing after staying at a lodge for two days without returning. Police received complaints at 119 and 118 centers.
-
-🟩
-
-Two bodies of two bodies of two suspects were found in a paddy field in Domma Malwana Males.
-
-The deceased has been identified as the residents of Ramboda, Ramboda, the deceased.
-
-Police said that the complaints were initiated on the centers at 119 and 118 of the centers in a paddy field in Dompe Malwana Males.
-
-A person in the lodge had lodged a complaint with the police regarding the two days of his stay in the past 22 and not returning.
-
-◼️
-
-[Data](articles/936b7812.json)
-
-[Extended Data](ext_articles/936b7812.ext.json)
-
----
-
-### Prevailing showery and windy conditions expected to continue
-
-*2024-05-25 08:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/99420/prevailing-showery-and-windy-conditions-expected-to-continue) · `en`
-
-Due to the Southwest monsoon conditions, the prevailing showery and windy conditions are expected to continue, says the Meteorology Department.
-
-Showers or thundershowers will occur at times in Western, Sabaragamuwa, Central, North-western and Southern provinces.
-
-Heavy showers above 100mm are likely at some places in Sabaragamuwa province and in Nuwara-Eliya district.
-
-Fairly heavy showers about 75mm are likely at some places in Western and North-western provinces and in Kandy, Galle and Matara districts.
-
-Several spells of showers will occur in Northern and North-central provinces, the department said.
-
-Strong winds of about 50-60 kmph can be expected at times over Western slopes of the central hills and in Northern, North-central, Western, Southern and North-western provinces and in Trincomalee district.
-
-Fairly strong winds about 30-40 kmph can be expected at times elsewhere of the island.
-
-◼️
-
-[Data](articles/ce083b2c.json)
-
-[Extended Data](ext_articles/ce083b2c.ext.json)
-
----
-
-### Sivanolipadamalai seasonal pilgrimage is completed
-
-*2024-05-25 08:00:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிவனொளிபாதமலை-பருவகால-யாத்திரை-நிறைவு/175-337825) · `ta`
-
-The annual pilgrimage to Sivanolipadamalai concluded successfully, with holy idols and offerings moved to its Vihara atop the hill. Today, at 8 AM, these items will be transferred to the Rajamaha Vihara in Ratnapura. The Norton Laxapana will also be relocated through various locations en route. Notably, the Pooja will be conducted on the full moon day in December, dedicated to the worship of Sivanolipadamalai.
-
-🟩
-
-All the holy idols and pooja items were brought to the Vihara, which was placed on the top of the Sivanolipadamalai.
-
-The equivalent deity and pooja items will be taken to the Rajamaka Vihara to the Rajamaha Vihara, Ratnapura at 8 am today at 8 am.
-
-The Norton Laxapana will be transported to the Vihara as Kithulkalai, Karavanalla, Tekiyovita, Yatiyantota, Avissawella, Ratnapura Raja.
-
-It is noteworthy that the Pooja will be placed on the full moon day for the worship of Sivanolipadamalai on the full moon day in December.. Remble
-
-◼️
-
-[Data](articles/eb287ccd.json)
-
-[Extended Data](ext_articles/eb287ccd.ext.json)
-
----
-
-### Resistor
-
-*2024-05-25 07:52:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையின்-பல-பகுதிகளில்-மின்தடை/175-337824) · `ta`
-
-In Sri Lanka, heavy weather caused power outages affecting over 430,000 people. The Ceylon Electricity Board received 59,400 reports of electrical issues in four days, with over 3.3 million complaints addressed. Power supply was restored for 330,000 residents before the situation improved.
-
-🟩
-
-The Ceylon Electricity Board Engineers Association said that 431 and 500 people in Sri Lanka have been affected by the inclement weather.
-
-Due to the daily complaints of the power outage, all customers have been unable to respond to the day.
-
-The Ceylon Electricity Board Engineers Association said that 59,400 electrical malfunctions have been reported in the last four days and that more than 3300,000 complaints have been expedited.
-
-According to the Ceylon Electricity Board (CEB) Engineers Association, the power supply of 330,000 people has been brought to normal until yesterday.. Remble
-
-◼️
-
-[Data](articles/dee11290.json)
-
-[Extended Data](ext_articles/dee11290.ext.json)
-
----
-
-### Another superior victory to EUPAN Abeykoon
-
-*2024-05-25 07:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196984) · `si`
-
-EUPAN Abeykoon triumphs in the Salath Athletics Championships in Germany, securing first place in the UUBAN category. His exceptional speed, qualifying him for the finals, led to his victory in the initial round with a time of 10:15 seconds, showcasing his immense talent.
-
-🟩
-
-UUBAN Abeykoon was won by the first place in the Salath Athletics Championships in Germany.
-
-The fasters were first qualified for the final, recorded the first place in the basic round of 1015 seconds, as the most talent was the best talent.
-
-◼️
-
-[Data](articles/8512362c.json)
-
-[Extended Data](ext_articles/8512362c.ext.json)
-
----
-
-### Existing rains and winds no longer
-
-*2024-05-25 06:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196983) · `si`
-
-The Department of Meteorology forecasts heavy rains and strong winds across several provinces, including the Western, Sabaragamuwa, Central, North Western, and Southern regions, with potential gusts exceeding 100mm in areas like Nuwara Eliya, Kandy, Galle, and Matara. Additionally, the Southwest Monsoon is expected to bring occasional showers and thunderstorms, posing a risk of flooding and landslides.
-
-🟩
-
-The Department of Meteorology says that the southwest monsoon is expected to be hoping.
-
-Showers or thundershowers will occur at times in the Western, Sabaragamuwa, Central, North Western and Southern provinces.
-
-In some places in the Nuwara Eliya district of Sabaragamuwa Province. Heavy rains can occur at over 100.
-
-In some places in the Kandy, Galle and Matara districts in the Western and North Western Provinces and mm.. Heavy showers have been causing rains.
-
-At times, the Trincomalee district, the West, North, North, North Central, North Central, Southern and North Western provinces.. (50-60) can cause strong winds.
-
-From time to time in the rest of the island.. The Department further stated that there are about courageous winds.
-
-◼️
-
-[Data](articles/a498fe7d.json)
-
-[Extended Data](ext_articles/a498fe7d.ext.json)
-
----
-
-### Did you know these issues about Buddhism in Indonesia?
-
-*2024-05-25 03:39:38* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cxwwnp77m87o) · `si`
-
-It seems like you've shared a detailed narrative about the evolution of Buddhism in Indonesia, particularly focusing on the influence of Ashin Thera and the development of a unique Buddhist tradition that incorporates elements of Indonesian multiculturalism and language. This narrative touches upon the historical context of Buddhism in Indonesia, including its interaction with the government, the rise of Christianity among certain groups, and the adaptation of Buddhism to fit local cultures.
-
-
-
-If you have specific questions or need further clarification on any part of this narrative, feel free to ask
-
-🟩
-
-The various teachings of Buddhism, including theravada and wita, is spreading throughout the entire Indonesia today. How did it break into different traditions after it began?
-
-One day at the school phase I went to the house of a friend located in the southern part of Jakarta. Like me, this friend is also a Chinese origin. The difference is that he is a Christian and is a Buddhist.
-
-After I wanted to return home, I came to his mother, and she came to my gate.
-
-There she briefly replied with me: "What church are you going?"
-
-Back to her again I have answered "yes" before she left.
-
-For more than 15 years, for more than 15 years, I have been unrest that I was saying that "still Buddhist" on the same day.
-
-Her motive was not bad. She said it was by a normal tone and not to ridicule.
-
-However, when I think of the statement, I said, "So what have I been in a Buddhist?"I question me that I am.
-
-My family is followers of Trotic Policies and is literally, "three teachings of truth".
-
-...
-
-[Data](articles/77712f63.json)
-
-[Extended Data](ext_articles/77712f63.ext.json)
-
----
-
-### Can Ranil  Wickremesinghe  Regain the Support of Tamil and Muslim Voters at the 2024 Presidential Elections?
-
-*2024-05-25 03:33:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84070) · `en`
-
-Sri Lanka’s last official census was taken in 2012. According to that census, Sri Lanka’s majority ethnic community the Sinhalese comprises 74.9 % of the island nation’s population.  Numerically, the second largest ethnicity is the Sri Lankan Tamils who are 11.1% of the population. The third largest ethnicity is the Sri Lankan Muslims or Moors who comprise 9.3% of the population. The fourth largest ethnic group is the Tamils of  Indian origin known as “Malaiyagath Thamizhar” (Hill Country Tamils) who are 4.1%.
-
-The three numerical minorities namely the Sri Lankan Tamils, Muslims and Indian Tamils together are 25.5% of the population. These three ethnic groups form the majority in some Sri Lankan districts. In other districts they are a substantive segment of the population. Since the people of all districts vote together in the Presidential elections, the entire island is transformed into a “single” constituency with a 74.9% Sinhala majority and 25.5 % non – Sinhala minorities.
-
-...
-
-[Data](articles/008ff134.json)
-
-[Extended Data](ext_articles/008ff134.ext.json)
-
----
-
-### The risk of spreading dengue by rain
-
-*2024-05-25 02:45:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மழையால்-டெங்கு-பரவும்-அபாயம்/175-337823) · `ta`
-
-Rainy weather increases dengue spread; 24,227 cases identified this year, including 2,234 in April and 1,954 in May.
-
-🟩
-
-The Dengue Control Unit said that there is a risk of spreading dengue due to rainy weather in the country.
-
-According to a statement issued by the Dengue Regulatory Unit, 24 thousand 227 dengue leaders have been identified in the country so far this year.
-
-According to the report, 2 thousand 234 dengue patients were reported last April. 1,954 dengue patients have been identified during this period this month.
-
-According to the report, 5 thousand 183 dengue patients have been identified in the district. (A)
-
-◼️
-
-[Data](articles/9ecc3060.json)
-
-[Extended Data](ext_articles/9ecc3060.ext.json)
-
----
-
-### The President worked for the North and East Development
-
-*2024-05-25 02:38:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-வடக்கு-கிழக்கு-அபிவிருத்திக்காக-செயற்பட்டார்/175-337822) · `ta`
-
-President Ranil Wickremesinghe has shown dedication to developing the North and East regions during his tenure as Prime Minister. He recently opened a Medical Training and Research Department building at the University Medical Faculty, highlighting his commitment to investing in these areas. This initiative aims to establish a center of excellence in Sri Lanka, focusing on the needs of the northern region.
-
-🟩
-
-President Ranil Wickremesinghe has been dedicated to the development of the North and East since he was prime minister.. Said Sumanthiran.
-
-Yall. The MA MA addressed the opening ceremony of the Medical Training and Research Department building at the University Medical Faculty yesterday morning.. Sumanthiran said this.  When he further addresses,
-
-President Ranil Wickremesinghe has been dedicated to the development of the North and East since his time as Prime Minister. It can be pointed out that this medical faculty building at the Jaffna University, which is open today, is a good investment for the north.
-
-And I hope this will become the asylum of experts in Sri Lanka in the future. As those who had earlier said that the President said that the President had paid special attention to the development of the Jaffna Mawatha and the development of the people.. (A)
-
-◼️
-
-[Data](articles/55d89667.json)
-
-[Extended Data](ext_articles/55d89667.ext.json)
 
 ---

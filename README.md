@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-27 00:33:58**
+As of **2024-05-27 00:49:18**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,234
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,417 (100.0%) of 26,418 articles have been extended.
+26,418 (100.0%) of 26,418 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -54,23 +54,35 @@ Earlier, at the UAE Grand Prix in Dubai, he finished the Men’s 100m event with
 
 ---
 
-### ஹைதராபாத்தை 8 விக்கெட்களால் வீழ்த்தி  ஐபிஎல் கிண்ணத்தை 3ஆவது தடவையாக சுவீகரித்தது  கொல்கத்தா
+### Kolkata beat Hyderabad by 8 wickets
 
 *2024-05-26 23:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/184561) · `ta`
 
-சென்னை சேப்பாக்கம் எம்.ஏ. சிதம்பரம் விளையாட்டரங்கில் ஞாயிற்றுக்கிழமை இரவு நடைபெற்ற 17ஆவது இண்டியன் பிறீமியர் லீக் அத்தியாயத்தின் இறுதிப் போட்டியில் சன்ரைசர்ஸ் ஹைதராபாத் அணியை 8 விக்கெட்களால் அமோக வெற்றிகொண்ட கொல்கத்தா நைட் ரைடர்ஸ் 3ஆவது தடவையாக சம்பியன் பட்டத்தை சுவீகரித்தது.
+Kolkata Knight Riders clinched their 3rd IPL championship title after defeating Sunrisers Hyderabad by 8 wickets in the 17th IPL final. They achieved this feat with a low score of 114 runs, chasing down the lowest winning target in IPL history. Key performances included Rahmanullah Gurbaz and Venkatesh Iyer's partnership and Andre Russell's bowling.
 
-ஐபிஎல் இறுதி ஆட்டம் ஒன்றில் 114 ஓட்டங்கள் என்ற மிகக் குறைந்த வெற்றி இலக்கை நோக்கி பதிலுக்கு துடுப்பெடுத்தாடிய கொல்கத்தா நைட் ரைடர்ஸ் 10.3 ஓவர்களில் 2 விக்கெட்களை இழந்து 114 ஓட்டங்களைப் பெற்று வெற்றியிட்டியது.
+🟩
 
-எனினும் 2ஆவது ஓவரில் மொத்த எண்ணிக்கை 11 ஓட்டங்களாக இருந்தபோது சுனில் நரேன் 6 ஓட்டங்களுடன் பெட் கமின்ஸின் பந்துவீச்சில் ஆட்டம் இழந்து வெளியேறினார்.
+Chennai Chepakkam MA. Kolkata Knight Riders won the Champions title for the 3rd time in the final of the 17th Indian Premier League chapter held at the Chidambaram Stadium on Sunday night.
 
-ஆனால், ரஹ்மானுல்லா குர்பாஸ், வெங்கடேஷ் ஐயர் ஆகிய இருவரும் 2ஆவது விக்கெட்டில் 45 பந்துகளில் 91 ஓட்டங்களைப் பகிர்ந்து வெற்றியை இலகுவாக்கினர்.
+Kolkata Knight Riders lost 2 wickets in 10.3 overs and scored 114 runs in response to the lowest winning target of 114 runs in the final of the IPL.
 
-ரஹ்மானுல்லா குர்பாஸ் 39 ஓட்டங்களைப் பெற்றிருந்தபோது ஷாஹ்பாஸ் அஹ்மதின் பந்துவீச்சில் எல் பி டபிள்யூ முறையில் ஆட்டம் இழந்தார்.
+However, when the total number was 11 runs in the 2nd over, Sunil Narain lost the bowling of Pet Kamins with 6 runs.
+
+However, Rahmanullah Gurbas and Venkatesh Iyer both shared 91 runs off 45 balls in the 2nd wicket.
+
+Shahbas Ahmad's bowling while Rahmanullah Qurbas scored 39 runs.
+
+Venkatesh Iyer scored 52 runs without losing 26 balls. Team captain Shreyas Iyer did not play with 6 runs.
+
+Sunrisers Hyderabad, who decided to bat first in the final, lost all wickets in 18.3 overs and scored 113 runs.
+
+This is the lowest number of teams in the history of the IPL.
 
 ...
 
 [Data](articles/96a59c56.json)
+
+[Extended Data](ext_articles/96a59c56.ext.json)
 
 ---
 

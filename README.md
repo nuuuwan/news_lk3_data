@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-26 22:52:06**
+As of **2024-05-26 23:03:45**
 
 ## Newspaper Stats
 
-*Scraped **26,409** Articles*
+*Scraped **26,412** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,31 +16,85 @@ islandlk | 1,431
 economynextcom | 1,509
 dailyftlk | 1,533
 adalk | 2,247
-adaderanalk | 3,029
+adaderanalk | 3,030
 tamilmirrorlk | 3,097
 virakesarilk | 4,035
-dailymirrorlk | 4,168
+dailymirrorlk | 4,170
 adaderanasinhalalk | 4,234
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,406 (100.0%) of 26,409 articles have been extended.
+26,409 (100.0%) of 26,412 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-26 (Sunday)
 
-### 2024 IPL කිරුළ කොල්කටා කණ්ඩායමට
+### Kolkata thrash Hyderabad to win third IPL title
+
+*2024-05-26 22:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/99452/kolkata-thrash-hyderabad-to-win-third-ipl-title) · `en`
+
+Fast bowler Mitchell Starc returned figures of 2-14 to help Kolkata Knight Riders thrash Sunrisers Hyderabad by eight wickets to clinch their third IPL title in the Sunday final.
+
+Kolkata bowled out Hyderabad for 113, a total they overhauled with 9.3 overs to spare as Venkatesh Iyer hammered an unbeaten 52 in Chennai.
+
+◼️
+
+[Data](articles/4699e8b1.json)
+
+---
+
+### Death of Ambassador: Sri Lanka extends all assistance to French authorities
+
+*2024-05-26 22:43:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Death-of-Ambassador-Sri-Lanka-extends-all-assistance-to-French-authorities/108-283378) · `en`
+
+Colombo, May 26 (Daily Mirror)- While expressing deepest condolences on the passing away of Ambassador of France to Sri Lanka and the Maldives Jean-François Pactet, the Foreign Ministry said all assistance will be extended to the French authorities and the family of the late Ambassador.
+
+"The Ministry of Foreign Affairs learns with deepest sorrow of the sudden demise of His Excellency Jean- François Pactet, Ambassador of France to Sri Lanka and the Maldives. The Ministry is in close coordination with the French Embassy in Sri Lanka at this time of grief," the Ministry said.
+
+The funeral arrangements will be notified by the authorities in due course, a statement issued by the Foreign Ministry said.
+
+◼️
+
+[Data](articles/2055fe85.json)
+
+---
+
+### Kolkata Knight Riders win IPL 2024 to clinch third title
+
+*2024-05-26 22:42:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Kolkata-Knight-Riders-win-IPL-2024-to-clinch-third-title/108-283377) · `en`
+
+Kolkata Knight Riders won their third IPL title, beating SunRisers Hyderabad by eight wickets in the IPL 2024 final at the MA Chidambaram Stadium in Chennai on Sunday.
+
+12 years after winning their first title at the same venue against the Chennai Super Kings, KKR, led by Shreyas Iyer, thumped SRH in a one-sided contest.
+
+After Sunrisers skipper Pat Cummins opted to bat first on a red-soil surface, Kolkatastruck early with Mitchell Starc and Vaibhav Arora removing their deadly openers. While Starc castled Sharma in the first over, Arora dismissed the deadly Head for a third duck in four innings before KKR seized complete momentum.
+
+SRH were reduced to 113 in 18.3 overs – the lowest score in an IPL final – before the Knights romped home in a breezy chase. Led by Venkatesh Iyer’s quickfire fifty in 24 balls, KKR trumped Sunrisers for the third time this season.
+
+◼️
+
+[Data](articles/d8d8c56b.json)
+
+---
+
+### 2024 IPL Kolkata team
 
 *2024-05-26 22:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197044) · `si`
 
-2024 IPL තරගාවලියේ කිරුළ හිමිකරගැනීමට කොල්කටා නයිට් රයිඩර්ස් කණ්ඩායම සමත්විය.
+In 2024, the IPL Kolkata Knight Riders (KKR) emerged victorious, clinching the tournament title.
+
+🟩
+
+The 2024 IPL knight raiders were able to win the IPL tournament.
 
 ◼️
 
 [Data](articles/b7088b20.json)
+
+[Extended Data](ext_articles/b7088b20.ext.json)
 
 ---
 
@@ -56,21 +110,29 @@ The raid was carried out by the Kalutara Crimes Division on information received
 
 [Data](articles/15926847.json)
 
+[Extended Data](ext_articles/15926847.ext.json)
+
 ---
 
-### හෙරොයින් තොගයක් සමග සැකකරුවෙකු අත්අඩංගුවට
+### Suspect arrested with heroin
 
 *2024-05-26 22:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197043) · `si`
 
-මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ 37 හැවිරිදි වියේ පසුවන පානදුර වලපන ප්‍රදේශයේ පදිංචිකරුවෙකි.
+A 37-year-old from Walapana, Panadura, was arrested with 1 kg of heroin and 850 grams more. Police also confiscated his mobile phone upon arrest.
 
-එහිදී සැකකරු සන්තකයේ තිබී හෙරොයින් කිලෝග්‍රෑම් 1යි ග්‍රෑම් 850ක් පොලීසිය සොයාගෙන ඇත.
+🟩
 
-සැකකරු අත්අඩංගුවට ගත් අවස්ථාවේ ඔහු සතුව තිබූ ජංගම දුරකථනයක්ද පොලීසිය සිය භාරයට ගෙන ඇත.
+The arrested is a 37-year-old resident of the Walapana area in Panadura.
+
+Police have found 1 kilograms of heroin and 850 grams of heroin in possession.
+
+The police also seized a mobile phone he had when the suspect was arrested.
 
 ◼️
 
 [Data](articles/ad29784f.json)
+
+[Extended Data](ext_articles/ad29784f.ext.json)
 
 ---
 
@@ -2175,73 +2237,5 @@ Accordingly, very strong winds 60-70 kmph, accompanied with heavy rainfalls and 
 [Data](articles/901eec76.json)
 
 [Extended Data](ext_articles/901eec76.ext.json)
-
----
-
-### ‘Red’ alert issued over strong winds and rough seas due to severe cyclonic storm
-
-*2024-05-26 11:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/99442/red-alert-issued-over-strong-winds-and-rough-seas-due-to-severe-cyclonic-storm) · `en`
-
-The Department of Meteorology has issued an advisory for strong winds and rough seas for naval and fishermen communities in the deep-sea areas in the South-eastern Arabian Sea and in the Bay of Bengal.
-
-The ‘red’ alert states that the cyclonic storm, named “Remal” (pronounced “Re-Mal”) over the North Bay of Bengal, intensified into a severe cyclone storm at 05.30 a.m. on May 26.
-
-It is located near 19.5°N and 89.3°E, to the north-east of Sri Lanka, and 1500 km away from Kankasanthurai and it is very likely to move nearly northwards, intensify further, and cross Bangladesh and adjoining West Bengal (India) coasts by May 26th at midnight, the advisory said.
-
-Accordingly, very strong winds 60-70 kmph, accompanied with heavy rainfalls and very rough seas are likely over the sea areas around the country and over the South-eastern Arabian Sea areas and Bay of Bengal Sea areas, it added.
-
-...
-
-[Data](articles/badb4a93.json)
-
-[Extended Data](ext_articles/badb4a93.ext.json)
-
----
-
-### The young man who went to see Vesak in love
-
-*2024-05-26 11:49:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெசாக்-பார்க்க-சென்ற-இளைஞனுக்கு-காதலால்-விபரீதம்/175-337880) · `ta`
-
-A 22-year-old man named Lukshan died after a knife attack near Bandaranaike, allegedly over a romantic dispute. He was heading to celebrate Vesak with friends when the incident occurred. Three suspects, aged 17 and 18, from Wellampitiya, have been arrested for investigation.
-
-🟩
-
-A youth has died after being attacked by a sharp weapon at Bandaranaike near Bandaranaike on Baseline Road, Ogodavatta, which belongs to the Grandpass police division.
-
-D of Peliyagoda, Nellikahawatta area. The death of a 22 -year -old youth Lukshan has died.
-
-While the young man was on his way to the streets to visit Vesak with his friends, it was reported that some people were assaulted in a dispute based on a romantic relationship.
-
-Three people aged 17 and 18 from Wellampitiya area have been arrested in connection with the murder and are investigating, police said.
-
-◼️
-
-[Data](articles/617e60c2.json)
-
-[Extended Data](ext_articles/617e60c2.ext.json)
-
----
-
-### Raju was seriously injured in Mawanella
-
-*2024-05-26 11:46:35* · [`adalk`](https://www.ada.lk/breaking_news/මාවනැල්ලේදී-රාජු-කලබල-වී-අයෙක්ට-බරපතල-තුවාල/11-409823) · `si`
-
-In Mawanella, Raju was severely hurt, and an elephant, attacked by palace guards, was hospitalized. Police arrested Perahera participants near a temple for election-related disturbances. The State Organizers faced backlash after the attack, leading to significant damages during the procession.
-
-🟩
-
-The elephant's assault was also admitted to the Mahawawella hospital with serious injuries, which were assaulted by the house of the palace in Mawanella.
-
-The Mawanella police said that while participating in the election Perahera had been detained in a temple adjacent to Mawanella.
-
-After attacking the elephant, the State Organizers had come to Mawanella and the appointment of the procession in the Mawaya Mawanella area.
-
-Police say he had to suffer a lot of damage during the election procession.
-
-◼️
-
-[Data](articles/463f5c82.json)
-
-[Extended Data](ext_articles/463f5c82.ext.json)
 
 ---

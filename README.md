@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-26 21:03:57**
+As of **2024-05-26 21:18:38**
 
 ## Newspaper Stats
 
-*Scraped **26,398** Articles*
+*Scraped **26,399** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,431
 economynextcom | 1,509
 dailyftlk | 1,533
-adalk | 2,245
+adalk | 2,246
 adaderanalk | 3,028
 tamilmirrorlk | 3,097
 virakesarilk | 4,034
@@ -26,69 +26,87 @@ adaderanasinhalalk | 4,229
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,388 (100.0%) of 26,398 articles have been extended.
+26,398 (100.0%) of 26,399 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-26 (Sunday)
 
-### බුද්ධ ප්‍රතිමාවක් සමග යකැදුරෙකු අත්අඩංගුවට
+### Rejection of a Buddha statue arrested
 
 *2024-05-26 20:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197039) · `si`
 
-ඉපැරණි බුද්ධ ප්‍රතිමාවක් විදේශිකයෙකුට අලෙවි කිරීමට සූදානම් වූ පුද්ගලයෙකු අත්අඩංගුවට ගෙන තිබේ.
+A man attempting to sell an ancient Buddha statue to foreigners was arrested under the Walana Central Anti-Corruption Commission's mission. The statue, believed to have been consecrated by King Sri Wickrema Rajasinghe to the Sambuddha Sasana, stands five feet tall and is considered significant.
 
-වලාන මධ්‍යම දූෂණ මර්දන ප්‍රහාරක බළකාය මගින් සිදුකළ මෙහෙයුමකදී සැකකාර යකැදුරාව අත්අඩංගුවට ගෙන තිබේ.
+🟩
 
-අඩි 3ක පමණ උසකින් සහ කිලෝග්‍රෑම් 48ක බරකින් යුත් පස්ලෝහමය බුද්ධ ප්‍රතිමාවක් රුපියල් එක්කෝටි විසිලක්ෂයක මුදලකට විදේශිකයෙකුට අලෙවි කිරීමට සූදානම්ව සිට ඇති බවට තොරතුරු අනාවරණය වී තිබේ.
+A person who was preparing to sell an ancient Buddha to a foreigner.
 
-මෙම බුද්ධ ප්‍රතිමාව ශ්‍රී වික්‍රම රාජසිංහ රජු විසින් සම්බුද්ධ ශාසනයට පූජා කරන ලද්දක් බවට සැලකෙයි.
+The Meakapura has been arrested in a missionary system of the Walana Central Anti-Corruption French.
+
+It has been revealed that a five-foot height and heavy Buddha statue was prepared to sell a foreigner for Rs.
+
+The Buddha statue is considered sacrificed by King Sri Wickrema Rajasinghe to the Sambuddha Sasana.
 
 ◼️
 
 [Data](articles/28d958ad.json)
 
+[Extended Data](ext_articles/28d958ad.ext.json)
+
 ---
 
-### சீரற்ற காலநிலையால் பாதிக்கப்பட்ட பெருந்தோட்ட மக்களை சந்தித்த ஜீவன் 40மில்லியன் ரூபாய் செலவில் புனரமைப்பு பணிகளை முன்னெடுக்குமாறு பணிப்பு
+### Jeevan, who met the plantation people affected by inclement weather, has to carry out renovation work at a cost of Rs 40 million
 
 *2024-05-26 20:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/184559) · `ta`
 
-நாட்டில் நிலவும் சீரற்ற காலநிலை காரணமாக மலையக பெருந்தோட்ட பகுதிகளில்  பாதிக்கப்பட்ட மக்களை 26 ஆம் திகதி. ஞாயிற்றுக்கிழமை இலங்கை தொழிலாளர் காங்கிரஸின் காங்கிரஸின் பொதுச்செயலாளரும் நீர் வழங்கல் மற்றும் தோட்ட உட்கட்டமைப்பு வசதிகள் அபிவிருத்தி அமைச்சர் ஜீவன் தொண்டமான் நேரில் சென்று பார்வையிட்டார்.
+After visiting plantation areas hit by bad weather, Minister Jeevan Thondaman pledged Rs 40 million for renovations. He discussed wages with workers and led efforts to aid affected communities in Bogawatta, Akkarapathana, Bodis, Sanjimalai, and Bogawantalawa.
 
-இதன் போது போகாவத்தை, அக்கரபத்தனை, போடைஸ், சாஞ்சிமலை மற்றும் பொகவந்தலாவ பகுதியில் டியன்சின், கெம்பியன் பெற்றோசோ ஆகிய பகுதிகளுக்குச்  சென்று பாதிக்கப்பட்ட மக்களை நேரில் சந்தித்துக் கலந்துரையாடினார்.
+🟩
 
-இதேவளை பெருந்தோட்ட தொழிலாளர்களைச் சந்தித்த அமைச்சர் ஜீவன் தொண்டமான் 1700ரூபாய் சம்பளம் தொடர்பிலும் கலந்துரையாடினார்.
+Due to the inclement weather in the country on the 26th of the hill plantation areas. On Sunday, the General Secretary of the Congress Congress Congress and Water Supply and Estate Infrastructure Development Minister Jeevan Thondaman visited.
 
-சீரற்ற காலநிலையால் பாதிக்கப்பட்ட மக்களுக்கு 40மில்லியன் ரூபாய் செலவில் புனரமைப்பு பணிகளை உடனடியாக முன்னெடுக்குமாறு பெருந்தோட்ட மனிதவள அபிவிருத்தி நிறுவனத்திற்குப் பணிப்புரை விடுத்தார்.
+During this time, he visited the affected people in Bogawatta, Akkarapathana, Bodis, Sanjimalai and Bogawantalawa areas of Dionin and Kembian.
+
+Minister Jeevan Thondaman, who met the plantation workers, also discussed the salary of 1700 rupees.
+
+He directed the Plantation Human Resources Development Institute to immediately carry out the reconstruction work at a cost of Rs.
 
 ...
 
 [Data](articles/baa13868.json)
 
+[Extended Data](ext_articles/baa13868.ext.json)
+
 ---
 
-### එකම තැනින් හමුවූ අලි සිරුරු 7 ගැන දුක හිතෙන කතාවක්
+### A story that is sad about 7 elephants found in the same place
 
 *2024-05-26 20:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197038) · `si`
 
-පොළොන්නරුව ජලගැලීම් නිම්න ජාතික වනෝද්‍යානයේ හඳපාන්විල විල්ලුවේ තිබී මියගිය වනඅලි හත්දෙනෙකුගේ සිරුරු හමුවී තිබේ.
+Seven wild elephants, including juveniles and adults, were found dead in the Handapanwila Willa of the Polonnaruwa National Park, likely victims of a landslide triggered by heavy rain. This tragedy occurred amidst widespread adverse weather conditions affecting several districts, leading to landslides, flooding, and damage to properties. The situation underscores the vulnerability of wildlife to natural disasters and the urgent need for conservation efforts and disaster preparedness in affected areas.
 
-මෙලෙස මියගොස් ඇත්තේ අවුරුදු 8ත් 10ත් අතර වයසේ පසුවන අලි පැටවුන් පස් දෙනෙකු සහ අවුරුදු 30ත් 35ත් අතර වයසේ පසුවන වන අලින් දෙදෙනෙක් බවට සැලකේ.
+🟩
 
-වනජීවි නිලධාරීන් පවසන්නේ ජලගැලීම් නිම්න ජාතික වනෝද්‍යානයේ සැරිසරන වනඅලි රංචුවක් ඕඩේ ඇළ හරහා මාරුවීමට යෑමේදී සැඩපහරට හසුවී ගසාගෙන ගොස් මඩෙහි එරී මියයන්නට ඇති බවය.
+The bodies of seven wild elephants have been found in the Handapanwila Willa, Handapanwila Willa in the Polonnaruwa National Park.
 
-මේ අතර, මාවනැල්ල පහළ කඩුගන්නාව ප්‍රදේශයේ ප්‍රධාන මාර්ගයට ඉහළින් ඇති ගල්, මාර්ගයට පෙරලීමේ අවදානමක් පැවතීම හේතුවෙන් එම ගල් වහාම ඉවත් කිරීමට අවධානය යොමුව තිබේ.
+The deceased has been identified as five aged agents between 8 and 10 years and two elephants aged between 30 and 35 years.
 
-කෑගල්ල දිස්ත්‍රික් ආපදා ඒකකයේ නිලධාරීන් අද එහි පැමිණ අනතුරු ඇඟවීම් පුවරු සවිකිරීමට පියවර ගෙන තිබුණි.
+Wildlife officials say that the Wildlife Namage National Park is a swarle of wild elephants to be shifted across the Canal and has been drowned and killed by the mud.
 
-එමෙන්ම කොළඹ, ගම්පහ ,කළුතර ,මහනුවර ,කෑගල්ල ,නුවරඑළිය සහ රත්නපුර යන දිස්ත්‍රික්කයන් 7ට අදාලව නිකුත් කර ඇති නායයාමේ අනතුරු ඇඟවීම් තවදුරටත් බලපැවැත් වේ.
+Meanwhile, the stones above the main road in the lower Kadugannawa area of ​​the lower Kadugannawa area of ​​Mawanella, the stones are immediately removed.
 
-මේ අතර, අයහපත් කාලගුණය හමුවේ සිදුවූ පුද්ගල මරණ සංඛ්‍යාව මේ වනවිට 9 දක්වා ඉහළගොස් තිබේ.
+The officers of the Kegalle District Disaster Unit had taken steps to fixtinate the billboards.
+
+Landslide warnings released in Colombo, Gampaha, Kalutara, Kandy, Kegalle, Nuwara Eliya and Ratnapura districts are further impacted.
+
+Meanwhile, the number of deaths due to inclement weather has increased to 9.
 
 ...
 
 [Data](articles/d821779f.json)
+
+[Extended Data](ext_articles/d821779f.ext.json)
 
 ---
 
@@ -168,17 +186,23 @@ Furthermore, Jayawardena highlighted that nearly 200 trees, aged between 50 and 
 
 ---
 
-### வவுனியா மற்றும் மன்னார் மாவட்ட மக்களுக்கு 700 காணி உறுதிப்பத்திரங்களை வழங்கினார் ஜனாதிபதி
+### The President presented 700 land certificates to the people of Vavuniya and Mannar district
 
 *2024-05-26 19:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/184558) · `ta`
 
-"உறுமய" வேலைத்திட்டத்தின் கீழ் வவுனியா மாவட்டத்திலுள்ள 04 பிரதேச செயலக அலுவலகங்கள் மற்றும் மன்னார் மாவட்டத்தில் உள்ள 05 பிரதேச செயலக அலுவலகங்களை உள்ளடக்கியதாக 700  முழு உரிமையுள்ள காணி உறுதிப் பத்திரங்களை ஜனாதிபதி ரணில் விக்ரமசிங்க வவுனியா மோஜோ விழா மண்டபத்தில் வைத்து கையளித்தார்.
+President Ranil Wickremesinghe distributed 700 land certificates in Vavuniya and Mannar districts as part of the "Urumaya" program, aiming to issue 5,400 such guarantees in total.
 
-வவுனியா மற்றும் மன்னார் மாவட்டங்களில் "உறுமய" வேலைத்திட்டத்தின் கீழ் 5400 முழு உரிமையுள்ள  காணி உறுதிப்  பத்திரங்கள் வழங்கப்பட உள்ளமை குறிப்பிடத்தக்கது.
+🟩
+
+President Ranil Wickremesinghe handed over 700 full -fledged land guarantees at the Vavuniya Mojo Festival Hall, including the 04 Divisional Secretariat Offices of the Vavuniya District and the 05 Divisional Secretariat Offices in the Mannar District under the "Urumaya District.
+
+In the Vavuniya and Mannar districts, 5400 full -fledged land guarantees will be issued under the "Urumaya" program.
 
 ◼️
 
 [Data](articles/e63baac1.json)
+
+[Extended Data](ext_articles/e63baac1.ext.json)
 
 ---
 
@@ -202,35 +226,49 @@ They decided to bat first against Kolkata team.
 
 ---
 
-### இலங்கைக்கான பிரான்ஸ் தூதுவர் சடலமாக மீட்பு !
+### France Ambassador to Sri Lanka
 
 *2024-05-26 19:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/184557) · `ta`
 
-இலங்கைக்கான பிரான்ஸ் தூதுவர் ஜீன் ஃபிராங்கோயிஸ் பேக்டெட் (Jean Francois Pactet) அவரது உத்தியோகபூர்வ வீட்டில் சடலமாக மீட்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+Jean Francois Pactet, France's Ambassador to Sri Lanka, was found dead at his residence. The Rajagiriya Police are investigating, including examining the body.
 
-சடலம் மீதான நீதவான் விசாரணைகள் நடாத்தப்படவுள்ளதுடன், சம்பவம் தொடர்பில் மேலதிக விசாரணைகளை இராஜகிரிய பொலிஸார் மேற்கொண்டு வருகின்றனர்.
+🟩
+
+Jean Francois Pactet, French Ambassador to Sri Lanka, has been recovered at his official home, police said.
+
+The magistrate's inquiries are being conducted on the body and further investigations are being carried out by Rajagiriya Police.
 
 ◼️
 
 [Data](articles/11ce4ec9.json)
 
+[Extended Data](ext_articles/11ce4ec9.ext.json)
+
 ---
 
-### மேல் மாகாணத்தைப் போன்று உயர்தர சுகாதார சேவைகளை கொண்ட மாகாணமாக வடமாகாணம் மேம்படுத்தப்படும் - ஜனாதிபதி
+### Northern Province will be upgraded as a province with high quality health services like the Western Province -President
 
 *2024-05-26 19:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/184556) · `ta`
 
-2017ஆம் ஆண்டு பிரதமராக இருந்த போது வடமாகாண சுகாதார சேவையை மேம்படுத்தவதற்காக தன்னால் ஆரம்பிக்கப்பட்ட திட்டங்களை நாட்டின் ஜனாதிபதி என்ற வகையில் இன்று மக்களிடம் கையளிக்க முடிந்திருப்பது குறித்து மகிழ்ச்சியடைவதாக ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+President Ranil Wickremesinghe aims to elevate the Northern Province's healthcare standards akin to the Western Province, enhancing its infrastructure and services. He inaugurated a state-of-the-art Medical Rehabilitation and Mental Health Development Center at Mankulam Resource Hospital, funded by the Netherlands government, costing 4.5 billion rupees. This facility, the largest of its kind in the region, includes various divisions and units to cater to comprehensive medical needs. The initiative follows efforts to restore healthcare services post-war, with plans to further expand and upgrade hospitals across the province, including converting Jaffna and Vavuniya hospitals into national and teaching institutions respectively.
 
-நவீன வைத்தியசாலைகளுடன் கூடிய சுகாதார வசதிகளை வடக்கு மாகாணம் பெற்றுள்ளதாகக் குறிப்பிட்ட ஜனாதிபதி, மேல் மாகாணத்தைப் போன்று மேம்பட்ட சுகாதார சேவைகளைக் கொண்ட மாகாணமாக வடக்கின் சுகாதார சேவையை அபிவிருத்தி செய்வதே தமது நோக்கமாகும் எனவும் தெரிவித்தார்.
+🟩
 
-மாங்குளம் ஆதார வைத்தியசாலையில் வைத்திய புனர்வாழ்வு சிகிச்சை மற்றும் மனநல அபிவிருத்தி நிலையத்தை இன்று (26) திறந்து வைக்கும் நிகழ்வில் கலந்து கொண்ட ஜனாதிபதி ரணில் விக்கிரமசிங்க இதனைக் குறிப்பிட்டார்.
+President Ranil Wickremesinghe said he was happy that he was able to hand over the projects that he had launched to improve the Northern Provincial Health Service as Prime Minister in 2017.
 
-நெதர்லாந்து அரசாங்கத்தின் ஆதரவுடன் 4500 மில்லியன் ரூபா செலவில் இந்த மருத்துவ சிகிச்சை நிலையம் நிர்மாணிக்கப்பட்டுள்ளது.
+The President said that the Northern Province had access to health facilities with modern hospitals and said his aim was to develop the health services of the North as an advanced health services like the Western Province.
+
+President Ranil Wickremesinghe, who was present at the inauguration of the Medical Rehabilitation and Mental Health Development Center at the Mankulam Resource Hospital today (26).
+
+The medical treatment center has been constructed at a cost of 4500 million rupees with the support of the Netherlands government.
+
+It is the largest medical rehabilitation and mental development center in the Northern Province and has the Mental Rehabilitation Unit, Emergency Division, Surgery Division, Laboratory, Radiation Division, Outpatient Division and Intensive Care Unit.
 
 ...
 
 [Data](articles/bb47852e.json)
+
+[Extended Data](ext_articles/bb47852e.ext.json)
 
 ---
 
@@ -262,17 +300,23 @@ But Care Australia, the humanitarian agency which is helping with relief efforts
 
 ---
 
-### ஈரான் ஜனாதிபதியின் மரணத்திற்கு யார் காரணம்?
+### Who was responsible for the death of the Iranian president?
 
 *2024-05-26 18:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/184555) · `ta`
 
-கிழக்கு அஸர்பைஜான் மாநிலத்தில் உள்ள மலைப்பாங்கான பிரதேசத்தில் அடர்ந்த பனிப்படலத்தின் மத்தியில் பயணித்துக் கொண்டிருந்த வேளையில் ஹெலிக்கொப்டர் வீழ்ந்திருக்கிறது. இந்த சம்பவம் பற்றி ஈரானிய அரசாங்கம் உத்தியோகபூர்வமாக எதனையும் அறிவிக்கவில்லை.
+Iranian President's death occurred when his helicopter crashed in East Azerbaijan due to unknown reasons. The government hasn't confirmed details, and the initial report came from the head of Iran's security forces.
 
-ஈரானிய பாதுகாப்புப் படைகளின் தலைமை அதிகாரி நேற்று முன்தினம் விபத்து பற்றிய முதலாவது அறிக்கையை வெளியிட்டிருக்கிறார்.ஈரானிய ஜனாதிபதி பயணித்த ஹெலிக்கொப்டர் எந்த இடத்தை நோக்கி செல்வதற்காக பயணித்ததோ, அந்தப் பயண இலக்கில இருந்து மாறவில்லை என்பது விசாரணைக் குழு கண்டுபிடித்த விடயமாகும்.
+🟩
+
+The helicopter has fallen while traveling in the middle of a dense iceberg in the hilly area of ​​East Azerbaijan state. The Iranian government has not officially announced anything about the incident.
+
+The chief of the Iranian security forces issued the first report on the accident yesterday.
 
 ◼️
 
 [Data](articles/00f5f6cb.json)
+
+[Extended Data](ext_articles/00f5f6cb.ext.json)
 
 ---
 
@@ -296,27 +340,39 @@ The Welikada Police are investigating the incident, and a post-mortem examinatio
 
 ---
 
-### அஷ்ரப் அருங்காட்சியகமும்   வாயால் சுட்ட வடைகளும்
+### Ashraf Museum and mouth shot
 
 *2024-05-26 18:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/184553) · `ta`
 
-ஈரான் ஜனாதிபதி இப்ராஹிம் ரைஸி குழுவினர் சென்ற ஹெலிகொப்டர் விபத்துக்குள்ளான சம்பவம், 24வருடங்களுக்கு முன்னர் ஸ்ரீலங்கா முஸ்லிம் காங்கிரஸின் ஸ்தாபக தலைவர் எம்.எச்.எம்.அஷ்ரப் பயணித்த ஹெலிகொப்டர் அரநாயக்க மலைத்தொடரில் விபத்துக்குள்ளான வரலாற்றுத் துயரை இலங்கை முஸ்லிம்களுக்கு ஞாபகப்படுத்திற்று. இந்த வேளையில்தான், கல்முனையில் மர்ஹ_ம் அஷ்ரப் அருங்காட்சியகத்தை அமைப்பதற்கு ஜனாதிபதி ரணில் விக்கிரமசிங்க 25மில்லியன் ரூபா நிதியை ஒதுக்கீடு செய்துள்ளதாக அறிவிக்கப்பட்டுள்ளது. உண்மையிலேயே, அஷ்ரப் அருங்காட்சியகத்திற்கு ஜனாதிபதி நிதி ஒதுக்கியுள்ளார் என்பது அவரது பெருந்தன்மையை காட்டுகின்றது.
+Sri Lankan Muslims commemorated the 24th anniversary of the tragic helicopter crash near Aranayaka Mountain, where SLMC founder MHM Ashraf perished. This event led President Ranil Wickremesinghe to allocate funds for the Ashraf Museum, honoring the legacy of Ashraf.
+
+🟩
+
+Sri Lankan Muslims reminded Sri Lankan Muslims the historical tragedy in the helicopter Aranayaka mountain traveler, MHM Ashraf, the founder of the Sri Lanka Muslim Congress (SLMC) 24 years ago.. It is at this time that President Ranil Wickremesinghe has allocated Rs.. In fact, the president has allocated funds to the Ashraf Museum.
 
 ◼️
 
 [Data](articles/8f48577f.json)
 
+[Extended Data](ext_articles/8f48577f.ext.json)
+
 ---
 
-### ஸ்லோவாக்கிய பிரதமர் கொலை முயற்சியும் மேற்குலகின் அரசியல் போக்கும்
+### The Slovaki Prime Minister's murder attempt and the West's political
 
 *2024-05-26 18:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/184551) · `ta`
 
-பிரதமரைக் கொல்லும் நோக்குடன் துப்பாக்கிப் பிரயோகம் செய்தவர் செயற்பட்டதாக நம்பப்படுகின்றது. துப்பாக்கிச்சூடு நடத்தியவரை உடனடியாகக் கைது செய்த மெய்ப்பாதுகாவலர்கள், பிரதமரை உலங்கு வானூர்தி மூலம் 30கிலோ மீற்றர் தொலைவில் இருந்த மருத்துவமனைக்கு எடுத்துச் சென்றனர். மே மாதம் 15ஆம் திகதி ஹானட்லோவா எனும் நகரத்தில் நடைபெற்ற இந்தச் சம்பவத்தில் படுகாயம் அடைந்த பிக்கோ தொடர்ந்தும் மருத்துவமனையில் சிகிச்சை பெற்று வருகின்ற போதிலும் அபாயக்கட்டத்தைத் தாண்டிவிட்டதாக அரச வட்டாரங்கள் தெரிவித்துள்ளன.
+An attempted assassination on the Slovak Prime Minister occurred on May 15th in Hanadloo. The shooter aimed to kill the PM, but the quick action of guards led to the PM being rushed to a hospital 30 km away. Despite initial concerns, the PM's condition has stabilized, though he remains in danger due to his injuries.
+
+🟩
+
+It is believed that the shooter was acting with the aim of killing the prime minister. Immediately after the shooter, the guards took the Prime Minister to the hospital, about 30 kilometers away from the aircraft aircraft.. State sources said that Pico, who was injured in the incident in Hanadloo, on May 15, is still in danger of receiving treatment at the hospital.
 
 ◼️
 
 [Data](articles/eb88e3c4.json)
+
+[Extended Data](ext_articles/eb88e3c4.ext.json)
 
 ---
 
@@ -489,6 +545,26 @@ The 53-year-old was 53 years old when he died.
 [Data](articles/ba78e2ac.json)
 
 [Extended Data](ext_articles/ba78e2ac.ext.json)
+
+---
+
+### තරුණ තරුණියන්ට රැකියා ලබාදීම රට බංකොලොත්භාවයෙන් මුදවා ගැනීමෙන් අනතුරුවයි
+
+*2024-05-26 18:23:07* · [`adalk`](https://www.ada.lk/breaking_news/තරුණ-තරුණියන්ට-රැකියා-ලබාදීම-රට-බංකොලොත්භාවයෙන්-මුදවා-ගැනීමෙන්-අනතුරුවයි/11-409828) · `si`
+
+මෙම වසර තුළ රට බංකොලොත්භාවයෙන් මුදවා ගැනීමෙන් අනතුරුව රැකියා විරහිත තරුණ තරුණියන්ට රැකියා අවස්ථා ලබාදීමේ වැඩසටහන ආරම්භ කරන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+
+ඒ සමඟ අපනයන ආර්ථිකයක් නැවත ඇති කිරීම වෙනුවෙන් පෞද්ගලික සමාගම් සමඟ සම්බන්ධ වී නවීන කෘෂිකර්මය ගමට ගෙන යාමේ වැඩපිළිවෙළ ලබන වසරේ සිට ආරම්භ කරන බව ද ජනාධිපතිවරයා සඳහන් කළේය.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මෙම අදහස් පළ කළේ ජාතික තරුණ සේවා සභාව මගින් යාපනය, දොරේඅප්පා ක්‍රීඩාංගණයේදී ඊයේ (24) සංවිධානය කර තිබූ යාපනය දිස්ත්‍රික් තරුණ සමුළුවට එක්වෙමිනි.
+
+මෙහිදී යාපනය ප්‍රදේශයේ තරුණ තරුණියන්ගේ අවශ්‍යතා සහ ගැටලු ජනාධිපතිවරයා වෙත සෘජුවම යොමු කිරීමට ද අවස්ථාව සලසා දී තිබුණි. මෙම අවස්ථාව සඳහා ජාතික තරුණ සේවා සභාවේ සභාපති/අධ්‍යක්ෂ ජනරාල් පසිඳු ගුණරත්න මහතා ද එක්ව සිටියේය. අනතුරුව ප්‍රදේශයේ තරුණ තරුණියන්ගේ කුසලතා විදහා දැක්වෙන සංස්කෘතිය ප්‍රසංගය නැරඹීමට ද ජනාධිපතිවරයා එක්විය.
+
+මෙහිදී වැඩිදුරටත් අදහස් දැක්වූ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මෙසේද පැවසීය,
+
+...
+
+[Data](articles/f5c2689a.json)
 
 ---
 
@@ -1360,27 +1436,35 @@ Although there is a color light signaling system on this railway crossing, it is
 
 ---
 
-### பெருந்தோட்ட மக்களின் சம்பள பிரச்சினைக்கு தீர்வுகாண நடவடிக்கை எடுப்போம் - விஜேதாச ராஜபக்
+### We will take steps to solve the salary problem of plantation people - Wijeyadasa Rajapakse
 
 *2024-05-26 15:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/184522) · `ta`
 
-பெருந்தோட்ட மக்களின் சம்பளத்தை அதிகரிப்பதற்கு அரசாங்கம் நடவடிக்கை எடுத்திருக்கிறது. அதுதொட்பில் பல்வேறு பிரச்சினைகள் இருக்கின்றன. என்றாலும் அதற்கு தீர்வு பெற்றுக்கொடுக்க நடவடிக்கை எடுப்போம் என  நீதி அமைச்சர் விஜேதாச ராஜபக்ஷ் தெரிவித்தார்.
+The government aims to address the salary issues faced by plantation workers, acknowledging their significant contributions to the nation's economy over centuries. Despite challenges, efforts are underway to resolve these issues, including increasing salaries and providing essential documents like ID cards and birth certificates to improve their status. The government also emphasizes the importance of unity and combating division caused by certain politicians, aiming to create a fair and just society free from corruption and discrimination.
 
-எமது நாட்டின் பொருளாதாரத்துக்கு சுமார் 200 வருட காலமாக பெருந்தோட்ட மக்கள் வழங்கிய ஒத்துழைப்பை நாங்கள் மதிக்க வேண்டும்.
+🟩
 
-நாட்டில் எவ்வாறன பிரச்சினை இடம்பெற்றாலும் தோட்ட மக்கள் பாரிய பங்களிப்பை வழங்கினார்கள். அவர்கள் அனைவருக்கும் நாங்கள் மதிக்கிறோம்.
+The government has taken steps to increase the salaries of plantation people. There are various problems in that. However, Justice Minister Wijeyadasa Rajapaksa said that steps will be taken to find a solution.
 
-மேலும் உலகில் இருக்கும் பிரச்சினைகளில் நூற்றுக்கு 80 வீதம், தகுதி இல்லாதவர்களுக்கு பதவி வழங்குவதே காரணமாகும்.
+We must respect the cooperation of the plantation people for about 200 years to the economy of our country.
 
-நாங்கள் 30 வருட யுத்தத்தில் அனுபவத்தை கண்டோம். 88, 89 மக்கள் விடுதலை முன்னணியின் பயங்கரவாத்தை கண்டோம்.
+Whatever the problem in the country, the plantation people made a huge contribution. We all respect all of them.
 
-மீண்டும் அவ்வாறான யுகத்துக்கு நாங்கள் சொல்லத் தேவையில்லை. நாங்கள் மக்களுக்காகவே அரசியல் செய்ய வேண்டும்.
+Moreover, 80 per cent of the problems in the world are to be given to those who are not eligible.
 
-மலையக மக்களுக்கு காணிப்பிரச்சினை இருக்கிறது. சம்பள பிரச்சினை இருக்கிறது. பெருந்தோட்ட மக்களின் சம்பளத்தை அதிகரிப்பதற்கு அரசாங்கம் பிரேரித்திருக்கிறது.
+We found the experience in 30 years of war. 88, 89 We have seen the terror of the People's Liberation Front.
+
+We don't need to say again for such an era. We must do politics for the people.
+
+There is a land problem for the upcountry people. There's a pay issue. The government has proposed to increase the salaries of plantation people.
+
+In January last year, we operated a mobile service in Nuwara Eliya district.
 
 ...
 
 [Data](articles/4ef48440.json)
+
+[Extended Data](ext_articles/4ef48440.ext.json)
 
 ---
 
@@ -2189,27 +2273,5 @@ The Sri Lankan Ambassador to Geneva has claimed that the report was a politicall
 [Data](articles/5ceec7eb.json)
 
 [Extended Data](ext_articles/5ceec7eb.ext.json)
-
----
-
-### One person killed
-
-*2024-05-26 10:49:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வானக-விபத்தில்-ஒருவர்-பலி/175-337875) · `ta`
-
-A van crash on the Badeniya-Anuradhapura road killed one and injured 13, including seven women. At least 15 were traveling; the driver lost control near Me Oya. One died instantly, while others were hospitalized, with seven critically injured sent to Anuradhapura Hospital.
-
-🟩
-
-One person was killed and 13 people were injured when a van crashed into a tree this morning at the Badeniya - Anuradhapura road.
-
-Police said at least 15 people traveled in the van. The driver of the van on his way to Anuradhapura crashed away from the road near Me Oya.
-
-One person died on the spot and 13 people, including 7 women, have been admitted to the Calgamuwa Hospital, police said.. Seven persons who were in critical condition have been transferred to the Anuradhapura Hospital for further treatment.
-
-◼️
-
-[Data](articles/d074ee67.json)
-
-[Extended Data](ext_articles/d074ee67.ext.json)
 
 ---

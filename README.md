@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-27 00:04:17**
+As of **2024-05-27 00:18:40**
 
 ## Newspaper Stats
 
-*Scraped **26,416** Articles*
+*Scraped **26,417** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,38 @@ adalk | 2,247
 adaderanalk | 3,030
 tamilmirrorlk | 3,099
 virakesarilk | 4,035
-dailymirrorlk | 4,170
+dailymirrorlk | 4,171
 adaderanasinhalalk | 4,234
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,414 (100.0%) of 26,416 articles have been extended.
+26,416 (100.0%) of 26,417 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-26 (Sunday)
+
+### Yupun Abeykoon sprinting towards Paris 2024
+
+*2024-05-26 23:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Yupun-Abeykoon-sprinting-towards-Paris-2024/108-283375) · `en`
+
+Colombo, May 26 (Daily Mirror) - South Asia’s fastest sprinter and 2022 Birmingham Commonwealth Games Bronze Medallist Yupun Abeykoon is set to compete in four to five international meets in the next five weeks, Sri Lanka Athletic (SLA ) sources revealed.
+
+Abeykoon is currently in a season-best of 95th position according to the Men’s 100m Paris Olympic Games Rankings while only 56 athletes will be selected for the event after the deadline on June 30.
+
+Abeykoon, who is chasing an elusive Paris Olympic Games qualifying spot, has so far participated in four international meets and clocked a season-best time of 10.15s at the Anhalt 2024 Athletic event in Dessau, Germany.
+
+Abeykoon won the Men’s 100m event at this meet while clocking 10.16s.
+
+Earlier, at the UAE Grand Prix in Dubai, he finished the Men’s 100m event with a time of 10.18s and secured third place and clocked 10.21s to finish in fourth place at the Roma Sprint Festival 2024.
+
+...
+
+[Data](articles/70667c23.json)
+
+---
 
 ### Exchange is not allowed for breastfeeding
 
@@ -451,6 +471,8 @@ Separately the CEB’s Engineers Union said unfilled vacancies and abolishing so
 ◼️
 
 [Data](articles/bb2c4936.json)
+
+[Extended Data](ext_articles/bb2c4936.ext.json)
 
 ---
 
@@ -1265,6 +1287,8 @@ Tea production for the first four months were down 6.2 percent to 79.7 million k
 ◼️
 
 [Data](articles/94bf1c3e.json)
+
+[Extended Data](ext_articles/94bf1c3e.ext.json)
 
 ---
 
@@ -2217,31 +2241,5 @@ However, due to heavy rains in the Sabaragamuwa and Western Provinces and the Ga
 [Data](articles/3a33361f.json)
 
 [Extended Data](ext_articles/3a33361f.ext.json)
-
----
-
-### Five seized from an Excase officer who sold heroin
-
-*2024-05-26 12:14:23* · [`adalk`](https://www.ada.lk/breaking_news/හෙරොයින්-අලෙවි-කෙරූ-සුරා-බදු-නිලධාරියකු-ඇතුළු-පස්-දෙනෙකු-අත්අඩංගුවට/11-409825) · `si`
-
-Alawathugoda police arrested five individuals, including an Excise officer involved in heroin sales and a private bank manager. The group was caught with various drugs and equipment used for dealing. Further arrests were made in Katugastota, Alawathugoda, and Colombo. Senior officers are leading the investigation.
-
-🟩
-
-Alawathugoda police have arrested five persons including an Excise officer who was selling heroin and a private bank.
-
-The police arrested a person who was arrested by the Alawathugoda police and was arrested by the Alawathugoda Police and the police were arrested by the police.
-
-He has revealed that he was a resurrection officer of the Colombo Excise Head Office in Colombo. Heroin has found a stock of items including heroin drug, ice, cannabis and a digital scales.
-
-A Assistant Manager of a private bank in Colombo was also arrested by the heroin in Colombo.
-
-Five other suspects have been arrested in Katugastota, Alawathugoda and Colombo Manager, Katugastota, Alawathugoda and Colombo Manager.
-
-...
-
-[Data](articles/efb82134.json)
-
-[Extended Data](ext_articles/efb82134.ext.json)
 
 ---

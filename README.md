@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-26 15:03:36**
+As of **2024-05-26 15:18:48**
 
 ## Newspaper Stats
 
-*Scraped **26,329** Articles*
+*Scraped **26,330** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adaderanalk | 3,023
 tamilmirrorlk | 3,088
 virakesarilk | 4,009
 dailymirrorlk | 4,158
-adaderanasinhalalk | 4,215
+adaderanasinhalalk | 4,216
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,327 (100.0%) of 26,329 articles have been extended.
+26,329 (100.0%) of 26,330 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-26 (Sunday)
+
+### ශ්‍රී ලංකාවේ ISIS ත්‍රස්තයින් සොයන්න විශේෂ විමර්ශනයක්
+
+*2024-05-26 14:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197026) · `si`
+
+ISIS ත්‍රස්ත සංවිධානයට සම්බන්ධ මෙරට පුද්ගලයින් සිටීදැයි සෙවීම සඳහා විශේෂ කමිටුවක් පත් කර ඇති බවත් ඒ සම්බන්ධයෙන් මේ වනවිට කඩිනම් විමර්ශනයක් සිදුකෙරෙන බවත් පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා පවසයි.
+
+අද (26) කඩුවෙල පැවති වෙසක් උත්සවයකට එක්වෙමින් පොලිස්පතිවරයා ඒ බව ප්‍රකාශ කළේය.
+
+ඉන්දියාවේ, ගුජරාට් ප්‍රාන්තය තුළ ප්‍රහාරයක් දියත් කිරීමේ සූදානමින් මෙරට සිට අහමදාබාද් නගරය වෙත පැමිණි ශ්‍රී ලාංකික ISIS ත්‍රස්ත සංවිධානයේ සාමාජිකයන් සිව්දෙනෙකු අහමදාබාද් සර්ධාර් පටෙල් ජාත්‍යන්තර ගුවන් තොටුපොළේදී පසුගියදා අත්අඩංගුවට ගත් බව ඉන්දිය මාධ්‍ය වාර්තා කර තිබුණි.
+
+ඒ අනුව ISIS ත්‍රස්ත සංවිධානයට සම්බන්ධ තවත් පුද්ගලයින් මෙරට තුළ සිටින්නේදැයි සොයා ආරක්ෂක අංශ මගින් මේ වනවිට විමර්ශන ක්‍රියාත්මකය.
+
+◼️
+
+[Data](articles/4d8363e1.json)
+
+---
 
 ### UN raises Papua New Guinea landslide death toll estimate to 670
 
@@ -54,25 +72,35 @@ More than 1,000 people had been displaced from the once-bustling village, Aktopr
 
 ---
 
-### லண்டனில் கோழி இறைச்சிக் கடையில் வேலை பார்த்துக்கொண்டே ஐரோப்பிய நாடுகளுக்கு ஆட்களை கடத்திய இலங்கை தமிழர் - பிரான்ஸுக்கு நாடு கடத்தப்படுகிறார்
+### Sri Lankan Tamils exiled to European countries while working at a chicken meat shop in London
 
 *2024-05-26 14:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/184514) · `ta`
 
-பிரிட்டனுக்குள் சட்டவிரோத குடியேற்றவாசிகளை கடத்தும் நடவடிக்கைகளை திட்டமிட்டு முன்னெடுத்த இலங்கையரை பிரிட்டன் பிரான்ஸுக்கு நாடு கடத்தவுள்ளதாக சன் செய்தி தகவல் வெளியிட்டுள்ளது.
+A Sri Lankan Tamil refugee living in London, known for running a chicken shop, has been arrested and faces deportation to France due to involvement in abductions. He was sentenced to five years in prison after being convicted by a French court for his role in abductions. Despite claiming his wife suffers from mental illness, his appeal for stay was denied, leading to his imminent deportation.
 
-பிரான்ஸ் நீதிமன்றம் கடந்த வருடம் ஆட்கடத்தலில் ஈடுபட்டார் என தீர்ப்பு வழங்கியதுடன் ஐந்து வருட சிறைத்தண்டனையை விதித்திருந்தது.
+🟩
 
-இலங்கையிலிருந்து 2003இல் பிரிட்டனுக்கு தப்பிச்சென்ற அகதியான இவருக்கு அங்கு வாழ்வதற்கான சகல அனுமதிகளையும் பிரிட்டன் வழங்கியிருந்தது.
+Sun has reported that Britain will be deported to France, who has planned to smuggle illegal immigrants into the UK.
 
-லண்டனின் தென்மேற்கு பகுதியில் வசித்துவந்த இவர்  பிரிக்ஸ்டனில் கோழி இறைச்சி விற்பனை செய்யும் கடையொன்றில் தொழில் புரிந்துவந்தார்.
+The French court last year ruled that he was involved in the abduction and sentenced him to five years in prison.
 
-இதேவேளை கடந்த இரண்டு வருடங்களில் இலங்கையை சேர்ந்தவர்களை ஐரோப்பிய நாடுகளிற்கு கடத்திய கும்பலின் தலைவராகவும் இவர் செயற்பட்டுள்ளார்.
+The refugee who fled to Britain in 2003 from Sri Lanka gave him all the permission to live there.
 
-பிரிட்டிஸ் அதிகாரிகள் பிரான்ஸ் அதிகாரிகளின் சார்பில் இவரை 2022இல் முதலில் கைதுசெய்திருந்தனர். பிரான்ஸ் விடுத்த பிடியாணையை அடிப்படையாக வைத்து இவரை நாடு கடத்துமாறு 2022 நவம்பரில் நீதிபதியொருவர் உத்தரவிட்டார்.
+He lived in a southwestern part of London and worked in a shop selling poultry meat in Brickton.
 
-...
+At the same time, he has also acted as the head of the gang who abducted Sri Lankan people in the last two years.
+
+British officials first arrested him in 2022 on behalf of French officials. On November 2022, a judge ordered him to be deported based on the grip of France.
+
+However, Sivagangan had filed a petition in court, saying that his wife was physically mentally ill. However, the judge rejected his petition on Friday.
+
+He was the main person of the European widespread gang operating in many countries of the world, the court document said.
+
+◼️
 
 [Data](articles/bbc53f1b.json)
+
+[Extended Data](ext_articles/bbc53f1b.ext.json)
 
 ---
 
@@ -1066,21 +1094,31 @@ Seven out of the injured were rushed to the Anuradhapura hospital for further tr
 
 ---
 
-### 1 வயது குழந்தை மாரடைப்பால் உயிரிழந்தது
+### 1 year old child died of a heart attack
 
 *2024-05-26 09:30:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/1-வயது-குழந்தை-மாரடைப்பால்-உயிரிழந்தது/50-337866) · `ta`
 
-ஒரு வயது குழந்தையின் கொடூரமான காயங்கள் பற்றிய விசாரணையில், அவருக்கு மாரடைப்பு ஏற்பட்டது, அதன் விளைவாக மூளை பாதிப்பு, விலா எலும்பு உடைந்திருந்தமையை காட்டியது.
+A 23-year-old man from Ohio, Edward Murray, has been arrested for allegedly murdering his girlfriend's 1-year-old son. The child suffered severe injuries including brain damage, broken ribs, and internal organ damage, which led to his death. Investigations suggest the injuries could be from violent impacts or kicks. This tragic incident has sparked outrage and sadness over the brutal treatment of an innocent child.
 
-தனது காதலியின் 1 வயது மகனைக் கொன்றதாக குற்றம் சாட்டப்பட்டு ஓஹியோவில் வசிக்கும் எட்வர்ட் முர்ரே, 23,  கைது செய்யப்பட்டார்.
+🟩
 
-மே 10 ஆம் திகதி முர்ரே கைது  செய்யப்பட்ட பின்னர், கொலை, கொடூரமான தாக்குதல் மற்றும் குழந்தைக்கு ஆபத்தை விளைவித்தல் ஆகிய குற்றச்சாட்டுகள் சுமத்தப்பட்டுள்ளன.
+Investigations into the brutal injuries of an adult child suggested that he had a heart attack, resulting in brain damage, the ribs.
 
-சின்சினாட்டி வீட்டிற்கு துணை மருத்துவர்கள் மே 1 ஆம் திகதி அழைக்கப்பட்டனர், அங்கு அவர்கள் குழந்தை பதிலளிக்காததைக் கண்டனர். இதையடுத்து அவரது உயிரைக் காப்பாற்றும் முயற்சியில் ஈடுபட்டனர். அவர் சிகிச்சைக்காக சின்சினாட்டி குழந்தைகள் மருத்துவமனை மருத்துவ மையத்தின் தீவிர சிகிச்சை பிரிவுக்கு அனுப்பப்பட்டார். குழந்தை இறந்துவிட்டதாக மே 5 ஆம் திகதி அறிவிக்கப்பட்டது
+Edward Murray, 23, 23, who lives in Ohio, has been arrested for allegedly killing his girlfriend's 1 -year -old son.
+
+After the arrest of Murray on May 10, allegations of murder, brutal assault and danger to the child have been leveled.
+
+The sub -doctors at Cincinnati's house were invited on May 1, where they found the child did not respond. They then tried to save his life. He was sent to the Cincinnati Children's Hospital Medical Center for treatment. It was announced on May 5 that the child was dead
+
+Investigations into the brutal injuries of an adult, he had a heart attack, resulting in a brain damage, broken rib, corrupted liver, bleeding eye tissues and brain inflammation.
+
+According to doctors, the child's injuries may have been "only caused by violent impacts against the objects or the feet provided."
 
 ...
 
 [Data](articles/8bf63eac.json)
+
+[Extended Data](ext_articles/8bf63eac.ext.json)
 
 ---
 
@@ -1224,6 +1262,8 @@ Airlines for America said U.S carriers plan to fly more than 26,000 daily flight
 
 *2024-05-26 08:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/99439/6-newborns-killed-after-major-fire-at-delhi-childrens-hospital) · `en`
 
+#WATCH | Delhi: A massive fire broke out at a New Born Baby Care Hospital in Vivek Vihar As per a Fire Officer, Fire was extinguished completely, 11-12 people were rescued and taken to hospital and further details are awaited.(Video source - Fire Department) https://t.co/lHzou6KkHH pic.twitter.com/pE95ffjm9p— ANI (@ANI) May 25, 2024
+
 As many as six newborns have lost their lives after a massive fire broke out at a New Born Baby Care Hospital in Delhi’s Vivek Vihar in the late hours of Saturday.
 
 According to the Delhi Fire Department, a total of 12 children were rescued, out of which six have died, one is on the ventilator and five are admitted to the hospital.
@@ -1231,8 +1271,6 @@ According to the Delhi Fire Department, a total of 12 children were rescued, out
 The rescued newborns have been shifted to East Delhi Advance NICU hospital.
 
 On information, police officials and firefighters reached the spot and doused the fire.
-
-Fire Officer Rajesh, said, “At 11:32 pm, Fire Service Control Room received information that fire broke out at a hospital...total 16 fire tenders reached the spot and fire has been extinguished completely. 2 buildings were affected by the fire, one is the hospital building and 2 floors of a residential building on the right side also caught fire...11-12 people were rescued and they were taken to hospital. Further details will be shared later”.
 
 ...
 
@@ -2255,31 +2293,5 @@ Meanwhile, authorities also notify motorists not to exceed the speed limits disp
 [Data](articles/26d98ecd.json)
 
 [Extended Data](ext_articles/26d98ecd.ext.json)
-
----
-
-### Decision on Colombo-Kandy main road
-
-*2024-05-25 18:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197004) · `si`
-
-Following a site inspection post a tree collapse, it's decided to remove risky rocks along the Colombo-Kandy main road over the next few days. Drivers are advised to use alternate routes due to safety concerns.
-
-🟩
-
-The next few days will be taken to remove several risky stones above the Colombo-Kandy main road.
-
-As a result, Minister of Public Minister Kanaka Herath calls for highways to use alternative routes to drivers using this road.
-
-The State Minister said this after conducting a site inspection.
-
-The investigation was carried out on the area after a large tree collapsed on the 23rd.
-
-It was observed that there was a rich in rock and a large trees in high risk rock above the road.
-
-◼️
-
-[Data](articles/33c40742.json)
-
-[Extended Data](ext_articles/33c40742.ext.json)
 
 ---

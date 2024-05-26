@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-26 12:18:52**
+As of **2024-05-26 12:34:26**
 
 ## Newspaper Stats
 
@@ -26,29 +26,35 @@ adaderanasinhalalk | 4,213
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,295 (100.0%) of 26,304 articles have been extended.
+26,304 (100.0%) of 26,304 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-26 (Sunday)
 
-### ගුජරාට් ගින්න ගැන අලුත් ආරංචියක්
+### New news about Gujarat Fire
 
 *2024-05-26 12:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197023) · `si`
 
-ඉන්දියාවේ, ගුජරාට් ප්‍රාන්තයේ රාජ්කොට් නගරයේ විනෝද ක්‍රීඩා මධ්‍යස්ථානයක හටගත් ගින්න සම්බන්ධයෙන් එහි හිමිකරු ඇතුළු පුද්ගලයින් සිව්දෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
+In Rajkot, India, a fire at a fun sports center has resulted in the arrest of four individuals, including the owner and manager, amid rising death tolls reaching 32 children. The cause remains unknown, and rescue efforts continue. Investigations involve DNA identification due to some victims being unconscious.
 
-අදාළ විනෝද ක්‍රීඩා මධ්‍යස්ථානයේ හටගත් මෙම ගින්නනෙන් මියගිය සංඛ්‍යාව මේ වන විට 32 ක් දක්වා ඉහළගොස් ඇති අතර ඒ අතර කුඩා ළමුන් 12 දෙනෙකු සිටින බවද සඳහන් වෙයි.
+🟩
 
-ඒ අනුව සිද්ධිය සම්බන්ධයෙන් විමර්ශනය කිරීම සඳහා පත්කර ඇති පංච පුද්ගල කමිටුවක් මගින් එම මධ්‍යස්ථානයේ කළමනාකරු ඇතුළු පුද්ගලයින් සිව්දෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
+Four persons including the owner and four others have been arrested in connection with the fire in a fun sports center in Rajkot, India.
 
-කෙසේවෙතත් ගින්නට හේතුව මෙතෙක් අනාවරණ වී නොමැති අතර මුදාගැනීමේ මෙහෙයුම් තවදුරටත් ක්‍රියාත්මකය.
+It is said that the number of people killed in the Fire Sports Center has increased to 32 children.
 
-ඇතැම් මළසිරුරු සිරුරු හඳුනාගත නොහැකි ලෙස පිළිස්සී ඇති බැවින් ගින්න සිදුවන අවස්ථාවේ එම ස්ථානයේ සිටි පිරිස්වල ඥාතීන්ගේ DNA සාම්පල, සිරුරු හඳුනාගැනීම සඳහා ලබාගෙන ඇති බවද විදෙස් වාර්තා වැඩිදුරටත් සඳහන් කළේය.
+Four persons including the manager of the center have been arrested by a five-member committee appointed to investigate the incident.
+
+However, the cause of the fire is yet to be ascertained and rescue operations continues.
+
+According to foreign investigations to identify the DNA samples and bodies of relatives of the fire as some bodies were unconscious.
 
 ◼️
 
 [Data](articles/6a8357c6.json)
+
+[Extended Data](ext_articles/6a8357c6.ext.json)
 
 ---
 
@@ -88,43 +94,57 @@ Accordingly, very strong winds 60-70 kmph, accompanied with heavy rainfalls and 
 
 [Data](articles/badb4a93.json)
 
+[Extended Data](ext_articles/badb4a93.ext.json)
+
 ---
 
-### කාලගුණයෙන් මුහුද ගැන රතු අනතුරු ඇඟවීමක්
+### Red warning about the sea from the weather
 
 *2024-05-26 11:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197022) · `si`
 
-තද සුළං සහ මුහුද රළු වීම පිළිබඳව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව විසින් රතු අනතුරු ඇඟවීමේ නිවේදනයක් නිකුත් කර ඇත.
+A red warning for severe winds and rough seas issued by the Department of Meteorology is effective for the next 24 hours. Heavy showers are expected in the island's Bay of Bayneraka area due to strong winds. The Northern Bengal Bay Sea's hurricane, Remas, has intensified to a hurricane at the North Bay Sea.
 
-ඉදිරි පැය 24 සඳහා වලංගු වන පරිදි එම දෙපාර්තමේන්තුව මෙම නිවේදනය නිකුත් කර තිබේ.
+🟩
 
-එහි සඳහන් වන්නේ රීමල් සුළි කුණාටුව හේතුවෙන් දිවයින වටාවන මුහුදු ප්‍රදේශයේත් බෙංගාල බොක්ක මුහුදු ප්‍රදේශයේත් ඉතා තද සුළං සමගින් තද වැසි ඇතිවිය හැකි බවය.
+The Department of Meteorology has issued a red warning statement on the roughness of strong winds and sea.
 
-එසේම එම මුහුදු ප්‍රදේශ ඉතා රළු විය හැකි බවද එම නිවේදනයේ වැඩිදුරටත් දැක්වෙයි.
+The Department has issued this announcement to be valid for the next 24 hours.
 
-උතුරු බෙංගාල බොක්ක මුහුදු ප්‍රදේශයේ පැවති රීමල් සුළි කුණාටුව අද (26) පෙරවරුව වනවිට චණ්ඩ සුළි කුණාටුවක් දක්වා වර්ධනය වී ඇති බව එහි වැඩිදුරටත් සඳහන් වෙයි.
+Heavy showers in the area of the island and the Bay of Bay of Bay of Bay of Bayneraka have also occur due to strong winds.
 
-කාලගුණවිද්‍යා දෙපාර්තමේන්තුව විසින් නිකුත් කර ඇති රතු අනතුරු ඇඟවීමේ නිවේදනය පහතින්.
+The sea areas can be very rough.
+
+The hurricane of Remas held in the Northern Bengal Bay Sea has increased to a hurricane at the North Bay Sea.
+
+Below is the red warning notification issued by the Department of Meteorological Department.
 
 ◼️
 
 [Data](articles/90a7c111.json)
 
+[Extended Data](ext_articles/90a7c111.ext.json)
+
 ---
 
-### ඉන්දියාවේ ළමා රෝහලක ගින්නක්
+### Fire breaks out in a children's hospital in India
 
 *2024-05-26 11:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197021) · `si`
 
-ඉන්දියාවේ ළමා රෝහලක හදිසි ගින්නක් හටගෙන ඇති බව විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
+A tragic fire broke out in a children's hospital in India, resulting in the deaths of 7 children and the rescue of 12 newborns.
 
-එම වාර්තා වැඩිදුරටත් සඳහන් කරන්නේ ගින්න හේතුවෙන් කුඩා ළමුන් 7දෙනෙකුට ආසන්න ප්‍රමාණයක් මියගොස් ඇති බවය.
+🟩
 
-ගින්න ඇතිවූ අවස්ථාවේ අලුත උපන් බිළිඳුන් 12 දෙනෙකුට ආසන්න ප්‍රමාණයක් බේරාගැනීමට සමත්ව ඇති බව එම වාර්තා සඳහන් කරයි.
+An emergency fire has erupted in a children's hospital in India.
+
+These reports further stated that nearly 7 children have died due to the fire.
+
+According to the reports, 12 newborns were rescued when the fire caused.
 
 ◼️
 
 [Data](articles/c16705c9.json)
+
+[Extended Data](ext_articles/c16705c9.ext.json)
 
 ---
 
@@ -152,23 +172,29 @@ It is said that about 1100 people in the Matara district have been affected due 
 
 ---
 
-### තද සුළං ගැන යළි අනතුරු ඇඟවීමක්
+### A warning of strong winds
 
 *2024-05-26 11:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197020) · `si`
 
-කාලගුණවිද්‍යා දෙපාර්තමේන්තුව විසින් තද සුළං පිළිබඳ අවවාදාත්මක නිවේදනයක් නිකුත් කර තිබේ.
+The Meteorological Department warns of strong winds across various regions including the central hills' western slopes, North-Central, South Western Province, and Trincomalee. Expect gusts of 50-60 km/h frequently, especially in the central hills and several provinces. The warning was issued at 10:30 am and will be effective from 10:00 am tomorrow.
 
-අද (26) පෙ.ව 10.30ට නිකුත් කරන ලද එම නිවේදනය හෙට (27) පෙ.ව 10.30 තෙක් වලංගුවන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව සඳහන් කරයි.
+🟩
 
-මධ්‍යම කඳුකරයේ බටහිර බෑවුම් ප්‍රදේශවල සහ උතුරු මැද, දකුණු, වයඹ පළාත් සහ ත්‍රිකුණාමලය දිස්ත්‍රික්කය සඳහා මෙම නිවේදනය වලංගුවන බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+The Department of Meteorological Department has issued a warning of strong winds.
 
-දිවයින හරහා නිරිතදිග මෝසම් සුළං ප්‍රවාහයේ වැඩිවීම හේතුවෙන්, මධ්‍යම කඳුකරයේ බටහිර බෑවුම් ප්‍රදේශවල සහ උතුරු, උතුරු මැද, බස්නාහිර, දකුණු සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය දිස්ත්‍රික්කයේත් විටින් විට හමන පැ.කි.මී. 50-60ක පමණ තද සුළං ඇතිවිය හැකිය.
+The announcement issued at 10.30 am will be found to 10:00 am tomorrow.
 
-දිවයිනේ සෙසු ප්‍රදේශවල විටින් විට හමන පැ.කි.මී 30-40 පමණ තරමක තද සුළං ඇතිවිය හැකි බව කාලගුණ විද්‍යා දෙපාර්මේන්තුව වැඩිදුරටත් නිවේදනය කරයි.
+The Meteorological Department says that the non-slopes are in the western slopes of the central hills and the North-Central, South Western Province and Trincomalee.
+
+Southwide monsoon winds, in the central hills and the Central Mountains and the North, North, North, Western, Southern and North Western Provinces and in the Trincomalee District.. Strong winds can occur 50-60.
+
+Over 30-40 times in the rest of the island, there will be 30-40 times strong winds.
 
 ◼️
 
 [Data](articles/991157ff.json)
+
+[Extended Data](ext_articles/991157ff.ext.json)
 
 ---
 
@@ -266,25 +292,31 @@ This will make a big message on television today. All the SJB leaders embraced h
 
 ---
 
-### ව්‍යාජ මැණික් ගල් විකිණීමට කටුගස්තොට ගිය 6ක් කොටු
+### Six trapped for sale in Katugastota
 
 *2024-05-26 10:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197019) · `si`
 
-නිධානයකින් ලබාගත් ලද බවට පවසමින් ව්‍යාජ මැණික්ගල් පෙන්වා මුදල් වංචා කිරීමට තැත්කළ කාන්තාවක් ඇතුළු සැකකරුවන් 06 දෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
+In Katugastota, six suspects, including a woman, were arrested for attempting to cheat money from a treasure scam. The suspects, aged 35 and 51 from Habarakuduwa and Habarakada, were caught trying to sell a fake treasure through brokers. They were remanded after being produced in court, with further investigations ongoing.
 
-ඊයේ (25) දහවල් කාලයේදී කටුගස්තොට පොලීසියට ලද තොරතුරක් මත කටුගස්තොට නගරයේදී එම සැකකරුවන් අත්අඩංගුවට ගෙන ඇත.
+🟩
 
-අත්අඩංගුවට ගත් සැකකරුවන් අවුරුදු 35 හා 51 අතර වයස්වල පසුවන හෙයියන්තුඩුව, ගාල්ල, හිනිදුම සහ ඇතුල්කෝට්ටේ ප්‍රදේශවල පදිංචිකරුවන් වන අතර සැකකාරිය හබරකඩ ප්‍රදේශයේ පදිංචි 35 හැවිරිදි කාන්තාවකි.
+Six suspects including a woman who tried to cheat the money have been arrested in a treasure and triggered to cheat for money.
 
-මෙම සැකකරුවන් ව්‍යාජ මැණික්ගල් තැරැවුකරුවන් මාර්ගයෙන් ගැණුම්කරුවෙකු සම්බන්ධකර විකිණීම සඳහා ගාල්ල, නෙළුව ප්‍රදේශයේ සිට කටුගස්තොට ප්‍රදේශයට පැමිණ ඇත.
+The suspects were arrested in Katugastota on a tip off received yesterday (25).
 
-තරැවුකරුවන් විසින් මෙම මැණික්ගල් ව්‍යාජ මැණික්ගල් බවට අනාවරණය කරගෙන ඒ සම්බන්ධයෙන් කටුගස්තොට පොලීසිය දැනුම්වත් කිරීමෙන් පසු සැකකරුවන් අත්අඩංගුවට ගෙන තිබේ.
+The suspects are residents of Habarakuduwa, 35 and 51 years and the suspect is a 35 year old resident of Habarakada.
 
-සැකකරුවන් හා සැකකාරිය ඊයේ (25) මහනුවර මහෙස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමෙන් පසු හෙට (27) දක්වා රක්ෂිත බන්ධනාගාර ගත කර ඇති අතර කටුගස්තොට පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+The suspects have arrived in Katugastota to Katugastota to sell a buyer through false matrical brokers.
+
+The suspects were arrested after the expulsion of the victims were revealed that the maturus police informed the Katugastota Police.
+
+The suspects and the suspect were produced before the Kandy Magistrate's Court yesterday (25) and remanded until tomorrow. Katugastota Police are conducting further investigations.
 
 ◼️
 
 [Data](articles/7c1faaad.json)
+
+[Extended Data](ext_articles/7c1faaad.ext.json)
 
 ---
 
@@ -357,6 +389,8 @@ Officials of the Department of Immigration and Ministry of Public Security has d
 ...
 
 [Data](articles/fac30574.json)
+
+[Extended Data](ext_articles/fac30574.ext.json)
 
 ---
 
@@ -465,6 +499,8 @@ The Bay of Bengal (BoB), the largest in the world lays claim to 12 per cent of m
 ...
 
 [Data](articles/de8270a0.json)
+
+[Extended Data](ext_articles/de8270a0.ext.json)
 
 ---
 
@@ -813,6 +849,8 @@ However, volatility in the exchange rate was proving troublesome for some busine
 ...
 
 [Data](articles/3cfba956.json)
+
+[Extended Data](ext_articles/3cfba956.ext.json)
 
 ---
 

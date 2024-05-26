@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-27 02:51:14**
+As of **2024-05-27 03:03:51**
 
 ## Newspaper Stats
 
-*Scraped **26,437** Articles*
+*Scraped **26,441** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 265
 newsfirstlk | 363
 islandlk | 1,431
 economynextcom | 1,511
-dailyftlk | 1,546
+dailyftlk | 1,550
 adalk | 2,247
 adaderanalk | 3,030
 tamilmirrorlk | 3,099
@@ -26,11 +26,81 @@ adaderanasinhalalk | 4,234
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,437 (100.0%) of 26,437 articles have been extended.
+26,437 (100.0%) of 26,441 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-27 (Monday)
+
+### Eran criticises Govt.’s revenue shortfall
+
+*2024-05-27 02:45:35* · [`dailyftlk`](https://www.ft.lk/news/Eran-criticises-Govt-s-revenue-shortfall/56-762209) · `en`
+
+SJB MP Eran Wickramaratne says Govt. revenue target unrealistic due to lack of progress in measures to boost revenue
+
+Argues absence of queues for essential goods does not equate to economic stability
+
+Urges voters to recognise need for leaders with expertise in navigating economic challenges
+
+SJB Parliamentarian Eran Wickramaratne on Sunday expressed concerns over the Government’s failure to meet its 2023 revenue targets, despite entering into an agreement with the International Monetary Fund (IMF) to increase State revenue and cover the budget deficit to avert bankruptcy.
+
+A recent Government report confirmed that the revenue for 2023 did not reach the projected levels.
+
+...
+
+[Data](articles/479d88d1.json)
+
+---
+
+### SL mourns sudden death of French envoy
+
+*2024-05-27 02:40:22* · [`dailyftlk`](https://www.ft.lk/news/SL-mourns-sudden-death-of-Frenchenvoy/56-762207) · `en`
+
+The Ministry of Foreign Affairs yesterday expressed deepest sorrow for the sudden demise of Ambassador of France to Sri Lanka and the Maldives Jean-François Pactet.
+
+It said all assistance will be extended by the Foreign Ministry to the French authorities and the family of the late Ambassador.
+
+The Ministry is in close coordination with the French Embassy in Sri Lanka at this time of grief. The funeral arrangements will be notified by the authorities in due course, the Foreign Ministry added.
+
+◼️
+
+[Data](articles/dfa8d02a.json)
+
+---
+
+### Police fail to find ISIS links to four Lankans arrested in India
+
+*2024-05-27 02:39:52* · [`dailyftlk`](https://www.ft.lk/news/Police-fail-to-find-ISIS-links-to-four-Lankans-arrested-in-India/56-762206) · `en`
+
+Police Spokesperson DIG Nihal Thalduwa yesterday said local investigators have failed to find any links between the terror group Islamic State of Iraq and Syria (ISIS) and four suspects of Sri Lankan origin arrested in India on terrorism-related charges.
+
+The arrested identified as Mohamed Nushran, Mohamed Nafran Nowfer, Mohamed Rasdeeen Abdul Raseem and Mohamed Faris Mohamed Farook were arrested by the Gujarat Anti-Terrorism Squad (ATS) on 20 May in Ahmedabad, India. The Indian Authorities have accused the four of planning to carry out an attack on Indian soil and having links to ISIS leaders in Pakistan.
+
+Abdul Hameed Amir, a close associate of Rasdeen and Faris has also been apprehended by the Sri Lanka Police for interrogation.
+
+...
+
+[Data](articles/767121b0.json)
+
+---
+
+### Inclement weather causes massive power outages countrywide
+
+*2024-05-27 02:39:26* · [`dailyftlk`](https://www.ft.lk/news/Inclement-weather-causes-massive-power-outages-countrywide/56-762205) · `en`
+
+CEB receives over 61,000 electricity breakdown complaints, impacting over 467,500 users during past six days
+
+The Ceylon Electricity Board (CEB) has reported over 61,000 electricity breakdown complaints, affecting over 467,500 electricity users across the country over the past six days, from 21 to 26 May due to severe weather conditions.
+
+As of 2 p.m. yesterday, CEB teams had cleared over 26,700 breakdowns and restored power to around 425,500 users. Despite these efforts, the ongoing inclement weather continues to generate new complaints, causing fluctuations in the numbers of affected users.
+
+On 23 May, Power and Energy Minister Kanchana Wijesekera announced that additional service staff had been deployed to expedite repairs. The CEB management and service staff have been working around the clock to address the situation, which saw over 36,900 breakdowns and power interruptions affecting more than 300,000 users from 20 to 22 May.
+
+...
+
+[Data](articles/6367ab12.json)
+
+---
 
 ### Seven elephants body recovered in Polonnaruwa
 
@@ -133,6 +203,38 @@ It is noteworthy that the Kalutara Criminal Investigation Division is conducting
 [Data](articles/a85c36c3.json)
 
 [Extended Data](ext_articles/a85c36c3.ext.json)
+
+---
+
+### Kolkata beat Hyderabad by 8 wickets
+
+*2024-05-27 01:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/184561) · `ta`
+
+Kolkata Knight Riders clinched their 3rd IPL championship title after defeating Sunrisers Hyderabad by 8 wickets in the 17th IPL final. They achieved this feat with a low score of 114 runs, chasing down the lowest winning target in IPL history. Key performances included Rahmanullah Gurbaz and Venkatesh Iyer's partnership and Andre Russell's bowling.
+
+🟩
+
+Chennai Chepakkam MA. Kolkata Knight Riders won the Champions title for the 3rd time in the final of the 17th Indian Premier League chapter held at the Chidambaram Stadium on Sunday night.
+
+Kolkata Knight Riders lost 2 wickets in 10.3 overs and scored 114 runs in response to the lowest winning target of 114 runs in the final of the IPL.
+
+However, when the total number was 11 runs in the 2nd over, Sunil Narain lost the bowling of Pet Kamins with 6 runs.
+
+However, Rahmanullah Gurbas and Venkatesh Iyer both shared 91 runs off 45 balls in the 2nd wicket.
+
+Shahbas Ahmad's bowling while Rahmanullah Qurbas scored 39 runs.
+
+Venkatesh Iyer scored 52 runs without losing 26 balls. Team captain Shreyas Iyer did not play with 6 runs.
+
+Sunrisers Hyderabad, who decided to bat first in the final, lost all wickets in 18.3 overs and scored 113 runs.
+
+This is the lowest number of teams in the history of the IPL.
+
+...
+
+[Data](articles/96a59c56.json)
+
+[Extended Data](ext_articles/96a59c56.ext.json)
 
 ---
 
@@ -431,38 +533,6 @@ Professionals in retirement are used to sharing their experiences in the form of
 [Data](articles/521d2c2b.json)
 
 [Extended Data](ext_articles/521d2c2b.ext.json)
-
----
-
-### Kolkata beat Hyderabad by 8 wickets
-
-*2024-05-26 23:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/184561) · `ta`
-
-Kolkata Knight Riders clinched their 3rd IPL championship title after defeating Sunrisers Hyderabad by 8 wickets in the 17th IPL final. They achieved this feat with a low score of 114 runs, chasing down the lowest winning target in IPL history. Key performances included Rahmanullah Gurbaz and Venkatesh Iyer's partnership and Andre Russell's bowling.
-
-🟩
-
-Chennai Chepakkam MA. Kolkata Knight Riders won the Champions title for the 3rd time in the final of the 17th Indian Premier League chapter held at the Chidambaram Stadium on Sunday night.
-
-Kolkata Knight Riders lost 2 wickets in 10.3 overs and scored 114 runs in response to the lowest winning target of 114 runs in the final of the IPL.
-
-However, when the total number was 11 runs in the 2nd over, Sunil Narain lost the bowling of Pet Kamins with 6 runs.
-
-However, Rahmanullah Gurbas and Venkatesh Iyer both shared 91 runs off 45 balls in the 2nd wicket.
-
-Shahbas Ahmad's bowling while Rahmanullah Qurbas scored 39 runs.
-
-Venkatesh Iyer scored 52 runs without losing 26 balls. Team captain Shreyas Iyer did not play with 6 runs.
-
-Sunrisers Hyderabad, who decided to bat first in the final, lost all wickets in 18.3 overs and scored 113 runs.
-
-This is the lowest number of teams in the history of the IPL.
-
-...
-
-[Data](articles/96a59c56.json)
-
-[Extended Data](ext_articles/96a59c56.ext.json)
 
 ---
 
@@ -2103,99 +2173,5 @@ Power and Environmental Director of the Colombo Municipal Council has been repor
 [Data](articles/3fb662cd.json)
 
 [Extended Data](ext_articles/3fb662cd.ext.json)
-
----
-
-### CEB receives over 61,000 breakdown complaints by 2 p.m. today
-
-*2024-05-26 15:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/CEB-receives-over-61-000-breakdown-complaints-by-2-p-m-today/108-283365) · `en`
-
-Colombo, May 26 (Daily Mirror) - The Ceylon Electricity Board (CEB) has recorded over 61,000 electricity breakdown complaints by 2 p.m today
-
-They said the complaints were received following power outages for over 467,500 consumers during the last six days, during the period between May 21 and 26.
-
-Accordingly, more than 26,700 breakdowns have been rectified and power supply has been restored for about 425,500 consumers as of 2 p.m today.
-
-The CEB management and service staff are working round the clock to restore power to all affected consumers.
-
-However, by Friday (May 24), over 59,400 electricity breakdown complaints had been reported, resulting in power outages for over 431,500 consumers during the period between May 21 and 24.
-
-◼️
-
-[Data](articles/afb46546.json)
-
-[Extended Data](ext_articles/afb46546.ext.json)
-
----
-
-### The fate of Saranga for an unexpected moment
-
-*2024-05-26 15:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197027) · `si`
-
-Saranga, while bringing candles for his mother's 45th birthday celebration, was involved in an accident near Dambulla Hospital. He works for the Railway Department and was seriously injured. The cause of the accident remains unknown, and the police are investigating. His family, already struggling financially, now faces additional medical expenses. They appeal for support and urge the authorities to expedite the investigation.
-
-🟩
-
-In the Habarana area, it was reported from Habarana area.
-
-Saranga had left his home to bring the candles to celebrate his mother's 45th birthday.
-
-But by a telephone call from the Sigiriya police to the Sigiriya Police, the birthday had visited the Dambulla Hospital.
-
-Saranga, who was working to the Railway Department, Lady Lady Delivered With Dice and Saranga was still injured, but how the Saranga was injured.
-
-The police have told the parents that Saranga has suffered to a danger.
-
-But how has the accident occurred?The police have not yet been able to uncover who is responsible.
-
-Saranga is responsible for the treatment of the law, and in the treatment of parents today, the treatment of the parents of the Parents is also facing a crisis due to the end of their economic situation.
-
-Therefore, this parents who are experiencing a help to treat Saranga and urge the law enforcement authorities that their son is sick.
-
-◼️
-
-[Data](articles/7fd24e18.json)
-
-[Extended Data](ext_articles/7fd24e18.ext.json)
-
----
-
-### President reveals outcome of talks with Elon Musk on introducing ‘Starlink’ in Sri Lanka
-
-*2024-05-26 15:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/99446/president-reveals-outcome-of-talks-with-elon-musk-on-introducing-starlink-in-sri-lanka) · `en`
-
-President Ranil Wickremesinghe states that the initiative of integrating the global ‘Starlink’ network with Sri Lanka aims to address the Wi-Fi connectivity issues, particularly in areas outside Colombo.
-
-In response to a question raised by a youth at the Jaffna District Youth Conference organized by the National Youth Service Council at Duraiappah Stadium in Jaffna, on Friday (24), Wickremesinghe expressed that during his recent discussion with tech billionaire Elon Musk regarding the matter, the potential of solar energy and other renewable energy sources available in the country were also explored.
-
-Meanwhile, the President said he extended an invitation for Musk to collaborate on significant projects in Sri Lanka.
-
-Furthermore, Wickremesinghe revealed that the Telecommunication Regulatory Commission of Sri Lanka (TRCSL) has been tasked with assessing the ‘Starlink’ network, with most of the preliminary work already completed.
-
-...
-
-[Data](articles/ecdd0bdb.json)
-
-[Extended Data](ext_articles/ecdd0bdb.ext.json)
-
----
-
-### Slovaki Prime Minister's attempt to assassinate: Foreign intelligence in the background?
-
-*2024-05-26 15:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/184525) · `ta`
-
-Robert Pigo, Slovakia's pro-Russian PM, was shot last week, sparking global condemnation. He had vowed to halt Ukraine's aid against Russia in September.
-
-🟩
-
-The 59 -year -old Robert Pigo, who has been the prime minister of Slovakia since last year, is said to be a Russian pro -Russian.
-
-Many world leaders have strongly condemned the shooting of Robert Pigo last week. Robert, heading the left-wing SMer-SST party, pledged to stop Ukraine war aid in the war against Russia last September.
-
-◼️
-
-[Data](articles/e3493a15.json)
-
-[Extended Data](ext_articles/e3493a15.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-26 12:05:07**
+As of **2024-05-26 12:18:52**
 
 ## Newspaper Stats
 
-*Scraped **26,295** Articles*
+*Scraped **26,304** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,44 @@ dbsjeyarajcom | 262
 bbccomsinhala | 265
 newsfirstlk | 363
 islandlk | 1,431
-economynextcom | 1,505
+economynextcom | 1,508
 dailyftlk | 1,533
 adalk | 2,238
-adaderanalk | 3,019
+adaderanalk | 3,020
 tamilmirrorlk | 3,080
 virakesarilk | 4,006
 dailymirrorlk | 4,151
-adaderanasinhalalk | 4,208
+adaderanasinhalalk | 4,213
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,293 (100.0%) of 26,295 articles have been extended.
+26,295 (100.0%) of 26,304 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-26 (Sunday)
+
+### ගුජරාට් ගින්න ගැන අලුත් ආරංචියක්
+
+*2024-05-26 12:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197023) · `si`
+
+ඉන්දියාවේ, ගුජරාට් ප්‍රාන්තයේ රාජ්කොට් නගරයේ විනෝද ක්‍රීඩා මධ්‍යස්ථානයක හටගත් ගින්න සම්බන්ධයෙන් එහි හිමිකරු ඇතුළු පුද්ගලයින් සිව්දෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
+
+අදාළ විනෝද ක්‍රීඩා මධ්‍යස්ථානයේ හටගත් මෙම ගින්නනෙන් මියගිය සංඛ්‍යාව මේ වන විට 32 ක් දක්වා ඉහළගොස් ඇති අතර ඒ අතර කුඩා ළමුන් 12 දෙනෙකු සිටින බවද සඳහන් වෙයි.
+
+ඒ අනුව සිද්ධිය සම්බන්ධයෙන් විමර්ශනය කිරීම සඳහා පත්කර ඇති පංච පුද්ගල කමිටුවක් මගින් එම මධ්‍යස්ථානයේ කළමනාකරු ඇතුළු පුද්ගලයින් සිව්දෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
+
+කෙසේවෙතත් ගින්නට හේතුව මෙතෙක් අනාවරණ වී නොමැති අතර මුදාගැනීමේ මෙහෙයුම් තවදුරටත් ක්‍රියාත්මකය.
+
+ඇතැම් මළසිරුරු සිරුරු හඳුනාගත නොහැකි ලෙස පිළිස්සී ඇති බැවින් ගින්න සිදුවන අවස්ථාවේ එම ස්ථානයේ සිටි පිරිස්වල ඥාතීන්ගේ DNA සාම්පල, සිරුරු හඳුනාගැනීම සඳහා ලබාගෙන ඇති බවද විදෙස් වාර්තා වැඩිදුරටත් සඳහන් කළේය.
+
+◼️
+
+[Data](articles/6a8357c6.json)
+
+---
 
 ### ‘Red’ alert issued over strong winds and rough seas due to cyclonic storm
 
@@ -48,23 +68,107 @@ Accordingly, very strong winds 60-70 kmph, accompanied with heavy rainfalls and 
 
 [Data](articles/901eec76.json)
 
+[Extended Data](ext_articles/901eec76.ext.json)
+
 ---
 
-### සුලගීන් මාතරට බර හානී
+### ‘Red’ alert issued over strong winds and rough seas due to severe cyclonic storm
+
+*2024-05-26 11:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/99442/red-alert-issued-over-strong-winds-and-rough-seas-due-to-severe-cyclonic-storm) · `en`
+
+The Department of Meteorology has issued an advisory for strong winds and rough seas for naval and fishermen communities in the deep-sea areas in the South-eastern Arabian Sea and in the Bay of Bengal.
+
+The ‘red’ alert states that the cyclonic storm, named “Remal” (pronounced “Re-Mal”) over the North Bay of Bengal, intensified into a severe cyclone storm at 05.30 a.m. on May 26.
+
+It is located near 19.5°N and 89.3°E, to the north-east of Sri Lanka, and 1500 km away from Kankasanthurai and it is very likely to move nearly northwards, intensify further, and cross Bangladesh and adjoining West Bengal (India) coasts by May 26th at midnight, the advisory said.
+
+Accordingly, very strong winds 60-70 kmph, accompanied with heavy rainfalls and very rough seas are likely over the sea areas around the country and over the South-eastern Arabian Sea areas and Bay of Bengal Sea areas, it added.
+
+...
+
+[Data](articles/badb4a93.json)
+
+---
+
+### කාලගුණයෙන් මුහුද ගැන රතු අනතුරු ඇඟවීමක්
+
+*2024-05-26 11:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197022) · `si`
+
+තද සුළං සහ මුහුද රළු වීම පිළිබඳව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව විසින් රතු අනතුරු ඇඟවීමේ නිවේදනයක් නිකුත් කර ඇත.
+
+ඉදිරි පැය 24 සඳහා වලංගු වන පරිදි එම දෙපාර්තමේන්තුව මෙම නිවේදනය නිකුත් කර තිබේ.
+
+එහි සඳහන් වන්නේ රීමල් සුළි කුණාටුව හේතුවෙන් දිවයින වටාවන මුහුදු ප්‍රදේශයේත් බෙංගාල බොක්ක මුහුදු ප්‍රදේශයේත් ඉතා තද සුළං සමගින් තද වැසි ඇතිවිය හැකි බවය.
+
+එසේම එම මුහුදු ප්‍රදේශ ඉතා රළු විය හැකි බවද එම නිවේදනයේ වැඩිදුරටත් දැක්වෙයි.
+
+උතුරු බෙංගාල බොක්ක මුහුදු ප්‍රදේශයේ පැවති රීමල් සුළි කුණාටුව අද (26) පෙරවරුව වනවිට චණ්ඩ සුළි කුණාටුවක් දක්වා වර්ධනය වී ඇති බව එහි වැඩිදුරටත් සඳහන් වෙයි.
+
+කාලගුණවිද්‍යා දෙපාර්තමේන්තුව විසින් නිකුත් කර ඇති රතු අනතුරු ඇඟවීමේ නිවේදනය පහතින්.
+
+◼️
+
+[Data](articles/90a7c111.json)
+
+---
+
+### ඉන්දියාවේ ළමා රෝහලක ගින්නක්
+
+*2024-05-26 11:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197021) · `si`
+
+ඉන්දියාවේ ළමා රෝහලක හදිසි ගින්නක් හටගෙන ඇති බව විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
+
+එම වාර්තා වැඩිදුරටත් සඳහන් කරන්නේ ගින්න හේතුවෙන් කුඩා ළමුන් 7දෙනෙකුට ආසන්න ප්‍රමාණයක් මියගොස් ඇති බවය.
+
+ගින්න ඇතිවූ අවස්ථාවේ අලුත උපන් බිළිඳුන් 12 දෙනෙකුට ආසන්න ප්‍රමාණයක් බේරාගැනීමට සමත්ව ඇති බව එම වාර්තා සඳහන් කරයි.
+
+◼️
+
+[Data](articles/c16705c9.json)
+
+---
+
+### Slagine harm Matara
 
 *2024-05-26 11:19:17* · [`adalk`](https://www.ada.lk/breaking_news/සුලගීන්-මාතරට-බර-හානී/11-409822) · `si`
 
-මාතර දිස්ත්‍රික්කය පුරා පසුගිය දිනවල පැවති තද සුලං තත්වය හේතුවෙන් නිවාස 300 කට පමණ අර්ධ හානී සිදු වී ඇති බව මාතර දිස්ත්‍රික් ආපදා කළමනාකරණ මධ්‍යස්ථානය පවසයි.
+In Matara district, strong winds have caused significant damage, affecting around 1,100 people and damaging about 300 houses, especially in areas like Kotamba, Malawala, and Model. The disaster management center urges the public to report vulnerable trees, which could fall and cause further harm. Relief efforts are underway under the guidance of local authorities.
 
-එහි අධ්‍යක්ෂ ලුතිනන් කර්නල් ආරියවංශ කණ්ඩම්බි මහතා කියා සිටියේ වැලිගම,සුල්තානාගොඩ,පොල්වතුමෝදර,බටවල,පැලෑන,මෝදරවත්ත ආදී ප්‍රදේශ වලට එම තත්වය වැඩි වශයෙන් බලපා ඇති බවයි. නිවාස මතට ගස් හා අතු කඩා වැටීමෙන් වහලවල් වලට දැඩි අලාභ හානී සිදු වී තිබේ. මාතර දිස්ත්‍රික් ආපදා කලමණාකරණ මධ්‍යස්ථානය සදහන් කරන්නේ පොදු ස්ථාන වල ඇති අනතුරුදායක ගස් පිළිබඳව දැනුම් දෙන්නේ නම් රජයේ වියදමින් එම ගස් හෝ අතු කපා ඉවත් කිරීමට කටයුතු කරන බවයි.
+🟩
 
-එවැනි ගස් පිළිබඳව දැනුම් දෙන ලෙස එම මධ්‍යස්ථානය මහජනතාවගෙන් ඉල්ලීමක් ද කරයි.
+The Matara District Disaster Management Center (SSDA) Center (SSDA) Center has said that about 300 houses have been partially damaged due to the recently tightened houses across the Matara district.
 
-තද සුලං හේතුවෙන් නිවාස වලට හානී සිදු වීම නිසා මාතර දිස්ත්‍රික්කයේ පුද්ගලයින් 1100 ක් පමණ පීඩාවට පත්ව සිටින බව කියති.
+Its director Lieutenant Colonel Ariywansa Kandamby said that the situation was more influenced to Kotamba, Malawala, Model, Model. The roofs have damaged the roofs by collapsing the trees and branches on homes. The Matara District Disaster Management Center states that if the vulnerable trees in public places will be taken to cut off the trees or branches at the expense of the government.
+
+The center requests the public to inform such trees.
+
+It is said that about 1100 people in the Matara district have been affected due to the harm to houses due to the tight winds.
 
 ...
 
 [Data](articles/4c5a6cdd.json)
+
+[Extended Data](ext_articles/4c5a6cdd.ext.json)
+
+---
+
+### තද සුළං ගැන යළි අනතුරු ඇඟවීමක්
+
+*2024-05-26 11:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197020) · `si`
+
+කාලගුණවිද්‍යා දෙපාර්තමේන්තුව විසින් තද සුළං පිළිබඳ අවවාදාත්මක නිවේදනයක් නිකුත් කර තිබේ.
+
+අද (26) පෙ.ව 10.30ට නිකුත් කරන ලද එම නිවේදනය හෙට (27) පෙ.ව 10.30 තෙක් වලංගුවන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව සඳහන් කරයි.
+
+මධ්‍යම කඳුකරයේ බටහිර බෑවුම් ප්‍රදේශවල සහ උතුරු මැද, දකුණු, වයඹ පළාත් සහ ත්‍රිකුණාමලය දිස්ත්‍රික්කය සඳහා මෙම නිවේදනය වලංගුවන බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+දිවයින හරහා නිරිතදිග මෝසම් සුළං ප්‍රවාහයේ වැඩිවීම හේතුවෙන්, මධ්‍යම කඳුකරයේ බටහිර බෑවුම් ප්‍රදේශවල සහ උතුරු, උතුරු මැද, බස්නාහිර, දකුණු සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය දිස්ත්‍රික්කයේත් විටින් විට හමන පැ.කි.මී. 50-60ක පමණ තද සුළං ඇතිවිය හැකිය.
+
+දිවයිනේ සෙසු ප්‍රදේශවල විටින් විට හමන පැ.කි.මී 30-40 පමණ තරමක තද සුළං ඇතිවිය හැකි බව කාලගුණ විද්‍යා දෙපාර්මේන්තුව වැඩිදුරටත් නිවේදනය කරයි.
+
+◼️
+
+[Data](articles/991157ff.json)
 
 ---
 
@@ -162,6 +266,28 @@ This will make a big message on television today. All the SJB leaders embraced h
 
 ---
 
+### ව්‍යාජ මැණික් ගල් විකිණීමට කටුගස්තොට ගිය 6ක් කොටු
+
+*2024-05-26 10:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197019) · `si`
+
+නිධානයකින් ලබාගත් ලද බවට පවසමින් ව්‍යාජ මැණික්ගල් පෙන්වා මුදල් වංචා කිරීමට තැත්කළ කාන්තාවක් ඇතුළු සැකකරුවන් 06 දෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
+
+ඊයේ (25) දහවල් කාලයේදී කටුගස්තොට පොලීසියට ලද තොරතුරක් මත කටුගස්තොට නගරයේදී එම සැකකරුවන් අත්අඩංගුවට ගෙන ඇත.
+
+අත්අඩංගුවට ගත් සැකකරුවන් අවුරුදු 35 හා 51 අතර වයස්වල පසුවන හෙයියන්තුඩුව, ගාල්ල, හිනිදුම සහ ඇතුල්කෝට්ටේ ප්‍රදේශවල පදිංචිකරුවන් වන අතර සැකකාරිය හබරකඩ ප්‍රදේශයේ පදිංචි 35 හැවිරිදි කාන්තාවකි.
+
+මෙම සැකකරුවන් ව්‍යාජ මැණික්ගල් තැරැවුකරුවන් මාර්ගයෙන් ගැණුම්කරුවෙකු සම්බන්ධකර විකිණීම සඳහා ගාල්ල, නෙළුව ප්‍රදේශයේ සිට කටුගස්තොට ප්‍රදේශයට පැමිණ ඇත.
+
+තරැවුකරුවන් විසින් මෙම මැණික්ගල් ව්‍යාජ මැණික්ගල් බවට අනාවරණය කරගෙන ඒ සම්බන්ධයෙන් කටුගස්තොට පොලීසිය දැනුම්වත් කිරීමෙන් පසු සැකකරුවන් අත්අඩංගුවට ගෙන තිබේ.
+
+සැකකරුවන් හා සැකකාරිය ඊයේ (25) මහනුවර මහෙස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමෙන් පසු හෙට (27) දක්වා රක්ෂිත බන්ධනාගාර ගත කර ඇති අතර කටුගස්තොට පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+
+◼️
+
+[Data](articles/7c1faaad.json)
+
+---
+
 ### Exciting Events at Babylon Oberoi
 
 *2024-05-26 10:36:00* · [`islandlk`](http://island.lk/exciting-events-at-babylon-oberoi/) · `en`
@@ -211,6 +337,26 @@ Rajkot, May 26 (NDTV) - Twenty-seven people, including nine children, have died 
 [Data](articles/c23894b1.json)
 
 [Extended Data](ext_articles/c23894b1.ext.json)
+
+---
+
+### Truth behind Sri Lanka VFS visa deal to be exposed: Harsha
+
+*2024-05-26 10:18:00* · [`economynextcom`](https://economynext.com/truth-behind-sri-lanka-vfs-visa-deal-to-be-exposed-harsha-164750/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Committee on Public Finances will expose the truth behind the controversial VFS Global visa deal, its chief Harsha de Silva said.
+
+Officials of the Department of Immigration and Ministry of Public Security has declined to attend meeting called on May 28, de Silva said after skipping the previously scheduled meeting.
+
+“We’ve uncovered many details & will release everything after the final meeting,” de Silva said in a twitter.com post.
+
+“COPF is committed to exposing the truth behind the controversial GBS/IVS tender.”
+
+#COPF meeting on #VFSfiasco postponed again due to Govt officials' unavailability on May 28th. New date: June 4th. We've uncovered many details & will release everything after the final meeting. COPF is committed to exposing the truth behind the controversial GBS/IVS tender.
+
+...
+
+[Data](articles/fac30574.json)
 
 ---
 
@@ -303,6 +449,22 @@ The deceased has been identified as a 69-year-old resident of Embilipitiya.
 [Data](articles/0616db39.json)
 
 [Extended Data](ext_articles/0616db39.ext.json)
+
+---
+
+### Call for sustainability in the Bay of Bengal
+
+*2024-05-26 09:48:00* · [`economynextcom`](https://economynext.com/call-for-sustainability-in-the-bay-of-bengal-164743/) · `en`
+
+ECONOMYNEXT – On the one hand, is the Bay of Bengal Large Marine Ecosystem project, a five-year collaborative approach to address the many ecological challenges of the region.
+
+On the other, heightened geopolitical rivalries between competing nations, the USA and her allies, and China and her Belt and Road Initiative may well divide loyalties amongst the Bay’s littoral states impacting the smooth implementation of the project.
+
+The Bay of Bengal (BoB), the largest in the world lays claim to 12 per cent of mangroves including the Sundarbans mangrove forest, 8 per cent of coral reefs and a huge expanse of seagrasses. Its coastline is home to nearly 1.4 billion people.
+
+...
+
+[Data](articles/de8270a0.json)
 
 ---
 
@@ -476,6 +638,8 @@ Airlines for America said U.S carriers plan to fly more than 26,000 daily flight
 
 *2024-05-26 08:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/99439/6-newborns-killed-after-major-fire-at-delhi-childrens-hospital) · `en`
 
+#WATCH | Delhi: A massive fire broke out at a New Born Baby Care Hospital in Vivek Vihar As per a Fire Officer, Fire was extinguished completely, 11-12 people were rescued and taken to hospital and further details are awaited.(Video source - Fire Department) https://t.co/lHzou6KkHH pic.twitter.com/pE95ffjm9p— ANI (@ANI) May 25, 2024
+
 As many as six newborns have lost their lives after a massive fire broke out at a New Born Baby Care Hospital in Delhi’s Vivek Vihar in the late hours of Saturday.
 
 According to the Delhi Fire Department, a total of 12 children were rescued, out of which six have died, one is on the ventilator and five are admitted to the hospital.
@@ -483,8 +647,6 @@ According to the Delhi Fire Department, a total of 12 children were rescued, out
 The rescued newborns have been shifted to East Delhi Advance NICU hospital.
 
 On information, police officials and firefighters reached the spot and doused the fire.
-
-Fire Officer Rajesh, said, “At 11:32 pm, Fire Service Control Room received information that fire broke out at a hospital...total 16 fire tenders reached the spot and fire has been extinguished completely. 2 buildings were affected by the fire, one is the hospital building and 2 floors of a residential building on the right side also caught fire...11-12 people were rescued and they were taken to hospital. Further details will be shared later”.
 
 ...
 
@@ -633,6 +795,24 @@ Justice Minister Vijayadasa Rajapakse has said that the presidential election wi
 [Data](articles/18d9ee89.json)
 
 [Extended Data](ext_articles/18d9ee89.ext.json)
+
+---
+
+### Sri Lanka hotelier wants rupee to be unit of account to enable external trade
+
+*2024-05-26 07:05:00* · [`economynextcom`](https://economynext.com/sri-lanka-hotelier-wants-rupee-to-be-unit-of-account-to-enable-external-trade-164642/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s unstable exchange rate is making it difficult for businesses to price output across time to foreign counter partes and widely expressed fears of future instability also dented investor confidence, a private entrepreneur said.
+
+Sri Lanka’s central bank has since September 2022 provided monetary stability including the elimination of forex shortages with deflationary policy by overshooting its 5 to 7 percent domestic inflation target, providing a strong foundation for growth and economic activities to recover.
+
+However, volatility in the exchange rate was proving troublesome for some businesses as the currency could no longer be used as a unit of account to denominate future prices.
+
+“I heard the word price stability. Yes, that’s good we have we have got that,” Gerard Ondaatjie, a business executive and hotelier said at a recent forum at the Central Bank.
+
+...
+
+[Data](articles/3cfba956.json)
 
 ---
 
@@ -2017,233 +2197,5 @@ Drivers are advised to be cautious when crossing level crossings if there is no 
 [Data](articles/eb513838.json)
 
 [Extended Data](ext_articles/eb513838.ext.json)
-
----
-
-### Massive landslide can occur despite the small rainfall
-
-*2024-05-25 16:07:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறிய-மழை-பெய்தாலும்-பாரிய-மண்சரிவு-ஏற்படும்/175-337830) · `ta`
-
-Despite minimal rainfall, there's a high risk of massive landslides in certain regions due to heavy rainfalls in Kegalle, Ratnapura, and Kalutara districts. The National Building Research Organization advises caution as even light showers could trigger landslides.
-
-🟩
-
-The senior adviser to the National Building Research Organization has warned that some areas are in danger of landslides despite the risk of rainfall in some areas.
-
-More than 350 millimeters of rainfall has been reported in some places in Kegalle, Ratnapura and Kalutara districts.
-
-People should be vigilant. Even if it rains in the future, it will occur.. Remble
-
-◼️
-
-[Data](articles/f10de1cf.json)
-
-[Extended Data](ext_articles/f10de1cf.ext.json)
-
----
-
-### Storms will be more violent
-
-*2024-05-25 15:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196998) · `si`
-
-The US National Oceans and Atmospheric Authority predicts a record-breaking hurricane season in the Atlantic, starting from early June. Expecting 25 storms, 85% will be more intense than usual, with around 7 being extremely severe due to La Niña conditions. This follows last year's trend where 20 hurricanes were reported, 14 of which were severe.
-
-🟩
-
-The US national oceans and atmospheric authority prophesy that the most violent hurricanes can be recorded during this year's Atlantic.
-
-Atlantic cyclone season usually begins in the first week of June.
-
-Authorities predict 25 storms during the storm.
-
-According to them, about 85 percent will be more violent than average.
-
-Approximately 7 of these storms will be more violent storms at a third level or higher.
-
-This is because the La Nene Meteorology, which is cooled on the ground on the surface of the ground.
-
-Authorities further indicate that the country cannot be predicted.
-
-In 2023, 20 hurricanes were reported, and 14 were more violent.
-
-◼️
-
-[Data](articles/abeb091c.json)
-
-[Extended Data](ext_articles/abeb091c.ext.json)
-
----
-
-### Northern Governor hates senior officials - Vigneswaran MP to the president
-
-*2024-05-25 15:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/184453) · `ta`
-
-Vigneswaran MP wrote to President Wickremesinghe, expressing concern over the delay in appointing permanent Government Agents (GAs) in Jaffna and Kilinochchi districts, affecting essential services like health, education, and women's affairs. He criticized the Northern Governor for favoring younger officials over experienced ones, leading to inefficiencies and undermining public trust.
-
-🟩
-
-Parliamentarian CV Wigneswaran has sent a letter to President Ranil Wickremesinghe in writing that the appointment of government principals and ministries in the North should not be dismissed due to politics.
-
-In the letter, permanent GAs in both districts of Jaffna and Kilinochchi have not been appointed permanent government officials for about three months after retirement.
-
-Additional GAs include those duties. Politics should not prevent the appointments of these senior officials for important public positions. Also, 04 secretariat workplaces are vacant in the Vattakshiar office.
-
-Ministries of Health, Education and Women's Affairs. But Grade 1 officers are doing.
-
-The Ministry of Education, Ministry of Women's Affairs and the Governor's Office serves as the Secretary to the Ministry of Health. Mr.. Guganathan, Mr.. Sri, Mrs.. Elilarisi and Mr.. Senior specialists such as Arulraj, for political reasons, have been neglected and plundered by the secretaries of GAs and Ministries.
-
-...
-
-[Data](articles/0abe2a54.json)
-
-[Extended Data](ext_articles/0abe2a54.ext.json)
-
----
-
-### The night mail train will be canceled today
-
-*2024-05-25 15:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196996) · `si`
-
-The night mail train on the upcountry railway line is canceled today due to safety concerns related to potential terrorist activity near railway stations. This affects services between Colombo and Badulla. Special night trains are also halted. The cancellation is part of increased security measures, impacting traffic flow as well.
-
-🟩
-
-The night mail train on the upcountry railway line has been canceled today (25).
-
-The Railway Deputy General Manager (Transportation) N. G. Said Mr. Wernipo's.
-
-Due to this, the night mail train to be run to Colombo from Colombo to Badulla and Badulla will be canceled.
-
-Special trains have also been stopped at night.
-
-The railway line is due to cancellation the night mail train.
-
-He says that the execution of the railway station is in about 15 and 20 terrorists, including about 15 and 20 respectively.
-
-As a result, the electricity crashes were severely affected by the Nanu Ohu.
-
-Traffic drivers traveling to the railway crossing will be taken care of more carefully due to the influence of the signals due to the collapse of electricity.
-
-The drivers are informed to move viciously after electrical bells without any signal or red signal.
-
-◼️
-
-[Data](articles/0f5e497e.json)
-
-[Extended Data](ext_articles/0f5e497e.ext.json)
-
----
-
-### 43 Pakistani prisoners are returning to Sri Lanka
-
-*2024-05-25 15:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/184458) · `ta`
-
-Pakistani and Sri Lankan officials have agreed to repatriate 43 prisoners under a MoU, enhancing bilateral ties and security cooperation.
-
-🟩
-
-Pakistan and Sri Lanka have agreed to take action to return the prisoners in their countries to their homeland.
-
-The Memorandum of Understanding (MoU) was held in Pakistan in a discussion between the retired Admiral Ravindra Chandra Srivijay Gunaratne and Internal Minister Mohsin Naqvi.
-
-The meeting discussed the development of mutual welfare and bilateral relations, and both sides agreed to increase the cooperation of security and narcotics.
-
-The Ministry of Internal Affairs has been working with Sri Lankan authorities for the past one month to bring 43 prisoners to Pakistan.
-
-The Sri Lankan High Commissioner has promised all kinds of cooperation in this regard. The Minister of Internal Affairs has thanked the diplomat for supporting the detainees.
-
-◼️
-
-[Data](articles/8e96bf9f.json)
-
-[Extended Data](ext_articles/8e96bf9f.ext.json)
-
----
-
-### Senior President’s Counsel Gamini Marapana passes away
-
-*2024-05-25 15:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/99430/senior-presidents-counsel-gamini-marapana-passes-away) · `en`
-
-Prominent lawyer and Senior President’s Counsel Gamini Marapana has passed away at the age of 82.
-
-Gamini Marapana is the brother of Tilak Marapana PC, who served as the Minister of Foreign Affairs in the ‘Good Governance’ or ‘Yahapalana’ Government.
-
-Gamini Marapana, who appeared in several high-profile and highly publicized court cases in Sri Lanka, had also briefly served as the Chairman of Colombo Port City Economic Commission.
-
-Family sources said the final rites of the distinguished attorney will be notified later.
-
-◼️
-
-[Data](articles/c8983a83.json)
-
-[Extended Data](ext_articles/c8983a83.ext.json)
-
----
-
-### The pet identifies a world dies
-
-*2024-05-25 15:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196995) · `si`
-
-Kabou Dog, symbolizing a cryptocurrency unit, passed away. Sheba died from Leukemia, part of the Dou family.
-
-🟩
-
-The Kabou Dog, which is the symbol of a crypto cash unit, is dead.
-
-Sheba was dead due to Lieu Liukemia, belonging to the Dou.
-
-◼️
-
-[Data](articles/eea35611.json)
-
-[Extended Data](ext_articles/eea35611.ext.json)
-
----
-
-### Funds earmarked for construction of homes in Northern Province next year – President
-
-*2024-05-25 14:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/99429/funds-earmarked-for-construction-of-homes-in-northern-province-next-year-president) · `en`
-
-President Ranil Wickremesinghe emphasized the confirmation of land rights for the people, ensuring avenues for progress.
-
-The President highlighted Sri Lanka’s unique status as the sole South Asian nation offering free land rights to its citizens.
-
-Encouraging recipients to safeguard the freehold deeds from the “Heritage” program for future generations, he made these remarks during today’s (24) ceremony, where land deeds were bestowed upon the residents of the Jaffna district.
-
-A total of 1286 freehold deeds, encompassing all 15 Divisional Secretariat divisions within the Jaffna district, were distributed to the people, with the President symbolically participating in the awarding ceremony.
-
-Furthermore, under the “Urumaya” program, 13,858 freehold deeds are scheduled for distribution across the Mullaitivu, Kilinochchi, Vavuniya, and Mannar districts of the Northern Province.
-
-...
-
-[Data](articles/7498e3ab.json)
-
-[Extended Data](ext_articles/7498e3ab.ext.json)
-
----
-
-### Three former MPs and three former ministers join
-
-*2024-05-25 14:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196994) · `si`
-
-Sajith Premadasa, Opposition Leader, meets with former MPs and ministers, including Nandasena Herath and Thilak, both from the SLFP and JVP, aiming to strengthen his position. The gathering supports Premadasa's leadership, emphasizing unity and collaboration.
-
-🟩
-
-Opposition Leader Sajith Premadasa has met with the Opposition Leader Sajith Premadasa and several persons with the local organizers of the SLFP and JVP.
-
-The Polonnaruwa District meeting was held at the Janatha Power Program implemented by the Sicki power.
-
-An ex-Member of Parliament and Nandasena Herath joined the opposition leader Sajith Premadasa with the objective of supporting Opposition Leader Sajith Premadasa.
-
-Thilak Secretary General, who was as a former Sri Lanka Freedom Party (SLFP parliamentarian was also present in the Mahaweli Development Authority.
-
-He was also a candidate of the JVP Polonnaruwa Urban Council. Samantha Bandara was also associated with the reconciliation to support Opposition Leader Sajith Premadasa.
-
-◼️
-
-[Data](articles/6a4bf37c.json)
-
-[Extended Data](ext_articles/6a4bf37c.ext.json)
 
 ---

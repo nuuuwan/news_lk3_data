@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-26 17:03:59**
+As of **2024-05-26 17:18:36**
 
 ## Newspaper Stats
 
-*Scraped **26,341** Articles*
+*Scraped **26,345** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,71 @@ islandlk | 1,431
 economynextcom | 1,508
 dailyftlk | 1,533
 adalk | 2,242
-adaderanalk | 3,024
-tamilmirrorlk | 3,092
+adaderanalk | 3,025
+tamilmirrorlk | 3,094
 virakesarilk | 4,009
 dailymirrorlk | 4,159
-adaderanasinhalalk | 4,219
+adaderanasinhalalk | 4,220
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,341 (100.0%) of 26,341 articles have been extended.
+26,341 (100.0%) of 26,345 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-26 (Sunday)
+
+### Landslide early warnings issued for 7 districts including Colombo
+
+*2024-05-26 17:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/99447/landslide-early-warnings-issued-for-7-districts-including-colombo) · `en`
+
+The National Building and Research Organisation (NBRO), on Sunday (May 26) issued early landslide warnings for several localities in seven districts, to be in effect until 04.00 p.m. tomorrow (May 27).
+
+Accordingly, a Level 02 (Amber) alert was issued for the following areas:
+
+• Colombo - Seethawaka Divisional Secretariat Division (DSD) and surrounding areas
+
+• Kalutara - Ingiriya, Bulathsinhala and Mathugama DSDs and surrounding areas
+
+• Kegalle – Bulathkohupitiya, Deraniyagala, Ruwanwella, Kegalle, Dehiowita, Warakapola, Yatiyanthota, Mawanella and Galigamuwa DSD and surrounding areas
+
+• Ratnapura - Imbulpe, Balangoda, Elapatha, Kalawana, Kiriella, Eheliyagoda, Ayagama, Ratnapura and Kuruwita DSDs and surrounding areas
+
+Meanwhile, Level 01 (Yellow) alerts have been issued for the following areas:
+
+• Colombo - Padukka Divisional Secretariat Division (DSD) and surrounding areas
+
+• Kalutara - Dodangoda, Walallawita, Agalawatta, Palindanuwara and Horana DSDs and surrounding areas
+
+...
+
+[Data](articles/f45eca04.json)
+
+---
+
+### සාකච්ඡාව කල්දැමූ බව හර්ෂ කියයි
+
+*2024-05-26 16:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197030) · `si`
+
+විදේශිකයින් සඳහා ඔන්ලයින් වීසා නිකුත්කිරීම සම්බන්ධයෙන් වූ ගැටලුකාරී වාතාවරණය සම්බන්ධයෙන් සොයාබැලීම සඳහා වූ සාකච්ඡාව යළිත් කල් දැමීමට සිදුව ඇති බව රජයේ මුදල් පිළිබඳ කාරක සභාව පවසයි.
+
+එහි සභාපති පාර්ලිමේන්තු මන්ත්‍රී ආචාර්ය හර්ෂ ද සිල්වා මහතා සඳහන් කළේ අදාළ සාකච්ඡාව ලබන අඟහරුවාදා දිනයේ පැවැත්වීමට සැලසුම් කර තිබූ බවය.
+
+කෙසේවෙතත් එදිනට මහජන ආරක්ෂක අමාත්‍යංශයේ සහ ආගමන විගමන දෙපාර්තමේන්තුවේ නිලධාරීන්ට සහභාගී විය නොහැකි බවට දැනුම් දී තිබේ.
+
+ඒ අනුව අදාළ සාකච්ඡාව ජුනි මස 4වන දිනට කල්දමන බව පාර්ලිමේන්තු මන්ත්‍රී ආචාර්ය හර්ෂ ද සිල්වා මහතා සඳහන් කළේය.
+
+විදේශිකයින් සඳහා ඔන්ලයින් වීසා නිකුත්කිරීම සම්බන්ධයෙන් පසුගිය දා ඇතිවූ ගැටලුකාරී වාතාවරණය සම්බන්ධයෙන් සොයාබැලීම සඳහා රජයේ මුදල් පිළිබඳ කාරක සභාවට අදාළ වැඩපිළිවෙළ ක්‍රියාත්මක කරන රාජ්‍ය ආයතනවල ප්‍රධානීන් කැඳවා තිබුණි.
+
+පළමු අවස්ථාවේ එම සාකච්ඡාව සඳහා අදාළ නිලධාරීන් පැමිණිය ද පසුගිය 14 වන දින පැවති සාකච්ඡාව සඳහා ඔවුන් නොපැමිණී බව රජයේ මුදල් පිළිබඳ කාරක සභාව සඳහන් කළේය.
+
+...
+
+[Data](articles/e8e03cde.json)
+
+---
 
 ### “President does not conduct magical politics”
 
@@ -51,6 +101,20 @@ A special gazette has been issued by the Commissioner of Labor to ensure that th
 [Data](articles/756c0207.json)
 
 [Extended Data](ext_articles/756c0207.ext.json)
+
+---
+
+### “ மாயாஜால அரசியலை ஜனாதிபதி நடத்தவில்லை”
+
+*2024-05-26 16:31:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாயாஜால-அரசியலை-ஜனாதிபதி-நடத்தவில்லை/175-337911) · `ta`
+
+“வானை வில்லாக வளைப்பேன், ஒட்டுமொத்த கடல் நீரையும் சொம்புக்குள் அடக்குவேன் என்றெல்லாம் மந்திர வார்த்தைகளைக்கூறி மாயாஜால அரசியல் நடத்தாமல்,  உண்மையைக்கூறி யதார்த்தத்துக்கு பொருத்தமான அரசியலையே ஜனாதிபதி நடத்திவருகின்றார் என ஜனாதிபதியின் கீழ் இயங்கும் தொழிற்சங்க முடிவுகளை எடுக்கும் மூன்று பேர் கொண்ட குழுவின் உறுப்பினரும், ஐக்கிய தேசியக் கட்சியின் இரத்தினபுரி மாவட்ட அமைப்பாளருமான சுப்பையா ஆனந்தகுமார் தெரிவித்துள்ளார்.
+
+ஜனாதிபதியின் பயணப் பாதையை மாற்ற முற்படுவது நாட்டுக்கே ஆபத்தாக அமையும். எனவே, அனைவரும் ஒன்றிணைந்து ரணிலுக்கு பேராதரவு வழங்க வேண்டும் என்றும் பெருந்தோட்டத் தொழிலாளர்களின் சம்பளப் பிரச்சினைக்கு நிலையானதொரு தீர்வு பொறிமுறையை ஜனாதிபதி நிச்சயம் உருவாக்குவார் எனவும் நம்பிக்கை தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/fcae0e90.json)
 
 ---
 
@@ -105,6 +169,24 @@ Due to the land issue, 56 families living in the village of Keppapilavu, includi
 [Data](articles/0049e824.json)
 
 [Extended Data](ext_articles/0049e824.ext.json)
+
+---
+
+### கேப்பாப்பிலவில் நடந்து என்ன? களத்தில் குதித்தார் ஜனாதிபதி
+
+*2024-05-26 16:27:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கேப்பாப்பிலவில்-நடந்து-என்ன-களத்தில்-குதித்தார்-ஜனாதிபதி/175-337910) · `ta`
+
+ஜனாதிபதி ரணில் விக்ரமசிங்க ஞாயிற்றுக்கிழமை (26) முல்லைத்தீவு மாவட்டத்தில் "உறுமய" வேலைத்திட்டத்தின் கீழ் காணி உறுதிப் பத்திரங்களை வழங்கும் நிகழ்வில் பங்கேற்பதற்காக புதுக்குடியிருப்பு மத்திய மகா வித்தியாலயத்திற்குச் சென்ற போது. ஜனாதிபதியைச் சந்திக்க வேண்டும் எனக்கூறி அப்பகுதியைச் சேர்ந்த இரண்டு பெண்கள், கல்லூரி முன் ஆர்ப்பாட்டத்தில் ஈடுபட்டனர்.
+
+இது குறித்து அறிந்த வடமாகாண ஆளுநர் பி. எஸ். எம். சார்ள்ஸ், இரு பெண்களும் இருந்த இடத்துக்குச் சென்று அவர்களின் பிரச்சினை என்னவென்று வினவ, அதன்போது அவர்களின் பிரச்சினையை ஜனாதிபதியிடம் முன்வைக்க வேண்டும் எனக் குறிப்பிட்டனர்.
+
+அதனையடுத்து, வடமாகாண ஆளுநரால் இது குறித்து ஜனாதிபதிக்கு அறிவிக்கப்பட்டதையடுத்து, ஜனாதிபதி ரணில் விக்கிரமசிங்க போராட்டம் நடைபெற்ற இடத்துக்குச் சென்று அவர்களின் பிரச்சினைகளைக் கேட்டறிந்தார்.
+
+காணிப் பிரச்சினை காரணமாக தாம் உட்பட கேப்பாப்பிலவு கிராமத்தில் வசிக்கும் 56 குடும்பங்கள் கடும் அழுத்தங்களுக்கு உள்ளாகியுள்ளதாகவும், எனவே இதற்கு உடனடியாக தீர்வு காண ஏற்பாடு செய்யுமாறும் குறித்த பெண்கள் ஜனாதிபதியிடம் வேண்டுகோள் விடுத்தனர்.
+
+...
+
+[Data](articles/18a4eee4.json)
 
 ---
 
@@ -2219,95 +2301,5 @@ Our correspondent said that he had come to Mawanalena and arrived in Mawanella t
 [Data](articles/cf76115c.json)
 
 [Extended Data](ext_articles/cf76115c.ext.json)
-
----
-
-### Sri Lanka's largest privatization is now being operated
-
-*2024-05-25 22:37:05* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවේ-විශාලම-පුද්ගලීකරණය-දැන්-ක්‍රියාත්මකයි/11-409820) · `si`
-
-In a significant move, Sri Lanka's President Ranil Wickremesinghe announced the country's largest privatization initiative, focusing on land ownership. Under the "Heritage" program, 13,858 freeholds were granted across the Northern Province, with plans to extend this nationwide. Addressing issues in the Northern and Eastern provinces, including lands affected by war and those held by the Forest and Archaeology Departments, the President outlined measures to return these lands to their rightful owners. Additionally, he mentioned the reduction of high-security zones in Jaffna and the reopening of the Northern Province Housing Project next year. This initiative aims to secure land ownership for all citizens, marking a significant step towards resolving longstanding land issues.
-
-🟩
-
-President Ranil Wickremesinghe said that the land ownership of the people of the country will be profitable and will continue to proceed.
-
-Sri Lanka is the only country in South Asia, which is given to the people of the country free of charge to the people, "the heritage" program is to be kept safe for the next generation.
-
-President Ranil Wickremesinghe made this statement participating at the cemetery at the CHELLV auditorium to the people of the Jaffna district under the "Heritage Program.
-
-The President made 1286 freehold proven to the public covering the 15 Divisional Secretariat Divisions in the Jaffna District.
-
-Under the "Heritage" program, 13,8,88 freeholds of 13,858 freeholds in the Northern Province.
-
-...
-
-[Data](articles/e2f0de34.json)
-
-[Extended Data](ext_articles/e2f0de34.ext.json)
-
----
-
-### Fire in India kill 20 children
-
-*2024-05-25 22:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197009) · `si`
-
-A tragic fire at a sports center in Rajokora, India, resulted in the deaths of 20 individuals, including 12 children. Relief teams quickly responded to extinguish the blaze, but the death toll could rise.
-
-🟩
-
-A fire broke out at a fun sports center in Rajokora, India, India.
-
-About 20 people were killed in the fire.
-
-There are about 12 children among the deceased.
-
-With the inclusion of the incident, relief teams come to the place and extinguish fire, to freeze the fire.
-
-The number of deaths due to this fire can be increased.
-
-◼️
-
-[Data](articles/fa2162ff.json)
-
-[Extended Data](ext_articles/fa2162ff.ext.json)
-
----
-
-### Sri Lanka’s Gender Equality Bill will be passed before end of June - President
-
-*2024-05-25 22:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/99435/sri-lankas-gender-equality-bill-will-be-passed-before-end-of-june-president) · `en`
-
-Highlighting the government’s commitment to safeguarding women’s rights, President Ranil Wickremesinghe today announced plans to establish a dedicated commission to enforce legal measures aimed at empowering women.
-
-He further assured the passing of the Gender Equality Bill before the end of June, expressing hope for unanimous support from Parliamentarians.
-
-The President made these comments after inaugurating the “Centre of Excellence for Women’s Healthcare” at the Kilinochchi District General Hospital this morning (25), the PMD reported.
-
-“The inauguration of the Centre of Excellence for Women’s Health Services signifies a significant milestone in serving the women of our nation. We have implemented various special measures to empower women, reaffirming our commitment to their well-being.
-
-...
-
-[Data](articles/60c9289d.json)
-
-[Extended Data](ext_articles/60c9289d.ext.json)
-
----
-
-### No JVP member has joined SJB: Anura Kumara refutes SJB claims
-
-*2024-05-25 22:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/No-JVP-member-has-joined-SJB-Anura-Kumara-refutes-SJB-claims/108-283353) · `en`
-
-Mannar, May 25 (Daily Mirror)- The National People's Power (NPP) today refuted claims that a JVP member has joined the Samagi Jana Balawegaya (SJB) during a meeting in Polonnaruwa.
-
-NPP leader Anura Kumara Dissanayake said the particular person was not a JVP member but an SLFP member.
-
-Speaking at a meeting in Mannar, Dissanayake said the particular person Hitihamilage Saman Kumara is an SLFP candidate who had submitted nominations for the Local Government elections to contest for the Bendiwewa Division of the Polonnaruwa Municipal Council.
-
-...
-
-[Data](articles/8b21bb03.json)
-
-[Extended Data](ext_articles/8b21bb03.ext.json)
 
 ---

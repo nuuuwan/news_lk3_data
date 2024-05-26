@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-26 13:18:29**
+As of **2024-05-26 13:34:02**
 
 ## Newspaper Stats
 
-*Scraped **26,317** Articles*
+*Scraped **26,318** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,431
 economynextcom | 1,508
 dailyftlk | 1,533
 adalk | 2,240
-adaderanalk | 3,020
+adaderanalk | 3,021
 tamilmirrorlk | 3,085
 virakesarilk | 4,008
 dailymirrorlk | 4,155
@@ -26,11 +26,31 @@ adaderanasinhalalk | 4,213
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,315 (100.0%) of 26,317 articles have been extended.
+26,317 (100.0%) of 26,318 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-26 (Sunday)
+
+### Trump booed and heckled by raucous crowd at Libertarian convention
+
+*2024-05-26 12:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/99443/trump-booed-and-heckled-by-raucous-crowd-at-libertarian-convention) · `en`
+
+Presidential candidate Donald Trump was booed and heckled by many in a raucous audience at the Libertarian National Convention on Saturday night, a marked change from the adulation he receives at rallies from his fervently loyal supporters.
+
+Libertarians, who believe in limited government and individual freedom, blame Trump, a Republican, for rushing through the creation of a COVID-19 vaccine when he was president and for not doing more to stop public health restrictions on the unvaccinated during the pandemic.
+
+When Trump took to the stage in Washington, there were loud boos and jeers. A smaller section of the crowd, Trump supporters, cheered him.
+
+Shortly before he appeared, one Libertarian Party member shouted: “Donald Trump should have taken a bullet!”
+
+Trump’s campaign did not immediately respond to a request for comment about the hostile reception.
+
+...
+
+[Data](articles/6689d359.json)
+
+---
 
 ### Nightly Special Trains cancel
 
@@ -126,21 +146,31 @@ According to foreign investigations to identify the DNA samples and bodies of re
 
 ---
 
-### අඩි සීයක් ගැඹුරු ගල්වලක ගිලී පුද්ගලයෙකු මරුට
+### One killed in deep quarry swallows
 
 *2024-05-26 11:59:32* · [`adalk`](https://www.ada.lk/breaking_news/අඩි-සීයක්-ගැඹුරු-ගල්වලක-ගිලී-පුද්ගලයෙකු-මරුට/11-409824) · `si`
 
-ජලය පිරී තිබූ අඩි සියයක් පමණ ගැඹුරු ගල් කොරියක ස්නානයට ගිය පුද්ගලයින් දෙදෙනෙකුගෙන් එක් පුද්ගලයෙකු දිය ගිලි ජීවිතක්ෂයට පත්ව ඇතැයි මීගොඩ පොලිසිය පවසයි.
+A man drowned in a 100-foot-deep quarry while bathing with a friend. Identified as a private company driver from Gemunupura Melnat Estate, his body was recovered after a search involving police and navy divers. The autopsy, conducted by Dr. Damith Attanayake at Homagama Base Hospital, confirmed accidental death.
 
-මෙසේ මියගොස් ඇත්තේ  කඩුවෙල කොතලාවල ගැමුණුපුර මෙල්නට්  එස්ටේට් 01 පටුමග අංක 03 /11 හි පදිංචි සංජය එගොඩ ගෙදර (31) හැවිරිදි පෞද්ගලික ආයතනයක රියැදුරෙකු බව පොලිසිය කියයි.
+🟩
 
-මෙම පුද්ගලයා ඔහුගේ මිතුරෙකු සමග පාදුක්ක  බටවල ප්‍රදේශයේ අතහැර දමා තිබූ "ලව්පිටිය ගල්කොරිය" අසල මත්පැන් සාදයක් පවත්වමින් සිටියදී අඩි සියයක් පමණ ගැඹුරු ගල්කොයෙහි පිරී තිබූ ජලය මත ස්නානය කිරීමට ගොස් තිබේ.
+One person was killed in two persons who had been in a bath in a bath with a hundred feet deep rock.
 
-මියගිය පුද්ගලයා පළමුව ජලය පිරී තිබූ වලට බැස සිය මිතුරාට පිහිනීමට පුරුදු කිරීමආරාධනා කරමින් අඩි දෙකක් තුනක් පනණ ඉදිරියට යමින් සිටියදී එක් වරම දියේ ගිලී අතුරුදන්ව තිබු අතර මිතුරා තවත් කිහිපදෙනෙකු සමග ඔහු සෙවීමට උත්සාහ කළොත් එය ව්‍යාර්ථ වීම නිසා සිද්ධිය සම්බන්ධයෙන් පොලිසිය දැනුවත් කර තිබේ.
+The deceased has been identified as a driver of a private private company at Gemunupura Melnat Estate No. 03/11, a resident of Lane No. 03/11.
+
+With his friend, the man had gone to a bath with a hundred feet deep on the water that was filled with a hundred deep water.
+
+The deceased has been drowning and disappeared and the disappearance of the disappearances, and if he tried to find him with several others, it was impacted to find him.
+
+Accordingly, the police and the Navy had investigated and found investigations into the missing person but found a man drowned in the profession.
+
+The police ordered the police to the police in the Homagama Death of Homagama.
 
 ...
 
 [Data](articles/965e6f9f.json)
+
+[Extended Data](ext_articles/965e6f9f.ext.json)
 
 ---
 
@@ -228,21 +258,27 @@ Three people aged 17 and 18 from Wellampitiya area have been arrested in connect
 
 ---
 
-### මාවනැල්ලේදී රාජු කලබල වී අයෙක්ට බරපතල තුවාල
+### Raju was seriously injured in Mawanella
 
 *2024-05-26 11:46:35* · [`adalk`](https://www.ada.lk/breaking_news/මාවනැල්ලේදී-රාජු-කලබල-වී-අයෙක්ට-බරපතල-තුවාල/11-409823) · `si`
 
-මාවනැල්ල නගරයේ පැවති වෙසක් පෙරහරක් අතරතුර ඊට සහභාගි වී සිටි මාලිගාව ඇත්පන්තියට අයත් රාජු නමැති හස්තියාගේ පහරකෑමට ලක්වූ එම හස්තියාගේ ඇත් ගොව්වා බරපතල තුවාල ලබා මවනැල්ල රෝහලට ඇතුළත් කොට තිබේ .
+In Mawanella, Raju was severely hurt, and an elephant, attacked by palace guards, was hospitalized. Police arrested Perahera participants near a temple for election-related disturbances. The State Organizers faced backlash after the attack, leading to significant damages during the procession.
 
-එම හස්තියා පෙරහරට සහභාගි වීමෙන් අනතුරුව මාවනැල්ල නගරයට යාබද විහාරස්ථානයක රඳවා සිටියදී කිසියම් හේතුවක් නිසා කුලප්පු වී ඇත් ගොව්වාට පහර දී ඇති බව මාවනැල්ල පොලිසිය කියයි .
+🟩
 
-ඇත්ගෝවාට පහර දීමෙන් අනතුරුව රාජු හස්තියා යදම් වලින් මිදී මාවනැල්ල නගරයට පැමිණ ඇති අතර පෙරහර සංවිධායකයන් මහත් පරිශ්‍රමයක් දරා හස්තියා මාවනැල්ල පොල පිහිටි ප්‍රදේශයේදී මෙල්ල කොට බැඳ දැමීමට සමත්ව තිබේ .
+The elephant's assault was also admitted to the Mahawawella hospital with serious injuries, which were assaulted by the house of the palace in Mawanella.
 
-යම් හෙයකින් මෙම හස්තියා පෙරහර අතරතුර කලබල වූයේ නම් විශාල හානියක් සිදුවීමට තිබූ බව පොලිසිය කියයි .
+The Mawanella police said that while participating in the election Perahera had been detained in a temple adjacent to Mawanella.
+
+After attacking the elephant, the State Organizers had come to Mawanella and the appointment of the procession in the Mawaya Mawanella area.
+
+Police say he had to suffer a lot of damage during the election procession.
 
 ◼️
 
 [Data](articles/463f5c82.json)
+
+[Extended Data](ext_articles/463f5c82.ext.json)
 
 ---
 
@@ -962,8 +998,6 @@ Airlines for America said U.S carriers plan to fly more than 26,000 daily flight
 
 *2024-05-26 08:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/99439/6-newborns-killed-after-major-fire-at-delhi-childrens-hospital) · `en`
 
-#WATCH | Delhi: A massive fire broke out at a New Born Baby Care Hospital in Vivek Vihar As per a Fire Officer, Fire was extinguished completely, 11-12 people were rescued and taken to hospital and further details are awaited.(Video source - Fire Department) https://t.co/lHzou6KkHH pic.twitter.com/pE95ffjm9p— ANI (@ANI) May 25, 2024
-
 As many as six newborns have lost their lives after a massive fire broke out at a New Born Baby Care Hospital in Delhi’s Vivek Vihar in the late hours of Saturday.
 
 According to the Delhi Fire Department, a total of 12 children were rescued, out of which six have died, one is on the ventilator and five are admitted to the hospital.
@@ -971,6 +1005,8 @@ According to the Delhi Fire Department, a total of 12 children were rescued, out
 The rescued newborns have been shifted to East Delhi Advance NICU hospital.
 
 On information, police officials and firefighters reached the spot and doused the fire.
+
+Fire Officer Rajesh, said, “At 11:32 pm, Fire Service Control Room received information that fire broke out at a hospital...total 16 fire tenders reached the spot and fire has been extinguished completely. 2 buildings were affected by the fire, one is the hospital building and 2 floors of a residential building on the right side also caught fire...11-12 people were rescued and they were taken to hospital. Further details will be shared later”.
 
 ...
 
@@ -2219,27 +2255,5 @@ A total of 3,137 houses were partially damaged, and 11 houses were completely da
 [Data](articles/1adb137f.json)
 
 [Extended Data](ext_articles/1adb137f.ext.json)
-
----
-
-### Sri Lankan who ran fake ID racket held, family caught trying to flee India
-
-*2024-05-25 17:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/99432/sri-lankan-who-ran-fake-id-racket-held-family-caught-trying-to-flee-india) · `en`
-
-A 40-year-old illegal immigrant from Sri Lanka who allegedly ran a fake government identity proof racket for eight years has finally been caught in India.
-
-CCB sleuths of India recovered a country-made pistol from the man accused of being involved in making fake Aadhaar cards, driving licences, debit/credit cards and bank account papers.
-
-Hours after his arrest, his wife and her three daughters were caught attempting to flee the country using Indian passports, when she mistakenly provided her Sri Lankan identity proof during frisking by immigration officials at the airport.
-
-A senior police officer identified the racketeer as Sharan Kumar Kalidas alias Umesh Bala Ravindran alias Choti Bin Bala, a resident of an apartment in Rachenahalli, north Bengaluru, India.
-
-Acting on tipoff on May 20 about his alleged illegal activities, CCB inspector Kavitha GM and her team camped near his apartment complex and stopped him as arrived in his car.
-
-...
-
-[Data](articles/f318c7e2.json)
-
-[Extended Data](ext_articles/f318c7e2.ext.json)
 
 ---

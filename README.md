@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-26 15:34:08**
+As of **2024-05-26 15:52:53**
 
 ## Newspaper Stats
 
@@ -26,41 +26,53 @@ adaderanasinhalalk | 4,216
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,330 (100.0%) of 26,332 articles have been extended.
+26,332 (100.0%) of 26,332 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-26 (Sunday)
 
-### யாத்ரீகர்கள் சென்ற வேன் விபத்து: ஒருவர் பலி
+### Van accident: One killed
 
 *2024-05-26 15:13:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாத்ரீகர்கள்-சென்ற-வேன்-விபத்து-ஒருவர்-பலி/175-337904) · `ta`
 
-பாதெனிய அனுராதபுரம் வீதியில் கல்கமுவ பலுகடவல சந்திக்கு அருகில் ஞாயிற்றுக்கிழமை (26) இடம்பெற்ற வாகன விபத்தில் ஒருவர் உயிரிழந்துள்ளதுடன் பத்து பேர் காயமடைந்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+In a tragic van accident near Kalkamuwa, one died and ten were injured. The crash occurred when the van, carrying pilgrims from Kurunegala to Anuradhapura, hit a tree. Victims are hospitalized; four moved to Anuradhapura Teaching Hospital. Police believe driver fatigue caused the accident, with ongoing investigations by Calcamuwa police.
 
-குருநாகலிலிருந்து அனுராதபுரம் நோக்கி பயணித்த யாத்ரீகர்கள் குழுவை ஏற்றிச் சென்ற வேன் ஒன்று வீதியை விட்டு விலகி மரத்தில் மோதி விபத்துக்குள்ளானது.
+🟩
 
-விபத்தில் காயமடைந்தவர்கள் கல்கமுவ ஆதார வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதுடன் அவர்களில் நால்வர் மேலதிக சிகிச்சைக்காக அனுராதபுரம் போதனா வைத்தியசாலைக்கு மாற்றப்பட்டுள்ளனர்.
+One person was killed and ten people were injured in a vehicle accident on Sunday (26) near the Kalkamuwa Palukadawala junction on the Badeniya Anuradhapura road.
 
-சாரதிக்கு நித்திரை ஏற்பட்டமையே விபத்துக்கான காரணம் என பொலிஸார் சந்தேகம் வெளியிட்டுள்ளனர். சம்பவம் தொடர்பான மேலதிக விசாரணைகளை கல்கமுவ பொலிஸார் மேற்கொண்டு வருகின்றனர்.
+A van carrying a group of pilgrims traveling from Kurunegala to Anuradhapura crashed into a tree and crashed into a tree.
+
+The injured have been admitted to the Calgamuwa Resource Hospital and four of them have been transferred to the Anuradhapura Teaching Hospital for further treatment.
+
+Police suspect that the driver's sleep was the cause of the accident. Further investigations into the incident are being carried out by the Calcamuwa police.
 
 ◼️
 
 [Data](articles/51a7760c.json)
 
+[Extended Data](ext_articles/51a7760c.ext.json)
+
 ---
 
-### வடமாகாணத்தை அபிவிருத்தி செய்வதே தமது நோக்கம்
+### The their purpose is to develop the Northern Province
 
 *2024-05-26 15:00:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வடமாகாணத்தை-அபிவிருத்தி-செய்வதே-தமது-நோக்கம்/175-337900) · `ta`
 
-மேல் மாகாணத்தைப் போன்று உயர்தர சுகாதார சேவைகளை கொண்ட மாகாணமாக வடமாகாணத்தை அபிவிருத்தி செய்வதே தமது நோக்கம் என ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்துள்ளார்.
+President Ranil Wickremesinghe aims to elevate the Northern Province's healthcare standards akin to the Western Province. He inaugurated a Medical Rehabilitation center and announced the opening of four medical units in the North. The Vavuniya Hospital will transform into a teaching hospital, accompanied by a new medical faculty at Vavuniya University.
 
-மேலும், கடந்த இரு வருடங்களில்  வடக்கில் 4 மருத்துவ பிரிவுகள் திறந்து வைக்கப்பட்டதாகவும் வவுனியா வைத்தியசாலை போதனா வைத்தியசாலையாக மாற்றப்பட்டு, வவுனியா பல்கலைக்கழகத்தில் புதிய மருத்துவ பீடமொன்று  ஆரம்பிக்கப்படும் என்றும் ஞாயிற்றுக்கிழமை (26) மாங்குளம் ஆதார வைத்தியசாலையில் நிர்மாணிக்கப்பட்ட வைத்திய புனர்வாழ்வு சிகிச்சை மற்றும் மனநல அபிவிருத்தி நிலைய திறப்பு விழாவில் தெரிவித்தார்
+🟩
+
+President Ranil Wickremesinghe said his aim was to develop the Northern Province as a province with high quality health services like the Western Province.
+
+He also said at the inauguration of the Medical Rehabilitation and Psychiatric Development Center constructed at the Mankulam Resource Hospital on Sunday (26) that 4 medical units have been opened in the North and the Vavuniya Hospital will be converted into a teaching hospital and a new medical faculty will be opened at the Vavuniya University on Sunday (26).
 
 ◼️
 
 [Data](articles/d072d5a5.json)
+
+[Extended Data](ext_articles/d072d5a5.ext.json)
 
 ---
 

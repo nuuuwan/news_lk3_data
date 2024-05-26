@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-27 00:18:40**
+As of **2024-05-27 00:33:58**
 
 ## Newspaper Stats
 
-*Scraped **26,417** Articles*
+*Scraped **26,418** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 1,533
 adalk | 2,247
 adaderanalk | 3,030
 tamilmirrorlk | 3,099
-virakesarilk | 4,035
+virakesarilk | 4,036
 dailymirrorlk | 4,171
 adaderanasinhalalk | 4,234
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,234
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,416 (100.0%) of 26,417 articles have been extended.
+26,417 (100.0%) of 26,418 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,28 @@ Earlier, at the UAE Grand Prix in Dubai, he finished the Men’s 100m event with
 ...
 
 [Data](articles/70667c23.json)
+
+[Extended Data](ext_articles/70667c23.ext.json)
+
+---
+
+### ஹைதராபாத்தை 8 விக்கெட்களால் வீழ்த்தி  ஐபிஎல் கிண்ணத்தை 3ஆவது தடவையாக சுவீகரித்தது  கொல்கத்தா
+
+*2024-05-26 23:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/184561) · `ta`
+
+சென்னை சேப்பாக்கம் எம்.ஏ. சிதம்பரம் விளையாட்டரங்கில் ஞாயிற்றுக்கிழமை இரவு நடைபெற்ற 17ஆவது இண்டியன் பிறீமியர் லீக் அத்தியாயத்தின் இறுதிப் போட்டியில் சன்ரைசர்ஸ் ஹைதராபாத் அணியை 8 விக்கெட்களால் அமோக வெற்றிகொண்ட கொல்கத்தா நைட் ரைடர்ஸ் 3ஆவது தடவையாக சம்பியன் பட்டத்தை சுவீகரித்தது.
+
+ஐபிஎல் இறுதி ஆட்டம் ஒன்றில் 114 ஓட்டங்கள் என்ற மிகக் குறைந்த வெற்றி இலக்கை நோக்கி பதிலுக்கு துடுப்பெடுத்தாடிய கொல்கத்தா நைட் ரைடர்ஸ் 10.3 ஓவர்களில் 2 விக்கெட்களை இழந்து 114 ஓட்டங்களைப் பெற்று வெற்றியிட்டியது.
+
+எனினும் 2ஆவது ஓவரில் மொத்த எண்ணிக்கை 11 ஓட்டங்களாக இருந்தபோது சுனில் நரேன் 6 ஓட்டங்களுடன் பெட் கமின்ஸின் பந்துவீச்சில் ஆட்டம் இழந்து வெளியேறினார்.
+
+ஆனால், ரஹ்மானுல்லா குர்பாஸ், வெங்கடேஷ் ஐயர் ஆகிய இருவரும் 2ஆவது விக்கெட்டில் 45 பந்துகளில் 91 ஓட்டங்களைப் பகிர்ந்து வெற்றியை இலகுவாக்கினர்.
+
+ரஹ்மானுல்லா குர்பாஸ் 39 ஓட்டங்களைப் பெற்றிருந்தபோது ஷாஹ்பாஸ் அஹ்மதின் பந்துவீச்சில் எல் பி டபிள்யூ முறையில் ஆட்டம் இழந்தார்.
+
+...
+
+[Data](articles/96a59c56.json)
 
 ---
 
@@ -2219,27 +2241,5 @@ During this period, strong winds are likely to blow 60-70 kilometers in the seas
 [Data](articles/64b29c20.json)
 
 [Extended Data](ext_articles/64b29c20.ext.json)
-
----
-
-### Possibility of floods on Kelani, Kalu Ganga if 100mm rain received today
-
-*2024-05-26 12:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Possibility-of-floods-on-Kelani-Kalu-Ganga-if-100mm-rain-received-today/108-283360) · `en`
-
-May 26 (Daily Mirror) - The water levels of in the upper areas of the Kelani and Kalu Ganga have reached caution levels due to the higher rainfall in the catchment areas of these rivers, the Irrigation Department's Irrigation (Hydrology) Director Eng. S.P.C. Sugeeshwara Bandara said.
-
-He said the water levels in these rivers have reached caution levels for the first time soon after the north-east monsoon started.
-
-Specially those living along the upper areas of the Kelani and Kalu Ganga closer to the Ratnapura district are requested to be vigilent of sudden floods, he said.
-
-There are possibilities of sudden floods in these areas if rains of 100mm continue, Bandara said.
-
-However, due to heavy rains in the Sabaragamuwa and Western Provinces and the Galle and Matara districts in the Southern Province and certain areas in the North-Western Province, the water levels in these areas prevail at higher level, he added.
-
-◼️
-
-[Data](articles/3a33361f.json)
-
-[Extended Data](ext_articles/3a33361f.ext.json)
 
 ---

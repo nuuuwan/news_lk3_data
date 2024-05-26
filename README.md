@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-26 07:24:28**
+As of **2024-05-26 08:11:34**
 
 ## Newspaper Stats
 
@@ -26,51 +26,63 @@ adaderanasinhalalk | 4,203
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,247 (99.9%) of 26,263 articles have been extended.
+26,257 (100.0%) of 26,263 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-26 (Sunday)
 
-### ජනපතිගෙන් තරුණයින්ට පොරොන්දුවක්
+### President promises to youths
 
 *2024-05-26 07:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197012) · `si`
 
-මෙම වසර තුළ රට බංකොලොත්භාවයෙන් මුදවා ගැනීමෙන් අනතුරුව රැකියා විරහිත තරුණ තරුණියන්ට රැකියා අවස්ථා ලබාදීමේ වැඩසටහන ආරම්භ කරන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+President Ranil Wickremesinghe announced plans to launch programs for unemployed youths post-bankruptcy, focusing on modern agriculture and an export economy, inspired by countries like Vietnam, Malaysia, and Thailand. He also mentioned initiatives like a large event with South Indian artists and discussions on implementing the "Starlink" network and solar power in Sri Lanka.
 
-ඒ සමඟ අපනයන ආර්ථිකයක් නැවත ඇති කිරීම වෙනුවෙන් පෞද්ගලික සමාගම් සමඟ සම්බන්ධ වී නවීන කෘෂිකර්මය ගමට ගෙන යාමේ වැඩපිළිවෙළ ලබන වසරේ සිට ආරම්භ කරන බව ජනාධිපතිවරයා පවසයි.
+🟩
 
-දොරේඅප්පා ක්‍රීඩාංගණයේ පැවති යාපනය දිස්ත්‍රික් තරුණ සමුළුවට එක්වෙමින් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ඒ බව කියා සිටියේය.
+President Ranil Wickremesinghe says that the program will be launched to the unemployed youths after the release of the country during the bankruptcy this year.
 
-"පසුගිය වසර හතරක කාලය තුළ ශ්‍රී ලංකා ආර්ථිකය විශාල වශයෙන් පසුබෑමකට ලක්වුණා. එහිදී ජනතාව විශාල ලෙස දුක් පීඩාවට ලක්වුණා. වර්තමානය වන විට රට බංකොලොත්භාවයෙන් මිදෙමින් තිබෙනවා. රට බංකොලොත්භාවයෙන් ඉවත් වූවායින් පසුව රැකියා විරහිත තරුණ තරුණියන්ට රැකියා ලබාදීමටත් බලාපොරොත්තු වෙනවා. මේ වන විටත් ආර්ථික පරිවර්තන නීති පනත් කෙටුම්පත පාර්ලිමේන්තුවට ගෙනවිත් තිබෙනවා. එමඟින් අපනයනය පදනම් කරගත් ආර්ථිකයකට පරිවර්තනය වීමට අප බලාපොරොත්තු වෙනවා. වියට්නාමය, මැලේසියාව, තායිලන්තය වැනි අපනයනය පදනම් වූ ආර්ථිකයක් මෙරට ද ගොඩනැඟිය යුතුයි."
+The President says that the program will be initiated from next year to the village of modern agriculture to restore an export economy.
+
+President Ranil Wickremesinghe made this statement participating at the Jaffna District Youth Forum held at the Dorawapp Stadium.
+
+"Sri Lankan economy has been a huge settings over the past four years. There the people were suffering greatly. The country is running out of bankruptcy. The country expects unemployed youths after their bankruptcy. The Economic Translation Legal Bill has already been brought to Parliament. That we hope to translate export-based economy. Export-based economy, such as Vietnam, Malaysia and Thailand, needs to be built. "
 
 ...
 
 [Data](articles/c50a24f8.json)
 
+[Extended Data](ext_articles/c50a24f8.ext.json)
+
 ---
 
-### වැසි සහ සුළං තත්ත්වය තවදුරටත්
+### Showers and wind condition further
 
 *2024-05-26 06:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197011) · `si`
 
-නිරිතදිග මෝසම් තත්ත්වය හේතුවෙන් පවතින වැසි සහ සුළං තත්ත්වය තවදුරටත් බලාපොරොත්තු විය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Expect heavy rainfall and strong winds across several provinces due to the southwest monsoon. Showers predicted in Western, Sabaragamuwa, Central, North Western, and Southern provinces, with heavy falls in areas like Nuwara Eliya, Kandy, Galle, and Matara. The Department forecasts around 75% chance of heavy rains and 50-60 mph winds from the west and north, affecting many regions including the North Central and Northwestern provinces.
 
-එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, බස්නාහිර, සබරගමුව, මධ්‍යම, වයඹ සහ දකුණු පළාත්වල විටින් විට වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බවය.
+🟩
 
-සබරගමුව පළාතෙත් නුවරඑළිය දිස්ත්‍රික්කයේත් ඇතැම් ස්ථානවල මි.මී. 100ට වැඩි තද වැසි ඇතිවේ.
+The rain and windy of the southwest monsoon can no further expectations.
 
-එමෙන්ම බස්නාහිර සහ වයඹ පළාත්වලත් මහනුවර, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල මි.මී. 75ක පමණ තරමක තද වැසි ඇතිවිය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව නිවේදය කරයි.
+Showers or thundershowers will occur at times in the Western, Sabaragamuwa, Central, North Western and Southern provinces.
 
-උතුරු සහ උතුරු මැද පළාත්වල වැසි වාර කිහිපයක් ඇතිවිය හැකි අතර නැගෙනහිර පළාතේ වැසි ස්වල්පයක් ඇතිවේ.
+In some places in the Nuwara Eliya district of Sabaragamuwa Province. Heavy showers over 100.
 
-මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවල සහ උතුරු, උතුරු මැද, බස්නාහිර, දකුණු සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය දිස්ත්‍රික්කයේත් විටින් විට පැ.කි.මී. 50-60ක පමණ තද සුළං ඇතිවේ.
+Also, in some places in the Kandy, Galle and Matara districts in the Western and North Western Provinces.. The Department of Meteorology is prevalent that there will be around 75 Heavy rains.
 
-එමෙන්ම දිවයිනේ සෙසු ප්‍රදේශවල විටින් විට හමන පැ.කි.මී. 30-40ක පමණ තරමක තද සුළං ඇතිවිය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව වැඩිදුරටත් සඳහන් කරයි.
+Several spells of showers can occur in the North and the North Central provinces.
+
+From West, North, North, North, North, North Central, North and Southern and Southern and Southern and Southern and Northwestern provinces.. Strong winds are about 50-60.
+
+Also, in the rest of the island situated at times.. Strong winds can occur 30-40 times, the Met Department said.
 
 ◼️
 
 [Data](articles/6ffd229c.json)
+
+[Extended Data](ext_articles/6ffd229c.ext.json)
 
 ---
 
@@ -86,6 +98,8 @@ It said: Malabe has become the most sought-after residential suburbs in the Grea
 
 [Data](articles/12ec3dac.json)
 
+[Extended Data](ext_articles/12ec3dac.ext.json)
+
 ---
 
 ### DSI Tyres hosts Hankook Tyre Dealers’ Gathering at RIU
@@ -99,6 +113,8 @@ The event featured the presentation of special framed certificates appointing as
 ...
 
 [Data](articles/a8826690.json)
+
+[Extended Data](ext_articles/a8826690.ext.json)
 
 ---
 
@@ -116,6 +132,8 @@ Sanasa Life Insurance Head of Marketing Mahesh Wickramatunga, Head of Marketing 
 
 [Data](articles/bf589ba2.json)
 
+[Extended Data](ext_articles/bf589ba2.ext.json)
+
 ---
 
 ### Beware of the Weather Gods
@@ -127,6 +145,8 @@ The one thing a pilot wishes for, when he lines up for take-off is a blue sky. H
 ...
 
 [Data](articles/4442e882.json)
+
+[Extended Data](ext_articles/4442e882.ext.json)
 
 ---
 
@@ -140,6 +160,8 @@ Ambassador Jayantha Dhanapala’s career in national and international service s
 
 [Data](articles/6188db75.json)
 
+[Extended Data](ext_articles/6188db75.ext.json)
+
 ---
 
 ### Aachchi – My Heroine
@@ -152,21 +174,29 @@ Aachchi (my paternal grandmother)’s claim to fame was a story about her mother
 
 [Data](articles/912afa32.json)
 
+[Extended Data](ext_articles/912afa32.ext.json)
+
 ---
 
-### சிரேஷ்ட ஜனாதிபதி சட்டத்தரணி காலமானார்
+### Senior President's lawyer has passed away
 
 *2024-05-26 02:09:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிரேஷ்ட-ஜனாதிபதி-சட்டத்தரணி-காலமானார்/175-337844) · `ta`
 
-சிரேஷ்ட ஜனாதிபதி சட்டத்தரணி காமினி மாரப்பன தனது 83 ஆவது வயதில் நேற்று காலமானார்.
+Gamini Marapana, attorney since 1965 and president from 1990, passed away at 83. He served as director of Sri Lankan Airlines, first chairman of Colombo Port City Commission, and president of the National Sports Council.
 
-1965 ஆம் அண்டு சட்டத்தரணியாக சத்தியப்பிரமாணம் செய்த மறைந்த காமினி மாரப்பன, 1990 ஆம் ஆண்டில் ஜனாதிபதி சட்டத்தரணியாக சத்தியப்பிரமாணம் செய்துகொண்டார்.
+🟩
 
-ஶ்ரீ லங்கன் விமான சேவையின் பணிப்பாளராகவும், கொழும்பு துறைமுக நகர ஆணைக்குழுவின் முதலாவது தலைவராகவும் செயற்பட்ட அன்னார், தேசிய விளையாட்டுப் பேரவையின் தலைவராகவும் அவர் கடமையாற்றியுள்ளார். (a)
+Senior President's Attorney Gamini Marapana passed away yesterday at the age of 83.
+
+The late Gamini Marapana, who was sworn in as a lawyer in 1965, sworn in as the President of the President in 1990.
+
+He is the Director of the Sri Lankan Airlines and the first chairman of the Colombo Port City Commission and the President of the National Sports Council.. (A)
 
 ◼️
 
 [Data](articles/b44e6d8a.json)
+
+[Extended Data](ext_articles/b44e6d8a.ext.json)
 
 ---
 
@@ -225,6 +255,8 @@ At the time of his death on May 19, in a helicopter crash that has yet to be ful
 ...
 
 [Data](articles/6a29899a.json)
+
+[Extended Data](ext_articles/6a29899a.ext.json)
 
 ---
 

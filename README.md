@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-26 18:10:38**
+As of **2024-05-26 18:22:15**
 
 ## Newspaper Stats
 
-*Scraped **26,347** Articles*
+*Scraped **26,352** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,38 +13,132 @@ dbsjeyarajcom | 262
 bbccomsinhala | 265
 newsfirstlk | 363
 islandlk | 1,431
-economynextcom | 1,508
+economynextcom | 1,509
 dailyftlk | 1,533
 adalk | 2,242
 adaderanalk | 3,026
 tamilmirrorlk | 3,094
 virakesarilk | 4,009
-dailymirrorlk | 4,159
-adaderanasinhalalk | 4,221
+dailymirrorlk | 4,161
+adaderanasinhalalk | 4,223
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,346 (100.0%) of 26,347 articles have been extended.
+26,347 (100.0%) of 26,352 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-26 (Sunday)
 
-### ඊශ්‍රායලය ට රොකට් ප්‍රහාර එල්ලවෙයි
+### ආනන්ද පෙරේරා දිවියෙන් සමුගනී
+
+*2024-05-26 18:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197033) · `si`
+
+මෙරට ප්‍රවීණ සංගීතඥයෙකු වන ආනන්ද පෙරේරා මහතා අභාවප්‍රාප්ත වී තිබේ.
+
+◼️
+
+[Data](articles/b34c6589.json)
+
+---
+
+### ඉන්දියාවේදී ශ්‍රී ලාංකිකයෙකු අත්අඩංගුවට
+
+*2024-05-26 18:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197032) · `si`
+
+ව්‍යාජ ලිපි ලේඛන සකස් කිරීමේ ජාවාරමක නිරත වූ ශ්‍රි ලාංකිකයෙකු ඉන්දියාවේ කර්නාටක ප්‍රාන්තයේ දී අත්අඩංගුවට ගෙන තිබේ.
+
+උමේෂ් බාලා රවින්ද්‍රන් නැමැති 45 හැවිරිදි අදාළ පුද්ගලයා ඉන්දියාවේ මධ්‍යම අපරාධ කාර්යාංශය මගින්න් අත්අඩංගුවට ගෙන ඇති බව ඉන්දීය මාධ්‍ය වාර්තා කර තිබේ.
+
+2010 වසරේ ඉන්දියාවට ගොස් ඇති මෙම ශ්‍රි ලාංකිකයා රජයේ ලියකියවිලි නීති විරෝධි ලෙස සකස් කිරිමේ ජාවාරම සම්බන්ධයෙන් 2014 වසරේ දීද අත්අඩංගුවට ගෙන තිබූ අතර පසුව ඔහු ශ්‍රී ලංකාවට පිටුවහල් කර තිබුණි.
+
+2016 වසරේ නීතිවිරෝධී ලෙස යළි ඉන්දියාවට සංක්‍රමණය වී ඇති මොහු කර්නාටක ප්‍රාන්තයේ නිවාස සංකීර්ණයක රැඳී සිටිමින් එම ජාවාරම සිදුකර ඇති බව එරට පොලිසිය සිදුකළ විමර්ශනවලදී අනාවරණය වී ඇත.
+
+සැකකරු සතුව තිබි නීති විරෝධී ලෙස සකස් කරන ලද ලිපි ලේඛන, රියදුරු බලපත්‍ර, ජංගම දුරකතන මෙන්ම පිස්තෝල වර්ගයේ ගිනි අවියක් ද පොලිස් භාරයට ගෙන තිබේ.
+
+සැකකාර ශ්‍රි ලාංකිකයා අත්අඩංගුවට ගැනීමත් සමග ඔහුගේ බිරිඳ, දරුවන් තිදෙනා ද සමඟ ශ්‍රි ලංකාවට පළායාමට උත්සහ දරා ඇති අතර ගුවන්තොටුපොළේ රැඳී සිටියදී ඔවුන් ආරක්ෂක අංශ භාරයට ගෙන ඇති බව ඉන්දීය මාධ්‍ය වාර්තා කළේය.
+
+◼️
+
+[Data](articles/f3b22a1e.json)
+
+---
+
+### Sri Lanka tea production down 15-pct in April
+
+*2024-05-26 17:56:00* · [`economynextcom`](https://economynext.com/sri-lanka-tea-production-down-15-pct-in-april-164780/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s tea production fell 14.95 percent in April 2024 from a year ago to 21.46 million kilograms, led by high growns, industry data shows.
+
+High grown tea production fell from 6.49 million kilograms to 4.58 million kilograms, according to industry data published by Ceylon Tea Brokers, a Colombo-based commodities brokerage.
+
+Medium growns fell from 4.51 to 3.55 and low growns fell to 13.32 from 14.92 million kilograms.
+
+Tea production for the first four months were down 6.2 percent to 79.7 million kilograms, with growth seen up to the first quarter. (Colombo/May26/2024)
+
+◼️
+
+[Data](articles/7212e7e5.json)
+
+---
+
+### Israel attacks rockets
 
 *2024-05-26 17:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197031) · `si`
 
-ඊශ්‍රායලයේ ටෙල් අවීව් නගරය වෙත පලස්තීන හමාස් සටන්කාමීන් විසින් රොකට් ප්‍රහාර එල්ලකළ බව වාර්තා වෙයි.
+In a rare escalation, Palestinian Hamas militants launched rockets at Tel Aviv, marking their first attack on Israel in four months. The rockets were fired from the Ruffa area, signaling a significant development in the ongoing conflict.
 
-මාස හතරකට පමණ කාලයක් තුළ හමාස් සටන්කාමීන් ඊශ්‍රායලය වෙත රොකට් ප්‍රහාර එල්ලකර ඇත්තේ පළමු වරටය.
+🟩
 
-හමාස් සටන්කාමීන් පවසා ඇත්තේ ඔවුන් රෆා ප්‍රදේශයේ සිට එම ප්‍රහාර එල්ලකළ බවයි.
+It is reported that Palestinian Hamas militants had launched rockets at Tel Amavia town in Israel.
+
+For about four months, Hamas militants had launched rockets to Israel for the first time.
+
+Hamas militants have said that they had launched the attacks from Ruffa area.
 
 ◼️
 
 [Data](articles/b5d39e3d.json)
+
+[Extended Data](ext_articles/b5d39e3d.ext.json)
+
+---
+
+### Gazette on providing property information of citizens is not imposition of new laws
+
+*2024-05-26 17:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Gazette-on-providing-property-information-of-citizens-is-not-imposition-of-new-laws/108-283367) · `en`
+
+Colombo, May 26 (Daily Mirror) - Although the President issued a gazette requiring citizens of Sri Lanka to provide details of their movable and immovable properties to the Inland Revenue Department (IRD) starting from July 1, this is not an imposition of new laws. It is simply an exercise of the existing right to collect such information, Finance State Minister Ranjith Siyambalapitiya said.
+
+Addressing the media he said that these rules will never be implemented to affect the past.
+
+He said this circular is a re-implementation of a law that was inactive, and accordingly, the announcement of the implementation of the gazette notification issued on March 21 was made by the IRD Commissioner on May 21.
+
+Accordingly, with effect from July 1, the institutions such as the Land Registry Department, Company Registry Department, Stock Market, Bank and Non-Bank Financial Institutions and Motor Transport Department must report the information about their day-to-day transactions to the IRD.
+
+...
+
+[Data](articles/c45b13a6.json)
+
+---
+
+### Gazette issued on providing details of persons, institutions movable, immovable properties to IRD
+
+*2024-05-26 17:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Gazette-issued-on-providing-details-of-persons-institutions-movable-immovable-properties-to-IRD/108-283366) · `en`
+
+Colombo, May 26 (Daily Mirror) - The Government has issued the Gazette Notice (2376/25) related to providing details of movable and immovable property of individuals and institutions to the Inland Revenue Department (IRD).
+
+Accordingly, it is notified that the above information should be provided to the Inland Revenue Department from the first of July.
+
+The gazette notification was issued on May 21 by the President in his capacity as the Minister of Finance, Economic Stabilization and National Policies.
+
+According to the gazette notification, information on all movable and immovable properties of persons, including government institutions, must be provided as prescribed.
+
+...
+
+[Data](articles/76892eb1.json)
 
 ---
 
@@ -1838,13 +1932,13 @@ Justice Minister Vijayadasa Rajapakse has said that the presidential election wi
 
 *2024-05-26 07:05:00* · [`economynextcom`](https://economynext.com/sri-lanka-hotelier-wants-rupee-to-be-unit-of-account-to-enable-external-trade-164642/) · `en`
 
-ECONOMYNEXT – Sri Lanka’s unstable exchange rate is making it difficult for businesses to price output across time to foreign counter partes and widely expressed fears of future instability also dented investor confidence, a private entrepreneur said.
+ECONOMYNEXT – Sri Lanka’s unstable exchange rate is making it difficult for businesses to price output across time to foreign counter parties and widely expressed fears of future instability also dented investor confidence, a private entrepreneur said.
 
 Sri Lanka’s central bank has since September 2022 provided monetary stability including the elimination of forex shortages with deflationary policy by overshooting its 5 to 7 percent domestic inflation target, providing a strong foundation for growth and economic activities to recover.
 
 However, volatility in the exchange rate was proving troublesome for some businesses as the currency could no longer be used as a unit of account to denominate future prices.
 
-“I heard the word price stability. Yes, that’s good we have we have got that,” Gerard Ondaatjie, a business executive and hotelier said at a recent forum at the Central Bank.
+“I heard the word price stability. Yes, that’s good we have, we have got that,” Gerard Ondaatjie, a business executive and hotelier said at a recent forum at the Central Bank.
 
 ...
 
@@ -2201,113 +2295,5 @@ But today the Vesak is celebrating the country. But so far they are being treate
 [Data](articles/a3670b01.json)
 
 [Extended Data](ext_articles/a3670b01.ext.json)
-
----
-
-### Perahera elephant goes on rampage in Mawanella town
-
-*2024-05-25 23:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/99437/perahera-elephant-goes-on-rampage-in-mawanella-town) · `en`
-
-An elephant has reportedly gone on a rampage at the end of a ‘Vesak Perahera’ held in the Mawanella town tonight while a mahout has been critically injured and hospitalised after being attacked by the tusker.
-
-The mahout, who was critically injured in the attack by the rampaging elephant, has been admitted to the Mawanella Base Hospital.
-
-Ada Derana reporter said that the elephant in question, “Raja” belongs to the fleet of tuskers of the Sri Dalada Maligawa, Kandy.
-
-The incident had reportedly occurred at around 8.00 p.m. tonight at the end of the Perahera (procession).
-
-Ada Derana reporter said that the elephant was later seen marching down the streets of the Mawanella town in a panic, and has now been kept under special security at the market grounds.
-
-◼️
-
-[Data](articles/5353e87a.json)
-
-[Extended Data](ext_articles/5353e87a.ext.json)
-
----
-
-### Eighty years in Sri Lanka:The Life and Times of Fr. Vito Perniola SJ
-
-*2024-05-25 23:16:00* · [`islandlk`](http://island.lk/eighty-years-in-sri-lankathe-life-and-times-of-fr-vito-perniola-sj/) · `en`
-
-I always wonder how he did it? A simple, slender Italian priest who used the bus to get about. He was one who never compromised on discipline. A stickler for proper diction who spoke a manifold of Western and Oriental languages. A first-rate scholar who realized there was a single door one could walk in and outof between history and social linguistics. He embraced the Lankan heritage by becoming a distinguished citizen of the country just after independence.
-
-Generations not born here will laud and praise the memory of Father Vito Perniola of the Society of Jesus for his exemplary efforts in publishing 19 definitive volumes on the Catholic Church of Sri Lanka. Abstemious by nature, and frugal in food, drink, clothes, and lifestyle, Fr. Vito Perniola was a shining example of plain living and high thinking.
-
-...
-
-[Data](articles/c92243dc.json)
-
-[Extended Data](ext_articles/c92243dc.ext.json)
-
----
-
-### Lock Tonight to Main Street in Colombo
-
-*2024-05-25 23:13:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பில்-முக்கிய-வீதிகளுக்கு-இன்று-இரவு-பூட்டு/175-337839) · `ta`
-
-Due to bad weather, several roads in Colombo will be shut down tonight. The Colombo Brave Place has announced the closure of roads from Sir Lester James Peiris to Borella Maya Circuit, as stated by Niwal Dalal Dalatuwa.
-
-🟩
-
-Due to the inclement weather, many roads in Colombo will be closed tonight, police said.
-
-Accordingly, the Colombo Brave Place, Colombo, has decided to close the roads from Sir Lester James Peiris to Sir Lester James Peiris from the Borella Maya Circuit, Buddhist Magadhi, said Niwal Dalal Dalatuwa.. Remble
-
-◼️
-
-[Data](articles/57b894a0.json)
-
-[Extended Data](ext_articles/57b894a0.ext.json)
-
----
-
-### Machan arrested for death in Jaffna
-
-*2024-05-25 23:08:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/யாழில்-மோதலை-தடுக்கச்-சென்ற-இளைஞன்-உயிரிழப்பு-மச்சான்-கைது/71-337838) · `ta`
-
-In Jaffna, a 23-year-old, Varadarasa Newkson, was stabbed to death in a dispute between his father and husband. The victim tried to intervene but was injured. He was hospitalized but passed away untreated. The attacker was arrested and is being questioned by the police.
-
-🟩
-
-A 23 -year -old Varadarasa Newkson, a young man, has been killed by a knife in the Jaffna -Dawadi area.
-
-On the 2nd, the conflict between the young man's father and the young man's husband has become a kaikkal.
-
-The young man who observed it was trying to prevent the clash between the two and was injured.
-
-The victim was rescued and admitted to the Jaffna Bodhana Hospital for treatment and was treated on Friday without treatment.
-
-The Chunnakam police, who investigated the incident, arrested the man who had been arrested by the Mallakam Magistrate's Court and ordered the suspect to be interrogated.. Remble
-
-◼️
-
-[Data](articles/de49b557.json)
-
-[Extended Data](ext_articles/de49b557.ext.json)
-
----
-
-### Tamil boycott at Nuwara Eliya Zonal Education Workshop?
-
-*2024-05-25 22:59:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/நுவரெலியா-வலயக்-கல்வி-பணிமனையில்-தமிழ்-புறக்கணிப்பு/76-337837) · `ta`
-
-Nuwara Eliya Zonal Education Workshop faced a Tamil boycott due to alleged miscommunication and lack of transparency. Principals claimed directors failed to inform them adequately about meetings, leading to dissatisfaction. The situation escalated when a letter was sent on the day of the meeting, prompting educators to sign without reading it. The workshop officials canceled the meeting and promised bilingual announcements, but the damage was done, highlighting communication issues within the education system.
-
-🟩
-
-The Director of the Nuwara Eliya Zonal Education Workshop has expressed their dissatisfaction with the announcement of the meeting for the Principals of the Tamil school.
-
-The principals allege that many principals have brought to the notice of Nuwara Eliya district parliamentarians in this regard and that many letters have been obtained in recent years.
-
-The principals have accused the directors of the Zonal Education Workshop in the past that the directors of the Zonal Education Workshop have informed them of all the issues, including letters, and that the newly visited Zonal Education Director is continuing to engage in such activities.
-
-It is also revealed that the letter has been sent on the date of the meeting.. Therefore, the educators have expressed their displeasure over the letters sent through the Education Workshop without any responsibility and have signed the letter without reading the letter of the Zonal Education Director of the Education Workshop.
-
-...
-
-[Data](articles/4684d667.json)
-
-[Extended Data](ext_articles/4684d667.ext.json)
 
 ---

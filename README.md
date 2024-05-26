@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-26 19:03:39**
+As of **2024-05-26 18:52:05**
 
 ## Newspaper Stats
 
-*Scraped **26,378** Articles*
+*Scraped **26,377** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,37 +20,17 @@ adaderanalk | 3,028
 tamilmirrorlk | 3,095
 virakesarilk | 4,026
 dailymirrorlk | 4,162
-adaderanasinhalalk | 4,225
+adaderanasinhalalk | 4,224
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,356 (99.9%) of 26,378 articles have been extended.
+26,356 (99.9%) of 26,377 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-26 (Sunday)
-
-### බිහිසුණු නායයාම ගැන හදවත් කම්පා කරවන ආරංචියක්
-
-*2024-05-26 18:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197035) · `si`
-
-පැපුවා නිව්ගිනියාවේ සිදුවූ දැවැන්ත නායයාමෙන් පුද්ගලයින් 670 දෙනෙකු පමණ මියගොස් ඇති බවට එක්සත් ජාතීන්ගේ සංවිධානය සැකපළ කර තිබේ.
-
-පසුගිය සිකුරාදා දිනයේ අදාළ නායයාම සිදුවු අතර පුද්ගලයින් විශාල පිරිසක් සහ නිවාස රැසක් පස් කඳුවලට යටවී තිබුණි.
-
-මේ වනවිටත් ආදළ ස්ථානයේ ගලවා ගැනීමේ විශේෂ මෙහෙයුම් අඛණ්ඩව ක්‍රියාත්මක බව සදහන් වෙයි.
-
-කෙසේවෙතත් අදාළ ස්ථානයේ පරික්ෂණ සදහා ගොස් සිටින එක්සත් ජාතීන්ගේ සංවිධානයේ නියෝජිත කණ්ඩායම ප්‍රකාශ කර ඇත්තේ පුද්ගලයින් 670 දෙනෙකු පමණ මියගොස් ඇති බවට අනුමාන කළ හැකි බවය.
-
-නිවාස 150 කට වැඩි ප්‍රමාණයක් සම්පූර්ණයෙන්ම වැළලී ඇති බවද විදෙස් වාර්තා වැඩිදුරටත් සඳහන් කර ඇත.
-
-◼️
-
-[Data](articles/8585bf4c.json)
-
----
 
 ### යාපනයේ ගුරු සිරිත අධ්‍යාපන ක්‍රමය යළි ඇති කරනවා
 
@@ -2137,5 +2117,25 @@ Was brought under fire for several hours. With 12 children rescued from the hosp
 [Data](articles/7eecd0a2.json)
 
 [Extended Data](ext_articles/7eecd0a2.ext.json)
+
+---
+
+### U.S. screens record 2.95 million airline passengers in a day
+
+*2024-05-26 08:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/U-S-screens-record-2-95-million-airline-passengers-in-a-day/108-283354) · `en`
+
+WASHINGTON, May 26 (Reuters) - The U.S. Transportation Security Administration (TSA) said it screened 2.95 million airline passengers on Friday, the highest number ever on a single day.
+
+The record travel coincides with the Memorial Day weekend that marks the beginning of the U.S. summer travel season. Last week, a group representing major U.S. airlines forecast record summer travel with airlines expected to transport 271 million passengers, up 6.3% from last year.
+
+The TSA said Friday's travel broke a record set in November of nearly 2.91 million air passengers screened. Five of the 10 busiest ever travel days have been since May 16, the agency said.
+
+Airlines for America said U.S carriers plan to fly more than 26,000 daily flights this summer, up nearly 1,400 over 2023, or 5.6%, when they carried 255 million passengers. The summer travel season forecast is for June 1 to Aug. 31.
+
+...
+
+[Data](articles/f2df3677.json)
+
+[Extended Data](ext_articles/f2df3677.ext.json)
 
 ---

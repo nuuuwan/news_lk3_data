@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-26 17:18:36**
+As of **2024-05-26 17:34:08**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,220
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,341 (100.0%) of 26,345 articles have been extended.
+26,345 (100.0%) of 26,345 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -58,27 +58,37 @@ Meanwhile, Level 01 (Yellow) alerts have been issued for the following areas:
 
 [Data](articles/f45eca04.json)
 
+[Extended Data](ext_articles/f45eca04.ext.json)
+
 ---
 
-### සාකච්ඡාව කල්දැමූ බව හර්ෂ කියයි
+### Harsha says the discussion is postponed
 
 *2024-05-26 16:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197030) · `si`
 
-විදේශිකයින් සඳහා ඔන්ලයින් වීසා නිකුත්කිරීම සම්බන්ධයෙන් වූ ගැටලුකාරී වාතාවරණය සම්බන්ධයෙන් සොයාබැලීම සඳහා වූ සාකච්ඡාව යළිත් කල් දැමීමට සිදුව ඇති බව රජයේ මුදල් පිළිබඳ කාරක සභාව පවසයි.
+The discussion on online visas for foreigners, initially scheduled for Tuesday, has been postponed due to the unavailability of key officials from the Departments of Public Defense and Immigration. The meeting has been rescheduled for June 4, aiming to address concerns raised during the initial planning stages.
 
-එහි සභාපති පාර්ලිමේන්තු මන්ත්‍රී ආචාර්ය හර්ෂ ද සිල්වා මහතා සඳහන් කළේ අදාළ සාකච්ඡාව ලබන අඟහරුවාදා දිනයේ පැවැත්වීමට සැලසුම් කර තිබූ බවය.
+🟩
 
-කෙසේවෙතත් එදිනට මහජන ආරක්ෂක අමාත්‍යංශයේ සහ ආගමන විගමන දෙපාර්තමේන්තුවේ නිලධාරීන්ට සහභාගී විය නොහැකි බවට දැනුම් දී තිබේ.
+The Committee on Finance Committee has said that the discussion on the issue of online visas for foreigners has to be postponed.
 
-ඒ අනුව අදාළ සාකච්ඡාව ජුනි මස 4වන දිනට කල්දමන බව පාර්ලිමේන්තු මන්ත්‍රී ආචාර්ය හර්ෂ ද සිල්වා මහතා සඳහන් කළේය.
+The Chairman of the Parliament Dr. Harsha de Silva said that the discussion was planned to be held on Tuesday.
 
-විදේශිකයින් සඳහා ඔන්ලයින් වීසා නිකුත්කිරීම සම්බන්ධයෙන් පසුගිය දා ඇතිවූ ගැටලුකාරී වාතාවරණය සම්බන්ධයෙන් සොයාබැලීම සඳහා රජයේ මුදල් පිළිබඳ කාරක සභාවට අදාළ වැඩපිළිවෙළ ක්‍රියාත්මක කරන රාජ්‍ය ආයතනවල ප්‍රධානීන් කැඳවා තිබුණි.
+However, the officials of the Department of Public Defense and the Department of Immigration and Immigration and Immigration have not been able to participate.
 
-පළමු අවස්ථාවේ එම සාකච්ඡාව සඳහා අදාළ නිලධාරීන් පැමිණිය ද පසුගිය 14 වන දින පැවති සාකච්ඡාව සඳහා ඔවුන් නොපැමිණී බව රජයේ මුදල් පිළිබඳ කාරක සභාව සඳහන් කළේය.
+Accordingly, the discussion will be postponed to June 4, MP Dr. Harsha de Silva said.
+
+The heads of state institutions that are implementing the initiatives to look into the issue of online visas for foreign visas have been convened.
+
+The Selection of the Public Finance Committee on the government said that the relevant officials came to the discussion on the first discussion on the 14th.
+
+Accordingly, the relevant officers had informed the relevant officials to return to the negotiations and that they could not participate in discussions on that day.
 
 ...
 
 [Data](articles/e8e03cde.json)
+
+[Extended Data](ext_articles/e8e03cde.ext.json)
 
 ---
 
@@ -104,17 +114,25 @@ A special gazette has been issued by the Commissioner of Labor to ensure that th
 
 ---
 
-### “ மாயாஜால அரசியலை ஜனாதிபதி நடத்தவில்லை”
+### “The president does not hold magical politics”
 
 *2024-05-26 16:31:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாயாஜால-அரசியலை-ஜனாதிபதி-நடத்தவில்லை/175-337911) · `ta`
 
-“வானை வில்லாக வளைப்பேன், ஒட்டுமொத்த கடல் நீரையும் சொம்புக்குள் அடக்குவேன் என்றெல்லாம் மந்திர வார்த்தைகளைக்கூறி மாயாஜால அரசியல் நடத்தாமல்,  உண்மையைக்கூறி யதார்த்தத்துக்கு பொருத்தமான அரசியலையே ஜனாதிபதி நடத்திவருகின்றார் என ஜனாதிபதியின் கீழ் இயங்கும் தொழிற்சங்க முடிவுகளை எடுக்கும் மூன்று பேர் கொண்ட குழுவின் உறுப்பினரும், ஐக்கிய தேசியக் கட்சியின் இரத்தினபுரி மாவட்ட அமைப்பாளருமான சுப்பையா ஆனந்தகுமார் தெரிவித்துள்ளார்.
+The statement emphasizes the practical approach of the UNP President towards politics, rejecting any form of magical solutions. It highlights the importance of unity and giving President Ranil Wickremesinghe a chance to address issues like plantation workers' wages. The mention of a labor commissioner's gazette and the finance minister's stance on canceling plantation company leases indicates a move towards ensuring fair treatment for plantation workers. The speaker calls for understanding that while plantation companies manage the land, ultimate responsibility lies with the government. They stress the need for the current leadership to continue to prevent the country from financial ruin, urging support for President Wickremesinghe to lead the nation forward.
 
-ஜனாதிபதியின் பயணப் பாதையை மாற்ற முற்படுவது நாட்டுக்கே ஆபத்தாக அமையும். எனவே, அனைவரும் ஒன்றிணைந்து ரணிலுக்கு பேராதரவு வழங்க வேண்டும் என்றும் பெருந்தோட்டத் தொழிலாளர்களின் சம்பளப் பிரச்சினைக்கு நிலையானதொரு தீர்வு பொறிமுறையை ஜனாதிபதி நிச்சயம் உருவாக்குவார் எனவும் நம்பிக்கை தெரிவித்துள்ளார்.
+🟩
+
+"The President of the United National Party (UNP) and the organizer of the United National Party (UNP), said," The president is conducting the politics of the union under the president, "the president is conducting the politics of the reality of reality, without any magical politics."
+
+The attempt to change the president's travel path can be a danger to the country. Therefore, he hopes that everyone should unite and give Ranil a chance and the President will definitely create a fixed solution to the plantation workers' pay issue.
+
+A special gazette has been issued by the Commissioner of Labor to ensure that the plantation workers should be paid a day of Rs.. In this context, Finance Minister Ranjith Siyambalapitiya has said that the lease agreement of plantation companies will be canceled.. We welcome this. We will give him our full support in this regard.
 
 ...
 
 [Data](articles/fcae0e90.json)
+
+[Extended Data](ext_articles/fcae0e90.ext.json)
 
 ---
 
@@ -172,21 +190,27 @@ Due to the land issue, 56 families living in the village of Keppapilavu, includi
 
 ---
 
-### கேப்பாப்பிலவில் நடந்து என்ன? களத்தில் குதித்தார் ஜனாதிபதி
+### What's going on in Keppapila?President
 
 *2024-05-26 16:27:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கேப்பாப்பிலவில்-நடந்து-என்ன-களத்தில்-குதித்தார்-ஜனாதிபதி/175-337910) · `ta`
 
-ஜனாதிபதி ரணில் விக்ரமசிங்க ஞாயிற்றுக்கிழமை (26) முல்லைத்தீவு மாவட்டத்தில் "உறுமய" வேலைத்திட்டத்தின் கீழ் காணி உறுதிப் பத்திரங்களை வழங்கும் நிகழ்வில் பங்கேற்பதற்காக புதுக்குடியிருப்பு மத்திய மகா வித்தியாலயத்திற்குச் சென்ற போது. ஜனாதிபதியைச் சந்திக்க வேண்டும் எனக்கூறி அப்பகுதியைச் சேர்ந்த இரண்டு பெண்கள், கல்லூரி முன் ஆர்ப்பாட்டத்தில் ஈடுபட்டனர்.
+In Keppapila, President Ranil Wickremesinghe addressed a land dispute affecting 56 families under the "Urumaya" program. Protesters met him, and he promised swift action, noting ongoing efforts to resolve land issues in the Northern Province.
 
-இது குறித்து அறிந்த வடமாகாண ஆளுநர் பி. எஸ். எம். சார்ள்ஸ், இரு பெண்களும் இருந்த இடத்துக்குச் சென்று அவர்களின் பிரச்சினை என்னவென்று வினவ, அதன்போது அவர்களின் பிரச்சினையை ஜனாதிபதியிடம் முன்வைக்க வேண்டும் எனக் குறிப்பிட்டனர்.
+🟩
 
-அதனையடுத்து, வடமாகாண ஆளுநரால் இது குறித்து ஜனாதிபதிக்கு அறிவிக்கப்பட்டதையடுத்து, ஜனாதிபதி ரணில் விக்கிரமசிங்க போராட்டம் நடைபெற்ற இடத்துக்குச் சென்று அவர்களின் பிரச்சினைகளைக் கேட்டறிந்தார்.
+President Ranil Wickremesinghe visited the Pudukkudiyiruppu Central Maha Vidyalaya to participate in the issue of land guarantees under the "Urumaya" program in Mullaitivu district on Sunday (26). Two women from the area staged a protest in front of the college demanding the president to meet.
 
-காணிப் பிரச்சினை காரணமாக தாம் உட்பட கேப்பாப்பிலவு கிராமத்தில் வசிக்கும் 56 குடும்பங்கள் கடும் அழுத்தங்களுக்கு உள்ளாகியுள்ளதாகவும், எனவே இதற்கு உடனடியாக தீர்வு காண ஏற்பாடு செய்யுமாறும் குறித்த பெண்கள் ஜனாதிபதியிடம் வேண்டுகோள் விடுத்தனர்.
+Northern Province Governor B. S.. M.. Charles went to the place where the two women were, and asked what their problem was, and that they should present their issue to the President.
+
+Subsequently, the President of the Northern Province was informed by the Governor of the Northern Province, President Ranil Wickremesinghe went to the site of the protest and heard about their problems.
+
+Due to the land issue, 56 families living in the village of Keppapilavu, including them, have been under heavy pressure and therefore appealed to the president to arrange for an immediate solution.
 
 ...
 
 [Data](articles/18a4eee4.json)
+
+[Extended Data](ext_articles/18a4eee4.ext.json)
 
 ---
 

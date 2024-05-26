@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-27 02:03:39**
+As of **2024-05-27 02:18:28**
 
 ## Newspaper Stats
 
-*Scraped **26,431** Articles*
+*Scraped **26,434** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 265
 newsfirstlk | 363
 islandlk | 1,431
 economynextcom | 1,511
-dailyftlk | 1,543
+dailyftlk | 1,546
 adalk | 2,247
 adaderanalk | 3,030
 tamilmirrorlk | 3,099
@@ -26,11 +26,37 @@ adaderanasinhalalk | 4,234
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,431 (100.0%) of 26,431 articles have been extended.
+26,431 (100.0%) of 26,434 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-27 (Monday)
+
+### Hydra-headed network of new institutions in Economic Transformation Bill
+
+*2024-05-27 01:57:48* · [`dailyftlk`](https://www.ft.lk/columns/Hydra-headed-network-of-new-institutions-in-Economic-Transformation-Bill/4-762194) · `en`
+
+Given the massively controversial nature of some of the foreign direct investment being negotiated by this Government, those who question what looks like the unseemly hurry to enact this Bill, have a point
+
+The recent gazette on Economic Transformation, Part II of 10 May 2024 issued on 14 May by the current Government is being hotly debated both inside and outside of Parliament since it is sought to be included in our corpus of laws and therefore assumes a greater interest and significance not usually accorded to policy.
+
+...
+
+[Data](articles/764d36cb.json)
+
+---
+
+### Gen Z and Y will decide new President
+
+*2024-05-27 01:54:40* · [`dailyftlk`](https://www.ft.lk/columns/Gen-Z-and-Y-will-decide-new-President/4-762193) · `en`
+
+The trending theme in Sri Lanka in the recent past are the probable alliances and crossovers between political parties/politicians targeting the Presidential elections 2024. Whilst there can be merit to this approach of influencing a Sri Lankan voter, what many forget is that this type of ‘consumer behaviour’ will not be the reality this year. For instance, a research insight shows that when voting happens in Sri Lanka, the floating vote is around forty percent. Some speculate that the floating percentage can be higher given the low confidence the public has towards politicians. Let’s accept the fact that environmental conditions together with poor decision making by politicians made Sri Lanka become a bankrupt state. The IMF clearly stipulates that the Governance Diagnostic Assessment report reveals severe Governance weaknesses and corruption vulnerabilities across functions contributed to the financial collapse of Sri Lanka.
+
+...
+
+[Data](articles/e9a94d66.json)
+
+---
 
 ### Customs Department to commence auctions online this week: State Minister
 
@@ -125,6 +151,26 @@ Encouraging recipients to safeguard the freehold deeds from the “Heritage” p
 [Data](articles/0d9b6ce3.json)
 
 [Extended Data](ext_articles/0d9b6ce3.ext.json)
+
+---
+
+### “Operation Sajaba”; Blueprint for Re-unification of the Green Party
+
+*2024-05-27 00:50:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Operation-Sajaba-Blueprint-for-Re-unification-of-the-Green-Party/172-283381) · `en`
+
+President Ranil Wickremesinghe welcomed to the Ceylon Workers’ Congress May Day rally at Kotagala
+
+In the 2015 elections, Wickremesinghe topped the list of Colombo  district  candidates with over 500,000 preference votes. Yet Ranil too  was buried in the 2020 avalanche of defeat. Ranil whose detractors used  to ridicule him in the past as “Mr.Bean” and ‘serial loser” was  virtually written off. It was said that Ranil Wickremesinghe’s political  career had ended
+
+The Aragalaya had been launched with the demand “Gota go home” or “Go Home Gota”. This objective was realised in July 2022. Gotabaya Rajapaksa fled the country and resigned from abroad as President. Ranil took over as acting president on  July 14, 2022
+
+Sri Lanka’s  United National Party (UNP) suffered a humiliating electoral defeat in the 2020 Parliamentary elections. Electoral debacles were nothing new to the UNP which is  referred to by some as the grand old party.
+
+...
+
+[Data](articles/7dd95acf.json)
+
+[Extended Data](ext_articles/7dd95acf.ext.json)
 
 ---
 
@@ -254,26 +300,6 @@ Given these circumstances, many of our people hardly ever opposed the freeing of
 
 ---
 
-### “Operation Sajaba”; Blueprint for Re-unification of the Green Party
-
-*2024-05-27 00:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Operation-Sajaba-Blueprint-for-Re-unification-of-the-Green-Party/172-283381) · `en`
-
-In the 2015 elections, Wickremesinghe topped the list of Colombo  district  candidates with over 500,000 preference votes. Yet Ranil too  was buried in the 2020 avalanche of defeat. Ranil whose detractors used  to ridicule him in the past as “Mr.Bean” and ‘serial loser” was  virtually written off. It was said that Ranil Wickremesinghe’s political  career had ended
-
-The Aragalaya had been launched with the demand “Gota go home” or “Go Home Gota”. This objective was realised in July 2022. Gotabaya Rajapaksa fled the country and resigned from abroad as President. Ranil took over as acting president on  July 14, 2022
-
-President Ranil Wickremesinghe welcomed to the Ceylon Workers’ Congress May Day rally at Kotagala
-
-Sri Lanka’s  United National Party (UNP) suffered a humiliating electoral defeat in the 2020 Parliamentary elections. Electoral debacles were nothing new to the UNP which is  referred to by some as the grand old party.
-
-...
-
-[Data](articles/7dd95acf.json)
-
-[Extended Data](ext_articles/7dd95acf.ext.json)
-
----
-
 ### 2024-05-26 (Sunday)
 
 ### Yupun Abeykoon sprinting towards Paris 2024
@@ -311,6 +337,20 @@ We have just witnessed a colourful Vesak amid heavy showers. Amidst the economic
 [Data](articles/df71e6e3.json)
 
 [Extended Data](ext_articles/df71e6e3.ext.json)
+
+---
+
+### Gamini Karunathilake offers practical handbook on credit evaluation
+
+*2024-05-26 23:15:53* · [`dailyftlk`](https://www.ft.lk/columns/Gamini-Karunathilake-offers-practical-handbook-on-credit-evaluation/4-762164) · `en`
+
+The book is useful not only to practicing bankers but also to students of banking and the general readers. Those who criticise banks for following unwieldy, time-consuming methods of credit evaluation and sanctioning will learn, by mastering this book, why banks have been compelled to do so
+
+Professionals in retirement are used to sharing their experiences in the form of manuals or handbooks with readers. Bankers have been very generous in doing so. The latest to add his name to this group of bankers has been Gamini Karunathilake who had been a senior officer of the Bank of Ceylon and later, the Managing Director of its subsidiary, Merchant Bank of Sri Lanka. He has released the second of such books under the title ‘Principles of Bank Credit Evaluation and Credit Structuring: A Practical Approach’. His first book has also been in the same theme, ‘The Law and Practice of Bank Securities and Recoveries’, published in 2018.
+
+...
+
+[Data](articles/521d2c2b.json)
 
 ---
 
@@ -2155,67 +2195,5 @@ In January last year, we operated a mobile service in Nuwara Eliya district.
 [Data](articles/4ef48440.json)
 
 [Extended Data](ext_articles/4ef48440.ext.json)
-
----
-
-### International parties have lost credibility: Amnesty International Secretary General
-
-*2024-05-26 15:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/184518) · `ta`
-
-Amnesty International's Secretary General criticizes international parties for losing credibility due to inconsistent stances influenced by global politics, failing to adequately support victims.
-
-🟩
-
-Amnesty International Secretary General of the International Council Agnes Kalamart Weerakesari said in a comment that the international parties have lost their credibility for the victims of the victims of the fact that the international parties are taking different positions in accordance with global political environment.
-
-◼️
-
-[Data](articles/3b8fd5dc.json)
-
-[Extended Data](ext_articles/3b8fd5dc.ext.json)
-
----
-
-### The their purpose is to develop the Northern Province
-
-*2024-05-26 15:00:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வடமாகாணத்தை-அபிவிருத்தி-செய்வதே-தமது-நோக்கம்/175-337900) · `ta`
-
-President Ranil Wickremesinghe aims to elevate the Northern Province's healthcare standards akin to the Western Province. He inaugurated a Medical Rehabilitation center and announced the opening of four medical units in the North. The Vavuniya Hospital will transform into a teaching hospital, accompanied by a new medical faculty at Vavuniya University.
-
-🟩
-
-President Ranil Wickremesinghe said his aim was to develop the Northern Province as a province with high quality health services like the Western Province.
-
-He also said at the inauguration of the Medical Rehabilitation and Psychiatric Development Center constructed at the Mankulam Resource Hospital on Sunday (26) that 4 medical units have been opened in the North and the Vavuniya Hospital will be converted into a teaching hospital and a new medical faculty will be opened at the Vavuniya University on Sunday (26).
-
-◼️
-
-[Data](articles/d072d5a5.json)
-
-[Extended Data](ext_articles/d072d5a5.ext.json)
-
----
-
-### Special investigation
-
-*2024-05-26 14:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197026) · `si`
-
-A special committee is investigating potential links between individuals in Sri Lanka and the ISI terror group. This comes after four members of the Sri Lankan ISIS were arrested while planning an attack in Gujarat, India. Further investigations are ongoing to identify more individuals connected to the ISIS terrorist organization.
-
-🟩
-
-IGP Deshabandu Tennakoon says that a special committee has been appointed to find out whether there are persons involved in ISI terror organization.
-
-The IGP was speaking at a search for Kaduwela today (26).
-
-Four members of the Sri Lankan ISIS terrorist organization was arrested in the country of Sri Lankan ISIS terrorist to the city of Ahmedabad to launch an attack in Gujarat State.
-
-Accordingly, another persons involved in ISIS terrorist organization are in the investigation.
-
-◼️
-
-[Data](articles/4d8363e1.json)
-
-[Extended Data](ext_articles/4d8363e1.ext.json)
 
 ---

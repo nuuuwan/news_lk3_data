@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-26 09:04:02**
+As of **2024-05-26 09:18:42**
 
 ## Newspaper Stats
 
-*Scraped **26,276** Articles*
+*Scraped **26,277** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,62 +19,98 @@ adalk | 2,235
 adaderanalk | 3,016
 tamilmirrorlk | 3,075
 virakesarilk | 4,006
-dailymirrorlk | 4,146
+dailymirrorlk | 4,147
 adaderanasinhalalk | 4,205
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,269 (100.0%) of 26,276 articles have been extended.
+26,276 (100.0%) of 26,277 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-26 (Sunday)
 
-### ஜனாதிபதியை சந்தித்தார் விக்னேஸ்வரன்
+### Wigneswaran met the president
 
 *2024-05-26 08:49:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/ஜனாதிபதியை-சந்தித்தார்-விக்னேஸ்வரன்/71-337862) · `ta`
 
-தமிழ் மக்கள் தேசிய கூட்டணியின் தலைவரும் வடமாகாண முன்னாள் முதலமைச்சருமான ஓய்வுபெற்ற உயர்நீதிமன்ற நீதியரசரான பாராளுமன்ற உறுப்பினர் சி.வி.விக்னேஸ்வரன், ஜனாதிபதி ரணில் விக்கிரமசிங்கவை சந்தித்துப் பேச்சுவார்த்தை நடத்தியுள்ளார்.
+Retired High Court Judge CV Wigneswaran, leading the Tamil People's National Alliance and ex-Chief Minister of the Northern Province, discussed matters with President Ranil Wickremesinghe.
+
+🟩
+
+Retired High Court Judge CV Wigneswaran, the leader of the Tamil People's National Alliance and former Chief Minister of the Northern Province, has held talks with President Ranil Wickremesinghe.
 
 ◼️
 
 [Data](articles/29b732d5.json)
 
+[Extended Data](ext_articles/29b732d5.ext.json)
+
 ---
 
-### கருக்கலைப்பு மாத்திரைகளுக்கு கட்டுப்பாடு
+### Control for abortion pills
 
 *2024-05-26 08:45:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/கருக்கலைப்பு-மாத்திரைகளுக்கு-கட்டுப்பாடு/50-337861) · `ta`
 
-டாக்டர்களின் பரிந்துரை கடிதம் இன்றி இந்த மாத்திரை வழங்குபவர்களுக்கு 5 ஆண்டுகள் வரை சிறை தண்டனை விதிக்கப்படுமென அறிவிக்கப்பட்டுள்ளது.
+In Louisiana, a bill restricting abortion pills has passed, with Governor Jeb Landeri's approval. The law classifies these pills as dangerous, leading to potential 5-year prison sentences for suppliers without a doctor's recommendation. This move has garnered support from various factions.
 
-இதனால் இந்த மாத்திரைகளுக்கு கட்டுப்பாடு விதிப்பது குறித்த மசோதா லூசியானா மாகாண சட்டமன்றத்தில் தாக்கல் செய்யப்பட்டது.
+🟩
 
-இந்த மசோதா வெற்றிகரமாக நிறைவேறியதையடுத்து கவர்னர் ஜெப் லாண்ட்ரி அதற்கு ஒப்புதல் அளித்தார். இதன் மூலம் இந்த இரு மாத்திரைகளும் ஆபத்தான பொருட்கள் பட்டியலில் சேர்க்கப்பட்டு உள்ளன.
+It has been announced that the pill will be sentenced to five years in prison without doctors' recommendation.
 
-எனவே டாக்டர்களின் பரிந்துரை கடிதம் இன்றி இந்த மாத்திரை வழங்குபவர்களுக்கு 5 ஆண்டுகள் வரை சிறை தண்டனை விதிக்க வழிவகை செய்யப்பட்டு உள்ளது. இதற்கு பல்வேறு தரப்பினரும் ஆதரவு தெரிவித்து வருகின்றனர்.
+The bill on restrictions on these pills was filed in the Louisiana Provincial Legislative Assembly.
+
+Governor Jeb Landeri approved the success of the bill successfully. These two pills are included in the list of dangerous products.
+
+Therefore, the pill suppliers have been sentenced to 5 years in prison without doctors' recommendation letter.. Various parties are supporting this.
 
 ◼️
 
 [Data](articles/8290fbf0.json)
 
+[Extended Data](ext_articles/8290fbf0.ext.json)
+
 ---
 
-### மருத்துவமனையில் பயங்கர தீ விபத்து: 7 பச்சிளங் குழந்தைகள் பலி
+### 7 Bachlang children killed in hospital
 
 *2024-05-26 08:40:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மருத்துவமனையில்-பயங்கர-தீ-விபத்து-7-பச்சிளங்-குழந்தைகள்-பலி/175-337860) · `ta`
 
-குழந்தைகள் மருத்துவமனையில் சனிக்கிழமை (25) இரவு 11.32 மணிக்கு பயங்கர தீ விபத்து ஏற்பட்டது. இந்த தீ விபத்து குறித்து தகவல் கிடைத்ததும் விரைந்து வந்த தீ அணைப்பு வீரர்கள் தீயை அணைக்கும் பணியில் ஈடுபட்டனர்.
+A devastating fire broke out in a children's hospital on Saturday night, killing 7 children and injuring others. Firefighters battled the blaze for hours before it was contained. Additionally, a separate fire incident in Gujarat resulted in 27 fatalities, adding to the tragedy.
 
-பல மணி நேரம் போராடி தீ கட்டுக்குள் கொண்டு வரப்பட்டது. மருத்துவமனையில் இருந்து 12 குழந்தைகள் மீட்கப்பட்ட நிலையில், 7 குழந்தைகள் உயிரிழந்தன.ஏனைய குழந்தைகளுக்கு தீவிர சிகிச்சை அளிக்கப்பட்டு வருகிறது. தீ விபத்துக்கான காரணம் இன்னும் கண்டறியப்படவில்லை.
+🟩
 
-குஜராத்தில் சனிக்கிழமை (25) விளையாட்டு திடலில் ஏற்பட்ட தீ விபத்தில் சிக்கி 27 பேர் பலியான சம்பவம் பெரும் சோகத்தை ஏற்படுத்தியது. இந்த சோக நிகழ்வு நடைபெற்ற அதேநாளில் டெல்லி மருத்துவமனையிலும் தீ விபத்து ஏற்பட்டு 7 குழந்தைகள் உயிரிழந்து இருப்பது பெரும் அதிர்ச்சியை ஏற்படுத்தியுள்ளது.
+Children's Hospital caught fire on Saturday (25) at 11.32 pm. Upon receiving information about the fire, the firefighters were working on extinguishing the fire.
+
+Was brought under fire for several hours. With 12 children rescued from the hospital, 7 children died. All children are being treated intensively. The cause of the fire has not yet been detected.
+
+27 people were killed in a fire in Gujarat on Saturday (25). The tragedy of the tragic event has caused a shock to the death of 7 children in the Delhi Hospital.
 
 ◼️
 
 [Data](articles/7eecd0a2.json)
+
+[Extended Data](ext_articles/7eecd0a2.ext.json)
+
+---
+
+### U.S. screens record 2.95 million airline passengers in a day
+
+*2024-05-26 08:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/U-S-screens-record-2-95-million-airline-passengers-in-a-day/108-283354) · `en`
+
+WASHINGTON, May 26 (Reuters) - The U.S. Transportation Security Administration (TSA) said it screened 2.95 million airline passengers on Friday, the highest number ever on a single day.
+
+The record travel coincides with the Memorial Day weekend that marks the beginning of the U.S. summer travel season. Last week, a group representing major U.S. airlines forecast record summer travel with airlines expected to transport 271 million passengers, up 6.3% from last year.
+
+The TSA said Friday's travel broke a record set in November of nearly 2.91 million air passengers screened. Five of the 10 busiest ever travel days have been since May 16, the agency said.
+
+Airlines for America said U.S carriers plan to fly more than 26,000 daily flights this summer, up nearly 1,400 over 2023, or 5.6%, when they carried 255 million passengers. The summer travel season forecast is for June 1 to Aug. 31.
+
+...
+
+[Data](articles/f2df3677.json)
 
 ---
 
@@ -150,21 +186,29 @@ Fairly strong winds of about 30-40 kmph can be expected at times elsewhere of th
 
 ---
 
-### யாழில் தமிழ் பொலிஸாரை கட்டாயப்படுத்தி பிரித் ஓதவைப்பு?
+### Forced Tamil police in Jaffna
 
 *2024-05-26 08:12:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/யாழில்-தமிழ்-பொலிஸாரை-கட்டாயப்படுத்தி-பிரித்-ஓதவைப்பு/71-337847) · `ta`
 
-யாழ்ப்பாணம் காங்கேசன்துறை பகுதியில் சட்டவிரோதமான முறையில் அமைக்கப்பட்டுள்ள கெமுனு விகாரையில்  நடைபெற்ற வெசாக் வழிபாட்டிற்காக தமிழ் பொலிஸ் உத்தியோகஸ்தர்களை கட்டாயப்படுத்தி அழைத்து செல்லப்பட்டதாக தெரிவிக்கப்படுகிறது.
+Tamil police in Jaffna were forced to attend a Vesak celebration at an unauthorized temple in Kankesanthurai, despite the area being a high-security zone controlled by the military. The military built structures near the Kumara Temple without permission. Now, the area is open to the public, and locals are worshipping there. On Vesak Day, a Piku (a type of musical instrument) was brought from Colombo, and Tamil prayers were recited. The Tamil police were ordered to participate in the Kankesanthurai region and were made to recite in Tamil.
 
-உயர் பாதுகாப்பு வலயமாக இராணுவ கட்டுப்பாட்டு பகுதிக்குள் குமார கோவில் இருந்தவேளை, ஆலயத்திற்கு முன்பாக இராணுவத்தினரால் கெமுனு விகாரை எந்தவிதமான அனுமதிகளும் பெறப்படாது நிர்மாணிக்கப்பட்டது.
+🟩
 
-தற்போது குறித்த பகுதிகள் பொதுமக்களிடம் கையளிக்கப்பட்டு அப்பகுதி மக்கள் மீள்குடியேறி குமார கோவிலில் பூஜை வழிபாடுகளில் ஈடுபட்டு வருகின்ற நிலையில் , குறித்த விகாரையில் வழிபாடுகள் இடம்பெற்று வருகின்றன.
+It is reported that the Tamil police officers have been taken to the Vesak worship at the Gemunu Vihara, which is illegally set up in the Kankesanthurai area in Jaffna.
 
-இந்நிலையில் வெசாக் தினத்தில் கொழும்பில் இருந்து பிக்கு ஒருவர் அழைத்து வரப்பட்டு , தமிழில் பிரித் ஓதி வழிபாடுகள் இடம்பெற்றன.
+While the Kumara Temple was inside the military control area as a high security zone, the military was constructed by the military in front of the temple without any permissions.
 
-...
+At present, the area is being handed over to the public and the people of the area are resettled and worshiping the worship of the Kumara Temple.
+
+In this case, one of the Piku was brought from Colombo on Vesak Day and the Tamil recitation was recited in Tamil.
+
+It is reported that the Tamil police have been ordered to participate in the area under the Kankesanthurai police regional areas and the Tamil police have been forcibly recited in Tamil.
+
+◼️
 
 [Data](articles/ed0b6a2b.json)
+
+[Extended Data](ext_articles/ed0b6a2b.ext.json)
 
 ---
 
@@ -216,15 +260,21 @@ He said this while attending a function held in Hatton on Saturday (25)
 
 ---
 
-### ஒக்டோபர் 17 ஆம் திகதி ஜனாதிபதி தேர்தல்
+### The presidential election on October 17
 
 *2024-05-26 07:42:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/ஒக்டோபர்-17-ஆம்-திகதி-ஜனாதிபதி-தேர்தல்/150-337846) · `ta`
 
-ஜனாதிபதி தேர்தல் இந்த வருடம் ஒக்டோபர் மாதம் 17 ஆம் திகதி நடைபெறும் எனவும், அந்த தேர்தலை யாராலும் தடுக்க முடியாது எனவும் நீதி அமைச்சர் விஜயதாச ராஜபக்ஷ தெரிவித்துள்ளார். ஹட்டன் நகரில் சனிக்கிழமை (25) நடைபெற்ற நிகழ்வில் கலந்துகொண்டு கருத்துரைக்கும் போதே மேற்கண்டவாறு தெரிவித்தார்
+Justice Minister Vijayadasa Rajapakse announced the presidential election will take place on October 17, stating it cannot be halted. This was disclosed during a function in Hatton on September 25.
+
+🟩
+
+Justice Minister Vijayadasa Rajapakse has said that the presidential election will be held on October 17 and that no one can stop the election.. He said this while attending a function held in Hatton on Saturday (25)
 
 ◼️
 
 [Data](articles/18d9ee89.json)
+
+[Extended Data](ext_articles/18d9ee89.ext.json)
 
 ---
 
@@ -249,6 +299,20 @@ President Ranil Wickremesinghe made this statement participating at the Jaffna D
 [Data](articles/c50a24f8.json)
 
 [Extended Data](ext_articles/c50a24f8.ext.json)
+
+---
+
+### Exciting Events at Babylon Oberoi
+
+*2024-05-26 06:52:00* · [`islandlk`](http://island.lk/exciting-events-at-babylon-oberoi/) · `en`
+
+As the new Food & Beverage Manager at Hotel Babylon Oberoi I wanted, in 1989, the hotel to make a name in hospitality and catering in Iraq. I was also keen to create and promote a string of international food festivals in Baghdad but encountered several challenges. With my experience ding this many times before, I was well-prepared, motivated, and confident of creating a buzz and present hospitality events and entertainment in Baghdad.
+
+...
+
+[Data](articles/b0717e62.json)
+
+[Extended Data](ext_articles/b0717e62.ext.json)
 
 ---
 
@@ -374,21 +438,27 @@ Aachchi (my paternal grandmother)’s claim to fame was a story about her mother
 
 ---
 
-### ’இளைஞர்களின் தொழில் பிரச்சினையைத் தீர்ப்போம்’
+### We will solve the business problem of young people
 
 *2024-05-26 02:14:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இளைஞர்களின்-தொழில்-பிரச்சினையைத்-தீர்ப்போம்/175-337845) · `ta`
 
-இவ்வருடத்திற்குள் நாட்டை வங்குரோத்து நிலையிலிருந்து மீட்டு இளைஞர் யுவதிகளின் தொழில் பிரச்சினை தீர்க்கப்படும் என்று ஜனாதிபதி ரணில் விக்கிரமசிங்க உறுதியளித்தார்.
+President Ranil Wickremesinghe aims to tackle Sri Lanka's economic crisis, including youth unemployment, by fostering an export-based economy akin to Vietnam, Malaysia, and Thailand's models.
 
-தேசிய இளைஞர் சேவைகள் மன்றத்தின் ஏற்பாட்டில் யாழ்ப்பாணம் துறையப்பா விளையாட்டரங்கத்தில் நேற்று முன்தினம் ஏற்பாடு செய்யப்பட்டிருந்த யாழ். மாவட்ட மாநாட்டிலேயே ஜனாதிபதி இவ்வாறு தெரிவித்தார். அவர் மேலும் தெரிவிக்கையில்,
+🟩
 
-கடந்த நான்கு வருடங்களில் இலங்கையின் பொருளாதாரம் பாரிய பின்னடைவைச் சந்தித்துள்ளது. மக்கள் பெரும் அவதிப்பட்டனர். தற்போது நாடு வங்குரோத்து நிலையிலிருந்து மீண்டு வருகிறது. நாடு வங்குரோத்து நிலையிலிருந்து மீண்ட பிறகு, இளைஞர்களின் தொழில் இல்லாத பிரச்சினை நிவர்த்திக்கப்படும்.
+President Ranil Wickremesinghe has promised to resolve the problem of youths and resolve the country from bankruptcy this year.
 
-பொருளாதார மாற்றச் சட்டமூலம் ஏற்கனவே பாராளுமன்றத்தில் கொண்டு வரப்பட்டுள்ளது. ஏற்றுமதி சார்ந்த பொருளாதாரத்தை உருவாக்க எதிர்பார்த்திருக்கிறோம். வியட்நாம், மலேசியா, தாய்லாந்து போன்ற ஏற்றுமதி சார்ந்த பொருளாதாரம் இலங்கையிலும் கட்டியெழுப்பப்பட வேண்டும் என்றார். (a)
+The National Youth Services Council organized the Jaffna Stadium yesterday at the Jaffna Stadium. The President said this at the district convention. As he further stated,
+
+Sri Lanka's economy has suffered a massive setback over the past four years. People suffered greatly. The country is currently recovering from bankruptcy. After the country recovers from the bankruptcy, the issue of the unemployment of youth will be addressed.
+
+The Economic Change Bill has already been brought to Parliament. We are looking forward to create an export -based economy. He said the export economy of Vietnam, Malaysia and Thailand should be built in Sri Lanka. (A)
 
 ◼️
 
 [Data](articles/9355030b.json)
+
+[Extended Data](ext_articles/9355030b.ext.json)
 
 ---
 
@@ -414,19 +484,25 @@ He is the Director of the Sri Lankan Airlines and the first chairman of the Colo
 
 ---
 
-### வைத்தியசாலைக்குள் குழப்பம் விளைவித்த மூவர் கைது
+### Three arrested for confusion in the hospital
 
 *2024-05-26 02:07:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வைத்தியசாலைக்குள்-குழப்பம்-விளைவித்த-மூவர்-கைது/175-337843) · `ta`
 
-யாழ்ப்பாணம் போதனா வைத்தியசாலைக்குள் மதுபோதையில் நுழைந்து பாதுகாப்பு உத்தியோகத்தர்களுடன் முரண்பட்டுக் குழப்பத்தில் ஈடுபட்ட மூவர் நேற்று கைது செய்யப்பட்டனர்.
+Three individuals were arrested for causing disturbances with security at Jaffna Teaching Hospital, preventing them from logging in past visiting hours. The hospital administration filed a complaint with the police.
 
-வைத்தியசாலையில் நோயாளிகளைப் பார்வையிடும் நேரம் முடிந்த பின்னர் தம்மை உள்நுழைய அனுமதிக்குமாறு பாதுகாப்பு உத்தியோகத்தர்களுடன் முரண்பட்டுக் குழப்பத்தில் ஈடுபட்டவர்களே இவ்வாறு கைது செய்யப்பட்டனர்.
+🟩
 
-வைத்தியசாலை நிர்வாகம் யாழ்ப்பாணம் பொலிஸ் நிலையத்தில் முறைப்பாட்டை பதிவு செய்த நிலையில் கைது நடவடிக்கை முன்னெடுக்கப்பட்டது. (a)
+Three persons were arrested yesterday for allegedly conflicting with security officers at the Jaffna Teaching Hospital.
+
+The arrest was arrested by the security officers to allow them to log in after the time to visit the hospital.
+
+The hospital administration has lodged a complaint at the Jaffna Police Station as the arrest was carried out. (A)
 
 ◼️
 
 [Data](articles/e86cdf8b.json)
+
+[Extended Data](ext_articles/e86cdf8b.ext.json)
 
 ---
 
@@ -601,20 +677,6 @@ Generations not born here will laud and praise the memory of Father Vito Perniol
 [Data](articles/c92243dc.json)
 
 [Extended Data](ext_articles/c92243dc.ext.json)
-
----
-
-### Exciting Events at Babylon Oberoi
-
-*2024-05-25 23:14:00* · [`islandlk`](http://island.lk/exciting-events-at-babylon-oberoi/) · `en`
-
-As the new Food & Beverage Manager at Hotel Babylon Oberoi I wanted, in 1989, the hotel to make a name in hospitality and catering in Iraq. I was also keen to create and promote a string of international food festivals in Baghdad but encountered several challenges. With my experience ding this many times before, I was well-prepared, motivated, and confident of creating a buzz and present hospitality events and entertainment in Baghdad.
-
-...
-
-[Data](articles/b0717e62.json)
-
-[Extended Data](ext_articles/b0717e62.ext.json)
 
 ---
 
@@ -2187,35 +2249,5 @@ It is noteworthy that the area has signed the sword and brought to the notice of
 [Data](articles/72d9024d.json)
 
 [Extended Data](ext_articles/72d9024d.ext.json)
-
----
-
-### Student killed in Expressway from a flyover
-
-*2024-05-25 11:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196988) · `si`
-
-A 19-year-old student fell off a Colombo highway overpass and died after being hit by a car heading towards Matara. He was admitted to Homagama Base Hospital but succumbed to his injuries. The incident occurred near the 1.2 km mark of the Colombo Outer Circular Highway. Police have arrested the driver involved and found an English letter in the student's home.
-
-🟩
-
-A youth has fallen into the Expressway from the Colombo Outer Circular Highway and has died on the Expressway.
-
-The young man has fallen to the 17 kilometers near the 1.2 kilometer of the Colombo Outer Circular Highway at around 7 pm yesterday.
-
-He was also confronted with a car traveling towards Matara.
-
-The youth who was seriously injured in the accident died on admission to the Homagama Base Hospital.
-
-The deceased has been identified as a young man in a private university located in Padukka, 19-year-old regime.
-
-The car has also been damaged in the accident and the vehicle driver was arrested by the police.
-
-Meanwhile, a letter written in English has also been found in the house of the deceased youth, police said.
-
-◼️
-
-[Data](articles/f37a6361.json)
-
-[Extended Data](ext_articles/f37a6361.ext.json)
 
 ---

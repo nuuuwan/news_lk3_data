@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-26 11:34:13**
+As of **2024-05-26 11:53:39**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,208
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,292 (100.0%) of 26,293 articles have been extended.
+26,293 (100.0%) of 26,293 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -126,6 +126,20 @@ This will make a big message on television today. All the SJB leaders embraced h
 
 ---
 
+### Exciting Events at Babylon Oberoi
+
+*2024-05-26 10:36:00* · [`islandlk`](http://island.lk/exciting-events-at-babylon-oberoi/) · `en`
+
+As the new Food & Beverage Manager at Hotel Babylon Oberoi I wanted, in 1989, the hotel to make a name in hospitality and catering in Iraq. I was also keen to create and promote a string of international food festivals in Baghdad but encountered several challenges. With my experience ding this many times before, I was well-prepared, motivated, and confident of creating a buzz and present hospitality events and entertainment in Baghdad.
+
+...
+
+[Data](articles/b0717e62.json)
+
+[Extended Data](ext_articles/b0717e62.ext.json)
+
+---
+
 ### President cautions against teachers engaging in protests that undermine their profession
 
 *2024-05-26 10:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/99441/president-cautions-against-teachers-engaging-in-protests-that-undermine-their-profession) · `en`
@@ -212,21 +226,27 @@ The deceased person has been identified as a 69-year-old resident of Embilipitiy
 
 ---
 
-### ජනපතිවරණය ‍ඔක්තෝබර් 17ට පෙර පවත්වනවා
+### The Presidential Appointment is held before October 17
 
 *2024-05-26 10:03:32* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිවරණය-‍ඔක්තෝබර්-17ට-පෙර-පවත්වනවා/11-409821) · `si`
 
-ජනාධිපතිවරණය ඔක්තොම්බර් මස පැවැත්වෙන බවත්, එය කිසිකෙනෙකුට වෙනස් කල නොහැකි බව අධිකරණ අමාත්‍යවරයා පවසයි.
+The Minister of Justice announced the presidential election will occur in October, repeating it won't be stopped. This election marks its inaugural run on October 17, emphasizing its significance. Minister Wijayadasa Rajapaksa, speaking at a party event, highlighted the SLFP's role in deciding the presidential election outcome.
 
-ජනාධිපති මැතිවරණය ප්‍රථමයෙන් මේ වසරේ ඔක්තොම්බර් මාසයේ 17 වන දිනට පෙර පවත්වන බවත්, එම මැතිවරණය කිසිවෙකුටත් වලක්වාලිය නොහැකි බව අධිකරණ අමාත්‍ය විජයදාස රාජපක්ෂ මහතා පැවසිය.
+🟩
 
-අමාත්‍ය විජයදාස රාජපක්ෂ මහතා එ බැව් කියා සිටියේ (25)දින කදුරට ජනතා පෙරමු‍ණේ නායක හා නුවරඑළිය දිස්ත්‍රික් පාර්ලිමෙන්තු මන්ත්‍රි වි.රාධාක්‍රිෂ්ණන් මහතා හැටන් නගරයේදි සංවිධානය කර තිබු එම පක්ෂයේ උත්සවයක ප්‍රධාන ආරාධිතයා වශයෙන් සහභාගි විමෙන් අනතුරුව මාධ්‍යට අදහස් දක්වමිණි.
+The Minister of Justice says that the presidential election will be held in October, he said.
 
-මෙහිදි වැඩි දුරටත් අදහස් දැක්වු විජයදාස රාජපක්ෂ මහතා වැඩි දුරටත් කියා සිටියේ මෙවර ජනාධ්පති මැතිවරණයේදි ශ්‍රි ලංකා නිදහස් පක්ෂය ජනාධිපති මැතිවරණයේ තිරණාත්මක ශක්තිමත් පක්ෂයක් ලෙස කටයුතු කරන බවයි.
+The presidential election first was held on October 17 this year, he said that no one could prevent anyone election.
+
+The Minister Wijayadasa Rajapaksa told the media after the party's chief was organized in Hatton to the Kanda, the leader of the Perama.
+
+Speaking further Mr. Wijesadasa Rajapaksa added that the Sri Lanka Freedom Party (SLFP) is a decision of the Presidential election in the election.
 
 ◼️
 
 [Data](articles/00803535.json)
+
+[Extended Data](ext_articles/00803535.ext.json)
 
 ---
 
@@ -601,20 +621,6 @@ President Ranil Wickremesinghe made this statement participating at the Jaffna D
 [Data](articles/c50a24f8.json)
 
 [Extended Data](ext_articles/c50a24f8.ext.json)
-
----
-
-### Exciting Events at Babylon Oberoi
-
-*2024-05-26 06:52:00* · [`islandlk`](http://island.lk/exciting-events-at-babylon-oberoi/) · `en`
-
-As the new Food & Beverage Manager at Hotel Babylon Oberoi I wanted, in 1989, the hotel to make a name in hospitality and catering in Iraq. I was also keen to create and promote a string of international food festivals in Baghdad but encountered several challenges. With my experience ding this many times before, I was well-prepared, motivated, and confident of creating a buzz and present hospitality events and entertainment in Baghdad.
-
-...
-
-[Data](articles/b0717e62.json)
-
-[Extended Data](ext_articles/b0717e62.ext.json)
 
 ---
 

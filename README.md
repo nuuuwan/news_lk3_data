@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-26 16:33:50**
+As of **2024-05-26 16:50:03**
 
 ## Newspaper Stats
 
-*Scraped **26,336** Articles*
+*Scraped **26,341** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,95 @@ islandlk | 1,431
 economynextcom | 1,508
 dailyftlk | 1,533
 adalk | 2,242
-adaderanalk | 3,023
-tamilmirrorlk | 3,090
+adaderanalk | 3,024
+tamilmirrorlk | 3,092
 virakesarilk | 4,009
 dailymirrorlk | 4,159
-adaderanasinhalalk | 4,217
+adaderanasinhalalk | 4,219
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,335 (100.0%) of 26,336 articles have been extended.
+26,336 (100.0%) of 26,341 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-26 (Sunday)
+
+### “ஜனாதிபதி மாயாஜால அரசியல் நடத்தவில்லை”
+
+*2024-05-26 16:31:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-மாயாஜால-அரசியல்-நடத்தவில்லை/175-337911) · `ta`
+
+“வானை வில்லாக வளைப்பேன், ஒட்டுமொத்த கடல் நீரையும் சொம்புக்குள் அடக்குவேன் என்றெல்லாம் மந்திர வார்த்தைகளைக்கூறி மாயாஜால அரசியல் நடத்தாமல்,  உண்மையைக்கூறி யதார்த்தத்துக்கு பொருத்தமான அரசியலையே ஜனாதிபதி நடத்திவருகின்றார் என ஜனாதிபதியின் கீழ் இயங்கும் தொழிற்சங்க முடிவுகளை எடுக்கும் மூன்று பேர் கொண்ட குழுவின் உறுப்பினரும், ஐக்கிய தேசியக் கட்சியின் இரத்தினபுரி மாவட்ட அமைப்பாளருமான சுப்பையா ஆனந்தகுமார் தெரிவித்துள்ளார்.
+
+ஜனாதிபதியின் பயணப் பாதையை மாற்ற முற்படுவது நாட்டுக்கே ஆபத்தாக அமையும். எனவே, அனைவரும் ஒன்றிணைந்து ரணிலுக்கு பேராதரவு வழங்க வேண்டும் என்றும் பெருந்தோட்டத் தொழிலாளர்களின் சம்பளப் பிரச்சினைக்கு நிலையானதொரு தீர்வு பொறிமுறையை ஜனாதிபதி நிச்சயம் உருவாக்குவார் எனவும் நம்பிக்கை தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/756c0207.json)
+
+---
+
+### කේප්පාපිලවු ඉඩම් ගැටළුව විසඳීමට ජනපති මැදිහත් වෙයි
+
+*2024-05-26 16:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197029) · `si`
+
+තමන්ට ජනාධිපතිවරයා හමුවීමට අවශ්‍ය බව සඳහන් කරමින් පුදුකුඩිඉරුප්පු ප්‍රදේශයේ කාන්තාවන් දෙදෙනෙකු පුදුකුඩිඉරුප්පු මධ්‍ය මහා විද්‍යාලය ඉදිරිපිට විරෝධතාවක නිරතවී තිබේ.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අද (26) “උරුමය” වැඩසටහන යටතේ මුලතිව් දිස්ත්‍රික්කයේ සිනන්කක්ර ඔප්පු ලබාදීමේ උත්සවයට සහභාගී වීම සඳහා එහි පැමිණි අවස්ථාවේ මෙම කාන්තාවන් මෙලෙස විරෝධතාවයේ නිරතව ඇත.
+
+මේ පිළිබඳ සොයාබැලීම සඳහා උතුරු පළාත් ආණ්ඩුකාර පී. එස්. එම්. චාල්ස් මහත්මිය මෙම කාන්තාවන් දෙදෙනා සිටි ස්ථානය වෙත ගොස් ඔවුන්ගේ ගැටළුව කුමක්දැයි විමසා ඇති බව වාර්තාවෙයි.
+
+එහිදී ඔවුන් සඳහන් කර ඇත්තේ සිය ගැටළුව ජනාධිපතිවරයා වෙතට ඉදිරිපත් කළ යුතු බවය.
+
+ඉන් අනතුරුව උතුරු පළාත් ආණ්ඩුකාරතුමිය මේ බව දැනුම්දීමෙන් පසුව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විරෝධතාව පැවති ස්ථානයට ගොස් ඔවුන්ගේ ගැටළුවට සවන් දීමට කටයුතු කර ඇති බව ජනාධිපති මාධ්‍ය අංශය පවසයි.
+
+මෙහිදී එම කාන්තාවන් ජනාධිපතිවරයා වෙත පෙන්වා දී තිබෙන්නේ තමන් ඇතුළු කේප්පාපිලවු ග්‍රාමයේ පදිංචි පවුල් 56ක් ඉඩම් ගැටළුවක් හේතුවෙන් දැඩි පීඩාවකට පත්ව සිටින බැවින් එය කඩිනමින් විසඳීමට කටයුතු කර දෙන ලෙසටය.
+
+...
+
+[Data](articles/df73f529.json)
+
+---
+
+### காணி பிரச்சினையைத் தீர்க்க ஜனாதிபதி நடவடிக்கை
+
+*2024-05-26 16:27:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காணி-பிரச்சினையைத்-தீர்க்க-ஜனாதிபதி-நடவடிக்கை/175-337910) · `ta`
+
+ஜனாதிபதி ரணில் விக்ரமசிங்க ஞாயிற்றுக்கிழமை (26) முல்லைத்தீவு மாவட்டத்தில் "உறுமய" வேலைத்திட்டத்தின் கீழ் காணி உறுதிப் பத்திரங்களை வழங்கும் நிகழ்வில் பங்கேற்பதற்காக புதுக்குடியிருப்பு மத்திய மகா வித்தியாலயத்திற்குச் சென்ற போது. ஜனாதிபதியைச் சந்திக்க வேண்டும் எனக்கூறி அப்பகுதியைச் சேர்ந்த இரண்டு பெண்கள், கல்லூரி முன் ஆர்ப்பாட்டத்தில் ஈடுபட்டனர்.
+
+இது குறித்து அறிந்த வடமாகாண ஆளுநர் பி. எஸ். எம். சார்ள்ஸ், இரு பெண்களும் இருந்த இடத்துக்குச் சென்று அவர்களின் பிரச்சினை என்னவென்று வினவ, அதன்போது அவர்களின் பிரச்சினையை ஜனாதிபதியிடம் முன்வைக்க வேண்டும் எனக் குறிப்பிட்டனர்.
+
+அதனையடுத்து, வடமாகாண ஆளுநரால் இது குறித்து ஜனாதிபதிக்கு அறிவிக்கப்பட்டதையடுத்து, ஜனாதிபதி ரணில் விக்கிரமசிங்க போராட்டம் நடைபெற்ற இடத்துக்குச் சென்று அவர்களின் பிரச்சினைகளைக் கேட்டறிந்தார்.
+
+காணிப் பிரச்சினை காரணமாக தாம் உட்பட கேப்பாப்பிலவு கிராமத்தில் வசிக்கும் 56 குடும்பங்கள் கடும் அழுத்தங்களுக்கு உள்ளாகியுள்ளதாகவும், எனவே இதற்கு உடனடியாக தீர்வு காண ஏற்பாடு செய்யுமாறும் குறித்த பெண்கள் ஜனாதிபதியிடம் வேண்டுகோள் விடுத்தனர்.
+
+...
+
+[Data](articles/0049e824.json)
+
+---
+
+### විදුලි රැහැනක ගැටී කාන්තාවක් මරුට
+
+*2024-05-26 16:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197028) · `si`
+
+අයහපත් කාලගුණික තත්ත්වයත් සමග කඩාවැටී තිබූ විදුලි රැහැනක ගැටී හොරණ මිවනපලාන ප්‍රදේශයේ කාන්තාවක් අවාසනාවන්ත ලෙස මියගොස් තිබේ.
+
+මෙලෙස මියගොස් ඇත්තේ 78 හැවිරිදි වියේ පසුවන එම ප්‍රදේශයේම පදිංචි කාන්තාවකි.
+
+පොලීසිය සැකපළ කරන්නේ දැඩි සුළං තත්ත්වය මත විදුලි රැහැන මතට ගසක් කඩාවැටීමෙන් විදුලි රැහැන කඩා වැටී තිබෙන්නට ඇති බවය.
+
+එම කාන්තාවට අයත් ඉඩමක පොල් ඇහිඳීම සඳහා ගොස් සිටියදී ඇය මෙම අවාසනාවන්ත ඉරණමට මුහුණදී තිබේ.
+
+සිද්ධිය වූ ස්ථානය හොරණ වැඩබලන මහෙස්ත්‍රාත් නීතිඥ කාන්ති කන්නංගර මහත්මිය විසින් පරීක්ෂා කිරීමෙන් පසුව මෘත ශරීරය අධිකරණ වෛද්‍ය කටයුතු සඳහා හොරණ දිස්ත්‍රික් රෝහලට යොමුකර ඇත.
+
+◼️
+
+[Data](articles/ef514834.json)
+
+---
 
 ### CEB receives over 61,000 breakdown complaints by 2 p.m. today
 
@@ -54,27 +128,53 @@ However, by Friday (May 24), over 59,400 electricity breakdown complaints had be
 
 ---
 
-### නොසිතූ මොහොතකට සාරංගට අත්වූ ඉරණම
+### The fate of Saranga for an unexpected moment
 
 *2024-05-26 15:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197027) · `si`
 
-සිය මවගේ උපන්දිනය සැමරීමට ඉටිපන්දම් රැගෙන ඒමට නිවසින් පිටවූ පුතු අබිරහස් ලෙස බරපතළ තුවාල ලැබීමේ පුවතත් අද දෙරණට වාර්තා වූයේ හබරණ ප්‍රදේශයෙනි.
+Saranga, while bringing candles for his mother's 45th birthday celebration, was involved in an accident near Dambulla Hospital. He works for the Railway Department and was seriously injured. The cause of the accident remains unknown, and the police are investigating. His family, already struggling financially, now faces additional medical expenses. They appeal for support and urge the authorities to expedite the investigation.
 
-මාර්තු 13 වනදා සිය මවගේ 45 වන උපන් දිනය සැමරීමට ඉටිපන්දම් රැගෙන ඒමට සාරංග සිය නිවසින් පිටත්ව ගොස් තිබුණි.
+🟩
 
-එහෙත් රාත්‍රීය වන විට සීගිරිය පොලිසියෙන් නිවසට ලැබුණු දුරකථන ඇමතුමක් හේතුවෙන්, උපන්දින සැමරුමට තිත මව සිය පුතු සොයා දඹුල්ල රෝහල වෙත පැමිණ තිබුණි.
+In the Habarana area, it was reported from Habarana area.
 
-දුම්රිය දෙපාර්තමේන්තුවට අනියුක්තව කම්කරු රැකියාවක් කරමින් සිටි සාරංග මධුසාර මෙලෙස බරපතළ තුවාල ලබා ලෙඩ ඇඳට වැටී මේ වනවිට මාස දෙකකට අධික කාලයක් ගතවූවත්, සැබවින්ම සාරංග මෙලෙස තුවාල ලැබුවේ කෙසේද යන්න තවමත් ප්‍රශ්නාර්ථයකි.
+Saranga had left his home to bring the candles to celebrate his mother's 45th birthday.
 
-පොලීසිය මව්පියන්ට පවසා ඇත්තේ සාරංග අනතුරකට මුහුණ දී ඇති බවය.
+But by a telephone call from the Sigiriya police to the Sigiriya Police, the birthday had visited the Dambulla Hospital.
 
-එහෙත් එකී අනතුර සිදුව ඇත්තේ කෙසේද? වගකිවයුත්තේ කව්ද යන්න අනාවරණය කර ගැනීමට පොලිසිය මෙතෙක් සමත් වී නැත.
+Saranga, who was working to the Railway Department, Lady Lady Delivered With Dice and Saranga was still injured, but how the Saranga was injured.
 
-සාරංගව ලෙඩ ඇඳට ඇද දැමූ වගකිවයුත්තන්, නීතියේ රැහැනින් සැඟව සිටියදී අද වනවිට මව්පියන් සාරංගට ප්‍රතිකාර කිරීම සම්බන්ධයෙන්ද අර්බුදයකට මුහුණ දී සිටින්නේ ඔවුන්ගේ ආර්ථික තත්ත්වය ඊට හරස්වීම හේතුවෙනි.
+The police have told the parents that Saranga has suffered to a danger.
+
+But how has the accident occurred?The police have not yet been able to uncover who is responsible.
+
+Saranga is responsible for the treatment of the law, and in the treatment of parents today, the treatment of the parents of the Parents is also facing a crisis due to the end of their economic situation.
+
+Therefore, this parents who are experiencing a help to treat Saranga and urge the law enforcement authorities that their son is sick.
+
+◼️
+
+[Data](articles/7fd24e18.json)
+
+[Extended Data](ext_articles/7fd24e18.ext.json)
+
+---
+
+### President reveals outcome of talks with Elon Musk on introducing ‘Starlink’ in Sri Lanka
+
+*2024-05-26 15:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/99446/president-reveals-outcome-of-talks-with-elon-musk-on-introducing-starlink-in-sri-lanka) · `en`
+
+President Ranil Wickremesinghe states that the initiative of integrating the global ‘Starlink’ network with Sri Lanka aims to address the Wi-Fi connectivity issues, particularly in areas outside Colombo.
+
+In response to a question raised by a youth at the Jaffna District Youth Conference organized by the National Youth Service Council at Duraiappah Stadium in Jaffna, on Friday (24), Wickremesinghe expressed that during his recent discussion with tech billionaire Elon Musk regarding the matter, the potential of solar energy and other renewable energy sources available in the country were also explored.
+
+Meanwhile, the President said he extended an invitation for Musk to collaborate on significant projects in Sri Lanka.
+
+Furthermore, Wickremesinghe revealed that the Telecommunication Regulatory Commission of Sri Lanka (TRCSL) has been tasked with assessing the ‘Starlink’ network, with most of the preliminary work already completed.
 
 ...
 
-[Data](articles/7fd24e18.json)
+[Data](articles/ecdd0bdb.json)
 
 ---
 
@@ -1406,6 +1506,8 @@ Airlines for America said U.S carriers plan to fly more than 26,000 daily flight
 
 *2024-05-26 08:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/99439/6-newborns-killed-after-major-fire-at-delhi-childrens-hospital) · `en`
 
+#WATCH | Delhi: A massive fire broke out at a New Born Baby Care Hospital in Vivek Vihar As per a Fire Officer, Fire was extinguished completely, 11-12 people were rescued and taken to hospital and further details are awaited.(Video source - Fire Department) https://t.co/lHzou6KkHH pic.twitter.com/pE95ffjm9p— ANI (@ANI) May 25, 2024
+
 As many as six newborns have lost their lives after a massive fire broke out at a New Born Baby Care Hospital in Delhi’s Vivek Vihar in the late hours of Saturday.
 
 According to the Delhi Fire Department, a total of 12 children were rescued, out of which six have died, one is on the ventilator and five are admitted to the hospital.
@@ -1413,8 +1515,6 @@ According to the Delhi Fire Department, a total of 12 children were rescued, out
 The rescued newborns have been shifted to East Delhi Advance NICU hospital.
 
 On information, police officials and firefighters reached the spot and doused the fire.
-
-Fire Officer Rajesh, said, “At 11:32 pm, Fire Service Control Room received information that fire broke out at a hospital...total 16 fire tenders reached the spot and fire has been extinguished completely. 2 buildings were affected by the fire, one is the hospital building and 2 floors of a residential building on the right side also caught fire...11-12 people were rescued and they were taken to hospital. Further details will be shared later”.
 
 ...
 
@@ -2179,115 +2279,5 @@ Speaking at a meeting in Mannar, Dissanayake said the particular person Hitihami
 [Data](articles/8b21bb03.json)
 
 [Extended Data](ext_articles/8b21bb03.ext.json)
-
----
-
-### No JVP member has joined SJB: Anura Kumara refutes SJB claims
-
-*2024-05-25 22:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/No-JVP-member-has-joined-SJB-Anura-Kumara-refutes-SJB-claims/155-283353) · `en`
-
-Mannar, May 25 (Daily Mirror)- The National People's Power (NPP) today refuted claims that a JVP member has joined the Samagi Jana Balawegaya (SJB) during a meeting in Polonnaruwa.
-
-NPP leader Anura Kumara Dissanayake said the particular person was not a JVP member but an SLFP member.
-
-Speaking at a meeting in Mannar, Dissanayake said the particular person Hitihamilage Saman Kumara is an SLFP candidate who had submitted nominations for the Local Government elections to contest for the Bendiwewa Division of the Polonnaruwa Municipal Council.
-
-...
-
-[Data](articles/e1bdf07e.json)
-
-[Extended Data](ext_articles/e1bdf07e.ext.json)
-
----
-
-### Trump posts fake news about “the creation of a ‘Unified Reich’
-
-*2024-05-25 21:46:00* · [`islandlk`](http://island.lk/trump-posts-fake-news-about-the-creation-of-a-unified-reich/) · `en`
-
-A second Supreme Court judge defies the Constitution, flies flags of Fascism
-
-Last Monday, Trump posted a 30-second video on his Truth Social network which had a vision of himself speaking at a campaign rally, with a fake newspaper in the background, flaunting eye-catching 60-point-font bold headlines to grab the reader’s attention:
-
-This header was followed by the summary of a series of articles, stolen from Nazi propaganda, praising German industrial strength and production which had significantly improved after 1871, with the creation by Chancellor Otto von Bismarck, of the Erstes Reich, (First Reich). A unified German empire, which brought about German prosperity made possible by the closing of its borders and the deportation of 15 million illegal aliens and Jews, vermin who were poisoning the blood of Germany. Policies perfectly emulated by Adolf Hitler and the Third Reich in the 1930s.
-
-...
-
-[Data](articles/16b4fd4c.json)
-
-[Extended Data](ext_articles/16b4fd4c.ext.json)
-
----
-
-### Large tree falls on a school building
-
-*2024-05-25 21:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197008) · `si`
-
-A massive tree fell on Ananda National School in Puttalam, affecting 44,398 individuals from 11,765 families. The Disaster Management Center is providing immediate relief.
-
-🟩
-
-A large tree collapses on a building of Ananda National School in the Puttalam district, the highest affected inventory.
-
-Meanwhile, 44,398 persons belonging to 11,765 families have been affected due to the inclement weather.
-
-The Disaster Management Center said that the concessions of the affected persons are being provided with immediate relief.
-
-◼️
-
-[Data](articles/df01bbbe.json)
-
-[Extended Data](ext_articles/df01bbbe.ext.json)
-
----
-
-### New information about Isis terrorists
-
-*2024-05-25 20:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197007) · `si`
-
-Police seek public help to identify and arrest a 46-year-old suspect linked to ISIS terrorists in Sri Lanka. The suspect, Gerard Pushraja Ozman Jerad from Dematagoda, is wanted for questioning. A 34-year-old man previously arrested in India for ISIS links is also under investigation. Security forces continue to investigate potential ISIS activities in Sri Lanka.
-
-🟩
-
-Police have requested public assistance to arrest a person in the Dematagoda area associated with the four terrorists who were arrested in India.
-
-Meanwhile, security forces are conducting further investigations to uncover other persons involved in ISIS terrorist organization are in Sri Lanka.
-
-Investigations have commenced investigating a suspicious person who had contacted the investigators of the Criminal Investigations carried out in India recently.
-
-Accordingly, several sisters and photographs of the suspect and a photograph of the police have issued the police to the media today (25).
-
-The suspect is 46-year-old Gerard Pushraja Ozman Jerad, a resident of Demodagoda and 5 inches tall.
-
-If there is any information regarding the guy, the police urges the public to inform the telephone number of the Director of the Criminal Investigation (CID) or the OIC 071-8591774.
-
-The Police Headquarters emphasizes a rewards for a reward and protect the information of the information.
-
-...
-
-[Data](articles/a4bffb29.json)
-
-[Extended Data](ext_articles/a4bffb29.ext.json)
-
----
-
-### Possible landslide risk issued for seven districts
-
-*2024-05-25 20:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Possible-landslide-risk-issued-for-seven-districts/108-283352) · `en`
-
-Colombo, May 25 (Daily Mirror) - The National Building Research Organisation (NBRO) today issued a potential landslide warning for seven districts.
-
-Accordingly, the Padukka, Seethawaka Divisional Secretariat Divisions (DSD) and surrounding areas in the Colombo District have been issued with possible landslide warnings.
-
-The Attanagalla DSD and surrounding areas in the Gampaha District have also been issued with possible landslide risk warnings.
-
-The Dodangoda, Walallawita, Agalawatta, Palindanuwara, Horana, Ingiriya, Bulathsinhala and Mathugama DSD and surrounding areas in the Kalutara District were alerted with a landslide risk warning.
-
-Udapalatha, Udunuwara, Ganga Ihala Korale, Yatinuwara, Ududumbara, Pasbage Korale, Kandy Four Gravets or Gangawata Korale DSD and surrounding areas in the Kandy district have also been issued with a landslide risk warning.
-
-...
-
-[Data](articles/b6439e73.json)
-
-[Extended Data](ext_articles/b6439e73.ext.json)
 
 ---

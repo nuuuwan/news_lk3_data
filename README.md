@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-26 22:18:51**
+As of **2024-05-26 22:34:07**
 
 ## Newspaper Stats
 
-*Scraped **26,403** Articles*
+*Scraped **26,406** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,71 @@ islandlk | 1,431
 economynextcom | 1,509
 dailyftlk | 1,533
 adalk | 2,247
-adaderanalk | 3,028
+adaderanalk | 3,029
 tamilmirrorlk | 3,097
-virakesarilk | 4,034
+virakesarilk | 4,035
 dailymirrorlk | 4,167
-adaderanasinhalalk | 4,231
+adaderanasinhalalk | 4,232
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,403 (100.0%) of 26,403 articles have been extended.
+26,403 (100.0%) of 26,406 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-26 (Sunday)
+
+### சீரற்ற காலநிலையால் எட்டு பேர் உயிரிழப்பு: 45509 நபர்கள் பாதிப்பு; மழையுடனான காலநிலை தொடரும்
+
+*2024-05-26 22:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/184560) · `ta`
+
+தென்மேல் பருவப் பெயர்ச்சி நிலைமை காரணமாக நாட்டில் தற்போது நிலவும் மழையுடனான சீரற்ற காலநிலை மேலும் தொடரும் என எதிர்பார்க்கப்படுவதாக வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது. மேல், சப்ரகமுவ, மத்திய, வடமேல் மற்றும் தென் மாகாணங்களில் இன்று அவ்வப்போது மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடிய சாத்தியம் காணப்படுகின்றது.
+
+சீரற்ற காலநிலையுடன் கூடிய பலத்த காற்றினால் மரம் முறிந்து விழல் மற்றும் மண்மேடு சரிதல் உள்ளிட்ட விபத்துக்களினால் இதுவரை 12207 குடும்பங்கள் பாதிக்கப்பட்டுள்ள நிலையில் 45509  பேர் பாதிக்கப்பட்டுள்ளதுடன்,இதுவரை (நேற்று மாலை ) 08 பேர் உயிரிழந்துள்ளதுடன்,13 பேர் காயமடைந்துள்ளனர்.12 வீடுகள் முழுமையாகவும்,3166 வீடுகள் பகுதியளவிலும் சேதமடைந்துள்ளன.
+
+...
+
+[Data](articles/007908ab.json)
+
+---
+
+### සමාජ මාධ්‍ය තහනමක් ගැන හරීන්ගෙන් අනතුරු ඇඟවීමක්
+
+*2024-05-26 22:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197042) · `si`
+
+ඇතැම් විද්‍යුත් මාධ්‍ය ද යොදාගනිමින් ක්‍රිකට් ක්‍රීඩාවට විනාශකාරී ලෙස පහර ගසන සමාජ මාධ්‍ය කල්ලිවලට එරෙහිව නෛතික පියවර ගැනීම අරඹා ඇති බව ක්‍රීඩා අමාත්‍ය හරීන් ප්‍රනාන්දු මහතා පවසයි.
+
+ඔහු මේ බව පැවසුවේ ශ්‍රී ලංකාවේ ප්‍රථම ගොල්ෆ් ඇකඩමිය විවෘත කිරීමේ අද (26) පැවති උත්සවයකට සහභාගී වෙමිනි.
+
+අමාත්‍යවරයා එහිදී වැඩිදුරටත් පැවුසවේ සමාජ මාධ්‍ය නියාමන පනත හරහා නෛතික පියවර ගන්නා බවය.
+
+"සමාජ මාධ්‍ය කිහිපයක් ආයෙත් සූදානම් වෙලා ක්‍රිකට්වලට මඩ ගහන්න. ගොඩක් අය අද නොදන්න දේ මේ දඹුල්ල සිද්ධිය නිසා මටත් සනත් ජයසූරියටත් චෝදනා කරනවා. ක්‍රීඩා වැරදි වැළැක්වීමේ ඒකකය 2019 දී පිහිටුවූයේ මමයි. ලෝකේ නැති නීතියක් ලංකාවේ තිබීමම අපිට ශක්තියක්. අලුතෙන් ගෙනාපු ON LINE පනත හරහා මඩ ගහන සියලුදෙනාට නඩු පවරනවා. සියලුදෙනාගේ සමාජ මාධ්‍ය තහනමකට ලක්වෙනවා. එකම චෝදනා කරන කට්ටියක් එකම නාලිකාවක් අල්ලගෙන අපිට මඩ ගහනවා."
+
+◼️
+
+[Data](articles/ef226f06.json)
+
+---
+
+### Special committee appointed to investigate ‘ISIS presence’ in Sri Lanka - IGP
+
+*2024-05-26 21:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/99451/special-committee-appointed-to-investigate-isis-presence-in-sri-lanka-igp) · `en`
+
+Inspector General of Police (IGP) Deshabandu Tennakoon says that a special committee has been appointed to find out whether any individuals linked to the ISIS terrorist organization are staying in the country.
+
+IGP Tennakoon also said that an immediate investigation is currently being carried out in this regard.
+
+Speaking to the media in Kaduwela today (26), Tennakoon said: “A new committee has been appointed, including the Terrorism Investigation Division, Intelligence Unit officials, and the Special Task Force, under the supervision of the Deputy Inspector General of the Criminal Investigation Department, to investigate in this regard”.
+
+“I discuss with the committee every day about the daily progress and provide them with the required instructions. There has been a successful investigation carried out regarding the matter. We will inform you about the progress of the investigation in the future”, he added.
+
+...
+
+[Data](articles/41df24af.json)
+
+---
 
 ### A designer who has taken the hearts in the world is passing away
 
@@ -2209,69 +2259,5 @@ Meanwhile, Wellawaya police said that the little father of a girl who had sexual
 [Data](articles/35f3e947.json)
 
 [Extended Data](ext_articles/35f3e947.ext.json)
-
----
-
-### Ranil holds talks with Wigneswaran
-
-*2024-05-26 11:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ranil-holds-talks-with-Wigneswaran/108-283358) · `en`
-
-Jaffna, May 26 (Daily Mirror) - President Ranil Wickremesinghe engaged in discussions with Member of Parliament and Former Chief Minister, C.V. Wigneswaran at his private residence in Jaffna yesterday.
-
-It was reported that the meeting centered on the ongoing development initiatives in the North and the strategies being implemented to address the concerns of the people in the area.
-
-◼️
-
-[Data](articles/5fe7b700.json)
-
-[Extended Data](ext_articles/5fe7b700.ext.json)
-
----
-
-### Slagine harm Matara
-
-*2024-05-26 11:19:17* · [`adalk`](https://www.ada.lk/breaking_news/සුලගීන්-මාතරට-බර-හානී/11-409822) · `si`
-
-In Matara district, strong winds have caused significant damage, affecting around 1,100 people and damaging about 300 houses, especially in areas like Kotamba, Malawala, and Model. The disaster management center urges the public to report vulnerable trees, which could fall and cause further harm. Relief efforts are underway under the guidance of local authorities.
-
-🟩
-
-The Matara District Disaster Management Center (SSDA) Center (SSDA) Center has said that about 300 houses have been partially damaged due to the recently tightened houses across the Matara district.
-
-Its director Lieutenant Colonel Ariywansa Kandamby said that the situation was more influenced to Kotamba, Malawala, Model, Model. The roofs have damaged the roofs by collapsing the trees and branches on homes. The Matara District Disaster Management Center states that if the vulnerable trees in public places will be taken to cut off the trees or branches at the expense of the government.
-
-The center requests the public to inform such trees.
-
-It is said that about 1100 people in the Matara district have been affected due to the harm to houses due to the tight winds.
-
-...
-
-[Data](articles/4c5a6cdd.json)
-
-[Extended Data](ext_articles/4c5a6cdd.ext.json)
-
----
-
-### UK court orders extradition of Sri Lankan trafficking suspect
-
-*2024-05-26 11:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/UK-court-orders-extradition-of-Sri-Lankan-trafficking-suspect/108-283357) · `en`
-
-UK, May 26 - The UK court has ordered the extradition of a Sri Lankan man accused of running a people-trafficking ring while employed at a chicken shop to France.
-
-Sathasivam Sivagankan, 58, a refugee granted asylum in Britain, allegedly organized clandestine Channel crossings from his rented home, as revealed in court documents.
-
-A judge has now ordered the dad of two’s extradition to France, where last year he was convicted of people smuggling and given a five-year jail term in his absence, the Sun reported.
-
-Sivagankan had been granted indefinite leave to remain in Britain after fleeing the war in Sri Lanka in 2003 with his wife and sons, who are UK citizens.
-
-The 58-year-old Tamil, of Colliers Wood, South West London, was working part-time at Morley’s chicken shop in Brixton — and receiving universal credits, according to documents.
-
-But he was also a ringleader in a gang which smuggled Sri Lankans into several European countries over two years.
-
-...
-
-[Data](articles/8dede13b.json)
-
-[Extended Data](ext_articles/8dede13b.ext.json)
 
 ---

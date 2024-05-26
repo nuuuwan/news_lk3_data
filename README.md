@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-26 20:34:12**
+As of **2024-05-26 20:52:34**
 
 ## Newspaper Stats
 
@@ -26,31 +26,41 @@ adaderanasinhalalk | 4,227
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,387 (100.0%) of 26,388 articles have been extended.
+26,388 (100.0%) of 26,388 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-26 (Sunday)
 
-### බිලිඳා ප්‍රසූතියේදී මැරුණා ද ? අතුරුදන් කළා ද ?
+### Did the baby dead in delivery?Missing?
 
 *2024-05-26 20:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197037) · `si`
 
-ප්‍රසූතියේ දී මියගිය බව කියන බිලිඳෙකුගේ මෘතදේහය හෝ තමාට පෙන්වීමට මාතර නව දිස්ත්‍රික් මහරෝහලේ කාර්ය මණ්ඩලය පියවර නොගත් බවට එම බිලිඳාගේ ඥාතීන් චෝදනා කරයි.
+A newborn's death during delivery at a new District General Hospital in Matara, Sri Lanka, has sparked controversy. The family alleges poor handling of the situation by the hospital staff, including suspicions about the treatment of the deceased infant. Despite medical confirmation from a private clinic, the hospital initially claimed the baby was stillborn before acknowledging its death. The family was asked to pay for services related to the burial, which led to further dissatisfaction. The hospital's handling of the situation, including the lack of clear communication and potential mismanagement, has raised concerns among the community.
 
-ඔවුන් පවසන්නේ මෘතදේහය සම්බන්ධයෙන් අවස්ථා තුනක දී රෝහල් කාර්ය මණ්ඩලය පරස්පර විරෝධී ප්‍රකාශ සිදුකිරීම සම්බන්ධයෙන් බලවත් සැකයක් පවතින බවය.
+🟩
 
-මාතර වැලිගම ප්‍රදේශයේ පදිංචි 24හැවිරිදි කාවින්ද්‍යා මදුෂානි පසුගිය 22වනදා මාතර නව දිස්ත්‍රික් මහ රෝහල වෙත ඇතුළත්ව තිබුණේ සිය කුළු﻿ඳුල් දරු ප්‍රසූතිය සඳහාය.
+The babies of the babies complained that the staff of the new District General Hospital has not taken steps to show his body or babies that died in giving birth.
 
-මදුෂානි එම රෝහලේ සේවය කරන ප්‍රසව හා නාරිවේද විශේෂඥ වෛද්‍යවරයෙකුගේ පෞද්ගලික වෛද්‍ය සායනයකට එක්ව ඇති අතර, දරු ප්‍රසූතිය සඳහා අදාළ රෝහල තෝරාගෙන ඇත්තේද ඒ අනුවයි.
+They say three stages of the body staff in three occasions that hospital staff are strongly suspicious.
 
-බිලිඳා කුස තුළ නිරෝගී තත්ත්වයෙන් පසුවන බවට පෞද්ගලික සායනයේ දී සිදුකළ වෛද්‍ය පරීක්ෂණවලදී මෙන්ම දරු ප්‍රසූතිය සඳහා රෝහලට ඇතුළත්වූ දිනයේ සිදුකළ ස්කෑන් පරීක්ෂණයෙන් ද තහවුරු වී ඇත.
+The 24-year-old residents of Weligama, Matara, was included in the New District General Hospital in Matara on the 22nd.
 
-මදුෂානි රෝහල් ගතකළ ඉකුත්දින රාත්‍රියේම ඇය සිය කුළුඳුල් දරුවා මෙලොවට බිහිකළ නමුත්, ඉන් අනතුරුව බිලිඳා මියගොස් ඇති බව රෝහල් බලධාරීන් දැනුම්දී ඇත.
+Madushani has joined the private medical clinic of a loyal and gynecologist working at the hospital while the relevant hospital has been selected for childbirth.
+
+The scan has also been confirmed by medical tests on the private clinic, as well as the date of childhood to be included in the private clinic.
+
+The hospital authorities have informed her the first child to create his first child, but died after her baby was dead.
+
+The staff has told the relatives to pay Rs.
+
+When questioned by the child's body, relatives were taken to the staff of relatives regarding the burial or burial to the Colombo National Hospital.
 
 ...
 
 [Data](articles/6a770090.json)
+
+[Extended Data](ext_articles/6a770090.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-26 09:34:04**
+As of **2024-05-26 09:53:06**
 
 ## Newspaper Stats
 
-*Scraped **26,278** Articles*
+*Scraped **26,280** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,36 +17,84 @@ economynextcom | 1,505
 dailyftlk | 1,533
 adalk | 2,235
 adaderanalk | 3,016
-tamilmirrorlk | 3,075
+tamilmirrorlk | 3,076
 virakesarilk | 4,006
 dailymirrorlk | 4,147
-adaderanasinhalalk | 4,206
+adaderanasinhalalk | 4,207
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,277 (100.0%) of 26,278 articles have been extended.
+26,278 (100.0%) of 26,280 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-26 (Sunday)
 
-### ප්‍රේම සම්බන්ධය ඝාතනයකින් කෙළවර වෙයි
+### වන්දනා ගමන මාරක අනතුරින් කෙළවර වෙයි
+
+*2024-05-26 09:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197017) · `si`
+
+වන්දනා ගමනක් යමින් වෑන් රථයක් මාර්ගයෙන් ඉවතට ලිස්සා ගොස් සිදුවූ අනතුරකින් පුද්ගලයෙකු මියගොස් තවත් 13 දෙනෙකු තුවාල රෝහල් ගත කර තිබේ.
+
+ගල්ගමුව, මීඔය ආසන්නයේදී අද (26) අලුයම එම අනතුර සිදුව ඇති බව පොලීසිය පවසයි.
+
+පාදෙණිය දෙස සිට අනුරාධපුර දෙසට ගමන්කළ වෑන්රථය රියදුරු ට නින්දයාම හේතුවෙන් මීඔය පාලමේ දූපතේ ගැටී මාර්ගයෙන් ඉවතට ලිස්සා ගොස්  ගසක ගැටී එම අනතුර සිදුව ඇත.
+
+අනතුර සිදුවන අවස්ථාවේදී වෑන් රථයේ 15 දෙනෙකු පමණ පිරිසක් සිට ඇති බව වාර්තා වෙයි.
+
+වෑන් රථයේ ගමන්ගත් එක අයෙකු අනතුර සිදුවූ අවස්ථාවේදීම මියගොස් ඇති අතර අනතුරින් තුවාල ලැබූ තවත් 13 දෙනෙකු ගල්ගමුව රෝහලට ඇතුළත් කර තිබේ.
+
+අනතුරින් මියගොස් ඇත්තේ, ඇඹිලිපිටිය ප්‍රදේශයේ පදිංචිව සිටි 69 හැවිරිදි පුද්ගලයෙකි.
+
+තුවාල ලබා ගල්ගමුව රෝහලට ඇතුළත් කළ අයගෙන් 07 දෙනෙකු වැඩිදුර ප්‍රතිකාර සඳහා අනුරාධපුර රෝහලට ඇතුළත් කර තිබේ.
+
+◼️
+
+[Data](articles/475740d9.json)
+
+---
+
+### 1 வயது குழந்தை மாரடைப்பால் உயிரிழந்தான்
+
+*2024-05-26 09:30:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/1-வயது-குழந்தை-மாரடைப்பால்-உயிரிழந்தான்/50-337866) · `ta`
+
+ஒரு வயது குழந்தையின் கொடூரமான காயங்கள் பற்றிய விசாரணையில், அவருக்கு மாரடைப்பு ஏற்பட்டது, அதன் விளைவாக மூளை பாதிப்பு, விலா எலும்பு உடைந்திருந்தமையை காட்டியது.
+
+தனது காதலியின் 1 வயது மகனைக் கொன்றதாக குற்றம் சாட்டப்பட்டு ஓஹியோவில் வசிக்கும் எட்வர்ட் முர்ரே, 23,  கைது செய்யப்பட்டார்.
+
+மே 10 ஆம் திகதி முர்ரே கைது  செய்யப்பட்ட பின்னர், கொலை, கொடூரமான தாக்குதல் மற்றும் குழந்தைக்கு ஆபத்தை விளைவித்தல் ஆகிய குற்றச்சாட்டுகள் சுமத்தப்பட்டுள்ளன.
+
+சின்சினாட்டி வீட்டிற்கு துணை மருத்துவர்கள் மே 1 ஆம் திகதி அழைக்கப்பட்டனர், அங்கு அவர்கள் குழந்தை பதிலளிக்காததைக் கண்டனர். இதையடுத்து அவரது உயிரைக் காப்பாற்றும் முயற்சியில் ஈடுபட்டனர். அவர் சிகிச்சைக்காக சின்சினாட்டி குழந்தைகள் மருத்துவமனை மருத்துவ மையத்தின் தீவிர சிகிச்சை பிரிவுக்கு அனுப்பப்பட்டார். குழந்தை இறந்துவிட்டதாக மே 5 ஆம் திகதி அறிவிக்கப்பட்டது
+
+...
+
+[Data](articles/9409367c.json)
+
+---
+
+### Love relationship end in murder
 
 *2024-05-26 09:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197016) · `si`
 
-ප්‍රේම සම්බන්ධතාවයක් මුල්කරගනිමින් ඇතිවූ ආරවුලක් හේතුවෙන් තියුණු ආයුධයකින් පහරදී තරුණයෙකු ඝාතනය කර තිබේ.
+In a tragic twist of fate, a young man's life ended in a violent act stemming from a love affair. The incident occurred near Grandpass Skin Road Bandaranaike Circulars, where he was attacked with a sharp weapon. On his way to Orugodawatta to confront the originator of the conflict, another group was also attacked. Three underage suspects, aged 17 and 18, were apprehended in Wellampitiya.
 
-ඊයේ (25) එම සිදුවීම වාර්තා වී තිබුණේ, ග්‍රෑන්ඩ්පාස් පොලිස් වසමේ බේස්ලයින් පාර බණ්ඩාරනායක වටරවුම ආසන්නයේදීය.
+🟩
 
-මරණකරු වෙසක් සිරි නැරඹීම සඳහා තම හිතවතුන් කිහිපදෙනෙකු සමග ඔරුගොඩවත්ත දෙසට ගමන් කරමින් සිටින අතරතුරදී පිරිසක් විසින් තියුණු ආයුධයකින් පහරදී මෙම ඝාතනය සිදුකර තිබුණි.
+A young man has been assaulted by a sharp object due to a sharp weapon based on a love affair.
 
-ඝාතනය සම්බන්ධයෙන් වැල්ලම්පිටිය ප්‍රදේශයේ පදිංචි අවුරුදු 17 හා 18 වයස්වල පසුවන සැකකරුවන් තිදෙනෙකු අත්අඩංගුවට ගෙන ඇත.
+The incident was reported near the Grandpass Skin Road Bandaranaike Circulars.
+
+While traveling to the Orugodawatta to the Originator of the deceased, a group of people had been attacked with a sharp object while he was heading to the Originator.
+
+Three suspects have been arrested in Wellampitiya, 17 and 18 years.
 
 ◼️
 
 [Data](articles/131c8b02.json)
+
+[Extended Data](ext_articles/131c8b02.ext.json)
 
 ---
 
@@ -2181,61 +2229,5 @@ With the help of the Government of the Netherlands under the plan to improve hea
 [Data](articles/935c4bef.json)
 
 [Extended Data](ext_articles/935c4bef.ext.json)
-
----
-
-### The "Kaposu" dog, the image of the crypto currency of Dogecoin
-
-*2024-05-25 11:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/184440) · `ta`
-
-Kabosu, the Shiba Inu dog featured on Dogecoin, passed away at 18. Developed in 2013 by Billy Markus and Jackson Palmer to challenge Bitcoin, Dogecoin's value surged after endorsements from Elon Musk, notably when he acquired Twitter in 2022. This led to Dogecoin reaching a market cap of $4 billion, ranking it among the top cryptocurrencies.
-
-🟩
-
-The Japanese dog, the image of Bitcoin, who was replaced by the crypto coin, died on Friday.
-
-The dog, known as Kabosu, died while sleeping at the age of 18, and its owner Aksuko Sado has chosen.
-
-Dogecoin Crypto coin was developed for sharing crypto currency, including bitcoin.
-
-In 2013, Dojgai was created to compete with Bitcoin by software engineers Billy Marcus and Jackson Balmer.
-
-Beginning with the name and functioning was the sharing currency of Dojgai's crypto coins.
-
-For this purpose, they chose the name and image of the Japanese dog in the internet.
-
-In 2020, Tesla Car Chairman Elon Mask Togeta, a supporter of Crypto Coins, has increased its value on Twitter (currently X site).
-
-After that, Elon Musk repeatedly promoted the Crypto coin.
-
-That is, in 2022, Elon Mask bought the social media site Twitter and posted the image of Kaposu's image.. Due to this, the value of the Crypto currency of Dojgai last year increased to $ 4 billion.
-
-...
-
-[Data](articles/c67c1161.json)
-
-[Extended Data](ext_articles/c67c1161.ext.json)
-
----
-
-### Sri Lanka to free 43 Pakistanis in jails
-
-*2024-05-25 11:42:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-to-free-43-Pakistanis-in-jails/108-283331) · `en`
-
-Islamabad, MAy 25 (AFP) -  Pakistan and Sri Lanka have agreed to take immediate steps to facilitate return of prisoners of each country to their homeland.
-
-The move, which would bring 43 Pakistani citizens back to their homes from Siri Lankan jails, was part of an understanding reached at a meeting of High Commissioner of Sri Lanka, Admiral (Retd) Ravindra Chandra Srivijay Gunaratne with Interior Minister Mohsin Naqvi on Friday.
-
-Both sides agreed to increase cooperation in the field of security and counter-narcotics, as issues of mutual interest and the development of bilateral relations came under discussion at the meeting.
-
-The interior ministry had been working with the Sri Lankan authorities for the past month to bring back the 43 Pakistani prisoners.
-
-The Sri Lankan high commissioner assured all possible cooperation in this regard. The interior minister thanked the diplomat for his support for the repatriation of the prisoners.
-
-...
-
-[Data](articles/6faac606.json)
-
-[Extended Data](ext_articles/6faac606.ext.json)
 
 ---

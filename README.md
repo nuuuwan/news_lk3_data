@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-27 00:49:18**
+As of **2024-05-27 01:03:31**
 
 ## Newspaper Stats
 
-*Scraped **26,418** Articles*
+*Scraped **26,427** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,21 +14,179 @@ bbccomsinhala | 265
 newsfirstlk | 363
 islandlk | 1,431
 economynextcom | 1,511
-dailyftlk | 1,533
+dailyftlk | 1,539
 adalk | 2,247
 adaderanalk | 3,030
 tamilmirrorlk | 3,099
 virakesarilk | 4,036
-dailymirrorlk | 4,171
+dailymirrorlk | 4,174
 adaderanasinhalalk | 4,234
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,418 (100.0%) of 26,418 articles have been extended.
+26,418 (100.0%) of 26,427 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-05-27 (Monday)
+
+### Granting of land rights opens doors to progress: President
+
+*2024-05-27 00:50:30* · [`dailyftlk`](https://www.ft.lk/news/Granting-of-land-rights-opens-doors-to-progress-President/56-762181) · `en`
+
+President distributes 1,286 land deeds in Jaffna district through the “Urumaya” program
+
+Says Sri Lanka, the only nation in South Asia offering free land ownership to its citizens
+
+Reveals funds have been earmarked for the construction of homes in Northern province next year
+
+Substantial reduction in the size of the high-security zone in Jaffna
+
+President Ranil Wickremesinghe on Saturday emphasised the confirmation of land rights for the people, ensuring avenues for progress.
+
+He highlighted Sri Lanka’s unique status as the sole South Asian nation offering free land rights to its citizens.
+
+Encouraging recipients to safeguard the freehold deeds from the “Heritage” program for future generations, he made these remarks the Saturday’s ceremony, where land deeds were bestowed upon the residents of the Jaffna district.
+
+...
+
+[Data](articles/0d9b6ce3.json)
+
+---
+
+### Sumanthiran thanks President for prioritising Northern development projects
+
+*2024-05-27 00:49:02* · [`dailyftlk`](https://www.ft.lk/news/Sumanthiran-thanks-President-for-prioritising-Northern-development-projects/56-762180) · `en`
+
+Tamil National Alliance (TNA) MP M.A. Sumanthiran on Saturday expressed his gratitude to President Ranil Wickremesinghe over the weekend for Wickremesinghe’s contributions to the Northern Province.
+
+Speaking at the inauguration of the Clinical Training and Research Block at the Jaffna University Faculty of Medicine, Sumanthiran thanked the President for prioritising the Northern Province and visiting to launch numerous development programs.
+
+On Saturday, President Ranil Wickremesinghe inaugurated the Clinical Training and Research Block at the Jaffna University Faculty of Medicine, marking the first new construction at the faculty in 46 years. The project has cost the Government an estimated Rs. 942 million.
+
+Sumanthiran noted that Wickremesinghe had visited Jaffna numerous times as Prime Minister during the Good Governance Government, taking significant steps to alleviate the hardships faced by the people of the North.
+
+...
+
+[Data](articles/b2366b73.json)
+
+---
+
+### Human Rights Watch alleges crackdown over civil war anniversary
+
+*2024-05-27 00:47:32* · [`dailyftlk`](https://www.ft.lk/news/Human-Rights-Watch-alleges-crackdown-over-civil-war-anniversary/56-762179) · `en`
+
+Cites UN report calling for international prosecutions for enforced disappearances
+
+Sri Lankan authorities have threatened and detained Tamils commemorating those who died or went missing in the country’s civil war, Human Rights Watch said last week.
+
+On 17 May the United Nations human rights office issued a report calling for international prosecutions and other accountability measures to address the thousands of unresolved cases of enforced disappearances in the war, which ended on 18 May 18, 2009.
+
+“The Sri Lankan Government is in denial about atrocities its forces committed during the civil war, so it tries to silence victims and their communities instead of providing truth, justice, and reparations,” said Human Rights Watch Asia Director Elaine Pearson. “It’s clear that more international action is needed to bring relief to victims and prevent a recurrence of abuses.”
+
+...
+
+[Data](articles/9d5a6da5.json)
+
+---
+
+### 15 years after end of war, victims and survivors still await justice and accountability: ICJ
+
+*2024-05-27 00:43:55* · [`dailyftlk`](https://www.ft.lk/news/15-years-after-end-of-war-victims-and-survivors-still-await-justice-and-accountability-ICJ/56-762178) · `en`
+
+As Sri Lanka marked 15 years since the end of a decades-long armed conflict on 18 May, the International Commission of Jurists (ICJ) deplored the near total impunity that has prevailed, and lack of victim-centred justice and accountability for war time atrocities.
+
+The ICJ calls on the responsible authorities to reverse course and take measures that will provide real access to justice for the conflict’s numerous victims and survivors and bring those responsible for crimes under international law to account.
+
+The bleak picture is reinforced by the UN Office of the High Commissioner for Human Rights (OHCHR) in a report released on 17 May, titled Accountability for Enforced Disappearances in Sri Lanka. The report notes the near total impunity enjoyed by perpetrators of widespread enforced disappearances over four decades and a systematic failure to account for the fate and whereabouts of victims.
+
+...
+
+[Data](articles/dbdb0f88.json)
+
+---
+
+### Why Sri Lanka needs to ditch post-dated cheques
+
+*2024-05-27 00:26:09* · [`dailyftlk`](https://www.ft.lk/columns/Why-Sri-Lanka-needs-to-ditch-post-dated-cheques/4-762177) · `en`
+
+A post-dated cheque represents a future promise to pay, not a completed transaction
+
+A post-dated cheque is a regular cheque with a future date written on it. This means the cheque writer instructs the bank not to pay the cheque until that future date arrives.
+
+Purpose: People use them to ensure the recipient waits to deposit the cheque. There are a couple of reasons for this:
+
+The writer doesn’t have enough funds currently but expects to by the future date.
+
+The cheque is for a prepayment, like paying for a service before it’s completed.
+
+Validity: The rules around post-dated cheques can vary depending on the country. In some places, like the US and UK, banks can process them even before the written date. In other places, like India and Australia, the bank has to wait until the date on the cheque.
+
+Legality: Post-dated cheques are generally legal and considered negotiable instruments.
+
+...
+
+[Data](articles/0224d210.json)
+
+---
+
+### China and Russia together: A new world order?
+
+*2024-05-27 00:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/China-and-Russia-together-A-new-world-order/172-283380) · `en`
+
+The vision of Putin and Xi Jinping is not about creating a new empire challenging the American version. But they want to be taken seriously
+
+China is more ambitious about countering American power through trade. This is where Xi Jinping is walking a fine line between Russia and Western Europe (the European Union)
+
+Russian President Vladimir Putin’s state visit to China is more than a show of friendship and unity in adversity. It shows ambition on both sides to create a new multi-polar world order challenging the unipolar status enjoyed by the United States since the dismemberment of the former USSR, ending decades of bipolar politics, the Cold War and détente.
+
+...
+
+[Data](articles/3058b6c0.json)
+
+---
+
+### Presidential pardons -for whose benefit? - EDITORIAL
+
+*2024-05-27 00:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Presidential-pardons-for-whose-benefit-EDITORIAL/172-283379) · `en`
+
+The large-scale pardoning of prisoners by Lankan Presidents for the commission of minor crimes has become customary during particular festivals, for example the day marking the country’s independence, Vesak and Christmas.
+
+Often these pardons have been granted to persons who were among those taken in for commission of petty criminal activity.
+
+The Task Force on Judicial and Legal Causes for Prison Overcrowding and Prison Reforms reveals that nearly 52 percent of the prison population consists of persons unconvicted of any crime.
+
+While the total prison capacity in the country in 2022 stood at 11,291 inmates, the report added the number of imprisoned reached 26,176 individuals by the end of 2022. The number comprised 16,727 suspects and 9,449 convicts.
+
+To make matters worse, during these trying times, the state spends around Rs. 8.3 billion to look after the prisoners.
+
+Given these circumstances, many of our people hardly ever opposed the freeing of prisoners by the head of state.
+
+...
+
+[Data](articles/29d5cfd6.json)
+
+---
+
+### “Operation Sajaba”; Blueprint for Re-unification of the Green Party
+
+*2024-05-27 00:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Operation-Sajaba-Blueprint-for-Re-unification-of-the-Green-Party/172-283381) · `en`
+
+In the 2015 elections, Wickremesinghe topped the list of Colombo  district  candidates with over 500,000 preference votes. Yet Ranil too  was buried in the 2020 avalanche of defeat. Ranil whose detractors used  to ridicule him in the past as “Mr.Bean” and ‘serial loser” was  virtually written off. It was said that Ranil Wickremesinghe’s political  career had ended
+
+The Aragalaya had been launched with the demand “Gota go home” or “Go Home Gota”. This objective was realised in July 2022. Gotabaya Rajapaksa fled the country and resigned from abroad as President. Ranil took over as acting president on  July 14, 2022
+
+President Ranil Wickremesinghe welcomed to the Ceylon Workers’ Congress May Day rally at Kotagala
+
+Sri Lanka’s  United National Party (UNP) suffered a humiliating electoral defeat in the 2020 Parliamentary elections. Electoral debacles were nothing new to the UNP which is  referred to by some as the grand old party.
+
+...
+
+[Data](articles/7dd95acf.json)
+
+---
 
 ### 2024-05-26 (Sunday)
 
@@ -51,6 +209,20 @@ Earlier, at the UAE Grand Prix in Dubai, he finished the Men’s 100m event with
 [Data](articles/70667c23.json)
 
 [Extended Data](ext_articles/70667c23.ext.json)
+
+---
+
+### Resilience and revival amidst revered rituals: A post-Vesak pondering
+
+*2024-05-26 23:36:16* · [`dailyftlk`](https://www.ft.lk/columns/Resilience-and-revival-amidst-revered-rituals-A-post-Vesak-pondering/4-762166) · `en`
+
+We have just witnessed a colourful Vesak amid heavy showers. Amidst the economic woes, enthusiastic devotees resorted to various rituals with reverence. Sri Lankans have begun to show their serenity, synergy, and solidarity, in steadily moving through a turbulence. Today’s column reflects our resilience and revival, with inherited prospects and pitfalls.
+
+“Our ability to reach unity in diversity will be the beauty and test of our civilisation,” said Mahatma Gandhi. In fact, it is our duty to ensure that beauty of unity in diversity. It is encouraging to see people from all walks of life coming forward with rare unity despite typical blame games of opportunistic politicians. Vesak as a festival of light was a reassurance of “Apekema” (the “SriLankanness”) dispelling the darkness of chaos and confusion. The starting point of such a rich experience is the inner serenity or stillness.
+
+...
+
+[Data](articles/df71e6e3.json)
 
 ---
 
@@ -2063,195 +2235,5 @@ The Disaster Management Center (DMC) said that the landslide warnings have been 
 [Data](articles/ed1acc00.json)
 
 [Extended Data](ext_articles/ed1acc00.ext.json)
-
----
-
-### ’Leopard Tales’ exhibition unveiled
-
-*2024-05-26 13:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Leopard-Tales-exhibition-unveiled/110-283363) · `en`
-
-In a celebration of Sri Lanka's rich wildlife heritage, the Department of National Museums, in collaboration with Yala Leopard Diary, Yala Leopard Diary - Block 5, Leopards of Horton Plains, Wilpattu Leopard Diary, and Kumana Leopard Diary, organized an exquisite photographic exhibition titled "Leopard Tales - Exploring Sri Lanka’s Wilderness" at the at the Department of National Museums.
-
-The inauguration ceremony, held on May 17th, 2024, marked the opening of the exhibition. From May 18th to May 27th, 2024, visitors are welcomed to explore this captivating display of photography at the Colombo National Museum, from 10:00 am to 5:00 pm daily. Pix by Kushan pathiraja.
-
-◼️
-
-[Data](articles/06acccc6.json)
-
-[Extended Data](ext_articles/06acccc6.ext.json)
-
----
-
-### Colombo road closures continue tonight due to extreme weather
-
-*2024-05-26 13:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/99444/colombo-road-closures-continue-tonight-due-to-extreme-weather) · `en`
-
-Sri Lanka Police says several roads in Colombo will be closed for traffic once again tonight (26) in order to avoid the repetition of the incidents during the last couple of days due to the current weather conditions.
-
-Police Media Spokesman DIG Nihal Thalduwa said that Braybrooke Place, Malalasekara Road in Borella to Tummulla Junction, Bauddhaloka Mawatha, and the stretches of road from Dr. Lester James Peiris Mawatha to Rotunda Junction in Colombo 03 will remain closed for traffic tonight.
-
-Meanwhile, the police advise visitors to the Vesak zones in Colombo to park their vehicles in a safe location and proceed on foot.
-
-Sri Lanka Police decided to close multiple roads in Colombo city last night (25) as a result of several incidents of trees falling, damages to vehicles and disruptions to traffic movement had been reported in Colombo during the last few days owing to the prevailing inclement weather conditions.
-
-◼️
-
-[Data](articles/b6bc36c7.json)
-
-[Extended Data](ext_articles/b6bc36c7.ext.json)
-
----
-
-### Several roads closed today
-
-*2024-05-26 13:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197024) · `si`
-
-Due to heavy winds causing accidents, several roads in Colombo will remain closed tonight. Key closures include Bauddhaloka Mawatha (Junguard Road to Thummulla Road), B ංග road (Junguard Road), and Bowwank Road. The public is advised to park safely and avoid areas with unstable trees.
-
-🟩
-
-A few main roads in Colombo will be closed tonight.
-
-Police Media Spokesperson DIG's DIG's IGP Law told Ada Derana that the objective of the accident with heavy winds will continue to be closed for several roads.
-
-Accordingly, Bauddhaloka Mawatha is to be closed from the Junguard Road to the Thummulla Road to the Thummulla Road, the B ංග road from the Junguard Road, Bowwank Road.
-
-The people who come to the Vesak zone can halt traffic in safety locations and travels to the zones.
-
-Meanwhile, the police urge the people to stay under stabbing in unprotected risk trees and stops vehicles.
-
-◼️
-
-[Data](articles/3adfa6c7.json)
-
-[Extended Data](ext_articles/3adfa6c7.ext.json)
-
----
-
-### Khadi Magistrate arrested bribes
-
-*2024-05-26 13:16:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/இலஞ்சம்-வாங்கிய-காதி-நீதவான்-கைது/76-337890) · `ta`
-
-A Khadi Magistrate was arrested for allegedly demanding a 4,500 rupee bribe for granting a divorce. The arrest followed a complaint to the Commission to Investigate Bribery or Corruption after a woman from Raja Ella Kumbakkadura sought a divorce in Khadi Court, Udadhalavinna.
-
-🟩
-
-When a woman demanded a bribe of Rs 4,500 for a divorce and divorce order, a Khadi Magistrate was arrested by the Commission to investigate bribery or corruption.
-
-The Khadi Magistrate has been arrested during a raid on the complaint received by the Commission to Investigate Bribery or Corruption.
-
-A woman from Raja Ella Kumbakkadura has filed a case in Khadi Court in Udadhalavinna demanding divorce from her husband.. Khadi Magistrate has asked the woman to bribe 4,500 rupees to give the case a verdict.
-
-The Khadi Magistrate has been arrested during a roundup of the Khadi court by the Commission to investigate bribery or corruption on the basis of a complaint made in this regard.
-
-◼️
-
-[Data](articles/6f58d9ff.json)
-
-[Extended Data](ext_articles/6f58d9ff.ext.json)
-
----
-
-### Rs.1.45 million from American theft
-
-*2024-05-26 13:09:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமெரிக்கரிடம்-இருந்து-ரூ-1-45-மில்லியன்-பணம்-திருட்டு/175-337889) · `ta`
-
-Aluthgama police investigate a theft of $4,000 and 2.1 million Sri Lankan rupees from a US businessman at a luxury hotel. The incident occurred when the victim woke up to find someone escaping from his room.
-
-🟩
-
-Aluthgama police have launched an investigation into theft of 1.45 million local and foreign money from a US businessman who was staying at a luxury hotel in Aluthgama.
-
-Investigations have been launched on the complaint of US citizen Andrew Christopher Lucas, who lodged a complaint with the police regarding the incident.
-
-Accordingly, the tourist arrived at the hotel on May 23, and at 4:20 am on the 24th, he woke up to find someone coming through the open screen of his room.. It was then that he told police that the suspect had escaped after shouting for help.
-
-Later, Lucas has notified the hostel staff and carried out a thorough test. At the time, he was missing the US $ 4,000, 210,000 Sri Lankan rupees, his passport and driver's license.
-
-◼️
-
-[Data](articles/7bed22ef.json)
-
-[Extended Data](ext_articles/7bed22ef.ext.json)
-
----
-
-### President Ranil Wickremesinghe Rescued & Stable Economy In Sri Lanka – An Inquiry
-
-*2024-05-26 13:01:07* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/president-ranil-wickremesinghe-rescued-stable-economy-in-sri-lanka-an-inquiry/) · `en`
-
-...
-
-[Data](articles/b0bf0492.json)
-
-[Extended Data](ext_articles/b0bf0492.ext.json)
-
----
-
-### Trump booed and heckled by raucous crowd at Libertarian convention
-
-*2024-05-26 12:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/99443/trump-booed-and-heckled-by-raucous-crowd-at-libertarian-convention) · `en`
-
-Presidential candidate Donald Trump was booed and heckled by many in a raucous audience at the Libertarian National Convention on Saturday night, a marked change from the adulation he receives at rallies from his fervently loyal supporters.
-
-Libertarians, who believe in limited government and individual freedom, blame Trump, a Republican, for rushing through the creation of a COVID-19 vaccine when he was president and for not doing more to stop public health restrictions on the unvaccinated during the pandemic.
-
-When Trump took to the stage in Washington, there were loud boos and jeers. A smaller section of the crowd, Trump supporters, cheered him.
-
-Shortly before he appeared, one Libertarian Party member shouted: “Donald Trump should have taken a bullet!”
-
-Trump’s campaign did not immediately respond to a request for comment about the hostile reception.
-
-...
-
-[Data](articles/6689d359.json)
-
-[Extended Data](ext_articles/6689d359.ext.json)
-
----
-
-### Nightly Special Trains cancel
-
-*2024-05-26 12:45:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/இரவுநேர-சிறப்பு-ரயில்கள்-இரத்து/76-337885) · `ta`
-
-Due to severe weather conditions causing tree falls on tracks, night special trains between Colombo and Badulla have been canceled for the third consecutive day. However, other train services, including night post trains, will operate as usual.
-
-🟩
-
-A senior official of the Railway Department said that night special trains between Colombo and Badulla, Badulla and Colombo have been canceled for the third day today.
-
-He added that the trees have fallen on the railway tracks and have been decided not to operate these night trains due to the worst weather conditions of these days.
-
-He added that other trains, including Colombo and Badulla, Badulla and Colombo night post trains, will run today.
-
-◼️
-
-[Data](articles/a9f8231e.json)
-
-[Extended Data](ext_articles/a9f8231e.ext.json)
-
----
-
-### Red warning about the storm
-
-*2024-05-26 12:29:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரெமல்-புயல்-குறித்து-சிவப்பு-எச்சரிக்கை/175-337884) · `ta`
-
-A severe storm warning has been issued for the southeastern Arabian Sea and Bay of Bengal, affecting sailors and fishermen. The storm, located 1500 km from Kankesanthurai, is moving north towards Bangladesh and India's West Bengal, expected to intensify. Strong winds of 60-70 km/h are forecasted in surrounding seas.
-
-🟩
-
-The Department of Meteorology has issued a red warning to the naval and fishermen in the southeastern Arabian Sea and Bay of Bengal in effect for the next 24 hours to the next 24 hours.
-
-The storm in the Northern Bengal Sea was strengthened at 05.30 am this morning.. It is located at a distance of 1500 km from Kankesanthurai in the northeast of Sri Lanka, 19.5 ° N and 89.3 ° E.
-
-It moves almost north at midnight today, intensifying and crossing the coast of Bangladesh and its adjoining West Bengal (India) coast.
-
-During this period, strong winds are likely to blow 60-70 kilometers in the seas around Sri Lanka, the southeastern Arabian Sea and the Bay of Bengal.
-
-◼️
-
-[Data](articles/64b29c20.json)
-
-[Extended Data](ext_articles/64b29c20.ext.json)
 
 ---

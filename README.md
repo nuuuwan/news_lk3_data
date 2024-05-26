@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-26 16:05:53**
+As of **2024-05-26 16:18:50**
 
 ## Newspaper Stats
 
-*Scraped **26,332** Articles*
+*Scraped **26,335** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,42 @@ newsfirstlk | 363
 islandlk | 1,431
 economynextcom | 1,508
 dailyftlk | 1,533
-adalk | 2,240
+adalk | 2,242
 adaderanalk | 3,023
 tamilmirrorlk | 3,090
 virakesarilk | 4,009
-dailymirrorlk | 4,158
+dailymirrorlk | 4,159
 adaderanasinhalalk | 4,216
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,332 (100.0%) of 26,332 articles have been extended.
+26,332 (100.0%) of 26,335 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-26 (Sunday)
+
+### CEB receives over 61,000 breakdown complaints by 2 p.m. today
+
+*2024-05-26 15:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/CEB-receives-over-61-000-breakdown-complaints-by-2-p-m-today/108-283365) · `en`
+
+Colombo, May 26 (Daily Mirror) - The Ceylon Electricity Board (CEB) has recorded over 61,000 electricity breakdown complaints by 2 p.m today
+
+They said the complaints were received following power outages for over 467,500 consumers during the last six days, during the period between May 21 and 26.
+
+Accordingly, more than 26,700 breakdowns have been rectified and power supply has been restored for about 425,500 consumers as of 2 p.m today.
+
+The CEB management and service staff are working round the clock to restore power to all affected consumers.
+
+However, by Friday (May 24), over 59,400 electricity breakdown complaints had been reported, resulting in power outages for over 431,500 consumers during the period between May 21 and 24.
+
+◼️
+
+[Data](articles/afb46546.json)
+
+---
 
 ### Van accident: One killed
 
@@ -53,6 +73,22 @@ Police suspect that the driver's sleep was the cause of the accident. Further in
 [Data](articles/51a7760c.json)
 
 [Extended Data](ext_articles/51a7760c.ext.json)
+
+---
+
+### පැජරෝවක් කෝච්චියේ ගැටෙයි
+
+*2024-05-26 15:10:42* · [`adalk`](https://www.ada.lk/breaking_news/පැජරෝවක්-කෝච්චියේ-ගැටෙයි/11-409826) · `si`
+
+මුහුදු බඩ දුම්රිය මාර්ගයේ ඉදුරුව තේක්කවත්ත දුම්රිය හරස් මාර්ගයේදී කැබ් රථයක් අද(26) දහවල් දුම්රියේ ගැටී එහි ගමන් ගත් රියදුරු අනූනවයෙන් ජීවිතය බේරාගෙන අති බව කොස්ගොඩ පොලීසිය කියයි.
+
+මේ අනතුරින් කැබ් රථයට දැඩි අලාභහානි සිදුව ඇති බවත් මේ දුම්රිය හරස් මගට සිය කැබ් රථය ඇතුලු කළ එහි රියදුරු කැබ් රථය නවතා දමා එයින් පැන සිය ජීවිතය බේරාගෙන ඇති බවත්  පොලීසිය කියයි. මීටියාගොඩ පදේශයේ තරුණයකු මෙසේ ජීවිතය බේරාගෙන ඇති බවත් ඔහු සිය නිවසේ පිහිටි මීටියාගොඩ  සිට ඉදුරුව දක්වා ගමන් ගනිමින් සිටියදී කොළඹ සිට මාතර දක්වා ගමන් ගත් දුම්රියක ඔහු පදවාගෙන පැමිණි කැබ් රථය ගැටී ඇති බවද පොලීසිය කියයි.
+
+මේ දුම්රිය හරස් මාර්ගයේ වර්ණ ආලෝක සංඥා පද්ධතියක් ඇතත් එය දැන් සතියක පමණ කාලයක සිටම දුම්රියක් එතත් නොවෙතත් එම වර්ණ ආලෝක සංඥා පද්ධතිය කියාත්මක වන බව පදේශවාසීහු කියති.
+
+◼️
+
+[Data](articles/7f01a4b3.json)
 
 ---
 
@@ -403,6 +439,24 @@ However, due to heavy rains in the Sabaragamuwa and Western Provinces and the Ga
 [Data](articles/3a33361f.json)
 
 [Extended Data](ext_articles/3a33361f.ext.json)
+
+---
+
+### හෙරොයින් අලෙවි කෙරූ සුරා බදු නිලධාරියකු ඇතුළු පස් දෙනෙකු අත්අඩංගුවට
+
+*2024-05-26 12:14:23* · [`adalk`](https://www.ada.lk/breaking_news/හෙරොයින්-අලෙවි-කෙරූ-සුරා-බදු-නිලධාරියකු-ඇතුළු-පස්-දෙනෙකු-අත්අඩංගුවට/11-409825) · `si`
+
+හෙරොයින් මත්ද්‍රව්‍ය අලෙවි කරමින් සිටි බව කියන සුරා බදු නිලධාරියකු සහ පෞද්ගලික බැංකුවක සහකාර කළමනාකරුවෙකු ඇතුළු පස් දෙනෙකු අලවතුගොඩ පොලිසිය මගින් අත්අඩංගුවට ගෙන තිබේ .
+
+හෙරොයින් මත්කුඩු අලෙවි කරමින් සිටි පුද්ගලයකු අලවතුගොඩ පොලිසිය මගින් අත්අඩංගුවට ගෙන ඔහුට මත්කුඩු ලැබෙන ආකාරය සම්බන්ධයෙන් සිදු කළ ප්‍රශ්න කිරීම්වලදී ඔහුට එම මත්කුඩු ලබාදෙන පුද්ගලයා සම්බන්ධයෙන් කරුණු අනාවරණය කිරීමෙන් අනතුරුව පොලිසිය එම පුද්ගලයාට උපාය දූතයෙකු යොදවා මත්කුඩු මිලදී ගන්නා අවස්ථාවේදී අත්අඩංගුවට ගෙන තිබේ .
+
+ඔහුගෙන් සිදුකළ ප්‍රශ්න කිරීම් වලදී ඔහු කොළඹ සුරාබදු ප්‍රධාන කාර්යාලයේ රාජකාරියේ නියුතු සුරා බදු නිලධාරියකු බව අනාවරණය වී තිබේ. අත්අඩංගුවට ගත් සුරා බදු නිලධාරියාගේ සන්තකයේ තිබී හෙරොයින් මත්කුඩු, අයිස්, ගංජා, ඩිජිටල් තරාදියක් මුදලින් රුපියල් දස දහසක් ඇතුළු භාණ්ඩ තොගයක් සොයාගෙන තිබේ .
+
+ඔහුගෙන් සිදුකළ දීර්ඝ ප්‍රශ්න කිරීම් වලදී හෙරෝයින් මත්කුඩු ජාවාරමට සම්බන්ධ කොළඹ ප්‍රදේශයේ පෞද්ගලික බැංකුවක සහකාර කළමනාකාරවරයෙකුද අත්අඩංගුවට ගෙන තිබේ .
+
+...
+
+[Data](articles/efb82134.json)
 
 ---
 
@@ -1312,8 +1366,6 @@ Airlines for America said U.S carriers plan to fly more than 26,000 daily flight
 
 *2024-05-26 08:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/99439/6-newborns-killed-after-major-fire-at-delhi-childrens-hospital) · `en`
 
-#WATCH | Delhi: A massive fire broke out at a New Born Baby Care Hospital in Vivek Vihar As per a Fire Officer, Fire was extinguished completely, 11-12 people were rescued and taken to hospital and further details are awaited.(Video source - Fire Department) https://t.co/lHzou6KkHH pic.twitter.com/pE95ffjm9p— ANI (@ANI) May 25, 2024
-
 As many as six newborns have lost their lives after a massive fire broke out at a New Born Baby Care Hospital in Delhi’s Vivek Vihar in the late hours of Saturday.
 
 According to the Delhi Fire Department, a total of 12 children were rescued, out of which six have died, one is on the ventilator and five are admitted to the hospital.
@@ -1321,6 +1373,8 @@ According to the Delhi Fire Department, a total of 12 children were rescued, out
 The rescued newborns have been shifted to East Delhi Advance NICU hospital.
 
 On information, police officials and firefighters reached the spot and doused the fire.
+
+Fire Officer Rajesh, said, “At 11:32 pm, Fire Service Control Room received information that fire broke out at a hospital...total 16 fire tenders reached the spot and fire has been extinguished completely. 2 buildings were affected by the fire, one is the hospital building and 2 floors of a residential building on the right side also caught fire...11-12 people were rescued and they were taken to hospital. Further details will be shared later”.
 
 ...
 
@@ -2221,89 +2275,5 @@ He added that Mahinda Rajapaksa continued to work for the Tamils, who did not ge
 [Data](articles/a4bdc9c1.json)
 
 [Extended Data](ext_articles/a4bdc9c1.ext.json)
-
----
-
-### Sladuka win 3 gold medals
-
-*2024-05-25 20:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197006) · `si`
-
-Paddy Sulusena Malinga won 3 gold and a silver medal at the ICN New Zealand National Championship, coached by Johan Seth. He's an alumnus of Deniyaya Central and Gamaleya Richmond Colleges, now an electrical engineer in New Zealand.
-
-🟩
-
-A. of Sri Lanka. Paddy Sulance Malinga has been elected for the ICN New Zealand National Championship.
-
-He was elected to the ICN New ZEALAND BOILING BOILING BOILDING FEDARATION.
-
-On May 19, 2024, the match was held in Tupo, New Zealand.
-
-Dhanuka Malinga recovered three gold medals and a silver medal in the match.
-
-The match was trained under the coach of Johan Seth, a trainer in Sri Lanka.
-
-Sladaraka Malinga Malinga is an alumni of Deniyaya Central College and Gamala Richmond College, which is currently an electrical engineer in New Zealand.
-
-◼️
-
-[Data](articles/c840c93d.json)
-
-[Extended Data](ext_articles/c840c93d.ext.json)
-
----
-
-### Poisonous wife arrested in husband's wine cup
-
-*2024-05-25 18:56:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கணவனின்-மது-கோப்பையில்-விஷம்-கலந்த-மனைவி-கைது/175-337835) · `ta`
-
-A woman and her brother are arrested for allegedly poisoning her husband's wine, leading to his death. The victim, a 45-year-old father of three, passed away from suspected poisoning after consuming the tainted drink at his wife's home.
-
-🟩
-
-His wife and wife's brother have been arrested on charges of poisoning her husband's wine cup.
-
-The mother of three children (45 years old) and his brother who were supporting him were arrested this afternoon.
-
-Beliatta police said they were arrested on charges of pouring poisonous chemicals in her husband's wine cup.
-
-The suspect's husband died of a sickness during his drinking at her home on the 20th and died of poisoning in the autopsy, police said that he had died.
-
-◼️
-
-[Data](articles/c53b7d92.json)
-
-[Extended Data](ext_articles/c53b7d92.ext.json)
-
----
-
-### A revelation of the massive trees of Colombo
-
-*2024-05-25 18:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197005) · `si`
-
-In Colombo, despite warnings, over 150-year-old trees are at risk of collapse. The Colombo Municipal Council took action to remove branches and trees but faced challenges as 50 trees fell during the southwest monsoon. An investigation found that many trees had rotted at the roots, leading to collapses. The National Building Research Organization is now conducting a special inquiry.
-
-🟩
-
-It has been revealed that there have been reports that many of the collapsing trees in Colombo, the Colombo area have not been in danger due to inclement weather.
-
-The Colombo Municipal Council was revealed in the investigation of the Colombo Municipal Council that nearly 200 years old and over 150 years of trees were in danger.
-
-The Colombo Municipal Council further stated that most of those trees were at risk of collapse.
-
-Steps were taken to remove more than 100 trees from the trees and removed the branches of other trees.
-
-However, it is reported that about 50 trees have been collapsed due to the windy of the southwest monsoon.
-
-However, the Colombo Municipal Council says that no such tree has been identified before.
-
-The investigation into the matter was revealed that many of the trees have gone to the root and collapsed due to the wind.
-
-Accordingly, the National Building Research Organization has informed the National Building Research Organization.
-
-...
-
-[Data](articles/157bda71.json)
-
-[Extended Data](ext_articles/157bda71.ext.json)
 
 ---

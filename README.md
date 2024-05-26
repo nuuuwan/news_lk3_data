@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-26 21:18:38**
+As of **2024-05-26 21:34:08**
 
 ## Newspaper Stats
 
-*Scraped **26,399** Articles*
+*Scraped **26,400** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,431
 economynextcom | 1,509
 dailyftlk | 1,533
-adalk | 2,246
+adalk | 2,247
 adaderanalk | 3,028
 tamilmirrorlk | 3,097
 virakesarilk | 4,034
@@ -26,11 +26,29 @@ adaderanasinhalalk | 4,229
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,398 (100.0%) of 26,399 articles have been extended.
+26,399 (100.0%) of 26,400 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-26 (Sunday)
+
+### රිමාල් තවත් සැර වෙයි
+
+*2024-05-26 20:56:17* · [`adalk`](https://www.ada.lk/breaking_news/රිමාල්-තවත්-සැර-වෙයි/11-409831) · `si`
+
+නැගෙනහිර බෙංගාල බොක්කේ පවතින ගැඹුරු පීඩන අවපාතය අද (26) මධ්‍යම රාත්‍රීය වන විටද  සුළු කුණාටුවක් බවට පත්වීමට බොහෝ දුරට ඉඩ තිබෙන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව සඳහන් කළේය.
+
+මෙම රිමාල් 'සුළි කුණාටුව හේතුවෙන් ගිනිකොණ දිග අරාබි මුහුදු ප්‍රදේශයේත් බෙංගාල බොක්ක මුහුදු ප්‍රදේශයේත් සුළඟේ වේගය පැයට කිලෝමීටර 70 දක්වා ඉහළ යා හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව කියයි.
+
+එම මුහුදු ප්‍රදේශ වෙත නැවත දැනුම් දෙනතුරු යාත්‍රා නොකරන ලෙස කාලගුණ විද්‍යා දෙපාර්තමේන්තුව ධීවර ප්‍රජාවට දැනුම් දෙයි. ධීවර අමාත්‍යාංශ අධ්‍යක්ෂ සුසන්ත කහවත්ත මහතා සඳහන් කළේ සියලු යාත්‍රාවලට අවදානම් කලාපයෙන් ඉවත්වන ලෙස දැනුම් දී ඇති බවයි. තව දුරටත් යම් ධීවර යාත්‍රාවක් එම කලාපයේ තිබේනම් ආරක්ෂිත ප්‍රදේශවලට හෝ ගොඩබිමට පැමිණෙන මෙන් ඔහු ඉල්ලා සිටියි.
+
+පවතින මෙම සුළි කුණාටුව ක් අද (26) මධ්‍යම රාත්‍රිය වන විට උතුරු දෙසට ගමන් කර බංගලාදේශය සහ ඊට යාබද බටහිර බෙංගාල වෙරළ තීරය හරහා ගමන් කරනු ඇති බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව සඳහන් කළේය. මෙම සුළං තත්ත්වය හෙට,(27) අනිද්දා (28) දිනවලද තවදුරටත් පැවතිය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව කියයි.
+
+◼️
+
+[Data](articles/e784199d.json)
+
+---
 
 ### Rejection of a Buddha statue arrested
 
@@ -548,23 +566,29 @@ The 53-year-old was 53 years old when he died.
 
 ---
 
-### තරුණ තරුණියන්ට රැකියා ලබාදීම රට බංකොලොත්භාවයෙන් මුදවා ගැනීමෙන් අනතුරුවයි
+### Providing employment to youths after rescuing the country from bankruptcy
 
 *2024-05-26 18:23:07* · [`adalk`](https://www.ada.lk/breaking_news/තරුණ-තරුණියන්ට-රැකියා-ලබාදීම-රට-බංකොලොත්භාවයෙන්-මුදවා-ගැනීමෙන්-අනතුරුවයි/11-409828) · `si`
 
-මෙම වසර තුළ රට බංකොලොත්භාවයෙන් මුදවා ගැනීමෙන් අනතුරුව රැකියා විරහිත තරුණ තරුණියන්ට රැකියා අවස්ථා ලබාදීමේ වැඩසටහන ආරම්භ කරන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+President Ranil Wickremesinghe announced a program to create employment for unemployed youths post-bankruptcy, focusing on revitalizing the export economy and modernizing agriculture. He highlighted the potential for high-income modern farming and the need for entrepreneurs. Additionally, the government plans to boost tourism, renewable energy, and export energy, aiming to make the Northern Province a significant renewable energy hub.
 
-ඒ සමඟ අපනයන ආර්ථිකයක් නැවත ඇති කිරීම වෙනුවෙන් පෞද්ගලික සමාගම් සමඟ සම්බන්ධ වී නවීන කෘෂිකර්මය ගමට ගෙන යාමේ වැඩපිළිවෙළ ලබන වසරේ සිට ආරම්භ කරන බව ද ජනාධිපතිවරයා සඳහන් කළේය.
+🟩
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මෙම අදහස් පළ කළේ ජාතික තරුණ සේවා සභාව මගින් යාපනය, දොරේඅප්පා ක්‍රීඩාංගණයේදී ඊයේ (24) සංවිධානය කර තිබූ යාපනය දිස්ත්‍රික් තරුණ සමුළුවට එක්වෙමිනි.
+President Ranil Wickremesinghe said that the program will be launched to provide employment opportunities for unemployed youths after the release of the country during the banking this year.
 
-මෙහිදී යාපනය ප්‍රදේශයේ තරුණ තරුණියන්ගේ අවශ්‍යතා සහ ගැටලු ජනාධිපතිවරයා වෙත සෘජුවම යොමු කිරීමට ද අවස්ථාව සලසා දී තිබුණි. මෙම අවස්ථාව සඳහා ජාතික තරුණ සේවා සභාවේ සභාපති/අධ්‍යක්ෂ ජනරාල් පසිඳු ගුණරත්න මහතා ද එක්ව සිටියේය. අනතුරුව ප්‍රදේශයේ තරුණ තරුණියන්ගේ කුසලතා විදහා දැක්වෙන සංස්කෘතිය ප්‍රසංගය නැරඹීමට ද ජනාධිපතිවරයා එක්විය.
+The President added that the program will be initiated from entering private companies to restore an export economy.
 
-මෙහිදී වැඩිදුරටත් අදහස් දැක්වූ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මෙසේද පැවසීය,
+President Ranil Wickremesinghe made these comments participating at the Jaffna District Youth Conference held yesterday (24) at the National Youth Services Council yesterday (24) at the Duraiappa Stadium in Jaffna.
+
+The needs and issues of the youth in Jaffna have been given the opportunity to direct the President directly to the President. Chairman / Director General of the National Youth Services Council Pasindu Gunaratne was also present at the occasion.. The President also visited the concertion of the culture of the youth of the area.
+
+Speaking further, President Ranil Wickremesinghe further said,
 
 ...
 
 [Data](articles/f5c2689a.json)
+
+[Extended Data](ext_articles/f5c2689a.ext.json)
 
 ---
 
@@ -2245,33 +2269,5 @@ It is said that the old man left his house this morning.
 [Data](articles/b4fb7238.json)
 
 [Extended Data](ext_articles/b4fb7238.ext.json)
-
----
-
-### Bagger;Defective - the UN. Geneva Representative of Sri Lanka
-
-*2024-05-26 10:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/184497) · `ta`
-
-Sri Lanka's Ambassador to Geneva, Himali Arunathilaka, has accused the United Nations Human Rights Commissioner's Office of issuing a biased report on Sri Lanka without proper orders from the UN Human Rights Council. She claims the report was politically motivated and released shortly after the end of Sri Lanka's armed conflict.
-
-🟩
-
-Sri Lanka's Ambassador to Geneva Himali Arunathilaka has said that the United Nations Human Rights Commissioner's Office has issued a statement on Sri Lanka.
-
-He has written a letter to the United Nations Human Rights Commissioner Wochar Dareg and made this allegation in the letter.
-
-The Sri Lankan Ambassador has said that the United Nations Human Rights Commissioner has issued a statement on Sri Lanka in the absence of any of the United Nations Human Rights Council order.
-
-The Sri Lanka Ambassador has said that this is the action taken by the Sri Lankan Ambassador to the Human Rights Commissioner's Office.
-
-In a letter to the United Nations Human Rights Commissioner's Office, Sri Lanka's Ambassador to Geneva, Himali Arunathilaka, has said that the report contradicts the basics of objective and selectiveness.
-
-The Sri Lankan Ambassador to Geneva has claimed that the report was a politically politically developed by the Sri Lankan government.
-
-...
-
-[Data](articles/5ceec7eb.json)
-
-[Extended Data](ext_articles/5ceec7eb.ext.json)
 
 ---

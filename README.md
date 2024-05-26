@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-26 10:51:43**
+As of **2024-05-26 11:03:39**
 
 ## Newspaper Stats
 
-*Scraped **26,288** Articles*
+*Scraped **26,290** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,505
 dailyftlk | 1,533
 adalk | 2,236
 adaderanalk | 3,018
-tamilmirrorlk | 3,076
+tamilmirrorlk | 3,078
 virakesarilk | 4,006
 dailymirrorlk | 4,151
 adaderanasinhalalk | 4,208
@@ -26,11 +26,45 @@ adaderanasinhalalk | 4,208
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,286 (100.0%) of 26,288 articles have been extended.
+26,288 (100.0%) of 26,290 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-26 (Sunday)
+
+### வானக விபத்தில் ஒருவர் பலி
+
+*2024-05-26 10:49:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வானக-விபத்தில்-ஒருவர்-பலி/175-337875) · `ta`
+
+பாதெனிய - அனுராதபுரம் வீதியில் கல்கமுவவில் இன்று அதிகாலை வேன் ஒன்று வீதியை விட்டு விலகி மரத்தில் மோதி விபத்துக்குள்ளானதில் ஒருவர் உயிரிழந்துள்ளதுடன் 13 பேர் காயமடைந்துள்ளனர்.
+
+வேனில் குறைந்தது 15 பேர் பயணித்ததாக பொலிஸார் தெரிவித்தனர். அனுராதபுரம் நோக்கிச் செல்லும் குறித்த வேனில் சாரதி உறங்கியதால் மீ ஓயாவிற்கு அருகில் வாகனம் வீதியை விட்டு விலகி விபத்துக்குள்ளானது.
+
+சம்பவ இடத்திலேயே ஒருவர் உயிரிழந்துள்ளதுடன், 7 பெண்கள் உட்பட 13 பேர் கல்கமுவ வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர். ஆபத்தான நிலையில் இருந்த 7 பேர் மேலதிக சிகிச்சைக்காக அனுராதபுரம் வைத்தியசாலைக்கு மாற்றப்பட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/d074ee67.json)
+
+---
+
+### ’’எப்படியாவது மக்களை ஏமாற்றவே முயற்சிக்கின்றனர்’’
+
+*2024-05-26 10:44:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எப்படியாவது-மக்களை-ஏமாற்றவே-முயற்சிக்கின்றனர்/175-337874) · `ta`
+
+பொலன்னறுவையில் நடைபெற்ற கூட்டமொன்றின் போது ஜே.வி.பி உறுப்பினர் ஒருவர் ஐக்கிய மக்கள் சக்தியில் இணைந்துகொண்டார் என்ற கூற்றை தேசிய மக்கள் சக்தி இன்று மறுத்துள்ளது.
+
+குறிப்பிட்ட நபர் ஜே.வி.பி உறுப்பினர் அல்ல, ஸ்ரீ.ல.சு.க உறுப்பினர் என NPP தலைவர் அனுரகுமார திஸாநாயக்க தெரிவித்தார்.
+
+மன்னாரில் நடைபெற்ற கூட்டம் ஒன்றில் பேசிய திஸாநாயக்க, குறிப்பிட்ட நபர் பொலன்னறுவை மாநகர சபையின் பெண்டிவெவ பிரதேசத்தில் போட்டியிடுவதற்காக உள்ளூராட்சி மன்றத் தேர்தலில் வேட்புமனுக்களை சமர்ப்பித்த ஹிதிஹாமிலகே சமன் குமார என்ற, ஸ்ரீலங்கா சுதந்திரக் கட்சி வேட்பாளர் எனத் தெரிவித்தார்.
+
+"பொலன்னறுவையில் நடைபெற்ற SJB பேரணியில்  NPP இன் உறுப்பினர் ஒருவர் SJB இல் இணைந்தார் என்று SJB இன்று மகிழ்ச்சியுடன் கூறுவதை நீங்கள் பார்த்திருப்பீர்கள்.
+
+...
+
+[Data](articles/a3cd93aa.json)
+
+---
 
 ### President cautions against teachers engaging in protests that undermine their profession
 
@@ -48,6 +82,8 @@ Governor of the Northern Province Mrs. P.S.M. Mrs. Charles also presented a comm
 
 [Data](articles/8ce4040d.json)
 
+[Extended Data](ext_articles/8ce4040d.ext.json)
+
 ---
 
 ### Nine children among 27 dead in massive fire at gaming zone in Gujarat
@@ -63,6 +99,8 @@ Rajkot, May 26 (NDTV) - Twenty-seven people, including nine children, have died 
 ...
 
 [Data](articles/c23894b1.json)
+
+[Extended Data](ext_articles/c23894b1.ext.json)
 
 ---
 
@@ -2195,53 +2233,5 @@ The police headquarters said that a person who provides accurate information on 
 [Data](articles/72c511e3.json)
 
 [Extended Data](ext_articles/72c511e3.ext.json)
-
----
-
-### Over 350mm get rainy
-
-*2024-05-25 13:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196990) · `si`
-
-Areas like Kegalle, Ratnapura, and Kalutara may see over 350mm rainfall, posing risks of landslides and accidents.
-
-🟩
-
-In some areas, the National Building Research Organization warns that there will be over 350 millimeters.
-
-The Senior Scientific Research Organization of the National Building Research Organization, Mr. Wasantha Senadheera said this.
-
-"Some places in Kegalle, Ratnapura and Kalutara districts have received over 350 millips. People should be aware of the. Even in the future, the crashes and a landslide accident can occur. "
-
-◼️
-
-[Data](articles/c9993dd9.json)
-
-[Extended Data](ext_articles/c9993dd9.ext.json)
-
----
-
-### All people's immovable and movable property is taken
-
-*2024-05-25 12:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196989) · `si`
-
-On the first day of the government, a gazette notification was issued requiring citizens and government agencies to report all property details, company registrations, stock holdings, and financial transactions to the Department of Inland Revenue. This includes information about current accounts and investments. The notification, issued by President Ranil Wickremesinghe, mandates compliance starting from July 1st.
-
-🟩
-
-In the first day of government citizens, including government agencies, has been issued a special gazette notification to be given to the Department of Inland Revenue from the first July.
-
-President Ranil Wickremesinghe has issued this gazette notification as the Minister of Finance, Economic Stabilities and National Policies.
-
-According to the respective gazette, information on the ownership of the property, registered companies, and the stock ownership of registered companies, and the stock ownership of the stock market should be provided to the Commissioner General of Inland Revenue.
-
-The Gazette notification states that the officers of the local revenue should also be provided to the Commissioner General of Inland Revenue.
-
-Information on all current accounts and the advances of all current accounts run by any financial institution, including non-bank financial institutions that are regulated by the Central Bank of Sri Lanka and is also provided.
-
-...
-
-[Data](articles/53a409e4.json)
-
-[Extended Data](ext_articles/53a409e4.ext.json)
 
 ---

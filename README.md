@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-26 20:18:49**
+As of **2024-05-26 20:34:12**
 
 ## Newspaper Stats
 
-*Scraped **26,387** Articles*
+*Scraped **26,388** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ adaderanalk | 3,028
 tamilmirrorlk | 3,097
 virakesarilk | 4,026
 dailymirrorlk | 4,166
-adaderanasinhalalk | 4,226
+adaderanasinhalalk | 4,227
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,383 (100.0%) of 26,387 articles have been extended.
+26,387 (100.0%) of 26,388 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-26 (Sunday)
+
+### බිලිඳා ප්‍රසූතියේදී මැරුණා ද ? අතුරුදන් කළා ද ?
+
+*2024-05-26 20:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197037) · `si`
+
+ප්‍රසූතියේ දී මියගිය බව කියන බිලිඳෙකුගේ මෘතදේහය හෝ තමාට පෙන්වීමට මාතර නව දිස්ත්‍රික් මහරෝහලේ කාර්ය මණ්ඩලය පියවර නොගත් බවට එම බිලිඳාගේ ඥාතීන් චෝදනා කරයි.
+
+ඔවුන් පවසන්නේ මෘතදේහය සම්බන්ධයෙන් අවස්ථා තුනක දී රෝහල් කාර්ය මණ්ඩලය පරස්පර විරෝධී ප්‍රකාශ සිදුකිරීම සම්බන්ධයෙන් බලවත් සැකයක් පවතින බවය.
+
+මාතර වැලිගම ප්‍රදේශයේ පදිංචි 24හැවිරිදි කාවින්ද්‍යා මදුෂානි පසුගිය 22වනදා මාතර නව දිස්ත්‍රික් මහ රෝහල වෙත ඇතුළත්ව තිබුණේ සිය කුළු﻿ඳුල් දරු ප්‍රසූතිය සඳහාය.
+
+මදුෂානි එම රෝහලේ සේවය කරන ප්‍රසව හා නාරිවේද විශේෂඥ වෛද්‍යවරයෙකුගේ පෞද්ගලික වෛද්‍ය සායනයකට එක්ව ඇති අතර, දරු ප්‍රසූතිය සඳහා අදාළ රෝහල තෝරාගෙන ඇත්තේද ඒ අනුවයි.
+
+බිලිඳා කුස තුළ නිරෝගී තත්ත්වයෙන් පසුවන බවට පෞද්ගලික සායනයේ දී සිදුකළ වෛද්‍ය පරීක්ෂණවලදී මෙන්ම දරු ප්‍රසූතිය සඳහා රෝහලට ඇතුළත්වූ දිනයේ සිදුකළ ස්කෑන් පරීක්ෂණයෙන් ද තහවුරු වී ඇත.
+
+මදුෂානි රෝහල් ගතකළ ඉකුත්දින රාත්‍රියේම ඇය සිය කුළුඳුල් දරුවා මෙලොවට බිහිකළ නමුත්, ඉන් අනතුරුව බිලිඳා මියගොස් ඇති බව රෝහල් බලධාරීන් දැනුම්දී ඇත.
+
+...
+
+[Data](articles/6a770090.json)
+
+---
 
 ### 59 trees fall within Colombo in seven days
 
@@ -51,6 +73,8 @@ Furthermore, Jayawardena highlighted that nearly 200 trees, aged between 50 and 
 ◼️
 
 [Data](articles/98a1ce2e.json)
+
+[Extended Data](ext_articles/98a1ce2e.ext.json)
 
 ---
 
@@ -98,6 +122,8 @@ But Care Australia, the humanitarian agency which is helping with relief efforts
 
 [Data](articles/f21c65ac.json)
 
+[Extended Data](ext_articles/f21c65ac.ext.json)
+
 ---
 
 ### French Ambassador to Sri Lanka dies of suspected cardiac arrest
@@ -115,6 +141,8 @@ The Welikada Police are investigating the incident, and a post-mortem examinatio
 ◼️
 
 [Data](articles/840090ee.json)
+
+[Extended Data](ext_articles/840090ee.ext.json)
 
 ---
 
@@ -265,6 +293,8 @@ Colombo, May 26 (Daily Mirror), Veteran musician, composer and singer Ananda Pe
 ◼️
 
 [Data](articles/9e7e8c61.json)
+
+[Extended Data](ext_articles/9e7e8c61.ext.json)
 
 ---
 
@@ -2225,25 +2255,5 @@ Speaking further Mr. Wijesadasa Rajapaksa added that the Sri Lanka Freedom Party
 [Data](articles/00803535.json)
 
 [Extended Data](ext_articles/00803535.ext.json)
-
----
-
-### One dead, several injured as van crashes on to tree in Galgamuwa
-
-*2024-05-26 10:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/One-dead-several-injured-as-van-crashes-on-to-tree-in-Galgamuwa/108-283355) · `en`
-
-Galgamuwa, May 26 (Daily Mirror) - One person was killed and at least 13 others were injured when a van skidded off the road and crashed on to a tree in Galgamuwa on the Padeniya-Anuradhapura Road early this morning.
-
-Police said at least 15 persons were travelling in the van on their way to Anuradhapura when the vehicle skidded off the road near Mee Oya, as the driver had fallen asleep at the wheel.
-
-According to police, one person died at the scene, while 13 others, including 7 women, were admitted to the Galgamuwa Hospital. Seven individuals who were in critical condition were transferred to the Anuradhapura Hospital for further treatment.
-
-The deceased has been identified as a 69-year-old resident of Embilipitiya.
-
-◼️
-
-[Data](articles/0616db39.json)
-
-[Extended Data](ext_articles/0616db39.ext.json)
 
 ---

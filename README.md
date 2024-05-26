@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-26 10:33:58**
+As of **2024-05-26 10:51:43**
 
 ## Newspaper Stats
 
-*Scraped **26,286** Articles*
+*Scraped **26,288** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,37 +16,77 @@ islandlk | 1,431
 economynextcom | 1,505
 dailyftlk | 1,533
 adalk | 2,236
-adaderanalk | 3,017
+adaderanalk | 3,018
 tamilmirrorlk | 3,076
 virakesarilk | 4,006
-dailymirrorlk | 4,150
+dailymirrorlk | 4,151
 adaderanasinhalalk | 4,208
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,281 (100.0%) of 26,286 articles have been extended.
+26,286 (100.0%) of 26,288 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-26 (Sunday)
 
-### IPL අවසන් මහා තරගය අද
+### President cautions against teachers engaging in protests that undermine their profession
+
+*2024-05-26 10:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/99441/president-cautions-against-teachers-engaging-in-protests-that-undermine-their-profession) · `en`
+
+President Ranil Wickremesinghe praised the historical “Jaffna Teaching Tradition” during a speech at the Jaffna District Teacher Appointment Ceremony yesterday (25). He highlighted the importance of restoring this tradition and emphasized the need for teachers to serve as exemplary figures in society.
+
+He cautioned against teachers engaging in protests that may undermine their professional image and urged them to uphold their dignity.
+
+The ceremony, which took place at the Jaffna Thanthai Selva Auditorium, saw the appointment of 375 teachers in the Northern Province.
+
+Governor of the Northern Province Mrs. P.S.M. Mrs. Charles also presented a commemorative gift to President Wickremesinghe during the event.
+
+...
+
+[Data](articles/8ce4040d.json)
+
+---
+
+### Nine children among 27 dead in massive fire at gaming zone in Gujarat
+
+*2024-05-26 10:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Nine-children-among-27-dead-in-massive-fire-at-gaming-zone-in-Gujarat/107-283356) · `en`
+
+Rajkot, May 26 (NDTV) - Twenty-seven people, including nine children, have died in a massive fire that broke out at a gaming zone in Gujarat's Rajkot on Saturday evening, said officials.
+
+"The bodies are completely charred and it is difficult to identify them," Assistant Commissioner of Police Vinayak Patel said. The owners of the gaming zone have been detained by the police.
+
+“A very sad incident took place today. This is the first time in Rajkot's history that a fire in a gaming zone has led to the deaths of people, including children. The focus is on rescuing as many as possible. The government will act against people whose negligence led to this tragedy,” said Darshita Shah, MLA, Rajkot West. A ₹ 4 lakh compensation has been announced for the families of the victims.
+
+...
+
+[Data](articles/c23894b1.json)
+
+---
+
+### IPL finals today
 
 *2024-05-26 10:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197018) · `si`
 
-ඉන්දියන් ප්‍රිමියර් ලීග් ක්‍රිකට් තරගාවලියේ අවසන් මහා තරගය අද (26) පැවැත්වේ.
+Today's IPL finals feature Kolkata Knight Riders against Sunrisers Hyderabad. Kolkata played 14 preliminary matches while Sunrisers won 8 out of their 14.
 
-ඒ කොල්කටා නයිට් රයිඩර්ස් කණ්ඩායම සහ සන්රයිසස් හයිද්‍රාබාද් කණ්ඩායම අතරය.
+🟩
 
-මූලික වටයේදී කොල්කටා කණ්ඩායම තරග 14කට මුහුණ දෙමින් ඉන් තරග 09ක් ජයගෙන ඇත.
+The finals of the Indian Premier League cricket tournament will be held today (26).
 
-සන්රයිසස් කණ්ඩායම තරග 14කට මුහුණ දී ඇති අතර ඉන් තරග  08ක් ජයගෙන තිබේ.
+That colcata knight riders team and Sunriysus Hyderabad Group.
+
+Kolkata team faced 14 matches in the preliminary round.
+
+The Sunrisers were facing 14 matches and eight of them won.
 
 ◼️
 
 [Data](articles/641a4a29.json)
+
+[Extended Data](ext_articles/641a4a29.ext.json)
 
 ---
 
@@ -70,6 +110,8 @@ The deceased person has been identified as a 69-year-old resident of Embilipitiy
 
 [Data](articles/4c654e08.json)
 
+[Extended Data](ext_articles/4c654e08.ext.json)
+
 ---
 
 ### One dead, several injured as van crashes on to tree in Galgamuwa
@@ -87,6 +129,8 @@ The deceased has been identified as a 69-year-old resident of Embilipitiya.
 ◼️
 
 [Data](articles/0616db39.json)
+
+[Extended Data](ext_articles/0616db39.ext.json)
 
 ---
 
@@ -260,8 +304,6 @@ Airlines for America said U.S carriers plan to fly more than 26,000 daily flight
 
 *2024-05-26 08:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/99439/6-newborns-killed-after-major-fire-at-delhi-childrens-hospital) · `en`
 
-#WATCH | Delhi: A massive fire broke out at a New Born Baby Care Hospital in Vivek Vihar As per a Fire Officer, Fire was extinguished completely, 11-12 people were rescued and taken to hospital and further details are awaited.(Video source - Fire Department) https://t.co/lHzou6KkHH pic.twitter.com/pE95ffjm9p— ANI (@ANI) May 25, 2024
-
 As many as six newborns have lost their lives after a massive fire broke out at a New Born Baby Care Hospital in Delhi’s Vivek Vihar in the late hours of Saturday.
 
 According to the Delhi Fire Department, a total of 12 children were rescued, out of which six have died, one is on the ventilator and five are admitted to the hospital.
@@ -269,6 +311,8 @@ According to the Delhi Fire Department, a total of 12 children were rescued, out
 The rescued newborns have been shifted to East Delhi Advance NICU hospital.
 
 On information, police officials and firefighters reached the spot and doused the fire.
+
+Fire Officer Rajesh, said, “At 11:32 pm, Fire Service Control Room received information that fire broke out at a hospital...total 16 fire tenders reached the spot and fire has been extinguished completely. 2 buildings were affected by the fire, one is the hospital building and 2 floors of a residential building on the right side also caught fire...11-12 people were rescued and they were taken to hospital. Further details will be shared later”.
 
 ...
 
@@ -1043,6 +1087,8 @@ Speaking at a meeting in Mannar, Dissanayake said the particular person Hitihami
 ...
 
 [Data](articles/e1bdf07e.json)
+
+[Extended Data](ext_articles/e1bdf07e.ext.json)
 
 ---
 
@@ -2197,51 +2243,5 @@ Information on all current accounts and the advances of all current accounts run
 [Data](articles/53a409e4.json)
 
 [Extended Data](ext_articles/53a409e4.ext.json)
-
----
-
-### 43 Pakistani inmates in Sri Lanka to be repatriated
-
-*2024-05-25 12:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/99426/43-pakistani-inmates-in-sri-lanka-to-be-repatriated) · `en`
-
-At least 43 Pakistani prisoners will be repatriated from Sri Lanka, announced Pakistan’s Interior Minister Mohsin Naqvi on Friday after securing an agreement with the Sri Lankan government.
-
-The announcement came following a meeting between Naqvi, Sri Lankan High Commissioner Admiral (retd) Ravindra Wijegunaratne alongside Interior Secretary Khurram Ali Agha, National Database and Registration Authority (NADRA) Chairman Lt General Muhammad Munir, and other officials.
-
-Naqvi stated that the interior ministry closely collaborated with Sri Lankan authorities over the past month to facilitate the return of the incarcerated individuals. He maintained that both nations have agreed to expedite the repatriation process.
-
-Describing the agreement as a “positive outcome” of diplomatic efforts, he added that the arrangements for the return of Pakistani prisoners would be concluded within a few days.
-
-...
-
-[Data](articles/15fa1d14.json)
-
-[Extended Data](ext_articles/15fa1d14.ext.json)
-
----
-
-### 19-year-old dies after allegedly jumping from flyover to expressway
-
-*2024-05-25 12:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/99425/19-year-old-dies-after-allegedly-jumping-from-flyover-to-expressway) · `en`
-
-A youth is suspected to have jumped to his death from a flyover to the Outer Circular Highway in Colombo last night (24).
-
-The 19-year-old male had died after falling from the flyover near the 1.2km post of the Outer Circular Highway in Colombo on to the expressway at around 7.00 p.m. last night.
-
-At the time, he had collided with a car heading towards Matara, police said.
-
-The youth, who was seriously injured in the accident, was pronounced dead after being admitted to Homagama Base Hospital for treatment.
-
-However, police state that the incident has occurred under suspicious circumstances as they believe the deceased may have attempted to take his own life.
-
-The deceased, a 19-year-old resident of the Athurugiriya area, was following a course at a private university in Padukka, the police said.
-
-The vehicle, in which the deceased had come into contact with, was also damaged in the incident while the police have arrested the driver of the car.
-
-...
-
-[Data](articles/62639d58.json)
-
-[Extended Data](ext_articles/62639d58.ext.json)
 
 ---

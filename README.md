@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-27 01:33:43**
+As of **2024-05-27 01:03:31**
 
 ## Newspaper Stats
 
-*Scraped **26,431** Articles*
+*Scraped **26,427** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 265
 newsfirstlk | 363
 islandlk | 1,431
 economynextcom | 1,511
-dailyftlk | 1,543
+dailyftlk | 1,539
 adalk | 2,247
 adaderanalk | 3,030
 tamilmirrorlk | 3,099
@@ -26,73 +26,11 @@ adaderanasinhalalk | 4,234
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,423 (100.0%) of 26,431 articles have been extended.
+26,418 (100.0%) of 26,427 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-27 (Monday)
-
-### Customs Department to commence auctions online this week: State Minister
-
-*2024-05-27 01:00:23* · [`dailyftlk`](https://www.ft.lk/business/Customs-Department-to-commence-auctions-online-this-week-State-Minister/34-762185) · `en`
-
-State Minister of Finance Ranjith Siyambalapitiya announced that preliminary work to modernise the Customs Department auction process will commence via online this week.
-
-“The initiative aims to allow all interested parties to participate in customs auctions remotely, thereby reducing undue influence and ensuring transparency,” he added.
-
-Siyambalapitiya highlighted that this reform will enable individuals and businesses to bid on auctioned goods from the comfort of their homes. This move is intended to mitigate the influence of various constitutive groups that have previously affected the clearance of goods by customs.
-
-In response to several reported instances of such undue influence, he emphasised the necessity of this overhaul to safeguard the integrity of the auction process. By facilitating remote participation, the Government aims to create a fair and competitive environment for all bidders.
-
-...
-
-[Data](articles/1330e7a1.json)
-
----
-
-### David Pieris Renewable Energy opens head office in Pelawatte
-
-*2024-05-27 00:57:49* · [`dailyftlk`](https://www.ft.lk/business/David-Pieris-Renewable-Energy-opens-head-office-in-Pelawatte/34-762184) · `en`
-
-David Pieris Group Chairman and Managing Director Rohana Dissanayake cutting the ribbon to open the new head office
-
-A significant milestone was achieved in Sri Lanka’s sustainable energy landscape and the David Pieris Group with the inauguration of the new head office of David Pieris Renewable Energy Ltd.
-
-Strategically situated at No. 734B, New Parliament Road, Pelawatta, Battaramulla, the new office was opened by David Pieris Group Chairman and Managing Director Rohana Dissanayake along with the board directors of David Pieris Renewable Energy and directors of Group companies. This short and simple ceremony was attended by representatives from the Sustainable Energy Authority, customers, and other internal and external stakeholders.
-
-...
-
-[Data](articles/769f30cf.json)
-
----
-
-### Two Carson’s Group firms announce Rs. 288 m share repurchase
-
-*2024-05-27 00:53:32* · [`dailyftlk`](https://www.ft.lk/business/Two-Carson-s-Group-firms-announce-Rs-288-m-share-repurchase/34-762183) · `en`
-
-Ceylon Investment PLC (CONV) and Ceylon Guardian Investment Trust PLC (CGIT) have announced moves to repurchase shares from the Shareholders in terms of Section 64 of the Companies Act, No. 07 of 2007 and Article 17 of the Articles of Association of the Company.
-
-At CINV the number of shares to be purchased will be 2.16 million (on the basis of 1 share for every 46 held) at Rs. 118.14 per share in an exercise worth Rs. 255.18 million. At CGIT, the basis will be 1 deferred share for every 41 deferred shares held and involves 139,932 shares at Rs. 237.09 each in a deal worth Rs. 33.17 million.
-
-◼️
-
-[Data](articles/11b04b21.json)
-
----
-
-### The role of renewable energy in Sri Lanka’s economic and environmental future
-
-*2024-05-27 00:52:39* · [`dailyftlk`](https://www.ft.lk/business/The-role-of-renewable-energy-in-Sri-Lanka-s-economic-and-environmental-future/34-762182) · `en`
-
-National Environment Caucus Ven. Pahiyangala Ananda Sagara Thero handing over the report to SLSEA Chairman Ranjith Sepala
-
-Following is an overview of the recent meeting between the National Environment Caucus, led by Ven. Pahiyangala Ananda Sagara Thero, and Sri Lanka Sustainable Energy Authority (SLSEA) Chairman Ranjith Sepala
-
-...
-
-[Data](articles/6b6719e6.json)
-
----
 
 ### Granting of land rights opens doors to progress: President
 
@@ -116,26 +54,6 @@ Encouraging recipients to safeguard the freehold deeds from the “Heritage” p
 
 [Data](articles/0d9b6ce3.json)
 
-[Extended Data](ext_articles/0d9b6ce3.ext.json)
-
----
-
-### “Operation Sajaba”; Blueprint for Re-unification of the Green Party
-
-*2024-05-27 00:50:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Operation-Sajaba-Blueprint-for-Re-unification-of-the-Green-Party/172-283381) · `en`
-
-President Ranil Wickremesinghe welcomed to the Ceylon Workers’ Congress May Day rally at Kotagala
-
-In the 2015 elections, Wickremesinghe topped the list of Colombo  district  candidates with over 500,000 preference votes. Yet Ranil too  was buried in the 2020 avalanche of defeat. Ranil whose detractors used  to ridicule him in the past as “Mr.Bean” and ‘serial loser” was  virtually written off. It was said that Ranil Wickremesinghe’s political  career had ended
-
-The Aragalaya had been launched with the demand “Gota go home” or “Go Home Gota”. This objective was realised in July 2022. Gotabaya Rajapaksa fled the country and resigned from abroad as President. Ranil took over as acting president on  July 14, 2022
-
-Sri Lanka’s  United National Party (UNP) suffered a humiliating electoral defeat in the 2020 Parliamentary elections. Electoral debacles were nothing new to the UNP which is  referred to by some as the grand old party.
-
-...
-
-[Data](articles/7dd95acf.json)
-
 ---
 
 ### Sumanthiran thanks President for prioritising Northern development projects
@@ -153,8 +71,6 @@ Sumanthiran noted that Wickremesinghe had visited Jaffna numerous times as Prime
 ...
 
 [Data](articles/b2366b73.json)
-
-[Extended Data](ext_articles/b2366b73.ext.json)
 
 ---
 
@@ -174,8 +90,6 @@ On 17 May the United Nations human rights office issued a report calling for int
 
 [Data](articles/9d5a6da5.json)
 
-[Extended Data](ext_articles/9d5a6da5.ext.json)
-
 ---
 
 ### 15 years after end of war, victims and survivors still await justice and accountability: ICJ
@@ -191,8 +105,6 @@ The bleak picture is reinforced by the UN Office of the High Commissioner for Hu
 ...
 
 [Data](articles/dbdb0f88.json)
-
-[Extended Data](ext_articles/dbdb0f88.ext.json)
 
 ---
 
@@ -217,8 +129,6 @@ Legality: Post-dated cheques are generally legal and considered negotiable instr
 ...
 
 [Data](articles/0224d210.json)
-
-[Extended Data](ext_articles/0224d210.ext.json)
 
 ---
 
@@ -257,6 +167,24 @@ Given these circumstances, many of our people hardly ever opposed the freeing of
 ...
 
 [Data](articles/29d5cfd6.json)
+
+---
+
+### “Operation Sajaba”; Blueprint for Re-unification of the Green Party
+
+*2024-05-27 00:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Operation-Sajaba-Blueprint-for-Re-unification-of-the-Green-Party/172-283381) · `en`
+
+In the 2015 elections, Wickremesinghe topped the list of Colombo  district  candidates with over 500,000 preference votes. Yet Ranil too  was buried in the 2020 avalanche of defeat. Ranil whose detractors used  to ridicule him in the past as “Mr.Bean” and ‘serial loser” was  virtually written off. It was said that Ranil Wickremesinghe’s political  career had ended
+
+The Aragalaya had been launched with the demand “Gota go home” or “Go Home Gota”. This objective was realised in July 2022. Gotabaya Rajapaksa fled the country and resigned from abroad as President. Ranil took over as acting president on  July 14, 2022
+
+President Ranil Wickremesinghe welcomed to the Ceylon Workers’ Congress May Day rally at Kotagala
+
+Sri Lanka’s  United National Party (UNP) suffered a humiliating electoral defeat in the 2020 Parliamentary elections. Electoral debacles were nothing new to the UNP which is  referred to by some as the grand old party.
+
+...
+
+[Data](articles/7dd95acf.json)
 
 ---
 
@@ -2201,5 +2129,111 @@ Accordingly, another persons involved in ISIS terrorist organization are in the 
 [Data](articles/4d8363e1.json)
 
 [Extended Data](ext_articles/4d8363e1.ext.json)
+
+---
+
+### UN raises Papua New Guinea landslide death toll estimate to 670
+
+*2024-05-26 14:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/99445/un-raises-papua-new-guinea-landslide-death-toll-estimate-to-670) · `en`
+
+More than 670 people are believed to have died after a massive landslide obliterated a village in Papua New Guinea, a UN official told AFP on Sunday.
+
+“There are an estimated 150-plus houses now buried” said UN migration agency official Serhan Aktoprak, adding that “670-plus people are assumed dead”.
+
+“The situation is terrible with the land still sliding. The water is running and this is creating a massive risk for eveyrone involved,” added Aktoprak, who is based in Port Moresby.
+
+More than 1,000 people had been displaced from the once-bustling village, Aktoprak said, with food gardens and water supplies almost completely wiped out.
+
+“People are using digging sticks, spades, large agricultural forks to remove the bodies buried under the soil.”
+
+◼️
+
+[Data](articles/30acd754.json)
+
+[Extended Data](ext_articles/30acd754.ext.json)
+
+---
+
+### Sri Lankan Tamils exiled to European countries while working at a chicken meat shop in London
+
+*2024-05-26 14:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/184514) · `ta`
+
+A Sri Lankan Tamil refugee living in London, known for running a chicken shop, has been arrested and faces deportation to France due to involvement in abductions. He was sentenced to five years in prison after being convicted by a French court for his role in abductions. Despite claiming his wife suffers from mental illness, his appeal for stay was denied, leading to his imminent deportation.
+
+🟩
+
+Sun has reported that Britain will be deported to France, who has planned to smuggle illegal immigrants into the UK.
+
+The French court last year ruled that he was involved in the abduction and sentenced him to five years in prison.
+
+The refugee who fled to Britain in 2003 from Sri Lanka gave him all the permission to live there.
+
+He lived in a southwestern part of London and worked in a shop selling poultry meat in Brickton.
+
+At the same time, he has also acted as the head of the gang who abducted Sri Lankan people in the last two years.
+
+British officials first arrested him in 2022 on behalf of French officials. On November 2022, a judge ordered him to be deported based on the grip of France.
+
+However, Sivagangan had filed a petition in court, saying that his wife was physically mentally ill. However, the judge rejected his petition on Friday.
+
+He was the main person of the European widespread gang operating in many countries of the world, the court document said.
+
+◼️
+
+[Data](articles/bbc53f1b.json)
+
+[Extended Data](ext_articles/bbc53f1b.ext.json)
+
+---
+
+### Michael Clarke named Brand Ambassador for LPL 2024
+
+*2024-05-26 14:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Michael-Clarke-named-Brand-Ambassador-for-LPL-2024/108-283364) · `en`
+
+Colombo, May 26 (Daily Mirror) - The Lanka Premier League (LPL) has appointed cricket icon Michael Clarke as its brand ambassador for the upcoming 2024 edition. Scheduled from July 1st to 21st, the tournament is set to feature thrilling matches and showcase top-tier cricket talent from across the globe.
+
+Clarke, renowned for his elegant right-handed batting and leadership prowess, played a pivotal role in Australia's cricket dominance for over a decade. As captain, he led the team to a historic victory in the 2015 Cricket World Cup.
+
+Expressing his enthusiasm for the new role, Clarke said, "I can't wait to get back to Sri Lanka, a country I love playing in. Now, I have the opportunity to not just come and comment but also to be an ambassador for the LPL. I can't wait—so much talent, so many young players, and lots of good overseas players. There is no doubt this tournament will continue to be a success."
+
+...
+
+[Data](articles/b796f8a3.json)
+
+[Extended Data](ext_articles/b796f8a3.ext.json)
+
+---
+
+### To Kelani and Black River risks
+
+*2024-05-26 13:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197025) · `si`
+
+Floods risk in Kelani and Kalu Runawala due to increased river levels and heavy rainfall exceeding 100mm. Southwest monsoon affects several districts, causing eight deaths and disrupting power in Aranayaka. Landslide warnings issued in Kalutara and Ratnapura; 45,344 people affected, 2,797 houses partially damaged.
+
+🟩
+
+The Department of Irrigation says that there is a risk of floods in Kelani and Kalu Runawala.
+
+The Director of the Irrigation Department of the Irrigation Department (Irrigation Department) Mr. SPC Suesshwara made this statement.
+
+Speaking further Mr. Sugshwara added that the water levels of the rivers have increased the treasure of the people of Kalu and Kelani River.
+
+He said heavy showers over 100 mm above 100 mm today.
+
+Meanwhile, the influence of the southwest monsoon is still underway to several districts in the island. ‍
+
+The number of deaths due to inclement weather has risen to eight and seven deaths have occurred in treeskada fells.
+
+A portion of a jack tree near the Aranayaka Mawanella main road is collapsed on a transformer.
+
+Residents of the area say that electricity has been disconnected from Aranayaka.
+
+The Disaster Management Center (DMC) said that the landslide warnings have been released in Kalutara and Ratnapura districts in Kalutara, Gampaha, Gampaha.
+
+...
+
+[Data](articles/ed1acc00.json)
+
+[Extended Data](ext_articles/ed1acc00.ext.json)
 
 ---

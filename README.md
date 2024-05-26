@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-26 11:03:39**
+As of **2024-05-26 11:18:48**
 
 ## Newspaper Stats
 
-*Scraped **26,290** Articles*
+*Scraped **26,292** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,505
 dailyftlk | 1,533
 adalk | 2,236
 adaderanalk | 3,018
-tamilmirrorlk | 3,078
+tamilmirrorlk | 3,080
 virakesarilk | 4,006
 dailymirrorlk | 4,151
 adaderanasinhalalk | 4,208
@@ -26,43 +26,89 @@ adaderanasinhalalk | 4,208
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,288 (100.0%) of 26,290 articles have been extended.
+26,290 (100.0%) of 26,292 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-26 (Sunday)
 
-### வானக விபத்தில் ஒருவர் பலி
+### 14 மாணிக்கக் கற்களுடன் அறுவர் கைது
+
+*2024-05-26 11:02:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/14-மாணிக்கக்-கற்களுடன்-அறுவர்-கைது/76-337877) · `ta`
+
+புதையல் ஒன்றில் இருந்து எடுக்கப்பட்டதாக கூறப்படும் ரூபாய் பதிமூன்றரை கோடி பெறுமதியான 14 மாணிக்கக்  கற்களை விற்பனை செய்ய முற்பட்ட பெண் ஒருவர் உட்பட ஆறு நபர்கள் கைது செய்யப்பட்டதாக கட்டுகஸ்தோட்டை பொலிஸார் தெரிவித்துள்ளனர் .
+
+புதையல் ஒன்றில் இருந்து எடுக்கப்பட்ட மாணிக்கக்  கற்கள் விற்பனை செய்யப்பட உள்ளதாக பொலிஸாருக்கு கிடைக்கப்பெற்ற தகவலுக்கு அமைய, அதிகாரி ஒருவரை மாறுவேடத்தில் அனுப்பி ,  சந்தேக நபர்களை கட்டுகஸ்தோட்டை பழைய பாலத்திற்கு அருகில் வரவைத்து கைது நடவடிக்கை மேற்கொள்ளப்பட்டதாக தெரிவிக்கப்பட்டுள்ளது .
+
+இதன்போது 14 மாணிக்கக் கற்கள் , டிஜிட்டல் தராசு ஒன்று மற்றும் சிறிய மின்விளக்கு ஆகியவற்றை பொலிஸாரால் மீட்கப்பட்டுள்ளது .
+
+கைது செய்யப்பட்ட நபர்கள்  ஹினிதும, காலி, ஹெய்ந்துடுவ ஆகிய பிரதேசங்களை சேர்ந்த 35-49 வயதுக்கு இடைப்பட்டவர்கள் எனவும்  இது தொடர்பில் மேலதிக விசாரணைகள் மேற்கொண்டு வருவதாகவும் கட்டுகஸ்தோட்டை பொலிஸார் தெரிவித்துள்ளனர் .
+
+...
+
+[Data](articles/523ef36d.json)
+
+---
+
+### காட்டு யானை தாக்கி ஒருவர் பலி
+
+*2024-05-26 10:58:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காட்டு-யானை-தாக்கி-ஒருவர்-பலி/175-337876) · `ta`
+
+இன்று ஞாயிற்றுக்கிழமை (26) அதிகாலை 4 மணியளவில் காட்டு யானை தாக்கியதில் கிராதுருக்கோட்டை பகுதியை சேர்ந்த 82 வயதுடைய ஒருவர் உயிரிழந்ததாக பொலிஸார் தெரிவித்தனர்.
+
+இன்று அதிகாலை முதியவர் தனது வீட்டை விட்டு வெளியேறிய போதே இவ்வனர்த்தம் நேர்ந்ததாக கூறப்படுகிறது.
+
+◼️
+
+[Data](articles/b4fb7238.json)
+
+---
+
+### One person killed
 
 *2024-05-26 10:49:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வானக-விபத்தில்-ஒருவர்-பலி/175-337875) · `ta`
 
-பாதெனிய - அனுராதபுரம் வீதியில் கல்கமுவவில் இன்று அதிகாலை வேன் ஒன்று வீதியை விட்டு விலகி மரத்தில் மோதி விபத்துக்குள்ளானதில் ஒருவர் உயிரிழந்துள்ளதுடன் 13 பேர் காயமடைந்துள்ளனர்.
+A van crash on the Badeniya-Anuradhapura road killed one and injured 13, including seven women. At least 15 were traveling; the driver lost control near Me Oya. One died instantly, while others were hospitalized, with seven critically injured sent to Anuradhapura Hospital.
 
-வேனில் குறைந்தது 15 பேர் பயணித்ததாக பொலிஸார் தெரிவித்தனர். அனுராதபுரம் நோக்கிச் செல்லும் குறித்த வேனில் சாரதி உறங்கியதால் மீ ஓயாவிற்கு அருகில் வாகனம் வீதியை விட்டு விலகி விபத்துக்குள்ளானது.
+🟩
 
-சம்பவ இடத்திலேயே ஒருவர் உயிரிழந்துள்ளதுடன், 7 பெண்கள் உட்பட 13 பேர் கல்கமுவ வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர். ஆபத்தான நிலையில் இருந்த 7 பேர் மேலதிக சிகிச்சைக்காக அனுராதபுரம் வைத்தியசாலைக்கு மாற்றப்பட்டுள்ளனர்.
+One person was killed and 13 people were injured when a van crashed into a tree this morning at the Badeniya - Anuradhapura road.
+
+Police said at least 15 people traveled in the van. The driver of the van on his way to Anuradhapura crashed away from the road near Me Oya.
+
+One person died on the spot and 13 people, including 7 women, have been admitted to the Calgamuwa Hospital, police said.. Seven persons who were in critical condition have been transferred to the Anuradhapura Hospital for further treatment.
 
 ◼️
 
 [Data](articles/d074ee67.json)
 
+[Extended Data](ext_articles/d074ee67.ext.json)
+
 ---
 
-### ’’எப்படியாவது மக்களை ஏமாற்றவே முயற்சிக்கின்றனர்’’
+### Somehow people are trying to deceive people
 
 *2024-05-26 10:44:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எப்படியாவது-மக்களை-ஏமாற்றவே-முயற்சிக்கின்றனர்/175-337874) · `ta`
 
-பொலன்னறுவையில் நடைபெற்ற கூட்டமொன்றின் போது ஜே.வி.பி உறுப்பினர் ஒருவர் ஐக்கிய மக்கள் சக்தியில் இணைந்துகொண்டார் என்ற கூற்றை தேசிய மக்கள் சக்தி இன்று மறுத்துள்ளது.
+The National People's Power (NPP) denies claims that a member switched from the Janatha Vimukthi Peramuna (JVP) to the United People's Power. NPP leader Anurakumara Dissanayake clarified that the individual, actually a Sri Lanka Freedom Party (SLFP) member named Hidihamilake Saman Kumara, was falsely reported as joining the JVP. This incident occurred during local government elections in Polonnaruwa, where there were also reports of an NPP member joining the Samagi Jana Balawegaya (SJB). Dissanayake expressed concern over these deceptive practices aimed at misleading voters.
 
-குறிப்பிட்ட நபர் ஜே.வி.பி உறுப்பினர் அல்ல, ஸ்ரீ.ல.சு.க உறுப்பினர் என NPP தலைவர் அனுரகுமார திஸாநாயக்க தெரிவித்தார்.
+🟩
 
-மன்னாரில் நடைபெற்ற கூட்டம் ஒன்றில் பேசிய திஸாநாயக்க, குறிப்பிட்ட நபர் பொலன்னறுவை மாநகர சபையின் பெண்டிவெவ பிரதேசத்தில் போட்டியிடுவதற்காக உள்ளூராட்சி மன்றத் தேர்தலில் வேட்புமனுக்களை சமர்ப்பித்த ஹிதிஹாமிலகே சமன் குமார என்ற, ஸ்ரீலங்கா சுதந்திரக் கட்சி வேட்பாளர் எனத் தெரிவித்தார்.
+The National People's Power today denied the claim that a JVP member joined the United People's Power during a meeting in Polonnaruwa.
 
-"பொலன்னறுவையில் நடைபெற்ற SJB பேரணியில்  NPP இன் உறுப்பினர் ஒருவர் SJB இல் இணைந்தார் என்று SJB இன்று மகிழ்ச்சியுடன் கூறுவதை நீங்கள் பார்த்திருப்பீர்கள்.
+NPP leader Anurakumara Dissanayake said that the particular person was not a JVP member and a member of the SLFP.
 
-...
+Speaking at a meeting in Mannar, Dissanayake said that the Sri Lanka Freedom Party (SLFP) candidate, Hidihamilake Saman Kumara, who had presented nominations in the local government elections to contest the Polonnaruwa Municipal Council in the Polonnaruwa Municipal Council.
+
+“You may have seen the SJB happy today that a member of the NPP joined the SJB at the SJB rally in Polonnaruwa.
+
+This will make a big message on television today. All the SJB leaders embraced him with joy. I know who he is. He is Hitihamilake. Saman Kumara, who submitted the nomination to contest on behalf of the Sri Lanka Freedom Party (SLFP) in the Polonnaruwa Municipal Council. They are trying to deceive people somehow, ”he said.
+
+◼️
 
 [Data](articles/a3cd93aa.json)
+
+[Extended Data](ext_articles/a3cd93aa.ext.json)
 
 ---
 
@@ -2191,47 +2237,5 @@ Likewise, Tilak Mahalekamke, a former Member of Parliament for the Sri Lanka Fre
 [Data](articles/8699a61b.json)
 
 [Extended Data](ext_articles/8699a61b.ext.json)
-
----
-
-### CID offers Rs. 2Mn reward for info on wanted suspect
-
-*2024-05-25 13:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/CID-offers-Rs-2Mn-reward-for-info-on-wanted-suspect/108-283344) · `en`
-
-Colombo, May 25 (Daily Mirror)- The Criminal Investigations Department (CID) announced a reward of Rs. 2 million for information to arrest a suspect who is wanted in connection with a special investigation carried out by the CID.
-
-Police sought public assistance to arrest the suspect, Jerad Pushparaja Osman Jerad who is a resident of Dematagoda.
-
-Police released a photograph of the suspect and request the public to provide information on the suspect over the following telephone numbers: Director (CID) via 071-8591753 or OIC of Criminal Investigation Department via 071- 8591774.
-
-◼️
-
-[Data](articles/3ac27c12.json)
-
-[Extended Data](ext_articles/3ac27c12.ext.json)
-
----
-
-### If you give the right information about the suspect, the money gifts
-
-*2024-05-25 13:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196992) · `si`
-
-The IGP seeks public help to identify Gerard Pushraja from Demodagoda for arrest. The Criminal Investigations Department is involved in the investigation. Informants providing accurate details will receive monetary rewards.
-
-🟩
-
-The IGP requests the public to inform the people of a suspect who is needed to arrest in the area.
-
-The Criminal Investigations Department is investigating the suspect in the district.
-
-Police say that the suspect is Gerard Pushraja, a resident of Demodagoda, police said.
-
-The police headquarters said that a person who provides accurate information on the suspect is given a gift of Rs.
-
-◼️
-
-[Data](articles/72c511e3.json)
-
-[Extended Data](ext_articles/72c511e3.ext.json)
 
 ---

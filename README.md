@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-26 20:52:34**
+As of **2024-05-26 21:03:57**
 
 ## Newspaper Stats
 
-*Scraped **26,388** Articles*
+*Scraped **26,398** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,79 @@ dailyftlk | 1,533
 adalk | 2,245
 adaderanalk | 3,028
 tamilmirrorlk | 3,097
-virakesarilk | 4,026
+virakesarilk | 4,034
 dailymirrorlk | 4,166
-adaderanasinhalalk | 4,227
+adaderanasinhalalk | 4,229
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,388 (100.0%) of 26,388 articles have been extended.
+26,388 (100.0%) of 26,398 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-26 (Sunday)
+
+### බුද්ධ ප්‍රතිමාවක් සමග යකැදුරෙකු අත්අඩංගුවට
+
+*2024-05-26 20:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197039) · `si`
+
+ඉපැරණි බුද්ධ ප්‍රතිමාවක් විදේශිකයෙකුට අලෙවි කිරීමට සූදානම් වූ පුද්ගලයෙකු අත්අඩංගුවට ගෙන තිබේ.
+
+වලාන මධ්‍යම දූෂණ මර්දන ප්‍රහාරක බළකාය මගින් සිදුකළ මෙහෙයුමකදී සැකකාර යකැදුරාව අත්අඩංගුවට ගෙන තිබේ.
+
+අඩි 3ක පමණ උසකින් සහ කිලෝග්‍රෑම් 48ක බරකින් යුත් පස්ලෝහමය බුද්ධ ප්‍රතිමාවක් රුපියල් එක්කෝටි විසිලක්ෂයක මුදලකට විදේශිකයෙකුට අලෙවි කිරීමට සූදානම්ව සිට ඇති බවට තොරතුරු අනාවරණය වී තිබේ.
+
+මෙම බුද්ධ ප්‍රතිමාව ශ්‍රී වික්‍රම රාජසිංහ රජු විසින් සම්බුද්ධ ශාසනයට පූජා කරන ලද්දක් බවට සැලකෙයි.
+
+◼️
+
+[Data](articles/28d958ad.json)
+
+---
+
+### சீரற்ற காலநிலையால் பாதிக்கப்பட்ட பெருந்தோட்ட மக்களை சந்தித்த ஜீவன் 40மில்லியன் ரூபாய் செலவில் புனரமைப்பு பணிகளை முன்னெடுக்குமாறு பணிப்பு
+
+*2024-05-26 20:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/184559) · `ta`
+
+நாட்டில் நிலவும் சீரற்ற காலநிலை காரணமாக மலையக பெருந்தோட்ட பகுதிகளில்  பாதிக்கப்பட்ட மக்களை 26 ஆம் திகதி. ஞாயிற்றுக்கிழமை இலங்கை தொழிலாளர் காங்கிரஸின் காங்கிரஸின் பொதுச்செயலாளரும் நீர் வழங்கல் மற்றும் தோட்ட உட்கட்டமைப்பு வசதிகள் அபிவிருத்தி அமைச்சர் ஜீவன் தொண்டமான் நேரில் சென்று பார்வையிட்டார்.
+
+இதன் போது போகாவத்தை, அக்கரபத்தனை, போடைஸ், சாஞ்சிமலை மற்றும் பொகவந்தலாவ பகுதியில் டியன்சின், கெம்பியன் பெற்றோசோ ஆகிய பகுதிகளுக்குச்  சென்று பாதிக்கப்பட்ட மக்களை நேரில் சந்தித்துக் கலந்துரையாடினார்.
+
+இதேவளை பெருந்தோட்ட தொழிலாளர்களைச் சந்தித்த அமைச்சர் ஜீவன் தொண்டமான் 1700ரூபாய் சம்பளம் தொடர்பிலும் கலந்துரையாடினார்.
+
+சீரற்ற காலநிலையால் பாதிக்கப்பட்ட மக்களுக்கு 40மில்லியன் ரூபாய் செலவில் புனரமைப்பு பணிகளை உடனடியாக முன்னெடுக்குமாறு பெருந்தோட்ட மனிதவள அபிவிருத்தி நிறுவனத்திற்குப் பணிப்புரை விடுத்தார்.
+
+...
+
+[Data](articles/baa13868.json)
+
+---
+
+### එකම තැනින් හමුවූ අලි සිරුරු 7 ගැන දුක හිතෙන කතාවක්
+
+*2024-05-26 20:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197038) · `si`
+
+පොළොන්නරුව ජලගැලීම් නිම්න ජාතික වනෝද්‍යානයේ හඳපාන්විල විල්ලුවේ තිබී මියගිය වනඅලි හත්දෙනෙකුගේ සිරුරු හමුවී තිබේ.
+
+මෙලෙස මියගොස් ඇත්තේ අවුරුදු 8ත් 10ත් අතර වයසේ පසුවන අලි පැටවුන් පස් දෙනෙකු සහ අවුරුදු 30ත් 35ත් අතර වයසේ පසුවන වන අලින් දෙදෙනෙක් බවට සැලකේ.
+
+වනජීවි නිලධාරීන් පවසන්නේ ජලගැලීම් නිම්න ජාතික වනෝද්‍යානයේ සැරිසරන වනඅලි රංචුවක් ඕඩේ ඇළ හරහා මාරුවීමට යෑමේදී සැඩපහරට හසුවී ගසාගෙන ගොස් මඩෙහි එරී මියයන්නට ඇති බවය.
+
+මේ අතර, මාවනැල්ල පහළ කඩුගන්නාව ප්‍රදේශයේ ප්‍රධාන මාර්ගයට ඉහළින් ඇති ගල්, මාර්ගයට පෙරලීමේ අවදානමක් පැවතීම හේතුවෙන් එම ගල් වහාම ඉවත් කිරීමට අවධානය යොමුව තිබේ.
+
+කෑගල්ල දිස්ත්‍රික් ආපදා ඒකකයේ නිලධාරීන් අද එහි පැමිණ අනතුරු ඇඟවීම් පුවරු සවිකිරීමට පියවර ගෙන තිබුණි.
+
+එමෙන්ම කොළඹ, ගම්පහ ,කළුතර ,මහනුවර ,කෑගල්ල ,නුවරඑළිය සහ රත්නපුර යන දිස්ත්‍රික්කයන් 7ට අදාලව නිකුත් කර ඇති නායයාමේ අනතුරු ඇඟවීම් තවදුරටත් බලපැවැත් වේ.
+
+මේ අතර, අයහපත් කාලගුණය හමුවේ සිදුවූ පුද්ගල මරණ සංඛ්‍යාව මේ වනවිට 9 දක්වා ඉහළගොස් තිබේ.
+
+...
+
+[Data](articles/d821779f.json)
+
+---
 
 ### Did the baby dead in delivery?Missing?
 
@@ -64,6 +124,26 @@ When questioned by the child's body, relatives were taken to the staff of relati
 
 ---
 
+### Sri Lanka hotelier wants rupee to be unit of account to enable external trade
+
+*2024-05-26 20:05:00* · [`economynextcom`](https://economynext.com/sri-lanka-hotelier-wants-rupee-to-be-unit-of-account-to-enable-external-trade-164642/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s unstable exchange rate is making it difficult for businesses to price output across time to foreign counter parties and widely expressed fears of future instability also dented investor confidence, a private entrepreneur said.
+
+Sri Lanka’s central bank has since September 2022 provided monetary stability including the elimination of forex shortages with deflationary policy by overshooting its 5 to 7 percent domestic inflation target, providing a strong foundation for growth and economic activities to recover.
+
+However, volatility in the exchange rate was proving troublesome for some businesses as the currency could no longer be used as a unit of account to denominate future prices.
+
+“I heard the word price stability. Yes, that’s good we have, we have got that,” Gerard Ondaatjie, a business executive and hotelier said at a recent forum at the Central Bank.
+
+...
+
+[Data](articles/3cfba956.json)
+
+[Extended Data](ext_articles/3cfba956.ext.json)
+
+---
+
 ### 59 trees fall within Colombo in seven days
 
 *2024-05-26 19:38:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/59-trees-fall-within-Colombo-in-seven-days/108-283369) · `en`
@@ -88,6 +168,20 @@ Furthermore, Jayawardena highlighted that nearly 200 trees, aged between 50 and 
 
 ---
 
+### வவுனியா மற்றும் மன்னார் மாவட்ட மக்களுக்கு 700 காணி உறுதிப்பத்திரங்களை வழங்கினார் ஜனாதிபதி
+
+*2024-05-26 19:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/184558) · `ta`
+
+"உறுமய" வேலைத்திட்டத்தின் கீழ் வவுனியா மாவட்டத்திலுள்ள 04 பிரதேச செயலக அலுவலகங்கள் மற்றும் மன்னார் மாவட்டத்தில் உள்ள 05 பிரதேச செயலக அலுவலகங்களை உள்ளடக்கியதாக 700  முழு உரிமையுள்ள காணி உறுதிப் பத்திரங்களை ஜனாதிபதி ரணில் விக்ரமசிங்க வவுனியா மோஜோ விழா மண்டபத்தில் வைத்து கையளித்தார்.
+
+வவுனியா மற்றும் மன்னார் மாவட்டங்களில் "உறுமய" வேலைத்திட்டத்தின் கீழ் 5400 முழு உரிமையுள்ள  காணி உறுதிப்  பத்திரங்கள் வழங்கப்பட உள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/e63baac1.json)
+
+---
+
 ### Here's the advantage of the coin of the IPL last conflict
 
 *2024-05-26 19:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197036) · `si`
@@ -105,6 +199,38 @@ They decided to bat first against Kolkata team.
 [Data](articles/528d3c92.json)
 
 [Extended Data](ext_articles/528d3c92.ext.json)
+
+---
+
+### இலங்கைக்கான பிரான்ஸ் தூதுவர் சடலமாக மீட்பு !
+
+*2024-05-26 19:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/184557) · `ta`
+
+இலங்கைக்கான பிரான்ஸ் தூதுவர் ஜீன் ஃபிராங்கோயிஸ் பேக்டெட் (Jean Francois Pactet) அவரது உத்தியோகபூர்வ வீட்டில் சடலமாக மீட்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+சடலம் மீதான நீதவான் விசாரணைகள் நடாத்தப்படவுள்ளதுடன், சம்பவம் தொடர்பில் மேலதிக விசாரணைகளை இராஜகிரிய பொலிஸார் மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/11ce4ec9.json)
+
+---
+
+### மேல் மாகாணத்தைப் போன்று உயர்தர சுகாதார சேவைகளை கொண்ட மாகாணமாக வடமாகாணம் மேம்படுத்தப்படும் - ஜனாதிபதி
+
+*2024-05-26 19:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/184556) · `ta`
+
+2017ஆம் ஆண்டு பிரதமராக இருந்த போது வடமாகாண சுகாதார சேவையை மேம்படுத்தவதற்காக தன்னால் ஆரம்பிக்கப்பட்ட திட்டங்களை நாட்டின் ஜனாதிபதி என்ற வகையில் இன்று மக்களிடம் கையளிக்க முடிந்திருப்பது குறித்து மகிழ்ச்சியடைவதாக ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+
+நவீன வைத்தியசாலைகளுடன் கூடிய சுகாதார வசதிகளை வடக்கு மாகாணம் பெற்றுள்ளதாகக் குறிப்பிட்ட ஜனாதிபதி, மேல் மாகாணத்தைப் போன்று மேம்பட்ட சுகாதார சேவைகளைக் கொண்ட மாகாணமாக வடக்கின் சுகாதார சேவையை அபிவிருத்தி செய்வதே தமது நோக்கமாகும் எனவும் தெரிவித்தார்.
+
+மாங்குளம் ஆதார வைத்தியசாலையில் வைத்திய புனர்வாழ்வு சிகிச்சை மற்றும் மனநல அபிவிருத்தி நிலையத்தை இன்று (26) திறந்து வைக்கும் நிகழ்வில் கலந்து கொண்ட ஜனாதிபதி ரணில் விக்கிரமசிங்க இதனைக் குறிப்பிட்டார்.
+
+நெதர்லாந்து அரசாங்கத்தின் ஆதரவுடன் 4500 மில்லியன் ரூபா செலவில் இந்த மருத்துவ சிகிச்சை நிலையம் நிர்மாணிக்கப்பட்டுள்ளது.
+
+...
+
+[Data](articles/bb47852e.json)
 
 ---
 
@@ -136,6 +262,20 @@ But Care Australia, the humanitarian agency which is helping with relief efforts
 
 ---
 
+### ஈரான் ஜனாதிபதியின் மரணத்திற்கு யார் காரணம்?
+
+*2024-05-26 18:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/184555) · `ta`
+
+கிழக்கு அஸர்பைஜான் மாநிலத்தில் உள்ள மலைப்பாங்கான பிரதேசத்தில் அடர்ந்த பனிப்படலத்தின் மத்தியில் பயணித்துக் கொண்டிருந்த வேளையில் ஹெலிக்கொப்டர் வீழ்ந்திருக்கிறது. இந்த சம்பவம் பற்றி ஈரானிய அரசாங்கம் உத்தியோகபூர்வமாக எதனையும் அறிவிக்கவில்லை.
+
+ஈரானிய பாதுகாப்புப் படைகளின் தலைமை அதிகாரி நேற்று முன்தினம் விபத்து பற்றிய முதலாவது அறிக்கையை வெளியிட்டிருக்கிறார்.ஈரானிய ஜனாதிபதி பயணித்த ஹெலிக்கொப்டர் எந்த இடத்தை நோக்கி செல்வதற்காக பயணித்ததோ, அந்தப் பயண இலக்கில இருந்து மாறவில்லை என்பது விசாரணைக் குழு கண்டுபிடித்த விடயமாகும்.
+
+◼️
+
+[Data](articles/00f5f6cb.json)
+
+---
+
 ### French Ambassador to Sri Lanka dies of suspected cardiac arrest
 
 *2024-05-26 18:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/French-Ambassador-to-Sri-Lanka-dies-of-suspected-cardiac-arrest/155-283370) · `en`
@@ -153,6 +293,30 @@ The Welikada Police are investigating the incident, and a post-mortem examinatio
 [Data](articles/840090ee.json)
 
 [Extended Data](ext_articles/840090ee.ext.json)
+
+---
+
+### அஷ்ரப் அருங்காட்சியகமும்   வாயால் சுட்ட வடைகளும்
+
+*2024-05-26 18:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/184553) · `ta`
+
+ஈரான் ஜனாதிபதி இப்ராஹிம் ரைஸி குழுவினர் சென்ற ஹெலிகொப்டர் விபத்துக்குள்ளான சம்பவம், 24வருடங்களுக்கு முன்னர் ஸ்ரீலங்கா முஸ்லிம் காங்கிரஸின் ஸ்தாபக தலைவர் எம்.எச்.எம்.அஷ்ரப் பயணித்த ஹெலிகொப்டர் அரநாயக்க மலைத்தொடரில் விபத்துக்குள்ளான வரலாற்றுத் துயரை இலங்கை முஸ்லிம்களுக்கு ஞாபகப்படுத்திற்று. இந்த வேளையில்தான், கல்முனையில் மர்ஹ_ம் அஷ்ரப் அருங்காட்சியகத்தை அமைப்பதற்கு ஜனாதிபதி ரணில் விக்கிரமசிங்க 25மில்லியன் ரூபா நிதியை ஒதுக்கீடு செய்துள்ளதாக அறிவிக்கப்பட்டுள்ளது. உண்மையிலேயே, அஷ்ரப் அருங்காட்சியகத்திற்கு ஜனாதிபதி நிதி ஒதுக்கியுள்ளார் என்பது அவரது பெருந்தன்மையை காட்டுகின்றது.
+
+◼️
+
+[Data](articles/8f48577f.json)
+
+---
+
+### ஸ்லோவாக்கிய பிரதமர் கொலை முயற்சியும் மேற்குலகின் அரசியல் போக்கும்
+
+*2024-05-26 18:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/184551) · `ta`
+
+பிரதமரைக் கொல்லும் நோக்குடன் துப்பாக்கிப் பிரயோகம் செய்தவர் செயற்பட்டதாக நம்பப்படுகின்றது. துப்பாக்கிச்சூடு நடத்தியவரை உடனடியாகக் கைது செய்த மெய்ப்பாதுகாவலர்கள், பிரதமரை உலங்கு வானூர்தி மூலம் 30கிலோ மீற்றர் தொலைவில் இருந்த மருத்துவமனைக்கு எடுத்துச் சென்றனர். மே மாதம் 15ஆம் திகதி ஹானட்லோவா எனும் நகரத்தில் நடைபெற்ற இந்தச் சம்பவத்தில் படுகாயம் அடைந்த பிக்கோ தொடர்ந்தும் மருத்துவமனையில் சிகிச்சை பெற்று வருகின்ற போதிலும் அபாயக்கட்டத்தைத் தாண்டிவிட்டதாக அரச வட்டாரங்கள் தெரிவித்துள்ளன.
+
+◼️
+
+[Data](articles/eb88e3c4.json)
 
 ---
 
@@ -632,11 +796,15 @@ Only the Tamil people who are demanding international justice are only extended 
 
 ---
 
-### Sri Lanka tea production down 15-pct in April
+### Sri Lanka tea production down 15-pct in April over scorching sun
 
 *2024-05-26 17:56:00* · [`economynextcom`](https://economynext.com/sri-lanka-tea-production-down-15-pct-in-april-164780/) · `en`
 
 ECONOMYNEXT – Sri Lanka’s tea production fell 14.95 percent in April 2024 from a year ago to 21.46 million kilograms, led by high growns, industry data shows.
+
+“There was hardly any rain in tree growing areas in March which affects the crop,” a tea industry official said.
+
+“After the rains from later April, crop is improving in May.”
 
 High grown tea production fell from 6.49 million kilograms to 4.58 million kilograms, according to industry data published by Ceylon Tea Brokers, a Colombo-based commodities brokerage.
 
@@ -1189,6 +1357,30 @@ Although there is a color light signaling system on this railway crossing, it is
 [Data](articles/7f01a4b3.json)
 
 [Extended Data](ext_articles/7f01a4b3.ext.json)
+
+---
+
+### பெருந்தோட்ட மக்களின் சம்பள பிரச்சினைக்கு தீர்வுகாண நடவடிக்கை எடுப்போம் - விஜேதாச ராஜபக்
+
+*2024-05-26 15:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/184522) · `ta`
+
+பெருந்தோட்ட மக்களின் சம்பளத்தை அதிகரிப்பதற்கு அரசாங்கம் நடவடிக்கை எடுத்திருக்கிறது. அதுதொட்பில் பல்வேறு பிரச்சினைகள் இருக்கின்றன. என்றாலும் அதற்கு தீர்வு பெற்றுக்கொடுக்க நடவடிக்கை எடுப்போம் என  நீதி அமைச்சர் விஜேதாச ராஜபக்ஷ் தெரிவித்தார்.
+
+எமது நாட்டின் பொருளாதாரத்துக்கு சுமார் 200 வருட காலமாக பெருந்தோட்ட மக்கள் வழங்கிய ஒத்துழைப்பை நாங்கள் மதிக்க வேண்டும்.
+
+நாட்டில் எவ்வாறன பிரச்சினை இடம்பெற்றாலும் தோட்ட மக்கள் பாரிய பங்களிப்பை வழங்கினார்கள். அவர்கள் அனைவருக்கும் நாங்கள் மதிக்கிறோம்.
+
+மேலும் உலகில் இருக்கும் பிரச்சினைகளில் நூற்றுக்கு 80 வீதம், தகுதி இல்லாதவர்களுக்கு பதவி வழங்குவதே காரணமாகும்.
+
+நாங்கள் 30 வருட யுத்தத்தில் அனுபவத்தை கண்டோம். 88, 89 மக்கள் விடுதலை முன்னணியின் பயங்கரவாத்தை கண்டோம்.
+
+மீண்டும் அவ்வாறான யுகத்துக்கு நாங்கள் சொல்லத் தேவையில்லை. நாங்கள் மக்களுக்காகவே அரசியல் செய்ய வேண்டும்.
+
+மலையக மக்களுக்கு காணிப்பிரச்சினை இருக்கிறது. சம்பள பிரச்சினை இருக்கிறது. பெருந்தோட்ட மக்களின் சம்பளத்தை அதிகரிப்பதற்கு அரசாங்கம் பிரேரித்திருக்கிறது.
+
+...
+
+[Data](articles/4ef48440.json)
 
 ---
 
@@ -2019,251 +2211,5 @@ One person died on the spot and 13 people, including 7 women, have been admitted
 [Data](articles/d074ee67.json)
 
 [Extended Data](ext_articles/d074ee67.ext.json)
-
----
-
-### Man killed in vehicle accident
-
-*2024-05-26 10:49:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாகன-விபத்தில்-ஒருவர்-பலி/175-337875) · `ta`
-
-A fatal crash occurred on the Badeniya-Anuradhapura road, killing one and injuring 13 passengers in a van. The driver lost control near Me Oya, causing the accident. Victims, including seven women, were taken to hospitals for treatment, with seven critically injured sent to Anuradhapura Hospital.
-
-🟩
-
-One person was killed and 13 people were injured when a van crashed into a tree this morning at the Badeniya - Anuradhapura road.
-
-Police said at least 15 people traveled in the van. The driver of the van on his way to Anuradhapura crashed away from the road near Me Oya.
-
-One person died on the spot and 13 people, including 7 women, have been admitted to the Calgamuwa Hospital, police said.. Seven persons who were in critical condition have been transferred to the Anuradhapura Hospital for further treatment.
-
-◼️
-
-[Data](articles/edf6194e.json)
-
-[Extended Data](ext_articles/edf6194e.ext.json)
-
----
-
-### Somehow people are trying to deceive people
-
-*2024-05-26 10:44:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எப்படியாவது-மக்களை-ஏமாற்றவே-முயற்சிக்கின்றனர்/175-337874) · `ta`
-
-The National People's Power (NPP) denies claims that a member switched from the Janatha Vimukthi Peramuna (JVP) to the United People's Power. NPP leader Anurakumara Dissanayake clarified that the individual, actually a Sri Lanka Freedom Party (SLFP) member named Hidihamilake Saman Kumara, was falsely reported as joining the JVP. This incident occurred during local government elections in Polonnaruwa, where there were also reports of an NPP member joining the Samagi Jana Balawegaya (SJB). Dissanayake expressed concern over these deceptive practices aimed at misleading voters.
-
-🟩
-
-The National People's Power today denied the claim that a JVP member joined the United People's Power during a meeting in Polonnaruwa.
-
-NPP leader Anurakumara Dissanayake said that the particular person was not a JVP member and a member of the SLFP.
-
-Speaking at a meeting in Mannar, Dissanayake said that the Sri Lanka Freedom Party (SLFP) candidate, Hidihamilake Saman Kumara, who had presented nominations in the local government elections to contest the Polonnaruwa Municipal Council in the Polonnaruwa Municipal Council.
-
-“You may have seen the SJB happy today that a member of the NPP joined the SJB at the SJB rally in Polonnaruwa.
-
-This will make a big message on television today. All the SJB leaders embraced him with joy. I know who he is. He is Hitihamilake. Saman Kumara, who submitted the nomination to contest on behalf of the Sri Lanka Freedom Party (SLFP) in the Polonnaruwa Municipal Council. They are trying to deceive people somehow, ”he said.
-
-◼️
-
-[Data](articles/a3cd93aa.json)
-
-[Extended Data](ext_articles/a3cd93aa.ext.json)
-
----
-
-### Six trapped for sale in Katugastota
-
-*2024-05-26 10:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197019) · `si`
-
-In Katugastota, six suspects, including a woman, were arrested for attempting to cheat money from a treasure scam. The suspects, aged 35 and 51 from Habarakuduwa and Habarakada, were caught trying to sell a fake treasure through brokers. They were remanded after being produced in court, with further investigations ongoing.
-
-🟩
-
-Six suspects including a woman who tried to cheat the money have been arrested in a treasure and triggered to cheat for money.
-
-The suspects were arrested in Katugastota on a tip off received yesterday (25).
-
-The suspects are residents of Habarakuduwa, 35 and 51 years and the suspect is a 35 year old resident of Habarakada.
-
-The suspects have arrived in Katugastota to Katugastota to sell a buyer through false matrical brokers.
-
-The suspects were arrested after the expulsion of the victims were revealed that the maturus police informed the Katugastota Police.
-
-The suspects and the suspect were produced before the Kandy Magistrate's Court yesterday (25) and remanded until tomorrow. Katugastota Police are conducting further investigations.
-
-◼️
-
-[Data](articles/7c1faaad.json)
-
-[Extended Data](ext_articles/7c1faaad.ext.json)
-
----
-
-### Exciting Events at Babylon Oberoi
-
-*2024-05-26 10:36:00* · [`islandlk`](http://island.lk/exciting-events-at-babylon-oberoi/) · `en`
-
-As the new Food & Beverage Manager at Hotel Babylon Oberoi I wanted, in 1989, the hotel to make a name in hospitality and catering in Iraq. I was also keen to create and promote a string of international food festivals in Baghdad but encountered several challenges. With my experience ding this many times before, I was well-prepared, motivated, and confident of creating a buzz and present hospitality events and entertainment in Baghdad.
-
-...
-
-[Data](articles/b0717e62.json)
-
-[Extended Data](ext_articles/b0717e62.ext.json)
-
----
-
-### Vijayagala welcomes the passage of laws for women's safety
-
-*2024-05-26 10:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/184489) · `ta`
-
-Vijayagala Maheshwaran, a former parliamentarian, welcomed new laws aimed at enhancing women's safety, expressing hope that they would allow women to move freely without fear. She praised President Ranil Wickremesinghe's efforts during the "Urumaya" program, which focuses on granting land rights, emphasizing his commitment to resolving the Tamil community's land release issue and providing land certificates. This initiative, along with the upcoming women's safety laws, is expected to significantly improve conditions for women across the country.
-
-🟩
-
-Former parliamentarian Vijayagala Maheshwaran has said that the president is hoping that women will be able to move everywhere without fear.
-
-He was speaking at the event when President Ranil Wickremesinghe was held at the Iranamadu Nelum Piyasa Hall yesterday (25) at the Kilinochchi District Program of the "Urumaya" program, which will give all the land rights to all.
-
-Under the "Urumaya" Project, the President of Mullaitivu District. Cannot shorten the president's 45 -year service in 5 minutes. We know how women lived safe in the Northern Province. So the president's claim that the laws of women's safety in the next months are the best.
-
-So all the women in the country will get security. The authorities were unable to explain women's problems due to language issues. There is hope that the president will create a position that women can go everywhere. I thank the President for that.
-
-...
-
-[Data](articles/8730bf6d.json)
-
-[Extended Data](ext_articles/8730bf6d.ext.json)
-
----
-
-### President cautions against teachers engaging in protests that undermine their profession
-
-*2024-05-26 10:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/99441/president-cautions-against-teachers-engaging-in-protests-that-undermine-their-profession) · `en`
-
-President Ranil Wickremesinghe praised the historical “Jaffna Teaching Tradition” during a speech at the Jaffna District Teacher Appointment Ceremony yesterday (25). He highlighted the importance of restoring this tradition and emphasized the need for teachers to serve as exemplary figures in society.
-
-He cautioned against teachers engaging in protests that may undermine their professional image and urged them to uphold their dignity.
-
-The ceremony, which took place at the Jaffna Thanthai Selva Auditorium, saw the appointment of 375 teachers in the Northern Province.
-
-Governor of the Northern Province Mrs. P.S.M. Mrs. Charles also presented a commemorative gift to President Wickremesinghe during the event.
-
-...
-
-[Data](articles/8ce4040d.json)
-
-[Extended Data](ext_articles/8ce4040d.ext.json)
-
----
-
-### Nine children among 27 dead in massive fire at gaming zone in Gujarat
-
-*2024-05-26 10:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Nine-children-among-27-dead-in-massive-fire-at-gaming-zone-in-Gujarat/107-283356) · `en`
-
-Rajkot, May 26 (NDTV) - Twenty-seven people, including nine children, have died in a massive fire that broke out at a gaming zone in Gujarat's Rajkot on Saturday evening, said officials.
-
-"The bodies are completely charred and it is difficult to identify them," Assistant Commissioner of Police Vinayak Patel said. The owners of the gaming zone have been detained by the police.
-
-“A very sad incident took place today. This is the first time in Rajkot's history that a fire in a gaming zone has led to the deaths of people, including children. The focus is on rescuing as many as possible. The government will act against people whose negligence led to this tragedy,” said Darshita Shah, MLA, Rajkot West. A ₹ 4 lakh compensation has been announced for the families of the victims.
-
-...
-
-[Data](articles/c23894b1.json)
-
-[Extended Data](ext_articles/c23894b1.ext.json)
-
----
-
-### Truth behind Sri Lanka VFS visa deal to be exposed: Harsha
-
-*2024-05-26 10:18:00* · [`economynextcom`](https://economynext.com/truth-behind-sri-lanka-vfs-visa-deal-to-be-exposed-harsha-164750/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Committee on Public Finances will expose the truth behind the controversial VFS Global visa deal, its chief Harsha de Silva said.
-
-Officials of the Department of Immigration and Ministry of Public Security has declined to attend meeting called on May 28, de Silva said after skipping the previously scheduled meeting.
-
-“We’ve uncovered many details & will release everything after the final meeting,” de Silva said in a twitter.com post.
-
-“COPF is committed to exposing the truth behind the controversial GBS/IVS tender.”
-
-#COPF meeting on #VFSfiasco postponed again due to Govt officials' unavailability on May 28th. New date: June 4th. We've uncovered many details & will release everything after the final meeting. COPF is committed to exposing the truth behind the controversial GBS/IVS tender.
-
-...
-
-[Data](articles/fac30574.json)
-
-[Extended Data](ext_articles/fac30574.ext.json)
-
----
-
-### IPL finals today
-
-*2024-05-26 10:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197018) · `si`
-
-Today's IPL finals feature Kolkata Knight Riders against Sunrisers Hyderabad. Kolkata played 14 preliminary matches while Sunrisers won 8 out of their 14.
-
-🟩
-
-The finals of the Indian Premier League cricket tournament will be held today (26).
-
-That colcata knight riders team and Sunriysus Hyderabad Group.
-
-Kolkata team faced 14 matches in the preliminary round.
-
-The Sunrisers were facing 14 matches and eight of them won.
-
-◼️
-
-[Data](articles/641a4a29.json)
-
-[Extended Data](ext_articles/641a4a29.ext.json)
-
----
-
-### One dead, 13 injured in road accident at Galgamuwa
-
-*2024-05-26 10:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/99440/one-dead-13-injured-in-road-accident-at-galgamuwa) · `en`
-
-A person has been killed and 13 others injured after a van transporting a group of pilgrims veered off the road and crashed in the Mee Oya area of Galgamuwa.
-
-The accident occurred in the early hours of Sunday (26), according to police reports.
-
-Police suspect the accident had occurred due to the driver, who was traveling from Padeniya towards Anuradhapura, had fallen asleep at the wheel. The van has veered off the road, hit a bridge, and then collided with a tree.
-
-It is reported that around 15 persons were travelling in the van at the time of the accident.
-
-One person has died on the spot, while 13 others who sustained injuries during the accident have been admitted to Galgamuwa Hospital for treatment. Of those, seven individuals were referred to Anuradhapura Teaching Hospital for further treatment, according to hospital sources.
-
-The deceased person has been identified as a 69-year-old resident of Embilipitiya.
-
-◼️
-
-[Data](articles/4c654e08.json)
-
-[Extended Data](ext_articles/4c654e08.ext.json)
-
----
-
-### The Presidential Appointment is held before October 17
-
-*2024-05-26 10:03:32* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිවරණය-‍ඔක්තෝබර්-17ට-පෙර-පවත්වනවා/11-409821) · `si`
-
-The Minister of Justice announced the presidential election will occur in October, repeating it won't be stopped. This election marks its inaugural run on October 17, emphasizing its significance. Minister Wijayadasa Rajapaksa, speaking at a party event, highlighted the SLFP's role in deciding the presidential election outcome.
-
-🟩
-
-The Minister of Justice says that the presidential election will be held in October, he said.
-
-The presidential election first was held on October 17 this year, he said that no one could prevent anyone election.
-
-The Minister Wijayadasa Rajapaksa told the media after the party's chief was organized in Hatton to the Kanda, the leader of the Perama.
-
-Speaking further Mr. Wijesadasa Rajapaksa added that the Sri Lanka Freedom Party (SLFP) is a decision of the Presidential election in the election.
-
-◼️
-
-[Data](articles/00803535.json)
-
-[Extended Data](ext_articles/00803535.ext.json)
 
 ---

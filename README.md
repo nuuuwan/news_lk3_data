@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-27 03:03:51**
+As of **2024-05-27 03:18:32**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,234
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,437 (100.0%) of 26,441 articles have been extended.
+26,441 (100.0%) of 26,441 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,6 +50,8 @@ A recent Government report confirmed that the revenue for 2023 did not reach the
 
 [Data](articles/479d88d1.json)
 
+[Extended Data](ext_articles/479d88d1.ext.json)
+
 ---
 
 ### SL mourns sudden death of French envoy
@@ -66,6 +68,8 @@ The Ministry is in close coordination with the French Embassy in Sri Lanka at th
 
 [Data](articles/dfa8d02a.json)
 
+[Extended Data](ext_articles/dfa8d02a.ext.json)
+
 ---
 
 ### Police fail to find ISIS links to four Lankans arrested in India
@@ -81,6 +85,8 @@ Abdul Hameed Amir, a close associate of Rasdeen and Faris has also been apprehen
 ...
 
 [Data](articles/767121b0.json)
+
+[Extended Data](ext_articles/767121b0.ext.json)
 
 ---
 
@@ -99,6 +105,8 @@ On 23 May, Power and Energy Minister Kanchana Wijesekera announced that addition
 ...
 
 [Data](articles/6367ab12.json)
+
+[Extended Data](ext_articles/6367ab12.ext.json)
 
 ---
 

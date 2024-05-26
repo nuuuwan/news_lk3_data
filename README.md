@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-26 16:50:03**
+As of **2024-05-26 17:03:59**
 
 ## Newspaper Stats
 
@@ -26,83 +26,111 @@ adaderanasinhalalk | 4,219
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,336 (100.0%) of 26,341 articles have been extended.
+26,341 (100.0%) of 26,341 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-26 (Sunday)
 
-### “ஜனாதிபதி மாயாஜால அரசியல் நடத்தவில்லை”
+### “President does not conduct magical politics”
 
 *2024-05-26 16:31:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-மாயாஜால-அரசியல்-நடத்தவில்லை/175-337911) · `ta`
 
-“வானை வில்லாக வளைப்பேன், ஒட்டுமொத்த கடல் நீரையும் சொம்புக்குள் அடக்குவேன் என்றெல்லாம் மந்திர வார்த்தைகளைக்கூறி மாயாஜால அரசியல் நடத்தாமல்,  உண்மையைக்கூறி யதார்த்தத்துக்கு பொருத்தமான அரசியலையே ஜனாதிபதி நடத்திவருகின்றார் என ஜனாதிபதியின் கீழ் இயங்கும் தொழிற்சங்க முடிவுகளை எடுக்கும் மூன்று பேர் கொண்ட குழுவின் உறுப்பினரும், ஐக்கிய தேசியக் கட்சியின் இரத்தினபுரி மாவட்ட அமைப்பாளருமான சுப்பையா ஆனந்தகுமார் தெரிவித்துள்ளார்.
+"President conducts pragmatic politics, focusing on national unity and addressing issues like plantation workers' pay. A labor commissioner's gazette ensures payment, and the finance minister plans to cancel plantation company leases. Companies are urged to manage lands responsibly; otherwise, they should be handed over to the state. The current president's continuation is crucial for the country's recovery."
 
-ஜனாதிபதியின் பயணப் பாதையை மாற்ற முற்படுவது நாட்டுக்கே ஆபத்தாக அமையும். எனவே, அனைவரும் ஒன்றிணைந்து ரணிலுக்கு பேராதரவு வழங்க வேண்டும் என்றும் பெருந்தோட்டத் தொழிலாளர்களின் சம்பளப் பிரச்சினைக்கு நிலையானதொரு தீர்வு பொறிமுறையை ஜனாதிபதி நிச்சயம் உருவாக்குவார் எனவும் நம்பிக்கை தெரிவித்துள்ளார்.
+🟩
+
+"The President of the United National Party (UNP) and the organizer of the United National Party (UNP), said," The president is conducting the politics of the union under the president, "the president is conducting the politics of the reality of reality, without any magical politics."
+
+The attempt to change the president's travel path is a danger to the country. Therefore, he hopes that everyone should unite and give Ranil a chance and the President will definitely create a fixed solution to the plantation workers' pay issue.
+
+A special gazette has been issued by the Commissioner of Labor to ensure that the plantation workers should be paid a day of Rs.. In this context, Finance Minister Ranjith Siyambalapitiya has said that the lease agreement of plantation companies will be canceled.. We welcome this. We will give him our full support in this regard.
 
 ...
 
 [Data](articles/756c0207.json)
 
+[Extended Data](ext_articles/756c0207.ext.json)
+
 ---
 
-### කේප්පාපිලවු ඉඩම් ගැටළුව විසඳීමට ජනපති මැදිහත් වෙයි
+### President intervenes to solve the Prophet Kirippilav land
 
 *2024-05-26 16:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197029) · `si`
 
-තමන්ට ජනාධිපතිවරයා හමුවීමට අවශ්‍ය බව සඳහන් කරමින් පුදුකුඩිඉරුප්පු ප්‍රදේශයේ කාන්තාවන් දෙදෙනෙකු පුදුකුඩිඉරුප්පු මධ්‍ය මහා විද්‍යාලය ඉදිරිපිට විරෝධතාවක නිරතවී තිබේ.
+Protesters in Pudukuduirippu met President Ranil Wickremesinghe during his visit to Mullaitivu, presenting him with a land dispute affecting 56 families. The President assured immediate action and noted progress in releasing lands in the Northern Province, pleasing the protesters.
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අද (26) “උරුමය” වැඩසටහන යටතේ මුලතිව් දිස්ත්‍රික්කයේ සිනන්කක්ර ඔප්පු ලබාදීමේ උත්සවයට සහභාගී වීම සඳහා එහි පැමිණි අවස්ථාවේ මෙම කාන්තාවන් මෙලෙස විරෝධතාවයේ නිරතව ඇත.
+🟩
 
-මේ පිළිබඳ සොයාබැලීම සඳහා උතුරු පළාත් ආණ්ඩුකාර පී. එස්. එම්. චාල්ස් මහත්මිය මෙම කාන්තාවන් දෙදෙනා සිටි ස්ථානය වෙත ගොස් ඔවුන්ගේ ගැටළුව කුමක්දැයි විමසා ඇති බව වාර්තාවෙයි.
+Two women in Pudukuduirippu area have been protesting opposite the Pudukuduirippu Central College, notion that he wants to meet the President.
 
-එහිදී ඔවුන් සඳහන් කර ඇත්තේ සිය ගැටළුව ජනාධිපතිවරයා වෙතට ඉදිරිපත් කළ යුතු බවය.
+President Ranil Wickremesinghe arrived in attending a ceremony to attend the ceremony in Mullaitivu district under the "Heritage Program today (26).
 
-ඉන් අනතුරුව උතුරු පළාත් ආණ්ඩුකාරතුමිය මේ බව දැනුම්දීමෙන් පසුව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විරෝධතාව පැවති ස්ථානයට ගොස් ඔවුන්ගේ ගැටළුවට සවන් දීමට කටයුතු කර ඇති බව ජනාධිපති මාධ්‍ය අංශය පවසයි.
+Governor of the Northern Province to investigate this. S. M. It is reported that Mrs. Charles had gone to the place where the two women were and asked what their problem was.
 
-මෙහිදී එම කාන්තාවන් ජනාධිපතිවරයා වෙත පෙන්වා දී තිබෙන්නේ තමන් ඇතුළු කේප්පාපිලවු ග්‍රාමයේ පදිංචි පවුල් 56ක් ඉඩම් ගැටළුවක් හේතුවෙන් දැඩි පීඩාවකට පත්ව සිටින බැවින් එය කඩිනමින් විසඳීමට කටයුතු කර දෙන ලෙසටය.
+There they have mentioned that their problem should be presented to the President.
+
+The Governor of the Northern Province then went to the protest to the protest and listened to the protest, "says the Presidential Media Unit.
+
+The women have pointed out to the President 56 families from Cappapilau village, including a land problem, to resolve it as a land problem.
+
+President Ranil Wickremesinghe said he was responding to the immediate solution of the issue.
 
 ...
 
 [Data](articles/df73f529.json)
 
+[Extended Data](ext_articles/df73f529.ext.json)
+
 ---
 
-### காணி பிரச்சினையைத் தீர்க்க ஜனாதிபதி நடவடிக்கை
+### President's move to solve land problem
 
 *2024-05-26 16:27:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காணி-பிரச்சினையைத்-தீர்க்க-ஜனாதிபதி-நடவடிக்கை/175-337910) · `ta`
 
-ஜனாதிபதி ரணில் விக்ரமசிங்க ஞாயிற்றுக்கிழமை (26) முல்லைத்தீவு மாவட்டத்தில் "உறுமய" வேலைத்திட்டத்தின் கீழ் காணி உறுதிப் பத்திரங்களை வழங்கும் நிகழ்வில் பங்கேற்பதற்காக புதுக்குடியிருப்பு மத்திய மகா வித்தியாலயத்திற்குச் சென்ற போது. ஜனாதிபதியைச் சந்திக்க வேண்டும் எனக்கூறி அப்பகுதியைச் சேர்ந்த இரண்டு பெண்கள், கல்லூரி முன் ஆர்ப்பாட்டத்தில் ஈடுபட்டனர்.
+President Ranil Wickremesinghe addressed land issues in Mullaitivu, meeting with protesting villagers who faced displacement due to land problems. He assured them of swift action and mentioned ongoing efforts to release more land in the Northern Province, aiming to resolve all related issues soon.
 
-இது குறித்து அறிந்த வடமாகாண ஆளுநர் பி. எஸ். எம். சார்ள்ஸ், இரு பெண்களும் இருந்த இடத்துக்குச் சென்று அவர்களின் பிரச்சினை என்னவென்று வினவ, அதன்போது அவர்களின் பிரச்சினையை ஜனாதிபதியிடம் முன்வைக்க வேண்டும் எனக் குறிப்பிட்டனர்.
+🟩
 
-அதனையடுத்து, வடமாகாண ஆளுநரால் இது குறித்து ஜனாதிபதிக்கு அறிவிக்கப்பட்டதையடுத்து, ஜனாதிபதி ரணில் விக்கிரமசிங்க போராட்டம் நடைபெற்ற இடத்துக்குச் சென்று அவர்களின் பிரச்சினைகளைக் கேட்டறிந்தார்.
+President Ranil Wickremesinghe visited the Pudukkudiyiruppu Central Maha Vidyalaya to participate in the issue of land guarantees under the "Urumaya" program in Mullaitivu district on Sunday (26). Two women from the area staged a protest in front of the college demanding the president to meet.
 
-காணிப் பிரச்சினை காரணமாக தாம் உட்பட கேப்பாப்பிலவு கிராமத்தில் வசிக்கும் 56 குடும்பங்கள் கடும் அழுத்தங்களுக்கு உள்ளாகியுள்ளதாகவும், எனவே இதற்கு உடனடியாக தீர்வு காண ஏற்பாடு செய்யுமாறும் குறித்த பெண்கள் ஜனாதிபதியிடம் வேண்டுகோள் விடுத்தனர்.
+Northern Province Governor B. S.. M.. Charles went to the place where the two women were, and asked what their problem was, and that they should present their issue to the President.
+
+Subsequently, the President of the Northern Province was informed by the Northern Province and President Ranil Wickremesinghe went to the site of the protest and heard about their problems.
+
+Due to the land issue, 56 families living in the village of Keppapilavu, including them, have been under heavy pressure and therefore appealed to the president to arrange for an immediate solution.
 
 ...
 
 [Data](articles/0049e824.json)
 
+[Extended Data](ext_articles/0049e824.ext.json)
+
 ---
 
-### විදුලි රැහැනක ගැටී කාන්තාවක් මරුට
+### Woman dies after collision with power cord
 
 *2024-05-26 16:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197028) · `si`
 
-අයහපත් කාලගුණික තත්ත්වයත් සමග කඩාවැටී තිබූ විදුලි රැහැනක ගැටී හොරණ මිවනපලාන ප්‍රදේශයේ කාන්තාවක් අවාසනාවන්ත ලෙස මියගොස් තිබේ.
+In Horana, a 78-year-old woman died after being hit by a falling tree caused by strong winds while she was collecting coconuts. The incident occurred in the Mivanapatta area, and her body was taken to the Horana District Hospital for examination.
 
-මෙලෙස මියගොස් ඇත්තේ 78 හැවිරිදි වියේ පසුවන එම ප්‍රදේශයේම පදිංචි කාන්තාවකි.
+🟩
 
-පොලීසිය සැකපළ කරන්නේ දැඩි සුළං තත්ත්වය මත විදුලි රැහැන මතට ගසක් කඩාවැටීමෙන් විදුලි රැහැන කඩා වැටී තිබෙන්නට ඇති බවය.
+A woman was unfortunately dead in the Mivanapatta area in Horana, clashed with a collapse of the power casualties.
 
-එම කාන්තාවට අයත් ඉඩමක පොල් ඇහිඳීම සඳහා ගොස් සිටියදී ඇය මෙම අවාසනාවන්ත ඉරණමට මුහුණදී තිබේ.
+The deceased has been identified as a 78-year-old woman in the area.
 
-සිද්ධිය වූ ස්ථානය හොරණ වැඩබලන මහෙස්ත්‍රාත් නීතිඥ කාන්ති කන්නංගර මහත්මිය විසින් පරීක්ෂා කිරීමෙන් පසුව මෘත ශරීරය අධිකරණ වෛද්‍ය කටයුතු සඳහා හොරණ දිස්ත්‍රික් රෝහලට යොමුකර ඇත.
+The suspects of the police are in charge of the collapse of a tree on the strong winds.
+
+She is facing this unfortunate fate while traveling to pick up coconut in the woman.
+
+The body has been directed to the Horana District Hospital for Judicial Medical Hospital following the incident.
 
 ◼️
 
 [Data](articles/ef514834.json)
+
+[Extended Data](ext_articles/ef514834.ext.json)
 
 ---
 
@@ -175,6 +203,8 @@ Furthermore, Wickremesinghe revealed that the Telecommunication Regulatory Commi
 ...
 
 [Data](articles/ecdd0bdb.json)
+
+[Extended Data](ext_articles/ecdd0bdb.ext.json)
 
 ---
 

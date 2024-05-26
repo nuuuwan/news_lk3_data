@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-26 08:11:34**
+As of **2024-05-26 08:19:39**
 
 ## Newspaper Stats
 
-*Scraped **26,263** Articles*
+*Scraped **26,266** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,56 @@ economynextcom | 1,505
 dailyftlk | 1,533
 adalk | 2,235
 adaderanalk | 3,014
-tamilmirrorlk | 3,066
+tamilmirrorlk | 3,068
 virakesarilk | 4,006
 dailymirrorlk | 4,146
-adaderanasinhalalk | 4,203
+adaderanasinhalalk | 4,204
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,257 (100.0%) of 26,263 articles have been extended.
+26,257 (100.0%) of 26,266 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-26 (Sunday)
+
+### ඉන්දියාවේ ගින්නෙන් මියගිය පිරිස තවත් ඉහළට
+
+*2024-05-26 07:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197014) · `si`
+
+ඉන්දියාවේ, ගුජරාට් ප්‍රාන්තයේ රාජ්කොට් නගරයේ හටගත් ගින්නෙන් මියගිය ගණන 27ක් දක්වා ඉහළ ගොස් තිබේ.
+
+මියගිය පිරිස අතර කුඩා ළමුන් 12 දෙනෙකු ද සිටින බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+
+රාජ්කොට් නගරයේ පිහිටි විනෝද ක්‍රීඩා මධ්‍යස්ථානයක එම ගින්න හටගෙන තිබුණි.
+
+ගින්නෙන් මියගිය බොහෝ පුද්ගලයින්ගෙන් සිරුරු හඳුනාගැනීමට නොහැකි ලෙස පිළිස්සී ගොස් තිබූ බව සඳහන්ය.
+
+එම ගින්න හේතුවෙන් සිදුවී ඇති මරණ සංඛ්‍යාව තවදුරටත් ඉහළ යා හැකි බව ඉන්දීය මාධ්‍ය පවසයි.
+
+සිද්ධිය සම්බන්ධයෙන් විමර්ශනය කිරීම සඳහා විශේෂ පංච පුද්ගල කමිටුවක් ද පත්කර ඇති අතර ගින්නට හේතුව මෙතෙක් අනාවරණය වී නොමැත.
+
+◼️
+
+[Data](articles/149aef18.json)
+
+---
+
+### ஒக்டோபர் 17 ஆம் திகதி ஜனாதிபதி தேர்தல்
+
+*2024-05-26 07:42:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒக்டோபர்-17-ஆம்-திகதி-ஜனாதிபதி-தேர்தல்/175-337846) · `ta`
+
+ஜனாதிபதி தேர்தல் இந்த வருடம் ஒக்டோபர் மாதம் 17 ஆம் திகதி நடைபெறும் எனவும், அந்த தேர்தலை யாராலும் தடுக்க முடியாது எனவும் நீதி அமைச்சர் விஜயதாச ராஜபக்ஷ தெரிவித்துள்ளார்.
+
+ஹட்டன் நகரில் சனிக்கிழமை (25) நடைபெற்ற நிகழ்வில் கலந்துகொண்டு கருத்துரைக்கும் போதே மேற்கண்டவாறு தெரிவித்தார்
+
+◼️
+
+[Data](articles/0c6417bb.json)
+
+---
 
 ### President promises to youths
 
@@ -197,6 +233,20 @@ He is the Director of the Sri Lankan Airlines and the first chairman of the Colo
 [Data](articles/b44e6d8a.json)
 
 [Extended Data](ext_articles/b44e6d8a.ext.json)
+
+---
+
+### இன்று முதல் டெங்கு ஒழிப்பு வாரம்
+
+*2024-05-26 02:05:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-முதல்-டெங்கு-ஒழிப்பு-வாரம்/175-337842) · `ta`
+
+தற்போது நிலவும் சீரற்ற காலநிலையினால் டெங்கு நோய்ப் பரவும் விகிதம் அதிகரித்துள்ளமையினாலேயே டெங்கு ஒழிப்பு வாரம் பிரகடனப்படுத்தப்படவுள்ளதாக தேசிய டெங்கு கட்டுப்பாட்டுப் பிரிவு தெரிவித்துள்ளது.
+
+டெங்கு அபாயம் அதிகம் உள்ள பகுதிகளிலே குறித்த திட்டம் அமுல்ப்படுத்தப்படவள்ளதாக குறிப்பிடப்பட்டுள்ளது. (a)
+
+◼️
+
+[Data](articles/88b015a9.json)
 
 ---
 
@@ -2185,73 +2235,5 @@ With a market capitalization of around $23.6 billion, Dogecoin is now the ninth 
 [Data](articles/f388e075.json)
 
 [Extended Data](ext_articles/f388e075.ext.json)
-
----
-
-### Yupun Abeykoon wins gold in men’s 100m at Anhalt Athletic Championship
-
-*2024-05-25 09:29:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Yupun-Abeykoon-wins-gold-in-mens-100m-at-Anhalt-Athletic-Championship/108-283327) · `en`
-
-Germany, May 25 (Daily Mirror) - Sri Lanka’s Yupun Abeykoon secured first place in the Men’s 100m event at the Anhalt Athletic Championship 2024 in Germany, clocking in at 10.16 seconds.
-
-Poland’s Dominik Kopeć finished second with a time of 10.21 seconds, while Omani sprinter Ali Anwar Ali Al-Balushi took bronze, finishing in 10.25 seconds.
-
-The "Anhalt 2024 - Internationales Leichtathletik Meeting," a World Athletics Continental Tour Bronze level event, was held at the Paul-Greifzu-Stadion in Dessau, Germany.
-
-◼️
-
-[Data](articles/147a0761.json)
-
-[Extended Data](ext_articles/147a0761.ext.json)
-
----
-
-### Three arrested for killing Katukurunda
-
-*2024-05-25 09:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/196986) · `si`
-
-Three men, aged 24, 39, and 41, were arrested in Palathiligoda and Nugegoda for allegedly murdering a person in Katukurunda. The suspects were found with two biotomome firearms, four biological firearms, six kilograms of Kerala cannabis, and a vehicle during their arrest.
-
-🟩
-
-Three suspects have been arrested in connection with the murder of a person.
-
-On the night of the night, a man was shot dead by two unidentified persons from the Katukurunda on the night of the night.
-
-Accordingly, the three suspects were arrested following a investigation by the Kalutara Central Criminal Investigation Division.
-
-The suspects were arrested in Palathiligoda and Nugegoda in Palatitiyagoda yesterday evening.
-
-Residents of Tembuwana and Morontuduwa areas, who are aged 24, 39, 41.
-
-In further investigations, they have taken 2 biotomome firearm, four biological firearms, six kilograms of Kerala cannabis and a car has been taken into police custody.
-
-◼️
-
-[Data](articles/76c25890.json)
-
-[Extended Data](ext_articles/76c25890.ext.json)
-
----
-
-### Yupun Abeykoon wins at Anhalt Athletic Championship
-
-*2024-05-25 08:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/99421/yupun-abeykoon-wins-at-anhalt-athletic-championship) · `en`
-
-Sri Lanka’s Yupun Abeykoon has won first place in the Men’s 100m event at the Anhalt Athletic Championship 2024 in Germany.
-
-The Sri Lankan sprinter took first place with a timing of 10.16 seconds (wind+0.3) in the final on Friday.
-
-He had secured a place in the final after finishing first in the Heat 1 as well with a timing of 10.15 seconds (wind 0.0), a season best so far for the sprinter.
-
-Poland’s Dominik Kopeć (10.21) came in second while Omani sprinter Ali Anwar Ali Al-Balushi (10.25) took bronze.
-
-The “Anhalt 2024 - Internationales Leichtathletik Meeting,” a World Athletics Continental Tour Bronze level series, took place at the Paul-Greifzu-Stadion in Dessau, Germany.
-
-◼️
-
-[Data](articles/4b16b89e.json)
-
-[Extended Data](ext_articles/4b16b89e.ext.json)
 
 ---

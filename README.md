@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-26 22:05:29**
+As of **2024-05-26 22:18:51**
 
 ## Newspaper Stats
 
@@ -26,45 +26,57 @@ adaderanasinhalalk | 4,231
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,400 (100.0%) of 26,403 articles have been extended.
+26,403 (100.0%) of 26,403 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-26 (Sunday)
 
-### ලෝකෙම හදවත් වසඟයට ගත් නිර්මාණකරුවෙකු දිවියෙන් සමුගනී
+### A designer who has taken the hearts in the world is passing away
 
 *2024-05-26 21:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197041) · `si`
 
-ඩිස්නි චිත්‍රපට සඳහා ගීත රචනා කළ රිචඩ් එම් ෂර්මන් අභාවප්‍රාප්ත වී තිබේ.
+Richard M. Sherman, aged 95, co-composer of over 150 Disney songs with his brother Robert, has passed away. Known for their Oscar-winning contributions, including "The Bare Necessities" from The Jungle Book, the Sherman Brothers' impact on Disney films is immense. Their legacy continues through their music, which has touched generations worldwide.
 
-වයෝවෘදභාවය සමග ඇති වූ රෝගී තත්ත්වයන් හේතුවෙන් මිය යනවිට ඔහු 95 වැනි වියේ පසුවිය.
+🟩
 
-රිචඩ් එම් ෂර්මන්, මීට පෙර නැසීගිය ඔහුගේ සහෝදරයා වන රෝබට් ෂර්මන් සමඟ ඩිස්නි හි ගීත 150 කට වැඩි ප්‍රමාණයක් රචනා කර තිබේ.
+Richard M shirman has passed away for the disney movies.
 
-"Mary Poppins" නම් ඩිස්නි චිත්‍රපටය සඳහා ෂර්මන් සහෝදරයන් නිර්මාණය කළ ගීත සඳහා 1965 දී ඔස්කාර් සම්මාන දෙකක් ද හිමිව ඇත.
+He was 95 years old when he died due to illness.
 
-සහෝදරයන් දෙදෙනාගේ නිර්මාණ අතර Jungle Book චිත්‍රපටයේ Trust in Me ගීතය සහ Chitty Chitty Bang Bang චිත්‍රපටයේ Truly Scrumptious නම් ගීතය ප්‍රධාන වේ.
+Richard M-Sherman, the previously composed of more than 150 songs in Disney with his previously drowned brother Robert Sherman.
 
-ෂර්මන් සහෝදරයන්ට 2008 වසරේ දී එක්සත් ජනපද ජාතික කලා පදක්කම ද හිමිව තිබේ.
+In 1965, two Oscar awards were also given to the songs made of Sherman brothers.
+
+The song is the TRUNY SCRUMPTIOUS of the Jungle Book film between the two brothers.
+
+The Sherman brothers have also received the US national art medal in 2008.
 
 ◼️
 
 [Data](articles/93452f94.json)
 
+[Extended Data](ext_articles/93452f94.ext.json)
+
 ---
 
-### මෙවර IPL කිරුළට 114ක ඉලක්කයක්
+### 114 Top of 114 to the IPL crowded this year
 
 *2024-05-26 21:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197040) · `si`
 
-IPL තරගාවලියේ අවසන් තරගයේ කාසියේ වාසිය හිමිකරගෙන ප්‍රථමයෙන් පන්දුවට පහරදුන් හයිද්‍රාබාද් කණ්ඩායම පන්දුවාර 18 යි පන්දු 3 කදී සියල්ලන් දැවී ලකුණු 113 ක් රැස්කළේය.
+In a thrilling IPL match, Hyderabad scored 113 runs but lost after 18 overs. Kolkata, however, secured victory with 114 runs.
 
-ඒ අනුව ජයග්‍රහණය සඳහා  කොල්කටා කණ්ඩායමට හිමිව ඇත්තේ ලකුණු 114ක ඉලක්කයකි.
+🟩
+
+Hyderabad scored 113 runs for the loss of 18 overs, attached the IPL.
+
+Accordingly, the Kolkata team has won 114 runs for the win.
 
 ◼️
 
 [Data](articles/3f38e5f6.json)
+
+[Extended Data](ext_articles/3f38e5f6.ext.json)
 
 ---
 
@@ -85,6 +97,8 @@ Meanwhile, Sri Lanka finished with one Silver Medal and two Bronze Medals at the
 ...
 
 [Data](articles/b592c867.json)
+
+[Extended Data](ext_articles/b592c867.ext.json)
 
 ---
 

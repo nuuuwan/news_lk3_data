@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-26 14:18:39**
+As of **2024-05-26 14:34:03**
 
 ## Newspaper Stats
 
-*Scraped **26,323** Articles*
+*Scraped **26,326** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,36 @@ economynextcom | 1,508
 dailyftlk | 1,533
 adalk | 2,240
 adaderanalk | 3,022
-tamilmirrorlk | 3,085
+tamilmirrorlk | 3,087
 virakesarilk | 4,008
-dailymirrorlk | 4,157
+dailymirrorlk | 4,158
 adaderanasinhalalk | 4,215
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,321 (100.0%) of 26,323 articles have been extended.
+26,323 (100.0%) of 26,326 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-26 (Sunday)
+
+### Michael Clarke named Brand Ambassador for LPL 2024
+
+*2024-05-26 14:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Michael-Clarke-named-Brand-Ambassador-for-LPL-2024/108-283364) · `en`
+
+Colombo, May 26 (Daily Mirror) - The Lanka Premier League (LPL) has appointed cricket icon Michael Clarke as its brand ambassador for the upcoming 2024 edition. Scheduled from July 1st to 21st, the tournament is set to feature thrilling matches and showcase top-tier cricket talent from across the globe.
+
+Clarke, renowned for his elegant right-handed batting and leadership prowess, played a pivotal role in Australia's cricket dominance for over a decade. As captain, he led the team to a historic victory in the 2015 Cricket World Cup.
+
+Expressing his enthusiasm for the new role, Clarke said, "I can't wait to get back to Sri Lanka, a country I love playing in. Now, I have the opportunity to not just come and comment but also to be an ambassador for the LPL. I can't wait—so much talent, so many young players, and lots of good overseas players. There is no doubt this tournament will continue to be a success."
+
+...
+
+[Data](articles/b796f8a3.json)
+
+---
 
 ### To Kelani and Black River risks
 
@@ -78,6 +94,8 @@ The inauguration ceremony, held on May 17th, 2024, marked the opening of the exh
 
 [Data](articles/06acccc6.json)
 
+[Extended Data](ext_articles/06acccc6.ext.json)
+
 ---
 
 ### Colombo road closures continue tonight due to extreme weather
@@ -123,6 +141,40 @@ Meanwhile, the police urge the people to stay under stabbing in unprotected risk
 [Data](articles/3adfa6c7.json)
 
 [Extended Data](ext_articles/3adfa6c7.ext.json)
+
+---
+
+### இலஞ்சம் வாங்கிய காதி  நீதவான் கைது
+
+*2024-05-26 13:16:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/இலஞ்சம்-வாங்கிய-காதி-நீதவான்-கைது/76-337890) · `ta`
+
+விவாகரத்து மற்றும் விவாகரத்து ஆணையை வழங்குவதற்காக பெண்ணொருவரிடம் 4,500 ரூபாய் இலஞ்சம் கோரிய போது, ​​கண்டி-உடதலவின்ன பகுதியில்   வைத்து காதி நீதவான் ஒருவர்,  இலஞ்சம் அல்லது ஊழல் பற்றிய சார்த்துதல்களைப் புலனாய்வு செய்வதற்கான ஆணைக்குழு அதிகாரிகளால் கைது செய்யப்பட்டார்.
+
+இலஞ்சம் அல்லது ஊழல் பற்றிய சார்த்துதல்களைப் புலனாய்வு செய்வதற்கான ஆணைக்குழுவுக்கு கிடைத்த முறைப்பாட்டின் அடிப்படையில் மேற்கொள்ளப்பட்ட சுற்றிவளைப்பின் போது குறித்த காதி நீதவான் கைது செய்யப்பட்டுள்ளார்.
+
+ராஜாஎல்ல கும்பக்கடுர பகுதியைச் சேர்ந்த பெண்ணொருவர்  தனது கணவரிடமிருந்து விவாகரத்து கோரி உடதலவின்ன பகுதிலுள்ள காதி நீதிமன்றில் வழக்குத் தாக்கல் செய்துள்ளார். இந்த வழக்கு விசாரணையின் தீர்ப்பு வழங்குவதற்காகவே அந்த பெண்ணிடம் காதி நீதவான், 4,500 ரூபாய் இலஞ்சம் கேட்டள்ளார்.
+
+...
+
+[Data](articles/6f58d9ff.json)
+
+---
+
+### அமெரிக்கரிடம் இருந்து ரூ.1.45 மில்லியன் பணம் திருட்டு
+
+*2024-05-26 13:09:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமெரிக்கரிடம்-இருந்து-ரூ-1-45-மில்லியன்-பணம்-திருட்டு/175-337889) · `ta`
+
+அளுத்கமவில் உள்ள சொகுசு விடுதியில் தங்கியிருந்த அமெரிக்க வர்த்தகர் ஒருவரிடமிருந்து 1.45 மில்லியன் உள்ளூர் மற்றும் வெளிநாட்டு பணம் திருடப்பட்டமை தொடர்பில் அளுத்கம பொலிஸார் விசாரணைகளை ஆரம்பித்துள்ளனர்.
+
+சம்பவம் தொடர்பில் பொலிஸில் முறைப்பாடு செய்த அமெரிக்க பிரஜையான ஆன்ட்ரூ கிறிஸ்டோபர் லூகாஸ் என்பவரின் முறைப்பாட்டின் அடிப்படையில் விசாரணைகள் ஆரம்பிக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+அதன்படி, சுற்றுலாப் பயணி மே 23 அன்று ஹோட்டலுக்கு வந்துள்ளார், மேலும் 24 ஆம் திகதி அதிகாலை 4:20 மணியளவில், அவர் தனது அறையின் திறந்த திரை வழியாக யாரோ வருவதைக் கண்டு எழுந்தார். அப்போது தான் உதவி கோரி கூச்சலிட்டதையடுத்து சந்தேக நபர் அங்கிருந்து தப்பிச் சென்றதாக அவர் பொலிஸாரிடம் தெரிவித்தார்.
+
+பின்னர், லூகாஸ் விடுதி ஊழியர்களுக்கு அறிவித்து முழுமையான சோதனையை மேற்கொண்டுள்ளார். அப்போது அவரது பையில் இருந்த 4,000 அமெரிக்க டொலர்கள், 210,000 இலங்கை ரூபாய்கள், அவரது கடவுச்சீட்டு மற்றும் ஓட்டுநர் உரிமம் ஆகியவை காணாமல் போயிருந்ததாக.
+
+◼️
+
+[Data](articles/7bed22ef.json)
 
 ---
 
@@ -2213,69 +2265,5 @@ Director (CID) can be informed via 071-8591753 or Criminal Investigation Departm
 [Data](articles/eb433b06.json)
 
 [Extended Data](ext_articles/eb433b06.ext.json)
-
----
-
-### Spill gates of five reservoirs opened due to inclement weather
-
-*2024-05-25 18:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Spill-gates-of-five-reservoirs-opened-due-to-inclement-weather/108-283350) · `en`
-
-Colombo, May 25 (Daily Mirror) - Due to the inclement weather and the high rainfall in the catchment areas, spill gates at several reservoirs have been opened, the Disaster Management Centre (DMC) said.
-
-They said six spill gates of the Deduru Oya Reservoir in the Kurunegala district have been opened for four feet.
-
-Four spill gates of the Thabbowa Wewa have been opened. Two spill gates of the Kala Wewa, one spill gate of the Kukule Ganga Reservoir, and three spill gates of the Polgolla Dam have been opened.
-
-The DMC requests those living in low-lying areas along the above reservoirs to be vigilant over possible floods with the continuous rain during the next few days.
-
-◼️
-
-[Data](articles/ff3d0182.json)
-
-[Extended Data](ext_articles/ff3d0182.ext.json)
-
----
-
-### Increase in the number of casualties due to disasters
-
-*2024-05-25 18:15:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அனர்த்தங்களால்-உயிரிழந்தவர்களின்-எண்ணிக்கை-அதிகரிப்பு/175-337833) · `ta`
-
-Heavy rains have led to 7 deaths and 13 injuries, affecting 45,344 individuals across 12,197 families in 18 districts, with Puttalam being the hardest hit. A landslide warning covers seven districts, including Colombo and Kandy.
-
-🟩
-
-The death toll from the weather caused by heavy rains has risen to 7 and 13 people have been injured.
-
-In addition, 45,344 people from 12,197 families in 18 districts have been affected, the Risk Management Center said.
-
-The Puttalam district is the most affected and 11,815 people from 3455 families have been affected.
-
-Meanwhile, a landslide hazard warning has been extended to some of the seven districts of Colombo, Gampaha, Kalutara, Kandy, Kegalle, Nuwara Eliya and Ratnapura.. Remble
-
-◼️
-
-[Data](articles/cf486548.json)
-
-[Extended Data](ext_articles/cf486548.ext.json)
-
----
-
-### Massive tree fell in Vijayarama Mawatha
-
-*2024-05-25 18:12:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விஜயராம-மாவத்தையில்-பாரிய-மரம்-விழுந்தது/175-337832) · `ta`
-
-A massive banyan tree collapsed in Vijayarama Mawatha, blocking the road near the Buddhist TV channel. The Colombo Municipal Council and Fire Service are assisting with its removal.
-
-🟩
-
-The road has been blocked due to the collapse of a banyan tree across the road this evening near the Buddhist television channel in Wijerama Mawatha.
-
-With the help of the Colombo Municipal Council and the Colombo Fire Service Department, the tree is currently underway.
-
-◼️
-
-[Data](articles/f3d7f508.json)
-
-[Extended Data](ext_articles/f3d7f508.ext.json)
 
 ---

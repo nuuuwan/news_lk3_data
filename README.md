@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-26 23:53:07**
+As of **2024-05-27 00:04:17**
 
 ## Newspaper Stats
 
-*Scraped **26,414** Articles*
+*Scraped **26,416** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 262
 bbccomsinhala | 265
 newsfirstlk | 363
 islandlk | 1,431
-economynextcom | 1,509
+economynextcom | 1,511
 dailyftlk | 1,533
 adalk | 2,247
 adaderanalk | 3,030
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,234
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,414 (100.0%) of 26,414 articles have been extended.
+26,414 (100.0%) of 26,416 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -429,6 +429,28 @@ Meanwhile, the number of deaths due to inclement weather has increased to 9.
 [Data](articles/d821779f.json)
 
 [Extended Data](ext_articles/d821779f.ext.json)
+
+---
+
+### Strong winds switch off 467,500 Sri Lanka electricity customers
+
+*2024-05-26 20:10:00* · [`economynextcom`](https://economynext.com/strong-winds-switch-off-467500-sri-lanka-electricity-customers-164810/) · `en`
+
+ECONOMYNEXT – Strong winds and pouring rains which brought down trees, triggered floods and landslides have cut off power to 467,500 electricity users over the past week, state-run Ceylon Electricity Board said.
+
+By May 26 afternoon, power has been restored to about 425,000 customers.
+
+From May 21 to 26, 26,700 breakdowns have been fixed, the CEB said.
+
+“CEB management and staff are working around the clock to restore power to all affected consumer,” a CEB statement said.
+
+The CEB had received around 61,000 breakdown complaints and new ones still coming in.
+
+Separately the CEB’s Engineers Union said unfilled vacancies and abolishing some maintenance engineering positions had led to delays in restoring power and could in the future also affect safety and customer service levels. (Colombo/May26/2024)
+
+◼️
+
+[Data](articles/bb2c4936.json)
 
 ---
 
@@ -1221,6 +1243,28 @@ Tea production for the first four months were down 6.2 percent to 79.7 million k
 [Data](articles/7212e7e5.json)
 
 [Extended Data](ext_articles/7212e7e5.ext.json)
+
+---
+
+### Sri Lanka tea production down 15-pct in April over scorching sun
+
+*2024-05-26 17:56:00* · [`economynextcom`](https://economynext.com/sri-lanka-tea-production-down-15-pct-in-april-over-scorching-sun-164780/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s tea production fell 14.95 percent in April 2024 from a year ago to 21.46 million kilograms, led by high growns, industry data shows.
+
+“There was hardly any rain in tree growing areas in March which affects the crop,” a tea industry official said.
+
+“After the rains from later April, crop is improving in May.”
+
+High grown tea production fell from 6.49 million kilograms to 4.58 million kilograms, according to industry data published by Ceylon Tea Brokers, a Colombo-based commodities brokerage.
+
+Medium growns fell from 4.51 to 3.55 and low growns fell to 13.32 from 14.92 million kilograms.
+
+Tea production for the first four months were down 6.2 percent to 79.7 million kilograms, with growth seen up to the first quarter. (Colombo/May26/2024)
+
+◼️
+
+[Data](articles/94bf1c3e.json)
 
 ---
 
@@ -2199,59 +2243,5 @@ Five other suspects have been arrested in Katugastota, Alawathugoda and Colombo 
 [Data](articles/efb82134.json)
 
 [Extended Data](ext_articles/efb82134.ext.json)
-
----
-
-### New news about Gujarat Fire
-
-*2024-05-26 12:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197023) · `si`
-
-In Rajkot, India, a fire at a fun sports center has resulted in the arrest of four individuals, including the owner and manager, amid rising death tolls reaching 32 children. The cause remains unknown, and rescue efforts continue. Investigations involve DNA identification due to some victims being unconscious.
-
-🟩
-
-Four persons including the owner and four others have been arrested in connection with the fire in a fun sports center in Rajkot, India.
-
-It is said that the number of people killed in the Fire Sports Center has increased to 32 children.
-
-Four persons including the manager of the center have been arrested by a five-member committee appointed to investigate the incident.
-
-However, the cause of the fire is yet to be ascertained and rescue operations continues.
-
-According to foreign investigations to identify the DNA samples and bodies of relatives of the fire as some bodies were unconscious.
-
-◼️
-
-[Data](articles/6a8357c6.json)
-
-[Extended Data](ext_articles/6a8357c6.ext.json)
-
----
-
-### One killed in deep quarry swallows
-
-*2024-05-26 11:59:32* · [`adalk`](https://www.ada.lk/breaking_news/අඩි-සීයක්-ගැඹුරු-ගල්වලක-ගිලී-පුද්ගලයෙකු-මරුට/11-409824) · `si`
-
-A man drowned in a 100-foot-deep quarry while bathing with a friend. Identified as a private company driver from Gemunupura Melnat Estate, his body was recovered after a search involving police and navy divers. The autopsy, conducted by Dr. Damith Attanayake at Homagama Base Hospital, confirmed accidental death.
-
-🟩
-
-One person was killed in two persons who had been in a bath in a bath with a hundred feet deep rock.
-
-The deceased has been identified as a driver of a private private company at Gemunupura Melnat Estate No. 03/11, a resident of Lane No. 03/11.
-
-With his friend, the man had gone to a bath with a hundred feet deep on the water that was filled with a hundred deep water.
-
-The deceased has been drowning and disappeared and the disappearance of the disappearances, and if he tried to find him with several others, it was impacted to find him.
-
-Accordingly, the police and the Navy had investigated and found investigations into the missing person but found a man drowned in the profession.
-
-The police ordered the police to the police in the Homagama Death of Homagama.
-
-...
-
-[Data](articles/965e6f9f.json)
-
-[Extended Data](ext_articles/965e6f9f.ext.json)
 
 ---

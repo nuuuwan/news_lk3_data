@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-26 14:52:32**
+As of **2024-05-26 15:03:36**
 
 ## Newspaper Stats
 
-*Scraped **26,327** Articles*
+*Scraped **26,329** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 1,508
 dailyftlk | 1,533
 adalk | 2,240
 adaderanalk | 3,023
-tamilmirrorlk | 3,087
-virakesarilk | 4,008
+tamilmirrorlk | 3,088
+virakesarilk | 4,009
 dailymirrorlk | 4,158
 adaderanasinhalalk | 4,215
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,215
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,326 (100.0%) of 26,327 articles have been extended.
+26,327 (100.0%) of 26,329 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,30 @@ More than 1,000 people had been displaced from the once-bustling village, Aktopr
 ◼️
 
 [Data](articles/30acd754.json)
+
+[Extended Data](ext_articles/30acd754.ext.json)
+
+---
+
+### லண்டனில் கோழி இறைச்சிக் கடையில் வேலை பார்த்துக்கொண்டே ஐரோப்பிய நாடுகளுக்கு ஆட்களை கடத்திய இலங்கை தமிழர் - பிரான்ஸுக்கு நாடு கடத்தப்படுகிறார்
+
+*2024-05-26 14:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/184514) · `ta`
+
+பிரிட்டனுக்குள் சட்டவிரோத குடியேற்றவாசிகளை கடத்தும் நடவடிக்கைகளை திட்டமிட்டு முன்னெடுத்த இலங்கையரை பிரிட்டன் பிரான்ஸுக்கு நாடு கடத்தவுள்ளதாக சன் செய்தி தகவல் வெளியிட்டுள்ளது.
+
+பிரான்ஸ் நீதிமன்றம் கடந்த வருடம் ஆட்கடத்தலில் ஈடுபட்டார் என தீர்ப்பு வழங்கியதுடன் ஐந்து வருட சிறைத்தண்டனையை விதித்திருந்தது.
+
+இலங்கையிலிருந்து 2003இல் பிரிட்டனுக்கு தப்பிச்சென்ற அகதியான இவருக்கு அங்கு வாழ்வதற்கான சகல அனுமதிகளையும் பிரிட்டன் வழங்கியிருந்தது.
+
+லண்டனின் தென்மேற்கு பகுதியில் வசித்துவந்த இவர்  பிரிக்ஸ்டனில் கோழி இறைச்சி விற்பனை செய்யும் கடையொன்றில் தொழில் புரிந்துவந்தார்.
+
+இதேவேளை கடந்த இரண்டு வருடங்களில் இலங்கையை சேர்ந்தவர்களை ஐரோப்பிய நாடுகளிற்கு கடத்திய கும்பலின் தலைவராகவும் இவர் செயற்பட்டுள்ளார்.
+
+பிரிட்டிஸ் அதிகாரிகள் பிரான்ஸ் அதிகாரிகளின் சார்பில் இவரை 2022இல் முதலில் கைதுசெய்திருந்தனர். பிரான்ஸ் விடுத்த பிடியாணையை அடிப்படையாக வைத்து இவரை நாடு கடத்துமாறு 2022 நவம்பரில் நீதிபதியொருவர் உத்தரவிட்டார்.
+
+...
+
+[Data](articles/bbc53f1b.json)
 
 ---
 
@@ -1039,6 +1063,24 @@ Seven out of the injured were rushed to the Anuradhapura hospital for further tr
 [Data](articles/475740d9.json)
 
 [Extended Data](ext_articles/475740d9.ext.json)
+
+---
+
+### 1 வயது குழந்தை மாரடைப்பால் உயிரிழந்தது
+
+*2024-05-26 09:30:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/1-வயது-குழந்தை-மாரடைப்பால்-உயிரிழந்தது/50-337866) · `ta`
+
+ஒரு வயது குழந்தையின் கொடூரமான காயங்கள் பற்றிய விசாரணையில், அவருக்கு மாரடைப்பு ஏற்பட்டது, அதன் விளைவாக மூளை பாதிப்பு, விலா எலும்பு உடைந்திருந்தமையை காட்டியது.
+
+தனது காதலியின் 1 வயது மகனைக் கொன்றதாக குற்றம் சாட்டப்பட்டு ஓஹியோவில் வசிக்கும் எட்வர்ட் முர்ரே, 23,  கைது செய்யப்பட்டார்.
+
+மே 10 ஆம் திகதி முர்ரே கைது  செய்யப்பட்ட பின்னர், கொலை, கொடூரமான தாக்குதல் மற்றும் குழந்தைக்கு ஆபத்தை விளைவித்தல் ஆகிய குற்றச்சாட்டுகள் சுமத்தப்பட்டுள்ளன.
+
+சின்சினாட்டி வீட்டிற்கு துணை மருத்துவர்கள் மே 1 ஆம் திகதி அழைக்கப்பட்டனர், அங்கு அவர்கள் குழந்தை பதிலளிக்காததைக் கண்டனர். இதையடுத்து அவரது உயிரைக் காப்பாற்றும் முயற்சியில் ஈடுபட்டனர். அவர் சிகிச்சைக்காக சின்சினாட்டி குழந்தைகள் மருத்துவமனை மருத்துவ மையத்தின் தீவிர சிகிச்சை பிரிவுக்கு அனுப்பப்பட்டார். குழந்தை இறந்துவிட்டதாக மே 5 ஆம் திகதி அறிவிக்கப்பட்டது
+
+...
+
+[Data](articles/8bf63eac.json)
 
 ---
 
@@ -2239,43 +2281,5 @@ It was observed that there was a rich in rock and a large trees in high risk roc
 [Data](articles/33c40742.json)
 
 [Extended Data](ext_articles/33c40742.ext.json)
-
----
-
-### Several roads in Colombo closed for traffic tonight due to bad weather
-
-*2024-05-25 18:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/99433/several-roads-in-colombo-closed-for-traffic-tonight-due-to-bad-weather) · `en`
-
-Sri Lanka Police says it has been decided to close several roads in Colombo for traffic tonight (25) in order to avoid repetition of the incidents during the last two days due to the current weather conditions.
-
-Accordingly, Police Media Spokesman DIG Nihal Thalduwa said that Braybrooke Place, Cemetry Roundabout in Borella to Tummulla Junction, Bauddhaloka Mawatha, and the stretches of road from Dr. Lester James Peiris Mawatha to Rotunda Junction in Colombo 03 will remain closed for traffic tonight.
-
-Several incidents of trees falling, damages to vehicles and disruptions to traffic movement had been reported in Colombo during the last few days owing to the prevailing inclement weather conditions.
-
-Colombo traffic plan - Police report by Adaderana Online on Scribd
-
-◼️
-
-[Data](articles/190f22bc.json)
-
-[Extended Data](ext_articles/190f22bc.ext.json)
-
----
-
-### Several roads in Colombo closed tonight due to bad weather
-
-*2024-05-25 18:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/99433/several-roads-in-colombo-closed-tonight-due-to-bad-weather) · `en`
-
-Sri Lanka Police says it has been decided to close several roads in Colombo tonight (25) in order to avoid repetition of incidents during the last two days due to the current weather conditions.
-
-Accordingly, Police Media Spokesman DIG Nihal Thalduwa said that Braybrooke Place, Cemetry Roundabout in Borella to Tummulla Junction, Bauddhaloka Mawatha, and the stretches of road from Dr. Lester James Peiris Mawatha to Rotunda Junction in Colombo 03 will remain closed for traffic tonight.
-
-Several incidents of trees falling, damages to vehicles and disruptions to traffic movement had been reported in Colombo during the last few days owing to the prevailing inclement weather conditions.
-
-◼️
-
-[Data](articles/864aefe2.json)
-
-[Extended Data](ext_articles/864aefe2.ext.json)
 
 ---

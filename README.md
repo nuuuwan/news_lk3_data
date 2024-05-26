@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-26 10:18:35**
+As of **2024-05-26 10:33:58**
 
 ## Newspaper Stats
 
-*Scraped **26,281** Articles*
+*Scraped **26,286** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,79 @@ islandlk | 1,431
 economynextcom | 1,505
 dailyftlk | 1,533
 adalk | 2,236
-adaderanalk | 3,016
+adaderanalk | 3,017
 tamilmirrorlk | 3,076
 virakesarilk | 4,006
-dailymirrorlk | 4,147
-adaderanasinhalalk | 4,207
+dailymirrorlk | 4,150
+adaderanasinhalalk | 4,208
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,280 (100.0%) of 26,281 articles have been extended.
+26,281 (100.0%) of 26,286 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-26 (Sunday)
+
+### IPL අවසන් මහා තරගය අද
+
+*2024-05-26 10:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197018) · `si`
+
+ඉන්දියන් ප්‍රිමියර් ලීග් ක්‍රිකට් තරගාවලියේ අවසන් මහා තරගය අද (26) පැවැත්වේ.
+
+ඒ කොල්කටා නයිට් රයිඩර්ස් කණ්ඩායම සහ සන්රයිසස් හයිද්‍රාබාද් කණ්ඩායම අතරය.
+
+මූලික වටයේදී කොල්කටා කණ්ඩායම තරග 14කට මුහුණ දෙමින් ඉන් තරග 09ක් ජයගෙන ඇත.
+
+සන්රයිසස් කණ්ඩායම තරග 14කට මුහුණ දී ඇති අතර ඉන් තරග  08ක් ජයගෙන තිබේ.
+
+◼️
+
+[Data](articles/641a4a29.json)
+
+---
+
+### One dead, 13 injured in road accident at Galgamuwa
+
+*2024-05-26 10:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/99440/one-dead-13-injured-in-road-accident-at-galgamuwa) · `en`
+
+A person has been killed and 13 others injured after a van transporting a group of pilgrims veered off the road and crashed in the Mee Oya area of Galgamuwa.
+
+The accident occurred in the early hours of Sunday (26), according to police reports.
+
+Police suspect the accident had occurred due to the driver, who was traveling from Padeniya towards Anuradhapura, had fallen asleep at the wheel. The van has veered off the road, hit a bridge, and then collided with a tree.
+
+It is reported that around 15 persons were travelling in the van at the time of the accident.
+
+One person has died on the spot, while 13 others who sustained injuries during the accident have been admitted to Galgamuwa Hospital for treatment. Of those, seven individuals were referred to Anuradhapura Teaching Hospital for further treatment, according to hospital sources.
+
+The deceased person has been identified as a 69-year-old resident of Embilipitiya.
+
+◼️
+
+[Data](articles/4c654e08.json)
+
+---
+
+### One dead, several injured as van crashes on to tree in Galgamuwa
+
+*2024-05-26 10:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/One-dead-several-injured-as-van-crashes-on-to-tree-in-Galgamuwa/108-283355) · `en`
+
+Galgamuwa, May 26 (Daily Mirror) - One person was killed and at least 13 others were injured when a van skidded off the road and crashed on to a tree in Galgamuwa on the Padeniya-Anuradhapura Road early this morning.
+
+Police said at least 15 persons were travelling in the van on their way to Anuradhapura when the vehicle skidded off the road near Mee Oya, as the driver had fallen asleep at the wheel.
+
+According to police, one person died at the scene, while 13 others, including 7 women, were admitted to the Galgamuwa Hospital. Seven individuals who were in critical condition were transferred to the Anuradhapura Hospital for further treatment.
+
+The deceased has been identified as a 69-year-old resident of Embilipitiya.
+
+◼️
+
+[Data](articles/0616db39.json)
+
+---
 
 ### Pilgrimage will end at fatal crash
 
@@ -882,23 +940,29 @@ Our correspondent said that he had come to Mawanalena and arrived in Mawanella t
 
 ---
 
-### ලංකාවේ විශාලම පුද්ගලීකරණය දැන් ක්‍රියාත්මකයි
+### Sri Lanka's largest privatization is now being operated
 
 *2024-05-25 22:37:05* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවේ-විශාලම-පුද්ගලීකරණය-දැන්-ක්‍රියාත්මකයි/11-409820) · `si`
 
-රටේ ජනතාවගේ ඉඩම් අයිතිය තහවුරු කර ඉදිරියට යාමේ අවස්ථාව උදාකර දෙන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+In a significant move, Sri Lanka's President Ranil Wickremesinghe announced the country's largest privatization initiative, focusing on land ownership. Under the "Heritage" program, 13,858 freeholds were granted across the Northern Province, with plans to extend this nationwide. Addressing issues in the Northern and Eastern provinces, including lands affected by war and those held by the Forest and Archaeology Departments, the President outlined measures to return these lands to their rightful owners. Additionally, he mentioned the reduction of high-security zones in Jaffna and the reopening of the Northern Province Housing Project next year. This initiative aims to secure land ownership for all citizens, marking a significant step towards resolving longstanding land issues.
 
-ජනතාවට නොමිලේ ඉඩම් අයිතිය ලබා දෙන දකුණු ආසියාවේ එකම රට ශ්‍රී ලංකාව බව පැවසු ජනාධිපතිවරයා ” උරුමය “වැඩසටහන මගින් ලබාදෙන සින්නක්කර ඔප්පු සුරක්ෂිතව ඊළඟ පරම්පරාවට භාවිතා කිරීමට හැකි වන ආකාරයෙන් තබා ගන්නා ලෙසද ඔප්පුලාභීන්ගෙන් ඉල්ලා සිටියේය.
+🟩
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ “උරුමය ” වැඩසටහන යටතේ යාපනය දිස්ත්‍රික්කයේ ජනතාවට ඉඩම් ඔප්පු ප්‍රදානය කිරීම වෙනුවෙන් යාපනය තන්තයි චෙල්වා ශ්‍රවණාගාරයේ පැවති උත්සවයට එක්වෙමිනි.
+President Ranil Wickremesinghe said that the land ownership of the people of the country will be profitable and will continue to proceed.
 
-යාපනය දිස්ත්‍රික්කයේ ප්‍රාදේශීය ලේකම් කොට්ඨාස 15ම ආවරණය වන පරිදි සින්නක්කර ඔප්පු 1286ක් ජනතාවට ලබාදීම මෙහිදී සිදු කෙරුණු අතර ජනාධිපතිවරයා සංකේතාත්මකව ඉඩම් ඔප්පු ප්‍රදානය කිරීමට එක් විය.
+Sri Lanka is the only country in South Asia, which is given to the people of the country free of charge to the people, "the heritage" program is to be kept safe for the next generation.
 
-“උරුමය” වැඩසටහන යටතේ උතුරු පළාතට අයත් මුලතිව්, කිලිනොච්චිය , වවුනියාව හා මන්නාරම දිස්ත්‍රික්කවලට සින්නක්කර ඔප්පු 13,858ක් ඉදිරියේදී ලබා දීමට නියමිතය.
+President Ranil Wickremesinghe made this statement participating at the cemetery at the CHELLV auditorium to the people of the Jaffna district under the "Heritage Program.
+
+The President made 1286 freehold proven to the public covering the 15 Divisional Secretariat Divisions in the Jaffna District.
+
+Under the "Heritage" program, 13,8,88 freeholds of 13,858 freeholds in the Northern Province.
 
 ...
 
 [Data](articles/e2f0de34.json)
+
+[Extended Data](ext_articles/e2f0de34.ext.json)
 
 ---
 
@@ -963,6 +1027,22 @@ Speaking at a meeting in Mannar, Dissanayake said the particular person Hitihami
 [Data](articles/8b21bb03.json)
 
 [Extended Data](ext_articles/8b21bb03.ext.json)
+
+---
+
+### No JVP member has joined SJB: Anura Kumara refutes SJB claims
+
+*2024-05-25 22:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/No-JVP-member-has-joined-SJB-Anura-Kumara-refutes-SJB-claims/155-283353) · `en`
+
+Mannar, May 25 (Daily Mirror)- The National People's Power (NPP) today refuted claims that a JVP member has joined the Samagi Jana Balawegaya (SJB) during a meeting in Polonnaruwa.
+
+NPP leader Anura Kumara Dissanayake said the particular person was not a JVP member but an SLFP member.
+
+Speaking at a meeting in Mannar, Dissanayake said the particular person Hitihamilage Saman Kumara is an SLFP candidate who had submitted nominations for the Local Government elections to contest for the Bendiwewa Division of the Polonnaruwa Municipal Council.
+
+...
+
+[Data](articles/e1bdf07e.json)
 
 ---
 
@@ -2163,87 +2243,5 @@ The vehicle, in which the deceased had come into contact with, was also damaged 
 [Data](articles/62639d58.json)
 
 [Extended Data](ext_articles/62639d58.ext.json)
-
----
-
-### Yall. All the demands of the university will be fulfilled with the full cooperation of the President - Minister Douglas confirmed!
-
-*2024-05-25 12:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/184447) · `ta`
-
-Minister Douglas Devananda announced the fulfillment of all university demands with the President's support, highlighting a 1.265 billion rupee investment for the Jaffna Medical Training and Research Organization. This includes a newly opened Clinical Training and Research Block, costing 942 million rupees, equipped with lecture halls, exam spaces, and labs. The facility aims to enhance medical education and research, with a focus on surgical practices and professional skill improvement through global collaboration.
-
-🟩
-
-Minister Douglas Devananda has said that about 1,265 million rupees has been put forward to further enhance the Jaffna Medical Training and Research Organization.
-
-The Clinical Training and Research Block - CTRB) was opened by President Ranil Wickremesinghe (24) with the presence of Minister Douglas Devananda.
-
-The building, which has been constructed with 8 floors of the Jaffna Teaching Hospital at a cost of about 942 million rupees at a cost of about 942 million rupees.
-
-This includes lectures for medical learning, examination halls, auditorium and medical development laboratories.
-
-The new building is found in the new building, including surgery rooms, rescue rooms, surgery disposal areas, disinfectant rooms, surgery preparations and medical storage rooms, staff change rooms, reception area patient waiting rooms.. The Regional Cooperation Center is also established here.
-
-...
-
-[Data](articles/1fc998e3.json)
-
-[Extended Data](ext_articles/1fc998e3.ext.json)
-
----
-
-### Wire piece in the toast
-
-*2024-05-25 12:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/184445) · `ta`
-
-A shocking incident occurred when a wire was found in a snack at Vettuppakkam, Jaffna, leading to concerns about food safety. A man bought 10 snacks for 80 rupees, and upon sharing one with his young daughter, discovered the foreign object. The incident was shared on social media, prompting calls for stricter measures to prevent similar incidents.
-
-🟩
-
-The shocking incident of a 4 ginger -sized wire piece in the snack purchased at the Vettuppakkam at Marudanarmadam junction, Jaffna, has shocked.
-
-On Friday evening, a relative was taken to the house of a man who bought 10 snacks for 80 rupees. When a four -year -old girl split the snack to feed a four -year -old girl, it was revealed that there was a wire in the toast.
-
-The person who has taken a snack on the issue of related photos has uploaded it on social media.
-
-The public is urging the public to take stern action on such incidents.
-
-◼️
-
-[Data](articles/41d903ae.json)
-
-[Extended Data](ext_articles/41d903ae.ext.json)
-
----
-
-### If you give information about him, two million
-
-*2024-05-25 11:58:45* · [`adalk`](https://www.ada.lk/breaking_news/මෙයා-ගැන-තොරතුරක්-දුන්නොත්-පොලිසියෙන්-මිලියන-දෙකක-ත්‍යාගයක්/11-409817) · `si`
-
-A suspect linked to a special CID probe seeks public help; offering $2M reward.
-
-🟩
-
-A suspect in connection with a special investigation carried out by the Criminal Investigation Department requests public assistance. Two million cash prizes will be given to a reward of the suspect.
-
-◼️
-
-[Data](articles/583a22a4.json)
-
-[Extended Data](ext_articles/583a22a4.ext.json)
-
----
-
-### Inundated…
-
-*2024-05-25 11:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Inundated/110-283310) · `en`
-
-Roads in several areas were flooded due to incessant rains disrupting the vehicular movement. Over 35,000 people have been affected so far owing to the bad weather.Pix by Pradeep Pathirana
-
-◼️
-
-[Data](articles/5b7f3f35.json)
-
-[Extended Data](ext_articles/5b7f3f35.ext.json)
 
 ---

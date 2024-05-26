@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-26 18:22:15**
+As of **2024-05-26 18:33:51**
 
 ## Newspaper Stats
 
-*Scraped **26,352** Articles*
+*Scraped **26,356** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 islandlk | 1,431
 economynextcom | 1,509
 dailyftlk | 1,533
-adalk | 2,242
-adaderanalk | 3,026
-tamilmirrorlk | 3,094
+adalk | 2,243
+adaderanalk | 3,028
+tamilmirrorlk | 3,095
 virakesarilk | 4,009
 dailymirrorlk | 4,161
 adaderanasinhalalk | 4,223
@@ -26,43 +26,107 @@ adaderanasinhalalk | 4,223
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,347 (100.0%) of 26,352 articles have been extended.
+26,352 (100.0%) of 26,356 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-26 (Sunday)
 
-### ආනන්ද පෙරේරා දිවියෙන් සමුගනී
+### Veteran musician Ananda Perera passes away
+
+*2024-05-26 18:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/99450/veteran-musician-ananda-perera-passes-away-) · `en`
+
+Veteran singer and musician Ananda Perera has passed away at the age of 67.
+
+He had passed away while receiving treatment at a hospital in Kandy, family sources confirmed.
+
+◼️
+
+[Data](articles/3c0fb362.json)
+
+---
+
+### Ananda Perera retires
 
 *2024-05-26 18:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197033) · `si`
 
-මෙරට ප්‍රවීණ සංගීතඥයෙකු වන ආනන්ද පෙරේරා මහතා අභාවප්‍රාප්ත වී තිබේ.
+Ananda Perera, renowned musician, passes away, leaving a legacy in music.
+
+🟩
+
+Ananda Perera, an expert musician, has passed away.
 
 ◼️
 
 [Data](articles/b34c6589.json)
 
+[Extended Data](ext_articles/b34c6589.ext.json)
+
 ---
 
-### ඉන්දියාවේදී ශ්‍රී ලාංකිකයෙකු අත්අඩංගුවට
+### வடக்கு  ஊடகவியலாளர்கள்   புறக்கணிப்பு
+
+*2024-05-26 18:09:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வடக்கு-ஊடகவியலாளர்கள்-புறக்கணிப்பு/175-337929) · `ta`
+
+ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் வடக்கு விஜயத்தின் போது வடக்கு மாகாண பிராந்திய ஊடகவியலார்கள் புறக்கணிக்கப்பட்டுள்ளதாக ஊடகவியலாளர்கள் கவலை வெளியிட்டுள்ளனர்.
+
+வடக்கு மாகாணத்திற்கு கடந்த வெள்ளிக்கிழமை விஜயம் செய்த ஜனாதிபதி ரணில் விக்கிரமசிங்க யாழ்ப்பாணம், கிளிநொச்சி, முல்லைத்தீவு, வவுனியா என நான்கு மாவட்டங்களிலும் இடம்பெற்ற பல்வேறு நிகழ்வுகளில் மூன்று தினங்களாக கலந்து கொண்டிருந்தார்.
+
+இதன்போது ஜனாதிபதி செயலகத்தால் தெற்கில் இருந்து அழைத்து வரப்பட்ட ஊடகவியலாளர்களுக்கு மாத்திரம் நிகழ்வுகளில் செய்தி அறிக்கையிட அனுமதி வழங்கப்பட்டிருந்தது.
+
+ஊடக அமைச்சில் அங்கீகரிக்கப்பட்ட ஊடக அடையாள அட்டையை கொண்டிருந்த வடக்கு மாகாண ஊடகவியலாளர்களுக்கு நிகழ்வுகளுக்கு செல்வதற்கும், செய்தி அறிக்கையிடவும் அனுமதி வழங்கப்படவில்லை.
+
+இதனால் வடக்கில் ஜனாதிபதி சென்ற இடங்களில் உள்ள பிராந்திய ஊடகவியலாளர்கள் ஜனாதிபதியின் நிகழ்வு நடைபெற்ற இடங்களுக்கு வெளியே நீண்ட நேரம் காத்திருந்து விட்டு ஏமாற்றத்துடன் சென்றிருந்தமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/ed17d6a9.json)
+
+---
+
+### Sri Lankan arrested in India
 
 *2024-05-26 18:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197032) · `si`
 
-ව්‍යාජ ලිපි ලේඛන සකස් කිරීමේ ජාවාරමක නිරත වූ ශ්‍රි ලාංකිකයෙකු ඉන්දියාවේ කර්නාටක ප්‍රාන්තයේ දී අත්අඩංගුවට ගෙන තිබේ.
+A Sri Lankan national, Umress Bala Ravindran, was arrested in India's Karnataka for trafficking fake documents. The 45-year-old, previously detained in 2014 and deported, was caught after staying in an illegal housing complex since 2016. Authorities confiscated various illegal documents, a driving license, a mobile phone, and a firearm. He attempted to escape with his family but was apprehended.
 
-උමේෂ් බාලා රවින්ද්‍රන් නැමැති 45 හැවිරිදි අදාළ පුද්ගලයා ඉන්දියාවේ මධ්‍යම අපරාධ කාර්යාංශය මගින්න් අත්අඩංගුවට ගෙන ඇති බව ඉන්දීය මාධ්‍ය වාර්තා කර තිබේ.
+🟩
 
-2010 වසරේ ඉන්දියාවට ගොස් ඇති මෙම ශ්‍රි ලාංකිකයා රජයේ ලියකියවිලි නීති විරෝධි ලෙස සකස් කිරිමේ ජාවාරම සම්බන්ධයෙන් 2014 වසරේ දීද අත්අඩංගුවට ගෙන තිබූ අතර පසුව ඔහු ශ්‍රී ලංකාවට පිටුවහල් කර තිබුණි.
+A Sri Lankan has been arrested in a trafficking of fake documents in Karnataka, India.
 
-2016 වසරේ නීතිවිරෝධී ලෙස යළි ඉන්දියාවට සංක්‍රමණය වී ඇති මොහු කර්නාටක ප්‍රාන්තයේ නිවාස සංකීර්ණයක රැඳී සිටිමින් එම ජාවාරම සිදුකර ඇති බව එරට පොලිසිය සිදුකළ විමර්ශනවලදී අනාවරණය වී ඇත.
+Indian media has reported that the 45-year-old man has been arrested by the Central Criminal Bureau of India, Umress Bala Ravindran.
 
-සැකකරු සතුව තිබි නීති විරෝධී ලෙස සකස් කරන ලද ලිපි ලේඛන, රියදුරු බලපත්‍ර, ජංගම දුරකතන මෙන්ම පිස්තෝල වර්ගයේ ගිනි අවියක් ද පොලිස් භාරයට ගෙන තිබේ.
+The Sri Lankan who had gone to India in 2010 was also taken into custody in 2014 and was deported to Sri Lanka.
 
-සැකකාර ශ්‍රි ලාංකිකයා අත්අඩංගුවට ගැනීමත් සමග ඔහුගේ බිරිඳ, දරුවන් තිදෙනා ද සමඟ ශ්‍රි ලංකාවට පළායාමට උත්සහ දරා ඇති අතර ගුවන්තොටුපොළේ රැඳී සිටියදී ඔවුන් ආරක්ෂක අංශ භාරයට ගෙන ඇති බව ඉන්දීය මාධ්‍ය වාර්තා කළේය.
+Investigations have revealed that he had stayed in a housing complex in Karnataka, which was illegally again in 2016.
+
+Police have also seized the illegal documents, driving licenses, mobile phone and a pistol type.
+
+With the arrest of the suspect, Sri Lanka was fleeing Sri Lanka with his wife and the three children, Indian media said.
 
 ◼️
 
 [Data](articles/f3b22a1e.json)
+
+[Extended Data](ext_articles/f3b22a1e.ext.json)
+
+---
+
+### French Ambassador to Sri Lanka Jean-François Pactet passes away
+
+*2024-05-26 17:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/99449/french-ambassador-to-sri-lanka-jean-franois-pactet-passes-away-) · `en`
+
+The Ambassador of France to Sri Lanka and Maldives, Jean-François Pactet, has reportedly passed away in his official residence in Rajagiriya this afternoon (26).
+
+Born in 1970, Jean-François Pactet had served as Ambassador of France to Sri Lanka and the Maldives since October 2022.
+
+A career diplomat, he had previously served as Deputy Director of Culture and Education in the French Ministry of Foreign Affairs.
+
+Prior to this, Jean-François Pactet had been posted at the French Embassy to the United States in Washington (2012-2016) and at the French Permanent Representation to NATO in Brussels. He was also a Deputy Spokesman for the Ministry of Foreign Affairs of France.
+
+◼️
+
+[Data](articles/6bf45bfb.json)
 
 ---
 
@@ -81,6 +145,8 @@ Tea production for the first four months were down 6.2 percent to 79.7 million k
 ◼️
 
 [Data](articles/7212e7e5.json)
+
+[Extended Data](ext_articles/7212e7e5.ext.json)
 
 ---
 
@@ -122,6 +188,8 @@ Accordingly, with effect from July 1, the institutions such as the Land Registry
 
 [Data](articles/c45b13a6.json)
 
+[Extended Data](ext_articles/c45b13a6.ext.json)
+
 ---
 
 ### Gazette issued on providing details of persons, institutions movable, immovable properties to IRD
@@ -139,6 +207,8 @@ According to the gazette notification, information on all movable and immovable 
 ...
 
 [Data](articles/76892eb1.json)
+
+[Extended Data](ext_articles/76892eb1.ext.json)
 
 ---
 
@@ -363,6 +433,20 @@ The body has been directed to the Horana District Hospital for Judicial Medical 
 [Data](articles/ef514834.json)
 
 [Extended Data](ext_articles/ef514834.ext.json)
+
+---
+
+### වැසි සහ සුළං නිසා කොළඹ ගස් කඩා වැටීම් ගණන ඉහලට
+
+*2024-05-26 15:57:13* · [`adalk`](https://www.ada.lk/breaking_news/වැසි-සහ-සුළං-නිසා-කොළඹ-ගස්-කඩා-වැටීම්-ගණන-ඉහලට/11-409827) · `si`
+
+පවතින අධික වැසි සහ සුළං සහිත කාලගුණික තත්ත්වය හේතුවෙන්  කොළඹ මහ නගර සභා බල ප්‍රදේශයේ ගස් කඩා වැටීම් 59ක් වාර්තා වී ඇති බව  කොළඹ මහනගර සභාවේ ඉඩම් හා පරිසර සංවර්ධන අධ්‍යක්ෂ ඉංජිනේරු මනෝජ් රණසිංහ මහතා පවසයි.
+
+ඉන් ගස් කඩා වැටීම් 19ක්ම සිදු වී ඇත්තේ විහාර මහාදේවි උද්‍යානයෙන් බවත් අනෙකුත් ගස් කඩා වැටීම් මාර්ග ආශ්‍රිතව සිදුව තිබේ. එම ගස් ඉවත් කිරීමේ කටයුතු මේවන විට සිදුකරමින් ඇතිබවත්. එම ප්‍රදේශ වල තවදුරටත් අනාරක්ෂිත ගස් තිබේදැයි සොයා බලමින් ඇතිබව වැඩිදුරටත් පැවසයි.
+
+◼️
+
+[Data](articles/3fb662cd.json)
 
 ---
 
@@ -2199,101 +2283,5 @@ Subsequently, the flood warning issued to the lowlands of Thethuru Oya and Kalu 
 [Data](articles/329ec471.json)
 
 [Extended Data](ext_articles/329ec471.ext.json)
-
----
-
-### Mountaineer Mark Train Services cancel
-
-*2024-05-26 02:00:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மலையக-மார்க்க-ரயில்-சேவைகள்-பல-இரத்து/175-337840) · `ta`
-
-Due to heavy rains and winds, several train and postal services between Colombo and Badulla have been disrupted or cancelled. Trees falling across various locations, including Kadugannawa and Italgasinna, have blocked routes and halted transportation.
-
-🟩
-
-Trees have broken down in many parts of the hill station, causing disruption to train services.
-
-The train from Colombo to Badulla to Badulla has been stopped in the area as a tree has fallen into the Kadugannawa area.
-
-A tree service from Badulla to Colombo has been affected by a tree service in the Italgasinna area.
-
-Meanwhile, two -night postal services between Colombo and Badulla have been canceled due to heavy rain and wind weather.. (A)
-
-◼️
-
-[Data](articles/b109a9c3.json)
-
-[Extended Data](ext_articles/b109a9c3.ext.json)
-
----
-
-### 2024-05-25 (Saturday)
-
-### Iran after Raisi
-
-*2024-05-25 23:32:00* · [`islandlk`](http://island.lk/iran-after-raisi/) · `en`
-
-At the time of his death on May 19, in a helicopter crash that has yet to be fully investigated, Iranian President Ebrahim Raisi had risen through the ranks. Sanctioned by the West and nicknamed the “Butcher of Tehran” for his uncompromising attitude to protesters, he was seen as the successor to Iran’s Supreme Leader Ayatollah Khamenei. Under his watch Iran went through some pretty turbulent times, including a spate of protests in 2021 following the death in custody of a 22-year-old woman. But it also saw through a transformation in its foreign relations, signalling an outreach to Asia and the Global South.
-
-...
-
-[Data](articles/6a29899a.json)
-
-[Extended Data](ext_articles/6a29899a.ext.json)
-
----
-
-### Mullivaikkal - British Labor Leader points
-
-*2024-05-25 23:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/184469) · `ta`
-
-Gear Stramer, a British Labor Leader, called for the recognition of Mullivaikkal victims and the pursuit of justice against past violators during a memorial event in London. He emphasized the importance of learning from the tragedy to prevent future injustices, promising continued efforts towards peace and a political solution for the Tamils.
-
-🟩
-
-British Labor Leader Gear Stramer has urged the recall of the victims of Mullivaikkal and the war and that it should be seen as a sign that the criminals involved in the past violations should be seen.
-
-Labor leader Gear Stramer said this while addressing the Mullivaikkal Memorial event organized by the British Tamil Congress in London's Rabalkar Square. There he added:
-
-On the day of Mullivaikkal, we remember the thousands of people killed in the final war in Sri Lanka and the victims of the worst human rights violations.. At this point, I recall the victims who are still living with the pain of the injustice they have been inflicted, and those who survived the violations and their loved ones.
-
-At the same time, Mullivaikkal and the war should be viewed as symbolism that should be remembered that the victims of the past violations should be stopped before justice.
-
-...
-
-[Data](articles/0c861764.json)
-
-[Extended Data](ext_articles/0c861764.ext.json)
-
----
-
-### Missing Relationships opposed to President Ranil's arrival
-
-*2024-05-25 23:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/184461) · `ta`
-
-Kilinochchi District's Missing Relationships held a media briefing, criticizing President Ranil Wickremesinghe's visit due to unresolved issues from the war, including missing children and lack of justice. They highlighted the disparity in treatment between Sinhalese and Tamil communities, calling for equal application of laws and justice.
-
-🟩
-
-Kilinochchi District Missing Relationships have organized a media briefing today.
-
-Kadirgamanathan Kokilavani further said that on behalf of the Kilinochchi District
-
-President Ranil Wickremesinghe has made a Vijayama for Kilinochchi today. He said he was planning to launch a protest in protest of his arrival and that the protest was issued.
-
-Our children were handed over to the military during the war and taken to the investigation and the disappearance of our children to date.
-
-Many protests have been reported through the media and that we have not yet received justice.
-
-Mullivaikkal porridge was given to the international and Sri Lankan government in the last war.
-
-The military and the police have arrested many people, such as Kanji, as a health hazard.
-
-But today the Vesak is celebrating the country. But so far they are being treated without any confusion.
-
-...
-
-[Data](articles/a3670b01.json)
-
-[Extended Data](ext_articles/a3670b01.ext.json)
 
 ---

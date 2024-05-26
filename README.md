@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-26 23:18:40**
+As of **2024-05-26 23:34:05**
 
 ## Newspaper Stats
 
@@ -26,45 +26,59 @@ adaderanasinhalalk | 4,234
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,412 (100.0%) of 26,414 articles have been extended.
+26,414 (100.0%) of 26,414 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-26 (Sunday)
 
-### ’தாய்ப்பால் விற்பனைக்கு அனுமதி இல்லை’
+### Exchange is not allowed for breastfeeding
 
 *2024-05-26 22:59:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாய்ப்பால்-விற்பனைக்கு-அனுமதி-இல்லை/175-337934) · `ta`
 
-தாய்ப்பாலை பதப்படுத்தவோ அல்லது விற்கவோ அங்கீகாரம் அளிக்கவில்லை. எனவே, அதற்கான உரிமங்களை வழங்குவதைத் தவிர்க்க வேண்டும் என மாநில அரசுகளுக்கு இந்திய உணவு பாதுகாப்பு மற்றும் தர நிர்ணய ஆணையம் உத்தரவிட்டுள்ளது.
+The Food Safety and Standards Commission has banned the processing, selling, and licensing of breastfeeding under the Food Safety and Standards Act of 2006. This decision comes after complaints about breastfeeding sales on platforms like Instagram. The commission emphasizes that breastfeeding should only be provided to infants and not used for commercial purposes.
 
-“உணவுப் பாதுகாப்பு மற்றும் தரநிலைச் சட்டம், 2006 விதிகளின் கீழ் தாய்ப்பாலை பதப்படுத்துதல் அல்லது விற்பனை செய்ய அனுமதியில்லை. எனவே, தாய்ப்பால் மற்றும் அதுதொடர்புடைய பொருள்கள் விற்பனை செய்யப்படுவதை உடனடியாக நிறுத்த வேண்டும். விதிகளை மீறினால் விற்பனை செய்தால் நடவடிக்கை எடுக்கப்படும்.
+🟩
 
-மேலும் தாய்ப்பாலை விற்பனை செய்வதில் ஈடுபட்டுள்ள உணவு வணிகங்களுக்கு மத்திய, மாநில அரசுகள் உரிமம் வழங்கக்கூடாது. இதனை மத்திய, மாநில அரசுகள் உறுதி செய்ய வேண்டும்.
+Breastfeeding is not authorized to process or sell. The Food Security and Standards Commission has ordered the state governments to avoid issuing licenses.
 
-பொதுச் சுகாதார பாலூட்டும் மையங்கள் வழிகாட்டுதல்களின்படி, தாய்ப்பாலை எந்தவொரு வணிக நோக்கத்துக்கும் பயன்படுத்த முடியாது. சிசுக்களுக்கு மட்டுமே இது வழங்கப்பட வேண்டும்.” - என்று தெரிவிக்கப்பட்டுள்ளது.
+“Food Safety and Standards Act, Breastfeeding Processing or Selling Under the Rules of 2006. Therefore, it should immediately stop the sale of breastfeeding and related products. If the rules are violated, action will be taken.
 
-...
+Federal and state governments should not be licensed for food businesses involved in breastfeeding. This should be confirmed by the central and state governments.
+
+Breastfeeding cannot be used for any commercial purpose according to the guidelines of public health lactation centers. It should only be provided to the infants. ”- That is said.
+
+There have been complaints that breastfeeding sales are currently underway through online, including Instagram.. It is in this context that the Food Safety and Standards Authority of India has issued such an order. (A)
+
+◼️
 
 [Data](articles/7b93171f.json)
 
+[Extended Data](ext_articles/7b93171f.ext.json)
+
 ---
 
-### ஐ.பி.எல்: சம்பியனானது கொல்கத்தா நைட் றைடர்ஸ்
+### IPL: Champion is Kolkata Knight Riders
 
 *2024-05-26 22:48:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/ஐ-பி-எல்-சம்பியனானது-கொல்கத்தா-நைட்-றைடர்ஸ்/44-337933) · `ta`
 
-சென்னையில் சற்று முன்னர் முடிவுக்கு வந்த சண்றைசர்ஸ் ஹைதரபாத்துடனான இறுதிப் போட்டியில் வென்றே மூன்றாவது முறையாக கொல்கத்தா சம்பியனானது.
+Kolkata Knight Riders won the IPL title for the third time, defeating Sunrisers Hyderabad in the finals held in Chennai. Despite losing early wickets, Kolkata managed to score 114 runs in 10.3 overs, thanks to Venkatesh Iyer's unbeaten 52 runs off 26 balls and 39 runs off 32 balls. Sunrisers' bowlers, including Mitchell Stark, Vaibhav Aurora, Harshid Rana, Andre Russell, Varun Emperor, and Sunil Narine, dismissed Kolkata for 113 runs in 18.3 overs.
 
-இப்போட்டியின் நாணயச் சுழற்சியில் வென்ற சண்றைசர்ஸின் அணித்தலைவர் பற் கமின்ஸ் தமதணி முதலில் துடுப்பெடுத்தாடும் என அறிவித்தார்.
+🟩
 
-அந்தவகையில் முதலில் துடுப்பெடுத்தாடிய சண்றைசர்ஸ், மிற்செல் ஸ்டார்க் (2), வைபவ் அரோரா, ஹர்ஷித் ரானா (2), அன்ட்ரே ரஸல் (3), வருண் சக்கரவர்த்தி, சுனில் நரைனிடம் வரிசையாக விக்கெட்டுகளைப் பறிகொடுத்து 18.3 ஓவர்களில் சகல விக்கெட்டுகளையும் இழந்து 113 ஓட்டங்களையே பெற்றது.
+Kolkata was the third time in the final with the Sunrisers Hyderabad, which ended in Chennai.
 
-பதிலுக்கு 114 ஓட்டங்களை வெற்றியிலக்காகக் கொண்டு துடுப்பெடுத்தாடிய கொல்கத்தா, வெங்கடேஷ் ஐயரின் ஆட்டமிழக்காத 52 (26), ரஹ்மனுல்லாஹ் குர்பாஸின் 39 (32) ஓட்டங்களோடு 10.3 ஓவர்களில் 2 விக்கெட்டுகளை இழந்த நிலையில் வெற்றியிலக்கையடைந்தது.
+Sunrisers's team captain, Tuk Kamins Damadhani, announced that he would bat first.
+
+Sunrisers, Mitchell Stark (2), Vaibhav Aurora, Harshid Rana (2), Andre Russell (3), Varun Emperor, Sunil Narin took wickets in 18.3 overs and lost 113 runs.
+
+In response, Kolkata lost 114 runs and lost 2 wickets in 10.3 overs with Venkatesh Iyer's unbeaten 52 (26) and 39 (32) runs.
 
 ◼️
 
 [Data](articles/a4daf3df.json)
+
+[Extended Data](ext_articles/a4daf3df.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-26 13:34:02**
+As of **2024-05-26 13:53:05**
 
 ## Newspaper Stats
 
-*Scraped **26,318** Articles*
+*Scraped **26,320** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,59 @@ islandlk | 1,431
 economynextcom | 1,508
 dailyftlk | 1,533
 adalk | 2,240
-adaderanalk | 3,021
+adaderanalk | 3,022
 tamilmirrorlk | 3,085
 virakesarilk | 4,008
 dailymirrorlk | 4,155
-adaderanasinhalalk | 4,213
+adaderanasinhalalk | 4,214
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,317 (100.0%) of 26,318 articles have been extended.
+26,318 (100.0%) of 26,320 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-26 (Sunday)
+
+### Colombo road closures continue tonight due to extreme weather
+
+*2024-05-26 13:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/99444/colombo-road-closures-continue-tonight-due-to-extreme-weather) · `en`
+
+Sri Lanka Police says several roads in Colombo will be closed for traffic once again tonight (26) in order to avoid the repetition of the incidents during the last couple of days due to the current weather conditions.
+
+Police Media Spokesman DIG Nihal Thalduwa said that Braybrooke Place, Malalasekara Road in Borella to Tummulla Junction, Bauddhaloka Mawatha, and the stretches of road from Dr. Lester James Peiris Mawatha to Rotunda Junction in Colombo 03 will remain closed for traffic tonight.
+
+Meanwhile, the police advise visitors to the Vesak zones in Colombo to park their vehicles in a safe location and proceed on foot.
+
+Sri Lanka Police decided to close multiple roads in Colombo city last night (25) as a result of several incidents of trees falling, damages to vehicles and disruptions to traffic movement had been reported in Colombo during the last few days owing to the prevailing inclement weather conditions.
+
+◼️
+
+[Data](articles/b6bc36c7.json)
+
+---
+
+### කොළඹ පාරවල් කිහිපයක් අදත් වැසෙයි
+
+*2024-05-26 13:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197024) · `si`
+
+කොළඹ නගරය ආශ්‍රිතව ප්‍රධාන මාර්ග කිහිපයක් අද රාත්‍රියේත් වසා තබන බව පොලීසිය පවසයි.
+
+පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති නීතිඥ නිහාල් තල්දූව මහතා අද දෙරණ වෙත පැවසුවේ අධික සුළං සමග ගස් කඩාවැටීමෙන් සිදුවිය හැකි  අනතුරු වළක්වාගැනීමේ අරමුණ පෙරදැරිව මෙලෙස මාර්ග කිහිපයක් වසා තබන බවය.
+
+ඒ අනුව බෞද්ධාලෝක මාවත මලලසේකර මංසන්ධියේ සිට තුම්මුල්ල වටරවුම දක්වාත්, විජේරාම පාර ග්‍රෙගරි පාර මංසන්ධියේ සිට බෞද්ධාලෝක පාර දක්වාත්, පෙරහැර මාවත ජේම්ස් පීරිස් මාවත මංසන්ධියේ සිට රොටුන්ඩා මංසන්ධිය දක්වාත් බේබෲක් ප්‍රදේශයත් මෙලෙස වසා තැබීමට නියමිතය.
+
+එසේම වෙසක් කලාප වෙත පැමිණෙන ජනතාවට ආරක්‍ෂිත ස්ථානවල රථවාහන නවතා තබා පා ගමනින් එම කලාප වෙත ගමන්කිරීමට හැකි බවද පොලීසිය වැඩිදුරටත් පවසයි.
+
+මේ අතර පොලීසිය වැඩිදුරටත් ජනතාවගෙන් ඉල්ලා සිටින්නේ අනාරක්ෂිත අවදානම් ගස් යට රැඳී සිටීමෙන් සහ වාහන නවතා ඒ තුළ රැඳී සිටීමෙන් වළකින ලෙසටය.
+
+◼️
+
+[Data](articles/3adfa6c7.json)
+
+---
 
 ### Trump booed and heckled by raucous crowd at Libertarian convention
 
@@ -49,6 +87,8 @@ Trump’s campaign did not immediately respond to a request for comment about th
 ...
 
 [Data](articles/6689d359.json)
+
+[Extended Data](ext_articles/6689d359.ext.json)
 
 ---
 
@@ -2219,41 +2259,5 @@ DIG's Media Declaration, DIG's lawyer, Nihal Talduuwa made this statement.
 [Data](articles/3ba43b88.json)
 
 [Extended Data](ext_articles/3ba43b88.ext.json)
-
----
-
-### Wijerama Mawatha obstructed by fallen tree
-
-*2024-05-25 17:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Wijerama-Mawatha-obstructed-by-fallen-tree/108-283349) · `en`
-
-Colombo, May 25 (Daily Mirror) - The road near the Buddhist Television channel in Wijerama Mawatha has been obstructed by a fallen banyan tree across the road this evening.
-
-Operations are currently being carried out to remove the tree with the help of the Colombo Municipal Council and the Colombo Fire Service Department.
-
-◼️
-
-[Data](articles/908d8dcf.json)
-
-[Extended Data](ext_articles/908d8dcf.ext.json)
-
----
-
-### Inclement weather: 7 dead, 13 injured in 19 districts
-
-*2024-05-25 17:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Inclement-weather-7-dead-13-injured-in-19-districts/108-283348) · `en`
-
-Colombo, May 25 (Daily Mirror) - Seven persons reported dead and 13 others were injured due to falling trees, floods, high winds, rain and rock falls in nineteen districts, the Disaster Management Centre said.
-
-While issuing a report, they said a total of 42,604 people belonging to 11,307 families have been affected, and some people have been sent to seven safe locations.
-
-Accordingly, 533 persons belonging to 140 families have been sent to safe locations. Meanwhile, 464 persons belonging to 122 families are living in their relatives' houses.
-
-A total of 3,137 houses were partially damaged, and 11 houses were completely damaged due to the inclement weather.
-
-◼️
-
-[Data](articles/1adb137f.json)
-
-[Extended Data](ext_articles/1adb137f.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-27 16:50:49**
+As of **2024-05-27 17:03:48**
 
 ## Newspaper Stats
 
-*Scraped **26,586** Articles*
+*Scraped **26,588** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,57 @@ adaderanalk | 3,046
 tamilmirrorlk | 3,120
 virakesarilk | 4,066
 dailymirrorlk | 4,194
-adaderanasinhalalk | 4,261
+adaderanasinhalalk | 4,263
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,584 (100.0%) of 26,586 articles have been extended.
+26,586 (100.0%) of 26,588 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-27 (Monday)
+
+### කොළඹ ලොකු ගස්වලට කරන්න යන දේ
+
+*2024-05-27 16:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197075) · `si`
+
+කොළඹ මහනගර සභා බල ප්‍රදේශය තුළ ඇති හඳුනාගත් අධික අවදානම් සහිත ගස් ඉදිරියේදී කපා ඉවත් කිරීම සඳහා විශේෂ වැඩපිළිවෙළක් ක්‍රියාත්මක කරන බව ආරක්ෂක රාජ්‍ය අමාත්‍ය ප්‍රමිත බණ්ඩාර තෙන්නකෝන් මහතා පවසයි.
+
+අද (27) පැවති මාධ්‍ය හමුවකට එක්වෙමින් රාජ්‍ය අමාත්‍යවරයා ඒ බව සඳහන් කළේය.
+
+එලෙස අධි අවදානම් ගස් ඉවත් කිරීමේ වැඩසටහන සඳහා හමුදාව සහ සිවිල් ආරක්ෂ බළකාය යෙදවීමට බලාපොරොත්තු වන බවද ආරක්ෂක රාජ්‍ය අමාත්‍යවරයා පැවසීය.
+
+එම ගස් ඉවත් කිරීමේ ක්‍රියාවලිය කොළඹ මහනගර සභාවේ පූර්ණ අධික්ෂණය යටතේ ක්‍රියාත්මක කරන බවත් එසේ ඉවත්කරන ගස් සඳහා අලුත් ගස් සිටුවීමට තීන්දු කළ බවත් ආරක්ෂක රාජ්‍ය අමාත්‍ය ප්‍රමිත බණ්ඩාර තෙන්නකෝන් මහතා වැඩිදුරටත් පැවසීය.
+
+මේ අතර අයහපත් කාලගුණික තත්ත්වය හේතුවෙන් ගස් කඩාවැටීමෙන් පුද්ගල මරණ 7ක් මේ වනවිට වාර්තා වී ඇති බව ඔහු පැවසීය.
+
+ආපදා කළමනාකරණ මධ්‍යස්ථානයේ දත්තවලට අනුව දිස්ත්‍රික්ක 20ක ප්‍රාදේශීය ලේකම් කොට්ඨාස 212ක පවුල් 14,754ක පුද්ගලයින් 55,406ක් පීඩාවට පත්ව ඇති බව  රාජ්‍ය අමාත්‍ය ප්‍රමිත බණ්ඩාර තෙන්නකෝන් මහතා පැවසීය.
+
+◼️
+
+[Data](articles/6eb8db0a.json)
+
+---
+
+### සොරකමක් වැළැක්වීමට උත්සාහ කළ නළුවාට අත්වූ ඉරණම
+
+*2024-05-27 16:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197074) · `si`
+
+අමෙරිකාවේ ප්‍රකට නළුවෙක් වන ජොනි වැක්ටර් වෙඩි වැදී මරණයට පත්ව ඇති බව වාර්තා වෙයි.
+
+"ජෙනරල් හොස්පිටල්" නම් රූපවාහිනී කතා මාලාවේ ඔහු ප්‍රකට චරිතය කි.
+
+පසුගිය සෙනසුරාදා (25) සේවය නිමවා නැවත නිවෙස වෙත එමින් සිටියදී ලොස් ඇන්ජලීස් හි වීථියක සිදුකරමින් තිබූ මෝටර් රථ සොරකමක් වැළැක්වීමට ඔහු උත්සාහ දරා ඇති අතර එහිදී යම් පුද්ගලයෙක් වැක්ටර් ට වෙඩිතබා තිබුණි.
+
+ඔහු රෝහල්ගත කරන විටත් මියගොස් සිටි බව පොලිස් ප්‍රකාශකයෙක් පැවසීය.
+
+◼️
+
+[Data](articles/f56df398.json)
+
+---
 
 ### A clear answer to the politics of South Sri Lanka, which is questioned by our existence
 
@@ -115,6 +155,8 @@ Footage from the county showed a petrol station and rest stop almost completely 
 ...
 
 [Data](articles/9b2b65f2.json)
+
+[Extended Data](ext_articles/9b2b65f2.ext.json)
 
 ---
 
@@ -319,6 +361,8 @@ In line with the 2568 Vesak festival, a Vesak Maha Perahera was held last evenin
 ◼️
 
 [Data](articles/08349a24.json)
+
+[Extended Data](ext_articles/08349a24.ext.json)
 
 ---
 
@@ -2349,51 +2393,5 @@ With a maximum of 26 per cent of the arrival in India, 11 percent from the Maldi
 [Data](articles/e1bdda2b.json)
 
 [Extended Data](ext_articles/e1bdda2b.ext.json)
-
----
-
-### Dinesh Priyantha has to retire from play of India
-
-*2024-05-27 09:13:10* · [`adalk`](https://www.ada.lk/sports/ඉන්දියාවේ-විරෝ‍‍‍ධයක්-නිසා-දිනේෂ්-ප්‍රියන්තට-ක්‍රිඩාවෙන්-විශ්‍රාම-ගන්න-වෙලා/9-409834) · `si`
-
-Dinesh Priyantha, a Sri Lankan Para Olympic athlete, loses eligibility due to a dispute over his medical condition, affecting his participation in the 2024 Paris Olympics. Despite winning multiple world and Asian championships, the Medical Council of the International Paralympics Association questions his ability to compete effectively. This decision, based on video evidence, impacts his career and future prospects in sports.
-
-🟩
-
-Sri Lankan Para Olympic Player Dinesh Priyantha has lost the eligibility of the silver and the discovery of the 824 Paris Olympic Games against India.The committee Chairman Colonel Deepal Herath stated in the special visitors of the Katunayake airport on the night of 5/26.
-
-Sri Lankan Para Olympic athletic Dinesh Priyantha is a player who has won two World Championships and three World Championships in two World Championships and three in Asian tournaments.
-
-He said that he was a player who has confirmed to be confirmed by the Medical Council of the International Paralympics Association of International Paralympics Association from 2014.
-
-The Chairman of the National Para The Olympic Committee said that he had continued to engage in the lower section of he had been engaged in a daily part of 2014 and had a healing of the lower part of his hand.He added that the protest had been made against Dinesh Priyantha depositing them.
-
-...
-
-[Data](articles/6dfbfbbb.json)
-
-[Extended Data](ext_articles/6dfbfbbb.ext.json)
-
----
-
-### Accepting applications for Grade 5 exam begins today
-
-*2024-05-27 09:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Accepting-applications-for-Grade-5-exam-begins-today/108-283413) · `en`
-
-Colombo, May 27 (Daily Mirror) - Accepting applications for the Grade Five Scholarship Examination for 2024 commences today, Examinations Commissioner General H.J.M.C. Amith Jayasundara said.
-
-Accordingly, the Grade 5 Scholarship Examination will be held on September 15 (Sunday).
-
-Students in Grade 5 at government-approved schools will be eligible to sit for the examination.
-
-Students who are under eleven years as of January 31, 2025, will be eligible for the scholarships.
-
-To download the applications, candidates are requested to log on to the Examinations Department’s official website: https://onlineexams.gov.lk/eic
-
-◼️
-
-[Data](articles/fd8b7163.json)
-
-[Extended Data](ext_articles/fd8b7163.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-27 13:53:34**
+As of **2024-05-27 14:05:09**
 
 ## Newspaper Stats
 
-*Scraped **26,539** Articles*
+*Scraped **26,541** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,43 @@ adaderanalk | 3,041
 tamilmirrorlk | 3,118
 virakesarilk | 4,046
 dailymirrorlk | 4,189
-adaderanasinhalalk | 4,251
+adaderanasinhalalk | 4,253
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,537 (100.0%) of 26,539 articles have been extended.
+26,539 (100.0%) of 26,541 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-27 (Monday)
+
+### මාතර රෝහලේ දී බිලිඳා ට වෙච්ච දේ ?
+
+*2024-05-27 13:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197065) · `si`
+
+මාතර නව දිස්ත්‍රික් මහ රෝහලේ දී මියගිය බව කියන බිලිඳාගේ දේහය බවට රෝහල් කාර්යමණ්ඩලය තමන්ට පෙන්වූ මළසිරුර සිය දරුවාගේ නොවන බවට බිලිඳාගේ මව්පියන් චෝදනා කරයි.
+
+ඒ අනුව, බිලිඳාගේ සිරුර පිළිබඳ ඇතිවූ සැකය මත DNA පරීක්ෂණයක් සිදුකළ යුතු බවට මව්පියන් රෝහල් බලධාරීන්ට දන්වා ඇත.
+
+පසුව ඊට සෞඛ්‍ය සේවා අධ්‍යක්ෂ ජනරාල්වරයාගේ අනුමැතිය ලැබුණ ද රෝහලේ අධ්‍යක්ෂවරයා ඊට විරෝධය පළ කර තිබේ.
+
+මාතර වැලිගම පදිංචි 24 හැවිරිදි කාවින්ද්‍යා මදුෂානි පසුගිය 22 වනදා මාතර නව දිස්ත්‍රික් මහ රෝහලට ඇතුළත් වුණේ සිය කුළු﻿ඳුල් දරු ප්‍රසූතිය සඳහාය.
+
+මදුෂානි රෝහල්ගත කළදාම ඇය දරුවා ප්‍රසූත කළත්, බිලිඳා මියගොස් ඇති බව රෝහල් බලධාරීන් ඇයට දැනුම්දී තිබුණි.
+
+බිලිඳාගේ දේහය පියාට හෝ නොපෙන්වා මිහිදන් කිරීම ගැන ඥාතීන් රෝහල් කාර්යමණ්ඩලයෙන් ප්‍රශ්න කළ විට ඔවුන් පවසා තිබුණේ දේහය කොළඹ ජාතික රෝහලට රැගෙන ගිය බවය.
+
+මේ සම්බන්ධයෙන් රෝහලේ කාර්යමණ්ඩලය පරස්පර විරෝධී ප්‍රකාශ සිදුකිරීම සම්බන්ධයෙන් ඥාතීන්ට ඇත්තේ බලවත් සැකයකි.
+
+මෘත ශරීරාගාරයේ තිබී බිලිඳෙකුගේ මෘත දේහයක් රෝහල් කාර්යමණ්ඩලය මව්පියන්ට ඊයේ (27) පස්වරුවේ පෙන්වා ඇති නමුත් ඔවුන් පවසන්නේ ඒ තම දරුවා නොවන බවය.
+
+...
+
+[Data](articles/d91a3577.json)
+
+---
 
 ### Water levels of several rivers on the rise
 
@@ -52,25 +78,49 @@ Therefore, residents of the Bulathsinhala Divisional Secretariat are advised to 
 
 [Data](articles/260fc4e9.json)
 
+[Extended Data](ext_articles/260fc4e9.ext.json)
+
 ---
 
-### වැලිගම පාතේගම ආදර්ශ ප්‍රාථමික විදුහල අසල  වෙඩි තැබීමක්
+### Shooting near Patregama Model Primary College, Weligama
 
 *2024-05-27 13:20:51* · [`adalk`](https://www.ada.lk/breaking_news/වැලිගම-පාතේගම-ආදර්ශ-ප්‍රාථමික-විදුහල-අසල--වෙඩි-තැබීමක්/11-409847) · `si`
 
-වැලිගම, බටවල, පාතේගම ආදර්ශ ප්‍රාථමික විදුහල අසල අද(27) උදෑසන වෙඩිතැබිමක් සිදුව ඇතැයි පොලීසිය කියයි.
+In Weligama, near Patregama Model Primary College, a shooting incident occurred involving a motorbike resident from the Midigama police division, armed with a pistol. The victim, a 30-year-old man from the same area, was targeted but not injured. The shooter, linked to the Chinthaka group, is under arrest. The Midigama Police, along with other officers and the STF, are investigating the case.
 
-මිදිගම පොලිස් වසමේ පදිංචි තරුණයෙකුට යතුරුපැදියකින් පැමිණි පුද්ගලයින් දෙදෙනෙකු විසින් පිස්තොල වර්ගයේ ගිනි අවියක්  යොදාගෙන මෙම වැඩිතැබීම සිදුකර පළාගොස් තිබුණි. වෙඩි තැබිම සිදුවු ස්ථානයේ මාර්ගයේ හිස් උණ්ඩ කොපුවක් ද  දක්නට තිබිණි.
+🟩
 
-මිදිගම පිටිදූව පාරේ පදිංචි 30 හැවිරිදි පුද්ගලයෙකු අද උදැසන සිය දරුවන් දෙදෙනා පාසලට රැගෙන ආ අවස්ථාවේදී එම පුද්ගලයා ඉලක්ක කොට මෙම වෙඩිතැබීම සිදුකර ඇත. කෙසේවෙතත් වෙඩිතැබීමෙන් කිසිවෙකුටත් හානියක් සිදුවී නොමැත.
+Police say that the police said that the police said that the police said.
 
-⁣වෙඩි තැබිමට ඉලක්ක වු පුද්ගලයා නදුන් චින්තක නොහොත් හරක් කටා යන අයගේ පාර්ශවයේ පුද්ගලයකු වන අතර මොහුට විරුද්ධව  පුද්ගලයෙකුට වෙඩි තැබිමක් සම්බන්ධයෙන් අත්අඩංගුවට පත්ව මේ වන විට ඇප මත නිදහස්ව පැමිණ සිටින අයෙකු  බව පොලිසිය කියයි.
+A motorbike resident of the Midigama police division used a motorbike with a pistol variety. On the location of the shooting, there was also an empty ammunition sheath.
 
-සිදුවිම සම්බන්ධයෙන්  මිදිගම පොලිසිය ,වැලිගම පොලිසිය හා එක්ව  පොලීස් කණ්ඩයම් කිහිපයක් හා පොලිස් විශේෂ කාර්ය බලකාය සමග  වැඩිදුර පරික්ෂණ කරති.
+A 30-year-old man residing in the patronage of Midigama was a 30-year-old resident of the road, the victim had targeted the man. However, the shooting has not been harmed.
+
+The target for the laying person is a person in the party of Chinthaka, or a person who is arrested against hearing on a shooting against him.
+
+Midigama Police partner in collaboration with several police candidates and the STF in collaboration with the Weligama Police.
 
 ◼️
 
 [Data](articles/62843838.json)
+
+[Extended Data](ext_articles/62843838.ext.json)
+
+---
+
+### තවත් ගුවන්යානයක් වායු කැලඹීමකට හසුවෙයි
+
+*2024-05-27 13:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197064) · `si`
+
+කටාර් රාජ්‍යයේ දෝහා සිට අයර්ලන්තයේ ඩබ්ලින් බලා පියාසර කරමින් පැවති කටාර් එයාර්වේස් සමාගමට අයත් ගුවන්යානයක් උඩුගුවනේ දී වායු කැලඹීමකට හසුවීමෙන් මගීන් 12 දෙනෙක් තුවාල ලබා තිබේ.
+
+යානය නිරුපද්‍රිතව ගොඩබැස්වීමට එහි නියමුවන් සමත්ව තිබූ අතර තුවාල ලබා තිබුණේ මගීන් හය දෙනෙක් සහ කාර්යමණ්ඩල සාමාජිකයින් හය දෙනෙකි.
+
+පසුගිය සතියේදී සිංගප්පූරු ගුවන් සේවයට අයත් යානයක් ලන්ඩනයේ සිට සිංගප්පූරුව බලා පියාසර කරමින් තිබියදී මෙවැනිම වායු කැලඹීමකට හසුවීමෙන් ඇතිවූ කම්පනයෙන් එහි ගමන් කළ මගියෙක් මරණයට පත්වී තිබුණි.
+
+◼️
+
+[Data](articles/e05e4d4b.json)
 
 ---
 
@@ -2195,43 +2245,5 @@ The secondary landslide risk has been released to the Ingiriya Divisional Secret
 [Data](articles/00c14850.json)
 
 [Extended Data](ext_articles/00c14850.ext.json)
-
----
-
-### Customs Department to commence auctions online this week: State Minister
-
-*2024-05-27 01:00:23* · [`dailyftlk`](https://www.ft.lk/business/Customs-Department-to-commence-auctions-online-this-week-State-Minister/34-762185) · `en`
-
-State Minister of Finance Ranjith Siyambalapitiya announced that preliminary work to modernise the Customs Department auction process will commence via online this week.
-
-“The initiative aims to allow all interested parties to participate in customs auctions remotely, thereby reducing undue influence and ensuring transparency,” he added.
-
-Siyambalapitiya highlighted that this reform will enable individuals and businesses to bid on auctioned goods from the comfort of their homes. This move is intended to mitigate the influence of various constitutive groups that have previously affected the clearance of goods by customs.
-
-In response to several reported instances of such undue influence, he emphasised the necessity of this overhaul to safeguard the integrity of the auction process. By facilitating remote participation, the Government aims to create a fair and competitive environment for all bidders.
-
-...
-
-[Data](articles/1330e7a1.json)
-
-[Extended Data](ext_articles/1330e7a1.ext.json)
-
----
-
-### David Pieris Renewable Energy opens head office in Pelawatte
-
-*2024-05-27 00:57:49* · [`dailyftlk`](https://www.ft.lk/business/David-Pieris-Renewable-Energy-opens-head-office-in-Pelawatte/34-762184) · `en`
-
-David Pieris Group Chairman and Managing Director Rohana Dissanayake cutting the ribbon to open the new head office
-
-A significant milestone was achieved in Sri Lanka’s sustainable energy landscape and the David Pieris Group with the inauguration of the new head office of David Pieris Renewable Energy Ltd.
-
-Strategically situated at No. 734B, New Parliament Road, Pelawatta, Battaramulla, the new office was opened by David Pieris Group Chairman and Managing Director Rohana Dissanayake along with the board directors of David Pieris Renewable Energy and directors of Group companies. This short and simple ceremony was attended by representatives from the Sustainable Energy Authority, customers, and other internal and external stakeholders.
-
-...
-
-[Data](articles/769f30cf.json)
-
-[Extended Data](ext_articles/769f30cf.ext.json)
 
 ---

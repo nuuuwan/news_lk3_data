@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-27 07:45:33**
+As of **2024-05-27 08:10:19**
 
 ## Newspaper Stats
 
-*Scraped **26,458** Articles*
+*Scraped **26,460** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,47 @@ dailyftlk | 1,550
 adalk | 2,247
 adaderanalk | 3,030
 tamilmirrorlk | 3,100
-virakesarilk | 4,039
+virakesarilk | 4,040
 dailymirrorlk | 4,176
-adaderanasinhalalk | 4,237
+adaderanasinhalalk | 4,238
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,458 (100.0%) of 26,458 articles have been extended.
+26,460 (100.0%) of 26,460 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-27 (Monday)
+
+### The final decision on the death of the French Ambassador in Sri Lanka is the final decision today
+
+*2024-05-27 07:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197049) · `si`
+
+A final decision on the death of the French Ambassador to Sri Lanka, Jean Francois Pactet, who passed away in an accident, will be made today. The ambassador, known for his diplomatic career including roles in the French External Affairs Ministry and the Ministries of Culture and Education, was serving in Sri Lanka and the Maldives since October 2022.
+
+🟩
+
+The French Embassy said that no final decision on the death of the French Ambassador of Sri Lanka has been taken up to date.
+
+Accordingly, the final decision will be taken today on the day today (27) will take a final decision on whether his funeral will be taken to France.
+
+Sri Lanka French Ambassador JEAN FRANCOIS PACTET The Welikada Police officials were recovered from Welikada police officers yesterday afternoon.
+
+He had died due to an accident.
+
+Born in the 1970s, Mr. Jean Francois Packet had served as French Ambassador in Sri Lanka and Maldives from October 2022.
+
+He is a professional diplomat and he has held positions such as the Ministry of Culture and Education, the French External Affairs Ministry.
+
+◼️
+
+[Data](articles/73fd0ad1.json)
+
+[Extended Data](ext_articles/73fd0ad1.ext.json)
+
+---
 
 ### Price of ginger reaches Rs. 5,000 per kilo today
 
@@ -145,6 +173,28 @@ From time to time in the rest of the island.. It is also reported that there are
 [Data](articles/67877848.json)
 
 [Extended Data](ext_articles/67877848.ext.json)
+
+---
+
+### Israel attack on tents where displaced people stayed in Rabba - more than 35 killed
+
+*2024-05-27 06:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/184566) · `ta`
+
+In Rabba, over 35 displaced individuals were killed in an Israeli airstrike on their tents. The Israeli military confirmed the attack, stating it was aimed at Hamas weapon storage.
+
+🟩
+
+More than 35 people have been killed in an Israeli attack on tents where the displaced people stayed in Rabba.
+
+According to medical sources, Gaza said that in other areas, including the city of Israel, many other attacks have been carried out in the last 24 hours and many may have been killed.
+
+The Israeli military has confirmed the attack and said that Hamas has targeted the use of weapons of accurately attacking members.
+
+◼️
+
+[Data](articles/d6a0d906.json)
+
+[Extended Data](ext_articles/d6a0d906.ext.json)
 
 ---
 
@@ -2093,45 +2143,5 @@ Hamas militants have said that they had launched the attacks from Ruffa area.
 [Data](articles/b5d39e3d.json)
 
 [Extended Data](ext_articles/b5d39e3d.ext.json)
-
----
-
-### Gazette on providing property information of citizens is not imposition of new laws
-
-*2024-05-26 17:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Gazette-on-providing-property-information-of-citizens-is-not-imposition-of-new-laws/108-283367) · `en`
-
-Colombo, May 26 (Daily Mirror) - Although the President issued a gazette requiring citizens of Sri Lanka to provide details of their movable and immovable properties to the Inland Revenue Department (IRD) starting from July 1, this is not an imposition of new laws. It is simply an exercise of the existing right to collect such information, Finance State Minister Ranjith Siyambalapitiya said.
-
-Addressing the media he said that these rules will never be implemented to affect the past.
-
-He said this circular is a re-implementation of a law that was inactive, and accordingly, the announcement of the implementation of the gazette notification issued on March 21 was made by the IRD Commissioner on May 21.
-
-Accordingly, with effect from July 1, the institutions such as the Land Registry Department, Company Registry Department, Stock Market, Bank and Non-Bank Financial Institutions and Motor Transport Department must report the information about their day-to-day transactions to the IRD.
-
-...
-
-[Data](articles/c45b13a6.json)
-
-[Extended Data](ext_articles/c45b13a6.ext.json)
-
----
-
-### Gazette issued on providing details of persons, institutions movable, immovable properties to IRD
-
-*2024-05-26 17:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Gazette-issued-on-providing-details-of-persons-institutions-movable-immovable-properties-to-IRD/108-283366) · `en`
-
-Colombo, May 26 (Daily Mirror) - The Government has issued the Gazette Notice (2376/25) related to providing details of movable and immovable property of individuals and institutions to the Inland Revenue Department (IRD).
-
-Accordingly, it is notified that the above information should be provided to the Inland Revenue Department from the first of July.
-
-The gazette notification was issued on May 21 by the President in his capacity as the Minister of Finance, Economic Stabilization and National Policies.
-
-According to the gazette notification, information on all movable and immovable properties of persons, including government institutions, must be provided as prescribed.
-
-...
-
-[Data](articles/76892eb1.json)
-
-[Extended Data](ext_articles/76892eb1.ext.json)
 
 ---

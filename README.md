@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-28 00:05:09**
+As of **2024-05-28 00:18:40**
 
 ## Newspaper Stats
 
-*Scraped **26,646** Articles*
+*Scraped **26,652** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 1,550
 adalk | 2,270
 adaderanalk | 3,054
 tamilmirrorlk | 3,125
-virakesarilk | 4,070
+virakesarilk | 4,076
 dailymirrorlk | 4,206
 adaderanasinhalalk | 4,273
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,273
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,646 (100.0%) of 26,646 articles have been extended.
+26,646 (100.0%) of 26,652 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -91,6 +91,20 @@ If it exceeds 8 meters, the Irrigation Department states that it is a massive fl
 [Data](articles/5224af50.json)
 
 [Extended Data](ext_articles/5224af50.ext.json)
+
+---
+
+### முன்னாள் ஜனாதிபதி மகிந்த ராஜபக்ஷவை இந்திய உயர்ஸ்தானிகர் சந்தித்தார்
+
+*2024-05-27 22:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/184648) · `ta`
+
+இந்திய உயர்ஸ்தானிகர் சந்தோஷ் ஜா முன்னாள் ஜனாதிபதி மகிந்த ராஜபக்ஷவை சந்தித்துக் கலந்துரையாடியுள்ளார்.
+
+இந்த சந்திப்பானது விஜேராம மாவத்தையில் உள்ள மகிந்த ராஜபக்ஷவின் உத்தியோகபூர்வ இல்லத்தில் இடம்பெற்றுள்ளது.
+
+◼️
+
+[Data](articles/771a46b9.json)
 
 ---
 
@@ -314,6 +328,56 @@ Popular actor Somi Ratnayake was felicitated today at the Sudarshi - Institute o
 
 ---
 
+### உலகப் புகழ்பெற்ற வர்த்தக முதலீடுகளை ஈர்ப்பது நாட்டின் பொருளாதார வளர்ச்சிக்கு பெரிதும் உதவும் - ருவன் விஜேவர்தன
+
+*2024-05-27 20:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/184647) · `ta`
+
+டெஸ்லா மற்றும் ஸ்பேஸ் எக்ஸ் நிறுவனத்தின் தலைவர் எலோன் மஸ்க் (Elon Musk) போன்ற உலகப் புகழ்பெற்ற வர்த்தகர்களின் முதலீடுகளை ஈர்க்க முடிந்தால், அது நாட்டின் பொருளாதார வளர்ச்சிக்கு பெரும் பங்களிப்பாக அமையும் என காலநிலை மாற்றம் தொடர்பான ஜனாதிபதியின் சிரேஷ்ட ஆலோசகர் ருவன் விஜேவர்தன தெரிவித்தார்.
+
+"Starlink" போன்ற திட்டத்தில் இணைவதன் மூலம் நாட்டின் பின்னடைந்த பிரதேசங்களுக்கு இணைய வசதிகளை பிரச்சினையின்றி வழங்க முடியும் எனவும் சுற்றுலாத்துறை உட்பட பொருளாதாரத்திற்கு பயன்படும் பல துறைகளின் வளர்ச்சிக்கு இது உறுதுணையாக இருக்கும் எனவும் அவர் சுட்டிக்காட்டினார்.
+
+ஜனாதிபதி ஊடக மையத்தில் 27 ஆம் திகதி திங்கட்கிழமை நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே காலநிலை மாற்றம் தொடர்பான ஜனாதிபதியின் சிரேஷ்ட ஆலோசகர் ருவன் விஜயவர்தன இதனைத் தெரிவித்தார்.
+
+...
+
+[Data](articles/028845f9.json)
+
+---
+
+### தோட்டத் தொழிலாளர்களின் தன்னிச்சையான சம்பள உயர்வுக்கு முதலாளிமார் சம்மேளனம் கடும் எதிர்ப்பு
+
+*2024-05-27 20:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/184645) · `ta`
+
+தேயிலை மற்றும் ரப்பர் துறையில் உள்ளயில் தொழில்புரியும் தோட்டத் தொழிலாளர்களின் குறைந்தபட்ச சம்பளத்தை முன்னெப்போதும் இல்லாத வகையில் 70% உயர்த்துவதற்கான அரசாங்கத்தின் தீர்மானத்திற்கு முதலாளிமார் சம்மேளனம் எதிர்ப்புத் தெரிவித்துள்ளது
+
+புதிய சம்பள உயர்வால் பெருந்தோட்டத் துறையில் ஏற்பட்டுள்ள பாதகமான பாதிப்புகளுக்கு எதிராக அனைத்து பங்குதாரர்களாலும் கூட்டறிக்கை ஒன்று வெளியிடப்பட்டது. இந்தத் தீர்மானமானது பெருந்தோட்டத் துறையை நலிவடையச் செய்து இறுதியில் நாட்டில் கடுமையான பொருளாதார ஸ்திரமின்மைக்கு வழிவகுக்கும் என முதலாளிமார் சம்மேளனம் சுட்டிக்காட்டியுள்ளது.
+
+...
+
+[Data](articles/66a8a350.json)
+
+---
+
+### பங்களாதேஷைவிட வெற்றிபெற வேண்டும் என்ற வேட்கை ஐக்கிய அமெரிக்காவுக்கு இருந்தது - பயிற்றுநர் ஸ்டுவர்ட் லோ
+
+*2024-05-27 19:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/184646) · `ta`
+
+டெக்சாஸில் நடைபெற்ற 3 போட்டிகள் கொண்ட சர்வதேச ரி20 கிரிக்கெட் தொடரை வெல்ல வேண்டும் என்ற வேட்iகை பங்களாதேஷைவிட அமெரிக்க அணிக்கு  இருந்ததாக அணியின் தலைமைப் பயிற்றுநர் ஸ்டுவர்ட் லோ தெரிவித்துள்ளார்.
+
+முதல் தடவையாக ஐசிசி முழு உறுப்பு நாடொன்றின் அணிக்கு எதிராக இருதரப்பு சர்வதேச ரி20 தொடரில் விளையாடிய ஐக்கிய அமெரிக்கா, முதல் இரண்டு போட்டிகளில் பங்களாதேஷை வெற்றிகொண்டு தொடரை கைப்பற்றியது.
+
+முதல் இரண்டு போட்டிகளில் ஐக்கிய அமெரிக்கா முறையே 5 விக்கெட்களாலும் 6 ஓட்டங்களாலும் வெற்றிபெற்றிருந்தது.
+
+எனினும் தொடரை 2 - 1 ஆட்டக் கணக்கில் ஐக்கிய அமெரிக்கா தனதாக்கிக்கொண்டது.
+
+கடைசிப் போட்டிக்குப் பின்னர் கருத்து வெளியிட்டு ஸ்டுவர்ட் லோ, 'முதல் இரண்டு போட்டிகளில் எங்களுக்கு அதிக வைராக்கியமும் ஆர்வமும் இருந்தது. எதிரணியை விட நாங்கள் சற்று அதிகமாக திறமையை வெளிப்படுத்த விரும்பினோம். ஆனால், கடைசிப்  போட்டி   எங்களுக்கு பாதகமாக அமைந்துவிட்டது. நாங்கள் ஆசுவாசமாக விளையாடினோம் போலும். பங்களாதேஷ்  திறமையாக விளையாடியதுடன் இந்த உற்சாகத்துடன் உலகக் கிண்ணத்தை எதிர்கொள்ளும்' என்றார்.
+
+...
+
+[Data](articles/6c3ebbc1.json)
+
+---
+
 ### Darshana cruise to 400m final in China
 
 *2024-05-27 19:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Darshana-cruise-to-400m-final-in-China/108-283455) · `en`
@@ -399,6 +463,26 @@ In addition, the water levels of Gin and Nilwala Runwala are also increasing.
 [Data](articles/fc161615.json)
 
 [Extended Data](ext_articles/fc161615.ext.json)
+
+---
+
+### கனடாவுக்கு பயணமாகவிருந்த நிலையில் மோட்டார் சைக்கிள் விபத்தில் இளைஞர் சம்பவிடத்தில் பலி : மட்டுவில்  பகுதியில் துயரம்!
+
+*2024-05-27 18:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/184644) · `ta`
+
+அதிவேகமாக மோட்டார் சைக்கிளை செலுத்திச் சென்ற இளைஞர் மதிலுடன் மோதிய விபத்தில் சம்பவிடத்தில் உயிரிழந்துள்ளார்.
+
+இச் சம்பவம் 26 ஆம் திகதி ஞாயிற்றுக்கிழமை இரவு 8:00 மணியளவில்  சாவகச்சேரி, புத்தூர் விதியில் இடம் பெற்றுள்ளது.
+
+சம்பவத்தில் சாவகச்சேரி, மட்டுவில் பகுதியை சேர்ந்தபி பனுஜன் (வயது 22) என்ற இளைஞரே உயிரிழந்தவர் ஆவார்.
+
+குறித்த இளைஞர் 28 ஆம் திகதி செவ்வாய்க்கிழமை கனடாவுக்கு பயணமாகவிருந்த நிலையில் இத் துயரச்சம்பவம் இடம்பெற்றுள்ளது
+
+சடலம் சாவகச்சேரி வைத்தியசாலையில் வைக்கப்பட்டுள்ளது மேலதிக விசாரணைகளை சாவகச்சேரி பொலிஸார் மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/35b85bee.json)
 
 ---
 
@@ -518,6 +602,22 @@ Meanwhile, so far a total of 07 deaths have been reported due to fallen trees ca
 
 ---
 
+### தோட்டங்களை ஒப்படைத்து செல்லுமாறு அரசாங்கத்தால் ஆணையிட முடியாது நாட் சம்பளமாக 1380 ரூபாவை மாத்திரமே எம்மால் வழங்க முடியும் - பெருந்தோட்ட முதலாளிமார் சம்மேளனம்
+
+*2024-05-27 18:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/184642) · `ta`
+
+பெருந்தோட்டந் தொழிலாளர்களுக்கு 1700 ரூபா நாளாந்த சம்பளத்தை வழங்க முடியாவிட்டால், தோட்டங்களை ஒப்படைத்து செல்லுமாறு அரசாங்கத்தால் ஆணையிட முடியாது. அவ்வாறானதொரு நடவடிக்கை எடுக்கப்பட்டால் அதற்கெதிராக தாமும் சட்ட நடவடிக்கை எடுக்க தயார் என பெருந்தோட்ட முதலாளிமார் சம்மேளனம் தெரிவித்தது.
+
+அடிப்படை சம்பளத்தில் 200 ரூபா அதிகரிப்புடன், நாட் சம்பளமாக 1380 ரூபாவை மாத்திரமே எம்மால் வழங்க முடியும். இது தொடர்பான முன்மொழிவை நாம் சமர்ப்பித்த போதிலும், அரசாங்கம் அதனை நிராகரித்துள்ளது. இவ்வாறான முட்டாள் தனமான தீர்மானங்களால் எதிர்காலத்தில் 'சிலோன் டி' என்ற நாம் முற்றாக அழிந்து போகக் கூடிய அபாயம் காணப்படுவதாகவும் முதலாளிமார் சம்மேளனம் எச்சரிக்கை விடுத்தது.
+
+பெருந்தோட்டந் தொழிலாளர்களுக்கான சம்பள அதிகரிப்பு தொடர்பில் தெளிவுபடுத்தும் வகையில் நேற்று திங்கட்கிழமை கொழும்பு, ரேணுகா சிட்டி ஹோட்டலில் ஏற்பாடு செய்யப்பட்டிருந்த விசேட ஊடகவியலாளர் மாநாட்டிலேயே முதலாளிமார் சம்மேளனத்தின் பிரதிநிதிகள் இதனைத் தெரிவித்தனர்.
+
+...
+
+[Data](articles/a16394e4.json)
+
+---
+
 ### President’s Fund deadline extended for 2024/2025 ICT scholarship applications
 
 *2024-05-27 18:27:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Presidents-Fund-deadline-extended-for-20242025-ICT-scholarship-applications/108-283454) · `en`
@@ -601,6 +701,68 @@ The High Commissioner has later distributed school bags among children while vis
 [Data](articles/4737fe28.json)
 
 [Extended Data](ext_articles/4737fe28.ext.json)
+
+---
+
+### Many government departments, along with many government departments, are also trying to change our existence with the influential people - Professor Padmanathan
+
+*2024-05-27 18:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/184634) · `ta`
+
+Professor Padmanathan criticizes government departments for attempting to alter societal norms, referencing historical injustices and the struggle for self-determination among Tamil communities. He highlights the importance of preserving cultural heritage and advocating for rights through education and awareness.
+
+🟩
+
+Professor Pathmanathan has said that we are trying to change our existence with many government departments, along with many government departments, in the Navanji style, and they are trying to change our existence.. Said
+
+He said this in a speech delivered by Professor Padmanathan's vision of a disappeared civilization - Adirata Jaffna Jaffna.
+
+Others can be obtained by sovereignty power and self -determination.. He has mentioned
+
+In the first century for Christ, the linguistic language and the non -existent territory of the production of Tamil nationalism.
+
+After independence in the 19th century, Sinhala leaders educated, from the State Council, from a mature family, Tamils should be a nationality regime in the country.
+
+When our representatives appealed to the President about a thousand acres of land to a Buddhist Vikramadi, he told the head of the department. I do not need to study this history.
+
+They have been doing many things in violation of the Indian Sri Lanka Accord.
+
+...
+
+[Data](articles/9882602f.json)
+
+[Extended Data](ext_articles/9882602f.ext.json)
+
+---
+
+### A clear answer to the politics of South Sri Lanka, which is questioned by our existence
+
+*2024-05-27 18:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/184618) · `ta`
+
+Professor Padmanathan challenges South Sri Lanka's politics denying Tamil existence, highlighting the ancient Nagas' contributions, including their language, culture, and practices like vegetarianism. He emphasizes the Nagas' widespread presence in Jaffna, their advanced agricultural techniques, and their use of metal and sea resources. This book aims to correct historical inaccuracies and support Tamil rights.
+
+🟩
+
+Professor Pathmanathan, in a manner that provides a strong response to the politics of South Sri Lanka, which deny the myth of Tamil in Sri Lanka, which deny the existence of the Tamil people;  Professor A Serveeswaran of the University of Colombo, A.
+
+He was speaking at the publication of a vision of a disappeared civilization at the Tamil Sangam in Colombo.
+
+He said that the founders of the Nagas spoke in the Tamil language today that the founders of Jaffna today have confirmed the vision of a disappeared civilization - the Adi -era Jaffna book.
+
+This book testifies the antiquity of vegetarianism in Sri Lanka.
+
+We know that this book is about the Nagadars, the North is called Nagadivu Naganadu.
+
+The Nagas did not identify themselves as Tamils but they spoke the Tamil language.
+
+The vision of Professor Padmanathan's united civilization talks about the Nagas living in the Northeast, especially Jaffna.
+
+There are many sources for their lives in Vadamarachchi.
+
+...
+
+[Data](articles/86e4dd3d.json)
+
+[Extended Data](ext_articles/86e4dd3d.ext.json)
 
 ---
 
@@ -779,36 +941,6 @@ The largest private sector insurance company in Sri Lanka, the company offers in
 [Data](articles/5631f185.json)
 
 [Extended Data](ext_articles/5631f185.ext.json)
-
----
-
-### Many government departments, along with many government departments, are also trying to change our existence with the influential people - Professor Padmanathan
-
-*2024-05-27 17:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/184634) · `ta`
-
-Professor Padmanathan criticizes government departments for attempting to alter societal norms, referencing historical injustices and the struggle for self-determination among Tamil communities. He highlights the importance of preserving cultural heritage and advocating for rights through education and awareness.
-
-🟩
-
-Professor Pathmanathan has said that we are trying to change our existence with many government departments, along with many government departments, in the Navanji style, and they are trying to change our existence.. Said
-
-He said this in a speech delivered by Professor Padmanathan's vision of a disappeared civilization - Adirata Jaffna Jaffna.
-
-Others can be obtained by sovereignty power and self -determination.. He has mentioned
-
-In the first century for Christ, the linguistic language and the non -existent territory of the production of Tamil nationalism.
-
-After independence in the 19th century, Sinhala leaders educated, from the State Council, from a mature family, Tamils should be a nationality regime in the country.
-
-When our representatives appealed to the President about a thousand acres of land to a Buddhist Vikramadi, he told the head of the department. I do not need to study this history.
-
-They have been doing many things in violation of the Indian Sri Lanka Accord.
-
-...
-
-[Data](articles/9882602f.json)
-
-[Extended Data](ext_articles/9882602f.ext.json)
 
 ---
 
@@ -1197,38 +1329,6 @@ The program seeks to promote Sri Lankan crafts internationally and make a signif
 [Data](articles/1a6eece5.json)
 
 [Extended Data](ext_articles/1a6eece5.ext.json)
-
----
-
-### A clear answer to the politics of South Sri Lanka, which is questioned by our existence
-
-*2024-05-27 16:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/184618) · `ta`
-
-Professor Padmanathan challenges South Sri Lanka's politics denying Tamil existence, highlighting the ancient Nagas' contributions, including their language, culture, and practices like vegetarianism. He emphasizes the Nagas' widespread presence in Jaffna, their advanced agricultural techniques, and their use of metal and sea resources. This book aims to correct historical inaccuracies and support Tamil rights.
-
-🟩
-
-Professor Pathmanathan, in a manner that provides a strong response to the politics of South Sri Lanka, which deny the myth of Tamil in Sri Lanka, which deny the existence of the Tamil people;  Professor A Serveeswaran of the University of Colombo, A.
-
-He was speaking at the publication of a vision of a disappeared civilization at the Tamil Sangam in Colombo.
-
-He said that the founders of the Nagas spoke in the Tamil language today that the founders of Jaffna today have confirmed the vision of a disappeared civilization - the Adi -era Jaffna book.
-
-This book testifies the antiquity of vegetarianism in Sri Lanka.
-
-We know that this book is about the Nagadars, the North is called Nagadivu Naganadu.
-
-The Nagas did not identify themselves as Tamils but they spoke the Tamil language.
-
-The vision of Professor Padmanathan's united civilization talks about the Nagas living in the Northeast, especially Jaffna.
-
-There are many sources for their lives in Vadamarachchi.
-
-...
-
-[Data](articles/86e4dd3d.json)
-
-[Extended Data](ext_articles/86e4dd3d.ext.json)
 
 ---
 
@@ -2215,133 +2315,5 @@ ITC, a new high end recently opened in Colombo and Cinnamon Life is expected to 
 [Data](articles/fe76ef22.json)
 
 [Extended Data](ext_articles/fe76ef22.ext.json)
-
----
-
-### Today in History: 1964 - Nehru's death and Prime Minister Sirima's Delhi
-
-*2024-05-27 13:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/184592) · `ta`
-
-On May 27, 1964, Indian Prime Minister Jawaharlal Nehru passed away, with world leaders like Queen Elizabeth offering condolences. His death led to Sri Lankan Prime Minister Sirimavo Bandaranaike traveling to Delhi for the funeral, as commemorated in the Weerakesari magazine on May 28, 1974.
-
-🟩
-
-Annar's death was broken at Nehru's residence in New Delhi at 2 pm on the same date (May 27).
-
-World leaders, including Queen Elizabeth of Britain, expressed their condolences to his death.
-
-Here is the first page of the Weerakesari magazine published on May 28, 1974, to commemorate the events of Sri Lanka's Prime Minister Sirimavo Bandaranaike's traveling to Delhi to attend Nehru's funeral.
-
-◼️
-
-[Data](articles/91c6d3c6.json)
-
-[Extended Data](ext_articles/91c6d3c6.ext.json)
-
----
-
-### Explanation for a teacher who abused a student in Jaffna
-
-*2024-05-27 13:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/184593) · `ta`
-
-A teacher in Jaffna faces charges for allegedly abusing a 10-year-old girl at a local school. Following a parent's complaint, the teacher was arrested and remanded by a court order. Further investigation reveals additional victims, highlighting a broader issue of abuse.
-
-🟩
-
-The teacher arrested for allegedly abusing a schoolgirl in Jaffna has been detained in a court order.
-
-A 10 -year -old schoolgirl has been abused at a school in the suburbs of Jaffna.
-
-The parents have lodged a complaint at the police station against the teacher after the victim's parents informed her parents.
-
-According to the complaint, the police have ordered the teacher to be remanded after the teacher was arrested and produced at the Mallakam Magistrate's Court.
-
-At the same time, police investigations have revealed that some more students have been abused by the teacher.
-
-◼️
-
-[Data](articles/cc276714.json)
-
-[Extended Data](ext_articles/cc276714.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-05-27 13:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/184594) · `ta`
-
-The current exchange rate is approximately 1 USD = 295.3789 INR.
-
-🟩
-
-The US $ 295.3789 is Rs.
-
-◼️
-
-[Data](articles/0f113138.json)
-
-[Extended Data](ext_articles/0f113138.ext.json)
-
----
-
-### Lower Kadugannawa road will be completely completely completely completely completely
-
-*2024-05-27 12:47:02* · [`adalk`](https://www.ada.lk/breaking_news/පහළ-කඩුගන්නාවේ-මාර්ගය-28දා-සම්පූර්ණයෙන්-වහන්නේ-නෑ/11-409843) · `si`
-
-Lower Kadugannawa road faces significant risks due to Cagalla disasters. The Colombo-Kandy main road will see stone removal efforts on the 28th to mitigate these risks. Anushka Chamila, Assistant Director of the Managed Center, warns of potential dangers to vehicles traveling through the area. Immediate actions are being taken to address these vulnerabilities and ensure safety for parked vehicles on the main road.
-
-🟩
-
-Cagalla disasters will be stopped in the Colombo Kandy main road to remove the stones on the 28th for the removal of the Colombo Kandy main road.Assistant Director of the Managed Center Anushka Chamila says
-
-In the lower Kadugannawa mountain range, there are several routes, which are in danger of risk and destroy the stones in the Colombo Kandy main road.He said about stops around about vehicles.
-
-According to Mahara, the operation of the immediate removal of these vulnerabilities has been established and will be initiated to parked vehicles traveling along the main road.
-
-◼️
-
-[Data](articles/e2cbbc58.json)
-
-[Extended Data](ext_articles/e2cbbc58.ext.json)
-
----
-
-### Opposition claims Sri Lanka ruling party wants early parliamentary polls to prevent wipe-out
-
-*2024-05-27 12:46:00* · [`economynextcom`](https://economynext.com/opposition-claims-sri-lanka-ruling-party-wants-early-parliamentary-polls-to-prevent-wipe-out-164916/) · `en`
-
-ECONOMYNEXT — The ruling Sri Lanka Podujana Peramuan (SLPP) wants parliamentary elections first to prevent a wipe-out, main opposition Samagi Jana Balawegaya (SJB) MP Mujibur Rahuman said.
-
-The MP claimed that the SLPP has strategically considered the possibility that President Ranil Wickremesinghe will not win the presidential election scheduled for this year, which is why they are in a hurry to hold the parliamentary polls before.
-
-“But if it’s held after the presidential election, they will be wiped out. They have understood this politically. That’s why they want the parliamentary elections first, so they can get at least 25 seats,” Rahuman said speaking to reporters.
-
-However, government spokesmen continue to be emphatic that a presidential election will be held first. Wickremesinghe himself had said on several occasions, as recently as this week, that parliamentary elections will be held after.
-
-...
-
-[Data](articles/3194e62e.json)
-
-[Extended Data](ext_articles/3194e62e.ext.json)
-
----
-
-### Opposition claims Sri Lanka ruling party wants early parliamentary polls to prevent wipe-out
-
-*2024-05-27 12:46:00* · [`economynextcom`](https://economynext.com/sri-lanka-ruling-party-wants-early-parliamentary-polls-to-secure-25-seats-opposition-164916/) · `en`
-
-ECONOMYNEXT — The ruling Sri Lanka Podujana Peramuan (SLPP) wants parliamentary elections first to prevent a wipe-out, main opposition Samagi Jana Balawegaya (SJB) MP Mujibur Rahuman said.
-
-The MP claimed that the SLPP has strategically considered the possibility that President Ranil Wickremesinghe will not win the presidential election scheduled for this year, which is why they are in a hurry to hold the parliamentary polls before.
-
-“But if it’s held after the presidential election, they will be wiped out. They have understood this politically. That’s why they want the parliamentary elections first, so they can get at least 25 seats,” Rahuman said speaking to reporters.
-
-However, government spokesmen continue to be emphatic that a presidential election will be held first. Wickremesinghe himself had said on several occasions, as recently as this week, that parliamentary elections will be held after.
-
-...
-
-[Data](articles/bd523f7c.json)
-
-[Extended Data](ext_articles/bd523f7c.ext.json)
 
 ---

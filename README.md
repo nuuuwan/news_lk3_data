@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-27 21:34:06**
+As of **2024-05-27 21:53:10**
 
 ## Newspaper Stats
 
-*Scraped **26,634** Articles*
+*Scraped **26,635** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 2,269
 adaderanalk | 3,051
 tamilmirrorlk | 3,123
 virakesarilk | 4,070
-dailymirrorlk | 4,202
+dailymirrorlk | 4,203
 adaderanasinhalalk | 4,271
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,634 (100.0%) of 26,634 articles have been extended.
+26,634 (100.0%) of 26,635 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -83,6 +83,18 @@ The Puttalam Divisional Secretariat engaged in protest against the MP threatenin
 [Data](articles/29b118ec.json)
 
 [Extended Data](ext_articles/29b118ec.ext.json)
+
+---
+
+### Actor Somi Ratnayake felicitated
+
+*2024-05-27 20:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Actor-Somi-Ratnayake-felicitated/110-283456) · `en`
+
+Popular actor Somi Ratnayake was felicitated today at the Sudarshi - Institute of Sinhala Culture (Cinama Anu Mandalaya), Colombo. Several movies produced by Somi Ratnayake were screened during the ceremony. He is a versatile Sri Lankan cinema, stage drama and television actor, with a career spanning more than four decades. Rathnayake is a multi-talented person who is also a script writer and film producer. Pix by Nimalsiri Edirisinghe
+
+◼️
+
+[Data](articles/55508a49.json)
 
 ---
 
@@ -2343,25 +2355,5 @@ The Mawbima Janatha Party (MJP), the Democratic Left Front, the Communist Party 
 [Data](articles/eeed1767.json)
 
 [Extended Data](ext_articles/eeed1767.ext.json)
-
----
-
-### Wimal, Udaya, Channa Jayasumana form new political movement
-
-*2024-05-27 12:18:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Wimal-Udaya-Channa-Jayasumana-form-new-political-movement/108-283436) · `en`
-
-Colombo, May 27 (Daily Mirror) - Several political parties including the National Freedom Front (NFF) led by MP Wimal Weerawansa, Pivithuru Hela Urumaya (PHU) led by MP Udaya Gammanpila and several civil organisations formed a new political movement named ‘Sarvajana Balaya’ this morning.
-
-They signed the agreement to form the movement at a ceremony held in Colombo last morning.
-
-The Mawbima Janatha Party (MJP), the Democratic Left Front, the Communist Party and the Independent MP’s Forum led by MP Channa Jayasumana are among the other political groups which signed the agreement.
-
-General Secretary of the Communist Party G. Weerasinghe, Chairman of Yuthukama organisation, Gevindu Kumaratunga, Deputy General Secretary of the Democratic Left Front and Mawbima Janatha Party (MJP) leader Dilith Jayaweera were other signatories.
-
-◼️
-
-[Data](articles/f0d33325.json)
-
-[Extended Data](ext_articles/f0d33325.ext.json)
 
 ---

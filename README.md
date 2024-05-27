@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-27 14:05:09**
+As of **2024-05-27 14:18:40**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,253
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,539 (100.0%) of 26,541 articles have been extended.
+26,541 (100.0%) of 26,541 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -36,25 +36,33 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2024-05-27 13:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197065) · `si`
 
-මාතර නව දිස්ත්‍රික් මහ රෝහලේ දී මියගිය බව කියන බිලිඳාගේ දේහය බවට රෝහල් කාර්යමණ්ඩලය තමන්ට පෙන්වූ මළසිරුර සිය දරුවාගේ නොවන බවට බිලිඳාගේ මව්පියන් චෝදනා කරයි.
+In Matara Hospital, there's confusion over the death of a newborn. The parents were informed their baby had died upon admission but later questioned the hospital's handling of the remains. This led to conflicting statements from hospital staff, causing significant distress among the family. A DNA test is now suggested to clarify the situation, despite initial approval from health authorities, facing opposition from the hospital director.
+
+🟩
+
+The bodies of the bodies that the body has been shown not to death at the new District Secretaries of Matara.
 
 ඒ අනුව, බිලිඳාගේ සිරුර පිළිබඳ ඇතිවූ සැකය මත DNA පරීක්ෂණයක් සිදුකළ යුතු බවට මව්පියන් රෝහල් බලධාරීන්ට දන්වා ඇත.
 
 පසුව ඊට සෞඛ්‍ය සේවා අධ්‍යක්ෂ ජනරාල්වරයාගේ අනුමැතිය ලැබුණ ද රෝහලේ අධ්‍යක්ෂවරයා ඊට විරෝධය පළ කර තිබේ.
 
-මාතර වැලිගම පදිංචි 24 හැවිරිදි කාවින්ද්‍යා මදුෂානි පසුගිය 22 වනදා මාතර නව දිස්ත්‍රික් මහ රෝහලට ඇතුළත් වුණේ සිය කුළු﻿ඳුල් දරු ප්‍රසූතිය සඳහාය.
+The 24-year-old resident of Weligama, Matara was admitted to the New District General Hospital on the 22nd last district.
 
-මදුෂානි රෝහල්ගත කළදාම ඇය දරුවා ප්‍රසූත කළත්, බිලිඳා මියගොස් ඇති බව රෝහල් බලධාරීන් ඇයට දැනුම්දී තිබුණි.
+Although Madushani was hospitalized, the hospital officials had told her that she had deceased and the baby had died.
 
-බිලිඳාගේ දේහය පියාට හෝ නොපෙන්වා මිහිදන් කිරීම ගැන ඥාතීන් රෝහල් කාර්යමණ්ඩලයෙන් ප්‍රශ්න කළ විට ඔවුන් පවසා තිබුණේ දේහය කොළඹ ජාතික රෝහලට රැගෙන ගිය බවය.
+When the child was questioned by the hospital staff, the relatives questioned the babing of the baby or the burial not to show.
 
 මේ සම්බන්ධයෙන් රෝහලේ කාර්යමණ්ඩලය පරස්පර විරෝධී ප්‍රකාශ සිදුකිරීම සම්බන්ධයෙන් ඥාතීන්ට ඇත්තේ බලවත් සැකයකි.
 
-මෘත ශරීරාගාරයේ තිබී බිලිඳෙකුගේ මෘත දේහයක් රෝහල් කාර්යමණ්ඩලය මව්පියන්ට ඊයේ (27) පස්වරුවේ පෙන්වා ඇති නමුත් ඔවුන් පවසන්නේ ඒ තම දරුවා නොවන බවය.
+A babe of a babe was shown in the morgue yesterday (27th) after yesterday, they say that it is not their child.
 
-...
+"මම තාම මගේ දරුවගේ මුහුණවත් දැක්කේ නැහැ. මේ අය අපිව එහෙට මෙහෙට යවනවා. Please,. Do it justice to us "
+
+◼️
 
 [Data](articles/d91a3577.json)
+
+[Extended Data](ext_articles/d91a3577.ext.json)
 
 ---
 
@@ -112,7 +120,11 @@ Midigama Police partner in collaboration with several police candidates and the 
 
 *2024-05-27 13:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197064) · `si`
 
-කටාර් රාජ්‍යයේ දෝහා සිට අයර්ලන්තයේ ඩබ්ලින් බලා පියාසර කරමින් පැවති කටාර් එයාර්වේස් සමාගමට අයත් ගුවන්යානයක් උඩුගුවනේ දී වායු කැලඹීමකට හසුවීමෙන් මගීන් 12 දෙනෙක් තුවාල ලබා තිබේ.
+A Qatar Airways flight from Doha to Ireland encountered turbulence, injuring six passengers and crew members. This incident follows another last week involving a Singapore Airlines plane from London to Singapore, where passenger death occurred due to similar turbulence.
+
+🟩
+
+Qatar Airways has been injured when Qatar Airways, which was flying in Ireland from Doha, who flying in Ireland.
 
 යානය නිරුපද්‍රිතව ගොඩබැස්වීමට එහි නියමුවන් සමත්ව තිබූ අතර තුවාල ලබා තිබුණේ මගීන් හය දෙනෙක් සහ කාර්යමණ්ඩල සාමාජිකයින් හය දෙනෙකි.
 
@@ -121,6 +133,8 @@ Midigama Police partner in collaboration with several police candidates and the 
 ◼️
 
 [Data](articles/e05e4d4b.json)
+
+[Extended Data](ext_articles/e05e4d4b.ext.json)
 
 ---
 

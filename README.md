@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-27 21:18:39**
+As of **2024-05-27 21:34:06**
 
 ## Newspaper Stats
 
@@ -26,33 +26,41 @@ adaderanasinhalalk | 4,271
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,633 (100.0%) of 26,634 articles have been extended.
+26,634 (100.0%) of 26,634 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-27 (Monday)
 
-### මාතර බිලිඳාගේ සිද්ධිය සම්බන්ධයෙන් අධිකරණයෙන් නියෝගයක්
+### Court orders Court regarding the incident of the Matara bowl
 
 *2024-05-27 21:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197083) · `si`
 
-මාතර නව දිස්ත්‍රික් මහ රෝහලේදී මියගිය බව කියන බිලිඳාගේ අනන්‍යතාව තහවුරු කරගැනීම සඳහා DNA පරීක්ෂණයක් සිදුකරන ලෙසට මාතර ප්‍රධාන මහේස්ත්‍රාත් අරුණ බුද්ධදාස මහතා අද නියෝග කළේය.
+A court has ordered a DNA test after a baby died in a Sri Lankan hospital, despite the director's opposition. The chief magistrate visited the hospital and ordered a death investigation. A 24-year-old woman gave birth there, but was told her baby died due to a "bailout." The hospital did not inform the parents initially.
 
-ඒ සිය බිලිදා සම්බන්ධයෙන් DNA පරීක්ෂණයක් එම මව්පියන් ඉල්ලා සිටි අවස්ථාවේ රෝහල් අධ්‍යක්ෂවරයා ඊට විරුද්ධවූ බව කියන පසුබිමකය.
+🟩
 
-මාතර ප්‍රධාන මහේස්ත්‍රාත් අරුණ බුද්ධදාස මහතා රෝහල වෙත පැමිණ, රෝහල් බලධාරීන් මව්පියන්ට පෙන්වූ බව කියන බිළිඳු මළ සිරුර පිළිබඳ මහේස්ත්‍රාත් පරීක්ෂණය සිදුකිරීමෙන් අනතුරුව මෙම නියෝගය ලබාදී තිබේ.
+Matara Chief Magistrate Aruna Buddhadasa has ordered a DNA investigation to ensure that the baby was dead in the New District General Hospital.
 
-එහිදී මහේස්ත්‍රාත්වරයා වැඩිදුරටත් නියෝග කර ඇත්තේ සිරුර පිළිබඳ මරණ පරීක්ෂණයක් ද සිදුකරන ලෙසටය.
+It is the backdrop that the director of the hospital is against it when the parents were asked to an inquiry into his sailway.
 
-මාතර වැලිගම පදිංචි 24හැවිරිදි කාවින්ද්‍යා මදුෂානි පසුගිය 22වැනිදා මාතර නව දිස්ත්‍රික් මහ රෝහලට ඇතුළත් වුණේ සිය කුළු﻿ඳුල් දරු ප්‍රසූතිය සඳහාය.
+Matara Chief Magistrate Aruna Buddhadasa has come to the hospital and the infant's correspondence of the infant.
 
-මදුෂානි රෝහල් ගතකළ දා ම ඇය දරුවා ප්‍රසූත කළත්, බිලිඳා මියගොස් ඇති බව රෝහල් බලධාරීන් ඇයට දැනුම්දී තිබුණි.
+The Magistrate also ordered that a death investigation into the body.
 
-ඒ, මියගිය බව කියූ සිය බිලිඳාගේ මළ සිරුර රෝහල් බලධාරීන් මව්පියන්ට නොපෙන්වීම සහ මේ පිළිබඳ බලධාරීන් කළ බව කියන පරස්පර ප්‍රකාශ හේතුවෙනි.
+The 24-year-old resident of Weligama, Matara was admitted to the Matara New District General Hospital on the 22nd of the 22nd.
+
+The hospital authorities had informed her that she had given birth to her child, but she had deceased.
+
+That was because of his babies' body of the bailout that the dead was dead, hospital authorities were not showing their parents and the contrary.
+
+We have asked a child and a villai as a doctor who follows the usual procedure followed by a hospital in infant death.
 
 ...
 
 [Data](articles/bede56c6.json)
+
+[Extended Data](ext_articles/bede56c6.ext.json)
 
 ---
 

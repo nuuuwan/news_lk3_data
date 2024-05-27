@@ -1,36 +1,120 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-27 09:34:25**
+As of **2024-05-27 09:53:12**
 
 ## Newspaper Stats
 
-*Scraped **26,475** Articles*
+*Scraped **26,486** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 237
-dbsjeyarajcom | 262
+dbsjeyarajcom | 264
 bbccomsinhala | 265
 newsfirstlk | 363
 islandlk | 1,441
 economynextcom | 1,511
 dailyftlk | 1,550
-adalk | 2,247
+adalk | 2,250
 adaderanalk | 3,033
-tamilmirrorlk | 3,102
+tamilmirrorlk | 3,106
 virakesarilk | 4,040
-dailymirrorlk | 4,183
-adaderanasinhalalk | 4,241
+dailymirrorlk | 4,184
+adaderanasinhalalk | 4,242
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,475 (100.0%) of 26,475 articles have been extended.
+26,475 (100.0%) of 26,486 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-27 (Monday)
+
+### ඊශ්‍රායලයෙන් තවත් ප්‍රහාරයක්
+
+*2024-05-27 09:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197053) · `si`
+
+ගාසා තීරයේ රෆා ප්‍රදේශයේ සරණාගත කඳවුරකට එල්ල වූ ප්‍රහාරයකින් මේ වනවිට පුද්ගලයන් 35 දෙනෙකු මියගොස් සිය ගණනක් තුවාල ලබා ඇති බව විදසේ වාර්තා පවසයි.
+
+එම ප්‍රහාරයෙන් මියගිය අය අතර කාන්තාවන් සහ ළමුන් සිටින බවද පැවසෙයි.
+
+ඊශ්‍රායල ආරක්ෂක හමුදාව ප්‍රකාශ කර ඇත්තේ එම ප්‍රදේශයේ හමාස් ඉලක්කයක් වෙත මෙම ගුවන් ප්‍රහාරය එල්ල කළ බවය.
+
+නමුත් හමාස් සංවිධානය පවසන්නේ ඊශ්‍රායල හමුදාව විසින් එම ප්‍රහාරය එල්ල කර ඇත්තේ දකුණු ගාසා තීරයේ රෆා නගරයේ අවතැන් වූවන් සඳහා නම් කරන ලද ප්‍රදේශයකට බවය.
+
+කෙසේ වෙතත් ඊශ්‍රායල හමුදාව පවසා ඇත්තේ තම ගුවන් හමුදාව රෆාහි හමාස් සංවිධානයේ කඳවුරකට ප්‍රහාර එල්ල කළ බවත්, එම ප්‍රහාරය "නිවැරදි අවි සහ නිරවද්‍ය බුද්ධි තොරතුරු මත" සිදු කළ බවත්ය.
+
+ඊයේ (26) හමාස් සංවිධානය විසින් රෆා සිට ටෙල් අවීව් නගරය දෙසට රොකට් ප්‍රහාර අටක් එල්ල කර තිබුණි.
+
+එම ප්‍රහාරය ජනවාරි මාසයෙන් පසු එල්ල කළ පළමු දිගු දුර ප්‍රහාරය බවද සඳහන් වෙයි.
+
+◼️
+
+[Data](articles/545fd18d.json)
+
+---
+
+### වැස්ස හා සුළං තවදුරටත්
+
+*2024-05-27 09:23:17* · [`adalk`](https://www.ada.lk/breaking_news/වැස්ස-හා-සුළං-තවදුරටත්/11-409835) · `si`
+
+නිරිත දිග මෝසම් තත්වය හේතුවෙන් පවතින්‍ සුළං තත්ත්වය හා වැසි තත්ත්වය බලාහපොරොත්තු වන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+මේ අනුව බස්නාහිර, සබරගමුව,මධ්‍යම, වයඹ හා දකුණු පළාත්වල විටින් විට වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවන බව එම දෙපාර්තමේන්තුව  අද පෙරවරුවේ නිකුත් කළ නිවේදනයේ දැක්වෙයි.
+
+බස්හිනාර සහ සබරගමුව පළාත්වලත් නුවරඑළිය දිස්ත්‍රික්කයේත් ඇතැම් ස්ථානවලට මි.මී. 75 ක පම‍ණ තරමක තද වැසි ඇතිවිය හැකි යැයිද එම දෙපාර්තමේන්තුව පවසයි.
+
+ඌව හා නැගෙනහිර  පළාත්වල සවස් කාලයේ හෝ රාත්‍ර‍යේ කාලයේ තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇති්විමට ඉඩ පවතින බවද එම නිවේදනයේ දැක්වෙයි.
+
+මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවල හා උතුරු, උතුරු මැද, බස්නාහිර, දකුණු හා වයඹ පළාත්වලත් ත්‍රීකුණාමලය දිස්ත්‍රික්කයේත් විටින් විට හමන පැ.කි.මී. (50-60) ක පමණ තද සුළං ඇතිවිය
+
+හැැකි බවත් සෙසු ප්‍රදේශවල විටින් විට හමන පැ.කි.මී. (30-40) ක පමණ තරමක තද සුළං ඇතිවිය හැකි බවත් එම දෙපාර්තමේන්තුව වැඩිදුරටත් පවසයි.
+
+◼️
+
+[Data](articles/56fc1050.json)
+
+---
+
+### இம்மாதத்தில் 100,000ஐக் கடக்கவுள்ள சுற்றுலாப்பயணிகளின் வருகை
+
+*2024-05-27 09:22:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இம்மாதத்தில்-100-000ஐக்-கடக்கவுள்ள-சுற்றுலாப்பயணிகளின்-வருகை/175-337943) · `ta`
+
+இலங்கைக்கான சுற்றுலாப்பயணிகளின் வருகையானது 100,000ஐக் கடக்கும் என எதிர்பார்க்கப்படுகின்றபோதும், மே மாதத்தில் 120,934 தொடக்கம் 131,112 வரையான இலக்குக்கு பின்னே நிற்கிறது.
+
+இம்மாதத்தின் முதல் மூன்று வாரங்களில் அதாவது முதலாம் திகதி தொடக்கம் 21ஆம் திகதி வரையில் 79, 431 பேர் வருகை தந்துள்ளதாக இலங்கை சுற்றுலா அபிவிருத்தி அதிகாரசபையின் தரவுகள் வெளிப்படுத்துகின்றன. கடந்தாண்டு மே மாதத்தில் 83,309 பேர் வருகை தந்திருந்தனர்.
+
+ஏப்ரலிலிருந்து கோடை காலம் வரையில் நெருக்கடியற்ற காலமாகையால் சுற்றுலாப் பயணிகளின் வருகையானது குறைவாகவே இருக்கும். எவ்வாறெனினும் விசாப் பிரச்சினையும் இம்மாத வீழ்ச்சிக்கு காரணமாக இருக்கலாமென அதிகாரிகள் தெரிவித்துள்ளனர்.
+
+இந்தியாவிலிருந்தே அதிகபட்சமாக 26 சதவீதமானோர் வருகை தந்த நிலையில், இரண்டாமிடத்தில் மாலைதீவுகளிலிருந்து 11 சதவீதமானோர் வருகை தந்துள்ளனர்.
+
+◼️
+
+[Data](articles/5a5a5fd4.json)
+
+---
+
+### Accepting applications for Grade 5 exam begins today
+
+*2024-05-27 09:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Accepting-applications-for-Grade-5-exam-begins-today/108-283413) · `en`
+
+Colombo, May 27 (Daily Mirror) - Accepting applications for the Grade Five Scholarship Examination for 2024 commences today, Examinations Commissioner General H.J.M.C. Amith Jayasundara said.
+
+Accordingly, the Grade 5 Scholarship Examination will be held on September 15 (Sunday).
+
+Students in Grade 5 at government-approved schools will be eligible to sit for the examination.
+
+Students who are under eleven years as of January 31, 2025, will be eligible for the scholarships.
+
+To download the applications, candidates are requested to log on to the Examinations Department’s official website: https://onlineexams.gov.lk/eic
+
+◼️
+
+[Data](articles/fd8b7163.json)
+
+---
 
 ### Shooting incident reported in Weligama
 
@@ -43,6 +127,36 @@ A shooting has reportedly taken place, a short while ago, near the Batawala Path
 [Data](articles/99220c3a.json)
 
 [Extended Data](ext_articles/99220c3a.ext.json)
+
+---
+
+### මියන්මාරයේ හා රුසියාවේ යුද්ධයට මැදිව සිටින අපේ අය බේරා ගන්න විපක්ෂ මන්ත්‍රීවරු තිදෙනෙක් එතෙර යති
+
+*2024-05-27 09:01:22* · [`adalk`](https://www.ada.lk/breaking_news/මියන්මාරයේ-හා-රුසියාවේ-යුද්ධයට-මැදිව-සිටින-අපේ-අය-බේරා-ගන්න-විපක්ෂ-මන්ත්‍රීවරු-තිදෙනෙක්-එතෙර-යති/11-409833) · `si`
+
+මියන්මාරයේ පරිගණක අපරාධකරුවන් ගේ සයිබර් කදවුර තුළ බලහත්කාරයෙන් රදවා ගෙන සිටින ශ්‍රී ලාංකික තරුණ - තරුණියන් 49 දෙනා  සහ රුසියානු - යුක්‍රේන යුද්ධයට මැදි වී රුසියාවේ  සිටින  ශ්‍රී ලාංකික රණවිරුවන් බේරා ගෙන යළි ශ්‍රී ලංකාව වෙත රැගෙන ඒමේ රාජතාන්ත්‍රික මෙහෙයුමක් සදහා එම රටවල රාජතාන්ත්‍රික නිලධාරීන් සහ තෙවන පාර්ශවයන් සමග සාකච්ඡා කර වැඩපිළිවෙළක් සකස් කිරීම සදහා විපක්ෂයේ මන්ත්‍රීවරුන් තිදෙනකු 05/27 දින අලුයම දින 10 ක සංචාරයක් සදහා කටුනායක ගුවන් තොටුපොළෙන් මුළින්ම තායිලන්තය බලා පිටත්ව ගියහ .
+
+මෙම විපක්ෂ මන්ත්‍රී කණ්ඩායමට නීතීඥ වසන්ත යාපා බණ්ඩාර , ජේ.සී.අලවතුවල සහ සුජිත් සංජය පෙරේරා යන මන්ත්‍රීවරුන් ඇතුළත් වී සිටි අතර මොවුන් මියන්මාරයේ සහ රුසියාවේ දින 05 බැගින් ගත කරමින් මෙම බේරා ගැනීමේ මෙහෙයුම දියත් කිරීමට නියමිතය .
+
+මෙම විපක්ෂ මන්ත්‍රීවරුන් පිරිස ත්‍රයි නිකායික මහ නාහිමිවරුන්ගේ සහ විපක්ෂ නයකවරයාගේ ඉල්ලීම් රැගත් ලිපි රැගෙන මියන්මාරය සහ රුසියාව බලා පිටත්ව ගොස් තායිලන්තයේ , මියන්මාරයේ සංඝ නායක හිමිවරුන් සහ රුසියාවේ රාජතාන්ත්‍රික නිලධාරීන් හමු වී භාර දීමට නියමිතය .
+
+...
+
+[Data](articles/957d239f.json)
+
+---
+
+### பிரான்ஸ் தூதுவரின் திடீர் மரணம் குறித்து இறுதி முடிவு?
+
+*2024-05-27 08:49:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரான்ஸ்-தூதுவரின்-திடீர்-மரணம்-குறித்து-இறுதி-முடிவு/175-337942) · `ta`
+
+இலங்கைக்கான பிரான்ஸ் தூதுவரின் மரணம் தொடர்பில் அவரது இறுதிக் கிரியைகள் இந்நாட்டில் நடைபெறுமா? அல்லது அவரது உடல் பிரான்ஸுக்கு எடுத்துச் செல்லப்படுமா? என்பது குறித்து இன்று (27) இறுதித் தீர்மானம் எடுக்கப்படும் என பிரான்ஸ் தூதரகத் தகவல்கள் தெரிவிக்கின்றன.
+
+இலங்கைக்கான பிரான்ஸ் தூதுவர் Jean Francois Pactet  இராஜகிரியில் உள்ள அவரது உத்தியோகபூர்வ இல்லத்தில் உயிரிழந்த நிலையில், நேற்று பிற்பகல் வெலிக்கடை பொலிஸ் அதிகாரிகள் குழுவினால் சடலமாக மீட்கப்பட்டிருந்தார்.
+
+◼️
+
+[Data](articles/9f071851.json)
 
 ---
 
@@ -61,6 +175,20 @@ A shot of a shot of Patregama Model Primary School in Weligama, Matara.
 [Data](articles/f5f45b80.json)
 
 [Extended Data](ext_articles/f5f45b80.ext.json)
+
+---
+
+### A/L பெறுபேறுகள் வெளியாகும் காலம் அறிவிக்கப்பட்டது
+
+*2024-05-27 08:42:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/A-L-பெறுபேறுகள்-வெளியாகும்-காலம்-அறிவிக்கப்பட்டது/175-337940) · `ta`
+
+கல்விப் பொதுத் தராதர உயர்தரப் பரீட்சை பெறுபேறுகள் இந்த வாரம் வெளியாகும் என்று பரீட்சைகள் திணைக்களம் தெரிவித்துள்ளது.
+
+இன்று அல்லது நாளை பெறுபேறுகள் வெளியாகும் என்ற சமூக வலைத்தளங்களில்  வெளியிடப்படும் உறுதிப்படுத்தப்படாத தகவல்களை நம்ப வேண்டாம் எ பரீட்சைகள் திணைக்களம் தெரிவித்துள்ளது. R
+
+◼️
+
+[Data](articles/5af76ce3.json)
 
 ---
 
@@ -794,6 +922,22 @@ This is the lowest number of teams in the history of the IPL.
 
 ---
 
+### கொழும்பு - கண்டி வீதிக்கு நாளை பூட்டு
+
+*2024-05-27 01:36:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பு-கண்டி-வீதிக்கு-நாளை-பூட்டு/175-337938) · `ta`
+
+கொழும்பு – கண்டி பிரதான வீதியின், கீழ் கடுகண்ணாவை பகுதி நாளை மூடப்படவுள்ளதாக தேசிய கட்டட ஆராய்ச்சி நிறுவகம் தெரிவித்துள்ளது.
+
+அந்தப் பகுதியிலுள்ள ஆபத்தான கற்பாறைகள் அகற்றப்படவுள்ளதன் காரணமாக மேற்படி பகுதி மூடப்படவுள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
+
+இதன்படி, நாளை 2 மணித்தியாலங்களுக்கு அந்தப் பகுதி மூடப்படவுள்ளதாக தேசிய கட்டட ஆராய்ச்சி நிறுவகம் தெரிவித்துள்ளது. (a)
+
+◼️
+
+[Data](articles/1b0d5232.json)
+
+---
+
 ### 45,509 people are affected by random weather
 
 *2024-05-27 01:31:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சீரற்ற-காலநிலையால்-45-509-பேர்-பாதிப்பு/175-337937) · `ta`
@@ -1472,6 +1616,54 @@ Meanwhile, Sri Lanka finished with one Silver Medal and two Bronze Medals at the
 
 ---
 
+### සිහශක්ති සංගීත කණ්ඩායමේ නායක ආනන්ද පෙරේරා සමුගනියි
+
+*2024-05-26 21:09:43* · [`adalk`](https://www.ada.lk/breaking_news/සිහශක්ති-සංගීත-කණ්ඩායමේ-නායක-ආනන්ද-පෙරේරා-සමුගනියි/11-409832) · `si`
+
+මෙරට සංගීත ක්ෂේත්‍රයට ඉමහත්  සේවාවක් ඉටුකළ අති දක්ෂ සංගීතඥයෙකු වූ ආනන්ද පෙරේරා මහතා මහනුවර ජාතික රෝහලේ ප්‍රතිකාර ලබමින් සිටියදී අභාවප්‍රාප්ත වී තිබේ .
+
+ඒ මහතාගේ දේහය අවසන් ගෞරව සඳහා 10/30 මංගලගම පාර මොළඳන්ඩ, කිරිබත්කුඹුර නිවසේ තැන්පත් කිරීමට නියමිත අතර අවසන් කටයුතු සිදු කරන දිනය පසුව දැනුම් දීමට නියමිතය .
+
+සිහශක්ති සංගීත කණ්ඩායමේ නායකයා වූ ආනන්ද පෙරේරා මහතා මහනුවර ධර්මරාජ විදුහලේ ආදි සිසුවෙකු වන අතර ඔහු මෙරට බිහි වූ අති දක්ෂ සංගීතඥයෙකු වශයෙන් සැලකේ .
+
+◼️
+
+[Data](articles/5e6b51ed.json)
+
+---
+
+### Be it the ethnic conflict or the attempts to overthrow the government, innocents paid with their lives. Under the guise of national security, many who had no involvement in either of the conflicts were also killed.
+
+*2024-05-26 21:09:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84099) · `en`
+
+Each year in May, since the military defeat of the Liberation Tigers of Tamil Eelam (LTTE) in 2009, Tamils gather together to remember their dead. And every time they are harassed by the police, even to the point of being arrested.
+
+It was no different this month; media reports stated that four Tamils, of whom three were women were arrested in the Trincomalee area for sharing Kanji, in remembrance of their dead.
+
+In Colombo human rights activists and some members of the Tamil community gathered on a beach to remember lives lost in the 3o year ethnic conflict, and to share a bowl of kanji.
+
+Ultra Sinhala nationalists attempted to disrupt the gathering, but this time aroud at least. the police turned them away.
+
+...
+
+[Data](articles/3f1e0545.json)
+
+---
+
+### The dubious record of our police is primarily for arresting Tamil women cooking  porridge or dragging away a Sinhalese  comedian or a  Muslim) poet on the basis of advocating national, racial or religious hatred
+
+*2024-05-26 21:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84097) · `en`
+
+Amidst the not-so-happy transformation of Vesak from the serene marking of an incomparably sacred event in the Buddhist calendar to an indulgent if not excessive race to compete with the ‘biggest pandal’ or the largest ‘dansal’ (generous gifting of food to the public), President Ranil Wickremesinghe has sublimely remarked that the long lines of Sri Lankans patiently waiting for free food means that ‘life is returning to normal.’
+
+There are, of course, multiple interpretations to these (unprecedented) numbers crowding ‘dansal’ tents across the country. Another reason that may have escaped the President’s sunny mind is that crowds jostle for free food in the backdrop of large swathes of the rural populace and daily wage earners in cities being hit by (unprecedented) levels of poverty in the wake of the eruption of Sri Lanka’s economic crisis in 2022.
+
+...
+
+[Data](articles/72013142.json)
+
+---
+
 ### Rimal is another
 
 *2024-05-26 20:56:17* · [`adalk`](https://www.ada.lk/breaking_news/රිමාල්-තවත්-සැර-වෙයි/11-409831) · `si`
@@ -1925,237 +2117,5 @@ More than 150 houses have been completely buried.
 [Data](articles/8585bf4c.json)
 
 [Extended Data](ext_articles/8585bf4c.ext.json)
-
----
-
-### Registered more than 61,000 mining complaints
-
-*2024-05-26 18:43:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/61-000க்கும்-அதிகமான-மின்துண்டிப்பு-முறைப்பாடுகள்-பதிவு/175-337930) · `ta`
-
-The Ceylon Electricity Board (CEB) faced over 61,000 power outage complaints from May 21-26, affecting 467,500 consumers. By May 26, 26,700 outages were fixed, restoring power to 425,500 consumers. Despite round-the-clock efforts, as of May 24, there were still 59,400 electrical issues impacting 431,500 consumers.
-
-🟩
-
-The Ceylon Electricity Board (CEB) has filed more than 61,000 power outages at 2 pm today.
-
-They said that over 467,500 consumers had received complaints following electricity in the last six days between May 21 and 26.
-
-Accordingly, at 2 pm this afternoon, about 26,700 power outages have been repaired and 425,500 consumers have been supplied with electricity.
-
-The CEB administration and service staff are working 24 hours a day to restore electricity to all the affected consumers.
-
-However, as of Friday (May 24), more than 59,400 electrical fractures were reported, resulting in more than 431,500 consumers between 431,500 consumers between May 21 and 24.
-
-◼️
-
-[Data](articles/f4e5b948.json)
-
-[Extended Data](ext_articles/f4e5b948.ext.json)
-
----
-
-### If the estate workers' salaries are not increased, the government regimes again
-
-*2024-05-26 18:34:58* · [`adalk`](https://www.ada.lk/breaking_news/වතු-කම්කරු-වැටුප්-වැඩි-නොවුණොත්-රජයට-අයති-වතු-යළිත්-පවරා-ගන්නවා/11-409830) · `si`
-
-Minister Manusha Nimankara plans to intervene if the government doesn't agree to increase estate workers' salaries to Rs. 1700, as per labor laws. This decision follows the government's failure to accept the labor commissioner's recommendations. Despite private tea factories offering higher wages, the government-controlled estates lag behind. The President aims to ensure a fair wage without compromising the government's estate management. The cabinet has approved drafting a basic act to address this issue, emphasizing the importance of supporting the government in improving the country's economic situation.
-
-🟩
-
-Minister Manusha Nimankara has decided to take over the government to the government, if the decision has been decided to take salary and is not agreed to the government.
-
-According to the provisions of the law, the law has not been accepted by the Laboratories to the Commissioner of Labor and the authority assigned to the Commissioner of Labor as the authority has not agreed to the authority.He decided to pay Rs. 1700 / =.
-
-It was gazetted on the 30th of April.Thursday took place last.
-
-The President also discussed the matter with several occasions in several occasions.As a result, all the estimates happen to pay the minimum basic pay.
-
-Today, even private tea factories pays more salary than this basic salary. The government's estate is leased to the private sector.
-
-...
-
-[Data](articles/fbd343dc.json)
-
-[Extended Data](ext_articles/fbd343dc.ext.json)
-
----
-
-### Restoring Jaffna Teachers' Trainee
-
-*2024-05-26 18:27:01* · [`adalk`](https://www.ada.lk/breaking_news/යාපනයේ-ගුරු-සිරිත-අධ්‍යාපන-ක්‍රමය-යළි-ඇති-කරනවා/11-409829) · `si`
-
-President Ranil Wickremesinghe praised Jaffna teachers as exemplary, emphasizing the importance of educators in shaping the future. He highlighted the responsibility teachers carry, influencing the lives of students in their classrooms. The event saw the appointment of 375 teachers in the Northern Province, with the President symbolically participating in the ceremony. The President also stressed the need for a robust school system in Jaffna, referencing its historical significance and the potential of its students.
-
-🟩
-
-President Ranil Wickremesinghe said that the "Jaffna Teacher" was a fine example of the country's teachers in Jaffna.
-
-ගුරු වෘත්තිය ආදර්ශයක් විය යුතු බවත් සටන් පාඨ කියමින් මහ පාරේ උද්ඝෝෂනය කරනවානම් ගුරුවරුන් සිසුන්ගෙන් ප්‍රතික්ෂේප වන බවත් පැවසු ජනාධිපතිවරයා වෘත්තීය ගෞරවය රැකෙන අයුරින් කටයුතු කිරීම සියලු ගුරුවරුන්ගේ වගකීම බවද අවධාරණය කළේය.
-
-President Ranil Wickremesinghe addressing the Jaffna District Teachers' Appointments held at the Selva Auditorium in Jaffna yesterday (25).
-
-උතුරු පළාතේ යාපනය දිස්ත්‍රික්කයේ 375 දෙනෙකු සඳහා මෙහිදී ගුරු පත්වීම් ප්‍රදානය සිදු කෙරුණු අතර ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සංකේතාත්මකව පත්වීම් ප්‍රදානයට එක් විය.
-
-Northern Province Governor PSM. Mrs. Charles also presented a souvenir to the President.
-
-උත්සව සභාව ඇමතු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා වැඩිදුරටත් මෙසේද පැවසීය,
-
-...
-
-[Data](articles/908d59d1.json)
-
-[Extended Data](ext_articles/908d59d1.ext.json)
-
----
-
-### Veteran Musician Ananda Perera passes away
-
-*2024-05-26 18:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Veteran-Musician-Ananda-Perera-passes-away/108-283368) · `en`
-
-Colombo, May 26 (Daily Mirror) - Veteran musician Ananda Perera passed away today at the age of 67 at Kandy General Hospital.
-
-◼️
-
-[Data](articles/84cada3b.json)
-
-[Extended Data](ext_articles/84cada3b.ext.json)
-
----
-
-### Veteran musician Ananda Perera passes away
-
-*2024-05-26 18:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Veteran-musician-Ananda-Perera-passes-away/108-283368) · `en`
-
-Colombo, May 26 (Daily Mirror), Veteran musician, composer and singer Ananda Perera passed away at the age of 67 a short while ago.
-
-◼️
-
-[Data](articles/9e7e8c61.json)
-
-[Extended Data](ext_articles/9e7e8c61.ext.json)
-
----
-
-### Sri Lanka's French ambassador to death
-
-*2024-05-26 18:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197034) · `si`
-
-French Ambassador to Sri Lanka dies at 53 in Rajagiriya residence.
-
-🟩
-
-The French Ambassador in Sri Lanka has died in his official residence in Rajagiriya, police said.
-
-The 53-year-old was 53 years old when he died.
-
-◼️
-
-[Data](articles/ba78e2ac.json)
-
-[Extended Data](ext_articles/ba78e2ac.ext.json)
-
----
-
-### Providing employment to youths after rescuing the country from bankruptcy
-
-*2024-05-26 18:23:07* · [`adalk`](https://www.ada.lk/breaking_news/තරුණ-තරුණියන්ට-රැකියා-ලබාදීම-රට-බංකොලොත්භාවයෙන්-මුදවා-ගැනීමෙන්-අනතුරුවයි/11-409828) · `si`
-
-President Ranil Wickremesinghe announced a program to create employment for unemployed youths post-bankruptcy, focusing on revitalizing the export economy and modernizing agriculture. He highlighted the potential for high-income modern farming and the need for entrepreneurs. Additionally, the government plans to boost tourism, renewable energy, and export energy, aiming to make the Northern Province a significant renewable energy hub.
-
-🟩
-
-President Ranil Wickremesinghe said that the program will be launched to provide employment opportunities for unemployed youths after the release of the country during the banking this year.
-
-The President added that the program will be initiated from entering private companies to restore an export economy.
-
-President Ranil Wickremesinghe made these comments participating at the Jaffna District Youth Conference held yesterday (24) at the National Youth Services Council yesterday (24) at the Duraiappa Stadium in Jaffna.
-
-The needs and issues of the youth in Jaffna have been given the opportunity to direct the President directly to the President. Chairman / Director General of the National Youth Services Council Pasindu Gunaratne was also present at the occasion.. The President also visited the concertion of the culture of the youth of the area.
-
-Speaking further, President Ranil Wickremesinghe further said,
-
-...
-
-[Data](articles/f5c2689a.json)
-
-[Extended Data](ext_articles/f5c2689a.ext.json)
-
----
-
-### The President will announce a definitive decision within a month - Harin Fernando
-
-*2024-05-26 18:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/184554) · `ta`
-
-President Ranil Wickremesinghe plans to announce his decision on running for re-election within a month, with support from 10-15 members of the United People's Power. Opposition leaders Sajith Samadhi and Anura Kumara Dissanayake are expected to play significant roles in the upcoming debates.
-
-🟩
-
-President Ranil Wickremesinghe will announce a definitive decision on the presidential election within a month. He will definitely compete. Tourism and Land Affairs Minister Harin Fernando said 10 or 15 members of the United People's Power would unite with the president before the presidential election.
-
-He was speaking to the media after attending a function held in Colombo on Sunday (26).
-
-Opposition Leader Sajith Samadhi and Janatha Vimukthi Peramuna (JVP) leader Anura Kumara Dissanayake should be given a holiday that day.. The people of the country should sit patiently to look at the debate of the two.
-
-President Ranil Wickremesinghe will definitely contest the election. The President will announce his position within a month.
-
-Once the official announcement of the presidential election, 10 or 15 members of the United National Party will be united with the president.
-
-...
-
-[Data](articles/0ddb5315.json)
-
-[Extended Data](ext_articles/0ddb5315.ext.json)
-
----
-
-### Veteran musician Ananda Perera passes away
-
-*2024-05-26 18:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/99450/veteran-musician-ananda-perera-passes-away-) · `en`
-
-Veteran singer and musician Ananda Perera has passed away at the age of 67.
-
-He had passed away while receiving treatment at a hospital in Kandy, family sources confirmed.
-
-◼️
-
-[Data](articles/3c0fb362.json)
-
-[Extended Data](ext_articles/3c0fb362.ext.json)
-
----
-
-### Ananda Perera retires
-
-*2024-05-26 18:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197033) · `si`
-
-Ananda Perera, renowned musician, passes away, leaving a legacy in music.
-
-🟩
-
-Ananda Perera, an expert musician, has passed away.
-
-◼️
-
-[Data](articles/b34c6589.json)
-
-[Extended Data](ext_articles/b34c6589.ext.json)
-
----
-
-### The microphone
-
-*2024-05-26 18:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/184549) · `ta`
-
-The JVP, aiming for Sinhalese army support, claims victory in the war through Lalkanta. Despite efforts by Anuragumara Dissanayake and Vijitha Herath to modernize its image, the party retains its old characteristics, as evidenced by Lal Kanta's controversial statements.
-
-🟩
-
-The JVP needs the votes of the Sinhalese army. That is why Lalkanta has made the claim in the war victory. The JVP, which has transformed into a national people's power, is still revealing that there is still old character and color. Although Anuragumara Dissanayake and Vijitha Herath are trying to show a new face to the national people's power, Lal Kanta's comments are proven to be "not in the heel."
-
-◼️
-
-[Data](articles/080227e3.json)
-
-[Extended Data](ext_articles/080227e3.ext.json)
 
 ---

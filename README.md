@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-27 17:18:37**
+As of **2024-05-27 17:34:28**
 
 ## Newspaper Stats
 
-*Scraped **26,593** Articles*
+*Scraped **26,594** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,442
 economynextcom | 1,516
 dailyftlk | 1,550
-adalk | 2,262
+adalk | 2,263
 adaderanalk | 3,047
 tamilmirrorlk | 3,120
 virakesarilk | 4,066
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,263
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,588 (100.0%) of 26,593 articles have been extended.
+26,593 (100.0%) of 26,594 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -43,6 +43,8 @@ Strong winds with showers that prevailed in the area last night had caused the b
 ◼️
 
 [Data](articles/e609b487.json)
+
+[Extended Data](ext_articles/e609b487.ext.json)
 
 ---
 
@@ -66,6 +68,8 @@ During further questioning of the arrested suspect, it has been revealed that he
 
 [Data](articles/10ed9df9.json)
 
+[Extended Data](ext_articles/10ed9df9.ext.json)
+
 ---
 
 ### Vesak Bodu Bathi Gee, dansala in Gothatuwa
@@ -77,6 +81,8 @@ A Vesak Bodu Bathi Gee and a dansala were held yesterday in Gothatuwa in celebra
 ◼️
 
 [Data](articles/10559353.json)
+
+[Extended Data](ext_articles/10559353.ext.json)
 
 ---
 
@@ -379,6 +385,8 @@ Although the situation is not currently high risk, more rain could necessitate t
 ...
 
 [Data](articles/b8247e81.json)
+
+[Extended Data](ext_articles/b8247e81.ext.json)
 
 ---
 
@@ -1272,23 +1280,29 @@ In addition, the public will be able to make a comment in Jaffna on the 09th of 
 
 ---
 
-### ජල විදුලියට හොඳ කලක්
+### A good time for hydropower
 
 *2024-05-27 12:39:40* · [`adalk`](https://www.ada.lk/breaking_news/ජල-විදුලියට-හොඳ-කලක්/11-409842) · `si`
 
-මධ්‍යම කඳුකරයේ බටහිර බෑවුම්  ප්‍රදේශ වලට සතියක පමණ කාලයක්  තිස්සේ අධික වැසි ලැබෙමින් පැවතීම නිසා ජාතික ජලවිදුලිබල පද්ධතියට අයත් මාවුස්සාකැලේ හා කාසල්රී යන ජලාශවල ජල මට්ටම සීඝ්‍රයෙන් ඉහල නගිමින් පවති.
+Rapidly rising water levels in Mawaskele and Castlereagh reservoirs, crucial for hydropower, signal a favorable period for hydroelectric generation after months of low rainfall, which had reduced their capacity to 75%. This turnaround comes as the western slope areas of the central hills experience inclement weather, impacting daily operations, including tea factory activities and disrupting electricity supply, affecting both workers and businesses.
 
-ඉකුත් මාස කීපයක කාලයක් ප්‍රමාණවත් වැසි නොලැබීම හේතුවෙන් මාවුස්සාකැලේ හා කාසල්රී යන ජලාශ වල ජල මට්ටම සමස්ථ ජල ධාරිතාවෙන් 75% දක්වා පහත බැස තිබුණි.
+🟩
 
-ලක්ෂපාන ජලවිදුලිබලාගාර සංකීර්ණයට අයත්, කානියොන්, විමලසුරේන්ද්‍ර, ලක්ෂපාන, නව ලක්ෂපාන, පොල්පිටිය යන විදුලිබලාගාර 05 සඳහා ප්‍රධාන වශයෙන් ජලය සැපයෙන්නේ මවුස්සාකැලේ හා කාසල්රී යන ජලාශ දෙකෙනි.
+The water level of Mawaskele and Castlereage reservoirs belonging to the western slope areas of the central hills have rapidly rise.
 
-මධ්‍යම කඳුකරයේ බටහිර බෑවුම් ප්‍රදේශ වලට ඉකුත් සතියක පමණ කාලයක් පැවති අධික සුළං තත්වය මේ වන විට පහව ගොස් තිබේ.
+The water level of Mawussakele and Castlere reservoirs were down to 75% of the entire water capacity due to the lack of rain.
 
-අයහපත් කාලගුණික තත්වයත් සමග මධ්‍යම කඳුකරයේ තේ කර්මාන්තශාලාවල දෛනික කටයුතු වලට තව දුරටත් බාදා පැමිණ තිබේ. සතියකට ආසන්න කාලයක් විදුලි සැපයුම් විසන්ධි වී තිබීම හේතුවෙන් වතු කම්කරු ප්‍රජාවගේ හා   ව්‍යාපාරික ප්‍රජාවගේද ජන ජීවිතයදට දැඩි ලෙස බාධා පැමිණ තිබුණි.
+MouseSupavana, New Laxapana, New Laxapana, New Laxapana, New Laxapana, New Laxapana, New Laxapana, New Laxapana, New Laxapana, New Laxapana, New Laxapana and Castlerees are the two reservoirs.
+
+The western slope areas of the central hills have passed away.
+
+With the inclement weather, the daily activities of the tea factories in the central hills have come to the daily activities of the central hills. The estate workers' and business community and the business community have been severely interrupted the electricity community and the business community as the electricity supply was disconnected.
 
 ◼️
 
 [Data](articles/7bfdd8b0.json)
+
+[Extended Data](ext_articles/7bfdd8b0.ext.json)
 
 ---
 
@@ -1447,6 +1461,24 @@ Heavy showers above 100 mm are likely at some places in Western and Sabaragamuwa
 [Data](articles/29406301.json)
 
 [Extended Data](ext_articles/29406301.ext.json)
+
+---
+
+### කෝටි හතරක හෙරෝයින් පානදුරෙන් අල්ලයි
+
+*2024-05-27 12:20:18* · [`adalk`](https://www.ada.lk/breaking_news/කෝටි-හතරක-හෙරෝයින්-පානදුරෙන්-අල්ලයි/11-409841) · `si`
+
+රුපියල් කෝටි හතරකට අධික වටිනාකම කමකින් යුත් හෙරොයින් මත්කුඩු තොගයක් සමග වලපල හාමු නැමැත්තා අත්අඩංගුවට ගත්බව කළුතර අපරාධ කොට්ඨාසය පවසයි.
+
+ලද තොරතුරක් මත පානදුර වලපල ප්‍රදේශයේ මාර්ගයක් ආසන්නයේ දී  පරීක්ෂා කිරිමේදී සැකකරු සන්තකයේ තිබූ හෙරොයින් මත්කුඩු කිලෝ දෙකකට ආසන්න ප්‍රමාණයක් සොයාගත් බව පොලිසිය කීය.
+
+ඩුබායි රාජ්‍යයේ සැඟව සිටිමින් මත්කුඩු ජාවාරමේ යෙදෙන බව කියන ඩුබායි තරංග නමැත්තාගේ ප්‍රධාන ගෝලයා බවත් පොලිස් විමර්ශනවලදී අනාවරණය වී තිබේ.
+
+පානදුර වලපොල ප්‍රදේශයේ පදිංචි 37 හැවිරිදි සැකකරු පානදුර මහේස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරිමට නියමිතව තිබුණි .
+
+◼️
+
+[Data](articles/72e588a7.json)
 
 ---
 
@@ -2335,33 +2367,5 @@ Also, on the 08th of last month, two unidentified men who riding a motorbike in 
 [Data](articles/69ea98d3.json)
 
 [Extended Data](ext_articles/69ea98d3.ext.json)
-
----
-
-### Maithri goes to another place
-
-*2024-05-27 09:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197054) · `si`
-
-In response to the current political climate, Maithripala Sirisena's party, the SLFP, plans to conduct its activities from a separate location outside Colombo. The decision comes amid ongoing political and legal challenges that have hindered the party's ability to convene its political and district organizers. Despite these obstacles, the party aims to establish a new political center in Colombo, inviting district and electoral organizers nationwide to gather there.
-
-🟩
-
-It is reported that the party of Maithripala Sirisena has decided to carry out the SLFP in a separate location under the current political climate.
-
-It is reported that the SLFP headquarters not to be carried out in Colombo to continue political activities.
-
-It is also said that the SLFP Politburo in this regard are being held in discussions.
-
-It is reported that the existing political crisis and judicial decisions is unable to summon the political and seat and district organizers of their political and seats and district decisions.
-
-Freedom party Maithripala Sirisena has shown that it is best to carry out the party's political activities in this situation.
-
-Accordingly, the district and electoral organizers throughout the country are to be summoned to Colombo, commencing a new political center.
-
-◼️
-
-[Data](articles/8a2682d9.json)
-
-[Extended Data](ext_articles/8a2682d9.ext.json)
 
 ---

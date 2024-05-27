@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-27 06:59:26**
+As of **2024-05-27 07:21:31**
 
 ## Newspaper Stats
 
-*Scraped **26,452** Articles*
+*Scraped **26,454** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,55 @@ adaderanalk | 3,030
 tamilmirrorlk | 3,099
 virakesarilk | 4,039
 dailymirrorlk | 4,174
-adaderanasinhalalk | 4,234
+adaderanasinhalalk | 4,236
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,442 (100.0%) of 26,452 articles have been extended.
+26,451 (100.0%) of 26,454 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-27 (Monday)
+
+### අහුංගල්ල වෙඩිතැබීමේ සිද්ධියේ සැකකරුවෙක් හසුවෙයි
+
+*2024-05-27 06:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197047) · `si`
+
+කොස්ගොඩ පොලීසියේ නිලධාරීන් විසින් ඊයේ (26) දින බෙන්තර කහබිලියාකන්ද ප්‍රදේශයේදී සැකකරුව අත්අඩංගුවට ගෙන තිබුණි.
+
+පොලීසිය සඳහන් කළේ සැකකරු සන්තකයේ හෙරොයින් ග්‍රෑම් 03යි මිලිග්‍රෑම් 410ක් ද තිබී සොයාගත් බවය.
+
+පසුගිය 08 වනදා රාත්‍රී කාලයේදී අහුංගල්ල පොලිස් වසමේ බෝගහපිටිය ලෝකන්වත්ත ප්‍රදේශයේදී යතුරුපැදියකින් පැමිණි නාඳුනන පුද්ගලයින් දෙදෙනෙකු විසින් නිවසක සිටි පුද්ගලයෙකුට වෙඩිතබා මෙම ඝාතනය සිදුකර තිබුණි.
+
+◼️
+
+[Data](articles/7d06ce19.json)
+
+---
+
+### අදත් තද සුළං
+
+*2024-05-27 06:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197045) · `si`
+
+නිරිතදිග මෝසම් තත්ත්වය හේතුවෙන් පවතින සුළං තත්ත්වය තවදුරටත් බලාපොරොත්තු වෙන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව අද (27) නිකුත් කළ නවතම නිවේදනයේ දැක්වෙයි.
+
+ඒ අනුව අද දිනයේත් බස්නාහිර, සබරගමුව, මධ්‍යම, වයඹ සහ දකුණු පළාත්වල විටින් විට වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වෙයි.
+
+බස්නාහිර සහ සබරගමුව පළාත්වලත් නුවරඑළිය දිස්ත්‍රික්කයේත් ඇතැම් ස්ථානවල මි.මී. 75ක පමණ තරමක තද වැසි ඇතිවිය හැකිය.
+
+ඌව සහ නැගෙනහිර පළාත්වල සවස් කාලයේ හෝ රාත්‍රී කාලයේ තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වෙයි.
+
+මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවල සහ උතුරු, උතුරු මැද, බස්නාහිර, දකුණු සහ වයඹ පළාත්වලත් ත්‍රීකුණාමලය දිස්ත්‍රික්කයේත් විටින්විට හමන පැ.කි.මී. 50ක 60ක පමණ තද සුළං ඇතිවිය හැකිය.
+
+දිවයිනේ සෙසු ප්‍රදේශවල විටින් විට හමන පැ.කි.මී. 30-40 ක පමණ තරමක තද සුළං ඇතිවිය හැකි බවද දැනුම්දෙයි.
+
+◼️
+
+[Data](articles/67877848.json)
+
+---
 
 ### CINEC’s Prof. Lalith Edirisinghe conferred chair professorship by Dalian Maritime University
 
@@ -41,6 +79,8 @@ The Dean of the Faculty of Management and Social Sciences of CINEC Campus, Prof.
 ...
 
 [Data](articles/189d307d.json)
+
+[Extended Data](ext_articles/189d307d.ext.json)
 
 ---
 
@@ -60,6 +100,8 @@ Toastmaster Bhathiya Hettiarachchi, appointed ‘Club Growth Director’ for Dis
 
 [Data](articles/158b9142.json)
 
+[Extended Data](ext_articles/158b9142.ext.json)
+
 ---
 
 ### Fems HER Foundation collaborates with Barista to provide easy access to menstrual hygiene
@@ -73,6 +115,8 @@ Through impactful partnerships, the Fems HER Foundation aims to dismantle obstac
 ...
 
 [Data](articles/e966952d.json)
+
+[Extended Data](ext_articles/e966952d.ext.json)
 
 ---
 
@@ -88,6 +132,8 @@ Strategically situated at No. 734B, New Parliament Road, Pelawatta, Battaramulla
 
 [Data](articles/f435617e.json)
 
+[Extended Data](ext_articles/f435617e.ext.json)
+
 ---
 
 ### Sri Lanka Insurance awarded the Most Loved Life Insurance Brand of 2024
@@ -101,6 +147,8 @@ SLICLL has consistently connected with customers and the broader community by cu
 ...
 
 [Data](articles/76c262e6.json)
+
+[Extended Data](ext_articles/76c262e6.ext.json)
 
 ---
 
@@ -120,6 +168,8 @@ The President encouraged the recipients to safeguard the freehold deeds they rec
 
 [Data](articles/d77fe109.json)
 
+[Extended Data](ext_articles/d77fe109.ext.json)
+
 ---
 
 ### Ceylon Chamber calls on all political parties to support continuity of SOE reforms
@@ -131,6 +181,8 @@ The Ceylon Chamber of Commerce calls on all political parties to support the con
 ...
 
 [Data](articles/e59bfc76.json)
+
+[Extended Data](ext_articles/e59bfc76.ext.json)
 
 ---
 
@@ -2075,49 +2127,5 @@ Accordingly, the relevant officers had informed the relevant officials to return
 [Data](articles/e8e03cde.json)
 
 [Extended Data](ext_articles/e8e03cde.ext.json)
-
----
-
-### “President does not conduct magical politics”
-
-*2024-05-26 16:31:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-மாயாஜால-அரசியல்-நடத்தவில்லை/175-337911) · `ta`
-
-"President conducts pragmatic politics, focusing on national unity and addressing issues like plantation workers' pay. A labor commissioner's gazette ensures payment, and the finance minister plans to cancel plantation company leases. Companies are urged to manage lands responsibly; otherwise, they should be handed over to the state. The current president's continuation is crucial for the country's recovery."
-
-🟩
-
-"The President of the United National Party (UNP) and the organizer of the United National Party (UNP), said," The president is conducting the politics of the union under the president, "the president is conducting the politics of the reality of reality, without any magical politics."
-
-The attempt to change the president's travel path is a danger to the country. Therefore, he hopes that everyone should unite and give Ranil a chance and the President will definitely create a fixed solution to the plantation workers' pay issue.
-
-A special gazette has been issued by the Commissioner of Labor to ensure that the plantation workers should be paid a day of Rs.. In this context, Finance Minister Ranjith Siyambalapitiya has said that the lease agreement of plantation companies will be canceled.. We welcome this. We will give him our full support in this regard.
-
-...
-
-[Data](articles/756c0207.json)
-
-[Extended Data](ext_articles/756c0207.ext.json)
-
----
-
-### “The president does not hold magical politics”
-
-*2024-05-26 16:31:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாயாஜால-அரசியலை-ஜனாதிபதி-நடத்தவில்லை/175-337911) · `ta`
-
-The statement emphasizes the practical approach of the UNP President towards politics, rejecting any form of magical solutions. It highlights the importance of unity and giving President Ranil Wickremesinghe a chance to address issues like plantation workers' wages. The mention of a labor commissioner's gazette and the finance minister's stance on canceling plantation company leases indicates a move towards ensuring fair treatment for plantation workers. The speaker calls for understanding that while plantation companies manage the land, ultimate responsibility lies with the government. They stress the need for the current leadership to continue to prevent the country from financial ruin, urging support for President Wickremesinghe to lead the nation forward.
-
-🟩
-
-"The President of the United National Party (UNP) and the organizer of the United National Party (UNP), said," The president is conducting the politics of the union under the president, "the president is conducting the politics of the reality of reality, without any magical politics."
-
-The attempt to change the president's travel path can be a danger to the country. Therefore, he hopes that everyone should unite and give Ranil a chance and the President will definitely create a fixed solution to the plantation workers' pay issue.
-
-A special gazette has been issued by the Commissioner of Labor to ensure that the plantation workers should be paid a day of Rs.. In this context, Finance Minister Ranjith Siyambalapitiya has said that the lease agreement of plantation companies will be canceled.. We welcome this. We will give him our full support in this regard.
-
-...
-
-[Data](articles/fcae0e90.json)
-
-[Extended Data](ext_articles/fcae0e90.ext.json)
 
 ---

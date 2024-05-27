@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-28 02:33:59**
+As of **2024-05-28 02:52:27**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,273
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,656 (99.9%) of 26,672 articles have been extended.
+26,668 (100.0%) of 26,672 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,6 +50,8 @@ The agreement for the coalition was signed by coalition partners Jathika Nidahas
 
 [Data](articles/74a545aa.json)
 
+[Extended Data](ext_articles/74a545aa.ext.json)
+
 ---
 
 ### Siyambalapitiya assures transparent recruitment for Customs Department
@@ -61,6 +63,8 @@ State Minister of Finance Ranjith Siyambalapitiya announced yesterday that the r
 ...
 
 [Data](articles/31812693.json)
+
+[Extended Data](ext_articles/31812693.ext.json)
 
 ---
 
@@ -79,6 +83,8 @@ The veteran politician found himself embroiled in controversy in 2015 when a pho
 ◼️
 
 [Data](articles/10b6b596.json)
+
+[Extended Data](ext_articles/10b6b596.ext.json)
 
 ---
 
@@ -100,6 +106,8 @@ Speaking at a press briefing, Marikkar emphasised that the primary concern in Sr
 
 [Data](articles/da9b07dc.json)
 
+[Extended Data](ext_articles/da9b07dc.ext.json)
+
 ---
 
 ### BIA bans driverless vehicles from arrivals terminal to streamline traffic
@@ -116,6 +124,8 @@ Galketiya said vehicles parked for over 30 minutes at the arrivals terminal, cau
 
 [Data](articles/0b826e11.json)
 
+[Extended Data](ext_articles/0b826e11.ext.json)
+
 ---
 
 ### SJB accuses NPP of sabotaging debate plans
@@ -131,6 +141,8 @@ Bandara stressed the importance of initiating discussions on the economic polici
 ...
 
 [Data](articles/36504f9a.json)
+
+[Extended Data](ext_articles/36504f9a.ext.json)
 
 ---
 
@@ -150,6 +162,8 @@ The 08 suspects in question had been arrested based on information uncovered fol
 
 [Data](articles/f1c71bc5.json)
 
+[Extended Data](ext_articles/f1c71bc5.ext.json)
+
 ---
 
 ### 2,000 people feared buried under Papua New Guinea landslide
@@ -165,6 +179,8 @@ But that may now be a major underestimate according to the latest projection fro
 ...
 
 [Data](articles/edd717a2.json)
+
+[Extended Data](ext_articles/edd717a2.ext.json)
 
 ---
 
@@ -186,6 +202,8 @@ Addressing a press conference in Colombo, Tissa Attanayake said the latest Centr
 
 [Data](articles/f958d358.json)
 
+[Extended Data](ext_articles/f958d358.ext.json)
+
 ---
 
 ### Sri Lanka participates in International Tea Day celebrations by FAO in Rome
@@ -204,6 +222,8 @@ During the event, a high-level panel of Permanent Representatives to FAO was org
 
 [Data](articles/63315a70.json)
 
+[Extended Data](ext_articles/63315a70.ext.json)
+
 ---
 
 ### Singapore offers assistance to upgrade Immigration system in Sri Lanka
@@ -219,6 +239,8 @@ During the meeting the High Commissioner highlighted the challenges Sri Lanka fa
 ...
 
 [Data](articles/8938ee93.json)
+
+[Extended Data](ext_articles/8938ee93.ext.json)
 
 ---
 
@@ -237,6 +259,8 @@ In these darker times how could anyone propose actions, including significant pu
 ...
 
 [Data](articles/16dd177b.json)
+
+[Extended Data](ext_articles/16dd177b.ext.json)
 
 ---
 

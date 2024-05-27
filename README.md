@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-27 22:18:36**
+As of **2024-05-27 22:34:17**
 
 ## Newspaper Stats
 
-*Scraped **26,641** Articles*
+*Scraped **26,642** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,38 +19,44 @@ adalk | 2,270
 adaderanalk | 3,052
 tamilmirrorlk | 3,124
 virakesarilk | 4,070
-dailymirrorlk | 4,205
+dailymirrorlk | 4,206
 adaderanasinhalalk | 4,272
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,637 (100.0%) of 26,641 articles have been extended.
+26,641 (100.0%) of 26,642 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-27 (Monday)
 
-### අනතුරු ඇඟවීම නොතැකූ දෙදෙනෙකු අතුරුදන්
+### Two disappeared
 
 *2024-05-27 21:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197084) · `si`
 
-අනතුරු ඇඟවීම් නොතකා මුහුදු ගිය ධීවරයින් දෙදෙනෙකු අතුරුදන්ව ඇතැයි ධීවර හා ජලජ සම්පත් දෙපාර්තමේන්තුව පවසයි.
+Two fishermen are missing despite warnings from the Department of Fisheries and Aquatic Resources, who advised against going to sea due to safety concerns. The Meteorological Department predicts heavy rainfall exceeding 100mm in the next 24 hours in the Western Province and Nuwara Eliya district, with landslides expected to worsen in seven districts.
 
-ධීවර හා ජලජ සම්පත් දෙපාර්තමේන්තුව පවසන්නේ දිවයිනට බලපෑ නිරිත දිග මෝසම් වැසි තත්ත්වය හමුවේ ධීවරයින් සඳහා අනතුරු ඇඟවීම් නිකුත් කර තිබියදී එම ධීවරයින් මුහුදු ගොස් ඇති බවය.
+🟩
 
-මේ අතර පවතින අධික සුළං හමුවේ අද දිනයේදීත් මුහුදු යෑමෙන් වැළකී සිටින ලෙස ධීවර සහ නාවික ප්‍රජාවට දැනුම් දී තිබේ.
+Two fishermen have gone missing in ignoring warnings, says the Department of Fisheries and Aquatic Resources.
 
-කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසන්නේ ඉදිරි පැය 24දීත් බස්නාහිර සබරගමුව පළාත්වලත් නුවරඑළිය දිස්ත්‍රික්කයේත් ඇතැම් ස්ථානවල මිලිමීටර් 100ට වැඩි තද වැඩි ඇතිවිය හැකි බවය.
+The Fisheries and Aquatic Resources Department states that the fishermen have gone to sea when the fishermen have been issued.
 
-ගතවූ පැය 24 වැඩිම වර්ෂාවක් ලැබී තිබුණේ රත්නපුර කරගල ප්‍රදේශයට වන අතර එම අගය මිලිමීටර් 143.3කි.
+Meanwhile, the Fisheries and Marine Community has informed the Fisheries and the Community to avoid going on the sea.
 
-මේ අතර දිස්ත්‍රික්කයන් 7කට අදාළව නිකුත් කර ඇති නායයාමේ අනතුරු ඇඟවීම් තවදුරටත් බලපැවැත්වේ.
+The Meteorological Department says that in the next 24 hours and the Western Province, the Nuwara Eliya district can be increased at more than 100 millimeters.
+
+The last 24 hours was found to be the highest number of rain and 143.3 millimeters.
+
+Meanwhile, landslides released on seven districts will continue further.
 
 ◼️
 
 [Data](articles/5dbd6eac.json)
+
+[Extended Data](ext_articles/5dbd6eac.ext.json)
 
 ---
 
@@ -72,17 +78,45 @@ Earlier, President Ranil Wickremesinghe said that Elon Musk had sent an applicat
 
 [Data](articles/1f64b740.json)
 
+[Extended Data](ext_articles/1f64b740.ext.json)
+
 ---
 
-### புதிய அரசியல் கூட்டை அமைத்த விமல், கம்மன்பில
+### Starlink internet pre-orders open in Sri Lanka
+
+*2024-05-27 21:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Starlink-internet-pre-orders-open-in-Sri-Lanka/155-283459) · `en`
+
+Colombo, May 27 (Daily Mirror) - Elon Musk's Starlink internet is now open for pre-order in Sri Lanka, with the public able to reserve Starlink by paying a fully refundable USD 9 deposit.
+
+Starlink aims to commence service in Sri Lanka in 2024, pending regulatory approval.
+
+Orders will be fulfilled on a first-come, first-served basis within each coverage area.
+
+Starlink’s Internet Constellation is one of the biggest breakthroughs in commercial satellite history. It brings nearly broadband-capable speeds and performance using a novel configuration of small satellites that work as a constellation while orbiting the Earth much lower than traditional satellites.
+
+Earlier, President Ranil Wickremesinghe said that Elon Musk had sent an application to launch the Starlink service in Sri Lanka and preliminary work to bring Starlink to Sri Lanka has been completed.
+
+◼️
+
+[Data](articles/af9237b4.json)
+
+---
+
+### Wimal, Kammanpila, who set up a new political nest
 
 *2024-05-27 21:52:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-அரசியல்-கூட்டை-அமைத்த-விமல்-கம்மன்பில/175-337995) · `ta`
 
-பாராளுமன்ற உறுப்பினர் விமல் வீரவன்ச தலைமையிலான தேசிய சுதந்திர முன்னணி, பாராளுமன்ற உறுப்பினர் உதய கம்மன்பில தலைமையிலான பிவித்துரு ஹெல உறுமய உள்ளடங்கலான சில அரசியல் கட்சிகள், சர்வஜன பலய எனப் பெயரிடப்பட்ட புதிய அரசியல் கூட்டொன்றை இன்று காலை அமைத்துள்ளன.
+MP Wimal Weerawansa and Udaya Kammanpila lead the formation of the Sarvajana Balaya, a new political alliance involving several parties, including the National Freedom Front.
+
+🟩
+
+Some political parties, including the National Freedom Front (NGO) led by MP Wimal Weerawansa and Parliamentarian Udaya Kammanpila, have formed a new political partnership, which is named as the Sarvajana Balaya.
 
 ◼️
 
 [Data](articles/a4ee3a14.json)
+
+[Extended Data](ext_articles/a4ee3a14.ext.json)
 
 ---
 
@@ -117,6 +151,8 @@ President’s Counsel Senaka Walgampaya filed this application seeking an order 
 ...
 
 [Data](articles/d6e080f4.json)
+
+[Extended Data](ext_articles/d6e080f4.ext.json)
 
 ---
 
@@ -2319,25 +2355,5 @@ He said that there is no place in Australia and there is no room for other commu
 [Data](articles/cdbfcaf0.json)
 
 [Extended Data](ext_articles/cdbfcaf0.ext.json)
-
----
-
-### SLAF pilots conduct crucial evacuation mission of UN members in Africa
-
-*2024-05-27 12:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SLAF-pilots-conduct-crucial-evacuation-mission-of-UN-members-in-Africa/108-283439) · `en`
-
-Africa, May 27 (Daily Mirror) - Sri Lanka Air Force pilots, deployed in the Central African Republic as part of the United Nations Multidimensional Integrated Stabilization Mission (MINUSCA), executed a critical evacuation mission involving multiple UN personnel.
-
-According to the Sri Lanka Air Force (SLAF), Sri Aviation Bria in the Central African Republic was tasked with undertaking an early dawn Casualty Evacuation Mission (CASEVAC) on May 20.
-
-The challenging CASEVAC operation was entrusted to the Mi-17 UNO 324P helicopter, operated by SLAF pilots.
-
-Led by SLAF pilots, the mission aimed to evacuate three UN personnel who were involved in a vehicle accident in a remote area of the Rafai region.
-
-◼️
-
-[Data](articles/55bac09f.json)
-
-[Extended Data](ext_articles/55bac09f.ext.json)
 
 ---

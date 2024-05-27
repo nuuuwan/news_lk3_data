@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-28 02:52:27**
+As of **2024-05-28 03:03:33**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,273
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,668 (100.0%) of 26,672 articles have been extended.
+26,672 (100.0%) of 26,672 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -276,6 +276,8 @@ The Head of Emerging Market Economies Johanna Chua, when commenting recently on 
 
 [Data](articles/70146c8c.json)
 
+[Extended Data](ext_articles/70146c8c.ext.json)
+
 ---
 
 ### Bringing vision to life: Implementing ‘Creative Sri Lanka 2030’ project
@@ -294,6 +296,8 @@ The event brought together key stakeholders from the Government, private sector 
 
 [Data](articles/52d3c9c8.json)
 
+[Extended Data](ext_articles/52d3c9c8.ext.json)
+
 ---
 
 ### Baurs appoints Nishantha Weerasinghe as Deputy Managing Director
@@ -309,6 +313,8 @@ Weerasinghe was instrumental in taking the healthcare division of Baurs to among
 ...
 
 [Data](articles/16ce1ebb.json)
+
+[Extended Data](ext_articles/16ce1ebb.ext.json)
 
 ---
 
@@ -329,6 +335,8 @@ Under the theme “Hungary: Your Gateway to the European Union (EU),” one coul
 ...
 
 [Data](articles/714840d2.json)
+
+[Extended Data](ext_articles/714840d2.ext.json)
 
 ---
 

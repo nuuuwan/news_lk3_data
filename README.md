@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-27 10:52:17**
+As of **2024-05-27 11:03:46**
 
 ## Newspaper Stats
 
-*Scraped **26,501** Articles*
+*Scraped **26,505** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,57 +16,139 @@ islandlk | 1,441
 economynextcom | 1,511
 dailyftlk | 1,550
 adalk | 2,251
-adaderanalk | 3,035
+adaderanalk | 3,036
 tamilmirrorlk | 3,109
 virakesarilk | 4,045
-dailymirrorlk | 4,184
-adaderanasinhalalk | 4,245
+dailymirrorlk | 4,185
+adaderanasinhalalk | 4,247
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,494 (100.0%) of 26,501 articles have been extended.
+26,501 (100.0%) of 26,505 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-27 (Monday)
 
-### මාතර වැලිගම වෙඩිල්ල ගැන තවත් තොරතුරු
+### දිලිත් - ගම්මන්පිල - විමල් ඇතුළු පිරිසක් සන්ධානගත වෙයි
+
+*2024-05-27 10:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197058) · `si`
+
+'එක්ව නංවන රටක් - සතුටු පිරුණු දැයක්' තේමා කරගනිමින් දේශපාලන පක්ෂ කිහිපයක් සහ සිවිල් සංවිධාන කිහිපයක් එක්වී 'සර්ව ජන බලය' නමින් නව දේශපාලන ව්‍යාපාරයක් අද (27) පිහිටුවනු ලැබීය.
+
+ඒ සඳහා මව්බිම ජනතා පක්ෂය, පිවිතුරු හෙළ උරුමය, ජාතික නිදහස් පෙරමුණ, ප්‍රජාතන්ත්‍රවාදී වාමාංශික පෙරමුණ, ශ්‍රී ලංකාවේ කොමියුනිස්ට් පක්ෂය, යුතුකම ජාතික සංවාද කවය සහ පාර්ලිමේන්තු මන්ත්‍රී මහාචාර්ය චන්න ජයසුමන මහතා ප්‍රමුඛ ස්වාධීන මන්ත්‍රී සංසදය ගිවිසුම්ගත වුණි.
+
+අදාළ දේශපාලන ව්‍යාපාරය පිහිටුවීමේ ලිඛිත ගිවිසුමට අද කොළඹදී අත්සන් තැබීය.
+
+◼️
+
+[Data](articles/3d1b33d6.json)
+
+---
+
+### Western, Sabaragamuwa Provinces, Nuwara-Eliya district affected by heavy showers
+
+*2024-05-27 10:43:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Western-Sabaragamuwa-Provinces-Nuwara-Eliya-district-affected-by-heavy-showers/108-283434) · `en`
+
+Colombo, May 27 (Daily Mirror) - The Western and Sabaragamuwa Provinces and the Nuwara-Eliya district were affected by heavy showers above 100 mm during the day, the Natural Hazards Early Warning Centre of the Meteorology Department said.
+
+This is according to the advisory report on heavy rain issued for the Gampaha, Kegalle, Nuwara Eliya, Colombo, Kalutara and Ratnapura districts.
+
+However, the Department said that prevailing rainy and windy conditions are expected to continue further due to the south-west monsoon that has established over the island.
+
+Fairly heavy showers of about 75 mm are likely at some places in the North-Western and Southern Provinces and in the Kandy district.
+
+◼️
+
+[Data](articles/d8697c61.json)
+
+---
+
+### හෙට උදෑසන කොළඹ - නුවර මාර්ගයේ ගමන්ගන්නා රියදුරන්ට පණිවුඩයක්
+
+*2024-05-27 10:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197057) · `si`
+
+කොළඹ නුවර ප්‍රධාන මාර්ගය, පහළ කඩුගන්නාව ප්‍රදේශයෙන් හෙට (28) පෙරවරුවේ පැය කිහිපයක් වසා දැමීමට කටයුතු කරන බව ගොඩනැගිලි පර්යේෂණ සංවිධානය පවසයි.
+
+එහි ජ්‍යේෂ්ඨ භූ විද්‍යාඥ ලක්සිරි ඉන්ද්‍රතිලක මහතා පැවසුවේ හෙට උදෑසන 08.00 සිට 10.00 දක්වා හෝ උදෑසන 09.00 සිට 11.00 දක්වා කාලය තුළදී එම මාර්ග කොටස වසා දැමීමට සිදුවන බවයි.
+
+එම ප්‍රදේශයට බලපා ඇති අයහපත් කාලගුණයක් සමඟ ගසක් ගැලවීයාම හේතුවෙන් එම ගස අසල පැවති පාෂාණ කුට්ටි දෙකක් බුරුල් වී ඇති බැවින් එම ගාෂාණ කුට්ටි එම ස්ථානයෙන් ඉවත් කිරීම සඳහා මෙම මාර්ගය වසා දැමීමට සිදුවන බව ඒ මහතා වැඩිදුරටත් පැවසීය.
+
+◼️
+
+[Data](articles/73b95451.json)
+
+---
+
+### Applications for Grade 5 Scholarship Exam accepted from today
+
+*2024-05-27 10:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/99458/applications-for-grade-5-scholarship-exam-accepted-from-today-) · `en`
+
+The Commissioner General of Examinations, Amith Jayasundara stated that applications for the 2024 Grade 5 Scholarship Examination will be accepted online from today (27) onwards.
+
+Accordingly, online applications for the exam will be accepted until June 14.
+
+The Exams Commissioner General emphasized that no applications will be accepted after midnight on June 14, and the deadline for submitting applications will not be extended under any circumstances.
+
+The students who are studying in Grade 05 in a government school or a government-approved school will be eligible to sit for the Grade 5 Scholarship Examination, whereas the students of low-income families who are below 11 years of age by January 31 are eligible to receive scholarships.
+
+The Commissioner General of Examinations further mentioned that applications can be submitted via the website (onlineexams.gov.lk)
+
+...
+
+[Data](articles/dec38645.json)
+
+---
+
+### More information about Weligama shot in Matara
 
 *2024-05-27 10:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197056) · `si`
 
-මාතර වැලිගම බටවල පාතේගම ආදර්ශ ප්‍රාථමික විද්‍යාලය අසලදී අද (27) උදෑසන සිදුකළ වෙඩිතැබීම ගැන තවත් තොරතුරු හෙළිවී තිබේ.
+In Weligama, Matara, a shooting occurred at the Patregama Murale primary school. Two individuals targeted a resident, identified as Sudam Madusank, known for his involvement in a beef case from January 20, 2012. The suspects fled after the incident, which involved gunfire suspected to have come from a pistol. Police found spent cartridges at the scene and are investigating with several teams, including the STF.
 
-මිදිගම පොලිස් වසමේ පදිංචි තරුණයෙකුට යතුරුපැදියකින් පැමිණි පුද්ගලයින් දෙදෙනෙකු විසින් මෙම වැඩිතැබීම සිදුකර පළාගොස් තිබුණි.
+🟩
 
-මිදිගම පිටිදූව පාරේ පදිංචි සුදේෂ් මධුසංක නමැති 30 හැවිරිදි පුද්ගලයෙකු අද උදැසන සිය දරුවන් දෙදෙනා බටවල පාතේගම ආදර්ශ කනිෂ්ඨ විද්‍යාලය වෙත රැගෙන ආ අවස්ථාවේදී එම පුද්ගලයා ඉලක්ක කොට මෙම වෙඩිතැබීම සිදුකර ඇත.
+More about the shooting of the Patregama Murale primary school in Weligama Batawala, Matara today (27) has been revealed.
 
-⁣වෙඩිතැබීමට ඉලක්කය වූ පුද්ගලයා නඳුන් චින්තක නොහොත් 'හරක් කටා' යන අයගේ පාර්ශ්වයේ පුද්ගලයකු වන අතර ඔහුට විරුද්ධව 2022.01.20 වන දින මිදිගම තුර්කි ගම්මානයේදී පුද්ගලයෙකුට වෙඩිතැබීමක් සම්බන්ධයෙන් අත්අඩංගුවට පත්වී මේ වනවිට ඇප මත නිදහස්වී සිටින අයෙකි.
+Two persons who came to a resident of Midigama Police division had fled the assertion.
 
-මෙම වෙඩිතැබීම පිස්තෝල වර්ගයේ ගිනි අවියකින් සිදු කරන්නට ඇතැයි පොලීසිය සැක කරයි.
+A 30-year-old man named Sudam Madusank, a 30-year-old man from the Paintam Road, was taken to Pathegama Model Pooja, the two children were brought to Pathegama Model Kanarka Palawala today.
 
-පොලීසිය සඳහන් කළේ වෙඩිතැබීම සිදුවූ ස්ථානයේ මාර්ගයේ හිස් උණ්ඩ කොපුවක් වැටී ඇති බවය.
+The person who was the target was to be a person of the party, whose "beef ', or 20.01.20s, and released against him on 20.01.2012.
 
-සිද්ධිය සම්බන්ධයෙන් පොලිස් කණ්ඩායම් කිහිපයක් හා පොලිස් විශේෂ කාර්ය බළකාය වැඩිදුර පරීක්ෂණ සිදුකරයි.
+Police suspect that the shooting has been done with a pistol type.
+
+The police said that the empty ammunition she had fallen to the shooting place.
+
+Several police teams and the STF continue to investigate into the incident.
 
 ◼️
 
 [Data](articles/19381896.json)
 
+[Extended Data](ext_articles/19381896.ext.json)
+
 ---
 
-### கிழக்கு மாகாணத்தில் விவசாயத்தை மேம்படுத்த உழவு இயந்திரங்கள் வழங்கிவைத்த ஆளுநர் செந்தில் தொண்டமான்!
+### Senthil Thondaman, Governor of Plowing Machines to improve agriculture in the Eastern Province!
 
 *2024-05-27 10:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/184570) · `ta`
 
-கிழக்கு மாகாணத்தில் உள்ள உள்ளூராட்சி மன்றங்களுக்கு உட்பட்ட பகுதிகளில் திண்மக் கழிவுகளை அகற்றவும் விவசாயத்தை மேம்படுத்தவும் ஆளுநர் செந்தில் தொண்டமானால் இயந்திரங்கள் மற்றும் உளவு இயந்திரங்கள் வழங்கி வைக்கப்பட்டன.
+Governor Senthil Thondaman received machinery to enhance farming in the Eastern Province, supported by officials including Chief Secretary R.M.P.S Ratnayake and others.
 
-இந்த நிகழ்வில் பிரதம செயலாளர் R.M.P.S  ரத்நாயக்க ,ஆளுநரின் செயலாளர் L.P மதநாயக்க, உள்ளூராட்சி திணைக்கள ஆணையாளர் மணிவண்ணன்,  விவசாய அமைச்சின் செயலாளர் முத்துபண்டா ஆகியோர் கலந்துகொண்டனர்.
+🟩
+
+Governor Senthil Thondaman was provided with machinery and intelligence machines to remove solid waste and improve agriculture in areas under the local government in the Eastern Province.
+
+Chief Secretary R.M.P.S Ratnayake, Governor's Secretary L.P Madanayake, Local Government Department Commissioner Manivannan and Secretary to the Ministry of Agriculture Muthupanda were also present.
 
 ◼️
 
 [Data](articles/14bd14f6.json)
+
+[Extended Data](ext_articles/14bd14f6.ext.json)
 
 ---
 
@@ -90,23 +172,29 @@ Accordingly, the price of a kilogram of lemon is sold at the Economic Center for
 
 ---
 
-### வாழைச்சேனையில் கார் விபத்தில் கணவன் - மனைவி படுகாயம்!
+### Husband - Wife injured in car accident in Valaichenai
 
 *2024-05-27 10:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/184572) · `ta`
 
-வாழைச்சேனை பொலிஸ் பிரிவுக்குட்பட்ட புனாணை பகுதியில் கார் விபத்தில் கணவன் மற்றும்  மனைவி ஆகியோர் படுகாயமடைந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+A couple was injured in a car crash in Valaichenai early this morning. The accident involved social activist Al-Haj Haladeen and his family, including his wife, who are now receiving treatment at the Batticaloa Teaching Hospital.
 
-இந்த விபத்துச் சம்பவம் இன்று (27) திங்கட்கிழமை காலை 5 மணியளவில் வாழைச்சேனை பொலிஸ் பிரிவுக்குட்பட்ட புனாணை பகுதியில் வைத்து இடம்பெற்றுள்ளது.
+🟩
 
-ஓட்டமாவடி பகுதியைச் சேர்ந்த சமூக செயற்பாட்டாளர் அல் ஹாஜ் ஹலால்தீன் என்பவர் தனது மனைவி, மூன்று பிள்ளைகளுடன் கொழும்புக்கு சென்று ஊர் திரும்பிக் கொண்டிருந்த போதே இந்த விபத்து இடம்பெற்றுள்ளது.
+Husband and wife were injured in a car accident in the Valaichenai police division, police said.
 
-கார் வீதியை விட்டு விலகி குடைசாய்ந்ததில் காரில் பயணித்த கணவன் மற்றும் மனைவி இருவரும் காயமடைந்துள்ளனர்.
+The accident took place today (27) at 5 am at the Valaichenai police division.
 
-இவ் விபத்தில் காயமடைந்த கணவனும் மனைவியும் மட்டக்களப்பு போதனா வைத்தியசாலையில் சிகிச்சை பெற்று வருகின்றனர்.
+The accident occurred while social activist al -Haj Haladeen from Ottamavadi was returning to Colombo with his wife and three children.
+
+Both husband and wife who were traveling in the car were injured when they got off the car.
+
+The husband and wife, who were injured in the accident, are being treated at the Batticaloa Teaching Hospital.
 
 ◼️
 
 [Data](articles/f6443a29.json)
+
+[Extended Data](ext_articles/f6443a29.ext.json)
 
 ---
 
@@ -178,55 +266,73 @@ The spokesman for the health ministry in the Hamas-run Gaza, Ashraf Al-Qidra, sa
 
 ---
 
-### வெலிகமவில் துப்பாக்கிச் சூடு
+### Firing at Weligama
 
 *2024-05-27 09:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/184569) · `ta`
 
-மாத்தறை மாவட்டத்தில் வெலிகம பிரதேச செயலகத்திற்குட்பட்ட படவல பத்தேகம பகுதியிலுள்ள பாலர் பாடசாலைக்கு அருகில் துப்பாக்கிச் சூட்டு சம்பவம் ஒன்று இடம்பெற்றுள்ளது.
+In Weligama, near a preschool, a shooting occurred without causing injuries. The suspect was targeted, possibly linked to a prior incident.
 
-முன்பு இடம்பெற்ற துப்பாக்கிச் சூடு சம்பவத்துடன் தொடர்புடைய சந்தேக நபர் ஒருவரே  இலக்கு வைக்கப்பட்டுள்ளதோடு, சம்பவத்தில் காயங்கள் எதுவும் ஏற்படவில்லை எனவும் தகவல்கள் வெளியாகியுள்ளது.
+🟩
+
+A shooting incident took place near the preschool in Badalakama area in the Weligama Divisional Secretariat in Matara district.
+
+It has been reported that the suspect has been targeted in connection with the previous shooting and no injuries were reported.
 
 ◼️
 
 [Data](articles/0a8309a3.json)
 
+[Extended Data](ext_articles/0a8309a3.ext.json)
+
 ---
 
-### நடுவானில் கடுமையாக குலுங்கிய மற்றுமொரு விமானம் - 12 பேர் காயம்
+### Another flight that was severely shaken in the middle of the middle - 12 injured
 
 *2024-05-27 09:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/184567) · `ta`
 
-கட்டார் தலைநகர் தோஹாவில் இருந்து அயர்லாந்தின் தலைநகர் டப்ளின் நோக்கி பயணித்த விமானம் ஞாயிற்றுக்கிழமை (26) குலுங்கியதால் 12 பேர் காயமடைந்துள்ளனர்.
+A Qatar Airways flight from Doha to Dublin experienced severe turbulence, injuring 12 passengers, including one fatality. The plane, QR017, managed a safe landing in Dublin, where it was met by emergency services. This incident follows another flight where 104 passengers were injured on March 21st.
 
-கட்டா  விமான நிறுவனத்திற்குச் சொந்தமான QR017 என்ற விமானம் ஒன்று தோஹா நகரில் இருந்து டப்ளின் நகருக்கு  விமானம் துருக்கி நாட்டின் ஊடாக பயணித்த போது குலுங்கியதாக டப்ளின் விமான நிலையம் தெரிவித்துள்ளது.
+🟩
 
-இருப்பினும், டப்ளின் நகரில் விமானம் பத்திரமாக தரையிறங்கியுள்ளது. இதனையடுத்து விமான நிலையத்தில் தீயணைப்புத்துறையினர் மற்றும் மீட்புத்துறையினர் தயார் நிலையில் இருந்தனர்.
+12 people were injured when a plane traveling from Qatar's capital to Dublin, Ireland's capital, shook on Sunday (26).
 
-தொடர்ந்து விமானம் தரையிறங்கியவுடன் 6 விமான ஊழியர்கள் மற்றம் ஆறு பயணிகள் என மொத்தம் 12 பேர்  வைத்தியசாலைக்கு அனுப்பி கொண்டுசெல்லப்பட்டுள்ளார்கள்.
+A plane from QR017 owned by Kata Airlines was shocked when the plane from Doha was traveling through Turkey.
 
-இதேவேளை, கடந்த 21 ஆம் திகதி சிங்கப்பூர் விமான நிறுவனத்திற்குச் சொந்தமான விமானம் ஒன்று கடுமையாக குலுங்கியதால் ஒருவர் உயிரிழந்ததோடு, 104 பயணிகள் காயமடைந்தமை குறிப்பிடத்தக்கது.
+However, the aircraft has landed safely in Dublin. Subsequently, firefighters and rescue officials were ready at the airport.
+
+After the plane landed, a total of 12 people were taken to the hospital, including six passengers and six passengers.
+
+Meanwhile, one person died and injured 104 passengers on the 21st of this month.
 
 ◼️
 
 [Data](articles/4f52312b.json)
 
+[Extended Data](ext_articles/4f52312b.ext.json)
+
 ---
 
-### அஹுங்கல்ல துப்பாக்கிச் சூட்டு சம்பவத்துடன் தொடர்புடைய சந்தேகநபர் கைது !
+### Suspect arrested in connection with Ahungalla shooting
 
 *2024-05-27 09:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/184568) · `ta`
 
-அஹுங்கல்ல துப்பாக்கிச் சூட்டு சம்பவத்துடன் தொடர்புடைய சந்தேகநபர் ஒருவர் கைது செய்யப்பட்டுள்ளாதாக பொலிஸார் தெரிவித்துள்ளனர்.
+A suspect linked to the Ahungalla shooting was arrested by Kosgoda police, seizing 31 grams of heroin. The incident involved two unidentified men on a motorbike who broke into a house and killed a man near Ahungalla police division.
 
-கொஸ்கொடை பொலிஸாரினால் நேற்று ஞாயிற்றுக்கிழமை (26) பெந்தர கஹ்பிலியாகந்த பிரதேசத்தில் வைத்து சந்தேக நபர் கைது செய்யப்பட்டுள்ளார்.
+🟩
 
-இதன் போது, சந்தேகநபரிடமிருந்து 03 கிராம் 410 மில்லிகிராம் ஹெரோயின்  போதைப்பொருள்  கைப்பற்றப்பட்டுள்ளதாக  பொலிஸார் தெரிவித்துள்ளனர்.
+Police have arrested a suspect in connection with the Ahungalla shooting incident.
 
-மேலும், கடந்த 08ஆம் திகதி அஹுங்கல்ல பொலிஸ் பிரிவிற்குட்பட்ட  அஹுங்கல்ல  போகஹாபிட்டிய பிரதேசத்தில்  மோட்டார் சைக்கிளில் சென்ற இனந்தெரியாத இருவர் வீடொன்றிற்குள் அத்துமீறி நுழைந்து அங்கிருந்த நபரொருவரை சுட்டுக் கொலை செய்துள்ளமை குறிப்பிடத்தக்கது.
+The suspect was arrested by the Koskoda police on Sunday (26) in Bender Kahpiliyakanda.
+
+During this time, police said that 31 grams of 410 milligrams of heroin had been seized from the suspect.
+
+Also, on the 08th of last month, two unidentified men who riding a motorbike in the Ahungalla police division, belonging to the Ahungalla police division, have broken into a house and shot dead a man.
 
 ◼️
 
 [Data](articles/69ea98d3.json)
+
+[Extended Data](ext_articles/69ea98d3.ext.json)
 
 ---
 
@@ -364,19 +470,27 @@ With a maximum of 26 per cent of the arrival in India, 11 percent from the Maldi
 
 ---
 
-### ඉන්දියාවේ විරෝ‍‍‍ධයක් නිසා දිනේෂ් ප්‍රියන්තට ක්‍රිඩාවෙන් විශ්‍රාම ගන්න වෙලා
+### Dinesh Priyantha has to retire from play of India
 
 *2024-05-27 09:13:10* · [`adalk`](https://www.ada.lk/sports/ඉන්දියාවේ-විරෝ‍‍‍ධයක්-නිසා-දිනේෂ්-ප්‍රියන්තට-ක්‍රිඩාවෙන්-විශ්‍රාම-ගන්න-වෙලා/9-409834) · `si`
 
-ඉන්දියාව විසින් තමන්ට එරෙහි වන ක්‍රීඩකයන්ට එරෙහිව ඉදිරිපත්  කළ විරෝධතාව නිසා ශ්‍රී ලාංකික පැරා ඔලිම්පික් ක්‍රීඩක දිනේෂ් ප්‍රියන්තට , ඔහු දිනා ගත් රිදී පදක්කම සහ 2024 පැරිස් ඔලිම්පික් තරගාවලියට යෑමේ සුදුසුකම අහිමි වී , ඔහුට සිය ක්‍රීඩා දිවියෙන් ද සමු ගැනීමට සිදු වී ඇති බව ශ්‍රී ලංකා ජාතික පැරා ඔලිම්පික් කමිටුවේ සභාපති කර්නල් දීපාල් හේරත් මහතා 05/26 දින රාත්‍රී කටුනායක ගුවන් තොටුපොළ විශේෂ අමුත්තන්ගේ මැදිරිය තුළ දී ප්‍රකාශ කළේය .
+Dinesh Priyantha, a Sri Lankan Para Olympic athlete, loses eligibility due to a dispute over his medical condition, affecting his participation in the 2024 Paris Olympics. Despite winning multiple world and Asian championships, the Medical Council of the International Paralympics Association questions his ability to compete effectively. This decision, based on video evidence, impacts his career and future prospects in sports.
 
-ශ්‍රී ලාංකික පැරා ඔලිම්පික් ක්‍රීඩක  දිනේෂ් ප්‍රියන්ත මීට පෙර පැරා ඔලිම්පික් තරගාවලි දෙකක දී , ලෝක ශූරතා තරගාවලි දෙකක දී සහ ආසියානු තරගාවලි තුනක දී ශ්‍රී ලංකාවට රන් පදක්කම් දිනා දීමට සමත් වූ ක්‍රීඩකයෙකු බව ද දීපාල් හේරත් මහතා පැවසීය .
+🟩
 
-ඔහු 2014 වසරේ සිට ජාත්‍යන්තර පැරා ඔලිම්පික් මළළ ක්‍රීඩා සංගමයේ වෛද්‍ය සභාව විසින් අත් ආබාධිත  එෆ්.- 46 කාණ්ඩය යටතේ  තරග කිරීම සදහා සුදුසුකම් සපුරා ඇති ක්‍රීඩකයෙකු බවට සනාථ කර ස්ථිර කර සිටි ක්‍රීඩකයෙකු බව ද සභාපතිවරයා පැවසීය .
+Sri Lankan Para Olympic Player Dinesh Priyantha has lost the eligibility of the silver and the discovery of the 824 Paris Olympic Games against India.The committee Chairman Colonel Deepal Herath stated in the special visitors of the Katunayake airport on the night of 5/26.
+
+Sri Lankan Para Olympic athletic Dinesh Priyantha is a player who has won two World Championships and three World Championships in two World Championships and three in Asian tournaments.
+
+He said that he was a player who has confirmed to be confirmed by the Medical Council of the International Paralympics Association of International Paralympics Association from 2014.
+
+The Chairman of the National Para The Olympic Committee said that he had continued to engage in the lower section of he had been engaged in a daily part of 2014 and had a healing of the lower part of his hand.He added that the protest had been made against Dinesh Priyantha depositing them.
 
 ...
 
 [Data](articles/6dfbfbbb.json)
+
+[Extended Data](ext_articles/6dfbfbbb.ext.json)
 
 ---
 
@@ -1356,6 +1470,22 @@ Strategically situated at No. 734B, New Parliament Road, Pelawatta, Battaramulla
 
 ---
 
+### Can Ranil  Wickremesinghe  Regain the Support of Tamil and Muslim Voters at the 2024 Presidential Elections?
+
+*2024-05-27 00:54:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84070) · `en`
+
+Sri Lanka’s last official census was taken in 2012. According to that census, Sri Lanka’s majority ethnic community the Sinhalese comprises 74.9 % of the island nation’s population.  Numerically, the second largest ethnicity is the Sri Lankan Tamils who are 11.1% of the population. The third largest ethnicity is the Sri Lankan Muslims or Moors who comprise 9.3% of the population. The fourth largest ethnic group is the Tamils of  Indian origin known as “Malaiyagath Thamizhar” (Hill Country Tamils) who are 4.1%.
+
+The three numerical minorities namely the Sri Lankan Tamils, Muslims and Indian Tamils together are 25.5% of the population. These three ethnic groups form the majority in some Sri Lankan districts. In other districts they are a substantive segment of the population. Since the people of all districts vote together in the Presidential elections, the entire island is transformed into a “single” constituency with a 74.9% Sinhala majority and 25.5 % non – Sinhala minorities.
+
+...
+
+[Data](articles/008ff134.json)
+
+[Extended Data](ext_articles/008ff134.ext.json)
+
+---
+
 ### Two Carson’s Group firms announce Rs. 288 m share repurchase
 
 *2024-05-27 00:53:32* · [`dailyftlk`](https://www.ft.lk/business/Two-Carson-s-Group-firms-announce-Rs-288-m-share-repurchase/34-762183) · `en`
@@ -1950,15 +2080,15 @@ Meanwhile, Sri Lanka finished with one Silver Medal and two Bronze Medals at the
 
 ---
 
-### 
+### Gnanasara Thera was able to say and do anything without fear of the law during the Rajapaksa regime. During the reign of the Rajapaksas, Gnanasara Thera criticised   Ranil Wickremesinghe in words that are Unmentionable.The Thera was so useful to the Rajapaksas that he was appointed  head of a  Presidential Task Force.
 
 *2024-05-26 21:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84101) · `en`
-
-Gnanasara Thera was able to say and do anything without fear of the law during the Rajapaksa regime. During the reign of the Rajapaksas, Gnanasara Thera criticised   Ranil Wickremesinghe in words that are Unmentionable.The Thera was so useful to the Rajapaksas that he was appointed  head of a  Presidential Task Force.
 
 When the Colombo High Court sent Bodu Bala Sena (BBS) General Secretary Ven. Galagoda Aththe Gnanasara Thera to prison two months ago, it was not unexpected that intense efforts would be made to get him out as soon as possible.
 
 The Chief Prelates of Sri Lanka’s three main Buddhist chapters have jointly written to President Ranil Wickremesinghe to pardon and release him on the occasion of the Vesak festival. The day after this news was published, it was also reported that Gnanasara Thera’s name was not in the list of prisoners to be released on the occasion of Vesak. So it doesn’t seem possible for him to come out soon.
+
+If someone else had been the president, perhaps Gnanasara Thera would have been released from prison last week. But it seems unlikely that the current President will show any urgency in this matter. During the reign of the Rajapaksas, Gnanasara Thera criticised Wickremesinghe in words that cannot be put in writing.
 
 ...
 
@@ -2023,131 +2153,5 @@ There are, of course, multiple interpretations to these (unprecedented) numbers 
 [Data](articles/72013142.json)
 
 [Extended Data](ext_articles/72013142.ext.json)
-
----
-
-### Rimal is another
-
-*2024-05-26 20:56:17* · [`adalk`](https://www.ada.lk/breaking_news/රිමාල්-තවත්-සැර-වෙයි/11-409831) · `si`
-
-A deep depression over the Bay of Bengal is developing into a storm, affecting the southeastern Arabian Sea and the Bay of Bengal. The Meteorological Department advises against sailing in these areas due to high winds. Fishing vessels are urged to seek shelter or return to port. The storm is expected to move towards the coast of Bangladesh by midnight and the windy conditions will persist into tomorrow.
-
-🟩
-
-The deeper pressure depression that has the Bay of Bengal is almost a small storm today (26).
-
-The Department of Meteorology also said that the speed of the wind is in the southeastern Arabian Sea, in the Bay of Bay of Bay of Bay and the Bay of Bay of Bengal.
-
-Department of Meteorologies informs the fishing community not to sail until the sea areas. Director of Fisheries Ministry said that he had informed all the vessels to leave the risk zone. Further, a fishery vessel is in that region, he calls for safe areas or to land.
-
-The Met Department said that the existing hurricanes will move north to the coast of Bangladesh today (26) by midnight today (26).. The Winds Department of Meteorology says that the wind condition will continue tomorrow (28).
-
-◼️
-
-[Data](articles/e784199d.json)
-
-[Extended Data](ext_articles/e784199d.ext.json)
-
----
-
-### Rejection of a Buddha statue arrested
-
-*2024-05-26 20:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197039) · `si`
-
-A man attempting to sell an ancient Buddha statue to foreigners was arrested under the Walana Central Anti-Corruption Commission's mission. The statue, believed to have been consecrated by King Sri Wickrema Rajasinghe to the Sambuddha Sasana, stands five feet tall and is considered significant.
-
-🟩
-
-A person who was preparing to sell an ancient Buddha to a foreigner.
-
-The Meakapura has been arrested in a missionary system of the Walana Central Anti-Corruption French.
-
-It has been revealed that a five-foot height and heavy Buddha statue was prepared to sell a foreigner for Rs.
-
-The Buddha statue is considered sacrificed by King Sri Wickrema Rajasinghe to the Sambuddha Sasana.
-
-◼️
-
-[Data](articles/28d958ad.json)
-
-[Extended Data](ext_articles/28d958ad.ext.json)
-
----
-
-### Jeevan, who met the plantation people affected by inclement weather, has to carry out renovation work at a cost of Rs 40 million
-
-*2024-05-26 20:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/184559) · `ta`
-
-After visiting plantation areas hit by bad weather, Minister Jeevan Thondaman pledged Rs 40 million for renovations. He discussed wages with workers and led efforts to aid affected communities in Bogawatta, Akkarapathana, Bodis, Sanjimalai, and Bogawantalawa.
-
-🟩
-
-Due to the inclement weather in the country on the 26th of the hill plantation areas. On Sunday, the General Secretary of the Congress Congress Congress and Water Supply and Estate Infrastructure Development Minister Jeevan Thondaman visited.
-
-During this time, he visited the affected people in Bogawatta, Akkarapathana, Bodis, Sanjimalai and Bogawantalawa areas of Dionin and Kembian.
-
-Minister Jeevan Thondaman, who met the plantation workers, also discussed the salary of 1700 rupees.
-
-He directed the Plantation Human Resources Development Institute to immediately carry out the reconstruction work at a cost of Rs.
-
-...
-
-[Data](articles/baa13868.json)
-
-[Extended Data](ext_articles/baa13868.ext.json)
-
----
-
-### A story that is sad about 7 elephants found in the same place
-
-*2024-05-26 20:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197038) · `si`
-
-Seven wild elephants, including juveniles and adults, were found dead in the Handapanwila Willa of the Polonnaruwa National Park, likely victims of a landslide triggered by heavy rain. This tragedy occurred amidst widespread adverse weather conditions affecting several districts, leading to landslides, flooding, and damage to properties. The situation underscores the vulnerability of wildlife to natural disasters and the urgent need for conservation efforts and disaster preparedness in affected areas.
-
-🟩
-
-The bodies of seven wild elephants have been found in the Handapanwila Willa, Handapanwila Willa in the Polonnaruwa National Park.
-
-The deceased has been identified as five aged agents between 8 and 10 years and two elephants aged between 30 and 35 years.
-
-Wildlife officials say that the Wildlife Namage National Park is a swarle of wild elephants to be shifted across the Canal and has been drowned and killed by the mud.
-
-Meanwhile, the stones above the main road in the lower Kadugannawa area of ​​the lower Kadugannawa area of ​​Mawanella, the stones are immediately removed.
-
-The officers of the Kegalle District Disaster Unit had taken steps to fixtinate the billboards.
-
-Landslide warnings released in Colombo, Gampaha, Kalutara, Kandy, Kegalle, Nuwara Eliya and Ratnapura districts are further impacted.
-
-Meanwhile, the number of deaths due to inclement weather has increased to 9.
-
-...
-
-[Data](articles/d821779f.json)
-
-[Extended Data](ext_articles/d821779f.ext.json)
-
----
-
-### Strong winds switch off 467,500 Sri Lanka electricity customers
-
-*2024-05-26 20:10:00* · [`economynextcom`](https://economynext.com/strong-winds-switch-off-467500-sri-lanka-electricity-customers-164810/) · `en`
-
-ECONOMYNEXT – Strong winds and pouring rains which brought down trees, triggered floods and landslides have cut off power to 467,500 electricity users over the past week, state-run Ceylon Electricity Board said.
-
-By May 26 afternoon, power has been restored to about 425,000 customers.
-
-From May 21 to 26, 26,700 breakdowns have been fixed, the CEB said.
-
-“CEB management and staff are working around the clock to restore power to all affected consumer,” a CEB statement said.
-
-The CEB had received around 61,000 breakdown complaints and new ones still coming in.
-
-Separately the CEB’s Engineers Union said unfilled vacancies and abolishing some maintenance engineering positions had led to delays in restoring power and could in the future also affect safety and customer service levels. (Colombo/May26/2024)
-
-◼️
-
-[Data](articles/bb2c4936.json)
-
-[Extended Data](ext_articles/bb2c4936.ext.json)
 
 ---

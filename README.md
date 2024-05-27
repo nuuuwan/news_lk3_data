@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-27 18:23:58**
+As of **2024-05-27 18:35:19**
 
 ## Newspaper Stats
 
-*Scraped **26,616** Articles*
+*Scraped **26,619** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,18 +15,18 @@ newsfirstlk | 363
 islandlk | 1,442
 economynextcom | 1,525
 dailyftlk | 1,550
-adalk | 2,265
+adalk | 2,266
 adaderanalk | 3,048
 tamilmirrorlk | 3,123
 virakesarilk | 4,070
-dailymirrorlk | 4,197
+dailymirrorlk | 4,199
 adaderanasinhalalk | 4,266
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,611 (100.0%) of 26,616 articles have been extended.
+26,616 (100.0%) of 26,619 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,55 +50,75 @@ The High Commissioner has later distributed school bags among children while vis
 
 [Data](articles/0f7ec811.json)
 
+[Extended Data](ext_articles/0f7ec811.ext.json)
+
 ---
 
-### மரக்கறி விலைகள்  மழையுடன் எகிறியது
+### Vegetable prices rise with rain
 
 *2024-05-27 17:57:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மரக்கறி-விலைகள்-மழையுடன்-எகிறியது/76-337992) · `ta`
 
-நாடளாவிய ரீதியில் நிலவும் சீரற்ற காலநிலை காரணமாக   மரக்கறிகளின் விலைகள் அதிகரித்து வருவதாக   பிரதேச மரக்கறி விற்பனையாளர்கள் தெரிவிக்கின்றனர்.
+Inclement weather nationwide has led to a rise in vegetable prices, affecting both farmers' harvests and consumers' budgets. Retail prices for vegetables like Murunga Kai and eggplant have increased, causing dissatisfaction among consumers and restaurant owners alike.
 
-தற்போது பெய்து வரும் மழையால் காய்கறி விவசாயம் கடுமையாக பாதிக்கப்பட்டுள்ளதால், தேவைக்கு ஏற்ற வகையில் அறுவடை இல்லாததால், காய்கறி விலை உயர்ந்துள்ளதாக வியாபாரிகள் தெரிவித்தனர்.
+🟩
 
-சில்லரை விற்பனையில் ஒரு கிலோ கிராம் போஞ்சி ரூ.480, முருங்கை காய் ரூ.720, கேரட் ரூ.240,   மிளகாய் ரூ.440, பீட்ரூட் ரூ.400, தக்காளி ரூ.240, பச்சை மிளகாய் ரூ.400, புடலங்காய்  ரூ.320,  பூசணி ரூ.160, கத்தரிக்காய் ரூ.240, முட்டைகோஸ் ரூ.240, வெண்டைக்காய் ரூ.400, மரவள்ளி கிழங்கு ரூ.200 என  விற்பனை செய்யப்படுகிறது.
+Due to the inclement weather across the country, the prices of vegetables are increasing, the area vegetable vendors say.
 
-காய்கறிகளின் விலை உயர்வால் நுகர்வோர் மற்றும் உணவக உரிமையாளர்கள் கடும் அதிருப்தி அடைந்துள்ளனர்.
+Vegetable agriculture has been severely affected by the current rains, and vegetable prices have risen due to lack of harvest.
+
+Retail sales Rs. 480, Murunga Kai Rs.160, eggplant Rs.
+
+Consumers and restaurant owners are very dissatisfied with the rise in vegetable prices.
 
 ◼️
 
 [Data](articles/cdfec57a.json)
 
+[Extended Data](ext_articles/cdfec57a.ext.json)
+
 ---
 
-### சம்பள உயர்வுக்கு முதலாளிமார் சம்மேளம் எதிர்ப்பு
+### Resistance to Employers Federation for Salary Increase
 
 *2024-05-27 17:38:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/சம்பள-உயர்வுக்கு-முதலாளிமார்-சம்மேளம்-எதிர்ப்பு/76-337990) · `ta`
 
-தேயிலை மற்றும் இறப்பர் துறைகளில் தொழில் புரியும் தோட்டத் தொழிலாளர்களின் குறைந்தபட்ச சம்பளத்தை முன்னெப்போதும் இல்லாத வகையில் 70 சதவீதத்தில் உயர்த்துவதற்கான அரசாங்கத்தின் தீர்மானத்துக்கு முதலாளிமார் சம்மேளனம் எதிர்ப்புத் தெரிவித்துள்ளது.
+The Employers Federation opposes the government's plan to raise the minimum wage for plantation workers in tea and rubber by 70%, citing concerns during a media briefing in Colombo.
 
-கொழும்பு- ரேணுகா ஹோட்டலில்  திங்கட்கிழமை (27) இடம்பெற்ற ஊடகவியலாளர் சந்திப்பில் கலந்துகொண்டு கருத்துரைத்த போதே, முதலாளிமார் சம்மேளன பிரதிநிகள் மேற்கண்டவாறு குறிப்பிட்டுள்ளனர்.
+🟩
+
+The Employers Federation has opposed the government's decision to increase the minimum wage of plantation workers in tea and rubber by 70 per cent.
+
+Speaking at a media briefing held at the Colombo-Renuka Hotel on Monday (27).
 
 ◼️
 
 [Data](articles/64f2ef9d.json)
 
+[Extended Data](ext_articles/64f2ef9d.ext.json)
+
 ---
 
-### කොල්ලුපිටියේ  සුපිරි වෙළඳ සංකීර්ණයක කොල්ලයක්
+### A looting at a supermarket in Colpetty
 
 *2024-05-27 17:35:08* · [`adalk`](https://www.ada.lk/breaking_news/කොල්ලුපිටියේ--සුපිරි-වෙළඳ-සංකීර්ණයක-කොල්ලයක්/11-409852) · `si`
 
-කොල්ලුපිටිය ලිබර්ටි ප්ලාසා වෙළඳ සංකීර්ණයට ගිනි අවියක් රැගෙන කඩාවැදුණු නාඳුනන පුද්ගලයෙකු රුපියල් ලක්ෂ 40 කට ආසන්න වටිනාකමින් යුත් දුරකථන අඩංගු බෑගයක් කොල්ලකා පලා ගොස් ඇතැයි කොල්ලුපිටිය පොලිසිය කියයි.
+In Colpetty, a supermarket was robbed; a suspect fled with a bag containing firearms. A worker is under suspicion. CCTV captured the incident, now being investigated by Kollupitiya Police's OIC, Mr. Elunayake.
 
-පැමිනි පුද්ගලයා පිස්තෝල වර්ගයේ අවියක් පෙන්වා මෙම කොල්ලය සිදුකර යතුරු පැදියක නැගී පලා ගොස් තිබූ බව
+🟩
 
-මෙම කොල්ලකෑම සම්බන්ධයෙන් එම ආයතනයේ සේවය කරනු ලබන පුද්ගලයෙක් සම්බන්ධයෙන්ද සැකයක් හටගෙන ඇතැයි උසස් පොලිස් නිලධාරියෙක් පැවසීය.
+Kollupitiya Police say that a stranger has fled the bag with a firearm with a firearm with a firearm with a firearm with a firearm with a firearm.
 
-අදාළ කොල්ලය සීසී ටීවී  කැමරාවකද සටහන් වේ. කොල්ලුපිටිය පොලිසියේ ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක  එච් එල් දුෂ්මන්ත මහතාගේ උපදෙස් මත පරීක්ෂණ පවත්වයි.
+The person who had pistols showed a pistol type of pistol
+
+A suspicion has also been suspected of a person who works in the company regarding the robbery.
+
+The loot is also recorded at CC TV camera. The OIC of the Kollupitiya Police is investigating the instructions of Mr. Elunayake.
 
 ◼️
 
 [Data](articles/c7900a2e.json)
+
+[Extended Data](ext_articles/c7900a2e.ext.json)
 
 ---
 
@@ -214,17 +234,23 @@ They have been doing many things in violation of the Indian Sri Lanka Accord.
 
 ---
 
-### අවුරා ලංකා සභාපතිට ඇප
+### Learning bail to Sri Lanka chairman
 
 *2024-05-27 17:15:26* · [`adalk`](https://www.ada.lk/breaking_news/අවුරා-ලංකා-සභාපතිට-ඇප/11-409850) · `si`
 
-මූල්‍ය වංචාවක් සම්බන්ධයෙන් අත්අඩංගුවට ගෙන රක්ෂිත බන්ධනාගාර ගත කර සිටි අවුරා ලංකා සමාගමේ සභාපති විරංජිත් තාබුගල ඇප මත මුදා හැරීමට කොළඹ අතිරේක මහේස්ත්‍රාත් අධිකරණය අද (27දා) නියෝග කළේය.
+The Colombo Additional Magistrate's Court released Dr. Delhimbal, the Chairman of Sri Lanka, from custody after he was remanded on charges investigated by the Criminal Investigation Division. He was granted bail amounting to Rs.
 
-අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ මූල්‍ය අපරාධ විමර්ශන කොට්ඨාසය මගින් අත්අඩංගුවට ගෙන අධිකරණයට ඉදිරිපත් කිරීමෙන් පසුව පසුගිය 22වැනි දින තාඹගල මහතා රක්ෂිත බන්ධනාගාරගත කෙරිණි. සැකකරුට රුපියල් ලක්ෂ 100 බැගින් වූ ශරීර ඇප දෙකක් නියම කෙරිණි.
+🟩
+
+The Colombo Additional Magistrate's Court today (27) ordered the release of Sri Lanka Chairman of Sri Lanka to release the Chairman of Sri Lanka.
+
+Dr. Delhimbal was remanded on the 22nd following the Criminal Investigation Division of the Criminal Investigation Division.. The suspect was set two bail of Rs.
 
 ◼️
 
 [Data](articles/08913843.json)
+
+[Extended Data](ext_articles/08913843.ext.json)
 
 ---
 
@@ -299,6 +325,20 @@ Banking stocks fared poorly in the day. With the exception of Hatton National Ba
 [Data](articles/771c378a.json)
 
 [Extended Data](ext_articles/771c378a.ext.json)
+
+---
+
+### Do not ventrure out to sea for next three days
+
+*2024-05-27 17:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Do-not-ventrure-out-to-sea-for-next-three-days/108-283453) · `en`
+
+Colombo, May 7 (Daily Mirror) - Due to very rough seas, the Naval and multi-day fishing communities are advised not to venture into tje Bay of Bengal and Arabian Sea areas for the next three days, the Marine Forecasting Division of the National Meteorological Centre said.
+
+They said the wind speed will be 70 kmph gusting up to 80 kmph.
+
+◼️
+
+[Data](articles/e6f08519.json)
 
 ---
 
@@ -1980,6 +2020,24 @@ The Mawbima Janatha Party (MJP), the Democratic Left Front, the Communist Party 
 
 ---
 
+### Wimal, Udaya, Channa Jayasumana form new political movement
+
+*2024-05-27 12:18:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Wimal-Udaya-Channa-Jayasumana-form-new-political-movement/108-283436) · `en`
+
+Colombo, May 27 (Daily Mirror) - Several political parties including the National Freedom Front (NFF) led by MP Wimal Weerawansa, Pivithuru Hela Urumaya (PHU) led by MP Udaya Gammanpila and several civil organisations formed a new political movement named ‘Sarvajana Balaya’ this morning.
+
+They signed the agreement to form the movement at a ceremony held in Colombo last morning.
+
+The Mawbima Janatha Party (MJP), the Democratic Left Front, the Communist Party and the Independent MP’s Forum led by MP Channa Jayasumana are among the other political groups which signed the agreement.
+
+General Secretary of the Communist Party G. Weerasinghe, Chairman of Yuthukama organisation, Gevindu Kumaratunga, Deputy General Secretary of the Democratic Left Front and Mawbima Janatha Party (MJP) leader Dilith Jayaweera were other signatories.
+
+◼️
+
+[Data](articles/f0d33325.json)
+
+---
+
 ### An important announcement for vehicles attending the Katunayake airport
 
 *2024-05-27 12:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197062) · `si`
@@ -2023,6 +2081,24 @@ Director General of the World Animal Health Organization. At the invitation of H
 [Data](articles/2b22e6d9.json)
 
 [Extended Data](ext_articles/2b22e6d9.ext.json)
+
+---
+
+### වැස්ස නිසා එළවළු මිල ඉහ‍ල‍ට
+
+*2024-05-27 12:12:51* · [`adalk`](https://www.ada.lk/breaking_news/වැස්ස-නිසා-එළවළු-මිල-ඉහ‍ල‍ට/11-409840) · `si`
+
+දිවයින පුරා පවතින දැඩි අයහපත් කාලගුණයත් සමග පහල බැස තිබු එලවළු මිල ඉහල යමින් පවතින බව හැටන් ප්‍රදේශයේ එලවළු වෙලෙදුන් කියා සිටියි.
+
+පවතින වර්ෂාවත් සමග එලවළු වගාවට දැඩි බලපැමක් එල්ල විම හමුවේ ඉල්ලුමට සරිලන සැපයුමක් නොමැති විම නිසා එලවළු මිල මෙසේ ඉහල ගොස් ඇති බවයි වෙලෙදුන් කියා සිටියේ.
+
+බෝංචි කිලෝවක සිල්ලර මිල රු 480 , මුරුංගා රු 720 , කැරට් රු 240 , මාළු මිරිස් රු 440 , බිට්රුට් රු 400 , තක්කාලි රු 240 , අමු මිරිස් රු 400 , බණ්ඩක්කා රු 240 , පතෝල රු 320 , කරවිල රු 480 , වට්ටක්කා රු 160 , බටු රු 240 , ගෝවා රු 240 , ලික්ස් රු 400 , වැටකොළු රු 400 , මඤ්ඤොක්කා රු 200 , දෙල් ගෙඩියක් රු 300 , දේශිය අර්තාපල් රු 360 , දෙහි රු 1800 , අමු ඉගුරු රු 2500 වශයෙන් අලෙවි කෙරේ.
+
+එලවළු මිල ඉහල යාම හමුවේ පාරිභෝගිකයන් මෙන්ම ආපනශාලා හිමියන්ද දැඩි අසිරුතාවයට පත් වි ඇත.
+
+◼️
+
+[Data](articles/b9aa5ac5.json)
 
 ---
 
@@ -2277,79 +2353,5 @@ The Department of Meteorological Department requests the fisheries and the commu
 [Data](articles/2b8a7e55.json)
 
 [Extended Data](ext_articles/2b8a7e55.ext.json)
-
----
-
-### Shooting near elementary school
-
-*2024-05-27 11:28:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/தென்-மாகாணம்/ஆரம்ப-பாடசாலைக்கு-அருகில்-துப்பாக்கிச்-சூடு/93-337957) · `ta`
-
-A shooting occurred near an elementary school in Matara, targeting police arriving at a junior college. The suspect, identified as Medin Chinthakha or Harak Kata, was arrested earlier but allegedly involved in another shooting. A pistol and bullets were found at the scene, with ongoing investigations by local police.
-
-🟩
-
-Police say the shooting took place on Monday (27) near the primary school in Matara, Weligama, Patalawa and Pathegama model.
-
-Police say they were targeted when they arrived at the Battegama model junior college with two children on a motorbike.
-
-A man from Medin Chinthakha or Harak Kata, who was targeted for the shooting, was arrested on 20.01.2022 and was arrested for allegedly shot dead by a man in Mithigama Turki village.
-
-Police said that the pistol rifle may have been fired and a hollow bullet envelope has been recovered on the road where the shooting was shot.
-
-Mithigama police are conducting further investigations with the Weligama police in connection with the incident.
-
-◼️
-
-[Data](articles/11e8c01d.json)
-
-[Extended Data](ext_articles/11e8c01d.ext.json)
-
----
-
-### Ali Sabri Rahim MP voting
-
-*2024-05-27 11:22:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வடமேல்-வடமத்தி/அலி-சப்ரி-ரஹீம்-எம்-பி-வாக்கு-வாதம்/94-337956) · `ta`
-
-Parliamentarian Ali Sabri Rahim is fighting landlords and brokers attempting to seize land from salt producers in Puttalam, supported by the Salt Producers Association. He's advocating for state-level investigation and action against illegal occupation of government-owned land, facing threats for his efforts.
-
-🟩
-
-Parliamentarian Ali Sabri Rahim has embarked on a landlord against brokers who are trying to burn land belonging to salt producers located on Mannar Road in Puttalam.
-
-புத்தளம் மன்னார் வீதி காணிகள் சம்பந்தமாக பாராளுமன்ற உறுப்பினர் அலிசப்ரி ரஹீம் உப்பு உற்பத்தியாளர் நலன்புரி சங்கத்துடன் இணைந்து பாராளுமன்றத்தில் மற்றும் அமைச்சு மட்டத்தில் எடுக்கப்பட்ட தீவிர நடவடிக்கைகளின் விளைவாக பல சாதகமான விளைவுகள் ஏற்பட்டிருக்கின்றன.
-
-Some anti -social forces, which cannot digest them, have been making many efforts to create chaos for the past several days.
-
-It is reported that there are various anarchy such as intimidating land owners and chasing employees from land.
-
-MP Ali Sabri Rahim, who referred to the arrival of the Divisional Secretary with land brokers, said that it should take steps to investigate the matter at the state level and divide it at the state level.
-
-...
-
-[Data](articles/badfa2d3.json)
-
-[Extended Data](ext_articles/badfa2d3.ext.json)
-
----
-
-### Case against kinship is taken up again
-
-*2024-05-27 11:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197059) · `si`
-
-The Colombo High Court recently sentenced three individuals, including one named 'Beef', in a case plotted by the Criminal Investigation Department. The trial took place under heavy security, with 'Beef' being among the defendants.
-
-🟩
-
-The Colombo High Court sentenced the Attorney General's case against three accused including 'beef' and three accused to be plotted by the Criminal Investigation Department.
-
-The case was called before Colombo High Court Judge Thatwatte today.
-
-The beef has been produced in court in the middle of the heavy security measures.
-
-◼️
-
-[Data](articles/d1dcd089.json)
-
-[Extended Data](ext_articles/d1dcd089.ext.json)
 
 ---

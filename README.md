@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-27 15:52:46**
+As of **2024-05-27 16:05:20**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,259
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,569 (100.0%) of 26,571 articles have been extended.
+26,571 (100.0%) of 26,571 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ They further stated that the main objective of this is to control the arrival of
 ◼️
 
 [Data](articles/4ce9c06b.json)
+
+[Extended Data](ext_articles/4ce9c06b.ext.json)
 
 ---
 
@@ -97,6 +99,8 @@ The storm weakened after it hit the coast with wind speeds of up to 115 kilomete
 ...
 
 [Data](articles/8674bd78.json)
+
+[Extended Data](ext_articles/8674bd78.ext.json)
 
 ---
 

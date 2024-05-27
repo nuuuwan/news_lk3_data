@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-27 17:54:36**
+As of **2024-05-27 18:11:56**
 
 ## Newspaper Stats
 
-*Scraped **26,602** Articles*
+*Scraped **26,611** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 265
 bbccomsinhala | 265
 newsfirstlk | 363
 islandlk | 1,442
-economynextcom | 1,516
+economynextcom | 1,525
 dailyftlk | 1,550
 adalk | 2,263
 adaderanalk | 3,047
@@ -26,103 +26,211 @@ adaderanasinhalalk | 4,266
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,594 (100.0%) of 26,602 articles have been extended.
+26,602 (100.0%) of 26,611 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-27 (Monday)
 
-### කොල්ලුපිටියේ මහදවල් දැවැන්ත කොල්ලයක්
+### Sri Lanka’s Ceylinco Insurance changes name
+
+*2024-05-27 17:34:00* · [`economynextcom`](https://economynext.com/sri-lankas-ceylinco-insurance-changes-name-164980/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Ceylinco Insurance Plc has changed its name to Ceylinco Holdings Plc, the company said in a stock exchange filing.
+
+The largest private sector insurance company in Sri Lanka, the company offers insurance, education, hydropower, healthcare and financial services.
+
+◼️
+
+[Data](articles/5631f185.json)
+
+---
+
+### Colpetty's general robbery
 
 *2024-05-27 17:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197078) · `si`
 
-කොල්ලුපිටිය වෙළෙඳ සංකීර්ණයක වෙළෙඳසැලක කොල්ලයක් සිදුව ඇති බව පොලීසිය පවසයි.
+A robbery occurred at a market in Kollupitiya, where the thief, after breaking into a shop and showing a gun, escaped on a motorcycle, leaving behind a bag filled with money.
 
-එහිදී කොල්ලකරු විසින් රුපියල් ලක්ෂ 40කට ආසන්න ජංගම දුරකථන අඩංගු බෑගයක් කොල්ලකා පළාගොස් ඇති බවට වාර්තාවෙයි.
+🟩
 
-පොලීසිය පවසන්නේ සැකකරු එක්වරම වෙළෙඳසැල වෙත කඩාවැදී ගිනි අවියක් පෙන්වා මෙම කොල්ලය සිදුකර ඇති බවය.
+Police say a robbery had taken place at a Market complex in Kollupitiya.
 
-අනතුරුව සැකකරු යතුරුපැදියක නැගී පළාගොස් ඇති බව පොලීසිය වැඩිදුරටත් පවසයි.
+It is reported that the robber has stirred up a bag containing nearly Rs.
+
+Police say the suspect had broken down the shop at once and showed a firearm.
+
+The suspect had then climbed a motorcycle and fled the police.
 
 ◼️
 
 [Data](articles/417264e3.json)
 
+[Extended Data](ext_articles/417264e3.ext.json)
+
 ---
 
-### රාහුල් ගාන්ධි සමග වේදිකාවක් කඩාවැටෙයි
+### Sri Lanka govt to take over tea estates that don’t increase worker wages
+
+*2024-05-27 17:25:00* · [`economynextcom`](https://economynext.com/sri-lanka-govt-to-take-over-tea-estates-that-dont-increase-worker-wages-164952/) · `en`
+
+ECONOMYNEXT — All estate owners in Sri Lanka should implement the decision to increase the plantation workers’ wages to 1,700 rupees from June and those that fail to do so will be taken over by the government and handed over to others who will manage them properly, Labour Minister Manusha Nanayakkara said.
+
+Small tea estate owners are already paying more than the prescribed minimum wage and there is a problem related to increasing these wages in the regional estate companies which have been transferred to the private sector from the government, a statement from the ministry quoted Nanayakkara as saying.
+
+President Ranil Wickremesinghe has told the cabinet of ministers that a bill must be drafted to take over the estate companies that do not implement the minimum wage and “give them to those who can implement them properly”, the statement said.
+
+...
+
+[Data](articles/0b85eeba.json)
+
+---
+
+### A platform with Rahul Gandhi collapses
 
 *2024-05-27 17:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197077) · `si`
 
-ඉන්දීය කොංග්‍රස් පක්ෂයේ නායක රාහුල් ගාන්ධි එක්වූ රැලියක් අතරතුරදී වේදිකාවක් කඩාවැටී තිබේ.
+During an election rally in Bihar, a platform collapsed while Rahul Gandhi, a leader of the Indian Congress, was present. Fortunately, no injuries were reported. The incident was captured in a video.
 
-ඉන් කිසිවෙකුටත් හානියක් සිදුව නොමැති බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+🟩
 
-බිහාර් ප්‍රාන්තයේ මැතිවරණ ප්‍රචාරක රැලියක් අතරතුරදී මෙම අනතුර සිදුව තිබේ.
+Rahul Gandhi joined the leader of the Indian Congress, Rahul Gandhi joined.
 
-එම අවස්ථාව දැක්වෙන වීඩියෝවක් විදෙස් මාධ්‍ය වාර්තා කර තිබුණේ මේ අයුරින්.
+Foreign media reports that no one has been harmed.
+
+The accident had occurred during an election rally in Bihar.
+
+This is how a video of the event was reported.
 
 ◼️
 
 [Data](articles/deae4878.json)
 
+[Extended Data](ext_articles/deae4878.ext.json)
+
 ---
 
-### நவநாஜிய பாணியிலே பல அரசாங்க துறைகள் இணைந்து பலம்பொருந்தியவர்கள் செல்வாக்கு பொருந்தியவர்களுடன் சேர்ந்து எங்கள் இருப்புகளை குடித்தொகையை மாற்றியமைப்பதற்கும் முயல்கின்றனர்  - பேராசிரியர் பத்மநாதன்
+### Many government departments, along with many government departments, are also trying to change our existence with the influential people - Professor Padmanathan
 
 *2024-05-27 17:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/184634) · `ta`
 
-நவநாஜிய பாணியிலே பல அரசாங்க துறைகள் இணைந்து பலம்பொருந்தியர்வர்கள் செல்வாக்கு பொருந்தியவர்களுடன் இணைந்து அவர்கள் எங்கள் இருப்புகளை குடித்தொகையை மாற்றியமைப்பதற்கும் முயல்கின்றனர்  என தெரிவித்துள்ள பேராசிரியர் பத்மநாதன் மீண்டும் எங்களின் தேசிய உரிமையை எழுச்சியை வளர்க்கவேண்டும். என தெரிவித்துள்ளார்
+Professor Padmanathan criticizes government departments for attempting to alter societal norms, referencing historical injustices and the struggle for self-determination among Tamil communities. He highlights the importance of preserving cultural heritage and advocating for rights through education and awareness.
 
-பேராசிரியர் பத்மநாதனின் ஒரு மறைந்து போன நாகரீகத்தின் தரிசனம் - ஆதி கால யாழ்ப்பாணம் நூல் வெளியீட்டு நிகழ்வு கொழும்பு தமிழ்சங்கத்தில் இடம்பெற்றவேளை ஆற்றிய உரையில் அவர் இதனை தெரிவித்துள்ளார்
+🟩
 
-மற்றவற்றை இறைமை அதிகாரம் சுயநிர்ணய உரிமை இவற்றைதான் பெற்றுக்கொள்ள முடியும் அதுவும் பேச்சுவார்த்தை மூலம் அவசியம். என அவர் குறிப்பிட்டுள்ளார்
+Professor Pathmanathan has said that we are trying to change our existence with many government departments, along with many government departments, in the Navanji style, and they are trying to change our existence.. Said
 
-தமிழ்தேசியத்தின் உற்பத்திக்கு அடிநாதமான மொழிவளக்கும் இடையறாத நிலப்பரப்பும் கிறிஸ்துவிற்கு முதல் நூற்றாண்டிலேயே உருவாகிவிட்டது.
+He said this in a speech delivered by Professor Padmanathan's vision of a disappeared civilization - Adirata Jaffna Jaffna.
 
-19ம் நூற்றாண்டில் சுதந்திரம் கிடைத்த பின்னர் சிங்கள தலைவர்கள் படித்தவர்கள் ஸ்டேட் கவுன்சிலில் இருந்தவர்கள் பக்குவமான குடும்பத்திலிருந்து வந்தவர்கள் தமிழர்கள் ஒரு தேசிய இனம் நாட்டில் ஒரு சமஸ்டி முறையிலான ஆட்சி அமையவேண்டும் என்றார்கள்.
+Others can be obtained by sovereignty power and self -determination.. He has mentioned
+
+In the first century for Christ, the linguistic language and the non -existent territory of the production of Tamil nationalism.
+
+After independence in the 19th century, Sinhala leaders educated, from the State Council, from a mature family, Tamils should be a nationality regime in the country.
+
+When our representatives appealed to the President about a thousand acres of land to a Buddhist Vikramadi, he told the head of the department. I do not need to study this history.
+
+They have been doing many things in violation of the Indian Sri Lanka Accord.
 
 ...
 
 [Data](articles/9882602f.json)
 
+[Extended Data](ext_articles/9882602f.ext.json)
+
 ---
 
-### 2000 பேர்  உயிருடன் புதையுண்டனர்
+### 2000 people alive
 
 *2024-05-27 17:14:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/2000-பேர்-உயிருடன்-புதையுண்டனர்/50-337986) · `ta`
 
-பப்புவா நியூ கினியாவில் கடந்த வெள்ளிக்கிழமை ஏற்பட்ட மிகப் பெரிய நிலச்சரிவில் 2,000-க்கும் அதிகமானோர் உயிருடன் மண்ணுக்குள் புதைந்ததாக அந்நாட்டு பேரிடர் மேலாண்மை துறை ஐ.நா.வுக்கு எழுதிய கடிதத்தில் தெரிவித்துள்ளது.
+A massive landslide in Papua New Guinea buried over 2,000 people alive, causing widespread destruction and difficulty in rescue efforts due to ongoing soil collapses. Initial reports indicated 100 deaths, but fears of thousands more casualties rise as recovery efforts continue, supported by international aid from Australia and the United States.
 
-பசிபிக் பெருங்கடலில் உள்ள பப்புவா நியூ கினியாவில் கடந்த வாரம் பயங்கர நிலச்சரிவு ஏற்பட்டது. இதில், பாறைகளும், மரங்களும் குடியிருப்புகள் மீது விழுந்தன.
+🟩
 
-வீடுகளில் உறங்கிக்கொண்டிருந்த மக்கள் அதில் சிக்கினர். நூற்றுக்கணக்கான வீடுகள் இடிந்து சேதமடைந்தன. நிலச்சரிவில் 100 பேர் பலியானதாக அந்த நாட்டின் அதிகாரிகள் முதலில் தெரிவித்தனர்.
+In a letter to the UN, the country's disaster management department said that more than 2,000 people were buried alive in the largest landslide in Papua New Guinea last Friday.
 
-நேற்று மண்ணில் புதைந்த நிலையில் 5 உடல்கள் மற்றும் இறந்த ஒருவரின் ஒரு காலும் மீட்கப்பட்டன. இந்த நிலையில், எங்கா மாகாணத்தின் காகோலாம் கிராமத்தில் திடீரென நிலச்சரிவு ஏற்பட்டு ஆயிரத்துக்கு மேற்பட்ட வீடுகள் புதையுண்டன.
+Papua New Guinea in the Pacific Ocean. In this, rocks and trees fell on apartments.
 
-மீட்புப் பணிகள் தீவிரம் அடைந்த நிலையில், 2 ஆயிரத்துக்கும் அதிகமனோர் உயிருடன் புதைந்து இருக்கலாம் என அதிகாரிகள் அச்சம் தெரிவித்துள்ளனர். பேரழிவு ஏற்பட்ட எங்கா மாகாணத்தில் மீட்பு பணிகள் தீவிரமாக நடந்து வருகின்றன.
+The people who were sleeping in the houses were trapped in it. Hundreds of houses were demolished and damaged. The country's officials first said that 100 people were killed in the landslide.
+
+5 bodies and one foot of the dead were recovered in the mud yesterday. At this point, more than a thousand houses were buried in the village of Kakolam in the province of Enga.
+
+Officials fear that more than 2 thousand people may be buried alive as rescue operations intensified. Rescue work is underway in the province of the disaster.
 
 ...
 
 [Data](articles/5adfedbc.json)
 
+[Extended Data](ext_articles/5adfedbc.ext.json)
+
 ---
 
-### දුම්රියේ ගැටී තරුණයෙකු මරුට
+### Sri Lanka rupee closes weaker at 300.50/70 to US dollar
+
+*2024-05-27 17:13:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-weaker-at-300-50-70-to-us-dollar-164978/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee depreciated slightly to close at 300.50/70 to the US dollar on Monday, from 300.10/30 the previous week, dealers said. Bond yields were slightly up.
+
+A bond maturing on 15.12.2026 closed up at 9.90/10.05 percent from 9.85/10.00 percent.
+
+A bond maturing on 15.09.2027 closed up at 10.30/40 percent from 10.25/40 percent.
+
+A bond maturing on 01.07.2028 closed up at 10.80/95 percent from 10.70/80 percent.
+
+A bond maturing on 15.01.2030 closed up at 11.60/80 percent from 11.55/70 percent.
+
+A bond maturing on 01.10.2032 closed up at 11.85/12.05 percent from 11.75/90 percent. (Colombo/May27/2024)
+
+◼️
+
+[Data](articles/c08cdb4c.json)
+
+---
+
+### Sri Lanka stocks close down ahead of monetary policy announcement
+
+*2024-05-27 17:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-ahead-of-monetary-policy-announcement-164970/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed down on Monday, data on its site showed.
+
+The broader All Share Index closed down 0.30 percent, or 37.52 points, at 12,311; while the S&P SL20 Index closed down 0.45 percent, or 16.44 points, at 3,650.
+
+Turnover was low at 494 million. This was the lowest since January 18.
+
+“It was a slow day. There’s a wait-and-see approach when it comes to buying because of tomorrow’s monetary policy announcement,” market participants said.
+
+“There’s also a bit of disappointment, like in October-November, that there is a delay in the external debt restructure news and a signing of MoUs with bilateral creditors, so there’s selling pressure too.”
+
+Banking stocks fared poorly in the day. With the exception of Hatton National Bank Plc, which closed up at 198.75, and Sampath Bank Plc which closed up at 78.20, all other banking stocks closed down or flat.
+
+...
+
+[Data](articles/771c378a.json)
+
+---
+
+### Youth dies after collision with train
 
 *2024-05-27 17:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197076) · `si`
 
-කටුකුරුන්ද සහ කළුතර දුම්රිය ස්ථාන අතර දුම්රිය මාර්ගයේ ගමන්කරමින් සිටි තරුණයෙකු දුම්රියක ගැටී මියගොස් තිබේ.
+A 21-year-old youth died after colliding with a train near Katukurunda and Kalutara stations. He was using a mobile phone with a hand-free device while traveling slowly from Aluthgama to Maradana.
 
-මෙලෙස අවාසනාවන්ත ලෙස මියගොස් ඇත්තේ 21 හැවිරිදි වියේ පසුවවන තරුණයෙකි.
+🟩
 
-එම තරුණයා කටුකුරුන්ද දෙස සිට කළුතර දෙසට හෑන්ඩ් ෆ්‍රී උපකරණයක් සවිකර ජංගම දුරකථනයක් භාවිත කරමින් මාර්ගයේ ගමන්කර ඇති බවට දුම්රිය සේවකයින් සඳහන් කර තිබේ.
+A youth who was traveling along the railway line between Katukurunda and Kalutara railway stations were killed and killed.
 
-අලුත්ගම සිට මරදාන බලා ධාවනය වූ මන්දගාමී දුම්රියේ ගැටීමෙන් එම තරුණයා අවාසනාවන්ත ලෙස මියගොස් තිබේ.
+The victim is a 21 year old youth.
+
+Railway employees have said that the young man had traveled with a mobile phone with a Hand Free device towards Kalutara.
+
+The youth was unfortunately due to the slow train traveling from Aluthgama to Maradana.
 
 ◼️
 
 [Data](articles/f00ccfcb.json)
+
+[Extended Data](ext_articles/f00ccfcb.ext.json)
 
 ---
 
@@ -166,39 +274,53 @@ During further questioning of the arrested suspect, it has been revealed that he
 
 ---
 
-### இறுதி கட்டப் படப்பிடிப்பில் கார்த்தியின் 'வா வாத்தியார்'
+### Karthi's 'Vaadavar' in the final phase
 
 *2024-05-27 17:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/184626) · `ta`
 
-கார்த்தி நடிப்பில் தயாராகி வரும் புதிய திரைப்படத்திற்கு 'வா வாத்தியார்' என பெயரிடப்பட்டு, அப்படத்தின் ஃபர்ஸ்ட் லுக் வெளியிடப்பட்டிருக்கிறது.
+"Karthi's 'Vaadiyar', featuring Krithi Shetty, Sathyaraj, and others, is nearing its final phase under Studio Green Company. The first look, released on Karthi's birthday, showcases him in a stylish khaki outfit, heightening fan expectations."
 
-'சூது கவ்வும்', 'காதலும் கடந்து போகும்' ஆகிய படங்களை இயக்கிய இயக்குநர் நலன் குமாரசாமி இயக்கத்தில் உருவாகி வரும் 'வா வாத்தியார்' எனும் திரைப்படத்தில் கார்த்தி, கிருத்தி ஷெட்டி, சத்யராஜ், ராஜ்கிரண், ஜி. எம். குமார் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். ஜோர்ஜ் வில்லியம்ஸ் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு சந்தோஷ் நாராயணன் இசையமைத்திருக்கிறார். இந்த திரைப்படத்தை ஸ்டுடியோ கிரீன் நிறுவனம் சார்பில் தயாரிப்பாளர் கே. ஈ. ஞானவேல் ராஜா தயாரித்திருக்கிறார்.‌
+🟩
 
-இப்படத்தின் இறுதி கட்ட படப்பிடிப்பு நடைபெற்று வருவதாக படக் குழுவினர் தெரிவித்திருக்கிறார்கள். இந்நிலையில் கார்த்தியின் பிறந்த நாளை முன்னிட்டு படத்தின் ஃபர்ஸ்ட் லுக் வெளியிடப்பட்டிருக்கிறது. கார்த்தி காக்கி உடை அணிந்து ஸ்டைலான தோற்றத்தில் தோன்றுவதால் ரசிகர்களிடத்தில் இப்படத்தைப் பற்றிய எதிர்பார்ப்பு அதிகரித்திருக்கிறது.
+The new movie starring Karthi is titled 'Vaadiyar' and the film's first look has been released.
+
+Karthi, Krithi Shetty, Sathyaraj, Rajkran, G.. M.. Many people including Kumar have played. Santosh Narayanan has composed the film, which has been recorded by George Williams. The film was made on behalf of Studio Green Company. E.. Gnanvel is produced by King.
+
+The film crew has said that the final phase of the film is underway. In this case, the first look of the film has been released on Karthi's birthday. The expectation of the film has increased in fans as Karthi is dressed in khaki and looks stylish.
 
 ◼️
 
 [Data](articles/93f6a51f.json)
 
+[Extended Data](ext_articles/93f6a51f.ext.json)
+
 ---
 
-### ஜனாதிபதியின் நிகழ்வை தேர்தல் பரப்புரை நிகழ்வாக நடத்த முயற்சி - எம்.ஏ சுமந்திரன்
+### MA Sumanthiran attempts to hold the president's event as election campaign
 
 *2024-05-27 16:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/184616) · `ta`
 
-ஜனாதிபதியின் வடக்குக்கான விஜயத்தினை சிலர் தேர்தல் பரப்புரை நிகழ்வாக மாற்ற முனைந்தார்கள் என நாடாளுமன்ற உறுப்பினர் ஜனாதிபதி சட்டத்தரணி எம்.ஏ சுமந்திரன் தெரிவித்துள்ளார்.
+MP MA Sumanthiran criticized efforts to politicize President's visits to the North, urging against turning state events into election campaigns. He highlighted participation in various initiatives, including building inaugurations and land distribution to locals, emphasizing the importance of not exploiting these for political gain.
 
-யாழ்.ஊடக அமையத்தில் இன்று திங்கட்கிழமை (27) இடம்பெற்ற ஊடக சந்திப்பின் போதே அவ்வாறு தெரிவித்தார்.
+🟩
 
-ஜனாதிபதி வடமாகாணத்திற்கு விஜயம் செய்து கலந்து கொண்ட சில நிகழ்வுகளில் தமிழ் தேசிய கூட்டமைப்பின் நாடாளுமன்ற உறுப்பினர்கள் சிலர் கலந்து கொண்டிருந்தனர். அந்நிகழ்வுகள் அரச நிகழ்வுகள் ஆகும். அதில் நாடாளுமன்ற உறுப்பினர்கள் கலந்து கொள்ளலாம்.
+Parliamentarian MP MA Sumanthiran said that some people sought to turn the president's visit to the North.
 
-வடமாகாணத்தில் ஜனாதிபதி திறந்து வைத்த வைத்தியசாலைகளில் கட்டடங்கள் வடமாகாண சபையின் முன்னாள் சுகாதார அமைச்சர் பா. சாத்தியலிங்கத்தின் முயற்சியால் அமையப்பெற்றது.
+He said this during a media briefing held at the Jaffna Media Center on Monday (27).
 
-எங்களுடைய வடமாகாண சபையில் , எங்கள் கட்சியை சேர்ந்த முன்னாள் சுகாதார அமைச்சரின் காலத்தில் வந்த திட்டத்தில் அமைக்கப்பட்ட கட்டடங்களின் திறப்பு விழாக்களில் நாங்கள் கலந்து கொண்டோம். வவுனியாவில் நடைபெற்ற நிகழ்வில் முன்னாள் சுகாதார அமைச்சர் சாத்தியலிங்கத்திற்கு பொன்னாடை போர்த்தி கௌரவிப்பு இடம்பெற்றது. அது அமைச்சரின் செயலுக்கு கிடைத்த பாராட்டு ஆகும்.
+Some members of the Tamil National Alliance (TNA) were present at some events where the President visited the Northern Province. The events are state events. Members of Parliament can participate in it.
+
+Former Minister of Health of the Northern Provincial Council Pa.. By the effort of the possibility.
+
+In our Northern Provincial Council, we participated in the inauguration of buildings set up in the project of the former Health Minister of our party.. Former Health Minister Pattalingam Honorable Ponnadi Hon.. It is the appreciation of the minister's actions.
+
+Other events event to hand over land assemblies for people. The people who have been living in those lands for many years have been given the assurance of the land.
 
 ...
 
 [Data](articles/b5283fb6.json)
+
+[Extended Data](ext_articles/b5283fb6.ext.json)
 
 ---
 
@@ -238,21 +360,27 @@ The arrested person has been released on police bail and will be produced before
 
 ---
 
-### கேகாலை மாவட்டத்தில் அடுத்த முறை தமிழ் எம்பி தெரிவாவார் என்ற நம்பிக்கை பிறக்கிறது -  தமுகூ  தலைவர் மனோ கணேசன்
+### The next time the Tamil MP will be elected in the Kegalle district - the leader of the Tamuku leader Mano Ganesan
 
 *2024-05-27 16:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/184620) · `ta`
 
-கேகாலை மாவட்டத்தில் கடந்த தேர்தலில் சில ஆயிரங்களால் கை தவறி போன எம்பி பதவி அடுத்த முறை கைகூடும் என்ற நம்பிக்கை பிறந்துள்ளதாக  தமிழ் முற்போக்கு கூட்டணி தலைவர் மனோ கணேசன் தெரிவித்துள்ளார்.
+Mano Ganesan, leader of the Tamil Progressive Alliance, addressed a conference in Kegalle district, emphasizing the importance of voter turnout to secure the MP seat. He urged attendees not to miss voting due to distractions like movies, highlighting the impact of each vote. Ganesan expressed confidence in securing the MP position through strategic alliances and shared voting plans with supporters.
 
-ஜனநாயக மக்கள் முன்னணியின் கேகாலை மாவட்ட மாநாட்டில் உரையாற்றும் போதே அவர் மேற்கண்டவாறு தெரிவித்துள்ளார்.
+🟩
 
-தமிழ் முற்போக்கு கூட்டணியின் பங்காளி கட்சியான ஜனநாயக மக்கள் முன்னணியின் கேகாலை மாவட்ட மாநாடு, மாவட்ட அமைப்பாளர் பரணீதரன் முருகேசு ஏற்பாட்டில், எட்டியாந்தோட்டையில் தலைவர் மனோ கணேசன் தலைமையில் ஞாயிற்றுக்கிழமை (26) நடை பெற்றது.
+Tamil Progressive Alliance leader Mano Ganesan says that the next time the MP will be able to go hand in hand with a few thousand in the last election in Kegalle district.
 
-கேகாலை ஐக்கிய மக்கள் சக்தி எம்பிகள் கபீர் ஹசீம், சுஜித் பெரேரா, கூட்டணி பிரதி தலைவர்கள் திகாம்பரம், வே. இராதாகிருஷ்ணன் மற்றும் வேலு குமார் எம்பி  ஆகியோர் உட்பட கட்சி, கூட்டணி அரசியல் குழு உறுப்பினர்களும், விசேட அழைப்பாளர்கள், அங்கத்தவர்கள் மாநாட்டில்  கலந்து கொண்டமை குறிப்பிடத்தக்கது.
+He said this while addressing the Democratic People's Front's Kegalle District Conference.
+
+The Kegalle District Conference of the Tamil Progressive Alliance (TNA), the District Conference of the District Organizer Paranitharan Murukesu, was held on Sunday (26) under the patronage of President Mano Ganesan.
+
+United People's Power MPs Kabir Haseem, Sujith Perera, Coalition Deputy Leaders Thikambaram, Way. It is noteworthy that the party, the members of the coalition, including Radhakrishnan and Velu Kumar MP, attended the conference.
 
 ...
 
 [Data](articles/8c0ce547.json)
+
+[Extended Data](ext_articles/8c0ce547.ext.json)
 
 ---
 
@@ -337,6 +465,24 @@ At least half a million people live in homes made of clay, wood, plastic, straw 
 [Data](articles/b5bfa8ef.json)
 
 [Extended Data](ext_articles/b5bfa8ef.ext.json)
+
+---
+
+### Sri Lanka EDB, collaborators to pick 10 pioneering brands for capacity building
+
+*2024-05-27 16:22:00* · [`economynextcom`](https://economynext.com/sri-lanka-edb-collaborators-to-pick-10-pioneering-brands-for-capacity-building-164963/) · `en`
+
+ECONOMYNEXT – The Export Development Board (EDB), Institute for Future Creations (TIFC), London College of Fashion (UAL) and Chamber of Ethical Lifestyle Enterprises (CELE), launched the ‘Creative Sri Lanka 2030’ project to promote ethical, sustainable manufacturing and increase export of value-added, niche products.
+
+As part of this initiative, 10 pioneering Sri Lankan brands will be selected to showcase the nation’s dedication to sustainability, ethical practices, and cultural heritage on a global scale, with support from CELE and Good Life X.
+
+“Chosen for their commitment to ethical standards, sustainability, and social responsibility, these ten brands will undergo a comprehensive capacity-building program,” the EDB said.
+
+The program seeks to promote Sri Lankan crafts internationally and make a significant impact on the local economy by fostering a sustainable business model that benefits artisans and their communities.
+
+...
+
+[Data](articles/1a6eece5.json)
 
 ---
 
@@ -471,6 +617,26 @@ The person who was the target of the shooting is said to be a member of the crim
 [Data](articles/8f6e3f3e.json)
 
 [Extended Data](ext_articles/8f6e3f3e.ext.json)
+
+---
+
+### Sri Lanka fishermen urged not to go to sea due to cyclone Remal
+
+*2024-05-27 15:55:00* · [`economynextcom`](https://economynext.com/sri-lanka-fishermen-urged-not-to-go-to-sea-due-to-cyclone-remal-164946/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Department of Meteorology has warned naval and fishermen communities against venturing into the Arabian Sea and the Bay of Bengal, after cyclone Remal, which was located over the North Bay of Bengal and adjoining West Bengal (India) made landfall this morning.
+
+“Very strong winds (60-70) kmph, accompanied with heavy rainfalls and very rough seas are likely to continue further over the sea areas around the island, Arabian Sea areas and Bay of Bengal Sea areas due to the active south-west monsoonal condition,” it said issuing a warning.
+
+“Naval and fishing communities are advised not to venture into the sea areas marked by RED color on the map above until further notice.”
+
+Those who are out at these sea regions have been advised to return to land or move to safer areas immediately.
+
+The fishing and naval community are requested to be attentive to future forecasts issued by the Department of Meteorology in this regard.
+
+...
+
+[Data](articles/df9665ed.json)
 
 ---
 
@@ -1062,6 +1228,24 @@ Wijayadasa Rajapaksa serves as Minister of Justice and Prints and Constitutional
 
 ---
 
+### IORA Biz Conclave in Sri Lanka to focus on Blue Economy, SMEs
+
+*2024-05-27 13:54:00* · [`economynextcom`](https://economynext.com/iora-biz-conclave-in-sri-lanka-to-focus-on-blue-economy-smes-164933/) · `en`
+
+ECONOMYNEXT – A business conclave of the Indian Ocean Rim Association organized by the Ceylon Chamber of Commerce and the Ministry of Foreign Affairs starting on May 28 will focus on advancing trade and investment, SME development, and the Blue Economy.
+
+Minister of Foreign Affairs Ali Sabry, and Secretary General of the Global Alliance for a Sustainable Planet USA Satya Tripathi will deliver the Keynote Address.
+
+“Increasing climate disasters and severe food insecurity are putting lives at risk. Sustainable finance is crucial for developing countries, especially island nations, to tackle these challenges head-on. Innovative financial approaches and private sector leadership are essential for a sustainable future anchored in climate justice and inclusive growth for all,” Tripathi said.
+
+The event will feature experts in trade, development and sustainability.
+
+...
+
+[Data](articles/34377adb.json)
+
+---
+
 ### Identify 123 leprosy in Vavuniya district
 
 *2024-05-27 13:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/184591) · `ta`
@@ -1292,6 +1476,28 @@ Qatar Airways has been injured when Qatar Airways, which was flying in Ireland f
 
 ---
 
+### Sri Lanka may run out hotel rooms for high-end tourists: Official
+
+*2024-05-27 13:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-may-run-out-hotel-rooms-for-high-end-tourists-official-164883/) · `en`
+
+ECONOMYNEXT – Sri Lanka may run out of hotel rooms for high-spending tourists, by the end of 2025, Chairman of the Sri Lanka Tourism Development Authority, Priyantha Fernando, said.
+
+“If the trend continues by the end of next year, we will be short of rooms,” Fernando told EconomyNext on the sidelines of Sancharaka Udawa, a tourism fair.
+
+“The high-end hotels which are charging over 250-300 dollars per night has been having very high occupancy at very high rates.
+
+“But we will have to match the product with the expectations of the people because right now it’s about 10,500 rooms which we offered for high end tourists island wide.”
+
+Hotels chains like Cinnamon began new ventures such as eco-excursion.
+
+ITC, a new high end recently opened in Colombo and Cinnamon Life is expected to open later in the year.
+
+...
+
+[Data](articles/fe76ef22.json)
+
+---
+
 ### Today in History: 1964 - Nehru's death and Prime Minister Sirima's Delhi
 
 *2024-05-27 13:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/184592) · `ta`
@@ -1377,6 +1583,24 @@ According to Mahara, the operation of the immediate removal of these vulnerabili
 [Data](articles/e2cbbc58.json)
 
 [Extended Data](ext_articles/e2cbbc58.ext.json)
+
+---
+
+### Opposition claims Sri Lanka ruling party wants early parliamentary polls to prevent wipe-out
+
+*2024-05-27 12:46:00* · [`economynextcom`](https://economynext.com/opposition-claims-sri-lanka-ruling-party-wants-early-parliamentary-polls-to-prevent-wipe-out-164916/) · `en`
+
+ECONOMYNEXT — The ruling Sri Lanka Podujana Peramuan (SLPP) wants parliamentary elections first to prevent a wipe-out, main opposition Samagi Jana Balawegaya (SJB) MP Mujibur Rahuman said.
+
+The MP claimed that the SLPP has strategically considered the possibility that President Ranil Wickremesinghe will not win the presidential election scheduled for this year, which is why they are in a hurry to hold the parliamentary polls before.
+
+“But if it’s held after the presidential election, they will be wiped out. They have understood this politically. That’s why they want the parliamentary elections first, so they can get at least 25 seats,” Rahuman said speaking to reporters.
+
+However, government spokesmen continue to be emphatic that a presidential election will be held first. Wickremesinghe himself had said on several occasions, as recently as this week, that parliamentary elections will be held after.
+
+...
+
+[Data](articles/3194e62e.json)
 
 ---
 
@@ -2131,211 +2355,5 @@ The Jathika Nidahas Peramuna (JNP) led by MP Wimal Weerawansa, Pivithuru Hela Ur
 [Data](articles/30b9c3f5.json)
 
 [Extended Data](ext_articles/30b9c3f5.ext.json)
-
----
-
-### Suspect arrested for theft
-
-*2024-05-27 11:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/184574) · `ta`
-
-A suspect was arrested on Sunday night for allegedly stealing from two temples in Jaffna. The Achuveli police apprehended the individual, who is now in custody at the Mallakam Magistrate's Court following further investigation.
-
-🟩
-
-A suspect was arrested on Sunday night (26) night for allegedly theft of a bundle at the Avarangal Shiva temple in Jaffna.
-
-The suspect has been arrested by the Achuveli police while trying to steal the temple and steal in another temple.
-
-The police said that the suspect has been taken to the Mallakam Magistrate's Court after investigations by the police.
-
-◼️
-
-[Data](articles/b9bd0186.json)
-
-[Extended Data](ext_articles/b9bd0186.ext.json)
-
----
-
-### Dilith - Gammanpila and Wimal and several others are allied
-
-*2024-05-27 10:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197058) · `si`
-
-On 27th Soli Power, several political parties and civilian groups formed an alliance. Key signatories include the Mawlanda People's Party, Communist Party, Democratic Left Front, National Dialogue, and MP Channa Jayasumana through the Independent Member Forum. The pact, signed in Colombo, marks the establishment of this political movement.
-
-🟩
-
-Several political parties and several civilian organizations have been established in the 'Soli Power' today (27), a few political parties and civilians.
-
-The Mawlanda People's Party, the Communist Party, the Democratic Left Front, the National dialogue and MP Channa Jayasumana was contracted by the Independential Member Forum.
-
-The written agreement to establish the political movement was signed in Colombo today.
-
-◼️
-
-[Data](articles/3d1b33d6.json)
-
-[Extended Data](ext_articles/3d1b33d6.ext.json)
-
----
-
-### Western, Sabaragamuwa Provinces, Nuwara-Eliya district affected by heavy showers
-
-*2024-05-27 10:43:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Western-Sabaragamuwa-Provinces-Nuwara-Eliya-district-affected-by-heavy-showers/108-283434) · `en`
-
-Colombo, May 27 (Daily Mirror) - The Western and Sabaragamuwa Provinces and the Nuwara-Eliya district were affected by heavy showers above 100 mm during the day, the Natural Hazards Early Warning Centre of the Meteorology Department said.
-
-This is according to the advisory report on heavy rain issued for the Gampaha, Kegalle, Nuwara Eliya, Colombo, Kalutara and Ratnapura districts.
-
-However, the Department said that prevailing rainy and windy conditions are expected to continue further due to the south-west monsoon that has established over the island.
-
-Fairly heavy showers of about 75 mm are likely at some places in the North-Western and Southern Provinces and in the Kandy district.
-
-◼️
-
-[Data](articles/d8697c61.json)
-
-[Extended Data](ext_articles/d8697c61.ext.json)
-
----
-
-### Message for drivers from Colombo - Kandy road tomorrow
-
-*2024-05-27 10:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197057) · `si`
-
-The Colombo-Kandy road will close from 8 AM to 11 AM tomorrow due to removal of debris after a tree fell, blocking the path near Gashoe Quarters.
-
-🟩
-
-The Colombo Kandy main road will be closed for several hours in the lower Kadugannawa tomorrow (28).
-
-Senior Geologist Laksiri Indrayillelan said that the road will be closed from 08.00 am to 10:00 am to 11.00 am.
-
-He added that the route had to be closed to remove the Gashoe Quarters, as a tree was removed by two rock blocks near the tree.
-
-◼️
-
-[Data](articles/73b95451.json)
-
-[Extended Data](ext_articles/73b95451.ext.json)
-
----
-
-### Applications for Grade 5 Scholarship Exam accepted from today
-
-*2024-05-27 10:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/99458/applications-for-grade-5-scholarship-exam-accepted-from-today-) · `en`
-
-The Commissioner General of Examinations, Amith Jayasundara stated that applications for the 2024 Grade 5 Scholarship Examination will be accepted online from today (27) onwards.
-
-Accordingly, online applications for the exam will be accepted until June 14.
-
-The Exams Commissioner General emphasized that no applications will be accepted after midnight on June 14, and the deadline for submitting applications will not be extended under any circumstances.
-
-The students who are studying in Grade 05 in a government school or a government-approved school will be eligible to sit for the Grade 5 Scholarship Examination, whereas the students of low-income families who are below 11 years of age by January 31 are eligible to receive scholarships.
-
-The Commissioner General of Examinations further mentioned that applications can be submitted via the website (onlineexams.gov.lk)
-
-...
-
-[Data](articles/dec38645.json)
-
-[Extended Data](ext_articles/dec38645.ext.json)
-
----
-
-### More information about Weligama shot in Matara
-
-*2024-05-27 10:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197056) · `si`
-
-In Weligama, Matara, a shooting occurred at the Patregama Murale primary school. Two individuals targeted a resident, identified as Sudam Madusank, known for his involvement in a beef case from January 20, 2012. The suspects fled after the incident, which involved gunfire suspected to have come from a pistol. Police found spent cartridges at the scene and are investigating with several teams, including the STF.
-
-🟩
-
-More about the shooting of the Patregama Murale primary school in Weligama Batawala, Matara today (27) has been revealed.
-
-Two persons who came to a resident of Midigama Police division had fled the assertion.
-
-A 30-year-old man named Sudam Madusank, a 30-year-old man from the Paintam Road, was taken to Pathegama Model Pooja, the two children were brought to Pathegama Model Kanarka Palawala today.
-
-The person who was the target was to be a person of the party, whose "beef ', or 20.01.20s, and released against him on 20.01.2012.
-
-Police suspect that the shooting has been done with a pistol type.
-
-The police said that the empty ammunition she had fallen to the shooting place.
-
-Several police teams and the STF continue to investigate into the incident.
-
-◼️
-
-[Data](articles/19381896.json)
-
-[Extended Data](ext_articles/19381896.ext.json)
-
----
-
-### Shehan has not come to the rally about Namal's international conspiracy
-
-*2024-05-27 10:30:28* · [`adalk`](https://www.ada.lk/breaking_news/නාමල්-ජාත්‍යන්තර-කුමන්ත්‍රණයක්-ගැන-ක‍ි-රැළියට-ඇමති-ශෙහාන්-පැමිණ-නෑ/11-409837) · `si`
-
-Namal Rajapaksa, MP and National Organizer of the Commonwealth Parliamentarian, addressed a conference, highlighting the importance of unity and agriculture in Sri Lanka's future governance. He criticized false promises in Rajapakse politics and mentioned international forces backing terrorist organizations. Notably, Minister Shehan Semasinghe did not attend the event.
-
-🟩
-
-National Organizer of the Commonwealth Parliamentarian MP Namal Rajapaksa said at the Kalawwawa Prabhaneric Cabinet Conference.
-
-The MP was revealed at the Sri Lanka Civil Appointment Conference held in the Sri Lanka General Assembly held yesterday (26) under the patronage of former President Mahinda Rajapaksa.
-
-Speaking further, MP Namal Rajapaksa said,
-
-"The Sri Lankan General Front is the party's future children in the country.False promises have not been taught. That is in the history of Rajapakse's politics.
-
-The next government we establish is an agricultural government.Uniting the country. Terrorist organizations have even international forces for this purpose. "
-
-Members of Parliament WMD. Weerasinghe, Sanjeewa Edirimanna, Rohitha Abeygunawardena, SC Muthukkarachchi, SC Muthukku Samarakoon, former Chief Minister SM Ranjith Samarakoon, former Chief Minister of the Former Provincial Council Chairman TMR. Siripala People's Representatives commented.
-
-...
-
-[Data](articles/647b809e.json)
-
-[Extended Data](ext_articles/647b809e.ext.json)
-
----
-
-### Sri Lanka Hayleys subsidiary Unisyst Engineering Plc delists from CSE
-
-*2024-05-27 10:26:00* · [`economynextcom`](https://economynext.com/sri-lanka-hayleys-subsidiary-unisyst-engineering-plc-delists-from-cse-164879/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Hayleys Group company, Unisyst Engineering Plc, which announced it would be delisting from the Colombo Stock Exchange last month, has submitted an offer letter to shareholders to buy back shares at 6 rupees a share.
-
-“Exit Offer of Sri Lanka Rupees Six (LKR 6) per share, made by Advantis Projects & Engineering (Private) Limited (“Majority Shareholder”) to the rest of the Shareholders of Unisyst Engineering Plc (the “Company”) who may wish to sell their shares in the Company,” the Hayleys Group said in a stock exchange filing.
-
-The acceptance of the exit offer will commence at 9 am on May 28, 2024 and close at 1.30 pm on June 26, 2024, Hayleys said.
-
-Formerly Alufab Plc, Unisyst Engineering is an aluminium supplier in Sri Lanka.
-
-...
-
-[Data](articles/472ebf0d.json)
-
-[Extended Data](ext_articles/472ebf0d.ext.json)
-
----
-
-### Senthil Thondaman, Governor of Plowing Machines to improve agriculture in the Eastern Province!
-
-*2024-05-27 10:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/184570) · `ta`
-
-Governor Senthil Thondaman received machinery to enhance farming in the Eastern Province, supported by officials including Chief Secretary R.M.P.S Ratnayake and others.
-
-🟩
-
-Governor Senthil Thondaman was provided with machinery and intelligence machines to remove solid waste and improve agriculture in areas under the local government in the Eastern Province.
-
-Chief Secretary R.M.P.S Ratnayake, Governor's Secretary L.P Madanayake, Local Government Department Commissioner Manivannan and Secretary to the Ministry of Agriculture Muthupanda were also present.
-
-◼️
-
-[Data](articles/14bd14f6.json)
-
-[Extended Data](ext_articles/14bd14f6.ext.json)
 
 ---

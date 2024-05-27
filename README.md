@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-27 20:03:44**
+As of **2024-05-27 20:18:35**
 
 ## Newspaper Stats
 
-*Scraped **26,629** Articles*
+*Scraped **26,630** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,442
 economynextcom | 1,525
 dailyftlk | 1,550
-adalk | 2,267
+adalk | 2,268
 adaderanalk | 3,051
 tamilmirrorlk | 3,123
 virakesarilk | 4,070
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,269
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,628 (100.0%) of 26,629 articles have been extended.
+26,629 (100.0%) of 26,630 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -123,6 +123,26 @@ The accident had occurred on the three vehicles leaving a lorry.
 [Data](articles/5bbf78f4.json)
 
 [Extended Data](ext_articles/5bbf78f4.ext.json)
+
+---
+
+### හඳපාන්විල විල්ලුවේ අලි හත්දෙනා මිය යාමට හේතුව එළියට
+
+*2024-05-27 18:43:54* · [`adalk`](https://www.ada.lk/picture_story/හඳපාන්විල-විල්ලුවේ-අලි-හත්දෙනා-මිය-යාමට-හේතුව-එළියට/10-409855) · `si`
+
+පොළොන්නරුව ජල ගැලීම් නිම්න ජාතික වනෝද්‍යානයේ හඳපාන්විල විල්ලුවේ, වන අලි හත්දෙනා මිය යෑමට හේතුව මඩේ එරි ජලය පෙවීමෙන් බවට 27 වෙනිදා සවස පැවැති පශ්චාත් මරණ පරීක්ෂණ වලින් තහවුරු වු බව ගිරිතලේ වනජීවී පශු වෛද්‍යවරුන් සඳහන් කළහ.
+
+වනජීවී දෙපාර්තමේන්තුවේ ගිරිතලේ වනජීවී පශු වෛද්‍ය සමීර කලිඟුආරච්චි මහතා ඇතුළු පශු වෛද්‍යවරු කණ්ඩායමක් විසින් මියගිය වන අලින්ගේ පශ්චාත් මරණ පරීක්ෂණ කටයුතුයි සිදු කළහ.
+
+මියගිය වන අලින්ගේ සිරුරු හඳපාන්විල විල්ලුවේ ඕඩේ ඇලෙහි ස්ථාන කිහිපයක තිබියදි වෙහෙරගල වනජීවි නිලධාරීන්ට පසුගිය 26 වෙනිදා හමුවුණි.
+
+මියගිය වන අලින්ගෙන් අවුරුද්දක් පමණ වයසති අලි පැටියකු සිටින බවද මේ පිළිබඳ පශ්චාත් මරණ පරීක්ෂණ සිදුකල පශු වෛද්‍යවරුන් සඳහන් කළහ.
+
+මියගිය අනිත් වන අලි හයදෙනා අවුරුදු 8,9,10 සහ අවුරුදු 15 ත් 25 ත් අතර වයසේ පසුවන වන අලින් බවත්, ඔවුන් සියල්ල ගැහැණු සතුන් බවට සැක කරන බවද පශ්චාත් මරණ පරීක්ෂණ සිදුකළ පශු වෛද්‍යවරුන් සඳහන් කලහ.
+
+...
+
+[Data](articles/e768b88e.json)
 
 ---
 
@@ -366,21 +386,29 @@ This is how a video of the event was reported.
 
 ---
 
-### කටුනායක ගුවන්තොටේ වාහන වෙනුවෙන් නව සැලැස්මක් - විනාඩි 30ක් අනවශ්‍ය ලෙස හිටියොත් ගාස්තුවක්
+### New plan for Katunayake Air Forces - a fee for 30 minutes
 
 *2024-05-27 17:23:36* · [`adalk`](https://www.ada.lk/breaking_news/කටුනායක-ගුවන්තොටේ-වාහන-වෙනුවෙන්-නව-සැලැස්මක්---විනාඩි-30ක්-අනවශ්‍ය-ලෙස-හිටියොත්-ගාස්තුවක්/11-409851) · `si`
 
-කටුනායක බණ්ඩාරනායක ජාත්‍යන්තර ගුවන් තොටුපොළ තුළ වාහන නැවැත්වීම සහ හැසිරවීම පිළිබඳ සීමාසහිත ගුවන් තොටුපොළ සහ ගුවන් සේවා සමාගමේ සභාපති ඉංජිනේරු අතුල ගල්කැටිය මහතා විසින් නව නිවේදනයක් නිකුත් කර තිබේ .
+Katunayake Air Forces introduces a fee for vehicles parked longer than 30 minutes at Bandaranaike International Airport. Vehicles without drivers are banned from the area, and those carrying immigration passengers must use the arrival terminal. A special fee applies for extended stays due to automobile congestion. The initiative aims to streamline operations and reduce unnecessary traffic, as stated by Chairman Athula Athala.
 
-ඒ අනුව කටුනායක බණ්ඩාරනායක ජාත්‍යන්තර ගුවන් තොටුපොළ පැමිණීමේ පර්යන්තයෙන් පිටත ප්‍රදේශයේ වාහන නවතා තැබීම , තදබදයක් ඇති නොවන පරිදි ක්‍රමවත් කිරීමේ අරමුණෙන් , කිසිදු විටෙක රියැදුරු නොමැතිව වාහන නවතා තැබීම සපුරා තහනම් කර තිබේ .
+🟩
 
-ඊට අමතරව ආගමන ගුවන් මගීන් රැගෙන යාමට පැමිණෙන සියලුම වාහන අදාළ රථ ගාල් වල සිට නියමිත වේලාවන් හී දී පමණක් ගුවන් තොටුපොළ පැමිණීමේ පර්යන්තය වෙත පැමිණිය යුතුය.
+Airport and Aviation Company Chairman Athiyawatiya has issued a new statement on parking and handling of parking and handling at the Bandaranaike International Airport.
 
-රියැදුරු සහිතව ද ගුවන් තොටුපොළ පරිශ්‍රය තුළ අනවශ්‍ය පරිදි විනාඩි 30 කට වඩා වැඩි කාළයක් , වාහන තදබදයක් ඇති වන පරිදි , අණ නොතකා වාහන හසුරුවන රියැදුරුවරුන් , ගුවන් තොටුපොළෙන් පිටතට යාමේදී , විශේෂ ගාස්තුවකට යටත් කරනු ලැබේ .
+Accordingly, vehicles outside the Bandaranaike International Airport, Katunayake, has banned vehicles with no driver.
 
-...
+In addition, all vehicles that come to carry immigration passengers should come to the arrival terminal of the airport.
+
+With the driving, the vehicle handled drivers are subject to a special fee, in spaminated, over 30 minutes, with an automobile congestion.
+
+Airport and Aviation Company Limited through the Bandaranaike International Airport, easy-to-order service, which will ensure that the airport will be ensured in the process of preventing an unnecessary and unnecessary people and the vehicle airport.Chairman of the Engineer Athala, Athula, has been hoping.
+
+◼️
 
 [Data](articles/b268749b.json)
+
+[Extended Data](ext_articles/b268749b.ext.json)
 
 ---
 
@@ -2327,27 +2355,5 @@ The four arrested have told police that they came from Colombo to Matara to arra
 [Data](articles/ea184545.json)
 
 [Extended Data](ext_articles/ea184545.ext.json)
-
----
-
-### Students' searcher bus rooms
-
-*2024-05-27 12:06:13* · [`adalk`](https://www.ada.lk/breaking_news/සිසු-සැරිය-බස්-හෝටල්-කාමර-වෙලාලු/11-409839) · `si`
-
-In Sri Lanka, around 40,000 schoolchildren use public transport without proper regulation due to the economic crisis. The Ministry of Education plans to deploy school vans and buses, some equipped with amenities like gender-mixed seating and clothing transfer services, to improve safety and comfort. However, concerns arise over the potential misuse of these services for non-educational purposes, highlighting the need for strict monitoring and management.
-
-🟩
-
-About 40,000 school children use public transport and there is no program to the public transport and there is no program to the public transport and revealed at the sectoral oversight committee of the effects of the economic crisis. Chairman of the Committee Gamini Walaweboda, the Chairman of the Committee will be deployed by the Ministry of Education and the 'Hotel Rooms' in which some buses today is currently in all buses.He said.
-
-Communications on several committees participated in the negotiation meeting of the Ministry of Education, Ministry of Transport and HighwaysHave been.The Chairman further said:
-
-If a school van is running personally, the owner of the driver's vehicle is his wife, his wife, is the car assistant. But sackery is not one. This has been contracted and employed by about 10,000 buses. 2 billion rupees per year. Allowing the use of alcohol, drugs,
-
-...
-
-[Data](articles/2dde8dac.json)
-
-[Extended Data](ext_articles/2dde8dac.ext.json)
 
 ---

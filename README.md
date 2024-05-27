@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-28 01:03:47**
+As of **2024-05-28 01:18:47**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,273
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,655 (100.0%) of 26,656 articles have been extended.
+26,656 (100.0%) of 26,656 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1036,21 +1036,33 @@ The largest private sector insurance company in Sri Lanka, the company offers in
 
 ---
 
-### பொது வேட்பாளர் விவகாரம்: ஜூன்-  9 க்கு  சுமந்திரன் அழைப்பு
+### General Candidate Affairs: Sumanthiran calls for June 9
 
 *2024-05-27 17:19:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/பொது-வேட்பாளர்-விவகாரம்-ஜூன்-9-க்கு-சுமந்திரன்-அழைப்பு/71-337987) · `ta`
 
-பொதுவேட்பாளர் நியமிப்பதில் உள்ள சாதக பாதகங்களை ஆராயும் விசேட கூட்டத்தை ஏற்பாடு செய்துள்ளதாகவும் அனைவரையும் பங்கெடுக்குமாறும் பாராளுமன்ற உறுப்பினர் எம்.ஏ. சுமந்திரன் அழைப்பு விடுத்துள்ளார்.
+Sumanthiran organizes a meeting on June 9 to discuss the merits and drawbacks of appointing a common candidate for the MP MA position. He emphasizes the importance of public opinion and a conducive environment for dialogue, inviting participants from various backgrounds to share their perspectives. The aim is to reach informed decisions that reflect the people's will, promoting unity and constructive communication.
 
-யாழ். ஊடக அமையத்தில் திங்கட்கிழமை (27)  நடாத்திய ஊடக சந்திப்பின் போது பாராளுமன்ற உறுப்பினரும் ஐனாதிபதி சட்டத்தரணியுமான எம்.ஏ.சுமந்திரன் தெரிவித்தார்.
+🟩
 
-கடந்த சில நாட்களுக்கு முன்னதாக யாழ்ப்பாணத்தில் சந்திப்பொன்றை நான் மேற்கொண்டிருந்தேன். அதாவது  தமிழ் பொது வேட்பாளரை நிறுத்துவது சம்பந்தமாக முனைப்பாக செயற்பட்டு கொண்டிருக்கிற சிவில் சமூகத்தினர் சில பத்தி எழுத்தாளர்கள் என்னை சந்திக்க வேண்டுமெனக் கேட்டிருந்தார்கள். அவர்களோடு நிறைவான கருத்துமிக்க கலந்துரையாடல் இடம்பெற்றிருந்தது.
+A special meeting has been organized to investigate the pros and cons of the appointment of a common candidate and all participate in the MP MA. Sumanthiran has called.
 
-இந்த யோசனைக்கு மாறாக நான் தெரிவித்த கருத்துக்கள் சம்பந்தமாக அதனுடைய காரணங்களை எடுத்துச் சொல்லியிருந்தேன். இந்த சூழ்நிலையிலே இப்படியானதொரு முன்னெடுப்பு செய்வதற்கான தங்களுடைய காரணங்களையும் அவர்கள் எங்களுக்கு எடுத்துச் சொல்லியிருந்தார்கள்.
+Yall. MP and President Attorney MA Sumanthiran said during a media briefing held at the Media Center on Monday (27).
+
+I was holding a meeting in Jaffna a few days ago. This means that some paragraph writers have asked me to meet me. They had a full -fledged discussion with them.
+
+Contrary to this idea, I had taken the reasons for the comments I made. It was in this situation that they had told us their reasons for making such a initiative.
+
+When I told them my idea that it was better to make public opinion publicly in the public domain, they accepted it with them at the end of the meeting.
+
+Even though I was hoping to organize such a meeting, it has been postponed for some reasons.
+
+On Sunday evening, June 9, I have organized a massive crowd to exchanging ideas in a healthy manner.
 
 ...
 
 [Data](articles/9358e403.json)
+
+[Extended Data](ext_articles/9358e403.ext.json)
 
 ---
 

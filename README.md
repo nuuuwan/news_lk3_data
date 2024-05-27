@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-27 09:18:47**
+As of **2024-05-27 09:34:25**
 
 ## Newspaper Stats
 
-*Scraped **26,474** Articles*
+*Scraped **26,475** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,441
 economynextcom | 1,511
 dailyftlk | 1,550
 adalk | 2,247
-adaderanalk | 3,032
+adaderanalk | 3,033
 tamilmirrorlk | 3,102
 virakesarilk | 4,040
 dailymirrorlk | 4,183
@@ -26,11 +26,25 @@ adaderanasinhalalk | 4,241
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,474 (100.0%) of 26,474 articles have been extended.
+26,475 (100.0%) of 26,475 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-27 (Monday)
+
+### Shooting incident reported in Weligama
+
+*2024-05-27 09:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/99455/shooting-incident-reported-in-weligama) · `en`
+
+A shooting has reportedly taken place, a short while ago, near the Batawala Pathegama Model Primary School in Weligama, Matara.
+
+◼️
+
+[Data](articles/99220c3a.json)
+
+[Extended Data](ext_articles/99220c3a.ext.json)
+
+---
 
 ### Matara shooting
 
@@ -2143,31 +2157,5 @@ The JVP needs the votes of the Sinhalese army. That is why Lalkanta has made the
 [Data](articles/080227e3.json)
 
 [Extended Data](ext_articles/080227e3.ext.json)
-
----
-
-### Northern journalists boycott
-
-*2024-05-26 18:09:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வடக்கு-ஊடகவியலாளர்கள்-புறக்கணிப்பு/175-337929) · `ta`
-
-Northern Province journalists boycotted reporting on President Wickremesinghe's visit due to being excluded from events, despite having valid press credentials. This action highlights ongoing concerns about regional journalist representation and access during high-profile visits.
-
-🟩
-
-Journalists have expressed concern that the Northern Province regional journalists have been ignored during the North Wickremesinghe's visit to President Ranil Wickremesinghe.
-
-President Ranil Wickremesinghe, who visited the Northern Province last Friday, attended various events in Jaffna, Kilinochchi, Mullaitivu and Vavuniya for three days.
-
-The journalists who were brought from the South by the Presidential Secretariat were allowed to report only in events.
-
-The Northern Provincial Journalists, who had a recognized media identification card at the Media Ministry, were not allowed to go to events and report the news.
-
-It is noteworthy that regional journalists in the president's place in the North have been disappointed for a long time outside the President's event.
-
-◼️
-
-[Data](articles/ed17d6a9.json)
-
-[Extended Data](ext_articles/ed17d6a9.ext.json)
 
 ---

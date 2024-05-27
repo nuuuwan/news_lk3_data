@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-27 09:53:12**
+As of **2024-05-27 10:05:03**
 
 ## Newspaper Stats
 
@@ -26,73 +26,91 @@ adaderanasinhalalk | 4,242
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,475 (100.0%) of 26,486 articles have been extended.
+26,486 (100.0%) of 26,486 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-27 (Monday)
 
-### ඊශ්‍රායලයෙන් තවත් ප්‍රහාරයක්
+### Israel's attack on Israel
 
 *2024-05-27 09:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197053) · `si`
 
-ගාසා තීරයේ රෆා ප්‍රදේශයේ සරණාගත කඳවුරකට එල්ල වූ ප්‍රහාරයකින් මේ වනවිට පුද්ගලයන් 35 දෙනෙකු මියගොස් සිය ගණනක් තුවාල ලබා ඇති බව විදසේ වාර්තා පවසයි.
+In a tragic incident, 35 people were killed and hundreds injured in an airstrike on a refugee camp in Rapa, Gaza, including women and children. The Israeli security forces claim the strike targeted Hamas, but Hamas alleges it hit a civilian area. This marks the first long-distance attack since January, following eight rocket attacks from Hamas on Tel Aviv.
 
-එම ප්‍රහාරයෙන් මියගිය අය අතර කාන්තාවන් සහ ළමුන් සිටින බවද පැවසෙයි.
+🟩
 
-ඊශ්‍රායල ආරක්ෂක හමුදාව ප්‍රකාශ කර ඇත්තේ එම ප්‍රදේශයේ හමාස් ඉලක්කයක් වෙත මෙම ගුවන් ප්‍රහාරය එල්ල කළ බවය.
+According to technology reports, 35 people were killed and hundreds were injured in a refugee camp in Rapa, Gaza.
 
-නමුත් හමාස් සංවිධානය පවසන්නේ ඊශ්‍රායල හමුදාව විසින් එම ප්‍රහාරය එල්ල කර ඇත්තේ දකුණු ගාසා තීරයේ රෆා නගරයේ අවතැන් වූවන් සඳහා නම් කරන ලද ප්‍රදේශයකට බවය.
+There are women and children among the victims of the deceased.
 
-කෙසේ වෙතත් ඊශ්‍රායල හමුදාව පවසා ඇත්තේ තම ගුවන් හමුදාව රෆාහි හමාස් සංවිධානයේ කඳවුරකට ප්‍රහාර එල්ල කළ බවත්, එම ප්‍රහාරය "නිවැරදි අවි සහ නිරවද්‍ය බුද්ධි තොරතුරු මත" සිදු කළ බවත්ය.
+The Israeli security forces said that the air strike was launched to Hamas targets.
 
-ඊයේ (26) හමාස් සංවිධානය විසින් රෆා සිට ටෙල් අවීව් නගරය දෙසට රොකට් ප්‍රහාර අටක් එල්ල කර තිබුණි.
+However, Hamas says the Israeli military has been launched to an area nominated in Rapa in the southern Gaza.
 
-එම ප්‍රහාරය ජනවාරි මාසයෙන් පසු එල්ල කළ පළමු දිගු දුර ප්‍රහාරය බවද සඳහන් වෙයි.
+However, the Israeli army had said that the Air Force attacked the Hamas and the attack, "the attack was carried out on the right weapons and accurate intellectual information.
+
+The Hamas had launched eight rocket attacks to Tel Avivo town yesterday.
+
+It is also said that the attack was the first long distance to the attack on January.
 
 ◼️
 
 [Data](articles/545fd18d.json)
 
+[Extended Data](ext_articles/545fd18d.ext.json)
+
 ---
 
-### වැස්ස හා සුළං තවදුරටත්
+### Rain and wind no longer
 
 *2024-05-27 09:23:17* · [`adalk`](https://www.ada.lk/breaking_news/වැස්ස-හා-සුළං-තවදුරටත්/11-409835) · `si`
 
-නිරිත දිග මෝසම් තත්වය හේතුවෙන් පවතින්‍ සුළං තත්ත්වය හා වැසි තත්ත්වය බලාහපොරොත්තු වන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+The southwest monsoon brings rain and wind, affecting various provinces including Western, Sabaragamuwa, Central, North Western, and Southern regions. Expect heavy showers in areas like Buses, Sabaragamuwa, and parts of Nuwara Eliya district. Showers are also predicted in Uva and Eastern Provinces. Strong winds are expected in Trincomalee-Mountains, Northern, North Western, Southern, and North Western Provinces, with gusts reaching 50-60 km/h.
 
-මේ අනුව බස්නාහිර, සබරගමුව,මධ්‍යම, වයඹ හා දකුණු පළාත්වල විටින් විට වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවන බව එම දෙපාර්තමේන්තුව  අද පෙරවරුවේ නිකුත් කළ නිවේදනයේ දැක්වෙයි.
+🟩
 
-බස්හිනාර සහ සබරගමුව පළාත්වලත් නුවරඑළිය දිස්ත්‍රික්කයේත් ඇතැම් ස්ථානවලට මි.මී. 75 ක පම‍ණ තරමක තද වැසි ඇතිවිය හැකි යැයිද එම දෙපාර්තමේන්තුව පවසයි.
+The southwest monsoon is a detention of the wind and the rainy industry, the Met Department said.
 
-ඌව හා නැගෙනහිර  පළාත්වල සවස් කාලයේ හෝ රාත්‍ර‍යේ කාලයේ තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇති්විමට ඉඩ පවතින බවද එම නිවේදනයේ දැක්වෙයි.
+Thundershowers showers or thundershowers will occur at times in the Western, Sabaragamuwa, Central, North Western and Southern provinces.
 
-මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවල හා උතුරු, උතුරු මැද, බස්නාහිර, දකුණු හා වයඹ පළාත්වලත් ත්‍රීකුණාමලය දිස්ත්‍රික්කයේත් විටින් විට හමන පැ.කි.මී. (50-60) ක පමණ තද සුළං ඇතිවිය
+Buses and Sabaragamuwa provinces were also in some places in the Nuwara Eliya district.. The department says about 75 heavy showers.
 
-හැැකි බවත් සෙසු ප්‍රදේශවල විටින් විට හමන පැ.කි.මී. (30-40) ක පමණ තරමක තද සුළං ඇතිවිය හැකි බවත් එම දෙපාර්තමේන්තුව වැඩිදුරටත් පවසයි.
+The announcement shows that there will be showers at several places in the Uva and Eastern Provinces.
+
+Steps in the Trincomalee-Mountains and Northern, North, North, Western, Southern and North Western Provinces and in Trincomalee.. (50-60) erected strong winds
+
+It is reported that situates in the other hand.. Strong winds can occur, the Department added.
 
 ◼️
 
 [Data](articles/56fc1050.json)
 
+[Extended Data](ext_articles/56fc1050.ext.json)
+
 ---
 
-### இம்மாதத்தில் 100,000ஐக் கடக்கவுள்ள சுற்றுலாப்பயணிகளின் வருகை
+### Tourist arrivals that cross 100,000 this month
 
 *2024-05-27 09:22:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இம்மாதத்தில்-100-000ஐக்-கடக்கவுள்ள-சுற்றுலாப்பயணிகளின்-வருகை/175-337943) · `ta`
 
-இலங்கைக்கான சுற்றுலாப்பயணிகளின் வருகையானது 100,000ஐக் கடக்கும் என எதிர்பார்க்கப்படுகின்றபோதும், மே மாதத்தில் 120,934 தொடக்கம் 131,112 வரையான இலக்குக்கு பின்னே நிற்கிறது.
+Tourist arrivals in Sri Lanka are projected to exceed 100,000 this month, despite being lower than May's 120,934 to 131,112. The first three weeks saw 79,431 arrivals, down from last May's 83,309. Visa issues may be contributing to the decline, with India accounting for the highest percentage of arrivals (26%), followed by the Maldives (11%).
 
-இம்மாதத்தின் முதல் மூன்று வாரங்களில் அதாவது முதலாம் திகதி தொடக்கம் 21ஆம் திகதி வரையில் 79, 431 பேர் வருகை தந்துள்ளதாக இலங்கை சுற்றுலா அபிவிருத்தி அதிகாரசபையின் தரவுகள் வெளிப்படுத்துகின்றன. கடந்தாண்டு மே மாதத்தில் 83,309 பேர் வருகை தந்திருந்தனர்.
+🟩
 
-ஏப்ரலிலிருந்து கோடை காலம் வரையில் நெருக்கடியற்ற காலமாகையால் சுற்றுலாப் பயணிகளின் வருகையானது குறைவாகவே இருக்கும். எவ்வாறெனினும் விசாப் பிரச்சினையும் இம்மாத வீழ்ச்சிக்கு காரணமாக இருக்கலாமென அதிகாரிகள் தெரிவித்துள்ளனர்.
+Although the arrival of tourists to Sri Lanka is expected to cross 100,000, it is behind 120,934 to 131,112 in May.
 
-இந்தியாவிலிருந்தே அதிகபட்சமாக 26 சதவீதமானோர் வருகை தந்த நிலையில், இரண்டாமிடத்தில் மாலைதீவுகளிலிருந்து 11 சதவீதமானோர் வருகை தந்துள்ளனர்.
+The Sri Lanka Tourism Development Authority reveals that 79 and 431 people have arrived in the first three weeks of this month, ie the first to 21st of this month.. In May last year, 83,309 people arrived.
+
+From April to summer, the arrival of tourists is low. Officials, however, have said that the issue of Visab could be the cause of this month's fall.
+
+With a maximum of 26 per cent of the arrival in India, 11 percent from the Maldives are in the second place.
 
 ◼️
 
 [Data](articles/5a5a5fd4.json)
+
+[Extended Data](ext_articles/5a5a5fd4.ext.json)
 
 ---
 
@@ -114,6 +132,8 @@ To download the applications, candidates are requested to log on to the Examinat
 
 [Data](articles/fd8b7163.json)
 
+[Extended Data](ext_articles/fd8b7163.ext.json)
+
 ---
 
 ### Shooting incident reported in Weligama
@@ -130,33 +150,47 @@ A shooting has reportedly taken place, a short while ago, near the Batawala Path
 
 ---
 
-### මියන්මාරයේ හා රුසියාවේ යුද්ධයට මැදිව සිටින අපේ අය බේරා ගන්න විපක්ෂ මන්ත්‍රීවරු තිදෙනෙක් එතෙර යති
+### Three opposition MPs overseen to save our people in Myanmar and Russia
 
 *2024-05-27 09:01:22* · [`adalk`](https://www.ada.lk/breaking_news/මියන්මාරයේ-හා-රුසියාවේ-යුද්ධයට-මැදිව-සිටින-අපේ-අය-බේරා-ගන්න-විපක්ෂ-මන්ත්‍රීවරු-තිදෙනෙක්-එතෙර-යති/11-409833) · `si`
 
-මියන්මාරයේ පරිගණක අපරාධකරුවන් ගේ සයිබර් කදවුර තුළ බලහත්කාරයෙන් රදවා ගෙන සිටින ශ්‍රී ලාංකික තරුණ - තරුණියන් 49 දෙනා  සහ රුසියානු - යුක්‍රේන යුද්ධයට මැදි වී රුසියාවේ  සිටින  ශ්‍රී ලාංකික රණවිරුවන් බේරා ගෙන යළි ශ්‍රී ලංකාව වෙත රැගෙන ඒමේ රාජතාන්ත්‍රික මෙහෙයුමක් සදහා එම රටවල රාජතාන්ත්‍රික නිලධාරීන් සහ තෙවන පාර්ශවයන් සමග සාකච්ඡා කර වැඩපිළිවෙළක් සකස් කිරීම සදහා විපක්ෂයේ මන්ත්‍රීවරුන් තිදෙනකු 05/27 දින අලුයම දින 10 ක සංචාරයක් සදහා කටුනායක ගුවන් තොටුපොළෙන් මුළින්ම තායිලන්තය බලා පිටත්ව ගියහ .
+Opposition MPs from Myanmar and Russia, including Attorney-at-Law Wasantha Yapa Bandara, JChawala, and Sujith Sanjaya Perera, traveled to Thailand to negotiate the release of children from Myanmar's cyber base. They aimed to secure their return to Sri Lanka, collaborating with diplomatic officials and third parties. The group expressed optimism about their mission, despite previous unsuccessful attempts, and planned to engage with Myanmar authorities, Thai judicial ministers, and international human rights organizations.
 
-මෙම විපක්ෂ මන්ත්‍රී කණ්ඩායමට නීතීඥ වසන්ත යාපා බණ්ඩාර , ජේ.සී.අලවතුවල සහ සුජිත් සංජය පෙරේරා යන මන්ත්‍රීවරුන් ඇතුළත් වී සිටි අතර මොවුන් මියන්මාරයේ සහ රුසියාවේ දින 05 බැගින් ගත කරමින් මෙම බේරා ගැනීමේ මෙහෙයුම දියත් කිරීමට නියමිතය .
+🟩
 
-මෙම විපක්ෂ මන්ත්‍රීවරුන් පිරිස ත්‍රයි නිකායික මහ නාහිමිවරුන්ගේ සහ විපක්ෂ නයකවරයාගේ ඉල්ලීම් රැගත් ලිපි රැගෙන මියන්මාරය සහ රුසියාව බලා පිටත්ව ගොස් තායිලන්තයේ , මියන්මාරයේ සංඝ නායක හිමිවරුන් සහ රුසියාවේ රාජතාන්ත්‍රික නිලධාරීන් හමු වී භාර දීමට නියමිතය .
+Diplomatic operations in Manmar's computer criminal cyber base and the diplomatic operations in Russia and the diplomatic operations in Russia have negotiate with third parties to rescue Sri Lanka back to Sri LankaThree opposition members were left to Thailand at the Katunayake airport for 10 days for a 10-day visit to prepare a program.
+
+Attorney-at-Law Wasantha Yapa Bandara, JChawala and Sujith Sanjaya Perera have been included in the rescue operation.
+
+The opposition MPs will be handed over to Myanmar and Russia and diplomatic officials in Thailand and the organizations of Russia, Thailand, and Russia with the demands of the Opposition of Opposition and the Opposition.
+
+Wasantha Yapa Bandara expressed his views on journalists at the Katunayake airport.
 
 ...
 
 [Data](articles/957d239f.json)
 
+[Extended Data](ext_articles/957d239f.ext.json)
+
 ---
 
-### பிரான்ஸ் தூதுவரின் திடீர் மரணம் குறித்து இறுதி முடிவு?
+### The final decision on the sudden death of the Ambassador of France?
 
 *2024-05-27 08:49:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரான்ஸ்-தூதுவரின்-திடீர்-மரணம்-குறித்து-இறுதி-முடிவு/175-337942) · `ta`
 
-இலங்கைக்கான பிரான்ஸ் தூதுவரின் மரணம் தொடர்பில் அவரது இறுதிக் கிரியைகள் இந்நாட்டில் நடைபெறுமா? அல்லது அவரது உடல் பிரான்ஸுக்கு எடுத்துச் செல்லப்படுமா? என்பது குறித்து இன்று (27) இறுதித் தீர்மானம் எடுக்கப்படும் என பிரான்ஸ் தூதரகத் தகவல்கள் தெரிவிக்கின்றன.
+A French ambassador to Sri Lanka died suddenly, and a decision on his funeral location—here or in France—is expected today.
 
-இலங்கைக்கான பிரான்ஸ் தூதுவர் Jean Francois Pactet  இராஜகிரியில் உள்ள அவரது உத்தியோகபூர்வ இல்லத்தில் உயிரிழந்த நிலையில், நேற்று பிற்பகல் வெலிக்கடை பொலிஸ் அதிகாரிகள் குழுவினால் சடலமாக மீட்கப்பட்டிருந்தார்.
+🟩
+
+Will his funerals be held in this country regarding the death of the Ambassador of France to Sri Lanka?Or will his body be taken to France?French embassy sources say that a final decision will be taken today (27).
+
+France's Ambassador to Sri Lanka Jean Francois Pactet was found dead by a group of Welikada police officers yesterday afternoon.
 
 ◼️
 
 [Data](articles/9f071851.json)
+
+[Extended Data](ext_articles/9f071851.ext.json)
 
 ---
 
@@ -178,17 +212,23 @@ A shot of a shot of Patregama Model Primary School in Weligama, Matara.
 
 ---
 
-### A/L பெறுபேறுகள் வெளியாகும் காலம் அறிவிக்கப்பட்டது
+### A/L results were announced
 
 *2024-05-27 08:42:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/A-L-பெறுபேறுகள்-வெளியாகும்-காலம்-அறிவிக்கப்பட்டது/175-337940) · `ta`
 
-கல்விப் பொதுத் தராதர உயர்தரப் பரீட்சை பெறுபேறுகள் இந்த வாரம் வெளியாகும் என்று பரீட்சைகள் திணைக்களம் தெரிவித்துள்ளது.
+GCE A/L exam results will be out this week, not as rumored on social media for today or tomorrow.
 
-இன்று அல்லது நாளை பெறுபேறுகள் வெளியாகும் என்ற சமூக வலைத்தளங்களில்  வெளியிடப்படும் உறுதிப்படுத்தப்படாத தகவல்களை நம்ப வேண்டாம் எ பரீட்சைகள் திணைக்களம் தெரிவித்துள்ளது. R
+🟩
+
+The Department of Examinations said that the GCE Advanced Level Examination will be released this week.
+
+The Department of Examinations should not rely on unconfirmed information posted on social media that the results will be released today or tomorrow. Remble
 
 ◼️
 
 [Data](articles/5af76ce3.json)
+
+[Extended Data](ext_articles/5af76ce3.ext.json)
 
 ---
 
@@ -922,19 +962,25 @@ This is the lowest number of teams in the history of the IPL.
 
 ---
 
-### கொழும்பு - கண்டி வீதிக்கு நாளை பூட்டு
+### Lock tomorrow to Colombo - Kandy Road
 
 *2024-05-27 01:36:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பு-கண்டி-வீதிக்கு-நாளை-பூட்டு/175-337938) · `ta`
 
-கொழும்பு – கண்டி பிரதான வீதியின், கீழ் கடுகண்ணாவை பகுதி நாளை மூடப்படவுள்ளதாக தேசிய கட்டட ஆராய்ச்சி நிறுவகம் தெரிவித்துள்ளது.
+The Kadukannu section of the Colombo-Kandy road will close tomorrow for two hours due to the removal of hazardous boulders.
 
-அந்தப் பகுதியிலுள்ள ஆபத்தான கற்பாறைகள் அகற்றப்படவுள்ளதன் காரணமாக மேற்படி பகுதி மூடப்படவுள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
+🟩
 
-இதன்படி, நாளை 2 மணித்தியாலங்களுக்கு அந்தப் பகுதி மூடப்படவுள்ளதாக தேசிய கட்டட ஆராய்ச்சி நிறுவகம் தெரிவித்துள்ளது. (a)
+The National Building Research Institute has said that the Kadukannu area will be closed tomorrow on the Colombo -Kandy main road.
+
+It is reported that the area will be closed due to the removal of dangerous boulders in the area.
+
+According to the National Building Research Institute, the area will be closed for 2 hours tomorrow. (A)
 
 ◼️
 
 [Data](articles/1b0d5232.json)
+
+[Extended Data](ext_articles/1b0d5232.ext.json)
 
 ---
 
@@ -1616,19 +1662,25 @@ Meanwhile, Sri Lanka finished with one Silver Medal and two Bronze Medals at the
 
 ---
 
-### සිහශක්ති සංගීත කණ්ඩායමේ නායක ආනන්ද පෙරේරා සමුගනියි
+### Shield of Shiky Lirgin Leader Ananda Perera
 
 *2024-05-26 21:09:43* · [`adalk`](https://www.ada.lk/breaking_news/සිහශක්ති-සංගීත-කණ්ඩායමේ-නායක-ආනන්ද-පෙරේරා-සමුගනියි/11-409832) · `si`
 
-මෙරට සංගීත ක්ෂේත්‍රයට ඉමහත්  සේවාවක් ඉටුකළ අති දක්ෂ සංගීතඥයෙකු වූ ආනන්ද පෙරේරා මහතා මහනුවර ජාතික රෝහලේ ප්‍රතිකාර ලබමින් සිටියදී අභාවප්‍රාප්ත වී තිබේ .
+Ananda Perera, renowned musician and leader of the Sirushakthi band, passed away at Kandy National Hospital. His funeral will be held at 10/30 Honorary and Kiribathkumbura home. A Dharmaraja College alumnus, he was mourned by many.
 
-ඒ මහතාගේ දේහය අවසන් ගෞරව සඳහා 10/30 මංගලගම පාර මොළඳන්ඩ, කිරිබත්කුඹුර නිවසේ තැන්පත් කිරීමට නියමිත අතර අවසන් කටයුතු සිදු කරන දිනය පසුව දැනුම් දීමට නියමිතය .
+🟩
 
-සිහශක්ති සංගීත කණ්ඩායමේ නායකයා වූ ආනන්ද පෙරේරා මහතා මහනුවර ධර්මරාජ විදුහලේ ආදි සිසුවෙකු වන අතර ඔහු මෙරට බිහි වූ අති දක්ෂ සංගීතඥයෙකු වශයෙන් සැලකේ .
+Ananda Perera, a highly talented musician, has passed away while receiving treatment at the Kandy National Hospital.
+
+His remains will be placed at the 10/30 Honorary and Kiribathkumbura home in Kiribathkumbura at 10/30.
+
+Ananda Perera, leader of the Sirushakthi band, is an alumni of Dharmaraja College, Kandy.
 
 ◼️
 
 [Data](articles/5e6b51ed.json)
+
+[Extended Data](ext_articles/5e6b51ed.ext.json)
 
 ---
 
@@ -1648,6 +1700,8 @@ Ultra Sinhala nationalists attempted to disrupt the gathering, but this time aro
 
 [Data](articles/3f1e0545.json)
 
+[Extended Data](ext_articles/3f1e0545.ext.json)
+
 ---
 
 ### The dubious record of our police is primarily for arresting Tamil women cooking  porridge or dragging away a Sinhalese  comedian or a  Muslim) poet on the basis of advocating national, racial or religious hatred
@@ -1661,6 +1715,8 @@ There are, of course, multiple interpretations to these (unprecedented) numbers 
 ...
 
 [Data](articles/72013142.json)
+
+[Extended Data](ext_articles/72013142.ext.json)
 
 ---
 

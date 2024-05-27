@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-28 00:18:40**
+As of **2024-05-28 00:33:53**
 
 ## Newspaper Stats
 
-*Scraped **26,652** Articles*
+*Scraped **26,653** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 266
 newsfirstlk | 363
 islandlk | 1,442
 economynextcom | 1,525
-dailyftlk | 1,550
+dailyftlk | 1,551
 adalk | 2,270
 adaderanalk | 3,054
 tamilmirrorlk | 3,125
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,273
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,646 (100.0%) of 26,652 articles have been extended.
+26,652 (100.0%) of 26,653 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,20 @@ The 08 suspects in question had been arrested based on information uncovered fol
 [Data](articles/a186b159.json)
 
 [Extended Data](ext_articles/a186b159.ext.json)
+
+---
+
+### Who guards the guardians?
+
+*2024-05-27 22:46:42* · [`dailyftlk`](https://www.ft.lk/opinion/Who-guards-the-guardians/14-762224) · `en`
+
+Did the Constitutional Council, President and the CIABOC Commissioners follow due process in reappointing its DG?
+
+The gravity and importance of transparency and effectiveness of CIABOC for the very existence of the country cannot be lost on the Government and its officers; nor can the Opposition parties, big or small, especially those fielding “Presidential” candidates claim ignorance of this situation. Remarkably, none of the political parties or even the public officers who run to the Supreme Court at the slightest hint of an appointment against their expectations, have even raised a query on this crucial appointment made without any transparency. One can only wonder then, if they were all in collusion
+
+...
+
+[Data](articles/451bbe9a.json)
 
 ---
 
@@ -94,17 +108,23 @@ If it exceeds 8 meters, the Irrigation Department states that it is a massive fl
 
 ---
 
-### முன்னாள் ஜனாதிபதி மகிந்த ராஜபக்ஷவை இந்திய உயர்ஸ்தானிகர் சந்தித்தார்
+### Indian High Commissioner met former President Mahinda Rajapaksa
 
 *2024-05-27 22:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/184648) · `ta`
 
-இந்திய உயர்ஸ்தானிகர் சந்தோஷ் ஜா முன்னாள் ஜனாதிபதி மகிந்த ராஜபக்ஷவை சந்தித்துக் கலந்துரையாடியுள்ளார்.
+Indian High Commissioner Santosh Jha met former Sri Lankan President Mahinda Rajapaksa at his residence in Colombo.
 
-இந்த சந்திப்பானது விஜேராம மாவத்தையில் உள்ள மகிந்த ராஜபக்ஷவின் உத்தியோகபூர்வ இல்லத்தில் இடம்பெற்றுள்ளது.
+🟩
+
+Indian High Commissioner Santosh Jha has met with former President Mahinda Rajapaksa.
+
+The meeting took place at the official residence of Mahinda Rajapaksa in Wijerama Mawatha.
 
 ◼️
 
 [Data](articles/771a46b9.json)
+
+[Extended Data](ext_articles/771a46b9.ext.json)
 
 ---
 
@@ -328,53 +348,73 @@ Popular actor Somi Ratnayake was felicitated today at the Sudarshi - Institute o
 
 ---
 
-### உலகப் புகழ்பெற்ற வர்த்தக முதலீடுகளை ஈர்ப்பது நாட்டின் பொருளாதார வளர்ச்சிக்கு பெரிதும் உதவும் - ருவன் விஜேவர்தன
+### Attraction of world-renowned trading investment will greatly help the country's economic growth- Ruwan Wijewardena
 
 *2024-05-27 20:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/184647) · `ta`
 
-டெஸ்லா மற்றும் ஸ்பேஸ் எக்ஸ் நிறுவனத்தின் தலைவர் எலோன் மஸ்க் (Elon Musk) போன்ற உலகப் புகழ்பெற்ற வர்த்தகர்களின் முதலீடுகளை ஈர்க்க முடிந்தால், அது நாட்டின் பொருளாதார வளர்ச்சிக்கு பெரும் பங்களிப்பாக அமையும் என காலநிலை மாற்றம் தொடர்பான ஜனாதிபதியின் சிரேஷ்ட ஆலோசகர் ருவன் விஜேவர்தன தெரிவித்தார்.
+Elon Musk's potential investment through Tesla and SpaceX, particularly the Starlink program, is expected to significantly boost Sri Lanka's economy. This includes improving internet accessibility in rural areas, benefiting sectors like tourism, and attracting global investors. President Ranil Wickremesinghe supports the initiative, aiming for its launch by the end of the year.
 
-"Starlink" போன்ற திட்டத்தில் இணைவதன் மூலம் நாட்டின் பின்னடைந்த பிரதேசங்களுக்கு இணைய வசதிகளை பிரச்சினையின்றி வழங்க முடியும் எனவும் சுற்றுலாத்துறை உட்பட பொருளாதாரத்திற்கு பயன்படும் பல துறைகளின் வளர்ச்சிக்கு இது உறுதுணையாக இருக்கும் எனவும் அவர் சுட்டிக்காட்டினார்.
+🟩
 
-ஜனாதிபதி ஊடக மையத்தில் 27 ஆம் திகதி திங்கட்கிழமை நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே காலநிலை மாற்றம் தொடர்பான ஜனாதிபதியின் சிரேஷ்ட ஆலோசகர் ருவன் விஜயவர்தன இதனைத் தெரிவித்தார்.
+Ruwan Wijewardena, the president's senior advisor to climate change, said that if Tesla and SpaceX president, Elon Musk, could attract investments of world -renowned traders, it would be a major contributor to the economic growth of the country.
+
+He pointed out that by joining the "Starlink" program, the country's backward areas can provide internet facilities without any problems and this will be committed to the development of many sectors used for the economy, including tourism.
+
+The President's Senior Advisor to the Climate Change, Ruwan Wijayawardena, at a media briefing held at the Presidential Media Center on Monday, 27th.
+
+10th World Water Conference "World Water Forum". A delegation including President Ranil Wickremesinghe was present at the official invitation of Indonesian President Joko Widodo.. During the visit, a special meeting took place between the President and the Tesla and the SpaceX leader Elon Mask.
 
 ...
 
 [Data](articles/028845f9.json)
 
+[Extended Data](ext_articles/028845f9.ext.json)
+
 ---
 
-### தோட்டத் தொழிலாளர்களின் தன்னிச்சையான சம்பள உயர்வுக்கு முதலாளிமார் சம்மேளனம் கடும் எதிர்ப்பு
+### Employers Federation
 
 *2024-05-27 20:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/184645) · `ta`
 
-தேயிலை மற்றும் ரப்பர் துறையில் உள்ளயில் தொழில்புரியும் தோட்டத் தொழிலாளர்களின் குறைந்தபட்ச சம்பளத்தை முன்னெப்போதும் இல்லாத வகையில் 70% உயர்த்துவதற்கான அரசாங்கத்தின் தீர்மானத்திற்கு முதலாளிமார் சம்மேளனம் எதிர்ப்புத் தெரிவித்துள்ளது
+The Employers Federation opposes the government's 70% minimum wage hike for plantation workers in the tea and rubber industry, arguing it could destabilize the economy and harm the sector's competitiveness. They claim the increase, driven by smaller plantation owners and regional companies, is unsustainable and threatens the industry's future, potentially leading to job losses and financial strain. The federation warns that the move is politically motivated rather than economically sound, citing historical examples of state-owned enterprises' inefficiencies and the need for a productivity-based wage model to ensure long-term stability.
 
-புதிய சம்பள உயர்வால் பெருந்தோட்டத் துறையில் ஏற்பட்டுள்ள பாதகமான பாதிப்புகளுக்கு எதிராக அனைத்து பங்குதாரர்களாலும் கூட்டறிக்கை ஒன்று வெளியிடப்பட்டது. இந்தத் தீர்மானமானது பெருந்தோட்டத் துறையை நலிவடையச் செய்து இறுதியில் நாட்டில் கடுமையான பொருளாதார ஸ்திரமின்மைக்கு வழிவகுக்கும் என முதலாளிமார் சம்மேளனம் சுட்டிக்காட்டியுள்ளது.
+🟩
+
+The Employers Federation has opposed the government's decision to raise the minimum wage of plantation workers in the tea and rubber industry by 70%.
+
+A joint statement issued by all shareholders against the adverse effects of the plantation sector due to the new salary increase. The resolution will weaken the plantation sector and eventually lead to severe economic stability in the country, the Employers Federation has pointed out.
 
 ...
 
 [Data](articles/66a8a350.json)
 
+[Extended Data](ext_articles/66a8a350.ext.json)
+
 ---
 
-### பங்களாதேஷைவிட வெற்றிபெற வேண்டும் என்ற வேட்கை ஐக்கிய அமெரிக்காவுக்கு இருந்தது - பயிற்றுநர் ஸ்டுவர்ட் லோ
+### The United States had the desire to win than Bangladesh- Instructor Stuart Lo
 
 *2024-05-27 19:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/184646) · `ta`
 
-டெக்சாஸில் நடைபெற்ற 3 போட்டிகள் கொண்ட சர்வதேச ரி20 கிரிக்கெட் தொடரை வெல்ல வேண்டும் என்ற வேட்iகை பங்களாதேஷைவிட அமெரிக்க அணிக்கு  இருந்ததாக அணியின் தலைமைப் பயிற்றுநர் ஸ்டுவர்ட் லோ தெரிவித்துள்ளார்.
+The United States, driven by a stronger desire to win, clinched the three-match T20 series against Bangladesh, winning the first two games convincingly but losing the final one. Despite leading 2-0, the US team's performance dropped in the last match, allowing Bangladesh to level the series. The US team, initially showcasing strong performances with key players, experimented with bench strength in the final match, which backfired as Bangladesh secured victory through Mustafizur Rahman's bowling. Captain Aaron Jones highlighted the team's potential, stating they could compete with top teams like Bangladesh on their day, emphasizing the unpredictability of cricket.
 
-முதல் தடவையாக ஐசிசி முழு உறுப்பு நாடொன்றின் அணிக்கு எதிராக இருதரப்பு சர்வதேச ரி20 தொடரில் விளையாடிய ஐக்கிய அமெரிக்கா, முதல் இரண்டு போட்டிகளில் பங்களாதேஷை வெற்றிகொண்டு தொடரை கைப்பற்றியது.
+🟩
 
-முதல் இரண்டு போட்டிகளில் ஐக்கிய அமெரிக்கா முறையே 5 விக்கெட்களாலும் 6 ஓட்டங்களாலும் வெற்றிபெற்றிருந்தது.
+The team's chief coach Stuart Low has said that the US team was more than Bangladesh to win the three -match international T20 cricket series in Texas.
 
-எனினும் தொடரை 2 - 1 ஆட்டக் கணக்கில் ஐக்கிய அமெரிக்கா தனதாக்கிக்கொண்டது.
+For the first time, the United States, who played in the bilateral international T20 series against the ICC full -member team, won the first two matches and won the series.
 
-கடைசிப் போட்டிக்குப் பின்னர் கருத்து வெளியிட்டு ஸ்டுவர்ட் லோ, 'முதல் இரண்டு போட்டிகளில் எங்களுக்கு அதிக வைராக்கியமும் ஆர்வமும் இருந்தது. எதிரணியை விட நாங்கள் சற்று அதிகமாக திறமையை வெளிப்படுத்த விரும்பினோம். ஆனால், கடைசிப்  போட்டி   எங்களுக்கு பாதகமாக அமைந்துவிட்டது. நாங்கள் ஆசுவாசமாக விளையாடினோம் போலும். பங்களாதேஷ்  திறமையாக விளையாடியதுடன் இந்த உற்சாகத்துடன் உலகக் கிண்ணத்தை எதிர்கொள்ளும்' என்றார்.
+In the first two matches, the United States won by 5 wickets and 6 runs respectively.
+
+However, the United States has made the series 2 - 1.
+
+After the last match, Stuart Low said, 'We had more zeal and curiosity in the first two matches. எதிரணியை விட நாங்கள் சற்று அதிகமாக திறமையை வெளிப்படுத்த விரும்பினோம். But, the last match has made us adverse. Looks like we played relaxed. பங்களாதேஷ்  திறமையாக விளையாடியதுடன் இந்த உற்சாகத்துடன் உலகக் கிண்ணத்தை எதிர்கொள்ளும்' என்றார்.
 
 ...
 
 [Data](articles/6c3ebbc1.json)
+
+[Extended Data](ext_articles/6c3ebbc1.ext.json)
 
 ---
 
@@ -466,23 +506,29 @@ In addition, the water levels of Gin and Nilwala Runwala are also increasing.
 
 ---
 
-### கனடாவுக்கு பயணமாகவிருந்த நிலையில் மோட்டார் சைக்கிள் விபத்தில் இளைஞர் சம்பவிடத்தில் பலி : மட்டுவில்  பகுதியில் துயரம்!
+### Youth killed in motorcycle accident
 
 *2024-05-27 18:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/184644) · `ta`
 
-அதிவேகமாக மோட்டார் சைக்கிளை செலுத்திச் சென்ற இளைஞர் மதிலுடன் மோதிய விபத்தில் சம்பவிடத்தில் உயிரிழந்துள்ளார்.
+Panujan, a 22-year-old from Chavakachcheri, died in a motorcycle crash near Budhur on Sunday evening. He was en route to Canada when the accident occurred. His body remains at Chavakachcheri Hospital.
 
-இச் சம்பவம் 26 ஆம் திகதி ஞாயிற்றுக்கிழமை இரவு 8:00 மணியளவில்  சாவகச்சேரி, புத்தூர் விதியில் இடம் பெற்றுள்ளது.
+🟩
 
-சம்பவத்தில் சாவகச்சேரி, மட்டுவில் பகுதியை சேர்ந்தபி பனுஜன் (வயது 22) என்ற இளைஞரே உயிரிழந்தவர் ஆவார்.
+A young man who was driving a motorcycle was killed in a collision with a motorcycle.
 
-குறித்த இளைஞர் 28 ஆம் திகதி செவ்வாய்க்கிழமை கனடாவுக்கு பயணமாகவிருந்த நிலையில் இத் துயரச்சம்பவம் இடம்பெற்றுள்ளது
+The incident took place on Sunday 26th at 8:00 pm in Chavakachcheri and Budhur.
 
-சடலம் சாவகச்சேரி வைத்தியசாலையில் வைக்கப்பட்டுள்ளது மேலதிக விசாரணைகளை சாவகச்சேரி பொலிஸார் மேற்கொண்டு வருகின்றனர்.
+The deceased was the young man, Panujan (22 years old), from Chavakachcheri, Mattuvil area.
+
+The tragedy took place as the youth was on his way to Canada on Tuesday 28th.
+
+The body is being kept at the Chavakachcheri Hospital.
 
 ◼️
 
 [Data](articles/35b85bee.json)
+
+[Extended Data](ext_articles/35b85bee.ext.json)
 
 ---
 
@@ -602,19 +648,25 @@ Meanwhile, so far a total of 07 deaths have been reported due to fallen trees ca
 
 ---
 
-### தோட்டங்களை ஒப்படைத்து செல்லுமாறு அரசாங்கத்தால் ஆணையிட முடியாது நாட் சம்பளமாக 1380 ரூபாவை மாத்திரமே எம்மால் வழங்க முடியும் - பெருந்தோட்ட முதலாளிமார் சம்மேளனம்
+### We can only pay 1380 rupees as a salary of the government - the plantation employers' federation
 
 *2024-05-27 18:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/184642) · `ta`
 
-பெருந்தோட்டந் தொழிலாளர்களுக்கு 1700 ரூபா நாளாந்த சம்பளத்தை வழங்க முடியாவிட்டால், தோட்டங்களை ஒப்படைத்து செல்லுமாறு அரசாங்கத்தால் ஆணையிட முடியாது. அவ்வாறானதொரு நடவடிக்கை எடுக்கப்பட்டால் அதற்கெதிராக தாமும் சட்ட நடவடிக்கை எடுக்க தயார் என பெருந்தோட்ட முதலாளிமார் சம்மேளனம் தெரிவித்தது.
+The Plantation Employers Federation opposes a government-mandated daily wage increase for plantation workers from 1700 to 1900 rupees, citing financial constraints. They propose a 200-rupee increase in the base salary but offer a total daily wage of only 1380 rupees, which has been rejected by the government and plantation unions. The federation warns against decisions that could harm the industry, potentially leading to legal action and impacting Sri Lanka's export economy.
 
-அடிப்படை சம்பளத்தில் 200 ரூபா அதிகரிப்புடன், நாட் சம்பளமாக 1380 ரூபாவை மாத்திரமே எம்மால் வழங்க முடியும். இது தொடர்பான முன்மொழிவை நாம் சமர்ப்பித்த போதிலும், அரசாங்கம் அதனை நிராகரித்துள்ளது. இவ்வாறான முட்டாள் தனமான தீர்மானங்களால் எதிர்காலத்தில் 'சிலோன் டி' என்ற நாம் முற்றாக அழிந்து போகக் கூடிய அபாயம் காணப்படுவதாகவும் முதலாளிமார் சம்மேளனம் எச்சரிக்கை விடுத்தது.
+🟩
 
-பெருந்தோட்டந் தொழிலாளர்களுக்கான சம்பள அதிகரிப்பு தொடர்பில் தெளிவுபடுத்தும் வகையில் நேற்று திங்கட்கிழமை கொழும்பு, ரேணுகா சிட்டி ஹோட்டலில் ஏற்பாடு செய்யப்பட்டிருந்த விசேட ஊடகவியலாளர் மாநாட்டிலேயே முதலாளிமார் சம்மேளனத்தின் பிரதிநிதிகள் இதனைத் தெரிவித்தனர்.
+If plantation workers cannot afford a daily salary of 1700 rupees, the government cannot order the gardens to be handed over. The Plantation Employers Federation said that if such action is taken, legal action is ready to take legal action.
+
+With an increase of 200 rupees in the base salary, we can only pay 1380 rupees. Although we have submitted the proposal, the government has rejected it. The Employers Federation warned that such stupid decisions are in the future, 'Ceylon D', which we can completely perish.
+
+Representatives of the Employers Federation made this statement at a special media conference organized at the Renuka City Hotel, Colombo yesterday to clarify the salary increase for plantation workers.
 
 ...
 
 [Data](articles/a16394e4.json)
+
+[Extended Data](ext_articles/a16394e4.ext.json)
 
 ---
 
@@ -2291,29 +2343,5 @@ Qatar Airways has been injured when Qatar Airways, which was flying in Ireland f
 [Data](articles/e05e4d4b.json)
 
 [Extended Data](ext_articles/e05e4d4b.ext.json)
-
----
-
-### Sri Lanka may run out hotel rooms for high-end tourists: Official
-
-*2024-05-27 13:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-may-run-out-hotel-rooms-for-high-end-tourists-official-164883/) · `en`
-
-ECONOMYNEXT – Sri Lanka may run out of hotel rooms for high-spending tourists, by the end of 2025, Chairman of the Sri Lanka Tourism Development Authority, Priyantha Fernando, said.
-
-“If the trend continues by the end of next year, we will be short of rooms,” Fernando told EconomyNext on the sidelines of Sancharaka Udawa, a tourism fair.
-
-“The high-end hotels which are charging over 250-300 dollars per night has been having very high occupancy at very high rates.
-
-“But we will have to match the product with the expectations of the people because right now it’s about 10,500 rooms which we offered for high end tourists island wide.”
-
-Hotels chains like Cinnamon began new ventures such as eco-excursion.
-
-ITC, a new high end recently opened in Colombo and Cinnamon Life is expected to open later in the year.
-
-...
-
-[Data](articles/fe76ef22.json)
-
-[Extended Data](ext_articles/fe76ef22.ext.json)
 
 ---

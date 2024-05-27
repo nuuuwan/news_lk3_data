@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-27 15:04:01**
+As of **2024-05-27 15:18:45**
 
 ## Newspaper Stats
 
-*Scraped **26,560** Articles*
+*Scraped **26,565** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,76 @@ economynextcom | 1,516
 dailyftlk | 1,550
 adalk | 2,258
 adaderanalk | 3,043
-tamilmirrorlk | 3,119
-virakesarilk | 4,058
-dailymirrorlk | 4,189
+tamilmirrorlk | 3,120
+virakesarilk | 4,059
+dailymirrorlk | 4,192
 adaderanasinhalalk | 4,255
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,560 (100.0%) of 26,560 articles have been extended.
+26,560 (100.0%) of 26,565 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-27 (Monday)
+
+### மாணவர் சங்கங்கள் உள்ளிட்ட சில அமைப்புக்கள் எங்களது போராட்டத்துக்கு வலுச்சேர்காமை கவலையளிக்கிறது - தென்கிழக்கு பல்கலைக்கழக ஊழியர் சங்க செயலாளர்
+
+*2024-05-27 14:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/184608) · `ta`
+
+கடந்த 26 நாட்களாக எங்களது நியாயமான பல கோரிக்கைகளை முன்வைத்து போராடிவரும் நிலையில் நாட்டிலுள்ள ஏனைய பல்கலைக்கழகங்களில் உள்ள மாணவர் சங்கங்கள் உள்ளிட்ட ஏனைய சங்கங்களும் பல்கலைக்கழகத்துக்கு வெளியே உள்ள பல்வேறு சங்கங்களும் அமைப்புக்களும் பத்திரிகை மாநடுகளைகளை கூட்டி எங்களது நியாயமான கோரிக்கைகளுக்கு ஆதரவாக குரல் கொடுக்க முன்வந்துள்ள நிலையில், தென்கிழக்கு பல்கலைக்கழகத்திலுள்ள மாணவர் அமைப்புக்கள் உள்ளிட்ட அமைப்புக்கள் இதுவரை பத்திரிகையாளர் சந்திப்புக்களையோ அல்லது ஆதரவான கருத்துக்களையோ வெளியிடாதது கவலையளிப்பதாக தென்கிழக்கு பல்கலைக்கழக ஊழியர் சங்க செயலாளர் எம்.எம். முகமது காமில் தெரிவித்தார்.
+
+தென்கிழக்கு பல்கலைக்கழக ஊழியர் சங்கத்தின்  தலைவர் எம்.ரி.எம். தாஜுடீன் தலைமையில்  இனறு திங்கட்கிழமை (27)  பல்கலைகழக முற்றலில் இடம்பெற்ற போராட்டத்தின்போதே  செயலாளர் எம்.எம். முகமது காமில் மேற்படி கருத்துக்களை முன்வைத்தார்.
+
+...
+
+[Data](articles/209e600c.json)
+
+---
+
+### அவுரா தலைவருக்கு பிணை
+
+*2024-05-27 14:40:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அவுரா-தலைவருக்கு-பிணை/175-337970) · `ta`
+
+ஹெலிகொப்டர் வாங்குவதாக பணம் பெற்றுக்கொண்டு எழுபது மில்லியன் ரூபா மோசடி செய்த குற்றச்சாட்டில் விளக்கமறியலில் வைக்கப்பட்டிருந்த அவுரா லங்கா நிறுவனத்தின் தலைவர் விரஞ்சித் தபுகலவை பிணையில் விடுவிக்க கொழும்பு மேலதிக நீதவான் திருமதி பவித்ரா சஞ்சீவனி பத்திராஜா திங்கட்கிழமை (27) உத்தரவிட்டுள்ளார்.
+
+IWS ஹோல்டிங் நிறுவனம் செய்த முறைப்பாட்டின் பிரகாரம், சந்தேகநபர் குற்றப் புலனாய்வுத் திணைக்களத்தின் நிதிக் குற்றப் புலனாய்வுப் பிரிவினரால் கைதுசெய்யப்பட்டு, நீதிமன்றத்தில் ஆஜர்படுத்தப்பட்ட பின்னர் கடந்த 22ஆம் திகதி விளக்கமறியலில் வைக்கப்பட்டார்.
+
+சந்தேக நபருக்கு தலா 100 இலட்சம் ரூபாய் பெறுமதியான இரண்டு பிணைகள் வழங்க உத்தரவிடப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/f886bf59.json)
+
+---
+
+### Governor Vavuniya
+
+*2024-05-27 14:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/184601) · `ta`
+
+President Ranil Wickremesinghe presented 5,400 land guarantees in Vavuniya and Mannar districts as part of a national program aiming to provide 20 lakh such guarantees nationwide. The Governor of the Northern Province highlighted issues like land transfers and bank mortgages hindering guarantee acquisition but expressed confidence in the President finding solutions. He urged cooperation to successfully execute this initiative.
+
+🟩
+
+5,400 land guarantees for the people of Vavuniya and Mannar district were presented by President Ranil Wickremesinghe on Sunday (26) under the National Program to provide 20 lakh land guarantees across the country.
+
+Speaking at the event, Governor of the Northern Province, BSM Charles, said that the land bonds were re -issued to the Divisional Secretaries and that the people were facing the difficulties in obtaining their assurance.
+
+The governor said that many people cannot obtain land guarantees under the scheme due to the transfer of the land, the hand of the land, and the mortgage in the banks.
+
+However, the Hon'ble Governor said that the President would take action to find a solution to the banks mortgaged in the banks.
+
+Therefore, the Honorable Governor has demanded that all should cooperate successfully implement the president's dream project.
+
+◼️
+
+[Data](articles/34faa9f3.json)
+
+[Extended Data](ext_articles/34faa9f3.ext.json)
+
+---
 
 ### Aura Lanka chairman Viranjith Thambugala granted bail
 
@@ -76,6 +132,22 @@ When contacted by the Commissioner of the Colombo Municipal Council, Badrani Jay
 
 ---
 
+### Aura Lanka Chairman granted bail
+
+*2024-05-27 14:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Aura-Lanka-Chairman-granted-bail/108-283447) · `en`
+
+Colombo, May 27 (Daily Mirror) - Aura Lanka Chairman Viranjith Thambugala who was arrested by the Criminal Investigation Department (CID) was granted bail.
+
+On May 22, the CID arrested Thambugala over alleged financial fraud of Rs. 7 million and he was remanded till today by the Colombo Magistrate's Court.
+
+He was granted bail by Colombo Additional Magistrate Pavithra Sanjeewani Pathirana.
+
+◼️
+
+[Data](articles/81b1b2dc.json)
+
+---
+
 ### As many as 2,000 people feared buried under Papua New Guinea landslide
 
 *2024-05-27 14:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/99464/as-many-as-2000-people-feared-buried-under-papua-new-guinea-landslide) · `en`
@@ -93,32 +165,6 @@ But that may now be a major underestimate according to the latest projection fro
 [Data](articles/facd246c.json)
 
 [Extended Data](ext_articles/facd246c.ext.json)
-
----
-
-### Governor Vavuniya
-
-*2024-05-27 14:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/184601) · `ta`
-
-President Ranil Wickremesinghe presented 5,400 land guarantees in Vavuniya and Mannar districts as part of a national program aiming to provide 20 lakh such guarantees nationwide. The Governor of the Northern Province highlighted issues like land transfers and bank mortgages hindering guarantee acquisition but expressed confidence in the President finding solutions. He urged cooperation to successfully execute this initiative.
-
-🟩
-
-5,400 land guarantees for the people of Vavuniya and Mannar district were presented by President Ranil Wickremesinghe on Sunday (26) under the National Program to provide 20 lakh land guarantees across the country.
-
-Speaking at the event, Governor of the Northern Province, BSM Charles, said that the land bonds were re -issued to the Divisional Secretaries and that the people were facing the difficulties in obtaining their assurance.
-
-The governor said that many people cannot obtain land guarantees under the scheme due to the transfer of the land, the hand of the land, and the mortgage in the banks.
-
-However, the Hon'ble Governor said that the President would take action to find a solution to the banks mortgaged in the banks.
-
-Therefore, the Honorable Governor has demanded that all should cooperate successfully implement the president's dream project.
-
-◼️
-
-[Data](articles/34faa9f3.json)
-
-[Extended Data](ext_articles/34faa9f3.ext.json)
 
 ---
 
@@ -201,6 +247,22 @@ Meanwhile, landslide warnings released in seven districts will continue further.
 [Data](articles/99a519fb.json)
 
 [Extended Data](ext_articles/99a519fb.ext.json)
+
+---
+
+### President orders Army, Timber Corp. to back CMC to remove risky city trees ASAP
+
+*2024-05-27 14:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/President-orders-Army-Timber-Corp-to-back-CMC-to-remove-risky-city-trees-ASAP/108-283445) · `en`
+
+Colombo, May 27 (Daily Mirror) -  The Colombo Municipal Council (CMC) will receive backing from the State Timber Corporation and Sri Lanka Army to immediately remove over 100 remaining old and large decaying city trees posing a great danger to the people and property, as per an order by the President, the Daily Mirror learns.
+
+During the last seven days, starting from the Vesak week from May 20th over 59 incidents of falling of city trees or damaged branches owing to the prevailing inclement weather has been reported to the CMC within the Greater Colombo area.
+
+The Daily Mirror reported last week that the CMC has recognized about 1,000 city trees needing immediate attention and out of which 500 trees have problematic conditions. The authorities have identified 200 such trees that are old and in a very vulnerable state, requiring them to be felled as soon as possible to avert any hazard to the public or property.
+
+...
+
+[Data](articles/3d57fbae.json)
 
 ---
 
@@ -291,6 +353,24 @@ A babe of a babe was shown in the morgue yesterday (27th) after yesterday, they 
 [Data](articles/d91a3577.json)
 
 [Extended Data](ext_articles/d91a3577.ext.json)
+
+---
+
+### Lalkantha trying to prevent Anura’s success: Marikar
+
+*2024-05-27 13:33:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Lalkantha-trying-to-prevent-Anuras-success-Marikar/108-283444) · `en`
+
+Colombo, May27 (Daily Mirror) - National People’s Power (NPP) member K.D. Lalkantha trying to prevent his party from coming into power, SJB MP S.M. Marikar said today.
+
+"Lalkantha is trying to prevent his leader  leader Anura Kumara Dissanayake as he is aware that Dissanayake is unable to run a government effectively," Marikar  told a media conference.
+
+“Lalkantha is well aware that his leader will make a mess of everything if  he comes to power. This is why he is making remarks which are disadvantageous to the NPP and trying to prevent Dissanayake from coming into power,” Marikar said.
+
+He said Dissanayake has proved his inability to write a condolence message on the sudden demise of Iranian President Ebarhim Raisi.
+
+...
+
+[Data](articles/6b0c1c57.json)
 
 ---
 
@@ -2253,87 +2333,5 @@ The Israeli military has confirmed the attack and said that Hamas has targeted t
 [Data](articles/d6a0d906.json)
 
 [Extended Data](ext_articles/d6a0d906.ext.json)
-
----
-
-### CINEC’s Prof. Lalith Edirisinghe conferred chair professorship by Dalian Maritime University
-
-*2024-05-27 04:11:00* · [`islandlk`](http://island.lk/cinecs-prof-lalith-edirisinghe-conferred-chair-professorship-by-dalian-maritime-university/) · `en`
-
-The Dean of the Faculty of Management and Social Sciences of CINEC Campus, Prof. Lalith Edirisinghe has been conferred upon with a Chair Professorship by the Dalian Maritime University (DMU), the largest maritime university in the world. DMU has awarded the Chair Professorship to Prof. Edirisinghe following a comprehensive evaluation across various domains, including teaching, academic administration, scientific research and publications, leadership of major conferences and corporate events, corporate-level contributions, social services, and academic and industry achievements. He was awarded it by DMU President, Prof. Shan Hongjun at a formal ceremony held at CINEC Campus in Malabe.
-
-...
-
-[Data](articles/189d307d.json)
-
-[Extended Data](ext_articles/189d307d.ext.json)
-
----
-
-### SLPA officials meet World Bank Special Team and International Finance Corporation officials
-
-*2024-05-27 04:10:00* · [`islandlk`](http://island.lk/slpa-officials-meet-world-bank-special-team-and-international-finance-corporation-officials/) · `en`
-
-The Sri Lanka Ports Authority (SLPA) delegation, led by the Secretary to the Ministry of Ports, Shipping and Aviation – K.D.S. Ruwanchandra, met with the World Bank’s Special Team for the transport sector and officials from the International Finance Corporation (IFC) in the United States.
-
-The delegation included SLPA Chairman – Keith D. Bernard and a team of executive officials. They are on a special visit to the U.S. as part of the Maritime Administration Program for SLPA, executed by the Colombo Plan and funded by the U.S. State Department.
-
-During the meeting, the delegation discussed information on transport sector development, the latest trends, and issues related to the global port sector. The delegation also explored green energy trends in the port sector and on how ports can benefit from the latest strategic maritime developments.
-
-Toastmaster Bhathiya Hettiarachchi, appointed ‘Club Growth Director’ for District 82
-
-...
-
-[Data](articles/158b9142.json)
-
-[Extended Data](ext_articles/158b9142.ext.json)
-
----
-
-### Insights on educational opportunities available in the UK for Sri Lankan students
-
-*2024-05-27 04:10:00* · [`islandlk`](http://island.lk/insights-on-educational-opportunities-available-in-the-uk-for-sri-lankan-students/) · `en`
-
-The Students Visa, a premier student migration consultancy hosted the “Educate to Elevate” panel discussion at Hatch Works, Colombo. This event aimed to shed light on the boundless educational opportunities available in the United Kingdom, a country renowned for its prestigious higher education system.
-
-Sri Lanka is a significant market for UK higher education, particularly in the realm of transnational education. In recent years, Sri Lanka has recorded the third-highest number of students pursuing UK qualifications internationally. Each year, approximately 160,000 Sri Lankan students are ready for tertiary education. However, with state universities able to enrol only 42,000 students annually, competition for these limited spots is fierce. In 2022, only 23% of the 166,938 qualifying students gained admission to state universities. As a result, around 29,000 students seek higher education abroad each year, with an additional 60,000 engaging in various academic programs.
-
-...
-
-[Data](articles/b25fc324.json)
-
-[Extended Data](ext_articles/b25fc324.ext.json)
-
----
-
-### Fems HER Foundation collaborates with Barista to provide easy access to menstrual hygiene
-
-*2024-05-27 04:10:00* · [`islandlk`](http://island.lk/fems-her-foundation-collaborates-with-barista-to-provide-easy-access-to-menstrual-hygiene/) · `en`
-
-In a collaborative effort to champion women’s empowerment, Fems, the socially responsible feminine hygiene brand by Hemas Consumer Brands, through the Fems HER Foundation, has joined forces with Barista, one of Sri Lanka’s largest café chains, to address the issue of menstrual hygiene management by installing sanitary napkin dispenser units with free sanitary napkins, across all Barista outlets.
-
-Through impactful partnerships, the Fems HER Foundation aims to dismantle obstacles and create an environment where women and girls nationwide can thrive without limitations. Aligning with the ‘Empower’ pillar of the HER Foundation, the project with Barista aims to provide convenient access to sanitary napkins across Sri Lanka, ensuring that women and girls can maintain good hygiene practices with ease and are encouraged to continue their journeys unhindered, breaking down societal barriers.
-
-...
-
-[Data](articles/e966952d.json)
-
-[Extended Data](ext_articles/e966952d.ext.json)
-
----
-
-### David Pieris Renewable Energy opens head office in Pelawatte
-
-*2024-05-27 04:10:00* · [`islandlk`](http://island.lk/david-pieris-renewable-energy-opens-head-office-in-pelawatte/) · `en`
-
-A significant milestone was achieved in Sri Lanka’s sustainable energy landscape and the David Pieris Group with the inauguration of the new head office of David Pieris Renewable Energy (Private) Limited.
-
-Strategically situated at No. 734B, New Parliament Road, Pelawatta, Battaramulla, the new office was opened by Rohana Dissanayake, Group Chairman and Managing Director, David Pieris Group of Companies along with the board directors of David Pieris Renewable Energy and directors of Group companies. This short and simple ceremony was attended by representatives from the Sustainable Energy Authority, customers, and other internal and external stakeholders.
-
-...
-
-[Data](articles/f435617e.json)
-
-[Extended Data](ext_articles/f435617e.ext.json)
 
 ---

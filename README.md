@@ -1,23 +1,23 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-27 10:18:42**
+As of **2024-05-27 10:33:58**
 
 ## Newspaper Stats
 
-*Scraped **26,488** Articles*
+*Scraped **26,494** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 237
-dbsjeyarajcom | 264
+dbsjeyarajcom | 265
 bbccomsinhala | 265
 newsfirstlk | 363
 islandlk | 1,441
 economynextcom | 1,511
 dailyftlk | 1,550
 adalk | 2,250
-adaderanalk | 3,033
-tamilmirrorlk | 3,106
+adaderanalk | 3,035
+tamilmirrorlk | 3,109
 virakesarilk | 4,040
 dailymirrorlk | 4,184
 adaderanasinhalalk | 4,244
@@ -26,53 +26,115 @@ adaderanasinhalalk | 4,244
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,486 (100.0%) of 26,488 articles have been extended.
+26,488 (100.0%) of 26,494 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-27 (Monday)
 
-### ගංගාවල ජල මට්ටම් ඉහළට
+### இஞ்சி விலை 5,000 ரூபாய்
+
+*2024-05-27 10:19:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இஞ்சி-விலை-5-000-ரூபாய்/175-337949) · `ta`
+
+ஒரு கிலோகிராம் இஞ்சியின் சில்லறை விலை ரூ. 5,000க்கு  நாரஹேன்பிட்டி பொருளாதார மத்திய நிலையத்தில் விற்கப்படுகின்றது.
+
+அதன்படி,   ஒரு கிலோ கிராம் எலுமிச்சையின் விலை    பொருளாதார மையத்தில் 1,800 ரூபாய்க்கு விற்பனை செய்யப்படுகின்றது.
+
+◼️
+
+[Data](articles/86fced39.json)
+
+---
+
+### Opposition MPs depart for Thailand and Russia to help rescue Sri Lankans in Myanmar cybercrime camps, Ukraine warfront
+
+*2024-05-27 10:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/99457/opposition-mps-depart-for-thailand-and-russia-to-help-rescue-sri-lankans-in-myanmar-cybercrime-camps-ukraine-warfront) · `en`
+
+Three opposition members have departed for Thailand early this morning (May 27) in order to coordinate a diplomatic mission aimed at rescuing Sri Lankans trapped in cybercrime camps in Myanmar and Sri Lankan war veterans stranded in the Russian-Ukrainian warfront.
+
+The delegation, comprising MPs Wasantha Yapa Bandara, J. C. Alawathuwala, and Sujith Sanjaya Perera, will engage in discussions with diplomats, relevant officials, and third parties to facilitate the rescue and repatriation of the victimized Sri Lankans.
+
+During their visit, which includes a five-day stay each in Myanmar and Russia, the MPs will deliver letters containing the demands of the Mahanayaka Theros and the Opposition Leader to the Sangha Nayaka Theros of Thailand and Myanmar, as well as to diplomatic officials in Russia.
+
+The group departed for Bangkok, Thailand, on SriLankan Airlines flight UL-402 at around 01:10 a.m. this morning, Ada Derana reporter said.
+
+◼️
+
+[Data](articles/242c728b.json)
+
+---
+
+### The water levels on the rivers
 
 *2024-05-27 10:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197055) · `si`
 
-අත්තනගලු ඔය, කැලණි, කළු, ගිං සහ නිල්වලා යන ගංගාවන් අද (27) උදෑසන වන විට ඉහළ ජල මට්ටම් වාර්තා කර තිබේ.
+High water levels were reported in rivers Attanagalu Oya, Kelaniya, Kalu, Gin, and Nilwala on 27th. The Irrigation Director warns residents near these rivers to be cautious due to potential flooding. In response, four sluice gates of the Deduru Oya Reservoir were opened, releasing 7,000 cubic meters of water per second, which could cause the Kukule Ganga river level to rise. Residents around the Bulathsinhala Divisional Secretariat area are advised to take note.
 
-මෙම ගංගා සියල්ල අවධානයෙන් සිටිය යුතු මට්ටමේ පවතින බව වාරිමාර්ග අධ්‍යක්ෂ ජල විද්‍යා සහ ආපදා කළමනාකරණ අංශයේ  ඉංජිනේරු එස්. පී. සී. සුගීෂ්වර මහතා පවසයි.
+🟩
 
-ඒ් හේතුවෙන් ඉහත කී ගංගා ආශ්‍රිත පහත් බිම්වල වෙසෙන ජනතාව වැඩි අවධානයෙන් පසුවිය යුතු බවත් දැනුම්දෙයි.
+Attanagalu Oya, Kelaniya, Kalu, Gin and Nilwala River have reported high water levels today (27).
 
-කුරුණෑගල දිස්ත්‍රික්කයේ දැදුරු ඔය ජලාශයේ අද උදෑසන වාන් දොරටු 4ක් විවෘත කර තිබේ. ඉන් තත්පරයට ඝන අඩි 7000ක පමණ ධාරිතාවයකින් ජලය මුදා හැරේ.
+Irrigation Director's Director of Irrigation Director of Irrigation Director, Engineering and Disaster Management Division. P. C. Sangsishwara says.
 
-කුකුලේ ගඟ විදුලි බලාගාර ජලාශයේ වාන් දොරටු ද විවෘත කර තිබෙන අතර ඉන් තත්පරයට ඝන අඩි 80ක පමණ ධාරිතාවයකින් ජලය මුදා හැරේ. ඒ හේතුවෙන් කුඩා ගඟේ ජල මට්ටම් ඉහළ යා හැකිය.
+He also notifies that the people living in the lowlands of these rivers should be considerate.
 
-ඒ හේතුවෙන් බුලත්සිංහල ප්‍රාදේශීය ලේකම් කොට්ඨාසයේ බලප්‍රදේශය තුළ වෙසෙන ජනතාව අවධානයෙන් පසුවිය යුතු බවද දැනුම්දෙයි.
+Four sluice gates of the Deduru Oya Reservoir in Kurunegala District have been opened. It releases water from about 7,000 cubits per second.
+
+Sluice gates of the Kukule Ganga power station. As a result, the water levels of the small river can rise.
+
+As a result, the people in the area of the Bulathsinhala Divisional Secretariat area should be noted.
 
 ◼️
 
 [Data](articles/4b2f7d3b.json)
 
+[Extended Data](ext_articles/4b2f7d3b.ext.json)
+
 ---
 
-### මෛත්‍රී පාර්ශ්වය වෙන තැනකට යයි
+### Israeli airstrikes kill at least 35 in Rafah, Gaza authorities say
+
+*2024-05-27 10:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/99456/israeli-airstrikes-kill-at-least-35-in-rafah-gaza-authorities-say) · `en`
+
+Israeli air strikes killed at least 35 Palestinians and wounded dozens in an area in the southern Gaza Strip city of Rafah designated for the displaced, Palestinian health and civil emergency service officials said.
+
+The Israeli military said its air force struck a Hamas compound in Rafah and that the strike was carried out with “precise ammunition and on the basis of precise intelligence.” It took out Hamas’ chief of staff for the West Bank and another senior official behind deadly attacks on Israelis, it said.
+
+“The IDF is aware of reports indicating that as a result of the strike and fire that was ignited several civilians in the area were harmed. The incident is under review.”
+
+The spokesman for the health ministry in the Hamas-run Gaza, Ashraf Al-Qidra, said 35 people were killed and dozens others, most of them women and children, were wounded in the attack.
+
+...
+
+[Data](articles/77664ad7.json)
+
+---
+
+### Maithri goes to another place
 
 *2024-05-27 09:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197054) · `si`
 
-පවතින දේශපාලන වාතාවරණය හමුවේ ශ්‍රී ලංකා නිදහස් පක්ෂයේ ඉදිරි කටයුතු වෙනත් ස්ථානයක සිට සිදුකරගෙන යාමට මෛත්‍රීපාල සිරිසේන හිටපු ජනාධිපතිවරයාගේ පාර්ශ්වය තීරණය කර ඇති බව වාර්තා වෙයි.
+In response to the current political climate, Maithripala Sirisena's party, the SLFP, plans to conduct its activities from a separate location outside Colombo. The decision comes amid ongoing political and legal challenges that have hindered the party's ability to convene its political and district organizers. Despite these obstacles, the party aims to establish a new political center in Colombo, inviting district and electoral organizers nationwide to gather there.
 
-ඒ අනුව ඉදිරි දේශපාලන කටයුතු සිදු කරගෙන යාම සඳහා ශ්‍රී ලංකා නිදහස් පක්ෂ මූලස්ථානය නොව කොළඹ පිහිටි වෙනත් ස්ථානයක් යොදා ගැනීමට නියමිත බව වාර්තා වෙයි.
+🟩
 
-මේ සම්බන්ධයෙන් ශ්‍රී ලංකා නිදහස් පක්ෂ දේශපාලන මණ්ඩලය සාකච්ඡා පවත්වමින් සිටන බව ද සඳහන් ය.
+It is reported that the party of Maithripala Sirisena has decided to carry out the SLFP in a separate location under the current political climate.
 
-පවතින දේශපාලන අර්බුදය හා අධිකරණ තීන්දු හේතුවෙන් ස්ථිර ස්ථානයක සිය දේශපාලන කටයුතු හා ආසන සහ දිස්ත්‍රික් සංවිධායකවරුන් කැඳවීමට නොහැකි තත්ත්වයක් උද්ගතවී ඇති බව සඳහන් ය.
+It is reported that the SLFP headquarters not to be carried out in Colombo to continue political activities.
 
-මෙම තත්ත්වය හමුවේ වෙනත් ස්ථානයක සිට පක්ෂයේ දේශපාලන කටයුතු සිදුකරගෙන යාම වඩාත් උචිත බව නිදහස් පක්ෂයේ මෛත්‍රීපාල සිරිසේන පාර්ශ්වය පෙන්වා දී ඇත.
+It is also said that the SLFP Politburo in this regard are being held in discussions.
 
-ඒ අනුව නව දේශපාලන මධ්‍යස්ථානයක් ආරම්භ කරමින් දිවයින පුරා සිටින දිස්ත්‍රික් සහ ආසන සංවිධායකවරුන් කොළඹට කැඳවා ඉදිරි දේශපාලන කටයුතු පිළිබඳව සාකච්ඡා කිරීමට නියමිතව තිබේ.
+It is reported that the existing political crisis and judicial decisions is unable to summon the political and seat and district organizers of their political and seats and district decisions.
+
+Freedom party Maithripala Sirisena has shown that it is best to carry out the party's political activities in this situation.
+
+Accordingly, the district and electoral organizers throughout the country are to be summoned to Colombo, commencing a new political center.
 
 ◼️
 
 [Data](articles/8a2682d9.json)
+
+[Extended Data](ext_articles/8a2682d9.ext.json)
 
 ---
 
@@ -158,6 +220,24 @@ With a maximum of 26 per cent of the arrival in India, 11 percent from the Maldi
 
 ---
 
+### சுற்றுலாப்பயணிகளின் வருகை 100,000ஐக் தாண்டும்
+
+*2024-05-27 09:22:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுற்றுலாப்பயணிகளின்-வருகை-100-000ஐக்-தாண்டும்/175-337943) · `ta`
+
+இலங்கைக்கான சுற்றுலாப்பயணிகளின் வருகையானது 100,000ஐக் கடக்கும் என எதிர்பார்க்கப்படுகின்றபோதும், மே மாதத்தில் 120,934 தொடக்கம் 131,112 வரையான இலக்குக்கு பின்னே நிற்கிறது.
+
+இம்மாதத்தின் முதல் மூன்று வாரங்களில் அதாவது முதலாம் திகதி தொடக்கம் 21ஆம் திகதி வரையில் 79, 431 பேர் வருகை தந்துள்ளதாக இலங்கை சுற்றுலா அபிவிருத்தி அதிகாரசபையின் தரவுகள் வெளிப்படுத்துகின்றன. கடந்தாண்டு மே மாதத்தில் 83,309 பேர் வருகை தந்திருந்தனர்.
+
+ஏப்ரலிலிருந்து கோடை காலம் வரையில் நெருக்கடியற்ற காலமாகையால் சுற்றுலாப் பயணிகளின் வருகையானது குறைவாகவே இருக்கும். எவ்வாறெனினும் விசாப் பிரச்சினையும் இம்மாத வீழ்ச்சிக்கு காரணமாக இருக்கலாமென அதிகாரிகள் தெரிவித்துள்ளனர்.
+
+இந்தியாவிலிருந்தே அதிகபட்சமாக 26 சதவீதமானோர் வருகை தந்த நிலையில், இரண்டாமிடத்தில் மாலைதீவுகளிலிருந்து 11 சதவீதமானோர் வருகை தந்துள்ளனர்.
+
+◼️
+
+[Data](articles/e1bdda2b.json)
+
+---
+
 ### Accepting applications for Grade 5 exam begins today
 
 *2024-05-27 09:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Accepting-applications-for-Grade-5-exam-begins-today/108-283413) · `en`
@@ -185,6 +265,8 @@ To download the applications, candidates are requested to log on to the Examinat
 *2024-05-27 09:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/99455/shooting-incident-reported-in-weligama) · `en`
 
 A shooting has reportedly taken place, a short while ago, near the Batawala Pathegama Model Primary School in Weligama, Matara.
+
+Reports indicate that a suspect in a previous shooting incident was the target of today’s shooting and that no injuries have been reported in the incident.
 
 ◼️
 
@@ -253,6 +335,20 @@ A shot of a shot of Patregama Model Primary School in Weligama, Matara.
 [Data](articles/f5f45b80.json)
 
 [Extended Data](ext_articles/f5f45b80.ext.json)
+
+---
+
+### A/L பெறுபேறுகள் வருகிறது
+
+*2024-05-27 08:42:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/A-L-பெறுபேறுகள்-வருகிறது/175-337940) · `ta`
+
+கல்விப் பொதுத் தராதர உயர்தரப் பரீட்சை பெறுபேறுகள் இந்த வாரம் வெளியாகும் என்று பரீட்சைகள் திணைக்களம் தெரிவித்துள்ளது.
+
+இன்று அல்லது நாளை பெறுபேறுகள் வெளியாகும் என்ற சமூக வலைத்தளங்களில்  வெளியிடப்படும் உறுதிப்படுத்தப்படாத தகவல்களை நம்ப வேண்டாம் எ பரீட்சைகள் திணைக்களம் தெரிவித்துள்ளது. R
+
+◼️
+
+[Data](articles/1a859715.json)
 
 ---
 
@@ -1706,6 +1802,22 @@ Meanwhile, Sri Lanka finished with one Silver Medal and two Bronze Medals at the
 
 ---
 
+### 
+
+*2024-05-26 21:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84101) · `en`
+
+Gnanasara Thera was able to say and do anything without fear of the law during the Rajapaksa regime. During the reign of the Rajapaksas, Gnanasara Thera criticised   Ranil Wickremesinghe in words that are Unmentionable.The Thera was so useful to the Rajapaksas that he was appointed  head of a  Presidential Task Force.
+
+When the Colombo High Court sent Bodu Bala Sena (BBS) General Secretary Ven. Galagoda Aththe Gnanasara Thera to prison two months ago, it was not unexpected that intense efforts would be made to get him out as soon as possible.
+
+The Chief Prelates of Sri Lanka’s three main Buddhist chapters have jointly written to President Ranil Wickremesinghe to pardon and release him on the occasion of the Vesak festival. The day after this news was published, it was also reported that Gnanasara Thera’s name was not in the list of prisoners to be released on the occasion of Vesak. So it doesn’t seem possible for him to come out soon.
+
+...
+
+[Data](articles/56f769d0.json)
+
+---
+
 ### Shield of Shiky Lirgin Leader Ananda Perera
 
 *2024-05-26 21:09:43* · [`adalk`](https://www.ada.lk/breaking_news/සිහශක්ති-සංගීත-කණ්ඩායමේ-නායක-ආනන්ද-පෙරේරා-සමුගනියි/11-409832) · `si`
@@ -2049,129 +2161,5 @@ It is the largest medical rehabilitation and mental development center in the No
 [Data](articles/bb47852e.json)
 
 [Extended Data](ext_articles/bb47852e.ext.json)
-
----
-
-### UN fears 670 people buried under Papua landslide
-
-*2024-05-26 19:07:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/UN-fears-670-people-buried-under-Papua-landslide/107-283371) · `en`
-
-May 26 (BBC) - About 670 people are estimated to be buried under a massive landslide in Papua New Guinea, a UN official says.
-
-The head of the International Organization for Migration in Papua New Guinea, Serhan Aktoprak, said the impact of Friday's landslide in the country's isolated Enga province was greater than initially thought.
-
-"There are an estimated 150-plus houses now buried," Mr Aktoprak said.
-
-The affected areas are in the highlands of Enga, in the north of the island nation in the south-west Pacific.
-
-Mr Aktoprak said rescuers were at risk because "the land still sliding".
-
-"The water is running and this is creating a massive risk for everyone involved," he said.
-
-There are nearly 4,000 people living in the area hit by the landslide.
-
-But Care Australia, the humanitarian agency which is helping with relief efforts, warned that the number affected was "likely to be higher" because of an influx of people escaping tribal conflicts in neighbouring areas.
-
-...
-
-[Data](articles/f21c65ac.json)
-
-[Extended Data](ext_articles/f21c65ac.ext.json)
-
----
-
-### Who was responsible for the death of the Iranian president?
-
-*2024-05-26 18:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/184555) · `ta`
-
-Iranian President's death occurred when his helicopter crashed in East Azerbaijan due to unknown reasons. The government hasn't confirmed details, and the initial report came from the head of Iran's security forces.
-
-🟩
-
-The helicopter has fallen while traveling in the middle of a dense iceberg in the hilly area of ​​East Azerbaijan state. The Iranian government has not officially announced anything about the incident.
-
-The chief of the Iranian security forces issued the first report on the accident yesterday.
-
-◼️
-
-[Data](articles/00f5f6cb.json)
-
-[Extended Data](ext_articles/00f5f6cb.ext.json)
-
----
-
-### French Ambassador to Sri Lanka dies of suspected cardiac arrest
-
-*2024-05-26 18:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/French-Ambassador-to-Sri-Lanka-dies-of-suspected-cardiac-arrest/155-283370) · `en`
-
-Colombo, May 26 (Daily Mirror) - The French ambassador to Sri Lanka, Jean Francois Pactet, died of a suspected cardiac arrest at his official residence in Rajagiriya today.
-
-Police Spokesman DIG Nihal Thalduwa said the 53-year-old ambassador was found dead at his residence this morning.
-
-It was revealed that the ambassador did not come out of his room today, and when checked, he was found dead.
-
-The Welikada Police are investigating the incident, and a post-mortem examination is to be conducted.
-
-◼️
-
-[Data](articles/840090ee.json)
-
-[Extended Data](ext_articles/840090ee.ext.json)
-
----
-
-### French Ambassador to Sri Lanka dies of suspected cardiac arrest
-
-*2024-05-26 18:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/French-Ambassador-to-Sri-Lanka-dies-of-suspected-cardiac-arrest/108-283370) · `en`
-
-Colombo, May 26 (Daily Mirror) - The French ambassador to Sri Lanka, Jean Francois Pactet, died of a suspected cardiac arrest at his official residence in Rajagiriya today.
-
-Police Spokesman DIG Nihal Thalduwa said the 53-year-old ambassador was found dead at his residence this morning.
-
-It was revealed that the ambassador did not come out of his room today, and when checked, he was found dead.
-
-The Welikada Police are investigating the incident, and a post-mortem examination is to be conducted.
-
-◼️
-
-[Data](articles/c0bd049b.json)
-
-[Extended Data](ext_articles/c0bd049b.ext.json)
-
----
-
-### Ashraf Museum and mouth shot
-
-*2024-05-26 18:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/184553) · `ta`
-
-Sri Lankan Muslims commemorated the 24th anniversary of the tragic helicopter crash near Aranayaka Mountain, where SLMC founder MHM Ashraf perished. This event led President Ranil Wickremesinghe to allocate funds for the Ashraf Museum, honoring the legacy of Ashraf.
-
-🟩
-
-Sri Lankan Muslims reminded Sri Lankan Muslims the historical tragedy in the helicopter Aranayaka mountain traveler, MHM Ashraf, the founder of the Sri Lanka Muslim Congress (SLMC) 24 years ago.. It is at this time that President Ranil Wickremesinghe has allocated Rs.. In fact, the president has allocated funds to the Ashraf Museum.
-
-◼️
-
-[Data](articles/8f48577f.json)
-
-[Extended Data](ext_articles/8f48577f.ext.json)
-
----
-
-### The Slovaki Prime Minister's murder attempt and the West's political
-
-*2024-05-26 18:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/184551) · `ta`
-
-An attempted assassination on the Slovak Prime Minister occurred on May 15th in Hanadloo. The shooter aimed to kill the PM, but the quick action of guards led to the PM being rushed to a hospital 30 km away. Despite initial concerns, the PM's condition has stabilized, though he remains in danger due to his injuries.
-
-🟩
-
-It is believed that the shooter was acting with the aim of killing the prime minister. Immediately after the shooter, the guards took the Prime Minister to the hospital, about 30 kilometers away from the aircraft aircraft.. State sources said that Pico, who was injured in the incident in Hanadloo, on May 15, is still in danger of receiving treatment at the hospital.
-
-◼️
-
-[Data](articles/eb88e3c4.json)
-
-[Extended Data](ext_articles/eb88e3c4.ext.json)
 
 ---

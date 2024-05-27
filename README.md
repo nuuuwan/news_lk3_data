@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-27 05:18:45**
+As of **2024-05-27 05:36:31**
 
 ## Newspaper Stats
 
-*Scraped **26,441** Articles*
+*Scraped **26,442** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 236
+colombotelegraphcom | 237
 dbsjeyarajcom | 262
 bbccomsinhala | 265
 newsfirstlk | 363
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,234
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,441 (100.0%) of 26,441 articles have been extended.
+26,441 (100.0%) of 26,442 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -509,6 +509,18 @@ Earlier, at the UAE Grand Prix in Dubai, he finished the Men’s 100m event with
 [Data](articles/70667c23.json)
 
 [Extended Data](ext_articles/70667c23.ext.json)
+
+---
+
+### Gamini Karunathilake Offers Practical Handbook On Credit Evaluation
+
+*2024-05-26 23:39:21* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/gamini-karunathilake-offers-practical-handbook-on-credit-evaluation/) · `en`
+
+Professionals in retirement are used to sharing their experiences in the form of manuals or handbooks with readers. Bankers have been very generous in doing so. The latest to add his name to this group of bankers has been Gamini Karunathilake who had been a senior officer of the Bank of Ceylon and later, the Managing Director of its subsidiary, Merchant Bank of Sri Lanka. He has released the second of such books under the title ‘Principles of Bank Credit Evaluation and Credit Structuring: A Practical Approach’. His first book has also been in the same theme, ‘The Law and Practice of Bank Securities and Recoveries’, published in 2018.
+
+...
+
+[Data](articles/e81db453.json)
 
 ---
 
@@ -2161,25 +2173,5 @@ The US resolution on Sri Lanka's war violations may not significantly impact the
 [Data](articles/a449c34c.json)
 
 [Extended Data](ext_articles/a449c34c.ext.json)
-
----
-
-### The number of trees in Colombo due to rain and winds
-
-*2024-05-26 15:57:13* · [`adalk`](https://www.ada.lk/breaking_news/වැසි-සහ-සුළං-නිසා-කොළඹ-ගස්-කඩා-වැටීම්-ගණන-ඉහලට/11-409827) · `si`
-
-Heavy rains and winds in Colombo caused 19 trees to fall, mainly in Maadavi Park and roads. The Power and Environmental Director of the Colombo Municipal Council is overseeing their removal, ensuring safety.
-
-🟩
-
-Power and Environmental Director of the Colombo Municipal Council has been reported due to heavy rains and windy weather.
-
-19 trees have taken place in the temple Maadavi Park and other trees have taken place in the road. The removal of those trees is being carried out by now. He further said that there are any further unsafe trees in those areas.
-
-◼️
-
-[Data](articles/3fb662cd.json)
-
-[Extended Data](ext_articles/3fb662cd.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-27 12:18:33**
+As of **2024-05-27 12:34:16**
 
 ## Newspaper Stats
 
-*Scraped **26,521** Articles*
+*Scraped **26,525** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,72 @@ newsfirstlk | 363
 islandlk | 1,441
 economynextcom | 1,514
 dailyftlk | 1,550
-adalk | 2,252
+adalk | 2,253
 adaderanalk | 3,039
-tamilmirrorlk | 3,114
+tamilmirrorlk | 3,116
 virakesarilk | 4,046
 dailymirrorlk | 4,185
-adaderanasinhalalk | 4,250
+adaderanasinhalalk | 4,251
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,520 (100.0%) of 26,521 articles have been extended.
+26,521 (100.0%) of 26,525 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-27 (Monday)
+
+### කටුනායක ගුවන්තොටුපොළට පැමිණෙන වාහන සඳහා වැදගත් නිවේදනයක්
+
+*2024-05-27 12:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197062) · `si`
+
+කටුනායක ගුවන්තොටුපොළේ පැමිණීම් පර්යන්තය පිටත වාහන නවතා තැබීම ක්‍රමවත් කිරීම සඳහා ගුවන්තොටුපොළ සහ ගුවන්සේවා සමාගම පියවර ගෙන තිබේ.
+
+ඒ අනුව රියදුරෙක් නොමැතිව වාහන එම ස්ථානයේ නවතා තැබීම තහනම් වන අතර ආගමන ගුවන් මගීන් රැගෙන යෑමට පැමිණි වාහන අදාළ රථගාල් වල සිට නියමිත වේලාවට පමණක් පැමිණීමේ පර්යන්තය පිටතට පැමිණිය යුතුය.
+
+රියදුරු සහිතව ද පරිශ්‍රය තුළ වාහන තදබදයක් ඇතිවන පරිදි විනාඩි 30කට වඩා එම ස්ථානයේ ගැවසෙන වාහන සඳහා ගුවන්තොටුපොළ පරිශ්‍රයෙන් පිටතට යනවිට විශේෂ ගාස්තුවක් අයකරන බව ගුවන්තොටුපොළ සහ ගුවන්සේවා සමාගම පැවසීය.
+
+මෙහි අරමුණ වන්නේ අයථා වාහන සහ පුද්ගලයින් ගුවන්තොටුපොළ පරිශ්‍රයට පැමිණීම පාලනය කිරීම බව එම සමාගම වැඩිදුරටත් පෙන්වාදුනි.
+
+◼️
+
+[Data](articles/9170ebba.json)
+
+---
+
+### பிரான்ஸ் நாட்டில் அமைச்சர் மஹிந்த அமரவீர
+
+*2024-05-27 12:13:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரான்ஸ்-நாட்டில்-அமைச்சர்-மஹிந்த-அமரவீர/175-337962) · `ta`
+
+விவசாய மற்றும் பெருந்தோட்ட கைத்தொழில் அமைச்சர் மஹிந்த அமரவீர பிரான்ஸ் நாட்டின் பாரிஸ் நகருக்குச் சென்று, விலங்குகள் ஆரோக்கியத்திற்கான உலக அமைப்பின் 100வது நினைவேந்தல் நிகழ்வில் பங்குபற்றினார்.
+
+கால்நடை உற்பத்தி மற்றும் சுகாதார திணைக்களத்தின் பணிப்பாளர் நாயகம் ஹேமலி கொத்தலாவல உள்ளிட்ட குழுவினரும் குறித்த மாநாட்டில் பங்கேற்றுள்ளனர்.
+
+உலக விலங்கு சுகாதார அமைப்பின் இயக்குநர் ஜெனரல் டாக்டர். Hugo Idoyaga Benitez அழைப்பின் பேரில், அமைச்சர் மற்றும் பிரதிநிதிகள் இந்த மாநாட்டில் பங்கேற்றுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/2b22e6d9.json)
+
+---
+
+### களு துஷாராவின் மகன் கைது
+
+*2024-05-27 12:06:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/களு-துஷாராவின்-மகன்-கைது/175-337961) · `ta`
+
+2012ஆம் ஆண்டு வெலிக்கடை சிறைச்சாலையில் இடம்பெற்ற கலவரத்தின் போது உயிரிழந்த , பாதாள உலகக் குழு உறுப்பினரான மஹரகம களு துஷாரவின் மகன் அவரது நண்பர்கள் மூவருடன் ,  மாத்தறை, பிக்வெல்ல பிரதேசத்தில் உள்ள விடுதி ஒன்றில் வைத்து ஞாயிற்றுக்கிழமை (25) கைது செய்யப்பட்டுள்ளார் .
+
+பொலிஸாருக்கு கிடைக்கப்பெற்ற தகவலுக்கமைய மேற்கொண்ட தேடுதலின் போதே குறித்த நால்வர் கைது செய்யப்பட்டுள்ளதுடன் இதன்போது அவர்களிடமிருந்து ஹெரோயின் போதைப்பொருள் மற்றும் போதை குளிசைகள் அடங்கிய பொதி ஒன்றும், வெளிநாட்டில் தயாரிக்கப்பட்ட துப்பாக்கி ஒன்றும்  மீட்கப்பட்டுள்ளது .
+
+கைது செய்யப்பட்ட நால்வரும் , விருந்தொன்றை ஏற்பாடு செய்வதற்கும் துப்பாக்கியில் சிக்கியிருந்த சன்னங்களை அகற்றுவதற்கும் கொழும்பில் இருந்து மாத்தறைக்கு  வந்ததாக பொலிஸாரிடம் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/ea184545.json)
+
+---
 
 ### Susping of China
 
@@ -47,6 +97,24 @@ China's earthquake information stated that there was a powerful earthquake in Mo
 [Data](articles/19407211.json)
 
 [Extended Data](ext_articles/19407211.ext.json)
+
+---
+
+### නිල නිවස තුලදී ප්‍රංශ තානාපති අභිරහස් ලෙස මියගිහින්
+
+*2024-05-27 11:51:00* · [`adalk`](https://www.ada.lk/breaking_news/නිල-නිවස-තුලදී-ප්‍රංශ-තානාපති-අභිරහස්-ලෙස-මියගිහින්/11-409838) · `si`
+
+ශ්‍රී ලංකාවේ ප්‍රංශ තානාපති ජින් ෆැන්කොයිස් පොක්ටෙට් මහතා රාජගිරියේ පිහිටි ඔහුගේ නිල නිවෙසේ නිදන කාමරයේ ඇඳක් මත මියගොස් සිටිය දී ඊයේ (26) දින දහවල් සොයාගෙන තිබූ අතර 53 හැවිරිදි ඔහුගේ මරණය තවම අභිරහසකි.
+
+ජීන් ෆ්රැන්කොයිස් පැක්ටේට් මහතා 2022 ඔක්තෝම්බර් මාසයේ සිට ශ්‍රී ලංකාවේ, ප්‍රංශ තානාපතිවරයා ලෙස කටයුතු කරමින් සිට ඇත.
+
+ප්‍රංශ තානාපතිවරයා තනිවම  නිල නිවාසයේ වාසය කරමින් සිටි අතර තානාපතිවරයා උදෑසන අවදි නොවීම නිසා ප්‍රංශ තානාපති කාර්යාලයේ  ආරක්ෂක නිලධාරින් ඒ ගැන විපරම් කර බැලීමේ දී සිරුර නිදන කාමරයේ ඇඳ මත තිබෙනු දැක ඔහුගෙන් ප්‍රතිචාර නොමැති නිසා  වැලිකඩ පොලිසියට දැනුම් දී ඇත. මරණයට හේතු තවමත් අනාවරණය වී නොමැත.
+
+මරණය සම්බන්ධයෙන් වන ස්ථානීය මරණ පරීක්ෂණය ඊයේ (26) රාත්‍රියේ දී සිදුකර තිබෙයි. පශ්චාත් මරණ පරීක්ෂණයක් පවත්වා තානාපතිවරයාගේ මරණයට හේතු සොයා ගැනීමට වැලිකඩ පොලිසිය කටයුතු යොදා ඇත.
+
+...
+
+[Data](articles/9f6555fd.json)
 
 ---
 
@@ -422,21 +490,31 @@ Several police teams and the STF continue to investigate into the incident.
 
 ---
 
-### නාමල් ජාත්‍යන්තර කුමන්ත්‍රණයක් ගැන ක‍ි රැළියට ඇමති ශෙහාන් පැමිණ නෑ
+### Shehan has not come to the rally about Namal's international conspiracy
 
 *2024-05-27 10:30:28* · [`adalk`](https://www.ada.lk/breaking_news/නාමල්-ජාත්‍යන්තර-කුමන්ත්‍රණයක්-ගැන-ක‍ි-රැළියට-ඇමති-ශෙහාන්-පැමිණ-නෑ/11-409837) · `si`
 
-ඉදිරියේදී පැවැත්වෙන ඕනෑම මැතිවරණයක් තම පක්ෂය ජයග්‍රහණය කරන බව ශ්‍රී ලංකා පොදු ජනපෙරමුණේ ජාතික සංවිධායක පාර්ලිමේන්තු මන්ත්‍රී නාමල් රාජපක්ෂ කලාවැව ආසන බල මණ්ඩල සම්මේලනයේදී පැවසීය.
+Namal Rajapaksa, MP and National Organizer of the Commonwealth Parliamentarian, addressed a conference, highlighting the importance of unity and agriculture in Sri Lanka's future governance. He criticized false promises in Rajapakse politics and mentioned international forces backing terrorist organizations. Notably, Minister Shehan Semasinghe did not attend the event.
 
-"සටන අරඹමු රජරටින්" යන තේමාව යටතේ හිටපු ජනාධිපති මහින්ද රාජපක්ෂගේ ප්‍රධානත්වයෙන් තලාව නගරයේ ඊයේ(26) පැවති ශ්‍රී ලංකා පොදුජන පෙරමුණේ මංගල ආසන සමුළුවේදී මේ බව මන්ත්‍රීවරයා අනාවරණය කළේය.
+🟩
 
-මෙහිදී තවදුරටත් අදහස් දැක්වූ නාමල් රාජපක්ෂ පාර්ලිමේන්තු මන්ත්‍රීවරයා මෙසේද පැවසීය.
+National Organizer of the Commonwealth Parliamentarian MP Namal Rajapaksa said at the Kalawwawa Prabhaneric Cabinet Conference.
 
-"  ශ්‍රී ලංකා පොදුජන පෙරමුණ කියන්නේ මේ රටේ අනාගත දරුවන්ගේ පක්ෂයයි.ඒ හේතුවෙන් ඉදිරියේදී බුද්ධිමත් තීරණයක් මේ රටේ ජනතාව ගනීවි.විවිධ අය විවිධ කතා කියාවි.තව අවුරුදු පහකට දහයකට ඡන්ද තියන්න ඕනේ නෑ කියලා.එහෙම වෙන්නේ නෑ.ඉදිරියේදී අනිවාර්යෙන් මැතිවරණ තියෙනවා.මහින්ද රාජපක්ෂ කිසිදා බොරු පොරොන්දු දීලා නෑ.මහින්ද රාජපක්ෂගේ දේශපාලනයේ ඉතිහාසයේ ඒකයි.
+The MP was revealed at the Sri Lanka Civil Appointment Conference held in the Sri Lanka General Assembly held yesterday (26) under the patronage of former President Mahinda Rajapaksa.
+
+Speaking further, MP Namal Rajapaksa said,
+
+"The Sri Lankan General Front is the party's future children in the country.False promises have not been taught. That is in the history of Rajapakse's politics.
+
+The next government we establish is an agricultural government.Uniting the country. Terrorist organizations have even international forces for this purpose. "
+
+Members of Parliament WMD. Weerasinghe, Sanjeewa Edirimanna, Rohitha Abeygunawardena, SC Muthukkarachchi, SC Muthukku Samarakoon, former Chief Minister SM Ranjith Samarakoon, former Chief Minister of the Former Provincial Council Chairman TMR. Siripala People's Representatives commented.
 
 ...
 
 [Data](articles/647b809e.json)
+
+[Extended Data](ext_articles/647b809e.ext.json)
 
 ---
 
@@ -2121,87 +2199,5 @@ Professionals in retirement are used to sharing their experiences in the form of
 [Data](articles/e81db453.json)
 
 [Extended Data](ext_articles/e81db453.ext.json)
-
----
-
-### Resilience and revival amidst revered rituals: A post-Vesak pondering
-
-*2024-05-26 23:36:16* · [`dailyftlk`](https://www.ft.lk/columns/Resilience-and-revival-amidst-revered-rituals-A-post-Vesak-pondering/4-762166) · `en`
-
-We have just witnessed a colourful Vesak amid heavy showers. Amidst the economic woes, enthusiastic devotees resorted to various rituals with reverence. Sri Lankans have begun to show their serenity, synergy, and solidarity, in steadily moving through a turbulence. Today’s column reflects our resilience and revival, with inherited prospects and pitfalls.
-
-“Our ability to reach unity in diversity will be the beauty and test of our civilisation,” said Mahatma Gandhi. In fact, it is our duty to ensure that beauty of unity in diversity. It is encouraging to see people from all walks of life coming forward with rare unity despite typical blame games of opportunistic politicians. Vesak as a festival of light was a reassurance of “Apekema” (the “SriLankanness”) dispelling the darkness of chaos and confusion. The starting point of such a rich experience is the inner serenity or stillness.
-
-...
-
-[Data](articles/df71e6e3.json)
-
-[Extended Data](ext_articles/df71e6e3.ext.json)
-
----
-
-### Gamini Karunathilake offers practical handbook on credit evaluation
-
-*2024-05-26 23:15:53* · [`dailyftlk`](https://www.ft.lk/columns/Gamini-Karunathilake-offers-practical-handbook-on-credit-evaluation/4-762164) · `en`
-
-The book is useful not only to practicing bankers but also to students of banking and the general readers. Those who criticise banks for following unwieldy, time-consuming methods of credit evaluation and sanctioning will learn, by mastering this book, why banks have been compelled to do so
-
-Professionals in retirement are used to sharing their experiences in the form of manuals or handbooks with readers. Bankers have been very generous in doing so. The latest to add his name to this group of bankers has been Gamini Karunathilake who had been a senior officer of the Bank of Ceylon and later, the Managing Director of its subsidiary, Merchant Bank of Sri Lanka. He has released the second of such books under the title ‘Principles of Bank Credit Evaluation and Credit Structuring: A Practical Approach’. His first book has also been in the same theme, ‘The Law and Practice of Bank Securities and Recoveries’, published in 2018.
-
-...
-
-[Data](articles/521d2c2b.json)
-
-[Extended Data](ext_articles/521d2c2b.ext.json)
-
----
-
-### Exchange is not allowed for breastfeeding
-
-*2024-05-26 22:59:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாய்ப்பால்-விற்பனைக்கு-அனுமதி-இல்லை/175-337934) · `ta`
-
-The Food Safety and Standards Commission has banned the processing, selling, and licensing of breastfeeding under the Food Safety and Standards Act of 2006. This decision comes after complaints about breastfeeding sales on platforms like Instagram. The commission emphasizes that breastfeeding should only be provided to infants and not used for commercial purposes.
-
-🟩
-
-Breastfeeding is not authorized to process or sell. The Food Security and Standards Commission has ordered the state governments to avoid issuing licenses.
-
-“Food Safety and Standards Act, Breastfeeding Processing or Selling Under the Rules of 2006. Therefore, it should immediately stop the sale of breastfeeding and related products. If the rules are violated, action will be taken.
-
-Federal and state governments should not be licensed for food businesses involved in breastfeeding. This should be confirmed by the central and state governments.
-
-Breastfeeding cannot be used for any commercial purpose according to the guidelines of public health lactation centers. It should only be provided to the infants. ”- That is said.
-
-There have been complaints that breastfeeding sales are currently underway through online, including Instagram.. It is in this context that the Food Safety and Standards Authority of India has issued such an order. (A)
-
-◼️
-
-[Data](articles/7b93171f.json)
-
-[Extended Data](ext_articles/7b93171f.ext.json)
-
----
-
-### IPL: Champion is Kolkata Knight Riders
-
-*2024-05-26 22:48:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/ஐ-பி-எல்-சம்பியனானது-கொல்கத்தா-நைட்-றைடர்ஸ்/44-337933) · `ta`
-
-Kolkata Knight Riders won the IPL title for the third time, defeating Sunrisers Hyderabad in the finals held in Chennai. Despite losing early wickets, Kolkata managed to score 114 runs in 10.3 overs, thanks to Venkatesh Iyer's unbeaten 52 runs off 26 balls and 39 runs off 32 balls. Sunrisers' bowlers, including Mitchell Stark, Vaibhav Aurora, Harshid Rana, Andre Russell, Varun Emperor, and Sunil Narine, dismissed Kolkata for 113 runs in 18.3 overs.
-
-🟩
-
-Kolkata was the third time in the final with the Sunrisers Hyderabad, which ended in Chennai.
-
-Sunrisers's team captain, Tuk Kamins Damadhani, announced that he would bat first.
-
-Sunrisers, Mitchell Stark (2), Vaibhav Aurora, Harshid Rana (2), Andre Russell (3), Varun Emperor, Sunil Narin took wickets in 18.3 overs and lost 113 runs.
-
-In response, Kolkata lost 114 runs and lost 2 wickets in 10.3 overs with Venkatesh Iyer's unbeaten 52 (26) and 39 (32) runs.
-
-◼️
-
-[Data](articles/a4daf3df.json)
-
-[Extended Data](ext_articles/a4daf3df.ext.json)
 
 ---

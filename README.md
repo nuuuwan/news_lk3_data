@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-27 19:18:45**
+As of **2024-05-27 19:34:02**
 
 ## Newspaper Stats
 
@@ -26,29 +26,35 @@ adaderanasinhalalk | 4,269
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,621 (100.0%) of 26,627 articles have been extended.
+26,627 (100.0%) of 26,627 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-27 (Monday)
 
-### ගංවතුර තත්ත්වයක් ගැන හදිසි දැනුම්දීමක්
+### An notice of flooding
 
 *2024-05-27 19:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197081) · `si`
 
-කළු ගඟේ අතු ගංගාවක් වන කුඩා ගඟ මිල්ලකන්ද ප්‍රදේශයේ සුළු ගංවතුර තත්ත්වයක් දක්වා වර්ධනය වී ඇති බව වාරිමාර්ග දෙපාර්තමේන්තුව පවසයි.
+Flooding alert: The Kalu River near Milkanda has reached a minor flood stage with a water level of 6.53 meters. If it rises above 8 meters, the Department of Irrigation warns of potential issues. Additionally, water levels in Gin and Nilwala rivers are also rising.
 
-එම දෙපාර්තමේන්තුව පෙන්වාදෙන්නේ අද පස්වරු 6 වනවිට කුඩා ගඟේ ජල මට්ටම මීටර් 6.53ක් දක්වා ඉහළගොස් ඇති බවය.
+🟩
 
-එම මට්ටම මීටර් 8ක් ඉක්මවා ගියහොත් එය මහා ගංවතුර තත්ත්වයක් බව වාරිමාර්ග දෙපාර්තමේන්තුව සඳහන් කරයි.
+The Kalu River of the Kalu River Kalu River has increased to a small flood in Milkanda area.
 
-එසේම වාරිමාර්ග දෙපාර්තමේන්තුව සඳහන් කරන්නේ පවතින වැසි තත්ත්වයත් සමග මගුරු ගඟේ ජල මට්ටම ද ඉහළයමින් පවතින බවය.
+The department indicates that the water level of the small river was up to 6.53 meters.
 
-ඊට අමතරව ගිං සහ නිල්වලා ගංගාවල ජල මට්ටම් ද තවදුරටත් ඉහළයමින් පවතින බව වාරිමාර්ග දෙපාර්තමේන්තුව වැඩිදුරටත් සඳහන් කරයි.
+The Department of Irrigation states that if the level exceeds 8 meters, the Department of Irrigation said.
+
+The Department of Irrigation states that the water level of the river is also increased.
+
+In addition, the water levels of Gin and Nilwala Runwala are also increasing.
 
 ◼️
 
 [Data](articles/fc161615.json)
+
+[Extended Data](ext_articles/fc161615.ext.json)
 
 ---
 
@@ -70,23 +76,31 @@ As he lauded Saudi Arabia’s Vision 2030, Ajwad said that Sri Lanka can contrib
 
 [Data](articles/4c8e2a64.json)
 
+[Extended Data](ext_articles/4c8e2a64.ext.json)
+
 ---
 
-### තුර්කියේ බිහිසුණු අනතුරක්
+### Turkey is a terrible danger
 
 *2024-05-27 18:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197080) · `si`
 
-තුර්කියේ අධිවේගී මාර්ගයක සිදුවූ බිහිසුණු අනතුරකින් පුද්ගලයින් 10 දෙනෙකුට ආසන්න ප්‍රමාණයක් මියගොස් ඇති බව විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
+In Turkey, a horrific accident on a highway near Merverst resulted in the deaths of almost 10 individuals. A bus skidded off the road and crashed into two cars, involving three vehicles in total.
 
-දකුණු දිග තුර්කියේ මර්සින් ප්‍රදේශයේ අධිවේගී මාර්ගයක මෙම අනතුර සිදුව ඇත.
+🟩
 
-අයපත් කාලගුණික තත්ත්වයත් සමග බස් රථයක් ප්‍රතිවිරුද්ධ මංතීරුවට ලිස්සා ගොස් කාර් රථ දෙකක ගැටී ඇති බව විදෙස් මාධ්‍ය වැඩිදුරටත් වාර්තා කර ඇත.
+Foreign media reports that nearly 10 people were killed in a terrifying accident on a highway of the Turkey.
 
-අනතුරුව ලොරි රථයක් එම රථ තුනෙහිම වැදී මෙම අනතුර සිදුව ඇති බව එම මාධ්‍ය වාර්තා වැඩිදුරටත් සඳහන් කරයි.
+The accident had occurred on a highway in the Merverst area of the right Turkey.
+
+A bus slipped into the opposing lake and collided with two car accidents along the opposing lake.
+
+The accident had occurred on the three vehicles leaving a lorry.
 
 ◼️
 
 [Data](articles/5bbf78f4.json)
+
+[Extended Data](ext_articles/5bbf78f4.ext.json)
 
 ---
 
@@ -105,6 +119,8 @@ Meanwhile, so far a total of 07 deaths have been reported due to fallen trees ca
 ...
 
 [Data](articles/1a46d97e.json)
+
+[Extended Data](ext_articles/1a46d97e.ext.json)
 
 ---
 
@@ -189,6 +205,8 @@ The High Commissioner has later distributed school bags among children while vis
 ◼️
 
 [Data](articles/4737fe28.json)
+
+[Extended Data](ext_articles/4737fe28.ext.json)
 
 ---
 

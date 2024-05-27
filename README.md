@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-27 10:33:58**
+As of **2024-05-27 10:52:17**
 
 ## Newspaper Stats
 
-*Scraped **26,494** Articles*
+*Scraped **26,501** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,34 +15,98 @@ newsfirstlk | 363
 islandlk | 1,441
 economynextcom | 1,511
 dailyftlk | 1,550
-adalk | 2,250
+adalk | 2,251
 adaderanalk | 3,035
 tamilmirrorlk | 3,109
-virakesarilk | 4,040
+virakesarilk | 4,045
 dailymirrorlk | 4,184
-adaderanasinhalalk | 4,244
+adaderanasinhalalk | 4,245
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,488 (100.0%) of 26,494 articles have been extended.
+26,494 (100.0%) of 26,501 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-27 (Monday)
 
-### இஞ்சி விலை 5,000 ரூபாய்
+### මාතර වැලිගම වෙඩිල්ල ගැන තවත් තොරතුරු
+
+*2024-05-27 10:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197056) · `si`
+
+මාතර වැලිගම බටවල පාතේගම ආදර්ශ ප්‍රාථමික විද්‍යාලය අසලදී අද (27) උදෑසන සිදුකළ වෙඩිතැබීම ගැන තවත් තොරතුරු හෙළිවී තිබේ.
+
+මිදිගම පොලිස් වසමේ පදිංචි තරුණයෙකුට යතුරුපැදියකින් පැමිණි පුද්ගලයින් දෙදෙනෙකු විසින් මෙම වැඩිතැබීම සිදුකර පළාගොස් තිබුණි.
+
+මිදිගම පිටිදූව පාරේ පදිංචි සුදේෂ් මධුසංක නමැති 30 හැවිරිදි පුද්ගලයෙකු අද උදැසන සිය දරුවන් දෙදෙනා බටවල පාතේගම ආදර්ශ කනිෂ්ඨ විද්‍යාලය වෙත රැගෙන ආ අවස්ථාවේදී එම පුද්ගලයා ඉලක්ක කොට මෙම වෙඩිතැබීම සිදුකර ඇත.
+
+⁣වෙඩිතැබීමට ඉලක්කය වූ පුද්ගලයා නඳුන් චින්තක නොහොත් 'හරක් කටා' යන අයගේ පාර්ශ්වයේ පුද්ගලයකු වන අතර ඔහුට විරුද්ධව 2022.01.20 වන දින මිදිගම තුර්කි ගම්මානයේදී පුද්ගලයෙකුට වෙඩිතැබීමක් සම්බන්ධයෙන් අත්අඩංගුවට පත්වී මේ වනවිට ඇප මත නිදහස්වී සිටින අයෙකි.
+
+මෙම වෙඩිතැබීම පිස්තෝල වර්ගයේ ගිනි අවියකින් සිදු කරන්නට ඇතැයි පොලීසිය සැක කරයි.
+
+පොලීසිය සඳහන් කළේ වෙඩිතැබීම සිදුවූ ස්ථානයේ මාර්ගයේ හිස් උණ්ඩ කොපුවක් වැටී ඇති බවය.
+
+සිද්ධිය සම්බන්ධයෙන් පොලිස් කණ්ඩායම් කිහිපයක් හා පොලිස් විශේෂ කාර්ය බළකාය වැඩිදුර පරීක්ෂණ සිදුකරයි.
+
+◼️
+
+[Data](articles/19381896.json)
+
+---
+
+### கிழக்கு மாகாணத்தில் விவசாயத்தை மேம்படுத்த உழவு இயந்திரங்கள் வழங்கிவைத்த ஆளுநர் செந்தில் தொண்டமான்!
+
+*2024-05-27 10:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/184570) · `ta`
+
+கிழக்கு மாகாணத்தில் உள்ள உள்ளூராட்சி மன்றங்களுக்கு உட்பட்ட பகுதிகளில் திண்மக் கழிவுகளை அகற்றவும் விவசாயத்தை மேம்படுத்தவும் ஆளுநர் செந்தில் தொண்டமானால் இயந்திரங்கள் மற்றும் உளவு இயந்திரங்கள் வழங்கி வைக்கப்பட்டன.
+
+இந்த நிகழ்வில் பிரதம செயலாளர் R.M.P.S  ரத்நாயக்க ,ஆளுநரின் செயலாளர் L.P மதநாயக்க, உள்ளூராட்சி திணைக்கள ஆணையாளர் மணிவண்ணன்,  விவசாய அமைச்சின் செயலாளர் முத்துபண்டா ஆகியோர் கலந்துகொண்டனர்.
+
+◼️
+
+[Data](articles/14bd14f6.json)
+
+---
+
+### Ginger Price 5,000 rupees
 
 *2024-05-27 10:19:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இஞ்சி-விலை-5-000-ரூபாய்/175-337949) · `ta`
 
-ஒரு கிலோகிராம் இஞ்சியின் சில்லறை விலை ரூ. 5,000க்கு  நாரஹேன்பிட்டி பொருளாதார மத்திய நிலையத்தில் விற்கப்படுகின்றது.
+In Narahenpita, ginger costs Rs. 5,000 per kg, while lemons are priced at Rs. 1,800 per kg.
 
-அதன்படி,   ஒரு கிலோ கிராம் எலுமிச்சையின் விலை    பொருளாதார மையத்தில் 1,800 ரூபாய்க்கு விற்பனை செய்யப்படுகின்றது.
+🟩
+
+The retail price of a kilogram of ginger is Rs.. 5,000 is sold at the Narahenpita Economic Center.
+
+Accordingly, the price of a kilogram of lemon is sold at the Economic Center for Rs 1,800.
 
 ◼️
 
 [Data](articles/86fced39.json)
+
+[Extended Data](ext_articles/86fced39.ext.json)
+
+---
+
+### வாழைச்சேனையில் கார் விபத்தில் கணவன் - மனைவி படுகாயம்!
+
+*2024-05-27 10:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/184572) · `ta`
+
+வாழைச்சேனை பொலிஸ் பிரிவுக்குட்பட்ட புனாணை பகுதியில் கார் விபத்தில் கணவன் மற்றும்  மனைவி ஆகியோர் படுகாயமடைந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+இந்த விபத்துச் சம்பவம் இன்று (27) திங்கட்கிழமை காலை 5 மணியளவில் வாழைச்சேனை பொலிஸ் பிரிவுக்குட்பட்ட புனாணை பகுதியில் வைத்து இடம்பெற்றுள்ளது.
+
+ஓட்டமாவடி பகுதியைச் சேர்ந்த சமூக செயற்பாட்டாளர் அல் ஹாஜ் ஹலால்தீன் என்பவர் தனது மனைவி, மூன்று பிள்ளைகளுடன் கொழும்புக்கு சென்று ஊர் திரும்பிக் கொண்டிருந்த போதே இந்த விபத்து இடம்பெற்றுள்ளது.
+
+கார் வீதியை விட்டு விலகி குடைசாய்ந்ததில் காரில் பயணித்த கணவன் மற்றும் மனைவி இருவரும் காயமடைந்துள்ளனர்.
+
+இவ் விபத்தில் காயமடைந்த கணவனும் மனைவியும் மட்டக்களப்பு போதனா வைத்தியசாலையில் சிகிச்சை பெற்று வருகின்றனர்.
+
+◼️
+
+[Data](articles/f6443a29.json)
 
 ---
 
@@ -61,6 +125,8 @@ The group departed for Bangkok, Thailand, on SriLankan Airlines flight UL-402 at
 ◼️
 
 [Data](articles/242c728b.json)
+
+[Extended Data](ext_articles/242c728b.ext.json)
 
 ---
 
@@ -107,6 +173,60 @@ The spokesman for the health ministry in the Hamas-run Gaza, Ashraf Al-Qidra, sa
 ...
 
 [Data](articles/77664ad7.json)
+
+[Extended Data](ext_articles/77664ad7.ext.json)
+
+---
+
+### வெலிகமவில் துப்பாக்கிச் சூடு
+
+*2024-05-27 09:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/184569) · `ta`
+
+மாத்தறை மாவட்டத்தில் வெலிகம பிரதேச செயலகத்திற்குட்பட்ட படவல பத்தேகம பகுதியிலுள்ள பாலர் பாடசாலைக்கு அருகில் துப்பாக்கிச் சூட்டு சம்பவம் ஒன்று இடம்பெற்றுள்ளது.
+
+முன்பு இடம்பெற்ற துப்பாக்கிச் சூடு சம்பவத்துடன் தொடர்புடைய சந்தேக நபர் ஒருவரே  இலக்கு வைக்கப்பட்டுள்ளதோடு, சம்பவத்தில் காயங்கள் எதுவும் ஏற்படவில்லை எனவும் தகவல்கள் வெளியாகியுள்ளது.
+
+◼️
+
+[Data](articles/0a8309a3.json)
+
+---
+
+### நடுவானில் கடுமையாக குலுங்கிய மற்றுமொரு விமானம் - 12 பேர் காயம்
+
+*2024-05-27 09:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/184567) · `ta`
+
+கட்டார் தலைநகர் தோஹாவில் இருந்து அயர்லாந்தின் தலைநகர் டப்ளின் நோக்கி பயணித்த விமானம் ஞாயிற்றுக்கிழமை (26) குலுங்கியதால் 12 பேர் காயமடைந்துள்ளனர்.
+
+கட்டா  விமான நிறுவனத்திற்குச் சொந்தமான QR017 என்ற விமானம் ஒன்று தோஹா நகரில் இருந்து டப்ளின் நகருக்கு  விமானம் துருக்கி நாட்டின் ஊடாக பயணித்த போது குலுங்கியதாக டப்ளின் விமான நிலையம் தெரிவித்துள்ளது.
+
+இருப்பினும், டப்ளின் நகரில் விமானம் பத்திரமாக தரையிறங்கியுள்ளது. இதனையடுத்து விமான நிலையத்தில் தீயணைப்புத்துறையினர் மற்றும் மீட்புத்துறையினர் தயார் நிலையில் இருந்தனர்.
+
+தொடர்ந்து விமானம் தரையிறங்கியவுடன் 6 விமான ஊழியர்கள் மற்றம் ஆறு பயணிகள் என மொத்தம் 12 பேர்  வைத்தியசாலைக்கு அனுப்பி கொண்டுசெல்லப்பட்டுள்ளார்கள்.
+
+இதேவேளை, கடந்த 21 ஆம் திகதி சிங்கப்பூர் விமான நிறுவனத்திற்குச் சொந்தமான விமானம் ஒன்று கடுமையாக குலுங்கியதால் ஒருவர் உயிரிழந்ததோடு, 104 பயணிகள் காயமடைந்தமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/4f52312b.json)
+
+---
+
+### அஹுங்கல்ல துப்பாக்கிச் சூட்டு சம்பவத்துடன் தொடர்புடைய சந்தேகநபர் கைது !
+
+*2024-05-27 09:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/184568) · `ta`
+
+அஹுங்கல்ல துப்பாக்கிச் சூட்டு சம்பவத்துடன் தொடர்புடைய சந்தேகநபர் ஒருவர் கைது செய்யப்பட்டுள்ளாதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+கொஸ்கொடை பொலிஸாரினால் நேற்று ஞாயிற்றுக்கிழமை (26) பெந்தர கஹ்பிலியாகந்த பிரதேசத்தில் வைத்து சந்தேக நபர் கைது செய்யப்பட்டுள்ளார்.
+
+இதன் போது, சந்தேகநபரிடமிருந்து 03 கிராம் 410 மில்லிகிராம் ஹெரோயின்  போதைப்பொருள்  கைப்பற்றப்பட்டுள்ளதாக  பொலிஸார் தெரிவித்துள்ளனர்.
+
+மேலும், கடந்த 08ஆம் திகதி அஹுங்கல்ல பொலிஸ் பிரிவிற்குட்பட்ட  அஹுங்கல்ல  போகஹாபிட்டிய பிரதேசத்தில்  மோட்டார் சைக்கிளில் சென்ற இனந்தெரியாத இருவர் வீடொன்றிற்குள் அத்துமீறி நுழைந்து அங்கிருந்த நபரொருவரை சுட்டுக் கொலை செய்துள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/69ea98d3.json)
 
 ---
 
@@ -220,21 +340,43 @@ With a maximum of 26 per cent of the arrival in India, 11 percent from the Maldi
 
 ---
 
-### சுற்றுலாப்பயணிகளின் வருகை 100,000ஐக் தாண்டும்
+### The arrival of tourists will exceed 100,000
 
 *2024-05-27 09:22:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுற்றுலாப்பயணிகளின்-வருகை-100-000ஐக்-தாண்டும்/175-337943) · `ta`
 
-இலங்கைக்கான சுற்றுலாப்பயணிகளின் வருகையானது 100,000ஐக் கடக்கும் என எதிர்பார்க்கப்படுகின்றபோதும், மே மாதத்தில் 120,934 தொடக்கம் 131,112 வரையான இலக்குக்கு பின்னே நிற்கிறது.
+Tourist arrivals in Sri Lanka are projected to surpass 100,000, but remain below the 120,934 to 131,112 range seen in May. The Sri Lanka Tourism Development Authority reports 79,431 arrivals in the first three weeks of this month, compared to 83,309 in May last year. Tourist numbers are low from April to summer, possibly due to visa issues. India leads with 26% of arrivals, followed by the Maldives with 11%.
 
-இம்மாதத்தின் முதல் மூன்று வாரங்களில் அதாவது முதலாம் திகதி தொடக்கம் 21ஆம் திகதி வரையில் 79, 431 பேர் வருகை தந்துள்ளதாக இலங்கை சுற்றுலா அபிவிருத்தி அதிகாரசபையின் தரவுகள் வெளிப்படுத்துகின்றன. கடந்தாண்டு மே மாதத்தில் 83,309 பேர் வருகை தந்திருந்தனர்.
+🟩
 
-ஏப்ரலிலிருந்து கோடை காலம் வரையில் நெருக்கடியற்ற காலமாகையால் சுற்றுலாப் பயணிகளின் வருகையானது குறைவாகவே இருக்கும். எவ்வாறெனினும் விசாப் பிரச்சினையும் இம்மாத வீழ்ச்சிக்கு காரணமாக இருக்கலாமென அதிகாரிகள் தெரிவித்துள்ளனர்.
+Although the arrival of tourists to Sri Lanka is expected to cross 100,000, it is behind 120,934 to 131,112 in May.
 
-இந்தியாவிலிருந்தே அதிகபட்சமாக 26 சதவீதமானோர் வருகை தந்த நிலையில், இரண்டாமிடத்தில் மாலைதீவுகளிலிருந்து 11 சதவீதமானோர் வருகை தந்துள்ளனர்.
+The Sri Lanka Tourism Development Authority reveals that 79 and 431 people have arrived in the first three weeks of this month, ie the first to 21st of this month.. In May last year, 83,309 people arrived.
+
+From April to summer, the arrival of tourists is low. Officials, however, have said that the issue of Visab could be the cause of this month's fall.
+
+With a maximum of 26 per cent of the arrival in India, 11 percent from the Maldives are in the second place.
 
 ◼️
 
 [Data](articles/e1bdda2b.json)
+
+[Extended Data](ext_articles/e1bdda2b.ext.json)
+
+---
+
+### ඉන්දියාවේ විරෝ‍‍‍ධයක් නිසා දිනේෂ් ප්‍රියන්තට ක්‍රිඩාවෙන් විශ්‍රාම ගන්න වෙලා
+
+*2024-05-27 09:13:10* · [`adalk`](https://www.ada.lk/sports/ඉන්දියාවේ-විරෝ‍‍‍ධයක්-නිසා-දිනේෂ්-ප්‍රියන්තට-ක්‍රිඩාවෙන්-විශ්‍රාම-ගන්න-වෙලා/9-409834) · `si`
+
+ඉන්දියාව විසින් තමන්ට එරෙහි වන ක්‍රීඩකයන්ට එරෙහිව ඉදිරිපත්  කළ විරෝධතාව නිසා ශ්‍රී ලාංකික පැරා ඔලිම්පික් ක්‍රීඩක දිනේෂ් ප්‍රියන්තට , ඔහු දිනා ගත් රිදී පදක්කම සහ 2024 පැරිස් ඔලිම්පික් තරගාවලියට යෑමේ සුදුසුකම අහිමි වී , ඔහුට සිය ක්‍රීඩා දිවියෙන් ද සමු ගැනීමට සිදු වී ඇති බව ශ්‍රී ලංකා ජාතික පැරා ඔලිම්පික් කමිටුවේ සභාපති කර්නල් දීපාල් හේරත් මහතා 05/26 දින රාත්‍රී කටුනායක ගුවන් තොටුපොළ විශේෂ අමුත්තන්ගේ මැදිරිය තුළ දී ප්‍රකාශ කළේය .
+
+ශ්‍රී ලාංකික පැරා ඔලිම්පික් ක්‍රීඩක  දිනේෂ් ප්‍රියන්ත මීට පෙර පැරා ඔලිම්පික් තරගාවලි දෙකක දී , ලෝක ශූරතා තරගාවලි දෙකක දී සහ ආසියානු තරගාවලි තුනක දී ශ්‍රී ලංකාවට රන් පදක්කම් දිනා දීමට සමත් වූ ක්‍රීඩකයෙකු බව ද දීපාල් හේරත් මහතා පැවසීය .
+
+ඔහු 2014 වසරේ සිට ජාත්‍යන්තර පැරා ඔලිම්පික් මළළ ක්‍රීඩා සංගමයේ වෛද්‍ය සභාව විසින් අත් ආබාධිත  එෆ්.- 46 කාණ්ඩය යටතේ  තරග කිරීම සදහා සුදුසුකම් සපුරා ඇති ක්‍රීඩකයෙකු බවට සනාථ කර ස්ථිර කර සිටි ක්‍රීඩකයෙකු බව ද සභාපතිවරයා පැවසීය .
+
+...
+
+[Data](articles/6dfbfbbb.json)
 
 ---
 
@@ -338,17 +480,23 @@ A shot of a shot of Patregama Model Primary School in Weligama, Matara.
 
 ---
 
-### A/L பெறுபேறுகள் வருகிறது
+### A/l comes with results
 
 *2024-05-27 08:42:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/A-L-பெறுபேறுகள்-வருகிறது/175-337940) · `ta`
 
-கல்விப் பொதுத் தராதர உயர்தரப் பரீட்சை பெறுபேறுகள் இந்த வாரம் வெளியாகும் என்று பரீட்சைகள் திணைக்களம் தெரிவித்துள்ளது.
+The Department of Examinations announced that the GCE Advanced Level Examination results will be out soon but cautioned against relying on unverified social media posts claiming early release dates.
 
-இன்று அல்லது நாளை பெறுபேறுகள் வெளியாகும் என்ற சமூக வலைத்தளங்களில்  வெளியிடப்படும் உறுதிப்படுத்தப்படாத தகவல்களை நம்ப வேண்டாம் எ பரீட்சைகள் திணைக்களம் தெரிவித்துள்ளது. R
+🟩
+
+The Department of Examinations said that the GCE Advanced Level Examination will be released this week.
+
+The Department of Examinations should not rely on unconfirmed information posted on social media that the results will be released today or tomorrow. Remble
 
 ◼️
 
 [Data](articles/1a859715.json)
+
+[Extended Data](ext_articles/1a859715.ext.json)
 
 ---
 
@@ -1816,6 +1964,8 @@ The Chief Prelates of Sri Lanka’s three main Buddhist chapters have jointly wr
 
 [Data](articles/56f769d0.json)
 
+[Extended Data](ext_articles/56f769d0.ext.json)
+
 ---
 
 ### Shield of Shiky Lirgin Leader Ananda Perera
@@ -1999,167 +2149,5 @@ Separately the CEB’s Engineers Union said unfilled vacancies and abolishing so
 [Data](articles/bb2c4936.json)
 
 [Extended Data](ext_articles/bb2c4936.ext.json)
-
----
-
-### Did the baby dead in delivery?Missing?
-
-*2024-05-26 20:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197037) · `si`
-
-A newborn's death during delivery at a new District General Hospital in Matara, Sri Lanka, has sparked controversy. The family alleges poor handling of the situation by the hospital staff, including suspicions about the treatment of the deceased infant. Despite medical confirmation from a private clinic, the hospital initially claimed the baby was stillborn before acknowledging its death. The family was asked to pay for services related to the burial, which led to further dissatisfaction. The hospital's handling of the situation, including the lack of clear communication and potential mismanagement, has raised concerns among the community.
-
-🟩
-
-The babies of the babies complained that the staff of the new District General Hospital has not taken steps to show his body or babies that died in giving birth.
-
-They say three stages of the body staff in three occasions that hospital staff are strongly suspicious.
-
-The 24-year-old residents of Weligama, Matara, was included in the New District General Hospital in Matara on the 22nd.
-
-Madushani has joined the private medical clinic of a loyal and gynecologist working at the hospital while the relevant hospital has been selected for childbirth.
-
-The scan has also been confirmed by medical tests on the private clinic, as well as the date of childhood to be included in the private clinic.
-
-The hospital authorities have informed her the first child to create his first child, but died after her baby was dead.
-
-The staff has told the relatives to pay Rs.
-
-When questioned by the child's body, relatives were taken to the staff of relatives regarding the burial or burial to the Colombo National Hospital.
-
-...
-
-[Data](articles/6a770090.json)
-
-[Extended Data](ext_articles/6a770090.ext.json)
-
----
-
-### Sri Lanka hotelier wants rupee to be unit of account to enable external trade
-
-*2024-05-26 20:05:00* · [`economynextcom`](https://economynext.com/sri-lanka-hotelier-wants-rupee-to-be-unit-of-account-to-enable-external-trade-164642/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s unstable exchange rate is making it difficult for businesses to price output across time to foreign counter parties and widely expressed fears of future instability also dented investor confidence, a private entrepreneur said.
-
-Sri Lanka’s central bank has since September 2022 provided monetary stability including the elimination of forex shortages with deflationary policy by overshooting its 5 to 7 percent domestic inflation target, providing a strong foundation for growth and economic activities to recover.
-
-However, volatility in the exchange rate was proving troublesome for some businesses as the currency could no longer be used as a unit of account to denominate future prices.
-
-“I heard the word price stability. Yes, that’s good we have, we have got that,” Gerard Ondaatjie, a business executive and hotelier said at a recent forum at the Central Bank.
-
-...
-
-[Data](articles/3cfba956.json)
-
-[Extended Data](ext_articles/3cfba956.ext.json)
-
----
-
-### 59 trees fall within Colombo in seven days
-
-*2024-05-26 19:38:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/59-trees-fall-within-Colombo-in-seven-days/108-283369) · `en`
-
-Colombo, May 25 (Daily Mirror) - A total of 59 trees have fallen within the Colombo Municipal Council's jurisdiction in the past week due to high winds, Colombo Municipal Commissioner Bhadrani Jayawardena revealed.
-
-According to the Commissioner, 19 tree falls were recorded in the Vihara Maha Devi Park, with most other incidents occurring along the main roads.
-
-“The Colombo Municipal Council, supported by the security forces, is currently removing the fallen trees,” she noted.
-
-Jayawardena stated that many of the affected trees were not initially at risk but succumbed to the strong winds.
-
-Furthermore, Jayawardena highlighted that nearly 200 trees, aged between 50 and 150 years, are in dangerous conditions.
-
-“Due to significant rot, a large number of these trees have been preemptively cut down to prevent further incidents,” she added.
-
-◼️
-
-[Data](articles/98a1ce2e.json)
-
-[Extended Data](ext_articles/98a1ce2e.ext.json)
-
----
-
-### The President presented 700 land certificates to the people of Vavuniya and Mannar district
-
-*2024-05-26 19:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/184558) · `ta`
-
-President Ranil Wickremesinghe distributed 700 land certificates in Vavuniya and Mannar districts as part of the "Urumaya" program, aiming to issue 5,400 such guarantees in total.
-
-🟩
-
-President Ranil Wickremesinghe handed over 700 full -fledged land guarantees at the Vavuniya Mojo Festival Hall, including the 04 Divisional Secretariat Offices of the Vavuniya District and the 05 Divisional Secretariat Offices in the Mannar District under the "Urumaya District.
-
-In the Vavuniya and Mannar districts, 5400 full -fledged land guarantees will be issued under the "Urumaya" program.
-
-◼️
-
-[Data](articles/e63baac1.json)
-
-[Extended Data](ext_articles/e63baac1.ext.json)
-
----
-
-### Here's the advantage of the coin of the IPL last conflict
-
-*2024-05-26 19:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197036) · `si`
-
-Hyderabad won the IPL final after winning the toss and choosing to bat first against Kolkata.
-
-🟩
-
-The Hyderabad won the toss and win the IPL tournament.
-
-They decided to bat first against Kolkata team.
-
-◼️
-
-[Data](articles/528d3c92.json)
-
-[Extended Data](ext_articles/528d3c92.ext.json)
-
----
-
-### France Ambassador to Sri Lanka
-
-*2024-05-26 19:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/184557) · `ta`
-
-Jean Francois Pactet, France's Ambassador to Sri Lanka, was found dead at his residence. The Rajagiriya Police are investigating, including examining the body.
-
-🟩
-
-Jean Francois Pactet, French Ambassador to Sri Lanka, has been recovered at his official home, police said.
-
-The magistrate's inquiries are being conducted on the body and further investigations are being carried out by Rajagiriya Police.
-
-◼️
-
-[Data](articles/11ce4ec9.json)
-
-[Extended Data](ext_articles/11ce4ec9.ext.json)
-
----
-
-### Northern Province will be upgraded as a province with high quality health services like the Western Province -President
-
-*2024-05-26 19:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/184556) · `ta`
-
-President Ranil Wickremesinghe aims to elevate the Northern Province's healthcare standards akin to the Western Province, enhancing its infrastructure and services. He inaugurated a state-of-the-art Medical Rehabilitation and Mental Health Development Center at Mankulam Resource Hospital, funded by the Netherlands government, costing 4.5 billion rupees. This facility, the largest of its kind in the region, includes various divisions and units to cater to comprehensive medical needs. The initiative follows efforts to restore healthcare services post-war, with plans to further expand and upgrade hospitals across the province, including converting Jaffna and Vavuniya hospitals into national and teaching institutions respectively.
-
-🟩
-
-President Ranil Wickremesinghe said he was happy that he was able to hand over the projects that he had launched to improve the Northern Provincial Health Service as Prime Minister in 2017.
-
-The President said that the Northern Province had access to health facilities with modern hospitals and said his aim was to develop the health services of the North as an advanced health services like the Western Province.
-
-President Ranil Wickremesinghe, who was present at the inauguration of the Medical Rehabilitation and Mental Health Development Center at the Mankulam Resource Hospital today (26).
-
-The medical treatment center has been constructed at a cost of 4500 million rupees with the support of the Netherlands government.
-
-It is the largest medical rehabilitation and mental development center in the Northern Province and has the Mental Rehabilitation Unit, Emergency Division, Surgery Division, Laboratory, Radiation Division, Outpatient Division and Intensive Care Unit.
-
-...
-
-[Data](articles/bb47852e.json)
-
-[Extended Data](ext_articles/bb47852e.ext.json)
 
 ---

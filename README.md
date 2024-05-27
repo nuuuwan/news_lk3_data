@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-27 11:18:36**
+As of **2024-05-27 11:35:04**
 
 ## Newspaper Stats
 
-*Scraped **26,505** Articles*
+*Scraped **26,509** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 1,441
 economynextcom | 1,511
 dailyftlk | 1,550
 adalk | 2,251
-adaderanalk | 3,036
-tamilmirrorlk | 3,109
-virakesarilk | 4,045
+adaderanalk | 3,038
+tamilmirrorlk | 3,110
+virakesarilk | 4,046
 dailymirrorlk | 4,185
 adaderanasinhalalk | 4,247
 
@@ -26,11 +26,77 @@ adaderanasinhalalk | 4,247
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,505 (100.0%) of 26,505 articles have been extended.
+26,505 (100.0%) of 26,509 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-27 (Monday)
+
+### SLFP faction led by ex-President Maithripala relocates operations
+
+*2024-05-27 11:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/99460/slfp-faction-led-by-ex-president-maithripala-relocates-operations) · `en`
+
+In light of the current political situation, the faction of the Sri Lanka Freedom Party (SLFP) led by former President Maithripala Sirisena has decided to carry out the future activities of the party from a new location instead of the party headquarters.
+
+Reportedly, this new location in Colombo will replace the SLFP headquarters on Darley Road, Colombo 10, for future political activities.
+
+The party’s internal sources said that ongoing internal conflicts and court orders have made it impractical to convene constituency and district organizers of the party at a permanent location.
+
+Therefore, the faction led by former President Sirisena has deemed it more appropriate to operate from a different location. The new political center will serve as a venue to convene district and constituency organizers from across the island to discuss upcoming political matters, as per sources.
+
+◼️
+
+[Data](articles/8c638b40.json)
+
+---
+
+### 5 மாவட்டங்களில் சீரான வானிலை நிலவுகின்றது.
+
+*2024-05-27 11:11:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/5-மாவட்டங்களில்-சீரான-வானிலை-நிலவுகின்றது/175-337954) · `ta`
+
+நாடளாவிய ரீதியில், 19 மாவட்டங்களில் கடந்த சில நாட்களாக நிலவும் சீரற்ற வானிலையால் ஏற்பட்ட அனர்த்தங்களில் சிக்குண்டு 8 பேர் மரணமடைந்துள்ளனர்.  13 பேர் காயமடைந்துள்ளனர் என அனர்த்த முகாமைத்துவ மத்திய நிலையம் அறிவித்துள்ளது.
+
+இயற்கை அனர்த்தங்கள் தொடர்பில் அந்த நிலையம், ஞாயிற்றுக்கிழமை (26) வெளியிட்டுள்ள ஊடக அறிக்கையின் பிரகாரம், 12,207 குடும்பங்களைச் சேர்ந்த 45,509 பேர் பாதிக்கப்பட்டுள்ளனர் என்றும் தெரிவிக்கப்பட்டுள்ளது.
+
+வடக்கு, கிழக்கு உள்ளிட்ட நாடளாவிய ரீதியில் 19 மாவட்டங்களில் அனர்த்தங்கள் ஏற்பட்டுள்ளன. வடக்கில், மன்னார், வவுனியா ஆகிய இரண்டு மாவட்டங்களிலும், கிழக்கில், அம்பாறை மற்றும் மட்டக்களப்பு ஆகிய இரண்டு மாவட்டங்களிலும் ஊவா மாகாணத்தில் மொனராகலை மாவட்டத்திலும், வடமேற்கு மாவட்டத்தில் குருணாகல் மாவட்டத்திலும் சீரான வானிலை நிலவுகின்றது.
+
+ஏனைய மாவட்டங்களில் கடுங்காற்று, மரங்கள் முறிந்துவிழுதல், மின்னல்தாக்கம், வௌ்ளம் உள்ளிட்ட இயற்றை அனர்த்தங்களால், 12 வீடுகள் முழுமையாகவும், 3,166 வீடுகள் பகுதியளவிலும் சேதமடைந்துள்ளன என்றும் அந்த நிலையத்தின் புள்ளிவிபர தகவல்களில் தெரிவிக்கப்பட்டுள்ளது.
+
+...
+
+[Data](articles/1e96c86e.json)
+
+---
+
+### Dilith, Gammanpila, Wimal form new political movement - ‘Sarvajana Balaya’
+
+*2024-05-27 11:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/99459/dilith-gammanpila-wimal-form-new-political-movement-sarvajana-balaya) · `en`
+
+Several political parties including the Mawbima Janatha Party (MJP) and intellectual groups have signed an agreement in Colombo to launch a new political movement named ‘Sarvajana Balaya’ this morning (27).
+
+The Jathika Nidahas Peramuna (JNP) led by MP Wimal Weerawansa, Pivithuru Hela Urumaya (PHU) led by MP Udaya Gammanpila, Mawbima Janatha Party (MJP) led by entrepreneur Dilith Jayaweera, the Democratic Left Front, the Communist Party, the Independent MP’s Forum and several intellectual groups took part in signing the agreement to launch the new political movement ‘Sarvajana Balaya’.
+
+◼️
+
+[Data](articles/30b9c3f5.json)
+
+---
+
+### யாழில் உண்டியல் உடைத்து திருட்டில் ஈடுபட்ட சந்தேகநபர் கைது!
+
+*2024-05-27 11:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/184574) · `ta`
+
+யாழ்ப்பாணம் ஆவரங்கால் சிவன் ஆலயத்தில் உண்டியல் உடைத்து திருட்டில் ஈடுபட்ட சந்தேக நபரொருவர் நேற்று  ஞாயிற்றுக்கிழமை (26) இரவு கைது செய்யப்பட்டுள்ளார்.
+
+குறித்த ஆலயத்தில் திருடிவிட்டு மற்றொரு ஆலயத்தில் திருட முற்பட்ட போதே சந்தேகநபர் அச்சுவேலி பொலிஸாரினால் கைது செய்யப்பட்டுள்ளார்.
+
+பொலிஸாரினால் மேற்கொள்ளப்பட்ட விசாரணைகளுக்கு பின்னர் சந்தேகநபரை மல்லாகம் நீதவான் நீதிமன்றத்தில் முற்படுத்த நடவடிக்கை எடுக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/b9bd0186.json)
+
+---
 
 ### Dilith - Gammanpila and Wimal and several others are allied
 
@@ -2093,81 +2159,5 @@ Meanwhile, Sri Lanka finished with one Silver Medal and two Bronze Medals at the
 [Data](articles/b592c867.json)
 
 [Extended Data](ext_articles/b592c867.ext.json)
-
----
-
-### Gnanasara Thera was able to say and do anything without fear of the law during the Rajapaksa regime. During the reign of the Rajapaksas, Gnanasara Thera criticised   Ranil Wickremesinghe in words that are Unmentionable.The Thera was so useful to the Rajapaksas that he was appointed  head of a  Presidential Task Force.
-
-*2024-05-26 21:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84101) · `en`
-
-When the Colombo High Court sent Bodu Bala Sena (BBS) General Secretary Ven. Galagoda Aththe Gnanasara Thera to prison two months ago, it was not unexpected that intense efforts would be made to get him out as soon as possible.
-
-The Chief Prelates of Sri Lanka’s three main Buddhist chapters have jointly written to President Ranil Wickremesinghe to pardon and release him on the occasion of the Vesak festival. The day after this news was published, it was also reported that Gnanasara Thera’s name was not in the list of prisoners to be released on the occasion of Vesak. So it doesn’t seem possible for him to come out soon.
-
-If someone else had been the president, perhaps Gnanasara Thera would have been released from prison last week. But it seems unlikely that the current President will show any urgency in this matter. During the reign of the Rajapaksas, Gnanasara Thera criticised Wickremesinghe in words that cannot be put in writing.
-
-...
-
-[Data](articles/56f769d0.json)
-
-[Extended Data](ext_articles/56f769d0.ext.json)
-
----
-
-### Shield of Shiky Lirgin Leader Ananda Perera
-
-*2024-05-26 21:09:43* · [`adalk`](https://www.ada.lk/breaking_news/සිහශක්ති-සංගීත-කණ්ඩායමේ-නායක-ආනන්ද-පෙරේරා-සමුගනියි/11-409832) · `si`
-
-Ananda Perera, renowned musician and leader of the Sirushakthi band, passed away at Kandy National Hospital. His funeral will be held at 10/30 Honorary and Kiribathkumbura home. A Dharmaraja College alumnus, he was mourned by many.
-
-🟩
-
-Ananda Perera, a highly talented musician, has passed away while receiving treatment at the Kandy National Hospital.
-
-His remains will be placed at the 10/30 Honorary and Kiribathkumbura home in Kiribathkumbura at 10/30.
-
-Ananda Perera, leader of the Sirushakthi band, is an alumni of Dharmaraja College, Kandy.
-
-◼️
-
-[Data](articles/5e6b51ed.json)
-
-[Extended Data](ext_articles/5e6b51ed.ext.json)
-
----
-
-### Be it the ethnic conflict or the attempts to overthrow the government, innocents paid with their lives. Under the guise of national security, many who had no involvement in either of the conflicts were also killed.
-
-*2024-05-26 21:09:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84099) · `en`
-
-Each year in May, since the military defeat of the Liberation Tigers of Tamil Eelam (LTTE) in 2009, Tamils gather together to remember their dead. And every time they are harassed by the police, even to the point of being arrested.
-
-It was no different this month; media reports stated that four Tamils, of whom three were women were arrested in the Trincomalee area for sharing Kanji, in remembrance of their dead.
-
-In Colombo human rights activists and some members of the Tamil community gathered on a beach to remember lives lost in the 3o year ethnic conflict, and to share a bowl of kanji.
-
-Ultra Sinhala nationalists attempted to disrupt the gathering, but this time aroud at least. the police turned them away.
-
-...
-
-[Data](articles/3f1e0545.json)
-
-[Extended Data](ext_articles/3f1e0545.ext.json)
-
----
-
-### The dubious record of our police is primarily for arresting Tamil women cooking  porridge or dragging away a Sinhalese  comedian or a  Muslim) poet on the basis of advocating national, racial or religious hatred
-
-*2024-05-26 21:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84097) · `en`
-
-Amidst the not-so-happy transformation of Vesak from the serene marking of an incomparably sacred event in the Buddhist calendar to an indulgent if not excessive race to compete with the ‘biggest pandal’ or the largest ‘dansal’ (generous gifting of food to the public), President Ranil Wickremesinghe has sublimely remarked that the long lines of Sri Lankans patiently waiting for free food means that ‘life is returning to normal.’
-
-There are, of course, multiple interpretations to these (unprecedented) numbers crowding ‘dansal’ tents across the country. Another reason that may have escaped the President’s sunny mind is that crowds jostle for free food in the backdrop of large swathes of the rural populace and daily wage earners in cities being hit by (unprecedented) levels of poverty in the wake of the eruption of Sri Lanka’s economic crisis in 2022.
-
-...
-
-[Data](articles/72013142.json)
-
-[Extended Data](ext_articles/72013142.ext.json)
 
 ---

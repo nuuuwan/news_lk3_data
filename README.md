@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-28 00:50:06**
+As of **2024-05-28 01:03:47**
 
 ## Newspaper Stats
 
-*Scraped **26,655** Articles*
+*Scraped **26,656** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,525
 dailyftlk | 1,551
 adalk | 2,270
 adaderanalk | 3,054
-tamilmirrorlk | 3,125
+tamilmirrorlk | 3,126
 virakesarilk | 4,076
 dailymirrorlk | 4,208
 adaderanasinhalalk | 4,273
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,273
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,653 (100.0%) of 26,655 articles have been extended.
+26,655 (100.0%) of 26,656 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,6 +48,8 @@ In line with this, the Israeli war Cabinet expanded the mandate of the team nego
 
 [Data](articles/63993893.json)
 
+[Extended Data](ext_articles/63993893.ext.json)
+
 ---
 
 ### Leaders of North and South should think afresh - EDITORIAL
@@ -61,6 +63,8 @@ The Sri Lankan government too, like a ritual, has been rejecting the observation
 ...
 
 [Data](articles/ef0d58f5.json)
+
+[Extended Data](ext_articles/ef0d58f5.ext.json)
 
 ---
 
@@ -1029,6 +1033,24 @@ The largest private sector insurance company in Sri Lanka, the company offers in
 [Data](articles/5631f185.json)
 
 [Extended Data](ext_articles/5631f185.ext.json)
+
+---
+
+### பொது வேட்பாளர் விவகாரம்: ஜூன்-  9 க்கு  சுமந்திரன் அழைப்பு
+
+*2024-05-27 17:19:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/பொது-வேட்பாளர்-விவகாரம்-ஜூன்-9-க்கு-சுமந்திரன்-அழைப்பு/71-337987) · `ta`
+
+பொதுவேட்பாளர் நியமிப்பதில் உள்ள சாதக பாதகங்களை ஆராயும் விசேட கூட்டத்தை ஏற்பாடு செய்துள்ளதாகவும் அனைவரையும் பங்கெடுக்குமாறும் பாராளுமன்ற உறுப்பினர் எம்.ஏ. சுமந்திரன் அழைப்பு விடுத்துள்ளார்.
+
+யாழ். ஊடக அமையத்தில் திங்கட்கிழமை (27)  நடாத்திய ஊடக சந்திப்பின் போது பாராளுமன்ற உறுப்பினரும் ஐனாதிபதி சட்டத்தரணியுமான எம்.ஏ.சுமந்திரன் தெரிவித்தார்.
+
+கடந்த சில நாட்களுக்கு முன்னதாக யாழ்ப்பாணத்தில் சந்திப்பொன்றை நான் மேற்கொண்டிருந்தேன். அதாவது  தமிழ் பொது வேட்பாளரை நிறுத்துவது சம்பந்தமாக முனைப்பாக செயற்பட்டு கொண்டிருக்கிற சிவில் சமூகத்தினர் சில பத்தி எழுத்தாளர்கள் என்னை சந்திக்க வேண்டுமெனக் கேட்டிருந்தார்கள். அவர்களோடு நிறைவான கருத்துமிக்க கலந்துரையாடல் இடம்பெற்றிருந்தது.
+
+இந்த யோசனைக்கு மாறாக நான் தெரிவித்த கருத்துக்கள் சம்பந்தமாக அதனுடைய காரணங்களை எடுத்துச் சொல்லியிருந்தேன். இந்த சூழ்நிலையிலே இப்படியானதொரு முன்னெடுப்பு செய்வதற்கான தங்களுடைய காரணங்களையும் அவர்கள் எங்களுக்கு எடுத்துச் சொல்லியிருந்தார்கள்.
+
+...
+
+[Data](articles/9358e403.json)
 
 ---
 
@@ -2307,27 +2329,5 @@ First, I first express my happiness for the opportunity to visit the viley distr
 [Data](articles/3484d35a.json)
 
 [Extended Data](ext_articles/3484d35a.ext.json)
-
----
-
-### Advice to avoid fisheries and shifts till again
-
-*2024-05-27 13:13:47* · [`adalk`](https://www.ada.lk/breaking_news/නැවත-දැනුම්-දෙන-තුරු-ධීවර-සහ-නාවුක-කටයුතුවලින්-වළකින්නැයි-‍‍උපදෙස්/11-409845) · `si`
-
-The Meteorological Department advises avoiding fishing and naval activities near the Arabian Sea due to potential high winds exceeding 70 km/h. It's recommended to stay away from these areas until further notice.
-
-🟩
-
-Advice from the Department of Meteorologicals to avoid being again informed.
-
-The Meteorological Department (Metary) has announced that the sea areas around the Bay of Bay of Bay and the Bay of Bay of Bay of the Arabian area around the island, which is enabled, can be rough at times 70 kilometers per hour..
-
-Since it is notified, it has been instructed to caterin as cerened by fishing and navy as cerened in the sea areas around the island until it was notified.
-
-◼️
-
-[Data](articles/c2991c94.json)
-
-[Extended Data](ext_articles/c2991c94.ext.json)
 
 ---

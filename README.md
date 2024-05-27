@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-27 20:18:35**
+As of **2024-05-27 20:34:11**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,269
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,629 (100.0%) of 26,630 articles have been extended.
+26,630 (100.0%) of 26,630 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -126,23 +126,31 @@ The accident had occurred on the three vehicles leaving a lorry.
 
 ---
 
-### හඳපාන්විල විල්ලුවේ අලි හත්දෙනා මිය යාමට හේතුව එළියට
+### The reason for the death of seven elephants in the Handapanila Willa
 
 *2024-05-27 18:43:54* · [`adalk`](https://www.ada.lk/picture_story/හඳපාන්විල-විල්ලුවේ-අලි-හත්දෙනා-මිය-යාමට-හේතුව-එළියට/10-409855) · `si`
 
-පොළොන්නරුව ජල ගැලීම් නිම්න ජාතික වනෝද්‍යානයේ හඳපාන්විල විල්ලුවේ, වන අලි හත්දෙනා මිය යෑමට හේතුව මඩේ එරි ජලය පෙවීමෙන් බවට 27 වෙනිදා සවස පැවැති පශ්චාත් මරණ පරීක්ෂණ වලින් තහවුරු වු බව ගිරිතලේ වනජීවී පශු වෛද්‍යවරුන් සඳහන් කළහ.
+Seven elephants died in the Handapanila Willa area due to reasons identified during post-mortem examinations conducted by wildlife veterinarians from the Wildlife Department of Wildlife Giritale. The elephants ranged in age from 8 to 25 years. The cause of death could be related to the flooding of the Handapingwila Wadu, which affected the water flow to the Mahaweli River, impacting the ecosystem of the nearby Flood Valley National Park.
 
-වනජීවී දෙපාර්තමේන්තුවේ ගිරිතලේ වනජීවී පශු වෛද්‍ය සමීර කලිඟුආරච්චි මහතා ඇතුළු පශු වෛද්‍යවරු කණ්ඩායමක් විසින් මියගිය වන අලින්ගේ පශ්චාත් මරණ පරීක්ෂණ කටයුතුයි සිදු කළහ.
+🟩
 
-මියගිය වන අලින්ගේ සිරුරු හඳපාන්විල විල්ලුවේ ඕඩේ ඇලෙහි ස්ථාන කිහිපයක තිබියදි වෙහෙරගල වනජීවි නිලධාරීන්ට පසුගිය 26 වෙනිදා හමුවුණි.
+The post mortem were established on the 27th evening that the seven elephants in the Handapanguwe Nayaka Namayan National Park, the Handapanwila Willa in the Navam Navana National Park, the wildlife veterinarians said.
 
-මියගිය වන අලින්ගෙන් අවුරුද්දක් පමණ වයසති අලි පැටියකු සිටින බවද මේ පිළිබඳ පශ්චාත් මරණ පරීක්ෂණ සිදුකල පශු වෛද්‍යවරුන් සඳහන් කළහ.
+Wildlife Department of Wildlife Giritale was the post-mortem examination of the elephant deceased including a group of veterinarians including Mr. Wildlife Department of Wildlife.
 
-මියගිය අනිත් වන අලි හයදෙනා අවුරුදු 8,9,10 සහ අවුරුදු 15 ත් 25 ත් අතර වයසේ පසුවන වන අලින් බවත්, ඔවුන් සියල්ල ගැහැණු සතුන් බවට සැක කරන බවද පශ්චාත් මරණ පරීක්ෂණ සිදුකළ පශු වෛද්‍යවරුන් සඳහන් කලහ.
+The deceased's bodies were found at Ahipanwila Will, Ode Canal, Ody Canal.
+
+The post mortem examinations carried out in the dead elephant said.
+
+The post-motorismadios conducted that the post mortem examinations made all eight years of age and 15 to 25 years and 15 to 25 years and 15 to 25 years.
+
+Handapingwila Wadu filled over the past few days, the water flows to the Mahaweli River across the Navigation of the Flood Valley National Park.
 
 ...
 
 [Data](articles/e768b88e.json)
+
+[Extended Data](ext_articles/e768b88e.ext.json)
 
 ---
 

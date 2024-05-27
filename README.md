@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-27 23:34:14**
+As of **2024-05-27 23:53:29**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,273
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,644 (100.0%) of 26,646 articles have been extended.
+26,646 (100.0%) of 26,646 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,6 +48,8 @@ The 08 suspects in question had been arrested based on information uncovered fol
 
 [Data](articles/a186b159.json)
 
+[Extended Data](ext_articles/a186b159.ext.json)
+
 ---
 
 ### Application deadline extended for President’s Fund 2024/2025 ICT Scholarship
@@ -65,6 +67,8 @@ The completed applications should then be sent by registered post only to the Se
 ...
 
 [Data](articles/9713ad0c.json)
+
+[Extended Data](ext_articles/9713ad0c.ext.json)
 
 ---
 

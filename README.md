@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-27 06:20:20**
+As of **2024-05-27 06:59:26**
 
 ## Newspaper Stats
 
-*Scraped **26,442** Articles*
+*Scraped **26,452** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 237
 dbsjeyarajcom | 262
 bbccomsinhala | 265
 newsfirstlk | 363
-islandlk | 1,431
+islandlk | 1,441
 economynextcom | 1,511
 dailyftlk | 1,550
 adalk | 2,247
@@ -26,11 +26,113 @@ adaderanasinhalalk | 4,234
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,442 (100.0%) of 26,442 articles have been extended.
+26,442 (100.0%) of 26,452 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-27 (Monday)
+
+### CINEC’s Prof. Lalith Edirisinghe conferred chair professorship by Dalian Maritime University
+
+*2024-05-27 04:11:00* · [`islandlk`](http://island.lk/cinecs-prof-lalith-edirisinghe-conferred-chair-professorship-by-dalian-maritime-university/) · `en`
+
+The Dean of the Faculty of Management and Social Sciences of CINEC Campus, Prof. Lalith Edirisinghe has been conferred upon with a Chair Professorship by the Dalian Maritime University (DMU), the largest maritime university in the world. DMU has awarded the Chair Professorship to Prof. Edirisinghe following a comprehensive evaluation across various domains, including teaching, academic administration, scientific research and publications, leadership of major conferences and corporate events, corporate-level contributions, social services, and academic and industry achievements. He was awarded it by DMU President, Prof. Shan Hongjun at a formal ceremony held at CINEC Campus in Malabe.
+
+...
+
+[Data](articles/189d307d.json)
+
+---
+
+### SLPA officials meet World Bank Special Team and International Finance Corporation officials
+
+*2024-05-27 04:10:00* · [`islandlk`](http://island.lk/slpa-officials-meet-world-bank-special-team-and-international-finance-corporation-officials/) · `en`
+
+The Sri Lanka Ports Authority (SLPA) delegation, led by the Secretary to the Ministry of Ports, Shipping and Aviation – K.D.S. Ruwanchandra, met with the World Bank’s Special Team for the transport sector and officials from the International Finance Corporation (IFC) in the United States.
+
+The delegation included SLPA Chairman – Keith D. Bernard and a team of executive officials. They are on a special visit to the U.S. as part of the Maritime Administration Program for SLPA, executed by the Colombo Plan and funded by the U.S. State Department.
+
+During the meeting, the delegation discussed information on transport sector development, the latest trends, and issues related to the global port sector. The delegation also explored green energy trends in the port sector and on how ports can benefit from the latest strategic maritime developments.
+
+Toastmaster Bhathiya Hettiarachchi, appointed ‘Club Growth Director’ for District 82
+
+...
+
+[Data](articles/158b9142.json)
+
+---
+
+### Fems HER Foundation collaborates with Barista to provide easy access to menstrual hygiene
+
+*2024-05-27 04:10:00* · [`islandlk`](http://island.lk/fems-her-foundation-collaborates-with-barista-to-provide-easy-access-to-menstrual-hygiene/) · `en`
+
+In a collaborative effort to champion women’s empowerment, Fems, the socially responsible feminine hygiene brand by Hemas Consumer Brands, through the Fems HER Foundation, has joined forces with Barista, one of Sri Lanka’s largest café chains, to address the issue of menstrual hygiene management by installing sanitary napkin dispenser units with free sanitary napkins, across all Barista outlets.
+
+Through impactful partnerships, the Fems HER Foundation aims to dismantle obstacles and create an environment where women and girls nationwide can thrive without limitations. Aligning with the ‘Empower’ pillar of the HER Foundation, the project with Barista aims to provide convenient access to sanitary napkins across Sri Lanka, ensuring that women and girls can maintain good hygiene practices with ease and are encouraged to continue their journeys unhindered, breaking down societal barriers.
+
+...
+
+[Data](articles/e966952d.json)
+
+---
+
+### David Pieris Renewable Energy opens head office in Pelawatte
+
+*2024-05-27 04:10:00* · [`islandlk`](http://island.lk/david-pieris-renewable-energy-opens-head-office-in-pelawatte/) · `en`
+
+A significant milestone was achieved in Sri Lanka’s sustainable energy landscape and the David Pieris Group with the inauguration of the new head office of David Pieris Renewable Energy (Private) Limited.
+
+Strategically situated at No. 734B, New Parliament Road, Pelawatta, Battaramulla, the new office was opened by Rohana Dissanayake, Group Chairman and Managing Director, David Pieris Group of Companies along with the board directors of David Pieris Renewable Energy and directors of Group companies. This short and simple ceremony was attended by representatives from the Sustainable Energy Authority, customers, and other internal and external stakeholders.
+
+...
+
+[Data](articles/f435617e.json)
+
+---
+
+### Sri Lanka Insurance awarded the Most Loved Life Insurance Brand of 2024
+
+*2024-05-27 03:51:00* · [`islandlk`](http://island.lk/sri-lanka-insurance-awarded-the-most-loved-life-insurance-brand-of-2024/) · `en`
+
+Sri Lanka Insurance Life (SLICLL) has once again been recognised as the Most Loved Life Insurance Brand in the country, according to LMD’s latest Brand Finance Most Loved Brand edition. This marks the seventh consecutive year that SLICLL has secured this prestigious position, highlighting the company’s unwavering commitment to serving the people of Sri Lanka.
+
+SLICLL has consistently connected with customers and the broader community by customizing its products and services to address the unique needs of all Sri Lankans. To meet the growing demand for convenience and transparency, SLICLL has continuously upgraded and innovated its offerings. The reintroduced ‘Sri Lanka Insurance Life Wealth Plus’ is a short-term investment plan with long-term protection, now featuring new benefits to better serve customers. Additionally, ‘Sri Lanka Insurance Life Early Cash’ was launched online to cater to today’s digital-savvy consumers.
+
+...
+
+[Data](articles/76c262e6.json)
+
+---
+
+### Granting of freehold deeds to create 250 new jobs
+
+*2024-05-27 03:51:00* · [`islandlk`](http://island.lk/granting-of-freehold-deeds-to-create-250-new-jobs/) · `en`
+
+President Ranil Wickremesinghe has authorized the recruitment of 100 new personnel for the Land Commissioner’s Office and 150 for the Surveying Department to fast track the granting of freehold deeds for the State lands people have only live-in rights.
+
+This strategic augmentation is expected to execute this programme with utmost efficiency moving forward. This was announced by President Ranil Wickremesinghe after having recognized the staffing constraints within the Land Commissioner’s Department, which have caused delays in the process of issuing freehold deeds.
+
+He made this remark at a ceremony where land deeds were bestowed upon the residents of the Jaffna district.
+
+The President encouraged the recipients to safeguard the freehold deeds they received from the “Heritage” program for the betterment of their offspring, saying that an individual is liberated when he or she has the right to the land they are living in.
+
+...
+
+[Data](articles/d77fe109.json)
+
+---
+
+### Ceylon Chamber calls on all political parties to support continuity of SOE reforms
+
+*2024-05-27 03:51:00* · [`islandlk`](http://island.lk/ceylon-chamber-calls-on-all-political-parties-to-support-continuity-of-soe-reforms-2/) · `en`
+
+The Ceylon Chamber of Commerce calls on all political parties to support the continuity of SOE reforms and the reform momentum, building on the economic stability achieved. The Chamber stresses that it is vital to prioritise and implement the reforms related to State-Owned Enterprises (SOEs), energy, and fiscal management, to ensure that the country does not revert to a crisis. It is crucial that all political parties focus on Sri Lanka’s long-term sustainability and avoid leveraging the reform process for short term election gains.
+
+...
+
+[Data](articles/e59bfc76.json)
+
+---
 
 ### Eran criticises Govt.’s revenue shortfall
 
@@ -2017,163 +2119,5 @@ A special gazette has been issued by the Commissioner of Labor to ensure that th
 [Data](articles/fcae0e90.json)
 
 [Extended Data](ext_articles/fcae0e90.ext.json)
-
----
-
-### President intervenes to solve the Prophet Kirippilav land
-
-*2024-05-26 16:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197029) · `si`
-
-Protesters in Pudukuduirippu met President Ranil Wickremesinghe during his visit to Mullaitivu, presenting him with a land dispute affecting 56 families. The President assured immediate action and noted progress in releasing lands in the Northern Province, pleasing the protesters.
-
-🟩
-
-Two women in Pudukuduirippu area have been protesting opposite the Pudukuduirippu Central College, notion that he wants to meet the President.
-
-President Ranil Wickremesinghe arrived in attending a ceremony to attend the ceremony in Mullaitivu district under the "Heritage Program today (26).
-
-Governor of the Northern Province to investigate this. S. M. It is reported that Mrs. Charles had gone to the place where the two women were and asked what their problem was.
-
-There they have mentioned that their problem should be presented to the President.
-
-The Governor of the Northern Province then went to the protest to the protest and listened to the protest, "says the Presidential Media Unit.
-
-The women have pointed out to the President 56 families from Cappapilau village, including a land problem, to resolve it as a land problem.
-
-President Ranil Wickremesinghe said he was responding to the immediate solution of the issue.
-
-...
-
-[Data](articles/df73f529.json)
-
-[Extended Data](ext_articles/df73f529.ext.json)
-
----
-
-### President's move to solve land problem
-
-*2024-05-26 16:27:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காணி-பிரச்சினையைத்-தீர்க்க-ஜனாதிபதி-நடவடிக்கை/175-337910) · `ta`
-
-President Ranil Wickremesinghe addressed land issues in Mullaitivu, meeting with protesting villagers who faced displacement due to land problems. He assured them of swift action and mentioned ongoing efforts to release more land in the Northern Province, aiming to resolve all related issues soon.
-
-🟩
-
-President Ranil Wickremesinghe visited the Pudukkudiyiruppu Central Maha Vidyalaya to participate in the issue of land guarantees under the "Urumaya" program in Mullaitivu district on Sunday (26). Two women from the area staged a protest in front of the college demanding the president to meet.
-
-Northern Province Governor B. S.. M.. Charles went to the place where the two women were, and asked what their problem was, and that they should present their issue to the President.
-
-Subsequently, the President of the Northern Province was informed by the Northern Province and President Ranil Wickremesinghe went to the site of the protest and heard about their problems.
-
-Due to the land issue, 56 families living in the village of Keppapilavu, including them, have been under heavy pressure and therefore appealed to the president to arrange for an immediate solution.
-
-...
-
-[Data](articles/0049e824.json)
-
-[Extended Data](ext_articles/0049e824.ext.json)
-
----
-
-### What's going on in Keppapila?President
-
-*2024-05-26 16:27:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கேப்பாப்பிலவில்-நடந்து-என்ன-களத்தில்-குதித்தார்-ஜனாதிபதி/175-337910) · `ta`
-
-In Keppapila, President Ranil Wickremesinghe addressed a land dispute affecting 56 families under the "Urumaya" program. Protesters met him, and he promised swift action, noting ongoing efforts to resolve land issues in the Northern Province.
-
-🟩
-
-President Ranil Wickremesinghe visited the Pudukkudiyiruppu Central Maha Vidyalaya to participate in the issue of land guarantees under the "Urumaya" program in Mullaitivu district on Sunday (26). Two women from the area staged a protest in front of the college demanding the president to meet.
-
-Northern Province Governor B. S.. M.. Charles went to the place where the two women were, and asked what their problem was, and that they should present their issue to the President.
-
-Subsequently, the President of the Northern Province was informed by the Governor of the Northern Province, President Ranil Wickremesinghe went to the site of the protest and heard about their problems.
-
-Due to the land issue, 56 families living in the village of Keppapilavu, including them, have been under heavy pressure and therefore appealed to the president to arrange for an immediate solution.
-
-...
-
-[Data](articles/18a4eee4.json)
-
-[Extended Data](ext_articles/18a4eee4.ext.json)
-
----
-
-### Tax policies - economic growth - complex relationship
-
-*2024-05-26 16:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/184520) · `ta`
-
-The connection between tax policies and economic growth is intricate. Governments rely on taxes for funding but high rates can hinder job creation, investments, and entrepreneurship, potentially stifling economic development. This piece delves into the multifaceted relationship, exploring different tax systems, their effects, and the ongoing discussions surrounding them.
-
-🟩
-
-The relationship between tax policies and economic growth is a complex and often controversial topic. On the one hand, governments need tax revenue to fund essential public services, infrastructure and social projects. On the other hand, high taxes can control employment, investment and entrepreneurship and prevent economic expansion. This article examines the complexity between tax policies and economic growth, the various tax structures, their impacts, and the debates around them.
-
-◼️
-
-[Data](articles/a2ee0a4b.json)
-
-[Extended Data](ext_articles/a2ee0a4b.ext.json)
-
----
-
-### Did Sri Lanka's first Republican Politics provide political justice to Tamils?
-
-*2024-05-26 16:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/184527) · `ta`
-
-Sri Lanka's first Republican politics aimed to unify the country under one language policy, but it didn't address Tamil political injustices. Colvin RD Silva, a minister, highlighted the dual-nation aspect but noted its brief impact.
-
-🟩
-
-When the Sinhala language official motion was passed, he said, 'One language is two countries;Colvin RD Silva, who voted in Parliament as a two -language nation, will always remember the passage of the political law in 1972 as the Minister of Political Affairs.. But this symbolism last for six years.
-
-◼️
-
-[Data](articles/265912ef.json)
-
-[Extended Data](ext_articles/265912ef.ext.json)
-
----
-
-### Woman dies after collision with power cord
-
-*2024-05-26 16:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197028) · `si`
-
-In Horana, a 78-year-old woman died after being hit by a falling tree caused by strong winds while she was collecting coconuts. The incident occurred in the Mivanapatta area, and her body was taken to the Horana District Hospital for examination.
-
-🟩
-
-A woman was unfortunately dead in the Mivanapatta area in Horana, clashed with a collapse of the power casualties.
-
-The deceased has been identified as a 78-year-old woman in the area.
-
-The suspects of the police are in charge of the collapse of a tree on the strong winds.
-
-She is facing this unfortunate fate while traveling to pick up coconut in the woman.
-
-The body has been directed to the Horana District Hospital for Judicial Medical Hospital following the incident.
-
-◼️
-
-[Data](articles/ef514834.json)
-
-[Extended Data](ext_articles/ef514834.ext.json)
-
----
-
-### Is the US resolution a turning point?
-
-*2024-05-26 16:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/184529) · `ta`
-
-The US resolution on Sri Lanka's war violations may not significantly impact the situation due to historical patterns of resolutions being ignored or delayed.
-
-🟩
-
-"Even though the idea that the international mechanism to be held accountable for the war violations in Sri Lanka, the Tamil people are not taking care of the international community," "The US Congress's resolution will be sent to the Foreign Committee to the Foreign Committee.. There it will be put in the warehouse and it will be abandoned when it arrives next year. This is what has been going on for the past few years ... ”
-
-◼️
-
-[Data](articles/a449c34c.json)
-
-[Extended Data](ext_articles/a449c34c.ext.json)
 
 ---

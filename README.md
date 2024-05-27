@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-27 11:53:54**
+As of **2024-05-27 12:07:26**
 
 ## Newspaper Stats
 
-*Scraped **26,518** Articles*
+*Scraped **26,520** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,111 +16,175 @@ islandlk | 1,441
 economynextcom | 1,514
 dailyftlk | 1,550
 adalk | 2,251
-adaderanalk | 3,038
+adaderanalk | 3,039
 tamilmirrorlk | 3,114
 virakesarilk | 4,046
 dailymirrorlk | 4,185
-adaderanasinhalalk | 4,249
+adaderanasinhalalk | 4,250
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,509 (100.0%) of 26,518 articles have been extended.
+26,518 (100.0%) of 26,520 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-27 (Monday)
 
-### விண்ணப்பங்கள் ஏற்றல் ஆரம்பம்
+### චීනයේ භූ කම්පනයක්
+
+*2024-05-27 11:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197061) · `si`
+
+චීනයේ සිචුවාන් ප්‍රාන්තයේ මූලී නම් ප්‍රදේශයේ ප්‍රබල භූ කම්පනයක් ඇතිවූ බව චීනයේ භූ කම්පන සම්බන්ධයෙන් තොරතුරු නිකුත්කරන මධ්‍යස්ථානය පැවසීය.
+
+◼️
+
+[Data](articles/19407211.json)
+
+---
+
+### Gotabaya inherited a collapsed govt, not the strong one built by Mahinda, claims Namal
+
+*2024-05-27 11:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/99461/gotabaya-inherited-a-collapsed-govt-not-the-strong-one-built-by-mahinda-claims-namal) · `en`
+
+SLPP MP Namal Rajapaksa has claimed that a serious conspiracy was underway to overthrow the government established by former President Mahinda Rajapaksa.
+
+He stated that this conspiracy involved several forces even within the government itself.
+
+“The conspiracy was internal, with international forces and terror groups also attempting to destabilize the government. As a result, the ‘Yahapalana’ (good governance) government was formed. Gotabaya Rajapaksa inherited a collapsed government, not the strong one built by Mahinda Rajapaksa,” he added.
+
+He made these comments while addressing the inaugural constituency conference of the Sri Lanka Podujana Peramuna (SLPP) held in Thalawa on Sunday (26), under the patronage of former President Mahinda Rajapaksa.
+
+Despite attending the event, Mahinda Rajapaksa did not address the gathering during the conference.
+
+◼️
+
+[Data](articles/cbea47fe.json)
+
+---
+
+### The beginning of the loading of applications
 
 *2024-05-27 11:35:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விண்ணப்பங்கள்-ஏற்றல்-ஆரம்பம்/175-337959) · `ta`
 
-2024ஆம் ஆண்டுக்கான தரம் ஐந்து புலமைப்பரிசில் பரீட்சைக்கான விண்ணப்பங்களை ஏற்றுக்கொள்வது திங்கட்கிழமை (27) ஆரம்பமாகவுள்ளதாக பரீட்சைகள் ஆணையாளர் நாயகம் எச்.ஜே.எம்.சி. அமித் ஜயசுந்தர தெரிவித்தார்.
+The Commissioner General of Examinations, HJMC, announced that applications for the Grade Five Scholarship Examination for 2024 will open on Monday (27) and close on June 14. Eligible students in the 5th grade can apply through the official website, https://onlineexams.gov.lk/eic.
 
-இதற்கமைய, ஜூன் 14ம் திகதி வரை ஆன்லைனில் விண்ணப்பங்கள் ஏற்றுக்கொள்ளப்படும், அரசு அங்கீகாரம் பெற்ற பாடசாலைகளில் 5-ம் வகுப்பு படிக்கும் மாணவர்கள் தேர்வெழுத தகுதி பெறுவார்கள்.
+🟩
 
-விண்ணப்பங்களைப் பதிவிறக்கம் செய்ய, பரீட்சைகள் திணைக்களத்தின் உத்தியோகபூர்வ இணையத்தளமான https://onlineexams.gov.lk/eic இல் உள்நுழையுமாறு விண்ணப்பதாரர்கள் கோரப்படுகிறார்கள்.
+The Commissioner General of Examinations HJMC will accept applications for the Grade Five Scholarship Examination for 2024 on Monday (27).. Amit Jayasundara said.
+
+Accordingly, online applications will be accepted until June 14, and students in the 5th grade will be eligible to take the exam.
+
+To download applications, applicants are requested to log in to the official website of the Department of Examinations, https://onlineexams.gov.lk/eic.
 
 ◼️
 
 [Data](articles/eb1b93ae.json)
 
+[Extended Data](ext_articles/eb1b93ae.ext.json)
+
 ---
 
-### කාලගුණයෙන් රතු නිවේදනයක්
+### A red announcement from the weather
 
 *2024-05-27 11:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197060) · `si`
 
-තද සුළං සහ රථ මුහුදු පිළිබඳව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව විසින්අනතුරු ඇඟවීමේ රතු නිවේදනයක් නිකුත් කර තිබේ.
+The Department of Meteorology warns of severe weather conditions, with sea speeds reaching 60-70 knots around the island. It advises against sailing in sea areas from Kalpitiya to Pottuvil due to high waves and potential landslides from Kalpitiya to Matara. The department urges the public to heed these warnings.
 
-දිවයින වටා මුහුදු ප්‍රදේශවල සුළඟේ වේගය විටින් විට පැ.කි.මී 60-70 දක්වා වැඩිවන බවත් එම මුහුදු ප්‍රදේශ විටින් විට ඉතා රළු වන බවත් එහි සඳහන් වෙයි.
+🟩
 
-එබැවින් මුහුදු ප්‍රදේශවල නැවත දැනුම් දෙනතුරු යාත්‍රා නොකරන ලෙස නාවික සහ ධීවර ප්‍රජාවන්ට දැනුම් දී තිබේ.
+The Department of Meteorology has issued a red announcement to the Meteorological Association on the stakes and widespread.
 
-කල්පිටිය සිට කොළඹ, ගාල්ල සහ හම්බන්තොට හරහා පොතුවිල් දක්වා වෙරළට ඔබ්බෙන් වන මුහුදු ප්‍රදේශවල මුහුදු රළ උස මීටර් 2.5 - 3.0ක් පමණ ඉහළ යාමේ හැකියාවක් පවතී.
+It states that the speed of the sea areas around the island is increasing to 60-70 hours.
 
-මේ හේතුවෙන් කල්පිටිය සිට කොළඹ, ගාල්ල හරහා මාතර දක්වා ප්‍රදේශවල මුහුදු රළ ගොඩබිමට පැමිණීමේ හැකියාවක් ද පවතීන බව එම නිවේදනයේ සඳහන් වේ.
+Shipping and fishing communities have informed the naval and fishing communities not to sail until not sail.
 
-කාලගුණවිද්‍යා දෙපාර්තමේන්තුව මගින් මේ සම්බන්ධයෙන් නිකුත් කරන ඉදිරි නිවේදන පිළිබඳ සිය අවධානය යොමු කරන ලෙස ධීවර හා නාවික ප්‍රජාවගෙන් ඉල්ලා සිටී.
+The sea waves in the sea areas off the coast extending from Kalpitiya to Pottuvil from Kalpitiya to Pottuvil via Pottuvil via Pottuvil via Pottuvil.
+
+The statement states that the potential for land to land from Kalpitiya to Matara through Kalpitiya has been in secret.
+
+The Department of Meteorological Department requests the fisheries and the community to focus on the announcements issued in this regard.
 
 ◼️
 
 [Data](articles/2b8a7e55.json)
 
+[Extended Data](ext_articles/2b8a7e55.ext.json)
+
 ---
 
-### ஆரம்ப பாடசாலைக்கு அருகில் துப்பாக்கிச் சூடு
+### Shooting near elementary school
 
 *2024-05-27 11:28:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/தென்-மாகாணம்/ஆரம்ப-பாடசாலைக்கு-அருகில்-துப்பாக்கிச்-சூடு/93-337957) · `ta`
 
-மாத்தறை, வெலிகம, படவல, பத்தேகம மாதிரி ஆரம்ப பாடசாலைக்கு அருகில் திங்கட்கிழமை  (27) துப்பாக்கிச் சூடு சம்பவம் இடம்பெற்றுள்ளதாக பொலிஸார் தெரிவிக்கின்றனர்.
+A shooting occurred near an elementary school in Matara, targeting police arriving at a junior college. The suspect, identified as Medin Chinthakha or Harak Kata, was arrested earlier but allegedly involved in another shooting. A pistol and bullets were found at the scene, with ongoing investigations by local police.
 
-தனது இரண்டு பிள்ளைகளுடன் மோட்டார் சைக்கிளில் படவல பத்தேகம மாதிரி கனிஷ்ட கல்லூரிக்கு வந்த போது இலக்கு வைத்து துப்பாக்கிச் சூடு நடத்தப்பட்டதாக பொலிஸார் தெரிவிக்கின்றனர்.
+🟩
 
-துப்பாக்கிச் சூட்டுக்கு இலக்கானவர் நடுன் சிந்தக அல்லது ஹரக் கட்டாவைச் சேர்ந்த ஒருவரே, அவர் 20.01.2022 அன்று மிதிகம துர்க்கி கிராமத்தில் நபர் ஒருவரை சுட்டுக் கொன்ற குற்றத்திற்காக கைது செய்யப்பட்டு தற்போது பிணையில் விடுவிக்கப்பட்டுள்ளார் என பொலிஸார் தெரிவிக்கின்றனர்.
+Police say the shooting took place on Monday (27) near the primary school in Matara, Weligama, Patalawa and Pathegama model.
 
-பிஸ்டல் ரக துப்பாக்கியைப் பயன்படுத்தி துப்பாக்கிச் சூடு நடத்தப்பட்டிருக்கலாம் என்றும், துப்பாக்கிச் சூடு நடந்த சாலையில் வெற்றுத் தோட்டா உறை ஒன்றும் மீட்கப்பட்டுள்ளது என்றும் பொலிஸார் தெரிவித்தனர்.
+Police say they were targeted when they arrived at the Battegama model junior college with two children on a motorbike.
 
-சம்பவம் தொடர்பில் மிதிகம பொலிஸார், வெலிகம பொலிஸாருடன் இணைந்து   பொலிஸ் விசேட அதிரடிப்படையினருடன் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
+A man from Medin Chinthakha or Harak Kata, who was targeted for the shooting, was arrested on 20.01.2022 and was arrested for allegedly shot dead by a man in Mithigama Turki village.
+
+Police said that the pistol rifle may have been fired and a hollow bullet envelope has been recovered on the road where the shooting was shot.
+
+Mithigama police are conducting further investigations with the Weligama police in connection with the incident.
 
 ◼️
 
 [Data](articles/11e8c01d.json)
 
+[Extended Data](ext_articles/11e8c01d.ext.json)
+
 ---
 
-### அலி சப்ரி ரஹீம் எம்.பி வாக்கு வாதம்
+### Ali Sabri Rahim MP voting
 
 *2024-05-27 11:22:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வடமேல்-வடமத்தி/அலி-சப்ரி-ரஹீம்-எம்-பி-வாக்கு-வாதம்/94-337956) · `ta`
 
-புத்தளம் மன்னார் வீதியில் அமைந்திருக்கின்ற உப்பு உற்பத்தியாளர்களுக்கு சொந்தமான காணிகளை கபளீகரம் செய்ய துடிக்கும் தரகர்களுக்கு  எதிராக பாராளுமன்ற உறுப்பினர் அலி சப்ரி ரஹீம் களம் இறங்கியுள்ளார்.
+Parliamentarian Ali Sabri Rahim is fighting landlords and brokers attempting to seize land from salt producers in Puttalam, supported by the Salt Producers Association. He's advocating for state-level investigation and action against illegal occupation of government-owned land, facing threats for his efforts.
+
+🟩
+
+Parliamentarian Ali Sabri Rahim has embarked on a landlord against brokers who are trying to burn land belonging to salt producers located on Mannar Road in Puttalam.
 
 புத்தளம் மன்னார் வீதி காணிகள் சம்பந்தமாக பாராளுமன்ற உறுப்பினர் அலிசப்ரி ரஹீம் உப்பு உற்பத்தியாளர் நலன்புரி சங்கத்துடன் இணைந்து பாராளுமன்றத்தில் மற்றும் அமைச்சு மட்டத்தில் எடுக்கப்பட்ட தீவிர நடவடிக்கைகளின் விளைவாக பல சாதகமான விளைவுகள் ஏற்பட்டிருக்கின்றன.
 
-அவற்றை ஜீரணித்துக்கொள்ள முடியாத சில சமூகவிரோத சக்திகள் கடந்த பல தினங்களாக கிழக்கரை காணிகள் அமைந்திருக்கும் இடங்களில் குழப்ப நிலையை உருவாக்குவதற்கு  பல முயற்சிகளை மேற்கொண்டு வருகின்றனர்.
+Some anti -social forces, which cannot digest them, have been making many efforts to create chaos for the past several days.
 
-காணி உரிமையாளர்களை மிரட்டுதல், ஊழியர்களை காணிகளிலிருந்து விரட்டியடித்தல் போன்ற பல்வேறு அராஜகங்கள் இடம்பெற்று வருவதாக தெரிவிக்கப்படுகிறது.
+It is reported that there are various anarchy such as intimidating land owners and chasing employees from land.
+
+MP Ali Sabri Rahim, who referred to the arrival of the Divisional Secretary with land brokers, said that it should take steps to investigate the matter at the state level and divide it at the state level.
 
 ...
 
 [Data](articles/badfa2d3.json)
 
+[Extended Data](ext_articles/badfa2d3.ext.json)
+
 ---
 
-### හරක් කටා ට එරෙහි නඩුව යළි කැඳවයි
+### Case against kinship is taken up again
 
 *2024-05-27 11:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197059) · `si`
 
-අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ අත්අඩංගුවෙන් පළායෑමට කුමන්ත්‍රණය කළේ යැයි චෝදනා ලබා සිටින නදුන් චින්තක වික්‍රමරත්න හෙවත් 'හරක් කටා' ඇතුළු විත්තිකරුවන් තුන්දෙනෙකුට එරෙහිව නීතිපතිවරයා ගොනුකර තිබෙන නඩුව ජුනි මස 6 වනදා යළි කැඳවන ලෙස කොළඹ මහාධිකරණය නියම කළේය.
+The Colombo High Court recently sentenced three individuals, including one named 'Beef', in a case plotted by the Criminal Investigation Department. The trial took place under heavy security, with 'Beef' being among the defendants.
 
-මෙම නඩුව අද (27) කොළඹ මහාධිකරණ විනිසුරු දමිත් තොටවත්ත මහතා ඉදිරියේ කැඳවනු ලැබීය.
+🟩
 
-එම අවස්ථාවේදී විත්තිකාර හරක් කටා දැඩි ආරක්ෂක විධිවිධාන මැද අධිකරණයට ඉදිරිපත් කර තිබුණි.
+The Colombo High Court sentenced the Attorney General's case against three accused including 'beef' and three accused to be plotted by the Criminal Investigation Department.
+
+The case was called before Colombo High Court Judge Thatwatte today.
+
+The beef has been produced in court in the middle of the heavy security measures.
 
 ◼️
 
 [Data](articles/d1dcd089.json)
+
+[Extended Data](ext_articles/d1dcd089.ext.json)
 
 ---
 
@@ -170,21 +234,29 @@ Seven people died in the tree broken. Dhoni dies in an accident. Balangoda, Gall
 
 ---
 
-### 5 மாவட்டங்களில் சீரான வானிலை நிலவுகிறது
+### There is uniform weather in 5 districts
 
 *2024-05-27 11:11:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/5-மாவட்டங்களில்-சீரான-வானிலை-நிலவுகிறது/175-337954) · `ta`
 
-நாடளாவிய ரீதியில், 19 மாவட்டங்களில் கடந்த சில நாட்களாக நிலவும் சீரற்ற வானிலையால் ஏற்பட்ட அனர்த்தங்களில் சிக்குண்டு 8 பேர் மரணமடைந்துள்ளனர்.  13 பேர் காயமடைந்துள்ளனர் என அனர்த்த முகாமைத்துவ மத்திய நிலையம் அறிவித்துள்ளது.
+In the past week, severe weather caused 8 deaths and injuries across 19 districts, affecting 45,509 individuals. Disasters included tree collapses and lightning strikes, damaging homes and causing significant disruption. The North, East, and Northwestern regions experienced varying impacts, with some areas reporting no major incidents. The Meteorological Department forecasts this weather pattern to persist for several more days.
 
-இயற்கை அனர்த்தங்கள் தொடர்பில் அந்த நிலையம், ஞாயிற்றுக்கிழமை (26) வெளியிட்டுள்ள ஊடக அறிக்கையின் பிரகாரம், 12,207 குடும்பங்களைச் சேர்ந்த 45,509 பேர் பாதிக்கப்பட்டுள்ளனர் என்றும் தெரிவிக்கப்பட்டுள்ளது.
+🟩
 
-வடக்கு, கிழக்கு உள்ளிட்ட நாடளாவிய ரீதியில் 19 மாவட்டங்களில் அனர்த்தங்கள் ஏற்பட்டுள்ளன. வடக்கில், மன்னார், வவுனியா ஆகிய இரண்டு மாவட்டங்களிலும், கிழக்கில், அம்பாறை மற்றும் மட்டக்களப்பு ஆகிய இரண்டு மாவட்டங்களிலும் ஊவா மாகாணத்தில் மொனராகலை மாவட்டத்திலும், வடமேற்கு மாவட்டத்தில் குருணாகல் மாவட்டத்திலும் சீரான வானிலை நிலவுகின்றது.
+Over the country, eight people have died in the last few days of inclement weather disasters in 19 districts.  The Disaster Management Center has reported that 13 people were injured.
 
-ஏனைய மாவட்டங்களில் கடுங்காற்று, மரங்கள் முறிந்துவிழுதல், மின்னல்தாக்கம், வௌ்ளம் உள்ளிட்ட இயற்றை அனர்த்தங்களால், 12 வீடுகள் முழுமையாகவும், 3,166 வீடுகள் பகுதியளவிலும் சேதமடைந்துள்ளன என்றும் அந்த நிலையத்தின் புள்ளிவிபர தகவல்களில் தெரிவிக்கப்பட்டுள்ளது.
+According to a media report issued on Sunday (26), 45,509 people from 12,207 families have been affected.
+
+There have been disasters in 19 districts nationwide including the North and East. There is a steady weather in the North, Mannar and Vavuniya districts, both in the East, Ampara and Batticaloa districts in the Uva Province, in the Moneragala district and the Kurunegala district in the northwestern district.
+
+In other districts, 12 houses have been completely damaged and 3,166 houses have been damaged due to disasters, including the collapse of trees, trees, lightning and valam.
+
+Seven people died in the tree broken. Dhoni dies in an accident. Balangoda, Galle-Idamuwa, Puttalam-Madampe, Arachchikattuwa and Nattandi, Nuwara Eliya-Valappanai and Haputtalai tree collapsed.
 
 ...
 
 [Data](articles/cadfc95a.json)
+
+[Extended Data](ext_articles/cadfc95a.ext.json)
 
 ---
 
@@ -357,6 +429,8 @@ Formerly Alufab Plc, Unisyst Engineering is an aluminium supplier in Sri Lanka.
 ...
 
 [Data](articles/472ebf0d.json)
+
+[Extended Data](ext_articles/472ebf0d.ext.json)
 
 ---
 
@@ -609,6 +683,8 @@ The Colombo Stock Exchange opened up. The All Share Price Index was up 0.04 perc
 ◼️
 
 [Data](articles/6d21ee75.json)
+
+[Extended Data](ext_articles/6d21ee75.ext.json)
 
 ---
 
@@ -1185,6 +1261,8 @@ Information on leases and consultancy and contracts will also have to be provide
 ...
 
 [Data](articles/64e3eb03.json)
+
+[Extended Data](ext_articles/64e3eb03.ext.json)
 
 ---
 
@@ -2115,43 +2193,5 @@ Kolkata bowled out Hyderabad for 113, a total they overhauled with 9.3 overs to 
 [Data](articles/4699e8b1.json)
 
 [Extended Data](ext_articles/4699e8b1.ext.json)
-
----
-
-### Death of Ambassador: Sri Lanka extends all assistance to French authorities
-
-*2024-05-26 22:43:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Death-of-Ambassador-Sri-Lanka-extends-all-assistance-to-French-authorities/108-283378) · `en`
-
-Colombo, May 26 (Daily Mirror)- While expressing deepest condolences on the passing away of Ambassador of France to Sri Lanka and the Maldives Jean-François Pactet, the Foreign Ministry said all assistance will be extended to the French authorities and the family of the late Ambassador.
-
-"The Ministry of Foreign Affairs learns with deepest sorrow of the sudden demise of His Excellency Jean- François Pactet, Ambassador of France to Sri Lanka and the Maldives. The Ministry is in close coordination with the French Embassy in Sri Lanka at this time of grief," the Ministry said.
-
-The funeral arrangements will be notified by the authorities in due course, a statement issued by the Foreign Ministry said.
-
-◼️
-
-[Data](articles/2055fe85.json)
-
-[Extended Data](ext_articles/2055fe85.ext.json)
-
----
-
-### Kolkata Knight Riders win IPL 2024 to clinch third title
-
-*2024-05-26 22:42:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Kolkata-Knight-Riders-win-IPL-2024-to-clinch-third-title/108-283377) · `en`
-
-Kolkata Knight Riders won their third IPL title, beating SunRisers Hyderabad by eight wickets in the IPL 2024 final at the MA Chidambaram Stadium in Chennai on Sunday.
-
-12 years after winning their first title at the same venue against the Chennai Super Kings, KKR, led by Shreyas Iyer, thumped SRH in a one-sided contest.
-
-After Sunrisers skipper Pat Cummins opted to bat first on a red-soil surface, Kolkatastruck early with Mitchell Starc and Vaibhav Arora removing their deadly openers. While Starc castled Sharma in the first over, Arora dismissed the deadly Head for a third duck in four innings before KKR seized complete momentum.
-
-SRH were reduced to 113 in 18.3 overs – the lowest score in an IPL final – before the Knights romped home in a breezy chase. Led by Venkatesh Iyer’s quickfire fifty in 24 balls, KKR trumped Sunrisers for the third time this season.
-
-◼️
-
-[Data](articles/d8d8c56b.json)
-
-[Extended Data](ext_articles/d8d8c56b.ext.json)
 
 ---

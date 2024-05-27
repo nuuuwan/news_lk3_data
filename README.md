@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-27 15:18:45**
+As of **2024-05-27 15:33:50**
 
 ## Newspaper Stats
 
-*Scraped **26,565** Articles*
+*Scraped **26,569** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,45 +20,139 @@ adaderanalk | 3,043
 tamilmirrorlk | 3,120
 virakesarilk | 4,059
 dailymirrorlk | 4,192
-adaderanasinhalalk | 4,255
+adaderanasinhalalk | 4,259
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,560 (100.0%) of 26,565 articles have been extended.
+26,565 (100.0%) of 26,569 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-27 (Monday)
 
-### மாணவர் சங்கங்கள் உள்ளிட்ட சில அமைப்புக்கள் எங்களது போராட்டத்துக்கு வலுச்சேர்காமை கவலையளிக்கிறது - தென்கிழக்கு பல்கலைக்கழக ஊழியர் சங்க செயலாளர்
+### පානදුරදී හෙරොයින් සමග කොටුවූ සැකකරු ගැන තවත් තොරතුරු
+
+*2024-05-27 15:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197071) · `si`
+
+කළුතර අපරාධ කොට්ඨාශය විසින් හෙරොයින් තොගයක් සමග අත්අඩංගුවට ගත් සැකකරු පිළිබඳව මේ වනවිට තවත් තොරතුරු රැසක් හෙළිවී තිබේ.
+
+වැඩිදුරටත් තොරතුරු අනාවරණය වී ඇත්තේ මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ "වලපල හාමු" නමැති අන්වර්ථ නාමයෙන් හඳුන්වන අයෙකු බවය.
+
+එම සැකකරු ඩුබායි රාජ්‍යයේ සැඟව සිටින මත්ද්‍රව්‍ය ජාවාරම්කරුවෙකු වන "ඩුබායි තරංගගේ" ප්‍රධාන ගෝලයෙකු බවට තොරතුරු අනාවරණය වී ඇත.
+
+පානදුර වලපල ප්‍රදේශයේ ක්‍රියාත්මක වන හෙරොයින් ජාවාරමක් සම්බන්ධයෙන් කළුතර අපරාධ කොට්ඨාසයේ ස්ථානාධිපති තිලංග සංජීව මහතාට ලද තොරතුරකට අනුව පොලීසිය විසින් මෙම වැටලීම ක්‍රියාත්මක කර තිබුණි.
+
+එහිදී පානදුර වලපල ප්‍රදේශයේ ප්‍රධාන මාර්ගයක් අසළ රැඳී සිටි සැකකාර "වලපල හාමු" නමැති 37 හැවිරිදි වියේ පසුවන පුද්ගලයාව හෙරොයින් සමග අත්අඩංගුවට ගෙන තිබුණි.
+
+ඔහු සන්තකයේ තිබී හෙරොයින් මත්ද්‍රව්‍ය කිලෝ 1යි ග්‍රෑම් 850ක් සොයාගෙන ඇති අතර එහි වටිනාකම රුපියල් කෝටි 5කට අධික බවද පොලීසිය වැඩිදුරටත් පවසයි.
+
+...
+
+[Data](articles/ddccfef3.json)
+
+---
+
+### කුලියාපිටිය ඝාතනය - 10වන සැකකරු ගැන එළියට ආ කතාව
+
+*2024-05-27 15:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197070) · `si`
+
+කුලියාපිටිය තරුණයා ව ඝාතනයට අදාළව වරින්වර අත්අඩංගුවට ගෙන රක්ෂිත බන්ධනාගාර ගතකොට සිටින සැකකරුවන් 10දෙනා යළිත් රක්ෂිත බන්ධනාගාර ගතකරන්නැයි කුලියාපිටිය මහෙස්ත්‍රාත් රන්දික ලක්මාල් ජයලත් මහතා අද (27) නියම කළේය.
+
+කුලියාපිටිය කැලෑබද ප්‍රදේශයකදී තරුණයෙකු ඝාතනය සම්බන්ධව කුලියාපිටිය පොලීසිය ගොනුකර තිබූ නඩුව අද නැවත කැඳවූ අවස්ථාවේදී එම නියෝගය නිකුත් කළේය.
+
+නඩුව කැඳවූ අවස්ථාවේ පොලීසිය සිය පරීක්ෂණවල ප්‍රගතිය වැඩිදුර වාර්තාවක් මගින් අධිකරණයට ඉදිරිපත් කළේය.
+
+මෙම ඝාතනයේ එක් සැකකරුවෙක් වන සිඟිතිගේ මස්සිනා ඇතුළු කිහිප දෙනෙකුට සැඟව සිටීමට උපකාර කළැයි කියන 10වන සැකකරු වෙනුවෙන් පෙනීසිටි නීතීඥ චන්දන යාපා කියා සිටියේ පොලීසිය කරුණු කියා ඇති ආකාරයට තම සේවාදායකයා ඝාතනයෙන් පසුව සැකකරුවන්ට උපකාර කර ඇති බවය.
+
+එසේ තිබියදී ඔහුට මිනීමැරුම් චෝදනාව එල්ලකර ඇති බවත් එය සංශෝධනය කරන ලෙසත් ඉල්ලා සිටියේය.
+
+සැකකරුවන් දස දෙනාගෙන් කවුරුන්, කොහේදී, කෙසේ එම තරුණයාව ඝාතනය කළාද යන්න මේ වනවිටත් පරීක්ෂණ මට්ටමේ ඇති බවත් ඔහුගේ මළ සිරුර පිළිබඳ හලාවත මූලික රෝහලේ සිදුකෙරෙන පශ්චාත් මරණ පරීක්ෂණ ද මේ වනතෙක් අවසන්ව නොමැති බවත් පොලීසිය පැවසීය.
+
+...
+
+[Data](articles/34c1b55b.json)
+
+---
+
+### Some organizations, including student associations, are worried about our struggle - Southeastern University Employees Union Secretary
 
 *2024-05-27 14:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/184608) · `ta`
 
-கடந்த 26 நாட்களாக எங்களது நியாயமான பல கோரிக்கைகளை முன்வைத்து போராடிவரும் நிலையில் நாட்டிலுள்ள ஏனைய பல்கலைக்கழகங்களில் உள்ள மாணவர் சங்கங்கள் உள்ளிட்ட ஏனைய சங்கங்களும் பல்கலைக்கழகத்துக்கு வெளியே உள்ள பல்வேறு சங்கங்களும் அமைப்புக்களும் பத்திரிகை மாநடுகளைகளை கூட்டி எங்களது நியாயமான கோரிக்கைகளுக்கு ஆதரவாக குரல் கொடுக்க முன்வந்துள்ள நிலையில், தென்கிழக்கு பல்கலைக்கழகத்திலுள்ள மாணவர் அமைப்புக்கள் உள்ளிட்ட அமைப்புக்கள் இதுவரை பத்திரிகையாளர் சந்திப்புக்களையோ அல்லது ஆதரவான கருத்துக்களையோ வெளியிடாதது கவலையளிப்பதாக தென்கிழக்கு பல்கலைக்கழக ஊழியர் சங்க செயலாளர் எம்.எம். முகமது காமில் தெரிவித்தார்.
+The Southeastern University Employees Union has been protesting for 26 days, supported by various organizations and student associations nationwide. Despite the government's silence, the union fights for fair wages and better conditions, not luxury needs, highlighting the struggles of non-academic staff amidst the country's economic challenges. They urge understanding and support from all stakeholders, emphasizing the impact on students' futures if their demands are not met.
 
-தென்கிழக்கு பல்கலைக்கழக ஊழியர் சங்கத்தின்  தலைவர் எம்.ரி.எம். தாஜுடீன் தலைமையில்  இனறு திங்கட்கிழமை (27)  பல்கலைகழக முற்றலில் இடம்பெற்ற போராட்டத்தின்போதே  செயலாளர் எம்.எம். முகமது காமில் மேற்படி கருத்துக்களை முன்வைத்தார்.
+🟩
+
+Other associations and organizations outside the university have come together to voice their voices in support of our legitimate demands, including students' associations, including student associations in other universities in other universities in other universities, as we have been fighting for the past 26 days.Southeastern University Employees Union Secretary MM. Mohammed said Kamil.
+
+Southeastern University Employees Union President MRM. Secretary MM MM during the protests at the University's court on Monday (27) led by Tajuddin. Mohammed Kamil presented these comments.
+
+The government has not yet come forward to provide any solutions. If this situation is prolonged, the future of the students will be affected. He said that the government, the students or the parents did not present their opinions in this regard.
 
 ...
 
 [Data](articles/209e600c.json)
 
+[Extended Data](ext_articles/209e600c.ext.json)
+
 ---
 
-### அவுரா தலைவருக்கு பிணை
+### තාඹුගලට අද ලැබුණු නියෝගය
+
+*2024-05-27 14:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197069) · `si`
+
+රිමාන්ඩ් බන්ධනාගාරගතකර සිටි අවුරා ලංකා සභාපති විරන්ජිත් තාඹුගල මහතාව ඇප මත මුදාහැර තිබේ.
+
+කොළඹ මහෙස්ත්‍රාත් අධිකරණය හමුවට ඉදිරිපත් කිරීමෙන් අනතුරුව ඒ මහතා මෙලෙස ඇප මත මුදාහැර ඇත.
+
+මූල්‍ය වංචා චෝදනාවක් සම්බන්ධයෙන් සැකපිට අත්අඩංගුවට ගත් අවුරා ලංකා සභාපති විරන්ජිත් තාඹුගල මහතා අද දක්වා රිමාන්ඩ් බන්ධනාගාරගතකර තිබුණි.
+
+◼️
+
+[Data](articles/03f6fb2a.json)
+
+---
+
+### Bail to the leader of the Aura
 
 *2024-05-27 14:40:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அவுரா-தலைவருக்கு-பிணை/175-337970) · `ta`
 
-ஹெலிகொப்டர் வாங்குவதாக பணம் பெற்றுக்கொண்டு எழுபது மில்லியன் ரூபா மோசடி செய்த குற்றச்சாட்டில் விளக்கமறியலில் வைக்கப்பட்டிருந்த அவுரா லங்கா நிறுவனத்தின் தலைவர் விரஞ்சித் தபுகலவை பிணையில் விடுவிக்க கொழும்பு மேலதிக நீதவான் திருமதி பவித்ரா சஞ்சீவனி பத்திராஜா திங்கட்கிழமை (27) உத்தரவிட்டுள்ளார்.
+Colombo's Additional Magistrate Mrs. Pavithra Sanjeevani Patraja released Aura Lanka Chairman Viranjith Tabukalai on bail on Monday, following his arrest by the CID on charges lodged by IWS Holding. The suspect was granted two bails amounting to unspecified Rs.
 
-IWS ஹோல்டிங் நிறுவனம் செய்த முறைப்பாட்டின் பிரகாரம், சந்தேகநபர் குற்றப் புலனாய்வுத் திணைக்களத்தின் நிதிக் குற்றப் புலனாய்வுப் பிரிவினரால் கைதுசெய்யப்பட்டு, நீதிமன்றத்தில் ஆஜர்படுத்தப்பட்ட பின்னர் கடந்த 22ஆம் திகதி விளக்கமறியலில் வைக்கப்பட்டார்.
+🟩
 
-சந்தேக நபருக்கு தலா 100 இலட்சம் ரூபாய் பெறுமதியான இரண்டு பிணைகள் வழங்க உத்தரவிடப்பட்டுள்ளது.
+Colombo Additional Magistrate Mrs. Pavithra Sanjeevani Patraja on Monday (27) has ordered the release of Aura Lanka Chairman Viranjith Tabukalai on bail.
+
+According to the complaint lodged by IWS Holding, the suspect was arrested by the Criminal Investigation Department (CID) and produced in court on the 22nd after being produced in court.
+
+The suspect has been ordered to grant two bail of Rs.
 
 ◼️
 
 [Data](articles/f886bf59.json)
+
+[Extended Data](ext_articles/f886bf59.ext.json)
+
+---
+
+### රෙමාල් ඉන්දියාව ට සහ බංග්ලාදේශය ට බැටදෙයි
+
+*2024-05-27 14:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197068) · `si`
+
+රෙමාල් සුළි කුණාටුව හේතුවෙන් අද (27) ඉන්දියාවේ සහ බංග්ලාදේශයේ වෙරළබඩ කලාපයට දැඩි සුළඟ සහ වාර්ෂාව ඇතිවූ බව වාර්තා වෙයි.
+
+ඒ හේතුවෙන් සිව් දෙනෙක් මියගොස් ඇති අතර බොහෝ ප්‍රදේශවල විදුලි බලය ඇනහිට තිබුණි.
+
+නමුත් එම සුළි කුණාටුවේ බලපෑම මේ වනවිට දුර්වල වෙමින් පවතින බව සඳහන් ය.
+
+රෙමාල් සුළි කුණාටුව පැයට කිලෝ මීටර් 135ක වේගයෙන් ඊයේ රාත්‍රියේ බංග්ලාදේශ සහ ඉන්දියාවේ බටහිර බෙංගාල ගොඩබිමට වෙත ඇතුළු විය.
+
+කුණාටු අවදානම සලකා එහි මිලියනයකට වැඩි පිරිසක් ආරක්ෂිත ස්ථාන වෙත යොමුකිරීමට බලධාරීන් කටයුතු කර තිබුණි.
+
+◼️
+
+[Data](articles/83d88947.json)
 
 ---
 
@@ -145,6 +239,8 @@ He was granted bail by Colombo Additional Magistrate Pavithra Sanjeewani Pathira
 ◼️
 
 [Data](articles/81b1b2dc.json)
+
+[Extended Data](ext_articles/81b1b2dc.ext.json)
 
 ---
 
@@ -264,6 +360,8 @@ The Daily Mirror reported last week that the CMC has recognized about 1,000 city
 
 [Data](articles/3d57fbae.json)
 
+[Extended Data](ext_articles/3d57fbae.ext.json)
+
 ---
 
 ### Enjoining order against Wijayaka is extended
@@ -371,6 +469,8 @@ He said Dissanayake has proved his inability to write a condolence message on th
 ...
 
 [Data](articles/6b0c1c57.json)
+
+[Extended Data](ext_articles/6b0c1c57.ext.json)
 
 ---
 
@@ -2237,101 +2337,5 @@ The Grade 5 scholarship examination will be held on Sunday of September 15.
 [Data](articles/9f44d5f9.json)
 
 [Extended Data](ext_articles/9f44d5f9.ext.json)
-
----
-
-### Suspect in Ahungalla shooting case
-
-*2024-05-27 06:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197047) · `si`
-
-A suspect was arrested by Kosgoda police for possession of heroin. Two unidentified individuals were killed in Ahungalla on August 8th by shooters from Bogahapitiya.
-
-🟩
-
-Kosgoda police officers were arrested by the police officers yesterday (26).
-
-Police said that the suspect had found 3 grams and 4 milligrams of heroin.
-
-On the night of the night of the 8th, two unidentified persons were shot dead by two unidentified persons from Bogahapitiya in the Ahungalla Police Division in the Ahungalla Police Division.
-
-◼️
-
-[Data](articles/7d06ce19.json)
-
-[Extended Data](ext_articles/7d06ce19.ext.json)
-
----
-
-### Sri Lanka shares, bank balances, land, vehicle owners tracked by Inland Revenue from July 01
-
-*2024-05-27 06:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-shares-bank-balances-land-vehicle-owners-tracked-by-inland-revenue-from-july-01-164826/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s tax agency will collect current account transactions, share ownership, land registration, company directorship and car ownership details from July 01, to be used in a digital revenue management system, according to a notice.
-
-The information will not be used to collect tax retrospectively, State Minister for Finance Ranjith Siyambalapitiay said.
-
-The gazette requiring the information to submitted online to the Department of Inland Revenue was issued on March 2024 and its implementation notice was issued on May 21, Minister Siyambalapitiya said.
-
-According to the gazette, ownership and transfer of shares, current account balances and loans have to be provided quarterly by the stock exchange and banks and non-bank financial institutions.
-
-Car registrations, land ownership and transfers should be provided real time.
-
-Information on leases and consultancy and contracts will also have to be provided.
-
-...
-
-[Data](articles/64e3eb03.json)
-
-[Extended Data](ext_articles/64e3eb03.ext.json)
-
----
-
-### Strong winds today
-
-*2024-05-27 06:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197045) · `si`
-
-Expect strong winds and showers across several provinces today, with heavy rain possible in some areas. The southwest monsoon continues, affecting weather conditions.
-
-🟩
-
-The Department of Meteorologies will continue to expect the wind condition today (27) due to the southwest monsoon.
-
-Showers or thundershowers will occur at times in the Western, Sabaragamuwa, Central, North Western and Southern provinces.
-
-In some places in the Western and Sabaragamuwa provinces, in some places in some places. Heavy rains can occur about 75 times.
-
-Showers or thundershowers will occur at the evening or night in the Uva and Eastern Provinces.
-
-Trincomalee, Western, North Central, Southern and North Western and Southern and Northwestern Wayamba and Wayamba and Wayamba. Strong winds can occur about 60 in 50.
-
-From time to time in the rest of the island.. It is also reported that there are about 30-40 strong winds.
-
-◼️
-
-[Data](articles/67877848.json)
-
-[Extended Data](ext_articles/67877848.ext.json)
-
----
-
-### Israel attack on tents where displaced people stayed in Rabba - more than 35 killed
-
-*2024-05-27 06:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/184566) · `ta`
-
-In Rabba, over 35 displaced individuals were killed in an Israeli airstrike on their tents. The Israeli military confirmed the attack, stating it was aimed at Hamas weapon storage.
-
-🟩
-
-More than 35 people have been killed in an Israeli attack on tents where the displaced people stayed in Rabba.
-
-According to medical sources, Gaza said that in other areas, including the city of Israel, many other attacks have been carried out in the last 24 hours and many may have been killed.
-
-The Israeli military has confirmed the attack and said that Hamas has targeted the use of weapons of accurately attacking members.
-
-◼️
-
-[Data](articles/d6a0d906.json)
-
-[Extended Data](ext_articles/d6a0d906.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-27 13:34:33**
+As of **2024-05-27 13:53:34**
 
 ## Newspaper Stats
 
-*Scraped **26,537** Articles*
+*Scraped **26,539** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 363
 islandlk | 1,442
 economynextcom | 1,516
 dailyftlk | 1,550
-adalk | 2,255
-adaderanalk | 3,040
+adalk | 2,256
+adaderanalk | 3,041
 tamilmirrorlk | 3,118
 virakesarilk | 4,046
 dailymirrorlk | 4,189
@@ -26,25 +26,73 @@ adaderanasinhalalk | 4,251
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,536 (100.0%) of 26,537 articles have been extended.
+26,537 (100.0%) of 26,539 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-27 (Monday)
 
-### පහළ කඩුගන්නාවේ මාර්ගය 28දා සම්පූර්ණයෙන් වහන්නේ නෑ
+### Water levels of several rivers on the rise
+
+*2024-05-27 13:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/99463/water-levels-of-several-rivers-on-the-rise) · `en`
+
+The Department of Irrigation says that the water levels of several rivers are continuing to rise following heavy rainfall.
+
+The department mentioned that the water levels of the Attanagalu Oya, Kelani, Kalu, Gin and Nilwala rivers are currently on the rise.
+
+The Director of Irrigation (Hydrology & Disaster Management) S. P. C. Sugeeshwara stated that the water levels of the aforesaid rivers are at ‘caution level’ and therefore, residents of low-lying areas near these rivers are advised to remain vigilant.
+
+Meanwhile, four sluice gates of the Deduru Oya reservoir in Kurunegala District have been opened this morning (27) releasing water at a rate of around 7,000 cubic feet per second.
+
+The sluice gates of Kukule Ganga have also been opened and water is being released at a rate of 80 cubic feet per second, which may cause the water level of the Kuda Ganga to rise.
+
+Therefore, residents of the Bulathsinhala Divisional Secretariat are advised to remain cautious about potential flooding.
+
+◼️
+
+[Data](articles/260fc4e9.json)
+
+---
+
+### වැලිගම පාතේගම ආදර්ශ ප්‍රාථමික විදුහල අසල  වෙඩි තැබීමක්
+
+*2024-05-27 13:20:51* · [`adalk`](https://www.ada.lk/breaking_news/වැලිගම-පාතේගම-ආදර්ශ-ප්‍රාථමික-විදුහල-අසල--වෙඩි-තැබීමක්/11-409847) · `si`
+
+වැලිගම, බටවල, පාතේගම ආදර්ශ ප්‍රාථමික විදුහල අසල අද(27) උදෑසන වෙඩිතැබිමක් සිදුව ඇතැයි පොලීසිය කියයි.
+
+මිදිගම පොලිස් වසමේ පදිංචි තරුණයෙකුට යතුරුපැදියකින් පැමිණි පුද්ගලයින් දෙදෙනෙකු විසින් පිස්තොල වර්ගයේ ගිනි අවියක්  යොදාගෙන මෙම වැඩිතැබීම සිදුකර පළාගොස් තිබුණි. වෙඩි තැබිම සිදුවු ස්ථානයේ මාර්ගයේ හිස් උණ්ඩ කොපුවක් ද  දක්නට තිබිණි.
+
+මිදිගම පිටිදූව පාරේ පදිංචි 30 හැවිරිදි පුද්ගලයෙකු අද උදැසන සිය දරුවන් දෙදෙනා පාසලට රැගෙන ආ අවස්ථාවේදී එම පුද්ගලයා ඉලක්ක කොට මෙම වෙඩිතැබීම සිදුකර ඇත. කෙසේවෙතත් වෙඩිතැබීමෙන් කිසිවෙකුටත් හානියක් සිදුවී නොමැත.
+
+⁣වෙඩි තැබිමට ඉලක්ක වු පුද්ගලයා නදුන් චින්තක නොහොත් හරක් කටා යන අයගේ පාර්ශවයේ පුද්ගලයකු වන අතර මොහුට විරුද්ධව  පුද්ගලයෙකුට වෙඩි තැබිමක් සම්බන්ධයෙන් අත්අඩංගුවට පත්ව මේ වන විට ඇප මත නිදහස්ව පැමිණ සිටින අයෙකු  බව පොලිසිය කියයි.
+
+සිදුවිම සම්බන්ධයෙන්  මිදිගම පොලිසිය ,වැලිගම පොලිසිය හා එක්ව  පොලීස් කණ්ඩයම් කිහිපයක් හා පොලිස් විශේෂ කාර්ය බලකාය සමග  වැඩිදුර පරික්ෂණ කරති.
+
+◼️
+
+[Data](articles/62843838.json)
+
+---
+
+### Lower Kadugannawa road will be completely completely completely completely completely
 
 *2024-05-27 12:47:02* · [`adalk`](https://www.ada.lk/breaking_news/පහළ-කඩුගන්නාවේ-මාර්ගය-28දා-සම්පූර්ණයෙන්-වහන්නේ-නෑ/11-409843) · `si`
 
-පහල කඩුගන්නාවේ බැවුම් ප්‍රදේශයේ අවධානම් සහිත ගල් ඉවත් කිරිම සඳහා කොළඹ නුවර ප්‍රධාන මාර්ගයේ පහළ කඩුගන්නාව ප්‍ර දේශයේ මාර්ගය 28 වන දින වසා තබන බවට සමාජ ජාලාවල පැතිර යන පුවත අසත්‍ය බවත් එම ගල් ඉවත් කිරිම සඳහා කටයුතු කිරිමේදි විනාඩි කිහිපයකට පමණක් වාහන ගමනාගමනය නවතා දැමිමට සිදුවන බව කැගල්ල ආපදා කළමනාකරන මධ්‍යස්ථානයේ සහකාර අධ්‍යක්ෂ අනුෂ්ක චමිල මහතා පවසයි.
+Lower Kadugannawa road faces significant risks due to Cagalla disasters. The Colombo-Kandy main road will see stone removal efforts on the 28th to mitigate these risks. Anushka Chamila, Assistant Director of the Managed Center, warns of potential dangers to vehicles traveling through the area. Immediate actions are being taken to address these vulnerabilities and ensure safety for parked vehicles on the main road.
 
-පහළ කඩුගන්නාව කදු ප්‍රදේශයේ ප්‍රදේශයට පවතින අයහපත් කාලගුණය සහිත වර්ෂාව නිසා අවධානම් සහිත ගල් කිහිපයක් ඇති බවත් එම ගල් එය ස්ථාපිත ස්ථානයේදිම බෝර් දමා විනාස කිරිමට කටයුතු කරනු ලබන බවත් එම අවස්ථාවේදි ගතවන සුලු වේලාවේදි පමනක් කොළඹ නුවර ප්‍රධාන මාර්ගයේ ගමන් ගන්නා වාහන පහල කඩුගන්නාවේ සහ ඉහල කඩුගන්නාවේ ප්‍රදේශවල කිලෝමීටරයක් පමණ වාහන නැවැත්විමට සිදුවන බවද ඒ මහතා පැවසිය.
+🟩
 
-28 වනදා මෙම අවධානම් ගල් ඉවත් කිරිම ආරම්භකිරිමේ කටයුතු ආරම්භකිර්මට කටයුතු සකසා ඇති බවත් අවධානම් ගල් ඉවත් කරන අවස්ථාවේදි ප්‍රධාන මාර්ගයේ ගමන් ගන්නා වාහන නවතා තැබිමට කටයුතු කරන අවස්ථාව දැනුම්දෙනු ලබන බවද ඒ මහකා වැඩි දුරටත් පැවසිය.
+Cagalla disasters will be stopped in the Colombo Kandy main road to remove the stones on the 28th for the removal of the Colombo Kandy main road.Assistant Director of the Managed Center Anushka Chamila says
+
+In the lower Kadugannawa mountain range, there are several routes, which are in danger of risk and destroy the stones in the Colombo Kandy main road.He said about stops around about vehicles.
+
+According to Mahara, the operation of the immediate removal of these vulnerabilities has been established and will be initiated to parked vehicles traveling along the main road.
 
 ◼️
 
 [Data](articles/e2cbbc58.json)
+
+[Extended Data](ext_articles/e2cbbc58.ext.json)
 
 ---
 
@@ -2185,37 +2233,5 @@ Strategically situated at No. 734B, New Parliament Road, Pelawatta, Battaramulla
 [Data](articles/769f30cf.json)
 
 [Extended Data](ext_articles/769f30cf.ext.json)
-
----
-
-### Can Ranil  Wickremesinghe  Regain the Support of Tamil and Muslim Voters at the 2024 Presidential Elections?
-
-*2024-05-27 00:54:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84070) · `en`
-
-Sri Lanka’s last official census was taken in 2012. According to that census, Sri Lanka’s majority ethnic community the Sinhalese comprises 74.9 % of the island nation’s population.  Numerically, the second largest ethnicity is the Sri Lankan Tamils who are 11.1% of the population. The third largest ethnicity is the Sri Lankan Muslims or Moors who comprise 9.3% of the population. The fourth largest ethnic group is the Tamils of  Indian origin known as “Malaiyagath Thamizhar” (Hill Country Tamils) who are 4.1%.
-
-The three numerical minorities namely the Sri Lankan Tamils, Muslims and Indian Tamils together are 25.5% of the population. These three ethnic groups form the majority in some Sri Lankan districts. In other districts they are a substantive segment of the population. Since the people of all districts vote together in the Presidential elections, the entire island is transformed into a “single” constituency with a 74.9% Sinhala majority and 25.5 % non – Sinhala minorities.
-
-...
-
-[Data](articles/008ff134.json)
-
-[Extended Data](ext_articles/008ff134.ext.json)
-
----
-
-### Two Carson’s Group firms announce Rs. 288 m share repurchase
-
-*2024-05-27 00:53:32* · [`dailyftlk`](https://www.ft.lk/business/Two-Carson-s-Group-firms-announce-Rs-288-m-share-repurchase/34-762183) · `en`
-
-Ceylon Investment PLC (CONV) and Ceylon Guardian Investment Trust PLC (CGIT) have announced moves to repurchase shares from the Shareholders in terms of Section 64 of the Companies Act, No. 07 of 2007 and Article 17 of the Articles of Association of the Company.
-
-At CINV the number of shares to be purchased will be 2.16 million (on the basis of 1 share for every 46 held) at Rs. 118.14 per share in an exercise worth Rs. 255.18 million. At CGIT, the basis will be 1 deferred share for every 41 deferred shares held and involves 139,932 shares at Rs. 237.09 each in a deal worth Rs. 33.17 million.
-
-◼️
-
-[Data](articles/11b04b21.json)
-
-[Extended Data](ext_articles/11b04b21.ext.json)
 
 ---

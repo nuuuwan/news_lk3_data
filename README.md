@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-27 08:19:04**
+As of **2024-05-27 08:34:07**
 
 ## Newspaper Stats
 
-*Scraped **26,468** Articles*
+*Scraped **26,469** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ adaderanalk | 3,031
 tamilmirrorlk | 3,102
 virakesarilk | 4,040
 dailymirrorlk | 4,181
-adaderanasinhalalk | 4,238
+adaderanasinhalalk | 4,239
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,460 (100.0%) of 26,468 articles have been extended.
+26,468 (100.0%) of 26,469 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-27 (Monday)
+
+### කුමන්ත්‍රණයක් ගැන නාමල්ගෙන් හෙළිදරව්වක්
+
+*2024-05-27 08:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197050) · `si`
+
+හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතා ගොඩනගන ලද ආණ්ඩුව ඇදවැට්ටවීම සඳහා රට තුළ බරපතළ කුමන්ත්‍රණයක් ක්‍රියාත්මක වූ බව පාර්ලිමේන්තු මන්ත්‍රී නාමල් රාජපක්ෂ මහතා පවසයි.
+
+ආණ්ඩුව තුළ ම මීට එරෙහිව විවිධ බලවේග ක්‍රියාත්මක වූ බව එහිදී මන්ත්‍රීවරයා සඳහන් කළේය.
+
+"ආණ්ඩුව ඇතුළෙන් එදා කුමන්ත්‍රණය ගොඩනැගුණා. ජාත්‍යන්තර බලවේග, ත්‍රස්තවාදී සංවිධාන එදා ආණ්ඩුව පෙරළන්න කටයුතු කළා. එහි ප්‍රතිඵලයක් විදියටයි යහපාලන ආණ්ඩුව ගොඩනැගුණේ. හැබැයි ගෝඨාභය රාජපක්ෂ මහත්තයා භාර ගත්තේ මහින්ද මහත්තයා භාරදීපූ ආණ්ඩුව නෙමෙයි. වැටිච්ච් ආණ්ඩුවක්."
+
+ශ්‍රී ලංකා පොදුජන පෙරමුණේ මංගල ආසන සමුළුව හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතාගේ ප්‍රධානත්වයෙන් තලාව නගරයෙන් ආරම්භ කෙරුණි.
+
+"සටන අරඹමු රජරටෙන්" යන තේමාව යටතේ මෙම ආසන සමුළුව පැවැත්වූ අතර ඊට පොදු ජන පෙරමුණ නියෝජනය කරන පාර්ලිමේන්තු මන්ත්‍රීවරුන් ඇතුලු විශාල පිරිසක් එක්විය.
+
+හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතාගේ ප්‍රධානත්වයෙන් මෙම සමුළුව පැවතුනද ඔහු සමුළුව අමතා කතා නොකිරීම විශේෂත්වයකි.
+
+◼️
+
+[Data](articles/a9f2d232.json)
+
+---
 
 ### Fairly heavy showers expected in parts of the island
 
@@ -52,6 +74,8 @@ Fairly strong winds about 30-40 kmph can be expected at times elsewhere of the i
 
 [Data](articles/657f51ad.json)
 
+[Extended Data](ext_articles/657f51ad.ext.json)
+
 ---
 
 ### China, US, India, France compete for SL’s graphite deposits
@@ -71,6 +95,8 @@ Asked for a comment in this regard, Director General of the Geological and Mines
 ...
 
 [Data](articles/aa17abab.json)
+
+[Extended Data](ext_articles/aa17abab.ext.json)
 
 ---
 
@@ -374,6 +400,8 @@ On 25th of last month, Minister of Labour and Foreign Employment Manusha Nanayak
 
 [Data](articles/106867a7.json)
 
+[Extended Data](ext_articles/106867a7.ext.json)
+
 ---
 
 ### Eran criticises Govt.’s revenue shortfall
@@ -490,6 +518,8 @@ Speaking to Mirror Business, Medium Scale Tea Estate Owners Association Founding
 
 [Data](articles/25da4c6a.json)
 
+[Extended Data](ext_articles/25da4c6a.ext.json)
+
 ---
 
 ### Hydra-headed network of new institutions in Economic Transformation Bill
@@ -550,21 +580,29 @@ Water supply has been banned as the massive water leak in the water pipe on the 
 
 ---
 
-### ’மீள்குடியேற்றப்பட்ட மக்களுக்கு காணி உறுதிகள்’
+### Land Confirmation for Resettled People
 
 *2024-05-27 01:48:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீள்குடியேற்றப்பட்ட-மக்களுக்கு-காணி-உறுதிகள்/175-337939) · `ta`
 
-முல்லைத்தீவு மாவட்டத்தில் மீள்குடியேற்றம் என்பது பாரிய செயற்பாடாக மாறியுள்ளது. எனவே, மீள்குடியேற்றப்பட்ட மக்களுக்கு முழுமையான காணி உறுதிப் பத்திரம் வழங்கவும் நடவடிக்கை எடுத்து வருகிறோம் என்று ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+President Ranil Wickremesinghe announced significant progress in the Mullaitivu district's resettlement efforts, including 600 complete land guarantees and 1,376 free bonds under the 'Urumaya' program. This initiative aims to support those affected by the war, rebuilding lives and communities post-conflict.
 
-புதுக்குடியிருப்பு மத்திய மகா வித்தியாலயத்தில் நேற்று  முற்பகல் நடைபெற்ற வவுனியா மாவட்ட 'உறுமய' காணி உறுதி வழங்கும் நிகழ்ச்சியில் கலந்து கொண்டு உரையாற்றும் போதே ஜனாதிபதி மேற்கண்டவாறு குறிப்பிட்டார்.
+🟩
 
-முல்லைத்தீவு மாவட்டத்தின் 5 பிரதேச செயலாளர் பிரிவுகளை உள்ளடக்கிய 600 முழுமையான காணி உறுதிப் பத்திரங்கள் இங்கு வழங்கப்பட்டதோடு, முல்லைத்தீவு மாவட்டத்திற்கு 'உறுமய' வேலைத்திட்டத்தின் கீழ் 1,376 இலவசப் பத்திரங்கள் வழங்கப்பட உள்ளன.
+Resettlement in the Mullaitivu district has become a massive activity. President Ranil Wickremesinghe said,
 
-ஜனாதிபதி என்ற வகையில் இன்று முல்லைத்தீவு மாவட்டத்திற்கு விஜயம் செய்யும் வாய்ப்பு கிடைத்தமைக்கு முதலில் எனது மகிழ்ச்சியை தெரிவித்துக் கொள்கிறேன். உறுமய காணி உறுதிப் பத்திரம் வழங்கும் திட்டத்தில் முல்லைத்தீவு மாவட்டத்திற்கு முக்கியமானது.
+The President said this while addressing the Vavuniya District 'Urumaya' Land Confirmation ceremony held at the Pudukkudiyiruppu Central Maha Vidyalaya yesterday morning.
 
-...
+There are 600 complete land guarantees comprising 5 Divisional Secretariat Divisions of the Mullaitivu District and 1,376 free bonds will be issued to the Mullaitivu District under the 'Urumaya' program.
+
+As the President today, I am happy to have the opportunity to visit the Mullaitivu district today. The Mullaitivu District is important to the Urumaya Land Request Scheme.
+
+Due to the war, buildings in the area were destroyed and many had to leave their lands. Therefore, resettlement in the Mullaitivu district has become a massive activity. Therefore, we are taking steps to implement the Urumaya Project in this area and to provide a full land guarantee of resettled people.. (A)
+
+◼️
 
 [Data](articles/597f9b1b.json)
+
+[Extended Data](ext_articles/597f9b1b.ext.json)
 
 ---
 
@@ -624,21 +662,27 @@ This is the lowest number of teams in the history of the IPL.
 
 ---
 
-### சீரற்ற காலநிலையால் 45,509 பேர் பாதிப்பு
+### 45,509 people are affected by random weather
 
 *2024-05-27 01:31:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சீரற்ற-காலநிலையால்-45-509-பேர்-பாதிப்பு/175-337937) · `ta`
 
-சீரற்ற காலநிலை காரணமாக நாடளாவிய ரீதியில் 19 மாவட்டங்களைச் சேர்ந்த 45,509 பேர் பாதிக்கப்பட்டுள்ளதாக அனர்த்த முகாமைத்துவ நிலையம் தெரிவித்துள்ளது.
+Inclement weather affects 45,509 people across 19 districts, causing 8 deaths, 13 injuries, and significant property damage, including 12 complete house losses and 3,166 partial damages. The Western Province is hardest hit with 28,350 affected individuals.
 
-அனர்த்தங்கள் காரணமாக 8 பேர் இதுவரையில் உயிரிழந்த நிலையில் 13 பேர் காயமடைந்துள்ளதாக அந்த நிலையம் குறிப்பிட்டுள்ளது.
+🟩
 
-அதேநேரம், கடும் காற்று காரணமாக மரங்கள் முறிந்து வீழ்ந்தமையினால் 12 வீடுகள் முற்றாகவும் 3,166 வீடுகள் பகுதியளவிலும் சேதமடைந்துள்ளன.
+The Disaster Management Center said that 45,509 people from 19 districts have been affected by inclement weather.
 
-சீரற்ற காலநிலை காரணமாக, அதிகளவானோர் மேல் மாகாணத்திலேயே பாதிக்கப்பட்டுள்ளனர். மேல் மாகாணத்தில் மாத்திரம் 28,350 பேர் பாதிப்படைந்துள்ளனர். (a)
+Eight people have died due to disasters and 13 have been injured, the station said.
+
+At the same time, 12 houses have been completely damaged and 3,166 houses have been damaged due to heavy winds.
+
+Due to inclement weather, most people are affected in the Western Province. Only 28,350 people have been affected in the Western Province. (A)
 
 ◼️
 
 [Data](articles/e93a44ca.json)
+
+[Extended Data](ext_articles/e93a44ca.ext.json)
 
 ---
 
@@ -899,6 +943,8 @@ India became by far the largest tourist traffic generator for the month, account
 ...
 
 [Data](articles/fe72199d.json)
+
+[Extended Data](ext_articles/fe72199d.ext.json)
 
 ---
 
@@ -1666,6 +1712,8 @@ The Welikada Police are investigating the incident, and a post-mortem examinatio
 
 [Data](articles/c0bd049b.json)
 
+[Extended Data](ext_articles/c0bd049b.ext.json)
+
 ---
 
 ### Ashraf Museum and mouth shot
@@ -2109,23 +2157,5 @@ It is also said that Sampanthan has three reasons before. The first reason is th
 [Data](articles/0c120fd8.json)
 
 [Extended Data](ext_articles/0c120fd8.ext.json)
-
----
-
-### Military Sajith side!
-
-*2024-05-26 17:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/184530) · `ta`
-
-The statement highlights the significant role of generals involved in the war around Sajith Premadasa, drawing attention to the impact on Tamil communities' perspectives.
-
-🟩
-
-"When the generals who played a major role in the war around Sajith Premadasa stand, the eyes of the Tamil people are visible.
-
-◼️
-
-[Data](articles/41176b82.json)
-
-[Extended Data](ext_articles/41176b82.ext.json)
 
 ---

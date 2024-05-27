@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-27 07:21:31**
+As of **2024-05-27 07:45:33**
 
 ## Newspaper Stats
 
-*Scraped **26,454** Articles*
+*Scraped **26,458** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,56 +17,134 @@ economynextcom | 1,511
 dailyftlk | 1,550
 adalk | 2,247
 adaderanalk | 3,030
-tamilmirrorlk | 3,099
+tamilmirrorlk | 3,100
 virakesarilk | 4,039
-dailymirrorlk | 4,174
-adaderanasinhalalk | 4,236
+dailymirrorlk | 4,176
+adaderanasinhalalk | 4,237
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,451 (100.0%) of 26,454 articles have been extended.
+26,458 (100.0%) of 26,458 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-27 (Monday)
 
-### අහුංගල්ල වෙඩිතැබීමේ සිද්ධියේ සැකකරුවෙක් හසුවෙයි
+### Price of ginger reaches Rs. 5,000 per kilo today
+
+*2024-05-27 07:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Price-of-ginger-reaches-Rs-5-000-per-kilo-today/108-283402) · `en`
+
+Colombo, May 27 (Daily Mirror) - The retail price of a kilogram of ginger has reached Rs. 5,000 at the Narahenpita Economic Centre today, the National Consumer Front said.
+
+Accordingly, the retail price of a kilogram of ginger has reached Rs. 4,800, a kilogram of beans Rs. 700 and a kilogram of lime Rs. 1,800 at the Economic Centre.
+
+◼️
+
+[Data](articles/e9b4aa01.json)
+
+[Extended Data](ext_articles/e9b4aa01.ext.json)
+
+---
+
+### Opposition MPs leave to rescue Sri Lankans held hostage in Myanmar, Russia
+
+*2024-05-27 07:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Opposition-MPs-leave-to-rescue-Sri-Lankans-held-hostage-in-Myanmar-Russia/108-283401) · `en`
+
+Katunayaka, May 27 (Daily Mirror) - Three members of the Opposition left Bandaranaike International Airport (BIA) for Thailand for a diplomatic mission to rescue the 49 Sri Lankan youths and women who are forcibly held in the cyber camp of computer criminals in Myanmar and the Sri Lankan war heroes who are in the middle of the Russian-Ukraine war and bring them back to Sri Lanka.
+
+These Opposition members went to Myanmar this morning for a 10-day visit to prepare a programme to get into negotiations with diplomatic officials and third parties.
+
+This three-member group includes Opposition MPs such as lawyer Wasantha Yapa Bandara, J.C. Alawathuwala and Sujith Sanjay Perera.
+
+They said that they are leaving for Myanmar to spend five days each and for Russia to launch this rescue operation.
+
+...
+
+[Data](articles/aaffdda9.json)
+
+[Extended Data](ext_articles/aaffdda9.ext.json)
+
+---
+
+### Applications for scholarship take over
+
+*2024-05-27 07:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197048) · `si`
+
+Scholarship exam applications open online from May 27 to June 14. No late submissions allowed. Exam on Sept 15 at approved schools. Visit www.onlinexams.gov.lk for details or call 191/011-2786616.
+
+🟩
+
+Commissioner General of Examinations Amit Jayasundara says that the application will be taken on the online system regarding the scholarship examination today (27).
+
+Accordingly, the applications will be accepted on the online system until June 14, the Commissioner General of Examinations said.
+
+On June 14, an online approach will be terminated after 12 midnight and the closing date for applications will be extended for any reason.
+
+Students will be submitted to the scholarship examination only at a public school or government-approved school.
+
+The Commissioner General of Examinations said that obtaining applications to visit www.onlinexams.gov.lk.
+
+Commissioner General of Examinations Amithi Jayasundara said that further information can be obtained by calling the telephone number 191 or 011-2 786616, 0112 786616, 0112 786616, 0112 78661, 0112 7845208.
+
+The Grade 5 scholarship examination will be held on Sunday of September 15.
+
+◼️
+
+[Data](articles/9f44d5f9.json)
+
+[Extended Data](ext_articles/9f44d5f9.ext.json)
+
+---
+
+### Suspect in Ahungalla shooting case
 
 *2024-05-27 06:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197047) · `si`
 
-කොස්ගොඩ පොලීසියේ නිලධාරීන් විසින් ඊයේ (26) දින බෙන්තර කහබිලියාකන්ද ප්‍රදේශයේදී සැකකරුව අත්අඩංගුවට ගෙන තිබුණි.
+A suspect was arrested by Kosgoda police for possession of heroin. Two unidentified individuals were killed in Ahungalla on August 8th by shooters from Bogahapitiya.
 
-පොලීසිය සඳහන් කළේ සැකකරු සන්තකයේ හෙරොයින් ග්‍රෑම් 03යි මිලිග්‍රෑම් 410ක් ද තිබී සොයාගත් බවය.
+🟩
 
-පසුගිය 08 වනදා රාත්‍රී කාලයේදී අහුංගල්ල පොලිස් වසමේ බෝගහපිටිය ලෝකන්වත්ත ප්‍රදේශයේදී යතුරුපැදියකින් පැමිණි නාඳුනන පුද්ගලයින් දෙදෙනෙකු විසින් නිවසක සිටි පුද්ගලයෙකුට වෙඩිතබා මෙම ඝාතනය සිදුකර තිබුණි.
+Kosgoda police officers were arrested by the police officers yesterday (26).
+
+Police said that the suspect had found 3 grams and 4 milligrams of heroin.
+
+On the night of the night of the 8th, two unidentified persons were shot dead by two unidentified persons from Bogahapitiya in the Ahungalla Police Division in the Ahungalla Police Division.
 
 ◼️
 
 [Data](articles/7d06ce19.json)
 
+[Extended Data](ext_articles/7d06ce19.ext.json)
+
 ---
 
-### අදත් තද සුළං
+### Strong winds today
 
 *2024-05-27 06:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197045) · `si`
 
-නිරිතදිග මෝසම් තත්ත්වය හේතුවෙන් පවතින සුළං තත්ත්වය තවදුරටත් බලාපොරොත්තු වෙන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව අද (27) නිකුත් කළ නවතම නිවේදනයේ දැක්වෙයි.
+Expect strong winds and showers across several provinces today, with heavy rain possible in some areas. The southwest monsoon continues, affecting weather conditions.
 
-ඒ අනුව අද දිනයේත් බස්නාහිර, සබරගමුව, මධ්‍යම, වයඹ සහ දකුණු පළාත්වල විටින් විට වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වෙයි.
+🟩
 
-බස්නාහිර සහ සබරගමුව පළාත්වලත් නුවරඑළිය දිස්ත්‍රික්කයේත් ඇතැම් ස්ථානවල මි.මී. 75ක පමණ තරමක තද වැසි ඇතිවිය හැකිය.
+The Department of Meteorologies will continue to expect the wind condition today (27) due to the southwest monsoon.
 
-ඌව සහ නැගෙනහිර පළාත්වල සවස් කාලයේ හෝ රාත්‍රී කාලයේ තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වෙයි.
+Showers or thundershowers will occur at times in the Western, Sabaragamuwa, Central, North Western and Southern provinces.
 
-මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවල සහ උතුරු, උතුරු මැද, බස්නාහිර, දකුණු සහ වයඹ පළාත්වලත් ත්‍රීකුණාමලය දිස්ත්‍රික්කයේත් විටින්විට හමන පැ.කි.මී. 50ක 60ක පමණ තද සුළං ඇතිවිය හැකිය.
+In some places in the Western and Sabaragamuwa provinces, in some places in some places. Heavy rains can occur about 75 times.
 
-දිවයිනේ සෙසු ප්‍රදේශවල විටින් විට හමන පැ.කි.මී. 30-40 ක පමණ තරමක තද සුළං ඇතිවිය හැකි බවද දැනුම්දෙයි.
+Showers or thundershowers will occur at the evening or night in the Uva and Eastern Provinces.
+
+Trincomalee, Western, North Central, Southern and North Western and Southern and Northwestern Wayamba and Wayamba and Wayamba. Strong winds can occur about 60 in 50.
+
+From time to time in the rest of the island.. It is also reported that there are about 30-40 strong winds.
 
 ◼️
 
 [Data](articles/67877848.json)
+
+[Extended Data](ext_articles/67877848.ext.json)
 
 ---
 
@@ -397,6 +475,28 @@ This is the lowest number of teams in the history of the IPL.
 [Data](articles/96a59c56.json)
 
 [Extended Data](ext_articles/96a59c56.ext.json)
+
+---
+
+### Erosion of landslides
+
+*2024-05-27 01:29:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மண்சரிவு-எச்சரிக்கை-நீடிப்பு/175-337936) · `ta`
+
+Landslide hazards have been issued for several districts including Colombo, Nuwara Eliya, Ratnapura, Kandy, Kegalle, Kalutara, and Gampaha, with secondary risks in specific areas like Ambagamuwa, Ratnapura, and Ingiriya.
+
+🟩
+
+Accordingly, the Disaster Management Center said that the landslide hazard has been issued to the districts of Colombo, Nuwara Eliya, Ratnapura, Kandy, Kegalle, Kalutara and Gampaha.
+
+The secondary landslide risk has been issued to the Ambagamuwa Divisional Secretariat Division of the Nuwara Eliya District and the Divisional Secretariat of the Ratnapura District, Ratnapura, Ayyagama, Kalana, Ehaliyagoda, Kuruvita, Balangoda, Kiriella and Elapatha.
+
+The secondary landslide risk has been released to the Ingiriya Divisional Secretariat Division of the Kalutara District, the Divisional Secretariat of the Colombo District, the Divisional Secretariat Division of the Colombo District. (A)
+
+◼️
+
+[Data](articles/00c14850.json)
+
+[Extended Data](ext_articles/00c14850.ext.json)
 
 ---
 
@@ -2033,99 +2133,5 @@ According to the gazette notification, information on all movable and immovable 
 [Data](articles/76892eb1.json)
 
 [Extended Data](ext_articles/76892eb1.ext.json)
-
----
-
-### President steps in to resolve land issue in Keppapilau village
-
-*2024-05-26 17:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/99448/president-steps-in-to-resolve-land-issue-in-keppapilau-village) · `en`
-
-President Ranil Wickremesinghe made a visit to Puthukkudiyiruppu Madhya Maha Vidyalaya today (26) as part of the freehold deeds distributing ceremony in Mullaitivu district under the “Urumaya” program. However, the event took an unexpected turn when two local women protested in front of the college, expressing their desire to meet the President.
-
-In response to the protest, Northern Province Governor P. S. M. Charles personally intervened, approaching the women to inquire about their concerns. The women reiterated their wish to present their issues directly to the President. Upon being briefed by the Governor, President Ranil Wickremesinghe visited the site of the protest and engaged with the women to listen to their grievances first-hand.
-
-...
-
-[Data](articles/c04152a9.json)
-
-[Extended Data](ext_articles/c04152a9.ext.json)
-
----
-
-### History does not always give occasions
-
-*2024-05-26 17:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/184537) · `ta`
-
-Sri Lanka's islands are contested by global powers, divided into two teams: US-led Indo-Pacific strategists and China-led Badi and Zone preferences. The current situation favors the Indo-Pacific group due to Sri Lanka's economic crisis.
-
-🟩
-
-It is well known that the international powers have contested the Sri Lankan Islands as two teams. US -led Indo -Pacific strategists will be a team. China -led Badi and Zone prefers are another team. Indo -Pacific strategists in the current environment are on top. Sri Lanka's economic crisis gave it a chance.
-
-◼️
-
-[Data](articles/b97bcdf7.json)
-
-[Extended Data](ext_articles/b97bcdf7.ext.json)
-
----
-
-### Landslide early warnings issued for 7 districts including Colombo
-
-*2024-05-26 17:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/99447/landslide-early-warnings-issued-for-7-districts-including-colombo) · `en`
-
-The National Building and Research Organisation (NBRO), on Sunday (May 26) issued early landslide warnings for several localities in seven districts, to be in effect until 04.00 p.m. tomorrow (May 27).
-
-Accordingly, a Level 02 (Amber) alert was issued for the following areas:
-
-• Colombo - Seethawaka Divisional Secretariat Division (DSD) and surrounding areas
-
-• Kalutara - Ingiriya, Bulathsinhala and Mathugama DSDs and surrounding areas
-
-• Kegalle – Bulathkohupitiya, Deraniyagala, Ruwanwella, Kegalle, Dehiowita, Warakapola, Yatiyanthota, Mawanella and Galigamuwa DSD and surrounding areas
-
-• Ratnapura - Imbulpe, Balangoda, Elapatha, Kalawana, Kiriella, Eheliyagoda, Ayagama, Ratnapura and Kuruwita DSDs and surrounding areas
-
-Meanwhile, Level 01 (Yellow) alerts have been issued for the following areas:
-
-• Colombo - Padukka Divisional Secretariat Division (DSD) and surrounding areas
-
-• Kalutara - Dodangoda, Walallawita, Agalawatta, Palindanuwara and Horana DSDs and surrounding areas
-
-...
-
-[Data](articles/f45eca04.json)
-
-[Extended Data](ext_articles/f45eca04.ext.json)
-
----
-
-### Harsha says the discussion is postponed
-
-*2024-05-26 16:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197030) · `si`
-
-The discussion on online visas for foreigners, initially scheduled for Tuesday, has been postponed due to the unavailability of key officials from the Departments of Public Defense and Immigration. The meeting has been rescheduled for June 4, aiming to address concerns raised during the initial planning stages.
-
-🟩
-
-The Committee on Finance Committee has said that the discussion on the issue of online visas for foreigners has to be postponed.
-
-The Chairman of the Parliament Dr. Harsha de Silva said that the discussion was planned to be held on Tuesday.
-
-However, the officials of the Department of Public Defense and the Department of Immigration and Immigration and Immigration have not been able to participate.
-
-Accordingly, the discussion will be postponed to June 4, MP Dr. Harsha de Silva said.
-
-The heads of state institutions that are implementing the initiatives to look into the issue of online visas for foreign visas have been convened.
-
-The Selection of the Public Finance Committee on the government said that the relevant officials came to the discussion on the first discussion on the 14th.
-
-Accordingly, the relevant officers had informed the relevant officials to return to the negotiations and that they could not participate in discussions on that day.
-
-...
-
-[Data](articles/e8e03cde.json)
-
-[Extended Data](ext_articles/e8e03cde.ext.json)
 
 ---

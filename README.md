@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-28 02:18:51**
+As of **2024-05-28 02:33:59**
 
 ## Newspaper Stats
 
-*Scraped **26,656** Articles*
+*Scraped **26,672** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 266
 newsfirstlk | 363
 islandlk | 1,442
 economynextcom | 1,525
-dailyftlk | 1,551
+dailyftlk | 1,567
 adalk | 2,270
 adaderanalk | 3,054
 tamilmirrorlk | 3,126
@@ -26,11 +26,287 @@ adaderanasinhalalk | 4,273
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,656 (100.0%) of 26,656 articles have been extended.
+26,656 (99.9%) of 26,672 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-28 (Tuesday)
+
+### Dilith, Gammanpila, Wimal join hands to form ‘Sarvajana Balaya’
+
+*2024-05-28 02:18:48* · [`dailyftlk`](https://www.ft.lk/news/Dilith-Gammanpila-Wimal-join-hands-to-form-Sarvajana-Balaya/56-762260) · `en`
+
+PHU leader Udaya Gammanpila says the nationalist movement cannot be extinguished despite efforts by separatist and imperialist factions
+
+Accuses certain groups for hoping to end the nationalist movement in the upcoming polls
+
+Unveils ten-point manifesto with plans to present strategic program to citizens within a month
+
+Several nationalist political parties and civil society groups joined hands to form a new political movement titled “Sarvajana Balaya” in Colombo yesterday.
+
+The agreement for the coalition was signed by coalition partners Jathika Nidahas Peramuna (JNP) led by MP Wimal Weerawansa, Pivithuru Hela Urumaya (PHU) led by MP Udaya Gammanpila, Mawbima Janatha Party (MJP) led by Dilith Jayaweera, the Democratic Left Front led by MP Vasudeva Nanayakkara, the Sri Lanka Communist Party, Yuthukama National Organisation led by MP Gevindu Cumaratunga and the Independent MP’s Forum led by MP Channa Jayasumana.
+
+...
+
+[Data](articles/74a545aa.json)
+
+---
+
+### Siyambalapitiya assures transparent recruitment for Customs Department
+
+*2024-05-28 02:13:22* · [`dailyftlk`](https://www.ft.lk/news/Siyambalapitiya-assures-transparent-recruitment-for-Customs-Department/56-762259) · `en`
+
+State Minister of Finance Ranjith Siyambalapitiya announced yesterday that the recruitment process for the currently vacant posts of Assistant Superintendent of Customs and Inspector of Customs is proceeding without any interference, ensuring transparency and fairness.
+
+...
+
+[Data](articles/31812693.json)
+
+---
+
+### Former SLFP MP Tissa Karaliyadda joins SJB
+
+*2024-05-28 02:11:23* · [`dailyftlk`](https://www.ft.lk/news/Former-SLFP-MP-Tissa-Karaliyadda-joins-SJB/56-762258) · `en`
+
+Veteran politician and former Sri Lanka Freedom Party (SLFP) Anuradhapura district MP Tissa Karaliyadda officially joined the Samagi Jana Balawegaya (SJB) over the weekend.
+
+Karaliyadda joined the SJB after meeting with party leader Sajith Premadasa in Polonnaruwa on Saturday. Premadasa was in town for a party rally when he welcomed Karaliyadda into the SJB. The event was also attended by SJB MP Rohana Bandara.
+
+Karaliyadda entered Parliament representing the Anuradhapura district and has served as the Cabinet Minister for Child Development and Women’s Affairs, as well as the Minister of Indigenous Medicine.
+
+The veteran politician found himself embroiled in controversy in 2015 when a photograph of him alongside underworld figure Iron Ranasinghe, alias SF Loku Malli, a prime suspect in the murder of nightclub owner Wasantha de Zoysa, went viral. At the time Karaliyadda denied any connection to Ranasinghe and the murder of de Zoysa in Anuradhapura.
+
+◼️
+
+[Data](articles/10b6b596.json)
+
+---
+
+### Marikkar criticises NPP’s lack of comprehensive economic policy
+
+*2024-05-28 02:09:36* · [`dailyftlk`](https://www.ft.lk/news/Marikkar-criticises-NPP-s-lack-of-comprehensive-economic-policy/56-762257) · `en`
+
+SJB MP S.M. Marikkar expresses disappointment NPP has not responded to request for Economic Council debate
+
+Says SJB is open to hold leadership debate first only if dates for economic council debate are provided
+
+Stresses people will not accept NPP economic policies which have not been penned down and are limited to rhetoric
+
+Samagi Jana Balawegaya (SJB) MP S.M. Marikkar yesterday said no one in the country will be willing to accept National People’s Power (NPP) party’s economic policies which appear to be limited to rhetoric and have not been penned down as a comprehensive plan.
+
+Speaking at a press briefing, Marikkar emphasised that the primary concern in Sri Lanka is the economic crisis. He noted that the SJB has therefore proposed dates for debates involving both the Economic Councils and Leadership to the NPP. However, he expressed disappointment that the NPP has yet to respond to the request for the Economic Council debate.
+
+...
+
+[Data](articles/da9b07dc.json)
+
+---
+
+### BIA bans driverless vehicles from arrivals terminal to streamline traffic
+
+*2024-05-28 02:07:45* · [`dailyftlk`](https://www.ft.lk/news/BIA-bans-driverless-vehicles-from-arrivals-terminal-to-streamline-traffic/56-762256) · `en`
+
+Airport and Aviation Services (Sri Lanka) Ltd., (AASL) announced yesterday that a decision has been taken not to allow vehicles without drivers to be parked in the arrivals terminal premises at the Bandaranaike International Airport (BIA).
+
+In the notice, AASL Chairman Eng. Athula Galketiya said the decision to prohibit vehicles without drivers from being parked in the arrivals terminal premises at BIA was made to alleviate traffic congestion and streamline vehicle movements. “Vehicles are required to reach at the arrivals terminal only at the designated times for pickups. No permission will be granted to park any vehicle in the arrivals terminal for over 30 minutes, even with the driver being present,” he added.
+
+Galketiya said vehicles parked for over 30 minutes at the arrivals terminal, causes’ traffic congestion and disregard the orders, will be charged an extra fee upon leaving the airport.
+
+...
+
+[Data](articles/0b826e11.json)
+
+---
+
+### SJB accuses NPP of sabotaging debate plans
+
+*2024-05-28 02:06:31* · [`dailyftlk`](https://www.ft.lk/news/SJB-accuses-NPP-of-sabotaging-debate-plans/56-762255) · `en`
+
+Samagi Jana Balawegaya (SJB) MP Nalin Bandara yesterday accused the National People’s Power (NPP) of attempting to sabotage the plans to hold a debate between the leaders and economic councils of the parties.
+
+In a letter to the NPP he accused the rival of employing diversionary tactics to prevent the scheduled debates between the economic council and party leaders from proceeding as intended. Bandara in the letter requested the NPP to provide a date for the debate between the Economic Councils.
+
+Bandara stressed the importance of initiating discussions on the economic policies of both parties amidst the current economic challenges facing the country. He emphasised the need to prioritise these discussions through the Economic Council debate.
+
+...
+
+[Data](articles/36504f9a.json)
+
+---
+
+### Excise Dept. employee and bank manager among 8 arrested over drug racket
+
+*2024-05-28 02:04:24* · [`dailyftlk`](https://www.ft.lk/news/Excise-Dept-employee-and-bank-manager-among-8-arrested-over-drug-racket/56-762254) · `en`
+
+An individual employed at the Excise Department and a person who is said to be a manager of a private bank are among 8 suspects arrested by Alawathugoda Police in connection with a drug racket.
+
+Drugs including heroin, crystal methamphetamine (‘ice’) and cannabis as well as a digital scale and around Rs. 10,000 in cash have been found in the possession of the arrested suspects.
+
+Court has granted permission to detain until 29 May and question the Excise Department employee and the private bank manager, who are among the arrested suspects.
+
+The 08 suspects in question had been arrested based on information uncovered following the interrogation of a suspect arrested by Alawathugoda Police while peddling heroin.
+
+◼️
+
+[Data](articles/f1c71bc5.json)
+
+---
+
+### 2,000 people feared buried under Papua New Guinea landslide
+
+*2024-05-28 02:03:53* · [`dailyftlk`](https://www.ft.lk/news/2-000-people-feared-buried-under-Papua-New-Guinea-landslide/56-762253) · `en`
+
+The landslide occurred in the mountainous Enga region in northern Papua New Guinea on Friday and the latest figure is a sharp rise from earlier estimates.
+
+Soon after the disaster occurred, the United Nations said as many as 100 may have died. That was later revised up to 670, according to estimates from the Chief of Mission for the International Organization for Migration (IOM) in the country.
+
+But that may now be a major underestimate according to the latest projection from Papua New Guinea’s disaster agency.  “The landslide buried more than 2000 people alive and caused major destruction to buildings, food gardens and caused major impact on the economic lifeline of the country,” National Disaster Centre Acting Director Lusete Laso Mana said in a letter to the UN.
+
+...
+
+[Data](articles/edd717a2.json)
+
+---
+
+### Tissa criticises Govt. over drop in FDIs
+
+*2024-05-28 02:02:21* · [`dailyftlk`](https://www.ft.lk/business/Tissa-criticises-Govt-over-drop-in-FDIs/34-762252) · `en`
+
+SJB’s Tissa Attanayake condemns Govt. move to target ordinary citizens for revenue while allowing tax evaders to escape
+
+Raises concerns over nation’s foreign exchange earnings, being held abroad due to political instability and business reluctance
+
+Stresses importance of collecting taxes owed by wealthy persons who have evaded their tax obligations
+
+Samagi Jana Balawegaya (SJB) National Organiser Tissa Attanayake asserted yesterday that, considering the significant drop in Foreign Direct Investments (FDIs) in Sri Lanka, it is misleading to suggest that the economy is in a good state.
+
+Addressing a press conference in Colombo, Tissa Attanayake said the latest Central Bank Economic Review revealed a stark decline in FDIs, dropping from $ 884 million in 2022 to just $ 172 million in 2023.
+
+...
+
+[Data](articles/f958d358.json)
+
+---
+
+### Sri Lanka participates in International Tea Day celebrations by FAO in Rome
+
+*2024-05-28 02:00:02* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-participates-in-International-Tea-Day-celebrations-by-FAO-in-Rome/34-762251) · `en`
+
+The Embassy of Sri Lanka in Rome participated in the celebration of International Tea Day (ITD) organised by the Food and Agriculture Organisation (FAO) of the United Nations in Rome on 21 May 2024.
+
+The theme of this year’s celebration was “Women’s vital roles in the tea industry and how to overcome the challenges they face”.
+
+In his opening remarks of the formal session, FAO Director-General QU Dongyu said that women play a crucial role in the tea industry, substantially contributing to its sustainability, productivity, and community development; their contributions underpin the industry’s economic viability, social fabric, and sustainable development.
+
+During the event, a high-level panel of Permanent Representatives to FAO was organised in relation to women’s role, culture, economics, and history in the tea industry.
+
+...
+
+[Data](articles/63315a70.json)
+
+---
+
+### Singapore offers assistance to upgrade Immigration system in Sri Lanka
+
+*2024-05-28 01:58:00* · [`dailyftlk`](https://www.ft.lk/business/Singapore-offers-assistance-to-upgrade-Immigration-system-in-Sri-Lanka/34-762250) · `en`
+
+The High Commissioner of Sri Lanka to Singapore Senarath Dissanayake met a team of officials from the Immigration Checkpoint Authority (ICA) of Singapore at the High Commission recently.
+
+The ICA delegation is scheduled to visit Sri Lanka from 26 to 31 May 2024 and the visit aims to explore opportunities for collaboration in enhancing Sri Lanka’s immigration system through integrating advanced technology and achieving standards similar to those of Singapore. This visit has been arranged following a request made by Minister of Public Security of Sri Lanka Tiran Alles, from Minister for Home Affairs and Minister for Law, Singapore K. Shanmugam.
+
+During the meeting the High Commissioner highlighted the challenges Sri Lanka faces in border control. He emphasised that Minister and the Sri Lankan Department of Immigration are eager to receive the delegation, as their expertise and insights would greatly contribute to Sri Lanka’s efforts to modernise and improve the immigration processes.
+
+...
+
+[Data](articles/8938ee93.json)
+
+---
+
+### Debt and taxes: Can we hide our heads in the sand?
+
+*2024-05-28 01:51:50* · [`dailyftlk`](https://www.ft.lk/columns/Debt-and-taxes-Can-we-hide-our-heads-in-the-sand/4-762249) · `en`
+
+Unless we ask more and better questions of those who want to rule us, history may repeat
+
+A few days ago, I attended the launch of a policy platform by an organisation called Piripun Deshayak where the audience included at least one Presidential Candidate. I was quite surprised that the document (and the presentations) made no mention of debt or taxes.
+
+Saubhagyaye Dakma, the policy platform developed for Gotabaya Rajapaksa by Viyath Maga was a disaster, but it addressed both debt and taxes. That was in the good old days of 2019.
+
+In these darker times how could anyone propose actions, including significant public investments, to make Sri Lanka a developed nation by 2040 without addressing these key issues, I wondered. Where was the money, once the debts were serviced?\
+
+...
+
+[Data](articles/16dd177b.json)
+
+---
+
+### Economic stability with SOE reforms need system change
+
+*2024-05-28 01:46:22* · [`dailyftlk`](https://www.ft.lk/columns/Economic-stability-with-SOE-reforms-need-system-change/4-762248) · `en`
+
+Is there a more fundamental reason that permitted SOEs to operate without accountability, burden public finance, contribute to economic crisis and misallocation of resources?
+
+The Head of Emerging Market Economies Johanna Chua, when commenting recently on Sri Lanka’s emerging economic stability under IMF direction made a crucial point that “people” should “feel” the stability after paying a heavy price for it. But she failed to identify those people she was referring to. IMF being an institution created by and for the affluent never cared for the poor and downtrodden. It is a class biased institution predominantly interested in maintaining the stability of the capitalist system with its financial structure.
+
+...
+
+[Data](articles/70146c8c.json)
+
+---
+
+### Bringing vision to life: Implementing ‘Creative Sri Lanka 2030’ project
+
+*2024-05-28 01:39:28* · [`dailyftlk`](https://www.ft.lk/business/Bringing-vision-to-life-Implementing-Creative-Sri-Lanka-2030-project/34-762247) · `en`
+
+Exchanging the MoU and making a commitment to initiative discussed
+
+EDB collaborates with Institute for Future Creations to launch ‘Creative Sri Lanka 2030’
+
+The Sri Lanka Export Development Board (EDB), in collaboration with the Institute for Future Creations (TIFC) and other relevant stakeholders, including the London College of Fashion (UAL) and the Chamber of Ethical Lifestyle Enterprises (CELE), recently launched the ‘Creative Sri Lanka 2030’ project during a ceremony held at the EDB head office.
+
+The event brought together key stakeholders from the Government, private sector and civil society to celebrate the beginning of the program and strategize its successful execution.
+
+...
+
+[Data](articles/52d3c9c8.json)
+
+---
+
+### Baurs appoints Nishantha Weerasinghe as Deputy Managing Director
+
+*2024-05-28 01:37:33* · [`dailyftlk`](https://www.ft.lk/business/Baurs-appoints-Nishantha-Weerasinghe-as-Deputy-Managing-Director/34-762246) · `en`
+
+A. Baur & Co. Ltd., also known as Baurs, one of the leading conglomerates in Sri Lanka with diversified business interests recently announced the appointment of Nishantha Weerasinghe as its Deputy Managing Director. He will also continue to serve as Director of the Healthcare Division.
+
+In his new role, Weerasinghe will bring his extensive experience and strategic vision to steer the company to achieve greater heights. He will be joining Janaka Gunasekera who will also be continuing in his position as Deputy Managing Director and Agriculture Director. Weerasinghe and Gunasekera as Deputy Managing Directors will bolster the leadership at Baurs even further.
+
+Weerasinghe was instrumental in taking the healthcare division of Baurs to among the top three names in the industry today, achieving rapid progression, growth and recognition in the Sri Lankan market. The division offers a range of products and services in the fields of pharmaceuticals, medical devices, diagnostics, and nutrition.
+
+...
+
+[Data](articles/16ce1ebb.json)
+
+---
+
+### Roadshow on Thursday promoting Dubai, Hungary real estate investments
+
+*2024-05-28 01:35:12* · [`dailyftlk`](https://www.ft.lk/business/Roadshow-on-Thursday-promoting-Dubai-Hungary-real-estate-investments/34-762245) · `en`
+
+IGL Interglobal Luxury, in collaboration with Corporate Management Consultants, is organising a road show to promote real estate investments in Dubai and Hungary to investors in Sri Lanka.
+
+Interested investors will have the opportunity to participate in one-on-one interviews.
+
+The Presentation on Dubai Investments will be made by Inter Global Luxury Chief Executive Sabrina Khamisani and the presentation on Hungary will be made by Sales and Investment Director Junaid Khamisani and European Immigration Specialist Dr. Marczali Tamás.
+
+The Dubai real estate market offers very attractive terms and benefits, including a 10-year golden visa, assistance in opening bank accounts, a tax-free environment, one of the lowest crime rates globally, strong political stability, a robust legal framework, and high returns on investment (ROI) without tax implications.
+
+Under the theme “Hungary: Your Gateway to the European Union (EU),” one could apply for 3
+
+...
+
+[Data](articles/714840d2.json)
+
+---
 
 ### Israel reportedly agrees to  resume talks
 
@@ -1949,397 +2225,5 @@ Thanbugala is the Chairman of Aura Lanka Group of Companies and the former owner
 [Data](articles/64e0b6bb.json)
 
 [Extended Data](ext_articles/64e0b6bb.ext.json)
-
----
-
-### Cooperate with CMC: President's Work for the Army
-
-*2024-05-27 14:30:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மேல்-மாகாணம்/சி-எம்-சிக்கு-ஒத்துழைக்கவும்-இராணுவத்துக்கு-ஜனாதிபதி-பணிப்பு/95-337969) · `ta`
-
-In response to recent weather incidents, President Ranil Wickremesinghe collaborated with the State Tree Corporation and the Sri Lankan army to assist the Colombo Municipal Council (CMC) in removing over 100 hazardous trees. This initiative followed 59 incidents during the Vesak week, highlighting the urgency to address the safety of 1,000 trees, especially the 200 deemed ancient and vulnerable. Since January, efforts have led to the removal of 90 trees from the initial list of 200 identified as dangerous. The collaboration aims to further mitigate risks through the removal of the remaining 110 trees and the establishment of a 24/7 unit to monitor tree safety, utilizing the firefighter's '110' hotline for public reporting.
-
-🟩
-
-President Ranil Wickremesinghe has worked with the State Tree Corporation and the Sri Lankan army to cooperate with the Colombo Municipal Council (CMC) to immediately remove more than 100 old and large rotten trees that can be a great danger to the people and belongings.
-
-Due to inclement weather in the Vesak week since May 20, 59 incidents have taken place in areas under the authority of the Colombo Municipal Council.
-
-It has been found that immediate attention has been paid to 1,000 trees and 500 trees have trouble conditions.  Officials have found that 200 such trees are ancient and most vulnerable, and they must be cut off soon and avoid any danger to the public or property.
-
-When contacted by the Commissioner of the Colombo Municipal Council, Badrani Jayawardene, President Ranil Wickremesinghe said that he was working to the Colombo Municipal Council to cooperate with the Colombo Municipal Council to remove dangerous trees.
-
-...
-
-[Data](articles/abf073e8.json)
-
-[Extended Data](ext_articles/abf073e8.ext.json)
-
----
-
-### Aura Lanka Chairman granted bail
-
-*2024-05-27 14:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Aura-Lanka-Chairman-granted-bail/108-283447) · `en`
-
-Colombo, May 27 (Daily Mirror) - Aura Lanka Chairman Viranjith Thambugala who was arrested by the Criminal Investigation Department (CID) was granted bail.
-
-On May 22, the CID arrested Thambugala over alleged financial fraud of Rs. 7 million and he was remanded till today by the Colombo Magistrate's Court.
-
-He was granted bail by Colombo Additional Magistrate Pavithra Sanjeewani Pathirana.
-
-◼️
-
-[Data](articles/81b1b2dc.json)
-
-[Extended Data](ext_articles/81b1b2dc.ext.json)
-
----
-
-### Several political parties join the new alliance
-
-*2024-05-27 14:23:21* · [`adalk`](https://www.ada.lk/breaking_news/‍දේශපාලන-පක්ෂ-කිහිපයක්-එක්වී-නව-සන්ධානයට-අත්සන්-තබයි/11-409849) · `si`
-
-Several political parties and civil groups joined the National Freedom Front, Current Left Front, Communist Party, and Professors Channa Jayasumana and another unnamed professor in a written covenant in Colombo on 27th.
-
-🟩
-
-Several political parties and several civil organizations join the written covenant today (27) in Colombo today.
-
-The new alliance was the National Freedom Front, Current Left Front, the Communist Party, Professor, Professor Channa Jayasumana and the Independent MP Professor Channa Jayasumana.
-
-◼️
-
-[Data](articles/29d4a3e8.json)
-
-[Extended Data](ext_articles/29d4a3e8.ext.json)
-
----
-
-### As many as 2,000 people feared buried under Papua New Guinea landslide
-
-*2024-05-27 14:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/99464/as-many-as-2000-people-feared-buried-under-papua-new-guinea-landslide) · `en`
-
-The landslide occurred in the mountainous Enga region in northern Papua New Guinea on Friday and the latest figure is a sharp rise from earlier estimates.
-
-Soon after the disaster occurred, the United Nations said as many as 100 may have died. That was later revised up to 670, according to estimates from the Chief of Mission for the International Organization for Migration (IOM) in the country.
-
-But that may now be a major underestimate according to the latest projection from Papua New Guinea’s disaster agency.
-
-“The landslide buried more than 2000 people alive and caused major destruction to buildings, food gardens and caused major impact on the economic lifeline of the country,” Lusete Laso Mana, Acting Director the National Disaster Centre, said in a letter to the UN.
-
-...
-
-[Data](articles/facd246c.json)
-
-[Extended Data](ext_articles/facd246c.ext.json)
-
----
-
-### Naked a sergeant to a police sergeant and hits a sergeant
-
-*2024-05-27 14:04:43* · [`adalk`](https://www.ada.lk/breaking_news/පොලිසියේ-සැරයන්වරයෙකුට-නිරුවත්-කර-සැරයන්වරයෙක්-පහර-දෙයි/11-409848) · `si`
-
-A police sergeant was attacked and injured near a house in Nuwara Eliya. The incident occurred when he went to purchase supplies around 6 pm. The assailants, who stole his uniform and mobile, were apprehended by the Nuwara Eliya Police. The victim, expected to retire soon, is receiving treatment at the Nuwara Eliya District General Hospital.
-
-🟩
-
-Headquarters Chief Inspector Premalal Hettiarachchi said that a police sergeant was taken up and injured in the police sergeant to end the house.
-
-Thus abducted, the police sergeor to be retired in another two months of the Nuwara Eliya Police Station Police Station.
-
-The assaulted police sergeant has gone to Boralanda to purchase their duties around 6 pm and have attacked the area behind a large stone and the policeman had been assaulted after falling into the ground.The police said that the police stumbled on a lorry and took the police sergeant at the Thanul in Nuwara Eliya.
-
-The Nuwara Eliya Police have been admitted to the Nuwara Eliya District General Hospital with a resident of the Padwroom Estate.
-
-...
-
-[Data](articles/091bb39a.json)
-
-[Extended Data](ext_articles/091bb39a.ext.json)
-
----
-
-### If the president comes to an end to solve the problems of the minority people - Parliamentarian Govindan Karunagaram is ready to negotiate with him
-
-*2024-05-27 14:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/184599) · `ta`
-
-Govindan Karunagaram, a Batticaloa district parliamentarian, expressed readiness to negotiate with the president for economic recovery, emphasizing consideration for minority issues. He spoke at the 25th Anniversary Celebration of the Vinayaka Sports Club, highlighting the need for addressing minority problems. The People's Alliance (PA) faces challenges in nominating a presidential candidate due to past political dynamics, but potential opportunities exist for candidates supporting the PA, especially with the possibility of multiple contestants in the upcoming presidential election. This could allow any candidate to secure over 50% of the Sinhalese vote, potentially uniting Tamil Muslims and hill country people as a formidable force.
-
-🟩
-
-Batticaloa district parliamentarian Govindan Karunagaram (Jana) said that if the country is to be economically recovered, we are ready to talk to them if the president will consider the minority people and examine their problems.
-
-The 25th Anniversary Celebration of the Vinayaka Sports Club of Batticaloa was held on Sunday evening (26) evening. He was speaking to the media after attending the event.
-
-The PA is not in a position to field a presidential candidate at present. The people of this country are not prepared to support the PA and make their candidate win. This is because former President Gotabhaya Rajapakse, who made 69 lakhs of votes, chased him away in the last two years of the last period of 2019.. That situation is still from the Sinhalese.
-
-...
-
-[Data](articles/2555add5.json)
-
-[Extended Data](ext_articles/2555add5.ext.json)
-
----
-
-### Inferior lands submerged
-
-*2024-05-27 14:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197067) · `si`
-
-Rapidly rising water levels in main reservoirs and rivers, including Black, Gang, Nilwala, and Attanagalu Oya, threaten flooding across 19 districts, affecting over 43,000 individuals. The Navy assists in relief efforts in low-lying areas, while landslides pose additional risks. Health concerns arise due to potential dengue outbreaks.
-
-🟩
-
-The water level of the main reservoirs is increasing rapidly.
-
-43,792 persons have been affected by the rainy industry affected by 19 districts.
-
-The southwest monsoon rains have been affected by 19 districts in the island.
-
-The Navy has joined hands to provide relief to the people who remain in the lowland areas in the Puttalam district.
-
-Black, Gang, Nilwala River River and Attanagalu Oya are currently closing to a flood level.
-
-Meanwhile, the water level of the Castlere, Mawaskele and Upper Kotmale reservoirs are increasing rapidly.
-
-The Katugas Diyawanna Waterfall has increased the water capacity of the Zen Claire and Devon Dialogue.
-
-A large number of houses in the Uzzathu area in the Central Divisional Secretariat of the Gampola is harmful due to a wind condition with rain.
-
-Accordingly, 80 persons who were housed were temporarily sent to school in the area.
-
-Meanwhile, landslide warnings released in seven districts will continue further.
-
-...
-
-[Data](articles/99a519fb.json)
-
-[Extended Data](ext_articles/99a519fb.ext.json)
-
----
-
-### President orders Army, Timber Corp. to back CMC to remove risky city trees ASAP
-
-*2024-05-27 14:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/President-orders-Army-Timber-Corp-to-back-CMC-to-remove-risky-city-trees-ASAP/108-283445) · `en`
-
-Colombo, May 27 (Daily Mirror) -  The Colombo Municipal Council (CMC) will receive backing from the State Timber Corporation and Sri Lanka Army to immediately remove over 100 remaining old and large decaying city trees posing a great danger to the people and property, as per an order by the President, the Daily Mirror learns.
-
-During the last seven days, starting from the Vesak week from May 20th over 59 incidents of falling of city trees or damaged branches owing to the prevailing inclement weather has been reported to the CMC within the Greater Colombo area.
-
-The Daily Mirror reported last week that the CMC has recognized about 1,000 city trees needing immediate attention and out of which 500 trees have problematic conditions. The authorities have identified 200 such trees that are old and in a very vulnerable state, requiring them to be felled as soon as possible to avert any hazard to the public or property.
-
-...
-
-[Data](articles/3d57fbae.json)
-
-[Extended Data](ext_articles/3d57fbae.ext.json)
-
----
-
-### Enjoining order against Wijayaka is extended
-
-*2024-05-27 14:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197066) · `si`
-
-An injunction against Wijayaka, extending the acting chairmanship of the SLFP until June 27, was upheld by the Colombo District Court. The case, involving ministers Lasantha Alagiyawanna, Mahinda Amaraweera, and Duminda Dissanayake, will proceed under Judge Sandun Withana and later be heard by Additional District Judge No. 07. Respondents were asked to file protests, with the next hearing set for June 27.
-
-🟩
-
-The Colombo District Court ordered the injunction chairman of the SLFP as the acting chairman of the SLFP until June 27.
-
-The case was called before Colombo District Judge Sandun Withana today (27).
-
-District Judge Withanage ordered that the case would be referred to the judge of the Colombo District Court No. 07 of the Colombo District Court.
-
-The case was then called before the Additional District Judge No. 07 of the Colombo District Court.
-
-The respondents also called on the court to file protests in the case.
-
-The judge was ordered to be summoned by the case again on June 27.
-
-The case was filed by the Ministers Lasantha Alagiyawanna, Mahinda Amaraweera and Duminda Dissanayake.
-
-Wijayadasa Rajapaksa serves as Minister of Justice and Prints and Constitutional Reforms.
-
-◼️
-
-[Data](articles/b64cd406.json)
-
-[Extended Data](ext_articles/b64cd406.ext.json)
-
----
-
-### IORA Biz Conclave in Sri Lanka to focus on Blue Economy, SMEs
-
-*2024-05-27 13:54:00* · [`economynextcom`](https://economynext.com/iora-biz-conclave-in-sri-lanka-to-focus-on-blue-economy-smes-164933/) · `en`
-
-ECONOMYNEXT – A business conclave of the Indian Ocean Rim Association organized by the Ceylon Chamber of Commerce and the Ministry of Foreign Affairs starting on May 28 will focus on advancing trade and investment, SME development, and the Blue Economy.
-
-Minister of Foreign Affairs Ali Sabry, and Secretary General of the Global Alliance for a Sustainable Planet USA Satya Tripathi will deliver the Keynote Address.
-
-“Increasing climate disasters and severe food insecurity are putting lives at risk. Sustainable finance is crucial for developing countries, especially island nations, to tackle these challenges head-on. Innovative financial approaches and private sector leadership are essential for a sustainable future anchored in climate justice and inclusive growth for all,” Tripathi said.
-
-The event will feature experts in trade, development and sustainability.
-
-...
-
-[Data](articles/34377adb.json)
-
-[Extended Data](ext_articles/34377adb.ext.json)
-
----
-
-### Identify 123 leprosy in Vavuniya district
-
-*2024-05-27 13:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/184591) · `ta`
-
-At a seminar on leprosy, infectious disease experts revealed 123 cases in Vavuniya district, including 69 in Chettikulam. They discussed symptoms, treatment, and the importance of awareness among public organizations and journalists.
-
-🟩
-
-Infectious pathologists, Sujani said that 123 leprosy in the Vavuniya district and 69 patients in Chettikulam area have been identified.
-
-He was speaking at a seminar on leprosy at the Director of the Vavuniya Regional Health Services Services Director on Monday (27).
-
-In the meantime, he also reported that leprosy infection and its symptoms and medical assistance.
-
-It is also worth noting that many of the public organizations and journalists were present at the event.
-
-◼️
-
-[Data](articles/b7319524.json)
-
-[Extended Data](ext_articles/b7319524.ext.json)
-
----
-
-### මාතර රෝහලේ දී බිලිඳා ට වෙච්ච දේ ?
-
-*2024-05-27 13:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197065) · `si`
-
-In Matara Hospital, there's confusion over the death of a newborn. The parents were informed their baby had died upon admission but later questioned the hospital's handling of the remains. This led to conflicting statements from hospital staff, causing significant distress among the family. A DNA test is now suggested to clarify the situation, despite initial approval from health authorities, facing opposition from the hospital director.
-
-🟩
-
-The bodies of the bodies that the body has been shown not to death at the new District Secretaries of Matara.
-
-ඒ අනුව, බිලිඳාගේ සිරුර පිළිබඳ ඇතිවූ සැකය මත DNA පරීක්ෂණයක් සිදුකළ යුතු බවට මව්පියන් රෝහල් බලධාරීන්ට දන්වා ඇත.
-
-පසුව ඊට සෞඛ්‍ය සේවා අධ්‍යක්ෂ ජනරාල්වරයාගේ අනුමැතිය ලැබුණ ද රෝහලේ අධ්‍යක්ෂවරයා ඊට විරෝධය පළ කර තිබේ.
-
-The 24-year-old resident of Weligama, Matara was admitted to the New District General Hospital on the 22nd last district.
-
-Although Madushani was hospitalized, the hospital officials had told her that she had deceased and the baby had died.
-
-When the child was questioned by the hospital staff, the relatives questioned the babing of the baby or the burial not to show.
-
-මේ සම්බන්ධයෙන් රෝහලේ කාර්යමණ්ඩලය පරස්පර විරෝධී ප්‍රකාශ සිදුකිරීම සම්බන්ධයෙන් ඥාතීන්ට ඇත්තේ බලවත් සැකයකි.
-
-A babe of a babe was shown in the morgue yesterday (27th) after yesterday, they say that it is not their child.
-
-"මම තාම මගේ දරුවගේ මුහුණවත් දැක්කේ නැහැ. මේ අය අපිව එහෙට මෙහෙට යවනවා. Please,. Do it justice to us "
-
-◼️
-
-[Data](articles/d91a3577.json)
-
-[Extended Data](ext_articles/d91a3577.ext.json)
-
----
-
-### Lalkantha trying to prevent Anura’s success: Marikar
-
-*2024-05-27 13:33:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Lalkantha-trying-to-prevent-Anuras-success-Marikar/108-283444) · `en`
-
-Colombo, May27 (Daily Mirror) - National People’s Power (NPP) member K.D. Lalkantha trying to prevent his party from coming into power, SJB MP S.M. Marikar said today.
-
-"Lalkantha is trying to prevent his leader  leader Anura Kumara Dissanayake as he is aware that Dissanayake is unable to run a government effectively," Marikar  told a media conference.
-
-“Lalkantha is well aware that his leader will make a mess of everything if  he comes to power. This is why he is making remarks which are disadvantageous to the NPP and trying to prevent Dissanayake from coming into power,” Marikar said.
-
-He said Dissanayake has proved his inability to write a condolence message on the sudden demise of Iranian President Ebarhim Raisi.
-
-...
-
-[Data](articles/6b0c1c57.json)
-
-[Extended Data](ext_articles/6b0c1c57.ext.json)
-
----
-
-### Water levels of several rivers on the rise
-
-*2024-05-27 13:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/99463/water-levels-of-several-rivers-on-the-rise) · `en`
-
-The Department of Irrigation says that the water levels of several rivers are continuing to rise following heavy rainfall.
-
-The department mentioned that the water levels of the Attanagalu Oya, Kelani, Kalu, Gin and Nilwala rivers are currently on the rise.
-
-The Director of Irrigation (Hydrology & Disaster Management) S. P. C. Sugeeshwara stated that the water levels of the aforesaid rivers are at ‘caution level’ and therefore, residents of low-lying areas near these rivers are advised to remain vigilant.
-
-Meanwhile, four sluice gates of the Deduru Oya reservoir in Kurunegala District have been opened this morning (27) releasing water at a rate of around 7,000 cubic feet per second.
-
-The sluice gates of Kukule Ganga have also been opened and water is being released at a rate of 80 cubic feet per second, which may cause the water level of the Kuda Ganga to rise.
-
-Therefore, residents of the Bulathsinhala Divisional Secretariat are advised to remain cautious about potential flooding.
-
-◼️
-
-[Data](articles/260fc4e9.json)
-
-[Extended Data](ext_articles/260fc4e9.ext.json)
-
----
-
-### Shooting near Patregama Model Primary College, Weligama
-
-*2024-05-27 13:20:51* · [`adalk`](https://www.ada.lk/breaking_news/වැලිගම-පාතේගම-ආදර්ශ-ප්‍රාථමික-විදුහල-අසල--වෙඩි-තැබීමක්/11-409847) · `si`
-
-In Weligama, near Patregama Model Primary College, a shooting incident occurred involving a motorbike resident from the Midigama police division, armed with a pistol. The victim, a 30-year-old man from the same area, was targeted but not injured. The shooter, linked to the Chinthaka group, is under arrest. The Midigama Police, along with other officers and the STF, are investigating the case.
-
-🟩
-
-Police say that the police said that the police said that the police said.
-
-A motorbike resident of the Midigama police division used a motorbike with a pistol variety. On the location of the shooting, there was also an empty ammunition sheath.
-
-A 30-year-old man residing in the patronage of Midigama was a 30-year-old resident of the road, the victim had targeted the man. However, the shooting has not been harmed.
-
-The target for the laying person is a person in the party of Chinthaka, or a person who is arrested against hearing on a shooting against him.
-
-Midigama Police partner in collaboration with several police candidates and the STF in collaboration with the Weligama Police.
-
-◼️
-
-[Data](articles/62843838.json)
-
-[Extended Data](ext_articles/62843838.ext.json)
-
----
-
-### වව්නියාව රෝහල ප්‍රධාන රෝහලක් ලෙස සංවර්ධනයට, වව්නියාව විශ්වවිද්‍යාලයට නව වෛද්‍ය පීඨයක්
-
-*2024-05-27 13:20:25* · [`adalk`](https://www.ada.lk/breaking_news/වව්නියාව-රෝහල-ප්‍රධාන-රෝහලක්-ලෙස-සංවර්ධනයට--වව්නියාව-විශ්වවිද්‍යාලයට-නව-වෛද්‍ය-පීඨයක්/11-409846) · `si`
-
-President Ranil Wickremesinghe announced the government's initiative to grant land ownership to the people of Vavuniya without revolution, emphasizing the development of Vavuniya Hospital and the establishment of a new medical faculty at Vavuniya University. He highlighted the importance of the heritage program, providing land deeds to resettled individuals, and the recruitment of new staff for the Land Commissioner's Office. The President also discussed the economic recovery post-Covid and the economic crisis, mentioning the implementation of relief programs and the goal to transform the economy into an export-oriented one.
-
-🟩
-
-President Ranil Wickremesinghe said the government had taken steps to grant land ownership of the people without revolution without revolution.
-
-The President was addressing the Vavuniya District Program of the Vavuniya District Program to provide "heritage" land deeds held at Pudukudiyirippu Central College.
-
-වව්නියාව රෝහල ප්‍රධාන රෝහලක් ලෙස සංවර්ධනය කරන බවත්, වව්නියාව විශ්වවිද්‍යාලයට නව වෛද්‍ය පීඨයක් ලබා දීමට කටයුතු කරන බවත් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මෙහිදී පැවසීය.
-
-In addition to implementing the heritage program in the Vavuniya district, the resettled people will be provided with the deeds to be reed.
-
-Five Divisional Secretariats covering 5 Divisional Secretaries in the Mullaitivu District have been provided with 1,376 freehold deeds for the Mullaitivu district under the "Heritage" program.
-
-Addressing the House, President Ranil Wickremesinghe further added:
-
-First, I first express my happiness for the opportunity to visit the viley district as the president.
-
-...
-
-[Data](articles/3484d35a.json)
-
-[Extended Data](ext_articles/3484d35a.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-27 07:45:33**
+As of **2024-05-27 07:59:03**
 
 ## Newspaper Stats
 
-*Scraped **26,458** Articles*
+*Scraped **26,460** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,41 @@ dailyftlk | 1,550
 adalk | 2,247
 adaderanalk | 3,030
 tamilmirrorlk | 3,100
-virakesarilk | 4,039
+virakesarilk | 4,040
 dailymirrorlk | 4,176
-adaderanasinhalalk | 4,237
+adaderanasinhalalk | 4,238
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,458 (100.0%) of 26,458 articles have been extended.
+26,458 (100.0%) of 26,460 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-27 (Monday)
+
+### මෙරට ප්‍රංශ තානාපතිගේ අභාවය පිළිබඳ අවසන් තීරණය අද
+
+*2024-05-27 07:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197049) · `si`
+
+මෙරට ප්‍රංශ තානාපතිවරයාගේ අභාවය පිළිබඳව අවසන් තීරණයක් මේ දක්වාත් ගෙන නොමැති බව ප්‍රංශ තානාපති කාර්යාලය පවසයි.
+
+ඒ අනුව ඔහුගේ අවසන් කටයුතු මෙරටදී සිදුකරන්නේ ද එසේත් නොමැති නම් දේහය ප්‍රංශයට ගෙන යන්නේ ද යන්න පිළිබඳව අද (27) දිනයේ දී අවසන් තීරණයක් ගන්නා බව තානාපති කාර්යාල ආරංචි මාර්ග සඳහන් කළේය.
+
+ශ්‍රී ලංකාවේ ප්‍රංශ තානාපති Jean Francois Pactet මහතා රාජගිරියේ පිහිටි සිය නිල නිවසේ මියගොස් සිටියදී ඊයේ පස්වරුවේ වැලිකඩ පොලීසියේ නිලධාරීන් පිරිසක් විසින් සොයාගනු ලැබීය.
+
+හදිසි අසනීප තත්ත්වයක් හේතුවෙන් ඔහු මියගොස් ඇති බව පොලීසිය සඳහන් කළේය.
+
+1970 වසරේ උපන් Jean Francois Pactet මහතා 2022 ඔක්තෝම්බර් මාසයේ සිට ශ්‍රී ලංකාවේ සහ මාලදිවයිනේ ප්‍රංශ තානාපතිවරයා ලෙස කටයුතු කර තිබුණි.
+
+වෘත්තීය රාජ්‍ය තාන්ත්‍රිකයෙකු වන ඔහු මීට පෙර ප්‍රංශ විදේශ කටයුතු අමාත්‍යාංශයේ සංස්කෘතික හා අධ්‍යාපන නියෝජ්‍ය අධ්‍යක්ෂ වැනි තනතුරු හොබවා ඇති බව සඳහන් ය.
+
+◼️
+
+[Data](articles/73fd0ad1.json)
+
+---
 
 ### Price of ginger reaches Rs. 5,000 per kilo today
 
@@ -145,6 +167,22 @@ From time to time in the rest of the island.. It is also reported that there are
 [Data](articles/67877848.json)
 
 [Extended Data](ext_articles/67877848.ext.json)
+
+---
+
+### ரபாவில் இடம்பெயர்ந்த மக்கள் தங்கியிருந்த கூடாரங்கள் மீது இஸ்ரேல் தாக்குதல் - 35க்கும் அதிகமானவர்கள் பலி
+
+*2024-05-27 06:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/184566) · `ta`
+
+ரபாவில் இடம்பெயர்ந்த மக்கள தங்கியிருந்த கூடாரங்கள் மீது இஸ்ரேல் மேற்கொண்ட தாக்குதலில் 35க்கும் அதிகமானவர்கள் கொல்லப்பட்டுள்ளனர்.
+
+இஸ்ரேல் காசா நகரம் உட்பட வேறு பகுதிகளில் கடந்த 24 மணிநேரத்தில் பல தாக்குதல்களை மேற்கொண்டுள்ளதாகவும் இதில் பலர் கொல்லப்பட்டிருக்கலாம் எனவும் காசாவின் மருத்துவ வட்டாரங்கள் தெரிவிக்கின்றன.
+
+இஸ்ரேலிய இராணுவம் தாக்குதலை மேற்கொண்டதை உறுதி செய்துள்ளதுடன் ஹமாஸ் உறுப்பினர்களை துல்லியயமாக தாக்கும் ஆயுதங்களை பயன்படுத்தி இலக்குவைத்ததாக தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/d6a0d906.json)
 
 ---
 
@@ -2093,45 +2131,5 @@ Hamas militants have said that they had launched the attacks from Ruffa area.
 [Data](articles/b5d39e3d.json)
 
 [Extended Data](ext_articles/b5d39e3d.ext.json)
-
----
-
-### Gazette on providing property information of citizens is not imposition of new laws
-
-*2024-05-26 17:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Gazette-on-providing-property-information-of-citizens-is-not-imposition-of-new-laws/108-283367) · `en`
-
-Colombo, May 26 (Daily Mirror) - Although the President issued a gazette requiring citizens of Sri Lanka to provide details of their movable and immovable properties to the Inland Revenue Department (IRD) starting from July 1, this is not an imposition of new laws. It is simply an exercise of the existing right to collect such information, Finance State Minister Ranjith Siyambalapitiya said.
-
-Addressing the media he said that these rules will never be implemented to affect the past.
-
-He said this circular is a re-implementation of a law that was inactive, and accordingly, the announcement of the implementation of the gazette notification issued on March 21 was made by the IRD Commissioner on May 21.
-
-Accordingly, with effect from July 1, the institutions such as the Land Registry Department, Company Registry Department, Stock Market, Bank and Non-Bank Financial Institutions and Motor Transport Department must report the information about their day-to-day transactions to the IRD.
-
-...
-
-[Data](articles/c45b13a6.json)
-
-[Extended Data](ext_articles/c45b13a6.ext.json)
-
----
-
-### Gazette issued on providing details of persons, institutions movable, immovable properties to IRD
-
-*2024-05-26 17:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Gazette-issued-on-providing-details-of-persons-institutions-movable-immovable-properties-to-IRD/108-283366) · `en`
-
-Colombo, May 26 (Daily Mirror) - The Government has issued the Gazette Notice (2376/25) related to providing details of movable and immovable property of individuals and institutions to the Inland Revenue Department (IRD).
-
-Accordingly, it is notified that the above information should be provided to the Inland Revenue Department from the first of July.
-
-The gazette notification was issued on May 21 by the President in his capacity as the Minister of Finance, Economic Stabilization and National Policies.
-
-According to the gazette notification, information on all movable and immovable properties of persons, including government institutions, must be provided as prescribed.
-
-...
-
-[Data](articles/76892eb1.json)
-
-[Extended Data](ext_articles/76892eb1.ext.json)
 
 ---

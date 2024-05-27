@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-27 12:52:15**
+As of **2024-05-27 13:03:54**
 
 ## Newspaper Stats
 
-*Scraped **26,530** Articles*
+*Scraped **26,532** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,41 +12,65 @@ colombotelegraphcom | 237
 dbsjeyarajcom | 265
 bbccomsinhala | 265
 newsfirstlk | 363
-islandlk | 1,441
+islandlk | 1,442
 economynextcom | 1,514
 dailyftlk | 1,550
 adalk | 2,253
 adaderanalk | 3,040
 tamilmirrorlk | 3,117
 virakesarilk | 4,046
-dailymirrorlk | 4,188
+dailymirrorlk | 4,189
 adaderanasinhalalk | 4,251
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,525 (100.0%) of 26,530 articles have been extended.
+26,530 (100.0%) of 26,532 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-27 (Monday)
 
+### SLAF pilots conduct crucial evacuation mission of UN members in Africa
+
+*2024-05-27 12:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SLAF-pilots-conduct-crucial-evacuation-mission-of-UN-members-in-Africa/108-283439) · `en`
+
+Africa, May 27 (Daily Mirror) - Sri Lanka Air Force pilots, deployed in the Central African Republic as part of the United Nations Multidimensional Integrated Stabilization Mission (MINUSCA), executed a critical evacuation mission involving multiple UN personnel.
+
+According to the Sri Lanka Air Force (SLAF), Sri Aviation Bria in the Central African Republic was tasked with undertaking an early dawn Casualty Evacuation Mission (CASEVAC) on May 20.
+
+The challenging CASEVAC operation was entrusted to the Mi-17 UNO 324P helicopter, operated by SLAF pilots.
+
+Led by SLAF pilots, the mission aimed to evacuate three UN personnel who were involved in a vehicle accident in a remote area of the Rafai region.
+
+◼️
+
+[Data](articles/55bac09f.json)
+
+---
+
 ### பொலிஸாரின் விரலை கடித்து தப்பி ஓடிய ஹந்தயா
 
 *2024-05-27 12:30:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பொலிஸாரின்-விரலை-கடித்து-தப்பி-ஓடிய-ஹந்தயா/76-337965) · `ta`
 
-ஈஸி கேஸ் முறையில் ஹெரோயின் போதைப்பொருள் விற்பனையில் ஈடுபட்டு வரும் ஹந்தயா என அழைக்கப்படும் சந்தேகநபர், அவரை சோதனையிட சென்ற பொலிஸ் பரிசோதகரின் விரலை கடித்து அருகில் உள்ள கால்வாயில் குதித்து தப்பிச்சென்றதாக ருவன்வெல்ல பொலிஸார் தெரிவித்துள்ளனர் .
+Handaya, a heroin dealer, was bitten by a police inspector during an escape attempt after being caught near a hostel in Ruwanwella. He fled into a canal. The injured inspector is receiving treatment at Karawanella Hospital, while efforts continue to arrest the suspect.
 
-பொலிஸாருக்கு கிடைக்கப்பெற்ற ரகசிய தகவலுக்கமைய ருவன்வெல்ல அட்டுலுகம பிரதேசத்தில் உள்ள விடுதி ஒன்றின் அருகில் வைத்து குறித்த நபரை பிடித்து சோதனை செய்ய முற்பட்ட போதே,  இவ்வாறு பொலிஸ் பிடியில் இருந்து தப்பிச் சென்றுள்ளார் .
+🟩
 
-குறித்த சந்தேக நபர் , பதிவு செய்யப்பட்ட குற்றவாளிகள் பட்டியலில் உள்ள ஒருவர் என பொலிஸார் தெரிவித்துள்ளனர் .
+Ruwanwella police said that the suspect, known as Handaya, who is involved in the sale of heroin in the Easy Case, has been bitten by a police inspector who went to the inspector and jumped into a nearby canal.
+
+According to the confidential information available to the police, Ruwanwella has escaped from the clutches of the police when he tried to searched the man near a hostel in Atulugama area.
+
+The suspect is one of the registered criminals, police said.
 
 மேலும் காயமடைந்த பொலிஸ் பரிசோதகர் கரவனெல்ல ஆதார வைத்தியசாலையில் சிகிச்சைக்காக அனுமதித்துள்ளதாகவும் சந்தேக நபரை கைது செய்வதற்கான நடவடிக்கை மேற்கொண்டு வருவதாகவும் ருவன்வெல்ல பொலிஸார் தெரிவித்துள்ளனர் .
 
 ◼️
 
 [Data](articles/9a2c0b3a.json)
+
+[Extended Data](ext_articles/9a2c0b3a.ext.json)
 
 ---
 
@@ -65,6 +89,8 @@ He said vehicles parked for more than 30 minutes at the arrivals lounge, causing
 ...
 
 [Data](articles/88ae8ab8.json)
+
+[Extended Data](ext_articles/88ae8ab8.ext.json)
 
 ---
 
@@ -86,6 +112,8 @@ Heavy showers above 100 mm are likely at some places in Western and Sabaragamuwa
 
 [Data](articles/29406301.json)
 
+[Extended Data](ext_articles/29406301.ext.json)
+
 ---
 
 ### New political movement ‘Sarvajana Balaya’ launched in Colombo
@@ -101,6 +129,8 @@ The Mawbima Janatha Party (MJP), the Democratic Left Front, the Communist Party 
 ◼️
 
 [Data](articles/eeed1767.json)
+
+[Extended Data](ext_articles/eeed1767.ext.json)
 
 ---
 
@@ -395,6 +425,8 @@ Police said the gunmen fled the scene and further investigations are underway.
 ◼️
 
 [Data](articles/f069bd13.json)
+
+[Extended Data](ext_articles/f069bd13.ext.json)
 
 ---
 
@@ -1568,6 +1600,20 @@ Toastmaster Bhathiya Hettiarachchi, appointed ‘Club Growth Director’ for Dis
 
 ---
 
+### Insights on educational opportunities available in the UK for Sri Lankan students
+
+*2024-05-27 04:10:00* · [`islandlk`](http://island.lk/insights-on-educational-opportunities-available-in-the-uk-for-sri-lankan-students/) · `en`
+
+The Students Visa, a premier student migration consultancy hosted the “Educate to Elevate” panel discussion at Hatch Works, Colombo. This event aimed to shed light on the boundless educational opportunities available in the United Kingdom, a country renowned for its prestigious higher education system.
+
+Sri Lanka is a significant market for UK higher education, particularly in the realm of transnational education. In recent years, Sri Lanka has recorded the third-highest number of students pursuing UK qualifications internationally. Each year, approximately 160,000 Sri Lankan students are ready for tertiary education. However, with state universities able to enrol only 42,000 students annually, competition for these limited spots is fierce. In 2022, only 23% of the 166,938 qualifying students gained admission to state universities. As a result, around 29,000 students seek higher education abroad each year, with an additional 60,000 engaging in various academic programs.
+
+...
+
+[Data](articles/b25fc324.json)
+
+---
+
 ### Fems HER Foundation collaborates with Barista to provide easy access to menstrual hygiene
 
 *2024-05-27 04:10:00* · [`islandlk`](http://island.lk/fems-her-foundation-collaborates-with-barista-to-provide-easy-access-to-menstrual-hygiene/) · `en`
@@ -2167,49 +2213,5 @@ On 17 May the United Nations human rights office issued a report calling for int
 [Data](articles/9d5a6da5.json)
 
 [Extended Data](ext_articles/9d5a6da5.ext.json)
-
----
-
-### 15 years after end of war, victims and survivors still await justice and accountability: ICJ
-
-*2024-05-27 00:43:55* · [`dailyftlk`](https://www.ft.lk/news/15-years-after-end-of-war-victims-and-survivors-still-await-justice-and-accountability-ICJ/56-762178) · `en`
-
-As Sri Lanka marked 15 years since the end of a decades-long armed conflict on 18 May, the International Commission of Jurists (ICJ) deplored the near total impunity that has prevailed, and lack of victim-centred justice and accountability for war time atrocities.
-
-The ICJ calls on the responsible authorities to reverse course and take measures that will provide real access to justice for the conflict’s numerous victims and survivors and bring those responsible for crimes under international law to account.
-
-The bleak picture is reinforced by the UN Office of the High Commissioner for Human Rights (OHCHR) in a report released on 17 May, titled Accountability for Enforced Disappearances in Sri Lanka. The report notes the near total impunity enjoyed by perpetrators of widespread enforced disappearances over four decades and a systematic failure to account for the fate and whereabouts of victims.
-
-...
-
-[Data](articles/dbdb0f88.json)
-
-[Extended Data](ext_articles/dbdb0f88.ext.json)
-
----
-
-### Why Sri Lanka needs to ditch post-dated cheques
-
-*2024-05-27 00:26:09* · [`dailyftlk`](https://www.ft.lk/columns/Why-Sri-Lanka-needs-to-ditch-post-dated-cheques/4-762177) · `en`
-
-A post-dated cheque represents a future promise to pay, not a completed transaction
-
-A post-dated cheque is a regular cheque with a future date written on it. This means the cheque writer instructs the bank not to pay the cheque until that future date arrives.
-
-Purpose: People use them to ensure the recipient waits to deposit the cheque. There are a couple of reasons for this:
-
-The writer doesn’t have enough funds currently but expects to by the future date.
-
-The cheque is for a prepayment, like paying for a service before it’s completed.
-
-Validity: The rules around post-dated cheques can vary depending on the country. In some places, like the US and UK, banks can process them even before the written date. In other places, like India and Australia, the bank has to wait until the date on the cheque.
-
-Legality: Post-dated cheques are generally legal and considered negotiable instruments.
-
-...
-
-[Data](articles/0224d210.json)
-
-[Extended Data](ext_articles/0224d210.ext.json)
 
 ---

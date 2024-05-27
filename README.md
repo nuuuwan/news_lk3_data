@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-27 23:03:47**
+As of **2024-05-27 23:18:42**
 
 ## Newspaper Stats
 
-*Scraped **26,642** Articles*
+*Scraped **26,644** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,56 @@ economynextcom | 1,525
 dailyftlk | 1,550
 adalk | 2,270
 adaderanalk | 3,052
-tamilmirrorlk | 3,124
+tamilmirrorlk | 3,125
 virakesarilk | 4,070
 dailymirrorlk | 4,206
-adaderanasinhalalk | 4,272
+adaderanasinhalalk | 4,273
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,642 (100.0%) of 26,642 articles have been extended.
+26,642 (100.0%) of 26,644 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-27 (Monday)
+
+### மக்களுக்கு அவசர அறிவிப்பு
+
+*2024-05-27 22:19:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மக்களுக்கு-அவசர-அறிவிப்பு/175-337996) · `ta`
+
+களு கங்கையின் கிளை நதியான குடா கங்கை மில்லகந்த பிரதேசத்தில் சிறு வெள்ளப்பெருக்கு நிலையை எட்டியுள்ளதாக நீர்ப்பாசன திணைக்களம் தெரிவித்துள்ளது.
+
+இன்று மாலை 6 மணியளவில் குடா கங்கையின் நீர்மட்டம் 6.53 மீற்றராக உயர்ந்துள்ளதாக திணைக்களம் சுட்டிக்காட்டியுள்ளது.
+
+இது 8 மீற்றர் மட்டத்தை தாண்டினால் அது பாரிய வெள்ளப்பெருக்கு நிலை என நீர்ப்பாசனத் திணைக்களம் குறிப்பிடுகின்றது. R
+
+◼️
+
+[Data](articles/5224af50.json)
+
+---
+
+### මත්ද්‍රව්‍ය සමග ලොක්කෝ දෙන්නෙක් කොටුවෙයි
+
+*2024-05-27 22:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197085) · `si`
+
+මත්ද්‍රව්‍ය ජාවාරමට සම්බන්ධව එම මත්ද්‍රව්‍ය අලෙවි කිරීමේ සිද්ධියකට අදාළව පුද්ගලයින් අට දෙදෙනෙකු අලවතුගොඩ පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+මෙලෙස අත්අඩංගුවට ගත් පිරිස අතර සුරාබදු දෙපාර්තමේන්තුවේ රැකියාවේ නිරත අයෙකු සහ පෞද්ගලික බැංකු කළමනාකරුවෙකු බවට පැවසෙන අයෙකු ද සිටින බව පොලීසිය පවසයි.
+
+අත්අඩංගුවට ගත් සැකකරුවන් සන්තකයේ තිබී මත්කුඩු, අයිස්, ගංජා, ඩිජිටල් තරාදියක් සහ මුදලින් රුපියල් දස දහසක් ඇතුළු භාණ්ඩ තොගයක් සොයාගෙන ඇත.
+
+අත්අඩංගුවට ගත් පිරිස අතර සිටින සුරාබදු දෙපාර්තමේන්තුවේ රැකියාවේ නිරත පුද්ගලයා සහ පෞද්ගලික බැංකු කළමනාකරු 29 වනදා දක්වා රඳවාගෙන ප්‍රශ්නකිරීම සඳහා අධිකරණයෙන් අවසර ලබාදී තිබේ.
+
+හෙරොයින් මත්කුඩු අලෙවි කරමින් සිටි පුද්ගලයකු අලවතුගොඩ පොලිසිය මගින් අත්අඩංගුවට ගෙන සිදුකළ විමර්ශනයකදී මෙම පිරිස අත්අඩංගුවට ගෙන තිබේ.
+
+◼️
+
+[Data](articles/3db109d6.json)
+
+---
 
 ### Two disappeared
 
@@ -2309,53 +2345,5 @@ With the inclement weather, the daily activities of the tea factories in the cen
 [Data](articles/7bfdd8b0.json)
 
 [Extended Data](ext_articles/7bfdd8b0.ext.json)
-
----
-
-### Dilith, Wimal, Kammanpila New Alliance
-
-*2024-05-27 12:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/184590) · `ta`
-
-Dilith Jayaweera, leading the Mawbima Janata Pakshaya Party, has formed a new political alliance named "Sarvajana Balaya." This coalition includes the National Freedom Front, Democratic Left Front, Pivithuru Hela Urumaya, Sri Lanka Communist Party, and the National Organization, aiming to unite various political groups under one banner.
-
-🟩
-
-Dilith Jayaweera, the leader and businessman of the Mawbima Janata Pakshaya Party, has announced a new alliance with several political groups.
-
-The new coalition called "Sarvajana Balaya" has been launched on Monday morning.
-
-Wimal Weerawansa on behalf of the National Freedom Front, DVD Tilakasiri on behalf of the Democratic Left Front, Udaya Kammanpila on behalf of Pivithuru Hela Urumaya, G. Weerasinghe on behalf of the Sri Lanka Communist Party and Kevind Kumaratunga on behalf of the National Organization.
-
-◼️
-
-[Data](articles/5960c621.json)
-
-[Extended Data](ext_articles/5960c621.ext.json)
-
----
-
-### அவுஸ்திரேலியாவில் முன்னொரு போதும் இல்லாத அளவிற்கு யூத எதிர்ப்பு - அவுஸ்திரேலிய பிரதி பிரதமர்
-
-*2024-05-27 12:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/184589) · `ta`
-
-Australian Deputy Prime Minister Richard Marles expressed concern over heightened anti-Jewish sentiment in Australia, following an attack on a Jewish school in Melbourne. He emphasized the importance of unity and tolerance among all communities, stating that Australia must stand against any form of prejudice.
-
-🟩
-
-Australia's Australian Refugee Richard Marles said that the feeling of anti -Jewishness in Australia is now worse.
-
-This comment was made only after a Jewish school in Melbourne was attacked.
-
-In this case, Richard Marlus, who has visited the school, said that there is no place in our community for the reading on the wall of the school.
-
-At this moment, Australia should voice the voice of such feelings.
-
-He said that there is no place in Australia and there is no room for other communities against other communities.
-
-◼️
-
-[Data](articles/cdbfcaf0.json)
-
-[Extended Data](ext_articles/cdbfcaf0.ext.json)
 
 ---

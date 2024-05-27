@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-27 11:35:04**
+As of **2024-05-27 11:53:54**
 
 ## Newspaper Stats
 
-*Scraped **26,509** Articles*
+*Scraped **26,518** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,116 @@ dbsjeyarajcom | 265
 bbccomsinhala | 265
 newsfirstlk | 363
 islandlk | 1,441
-economynextcom | 1,511
+economynextcom | 1,514
 dailyftlk | 1,550
 adalk | 2,251
 adaderanalk | 3,038
-tamilmirrorlk | 3,110
+tamilmirrorlk | 3,114
 virakesarilk | 4,046
 dailymirrorlk | 4,185
-adaderanasinhalalk | 4,247
+adaderanasinhalalk | 4,249
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,505 (100.0%) of 26,509 articles have been extended.
+26,509 (100.0%) of 26,518 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-27 (Monday)
+
+### விண்ணப்பங்கள் ஏற்றல் ஆரம்பம்
+
+*2024-05-27 11:35:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விண்ணப்பங்கள்-ஏற்றல்-ஆரம்பம்/175-337959) · `ta`
+
+2024ஆம் ஆண்டுக்கான தரம் ஐந்து புலமைப்பரிசில் பரீட்சைக்கான விண்ணப்பங்களை ஏற்றுக்கொள்வது திங்கட்கிழமை (27) ஆரம்பமாகவுள்ளதாக பரீட்சைகள் ஆணையாளர் நாயகம் எச்.ஜே.எம்.சி. அமித் ஜயசுந்தர தெரிவித்தார்.
+
+இதற்கமைய, ஜூன் 14ம் திகதி வரை ஆன்லைனில் விண்ணப்பங்கள் ஏற்றுக்கொள்ளப்படும், அரசு அங்கீகாரம் பெற்ற பாடசாலைகளில் 5-ம் வகுப்பு படிக்கும் மாணவர்கள் தேர்வெழுத தகுதி பெறுவார்கள்.
+
+விண்ணப்பங்களைப் பதிவிறக்கம் செய்ய, பரீட்சைகள் திணைக்களத்தின் உத்தியோகபூர்வ இணையத்தளமான https://onlineexams.gov.lk/eic இல் உள்நுழையுமாறு விண்ணப்பதாரர்கள் கோரப்படுகிறார்கள்.
+
+◼️
+
+[Data](articles/eb1b93ae.json)
+
+---
+
+### කාලගුණයෙන් රතු නිවේදනයක්
+
+*2024-05-27 11:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197060) · `si`
+
+තද සුළං සහ රථ මුහුදු පිළිබඳව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව විසින්අනතුරු ඇඟවීමේ රතු නිවේදනයක් නිකුත් කර තිබේ.
+
+දිවයින වටා මුහුදු ප්‍රදේශවල සුළඟේ වේගය විටින් විට පැ.කි.මී 60-70 දක්වා වැඩිවන බවත් එම මුහුදු ප්‍රදේශ විටින් විට ඉතා රළු වන බවත් එහි සඳහන් වෙයි.
+
+එබැවින් මුහුදු ප්‍රදේශවල නැවත දැනුම් දෙනතුරු යාත්‍රා නොකරන ලෙස නාවික සහ ධීවර ප්‍රජාවන්ට දැනුම් දී තිබේ.
+
+කල්පිටිය සිට කොළඹ, ගාල්ල සහ හම්බන්තොට හරහා පොතුවිල් දක්වා වෙරළට ඔබ්බෙන් වන මුහුදු ප්‍රදේශවල මුහුදු රළ උස මීටර් 2.5 - 3.0ක් පමණ ඉහළ යාමේ හැකියාවක් පවතී.
+
+මේ හේතුවෙන් කල්පිටිය සිට කොළඹ, ගාල්ල හරහා මාතර දක්වා ප්‍රදේශවල මුහුදු රළ ගොඩබිමට පැමිණීමේ හැකියාවක් ද පවතීන බව එම නිවේදනයේ සඳහන් වේ.
+
+කාලගුණවිද්‍යා දෙපාර්තමේන්තුව මගින් මේ සම්බන්ධයෙන් නිකුත් කරන ඉදිරි නිවේදන පිළිබඳ සිය අවධානය යොමු කරන ලෙස ධීවර හා නාවික ප්‍රජාවගෙන් ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/2b8a7e55.json)
+
+---
+
+### ஆரம்ப பாடசாலைக்கு அருகில் துப்பாக்கிச் சூடு
+
+*2024-05-27 11:28:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/தென்-மாகாணம்/ஆரம்ப-பாடசாலைக்கு-அருகில்-துப்பாக்கிச்-சூடு/93-337957) · `ta`
+
+மாத்தறை, வெலிகம, படவல, பத்தேகம மாதிரி ஆரம்ப பாடசாலைக்கு அருகில் திங்கட்கிழமை  (27) துப்பாக்கிச் சூடு சம்பவம் இடம்பெற்றுள்ளதாக பொலிஸார் தெரிவிக்கின்றனர்.
+
+தனது இரண்டு பிள்ளைகளுடன் மோட்டார் சைக்கிளில் படவல பத்தேகம மாதிரி கனிஷ்ட கல்லூரிக்கு வந்த போது இலக்கு வைத்து துப்பாக்கிச் சூடு நடத்தப்பட்டதாக பொலிஸார் தெரிவிக்கின்றனர்.
+
+துப்பாக்கிச் சூட்டுக்கு இலக்கானவர் நடுன் சிந்தக அல்லது ஹரக் கட்டாவைச் சேர்ந்த ஒருவரே, அவர் 20.01.2022 அன்று மிதிகம துர்க்கி கிராமத்தில் நபர் ஒருவரை சுட்டுக் கொன்ற குற்றத்திற்காக கைது செய்யப்பட்டு தற்போது பிணையில் விடுவிக்கப்பட்டுள்ளார் என பொலிஸார் தெரிவிக்கின்றனர்.
+
+பிஸ்டல் ரக துப்பாக்கியைப் பயன்படுத்தி துப்பாக்கிச் சூடு நடத்தப்பட்டிருக்கலாம் என்றும், துப்பாக்கிச் சூடு நடந்த சாலையில் வெற்றுத் தோட்டா உறை ஒன்றும் மீட்கப்பட்டுள்ளது என்றும் பொலிஸார் தெரிவித்தனர்.
+
+சம்பவம் தொடர்பில் மிதிகம பொலிஸார், வெலிகம பொலிஸாருடன் இணைந்து   பொலிஸ் விசேட அதிரடிப்படையினருடன் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/11e8c01d.json)
+
+---
+
+### அலி சப்ரி ரஹீம் எம்.பி வாக்கு வாதம்
+
+*2024-05-27 11:22:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வடமேல்-வடமத்தி/அலி-சப்ரி-ரஹீம்-எம்-பி-வாக்கு-வாதம்/94-337956) · `ta`
+
+புத்தளம் மன்னார் வீதியில் அமைந்திருக்கின்ற உப்பு உற்பத்தியாளர்களுக்கு சொந்தமான காணிகளை கபளீகரம் செய்ய துடிக்கும் தரகர்களுக்கு  எதிராக பாராளுமன்ற உறுப்பினர் அலி சப்ரி ரஹீம் களம் இறங்கியுள்ளார்.
+
+புத்தளம் மன்னார் வீதி காணிகள் சம்பந்தமாக பாராளுமன்ற உறுப்பினர் அலிசப்ரி ரஹீம் உப்பு உற்பத்தியாளர் நலன்புரி சங்கத்துடன் இணைந்து பாராளுமன்றத்தில் மற்றும் அமைச்சு மட்டத்தில் எடுக்கப்பட்ட தீவிர நடவடிக்கைகளின் விளைவாக பல சாதகமான விளைவுகள் ஏற்பட்டிருக்கின்றன.
+
+அவற்றை ஜீரணித்துக்கொள்ள முடியாத சில சமூகவிரோத சக்திகள் கடந்த பல தினங்களாக கிழக்கரை காணிகள் அமைந்திருக்கும் இடங்களில் குழப்ப நிலையை உருவாக்குவதற்கு  பல முயற்சிகளை மேற்கொண்டு வருகின்றனர்.
+
+காணி உரிமையாளர்களை மிரட்டுதல், ஊழியர்களை காணிகளிலிருந்து விரட்டியடித்தல் போன்ற பல்வேறு அராஜகங்கள் இடம்பெற்று வருவதாக தெரிவிக்கப்படுகிறது.
+
+...
+
+[Data](articles/badfa2d3.json)
+
+---
+
+### හරක් කටා ට එරෙහි නඩුව යළි කැඳවයි
+
+*2024-05-27 11:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197059) · `si`
+
+අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ අත්අඩංගුවෙන් පළායෑමට කුමන්ත්‍රණය කළේ යැයි චෝදනා ලබා සිටින නදුන් චින්තක වික්‍රමරත්න හෙවත් 'හරක් කටා' ඇතුළු විත්තිකරුවන් තුන්දෙනෙකුට එරෙහිව නීතිපතිවරයා ගොනුකර තිබෙන නඩුව ජුනි මස 6 වනදා යළි කැඳවන ලෙස කොළඹ මහාධිකරණය නියම කළේය.
+
+මෙම නඩුව අද (27) කොළඹ මහාධිකරණ විනිසුරු දමිත් තොටවත්ත මහතා ඉදිරියේ කැඳවනු ලැබීය.
+
+එම අවස්ථාවේදී විත්තිකාර හරක් කටා දැඩි ආරක්ෂක විධිවිධාන මැද අධිකරණයට ඉදිරිපත් කර තිබුණි.
+
+◼️
+
+[Data](articles/d1dcd089.json)
+
+---
 
 ### SLFP faction led by ex-President Maithripala relocates operations
 
@@ -48,11 +140,39 @@ Therefore, the faction led by former President Sirisena has deemed it more appro
 
 [Data](articles/8c638b40.json)
 
+[Extended Data](ext_articles/8c638b40.ext.json)
+
 ---
 
-### 5 மாவட்டங்களில் சீரான வானிலை நிலவுகின்றது.
+### There is uniform weather in 5 districts.
 
 *2024-05-27 11:11:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/5-மாவட்டங்களில்-சீரான-வானிலை-நிலவுகின்றது/175-337954) · `ta`
+
+Recent severe weather across 19 districts resulted in 8 deaths and injuries to 13 people, affecting 45,509 individuals from 12,207 families. Disasters included house damage, tree collapses, and lightning strikes, with the worst impact in the North, East, and Northwestern regions. The situation is expected to persist for several more days.
+
+🟩
+
+Over the country, eight people have died in the last few days of inclement weather disasters in 19 districts.The Disaster Management Center has reported that 13 people were injured.
+
+According to a media report issued on Sunday (26), 45,509 people from 12,207 families have been affected.
+
+There have been disasters in 19 districts nationwide including the North and East. There is a steady weather in the North, Mannar and Vavuniya districts, both in the East, Ampara and Batticaloa districts in the Uva Province, Moneragala district and the Kurunegala district in the northwestern district.
+
+In other districts, 12 houses have been completely damaged and 3,166 houses have been damaged due to disasters, including the collapse of trees, trees, lightning and valam.
+
+Seven people died in the tree broken. Dhoni dies in an accident. Balangoda, Galle-Idamuwa, Puttalam-Madampe, Arachchikattuwa and Nattandi, Nuwara Eliya-Valappanai and Haputtalai tree collapsed.
+
+...
+
+[Data](articles/1e96c86e.json)
+
+[Extended Data](ext_articles/1e96c86e.ext.json)
+
+---
+
+### 5 மாவட்டங்களில் சீரான வானிலை நிலவுகிறது
+
+*2024-05-27 11:11:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/5-மாவட்டங்களில்-சீரான-வானிலை-நிலவுகிறது/175-337954) · `ta`
 
 நாடளாவிய ரீதியில், 19 மாவட்டங்களில் கடந்த சில நாட்களாக நிலவும் சீரற்ற வானிலையால் ஏற்பட்ட அனர்த்தங்களில் சிக்குண்டு 8 பேர் மரணமடைந்துள்ளனர்.  13 பேர் காயமடைந்துள்ளனர் என அனர்த்த முகாமைத்துவ மத்திய நிலையம் அறிவித்துள்ளது.
 
@@ -64,7 +184,7 @@ Therefore, the faction led by former President Sirisena has deemed it more appro
 
 ...
 
-[Data](articles/1e96c86e.json)
+[Data](articles/cadfc95a.json)
 
 ---
 
@@ -80,21 +200,29 @@ The Jathika Nidahas Peramuna (JNP) led by MP Wimal Weerawansa, Pivithuru Hela Ur
 
 [Data](articles/30b9c3f5.json)
 
+[Extended Data](ext_articles/30b9c3f5.ext.json)
+
 ---
 
-### யாழில் உண்டியல் உடைத்து திருட்டில் ஈடுபட்ட சந்தேகநபர் கைது!
+### Suspect arrested for theft
 
 *2024-05-27 11:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/184574) · `ta`
 
-யாழ்ப்பாணம் ஆவரங்கால் சிவன் ஆலயத்தில் உண்டியல் உடைத்து திருட்டில் ஈடுபட்ட சந்தேக நபரொருவர் நேற்று  ஞாயிற்றுக்கிழமை (26) இரவு கைது செய்யப்பட்டுள்ளார்.
+A suspect was arrested on Sunday night for allegedly stealing from two temples in Jaffna. The Achuveli police apprehended the individual, who is now in custody at the Mallakam Magistrate's Court following further investigation.
 
-குறித்த ஆலயத்தில் திருடிவிட்டு மற்றொரு ஆலயத்தில் திருட முற்பட்ட போதே சந்தேகநபர் அச்சுவேலி பொலிஸாரினால் கைது செய்யப்பட்டுள்ளார்.
+🟩
 
-பொலிஸாரினால் மேற்கொள்ளப்பட்ட விசாரணைகளுக்கு பின்னர் சந்தேகநபரை மல்லாகம் நீதவான் நீதிமன்றத்தில் முற்படுத்த நடவடிக்கை எடுக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+A suspect was arrested on Sunday night (26) night for allegedly theft of a bundle at the Avarangal Shiva temple in Jaffna.
+
+The suspect has been arrested by the Achuveli police while trying to steal the temple and steal in another temple.
+
+The police said that the suspect has been taken to the Mallakam Magistrate's Court after investigations by the police.
 
 ◼️
 
 [Data](articles/b9bd0186.json)
+
+[Extended Data](ext_articles/b9bd0186.ext.json)
 
 ---
 
@@ -211,6 +339,24 @@ Several police teams and the STF continue to investigate into the incident.
 [Data](articles/19381896.json)
 
 [Extended Data](ext_articles/19381896.ext.json)
+
+---
+
+### Sri Lanka Hayleys subsidiary Unisyst Engineering Plc delists from CSE
+
+*2024-05-27 10:26:00* · [`economynextcom`](https://economynext.com/sri-lanka-hayleys-subsidiary-unisyst-engineering-plc-delists-from-cse-164879/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Hayleys Group company, Unisyst Engineering Plc, which announced it would be delisting from the Colombo Stock Exchange last month, has submitted an offer letter to shareholders to buy back shares at 6 rupees a share.
+
+“Exit Offer of Sri Lanka Rupees Six (LKR 6) per share, made by Advantis Projects & Engineering (Private) Limited (“Majority Shareholder”) to the rest of the Shareholders of Unisyst Engineering Plc (the “Company”) who may wish to sell their shares in the Company,” the Hayleys Group said in a stock exchange filing.
+
+The acceptance of the exit offer will commence at 9 am on May 28, 2024 and close at 1.30 pm on June 26, 2024, Hayleys said.
+
+Formerly Alufab Plc, Unisyst Engineering is an aluminium supplier in Sri Lanka.
+
+...
+
+[Data](articles/472ebf0d.json)
 
 ---
 
@@ -443,6 +589,26 @@ Accordingly, the district and electoral organizers throughout the country are to
 [Data](articles/8a2682d9.json)
 
 [Extended Data](ext_articles/8a2682d9.ext.json)
+
+---
+
+### Sri Lanka rupee opens broadly stable at 300.15/50 to US dollar
+
+*2024-05-27 09:35:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-broadly-stable-at-300-15-50-to-us-dollar-164875/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee depreciated slightly to open at 300.15/50 to the US dollar on Monday, from 300.10/30 the previous week before the long weekend, dealers said. Bond yields were down.
+
+A bond maturing on 15.12.2026 was quoted down at 9.85/95 percent from 9.85/10.00 percent.
+
+A bond maturing on 15.09.2027 was quoted down at 10.25/35 percent from 10.25/40 percent.
+
+A bond maturing on 01.07.2028 was quoted down at 10.65/80 percent from 10.70/80 percent.
+
+The Colombo Stock Exchange opened up. The All Share Price Index was up 0.04 percent at 12,353, the S&P SL20 was down 0.01 percent at 3,666. (Colombo/May27/2024)
+
+◼️
+
+[Data](articles/6d21ee75.json)
 
 ---
 
@@ -997,6 +1163,28 @@ On the night of the night of the 8th, two unidentified persons were shot dead by
 [Data](articles/7d06ce19.json)
 
 [Extended Data](ext_articles/7d06ce19.ext.json)
+
+---
+
+### Sri Lanka shares, bank balances, land, vehicle owners tracked by Inland Revenue from July 01
+
+*2024-05-27 06:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-shares-bank-balances-land-vehicle-owners-tracked-by-inland-revenue-from-july-01-164826/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s tax agency will collect current account transactions, share ownership, land registration, company directorship and car ownership details from July 01, to be used in a digital revenue management system, according to a notice.
+
+The information will not be used to collect tax retrospectively, State Minister for Finance Ranjith Siyambalapitiay said.
+
+The gazette requiring the information to submitted online to the Department of Inland Revenue was issued on March 2024 and its implementation notice was issued on May 21, Minister Siyambalapitiya said.
+
+According to the gazette, ownership and transfer of shares, current account balances and loans have to be provided quarterly by the stock exchange and banks and non-bank financial institutions.
+
+Car registrations, land ownership and transfers should be provided real time.
+
+Information on leases and consultancy and contracts will also have to be provided.
+
+...
+
+[Data](articles/64e3eb03.json)
 
 ---
 
@@ -1965,199 +2153,5 @@ SRH were reduced to 113 in 18.3 overs – the lowest score in an IPL final – b
 [Data](articles/d8d8c56b.json)
 
 [Extended Data](ext_articles/d8d8c56b.ext.json)
-
----
-
-### 2024 IPL Kolkata team
-
-*2024-05-26 22:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197044) · `si`
-
-In 2024, the IPL Kolkata Knight Riders (KKR) emerged victorious, clinching the tournament title.
-
-🟩
-
-The 2024 IPL knight raiders were able to win the IPL tournament.
-
-◼️
-
-[Data](articles/b7088b20.json)
-
-[Extended Data](ext_articles/b7088b20.ext.json)
-
----
-
-### Man arrested with nearly 2 kgs of heroin in Panadura
-
-*2024-05-26 22:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Man-arrested-with-nearly-2-kgs-of-heroin-in-Panadura/108-283376) · `en`
-
-Colombo, May 26 (Daily Mirror)- A 37-year-old man was arrested with 1.850 kilograms of heroin at Walapana in the Panadura South police division this evening.
-
-The raid was carried out by the Kalutara Crimes Division on information received by them. A mobile phone was also taken into police custody.
-
-◼️
-
-[Data](articles/15926847.json)
-
-[Extended Data](ext_articles/15926847.ext.json)
-
----
-
-### Suspect arrested with heroin
-
-*2024-05-26 22:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197043) · `si`
-
-A 37-year-old from Walapana, Panadura, was arrested with 1 kg of heroin and 850 grams more. Police also confiscated his mobile phone upon arrest.
-
-🟩
-
-The arrested is a 37-year-old resident of the Walapana area in Panadura.
-
-Police have found 1 kilograms of heroin and 850 grams of heroin in possession.
-
-The police also seized a mobile phone he had when the suspect was arrested.
-
-◼️
-
-[Data](articles/ad29784f.json)
-
-[Extended Data](ext_articles/ad29784f.ext.json)
-
----
-
-### Eight people die due to inclement weather: 45509 persons are affected; The climate will continue with the rainfall
-
-*2024-05-26 22:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/184560) · `ta`
-
-Inclement weather caused by the southwestern monsoon has led to severe conditions across several provinces, affecting over 45,000 individuals and resulting in eight fatalities. Heavy rainfall, accompanied by strong winds and potential landslides, threatens further damage. The Department of Meteorology warns of continuous rainfall and advises caution against activities like fishing in turbulent seas. Precautions against lightning impacts are also recommended.
-
-🟩
-
-The Department of Meteorology has predicted that the prevailing rainy weather in the country is expected to continue due to the southwestern monsoon condition.. The upper, Sabaragamuwa, Central, North Western and Southern Provinces are likely to experience rains or thunderstorms today.
-
-About 12207 families have been affected by the accidents, including heavy winds, and the damage to the mudslide, and 45509 have been affected and 13 people have been killed and 13 injured yesterday evening.
-
-From time to time, there is a possibility of rain or thunderstorms in the seas along the coastal seas from Mannar to Colombo and Galle.. Heavy rainfall is expected in some parts of these seas, and in some other seas around the country, there is a possibility of rain or thundershowers.
-
-Due to the southwest monsoon condition, the current rainfall and wind conditions will continue.
-
-...
-
-[Data](articles/007908ab.json)
-
-[Extended Data](ext_articles/007908ab.ext.json)
-
----
-
-### Harin warning about a social media ban
-
-*2024-05-26 22:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197042) · `si`
-
-Sports Minister Harin Fernando announced legal action against social media groups damaging cricket, citing the Social Media Regulatory Act. He mentioned being accused alongside Sanath Jayasuriya, highlighting the need for stronger laws to prevent such issues in Sri Lanka.
-
-🟩
-
-Sports Minister Harin Fernando says that some electronic media has launched legal action against cricket accustomed social media gangs.
-
-He was speaking at a function held at the opening of the first Golf Academy of Sri Lanka today.
-
-The Minister said that legal action will be taken through the Social Media Regulatory Act.
-
-"Prepare several social media and muddled cricket. Many people do not know today are accusing of me and Sanath Jayasuriya. I was setting the sports wrong prevention unit in 2019. It is a strength to have a lawless law in Sri Lanka. The newly brought back to mudslinging through the Act. All of the social media ban. The same accusations hold a single channel and muddy us. "
-
-◼️
-
-[Data](articles/ef226f06.json)
-
-[Extended Data](ext_articles/ef226f06.ext.json)
-
----
-
-### Special committee appointed to investigate ‘ISIS presence’ in Sri Lanka - IGP
-
-*2024-05-26 21:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/99451/special-committee-appointed-to-investigate-isis-presence-in-sri-lanka-igp) · `en`
-
-Inspector General of Police (IGP) Deshabandu Tennakoon says that a special committee has been appointed to find out whether any individuals linked to the ISIS terrorist organization are staying in the country.
-
-IGP Tennakoon also said that an immediate investigation is currently being carried out in this regard.
-
-Speaking to the media in Kaduwela today (26), Tennakoon said: “A new committee has been appointed, including the Terrorism Investigation Division, Intelligence Unit officials, and the Special Task Force, under the supervision of the Deputy Inspector General of the Criminal Investigation Department, to investigate in this regard”.
-
-“I discuss with the committee every day about the daily progress and provide them with the required instructions. There has been a successful investigation carried out regarding the matter. We will inform you about the progress of the investigation in the future”, he added.
-
-...
-
-[Data](articles/41df24af.json)
-
-[Extended Data](ext_articles/41df24af.ext.json)
-
----
-
-### A designer who has taken the hearts in the world is passing away
-
-*2024-05-26 21:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197041) · `si`
-
-Richard M. Sherman, aged 95, co-composer of over 150 Disney songs with his brother Robert, has passed away. Known for their Oscar-winning contributions, including "The Bare Necessities" from The Jungle Book, the Sherman Brothers' impact on Disney films is immense. Their legacy continues through their music, which has touched generations worldwide.
-
-🟩
-
-Richard M shirman has passed away for the disney movies.
-
-He was 95 years old when he died due to illness.
-
-Richard M-Sherman, the previously composed of more than 150 songs in Disney with his previously drowned brother Robert Sherman.
-
-In 1965, two Oscar awards were also given to the songs made of Sherman brothers.
-
-The song is the TRUNY SCRUMPTIOUS of the Jungle Book film between the two brothers.
-
-The Sherman brothers have also received the US national art medal in 2008.
-
-◼️
-
-[Data](articles/93452f94.json)
-
-[Extended Data](ext_articles/93452f94.ext.json)
-
----
-
-### 114 Top of 114 to the IPL crowded this year
-
-*2024-05-26 21:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197040) · `si`
-
-In a thrilling IPL match, Hyderabad scored 113 runs but lost after 18 overs. Kolkata, however, secured victory with 114 runs.
-
-🟩
-
-Hyderabad scored 113 runs for the loss of 18 overs, attached the IPL.
-
-Accordingly, the Kolkata team has won 114 runs for the win.
-
-◼️
-
-[Data](articles/3f38e5f6.json)
-
-[Extended Data](ext_articles/3f38e5f6.ext.json)
-
----
-
-### Priyantha stripped of Silver from World Para Games
-
-*2024-05-26 21:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Priyantha-stripped-of-Silver-from-World-Para-Games/108-283374) · `en`
-
-Colombo, May 26 (Daily Mirror) - Sri Lankan Para athlete Dinesh Priyantha’s Silver Medal was stripped of the 11th World Para Athletic Championships 2024, in Kobe, Japan.
-
-The Sri Lanka Paralympics Gold Medallist finished second in the Men’s F-46 javelin throw event with an effort of 64.59m but following a protest, he was stripped of the medal by the International Paralimpic Committee.
-
-Priyantha was disqualified and according to medical experts who conducted a re-classification, Priyantha no longer qualifies for paralympic sports and will not be eligible for any of the disability categories.
-
-A six-member Sri Lankan contingent participated at the World Para Athletic Championships, which was conducted as a pre-runner for the 2024 Paris Paralympic Games with the participation of 1,078 athletes from 103 countries.
-
-Meanwhile, Sri Lanka finished with one Silver Medal and two Bronze Medals at the World Para Athletic Championships.
-
-...
-
-[Data](articles/b592c867.json)
-
-[Extended Data](ext_articles/b592c867.ext.json)
 
 ---

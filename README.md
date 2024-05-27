@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-27 23:18:42**
+As of **2024-05-27 23:34:14**
 
 ## Newspaper Stats
 
-*Scraped **26,644** Articles*
+*Scraped **26,646** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,442
 economynextcom | 1,525
 dailyftlk | 1,550
 adalk | 2,270
-adaderanalk | 3,052
+adaderanalk | 3,054
 tamilmirrorlk | 3,125
 virakesarilk | 4,070
 dailymirrorlk | 4,206
@@ -26,45 +26,93 @@ adaderanasinhalalk | 4,273
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,642 (100.0%) of 26,644 articles have been extended.
+26,644 (100.0%) of 26,646 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-27 (Monday)
 
-### மக்களுக்கு அவசர அறிவிப்பு
+### Excise Dept. employee and bank manager among 08 arrested over drug racket
+
+*2024-05-27 22:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/99478/excise-dept-employee-and-bank-manager-among-08-arrested-over-drug-racket) · `en`
+
+An individual employed at the Excise Department and a person who is said to be a manager of a private bank are among 08 suspects arrested by Alawathugoda Police in connection with a drug racket.
+
+Drugs including heroin, crystal methamphetamine (‘Ice’) and cannabis as well as a digital scale and around Rs. 10,000 in cash have been found in the possession of the arrested suspects.
+
+Court has granted permission to detain until May 29 and question the Excise Department employee and the private bank manager, who are among the arrested suspects.
+
+The 08 suspects in question had been arrested based on information uncovered following the interrogation of a suspect arrested by Alawathugoda Police while peddling heroin.
+
+◼️
+
+[Data](articles/a186b159.json)
+
+---
+
+### Application deadline extended for President’s Fund 2024/2025 ICT Scholarship
+
+*2024-05-27 22:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/99477/application-deadline-extended-for-presidents-fund-20242025-ict-scholarship) · `en`
+
+The deadline for submitting applications for the 2024/2025 scholarship program, jointly offered by the Sri Lanka Telecommunication Regulatory Commission (TRCSL) and the President’s Fund for students studying Information and Communication Technology at the G.C.E Advanced Level has been extended until June 07, 2024.
+
+As the awarding of these scholarships needs to be done promptly, students who have met the qualifications should properly complete their applications, the PMD reported.
+
+These applications must be recommended by the Grama Seva Officer, Divisional Secretary, class teacher, school principal, and zonal director.
+
+The completed applications should then be sent by registered post only to the Secretary, President’s Fund, No. 35, 3rd Floor, Lakehouse Building, DR Wijewardena Mawatha, Colombo 10, before the specified date.
+
+...
+
+[Data](articles/9713ad0c.json)
+
+---
+
+### Emergency notice of people
 
 *2024-05-27 22:19:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மக்களுக்கு-அவசர-அறிவிப்பு/175-337996) · `ta`
 
-களு கங்கையின் கிளை நதியான குடா கங்கை மில்லகந்த பிரதேசத்தில் சிறு வெள்ளப்பெருக்கு நிலையை எட்டியுள்ளதாக நீர்ப்பாசன திணைக்களம் தெரிவித்துள்ளது.
+Minor flooding reported in Kuda Ganga Millakanda; water level at 6.53m. Exceeding 8m could lead to major flooding.
 
-இன்று மாலை 6 மணியளவில் குடா கங்கையின் நீர்மட்டம் 6.53 மீற்றராக உயர்ந்துள்ளதாக திணைக்களம் சுட்டிக்காட்டியுள்ளது.
+🟩
 
-இது 8 மீற்றர் மட்டத்தை தாண்டினால் அது பாரிய வெள்ளப்பெருக்கு நிலை என நீர்ப்பாசனத் திணைக்களம் குறிப்பிடுகின்றது. R
+The Irrigation Department said that a minor flooding has been reached in the Kuda Ganga Ganga Millakanda area, the branch of the Kalu Ganga.
+
+The Department of Kuda Ganga has risen to 6.53 meters at around 6 pm today, the department has pointed out.
+
+If it exceeds 8 meters, the Irrigation Department states that it is a massive flooding level. Remble
 
 ◼️
 
 [Data](articles/5224af50.json)
 
+[Extended Data](ext_articles/5224af50.ext.json)
+
 ---
 
-### මත්ද්‍රව්‍ය සමග ලොක්කෝ දෙන්නෙක් කොටුවෙයි
+### Two boss with drugs fall
 
 *2024-05-27 22:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197085) · `si`
 
-මත්ද්‍රව්‍ය ජාවාරමට සම්බන්ධව එම මත්ද්‍රව්‍ය අලෙවි කිරීමේ සිද්ධියකට අදාළව පුද්ගලයින් අට දෙදෙනෙකු අලවතුගොඩ පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+Eight individuals, including an Excise Department employee and a private bank manager, were arrested by the Alawathugoda Police for drug trafficking. Seized items included drugs, ice, cannabis, digital scales, and cash. The arrests followed a heroin sale investigation.
 
-මෙලෙස අත්අඩංගුවට ගත් පිරිස අතර සුරාබදු දෙපාර්තමේන්තුවේ රැකියාවේ නිරත අයෙකු සහ පෞද්ගලික බැංකු කළමනාකරුවෙකු බවට පැවසෙන අයෙකු ද සිටින බව පොලීසිය පවසයි.
+🟩
 
-අත්අඩංගුවට ගත් සැකකරුවන් සන්තකයේ තිබී මත්කුඩු, අයිස්, ගංජා, ඩිජිටල් තරාදියක් සහ මුදලින් රුපියල් දස දහසක් ඇතුළු භාණ්ඩ තොගයක් සොයාගෙන ඇත.
+Alawathugoda Police have arrested eight persons in connection with the drug trafficking incident.
 
-අත්අඩංගුවට ගත් පිරිස අතර සිටින සුරාබදු දෙපාර්තමේන්තුවේ රැකියාවේ නිරත පුද්ගලයා සහ පෞද්ගලික බැංකු කළමනාකරු 29 වනදා දක්වා රඳවාගෙන ප්‍රශ්නකිරීම සඳහා අධිකරණයෙන් අවසර ලබාදී තිබේ.
+Among the arrested persons are also known as an employment of the Excise Department and a private bank manager.
 
-හෙරොයින් මත්කුඩු අලෙවි කරමින් සිටි පුද්ගලයකු අලවතුගොඩ පොලිසිය මගින් අත්අඩංගුවට ගෙන සිදුකළ විමර්ශනයකදී මෙම පිරිස අත්අඩංගුවට ගෙන තිබේ.
+A large haul of items including drugs, ice, cannabis, digital scales and amounts were found in the possession of the suspects.
+
+Among the arrested persons, the person who is employed at the Excise Department and the private banking manager has been permitted to the Region 29.
+
+The group was arrested following a man who was selling heroin by Alawatugoda Police.
 
 ◼️
 
 [Data](articles/3db109d6.json)
+
+[Extended Data](ext_articles/3db109d6.ext.json)
 
 ---
 
@@ -2291,59 +2339,5 @@ However, government spokesmen continue to be emphatic that a presidential electi
 [Data](articles/bd523f7c.json)
 
 [Extended Data](ext_articles/bd523f7c.ext.json)
-
----
-
-### In Jaffna
-
-*2024-05-27 12:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/184581) · `ta`
-
-Attorney MA Sumanthiran announced a public discussion in Jaffna about a common candidate, scheduled for September 9th. This event follows discussions with civil society reps and journalists advocating for the common candidate. The attorney shared his stance and listened to theirs, agreeing to facilitate a healthy debate.
-
-🟩
-
-Parliamentarian Attorney MA Sumanthiran has said that an event will be held in Jaffna regarding the common candidate.
-
-He said this during a media briefing held at the Jaffna Media Center on Monday (27).
-
-Civil society representatives and journalists who are carrying out the initiative on the common candidate met me a few days ago.
-
-During that time, I told them my position on the common candidate. They also expressed their views on stopping the common candidate.
-
-Then I said, I said, "We will hold a public discussion on the public candidate and hold a healthy discussion on the public.. They agreed to them.
-
-In addition, the public will be able to make a comment in Jaffna on the 09th of this month, and the people will not blame one of them.. That is why I have organized the event.
-
-◼️
-
-[Data](articles/5ed18ee7.json)
-
-[Extended Data](ext_articles/5ed18ee7.ext.json)
-
----
-
-### A good time for hydropower
-
-*2024-05-27 12:39:40* · [`adalk`](https://www.ada.lk/breaking_news/ජල-විදුලියට-හොඳ-කලක්/11-409842) · `si`
-
-Rapidly rising water levels in Mawaskele and Castlereagh reservoirs, crucial for hydropower, signal a favorable period for hydroelectric generation after months of low rainfall, which had reduced their capacity to 75%. This turnaround comes as the western slope areas of the central hills experience inclement weather, impacting daily operations, including tea factory activities and disrupting electricity supply, affecting both workers and businesses.
-
-🟩
-
-The water level of Mawaskele and Castlereage reservoirs belonging to the western slope areas of the central hills have rapidly rise.
-
-The water level of Mawussakele and Castlere reservoirs were down to 75% of the entire water capacity due to the lack of rain.
-
-MouseSupavana, New Laxapana, New Laxapana, New Laxapana, New Laxapana, New Laxapana, New Laxapana, New Laxapana, New Laxapana, New Laxapana, New Laxapana and Castlerees are the two reservoirs.
-
-The western slope areas of the central hills have passed away.
-
-With the inclement weather, the daily activities of the tea factories in the central hills have come to the daily activities of the central hills. The estate workers' and business community and the business community have been severely interrupted the electricity community and the business community as the electricity supply was disconnected.
-
-◼️
-
-[Data](articles/7bfdd8b0.json)
-
-[Extended Data](ext_articles/7bfdd8b0.ext.json)
 
 ---

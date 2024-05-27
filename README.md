@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-27 18:35:19**
+As of **2024-05-27 18:52:57**
 
 ## Newspaper Stats
 
-*Scraped **26,619** Articles*
+*Scraped **26,621** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,50 @@ adalk | 2,266
 adaderanalk | 3,048
 tamilmirrorlk | 3,123
 virakesarilk | 4,070
-dailymirrorlk | 4,199
-adaderanasinhalalk | 4,266
+dailymirrorlk | 4,200
+adaderanasinhalalk | 4,267
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,616 (100.0%) of 26,619 articles have been extended.
+26,619 (100.0%) of 26,621 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-27 (Monday)
+
+### President’s Fund deadline extended for 2024/2025 ICT scholarship applications
+
+*2024-05-27 18:27:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Presidents-Fund-deadline-extended-for-20242025-ICT-scholarship-applications/108-283454) · `en`
+
+Colombo, May 27 (PMD) - The deadline for submitting applications for the 2024/2025 scholarship programme, jointly offered by the Sri Lanka Telecommunication Regulatory Commission and the President’s Fund for students studying Information and Communication Technology at the G.C.E. Advanced Level, has been extended till June 7, the President’s Media Division (PMD) said.
+
+As the awarding of these scholarships needs to be done promptly, students who have met the qualifications should properly complete their applications.
+
+These applications must be recommended by the Grama Seva Officer, Divisional Secretary, class teacher, school principal and Zonal Director. The completed applications should then be sent by registered post only to the Secretary, President's Fund, No. 35, 3rd Floor, Lake House Building, D.R. Wijewardena Mawatha, Colombo 10, before the specified date.
+
+...
+
+[Data](articles/289f1ff4.json)
+
+---
+
+### වතු වැටුප ගැන තේ වතු හිමියන්ගේ සංගමය තීරණයක් ගනී
+
+*2024-05-27 18:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197079) · `si`
+
+රජය යෝජනා කළ පරිදි වතු සේවකයින් සඳහා ඉදිරිපත් කළ රුපියල් 1,700ක වැටුප් වැඩිවීම ලබාදිය නොහැකි බව තේ වතු හිමියන්ගේ සංගමය පවසයි.
+
+එහි මාධ්‍ය ප්‍රකාශක රොෂාන් රාජදොරෙයි මහතා පැවසුවේ තේ වතු හිමියන්ගෙන් කරුණු විමසීමකින් තොරව අදාළ වැටුප් වැඩි කිරීමට රජය තීරණය කර ඇති බවය.
+
+අද (27) පැවති මාධ්‍ය හමුවකට එක්වෙමින් රොෂාන් රාජදොරෙයි මහතා එම අදහස් පළකළේය.
+
+...
+
+[Data](articles/fb13286f.json)
+
+---
 
 ### Pakistan HC unveils Gallery celebrating Buddhist archeological sites in Kandy Museum
 
@@ -339,6 +371,8 @@ They said the wind speed will be 70 kmph gusting up to 80 kmph.
 ◼️
 
 [Data](articles/e6f08519.json)
+
+[Extended Data](ext_articles/e6f08519.ext.json)
 
 ---
 
@@ -2036,6 +2070,8 @@ General Secretary of the Communist Party G. Weerasinghe, Chairman of Yuthukama o
 
 [Data](articles/f0d33325.json)
 
+[Extended Data](ext_articles/f0d33325.ext.json)
+
 ---
 
 ### An important announcement for vehicles attending the Katunayake airport
@@ -2084,21 +2120,27 @@ Director General of the World Animal Health Organization. At the invitation of H
 
 ---
 
-### වැස්ස නිසා එළවළු මිල ඉහ‍ල‍ට
+### Vegetable prices up due to rain
 
 *2024-05-27 12:12:51* · [`adalk`](https://www.ada.lk/breaking_news/වැස්ස-නිසා-එළවළු-මිල-ඉහ‍ල‍ට/11-409840) · `si`
 
-දිවයින පුරා පවතින දැඩි අයහපත් කාලගුණයත් සමග පහල බැස තිබු එලවළු මිල ඉහල යමින් පවතින බව හැටන් ප්‍රදේශයේ එලවළු වෙලෙදුන් කියා සිටියි.
+Due to heavy rainfall affecting transportation, vegetable prices in Hatton have risen significantly. The Vemarcher attributes this increase to reduced supply meeting high demand. Retail prices for various vegetables like murunga, fish, pumpkin, and lix have increased, impacting consumers and restaurants.
 
-පවතින වර්ෂාවත් සමග එලවළු වගාවට දැඩි බලපැමක් එල්ල විම හමුවේ ඉල්ලුමට සරිලන සැපයුමක් නොමැති විම නිසා එලවළු මිල මෙසේ ඉහල ගොස් ඇති බවයි වෙලෙදුන් කියා සිටියේ.
+🟩
 
-බෝංචි කිලෝවක සිල්ලර මිල රු 480 , මුරුංගා රු 720 , කැරට් රු 240 , මාළු මිරිස් රු 440 , බිට්රුට් රු 400 , තක්කාලි රු 240 , අමු මිරිස් රු 400 , බණ්ඩක්කා රු 240 , පතෝල රු 320 , කරවිල රු 480 , වට්ටක්කා රු 160 , බටු රු 240 , ගෝවා රු 240 , ලික්ස් රු 400 , වැටකොළු රු 400 , මඤ්ඤොක්කා රු 200 , දෙල් ගෙඩියක් රු 300 , දේශිය අර්තාපල් රු 360 , දෙහි රු 1800 , අමු ඉගුරු රු 2500 වශයෙන් අලෙවි කෙරේ.
+Vegetable prices in the Hatton, the prices of the prices of the island are rising along the island.
 
-එලවළු මිල ඉහල යාම හමුවේ පාරිභෝගිකයන් මෙන්ම ආපනශාලා හිමියන්ද දැඩි අසිරුතාවයට පත් වි ඇත.
+The Vemarcher said that the price of vegetables had increased by the lack of a delivery of the demand as there was a strong influence.
+
+Retail Rs. 480, Murunga Rs. 240, Fish Purchase and Rs. 240, 400, Pumpkin Rs.Rs. 240, Lix, Rs. 400, Lix Rs.
+
+Consumers and the restaurant owners have been inherity in the face of rising vegetable prices.
 
 ◼️
 
 [Data](articles/b9aa5ac5.json)
+
+[Extended Data](ext_articles/b9aa5ac5.ext.json)
 
 ---
 
@@ -2303,55 +2345,5 @@ The verdict is in a way that gives confidence to the families of thousands of pe
 [Data](articles/bc0a6d3d.json)
 
 [Extended Data](ext_articles/bc0a6d3d.ext.json)
-
----
-
-### The beginning of the loading of applications
-
-*2024-05-27 11:35:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விண்ணப்பங்கள்-ஏற்றல்-ஆரம்பம்/175-337959) · `ta`
-
-The Commissioner General of Examinations, HJMC, announced that applications for the Grade Five Scholarship Examination for 2024 will open on Monday (27) and close on June 14. Eligible students in the 5th grade can apply through the official website, https://onlineexams.gov.lk/eic.
-
-🟩
-
-The Commissioner General of Examinations HJMC will accept applications for the Grade Five Scholarship Examination for 2024 on Monday (27).. Amit Jayasundara said.
-
-Accordingly, online applications will be accepted until June 14, and students in the 5th grade will be eligible to take the exam.
-
-To download applications, applicants are requested to log in to the official website of the Department of Examinations, https://onlineexams.gov.lk/eic.
-
-◼️
-
-[Data](articles/eb1b93ae.json)
-
-[Extended Data](ext_articles/eb1b93ae.ext.json)
-
----
-
-### A red announcement from the weather
-
-*2024-05-27 11:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197060) · `si`
-
-The Department of Meteorology warns of severe weather conditions, with sea speeds reaching 60-70 knots around the island. It advises against sailing in sea areas from Kalpitiya to Pottuvil due to high waves and potential landslides from Kalpitiya to Matara. The department urges the public to heed these warnings.
-
-🟩
-
-The Department of Meteorology has issued a red announcement to the Meteorological Association on the stakes and widespread.
-
-It states that the speed of the sea areas around the island is increasing to 60-70 hours.
-
-Shipping and fishing communities have informed the naval and fishing communities not to sail until not sail.
-
-The sea waves in the sea areas off the coast extending from Kalpitiya to Pottuvil from Kalpitiya to Pottuvil via Pottuvil via Pottuvil via Pottuvil.
-
-The statement states that the potential for land to land from Kalpitiya to Matara through Kalpitiya has been in secret.
-
-The Department of Meteorological Department requests the fisheries and the community to focus on the announcements issued in this regard.
-
-◼️
-
-[Data](articles/2b8a7e55.json)
-
-[Extended Data](ext_articles/2b8a7e55.ext.json)
 
 ---

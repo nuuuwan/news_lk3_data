@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-27 17:34:28**
+As of **2024-05-27 17:54:36**
 
 ## Newspaper Stats
 
-*Scraped **26,594** Articles*
+*Scraped **26,602** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,114 @@ economynextcom | 1,516
 dailyftlk | 1,550
 adalk | 2,263
 adaderanalk | 3,047
-tamilmirrorlk | 3,120
-virakesarilk | 4,066
+tamilmirrorlk | 3,121
+virakesarilk | 4,070
 dailymirrorlk | 4,197
-adaderanasinhalalk | 4,263
+adaderanasinhalalk | 4,266
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,593 (100.0%) of 26,594 articles have been extended.
+26,594 (100.0%) of 26,602 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-27 (Monday)
+
+### කොල්ලුපිටියේ මහදවල් දැවැන්ත කොල්ලයක්
+
+*2024-05-27 17:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197078) · `si`
+
+කොල්ලුපිටිය වෙළෙඳ සංකීර්ණයක වෙළෙඳසැලක කොල්ලයක් සිදුව ඇති බව පොලීසිය පවසයි.
+
+එහිදී කොල්ලකරු විසින් රුපියල් ලක්ෂ 40කට ආසන්න ජංගම දුරකථන අඩංගු බෑගයක් කොල්ලකා පළාගොස් ඇති බවට වාර්තාවෙයි.
+
+පොලීසිය පවසන්නේ සැකකරු එක්වරම වෙළෙඳසැල වෙත කඩාවැදී ගිනි අවියක් පෙන්වා මෙම කොල්ලය සිදුකර ඇති බවය.
+
+අනතුරුව සැකකරු යතුරුපැදියක නැගී පළාගොස් ඇති බව පොලීසිය වැඩිදුරටත් පවසයි.
+
+◼️
+
+[Data](articles/417264e3.json)
+
+---
+
+### රාහුල් ගාන්ධි සමග වේදිකාවක් කඩාවැටෙයි
+
+*2024-05-27 17:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197077) · `si`
+
+ඉන්දීය කොංග්‍රස් පක්ෂයේ නායක රාහුල් ගාන්ධි එක්වූ රැලියක් අතරතුරදී වේදිකාවක් කඩාවැටී තිබේ.
+
+ඉන් කිසිවෙකුටත් හානියක් සිදුව නොමැති බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+බිහාර් ප්‍රාන්තයේ මැතිවරණ ප්‍රචාරක රැලියක් අතරතුරදී මෙම අනතුර සිදුව තිබේ.
+
+එම අවස්ථාව දැක්වෙන වීඩියෝවක් විදෙස් මාධ්‍ය වාර්තා කර තිබුණේ මේ අයුරින්.
+
+◼️
+
+[Data](articles/deae4878.json)
+
+---
+
+### நவநாஜிய பாணியிலே பல அரசாங்க துறைகள் இணைந்து பலம்பொருந்தியவர்கள் செல்வாக்கு பொருந்தியவர்களுடன் சேர்ந்து எங்கள் இருப்புகளை குடித்தொகையை மாற்றியமைப்பதற்கும் முயல்கின்றனர்  - பேராசிரியர் பத்மநாதன்
+
+*2024-05-27 17:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/184634) · `ta`
+
+நவநாஜிய பாணியிலே பல அரசாங்க துறைகள் இணைந்து பலம்பொருந்தியர்வர்கள் செல்வாக்கு பொருந்தியவர்களுடன் இணைந்து அவர்கள் எங்கள் இருப்புகளை குடித்தொகையை மாற்றியமைப்பதற்கும் முயல்கின்றனர்  என தெரிவித்துள்ள பேராசிரியர் பத்மநாதன் மீண்டும் எங்களின் தேசிய உரிமையை எழுச்சியை வளர்க்கவேண்டும். என தெரிவித்துள்ளார்
+
+பேராசிரியர் பத்மநாதனின் ஒரு மறைந்து போன நாகரீகத்தின் தரிசனம் - ஆதி கால யாழ்ப்பாணம் நூல் வெளியீட்டு நிகழ்வு கொழும்பு தமிழ்சங்கத்தில் இடம்பெற்றவேளை ஆற்றிய உரையில் அவர் இதனை தெரிவித்துள்ளார்
+
+மற்றவற்றை இறைமை அதிகாரம் சுயநிர்ணய உரிமை இவற்றைதான் பெற்றுக்கொள்ள முடியும் அதுவும் பேச்சுவார்த்தை மூலம் அவசியம். என அவர் குறிப்பிட்டுள்ளார்
+
+தமிழ்தேசியத்தின் உற்பத்திக்கு அடிநாதமான மொழிவளக்கும் இடையறாத நிலப்பரப்பும் கிறிஸ்துவிற்கு முதல் நூற்றாண்டிலேயே உருவாகிவிட்டது.
+
+19ம் நூற்றாண்டில் சுதந்திரம் கிடைத்த பின்னர் சிங்கள தலைவர்கள் படித்தவர்கள் ஸ்டேட் கவுன்சிலில் இருந்தவர்கள் பக்குவமான குடும்பத்திலிருந்து வந்தவர்கள் தமிழர்கள் ஒரு தேசிய இனம் நாட்டில் ஒரு சமஸ்டி முறையிலான ஆட்சி அமையவேண்டும் என்றார்கள்.
+
+...
+
+[Data](articles/9882602f.json)
+
+---
+
+### 2000 பேர்  உயிருடன் புதையுண்டனர்
+
+*2024-05-27 17:14:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/2000-பேர்-உயிருடன்-புதையுண்டனர்/50-337986) · `ta`
+
+பப்புவா நியூ கினியாவில் கடந்த வெள்ளிக்கிழமை ஏற்பட்ட மிகப் பெரிய நிலச்சரிவில் 2,000-க்கும் அதிகமானோர் உயிருடன் மண்ணுக்குள் புதைந்ததாக அந்நாட்டு பேரிடர் மேலாண்மை துறை ஐ.நா.வுக்கு எழுதிய கடிதத்தில் தெரிவித்துள்ளது.
+
+பசிபிக் பெருங்கடலில் உள்ள பப்புவா நியூ கினியாவில் கடந்த வாரம் பயங்கர நிலச்சரிவு ஏற்பட்டது. இதில், பாறைகளும், மரங்களும் குடியிருப்புகள் மீது விழுந்தன.
+
+வீடுகளில் உறங்கிக்கொண்டிருந்த மக்கள் அதில் சிக்கினர். நூற்றுக்கணக்கான வீடுகள் இடிந்து சேதமடைந்தன. நிலச்சரிவில் 100 பேர் பலியானதாக அந்த நாட்டின் அதிகாரிகள் முதலில் தெரிவித்தனர்.
+
+நேற்று மண்ணில் புதைந்த நிலையில் 5 உடல்கள் மற்றும் இறந்த ஒருவரின் ஒரு காலும் மீட்கப்பட்டன. இந்த நிலையில், எங்கா மாகாணத்தின் காகோலாம் கிராமத்தில் திடீரென நிலச்சரிவு ஏற்பட்டு ஆயிரத்துக்கு மேற்பட்ட வீடுகள் புதையுண்டன.
+
+மீட்புப் பணிகள் தீவிரம் அடைந்த நிலையில், 2 ஆயிரத்துக்கும் அதிகமனோர் உயிருடன் புதைந்து இருக்கலாம் என அதிகாரிகள் அச்சம் தெரிவித்துள்ளனர். பேரழிவு ஏற்பட்ட எங்கா மாகாணத்தில் மீட்பு பணிகள் தீவிரமாக நடந்து வருகின்றன.
+
+...
+
+[Data](articles/5adfedbc.json)
+
+---
+
+### දුම්රියේ ගැටී තරුණයෙකු මරුට
+
+*2024-05-27 17:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197076) · `si`
+
+කටුකුරුන්ද සහ කළුතර දුම්රිය ස්ථාන අතර දුම්රිය මාර්ගයේ ගමන්කරමින් සිටි තරුණයෙකු දුම්රියක ගැටී මියගොස් තිබේ.
+
+මෙලෙස අවාසනාවන්ත ලෙස මියගොස් ඇත්තේ 21 හැවිරිදි වියේ පසුවවන තරුණයෙකි.
+
+එම තරුණයා කටුකුරුන්ද දෙස සිට කළුතර දෙසට හෑන්ඩ් ෆ්‍රී උපකරණයක් සවිකර ජංගම දුරකථනයක් භාවිත කරමින් මාර්ගයේ ගමන්කර ඇති බවට දුම්රිය සේවකයින් සඳහන් කර තිබේ.
+
+අලුත්ගම සිට මරදාන බලා ධාවනය වූ මන්දගාමී දුම්රියේ ගැටීමෙන් එම තරුණයා අවාසනාවන්ත ලෙස මියගොස් තිබේ.
+
+◼️
+
+[Data](articles/f00ccfcb.json)
+
+---
 
 ### Another hazard hanging over pedestrians: CMC FYI
 
@@ -72,6 +166,42 @@ During further questioning of the arrested suspect, it has been revealed that he
 
 ---
 
+### இறுதி கட்டப் படப்பிடிப்பில் கார்த்தியின் 'வா வாத்தியார்'
+
+*2024-05-27 17:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/184626) · `ta`
+
+கார்த்தி நடிப்பில் தயாராகி வரும் புதிய திரைப்படத்திற்கு 'வா வாத்தியார்' என பெயரிடப்பட்டு, அப்படத்தின் ஃபர்ஸ்ட் லுக் வெளியிடப்பட்டிருக்கிறது.
+
+'சூது கவ்வும்', 'காதலும் கடந்து போகும்' ஆகிய படங்களை இயக்கிய இயக்குநர் நலன் குமாரசாமி இயக்கத்தில் உருவாகி வரும் 'வா வாத்தியார்' எனும் திரைப்படத்தில் கார்த்தி, கிருத்தி ஷெட்டி, சத்யராஜ், ராஜ்கிரண், ஜி. எம். குமார் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். ஜோர்ஜ் வில்லியம்ஸ் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு சந்தோஷ் நாராயணன் இசையமைத்திருக்கிறார். இந்த திரைப்படத்தை ஸ்டுடியோ கிரீன் நிறுவனம் சார்பில் தயாரிப்பாளர் கே. ஈ. ஞானவேல் ராஜா தயாரித்திருக்கிறார்.‌
+
+இப்படத்தின் இறுதி கட்ட படப்பிடிப்பு நடைபெற்று வருவதாக படக் குழுவினர் தெரிவித்திருக்கிறார்கள். இந்நிலையில் கார்த்தியின் பிறந்த நாளை முன்னிட்டு படத்தின் ஃபர்ஸ்ட் லுக் வெளியிடப்பட்டிருக்கிறது. கார்த்தி காக்கி உடை அணிந்து ஸ்டைலான தோற்றத்தில் தோன்றுவதால் ரசிகர்களிடத்தில் இப்படத்தைப் பற்றிய எதிர்பார்ப்பு அதிகரித்திருக்கிறது.
+
+◼️
+
+[Data](articles/93f6a51f.json)
+
+---
+
+### ஜனாதிபதியின் நிகழ்வை தேர்தல் பரப்புரை நிகழ்வாக நடத்த முயற்சி - எம்.ஏ சுமந்திரன்
+
+*2024-05-27 16:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/184616) · `ta`
+
+ஜனாதிபதியின் வடக்குக்கான விஜயத்தினை சிலர் தேர்தல் பரப்புரை நிகழ்வாக மாற்ற முனைந்தார்கள் என நாடாளுமன்ற உறுப்பினர் ஜனாதிபதி சட்டத்தரணி எம்.ஏ சுமந்திரன் தெரிவித்துள்ளார்.
+
+யாழ்.ஊடக அமையத்தில் இன்று திங்கட்கிழமை (27) இடம்பெற்ற ஊடக சந்திப்பின் போதே அவ்வாறு தெரிவித்தார்.
+
+ஜனாதிபதி வடமாகாணத்திற்கு விஜயம் செய்து கலந்து கொண்ட சில நிகழ்வுகளில் தமிழ் தேசிய கூட்டமைப்பின் நாடாளுமன்ற உறுப்பினர்கள் சிலர் கலந்து கொண்டிருந்தனர். அந்நிகழ்வுகள் அரச நிகழ்வுகள் ஆகும். அதில் நாடாளுமன்ற உறுப்பினர்கள் கலந்து கொள்ளலாம்.
+
+வடமாகாணத்தில் ஜனாதிபதி திறந்து வைத்த வைத்தியசாலைகளில் கட்டடங்கள் வடமாகாண சபையின் முன்னாள் சுகாதார அமைச்சர் பா. சாத்தியலிங்கத்தின் முயற்சியால் அமையப்பெற்றது.
+
+எங்களுடைய வடமாகாண சபையில் , எங்கள் கட்சியை சேர்ந்த முன்னாள் சுகாதார அமைச்சரின் காலத்தில் வந்த திட்டத்தில் அமைக்கப்பட்ட கட்டடங்களின் திறப்பு விழாக்களில் நாங்கள் கலந்து கொண்டோம். வவுனியாவில் நடைபெற்ற நிகழ்வில் முன்னாள் சுகாதார அமைச்சர் சாத்தியலிங்கத்திற்கு பொன்னாடை போர்த்தி கௌரவிப்பு இடம்பெற்றது. அது அமைச்சரின் செயலுக்கு கிடைத்த பாராட்டு ஆகும்.
+
+...
+
+[Data](articles/b5283fb6.json)
+
+---
+
 ### Vesak Bodu Bathi Gee, dansala in Gothatuwa
 
 *2024-05-27 16:58:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Vesak-Bodu-Bathi-Gee-dansala-in-Gothatuwa/110-283451) · `en`
@@ -83,6 +213,46 @@ A Vesak Bodu Bathi Gee and a dansala were held yesterday in Gothatuwa in celebra
 [Data](articles/10559353.json)
 
 [Extended Data](ext_articles/10559353.ext.json)
+
+---
+
+### Illegal leaky station blockade in Sampur ..!
+
+*2024-05-27 16:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/184603) · `ta`
+
+Sampur police blocked a leaky oil plant in the jungle near Chinnakulam, arresting a 58-year-old suspect with over 1 million liters of leaked oil. The suspect was released on bail and will face charges at the Muttur Magistrate's Court on March 31st.
+
+🟩
+
+The leakage plant operating in the jungle area of the Chinnakulam area of the Trincomalee - Sampur police division was blocked by Sampur police on Sunday night.
+
+Sampur police have arrested a 58 -year -old suspect with one million 50 thousand ml liters and 1500 milliliters of leaks.
+
+The arrested person has been released on police bail and will be produced before the Muttur Magistrate's Court on the 31st of this month, Sampur police said.
+
+◼️
+
+[Data](articles/e4d716ce.json)
+
+[Extended Data](ext_articles/e4d716ce.ext.json)
+
+---
+
+### கேகாலை மாவட்டத்தில் அடுத்த முறை தமிழ் எம்பி தெரிவாவார் என்ற நம்பிக்கை பிறக்கிறது -  தமுகூ  தலைவர் மனோ கணேசன்
+
+*2024-05-27 16:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/184620) · `ta`
+
+கேகாலை மாவட்டத்தில் கடந்த தேர்தலில் சில ஆயிரங்களால் கை தவறி போன எம்பி பதவி அடுத்த முறை கைகூடும் என்ற நம்பிக்கை பிறந்துள்ளதாக  தமிழ் முற்போக்கு கூட்டணி தலைவர் மனோ கணேசன் தெரிவித்துள்ளார்.
+
+ஜனநாயக மக்கள் முன்னணியின் கேகாலை மாவட்ட மாநாட்டில் உரையாற்றும் போதே அவர் மேற்கண்டவாறு தெரிவித்துள்ளார்.
+
+தமிழ் முற்போக்கு கூட்டணியின் பங்காளி கட்சியான ஜனநாயக மக்கள் முன்னணியின் கேகாலை மாவட்ட மாநாடு, மாவட்ட அமைப்பாளர் பரணீதரன் முருகேசு ஏற்பாட்டில், எட்டியாந்தோட்டையில் தலைவர் மனோ கணேசன் தலைமையில் ஞாயிற்றுக்கிழமை (26) நடை பெற்றது.
+
+கேகாலை ஐக்கிய மக்கள் சக்தி எம்பிகள் கபீர் ஹசீம், சுஜித் பெரேரா, கூட்டணி பிரதி தலைவர்கள் திகாம்பரம், வே. இராதாகிருஷ்ணன் மற்றும் வேலு குமார் எம்பி  ஆகியோர் உட்பட கட்சி, கூட்டணி அரசியல் குழு உறுப்பினர்களும், விசேட அழைப்பாளர்கள், அங்கத்தவர்கள் மாநாட்டில்  கலந்து கொண்டமை குறிப்பிடத்தக்கது.
+
+...
+
+[Data](articles/8c0ce547.json)
 
 ---
 
@@ -138,6 +308,38 @@ A police spokesman said he was also killed while he was hospitalized.
 
 ---
 
+### Remal Storm;Heavy rains in Bangladesh and India
+
+*2024-05-27 16:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/184619) · `ta`
+
+Heavy rains and winds hit coastal areas of India and Bangladesh, causing evacuations of over 10 million people. The Remal Storm, named after the Arabic word for soil, brought strong winds and raised sea levels, affecting nearly 150 million people. One death occurred in Kolkata, India, and warnings were issued for Mongla and Pera in Bangladesh.
+
+🟩
+
+Heavy rains were hit by heavy winds in the coastal areas of India and Bangladesh on Sunday night (26).
+
+Before the storm impact, 10 million people were evacuated in both Bangladesh and India.
+
+The Indian Meteorological Department said that the storm had fallen up to 135 kilometers at the Remal Storm.
+
+One person died after the storm speed was at its peak in Kolkata, India.
+
+The Remal Storm is expected to rise 89 millimeters (3.5 inches) and the sea wave of the Bay of Bengal is expected to rise from 2.5 to 3.7 meters.
+
+About one crore 50 million people have been affected by the fall of trees and power poles due to the winds blowing at 120 kilometers per hour.
+
+Mongla and Pera in Bangladesh were issued a strict warning on Sunday.  Fishermen have been advised not to go to sea.
+
+At least half a million people live in homes made of clay, wood, plastic, straw or tin, according to the profitable BraC organization.
+
+...
+
+[Data](articles/b5bfa8ef.json)
+
+[Extended Data](ext_articles/b5bfa8ef.ext.json)
+
+---
+
 ### A clear answer to the politics of South Sri Lanka, which is questioned by our existence
 
 *2024-05-27 16:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/184618) · `ta`
@@ -170,38 +372,6 @@ There are many sources for their lives in Vadamarachchi.
 
 ---
 
-### Remal Storm;Heavy rains in Bangladesh and India
-
-*2024-05-27 16:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/184619) · `ta`
-
-Heavy rains and winds hit coastal areas of India and Bangladesh, causing evacuations of over 10 million people. The Remal Storm, named after the Arabic word for soil, brought strong winds and raised sea levels, affecting nearly 150 million people. One death occurred in Kolkata, India, and warnings were issued for Mongla and Pera in Bangladesh.
-
-🟩
-
-Heavy rains were hit by heavy winds in the coastal areas of India and Bangladesh on Sunday night (26).
-
-Before the storm impact, 10 million people were evacuated in both Bangladesh and India.
-
-The Indian Meteorological Department said that the storm had fallen up to 135 kilometers at the Remal Storm.
-
-One person died after the storm speed was at its peak in Kolkata, India.
-
-The Remal Storm is expected to rise 89 millimeters (3.5 inches) and the sea wave of the Bay of Bengal is expected to rise from 2.5 to 3.7 meters.
-
-About one crore 50 million people have been affected by the fall of trees and power poles due to the winds blowing at 120 kilometers per hour.
-
-Mongla and Pera in Bangladesh were issued a strict warning on Sunday.  Fishermen have been advised not to go to sea.
-
-At least half a million people live in homes made of clay, wood, plastic, straw or tin, according to the profitable BraC organization.
-
-...
-
-[Data](articles/b5bfa8ef.json)
-
-[Extended Data](ext_articles/b5bfa8ef.ext.json)
-
----
-
 ### Tornadoes and storms leave 18 dead across central US
 
 *2024-05-27 16:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Tornadoes-and-storms-leave-18-dead-across-central-US/108-283449) · `en`
@@ -223,28 +393,6 @@ Footage from the county showed a petrol station and rest stop almost completely 
 [Data](articles/9b2b65f2.json)
 
 [Extended Data](ext_articles/9b2b65f2.ext.json)
-
----
-
-### Illegal leaky station blockade in Sampur ..!
-
-*2024-05-27 16:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/184603) · `ta`
-
-Sampur police blocked a leaky oil plant in the jungle near Chinnakulam, arresting a 58-year-old suspect with over 1 million liters of leaked oil. The suspect was released on bail and will face charges at the Muttur Magistrate's Court on March 31st.
-
-🟩
-
-The leakage plant operating in the jungle area of the Chinnakulam area of the Trincomalee - Sampur police division was blocked by Sampur police on Sunday night.
-
-Sampur police have arrested a 58 -year -old suspect with one million 50 thousand ml liters and 1500 milliliters of leaks.
-
-The arrested person has been released on police bail and will be produced before the Muttur Magistrate's Court on the 31st of this month, Sampur police said.
-
-◼️
-
-[Data](articles/e4d716ce.json)
-
-[Extended Data](ext_articles/e4d716ce.ext.json)
 
 ---
 
@@ -1464,21 +1612,27 @@ Heavy showers above 100 mm are likely at some places in Western and Sabaragamuwa
 
 ---
 
-### කෝටි හතරක හෙරෝයින් පානදුරෙන් අල්ලයි
+### Four million heroins arrested with Panadura
 
 *2024-05-27 12:20:18* · [`adalk`](https://www.ada.lk/breaking_news/කෝටි-හතරක-හෙරෝයින්-පානදුරෙන්-අල්ලයි/11-409841) · `si`
 
-රුපියල් කෝටි හතරකට අධික වටිනාකම කමකින් යුත් හෙරොයින් මත්කුඩු තොගයක් සමග වලපල හාමු නැමැත්තා අත්අඩංගුවට ගත්බව කළුතර අපරාධ කොට්ඨාසය පවසයි.
+In a major drug bust, four million heroin capsules were seized from a suspect in Panadura, Sri Lanka. The arrest was made after a tip-off led police to find nearly two kilograms of heroin. Investigations link the suspect, Dubaiwa Tharanga, known for drug trafficking in Dubai, to this case. The suspect will be produced before the Panadura Magistrate's Court.
 
-ලද තොරතුරක් මත පානදුර වලපල ප්‍රදේශයේ මාර්ගයක් ආසන්නයේ දී  පරීක්ෂා කිරිමේදී සැකකරු සන්තකයේ තිබූ හෙරොයින් මත්කුඩු කිලෝ දෙකකට ආසන්න ප්‍රමාණයක් සොයාගත් බව පොලිසිය කීය.
+🟩
 
-ඩුබායි රාජ්‍යයේ සැඟව සිටිමින් මත්කුඩු ජාවාරමේ යෙදෙන බව කියන ඩුබායි තරංග නමැත්තාගේ ප්‍රධාන ගෝලයා බවත් පොලිස් විමර්ශනවලදී අනාවරණය වී තිබේ.
+The Kalutara Crimes Division (CID) has been arrested with heroin drug stock.
 
-පානදුර වලපොල ප්‍රදේශයේ පදිංචි 37 හැවිරිදි සැකකරු පානදුර මහේස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරිමට නියමිතව තිබුණි .
+Police said that the suspect was found nearly two kilograms of heroin in the suspect at the Talapala area on a tip off received.
+
+Police investigations have revealed that the role of Dubaiwa Tharanga, who is infected with drug trafficking in Dubai, and is the head of drug trafficking.
+
+The Panadura Magistrate's Court was to be produced before the Panadura Magistrate's Court, Panadura, Panadura, Panadura.
 
 ◼️
 
 [Data](articles/72e588a7.json)
+
+[Extended Data](ext_articles/72e588a7.ext.json)
 
 ---
 
@@ -2183,189 +2337,5 @@ Chief Secretary R.M.P.S Ratnayake, Governor's Secretary L.P Madanayake, Local Go
 [Data](articles/14bd14f6.json)
 
 [Extended Data](ext_articles/14bd14f6.ext.json)
-
----
-
-### Ginger Price 5,000 rupees
-
-*2024-05-27 10:19:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இஞ்சி-விலை-5-000-ரூபாய்/175-337949) · `ta`
-
-In Narahenpita, ginger costs Rs. 5,000 per kg, while lemons are priced at Rs. 1,800 per kg.
-
-🟩
-
-The retail price of a kilogram of ginger is Rs.. 5,000 is sold at the Narahenpita Economic Center.
-
-Accordingly, the price of a kilogram of lemon is sold at the Economic Center for Rs 1,800.
-
-◼️
-
-[Data](articles/86fced39.json)
-
-[Extended Data](ext_articles/86fced39.ext.json)
-
----
-
-### Husband - Wife injured in car accident in Valaichenai
-
-*2024-05-27 10:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/184572) · `ta`
-
-A couple was injured in a car crash in Valaichenai early this morning. The accident involved social activist Al-Haj Haladeen and his family, including his wife, who are now receiving treatment at the Batticaloa Teaching Hospital.
-
-🟩
-
-Husband and wife were injured in a car accident in the Valaichenai police division, police said.
-
-The accident took place today (27) at 5 am at the Valaichenai police division.
-
-The accident occurred while social activist al -Haj Haladeen from Ottamavadi was returning to Colombo with his wife and three children.
-
-Both husband and wife who were traveling in the car were injured when they got off the car.
-
-The husband and wife, who were injured in the accident, are being treated at the Batticaloa Teaching Hospital.
-
-◼️
-
-[Data](articles/f6443a29.json)
-
-[Extended Data](ext_articles/f6443a29.ext.json)
-
----
-
-### Opposition MPs depart for Thailand and Russia to help rescue Sri Lankans in Myanmar cybercrime camps, Ukraine warfront
-
-*2024-05-27 10:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/99457/opposition-mps-depart-for-thailand-and-russia-to-help-rescue-sri-lankans-in-myanmar-cybercrime-camps-ukraine-warfront) · `en`
-
-Three opposition members have departed for Thailand early this morning (May 27) in order to coordinate a diplomatic mission aimed at rescuing Sri Lankans trapped in cybercrime camps in Myanmar and Sri Lankan war veterans stranded in the Russian-Ukrainian warfront.
-
-The delegation, comprising MPs Wasantha Yapa Bandara, J. C. Alawathuwala, and Sujith Sanjaya Perera, will engage in discussions with diplomats, relevant officials, and third parties to facilitate the rescue and repatriation of the victimized Sri Lankans.
-
-During their visit, which includes a five-day stay each in Myanmar and Russia, the MPs will deliver letters containing the demands of the Mahanayaka Theros and the Opposition Leader to the Sangha Nayaka Theros of Thailand and Myanmar, as well as to diplomatic officials in Russia.
-
-The group departed for Bangkok, Thailand, on SriLankan Airlines flight UL-402 at around 01:10 a.m. this morning, Ada Derana reporter said.
-
-◼️
-
-[Data](articles/242c728b.json)
-
-[Extended Data](ext_articles/242c728b.ext.json)
-
----
-
-### The water levels on the rivers
-
-*2024-05-27 10:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197055) · `si`
-
-High water levels were reported in rivers Attanagalu Oya, Kelaniya, Kalu, Gin, and Nilwala on 27th. The Irrigation Director warns residents near these rivers to be cautious due to potential flooding. In response, four sluice gates of the Deduru Oya Reservoir were opened, releasing 7,000 cubic meters of water per second, which could cause the Kukule Ganga river level to rise. Residents around the Bulathsinhala Divisional Secretariat area are advised to take note.
-
-🟩
-
-Attanagalu Oya, Kelaniya, Kalu, Gin and Nilwala River have reported high water levels today (27).
-
-Irrigation Director's Director of Irrigation Director of Irrigation Director, Engineering and Disaster Management Division. P. C. Sangsishwara says.
-
-He also notifies that the people living in the lowlands of these rivers should be considerate.
-
-Four sluice gates of the Deduru Oya Reservoir in Kurunegala District have been opened. It releases water from about 7,000 cubits per second.
-
-Sluice gates of the Kukule Ganga power station. As a result, the water levels of the small river can rise.
-
-As a result, the people in the area of the Bulathsinhala Divisional Secretariat area should be noted.
-
-◼️
-
-[Data](articles/4b2f7d3b.json)
-
-[Extended Data](ext_articles/4b2f7d3b.ext.json)
-
----
-
-### Israeli airstrikes kill at least 35 in Rafah, Gaza authorities say
-
-*2024-05-27 10:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/99456/israeli-airstrikes-kill-at-least-35-in-rafah-gaza-authorities-say) · `en`
-
-Israeli air strikes killed at least 35 Palestinians and wounded dozens in an area in the southern Gaza Strip city of Rafah designated for the displaced, Palestinian health and civil emergency service officials said.
-
-The Israeli military said its air force struck a Hamas compound in Rafah and that the strike was carried out with “precise ammunition and on the basis of precise intelligence.” It took out Hamas’ chief of staff for the West Bank and another senior official behind deadly attacks on Israelis, it said.
-
-“The IDF is aware of reports indicating that as a result of the strike and fire that was ignited several civilians in the area were harmed. The incident is under review.”
-
-The spokesman for the health ministry in the Hamas-run Gaza, Ashraf Al-Qidra, said 35 people were killed and dozens others, most of them women and children, were wounded in the attack.
-
-...
-
-[Data](articles/77664ad7.json)
-
-[Extended Data](ext_articles/77664ad7.ext.json)
-
----
-
-### Firing at Weligama
-
-*2024-05-27 09:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/184569) · `ta`
-
-In Weligama, near a preschool, a shooting occurred without causing injuries. The suspect was targeted, possibly linked to a prior incident.
-
-🟩
-
-A shooting incident took place near the preschool in Badalakama area in the Weligama Divisional Secretariat in Matara district.
-
-It has been reported that the suspect has been targeted in connection with the previous shooting and no injuries were reported.
-
-◼️
-
-[Data](articles/0a8309a3.json)
-
-[Extended Data](ext_articles/0a8309a3.ext.json)
-
----
-
-### Another flight that was severely shaken in the middle of the middle - 12 injured
-
-*2024-05-27 09:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/184567) · `ta`
-
-A Qatar Airways flight from Doha to Dublin experienced severe turbulence, injuring 12 passengers, including one fatality. The plane, QR017, managed a safe landing in Dublin, where it was met by emergency services. This incident follows another flight where 104 passengers were injured on March 21st.
-
-🟩
-
-12 people were injured when a plane traveling from Qatar's capital to Dublin, Ireland's capital, shook on Sunday (26).
-
-A plane from QR017 owned by Kata Airlines was shocked when the plane from Doha was traveling through Turkey.
-
-However, the aircraft has landed safely in Dublin. Subsequently, firefighters and rescue officials were ready at the airport.
-
-After the plane landed, a total of 12 people were taken to the hospital, including six passengers and six passengers.
-
-Meanwhile, one person died and injured 104 passengers on the 21st of this month.
-
-◼️
-
-[Data](articles/4f52312b.json)
-
-[Extended Data](ext_articles/4f52312b.ext.json)
-
----
-
-### Suspect arrested in connection with Ahungalla shooting
-
-*2024-05-27 09:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/184568) · `ta`
-
-A suspect linked to the Ahungalla shooting was arrested by Kosgoda police, seizing 31 grams of heroin. The incident involved two unidentified men on a motorbike who broke into a house and killed a man near Ahungalla police division.
-
-🟩
-
-Police have arrested a suspect in connection with the Ahungalla shooting incident.
-
-The suspect was arrested by the Koskoda police on Sunday (26) in Bender Kahpiliyakanda.
-
-During this time, police said that 31 grams of 410 milligrams of heroin had been seized from the suspect.
-
-Also, on the 08th of last month, two unidentified men who riding a motorbike in the Ahungalla police division, belonging to the Ahungalla police division, have broken into a house and shot dead a man.
-
-◼️
-
-[Data](articles/69ea98d3.json)
-
-[Extended Data](ext_articles/69ea98d3.ext.json)
 
 ---

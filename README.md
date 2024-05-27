@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-27 18:52:57**
+As of **2024-05-27 19:03:32**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,267
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,619 (100.0%) of 26,621 articles have been extended.
+26,621 (100.0%) of 26,621 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,21 +46,31 @@ These applications must be recommended by the Grama Seva Officer, Divisional Sec
 
 [Data](articles/289f1ff4.json)
 
+[Extended Data](ext_articles/289f1ff4.ext.json)
+
 ---
 
-### වතු වැටුප ගැන තේ වතු හිමියන්ගේ සංගමය තීරණයක් ගනී
+### Tea Estate Association declares a decision on estate salary
 
 *2024-05-27 18:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197079) · `si`
 
-රජය යෝජනා කළ පරිදි වතු සේවකයින් සඳහා ඉදිරිපත් කළ රුපියල් 1,700ක වැටුප් වැඩිවීම ලබාදිය නොහැකි බව තේ වතු හිමියන්ගේ සංගමය පවසයි.
+The Tea Estate Association opposes a government-mandated Rs 1,700 salary hike for estate workers, arguing it could harm small tea and rubber estate owners and disrupt industry operations. Mr. Roshan Rajadoraherai stated the decision was made without consulting the industry, potentially threatening workers' livelihoods across Sri Lanka.
 
-එහි මාධ්‍ය ප්‍රකාශක රොෂාන් රාජදොරෙයි මහතා පැවසුවේ තේ වතු හිමියන්ගෙන් කරුණු විමසීමකින් තොරව අදාළ වැටුප් වැඩි කිරීමට රජය තීරණය කර ඇති බවය.
+🟩
 
-අද (27) පැවති මාධ්‍ය හමුවකට එක්වෙමින් රොෂාන් රාජදොරෙයි මහතා එම අදහස් පළකළේය.
+The tea estate Association says it cannot be paid Rs 1,700 salary increase for estate workers as the government has proposed.
 
-...
+The government has decided to increase the salaries of the relevant salaries without informing the tea estate owners.
+
+Speaking at a media briefing held today (27), Mr. Roshan Rajadoraherai expressed these views.
+
+"This decision has been taken regarding the needs of all stakeholders who are in the industry.. It is our belief that this decision does not receive any benefit from the tea and rubber industry in the country. In force of small tea and rubber estate owners and regional plantation companies to make such an unfair wage increments cannot be successful in slashing the basic operations requirements of the industry. In the moment, the livelihood of workers and communities throughout Sri Lanka throughout the entire estate is threatened with workers and communities throughout Sri Lanka. "
+
+◼️
 
 [Data](articles/fb13286f.json)
+
+[Extended Data](ext_articles/fb13286f.ext.json)
 
 ---
 

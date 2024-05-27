@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-27 08:10:19**
+As of **2024-05-27 08:19:04**
 
 ## Newspaper Stats
 
-*Scraped **26,460** Articles*
+*Scraped **26,468** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,63 @@ islandlk | 1,441
 economynextcom | 1,511
 dailyftlk | 1,550
 adalk | 2,247
-adaderanalk | 3,030
-tamilmirrorlk | 3,100
+adaderanalk | 3,031
+tamilmirrorlk | 3,102
 virakesarilk | 4,040
-dailymirrorlk | 4,176
+dailymirrorlk | 4,181
 adaderanasinhalalk | 4,238
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,460 (100.0%) of 26,460 articles have been extended.
+26,460 (100.0%) of 26,468 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-27 (Monday)
+
+### Fairly heavy showers expected in parts of the island
+
+*2024-05-27 08:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/99453/fairly-heavy-showers-expected-in-parts-of-the-island) · `en`
+
+The prevailing windy conditions are expected to continue further, due to the Southwest Monsoon condition, says the Met. Department.
+
+Showers or thundershowers will occur at times in Western, Sabaragamuwa, Central, North-western and Southern provinces.
+
+Fairly heavy showers of about 75 mm are likely at some places in Western and Sabaragamuwa provinces and in Nuwara-Eliya district.
+
+Showers or thundershowers will occur at several places in Uva and Eastern provinces in the evening or night, the Meteorology Department said.
+
+Strong winds of about 50-60 kmph can be expected at times over Western slopes of the central hills and in Northern, North-central, Western, Southern and North-western provinces and in Trincomalee district.
+
+Fairly strong winds about 30-40 kmph can be expected at times elsewhere of the island, it said.
+
+◼️
+
+[Data](articles/657f51ad.json)
+
+---
+
+### China, US, India, France compete for SL’s graphite deposits
+
+*2024-05-27 07:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/China-US-India-France-compete-for-SLs-graphite-deposits/155-283403) · `en`
+
+Colombo, May 27 (Daily Mirror) - In another example of the global spotlight on Sri Lanka’s strategic assets and resources, China, India, the United States and France are in a competition to secure investments in the country’s graphite sector, the Daily Mirror learns.
+
+This is in addition to Canadian and Australian companies involved in the industry at the moment.
+
+According to experts, Sri Lanka has high-quality vein graphite in rich deposits.
+
+Asked for a comment in this regard, Director General of the Geological and Mines Survey Bureau Prof. Ranjith Premasiri confirmed that companies from India and China are among the foreign investors interested in this sector in Sri Lanka at the moment.
+
+“We must see who is doing maximum value addition and who is using these for advanced Industrial applications. Also, we have over 3,000 abandoned pits in most parts of the country. So we can demand it,” he said.
+
+...
+
+[Data](articles/aa17abab.json)
+
+---
 
 ### The final decision on the death of the French Ambassador in Sri Lanka is the final decision today
 
@@ -314,6 +356,26 @@ The Ceylon Chamber of Commerce calls on all political parties to support the con
 
 ---
 
+### Labour Minister approves wage increase
+
+*2024-05-27 03:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Labour-Minister-approves-wage-increase/108-283399) · `en`
+
+As per a gazette notification issued last week by Ministry of Labour and Foreign Employment Secretary R. P. A. Wimalaweera, the Minister has approved the wage increase for plantation sector workers.
+
+The increase is applicable to both, Tea Growing and Manufacturing Trade and Rubber Cultivation and Raw Rubber Processing Trade with effect from 21 May 2024.
+
+“..., under Section 33(1)(a) of the Ordinance and published in Gazette Extraordinary No. 2381/35 of April 25,2024 the wage increase has been approved by Minister of Labour and Foreign Employment.
+
+The decision shall come into force on the 21st of May, 2024,” it said.
+
+On 25th of last month, Minister of Labour and Foreign Employment Manusha Nanayakkara issued a gazette notification granting permission for the Commissioner of Labour to determine a minimum wage for workers in the Tea Growing and Manufacturing Trade and Rubber Cultivation and Raw Rubber Processing Trade.
+
+...
+
+[Data](articles/106867a7.json)
+
+---
+
 ### Eran criticises Govt.’s revenue shortfall
 
 *2024-05-27 02:45:35* · [`dailyftlk`](https://www.ft.lk/news/Eran-criticises-Govt-s-revenue-shortfall/56-762209) · `en`
@@ -414,6 +476,22 @@ The dead elephants are believed to be five little elephants aged 8 to 10 and two
 
 ---
 
+### Tea smallholders express grave concerns over unprecedented wage hike
+
+*2024-05-27 02:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Tea-smallholders-express-grave-concerns-over-unprecedented-wage-hike/108-283400) · `en`
+
+Alarmed by the government’s move to increase the minimum daily wage without additional revenue streams and with no industry consultation, Sri Lanka’s tea smallholders, which account for over 75 percent of the tea production, expressed the grave concerns on the sustainability of the Ceylon tea industry.
+
+Speaking to Mirror Business, Medium Scale Tea Estate Owners Association Founding General Secretary Ushan Samarasinghe warned that small and medium estate owners in particular are hit by the wage increase.
+
+“The government needs to do their homework first; they need to show us new markets, so we can earn this additional revenue to pay our employees.  Otherwise, they will be forced to move into other crops. Already a large number of tea estate owners have moved to other crops, this will only accelerate this trend,” he said.
+
+...
+
+[Data](articles/25da4c6a.json)
+
+---
+
 ### Hydra-headed network of new institutions in Economic Transformation Bill
 
 *2024-05-27 01:57:48* · [`dailyftlk`](https://www.ft.lk/columns/Hydra-headed-network-of-new-institutions-in-Economic-Transformation-Bill/4-762194) · `en`
@@ -472,6 +550,24 @@ Water supply has been banned as the massive water leak in the water pipe on the 
 
 ---
 
+### ’மீள்குடியேற்றப்பட்ட மக்களுக்கு காணி உறுதிகள்’
+
+*2024-05-27 01:48:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீள்குடியேற்றப்பட்ட-மக்களுக்கு-காணி-உறுதிகள்/175-337939) · `ta`
+
+முல்லைத்தீவு மாவட்டத்தில் மீள்குடியேற்றம் என்பது பாரிய செயற்பாடாக மாறியுள்ளது. எனவே, மீள்குடியேற்றப்பட்ட மக்களுக்கு முழுமையான காணி உறுதிப் பத்திரம் வழங்கவும் நடவடிக்கை எடுத்து வருகிறோம் என்று ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+
+புதுக்குடியிருப்பு மத்திய மகா வித்தியாலயத்தில் நேற்று  முற்பகல் நடைபெற்ற வவுனியா மாவட்ட 'உறுமய' காணி உறுதி வழங்கும் நிகழ்ச்சியில் கலந்து கொண்டு உரையாற்றும் போதே ஜனாதிபதி மேற்கண்டவாறு குறிப்பிட்டார்.
+
+முல்லைத்தீவு மாவட்டத்தின் 5 பிரதேச செயலாளர் பிரிவுகளை உள்ளடக்கிய 600 முழுமையான காணி உறுதிப் பத்திரங்கள் இங்கு வழங்கப்பட்டதோடு, முல்லைத்தீவு மாவட்டத்திற்கு 'உறுமய' வேலைத்திட்டத்தின் கீழ் 1,376 இலவசப் பத்திரங்கள் வழங்கப்பட உள்ளன.
+
+ஜனாதிபதி என்ற வகையில் இன்று முல்லைத்தீவு மாவட்டத்திற்கு விஜயம் செய்யும் வாய்ப்பு கிடைத்தமைக்கு முதலில் எனது மகிழ்ச்சியை தெரிவித்துக் கொள்கிறேன். உறுமய காணி உறுதிப் பத்திரம் வழங்கும் திட்டத்தில் முல்லைத்தீவு மாவட்டத்திற்கு முக்கியமானது.
+
+...
+
+[Data](articles/597f9b1b.json)
+
+---
+
 ### A suspect arrested with heroin drug
 
 *2024-05-27 01:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/184562) · `ta`
@@ -525,6 +621,24 @@ This is the lowest number of teams in the history of the IPL.
 [Data](articles/96a59c56.json)
 
 [Extended Data](ext_articles/96a59c56.ext.json)
+
+---
+
+### சீரற்ற காலநிலையால் 45,509 பேர் பாதிப்பு
+
+*2024-05-27 01:31:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சீரற்ற-காலநிலையால்-45-509-பேர்-பாதிப்பு/175-337937) · `ta`
+
+சீரற்ற காலநிலை காரணமாக நாடளாவிய ரீதியில் 19 மாவட்டங்களைச் சேர்ந்த 45,509 பேர் பாதிக்கப்பட்டுள்ளதாக அனர்த்த முகாமைத்துவ நிலையம் தெரிவித்துள்ளது.
+
+அனர்த்தங்கள் காரணமாக 8 பேர் இதுவரையில் உயிரிழந்த நிலையில் 13 பேர் காயமடைந்துள்ளதாக அந்த நிலையம் குறிப்பிட்டுள்ளது.
+
+அதேநேரம், கடும் காற்று காரணமாக மரங்கள் முறிந்து வீழ்ந்தமையினால் 12 வீடுகள் முற்றாகவும் 3,166 வீடுகள் பகுதியளவிலும் சேதமடைந்துள்ளன.
+
+சீரற்ற காலநிலை காரணமாக, அதிகளவானோர் மேல் மாகாணத்திலேயே பாதிக்கப்பட்டுள்ளனர். மேல் மாகாணத்தில் மாத்திரம் 28,350 பேர் பாதிப்படைந்துள்ளனர். (a)
+
+◼️
+
+[Data](articles/e93a44ca.json)
 
 ---
 
@@ -765,6 +879,26 @@ Russian President Vladimir Putin’s state visit to China is more than a show of
 [Data](articles/3058b6c0.json)
 
 [Extended Data](ext_articles/3058b6c0.ext.json)
+
+---
+
+### Tourist arrivals to cross 100,000 mark in May
+
+*2024-05-27 00:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Tourist-arrivals-to-cross-100-000-mark-in-May/108-283394) · `en`
+
+Tourist arrivals to Sri Lanka are likely to surpass the 100,000 mark, while falling behind the target of 120,934 -131,112 arrivals in May.
+
+Provisional data released by the Sri Lanka Tourism Development Authority showed tourist arrivals recording a moderate growth reaching 79,431 in the first three weeks of the month (from 1st of May to 21st of May) when compared to 83,309 arrivals recorded in May last year.
+
+The daily arrival average is about 3,782, a drop from the 5,000 level experienced in the previous months.
+
+From April, till the summer season, the influx of tourists remains low, as it is an off-peak period. However, the visa fiasco might have also contributed to the drop in the month according to authorities.
+
+India became by far the largest tourist traffic generator for the month, accounting for 26 percent of the total arrivals. Ranking second is the Maldives, contributing to 11 percent of the arrivals.
+
+...
+
+[Data](articles/fe72199d.json)
 
 ---
 
@@ -1516,6 +1650,24 @@ The Welikada Police are investigating the incident, and a post-mortem examinatio
 
 ---
 
+### French Ambassador to Sri Lanka dies of suspected cardiac arrest
+
+*2024-05-26 18:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/French-Ambassador-to-Sri-Lanka-dies-of-suspected-cardiac-arrest/108-283370) · `en`
+
+Colombo, May 26 (Daily Mirror) - The French ambassador to Sri Lanka, Jean Francois Pactet, died of a suspected cardiac arrest at his official residence in Rajagiriya today.
+
+Police Spokesman DIG Nihal Thalduwa said the 53-year-old ambassador was found dead at his residence this morning.
+
+It was revealed that the ambassador did not come out of his room today, and when checked, he was found dead.
+
+The Welikada Police are investigating the incident, and a post-mortem examination is to be conducted.
+
+◼️
+
+[Data](articles/c0bd049b.json)
+
+---
+
 ### Ashraf Museum and mouth shot
 
 *2024-05-26 18:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/184553) · `ta`
@@ -1975,173 +2127,5 @@ The statement highlights the significant role of generals involved in the war ar
 [Data](articles/41176b82.json)
 
 [Extended Data](ext_articles/41176b82.ext.json)
-
----
-
-### Decisive positions that Muslims take
-
-*2024-05-26 17:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/184533) · `ta`
-
-Muslims express frustration over unfulfilled political promises and perceived corruption within their own parties and MPs, highlighting a growing discontent towards leaders and the political system.
-
-🟩
-
-Meanwhile, the most disgusting attitude towards the rulers and the MPs they voted has been burning day by day in Muslim areas.. Political parties and Muslim MPs are being cheated as a continuation of Muslims. No promises made by Muslim parties and their MPs have been fulfilled yet. MPs of the Muslim parties have maintained a lot of intimacy with the presidents who have been elected from time to time.
-
-◼️
-
-[Data](articles/9f554754.json)
-
-[Extended Data](ext_articles/9f554754.ext.json)
-
----
-
-### French Ambassador to Sri Lanka Jean-François Pactet passes away
-
-*2024-05-26 17:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/99449/french-ambassador-to-sri-lanka-jean-franois-pactet-passes-away-) · `en`
-
-The Ambassador of France to Sri Lanka and Maldives, Jean-François Pactet, has reportedly passed away in his official residence in Rajagiriya today (26).
-
-Ambassador Pactet had passed away due to a sudden illness, according to sources.
-
-Born in 1970, Jean-François Pactet had served as Ambassador of France to Sri Lanka and the Maldives since October 2022.
-
-A career diplomat, he had previously served as Deputy Director of Culture and Education in the French Ministry of Foreign Affairs.
-
-Prior to this, Jean-François Pactet had been posted at the French Embassy to the United States in Washington (2012-2016) and at the French Permanent Representation to NATO in Brussels. He was also a Deputy Spokesman for the Ministry of Foreign Affairs of France.
-
-◼️
-
-[Data](articles/6bf45bfb.json)
-
-[Extended Data](ext_articles/6bf45bfb.ext.json)
-
----
-
-### History does not forgive
-
-*2024-05-26 17:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/184541) · `ta`
-
-Senathirajah, Sridharan, and Ariyanendran backed a Tamil presidential candidate but pledged collective decision-making. Opposing them were MA. Sumanthiran, Charles Nirmalanathan, and CVK. Sivagnanam, who criticized the common candidate strategy.
-
-🟩
-
-Senathirajah, Sridharan and Ariyanendran openly supported the attempt to field a Tamil candidate in the presidential election. However, they had promised to make a decision as a party. As well as the MA. Sumanthiran and Charles Nirmalanathan strongly opposed the common candidate's plan. CVK. Sivagnanam also expressed his views.
-
-◼️
-
-[Data](articles/886b72d0.json)
-
-[Extended Data](ext_articles/886b72d0.ext.json)
-
----
-
-### The fall of world order
-
-*2024-05-26 17:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/184540) · `ta`
-
-Tamil demands for international justice face domestic and mixed mechanisms instead of direct international support. Amnesty International's Secretary General, Agnes Kalamart, highlighted this issue during a press conference in Colombo, focusing on the Mullivaikkal massacre.
-
-🟩
-
-Only the Tamil people who are demanding international justice are only extended the domestic mechanism and the mixed mechanism. ”The Secretary General of the Amnesty International, Agnes Kalamart, held a press conference in Colombo at the end of her visit.. Based on issues, he shared his comments at a press conference based on matters- Mullivaikkal's assassination.
-
-◼️
-
-[Data](articles/32037918.json)
-
-[Extended Data](ext_articles/32037918.ext.json)
-
----
-
-### Sri Lanka tea production down 15-pct in April over scorching sun
-
-*2024-05-26 17:56:00* · [`economynextcom`](https://economynext.com/sri-lanka-tea-production-down-15-pct-in-april-164780/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s tea production fell 14.95 percent in April 2024 from a year ago to 21.46 million kilograms, led by high growns, industry data shows.
-
-“There was hardly any rain in tree growing areas in March which affects the crop,” a tea industry official said.
-
-“After the rains from later April, crop is improving in May.”
-
-High grown tea production fell from 6.49 million kilograms to 4.58 million kilograms, according to industry data published by Ceylon Tea Brokers, a Colombo-based commodities brokerage.
-
-Medium growns fell from 4.51 to 3.55 and low growns fell to 13.32 from 14.92 million kilograms.
-
-Tea production for the first four months were down 6.2 percent to 79.7 million kilograms, with growth seen up to the first quarter. (Colombo/May26/2024)
-
-◼️
-
-[Data](articles/7212e7e5.json)
-
-[Extended Data](ext_articles/7212e7e5.ext.json)
-
----
-
-### Sri Lanka tea production down 15-pct in April over scorching sun
-
-*2024-05-26 17:56:00* · [`economynextcom`](https://economynext.com/sri-lanka-tea-production-down-15-pct-in-april-over-scorching-sun-164780/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s tea production fell 14.95 percent in April 2024 from a year ago to 21.46 million kilograms, led by high growns, industry data shows.
-
-“There was hardly any rain in tree growing areas in March which affects the crop,” a tea industry official said.
-
-“After the rains from later April, crop is improving in May.”
-
-High grown tea production fell from 6.49 million kilograms to 4.58 million kilograms, according to industry data published by Ceylon Tea Brokers, a Colombo-based commodities brokerage.
-
-Medium growns fell from 4.51 to 3.55 and low growns fell to 13.32 from 14.92 million kilograms.
-
-Tea production for the first four months were down 6.2 percent to 79.7 million kilograms, with growth seen up to the first quarter. (Colombo/May26/2024)
-
-◼️
-
-[Data](articles/94bf1c3e.json)
-
-[Extended Data](ext_articles/94bf1c3e.ext.json)
-
----
-
-### Relationships of missing persons who have shown a black flag in protest of President's Vavuniya visit:
-
-*2024-05-26 17:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/184545) · `ta`
-
-Relatives of missing persons protested President Ranil Wickremesinghe's Vavuniya visit by displaying black flags. During his visit to the hospital and district secretariat, some mothers opposed his presence, leading to a confrontation where they were removed by police, altering the meeting's location.
-
-🟩
-
-The black flag was shown by relatives of the missing persons in protest of President Ranil Wickremesinghe's visit to Vavuniya.
-
-President Ranil Wickremesinghe visited the Vavuniya Hospital and the District Secretariat on Sunday afternoon and some mothers from the Vavuniya District Missing Association expressed their opposition to the President's arrival in front of the District Secretariat.
-
-At this time, the police and the Task Force were mobilized and forbidden to let the mothers unload the street.. After a while, the police had evicted the mothers who were trying to go to the District Secretariat gate.For this reason, the president's meeting was in front of the District Secretariat until the end of the meeting.
-
-◼️
-
-[Data](articles/1fae0c55.json)
-
-[Extended Data](ext_articles/1fae0c55.ext.json)
-
----
-
-### Israel attacks rockets
-
-*2024-05-26 17:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197031) · `si`
-
-In a rare escalation, Palestinian Hamas militants launched rockets at Tel Aviv, marking their first attack on Israel in four months. The rockets were fired from the Ruffa area, signaling a significant development in the ongoing conflict.
-
-🟩
-
-It is reported that Palestinian Hamas militants had launched rockets at Tel Amavia town in Israel.
-
-For about four months, Hamas militants had launched rockets to Israel for the first time.
-
-Hamas militants have said that they had launched the attacks from Ruffa area.
-
-◼️
-
-[Data](articles/b5d39e3d.json)
-
-[Extended Data](ext_articles/b5d39e3d.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-27 12:34:16**
+As of **2024-05-27 12:52:15**
 
 ## Newspaper Stats
 
-*Scraped **26,525** Articles*
+*Scraped **26,530** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,69 +16,159 @@ islandlk | 1,441
 economynextcom | 1,514
 dailyftlk | 1,550
 adalk | 2,253
-adaderanalk | 3,039
-tamilmirrorlk | 3,116
+adaderanalk | 3,040
+tamilmirrorlk | 3,117
 virakesarilk | 4,046
-dailymirrorlk | 4,185
+dailymirrorlk | 4,188
 adaderanasinhalalk | 4,251
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,521 (100.0%) of 26,525 articles have been extended.
+26,525 (100.0%) of 26,530 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-27 (Monday)
 
-### කටුනායක ගුවන්තොටුපොළට පැමිණෙන වාහන සඳහා වැදගත් නිවේදනයක්
+### பொலிஸாரின் விரலை கடித்து தப்பி ஓடிய ஹந்தயா
+
+*2024-05-27 12:30:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பொலிஸாரின்-விரலை-கடித்து-தப்பி-ஓடிய-ஹந்தயா/76-337965) · `ta`
+
+ஈஸி கேஸ் முறையில் ஹெரோயின் போதைப்பொருள் விற்பனையில் ஈடுபட்டு வரும் ஹந்தயா என அழைக்கப்படும் சந்தேகநபர், அவரை சோதனையிட சென்ற பொலிஸ் பரிசோதகரின் விரலை கடித்து அருகில் உள்ள கால்வாயில் குதித்து தப்பிச்சென்றதாக ருவன்வெல்ல பொலிஸார் தெரிவித்துள்ளனர் .
+
+பொலிஸாருக்கு கிடைக்கப்பெற்ற ரகசிய தகவலுக்கமைய ருவன்வெல்ல அட்டுலுகம பிரதேசத்தில் உள்ள விடுதி ஒன்றின் அருகில் வைத்து குறித்த நபரை பிடித்து சோதனை செய்ய முற்பட்ட போதே,  இவ்வாறு பொலிஸ் பிடியில் இருந்து தப்பிச் சென்றுள்ளார் .
+
+குறித்த சந்தேக நபர் , பதிவு செய்யப்பட்ட குற்றவாளிகள் பட்டியலில் உள்ள ஒருவர் என பொலிஸார் தெரிவித்துள்ளனர் .
+
+மேலும் காயமடைந்த பொலிஸ் பரிசோதகர் கரவனெல்ல ஆதார வைத்தியசாலையில் சிகிச்சைக்காக அனுமதித்துள்ளதாகவும் சந்தேக நபரை கைது செய்வதற்கான நடவடிக்கை மேற்கொண்டு வருவதாகவும் ருவன்வெல்ல பொலிஸார் தெரிவித்துள்ளனர் .
+
+◼️
+
+[Data](articles/9a2c0b3a.json)
+
+---
+
+### Driverless vehicles banned from parking at BIA arrivals lounge
+
+*2024-05-27 12:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Driverless-vehicles-banned-from-parking-at-BIA-arrivals-lounge/108-283438) · `en`
+
+Colombo, May 27 (Daily Mirror) - A decision has been taken not to allow vehicles without drivers to be parked in the arrivals lounge premises at the Bandaranaike International Airport (BIA), Airport and Aviation Services (Sri Lanka) (Private) Limited (AASL) announced today.
+
+In the notice, AASL Chairman Engineer Athula Galketiya said the decision to prohibit vehicles without drivers from being parked in the arrivals lounge premises at Bandaranaike International Airport (BIA) was made to alleviate traffic congestion and streamline vehicular movements.
+
+Vehicles are required to arrive at the arrivals lounge only at the designated times for pickups. No permission will be granted to park any vehicle in the arrivals lounge for more than 30 minutes, even with the driver being present, Chairman Galketiya said.
+
+He said vehicles parked for more than 30 minutes at the arrivals lounge, causing traffic congestion and disregarding the orders, will be charged an extra fee upon leaving the airport.
+
+...
+
+[Data](articles/88ae8ab8.json)
+
+---
+
+### Met. Dept. issues advisories for strong winds and heavy rain
+
+*2024-05-27 12:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/99462/met-dept-issues-advisories-for-strong-winds-and-heavy-rain) · `en`
+
+The Department of Meteorology has issued an advisory for strong winds for the Northern, North-central, Western, Southern, North-western and Central provinces and in Trincomalee and Monaragala districts.
+
+It states that strong winds of about 50-60kmph can be expected at times over Western slopes of the central hills and in Northern, North-central, Western, Southern and North-western provinces and in Trincomalee and Monaragala districts, due to the increase of south-west monsoonal wind flow over the island.
+
+Fairly strong winds of about 30-40kmph can be expected at times elsewhere of the island, says the Met. Department.
+
+Meanwhile, in a separate advisory for heavy rain, the department said the prevailing rain and wind conditions are expected to continue further due to the south-west monsoon that has established over the island.
+
+Heavy showers above 100 mm are likely at some places in Western and Sabaragamuwa provinces and in Nuwara-Eliya district.
+
+...
+
+[Data](articles/29406301.json)
+
+---
+
+### New political movement ‘Sarvajana Balaya’ launched in Colombo
+
+*2024-05-27 12:18:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/New-political-movement-Sarvajana-Balaya-launched-in-Colombo/108-283436) · `en`
+
+Colombo, May 27 (Daily Mirror)- Several political parties including the National Freedom Front (NFF) led by MP Wimal Weerawansa, Pivithuru Hela Urumaya (PHU) led by MP Udaya Gammanpila and several civil oraganisations formed a new political movement  named ‘Sarvajana Balaya’ this morning.
+
+They signed the agreement to form the movement  in Colombo this morning.
+
+The Mawbima Janatha Party (MJP), the Democratic Left Front, the Communist Party and the Independent MP’s Forum led by MP Channa Jayasumana are among the other political groups which signed the agreement.
+
+◼️
+
+[Data](articles/eeed1767.json)
+
+---
+
+### An important announcement for vehicles attending the Katunayake airport
 
 *2024-05-27 12:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197062) · `si`
 
-කටුනායක ගුවන්තොටුපොළේ පැමිණීම් පර්යන්තය පිටත වාහන නවතා තැබීම ක්‍රමවත් කිරීම සඳහා ගුවන්තොටුපොළ සහ ගුවන්සේවා සමාගම පියවර ගෙන තිබේ.
+Katunayake airport prohibits unattended vehicles from dropping off immigration passengers due to security reasons. A special fee applies for stays over 30 minutes to prevent misuse and control unauthorized entry.
 
-ඒ අනුව රියදුරෙක් නොමැතිව වාහන එම ස්ථානයේ නවතා තැබීම තහනම් වන අතර ආගමන ගුවන් මගීන් රැගෙන යෑමට පැමිණි වාහන අදාළ රථගාල් වල සිට නියමිත වේලාවට පමණක් පැමිණීමේ පර්යන්තය පිටතට පැමිණිය යුතුය.
+🟩
 
-රියදුරු සහිතව ද පරිශ්‍රය තුළ වාහන තදබදයක් ඇතිවන පරිදි විනාඩි 30කට වඩා එම ස්ථානයේ ගැවසෙන වාහන සඳහා ගුවන්තොටුපොළ පරිශ්‍රයෙන් පිටතට යනවිට විශේෂ ගාස්තුවක් අයකරන බව ගුවන්තොටුපොළ සහ ගුවන්සේවා සමාගම පැවසීය.
+Airport and Aviation Company has taken steps to electronically stop vehicles out of the Katunayake airport.
 
-මෙහි අරමුණ වන්නේ අයථා වාහන සහ පුද්ගලයින් ගුවන්තොටුපොළ පරිශ්‍රයට පැමිණීම පාලනය කිරීම බව එම සමාගම වැඩිදුරටත් පෙන්වාදුනි.
+Accordingly, vehicles without a driver is prohibited to stop the vehicles to carry on immigration passengers, from the cargoes from the cars.
+
+The airport and Aviation Company said that a special fee is levied for more than 30 minutes in the premises of the premises in the premises.
+
+The objective is that the inailing of misuse and individuals are controlled by the arrival of the airport premises.
 
 ◼️
 
 [Data](articles/9170ebba.json)
 
+[Extended Data](ext_articles/9170ebba.ext.json)
+
 ---
 
-### பிரான்ஸ் நாட்டில் அமைச்சர் மஹிந்த அமரவீர
+### Minister Mahinda Amaraweera in France
 
 *2024-05-27 12:13:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரான்ஸ்-நாட்டில்-அமைச்சர்-மஹிந்த-அமரவீர/175-337962) · `ta`
 
-விவசாய மற்றும் பெருந்தோட்ட கைத்தொழில் அமைச்சர் மஹிந்த அமரவீர பிரான்ஸ் நாட்டின் பாரிஸ் நகருக்குச் சென்று, விலங்குகள் ஆரோக்கியத்திற்கான உலக அமைப்பின் 100வது நினைவேந்தல் நிகழ்வில் பங்குபற்றினார்.
+Mahinda Amaraweera, Sri Lanka's Minister of Agriculture, attended the 100th anniversary of the World Organization for Animal Health in Paris, France, alongside Hemali Kotalawala from the Department of Livestock Manufacturing and Health. They were invited by Hugo Idoyaga Benitez, the Director General of the World Animal Health Organization, to discuss global animal health initiatives.
 
-கால்நடை உற்பத்தி மற்றும் சுகாதார திணைக்களத்தின் பணிப்பாளர் நாயகம் ஹேமலி கொத்தலாவல உள்ளிட்ட குழுவினரும் குறித்த மாநாட்டில் பங்கேற்றுள்ளனர்.
+🟩
 
-உலக விலங்கு சுகாதார அமைப்பின் இயக்குநர் ஜெனரல் டாக்டர். Hugo Idoyaga Benitez அழைப்பின் பேரில், அமைச்சர் மற்றும் பிரதிநிதிகள் இந்த மாநாட்டில் பங்கேற்றுள்ளமை குறிப்பிடத்தக்கது.
+Minister of Agriculture and Plantation Industries Mahinda Amaraweera traveled to Paris, France and participated in the 100th commemoration event of the World Organization for Animal Health.
+
+The Director General of the Department of Livestock Manufacturing and Health Hemali Kotalawala also participated in the conference.
+
+Director General of the World Animal Health Organization. At the invitation of Hugo Idoyaga Benitez, the minister and representatives participated in the conference.
 
 ◼️
 
 [Data](articles/2b22e6d9.json)
 
+[Extended Data](ext_articles/2b22e6d9.ext.json)
+
 ---
 
-### களு துஷாராவின் மகன் கைது
+### Kalu Dushara's son arrested
 
 *2024-05-27 12:06:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/களு-துஷாராவின்-மகன்-கைது/175-337961) · `ta`
 
-2012ஆம் ஆண்டு வெலிக்கடை சிறைச்சாலையில் இடம்பெற்ற கலவரத்தின் போது உயிரிழந்த , பாதாள உலகக் குழு உறுப்பினரான மஹரகம களு துஷாரவின் மகன் அவரது நண்பர்கள் மூவருடன் ,  மாத்தறை, பிக்வெல்ல பிரதேசத்தில் உள்ள விடுதி ஒன்றில் வைத்து ஞாயிற்றுக்கிழமை (25) கைது செய்யப்பட்டுள்ளார் .
+Son of underworld figure Kalu Dushara, arrested in Matara for possession of heroin and narcotics, along with three others who claimed to be there for a party.
 
-பொலிஸாருக்கு கிடைக்கப்பெற்ற தகவலுக்கமைய மேற்கொண்ட தேடுதலின் போதே குறித்த நால்வர் கைது செய்யப்பட்டுள்ளதுடன் இதன்போது அவர்களிடமிருந்து ஹெரோயின் போதைப்பொருள் மற்றும் போதை குளிசைகள் அடங்கிய பொதி ஒன்றும், வெளிநாட்டில் தயாரிக்கப்பட்ட துப்பாக்கி ஒன்றும்  மீட்கப்பட்டுள்ளது .
+🟩
 
-கைது செய்யப்பட்ட நால்வரும் , விருந்தொன்றை ஏற்பாடு செய்வதற்கும் துப்பாக்கியில் சிக்கியிருந்த சன்னங்களை அகற்றுவதற்கும் கொழும்பில் இருந்து மாத்தறைக்கு  வந்ததாக பொலிஸாரிடம் தெரிவித்துள்ளனர்.
+The son of Maharagama Kalu Dushara, a member of the underworld group, who died during a riot at the Welikada Prison in 2012, was arrested on Sunday (25) at a hostel in Pickwela, Matara.
+
+Four people have been arrested during the search for information available to the police and a packet of heroin and narcotics has been recovered from them.
+
+The four arrested have told police that they came from Colombo to Matara to arrange a party and remove the rifles.
 
 ◼️
 
 [Data](articles/ea184545.json)
+
+[Extended Data](ext_articles/ea184545.ext.json)
 
 ---
 
@@ -100,21 +190,29 @@ China's earthquake information stated that there was a powerful earthquake in Mo
 
 ---
 
-### නිල නිවස තුලදී ප්‍රංශ තානාපති අභිරහස් ලෙස මියගිහින්
+### French ambassador mysterious deaths in the official residence
 
 *2024-05-27 11:51:00* · [`adalk`](https://www.ada.lk/breaking_news/නිල-නිවස-තුලදී-ප්‍රංශ-තානාපති-අභිරහස්-ලෙස-මියගිහින්/11-409838) · `si`
 
+Jean Francois Packet, the French Ambassador in Sri Lanka since October 2022, was found dead in his official residence's bedroom. His body was discovered by security officers who were alerted after he did not wake up in the morning. The cause of death remains unknown, adding to the mystery surrounding his passing. Local police conducted a post-mortem examination on the 26th night. The embassy awaits a decision from France regarding the ambassador's replacement and funeral arrangements.
+
+🟩
+
 ශ්‍රී ලංකාවේ ප්‍රංශ තානාපති ජින් ෆැන්කොයිස් පොක්ටෙට් මහතා රාජගිරියේ පිහිටි ඔහුගේ නිල නිවෙසේ නිදන කාමරයේ ඇඳක් මත මියගොස් සිටිය දී ඊයේ (26) දින දහවල් සොයාගෙන තිබූ අතර 53 හැවිරිදි ඔහුගේ මරණය තවම අභිරහසකි.
 
-ජීන් ෆ්රැන්කොයිස් පැක්ටේට් මහතා 2022 ඔක්තෝම්බර් මාසයේ සිට ශ්‍රී ලංකාවේ, ප්‍රංශ තානාපතිවරයා ලෙස කටයුතු කරමින් සිට ඇත.
+Jean Francois Packet was served as the French Ambassador in Sri Lanka from October 2022.
 
 ප්‍රංශ තානාපතිවරයා තනිවම  නිල නිවාසයේ වාසය කරමින් සිටි අතර තානාපතිවරයා උදෑසන අවදි නොවීම නිසා ප්‍රංශ තානාපති කාර්යාලයේ  ආරක්ෂක නිලධාරින් ඒ ගැන විපරම් කර බැලීමේ දී සිරුර නිදන කාමරයේ ඇඳ මත තිබෙනු දැක ඔහුගෙන් ප්‍රතිචාර නොමැති නිසා  වැලිකඩ පොලිසියට දැනුම් දී ඇත. මරණයට හේතු තවමත් අනාවරණය වී නොමැත.
 
-මරණය සම්බන්ධයෙන් වන ස්ථානීය මරණ පරීක්ෂණය ඊයේ (26) රාත්‍රියේ දී සිදුකර තිබෙයි. පශ්චාත් මරණ පරීක්ෂණයක් පවත්වා තානාපතිවරයාගේ මරණයට හේතු සොයා ගැනීමට වැලිකඩ පොලිසිය කටයුතු යොදා ඇත.
+මරණය සම්බන්ධයෙන් වන ස්ථානීය මරණ පරීක්ෂණය ඊයේ (26) රාත්‍රියේ දී සිදුකර තිබෙයි. The Welikada Police have taken steps to conduct a post mortem and finding the reasons for the Ambassador's death.
 
-...
+The Embassy has not been given to the final decision on the ambassador and the decision will be taken back to France, or whether the funeral will be brought back to France.
+
+◼️
 
 [Data](articles/9f6555fd.json)
+
+[Extended Data](ext_articles/9f6555fd.ext.json)
 
 ---
 
@@ -281,6 +379,22 @@ Therefore, the faction led by former President Sirisena has deemed it more appro
 [Data](articles/8c638b40.json)
 
 [Extended Data](ext_articles/8c638b40.ext.json)
+
+---
+
+### Shooting incident reported near school in Matara
+
+*2024-05-27 11:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Shooting-incident-reported-near-school-in-Matara/108-283437) · `en`
+
+Colombo, May 27 - A shooting incident was reported near the Pathegama Model Primary School in Matara a short while ago.
+
+According to information received, the shooting targeted a suspect involved in a murder case. No one was reportedly injured in the shooting.
+
+Police said the gunmen fled the scene and further investigations are underway.
+
+◼️
+
+[Data](articles/f069bd13.json)
 
 ---
 
@@ -2097,107 +2211,5 @@ Legality: Post-dated cheques are generally legal and considered negotiable instr
 [Data](articles/0224d210.json)
 
 [Extended Data](ext_articles/0224d210.ext.json)
-
----
-
-### China and Russia together: A new world order?
-
-*2024-05-27 00:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/China-and-Russia-together-A-new-world-order/172-283380) · `en`
-
-The vision of Putin and Xi Jinping is not about creating a new empire challenging the American version. But they want to be taken seriously
-
-China is more ambitious about countering American power through trade. This is where Xi Jinping is walking a fine line between Russia and Western Europe (the European Union)
-
-Russian President Vladimir Putin’s state visit to China is more than a show of friendship and unity in adversity. It shows ambition on both sides to create a new multi-polar world order challenging the unipolar status enjoyed by the United States since the dismemberment of the former USSR, ending decades of bipolar politics, the Cold War and détente.
-
-...
-
-[Data](articles/3058b6c0.json)
-
-[Extended Data](ext_articles/3058b6c0.ext.json)
-
----
-
-### Tourist arrivals to cross 100,000 mark in May
-
-*2024-05-27 00:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Tourist-arrivals-to-cross-100-000-mark-in-May/108-283394) · `en`
-
-Tourist arrivals to Sri Lanka are likely to surpass the 100,000 mark, while falling behind the target of 120,934 -131,112 arrivals in May.
-
-Provisional data released by the Sri Lanka Tourism Development Authority showed tourist arrivals recording a moderate growth reaching 79,431 in the first three weeks of the month (from 1st of May to 21st of May) when compared to 83,309 arrivals recorded in May last year.
-
-The daily arrival average is about 3,782, a drop from the 5,000 level experienced in the previous months.
-
-From April, till the summer season, the influx of tourists remains low, as it is an off-peak period. However, the visa fiasco might have also contributed to the drop in the month according to authorities.
-
-India became by far the largest tourist traffic generator for the month, accounting for 26 percent of the total arrivals. Ranking second is the Maldives, contributing to 11 percent of the arrivals.
-
-...
-
-[Data](articles/fe72199d.json)
-
-[Extended Data](ext_articles/fe72199d.ext.json)
-
----
-
-### Presidential pardons -for whose benefit? - EDITORIAL
-
-*2024-05-27 00:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Presidential-pardons-for-whose-benefit-EDITORIAL/172-283379) · `en`
-
-The large-scale pardoning of prisoners by Lankan Presidents for the commission of minor crimes has become customary during particular festivals, for example the day marking the country’s independence, Vesak and Christmas.
-
-Often these pardons have been granted to persons who were among those taken in for commission of petty criminal activity.
-
-The Task Force on Judicial and Legal Causes for Prison Overcrowding and Prison Reforms reveals that nearly 52 percent of the prison population consists of persons unconvicted of any crime.
-
-While the total prison capacity in the country in 2022 stood at 11,291 inmates, the report added the number of imprisoned reached 26,176 individuals by the end of 2022. The number comprised 16,727 suspects and 9,449 convicts.
-
-To make matters worse, during these trying times, the state spends around Rs. 8.3 billion to look after the prisoners.
-
-Given these circumstances, many of our people hardly ever opposed the freeing of prisoners by the head of state.
-
-...
-
-[Data](articles/29d5cfd6.json)
-
-[Extended Data](ext_articles/29d5cfd6.ext.json)
-
----
-
-### 2024-05-26 (Sunday)
-
-### Yupun Abeykoon sprinting towards Paris 2024
-
-*2024-05-26 23:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Yupun-Abeykoon-sprinting-towards-Paris-2024/108-283375) · `en`
-
-Colombo, May 26 (Daily Mirror) - South Asia’s fastest sprinter and 2022 Birmingham Commonwealth Games Bronze Medallist Yupun Abeykoon is set to compete in four to five international meets in the next five weeks, Sri Lanka Athletic (SLA ) sources revealed.
-
-Abeykoon is currently in a season-best of 95th position according to the Men’s 100m Paris Olympic Games Rankings while only 56 athletes will be selected for the event after the deadline on June 30.
-
-Abeykoon, who is chasing an elusive Paris Olympic Games qualifying spot, has so far participated in four international meets and clocked a season-best time of 10.15s at the Anhalt 2024 Athletic event in Dessau, Germany.
-
-Abeykoon won the Men’s 100m event at this meet while clocking 10.16s.
-
-Earlier, at the UAE Grand Prix in Dubai, he finished the Men’s 100m event with a time of 10.18s and secured third place and clocked 10.21s to finish in fourth place at the Roma Sprint Festival 2024.
-
-...
-
-[Data](articles/70667c23.json)
-
-[Extended Data](ext_articles/70667c23.ext.json)
-
----
-
-### Gamini Karunathilake Offers Practical Handbook On Credit Evaluation
-
-*2024-05-26 23:39:21* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/gamini-karunathilake-offers-practical-handbook-on-credit-evaluation/) · `en`
-
-Professionals in retirement are used to sharing their experiences in the form of manuals or handbooks with readers. Bankers have been very generous in doing so. The latest to add his name to this group of bankers has been Gamini Karunathilake who had been a senior officer of the Bank of Ceylon and later, the Managing Director of its subsidiary, Merchant Bank of Sri Lanka. He has released the second of such books under the title ‘Principles of Bank Credit Evaluation and Credit Structuring: A Practical Approach’. His first book has also been in the same theme, ‘The Law and Practice of Bank Securities and Recoveries’, published in 2018.
-
-...
-
-[Data](articles/e81db453.json)
-
-[Extended Data](ext_articles/e81db453.ext.json)
 
 ---

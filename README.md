@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-28 00:33:53**
+As of **2024-05-28 00:50:06**
 
 ## Newspaper Stats
 
-*Scraped **26,653** Articles*
+*Scraped **26,655** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,16 +19,50 @@ adalk | 2,270
 adaderanalk | 3,054
 tamilmirrorlk | 3,125
 virakesarilk | 4,076
-dailymirrorlk | 4,206
+dailymirrorlk | 4,208
 adaderanasinhalalk | 4,273
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,652 (100.0%) of 26,653 articles have been extended.
+26,653 (100.0%) of 26,655 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-05-28 (Tuesday)
+
+### Israel reportedly agrees to  resume talks
+
+*2024-05-28 00:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Israel-reportedly-agrees-to-resume-talks/172-283463) · `en`
+
+Under international pressure Israel has reportedly agreed to resume talks on a solution to the Gaza crisis. Widespread support for Palestine, the ruling of the ICJ, arrest warrants sought by the ICC and US prodding have forced Israel to bend, even if only slightly.
+
+Times of Israel (TOI) reported last week that Israel, the United States and Qatar have agreed to renew talks on a hostage deal and truce with Hamas, the paper said. Talks were suspended in April.
+
+TOI further said that the fresh negotiations will be based on a new outline negotiated in Paris by CIA Director William Burns, Mossad Chief David Barnea, and Qatari Prime Minister Mohammed bin Abdulrahman bin Jassim Al Thani.
+
+In line with this, the Israeli war Cabinet expanded the mandate of the team negotiating a deal for the release of hostages held by Hamas, TOI said.
+
+...
+
+[Data](articles/63993893.json)
+
+---
+
+### Leaders of North and South should think afresh - EDITORIAL
+
+*2024-05-28 00:18:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Leaders-of-North-and-South-should-think-afresh-EDITORIAL/172-283462) · `en`
+
+Like a ritual, the United Nations Human Rights Council has been issuing reports annually on the human rights situation in Sri Lanka since 2012 while in some years adopting resolutions on the same, expressing displeasure over the commitment of the Sri Lankan government to implement the recommendations of those reports and the resolutions.
+
+The Sri Lankan government too, like a ritual, has been rejecting the observations of those reports and the resolutions while making halfhearted attempts to implement the recommendations of them.
+
+...
+
+[Data](articles/ef0d58f5.json)
+
+---
 
 ### 2024-05-27 (Monday)
 
@@ -63,6 +97,8 @@ The gravity and importance of transparency and effectiveness of CIABOC for the v
 ...
 
 [Data](articles/451bbe9a.json)
+
+[Extended Data](ext_articles/451bbe9a.ext.json)
 
 ---
 
@@ -2293,55 +2329,5 @@ Since it is notified, it has been instructed to caterin as cerened by fishing an
 [Data](articles/c2991c94.json)
 
 [Extended Data](ext_articles/c2991c94.ext.json)
-
----
-
-### Seven elephants dying in the water of the moon bread
-
-*2024-05-27 13:09:05* · [`adalk`](https://www.ada.lk/breaking_news/හඳ-පාන්-විලේ-ජලයේ-ගිලී-වන-අලි-හත්-දෙනෙක්-මිය-යයි/11-409844) · `si`
-
-Post-mortem exams were conducted on seven elephants found dead in a reservoir in Handapanwila, Polonnaruwa. The elephants, ranging from 8 to 35 years old, likely drowned after being chased out of the Water-Valley Nava National Park by wildlife authorities. Investigations are ongoing by the Wildlife Veterinary Unit.
-
-🟩
-
-The post mortem examination of the bodies of seven elephants killed in the Handapanwila Willa in the Handapanwila Waduna, Polonnaruwa was held today (27).
-
-Accordingly, three post mortem examinations have been completed by the bodies of three elephants in Soruwila, the Handapani demand forest reserve.
-
-The bodies of the 7 elephants in the mud were found on the two and the deaths of the seven elephants in the mud and yesterday.
-
-The deceased has been identified as five aged agents between 8 and 10 years and two elephants aged between 30 and 35 years.
-
-Wildlife officials say that the Water-Valley Nava National Park is a swarm of the wild elephants to be shifted across the Canal and has died and drowned.
-
-The death investigations are conducted by the Wildlife Veterinary Unit of the Polonnaruwa Palaya.
-
-◼️
-
-[Data](articles/c7c1e8b4.json)
-
-[Extended Data](ext_articles/c7c1e8b4.ext.json)
-
----
-
-### තවත් ගුවන්යානයක් වායු කැලඹීමකට හසුවෙයි
-
-*2024-05-27 13:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197064) · `si`
-
-A Qatar Airways flight from Doha to Ireland encountered turbulence, injuring six passengers and crew members. This incident follows another last week involving a Singapore Airlines plane from London to Singapore, where passenger death occurred due to similar turbulence.
-
-🟩
-
-Qatar Airways has been injured when Qatar Airways, which was flying in Ireland from Doha, who flying in Ireland.
-
-යානය නිරුපද්‍රිතව ගොඩබැස්වීමට එහි නියමුවන් සමත්ව තිබූ අතර තුවාල ලබා තිබුණේ මගීන් හය දෙනෙක් සහ කාර්යමණ්ඩල සාමාජිකයින් හය දෙනෙකි.
-
-පසුගිය සතියේදී සිංගප්පූරු ගුවන් සේවයට අයත් යානයක් ලන්ඩනයේ සිට සිංගප්පූරුව බලා පියාසර කරමින් තිබියදී මෙවැනිම වායු කැලඹීමකට හසුවීමෙන් ඇතිවූ කම්පනයෙන් එහි ගමන් කළ මගියෙක් මරණයට පත්වී තිබුණි.
-
-◼️
-
-[Data](articles/e05e4d4b.json)
-
-[Extended Data](ext_articles/e05e4d4b.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-27 08:53:02**
+As of **2024-05-27 09:05:31**
 
 ## Newspaper Stats
 
-*Scraped **26,473** Articles*
+*Scraped **26,474** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,35 +20,53 @@ adaderanalk | 3,032
 tamilmirrorlk | 3,102
 virakesarilk | 4,040
 dailymirrorlk | 4,183
-adaderanasinhalalk | 4,240
+adaderanasinhalalk | 4,241
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,469 (100.0%) of 26,473 articles have been extended.
+26,473 (100.0%) of 26,474 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-27 (Monday)
 
-### මියන්මාරයේ සහ රුසියාවේ සිරවී සිටින ශ්‍රී ලාංකිකයන් මුදාගන්න විපක්ෂයේ තිදෙනෙක් විදේශගත වෙයි
+### මාතර වෙඩිතැබීමක්
+
+*2024-05-27 08:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197052) · `si`
+
+මාතර වැලිගම බටවල පාතේගම ආදර්ශ ප්‍රාථමික විද්‍යාලය අසල වෙඩිතැබිමක් සිදුකර තිබේ.
+
+◼️
+
+[Data](articles/f5f45b80.json)
+
+---
+
+### Opposition abroad Sri Lankans trapped in Myanmar and Russia
 
 *2024-05-27 08:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197051) · `si`
 
-විපක්ෂයේ මන්ත්‍රීවරුන් තිදෙනෙකු අද (27) අලුයම තායිලන්තය බලා පිටත්ව ගොස් තිබේ.
+Three opposition members from Sri Lanka have traveled to Thailand to assist in rescuing diplomats and war veterans stranded in Myanmar and Russia, particularly those involved in cybercrime. The team includes Attorney-at-Law Wasantha Yapa Bandara and others, who are expected to return to Sri Lanka after completing their mission.
 
-ඒ, මියන්මාරයේ සයිබර් අපරාධ කලාපයේ ත්‍රස්ත ග්‍රහණයේ සිටින ශ්‍රී ලාංකිකයින් සහ රුසියානු - යුක්‍රේන යුද්ධයට මැදිවී රුසියාවේ සිටින ශ්‍රී ලාංකික රණවිරුවන් බේරාගෙන යළි ශ්‍රී ලංකාව වෙත රැගෙන ඒමේ රාජ්‍යතාන්ත්‍රික මෙහෙයුම සඳහා එම රටවල රාජ්‍යතාන්ත්‍රික නිලධාරීන් සහ තෙවන පාර්ශ්වයන් සමග සාකච්ඡා කර වැඩපිළිවෙළක් සකස් කිරීම සඳහාය.
+🟩
 
-මෙම විපක්ෂ මන්ත්‍රී කණ්ඩායමට නීතීඥ වසන්ත යාපා බණ්ඩාර, ජේ.සී. අලවතුවල සහ සුජිත් සංජය පෙරේරා යන මන්ත්‍රීවරුන් ඇතුළත් අතර ඔවුන් මියන්මාරයේ සහ රුසියාවේ දින 05 බැගින් ගත කරමින් මෙම මෙහෙයුම දියත් කිරීමට නියමිතය.
+Three opposition members have left for Thailand today (27).
 
-මන්ත්‍රීවරුන් පිරිස ත්‍රෛනිකායික මහනාහිමිවරුන්ගේ සහ විපක්ෂ නායකවරයාගේ ඉල්ලීම් රැගත් ලිපි, මියන්මාරය සහ රුසියාව බලා පිටත්ව ගොස් තායිලන්තයේ සහ මියන්මාරයේ සංඝනායක හිමිවරුන් සහ රුසියාවේ රාජ්‍යතාන්ත්‍රික නිලධාරීන් හමුවී භාරදීමට ද නියමිත බව වාර්තා වෙයි.
+The diplomatic officers and the third parties in Russian and the Sri Lankan war heroes in the cyber criminal zone of Myanmar's cyber criminal region will be rescued and brought to Sri Lanka.
 
-පිරිස අද අලුයම 01.10ට පමණ ශ්‍රී ලන්කන් ගුවන් සේවයේ UL - 402 දරන ගුවන්යානයෙන් තායිලන්තයේ බැංකොක් නුවර බලා පිටත්ව ගොස් ඇත.
+Attorney-at-Law Wasantha Yapa Bandara, JCa Bandara for the team. Alawatuwa and Sujith Sanjaya Perera are included in their launch of five days in Myanmar and Russia.
+
+It is reported that the MPs are scheduled to meet with the requests of the Trincomalee Thailand and Myanmar and Myanmar.
+
+The group left for Bangkok in Bangkok, around 01.10 this morning.
 
 ◼️
 
 [Data](articles/9ace653a.json)
+
+[Extended Data](ext_articles/9ace653a.ext.json)
 
 ---
 
@@ -69,6 +87,8 @@ In a statement to CNN, Qatar Airways said that the flight landed safely in Dubli
 ...
 
 [Data](articles/4bc83d77.json)
+
+[Extended Data](ext_articles/4bc83d77.ext.json)
 
 ---
 
@@ -92,6 +112,8 @@ Ambassador Pactet had passed away due to a sudden illness, according to sources.
 
 [Data](articles/8b8eedfc.json)
 
+[Extended Data](ext_articles/8b8eedfc.ext.json)
+
 ---
 
 ### Hundreds of birds and fish dead in Anawilundawa sanctuary: Cause under investigation
@@ -111,6 +133,8 @@ However, officials of the Aqua Culture Development Authority said watercourses h
 ◼️
 
 [Data](articles/b31c5e84.json)
+
+[Extended Data](ext_articles/b31c5e84.ext.json)
 
 ---
 
@@ -2139,29 +2163,5 @@ It is noteworthy that regional journalists in the president's place in the North
 [Data](articles/ed17d6a9.json)
 
 [Extended Data](ext_articles/ed17d6a9.ext.json)
-
----
-
-### People believe that you can solve the problems of the people: Wealth in the presence of the president
-
-*2024-05-26 18:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/184550) · `ta`
-
-Selvam Adakkalanathan, a Vanni District Parliamentarian, expressed confidence in President Ranil Wickremesinghe's ability to resolve the issues facing the Mullaitivu district, including land stability and mobility challenges. He highlighted the need for decisive leadership from the President to address these problems effectively.
-
-🟩
-
-Vanni District Parliamentarian Selvam Adakkalanathan says that you can solve the problems of the people of Mullaitivu district in the presence of President Ranil Wickremesinghe.
-
-He was speaking at a function held at the Pudukkudiyiruppu Maha Vidyalaya, Mullaitivu on Sunday 26th.. As he further stated,
-
-I am happy to visit the President of the Mullaitivu District. There are many problems in this country. People are confident that you can solve them.
-
-The District Development Committee should be led by your head and will address the problem of the people of Mullaitivu district, including the land.. There are many more than the land stability. Is unable to go to own places. I am asking for action to solve all the problems of our people.
-
-◼️
-
-[Data](articles/9d70d2b7.json)
-
-[Extended Data](ext_articles/9d70d2b7.ext.json)
 
 ---

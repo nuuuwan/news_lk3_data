@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-27 22:34:17**
+As of **2024-05-27 22:51:22**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,272
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,641 (100.0%) of 26,642 articles have been extended.
+26,642 (100.0%) of 26,642 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -99,6 +99,8 @@ Earlier, President Ranil Wickremesinghe said that Elon Musk had sent an applicat
 ◼️
 
 [Data](articles/af9237b4.json)
+
+[Extended Data](ext_articles/af9237b4.ext.json)
 
 ---
 

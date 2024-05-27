@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-27 21:53:10**
+As of **2024-05-27 22:06:27**
 
 ## Newspaper Stats
 
-*Scraped **26,635** Articles*
+*Scraped **26,637** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 363
 islandlk | 1,442
 economynextcom | 1,525
 dailyftlk | 1,550
-adalk | 2,269
-adaderanalk | 3,051
+adalk | 2,270
+adaderanalk | 3,052
 tamilmirrorlk | 3,123
 virakesarilk | 4,070
 dailymirrorlk | 4,203
@@ -26,11 +26,29 @@ adaderanasinhalalk | 4,271
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,634 (100.0%) of 26,635 articles have been extended.
+26,635 (100.0%) of 26,637 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-27 (Monday)
+
+### 10 people killed, 39 injured after bus crashes into vehicles in Turkey
+
+*2024-05-27 21:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/99476/10-people-killed-39-injured-after-bus-crashes-into-vehicles-in-turkey) · `en`
+
+A passenger bus crashed into vehicles on a highway in southern Turkiye, killing at least 10 people and leaving 39 others injured, officials said Monday.
+
+The accident occurred in the province of Mersin late on Sunday, when the bus veered into the opposite lane in heavy rain and crashed into two cars. A truck later slammed into all three vehicles, Gov. Ali Hamza Pehlivan told reporters.
+
+The injured were rushed to nearby hospitals and at least eight of them were in serious condition, the state-run Anadolu Agency reported.
+
+There were 28 passengers on board the intercity bus, which was travelling from the southeastern city of Diyarbakir to Adana, in the south of the country, Anadolu reported.
+
+◼️
+
+[Data](articles/ab982216.json)
+
+---
 
 ### Court orders Court regarding the incident of the Matara bowl
 
@@ -96,6 +114,8 @@ Popular actor Somi Ratnayake was felicitated today at the Sudarshi - Institute o
 
 [Data](articles/55508a49.json)
 
+[Extended Data](ext_articles/55508a49.ext.json)
+
 ---
 
 ### Darshana cruise to 400m final in China
@@ -131,6 +151,24 @@ Colombo, May 27 (Daily Mirror) - Quick action by the Daily Mirror breaking news 
 [Data](articles/7e5f208e.json)
 
 [Extended Data](ext_articles/7e5f208e.ext.json)
+
+---
+
+### ඊලෝන් මස්ක් වසර අවසානයේදී ලංකාවට
+
+*2024-05-27 19:02:19* · [`adalk`](https://www.ada.lk/technology/ඊලෝන්-මස්ක්-වසර-අවසානයේදී-ලංකාවට/5-409858) · `si`
+
+ටෙස්ලා සහ ස්පේස් එක්ස් හි ප්‍රධානී ඊලෝන් මස්ක් වැනි ලෝක ප්‍රසිද්ධ ව්‍යාපාරිකයන්ගේ ආයෝජන කැඳවා ගැනීමට හැකි වුවහොත් එය මෙරට ආර්ථීකයේ සංවර්ධනයට විශාල දායකත්වයක් වන බව දේශගුණික විපර්යාස පිළිබඳ ජනාධිපති ජ්‍යෙෂ්ඨ උපදේශක රුවන් විජේවර්ධන මහතා සඳහන් කළේය.
+
+“Starlink” වැනි ව්‍යාපෘතියකට සම්බන්ධ වීම හරහා මෙරට අන්තර්ජාල පහසුකම දුර්වල ප්‍රදේශවලට ද ගැටළුවකින් තොරව අන්තර්ජාල පහසුකම් ලබාදීමට හැකිවන බවත් එය සංචාරක කර්මාන්තය ඇතුළු ආර්ථිකයට වැඩදායී ක්ෂේත්‍ර රැසක වර්ධනයට රුකුලක් වන බවත් ඒ මහතා පෙන්වා දුන්නේය.
+
+දේශගුණික විපර්යාස පිළිබඳ ජනාධිපති ජ්‍යෙෂ්ඨ උපදේශක රුවන් විජේවර්ධන මහතා මේ බව සඳහන් කර සිටියේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන් අද (27) ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක් වෙමිනි.
+
+එහිදී වැඩි දුරටත් අදහස් දැක්වූ රුවන් විජේවර්ධන මහතා මෙසේද පැවසීය,
+
+...
+
+[Data](articles/a6b9eeff.json)
 
 ---
 
@@ -2313,47 +2351,5 @@ Heavy showers above 100 mm are likely at some places in Western and Sabaragamuwa
 [Data](articles/29406301.json)
 
 [Extended Data](ext_articles/29406301.ext.json)
-
----
-
-### Four million heroins arrested with Panadura
-
-*2024-05-27 12:20:18* · [`adalk`](https://www.ada.lk/breaking_news/කෝටි-හතරක-හෙරෝයින්-පානදුරෙන්-අල්ලයි/11-409841) · `si`
-
-In a major drug bust, four million heroin capsules were seized from a suspect in Panadura, Sri Lanka. The arrest was made after a tip-off led police to find nearly two kilograms of heroin. Investigations link the suspect, Dubaiwa Tharanga, known for drug trafficking in Dubai, to this case. The suspect will be produced before the Panadura Magistrate's Court.
-
-🟩
-
-The Kalutara Crimes Division (CID) has been arrested with heroin drug stock.
-
-Police said that the suspect was found nearly two kilograms of heroin in the suspect at the Talapala area on a tip off received.
-
-Police investigations have revealed that the role of Dubaiwa Tharanga, who is infected with drug trafficking in Dubai, and is the head of drug trafficking.
-
-The Panadura Magistrate's Court was to be produced before the Panadura Magistrate's Court, Panadura, Panadura, Panadura.
-
-◼️
-
-[Data](articles/72e588a7.json)
-
-[Extended Data](ext_articles/72e588a7.ext.json)
-
----
-
-### New political movement ‘Sarvajana Balaya’ launched in Colombo
-
-*2024-05-27 12:18:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/New-political-movement-Sarvajana-Balaya-launched-in-Colombo/108-283436) · `en`
-
-Colombo, May 27 (Daily Mirror)- Several political parties including the National Freedom Front (NFF) led by MP Wimal Weerawansa, Pivithuru Hela Urumaya (PHU) led by MP Udaya Gammanpila and several civil oraganisations formed a new political movement  named ‘Sarvajana Balaya’ this morning.
-
-They signed the agreement to form the movement  in Colombo this morning.
-
-The Mawbima Janatha Party (MJP), the Democratic Left Front, the Communist Party and the Independent MP’s Forum led by MP Channa Jayasumana are among the other political groups which signed the agreement.
-
-◼️
-
-[Data](articles/eeed1767.json)
-
-[Extended Data](ext_articles/eeed1767.ext.json)
 
 ---

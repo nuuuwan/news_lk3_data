@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-27 16:34:19**
+As of **2024-05-27 16:50:49**
 
 ## Newspaper Stats
 
-*Scraped **26,584** Articles*
+*Scraped **26,586** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,118 +19,182 @@ adalk | 2,261
 adaderanalk | 3,046
 tamilmirrorlk | 3,120
 virakesarilk | 4,066
-dailymirrorlk | 4,192
+dailymirrorlk | 4,194
 adaderanasinhalalk | 4,261
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,571 (100.0%) of 26,584 articles have been extended.
+26,584 (100.0%) of 26,586 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-27 (Monday)
 
-### எங்கள் இருப்பை கேள்விக்கு உட்படுத்தும் தென்னிலங்கை அரசியலுக்கு தெளிவான பதில் பேராசிரியர் பத்மநாதனின்  ஒரு மறைந்து போன நாகரீகத்தின் தரிசனம் நூல்- பேராசிரியர் சர்வேஸ்வரன்
+### A clear answer to the politics of South Sri Lanka, which is questioned by our existence
 
 *2024-05-27 16:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/184618) · `ta`
 
-தமிழ் மக்களின் இருப்பை மறுக்கும்  இலங்கையில் தமிழின் தொன்மையை சைவசமயத்தின் தொன்மையை மறுக்கும் தென்னிலங்கை அரசியலுக்கு வலுவான உறுதியான பதிலை ஆதாரங்களுடன் வழங்கும் விதத்தில்  பேராசிரியர் பத்மநாதன்;  ஒரு மறைந்து போன நாகரீகத்தின் தரிசனம் - ஆதிகால யாழ்ப்பாணம் என்ற நூலை எழுதியுள்ளார் என கொழும்பு பல்கலைகழக சட்டபீட பேராசிரியர் அ.சர்வேஸ்வரன் தெரிவித்தார்.
+Professor Padmanathan challenges South Sri Lanka's politics denying Tamil existence, highlighting the ancient Nagas' contributions, including their language, culture, and practices like vegetarianism. He emphasizes the Nagas' widespread presence in Jaffna, their advanced agricultural techniques, and their use of metal and sea resources. This book aims to correct historical inaccuracies and support Tamil rights.
 
-கொழும்பு தமிழ்சங்கத்தில் இடம்பெற்ற பேராசிரியர் பத்மநாதனின் ஒரு மறைந்து போன நாகரீகத்தின் தரிசனம் - ஆதி கால யாழ்ப்பாணம் நூல் வெளியிடும் நிகழ்வில் உரையாற்றுகையில் அவர் இதனை தெரிவித்தார்.
+🟩
 
-இன்றைய யாழ்ப்பாணத்திற்கு அடித்தளமிட்டவர்கள் நாகர்கள் அவர்கள் தமிழ்மொழியில் பேசினார்கள் என்பதை பேராசிரியர் பத்மநாதனின் ஒரு மறைந்து போன நாகரீகத்தின் தரிசனம் - ஆதி கால யாழ்ப்பாணம் நூல் உhழய ஆதாரங்களுடன் உறுதிப்படுத்தியுள்ளது என அவர் தெரிவித்துள்ளார்.
+Professor Pathmanathan, in a manner that provides a strong response to the politics of South Sri Lanka, which deny the myth of Tamil in Sri Lanka, which deny the existence of the Tamil people;  Professor A Serveeswaran of the University of Colombo, A.
 
-இலங்கையில் சைவத்தின் தொன்மை தமிழின் தொன்மை நாகவழிபாட்டின் தொன்மை ஆகியவற்றை இந்த நூல் சான்றுபடுத்துகின்றது.
+He was speaking at the publication of a vision of a disappeared civilization at the Tamil Sangam in Colombo.
 
-இந்த நூல் நாகர்கள் பற்றியது  வடபகுதி நாகதீவு நாகநாடு என அழைக்கப்படுவது எங்களிற்கு தெரியும்.
+He said that the founders of the Nagas spoke in the Tamil language today that the founders of Jaffna today have confirmed the vision of a disappeared civilization - the Adi -era Jaffna book.
+
+This book testifies the antiquity of vegetarianism in Sri Lanka.
+
+We know that this book is about the Nagadars, the North is called Nagadivu Naganadu.
+
+The Nagas did not identify themselves as Tamils but they spoke the Tamil language.
+
+The vision of Professor Padmanathan's united civilization talks about the Nagas living in the Northeast, especially Jaffna.
+
+There are many sources for their lives in Vadamarachchi.
 
 ...
 
 [Data](articles/86e4dd3d.json)
 
+[Extended Data](ext_articles/86e4dd3d.ext.json)
+
 ---
 
-### ரெமல் புயல் ; பங்களாதேஷ், இந்தியாவில் பலத்த மழையினால் 10 இலட்சம் பேர் இடம்பெயர்வு
+### Remal Storm;Heavy rains in Bangladesh and India
 
 *2024-05-27 16:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/184619) · `ta`
 
-ரெமல் புயல் ஞாயிற்றுக்கிழமை (26) இரவு கரையைக் கடந்ததை அடுத்து, இந்தியா, பங்களாதேஷ் ஆகிய நாடுகளின் கடலோரப் பகுதிகளில் பலத்த காற்று வீசியதுடன் கனமழை பெய்தது.
+Heavy rains and winds hit coastal areas of India and Bangladesh, causing evacuations of over 10 million people. The Remal Storm, named after the Arabic word for soil, brought strong winds and raised sea levels, affecting nearly 150 million people. One death occurred in Kolkata, India, and warnings were issued for Mongla and Pera in Bangladesh.
 
-புயல் தாக்கத்திற்கு முன் ஆயத்தமாக பங்களாதேஷ் மற்றும் இந்தியா ஆகிய இரு நாடுகளிலும் 10 இலட்சம் பேர் பாதுகாப்பான இடங்களுக்கு வெளியேற்றப்பட்டனர்.
+🟩
 
-ரெமல் புயல் மணிக்கு 135 கிலோமீட்டர் வேகத்தில் புயல் சீறியதாக இந்தியாவின் வானிலை மையம் தெரிவித்தது.
+Heavy rains were hit by heavy winds in the coastal areas of India and Bangladesh on Sunday night (26).
 
-இந்தியாவில் கோல்கத்தா நகரில் புயலின் வேகம் உச்சத்தில் இருந்தபோது பெரிய கொங்கிரிட் துண்டுகள் விழுந்ததில் ஒருவர் உடல் நசுங்கி உயிரிழந்துள்ளார்.
+Before the storm impact, 10 million people were evacuated in both Bangladesh and India.
 
-ரெமல் புயல் 89 மில்லி மீற்றர் (3.5 அங்குலம்) மழையை பொழியும் மற்றும் வங்காள விரிகுடாவின் கடல் அலையானது 2.5 முதல் 3.7 மீற்றர் உயரத்திற்கு மேலெழக்கூடும்  என எதிர்பார்க்கப்படுகிறது.
+The Indian Meteorological Department said that the storm had fallen up to 135 kilometers at the Remal Storm.
 
-மணிக்கு 120 கிலோ மீட்டர்வேகத்தில் காற்று வீசியதால், மரங்களும் மின் கம்பங்களும் விழுந்ததில் சுமார் ஒரு கோடியே 50 இலட்சம் பேர் மின்சாரம் இல்லாமல் அவதிக்குள்ளாகியுள்ளனர்.
+One person died after the storm speed was at its peak in Kolkata, India.
+
+The Remal Storm is expected to rise 89 millimeters (3.5 inches) and the sea wave of the Bay of Bengal is expected to rise from 2.5 to 3.7 meters.
+
+About one crore 50 million people have been affected by the fall of trees and power poles due to the winds blowing at 120 kilometers per hour.
+
+Mongla and Pera in Bangladesh were issued a strict warning on Sunday.  Fishermen have been advised not to go to sea.
+
+At least half a million people live in homes made of clay, wood, plastic, straw or tin, according to the profitable BraC organization.
 
 ...
 
 [Data](articles/b5bfa8ef.json)
 
+[Extended Data](ext_articles/b5bfa8ef.ext.json)
+
 ---
 
-### சம்பூரில் சட்டவிரோத கசிப்பு நிலையம் முற்றுகை..!
+### Tornadoes and storms leave 18 dead across central US
+
+*2024-05-27 16:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Tornadoes-and-storms-leave-18-dead-across-central-US/108-283449) · `en`
+
+Washington, May 27 (BBC) - At least 18 people were killed as tornadoes and storms tore across central areas of the US, destroying homes and cutting power to hundreds of thousands.
+
+Seven people were killed in northern Texas, eight in Arkansas, two in Oklahoma and one in Kentucky. Scores more were injured, and almost 500,000 were without electricity across several states on Sunday.
+
+Texas Governor Greg Abbott said more than a third of all counties in his state were now subject to a disaster declaration.
+
+Sheriff Ray Sappington of Cooke County, Texas, said the death toll there included two children aged two and five and three members of the same family.
+
+"It's just a trail of debris left," said the sheriff of Valley View area, which was among those hardest hit by a powerful tornado. "The devastation is pretty severe."
+
+Footage from the county showed a petrol station and rest stop almost completely destroyed, with twisted metal littered over damaged vehicles.
+
+...
+
+[Data](articles/9b2b65f2.json)
+
+---
+
+### Illegal leaky station blockade in Sampur ..!
 
 *2024-05-27 16:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/184603) · `ta`
 
-திருகோணமலை - சம்பூர் பொலிஸ் பிரிவிலுள்ள சின்னக் குளம் பகுதியில் உள்ள காட்டுப் பகுதியில் இயங்கிய  கசிப்பு உற்பத்தி நிலையம் சம்பூர் பொலிஸாரினால் நேற்று ஞாயிற்றுக்கிழமை (26) இரவு  முற்றுகையிடப்பட்டுள்ளது.
+Sampur police blocked a leaky oil plant in the jungle near Chinnakulam, arresting a 58-year-old suspect with over 1 million liters of leaked oil. The suspect was released on bail and will face charges at the Muttur Magistrate's Court on March 31st.
 
-இதன் போது ஒரு இலட்சத்து 50 ஆயிரம் மில்லி லீற்றர் கோடா, 1500 மில்லி லீற்றர் கசிப்பு போன்றவற்றுடன் 58 வயதுடைய சந்தேக நபர் ஒருவரை சம்பூர் பொலிஸார் கைது செய்துள்ளனர்.
+🟩
 
-கைது செய்யப்பட்ட நபர் பொலிஸ் பிணையில் விடுதலை செய்யப்பட்டதுடன் எதிர்வரும் 31 ஆம் திகதி மூதூர் நீதிவான் நீதிமன்றத்தில் ஆஜர் படுத்தப்படவுள்ளதாக சம்பூர் பொலிஸார் தெரிவித்தனர்.
+The leakage plant operating in the jungle area of the Chinnakulam area of the Trincomalee - Sampur police division was blocked by Sampur police on Sunday night.
+
+Sampur police have arrested a 58 -year -old suspect with one million 50 thousand ml liters and 1500 milliliters of leaks.
+
+The arrested person has been released on police bail and will be produced before the Muttur Magistrate's Court on the 31st of this month, Sampur police said.
 
 ◼️
 
 [Data](articles/e4d716ce.json)
 
+[Extended Data](ext_articles/e4d716ce.ext.json)
+
 ---
 
-### சிவகார்த்திகேயன் நடிக்கும் 'அமரன்' படத்தின் படப்பிடிப்பு நிறைவு
+### The shooting of 'Amaran' starring Sivakarthikeyan
 
 *2024-05-27 16:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/184611) · `ta`
 
-சிவகார்த்திகேயன் நடிப்பில் தயாராகி வரும் 'அமரன்' எனும் திரைப்படத்தின் படப்பிடிப்பு நிறைவடைந்ததாக பட குழுவினர் பிரத்யேக காணொளியை வெளியிட்டு மகிழ்ச்சியுடன் அறிவித்திருக்கின்றனர்.
+"Amaran," starring Sivakarthikeyan, directed by Rajkumar Periyasamy, features Sai Pallavi, Bhuvan Arora, Rahul Bose, and others. The film, produced by Rajkamal Film International and Sony Pictures Films India, honors Major Mukund Varadarajan. Shooting has wrapped, with Sivakarthikeyan treating the crew with a gift.
 
-'ரங்கூன்'  திரைப்படத்தை இயக்கிய இயக்குநர் ராஜ்குமார் பெரியசாமி இயக்கத்தில் உருவாகி இருக்கும் 'அமரன்' திரைப்படத்தில் சிவகார்த்திகேயன், சாய் பல்லவி, புவன் அரோரா, ராகுல் போஸ், ஸ்ரீ குமார், ஷியாம் மோகன் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+🟩
 
-சி ஹெச் சாய் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு ஜீ. வி பிரகாஷ் குமார் இசையமைத்திருக்கிறார்.‌
+The film crew has been happy to announce the shooting of 'Amaran' starring Sivakarthikeyan.
 
-இந்திய ராணுவத்தில் விமானப்படை வீரராக வீர மரணம் அடைந்த மேஜர் முகுந்த் வரதராஜனின் வாழ்க்கை வரலாறை தழுவி தயாராகும் இந்த திரைப்படத்தை ராஜ்கமல் ஃபிலிம் இன்டர்நேஷனல் மற்றும் சோனி பிக்சர்ஸ் ஃபிலிம்ஸ் இந்தியா ஆகிய பட தயாரிப்பு நிறுவனங்கள் இணைந்து தயாரிக்கிறது.
+Directed by Rajkumar Periyasamy, directed by director Rajkumar Periyasamy, Sivakarthikeyan, Sai Pallavi, Bhuvan Arora, Rahul Bose, Sri Kumar, Shyam Mohan.
 
-இந்த திரைப்படத்தின் படப்பிடிப்பு பணிகள் முழுமையாக நிறைவடைந்தது என படக் குழுவினர் பிரத்யேக காணொளியை வெளியிட்டு அறிவித்திருக்கிறார்கள்.
+CH H Sai has recorded the film for this movie. V Prakash Kumar has composed the music.
 
-...
+Major Mukund Varadarajan, who died as a soldier in the Indian Army, is being produced by Rajkamal Film International and Sony Pictures Films India.
+
+The film crew has announced a special video that the shooting of the film has been completed.
+
+The film's hero, Sivakarthikeyan, gave a special treat to the film crew and gifted a valuable hand clock.
+
+◼️
 
 [Data](articles/023c8da9.json)
 
+[Extended Data](ext_articles/023c8da9.ext.json)
+
 ---
 
-### කොල්කටා කණ්ඩායම ෂාරුක් සමග ජය සැමරූ හැටි
+### How Kolkata Group celebrated with Shahrook
 
 *2024-05-27 16:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197073) · `si`
 
-ඉන්දීය ජනතාව අතර ක්‍රිකට් මෙන්ම සුපිරි නළු ෂාරුක් ඛාන් ද අතිශය ජනප්‍රිය චරිතයකි.
+Kolkata Group celebrated their 10-year ownership of Shahrukh Khan with a social media frenzy. Despite a recent hospitalization from dehydration, Shahrukh's love for cricket remained strong. He participated as a guest player in a sports event, honoring his fans and the city of Kolkata. The celebration included memorable moments captured by cameras, showcasing Shahrukh's bond with his fans and the city.
 
-වසර 10කට පසුව ෂාරුක් හිමිකාරීත්වය දරන කොල්කටා කණ්ඩායම IPL තරගාවලිය ජයගැනීමත් සමග එරට සමාජ මාධ්‍ය තුළ යළිත් කොල්කටා කණ්ඩායම මෙන්ම සුපිරි නළු ෂාරුක් ඛාන් ගැනත් දැඩි කතාබහක් ඇතිවී තිබේ.
+🟩
 
-ඒ සුපිරි නළු ෂාරුක් ද ක්‍රිකට්වලට දක්වන සුවිශේෂී ඇල්ම හේතුවෙනි.
+Among the Indian people as well as Superfuk Khan is also a popular character.
 
-පසුගියදිනවල විජලන තත්ත්වයක් හේතුවෙන් ඇතිවූ අසනීප තත්ත්වයක් සඳහා රෝහල්ගතකර සිටියද ක්‍රිකට්වලට ඇති ඔහුගේ ඇල්ම හේතුවෙන්ම ෂාරුක් IPL තරගාවලියේ තරග නැරඹීමට අමතක කර නොතිබුණි.
+The Kolkata group of Kolkata, who owns Shahrook after 10 years, has come to a strong speech in the social media as well as Suarek Khan.
 
-මේ සුවිශේෂී ජයග්‍රහණය ලබන මොහොතේ ෂාරුක් ඛාන් ද පිටියේ නරඹන්නෙක් ලෙස එක්ව සිටීම ක්‍රීඩාලෝලීන්ට වෙනස් වූ ආශ්වාදයක් ගෙනදීමට සමත්විය.
+Shreak, Shahrou, is also the unique love for cricket.
 
-එසේම ජයග්‍රහණයෙන් අනතුරුව ඔහුට මෙන්ම කොල්කටා කණ්ඩායමට ආදරය කරන රසික රසිකාවියන්ට ගෞරවය පිරිනැමීමට ෂාරුක් ද අමතක නොකිරීම විශේෂත්වයකි.
+Despite being hospitalized due to a dehydration in the recent dehydration, his love for cricket was not forgotten.
 
-ඔහු සිය පවුලේ සාමාජිකයින් සමග ක්‍රීඩාංගණය වටා යමින් ප්‍රේක්ෂකයින්ට ආචාර කළ අයුරු මෙන්ම ජය සැමරීමට ක්‍රීඩකයින් හා එක්වූ අයුරු කැමරා කාචයේ සටහන්ව තිබූ අයුරු පහතින්.
+At this unique victory, Shahruk Khan was also participating as a player visitor to the sports flight.
+
+Shahru did not forget to honor the fan of the fans loved by him as well as the wicket he loved by him as well as Kolkata.
+
+The camera lenses were given as the photographs of the camels to wander the audience, as he went around the stadium with his family.
 
 ◼️
 
 [Data](articles/2b5c2327.json)
+
+[Extended Data](ext_articles/2b5c2327.ext.json)
 
 ---
 
@@ -150,55 +214,79 @@ The person who was the target of the shooting is said to be a member of the crim
 
 [Data](articles/8f6e3f3e.json)
 
+[Extended Data](ext_articles/8f6e3f3e.ext.json)
+
 ---
 
-### එගොඩඋයන වෙරළට නාඳුනන සිරුරක් ගොඩගසයි
+### Unidentified body lands over Egoduya Beach
 
 *2024-05-27 15:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197072) · `si`
 
-මොරටුව, එගොඩඋයන වෙරළ තීරයට නාඳුනන පිරිමි පුද්ගලයෙකුගේ සිරුරක් ගොඩගසා ඇති බව පොලීසිය පැවසීය.
+An unidentified male body, aged 35-40 and 4 feet tall, was found on Egroiyana Beach, Moratuwa.
 
-එම පුද්ගලයා වයස අවුරුදු 35-40ත් අතර අඩි 5යි අඟල් 4ක් පමණ උසැති අයෙක් බවත් පොලීසිය කීය.
+🟩
+
+The body of an unknown male has been launched to the Egroiyana Beach, Moratuwa, police said.
+
+The man said that between the ages of 35-40 and 4 feet height, police said.
 
 ◼️
 
 [Data](articles/577ecee8.json)
 
+[Extended Data](ext_articles/577ecee8.ext.json)
+
 ---
 
-### யாழில். மோட்டார் சைக்கிள் திருட்டுக்கள் அதிகரிப்பு!
+### In the yarns. Increase motorcycle thefts!
 
 *2024-05-27 15:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/184606) · `ta`
 
-யாழ்ப்பாணத்தில் மோட்டார் சைக்கிள் திருட்டுகள் அதிகரித்து உள்ளதாகவும், திருடப்படும் மோட்டார் சைக்கிள்கள் உடனேயே உதிரிபாகங்களாக பிரிக்கப்பட்டு விற்பனை செய்யப்படுவதாகவும் பொலிஸார் தெரிவித்துள்ளனர்.
+Motorcycle thefts are rising in Jaffna, with 32 stolen bikes in recent months. Thieves quickly dismantle them for parts. Police urge owners to secure their bikes and cooperate in investigations.
 
-யாழ்ப்பாண நகர் பகுதிகளை அண்மித்த பகுதிகளில் சில மாதங்களில் 32 மோட்டார் சைக்கிள்கள் திருடப்பட்டுள்ளன. அவை தொடர்பிலான முறைப்பாடுகள் கிடைக்கப்பெற்று விசாரணைகள் முன்னெடுக்கப்பட்டு வருகிறது.
+🟩
 
-விசாரணைகளின் போது , திருடப்படும் மோட்டார் சைக்கிள்களை உடனேயே உதிரிபாகங்களாக பிரித்து விற்பனையில் ஈடுபடுகின்றனர்.அதானல் மோட்டார் சைக்கிள்களை மீட்பதில் சிரமங்களை எதிர்கொண்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+Police said that motorcycle thefts are on the rise in Jaffna and the stolen motorcycles are immediately divided and sold as spare parts.
 
-மோட்டார் சைக்கிள்களை பாதுகாப்பாக நிறுத்தி விட்டு, அவற்றுக்கு "ஹாண்டில் லொக்" போட்டு செல்லுமாறும் , மோட்டார் சைக்கிள்கள் தொடர்பில் அவதானமாக இருக்குமாறும் பொலிஸார் கேட்டுக்கொண்டுள்ளனர்.
+32 motorcycles have been stolen in a few months in the adjacent areas of Jaffna. Complaints have been received and investigations are being carried out.
+
+During the investigation, the stolen motorcycles are immediately divided into spare parts.
+
+Police have asked them to leave the motorcycles safely and put them on a "handle lak" and be careful with motorcycles.
 
 ◼️
 
 [Data](articles/d2e2018c.json)
 
+[Extended Data](ext_articles/d2e2018c.ext.json)
+
 ---
 
-### மன்னார் - பேசாலை முருகன் கோவில் காட்டு பகுதியில் நீதிமன்றத்தின் அனுமதியுடன் அகழ்வு பணி - ஊடகவியலாளர்களுக்கு அனுமதி மறுப்பு
+### Excavation work with court permission
 
 *2024-05-27 15:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/184614) · `ta`
 
-மன்னார் - பேசாலை பொலிஸ் பிரிவிற்குட்பட்ட முருகன் கோவில் காட்டுப்பகுதியில் இன்று திங்கட்கிழமை (27) காலை அடையாளம் காணப்பட்ட இடத்தில் மன்னார் நீதிமன்றத்தின் உத்தரவுக்கு அமைய அகழ்வு நடவடிக்கை இடம் பெற்றது.
+On Monday, excavation began at the Murugan Temple forest under court supervision. Eight individuals, including a naval officer, were arrested on Saturday for investigation and equipment recovery. The magistrate extended their detention until Monday and approved the excavation. Despite the presence of officials from Mannar, Pasalai police, and relevant departments, no treasures were found using the Becko machine. Journalists were denied permission to photograph or film the operation. The suspects will remain in custody for 14 days.
 
-பேசாலை பொலிஸ் பிரிவிற்குட்பட்ட  முருகன் கோவில் பகுதியில் உள்ள காட்டுப்பகுதியில்  புதையல் தோண்டியதாக கூறப்படும் நிலையில் கடற்படை அதிகாரி ஒருவர் உள்ளடங்களாக 8 பேர் கடந்த சனிக்கிழமை (18) மாலை கைது செய்யப்பட்டு மேலதிக விசாரணைக்காக பேசாலை பொலிஸ் நிலையத்தில் ஒப்படைக்கப்பட்டுள்ளனர்.
+🟩
 
-அவர்களிடம் இருந்து ஸ்கேனர் இயந்திரம் உள்ளடங்களாக புதையல் தோண்ட பயன்படுத்திய பொருட்களும் மீட்கப்பட்டிருந்தது.
+Excavation action took place at the Murugan Temple forest area of the Mannar -Basalai police division on Monday morning (27).
 
-பேசாலை பொலிஸார் குறித்த 8 பேரையும் விசாரணைகளின் பின்னர் மன்னார் நீதவான் முன்னிலையில் ஆஜர் படுத்திய நிலையில் குறித்த நபர்களை இன்றைய தினம் திங்கட்கிழமை(27) வரை விளக்கமறியலில் வைக்க நீதவான் உத்தரவிட்டார்.
+Eight people, including a naval officer, were arrested last Saturday evening (18) at the Pasalai police station for further investigations.
+
+From them, the scanner machine, including the excavation of the treasure, was also recovered.
+
+The Magistrate ordered the persons to be remanded till Monday (27) after the Mannar Magistrate appeared before the eight people after investigations into the Pasalai police.
+
+In addition, the magistrate granted permission from the Pasalai police to carry out excavation work in the forest area of the Murugan Temple area of the Pasalai police division on Monday morning.
+
+Excavation operations took place in the area this morning in accordance with the orders of the Mannar Magistrate.
 
 ...
 
 [Data](articles/49ade4d2.json)
+
+[Extended Data](ext_articles/49ade4d2.ext.json)
 
 ---
 
@@ -222,25 +310,43 @@ They further stated that the main objective of this is to control the arrival of
 
 ---
 
-### ஆறுகளின் நீர்மட்டம் அதிகரிப்பு
+### Vesak Maha Perahera...
+
+*2024-05-27 15:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Vesak-Maha-Perahera/110-283448) · `en`
+
+In line with the 2568 Vesak festival, a Vesak Maha Perahera was held last evening (26) at Narangodapaluwa, Batuwatta. The sacred relic casket being brought to the temple under the patronage of Ven. Sivuralumulle Sumanarathne Thera, the chief incumbent of the Galahitiyawa Sri Sugatha Subadrarama temple and Narangodapaluwa Rathna Sri Gnanarama Pothgul Temple. Pix by Nimalsiri Edirisinghe
+
+◼️
+
+[Data](articles/08349a24.json)
+
+---
+
+### Hydroval
 
 *2024-05-27 15:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/184612) · `ta`
 
-நாட்டில் பெய்து வரும் கடும் மழையினால்  பல ஆறுகளின் நீர் மட்டம் தொடர்ந்து அதிகரித்து வருவதாக நீர்ப்பாசன திணைக்களம் தெரிவித்துள்ளது.
+Heavy rains cause rising river levels across several regions, including Attanagalu Oya, Kelani, Kalu, Jin, and Nilwala rivers, reaching alert levels. The Irrigation Department warns residents to stay vigilant. In response to the situation, the Tethuru Oya Reservoir in Kurunegala District has opened its gates, releasing about 7,000 cubic feet of water per second. Additionally, the Kuga reservoir has opened its skies, potentially increasing the water level of the Kuta Ganga. Residents near the Pulathsingha Divisional Secretariat Division are advised to be cautious due to the heightened flood risk.
 
-இதன்படி, அத்தனகலு ஓயா, களனி, களு, ஜின் மற்றும் நில்வளா ஆகிய ஆறுகளின் நீர் மட்டம் தற்போது அதிகரித்து வருவதாக திணைக்களம் குறிப்பிட்டுள்ளது.
+🟩
 
-மேற்குறிப்பிட்ட ஆறுகளின் நீர் மட்டம் 'எச்சரிக்கை மட்டத்தில்' உள்ளதால், இந்த ஆறுகளை அண்மித்த தாழ்வான பகுதிகளில் வசிப்பவர்கள் அவதானமாக இருக்குமாறு நீர்பாசன பணிப்பாளர் (நீரியல் மற்றும் அனர்த்த முகாமைத்துவம்) எஸ்.பி.சி.சுகீஸ்வர தெரிவித்துள்ளார்.
+The water level of many rivers continues to increase due to heavy rains in the country, the Irrigation Department said.
 
-இதேவேளை, குருநாகல் மாவட்டத்திலுள்ள தெதுரு ஓயா நீர்த்தேக்கத்தின் நான்கு வான் கதவுகள் இன்று திங்கட்கிழமை (27) காலை திறக்கப்பட்டு வினாடிக்கு சுமார் 7,000 கன அடி வீதம் நீர் வெளியேற்றப்பட்டுள்ளது.
+Accordingly, the water level of the rivers of Attanagalu Oya, Kelani, Kalu, Jin and Nilwala is currently increasing, the department said.
 
-குகுலே நீர்தேக்கத்தின் வான்கதவுகளும் திறக்கப்பட்டு வினாடிக்கு 80 கன அடி  நீர் வெளியேற்றப்பட்டதால் குடா கங்கையின் நீர்மட்டம் அதிகரிக்க வாய்ப்புள்ளது.
+Since the water level of the above rivers is at the 'alert level', the Director of Irrigation (Aquatic and Disaster Management) SBC Sugeswara said that residents of these rivers are observed.
 
-எனவே, புளத்சிங்கள பிரதேச செயலகப் பிரிவில் வசிப்பவர்கள் வெள்ள அபாயம் குறித்து அவதானமாக இருக்குமாறும் அவர் அறிவுறுத்துகிறார்.
+Meanwhile, the four air doors of the Tethuru Oya Reservoir in the Kurunegala District have been opened on Monday (27) and the water has been discharged by about 7,000 cubic feet per second.
+
+The water level of the Kuta Ganga is likely to increase as the skies of the Kugule reservoir have been opened and 80 cubic feet of water per second.
+
+Therefore, he advises that residents of the Pulathsingha Divisional Secretariat Division should be careful about the flood risk.
 
 ◼️
 
 [Data](articles/8c3cb9f4.json)
+
+[Extended Data](ext_articles/8c3cb9f4.ext.json)
 
 ---
 
@@ -506,17 +612,23 @@ He was granted bail by Colombo Additional Magistrate Pavithra Sanjeewani Pathira
 
 ---
 
-### ‍දේශපාලන පක්ෂ කිහිපයක් එක්වී නව සන්ධානයට අත්සන් තබයි
+### Several political parties join the new alliance
 
 *2024-05-27 14:23:21* · [`adalk`](https://www.ada.lk/breaking_news/‍දේශපාලන-පක්ෂ-කිහිපයක්-එක්වී-නව-සන්ධානයට-අත්සන්-තබයි/11-409849) · `si`
 
-දේශපාලන පක්ෂ කිහිපයක් සහ සිවිල් සංවිධාන කිහිපයක් එක්වී 'සර්ව ජන බලය' නමින් නව දේශපාලන ව්‍යාපාරයක් අද (27) දින ලිඛිත ගිවිසුමට අද කොළඹදී අත්සන් තැබීය.
+Several political parties and civil groups joined the National Freedom Front, Current Left Front, Communist Party, and Professors Channa Jayasumana and another unnamed professor in a written covenant in Colombo on 27th.
 
-මෙම නව සන්ධානයට ජාතික නිදහස් පෙරමුණ, පිවිතුරු හෙළ උරුමය, මව්බිම ජනතා පක්ෂය,   ප්‍රජාතන්ත්‍රවාදී වාමාංශික පෙරමුණ, ශ්‍රී ලංකා කොමියුනිස්ට් පක්ෂය, යුතුකම ජාතික සංවාද කවය සහ පාර්ලිමේන්තු මන්ත්‍රී මහාචාර්ය චන්න ජයසුමන මහතා ප්‍රමුඛ ස්වාධීන මන්ත්‍රී සංසදය ගිවිසුම්ගත වුණි.
+🟩
+
+Several political parties and several civil organizations join the written covenant today (27) in Colombo today.
+
+The new alliance was the National Freedom Front, Current Left Front, the Communist Party, Professor, Professor Channa Jayasumana and the Independent MP Professor Channa Jayasumana.
 
 ◼️
 
 [Data](articles/29d4a3e8.json)
+
+[Extended Data](ext_articles/29d4a3e8.ext.json)
 
 ---
 
@@ -830,41 +942,53 @@ First, I first express my happiness for the opportunity to visit the viley distr
 
 ---
 
-### නැවත දැනුම් දෙන තුරු ධීවර සහ නාවුක කටයුතුවලින් වළකින්නැයි ‍‍උපදෙස්
+### Advice to avoid fisheries and shifts till again
 
 *2024-05-27 13:13:47* · [`adalk`](https://www.ada.lk/breaking_news/නැවත-දැනුම්-දෙන-තුරු-ධීවර-සහ-නාවුක-කටයුතුවලින්-වළකින්නැයි-‍‍උපදෙස්/11-409845) · `si`
 
-නැවත දැනුම් දෙන තුරු ධීවර සහ නාවුක කටයුතුවලින් වැළකී සිටින ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුවෙන් උපදෙස්.
+The Meteorological Department advises avoiding fishing and naval activities near the Arabian Sea due to potential high winds exceeding 70 km/h. It's recommended to stay away from these areas until further notice.
 
-සක්‍රීය වී ඇති නිරිත දිග මෝසම් තත්ත්වය හේතුවෙන් දිවයින වටා මුහුදු ප්‍රදේශවල, බෙංගාල බොක්ක මුහුදු ප්‍රදේශයේ සහ අරාබි මුහුදු ප්‍රදේශයේ මුහුදු ප්‍රදේශ රළු විය හැකි බවත් මෙම කලාපය තුළ විටින් විට පැයට කිලෝමීටර 60 ක් 70 ත් අතර වේගයකින් සුළං ඇතිවිය හැකි බවත් කාලගුණ විද්‍යා දෙපාර්තමේන්තුව නිවේදනය කර ඇත.
+🟩
 
-බැවින් නැවත දැනුම් දෙන තුරු දිවයින වටා මුහුදු ප්‍රදේශවල ධීවර සහ නාවුක කටයුතු වපින් වැලකී සීටින ලෙස ධීවර සහ නාවුක ප්‍රජාවට උපදෙස් නිකුත් කර ඇත.
+Advice from the Department of Meteorologicals to avoid being again informed.
+
+The Meteorological Department (Metary) has announced that the sea areas around the Bay of Bay of Bay and the Bay of Bay of Bay of the Arabian area around the island, which is enabled, can be rough at times 70 kilometers per hour..
+
+Since it is notified, it has been instructed to caterin as cerened by fishing and navy as cerened in the sea areas around the island until it was notified.
 
 ◼️
 
 [Data](articles/c2991c94.json)
 
+[Extended Data](ext_articles/c2991c94.ext.json)
+
 ---
 
-### හඳ පාන් විලේ ජලයේ ගිලී වන අලි හත් දෙනෙක් මිය යයි
+### Seven elephants dying in the water of the moon bread
 
 *2024-05-27 13:09:05* · [`adalk`](https://www.ada.lk/breaking_news/හඳ-පාන්-විලේ-ජලයේ-ගිලී-වන-අලි-හත්-දෙනෙක්-මිය-යයි/11-409844) · `si`
 
-පොළොන්නරුව ජල ගැලුම් නිම්න ජාතික වනෝද්‍යානයේ හඳපාන්විල විල්ලුවේ තිබී මියගිය වන අලි හත් දෙනෙකුගේ සිරුරු වල  පශ්චාත් මරණ පරීක්ෂණ කටයුතු අද (27) දින සිදු කෙරිණි.
+Post-mortem exams were conducted on seven elephants found dead in a reservoir in Handapanwila, Polonnaruwa. The elephants, ranging from 8 to 35 years old, likely drowned after being chased out of the Water-Valley Nava National Park by wildlife authorities. Investigations are ongoing by the Wildlife Veterinary Unit.
 
-මේ අනුව හඳපාන් ඉල්ලු රක්ෂිතයට අයත් සොරුවිල ප්‍රදේශයේ වනාලි තිදෙනෙකුගේ මල සිරුරුවල පශ්චාත් මරණ පරීක්ෂණ කටයුතු සිදුකර අවසන්ව ඇති  අතර එහිදී අනාවරණය වී ඇත්තේ මෙම වන අලි තිදෙනාම මඩෙහි එරී ජලය පෙවීමෙන් මියගොස් ඇති බවය.
+🟩
 
-ඔඩේ ඇලේ ස්ථාන කිහිපයක මඩේ එරී සිටි මෙම අලි 7දෙනාගේ සිරුරු වනජීවි නිලධාරීන් විසින් පෙරේදා සහ ඊයේ යන දෙදින තුළ සොයා ගෙන ඇති අතර වන අලි අනෙක් හතර දෙනාගේ මරණ පරීක්ෂණ කටයුතු මේ වන විට සිදු කරමින් පවතී.
+The post mortem examination of the bodies of seven elephants killed in the Handapanwila Willa in the Handapanwila Waduna, Polonnaruwa was held today (27).
 
-මෙලෙස මියගොස් ඇත්තේ අවුරුදු 8ත් 10ත් අතර වයසේ පසුවන අලි පැටවුන් පස් දෙනෙකු සහ අවුරුදු 30ත් 35ත් අතර වයසේ පසුවන වන අලින් දෙදෙනෙක් බවට සැලකේ.
+Accordingly, three post mortem examinations have been completed by the bodies of three elephants in Soruwila, the Handapani demand forest reserve.
 
-වනජීවි නිලධාරීන් පවසන්නේ ජලගැලීම් නිම්න ජාතික වනෝද්‍යානයේ සැරිසරන වනඅලි රංචුවක් ඕඩේ ඇළ හරහා මාරුවීමට යෑමේදී සැඩපහරට හසුවී ගසාගෙන ගොස් මඩෙහි එරී මිය යන්නට ඇති බවය.
+The bodies of the 7 elephants in the mud were found on the two and the deaths of the seven elephants in the mud and yesterday.
 
-පොළොන්නරුව ගිරිතලයේ වනජීවී පශුවෛද්‍ය ඒකකයේ නිලධාරීන් විසින් මෙම මරණ පරීක්ෂණ කටයුතු සිදු කරයි.
+The deceased has been identified as five aged agents between 8 and 10 years and two elephants aged between 30 and 35 years.
+
+Wildlife officials say that the Water-Valley Nava National Park is a swarm of the wild elephants to be shifted across the Canal and has died and drowned.
+
+The death investigations are conducted by the Wildlife Veterinary Unit of the Polonnaruwa Palaya.
 
 ◼️
 
 [Data](articles/c7c1e8b4.json)
+
+[Extended Data](ext_articles/c7c1e8b4.ext.json)
 
 ---
 
@@ -2271,45 +2395,5 @@ To download the applications, candidates are requested to log on to the Examinat
 [Data](articles/fd8b7163.json)
 
 [Extended Data](ext_articles/fd8b7163.ext.json)
-
----
-
-### Shooting incident reported in Weligama
-
-*2024-05-27 09:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/99455/shooting-incident-reported-in-weligama) · `en`
-
-A shooting has reportedly taken place, a short while ago, near the Batawala Pathegama Model Primary School in Weligama, Matara.
-
-Reports indicate that a suspect in a previous shooting incident was the target of today’s shooting and that no injuries have been reported in the incident.
-
-◼️
-
-[Data](articles/99220c3a.json)
-
-[Extended Data](ext_articles/99220c3a.ext.json)
-
----
-
-### Three opposition MPs overseen to save our people in Myanmar and Russia
-
-*2024-05-27 09:01:22* · [`adalk`](https://www.ada.lk/breaking_news/මියන්මාරයේ-හා-රුසියාවේ-යුද්ධයට-මැදිව-සිටින-අපේ-අය-බේරා-ගන්න-විපක්ෂ-මන්ත්‍රීවරු-තිදෙනෙක්-එතෙර-යති/11-409833) · `si`
-
-Opposition MPs from Myanmar and Russia, including Attorney-at-Law Wasantha Yapa Bandara, JChawala, and Sujith Sanjaya Perera, traveled to Thailand to negotiate the release of children from Myanmar's cyber base. They aimed to secure their return to Sri Lanka, collaborating with diplomatic officials and third parties. The group expressed optimism about their mission, despite previous unsuccessful attempts, and planned to engage with Myanmar authorities, Thai judicial ministers, and international human rights organizations.
-
-🟩
-
-Diplomatic operations in Manmar's computer criminal cyber base and the diplomatic operations in Russia and the diplomatic operations in Russia have negotiate with third parties to rescue Sri Lanka back to Sri LankaThree opposition members were left to Thailand at the Katunayake airport for 10 days for a 10-day visit to prepare a program.
-
-Attorney-at-Law Wasantha Yapa Bandara, JChawala and Sujith Sanjaya Perera have been included in the rescue operation.
-
-The opposition MPs will be handed over to Myanmar and Russia and diplomatic officials in Thailand and the organizations of Russia, Thailand, and Russia with the demands of the Opposition of Opposition and the Opposition.
-
-Wasantha Yapa Bandara expressed his views on journalists at the Katunayake airport.
-
-...
-
-[Data](articles/957d239f.json)
-
-[Extended Data](ext_articles/957d239f.ext.json)
 
 ---

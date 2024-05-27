@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-27 14:52:49**
+As of **2024-05-27 15:04:01**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,255
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,557 (100.0%) of 26,560 articles have been extended.
+26,560 (100.0%) of 26,560 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,21 +48,31 @@ Thanbugala is the Chairman of Aura Lanka Group of Companies and the former owner
 
 [Data](articles/64e0b6bb.json)
 
+[Extended Data](ext_articles/64e0b6bb.ext.json)
+
 ---
 
-### சி.எம்.சிக்கு ஒத்துழைக்கவும்: இராணுவத்துக்கு ஜனாதிபதி பணிப்பு
+### Cooperate with CMC: President's Work for the Army
 
 *2024-05-27 14:30:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மேல்-மாகாணம்/சி-எம்-சிக்கு-ஒத்துழைக்கவும்-இராணுவத்துக்கு-ஜனாதிபதி-பணிப்பு/95-337969) · `ta`
 
-மக்களுக்கும் உடமைகளுக்கும் பெரும் ஆபத்தை விளைவிக்கக்கூடிய 100 க்கும் மேற்பட்ட பழைய மற்றும் பெரிய அழுகிய  மரங்களை உடனடியாக அகற்றுவதற்கு கொழும்பு மாநகர சபை (CMC) க்கு ஒத்துழைப்பை நல்குமாறு ஜனாதிபதி ரணில் விக்கிரமசிங்க, அரச மரக் கூட்டுத்தாபனம் மற்றும் இலங்கை இராணுவத்துக்கு பணித்துள்ளார்.
+In response to recent weather incidents, President Ranil Wickremesinghe collaborated with the State Tree Corporation and the Sri Lankan army to assist the Colombo Municipal Council (CMC) in removing over 100 hazardous trees. This initiative followed 59 incidents during the Vesak week, highlighting the urgency to address the safety of 1,000 trees, especially the 200 deemed ancient and vulnerable. Since January, efforts have led to the removal of 90 trees from the initial list of 200 identified as dangerous. The collaboration aims to further mitigate risks through the removal of the remaining 110 trees and the establishment of a 24/7 unit to monitor tree safety, utilizing the firefighter's '110' hotline for public reporting.
 
-மே 20 ஆம் திகதி முதல் வெசாக் வாரத்தில்   நிலவிய சீரற்ற காலநிலை காரணமாக, கொழும்பு மாநகர சபையின் அதிகாரத்துக்கு உட்பட்ட பிரதேசங்களில்,  மரங்கள் முறிந்து விழுந்து அல்லது கிளைகள் சேதமடைந்ததில் 59 சம்பவங்கள் இடம்பெற்றுள்ளன.
+🟩
 
-1,000 மரங்கள் தொடர்பில்  உடனடி கவனம் செலுத்தப்பட்டுள்ளதாகவும் அதில் 500 மரங்கள் பிரச்சனைக்குரிய நிலைமைகளைக் கொண்டிருப்பதாகவும் கண்டறியப்பட்டுள்ளது.  இதுபோன்ற 200 மரங்கள் பழமையான மற்றும் மிகவும் பாதிக்கப்படக்கூடிய நிலையில் இருப்பதாக அதிகாரிகள் கண்டறிந்துள்ளனர், அவற்றை விரைவில் வெட்ட வேண்டும், பொதுமக்களுக்கோ அல்லது உடைமைகளுக்கோ ஏதேனும் ஆபத்து இடம்பெறுவதை தவிர்க்க வேண்டும்.
+President Ranil Wickremesinghe has worked with the State Tree Corporation and the Sri Lankan army to cooperate with the Colombo Municipal Council (CMC) to immediately remove more than 100 old and large rotten trees that can be a great danger to the people and belongings.
+
+Due to inclement weather in the Vesak week since May 20, 59 incidents have taken place in areas under the authority of the Colombo Municipal Council.
+
+It has been found that immediate attention has been paid to 1,000 trees and 500 trees have trouble conditions.  Officials have found that 200 such trees are ancient and most vulnerable, and they must be cut off soon and avoid any danger to the public or property.
+
+When contacted by the Commissioner of the Colombo Municipal Council, Badrani Jayawardene, President Ranil Wickremesinghe said that he was working to the Colombo Municipal Council to cooperate with the Colombo Municipal Council to remove dangerous trees.
 
 ...
 
 [Data](articles/abf073e8.json)
+
+[Extended Data](ext_articles/abf073e8.ext.json)
 
 ---
 
@@ -81,6 +91,8 @@ But that may now be a major underestimate according to the latest projection fro
 ...
 
 [Data](articles/facd246c.json)
+
+[Extended Data](ext_articles/facd246c.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-27 19:34:02**
+As of **2024-05-27 19:51:55**
 
 ## Newspaper Stats
 
-*Scraped **26,627** Articles*
+*Scraped **26,628** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,38 @@ adalk | 2,266
 adaderanalk | 3,051
 tamilmirrorlk | 3,123
 virakesarilk | 4,070
-dailymirrorlk | 4,200
+dailymirrorlk | 4,201
 adaderanasinhalalk | 4,269
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,627 (100.0%) of 26,627 articles have been extended.
+26,627 (100.0%) of 26,628 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-27 (Monday)
+
+### Darshana cruise to 400m final in China
+
+*2024-05-27 19:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Darshana-cruise-to-400m-final-in-China/108-283455) · `en`
+
+May 27 (Daily Mirror) - Sri Lanka’s Aruna Darshana powered his way to win the Men’s 400m first round heat at the second Belt and Road Athletics Invitation Meeting in Chongqing, China.
+
+Darshana returned a time of 46.26s in his heat and convincingly made it to the final of the meet - a World Athletics Continental Tour Bronze Label event. The final of this event is scheduled for tomorrow.
+
+Meanwhile, Dilhani Lekamge will be looking to improve her current position in the Road to Paris 2024 Olympic Rankings when she participates in the Women’s javelin throw event.
+
+Currently Lekamge is ranked 30th in the Road to Paris 2024 Rankings. The Paris Olympics has 32 slots for the Women’s javelin.
+
+Out of them six are selected based on qualifying standard which is 64m and the rest of the 26 positions will be filled according to ranking positions.
+
+◼️
+
+[Data](articles/e73d70f4.json)
+
+---
 
 ### An notice of flooding
 
@@ -2331,31 +2351,5 @@ Meanwhile, the price of a kilogram of ponchikai is sold at Rs 700 and a kilogram
 [Data](articles/038f2c16.json)
 
 [Extended Data](ext_articles/038f2c16.ext.json)
-
----
-
-### Hundreds of birds and fish are investigated in the sanctuary
-
-*2024-05-27 12:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/184579) · `ta`
-
-A mysterious illness has struck hundreds of birds and fish in the Ramsa Swamp Sanctuary, possibly linked to chemical waste from a nearby factory. The situation threatens the sanctuary's ecosystem and tourist attraction status. Authorities are investigating, with samples sent for veterinary analysis.
-
-🟩
-
-Hundreds of birds and fish have died in the Sanctuary in the ramsa swamp over the past few days.
-
-During this period, the migrant birds will live and breed at the sanctuary, which is a place where tourists are attracted.
-
-In this case, birds and fish may have been killed by chemical waste poured from a factory in the area.
-
-Samples of dead fish and birds have been sent to the Special Veterinary Medical Unit for examination. Wildlife Regional Defender
-
-Meanwhile, officials of the Water Development Development Authority said the water bodies were contaminated due to negligence in the removal of algae and that the fish and birds were killed.
-
-◼️
-
-[Data](articles/e463d935.json)
-
-[Extended Data](ext_articles/e463d935.ext.json)
 
 ---

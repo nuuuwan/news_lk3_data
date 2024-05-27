@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-27 18:11:56**
+As of **2024-05-27 18:23:58**
 
 ## Newspaper Stats
 
-*Scraped **26,611** Articles*
+*Scraped **26,616** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 islandlk | 1,442
 economynextcom | 1,525
 dailyftlk | 1,550
-adalk | 2,263
-adaderanalk | 3,047
-tamilmirrorlk | 3,121
+adalk | 2,265
+adaderanalk | 3,048
+tamilmirrorlk | 3,123
 virakesarilk | 4,070
 dailymirrorlk | 4,197
 adaderanasinhalalk | 4,266
@@ -26,23 +26,79 @@ adaderanasinhalalk | 4,266
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,602 (100.0%) of 26,611 articles have been extended.
+26,611 (100.0%) of 26,616 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-27 (Monday)
 
-### Sri Lanka’s Ceylinco Insurance changes name
+### Pakistan HC unveils Gallery celebrating Buddhist archeological sites in Kandy Museum
 
-*2024-05-27 17:34:00* · [`economynextcom`](https://economynext.com/sri-lankas-ceylinco-insurance-changes-name-164980/) · `en`
+*2024-05-27 18:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/99473/pakistan-hc-unveils-gallery-celebrating-buddhist-archeological-sites-in-kandy-museum) · `en`
 
-ECONOMYNEXT – Sri Lanka’s Ceylinco Insurance Plc has changed its name to Ceylinco Holdings Plc, the company said in a stock exchange filing.
+High Commissioner of Pakistan to Sri Lanka Maj. General (Rtd) Faheem Ul Aziz officially inaugurated the Pakistan Gallery located inside Kandy Museum.
 
-The largest private sector insurance company in Sri Lanka, the company offers insurance, education, hydropower, healthcare and financial services.
+The gallery has recently been renovated to showcase the Buddhist archeological and heritage sites, based in different cities of Pakistan through pictures, relics, and artifacts, the Pakistan High Commission in Sri Lanka said in a statement.
+
+Accordingly, the Pakistan Gallery is now officially opened for the general public to visit, the statement mentioned.
+
+Many prominent dignitaries including Pradeep Nilanga, Diyavadana Nilame and Mr. Afzal Marikar Honorary Consul of Pakistan in Kandy attended the event.
+
+The High Commissioner has later distributed school bags among children while visiting the Kandy Temple, according to the Pakistan High Commission in Sri Lanka.
 
 ◼️
 
-[Data](articles/5631f185.json)
+[Data](articles/0f7ec811.json)
+
+---
+
+### மரக்கறி விலைகள்  மழையுடன் எகிறியது
+
+*2024-05-27 17:57:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மரக்கறி-விலைகள்-மழையுடன்-எகிறியது/76-337992) · `ta`
+
+நாடளாவிய ரீதியில் நிலவும் சீரற்ற காலநிலை காரணமாக   மரக்கறிகளின் விலைகள் அதிகரித்து வருவதாக   பிரதேச மரக்கறி விற்பனையாளர்கள் தெரிவிக்கின்றனர்.
+
+தற்போது பெய்து வரும் மழையால் காய்கறி விவசாயம் கடுமையாக பாதிக்கப்பட்டுள்ளதால், தேவைக்கு ஏற்ற வகையில் அறுவடை இல்லாததால், காய்கறி விலை உயர்ந்துள்ளதாக வியாபாரிகள் தெரிவித்தனர்.
+
+சில்லரை விற்பனையில் ஒரு கிலோ கிராம் போஞ்சி ரூ.480, முருங்கை காய் ரூ.720, கேரட் ரூ.240,   மிளகாய் ரூ.440, பீட்ரூட் ரூ.400, தக்காளி ரூ.240, பச்சை மிளகாய் ரூ.400, புடலங்காய்  ரூ.320,  பூசணி ரூ.160, கத்தரிக்காய் ரூ.240, முட்டைகோஸ் ரூ.240, வெண்டைக்காய் ரூ.400, மரவள்ளி கிழங்கு ரூ.200 என  விற்பனை செய்யப்படுகிறது.
+
+காய்கறிகளின் விலை உயர்வால் நுகர்வோர் மற்றும் உணவக உரிமையாளர்கள் கடும் அதிருப்தி அடைந்துள்ளனர்.
+
+◼️
+
+[Data](articles/cdfec57a.json)
+
+---
+
+### சம்பள உயர்வுக்கு முதலாளிமார் சம்மேளம் எதிர்ப்பு
+
+*2024-05-27 17:38:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/சம்பள-உயர்வுக்கு-முதலாளிமார்-சம்மேளம்-எதிர்ப்பு/76-337990) · `ta`
+
+தேயிலை மற்றும் இறப்பர் துறைகளில் தொழில் புரியும் தோட்டத் தொழிலாளர்களின் குறைந்தபட்ச சம்பளத்தை முன்னெப்போதும் இல்லாத வகையில் 70 சதவீதத்தில் உயர்த்துவதற்கான அரசாங்கத்தின் தீர்மானத்துக்கு முதலாளிமார் சம்மேளனம் எதிர்ப்புத் தெரிவித்துள்ளது.
+
+கொழும்பு- ரேணுகா ஹோட்டலில்  திங்கட்கிழமை (27) இடம்பெற்ற ஊடகவியலாளர் சந்திப்பில் கலந்துகொண்டு கருத்துரைத்த போதே, முதலாளிமார் சம்மேளன பிரதிநிகள் மேற்கண்டவாறு குறிப்பிட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/64f2ef9d.json)
+
+---
+
+### කොල්ලුපිටියේ  සුපිරි වෙළඳ සංකීර්ණයක කොල්ලයක්
+
+*2024-05-27 17:35:08* · [`adalk`](https://www.ada.lk/breaking_news/කොල්ලුපිටියේ--සුපිරි-වෙළඳ-සංකීර්ණයක-කොල්ලයක්/11-409852) · `si`
+
+කොල්ලුපිටිය ලිබර්ටි ප්ලාසා වෙළඳ සංකීර්ණයට ගිනි අවියක් රැගෙන කඩාවැදුණු නාඳුනන පුද්ගලයෙකු රුපියල් ලක්ෂ 40 කට ආසන්න වටිනාකමින් යුත් දුරකථන අඩංගු බෑගයක් කොල්ලකා පලා ගොස් ඇතැයි කොල්ලුපිටිය පොලිසිය කියයි.
+
+පැමිනි පුද්ගලයා පිස්තෝල වර්ගයේ අවියක් පෙන්වා මෙම කොල්ලය සිදුකර යතුරු පැදියක නැගී පලා ගොස් තිබූ බව
+
+මෙම කොල්ලකෑම සම්බන්ධයෙන් එම ආයතනයේ සේවය කරනු ලබන පුද්ගලයෙක් සම්බන්ධයෙන්ද සැකයක් හටගෙන ඇතැයි උසස් පොලිස් නිලධාරියෙක් පැවසීය.
+
+අදාළ කොල්ලය සීසී ටීවී  කැමරාවකද සටහන් වේ. කොල්ලුපිටිය පොලිසියේ ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක  එච් එල් දුෂ්මන්ත මහතාගේ උපදෙස් මත පරීක්ෂණ පවත්වයි.
+
+◼️
+
+[Data](articles/c7900a2e.json)
 
 ---
 
@@ -84,6 +140,8 @@ President Ranil Wickremesinghe has told the cabinet of ministers that a bill mus
 
 [Data](articles/0b85eeba.json)
 
+[Extended Data](ext_articles/0b85eeba.ext.json)
+
 ---
 
 ### A platform with Rahul Gandhi collapses
@@ -107,6 +165,22 @@ This is how a video of the event was reported.
 [Data](articles/deae4878.json)
 
 [Extended Data](ext_articles/deae4878.ext.json)
+
+---
+
+### Sri Lanka’s Ceylinco Insurance changes name
+
+*2024-05-27 17:20:00* · [`economynextcom`](https://economynext.com/sri-lankas-ceylinco-insurance-changes-name-164980/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Ceylinco Insurance Plc has changed its name to Ceylinco Holdings Plc, the company said in a stock exchange filing.
+
+The largest private sector insurance company in Sri Lanka, the company offers insurance, education, hydropower, healthcare and financial services.
+
+◼️
+
+[Data](articles/5631f185.json)
+
+[Extended Data](ext_articles/5631f185.ext.json)
 
 ---
 
@@ -137,6 +211,20 @@ They have been doing many things in violation of the Indian Sri Lanka Accord.
 [Data](articles/9882602f.json)
 
 [Extended Data](ext_articles/9882602f.ext.json)
+
+---
+
+### අවුරා ලංකා සභාපතිට ඇප
+
+*2024-05-27 17:15:26* · [`adalk`](https://www.ada.lk/breaking_news/අවුරා-ලංකා-සභාපතිට-ඇප/11-409850) · `si`
+
+මූල්‍ය වංචාවක් සම්බන්ධයෙන් අත්අඩංගුවට ගෙන රක්ෂිත බන්ධනාගාර ගත කර සිටි අවුරා ලංකා සමාගමේ සභාපති විරංජිත් තාබුගල ඇප මත මුදා හැරීමට කොළඹ අතිරේක මහේස්ත්‍රාත් අධිකරණය අද (27දා) නියෝග කළේය.
+
+අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ මූල්‍ය අපරාධ විමර්ශන කොට්ඨාසය මගින් අත්අඩංගුවට ගෙන අධිකරණයට ඉදිරිපත් කිරීමෙන් පසුව පසුගිය 22වැනි දින තාඹගල මහතා රක්ෂිත බන්ධනාගාරගත කෙරිණි. සැකකරුට රුපියල් ලක්ෂ 100 බැගින් වූ ශරීර ඇප දෙකක් නියම කෙරිණි.
+
+◼️
+
+[Data](articles/08913843.json)
 
 ---
 
@@ -186,6 +274,8 @@ A bond maturing on 01.10.2032 closed up at 11.85/12.05 percent from 11.75/90 per
 
 [Data](articles/c08cdb4c.json)
 
+[Extended Data](ext_articles/c08cdb4c.ext.json)
+
 ---
 
 ### Sri Lanka stocks close down ahead of monetary policy announcement
@@ -207,6 +297,8 @@ Banking stocks fared poorly in the day. With the exception of Hatton National Ba
 ...
 
 [Data](articles/771c378a.json)
+
+[Extended Data](ext_articles/771c378a.ext.json)
 
 ---
 
@@ -484,6 +576,8 @@ The program seeks to promote Sri Lankan crafts internationally and make a signif
 
 [Data](articles/1a6eece5.json)
 
+[Extended Data](ext_articles/1a6eece5.ext.json)
+
 ---
 
 ### A clear answer to the politics of South Sri Lanka, which is questioned by our existence
@@ -637,6 +731,8 @@ The fishing and naval community are requested to be attentive to future forecast
 ...
 
 [Data](articles/df9665ed.json)
+
+[Extended Data](ext_articles/df9665ed.ext.json)
 
 ---
 
@@ -1244,6 +1340,8 @@ The event will feature experts in trade, development and sustainability.
 
 [Data](articles/34377adb.json)
 
+[Extended Data](ext_articles/34377adb.ext.json)
+
 ---
 
 ### Identify 123 leprosy in Vavuniya district
@@ -1496,6 +1594,8 @@ ITC, a new high end recently opened in Colombo and Cinnamon Life is expected to 
 
 [Data](articles/fe76ef22.json)
 
+[Extended Data](ext_articles/fe76ef22.ext.json)
+
 ---
 
 ### Today in History: 1964 - Nehru's death and Prime Minister Sirima's Delhi
@@ -1601,6 +1701,8 @@ However, government spokesmen continue to be emphatic that a presidential electi
 ...
 
 [Data](articles/3194e62e.json)
+
+[Extended Data](ext_articles/3194e62e.ext.json)
 
 ---
 
@@ -2249,111 +2351,5 @@ The beef has been produced in court in the middle of the heavy security measures
 [Data](articles/d1dcd089.json)
 
 [Extended Data](ext_articles/d1dcd089.ext.json)
-
----
-
-### SLFP faction led by ex-President Maithripala relocates operations
-
-*2024-05-27 11:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/99460/slfp-faction-led-by-ex-president-maithripala-relocates-operations) · `en`
-
-In light of the current political situation, the faction of the Sri Lanka Freedom Party (SLFP) led by former President Maithripala Sirisena has decided to carry out the future activities of the party from a new location instead of the party headquarters.
-
-Reportedly, this new location in Colombo will replace the SLFP headquarters on Darley Road, Colombo 10, for future political activities.
-
-The party’s internal sources said that ongoing internal conflicts and court orders have made it impractical to convene constituency and district organizers of the party at a permanent location.
-
-Therefore, the faction led by former President Sirisena has deemed it more appropriate to operate from a different location. The new political center will serve as a venue to convene district and constituency organizers from across the island to discuss upcoming political matters, as per sources.
-
-◼️
-
-[Data](articles/8c638b40.json)
-
-[Extended Data](ext_articles/8c638b40.ext.json)
-
----
-
-### Shooting incident reported near school in Matara
-
-*2024-05-27 11:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Shooting-incident-reported-near-school-in-Matara/108-283437) · `en`
-
-Colombo, May 27 - A shooting incident was reported near the Pathegama Model Primary School in Matara a short while ago.
-
-According to information received, the shooting targeted a suspect involved in a murder case. No one was reportedly injured in the shooting.
-
-Police said the gunmen fled the scene and further investigations are underway.
-
-◼️
-
-[Data](articles/f069bd13.json)
-
-[Extended Data](ext_articles/f069bd13.ext.json)
-
----
-
-### There is uniform weather in 5 districts.
-
-*2024-05-27 11:11:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/5-மாவட்டங்களில்-சீரான-வானிலை-நிலவுகின்றது/175-337954) · `ta`
-
-Recent severe weather across 19 districts resulted in 8 deaths and injuries to 13 people, affecting 45,509 individuals from 12,207 families. Disasters included house damage, tree collapses, and lightning strikes, with the worst impact in the North, East, and Northwestern regions. The situation is expected to persist for several more days.
-
-🟩
-
-Over the country, eight people have died in the last few days of inclement weather disasters in 19 districts.The Disaster Management Center has reported that 13 people were injured.
-
-According to a media report issued on Sunday (26), 45,509 people from 12,207 families have been affected.
-
-There have been disasters in 19 districts nationwide including the North and East. There is a steady weather in the North, Mannar and Vavuniya districts, both in the East, Ampara and Batticaloa districts in the Uva Province, Moneragala district and the Kurunegala district in the northwestern district.
-
-In other districts, 12 houses have been completely damaged and 3,166 houses have been damaged due to disasters, including the collapse of trees, trees, lightning and valam.
-
-Seven people died in the tree broken. Dhoni dies in an accident. Balangoda, Galle-Idamuwa, Puttalam-Madampe, Arachchikattuwa and Nattandi, Nuwara Eliya-Valappanai and Haputtalai tree collapsed.
-
-...
-
-[Data](articles/1e96c86e.json)
-
-[Extended Data](ext_articles/1e96c86e.ext.json)
-
----
-
-### There is uniform weather in 5 districts
-
-*2024-05-27 11:11:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/5-மாவட்டங்களில்-சீரான-வானிலை-நிலவுகிறது/175-337954) · `ta`
-
-In the past week, severe weather caused 8 deaths and injuries across 19 districts, affecting 45,509 individuals. Disasters included tree collapses and lightning strikes, damaging homes and causing significant disruption. The North, East, and Northwestern regions experienced varying impacts, with some areas reporting no major incidents. The Meteorological Department forecasts this weather pattern to persist for several more days.
-
-🟩
-
-Over the country, eight people have died in the last few days of inclement weather disasters in 19 districts.  The Disaster Management Center has reported that 13 people were injured.
-
-According to a media report issued on Sunday (26), 45,509 people from 12,207 families have been affected.
-
-There have been disasters in 19 districts nationwide including the North and East. There is a steady weather in the North, Mannar and Vavuniya districts, both in the East, Ampara and Batticaloa districts in the Uva Province, in the Moneragala district and the Kurunegala district in the northwestern district.
-
-In other districts, 12 houses have been completely damaged and 3,166 houses have been damaged due to disasters, including the collapse of trees, trees, lightning and valam.
-
-Seven people died in the tree broken. Dhoni dies in an accident. Balangoda, Galle-Idamuwa, Puttalam-Madampe, Arachchikattuwa and Nattandi, Nuwara Eliya-Valappanai and Haputtalai tree collapsed.
-
-...
-
-[Data](articles/cadfc95a.json)
-
-[Extended Data](ext_articles/cadfc95a.ext.json)
-
----
-
-### Dilith, Gammanpila, Wimal form new political movement - ‘Sarvajana Balaya’
-
-*2024-05-27 11:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/99459/dilith-gammanpila-wimal-form-new-political-movement-sarvajana-balaya) · `en`
-
-Several political parties including the Mawbima Janatha Party (MJP) and intellectual groups have signed an agreement in Colombo to launch a new political movement named ‘Sarvajana Balaya’ this morning (27).
-
-The Jathika Nidahas Peramuna (JNP) led by MP Wimal Weerawansa, Pivithuru Hela Urumaya (PHU) led by MP Udaya Gammanpila, Mawbima Janatha Party (MJP) led by entrepreneur Dilith Jayaweera, the Democratic Left Front, the Communist Party, the Independent MP’s Forum and several intellectual groups took part in signing the agreement to launch the new political movement ‘Sarvajana Balaya’.
-
-◼️
-
-[Data](articles/30b9c3f5.json)
-
-[Extended Data](ext_articles/30b9c3f5.ext.json)
 
 ---

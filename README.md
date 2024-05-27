@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-27 20:52:51**
+As of **2024-05-27 21:03:47**
 
 ## Newspaper Stats
 
-*Scraped **26,630** Articles*
+*Scraped **26,633** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,38 @@ newsfirstlk | 363
 islandlk | 1,442
 economynextcom | 1,525
 dailyftlk | 1,550
-adalk | 2,268
+adalk | 2,269
 adaderanalk | 3,051
 tamilmirrorlk | 3,123
 virakesarilk | 4,070
-dailymirrorlk | 4,201
-adaderanasinhalalk | 4,269
+dailymirrorlk | 4,202
+adaderanasinhalalk | 4,270
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,630 (100.0%) of 26,630 articles have been extended.
+26,630 (100.0%) of 26,633 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-27 (Monday)
+
+### අලි සබ්‍රි සහ පුත්තලම ප්‍රාදේශීය ලේකම්වරයා අතර ඇතිවූ උණුසුම
+
+*2024-05-27 20:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197082) · `si`
+
+පුත්තලම ප්‍රාදේශීය ලේකම්වරයා සහ පුත්තලම දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී අලි සබ්‍රි රහීම් අතර බහින්බස්වීමක් සිදුව තිබුණි.
+
+එම බහින්බස්වීම සිදුව තිබුණේ පුත්තලම මන්නාරම පාර ප්‍රදේශයේ රජය සතු ඉඩමක පුද්ගලයින් පිරිසක් අනවසරයෙන් පදිංචිවීමක් සම්බන්ධයෙන් සොයා බැලීමටප්‍රාදේශීය ලේකම්වරයා එහි ගිය අවස්ථාවේදීය.
+
+එහිදී මන්ත්‍රීවරයා ප්‍රාදේශීය ලේකම්වරයාට තර්ජනය කිරීමට විරෝධය පළකරමින් අද පුත්තලම ප්‍රාදේශීය ලේකම් කාර්යාලයේ නිලධාරීන් පිරිසක් උද්ඝෝෂණයකද නිරතවිය.
+
+◼️
+
+[Data](articles/29b118ec.json)
+
+---
 
 ### Darshana cruise to 400m final in China
 
@@ -51,6 +67,18 @@ Out of them six are selected based on qualifying standard which is 64m and the r
 [Data](articles/e73d70f4.json)
 
 [Extended Data](ext_articles/e73d70f4.ext.json)
+
+---
+
+### Update: Daily Mirror’s quick action leads to removal of hazardous tree branch
+
+*2024-05-27 19:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Update-Daily-Mirrors-quick-action-leads-to-removal-of-hazardous-tree-branch/108-283457) · `en`
+
+Colombo, May 27 (Daily Mirror) - Quick action by the Daily Mirror breaking news exposing the wayside hazard of a shattered branch of a mango tree hanging over the pavement along the Anagarika Dharmapala Mawatha in Colombo drew a similar quick response by the Colombo Municipal Council (CMC) and was removed by the CMC’s Disaster Management Unit a short while ago.
+
+◼️
+
+[Data](articles/7e5f208e.json)
 
 ---
 
@@ -123,6 +151,22 @@ The accident had occurred on the three vehicles leaving a lorry.
 [Data](articles/5bbf78f4.json)
 
 [Extended Data](ext_articles/5bbf78f4.ext.json)
+
+---
+
+### ඩිජිටල් චීනය ගොඩනැගීම පිළිබඳ 7 වැනි සමුළුව සාර්ථකව අවසන්
+
+*2024-05-27 18:50:19* · [`adalk`](https://www.ada.lk/breaking_news/ඩිජිටල්-චීනය-ගොඩනැගීම-පිළිබඳ-7-වැනි-සමුළුව-සාර්ථකව-අවසන්/11-409856) · `si`
+
+ඩිජිටල් චීනය ගොඩනැගීම පිළිබඳ 7 වැනි සමුළුවෙන් සාර්ථක ප්‍රතිඵල රැසක් අත්වෙයි.
+
+චීනයේ ෆූචොව් නගරයේ පැවති එම සමුළුව 25 වැනිදා අවසන් විය. ඩිජිටල් කර්මාන්තය, ඩිජිටල්කරණ පරිවර්තනය සහ නව යටිතල පහසුකම් යනාදී ක්ෂේත්‍ර ආවරණය කළ මෙවර සමුළුවේ දී යුවාන් බිලියන 203 ක වටිනාකමින් යුතු ඩිජිටල් ආර්ථික ව්‍යාපෘති 421 කට අත්සන් තබා ඇත. එය, ඉහළ මට්ටමේ ඩිජිටල් ආර්ථික කර්මාන්ත දාමයක් නිර්මාණය කිරීමට හිතකර වනු ඇති බව ද මෙහිදී අවධාරණය කෙරිණ.
+
+චීනයේ ඩිජිටල් ආර්ථිකය 2023 වසරේ දී ස්ථාවර වර්ධනයක් සාක්ෂාත් කර ඇති බව මෙම සමුළුවේ දී නිකුත් කෙරුණු "ඩිජිටල් චීනයේ සංවර්ධන වාර්තාව - 2023"  කියයි. එසේම ඩිජිටල් ආර්ථිකයේ ප්‍රධාන කර්මාන්තවල එකතු කළ අගය, දළ දේශීය නිෂ්පාදිතයෙන් 10% ක් වන බව ද එහි සඳහන් ය.
+
+◼️
+
+[Data](articles/0eaf9c61.json)
 
 ---
 
@@ -360,7 +404,9 @@ ECONOMYNEXT — All estate owners in Sri Lanka should implement the decision to 
 
 Small tea estate owners are already paying more than the prescribed minimum wage and there is a problem related to increasing these wages in the regional estate companies which have been transferred to the private sector from the government, a statement from the ministry quoted Nanayakkara as saying.
 
-President Ranil Wickremesinghe has told the cabinet of ministers that a bill must be drafted to take over the estate companies that do not implement the minimum wage and “give them to those who can implement them properly”, the statement said.
+Small estate owners however are paying pluckers based on the volume of kilo plucked around 50 rupees a kilogram.
+
+The privatized firms say they are offering more on a the basis as smallholders and workers who have not been prevented by the unions are earning between 40,000 to 75,000 rupees a month on the same basis.
 
 ...
 
@@ -2295,73 +2341,5 @@ The objective is that the inailing of misuse and individuals are controlled by t
 [Data](articles/9170ebba.json)
 
 [Extended Data](ext_articles/9170ebba.ext.json)
-
----
-
-### Minister Mahinda Amaraweera in France
-
-*2024-05-27 12:13:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரான்ஸ்-நாட்டில்-அமைச்சர்-மஹிந்த-அமரவீர/175-337962) · `ta`
-
-Mahinda Amaraweera, Sri Lanka's Minister of Agriculture, attended the 100th anniversary of the World Organization for Animal Health in Paris, France, alongside Hemali Kotalawala from the Department of Livestock Manufacturing and Health. They were invited by Hugo Idoyaga Benitez, the Director General of the World Animal Health Organization, to discuss global animal health initiatives.
-
-🟩
-
-Minister of Agriculture and Plantation Industries Mahinda Amaraweera traveled to Paris, France and participated in the 100th commemoration event of the World Organization for Animal Health.
-
-The Director General of the Department of Livestock Manufacturing and Health Hemali Kotalawala also participated in the conference.
-
-Director General of the World Animal Health Organization. At the invitation of Hugo Idoyaga Benitez, the minister and representatives participated in the conference.
-
-◼️
-
-[Data](articles/2b22e6d9.json)
-
-[Extended Data](ext_articles/2b22e6d9.ext.json)
-
----
-
-### Vegetable prices up due to rain
-
-*2024-05-27 12:12:51* · [`adalk`](https://www.ada.lk/breaking_news/වැස්ස-නිසා-එළවළු-මිල-ඉහ‍ල‍ට/11-409840) · `si`
-
-Due to heavy rainfall affecting transportation, vegetable prices in Hatton have risen significantly. The Vemarcher attributes this increase to reduced supply meeting high demand. Retail prices for various vegetables like murunga, fish, pumpkin, and lix have increased, impacting consumers and restaurants.
-
-🟩
-
-Vegetable prices in the Hatton, the prices of the prices of the island are rising along the island.
-
-The Vemarcher said that the price of vegetables had increased by the lack of a delivery of the demand as there was a strong influence.
-
-Retail Rs. 480, Murunga Rs. 240, Fish Purchase and Rs. 240, 400, Pumpkin Rs.Rs. 240, Lix, Rs. 400, Lix Rs.
-
-Consumers and the restaurant owners have been inherity in the face of rising vegetable prices.
-
-◼️
-
-[Data](articles/b9aa5ac5.json)
-
-[Extended Data](ext_articles/b9aa5ac5.ext.json)
-
----
-
-### Kalu Dushara's son arrested
-
-*2024-05-27 12:06:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/களு-துஷாராவின்-மகன்-கைது/175-337961) · `ta`
-
-Son of underworld figure Kalu Dushara, arrested in Matara for possession of heroin and narcotics, along with three others who claimed to be there for a party.
-
-🟩
-
-The son of Maharagama Kalu Dushara, a member of the underworld group, who died during a riot at the Welikada Prison in 2012, was arrested on Sunday (25) at a hostel in Pickwela, Matara.
-
-Four people have been arrested during the search for information available to the police and a packet of heroin and narcotics has been recovered from them.
-
-The four arrested have told police that they came from Colombo to Matara to arrange a party and remove the rifles.
-
-◼️
-
-[Data](articles/ea184545.json)
-
-[Extended Data](ext_articles/ea184545.ext.json)
 
 ---

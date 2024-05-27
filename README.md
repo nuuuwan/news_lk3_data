@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-27 11:03:46**
+As of **2024-05-27 11:18:36**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 4,247
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,501 (100.0%) of 26,505 articles have been extended.
+26,505 (100.0%) of 26,505 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-27 (Monday)
 
-### දිලිත් - ගම්මන්පිල - විමල් ඇතුළු පිරිසක් සන්ධානගත වෙයි
+### Dilith - Gammanpila and Wimal and several others are allied
 
 *2024-05-27 10:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197058) · `si`
 
-'එක්ව නංවන රටක් - සතුටු පිරුණු දැයක්' තේමා කරගනිමින් දේශපාලන පක්ෂ කිහිපයක් සහ සිවිල් සංවිධාන කිහිපයක් එක්වී 'සර්ව ජන බලය' නමින් නව දේශපාලන ව්‍යාපාරයක් අද (27) පිහිටුවනු ලැබීය.
+On 27th Soli Power, several political parties and civilian groups formed an alliance. Key signatories include the Mawlanda People's Party, Communist Party, Democratic Left Front, National Dialogue, and MP Channa Jayasumana through the Independent Member Forum. The pact, signed in Colombo, marks the establishment of this political movement.
 
-ඒ සඳහා මව්බිම ජනතා පක්ෂය, පිවිතුරු හෙළ උරුමය, ජාතික නිදහස් පෙරමුණ, ප්‍රජාතන්ත්‍රවාදී වාමාංශික පෙරමුණ, ශ්‍රී ලංකාවේ කොමියුනිස්ට් පක්ෂය, යුතුකම ජාතික සංවාද කවය සහ පාර්ලිමේන්තු මන්ත්‍රී මහාචාර්ය චන්න ජයසුමන මහතා ප්‍රමුඛ ස්වාධීන මන්ත්‍රී සංසදය ගිවිසුම්ගත වුණි.
+🟩
 
-අදාළ දේශපාලන ව්‍යාපාරය පිහිටුවීමේ ලිඛිත ගිවිසුමට අද කොළඹදී අත්සන් තැබීය.
+Several political parties and several civilian organizations have been established in the 'Soli Power' today (27), a few political parties and civilians.
+
+The Mawlanda People's Party, the Communist Party, the Democratic Left Front, the National dialogue and MP Channa Jayasumana was contracted by the Independential Member Forum.
+
+The written agreement to establish the political movement was signed in Colombo today.
 
 ◼️
 
 [Data](articles/3d1b33d6.json)
+
+[Extended Data](ext_articles/3d1b33d6.ext.json)
 
 ---
 
@@ -64,21 +70,29 @@ Fairly heavy showers of about 75 mm are likely at some places in the North-Weste
 
 [Data](articles/d8697c61.json)
 
+[Extended Data](ext_articles/d8697c61.ext.json)
+
 ---
 
-### හෙට උදෑසන කොළඹ - නුවර මාර්ගයේ ගමන්ගන්නා රියදුරන්ට පණිවුඩයක්
+### Message for drivers from Colombo - Kandy road tomorrow
 
 *2024-05-27 10:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197057) · `si`
 
-කොළඹ නුවර ප්‍රධාන මාර්ගය, පහළ කඩුගන්නාව ප්‍රදේශයෙන් හෙට (28) පෙරවරුවේ පැය කිහිපයක් වසා දැමීමට කටයුතු කරන බව ගොඩනැගිලි පර්යේෂණ සංවිධානය පවසයි.
+The Colombo-Kandy road will close from 8 AM to 11 AM tomorrow due to removal of debris after a tree fell, blocking the path near Gashoe Quarters.
 
-එහි ජ්‍යේෂ්ඨ භූ විද්‍යාඥ ලක්සිරි ඉන්ද්‍රතිලක මහතා පැවසුවේ හෙට උදෑසන 08.00 සිට 10.00 දක්වා හෝ උදෑසන 09.00 සිට 11.00 දක්වා කාලය තුළදී එම මාර්ග කොටස වසා දැමීමට සිදුවන බවයි.
+🟩
 
-එම ප්‍රදේශයට බලපා ඇති අයහපත් කාලගුණයක් සමඟ ගසක් ගැලවීයාම හේතුවෙන් එම ගස අසල පැවති පාෂාණ කුට්ටි දෙකක් බුරුල් වී ඇති බැවින් එම ගාෂාණ කුට්ටි එම ස්ථානයෙන් ඉවත් කිරීම සඳහා මෙම මාර්ගය වසා දැමීමට සිදුවන බව ඒ මහතා වැඩිදුරටත් පැවසීය.
+The Colombo Kandy main road will be closed for several hours in the lower Kadugannawa tomorrow (28).
+
+Senior Geologist Laksiri Indrayillelan said that the road will be closed from 08.00 am to 10:00 am to 11.00 am.
+
+He added that the route had to be closed to remove the Gashoe Quarters, as a tree was removed by two rock blocks near the tree.
 
 ◼️
 
 [Data](articles/73b95451.json)
+
+[Extended Data](ext_articles/73b95451.ext.json)
 
 ---
 
@@ -99,6 +113,8 @@ The Commissioner General of Examinations further mentioned that applications can
 ...
 
 [Data](articles/dec38645.json)
+
+[Extended Data](ext_articles/dec38645.ext.json)
 
 ---
 

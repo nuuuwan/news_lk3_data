@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-27 13:03:54**
+As of **2024-05-27 13:18:49**
 
 ## Newspaper Stats
 
-*Scraped **26,532** Articles*
+*Scraped **26,536** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,11 +13,11 @@ dbsjeyarajcom | 265
 bbccomsinhala | 265
 newsfirstlk | 363
 islandlk | 1,442
-economynextcom | 1,514
+economynextcom | 1,516
 dailyftlk | 1,550
-adalk | 2,253
+adalk | 2,254
 adaderanalk | 3,040
-tamilmirrorlk | 3,117
+tamilmirrorlk | 3,118
 virakesarilk | 4,046
 dailymirrorlk | 4,189
 adaderanasinhalalk | 4,251
@@ -26,11 +26,29 @@ adaderanasinhalalk | 4,251
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,530 (100.0%) of 26,532 articles have been extended.
+26,532 (100.0%) of 26,536 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-27 (Monday)
+
+### Opposition claims Sri Lanka ruling party wants early parliamentary polls to prevent wipe-out
+
+*2024-05-27 12:46:00* · [`economynextcom`](https://economynext.com/sri-lanka-ruling-party-wants-early-parliamentary-polls-to-secure-25-seats-opposition-164916/) · `en`
+
+ECONOMYNEXT — The ruling Sri Lanka Podujana Peramuan (SLPP) wants parliamentary elections first to prevent a wipe-out, main opposition Samagi Jana Balawegaya (SJB) MP Mujibur Rahuman said.
+
+The MP claimed that the SLPP has strategically considered the possibility that President Ranil Wickremesinghe will not win the presidential election scheduled for this year, which is why they are in a hurry to hold the parliamentary polls before.
+
+“But if it’s held after the presidential election, they will be wiped out. They have understood this politically. That’s why they want the parliamentary elections first, so they can get at least 25 seats,” Rahuman said speaking to reporters.
+
+However, government spokesmen continue to be emphatic that a presidential election will be held first. Wickremesinghe himself had said on several occasions, as recently as this week, that parliamentary elections will be held after.
+
+...
+
+[Data](articles/bd523f7c.json)
+
+---
 
 ### SLAF pilots conduct crucial evacuation mission of UN members in Africa
 
@@ -47,6 +65,26 @@ Led by SLAF pilots, the mission aimed to evacuate three UN personnel who were in
 ◼️
 
 [Data](articles/55bac09f.json)
+
+[Extended Data](ext_articles/55bac09f.ext.json)
+
+---
+
+### பொலிஸாரின் விரலை கடித்து தப்பிய ஹந்தயா
+
+*2024-05-27 12:30:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பொலிஸாரின்-விரலை-கடித்து-தப்பிய-ஹந்தயா/76-337965) · `ta`
+
+ஈஸி கேஸ் முறையில் ஹெரோயின் போதைப்பொருள் விற்பனையில் ஈடுபட்டு வரும் ஹந்தயா என அழைக்கப்படும் சந்தேகநபர், அவரை சோதனையிட சென்ற பொலிஸ் பரிசோதகரின் விரலை கடித்து அருகில் உள்ள கால்வாயில் குதித்து தப்பிச்சென்றதாக ருவன்வெல்ல பொலிஸார் தெரிவித்துள்ளனர் .
+
+பொலிஸாருக்கு கிடைக்கப்பெற்ற ரகசிய தகவலுக்கமைய ருவன்வெல்ல அட்டுலுகம பிரதேசத்தில் உள்ள விடுதி ஒன்றின் அருகில் வைத்து குறித்த நபரை பிடித்து சோதனை செய்ய முற்பட்ட போதே,  இவ்வாறு பொலிஸ் பிடியில் இருந்து தப்பிச் சென்றுள்ளார் .
+
+குறித்த சந்தேக நபர் , பதிவு செய்யப்பட்ட குற்றவாளிகள் பட்டியலில் உள்ள ஒருவர் என பொலிஸார் தெரிவித்துள்ளனர் .
+
+மேலும் காயமடைந்த பொலிஸ் பரிசோதகர் கரவனெல்ல ஆதார வைத்தியசாலையில் சிகிச்சைக்காக அனுமதித்துள்ளதாகவும் சந்தேக நபரை கைது செய்வதற்கான நடவடிக்கை மேற்கொண்டு வருவதாகவும் ருவன்வெல்ல பொலிஸார் தெரிவித்துள்ளனர் .
+
+◼️
+
+[Data](articles/331f8d75.json)
 
 ---
 
@@ -202,6 +240,20 @@ The four arrested have told police that they came from Colombo to Matara to arra
 
 ---
 
+### සිසු සැරිය බස් හෝටල් කාමර වෙලාලු
+
+*2024-05-27 12:06:13* · [`adalk`](https://www.ada.lk/breaking_news/සිසු-සැරිය-බස්-හෝටල්-කාමර-වෙලාලු/11-409839) · `si`
+
+ලක්ෂ 45 වන පාසල් ළමයින්ගෙන් ලක්ෂ 40පමණ පොදු ' ප්‍රවාහන සේවය භාවිත කරන බවත්, එම පොදු ප්‍රවාහන සේවය වෙනුවෙන් කිසිදු වැඩපිළිවෙළක් නොමැති බවත් ආර්ථික අර්බුදයේ බලපෑම සමනය කිරීම පිළිබඳ ආංශික අධීක්ෂණ කාරක සභාවේදී අනාවරණය විය. එමෙන්ම අධ්‍යාපන අමාත්‍යාංශය හරහා කුලී පදනම මත අරගෙන පෞද්ගලික බස් රථ ගෙන 'සිසුසැරිය’ බස් රථ සේවය සඳහා යොදවන බවත්, ඇතැම් බස් රථ වර්තමානයේ සියලු අපචාර ක්‍රියාකාරකම් සිදුවන ‛හෝටල් කාමර’ තත්ත්වයට පත්ව ඇති බවත් මෙහිදී අනාවරණය වූ බව එම කාරක සභාවේ සභාපති පාර්ලිමේන්තු මන්ත්‍රී ගාමිණී වලේබොඩ මහතා පැවසීය.
+
+පාසල් ළමයින් ප්‍රවාහවයට යොදා ගනු ලබන වාහනවල ප්‍රමිතිය ඉහළ නැංවීම, රියදුරන්ගේ වෘත්තීයම ගැටලු හා ගාස්තු නියාමනය, පාසල් ළමයින්ගේ ආරක්ෂාව සම්බන්ධයෙන් හඳුන්වාදිය හැකි නව ප්‍රතිපත්ති ඇතුළු කරුණු කිහිපයක් සම්බන්ධයෙන් සාකච්ඡා කිර්ම සඳහා අධ්‍යාපන අමාත්‍යාංශ, ප්‍රවාහන හා මහාමාර්ග අමාත්‍යාංශය ඇතුළු ආයත රැසක සහභාගිත්වයෙන් පැවති කමිටු රැස්වීමේදී මේ බව අනාවරණය වී තිබේ.  ඒ සම්බන්ධයෙන් සභාපතිවරයා වැඩිදුරටත් මෙලෙස අදහස් දක්වා සිටියේය.
+
+...
+
+[Data](articles/2dde8dac.json)
+
+---
+
 ### Susping of China
 
 *2024-05-27 11:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197061) · `si`
@@ -265,6 +317,24 @@ Despite attending the event, Mahinda Rajapaksa did not address the gathering dur
 [Data](articles/cbea47fe.json)
 
 [Extended Data](ext_articles/cbea47fe.ext.json)
+
+---
+
+### Sri Lanka’s Dilith, Wimal, Gammanpila, Jayasumana launch new political formation
+
+*2024-05-27 11:46:00* · [`economynextcom`](https://economynext.com/sri-lankas-dilith-wimal-gammanpila-jayasumana-launch-new-political-formation-164889/) · `en`
+
+ECONOMYNEXT — A new political formation that includes businessman and media mogul Dilith Jayaweera’s Mawbima Janatha Party (MJP), MP Wimal Weerawansa’s National Freedom Front (NFF) and MP Udaya Gammanpila’s Pivithuru Hela Urumaya (JHU), among others, has been launched.
+
+The new outfit, named Sarvajana Balaya which translates to ‘universal people’s power’ and possibly alludes to ‘universal franchise’, was launched Monday May 27 morning.
+
+Other parties in the alliance are MP Vasudewa Nanayakkara’s Democratic Left Front, the Communist Party, MP Gevindu Kumaratunga’s Yuthukama National Organisation and a collective of ‘independent’ MPs led by MP Channa Jayasumana.
+
+Leaders or representatives of all parties signed an agreement at Monday’s event. Notably, all leaders were key members of the government led by former President Gotabaya Rajapaksa as well as previous Rajapaksa-led governments or oppositions. Most, if not all, are known for their nationalist bend.
+
+...
+
+[Data](articles/1ecef62a.json)
 
 ---
 
@@ -1612,6 +1682,8 @@ Sri Lanka is a significant market for UK higher education, particularly in the r
 
 [Data](articles/b25fc324.json)
 
+[Extended Data](ext_articles/b25fc324.ext.json)
+
 ---
 
 ### Fems HER Foundation collaborates with Barista to provide easy access to menstrual hygiene
@@ -2127,91 +2199,5 @@ Following is an overview of the recent meeting between the National Environment 
 [Data](articles/6b6719e6.json)
 
 [Extended Data](ext_articles/6b6719e6.ext.json)
-
----
-
-### Granting of land rights opens doors to progress: President
-
-*2024-05-27 00:50:30* · [`dailyftlk`](https://www.ft.lk/news/Granting-of-land-rights-opens-doors-to-progress-President/56-762181) · `en`
-
-President distributes 1,286 land deeds in Jaffna district through the “Urumaya” program
-
-Says Sri Lanka, the only nation in South Asia offering free land ownership to its citizens
-
-Reveals funds have been earmarked for the construction of homes in Northern province next year
-
-Substantial reduction in the size of the high-security zone in Jaffna
-
-President Ranil Wickremesinghe on Saturday emphasised the confirmation of land rights for the people, ensuring avenues for progress.
-
-He highlighted Sri Lanka’s unique status as the sole South Asian nation offering free land rights to its citizens.
-
-Encouraging recipients to safeguard the freehold deeds from the “Heritage” program for future generations, he made these remarks the Saturday’s ceremony, where land deeds were bestowed upon the residents of the Jaffna district.
-
-...
-
-[Data](articles/0d9b6ce3.json)
-
-[Extended Data](ext_articles/0d9b6ce3.ext.json)
-
----
-
-### “Operation Sajaba”; Blueprint for Re-unification of the Green Party
-
-*2024-05-27 00:50:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Operation-Sajaba-Blueprint-for-Re-unification-of-the-Green-Party/172-283381) · `en`
-
-President Ranil Wickremesinghe welcomed to the Ceylon Workers’ Congress May Day rally at Kotagala
-
-In the 2015 elections, Wickremesinghe topped the list of Colombo  district  candidates with over 500,000 preference votes. Yet Ranil too  was buried in the 2020 avalanche of defeat. Ranil whose detractors used  to ridicule him in the past as “Mr.Bean” and ‘serial loser” was  virtually written off. It was said that Ranil Wickremesinghe’s political  career had ended
-
-The Aragalaya had been launched with the demand “Gota go home” or “Go Home Gota”. This objective was realised in July 2022. Gotabaya Rajapaksa fled the country and resigned from abroad as President. Ranil took over as acting president on  July 14, 2022
-
-Sri Lanka’s  United National Party (UNP) suffered a humiliating electoral defeat in the 2020 Parliamentary elections. Electoral debacles were nothing new to the UNP which is  referred to by some as the grand old party.
-
-...
-
-[Data](articles/7dd95acf.json)
-
-[Extended Data](ext_articles/7dd95acf.ext.json)
-
----
-
-### Sumanthiran thanks President for prioritising Northern development projects
-
-*2024-05-27 00:49:02* · [`dailyftlk`](https://www.ft.lk/news/Sumanthiran-thanks-President-for-prioritising-Northern-development-projects/56-762180) · `en`
-
-Tamil National Alliance (TNA) MP M.A. Sumanthiran on Saturday expressed his gratitude to President Ranil Wickremesinghe over the weekend for Wickremesinghe’s contributions to the Northern Province.
-
-Speaking at the inauguration of the Clinical Training and Research Block at the Jaffna University Faculty of Medicine, Sumanthiran thanked the President for prioritising the Northern Province and visiting to launch numerous development programs.
-
-On Saturday, President Ranil Wickremesinghe inaugurated the Clinical Training and Research Block at the Jaffna University Faculty of Medicine, marking the first new construction at the faculty in 46 years. The project has cost the Government an estimated Rs. 942 million.
-
-Sumanthiran noted that Wickremesinghe had visited Jaffna numerous times as Prime Minister during the Good Governance Government, taking significant steps to alleviate the hardships faced by the people of the North.
-
-...
-
-[Data](articles/b2366b73.json)
-
-[Extended Data](ext_articles/b2366b73.ext.json)
-
----
-
-### Human Rights Watch alleges crackdown over civil war anniversary
-
-*2024-05-27 00:47:32* · [`dailyftlk`](https://www.ft.lk/news/Human-Rights-Watch-alleges-crackdown-over-civil-war-anniversary/56-762179) · `en`
-
-Cites UN report calling for international prosecutions for enforced disappearances
-
-Sri Lankan authorities have threatened and detained Tamils commemorating those who died or went missing in the country’s civil war, Human Rights Watch said last week.
-
-On 17 May the United Nations human rights office issued a report calling for international prosecutions and other accountability measures to address the thousands of unresolved cases of enforced disappearances in the war, which ended on 18 May 18, 2009.
-
-“The Sri Lankan Government is in denial about atrocities its forces committed during the civil war, so it tries to silence victims and their communities instead of providing truth, justice, and reparations,” said Human Rights Watch Asia Director Elaine Pearson. “It’s clear that more international action is needed to bring relief to victims and prevent a recurrence of abuses.”
-
-...
-
-[Data](articles/9d5a6da5.json)
-
-[Extended Data](ext_articles/9d5a6da5.ext.json)
 
 ---

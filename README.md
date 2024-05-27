@@ -1,36 +1,112 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-27 19:03:32**
+As of **2024-05-27 19:18:45**
 
 ## Newspaper Stats
 
-*Scraped **26,621** Articles*
+*Scraped **26,627** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 237
 dbsjeyarajcom | 265
-bbccomsinhala | 265
+bbccomsinhala | 266
 newsfirstlk | 363
 islandlk | 1,442
 economynextcom | 1,525
 dailyftlk | 1,550
 adalk | 2,266
-adaderanalk | 3,048
+adaderanalk | 3,051
 tamilmirrorlk | 3,123
 virakesarilk | 4,070
 dailymirrorlk | 4,200
-adaderanasinhalalk | 4,267
+adaderanasinhalalk | 4,269
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,621 (100.0%) of 26,621 articles have been extended.
+26,621 (100.0%) of 26,627 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-27 (Monday)
+
+### ගංවතුර තත්ත්වයක් ගැන හදිසි දැනුම්දීමක්
+
+*2024-05-27 19:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197081) · `si`
+
+කළු ගඟේ අතු ගංගාවක් වන කුඩා ගඟ මිල්ලකන්ද ප්‍රදේශයේ සුළු ගංවතුර තත්ත්වයක් දක්වා වර්ධනය වී ඇති බව වාරිමාර්ග දෙපාර්තමේන්තුව පවසයි.
+
+එම දෙපාර්තමේන්තුව පෙන්වාදෙන්නේ අද පස්වරු 6 වනවිට කුඩා ගඟේ ජල මට්ටම මීටර් 6.53ක් දක්වා ඉහළගොස් ඇති බවය.
+
+එම මට්ටම මීටර් 8ක් ඉක්මවා ගියහොත් එය මහා ගංවතුර තත්ත්වයක් බව වාරිමාර්ග දෙපාර්තමේන්තුව සඳහන් කරයි.
+
+එසේම වාරිමාර්ග දෙපාර්තමේන්තුව සඳහන් කරන්නේ පවතින වැසි තත්ත්වයත් සමග මගුරු ගඟේ ජල මට්ටම ද ඉහළයමින් පවතින බවය.
+
+ඊට අමතරව ගිං සහ නිල්වලා ගංගාවල ජල මට්ටම් ද තවදුරටත් ඉහළයමින් පවතින බව වාරිමාර්ග දෙපාර්තමේන්තුව වැඩිදුරටත් සඳහන් කරයි.
+
+◼️
+
+[Data](articles/fc161615.json)
+
+---
+
+### Sri Lanka hopes for closer partnership in Saudi Vision 2030
+
+*2024-05-27 18:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/99475/sri-lanka-hopes-for-closer-partnership-in-saudi-vision-2030) · `en`
+
+Sri Lanka hopes to work closer with Saudi Arabia in tourism, labor and renewable energy sectors to support the Kingdom’s Vision 2030, the island nation’s new ambassador told Arab News as he assumed his post in Riyadh on Monday.
+
+A career diplomat, Omar Lebbe Ameer Ajwad concurrently served as ambassador in Oman and Yemen from 2019 to 2022. He had previously served as Sri Lanka’s acting high commissioner in Singapore and deputy high commissioner in Chennai, India.
+
+With around 26 years of experience, one of his earliest postings was as the deputy chief of mission at the Sri Lankan Embassy in Riyadh.
+
+As he lauded Saudi Arabia’s Vision 2030, Ajwad said that Sri Lanka can contribute to the transformation and diversification project.
+
+“Sri Lanka wishes to partner with Saudi Arabia in this transformative journey. Therefore, my primary focus would be on promoting economic diplomacy,” he told Arab News over the weekend.
+
+...
+
+[Data](articles/4c8e2a64.json)
+
+---
+
+### තුර්කියේ බිහිසුණු අනතුරක්
+
+*2024-05-27 18:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197080) · `si`
+
+තුර්කියේ අධිවේගී මාර්ගයක සිදුවූ බිහිසුණු අනතුරකින් පුද්ගලයින් 10 දෙනෙකුට ආසන්න ප්‍රමාණයක් මියගොස් ඇති බව විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
+
+දකුණු දිග තුර්කියේ මර්සින් ප්‍රදේශයේ අධිවේගී මාර්ගයක මෙම අනතුර සිදුව ඇත.
+
+අයපත් කාලගුණික තත්ත්වයත් සමග බස් රථයක් ප්‍රතිවිරුද්ධ මංතීරුවට ලිස්සා ගොස් කාර් රථ දෙකක ගැටී ඇති බව විදෙස් මාධ්‍ය වැඩිදුරටත් වාර්තා කර ඇත.
+
+අනතුරුව ලොරි රථයක් එම රථ තුනෙහිම වැදී මෙම අනතුර සිදුව ඇති බව එම මාධ්‍ය වාර්තා වැඩිදුරටත් සඳහන් කරයි.
+
+◼️
+
+[Data](articles/5bbf78f4.json)
+
+---
+
+### Decision taken to remove trees posing risks within Colombo city
+
+*2024-05-27 18:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/99474/decision-taken-to-remove-trees-posing-risks-within-colombo-city-) · `en`
+
+State Minister of Defence, Premitha Bandara Tennakoon says that a special programme will be implemented to cut down and remove the trees at risk of collapsing within the jurisdiction of the Colombo Municipal Council (CMC).
+
+Speaking during a press conference today (27), the State Minister also mentioned that Sri Lanka Army and Civil Defence Force personnel are expected to be deployed for the process of removing such high-risk trees.
+
+He further revealed that the relevant proceedings will be conducted under the full supervision of the Colombo Municipal Council and it has been also decided to plant new trees as a replacement for the trees that are being removed.
+
+Meanwhile, so far a total of 07 deaths have been reported due to fallen trees caused by the prevailing adverse weather conditions.
+
+...
+
+[Data](articles/1a46d97e.json)
+
+---
 
 ### President’s Fund deadline extended for 2024/2025 ICT scholarship applications
 
@@ -93,6 +169,26 @@ The High Commissioner has later distributed school bags among children while vis
 [Data](articles/0f7ec811.json)
 
 [Extended Data](ext_articles/0f7ec811.ext.json)
+
+---
+
+### Pakistan HC unveils Gallery at Kandy Museum celebrating Buddhist archeological sites
+
+*2024-05-27 18:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/99473/pakistan-hc-unveils-gallery-at-kandy-museum-celebrating-buddhist-archeological-sites) · `en`
+
+High Commissioner of Pakistan to Sri Lanka Maj. General (Rtd) Faheem Ul Aziz officially inaugurated the Pakistan Gallery located inside Kandy Museum.
+
+The gallery has recently been renovated to showcase the Buddhist archeological and heritage sites, based in different cities of Pakistan through pictures, relics, and artifacts, the Pakistan High Commission in Sri Lanka said in a statement.
+
+Accordingly, the Pakistan Gallery is now officially opened for the general public to visit, the statement mentioned.
+
+Many prominent dignitaries including Pradeep Nilanga, Diyavadana Nilame and Mr. Afzal Marikar Honorary Consul of Pakistan in Kandy attended the event.
+
+The High Commissioner has later distributed school bags among children while visiting the Kandy Temple, according to the Pakistan High Commission in Sri Lanka.
+
+◼️
+
+[Data](articles/4737fe28.json)
 
 ---
 
@@ -2243,117 +2339,5 @@ Meanwhile, officials of the Water Development Development Authority said the wat
 [Data](articles/e463d935.json)
 
 [Extended Data](ext_articles/e463d935.ext.json)
-
----
-
-### Susping of China
-
-*2024-05-27 11:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197061) · `si`
-
-A powerful earthquake struck Molei, China, causing significant damage and impacting residents.
-
-🟩
-
-China's earthquake information stated that there was a powerful earthquake in Molei, China, China.
-
-◼️
-
-[Data](articles/19407211.json)
-
-[Extended Data](ext_articles/19407211.ext.json)
-
----
-
-### French ambassador mysterious deaths in the official residence
-
-*2024-05-27 11:51:00* · [`adalk`](https://www.ada.lk/breaking_news/නිල-නිවස-තුලදී-ප්‍රංශ-තානාපති-අභිරහස්-ලෙස-මියගිහින්/11-409838) · `si`
-
-Jean Francois Packet, the French Ambassador in Sri Lanka since October 2022, was found dead in his official residence's bedroom. His body was discovered by security officers who were alerted after he did not wake up in the morning. The cause of death remains unknown, adding to the mystery surrounding his passing. Local police conducted a post-mortem examination on the 26th night. The embassy awaits a decision from France regarding the ambassador's replacement and funeral arrangements.
-
-🟩
-
-ශ්‍රී ලංකාවේ ප්‍රංශ තානාපති ජින් ෆැන්කොයිස් පොක්ටෙට් මහතා රාජගිරියේ පිහිටි ඔහුගේ නිල නිවෙසේ නිදන කාමරයේ ඇඳක් මත මියගොස් සිටිය දී ඊයේ (26) දින දහවල් සොයාගෙන තිබූ අතර 53 හැවිරිදි ඔහුගේ මරණය තවම අභිරහසකි.
-
-Jean Francois Packet was served as the French Ambassador in Sri Lanka from October 2022.
-
-ප්‍රංශ තානාපතිවරයා තනිවම  නිල නිවාසයේ වාසය කරමින් සිටි අතර තානාපතිවරයා උදෑසන අවදි නොවීම නිසා ප්‍රංශ තානාපති කාර්යාලයේ  ආරක්ෂක නිලධාරින් ඒ ගැන විපරම් කර බැලීමේ දී සිරුර නිදන කාමරයේ ඇඳ මත තිබෙනු දැක ඔහුගෙන් ප්‍රතිචාර නොමැති නිසා  වැලිකඩ පොලිසියට දැනුම් දී ඇත. මරණයට හේතු තවමත් අනාවරණය වී නොමැත.
-
-මරණය සම්බන්ධයෙන් වන ස්ථානීය මරණ පරීක්ෂණය ඊයේ (26) රාත්‍රියේ දී සිදුකර තිබෙයි. The Welikada Police have taken steps to conduct a post mortem and finding the reasons for the Ambassador's death.
-
-The Embassy has not been given to the final decision on the ambassador and the decision will be taken back to France, or whether the funeral will be brought back to France.
-
-◼️
-
-[Data](articles/9f6555fd.json)
-
-[Extended Data](ext_articles/9f6555fd.ext.json)
-
----
-
-### Gotabaya inherited a collapsed govt, not the strong one built by Mahinda, claims Namal
-
-*2024-05-27 11:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/99461/gotabaya-inherited-a-collapsed-govt-not-the-strong-one-built-by-mahinda-claims-namal) · `en`
-
-SLPP MP Namal Rajapaksa has claimed that a serious conspiracy was underway to overthrow the government established by former President Mahinda Rajapaksa.
-
-He stated that this conspiracy involved several forces even within the government itself.
-
-“The conspiracy was internal, with international forces and terror groups also attempting to destabilize the government. As a result, the ‘Yahapalana’ (good governance) government was formed. Gotabaya Rajapaksa inherited a collapsed government, not the strong one built by Mahinda Rajapaksa,” he added.
-
-He made these comments while addressing the inaugural constituency conference of the Sri Lanka Podujana Peramuna (SLPP) held in Thalawa on Sunday (26), under the patronage of former President Mahinda Rajapaksa.
-
-Despite attending the event, Mahinda Rajapaksa did not address the gathering during the conference.
-
-◼️
-
-[Data](articles/cbea47fe.json)
-
-[Extended Data](ext_articles/cbea47fe.ext.json)
-
----
-
-### Sri Lanka’s Dilith, Wimal, Gammanpila, Jayasumana launch new political formation
-
-*2024-05-27 11:46:00* · [`economynextcom`](https://economynext.com/sri-lankas-dilith-wimal-gammanpila-jayasumana-launch-new-political-formation-164889/) · `en`
-
-ECONOMYNEXT — A new political formation that includes businessman and media mogul Dilith Jayaweera’s Mawbima Janatha Party (MJP), MP Wimal Weerawansa’s National Freedom Front (NFF) and MP Udaya Gammanpila’s Pivithuru Hela Urumaya (JHU), among others, has been launched.
-
-The new outfit, named Sarvajana Balaya which translates to ‘universal people’s power’ and possibly alludes to ‘universal franchise’, was launched Monday May 27 morning.
-
-Other parties in the alliance are MP Vasudewa Nanayakkara’s Democratic Left Front, the Communist Party, MP Gevindu Kumaratunga’s Yuthukama National Organisation and a collective of ‘independent’ MPs led by MP Channa Jayasumana.
-
-Leaders or representatives of all parties signed an agreement at Monday’s event. Notably, all leaders were key members of the government led by former President Gotabaya Rajapaksa as well as previous Rajapaksa-led governments or oppositions. Most, if not all, are known for their nationalist bend.
-
-...
-
-[Data](articles/1ecef62a.json)
-
-[Extended Data](ext_articles/1ecef62a.ext.json)
-
----
-
-### Crimes against humanity are involved in war crimes
-
-*2024-05-27 11:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/184584) · `ta`
-
-A French court convicted three Syrian officials, including Assad's advisor and intelligence unit heads, for war crimes against humanity, sentencing them to life imprisonment in absentia. The ruling supports the ongoing international charges against them. This verdict offers hope to families of victims, including French-Syrian citizens Al-Daba and Majin, who were arrested and killed by Syrian authorities.
-
-🟩
-
-The French court has ruled that three officials of Syrian President Basar al -Assad have been involved in war crimes against humanity.
-
-During the historic court hearing in the French capital, Syrian authorities have been sentenced to life imprisonment in the absence of courts.
-
-The verdict against Syria's Intelligence Unit and President Assad's adviser to President Assad and President Assad's adviser to Syria's Intelligence Unit of Syria's Intelligence Unit, Abdel Salam Mehmood, director of the intelligence of Syria, Abdel Salam Mehmood, the head of the Syria's Intelligence Unit until 2019.
-
-The judge also ordered that the international war against all three officers of Syria continues to be valid.
-
-The verdict is in a way that gives confidence to the families of thousands of people who have been assassinated by authorities who worked for the Syrian government.
-
-...
-
-[Data](articles/bc0a6d3d.json)
-
-[Extended Data](ext_articles/bc0a6d3d.ext.json)
 
 ---

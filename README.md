@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-27 22:06:27**
+As of **2024-05-27 22:18:36**
 
 ## Newspaper Stats
 
-*Scraped **26,637** Articles*
+*Scraped **26,641** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,74 @@ economynextcom | 1,525
 dailyftlk | 1,550
 adalk | 2,270
 adaderanalk | 3,052
-tamilmirrorlk | 3,123
+tamilmirrorlk | 3,124
 virakesarilk | 4,070
-dailymirrorlk | 4,203
-adaderanasinhalalk | 4,271
+dailymirrorlk | 4,205
+adaderanasinhalalk | 4,272
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,635 (100.0%) of 26,637 articles have been extended.
+26,637 (100.0%) of 26,641 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-27 (Monday)
+
+### අනතුරු ඇඟවීම නොතැකූ දෙදෙනෙකු අතුරුදන්
+
+*2024-05-27 21:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197084) · `si`
+
+අනතුරු ඇඟවීම් නොතකා මුහුදු ගිය ධීවරයින් දෙදෙනෙකු අතුරුදන්ව ඇතැයි ධීවර හා ජලජ සම්පත් දෙපාර්තමේන්තුව පවසයි.
+
+ධීවර හා ජලජ සම්පත් දෙපාර්තමේන්තුව පවසන්නේ දිවයිනට බලපෑ නිරිත දිග මෝසම් වැසි තත්ත්වය හමුවේ ධීවරයින් සඳහා අනතුරු ඇඟවීම් නිකුත් කර තිබියදී එම ධීවරයින් මුහුදු ගොස් ඇති බවය.
+
+මේ අතර පවතින අධික සුළං හමුවේ අද දිනයේදීත් මුහුදු යෑමෙන් වැළකී සිටින ලෙස ධීවර සහ නාවික ප්‍රජාවට දැනුම් දී තිබේ.
+
+කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසන්නේ ඉදිරි පැය 24දීත් බස්නාහිර සබරගමුව පළාත්වලත් නුවරඑළිය දිස්ත්‍රික්කයේත් ඇතැම් ස්ථානවල මිලිමීටර් 100ට වැඩි තද වැඩි ඇතිවිය හැකි බවය.
+
+ගතවූ පැය 24 වැඩිම වර්ෂාවක් ලැබී තිබුණේ රත්නපුර කරගල ප්‍රදේශයට වන අතර එම අගය මිලිමීටර් 143.3කි.
+
+මේ අතර දිස්ත්‍රික්කයන් 7කට අදාළව නිකුත් කර ඇති නායයාමේ අනතුරු ඇඟවීම් තවදුරටත් බලපැවැත්වේ.
+
+◼️
+
+[Data](articles/5dbd6eac.json)
+
+---
+
+### Starlink internet pre-orders open in Sri Lanka
+
+*2024-05-27 21:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Starlink-internet-pre-orders-open-in-Sri-Lanka/108-283459) · `en`
+
+Colombo, May 27 (Daily Mirror) - Elon Musk's Starlink internet is now open for pre-order in Sri Lanka, with the public able to reserve Starlink by paying a fully refundable USD 9 deposit.
+
+Starlink aims to commence service in Sri Lanka in 2024, pending regulatory approval.
+
+Orders will be fulfilled on a first-come, first-served basis within each coverage area.
+
+Starlink’s Internet Constellation is one of the biggest breakthroughs in commercial satellite history. It brings nearly broadband-capable speeds and performance using a novel configuration of small satellites that work as a constellation while orbiting the Earth much lower than traditional satellites.
+
+Earlier, President Ranil Wickremesinghe said that Elon Musk had sent an application to launch the Starlink service in Sri Lanka and preliminary work to bring Starlink to Sri Lanka has been completed.
+
+◼️
+
+[Data](articles/1f64b740.json)
+
+---
+
+### புதிய அரசியல் கூட்டை அமைத்த விமல், கம்மன்பில
+
+*2024-05-27 21:52:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-அரசியல்-கூட்டை-அமைத்த-விமல்-கம்மன்பில/175-337995) · `ta`
+
+பாராளுமன்ற உறுப்பினர் விமல் வீரவன்ச தலைமையிலான தேசிய சுதந்திர முன்னணி, பாராளுமன்ற உறுப்பினர் உதய கம்மன்பில தலைமையிலான பிவித்துரு ஹெல உறுமய உள்ளடங்கலான சில அரசியல் கட்சிகள், சர்வஜன பலய எனப் பெயரிடப்பட்ட புதிய அரசியல் கூட்டொன்றை இன்று காலை அமைத்துள்ளன.
+
+◼️
+
+[Data](articles/a4ee3a14.json)
+
+---
 
 ### 10 people killed, 39 injured after bus crashes into vehicles in Turkey
 
@@ -47,6 +101,22 @@ There were 28 passengers on board the intercity bus, which was travelling from t
 ◼️
 
 [Data](articles/ab982216.json)
+
+[Extended Data](ext_articles/ab982216.ext.json)
+
+---
+
+### Failure to appoint judges to Superior Courts challenged before SC by President’s Counsel
+
+*2024-05-27 21:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Failure-to-appoint-judges-to-Superior-Courts-challenged-before-SC-by-Presidents-Counsel/108-283458) · `en`
+
+Colombo, May 27 (Daily Mirror) - A President’s Counsel with over 55 years of active practice as an Attorney-at-Law filed a Fundamental Rights application before the Supreme Court challenging the failure of the President to make judicial appointments to the Superior Courts, resulting in two vacancies in the Supreme Court and five vacancies in the Court of Appeal for several months.
+
+President’s Counsel Senaka Walgampaya filed this application seeking an order directing the respondents including the Attorney General, the representative of the President and the Constitutional Council to forthwith ensure the appointment of judges to fill the vacancies in the Court of Appeal in accordance with the Constitution.
+
+...
+
+[Data](articles/d6e080f4.json)
 
 ---
 
@@ -154,21 +224,29 @@ Colombo, May 27 (Daily Mirror) - Quick action by the Daily Mirror breaking news 
 
 ---
 
-### ඊලෝන් මස්ක් වසර අවසානයේදී ලංකාවට
+### Elon Musk to Sri Lanka at the end of the year
 
 *2024-05-27 19:02:19* · [`adalk`](https://www.ada.lk/technology/ඊලෝන්-මස්ක්-වසර-අවසානයේදී-ලංකාවට/5-409858) · `si`
 
-ටෙස්ලා සහ ස්පේස් එක්ස් හි ප්‍රධානී ඊලෝන් මස්ක් වැනි ලෝක ප්‍රසිද්ධ ව්‍යාපාරිකයන්ගේ ආයෝජන කැඳවා ගැනීමට හැකි වුවහොත් එය මෙරට ආර්ථීකයේ සංවර්ධනයට විශාල දායකත්වයක් වන බව දේශගුණික විපර්යාස පිළිබඳ ජනාධිපති ජ්‍යෙෂ්ඨ උපදේශක රුවන් විජේවර්ධන මහතා සඳහන් කළේය.
+Elon Musk, CEO of Tesla and SpaceX, is set to visit Sri Lanka at the end of the year to discuss launching the Starlink project there. This initiative aims to provide internet access to underserved areas, potentially boosting sectors like tourism. The visit follows discussions at the 10th World Water Forum, where the potential benefits of Starlink were highlighted. Musk's involvement is seen as a significant boost for Sri Lanka's economy, with expectations that his presence could attract more international investment.
 
-“Starlink” වැනි ව්‍යාපෘතියකට සම්බන්ධ වීම හරහා මෙරට අන්තර්ජාල පහසුකම දුර්වල ප්‍රදේශවලට ද ගැටළුවකින් තොරව අන්තර්ජාල පහසුකම් ලබාදීමට හැකිවන බවත් එය සංචාරක කර්මාන්තය ඇතුළු ආර්ථිකයට වැඩදායී ක්ෂේත්‍ර රැසක වර්ධනයට රුකුලක් වන බවත් ඒ මහතා පෙන්වා දුන්නේය.
+🟩
 
-දේශගුණික විපර්යාස පිළිබඳ ජනාධිපති ජ්‍යෙෂ්ඨ උපදේශක රුවන් විජේවර්ධන මහතා මේ බව සඳහන් කර සිටියේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන් අද (27) ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක් වෙමිනි.
+Senior Advisor of Climate Adviser Ruwan Wijewardene said that if the head of Tesla and Space X is capable of calling world famous businessmen, such as Elon Musts, is a major contribution to the development of the economy.
 
-එහිදී වැඩි දුරටත් අදහස් දැක්වූ රුවන් විජේවර්ධන මහතා මෙසේද පැවසීය,
+He pointed out that internet access is available to a project such as a "Starlink" and that we can provide internet access to the weak areas of the economy and that it will support the growth of a number of false fields including tourism.
+
+Speaking to Climate Change
+
+Speaking further Mr. Ruwan Wijewardene said,
+
+The 10th World Water Forum was held on the 18th to the 20th Bali Island of Indonesia from the 18th to the 20th. President Ranil Wickremesinghe and angels participated in the official invitation of Indonesian President Jooko Vidodo (Joko WidoDo). A special meeting was held between the President and Tesla and Space X, Tesla and Space X.
 
 ...
 
 [Data](articles/a6b9eeff.json)
+
+[Extended Data](ext_articles/a6b9eeff.ext.json)
 
 ---
 
@@ -2261,95 +2339,5 @@ Led by SLAF pilots, the mission aimed to evacuate three UN personnel who were in
 [Data](articles/55bac09f.json)
 
 [Extended Data](ext_articles/55bac09f.ext.json)
-
----
-
-### Handaya escaped biting his finger
-
-*2024-05-27 12:30:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பொலிஸாரின்-விரலை-கடித்து-தப்பிய-ஹந்தயா/76-337965) · `ta`
-
-Handaya, a heroin dealer, was bitten by a police inspector during a chase in Ruwanwella. He attempted to escape by jumping into a canal but was caught. The inspector was hospitalized, and efforts continue to apprehend Handaya.
-
-🟩
-
-Ruwanwella police said that the suspect, known as Handaya, who is involved in heroin sales in the Easy Case, was bitten by a police inspector who went to the inspector and jumped into a nearby canal.
-
-According to the confidential information available to the police, Ruwanwella has escaped from the clutches of the police when he tried to searched the man near a hostel in Atulugama area.
-
-The suspect is one of the registered culprits, police said.
-
-Ruwanwella police said that the injured police inspector has been admitted to the Karawanella Base Hospital for treatment and measures are being taken to arrest the suspect.
-
-◼️
-
-[Data](articles/331f8d75.json)
-
-[Extended Data](ext_articles/331f8d75.ext.json)
-
----
-
-### பொலிஸாரின் விரலை கடித்து தப்பி ஓடிய ஹந்தயா
-
-*2024-05-27 12:30:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பொலிஸாரின்-விரலை-கடித்து-தப்பி-ஓடிய-ஹந்தயா/76-337965) · `ta`
-
-Handaya, a heroin dealer, was bitten by a police inspector during an escape attempt after being caught near a hostel in Ruwanwella. He fled into a canal. The injured inspector is receiving treatment at Karawanella Hospital, while efforts continue to arrest the suspect.
-
-🟩
-
-Ruwanwella police said that the suspect, known as Handaya, who is involved in the sale of heroin in the Easy Case, has been bitten by a police inspector who went to the inspector and jumped into a nearby canal.
-
-According to the confidential information available to the police, Ruwanwella has escaped from the clutches of the police when he tried to searched the man near a hostel in Atulugama area.
-
-The suspect is one of the registered criminals, police said.
-
-மேலும் காயமடைந்த பொலிஸ் பரிசோதகர் கரவனெல்ல ஆதார வைத்தியசாலையில் சிகிச்சைக்காக அனுமதித்துள்ளதாகவும் சந்தேக நபரை கைது செய்வதற்கான நடவடிக்கை மேற்கொண்டு வருவதாகவும் ருவன்வெல்ல பொலிஸார் தெரிவித்துள்ளனர் .
-
-◼️
-
-[Data](articles/9a2c0b3a.json)
-
-[Extended Data](ext_articles/9a2c0b3a.ext.json)
-
----
-
-### Driverless vehicles banned from parking at BIA arrivals lounge
-
-*2024-05-27 12:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Driverless-vehicles-banned-from-parking-at-BIA-arrivals-lounge/108-283438) · `en`
-
-Colombo, May 27 (Daily Mirror) - A decision has been taken not to allow vehicles without drivers to be parked in the arrivals lounge premises at the Bandaranaike International Airport (BIA), Airport and Aviation Services (Sri Lanka) (Private) Limited (AASL) announced today.
-
-In the notice, AASL Chairman Engineer Athula Galketiya said the decision to prohibit vehicles without drivers from being parked in the arrivals lounge premises at Bandaranaike International Airport (BIA) was made to alleviate traffic congestion and streamline vehicular movements.
-
-Vehicles are required to arrive at the arrivals lounge only at the designated times for pickups. No permission will be granted to park any vehicle in the arrivals lounge for more than 30 minutes, even with the driver being present, Chairman Galketiya said.
-
-He said vehicles parked for more than 30 minutes at the arrivals lounge, causing traffic congestion and disregarding the orders, will be charged an extra fee upon leaving the airport.
-
-...
-
-[Data](articles/88ae8ab8.json)
-
-[Extended Data](ext_articles/88ae8ab8.ext.json)
-
----
-
-### Met. Dept. issues advisories for strong winds and heavy rain
-
-*2024-05-27 12:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/99462/met-dept-issues-advisories-for-strong-winds-and-heavy-rain) · `en`
-
-The Department of Meteorology has issued an advisory for strong winds for the Northern, North-central, Western, Southern, North-western and Central provinces and in Trincomalee and Monaragala districts.
-
-It states that strong winds of about 50-60kmph can be expected at times over Western slopes of the central hills and in Northern, North-central, Western, Southern and North-western provinces and in Trincomalee and Monaragala districts, due to the increase of south-west monsoonal wind flow over the island.
-
-Fairly strong winds of about 30-40kmph can be expected at times elsewhere of the island, says the Met. Department.
-
-Meanwhile, in a separate advisory for heavy rain, the department said the prevailing rain and wind conditions are expected to continue further due to the south-west monsoon that has established over the island.
-
-Heavy showers above 100 mm are likely at some places in Western and Sabaragamuwa provinces and in Nuwara-Eliya district.
-
-...
-
-[Data](articles/29406301.json)
-
-[Extended Data](ext_articles/29406301.ext.json)
 
 ---

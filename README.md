@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-27 14:34:17**
+As of **2024-05-27 14:52:49**
 
 ## Newspaper Stats
 
-*Scraped **26,557** Articles*
+*Scraped **26,560** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 1,442
 economynextcom | 1,516
 dailyftlk | 1,550
 adalk | 2,258
-adaderanalk | 3,041
-tamilmirrorlk | 3,118
+adaderanalk | 3,043
+tamilmirrorlk | 3,119
 virakesarilk | 4,058
 dailymirrorlk | 4,189
 adaderanasinhalalk | 4,255
@@ -26,129 +26,225 @@ adaderanasinhalalk | 4,255
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,541 (99.9%) of 26,557 articles have been extended.
+26,557 (100.0%) of 26,560 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-27 (Monday)
 
-### வங்கிகளில் அடமானம் வைக்கப்பட்டுள்ள காணிப் பத்திரங்களின் உரிமையாளர்களையும்  உரித்து வேலைத்திட்டத்தில் உள்வாங்க நடவடிக்கை – ஆளுநர் வவுனியாவில் தெரிவிப்பு
+### Aura Lanka chairman Viranjith Thambugala granted bail
 
-*2024-05-27 14:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/184601) · `ta`
+*2024-05-27 14:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/99465/aura-lanka-chairman-viranjith-thambugala-granted-bail) · `en`
 
-நாடளாவிய ரீதியில் 20 இலட்சம் காணி உறுதிகளை வழங்கும் தேசிய வேலைத்திட்டத்தின் கீழ் வவுனியா மற்றும் மன்னார் மாவட்ட மக்களுக்கான 5,400 காணி உறுதிகள் மேன்மை தங்கிய ஜனாதிபதி ரணில் விக்ரமசிங்கவினால் நேற்று ஞாயிற்றுக்கிழமை (26) வழங்கி வைக்கப்பட்டது.
+The Chairman of Aura Lanka Viranjith Thambugala who was arrested and remanded over allegations of financial fraud has been granted bail.
 
-இந்நிகழ்வில் உரையாற்றிய வடக்கு மாகாண ஆளுநர் பி.எஸ்.எம்.சார்ள்ஸ், காணிப் பத்திரங்களை மீண்டும் பிரதேச செயலாளர்களிடம் வழங்கி தங்களுக்கான உறுதிகளை பெற்றுக்கொள்வதில் மக்கள் சிரமங்களை எதிர்நோக்கியுள்ளமை தொடர்பில் அறியக்கிடைத்துள்ளதாக கூறினார்.
+The Colombo Magistrate’s Court issued this order when the case was taken up today (27), Ada Derana reporter said.
 
-காணி பத்திரம் கைமாற்றப்பட்டுள்ளமை, சீதனமாக வழங்கியுள்ளமை, வங்கிகளில் அடகு வைக்கப்பட்டுள்ளமை போன்ற காரணங்களால், பலருக்கு உரித்து திட்டத்தின் கீழ் காணி உறுதி பத்திரங்களை பெற்றுக்கொள்ள முடியாதுள்ளதாக ஆளுநர் தெரிவித்தார்.
+The Chairman of Aura Lanka, businessman Viranjith Thambugala was arrested by police over allegations of financial fraud on May 22 and was remanded until today after being produced before the Colombo Magistrate’s Court.
 
-எனினும் வங்கிகளில் அடமானம் வைக்கப்பட்டுள்ள காணி பத்திரங்கள் தொடர்பில் கலந்துரையாடி ஜனாதிபதி அவர்கள் தீர்வை பெற்றுத்தர நடவடிக்கை எடுப்பார் எனவும் கௌரவ ஆளுநர் குறிப்பிட்டார்.
+Thanbugala is the Chairman of Aura Lanka Group of Companies and the former owner of the ‘Dambulla Aura’ team in the Lanka Premier League (LPL).
 
-...
+◼️
 
-[Data](articles/34faa9f3.json)
+[Data](articles/64e0b6bb.json)
 
 ---
 
-### පොලිසියේ සැරයන්වරයෙකුට නිරුවත් කර සැරයන්වරයෙක් පහර දෙයි
+### சி.எம்.சிக்கு ஒத்துழைக்கவும்: இராணுவத்துக்கு ஜனாதிபதி பணிப்பு
+
+*2024-05-27 14:30:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மேல்-மாகாணம்/சி-எம்-சிக்கு-ஒத்துழைக்கவும்-இராணுவத்துக்கு-ஜனாதிபதி-பணிப்பு/95-337969) · `ta`
+
+மக்களுக்கும் உடமைகளுக்கும் பெரும் ஆபத்தை விளைவிக்கக்கூடிய 100 க்கும் மேற்பட்ட பழைய மற்றும் பெரிய அழுகிய  மரங்களை உடனடியாக அகற்றுவதற்கு கொழும்பு மாநகர சபை (CMC) க்கு ஒத்துழைப்பை நல்குமாறு ஜனாதிபதி ரணில் விக்கிரமசிங்க, அரச மரக் கூட்டுத்தாபனம் மற்றும் இலங்கை இராணுவத்துக்கு பணித்துள்ளார்.
+
+மே 20 ஆம் திகதி முதல் வெசாக் வாரத்தில்   நிலவிய சீரற்ற காலநிலை காரணமாக, கொழும்பு மாநகர சபையின் அதிகாரத்துக்கு உட்பட்ட பிரதேசங்களில்,  மரங்கள் முறிந்து விழுந்து அல்லது கிளைகள் சேதமடைந்ததில் 59 சம்பவங்கள் இடம்பெற்றுள்ளன.
+
+1,000 மரங்கள் தொடர்பில்  உடனடி கவனம் செலுத்தப்பட்டுள்ளதாகவும் அதில் 500 மரங்கள் பிரச்சனைக்குரிய நிலைமைகளைக் கொண்டிருப்பதாகவும் கண்டறியப்பட்டுள்ளது.  இதுபோன்ற 200 மரங்கள் பழமையான மற்றும் மிகவும் பாதிக்கப்படக்கூடிய நிலையில் இருப்பதாக அதிகாரிகள் கண்டறிந்துள்ளனர், அவற்றை விரைவில் வெட்ட வேண்டும், பொதுமக்களுக்கோ அல்லது உடைமைகளுக்கோ ஏதேனும் ஆபத்து இடம்பெறுவதை தவிர்க்க வேண்டும்.
+
+...
+
+[Data](articles/abf073e8.json)
+
+---
+
+### As many as 2,000 people feared buried under Papua New Guinea landslide
+
+*2024-05-27 14:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/99464/as-many-as-2000-people-feared-buried-under-papua-new-guinea-landslide) · `en`
+
+The landslide occurred in the mountainous Enga region in northern Papua New Guinea on Friday and the latest figure is a sharp rise from earlier estimates.
+
+Soon after the disaster occurred, the United Nations said as many as 100 may have died. That was later revised up to 670, according to estimates from the Chief of Mission for the International Organization for Migration (IOM) in the country.
+
+But that may now be a major underestimate according to the latest projection from Papua New Guinea’s disaster agency.
+
+“The landslide buried more than 2000 people alive and caused major destruction to buildings, food gardens and caused major impact on the economic lifeline of the country,” Lusete Laso Mana, Acting Director the National Disaster Centre, said in a letter to the UN.
+
+...
+
+[Data](articles/facd246c.json)
+
+---
+
+### Governor Vavuniya
+
+*2024-05-27 14:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/184601) · `ta`
+
+President Ranil Wickremesinghe presented 5,400 land guarantees in Vavuniya and Mannar districts as part of a national program aiming to provide 20 lakh such guarantees nationwide. The Governor of the Northern Province highlighted issues like land transfers and bank mortgages hindering guarantee acquisition but expressed confidence in the President finding solutions. He urged cooperation to successfully execute this initiative.
+
+🟩
+
+5,400 land guarantees for the people of Vavuniya and Mannar district were presented by President Ranil Wickremesinghe on Sunday (26) under the National Program to provide 20 lakh land guarantees across the country.
+
+Speaking at the event, Governor of the Northern Province, BSM Charles, said that the land bonds were re -issued to the Divisional Secretaries and that the people were facing the difficulties in obtaining their assurance.
+
+The governor said that many people cannot obtain land guarantees under the scheme due to the transfer of the land, the hand of the land, and the mortgage in the banks.
+
+However, the Hon'ble Governor said that the President would take action to find a solution to the banks mortgaged in the banks.
+
+Therefore, the Honorable Governor has demanded that all should cooperate successfully implement the president's dream project.
+
+◼️
+
+[Data](articles/34faa9f3.json)
+
+[Extended Data](ext_articles/34faa9f3.ext.json)
+
+---
+
+### Naked a sergeant to a police sergeant and hits a sergeant
 
 *2024-05-27 14:04:43* · [`adalk`](https://www.ada.lk/breaking_news/පොලිසියේ-සැරයන්වරයෙකුට-නිරුවත්-කර-සැරයන්වරයෙක්-පහර-දෙයි/11-409848) · `si`
 
-නුවරඑලිය පොලිසියේ රාජකාරි අවසන් කර නිවස කරා යමින් සිටි පොලිස් සැරයන්වරයෙකුට පැහැරගෙන ගොස් පහර දි තුවාල සිදු කිරිම සම්බන්ධයෙන් පුළුල් විමර්ෂණයක් ආරම්භ කර ඇති බව නුවරඑළියේ මූලස්ථාන ප්‍රධාන පොලිස් පරීක්ෂක ප්‍රේමලාල් හෙට්ටිආරච්චි මහතා පැවසිය.
+A police sergeant was attacked and injured near a house in Nuwara Eliya. The incident occurred when he went to purchase supplies around 6 pm. The assailants, who stole his uniform and mobile, were apprehended by the Nuwara Eliya Police. The victim, expected to retire soon, is receiving treatment at the Nuwara Eliya District General Hospital.
 
-මෙසේ පැහැරගැනිමට ලක් වි ඇත්තේ නුවරඑලිය පොලිස් ස්ථානයේ පොලිස් සැරයෙන්වරයෙකු ලෙස රාජකාරි කරන තවත් මාස දෙකක කාලයකින් විශ්‍රාම ලබා ගැනිමට නියමිත ඒ.සි.එම්.එම්.නවාස් (59) යන පොලිස් සැරයන්වරයයි.
+🟩
 
-පහරකැමට ලක් වු පොලිස්  සැරයන්වරයා ඉකුත් (24) රාජකාරී අවසන් කර පස්වරු 6 ට පමණ  නිවසට අවශ්‍ය එළවළු මිලදී ගැනීම සදහා බොරලන්ද ප්‍රදේශයට ගොස් ඇති බවත්, එම අවස්ථාවේදී කිසියම් පිරිසක් විශාල ගලකින් පොලිස් සැරයන්වරගේ පිටුපස ප්‍රදේශයට පහරදී පොලිස් සැරයන්වරයා බිමට ඇද වැටුණු පසු පහරදී ඇති බවත් , ඉන් අනතුරුව අත පය ගැට ගසා ලොරි රථයකින්  නුවරඑළිය පීඩෘ වත්තේ නිවසකට පොලිස් සැරයන්වරයාව රැගෙන ගොස් එම නිවසේදී ඔහු නිරුවත් කර  පහරදී ඇති බවයි පොලිසිය කියා සිටියේ.
+Headquarters Chief Inspector Premalal Hettiarachchi said that a police sergeant was taken up and injured in the police sergeant to end the house.
+
+Thus abducted, the police sergeor to be retired in another two months of the Nuwara Eliya Police Station Police Station.
+
+The assaulted police sergeant has gone to Boralanda to purchase their duties around 6 pm and have attacked the area behind a large stone and the policeman had been assaulted after falling into the ground.The police said that the police stumbled on a lorry and took the police sergeant at the Thanul in Nuwara Eliya.
+
+The Nuwara Eliya Police have been admitted to the Nuwara Eliya District General Hospital with a resident of the Padwroom Estate.
 
 ...
 
 [Data](articles/091bb39a.json)
 
+[Extended Data](ext_articles/091bb39a.ext.json)
+
 ---
 
-### ஜனாதிபதியாக வருபவர் சிறுபான்மை மக்களது பிரச்சனைகளுக்கு தீர்வுகாண முடிவுக்கு வருவாரேயானால் அவருடன் பேச்சுவார்த்தைக்கு தயார் - பாராளுமன்ற உறுப்பினர் கோவிந்தன் கருணாகரம்
+### If the president comes to an end to solve the problems of the minority people - Parliamentarian Govindan Karunagaram is ready to negotiate with him
 
 *2024-05-27 14:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/184599) · `ta`
 
-இந்த நாடு சுபீட்சமாக பொருளாதார ரீதியாக மீண்டெழ வேண்டுமென்றால், ஜனாதிபதியாக வருபவர் சிறுபான்மை மக்களைக் கருத்திற்கொண்டு, அவர்களது பிரச்சினைகளை தீர்க்கமாக ஆராய்ந்து ஒரு முடிவுக்கு வருவாரேயானால் நாங்கள் அவர்களுடன் பேசுதற்குத் தயாராக இருக்கின்றோம் என மட்டக்களப்பு மாவட்ட பாராளுமன்ற உறுப்பினர் கோவிந்தன் கருணாகரம் (ஜனா) தெரிவித்துள்ளார்.
+Govindan Karunagaram, a Batticaloa district parliamentarian, expressed readiness to negotiate with the president for economic recovery, emphasizing consideration for minority issues. He spoke at the 25th Anniversary Celebration of the Vinayaka Sports Club, highlighting the need for addressing minority problems. The People's Alliance (PA) faces challenges in nominating a presidential candidate due to past political dynamics, but potential opportunities exist for candidates supporting the PA, especially with the possibility of multiple contestants in the upcoming presidential election. This could allow any candidate to secure over 50% of the Sinhalese vote, potentially uniting Tamil Muslims and hill country people as a formidable force.
 
-மட்டக்களப்பு தேற்றாத்தீவு வெற்றி விநாயகர் விளையாட்டுக் கழகத்தின் 25 ஆவது ஆண்டு நிறைவு கொண்டாட்டமும் கலாசார நிலையாட்டு விழாவும் ஞாயிற்றுக்கிழமை (26) மாலை இடம்பெற்றது. இந்நிகழ்வில் கலந்து கொண்ட பின்னர் ஊடகங்களுக்குக் கருத்துத் தெரிவிக்கையிலேயே அவர் இவ்வாறு குறிப்பிட்டார்.
+🟩
+
+Batticaloa district parliamentarian Govindan Karunagaram (Jana) said that if the country is to be economically recovered, we are ready to talk to them if the president will consider the minority people and examine their problems.
+
+The 25th Anniversary Celebration of the Vinayaka Sports Club of Batticaloa was held on Sunday evening (26) evening. He was speaking to the media after attending the event.
+
+The PA is not in a position to field a presidential candidate at present. The people of this country are not prepared to support the PA and make their candidate win. This is because former President Gotabhaya Rajapakse, who made 69 lakhs of votes, chased him away in the last two years of the last period of 2019.. That situation is still from the Sinhalese.
 
 ...
 
 [Data](articles/2555add5.json)
 
+[Extended Data](ext_articles/2555add5.ext.json)
+
 ---
 
-### පහත් බිම් ජලයෙන් යටවෙයි
+### Inferior lands submerged
 
 *2024-05-27 14:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197067) · `si`
 
-පවතින වැසි තත්ත්වය හමුවේ ප්‍රධාන ජලාශවල ජල මට්ටම ශීඝ්‍රයෙන් ඉහළ යමින් පවතින බව වාරිමාර්ග දෙපාර්තමේන්තුව පවසයි.
+Rapidly rising water levels in main reservoirs and rivers, including Black, Gang, Nilwala, and Attanagalu Oya, threaten flooding across 19 districts, affecting over 43,000 individuals. The Navy assists in relief efforts in low-lying areas, while landslides pose additional risks. Health concerns arise due to potential dengue outbreaks.
 
-දිස්ත්‍රික්ක 19 කට බලපා ඇති මෙම වැසි තත්ත්වය හමුවේ පුද්ගලයින් 43,792 දෙනෙකු පීඩාවට පත්වී සිටී.
+🟩
 
-සක්‍රීය වූ නිරිතදිග මෝසම් වර්ෂාව දිවයිනේ දිස්ත්‍රික්ක 19කට බලපෑම් එල්ල කර ඇත.
+The water level of the main reservoirs is increasing rapidly.
 
-වැඩිම හානියක් සිදුවී ඇති පුත්තලම දිස්ත්‍රික්කයේ පහත්බිම්වල රැඳී සිටින ජනතාවට අවශ්‍ය සහන සැලසීමට නාවික හමුදාවත් එක්වී සිටී.
+43,792 persons have been affected by the rainy industry affected by 19 districts.
 
-කළු, ගිං, නිල්වලා යන ගංගා සහ අත්තනගලු ඔය මේ වනවිට ගංවතුර මට්ටමක් දක්වා ළගාවී තිබේ.
+The southwest monsoon rains have been affected by 19 districts in the island.
 
-මේ අතර මධ්‍යම කඳුකරයේ බටහිර බෑවුම් ප්‍රදේශවලට ඇදහැලෙන අධික වර්ෂාවත් සමග කාසල්රී, මාවුස්සාකැලේ සහ ඉහළ කොත්මලේ ජලාශවල ජල මට්ටම ශීඝ්‍රයෙන් ඉහළ යමින් පවතී.
+The Navy has joined hands to provide relief to the people who remain in the lowland areas in the Puttalam district.
 
-කටුගස් හීන්න දිය ඇල්ල, සෙන් ක්ලෙයාර් සහ ඩෙවොන් දියඇලිවලින් ඇද හැලෙන ජල ධාරිතාවද ඉහළ ගොස් තිබේ.
+Black, Gang, Nilwala River River and Attanagalu Oya are currently closing to a flood level.
 
-වැසි සමග ඇතිවූ සුළං තත්ත්වයකින් ගම්පොළ කුරුඳුවත්ත ගඟේ ඉහළ ප්‍රාදේශීය ලේකම් කොට්ඨාසයට අයත් රාක්ෂාව ප්‍රදේශයේ නිවාස පෙළකට හානිවී තිබුණි.
+Meanwhile, the water level of the Castlere, Mawaskele and Upper Kotmale reservoirs are increasing rapidly.
 
-ඒ අනුව නිවාසවල රැඳී සිටි පුද්ගලයින් 80 දෙනෙකු තාවකාලිකව ප්‍රදේශයේ පාසලකට යොමු කෙරුණි.
+The Katugas Diyawanna Waterfall has increased the water capacity of the Zen Claire and Devon Dialogue.
+
+A large number of houses in the Uzzathu area in the Central Divisional Secretariat of the Gampola is harmful due to a wind condition with rain.
+
+Accordingly, 80 persons who were housed were temporarily sent to school in the area.
+
+Meanwhile, landslide warnings released in seven districts will continue further.
 
 ...
 
 [Data](articles/99a519fb.json)
 
+[Extended Data](ext_articles/99a519fb.ext.json)
+
 ---
 
-### විජයදාසට එරෙහි වාරණ නියෝගය දීර්ඝ කෙරේ
+### Enjoining order against Wijayaka is extended
 
 *2024-05-27 14:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197066) · `si`
 
-ශ්‍රී ලංකා නිදහස් පක්ෂයේ වැඩබලන සභාපතිවරයා ලෙස විජයදාස රාජපක්ෂ මහතා කටයුතු කිරීම වළක්වාලමින් පනවා තිබෙන වාරණ නියෝගය ජුනි මස 27 වනදා දක්වා තවදුරටත් දීර්ඝ කරන ලෙස කොළඹ දිසා අධිකරණය නියෝග කළේය.
+An injunction against Wijayaka, extending the acting chairmanship of the SLFP until June 27, was upheld by the Colombo District Court. The case, involving ministers Lasantha Alagiyawanna, Mahinda Amaraweera, and Duminda Dissanayake, will proceed under Judge Sandun Withana and later be heard by Additional District Judge No. 07. Respondents were asked to file protests, with the next hearing set for June 27.
 
-මෙම නඩුව අද (27) කොළඹ දිසා විනිසුරු සඳුන් විතාන මහතා ඉදිරියේ කැඳවනු ලැබීය.
+🟩
 
-තමා මේ හා සමාන තවත් නඩුකරයක් විභාග කරන බැවින් මෙම නඩුව කොළඹ දිසා අධිකරණයේ අංක 07 අධිකරණ ශාලාවේ විනිසුරුවරයා වෙත යොමු කරන බව දිසා විනිසුරු විතාන මහතා නියෝග කළේය.
+The Colombo District Court ordered the injunction chairman of the SLFP as the acting chairman of the SLFP until June 27.
 
-ඉන් අනතුරුව කොළඹ දිසා අධිකරණයේ අංක 07 ශාලාවේ අතිරේක දිසා විනිසුරුවරයා ඉදිරියේ මෙම නඩුව කැඳවනු ලැබීය.
+The case was called before Colombo District Judge Sandun Withana today (27).
 
-එහිදී මෙම නඩුවට අදාළ විරෝධතා ගොනු කිරීම සඳහා කල් ලබාදෙන ලෙස වගඋත්තරකාර පාර්ශ්වයේ නීතිඥවරුන් අධිකරණයෙන් ඉල්ලා සිටියේය.
+District Judge Withanage ordered that the case would be referred to the judge of the Colombo District Court No. 07 of the Colombo District Court.
 
-ඒ අනුව අදාළ විරෝධතා ඉදිරිපත් කිරීම සඳහා කල් ලබාදුන් විනිසුරුවරයා නඩුව නැවත ජුනි මස 27 වනදා කැඳවන ලෙස නියෝග කෙරුණි.
+The case was then called before the Additional District Judge No. 07 of the Colombo District Court.
 
-අමාත්‍යවරුන් වූ ලසන්ත අලගියවන්න, මහින්ද අමරවීර සහ දුමින්ද දිසානායක විසින් මෙම නඩුව ගොනු කර තිබුණි.
+The respondents also called on the court to file protests in the case.
 
-විජයදාස රාජපක්ෂ මහතා අධිකරණ, බන්ධනාගාර කටයුතු හා ආණ්ඩුක්‍රම ව්‍යවස්ථා ප්‍රතිසංස්කරණ අමාත්‍යවරයා ලෙස කටයුතු කරයි.
+The judge was ordered to be summoned by the case again on June 27.
+
+The case was filed by the Ministers Lasantha Alagiyawanna, Mahinda Amaraweera and Duminda Dissanayake.
+
+Wijayadasa Rajapaksa serves as Minister of Justice and Prints and Constitutional Reforms.
 
 ◼️
 
 [Data](articles/b64cd406.json)
 
+[Extended Data](ext_articles/b64cd406.ext.json)
+
 ---
 
-### வவுனியா மாவட்டத்தில் 123 தொழுநோயாளர்கள் அடையாளம் - தொற்று நோயியல் வைத்திய அதிகாரி
+### Identify 123 leprosy in Vavuniya district
 
 *2024-05-27 13:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/184591) · `ta`
 
-வவுனியா மாவட்டத்தில் இதுவரை 123 தொழுநோயாளர்களும், இதில் செட்டிகுளம் பிரதேசத்தில்  69 தொழு நோயாளர்களும் அடையாளம் காணப்பட்டுள்ளதாக தொற்று நோயியல் வைத்திய அதிகாரி சுஜானி தெரிவித்துள்ளார்.
+At a seminar on leprosy, infectious disease experts revealed 123 cases in Vavuniya district, including 69 in Chettikulam. They discussed symptoms, treatment, and the importance of awareness among public organizations and journalists.
 
-இன்று திங்கட்கிழமை (27) இடம்பெற்ற  வவுனியா பிராந்திய சுகாதார சேவைகள் பணிப்பாளர் பணிமனையில் தொழுநோய் தொடர்பான விழிப்புணர்வு கருத்தரங்கின் போது இவ்வாறு தெரிவித்துள்ளார்.
+🟩
 
-இதன்போது, தொழுநோய் தொற்றும் முறை மற்றும் அதன் அறிகுறிகள், அதற்கான மருத்துவ உதவிகள் போன்ற விடயங்களையும்  தெரிவித்திருந்தார்.
+Infectious pathologists, Sujani said that 123 leprosy in the Vavuniya district and 69 patients in Chettikulam area have been identified.
 
-மேலும், இக்கருத்தரங்கில் பொது அமைப்புக்களின் பிரதிநிதிகள், ஊடகவியலாளர்கள் என பலரும் கலந்து கொண்டிருந்தமை குறிப்பிடத்தக்கது.
+He was speaking at a seminar on leprosy at the Director of the Vavuniya Regional Health Services Services Director on Monday (27).
+
+In the meantime, he also reported that leprosy infection and its symptoms and medical assistance.
+
+It is also worth noting that many of the public organizations and journalists were present at the event.
 
 ◼️
 
 [Data](articles/b7319524.json)
+
+[Extended Data](ext_articles/b7319524.ext.json)
 
 ---
 
@@ -240,21 +336,29 @@ Midigama Police partner in collaboration with several police candidates and the 
 
 *2024-05-27 13:20:25* · [`adalk`](https://www.ada.lk/breaking_news/වව්නියාව-රෝහල-ප්‍රධාන-රෝහලක්-ලෙස-සංවර්ධනයට--වව්නියාව-විශ්වවිද්‍යාලයට-නව-වෛද්‍ය-පීඨයක්/11-409846) · `si`
 
-විප්ලවයකින් තොරව, අධිකරණයේ සිර වී නොසිට සුදු ජාතිකයන් ඉඩම් අත්පත් කර ගත් නීතියෙන්ම රටේ ජනතාවට සින්නක්කර ඉඩම් අයිතිය ලබා දීමට රජය පියවර ගෙන තිබෙන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+President Ranil Wickremesinghe announced the government's initiative to grant land ownership to the people of Vavuniya without revolution, emphasizing the development of Vavuniya Hospital and the establishment of a new medical faculty at Vavuniya University. He highlighted the importance of the heritage program, providing land deeds to resettled individuals, and the recruitment of new staff for the Land Commissioner's Office. The President also discussed the economic recovery post-Covid and the economic crisis, mentioning the implementation of relief programs and the goal to transform the economy into an export-oriented one.
 
-ජනාධිපතිවරයා මේ බව සඳහන් කළේ පුදුකුඩියිරිප්පු මධ්‍ය මහා විද්‍යාලයේ පැවති “උරුමය” ඉඩම් ඔප්පු ලබාදීමේ වව්නියා දිස්ත්‍රික් වැඩසටහනට එක් වෙමිනි.
+🟩
+
+President Ranil Wickremesinghe said the government had taken steps to grant land ownership of the people without revolution without revolution.
+
+The President was addressing the Vavuniya District Program of the Vavuniya District Program to provide "heritage" land deeds held at Pudukudiyirippu Central College.
 
 වව්නියාව රෝහල ප්‍රධාන රෝහලක් ලෙස සංවර්ධනය කරන බවත්, වව්නියාව විශ්වවිද්‍යාලයට නව වෛද්‍ය පීඨයක් ලබා දීමට කටයුතු කරන බවත් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මෙහිදී පැවසීය.
 
-වව්නියාව දිස්ත්‍රික්කය තුළ උරුමය වැඩසටහන ක්‍රියාත්මක කිරීමට අමතරව නැවත පදිංචි කළ පිරිසටද කඩිනමින් ඉඩම් ඔප්පු ලබා දීමට කටයුතු කරන බවද ජනාධිපතිවරයා සඳහන් කළේය.
+In addition to implementing the heritage program in the Vavuniya district, the resettled people will be provided with the deeds to be reed.
 
-මුලතිව් දිස්ත්‍රික්කයේ ප්‍රාදේශීය ලේකම් කොට්ටාස 5ක් ආවරණය වන පරිදි සින්නක්කර ඔප්පු 600ක් ලබාදීම මෙහිදී සිදු කෙරුණු අතර “උරුමය” වැඩසටහන යටතේ මුලතිව් දිස්ත්‍රික්කය සඳහා සින්නක්කර ඔප්පු 1,376ක් ලබා දීමට නියමිතය.
+Five Divisional Secretariats covering 5 Divisional Secretaries in the Mullaitivu District have been provided with 1,376 freehold deeds for the Mullaitivu district under the "Heritage" program.
 
-මෙම උත්සව සභාව ඇමතූ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා වැඩිදුරටත් මෙසේද පැවසීය,
+Addressing the House, President Ranil Wickremesinghe further added:
+
+First, I first express my happiness for the opportunity to visit the viley district as the president.
 
 ...
 
 [Data](articles/3484d35a.json)
+
+[Extended Data](ext_articles/3484d35a.ext.json)
 
 ---
 
@@ -280,51 +384,69 @@ Qatar Airways has been injured when Qatar Airways, which was flying in Ireland f
 
 ---
 
-### வரலாற்றில் இன்று : 1964 - நேருவின் இறப்பும் பிரதமர் சிறிமாவின் டெல்லி பயணமும்
+### Today in History: 1964 - Nehru's death and Prime Minister Sirima's Delhi
 
 *2024-05-27 13:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/184592) · `ta`
 
-1964ஆம் ஆண்டு இதே திகதியில் (மே 27) பிற்பகல் 2 மணியளவில் புதுடெல்லியில், நேருவின் இல்லத்தில் அன்னாரின் உயிர் பிரிந்தது.
+On May 27, 1964, Indian Prime Minister Jawaharlal Nehru passed away, with world leaders like Queen Elizabeth offering condolences. His death led to Sri Lankan Prime Minister Sirimavo Bandaranaike traveling to Delhi for the funeral, as commemorated in the Weerakesari magazine on May 28, 1974.
 
-அவரது மறைவுக்கு பிரிட்டன் எலிசபெத் மகாராணி உள்ளிட்ட உலகத் தலைவர்கள் இரங்கல் தெரிவித்திருந்தனர்.
+🟩
 
-நேருவின் இறுதிக் கிரியைகளில் கலந்துகொள்ள அன்றைய இலங்கை பிரதமர் சிறிமாவோ பண்டாரநாயக்க டெல்லிக்கு பயணித்தமை, இரங்கல் தெரிவிக்கும் வகையில் இலங்கை முழுவதும் கொடிகளை தாழ பறக்கவிட அறிவிக்கப்பட்டமை போன்ற அன்றைய சம்பவங்களை நினைவூட்டும் வகையில் 1974 மே 28ஆம் திகதி வெளியான வீரகேசரி பத்திரிகையின் முதல் பக்கத்தை இங்கே காணலாம்.
+Annar's death was broken at Nehru's residence in New Delhi at 2 pm on the same date (May 27).
+
+World leaders, including Queen Elizabeth of Britain, expressed their condolences to his death.
+
+Here is the first page of the Weerakesari magazine published on May 28, 1974, to commemorate the events of Sri Lanka's Prime Minister Sirimavo Bandaranaike's traveling to Delhi to attend Nehru's funeral.
 
 ◼️
 
 [Data](articles/91c6d3c6.json)
 
+[Extended Data](ext_articles/91c6d3c6.ext.json)
+
 ---
 
-### யாழில் மாணவியை துஸ்பிரயோகம் செய்த ஆசிரியருக்கு விளக்கமறியல்
+### Explanation for a teacher who abused a student in Jaffna
 
 *2024-05-27 13:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/184593) · `ta`
 
-யாழில் பாடசாலை மாணவியை துஸ்பிரயோகத்திற்கு உள்ளாக்கிய குற்றச்சாட்டில் கைது செய்யப்பட்ட ஆசிரியர், நீதிமன்ற உத்தரவில் விளக்கமறியலில் தடுத்து வைக்கப்பட்டுள்ளார்.
+A teacher in Jaffna faces charges for allegedly abusing a 10-year-old girl at a local school. Following a parent's complaint, the teacher was arrested and remanded by a court order. Further investigation reveals additional victims, highlighting a broader issue of abuse.
 
-யாழ்ப்பாணம் புறநகர் பகுதியில் உள்ள பாடசாலை ஒன்றில் கற்பிக்கும் ஆசிரியர் ஒருவர் 10 வயதான பாடசாலை மாணவி ஒருவரை துஸ்பிரயோகத்திற்கு உள்ளாகியுள்ளனர்.
+🟩
 
-அது தொடர்பில் பாதிக்கப்பட்ட மாணவி தனது பெற்றோருக்கு தெரியப்படுத்தியதை அடுத்து, பெற்றோர் ஆசிரியருக்கு எதிராக பொலிஸ் நிலையத்தில் முறைப்பாடு செய்துள்ளனர்.
+The teacher arrested for allegedly abusing a schoolgirl in Jaffna has been detained in a court order.
 
-முறைப்பாட்டின் பிரகாரம் விசாரணைகளை முன்னெடுத்த பொலிஸார், ஆசிரியரை கைது செய்து மல்லாகம் நீதவான் நீதிமன்றில் முற்படுத்தியதை அடுத்து ஆசிரியரை விளக்கமறியலில் வைக்குமாறு மன்று உத்தரவிட்டுள்ளது.
+A 10 -year -old schoolgirl has been abused at a school in the suburbs of Jaffna.
 
-அதேவேளை, குறித்த ஆசிரியரினால் மேலும் சில மாணவிகளும் துஸ்பிரயோகத்திற்கு உள்ளாக்கப்பட்டுள்ளமை பொலிஸ் விசாரணைகளில் தெரிய வந்துள்ளதாக தெரிவிக்கப்படுகிறது.
+The parents have lodged a complaint at the police station against the teacher after the victim's parents informed her parents.
+
+According to the complaint, the police have ordered the teacher to be remanded after the teacher was arrested and produced at the Mallakam Magistrate's Court.
+
+At the same time, police investigations have revealed that some more students have been abused by the teacher.
 
 ◼️
 
 [Data](articles/cc276714.json)
 
+[Extended Data](ext_articles/cc276714.ext.json)
+
 ---
 
-### இன்றைய நாணய மாற்று விகிதம்
+### Today's currency exchange rate
 
 *2024-05-27 13:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/184594) · `ta`
 
-இன்று திங்கட்கிழமை (மே 27) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் விற்பனை விலை ரூபா 295.3789 ஆகவும் கொள்வனவு விலை ரூபா 304.9953 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+The current exchange rate is approximately 1 USD = 295.3789 INR.
+
+🟩
+
+The US $ 295.3789 is Rs.
 
 ◼️
 
 [Data](articles/0f113138.json)
+
+[Extended Data](ext_articles/0f113138.ext.json)
 
 ---
 
@@ -370,39 +492,53 @@ However, government spokesmen continue to be emphatic that a presidential electi
 
 ---
 
-### யாழில்.பொது வேட்பாளர் தொடர்பில் கருத்து பரிமாற்ற நிகழ்வு ஏற்பாடு - எம்.ஏ.சுமந்திரன்
+### In Jaffna
 
 *2024-05-27 12:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/184581) · `ta`
 
-பொது வேட்பாளர் தொடர்பில் யாழ்ப்பாணத்தில் கருத்து பரிமாற்ற நிகழ்வொன்றினை நடத்தவுள்ளதாக நாடாளுமன்ற உறுப்பினர் ஜனாதிபதி சட்டத்தரணி எம்.ஏ.சுமந்திரன் தெரிவித்துள்ளார்.
+Attorney MA Sumanthiran announced a public discussion in Jaffna about a common candidate, scheduled for September 9th. This event follows discussions with civil society reps and journalists advocating for the common candidate. The attorney shared his stance and listened to theirs, agreeing to facilitate a healthy debate.
 
-யாழ்.ஊடக மையத்தில் இன்று  திங்கட்கிழமை (27) நடாத்திய ஊடக சந்திப்பின் போதே அவ்வாறு தெரிவித்துள்ளார்.
+🟩
 
-பொது வேட்பாளர் தொடர்பிலான முன்னெடுப்புக்களை முன்னெடுத்துவரும் சிவில் சமூக பிரதிநிதிகள் , பத்திரிகை எழுத்தாளர்கள் உள்ளிட்டவர்கள் கடந்த சில தினங்களுக்கு முன்னர் என்னை நேரில் சந்தித்து கதைத்தார்கள்.
+Parliamentarian Attorney MA Sumanthiran has said that an event will be held in Jaffna regarding the common candidate.
 
-அதன் போது போது , பொது வேட்பாளர் தொடர்பிலான எனது நிலைப்பாட்டை அவர்களுக்கு கூறினேன். அவர்களும் , பொது வேட்பாளரை நிறுத்துவது தொடர்பிலான தமது கருத்துக்களையும் கூறினார்கள்.
+He said this during a media briefing held at the Jaffna Media Center on Monday (27).
 
-அப்போது நான் கூறினேன், பொது வேட்பாளர் தொடர்பில் பொது வெளியில் கருத்துக்களை பரிமாறும் நிகழ்வினை நடாத்தி ,அதில் ஆரோக்கியமான கலந்துரையாடலை நடாத்துவோம் என்றேன். அதற்கு அவர்களுக்கும் சம்மதித்தர்கள்.
+Civil society representatives and journalists who are carrying out the initiative on the common candidate met me a few days ago.
 
-...
+During that time, I told them my position on the common candidate. They also expressed their views on stopping the common candidate.
+
+Then I said, I said, "We will hold a public discussion on the public candidate and hold a healthy discussion on the public.. They agreed to them.
+
+In addition, the public will be able to make a comment in Jaffna on the 09th of this month, and the people will not blame one of them.. That is why I have organized the event.
+
+◼️
 
 [Data](articles/5ed18ee7.json)
 
+[Extended Data](ext_articles/5ed18ee7.ext.json)
+
 ---
 
-### திலித், விமல், கம்மன்பில புதிய கூட்டணி
+### Dilith, Wimal, Kammanpila New Alliance
 
 *2024-05-27 12:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/184590) · `ta`
 
-மவ்பீம ஜனதா பக்ஷய கட்சியின் தலைவரும், வர்த்தகருமான திலித் ஜயவீர பல அரசியல் குழுக்களுடன் இணைந்து புதிய கூட்டணியை அறிவித்துள்ளார்.
+Dilith Jayaweera, leading the Mawbima Janata Pakshaya Party, has formed a new political alliance named "Sarvajana Balaya." This coalition includes the National Freedom Front, Democratic Left Front, Pivithuru Hela Urumaya, Sri Lanka Communist Party, and the National Organization, aiming to unite various political groups under one banner.
 
-“சர்வசன அதிகாரம்” (Sarvajana Balaya) என்ற புதிய கூட்டணி இன்று திங்கட்கிழமை (27) காலை ஆரம்பிக்கப்பட்டுள்ளது.
+🟩
 
-தேசிய சுதந்திர முன்னணி சார்பில் விமல் வீரவன்ச, ஜனநாயக இடதுசாரி முன்னணி சார்பில் டி.வி.டி.திலகசிறி, பிவித்துரு ஹெல உறுமய சார்பில் உதய கம்மன்பில, இலங்கை கம்யூனிஸ்ட் கட்சி சார்பில் ஜி.வீரசிங்க, யுதுகம தேசிய அமைப்பு சார்பில் கெவிந்து குமாரதுங்க ஆகியோர் இந்த புரிந்துணர்வு ஒப்பந்தத்தில் கைச்சாத்திட்டுள்ளனர்.
+Dilith Jayaweera, the leader and businessman of the Mawbima Janata Pakshaya Party, has announced a new alliance with several political groups.
+
+The new coalition called "Sarvajana Balaya" has been launched on Monday morning.
+
+Wimal Weerawansa on behalf of the National Freedom Front, DVD Tilakasiri on behalf of the Democratic Left Front, Udaya Kammanpila on behalf of Pivithuru Hela Urumaya, G. Weerasinghe on behalf of the Sri Lanka Communist Party and Kevind Kumaratunga on behalf of the National Organization.
 
 ◼️
 
 [Data](articles/5960c621.json)
+
+[Extended Data](ext_articles/5960c621.ext.json)
 
 ---
 
@@ -410,19 +546,25 @@ However, government spokesmen continue to be emphatic that a presidential electi
 
 *2024-05-27 12:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/184589) · `ta`
 
-அவுஸ்திரேலியாவில் யூதஎதிர்ப்பு உணர்வு நான் வாழ்நாளில் காணாத அளவிற்கு தற்போது மோசமாக உள்ளது என  அவுஸ்திரேலிய பிரதிபிரதமர் ரிச்சட் மார்லஸ் தெரிவித்துள்ளார்.
+Australian Deputy Prime Minister Richard Marles expressed concern over heightened anti-Jewish sentiment in Australia, following an attack on a Jewish school in Melbourne. He emphasized the importance of unity and tolerance among all communities, stating that Australia must stand against any form of prejudice.
 
-மெல்பேர்னில் யூத பாடசாலையொன்று தாக்கப்பட்ட சம்பவத்தின் பின்னரே பிரதிபிரதமர்  இந்த கருத்தினை  வெளியிட்டுள்ளார்.
+🟩
 
-இந்நிலையில் அந்த பாடசாலைக்கு விஜயம் மேற்கொண்டுள்ள  ரிச்சட் மார்லஸ் பாடசாலையின் சுவரில் எழுதப்பட்ட வாசகங்களிற்கு எங்கள் சமூகத்தில் இடமில்லை என குறிப்பிட்டுள்ளார்.
+Australia's Australian Refugee Richard Marles said that the feeling of anti -Jewishness in Australia is now worse.
 
-இந்த தருணத்தில் இவ்வாறான உணர்வுகளிற்கு எதிராக அவுஸ்திரேலியா குரல்கொடுக்கவேண்டும் என அவர் தெரிவித்துள்ளார்.
+This comment was made only after a Jewish school in Melbourne was attacked.
 
-இஸ்லாம் குறித்த அச்ச உணர்வுகளிற்கும் அவுஸ்திரேலியாவில் இடமில்லை ஏனைய சமூகங்களிற்கு எதிரான கற்பிதங்களிற்கு இடமில்லை எனவும் அவர் தெரிவித்துள்ளார்.
+In this case, Richard Marlus, who has visited the school, said that there is no place in our community for the reading on the wall of the school.
+
+At this moment, Australia should voice the voice of such feelings.
+
+He said that there is no place in Australia and there is no room for other communities against other communities.
 
 ◼️
 
 [Data](articles/cdbfcaf0.json)
+
+[Extended Data](ext_articles/cdbfcaf0.ext.json)
 
 ---
 
@@ -644,39 +786,51 @@ If a school van is running personally, the owner of the driver's vehicle is his 
 
 ---
 
-### இஞ்சியின் விலை சடுதியாக அதிகரிப்பு!
+### Ginger prices increase muddy!
 
 *2024-05-27 12:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/184586) · `ta`
 
-ஒரு கிலோகிராம் இஞ்சியின் விலை 5,000 ரூபாவை எட்டியுள்ளதாக நாரஹேன்பிட்டி பொருளாதார மத்திய நிலையம் தெரிவித்துள்ளது.
+Ginger prices skyrocket, reaching 5,000 rupees per kg at Narahenpita Economic Center, retailing slightly lower at 4,800 rupees. Ponchikai costs 700 rupees per kg, while lemon is priced at 1,800 rupees per kg.
 
-இதன்படி, ஒரு கிலோ கிராம் இஞ்சியின் சில்லறை விலை 4,800 ரூபாவாவிற்கு விற்பனை செய்யப்படுகிறது.
+🟩
 
-இதேவேளை, ஒரு கிலோ கிராம் போஞ்சிக்காயின் விலை 700 ரூபாவாகவும், ஒரு கிலோ கிராம் எலுமிச்சையின் விலை  1,800 ரூபாவாகவும் விற்பனை செய்யப்படுகிறது.
+The price of a kilogram of ginger has reached 5,000 rupees, the Narahenpita Economic Center said.
+
+Accordingly, the retail price of a kilogram of ginger is sold for 4,800 rupees.
+
+Meanwhile, the price of a kilogram of ponchikai is sold at Rs 700 and a kilogram of lemon at Rs 1,800.
 
 ◼️
 
 [Data](articles/038f2c16.json)
 
+[Extended Data](ext_articles/038f2c16.ext.json)
+
 ---
 
-### ஆனைவிழுந்தான் சரணாலயத்தில் நூற்றுக்கணக்கான பறவைகள், மீன்களின் உயிரிழப்பு தொடர்பில் விசாரணை
+### Hundreds of birds and fish are investigated in the sanctuary
 
 *2024-05-27 12:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/184579) · `ta`
 
-கடந்த சில நாட்களாக  ரம்சா சதுப்பு நிலமான ஆனைவிழுந்தான் சரணாலயத்தில் நூற்றுக்கணக்கான பறவைகள் மற்றும் மீன்கள் உயிரிழந்துள்ளன.
+A mysterious illness has struck hundreds of birds and fish in the Ramsa Swamp Sanctuary, possibly linked to chemical waste from a nearby factory. The situation threatens the sanctuary's ecosystem and tourist attraction status. Authorities are investigating, with samples sent for veterinary analysis.
 
-சுற்றுலாப் பயணிகளை கவர்ந்த இடமான ஆனைவிழுந்தான் சரணாலயத்தில் இக்காலப்பகுதியில் இடம்பெயர்ந்து வரும் பறவைகள் சுதந்திரமாக வாழ்ந்து இனப்பெருக்கம் செய்யும்.
+🟩
 
-இந்நிலையில், அப்பகுதியிலுள்ள தொழிற்சாலை ஒன்றிலிருந்து கொட்டப்படும்  இரசாயனக் கழிவுகளால் பறவைகள் மற்றும் மீன்கள் இவ்வாறு உயிரிழந்திருக்கலாம் என அவர்கள் தெரிவிக்கின்றனர்.
+Hundreds of birds and fish have died in the Sanctuary in the ramsa swamp over the past few days.
 
-உயிரிழந்த மீன்கள் மற்றும் பறவைகளின் மாதிரிகள் பரிசோதனைக்காக பேராதனை சிறப்பு கால்நடை மருத்துவப் பிரிவுக்கு  அனுப்பிவைக்கப்பட்டுள்ளது. ஆய்வக பரிசோதனை முடிவுகள் இன்னும் வரவில்லை வன விலங்கு வட்டார பாதுகாவலர் டபிள்யூ.எல் உபநந்த தெரிவித்துள்ளார்.
+During this period, the migrant birds will live and breed at the sanctuary, which is a place where tourists are attracted.
 
-இதேவேளை, பாசிகளை அகற்றுவதில் அலட்சியம் காட்டப்படுவதால்  நீர்நிலைகள் மாசுபட்டுள்ளதாகவும், இதன் விளைவாக மீன்கள் மற்றும் பறவைகள் உயிரிழப்பதாகவும் நீர் உயிரினவளர்ப்பு அபிவிருத்தி அதிகாரசபையின் அதிகாரிகள் தெரிவித்துள்ளனர்.
+In this case, birds and fish may have been killed by chemical waste poured from a factory in the area.
+
+Samples of dead fish and birds have been sent to the Special Veterinary Medical Unit for examination. Wildlife Regional Defender
+
+Meanwhile, officials of the Water Development Development Authority said the water bodies were contaminated due to negligence in the removal of algae and that the fish and birds were killed.
 
 ◼️
 
 [Data](articles/e463d935.json)
+
+[Extended Data](ext_articles/e463d935.ext.json)
 
 ---
 
@@ -766,21 +920,29 @@ Leaders or representatives of all parties signed an agreement at Monday’s even
 
 ---
 
-### மனித குலத்திற்கு எதிரான குற்றங்கள் யுத்த குற்றங்களில் ஈடுபட்டனர் - சிரிய அதிகாரிகளிற்கு பிரான்ஸ் நீதிமன்றம் ஆயுள்தண்டனை
+### Crimes against humanity are involved in war crimes
 
 *2024-05-27 11:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/184584) · `ta`
 
-சிரிய ஜனாதிபதி பசார் அல் அசாத் அரசாங்கத்தை சேர்ந்த மூன்று அதிகாரிகள் மனித குலத்திற்கு எதிரான குற்றங்களில் யுத்த குற்றங்களி;ல் ஈடுபட்டனர் என பிரான்ஸ் நீதிமன்றம் தீர்ப்பளித்துள்ளது.
+A French court convicted three Syrian officials, including Assad's advisor and intelligence unit heads, for war crimes against humanity, sentencing them to life imprisonment in absentia. The ruling supports the ongoing international charges against them. This verdict offers hope to families of victims, including French-Syrian citizens Al-Daba and Majin, who were arrested and killed by Syrian authorities.
 
-பிரான்ஸ் தலைநகரில் இடம்பெற்ற வரலாற்று முக்கியத்துவம் வாய்ந்த நீதிமன்ற விசாரணைகளின்போது சிரிய அதிகாரிகள் மனித குலத்திற்கு எதிரான மற்றும் யுத்த குற்றங்களில் ஈடுபட்டனர் என தெரிவித்துள்ள நீதிமன்றம் குற்றம்சாட்டப்பட்டவர்கள் நீதிமன்றத்தில் இல்லாதநிலையில் ஆயுள்தண்டனை விதித்துள்ளது.
+🟩
 
-சிரியாவின் இரகசிய புலனாய்வு பிரிவின் தலைவரும் ஜனாதிபதி அசாத்தின் ஆலோசகருமான அலி மம்லூக் 2019 வரை சிரியாவின் விமானப்படையின் புலனாய்வு பிரிவின் தலைவராக செயற்பட்ட ஜமீல்ஹசன் சிரியாவின் மிகவும் பயங்கரமான மெசே தடுப்புமுகாமின் புலனாய்வு இயக்குநர் அப்தெல் சலாம் மெஹ்மூட் ஆகியோருக்கு எதிரான இந்த தீர்ப்பு சர்வதேச நீதியின் நீண்ட கரங்கள் குறித்த வலுவான செய்தியை தெரிவித்துள்ளது.
+The French court has ruled that three officials of Syrian President Basar al -Assad have been involved in war crimes against humanity.
 
-சிரியாவின் மூன்று அதிகாரிகளிற்கும் எதிரான சர்வதேச பிடியாணை தொடர்ந்தும் செல்லுபடியாகும் எனவும் நீதிபதி உத்தரவிட்டுள்ளார்.
+During the historic court hearing in the French capital, Syrian authorities have been sentenced to life imprisonment in the absence of courts.
+
+The verdict against Syria's Intelligence Unit and President Assad's adviser to President Assad and President Assad's adviser to Syria's Intelligence Unit of Syria's Intelligence Unit, Abdel Salam Mehmood, director of the intelligence of Syria, Abdel Salam Mehmood, the head of the Syria's Intelligence Unit until 2019.
+
+The judge also ordered that the international war against all three officers of Syria continues to be valid.
+
+The verdict is in a way that gives confidence to the families of thousands of people who have been assassinated by authorities who worked for the Syrian government.
 
 ...
 
 [Data](articles/bc0a6d3d.json)
+
+[Extended Data](ext_articles/bc0a6d3d.ext.json)
 
 ---
 
@@ -2161,55 +2323,5 @@ Strategically situated at No. 734B, New Parliament Road, Pelawatta, Battaramulla
 [Data](articles/f435617e.json)
 
 [Extended Data](ext_articles/f435617e.ext.json)
-
----
-
-### Sri Lanka Insurance awarded the Most Loved Life Insurance Brand of 2024
-
-*2024-05-27 03:51:00* · [`islandlk`](http://island.lk/sri-lanka-insurance-awarded-the-most-loved-life-insurance-brand-of-2024/) · `en`
-
-Sri Lanka Insurance Life (SLICLL) has once again been recognised as the Most Loved Life Insurance Brand in the country, according to LMD’s latest Brand Finance Most Loved Brand edition. This marks the seventh consecutive year that SLICLL has secured this prestigious position, highlighting the company’s unwavering commitment to serving the people of Sri Lanka.
-
-SLICLL has consistently connected with customers and the broader community by customizing its products and services to address the unique needs of all Sri Lankans. To meet the growing demand for convenience and transparency, SLICLL has continuously upgraded and innovated its offerings. The reintroduced ‘Sri Lanka Insurance Life Wealth Plus’ is a short-term investment plan with long-term protection, now featuring new benefits to better serve customers. Additionally, ‘Sri Lanka Insurance Life Early Cash’ was launched online to cater to today’s digital-savvy consumers.
-
-...
-
-[Data](articles/76c262e6.json)
-
-[Extended Data](ext_articles/76c262e6.ext.json)
-
----
-
-### Granting of freehold deeds to create 250 new jobs
-
-*2024-05-27 03:51:00* · [`islandlk`](http://island.lk/granting-of-freehold-deeds-to-create-250-new-jobs/) · `en`
-
-President Ranil Wickremesinghe has authorized the recruitment of 100 new personnel for the Land Commissioner’s Office and 150 for the Surveying Department to fast track the granting of freehold deeds for the State lands people have only live-in rights.
-
-This strategic augmentation is expected to execute this programme with utmost efficiency moving forward. This was announced by President Ranil Wickremesinghe after having recognized the staffing constraints within the Land Commissioner’s Department, which have caused delays in the process of issuing freehold deeds.
-
-He made this remark at a ceremony where land deeds were bestowed upon the residents of the Jaffna district.
-
-The President encouraged the recipients to safeguard the freehold deeds they received from the “Heritage” program for the betterment of their offspring, saying that an individual is liberated when he or she has the right to the land they are living in.
-
-...
-
-[Data](articles/d77fe109.json)
-
-[Extended Data](ext_articles/d77fe109.ext.json)
-
----
-
-### Ceylon Chamber calls on all political parties to support continuity of SOE reforms
-
-*2024-05-27 03:51:00* · [`islandlk`](http://island.lk/ceylon-chamber-calls-on-all-political-parties-to-support-continuity-of-soe-reforms-2/) · `en`
-
-The Ceylon Chamber of Commerce calls on all political parties to support the continuity of SOE reforms and the reform momentum, building on the economic stability achieved. The Chamber stresses that it is vital to prioritise and implement the reforms related to State-Owned Enterprises (SOEs), energy, and fiscal management, to ensure that the country does not revert to a crisis. It is crucial that all political parties focus on Sri Lanka’s long-term sustainability and avoid leveraging the reform process for short term election gains.
-
-...
-
-[Data](articles/e59bfc76.json)
-
-[Extended Data](ext_articles/e59bfc76.ext.json)
 
 ---

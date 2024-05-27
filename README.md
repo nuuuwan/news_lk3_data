@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-27 17:03:48**
+As of **2024-05-27 17:18:37**
 
 ## Newspaper Stats
 
-*Scraped **26,588** Articles*
+*Scraped **26,593** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,60 +15,120 @@ newsfirstlk | 363
 islandlk | 1,442
 economynextcom | 1,516
 dailyftlk | 1,550
-adalk | 2,261
-adaderanalk | 3,046
+adalk | 2,262
+adaderanalk | 3,047
 tamilmirrorlk | 3,120
 virakesarilk | 4,066
-dailymirrorlk | 4,194
+dailymirrorlk | 4,197
 adaderanasinhalalk | 4,263
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,586 (100.0%) of 26,588 articles have been extended.
+26,588 (100.0%) of 26,593 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-27 (Monday)
 
-### කොළඹ ලොකු ගස්වලට කරන්න යන දේ
+### Another hazard hanging over pedestrians: CMC FYI
+
+*2024-05-27 17:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Another-hazard-hanging-over-pedestrians-CMC-FYI/108-283452) · `en`
+
+Colombo, May 27 (Daily Mirror) - A shattered branch of a wayside mango tree over the bend bordering Lakmedura and Hunupitiya Cross Road along the Anagarika Dharmapala Mawatha in Colombo 02, loosely hanging over the pedestrians who pass underneath the this afternoon.
+
+Strong winds with showers that prevailed in the area last night had caused the branch to break in half and the Complaints Division of the Colombo Municipal Council (CMC) has already been alerted over the potential hazard, which is yet to be attended to.
+
+◼️
+
+[Data](articles/e609b487.json)
+
+---
+
+### Major drug trafficker arrested with heroin worth over Rs. 50 million
+
+*2024-05-27 17:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/99472/major-drug-trafficker-arrested-with-heroin-worth-over-rs-50-million) · `en`
+
+More information has been revealed about the suspect who had been arrested by the Kalutara Crimes Division with a large consignment of heroin.
+
+The arrested suspect is reportedly known by the alias “Walapala Hamu”, a 37-year-old, while he had been arrested on the roadside of a main road Walapala area in Panadura.
+
+It is revealed that the suspect is a main accomplice of “Dubai Tharanga”, a notorious drug trafficker who is in hiding in Dubai.
+
+The raid was carried out by police based on information received by the Officer-in-Charge (OIC) of the Kalutara Crimes Division regarding a heroin trafficking racket in Walapala, Panadura.
+
+Police further said that a haul of 1 kg and 850g of heroin was found in his possession with an estimated street value of over Rs. 50 million.
+
+During further questioning of the arrested suspect, it has been revealed that he has been involved in retail sale of heroin in many areas including Panadura, Wadduwa, Bandaragama and Horana.
+
+...
+
+[Data](articles/10ed9df9.json)
+
+---
+
+### Vesak Bodu Bathi Gee, dansala in Gothatuwa
+
+*2024-05-27 16:58:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Vesak-Bodu-Bathi-Gee-dansala-in-Gothatuwa/110-283451) · `en`
+
+A Vesak Bodu Bathi Gee and a dansala were held yesterday in Gothatuwa in celebration of the Vesak full moon Poya day. Pix by Waruna Wanniarachchi
+
+◼️
+
+[Data](articles/10559353.json)
+
+---
+
+### What to do to big trees in Colombo
 
 *2024-05-27 16:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197075) · `si`
 
-කොළඹ මහනගර සභා බල ප්‍රදේශය තුළ ඇති හඳුනාගත් අධික අවදානම් සහිත ගස් ඉදිරියේදී කපා ඉවත් කිරීම සඳහා විශේෂ වැඩපිළිවෙළක් ක්‍රියාත්මක කරන බව ආරක්ෂක රාජ්‍ය අමාත්‍ය ප්‍රමිත බණ්ඩාර තෙන්නකෝන් මහතා පවසයි.
+Colombo plans a special program to manage high-risk trees, involving the Army and Civil Defense Force under the Colombo Municipal Council's supervision. This comes after severe weather caused 7 deaths and affected over 55,000 individuals across 20 districts.
 
-අද (27) පැවති මාධ්‍ය හමුවකට එක්වෙමින් රාජ්‍ය අමාත්‍යවරයා ඒ බව සඳහන් කළේය.
+🟩
 
-එලෙස අධි අවදානම් ගස් ඉවත් කිරීමේ වැඩසටහන සඳහා හමුදාව සහ සිවිල් ආරක්ෂ බළකාය යෙදවීමට බලාපොරොත්තු වන බවද ආරක්ෂක රාජ්‍ය අමාත්‍යවරයා පැවසීය.
+Defense Minister Pipain Bandara Tennakoon says that a special program is being carried out in the future of the Colombo Municipal Council area.
 
-එම ගස් ඉවත් කිරීමේ ක්‍රියාවලිය කොළඹ මහනගර සභාවේ පූර්ණ අධික්ෂණය යටතේ ක්‍රියාත්මක කරන බවත් එසේ ඉවත්කරන ගස් සඳහා අලුත් ගස් සිටුවීමට තීන්දු කළ බවත් ආරක්ෂක රාජ්‍ය අමාත්‍ය ප්‍රමිත බණ්ඩාර තෙන්නකෝන් මහතා වැඩිදුරටත් පැවසීය.
+He was speaking at a media briefing held at a media briefing today (27).
 
-මේ අතර අයහපත් කාලගුණික තත්ත්වය හේතුවෙන් ගස් කඩාවැටීමෙන් පුද්ගල මරණ 7ක් මේ වනවිට වාර්තා වී ඇති බව ඔහු පැවසීය.
+The Army and the Civil Defense Force hope to deploy the Army and the Civil Defense Force for high risk trees.
 
-ආපදා කළමනාකරණ මධ්‍යස්ථානයේ දත්තවලට අනුව දිස්ත්‍රික්ක 20ක ප්‍රාදේශීය ලේකම් කොට්ඨාස 212ක පවුල් 14,754ක පුද්ගලයින් 55,406ක් පීඩාවට පත්ව ඇති බව  රාජ්‍ය අමාත්‍ය ප්‍රමිත බණ්ඩාර තෙන්නකෝන් මහතා පැවසීය.
+Defense State Pipaina Bandara Tennakoon added that the process of removing the trees is implemented under the supervision of the Colombo Municipal Council.
+
+Meanwhile, 7 deaths have been reported from the inclement weather due to inclement weather.
+
+According to the Disaster Management Center, 55,406 persons from 212 Divisional Secretariat Divisions in 20 districts, 55,754 families have been affected.
 
 ◼️
 
 [Data](articles/6eb8db0a.json)
 
+[Extended Data](ext_articles/6eb8db0a.ext.json)
+
 ---
 
-### සොරකමක් වැළැක්වීමට උත්සාහ කළ නළුවාට අත්වූ ඉරණම
+### The fate of the actor who tried to prevent aft
 
 *2024-05-27 16:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197074) · `si`
 
-අමෙරිකාවේ ප්‍රකට නළුවෙක් වන ජොනි වැක්ටර් වෙඩි වැදී මරණයට පත්ව ඇති බව වාර්තා වෙයි.
+Johnny, known from "General Hospital," tragically died after trying to stop a car fire in LA on Saturday. The incident occurred while he was hospitalized, confirmed by a police spokesperson.
 
-"ජෙනරල් හොස්පිටල්" නම් රූපවාහිනී කතා මාලාවේ ඔහු ප්‍රකට චරිතය කි.
+🟩
 
-පසුගිය සෙනසුරාදා (25) සේවය නිමවා නැවත නිවෙස වෙත එමින් සිටියදී ලොස් ඇන්ජලීස් හි වීථියක සිදුකරමින් තිබූ මෝටර් රථ සොරකමක් වැළැක්වීමට ඔහු උත්සාහ දරා ඇති අතර එහිදී යම් පුද්ගලයෙක් වැක්ටර් ට වෙඩිතබා තිබුණි.
+It is reported that the US-known actor Johnny shot dead.
 
-ඔහු රෝහල්ගත කරන විටත් මියගොස් සිටි බව පොලිස් ප්‍රකාශකයෙක් පැවසීය.
+He is famous in the TV series called "General Hospital".
+
+He had tried to prevent a car burner at Los Angeles last Saturday (25).
+
+A police spokesman said he was also killed while he was hospitalized.
 
 ◼️
 
 [Data](articles/f56df398.json)
+
+[Extended Data](ext_articles/f56df398.ext.json)
 
 ---
 
@@ -301,6 +361,24 @@ Police have asked them to leave the motorcycles safely and put them on a "handle
 [Data](articles/d2e2018c.json)
 
 [Extended Data](ext_articles/d2e2018c.ext.json)
+
+---
+
+### More sluice gates may be opened if rainfall increases
+
+*2024-05-27 15:29:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/More-sluice-gates-may-be-opened-if-rainfall-increases/108-283450) · `en`
+
+Colombo, May 27 (Daily Mirror) - If rainfall in the catchment areas increases during the day, it is possible that more sluice gates will need to be opened at various dams and reservoirs, the Irrigation Department’s Irrigation (Hydrology) Director Eng. S.P.C. Sugeeshwara Bandara said.
+
+Addressing the media he said 80 percent of water capacity is currently avaliable in all irrigation reservoirs and said this a considerably higher capacity.
+
+"The Deduru Oya in the Kurunegala district and the Tabbowa Wewa in the Puttalam district are currently spilling. Four sluice gates of the Deduru Oya have been opened, releasing water at a rate of 2,800 cubic inches per second. Additionally, two gates of the Tabbowa Wewa have been opened, releasing 800 cubic inches of water per second," he said.
+
+Although the situation is not currently high risk, more rain could necessitate the opening of additional sluice gates, which would pose a significant risk to residents in low-lying areas, he said.
+
+...
+
+[Data](articles/b8247e81.json)
 
 ---
 
@@ -1191,6 +1269,26 @@ In addition, the public will be able to make a comment in Jaffna on the 09th of 
 [Data](articles/5ed18ee7.json)
 
 [Extended Data](ext_articles/5ed18ee7.ext.json)
+
+---
+
+### ජල විදුලියට හොඳ කලක්
+
+*2024-05-27 12:39:40* · [`adalk`](https://www.ada.lk/breaking_news/ජල-විදුලියට-හොඳ-කලක්/11-409842) · `si`
+
+මධ්‍යම කඳුකරයේ බටහිර බෑවුම්  ප්‍රදේශ වලට සතියක පමණ කාලයක්  තිස්සේ අධික වැසි ලැබෙමින් පැවතීම නිසා ජාතික ජලවිදුලිබල පද්ධතියට අයත් මාවුස්සාකැලේ හා කාසල්රී යන ජලාශවල ජල මට්ටම සීඝ්‍රයෙන් ඉහල නගිමින් පවති.
+
+ඉකුත් මාස කීපයක කාලයක් ප්‍රමාණවත් වැසි නොලැබීම හේතුවෙන් මාවුස්සාකැලේ හා කාසල්රී යන ජලාශ වල ජල මට්ටම සමස්ථ ජල ධාරිතාවෙන් 75% දක්වා පහත බැස තිබුණි.
+
+ලක්ෂපාන ජලවිදුලිබලාගාර සංකීර්ණයට අයත්, කානියොන්, විමලසුරේන්ද්‍ර, ලක්ෂපාන, නව ලක්ෂපාන, පොල්පිටිය යන විදුලිබලාගාර 05 සඳහා ප්‍රධාන වශයෙන් ජලය සැපයෙන්නේ මවුස්සාකැලේ හා කාසල්රී යන ජලාශ දෙකෙනි.
+
+මධ්‍යම කඳුකරයේ බටහිර බෑවුම් ප්‍රදේශ වලට ඉකුත් සතියක පමණ කාලයක් පැවති අධික සුළං තත්වය මේ වන විට පහව ගොස් තිබේ.
+
+අයහපත් කාලගුණික තත්වයත් සමග මධ්‍යම කඳුකරයේ තේ කර්මාන්තශාලාවල දෛනික කටයුතු වලට තව දුරටත් බාදා පැමිණ තිබේ. සතියකට ආසන්න කාලයක් විදුලි සැපයුම් විසන්ධි වී තිබීම හේතුවෙන් වතු කම්කරු ප්‍රජාවගේ හා   ව්‍යාපාරික ප්‍රජාවගේද ජන ජීවිතයදට දැඩි ලෙස බාධා පැමිණ තිබුණි.
+
+◼️
+
+[Data](articles/7bfdd8b0.json)
 
 ---
 
@@ -2265,133 +2363,5 @@ Accordingly, the district and electoral organizers throughout the country are to
 [Data](articles/8a2682d9.json)
 
 [Extended Data](ext_articles/8a2682d9.ext.json)
-
----
-
-### Sri Lanka rupee opens broadly stable at 300.15/50 to US dollar
-
-*2024-05-27 09:35:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-broadly-stable-at-300-15-50-to-us-dollar-164875/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee depreciated slightly to open at 300.15/50 to the US dollar on Monday, from 300.10/30 the previous week before the long weekend, dealers said. Bond yields were down.
-
-A bond maturing on 15.12.2026 was quoted down at 9.85/95 percent from 9.85/10.00 percent.
-
-A bond maturing on 15.09.2027 was quoted down at 10.25/35 percent from 10.25/40 percent.
-
-A bond maturing on 01.07.2028 was quoted down at 10.65/80 percent from 10.70/80 percent.
-
-The Colombo Stock Exchange opened up. The All Share Price Index was up 0.04 percent at 12,353, the S&P SL20 was down 0.01 percent at 3,666. (Colombo/May27/2024)
-
-◼️
-
-[Data](articles/6d21ee75.json)
-
-[Extended Data](ext_articles/6d21ee75.ext.json)
-
----
-
-### Israel's attack on Israel
-
-*2024-05-27 09:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197053) · `si`
-
-In a tragic incident, 35 people were killed and hundreds injured in an airstrike on a refugee camp in Rapa, Gaza, including women and children. The Israeli security forces claim the strike targeted Hamas, but Hamas alleges it hit a civilian area. This marks the first long-distance attack since January, following eight rocket attacks from Hamas on Tel Aviv.
-
-🟩
-
-According to technology reports, 35 people were killed and hundreds were injured in a refugee camp in Rapa, Gaza.
-
-There are women and children among the victims of the deceased.
-
-The Israeli security forces said that the air strike was launched to Hamas targets.
-
-However, Hamas says the Israeli military has been launched to an area nominated in Rapa in the southern Gaza.
-
-However, the Israeli army had said that the Air Force attacked the Hamas and the attack, "the attack was carried out on the right weapons and accurate intellectual information.
-
-The Hamas had launched eight rocket attacks to Tel Avivo town yesterday.
-
-It is also said that the attack was the first long distance to the attack on January.
-
-◼️
-
-[Data](articles/545fd18d.json)
-
-[Extended Data](ext_articles/545fd18d.ext.json)
-
----
-
-### Rain and wind no longer
-
-*2024-05-27 09:23:17* · [`adalk`](https://www.ada.lk/breaking_news/වැස්ස-හා-සුළං-තවදුරටත්/11-409835) · `si`
-
-The southwest monsoon brings rain and wind, affecting various provinces including Western, Sabaragamuwa, Central, North Western, and Southern regions. Expect heavy showers in areas like Buses, Sabaragamuwa, and parts of Nuwara Eliya district. Showers are also predicted in Uva and Eastern Provinces. Strong winds are expected in Trincomalee-Mountains, Northern, North Western, Southern, and North Western Provinces, with gusts reaching 50-60 km/h.
-
-🟩
-
-The southwest monsoon is a detention of the wind and the rainy industry, the Met Department said.
-
-Thundershowers showers or thundershowers will occur at times in the Western, Sabaragamuwa, Central, North Western and Southern provinces.
-
-Buses and Sabaragamuwa provinces were also in some places in the Nuwara Eliya district.. The department says about 75 heavy showers.
-
-The announcement shows that there will be showers at several places in the Uva and Eastern Provinces.
-
-Steps in the Trincomalee-Mountains and Northern, North, North, Western, Southern and North Western Provinces and in Trincomalee.. (50-60) erected strong winds
-
-It is reported that situates in the other hand.. Strong winds can occur, the Department added.
-
-◼️
-
-[Data](articles/56fc1050.json)
-
-[Extended Data](ext_articles/56fc1050.ext.json)
-
----
-
-### Tourist arrivals that cross 100,000 this month
-
-*2024-05-27 09:22:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இம்மாதத்தில்-100-000ஐக்-கடக்கவுள்ள-சுற்றுலாப்பயணிகளின்-வருகை/175-337943) · `ta`
-
-Tourist arrivals in Sri Lanka are projected to exceed 100,000 this month, despite being lower than May's 120,934 to 131,112. The first three weeks saw 79,431 arrivals, down from last May's 83,309. Visa issues may be contributing to the decline, with India accounting for the highest percentage of arrivals (26%), followed by the Maldives (11%).
-
-🟩
-
-Although the arrival of tourists to Sri Lanka is expected to cross 100,000, it is behind 120,934 to 131,112 in May.
-
-The Sri Lanka Tourism Development Authority reveals that 79 and 431 people have arrived in the first three weeks of this month, ie the first to 21st of this month.. In May last year, 83,309 people arrived.
-
-From April to summer, the arrival of tourists is low. Officials, however, have said that the issue of Visab could be the cause of this month's fall.
-
-With a maximum of 26 per cent of the arrival in India, 11 percent from the Maldives are in the second place.
-
-◼️
-
-[Data](articles/5a5a5fd4.json)
-
-[Extended Data](ext_articles/5a5a5fd4.ext.json)
-
----
-
-### The arrival of tourists will exceed 100,000
-
-*2024-05-27 09:22:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுற்றுலாப்பயணிகளின்-வருகை-100-000ஐக்-தாண்டும்/175-337943) · `ta`
-
-Tourist arrivals in Sri Lanka are projected to surpass 100,000, but remain below the 120,934 to 131,112 range seen in May. The Sri Lanka Tourism Development Authority reports 79,431 arrivals in the first three weeks of this month, compared to 83,309 in May last year. Tourist numbers are low from April to summer, possibly due to visa issues. India leads with 26% of arrivals, followed by the Maldives with 11%.
-
-🟩
-
-Although the arrival of tourists to Sri Lanka is expected to cross 100,000, it is behind 120,934 to 131,112 in May.
-
-The Sri Lanka Tourism Development Authority reveals that 79 and 431 people have arrived in the first three weeks of this month, ie the first to 21st of this month.. In May last year, 83,309 people arrived.
-
-From April to summer, the arrival of tourists is low. Officials, however, have said that the issue of Visab could be the cause of this month's fall.
-
-With a maximum of 26 per cent of the arrival in India, 11 percent from the Maldives are in the second place.
-
-◼️
-
-[Data](articles/e1bdda2b.json)
-
-[Extended Data](ext_articles/e1bdda2b.ext.json)
 
 ---

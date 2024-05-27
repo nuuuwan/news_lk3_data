@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-27 15:33:50**
+As of **2024-05-27 15:52:46**
 
 ## Newspaper Stats
 
-*Scraped **26,569** Articles*
+*Scraped **26,571** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,442
 economynextcom | 1,516
 dailyftlk | 1,550
 adalk | 2,258
-adaderanalk | 3,043
+adaderanalk | 3,045
 tamilmirrorlk | 3,120
 virakesarilk | 4,059
 dailymirrorlk | 4,192
@@ -26,53 +26,107 @@ adaderanasinhalalk | 4,259
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,565 (100.0%) of 26,569 articles have been extended.
+26,569 (100.0%) of 26,571 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-27 (Monday)
 
-### පානදුරදී හෙරොයින් සමග කොටුවූ සැකකරු ගැන තවත් තොරතුරු
+### Important notice for vehicles arriving at Katunayake Airport premises
+
+*2024-05-27 15:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/99468/important-notice-for-vehicles-arriving-at-katunayake-airport-premises-) · `en`
+
+Airport and Aviation Services (Sri Lanka) (Private) Limited says that necessary steps have been taken to streamline the parking of vehicles outside the arrival terminal at Bandaranaike International Airport (BIA) in Katunayake.
+
+Accordingly, a decision has been taken to prohibit the parking of vehicles without a driver at that location and also that vehicles arriving to pick up passengers should remain at the car park and arrive at the front of the airport’s arrival terminal only at the scheduled time for the pickup.
+
+Airport and Aviation Services (Sri Lanka) (Private) Limited also stated that if the vehicles are parked for more than 30 minutes at that location while causing traffic congestion in the area even with the driver, an extra fee would be charged when the vehicles are leaving the premises.
+
+They further stated that the main objective of this is to control the arrival of unauthorized vehicles and persons at the airport premises.
+
+◼️
+
+[Data](articles/4ce9c06b.json)
+
+---
+
+### More information about the suspect in Panadura
 
 *2024-05-27 15:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197071) · `si`
 
-කළුතර අපරාධ කොට්ඨාශය විසින් හෙරොයින් තොගයක් සමග අත්අඩංගුවට ගත් සැකකරු පිළිබඳව මේ වනවිට තවත් තොරතුරු රැසක් හෙළිවී තිබේ.
+A suspect arrested by the Kalutara Crimes Division for heroin trafficking is linked to Dubai-based drug trafficker Dubai Tharanga. The arrest followed a raid based on intelligence about heroin dealing in Panadura's Talapola area. The suspect, a 37-year-old man, was found with 850 grams of heroin worth over Rs. 5 billion. Further investigations reveal a wider heroin network across Panadura, Wadduwa, Bandaragama, and Horana, and the suspect's addiction to heroin.
 
-වැඩිදුරටත් තොරතුරු අනාවරණය වී ඇත්තේ මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ "වලපල හාමු" නමැති අන්වර්ථ නාමයෙන් හඳුන්වන අයෙකු බවය.
+🟩
 
-එම සැකකරු ඩුබායි රාජ්‍යයේ සැඟව සිටින මත්ද්‍රව්‍ය ජාවාරම්කරුවෙකු වන "ඩුබායි තරංගගේ" ප්‍රධාන ගෝලයෙකු බවට තොරතුරු අනාවරණය වී ඇත.
+There have been no more information regarding the suspect arrested by the Kalutara Crimes Division with a large haul of heroin.
 
-පානදුර වලපල ප්‍රදේශයේ ක්‍රියාත්මක වන හෙරොයින් ජාවාරමක් සම්බන්ධයෙන් කළුතර අපරාධ කොට්ඨාසයේ ස්ථානාධිපති තිලංග සංජීව මහතාට ලද තොරතුරකට අනුව පොලීසිය විසින් මෙම වැටලීම ක්‍රියාත්මක කර තිබුණි.
+Further, further has been revealed that the nickname is known by the "Walapala Em.".
 
-එහිදී පානදුර වලපල ප්‍රදේශයේ ප්‍රධාන මාර්ගයක් අසළ රැඳී සිටි සැකකාර "වලපල හාමු" නමැති 37 හැවිරිදි වියේ පසුවන පුද්ගලයාව හෙරොයින් සමග අත්අඩංගුවට ගෙන තිබුණි.
+It is revealed that the suspect is a primary disciple of Dubai, Dubai Tharanga, a hiding drug trafficker in Dubai.
 
-ඔහු සන්තකයේ තිබී හෙරොයින් මත්ද්‍රව්‍ය කිලෝ 1යි ග්‍රෑම් 850ක් සොයාගෙන ඇති අතර එහි වටිනාකම රුපියල් කෝටි 5කට අධික බවද පොලීසිය වැඩිදුරටත් පවසයි.
+The police had implemented the raid on information received by the OIC of the Kalutara Crimes Division regarding a heroin trafficking in the Talapola area in Panadura.
+
+A 37-year-old man who was near the main road in the Talapola area in the Talapola area in Panadura had been arrested with heroin.
+
+Heroin found in his possession and 850 grams of heroin, which was worth over Rs. 5 billion.
+
+In response, further interrogations made by the arrested suspect had revealed that heroin racket had been carried out in Panadura, Panadura, Wadduwa, Bandaragama and Horana.
+
+It has also been revealed that the arrested suspect is a drug addictive to the use of heroin.
 
 ...
 
 [Data](articles/ddccfef3.json)
 
+[Extended Data](ext_articles/ddccfef3.ext.json)
+
 ---
 
-### කුලියාපිටිය ඝාතනය - 10වන සැකකරු ගැන එළියට ආ කතාව
+### Over 1 million evacuated as Cyclone Remal brings heavy rain to Bangladesh and India
 
-*2024-05-27 15:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197070) · `si`
+*2024-05-27 15:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/99466/over-1-million-evacuated-as-cyclone-remal-brings-heavy-rain-to-bangladesh-and-india) · `en`
 
-කුලියාපිටිය තරුණයා ව ඝාතනයට අදාළව වරින්වර අත්අඩංගුවට ගෙන රක්ෂිත බන්ධනාගාර ගතකොට සිටින සැකකරුවන් 10දෙනා යළිත් රක්ෂිත බන්ධනාගාර ගතකරන්නැයි කුලියාපිටිය මහෙස්ත්‍රාත් රන්දික ලක්මාල් ජයලත් මහතා අද (27) නියම කළේය.
+Tropical Cyclone Remal made landfall in Bangladesh on Sunday, bringing torrential rain and heavy winds as it continues to move inland across eastern India, toppling trees, turning roads into rivers and causing large-scale damage.
 
-කුලියාපිටිය කැලෑබද ප්‍රදේශයකදී තරුණයෙකු ඝාතනය සම්බන්ධව කුලියාපිටිය පොලීසිය ගොනුකර තිබූ නඩුව අද නැවත කැඳවූ අවස්ථාවේදී එම නියෝගය නිකුත් කළේය.
+More than 1 million vulnerable people across both countries were evacuated from their homes ahead of Remal’s arrival, authorities said, with volunteers and army staff mobilized to assist with clean-up efforts and distribute food and water to displaced families.
 
-නඩුව කැඳවූ අවස්ථාවේ පොලීසිය සිය පරීක්ෂණවල ප්‍රගතිය වැඩිදුර වාර්තාවක් මගින් අධිකරණයට ඉදිරිපත් කළේය.
+Remal made landfall packing gusts of up to 135 kilometers per hour (84 mph) and is moving northwards across Bangladesh and its adjoining West Bengal coasts, the Indian Meteorological Department said.
 
-මෙම ඝාතනයේ එක් සැකකරුවෙක් වන සිඟිතිගේ මස්සිනා ඇතුළු කිහිප දෙනෙකුට සැඟව සිටීමට උපකාර කළැයි කියන 10වන සැකකරු වෙනුවෙන් පෙනීසිටි නීතීඥ චන්දන යාපා කියා සිටියේ පොලීසිය කරුණු කියා ඇති ආකාරයට තම සේවාදායකයා ඝාතනයෙන් පසුව සැකකරුවන්ට උපකාර කර ඇති බවය.
-
-එසේ තිබියදී ඔහුට මිනීමැරුම් චෝදනාව එල්ලකර ඇති බවත් එය සංශෝධනය කරන ලෙසත් ඉල්ලා සිටියේය.
-
-සැකකරුවන් දස දෙනාගෙන් කවුරුන්, කොහේදී, කෙසේ එම තරුණයාව ඝාතනය කළාද යන්න මේ වනවිටත් පරීක්ෂණ මට්ටමේ ඇති බවත් ඔහුගේ මළ සිරුර පිළිබඳ හලාවත මූලික රෝහලේ සිදුකෙරෙන පශ්චාත් මරණ පරීක්ෂණ ද මේ වනතෙක් අවසන්ව නොමැති බවත් පොලීසිය පැවසීය.
+The storm weakened after it hit the coast with wind speeds of up to 115 kilometers per hour (71 mph). Remal is expected to dump more than 89mm (3.5 inches) of rain and bring wind-driven storm surges of 2.5 to 3.7 meters to the coasts of the Bay of Bengal, according to CNN Weather.
 
 ...
 
+[Data](articles/8674bd78.json)
+
+---
+
+### Kuliyapitiya murder - The story about the 10th suspect
+
+*2024-05-27 15:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197070) · `si`
+
+Kuliyapitiya Magistrate Randika Lakmal Jayalath, arrested for a murder, was remanded again as the case involving a youth's death progressed. Attorney Chandana Yapa, representing one of the suspects, claimed the suspect was advised to hide but was later charged. Ten suspects are under investigation, awaiting autopsy results at Chilaw Base Hospital. Police investigations continue.
+
+🟩
+
+Kuliyapitiya Magistrate Randika Lakmal Jayalath, who was arrested and remanded in connection with the murder of the Kuliyapitiya, has been remanded again today.
+
+The court issued the order when the case was taken back to the murder of a youth in Kuliyapitiya.
+
+When the case was taken up, the police made the progress of their tests further by further report.
+
+Attorney Chandana Yapa, who has said the suspects of the suspect, who has helped several other murder, said the police said that the police had told him to remain hiding in the murder.
+
+Despite this, he asked him to be accused and to amend it.
+
+The ten suspects are already in the investigation and the post mortem at the Chilaw Base Hospital has not yet been completed.
+
+The police said that the police said that the police said that the police said that investigations into the exhibition had not been completed.
+
+◼️
+
 [Data](articles/34c1b55b.json)
+
+[Extended Data](ext_articles/34c1b55b.ext.json)
 
 ---
 
@@ -98,19 +152,25 @@ The government has not yet come forward to provide any solutions. If this situat
 
 ---
 
-### තාඹුගලට අද ලැබුණු නියෝගය
+### The order to be received today
 
 *2024-05-27 14:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197069) · `si`
 
-රිමාන්ඩ් බන්ධනාගාරගතකර සිටි අවුරා ලංකා සභාපති විරන්ජිත් තාඹුගල මහතාව ඇප මත මුදාහැර තිබේ.
+Whangith Ungith Ungith and Wijayath Umbugala were released on bail from the Colombo Magistrate court. Meanwhile, Whangith Welhala remains in custody pending charges of financial fraud.
 
-කොළඹ මහෙස්ත්‍රාත් අධිකරණය හමුවට ඉදිරිපත් කිරීමෙන් අනතුරුව ඒ මහතා මෙලෙස ඇප මත මුදාහැර ඇත.
+🟩
 
-මූල්‍ය වංචා චෝදනාවක් සම්බන්ධයෙන් සැකපිට අත්අඩංගුවට ගත් අවුරා ලංකා සභාපති විරන්ජිත් තාඹුගල මහතා අද දක්වා රිමාන්ඩ් බන්ධනාගාරගතකර තිබුණි.
+Whangith Ungith, Wijayath Umbugala has been released on bail.
+
+He had released on bail after being produced before the Colombo Magistrate.
+
+Whangith Welhala, who was arrested on suspicion of financial fraud, was remanded till today.
 
 ◼️
 
 [Data](articles/03f6fb2a.json)
+
+[Extended Data](ext_articles/03f6fb2a.ext.json)
 
 ---
 
@@ -136,23 +196,29 @@ The suspect has been ordered to grant two bail of Rs.
 
 ---
 
-### රෙමාල් ඉන්දියාව ට සහ බංග්ලාදේශය ට බැටදෙයි
+### India and Bangladesh batter
 
 *2024-05-27 14:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197068) · `si`
 
-රෙමාල් සුළි කුණාටුව හේතුවෙන් අද (27) ඉන්දියාවේ සහ බංග්ලාදේශයේ වෙරළබඩ කලාපයට දැඩි සුළඟ සහ වාර්ෂාව ඇතිවූ බව වාර්තා වෙයි.
+Rhem's hurricane hit India and Bangladesh, causing four deaths and widespread power outages. Despite its initial strength of 135 km/h, the storm's impact is now weakening. Authorities evacuated over a million people to safety.
 
-ඒ හේතුවෙන් සිව් දෙනෙක් මියගොස් ඇති අතර බොහෝ ප්‍රදේශවල විදුලි බලය ඇනහිට තිබුණි.
+🟩
 
-නමුත් එම සුළි කුණාටුවේ බලපෑම මේ වනවිට දුර්වල වෙමින් පවතින බව සඳහන් ය.
+It is reported that Rhem was reportedly in India and Bangladesh in India and Bangladesh in India and Bangladesh.
 
-රෙමාල් සුළි කුණාටුව පැයට කිලෝ මීටර් 135ක වේගයෙන් ඊයේ රාත්‍රියේ බංග්ලාදේශ සහ ඉන්දියාවේ බටහිර බෙංගාල ගොඩබිමට වෙත ඇතුළු විය.
+Due to this, four people were killed and there were electricity in many areas.
 
-කුණාටු අවදානම සලකා එහි මිලියනයකට වැඩි පිරිසක් ආරක්ෂිත ස්ථාන වෙත යොමුකිරීමට බලධාරීන් කටයුතු කර තිබුණි.
+However, the impact of that hurricane is weakening.
+
+The hurricane of Rhem was 135 km per kilometers per hour last night.
+
+The authorities had acted to refer to the storms risk and send more than one million people to safe places.
 
 ◼️
 
 [Data](articles/83d88947.json)
+
+[Extended Data](ext_articles/83d88947.ext.json)
 
 ---
 
@@ -2287,55 +2353,5 @@ Accordingly, the retail price of a kilogram of ginger has reached Rs. 4,800, a k
 [Data](articles/e9b4aa01.json)
 
 [Extended Data](ext_articles/e9b4aa01.ext.json)
-
----
-
-### Opposition MPs leave to rescue Sri Lankans held hostage in Myanmar, Russia
-
-*2024-05-27 07:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Opposition-MPs-leave-to-rescue-Sri-Lankans-held-hostage-in-Myanmar-Russia/108-283401) · `en`
-
-Katunayaka, May 27 (Daily Mirror) - Three members of the Opposition left Bandaranaike International Airport (BIA) for Thailand for a diplomatic mission to rescue the 49 Sri Lankan youths and women who are forcibly held in the cyber camp of computer criminals in Myanmar and the Sri Lankan war heroes who are in the middle of the Russian-Ukraine war and bring them back to Sri Lanka.
-
-These Opposition members went to Myanmar this morning for a 10-day visit to prepare a programme to get into negotiations with diplomatic officials and third parties.
-
-This three-member group includes Opposition MPs such as lawyer Wasantha Yapa Bandara, J.C. Alawathuwala and Sujith Sanjay Perera.
-
-They said that they are leaving for Myanmar to spend five days each and for Russia to launch this rescue operation.
-
-...
-
-[Data](articles/aaffdda9.json)
-
-[Extended Data](ext_articles/aaffdda9.ext.json)
-
----
-
-### Applications for scholarship take over
-
-*2024-05-27 07:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197048) · `si`
-
-Scholarship exam applications open online from May 27 to June 14. No late submissions allowed. Exam on Sept 15 at approved schools. Visit www.onlinexams.gov.lk for details or call 191/011-2786616.
-
-🟩
-
-Commissioner General of Examinations Amit Jayasundara says that the application will be taken on the online system regarding the scholarship examination today (27).
-
-Accordingly, the applications will be accepted on the online system until June 14, the Commissioner General of Examinations said.
-
-On June 14, an online approach will be terminated after 12 midnight and the closing date for applications will be extended for any reason.
-
-Students will be submitted to the scholarship examination only at a public school or government-approved school.
-
-The Commissioner General of Examinations said that obtaining applications to visit www.onlinexams.gov.lk.
-
-Commissioner General of Examinations Amithi Jayasundara said that further information can be obtained by calling the telephone number 191 or 011-2 786616, 0112 786616, 0112 786616, 0112 78661, 0112 7845208.
-
-The Grade 5 scholarship examination will be held on Sunday of September 15.
-
-◼️
-
-[Data](articles/9f44d5f9.json)
-
-[Extended Data](ext_articles/9f44d5f9.ext.json)
 
 ---

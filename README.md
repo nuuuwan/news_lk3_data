@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-27 09:05:31**
+As of **2024-05-27 09:18:47**
 
 ## Newspaper Stats
 
@@ -26,21 +26,27 @@ adaderanasinhalalk | 4,241
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,473 (100.0%) of 26,474 articles have been extended.
+26,474 (100.0%) of 26,474 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-27 (Monday)
 
-### මාතර වෙඩිතැබීමක්
+### Matara shooting
 
 *2024-05-27 08:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197052) · `si`
 
-මාතර වැලිගම බටවල පාතේගම ආදර්ශ ප්‍රාථමික විද්‍යාලය අසල වෙඩිතැබිමක් සිදුකර තිබේ.
+In Matara, a tragic incident occurred at Patregama Model Primary School in Weligama, resulting in a shooting.
+
+🟩
+
+A shot of a shot of Patregama Model Primary School in Weligama, Matara.
 
 ◼️
 
 [Data](articles/f5f45b80.json)
+
+[Extended Data](ext_articles/f5f45b80.ext.json)
 
 ---
 

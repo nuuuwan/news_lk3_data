@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-27 08:34:07**
+As of **2024-05-27 08:53:02**
 
 ## Newspaper Stats
 
-*Scraped **26,469** Articles*
+*Scraped **26,473** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,41 +16,129 @@ islandlk | 1,441
 economynextcom | 1,511
 dailyftlk | 1,550
 adalk | 2,247
-adaderanalk | 3,031
+adaderanalk | 3,032
 tamilmirrorlk | 3,102
 virakesarilk | 4,040
-dailymirrorlk | 4,181
-adaderanasinhalalk | 4,239
+dailymirrorlk | 4,183
+adaderanasinhalalk | 4,240
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,468 (100.0%) of 26,469 articles have been extended.
+26,469 (100.0%) of 26,473 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-27 (Monday)
 
-### කුමන්ත්‍රණයක් ගැන නාමල්ගෙන් හෙළිදරව්වක්
+### මියන්මාරයේ සහ රුසියාවේ සිරවී සිටින ශ්‍රී ලාංකිකයන් මුදාගන්න විපක්ෂයේ තිදෙනෙක් විදේශගත වෙයි
+
+*2024-05-27 08:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197051) · `si`
+
+විපක්ෂයේ මන්ත්‍රීවරුන් තිදෙනෙකු අද (27) අලුයම තායිලන්තය බලා පිටත්ව ගොස් තිබේ.
+
+ඒ, මියන්මාරයේ සයිබර් අපරාධ කලාපයේ ත්‍රස්ත ග්‍රහණයේ සිටින ශ්‍රී ලාංකිකයින් සහ රුසියානු - යුක්‍රේන යුද්ධයට මැදිවී රුසියාවේ සිටින ශ්‍රී ලාංකික රණවිරුවන් බේරාගෙන යළි ශ්‍රී ලංකාව වෙත රැගෙන ඒමේ රාජ්‍යතාන්ත්‍රික මෙහෙයුම සඳහා එම රටවල රාජ්‍යතාන්ත්‍රික නිලධාරීන් සහ තෙවන පාර්ශ්වයන් සමග සාකච්ඡා කර වැඩපිළිවෙළක් සකස් කිරීම සඳහාය.
+
+මෙම විපක්ෂ මන්ත්‍රී කණ්ඩායමට නීතීඥ වසන්ත යාපා බණ්ඩාර, ජේ.සී. අලවතුවල සහ සුජිත් සංජය පෙරේරා යන මන්ත්‍රීවරුන් ඇතුළත් අතර ඔවුන් මියන්මාරයේ සහ රුසියාවේ දින 05 බැගින් ගත කරමින් මෙම මෙහෙයුම දියත් කිරීමට නියමිතය.
+
+මන්ත්‍රීවරුන් පිරිස ත්‍රෛනිකායික මහනාහිමිවරුන්ගේ සහ විපක්ෂ නායකවරයාගේ ඉල්ලීම් රැගත් ලිපි, මියන්මාරය සහ රුසියාව බලා පිටත්ව ගොස් තායිලන්තයේ සහ මියන්මාරයේ සංඝනායක හිමිවරුන් සහ රුසියාවේ රාජ්‍යතාන්ත්‍රික නිලධාරීන් හමුවී භාරදීමට ද නියමිත බව වාර්තා වෙයි.
+
+පිරිස අද අලුයම 01.10ට පමණ ශ්‍රී ලන්කන් ගුවන් සේවයේ UL - 402 දරන ගුවන්යානයෙන් තායිලන්තයේ බැංකොක් නුවර බලා පිටත්ව ගොස් ඇත.
+
+◼️
+
+[Data](articles/9ace653a.json)
+
+---
+
+### 12 people injured during turbulence on Qatar Airways flight
+
+*2024-05-27 08:28:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/12-people-injured-during-turbulence-on-Qatar-Airways-flight/108-283408) · `en`
+
+CNN - Twelve people were injured after a Qatar Airways flight from Doha to Dublin was hit with turbulence on Sunday.
+
+The flight, which landed in Dublin shortly before 1pm local time, was met by emergency services, including airport police and the fire and rescue department.
+
+According to a statement from Dublin Airport, six passengers and six crew members were injured in the incident, eight of which were taken to hospital following assessment. The Qatar Airways flight QR017 experienced turbulence while flying over Turkey, the statement said.
+
+Dublin Airport said it was assisting passengers and staff and that operations were unaffected. The plane’s return flight to Doha, flight QR018, is scheduled to go ahead as expected, though its departure will be delayed, the airport said.
+
+In a statement to CNN, Qatar Airways said that the flight landed safely in Dublin, but that “a small number of passengers and crew sustained minor injuries in flight and are now receiving medical attention.”
+
+...
+
+[Data](articles/4bc83d77.json)
+
+---
+
+### Foreign Ministry expresses condolences on passing of French Ambassador
+
+*2024-05-27 08:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/99454/foreign-ministry-expresses-condolences-on-passing-of-french-ambassador-) · `en`
+
+The Foreign Ministry of Sri Lanka on Monday expressed its deepest condolences on the passing of the Ambassador of France to Sri Lanka and the Maldives Jean- François Pactet.
+
+“The Ministry of Foreign Affairs learns with deepest sorrow of the sudden demise of His Excellency Jean- François Pactet, Ambassador of France to Sri Lanka and the Maldives.”
+
+“All assistance will be extended by the Foreign Ministry to the French authorities and the family of the late Ambassador,” the ministry said in a statement.
+
+The Ministry of Foreign Affairs said it is in close coordination with the French Embassy in Sri Lanka at this time of grief and that the funeral arrangements will be notified by the authorities in due course.
+
+The Ambassador of France to Sri Lanka and Maldives, Jean-François Pactet, had passed away at his official residence in Rajagiriya on Sunday (26), at the age of 53.
+
+Ambassador Pactet had passed away due to a sudden illness, according to sources.
+
+◼️
+
+[Data](articles/8b8eedfc.json)
+
+---
+
+### Hundreds of birds and fish dead in Anawilundawa sanctuary: Cause under investigation
+
+*2024-05-27 08:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Hundreds-of-birds-and-fish-dead-in-Anawilundawa-sanctuary-Cause-under-investigation/108-283405) · `en`
+
+Hundreds of birds and fish in the bird sanctuary in Anawilundawa Ramsar wetland and its watercourses have been dying for the last several days, much to the anxiety of the residents of the area and the environmentalists.
+
+Residents of the area said flocks of migratory birds live and breed freely during this season in Anawilundawa Ramsar bird sanctuary, which is a tourist attraction.
+
+They were of the opinion that chemical waste dumped haphazardly from a factory in the area resulted in the death of birds and fish in this manner.
+
+Meanwhile, Range Forest Conservator W.L. Upananda said he referred specimens of the dead fish and birds to the Peradeniya Special Veterinary Unit for laboratory tests to determine the cause of death. He said the results of the laboratory tests were yet to be received.
+
+However, officials of the Aqua Culture Development Authority said watercourses had been contaminated due to neglect of clearing algae, resulting in the death of fish and birds.
+
+◼️
+
+[Data](articles/b31c5e84.json)
+
+---
+
+### Namal reveals about a conspiracy
 
 *2024-05-27 08:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197050) · `si`
 
-හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතා ගොඩනගන ලද ආණ්ඩුව ඇදවැට්ටවීම සඳහා රට තුළ බරපතළ කුමන්ත්‍රණයක් ක්‍රියාත්මක වූ බව පාර්ලිමේන්තු මන්ත්‍රී නාමල් රාජපක්ෂ මහතා පවසයි.
+Namal Rajapaksa accuses a conspiracy involving government insiders, international forces, and terrorist groups aimed at overthrowing the government, leading to a change from Mahinda Rajapaksa's administration to Gotabhaya Rajapaksa's leadership.
 
-ආණ්ඩුව තුළ ම මීට එරෙහිව විවිධ බලවේග ක්‍රියාත්මක වූ බව එහිදී මන්ත්‍රීවරයා සඳහන් කළේය.
+🟩
 
-"ආණ්ඩුව ඇතුළෙන් එදා කුමන්ත්‍රණය ගොඩනැගුණා. ජාත්‍යන්තර බලවේග, ත්‍රස්තවාදී සංවිධාන එදා ආණ්ඩුව පෙරළන්න කටයුතු කළා. එහි ප්‍රතිඵලයක් විදියටයි යහපාලන ආණ්ඩුව ගොඩනැගුණේ. හැබැයි ගෝඨාභය රාජපක්ෂ මහත්තයා භාර ගත්තේ මහින්ද මහත්තයා භාරදීපූ ආණ්ඩුව නෙමෙයි. වැටිච්ච් ආණ්ඩුවක්."
+Parliamentarian Namal Rajapaksa says that a serious conspiracy in the country has been implemented to the departure of former President Mahinda Rajapaksa.
 
-ශ්‍රී ලංකා පොදුජන පෙරමුණේ මංගල ආසන සමුළුව හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතාගේ ප්‍රධානත්වයෙන් තලාව නගරයෙන් ආරම්භ කෙරුණි.
+The MP said that various forces were in operation in the government.
 
-"සටන අරඹමු රජරටෙන්" යන තේමාව යටතේ මෙම ආසන සමුළුව පැවැත්වූ අතර ඊට පොදු ජන පෙරමුණ නියෝජනය කරන පාර්ලිමේන්තු මන්ත්‍රීවරුන් ඇතුලු විශාල පිරිසක් එක්විය.
+"The government was in the plot inside. International forces, terrorist organizations have taken steps to roll over the government. As a result, the good governance government was built. However, Mr. Gotabhaya Rajapaksa took over to the government that was handed over to Mr. Mahinda Rajapaksa. A needching government. "
 
-හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතාගේ ප්‍රධානත්වයෙන් මෙම සමුළුව පැවතුනද ඔහු සමුළුව අමතා කතා නොකිරීම විශේෂත්වයකි.
+Former President Mahinda Rajapaksa launched the Sri Lanka President Mahinda Rajapaksa under the patronage of former President Mahinda Rajapaksa under the patronage of former President Mahinda Rajapaksa.
+
+The seation conference was held under the theme "Battle Against Rajarata Rajarata."
+
+Although the conference was chaired by former President Mahinda Rajapaksa, he addressed the conference.
 
 ◼️
 
 [Data](articles/a9f2d232.json)
+
+[Extended Data](ext_articles/a9f2d232.ext.json)
 
 ---
 
@@ -2075,87 +2163,5 @@ The District Development Committee should be led by your head and will address t
 [Data](articles/9d70d2b7.json)
 
 [Extended Data](ext_articles/9d70d2b7.ext.json)
-
----
-
-### Sri Lankan arrested in India
-
-*2024-05-26 18:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197032) · `si`
-
-A Sri Lankan national, Umress Bala Ravindran, was arrested in India's Karnataka for trafficking fake documents. The 45-year-old, previously detained in 2014 and deported, was caught after staying in an illegal housing complex since 2016. Authorities confiscated various illegal documents, a driving license, a mobile phone, and a firearm. He attempted to escape with his family but was apprehended.
-
-🟩
-
-A Sri Lankan has been arrested in a trafficking of fake documents in Karnataka, India.
-
-Indian media has reported that the 45-year-old man has been arrested by the Central Criminal Bureau of India, Umress Bala Ravindran.
-
-The Sri Lankan who had gone to India in 2010 was also taken into custody in 2014 and was deported to Sri Lanka.
-
-Investigations have revealed that he had stayed in a housing complex in Karnataka, which was illegally again in 2016.
-
-Police have also seized the illegal documents, driving licenses, mobile phone and a pistol type.
-
-With the arrest of the suspect, Sri Lanka was fleeing Sri Lanka with his wife and the three children, Indian media said.
-
-◼️
-
-[Data](articles/f3b22a1e.json)
-
-[Extended Data](ext_articles/f3b22a1e.ext.json)
-
----
-
-### Fonseka again as presidential candidate…?
-
-*2024-05-26 18:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/184547) · `ta`
-
-Sarath Fonseka, despite being chairman of Sajith's United People's Power, left the party due to disagreement over Sajith's decision to bring in military commanders without consulting him. This move led to a breakdown in their relationship.
-
-🟩
-
-It is important that Sarath Fonseka is still the Chairman of Sajith's United People's Power. Earlier this year, former Army Commander Daya Ratnayake joined Sajith. Sarath Fonseka disgusted by Sajith's actions to join the party's military commanders than himself, broke his relationship with the United People's power.
-
-◼️
-
-[Data](articles/769fd83b.json)
-
-[Extended Data](ext_articles/769fd83b.ext.json)
-
----
-
-### Illegal Jewish settlements on the West Bank that is occupied
-
-*2024-05-26 18:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/184544) · `ta`
-
-Since October 2022, the conflict between Israel and Palestine escalated, with 502 Palestinians killed and 20 social events disrupted, including 7 completely destroyed, according to UN and HRW reports.
-
-🟩
-
-According to the United Nations report on October 7 last year, the Hamas movement attacked Israel, in the West Bar and East Jerusalem;Attacks on Palestinians. During this period, the number of Palestinians killed on the west bank has come to 502. Since October 7 last year, 20 social gatherings have been left out due to attacks by these quotes.. About 7 social meetings have been completely wiped out, the Human Rights Watch said.
-
-◼️
-
-[Data](articles/1ed4ad1b.json)
-
-[Extended Data](ext_articles/1ed4ad1b.ext.json)
-
----
-
-### Will I pull the Oslo report to the subcategory?
-
-*2024-05-26 17:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/184543) · `ta`
-
-Sampanthan mentioned three reasons for not having a common Tamil candidate: lack of a written agreement, changing political situations, and the need for solutions within a united Sri Lanka.
-
-🟩
-
-It is also said that Sampanthan has three reasons before. The first reason is that we are continuously from the standpoint that a common candidate is not fielded on behalf of Tamils ​​and is making efforts to find a solution within the United Sri Lanka.. The position that a common candidate does not die on behalf of Tamils ​​is that there is no written agreement. Any political technique will be determined in accordance with the time flow - political situation change -. This is the political legacy.
-
-◼️
-
-[Data](articles/0c120fd8.json)
-
-[Extended Data](ext_articles/0c120fd8.ext.json)
 
 ---

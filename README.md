@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-29 01:52:40**
+As of **2024-05-29 02:03:48**
 
 ## Newspaper Stats
 
-*Scraped **26,926** Articles*
+*Scraped **26,928** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 268
 newsfirstlk | 363
 islandlk | 1,456
 economynextcom | 1,540
-dailyftlk | 1,572
+dailyftlk | 1,574
 adalk | 2,294
 adaderanalk | 3,075
 tamilmirrorlk | 3,156
@@ -26,11 +26,39 @@ adaderanasinhalalk | 4,319
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,926 (100.0%) of 26,926 articles have been extended.
+26,926 (100.0%) of 26,928 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-29 (Wednesday)
+
+### Dialog launches SL’s first smartphone plan with 40% down payment
+
+*2024-05-29 01:40:42* · [`dailyftlk`](https://www.ft.lk/business/Dialog-launches-SL-s-first-smartphone-plan-with-40-down-payment/34-762298) · `en`
+
+Dialog Axiata PLC, has introduced ‘Smartphone Plans’ - the nation’s first installment plan, designed to offer all Sri Lankans a convenient and affordable solution for purchasing the latest Android smartphones.
+
+This innovative plan enables customers to own the latest Android smartphones by paying just 40% upfront, with the balance conveniently spread over 24 months and integrated into their Dialog Power Plan Postpaid mobile bill.
+
+Prepaid customers can also upgrade to the Postpaid Power Plan while retaining their existing mobile numbers to avail themselves of this benefit. Additionally, the plan is available through Lesi Pay, allowing Prepaid customers with credit ratings to enjoy flexible payment options and access to the latest technology.
+
+...
+
+[Data](articles/bb29dfda.json)
+
+---
+
+### Trade and investment team from Fujian Province visits BOI
+
+*2024-05-29 01:39:16* · [`dailyftlk`](https://www.ft.lk/business/Trade-and-investment-team-from-Fujian-Province-visits-BOI/34-762297) · `en`
+
+To strengthen  cooperation in trade and investment a delegation from China Council for the Promotion of International Trade (CCPIT) from Fujian Province  met with Board of Investment Chairman Dinesh Weerakkody and officials of the BOI on Monday to discuss potential areas for trade and investment. CCPIT Fujian Province Director, Trade and Investment Dept. Cai Lihong, CCPIT, Zhangzhou City Vice Chairman Li Yuexiang and CCPIT, Quanzhou City Chief, Legal Service Dept. Yue Dongting, participated.
+
+◼️
+
+[Data](articles/165e2712.json)
+
+---
 
 ### Chartered Institute of Taxation of Sri Lanka urges Govt. to legally recognise profession of “Tax Consultant”
 
@@ -2237,47 +2265,5 @@ Minister Gunawardena also stated that an announcement will be made in relation t
 [Data](articles/86fd6668.json)
 
 [Extended Data](ext_articles/86fd6668.ext.json)
-
----
-
-### Cabinet approval to appoint a committee to address salary inequalities in public service
-
-*2024-05-28 15:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/184702) · `ta`
-
-The Cabinet has authorized a committee to tackle salary disparities within the public sector. This decision comes after employee and union complaints about pay inequality. The committee will investigate and propose solutions to rectify these imbalances, aiming to balance the 2025 budget effectively.
-
-🟩
-
-The Cabinet has approved the appointment of a committee to take action on salary inequalities in public service.
-
-Considering the issues submitted by the employees and the respective unions on the salary inequalities in public service, the Cabinet has appointed a Cabinet approval to submit a report to address the issues of the salary inequalities and to address the imbalance of the 2025 budget.
-
-◼️
-
-[Data](articles/8ec4126f.json)
-
-[Extended Data](ext_articles/8ec4126f.ext.json)
-
----
-
-### University non-academic staff strike continues despite Cabinet decision
-
-*2024-05-28 15:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/University-non-academic-staff-strike-continues-despite-Cabinet-decision/108-283523) · `en`
-
-Colombo, May 28 (Daily Mirror) - After the Cabinet decision and a trade union meeting, the University Trade Union Joint Committee (UTUJC) has decided to continue with their trade union action starting today.
-
-UTUJC Co-Chairman Dhammika S. Priyantha informed the Daily Mirror today that they are still awaiting the Cabinet decision concerning their issues, including salary anomalies.
-
-"We held our trade union meeting today to discuss the next steps required to address our issues," he said.
-
-Since there is no system to secure funding for this year, the President advised the Cabinet Minister to appoint an expert committee to study the salary anomalies of all government sector institutions and provide recommendations. He also advised including all solutions and proposals related to these issues in the 2025 budget proposal.
-
-Following the trade union meeting, we have decided to continue with our trade union actions until the government provides a favourable response, Priyantha said.
-
-...
-
-[Data](articles/de6a0d79.json)
-
-[Extended Data](ext_articles/de6a0d79.ext.json)
 
 ---

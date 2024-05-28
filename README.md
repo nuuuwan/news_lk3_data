@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-29 00:50:38**
+As of **2024-05-29 01:03:53**
 
 ## Newspaper Stats
 
-*Scraped **26,919** Articles*
+*Scraped **26,922** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 237
+colombotelegraphcom | 238
 dbsjeyarajcom | 265
 bbccomsinhala | 268
 newsfirstlk | 363
@@ -18,7 +18,7 @@ dailyftlk | 1,570
 adalk | 2,294
 adaderanalk | 3,075
 tamilmirrorlk | 3,154
-virakesarilk | 4,128
+virakesarilk | 4,130
 dailymirrorlk | 4,250
 adaderanasinhalalk | 4,319
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,319
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,919 (100.0%) of 26,919 articles have been extended.
+26,919 (100.0%) of 26,922 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,22 @@ India’s Adani group has proposed to invest about $ 740 million in the country 
 [Data](articles/d848b787.json)
 
 [Extended Data](ext_articles/d848b787.ext.json)
+
+---
+
+### தேர்தல் ஆணைக்குழுவினருக்கும் அமெரிக்க தூதுவர் ஜூலி சுங்கிற்கும் இடையில் சந்திப்பு
+
+*2024-05-29 00:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/184727) · `ta`
+
+இலங்கை தேர்தல் ஆணைக்குழுவின் உறுப்பினர்களுக்கும், இலங்கைக்கான அமெரிக்க தூதுவர் ஜூலி சுங்கிற்கும் இடையில் விசேட சந்திப்பொன்று 28 ஆம் திகதி செவ்வாய்க்கிழமை இடம்பெற்றுள்ளது.
+
+இந்த சந்திப்பு தொடர்பில் இலங்கைக்கான அமெரிக்க தூதுவர் ஜூலி சுங், தனது X வலைத்தளத்தில் பதிவொன்றை பதிவேற்றியுள்ளார்.
+
+“தேர்தலுக்கான திட்டங்கள் மற்றும் வெளிப்படையான செயல்முறையை நிலைநிறுத்துவது குறித்து தேர்தல் ஆணைக்குழுவுடனான சந்திப்பு பாராட்டுக்குரியது. இலங்கை, அமெரிக்கா மற்றும் பல நாடுகள் இந்த ஆண்டு தேர்தலை எதிர்கொள்வதால், ஜனநாயக ஆட்சியின் தூணாக சுதந்திரமான மற்றும் நியாயமான தேர்தல்களில் வாக்களிப்பதன் முக்கியத்துவம் குறித்து நாங்கள் கருத்துக்களை பரிமாறிக்கொண்டோம்.” என அவர் தனது X பதிவில் குறிப்பிட்டுள்ளார்.
+
+◼️
+
+[Data](articles/c5e2765b.json)
 
 ---
 
@@ -109,6 +125,24 @@ The best parent companies are those which create more value than any other rival
 ---
 
 ### 2024-05-28 (Tuesday)
+
+### யாழில் அண்மையில் விடுவிக்கப்பட்ட காணிக்குள் பொதுமக்கள் பிரவேசிப்பதற்கு தடை
+
+*2024-05-28 23:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/184726) · `ta`
+
+யாழ்ப்பாணம் தெல்லிப்பளை ஒட்டகப்புலத்தில் அண்மையில் விடுவிக்கப்பட்ட 234.83 ஏக்கர் காணிக்குள் பொதுமக்கள் பிரவேசிப்பதற்கு தற்காலிக தடை அறிவிக்கப்பட்டுள்ளது.
+
+மேலும் அந்த செய்தி குறிப்பில், விடுவிக்கப்பட்டுள்ள பகுதியில் சுமார் 55 ஆயிரம் சதுர அடி காணியில் கண்ணிவெடிகள் காணப்படகூடும் என்ற அச்சம் வெளியிடப்பட்டுள்ள நிலையில், யாழ்ப்பாணம் மாவட்ட செயலகத்தால் உரிய தீர்வு காண்பதற்கான நடவடிக்கை முன்னெடுக்கப்பட்டுள்ளது.
+
+அதற்கமைய எதிர்வரும் ஜூன் மாதம் பத்தாம் (10) திகதி வரை விடுவிக்கப்பட்ட காணிகளுக்கு செல்ல வேண்டாம் என காணி உரிமையாளர்களிடம் கோரிக்கை விடுக்கப்பட்டுள்ளது.
+
+விடுவிக்கப்பட்டுள்ள காணிகளில் எதிர்வரும் முதலாம் திகதி முதல் தொழில்நுட்ப ஆய்வுகள் மேற்கொள்ளப்படவுள்ளன. இதன்போது கண்ணிவெடிகள் காணப்படும் இடங்கள் அடையாளப்படுத்தப்பட்டால் அந்த பகுதிகளை தவிர்த்து ஏனைய காணிகளுக்குள் எதிர்வரும் பத்தாம் திகதிக்கு பின்னர் பொதுமக்கள் தங்களின் மீள்குடியேற்ற செயற்பாடுகளை மேற்கொள்ள முடியும் என அறிவிக்கப்பட்டுள்ளது.
+
+...
+
+[Data](articles/e355f5e7.json)
+
+---
 
 ### The cruelty of 11 students in Jaffna - Saran at the police
 
@@ -731,6 +765,20 @@ The first four -day youth Test match between the two teams will be held in Worms
 [Data](articles/cb65010d.json)
 
 [Extended Data](ext_articles/cb65010d.ext.json)
+
+---
+
+### NATO Expansion: The Untold Agreement & Its Role In The Ukraine War
+
+*2024-05-28 19:12:38* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/nato-expansion-the-untold-agreement-its-role-in-the-ukraine-war/) · `en`
+
+The ongoing conflict in Ukraine has roots that stretch back decades, to a time when the geopolitical landscape of Europe was dramatically shifting. In the aftermath of the Cold War, as the Soviet Union disintegrated, new alliances and understandings were formed. Among these was an untold agreement between Russia and NATO, which plays a crucial role in understanding the current crisis.
+
+As the Berlin Wall fell and the Iron Curtain was lifted, the world witnessed a remarkable transformation. The Soviet Union’s collapse left the United States as the sole superpower, with the promise of a new era of peace and cooperation. However, this period of optimism was underpinned by delicate negotiations and promises, many of which were not formally documented but were significant in shaping international relations.
+
+...
+
+[Data](articles/30c8910e.json)
 
 ---
 
@@ -1974,11 +2022,9 @@ ECONOMYNEXT – Sri Lanka’s Samurdhi community-based banks and Samurdhi commun
 
 These banks and societies are audited annually by the Internal Audit Division of the Samurdhi Development Department as per the provisions of the Samurdhi Act, Gunawardena said.
 
-They are not formally recognised as banks as they do not fall under the preview of the Central Bank.
+They are not formally recognised as banks as they do not fall under the purview of the Central Bank.
 
-“The Samurdhi Act does not include the provision that they should be audited by the National Audit Office. Auditing
-
-these banks and societies by the National Audit Office will help maintain transparency in their operations and increase public confidence and acceptance.”
+“The Samurdhi Act does not include the provision that they should be audited by the National Audit Office. Auditing these banks and societies by the National Audit Office will help maintain transparency in their operations and increase public confidence and acceptance.”
 
 ...
 
@@ -2223,71 +2269,5 @@ The injured had been killed in the Panadura Base Hospital recently, while the OI
 [Data](articles/0cd7917b.json)
 
 [Extended Data](ext_articles/0cd7917b.ext.json)
-
----
-
-### It is going to be gifts who lost his son from the Passover attack
-
-*2024-05-28 15:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197113) · `si`
-
-In a tragic Passover attack on April 21, 2019, a mother of three lost her son, while she herself was critically injured. Identified as a woman set to receive treatment after five years, this incident highlights the devastating impact of such attacks.
-
-🟩
-
-A woman was seriously injured in the Passover attack on April 21, 2019.
-
-She was injured in the attack on the Easter terrorists, a target of the Easter.
-
-One of her son, a mother of three, was also killed in the attack.
-
-The woman who was injured in the attack was identified as five years from receiving treatment.
-
-◼️
-
-[Data](articles/54d7d8b0.json)
-
-[Extended Data](ext_articles/54d7d8b0.ext.json)
-
----
-
-### Sri Lanka merger of Ceylon Fertilizer, Colombo Commercial Fertilizer offers VRS scheme
-
-*2024-05-28 15:18:00* · [`economynextcom`](https://economynext.com/sri-lanka-merger-of-ceylon-fertilizer-colombo-commercial-fertilizer-offers-vrs-scheme-165083/) · `en`
-
-ECONOMYNEXT – A voluntary retirement scheme is to be implemented at a cost of 844 million rupees during the amalgamation of Ceylon Fertilizer Company Limited and Colombo Commercial Fertilizer Company Limited, minister Bandula Gunawardena said.
-
-“267 employees have given consent to be retired under the VRS to be implemented for employees in relation to the amalgamation of Ceylon Fertilizer Company Limited and Colombo Commercial Fertilizer Company Limited,” Gunawardena told reporters Tuesday.
-
-The Cabinet of Ministers approved the proposal to implement the VRS at a cost of 844 million rupees from the funds of the two fertilizer companies for execution of the proposed retirement scheme.
-
-This is subject to the recommendations of a committee appointed to study retiring excess employees in state enterprises, Gunawardena said. (Colombo/May29/2024)
-
-◼️
-
-[Data](articles/078bbcb0.json)
-
-[Extended Data](ext_articles/078bbcb0.ext.json)
-
----
-
-### Car collision on motorcycle at Bandarawa
-
-*2024-05-28 15:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/184698) · `ta`
-
-In a crash on the Badulla-Bandarawela road, a 23-year-old motorcyclist from Ellagaduwa was hospitalized due to injuries sustained when his motorcycle collided with a car driven by a woman. Police attributed the accident to the car driver.
-
-🟩
-
-A motorcycle driver has been admitted to the Bandarawela hospital after a car and a motorcycle crashed into a motorcycle on the Badulla - Bandarawela road, police said.
-
-The youth from the 23 -year -old Ellagaduwa area was injured in the accident.
-
-Police said the cause of the accident was the woman who drove the car.
-
-◼️
-
-[Data](articles/fd67b69c.json)
-
-[Extended Data](ext_articles/fd67b69c.ext.json)
 
 ---

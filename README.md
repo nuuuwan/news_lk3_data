@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-28 09:18:38**
+As of **2024-05-28 09:34:14**
 
 ## Newspaper Stats
 
-*Scraped **26,711** Articles*
+*Scraped **26,713** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,57 @@ adaderanalk | 3,056
 tamilmirrorlk | 3,128
 virakesarilk | 4,085
 dailymirrorlk | 4,214
-adaderanasinhalalk | 4,280
+adaderanasinhalalk | 4,282
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,711 (100.0%) of 26,711 articles have been extended.
+26,711 (100.0%) of 26,713 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-28 (Tuesday)
+
+### ආර්ථික විවාදයට දින ඉල්ලා සජබයෙන් යළි සිහි කැඳවීමක්
+
+*2024-05-28 08:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197095) · `si`
+
+සමගි ජන බලවේගය යෝජනා කළ දිනවලින් ආර්ථික කමිටු විවාදයට ලබාදෙන දින පිළිබඳව කඩිනමින් දැනුම් දෙන ලෙස පාර්ලිමේන්තු මන්ත්‍රී නලින් බණ්ඩාර මහතා ජාතික ජන බලවේගයෙන් ඉල්ලීමක් කර තිබේ.
+
+ජාතික ජන බලවේගයේ විධායක සභික වෛද්‍ය නලින්ද ජයතිස්ස මහතා වෙත ලිපියක් යොමු කරමින් මෙම ඉල්ලීම කර ඇති බව වාර්තා වේ.
+
+ආර්ථික කමිටු විවාදයට ඇරයුම් කර තිබිය දී එයට ඉදිරිපත් නොවී නායකත්ව විවාදයට කළ යෝජනාව කිසිදු පැකිලීමකින් තොරව සිය පක්ෂය පිළිගෙන ඇති බව නලින් බණ්ඩාර මන්ත්‍රීවරයා සිය ලිපිය මඟින් දැනුම් දී තිබේ.
+
+විවාද දෙක අතරින් ආර්ථික විවාදය පළමුව පැවැත්වීමත් දෙවනුව නායකත්ව විවාදය පැවැත්වීමත් පිළිබඳ සිය ස්ථාවරය එලෙසම පවතින අතර ආර්ථික කමිටු විවාදයට ලබාදෙන දිනය නොපමාව දැනුම් දෙන ලෙස අදාළ ලිපිය මඟින් මන්ත්‍රීවරයා දැනුම් දී ඇත.
+
+කෙසේවෙතත් ජාතික ජන බලවේගයේ දේශපාලන මණ්ඩල සභික සුනිල් හඳුන්නෙත්ති මහතා සඳහන් කළේ, අදාළ විවාද සම්බන්ධයෙන් සිය පක්ෂයේ ස්ථාවරයේ ද කිසිදු වෙනසක් නොමැති බවය.
+
+පළමුව නායකත්ව විවාදය පවත්වා අනතුරුව ආර්ථික කමිටු විවාදය පැවැත්විය යුතු බව සුනිල් හඳුන්නෙත්ති මහතා සඳහන් කළේය.
+
+◼️
+
+[Data](articles/27a164c6.json)
+
+---
+
+### කම්කරු නීති වෙනස් නොකරන්නැයි රජයට ඉල්ලීමක්
+
+*2024-05-28 08:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197094) · `si`
+
+නව කම්කරු නීතියක් සඳහා ඉදිරිපත් වී ඇති වත්මන් යෝජනා නතර කරන ලෙස ඇම්නෙස්ටි ඉන්ටර්නැෂනල් සංවිධානය රජයෙන් ඉල්ලීමක් කර තිබේ.
+
+කම්කරු නීතිවල ප්‍රතිසංස්කරණ සිදුකළ යුත්තේ කම්කරුවන්ගේ සහ ඔවුන්ගේ නියෝජිතයන්ගේ නිසි උපදෙස් ලබා ගැනීමෙන් පසුව පමණක්  බව ඇම්නෙස්ටි ඉන්ටර්නැෂනල් සංවිධානය පෙන්වා දෙයි.
+
+ජාත්‍යන්තර ප්‍රමිතීන් සහ අයිතිවාසිකම් ඉවත් කිරීම මඟින් කම්කරු අයිතිවාසිකම් සහ ආරක්ෂාව දුර්වල කරන යෝජිත නව ප්‍රතිසංස්කරණ පිළිබදව අදාළ සංවිධානය සිය කනස්සල්ල පළකර තිබේ.
+
+ශ්‍රී ලංකාවේ වෘත්තීය සමිති සහ සිවිල් සංවිධානවල ඉල්ලීම් සැලකිල්ලට නොගතහොත් ඉදිරියේ දී දැඩි විරෝධතා ඇතිවිය හැකි බවට ඇම්නෙස්ටි ඉන්ටර්නැෂනල් සංවිධානය අනතුරු ඇඟවීමක් ද සිදුකර ඇති බව වාර්තා වේ.
+
+◼️
+
+[Data](articles/5ec3b2df.json)
+
+---
 
 ### The rain and the wind will continue
 
@@ -2185,45 +2225,5 @@ A bond maturing on 01.10.2032 closed up at 11.85/12.05 percent from 11.75/90 per
 [Data](articles/c08cdb4c.json)
 
 [Extended Data](ext_articles/c08cdb4c.ext.json)
-
----
-
-### Sri Lanka stocks close down ahead of monetary policy announcement
-
-*2024-05-27 17:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-ahead-of-monetary-policy-announcement-164970/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed down on Monday, data on its site showed.
-
-The broader All Share Index closed down 0.30 percent, or 37.52 points, at 12,311; while the S&P SL20 Index closed down 0.45 percent, or 16.44 points, at 3,650.
-
-Turnover was low at 494 million. This was the lowest since January 18.
-
-“It was a slow day. There’s a wait-and-see approach when it comes to buying because of tomorrow’s monetary policy announcement,” market participants said.
-
-“There’s also a bit of disappointment, like in October-November, that there is a delay in the external debt restructure news and a signing of MoUs with bilateral creditors, so there’s selling pressure too.”
-
-Banking stocks fared poorly in the day. With the exception of Hatton National Bank Plc, which closed up at 198.75, and Sampath Bank Plc which closed up at 78.20, all other banking stocks closed down or flat.
-
-...
-
-[Data](articles/771c378a.json)
-
-[Extended Data](ext_articles/771c378a.ext.json)
-
----
-
-### Do not ventrure out to sea for next three days
-
-*2024-05-27 17:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Do-not-ventrure-out-to-sea-for-next-three-days/108-283453) · `en`
-
-Colombo, May 7 (Daily Mirror) - Due to very rough seas, the Naval and multi-day fishing communities are advised not to venture into tje Bay of Bengal and Arabian Sea areas for the next three days, the Marine Forecasting Division of the National Meteorological Centre said.
-
-They said the wind speed will be 70 kmph gusting up to 80 kmph.
-
-◼️
-
-[Data](articles/e6f08519.json)
-
-[Extended Data](ext_articles/e6f08519.ext.json)
 
 ---

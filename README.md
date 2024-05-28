@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-28 12:51:48**
+As of **2024-05-28 13:04:10**
 
 ## Newspaper Stats
 
-*Scraped **26,763** Articles*
+*Scraped **26,765** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 265
 bbccomsinhala | 266
 newsfirstlk | 363
 islandlk | 1,453
-economynextcom | 1,530
+economynextcom | 1,532
 dailyftlk | 1,568
 adalk | 2,276
 adaderanalk | 3,062
@@ -26,27 +26,33 @@ adaderanasinhalalk | 4,293
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,760 (100.0%) of 26,763 articles have been extended.
+26,763 (100.0%) of 26,765 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-28 (Tuesday)
 
-### වෙළෙඳපොළ පොලි අඩුකළ යුතුයි - ශ්‍රී ලංකා මහ බැංකුව
+### The market interest rate should be reduced - Central Bank of Sri Lanka
 
 *2024-05-28 12:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197106) · `si`
 
-වෙළෙඳපොළ පොලි අනුපාතික අඩුකිරීම සඳහා තවදුරටත් අවකාශ පවතින බව ශ්‍රී ලංකා මහ බැංකුව පවසයි.
+The Central Bank of Sri Lanka plans to lower market interest rates to stimulate quick recovery in financial institutions. This move aims to decrease interest for new loans while addressing differences for existing ones, ensuring no increase in interest for new issues.
 
-එම අඩුකිරීම අනිවාර්යෙන්ම ඉතා ඉක්මණින් වෙළෙඳපොළ පාරිභෝගිකයින්ට මූල්‍ය ආයතන විසින් ලබා දෙතැයි අපේක්ෂා කරන බව ශ්‍රී ලංකා මහ බැංකු බලධාරීන් පැවසීය.
+🟩
 
-මේ අතර අද (28) පැවති මාධ්‍ය හමුවක් අමතමින් ශ්‍රී ලංකා මහ බැංකු අධිපති ආචාර්ය නන්දලාල් වීරසිංහ මහතා පැවසුවේ මූල්‍ය ආයතන එම අගයන් අඩුකර තිබුණ ද නමුත් එම අගයන් ශ්‍රී ලංකා මහ බැංකුවේ පොලි අනුපාතික අඩුකිරීම හා සමාන ලෙස අඩුකර නොමැති බවයි.
+The Central Bank of Sri Lanka (SLTB) says that there is more likely to reduce market interest rates.
 
-"අලුතෙන් නිකුත්කරන ණය සඳහා පොලිය අඩුවිය යුතුයි. මේ වනවිට නිකුත්කර ඇති ණය සඳහා සිදුකළ යුතු වෙනස හිමින් සිදු වෙන්නේ. ඒ සම්බන්ධයෙන් අපි විමසිල්ලෙන් ඉන්නේ. එසේම අලුත් ණය නිකුත් කිරීම් ද වැඩි පොලියකට වෙන අවස්ථා දකිනවා. නමුත් එය සිදු නොවිය යුත්තක්. එම වෙනස ඉක්මණින් සිදුවෙතැයි අපි අපේක්ෂා කරනවා..."
+Central Bank authorities said that the reduction is essential to the financial institutions to the market quickly.
+
+Meanwhile, Central Bank Governor, Dr. Nandalal Weerasinghe said that the financial institutions were reduced today.
+
+"The interest should be decreased for newly issued loans. Having the difference is to be made for the loans already issued. We are watching about it. Also, new issues also see more interest. But that should not happen. We are expecting that the difference is soon ... "
 
 ◼️
 
 [Data](articles/5ad2b017.json)
+
+[Extended Data](ext_articles/5ad2b017.ext.json)
 
 ---
 
@@ -89,6 +95,24 @@ When Minister Ranatunga tried to pass along the road, the protesters on both sid
 ◼️
 
 [Data](articles/564899a3.json)
+
+[Extended Data](ext_articles/564899a3.ext.json)
+
+---
+
+### Sri Lanka reforms have started to yield positive outcomes: State minister
+
+*2024-05-28 12:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-reforms-have-started-to-yield-positive-outcomes-state-minister-165062/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s State Minister of Finance Shehan Semasinghe says reforms have lead to positive incomes, including an increase in reserves.
+
+“The reforms have started to yield positive outcomes, reflecting significant progress in multiple areas. Sri Lanka’s gross official reserves have seen a significant increase, reaching USD 5.5 billion by the end of April 2024,” Semasinghe said on social media platform X (twitter).
+
+“Additionally, the Sri Lankan rupee has appreciated by approximately 8 % against the US dollar so far in 2024. This will boosts investor confidence and enhances the country’s ability to manage external shocks and meet international obligations and enhance confidence on the economy.
+
+...
+
+[Data](articles/2afa6e96.json)
 
 ---
 
@@ -201,6 +225,24 @@ The proposal was made by UNP General Secretary Palitha Range Bandara today.
 [Data](articles/a05b7753.json)
 
 [Extended Data](ext_articles/a05b7753.ext.json)
+
+---
+
+### Sri Lanka risks foreign retaliation over VFS visa deal
+
+*2024-05-28 11:27:00* · [`economynextcom`](https://economynext.com/sri-lanka-risks-foreign-retaliation-over-vfs-visa-deal-165061/) · `en`
+
+ECONOMYNEXT – The Maldives could take reciprocal action after Sri Lanka’s new system of outsourcing its visas, which requires the payment of “processing” and “convenience” charges of 26 dollars, even though the government does not collect any fees.
+
+Maldivian authorities have reminded Sri Lanka of the long-standing bilateral agreement under which their citizens could travel freely between the two neighbours without any charges or bureaucratic barriers.
+
+Maldivians, who consider Sri Lanka their second home, often spend more than a month in the larger country, but are now required to pay 26 dollars to VFS Global, which has controversially been contracted to handle Sri Lankan visas.
+
+“The Sri Lankan government will not charge a fee, but Maldivians still have to pay VFS after applying online for a visa,” a Maldivian government official said in the capital, Male. “This violates the spirit of our agreement.”
+
+...
+
+[Data](articles/9611925b.json)
 
 ---
 
@@ -2197,35 +2239,5 @@ The 08 suspects in question had been arrested based on information uncovered fol
 [Data](articles/a186b159.json)
 
 [Extended Data](ext_articles/a186b159.ext.json)
-
----
-
-### Who guards the guardians?
-
-*2024-05-27 22:46:42* · [`dailyftlk`](https://www.ft.lk/columns/Who-guards-the-guardians/4-762224) · `en`
-
-Did the Constitutional Council, President and the CIABOC Commissioners follow due process in reappointing its DG?
-
-The gravity and importance of transparency and effectiveness of CIABOC for the very existence of the country cannot be lost on the Government and its officers; nor can the Opposition parties, big or small, especially those fielding “Presidential” candidates claim ignorance of this situation. Remarkably, none of the political parties or even the public officers who run to the Supreme Court at the slightest hint of an appointment against their expectations, have even raised a query on this crucial appointment made without any transparency. One can only wonder then, if they were all in collusion
-
-...
-
-[Data](articles/1bb627a8.json)
-
----
-
-### Who guards the guardians?
-
-*2024-05-27 22:46:42* · [`dailyftlk`](https://www.ft.lk/opinion/Who-guards-the-guardians/14-762224) · `en`
-
-Did the Constitutional Council, President and the CIABOC Commissioners follow due process in reappointing its DG?
-
-The gravity and importance of transparency and effectiveness of CIABOC for the very existence of the country cannot be lost on the Government and its officers; nor can the Opposition parties, big or small, especially those fielding “Presidential” candidates claim ignorance of this situation. Remarkably, none of the political parties or even the public officers who run to the Supreme Court at the slightest hint of an appointment against their expectations, have even raised a query on this crucial appointment made without any transparency. One can only wonder then, if they were all in collusion
-
-...
-
-[Data](articles/451bbe9a.json)
-
-[Extended Data](ext_articles/451bbe9a.ext.json)
 
 ---

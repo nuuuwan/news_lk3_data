@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-28 18:52:57**
+As of **2024-05-28 19:04:01**
 
 ## Newspaper Stats
 
-*Scraped **26,877** Articles*
+*Scraped **26,878** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,456
 economynextcom | 1,539
 dailyftlk | 1,568
 adalk | 2,288
-adaderanalk | 3,072
+adaderanalk | 3,073
 tamilmirrorlk | 3,150
 virakesarilk | 4,122
 dailymirrorlk | 4,237
@@ -26,11 +26,29 @@ adaderanasinhalalk | 4,312
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,869 (100.0%) of 26,877 articles have been extended.
+26,869 (100.0%) of 26,878 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-28 (Tuesday)
+
+### Education Ministry’s request to university non-academic staff on strike
+
+*2024-05-28 18:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/99497/education-ministrys-request-to-university-non-academic-staff-on-strike) · `en`
+
+The Ministry of Education has requested the university non-academic staff trade unions to withdraw from their ongoing strike action.
+
+In a statement issued, the Ministry of Education urges university non-academic staff to report back to their respective duties after withdrawing from the ongoing strike action.
+
+The statement further stated that solutions would be provided to the demands of the trade unions as per the Cabinet decision taken in its meeting held on May 27, 2024.
+
+The ministry further mentioned that it has been decided to appoint a committee headed by the Secretary to the Treasury to look into the wage disparities of non-academic staff which have existed since 2018 and other related salary disparities, and make recommendations and report to the cabinet before the next Budget proposal is prepared.
+
+◼️
+
+[Data](articles/ad27ddaf.json)
+
+---
 
 ### Darshana secures Gold Medal in 400m
 
@@ -2267,27 +2285,5 @@ ECONOMYNEXT – Sri Lanka’s State Minister of Finance Shehan Semasinghe says r
 [Data](articles/2afa6e96.json)
 
 [Extended Data](ext_articles/2afa6e96.ext.json)
-
----
-
-### Bomb threat prompts evacuation of plane at Delhi Airport
-
-*2024-05-28 12:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Bomb-threat-prompts-evacuation-of-plane-at-Delhi-Airport/107-283516) · `en`
-
-New Delhi, May 28 (PTI) - A Varanasi-bound IndiGo flight received a bomb threat at the airport here on Tuesday morning but a search of the aircraft found it to be a hoax, police said.
-
-The bomb scare prompted authorities to evacuate all the staff and 176 passengers onboard and launch a search operation, they said.
-
-The passengers will be flown to Varanasi in another plane, which is expected to take off at 11 am, an IndiGo spokesperson said in a statement.
-
-"At around 5 am, an information was received regarding a paper found in the lavatory of an Indigo flight scheduled to depart for Varanasi, with the phrase 'bomb @5.30' written on it," a senior police officer said.
-
-A thorough inspection was conducted, the officer said, adding, "No suspicious items were found. It was a hoax threat. Further investigation is underway."
-
-...
-
-[Data](articles/860870a6.json)
-
-[Extended Data](ext_articles/860870a6.ext.json)
 
 ---

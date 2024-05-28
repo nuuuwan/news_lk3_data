@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-28 11:18:55**
+As of **2024-05-28 11:34:08**
 
 ## Newspaper Stats
 
-*Scraped **26,739** Articles*
+*Scraped **26,744** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,94 @@ newsfirstlk | 363
 islandlk | 1,453
 economynextcom | 1,525
 dailyftlk | 1,567
-adalk | 2,273
-adaderanalk | 3,058
-tamilmirrorlk | 3,132
+adalk | 2,274
+adaderanalk | 3,059
+tamilmirrorlk | 3,133
 virakesarilk | 4,094
-dailymirrorlk | 4,217
-adaderanasinhalalk | 4,289
+dailymirrorlk | 4,218
+adaderanasinhalalk | 4,290
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,734 (100.0%) of 26,739 articles have been extended.
+26,739 (100.0%) of 26,744 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-28 (Tuesday)
+
+### රත්නපුර ඇතුළු ප්‍රදේශ කිහිපයකට ගංවතුර අවදානමක්
+
+*2024-05-28 11:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197103) · `si`
+
+කළු ගඟ සහ අතු ගංගාවල ජලමට්ටම අවධානයෙන් සිටිය යුතු මට්ටමට ළඟා වී ඇතැයි වාරිමාර්ග දෙපාර්තමේන්තුව නිවේදනය කරයි.
+
+ඊයේ (27) දිනය පුරා ඇදහැලුණු වර්ෂාවත් සමග එම ප්‍රදේශවල ජනතාවට කල්පනාකාරී වන ලෙසත් වාරිමාර්ග දෙපාර්තමේන්තුවේ ජල විද්‍යා හා ආපදා කළමනාකරණ අංශයේ අධ්‍යක්ෂ ඉංජිනේරු එස්.පී.සී. සුගීෂ්වර මහතා පැවසීය.
+
+රත්නපුර ජල මාපකයේ ජලමට්ටම මීටර් 6.5 දක්වා ඉහළ ගොස් ඇතැයි ද පැවසු ඒ මහතා, මේ තත්ත්වය හේතුවෙන් රත්නපුරය ඇතුළු ඒ අවට ප්‍රදේශවලට ඉදිරි කාලයේ ගංවතුර අවදානමක් ඇති විය හැකි බව සඳහන් කළේය.
+
+ඒ අනුව රත්නපුර, පැල්මඩුල්ල, නිවිතිගල, කුරුවිට, කිරිඇල්ල සහ ඇළපාත යන ප්‍රාදේශීය ලේකම් කොට්ඨාසවල කළු ගඟ දෙපස ජනතාවට අද සහ හෙට දැඩි අවධානය යොමු කරන ලෙසත් වාරිමාර්ග දෙපාර්තමේන්තුව නිවේදනය කරයි.
+
+එමෙන්ම අද දහවල් කාලයේ සැලකිය යුතු වර්ෂාපතනයක් ඇති වුවහොත් මෙම තත්ත්වය දරුණු විය හැකි බව ද සුගීෂ්වර මහතා පැවසීය.
+
+...
+
+[Data](articles/6de2c536.json)
+
+---
+
+### அம்புலன்ஸில் பாராளுமன்றம் வரும் கிழக்கு எம்.பி
+
+*2024-05-28 11:14:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அம்புலன்ஸில்-பாராளுமன்றம்-வரும்-கிழக்கு-எம்-பி/175-338008) · `ta`
+
+வாகனம் இன்மையால் ஏற்பட்டுள்ள பிரச்சினைகள் தொடர்பில் பாராளுமன்ற உறுப்பினர்கள் பலர் தன்னிடம் முறைப்பாடு செய்துள்ளதாகவும் வாகனம் இல்லாத கிழக்கு மாகாண பாராளுமன்ற உறுப்பினர் ஒருவர் அம்புலன்ஸ் வண்டியில் அடிக்கடி கொழும்பு வருவதாகவும் சபாநாயகர் மஹிந்த யாப்பா அபேவர்தன தெரிவித்தார்.
+
+வைத்தியசாலை அதிகாரிகளுடன் கலந்துரையாடிய பின்னர் பாராளுமன்ற உறுப்பினர் அம்புலன்ஸ் வண்டியில் கொழும்பு வருவார் என தெரிவித்த சபாநாயகர், ஏனைய பாராளுமன்ற உறுப்பினர்கள் பொது போக்குவரத்து மூலம் கொழும்புக்கு வருவார்கள் எனவும் தெரிவித்தார்.
+
+இதேவேளை, வரியில்லா வாகன அனுமதிப்பத்திரத்தை வழங்குமாறு பாராளுமன்ற உறுப்பினர்களின் கோரிக்கை இந்த வாரத்தில் ஜனாதிபதியிடம் கையளிக்கப்படவுள்ளதாக அவர் குறிப்பிட்டுள்ளார்.
+
+ஆளும் கட்சி மற்றும் எதிர்க்கட்சி உறுப்பினர்கள் 116 பேர் மகஜர் ஒன்றை சமர்ப்பித்து தமக்கு வரியில்லா வாகன அனுமதிப்பத்திரத்தை வழங்குமாறு சபாநாயகரிடம் அண்மையில் கோரிக்கை விடுத்துள்ளனர். இந்தக் கோரிக்கைக்கு பாராளுமன்றக் குழு ஏற்கனவே ஒப்புதல் அளித்துள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/92bcb18b.json)
+
+---
+
+### Sri Lanka urged to immediately halt labour law reform process
+
+*2024-05-28 11:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/99483/sri-lanka-urged-to-immediately-halt-labour-law-reform-process) · `en`
+
+Amnesty International along with other organizations have urgently called on the Sri Lankan Government to halt the current proposals for a new Labour Law and to ensure that reforms to the labour laws are only taken after due consultation with workers and their representatives.
+
+“We express our serious concerns over the proposed reforms which, as they stand, would weaken the rights and protection of workers by removing international minimum standards and rights,” rights group said.
+
+In an open letter to the Government and Parliament of Sri Lanka on the imminent labour law reforms, the coalition has raised significant concerns that the proposed reforms if implemented without proper consultation, would weaken workers’ rights and protections by eliminating international minimum standards and rights.
+
+Amnesty International, Clean Clothes Campaign and Human Rights Watch express serious concerns about imminent and sweeping changes to Sri Lankan labour laws.
+
+...
+
+[Data](articles/8b10b403.json)
+
+---
+
+### Teacher arrested for setting fire to Ranil’s private residence
+
+*2024-05-28 11:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Teacher-arrested-for-setting-fire-to-Ranils-private-residence/108-283505) · `en`
+
+Colombo, May 28 (Daily Mirror) - The Criminal Investigation Department arrested a 36-year-old suspect in connection with the incident of setting fire to President Ranil Wickremesinghe's private residence on 09 July 2022.
+
+The suspect, a resident of Kiranthidiya, was identified as a teacher.
+
+So far, more than 25 suspects have been arrested in connection with setting fire to the President's private residence.
+
+◼️
+
+[Data](articles/e61eefee.json)
+
+---
 
 ### Rain may be limited to North-Western Province by end of this month, but will continue
 
@@ -50,35 +122,55 @@ They said showers will occur in the Western, Sabaragamuwa, Central, North-Wester
 
 [Data](articles/9e87ccde.json)
 
+[Extended Data](ext_articles/9e87ccde.ext.json)
+
 ---
 
-### ஜனாதிபதியின் வீட்டுக்குத் தீ வைத்த ஆசிரியர் கைது
+### Teacher arrested for setting fire to president's house
 
 *2024-05-28 10:51:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியின்-வீட்டுக்குத்-தீ-வைத்த-ஆசிரியர்-கைது/175-338007) · `ta`
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்க பிரதமராக இருந்த போது கொள்ளுப்பிட்டியில் அத்துமீறி நுழைந்து அவரது வீட்டில் இருந்த சொத்துக்களை சேதப்படுத்தி வீட்டுக்குத் தீ வைத்த சம்பவத்துடன் தொடர்புடைய சந்தேகநபர் நவுட்டுடுவ கிரந்திடிய பிரதேசத்தில் குற்றப்புலனாய்வு பிரிவினரால் கைது செய்யப்பட்டுள்ளார்.
+A teacher suspected of arson against President Ranil Wickremesinghe's home during his tenure as prime minister was arrested by the CID. The incident occurred in Navutuduwa, where the suspect allegedly broke into the residence and set it ablaze. This act took place amidst protests on May 9, leading to the arrest of over 25 individuals connected to the incident, who have since faced charges in court.
 
-கைது செய்யப்பட்ட சந்தேகநபர் (36) ஆசிரியர் என குற்றப் புலனாய்வுப் பிரிவினர் தெரிவிக்கின்றனர்.
+🟩
 
-இப்போராட்டத்தின் போது, ​​கடந்த மே மாதம் 9 ஆம் திகதி இரவு, கொள்ளுப்பிட்டியில் உள்ள  ரணில் விக்கிரமசிங்கவின் வீட்டிற்குள் பலவந்தமாக நுழைந்த போராட்டக்குழுவினர் அவரது சொத்துக்களைத் தாக்கி தீயிட்டு சேதப்படுத்தியுள்ளனர்.
+When President Ranil Wickremesinghe was prime minister, the suspect was arrested by the Criminal Investigation Division (CID) in the Grandidiya area of Navutuduwa, who had broken the house and set fire to his house.
 
-இச்சம்பவம் தொடர்பாக 25க்கும் மேற்பட்ட சந்தேக நபர்கள் அவ்வப்போது கைது செய்யப்பட்டு வருகின்றனர். நீதிமன்றத்திலும் ஆஜர்படுத்தப்பட்டுள்ளனர். தற்போது கைது செய்யப்பட்ட சந்தேகநபரையும் நீதிமன்றில் முன்னிலைப்படுத்த நடவடிக்கை எடுக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+According to the Criminal Investigation Department, the suspect (36) is the teacher.
+
+During the struggle, on the night of May 9, the protesters who forcibly entered Ranil Wickremesinghe's house in Kaluppitti, attacked and set fire to his property.
+
+More than 25 suspects are being arrested from time to time in connection with the incident. They have also appeared in court. Police said that steps have been taken to present the suspects who are currently arrested in court.
 
 ◼️
 
 [Data](articles/dd775c98.json)
 
+[Extended Data](ext_articles/dd775c98.ext.json)
+
 ---
 
-### "ஒபறேசன் சஜப " ; பச்சைக்கட்சியை மீண்டும் ஐக்கியப்படுத்துவதற்கான திட்டம்
+### "Operation Sajapa";Plan to re -unite the tattoo
 
 *2024-05-28 10:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/184668) · `ta`
 
-ஐக்கிய தேசிய கட்சி 2020 தேர்தலில் அவமானத்துக்குரிய தோல்வியைச் சந்தித்தது. பழமைவாய்ந்த பெரிய கட்சி என்று சிலரால்  வர்ணிக்கப்படுகின்ற  ஐ.தே.க.வுக்கு தேர்தல் தோல்விகள் ஒன்றும் புதியவை அல்ல. 1956 ஆண்டில் 101 ஆசனங்களைக் கொண்ட பாராளுமன்றத்தில் அந்த கட்சிக்கு 8 ஆசனங்களே கிடைத்தன. 1970 ஆம் ஆண்டால் 157 ஆசனங்களைக் கொண்ட பாராளுமன்றத்தில் அதற்கு 17 ஆசனங்கள் கிடைத்தன. 2020 ஆம் ஆண்டு பிரத்தியேகமான  முறையில் வேறுபட்டதாக இருந்தது.ஐ.தே.க. அதன் வரலாற்றில் முதற்தடவையாக ஒரு உறுப்பினர் கூட பாராளுமன்றத்துக்கு தெரிவாகவில்லை. 249, 435 (2.15 % ) வாக்குகளைப் பெற்ற ஐ.தே.க.வுக்கு ஏதோ கருணையில் ஒரு தேசியப்பட்டியல் ஆசனம் கிடைத்தது. 225 உறுப்பினர்களைக் கொண்ட பாராளுமன்றத்தில் அந்த கட்சி ஒரேயொரு உறுப்பினரைக் கொண்டிருந்தது.
+It appears you've shared a detailed narrative involving political maneuverings and alliances within Sri Lanka's political landscape, focusing on the actions and reactions of various political figures and parties, particularly around the United National Party (UNP), Samagi Jana Balawegaya (SJB), and attempts to sway Members of Parliament (MPs) between these factions.
+
+
+
+Given the complexity and specificity of the situation, how may I assist you further? Are you looking for analysis, strategies, historical context, or something else related to this political scenario?
+
+🟩
+
+The United National Party suffered a shameful defeat in the 2020 election. Election defeats for the UNP, which is described by some as the oldest big party, are not new.. In 1956, the party received 8 seats in a 101 seat parliament. In the 1970s, the parliament of 157 seats received 17 seats. The 2020 was exclusively different.. For the first time in its history, not a single member was elected to Parliament. The UNP received a national list in compassion for 249, 435 (2.15 %). The party had only one member in the 225 -member parliament.
+
+UNP leader and former prime minister Ranil Wickremesinghe has been a Member of Parliament for 43 years since 1977. In the 2015 general election, the Colombo district candidates came to the peak of over five lakhs of votes in the list of candidates.. Ranil, who was mocked as' Mr. Bean 'and' a 'fonder' by political opponents in the past. It was said that his political life had come to an end.
 
 ...
 
 [Data](articles/29ca0fdd.json)
+
+[Extended Data](ext_articles/29ca0fdd.ext.json)
 
 ---
 
@@ -110,15 +202,21 @@ As a result, the waves of sea to Matara through Kalpitiya has been able to land 
 
 ---
 
-### இலங்கையில் முற்பதிவை ஆரம்பித்த ஸ்டார்லிங்க்
+### Starling started the pre -Sri Lanka
 
 *2024-05-28 10:37:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையில்-முற்பதிவை-ஆரம்பித்த-ஸ்டார்லிங்க்/175-338006) · `ta`
 
-இலங்கையில் எலொன் மஸ்க்கின் ஸ்டார்லிங்க் இணையச் சேவையானது இலங்கையில் முற்பதிவுகளை ஆரம்பித்துள்ள நிலையில், முழுமையாக மீளப் பெறக்கூடிய ஒன்பது ஐக்கிய அமெரிக்க டொலர்களைச் செலுத்தி முற்பதிவுகளை மேற்கொள்ள முடியும்.
+Elon Musk's Starlink internet service has launched in Sri Lanka, offering users $9 credit that can be fully redeemed.
+
+🟩
+
+With Elon Mask's Starling Internet service in Sri Lanka, Sri Lanka has begun earlier, with nine US dollars that can be fully recovered.
 
 ◼️
 
 [Data](articles/b92d9d1d.json)
+
+[Extended Data](ext_articles/b92d9d1d.ext.json)
 
 ---
 
@@ -207,6 +305,8 @@ The relevant results can be checked on the official website of the Examinations 
 ◼️
 
 [Data](articles/2bb40fc9.json)
+
+[Extended Data](ext_articles/2bb40fc9.ext.json)
 
 ---
 
@@ -2106,120 +2206,18 @@ Out of them six are selected based on qualifying standard which is 64m and the r
 
 ---
 
-### Update: Daily Mirror’s quick action leads to removal of hazardous tree branch
+### අඩු ආදායම්ලාභීන්ගේ ජීවන තත්ත්වය නංවාලීමට රුපියල් බිලියන 20.6ක්
 
-*2024-05-27 19:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Update-Daily-Mirrors-quick-action-leads-to-removal-of-hazardous-tree-branch/108-283457) · `en`
+*2024-05-27 19:17:58* · [`adalk`](https://www.ada.lk/breaking_news/අඩු-ආදායම්ලාභීන්ගේ-ජීවන-තත්ත්වය-නංවාලීමට-රුපියල්-බිලියන-20-6ක්/11-409860) · `si`
 
-Colombo, May 27 (Daily Mirror) - Quick action by the Daily Mirror breaking news exposing the wayside hazard of a shattered branch of a mango tree hanging over the pavement along the Anagarika Dharmapala Mawatha in Colombo drew a similar quick response by the Colombo Municipal Council (CMC) and was removed by the CMC’s Disaster Management Unit a short while ago.
+ඉදිරි මාස කිහිපයෙහිදී ග්‍රාමීය පහසුකම් සැලසීම හා අඩු ආදායම්ලාභීන්ගේ ජීවන තත්ත්වය නංවාලීම සඳහා රුපියල් බිලියන 20.6ක් වැය කිරීමට රජය තීරණය කර තිබේ.
 
-◼️
+එසේම මේ පිලිබඳ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් අමාත්‍ය මණ්ඩලය දැනුම්වත් කර ඇති අතර එහිදී නව කෘෂිකාර්මික ව්‍යාපෘති ක්‍රියාත්මක කිරීමට නියමිතය.
 
-[Data](articles/7e5f208e.json)
-
-[Extended Data](ext_articles/7e5f208e.ext.json)
-
----
-
-### The strongest health care in Colombo to the north
-
-*2024-05-27 19:11:53* · [`adalk`](https://www.ada.lk/breaking_news/කොළඹින්-පසු-ශක්තිමත්ම-සෞඛ්‍ය-සේවාව-උතුරට/11-409859) · `si`
-
-President Ranil Wickremesinghe inaugurated a new heart and kidney disease facility at Vavuniya District General Hospital, enhancing healthcare in the Northern Province. Funded by the Netherlands, the project aims to bolster medical tourism along the A9 road, joining efforts to upgrade healthcare infrastructure across the region.
-
-🟩
-
-President opens new heart disease and kidney disease at Vavuniya District General Hospital
-
-After Colombo, the strongest health care is available to the North.
-
-The modern hospitals strengthened the A9 road to medical tourism to medical tourism - President:
-
-President Ranil Wickremesinghe, the patronage of the Kidney Disease and the Kidney Disease of the Vavuniya District was opened by President Ranil Wickremesinghe at a cost of support of the Netherlands.
-
-The project commenced under the patronage of Prime Minister Ranil Wickremesinghe at the time in 2019 under the good governance government.
-
-The new three-storey unit, cardioc iCu (Cath Lab), Cardiac ICU (CARDIOTHOCICE), Echo Critiography (Echo Card Lines), Exercise Electronic Lines, MobileThe Blood Pressure Supervisory Unit (Ampulatory BP Monitoring) is the modern facilities such as the Ambulatory Lines of Ambulatory Lines.
-
-The Kidney Disease includes facilities such as the Blood Carry Unit, Scan Room and Surgical Unit for Kidney patients.
-
-...
-
-[Data](articles/c58c9a28.json)
-
-[Extended Data](ext_articles/c58c9a28.ext.json)
-
----
-
-### Elon Musk to Sri Lanka at the end of the year
-
-*2024-05-27 19:02:19* · [`adalk`](https://www.ada.lk/technology/ඊලෝන්-මස්ක්-වසර-අවසානයේදී-ලංකාවට/5-409858) · `si`
-
-Elon Musk, CEO of Tesla and SpaceX, is set to visit Sri Lanka at the end of the year to discuss launching the Starlink project there. This initiative aims to provide internet access to underserved areas, potentially boosting sectors like tourism. The visit follows discussions at the 10th World Water Forum, where the potential benefits of Starlink were highlighted. Musk's involvement is seen as a significant boost for Sri Lanka's economy, with expectations that his presence could attract more international investment.
-
-🟩
-
-Senior Advisor of Climate Adviser Ruwan Wijewardene said that if the head of Tesla and Space X is capable of calling world famous businessmen, such as Elon Musts, is a major contribution to the development of the economy.
-
-He pointed out that internet access is available to a project such as a "Starlink" and that we can provide internet access to the weak areas of the economy and that it will support the growth of a number of false fields including tourism.
-
-Speaking to Climate Change
-
-Speaking further Mr. Ruwan Wijewardene said,
-
-The 10th World Water Forum was held on the 18th to the 20th Bali Island of Indonesia from the 18th to the 20th. President Ranil Wickremesinghe and angels participated in the official invitation of Indonesian President Jooko Vidodo (Joko WidoDo). A special meeting was held between the President and Tesla and Space X, Tesla and Space X.
-
-...
-
-[Data](articles/a6b9eeff.json)
-
-[Extended Data](ext_articles/a6b9eeff.ext.json)
-
----
-
-### An notice of flooding
-
-*2024-05-27 19:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197081) · `si`
-
-Flooding alert: The Kalu River near Milkanda has reached a minor flood stage with a water level of 6.53 meters. If it rises above 8 meters, the Department of Irrigation warns of potential issues. Additionally, water levels in Gin and Nilwala rivers are also rising.
-
-🟩
-
-The Kalu River of the Kalu River Kalu River has increased to a small flood in Milkanda area.
-
-The department indicates that the water level of the small river was up to 6.53 meters.
-
-The Department of Irrigation states that if the level exceeds 8 meters, the Department of Irrigation said.
-
-The Department of Irrigation states that the water level of the river is also increased.
-
-In addition, the water levels of Gin and Nilwala Runwala are also increasing.
+ඒ අනුව අදාළ කෘෂිකාර්මික ව්‍යාපෘති ගම්මානවල ගොවි ජනතාවගේ ආදායම් තත්ත්වය ඉහළ නැංවීම, ඔවුන්ගේ යටිතල පහසුකම් සංවර්ධනය සහ නව කෘෂි තාක්ෂණය ඉලක්ක කර ගනිමින් මෙය ක්‍රියාත්මක කිරීමට නියමිත බව කෘෂිකර්ම හා වැවිලි කර්මාන්ත අමාත්‍ය මහින්ද අමරවීර මහතා ප්‍රකාශ කළේය.
 
 ◼️
 
-[Data](articles/fc161615.json)
-
-[Extended Data](ext_articles/fc161615.ext.json)
-
----
-
-### Maithri launches operating center
-
-*2024-05-27 18:55:52* · [`adalk`](https://www.ada.lk/breaking_news/මෛත්‍රී-පාර්ශ්වය-මෙහෙයුම්-මධ්‍යස්ථානයක්-අරඹයි/11-409857) · `si`
-
-Maithri Sirisena, SLFP leader, announces an operating center launch, promising swift action for future politics. Professor Rohana Lakshman Piyadasa supports, urging quick political progress.
-
-🟩
-
-Sri Lanka Freedom Party (SLFP) Maithripala Sirisena states that action will be taken from any other location due to the future politician.
-
-Professor Rohana Lakshman Piyadasa said that he has summoned to Colombo from the leading and electorates to support the party.
-
-He said that the future politics should be carried out quickly.
-
-◼️
-
-[Data](articles/58f3e41f.json)
-
-[Extended Data](ext_articles/58f3e41f.ext.json)
+[Data](articles/e73710f5.json)
 
 ---

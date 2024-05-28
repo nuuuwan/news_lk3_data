@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-28 19:34:10**
+As of **2024-05-28 19:52:06**
 
 ## Newspaper Stats
 
-*Scraped **26,880** Articles*
+*Scraped **26,881** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,456
 economynextcom | 1,539
 dailyftlk | 1,568
-adalk | 2,289
+adalk | 2,290
 adaderanalk | 3,073
 tamilmirrorlk | 3,150
 virakesarilk | 4,122
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,312
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,878 (100.0%) of 26,880 articles have been extended.
+26,880 (100.0%) of 26,881 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -43,6 +43,8 @@ Perhaps the World Cup in the USA and WI could go down as one of the most unpredi
 ...
 
 [Data](articles/41307594.json)
+
+[Extended Data](ext_articles/41307594.ext.json)
 
 ---
 
@@ -63,6 +65,20 @@ The ministry further mentioned that it has been decided to appoint a committee h
 [Data](articles/ad27ddaf.json)
 
 [Extended Data](ext_articles/ad27ddaf.ext.json)
+
+---
+
+### මැතිවරණ කල් දැමීම ප්‍රජාතන්ත්‍රවාදයට අනුකූල නෑ -නාමල්
+
+*2024-05-28 18:16:32* · [`adalk`](https://www.ada.lk/breaking_news/මැතිවරණ-කල්-දැමීම-ප්‍රජාතන්ත්‍රවාදයට-අනුකූල-නෑ--නාමල්/11-409875) · `si`
+
+මැතිවරණ කල් දැමීම කිසිම ප්‍රජාතන්ත්‍රවාදයට  අනුකූල නොවන බව ශ්‍රී ලංකා පොදුජන පෙරමුණේ ජාතික සංවිධායක නාමල් රාජපක්ෂ පවසනවා.ඔහු මේ බව ප්‍රකාශ කලේ අද දින නෙළුම් මාවතේ රැස්වීමක් අවසානයේදී මාධ්‍යවේදීන් ඇසූ ප්‍රශ්නයකට පිළිතුරු ලබාදෙමිනි. මෙහිදී වැඩි දුරටත් අදහස් දැක්වූ නාමල් රාජපක්ෂ ,
+
+"ජනාධිපතිවරයාගේ සහ පාර්ලිමේන්තුවේ කාලසීමාව දීර්ඝ කිරීම ප්‍රජාතන්ත්‍රවාදී රටක. මූලික ප්‍රතිපත්තිවලට හානි කරයි.මහින්ද රාජපක්ෂ ජනාධිපතිවරයා බලයේ සිටි කාලයේදී වෙලාවට ඡන්දෙ තිබ්බා.මැතිවරණ කල් දැම්මෙ නෑ. දේශපාලන මෙන්ම රටක ස්ථාවරත්වය ඇති විය යුත්තේ ජනතා කැමැත්තෙන් මිස ඔවුන්ගේ හඬ ප්‍රමාද කිරීමෙන් නොවේ"
+
+◼️
+
+[Data](articles/c564e398.json)
 
 ---
 
@@ -98,19 +114,25 @@ Speaking to the media, NPP Executive Member Dr. Nalinda Jayatissa said if the sc
 
 ---
 
-### සරසවි අනධ්‍යන සේවක වැටුප් විශමතා විමර්ශනයට කමිටුවක්
+### Committee to investigate university levels of employees
 
 *2024-05-28 18:07:40* · [`adalk`](https://www.ada.lk/breaking_news/සරසවි-අනධ්‍යන-සේවක-වැටුප්-විශමතා-විමර්ශනයට-කමිටුවක්/11-409874) · `si`
 
-2024.05.27 දින පැවැති අමාත්‍ය මණ්ඩල රැස්වීමේ දී ගනු ලැබූ අමාත්‍ය මණ්ඩල තීරණය පරිදි විශ්වවිද්‍යාල අනධ්‍යයන කාර්ය මණ්ඩලවල 2018 සිට පැවැති වැටුප් විෂමතාව සම්බන්ධයෙන් වූ ගැටලු‍ව පිළිබඳව හා ඒ හා සම්බන්ධ වූ වෙනත් වැටුප් විෂමතා පිළිබඳව ඇති ගැටලු‍ පිළිබඳව විමර්ශනය කර මීළඟ අයවැයට පෙර අමාත්‍ය මණ්ඩලයට වාර්තා කිරීමට භාණ්ඩාගාර ලේකම්ගේ ප්‍රධානත්වයෙන් කමිටුවක් පත් කර නිර්දේශ ලබා ගැනීමට තීරණය වි ඇතැයි අධ්‍යාපන අමාත්‍යාංශය කියයි.
+A committee will investigate salary anomalies at the University of Allegation under the Ministry of Education's patronage. The Treasury must address salary and overtime payment issues. The Ministry also seeks to improve professional development for non-academic staff through workshops.
 
-මේ අනුව වෘත්තිය ක්‍රියාමාර්ගයකට අවතීර්ණව සිටින විශ්වවිද්‍යාල අනධ්‍යයන කාර්ය මණ්ඩල වෘත්තිය සමිති දැනට පවත්වාගෙන යන වෘත්තිය ක්‍රියා මාර්ගයෙන් බැහැරව සේවයට වාර්තා කරන ලෙස අධ්‍යාපන අමාත්‍යාංශය ඉල්ලා සිටියි.
+🟩
 
-තවද, සේවයට වාර්තා කිරීමෙන් පසු වැටුප් හා අතිකාල දීමනා ගෙවීම පිළිබඳව ගැටලු‍වක් පැන නොනඟින බවද අමාත්‍යාංශය නිකුත් කළ නිවේදනයේ වැඩිදුරටත් දැක්වෙයි.
+Treasury to report on the issues of the Salary Anomalies of the University of AllegationThe Secretary of the Ministry of Education has decided to appoint a committee under the patronage of the Secretary.
+
+Accordingly, the Ministry of Education requests the work of the university non-academic staff professional surveillance workshops.
+
+Further, the Ministry has issued a problem with the payment of salaries and overtime after reporting to the service.
 
 ◼️
 
 [Data](articles/b8d1244c.json)
+
+[Extended Data](ext_articles/b8d1244c.ext.json)
 
 ---
 
@@ -2297,29 +2319,5 @@ Since it was notified, it was further extended to the Fisheries and Navy to the 
 [Data](articles/6fb38502.json)
 
 [Extended Data](ext_articles/6fb38502.ext.json)
-
----
-
-### Special proposal to be brought about estates
-
-*2024-05-28 12:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197105) · `si`
-
-The President approves a plan to pay statutory allowances from three plantation companies, addressing over 2,000 court cases due to unpaid deficits. The proposal, aimed at complying with the Employees' Provident Fund Act No. 15 of 1958, was submitted by the General Treasury due to insufficient earnings from these institutions.
-
-🟩
-
-The President has approved a proposal to facilitate the payment of statutory allowance from the Government Plantation Corporation, Janatha Estate Development Board and Limited Author Plantation Company.
-
-The President has made his proposal to advise the Commissioner General of Labor, according to the Employees' Provident Fund No. 15 of 1958 after the clearing of these deficit allowances.
-
-More than 2,000 cases are pending in the courts of various provinces due to non-deficit deficit offers due to the Government Plantation Corporation, Janatha Estate Development Board and Limited.
-
-The proposal has been submitted by the General Treasury as the General Treasury has been provided by the Treasury as a fee required by the General Treasury as the earnings of the institutions are not sufficient for the payment of the said arrears.
-
-...
-
-[Data](articles/8f207331.json)
-
-[Extended Data](ext_articles/8f207331.ext.json)
 
 ---

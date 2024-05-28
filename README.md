@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-29 02:18:45**
+As of **2024-05-29 02:34:21**
 
 ## Newspaper Stats
 
-*Scraped **26,928** Articles*
+*Scraped **26,939** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,10 +14,10 @@ bbccomsinhala | 268
 newsfirstlk | 363
 islandlk | 1,456
 economynextcom | 1,540
-dailyftlk | 1,574
+dailyftlk | 1,584
 adalk | 2,294
 adaderanalk | 3,075
-tamilmirrorlk | 3,156
+tamilmirrorlk | 3,157
 virakesarilk | 4,130
 dailymirrorlk | 4,250
 adaderanasinhalalk | 4,319
@@ -26,11 +26,193 @@ adaderanasinhalalk | 4,319
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,928 (100.0%) of 26,928 articles have been extended.
+26,928 (100.0%) of 26,939 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-29 (Wednesday)
+
+### Savanth Sebastian new Chairman at Colombo City Holdings
+
+*2024-05-29 02:18:59* · [`dailyftlk`](https://www.ft.lk/business/Savanth-Sebastian-new-Chairman-at-Colombo-City-Holdings/34-762315) · `en`
+
+Savanth Sebastian has been appointed as the Chairman of Colombo City Holdings PLC, a subsidiary of Ambeon Holdings Plc.
+
+The Chairmanship of Colombo City Holdings was previously held by Ravi Abeysuriya until his demise late last year.
+
+Sebastian has a wealth of experience in economics, financial services and investment management and currently also serves on the Boards of Directors of Nations Trust Bank PLC (6 years), Voguetex Ltd. and ArpicoAtaraxia Asset Management.
+
+Sebastian brings with him 21 years of industry experience, having carried out responsibilities for nine years as the Senior Economist within the Global Markets research team at Commonwealth Bank in Australia, advising Federal and State Governments, high net worth private and institutional clients, and internal stakeholders – Including Colonial First State and the Commonwealth Bank senior leadership team.
+
+...
+
+[Data](articles/f543352e.json)
+
+---
+
+### RIUNIT launches new podcast series
+
+*2024-05-29 02:12:43* · [`dailyftlk`](https://www.ft.lk/business/RIUNIT-launches-new-podcast-series/34-762314) · `en`
+
+Inaugural episode explores global economic stability with Dr. Howard Nicholas
+
+The Research Intelligence Unit (RIUNIT), a London-based research and consulting firm, has launched a new podcast series on global economic topics, using a nonconventional approach to identify opportunities and challenges.
+
+The inaugural episode, released on 27 May features a panel discussion titled “Why Isn’t the Global Economy in Crisis?” The panel includes renowned Economist Dr. Howard Nicholas, The Economic Training and Information Services Company Co-founder and COO Bram Nicholas, and RIUNIT Founder and CEO Roshan Madawela.
+
+...
+
+[Data](articles/20402377.json)
+
+---
+
+### Adrian Perera appointed to Kelsey Developments Board
+
+*2024-05-29 02:09:52* · [`dailyftlk`](https://www.ft.lk/business/Adrian-Perera-appointed-to-Kelsey-Developments-Board/34-762313) · `en`
+
+Adrian Perera has been appointed to the Board of Kelsey Developments PLC as a Non-Executive Independent Director.
+
+Perera fills the vacancy created by the resignation of Executive Director C.P. John on 22 May.
+
+Kelsey Developments also announced R. Bradley Emmerson has relinquished the position of Senior Independent Director of the company and Wasantha Kumara Galagoda, a Non – Executive/ Independent Director has been appointed as the Senior Independent Director.
+
+Perera has over 30 years’ experience in Banking, Finance, Treasury, Manufacturing, Information Technology, Tourism, Agriculture and Construction.
+
+Perera is a Fellow Member of Association of Chartered Certified Accountants (UK), a Fellow member of CIMA (UK), Chartered Global Management Accountant, a Fellow Member of the Certified
+
+...
+
+[Data](articles/0e241b2f.json)
+
+---
+
+### Lanka Transformers forges partnership with Indian giant APAR Industries
+
+*2024-05-29 02:07:36* · [`dailyftlk`](https://www.ft.lk/business/Lanka-Transformers-forges-partnership-with-Indian-giant-APAR-Industries/34-762312) · `en`
+
+Ideal Premier General Manager Oswald Pereira, LTL Transformers Chief Operating Officer Rukshika Pathberiya and APAR Industries Deputy Manager Exports Ganesh Ghorpade
+
+In the dynamic landscape of the transformer industry, where innovation meets expertise, two industry giants, Lanka Transformers Ltd., and APAR Industries Ltd., have forged an alliance that promises to redefine standards and elevate benchmarks.
+
+This alliance comes as a culmination of rigorous evaluation and meticulous selection, with APAR clinching the bid to supply bulk volumes of Transformer Oils to Lanka Transformers Ltd.
+
+...
+
+[Data](articles/605cdaca.json)
+
+---
+
+### 2024 New Generation Asian Conference and Awards in July
+
+*2024-05-29 02:05:57* · [`dailyftlk`](https://www.ft.lk/business/2024-New-Generation-Asian-Conference-and-Awards-in-July/34-762311) · `en`
+
+With a burst of youthful energy and inspiration, New Generation Sri Lanka has set the stage for the much-anticipated New Generation Asian Conference and the fifth New Generation Asian Awards in Colombo from 5 to 8 July.
+
+This year’s gathering aims to bring together around 200 young leaders from across the continent.
+
+New Generation Sri Lanka Chairman Kasun Sigera said: “This year, we wanted to make New Generation a platform that goes beyond just awards. Over the past four years, we have recognised over 500 exceptional youth, including myself. It is time for Sri Lankan youth to step out of their comfort zones and network with the fastest-growing youth communities in Asia.”
+
+...
+
+[Data](articles/c6ec1428.json)
+
+---
+
+### Govt. allocates Rs. 844 m for Compulsory Retirement Scheme to merge State-run fertiliser companies
+
+*2024-05-29 02:01:14* · [`dailyftlk`](https://www.ft.lk/news/Govt-allocates-Rs-844-m-for-Compulsory-Retirement-Scheme-to-merge-State-run-fertiliser-companies/56-762310) · `en`
+
+Cabinet Co-Spokesman and Minister Bandula Gunawardena says scheme is part of broader effort to streamline SOEs
+
+The Cabinet of Ministers on Monday approved the implementation of a Compulsory Retirement Scheme (CRS) in connection with the amalgamation of Ceylon Fertiliser Company Ltd., and Colombo Commercial Fertiliser Company Ltd.
+
+“The move includes an allocation of Rs. 844 million from the funds of the two fertiliser companies to execute the proposed CRS,” Cabinet Co-Spokesman and Minister Bandula Gunawardena yesterday said at the weekly post-Cabinet meeting media briefing.
+
+The implementation of the CRS is subject to the recommendations of an Officials Committee chaired by the Secretary to the Prime Minister.
+
+“A total of 267 employees have consented to retire under this scheme as part of the amalgamation process,” he added.
+
+Gunawardena said the scheme is part of a broader effort to streamline State enterprises by offering a voluntary pension scheme to excess employees.
+
+...
+
+[Data](articles/8bcf0186.json)
+
+---
+
+### Govt. awaits Special Committee report to take action on RPCs’ minimum wage hike compliance
+
+*2024-05-29 02:00:32* · [`dailyftlk`](https://www.ft.lk/news/Govt-awaits-Special-Committee-report-to-take-action-on-RPCs-minimum-wage-hike-compliance/56-762309) · `en`
+
+Cabinet Co-Spokesman and Minister Bandula Gunawardena reveals some plantation companies informed Govt. they cannot afford increased wages
+
+Says committee in process of studying genuineness of financial constraints, management issues to explore legal procedures in taking over companies if necessary
+
+Asserts committee will consider input from trade unions, workers, other stakeholders on wage hike
+
+Opines report will be presented to Cabinet after which Govt. will announce its final stance
+
+Cabinet Co-Spokesman and Minister Bandula Gunawardena yesterday said the Government will soon announce its stance on Regional Plantation Companies (RPCs) that have failed to implement the minimum wage hike, following the completion of a report by a Cabinet-approved Special Committee.
+
+...
+
+[Data](articles/ed94ee6f.json)
+
+---
+
+### Cabinet nod to gazette draft bills to amend Anti-Dumping and Safeguard Measures
+
+*2024-05-29 01:59:48* · [`dailyftlk`](https://www.ft.lk/news/Cabinet-nod-to-gazette-draft-bills-to-amend-Anti-Dumping-and-Safeguard-Measures/56-762308) · `en`
+
+The Cabinet of Ministers on Monday approved publishing of draft bills to amend the Anti-Dumping and Countervailing Duties Act, No. 2 of 2018 and the Safeguard Measures Act, No. 3 of 2018, in the Government gazette and tabled the same to Parliament for approval.
+
+Cabinet Co-Spokesman and Minister Bandula Gunawardena speaking at the weekly post-Cabinet meeting yesterday asserted that the draft bills prepared by the Legal Draftsman received clearance from the Attorney General.
+
+The move follows the recognition of the need for corresponding amendments to these Acts during the preparation of the Economic Transformation draft bill.
+
+“The proposed amendments aim to enhance the effectiveness and applicability of the current legislation,” he said, adding that amendments are expected to strengthen Sri Lanka’s trade defence mechanisms, ensuring better protection against unfair trade practices and promoting fair competition in the market.
+
+...
+
+[Data](articles/4da732ed.json)
+
+---
+
+### Social security benefits to be introduced for all workers over 55 years
+
+*2024-05-29 01:57:56* · [`dailyftlk`](https://www.ft.lk/news/Social-security-benefits-to-be-introduced-for-all-workers-over-55-years/56-762307) · `en`
+
+Labour and Foreign Employment Minister Manusha Nanayakkara yesterday announced that the Cabinet has approved a proposal to provide social security benefits to all workers aged 55 and above across various industries.
+
+This initiative includes the preparation of necessary legal provisions, which will be developed alongside the “Garusaru” program, he said.
+
+Addressing the press briefing titled “Collective Path to a Stable Country” held at the President Media Centre (PMC), Minister Nanayakkara highlighted the Government’s commitment to social security and labour rights.
+
+The Minister further responded to criticisms about the lack of mental freedom to celebrate festivals, noting that the current Government, led by President Ranil Wickremesinghe, has restored the environment for celebrating Vesak, Poson, Esala and Christmas.
+
+...
+
+[Data](articles/ecbf2055.json)
+
+---
+
+### National Audit Office to scrutinise accounts of Samurdhi banks
+
+*2024-05-29 01:57:26* · [`dailyftlk`](https://www.ft.lk/news/National-Audit-Office-to-scrutinise-accounts-of-Samurdhi-banks/56-762306) · `en`
+
+The Cabinet of Ministers on Monday approved amendments to the Samurdhi Act No.1 of 2013, as amended by the Divineguma (Amendment) Act No. 2 of 2017 and directed the Legal Draftsman to prepare the respective bill for this purpose.
+
+Speaking at the weekly post-Cabinet meeting media briefing, Cabinet Co-Spokesman and Minister Bandula Gunawardena said the proposed amendments aim to introduce new auditing provisions for the 1,092 Samurdhi Community-Based Banks and 335 Samurdhi Community-Based Banking Societies operating across the country to promote microfinance activities.
+
+At present, these institutions are audited annually by the Internal Audit Division of the Samurdhi Development Department. However, the existing Samurdhi Act does not mandate audits by the National Audit Office.
+
+Recognising the importance of maintaining transparency and increasing public confidence, he said the Cabinet decided that auditing by the National Audit Office would be beneficial.
+
+...
+
+[Data](articles/36772222.json)
+
+---
 
 ### Dialog launches SL’s first smartphone plan with 40% down payment
 
@@ -133,6 +315,22 @@ The executive president of the country gives the promise to protect the Constitu
 [Data](articles/8402fe94.json)
 
 [Extended Data](ext_articles/8402fe94.ext.json)
+
+---
+
+### பாதணிகளில் கார்த்திகைப் பூ
+
+*2024-05-29 00:33:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாதணிகளில்-கார்த்திகைப்-பூ/175-338055) · `ta`
+
+தென்னிலங்கையில் செருப்பு உற்பத்தியை மேற்கொள்ளும்  நிறுவனமொன்று தமிழர்களின் பாரம்பரியமானதும் தனித்துவம் வாய்ந்த கார்த்திகைப் பூவினை பாதணிகளில் பதித்துள்ளது என தமிழ் தேசிய பசுமை இயக்கத்தின் தலைவர் பொன்னுத்துறை ஐங்கரநேசனின், அதிருப்தி வெளியிட்டுள்ளார்.
+
+தமிழ் தேசிய பரப்பிலேயே கார்த்திகைப் பூ குறித்த ஒரு காலத்தில் மாத்திரம் பூக்கின்ற தனித்துவமான மலர் என்பதை கருத்தில் கொள்ளாது குறித்த நிறுவனம் பாதணிகளில் அதனைப் பதித்து தமிழர்களின் உணர்வுகளை அவமானப்படுத்தியுள்ளது.
+
+குறித்த நிறுவனத்தினால் உற்பத்திச் செய்யப்படும் அந்த பாதணிகளை, பாவனைக்கு விடாது தடை செய்ய வேண்டும் என்றும் அது தொடர்பாக தமிழர்களிடம் மன்னிப்பு கோர வேண்டும் என்றார்.
+
+◼️
+
+[Data](articles/bbd6774f.json)
 
 ---
 
@@ -2005,269 +2203,5 @@ He further mentioned that the same team of investigators, who were victimized wh
 [Data](articles/b7af1c85.json)
 
 [Extended Data](ext_articles/b7af1c85.ext.json)
-
----
-
-### Woman hacked to death near church over nightclub dispute
-
-*2024-05-28 16:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Woman-hacked-to-death-near-church-over-nightclub-dispute/108-283524) · `en`
-
-Colombo, May 28 (Daily Mirror) - A 36-year-old woman was found hacked to death near a church in Liyanagemulla, Seeduwa, believed to be as a result of a dispute stemming from a night club altercation.
-
-Police said the woman, an employee of the Katunayake Free Trade Zone, was found killed early this morning.
-
-Investigations revealed that the victim woman had started working in the Katunayake Free Trade Zone about 6 years ago and later had been staying temporarily in a hostel in Seeduwa with a person who works in a tourist hotel in the same area.
-
-It was reported that she had an argument with the man based on an incident at a nightclub. Police found CCTV footage of the victim and the man walking in front of St. Sebastian's Church between 2:00 am and 3:00 am today.
-
-The Negombo Acting Magistrate visited the scene and conducted an on-site inspection, and her body has been sent to the Negombo Hospital for a post-mortem examination.
-
-◼️
-
-[Data](articles/f07ada66.json)
-
-[Extended Data](ext_articles/f07ada66.ext.json)
-
----
-
-### Reconciliation with no political solution does not believe
-
-*2024-05-28 16:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/184679) · `ta`
-
-Despite the end of the war 15 years ago, unresolved issues persist, particularly in the North and East. Economic struggles and international scrutiny, including calls for war crime prosecutions, highlight ongoing challenges. President Ranil Wickremesinghe aims to address these by focusing on development and reconciliation, visiting the affected areas and promoting major projects. However, concerns over devolution and past rights violations remain, with the upcoming presidential election potentially influencing policy directions.
-
-🟩
-
-The fifteenth anniversary of the end of the war has clearly revealed that the war may have come to an end, but that the relevant issues did not end. There is a sense of practice outside the North and East, which was the domain of military operations. The memory of the war is going near. This situation has led to the hope that the government can pay attention to the economic downturn of the government, especially in the lives of the people who are still increasingly affected by other problems.
-
-Under the leadership of President Ranil Wickremesinghe, there was also the hope that he could win the international pressures from the Human Rights Council and the United Nations Human Rights Council as he had close ties with the leaders of the West.
-
-...
-
-[Data](articles/361dfc13.json)
-
-[Extended Data](ext_articles/361dfc13.ext.json)
-
----
-
-### Although our country is small, there are many killings - Vijayadasa
-
-*2024-05-28 16:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/184705) · `ta`
-
-Vijayadasa Rajapakse highlights the country's history of violence, citing deaths from JVP and LTTE conflicts. He emphasizes the importance of preventing future tragedies, supporting village-level reconciliation efforts, and strengthening national unity. The Minister discusses the transformation of the National Reconciliation and Reform Commission into a legal entity and its role in fostering reconciliation at the grassroots level. He calls for a new approach to ensure peace and unity, allowing villagers to directly influence development decisions.
-
-🟩
-
-Minister of Justice, Prisons and Constitutional Reforms Vijayadasa Rajapakse said that 12,000 people died in 1971 and 77,000 in 1988-1989 as a result of the JVP's two-time armed arms.
-
-He said that about 70 thousand were killed in the 30 -year LTTE terrorism and that the country was small, but many assassinations.
-
-The Minister said this while addressing the gathering at the Central Provincial Governor's Office to open an office for the Kandy District Reconciliation Committee.
-
-He urged that such disasters do not re -occurs, and that the village level reconciliation groups will be supported and thereby gain the authority of the village.
-
-The Minister said that the National Reconciliation and Reform Commission, which has been in operation so far, has been transformed into a legal organization through the Parliamentary Act since last January.
-
-...
-
-[Data](articles/c50362ef.json)
-
-[Extended Data](ext_articles/c50362ef.ext.json)
-
----
-
-### Karthik flower in footwear;To apologize to Tamils - Aingeranesan
-
-*2024-05-28 16:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/184707) · `ta`
-
-Ponnuthurai Aingaranesan, head of the Tamil National Green Movement, criticized a company for embedding the sacred Karthik flower in footwear, seen as a humiliation of Tamil sentiments. He called this act an insult, comparing it to a conspiracy by political forces in South Sri Lanka. Aingaranesan demanded the company recall the shoes and urged an apology from the Tamils involved.
-
-🟩
-
-The leader of the Tamil National Green Movement, Ponnuthurai Aingaranesan, said that Karthik's flower was embedded in footwear to humiliate the sentiments of the Tamils.
-
-He made a statement during a media briefing held in Jaffna today (28).
-
-When the Tamils are the traditional of the Tamils in the South, the unique Karthik flower has been put in the footwear and provided them for public use.
-
-The company has insulted the sentiments of the Tamils by putting it on the feet of the legs, not considering that it is only a unique flower of the Karthik flower in the Tamil nationalist area.
-
-I see the matter as a conspiracy of political forces in South Sri Lanka. The company must recover the footwear for sale. He also said that the Tamils should apologize for the matter.
-
-◼️
-
-[Data](articles/05673ef3.json)
-
-[Extended Data](ext_articles/05673ef3.ext.json)
-
----
-
-### Vijay is a dual prize for fans
-
-*2024-05-28 16:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/184706) · `ta`
-
-Vijay, a beloved actor with a massive fan base, has excited fans with news about his roles in two upcoming films: 'Code-Goat' and 'The Greatest of All Time'. In 'The Greatest of All Time', alongside Meenakshi Chaudhry, Prashant, and others, Vijay makes his debut as a singer with two songs. Directed by Venkat Prabhu and featuring music by Yuvan Shankar Raja, the film is set to release on September 5th. Fans eagerly await Vijay's voice in the film, especially on his birthday in June.
-
-🟩
-
-Vijay, who has millions of fans, has released new information to his fans in the movie 'Code-Goat'.
-
-Vijay, Meenakshi Chaudhry, Prashant, Mohan, Prabhu Deva, Sneha, Laila and many others have starred in the upcoming film 'The Greatest of All Time' directed by director Venkat Prabhu.
-
-Yuvan Shankar Raja has composed the film, which has been recorded by Siddhartha Nuni. Producers Kalpathi S.. Akoram, Kalpathi S Ganesh, Kalpathi S. Suresh has co -produced.
-
-The film, which will be released on the fifth of September, will be released in the film House.. When the music composer of the film was attending a private event, Yuvan Shankar Raja Raja asked Raja about the update of the film, "Commander Vijay has sung two songs in the film for the first time. The song is amazingly.". This has encouraged Vijay fans.
-
-Meanwhile, his fans and filmmakers are expecting Vijay's voice to be released on Vijay's birthday in June.
-
-◼️
-
-[Data](articles/740511b3.json)
-
-[Extended Data](ext_articles/740511b3.ext.json)
-
----
-
-### Sri Lanka govt distances itself from UNP call for postponing elections
-
-*2024-05-28 16:08:00* · [`economynextcom`](https://economynext.com/sri-lanka-govt-distances-itself-from-unp-call-for-postponing-elections-165092/) · `en`
-
-ECONOMYNEXT — The government has distanced itself from a statement by President Ranil Wickremesinghe’s United National Party (UNP) calling for delaying elections by two years.
-
-Labour Minister Manusha Nanayakkara responding to questions from journalists on Tuesday May 28 said all political parties represented in parliament are free to make proposals, but the government would have to make a final decision.
-
-President Ranil Wickremesinghe currently stands as an independent candidate, according to Nanayakkara, though he has yet to formally declare his candidacy.
-
-“The president is an independent person. Yes, the UNP is his party. The UNP can make such a proposal. When a party makes such a proposal, it can be considered. When an early parliamentary election was proposed, we considered it and decided whether to hold that or the presidential election,” said Nanayakkara.
-
-...
-
-[Data](articles/554f6afa.json)
-
-[Extended Data](ext_articles/554f6afa.ext.json)
-
----
-
-### Sri Lanka Samurdhi banks, societies to be subjected to government audit
-
-*2024-05-28 16:06:00* · [`economynextcom`](https://economynext.com/sri-lanka-samurdhi-banks-societies-to-be-subjected-to-government-audit-165088/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Samurdhi community-based banks and Samurdhi community-based banking societies will be brought under government audit, cabinet spokesman minister Bandula Gunawardena said.
-
-“There are 1,092 Samurdhi community-based banks and 335 Samurdhi community-based banking societies functioning across the country to promote microfinance activities,” Gunawardena told reporters Tuesday announcing Cabinet decisions.
-
-These banks and societies are audited annually by the Internal Audit Division of the Samurdhi Development Department as per the provisions of the Samurdhi Act, Gunawardena said.
-
-They are not formally recognised as banks as they do not fall under the purview of the Central Bank.
-
-“The Samurdhi Act does not include the provision that they should be audited by the National Audit Office. Auditing these banks and societies by the National Audit Office will help maintain transparency in their operations and increase public confidence and acceptance.”
-
-...
-
-[Data](articles/930df8d5.json)
-
-[Extended Data](ext_articles/930df8d5.ext.json)
-
----
-
-### Jaime Ravi starrer 'Love Time'
-
-*2024-05-28 16:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/184703) · `ta`
-
-"Love Time," starring Jayam Ravi, directed by Krithika Udayanidhi, features a star-studded cast including Nithya Menon, Yogi Babu, and more. Music by A.R. Rahman and produced by Red Giant Movies, the film's shooting is complete, with an upcoming teaser release."
-
-🟩
-
-The film crew has released a special photo of the film 'Kadika Time', which is ready to star in the Tamil film industry's leading star actor, Jayam Ravi.
-
-Directed by director Krithika Udayanidhi, the film 'Love': Jayam Ravi, Nithya Menon, Yogi Babu, Lal, Vinay, Lakshmi Ramakrishnan, Mano, DJ Banu, John Kokan, Vinodini and many others.. The film has been recorded by Cavemick Arya. R. Rahman has composed the music.  The film is being produced by Red Giant Movies.
-
-The film's first look was released. The film crew has been excited that the shooting of the film has been completed and the teaser of the film will be released soon.
-
-◼️
-
-[Data](articles/0d20ec21.json)
-
-[Extended Data](ext_articles/0d20ec21.ext.json)
-
----
-
-### Sandaruwan dies in Kuwait
-
-*2024-05-28 16:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197117) · `si`
-
-Sandaruwan Bandara, a 27-year-old single man from Sri Lanka, died in Kuwait where he worked as a driver. His family is seeking information on his death after learning he was involved in an incident that resulted in his injury and the death of his employer's son. Sandaruwan's sister mentioned finding a premonitory letter he wrote six months prior, hinting at a potential threat to his life. Authorities are investigating the circumstances of his death, with suspicions pointing towards suicide.
-
-🟩
-
-His family urges the authorities to reveal the death of the 20-year-old youth who died while he was gone to a job in Kuwait.
-
-27 year old W.. G. Tanunaka Sandaruwan Bandara is a unmarried person and he had gone to work as a driver in Kuwait kingdom one and a half ago.
-
-Shashi Malzani, a sister of the resignation, said that the owner of his brother was killed and his brother was injured on the 20th.
-
-Shashi Malzani further stated that the mother of Sandaruwan's mother had left the house in another area of Kuwait today (28).
-
-He also said that he had been reported from the house to the death of Sandaruwan's death and that he had been reported back from the house.
-
-However, it is reported that necessary steps are being taken to bring the dead youth to Sri Lanka.
-
-He also found a letter from a letter written about six months before the youth's bag, and said that the letter was written to the mother that he would lose his life.
-
-Sandaruwan Bandara's relative said he was committed suicide,
-
-...
-
-[Data](articles/c05921f4.json)
-
-[Extended Data](ext_articles/c05921f4.ext.json)
-
----
-
-### National folk force goes to Supreme Court
-
-*2024-05-28 16:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197116) · `si`
-
-The National Folk Force challenges the government's approval process for political alliances, filing a Supreme Court petition against the Attorney General and Cabinet members. The petition, led by former councilor Asitha Niroshan, aims to halt development projects in rural areas, alleging political bias. It seeks to prevent these projects from being allocated to specific candidates before the elections, ensuring fairness in the upcoming presidential and local government polls.
-
-🟩
-
-The party's political parties have not been approved by the government's political parties and to implement the actual partnership of the government and the Presidential Secretary and the Presidential Secretary and the Presidential Secretary and the Presidential Secretary and the Presidential Secretary have filed a fundamental rights petition in the Supreme Court.
-
-Former Kaduwela Municipal Councilor Asitha Niroshan presented the petition by former Kaduwela Municipal Councilor of the National Power.
-
-As the respondents, the Attorney General and the Cabinet Members of the President and the Secretary to the Presidential Secretary have been nominated by the Secretary to the Ministry of Finance.
-
-The petitioner has been issued by the Secretary to the Ministry of Finance, which proposes to implement development projects in rural areas.Stated that there is proposed.
-
-The petition is announced that the two projects should be completed on July 31 this year and the petition is decided to allocate Rs.
-
-...
-
-[Data](articles/ad9afa67.json)
-
-[Extended Data](ext_articles/ad9afa67.ext.json)
-
----
-
-### Upgrading of Northern railway line to be completed by August
-
-*2024-05-28 16:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/99491/upgrading-of-northern-railway-line-to-be-completed-by-august) · `en`
-
-Minister of Highways, Transport, and Mass Media Dr. Bandula Gunawardena says that it is unlikely that the reconstruction work on the Northern railway track will be completed before the upcoming Poson Poya.
-
-In response to a question raised by a journalist during a press conference held today (28), the minister explained that the development of the Northern railway line could be completed by August this year.
-
-Meanwhile, he further stated that a special bus service will be implemented for the ‘Poson Poya’ holidays.
-
-He said that the bus service will be implemented on the ‘Poson Poya’ day and the day before.
-
-Minister Gunawardena also stated that an announcement will be made in relation to the schedule of the special bus service and special arrangements have also been made with the Sri Lanka Transport Board (SLTB) and the private sector bus operators in this regard.
-
-◼️
-
-[Data](articles/86fd6668.json)
-
-[Extended Data](ext_articles/86fd6668.ext.json)
 
 ---

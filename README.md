@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-28 12:33:59**
+As of **2024-05-28 12:51:48**
 
 ## Newspaper Stats
 
-*Scraped **26,760** Articles*
+*Scraped **26,763** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,37 +14,81 @@ bbccomsinhala | 266
 newsfirstlk | 363
 islandlk | 1,453
 economynextcom | 1,530
-dailyftlk | 1,567
+dailyftlk | 1,568
 adalk | 2,276
 adaderanalk | 3,062
 tamilmirrorlk | 3,134
 virakesarilk | 4,094
-dailymirrorlk | 4,221
-adaderanasinhalalk | 4,292
+dailymirrorlk | 4,222
+adaderanasinhalalk | 4,293
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,757 (100.0%) of 26,760 articles have been extended.
+26,760 (100.0%) of 26,763 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-28 (Tuesday)
 
-### වතු ගැන ජනපති ගෙනා විශේෂ යෝජනාවට අනුමැතිය
+### වෙළෙඳපොළ පොලි අඩුකළ යුතුයි - ශ්‍රී ලංකා මහ බැංකුව
+
+*2024-05-28 12:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197106) · `si`
+
+වෙළෙඳපොළ පොලි අනුපාතික අඩුකිරීම සඳහා තවදුරටත් අවකාශ පවතින බව ශ්‍රී ලංකා මහ බැංකුව පවසයි.
+
+එම අඩුකිරීම අනිවාර්යෙන්ම ඉතා ඉක්මණින් වෙළෙඳපොළ පාරිභෝගිකයින්ට මූල්‍ය ආයතන විසින් ලබා දෙතැයි අපේක්ෂා කරන බව ශ්‍රී ලංකා මහ බැංකු බලධාරීන් පැවසීය.
+
+මේ අතර අද (28) පැවති මාධ්‍ය හමුවක් අමතමින් ශ්‍රී ලංකා මහ බැංකු අධිපති ආචාර්ය නන්දලාල් වීරසිංහ මහතා පැවසුවේ මූල්‍ය ආයතන එම අගයන් අඩුකර තිබුණ ද නමුත් එම අගයන් ශ්‍රී ලංකා මහ බැංකුවේ පොලි අනුපාතික අඩුකිරීම හා සමාන ලෙස අඩුකර නොමැති බවයි.
+
+"අලුතෙන් නිකුත්කරන ණය සඳහා පොලිය අඩුවිය යුතුයි. මේ වනවිට නිකුත්කර ඇති ණය සඳහා සිදුකළ යුතු වෙනස හිමින් සිදු වෙන්නේ. ඒ සම්බන්ධයෙන් අපි විමසිල්ලෙන් ඉන්නේ. එසේම අලුත් ණය නිකුත් කිරීම් ද වැඩි පොලියකට වෙන අවස්ථා දකිනවා. නමුත් එය සිදු නොවිය යුත්තක්. එම වෙනස ඉක්මණින් සිදුවෙතැයි අපි අපේක්ෂා කරනවා..."
+
+◼️
+
+[Data](articles/5ad2b017.json)
+
+---
+
+### Special proposal to be brought about estates
 
 *2024-05-28 12:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197105) · `si`
 
-ශ්‍රී ලංකා රාජ්‍ය වැවිලි සංස්ථාව, ජනතා වතු සංවර්ධන මණ්ඩලය සහ සීමාසහිත ඇල්කඩුව වැවිලි සමාගම යන ආයතනවලට අදාළ හිඟ ව්‍යවස්ථාපිත දීමනා ගෙවීම පිණිස අවශ්‍ය අරමුදල් මහා භාණ්ඩාගාරය වෙතින් සලසා දීමට ජනාධිපතිවරයා විසින් සිදුකරන ලද යෝජනාවකට කැබිනට් අනුමැතිය හිමිව තිබේ.
+The President approves a plan to pay statutory allowances from three plantation companies, addressing over 2,000 court cases due to unpaid deficits. The proposal, aimed at complying with the Employees' Provident Fund Act No. 15 of 1958, was submitted by the General Treasury due to insufficient earnings from these institutions.
 
-එම හිඟ ව්‍යවස්ථාපිත දීමනා නිරවුල් කිරීමෙන් පසුව 1958 අංක 15 දරන සේවක අර්ථසාධක අරමුදලට අනුව ආයතනයන් විසින් ගෙවිය යුතු අධිභාර මුදල්වලින් අඩුකළ හැකි උපරිම ප්‍රමාණය අඩුකිරීමට කම්කරු කොමසාරිස් ජනරාල්වරයාට උපදෙස්දීමටත් ජනාධිපතිවරයා සිය යෝජනාව මගින් කරුණු ඉදිරිපත් කර ඇත.
+🟩
 
-ශ්‍රී ලංකා රාජ්‍ය වැවිලි සංස්ථාව, ජනතා වතු සංවර්ධන මණ්ඩලය සහ සීමාසහිත ඇල්කඩුව වැවිලි සමාගම යන ආයතනවල හිඟ ව්‍යවස්ථාපිත දීමනා නිසි පරිදි නොපියවීම හේතුවෙන් විවිධ පළාත්වල අධිකරණයන්හි නඩු 2,000කට අධික ප්‍රමාණයක් විභාග වෙමින් පවතී.
+The President has approved a proposal to facilitate the payment of statutory allowance from the Government Plantation Corporation, Janatha Estate Development Board and Limited Author Plantation Company.
+
+The President has made his proposal to advise the Commissioner General of Labor, according to the Employees' Provident Fund No. 15 of 1958 after the clearing of these deficit allowances.
+
+More than 2,000 cases are pending in the courts of various provinces due to non-deficit deficit offers due to the Government Plantation Corporation, Janatha Estate Development Board and Limited.
+
+The proposal has been submitted by the General Treasury as the General Treasury has been provided by the Treasury as a fee required by the General Treasury as the earnings of the institutions are not sufficient for the payment of the said arrears.
 
 ...
 
 [Data](articles/8f207331.json)
+
+[Extended Data](ext_articles/8f207331.ext.json)
+
+---
+
+### Tense situation emerges at Nelum Mawatha when Prasanna Ranatunga passes area
+
+*2024-05-28 12:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Tense-situation-emerges-at-Nelum-Mawatha-when-Prasanna-Ranatunga-passes-area/108-283518) · `en`
+
+Colombo, May 28 (Daily Mirror) - A tense situation arose at the Nelum Mawatha premises near Parliament a short while ago when Minister Prasanna Ranatunga attempted to pass the area.
+
+Several civil organizations have come together in a protest march from near the Parliament to the Nelum Mawatha premises of the Sri Lanka Podujana Peramuna (SLPP).
+
+During the protest march, a heated argument arose between the police and the protesters when the protesters were obstructed by the police near the entrance to Nelum Mawatha.
+
+When Minister Ranatunga tried to pass along the road, the protesters on both sides started hooting at him.
+
+◼️
+
+[Data](articles/564899a3.json)
 
 ---
 
@@ -65,6 +109,8 @@ A thorough inspection was conducted, the officer said, adding, "No suspicious it
 ...
 
 [Data](articles/860870a6.json)
+
+[Extended Data](ext_articles/860870a6.ext.json)
 
 ---
 
@@ -191,6 +237,8 @@ The post-mortem examination of the deceased suspect is to be conducted today (28
 ◼️
 
 [Data](articles/f1415a50.json)
+
+[Extended Data](ext_articles/f1415a50.ext.json)
 
 ---
 
@@ -2154,6 +2202,20 @@ The 08 suspects in question had been arrested based on information uncovered fol
 
 ### Who guards the guardians?
 
+*2024-05-27 22:46:42* · [`dailyftlk`](https://www.ft.lk/columns/Who-guards-the-guardians/4-762224) · `en`
+
+Did the Constitutional Council, President and the CIABOC Commissioners follow due process in reappointing its DG?
+
+The gravity and importance of transparency and effectiveness of CIABOC for the very existence of the country cannot be lost on the Government and its officers; nor can the Opposition parties, big or small, especially those fielding “Presidential” candidates claim ignorance of this situation. Remarkably, none of the political parties or even the public officers who run to the Supreme Court at the slightest hint of an appointment against their expectations, have even raised a query on this crucial appointment made without any transparency. One can only wonder then, if they were all in collusion
+
+...
+
+[Data](articles/1bb627a8.json)
+
+---
+
+### Who guards the guardians?
+
 *2024-05-27 22:46:42* · [`dailyftlk`](https://www.ft.lk/opinion/Who-guards-the-guardians/14-762224) · `en`
 
 Did the Constitutional Council, President and the CIABOC Commissioners follow due process in reappointing its DG?
@@ -2165,67 +2227,5 @@ The gravity and importance of transparency and effectiveness of CIABOC for the v
 [Data](articles/451bbe9a.json)
 
 [Extended Data](ext_articles/451bbe9a.ext.json)
-
----
-
-### Application deadline extended for President’s Fund 2024/2025 ICT Scholarship
-
-*2024-05-27 22:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/99477/application-deadline-extended-for-presidents-fund-20242025-ict-scholarship) · `en`
-
-The deadline for submitting applications for the 2024/2025 scholarship program, jointly offered by the Sri Lanka Telecommunication Regulatory Commission (TRCSL) and the President’s Fund for students studying Information and Communication Technology at the G.C.E Advanced Level has been extended until June 07, 2024.
-
-As the awarding of these scholarships needs to be done promptly, students who have met the qualifications should properly complete their applications, the PMD reported.
-
-These applications must be recommended by the Grama Seva Officer, Divisional Secretary, class teacher, school principal, and zonal director.
-
-The completed applications should then be sent by registered post only to the Secretary, President’s Fund, No. 35, 3rd Floor, Lakehouse Building, DR Wijewardena Mawatha, Colombo 10, before the specified date.
-
-...
-
-[Data](articles/9713ad0c.json)
-
-[Extended Data](ext_articles/9713ad0c.ext.json)
-
----
-
-### Emergency notice of people
-
-*2024-05-27 22:19:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மக்களுக்கு-அவசர-அறிவிப்பு/175-337996) · `ta`
-
-Minor flooding reported in Kuda Ganga Millakanda; water level at 6.53m. Exceeding 8m could lead to major flooding.
-
-🟩
-
-The Irrigation Department said that a minor flooding has been reached in the Kuda Ganga Ganga Millakanda area, the branch of the Kalu Ganga.
-
-The Department of Kuda Ganga has risen to 6.53 meters at around 6 pm today, the department has pointed out.
-
-If it exceeds 8 meters, the Irrigation Department states that it is a massive flooding level. Remble
-
-◼️
-
-[Data](articles/5224af50.json)
-
-[Extended Data](ext_articles/5224af50.ext.json)
-
----
-
-### Indian High Commissioner met former President Mahinda Rajapaksa
-
-*2024-05-27 22:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/184648) · `ta`
-
-Indian High Commissioner Santosh Jha met former Sri Lankan President Mahinda Rajapaksa at his residence in Colombo.
-
-🟩
-
-Indian High Commissioner Santosh Jha has met with former President Mahinda Rajapaksa.
-
-The meeting took place at the official residence of Mahinda Rajapaksa in Wijerama Mawatha.
-
-◼️
-
-[Data](articles/771a46b9.json)
-
-[Extended Data](ext_articles/771a46b9.ext.json)
 
 ---

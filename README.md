@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-28 20:52:43**
+As of **2024-05-28 21:03:54**
 
 ## Newspaper Stats
 
-*Scraped **26,894** Articles*
+*Scraped **26,895** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,46 +19,82 @@ adalk | 2,292
 adaderanalk | 3,073
 tamilmirrorlk | 3,151
 virakesarilk | 4,127
-dailymirrorlk | 4,239
+dailymirrorlk | 4,240
 adaderanasinhalalk | 4,316
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,885 (100.0%) of 26,894 articles have been extended.
+26,894 (100.0%) of 26,895 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-28 (Tuesday)
 
-### சிவில் அமைப்புக்களின் செயற்பாட்டாளர்கள் பணம் சம்பாதிக்கவே ஆர்ப்பாட்டத்தில் ஈடுபடுகின்றனர் : பிரசன்ன ரணதுங்க
+### Pope Francis apologizes over use of gay slur
+
+*2024-05-28 20:37:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Pope-Francis-apologizes-over-use-of-gay-slur/108-283540) · `en`
+
+May 28, (CNN) - Pope Francis has apologized for using an anti-gay slur during a meeting with bishops.
+
+The 87-year-old pontiff reportedly made the homophobic remark in a closed-door meeting last week as he told Italian bishops that gay men shouldn’t be allowed to train for the priesthood.
+
+“The Pope never intended to offend or express himself in homophobic terms, and he extends his apologies to those who felt offended by the use of a term, as reported by others,” the Vatican said in a Tuesday statement.
+
+“As he (Pope Francis) has said on several occasions, ‘in the Church there is room for everyone, everyone! No one is useless, no one is superfluous, there is room for everyone. Just as we are, everyone.’”
+
+The Pope’s comments came to light on Monday when two Italian newspapers - the Corriere della Sera and La Repubblica – reported on the May 20 meeting, citing sources in attendance.
+
+...
+
+[Data](articles/41bfd1a0.json)
+
+---
+
+### Activists of civil organizations are protesting to make money: Prasanna Ranatunga
 
 *2024-05-28 20:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/184724) · `ta`
 
-ஆர்ப்பாட்டத்தில் ஈடுபட்டுள்ள சிவில் அமைப்புக்களின் செயற்பாட்டாளர்கள் சிலர் நாட்டில் அராஜகத்தை ஏற்படுத்த விரும்புவதாகவும் அவர்கள் ஆர்ப்பாட்டம் செய்வது பணம் சம்பாதிப்பதற்குத்தான் என்றும் நகர அபிவிருத்தி மற்றும் வீடமைப்பு அமைச்சர் பிரசன்ன ரணதுங்க வலியுறுத்தினார்.
+Civil organization activists protested against the country's degradation bill, accused by Minister Prasanna Ranatunga of seeking personal gain and aiming to create chaos. Demonstrators, including members of 'Makin Radada', carried banners opposing the law. Despite a police warning, the minister proceeded through the demonstration, engaging with journalists but refusing to address specific concerns directly. He labeled the protesters as a minority attempting to undermine national stability for financial gain, emphasizing the government's support for the majority's views.
 
-“நாட்டை சீரழிக்கும் சட்டங்களை தோற்கடிப்போம்” என்ற தொனிப்பொருளில்  ஸ்ரீலங்கா பொதுஜன பொரமுனவின் அலுவலகத்திற்கு முன்பாக சிவில் அமைப்புக்களின் பிரதிநிதிகள் சிலர் ஏற்பாடு செய்திருந்த ஆர்ப்பாட்டத்தில் கலந்து கொண்ட ஊடகவியலாளர்கள் எழுப்பிய கேள்விகளுக்கு பதிலளிக்கும் போதே அமைச்சர் மேற்கண்டவாறு தெரிவித்தார்.
+🟩
 
-நாட்டை சீரழிக்கும் சட்டமூலத்திற்கு ஸ்ரீலங்கா பொதுஜன பெரமுனவின் பாராளுமன்ற உறுப்பினர்கள் எதிர்ப்பு தெரிவிக்க வேண்டும் என தெரிவித்து 28 ஆம் திகதி செவ்வாய்க்கிழமை காலை ஆர்ப்பாட்டம் ஏற்பாடு செய்யப்பட்டிருந்தது.
+Minister of Urban Development and Housing Prasanna Ranatunga urged that some of the activists of the civil organizations involved in the demonstration wanted to establish anarchy in the country and that they were to make money.
+
+Responding to questions raised by journalists who participated in the demonstration organized by some of the representatives of the civil organizations in front of the Sri Lanka PA office on the theme of “Defeating the Laws of the country”.
+
+The demonstration was organized on Tuesday morning, demanding that the MPs of the Sri Lanka PA's Peramuna be opposed to the country's degradation Bill.
+
+Members of the 'Makin Radada' organization, including Sanjay Mahawatta, Kamantha Dushara and Ajanta Perera, are the members of the civil organizations, carrying out the protest banners that 'defeat the laws of the country'.
+
+Prasanna Ranatunga, the chief organizer of the ruling party and the Minister of Urban Development and Housing, was also in office.
 
 ...
 
 [Data](articles/5780a3e1.json)
 
+[Extended Data](ext_articles/5780a3e1.ext.json)
+
 ---
 
-### කාසියේ වාසිය ශ්‍රී ලංකාවට
+### Sri Lanka to benefit the coin
 
 *2024-05-28 20:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197130) · `si`
 
-විස්සයි 20 ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ ශ්‍රී ලංකා කණ්ඩායම සහභාගි වන පළමු පුහුණු තරගය නෙදර්ලන්තයට එරෙහිව අමෙරිකාවේ ෆ්ලෝරිඩා හිදී අද (28) පැවැත්වෙයි.
+Sri Lanka, participating in its inaugural US World Cup match against the Netherlands in Florida, chose to bat first, leveraging its coin toss win.
 
-එහි කාසියේ වාසිය දිනා ගැනීමට ශ්‍රී ලංකාව සමත්වූ අතර ශ්‍රී ලංකාව පළමුවෙන් පන්දු යැවීමට තීරණය කළේය.
+🟩
+
+Sri Lanka's first training competition will be held in the US World Cup today (28), US Florida against the Netherlands.
+
+Sri Lanka won the advantage of its coin and Sri Lanka decided to bowl first.
 
 ◼️
 
 [Data](articles/0958e42f.json)
+
+[Extended Data](ext_articles/0958e42f.ext.json)
 
 ---
 
@@ -77,6 +113,8 @@ Lanza made this statement in the wake of UNP General Secretary Palitha Range Ban
 ◼️
 
 [Data](articles/5cc915bd.json)
+
+[Extended Data](ext_articles/5cc915bd.ext.json)
 
 ---
 
@@ -100,19 +138,29 @@ Accordingly, the Disaster Management Center has taken steps to compensate for th
 
 ---
 
-### கொழும்பு மாநகர எல்லை பிரதேசத்தில் இருக்கும் ஆபத்தான மரங்களை அகற்ற தீர்மானம்
+### Resolution to remove dangerous trees in Colombo Municipal border area
 
 *2024-05-28 20:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/184723) · `ta`
 
-கொழும்பு மாநகரசபை அதிகார எல்லை பிரதேசத்தில் இருக்கும் ஆபத்துமிக்க மரங்களை அந்த இடத்திலிருந்து அகற்றிவிட நடவடிக்கை எடுக்கப்பட்டுள்ளது. ஜனாதிபதி ரணில் விக்ரமசிங்க தலைமையில் 27 ஆம் திகதி திங்கட்கிழமை இது தொடர்பாக இடம்பெற்ற கலந்துரையாடலின்போதே இந்த தீர்மானம் எடுக்கப்பட்டது என அனர்த்த முகாமைத்துவ இராஜாங்க அமைச்சர் பிரமித்த பண்டார தென்னகோன் தெரிவித்தார்.
+Colombo plans to remove dangerous trees near its municipal border under a program launched soon. This decision follows discussions led by President Ranil Wickremesinghe, aiming to enhance safety. The project involves the Army and Civil Defense Force, supervised by the Colombo Municipal Council. Additionally, efforts will be made to plant new trees in cleared areas and conduct scientific research on tree stability after 19 fell in Vikramadevi Park.
 
-அனர்த்த முகாமைத்துவ இராஜாங்க அமைச்சில் 27 ஆம் திகதி திங்கட்கிழமை மாலை இடம்பெற்ற ஊடக சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கையிலேயே இவ்வாறு தெரிவித்தார்.
+🟩
 
-கொழும்பு மாநகர சபையின் அதிகார எல்லைப்பிரதேசத்தில் அமைந்திருக்கும் ஆபத்தான மரங்களை இனம் கண்டு அங்கிருந்து அகற்றிவிட விசேட வேலைத்திட்டம் ஆரம்பிக்க இருக்கிறோம். ஜனாதிபதி ரணில் விக்ரமசிங்க தலைமையில் இடம்பெற்ற கலந்துரையாடலின் போதே இது தொடர்பான தீர்மானம் மேற்கொள்ளப்பட்டது.
+Steps have been taken to remove the dangerous trees in the Colombo Municipal Council border area.. Disaster Management Minister of State for Disaster Management Bandara Tennakoon said that the decision was taken during a discussion held on Monday, the 27th, headed by President Ranil Wickremesinghe.
+
+He was speaking at a media briefing held at the Ministry of Disaster Management on Monday evening.
+
+We are about to launch a special program to remove the dangerous trees located on the border area of the Colombo Municipal Council.. The decision was made during a discussion chaired by President Ranil Wickremesinghe.
+
+Under the supervision of the Colombo Municipal Council, the Army and Civil Defense Force were discussed to engage in this program.. We expect to launch this program in a few more days.
+
+Accordingly, it was decided to further protect the trees that could increase the safety of the tree, cut off the branches to completely eliminate all the dangerous trees that are in danger.
 
 ...
 
 [Data](articles/cf15c98e.json)
+
+[Extended Data](ext_articles/cf15c98e.ext.json)
 
 ---
 
@@ -180,45 +228,61 @@ Investigators said that it was worth over Rs.
 
 ---
 
-### திருநெல்வேலியில் உணவகம் ஒன்றின் சோற்று பொதியில் மட்டைத்தேள் - உணவகம் சீல் வைப்பு
+### Pattayal in a restaurant in Tirunelveli - Restaurant Sealing
 
 *2024-05-28 19:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/184721) · `ta`
 
-கடந்த வெள்ளிக்கிழமை திருநெல்வேலி பகுதியில் உள்ள  உணவகத்தில் மதிய உணவு வாங்கிய ஒருவரின் சோற்று பொதியில் மட்டைத்தேள் காணப்பட்டதாக பொது சுகாதார பரிசோதகர் பா. சஞ்சீவனிற்கு முறைப்பாடு ஒன்று கிடைத்தது.
+In Tirunelveli, a restaurant was sealed after a public health inspector found in a lunch packet. Following a complaint, the inspector conducted an unscheduled inspection, leading to a fine of 45,000/= for the owner and closure of the restaurant until health standards are met.
 
-இதனையடுத்து சனிக்கிழமை குறித்த உணவகம், திருநெல்வேலி பொது சுகாதார பரிசோதகர் பா. சஞ்சீவனால் திடீர் பரிசோதனைக்கு உட்படுத்தப்பட்டது.
+🟩
 
-இதன்போது பொது சுகாதார பரிசோதகரால் முன்னர் வழங்கப்பட்ட அறிவுறுத்தல்கள் எவையும்  பின்பற்றாமல் சுகாதார சீர் கேட்டுடன் உணவகம் இயங்கிவருவது அவதானிக்கப்பட்டது.
+Public Health Inspector Pa, who was found in a packet of lunch at a restaurant in Tirunelveli last Friday.. Sanjeevan got a complaint.
 
-இதனை தொடர்ந்து நேற்றையதினம் திங்கட்கிழமை (27) கடை உரிமையாளரிற்கு எதிராக மேலதிக நீதவான் நீதிமன்றில் வழக்கு தாக்கல் செய்யப்பட்டது. வழக்கினை இன்றைய தினம் விசாரணைக்கு எடுத்து கொண்ட நீதவான், உரிமையாளரிற்கு 45,000/= தண்டம் அறவிட்டதுடன் கடையினை திருத்த வேலைகள் முடிவடையும் வரை சீல்வைத்து மூடுமாறு பொது சுகாதார பரிசோதகரிற்கு கட்டளை வழங்கினார்.
+Subsequently, the restaurant on Saturday, Tirunelveli Public Health Inspector Pa. Sanjeevan was subjected to sudden examination.
 
-இதனையடுத்து பொது சுகாதார பரிசோதகர் பா. சஞ்சீவனால் குறித்த உணவகம் இன்றைய தினம் சீல் வைத்து மூடப்பட்டது.
+It was observed that the restaurant was operating with a health remedy without following any previous instructions by the Public Health Inspector.
+
+Following this, a case was filed against the shop owner yesterday (27) at the Additional Magistrate's Court.. The Magistrate, who took the case today, ordered the owner to be fined 45,000/= and ordered the Public Health Inspector to close the shop until the work is completed.
+
+Subsequently, the Public Health Inspector Pa Pa. The restaurant on Sanjeevan was sealed today.
 
 ◼️
 
 [Data](articles/d6c9ec2c.json)
 
+[Extended Data](ext_articles/d6c9ec2c.ext.json)
+
 ---
 
-### இங்கிலாந்துக்கு 19 வயதுக்குட்பட்ட இலங்கை கிரிக்கெட்  அணி விஜயம்
+### Sri Lankan cricket team visited England under 19
 
 *2024-05-28 19:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/184720) · `ta`
 
-இங்கிலாந்தின் 19 வயதுக்குட்பட்ட அணிக்கு எதிராக இளையோர் ஒருநாள் மற்றும் டெஸ்ட் கிரிக்கெட் போட்டிகளில் 19 வயதுக்குட்பட்ட இலங்கை அணி விளையாடவுள்ளது.
+The Sri Lankan under-19 cricket team is set to tour England, playing both ODI and Test matches against their English counterparts. The team, selected for this trip, aims to gain valuable experience through this exposure. The tour includes a 50-over practice match before the start of the three-match ODI series at Selport and Glown County Stadium. Following the ODIs, two four-day Test matches are scheduled for July at Wormsley and another location yet to be announced.
 
-அடுத்த மாதம் நடைபெறவுள்ள இந்தத் தொடர்களுக்கான 19 வயதுக்குட்பட்ட இலங்கை அணி இன்னும் சில தினங்களில் தெரிவுசெய்யப்படவுள்ளது.
+🟩
 
-இங்கிலாந்தில் 3 இளையோர் ஒருநாள் கிரிக்கெட் போட்டிகளிலும் நான்கு நாட்களைக் கொண்ட 2 இளையோர் டெஸ்ட் கிரிக்கெட் போட்டிகளிலும் 19 வயதுக்குட்பட்ட இலங்கை அணி விளையாடும்.
+The Sri Lankan team will play under the age of 19 in the ODI and Test cricket against England under the age of 19.
 
-பிரிதொரு நாடொன்றில் வித்தியாசமான சூழ்நிலையில் அந்த நாட்டு அணியை எதிர்த்தாடுவதன் மூலம் இலங்கையின் இளம் வீரர்களுக்கு சிறந்த அனுபவத்தைப் பெற்றுக்கொடுப்பதை நோக்கமாகக் கொண்டே  இந்த கிரிக்கெட் விஜயத்தை  ஸ்ரீலங்கா கிரிக்கெட்  ஏற்பாடு செய்துள்ளது.
+The Sri Lankan team under the age of 19 will be selected for the next month.
 
-ஜூன் மாதம் நடுப்பகுதியில் இங்கிலாந்து செல்லும் 19 வயதுக்குட்பட்ட இலங்கை அணி முதலாவதாக 50 ஓவர் பயிற்சிப் போட்டி ஒன்றில் விளையாடும்.
+Sri Lanka will play under the age of 19 in the England ODIs and the four -day Test cricket matches.
 
-அதனைத் தொடர்ந்து செல்ஸ்போர்ட், க்ளவ்ட் கவுன்டி மைதானத்தில் 19 வயதுக்குட்பட்ட இலங்கை மற்றும் இங்கிலாந்து அணிகளுக்கு இடையிலான 3 போட்டிகள் கொண்ட இளையோர் சர்வதேச ஒருநாள் தொடரின் முதலாவது போட்டி நடைபெறும்.
+Sri Lanka Cricket has arranged the cricket visit to the Sri Lankan young players to bring better experience to Sri Lankan young players by opposing the country in a different situation.
 
-...
+The Sri Lankan team will travel to England in mid -June and play a 50 -over training match.
+
+This is followed by the first match of the three -match international ODI series between Sri Lanka and England under the age of 19 at the Selport and Glown County Stadium.
+
+The second and third matches will be held on July 1st and 3rd at the Howe Senchary County Ground.
+
+The first four -day youth Test match between the two teams will be held in Wormsle from July 8 to 11 and the second match will be held from July 16 to July 16.
+
+◼️
 
 [Data](articles/cb65010d.json)
+
+[Extended Data](ext_articles/cb65010d.ext.json)
 
 ---
 
@@ -274,39 +338,55 @@ In his interrogation, he was part of the robbery jewelry that he was temporarily
 
 ---
 
-### ලංකාවේ පළමු ස්ට්‍රෝබෙරි ගම්මානයේ පැළ සිටුවා අවසන්
+### Seedl in Sri Lanka's first strawberry village
 
 *2024-05-28 18:50:02* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවේ-පළමු-ස්ට්‍රෝබෙරි-ගම්මානයේ-පැළ-සිටුවා-අවසන්/11-409878) · `si`
 
-ශ්‍රී ලංකාවේ පළමු ස්ට්‍රොබෙරි වගා ආදර්ශ ගම්මානයේ ස්ට්‍රොබෙරි පැළ සිටුවීමේ කටයුතු මේ වනවිට අවසන් කොට ඇතැයි කෘෂිකර්ම දෙපාර්තුමේන්තුව පවසයි.
+Sri Lanka's first strawberry village, Seedl, established by the Department of Agriculture, features strawberry cultivation across 42 safe houses involving 50 farmers. This initiative, modeled after four villages in Nuwara Eliya, aims to boost local strawberry production, with imported plants from Australia distributed among the farmers.
 
-නුවරඑළියේ ගම්මාන හතරක් පදනම් කර ගනිමින් මෙම ආදර්ශ ස්ට්‍රොබෙරි ගම්මානය  ස්ථාපිත කිරීමට ගොවිජන සංවර්ධන දෙපාර්තුමේන්තුව පියවර ගෙන තිබේ.
+🟩
 
-රුපියල් මිලියන 20ක වියදමින් ගොවීන් 50කු යොදා ගනිමින් ආරක්ෂිත ගෘහ 42ක් තුළ මෙම ස්ට්‍රොබෙරි වගාව ආරම්භ කොට ඇත.
+The Department of Agriculture says that the planting of strawberry in Sri Lanka has completed the work of planting stroberry.
 
-මෙම ස්ට්‍රොබෙරි වගාව සඳහා ඔස්ට්‍රේලියාවේ සිට මෙරටට ආනයන කරන ලද ස්ට්‍රොබෙරි පැළ ගොවීන් අතර බෙදා දීමට පියවර ගත් බවත්, ඒ අනුව ආරක්ෂිත ගෘහ තුළ පැළ රෝපණ කටයුතු මේ වනවිට සම්පුර්ණයෙන්  අවසන් කර ඇතැයි ගොවිජන සංවර්ධන කොමසාරිස් ජනරාල් ඒ.එම්.එච්.එල්. අබේරත්න මහතා පැවැසීය.
+The Department of Agrarian Development has taken steps to establish this model strewelry based on four villages in Nuwara Eliya.
+
+The strewberry cultivation has been launched in 42 safe house with 50 farmers at a cost of Rs.
+
+Steps have been taken to distribute imported strawberry plants from Australia to this country, and the planting of planting planting in the safe house is fully ended, AMML. Mr. Abeyratne said.
 
 ◼️
 
 [Data](articles/536f7744.json)
 
+[Extended Data](ext_articles/536f7744.ext.json)
+
 ---
 
-### මැලේසියාවේ රැකියා පෙන්වා මුදල් වංචාකළ ඒජන්සි හිමිකරු දැලේ
+### Owner of Malaysia's jobs
 
 *2024-05-28 18:34:22* · [`adalk`](https://www.ada.lk/breaking_news/මැලේසියාවේ-රැකියා-පෙන්වා-මුදල්-වංචාකළ-ඒජන්සි-හිමිකරු-දැලේ/11-409876) · `si`
 
-මැලේසියාවේ රැකියාවක් ලබාදෙන බව පවසා මුදල් ලබාගෙන පොරොන්දු වූ පරිදි රැකියාව ලබානොදුන් විදේශ රැකියා නියෝජිතායතනයක හිමිකරු ශ්‍රි ලංකා විදේශ සේවා නියුක්ති කාර්යාංශයේ විශේෂ විමර්ශන ඒකකයේ නිළධාරීන් විසින් ඊයේ දින (5/27) අත්අඩංගුවට ගන්නා ලදී.
+The owner of a Sri Lanka-based foreign employment agency was arrested for allegedly refusing to pay workers and operating without valid job orders. The agency's license has been suspended, and further arrests are expected. A second suspect was also arrested related to a separate case involving alleged fraud in Australia. The Sri Lanka Bureau of Foreign Employment advises checking its website or calling a specific number to verify job agencies' legitimacy.
 
-මරදාන විදේශ රැකියා ආයතනයක හිමිකරු විසින් මැලේසියාවේ ආපන ශාලාවක රැකියාවක් ලබාදෙන බව පවසා ඉංගිරිය ප්‍රදේශයේ පදිංචි තරුණයෙකුගෙන් රු.575,000.00 ක මුදලක් ලබාගෙන ඇති අතර, අදාළ තරුණයා මැලේසියාව වෙත ගිය පසු පොරොන්දු වූ පරිදි රැකියාව හිමි නොවීම හේතුවෙන් මාස 3ට පසු යළි මෙරටට පැමිණ තිබේ.
+🟩
 
-විදේශ රැකියාව හිමිනොවීම හේතුවෙන් තමන් ලබාදුන් මුදල නැවත ඉල්ලා එම තරුණයා අදාල රැකියා නියෝජිතායතනය වෙත ගියද, එම ආයතනයේ හිමිකරු මුදල් ලබාදීම ප්‍රතික්ෂේප කිරීම හේතුවෙන් ඔහු කාර්යාංශයේ විශේෂ විමර්ශන අංශය වෙත පැමිණ පැමිණිලි කරන ලදී.
+The owner of a foreign employment agency, the owner of the Sri Lanka Bureau of Foreign Employment, was arrested by the Sri Lanka Foreign Employment Bureau yesterday (5/7).
 
-ඒ අනුව අදාළ රැකියා නියෝජිතායතනයේ හිමිකරු, කාර්යාංශය වෙත කැඳවා ප්‍රකාශයක් සටහන් කරගැනීමෙන් අනතුරුව, වලංගු රැකියා ඇණවුමක් නොමැතිව විදේශ රැකියා ලබාදීම සඳහා මුදල් අයකිරීම හා කාර්යාංශ පනත උල්ලංඝණය කිරීම යන චෝදනාව යටතේ අත්අඩංගුවට ගෙන තිබේ.
+Rs.
+
+Although the youth goes back to the relevant employment, he lodged to the Special Investigation Division of the Bureau, as the owner of the company was refusing to pay the money.
+
+Accordingly, the owner of the employer, to the Bureau, to the Bureau, has been arrested by the charge and violating the bureaucraft without a valid job order.
+
+The suspect was produced before the Maligakanda Magistrate's Court today (5/28) and remanded till tomorrow.
+
+The Bureau has already taken steps to suspend the license of the Employment Agency and further investigations are being carried out to arrest another person who supported this fraudulent act.
 
 ...
 
 [Data](articles/5d4a33f4.json)
+
+[Extended Data](ext_articles/5d4a33f4.ext.json)
 
 ---
 
@@ -1058,19 +1138,29 @@ There was a net foreign inflow of 63.9 million. (Colombo/May28/2024)
 
 ---
 
-### வட்டிவீதங்களை மாற்றமின்றிப் பேணுவதற்கு மத்திய வங்கி தீர்மானம்
+### Central Bank Resolution to maintain interest rates
 
 *2024-05-28 16:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/184699) · `ta`
 
-சமகாலத்தில் நாட்டின் பொருளாதாரத்தின் அவதானிக்கப்பட்ட சாதக நிலைமைகளின் அடிப்படையில் வைப்புக்கள் மற்றும் கடன்களுக்கான வட்டிவீதங்களை முறையே 8.5 சதவீதம், 9.5 சதவீதம் ஆகிய முன்னைய மட்டங்களிலேயே பேணுவதற்கு நாணயச்சபை தீர்மானித்திருப்பதாக இலங்கை மத்திய வங்கியின் ஆளுநர் கலாநிதி நந்தலால் வீரசிங்க அறிவித்துள்ளார்.
+The Central Bank of Sri Lanka's Monetary Council, led by Governor Dr. Nandalal Weerasinghe, has decided to keep interest rates steady, weighing the nation's economic factors. Inflation rose slightly from 0.9% in March to 1.5% in April, but food and service prices fell. The council aims to achieve a 5% inflation target soon, despite challenges like tourism impacts and high foreign worker remittances. Interest rates remain unchanged: 8.5% for deposits, 9.5% for lending, and 2% for the standard. Negotiations with private creditors are progressing smoothly, and the IMF's second review of Sri Lanka's financial program is pending approval.
 
-நாணயச்சபையின் இவ்வாண்டுக்கான மூன்றாவது மீளாய்வுக்கூட்டத்தில் மேற்கொள்ளப்பட்ட தீர்மானங்களை அறிவிக்கும் நோக்கிலா ஊடகவியலாளர் சந்திப்பு செவ்வாய்கிழமை (28)கொழும்பிலுள்ள மத்திய வங்கியின் கேட்போர்கூடத்தில் ஏற்பாடு செய்யப்பட்டிருந்தது. அதில் கலந்துகொண்டு கருத்து வெளியிடுகையிலேயே ஆளுநர் நந்தலால் வீரசிங்க மேற்கண்டவாறு தெரிவித்தார்.
+🟩
 
-அதன்படி கொழும்பு நுகர்வோர் விலைச்சுட்டெண் பிரகாரம் கணிப்பிடப்பட்ட முதன்மைப் பணவீக்கமானது கடந்த மார்ச் மாதத்தில் பதிவான 0.9 சதவீதத்துடன் ஒப்பிடுகையில் ஏப்ரலில் 1.5 சதவீதத்தினைப் பதிவுசெய்து, சொற்பளவிலான அதிகரிப்பைக் காண்பித்தது.
+The Governor of the Central Bank of Sri Lanka, Dr. Nandalal Weerasinghe, has announced that the Monetary Council has decided to maintain the interest rate on deposits and loans based on the pros and cons of the country's economy in the contemporary time.
+
+A media briefing was organized at the Central Bank auditorium in Colombo on Tuesday (28). Governor Nandalal Weerasinghe said the above.
+
+Accordingly, the primary inflation estimated by the Colombo Consumer Price Code recorded a small increase of 1.5 per cent in April compared to 0.9 per cent in March.
+
+However, the prices of food and foods, the prices of services and services have fallen on a monthly basis. Meanwhile, a small increase in inflation in inflation last January has been rejected through a downward amendment carried out in electricity, fuel and liquid petroleum gas prices.
+
+In this case, the primary inflation is expected to reach a target of 5 per cent in the coming months due to goods, prices of services and relaxed food prices.
 
 ...
 
 [Data](articles/56616943.json)
+
+[Extended Data](ext_articles/56616943.ext.json)
 
 ---
 
@@ -2285,27 +2375,5 @@ The driver had then abandoned and the suspects had fled the car.
 [Data](articles/20ed5f6e.json)
 
 [Extended Data](ext_articles/20ed5f6e.ext.json)
-
----
-
-### Legal action for two restaurants in Thoppur, Trincomalee
-
-*2024-05-28 13:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/184681) · `ta`
-
-In Thoppur, Trincomalee, health inspectors took legal action against two restaurants after inspections revealed potential food safety risks. The action was prompted by previous warnings and tests suggesting violations.
-
-🟩
-
-Evening shops in Thoppur area of ​​Muttur Health Officer Division in Trincomalee, Trincomalee, were inspected on Monday evening (27).
-
-Muttur Senior Public Health Tests IM Rinus has taken legal action against the food security, which has been advised by a number of food security and field tests, and that it has been taken up for a risk of food safety for 02 evening stations that do not address the shortage of time to correct it.Said.
-
-Muttur Public Health Inspectors were carrying out the raid on the advice of Muttur Health Medical Officer Hilmi Muhaideen.
-
-◼️
-
-[Data](articles/0438b824.json)
-
-[Extended Data](ext_articles/0438b824.ext.json)
 
 ---

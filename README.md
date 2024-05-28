@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-29 04:18:44**
+As of **2024-05-29 04:34:09**
 
 ## Newspaper Stats
 
-*Scraped **26,953** Articles*
+*Scraped **26,954** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,540
 dailyftlk | 1,590
 adalk | 2,294
 adaderanalk | 3,075
-tamilmirrorlk | 3,158
+tamilmirrorlk | 3,159
 virakesarilk | 4,137
 dailymirrorlk | 4,250
 adaderanasinhalalk | 4,319
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,319
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,953 (100.0%) of 26,953 articles have been extended.
+26,953 (100.0%) of 26,954 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -449,6 +449,22 @@ To strengthen  cooperation in trade and investment a delegation from China Coun
 [Data](articles/165e2712.json)
 
 [Extended Data](ext_articles/165e2712.ext.json)
+
+---
+
+### ’இலங்கையராக ஒன்றிணைவோம்’
+
+*2024-05-29 01:38:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையராக-ஒன்றிணைவோம்/175-338059) · `ta`
+
+நாமனைவரும் ஒரு தாய் பிள்ளைகள் போல் நடந்து கொள்வோம். நாம் இனம், மதம் என்று பிரிந்திருந்தாலும், ஒவ்வொரு இனத்தையும் ஒவ்வொரு மதத்தையும், சகலரினதும் கலாச்சாரத்தையும் மதித்து செயல்பட வேண்டும். தனித்துவத்துக்கு மரியாதை செலுத்துவோம். இதற்கு இடமளிப்போம் என்று எதிர்க்கட்சித் தலைவர் ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+
+நாமனைவரும் ஒன்றுபட்டு செயற்பட வேண்டும். சிங்களவர், தமிழர், முஸ்லிம்கள் என்ற பேதமின்றி, நாம் அனைவரும் இலங்கையர் என்ற வேலைத்திட்டத்தின் ஊடாக முன்னோக்கி பயணிக்க வேண்டும். சமூகத்தில் உயர் குடிமகன், தாழ்ந்த குடிமகன் என்ற இரு பிரிவினர்கள் இல்லை என எதிர்க்கட்சித் தலைவர் தெரிவித்தார்.
+
+பிரபஞ்சம் தகவல் தொழிநுட்ப வேலைத்திட்டத்தின் கீழ், 204 ஆவது கட்டமாக 1,177,000 இலட்சம் ரூபாய் பெறுமதியான ஸ்மார்ட் வகுப்பறை உபகரணங்கள், திருகோணமலை, மூதூர்,  இலங்கைத்துறைமுகத்துவாரம் இந்துக் கல்லூரிக்கு வழங்கி வைக்கும் நிகழ்வு மே 27 ஆம் திகதி இடம்பெற்றது. இந்நிகழ்வில் கலந்து கொண்டு உரையாற்றும் போது எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச இவ்வாறு தெரிவித்தார்.
+
+...
+
+[Data](articles/59b4d9a1.json)
 
 ---
 
@@ -2229,21 +2245,5 @@ The motorcyclist has been arrested following a complaint with the police.
 [Data](articles/294711d8.json)
 
 [Extended Data](ext_articles/294711d8.ext.json)
-
----
-
-### Postponing elections not healthy for democracy: Namal
-
-*2024-05-28 16:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Postponing-elections-not-healthy-for-democracy-Namal/108-283527) · `en`
-
-Colombo, May 28 - In the wake of the proposal made by UNP General Secretary Palitha Range Bandara over holding a referendum to extend the term of the President and Parliament, MP Namal Rajapaksa said such a move undermines the fundamental principles.
-
-Taking to 'X', MP Rajapaksa said, "Postponing elections is not healthy for any democracy. Extending the terms of the President and Parliament undermines the fundamental principles of a democratic society. Stability should come through the will of the people, not by delaying their voice."
-
-◼️
-
-[Data](articles/881d8b2e.json)
-
-[Extended Data](ext_articles/881d8b2e.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-28 08:10:07**
+As of **2024-05-28 08:19:03**
 
 ## Newspaper Stats
 
-*Scraped **26,695** Articles*
+*Scraped **26,700** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,31 +16,119 @@ islandlk | 1,453
 economynextcom | 1,525
 dailyftlk | 1,567
 adalk | 2,271
-adaderanalk | 3,054
-tamilmirrorlk | 3,126
+adaderanalk | 3,056
+tamilmirrorlk | 3,127
 virakesarilk | 4,076
 dailymirrorlk | 4,214
-adaderanasinhalalk | 4,278
+adaderanasinhalalk | 4,280
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,688 (100.0%) of 26,695 articles have been extended.
+26,695 (100.0%) of 26,700 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-28 (Tuesday)
 
-### අයහපත් කාලගුණයෙන් එළවළු සහ මාළු මිල ගණන් ඉහළට
+### ඉන්දීය ගුවන් යානයක බෝම්බ බියක්
+
+*2024-05-28 08:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197093) · `si`
+
+දිල්ලි සිට වරණාසි දක්වා පියාසර කිරීමට නියමිතව තිබූ ගුවන් යානයක බෝම්බයක් ඇති බවට ලද තොරතුරක් මත එම ගුවන් ගමන අවලංගු කිරීමට දිල්ලි ගුවන්තොටුපොළ කටයුතු කළේය.
+
+මෙසේ ගුවන් ගමන අවලංගු කර ඇත්තේ, ඉන්දියාවේ විශාලම ගුවන් සේවය වන ඉන්ඩිගෝ ගුවන් සේවය ට අයත් ගුවන් යානයකි.
+
+අද උදෑසන අදාළ සිදුවීම වාර්තා වී ඇති අතර, එම අවස්ථාවේ ගුවන් යානයේ සිටි සියලූම මගීන් ගුවන් යානයේ හදිසි පිටවීමේ දොරටු මඟින් පිටතට ගැනීමට බලධාරීන් කටයුතු කර තිබිණි.
+
+මේ වනවිට අදාළ ගුවන් යානය හුදකලා කර පරීක්ෂණ කටයුතු ආරම්භ කර ඇතැයි ඉන්දීය මාධ්‍ය වාර්තා කරයි.
+
+◼️
+
+[Data](articles/db65fd64.json)
+
+---
+
+### මහ බැංකු පොලී අනුපාත ගැන තීරණයක්
+
+*2024-05-28 08:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197092) · `si`
+
+ශ්‍රී ලංකා මහ බැංකුව සිය ප්‍රතිපත්ති පොලී අනුපාතිකය තවදුරටත් නොවෙනස්ව පවත්වා ගැනීමට තීරණය කර තිබේ.
+
+ශ්‍රී ලංකා මහ බැංකුවේ මුදල් ප්‍රතිපත්ති මණ්ඩලය ඊයේ (27) පැවති රැස්වීමේ දී මෙම තීරණය ගෙන ඇත.
+
+ඒ අනුව මහ බැංකුවේ ප්‍රතිපත්ති පොලී අනුපාතික වන, නිත්‍ය තැන්පතු පහසුකම් අනුපාතිකය (SDFR) සියයට 8.50 සහ නිත්‍ය ණය පහසුකම් අනුපාතිකය (SLFR)සියයට 9.50 ලෙස දැනට පවතින මට්ටමේ පවත්වා ගැනීමට තීරණය කර තිබේ.
+
+◼️
+
+[Data](articles/859d9f87.json)
+
+---
+
+### ISIS சகோதரர்கள் இருவர் கைது
+
+*2024-05-28 08:05:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ISIS-சகோதரர்கள்-இருவர்-கைது/175-337998) · `ta`
+
+ஐ.எஸ்.ஐ.எஸ் பயங்கரவாத அமைப்புடன் தொடர்பு வைத்திருந்தனர் என்றக் குற்றச்சாட்டில் ஒரே குடும்பத்தைச் சேர்ந்த சகோதரர்கள்‌ இருவர் கைது செய்யப்பட்டுள்ளனர்.
+
+கொழும்பில் கைது செய்யப்பட்டவர் வழங்கிய தகவலின் பிரகாரம் சிலாபத்துக்குச் சென்ற விசேட படையினர் இவ்விருவரையும் கைது செய்தனர்.
+
+◼️
+
+[Data](articles/11b681ac.json)
+
+---
+
+### Central Bank of Sri Lanka maintains policy interest rates
+
+*2024-05-28 07:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/99480/central-bank-of-sri-lanka-maintains-policy-interest-rates) · `en`
+
+The Monetary Policy Board of the Central Bank of Sri Lanka (CBSL) has decided to maintain the Standing Deposit Facility Rate (SDFR) and the Standing Lending Facility Rate (SLFR) at their current levels of 8.50 per cent and 9.50 per cent, respectively.
+
+The Board arrived at this decision, at its meeting held on 27 May 2024, after carefully assessing the current and expected macroeconomic developments and possible risks on the domestic and global fronts with a view to maintaining inflation at the targeted level of 5 per cent over the medium term while supporting the economy to reach its potential, the statement said.
+
+...
+
+[Data](articles/c3dae0ec.json)
+
+---
+
+### Heavy showers above 100mm expected in parts of the island
+
+*2024-05-28 07:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/99479/heavy-showers-above-100mm-expected-in-parts-of-the-island) · `en`
+
+The prevailing showery and windy conditions are expected to continue further, due to the active Southwest Monsoon conditions, says the Meteorology Department.
+
+Showers or thundershowers will occur at times in Western, Sabaragamuwa, Central, North-western and Southern provinces.
+
+Heavy showers above 100mm are likely at some places in Western and Sabaragamuwa province and in Nuwara-Eliya district.
+
+Showers or thundershowers will occur at several places in Uva province and in Ampara and Batticaloa districts in the evening or night, it said.
+
+Strong winds of about 50-60 kmph can be expected at times over Western slopes of the central hills and in Northern, North-central, Western, Southern and North-western provinces and in Trincomalee and Monaragala districts.
+
+◼️
+
+[Data](articles/8abd8bb5.json)
+
+---
+
+### Vegetables and fish prices up by inclement weather
 
 *2024-05-28 07:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197091) · `si`
 
-‍පවතින අයහපත් කාලගුණික තත්ත්වයත් සමග වෙළෙඳපොළේ එළවළු මිල යළි ඉහළ ගොස් තිබේ.
+Inclement weather has led to higher vegetable and fish prices due to supply disruptions.
+
+🟩
+
+The market vegetable prices in the market have increased with the inclement weather.
 
 ◼️
 
 [Data](articles/f2e16b17.json)
+
+[Extended Data](ext_articles/f2e16b17.ext.json)
 
 ---
 
@@ -63,6 +151,8 @@ However, the situation took a dramatic turn when she and her husband returned to
 ...
 
 [Data](articles/7bc1d693.json)
+
+[Extended Data](ext_articles/7bc1d693.ext.json)
 
 ---
 
@@ -160,6 +250,8 @@ Mr. Wijewardene said Elon is also interested in renewable energy sector as well 
 
 [Data](articles/54c4de89.json)
 
+[Extended Data](ext_articles/54c4de89.ext.json)
+
 ---
 
 ### Health experts warn of spike in seasonal diseases
@@ -179,6 +271,8 @@ Further, Leptospirosis, commonly known as ‘rat fever,’ is another pressing c
 ...
 
 [Data](articles/0ac74f74.json)
+
+[Extended Data](ext_articles/0ac74f74.ext.json)
 
 ---
 
@@ -226,6 +320,8 @@ The AI tool has been created using a total collection of 10 billion proprietary 
 
 [Data](articles/86b6d7c4.json)
 
+[Extended Data](ext_articles/86b6d7c4.ext.json)
+
 ---
 
 ### Industry fears wage hike impact on Ceylon Tea brand
@@ -241,6 +337,8 @@ Speaking at a press conference held in Colombo yesterday, industry veteran and f
 ...
 
 [Data](articles/806e28a9.json)
+
+[Extended Data](ext_articles/806e28a9.ext.json)
 
 ---
 
@@ -567,6 +665,8 @@ Now the CEB shareholding in LTL Holdings (Pvt.) Ltd has decreased to 35 percent
 ◼️
 
 [Data](articles/5e3503b5.json)
+
+[Extended Data](ext_articles/5e3503b5.ext.json)
 
 ---
 
@@ -2079,127 +2179,5 @@ At least half a million people live in homes made of clay, wood, plastic, straw 
 [Data](articles/b5bfa8ef.json)
 
 [Extended Data](ext_articles/b5bfa8ef.ext.json)
-
----
-
-### Sri Lanka EDB, collaborators to pick 10 pioneering brands for capacity building
-
-*2024-05-27 16:22:00* · [`economynextcom`](https://economynext.com/sri-lanka-edb-collaborators-to-pick-10-pioneering-brands-for-capacity-building-164963/) · `en`
-
-ECONOMYNEXT – The Export Development Board (EDB), Institute for Future Creations (TIFC), London College of Fashion (UAL) and Chamber of Ethical Lifestyle Enterprises (CELE), launched the ‘Creative Sri Lanka 2030’ project to promote ethical, sustainable manufacturing and increase export of value-added, niche products.
-
-As part of this initiative, 10 pioneering Sri Lankan brands will be selected to showcase the nation’s dedication to sustainability, ethical practices, and cultural heritage on a global scale, with support from CELE and Good Life X.
-
-“Chosen for their commitment to ethical standards, sustainability, and social responsibility, these ten brands will undergo a comprehensive capacity-building program,” the EDB said.
-
-The program seeks to promote Sri Lankan crafts internationally and make a significant impact on the local economy by fostering a sustainable business model that benefits artisans and their communities.
-
-...
-
-[Data](articles/1a6eece5.json)
-
-[Extended Data](ext_articles/1a6eece5.ext.json)
-
----
-
-### Tornadoes and storms leave 18 dead across central US
-
-*2024-05-27 16:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Tornadoes-and-storms-leave-18-dead-across-central-US/108-283449) · `en`
-
-Washington, May 27 (BBC) - At least 18 people were killed as tornadoes and storms tore across central areas of the US, destroying homes and cutting power to hundreds of thousands.
-
-Seven people were killed in northern Texas, eight in Arkansas, two in Oklahoma and one in Kentucky. Scores more were injured, and almost 500,000 were without electricity across several states on Sunday.
-
-Texas Governor Greg Abbott said more than a third of all counties in his state were now subject to a disaster declaration.
-
-Sheriff Ray Sappington of Cooke County, Texas, said the death toll there included two children aged two and five and three members of the same family.
-
-"It's just a trail of debris left," said the sheriff of Valley View area, which was among those hardest hit by a powerful tornado. "The devastation is pretty severe."
-
-Footage from the county showed a petrol station and rest stop almost completely destroyed, with twisted metal littered over damaged vehicles.
-
-...
-
-[Data](articles/9b2b65f2.json)
-
-[Extended Data](ext_articles/9b2b65f2.ext.json)
-
----
-
-### The shooting of 'Amaran' starring Sivakarthikeyan
-
-*2024-05-27 16:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/184611) · `ta`
-
-"Amaran," starring Sivakarthikeyan, directed by Rajkumar Periyasamy, features Sai Pallavi, Bhuvan Arora, Rahul Bose, and others. The film, produced by Rajkamal Film International and Sony Pictures Films India, honors Major Mukund Varadarajan. Shooting has wrapped, with Sivakarthikeyan treating the crew with a gift.
-
-🟩
-
-The film crew has been happy to announce the shooting of 'Amaran' starring Sivakarthikeyan.
-
-Directed by Rajkumar Periyasamy, directed by director Rajkumar Periyasamy, Sivakarthikeyan, Sai Pallavi, Bhuvan Arora, Rahul Bose, Sri Kumar, Shyam Mohan.
-
-CH H Sai has recorded the film for this movie. V Prakash Kumar has composed the music.
-
-Major Mukund Varadarajan, who died as a soldier in the Indian Army, is being produced by Rajkamal Film International and Sony Pictures Films India.
-
-The film crew has announced a special video that the shooting of the film has been completed.
-
-The film's hero, Sivakarthikeyan, gave a special treat to the film crew and gifted a valuable hand clock.
-
-◼️
-
-[Data](articles/023c8da9.json)
-
-[Extended Data](ext_articles/023c8da9.ext.json)
-
----
-
-### How Kolkata Group celebrated with Shahrook
-
-*2024-05-27 16:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197073) · `si`
-
-Kolkata Group celebrated their 10-year ownership of Shahrukh Khan with a social media frenzy. Despite a recent hospitalization from dehydration, Shahrukh's love for cricket remained strong. He participated as a guest player in a sports event, honoring his fans and the city of Kolkata. The celebration included memorable moments captured by cameras, showcasing Shahrukh's bond with his fans and the city.
-
-🟩
-
-Among the Indian people as well as Superfuk Khan is also a popular character.
-
-The Kolkata group of Kolkata, who owns Shahrook after 10 years, has come to a strong speech in the social media as well as Suarek Khan.
-
-Shreak, Shahrou, is also the unique love for cricket.
-
-Despite being hospitalized due to a dehydration in the recent dehydration, his love for cricket was not forgotten.
-
-At this unique victory, Shahruk Khan was also participating as a player visitor to the sports flight.
-
-Shahru did not forget to honor the fan of the fans loved by him as well as the wicket he loved by him as well as Kolkata.
-
-The camera lenses were given as the photographs of the camels to wander the audience, as he went around the stadium with his family.
-
-◼️
-
-[Data](articles/2b5c2327.json)
-
-[Extended Data](ext_articles/2b5c2327.ext.json)
-
----
-
-### More details revealed on shooting near school in Weligama
-
-*2024-05-27 15:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/99469/more-details-revealed-on-shooting-near-school-in-weligama-) · `en`
-
-More details have been revealed regarding the shooting incident reported near the Batawala Pathegama Model Primary School in Weligama, Matara this morning (27).
-
-The shooting had been carried out by two unidentified individuals who had arrived on a motorcycle while they had reportedly targeted a youth, who is a resident of Midigama police area.
-
-Sudesh Madhusanka, 30, a resident of Pitiduwa Road in Midigama, had brought his two children to the Pathegama Model Primary School in Batawala this morning (27) when the gunmen had opened fire at him before fleeing.
-
-The person who was the target of the shooting is said to be a member of the criminal gang of Nandun Chintaka alias ‘Harak Kata’ and he had been arrested in connection with shooting a person at Turkish Village of Midigama on January 20, 2022 and was out on bail.
-
-...
-
-[Data](articles/8f6e3f3e.json)
-
-[Extended Data](ext_articles/8f6e3f3e.ext.json)
 
 ---

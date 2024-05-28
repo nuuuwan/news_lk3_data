@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-28 06:58:43**
+As of **2024-05-28 07:20:42**
 
 ## Newspaper Stats
 
-*Scraped **26,684** Articles*
+*Scraped **26,685** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,35 +20,59 @@ adaderanalk | 3,054
 tamilmirrorlk | 3,126
 virakesarilk | 4,076
 dailymirrorlk | 4,208
-adaderanasinhalalk | 4,274
+adaderanasinhalalk | 4,275
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,680 (100.0%) of 26,684 articles have been extended.
+26,684 (100.0%) of 26,685 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-28 (Tuesday)
 
-### වැසි සහ සුළං තත්ත්වය තවදුරටත්
+### ළිඳක තිබී මළ සිරුරක් හමුවෙයි
+
+*2024-05-28 06:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197088) · `si`
+
+වෙල්ලාවලි, මණ්ඩූර් ප්‍රදේශයේ වෙල්ලාවලි කළුපාලම ආසන්නයේ ළිඳක තිබී පුද්ගල මළ සිරුරක් සොයාගෙන තිබේ.
+
+ඊයේ (27) උදෑසන කාලයේ වෙල්ලාවලි පොලීසියට ලද තොරුතුරකට අනුව එම සිරුර සොයාගෙන ඇත.
+
+පසුගිය 26 වනදා අසල්වැසි නිවසියන් සමග පැවති අරවුලකට අදාළව සමත මණ්ඩලයට යොමුකළ පැමිණිල්ලකට සහභාගී වීම සඳහා නිවසින් බැහැරව ගොස් නැවත නිවසට පැමිණෙමින් සිටියදී යම් පිරිසක් හෝ පුද්ගලයෙකු විසින් මරණකරුගේ හිසට පහරදී ළිඳට දමා ඇති බව විමර්ශනවලදී අනාවරණය වී ඇත.
+
+මෙම ඝාතනය සම්බන්ධයෙන් සැකකරුවන් අත්අඩංගුවට ගැනීම සඳහා වෙල්ලාවලි පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+
+◼️
+
+[Data](articles/9db66a0f.json)
+
+---
+
+### Showers and wind condition further
 
 *2024-05-28 06:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197086) · `si`
 
-සක්‍රීය නිරිත දිග මෝසම් තත්ත්වය හේතුවෙන් පවතින වැසි සහ සුළං තත්ත්වය තවදුරටත් බලාපොරොත්තු විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Due to the active southwest monsoon, heavy showers exceeding 100mm are expected in the Western and Sabaragamuwa provinces, along with thundershowers in the Uva Province and Ampara and Batticaloa districts. Strong winds may also occur across various regions including the North, North Central, Western, Southern, North Western, and Wayamba districts.
 
-එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ බස්නාහිර, සබරගමුව,මධ්‍යම, වයඹ සහ දකුණු පළාත්වල විටින් විට වැසි ඇතිවිය හැකි බවය.
+🟩
 
-බස්නාහිර සහ සබරගමුව පළාත්වලත්, නුවරඑළිය දිස්ත්‍රික්කයේත් ඇතැම් ස්ථානවල මි.මී. 100ට වැඩි තද වැසි ඇතිවේ.
+The Meteorological Department says that the rain and wind is further expected due to active southwest monsoon.
 
-ඌව පළාතේත් අම්පාර සහ මඩකලපුව දිස්ත්‍රික්කවලත්සවස් කාලයේ හෝ රාත්‍රී කාලයේ තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවේ.
+Showers will occur at times in the Western, Sabaragamuwa, Central, North Western and Southern provinces.
 
-මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවලත් උතුරු, උතුරු මැද, බස්නාහිර, දකුණු සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය සහ මොනරාගල දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. (50-60) ක පමණ තද සුළං ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව විසින් නිකුත්කළ නිවේදනයේ වැඩිදුරටත් සඳහන් වේ.
+In some places in the Western and Sabaragamuwa Province, MM. Heavy showers over 100.
+
+Thundershowers will develop at several places in the Uva Province and Ampara and Batticaloa districts.
+
+At times, in the North, North, North-central, Western, Southern and North Western and Southern and Wayamba Districts. The Meteorology Department further stated that strong winds can occur.
 
 ◼️
 
 [Data](articles/887f6dcc.json)
+
+[Extended Data](ext_articles/887f6dcc.ext.json)
 
 ---
 
@@ -2189,35 +2213,5 @@ The storm weakened after it hit the coast with wind speeds of up to 115 kilomete
 [Data](articles/8674bd78.json)
 
 [Extended Data](ext_articles/8674bd78.ext.json)
-
----
-
-### Kuliyapitiya murder - The story about the 10th suspect
-
-*2024-05-27 15:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197070) · `si`
-
-Kuliyapitiya Magistrate Randika Lakmal Jayalath, arrested for a murder, was remanded again as the case involving a youth's death progressed. Attorney Chandana Yapa, representing one of the suspects, claimed the suspect was advised to hide but was later charged. Ten suspects are under investigation, awaiting autopsy results at Chilaw Base Hospital. Police investigations continue.
-
-🟩
-
-Kuliyapitiya Magistrate Randika Lakmal Jayalath, who was arrested and remanded in connection with the murder of the Kuliyapitiya, has been remanded again today.
-
-The court issued the order when the case was taken back to the murder of a youth in Kuliyapitiya.
-
-When the case was taken up, the police made the progress of their tests further by further report.
-
-Attorney Chandana Yapa, who has said the suspects of the suspect, who has helped several other murder, said the police said that the police had told him to remain hiding in the murder.
-
-Despite this, he asked him to be accused and to amend it.
-
-The ten suspects are already in the investigation and the post mortem at the Chilaw Base Hospital has not yet been completed.
-
-The police said that the police said that the police said that the police said that investigations into the exhibition had not been completed.
-
-◼️
-
-[Data](articles/34c1b55b.json)
-
-[Extended Data](ext_articles/34c1b55b.ext.json)
 
 ---

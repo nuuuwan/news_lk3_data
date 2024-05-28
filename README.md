@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-28 10:52:12**
+As of **2024-05-28 11:03:32**
 
 ## Newspaper Stats
 
-*Scraped **26,732** Articles*
+*Scraped **26,734** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,88 +19,140 @@ adalk | 2,273
 adaderanalk | 3,058
 tamilmirrorlk | 3,130
 virakesarilk | 4,093
-dailymirrorlk | 4,214
-adaderanasinhalalk | 4,288
+dailymirrorlk | 4,215
+adaderanasinhalalk | 4,289
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,728 (100.0%) of 26,732 articles have been extended.
+26,732 (100.0%) of 26,734 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-28 (Tuesday)
 
-### තවත් ඝාතන සැකකරුවෙක් මාට්ටු
+### දිවයින වටා වන මුහුදු ප්‍රදේශ සඳහා රතු නිවේදනයක්
+
+*2024-05-28 10:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197102) · `si`
+
+තද සුළං සහ රළු මුහුද පිළිබඳ රතු නිවේදනයක් කාලගුණවිද්‍යා දෙපාර්තමේන්තුව විසින් නිකුත් කර තිබේ.
+
+අද (28) උදෑසන 10.30ට නිකුත් කර ඇති එම නිවේදනය ඉදිරි පැය 24 දක්වා බලපැවැත්වේ.
+
+ඒ අනුව දිවයින වටා මුහුදු ප්‍රදේශවල සුළඟේ වේගය විටින් විට පැ.කි.මී 60 - 70ත් දක්වා වැඩි වන අතර එම ප්‍රදේශයේ මුහුද ඉතා රළු වන බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+
+මෙම මුහුදු ප්‍රදේශයට නැවත දැනුම්දෙන තුරු යාත්‍රා නොකරන ලෙසත් නාවික හා ධීවර ප්‍රජාවන්ට දැනුම්දී ඇත.
+
+කල්පිටිය සිට කොළඹ, ගාල්ල සහ හම්බන්තොට හරහා පොතුවිල් දක්වා වන වෙරළට ඔබ්බෙන් වෙන මුහුදු ප්‍රදේශවල මුහුදු රළ උස මීටර් 2.5 - 3 දක්වා ඉහළ යා හැකිය.
+
+මේ හේතුවෙන් කල්පිටිය සිට කොළඹ, ගාල්ල හරහා මාතර දක්වා ප්‍රදේශවල මුහුදු රළ ගොඩබිමට පැමිණීමේ හැකියාව පවතී.
+
+◼️
+
+[Data](articles/b555776e.json)
+
+---
+
+### Suspect arrested for killing more
 
 *2024-05-28 10:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197101) · `si`
 
-පසුගිය 08 වනදා අහුංගල්ල, ලෝකන්වත්ත ප්‍රදේශයේදී සිදුකළ වෙඩිතැබීමකට සම්බන්ධ සැකකරුවෙකු අත්අඩංගුවට ගෙන තිබේ.
+A 23-year-old suspect from Bogaswewa, who was a motorcyclist during a shooting incident, was arrested by Vavuniya Police STF in Welu Oya for a crime committed in Bulganwatta, Ahungalla, on the 8th.
 
-එම සැකකරුව පසුගිය දා වැලිඔය පොලිස් වසමේ වෙ‍ෙහරතැන්න, බෝගස්වැව ප්‍රදේශයේදී වව්නියාව පොලිස් විශේෂ කාර්ය බළකා කඳවුරේ නිලධාරින් විසින් අත්අඩංගුවට ගෙන ඇත.
+🟩
 
-අත්අඩංගුවට ගත් සැකකරු වෙහෙරතැන්න බෝගස්වැව ප්‍රදේශයේ පදිංචි 23 හැවිරිදි තරුණයෙකි.
+A shooting suspect in the Bulganwatta area in Ahungalla last 8th has been arrested.
 
-සැකකරු මෙම වෙඩිතැබීමේ සිද්ධියේ යතුරුපැදියේ පැදිකරු ලෙස කටයුතු කර ඇති බවට පොලීසිය පවසයි.
+The suspect has been arrested by the officials of the Vavuniya Police STF in Bogaswewa area in Welu Oya Police Warewatnna.
+
+The suspect is a 23 year old resident of Bogaswewa area in Weherasima.
+
+The suspect has served as the motorcyclist in this shot of shooting incident.
 
 ◼️
 
 [Data](articles/a4284345.json)
 
+[Extended Data](ext_articles/a4284345.ext.json)
+
 ---
 
-### விமானங்களில் ஏற்படும் திகில் அனுபவம் ! அந்தரத்தில் ஊசலாடும்  உயிர்கள்!
+### Horror experience on aircraft!Life in the air!
 
 *2024-05-28 10:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/184664) · `ta`
 
-விமானத்தில் பயணிக்க யாருக்குத்தான் ஆசை இல்லை. ஆனால்  உள்ளூர பயம் ஒன்றும் இல்லாமல் இல்லை, அதாவது பல்லாயிரம் அடிகளுக்கு மேலாக  பல மணி நேரம்  பயணிக்கும் போது, திடீர் என்று விமானத்துக்கு ஏதேனும்  அனர்த்தம் நேர்ந்தால் என்ன நடக்கும்? உயிரை விடுவதை தவிர வேறு தெரிவே  இல்லை.
+Fear of flying is common, but the real terror comes from potential disasters high above. In such dire situations, survival becomes paramount, highlighting the stark reality of life in the sky.
+
+🟩
+
+No one is tempted to travel on the plane. But when there is nothing in fear, that is, when traveling for more than tens of thousands of feet, what happens if there is any disaster for the plane?There is no choice except for life.
 
 ◼️
 
 [Data](articles/64eae8fa.json)
 
+[Extended Data](ext_articles/64eae8fa.ext.json)
+
 ---
 
-### නිලන්ත ජයවර්ධන ට එරෙහි පෙත්සම සලකා බැලීම කල් දැමේ
+### Petition against Nilantha Jayawardena postponed
 
 *2024-05-28 10:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197100) · `si`
 
-පාස්කු ඉරු දින ත්‍රස්ත ප්‍රහාරයක් එල්ලවීමට නියමිත බවට බුද්ධි තොරතුරු ලැබී තිබියදීත් එය වළක්වා ගැනීමට කටයුතු නොකිරීම සම්බන්ධයෙන් රාජ්‍ය බුද්ධි සේවයේ හිටපු ප්‍රධානී නිලන්ත ජයවර්ධන මහතාට එරෙහිව නීතිමය පියවර ගන්නා ලෙස නියෝගයක් නිකුත් කරන්නැයි ඉල්ලා ගොනුකළ පෙත්සම සලකා බැලීම සඳහා ජූලි මස 25 වනදා කැඳවන ලෙස අභියාචනාධිකරණය නියෝග කළේය.
+A petition against Nilantha Jayawardena, seeking legal action over an Easter attack, was postponed. The Court of Appeal, led by Sobhitha Rajakarunawa and Dhammika Ganepola, asked for protests by June 25, rescheduling the consideration to July 25. The petitioners include Father Jude Rohan Silva from the Social and Peace Centers.
 
-මෙම පෙත්සම අද (28) සෝභිත රාජකරුණා සහ ධම්මික ගනේපොල යන මහත්වරුන්ගේ සමන්විත විනිසුරු මඩුල්ලක් ඉදිරියේ කැඳවනු ලැබීය.
+🟩
 
-එම අවස්ථාවේදී වගඋත්තරකාර නිලන්ත ජයවර්ධන මහතා වෙනුවෙන් පෙනී සිටි නීතිඥ මහතා මෙම නඩුකරයට අදාළව විරෝධතා ගොනුකිරීම සඳහා දිනයක් ලබාදෙන ලෙස ඉල්ලා සිටියේය.
+The Court of Appeal was ordered to be summoned to the former Chief of State Integration to be taken to take legal action against the Easter attack on the Passover.
 
-ඒ අනුව අදාළ විරෝධතා ජුනි මස 25 වනදා හෝ ඊට පෙර ගොනුකරන ලෙස අධිකරණය නියෝග කළේය.
+The petition was called before the panel of sobhitha Rajakarunawa and Dhammika Ganepola this day.
 
-ඉන් අනතුරුව පෙත්සම සලකා බැලීම සඳහා ජූලි මස 25 වනදා යළි කැඳවන ලෙස අධිකරණය නියම කළේය.
+Attorney at the time, Mr. Attorney-at-Law at the occasion was requested to give a date to file protests in relation to this case.
 
-සමාජ හා සාමයික කේන්ද්‍රයේ අධ්‍යක්ෂ ජූඩ් රොහාන් සිල්වා පියතුමා ඇතුළු පිරිසක් විසින් මෙම පෙත්සම ඉදිරිපත් කර තිබේ.
+Accordingly, the court ordered to file the protests on or before June 25.
+
+The court sentenced the petition again on July 25 to consider the petition.
+
+The petition has been presented by the Fr. including Jude Rohan Silva, Director of Social and Peace Centers.
 
 ◼️
 
 [Data](articles/36ee0c5e.json)
 
+[Extended Data](ext_articles/36ee0c5e.ext.json)
+
 ---
 
-### பிரிட்டனால் இலங்கைக்கு நாடு கடத்தப்பட்ட தமிழர் உயிரிழப்பு - பிரிட்டனின் உள்துறை அலுவலகம் மீது கடும் குற்றச்சாட்டுகள்
+### Tamil deaths deported to Sri Lanka by Britain
 
 *2024-05-28 10:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/184662) · `ta`
 
-பிரிட்டனின் உள்துறை அமைச்சினால் இலங்கைக்கு தவறுதலாக நாடு கடத்தப்பட்ட தமிழர் இலங்கையில் உயிரிழந்துள்ள நிலையில் அவர் தனது மீண்டும் குடும்பத்துடன் இணைவதற்கு உள்துறை அமைச்சின் திணைக்களங்களின் தாமதமே காரணம் என அவரது குடும்பத்தினர் குற்றம்சாட்;டியுள்ளனர்.
+Sudarshan Heartschandran, deported from Britain to Sri Lanka in 2019 for using fake documents and working illegally, had his case reviewed in 2023. Despite being cleared to reunite with his family, including three young sons, he faced delays due to bureaucratic issues within the British Home Ministry. His eventual return to the UK was marred by depression over separation from his children, highlighting concerns over the ministry's handling of his case.
 
-சுதர்சன் இதயசந்திரன் என்பவர் 2019 டிசம்பர் மாதம் 24ம் திகதிஅவரது திருமணநாள் அன்று பிரிட்டனிலிருந்து இலங்கைக்கு நாடு கடத்தப்பட்டார்.
+🟩
 
-போலியான ஆவணங்களை பயன்படுத்தியதையும் டெஸ்கோவில் பணியாற்றியமையையும் ஏற்றுக்கொண்டதை தொடர்ந்து அவர் நாடு கடத்தப்பட்டார்.
+His family has blamed the delay in the Home Ministry's departments for the delay in joining his family as Tamils have died in Sri Lanka by the British Home Ministry.
 
-செவிப்புல திறன் அற்ற தனது மனைவி சுபத்திரா தனது 9 மற்றும் 8 வயது ஆண் பெண் குழந்தைகளை விட்டு விட்டு அவர் பிரிட்டனிலிருந்து வெளியே வேண்டிய நிலையேற்பட்டது.
+Sudarshan Heartschandran was deported from Britain to Sri Lanka on his wedding day on December 24, 2019.
 
-எனினும் நவம்பர் 2023 ம் ஆண்டு இடம்பெற்ற குடிவரவுதீர்ப்பாயத்தில் நீதிபதி பொனெவெரோ  சுதர்சன் இதயசந்திரனின் மேல்முறையீட்டை ஏற்றுக்கொண்டதுடன் அவருக்கு குடும்பத்துடன் இணைவதற்கான உரிமை உள்ளது என தெரிவித்தார்.
+He was deported after accepting the use of fake documents and working in Tesco.
+
+He left his 9th and 8 -year -old male and 8 -year -old male and 8 -year -old male.
+
+However, in November 2023, Justice Ponveroo Sudarshan accepted the appeal of the heartbeat and said he had the right to join the family.
+
+The British Interior Office did not appeal against the verdict, but he made arrangements for issuing a visa to return to Britain.. These activities lasted for several months.
+
+Officials have launched action to re -issue a visa to Sudarshan's heartfelt as the MTC Solicitorson's Naga Kandaya Kandaya's delays of the Interior Ministry.
+
+In the letter, the authorities were not responsible for the delay.
 
 ...
 
 [Data](articles/7b969e2d.json)
+
+[Extended Data](ext_articles/7b969e2d.ext.json)
 
 ---
 
@@ -161,6 +213,26 @@ The owner of the boat was the owner of the boat, Lahiru Sumrawa De Silva.
 [Data](articles/60d0a390.json)
 
 [Extended Data](ext_articles/60d0a390.ext.json)
+
+---
+
+### CBSL keeps policy interest rates unchanged
+
+*2024-05-28 09:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/CBSL-keeps-policy-interest-rates-unchanged/108-283499) · `en`
+
+The Monetary Policy Board of the Central Bank of Sri Lanka has decided to maintain the Standing Deposit Facility Rate (SDFR) and the Standing Lending Facility Rate (SLFR) at their current levels of 8.50 percent and 9.50 percent, respectively.
+
+The decision was made to maintain inflation at the targeted level of 5 per cent over the medium term while supporting the economay to reach its potential, according to the board.
+
+Accordingly, the Statutory Reserve Ratio stands at 2.00 percent, as per the Monetary Policy decision announced at the review meeting yesterday.
+
+Moreover, the Central asserted that there remains space for market lending interest rates to decline further given the prevailing accommodative monetary policy stance and the continued decline in the cost of funds of financial institutions.
+
+Further reduction in market lending interest rates is imperative for the easing of domestic monetary conditions and domestic economic recovery, according to the bank.
+
+...
+
+[Data](articles/f72947e3.json)
 
 ---
 
@@ -2183,47 +2255,5 @@ Handapingwila Wadu filled over the past few days, the water flows to the Mahawel
 [Data](articles/e768b88e.json)
 
 [Extended Data](ext_articles/e768b88e.ext.json)
-
----
-
-### Decision taken to remove trees posing risks within Colombo city
-
-*2024-05-27 18:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/99474/decision-taken-to-remove-trees-posing-risks-within-colombo-city-) · `en`
-
-State Minister of Defence, Premitha Bandara Tennakoon says that a special programme will be implemented to cut down and remove the trees at risk of collapsing within the jurisdiction of the Colombo Municipal Council (CMC).
-
-Speaking during a press conference today (27), the State Minister also mentioned that Sri Lanka Army and Civil Defence Force personnel are expected to be deployed for the process of removing such high-risk trees.
-
-He further revealed that the relevant proceedings will be conducted under the full supervision of the Colombo Municipal Council and it has been also decided to plant new trees as a replacement for the trees that are being removed.
-
-Meanwhile, so far a total of 07 deaths have been reported due to fallen trees caused by the prevailing adverse weather conditions.
-
-...
-
-[Data](articles/1a46d97e.json)
-
-[Extended Data](ext_articles/1a46d97e.ext.json)
-
----
-
-### We can only pay 1380 rupees as a salary of the government - the plantation employers' federation
-
-*2024-05-27 18:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/184642) · `ta`
-
-The Plantation Employers Federation opposes a government-mandated daily wage increase for plantation workers from 1700 to 1900 rupees, citing financial constraints. They propose a 200-rupee increase in the base salary but offer a total daily wage of only 1380 rupees, which has been rejected by the government and plantation unions. The federation warns against decisions that could harm the industry, potentially leading to legal action and impacting Sri Lanka's export economy.
-
-🟩
-
-If plantation workers cannot afford a daily salary of 1700 rupees, the government cannot order the gardens to be handed over. The Plantation Employers Federation said that if such action is taken, legal action is ready to take legal action.
-
-With an increase of 200 rupees in the base salary, we can only pay 1380 rupees. Although we have submitted the proposal, the government has rejected it. The Employers Federation warned that such stupid decisions are in the future, 'Ceylon D', which we can completely perish.
-
-Representatives of the Employers Federation made this statement at a special media conference organized at the Renuka City Hotel, Colombo yesterday to clarify the salary increase for plantation workers.
-
-...
-
-[Data](articles/a16394e4.json)
-
-[Extended Data](ext_articles/a16394e4.ext.json)
 
 ---

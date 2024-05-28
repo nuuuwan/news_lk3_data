@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-28 16:18:38**
+As of **2024-05-28 16:34:05**
 
 ## Newspaper Stats
 
-*Scraped **26,811** Articles*
+*Scraped **26,817** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,78 @@ adalk | 2,284
 adaderanalk | 3,067
 tamilmirrorlk | 3,145
 virakesarilk | 4,104
-dailymirrorlk | 4,224
-adaderanasinhalalk | 4,301
+dailymirrorlk | 4,228
+adaderanasinhalalk | 4,303
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,809 (100.0%) of 26,811 articles have been extended.
+26,811 (100.0%) of 26,817 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-28 (Tuesday)
+
+### Woman hacked to death near church over nightclub dispute
+
+*2024-05-28 16:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Woman-hacked-to-death-near-church-over-nightclub-dispute/108-283524) · `en`
+
+Colombo, May 28 (Daily Mirror) - A 36-year-old woman was found hacked to death near a church in Liyanagemulla, Seeduwa, believed to be as a result of a dispute stemming from a night club altercation.
+
+Police said the woman, an employee of the Katunayake Free Trade Zone, was found killed early this morning.
+
+Investigations revealed that the victim woman had started working in the Katunayake Free Trade Zone about 6 years ago and later had been staying temporarily in a hostel in Seeduwa with a person who works in a tourist hotel in the same area.
+
+It was reported that she had an argument with the man based on an incident at a nightclub. Police found CCTV footage of the victim and the man walking in front of St. Sebastian's Church between 2:00 am and 3:00 am today.
+
+The Negombo Acting Magistrate visited the scene and conducted an on-site inspection, and her body has been sent to the Negombo Hospital for a post-mortem examination.
+
+◼️
+
+[Data](articles/f07ada66.json)
+
+---
+
+### කුවේට් රාජ්‍යයේ රැකියාවට ගිය සඳරුවන් සැකසහිත ලෙස මරුට
+
+*2024-05-28 16:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197117) · `si`
+
+කුවේට් රාජ්‍යයේ රැකියාවකට ගොස් සිටියදී මියගිය 27 හැවිරිදි තරුණයාගේ මරණයට හේතුව හෙළිකර දෙන්නැයි ඔහුගේ පවුලේ අය බලධාරීන්ගෙන් ඉල්ලා සිටී.
+
+සීගිරියේ ඉලුක්වල ප්‍රදේශයේ පදිංචි 27 හැවිරිදි ඩබ්ලිව්. ජී. තනුජක සඳරුවන් බණ්ඩාර අවිවාහකයෙකු වන අතර ඔහු මීට වසර එකහමාරකට පෙර කුවේට් රාජ්‍යයේ නිවසක රියදුරෙකු ලෙස සේවයට ගොස් තිබුණි.
+
+පසුගිය 20 වනදා තම සහෝදරයා රිය අනතුරකට ලක්වී තුවාල ලබා තිබෙන බව ඔහු සේවය කළ නිවසේ හිමිකරු දුරකථන මාර්ගයෙන් දැන්වූ බව මියගිය සඳරුවන්ගේ සහෝදරියක වන ශෂිනි මල්සානී පැවසුවාය.
+
+සඳරුවන්ගේ මවද කුවේට් රාජ්‍යයේ වෙනත් ප්‍රදේශයක ගෘහ සේවය සඳහා පිටව ගොස් තිබෙන අතර ඇයද අද (28) දින අලුයම ලංකාවට පැමිණ තිබෙන බව ශෂිනි මල්සානි තවදුරටත් සඳහන් කළාය.
+
+සඳරුවන්ගේ මරණය පිළිබඳව දිගින් දිගටම සොයා බැලීමේදී ඔහු ගෙල වැලලාගෙන මියගිය බවට නැවත වරක් එම නිවසෙන්ම තොරතුරු වාර්තා වූ බවද නිවසේ ගබඩා කාමරයක ඔහු සියදිවි හානි කරගෙන සිටින කුඩා වීඩියෝවක් වට්ස්ඇප් මාර්ගයෙන් ඒවා තිබූ බවද පවුලේ අය වැඩිදුරටත් පවසයි.
+
+කෙසේවෙතත් මියගිය තරුණයාගේ දේහය ලංකාවට රැගෙන ඒම සඳහා අවශ්‍ය පියවර ගනිමින් තිබෙන බවත් වාර්තා වෙයි.
+
+...
+
+[Data](articles/c05921f4.json)
+
+---
+
+### ජාතික ජන බලවේගය ශ්‍රේෂ්ඨාධිකරණයට යයි
+
+*2024-05-28 16:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197116) · `si`
+
+ඉදිරි මැතිවරණ සමයේ  ආණ්ඩු පක්ෂයේ දේශපාලන පක්ෂවලට වාසි සහගත වන ආකාරයේ ව්‍යාපෘතීන් ක්‍රියාත්මක කිරීම සඳහා අනුමැතිය නොදෙන ලෙසත් මෙම කරුණට අදාළව මැතිවරණ කොමිෂන් සභාව විසින් නිකුත් කර ඇති ලිපියට අනුකූලව කටයුතු කරන ලෙසත් ජනාධිපති ලේකම් ඇතුළු පිරිසකට නියෝග නිකුත් කරන්නැයි ඉල්ලා ශ්‍රේෂ්ඨාධිකරණය හමුවේ මූලික අයිතිවාසිකම් පෙත්සමක් ගොනුකර තිබේ.
+
+ජාතික ජන බලවේගයේ කඩුවෙල හිටපු නාගරික මන්ත්‍රී අසිත නිරෝෂන් මහතා විසින් පෙත්සම ඉදිරිපත් කළේය.
+
+එහි වගඋත්තරකරුවන් ලෙස නීතිපතිවරයා, අග්‍රාමාත්‍යවරයා ඇතුළු අමාත්‍ය මණ්ඩල සාමාජිකයින්, ජනාධිපති ලේකම්වරයා, මුදල් අමාත්‍යාංශයේ ලේකම්වරයා ඇතුළු පිරිසක් නම්කර තිබේ.
+
+මුදල් අමාත්‍යංශයේ ලේකම්වරයා විසින් 2024 අයවැය යෝජනා යනුවෙන් චක්‍රලේඛයක් නිකුත් කර ඇති අතර ඒ යටතේ ග්‍රාමීය ප්‍රදේශවල සංවර්ධන ව්‍යාපෘති ක්‍රියාත්මක කිරීමට යෝජනා කර ඇතැයි පෙන්වා දෙන පෙත්සම්කරු ඊට අමතරව "කඳුකර දශකය" නමින් තවත් චක්‍රලේඛයක් නිකුත් කරමින් ග්‍රාමීය ප්‍රදේශවල ජනතාවගේ ජීවන තත්ත්වය උසස් කිරීම සඳහා මූල්‍ය පහසුකම් ලබා දීමට යෝජනා කර ඇති බවත් සඳහන් කළේය.
+
+...
+
+[Data](articles/ad9afa67.json)
+
+---
 
 ### Upgrading of Northern railway line to be completed by August
 
@@ -49,6 +109,28 @@ Minister Gunawardena also stated that an announcement will be made in relation t
 ◼️
 
 [Data](articles/86fd6668.json)
+
+[Extended Data](ext_articles/86fd6668.ext.json)
+
+---
+
+### University non-academic staff strike continues despite Cabinet decision
+
+*2024-05-28 15:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/University-non-academic-staff-strike-continues-despite-Cabinet-decision/108-283523) · `en`
+
+Colombo, May 28 (Daily Mirror) - After the Cabinet decision and a trade union meeting, the University Trade Union Joint Committee (UTUJC) has decided to continue with their trade union action starting today.
+
+UTUJC Co-Chairman Dhammika S. Priyantha informed the Daily Mirror today that they are still awaiting the Cabinet decision concerning their issues, including salary anomalies.
+
+"We held our trade union meeting today to discuss the next steps required to address our issues," he said.
+
+Since there is no system to secure funding for this year, the President advised the Cabinet Minister to appoint an expert committee to study the salary anomalies of all government sector institutions and provide recommendations. He also advised including all solutions and proposals related to these issues in the 2025 budget proposal.
+
+Following the trade union meeting, we have decided to continue with our trade union actions until the government provides a favourable response, Priyantha said.
+
+...
+
+[Data](articles/de6a0d79.json)
 
 ---
 
@@ -766,17 +848,23 @@ The US $ 295.8074 is Rs.
 
 ---
 
-### රාජ්‍ය ‍සේවයේ වැටුප් විෂමතා ගැන හොයන්න කමිටුවක්
+### Committee to investigate salary anomalies
 
 *2024-05-28 12:32:41* · [`adalk`](https://www.ada.lk/breaking_news/රාජ්‍ය-‍සේවයේ-වැටුප්-විෂමතා-ගැන-හොයන්න-කමිටුවක්/11-409867) · `si`
 
-රාජ්‍ය සේවයේ විවිධ සේවක කණ්ඩායම් අතර පවතින වැටුප් විෂමතාවන් සම්බන්ධයෙන් එකී සේවක කණ්ඩායම් හා අදාල වෘත්තීය සමිති විසින් වරින්වර ඉදිරිපත් කරනු ලැබ ඇති නියෝජනයන් සැලකිල්ලට ගෙන ඵකී වැටුප් විෂමතාවන් පිළිබදව කරුණු අධ්‍යනය කිරීම සඳහා කමිටුවක් පත් කර තිබේ.
+A committee will probe salary discrepancies among public sector workers, tasked with reporting findings by 2025.
 
-2025 වර්ෂය සදහා වන අය වැය මගින් එම විෂමතාවන් නිවැරදි කිරිමට හැකි වන පරිදි වාර්තාවක් ඉදිරිපත් කිරීම සදහා එම විශේෂඥ කමිටුවක් පත් කිරීමට ඊයේ පැවති අමාත්‍ය මණ්ඩලය  රැස්වීමේදී තීරණය වී තිබේ.
+🟩
+
+A committee has been appointed to study the contents of the salary anomalies regarding the salary anomalies between the employees of various employees in the public service.
+
+The Cabinet of Ministers held yesterday has decided to appoint a special committee to submit a report to the cost of the year 2025.
 
 ◼️
 
 [Data](articles/01d76b42.json)
+
+[Extended Data](ext_articles/01d76b42.ext.json)
 
 ---
 
@@ -2305,91 +2393,5 @@ Strong winds of about 50-60 kmph can be expected at times over Western slopes of
 [Data](articles/8abd8bb5.json)
 
 [Extended Data](ext_articles/8abd8bb5.ext.json)
-
----
-
-### Rain and Suglunt
-
-*2024-05-28 07:46:50* · [`adalk`](https://www.ada.lk/breaking_news/වැස්ස-හා-සු‍ලං-තවදුරට‍/11-409862) · `si`
-
-The Department of Meteorology warns of heavy rainfall and strong winds due to the southwest monsoon across various provinces in Sri Lanka, including the Western, Sabaragamuwa, Uva, Ampara, Batticaloa, Central Hills, North, North Central, Southern, North Western, Trincomalee, and Moneragala regions.
-
-🟩
-
-The Department of Meteorology says that the rain and windy of the active southwest monsoon will be furthericulous.
-
-The department released showers this morning (
-
-Mm in the Western and Sabaragamuwa Provincial and Sabaragamuwa Province. Heavy showers are likely to experience more than 100.
-
-The Department states that showers or thundershowers will occur at several places in the Uva Province and in the Ampara and Batticaloa districts.
-
-At times, in the West in the central hills, the North, North Central, Western, Southern and North Western Provinces and in Trincomalee and Moneragala Districts.. (50-60) strong winds, he added.
-
-◼️
-
-[Data](articles/1c276656.json)
-
-[Extended Data](ext_articles/1c276656.ext.json)
-
----
-
-### Sri Lanka keeps policy rates unchanged
-
-*2024-05-28 07:44:00* · [`economynextcom`](https://economynext.com/sri-lanka-keeps-policy-rates-unchanged-165028/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s central bank kept is policy corridor unchanged with most rates converging towards the floor rate in recent weeks helped by a build up of excess liquidity from dollar purchases.
-
-“While the medium term inflation outlook remains compatible with the current level of policy interest rates and inflation expectations are well anchored, the Board observed the need for a further reduction in market lending interest rates in line with policy interest rates and other benchmark interest rates, which is imperative for the easing of domestic monetary conditions and domestic economic recovery,” the central bank said in its monetary policy statement.
-
-The central bank said the effect of value added tax hike in the inflation index had been offset in the inflation index by falling fuel, electricity and LP gas prices.
-
-...
-
-[Data](articles/2781e10e.json)
-
-[Extended Data](ext_articles/2781e10e.ext.json)
-
----
-
-### Vegetables and fish prices up by inclement weather
-
-*2024-05-28 07:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197091) · `si`
-
-Inclement weather has led to higher vegetable and fish prices due to supply disruptions.
-
-🟩
-
-The market vegetable prices in the market have increased with the inclement weather.
-
-◼️
-
-[Data](articles/f2e16b17.json)
-
-[Extended Data](ext_articles/f2e16b17.ext.json)
-
----
-
-### Hospital says its a macerated stillbirth, parents seek justice
-
-*2024-05-28 07:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Hospital-says-its-a-macerated-stillbirth-parents-seek-justice/108-283482) · `en`
-
-In a heart-wrenching saga that has gripped Weligama, a young couple is seeking justice for their deceased newborn amidst confusion and accusations against hospital authorities.
-
-The ordeal began when 23-year-old Kavindya Madushani, from Yaddehiwatta Kohunugamuwa, Weligama, was referred to Matara New District General Hospital by a private doctor on the night of May 23rd to give birth to her first child.
-
-According to the hospital, Madushani gave birth at approximately 2:40 am on May 24th
-
-According to informed sources, the doctors informed her that the child had been a "macerated" fetus, indicating the baby had died well before delivery, exhibiting skin and soft-tissue changes typical of such cases.
-
-Initially, Madushani was unable to face taking the deceased child, and the hospital proceeded with cremation as per standard guidelines.
-
-However, the situation took a dramatic turn when she and her husband returned to the hospital, demanding to see their baby's body.
-
-...
-
-[Data](articles/7bc1d693.json)
-
-[Extended Data](ext_articles/7bc1d693.ext.json)
 
 ---

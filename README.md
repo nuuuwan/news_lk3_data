@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-28 07:45:47**
+As of **2024-05-28 07:59:14**
 
 ## Newspaper Stats
 
-*Scraped **26,688** Articles*
+*Scraped **26,695** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,56 +19,104 @@ adalk | 2,271
 adaderanalk | 3,054
 tamilmirrorlk | 3,126
 virakesarilk | 4,076
-dailymirrorlk | 4,208
-adaderanasinhalalk | 4,277
+dailymirrorlk | 4,214
+adaderanasinhalalk | 4,278
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,685 (100.0%) of 26,688 articles have been extended.
+26,688 (100.0%) of 26,695 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-28 (Tuesday)
 
-### වැටුප් විෂමතා ගැන සොයන්න කමිටුවක්
+### අයහපත් කාලගුණයෙන් එළවළු සහ මාළු මිල ගණන් ඉහළට
+
+*2024-05-28 07:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197091) · `si`
+
+‍පවතින අයහපත් කාලගුණික තත්ත්වයත් සමග වෙළෙඳපොළේ එළවළු මිල යළි ඉහළ ගොස් තිබේ.
+
+◼️
+
+[Data](articles/f2e16b17.json)
+
+---
+
+### Hospital says its a macerated stillbirth, parents seek justice
+
+*2024-05-28 07:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Hospital-says-its-a-macerated-stillbirth-parents-seek-justice/108-283482) · `en`
+
+In a heart-wrenching saga that has gripped Weligama, a young couple is seeking justice for their deceased newborn amidst confusion and accusations against hospital authorities.
+
+The ordeal began when 23-year-old Kavindya Madushani, from Yaddehiwatta Kohunugamuwa, Weligama, was referred to Matara New District General Hospital by a private doctor on the night of May 23rd to give birth to her first child.
+
+According to the hospital, Madushani gave birth at approximately 2:40 am on May 24th
+
+According to informed sources, the doctors informed her that the child had been a "macerated" fetus, indicating the baby had died well before delivery, exhibiting skin and soft-tissue changes typical of such cases.
+
+Initially, Madushani was unable to face taking the deceased child, and the hospital proceeded with cremation as per standard guidelines.
+
+However, the situation took a dramatic turn when she and her husband returned to the hospital, demanding to see their baby's body.
+
+...
+
+[Data](articles/7bc1d693.json)
+
+---
+
+### Committee to investigate salary anomalies
 
 *2024-05-28 07:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197090) · `si`
 
-‍රාජ්‍ය සේවයේ පවතින වැටුප් විෂමතා සම්බන්ධයෙන් සොයා බලා නිර්දේශ ඉදිරිපත් කිරීම සඳහා විශේෂ කමිටුවක් පත්කිරීමට කැබිනට් මණ්ඩලය තීරණය කර තිබේ.
+A special committee will be formed to address salary discrepancies within the public sector, as approved by the Cabinet under President Ranil Wickremesinghe. The committee's role includes identifying and proposing solutions to these anomalies across different fields. Additionally, the deadline for applying to the Presidential Fund Scholarship Program for the academic year 2024-2025 has been extended to June 7th due to administrative issues and unfavorable weather conditions.
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් ඊයේ (27) රැස් වූ කැබිනට් මණ්ඩලයේ දී මෙම තීරණය ගෙන ඇති බව වාර්තා වේ.
+🟩
 
-මේ වන විට රාජ්‍ය සේවයේ ක්ෂේත්‍ර රැසක නිලධාරීන් වැටුප් විෂමතා ඉවත් කරන ලෙස ඉල්ලීම් ඉදිරිපත් වී ඇති බැවින් ඊට කඩිනම් විසඳුම් ලබාදිය යුතු බව ජනාධිපතිවරයා කැබිනට් මණ්ඩලයට යෝජනා කර ඇත.
+The Cabinet has decided to appoint a special committee to investigate the salary anomalies existing in the public service.
 
-ඒ අනුව එක් එක් ක්ෂේත්‍රවල පවතින වැටුප් විෂමතා පිළිබඳව අධ්‍යයනය කර ඊට ලබාදිය යුතු විසඳුම් නිර්දේශ කිරීම සඳහා කමිටුවක් පත්කළ යුතු බවට ජනාධිපති රනිල් වික්‍රමසිංහ මහතා යෝජනා කර ඇති අතර එම යෝජනාවට කැබිනට් මණ්ඩලයේ අනුමැතිය හිමිව තිබේ.
+The decision was taken at the Cabinet meeting yesterday (27) under the patronage of President Ranil Wickremesinghe.
 
-අමාත්‍යංශ ලේකම්වරුන් සහ රාජ්‍ය නිලධාරීන්ගෙන් සැඳුම්ලත් අදාළ කමිටුව කඩිනමින් පත්කරන ලෙස ජනාධිපතිවරයා විසින් ජනාධිපති ලේකම් සමන් ඒකනායක මහතා වෙත උපදෙස් ලබාදී ඇති බව වාර්තා වේ.
+The President has proposed to the Cabinet that the officers of the Public Service has come forward to remove salary anomalies.
 
-මේ අතර අධ්‍යයන පොදු සහතික පත්‍ර උසස් පෙළ තාක්ෂණ සිසුන්ට ජනපති අරමුදලෙන් ශිෂ්‍යත්ව ප්‍රධානයට අදාළ අයදුම්පත් භාර ගැනීමේ කාලය දීර්ඝ කර තිබේ.
+President Ranil Wickremesinghe has proposed to appoint a committee to recommend the Salary Anomalies in each field and recommend the Solutions to the proposal.
+
+It is reported that the President has instructed the Presidential Secretary Saman Ekanayake to appoint the committee to appoint the relevant committee expeditiously appointment from the Secretaries and Public Officers.
+
+Meanwhile, the General Assembly of Study General Certificate has been extended to the Presidential Fund Scholarship Scholarship Scholarship.
+
+The following period of 2024 -2025 Applications have been extended to June 07, the Presidential Media Unit said.
 
 ...
 
 [Data](articles/f0b0c956.json)
 
+[Extended Data](ext_articles/f0b0c956.ext.json)
+
 ---
 
-### ශ්‍රී ලංකාව මුහුණදෙන පළමු පුහුණු තරගය අද
+### Sri Lanka's first training match against Sri Lanka
 
 *2024-05-28 07:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197089) · `si`
 
-20යි 20 ලෝක කුසලාන ක්‍රිකට් තරගාවලියට සමගාමීව ශ්‍රී ලංකා කණ්ඩායම සහභාගී වන පළමු පුහුණු තරගය අද (28) පැවැත් වේ.
+Sri Lanka's cricket team begins its World Cup journey with a training match against the Netherlands today, followed by another against Ireland. Their first official match is on June 3rd against South Africa.
 
-නෙදර්ලන්ත කණ්ඩායම සමග පැවැත්වෙන එම තරගය ශ්‍රී ලංකා වේලාවෙන් අද රාත්‍රී 08ට ආරම්භ වීමට නියමිතය.
+🟩
 
-ශ්‍රී ලංකා කණ්ඩායම පුහුණු තරග දෙකකට සහභාගී වීමට නියමිත අතර දෙවන පුහුණු තරගය ලබන සිකුරාදා අයර්ලන්ත කණ්ඩායම සමග පැවැත් වේ.
+The first training match will be held today (28) in parallel to the World Cup.
 
-20යි 20 ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ ශ්‍රී ලංකා කණ්ඩායම සහභාගී වන පළමු තරගය දකුණු අප්‍රිකානු කණ්ඩායම සමග ජුනි මස 03 වන දින පැවැත්වීමට නියමිතය.
+The match with the Netherlands team will commence today at Sri Lanka's time.
+
+Sri Lanka team will attend two training matches and the second training match will be held with the Irish Team Friday.
+
+The first match of the Sri Lankan team will be played on the 3rd June with the South African team to attend the 20 World Cup.
 
 ◼️
 
 [Data](articles/9d9a1169.json)
+
+[Extended Data](ext_articles/9d9a1169.ext.json)
 
 ---
 
@@ -96,6 +144,44 @@ Vellaveli Police are conducting further investigations to arrest the suspects.
 
 ---
 
+### Sri Lanka hopes to launch Starlink satellite internet service within three months: Ruwan
+
+*2024-05-28 06:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-hopes-to-launch-Starlink-satellite-internet-service-within-three-months-Ruwan/108-283481) · `en`
+
+Colombo, May 28 (Daily Mirror) - Sri Lanka is hoping to launch Starlink satellite internet service founded by billionaire Elon Musk within three months’ time, Senior Presidential Advisor Ruwan Wijewardene said yesterday.
+
+Mr. Wijewardene told a media briefing that the founder of Starlink millionaire entrepreneur Elon Musk had already sent an application to start up the internet service and the negotiations have begun on the project. “We hope to launch the satellite internet service in three months’ time as soon as the negotiations are completed,” he said.
+
+He said negotiations on starting up SpaceX in Sri Lanka will begin after the launch of Starlink.
+
+Mr. Wijewardene said Elon is also interested in renewable energy sector as well in Sri Lanka. “The billionaire expressed his interest in solar energy and had informed President Ranil Wickremesinghe that he has to visit Sri Lanka and study the sector we the duo met recently in Indonesia,” he said.
+
+...
+
+[Data](articles/54c4de89.json)
+
+---
+
+### Health experts warn of spike in seasonal diseases
+
+*2024-05-28 06:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Health-experts-warn-of-spike-in-seasonal-diseases/155-283480) · `en`
+
+With the torrential rains sweeping across Sri Lanka, health experts are raising alarm bells over a spike in seasonal diseases including dengue, leptospirosis, diarrheal diseases and influenza.
+
+"The onset of the rainy season dramatically increases the risk of several serious illnesses," experts warned.
+
+Speaking to Daily Mirror, Dr. LakKumar Fernando highlighted, “Dengue fever remains a significant threat during this time. With increased rainfall, we see a rise in stagnant water, which serves as a breeding ground for Aedes mosquitoes. It's crucial for the public to eliminate standing water around their homes and use mosquito repellents.”
+
+He also mentioned an unprecedented rise in influenza cases over the past few weeks.
+
+Further, Leptospirosis, commonly known as ‘rat fever,’ is another pressing concern. “Flooded areas can become contaminated with the urine of infected animals, leading to the spread of leptospirosis,” a senior health official explained.
+
+...
+
+[Data](articles/0ac74f74.json)
+
+---
+
 ### Showers and wind condition further
 
 *2024-05-28 06:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197086) · `si`
@@ -119,6 +205,42 @@ At times, in the North, North, North-central, Western, Southern and North Wester
 [Data](articles/887f6dcc.json)
 
 [Extended Data](ext_articles/887f6dcc.ext.json)
+
+---
+
+### LankaGPT to launch Sri Lanka’s first Sinhala and Tamil AI GPT platform
+
+*2024-05-28 04:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/LankaGPT-to-launch-Sri-Lankas-first-Sinhala-and-Tamil-AI-GPT-platform/108-283474) · `en`
+
+LankaGPT Technologies Co-Founder and Director Lakshitha Karunaratne, Caladium Capitals USA Managing Director Lasitha Gunasinghe and Director Kasun Gunasinghe
+
+LankaGPT Technologies is gearing up to launch Sri Lanka’s first-ever Sinhala and Tamil AI Generative Pre-trained Transformer (GPT) by July 2024.
+
+Named Sigiriya AI, the text-based AI platform is designed to generate human-like responses to prompts fed in the Sri Lankan Sinhala and Tamil languages.
+
+“The main objective was to have a Sri Lankan-centric AI platform, accessible to Sri Lankans from anywhere in the world. We want to promote our culture and preserve our Sinhala and Tamil languages, which are declining in usage,” LankaGPT Technologies Co-Founder and Director Lakshitha Karunaratne said.
+
+The AI tool has been created using a total collection of 10 billion proprietary data sets for the Sinhala and Tamil languages, respectively.
+
+...
+
+[Data](articles/86b6d7c4.json)
+
+---
+
+### Industry fears wage hike impact on Ceylon Tea brand
+
+*2024-05-28 03:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Industry-fears-wage-hike-impact-on-Ceylon-Tea-brand/108-283479) · `en`
+
+From left: Former CTTA Chairman Anselm Perera, CTTA Chairman Sanjay Herath, PA Secretary-General Lalith Obeyesekere, PA Chairman Senaka Alawattegama, PA Spokesperson Dr. Roshan Rajadurai, PA Media Committee Chair Shanaka Samaradiwakara, All Island Federation of Tea Smallholder Development Societies Chairman Jagath Pathirana
+
+The tea industry veterans warned that the Ceylon Tea brand would face irreparable damage in international markets, leading to both decline in auction prices and global market share, if the government forced the plantation companies, including the smallholder sector, to implement the unprecedented 70 percent minimum wage hike arbitrarily.
+
+Speaking at a press conference held in Colombo yesterday, industry veteran and former Colombo Tea Traders Association Chairman Anselm Perera termed the ‘arbitrary and reckless’ wage hike to be the fourth major crisis of the Ceylon Tea industry in post-independent Sri Lanka.
+
+...
+
+[Data](articles/806e28a9.json)
 
 ---
 
@@ -427,6 +549,24 @@ Under the theme “Hungary: Your Gateway to the European Union (EU),” one coul
 [Data](articles/714840d2.json)
 
 [Extended Data](ext_articles/714840d2.ext.json)
+
+---
+
+### CEB divests LTL shares to West Coast Power
+
+*2024-05-28 01:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/CEB-divests-LTL-shares-to-West-Coast-Power/108-283476) · `en`
+
+The Ceylon Electricity Board (CEB) has partly settled the dues for energy purchases from West Coast Power (Pvt.) Ltd by divesting a 28 percent stake of its shares in LTL Holdings (Pvt.) Ltd to the company.
+
+“The CEB has divested a 28 percent stake in LTL Holdings (Pvt.) Ltd for a consideration of Rs.26,081,160,000 to West Coast Power (Pvt.) Ltd on February 7, 2024, for the part settlement of prolong outstanding on energy purchases from the company,” a filing to the Colombo Stock Exchange yesterday stated.
+
+The transfer of shares took place in terms of Section 8.2 of the Listing Rules of the Colombo Stock Exchange, the disclosure added.
+
+Now the CEB shareholding in LTL Holdings (Pvt.) Ltd has decreased to 35 percent.
+
+◼️
+
+[Data](articles/5e3503b5.json)
 
 ---
 
@@ -972,25 +1112,33 @@ Colombo, May 27 (Daily Mirror) - Quick action by the Daily Mirror breaking news 
 
 ---
 
-### කොළඹින් පසු ශක්තිමත්ම සෞඛ්‍ය සේවාව උතුරට
+### The strongest health care in Colombo to the north
 
 *2024-05-27 19:11:53* · [`adalk`](https://www.ada.lk/breaking_news/කොළඹින්-පසු-ශක්තිමත්ම-සෞඛ්‍ය-සේවාව-උතුරට/11-409859) · `si`
 
-වව්නියාව දිස්ත්‍රික් මහ රෝහලේ නව හෘද රෝග හා වකුගඩු රෝග ඒකකය ජනපති අතින් විවෘත කෙරේ
+President Ranil Wickremesinghe inaugurated a new heart and kidney disease facility at Vavuniya District General Hospital, enhancing healthcare in the Northern Province. Funded by the Netherlands, the project aims to bolster medical tourism along the A9 road, joining efforts to upgrade healthcare infrastructure across the region.
 
-කොළඹින් පසු ශක්තිමත්ම සෞඛ්‍ය සේවාව උතුරට ලබාදීමට හැකි වී තිබෙනවා.
+🟩
 
-A9 මාර්ගයේ ශක්තිමත් වු මෙම නවීන රෝහල් පද්ධතිය වෛද්‍ය සංචාරක ව්‍යාපාරයටද මහඟු රුකුලක් – ජනපති පෙන්වා දෙයි.
+President opens new heart disease and kidney disease at Vavuniya District General Hospital
 
-නෙදර්ලන්ත රජයේ සහයෝගය මත රුපියල් මිලියන 3329ක වියදමින් වව්නියාව දිස්ත්‍රික් මහ රෝහලේ ඉදිකළ හෘද රෝග හා වකුගඩු රෝග ඒකකය ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් ඊයේ (26) විවෘත කෙරිණි.
+After Colombo, the strongest health care is available to the North.
 
-යහපාලන රජය යටතේ 2019 වසරේදී එවකට අග්‍රාමාත්‍ය ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් මෙම ව්‍යාපෘතියේ ඉදිකිරීම් ආරම්භ කෙරිණි.
+The modern hospitals strengthened the A9 road to medical tourism to medical tourism - President:
 
-මෙම නව තෙමහල් ගොඩනැඟිල්ල හෘද රෝග ඒකකය, හෘද කැතීටකරණ රසායනාගාරය (Cath Lab), හෘද උරස් ශල්‍යාගාරය (Cardiothoracic theatre), හෘද දැඩි සත්කාර ඒකකය (Cardiac ICU), එකෝ කාඩියෝග්‍රැෆි (Echo Cardiography), ව්‍යායාම විද්‍යුත් කන්තුක රේඛන (Exercise ECG), ජංගම රුධිර පීඩන අධීක්ෂණ ඒකකය (Ambulatory BP monitoring), ජංගම විද්‍යුත් කන්තුක රේඛන (Ambulatory ECG monitoring) අධීක්ෂණ ඒකකය ආදී නවීන පහසුකම්වලින් සම්නවිතය.
+President Ranil Wickremesinghe, the patronage of the Kidney Disease and the Kidney Disease of the Vavuniya District was opened by President Ranil Wickremesinghe at a cost of support of the Netherlands.
+
+The project commenced under the patronage of Prime Minister Ranil Wickremesinghe at the time in 2019 under the good governance government.
+
+The new three-storey unit, cardioc iCu (Cath Lab), Cardiac ICU (CARDIOTHOCICE), Echo Critiography (Echo Card Lines), Exercise Electronic Lines, MobileThe Blood Pressure Supervisory Unit (Ampulatory BP Monitoring) is the modern facilities such as the Ambulatory Lines of Ambulatory Lines.
+
+The Kidney Disease includes facilities such as the Blood Carry Unit, Scan Room and Surgical Unit for Kidney patients.
 
 ...
 
 [Data](articles/c58c9a28.json)
+
+[Extended Data](ext_articles/c58c9a28.ext.json)
 
 ---
 
@@ -2053,153 +2201,5 @@ The person who was the target of the shooting is said to be a member of the crim
 [Data](articles/8f6e3f3e.json)
 
 [Extended Data](ext_articles/8f6e3f3e.ext.json)
-
----
-
-### Sri Lanka fishermen urged not to go to sea due to cyclone Remal
-
-*2024-05-27 15:55:00* · [`economynextcom`](https://economynext.com/sri-lanka-fishermen-urged-not-to-go-to-sea-due-to-cyclone-remal-164946/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Department of Meteorology has warned naval and fishermen communities against venturing into the Arabian Sea and the Bay of Bengal, after cyclone Remal, which was located over the North Bay of Bengal and adjoining West Bengal (India) made landfall this morning.
-
-“Very strong winds (60-70) kmph, accompanied with heavy rainfalls and very rough seas are likely to continue further over the sea areas around the island, Arabian Sea areas and Bay of Bengal Sea areas due to the active south-west monsoonal condition,” it said issuing a warning.
-
-“Naval and fishing communities are advised not to venture into the sea areas marked by RED color on the map above until further notice.”
-
-Those who are out at these sea regions have been advised to return to land or move to safer areas immediately.
-
-The fishing and naval community are requested to be attentive to future forecasts issued by the Department of Meteorology in this regard.
-
-...
-
-[Data](articles/df9665ed.json)
-
-[Extended Data](ext_articles/df9665ed.ext.json)
-
----
-
-### Unidentified body lands over Egoduya Beach
-
-*2024-05-27 15:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197072) · `si`
-
-An unidentified male body, aged 35-40 and 4 feet tall, was found on Egroiyana Beach, Moratuwa.
-
-🟩
-
-The body of an unknown male has been launched to the Egroiyana Beach, Moratuwa, police said.
-
-The man said that between the ages of 35-40 and 4 feet height, police said.
-
-◼️
-
-[Data](articles/577ecee8.json)
-
-[Extended Data](ext_articles/577ecee8.ext.json)
-
----
-
-### In the yarns. Increase motorcycle thefts!
-
-*2024-05-27 15:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/184606) · `ta`
-
-Motorcycle thefts are rising in Jaffna, with 32 stolen bikes in recent months. Thieves quickly dismantle them for parts. Police urge owners to secure their bikes and cooperate in investigations.
-
-🟩
-
-Police said that motorcycle thefts are on the rise in Jaffna and the stolen motorcycles are immediately divided and sold as spare parts.
-
-32 motorcycles have been stolen in a few months in the adjacent areas of Jaffna. Complaints have been received and investigations are being carried out.
-
-During the investigation, the stolen motorcycles are immediately divided into spare parts.
-
-Police have asked them to leave the motorcycles safely and put them on a "handle lak" and be careful with motorcycles.
-
-◼️
-
-[Data](articles/d2e2018c.json)
-
-[Extended Data](ext_articles/d2e2018c.ext.json)
-
----
-
-### More sluice gates may be opened if rainfall increases
-
-*2024-05-27 15:29:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/More-sluice-gates-may-be-opened-if-rainfall-increases/108-283450) · `en`
-
-Colombo, May 27 (Daily Mirror) - If rainfall in the catchment areas increases during the day, it is possible that more sluice gates will need to be opened at various dams and reservoirs, the Irrigation Department’s Irrigation (Hydrology) Director Eng. S.P.C. Sugeeshwara Bandara said.
-
-Addressing the media he said 80 percent of water capacity is currently avaliable in all irrigation reservoirs and said this a considerably higher capacity.
-
-"The Deduru Oya in the Kurunegala district and the Tabbowa Wewa in the Puttalam district are currently spilling. Four sluice gates of the Deduru Oya have been opened, releasing water at a rate of 2,800 cubic inches per second. Additionally, two gates of the Tabbowa Wewa have been opened, releasing 800 cubic inches of water per second," he said.
-
-Although the situation is not currently high risk, more rain could necessitate the opening of additional sluice gates, which would pose a significant risk to residents in low-lying areas, he said.
-
-...
-
-[Data](articles/b8247e81.json)
-
-[Extended Data](ext_articles/b8247e81.ext.json)
-
----
-
-### Excavation work with court permission
-
-*2024-05-27 15:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/184614) · `ta`
-
-On Monday, excavation began at the Murugan Temple forest under court supervision. Eight individuals, including a naval officer, were arrested on Saturday for investigation and equipment recovery. The magistrate extended their detention until Monday and approved the excavation. Despite the presence of officials from Mannar, Pasalai police, and relevant departments, no treasures were found using the Becko machine. Journalists were denied permission to photograph or film the operation. The suspects will remain in custody for 14 days.
-
-🟩
-
-Excavation action took place at the Murugan Temple forest area of the Mannar -Basalai police division on Monday morning (27).
-
-Eight people, including a naval officer, were arrested last Saturday evening (18) at the Pasalai police station for further investigations.
-
-From them, the scanner machine, including the excavation of the treasure, was also recovered.
-
-The Magistrate ordered the persons to be remanded till Monday (27) after the Mannar Magistrate appeared before the eight people after investigations into the Pasalai police.
-
-In addition, the magistrate granted permission from the Pasalai police to carry out excavation work in the forest area of the Murugan Temple area of the Pasalai police division on Monday morning.
-
-Excavation operations took place in the area this morning in accordance with the orders of the Mannar Magistrate.
-
-...
-
-[Data](articles/49ade4d2.json)
-
-[Extended Data](ext_articles/49ade4d2.ext.json)
-
----
-
-### Important notice for vehicles arriving at Katunayake Airport premises
-
-*2024-05-27 15:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/99468/important-notice-for-vehicles-arriving-at-katunayake-airport-premises-) · `en`
-
-Airport and Aviation Services (Sri Lanka) (Private) Limited says that necessary steps have been taken to streamline the parking of vehicles outside the arrival terminal at Bandaranaike International Airport (BIA) in Katunayake.
-
-Accordingly, a decision has been taken to prohibit the parking of vehicles without a driver at that location and also that vehicles arriving to pick up passengers should remain at the car park and arrive at the front of the airport’s arrival terminal only at the scheduled time for the pickup.
-
-Airport and Aviation Services (Sri Lanka) (Private) Limited also stated that if the vehicles are parked for more than 30 minutes at that location while causing traffic congestion in the area even with the driver, an extra fee would be charged when the vehicles are leaving the premises.
-
-They further stated that the main objective of this is to control the arrival of unauthorized vehicles and persons at the airport premises.
-
-◼️
-
-[Data](articles/4ce9c06b.json)
-
-[Extended Data](ext_articles/4ce9c06b.ext.json)
-
----
-
-### Vesak Maha Perahera...
-
-*2024-05-27 15:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Vesak-Maha-Perahera/110-283448) · `en`
-
-In line with the 2568 Vesak festival, a Vesak Maha Perahera was held last evening (26) at Narangodapaluwa, Batuwatta. The sacred relic casket being brought to the temple under the patronage of Ven. Sivuralumulle Sumanarathne Thera, the chief incumbent of the Galahitiyawa Sri Sugatha Subadrarama temple and Narangodapaluwa Rathna Sri Gnanarama Pothgul Temple. Pix by Nimalsiri Edirisinghe
-
-◼️
-
-[Data](articles/08349a24.json)
-
-[Extended Data](ext_articles/08349a24.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-28 22:51:39**
+As of **2024-05-28 23:03:42**
 
 ## Newspaper Stats
 
-*Scraped **26,904** Articles*
+*Scraped **26,910** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,36 @@ adalk | 2,293
 adaderanalk | 3,075
 tamilmirrorlk | 3,152
 virakesarilk | 4,128
-dailymirrorlk | 4,241
+dailymirrorlk | 4,247
 adaderanasinhalalk | 4,319
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,902 (100.0%) of 26,904 articles have been extended.
+26,904 (100.0%) of 26,910 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-28 (Tuesday)
+
+### Railway service is critical, requires significant investments to run efficiently
+
+*2024-05-28 22:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Railway-service-is-critical-requires-significant-investments-to-run-efficiently/108-283545) · `en`
+
+Colombo, May 28 (Daily Mirror) - The railway service in the country is currently in a critical situation, and efficient train usage requires significant investments, Cabinet Spokesman and Transport Minister Bandula Gunawardana said.
+
+Addressing the media, he said that rail tracks need to be replaced every five years, with coastal railway lines requiring even more frequent changes.
+
+"The necessary funds for purchasing railway lines, compartments, and sleepers have been obtained through foreign loan facilities," he said.
+
+"The most recent loan was obtained from the Asian Development Bank (ADB) to purchase 10,000 rail tracks for the railway service. The Northern Railway Line is being renovated under the Indian Credit Line facility. If we do not manage our loan repayments properly, we will not be able to use trains efficiently even if we want to," Minister Gunawardana said.
+
+...
+
+[Data](articles/146650f7.json)
+
+---
 
 ### State Minister highlights importance of disaster preparedness at school level
 
@@ -45,6 +63,8 @@ The state minister said that he had requested these officials to update and acti
 ...
 
 [Data](articles/8d003c8c.json)
+
+[Extended Data](ext_articles/8d003c8c.ext.json)
 
 ---
 
@@ -73,6 +93,20 @@ Such a failure was a severe defeat of Sri Lanka Kabaddi team in the first two pa
 [Data](articles/70f03f65.json)
 
 [Extended Data](ext_articles/70f03f65.ext.json)
+
+---
+
+### NPP condemns Range Bandara’s statement; says UNP has officially admitted Ranil’s defeat
+
+*2024-05-28 21:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/NPP-condemns-Range-Bandaras-statement-says-UNP-has-officially-admitted-Ranils-defeat/108-283547) · `en`
+
+Colombo, May 28 (Daily Mirror)- While condemning United National Party (UNP) General Secretary Palitha Range Bandara's statement that President Ranil Wickremesinghe should be given two more years without holding the Presidential or General Elections, NPP Executive Committee member Dr. Nalinda Jayatissa said today that the UNP has officially accepted Ranil Wickremesinghe's defeat.
+
+He told the media that it was a serious statement and that they have no right to violate the sovereignty of the people.
+
+...
+
+[Data](articles/547f207f.json)
 
 ---
 
@@ -115,6 +149,40 @@ Meanwhile, the floods issued for the small river of the Black River have been ex
 [Data](articles/b2887fee.json)
 
 [Extended Data](ext_articles/b2887fee.ext.json)
+
+---
+
+### AG decides not to defend Nilantha Jayawardane
+
+*2024-05-28 21:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/AG-decides-not-to-defend-Nilantha-Jayawardane/108-283543) · `en`
+
+Colombo, May 28 (Daily Mirror) -  The Attorney General's Department informed the Court of Appeal that the Attorney General will not appear on behalf of Senior DIG Nilantha Jayawardane in a writ petition filed against him for his omission and serious dereliction of duty which led to the Easter Sunday bomb attacks.
+
+The Centre for Society and Religion had filed this writ petition before the Court of Appeal seeking an order to conduct a credible investigation and take appropriate actions against Senior DIG Nilantha Jayawardane for his omission and serious dereliction of duty which led to the Easter Sunday bombing in 2019.
+
+When the matter was called before the Court of Appeal with the two-judge-bench comprising Justices Sobhitha Rajakaruna and Dhammika Ganepola, Counsel appearing on behalf of Nilantha Jayawardena informed court that they expect to present limited objections against this petition. The petition was re-fixed for support on July 25.
+
+...
+
+[Data](articles/37903cbf.json)
+
+---
+
+### Education Ministry urges university staff to end strike
+
+*2024-05-28 21:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Education-Ministry-urges-university-staff-to-end-strike/108-283542) · `en`
+
+Colombo, May 28 (Daily Mirror) - The Education Ministry today requested THE university non-academic staff unions to end their ongoing strike, return to work and present their issues to the expert committee appointed by the President.
+
+While issuing a special notice, the Ministry said that a committee had been appointed to investigate into the issues relating to the university non-academic staff salary disparity since 2018.
+
+Therefore, the Ministry requested all university non-academic staff to submit their issues and recommendations to the expert committee without disrupting university services.
+
+Since there is no system to secure funding for this year, the Education Ministry said that the President had advised the Cabinet to appoint an expert committee to study the salary anomalies of all university non-academic staff to provide recommendations, including all solutions and proposals related to these issues in the 2025 budget proposals.
+
+◼️
+
+[Data](articles/3aab864e.json)
 
 ---
 
@@ -182,23 +250,31 @@ The Minister said the train service is also in critical condition and said even 
 
 ---
 
-### கிராம சேவகர்களின் பிரச்னைகளைத் தீர்ப்பது தொடர்பில் அரசாங்கம் கவனம் செலுத்தியுள்ளது!
+### The government is focused on solving the problems of the Grama Niladhari!
 
 *2024-05-28 20:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/184725) · `ta`
 
-அரச சேவையின் ஏனைய சேவைகளுடன் முரண்படாத வகையில் கிராம சேவகர் சேவையில் உள்ள பிரச்சினைகளுக்கு சாத்தியமான தீர்வுகளை முன்வைக்குமாறு தேசிய பாதுகாப்பு தொடர்பான ஜனாதிபதியின் சிரேஷ்ட ஜனாதிபதி பணிக்குழாம் பிரதானி சாகல ரத்நாயக்க சம்பந்தப்பட்ட அதிகாரிகளுக்கு அறிவுறுத்தியுள்ளார்.
+The government is addressing issues within the Grama Niladhari Service, as directed by the President's Senior Presidential Commission on National Security. This includes investigating pay concerns and advocating for changes to the Service Bill to improve promotions. Sagala Ratnayake, in discussions with the Grama Niladhari Trade Union Federation, highlighted the importance of this service, which has been operational for over sixty years, and acknowledged the contributions made by Grama Niladharis despite challenges.
 
-மேலும், தற்போதுள்ள பிரச்சினைகளை பேசித் தீர்த்து பொதுவான உடன்பாட்டை எட்டுமாறும் அதிகாரிகளிடம் வலியுறுத்தினார்.
+🟩
 
-கிராம சேவகர் சேவையில் ஏற்பட்டுள்ள பிரச்சினைகள் தொடர்பில் கிராம சேவகர்களின் தொழிற்சங்க சம்மேளன பிரதிநிதிகள் மற்றும் அதனுடன் தொடர்புடைய நிறுவனங்களுடன் ஜனாதிபதி அலுவலகத்தில் இன்று (28) இடம்பெற்ற கலந்துரையாடலில் சாகல ரத்நாயக்க இந்த அறிவுறுத்தல்களை வழங்கினார்.
+The President's Senior Presidential Commission on National Security has instructed the relevant authorities to come up with potential solutions to the problems in the Grama Niladhari Service, which is not contradicted with other services of the public service.
 
-இதன்போது கிராம சேவகர் சேவை யாப்பு தொடர்பான பிரச்சினைகள் மற்றும் சம்பள பிரச்சினைகள் தொடர்பில் ஆராயப்பட்டது.
+He also urged the authorities to address the existing issues and reach a common agreement.
 
-இங்கு கிராம சேவகர்களின் பதவி உயர்வு தொடர்பில் பல பிரச்சினைகள் எழுந்துள்ளதால் அவற்றைத் தீர்க்கும் வகையில் குறித்த சேவைக்கான சட்டமூலம் மாற்றியமைக்கப்பட வேண்டுமென கிராம சேவகர்களின் சம்மேளனம் வலியுறுத்தியது.
+Sagala Ratnayake gave these instructions at a discussion held at the Presidential Office today (28) with representatives of the Grama Niladhari Trade Union Federation and its relevant institutions on the issues of the Grama Niladhari Service.
+
+The Grama Niladhari Service was investigated on issues and pay issues.
+
+The Grama Niladhari Federation urged that the Service Bill should be changed to resolve the issue of the promotion of the Grama Niladhari.
+
+Accordingly, Sagala Ratnayake advised to embrace favorable proposals in the Service Bill submitted for the approval of the Public Service Commission.
 
 ...
 
 [Data](articles/94b480a8.json)
+
+[Extended Data](ext_articles/94b480a8.ext.json)
 
 ---
 
@@ -664,6 +740,22 @@ Sri Lankan sprinter Aruna Darshana further boosted his chances of qualifying for
 
 ### No debate after June 6: NPP gives ultimatum to SJB
 
+*2024-05-28 18:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/No-debate-after-June-6-NPP-gives-ultimatum-to-SJB/155-283536) · `en`
+
+Colombo, May 28 (Daily Mirror)- The National People's Power (NPP) said today that if the Samagi Jana Balawegaya (SJB) is not ready for the debate between the two leaders Sajith Premadasa and Anura Kumara Dissanayake on June 6 as previously announced, there would be no further debate or discussions about a debate after June 6.
+
+Speaking to the media, NPP Executive Member Dr. Nalinda Jayatissa said if the scheduled debate on June 6 is held, they are ready to engage in discussions on preparations for the debate between the two leaders.
+
+"What we have to do now is to decide on a television channel or a place to hold the debate. We have no time to waste on other nonsense. We would like to remind Sajith Premadasa and Nalin Bandara that even though politics is a joke for them, it is not so for us. If the debate between the two leaders is not held on June 6, there will be no debates or discussions on a debate after that," he said.
+
+...
+
+[Data](articles/546acf16.json)
+
+---
+
+### No debate after June 6: NPP gives ultimatum to SJB
+
 *2024-05-28 18:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/No-debate-after-June-6-NPP-gives-ultimatum-to-SJB/108-283536) · `en`
 
 Colombo, May 28 (Daily Mirror)- The National People's Power (NPP) said today that if the Samagi Jana Balawegaya (SJB) is not ready for the debate between the two leaders Sajith Premadasa and Anura Kumara Dissanayake on June 6 as previously announced, there would be no further debate or discussions about a debate after June 6.
@@ -1057,6 +1149,18 @@ Accordingly, the session and ministerial meeting will be held in Colombo in Nove
 [Data](articles/6c71d595.json)
 
 [Extended Data](ext_articles/6c71d595.ext.json)
+
+---
+
+### SLGGA differently abled branch turns 100
+
+*2024-05-28 17:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/SLGGA-differently-abled-branch-turns-100/110-283528) · `en`
+
+The Differently Abled Branch of the Sri Lanka Girl Guides Association (SLGGA) will celebrate its centenary on June 8, 2024. A media conference to highlight future activities was held on May 28, 2024 at the National Library Auditorium, Colombo. Pix by Kithsiri de Mel
+
+◼️
+
+[Data](articles/b927c9c4.json)
 
 ---
 
@@ -2203,157 +2307,5 @@ Speaking at a press conference today (28), he further stated that the interest r
 [Data](articles/37712829.json)
 
 [Extended Data](ext_articles/37712829.ext.json)
-
----
-
-### Suspect arrested over murder of ‘Kalamulle Tashi’ dies in prison
-
-*2024-05-28 14:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/99488/suspect-arrested-over-murder-of-kalamulle-tashi-dies-in-prison) · `en`
-
-Kalutara North Police said that the suspect who had been arrested and remanded in connection with a murder in Katukurunda area of Kalutara has suddenly passed away while at the Kalutara Prison yesterday (27).
-
-The deceased, Thushara Rukmal Silva, was a resident of Palapitiyagoda area in Thibuwana.
-
-Police stated that the deceased had been remanded in custody after being produced before the Kalutara Magistrate’s Court on May 25, on murder charges.
-
-According to prison sources, the inmate has died last afternoon (27) after being admitted to the Kalutara Teaching Hospital due to suddenly falling ill.
-
-The post-mortem examination of the deceased is scheduled to be conducted today (28) at the Kalutara Teaching Hospital.
-
-A 38-year-old, Thashmin Maduwantha, also known as “Kalamulle Tashi” was shot and killed at his residence on Station Road in Katukurunda, Kalutara on May 20.
-
-Police said the shooting had been carried out by two gunmen who had arrived on a motorcycle.
-
-...
-
-[Data](articles/50007467.json)
-
-[Extended Data](ext_articles/50007467.ext.json)
-
----
-
-### Motorcycle entered into a hospital in Jaffna: Attack on duty officer
-
-*2024-05-28 14:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/184687) · `ta`
-
-A man injured in a sword attack took a motorcycle into a hospital in Jaffna, colliding with an officer. The officer was assaulted during questioning about the intrusion. The attacker was apprehended by police after being subdued by other officials.
-
-🟩
-
-Yall. The attacker of the teaching hospital officer has been arrested by the police.
-
-The man who was injured in the sword -wielding incident has taken a motorcycle on his motorcycle, drove the motorcycle into the hospital complex and allowed the man he was carrying.
-
-At the same time, an officer questioned why he had broken into the hospital premises until he was driving a motorcycle.
-
-During the logic between the two, the officer was attacked by the printer in the hospital.
-
-Subsequently, a fellow officials gathered in the area and folded the attacker and handed over to the Jaffna police.
-
-◼️
-
-[Data](articles/2b07f643.json)
-
-[Extended Data](ext_articles/2b07f643.ext.json)
-
----
-
-### 17 Nude photos of the child's nude photos to the Internet 18 march arrested
-
-*2024-05-28 14:06:35* · [`adalk`](https://www.ada.lk/breaking_news/17-හැවැරිදි-සිසුවියගේ-නිරුවත්-ඡායාරූප-අන්තර්ජාලයට-එක්කළ 18-හැවැරිදි-සිසුවා-අල්ලයි/11-409872) · `si`
-
-A 10-year-old schoolgirl's nude photos were posted online by her 18-year-old ex-boyfriend from Nugegoda, leading to his arrest on March 18th. The suspect, who also had relationships with other underage girls, was caught after complaints from concerned individuals.
-
-🟩
-
-An eighteen-old schoolgirl, the Mattegoda Police said that a 10-year-old schoolgirl was posted on the Internet.
-
-The suspect is a resident of Nugegoda (18).
-
-The suspect was heading to a tuition class in Nugegoda and had a romance with a 17 year old schoolgirl from Kudamaduwa, Mattegoda.. In the meantime, the boyfriend has taken a chronic illness while learning that a boyfriend is drinking a drug.
-
-Later, she started a love relationship with another young man.
-
-The young man who was involved in the romance connection was obtained through a romance connection, the school girl had been taken from the school.
-
-The suspect was arrested following a complaint lodged by the police in connection with several friends who had seen this to the school girl.
-
-◼️
-
-[Data](articles/0840efdf.json)
-
-[Extended Data](ext_articles/0840efdf.ext.json)
-
----
-
-### Gaza Children's Fund Donation of 127 million rupees so far
-
-*2024-05-28 14:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/184688) · `ta`
-
-Sri Lanka's Gaza Children's Fund, initiated by President Ranil Wickremesinghe on March 04, 2024, has raised 127 million rupees. Aimed at addressing the critical needs of children in Gaza amid war conditions, including water, food, and medical care shortages, the fund was officially handed over to the Palestinian Government through UNRWA on April 1, 2024. The initiative involves contributions from the Sri Lankan government, donors, and companies, with ongoing public and organizational support until May 31, 2024.
-
-🟩
-
-According to President Ranil Wickremesinghe's concept, the Gaza Children's Fund, which was started on March 04, 2024, has been donated by Sri Lankan donors and various organizations to date.
-
-Considering the various difficulties they face due to the lack of water, food and medical facilities, especially the lack of water, food and medical facilities, the Cabinet has decided to launch a fund to provide humanitarian assistance to compensate for their essential expenses due to the war situation in Gaza.
-
-Accordingly, for the launch of a funding for children in Gaza, the President's Office, the Prime Minister's Office and the State Institutes were handed over to the Palestinian Government on 04-01-2024 through the United Nations Relief and Work Agency (UNRWA) for the first time.
-
-...
-
-[Data](articles/52a78184.json)
-
-[Extended Data](ext_articles/52a78184.ext.json)
-
----
-
-### Northern Train III I will be delayed for two months late
-
-*2024-05-28 14:00:47* · [`adalk`](https://www.ada.lk/breaking_news/උතුරු-දුම්රිය-මගේ-සංවර්ධන-කටයුතු-මාස-දෙකක්-ප්‍රමාද-වෙයි/11-409871) · `si`
-
-The Northern Railway Development Project, a key investment, faces a two-month delay due to ongoing development activities. This project aims to renovate the railway line from Anuradhapura to Omantha, reducing the journey from Jaffna to Colombo to five and a half hours. Despite the setback, the project is expected to last for over 50 years post-completion.
-
-🟩
-
-Cabinet Minister of Transport and Highways, Cabinet Minister, Cabinet Minister of Transport and Highways, Cabinet Publisher spokesman Dr. Bandula Gunawardena said that there was another two months of development activities.
-
-The Minister was speaking at a press briefing in the Government Information Department today (28).
-
-"The highest invested project is the Northern Railway Development Project. The northern railway line from Anuradhapura to Omantha has been completely completed since the first time British colonial era.. The renovation work has been commenced in Mahawa to Anuradhapura section. Although it is expected to open the part before the upcoming Poson Pose, the engineers have informed about two months.
-
-Accordingly, the time to travel from Jaffna to Colombo will be reduced to five and a half hours. Accordingly, the Northern Railway Line will be completely re-rehabilitated, up to 50 years after the next fifty years after the next fifty years.
-
-◼️
-
-[Data](articles/d4776224.json)
-
-[Extended Data](ext_articles/d4776224.ext.json)
-
----
-
-### First model village for strawberry cultivation established in Nuwara Eliya
-
-*2024-05-28 13:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/First-model-village-for-strawberry-cultivation-established-in-Nuwara-Eliya/108-283519) · `en`
-
-Colombo, May 28 (Daily Mirror) - The Agrarian Development Department has taken steps to establish Sri Lanka's first model village for strawberry cultivation based on four villages in Nuwara Eliya.
-
-This model cultivation village was established on the instructions of Agriculture and Plantation Industries Minister Mahinda Amaraweera.
-
-A model village was established for each fruit and vegetable to be cultivated so that they could be exported.
-
-Accordingly, this strawberry cultivation has been started in 42 net houses through 50 farmers at a cost of Rs. 20 million.
-
-From this strawberry cultivation, the strawberry plants imported from Australia to Sri Lanka will be distributed among the farmers.
-
-The planting planting in safe houses has been completed by now.
-
-The government has granted Rs. 320 million to the Agrarian Development Department for this year.
-
-◼️
-
-[Data](articles/12fe042c.json)
-
-[Extended Data](ext_articles/12fe042c.ext.json)
 
 ---

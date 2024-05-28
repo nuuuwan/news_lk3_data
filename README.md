@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-28 23:03:42**
+As of **2024-05-28 23:18:40**
 
 ## Newspaper Stats
 
-*Scraped **26,910** Articles*
+*Scraped **26,912** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 islandlk | 1,456
 economynextcom | 1,539
 dailyftlk | 1,568
-adalk | 2,293
+adalk | 2,294
 adaderanalk | 3,075
-tamilmirrorlk | 3,152
+tamilmirrorlk | 3,153
 virakesarilk | 4,128
 dailymirrorlk | 4,247
 adaderanasinhalalk | 4,319
@@ -26,11 +26,25 @@ adaderanasinhalalk | 4,319
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,904 (100.0%) of 26,910 articles have been extended.
+26,910 (100.0%) of 26,912 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-28 (Tuesday)
+
+### ‘தேர்தல்களைப் பிற்போடுவது ஜனநாயகத்துக்கு ஆரோக்கியமானதல்ல’
+
+*2024-05-28 22:34:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்களைப்-பிற்போடுவது-ஜனநாயகத்துக்கு-ஆரோக்கியமானதல்ல/175-338052) · `ta`
+
+ஜனாதிபதி ரணில் விக்கிரமசிங்க, பாராளுமன்றத்தின் ஆணையை நீட்டித்துக் கொள்வதற்காக சர்வஜன வாக்கெடுப்பொன்றை நடத்துமாறான ஐக்கிய தேசியக் கட்சியின் செயலாளர் நாயகம் பாலித ரங்கே பண்டாரவின் முன்மொழிவுக்கு மத்தியில், இவ்வாறான நகர்வொன்று அடிப்படைக் கொள்கைகளைக் கேள்விக்குட்படுத்துமென பாராளுமன்ற உறுப்பினர் நாமல் ராஜபக்‌ஷ தெரிவித்துள்ளார்.
+
+தேர்தல்களை ஒத்தி வைப்பது எந்தவொரு ஜனநாயகத்துக்கும் ஆரோக்கியமானதல்லதெனத் தெரிவித்த நாமல், ஜனாதிபதி மற்றும் பாராளுமன்றத்தின் பதவிக்காலத்தை நீடிப்பதானது ஜனநாயக சமூகத்தின் அடிப்படைக் கொள்கைகளை கேள்விக்குட்ப்படுத்துகிறதெனவும், உறுதித்தன்மையானது மக்களின் ஆணையால் வரவேண்டும் என்றும் அவர்களின் குரலைத் தாமதப்படுத்தவதால் அல்ல எனக் கூறியுள்ளார்.
+
+◼️
+
+[Data](articles/aaa3b4b4.json)
+
+---
 
 ### Railway service is critical, requires significant investments to run efficiently
 
@@ -47,6 +61,8 @@ Addressing the media, he said that rail tracks need to be replaced every five ye
 ...
 
 [Data](articles/146650f7.json)
+
+[Extended Data](ext_articles/146650f7.ext.json)
 
 ---
 
@@ -108,6 +124,8 @@ He told the media that it was a serious statement and that they have no right to
 
 [Data](articles/547f207f.json)
 
+[Extended Data](ext_articles/547f207f.ext.json)
+
 ---
 
 ### A/L Gallery Release
@@ -166,6 +184,8 @@ When the matter was called before the Court of Appeal with the two-judge-bench c
 
 [Data](articles/37903cbf.json)
 
+[Extended Data](ext_articles/37903cbf.ext.json)
+
 ---
 
 ### Education Ministry urges university staff to end strike
@@ -183,6 +203,8 @@ Since there is no system to secure funding for this year, the Education Ministry
 ◼️
 
 [Data](articles/3aab864e.json)
+
+[Extended Data](ext_articles/3aab864e.ext.json)
 
 ---
 
@@ -580,6 +602,22 @@ The first four -day youth Test match between the two teams will be held in Worms
 
 ---
 
+### තවත් වසර දෙකක් ජනපතිගේ කාලය දීර්ඝ කළ යුතුයි
+
+*2024-05-28 19:10:54* · [`adalk`](https://www.ada.lk/breaking_news/තවත්-වසර-දෙකක්-ජනපතිගේ-කාලය-දීර්ඝ-කළ-යුතුයි/11-409881) · `si`
+
+මේ මොහොතේ දී කළ යුතු වන්නේ මැතිවරණයක් පැවැත්වීම නොව තවත් අවුරුදු දෙකක කාලයකට රනිල් වික්‍රමසිංහ ජනාධිපතිවරයාගේ පාලන කාලය දීර්ඝ කිරීම බව එක්සත් ජාතික පක්ෂ මහලේකම් පාලිත රංගෙ බණ්ඩාර මහතා පැවසීය. ඔහු සඳහන් කළේ සජිත් ප්‍රේමදාස මහතා හෝ අනුරකුමාර දිසානායක මහතා මැදිහත් වී එය සිදු කළ යුතු බවයි.
+
+ඔහු මේ බව පැවසුවේ අද (28දා) සිරිකොත පක්ෂ මූලස්ථානයේ පැවති මාධ්‍ය හමුවේ දීය. මෙහිදී වැඩිදුරටත් අදහස් දැක්වූ රංගෙ බණ්ඩාර මහතා මෙසේද කීය.
+
+" ආර්ථිකය ශක්තිමත් වෙලා ජනතාවට සහන ලබා දීලා පරිපාලන ව්‍යුහය ශක්තිමත් බවට පත්කරලා තිබෙනවා. අධ්‍යාපනය යථාවත් වෙලා තිබෙනවා. ඒ නිසා දැන් කළ යුතු වන්නේ මැතිවරණයක් පැවැත්වීම නොවෙයි. සජිත් ප්‍රේමදාස මහත්මයා මැදිහත් වෙලා හෝ අනුරූ කුමාර දිසානායක මහත්මයා මැදිහත් වෙලා තවත් අවුරුදු දෙකක කාලකයට මේ ජනාධිපතිවරයාගේ පාලන කාලය දීර්ඝ කළ යුතුයි කියලා ප්‍රකාශ කරන්නට කැමති යි. පාර්ලිමේන්තුවේ ඉන්න සියලුම මන්ත්‍රීවරුන් එකතුවෙලා මේ තීරණය ගත යුතු වෙනවා."
+
+◼️
+
+[Data](articles/39cc6891.json)
+
+---
+
 ### Who are favourites to win T20 World Cup in USA and WI
 
 *2024-05-28 19:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Who-are-favourites-to-win-T20-World-Cup-in-USA-and-WI/108-283538) · `en`
@@ -751,6 +789,8 @@ Speaking to the media, NPP Executive Member Dr. Nalinda Jayatissa said if the sc
 ...
 
 [Data](articles/546acf16.json)
+
+[Extended Data](ext_articles/546acf16.ext.json)
 
 ---
 
@@ -1161,6 +1201,8 @@ The Differently Abled Branch of the Sri Lanka Girl Guides Association (SLGGA) wi
 ◼️
 
 [Data](articles/b927c9c4.json)
+
+[Extended Data](ext_articles/b927c9c4.ext.json)
 
 ---
 
@@ -2261,51 +2303,5 @@ The terrorist attacks targeted 8 places, including Colombo, were killed and over
 [Data](articles/29dbe6fd.json)
 
 [Extended Data](ext_articles/29dbe6fd.ext.json)
-
----
-
-### The government has decided on a compulsory retirement scheme
-
-*2024-05-28 14:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197111) · `si`
-
-The government has approved a mandatory retirement scheme, initiated by the Minister of Agriculture and Plantation Industries. This decision follows positive feedback from 267 employees under the scheme, leading to the recommendation of integrating excess workers from Sri Lanka Ports Authority and Sri Lanka Cement Corporation through a voluntary retirement plan overseen by a committee led by the Prime Minister's office.
-
-🟩
-
-Cabinet approval has been given to spending Rs.
-
-The proposal was presented to the Cabinet by Minister of Agriculture and Plantation Industries.
-
-එහි වැඩිදුරටත් සඳහන් වන්නේ මේ වනවිට අනිවාර්ය විශ්‍රාම වන්දි ක්‍රමය යටතේ විශ්‍රාම ලැබීමට සේවකයින් 267 දෙනෙකු මනාපය පළ කර ඇති බවය.
-
-ඒ අනුව, රාජ්‍ය ව්‍යවසායයන්හි අතිරික්ත සේවකයින් ස්වේච්ඡා විශ්‍රාම ගැන්වීමේ යෝජනා ක්‍රමය යටතේ විශ්‍රාම ගැන්වීම සම්බන්ධයෙන් අග්‍රාමාත්‍ය ලේකම්ගේ ප්‍රධානත්වයෙන් පත් කරන ලද නිලධාරි කමිටුවේ නිර්දේශයන්ට යටත්ව, සීමාසහිත ලංකා පොහොර සමාගම හා සීමාසහිත කොළඹ කොමර්ෂල් පොහොර සමාගම ඒකාබද්ධ කිරීමට අදාළව සේවකයින් සඳහා ක්‍රියාත්මක කළ යුතු අනිවාර්ය විශ්‍රාම වන්දි ක්‍රමය ක්‍රියාත්මක කිරීමට මෙලෙස කැබිනට් අනුමැතිය හිමිව තිබේ.
-
-◼️
-
-[Data](articles/ff090559.json)
-
-[Extended Data](ext_articles/ff090559.ext.json)
-
----
-
-### Central Bank says market interest rates should be reduced
-
-*2024-05-28 14:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/99489/central-bank-says-market-interest-rates-should-be-reduced) · `en`
-
-The Central Bank of Sri Lanka (CBSL) states that there is a possibility to further reduce the market interest rates.
-
-The officials of CBSL also mentioned that it is expected that the relevant reductions will be provided to the customers by the country’s financial institutions soon.
-
-Meanwhile, the Governor of the Central Bank of Sri Lanka (CBSL), Dr. Nandalal Weerasinghe stated that although the financial institutions have reduced those rates, they have not been reduced to the same extent as the reduction of interest rates of the Central Bank.
-
-Speaking at a press conference today (28), he further stated that the interest rates for newly issued loans should be reduced.
-
-“The changes that need to be made for the loans that have been issued by now will happen soon. We are keeping an eye on that. At the same time, we have seen instances where new loans area issued for higher interest rates. But that shouldn’t happen. We expect that change to happen soon,” he said.
-
-◼️
-
-[Data](articles/37712829.json)
-
-[Extended Data](ext_articles/37712829.ext.json)
 
 ---

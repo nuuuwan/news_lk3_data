@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-28 09:34:14**
+As of **2024-05-28 09:53:36**
 
 ## Newspaper Stats
 
-*Scraped **26,713** Articles*
+*Scraped **26,715** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,55 +20,103 @@ adaderanalk | 3,056
 tamilmirrorlk | 3,128
 virakesarilk | 4,085
 dailymirrorlk | 4,214
-adaderanasinhalalk | 4,282
+adaderanasinhalalk | 4,284
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,711 (100.0%) of 26,713 articles have been extended.
+26,713 (100.0%) of 26,715 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-28 (Tuesday)
 
-### ආර්ථික විවාදයට දින ඉල්ලා සජබයෙන් යළි සිහි කැඳවීමක්
+### වැල්ලම්පිටියේ කුඩු රැජින අත්අඩංගුවට
+
+*2024-05-28 09:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197097) · `si`
+
+ග්‍රෑන්ඩ්පාස් පොලිස් වසමේ නව කැලණි පාලම, සේදවත්ත, වැල්ලම්පිටිය ප්‍රදේශයේ සිදුකළ යුක්තිය මෙහෙයුමක් අතර තුර හෙරොයින් සන්තකයේ තබාගෙන සිටි කාන්තාවක් අත්අඩංගුවට ගෙන තිබේ.
+
+ඊයේ (27) සිදුකළ අදාළ වැටලීමේ දී හෙරොයින් ග්‍රෑම් 7යි මිලිග්‍රෑම් 280ක් සමග 'වැල්ලම්පිටියේ කුඩු රැජින' ලෙස හඳුන්වන මෙම කාන්තාව පොලිස් විශේෂ කාර්ය බළකාය විසින් අත්අඩංගුවට ගෙන වැඩිදුර පරීක්ෂණ සඳහා ග්‍රෑන්ඩ්පාස් පොලීසය වෙත භාර දී ඇත.
+
+◼️
+
+[Data](articles/362dce06.json)
+
+---
+
+### විදුලිසැර වැදී තවත් මරණයක්
+
+*2024-05-28 09:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197096) · `si`
+
+වාරියපොළ වඳුරැස්ස ප්‍රදේශයේ දී විදුලි සැර වැදී පුද්ගලයෙකු මියගොස් තිබේ.
+
+පොලීසිය ප්‍රකාශ කළේ වඳුරැස්ස, මාවත වැවේ මසුන් ඇල්ලීමට ගිය අයෙකු නැවත නිවසට නොපැමීණීම හේතුවෙන් සිදුකළ සොයාබැලීමක දී මාවත වැවේ තිබී අදාළ පුද්ගලයාගේ මළසිරුර හමුවී ඇති බවය.
+
+මියගොස් ඇත්තේ 47 හැවිරිදි වඳුරැස්ස ගලයාය ප්‍රදේශයේ පදිංචිව සිටි අයෙකු බව සඳහන්ය.
+
+අදාළ පුද්ගලයාගේ පශ්චාත් මරණ පරීක්ෂණය කුරුණෑගල රෝහලේදී සිදුකර ඇති අතර එහිදී මෙම මරණය විදුලිය සැර වැදීම හේතුවෙන් සිදුවූවක් බවට අනාවරණය වී තිබේ.
+
+ඒ අනුව සිදුකළ විමර්ශනයේදී වැව අසල සතුන් දඩයම් කිරීම සඳහා අදින ලද අනවසර විදුලි රැහැනකින් විදුලිය ජලයට කාන්දු වී මෙම පුද්ගලයාට විදුලිය සැර වැදී ඇති බවට තහවුරු වී බව පොලීසිය පැවසුවේය.
+
+අනවසර විදුලි රැහැන් ඇදීම සම්බන්ධයෙන් වඳුරැස්ස ප්‍රදේශයේ පදිංචි පුද්ගලයෙකු අත්අඩංගුවට ගෙන ඇති අතර සිද්ධිය සම්බන්ධයෙන් වාරියපොළ පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+
+◼️
+
+[Data](articles/a3cc7521.json)
+
+---
+
+### Receive Receive Receive Receipt of animation demanding the economic debate
 
 *2024-05-28 08:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197095) · `si`
 
-සමගි ජන බලවේගය යෝජනා කළ දිනවලින් ආර්ථික කමිටු විවාදයට ලබාදෙන දින පිළිබඳව කඩිනමින් දැනුම් දෙන ලෙස පාර්ලිමේන්තු මන්ත්‍රී නලින් බණ්ඩාර මහතා ජාතික ජන බලවේගයෙන් ඉල්ලීමක් කර තිබේ.
+MP Nalin Bandara wrote to the Executive Member, requesting details on the economic committee debate's scheduling. His party has agreed to proceed without further discussion. However, Sunil Handunnetti, a Politburo member, insists the economic debate should follow the leadership one, maintaining the party's stance unchanged.
 
-ජාතික ජන බලවේගයේ විධායක සභික වෛද්‍ය නලින්ද ජයතිස්ස මහතා වෙත ලිපියක් යොමු කරමින් මෙම ඉල්ලීම කර ඇති බව වාර්තා වේ.
+🟩
 
-ආර්ථික කමිටු විවාදයට ඇරයුම් කර තිබිය දී එයට ඉදිරිපත් නොවී නායකත්ව විවාදයට කළ යෝජනාව කිසිදු පැකිලීමකින් තොරව සිය පක්ෂය පිළිගෙන ඇති බව නලින් බණ්ඩාර මන්ත්‍රීවරයා සිය ලිපිය මඟින් දැනුම් දී තිබේ.
+MP Nalin Bandara has requested the national propaganda about the days of the dates who proposed the date of the economic committee debate.
 
-විවාද දෙක අතරින් ආර්ථික විවාදය පළමුව පැවැත්වීමත් දෙවනුව නායකත්ව විවාදය පැවැත්වීමත් පිළිබඳ සිය ස්ථාවරය එලෙසම පවතින අතර ආර්ථික කමිටු විවාදයට ලබාදෙන දිනය නොපමාව දැනුම් දෙන ලෙස අදාළ ලිපිය මඟින් මන්ත්‍රීවරයා දැනුම් දී ඇත.
+It is reported that this request has been made in a letter to the Executive Member of the National Power Dr. Nalinda Jayatissa.
 
-කෙසේවෙතත් ජාතික ජන බලවේගයේ දේශපාලන මණ්ඩල සභික සුනිල් හඳුන්නෙත්ති මහතා සඳහන් කළේ, අදාළ විවාද සම්බන්ධයෙන් සිය පක්ෂයේ ස්ථාවරයේ ද කිසිදු වෙනසක් නොමැති බවය.
+His letter has informed Nalin Bandara that his party has accepted its party without hesitation without hearing the economic committee debate.
 
-පළමුව නායකත්ව විවාදය පවත්වා අනතුරුව ආර්ථික කමිටු විවාදය පැවැත්විය යුතු බව සුනිල් හඳුන්නෙත්ති මහතා සඳහන් කළේය.
+Among the two debate, the leadership debate is the same in order to hold the economic debate, and the MP has informed the letter to inform the economic committee debate.
+
+However, the Politburo member of the National Power, Sunil Handunnetti said that there is no change in the position of the party.
+
+After conducting the leadership debate first, the economic committee debate should be held, Mr. Sunil Handunnetti said.
 
 ◼️
 
 [Data](articles/27a164c6.json)
 
+[Extended Data](ext_articles/27a164c6.ext.json)
+
 ---
 
-### කම්කරු නීති වෙනස් නොකරන්නැයි රජයට ඉල්ලීමක්
+### The government requests the government not to change labor laws
 
 *2024-05-28 08:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197094) · `si`
 
-නව කම්කරු නීතියක් සඳහා ඉදිරිපත් වී ඇති වත්මන් යෝජනා නතර කරන ලෙස ඇම්නෙස්ටි ඉන්ටර්නැෂනල් සංවිධානය රජයෙන් ඉල්ලීමක් කර තිබේ.
+Amnesty International urges the government against new labor law changes, citing concerns over weakened worker protections and disregard for international standards. The organization emphasizes the need for consultation with workers and their representatives before any reforms.
 
-කම්කරු නීතිවල ප්‍රතිසංස්කරණ සිදුකළ යුත්තේ කම්කරුවන්ගේ සහ ඔවුන්ගේ නියෝජිතයන්ගේ නිසි උපදෙස් ලබා ගැනීමෙන් පසුව පමණක්  බව ඇම්නෙස්ටි ඉන්ටර්නැෂනල් සංවිධානය පෙන්වා දෙයි.
+🟩
 
-ජාත්‍යන්තර ප්‍රමිතීන් සහ අයිතිවාසිකම් ඉවත් කිරීම මඟින් කම්කරු අයිතිවාසිකම් සහ ආරක්ෂාව දුර්වල කරන යෝජිත නව ප්‍රතිසංස්කරණ පිළිබදව අදාළ සංවිධානය සිය කනස්සල්ල පළකර තිබේ.
+The Amnesty International Organization has requested the government to stop the current proposals for a new labor law.
 
-ශ්‍රී ලංකාවේ වෘත්තීය සමිති සහ සිවිල් සංවිධානවල ඉල්ලීම් සැලකිල්ලට නොගතහොත් ඉදිරියේ දී දැඩි විරෝධතා ඇතිවිය හැකි බවට ඇම්නෙස්ටි ඉන්ටර්නැෂනල් සංවිධානය අනතුරු ඇඟවීමක් ද සිදුකර ඇති බව වාර්තා වේ.
+The Reforms of labor laws should be done only after the proper advice of workers and their representatives.
+
+The organization has expressed their concern on the proposed new reforms that weaken workers' rights and protection by removing international standards and rights.
+
+The Amnesty International (SLC) has also been warned that the demands of the trade unions and civil organizations in Sri Lanka cannot be taken into consideration.
 
 ◼️
 
 [Data](articles/5ec3b2df.json)
+
+[Extended Data](ext_articles/5ec3b2df.ext.json)
 
 ---
 
@@ -2175,55 +2223,5 @@ Dr. Delhimbal was remanded on the 22nd following the Criminal Investigation Divi
 [Data](articles/08913843.json)
 
 [Extended Data](ext_articles/08913843.ext.json)
-
----
-
-### 2000 people alive
-
-*2024-05-27 17:14:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/2000-பேர்-உயிருடன்-புதையுண்டனர்/50-337986) · `ta`
-
-A massive landslide in Papua New Guinea buried over 2,000 people alive, causing widespread destruction and difficulty in rescue efforts due to ongoing soil collapses. Initial reports indicated 100 deaths, but fears of thousands more casualties rise as recovery efforts continue, supported by international aid from Australia and the United States.
-
-🟩
-
-In a letter to the UN, the country's disaster management department said that more than 2,000 people were buried alive in the largest landslide in Papua New Guinea last Friday.
-
-Papua New Guinea in the Pacific Ocean. In this, rocks and trees fell on apartments.
-
-The people who were sleeping in the houses were trapped in it. Hundreds of houses were demolished and damaged. The country's officials first said that 100 people were killed in the landslide.
-
-5 bodies and one foot of the dead were recovered in the mud yesterday. At this point, more than a thousand houses were buried in the village of Kakolam in the province of Enga.
-
-Officials fear that more than 2 thousand people may be buried alive as rescue operations intensified. Rescue work is underway in the province of the disaster.
-
-...
-
-[Data](articles/5adfedbc.json)
-
-[Extended Data](ext_articles/5adfedbc.ext.json)
-
----
-
-### Sri Lanka rupee closes weaker at 300.50/70 to US dollar
-
-*2024-05-27 17:13:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-weaker-at-300-50-70-to-us-dollar-164978/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee depreciated slightly to close at 300.50/70 to the US dollar on Monday, from 300.10/30 the previous week, dealers said. Bond yields were slightly up.
-
-A bond maturing on 15.12.2026 closed up at 9.90/10.05 percent from 9.85/10.00 percent.
-
-A bond maturing on 15.09.2027 closed up at 10.30/40 percent from 10.25/40 percent.
-
-A bond maturing on 01.07.2028 closed up at 10.80/95 percent from 10.70/80 percent.
-
-A bond maturing on 15.01.2030 closed up at 11.60/80 percent from 11.55/70 percent.
-
-A bond maturing on 01.10.2032 closed up at 11.85/12.05 percent from 11.75/90 percent. (Colombo/May27/2024)
-
-◼️
-
-[Data](articles/c08cdb4c.json)
-
-[Extended Data](ext_articles/c08cdb4c.ext.json)
 
 ---

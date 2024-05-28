@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-28 22:33:59**
+As of **2024-05-28 22:51:39**
 
 ## Newspaper Stats
 
-*Scraped **26,902** Articles*
+*Scraped **26,904** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 1,456
 economynextcom | 1,539
 dailyftlk | 1,568
 adalk | 2,293
-adaderanalk | 3,074
+adaderanalk | 3,075
 tamilmirrorlk | 3,152
-virakesarilk | 4,127
+virakesarilk | 4,128
 dailymirrorlk | 4,241
 adaderanasinhalalk | 4,319
 
@@ -26,31 +26,53 @@ adaderanasinhalalk | 4,319
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,901 (100.0%) of 26,902 articles have been extended.
+26,902 (100.0%) of 26,904 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-28 (Tuesday)
 
-### කබඩි පරාජයන්ට හේතුව දක්ෂයින් හලා යෑම ද ?
+### State Minister highlights importance of disaster preparedness at school level
+
+*2024-05-28 22:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/99499/state-minister-highlights-importance-of-disaster-preparedness-at-school-level) · `en`
+
+Safeguarding the safety of school children through ensuring a safe school environment especially during prevalent weather-related emergency situations is a top priority in government’s disaster management programme, said State Minister of Defence Premitha Bandara Tennakoon.
+
+He stated this during a meeting held at the Disaster Management Centre in Colombo today (May 28) with media representative after discussions with senior state officials including District and Divisional Secretaries, Education Ministry authorities Environment Ministry officials and INGO representatives on separate occasions regarding disaster management preparedness.
+
+The state minister said that he had requested these officials to update and activate district committees to make risk assessments and appraise the Disaster Management Centre in order for them to prepare contingency plans to face emergency situations effectively.
+
+...
+
+[Data](articles/8d003c8c.json)
+
+---
+
+### Should the crust defeats be kept?
 
 *2024-05-28 22:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197133) · `si`
 
-බංග්ලාදේශයේ පැවැත්වෙන බංගබන්දු කුසලාන කබඩි තරගාවලියේ පළමු තරග දෙකෙන්ම ශ්‍රී ලංකා කණ්ඩායම පරාජයට පත්වුණි.
+The Sri Lankan Kabaddi team suffered two consecutive losses in the Bangabandhu Cup Tournament in Bangladesh. The team tied 28-28 against Kenya in its first match and lost to Bangladesh. Players and coaches were criticized for participating despite concerns raised about selection procedures.
 
-බංග්ලාදේශයේ පැවැත්වෙන බංගබන්දු කුසලාන කබඩි තරගාවලියේ අඛණ්ඩව සිය දෙවන පරාජය ද ලැබීමට ශ්‍රී ලංකා කබඩි කණ්ඩායමට අද සිදු විය.
+🟩
 
-ශ්‍රී ලංකාව ඊයේ සහභාගී වූ පළමු තරගයද කෙන්යාව හමුවේ ලකුණු 56ට 28ක් ලෙස දරුණු පරාජයක් ලැබීය.
+The Sri Lankan team was defeated by both the first two matches of the Bangabadu Cup Kabadi Tournament in Bangladesh.
 
-මෙම තරගාවලිය සඳහා ක්‍රීඩා අමාත්‍යවරයාගේ අනුමැතිය හිමි නොවූ කණ්ඩායමක් සහභාගී කරවා ඇති බවට පසුගියදා කබඩි ක්‍රීඩකයන්, පුහුණුකරුවන් ඇතුළු පිරිසක් චෝදනා එල්ල කර තිබුණි.
+The Sri Lankan Kabaddi team continued to receive his second defeat in Bangladesh crude crustaceans.
 
-ක්‍රීඩා අමාත්‍යාංශය වෙත පැමිණ ලිපියක් භාරදෙමින් ඔවුන් සඳහන් කළේ තේරීම් තරග පැවැත්වීමටත් පෙර දක්ෂ ක්‍රීඩකයින් රැසකටම අවස්ථාව අහිමි කරමින් බංගබන්දු තරගාවලිය සඳහා සංචිතයක් තෝරාගැනීමට කබඩි බලධාරීන් පියවර ගත් බවටය.
+Sri Lanka was the first match participated in yesterday and a score of 28 to 28 runs in Kenya.
 
-ශ්‍රී ලංකා කබඩි පිල තමන් සහභාගී වූ මුල් තරග දෙකේදි මෙලෙස දරුණු පරාජයක් ලැබුවේ එවන් පසුබිමකය.
+Kabaddi players, trainers have been accused of participating in the tournament.
+
+They referred to a letter to the Ministry of Sports and stated that the cridal authorities have taken steps to select a reserve before the selection matches.
+
+Such a failure was a severe defeat of Sri Lanka Kabaddi team in the first two participants.
 
 ◼️
 
 [Data](articles/70f03f65.json)
+
+[Extended Data](ext_articles/70f03f65.ext.json)
 
 ---
 
@@ -160,6 +182,26 @@ The Minister said the train service is also in critical condition and said even 
 
 ---
 
+### கிராம சேவகர்களின் பிரச்னைகளைத் தீர்ப்பது தொடர்பில் அரசாங்கம் கவனம் செலுத்தியுள்ளது!
+
+*2024-05-28 20:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/184725) · `ta`
+
+அரச சேவையின் ஏனைய சேவைகளுடன் முரண்படாத வகையில் கிராம சேவகர் சேவையில் உள்ள பிரச்சினைகளுக்கு சாத்தியமான தீர்வுகளை முன்வைக்குமாறு தேசிய பாதுகாப்பு தொடர்பான ஜனாதிபதியின் சிரேஷ்ட ஜனாதிபதி பணிக்குழாம் பிரதானி சாகல ரத்நாயக்க சம்பந்தப்பட்ட அதிகாரிகளுக்கு அறிவுறுத்தியுள்ளார்.
+
+மேலும், தற்போதுள்ள பிரச்சினைகளை பேசித் தீர்த்து பொதுவான உடன்பாட்டை எட்டுமாறும் அதிகாரிகளிடம் வலியுறுத்தினார்.
+
+கிராம சேவகர் சேவையில் ஏற்பட்டுள்ள பிரச்சினைகள் தொடர்பில் கிராம சேவகர்களின் தொழிற்சங்க சம்மேளன பிரதிநிதிகள் மற்றும் அதனுடன் தொடர்புடைய நிறுவனங்களுடன் ஜனாதிபதி அலுவலகத்தில் இன்று (28) இடம்பெற்ற கலந்துரையாடலில் சாகல ரத்நாயக்க இந்த அறிவுறுத்தல்களை வழங்கினார்.
+
+இதன்போது கிராம சேவகர் சேவை யாப்பு தொடர்பான பிரச்சினைகள் மற்றும் சம்பள பிரச்சினைகள் தொடர்பில் ஆராயப்பட்டது.
+
+இங்கு கிராம சேவகர்களின் பதவி உயர்வு தொடர்பில் பல பிரச்சினைகள் எழுந்துள்ளதால் அவற்றைத் தீர்க்கும் வகையில் குறித்த சேவைக்கான சட்டமூலம் மாற்றியமைக்கப்பட வேண்டுமென கிராம சேவகர்களின் சம்மேளனம் வலியுறுத்தியது.
+
+...
+
+[Data](articles/94b480a8.json)
+
+---
+
 ### Pope Francis apologizes over use of gay slur
 
 *2024-05-28 20:37:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Pope-Francis-apologizes-over-use-of-gay-slur/108-283540) · `en`
@@ -179,6 +221,26 @@ The Pope’s comments came to light on Monday when two Italian newspapers - the 
 [Data](articles/41bfd1a0.json)
 
 [Extended Data](ext_articles/41bfd1a0.ext.json)
+
+---
+
+### The President's Directorate to the authorities to continue relief work until the disaster is reduced!
+
+*2024-05-28 20:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/184715) · `ta`
+
+President Wickremesinghe urges continued relief efforts until disaster mitigation is achieved, directing authorities to assist victims promptly. The Disaster Management Center is taking steps to compensate those affected.
+
+🟩
+
+President Ranil Wickremesinghe has directed the relevant authorities to provide immediate relief to the people affected by the inclement weather and to continue the relief work until the disaster is reduced.
+
+Accordingly, the Disaster Management Center has taken steps to compensate for the victims.
+
+◼️
+
+[Data](articles/7cc11279.json)
+
+[Extended Data](ext_articles/7cc11279.ext.json)
 
 ---
 
@@ -727,26 +789,6 @@ He further said that using the bus service, people can travel more than those wh
 [Data](articles/a132c7eb.json)
 
 [Extended Data](ext_articles/a132c7eb.ext.json)
-
----
-
-### The President's Directorate to the authorities to continue relief work until the disaster is reduced!
-
-*2024-05-28 17:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/184715) · `ta`
-
-President Wickremesinghe urges continued relief efforts until disaster mitigation is achieved, directing authorities to assist victims promptly. The Disaster Management Center is taking steps to compensate those affected.
-
-🟩
-
-President Ranil Wickremesinghe has directed the relevant authorities to provide immediate relief to the people affected by the inclement weather and to continue the relief work until the disaster is reduced.
-
-Accordingly, the Disaster Management Center has taken steps to compensate for the victims.
-
-◼️
-
-[Data](articles/7cc11279.json)
-
-[Extended Data](ext_articles/7cc11279.ext.json)
 
 ---
 
@@ -2313,47 +2355,5 @@ The government has granted Rs. 320 million to the Agrarian Development Departmen
 [Data](articles/12fe042c.json)
 
 [Extended Data](ext_articles/12fe042c.ext.json)
-
----
-
-### Suspect arrested over Ahungalla shooting incident
-
-*2024-05-28 13:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/99487/suspect-arrested-over-ahungalla-shooting-incident) · `en`
-
-An individual has been arrested in connection with the shooting incident that occurred on May 08 in Lokanwatta, Ahungalla.
-
-The officers of the Police Special Task Force (STF) camp in Vauniya had arrested this suspect in the Bogaswewa area in Weherathenna in the Weli Oya police division.
-
-The arrested suspect is a 23-year-old resident of the Bogaswewa area in Weherathenna.
-
-Police stated that the arrested suspect was the rider of the motorcycle used to carry out the shooting.
-
-◼️
-
-[Data](articles/c8168edf.json)
-
-[Extended Data](ext_articles/c8168edf.ext.json)
-
----
-
-### Sri Lanka president’s UNP proposes postponing elections by two years
-
-*2024-05-28 13:29:00* · [`economynextcom`](https://economynext.com/sri-lanka-presidents-unp-proposes-postponing-elections-by-two-years-165079/) · `en`
-
-ECONOMYNEXT — Sri Lanka’s United National Party (UNP) has called for a referendum to postpone both presidential and parliamentary elections by two years to extend President Ranil Wickremesinghe’s term to continue ongoing economic reforms.
-
-UNP general secretary Palitha Range Bandara called on the main opposition Samagi Jana Balawegaya (SJB) and the leftist opposition formation National People’s Power (NPP) to support the move.
-
-At a press conference on Tuesday May 28, Bandara said postponing the two elections would not be undemocratic as it would be the result of elected representatives in parliament passing a motion, followed by a referendum.
-
-Update: The government has distanced itself from a statement by President Ranil Wickremesinghe’s United National Party (UNP) calling for delaying elections by two years.
-
-Sri Lanka govt distances itself from UNP call for postponing electionsSee more
-
-...
-
-[Data](articles/b0d939fd.json)
-
-[Extended Data](ext_articles/b0d939fd.ext.json)
 
 ---

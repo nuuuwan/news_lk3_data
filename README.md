@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-28 13:53:50**
+As of **2024-05-28 14:05:33**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,296
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,772 (99.9%) of 26,786 articles have been extended.
+26,781 (100.0%) of 26,786 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,83 +48,113 @@ Police stated that the arrested suspect was the rider of the motorcycle used to 
 
 [Data](articles/c8168edf.json)
 
+[Extended Data](ext_articles/c8168edf.ext.json)
+
 ---
 
-### මැතිවරණ දෙකම කල්දාන්න UNPයෙන් යෝජනාවක්
+### Proposal to go to both elections
 
 *2024-05-28 13:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197109) · `si`
 
-ඉදිරියේදී පැවැත්වීමට නියමිත මැතිවරණ දෙක වසර දෙකකින් කල්දැමීමට කටයුතු කළ යුතු බව එක්සත් ජාතික පක්ෂය පවසයි.
+The UNP proposes postponing the upcoming elections for two years to focus on economic recovery and fulfilling international agreements, avoiding a return to the financial state of 2022.
 
-අද පැවති ප්‍රවෘත්ති සාකච්ඡාවකට එක්වෙමින් එක්සත් ජාතික පක්ෂ මහලේකම් පාලිත රංගේ බණ්ඩාර මහතා මේ බව පැවසීය.
+🟩
 
-"දැන් මේ බංකොලොත් භාවයෙන් මුදාගන්න තියෙනවා, රටේ ආර්ථිකය හදන්න තියෙනවා, IMF සහ ජාත්‍යන්තර සංවිධාන සමග අපේ එකඟතාවයන් තියෙනවා. මේ එකඟතාවයන් අපි කඩකරගත්තොත් නැවතත් අපි යන්නේ අර 2022 තිබුණ තැනට. ඉතින් අපි දැන දැන එතැනට ගිහිල්ලා විනාශ වෙනවා ද ? එහෙම නැත්නම් පොදු එකඟතාවයකට ඇවිල්ලා අවුරුදු දෙකකට මේ දෙකම දික් කරනවා ද ? ජනාධිපතිතුමාට ඉන්න පෙරේතකමට නෙමෙයි. අපියි මේ කියන්නේ . පාර්ලිමේන්තු ඡන්දයකට ගිහිල්ලා ආපහු නාස්ති කරන්න එපා. දෙකම අවුරුදු දෙකකට කල් දාන්න, ඒ අවුරුදු දෙක ඇතුළත මේ ප්‍රශ්න ටික නිරවුල් කරගෙන මැතිවරණයට යන්න පුළුවන්."
+The United National Party says that the two-end elections should be postponed in two years.
+
+UNP General Secretary Palitha Range Bandara made this observation at a press conference held today.
+
+"Now there is now the bankruptcy rescued, build the economy of the country, we have our agreements with IMF and International Organizations. If we break these agreements, we will again go back to where there were 2022. So do we know and go to it?Or do you extend both of these two years to come to a common agreement?The President is not overwhelming. We say this. Don't waste a parliamentary vote and waste again. Put both two years, and within two years, these questions can be settled and go to the election. "
 
 ◼️
 
 [Data](articles/a57fe582.json)
 
+[Extended Data](ext_articles/a57fe582.ext.json)
+
 ---
 
-### උතුරු දුම්රිය මාර්ගයේ සංවර්ධන කටයුතු නිම කරන්නේ කවදාද ?
+### When will the development activities of the Northern Railway line be completed?
 
 *2024-05-28 13:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197108) · `si`
 
-උතුරු දුම්රිය මාර්ගයේ සංවර්ධන කටයුතු එළඹෙන පොසොන් පොහොයට පෙර නිම කිරීමට හැකියාවක් නොමැති බව කැබිනට් මාධ්‍ය ප්‍රකාශක ප්‍රවාහන අමාත්‍ය බන්දුල ගුණවර්ධන මහතා පවසයි.
+Development of the Northern Railway line is expected to finish by August, but the station completion is uncertain. A special bus service for Poson Poya is planned, involving the Ceylon Transport Board and the private sector.
 
-අද (28) පැවැති කැබිනට් තීරණ දැනුම්දීමේ මාධ්‍ය හමුවේදී මාධ්‍යවේදියෙකු විසින් යොමුකළ ප්‍රශ්නයකට පිළිතුරු දෙමින් අමාත්‍යවරයා ඒ බව සඳහන් කළේය.
+🟩
 
-අමාත්‍යවරයා මෙහිදී පවසා සිටියේ, උතුරු දුම්රිය මාර්ගයේ සංවර්ධන කටයුතු අගෝස්තු මාසය වනවිට නිමකළ හැකි බවය.
+Cabinet spokesman Bandula Gunawardena says that the development work of the Northern Railway line is not possible to complete the Northern Railway Station.
 
-මේ අතර පොසොන් පොහොය නිමිති කරගෙන විශේෂ බස් රථ සේවාවක් අරම්භ කරන බවද අමාත්‍යවරයා සඳහන් කළේය.
+The Minister made this statement in response to a question raised by a journalist at a press briefing held today.
 
-එම බස් රථ සේවා පොසොන් පොහොය යෙදී ඇති දිනට පෙර දිනත්, පොසොන් පොහොය දිනත් ක්‍රියාත්මක කරන බව ඔහු පවසා සිටියේය.
+The Minister said that the development work of the Northern Railway can be completed by August.
 
-මෙම විශේෂ බස් රථ සේවාව සඳහා ලංකා ගමනා ගමන මණ්ඩලය හා පුද්ගලික අංශය සමඟ විශේෂ වැඩපිළිවෙළක් යොදා ඇති බවත් එම බස් රථ ගමන් කරන කාලසටහන පිළිබඳ ඉදිරියේ දී දැනුම්දෙන බවත් අමාත්‍යවරයා මෙහිදී වැඩිදුරටත් පැවසීය.
+Meanwhile, the Minister said that a special bus service will be launched in the Poson Poya.
+
+He also said that the bus service Poson Poya will be implemented on the date of the date on the day.
+
+The Minister further stated that a special program has been conducted with the Ceylon Transport Board and the private sector for this special bus service.
 
 ◼️
 
 [Data](articles/e1034e44.json)
 
+[Extended Data](ext_articles/e1034e44.ext.json)
+
 ---
 
-### බසය නොනැවැත්වීමට උරණ වී ලංගම රියදුරාව පැහැරගෙන යයි
+### SLTB driver abducts the bus
 
 *2024-05-28 13:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197107) · `si`
 
-බස් රථය නොනැවැත්වීම හේතුවෙන් උරණ වූ පුද්ගලයෙක්, තවත් තිදෙනෙක් සමග එක්ව ලංගම බස් රථ රියදුරෙක් පැහැරගෙන ගොස් පහර දී තිබේ.
+In a series of incidents, a SLTB bus driver and three passengers were abducted and assaulted by unidentified individuals. The driver, returning from Colombo to Dehiwala, encountered threats and physical attacks, including being forced off his vehicle at a remote location. The culprits, believed to be local thugs, were later apprehended by the Bandaragama Police, with one identified as a driver from the Colombo Transport Board. All suspects were remanded pending further investigation.
 
-මේ සම්බන්ධයෙන් ලද පැමිණිල්ලකට අනුව එකම පවුලේ සහෝදරයින් දෙදෙනෙක් ඇතුළු සිව්දෙනෙක් බණ්ඩාරගම පොලිසිය විසින් අත්අඩංගුවට ගනු ලැබීය.
+🟩
 
-බණ්ඩාරගම රයිගම සිට දෙහිවල හෙට්ටියාවත්ත දක්වා සෑම දිනකම ගමනාන්තයේ යෙදෙන ලංගම බස් රථයක රියදුරෙක් පසුගියදා පහරකෑමකට ලක්ව තිබේ.
+A cargo bus driver injected with three others have been abducted and assaulted by the bus.
 
-මෙම රියදුරු කොළඹ දක්වා බස් රථය ධාවනය කරමින් සිටි අතරතුර ගැලණිගම සහ විදාගම අතර බස් නැවතුමක රැඳී සිටි පුද්ගලයෙක් දින කිහිපයක් එම බසය නැවැත්වීමට උත්සාහ දරා තිබුණත් රියදුරු එම ස්ථානයේ බස් රථය නොනවත්වා ධාවනය කර තිබුණි.
+According to a complaint, the Bandaragama Police were arrested by the Bandaragama Police.
 
-ඒ , එම බස් රථය සීමිත නැවතුම් බස් රථයක් ලෙස ඩිපෝවෙන් හඳුන්වා දී තිබීම හේතුවෙනි.
+A driver of a CTB bus at the destination is recently assaulted every day from Rigama to Dehiwala.
 
-දින කිහිපයක්ම බස් රථය නොනැවැත්වීම සම්බන්ධයෙන් උරණ වූ අදාළ පුද්ගලයා රියදුරුගේ ජංගම දුරකථනයට ඇමතුම් දී තර්ජනය කර ඇති බව වාර්තා වේ.
+While the driver was running the bus from the bus to Colombo, a man who had stayed in a bus stop had tried to stop the bus for a few days, but the driver had continued to run the bus.
 
-පසුව එම පුද්ගලයා තවත් පුද්ගලයින් තිදෙනෙක් සමග පසුගිය 25 වැනිදා රාත්‍රීයේදී රියදුරුගේ නිවසට ගොස් තිබේ.
+That was due to the introduction of the bus as a limited rest of the deposition.
+
+It is reported that the person who is a person who is a person who is analyzed in the area has threatened the driver's mobile phone.
+
+The man later went to the driver's house on the 25th of the night of three other people.
+
+The driver was taken out of the house and took to Kotelawala Uyanwatta Wewa Road to the Kotelawala Weynewatta Wewa Road and hit a sword.
+
+The driver had then abandoned and the suspects had fled the car.
 
 ...
 
 [Data](articles/20ed5f6e.json)
 
+[Extended Data](ext_articles/20ed5f6e.ext.json)
+
 ---
 
-### திருகோணமலை, தோப்பூரில் இரண்டு உணவகங்களுக்கு சட்ட நடவடிக்கை..!
+### Legal action for two restaurants in Thoppur, Trincomalee
 
 *2024-05-28 13:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/184681) · `ta`
 
-திருகோணமலை, மூதூர் சுகாதார வைத்திய அதிகாரி பிரிவிலுள்ள தோப்பூர் பிரதேசத்திலுள்ள மாலை நேரக் கடைகள் திங்கட்கிழமை (27) மாலை திடீர் பரிசோதனைக்குட்படுத்தப்பட்டது.
+In Thoppur, Trincomalee, health inspectors took legal action against two restaurants after inspections revealed potential food safety risks. The action was prompted by previous warnings and tests suggesting violations.
 
-இதன்போது உணவு பாதுகாப்பு பல ஒன்றுகூடல்கள் மூலம் ஆலோசனை வழங்கப்பட்டு, கள பரிசோதனைகள் மூலம் குறைபாடுகள் சுட்டிக்காட்டப்பட்டு, அதனை திருத்துவதற்கு  வழங்கப்பட்ட கால அவகாசத்திற்குள் குறைபாடுள் நிவர்த்தி செய்யாத 02 மாலை நேர சிற்றூண்டி நிலையங்களுக்கு, உணவு பாதுகாப்புக்கு ஆபத்து ஏற்படும் வகையில் உணவு கையாண்டமைக்காக எதிராக  சட்ட நடவடிக்கை எடுக்கப்பட்டுள்ளதாக மூதூர் சிரேஷ்ட பொதுச் சுகாதார பரிசோதகள் ஐ.எம்.றினூஸ் தெரிவித்தார்.
+🟩
 
-மூதூர் சுகாதார வைத்திய அதிகாரி ஹில்மி முஹைதீன் அவர்களின் ஆலோசனைக்கமைய மூதூர் பொதுச் சுகாதார பரிசோதகர்கள் இவ் சுற்றிவளைப்பினை மேற்கொண்டிருந்தனர்.
+Evening shops in Thoppur area of ​​Muttur Health Officer Division in Trincomalee, Trincomalee, were inspected on Monday evening (27).
+
+Muttur Senior Public Health Tests IM Rinus has taken legal action against the food security, which has been advised by a number of food security and field tests, and that it has been taken up for a risk of food safety for 02 evening stations that do not address the shortage of time to correct it.Said.
+
+Muttur Public Health Inspectors were carrying out the raid on the advice of Muttur Health Medical Officer Hilmi Muhaideen.
 
 ◼️
 
 [Data](articles/0438b824.json)
+
+[Extended Data](ext_articles/0438b824.ext.json)
 
 ---
 
@@ -178,17 +208,23 @@ The BCCI said that 3000 people have applied for the post of head coach and will 
 
 ---
 
-### இன்றைய தங்க விலைச் சுட்டெண்
+### Today's gold price index
 
 *2024-05-28 12:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/184677) · `ta`
 
-நாட்டில் தங்கத்தின் விலையில் மாற்றங்கள் ஏற்பட்டு வரும் நிலையில் இன்று  செவ்வாய்க்கிழமை (28) 24 கரட் ஒரு கிராம் தங்கம் 24,100 ரூபாவாகவும், 24 கரட் 8 கிராம் (ஒரு பவுண்) தங்கம் 192,500 ரூபாவாகவும் விற்பனை செய்யப்படுவதாக அகில இலங்கை நகை வியாபாரிகள் சங்கம் தெரிவித்துள்ளது.
+Gold prices in Sri Lanka today: 24k gold at 24,100 rupees per 24 grams and 22k gold at 22,300 rupees per 22 grams.
 
-மேலும்,22 கரட் ஒரு கிராம் தங்கம் 22,300 ரூபாவாகவும், 22 கரட் 8 கிராம் (ஒரு பவுண்) தங்கம் 178,000 ரூபாவாகவும் விற்பனை செய்யப்படுவதாக அச் சங்கம் மேலும் தெரிவித்துள்ளது.
+🟩
+
+The All Ceylon Jewelry Merchants Association said that 24 grams of gold will be sold at 24,100 rupees and 24 kart 8 grams (one pound) gold at 192,500 rupees today as gold prices are changing in the country.
+
+In addition, the association added that 22 grams of gold are sold at 22,300 rupees and 22 carat 8 grams (one pound) gold at 178,000 rupees.
 
 ◼️
 
 [Data](articles/530346c7.json)
+
+[Extended Data](ext_articles/530346c7.ext.json)
 
 ---
 
@@ -234,15 +270,21 @@ When Minister Ranatunga tried to go through it, the demonstrators on both sides 
 
 ---
 
-### இன்றைய நாணய மாற்று விகிதம்
+### Today's currency exchange rate
 
 *2024-05-28 12:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/184678) · `ta`
 
-இன்று செவ்வாய்க்கிழமை (மே 28) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் விற்பனை விலை ரூபா 295.8074 ஆகவும் கொள்வனவு விலை ரூபா 305.4195 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+The current exchange rate is approximately 1 USD = 295.8074 INR.
+
+🟩
+
+The US $ 295.8074 is Rs.
 
 ◼️
 
 [Data](articles/a418c39f.json)
+
+[Extended Data](ext_articles/a418c39f.ext.json)
 
 ---
 
@@ -270,21 +312,27 @@ Meanwhile, Central Bank Governor, Dr. Nandalal Weerasinghe said that the financi
 
 ---
 
-### ධීවර යාත්‍රාවක් පෙර‍ළී අයෙක් මරුට, අයෙක් අතුරුදන් හිමිකරු ගොඩබිමට පීනයි
+### One killed, one dies after falling fishing vessel, one missing owners
 
 *2024-05-28 12:25:54* · [`adalk`](https://www.ada.lk/breaking_news/ධීවර-යාත්‍රාවක්-පෙර‍ළී-අයෙක්-මරුට--අයෙක්-අතුරුදන්-හිමිකරු-ගොඩබිමට-පීනයි/11-409866) · `si`
 
-බලපිටිය හරස්පල ධීවරවරායෙන් මුහුදු ගිය ධීවර යාත්‍රාවක් පෙරලීමෙන් අද (28) ධීවරයෙකු මියගොස් තවත් අයකු අතුරුදහන් වී ඇති බව අහුන්ගල්ල පොලීසිය පවසයි.
+A fisherman was killed, another fell off a fishing vessel and is critically injured, while a third remains missing. The incident occurred near Ahungalla, involving three fishermen from Balapitiya. The survivor is the vessel's owner. Authorities are investigating.
 
-මෙම ධීවර යාත්‍රාවේ හිමිකරු පිහිනා ගොඩබිමට පැමිණ දිවි බේරාගෙන ඇති බවද පොලීසිය කියයි. මෙසේ මියගොස් ඇත්තේ බලපිටිය , විජයාරාම පාරේ පදිංචි සට්ටම්බි අර්ල් නිශාන්ත කුමාර ද සිල්වා (46) අයයි.
+🟩
 
-අතුරුදහන් වී ඇත්තේ බලපිටිය බ්‍රාහ්මණවත්ත ලිපිනයේ පදිංචි අගම්පොඩි සුරේන්ද්‍ර පෙරේරා (42) නැමැති අයෙකි. අද උදෑසන 5.30 ට පමණ බලපිටිය හරස්පල ධීවර තොටුපලින් ධීවරයෝ තිදෙනෙකු මුහුදුගොස් ඇති අතර මුහුදේ පවතින රළු ස්වාභාවය හේතුවෙන් ධීවර යාත්‍රාව පෙරලී ඇති බවද පොලීසිය කියයි.
+Ahungalla police say that a fisherman has been killed and another have disappeared today (28).
 
-ධීවර යාත්‍රාවේ හිමිකරුවන බලපිටිය විජයාරාම පාරේ පදිංචි ලද්දු ගිම්හාන ද සිල්වා (28) අය පිහිනා ගොඩබිමට පැමිණ දිවිබේරා ගෙන ඇති බවද පොලිසීය කියයි. මෙම සිද්ධිය පිලිබදව අහුන්ගල්ල පොලීසිය වැඩිදුර පර්‍රීක්ෂණ පවත්වයි.
+The owner of the fishing vessel has survived. The deceased has been identified as Saktambi Earl Nishantha Kumara (46) from Balapitiya, Wijaraduma Road.
+
+Atapurdi Surendra Perera, a resident of Balapitiya Brahmana Estate. Three fishermen of the Balapitiya Crosspalastalli ferries have been sealed at around 5.30 this morning, police said.
+
+The police say that the people of Wijayarama Road, Balapitiya (28), has been landed on the landslide of the fishing vessels. Ahungalla Police are conducting further complainations.
 
 ◼️
 
 [Data](articles/61dc5033.json)
+
+[Extended Data](ext_articles/61dc5033.ext.json)
 
 ---
 
@@ -412,19 +460,55 @@ The Office of the Special Economic Center on Tuesday (28) released a list of 1 k
 
 ---
 
-### ஆட்சியாளர்கள், பிரஜைகளின் வாழ்க்கையை சமமானதாகக் கருதும் அரசாங்கத்தை தேசிய மக்கள் சக்தி உருவாக்கும் - அநுர குமார திசாநாயக்க
+### National People's Power
 
 *2024-05-28 11:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/184676) · `ta`
 
-மீண்டும் மோதல்கள் ஏற்படாத சிங்கள, தமிழ், முஸ்லிம் மக்களுக்கிடையில் ஒற்றுமையைக் கட்டியெழுப்புகின்ற தேசத்தை உருவாக்குவதே எமது தலையாய நோக்கம். எமது தலைமுறையினர் யுத்தம் புரிந்தாலும் எமது பிள்ளைகள் யுத்தத்தில் ஈடுபட இடமளிக்க முடியாது.  ஆட்சியாளர்களின் வாழ்க்கையையும்  பிரஜைகளின் வாழ்க்கையையும் சமமானதாகக் கருதுகின்ற  அரசாங்கமொன்றையே தேசிய மக்கள் சக்தி உருவாக்கும் என அதன் தலைவர் அநுரகுமார திஸாநாயக்க தெரிவித்தார்.
+It seems like you've shared a comprehensive statement outlining various political, social, and economic issues facing Sri Lanka, along with proposed solutions and commitments from a hypothetical government. Your message touches on several key points:
 
-தேசிய மக்கள் சக்தியின் வவுனியா மாவட்ட பெண்கள் மாநாடு கடந்த 25 ஆம் திகதி சனிக்கிழமை இடம்பெற்றது. இதில் கலந்துகொண்டு உரையாற்றுகையிலேயே தேசிய மக்கள் சக்தியின் தலைவர் அநுர குமார திசாநாயக்க மேற்கண்டவாறு தெரிவித்தார்.
 
-ஜனாதிபதி தேர்தல் முறைப்படி நடாத்தப்படவேண்டும். எனினும்  ஜனாதிபதி தேர்தலை நடத்தாமல் மேலும் ஐந்து வருடங்கள் ரணில் விக்கிரமசிங்கவிற்கு கொடுக்கப்பட வேண்டுமென ரங்கே பண்டார கூறியிருந்தார். இலங்கையில் அவ்வாறு செய்வதற்கு இனிமேலும் இடமில்லை என  நான் ரங்கே பண்டாரவிற்கு வலியுறுத்திக் கூறுகிறேன்.
+
+1. **Political Dynamics**: The current political landscape is critiqued, with specific mentions of individuals and parties. There's a focus on ensuring fair competition and addressing perceived injustices in the electoral process.
+
+
+
+2. **Education and Health**: The importance of accessible and high-quality education and healthcare is emphasized. The burden on families to provide these essentials is highlighted, with promises to shift this responsibility to the government.
+
+
+
+3. **Economic Challenges**: Issues related to drug addiction, unemployment, and the impact of globalization on local industries are discussed. There's a commitment to revitalize agriculture and ensure sustainable livelihoods for rural communities.
+
+
+
+4. **Social Welfare and Infrastructure**: The statement addresses the need for affordable housing, improved health services, and nutritional support for pregnant women and children. It also mentions the goal of reducing the prevalence of infectious diseases.
+
+
+
+5. **Historical Context and Unity**: The text reflects on past conflicts and divisions within the country, emphasizing the need for reconciliation and unity among different ethnic and religious groups.
+
+
+
+6. **Future Vision**: The overarching aim is to build a more equitable, peaceful, and prosperous Sri Lanka, focusing on education, health, and economic stability. There's a call to action for voters to support the National People's Power government to achieve these goals.
+
+
+
+This statement appears to be part of a broader political discourse, possibly aimed at rallying support for a particular agenda or party. If you have specific questions or need further assistance related to this content, please let me know how I can help
+
+🟩
+
+Our main purpose is to create a nation that builds unity among the Sinhalese, Tamil and Muslim people who do not have conflicts again. Even if our generations are war, our children cannot be allowed to fight war.Its leader Anura Kumara Dissanayake said that the national people's power would be created by a government that considers the lives of the rulers and the lives of citizens.
+
+The Vavuniya District Women's Conference of the National People's Power was held on Saturday 25th. Speaking on the occasion, National People's Power Leader Anura Kumara Dissanayake said this.
+
+The presidential election must be held according to. However, Range Bandara had said that Ranil Wickremesinghe should be given a further five years without holding the presidential election. I urge Range Bandara that there is no longer place to do so in Sri Lanka.
+
+Similarly, Vajira Abeywardena says Ranil Wickremesinghe should be allowed to contest any other candidate.. They know that Ranil cannot win the election.
 
 ...
 
 [Data](articles/0e5bf9e3.json)
+
+[Extended Data](ext_articles/0e5bf9e3.ext.json)
 
 ---
 

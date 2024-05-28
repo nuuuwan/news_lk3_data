@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-28 23:53:44**
+As of **2024-05-29 00:06:17**
 
 ## Newspaper Stats
 
-*Scraped **26,913** Articles*
+*Scraped **26,914** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,540
 dailyftlk | 1,568
 adalk | 2,294
 adaderanalk | 3,075
-tamilmirrorlk | 3,153
+tamilmirrorlk | 3,154
 virakesarilk | 4,128
 dailymirrorlk | 4,247
 adaderanasinhalalk | 4,319
@@ -26,11 +26,33 @@ adaderanasinhalalk | 4,319
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,912 (100.0%) of 26,913 articles have been extended.
+26,913 (100.0%) of 26,914 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-28 (Tuesday)
+
+### யாழில் 11 மாணவிகளுக்கு நடந்த கொடுமை - பொலிஸில் சரண்
+
+*2024-05-28 23:43:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/யாழில்-11-மாணவிகளுக்கு-நடந்த-கொடுமை-பொலிஸில்-சரண்/71-338053) · `ta`
+
+யாழ்ப்பாணம், தீவகம் கல்வி வலயத்திலுள்ள பாடசாலையொன்றின் விடுதியில் தங்கியிருந்த 10 முதல் 17 வயதுக்குட்பட்ட 11 பாடசாலை மாணவிகள் ஊர்காவற்துறை பொலிஸ் நிலையத்தில் சரணடைந்துள்ளனர்.
+
+கிறிஸ்தவ அருட்சகோதரி ஒருவரின் கொடூர தாக்குதலை தாங்க முடியாமல் அவர்கள் வெளியேறி உள்ளனர்.
+
+அகப்பை காம்பு மற்றும் தடியால் தாக்குவது, தலைமுடியை பிடித்து சுவருடன் தாக்குவதென, விடுதிக்கு பொறுப்பான அருட்சகோதரி கடந்த 3 வருடங்களாக தம்மை சித்திரவதை செய்வதாக மாணவிகள் கண்ணீருடன் முறையிட்டுள்ளனர்.
+
+புது வகையான ஆங்கில உச்சரிப்பை பேசச் சொல்வது, ஆங்கில உச்சரிப்பு தவறு, ஆங்கிலம் முறையாக பேசாதது, பிரார்த்தனையை முறையாக  மனனம் செய்யாதது உள்ளிட்ட காரணங்களிற்காகவே அருட் சகோதரி தாக்குதல் நடத்தியதாக குறிப்பிடப்படுகிறது.
+
+பாடசாலையில் குறித்த விடயத்தை சொன்னபோதும் சமாளித்து போகுமாறு கூறவே அச்சம் காரணமாக 11 மாணவிகளும் இன்று ஊர்காவற்றுறை பொலிஸ் நிலையத்தில் முறைப்பாடு அளித்துள்ளனர்.
+
+குறித்த 11 மாணவிகளும் ஊர்காவற்துறை ஆதார வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதுடன் விடுதி பொறுப்பாசிரியரை கைது செய்ய பொலிஸார் நடவடிக்கை எடுத்துள்ளனர். R
+
+◼️
+
+[Data](articles/223286b2.json)
+
+---
 
 ### Democracy is not healthy for democracy
 
@@ -755,6 +777,8 @@ The stock closed at 112.75 rupees, down 75 cents on Tuesday.
 ...
 
 [Data](articles/332e1633.json)
+
+[Extended Data](ext_articles/332e1633.ext.json)
 
 ---
 
@@ -2285,33 +2309,5 @@ Accordingly, the Cabinet has approved the proposal submitted by the Minister of 
 [Data](articles/46a0bfec.json)
 
 [Extended Data](ext_articles/46a0bfec.ext.json)
-
----
-
-### Court orders Court to inform Court informing the court repayment
-
-*2024-05-28 14:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197112) · `si`
-
-The Anuradhapura Magistrate's court has been informed by its directors that the ONMAX Pyramid Scheme will repay its depositors within two years, totaling around US$18 billion. The court has also been advised that freezing bank accounts related to the company could hinder this repayment process. The court has ordered an investigation into the matter and is considering lifting the freeze on these accounts to facilitate the repayment plan.
-
-🟩
-
-The directors of the Anuradhapura Magistrate has informed the Anuradhapura Magistrate today that the ONMAX Pyramid Scheme has been informed of the money and will be paid to the money to pay the money in two years.
-
-The complaint was held before Colombo Chief Thilina Gamage today, the President's Counsel, Order, Order Angeled for its directors.
-
-President's Counsel Angel Valraerathne said he was due to pay 61,000 depositors who deposited their money in court.
-
-The Presidential Counsel said that the amount of money owing to be paid is to ask US $ 18 billion.
-
-තම සමාගමට අදාළ බැංකු ගිණුම් මේ වනවිට අධිකරණය විසින් තහනමට ලක් කර තිබෙන බවත් එම තහනම ඉවත් කරන්නේ නම් වසර දෙකක් තුළ අදාළ මුදල් තැන්පත්කරුවන්ට නැවත ගෙවා අවසන් කිරීමට හැකි වනු ඇති බවත් ජනාධිපති නීතිඥවරයා පැවසීය.
-
-Attorney-at-Law Namal Rajapaksa, who appeared for the loss of the money, said that the defendants will be re-paid to their clients for about Rs.
-
-...
-
-[Data](articles/97e1daf8.json)
-
-[Extended Data](ext_articles/97e1daf8.ext.json)
 
 ---

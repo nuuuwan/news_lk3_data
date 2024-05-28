@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-28 19:04:01**
+As of **2024-05-28 19:18:49**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,312
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,869 (100.0%) of 26,878 articles have been extended.
+26,878 (100.0%) of 26,878 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,6 +48,8 @@ The ministry further mentioned that it has been decided to appoint a committee h
 
 [Data](articles/ad27ddaf.json)
 
+[Extended Data](ext_articles/ad27ddaf.ext.json)
+
 ---
 
 ### Darshana secures Gold Medal in 400m
@@ -59,6 +61,8 @@ Sri Lankan sprinter Aruna Darshana further boosted his chances of qualifying for
 ◼️
 
 [Data](articles/35c98c44.json)
+
+[Extended Data](ext_articles/35c98c44.ext.json)
 
 ---
 
@@ -75,6 +79,8 @@ Speaking to the media, NPP Executive Member Dr. Nalinda Jayatissa said if the sc
 ...
 
 [Data](articles/d41bf3f9.json)
+
+[Extended Data](ext_articles/d41bf3f9.ext.json)
 
 ---
 
@@ -120,25 +126,33 @@ The 10th World Water Forum was held on the 18th to the 20th Bali Island of Indon
 
 ---
 
-### சினா க்ரோன் ப்றீ 400 மீ. ஓட்டத்தில் அருண தர்ஷன வெற்றிபெற்றார்
+### Sina Gron Bri 400 m. Aruna Darshana won the flow
 
 *2024-05-28 17:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/184717) · `ta`
 
-சீனாவின் சொக்குயிங் விளையாட்டரங்கில் இன்று 28 ஆம் திகதி செவ்வாய்க்கிழமை நடைபெற்ற ஆண்களுக்கான 400 மீற்றர் ஓட்டப் போட்டியில் இலங்கை வீரர்; அருண தர்ஷன முதலாம் இடத்தைப் பெற்றார்.
+Aruna Darshana, a Sri Lankan athlete, won the men's 400-meter race at China's Society Stadium on June 28th, finishing in 45.48 seconds. This victory improves his ranking for Olympic qualification. He also secured bronze in the World Athletics Championships. Next, he'll compete in the Chinese Bresty and South Korean athletic tournaments. Winning the National Athletics Competition in under 45 seconds could secure him an Olympic spot.
 
-பெல்ட் அண்ட் ரோட் உலக மெய்வல்லுநர் வெண்கல முத்திரை கண்டங்கள் சுற்றுப்பயண க்ராண்ட் ப்றீ போட்டியில் ஆண்களுக்கான 400 மீற்றர் ஓட்ட நிகழ்ச்சியை 45.48 செக்கன்களில் ஓடி முடித்து அவர் முதலாம் இடத்தைப் பெற்றார்.
+🟩
 
-இதன் மூலம் ஒலிம்பிக் தகுதியைப் பெறுவதற்கான தரவரிசைப் புள்ளிகளை அருண தர்ஷன சற்று அதிகரித்துக்கொண்டுள்ளார்.
+Sri Lankan player in the men's 400 -meter race held on Tuesday, 28th of Tuesday at China's Society Stadium;Aruna Darshana came first.
 
-இந்த போட்டி சி பிரிவு உலக மெய்வல்லுநர் போட்டி என்பதால் மிகக் குறைந்த புள்ளிகளே அருண தர்ஷனவுக்கு கிடைத்துள்ளது.
+Belt and Rode World Athletics Bronze Bronze Faculty Tourism Tournament Tournament Tournament of Men's 400 -meter run in 45.48 seconds.
 
-சைனீஸ் தாய்ப்பேயில் எதிர்வரும் சனிக்கிழமை நடைபெறவுள்ள மெய்வல்லுநர் போட்டியிலும் அதன் பின்னர் தென் கொரியாவில் நடைபெறவுள்ள போட்டியிலும் பங்குபற்றும் அருண தர்ஷன, திகமவில் அடுத்த மாதம் நடைபெறவுள்ள தேசிய மெய்வல்லுநர் போட்டியிலும் பங்குபற்றுவார்.
+Aruna Darshana has increased the rankings for the Olympic qualification.
 
-தேசிய மெய்வல்லுநர் போட்டிடயை 45.00 செக்கன்களுக்குள் நிறைசெய்தால் ஒலிம்பிக் பங்குபற்றுவதற்கான வாய்ப்பு கிடைக்கும் என தெரிவிக்கப்படுகிறது.
+Aruna Darshana has got the lowest points because this rival C Division is the World Athletic Tournament.
 
-...
+Aruna Darshana will participate in the upcoming Athletic Tournament in Chinese Breasty on Saturday and then in South Korea.
+
+It is reported that if the National Athletics Competition is won by 45.00 seconds, the Olympic participate.
+
+Since the National Athletic Tournament is the first grade, the winner will get 100 rankings.
+
+◼️
 
 [Data](articles/73ab2a60.json)
+
+[Extended Data](ext_articles/73ab2a60.ext.json)
 
 ---
 
@@ -160,17 +174,23 @@ He further said that using the bus service, people can travel more than those wh
 
 ---
 
-### அனர்த்த நிலைமை குறையும் வரை நிவாரணப் பணிகளை தொடருமாறும் அதிகாரிகளுக்கு ஜனாதிபதி விடுத்துள்ள பணிப்புரை!
+### The President's Directorate to the authorities to continue relief work until the disaster is reduced!
 
 *2024-05-28 17:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/184715) · `ta`
 
-சீரற்ற காலநிலையினால் பாதிக்கப்பட்ட மக்களுக்கு உடனடி நிவாரணங்களை வழங்குமாறும், அனர்த்த நிலைமை குறையும் வரை நிவாரணப் பணிகளை தொடருமாறும் ஜனாதிபதி ரணில் விக்ரமசிங்க உரிய அதிகாரிகளுக்கு பணிப்புரை விடுத்துள்ளார்.
+President Wickremesinghe urges continued relief efforts until disaster mitigation is achieved, directing authorities to assist victims promptly. The Disaster Management Center is taking steps to compensate those affected.
 
-அதற்கமைய, அனர்த்த முகாமைத்துவ நிலையமும் உயிரிழந்த நபர்களுக்கு இழப்பீடு வழங்க நடவடிக்கை எடுத்துள்ளமை குறிப்பிடத்தக்கது.
+🟩
+
+President Ranil Wickremesinghe has directed the relevant authorities to provide immediate relief to the people affected by the inclement weather and to continue the relief work until the disaster is reduced.
+
+Accordingly, the Disaster Management Center has taken steps to compensate for the victims.
 
 ◼️
 
 [Data](articles/7cc11279.json)
+
+[Extended Data](ext_articles/7cc11279.ext.json)
 
 ---
 
@@ -326,15 +346,21 @@ Moreover, the Disaster Management Center (DMC) is also taking steps to compensat
 
 ---
 
-### மரம் வீழ்ந்ததில் பெண் தோட்டத் தொழிலாளி ஒருவர் உயிரிழப்பு !
+### Female gardener killed in tree
 
 *2024-05-28 17:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/184713) · `ta`
 
-இரத்தினபுரி, கஹவத்தை  ஓபாத இலக்கம் 03 பகுதியில்  மரம் வீழ்ந்ததில் பெண் தோட்டத் தொழிலாளி ஒருவர் உயிரிழந்துள்ளார்.
+A female plantation worker tragically fell into a tree in Kahawatte, Ratnapura, leading to her death.
+
+🟩
+
+A female plantation worker has died after falling into a tree on No. 03, Kahawatte, Ratnapura.
 
 ◼️
 
 [Data](articles/8fc33c34.json)
+
+[Extended Data](ext_articles/8fc33c34.ext.json)
 
 ---
 
@@ -360,21 +386,31 @@ Namal Rajapaksa says that stability should be caused by the will of people, not 
 
 ---
 
-### தமிழ்த்தேசிய இனம் இலக்கு நோக்கிய பயணத்தில் இடர்களை எதிர்த்து முன்னேற வேண்டும் - சிறீதரன்
+### The Tamil nationalist race should be advanced against the risks on the goal of the target - Sreedharan
 
 *2024-05-28 17:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/184690) · `ta`
 
-தமிழ்த்தேசிய இனம் தன் இலக்கு நோக்கிய பயணத்தில் இடர்களை எதிர்த்து முன்னேற வேண்டும் என பாராளுமன்ற உறுப்பினர் சிவஞானம் சிறீதரன் தெரிவித்துள்ளார்.
+Sivagnanam Sreedharan, a parliamentarian, urges the Tamil nationalist movement to confront challenges aimed at its goals. He criticizes the Sri Lankan government's attempts to impose Sinhalese culture and symbols, affecting Tamil language and cultural practices. Despite internal divisions within his party, he supports the federal decision from 2002 and calls for resistance against cultural assimilation efforts.
 
-கிளிநொச்சியில் உள்ள அவரது கட்சி அலுவலகத்தில் செவ்வாய்க்கிழமை (28) நடைபெற்ற ஊடக சந்திப்பில் கருத்து தெரிவிக்கும் போதே குறித்த விடயத்தை தெரிவித்தார்.
+🟩
 
-இறுதிப்போரில் இலங்கை அரசாங்கம் எமது மக்களை ஆயுத முனையிலும் பட்டினியாலும் இனப்படுகொலை செய்த போது கஞ்சிக்காக வரிசையில் நின்றோம் அதனை எமது தற்கால சமூகத்திற்கு நினைவு படுத்தும் முகமாக சிரட்டையில் கஞ்சி காய்ச்சி தன்னெழுர்ச்சியாக மக்கள் வழங்கியபோது பொலிஸார் கதற கதற கைது செய்தனர்.
+Parliamentarian Sivagnanam Sreedharan has said that the Tamil nationalist race should progress against the risks on his goal.
 
-பல்கலைக்கழக மாணவர்கள் கஞ்சி காய்ச்சும் போதும் அதனை சப்பாத்து கால்களினால் தட்டி ஊத்தினர்.கேட்டால் கஞ்சிக்கு சுகாதாரம் இல்லை என்று அதனையும் கடந்து கடந்த 23மற்றும் 24ம் திகதிகளை பார்க்கும் போது தன்சல என்ற போர்வையில்  இராணுவமும் அவர்களுடன் சேர்ந்த ஒட்டுக்குழுக்களும் எந்த சுகாதார முறையும் அற்று மிக மோசமாக செய்திருந்தனர்.
+He made the matter at a media briefing held at his party office in Kilinochchi on Tuesday (28).
+
+In the final war, when the Sri Lankan government had been armed and hungry, the police arrested the police when the people were spontaneously spontaneously spontaneously supplied by the people in the face of the Kanji.
+
+When the university students were porridge, it was tapped with sapattu legs.
+
+After 2009, it is thus imposed. A unique race of Tamils ​​has the language and cultural methods of worship. The Government of Sri Lanka is seeking to impose Sinhala symbols and Sinhala cultural systems through the forces here.
+
+This time it was made openly. In doing so, our people have forgotten themselves.
 
 ...
 
 [Data](articles/1f479222.json)
+
+[Extended Data](ext_articles/1f479222.ext.json)
 
 ---
 
@@ -466,21 +502,29 @@ However, the implementation of the scheme is subject to the recommendations of a
 
 ---
 
-### யாழ்.போதனா வைத்தியசாலை ஊழியர் மீது தாக்குதல் ;  நடவடிக்கை எடுக்ககோரி அரச வைத்திய அதிகாரிகள் சங்கம் கடிதம்
+### Attack on Jaffna Bodhana Hospital employee;Letter of State Medical Officers Association to take action
 
 *2024-05-28 17:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/184712) · `ta`
 
-யாழ்ப்பாணம் போதனா வைத்தியசாலை ஊழியர் தாக்கப்பட்ட சம்பவம் தொடர்பாக உரிய நடவடிக்கை எடுக்ககோரி அரச வைத்திய அதிகாரிகள் சங்கம் வைத்தியசாலை பணிப்பாளருக்கும் வட மாகாண ஆளுநருக்கும் அவசர கடிதமொன்றை அனுப்பியுள்ளது.
+The Government Medical Officers Association has written to the Northern Province Director and Governor, urging swift action against an attack on a Jaffna Teaching Hospital employee. Two drunk individuals caused chaos at the hospital, leading to an internal investigation being demanded by the association. They also call for immediate security improvements and the protection of patients and their families.
 
-நான்கு கோரிக்கைகளை வலியுறுத்தி யாழ்ப்பாணம் போதனா வைத்தியசாலை பணிப்பாளர் த.சத்தியமூர்த்தி, வடக்கு மாகாண ஆளுநர் பி.எஸ்.எம்.சார்ள்ஸ் ஆகியோருக்கு யாழ்ப்பாணம் போதனா வைத்தியசாலை அரச வைத்திய அதிகாரிகள் சங்கத்தினரால் கடிதம் அனுப்பப்பட்டுள்ளது.
+🟩
 
-அக்கடிதத்தில், நேற்று திங்கட்கிழமை (27) இரவு 10:30 அளவில் மோட்டார் சைக்கிள் ஒன்றில் மது போதையில் வந்த இருவர் யாழ்போதனா வைத்திய சாலையின் விபத்து மற்றும் அவசர சிகிச்சை பிரிவினுள் தமது வண்டியை செலுத்தினார்கள்.
+The Government Medical Officers Association has sent an urgent letter to the Director of the Northern Province and the Governor of the Northern Province to take appropriate action in connection with the attack on the Jaffna Teaching Hospital employee.
 
-வண்டியின் பின்னால் இருந்தவர் மது போதையில் தனது கையை கண்ணாடியில் இடித்ததனால் ஏற்பட்ட காயத்துக்கு சிகிச்சை பெற வந்தவர்.
+Jaffna Teaching Hospital Director T. Sathiyamoorthy and Northern Province Governor BSM Charles have been sent a letter to the Jaffna Teaching Hospital Government Medical Officers Association.
+
+At the same time, two men who had been intoxicated on a motorcycle on Monday (27) at 10:30 pm in a motorcycle in the Jaffna Hospital's accident and the emergency department.
+
+The man behind the car was the one who had been treated for the injury caused by the demolition of his hand in the mirror while intoxicated.
+
+He entered the treatment unit without the recommendation of the doctor.The other person stopped the motorcycle inside the hotel and spoke with the hospital staff and threw the printer and threw it on a employee's head.
 
 ...
 
 [Data](articles/29325d78.json)
+
+[Extended Data](ext_articles/29325d78.ext.json)
 
 ---
 
@@ -862,21 +906,29 @@ Under the leadership of President Ranil Wickremesinghe, there was also the hope 
 
 ---
 
-### எமது நாடு சிறியதாக இருந்தாலும் பலபடுகொலைகள் இடம்பெற்றுள்ளன - விஜயதாஸ
+### Although our country is small, there are many killings - Vijayadasa
 
 *2024-05-28 16:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/184705) · `ta`
 
-ஜே.வி.பி இரண்டு முறை ஆயுதம் ஏந்தி போராடியதன் விளைவாக 1971 ஆம் ஆண்டில் 12,000 பேரும், 1988-1989 ஆண்டுகளில் 77,000 பேரும் உயிரிழந்ததாக நீதி, சிறைச்சாலைகள் மற்றும் அரசியலமைப்பு மறுசீரமைப்பு அமைச்சர் விஜயதாச ராஜபக்ஷ தெரிவித்துள்ளார்.
+Vijayadasa Rajapakse highlights the country's history of violence, citing deaths from JVP and LTTE conflicts. He emphasizes the importance of preventing future tragedies, supporting village-level reconciliation efforts, and strengthening national unity. The Minister discusses the transformation of the National Reconciliation and Reform Commission into a legal entity and its role in fostering reconciliation at the grassroots level. He calls for a new approach to ensure peace and unity, allowing villagers to directly influence development decisions.
 
-30 வருடகால விடுதலைப் புலிகளின் பயங்கரவாதத்தில் சுமார் 70 ஆயிரம் உயிரிழந்துள்ளதாகவும், இந்த நாடு சிறியதாக இருந்தாலும் பலபடுகொலைகள் இடம்பெற்றுள்ளதாகவும் அவர் தெரிவித்தார்.
+🟩
 
-கண்டி மாவட்ட  நல்லிணக்கக்குழுவிற்கான காரியாலயமொன்றை திறந்துவைக்கும் முகமாக மத்திய மாகாண ஆளுநர் காரியாலயத்தில்  நடைபெற்ற வைபவத்தில் கலந்துகொண்டு உரையாற்றுகையில் இவ்வாறு அமைச்சர்  தெரிவித்தார்.
+Minister of Justice, Prisons and Constitutional Reforms Vijayadasa Rajapakse said that 12,000 people died in 1971 and 77,000 in 1988-1989 as a result of the JVP's two-time armed arms.
 
-இவ்வாறான அனர்த்தங்கள் மீண்டும் ஏற்படாத வகையில் கிராம மட்டத்தில் அமைக்கப்பட்டுள்ள நல்லிணக்கக் குழுக்களுக்கு ஆதரவு கிடைக்கும் எனவும் இதன் மூலம் கிராமத்திற்கு கிராம அரச அதிகாரம் கிடைக்கும் எனவும் அவர் வலியுறுத்தியுள்ளார்.
+He said that about 70 thousand were killed in the 30 -year LTTE terrorism and that the country was small, but many assassinations.
+
+The Minister said this while addressing the gathering at the Central Provincial Governor's Office to open an office for the Kandy District Reconciliation Committee.
+
+He urged that such disasters do not re -occurs, and that the village level reconciliation groups will be supported and thereby gain the authority of the village.
+
+The Minister said that the National Reconciliation and Reform Commission, which has been in operation so far, has been transformed into a legal organization through the Parliamentary Act since last January.
 
 ...
 
 [Data](articles/c50362ef.json)
+
+[Extended Data](ext_articles/c50362ef.ext.json)
 
 ---
 

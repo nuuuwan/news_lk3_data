@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-29 03:18:28**
+As of **2024-05-29 03:34:11**
 
 ## Newspaper Stats
 
-*Scraped **26,952** Articles*
+*Scraped **26,953** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,540
 dailyftlk | 1,590
 adalk | 2,294
 adaderanalk | 3,075
-tamilmirrorlk | 3,157
+tamilmirrorlk | 3,158
 virakesarilk | 4,137
 dailymirrorlk | 4,250
 adaderanasinhalalk | 4,319
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,319
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,952 (100.0%) of 26,952 articles have been extended.
+26,952 (100.0%) of 26,953 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -547,6 +547,24 @@ Extending the tenure of the president and the parliament without holding electio
 [Data](articles/4d5cb0bf.json)
 
 [Extended Data](ext_articles/4d5cb0bf.ext.json)
+
+---
+
+### ’ஆர்ப்பாட்டம் செய்வோர் அழிக்க முயற்சிக்கும் குழு’
+
+*2024-05-29 01:10:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆர்ப்பாட்டம்-செய்வோர்-அழிக்க-முயற்சிக்கும்-குழு/175-338058) · `ta`
+
+ஆர்ப்பாட்டத்தில் ஈடுபட்டுள்ள சிவில் அமைப்புக்களின் செயற்பாட்டாளர்கள் சிலர் நாட்டில் அராஜகத்தை ஏற்படுத்த விரும்புவதாக நகர அபிவிருத்தி மற்றும் வீடமைப்பு அமைச்சர்  பிரசன்ன ரணதுங்க வலியுறுத்தினார்.
+
+'நாட்டை சீரழிக்கும் சட்டங்களை தோற்கடிப்போம்' என்ற தொனிப்பொருளில்  மொட்டுக் கட்சி அலுவலகத்திற்கு முன்பாக சிவில் அமைப்புக்களின் பிரதிநிதிகள் சிலர் ஏற்பாடு செய்திருந்த ஆர்ப்பாட்டத்தில் செய்தி சேகரித்த  ஊடகவியலாளர்கள் எழுப்பிய கேள்விகளுக்கு பதிலளிக்கும் போதே அமைச்சர் மேற்கண்டவாறு தெரிவித்தார்.
+
+நாட்டை சீரழிக்கும் சட்டமூலத்திற்கு ஸ்ரீலங்கா பொதுஜன பெரமுனவின் பாராளுமன்ற உறுப்பினர்கள் எதிர்ப்பு தெரிவிக்க வேண்டும் என தெரிவித்து ஆர்ப்பாட்டம் ஏற்பாடு செய்யப்பட்டிருந்தது.
+
+'மகின் ரடட'  எனும் அமைப்பின் உறுப்பினர்களான சஞ்சய் மஹவத்த, காமந்த துஷார, அஜந்தா பெரேரா உள்ளிட்ட சிவில் அமைப்புக்கள் சிலவற்றின் உறுப்பினர்களே 'நாட்டை சீரழிக்கும் சட்டங்களை தோற்கடிப்போம்' எனும் எதிர்ப்பு பதாகைகளை ஏந்தி ஆர்ப்பாட்டம் செய்தவர்களாவர்.
+
+...
+
+[Data](articles/7aa3ef2b.json)
 
 ---
 
@@ -2219,33 +2237,5 @@ Taking to 'X', MP Rajapaksa said, "Postponing elections is not healthy for any d
 [Data](articles/881d8b2e.json)
 
 [Extended Data](ext_articles/881d8b2e.ext.json)
-
----
-
-### Torture by school in Jaffna: Students surrendered to police
-
-*2024-05-28 16:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/184711) · `ta`
-
-In Jaffna, 11 schoolgirls aged 10-17 surrendered to police after enduring three years of physical abuse from a school official for mistakes like incorrect English pronunciation and failing to memorize prayers. They feared reporting the issue directly. The girls were hospitalized, and the official was arrested.
-
-🟩
-
-11 schoolgirls who were staying there have surrendered to the Kayts police station, unable to withstand the brutal attack of an officer in charge of a school in the Educational Zone in Jaffna, Jaffna.
-
-School students between the ages of 10 and 17 have surrendered to the police station.
-
-Students have appealed to the police that the officer in charge of the hostel has been tortured for the past 3 years that he is attacking the stick and the stick and attacking the wall.
-
-Students have said that they have been attacked for reasons for speaking new English pronunciation, English pronunciation mistake, not speaking English properly and not memorizing prayer.
-
-Eleven students have lodged a complaint at the Kayts police station today for fear of telling the school.
-
-The 11 students have been admitted to the Kayts Hospital and the police have taken steps to arrest the hostel.
-
-◼️
-
-[Data](articles/3e46498c.json)
-
-[Extended Data](ext_articles/3e46498c.ext.json)
 
 ---

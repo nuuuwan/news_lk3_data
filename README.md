@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-29 02:52:11**
+As of **2024-05-29 03:03:57**
 
 ## Newspaper Stats
 
-*Scraped **26,946** Articles*
+*Scraped **26,952** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 268
 newsfirstlk | 363
 islandlk | 1,456
 economynextcom | 1,540
-dailyftlk | 1,584
+dailyftlk | 1,590
 adalk | 2,294
 adaderanalk | 3,075
 tamilmirrorlk | 3,157
@@ -26,11 +26,129 @@ adaderanasinhalalk | 4,319
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,939 (100.0%) of 26,946 articles have been extended.
+26,939 (100.0%) of 26,952 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-29 (Wednesday)
+
+### Ruling party and opposition join forces against Range Bandara’s proposal to postpone polls
+
+*2024-05-29 02:26:53* · [`dailyftlk`](https://www.ft.lk/news/Ruling-party-and-opposition-join-forces-against-Range-Bandara-s-proposal-to-postpone-polls/56-762321) · `en`
+
+UNP’s Ravi Karunanayake criticises party General Secretary Palitha Range Bandara’s proposal to postpone elections, revealing a split within UNP regarding election timing
+
+Ruling party firmly rejects the idea of postponing elections, emphasising the importance of democratic principles and the people’s right to vote
+
+Opposition parties, including SJB and NPP vehemently oppose Range Bandara’s proposal, asserting their commitment to safeguarding democracy and electoral process
+
+Cabinet Spokesman Bandula Gunawardena confirms President has instructed allocation of necessary funds to conduct elections, reaffirming commitment to holding elections as scheduled
+
+United National Party (UNP) Colombo District organiser Ravi Karunanayake yesterday criticised party General Secretary Palitha Range Bandara’s proposal to postpone both Parliamentary and presidential polls for two years, highlighting a significant division within the UNP regarding the timing of the elections.
+
+...
+
+[Data](articles/8dd1f45f.json)
+
+---
+
+### President orders compensation for families affected by adverse weather
+
+*2024-05-29 02:25:44* · [`dailyftlk`](https://www.ft.lk/news/President-orders-compensation-for-families-affected-by-adverse-weather/56-762320) · `en`
+
+President Ranil Wickremesinghe has instructed officials to provide immediate relief to those affected by the recent inclement weather and to continue these efforts until the situation improves.
+
+According to the Disaster Management Centre (DMC), eight deaths have been reported countrywide as of Monday, where seven people died in accidents caused by strong winds and one person died in a boat capsizing.
+
+The President has also directed that compensation be provided to the families of the deceased.
+
+The DMC will provide Rs. 250,000 for each victim, with an advance payment of Rs. 25,000 already arranged.
+
+As of Monday, a total of 42,640 people belonging to 11,326 families have been affected by the inclement weather.
+
+The President instructed the Disaster Management Centre to ensure all necessary facilities are provided, with special attention to health and hygiene.
+
+◼️
+
+[Data](articles/fb3b266f.json)
+
+---
+
+### Cabinet nod to review public sector salary anomalies
+
+*2024-05-29 02:25:18* · [`dailyftlk`](https://www.ft.lk/news/Cabinet-nod-to-review-public-sector-salary-anomalies/56-762319) · `en`
+
+The Cabinet of Ministers at its meeting on Monday decided to appoint a specialist committee to address salary anomalies among various State sector employee groups.
+
+“The committee will study these discrepancies and submit a report in time for the 2025 budget, aiming to rectify the long-standing issues,” Cabinet Co-Spokesman and Minister Bandula Gunawardena said yesterday.
+
+The move comes in response to persistent concerns raised by employee groups and trade unions about salary anomalies in the public sector.
+
+“The Government will consider proposals related to monthly allowances and wage disparities faced by public sector workers,” he said at the weekly post-Cabinet meeting media briefing.
+
+Gunawardena recalled the ongoing strikes by State sector workers who have been demanding solutions to salary disparities and the receipt of monthly compensation allowances.
+
+...
+
+[Data](articles/8bdcf5f6.json)
+
+---
+
+### Netanyahu vows to continue war amid air strike condemnation
+
+*2024-05-29 02:24:53* · [`dailyftlk`](https://www.ft.lk/news/Netanyahu-vows-to-continue-war-amid-air-strike-condemnation/56-762318) · `en`
+
+BBC: Israeli Prime Minister Benjamin Netanyahu has vowed to continue the war against Hamas amid international condemnation of an air strike that killed scores of Palestinians in Rafah on Sunday.
+
+At least 45 people were killed, according to the Hamas-run health ministry, while hundreds more were treated for severe burns, fractures and shrapnel wounds.
+
+Mr Netanyahu said the strike was a “tragic mishap” but added: “I don’t intend to end the war before every goal has been achieved.”
+
+He said it was vital that Israel took “every precaution possible” to protect civilians, and insisted that the Israel Defence Forces (IDF) were using their “best efforts not to harm those uninvolved” in the conflict.
+
+The UN Security Council will hold an emergency meeting on Tuesday, at Algeria’s request, to discuss the Rafah strike.
+
+In a statement on Monday, UN secretary general António Guterres said the strike had “killed scores of innocent civilians who were only seeking shelter from this deadly conflict”.
+
+...
+
+[Data](articles/cf0456fd.json)
+
+---
+
+### Spain, Norway and Ireland recognise Palestinian state
+
+*2024-05-29 02:24:14* · [`dailyftlk`](https://www.ft.lk/news/Spain-Norway-and-Ireland-recognise-Palestinian-state/56-762317) · `en`
+
+Spain, Ireland and Norway have formally recognised a Palestinian state, in what they say is an attempt to refocus attention on efforts to find a political solution to the war in the Middle East.
+
+They hope by acting together they will encourage other European countries to follow suit, in a diplomatic push that could help secure a ceasefire in Gaza and the release of hostages held by Hamas.
+
+The symbolic decision has provoked a furious row with Israel’s government which has accused all three countries of rewarding terrorism.
+
+Israel has withdrawn its ambassadors from Ireland, Norway and Spain and formally reprimanded their envoys in Tel Aviv. All three were summoned to Israel’s foreign ministry last week to be shown footage of the 7 October attacks in front of the media.
+
+...
+
+[Data](articles/b43b9ece.json)
+
+---
+
+### Ambeon Holdings posts Rs. 2.8 b PAT for FY24
+
+*2024-05-29 02:23:06* · [`dailyftlk`](https://www.ft.lk/business/Ambeon-Holdings-posts-Rs-2-8-b-PAT-for-FY24/34-762316) · `en`
+
+Ambeon Holdings PLC, a diversified conglomerate with interests in financial services, real estate, technology, and strategic investments, said it has recorded a stellar performance for the financial year (FY) 2023/2024 as per the interim financial results released.
+
+Amidst an improving macroeconomic landscape, the group delivered robust results for the financial year 2023/24 and posted impressive financial results for posting a Profit After Tax (PAT) of Rs. 2.8 billion, a remarkable 73% growth when compared to its 2022/2023 PAT of Rs. 1.6 billion. For the fourth quarter, the Group’s revenue amounted to Rs. 4.9 billion, compared to Rs. 6.9 billion in the previous year. The PAT for Q4 amounted to Rs. 557 million compared to Rs. 323 million last year.
+
+Ambeon Holdings PLC Chairman Sujeewa Mudalige said: “Considering the market challenges which prevailed during the year under review, the group has withstood the challenges and fared well.”
+
+...
+
+[Data](articles/21fcbe5c.json)
+
+---
 
 ### Savanth Sebastian new Chairman at Colombo City Holdings
 
@@ -2067,147 +2185,5 @@ The 11 students have been admitted to the Kayts Hospital and the police have tak
 [Data](articles/3e46498c.json)
 
 [Extended Data](ext_articles/3e46498c.ext.json)
-
----
-
-### Woman hacked to death in Seeduwa
-
-*2024-05-28 16:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197120) · `si`
-
-A 36-year-old woman from Neluwa, Galle, was murdered in Seeduwa. She lived in the Katunayake Free Trade Zone for six years before her death. Her body was sent to Negombo Hospital for autopsy after local police investigated under Acting Magistrate Indika.
-
-🟩
-
-The victim was a 36 year old resident of Neluwa, Galle.
-
-It has been revealed that the woman was in the Katunayake Free Free Zone.
-
-The woman had come to the trade zone about six years ago and had been staying in Liyanagemulla area.
-
-The remains were taken to the Negombo Hospital for a post mortem after the local investigation was conducted by Acting Magistrate Indika.
-
-◼️
-
-[Data](articles/0b82354e.json)
-
-[Extended Data](ext_articles/0b82354e.ext.json)
-
----
-
-### 21/4 The death of a woman injured in the attack
-
-*2024-05-28 16:52:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/21-4-தாக்குதலில்-காயமடைந்த-பெண்-மரணம்/175-338035) · `ta`
-
-On April 21, 2019, Dilini Harshani, a woman severely injured in an ISIS attack, passed away after five years of ICU treatment. Her son, Duloth Anthony, was also killed in the attack on St. Sebastian's Church. This incident occurred alongside other terrorist attacks in Sri Lanka, resulting in 273 deaths and over 500 injuries.
-
-🟩
-
-On Sunday 21, 2019, on April 21, 2019, a woman who was injured in an attack by ISIS terrorists has died.
-
-Dilini Harshani, who has been treated for five years in the intensive care unit, has died.
-
-His son Duloth Anthony was killed in an attack on St. Sebastian's church at Katuwapitiya. Tilini Harshani, who was injured, has been continuously treated.
-
-It is worth noting that 273 people were killed and more than 500 injured in the terrorist attacks on April 21, 2019, targeting star hotels and churches in eight places in the country, including Colombo.
-
-◼️
-
-[Data](articles/a46c169e.json)
-
-[Extended Data](ext_articles/a46c169e.ext.json)
-
----
-
-### 'Bujji At Sendati' describes the journey of two children in search of a pet
-
-*2024-05-28 16:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/184708) · `ta`
-
-"Bujji At Sendati" follows two children's quest for a lost pet, highlighting the profound bond between kids and animals. Directed by Ram Kandasamy, featuring child stars like Pranathi Sivasankaran and Lavanya Kanmani, the film explores the emotional journey of searching for a beloved pet. Set to release worldwide on the last day of this month, it promises to delve into the unique perspective of children navigating the world to reunite with their furry friends.
-
-🟩
-
-The bonding between pets and children is an underestimated sense of consciousness. The film 'Bujji At Petti', which is centered on it, will be released worldwide on the 31st of this month.
-
-Directed by director Ram Kandasamy, Kamal Kumar, Nakkalids Vattiswari, Karthik Vijay, Child Stars Pranathi Sivasankaran, Lavanya Kanmani, Nakkalites Ramkumar, Meena, Varadarajan. Karthik Raja has composed the film, which has been recorded by Arunoghi Chola. The film is being produced by director Ram Kandasamy on behalf of Kalaya Company. In this case, the event was held in Chennai before the release of the film to fans. The film crew participated.
-
-...
-
-[Data](articles/8a08bd61.json)
-
-[Extended Data](ext_articles/8a08bd61.ext.json)
-
----
-
-### A tree collapses on a group of women
-
-*2024-05-28 16:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197119) · `si`
-
-In Ratnapura, a gardener accidentally caused a tree collapse, injuring three people including two women hospitalized in Kahawatte Base Hospital and one seriously injured man in Ratnapura General Hospital.
-
-🟩
-
-Our correspondent says that a estate worker has killed a garden tree in Ratnapura, Ratnapura, Ratnapura.
-
-Two other women were injured and admitted to the Kahawatte Base Hospital and a serious man was admitted to the Ratnapura General Hospital for further treatment.
-
-◼️
-
-[Data](articles/06e0ee56.json)
-
-[Extended Data](ext_articles/06e0ee56.ext.json)
-
----
-
-### Sri Lanka stocks close down, selling pressure on banks and bluechips
-
-*2024-05-28 16:34:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-selling-pressure-on-banks-and-bluechips-165099/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed down on Tuesday, data on its site showed.
-
-The broader All Share Index closed down 0.68 percent, or 83.20 points, at 12,228; while the S&P SL20 Index closed down 0.85 percent, or 31.15 points, at 3,619.
-
-Sampath Bank Plc which closed down at 77.80, saw the most active volumes traded in the day.
-
-Banking stocks were down except for Seylan Bank Plc which closed up at 40.00. Hatton National Bank Plc, closed down at 196.25, Commercial Bank of Ceylon Plc closed down at 112.75, and DFCC Bank Plc was down at 79.50.
-
-Dialog Axiata Plc, which announced a cash dividend, closed down at 11.00.
-
-John Keells Holdings Plc closed down at 207.00, Hayleys Plc closed down at 92.50. Aitken Spence Plc closed up at 130.00.
-
-Ceylon Beverage Holdings Plc (up at 1,600.50), Aitken Spence Plc (up at 130.00) and LB Finance Plc (up at 71.30) were among the top contributors of the day.
-
-There was a net foreign inflow of 63.9 million. (Colombo/May28/2024)
-
-◼️
-
-[Data](articles/be2c8048.json)
-
-[Extended Data](ext_articles/be2c8048.ext.json)
-
----
-
-### Central Bank Resolution to maintain interest rates
-
-*2024-05-28 16:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/184699) · `ta`
-
-The Central Bank of Sri Lanka's Monetary Council, led by Governor Dr. Nandalal Weerasinghe, has decided to keep interest rates steady, weighing the nation's economic factors. Inflation rose slightly from 0.9% in March to 1.5% in April, but food and service prices fell. The council aims to achieve a 5% inflation target soon, despite challenges like tourism impacts and high foreign worker remittances. Interest rates remain unchanged: 8.5% for deposits, 9.5% for lending, and 2% for the standard. Negotiations with private creditors are progressing smoothly, and the IMF's second review of Sri Lanka's financial program is pending approval.
-
-🟩
-
-The Governor of the Central Bank of Sri Lanka, Dr. Nandalal Weerasinghe, has announced that the Monetary Council has decided to maintain the interest rate on deposits and loans based on the pros and cons of the country's economy in the contemporary time.
-
-A media briefing was organized at the Central Bank auditorium in Colombo on Tuesday (28). Governor Nandalal Weerasinghe said the above.
-
-Accordingly, the primary inflation estimated by the Colombo Consumer Price Code recorded a small increase of 1.5 per cent in April compared to 0.9 per cent in March.
-
-However, the prices of food and foods, the prices of services and services have fallen on a monthly basis. Meanwhile, a small increase in inflation in inflation last January has been rejected through a downward amendment carried out in electricity, fuel and liquid petroleum gas prices.
-
-In this case, the primary inflation is expected to reach a target of 5 per cent in the coming months due to goods, prices of services and relaxed food prices.
-
-...
-
-[Data](articles/56616943.json)
-
-[Extended Data](ext_articles/56616943.ext.json)
 
 ---

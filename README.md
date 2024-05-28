@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-28 17:54:39**
+As of **2024-05-28 18:12:00**
 
 ## Newspaper Stats
 
-*Scraped **26,855** Articles*
+*Scraped **26,858** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 237
 dbsjeyarajcom | 265
-bbccomsinhala | 267
+bbccomsinhala | 268
 newsfirstlk | 363
 islandlk | 1,454
 economynextcom | 1,539
@@ -20,35 +20,43 @@ adaderanalk | 3,072
 tamilmirrorlk | 3,149
 virakesarilk | 4,116
 dailymirrorlk | 4,231
-adaderanasinhalalk | 4,309
+adaderanasinhalalk | 4,311
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,844 (100.0%) of 26,855 articles have been extended.
+26,855 (100.0%) of 26,858 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-28 (Tuesday)
 
-### வாகை விழுந்ததில் தொழிலாளி மரணம்: மூவர் காயம்
+### Worker's death in a surrogate: trio injury
 
 *2024-05-28 17:40:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/வாகை-விழுந்ததில்-தொழிலாளி-மரணம்-மூவர்-காயம்/76-338048) · `ta`
 
-வாகை மரமொன்று வேறோடு பெயர்ந்து விழுந்ததில் பெண் தொழிலாளி ஒருவர் உயிரிழந்ததுடன் மேலும் மூன்று  பெண் தொழிலாளிகள் படுகாயமடைந்த நிலையில் காவத்தை மற்றும் இரத்தினபுரி பொது வைத்தியசாலைகளில் சிகிச்சைப் பெற்று வருவதாக பொலிஸார் தெரிவிக்கின்றனர்.
+A female worker died and three others were injured when a surrogate tree fell at a plantation site. The incident occurred around 1 pm on Tuesday, and one victim died before reaching the hospital. Three injured workers, including one in critical condition, were admitted to hospitals for treatment.
 
-காவத்தை பொலிஸ் பிரிவில் உள்ள ஓப்பாவத்தை 3 ஆம் பிரிவு தோட்டத்திலேயே வாகை மரம் செவ்வாய்க்கிழமை (28) பிற்பகல் 1 மணியளவில் விழுந்துள்ளது.
+🟩
 
-தேயிலைச் செடிகளுக்கு உரம் போடும் வேலை முடிந்தப்பின்னர் வீடுகளுக்கு திரும்பும் வேளையிலேயே இவ்வனர்த்தம் ஏற்பட்டுள்ளது.
+A female worker died after a surrogate tree fell and three more female workers were injured, police said.
 
-படுகாயமடைந்த நால்வரும் காவத்தை பொது வைத்தியசாலையில்  அனுமதிக்கப்பட்ட நிலையில்   சிகிச்சை பலனின்றி ஒருவர்  உயிரிழந்தார்.  படுகாயமடைந்த இருவரில் ஒருவர் ஆபத்தான நிலையில் காவத்தை வைத்தியசாலையிலும் மற்றவர் மிகவும் ஆபத்தான நிலையில் இரத்தினபுரி வைத்திய சாலையில் அவசரப் பிரிவில் அனுமதிக்கப்பட்டு சிகிச்சை பெற்று வருகின்றார்
+The surrogate tree fell at 1 pm on Tuesday (28) at the Opavattai Division 3rd Estate in the Kavatha Police Division.
 
-இச்சம்பவத்தில் திருமதி எஸ்.தமிழ் செல்வி(வயது 49)  என்பவரே உயிரிழந்துள்ளார் இவர் ஒரு பிள்ளையின் தாயார் ஆவார்.
+This is the case when the tea plants are returning to their homes after completing work.
 
-...
+One person died without treatment as four injured were admitted to the General Hospital.  One of the two injured is in critical condition and the other is admitted to the Emergency Division at the Ratnapura Hospital.
+
+The deceased is Mrs. S. Tamil Selvi (age 49).
+
+Mrs. Sathya Vani (age 36) and Mrs. Jeevarani (age 45) at the Ratnapura Hospital. Vijayakumari (age 49) . They are also being treated at the hospital
+
+◼️
 
 [Data](articles/102f6011.json)
+
+[Extended Data](ext_articles/102f6011.ext.json)
 
 ---
 
@@ -63,6 +71,24 @@ Accordingly, the court will confidentially forward its determination to the Spea
 ◼️
 
 [Data](articles/8bf9b9c7.json)
+
+[Extended Data](ext_articles/8bf9b9c7.ext.json)
+
+---
+
+### විදුලි සංදේශ නියාමන සංශෝධන පනත් කෙටුම්පතට දුන් තීරණය
+
+*2024-05-28 17:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197125) · `si`
+
+රජය විසින් පාර්ලිමේන්තුවට ඉදිරිපත් කර තිබෙන විදුලි සංදේශ නියාමන සංශෝධන පනත් කෙටුම්පතට එරෙහි පෙත්සම් විභාගය අවසන් කර තිබේ.
+
+ඒ අනුව ශ්‍රේෂ්ඨාධිකරණය අදාළ පනත් කෙටුම්පතේ ව්‍යවස්ථානුකූලභවය පිළිබඳ සිය රහසිගත නිගමනය පාර්ලිමේන්තුවේ කථානායකවරයා වෙත යොමු කරන බව නිවේදනය කළේය.
+
+අගවිනිසුරු ජයන්ත ජයසූරිය, මුර්දු ප්‍රනාන්දු සහ ජනක් ද සිල්වා යන ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ලක් ඉදිරියේ මෙම පෙත්සම් විභාගය පැවැත්වුණි.
+
+◼️
+
+[Data](articles/3adb861d.json)
 
 ---
 
@@ -86,6 +112,26 @@ SG Holdings Global Pte Ltd, the company’s majority shareholder, said it will p
 
 [Data](articles/1ffae48a.json)
 
+[Extended Data](ext_articles/1ffae48a.ext.json)
+
+---
+
+### ඒ වැඩේ කරන්න එපා - ආරක්ෂක රාජ්‍ය ඇමති
+
+*2024-05-28 17:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197124) · `si`
+
+යුක්‍රේන - රුසියා යුද්ධය ට එක්වී අසරණ වී ඇති ශ්‍රී ලාංකිකයින් ගෙන්වා ගැනීම සඳහා රජය උපරිම වශයෙන් මැදිහත් වන බව ආරක්ෂක රාජ්‍ය අමාත්‍ය, ප්‍රමිත බණ්ඩාර තෙන්නකෝන් මහතා පවසයි.
+
+සමහර පුද්ගලයින් මෙම ප්‍රශ්නය දේශපාලනීකරණය කිරීමට උත්සාහ ගනිමින් පවතින බවත් ඉන් කිහිපදෙනෙක් මේ වනවිට විනෝද චාරිකාවකට එක්වී ඇති බවත් රාජ්‍ය අමාත්‍යවරයා පැවසීය.
+
+රුසියාවට හෝ යුක්‍රේනයට ගිය පුද්ගලයින්ගේ තොරතුරු ලබාදීම සඳහා ආරක්ෂක අමාත්‍යංශය විසින් දුරකථන අංකයක් හඳුන්වාදුන් බවත් ඒ ඔස්සේ මේ වනවිට පැමිණිලි 451ක් ලැබී ඇති බවත් ඔහු කීය.
+
+එසේම පොලීසිය විසින් 301 දෙනෙකුගෙන් කටඋත්තර ලබාගෙන ඇති බව රාජ්‍ය අමාත්‍යවරයා හෙළිකළේය.
+
+◼️
+
+[Data](articles/a014c8cf.json)
+
 ---
 
 ### President directs to deliver immediate relief to victims of adverse weather
@@ -99,6 +145,8 @@ Moreover, the Disaster Management Center (DMC) is also taking steps to compensat
 ◼️
 
 [Data](articles/7ee9d4a1.json)
+
+[Extended Data](ext_articles/7ee9d4a1.ext.json)
 
 ---
 
@@ -144,6 +192,8 @@ A bond maturing on 01.10.2032 closed at 11.85/12.00 percent from 11.85/12.05 per
 
 [Data](articles/55109937.json)
 
+[Extended Data](ext_articles/55109937.ext.json)
+
 ---
 
 ### Postponing elections not healthy for any democracy - Namal
@@ -165,6 +215,8 @@ Speaking at a press conference in Colombo today (28), he proposed that the Presi
 ...
 
 [Data](articles/7114a965.json)
+
+[Extended Data](ext_articles/7114a965.ext.json)
 
 ---
 
@@ -395,6 +447,8 @@ There was a net foreign inflow of 63.9 million. (Colombo/May28/2024)
 ◼️
 
 [Data](articles/be2c8048.json)
+
+[Extended Data](ext_articles/be2c8048.ext.json)
 
 ---
 
@@ -634,6 +688,8 @@ President Ranil Wickremesinghe currently stands as an independent candidate, acc
 
 [Data](articles/554f6afa.json)
 
+[Extended Data](ext_articles/554f6afa.ext.json)
+
 ---
 
 ### Sri Lanka Samurdhi banks, societies to be subjected to government audit
@@ -655,6 +711,8 @@ these banks and societies by the National Audit Office will help maintain transp
 ...
 
 [Data](articles/930df8d5.json)
+
+[Extended Data](ext_articles/930df8d5.ext.json)
 
 ---
 
@@ -935,6 +993,8 @@ This is subject to the recommendations of a committee appointed to study retirin
 ◼️
 
 [Data](articles/078bbcb0.json)
+
+[Extended Data](ext_articles/078bbcb0.ext.json)
 
 ---
 
@@ -1319,6 +1379,8 @@ Sri Lanka govt distances itself from UNP call for postponing electionsSee more
 ...
 
 [Data](articles/b0d939fd.json)
+
+[Extended Data](ext_articles/b0d939fd.ext.json)
 
 ---
 
@@ -1743,6 +1805,28 @@ The police say that the people of Wijayarama Road, Balapitiya (28), has been lan
 [Data](articles/61dc5033.json)
 
 [Extended Data](ext_articles/61dc5033.ext.json)
+
+---
+
+### Starlink : ශ්‍රී ලංකාවට සැටලයිට් අන්තර්ජාල පහසුකම් ලැබෙන්නේ කවදා ද ?
+
+*2024-05-28 12:22:59* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/crggj9e97r4o) · `si`
+
+Starlink : ශ්‍රී ලංකාවට සැටලයිට් අන්තර්ජාල පහසුකම් ලැබෙන්නේ කවදා ද ?
+
+ලොව සුප්‍රකට ව්‍යාපාරික ඊලෝන් මස්ක් හිමිකාරිත්වය දරනු ලබන ස්ටාර්ලින්ක් අන්තර්ජාල සේවාවේ  පහසුකම ලබා ගැනීම සඳහා මෙරට පාරිභෝගිකයින්ට පෙර ඇණවුම් කිරීමේ අවස්ථාව දැන් උදාවී ඇති බව (මැයි මස 27 වෙනිදා) සමාජ මාධ්‍ය ඔස්සේ හුවමාරු විය.
+
+ආපසු ගෙවීමේ කොන්දේසිය මත ඇමෙරිකානු ඩොලර් 9 ක මුදලකට ස්ටාර්ලින්ක් අන්තර්ජාල සේවාව වෙනුවෙන් ශ්‍රී ලාංකිකයින්ට පෙර ඇණවුම් ලියාපදිංචිය කිරීමට අවස්ථාව ඇති බව ඔවුන්ගේ නිල වෙබ් අඩවියේ දැක්වෙයි.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ සහ ඊලෝන් මස්ක් අතර හමුවක් පසුගිය මැයි මස 19 වෙනිදා ඉන්දුනීසියාවේ දී පැවැත්වුණි.
+
+ස්ටාර්ලින්ක් අන්තර්ජාල සේවාව යනු පෘථිවි පෘෂ්ඨයට සාපේක්ෂව ආසන්න කක්ෂයක් හෝ පහළ පෘථිවි කක්ෂය තුළ ස්ථාන ගත කර ඇති චන්ද්‍රිකා මත පදනම් වූ අන්තර්ජාල පද්ධතියකි.
+
+ෆයිබර් ඔප්ටික් කේබල් භාවිතා කිරීම වෙනුවට ස්ටාර්ලින්ක්, අධික වේගයෙන් දත්ත හුවමාරු කිරීම සඳහා කුඩා, පහළ-කක්ෂීය චන්ද්‍රිකා දහස් ගණනකින් සැදුම්ලත් පද්ධතියක් භාවිත කරනු ලැබේ.
+
+...
+
+[Data](articles/5168a185.json)
 
 ---
 
@@ -2275,65 +2359,5 @@ Meanwhile, he said that the request of MPs to issue a tax -free vehicle license 
 [Data](articles/92bcb18b.json)
 
 [Extended Data](ext_articles/92bcb18b.ext.json)
-
----
-
-### "Wellampitiya Gudu Regina" Arrested With Drugs!
-
-*2024-05-28 11:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/184669) · `ta`
-
-In Wellampitiya, a woman named "Gudu Regina" was arrested by the Special Task Force for possessing heroin. The incident occurred near the new Kelaniya Bridge under the Grandpass Police Division on Monday (27).
-
-🟩
-
-A woman has been arrested with heroin drugs during the strategy carried out by the police.
-
-The new Kelaniya Bridge, which belongs to the Grandpass Police Division, has been surrounded by police on Monday (27) in Wellampitiya.
-
-During this time, a woman known as "Wellampitiya Gudu Regina" has been arrested by the Special Task Force and handed over to the Grandpass police for further investigations.
-
-◼️
-
-[Data](articles/7f13dbfb.json)
-
-[Extended Data](ext_articles/7f13dbfb.ext.json)
-
----
-
-### Sri Lanka urged to immediately halt labour law reform process
-
-*2024-05-28 11:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/99483/sri-lanka-urged-to-immediately-halt-labour-law-reform-process) · `en`
-
-Amnesty International along with other organizations have urgently called on the Sri Lankan Government to halt the current proposals for a new Labour Law and to ensure that reforms to the labour laws are only taken after due consultation with workers and their representatives.
-
-“We express our serious concerns over the proposed reforms which, as they stand, would weaken the rights and protection of workers by removing international minimum standards and rights,” rights group said.
-
-In an open letter to the Government and Parliament of Sri Lanka on the imminent labour law reforms, the coalition has raised significant concerns that the proposed reforms if implemented without proper consultation, would weaken workers’ rights and protections by eliminating international minimum standards and rights.
-
-Amnesty International, Clean Clothes Campaign and Human Rights Watch express serious concerns about imminent and sweeping changes to Sri Lankan labour laws.
-
-...
-
-[Data](articles/8b10b403.json)
-
-[Extended Data](ext_articles/8b10b403.ext.json)
-
----
-
-### Teacher arrested for setting fire to Ranil’s private residence
-
-*2024-05-28 11:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Teacher-arrested-for-setting-fire-to-Ranils-private-residence/108-283505) · `en`
-
-Colombo, May 28 (Daily Mirror) - The Criminal Investigation Department arrested a 36-year-old suspect in connection with the incident of setting fire to President Ranil Wickremesinghe's private residence on 09 July 2022.
-
-The suspect, a resident of Kiranthidiya, was identified as a teacher.
-
-So far, more than 25 suspects have been arrested in connection with setting fire to the President's private residence.
-
-◼️
-
-[Data](articles/e61eefee.json)
-
-[Extended Data](ext_articles/e61eefee.ext.json)
 
 ---

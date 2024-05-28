@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-28 15:03:49**
+As of **2024-05-28 15:18:44**
 
 ## Newspaper Stats
 
-*Scraped **26,796** Articles*
+*Scraped **26,800** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,30 +15,54 @@ newsfirstlk | 363
 islandlk | 1,454
 economynextcom | 1,532
 dailyftlk | 1,568
-adalk | 2,280
-adaderanalk | 3,063
+adalk | 2,281
+adaderanalk | 3,065
 tamilmirrorlk | 3,143
 virakesarilk | 4,104
 dailymirrorlk | 4,223
-adaderanasinhalalk | 4,297
+adaderanasinhalalk | 4,298
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,792 (100.0%) of 26,796 articles have been extended.
+26,796 (100.0%) of 26,800 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-28 (Tuesday)
 
-### අනිවාර්ය විශ්‍රාම ගැන්වීමේ යෝජනා ක්‍රමයක් ගැන රජය තීරණයක් ගනී
+### Onmax මුදල් නැවත ගෙවීමේ ක්‍රමය අධිකරණයට දන්වන්නැයි නියෝග
+
+*2024-05-28 14:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197112) · `si`
+
+Onmax පිරමීඩ යෝජනා සැලැස්මට අදාළව මුදල් ආයෝජනය කර මේ වනවිට මුදල් අහිමිවී සිටින තැන්පත්කරුවන්ට එම මුදල් වසර දෙකක් තුළ ගෙවා අවසන් කිරීමට පියවර ගන්නා බව එම සමාගමේ අධ්‍යක්ෂවරුන් අද (28) කොළඹ මහෙස්ත්‍රාත් අධිකරණයට දැනුම්දී ඇති බව අප අධිකරණ වාර්තාකරු පැවසීය.
+
+අදාළ පැමිණිල්ල අද කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් තිළිණ ගමගේ මහතා ඉදිරියේ කැඳවනු ලැබූ අවස්ථාවේදී එහි අධ්‍යක්ෂවරුන් වෙනුවෙන් පෙනී සිටි ජනාධිපති නීතිඥ අනුජ ප්‍රේමරත්න මහතා මෙම දැනුම්දීම සිදු කළේය.
+
+ජනාධිපති නීතිඥ අනුජ ප්‍රේමරත්න මහතා වැඩිදුරටත් අධිකරණය හමුවේ කරුණු දක්වමින් සිය සමාගමේ මුදල් තැන්පත් කළ තැන්පත්කරුවන් 61,000කට මුදල් ගෙවීමට නියමිතව තිබෙන බව සඳහන් කර තිබේ.
+
+එසේ ගෙවිය යුතු මුදල් ප්‍රමාණය අමෙරිකානු ඩොලර් බිලියන 18 කට අසන්න බවත් ජනාධිපති නීතිඥවරයා සඳහන් කර සිටියේය.
+
+තම සමාගමට අදාළ බැංකු ගිණුම් මේ වනවිට අධිකරණය විසින් තහනමට ලක් කර තිබෙන බවත් එම තහනම ඉවත් කරන්නේ නම් වසර දෙකක් තුළ අදාළ මුදල් තැන්පත්කරුවන්ට නැවත ගෙවා අවසන් කිරීමට හැකි වනු ඇති බවත් ජනාධිපති නීතිඥවරයා පැවසීය.
+
+...
+
+[Data](articles/97e1daf8.json)
+
+---
+
+### The government has decided on a compulsory retirement scheme
 
 *2024-05-28 14:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197111) · `si`
 
-සීමාසහිත ලංකා පොහොර සමාගම හා සීමාසහිත කොළඹ කොමර්ෂල් පොහොර සමාගම ඒකාබද්ධ කිරීමට අදාළව යෝජිත අනිවාර්ය විශ්‍රාම ගැන්වීමේ යෝජනා ක්‍රමය ක්‍රියාත්මක කිරීම සඳහා පොහොර සමාගම් දෙකෙහි අරමුදල්වලින් රුපියල් මිලියන 844ක් වැය කිරීමට කැබිනට් අනුමැතිය හිමිව තිබේ.
+The government has approved a mandatory retirement scheme, initiated by the Minister of Agriculture and Plantation Industries. This decision follows positive feedback from 267 employees under the scheme, leading to the recommendation of integrating excess workers from Sri Lanka Ports Authority and Sri Lanka Cement Corporation through a voluntary retirement plan overseen by a committee led by the Prime Minister's office.
 
-කෘෂිකර්ම සහ වැවිලි කර්මාන්ත අමාත්‍යවරයා විසින් අදාළ යෝජනාව කැබිනට් මණ්ඩලය වෙත ඉදිරිපත් කර තිබුණි.
+🟩
+
+Cabinet approval has been given to spending Rs.
+
+The proposal was presented to the Cabinet by Minister of Agriculture and Plantation Industries.
 
 එහි වැඩිදුරටත් සඳහන් වන්නේ මේ වනවිට අනිවාර්ය විශ්‍රාම වන්දි ක්‍රමය යටතේ විශ්‍රාම ලැබීමට සේවකයින් 267 දෙනෙකු මනාපය පළ කර ඇති බවය.
 
@@ -47,6 +71,52 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/ff090559.json)
+
+[Extended Data](ext_articles/ff090559.ext.json)
+
+---
+
+### Central Bank says market interest rates should be reduced
+
+*2024-05-28 14:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/99489/central-bank-says-market-interest-rates-should-be-reduced) · `en`
+
+The Central Bank of Sri Lanka (CBSL) states that there is a possibility to further reduce the market interest rates.
+
+The officials of CBSL also mentioned that it is expected that the relevant reductions will be provided to the customers by the country’s financial institutions soon.
+
+Meanwhile, the Governor of the Central Bank of Sri Lanka (CBSL), Dr. Nandalal Weerasinghe stated that although the financial institutions have reduced those rates, they have not been reduced to the same extent as the reduction of interest rates of the Central Bank.
+
+Speaking at a press conference today (28), he further stated that the interest rates for newly issued loans should be reduced.
+
+“The changes that need to be made for the loans that have been issued by now will happen soon. We are keeping an eye on that. At the same time, we have seen instances where new loans area issued for higher interest rates. But that shouldn’t happen. We expect that change to happen soon,” he said.
+
+◼️
+
+[Data](articles/37712829.json)
+
+---
+
+### Suspect arrested over murder of ‘Kalamulle Tashi’ dies in prison
+
+*2024-05-28 14:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/99488/suspect-arrested-over-murder-of-kalamulle-tashi-dies-in-prison) · `en`
+
+Kalutara North Police said that the suspect who had been arrested and remanded in connection with a murder in Katukurunda area of Kalutara has suddenly passed away while at the Kalutara Prison yesterday (27).
+
+The deceased, Thushara Rukmal Silva, was a resident of Palapitiyagoda area in Thibuwana.
+
+Police stated that the deceased had been remanded in custody after being produced before the Kalutara Magistrate’s Court on May 25, on murder charges.
+
+According to prison sources, the inmate has died last afternoon (27) after being admitted to the Kalutara Teaching Hospital due to suddenly falling ill.
+
+The post-mortem examination of the deceased is scheduled to be conducted today (28) at the Kalutara Teaching Hospital.
+
+A 38-year-old, Thashmin Maduwantha, also known as “Kalamulle Tashi” was shot and killed at his residence on Station Road in Katukurunda, Kalutara on May 20.
+
+Police said the shooting had been carried out by two gunmen who had arrived on a motorcycle.
+
+...
+
+[Data](articles/50007467.json)
 
 ---
 
@@ -141,6 +211,22 @@ Police stated that the arrested suspect was the rider of the motorcycle used to 
 [Data](articles/c8168edf.json)
 
 [Extended Data](ext_articles/c8168edf.ext.json)
+
+---
+
+### මේ වසරේ පාර්ලිමේන්තු මැතිවරණයක් න‍ෑ
+
+*2024-05-28 13:25:43* · [`adalk`](https://www.ada.lk/breaking_news/මේ-වසරේ-පාර්ලිමේන්තු-මැතිවරණයක්-න‍ෑ/11-409870) · `si`
+
+ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ විධිවිධාන වලට අනුව ජනාධිපතිවරණය පවැත්වෙන බවත්, ඒ සඳහා අයවැයෙන් බිලියන 10 ක් වෙන් කොට තිබෙන බවත්, මෙම වසරේ පාර්ලිමේන්තු මැතිවරණය පැවැත්වීමේ අත්‍යවශ්‍යතාවයක්  නොමැති බවත් ජනමාධ්‍ය, ප්‍රවාහන හා මහාමාර්ග අමාත්‍ය, ආචාර්ය බන්දුල ගුණවර්ධන මහතා ප්‍රකාශ කරයි.
+
+අමාත්‍යවරයා මේ බව ප්‍රකාශ කලේ අද (28) රජයේ ප්‍රවෘත්ති දෙපර්තමෙන්තුවේ පැවති කැබිනට් තීරණ දැනුම්දීමේ මාධ්‍ය සාකච්ඡාවේ දී මේ පිළිබඳව මාධ්‍යවේදියෙකු විසින් නගන පැනයකට පිළිතුරු වශයෙනි.
+
+ඒ අනුව, ආණ්ඩුක්‍රම ව්‍යවස්ථාව අනුව මෙම වසරේ ඔක්තෝබර් මාසයට ප්‍රථම ජනාධිපතිවරණය පැවැත්විය යුතු බවත්, ජනාධිපතිවරණය සඳහා අවශ්‍ය මුල්‍ය ප්‍රතිපාදන රුපියල් බිලියන 10 ක් අයවැය මඟීන් වෙන්කර තිබෙන බවත්, මැතිවරණ කොමසාරිස්වරයා විසින් ව්‍යවස්ථාපිත වගකීම නියමිත කාල වකවානුව තුළ සිදු කරනු ඇතැයි ද හෙතෙම මෙහි දී අමාත්‍යවරයා මෙහි දී වැඩිදුරටත් සඳහන් කළේය.
+
+◼️
+
+[Data](articles/e03c4545.json)
 
 ---
 
@@ -1772,23 +1858,31 @@ The Amnesty International (SLC) has also been warned that the demands of the tra
 
 ---
 
-### ගොඩබිමේ මුතු මැණික් තරම් වටින මහ මුහුදේ අම්බර ගැන ඔබ දන්නවා ද?
+### Do you know about the pearl mnick as worthy of the land of land?
 
 *2024-05-28 08:32:31* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c511mjzv3rqo) · `si`
 
-ගොඩබිමේ මුතු මැණික් තරම් වටින මහ මුහුදේ අම්බර ගැන ඔබ දන්නවා ද?
+In the coastal town of Kalpitiya, local fishermen discovered a whale carcass that emitted a valuable substance known as "Ambara," which is highly sought after for its use in perfumes, luxury goods, and traditional medicine. Despite the potential wealth this discovery could bring, the fishermen faced legal challenges due to the protected status of whales under Sri Lanka's wildlife conservation laws.
 
-“අපේ මස්සිනා මුහුදේ නාන්න ගිහින් ඉන්නකොට දැල් ගුලියක පැටලිලා, දැල් ගුලියත් එක්කම ගොඩ එද්දි දැකලා තමයි මස්සිනා ගොඩ ඇඳලා අරගෙන. ඒකෙන් ගඳක් එද්දි අම්බර කියලා හිතලා අපිට කිව්වේ.”
+🟩
 
-කල්පිටිය ප්‍රදේශයේ ධීවරයකු වු ප්‍රියමන්ත ඇතුළු පිරිසකට පසුගිය දිනක තල්මස් අම්බරයක් ලැබී තිබු අතර ඒ නිසාම ඔවුන්ට පොලිස් අත්අඩංගුවට පත්වන්නට ද සිදුවිය.
+Do you know about the pearl mnick as worthy of the land of land?
 
-“අපි ගිහිල්ලා බලලා කරත්තයක් ගෙනිහින් ඒක ඇදගෙන ආවා. කිලෝ තිස් පහක්, හතලිහක් විතර තිබ්බේ හෙන තෙල් තට්ටුවක් එක්ක. ඊට පස්සේ ගෙනල්ලා වත්තට දැම්මාම උණු වෙවි, උණු වෙව් වැක් කෙරුණා. අපි ඒත් හරියට දැනගෙන හිටියේ නැහැ මොනවාද කියලා. ඔහොම තියාගෙන ඉද්දි දවස් අටකට විතර පස්සේ පොලිසියෙන් ආවා. ඒගොල්ලෝ මේකෙන් කෑල්ලක් පුච්චලා බලලා අම්බර තමයි කියලා අම්බරයි, අපිවයි, අරන් ගියා.”
+"When we were in the sea in the sea of our brother-in-hand, he was taken up with a gleen, while he had piled up with the nets. He told us to think was a smell. "
 
-නීතිමය හා අධිකරණ කටයුතු අවසන් වීමෙන් අනතුරුව තමන්ට ලැබුණ අම්බරය සම්බන්ධව බීබීසී  සිංහල සමග විස්තර බෙදා හදා ගත් ධීවරයෙකු ලෙස රැකියාව කරන ප්‍රියමන්ත පැවසු පරිදි ඔහු මීට  පෙර අම්බර ගැන ආසා තිබුණත්, කිසි දිනක අම්බර දැක තිබුණේ නැත.
+Fisherman, including Fisherman in Kalpitiya, had received a whale barreal, and they were arrested.
+
+"We went and dragged it with a cart. There were about thirty five, forty oil with a layer of oil. Then when he put into the garden, he will be hot and hot. But we didn't know what wasn't aware. About eight days later, the police came to the police while she was. They were darling, darling, we were darling and we were trying to burn a piece of pieces. "
+
+After the end of legal and judicial work, he had never asked for BBC Sinhala.
+
+Are you aware that you have pleaded with gold, silver, pearls, gem in the world, that the waste of a creature has had a great value in the world?
 
 ...
 
 [Data](articles/546a93c7.json)
+
+[Extended Data](ext_articles/546a93c7.ext.json)
 
 ---
 
@@ -1886,21 +1980,31 @@ According to information provided by the arrested in Colombo, special soldiers w
 
 ---
 
-### ISIS சகோதரர்கள் இருவர் கைது (மேலதிக விபரம்)
+### Two ISIS brothers arrested (more details)
 
 *2024-05-28 08:05:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ISIS-சகோதரர்கள்-இருவர்-கைது-மேலதிக-விபரம்/175-337998) · `ta`
 
-ஐ.எஸ்.ஐ.எஸ் பயங்கரவாத அமைப்புடன் தொடர்பு வைத்திருந்தனர் என்றக் குற்றச்சாட்டில் ஒரே குடும்பத்தைச் சேர்ந்த சகோதரர்கள்‌ இருவர் கைது செய்யப்பட்டுள்ளனர்.
+Two brothers suspected of ISIS ties were arrested in Sri Lanka. One worked in a fishing port, the other in a container unit in Colombo. They were among several individuals connected to ISIS, including one recently arrested in Colombo for alleged links to four Sri Lankans detained in India. Further investigations are ongoing.
 
-கொழும்பில் கைது செய்யப்பட்டவர் வழங்கிய தகவலின் பிரகாரம் சிலாபத்துக்குச் சென்ற விசேட படையினர் இவ்விருவரையும் கைது செய்தனர்.
+🟩
 
-கைது செய்யப்பட்ட சகோதரர்களில் ஒருவர் வெளி மாகாணத்தில் உள்ள மீன்பிடி துறைமுகம் ஒன்றில் பணிபுரிந்து வருவதாகவும், மற்றைய சகோதரர் கொழும்பில் உள்ள கொள்கலன் பிரிவில் பணிபுரிந்து வருவதாகவும் கூறப்படுகிறது.
+Two brothers of the same family have been arrested on charges of involvement with ISIS terrorist organization.
 
-ஐ. எஸ். ஐ. எஸ். பயங்கரவாத புலனாய்வுப் பிரிவினரால் இந்தியாவில் கைது செய்யப்பட்ட நான்கு இலங்கையர்களுடன் நெருங்கிய தொடர்பு வைத்திருந்ததாகக் கூறப்படும் ஒருவர், கொழும்பில் வைத்து கைது செய்யப்பட்டார். அவரிடம் மேற்கொள்ளப்பட்ட விசாரணைகளில் இருந்து கிடைத்த தகவல்களின் அடிப்படையில், அந்த பயங்கரவாத அமைப்பைச் சேர்ந்தவர்கள் என்ற சந்தேகத்தின் பேரில் இவ்விருவரும் கைது செய்யப்பட்டதாக பொலிஸ் வட்டாரங்கள் தெரிவிக்கின்றன.
+According to information provided by the arrested in Colombo, special soldiers who went to Chilaw were arrested.
 
-...
+One of the arrested brothers is said to be working in a fishing port in the outer province and the other brother is working in the container unit in Colombo.
+
+I. S.. I. S.. A man who allegedly had close contact with four Sri Lankans arrested in India by the Terrorist Investigation Unit was arrested in Colombo. According to police sources, the two were arrested on suspicion of belonging to the terrorist organization based on information received from her investigations.
+
+The two arrests have been detained and the special police team is conducting further investigations.
+
+The two brothers have been arrested by a special police team from Colombo as they were staying at the mother's home in Chilaw, police sources said.
+
+◼️
 
 [Data](articles/ca45ad7c.json)
+
+[Extended Data](ext_articles/ca45ad7c.ext.json)
 
 ---
 
@@ -2299,91 +2403,5 @@ The first song in the film will be released on June 13 in the world.. In this ca
 [Data](articles/39fb79f2.json)
 
 [Extended Data](ext_articles/39fb79f2.ext.json)
-
----
-
-### Karthi - Aravindsamy joins
-
-*2024-05-28 06:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/184635) · `ta`
-
-The first look poster of "Karthi-Aravindsamy," marking a significant moment in the Tamil film industry, has been unveiled. Directed by Premkumar, the film features Karthi, Aravindsamy, Sri Divya, Rajkiran, and more. Composed by Govind Vasantha and shot by Mahendran Jayaraju, it's produced by Surya and Jothika under 2D Entertainment. The production has wrapped, and the team celebrated Karthi's birthday by releasing the poster, generating high anticipation among fans.
-
-🟩
-
-The first look poster of the film 'Karthi-Aravindsamy' has been released for the first time in the Tamil film industry.
-
-Director C's directed '96'. Karthi, Aravindsamy, Sri Divya, Rajkran and many others have starred in the movie 'Meyyalakan' directed by Premkumar.. Govind Vasantha has composed the film, which is being recorded by Mahendran Jayaraju. The film is being produced by star couple Surya and Jodhika on behalf of 2D Entertainment film company.
-
-The shooting of the film is completed and the final phase of the work is going on. The film crew has released the first look of the film on the occasion of Karthi's birthday.
-
-Karthi and Aravindsamy have been designed to be the mudslides of the mud, which has caused great anticipation among fans.. The expectation of the film has increased as the photo with Karthi Jallikattu bull has been released in another poster.
-
-◼️
-
-[Data](articles/9029ab6f.json)
-
-[Extended Data](ext_articles/9029ab6f.ext.json)
-
----
-
-### An argument between Ali Sabri Rahim and Puttalam Divisional Secretary
-
-*2024-05-28 06:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/184652) · `ta`
-
-Ali Sabri Rahim, the Puttalam District Parliamentarian, had an argument with the Divisional Secretary over an investigation into individuals occupying state-owned land on Mannarama Road. This incident led to a protest by Divisional Secretariat officials against threats to the Secretary.
-
-🟩
-
-There has been an argument between Puttalam Divisional Secretary and Puttalam District Parliamentarian Ali Sabri Rahim.
-
-There was an argument when the Divisional Secretary went to investigate the people who occupied a state -owned land on Mannarama Road in Puttalam.
-
-A group of Puttalam Divisional Secretariat officials staged a demonstration in protest of the threat of MP for the Divisional Secretary.
-
-◼️
-
-[Data](articles/748a4627.json)
-
-[Extended Data](ext_articles/748a4627.ext.json)
-
----
-
-### LankaGPT to launch Sri Lanka’s first Sinhala and Tamil AI GPT platform
-
-*2024-05-28 04:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/LankaGPT-to-launch-Sri-Lankas-first-Sinhala-and-Tamil-AI-GPT-platform/108-283474) · `en`
-
-LankaGPT Technologies Co-Founder and Director Lakshitha Karunaratne, Caladium Capitals USA Managing Director Lasitha Gunasinghe and Director Kasun Gunasinghe
-
-LankaGPT Technologies is gearing up to launch Sri Lanka’s first-ever Sinhala and Tamil AI Generative Pre-trained Transformer (GPT) by July 2024.
-
-Named Sigiriya AI, the text-based AI platform is designed to generate human-like responses to prompts fed in the Sri Lankan Sinhala and Tamil languages.
-
-“The main objective was to have a Sri Lankan-centric AI platform, accessible to Sri Lankans from anywhere in the world. We want to promote our culture and preserve our Sinhala and Tamil languages, which are declining in usage,” LankaGPT Technologies Co-Founder and Director Lakshitha Karunaratne said.
-
-The AI tool has been created using a total collection of 10 billion proprietary data sets for the Sinhala and Tamil languages, respectively.
-
-...
-
-[Data](articles/86b6d7c4.json)
-
-[Extended Data](ext_articles/86b6d7c4.ext.json)
-
----
-
-### Industry fears wage hike impact on Ceylon Tea brand
-
-*2024-05-28 03:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Industry-fears-wage-hike-impact-on-Ceylon-Tea-brand/108-283479) · `en`
-
-From left: Former CTTA Chairman Anselm Perera, CTTA Chairman Sanjay Herath, PA Secretary-General Lalith Obeyesekere, PA Chairman Senaka Alawattegama, PA Spokesperson Dr. Roshan Rajadurai, PA Media Committee Chair Shanaka Samaradiwakara, All Island Federation of Tea Smallholder Development Societies Chairman Jagath Pathirana
-
-The tea industry veterans warned that the Ceylon Tea brand would face irreparable damage in international markets, leading to both decline in auction prices and global market share, if the government forced the plantation companies, including the smallholder sector, to implement the unprecedented 70 percent minimum wage hike arbitrarily.
-
-Speaking at a press conference held in Colombo yesterday, industry veteran and former Colombo Tea Traders Association Chairman Anselm Perera termed the ‘arbitrary and reckless’ wage hike to be the fourth major crisis of the Ceylon Tea industry in post-independent Sri Lanka.
-
-...
-
-[Data](articles/806e28a9.json)
-
-[Extended Data](ext_articles/806e28a9.ext.json)
 
 ---

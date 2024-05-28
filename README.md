@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-29 01:33:54**
+As of **2024-05-29 01:52:40**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,319
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,922 (100.0%) of 26,926 articles have been extended.
+26,926 (100.0%) of 26,926 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,41 +48,59 @@ Chartered Institute of Taxation of Sri Lanka (CITSL) President Ranil Abeywardhen
 
 [Data](articles/6141f8fd.json)
 
+[Extended Data](ext_articles/6141f8fd.ext.json)
+
 ---
 
-### ’ஒத்திவைக்கும் விளையாட்டு சரிவராது’
+### Postponing game
 
 *2024-05-29 00:39:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒத்திவைக்கும்-விளையாட்டு-சரிவராது/175-338057) · `ta`
 
-மக்களின் பிரச்சினைகளுக்கு உண்மையான பதில்களை வழங்கியிருந்தால் நாடு இவ்வாறானதொரு கதியை சந்தித்திருக்காது என தெரிவித்த தேசிய மக்கள் சக்தியின் தலைவரும், பாராளுமன்ற உறுப்பினருமான அனுரகுமார திஸாநாயக்க, தேர்தலை ஒத்திவைக்கும் விளையாட்டு தங்களிடத்தில் எடுபடாது என்றார்.
+Anuragumara Dissanayake criticizes the government for not addressing public issues, leading to current challenges. He spoke at a women's conference, emphasizing the need for genuine solutions. Range Bandara suggests holding the presidential election as scheduled but supports giving Ranil Wickremesinghe another term, indicating a lack of viable alternatives. Dissanayake highlights the potential of Sri Lanka, rich in natural resources, yet facing issues like hunger and homelessness, calling for a nation where everyone thrives.
 
-தேசிய மக்கள் சக்தியின் வவுனியா மாவட்ட மகளிர் மாநாட்டில் கலந்து கொண்டு உரையாற்றும் போதே திரு.திஸாநாயக்க மேற்கண்டவாறு தெரிவித்தார்.
+🟩
 
-ஜனாதிபதித் தேர்தலை திட்டமிட்டபடி நடத்த வேண்டும் என்றும் ஆனால் ரணில் விக்கிரமசிங்கவுக்கு இன்னும் ஐந்து வருட கால அவகாசம் வழங்க வேண்டும் என்றும் ரங்கே பண்டார கூறியிருக்கின்றார்.  வேறு யாரையும் கேட்காமல் ரணிலை மட்டும் ஜனாதிபதித் தேர்தலுக்குக் கேட்கிறார்கள், அவரால் வெற்றி பெற முடியாது என்பதை அவர்களும் ஏற்றுக் கொள்கிறார்கள் என்றுதான் அர்த்தம்.
+Anuragumara Dissanayake, the leader of the National People's Power and Member of Parliament, said that if the country had given real answers to the problems of the people, the country would not have met such a fate.
 
-இலங்கையின் முழு அரசியலிலும் தேசிய மக்கள் சக்தி மையமாக உள்ளது வெவ்வேறு காலங்களில் வெவ்வேறு கட்சிகளுக்கு வாக்களித்தவர்கள் அரசியலில் ஆர்வம் காட்டாமல் பல்வேறு கட்சிகளுக்கு வாக்களித்தனர்.
+Speaking at the Vavuniya District Women's Conference of the National People's Power, Mr. Dissanayake said this.
 
-...
+Range Bandara has said that the presidential election should be held as planned but that Ranil Wickremesinghe should be given five more years.It means that Ranil only asks for the presidential election without asking anyone else and that they cannot win.
+
+The entire politics of Sri Lanka is a national people's power center.
+
+This country is not the country to begging. This is not a country that people have to suffer. This is not a country that people want to starve, this is a gem with all natural resources, such as a gem and people die without food. There are homeless people. We will build a country where everyone can live together.
+
+◼️
 
 [Data](articles/f753ce5a.json)
 
+[Extended Data](ext_articles/f753ce5a.ext.json)
+
 ---
 
-### ’தேர்தலை பிற்போட இடமில்லை’
+### There is no place for the election
 
 *2024-05-29 00:36:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தலை-பிற்போட-இடமில்லை/175-338056) · `ta`
 
-அரசியலமைப்பின் பிரகாரம் ஜனாதிபதித் தேர்தலை ஒத்திவைக்க முடியாது. ஜனாதிபதி தேர்தலுக்காக சர்வஜன வாக்கெடுப்பு நடத்த முடியாது என ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் கீன்ஸ் நெல்சன் தெரிவித்தார்.
+The presidential election cannot be postponed due to constitutional restrictions, as stated by Keens Nelson from the United People's Power. Palitha Range Bandara, from the United National Party, made incorrect claims about the constitution, prompting calls for him to clarify his statements. The executive president assures protection of the constitution, and any attempts to postpone elections or extend terms would likely fail due to lack of constitutional provisions.
 
-எதிர்க்கட்சித் தலைவர் அலுவலகத்தில் செவ்வாய்க்கிழமை (28) இடம்பெற்ற ஊடகவியலாளர் சந்திப்பிலேயே மேற்கண்டவாறு தெரிவித்தார்.
+🟩
 
-ஐக்கிய தேசியக் கட்சியின் பொதுச் செயலாளர் பாலித ரங்கே பண்டார அரசியலமைப்புச் சட்டத்தை சரியாகப் புரிந்து கொள்ளாமலே இவ்வாறான கருத்துக்களை வெளியிடுகின்றார்.
+The presidential election cannot be postponed according to the Constitution. United People's Power MP Keens Nelson said that a referendum could not be held for the presidential election.
 
-இந்த கதையை நாட்டுக்கு கூறும் முன், அரசியலமைப்பின் எந்தப் பிரிவு இவ்வாறு குறிப்பிடப்பட்டுள்ளது என்பதை பாலித ரங்கே பண்டார முதலில் சுட்டிக்காட்ட வேண்டும். இவ்வாறான பொறுப்பற்ற அறிக்கைகளை வெளியிடுவதை தவிர்க்குமாறு கேட்டுக்கொண்டார்.
+He said this at a media briefing held at the Opposition Leader's office on Tuesday (28).
+
+United National Party General Secretary Palitha Range Bandara makes such comments without understanding the constitution.
+
+Before telling this story to the country, Palitha Range Bandara should first point to which section of the Constitution is mentioned.. He urged to avoid publishing such reckless statements.
+
+The executive president of the country gives the promise to protect the Constitution. Palitha Range Bandara is acting as a violation of the Constitution. He said the proposals would definitely defeat if the proposals were brought to postpone the presidential election and the general election for 2 years or to extend their tenure.
 
 ...
 
 [Data](articles/8402fe94.json)
+
+[Extended Data](ext_articles/8402fe94.ext.json)
 
 ---
 
@@ -223,6 +241,8 @@ Let me begin with two points about his name and pet name. Thondaman’s first na
 ...
 
 [Data](articles/5005af32.json)
+
+[Extended Data](ext_articles/5005af32.ext.json)
 
 ---
 

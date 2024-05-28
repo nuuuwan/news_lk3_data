@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-28 11:53:33**
+As of **2024-05-28 12:06:00**
 
 ## Newspaper Stats
 
-*Scraped **26,745** Articles*
+*Scraped **26,756** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,130 @@ dbsjeyarajcom | 265
 bbccomsinhala | 266
 newsfirstlk | 363
 islandlk | 1,453
-economynextcom | 1,525
+economynextcom | 1,530
 dailyftlk | 1,567
 adalk | 2,275
-adaderanalk | 3,059
-tamilmirrorlk | 3,133
+adaderanalk | 3,062
+tamilmirrorlk | 3,134
 virakesarilk | 4,094
-dailymirrorlk | 4,218
-adaderanasinhalalk | 4,290
+dailymirrorlk | 4,219
+adaderanasinhalalk | 4,291
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,744 (100.0%) of 26,745 articles have been extended.
+26,745 (100.0%) of 26,756 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-28 (Tuesday)
+
+### Fishermen advised not to go to sea until further notice
+
+*2024-05-28 11:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/99486/fishermen-advised-not-to-go-to-sea-until-further-notice) · `en`
+
+The Department of Meteorology has issued an advisory for strong winds and rough seas for the sea areas around the island.
+
+The ‘red’ alert states that the sea areas around the island will be very rough with very strong gusty winds up to 60-70kmph.
+
+Thus, naval and fishing communities are advised not to venture into the sea areas around the island, until further notice, the advisory said.
+
+Swell waves about 2.5 m – 3.0 m height (this is not for land area) may increase in the sea areas off the coast extending from Kalpitiya to Pottuvil via Colombo, Galle and Hambantota.
+
+There is a possibility that near shore sea areas off the coast extending from Kalpitiya to Matara via, Colombo and Galle may experience surges due to swell waves, the advisory added.
+
+Accordingly, naval and fishing communities are also requested to be attentive to future forecasts issued by the Department of Meteorology in this regard.
+
+◼️
+
+[Data](articles/2e70b9c2.json)
+
+---
+
+### පොහොට්ටු කාර්යාලය ඉදිරිපිට උණුසුම් තත්ත්වයක්
+
+*2024-05-28 11:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197104) · `si`
+
+බත්තරමුල්ල නෙළුම් මාවත ශ්‍රී ලංකා පොදුජන පෙරමුණු කාර්යාලය ඉදිරිපිට උණුසුම් තත්ත්වයක් ඇතිවිය.
+
+සිවිල් සංවිධාන ක්‍රියාකරුවන් කිහිපදෙනෙකු එම ස්ථානයට පැමිණ එම පක්ෂයට විරුද්ධව පොල් ගැසීමට කටයුතු කිරීමත් සමග මෙම තත්ත්වය ඇතිවිය.
+
+එහිදී එම ස්ථානයෙන් ගමන්කළ අමාත්‍ය ප්‍රසන්න රණතුංග මහතාට ද විරෝධතාවයේ නිරත පිරිසගෙන් බාධා එල්ලවිය.
+
+◼️
+
+[Data](articles/e177e708.json)
+
+---
+
+### ICTபுலமைப்பரிசில் விண்ணப்ப முடிவுத் திகதி நீடிப்பு
+
+*2024-05-28 11:33:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ICTபுலமைப்பரிசில்-விண்ணப்ப-முடிவுத்-திகதி-நீடிப்பு/175-338012) · `ta`
+
+க.பொ.த (உயர்தர) தகவல் தொழிநுட்பத்தை ஒரு பாடமாக கற்கும் மாணவர்களுக்கு இலங்கைத் தொலைத்தொடர்பு ஒழுங்குபடுத்தல் ஆணைக்குழு மற்றும் ஜனாதிபதி நிதியம் இணைந்து வழங்கும் புலமைப்பரிசில் வேலைத்திட்டம் – 2024/2025 இற்காக விண்ணப்பங்கள் ஏற்றுக்கொள்ளப்படும் முடிவுத்திகதி ஜூன் மாதம் 07 ஆம் திகதி வரை நீடிக்கப்பட்டுள்ளது.
+
+இந்தப் புலமைப்பரிசில் வழங்கும் திட்டம் மிக விரைவில் நடைமுறைப்படுத்தப்படவுள்ளதால் தகுதி பெற்றுள்ள மாணவ மாணவிகள் தமது விண்ணப்பங்களை உரிய முறையில் நிரப்பி குறித்த திகதிக்கு முன்னர் தமது பிரதேச கிராம உத்தியோகத்தர் மற்றும் செயலாளரின் பரிந்துரையுடன், வகுப்பாசிரியர், பாடசாலை அதிபர், மற்றும் வலயக் கல்விப் பணிப்பாளரின் பரிந்துரையுடன் செயலாளர், ஜனாதிபதி நிதியம், இலக்கம் 35, மூன்றாம் மாடி, லேக்ஹவுஸ் கட்டிடம், டீ. ஆர் விஜேவர்தன மாவத்தை, கொழும்பு 10 என்ற முகவரிக்கு பதிவுத் தபாலில் மாத்திரம் அனுப்பிவைக்கவும்.
+
+கடித உரையின் இடது பக்க மேல் மூலையில் புலமைப்பரிசில் வேலைத்திட்டத்தின் பெயர் மற்றும் பாடசாலை உள்வாங்கப்பட்டுள்ள கல்வி வலயத்தின் பெயரையும் குறிப்பிட வேண்டும்.
+
+...
+
+[Data](articles/2c6b24b5.json)
+
+---
+
+### Hold referendum to extend terms of President, Parliament: UNP
+
+*2024-05-28 11:28:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Hold-referendum-to-extend-terms-of-President-Parliament-UNP/108-283511) · `en`
+
+Colombo, May 28 (Daily Mirror) - United National Party (UNP) headed by President Ranil Wickremesinghe today suggested holding a referendum to extend the term of the President and Parliament for two more years.
+
+The proposal was made by UNP General Secretary Palitha Range Bandara today.
+
+"Extending the terms of the President and Parliament by two more years through a referendum is the best option at this moment to save the nation. The Government has reached agreements with the IMF, World Bank and other donors on economic reforms and it is essential to extend the terms of the President and Parliament to make this exercise a success,. Stabilizing the economy is more important than anything," Range Bandara told the media.
+
+"We propose a referendum to extend the terms of the President and Parliament as it is the most democratic way to do it," he added.
+
+◼️
+
+[Data](articles/a05b7753.json)
+
+---
+
+### Woman arrested with heroin in Wellampitiya
+
+*2024-05-28 11:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/99485/woman-arrested-with-heroin-in-wellampitiya) · `en`
+
+Police have arrested a woman who was in possession of heroin during the operation ‘Yukthiya’ carried out in the Wellampitiya area in the Grandpass police division.
+
+The Police Special Task Force (STF) arrested the woman, identified by the alias “Wellampitiya Kudu Rejina”, with 7 grams and 280 milligrams of heroin during the operation yesterday (27) and handed over the suspect to Grandpass Police for further investigations.
+
+◼️
+
+[Data](articles/1a7fc029.json)
+
+---
+
+### Bad weather pushing vegetable and fish prices up
+
+*2024-05-28 11:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/99484/bad-weather-pushing-vegetable-and-fish-prices-up) · `en`
+
+The prices of vegetables in the market have increased once gain due to the prevailing adverse weather conditions.
+
+It is reported that the prices have increased due to vegetable crops being damaged by the rainy weather.
+
+President of the Manning Market Traders’ Association, Ajith Kalutharage, warned that if this situation continues, the price of vegetables may rise even further.
+
+Meanwhile, it is reported that fish prices have also increased rapidly.
+
+President of the Peliyagoda Central Fish Market Traders’ Association Jayasiri Wickramaarachchi said that fishermen are not resorting to fishing activities at sea due to the bad weather conditions, which has caused the prices of fish to rise.
+
+◼️
+
+[Data](articles/810f738f.json)
+
+---
 
 ### Floods at several places including Ratnapura
 
@@ -261,6 +367,26 @@ The suspect has served as the motorcyclist in this shot of shooting incident.
 [Data](articles/a4284345.json)
 
 [Extended Data](ext_articles/a4284345.ext.json)
+
+---
+
+### Sri Lanka’s WindForce Plc rated ‘BBB+(lka) with stable outlook: Fitch
+
+*2024-05-28 10:36:00* · [`economynextcom`](https://economynext.com/sri-lankas-windforce-plc-rated-bbblka-with-stable-outlook-fitch-165046/) · `en`
+
+ECONOMYNEXT – WindForce Plc said Fitch Ratings Lanka Ltd had assigned a ‘BBB+(lka)’ rating for the company with stable outlook.
+
+“The rating reflects WindForce’s large exposure to Ceylon Electricity Board (CEB, BB+(1ka)/Stable) as the key offtaker. The Stable Outlook reflects Fitch Ratings’ view that risks of significant payment delays from CEB to WindForce has decreased, easing liquidity pressure,” the company said in a stock exchange filing.
+
+The full Rating Action Commentary by Fitch Ratings Lanka Ltd:
+
+Fitch Publishes Sri Lanka’s WindForce’s ‘BBB+(Ika)’ National Rating; Outlook Stable.
+
+Fitch Ratings – Colombo – 22 May 2024: Fitch Ratings has published Sri Lanka-based independent power producer WindForce PLC’s ‘BBB+(Ika}’ National Long-Term Rating. The Outlook is Stable.
+
+...
+
+[Data](articles/ac67ef10.json)
 
 ---
 
@@ -512,6 +638,28 @@ The woman was arrested as' Wellampitiya Kuda Queen 'with 7 grams of heroin yeste
 
 ---
 
+### Sri Lanka rupee opens broadly stable at 300.50/90 to US dollar
+
+*2024-05-28 09:36:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-broadly-stable-at-300-50-90-to-us-dollar-165036/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened broadly stable at 300.50/90 to the US dollar on Tuesday, from 300.50/70 the previous day, dealers said. Bond yields were steady.
+
+A bond maturing on 15.12.2026 was quoted at 9.95/10.00 percent from 9.90/10.05 percent.
+
+A bond maturing on 15.09.2027 was quoted up at 10.35/40 percent from 10.30/40 percent.
+
+A bond maturing on 01.07.2028 was quoted up at 10.90/95 percent from 10.80/95 percent.
+
+A bond maturing on 15.01.2030 was quoted stable at 11.60/80 percent.
+
+The Colombo Stock Exchange opened down. The All Share Price Index was down 0.06 percent at 12,303, the S&P SL20 was down 0.06 percent at 3,649. (Colombo/May28/2024)
+
+◼️
+
+[Data](articles/2bd460ab.json)
+
+---
+
 ### Bomb threatening to aircraft in Delhi
 
 *2024-05-28 09:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/184659) · `ta`
@@ -590,7 +738,7 @@ In this case, the fence of the fishermen on the road was closed and closed on Mo
 
 *2024-05-28 09:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/99482/bomb-scare-on-indigo-flight-at-delhi-airport-all-176-passengers-evacuated) · `en`
 
-A Varanasi-bound IndiGo flight today received a bomb threat at the Delhi airport, prompting authorities to inspect the plane, officials said.
+A Varanasi-bound IndiGo flight today received a bomb threat at the Delhi airport, prompting to inspect the plane, officials said.
 
 The flight, 6E2211, was scheduled to take off from Delhi’s Indira Gandhi International Airport around 5 am and was stopped on the runway minutes before departure.
 
@@ -599,6 +747,8 @@ The flight, 6E2211, was scheduled to take off from Delhi’s Indira Gandhi Inter
 The aircraft, with 176 passengers onboard, was immediately taken to the isolation bay for further necessary action, the official said, adding that a quick response team was deployed, which has so far not found any suspicious items.
 
 All passengers were deboarded through the emergency door and are safe, the official said.
+
+The IndiGo also released an official statement and said that the aircraft was taken to a remote bay as per guidelines by airport security agencies.
 
 ...
 
@@ -898,7 +1048,7 @@ The prevailing showery and windy conditions are expected to continue further, du
 
 Showers or thundershowers will occur at times in Western, Sabaragamuwa, Central, North-western and Southern provinces.
 
-Heavy showers above 100mm are likely at some places in Western and Sabaragamuwa province and in Nuwara-Eliya district.
+Heavy showers above 100mm are likely at some places in Western and Sabaragamuwa provinces and in Nuwara-Eliya district.
 
 Showers or thundershowers will occur at several places in Uva province and in Ampara and Batticaloa districts in the evening or night, it said.
 
@@ -909,6 +1059,22 @@ Strong winds of about 50-60 kmph can be expected at times over Western slopes of
 [Data](articles/8abd8bb5.json)
 
 [Extended Data](ext_articles/8abd8bb5.ext.json)
+
+---
+
+### Sri Lanka keeps policy rates unchanged
+
+*2024-05-28 07:44:00* · [`economynextcom`](https://economynext.com/sri-lanka-keeps-policy-rates-unchanged-165028/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s central bank kept is policy corridor unchanged with most rates converging towards the floor rate in recent weeks helped by a build up of excess liquidity from dollar purchases.
+
+“While the medium term inflation outlook remains compatible with the current level of policy interest rates and inflation expectations are well anchored, the Board observed the need for a further reduction in market lending interest rates in line with policy interest rates and other benchmark interest rates, which is imperative for the easing of domestic monetary conditions and domestic economic recovery,” the central bank said in its monetary policy statement.
+
+The central bank said the effect of value added tax hike in the inflation index had been offset in the inflation index by falling fuel, electricity and LP gas prices.
+
+...
+
+[Data](articles/2781e10e.json)
 
 ---
 
@@ -951,6 +1117,26 @@ However, the situation took a dramatic turn when she and her husband returned to
 [Data](articles/7bc1d693.json)
 
 [Extended Data](ext_articles/7bc1d693.ext.json)
+
+---
+
+### Sri Lanka plantations say state ‘arbitrary’ wage order will de-stabilize tea sector
+
+*2024-05-28 07:28:00* · [`economynextcom`](https://economynext.com/sri-lanka-plantations-say-state-arbitrary-wage-order-will-de-stabilize-tea-sector-165025/) · `en`
+
+ECONOMYNEXT – A state ordered wage hike for tea and rubber workers will de-stabilize the sector by undermining a productivity linked wages aimed at boosting output, plantations managers said.
+
+In order to pay the mandated wage which amounts to a 70 percent increase in costs, without an increase in output which is possible under alternative models already tried will force cost-cutting in fertilizer and other investments, the Planters’ Association of Ceylon said.
+
+The government issued another gazette in May, with exactly the same wage as in April, under the so-called wages board ordinance.
+
+Wages for tea and rubber workers are the highest among all wages boards including garments and other state jobs like
+
+Planters’ Association strongly opposes Government’s arbitrary and ill-conceived wage hike for plantation sector workers
+
+...
+
+[Data](articles/4adca159.json)
 
 ---
 
@@ -1337,6 +1523,26 @@ In a history where promises are not fulfilled, I can only give pure confidence t
 [Data](articles/b371555b.json)
 
 [Extended Data](ext_articles/b371555b.ext.json)
+
+---
+
+### Elon Musk to visit Sri Lanka at the end of this year: Ruwan Wijewardene
+
+*2024-05-28 02:25:00* · [`economynextcom`](https://economynext.com/elon-musk-to-visit-sri-lanka-at-the-end-of-this-year-ruwan-wijewardene-165022/) · `en`
+
+ECONOMYNEXT – Sri Lanka will welcome Elon Musk later this year, Senior Adviser to the President on Climate Change Ruwan Wijewardene said.
+
+“When we introduce Starlink and welcome Elon Musk to Sri Lanka, this would open the door to more billionaires coming into the country,” Wijewardene told reporters on Monday.
+
+President Ranil Wickremesinghe met Elon Musk, the CEO of Tesla and SpaceX, at the recently concluded 10th World Water Forum in Bali, Indonesia.
+
+“Elon Musk stated that the project would require the President’s support. In response, President Wickremesinghe assured him of full support to initiate the project in Sri Lanka. Musk also mentioned that he plans to visit Sri Lanka at the end of this year to start the project,” Wijewardene said.
+
+“We have to show that we are confident in getting Starlink,” Wijewardene said. “And that Sri Lanka is a place for global projects and more investments. Once that is finished, we can introduce SpaceX.”
+
+...
+
+[Data](articles/3d14e09d.json)
 
 ---
 
@@ -2009,233 +2215,5 @@ Earlier, President Ranil Wickremesinghe said that Elon Musk had sent an applicat
 [Data](articles/af9237b4.json)
 
 [Extended Data](ext_articles/af9237b4.ext.json)
-
----
-
-### Wimal, Kammanpila, who set up a new political nest
-
-*2024-05-27 21:52:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-அரசியல்-கூட்டை-அமைத்த-விமல்-கம்மன்பில/175-337995) · `ta`
-
-MP Wimal Weerawansa and Udaya Kammanpila lead the formation of the Sarvajana Balaya, a new political alliance involving several parties, including the National Freedom Front.
-
-🟩
-
-Some political parties, including the National Freedom Front (NGO) led by MP Wimal Weerawansa and Parliamentarian Udaya Kammanpila, have formed a new political partnership, which is named as the Sarvajana Balaya.
-
-◼️
-
-[Data](articles/a4ee3a14.json)
-
-[Extended Data](ext_articles/a4ee3a14.ext.json)
-
----
-
-### 10 people killed, 39 injured after bus crashes into vehicles in Turkey
-
-*2024-05-27 21:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/99476/10-people-killed-39-injured-after-bus-crashes-into-vehicles-in-turkey) · `en`
-
-A passenger bus crashed into vehicles on a highway in southern Turkiye, killing at least 10 people and leaving 39 others injured, officials said Monday.
-
-The accident occurred in the province of Mersin late on Sunday, when the bus veered into the opposite lane in heavy rain and crashed into two cars. A truck later slammed into all three vehicles, Gov. Ali Hamza Pehlivan told reporters.
-
-The injured were rushed to nearby hospitals and at least eight of them were in serious condition, the state-run Anadolu Agency reported.
-
-There were 28 passengers on board the intercity bus, which was travelling from the southeastern city of Diyarbakir to Adana, in the south of the country, Anadolu reported.
-
-◼️
-
-[Data](articles/ab982216.json)
-
-[Extended Data](ext_articles/ab982216.ext.json)
-
----
-
-### Failure to appoint judges to Superior Courts challenged before SC by President’s Counsel
-
-*2024-05-27 21:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Failure-to-appoint-judges-to-Superior-Courts-challenged-before-SC-by-Presidents-Counsel/108-283458) · `en`
-
-Colombo, May 27 (Daily Mirror) - A President’s Counsel with over 55 years of active practice as an Attorney-at-Law filed a Fundamental Rights application before the Supreme Court challenging the failure of the President to make judicial appointments to the Superior Courts, resulting in two vacancies in the Supreme Court and five vacancies in the Court of Appeal for several months.
-
-President’s Counsel Senaka Walgampaya filed this application seeking an order directing the respondents including the Attorney General, the representative of the President and the Constitutional Council to forthwith ensure the appointment of judges to fill the vacancies in the Court of Appeal in accordance with the Constitution.
-
-...
-
-[Data](articles/d6e080f4.json)
-
-[Extended Data](ext_articles/d6e080f4.ext.json)
-
----
-
-### Court orders Court regarding the incident of the Matara bowl
-
-*2024-05-27 21:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197083) · `si`
-
-A court has ordered a DNA test after a baby died in a Sri Lankan hospital, despite the director's opposition. The chief magistrate visited the hospital and ordered a death investigation. A 24-year-old woman gave birth there, but was told her baby died due to a "bailout." The hospital did not inform the parents initially.
-
-🟩
-
-Matara Chief Magistrate Aruna Buddhadasa has ordered a DNA investigation to ensure that the baby was dead in the New District General Hospital.
-
-It is the backdrop that the director of the hospital is against it when the parents were asked to an inquiry into his sailway.
-
-Matara Chief Magistrate Aruna Buddhadasa has come to the hospital and the infant's correspondence of the infant.
-
-The Magistrate also ordered that a death investigation into the body.
-
-The 24-year-old resident of Weligama, Matara was admitted to the Matara New District General Hospital on the 22nd of the 22nd.
-
-The hospital authorities had informed her that she had given birth to her child, but she had deceased.
-
-That was because of his babies' body of the bailout that the dead was dead, hospital authorities were not showing their parents and the contrary.
-
-We have asked a child and a villai as a doctor who follows the usual procedure followed by a hospital in infant death.
-
-...
-
-[Data](articles/bede56c6.json)
-
-[Extended Data](ext_articles/bede56c6.ext.json)
-
----
-
-### Heating between Ali Sabri and Puttalam Divisional Secretary
-
-*2024-05-27 20:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197082) · `si`
-
-An argument occurred between MP Ali Sabri and the Puttalam Divisional Secretary over unauthorized settlement on government land in the Mannar Road area of Puttalam. The Divisional Secretary visited the site to investigate, leading to a protest by the local community against the MP's threats.
-
-🟩
-
-The Puttalam Divisional Secretary and Puttalam District Ali Sabri has an argument between MP Ali Sabri.
-
-එම බහින්බස්වීම සිදුව තිබුණේ පුත්තලම මන්නාරම පාර ප්‍රදේශයේ රජය සතු ඉඩමක පුද්ගලයින් පිරිසක් අනවසරයෙන් පදිංචිවීමක් සම්බන්ධයෙන් සොයා බැලීමටප්‍රාදේශීය ලේකම්වරයා එහි ගිය අවස්ථාවේදීය.
-
-The Puttalam Divisional Secretariat engaged in protest against the MP threatening the Divisional Secretary.
-
-◼️
-
-[Data](articles/29b118ec.json)
-
-[Extended Data](ext_articles/29b118ec.ext.json)
-
----
-
-### Actor Somi Ratnayake felicitated
-
-*2024-05-27 20:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Actor-Somi-Ratnayake-felicitated/110-283456) · `en`
-
-Popular actor Somi Ratnayake was felicitated today at the Sudarshi - Institute of Sinhala Culture (Cinama Anu Mandalaya), Colombo. Several movies produced by Somi Ratnayake were screened during the ceremony. He is a versatile Sri Lankan cinema, stage drama and television actor, with a career spanning more than four decades. Rathnayake is a multi-talented person who is also a script writer and film producer. Pix by Nimalsiri Edirisinghe
-
-◼️
-
-[Data](articles/55508a49.json)
-
-[Extended Data](ext_articles/55508a49.ext.json)
-
----
-
-### Attraction of world-renowned trading investment will greatly help the country's economic growth- Ruwan Wijewardena
-
-*2024-05-27 20:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/184647) · `ta`
-
-Elon Musk's potential investment through Tesla and SpaceX, particularly the Starlink program, is expected to significantly boost Sri Lanka's economy. This includes improving internet accessibility in rural areas, benefiting sectors like tourism, and attracting global investors. President Ranil Wickremesinghe supports the initiative, aiming for its launch by the end of the year.
-
-🟩
-
-Ruwan Wijewardena, the president's senior advisor to climate change, said that if Tesla and SpaceX president, Elon Musk, could attract investments of world -renowned traders, it would be a major contributor to the economic growth of the country.
-
-He pointed out that by joining the "Starlink" program, the country's backward areas can provide internet facilities without any problems and this will be committed to the development of many sectors used for the economy, including tourism.
-
-The President's Senior Advisor to the Climate Change, Ruwan Wijayawardena, at a media briefing held at the Presidential Media Center on Monday, 27th.
-
-10th World Water Conference "World Water Forum". A delegation including President Ranil Wickremesinghe was present at the official invitation of Indonesian President Joko Widodo.. During the visit, a special meeting took place between the President and the Tesla and the SpaceX leader Elon Mask.
-
-...
-
-[Data](articles/028845f9.json)
-
-[Extended Data](ext_articles/028845f9.ext.json)
-
----
-
-### Employers Federation
-
-*2024-05-27 20:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/184645) · `ta`
-
-The Employers Federation opposes the government's 70% minimum wage hike for plantation workers in the tea and rubber industry, arguing it could destabilize the economy and harm the sector's competitiveness. They claim the increase, driven by smaller plantation owners and regional companies, is unsustainable and threatens the industry's future, potentially leading to job losses and financial strain. The federation warns that the move is politically motivated rather than economically sound, citing historical examples of state-owned enterprises' inefficiencies and the need for a productivity-based wage model to ensure long-term stability.
-
-🟩
-
-The Employers Federation has opposed the government's decision to raise the minimum wage of plantation workers in the tea and rubber industry by 70%.
-
-A joint statement issued by all shareholders against the adverse effects of the plantation sector due to the new salary increase. The resolution will weaken the plantation sector and eventually lead to severe economic stability in the country, the Employers Federation has pointed out.
-
-...
-
-[Data](articles/66a8a350.json)
-
-[Extended Data](ext_articles/66a8a350.ext.json)
-
----
-
-### The United States had the desire to win than Bangladesh- Instructor Stuart Lo
-
-*2024-05-27 19:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/184646) · `ta`
-
-The United States, driven by a stronger desire to win, clinched the three-match T20 series against Bangladesh, winning the first two games convincingly but losing the final one. Despite leading 2-0, the US team's performance dropped in the last match, allowing Bangladesh to level the series. The US team, initially showcasing strong performances with key players, experimented with bench strength in the final match, which backfired as Bangladesh secured victory through Mustafizur Rahman's bowling. Captain Aaron Jones highlighted the team's potential, stating they could compete with top teams like Bangladesh on their day, emphasizing the unpredictability of cricket.
-
-🟩
-
-The team's chief coach Stuart Low has said that the US team was more than Bangladesh to win the three -match international T20 cricket series in Texas.
-
-For the first time, the United States, who played in the bilateral international T20 series against the ICC full -member team, won the first two matches and won the series.
-
-In the first two matches, the United States won by 5 wickets and 6 runs respectively.
-
-However, the United States has made the series 2 - 1.
-
-After the last match, Stuart Low said, 'We had more zeal and curiosity in the first two matches. எதிரணியை விட நாங்கள் சற்று அதிகமாக திறமையை வெளிப்படுத்த விரும்பினோம். But, the last match has made us adverse. Looks like we played relaxed. பங்களாதேஷ்  திறமையாக விளையாடியதுடன் இந்த உற்சாகத்துடன் உலகக் கிண்ணத்தை எதிர்கொள்ளும்' என்றார்.
-
-...
-
-[Data](articles/6c3ebbc1.json)
-
-[Extended Data](ext_articles/6c3ebbc1.ext.json)
-
----
-
-### ඕනම ආයතන තුනක පුටු ගොඩක් හිස්
-
-*2024-05-27 19:48:51* · [`adalk`](https://www.ada.lk/breaking_news/ඕනම-ආයතන-තුනක-පුටු-ගොඩක්-හිස්/11-409861) · `si`
-
-කාලගුණ විද්‍යා දෙපාර්තමේන්තුව, ආපදා කළමනාකරණ මධ්‍යස්ථානය සහ ජාතික ගොඩනැගිලි  පර්යේෂණ ආයතනයේ පවතින සේවක හිඟය නිසා මෙකී ආයතන කාර්යක්ෂම ලෙස පවත්වා ගෙන යාමේ දී ගැටලු රැසක් නිර්මාණය වී ඇති බව ජාතික විගණන කාර්යාලය මගින් නිකුත් කර ඇති නවතම විගණන වාර්තාවක සඳහන් වේ. 2023-01-15 දින සිට කාලගුණ විද්‍යා දෙපාර්තමේන්තුවේ ඇති පුරප්පාඩු සංඛ්‍යාව 117 ක් වන අතර, පුරප්පාඩු වී ඇති තනතුරු සංඛ්‍යාවෙන් 76%ක් විධායක, තෘතියික, ද්විතියික මට්ටමේ ඒවාය.
-
-2023 වසරේ සිට  දෙපාර්තමේන්තුව තුළ පවතින සේවක හිඟය ආයතනයේ කාර්ය සාධානයට දැඩි ලෙස බලපා තිබේ. තාක්ෂණ නිලධාරීන්ගේ හිඟය, කාලගුණ විද්‍යාඥයන් සංඛ්‍යාව ප්‍රමාණවත් නොවීම හා කාලගුණ විද්‍යාඥයන් පශ්චාත් උපාධි ලබා ගැනීම සඳහා මෙරට තුළ හැකියාවක් නොමැති නිසා ඔවුන් විදේශ ගත වී ඇති බවත් කාලගුණ විද්‍යා දෙපාර්තමේන්තුව විසින් විගණනයට සඳහන් කර ඇත. මේ නිසා කාලගුණික හා දේශගුණික තොරතුරු අනාවැකි සැපයීමේ සේවා හා ජල කළමනාකරණ කටයුතු සේවාදායකයන්ට තොරතුරු සැපයීමේ සේවා හා අනෙකුත් සේවා නිසිලෙස පවත්වා ගෙන යාමට නොහැකි තත්වයක් නිර්මාණය වී ඇති බව ආපදා කළමනාකරණ මධ්‍යස්ථානය පවසයි.
-
-...
-
-[Data](articles/cf2687c0.json)
-
----
-
-### Darshana cruise to 400m final in China
-
-*2024-05-27 19:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Darshana-cruise-to-400m-final-in-China/108-283455) · `en`
-
-May 27 (Daily Mirror) - Sri Lanka’s Aruna Darshana powered his way to win the Men’s 400m first round heat at the second Belt and Road Athletics Invitation Meeting in Chongqing, China.
-
-Darshana returned a time of 46.26s in his heat and convincingly made it to the final of the meet - a World Athletics Continental Tour Bronze Label event. The final of this event is scheduled for tomorrow.
-
-Meanwhile, Dilhani Lekamge will be looking to improve her current position in the Road to Paris 2024 Olympic Rankings when she participates in the Women’s javelin throw event.
-
-Currently Lekamge is ranked 30th in the Road to Paris 2024 Rankings. The Paris Olympics has 32 slots for the Women’s javelin.
-
-Out of them six are selected based on qualifying standard which is 64m and the rest of the 26 positions will be filled according to ranking positions.
-
-◼️
-
-[Data](articles/e73d70f4.json)
-
-[Extended Data](ext_articles/e73d70f4.ext.json)
 
 ---

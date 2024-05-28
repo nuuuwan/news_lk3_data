@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-28 20:05:10**
+As of **2024-05-28 20:18:46**
 
 ## Newspaper Stats
 
-*Scraped **26,882** Articles*
+*Scraped **26,883** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,35 +20,45 @@ adaderanalk | 3,073
 tamilmirrorlk | 3,150
 virakesarilk | 4,122
 dailymirrorlk | 4,238
-adaderanasinhalalk | 4,313
+adaderanasinhalalk | 4,314
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,881 (100.0%) of 26,882 articles have been extended.
+26,882 (100.0%) of 26,883 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-28 (Tuesday)
 
-### ශ්‍රී ලංකාවේ රුසියානු තානාපති දුන් පොරොන්දුව
+### Promise of the Russian Ambassador of Sri Lanka
 
 *2024-05-28 19:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197129) · `si`
 
-රුසියානු යුක්‍රේන යුද ගැටුම් සඳහා මැදිව සිටින මෙරට විශ්‍රාමික යුද හමුදා සෙබළුන් කඩිනමින් දිවයිනට ගෙන්වා දෙන්නැයි ඉල්ලා ඔවුන්ගේ ඥාතීන් අද පෙරවරුවේ කොළඹ පිහිටි රුසියානු තානාපති කාර්යාලය ඉදිරිපිට නිහඬ විරෝධතාවයක නිරතවුණි.
+Relatives protested outside the Russian embassy in Colombo, demanding the return of Sri Lankan army soldiers. MPs Gamini Walaboda and Dayasiri Jayasekera joined, handing a memorandum to the embassy. The Russian Ambassador, Levan Dzhagaryan, promised to address the situation urgently. Meanwhile, three individuals were arrested for cheating over 140 people with job offers in Russia. The Foreign Minister announced plans for officials to visit Sri Lankans in Russia for investigation.
 
-මේ සඳහා පාර්ලිමේන්තු මන්ත්‍රීවරුන් වන ගාමිණි වලේබොඩ සහ දයාසිරි ජයසේකර යන මහත්වරුන්ද සහභාගී වී සිටියේය.
+🟩
 
-විරෝධතාවයේ නිරත පිරිස රුසියානු තානාපති කාර්යාලයට සංදේශයක් භාරදුන් අතර එහිදී ඔවුන්ගෙන් සිව්දෙනෙකුට රුසියානු තානාපතිවරයා සමග සාකච්ඡාවකට අවස්ථාව හිමිවුණි.
+Relatives were silent protest in front of the Russian embassy in Colombo this morning demanding the Sri Lankan army soldiers to bring to the island soon.
 
-එහිදී අදහස් දැක්වූ ශ්‍රී ලංකාවේ රුසියානු තානාපති  Levan S. Dzhagaryan,
+MPs Gamini Walaboda and Dayasiri Jayasekera were also present.
 
-"මට පැහැදිළියි ඇයි මේ ජනතාව රුසියානු තානාපති කාර්යාලය ඉදිරිපිටට ඇවිත් ඉන්න කාරණය මොකක්ද කියලා. මට කණගාටුයි මේ වනවිට සිදුවෙමින් පවතින දේ ගැන. ශ්‍රී ලංකාවේ රුසියානු තානාපති ලෙස මම පොරොන්දු වෙනවා මම මගේ උපරිමයෙන්ම කටයුතු කරනවා මේ ප්‍රශ්නය හැකි ඉක්මනින්ම සමථයකට පත්කර ශ්‍රී ලාංකික අපේ මිතුරන් යළි ගෙන්වා ගැනීමට. මම මගේ උපරිමයෙන්ම එය සිදුකරනවා."
+The protests handed over a memorandum to the Russian embassy and four of them had a discussion with the Russian Ambassador.
 
-...
+The Russian Ambassador in Sri Lanka Levan s. Dzhagaryan,
+
+"I'm clear why these people are in front of the Russian embassy.. I'm sorry about what is happening now. As the Russian Ambassador of Sri Lanka, I promise to make my best to revolve this issue as soon as possible and bring back our friends of Sri Lankans. I'm doing it in my best. "
+
+Meanwhile, Moratuwa Police have arrested three persons who cheated from more than 140 people claimed to be provided with jobs in Russia.
+
+Foreign Minister Ali Sabri told Ada Derana that the Northern Province has decided to visit Sri Lankans and the President to investigate Sri Lankans in Russia.
+
+◼️
 
 [Data](articles/4d96b7c2.json)
+
+[Extended Data](ext_articles/4d96b7c2.ext.json)
 
 ---
 
@@ -65,6 +75,28 @@ Perhaps the World Cup in the USA and WI could go down as one of the most unpredi
 [Data](articles/41307594.json)
 
 [Extended Data](ext_articles/41307594.ext.json)
+
+---
+
+### බැංකුවේ දින 3ක් රැඳී කොල්ලකෑ සැකකරු කොටුකළ සුපිරි මෙහෙයුම
+
+*2024-05-28 19:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197127) · `si`
+
+ජාඇළ ප්‍රදේශයේ සමූපකාර ග්‍රාමීය බැංකුවකට ඇතුළුවී දින තුනක් එහි රැඳී සිටිමින් සේප්පු කපා මුදල් හා රන්භාණ්ඩ සොරාගත් පුද්ගලයෙක් පැය 48 ක් යාමටත් මත්තෙන් අත්අඩංගුවට ගැනීමට පෑලියගොඩ අපරාධ කොට්ඨාශය සමත්වී තිබේ.
+
+වෙසක් පෝය නිමිත්තෙන් දින හතරක බැංකු නිවාඩුවක් පවතිද්දී බැංකුවේ බිත්තිය කඩා සැකකරු ඊට ඇතුල්වී තිබුණි.
+
+ජා ඇල, කණුවන පිහිටි සමූපකාර ග්‍රාමීය බැංකුවේ පැති බිත්තියක් අඩි එකහමාරක පමණ විෂ්කම්භයකින් හාරා සැකකරු ඊට ඇතුළුවී තිබුණේ වෙසක් පොහොය නිමිත්තෙන් දින කිහිපයක් එය වසා තිබියදීය.
+
+එහිදී රුපියල් කෝටි 4කට ආසන්න වටිනාකමකින් යුත් කිලෝ 2ක් බරැති රන් භාණ්ඩ තොගයක් සහ රුපියල් ලක්ෂ දහයකට අධික මුදලක් සොරාගෙන තිබූ අතර බැංකුවේ CCTV කැමරා පද්ධතියද සම්පූර්ණයෙන්ම ගලවාගෙන ගොස් තිබුණි.
+
+ඒ සම්බන්ධයෙන් පෑලියගොඩ අපරාධ කොට්ඨාසය විමර්ශනයක් ආරම්භ කළ අතර විමර්ශකයන්ගේ ප්‍රමුඛ අවධානය යොමුව තිබුණේ බැංකුවේ බිම වැටී තිබී සොයාගත් ග්‍රයින්ඩර් තල කිහිපයක් වෙතටය.
+
+සේප්පු කැපීමට යොදාගත් බවට සැකකෙරුණු එම ග්‍රයින්ඩර් තල චීනයෙන් ආනයනය කරන දෙල්ගොඩ ප්‍රදේශයේ පිහිටි ආයතනයක් වෙත ගිය පොලිසිය එහි කාර්යය මණ්ඩලයේ සහාය ලබාගෙන තිබුණි.
+
+...
+
+[Data](articles/a983bf2d.json)
 
 ---
 
@@ -2301,27 +2333,5 @@ Starlink satellite service may refer to the remote areas of the fiber optic cabl
 [Data](articles/5168a185.json)
 
 [Extended Data](ext_articles/5168a185.ext.json)
-
----
-
-### Bomb threatening on New Delhi flight
-
-*2024-05-28 12:18:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புது-டெல்லி-விமானத்தில்-வெடிகுண்டு-மிரட்டல்/175-338017) · `ta`
-
-Authorities conducted a search at New Delhi airport after reports of a bomb threat on a flight to Varanasi. Passengers were safely evacuated through emergency exits as part of security testing.
-
-🟩
-
-The Asian News International (ANI) said that the authorities were carrying out a search operation at the New Delhi airport on Tuesday (28) morning.
-
-According to the New Delhi Fire Service, "There was a bomb on the plane from New Delhi to Varanasi at 28 am today (28 am. Quick response groups (QRT) arrived at the scene ".
-
-Testing measures were carried out that all passengers were evacuated through emergencies.
-
-◼️
-
-[Data](articles/7e4b56b5.json)
-
-[Extended Data](ext_articles/7e4b56b5.ext.json)
 
 ---

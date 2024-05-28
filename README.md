@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-28 16:34:05**
+As of **2024-05-28 16:50:37**
 
 ## Newspaper Stats
 
-*Scraped **26,817** Articles*
+*Scraped **26,819** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,49 @@ islandlk | 1,454
 economynextcom | 1,532
 dailyftlk | 1,568
 adalk | 2,284
-adaderanalk | 3,067
+adaderanalk | 3,068
 tamilmirrorlk | 3,145
 virakesarilk | 4,104
 dailymirrorlk | 4,228
-adaderanasinhalalk | 4,303
+adaderanasinhalalk | 4,304
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,811 (100.0%) of 26,817 articles have been extended.
+26,817 (100.0%) of 26,819 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-28 (Tuesday)
+
+### චීනයේදී අපේ අරුණට පළමු ස්ථානය
+
+*2024-05-28 16:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197118) · `si`
+
+"Belt and Road" ආරාධිත මලල ක්‍රීඩා ශූරතාවලියේ පිරිමි මීටර් 400 ඉසව්වේ ප්‍රථම ස්ථානය ශ්‍රී ලාංකික ක්‍රීඩක අරුණ දර්ශන විසින් හිමිකරගත්තේය.
+
+එහිදී ඔහු මීටර් 400 ඉසව්ව නිමකිරීමට ගතකළ කාලය තත්පර 45.48කි.
+
+◼️
+
+[Data](articles/f06f9448.json)
+
+---
+
+### Court issues another restraining order against Wijeyadasa
+
+*2024-05-28 16:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/99492/court-issues-another-restraining-order-against-wijeyadasa) · `en`
+
+The Colombo District Court today issued another restraining order preventing Justice Minister Wijeyadasa Rajapakse from functioning as the Chairman and a member of the Sri Lanka Freedom Party (SLFP).
+
+The court order has been issued today (28) after considering a complaint filed by State Minister Lasantha Alagiyawanna.
+
+◼️
+
+[Data](articles/c91991bf.json)
+
+---
 
 ### Woman hacked to death near church over nightclub dispute
 
@@ -50,45 +78,65 @@ The Negombo Acting Magistrate visited the scene and conducted an on-site inspect
 
 [Data](articles/f07ada66.json)
 
+[Extended Data](ext_articles/f07ada66.ext.json)
+
 ---
 
-### කුවේට් රාජ්‍යයේ රැකියාවට ගිය සඳරුවන් සැකසහිත ලෙස මරුට
+### Sandaruwan dies in Kuwait
 
 *2024-05-28 16:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197117) · `si`
 
-කුවේට් රාජ්‍යයේ රැකියාවකට ගොස් සිටියදී මියගිය 27 හැවිරිදි තරුණයාගේ මරණයට හේතුව හෙළිකර දෙන්නැයි ඔහුගේ පවුලේ අය බලධාරීන්ගෙන් ඉල්ලා සිටී.
+Sandaruwan Bandara, a 27-year-old single man from Sri Lanka, died in Kuwait where he worked as a driver. His family is seeking information on his death after learning he was involved in an incident that resulted in his injury and the death of his employer's son. Sandaruwan's sister mentioned finding a premonitory letter he wrote six months prior, hinting at a potential threat to his life. Authorities are investigating the circumstances of his death, with suspicions pointing towards suicide.
 
-සීගිරියේ ඉලුක්වල ප්‍රදේශයේ පදිංචි 27 හැවිරිදි ඩබ්ලිව්. ජී. තනුජක සඳරුවන් බණ්ඩාර අවිවාහකයෙකු වන අතර ඔහු මීට වසර එකහමාරකට පෙර කුවේට් රාජ්‍යයේ නිවසක රියදුරෙකු ලෙස සේවයට ගොස් තිබුණි.
+🟩
 
-පසුගිය 20 වනදා තම සහෝදරයා රිය අනතුරකට ලක්වී තුවාල ලබා තිබෙන බව ඔහු සේවය කළ නිවසේ හිමිකරු දුරකථන මාර්ගයෙන් දැන්වූ බව මියගිය සඳරුවන්ගේ සහෝදරියක වන ශෂිනි මල්සානී පැවසුවාය.
+His family urges the authorities to reveal the death of the 20-year-old youth who died while he was gone to a job in Kuwait.
 
-සඳරුවන්ගේ මවද කුවේට් රාජ්‍යයේ වෙනත් ප්‍රදේශයක ගෘහ සේවය සඳහා පිටව ගොස් තිබෙන අතර ඇයද අද (28) දින අලුයම ලංකාවට පැමිණ තිබෙන බව ශෂිනි මල්සානි තවදුරටත් සඳහන් කළාය.
+27 year old W.. G. Tanunaka Sandaruwan Bandara is a unmarried person and he had gone to work as a driver in Kuwait kingdom one and a half ago.
 
-සඳරුවන්ගේ මරණය පිළිබඳව දිගින් දිගටම සොයා බැලීමේදී ඔහු ගෙල වැලලාගෙන මියගිය බවට නැවත වරක් එම නිවසෙන්ම තොරතුරු වාර්තා වූ බවද නිවසේ ගබඩා කාමරයක ඔහු සියදිවි හානි කරගෙන සිටින කුඩා වීඩියෝවක් වට්ස්ඇප් මාර්ගයෙන් ඒවා තිබූ බවද පවුලේ අය වැඩිදුරටත් පවසයි.
+Shashi Malzani, a sister of the resignation, said that the owner of his brother was killed and his brother was injured on the 20th.
 
-කෙසේවෙතත් මියගිය තරුණයාගේ දේහය ලංකාවට රැගෙන ඒම සඳහා අවශ්‍ය පියවර ගනිමින් තිබෙන බවත් වාර්තා වෙයි.
+Shashi Malzani further stated that the mother of Sandaruwan's mother had left the house in another area of Kuwait today (28).
+
+He also said that he had been reported from the house to the death of Sandaruwan's death and that he had been reported back from the house.
+
+However, it is reported that necessary steps are being taken to bring the dead youth to Sri Lanka.
+
+He also found a letter from a letter written about six months before the youth's bag, and said that the letter was written to the mother that he would lose his life.
+
+Sandaruwan Bandara's relative said he was committed suicide,
 
 ...
 
 [Data](articles/c05921f4.json)
 
+[Extended Data](ext_articles/c05921f4.ext.json)
+
 ---
 
-### ජාතික ජන බලවේගය ශ්‍රේෂ්ඨාධිකරණයට යයි
+### National folk force goes to Supreme Court
 
 *2024-05-28 16:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197116) · `si`
 
-ඉදිරි මැතිවරණ සමයේ  ආණ්ඩු පක්ෂයේ දේශපාලන පක්ෂවලට වාසි සහගත වන ආකාරයේ ව්‍යාපෘතීන් ක්‍රියාත්මක කිරීම සඳහා අනුමැතිය නොදෙන ලෙසත් මෙම කරුණට අදාළව මැතිවරණ කොමිෂන් සභාව විසින් නිකුත් කර ඇති ලිපියට අනුකූලව කටයුතු කරන ලෙසත් ජනාධිපති ලේකම් ඇතුළු පිරිසකට නියෝග නිකුත් කරන්නැයි ඉල්ලා ශ්‍රේෂ්ඨාධිකරණය හමුවේ මූලික අයිතිවාසිකම් පෙත්සමක් ගොනුකර තිබේ.
+The National Folk Force challenges the government's approval process for political alliances, filing a Supreme Court petition against the Attorney General and Cabinet members. The petition, led by former councilor Asitha Niroshan, aims to halt development projects in rural areas, alleging political bias. It seeks to prevent these projects from being allocated to specific candidates before the elections, ensuring fairness in the upcoming presidential and local government polls.
 
-ජාතික ජන බලවේගයේ කඩුවෙල හිටපු නාගරික මන්ත්‍රී අසිත නිරෝෂන් මහතා විසින් පෙත්සම ඉදිරිපත් කළේය.
+🟩
 
-එහි වගඋත්තරකරුවන් ලෙස නීතිපතිවරයා, අග්‍රාමාත්‍යවරයා ඇතුළු අමාත්‍ය මණ්ඩල සාමාජිකයින්, ජනාධිපති ලේකම්වරයා, මුදල් අමාත්‍යාංශයේ ලේකම්වරයා ඇතුළු පිරිසක් නම්කර තිබේ.
+The party's political parties have not been approved by the government's political parties and to implement the actual partnership of the government and the Presidential Secretary and the Presidential Secretary and the Presidential Secretary and the Presidential Secretary and the Presidential Secretary have filed a fundamental rights petition in the Supreme Court.
 
-මුදල් අමාත්‍යංශයේ ලේකම්වරයා විසින් 2024 අයවැය යෝජනා යනුවෙන් චක්‍රලේඛයක් නිකුත් කර ඇති අතර ඒ යටතේ ග්‍රාමීය ප්‍රදේශවල සංවර්ධන ව්‍යාපෘති ක්‍රියාත්මක කිරීමට යෝජනා කර ඇතැයි පෙන්වා දෙන පෙත්සම්කරු ඊට අමතරව "කඳුකර දශකය" නමින් තවත් චක්‍රලේඛයක් නිකුත් කරමින් ග්‍රාමීය ප්‍රදේශවල ජනතාවගේ ජීවන තත්ත්වය උසස් කිරීම සඳහා මූල්‍ය පහසුකම් ලබා දීමට යෝජනා කර ඇති බවත් සඳහන් කළේය.
+Former Kaduwela Municipal Councilor Asitha Niroshan presented the petition by former Kaduwela Municipal Councilor of the National Power.
+
+As the respondents, the Attorney General and the Cabinet Members of the President and the Secretary to the Presidential Secretary have been nominated by the Secretary to the Ministry of Finance.
+
+The petitioner has been issued by the Secretary to the Ministry of Finance, which proposes to implement development projects in rural areas.Stated that there is proposed.
+
+The petition is announced that the two projects should be completed on July 31 this year and the petition is decided to allocate Rs.
 
 ...
 
 [Data](articles/ad9afa67.json)
+
+[Extended Data](ext_articles/ad9afa67.ext.json)
 
 ---
 
@@ -131,6 +179,8 @@ Following the trade union meeting, we have decided to continue with our trade un
 ...
 
 [Data](articles/de6a0d79.json)
+
+[Extended Data](ext_articles/de6a0d79.ext.json)
 
 ---
 
@@ -2355,43 +2405,5 @@ The two brothers have been arrested by a special police team from Colombo as the
 [Data](articles/ca45ad7c.json)
 
 [Extended Data](ext_articles/ca45ad7c.ext.json)
-
----
-
-### Central Bank of Sri Lanka maintains policy interest rates
-
-*2024-05-28 07:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/99480/central-bank-of-sri-lanka-maintains-policy-interest-rates) · `en`
-
-The Monetary Policy Board of the Central Bank of Sri Lanka (CBSL) has decided to maintain the Standing Deposit Facility Rate (SDFR) and the Standing Lending Facility Rate (SLFR) at their current levels of 8.50 per cent and 9.50 per cent, respectively.
-
-The Board arrived at this decision, at its meeting held on 27 May 2024, after carefully assessing the current and expected macroeconomic developments and possible risks on the domestic and global fronts with a view to maintaining inflation at the targeted level of 5 per cent over the medium term while supporting the economy to reach its potential, the statement said.
-
-...
-
-[Data](articles/c3dae0ec.json)
-
-[Extended Data](ext_articles/c3dae0ec.ext.json)
-
----
-
-### Heavy showers above 100mm expected in parts of the island
-
-*2024-05-28 07:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/99479/heavy-showers-above-100mm-expected-in-parts-of-the-island) · `en`
-
-The prevailing showery and windy conditions are expected to continue further, due to the active Southwest Monsoon conditions, says the Meteorology Department.
-
-Showers or thundershowers will occur at times in Western, Sabaragamuwa, Central, North-western and Southern provinces.
-
-Heavy showers above 100mm are likely at some places in Western and Sabaragamuwa provinces and in Nuwara-Eliya district.
-
-Showers or thundershowers will occur at several places in Uva province and in Ampara and Batticaloa districts in the evening or night, it said.
-
-Strong winds of about 50-60 kmph can be expected at times over Western slopes of the central hills and in Northern, North-central, Western, Southern and North-western provinces and in Trincomalee and Monaragala districts.
-
-◼️
-
-[Data](articles/8abd8bb5.json)
-
-[Extended Data](ext_articles/8abd8bb5.ext.json)
 
 ---

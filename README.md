@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-28 07:20:42**
+As of **2024-05-28 07:45:47**
 
 ## Newspaper Stats
 
-*Scraped **26,685** Articles*
+*Scraped **26,688** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,38 +15,84 @@ newsfirstlk | 363
 islandlk | 1,453
 economynextcom | 1,525
 dailyftlk | 1,567
-adalk | 2,270
+adalk | 2,271
 adaderanalk | 3,054
 tamilmirrorlk | 3,126
 virakesarilk | 4,076
 dailymirrorlk | 4,208
-adaderanasinhalalk | 4,275
+adaderanasinhalalk | 4,277
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,684 (100.0%) of 26,685 articles have been extended.
+26,685 (100.0%) of 26,688 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-28 (Tuesday)
 
-### ළිඳක තිබී මළ සිරුරක් හමුවෙයි
+### වැටුප් විෂමතා ගැන සොයන්න කමිටුවක්
+
+*2024-05-28 07:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197090) · `si`
+
+‍රාජ්‍ය සේවයේ පවතින වැටුප් විෂමතා සම්බන්ධයෙන් සොයා බලා නිර්දේශ ඉදිරිපත් කිරීම සඳහා විශේෂ කමිටුවක් පත්කිරීමට කැබිනට් මණ්ඩලය තීරණය කර තිබේ.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් ඊයේ (27) රැස් වූ කැබිනට් මණ්ඩලයේ දී මෙම තීරණය ගෙන ඇති බව වාර්තා වේ.
+
+මේ වන විට රාජ්‍ය සේවයේ ක්ෂේත්‍ර රැසක නිලධාරීන් වැටුප් විෂමතා ඉවත් කරන ලෙස ඉල්ලීම් ඉදිරිපත් වී ඇති බැවින් ඊට කඩිනම් විසඳුම් ලබාදිය යුතු බව ජනාධිපතිවරයා කැබිනට් මණ්ඩලයට යෝජනා කර ඇත.
+
+ඒ අනුව එක් එක් ක්ෂේත්‍රවල පවතින වැටුප් විෂමතා පිළිබඳව අධ්‍යයනය කර ඊට ලබාදිය යුතු විසඳුම් නිර්දේශ කිරීම සඳහා කමිටුවක් පත්කළ යුතු බවට ජනාධිපති රනිල් වික්‍රමසිංහ මහතා යෝජනා කර ඇති අතර එම යෝජනාවට කැබිනට් මණ්ඩලයේ අනුමැතිය හිමිව තිබේ.
+
+අමාත්‍යංශ ලේකම්වරුන් සහ රාජ්‍ය නිලධාරීන්ගෙන් සැඳුම්ලත් අදාළ කමිටුව කඩිනමින් පත්කරන ලෙස ජනාධිපතිවරයා විසින් ජනාධිපති ලේකම් සමන් ඒකනායක මහතා වෙත උපදෙස් ලබාදී ඇති බව වාර්තා වේ.
+
+මේ අතර අධ්‍යයන පොදු සහතික පත්‍ර උසස් පෙළ තාක්ෂණ සිසුන්ට ජනපති අරමුදලෙන් ශිෂ්‍යත්ව ප්‍රධානයට අදාළ අයදුම්පත් භාර ගැනීමේ කාලය දීර්ඝ කර තිබේ.
+
+...
+
+[Data](articles/f0b0c956.json)
+
+---
+
+### ශ්‍රී ලංකාව මුහුණදෙන පළමු පුහුණු තරගය අද
+
+*2024-05-28 07:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197089) · `si`
+
+20යි 20 ලෝක කුසලාන ක්‍රිකට් තරගාවලියට සමගාමීව ශ්‍රී ලංකා කණ්ඩායම සහභාගී වන පළමු පුහුණු තරගය අද (28) පැවැත් වේ.
+
+නෙදර්ලන්ත කණ්ඩායම සමග පැවැත්වෙන එම තරගය ශ්‍රී ලංකා වේලාවෙන් අද රාත්‍රී 08ට ආරම්භ වීමට නියමිතය.
+
+ශ්‍රී ලංකා කණ්ඩායම පුහුණු තරග දෙකකට සහභාගී වීමට නියමිත අතර දෙවන පුහුණු තරගය ලබන සිකුරාදා අයර්ලන්ත කණ්ඩායම සමග පැවැත් වේ.
+
+20යි 20 ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ ශ්‍රී ලංකා කණ්ඩායම සහභාගී වන පළමු තරගය දකුණු අප්‍රිකානු කණ්ඩායම සමග ජුනි මස 03 වන දින පැවැත්වීමට නියමිතය.
+
+◼️
+
+[Data](articles/9d9a1169.json)
+
+---
+
+### Dead body found in a well
 
 *2024-05-28 06:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197088) · `si`
 
-වෙල්ලාවලි, මණ්ඩූර් ප්‍රදේශයේ වෙල්ලාවලි කළුපාලම ආසන්නයේ ළිඳක තිබී පුද්ගල මළ සිරුරක් සොයාගෙන තිබේ.
+A body was discovered in a well near Wellaweli Black, Vellaveli, after a report reached the Velvaley police on 27th. Initial investigations suggest the victim visited a neighbor's house on the 26th. The Vellaveli Police continue probing to identify and apprehend the culprits.
 
-ඊයේ (27) උදෑසන කාලයේ වෙල්ලාවලි පොලීසියට ලද තොරුතුරකට අනුව එම සිරුර සොයාගෙන ඇත.
+🟩
 
-පසුගිය 26 වනදා අසල්වැසි නිවසියන් සමග පැවති අරවුලකට අදාළව සමත මණ්ඩලයට යොමුකළ පැමිණිල්ලකට සහභාගී වීම සඳහා නිවසින් බැහැරව ගොස් නැවත නිවසට පැමිණෙමින් සිටියදී යම් පිරිසක් හෝ පුද්ගලයෙකු විසින් මරණකරුගේ හිසට පහරදී ළිඳට දමා ඇති බව විමර්ශනවලදී අනාවරණය වී ඇත.
+A body was found in a well near Wellaweli Black in Vellaveli, Vellaveli, Vellaveli.
 
-මෙම ඝාතනය සම්බන්ධයෙන් සැකකරුවන් අත්අඩංගුවට ගැනීම සඳහා වෙල්ලාවලි පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+The body was recovered following a trip received by the Velvaley police yesterday (27).
+
+Investigations have revealed that the neighboring board of neighboring board on the 26th to attend the home of the neighboring board.
+
+Vellaveli Police are conducting further investigations to arrest the suspects.
 
 ◼️
 
 [Data](articles/9db66a0f.json)
+
+[Extended Data](ext_articles/9db66a0f.ext.json)
 
 ---
 
@@ -923,6 +969,28 @@ Colombo, May 27 (Daily Mirror) - Quick action by the Daily Mirror breaking news 
 [Data](articles/7e5f208e.json)
 
 [Extended Data](ext_articles/7e5f208e.ext.json)
+
+---
+
+### කොළඹින් පසු ශක්තිමත්ම සෞඛ්‍ය සේවාව උතුරට
+
+*2024-05-27 19:11:53* · [`adalk`](https://www.ada.lk/breaking_news/කොළඹින්-පසු-ශක්තිමත්ම-සෞඛ්‍ය-සේවාව-උතුරට/11-409859) · `si`
+
+වව්නියාව දිස්ත්‍රික් මහ රෝහලේ නව හෘද රෝග හා වකුගඩු රෝග ඒකකය ජනපති අතින් විවෘත කෙරේ
+
+කොළඹින් පසු ශක්තිමත්ම සෞඛ්‍ය සේවාව උතුරට ලබාදීමට හැකි වී තිබෙනවා.
+
+A9 මාර්ගයේ ශක්තිමත් වු මෙම නවීන රෝහල් පද්ධතිය වෛද්‍ය සංචාරක ව්‍යාපාරයටද මහඟු රුකුලක් – ජනපති පෙන්වා දෙයි.
+
+නෙදර්ලන්ත රජයේ සහයෝගය මත රුපියල් මිලියන 3329ක වියදමින් වව්නියාව දිස්ත්‍රික් මහ රෝහලේ ඉදිකළ හෘද රෝග හා වකුගඩු රෝග ඒකකය ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් ඊයේ (26) විවෘත කෙරිණි.
+
+යහපාලන රජය යටතේ 2019 වසරේදී එවකට අග්‍රාමාත්‍ය ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් මෙම ව්‍යාපෘතියේ ඉදිකිරීම් ආරම්භ කෙරිණි.
+
+මෙම නව තෙමහල් ගොඩනැඟිල්ල හෘද රෝග ඒකකය, හෘද කැතීටකරණ රසායනාගාරය (Cath Lab), හෘද උරස් ශල්‍යාගාරය (Cardiothoracic theatre), හෘද දැඩි සත්කාර ඒකකය (Cardiac ICU), එකෝ කාඩියෝග්‍රැෆි (Echo Cardiography), ව්‍යායාම විද්‍යුත් කන්තුක රේඛන (Exercise ECG), ජංගම රුධිර පීඩන අධීක්ෂණ ඒකකය (Ambulatory BP monitoring), ජංගම විද්‍යුත් කන්තුක රේඛන (Ambulatory ECG monitoring) අධීක්ෂණ ඒකකය ආදී නවීන පහසුකම්වලින් සම්නවිතය.
+
+...
+
+[Data](articles/c58c9a28.json)
 
 ---
 
@@ -2133,85 +2201,5 @@ In line with the 2568 Vesak festival, a Vesak Maha Perahera was held last evenin
 [Data](articles/08349a24.json)
 
 [Extended Data](ext_articles/08349a24.ext.json)
-
----
-
-### Hydroval
-
-*2024-05-27 15:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/184612) · `ta`
-
-Heavy rains cause rising river levels across several regions, including Attanagalu Oya, Kelani, Kalu, Jin, and Nilwala rivers, reaching alert levels. The Irrigation Department warns residents to stay vigilant. In response to the situation, the Tethuru Oya Reservoir in Kurunegala District has opened its gates, releasing about 7,000 cubic feet of water per second. Additionally, the Kuga reservoir has opened its skies, potentially increasing the water level of the Kuta Ganga. Residents near the Pulathsingha Divisional Secretariat Division are advised to be cautious due to the heightened flood risk.
-
-🟩
-
-The water level of many rivers continues to increase due to heavy rains in the country, the Irrigation Department said.
-
-Accordingly, the water level of the rivers of Attanagalu Oya, Kelani, Kalu, Jin and Nilwala is currently increasing, the department said.
-
-Since the water level of the above rivers is at the 'alert level', the Director of Irrigation (Aquatic and Disaster Management) SBC Sugeswara said that residents of these rivers are observed.
-
-Meanwhile, the four air doors of the Tethuru Oya Reservoir in the Kurunegala District have been opened on Monday (27) and the water has been discharged by about 7,000 cubic feet per second.
-
-The water level of the Kuta Ganga is likely to increase as the skies of the Kugule reservoir have been opened and 80 cubic feet of water per second.
-
-Therefore, he advises that residents of the Pulathsingha Divisional Secretariat Division should be careful about the flood risk.
-
-◼️
-
-[Data](articles/8c3cb9f4.json)
-
-[Extended Data](ext_articles/8c3cb9f4.ext.json)
-
----
-
-### More information about the suspect in Panadura
-
-*2024-05-27 15:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197071) · `si`
-
-A suspect arrested by the Kalutara Crimes Division for heroin trafficking is linked to Dubai-based drug trafficker Dubai Tharanga. The arrest followed a raid based on intelligence about heroin dealing in Panadura's Talapola area. The suspect, a 37-year-old man, was found with 850 grams of heroin worth over Rs. 5 billion. Further investigations reveal a wider heroin network across Panadura, Wadduwa, Bandaragama, and Horana, and the suspect's addiction to heroin.
-
-🟩
-
-There have been no more information regarding the suspect arrested by the Kalutara Crimes Division with a large haul of heroin.
-
-Further, further has been revealed that the nickname is known by the "Walapala Em.".
-
-It is revealed that the suspect is a primary disciple of Dubai, Dubai Tharanga, a hiding drug trafficker in Dubai.
-
-The police had implemented the raid on information received by the OIC of the Kalutara Crimes Division regarding a heroin trafficking in the Talapola area in Panadura.
-
-A 37-year-old man who was near the main road in the Talapola area in the Talapola area in Panadura had been arrested with heroin.
-
-Heroin found in his possession and 850 grams of heroin, which was worth over Rs. 5 billion.
-
-In response, further interrogations made by the arrested suspect had revealed that heroin racket had been carried out in Panadura, Panadura, Wadduwa, Bandaragama and Horana.
-
-It has also been revealed that the arrested suspect is a drug addictive to the use of heroin.
-
-...
-
-[Data](articles/ddccfef3.json)
-
-[Extended Data](ext_articles/ddccfef3.ext.json)
-
----
-
-### Over 1 million evacuated as Cyclone Remal brings heavy rain to Bangladesh and India
-
-*2024-05-27 15:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/99466/over-1-million-evacuated-as-cyclone-remal-brings-heavy-rain-to-bangladesh-and-india) · `en`
-
-Tropical Cyclone Remal made landfall in Bangladesh on Sunday, bringing torrential rain and heavy winds as it continues to move inland across eastern India, toppling trees, turning roads into rivers and causing large-scale damage.
-
-More than 1 million vulnerable people across both countries were evacuated from their homes ahead of Remal’s arrival, authorities said, with volunteers and army staff mobilized to assist with clean-up efforts and distribute food and water to displaced families.
-
-Remal made landfall packing gusts of up to 135 kilometers per hour (84 mph) and is moving northwards across Bangladesh and its adjoining West Bengal coasts, the Indian Meteorological Department said.
-
-The storm weakened after it hit the coast with wind speeds of up to 115 kilometers per hour (71 mph). Remal is expected to dump more than 89mm (3.5 inches) of rain and bring wind-driven storm surges of 2.5 to 3.7 meters to the coasts of the Bay of Bengal, according to CNN Weather.
-
-...
-
-[Data](articles/8674bd78.json)
-
-[Extended Data](ext_articles/8674bd78.ext.json)
 
 ---

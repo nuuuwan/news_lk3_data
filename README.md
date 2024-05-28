@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-28 17:34:38**
+As of **2024-05-28 17:54:39**
 
 ## Newspaper Stats
 
-*Scraped **26,844** Articles*
+*Scraped **26,855** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,11 +13,11 @@ dbsjeyarajcom | 265
 bbccomsinhala | 267
 newsfirstlk | 363
 islandlk | 1,454
-economynextcom | 1,532
+economynextcom | 1,539
 dailyftlk | 1,568
 adalk | 2,285
-adaderanalk | 3,069
-tamilmirrorlk | 3,148
+adaderanalk | 3,072
+tamilmirrorlk | 3,149
 virakesarilk | 4,116
 dailymirrorlk | 4,231
 adaderanasinhalalk | 4,309
@@ -26,25 +26,145 @@ adaderanasinhalalk | 4,309
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,836 (100.0%) of 26,844 articles have been extended.
+26,844 (100.0%) of 26,855 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-28 (Tuesday)
 
-### මැතිවරණය කල්දැමීම සුදුසු නැහැ - නාමල්
+### வாகை விழுந்ததில் தொழிலாளி மரணம்: மூவர் காயம்
+
+*2024-05-28 17:40:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/வாகை-விழுந்ததில்-தொழிலாளி-மரணம்-மூவர்-காயம்/76-338048) · `ta`
+
+வாகை மரமொன்று வேறோடு பெயர்ந்து விழுந்ததில் பெண் தொழிலாளி ஒருவர் உயிரிழந்ததுடன் மேலும் மூன்று  பெண் தொழிலாளிகள் படுகாயமடைந்த நிலையில் காவத்தை மற்றும் இரத்தினபுரி பொது வைத்தியசாலைகளில் சிகிச்சைப் பெற்று வருவதாக பொலிஸார் தெரிவிக்கின்றனர்.
+
+காவத்தை பொலிஸ் பிரிவில் உள்ள ஓப்பாவத்தை 3 ஆம் பிரிவு தோட்டத்திலேயே வாகை மரம் செவ்வாய்க்கிழமை (28) பிற்பகல் 1 மணியளவில் விழுந்துள்ளது.
+
+தேயிலைச் செடிகளுக்கு உரம் போடும் வேலை முடிந்தப்பின்னர் வீடுகளுக்கு திரும்பும் வேளையிலேயே இவ்வனர்த்தம் ஏற்பட்டுள்ளது.
+
+படுகாயமடைந்த நால்வரும் காவத்தை பொது வைத்தியசாலையில்  அனுமதிக்கப்பட்ட நிலையில்   சிகிச்சை பலனின்றி ஒருவர்  உயிரிழந்தார்.  படுகாயமடைந்த இருவரில் ஒருவர் ஆபத்தான நிலையில் காவத்தை வைத்தியசாலையிலும் மற்றவர் மிகவும் ஆபத்தான நிலையில் இரத்தினபுரி வைத்திய சாலையில் அவசரப் பிரிவில் அனுமதிக்கப்பட்டு சிகிச்சை பெற்று வருகின்றார்
+
+இச்சம்பவத்தில் திருமதி எஸ்.தமிழ் செல்வி(வயது 49)  என்பவரே உயிரிழந்துள்ளார் இவர் ஒரு பிள்ளையின் தாயார் ஆவார்.
+
+...
+
+[Data](articles/102f6011.json)
+
+---
+
+### SC concludes hearing petitions against Telecom Amendment Bill
+
+*2024-05-28 17:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/99496/sc-concludes-hearing-petitions-against-telecom-amendment-bill) · `en`
+
+The Supreme Court today (28) concluded the hearing of petitions filed against the Telecommunications Regulatory (Amendments) Bill.
+
+Accordingly, the court will confidentially forward its determination to the Speaker of the Parliament, Ada Derana reporter said.
+
+◼️
+
+[Data](articles/8bf9b9c7.json)
+
+---
+
+### Sri Lanka minority shareholders of Expolanka Holdings Plc challenge de-listing
+
+*2024-05-28 17:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-minority-shareholders-of-expolanka-holdings-plc-challenge-de-listing-165117/) · `en`
+
+ECONOMYNEXT – A group of shareholders of Expolanka Holdings Plc have filed a case to prevent the delisting, the company said in a stock exchange filing.
+
+“Nine minority shareholders of Expolanka Holdings PLC holding approximately 0.012% of the shares thereof, have filed an application before the Court of Appeal of the Democratic Socialist Republic of Sri Lanka challenging the de-listing of Expolanka Holdings PLC.”
+
+Both the Securities and Exchange Commission of Sri Lanka and the Colombo Stock Exchange have been made parties to the said application, the company said.
+
+The limited Objections of the Respondents are due on Wednesday, May 29 and the matter is fixed for support on the May 31.
+
+SG Holdings, the parent company of Expolanka Holdings Plc, announced on March 1 it was delisting the company from the Colombo Stock Exchange.
+
+SG Holdings Global Pte Ltd, the company’s majority shareholder, said it will purchase its shares from shareholders at 185.00 rupees a share.
+
+...
+
+[Data](articles/1ffae48a.json)
+
+---
+
+### President directs to deliver immediate relief to victims of adverse weather
+
+*2024-05-28 17:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/99495/president-directs-to-deliver-immediate-relief-to-victims-of-adverse-weather) · `en`
+
+President Ranil Wickremesinghe has directed officials to deliver immediate relief to those impacted by the adverse weather and to maintain relief efforts until the situation improves.
+
+Moreover, the Disaster Management Center (DMC) is also taking steps to compensate those who lost their lives, the President’s Media Division reported.
+
+◼️
+
+[Data](articles/7ee9d4a1.json)
+
+---
+
+### No post for election post - Namal
 
 *2024-05-28 17:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197123) · `si`
 
-මැතිවරණ කල්දැමීම කිසිම ප්‍රජාතන්ත්‍රවාදයකට යහපත් නොවන බව නාමල් රාජපක්ෂ මහතා පවසයි.
+Namal Rajapaksa criticizes extending presidential and parliamentary terms, arguing it undermines democracy by diverting from its core principles. He emphasizes that stability should stem from public will, not just their voices.
 
-ශ්‍රී ලංකා පොදුජන පෙරමුණේ ජාතික සංවිධායක, පාර්ලිමේන්තු මන්ත්‍රී නාමල් රාජපක්ෂ මහතා සිය X ගිණුමේ සටහනක් තබමින් පෙන්වා දෙන්නේ ජනාධිපතිවරයාගේ සහ පාර්ලිමේන්තුවේ කාලසීමාව දීර්ඝ කිරීම ප්‍රජාතන්ත්‍රවාදී සමාජයක මූලික ප්‍රතිපත්තිවලට හානි කරන බවය.
+🟩
 
-ස්ථාවරත්වය ඇති විය යුත්තේ ජනතා කැමැත්තෙන් මිස ඔවුන්ගේ හඬ ප්‍රමාද කිරීමෙන් නොවන බවද නාමල් රාජපක්ෂ මහතා පවසයි.
+Namal Rajapaksa says that decoration is not good for democracy.
+
+The National Organizer of the Sri Lanka General Manager, MP Namal Rajapaksa, a letter to the President, says that the extension of the President's and parliament is that the devotion of the President and Parliament are harmed by the basic principles of a democratic society.
+
+Namal Rajapaksa says that stability should be caused by the will of people, not their voice.
 
 ◼️
 
 [Data](articles/b689aaa0.json)
+
+[Extended Data](ext_articles/b689aaa0.ext.json)
+
+---
+
+### Sri Lanka rupee closes weaker at 301.70/302.30 to US dollar
+
+*2024-05-28 17:16:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-weaker-at-301-70-302-30-to-us-dollar-165109/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee depreciated to close at 301.70/302.30 to the US dollar on Tuesday, from 300.50/70 the previous week, dealers said. Bond yields were broadly steady.
+
+A bond maturing on 15.12.2026 closed stable at 9.90/10.05 percent.
+
+A bond maturing on 15.09.2027 closed up at 10.30/55 percent from 10.30/40 percent.
+
+A bond maturing on 01.07.2028 closed up at 10.90/11.00 percent from 10.80/95 percent.
+
+A bond maturing on 15.01.2030 closed stable at 11.60/80 percent.
+
+A bond maturing on 01.10.2032 closed at 11.85/12.00 percent from 11.85/12.05 percent. (Colombo/May28/2024)
+
+◼️
+
+[Data](articles/55109937.json)
+
+---
+
+### Postponing elections not healthy for any democracy - Namal
+
+*2024-05-28 17:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/99494/postponing-elections-not-healthy-for-any-democracy-namal) · `en`
+
+Parliamentarian Namal Rajapaksa says that postponing elections is not healthy for any democracy.
+
+The Sri Lanka Podujana Peramuna (SLPP) National Organiser stated that extending the terms of the President and the Parliament undermines the fundamental principles of a democratic society.
+
+“Stability should come through the will of the people, not by delaying their voice,” he said in a post on ‘X’ (formerly Twitter).
+
+Rajapaksa’s comments come likely in response to a statement made by the General Secretary of the United National Party (UNP) Palitha Range Bandara, proposing for the postponement of the two upcoming elections by two years.
+
+Speaking at a press conference in Colombo today (28), he proposed that the Presidential Election and the General Election be postponed for 2 years, through a proposal to be tabled in Parliament and that a referendum could be called if necessary.
+
+“Now we have to save the country from this bankruptcy and rebuild the country’s economy,” Range Bandara said.
+
+...
+
+[Data](articles/7114a965.json)
 
 ---
 
@@ -70,41 +190,53 @@ However, the implementation of the scheme is subject to the recommendations of a
 
 ---
 
-### විපතට පත් ජනතාවට කඩිනම් සහන සලසන්න ජනපතිගෙන් උපදෙස්
+### President instructs immediate relief to affected people
 
 *2024-05-28 17:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197122) · `si`
 
-අයහපත් කාලගුණය හේතුවෙන් විපතට පත් ජනතාවට කඩිනම් සහන සලසන ලෙස ජනාධිපතිවරයා අදාළ නිලධාරීන් වෙත උපදෙස් ලබාදී තිබේ.
+The President ordered swift aid for those hit by severe weather, emphasizing ongoing support until recovery is complete. The Disaster Management Center is also handling compensation for fatalities.
 
-එහිදී ජනාධිපතිවරයා වැඩිදුරටත් උපදෙස් දී ඇත්තේ ආපදා තත්ත්වය පහව යන තුරු සහන සේවා කටයුතු අඛණ්ඩව ක්‍රියාත්මක කරන ලෙසටය.
+🟩
 
-ජනාධිපති මාධ්‍ය ඒකකය වැඩිදුරටත් සඳහන් කරන්නේ මියගිය පුද්ගලයන් වෙනුවෙන් වන්දි මුදල් ලබාදීමට ද මේ වනවිට ආපදා කළමනාකරණ මධ්‍යස්ථානය කටයුතු කර ඇති බවය.
+The President has instructed the officers to provide immediate relief to the people affected by the inclement weather.
+
+The President has instructed to continue the relief work until the disaster.
+
+The Presidential Media Unit added that the Disaster Management Center has taken compensation for the deceased.
 
 ◼️
 
 [Data](articles/cd413dc5.json)
 
+[Extended Data](ext_articles/cd413dc5.ext.json)
+
 ---
 
-### යතුරුපැදියෙන් රෝහල තුළටම ඇවිත් සේවකයෙක් ට පහරදෙයි
+### Motorcycle comes to hospital
 
 *2024-05-28 17:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197121) · `si`
 
-තුවාල ලැබූ පුද්ගලයෙක් රැගෙන ආ යතුරුපැදිකරුවෙක් යාපනය ශික්ෂණ රෝහලේ රෝගීන් බාරගන්නා ගොඩනැගිල්ල තුළට ම එම රෝගියා සමග යතුරුපැදියෙන් යෑම හේතුවෙන් එහි උණුසුම් තත්ත්වයක් ඇතිවී තිබුණි.
+A motorcyclist caused chaos at Jaffna Teaching Hospital after being admitted. A dispute arose when the hospital staff objected to the motorcycle being operated inside. The motorcyclist allegedly assaulted a worker with a printer before being arrested.
 
-මෙම සිද්ධිය පසුගිය 26 වනදා වාර්තා වී ඇති අතර එහි CCTV වීඩියෝවක් ද මේ වනවිට සමාජ මාධ්‍යයේ සංසරණය වෙයි.
+🟩
 
-ලේ පෙරාගෙන පැමිණි තුවාලකරු යතුරුපැදියෙන් බැස ගිය පසු යතුරුපැදිකරු සහ රෝහල් සේවකයෙක් අතර ආරවුලක් ඇතිවිය.
+A motorcyclist who was brought to the Jaffna Teaching Hospital was a hot situation due to a motorcycle with the patient.
 
-ඒ ගොඩනැගිල්ල තුළටම යතුරුපැදිය ධාවනය කිරීම ගැන රෝහල් සේවකයා විරෝධය දැක්වීම හේතුවෙනි.
+The incident was reported on the 26th and a CCTV video is currently circulating in social media.
 
-පසුව එම යතුරුපැදිකරු සිය යතුරුපැදිය නවතා එම රෝහල් සේවකයාට එම ස්ථානයේ තිබූ ප්‍රින්ටර් එකකින් පහර දී තිබුණි.
+After the casualty of the blood was set out of the motorcycle, a dispute between the motorcycle and a hospital worker.
 
-ඒ සම්බන්ධයෙන් පොලීසියට පැමිණිලි කිරීමෙන් අනතුරුව එම යතුරුපැදිකරුවාව අත්අඩංගුවට ගෙන ඇති බව අප වාර්තාකරු පැවසීය.
+The hospital worker protests over the operation of the motorcycle to the building.
+
+The motorcyclist was then stopped his motorcycle and hit the hospital worker with a printer in the place.
+
+The motorcyclist has been arrested following a complaint with the police.
 
 ◼️
 
 [Data](articles/294711d8.json)
+
+[Extended Data](ext_articles/294711d8.ext.json)
 
 ---
 
@@ -120,41 +252,55 @@ Taking to 'X', MP Rajapaksa said, "Postponing elections is not healthy for any d
 
 [Data](articles/881d8b2e.json)
 
+[Extended Data](ext_articles/881d8b2e.ext.json)
+
 ---
 
-### සීදූවේදී කාන්තාවක් කපා කොටා ඝාතනය කෙරේ
+### Woman hacked to death in Seeduwa
 
 *2024-05-28 16:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197120) · `si`
 
-මෙලෙස ඝාතනයට ලක්ව ඇත්තේ ගාල්ල නෙළුව ප්‍රදේශයේ පදිංචි 36 හැවිරිදි වියේ පසුවූ එක්දරු මවකි.
+A 36-year-old woman from Neluwa, Galle, was murdered in Seeduwa. She lived in the Katunayake Free Trade Zone for six years before her death. Her body was sent to Negombo Hospital for autopsy after local police investigated under Acting Magistrate Indika.
 
-එම කාන්තාව කටුනායක නිදහස් වෙළෙඳ කලාපයේ සේවයේ නිරතව සිට ඇති බවට මේ වනවිට තොරතුරු අනාවරණය වී තිබේ.
+🟩
 
-මීට වසර 06කට පමණ පෙර එම කාන්තාව වෙළෙඳ කලාපයේ සේවය සඳහා පැමිණ ඇති අතර ඇය ලියනගේමුල්ල ප්‍රදේශයේ තාවකාලිකව නවාතැන්ගෙන සිට ඇත.
+The victim was a 36 year old resident of Neluwa, Galle.
 
-මීගමුව වැඩබලන මහෙස්ත්‍රාත් ඉන්දික සිල්වා මහතා විසින් ස්ථානීය පරීක්ෂණය සිදුකිරීමෙන් අනතුරුව දේහය පශ්චාත් මරණ පරීක්ෂණය සඳහා මීගමුව රෝහල වෙත රැගෙනගොස් තිබේ.
+It has been revealed that the woman was in the Katunayake Free Free Zone.
+
+The woman had come to the trade zone about six years ago and had been staying in Liyanagemulla area.
+
+The remains were taken to the Negombo Hospital for a post mortem after the local investigation was conducted by Acting Magistrate Indika.
 
 ◼️
 
 [Data](articles/0b82354e.json)
 
+[Extended Data](ext_articles/0b82354e.ext.json)
+
 ---
 
-### 21/4 தாக்குதலில் காயமடைந்த பெண் மரணம்
+### 21/4 The death of a woman injured in the attack
 
 *2024-05-28 16:52:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/21-4-தாக்குதலில்-காயமடைந்த-பெண்-மரணம்/175-338035) · `ta`
 
-2019 உயிர்த்த ஞாயிறுத் தினமான ஏப்ரல் 21ஆம் திகதி, ஐ.எஸ்.ஐ.எஸ் பயங்கரவாதிகளால் நடத்தப்பட்ட தாக்குதலில் படுகாயமடைந்து  தீவிர சிகிச்சை பெற்றுவந்த பெண்ணொருவர் உயிரிழந்துள்ளார்.
+On April 21, 2019, Dilini Harshani, a woman severely injured in an ISIS attack, passed away after five years of ICU treatment. Her son, Duloth Anthony, was also killed in the attack on St. Sebastian's Church. This incident occurred alongside other terrorist attacks in Sri Lanka, resulting in 273 deaths and over 500 injuries.
 
-தீவிர சிகிச்சை பிரிவில் ஐந்து வருடங்களாக சிகிச்சை பெற்றுவந்த திலினி ஹர்ஷனி என்பவரே  உயிரிழந்துள்ளார்.
+🟩
 
-கட்டுவாப்பிட்டி புனித செபஸ்தியார் தேவாலயத்தில் நடத்தப்பட்ட தாக்குதலில், அவரது மகன் துலோத் அந்தோனி சம்பவத்திலேயே உயிரிழந்திருந்தார். படுகாயமடைந்த  திலினி ஹர்ஷனிக்கு தொடர்ச்சியாக சிகிச்சை அளிக்கப்பட்டு வந்த நிலையில், அவர் உயிரிழந்துள்ளார்.
+On Sunday 21, 2019, on April 21, 2019, a woman who was injured in an attack by ISIS terrorists has died.
 
-கொழும்பு உள்ளிட்ட நாட்டின் 8 இடங்களில் நட்சத்திர ஹோட்டல்கள், தேவாலயங்களை இலக்கு வைத்து 2019 ஏப்ரல் 21ஆம் திகதியன்று நடாத்தப்பட்ட பயங்கரவாதத் தாக்குதல்களில், 273 பேர் உயிரிழந்திருந்ததுடன், 500ற்கும் மேற்பட்டோர் காயமடைந்திருந்தனர் என்பது குறிப்பிடத்தக்கது.
+Dilini Harshani, who has been treated for five years in the intensive care unit, has died.
+
+His son Duloth Anthony was killed in an attack on St. Sebastian's church at Katuwapitiya. Tilini Harshani, who was injured, has been continuously treated.
+
+It is worth noting that 273 people were killed and more than 500 injured in the terrorist attacks on April 21, 2019, targeting star hotels and churches in eight places in the country, including Colombo.
 
 ◼️
 
 [Data](articles/a46c169e.json)
+
+[Extended Data](ext_articles/a46c169e.ext.json)
 
 ---
 
@@ -226,6 +372,32 @@ Two other women were injured and admitted to the Kahawatte Base Hospital and a s
 
 ---
 
+### Sri Lanka stocks close down, selling pressure on banks and bluechips
+
+*2024-05-28 16:34:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-selling-pressure-on-banks-and-bluechips-165099/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed down on Tuesday, data on its site showed.
+
+The broader All Share Index closed down 0.68 percent, or 83.20 points, at 12,228; while the S&P SL20 Index closed down 0.85 percent, or 31.15 points, at 3,619.
+
+Sampath Bank Plc which closed down at 77.80, saw the most active volumes traded in the day.
+
+Banking stocks were down except for Seylan Bank Plc which closed up at 40.00. Hatton National Bank Plc, closed down at 196.25, Commercial Bank of Ceylon Plc closed down at 112.75, and DFCC Bank Plc was down at 79.50.
+
+Dialog Axiata Plc, which announced a cash dividend, closed down at 11.00.
+
+John Keells Holdings Plc closed down at 207.00, Hayleys Plc closed down at 92.50. Aitken Spence Plc closed up at 130.00.
+
+Ceylon Beverage Holdings Plc (up at 1,600.50), Aitken Spence Plc (up at 130.00) and LB Finance Plc (up at 71.30) were among the top contributors of the day.
+
+There was a net foreign inflow of 63.9 million. (Colombo/May28/2024)
+
+◼️
+
+[Data](articles/be2c8048.json)
+
+---
+
 ### Woman injured in Easter Sunday bomb attack succumbs to injuries
 
 *2024-05-28 16:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Woman-injured-in-Easter-Sunday-bomb-attack-succumbs-to-injuries/108-283526) · `en`
@@ -243,6 +415,8 @@ Nearly 200 people were killed in the blast at Katuwapitiya Church on Easter Sund
 ◼️
 
 [Data](articles/de22cfe6.json)
+
+[Extended Data](ext_articles/de22cfe6.ext.json)
 
 ---
 
@@ -346,6 +520,8 @@ He further mentioned that the same team of investigators, who were victimized wh
 
 [Data](articles/b7af1c85.json)
 
+[Extended Data](ext_articles/b7af1c85.ext.json)
+
 ---
 
 ### Woman hacked to death near church over nightclub dispute
@@ -439,6 +615,46 @@ Meanwhile, his fans and filmmakers are expecting Vijay's voice to be released on
 [Data](articles/740511b3.json)
 
 [Extended Data](ext_articles/740511b3.ext.json)
+
+---
+
+### Sri Lanka govt distances itself from UNP call for postponing elections
+
+*2024-05-28 16:08:00* · [`economynextcom`](https://economynext.com/sri-lanka-govt-distances-itself-from-unp-call-for-postponing-elections-165092/) · `en`
+
+ECONOMYNEXT — The government has distanced itself from a statement by President Ranil Wickremesinghe’s United National Party (UNP) calling for delaying elections by two years.
+
+Labour Minister Manusha Nanayakkara responding to questions from journalists on Tuesday May 28 said all political parties represented in parliament are free to make proposals, but the government would have to make a final decision.
+
+President Ranil Wickremesinghe currently stands as an independent candidate, according to Nanayakkara, though he has yet to formally declare his candidacy.
+
+“The president is an independent person. Yes, the UNP is his party. The UNP can make such a proposal. When a party makes such a proposal, it can be considered. When an early parliamentary election was proposed, we considered it and decided whether to hold that or the presidential election,” said Nanayakkara.
+
+...
+
+[Data](articles/554f6afa.json)
+
+---
+
+### Sri Lanka Samurdhi banks, societies to be subjected to government audit
+
+*2024-05-28 16:06:00* · [`economynextcom`](https://economynext.com/sri-lanka-samurdhi-banks-societies-to-be-subjected-to-government-audit-165088/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Samurdhi community-based banks and Samurdhi community-based banking societies will be brought under government audit, cabinet spokesman minister Bandula Gunawardena said.
+
+“There are 1,092 Samurdhi community-based banks and 335 Samurdhi community-based banking societies functioning across the country to promote microfinance activities,” Gunawardena told reporters Tuesday announcing Cabinet decisions.
+
+These banks and societies are audited annually by the Internal Audit Division of the Samurdhi Development Department as per the provisions of the Samurdhi Act, Gunawardena said.
+
+They are not formally recognised as banks as they do not fall under the preview of the Central Bank.
+
+“The Samurdhi Act does not include the provision that they should be audited by the National Audit Office. Auditing
+
+these banks and societies by the National Audit Office will help maintain transparency in their operations and increase public confidence and acceptance.”
+
+...
+
+[Data](articles/930df8d5.json)
 
 ---
 
@@ -701,6 +917,24 @@ The woman who was injured in the attack was identified as five years from receiv
 [Data](articles/54d7d8b0.json)
 
 [Extended Data](ext_articles/54d7d8b0.ext.json)
+
+---
+
+### Sri Lanka merger of Ceylon Fertilizer, Colombo Commercial Fertilizer offers VRS scheme
+
+*2024-05-28 15:18:00* · [`economynextcom`](https://economynext.com/sri-lanka-merger-of-ceylon-fertilizer-colombo-commercial-fertilizer-offers-vrs-scheme-165083/) · `en`
+
+ECONOMYNEXT – A voluntary retirement scheme is to be implemented at a cost of 844 million rupees during the amalgamation of Ceylon Fertilizer Company Limited and Colombo Commercial Fertilizer Company Limited, minister Bandula Gunawardena said.
+
+“267 employees have given consent to be retired under the VRS to be implemented for employees in relation to the amalgamation of Ceylon Fertilizer Company Limited and Colombo Commercial Fertilizer Company Limited,” Gunawardena told reporters Tuesday.
+
+The Cabinet of Ministers approved the proposal to implement the VRS at a cost of 844 million rupees from the funds of the two fertilizer companies for execution of the proposed retirement scheme.
+
+This is subject to the recommendations of a committee appointed to study retiring excess employees in state enterprises, Gunawardena said. (Colombo/May29/2024)
+
+◼️
+
+[Data](articles/078bbcb0.json)
 
 ---
 
@@ -1065,6 +1299,26 @@ Police stated that the arrested suspect was the rider of the motorcycle used to 
 [Data](articles/c8168edf.json)
 
 [Extended Data](ext_articles/c8168edf.ext.json)
+
+---
+
+### Sri Lanka president’s UNP proposes postponing elections by two years
+
+*2024-05-28 13:29:00* · [`economynextcom`](https://economynext.com/sri-lanka-presidents-unp-proposes-postponing-elections-by-two-years-165079/) · `en`
+
+ECONOMYNEXT — Sri Lanka’s United National Party (UNP) has called for a referendum to postpone both presidential and parliamentary elections by two years to extend President Ranil Wickremesinghe’s term to continue ongoing economic reforms.
+
+UNP general secretary Palitha Range Bandara called on the main opposition Samagi Jana Balawegaya (SJB) and the leftist opposition formation National People’s Power (NPP) to support the move.
+
+At a press conference on Tuesday May 28, Bandara said postponing the two elections would not be undemocratic as it would be the result of elected representatives in parliament passing a motion, followed by a referendum.
+
+Update: The government has distanced itself from a statement by President Ranil Wickremesinghe’s United National Party (UNP) calling for delaying elections by two years.
+
+Sri Lanka govt distances itself from UNP call for postponing electionsSee more
+
+...
+
+[Data](articles/b0d939fd.json)
 
 ---
 
@@ -2081,265 +2335,5 @@ So far, more than 25 suspects have been arrested in connection with setting fire
 [Data](articles/e61eefee.json)
 
 [Extended Data](ext_articles/e61eefee.ext.json)
-
----
-
-### Rain may be limited to North-Western Province by end of this month, but will continue
-
-*2024-05-28 11:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Rain-may-be-limited-to-North-Western-Province-by-end-of-this-month-but-will-continue/108-283504) · `en`
-
-Colombo, May 28 (Daily Mirror) - Due to the active south-west monsoonal condition, the Meteorological Department predicted that the rainfall will be limited to the southwestern areas of the country, but will continue.
-
-The Forecasting Division of the National Meteorological Centre said the rain will be limited to the North-Western, Western, Sabaragamuwa and Southern Provinces while the frequency of heavy showers will decrease.
-
-In the next few days, the Department hopes that the rains will reduce considerably and be limited to the North-Western areas of the country, but will continue further.
-
-Meanwhile, the prevailing showery and windy weather conditions are expected to continue further today and heavy showers over 100 mm are likely in the Western and Sabaragamuwa Provinces and in the Nuwara-Eliya district.
-
-They said showers will occur in the Western, Sabaragamuwa, Central, North-Western and Southern Provinces, as well as in the Uva Province, Ampara and Batticaloa districts.
-
-...
-
-[Data](articles/9e87ccde.json)
-
-[Extended Data](ext_articles/9e87ccde.ext.json)
-
----
-
-### Teacher arrested for setting fire to president's house
-
-*2024-05-28 10:51:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியின்-வீட்டுக்குத்-தீ-வைத்த-ஆசிரியர்-கைது/175-338007) · `ta`
-
-A teacher suspected of arson against President Ranil Wickremesinghe's home during his tenure as prime minister was arrested by the CID. The incident occurred in Navutuduwa, where the suspect allegedly broke into the residence and set it ablaze. This act took place amidst protests on May 9, leading to the arrest of over 25 individuals connected to the incident, who have since faced charges in court.
-
-🟩
-
-When President Ranil Wickremesinghe was prime minister, the suspect was arrested by the Criminal Investigation Division (CID) in the Grandidiya area of Navutuduwa, who had broken the house and set fire to his house.
-
-According to the Criminal Investigation Department, the suspect (36) is the teacher.
-
-During the struggle, on the night of May 9, the protesters who forcibly entered Ranil Wickremesinghe's house in Kaluppitti, attacked and set fire to his property.
-
-More than 25 suspects are being arrested from time to time in connection with the incident. They have also appeared in court. Police said that steps have been taken to present the suspects who are currently arrested in court.
-
-◼️
-
-[Data](articles/dd775c98.json)
-
-[Extended Data](ext_articles/dd775c98.ext.json)
-
----
-
-### "Operation Sajapa";Plan to re -unite the tattoo
-
-*2024-05-28 10:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/184668) · `ta`
-
-It appears you've shared a detailed narrative involving political maneuverings and alliances within Sri Lanka's political landscape, focusing on the actions and reactions of various political figures and parties, particularly around the United National Party (UNP), Samagi Jana Balawegaya (SJB), and attempts to sway Members of Parliament (MPs) between these factions.
-
-
-
-Given the complexity and specificity of the situation, how may I assist you further? Are you looking for analysis, strategies, historical context, or something else related to this political scenario?
-
-🟩
-
-The United National Party suffered a shameful defeat in the 2020 election. Election defeats for the UNP, which is described by some as the oldest big party, are not new.. In 1956, the party received 8 seats in a 101 seat parliament. In the 1970s, the parliament of 157 seats received 17 seats. The 2020 was exclusively different.. For the first time in its history, not a single member was elected to Parliament. The UNP received a national list in compassion for 249, 435 (2.15 %). The party had only one member in the 225 -member parliament.
-
-UNP leader and former prime minister Ranil Wickremesinghe has been a Member of Parliament for 43 years since 1977. In the 2015 general election, the Colombo district candidates came to the peak of over five lakhs of votes in the list of candidates.. Ranil, who was mocked as' Mr. Bean 'and' a 'fonder' by political opponents in the past. It was said that his political life had come to an end.
-
-...
-
-[Data](articles/29ca0fdd.json)
-
-[Extended Data](ext_articles/29ca0fdd.ext.json)
-
----
-
-### Red notice for sea areas around the island
-
-*2024-05-28 10:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197102) · `si`
-
-A red notice warns of strong winds and rough seas around the island, effective for 24 hours starting 10:30 am today. Sea levels have risen, especially from Kalpitiya to Pottuvil, with potential waves reaching 2.5m. Maritime and fishing communities are advised to stay inland due to safety concerns.
-
-🟩
-
-The Department of Meteorology has issued a red notice of strong winds and rough sea.
-
-The announcement issued at 10.30 am today (28) is effective for the next 24 hours.
-
-Accordingly, the wide of the sea areas around the island has increased from time to time at times. The sea is rough at the area.
-
-Marine and fishing communities have informed the maritime and fishing communities not to be re-informed to the sea.
-
-From Kalpitiya to Pottuvil from Kalpitiya to Pottuvil via Pottuvil via Pottuvil via Pottuvil via Pottuvil can be increased to 2.5m.
-
-As a result, the waves of sea to Matara through Kalpitiya has been able to land from Kalpitiya to Matara.
-
-◼️
-
-[Data](articles/b555776e.json)
-
-[Extended Data](ext_articles/b555776e.ext.json)
-
----
-
-### Starling started the pre -Sri Lanka
-
-*2024-05-28 10:37:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையில்-முற்பதிவை-ஆரம்பித்த-ஸ்டார்லிங்க்/175-338006) · `ta`
-
-Elon Musk's Starlink internet service has launched in Sri Lanka, offering users $9 credit that can be fully redeemed.
-
-🟩
-
-With Elon Mask's Starling Internet service in Sri Lanka, Sri Lanka has begun earlier, with nine US dollars that can be fully recovered.
-
-◼️
-
-[Data](articles/b92d9d1d.json)
-
-[Extended Data](ext_articles/b92d9d1d.ext.json)
-
----
-
-### Suspect arrested for killing more
-
-*2024-05-28 10:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197101) · `si`
-
-A 23-year-old suspect from Bogaswewa, who was a motorcyclist during a shooting incident, was arrested by Vavuniya Police STF in Welu Oya for a crime committed in Bulganwatta, Ahungalla, on the 8th.
-
-🟩
-
-A shooting suspect in the Bulganwatta area in Ahungalla last 8th has been arrested.
-
-The suspect has been arrested by the officials of the Vavuniya Police STF in Bogaswewa area in Welu Oya Police Warewatnna.
-
-The suspect is a 23 year old resident of Bogaswewa area in Weherasima.
-
-The suspect has served as the motorcyclist in this shot of shooting incident.
-
-◼️
-
-[Data](articles/a4284345.json)
-
-[Extended Data](ext_articles/a4284345.ext.json)
-
----
-
-### Sri Lanka’s WindForce Plc rated ‘BBB+(lka) with stable outlook: Fitch
-
-*2024-05-28 10:36:00* · [`economynextcom`](https://economynext.com/sri-lankas-windforce-plc-rated-bbblka-with-stable-outlook-fitch-165046/) · `en`
-
-ECONOMYNEXT – WindForce Plc said Fitch Ratings Lanka Ltd had assigned a ‘BBB+(lka)’ rating for the company with stable outlook.
-
-“The rating reflects WindForce’s large exposure to Ceylon Electricity Board (CEB, BB+(1ka)/Stable) as the key offtaker. The Stable Outlook reflects Fitch Ratings’ view that risks of significant payment delays from CEB to WindForce has decreased, easing liquidity pressure,” the company said in a stock exchange filing.
-
-The full Rating Action Commentary by Fitch Ratings Lanka Ltd:
-
-Fitch Publishes Sri Lanka’s WindForce’s ‘BBB+(Ika)’ National Rating; Outlook Stable.
-
-Fitch Ratings – Colombo – 22 May 2024: Fitch Ratings has published Sri Lanka-based independent power producer WindForce PLC’s ‘BBB+(Ika}’ National Long-Term Rating. The Outlook is Stable.
-
-...
-
-[Data](articles/ac67ef10.json)
-
-[Extended Data](ext_articles/ac67ef10.ext.json)
-
----
-
-### Horror experience on aircraft!Life in the air!
-
-*2024-05-28 10:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/184664) · `ta`
-
-Fear of flying is common, but the real terror comes from potential disasters high above. In such dire situations, survival becomes paramount, highlighting the stark reality of life in the sky.
-
-🟩
-
-No one is tempted to travel on the plane. But when there is nothing in fear, that is, when traveling for more than tens of thousands of feet, what happens if there is any disaster for the plane?There is no choice except for life.
-
-◼️
-
-[Data](articles/64eae8fa.json)
-
-[Extended Data](ext_articles/64eae8fa.ext.json)
-
----
-
-### Petition against Nilantha Jayawardena postponed
-
-*2024-05-28 10:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197100) · `si`
-
-A petition against Nilantha Jayawardena, seeking legal action over an Easter attack, was postponed. The Court of Appeal, led by Sobhitha Rajakarunawa and Dhammika Ganepola, asked for protests by June 25, rescheduling the consideration to July 25. The petitioners include Father Jude Rohan Silva from the Social and Peace Centers.
-
-🟩
-
-The Court of Appeal was ordered to be summoned to the former Chief of State Integration to be taken to take legal action against the Easter attack on the Passover.
-
-The petition was called before the panel of sobhitha Rajakarunawa and Dhammika Ganepola this day.
-
-Attorney at the time, Mr. Attorney-at-Law at the occasion was requested to give a date to file protests in relation to this case.
-
-Accordingly, the court ordered to file the protests on or before June 25.
-
-The court sentenced the petition again on July 25 to consider the petition.
-
-The petition has been presented by the Fr. including Jude Rohan Silva, Director of Social and Peace Centers.
-
-◼️
-
-[Data](articles/36ee0c5e.json)
-
-[Extended Data](ext_articles/36ee0c5e.ext.json)
-
----
-
-### A/L 2023 results likely to be release by this week
-
-*2024-05-28 10:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/AL-2023-results-likely-to-be-release-by-this-week/108-283502) · `en`
-
-Colombo, May 28 (Daily Mirror) - The Examinations Department said today that all arrangements are being made to release the results of the 2023 GCE Advanced Level (A/L) examinations by this week.
-
-Accordingly, a total of 346,976 candidates sat for this examination held in January this year.
-
-The remaining 65,531 are private applicants, the Examinations Department said.
-
-The relevant results can be checked on the official website of the Examinations Department.
-
-◼️
-
-[Data](articles/2bb40fc9.json)
-
-[Extended Data](ext_articles/2bb40fc9.ext.json)
-
----
-
-### Tamil deaths deported to Sri Lanka by Britain
-
-*2024-05-28 10:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/184662) · `ta`
-
-Sudarshan Heartschandran, deported from Britain to Sri Lanka in 2019 for using fake documents and working illegally, had his case reviewed in 2023. Despite being cleared to reunite with his family, including three young sons, he faced delays due to bureaucratic issues within the British Home Ministry. His eventual return to the UK was marred by depression over separation from his children, highlighting concerns over the ministry's handling of his case.
-
-🟩
-
-His family has blamed the delay in the Home Ministry's departments for the delay in joining his family as Tamils have died in Sri Lanka by the British Home Ministry.
-
-Sudarshan Heartschandran was deported from Britain to Sri Lanka on his wedding day on December 24, 2019.
-
-He was deported after accepting the use of fake documents and working in Tesco.
-
-He left his 9th and 8 -year -old male and 8 -year -old male and 8 -year -old male.
-
-However, in November 2023, Justice Ponveroo Sudarshan accepted the appeal of the heartbeat and said he had the right to join the family.
-
-The British Interior Office did not appeal against the verdict, but he made arrangements for issuing a visa to return to Britain.. These activities lasted for several months.
-
-Officials have launched action to re -issue a visa to Sudarshan's heartfelt as the MTC Solicitorson's Naga Kandaya Kandaya's delays of the Interior Ministry.
-
-In the letter, the authorities were not responsible for the delay.
-
-...
-
-[Data](articles/7b969e2d.json)
-
-[Extended Data](ext_articles/7b969e2d.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-28 10:18:48**
+As of **2024-05-28 10:34:03**
 
 ## Newspaper Stats
 
-*Scraped **26,726** Articles*
+*Scraped **26,728** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,63 @@ adaderanalk | 3,058
 tamilmirrorlk | 3,130
 virakesarilk | 4,091
 dailymirrorlk | 4,214
-adaderanasinhalalk | 4,284
+adaderanasinhalalk | 4,286
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,722 (100.0%) of 26,726 articles have been extended.
+26,726 (100.0%) of 26,728 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-28 (Tuesday)
+
+### ටෂී ඝාතන සැකකරු බන්ධනාගාරයේදී මරුට
+
+*2024-05-28 10:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197099) · `si`
+
+කළුතර, කටුකුරුන්ද ප්‍රදේශයේ දී සිදුවු ඝාතනයක් සම්බන්ධයෙන් අත්අඩංගුවට ගෙන රිමාන්ඩ් භාරයේ සිටි සැකකරු ඊයේ (27) කළුතර බන්ධනාගාරය තුළ දී හදිසියේ මියගොස් ඇති බව කළුතර උතුර පොලීසිය පැවසිය.
+
+මෙසේ මියගොස් ඇත්තේ, තිබුවන පැලපිටියාගොඩ ප්‍රදේශයේ පදිංචිව සිටි තුෂාර රුක්මාල් සිල්වා නමැති රැඳවියෙකි.
+
+මියගොස් ඇති රැඳවියා මනුෂ්‍ය ඝාතන චෝදනාව යටතේ පසුගිය 25 දා කළුතර මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමෙන් පසු රිමාන්ඩ් බන්ධනාගාරගත කර සිට ඇති බව පොලීසිය පවසයි.
+
+රැඳවියා ඊයේ (27) පස්වරුවේ හදිසියේ ඇති වූ රෝගී තත්ත්වයක් හේතුවෙන් අසනීපව කළුතර නාගොඩ ශික්ෂණ රෝහලට ඇතුළත් කිරීමේදී මිය ගොස් ඇති බව බන්ධනාගාර ආරංචි මාර්ග සඳහන් කරයි.
+
+මියගිය සැකකරුගේ පශ්චාත් මරණ පරීක්ෂණය අද (28) කළුතර නාගොඩ ශීක්ෂණ රෝහලේදී සිදුකිරීමට නියමිතව තිබේ.
+
+ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක දමිත් ජයතිලක මහතාගේ ප්‍රධානත්වයෙන් වැඩිදුර පරීක්ෂණ පවත්වයි.
+
+පසුගිය 20 වනදා කළුතර, කටුකුරුන්ද ප්‍රදේශයේ සිදුවූ වෙඩිතැබීමකින් 40 හැවිරිදි තෂ්මින් මධුවන්ත සිල්වා නොහොත් කලමුල්ලේ ටෂී නැමැත්තා මියගොස්  ඔහුගේ 7 හැවිරිදි දියණිය තුවා ලැබීය.
+
+...
+
+[Data](articles/ab76b222.json)
+
+---
+
+### අවදානම නොතකා මුහුදු ගිය ධීවරයින් ට අත්වූ ඉරණම
+
+*2024-05-28 10:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197098) · `si`
+
+බලපිටිය හරස්පල ධීවර තොටුපොළෙන් මුහුදු ගිය ධීවරයන් තිදෙනකු රැගත් එක් දින ධීවර යාත්‍රාවක් පෙරළීම හේතුවෙන් දෙදෙනෙක් මුහුදේ ගිලී අතුරුදන්ව ඇති බව වාර්තා වෙයි.
+
+ඔවුන්ගේ යාත්‍රාව කාර්මික දෝෂයට ලක්වීම හේතුකොට ගෙන එය අලුත්වැඩියා කරමින් සිටියදී එය දැඩි රළ පහරට හසුවී පෙරළී තිබුණි.
+
+එහිදී බෝට්ටුවේ සිටි තිදෙනා මුහුදට වැටී ඇති අතර ඉන් එක් අයෙක් දිවි බේරා ගෙන පිහිනා ගොඩට පැමිණ තිබූ අතර අනෙක් දෙදෙනා මුහුදේ ගිලී අතුරුදහන් වී ඇත.
+
+මෙසේ මියගොස් ඇත්තේ බලපිටිය විජේරාම මාවතේ පදිංචි 42 හැවිරිදි අර්ල් නිශාන්ත ද සිල්වා නමැති දෙදරු පියෙකි.
+
+ඔහු ආබාධිත වූ යුද  හමුදා සෙබළෙකි. අතුරුදන්වී ඇත්තේ බලපිටිය බ්‍රාහ්මණවත්තේ පදිංචි ප්‍රදීප් ද සිල්වා නැමැති අයෙකි.
+
+සිද්ධියෙන් දිවි බේරාගෙන ඇත්තේ එම බෝට්ටුවේ අයිතිකරු වන ළහිරු ගිම්හාන ද සිල්වා නමැති අයෙකි.
+
+◼️
+
+[Data](articles/60d0a390.json)
+
+---
 
 ### Technical disorder;Train delay in main route!
 
@@ -52,23 +98,31 @@ In addition, the Railway Control Division said that the Pouzi office train had a
 
 ---
 
-### உயிரிழந்த சிசு - DNA பரிசோதனைக்கு நீதவான் உத்தரவு
+### Magistrate's orders for DNA examination
 
 *2024-05-28 09:40:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உயிரிழந்த-சிசு-DNA-பரிசோதனைக்கு-நீதவான்-உத்தரவு/175-338003) · `ta`
 
-மாத்தறை புதிய மாவட்ட பொது வைத்தியசாலையில் உயிரிழந்த சிசுவின் அடையாளத்தை உறுதிப்படுத்த DNA பரிசோதனையை மேற்கொள்ளுமாறு மாத்தறை பிரதான நீதவான்  அருண புத்ததாச இன்று உத்தரவிட்டுள்ளார்.
+In response to parental concerns over the identity of their newborn, who passed away shortly after birth at the Matara New District General Hospital, Chief Magistrate Aruna Buddhadasa ordered a DNA examination. This decision followed an inspection of the infant's remains and the parents' request for clarity amidst conflicting statements from hospital authorities.
 
-தமது சிசு தொடர்பில் டி.என்.ஏ பரிசோதனை செய்யுமாறு பெற்றோர்கள் கோரியபோது, ​​வைத்தியசாலையின் பணிப்பாளர் அதற்கு எதிர்ப்புத் தெரிவித்த பின்னணியில் இந்த உத்தரவு பிறப்பிக்கப்பட்டுள்ளது.
+🟩
 
-மாத்தறை பிரதான நீதவான் அருண புத்ததாச வைத்தியசாலைக்கு வந்து, வைத்தியசாலை அதிகாரிகள் பெற்றோரிடம் காட்டியதாகக் கூறப்படும் சிசுவின் சடலத்தை பரிசோதனைக்கு உட்படுத்தியதன் பின்னர் நீதவான்  இந்த உத்தரவை வழங்கினார்.
+Matara Chief Magistrate Aruna Buddhadasa today ordered the DNA examination to ensure the identity of the infant at the new District General Hospital in Matara.
 
-மாத்தறை வெலிகம பகுதியைச் சேர்ந்த 24 வயதான காவிந்த்யா மதுஷானி தனது முதல் குழந்தையைப் பெற்றெடுப்பதற்காக மாத்தறை புதிய மாவட்ட பொது வைத்தியசாலையில் கடந்த 22ஆம் திகதி அனுமதிக்கப்பட்டார்.
+The order was issued in the wake of the Director of the Hospital when the parents demanded that the DNA test on their infantry.
 
-மதுஷானி வைத்தியசாலை அனுமதிக்கப்பட்ட தினமே குழந்தையை பிரசவித்திருந்த நிலையில்,   குழந்தை இறந்துவிட்டதாக வைத்தியசாலை அதிகாரிகள் தெரிவித்தனர்.
+The magistrate issued the order after the Matara Chief Magistrate came to the Aruna Buddhadasa Hospital and inspected the body of the infant, allegedly shown to the parents.
 
-...
+24 -year -old Gavindya Madushani from Weligama, Matara, was admitted to the Matara New District General Hospital on the 22nd to give birth to her first child.
+
+Hospital officials said the baby had died on the day the Madushani Hospital was admitted to the hospital.
+
+It is noteworthy that the parents of the hospital did not show the body of the infant, and the parents had asked for a DNA examination as the authorities made a contradictory comment on this.. Remble
+
+◼️
 
 [Data](articles/4522a9a7.json)
+
+[Extended Data](ext_articles/4522a9a7.ext.json)
 
 ---
 
@@ -184,6 +238,8 @@ All passengers were deboarded through the emergency door and are safe, the offic
 
 [Data](articles/f2c9d4b6.json)
 
+[Extended Data](ext_articles/f2c9d4b6.ext.json)
+
 ---
 
 ### Bus collision on vehicles in Turkey;10 killed;39 people injured
@@ -212,17 +268,23 @@ Anadolu said that there were 28 passengers on the intercity bus traveling from t
 
 ---
 
-### ‘அநுரவால் அரசாங்கத்தை திறம்பட நடத்த முடியாதென லால்காந்தவுக்குத் தெரியும்’
+### Lalkanta knows that the government cannot be able to run the government effectively
 
 *2024-05-28 09:19:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அநுரவால்-அரசாங்கத்தை-திறம்பட-நடத்த-முடியாதென-லால்காந்தவுக்குத்-தெரியும்/175-338001) · `ta`
 
-பாராளுமன்ற உறுப்பினர் அநுர குமார திஸாநாயக்கவால் அரசாங்கத்தை திறம்பட நடாத்த முடியாததென்பது தெரியுமென்பதால் தனது கட்சி ஆட்சிக்கு வருவதைத் தடுக்க அநுர தலைமை தாங்கும் தேசிய மக்கள் சக்தியின் உறுப்பினர் கே.டி. லால்காந்த முயல்வதாக ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் எஸ்.எம். மரிக்கார் தெரிவித்துள்ளார்.
+Anura Kumara Dissanayake, from the National People's Power, criticizes the government's inefficiency, as does SM. Marikar, questioning the leadership of Iranian President Ebrahim Raisi amidst a message of sympathy for Iran's sudden death.
 
-திங்கட்கிழமை நடைபெற்ற செய்தியாளர் மாநாட்டொன்றிலேயே இக்கருத்தை வெளிப்படுத்திய மரிக்கார், ஈரான் ஜனாதிபதி எப்ராஹிம் றைசியின் திடீர் மரணத்துக்கான அனுதாபச் செய்தியை தனது அலைபேசியிலிருந்து அநுர பிரதி செய்ததாகக் கூறியதுடன், அவ்வாறானவர் எவ்வாறு நாட்டை ஆளலாம் எனக் கேள்விக்குட்படுத்தினார்.
+🟩
+
+Member of Parliament, Anura Kumara Dissanayake, knows that the government is unable to conduct the government effectively, is a member of the National People's Power, which is headed to prevent his party coming to power.. United People's Power MP SM. Marikar said.
+
+Marikar, at a press conference held on Monday, said that Iranian President Ebrahim Rasi had made a message of sympathy for the sudden death of Iran, and questioned how such a person could rule the country.
 
 ◼️
 
 [Data](articles/e870465a.json)
+
+[Extended Data](ext_articles/e870465a.ext.json)
 
 ---
 
@@ -243,6 +305,8 @@ Wellawali Police are conducting further investigations to arrest the suspects in
 ◼️
 
 [Data](articles/5560ccac.json)
+
+[Extended Data](ext_articles/5560ccac.ext.json)
 
 ---
 
@@ -2163,57 +2227,5 @@ The High Commissioner has later distributed school bags among children while vis
 [Data](articles/0f7ec811.json)
 
 [Extended Data](ext_articles/0f7ec811.ext.json)
-
----
-
-### Pakistan HC unveils Gallery at Kandy Museum celebrating Buddhist archeological sites
-
-*2024-05-27 18:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/99473/pakistan-hc-unveils-gallery-at-kandy-museum-celebrating-buddhist-archeological-sites) · `en`
-
-High Commissioner of Pakistan to Sri Lanka Maj. General (Rtd) Faheem Ul Aziz officially inaugurated the Pakistan Gallery located inside Kandy Museum.
-
-The gallery has recently been renovated to showcase the Buddhist archeological and heritage sites, based in different cities of Pakistan through pictures, relics, and artifacts, the Pakistan High Commission in Sri Lanka said in a statement.
-
-Accordingly, the Pakistan Gallery is now officially opened for the general public to visit, the statement mentioned.
-
-Many prominent dignitaries including Pradeep Nilanga, Diyavadana Nilame and Mr. Afzal Marikar Honorary Consul of Pakistan in Kandy attended the event.
-
-The High Commissioner has later distributed school bags among children while visiting the Kandy Temple, according to the Pakistan High Commission in Sri Lanka.
-
-◼️
-
-[Data](articles/4737fe28.json)
-
-[Extended Data](ext_articles/4737fe28.ext.json)
-
----
-
-### Many government departments, along with many government departments, are also trying to change our existence with the influential people - Professor Padmanathan
-
-*2024-05-27 18:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/184634) · `ta`
-
-Professor Padmanathan criticizes government departments for attempting to alter societal norms, referencing historical injustices and the struggle for self-determination among Tamil communities. He highlights the importance of preserving cultural heritage and advocating for rights through education and awareness.
-
-🟩
-
-Professor Pathmanathan has said that we are trying to change our existence with many government departments, along with many government departments, in the Navanji style, and they are trying to change our existence.. Said
-
-He said this in a speech delivered by Professor Padmanathan's vision of a disappeared civilization - Adirata Jaffna Jaffna.
-
-Others can be obtained by sovereignty power and self -determination.. He has mentioned
-
-In the first century for Christ, the linguistic language and the non -existent territory of the production of Tamil nationalism.
-
-After independence in the 19th century, Sinhala leaders educated, from the State Council, from a mature family, Tamils should be a nationality regime in the country.
-
-When our representatives appealed to the President about a thousand acres of land to a Buddhist Vikramadi, he told the head of the department. I do not need to study this history.
-
-They have been doing many things in violation of the Indian Sri Lanka Accord.
-
-...
-
-[Data](articles/9882602f.json)
-
-[Extended Data](ext_articles/9882602f.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-28 23:34:08**
+As of **2024-05-28 23:53:44**
 
 ## Newspaper Stats
 
-*Scraped **26,912** Articles*
+*Scraped **26,913** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 265
 bbccomsinhala | 268
 newsfirstlk | 363
 islandlk | 1,456
-economynextcom | 1,539
+economynextcom | 1,540
 dailyftlk | 1,568
 adalk | 2,294
 adaderanalk | 3,075
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,319
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,912 (100.0%) of 26,912 articles have been extended.
+26,912 (100.0%) of 26,913 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -731,6 +731,30 @@ The Bureau has already taken steps to suspend the license of the Employment Agen
 [Data](articles/5d4a33f4.json)
 
 [Extended Data](ext_articles/5d4a33f4.ext.json)
+
+---
+
+### Sri Lanka’s Commercial Bank in rights issue to raise Rs22bn
+
+*2024-05-28 18:30:00* · [`economynextcom`](https://economynext.com/sri-lankas-commercial-bank-in-rights-issue-to-raise-rs22bn-165131/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Commercial Bank of Ceylon, the largest private bank by assets, has made a capital call from shareholders of 22 billion rupees, offering voting shares at 85 rupees and non-voting at 69 rupees.
+
+Commercial Bank will offer 252,082,449 shares in the proportion of 1 for every exiting 5, to raise 21.42 billion rupees, the bank said in a stock exchange filing.
+
+It will also offer 15,847,696 shares also 1 for 5 to raise 1,093 billion rupees.
+
+The 22.52 billion rupees will used to bolster Tier 1 capital to accommodate future lending, the firm said.
+
+The bank’s Tier 1 capital was 11.36 percent as at March 2024 (required 10 percent) and total capital ratio, 14.87 percent, (required 14.0 percent)
+
+Commercial Bank had equity of 220.83 billion rupees and net assets of 164.93 rupees per share.
+
+The stock closed at 112.75 rupees, down 75 cents on Tuesday.
+
+...
+
+[Data](articles/332e1633.json)
 
 ---
 
@@ -2289,31 +2313,5 @@ Attorney-at-Law Namal Rajapaksa, who appeared for the loss of the money, said th
 [Data](articles/97e1daf8.json)
 
 [Extended Data](ext_articles/97e1daf8.ext.json)
-
----
-
-### Life Sunday attack;Woman who was treated 5 years later dies
-
-*2024-05-28 14:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/184693) · `ta`
-
-Thilini Harshani, injured in the 2019 terrorist bomb attack at St. Sebastiar's church, passed away five years later. The attack also claimed the life of her son, Duloth Anthony, and targeted eight locations across Colombo, resulting in over 500 injuries.
-
-🟩
-
-A woman who was injured in the 2019 life -threatening terrorist bomb attack has died after five years.
-
-Thilini Harshani, who has been treated for five years, has died.
-
-Thilini Harshani was injured in a suicide bomb attack on April 21, 2019 at St. Sebastiar's church at Kattuvapitiya, Negombo, and her son Duloth Anthony died in the incident.
-
-In this case, Dilini Harshani has been continuously treated and she is currently dead.
-
-The terrorist attacks targeted 8 places, including Colombo, were killed and over 500 injured.
-
-◼️
-
-[Data](articles/29dbe6fd.json)
-
-[Extended Data](ext_articles/29dbe6fd.ext.json)
 
 ---

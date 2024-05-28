@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-28 21:33:57**
+As of **2024-05-28 21:53:26**
 
 ## Newspaper Stats
 
-*Scraped **26,898** Articles*
+*Scraped **26,899** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,456
 economynextcom | 1,539
 dailyftlk | 1,568
 adalk | 2,293
-adaderanalk | 3,073
+adaderanalk | 3,074
 tamilmirrorlk | 3,151
 virakesarilk | 4,127
 dailymirrorlk | 4,241
@@ -26,11 +26,29 @@ adaderanasinhalalk | 4,317
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,897 (100.0%) of 26,898 articles have been extended.
+26,898 (100.0%) of 26,899 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-28 (Tuesday)
+
+### Social security benefits to be introduced for all workers over 55 years
+
+*2024-05-28 21:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/99498/social-security-benefits-to-be-introduced-for-all-workers-over-55-years) · `en`
+
+Labour and Foreign Employment Minister Manusha Nanayakkara announced that the Cabinet has approved a proposal to provide social security benefits to all workers aged 55 and above across various industries.
+
+This initiative includes the preparation of necessary legal provisions, which will be developed alongside the “Garusaru” program, he said.
+
+Addressing the press briefing titled “Collective Path to a Stable Country” held at the President Media Centre (PMC) today (28), Minister Nanayakkara highlighted the government’s commitment to social security and labor rights.
+
+The Minister further responded to criticisms about the lack of mental freedom to celebrate festivals, noting that the current government, led by President Ranil Wickremesinghe, has restored the environment for celebrating Vesak, Poson, Esala and Christmas.
+
+...
+
+[Data](articles/b0738bdb.json)
+
+---
 
 ### The Central Bank's stand on imports
 
@@ -164,21 +182,29 @@ Lanza made this statement in the wake of UNP General Secretary Palitha Range Ban
 
 ---
 
-### ජා ඇළ මහා රන් කොල්ලයේ සැකකරු පැය 48කින් අල්ලයි
+### Suspect arrested in 48 hours
 
 *2024-05-28 20:21:39* · [`adalk`](https://www.ada.lk/breaking_news/ජා-ඇළ-මහා-රන්-කොල්ලයේ-සැකකරු-පැය-48කින්-අල්ලයි/11-409884) · `si`
 
-ජාඇල කණුවන සමූපාකාර ග්‍රාමීය බැංකුව තුල දින තුනක් රැඳී සිට සේප්පු කපා  රුපියල් කෝටි 4 කට ආසන්න වටිනා  කිලෝ 2 ක  බරින් යුත් රන් භාණ්ඩ තොගයක් සහ  රුපියල් ලක්ෂ දහයකට අධික මුදල් සොරාගත් පුද්ගලයා පැය 48 ක් යාමට මත්තෙන් කොල්ලූපිටිය ප්‍රසිද්ධ සමාජ ශාලාවක් අසලදී  හොරයින් මත්කුඩු මිලිගෑම් 11200 ක් සමග  අත්අඩංගුවට ගත් බව පෑලියගොඩ අපරාධ කොට්ඨාසය කියයි
+A suspect was arrested within 48 hours for stealing over 500kg of gold worth 48 million rupees from a bank in Peliyagoda. The gold was hidden in a room and a cupboard, and some was sold at Pettah Hath Street. The suspect also stole money from various institutions and lived a luxurious lifestyle, supported by his activities. His luxury car was confiscated, and the investigation revealed connections to casinos and drug use.
 
-එම සැකකරුගෙන් සිදුකළ ප්‍රශ්න කිරීමේද  එම බැංකුවෙන් සොරාගෙන තිබූ ගනුදෙනුකරුවන් 500 කට  ආසන්න ප්‍රමාණයකගේ කිලෝ 2 කට ආසන්න බරින්  යුත් රන් භාණ්ඩ තොගය  , සේප්පු කැපීමට යොදාගත් , ගයින්ඩරය , අඬු , මිටි,  තල හා විදුලි පන්දම සහ එදින ඇඳ සිටි ඇඳුම් පැළඳුම් ද පොලිසිය මගින් සොයාගෙන ඇත
+🟩
 
-ඊට අමතරව  සැකකරු එම සොරකම සඳහා යොදාගත් සුඛෝපභෝගී මෝටර් රථය ද පොලිස් භාරයට ගෙන ඇත
+Drugs with a gold item of gold and weighing more than 48 million rupees worth Rs.Peliyagoda Crimes Division says that he was arrested
 
-ඉකුත් 25  වෙනිදින ජාඇල කණුවන ග්‍රාමීය බැංකුවේ කළමනාකාරිනිය දින දෙකකට පසු බැංකුව විවෘත කිරීම සඳහා පැමිණි අවස්ථාවේදී  බැංකුවේ පැති බිත්තියක් අඩි එකහමාරක පමණ විෂ්කම්භයකින් හාරා කිසියම් සොර කණ්ඩායමක් ඇතුලට පැමිණ සේප්පු කපා  රන් භාණ්ඩ ඇතුළු දේපළ සොරාගෙන ගොස් ඇති බවට ජාඇල පොලිසියට පැමිණිලි කර තිබිණි
+The police have found about 500 kilograms of golds weighing nearly 500 kilograms of customers who were weighing nearly 500 kilograms of customers who were stolen from the bank, the police.
+
+In addition, the suspect's luxury car has been taken into police custody
+
+A side wall of the bank had taken a complaint with a root of the bank and stolen the property in a diameter of the Bank two days after the end of the 25 days.
+
+The director of the Peliyagoda Criminal Division has been involved in the theft. Chief Inspector Sunith Jayasekara, who was conducting the OIC of J. Pushpa Kumara, and several other officials were taken to the rural bank and pay close attention to Gininser to cut the same spots on the ground.Steps were taken to expedite investigations into the company of the Delgoda area imported from China to Sri Lanka.
 
 ...
 
 [Data](articles/c8942a04.json)
+
+[Extended Data](ext_articles/c8942a04.ext.json)
 
 ---
 
@@ -798,9 +824,15 @@ The State Minister also revealed that the police had obtained statements from 30
 
 *2024-05-28 17:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/99495/president-directs-to-deliver-immediate-relief-to-victims-of-adverse-weather) · `en`
 
-President Ranil Wickremesinghe has directed officials to deliver immediate relief to those impacted by the adverse weather and to maintain relief efforts until the situation improves.
+President Ranil Wickremesinghe instructed officials to provide immediate relief to those affected by the recent inclement weather and to continue these efforts until the situation improves, the PMD reported.
 
-Moreover, the Disaster Management Center (DMC) is also taking steps to compensate those who lost their lives, the President’s Media Division reported.
+According to the Disaster Management Centre (DMC), eight deaths have been reported across the island as of yesterday (27). Seven people died in accidents caused by strong winds, and one person died in a boat capsizing incident.
+
+The President also directed that compensation be provided to the families of the deceased. The Disaster Management Centre will provide Rs. 250,000 for each victim, with an advance payment of Rs. 25,000 already arranged.
+
+As of yesterday (27), 42,640 people belonging to 11,326 families have been affected by the inclement weather conditions.
+
+The President instructed the Disaster Management Centre to ensure all necessary facilities are provided, with special attention to health and hygiene of the affected.
 
 ◼️
 
@@ -2329,31 +2361,5 @@ The Minister further stated that a special program has been conducted with the C
 [Data](articles/e1034e44.json)
 
 [Extended Data](ext_articles/e1034e44.ext.json)
-
----
-
-### Northern Provincial Council Chair
-
-*2024-05-28 13:15:28* · [`adalk`](https://www.ada.lk/breaking_news/උතුරු-මැද-ප‍ළාත්-ස‍‍‍භාවේ-ලොකු-පුටු-හතරක-වෙනසක්/11-409869) · `si`
-
-Herath, the North Central Provincial Governor, has reorganized the secretaries of four Ministries within the council. Key appointments include Wijaya Wildlman moving from Fisheries and Lands to Food and Co-operatives. These changes took effect last Thursday, leaving the Ministry of Health unaffected. The move follows consultations about amending ministry secretaries, including considerations for two officers promoted to special grades based on their performance.
-
-🟩
-
-North Central Provincial Governor Herath has taken steps to amend the secretaries of four of the Ministries of the North Central Provincial Council.
-
-Accordingly, the secretary secretariat was the Secretary to the Chief Secretary of the North Central Provincial Council.Wijaya Wildlman, the Secretary to the Ministry of Fisheries and the Ministry of Fisheries and the Ministry of Lands has been appointed as the Secretary to the Secretary to the Ministry of Food and Co-operatives.Been appointed as.
-
-With the amendments of the Secretary of the Provincial Council, the newly appointed secretaries took the work of their positions on Thursday.
-
-The Ministry of Health is the only ministries that have not been amended this year and is still the Secretary to the Ministry.
-
-Suddenly, the Testament to consult the Secretaries of four of the Ministry Secretaries of the North Central Provincial Council regarding the amendment of the Ministry Secretaries.
-
-...
-
-[Data](articles/039529fe.json)
-
-[Extended Data](ext_articles/039529fe.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-28 14:05:33**
+As of **2024-05-28 14:18:47**
 
 ## Newspaper Stats
 
-*Scraped **26,786** Articles*
+*Scraped **26,788** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,46 @@ newsfirstlk | 363
 islandlk | 1,453
 economynextcom | 1,532
 dailyftlk | 1,568
-adalk | 2,278
+adalk | 2,279
 adaderanalk | 3,063
 tamilmirrorlk | 3,141
 virakesarilk | 4,102
-dailymirrorlk | 4,222
+dailymirrorlk | 4,223
 adaderanasinhalalk | 4,296
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,781 (100.0%) of 26,786 articles have been extended.
+26,786 (100.0%) of 26,788 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-28 (Tuesday)
+
+### First model village for strawberry cultivation established in Nuwara Eliya
+
+*2024-05-28 13:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/First-model-village-for-strawberry-cultivation-established-in-Nuwara-Eliya/108-283519) · `en`
+
+Colombo, May 28 (Daily Mirror) - The Agrarian Development Department has taken steps to establish Sri Lanka's first model village for strawberry cultivation based on four villages in Nuwara Eliya.
+
+This model cultivation village was established on the instructions of Agriculture and Plantation Industries Minister Mahinda Amaraweera.
+
+A model village was established for each fruit and vegetable to be cultivated so that they could be exported.
+
+Accordingly, this strawberry cultivation has been started in 42 net houses through 50 farmers at a cost of Rs. 20 million.
+
+From this strawberry cultivation, the strawberry plants imported from Australia to Sri Lanka will be distributed among the farmers.
+
+The planting planting in safe houses has been completed by now.
+
+The government has granted Rs. 320 million to the Agrarian Development Department for this year.
+
+◼️
+
+[Data](articles/12fe042c.json)
+
+---
 
 ### Suspect arrested over Ahungalla shooting incident
 
@@ -99,6 +123,22 @@ The Minister further stated that a special program has been conducted with the C
 [Data](articles/e1034e44.json)
 
 [Extended Data](ext_articles/e1034e44.ext.json)
+
+---
+
+### උතුරු මැද ප‍ළාත් ස‍‍‍බාවේලොකු පුටු හතරක වෙනසක්
+
+*2024-05-28 13:15:28* · [`adalk`](https://www.ada.lk/breaking_news/උතුරු-මැද-ප‍ළාත්-ස‍‍‍බාවේලොකු-පුටු-හතරක-වෙනසක්/11-409869) · `si`
+
+උතුරු මැද පළාත් සභාවේ අමාත්‍යාංශ පහෙන් හතරක ලේකම්වරුන්ගේ සංශෝධනයක් කිරීමට උතුරු මැද පලාත් ආණ්ඩුකාර මහීපාල හේරත් මහතා කටයුතු කර ඇත.
+
+ඒ අනුව උතුරු මැද පළාත් සභාවේ ප්‍රධාන අමාත්‍යාංශ ලේකම්වරිය ලෙස කටයුතු කළ අභය ලක්ෂ්මි හේවාපතිරණ මහත්මිය ඉන් ඉවත්කර වාරිමාර්ග හා ඉඩම් අමාත්‍යාංශ ලේකම්වරිය ලෙස පත් කර තිබේ.ඉන් පුරප්පාඩු වූ ප්‍රධාන අමාත්‍යංශ ලේකම් තනතුරට ආහාර හා සමූපකාර අමාත්‍යාංශ ලේකම්වරයා ලෙස කටයුතු කළ සිරිමෙවන් ධර්මසේන මහතා පත්කර තිබේ.කෘෂිකර්ම,ධීවර කටයුතු හා ඉඩම් අමාත්‍යාංශයේ ලේකම් ලෙස කටයුතු කළ විජය වනසිංහ මහතා ආණ්ඩුකාර ලේකම්වරය ලෙස පත්කර ඇත.කෘෂිකර්ම අමාත්‍යාංශයේ ලේකම් වශයෙන් කේ.එම්.එච්.සමන්ත කුමාර ජයලත් මහතා පත්කර ඇති අතර වාරිමාර්ග හා ඉඩම් අමාත්‍යාංශයේ හිටපු ලේකම් චින්තක රණසිංහ මහතා ආහාර හා සමුපකාර අමාත්‍යාංශ ලේකම්වරයා වශයෙන් පත් කර තිබේ.
+
+මෙසේ පළාත් සභාවේ අමාත්‍යාංශ ලේකම්වරුන්ගේ සංශෝධන වීමත්  සමඟ අලුතෙන් පත් වූ ලේකම්වරුන් පසුගිය 27 දා තම තනතුරුවල වැඩ භාර ගැනීම සිදුවිය.
+
+...
+
+[Data](articles/170a5835.json)
 
 ---
 
@@ -558,63 +598,89 @@ Minister Prasanna Ranatunga was also obstructed from the protest.
 
 ---
 
-### 8 தடவை இடம்பெயர்ந்துள்ளோம் எத்தனை காலத்திற்கு எங்களை இப்படி கேவலப்படுத்தப்போகின்றார்கள்? ; இனி எங்கே போவது? - ரபாவில் இஸ்ரேல் தாக்குதலில் சிக்கிய மக்கள்
+### How long have we been displaced 8 times?;Where to go anymore?- People who were caught in Israel attack in Rabba
 
 *2024-05-28 11:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/184671) · `ta`
 
-காசாவில் அல் அட்டார் குடும்பத்தினர் தொழுகையில் ஈடுபட்ட பின்னர் பிள்ளைகளை உறங்கவைப்பதில் ஈடுபட்டிருந்தவேளை அவர்களின் கூடாரத்திற்கு வெளியே  பாரிய சத்தமொன்றை கேட்டனர்.
+In a devastating turn of events, the al-Attar family in Gaza experienced a massive fire during an Israeli attack on temporary shelters in Rabba, leading to displacement for the eighth time. Eyewitnesses described a scene of chaos and fear, with casualties including women and children. The international community has condemned the incident, which follows earlier ground operations by Israeli forces in Rabba, forcing thousands of Palestinians into refuge. Amidst the destruction, survivors like Dalal Saeed Salman find themselves questioning their path forward, highlighting the ongoing crisis and its impact on those affected.
 
-ரபா நகரின் டெல் அல் சுல்தான் என்ற பகுதியில் இடம்பெயர்ந்த மக்களிற்காக அமைக்கப்பட்டிருந்த தற்காலிக கூடாரங்கள் மீது ஞாயிற்றுக்கிழமை இஸ்ரேல் மேற்கொண்ட தாக்குதலை தொடர்ந்து  பாரிய தீ பரவியது.
+🟩
 
-அச்சமடைந்த மக்கள் கூடாரங்களில் இருந்து தப்பி வெளியே ஒடினார்கள் என சம்பவத்தை நேரில் பார்த்தவர்கள் தெரிவித்துள்ளனர்.
+The al -Attar family in Gaza was praying for a massive noise outside their tent while they were sleeping with the children after praying.
 
-எங்கள் அறை குண்டுச்சிதறல்களால் நிரம்பிக்காணப்பட்டது பலதொன் அளவுள்ள ஏவுகணைகள் அல்லது குண்டுகள் விழுந்துகொண்டிருந்தன என உம் முகமட் அல் அத்தார் தெரிவித்தார்.
+A massive fire broke out following an Israeli attack on Sunday on temporary tents set up for displaced people in the city of Rabba.
 
-சிதைவடைந்த முகாமின் கூடாரங்கள் நெளிந்த இரும்புகள் போன்றவற்றை பார்வையிட்டவாறு அவர் இதனை எங்களிற்கு தெரிவித்தார்.
+Eyewitnesses said that the fearful people escaped from the tents.
 
-ஊனமுற்ற குழந்தையுடன் தனது அறையின் வாசலில் பெண் ஒருவர் தியாகியானார். அவள் செய்த குற்றம் என்ன என அவர் கேள்வி எழுப்பினார்.
+Um Mohammed al -Attar said that many missiles or bombs were fallen, filled with our room bombs.
 
-எங்கள் அயலவர் தொழுகையில் ஈடுபட்டுக்கொண்டிருந்தவேளை தியாகியானார் அவரது மூளை சுவரில் காணப்பட்டது எனவும் அவர் தெரிவித்தார்.
+He told us this as we visited the tents of the degenerative camp and the iron.
+
+A woman martyred at the door of her room with the disabled child. She questioned what she had committed.
+
+While our neighbor was engaged in prayer, the martyr was found on the wall of his brain.
+
+45 people have been killed.
+
+The leaders of the world have issued a strong condemnation of the number of people killed.
+
+Thousands of Palestinians have taken refuge in the Dell al -Sultan area after Israeli soldiers launched ground operations in Rabba two weeks ago.
 
 ...
 
 [Data](articles/b0999e4c.json)
 
+[Extended Data](ext_articles/b0999e4c.ext.json)
+
 ---
 
-### ரபாமீதான இராணுவநடவடிக்கையை இஸ்ரேல் தொடரக்கூடாது- அவுஸ்திரேலியா
+### Israel should not pursue military action on Rabam- Australia
 
 *2024-05-28 11:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/184675) · `ta`
 
-ரபாமீதான இராணுவநடவடிக்கையை இஸ்ரேல் தொடரக்கூடாது என அவுஸ்திரேலிய வெளிவிவகார அமைச்சர் பெனிவொங் வேண்டுகோள் விடுத்துள்ளார்.
+Australia urges Israel to halt military action against Rabam, citing humanitarian concerns and the protection of civilians. The Australian Foreign Minister criticizes Israel's actions, emphasizing the need for a ceasefire and the release of hostages by Hamas.
 
-கடந்த 24 மணிநேரத்தில் இடம்பெற்ற சம்பவங்கள் தற்போது மனிதாபிமான யுத்தநிறுத்தத்தை ஏற்படுத்தவேண்டும் அதன் மூலம் பொதுமக்களை பாதுகாக்க முடியும் என்பதை உறுதியாக வெளிப்படுத்தியுள்ளன என அவர் தெரிவித்துள்ளார்.
+🟩
 
-இஸ்ரேலின் தாக்குதல்கள் பயங்கரமான ஏற்றுக்கொள்ள முடியாத விளைவுகளை  ஏற்படுத்தியுள்ளன என தெரிவித்துள்ள பெனிவொங் காசாவின் சனத்தொகையில் அரைவாசிக்கும் மேற்பட்டவர்கள் தஞ்சமடைந்துள்ள ரபாவின் மீது இஸ்ரேல் தனது இராணுவநடவடிக்கையை முன்னெடுக்க கூடாது என்பது குறித்து அவுஸ்திரேலியா தெளிவாக உள்ளது எனவும் அவர்தெரிவித்துள்ளார்.
+Australian Foreign Minister Beniwong has appealed to Israel not to continue the military action against Rabam.
 
-ஹமாஸ் தன்னிடமுள்ள பணயக்கைதிகள் அனைவரையும் விடுதலை செய்யவேண்டும் பொதுமக்களை மனித கேடயங்களா பயன்படுத்துவதை  நிறுத்தவேண்டும் தனது ஆயுதங்களை கைவிடவேண்டும் எனவும் அவர் வேண்டுகோள் விடுத்துள்ளார்.
+He said that the events that took place over the past 24 hours have now been able to establish a humanitarian ceasefire and thereby protect the civilians.
+
+Australia has made it clear that Israel's attacks have been unacceptable consequences, saying that Israel should not carry out its military action against Raba, who has taken over half of the population of Beniwong Gaza.
+
+He has also appealed to Hamas to release all his hostages and stop the use of the public as human shields and abandon his weapons.
 
 ◼️
 
 [Data](articles/786e7488.json)
 
+[Extended Data](ext_articles/786e7488.ext.json)
+
 ---
 
-### கிழக்குப் பட்டதாரி ஆசிரியர் நியமனங்களுக்கு கல்முனை மேல்நீதிமன்று இடைக்காலத் தடை
+### Kalmunai Upper Judgment Interim Prohibition on East Graduate Teacher Appointments
 
 *2024-05-28 11:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/184672) · `ta`
 
-கிழக்கு மாகாணத்தில் இன்று செவ்வாய்க்கிழமை வழங்கப்படவிருந்த பட்டதாரி ஆசிரியர்களுக்கான நியமனம்  கல்முனை மேல் நீதிமன்றத்தினால் நேற்று திங்கட்கிழமை (27) வழங்கப்பட்டுள்ள இடைக்கால தடை உத்தரவின் மூலம் தடுக்கப்பட்டுள்ளது.
+The Kalmunai High Court has temporarily halted the appointment of graduate teachers in the Eastern Province, citing potential irregularities. This decision comes after concerns were raised about the process, which included the release of a selection list before interviews were conducted. The case will be revisited on June 5th, allowing time for further investigation into the allegations of improper conduct during the recruitment process.
 
-இது தொடர்பான வழக்கு எதிர்வரும் ஜூன் மாதம் 5 ஆம் திகதி மீண்டும் விசாரணைக்கு எடுத்துக் கொள்ளப்படவுள்ளது. அதுவரை நியமனம் எதுவும் வழங்க கூடாதென பிரதிவாதிகளுக்கு நீதிமன்றம் உத்தரவு பிறப்பித்துள்ளது.
+🟩
 
-குரல்கள் இயக்க சட்டத்தரணிகள் மேற்கொண்ட அயராத முயற்சியினால் இந்த இடைக்காலத் தடையுத்தரவு பிறப்பிக்கப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+The appointment of graduate teachers in the Eastern Province today has been blocked by the Kalmunai High Court on Monday (27).
 
-முன்னதாக-கிழக்கு மாகாண கல்வி அமைச்சினால் வழங்கப்படவுள்ள பட்டதாரி ஆசிரியர் நியமனத்திற்கான தெரிவில் பெரும் முறைகேடுகள் இடம்பெற்றிருக்கின்றன எனத் தெரிவித்த கிழக்கிலங்கை முஸ்லிம் பேரவை, இதனை நிவர்த்தி செய்வதற்கு உரிய நடவடிக்கை எடுக்குமாறு கிழக்கு மாகாண ஆளுநர் செந்தில் தொண்டமானிடம் மகஜர் மூலம் வேண்டுகோள் விடுத்திருந்தமை குறிப்பிடத்தக்கது.
+The case will be taken up for hearing again on June 5. The court has ordered the defendants not to appoint any appointment.
+
+It is noteworthy that the interim injunction was issued due to the tireless efforts of lawyers to operate voices.
+
+Earlier, the Eastern Provincial Council has appealed to the Governor of the Eastern Province Senthil Thondaman to take appropriate action to address the Eastern Provincial Education Ministry.
+
+GCE in the Eastern Province. The open competitive examination to recruit graduates for the teacher vacancies for the higher quality subjects was held on March 30 last year.
 
 ...
 
 [Data](articles/b1754d16.json)
+
+[Extended Data](ext_articles/b1754d16.ext.json)
 
 ---
 
@@ -818,19 +884,25 @@ Meanwhile, he said that the request of MPs to issue a tax -free vehicle license 
 
 ---
 
-### “வெல்லம்பிட்டிய  குடு ரெஜின“ போதைப்பொருளுடன் கைது!
+### "Wellampitiya Gudu Regina" Arrested With Drugs!
 
 *2024-05-28 11:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/184669) · `ta`
 
-பொலிஸாரினால் மேற்கொள்ளப்பட்ட யுக்திய நடவடிக்கையின் போது ஹெரோயின் போதைப்பொருளுடன்  பெண்ணொருவர்  கைது செய்யப்பட்டுள்ளார்.
+In Wellampitiya, a woman named "Gudu Regina" was arrested by the Special Task Force for possessing heroin. The incident occurred near the new Kelaniya Bridge under the Grandpass Police Division on Monday (27).
 
-கிராண்ட்பாஸ் பொலிஸ் பிரிவிற்குட்பட்ட புதிய களனி பாலம், சேதவத்த , வெல்லம்பிட்டிய பிரதேசத்தில் நேற்று திங்கட்கிழமை (27) பொலிஸாரினால் சுற்றி வளைப்பொன்று மேற்கொள்ளப்பட்டுள்ளது.
+🟩
 
-இதன் போது, “வெல்லம்பிட்டிய  குடு ரெஜின“ என அழைக்கப்படும் பெண் பொலிஸ் விசேட அதிரடிப்படையினரால் கைது செய்யப்பட்டு மேலதிக விசாரணைகளுக்காக கிராண்ட்பாஸ் பொலிஸாரிடம் ஒப்படைக்கப்பட்டுள்ளார்.
+A woman has been arrested with heroin drugs during the strategy carried out by the police.
+
+The new Kelaniya Bridge, which belongs to the Grandpass Police Division, has been surrounded by police on Monday (27) in Wellampitiya.
+
+During this time, a woman known as "Wellampitiya Gudu Regina" has been arrested by the Special Task Force and handed over to the Grandpass police for further investigations.
 
 ◼️
 
 [Data](articles/7f13dbfb.json)
+
+[Extended Data](ext_articles/7f13dbfb.ext.json)
 
 ---
 
@@ -1728,23 +1800,29 @@ Strong winds of about 50-60 kmph can be expected at times over Western slopes of
 
 ---
 
-### වැස්ස හා සු‍ලං තවදුරට‍
+### Rain and Suglunt
 
 *2024-05-28 07:46:50* · [`adalk`](https://www.ada.lk/breaking_news/වැස්ස-හා-සු‍ලං-තවදුරට‍/11-409862) · `si`
 
-සක්‍රීය නිරිත දිග මෝසම් තත්ත්වය හේතුවෙන් පවතින වැසි  සහ සුළං තත්ත්වය තවදුරටත්බලාපොරොත්තු වන බව කාලගු‍ණ විද‍්‍යා දෙපාර්තමේන්තුව කියයි.
+The Department of Meteorology warns of heavy rainfall and strong winds due to the southwest monsoon across various provinces in Sri Lanka, including the Western, Sabaragamuwa, Uva, Ampara, Batticaloa, Central Hills, North, North Central, Southern, North Western, Trincomalee, and Moneragala regions.
 
-එම දෙපාර්තමේන්තුව අද පෙරවරුවේ නිකුත් ක‍ළ නිවේදනයේ දැක්වෙන්නේ බස්නාහිර, සබරගමුව, මධ්‍යම, වයඹ ස හදකුණු පළාත්වල විටින් විට වැසි ඇතිවෙන බවයි.
+🟩
 
-බස්නාහිර සහ සබරගමුව පළාත්වලත්, නුවරඑළිය දිස්ත්‍රික්කයේත් ඇතැම් ස්ථානවලට මි.මී. 100ට වැඩි තද වැසි ඇතිවිය හැකි බවද එම නිවේදනයේ දැක්වෙයි.
+The Department of Meteorology says that the rain and windy of the active southwest monsoon will be furthericulous.
 
-ඌව පළාතේත් අම්පාර සහ මඩකලපුව දිස්ත්‍රික්කවලත් සවස් කාලයේ හෝ රාත්‍රි කාලයේ තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවන බවද එම දෙපාර්තතමේන්තුව පෙන්වා දෙයි.
+The department released showers this morning (
 
-මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවලත් උතුරු, උතුරු මැද, බස්නාහිර, දකුණු සහ වයඹ පළාත්වලත් ත්‍රීකුණාමලය සහ මොනරාගල දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. (50-60) ක පමණ තද සුළංඇතිවිය හැකි බවද එම දෙපාර්තමේන්තුව වැඩිදුරටත් පවසයි.
+Mm in the Western and Sabaragamuwa Provincial and Sabaragamuwa Province. Heavy showers are likely to experience more than 100.
+
+The Department states that showers or thundershowers will occur at several places in the Uva Province and in the Ampara and Batticaloa districts.
+
+At times, in the West in the central hills, the North, North Central, Western, Southern and North Western Provinces and in Trincomalee and Moneragala Districts.. (50-60) strong winds, he added.
 
 ◼️
 
 [Data](articles/1c276656.json)
+
+[Extended Data](ext_articles/1c276656.ext.json)
 
 ---
 
@@ -2291,45 +2369,5 @@ The veteran politician found himself embroiled in controversy in 2015 when a pho
 [Data](articles/10b6b596.json)
 
 [Extended Data](ext_articles/10b6b596.ext.json)
-
----
-
-### Marikkar criticises NPP’s lack of comprehensive economic policy
-
-*2024-05-28 02:09:36* · [`dailyftlk`](https://www.ft.lk/news/Marikkar-criticises-NPP-s-lack-of-comprehensive-economic-policy/56-762257) · `en`
-
-SJB MP S.M. Marikkar expresses disappointment NPP has not responded to request for Economic Council debate
-
-Says SJB is open to hold leadership debate first only if dates for economic council debate are provided
-
-Stresses people will not accept NPP economic policies which have not been penned down and are limited to rhetoric
-
-Samagi Jana Balawegaya (SJB) MP S.M. Marikkar yesterday said no one in the country will be willing to accept National People’s Power (NPP) party’s economic policies which appear to be limited to rhetoric and have not been penned down as a comprehensive plan.
-
-Speaking at a press briefing, Marikkar emphasised that the primary concern in Sri Lanka is the economic crisis. He noted that the SJB has therefore proposed dates for debates involving both the Economic Councils and Leadership to the NPP. However, he expressed disappointment that the NPP has yet to respond to the request for the Economic Council debate.
-
-...
-
-[Data](articles/da9b07dc.json)
-
-[Extended Data](ext_articles/da9b07dc.ext.json)
-
----
-
-### BIA bans driverless vehicles from arrivals terminal to streamline traffic
-
-*2024-05-28 02:07:45* · [`dailyftlk`](https://www.ft.lk/news/BIA-bans-driverless-vehicles-from-arrivals-terminal-to-streamline-traffic/56-762256) · `en`
-
-Airport and Aviation Services (Sri Lanka) Ltd., (AASL) announced yesterday that a decision has been taken not to allow vehicles without drivers to be parked in the arrivals terminal premises at the Bandaranaike International Airport (BIA).
-
-In the notice, AASL Chairman Eng. Athula Galketiya said the decision to prohibit vehicles without drivers from being parked in the arrivals terminal premises at BIA was made to alleviate traffic congestion and streamline vehicle movements. “Vehicles are required to reach at the arrivals terminal only at the designated times for pickups. No permission will be granted to park any vehicle in the arrivals terminal for over 30 minutes, even with the driver being present,” he added.
-
-Galketiya said vehicles parked for over 30 minutes at the arrivals terminal, causes’ traffic congestion and disregard the orders, will be charged an extra fee upon leaving the airport.
-
-...
-
-[Data](articles/0b826e11.json)
-
-[Extended Data](ext_articles/0b826e11.ext.json)
 
 ---

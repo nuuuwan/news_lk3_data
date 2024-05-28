@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-28 21:03:54**
+As of **2024-05-28 21:18:46**
 
 ## Newspaper Stats
 
-*Scraped **26,895** Articles*
+*Scraped **26,897** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,54 @@ adalk | 2,292
 adaderanalk | 3,073
 tamilmirrorlk | 3,151
 virakesarilk | 4,127
-dailymirrorlk | 4,240
-adaderanasinhalalk | 4,316
+dailymirrorlk | 4,241
+adaderanasinhalalk | 4,317
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,894 (100.0%) of 26,895 articles have been extended.
+26,895 (100.0%) of 26,897 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-28 (Tuesday)
+
+### වාහන ආනයනය ගැන මහ බැංකුවේ ස්ථාවරය
+
+*2024-05-28 21:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197131) · `si`
+
+වාහන ආනයන සීමා ක්‍රමානුකූලව ලිහිල් කිරීමට රජය තීරණය කරන්නේ නම් ඒ සඳහා විදෙස් සංචිත කළමනාකරණය කිරීමට මහ බැංකුවට හැකියාව ඇතැයි ශ්‍රී ලංකා මහ බැංකු අධිපති ආචාර්ය නන්දලාල් වීරසිංහ මහතා පවසයි.
+
+අද (28) පැවැති ප්‍රවෘත්ති සාකච්ඡාවකට එක්වෙමින් මහ බැංකු අධිපතිවරයා වැඩිදුරටත් ස﻿ඳහන් කළේ, මහ බැංකුව සිය ප්‍රතිපත්ති පොලී අනුපාතිකය තවදුරටත් නොවෙනස්ව පවත්වා ගැනීමට තීරණය කර ඇති බවය.
+
+"සමහර වාහනවලට දැනටමත් ඉඩදීලා තිබෙනවා. වාහන ආනයනය ක්‍රමානුකූලව ලිහිල් කරන එක වැදගත් තීරණයක්. විදේශ විනිමය කළමනාකරණය කරන්න පුළුවන් කියන විශ්වාසය අපිට තිබෙනවා."
+
+◼️
+
+[Data](articles/5ae5944c.json)
+
+---
+
+### 52% SLTB buses have expired life span: Bandula
+
+*2024-05-28 20:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/52-SLTB-buses-have-expired-life-span-Bandula/108-283541) · `en`
+
+Colombo, May 28 (Daily Mirror)- Transport Minister Bandula Gunawardane said today 52 percent of buses belonging to Sri Lanka Transport Board (SLTB) have expired their life span.
+
+He told the weekly briefing on Cabinet decisions that the government is short of funds to replace them at the moment.
+
+"At least 52 percent of buses have expired their life span. We have no funds to replace them. We are not in a position to obtain foreign loans currently until the debt restructuring process completes. We managed to procure 500 buses on the Indian credit line," he said.
+
+The Minister said the train service is also in critical condition and said even 50 to 60 years old train engines are being used.
+
+"Thanks to our engineers, we are using some 50 to 60 years old train engines," he said.
+
+...
+
+[Data](articles/e82a7716.json)
+
+---
 
 ### Pope Francis apologizes over use of gay slur
 
@@ -49,6 +85,8 @@ The Pope’s comments came to light on Monday when two Italian newspapers - the 
 ...
 
 [Data](articles/41bfd1a0.json)
+
+[Extended Data](ext_articles/41bfd1a0.ext.json)
 
 ---
 
@@ -2317,63 +2355,5 @@ Suddenly, the Testament to consult the Secretaries of four of the Ministry Secre
 [Data](articles/170a5835.json)
 
 [Extended Data](ext_articles/170a5835.ext.json)
-
----
-
-### The biggest sound offering that the king of the king was nearing recent history in recent history
-
-*2024-05-28 13:09:17* · [`adalk`](https://www.ada.lk/breaking_news/රජ-දවසින්-පසු-මෑත-ඉතිහාසය-තුල-රුවන්වැලිසෑය-අභියස-පැවැති-විශාලම-ශබ්ද-පූජාව/11-409868) · `si`
-
-The largest sound offering ceremony recently took place near Ruwanweli Stupa, featuring a conch, drum, cymbals, and a trumpet, lasting from 6:30 to 7:30 AM. It aimed to bring peace and prosperity to the nation, organized by Malwathu Vihara under the guidance of Gnanatilaka Nayaka Thera of Rajarata University.
-
-🟩
-
-The largest sound sacrifice was held in front of Ruwanweli Pinna in the recent history after the day.
-
-A Hawles of a Durupe, a Dhamma, Ruwanweli, Hakkali, and the trumpet is continuing to be around the Ruwanweli Parakara and the Buddha for an hour from 6.30 am to 7.30 amIt was done.
-
-"Wishing to the country is comforted by good and comforted," he held this sound offering.
-
-The Malwathu Vihara, the organizational and guide of Gnanati Parakara of the Rajanuweli Parakara of the Rajarata University of Ruwanweli Parakara is the organizations of the Gnanatilake Nuraki.
-
-◼️
-
-[Data](articles/e349ff2b.json)
-
-[Extended Data](ext_articles/e349ff2b.ext.json)
-
----
-
-### SLTB driver abducts the bus
-
-*2024-05-28 13:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197107) · `si`
-
-In a series of incidents, a SLTB bus driver and three passengers were abducted and assaulted by unidentified individuals. The driver, returning from Colombo to Dehiwala, encountered threats and physical attacks, including being forced off his vehicle at a remote location. The culprits, believed to be local thugs, were later apprehended by the Bandaragama Police, with one identified as a driver from the Colombo Transport Board. All suspects were remanded pending further investigation.
-
-🟩
-
-A cargo bus driver injected with three others have been abducted and assaulted by the bus.
-
-According to a complaint, the Bandaragama Police were arrested by the Bandaragama Police.
-
-A driver of a CTB bus at the destination is recently assaulted every day from Rigama to Dehiwala.
-
-While the driver was running the bus from the bus to Colombo, a man who had stayed in a bus stop had tried to stop the bus for a few days, but the driver had continued to run the bus.
-
-That was due to the introduction of the bus as a limited rest of the deposition.
-
-It is reported that the person who is a person who is a person who is analyzed in the area has threatened the driver's mobile phone.
-
-The man later went to the driver's house on the 25th of the night of three other people.
-
-The driver was taken out of the house and took to Kotelawala Uyanwatta Wewa Road to the Kotelawala Weynewatta Wewa Road and hit a sword.
-
-The driver had then abandoned and the suspects had fled the car.
-
-...
-
-[Data](articles/20ed5f6e.json)
-
-[Extended Data](ext_articles/20ed5f6e.ext.json)
 
 ---

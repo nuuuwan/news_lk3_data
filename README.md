@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-29 00:33:50**
+As of **2024-05-29 00:50:38**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,319
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,915 (100.0%) of 26,919 articles have been extended.
+26,919 (100.0%) of 26,919 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ India’s Adani group has proposed to invest about $ 740 million in the country 
 ...
 
 [Data](articles/d848b787.json)
+
+[Extended Data](ext_articles/d848b787.ext.json)
 
 ---
 
@@ -66,6 +68,8 @@ This is despite a drop in production in 2022 because of the industry being hit b
 
 [Data](articles/655e05f1.json)
 
+[Extended Data](ext_articles/655e05f1.ext.json)
+
 ---
 
 ### From three-wheeler drivers to beach boys: Sri Lanka’s workforce transformation
@@ -84,6 +88,8 @@ One might observe a few concerted areas where the bulk of jobs were made availab
 
 [Data](articles/51eb3ae2.json)
 
+[Extended Data](ext_articles/51eb3ae2.ext.json)
+
 ---
 
 ### Corporate head office – creator or destroyer of value in a conglomerate
@@ -97,6 +103,8 @@ The best parent companies are those which create more value than any other rival
 ...
 
 [Data](articles/3f3a912f.json)
+
+[Extended Data](ext_articles/3f3a912f.ext.json)
 
 ---
 

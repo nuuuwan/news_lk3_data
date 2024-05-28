@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-28 14:18:47**
+As of **2024-05-28 14:34:00**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,296
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,786 (100.0%) of 26,788 articles have been extended.
+26,788 (100.0%) of 26,788 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -53,6 +53,8 @@ The government has granted Rs. 320 million to the Agrarian Development Departmen
 ◼️
 
 [Data](articles/12fe042c.json)
+
+[Extended Data](ext_articles/12fe042c.ext.json)
 
 ---
 
@@ -126,19 +128,29 @@ The Minister further stated that a special program has been conducted with the C
 
 ---
 
-### උතුරු මැද ප‍ළාත් ස‍‍‍බාවේලොකු පුටු හතරක වෙනසක්
+### Similarly, four North Central Provincial Sabhalaku chairs
 
 *2024-05-28 13:15:28* · [`adalk`](https://www.ada.lk/breaking_news/උතුරු-මැද-ප‍ළාත්-ස‍‍‍බාවේලොකු-පුටු-හතරක-වෙනසක්/11-409869) · `si`
 
-උතුරු මැද පළාත් සභාවේ අමාත්‍යාංශ පහෙන් හතරක ලේකම්වරුන්ගේ සංශෝධනයක් කිරීමට උතුරු මැද පලාත් ආණ්ඩුකාර මහීපාල හේරත් මහතා කටයුතු කර ඇත.
+North Central Provincial Governor Herath has reorganized the secretaries of four Ministries within the North Central Provincial Council. Key appointments include Wijaya Wildlman moving from Fisheries and Lands to Food and Co-operatives. These changes took effect last Thursday, leaving the Ministry of Health unaffected. The move also involves consulting two officers promoted to special grades based on their performance, not their previous roles.
 
-ඒ අනුව උතුරු මැද පළාත් සභාවේ ප්‍රධාන අමාත්‍යාංශ ලේකම්වරිය ලෙස කටයුතු කළ අභය ලක්ෂ්මි හේවාපතිරණ මහත්මිය ඉන් ඉවත්කර වාරිමාර්ග හා ඉඩම් අමාත්‍යාංශ ලේකම්වරිය ලෙස පත් කර තිබේ.ඉන් පුරප්පාඩු වූ ප්‍රධාන අමාත්‍යංශ ලේකම් තනතුරට ආහාර හා සමූපකාර අමාත්‍යාංශ ලේකම්වරයා ලෙස කටයුතු කළ සිරිමෙවන් ධර්මසේන මහතා පත්කර තිබේ.කෘෂිකර්ම,ධීවර කටයුතු හා ඉඩම් අමාත්‍යාංශයේ ලේකම් ලෙස කටයුතු කළ විජය වනසිංහ මහතා ආණ්ඩුකාර ලේකම්වරය ලෙස පත්කර ඇත.කෘෂිකර්ම අමාත්‍යාංශයේ ලේකම් වශයෙන් කේ.එම්.එච්.සමන්ත කුමාර ජයලත් මහතා පත්කර ඇති අතර වාරිමාර්ග හා ඉඩම් අමාත්‍යාංශයේ හිටපු ලේකම් චින්තක රණසිංහ මහතා ආහාර හා සමුපකාර අමාත්‍යාංශ ලේකම්වරයා වශයෙන් පත් කර තිබේ.
+🟩
 
-මෙසේ පළාත් සභාවේ අමාත්‍යාංශ ලේකම්වරුන්ගේ සංශෝධන වීමත්  සමඟ අලුතෙන් පත් වූ ලේකම්වරුන් පසුගිය 27 දා තම තනතුරුවල වැඩ භාර ගැනීම සිදුවිය.
+North Central Provincial Governor Herath has taken steps to amend the secretaries of four of the Ministries of the North Central Provincial Council.
+
+Accordingly, the secretary secretariat was the Secretary to the Chief Secretary of the North Central Provincial Council.Wijaya Wildlman, the Secretary to the Ministry of Fisheries and the Ministry of Fisheries and the Ministry of Lands has been appointed as the Secretary to the Secretary to the Ministry of Food and Co-operatives.Been appointed as.
+
+With the amendments of the Secretary of the Provincial Council, the newly appointed secretaries took the work of their positions on Thursday.
+
+The Ministry of Health is the only ministries that have not been amended this year and is still the Secretary to the Ministry.
+
+Suddenly, the Testament to consult the Secretaries of four of the Ministry Secretaries of the North Central Provincial Council regarding the amendment of the Ministry Secretaries.
 
 ...
 
 [Data](articles/170a5835.json)
+
+[Extended Data](ext_articles/170a5835.ext.json)
 
 ---
 

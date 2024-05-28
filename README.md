@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-28 11:03:32**
+As of **2024-05-28 11:18:55**
 
 ## Newspaper Stats
 
-*Scraped **26,734** Articles*
+*Scraped **26,739** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,40 +17,108 @@ economynextcom | 1,525
 dailyftlk | 1,567
 adalk | 2,273
 adaderanalk | 3,058
-tamilmirrorlk | 3,130
-virakesarilk | 4,093
-dailymirrorlk | 4,215
+tamilmirrorlk | 3,132
+virakesarilk | 4,094
+dailymirrorlk | 4,217
 adaderanasinhalalk | 4,289
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,732 (100.0%) of 26,734 articles have been extended.
+26,734 (100.0%) of 26,739 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-28 (Tuesday)
 
-### දිවයින වටා වන මුහුදු ප්‍රදේශ සඳහා රතු නිවේදනයක්
+### Rain may be limited to North-Western Province by end of this month, but will continue
+
+*2024-05-28 11:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Rain-may-be-limited-to-North-Western-Province-by-end-of-this-month-but-will-continue/108-283504) · `en`
+
+Colombo, May 28 (Daily Mirror) - Due to the active south-west monsoonal condition, the Meteorological Department predicted that the rainfall will be limited to the southwestern areas of the country, but will continue.
+
+The Forecasting Division of the National Meteorological Centre said the rain will be limited to the North-Western, Western, Sabaragamuwa and Southern Provinces while the frequency of heavy showers will decrease.
+
+In the next few days, the Department hopes that the rains will reduce considerably and be limited to the North-Western areas of the country, but will continue further.
+
+Meanwhile, the prevailing showery and windy weather conditions are expected to continue further today and heavy showers over 100 mm are likely in the Western and Sabaragamuwa Provinces and in the Nuwara-Eliya district.
+
+They said showers will occur in the Western, Sabaragamuwa, Central, North-Western and Southern Provinces, as well as in the Uva Province, Ampara and Batticaloa districts.
+
+...
+
+[Data](articles/9e87ccde.json)
+
+---
+
+### ஜனாதிபதியின் வீட்டுக்குத் தீ வைத்த ஆசிரியர் கைது
+
+*2024-05-28 10:51:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியின்-வீட்டுக்குத்-தீ-வைத்த-ஆசிரியர்-கைது/175-338007) · `ta`
+
+ஜனாதிபதி ரணில் விக்கிரமசிங்க பிரதமராக இருந்த போது கொள்ளுப்பிட்டியில் அத்துமீறி நுழைந்து அவரது வீட்டில் இருந்த சொத்துக்களை சேதப்படுத்தி வீட்டுக்குத் தீ வைத்த சம்பவத்துடன் தொடர்புடைய சந்தேகநபர் நவுட்டுடுவ கிரந்திடிய பிரதேசத்தில் குற்றப்புலனாய்வு பிரிவினரால் கைது செய்யப்பட்டுள்ளார்.
+
+கைது செய்யப்பட்ட சந்தேகநபர் (36) ஆசிரியர் என குற்றப் புலனாய்வுப் பிரிவினர் தெரிவிக்கின்றனர்.
+
+இப்போராட்டத்தின் போது, ​​கடந்த மே மாதம் 9 ஆம் திகதி இரவு, கொள்ளுப்பிட்டியில் உள்ள  ரணில் விக்கிரமசிங்கவின் வீட்டிற்குள் பலவந்தமாக நுழைந்த போராட்டக்குழுவினர் அவரது சொத்துக்களைத் தாக்கி தீயிட்டு சேதப்படுத்தியுள்ளனர்.
+
+இச்சம்பவம் தொடர்பாக 25க்கும் மேற்பட்ட சந்தேக நபர்கள் அவ்வப்போது கைது செய்யப்பட்டு வருகின்றனர். நீதிமன்றத்திலும் ஆஜர்படுத்தப்பட்டுள்ளனர். தற்போது கைது செய்யப்பட்ட சந்தேகநபரையும் நீதிமன்றில் முன்னிலைப்படுத்த நடவடிக்கை எடுக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/dd775c98.json)
+
+---
+
+### "ஒபறேசன் சஜப " ; பச்சைக்கட்சியை மீண்டும் ஐக்கியப்படுத்துவதற்கான திட்டம்
+
+*2024-05-28 10:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/184668) · `ta`
+
+ஐக்கிய தேசிய கட்சி 2020 தேர்தலில் அவமானத்துக்குரிய தோல்வியைச் சந்தித்தது. பழமைவாய்ந்த பெரிய கட்சி என்று சிலரால்  வர்ணிக்கப்படுகின்ற  ஐ.தே.க.வுக்கு தேர்தல் தோல்விகள் ஒன்றும் புதியவை அல்ல. 1956 ஆண்டில் 101 ஆசனங்களைக் கொண்ட பாராளுமன்றத்தில் அந்த கட்சிக்கு 8 ஆசனங்களே கிடைத்தன. 1970 ஆம் ஆண்டால் 157 ஆசனங்களைக் கொண்ட பாராளுமன்றத்தில் அதற்கு 17 ஆசனங்கள் கிடைத்தன. 2020 ஆம் ஆண்டு பிரத்தியேகமான  முறையில் வேறுபட்டதாக இருந்தது.ஐ.தே.க. அதன் வரலாற்றில் முதற்தடவையாக ஒரு உறுப்பினர் கூட பாராளுமன்றத்துக்கு தெரிவாகவில்லை. 249, 435 (2.15 % ) வாக்குகளைப் பெற்ற ஐ.தே.க.வுக்கு ஏதோ கருணையில் ஒரு தேசியப்பட்டியல் ஆசனம் கிடைத்தது. 225 உறுப்பினர்களைக் கொண்ட பாராளுமன்றத்தில் அந்த கட்சி ஒரேயொரு உறுப்பினரைக் கொண்டிருந்தது.
+
+...
+
+[Data](articles/29ca0fdd.json)
+
+---
+
+### Red notice for sea areas around the island
 
 *2024-05-28 10:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197102) · `si`
 
-තද සුළං සහ රළු මුහුද පිළිබඳ රතු නිවේදනයක් කාලගුණවිද්‍යා දෙපාර්තමේන්තුව විසින් නිකුත් කර තිබේ.
+A red notice warns of strong winds and rough seas around the island, effective for 24 hours starting 10:30 am today. Sea levels have risen, especially from Kalpitiya to Pottuvil, with potential waves reaching 2.5m. Maritime and fishing communities are advised to stay inland due to safety concerns.
 
-අද (28) උදෑසන 10.30ට නිකුත් කර ඇති එම නිවේදනය ඉදිරි පැය 24 දක්වා බලපැවැත්වේ.
+🟩
 
-ඒ අනුව දිවයින වටා මුහුදු ප්‍රදේශවල සුළඟේ වේගය විටින් විට පැ.කි.මී 60 - 70ත් දක්වා වැඩි වන අතර එම ප්‍රදේශයේ මුහුද ඉතා රළු වන බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+The Department of Meteorology has issued a red notice of strong winds and rough sea.
 
-මෙම මුහුදු ප්‍රදේශයට නැවත දැනුම්දෙන තුරු යාත්‍රා නොකරන ලෙසත් නාවික හා ධීවර ප්‍රජාවන්ට දැනුම්දී ඇත.
+The announcement issued at 10.30 am today (28) is effective for the next 24 hours.
 
-කල්පිටිය සිට කොළඹ, ගාල්ල සහ හම්බන්තොට හරහා පොතුවිල් දක්වා වන වෙරළට ඔබ්බෙන් වෙන මුහුදු ප්‍රදේශවල මුහුදු රළ උස මීටර් 2.5 - 3 දක්වා ඉහළ යා හැකිය.
+Accordingly, the wide of the sea areas around the island has increased from time to time at times. The sea is rough at the area.
 
-මේ හේතුවෙන් කල්පිටිය සිට කොළඹ, ගාල්ල හරහා මාතර දක්වා ප්‍රදේශවල මුහුදු රළ ගොඩබිමට පැමිණීමේ හැකියාව පවතී.
+Marine and fishing communities have informed the maritime and fishing communities not to be re-informed to the sea.
+
+From Kalpitiya to Pottuvil from Kalpitiya to Pottuvil via Pottuvil via Pottuvil via Pottuvil via Pottuvil can be increased to 2.5m.
+
+As a result, the waves of sea to Matara through Kalpitiya has been able to land from Kalpitiya to Matara.
 
 ◼️
 
 [Data](articles/b555776e.json)
+
+[Extended Data](ext_articles/b555776e.ext.json)
+
+---
+
+### இலங்கையில் முற்பதிவை ஆரம்பித்த ஸ்டார்லிங்க்
+
+*2024-05-28 10:37:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையில்-முற்பதிவை-ஆரம்பித்த-ஸ்டார்லிங்க்/175-338006) · `ta`
+
+இலங்கையில் எலொன் மஸ்க்கின் ஸ்டார்லிங்க் இணையச் சேவையானது இலங்கையில் முற்பதிவுகளை ஆரம்பித்துள்ள நிலையில், முழுமையாக மீளப் பெறக்கூடிய ஒன்பது ஐக்கிய அமெரிக்க டொலர்களைச் செலுத்தி முற்பதிவுகளை மேற்கொள்ள முடியும்.
+
+◼️
+
+[Data](articles/b92d9d1d.json)
 
 ---
 
@@ -121,6 +189,24 @@ The petition has been presented by the Fr. including Jude Rohan Silva, Director 
 [Data](articles/36ee0c5e.json)
 
 [Extended Data](ext_articles/36ee0c5e.ext.json)
+
+---
+
+### A/L 2023 results likely to be release by this week
+
+*2024-05-28 10:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/AL-2023-results-likely-to-be-release-by-this-week/108-283502) · `en`
+
+Colombo, May 28 (Daily Mirror) - The Examinations Department said today that all arrangements are being made to release the results of the 2023 GCE Advanced Level (A/L) examinations by this week.
+
+Accordingly, a total of 346,976 candidates sat for this examination held in January this year.
+
+The remaining 65,531 are private applicants, the Examinations Department said.
+
+The relevant results can be checked on the official website of the Examinations Department.
+
+◼️
+
+[Data](articles/2bb40fc9.json)
 
 ---
 
@@ -233,6 +319,8 @@ Further reduction in market lending interest rates is imperative for the easing 
 ...
 
 [Data](articles/f72947e3.json)
+
+[Extended Data](ext_articles/f72947e3.ext.json)
 
 ---
 
@@ -2133,127 +2221,5 @@ He said that the future politics should be carried out quickly.
 [Data](articles/58f3e41f.json)
 
 [Extended Data](ext_articles/58f3e41f.ext.json)
-
----
-
-### Youth killed in motorcycle accident
-
-*2024-05-27 18:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/184644) · `ta`
-
-Panujan, a 22-year-old from Chavakachcheri, died in a motorcycle crash near Budhur on Sunday evening. He was en route to Canada when the accident occurred. His body remains at Chavakachcheri Hospital.
-
-🟩
-
-A young man who was driving a motorcycle was killed in a collision with a motorcycle.
-
-The incident took place on Sunday 26th at 8:00 pm in Chavakachcheri and Budhur.
-
-The deceased was the young man, Panujan (22 years old), from Chavakachcheri, Mattuvil area.
-
-The tragedy took place as the youth was on his way to Canada on Tuesday 28th.
-
-The body is being kept at the Chavakachcheri Hospital.
-
-◼️
-
-[Data](articles/35b85bee.json)
-
-[Extended Data](ext_articles/35b85bee.ext.json)
-
----
-
-### Sri Lanka hopes for closer partnership in Saudi Vision 2030
-
-*2024-05-27 18:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/99475/sri-lanka-hopes-for-closer-partnership-in-saudi-vision-2030) · `en`
-
-Sri Lanka hopes to work closer with Saudi Arabia in tourism, labor and renewable energy sectors to support the Kingdom’s Vision 2030, the island nation’s new ambassador told Arab News as he assumed his post in Riyadh on Monday.
-
-A career diplomat, Omar Lebbe Ameer Ajwad concurrently served as ambassador in Oman and Yemen from 2019 to 2022. He had previously served as Sri Lanka’s acting high commissioner in Singapore and deputy high commissioner in Chennai, India.
-
-With around 26 years of experience, one of his earliest postings was as the deputy chief of mission at the Sri Lankan Embassy in Riyadh.
-
-As he lauded Saudi Arabia’s Vision 2030, Ajwad said that Sri Lanka can contribute to the transformation and diversification project.
-
-“Sri Lanka wishes to partner with Saudi Arabia in this transformative journey. Therefore, my primary focus would be on promoting economic diplomacy,” he told Arab News over the weekend.
-
-...
-
-[Data](articles/4c8e2a64.json)
-
-[Extended Data](ext_articles/4c8e2a64.ext.json)
-
----
-
-### Turkey is a terrible danger
-
-*2024-05-27 18:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197080) · `si`
-
-In Turkey, a horrific accident on a highway near Merverst resulted in the deaths of almost 10 individuals. A bus skidded off the road and crashed into two cars, involving three vehicles in total.
-
-🟩
-
-Foreign media reports that nearly 10 people were killed in a terrifying accident on a highway of the Turkey.
-
-The accident had occurred on a highway in the Merverst area of the right Turkey.
-
-A bus slipped into the opposing lake and collided with two car accidents along the opposing lake.
-
-The accident had occurred on the three vehicles leaving a lorry.
-
-◼️
-
-[Data](articles/5bbf78f4.json)
-
-[Extended Data](ext_articles/5bbf78f4.ext.json)
-
----
-
-### The 7th Conference of Digital China is successfully completed
-
-*2024-05-27 18:50:19* · [`adalk`](https://www.ada.lk/breaking_news/ඩිජිටල්-චීනය-ගොඩනැගීම-පිළිබඳ-7-වැනි-සමුළුව-සාර්ථකව-අවසන්/11-409856) · `si`
-
-The 7th Digital China Conference concluded in Fuzhou, signing 421 digital economic projects and highlighting the importance of developing a high-level digital economy sector. This event marks significant progress in China's digital economy, contributing 10% to its GDP and bolstering major digital industries in 2023.
-
-🟩
-
-The 7th convention of Digital China's building has many consequences.
-
-The convention in Folxhov, China, ended on the 25th. 421 digital economic projects have been signed at Rs.. It was also emphasized that it will be favorable to create a high level digital economic industrial industry.
-
-The digital economy of China has achieved a steady growth in the year 2023, "digital China Development Report" (2023). The value of the digital economy is 10% of GDP, which is added to the major industries of the digital economy.
-
-◼️
-
-[Data](articles/0eaf9c61.json)
-
-[Extended Data](ext_articles/0eaf9c61.ext.json)
-
----
-
-### The reason for the death of seven elephants in the Handapanila Willa
-
-*2024-05-27 18:43:54* · [`adalk`](https://www.ada.lk/picture_story/හඳපාන්විල-විල්ලුවේ-අලි-හත්දෙනා-මිය-යාමට-හේතුව-එළියට/10-409855) · `si`
-
-Seven elephants died in the Handapanila Willa area due to reasons identified during post-mortem examinations conducted by wildlife veterinarians from the Wildlife Department of Wildlife Giritale. The elephants ranged in age from 8 to 25 years. The cause of death could be related to the flooding of the Handapingwila Wadu, which affected the water flow to the Mahaweli River, impacting the ecosystem of the nearby Flood Valley National Park.
-
-🟩
-
-The post mortem were established on the 27th evening that the seven elephants in the Handapanguwe Nayaka Namayan National Park, the Handapanwila Willa in the Navam Navana National Park, the wildlife veterinarians said.
-
-Wildlife Department of Wildlife Giritale was the post-mortem examination of the elephant deceased including a group of veterinarians including Mr. Wildlife Department of Wildlife.
-
-The deceased's bodies were found at Ahipanwila Will, Ode Canal, Ody Canal.
-
-The post mortem examinations carried out in the dead elephant said.
-
-The post-motorismadios conducted that the post mortem examinations made all eight years of age and 15 to 25 years and 15 to 25 years and 15 to 25 years.
-
-Handapingwila Wadu filled over the past few days, the water flows to the Mahaweli River across the Navigation of the Flood Valley National Park.
-
-...
-
-[Data](articles/e768b88e.json)
-
-[Extended Data](ext_articles/e768b88e.ext.json)
 
 ---

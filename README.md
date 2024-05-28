@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-29 03:34:11**
+As of **2024-05-29 03:52:08**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,319
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,952 (100.0%) of 26,953 articles have been extended.
+26,953 (100.0%) of 26,953 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -550,21 +550,29 @@ Extending the tenure of the president and the parliament without holding electio
 
 ---
 
-### ’ஆர்ப்பாட்டம் செய்வோர் அழிக்க முயற்சிக்கும் குழு’
+### The group is trying to destroy the protesters
 
 *2024-05-29 01:10:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆர்ப்பாட்டம்-செய்வோர்-அழிக்க-முயற்சிக்கும்-குழு/175-338058) · `ta`
 
-ஆர்ப்பாட்டத்தில் ஈடுபட்டுள்ள சிவில் அமைப்புக்களின் செயற்பாட்டாளர்கள் சிலர் நாட்டில் அராஜகத்தை ஏற்படுத்த விரும்புவதாக நகர அபிவிருத்தி மற்றும் வீடமைப்பு அமைச்சர்  பிரசன்ன ரணதுங்க வலியுறுத்தினார்.
+Protesters, led by civil organizations, demonstrate against the country's degradation bill outside the Mottu Party office. Minister Prasanna Ranatunga, despite a police warning due to the demonstration, insists the protesters aim to establish anarchy and misuse democracy for personal gain. He emphasizes the government's stance supports the majority's views, contrasting experienced politicians with those without political background.
 
-'நாட்டை சீரழிக்கும் சட்டங்களை தோற்கடிப்போம்' என்ற தொனிப்பொருளில்  மொட்டுக் கட்சி அலுவலகத்திற்கு முன்பாக சிவில் அமைப்புக்களின் பிரதிநிதிகள் சிலர் ஏற்பாடு செய்திருந்த ஆர்ப்பாட்டத்தில் செய்தி சேகரித்த  ஊடகவியலாளர்கள் எழுப்பிய கேள்விகளுக்கு பதிலளிக்கும் போதே அமைச்சர் மேற்கண்டவாறு தெரிவித்தார்.
+🟩
 
-நாட்டை சீரழிக்கும் சட்டமூலத்திற்கு ஸ்ரீலங்கா பொதுஜன பெரமுனவின் பாராளுமன்ற உறுப்பினர்கள் எதிர்ப்பு தெரிவிக்க வேண்டும் என தெரிவித்து ஆர்ப்பாட்டம் ஏற்பாடு செய்யப்பட்டிருந்தது.
+Minister of Urban Development and Housing Prasanna Ranatunga stressed that some of the activists of the civil organizations involved in the demonstration wanted to establish anarchy in the country.
 
-'மகின் ரடட'  எனும் அமைப்பின் உறுப்பினர்களான சஞ்சய் மஹவத்த, காமந்த துஷார, அஜந்தா பெரேரா உள்ளிட்ட சிவில் அமைப்புக்கள் சிலவற்றின் உறுப்பினர்களே 'நாட்டை சீரழிக்கும் சட்டங்களை தோற்கடிப்போம்' எனும் எதிர்ப்பு பதாகைகளை ஏந்தி ஆர்ப்பாட்டம் செய்தவர்களாவர்.
+Responding to questions raised by journalists raised by journalists in the demonstration organized by some of the representatives of the civil organizations in front of the Mottu Party office on the theme of 'Defeating the Laws of the country'.
+
+The demonstration was organized by the Sri Lanka PA's MPs to protest the country's degradation Bill.
+
+Members of the 'Makin Radada' organization, including Sanjay Mahawatta, Kamantha Dushara and Ajanta Perera, are the members of the civil organizations, carrying out the protest banners that 'defeat the laws of the country'.
+
+Prasanna Ranatunga, the chief organizer of the ruling party and the Minister of Urban Development and Housing, was in office.. When the minister enters the party office, there is no struggle in the area.
 
 ...
 
 [Data](articles/7aa3ef2b.json)
+
+[Extended Data](ext_articles/7aa3ef2b.ext.json)
 
 ---
 

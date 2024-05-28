@@ -1,70 +1,100 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-28 14:52:35**
+As of **2024-05-28 15:03:49**
 
 ## Newspaper Stats
 
-*Scraped **26,792** Articles*
+*Scraped **26,796** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 237
 dbsjeyarajcom | 265
-bbccomsinhala | 266
+bbccomsinhala | 267
 newsfirstlk | 363
 islandlk | 1,454
 economynextcom | 1,532
 dailyftlk | 1,568
 adalk | 2,280
 adaderanalk | 3,063
-tamilmirrorlk | 3,141
+tamilmirrorlk | 3,143
 virakesarilk | 4,104
 dailymirrorlk | 4,223
-adaderanasinhalalk | 4,296
+adaderanasinhalalk | 4,297
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,788 (100.0%) of 26,792 articles have been extended.
+26,792 (100.0%) of 26,796 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-28 (Tuesday)
 
-### யாழில் வைத்தியசாலைக்குள் நுழைந்த மோட்டார் சைக்கிள் : கடமையிலிருந்த உத்தியோகத்தர் மீது தாக்குதல்
+### අනිවාර්ය විශ්‍රාම ගැන්වීමේ යෝජනා ක්‍රමයක් ගැන රජය තීරණයක් ගනී
+
+*2024-05-28 14:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197111) · `si`
+
+සීමාසහිත ලංකා පොහොර සමාගම හා සීමාසහිත කොළඹ කොමර්ෂල් පොහොර සමාගම ඒකාබද්ධ කිරීමට අදාළව යෝජිත අනිවාර්ය විශ්‍රාම ගැන්වීමේ යෝජනා ක්‍රමය ක්‍රියාත්මක කිරීම සඳහා පොහොර සමාගම් දෙකෙහි අරමුදල්වලින් රුපියල් මිලියන 844ක් වැය කිරීමට කැබිනට් අනුමැතිය හිමිව තිබේ.
+
+කෘෂිකර්ම සහ වැවිලි කර්මාන්ත අමාත්‍යවරයා විසින් අදාළ යෝජනාව කැබිනට් මණ්ඩලය වෙත ඉදිරිපත් කර තිබුණි.
+
+එහි වැඩිදුරටත් සඳහන් වන්නේ මේ වනවිට අනිවාර්ය විශ්‍රාම වන්දි ක්‍රමය යටතේ විශ්‍රාම ලැබීමට සේවකයින් 267 දෙනෙකු මනාපය පළ කර ඇති බවය.
+
+ඒ අනුව, රාජ්‍ය ව්‍යවසායයන්හි අතිරික්ත සේවකයින් ස්වේච්ඡා විශ්‍රාම ගැන්වීමේ යෝජනා ක්‍රමය යටතේ විශ්‍රාම ගැන්වීම සම්බන්ධයෙන් අග්‍රාමාත්‍ය ලේකම්ගේ ප්‍රධානත්වයෙන් පත් කරන ලද නිලධාරි කමිටුවේ නිර්දේශයන්ට යටත්ව, සීමාසහිත ලංකා පොහොර සමාගම හා සීමාසහිත කොළඹ කොමර්ෂල් පොහොර සමාගම ඒකාබද්ධ කිරීමට අදාළව සේවකයින් සඳහා ක්‍රියාත්මක කළ යුතු අනිවාර්ය විශ්‍රාම වන්දි ක්‍රමය ක්‍රියාත්මක කිරීමට මෙලෙස කැබිනට් අනුමැතිය හිමිව තිබේ.
+
+◼️
+
+[Data](articles/ff090559.json)
+
+---
+
+### Motorcycle entered into a hospital in Jaffna: Attack on duty officer
 
 *2024-05-28 14:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/184687) · `ta`
 
-யாழ். போதனா வைத்தியசாலை உத்தியோகஸ்தர் மீது தாக்குதல் மேற்கொண்டவர் பொலிஸாரினால் கைது செய்யப்பட்டுள்ளார்.
+A man injured in a sword attack took a motorcycle into a hospital in Jaffna, colliding with an officer. The officer was assaulted during questioning about the intrusion. The attacker was apprehended by police after being subdued by other officials.
 
-வாள்வெட்டு சம்பவத்தில் காயமடைந்த நபரை தனது மோட்டார் சைக்கிளில் ஏற்றி வந்தவர், வைத்தியசாலை வளாகத்தினுள் அத்துமீறி மோட்டார் சைக்கிளை செலுத்திச் சென்று, தான் ஏற்றி வந்த நபரை சிகிச்சைக்காக அனுமதித்துள்ளார்.
+🟩
 
-அதன்போது, உத்தியோகஸ்தர் ஒருவர், மோட்டார் சைக்கிளை ஓட்டி வந்தவரை, வைத்தியசாலை வளாகத்தினுள் ஏன் அத்துமீறி நுழைந்தீர்கள் என கேள்வி எழுப்பியுள்ளார்.
+Yall. The attacker of the teaching hospital officer has been arrested by the police.
 
-அதன்போது, இருவருக்கும் இடையில் தர்க்கம் ஏற்பட்ட போது, உத்தியோகஸ்தர் மீது வைத்தியசாலைக்குள் இருந்த அச்சியந்திரத்தால் ( printer) தாக்குதல் மேற்கொண்டுள்ளார்.
+The man who was injured in the sword -wielding incident has taken a motorcycle on his motorcycle, drove the motorcycle into the hospital complex and allowed the man he was carrying.
 
-அதனையடுத்து, அவ்விடத்தில் ஒன்று கூடிய சக உத்தியோகஸ்தர்கள் ஒன்று கூடி தாக்குதல் மேற்கொண்டவரை மடக்கி பிடித்து, யாழ்ப்பாண பொலிஸாரிடம் ஒப்படைத்துள்ளனர்.
+At the same time, an officer questioned why he had broken into the hospital premises until he was driving a motorcycle.
+
+During the logic between the two, the officer was attacked by the printer in the hospital.
+
+Subsequently, a fellow officials gathered in the area and folded the attacker and handed over to the Jaffna police.
 
 ◼️
 
 [Data](articles/2b07f643.json)
 
+[Extended Data](ext_articles/2b07f643.ext.json)
+
 ---
 
-### காசா சிறுவர் நிதியத்திற்கு இதுவரை 127 மில்லியன் ரூபாவை நன்கொடை : காலம் நீடிப்பு!
+### Gaza Children's Fund Donation of 127 million rupees so far
 
 *2024-05-28 14:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/184688) · `ta`
 
-ஜனாதிபதி ரணில் விக்ரமசிங்கவின் எண்ணக்கருவின்படி 2024 ஆம் ஆண்டு மார்ச் மாதம் 04 ஆம் திகதி ஆரம்பிக்கப்பட்ட காஸா சிறுவர் நிதியத்திற்கு இலங்கை நன்கொடையாளர்கள் மற்றும் பல்வேறு அமைப்புக்களினால் இன்றுவரை 127 மில்லியன் ரூபாவை நன்கொடையாக வழங்கப்பட்டுள்ளது.
+Sri Lanka's Gaza Children's Fund, initiated by President Ranil Wickremesinghe on March 04, 2024, has raised 127 million rupees. Aimed at addressing the critical needs of children in Gaza amid war conditions, including water, food, and medical care shortages, the fund was officially handed over to the Palestinian Government through UNRWA on April 1, 2024. The initiative involves contributions from the Sri Lankan government, donors, and companies, with ongoing public and organizational support until May 31, 2024.
 
-காஸாவில் காணப்படும் யுத்த சூழ்நிலை காரணமாக அப்பகுதியில் சிக்கியுள்ள சுமார் ஒரு மில்லியன் சிறுவர்களின் அவலநிலை, குறிப்பாக தண்ணீர், உணவு மற்றும் மருத்துவ வசதிகள் இன்மை காரணமாக அவர்கள் எதிர்கொள்ளும்  பல்வேறு  சிரமங்களைக் கருத்தில் கொண்டு, அவர்களின் அத்தியாவசிய செலவுகளை ஈடுகட்ட மனிதாபிமான உதவி வழங்குவதற்காக நிதியமொன்றை ஆரம்பிக்க அமைச்சரவை தீர்மானித்துள்ளது.
+🟩
 
-அதற்கமைய காஸாவிலுள்ள சிறுவர்களுக்கு நிவாரணம் வழங்குவதற்காக நிதியமொன்றை ஆரம்பிப்பதற்காக ,கடந்த இப்தார் கொண்டாட்டத்திற்காக ஜனாதிபதி அலுவலகம், பிரதமர் அலுவலகம் மற்றும் அரச நிறுவனங்கள் என்பவற்றினால் ஒதுக்கப்பட்ட ஒரு மில்லியன் ரூபா நிதி முதற்கட்டமாக   ஐக்கிய நாடுகள் சபையின் நிவாரண மற்றும் பணி முகவர் நிறுவனத்தின் (UNRWA)ஊடாக 04-01-2024  ஆம் திகதி பாலஸ்தீன அரசாங்கத்திடம் ஒப்படைக்கப்பட்டது.
+According to President Ranil Wickremesinghe's concept, the Gaza Children's Fund, which was started on March 04, 2024, has been donated by Sri Lankan donors and various organizations to date.
+
+Considering the various difficulties they face due to the lack of water, food and medical facilities, especially the lack of water, food and medical facilities, the Cabinet has decided to launch a fund to provide humanitarian assistance to compensate for their essential expenses due to the war situation in Gaza.
+
+Accordingly, for the launch of a funding for children in Gaza, the President's Office, the Prime Minister's Office and the State Institutes were handed over to the Palestinian Government on 04-01-2024 through the United Nations Relief and Work Agency (UNRWA) for the first time.
 
 ...
 
 [Data](articles/52a78184.json)
+
+[Extended Data](ext_articles/52a78184.ext.json)
 
 ---
 
@@ -164,19 +194,29 @@ The Minister further stated that a special program has been conducted with the C
 
 ---
 
-### උතුරු මැද ප‍ළාත් ස‍‍‍භාවේ ලොකු පුටු හතරක වෙනසක්
+### Northern Provincial Council Chair
 
 *2024-05-28 13:15:28* · [`adalk`](https://www.ada.lk/breaking_news/උතුරු-මැද-ප‍ළාත්-ස‍‍‍භාවේ-ලොකු-පුටු-හතරක-වෙනසක්/11-409869) · `si`
 
-උතුරු මැද පළාත් සභාවේ අමාත්‍යාංශ පහෙන් හතරක ලේකම්වරුන්ගේ සංශෝධනයක් කිරීමට උතුරු මැද පලාත් ආණ්ඩුකාර මහීපාල හේරත් මහතා කටයුතු කර ඇත.
+Herath, the North Central Provincial Governor, has reorganized the secretaries of four Ministries within the council. Key appointments include Wijaya Wildlman moving from Fisheries and Lands to Food and Co-operatives. These changes took effect last Thursday, leaving the Ministry of Health unaffected. The move follows consultations about amending ministry secretaries, including considerations for two officers promoted to special grades based on their performance.
 
-ඒ අනුව උතුරු මැද පළාත් සභාවේ ප්‍රධාන අමාත්‍යාංශ ලේකම්වරිය ලෙස කටයුතු කළ අභය ලක්ෂ්මි හේවාපතිරණ මහත්මිය ඉන් ඉවත්කර වාරිමාර්ග හා ඉඩම් අමාත්‍යාංශ ලේකම්වරිය ලෙස පත් කර තිබේ.ඉන් පුරප්පාඩු වූ ප්‍රධාන අමාත්‍යංශ ලේකම් තනතුරට ආහාර හා සමූපකාර අමාත්‍යාංශ ලේකම්වරයා ලෙස කටයුතු කළ සිරිමෙවන් ධර්මසේන මහතා පත්කර තිබේ.කෘෂිකර්ම,ධීවර කටයුතු හා ඉඩම් අමාත්‍යාංශයේ ලේකම් ලෙස කටයුතු කළ විජය වනසිංහ මහතා ආණ්ඩුකාර ලේකම්වරය ලෙස පත්කර ඇත.කෘෂිකර්ම අමාත්‍යාංශයේ ලේකම් වශයෙන් කේ.එම්.එච්.සමන්ත කුමාර ජයලත් මහතා පත්කර ඇති අතර වාරිමාර්ග හා ඉඩම් අමාත්‍යාංශයේ හිටපු ලේකම් චින්තක රණසිංහ මහතා ආහාර හා සමුපකාර අමාත්‍යාංශ ලේකම්වරයා වශයෙන් පත් කර තිබේ.
+🟩
 
-මෙසේ පළාත් සභාවේ අමාත්‍යාංශ ලේකම්වරුන්ගේ සංශෝධන වීමත්  සමඟ අලුතෙන් පත් වූ ලේකම්වරුන් පසුගිය 27 දා තම තනතුරුවල වැඩ භාර ගැනීම සිදුවිය.
+North Central Provincial Governor Herath has taken steps to amend the secretaries of four of the Ministries of the North Central Provincial Council.
+
+Accordingly, the secretary secretariat was the Secretary to the Chief Secretary of the North Central Provincial Council.Wijaya Wildlman, the Secretary to the Ministry of Fisheries and the Ministry of Fisheries and the Ministry of Lands has been appointed as the Secretary to the Secretary to the Ministry of Food and Co-operatives.Been appointed as.
+
+With the amendments of the Secretary of the Provincial Council, the newly appointed secretaries took the work of their positions on Thursday.
+
+The Ministry of Health is the only ministries that have not been amended this year and is still the Secretary to the Ministry.
+
+Suddenly, the Testament to consult the Secretaries of four of the Ministry Secretaries of the North Central Provincial Council regarding the amendment of the Ministry Secretaries.
 
 ...
 
 [Data](articles/039529fe.json)
+
+[Extended Data](ext_articles/039529fe.ext.json)
 
 ---
 
@@ -1732,6 +1772,26 @@ The Amnesty International (SLC) has also been warned that the demands of the tra
 
 ---
 
+### ගොඩබිමේ මුතු මැණික් තරම් වටින මහ මුහුදේ අම්බර ගැන ඔබ දන්නවා ද?
+
+*2024-05-28 08:32:31* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c511mjzv3rqo) · `si`
+
+ගොඩබිමේ මුතු මැණික් තරම් වටින මහ මුහුදේ අම්බර ගැන ඔබ දන්නවා ද?
+
+“අපේ මස්සිනා මුහුදේ නාන්න ගිහින් ඉන්නකොට දැල් ගුලියක පැටලිලා, දැල් ගුලියත් එක්කම ගොඩ එද්දි දැකලා තමයි මස්සිනා ගොඩ ඇඳලා අරගෙන. ඒකෙන් ගඳක් එද්දි අම්බර කියලා හිතලා අපිට කිව්වේ.”
+
+කල්පිටිය ප්‍රදේශයේ ධීවරයකු වු ප්‍රියමන්ත ඇතුළු පිරිසකට පසුගිය දිනක තල්මස් අම්බරයක් ලැබී තිබු අතර ඒ නිසාම ඔවුන්ට පොලිස් අත්අඩංගුවට පත්වන්නට ද සිදුවිය.
+
+“අපි ගිහිල්ලා බලලා කරත්තයක් ගෙනිහින් ඒක ඇදගෙන ආවා. කිලෝ තිස් පහක්, හතලිහක් විතර තිබ්බේ හෙන තෙල් තට්ටුවක් එක්ක. ඊට පස්සේ ගෙනල්ලා වත්තට දැම්මාම උණු වෙවි, උණු වෙව් වැක් කෙරුණා. අපි ඒත් හරියට දැනගෙන හිටියේ නැහැ මොනවාද කියලා. ඔහොම තියාගෙන ඉද්දි දවස් අටකට විතර පස්සේ පොලිසියෙන් ආවා. ඒගොල්ලෝ මේකෙන් කෑල්ලක් පුච්චලා බලලා අම්බර තමයි කියලා අම්බරයි, අපිවයි, අරන් ගියා.”
+
+නීතිමය හා අධිකරණ කටයුතු අවසන් වීමෙන් අනතුරුව තමන්ට ලැබුණ අම්බරය සම්බන්ධව බීබීසී  සිංහල සමග විස්තර බෙදා හදා ගත් ධීවරයෙකු ලෙස රැකියාව කරන ප්‍රියමන්ත පැවසු පරිදි ඔහු මීට  පෙර අම්බර ගැන ආසා තිබුණත්, කිසි දිනක අම්බර දැක තිබුණේ නැත.
+
+...
+
+[Data](articles/546a93c7.json)
+
+---
+
 ### The rain and the wind will continue
 
 *2024-05-28 08:32:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மழையும்-காற்றும்-மேலும்-தொடரும்/175-337999) · `ta`
@@ -1823,6 +1883,24 @@ According to information provided by the arrested in Colombo, special soldiers w
 [Data](articles/11b681ac.json)
 
 [Extended Data](ext_articles/11b681ac.ext.json)
+
+---
+
+### ISIS சகோதரர்கள் இருவர் கைது (மேலதிக விபரம்)
+
+*2024-05-28 08:05:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ISIS-சகோதரர்கள்-இருவர்-கைது-மேலதிக-விபரம்/175-337998) · `ta`
+
+ஐ.எஸ்.ஐ.எஸ் பயங்கரவாத அமைப்புடன் தொடர்பு வைத்திருந்தனர் என்றக் குற்றச்சாட்டில் ஒரே குடும்பத்தைச் சேர்ந்த சகோதரர்கள்‌ இருவர் கைது செய்யப்பட்டுள்ளனர்.
+
+கொழும்பில் கைது செய்யப்பட்டவர் வழங்கிய தகவலின் பிரகாரம் சிலாபத்துக்குச் சென்ற விசேட படையினர் இவ்விருவரையும் கைது செய்தனர்.
+
+கைது செய்யப்பட்ட சகோதரர்களில் ஒருவர் வெளி மாகாணத்தில் உள்ள மீன்பிடி துறைமுகம் ஒன்றில் பணிபுரிந்து வருவதாகவும், மற்றைய சகோதரர் கொழும்பில் உள்ள கொள்கலன் பிரிவில் பணிபுரிந்து வருவதாகவும் கூறப்படுகிறது.
+
+ஐ. எஸ். ஐ. எஸ். பயங்கரவாத புலனாய்வுப் பிரிவினரால் இந்தியாவில் கைது செய்யப்பட்ட நான்கு இலங்கையர்களுடன் நெருங்கிய தொடர்பு வைத்திருந்ததாகக் கூறப்படும் ஒருவர், கொழும்பில் வைத்து கைது செய்யப்பட்டார். அவரிடம் மேற்கொள்ளப்பட்ட விசாரணைகளில் இருந்து கிடைத்த தகவல்களின் அடிப்படையில், அந்த பயங்கரவாத அமைப்பைச் சேர்ந்தவர்கள் என்ற சந்தேகத்தின் பேரில் இவ்விருவரும் கைது செய்யப்பட்டதாக பொலிஸ் வட்டாரங்கள் தெரிவிக்கின்றன.
+
+...
+
+[Data](articles/ca45ad7c.json)
 
 ---
 
@@ -2307,75 +2385,5 @@ Speaking at a press conference held in Colombo yesterday, industry veteran and f
 [Data](articles/806e28a9.json)
 
 [Extended Data](ext_articles/806e28a9.ext.json)
-
----
-
-### During the election campaign, Rahul Gandhi and Tejaswi Yadav took the stage.
-
-*2024-05-28 02:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/184651) · `ta`
-
-Rahul Gandhi and Tejasvi Yadav supported Misa Bharti in Bihar's Bihatpur constituency during her election campaign. A viral video from their rally shows them together. Despite reports of no injuries, this event has garnered significant attention on social media.
-
-🟩
-
-A video of a stage on the stage during the rally attended by Indian Congress leader Rahul Gandhi has gone viral on social media.
-
-Misa Bharti, daughter of Lalu Prasad Yadav, is contesting in Bihar State Batliputra constituency. Rahul Gandhi collected the vote in support of him. He was accompanied by Bihar Opposition Leader Tejasvi Yadav.
-
-However, foreign media have reported that no one was injured.
-
-◼️
-
-[Data](articles/2fe81d1f.json)
-
-[Extended Data](ext_articles/2fe81d1f.ext.json)
-
----
-
-### Despite the end of the war
-
-*2024-05-28 02:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/184650) · `ta`
-
-Despite peace since 2019, the aftermath remains dire, especially in the North, where schools remain damaged and the community hasn't reaped peace's benefits. The Leader of the Opposition criticizes the lack of justice and fulfillment of promises, highlighting the need for digital education to strengthen the nation. He emphasizes the importance of IT education and plans to equip schools with smart classrooms and install Women Development Centers to empower both genders technologically.
-
-🟩
-
-The war ended on May 18, 2019. Although 15 years have passed since the end of the war, we cannot be happy with the situation of the North. After the end of the war, the community did not even get the benefit of peace.
-
-If the benefits of peace were right, the schools here must have become national schools. Here we do not seek national schools shrinking with the name board.But nothing like that happened here.
-
-Even in these areas, there are schools that have been destroyed by war. 15 years after peace. How many times did you vote for the winning of the war. We still cannot show the cause of war.
-
-The Leader of the Opposition said that justice for the area and the students of the area has not been upheld.
-
-In a history where promises are not fulfilled, I can only give pure confidence to the affected people who have lost their confidence in politics. The opposition leader said that he was the only opposition in the true meaning of the word and carried out services for the people.
-
-...
-
-[Data](articles/b371555b.json)
-
-[Extended Data](ext_articles/b371555b.ext.json)
-
----
-
-### Elon Musk to visit Sri Lanka at the end of this year: Ruwan Wijewardene
-
-*2024-05-28 02:25:00* · [`economynextcom`](https://economynext.com/elon-musk-to-visit-sri-lanka-at-the-end-of-this-year-ruwan-wijewardene-165022/) · `en`
-
-ECONOMYNEXT – Sri Lanka will welcome Elon Musk later this year, Senior Adviser to the President on Climate Change Ruwan Wijewardene said.
-
-“When we introduce Starlink and welcome Elon Musk to Sri Lanka, this would open the door to more billionaires coming into the country,” Wijewardene told reporters on Monday.
-
-President Ranil Wickremesinghe met Elon Musk, the CEO of Tesla and SpaceX, at the recently concluded 10th World Water Forum in Bali, Indonesia.
-
-“Elon Musk stated that the project would require the President’s support. In response, President Wickremesinghe assured him of full support to initiate the project in Sri Lanka. Musk also mentioned that he plans to visit Sri Lanka at the end of this year to start the project,” Wijewardene said.
-
-“We have to show that we are confident in getting Starlink,” Wijewardene said. “And that Sri Lanka is a place for global projects and more investments. Once that is finished, we can introduce SpaceX.”
-
-...
-
-[Data](articles/3d14e09d.json)
-
-[Extended Data](ext_articles/3d14e09d.ext.json)
 
 ---

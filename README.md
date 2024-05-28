@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-28 13:04:10**
+As of **2024-05-28 13:19:14**
 
 ## Newspaper Stats
 
-*Scraped **26,765** Articles*
+*Scraped **26,772** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,532
 dailyftlk | 1,568
 adalk | 2,276
 adaderanalk | 3,062
-tamilmirrorlk | 3,134
+tamilmirrorlk | 3,141
 virakesarilk | 4,094
 dailymirrorlk | 4,222
 adaderanasinhalalk | 4,293
@@ -26,11 +26,77 @@ adaderanasinhalalk | 4,293
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,763 (100.0%) of 26,765 articles have been extended.
+26,765 (100.0%) of 26,772 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-28 (Tuesday)
+
+### பாதம் இல்லாத சடலம் மீட்பு
+
+*2024-05-28 13:00:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாதம்-இல்லாத-சடலம்-மீட்பு/175-338025) · `ta`
+
+பாதம் இல்லாத சடலமொன்று தண்டவாளத்தில் இருந்து மீட்கப்பட்ட சம்பவமொன்று செவ்வாய்க்கிழமை (28) இடம்பெற்றுள்ளது.
+
+புகையிரத தண்டவாளத்தில் பலத்த காயங்களுடன் ஆண்ணொருவரின்  சடலம் கண்டெடுக்கப்பட்டதுடன், இந்த சம்பவத்தினால் பிரதான  புகையிரத போக்குவரத்தில் சிறிது தாமதம் ஏற்பட்டுள்ளதாக தெரிவிக்கப்பட்டுள்ளது. வயங்கொடை பொலிஸாரிடம்.
+
+வெயாங்கொட மொட்டுன்ன பிரதேசத்தில் வசித்து வந்த 40 வயதுடைய ரொஷான் மஹாநாம என்பவரே இவ்வாறு சடலமாக மீட்கப்பட்டுள்ளார். இவர், மூன்று பிள்ளைகளின் தந்தையாவார்.
+
+தண்டவாளத்தில் நடந்துச் சென்ற நபர் ஒருவர், தண்டவாளங்களுக்கு இடையில் சடலம் ஒன்று கிடப்பதைக் கண்டு, வெயாங்கொடை புகையிரத நிலையத்திற்கு தகவல் வழங்கினார். அதனையடுத்து சடலத்தை பொலிஸார் மீட்டுள்ளனர்.
+
+இறந்தவரின் கால்களில் ஒன்று சடலம் இருந்த இடத்திலிருந்து சுமார் 10 மீட்டர் தொலைவில் விழுந்து கிடந்துள்ளது. மேலும் இறந்தவருடையது என்று சந்தேகிக்கப்படும் ஒரு ஜோடி காலணிகள் மற்றும் கோடாரி ஆகியவையும் அருகில் கிடந்தன.
+
+...
+
+[Data](articles/bd0107fe.json)
+
+---
+
+### இந்திய அணி பயிற்சியாளக்கு மோடி  விண்ணப்பம்
+
+*2024-05-28 12:48:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/இந்திய-அணி-பயிற்சியாளக்கு-மோடி-விண்ணப்பம்/44-338022) · `ta`
+
+இந்திய ஆண்கள் கிரிக்கெட் அணியின் பயிற்சியாளர் பதவிக்கு ராகுல் டிராவிட்டிற்கு  பிறகு அவருக்கு பொருத்தமான மாற்றாக யாரை தேர்ந்தெடுக்கலாம் என்று இந்திய கிரிக்கெட் கவுன்சிலான பி.சி.சி.ஐ. தீவிரமாக ஆலோசித்து வருகிறது.
+
+மே 13 முதல் இந்திய அணி பயிற்சியாளர் பதவிக்கு விண்ணப்பங்கள் பெறப்பட்ட நிலையில், அது திங்கட்கிழமை (27) யுடன் நிறைவு பெற்றது. இந்தநிலையில், இந்திய கிரிக்கெட் அணி பயிற்சியாளர் பதவிக்கு மோடி, அமித்ஷா, சச்சின், தோனி, சேவாக் ஆகிய பெயரில் போலியாக விண்ணப்பங்கள் குவிந்துள்ளதால் தேர்வுக்குழு குழுப்பம் அடைந்துள்ளதாக தகவல் வெளியாகி உள்ளது.
+
+இந்திய அணியின் தலைமை பயிற்சியாளர் பதவிக்கு 3 ஆயிரம் பேர் விண்ணப்பித்துள்ளதாகவும் பதிவான விண்ணப்பங்களில் போலி எது, உண்மை எது என கண்டறிய தாமதம் ஆகும் எனவும்  பி.சி.சி.ஐ தகவல் தெரிவித்துள்ளது. கூகுள் பார்ம் மூலம் விண்ணப்பங்கள் பெறப்பட்டதால் பலர் போலி விண்ணப்பங்களை பதிவு செய்துள்ளது தெரியவந்துள்ளது. இந்திய அணி பயிற்சியாளர் ராகுல் டிராவிட்டின் பதவிக்காலம் டி20 உலகக்கோப்பை தொடருடன் நிறைவடைகிறது.
+
+◼️
+
+[Data](articles/e3baed08.json)
+
+---
+
+### ‘ ஸ்டார்லிங்க் இணையச் சேவை வருகிறது’
+
+*2024-05-28 12:44:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஸ்டார்லிங்க்-இணையச்-சேவை-வருகிறது/175-338021) · `ta`
+
+செல்வந்தரான எலோன் மஸ்க்கின் ஸ்டார்லிங்க் செய்மதி இணையச் சேவையை மூன்று மாதங்களுக்குள் ஆரம்பிக்க எதிர்பார்ப்பதாக ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் சிரேஷ்ட ஆலோசகர் ருவன் விஜேவர்தன திங்கட்கிழமை (27) தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/a59ec711.json)
+
+---
+
+### நெலும் மாவத்தையில் பதற்றம்
+
+*2024-05-28 12:42:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மேல்-மாகாணம்/நெலும்-மாவத்தையில்-பதற்றம்/95-338020) · `ta`
+
+பாராளுமன்றத்திற்கு அருகில் உள்ள நெலும் மாவத்தையை  அமைச்சர் பிரசன்ன ரணதுங்க சற்று முன்னர் கடக்க முற்பட்டதால் அங்கு பதற்றமான சூழ்நிலை ஏற்பட்டது.
+
+பல சிவில் அமைப்புக்கள் ஒன்றிணைந்து பாராளுமன்றத்திற்கு அருகாமையில் இருந்து நெலும் மாவத்தை வளாகம் வரையிலும் எதிர்ப்பு பேரணியில் ஈடுபட்டுள்ளன.
+
+நெலும் மாவத்தை நுழைவாயிலுக்கு அருகில் ஆர்ப்பாட்டக்காரர்களை பொலிஸார் தடுத்து நிறுத்தியதால் பொலிஸாருக்கும் ஆர்ப்பாட்டக்காரர்களுக்கும் இடையில் கடும் வாக்குவாதம் ஏற்பட்டது.
+
+அமைச்சர் ரணதுங்க அவ்வீதியூடாக செல்ல முற்பட்ட போது, இரு தரப்பிலும்  ஆர்ப்பாட்டக்காரர்கள் அவரை நோக்கி சத்தமிட்டனர்.
+
+◼️
+
+[Data](articles/292d4a2d.json)
+
+---
 
 ### The market interest rate should be reduced - Central Bank of Sri Lanka
 
@@ -53,6 +119,22 @@ Meanwhile, Central Bank Governor, Dr. Nandalal Weerasinghe said that the financi
 [Data](articles/5ad2b017.json)
 
 [Extended Data](ext_articles/5ad2b017.ext.json)
+
+---
+
+### புது​டெல்லி விமானத்தில் வெடிகுண்டு மிரட்டல்
+
+*2024-05-28 12:18:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புது-டெல்லி-விமானத்தில்-வெடிகுண்டு-மிரட்டல்/175-338017) · `ta`
+
+புது​டெல்லி விமான நிலையத்தில் செவ்வாய்க்கிழமை (28)  காலை வாரணாசி நோக்கிச் செல்லும் இண்டிகோ விமானத்திற்கு வெடிகுண்டு இருப்பதாக மிரட்டல் வந்ததால், அதன் பயணிகளை வெளியேற்றி, தேடுதல் நடவடிக்கையை  அதிகாரிகள் முன்னெடுத்தனர் என்று ஏசியன் நியூஸ் இன்டர்நேஷனல் (ஏஎன்ஐ) தெரிவித்துள்ளது.
+
+புதுடெல்லி தீயணைப்பு சேவையின்படி, "இன்று (28( அதிகாலை 5:35 மணிக்கு புதுடெல்லியில் இருந்து வாரணாசிக்கு செல்லும் விமானத்தில் வெடிகுண்டு இருப்பதாக தகவல் கிடைத்தது. விரைவு பதில் குழுக்கள் (க்யூஆர்டி) சம்பவ இடத்திற்கு வந்தனர்".
+
+அனைத்து பயணிகளும் அவசர கால வழிகள் வழியாக வெளியேற்றப்பட்டதை சோதனை நடவடிக்கைகள் முன்னெடுக்கப்பட்டன.
+
+◼️
+
+[Data](articles/7e4b56b5.json)
 
 ---
 
@@ -114,6 +196,8 @@ ECONOMYNEXT – Sri Lanka’s State Minister of Finance Shehan Semasinghe says r
 
 [Data](articles/2afa6e96.json)
 
+[Extended Data](ext_articles/2afa6e96.ext.json)
+
 ---
 
 ### Bomb threat prompts evacuation of plane at Delhi Airport
@@ -135,6 +219,18 @@ A thorough inspection was conducted, the officer said, adding, "No suspicious it
 [Data](articles/860870a6.json)
 
 [Extended Data](ext_articles/860870a6.ext.json)
+
+---
+
+### மரக்கறிகளின் இன்றைய விலை
+
+*2024-05-28 11:54:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மரக்கறிகளின்-இன்றைய-விலை/76-338014) · `ta`
+
+நுவரெலியா விசேட பொருளாதார மத்திய நிலையத்தின் ஊடாக கொள்வனவு மற்றும் விற்பணை செய்யப்படும் மரக்கறிகளின் 1 கிலோ கிராமுக்கான விலை பட்டியலை விசேட பொருளாதார மத்தியநிலையத்தின் காரியாலயம் செவ்வாய்க்கிழமை (28) வெளியிட்டுள்ளது.
+
+◼️
+
+[Data](articles/708a99bc.json)
 
 ---
 
@@ -243,6 +339,8 @@ Maldivians, who consider Sri Lanka their second home, often spend more than a mo
 ...
 
 [Data](articles/9611925b.json)
+
+[Extended Data](ext_articles/9611925b.ext.json)
 
 ---
 
@@ -975,6 +1073,20 @@ Anadolu said that there were 28 passengers on the intercity bus traveling from t
 [Data](articles/5fa0a7c6.json)
 
 [Extended Data](ext_articles/5fa0a7c6.ext.json)
+
+---
+
+### ‘அநுரவால் முடியாதென லாலுக்குத் தெரியும்’
+
+*2024-05-28 09:19:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அநுரவால்-முடியாதென-லாலுக்குத்-தெரியும்/175-338001) · `ta`
+
+பாராளுமன்ற உறுப்பினர் அநுர குமார திஸாநாயக்கவால் அரசாங்கத்தை திறம்பட நடாத்த முடியாததென்பது தெரியுமென்பதால் தனது கட்சி ஆட்சிக்கு வருவதைத் தடுக்க அநுர தலைமை தாங்கும் தேசிய மக்கள் சக்தியின் உறுப்பினர் கே.டி. லால்காந்த முயல்வதாக ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் எஸ்.எம். மரிக்கார் தெரிவித்துள்ளார்.
+
+திங்கட்கிழமை நடைபெற்ற செய்தியாளர் மாநாட்டொன்றிலேயே இக்கருத்தை வெளிப்படுத்திய மரிக்கார், ஈரான் ஜனாதிபதி எப்ராஹிம் றைசியின் திடீர் மரணத்துக்கான அனுதாபச் செய்தியை தனது அலைபேசியிலிருந்து அநுர பிரதி செய்ததாகக் கூறியதுடன், அவ்வாறானவர் எவ்வாறு நாட்டை ஆளலாம் எனக் கேள்விக்குட்படுத்தினார்.
+
+◼️
+
+[Data](articles/b0d02f88.json)
 
 ---
 
@@ -2121,123 +2233,5 @@ In line with this, the Israeli war Cabinet expanded the mandate of the team nego
 [Data](articles/63993893.json)
 
 [Extended Data](ext_articles/63993893.ext.json)
-
----
-
-### Leaders of North and South should think afresh - EDITORIAL
-
-*2024-05-28 00:18:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Leaders-of-North-and-South-should-think-afresh-EDITORIAL/172-283462) · `en`
-
-Like a ritual, the United Nations Human Rights Council has been issuing reports annually on the human rights situation in Sri Lanka since 2012 while in some years adopting resolutions on the same, expressing displeasure over the commitment of the Sri Lankan government to implement the recommendations of those reports and the resolutions.
-
-The Sri Lankan government too, like a ritual, has been rejecting the observations of those reports and the resolutions while making halfhearted attempts to implement the recommendations of them.
-
-...
-
-[Data](articles/ef0d58f5.json)
-
-[Extended Data](ext_articles/ef0d58f5.ext.json)
-
----
-
-### 2024-05-27 (Monday)
-
-### Food truck to restaurant chain: How Uber Eats helped Street Burger thrive
-
-*2024-05-27 23:38:00* · [`islandlk`](http://island.lk/food-truck-to-restaurant-chain-how-uber-eats-helped-street-burger-thrive/) · `en`
-
-Street Burger started dishing out delicious burgers from a food truck and grew to become a popular eating joint in no time. But Tharique, Founder, Street Burger, had bigger plans. He had confidence in his product and wanted to take it to more Sri Lankans and expand operations. Scale and reach came with Uber Eats. As Sri Lanka’s most popular food and grocery delivery app, it was a big support for the young brand to be available on Uber Eats and the orders grew as word went around. Today, Street Burger has grown from being a food truck to a restaurant chain with four outlets and continues to expand.
-
-...
-
-[Data](articles/1a39cf52.json)
-
-[Extended Data](ext_articles/1a39cf52.ext.json)
-
----
-
-### HNBA and HNBGI recognized as ‘Company with Great Managers’
-
-*2024-05-27 23:37:00* · [`islandlk`](http://island.lk/hnba-and-hnbgi-recognized-as-company-with-great-managers/) · `en`
-
-HNB Assurance PLC and HNB General Insurance Ltd were recognized as “Company with Great Managers” at the CLA Leadership Excellence and CLA Great Managers Awards 2024, for the second consecutive year. This prestigious recognition was conferred in recognition of HNBA and HNBGI being benchmarked with best practices and a culture demonstrating great leadership and managerial quotient while providing an eco system to nurture great managers.
-
-...
-
-[Data](articles/a16f7030.json)
-
-[Extended Data](ext_articles/a16f7030.ext.json)
-
----
-
-### CSE and USAID hold Issuer Forum in the Southern Region, educating SMEs
-
-*2024-05-27 23:37:00* · [`islandlk`](http://island.lk/cse-and-usaid-hold-issuer-forum-in-the-southern-region-educating-smes/) · `en`
-
-The Colombo Stock Exchange (CSE) and the United States Agency for International Development (USAID) collaborated on a forum to provide small and medium sized enterprises (SMEs) in southern Sri Lanka with insights into opportunities to raise capital through the CSE.
-
-Held recently at the Weligama Bay Marriott Resort & Spa, the issuer forum titled “Redefining the Trajectory of Your Business”, provided guidance on exploring effective capital-raising avenues, specifically through listing on the Empower and Diri Savi Boards, which offer dedicated listing platforms for SMEs, focusing on sectors like agribusinesses, livestock, energy generation, ICT, and tourism-related ventures. Industry experts, investment advisors, CSE representatives, and representatives of USAID’s CATALYZE Sri Lanka Private Sector Development Activity led panel discussions and interactive sessions.
-
-...
-
-[Data](articles/f535f7d9.json)
-
-[Extended Data](ext_articles/f535f7d9.ext.json)
-
----
-
-### Overall decline in April PMI
-
-*2024-05-27 23:35:00* · [`islandlk`](http://island.lk/overall-decline-in-april-pmi/) · `en`
-
-Sri Lanka Purchasing Managers’ Index for Manufacturing (PMI – Manufacturing) recorded an index value of 42.0 in April 2024, indicating a contraction in manufacturing activities following the seasonal pattern. New Orders, Production, Employment and Stock of Purchases sub-indices declined during the month, resulting in an overall decline in the index.
-
-As per the respondents, the decline in New Orders was mainly due to the end of the festive season’s demand, particularly for food & beverages. Further, the decrease in Production was primarily due to the fewer working days in April, as most factories were temporarily closed for the Sinhala and Tamil New Year holidays. Moreover, Employment and Stock of Purchases decreased during the month, in line with the decline in New Orders and Production. Meanwhile, Suppliers’ Delivery Time further lengthened in April, owing to the extended holidays in the month.
-
-...
-
-[Data](articles/387bfe4d.json)
-
-[Extended Data](ext_articles/387bfe4d.ext.json)
-
----
-
-### Following delisting move, Unisyst Engineering launches share buy-back initiative
-
-*2024-05-27 23:32:00* · [`islandlk`](http://island.lk/following-delisting-move-unisyst-engineering-launches-share-buy-back-initiative/) · `en`
-
-Hayleys Group’s Unisyst Engineering PLC, which announced it would be delisting from the CSE last month, has submitted an offer letter to shareholders to buy back shares at Rs 6 per share.
-
-“Exit Offer of Rs 6 per share has been made by Advantis Projects & Engineering (Private) Limited (“Majority Shareholder”) to the rest of the shareholders of Unisyst Engineering PLC (the “Company”), who may wish to sell their shares in the Company, the Hayleys Group said in a stock exchange filing.
-
-The acceptance of the exit offer will commence at 9 am on May 28, 2024 and close at 1.30 pm on June 26, 2024, Hayleys said. Formerly Alufab PLC, Unisyst Engineering is an aluminium supplier in Sri Lanka.
-
-Yesterday both indices moved downwards. The All Share Price Index went down by 37.52 points, while S and P SL20 declined by 14.48 points. Turnover stood at Rs 494 million sans any crossings.
-
-...
-
-[Data](articles/f5b79e94.json)
-
-[Extended Data](ext_articles/f5b79e94.ext.json)
-
----
-
-### Excise Dept. employee and bank manager among 08 arrested over drug racket
-
-*2024-05-27 22:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/99478/excise-dept-employee-and-bank-manager-among-08-arrested-over-drug-racket) · `en`
-
-An individual employed at the Excise Department and a person who is said to be a manager of a private bank are among 08 suspects arrested by Alawathugoda Police in connection with a drug racket.
-
-Drugs including heroin, crystal methamphetamine (‘Ice’) and cannabis as well as a digital scale and around Rs. 10,000 in cash have been found in the possession of the arrested suspects.
-
-Court has granted permission to detain until May 29 and question the Excise Department employee and the private bank manager, who are among the arrested suspects.
-
-The 08 suspects in question had been arrested based on information uncovered following the interrogation of a suspect arrested by Alawathugoda Police while peddling heroin.
-
-◼️
-
-[Data](articles/a186b159.json)
-
-[Extended Data](ext_articles/a186b159.ext.json)
 
 ---

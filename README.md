@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-29 03:03:57**
+As of **2024-05-29 03:18:28**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,319
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,939 (100.0%) of 26,952 articles have been extended.
+26,952 (100.0%) of 26,952 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,6 +50,8 @@ United National Party (UNP) Colombo District organiser Ravi Karunanayake yesterd
 
 [Data](articles/8dd1f45f.json)
 
+[Extended Data](ext_articles/8dd1f45f.ext.json)
+
 ---
 
 ### President orders compensation for families affected by adverse weather
@@ -72,6 +74,8 @@ The President instructed the Disaster Management Centre to ensure all necessary 
 
 [Data](articles/fb3b266f.json)
 
+[Extended Data](ext_articles/fb3b266f.ext.json)
+
 ---
 
 ### Cabinet nod to review public sector salary anomalies
@@ -91,6 +95,8 @@ Gunawardena recalled the ongoing strikes by State sector workers who have been d
 ...
 
 [Data](articles/8bdcf5f6.json)
+
+[Extended Data](ext_articles/8bdcf5f6.ext.json)
 
 ---
 
@@ -114,6 +120,8 @@ In a statement on Monday, UN secretary general António Guterres said the strike
 
 [Data](articles/cf0456fd.json)
 
+[Extended Data](ext_articles/cf0456fd.ext.json)
+
 ---
 
 ### Spain, Norway and Ireland recognise Palestinian state
@@ -132,6 +140,8 @@ Israel has withdrawn its ambassadors from Ireland, Norway and Spain and formally
 
 [Data](articles/b43b9ece.json)
 
+[Extended Data](ext_articles/b43b9ece.ext.json)
+
 ---
 
 ### Ambeon Holdings posts Rs. 2.8 b PAT for FY24
@@ -147,6 +157,8 @@ Ambeon Holdings PLC Chairman Sujeewa Mudalige said: “Considering the market ch
 ...
 
 [Data](articles/21fcbe5c.json)
+
+[Extended Data](ext_articles/21fcbe5c.ext.json)
 
 ---
 
@@ -352,43 +364,59 @@ Recognising the importance of maintaining transparency and increasing public con
 
 ---
 
-### பட்டமளிப்பு விழாவை பிற்போடுவது இளங்கலை மாணவர்களின் உரிமைகளை பாரியளவில் மீறுவதாகும் -  கலாநிதி பிரபாத் ஏகநாயக்க
+### Graduation Ceremony is a massive violation of the rights of undergraduate students
 
 *2024-05-29 01:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/184734) · `ta`
 
-கல்வி ஊழியர்களின் வேலைநிறுத்தம் காரணமாக பட்டமளிப்பு விழாவை பிற்போடுவது இளங்கலை மாணவர்களின் உரிமைகளை பாரியளவில் மீறுவதாக பேராதனை பல்கலைக்கழக கலைப் பீடத்தின் பீடாதிபதி கலாநிதி பிரபாத் ஏகநாயக்க எழுத்து மூலம் உபவேந்தருக்கு அறிவித்துள்ளார்.
+Dr. Prabhat Ekanayaka, a faculty member at Peradeniya University, criticized the postponement of the graduation ceremony due to a staff strike, calling it a violation of student rights. He expressed shock over the decision, blaming non-academic association leaders and urging legal action against them. He also questioned the support shown to a concert while opposing the graduation ceremony, emphasizing the need for the university administration to address this issue.
 
-அதில் மேலும் கூறியிருப்பதாவது: பல்கலைகழகத்தின் மிக முக்கிய கல்வி நிகழ்வான பட்டமளிப்பு விழா ஒரு சிலரின் தன்னிச்சையான நடவடிக்கையால் ஒத்திவைக்கப்பட்டுள்ளதால் மிகுந்த அதிர்ச்சி அடைந்துள்ளேன்.
+🟩
 
-இந்த முடிவு எங்கள் மதிப்புமிக்க பல்கலைக்கழகத்தின் பட்டதாரிகளின் உரிமைகளை கடுமையாக மீறுகிறது என்று நான் நம்புகிறேன்.
+Dr. Prabhat Ekanayaka, the Faculty of the Peradeniya University Arts Faculty, has informed the Vice Chancellor in writing that the graduation ceremony of the graduation ceremony was in violation of the rights of undergraduate students due to the strike of education staff.
 
-கல்வி சாரா சங்கங்களின் தலைவர்கள் என்று கூறிக்கொள்ளும் தொலைநோக்கு பார்வையற்றவர்களே இந்த நிலைக்கு முழு பொறுப்பு. இந்நிலைமையை கல்விசாரா ஊழியர்களும் பல்கலைக்கழக நிர்வாகமும் கண்டிக்க வேண்டும்.
+It further stated: I am very shocked that the graduation ceremony of the university has been postponed by the spontaneous action of a few.
 
-கல்வி சாரா சங்க தலைவர்கள் மீது சட்டப்படி நடவடிக்கை எடுக்க வேண்டும். இல்லையேல் பீடாதிபதிகளாகிய நாமும் இந்த மனித உரிமை மீறலின் அங்கமாகி விடுவோம்.
+I hope this decision strively violates the rights of our valuable university graduates.
+
+The visionary visionary who claim to be leaders of non -academic associations are responsible for this condition. This situation should be condemned by non -academic staff and university administration.
+
+Legal action should be taken against the leaders of the non -academic union. Otherwise, we, as a dean, will become part of this human rights violation.
 
 ...
 
 [Data](articles/415158e4.json)
 
+[Extended Data](ext_articles/415158e4.ext.json)
+
 ---
 
-### கண்டியில் பிரபல வர்த்தகர் ஒருவர் 20 வயதுடைய  நபரை கடத்தி கொடூரமாக தாக்கிய குற்றச்சாட்டின் கைது
+### A famous businessman in Kandy was arrested for allegedly abducting and brutal assaulting a 20 -year -old man
 
 *2024-05-29 01:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/184733) · `ta`
 
-கண்டியில் ஹோட்டல் ஒன்றின் உரிமையாளரான பிரபல வர்த்தகர் ஒருவர் 20 வயதுடைய  நபரை கடத்திச் சென்று ஹோட்டல் அறையொன்றில் அடைத்து வைத்து கொடூரமாக தாக்கிய குற்றச்சாட்டின் பேரில் ஹோட்டல்  உரிமையாளர்  கண்டி பொலிஸ் நிலைய  குற்றப் பிரிவினரால் கைது செய்யப்பட்டுள்ளார்.
+A businessman in Kandy was arrested for allegedly kidnapping and assaulting a 20-year-old man in his hotel. The victim tried to resign but was forced back, leading to the attack. Investigations are ongoing, with the suspect set to appear in court.
 
-சந்தேகநபர் கண்டியில் உள்ள பிரதான ஆண்கள் பாடசாலையொன்றின் முன்னாள் மாணவர் சங்கத்தின் முன்னாள் தலைவர் என்பதுடன் போலி ஆவணங்களை தயாரித்து மாணவர்களை அனுமதித்த குற்றச்சாட்டையும் அவர் சுமத்தியுள்ளார்.
+🟩
 
-சந்தேகத்தின் பேரில் கைது செய்யப்பட்ட நபருக்குச் சொந்தமான கண்டி, ரஜபிஹில்ல பிரதேசத்தில் அமைந்துள்ள ஹோட்டல் ஒன்றில், தாக்குதலுக்கு உள்ளான இளைஞன் வரவேற்பாளராகப் பணியாற்றியவர் என பொலிஸ் விசாரணைகளின் மூலம் தெரியவந்துள்ளது.
+The owner of a hotel in Kandy has been arrested by the Kandy Police Station Crime Unit for allegedly abducting a 20 -year -old man in a hotel room.
 
-சம்பளம் வழங்கப்படாமையால் குறித்த இளைஞன் விடுதியை விட்டு வெளியேற விரும்புவதாகவும் சந்தேகநபர் அதற்கு அனுமதிக்கவில்லை எனவும் தெரிவித்தார்.
+The suspect is the former president of the Alumni Association of a major men's school in Kandy and accused the students of producing forged documents and allowing the students.
 
-பின்னர் குறித்த இளைஞன் ராஜினாமா கடிதத்தை கையளித்து விட்டு வீட்டிற்கு சென்று கொண்டிருந்த போது சந்தேக நபர் கெப் வண்டியில் வந்து இளைஞனை பலவந்தமாக அதில் ஏற்றி ஹோட்டலுக்கு அழைத்துச் சென்றுள்ளார்.
+Police investigations have revealed that a young man who was attacked at a hotel in Rajabhilla, Kandy, owned by a man arrested on suspicion.
 
-...
+He said the young man would like to leave the hotel due to lack of salary and that the suspect did not allow it.
+
+The young man then handed over the resignation letter and left the house and forcibly took the young man to the hotel.
+
+Police have arrested the trader on Monday, the 27th, on suspicion of a brutal assault on a young man who was confined to a hotel room.
+
+The suspect is to be produced before the court and the Chief Inspector of the Criminal Investigation Division, Naleen Indika, is investigating the incident.
+
+◼️
 
 [Data](articles/e077a7c7.json)
+
+[Extended Data](ext_articles/e077a7c7.ext.json)
 
 ---
 
@@ -424,89 +452,123 @@ To strengthen  cooperation in trade and investment a delegation from China Coun
 
 ---
 
-### வவுனியாவில் 80 போதை மாத்திரைகளுடன் 20 வயது இளைஞன் கைது
+### 20 -year -old youth arrested with 80 drug pills in Vavuniya
 
 *2024-05-29 01:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/184732) · `ta`
 
-வவுனியாவில் 80 போதை மாத்திரைகளுடன் 20 வயது இளைஞன் ஒருவர் கைது செய்யப்பட்டுள்ளதாக மாவட்ட போதை ஒழிப்பு பிரிவு பொலிசார் தெரிவித்தனர்.
+In Vavuniya, a 20-year-old was arrested with 80 drug pills during a police raid. The suspect, from Poonthottam, had business-oriented pills intended for the local market. Further investigations are ongoing before he is presented to court.
 
-வவுனியா குருமன்காடு பகுதியில் மாவட்ட போதை ஒழிப்பு பிரிவு பொலிஸ் பொறுப்பதிகாரி பொலிஸ் பரிசோதகர் கஜேந்திரன் தலைமையிலான பொலிசார் 28 ஆம் திகதி செவ்வாய்க்கிழமை மாலை விசேட சோதனை நடவடிக்கை ஒன்றினை மேற்கொண்டனர்.
+🟩
 
-இதன்போது இளைஞர் ஒருவரிடம் இருந்து 80 போதை மாத்திரைகள் மீட்கப்பட்டன. இதனையடுத்து குறித்த இளைஞர் கைது செய்யப்பட்டதுடன், அவரிடம் மேற்கொள்ளப்பட்ட விசாரணைகளில் வியாபார நோக்கில் குறித்த போதை மாத்திரைகளை வவுனியா, குருமன்காடு பகுதிக்கு கொண்டு வந்துள்ளமை தெரியவந்துள்ளது.
+A 20 -year -old youth has been arrested with 80 drug pills in Vavuniya, the District Narcotics Unit said.
 
-வவுனியா, பூந்தோட்டம் பகுதியைச் சேர்ந்த 20 வயது இளைஞரே கைது செய்யப்பட்டுள்ளார். மேலதிக விசாரணைகளின் பின் குறித்த இளைஞரை நீதிமன்றில் முற்படுத்தவுள்ளதாக பொலிசார் மேலும் தெரிவித்தனர்.
+Police, led by Police Inspector Gajendran, in charge of the District Narcotics Unit in Kurumankadu, Vavuniya, conducted a special inspection on Tuesday evening.
+
+80 narcotics pills were recovered from a youth. Subsequently, the youth was arrested and investigations carried out by him have revealed that the business -oriented pills have been brought to the Vavuniya and Kurumankadu area.
+
+A 20 -year -old youth from Poonthottam, Vavuniya has been arrested. Police added that the youth will be given to the court after further investigations.
 
 ◼️
 
 [Data](articles/8f772283.json)
 
+[Extended Data](ext_articles/8f772283.ext.json)
+
 ---
 
-### 55 வயது நிறைவடைந்த அனைத்து தொழிலாளர்களுக்கும் சமூக பாதுகாப்பு நிவாரணம் வழங்கப்படும் - மனுஷ நாணயக்கார
+### Social Security Relief will be provided to all workers who are 55 years old -Manusha Nanayakkara
 
 *2024-05-29 01:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/184731) · `ta`
 
-பலதரப்பட்ட தொழில் துறைகளிலும் பணியாற்றும் 55 வயது நிறைந்த அனைத்து தொழிலாளர்களுக்கும் சமூக பாதுகாப்பு நிவாரணம் வழங்குவதற்கான யோசனைக்கு அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளதாக தொழில் மற்றும் வெளிநாட்டு வேலைவாய்ப்பு அமைச்சர் மனுஷ நாணயக்கார தெரிவித்துள்ளார்.
+The Sri Lankan government, under President Ranil Wickremesinghe, is implementing social security relief for all 55-year-old workers across various industries, part of a broader effort to improve economic conditions and combat corruption. This initiative is in addition to existing programs like Aswasuma and Urumaya, and it aims to provide financial stability and support for older workers. The government has also focused on reducing bank interest rates from 25% to 12%-8% and introducing legislative changes to strengthen anti-corruption measures.
 
-"கருசரு" வேலைத்திட்டத்திற்கு இணையாக செயற்படுத்தப்படவிருக்கும் இத்திட்டத்துக்கான சட்ட ஏற்பாடுகள் செய்யப்பட்டு வருவதாகவும் அமைச்சர் குறிப்பிட்டார்.
+🟩
 
-ஜனாதிபதி ஊடக மையத்தில் 28 ஆம் திகதி செவ்வாய்க்கிழமை  நடைபெற்ற ஊடகவியலாளர் மாநாட்டிலேயே அமைச்சர் மேற்கண்டவாறு தெரிவித்தார்.
+The Minister of Labor and Foreign Employment, Manusha Nanayakkara, said that the Cabinet has approved the idea of ​​providing social security relief to all workers of the 55 -year -old workers in a variety of industries.
 
-மக்களுக்கு பண்டிகைகளைக் கொண்டாட மன நிம்மதி இல்லை என்று சிலர் குற்றம் சாட்டுகின்றனர். ஆனால் ஜனாதிபதி ரணில் விக்ரமசிங்க தலைமையிலான அரசாங்கம் வெசாக், பொசன் பண்டிகைகளை மாத்திரமன்றி நத்தார் பண்டிகையையும் கொண்டாடுவதற்குத் தேவையான சூழலை உருவாக்கியுள்ளது. அதனால் குற்றச்சாட்டுக்களை முன்வைப்போர் கடந்த வருடத்துடன் தற்போதைய நிலையை ஒப்பிட்டுப் பாருங்கள் என்றே சொல்வேன். மக்கள் இழந்திருந்த மன நிம்மதி மீட்டுக் கொடுக்கப்பட்டுள்ளது.
+The Minister also stated that legal arrangements are being made for the project, which is to be implemented in parallel with the "Karusaru" program.
+
+The Minister said this at a press conference held at the Presidential Media Center on Tuesday 28th.
+
+Some accuse people that they have no peace of mind to celebrate festivals. But the government, led by President Ranil Wickremesinghe, has created an environment where Vesak and Poson are celebrated only to celebrate the festival.. So I would say that those who make the accusations compare the current status last year. The peace of mind that people have lost have been restored.
 
 ...
 
 [Data](articles/7522a864.json)
 
+[Extended Data](ext_articles/7522a864.ext.json)
+
 ---
 
-### அரசியலமைப்பிற்கமைய ஜனநாயகம் பாதுகாக்கப்படும் என ஜனாதிபதி உறுதியளித்துள்ளார் - பாராளுமன்ற உறுப்பினர் நிமல் லன்சா
+### The President has promised to protect democracy on the constitution - Parliamentarian Nimal Lansa
 
 *2024-05-29 01:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/184730) · `ta`
 
-அரசியலமைப்பின் பிரகாரம் ஜனாதிபதித் தேர்தல் நிர்ணயிக்கப்பட்ட காலத்திற்குள் நடத்தப்படும். அதனை ஒத்திவைக்கும் எண்ணம் அரசாங்கத்திற்கு இல்லை எனப் பாராளுமன்ற உறுப்பினர் நிமல் லன்சா தெரிவித்துள்ளார்.
+Parliamentarian Nimal Lansa assures that the government has no plans to delay the upcoming presidential election, as per constitutional timelines. President Ranil Wickremesinghe has pledged to safeguard democracy and adhere to the election schedule. The Election Commission is tasked with conducting the election within its constitutional timeframe.
 
-ஊடகங்களுக்கு விசேட அறிக்கையொன்றை வெளியிட்டு இதனைத் தெரிவித்துள்ள அவர் அதில் மேலும் குறிப்பிட்டுள்ளதாவது :
+🟩
 
-அரசியலமைப்பின் பிரகாரம், ஜனநாயகத்தைப் பாதுகாத்து ஜனாதிபதி தேர்தல் குறித்த கால எல்லைக்குள் நடத்தப்படும் என ஜனாதிபதி ரணில் விக்கிரமசிங்க உறுதியளித்துள்ளார். அதுவே அரசாங்கத்தின் நிலைப்பாடாகவும் உள்ளது.
+The presidential election will be held within the time of the presidential election according to the Constitution. Parliamentarian Nimal Lansa said the government had no intention of postponing it.
 
-ஜனாதிபதித் தேர்தலையோ அல்லது பாராளுமன்றத் தேர்தலையோ இரண்டு வருடங்களுக்கு ஒத்திவைப்பதற்கான பிரேரணைகளை பல்வேறு தரப்பினர் சமர்ப்பிக்கலாம் அல்லது அது தொடர்பான எந்தவொரு கருத்தையும் சமர்ப்பிக்கலாம் என்பது அவர்களின் தனிப்பட்ட கருத்தே அன்றி அரசாங்கத்தின் நிலைப்பாடல்ல.
+He posted a special report to the media and further stated:
 
-அரசியலமைப்பின் பிரகாரம் ஜனாதிபதித் தேர்தலை நிர்ணயிக்கப்பட்ட காலத்திற்குள் நடத்துவது தேர்தல் ஆணைக்குழுவின் பொறுப்பாகும்.
+According to the Constitution, President Ranil Wickremesinghe has promised to defend democracy and hold the time -bounds of the presidential election.. That is the position of the government.
+
+Their personal opinion is that various parties can submit proposals to postpone the presidential election or parliamentary elections for two years or submit any opinion.
+
+It is the responsibility of the Election Commission to hold the presidential election within the time of the constitution.
 
 ◼️
 
 [Data](articles/cc34023c.json)
 
+[Extended Data](ext_articles/cc34023c.ext.json)
+
 ---
 
-### தேர்தலை பிற்போடுவது ஜனநாயகத்துக்கு விரோதமானது - நாமல் ராஜபக்ஷ
+### The postponement of the election is anti -democratic - Namal Rajapaksa
 
 *2024-05-29 01:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/184729) · `ta`
 
-தேர்தலை பிற்போடுவது ஜனநாயகத்துக்கு விரோதமானது. மக்களின் விருப்பத்துக்கு அமைய நாட்டில் ஸ்திரத்தன்மையை ஏற்படுத்த தேர்தல்களை நடத்த வேண்டும் என ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் தேசிய அமைப்பாளர் நாமல் ராஜபக்ஷ தனது உத்தியோகபூர்வ எக்ஸ் வலைத்தளத்தில் பதிவேற்றம் செய்துள்ளார்.
+Namal Rajapaksa criticizes both the postponement and continuation of Sri Lanka's elections as undemocratic, highlighting the need for stability through elections and caution against environmental and financial costs of delays.
 
-ஜனாதிபதி தேர்தல் மற்றும் பொதுத் தேர்தலை நடத்தாது, ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கு மேலும் இரண்டாண்டு காலம் பதவி நீடிப்பு வழங்க வேண்டும்.அதற்கு மக்கள் வாக்கெடுப்பு நடத்த வேண்டும். தற்போதைய நிலையில் தேர்தலை நடத்தினால் செலவுகளும்,சுற்றாடல் மாசடைவும் மாத்திரம் மிகுதியாகும் என ஐக்கிய தேசியக் கட்சியின் பொதுச்செயலாளர் ரங்கே பண்டார குறிப்பிட்டிருந்தார்.
+🟩
 
-ஐக்கிய தேசியக் கட்சியின் பொதுச்செயலாளரது இந்த கருத்துக்கு அரசியல் கட்சிகள் மற்றும் சிவில் அமைப்புக்கள் கடும் எதிர்ப்பை வெளிப்படுத்தியுள்ள நிலையில் நாமல் ராஜபக்ஷ இவ்வாறு பதிவேற்றம் செய்துள்ளார்.
+The backing of the election is anti -democratic. Sri Lanka PA's National Organizer Namal Rajapaksa has uploaded to his official X website that the Sri Lanka PA should be held elections to establish stability in the country of the people.
 
-...
+President Ranil Wickremesinghe should be given a further two -year post.. UNP general secretary Range Bandara has stated that if the election is held in the present case, the costs and the pollution of the environment will only increase.
+
+Namal Rajapaksa has uploaded this point of view of the United National Party (UNP) general secretary as political parties and civil organizations have expressed fierce opposition.
+
+Extending the tenure of the president and the parliament without holding elections will affect the basic principles of democracy. He said that the people's wishes should be stable in the country, but not to delay the voices of the people.
+
+◼️
 
 [Data](articles/4d5cb0bf.json)
 
+[Extended Data](ext_articles/4d5cb0bf.ext.json)
+
 ---
 
-### தர்மலிங்கம் சித்தார்த்தன், விஜயகலா மகேஸ்வரன் ஆகியோரின் முயற்சியால்  சுன்னாகம் ஸ்கந்தவரோதயா கல்லூரிக்கு நிதி ஒதுக்கீடு
+### Dharmalingam Siddharthan and Vijayagala Maheshwaran have been allocated funds to Chunnakam Skandavarodaya College
 
 *2024-05-29 01:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/184728) · `ta`
 
-முன்னாள் கல்வி இராஜாங்க அமைச்சர் விஜயகலா மகேஸ்வரன் ஜனாதிபதியிடம் விடுத்த கோரிக்கைக்கமைய  சுன்னாகம் ஸ்கந்தவரோதயா  கல்லூரியின் கேட்போர் கூடகட்டிட நிர்மாணத்திற்கு 110மில்லியன் ரூபாநிதி ஜனாதிபதியினால்  ஒதுக்கீடு செய்யப்பட்டுள்ளதோடு முதல் கட்டமாக 70 மில்லியன் ரூபாய் நிதி இன்று  பாடசாலை கட்டிட நிர்மாணத்துக்காக விடுவிக்கப்பட்டு கட்டட நிர்மாண பணிகள் ஆரம்பிக்கப்படவுள்ளதாகத் தகவல்கள் தெரிவிக்கின்றன.
+Funds totaling 110 million rupees have been allocated by former Education Minister Vijayagala Maheshwaran for the construction of an auditorium and initial phase at Sunnagam Skandavarodaya College. This follows a previous allocation of 50 million rupees requested by her and Parliamentarian Siddharthan in 2019 under the Good Governance Government. The project faced delays due to national instability, prompting immediate action from both the President and the Prime Minister, who issued directives for its completion.
 
-கடந்த 2019 ம் ஆண்டு  சுன்னாகம் ஸ்கந்தவரோதயா கல்லூரிக்கு கல்வி இராஜாங்க அமைச்சர் விஜயகலா மகேஸ்வரன் மற்றும் பாராளுமன்ற உறுப்பினர் சித்தார்த்தன் அவர்களின் வேண்டுகோளுக்கிணங்க அப்போதைய நல்லாட்சி அரசினால் 50 மில்லியன் ரூபா நிதி ஒதுக்கப்பட்டதோடு முன்னாள் கல்வி இராஜாங்க அமைச்சர் விஜயகலாமகேஸ்வரன் மற்றும்  பாராளுமன்ற உறுப்பினர் சித்தார்த்தனின்  வேண்டுகோளுக்கிணங்க பிரதமர் ரணில் விக்கிரமசிங்க  பாடசாலை பரிசளிப்பு நிகழ்வில்  கலந்து கொண்டு   புதிய கேட்போர் கூட கட்டிடத்திற்கான அடிக்கல்லினையும் நாட்டி வைத்திருந்தார்.
+🟩
+
+Former Minister of State for Education Vijayagala Maheshwaran has allocated 110 million rupees for the construction of Sunnagam Skandavarodaya College's auditorium and the first phase of the construction of Rs 70 million has been released for the construction of the school.
+
+At the request of the Minister of State for Education Vijayagala Maheshwaran and Parliamentarian Siddharthan in 2019, the then Good Governance Government has allocated 50 million rupees by the then Good Governance Government.Hold on.
+
+The matter was addressed to the President at a new building inauguration in Jaffna, which was recently attended by the Presidential Medical Faculty in Jaffna regarding the lack of work on the country's instability.
 
 ...
 
 [Data](articles/8d922013.json)
+
+[Extended Data](ext_articles/8d922013.ext.json)
 
 ---
 

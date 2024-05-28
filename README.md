@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-28 12:18:54**
+As of **2024-05-28 12:33:59**
 
 ## Newspaper Stats
 
-*Scraped **26,757** Articles*
+*Scraped **26,760** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,54 @@ adalk | 2,276
 adaderanalk | 3,062
 tamilmirrorlk | 3,134
 virakesarilk | 4,094
-dailymirrorlk | 4,219
-adaderanasinhalalk | 4,291
+dailymirrorlk | 4,221
+adaderanasinhalalk | 4,292
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,755 (100.0%) of 26,757 articles have been extended.
+26,757 (100.0%) of 26,760 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-28 (Tuesday)
+
+### වතු ගැන ජනපති ගෙනා විශේෂ යෝජනාවට අනුමැතිය
+
+*2024-05-28 12:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197105) · `si`
+
+ශ්‍රී ලංකා රාජ්‍ය වැවිලි සංස්ථාව, ජනතා වතු සංවර්ධන මණ්ඩලය සහ සීමාසහිත ඇල්කඩුව වැවිලි සමාගම යන ආයතනවලට අදාළ හිඟ ව්‍යවස්ථාපිත දීමනා ගෙවීම පිණිස අවශ්‍ය අරමුදල් මහා භාණ්ඩාගාරය වෙතින් සලසා දීමට ජනාධිපතිවරයා විසින් සිදුකරන ලද යෝජනාවකට කැබිනට් අනුමැතිය හිමිව තිබේ.
+
+එම හිඟ ව්‍යවස්ථාපිත දීමනා නිරවුල් කිරීමෙන් පසුව 1958 අංක 15 දරන සේවක අර්ථසාධක අරමුදලට අනුව ආයතනයන් විසින් ගෙවිය යුතු අධිභාර මුදල්වලින් අඩුකළ හැකි උපරිම ප්‍රමාණය අඩුකිරීමට කම්කරු කොමසාරිස් ජනරාල්වරයාට උපදෙස්දීමටත් ජනාධිපතිවරයා සිය යෝජනාව මගින් කරුණු ඉදිරිපත් කර ඇත.
+
+ශ්‍රී ලංකා රාජ්‍ය වැවිලි සංස්ථාව, ජනතා වතු සංවර්ධන මණ්ඩලය සහ සීමාසහිත ඇල්කඩුව වැවිලි සමාගම යන ආයතනවල හිඟ ව්‍යවස්ථාපිත දීමනා නිසි පරිදි නොපියවීම හේතුවෙන් විවිධ පළාත්වල අධිකරණයන්හි නඩු 2,000කට අධික ප්‍රමාණයක් විභාග වෙමින් පවතී.
+
+...
+
+[Data](articles/8f207331.json)
+
+---
+
+### Bomb threat prompts evacuation of plane at Delhi Airport
+
+*2024-05-28 12:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Bomb-threat-prompts-evacuation-of-plane-at-Delhi-Airport/107-283516) · `en`
+
+New Delhi, May 28 (PTI) - A Varanasi-bound IndiGo flight received a bomb threat at the airport here on Tuesday morning but a search of the aircraft found it to be a hoax, police said.
+
+The bomb scare prompted authorities to evacuate all the staff and 176 passengers onboard and launch a search operation, they said.
+
+The passengers will be flown to Varanasi in another plane, which is expected to take off at 11 am, an IndiGo spokesperson said in a statement.
+
+"At around 5 am, an information was received regarding a paper found in the lavatory of an Indigo flight scheduled to depart for Varanasi, with the phrase 'bomb @5.30' written on it," a senior police officer said.
+
+A thorough inspection was conducted, the officer said, adding, "No suspicious items were found. It was a hoax threat. Further investigation is underway."
+
+...
+
+[Data](articles/860870a6.json)
+
+---
 
 ### Fishermen advised not to go to sea until further notice
 
@@ -138,6 +174,26 @@ The Police Special Task Force (STF) arrested the woman, identified by the alias 
 
 ---
 
+### Suspect arrested over murder of ’Kalamulle Tashi’ dies in prison
+
+*2024-05-28 11:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Suspect-arrested-over-murder-of-Kalamulle-Tashi-dies-in-prison/108-283515) · `en`
+
+Kalutara, May 28 (Daily Mirror) - A suspect who was arrested and remanded in connection with a murder in Katukurunda, Kalutara last week, was found dead in the Kalutara prison yesterday (27).
+
+The deceased, Thushara Rukmal Silva, a resident of Palapitiyagoda was arrested on May 25 in connection with the shooting in Kalutara in which 39-year-old Tashmin Madhuwantha Silva alias 'Kalamulle Tashi' was killed and his 8-year-old daughter injured on May 20.
+
+The suspect Rukmal Silva was remanded over the shooting after being produced before the Kalutara Magistrate's Court.
+
+According to prison sources, the inmate died yesterday afternoon (27) after being admitted to the Nagoda Teaching Hospital due to a sudden illness.
+
+The post-mortem examination of the deceased suspect is to be conducted today (28) and Kalutara (North) Police are conducting further investigations.
+
+◼️
+
+[Data](articles/f1415a50.json)
+
+---
+
 ### Bad weather pushing vegetable and fish prices up
 
 *2024-05-28 11:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/99484/bad-weather-pushing-vegetable-and-fish-prices-up) · `en`
@@ -190,19 +246,25 @@ The Irrigation Department is notable to care for the public as the Attanagalu Bu
 
 ---
 
-### අවදානයෙන් සිටින්න ජල මට්ටම එකවර අඩි තුනක් ඉහලට
+### Stay in the attention the water level over three feet at the same time
 
 *2024-05-28 11:16:05* · [`adalk`](https://www.ada.lk/breaking_news/අවදානයෙන්-සිටින්න-ජල-මට්ටම-එකවර-අඩි-තුනක්-ඉහලට/11-409863) · `si`
 
-කලු ගඟේ ජලමට්ටම අද (28) දා උදේ පැය හතරක් ඇතුළත අඩි තුනකින් ඉහළ ගොස් සුලු ගංවතුර තත්ත්වයක් ඇතිවු බව පවසන රත්නපුර දිස්ත්‍රික් ලේකම් වසන්ත ගුණරත්න මහතා පහත්බිම් සහ ඒවට වෙසෙන ජනතාවටත් නායයාම් අවදානම් බවට අනතුරු අගවා ඇති ස්ථානවල පදිංචි ජනතාවටත් අවධානයෙන් සිටින ලෙස ඉල්ලීමක් කරයි.
+In the Ratnapura district, water levels in several rivers, including the Kalugalle, have risen significantly due to recent heavy rains, reaching heights such as 17 feet 9 inches and 20 feet 10 inches. The District Secretary highlighted concerns about flooding in areas like Hide, Hungry, and Chicken rivers, and the impact on the Queen and Kurya rivers. Despite the high rainfall, there's a call to stay alert and cautious.
 
-එහෙත් වර්ෂාවේ යම් අඩුවක් පෙන්නුම් කළේය. අද (28)දා පෙරවරු 05.30ට කලුගඟේ මුවගම ස්වයංක්‍රීය ජලමාපකයේ ජලමට්ටම අඩි 17යි අඟල් 09ක් විය. එය පෙරවරු 09.30 වනවිට අඩි 20යි අඟල් 10ක් විය.   වේ, හංගමු, ගලතුර, දෙනවක් සහ කුකුළේ යන ගංගා වල ද ජලමට්ටම් සැලකියයුතු අන්දමේ ඉහළ අගයක පවතී.
+🟩
 
-සිරිපා අඩවියට තද වැසි ඇදහැලීම නිසා කලු ගඟේ සහ කුරු ගඟේ ජලමට්ටම් ඉහළ ගොස් ඇතිබව ද දිස්ත්‍රික් ලේකම්වරයා අවධාරණය කළේය. පසුගිය දින කිහිපය තුල ඇදහැලුණු මහ වැසි හේතුවෙන් ගංගා ඇලදොළ ආශ්‍රිත පහත්බ්ම් වල ජලය රැඳී පවතී. අද උදෑසන වන විට මිලි මීටර් 33.9ක වැඩිම වර්ෂාපතනයක් රත්නපුර දිස්ත්‍රික්කයෙන් වාර්තා විය.
+Ratnapura District Secretary, Ven.
+
+But showed some lack of rain. The watermen of the automatic draphrafts of the Kalugalle at the Kalugalle (28) will be 17 feet nine-foot. It was 20 feet and 10 inches at 09.30am.   The watermark should be significantly significantly significantly significantly highlights in hide, hide, hungry and chicken rivers.
+
+The District Secretary also emphasized that the water distance of the Queen and Kurya River in the Siripa Site. The water of river alignment is underway due to heavy rains in the past few days. The Ratnapura district was the highest rainfall of 33.9 millions this morning.
 
 ◼️
 
 [Data](articles/a6806f13.json)
+
+[Extended Data](ext_articles/a6806f13.ext.json)
 
 ---
 
@@ -1590,6 +1652,8 @@ President Ranil Wickremesinghe met Elon Musk, the CEO of Tesla and SpaceX, at th
 
 [Data](articles/3d14e09d.json)
 
+[Extended Data](ext_articles/3d14e09d.ext.json)
+
 ---
 
 ### Dilith, Gammanpila, Wimal join hands to form ‘Sarvajana Balaya’
@@ -2163,81 +2227,5 @@ The meeting took place at the official residence of Mahinda Rajapaksa in Wijeram
 [Data](articles/771a46b9.json)
 
 [Extended Data](ext_articles/771a46b9.ext.json)
-
----
-
-### Two boss with drugs fall
-
-*2024-05-27 22:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197085) · `si`
-
-Eight individuals, including an Excise Department employee and a private bank manager, were arrested by the Alawathugoda Police for drug trafficking. Seized items included drugs, ice, cannabis, digital scales, and cash. The arrests followed a heroin sale investigation.
-
-🟩
-
-Alawathugoda Police have arrested eight persons in connection with the drug trafficking incident.
-
-Among the arrested persons are also known as an employment of the Excise Department and a private bank manager.
-
-A large haul of items including drugs, ice, cannabis, digital scales and amounts were found in the possession of the suspects.
-
-Among the arrested persons, the person who is employed at the Excise Department and the private banking manager has been permitted to the Region 29.
-
-The group was arrested following a man who was selling heroin by Alawatugoda Police.
-
-◼️
-
-[Data](articles/3db109d6.json)
-
-[Extended Data](ext_articles/3db109d6.ext.json)
-
----
-
-### Two disappeared
-
-*2024-05-27 21:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197084) · `si`
-
-Two fishermen are missing despite warnings from the Department of Fisheries and Aquatic Resources, who advised against going to sea due to safety concerns. The Meteorological Department predicts heavy rainfall exceeding 100mm in the next 24 hours in the Western Province and Nuwara Eliya district, with landslides expected to worsen in seven districts.
-
-🟩
-
-Two fishermen have gone missing in ignoring warnings, says the Department of Fisheries and Aquatic Resources.
-
-The Fisheries and Aquatic Resources Department states that the fishermen have gone to sea when the fishermen have been issued.
-
-Meanwhile, the Fisheries and Marine Community has informed the Fisheries and the Community to avoid going on the sea.
-
-The Meteorological Department says that in the next 24 hours and the Western Province, the Nuwara Eliya district can be increased at more than 100 millimeters.
-
-The last 24 hours was found to be the highest number of rain and 143.3 millimeters.
-
-Meanwhile, landslides released on seven districts will continue further.
-
-◼️
-
-[Data](articles/5dbd6eac.json)
-
-[Extended Data](ext_articles/5dbd6eac.ext.json)
-
----
-
-### Starlink internet pre-orders open in Sri Lanka
-
-*2024-05-27 21:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Starlink-internet-pre-orders-open-in-Sri-Lanka/108-283459) · `en`
-
-Colombo, May 27 (Daily Mirror) - Elon Musk's Starlink internet is now open for pre-order in Sri Lanka, with the public able to reserve Starlink by paying a fully refundable USD 9 deposit.
-
-Starlink aims to commence service in Sri Lanka in 2024, pending regulatory approval.
-
-Orders will be fulfilled on a first-come, first-served basis within each coverage area.
-
-Starlink’s Internet Constellation is one of the biggest breakthroughs in commercial satellite history. It brings nearly broadband-capable speeds and performance using a novel configuration of small satellites that work as a constellation while orbiting the Earth much lower than traditional satellites.
-
-Earlier, President Ranil Wickremesinghe said that Elon Musk had sent an application to launch the Starlink service in Sri Lanka and preliminary work to bring Starlink to Sri Lanka has been completed.
-
-◼️
-
-[Data](articles/1f64b740.json)
-
-[Extended Data](ext_articles/1f64b740.ext.json)
 
 ---

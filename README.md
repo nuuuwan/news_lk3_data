@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-28 18:23:44**
+As of **2024-05-28 18:35:20**
 
 ## Newspaper Stats
 
-*Scraped **26,867** Articles*
+*Scraped **26,869** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,12 +12,12 @@ colombotelegraphcom | 237
 dbsjeyarajcom | 265
 bbccomsinhala | 268
 newsfirstlk | 363
-islandlk | 1,455
+islandlk | 1,456
 economynextcom | 1,539
 dailyftlk | 1,568
 adalk | 2,288
 adaderanalk | 3,072
-tamilmirrorlk | 3,149
+tamilmirrorlk | 3,150
 virakesarilk | 4,116
 dailymirrorlk | 4,235
 adaderanasinhalalk | 4,312
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,312
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,858 (100.0%) of 26,867 articles have been extended.
+26,867 (100.0%) of 26,869 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,21 +48,29 @@ His effort in the final was a vast improvement as he clocked 46.26s earlier to w
 
 [Data](articles/895af8a0.json)
 
+[Extended Data](ext_articles/895af8a0.ext.json)
+
 ---
 
-### රටම කතාවෙන Starlink ගැන රජයෙන් දැනුම්දීමක්
+### Government notification of the government about Starlink
 
 *2024-05-28 18:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197126) · `si`
 
-“Starlink” වැනි ව්‍යාපෘතියකට සම්බන්ධ වීම හරහා මෙරට අන්තර්ජාල පහසුකම දුර්වල ප්‍රදේශවලට ද ගැටළුවකින් තොරව අන්තර්ජාල පහසුකම් ලබාදීමට හැකිවන බව ජනාධිපති ජ්‍යෙෂ්ඨ උපදේශක රුවන් විජේවර්ධන මහතා පවසයි.
+Senior Presidential Advisor Ruwan Wijewardene announced plans to expand internet services across Sri Lanka, highlighting the potential benefits of projects like SpaceX's Starlink. The initiative aims to bridge the digital divide, improve connectivity in underserved areas, and boost sectors like tourism. President Ranil Wickremesinghe expressed interest in collaborating with SpaceX, noting the project's global reach and its contribution to economic development.
 
-ඒ මහතා මේ බව පැවසුවේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන් ඊයේ (27) ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක් වෙමිනි.
+🟩
 
-10 වන ලෝක ජල සමුළුව “World Water Forum” පසුගිය 18 වනදා සිට 20 වනදා දක්වා ඉන්දුනීසියාවේ බාලි දූපතේ දී පැවැත්වුණා. ඉන්දුනීසියානු ජනාධිපති ජෝකෝ විඩෝඩෝ (Joko Widodo)මහතාගේ නිල ආරාධනයකට අනුව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ඇතුළු දූත පිරිසක් ඊට සහභාගී වුණා. එම සංචාරයේ දී ජනාධිපතිවරයා සහ ටෙස්ලා සහ ස්පේස් එක්ස් හි ප්‍රධානී ඊලෝන් මස්ක් මහතා අතර විශේෂ හමුවක් පැවැත්වුණා.
+Senior Presidential Advisor Ruwan Wijewardene says that the Internet supportive areas can be provided with the weakest areas of the country.
+
+He was speaking at a press conference held at the Presidential Media Center yesterday.
+
+The 10th World Water Forum was held on the 18th to the 20th Bali Island of Indonesia from the 18th to the 20th. President Ranil Wickremesinghe and angels participated in the official invitation of Indonesian President Jooko Vidodo (Joko WidoDo). A special meeting was held between the President and Tesla and Space X, Tesla and Space X.
 
 ...
 
 [Data](articles/3955a456.json)
+
+[Extended Data](ext_articles/3955a456.ext.json)
 
 ---
 
@@ -79,6 +87,8 @@ He further said that using the bus service, people can travel more than those wh
 ◼️
 
 [Data](articles/a132c7eb.json)
+
+[Extended Data](ext_articles/a132c7eb.ext.json)
 
 ---
 
@@ -165,6 +175,8 @@ Preliminary inquiries revealed that the group had rented a house in Cinnamon Gar
 ...
 
 [Data](articles/aa124661.json)
+
+[Extended Data](ext_articles/aa124661.ext.json)
 
 ---
 
@@ -291,6 +303,8 @@ Accordingly, the session and ministerial meeting will be held in Colombo in Nove
 ◼️
 
 [Data](articles/6c71d595.json)
+
+[Extended Data](ext_articles/6c71d595.ext.json)
 
 ---
 
@@ -1118,6 +1132,22 @@ Police said the cause of the accident was the woman who drove the car.
 
 ---
 
+### ஆண் முகாமையாளரை கடத்தி வன்புணர்வு
+
+*2024-05-28 15:10:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஆண்-முகாமையாளரை-கடத்தி-வன்புணர்வு/76-338028) · `ta`
+
+ஆண் முகாமையாளர் ஒருவரை கடத்திச் சென்று, பாலியல் வன்புணர்ந்து, அதனை வீடியோவாக பதிவுச் செய்துக்கொண்டதன் பின்னர், அவரிடமிருந்த பெறுமதியான பொருட்களை அபகரித்துவிட்டு, முகாமையாளரை கைவிட்டுச் சென்ற சம்பவமொன்று கண்டி- வத்தேகம பொலிஸ் பிரிவில் இடம்பெற்றுள்ளது.
+
+வத்தேகம நகரிலுள்ள பல்பொருள் அங்காடி நிலையமொன்றின் முகாமையாளரே, இவ்வாறு கடத்திச் செல்லப்பட்டு, காட்டுப்பகுதியில் உள்ள வீடொன்றில் வைத்து பாலியல் வன்கொடுமைக்கு உட்படுத்தப்பட்டுள்ளார்.
+
+அவரிடமிருந்து 1,18,500 ரூபாய் பணம்,  இரண்டு அலைபேசிகள், வௌ்ளி மோதிரம் மற்றும் கைக்கடிகாரம் ஆகியன கொள்ளையிடப்பட்டுள்ளன. சம்பவம் தொடர்பில் ஐந்து நாட்களுக்குப் பின்னரே, பொலிஸில் முறைப்பாடு செய்யப்பட்டுள்ளது. அதனையடுத்து, சந்தேகத்தின்பேரில் நால்வரை கட்டுக்கஸ்தோட்டை பொலிஸார் கைது செய்துள்ளனர்.
+
+...
+
+[Data](articles/7b9d6540.json)
+
+---
+
 ### Kidnapped the male manager, the robbery
 
 *2024-05-28 15:10:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஆண்-முகாமையாளரை-கடத்தி-வன்புணர்ந்து-கொள்ளை/76-338028) · `ta`
@@ -1368,23 +1398,31 @@ Subsequently, a fellow officials gathered in the area and folded the attacker an
 
 ---
 
-### 17 හැවැරිදි සිසුවියගේ නිරුවත් ඡායාරූප අන්තර්ජාලයට එක්කළ 18 හැවැරිදි සිසුවා අල්ලයි
+### 17 Nude photos of the child's nude photos to the Internet 18 march arrested
 
 *2024-05-28 14:06:35* · [`adalk`](https://www.ada.lk/breaking_news/17-හැවැරිදි-සිසුවියගේ-නිරුවත්-ඡායාරූප-අන්තර්ජාලයට-එක්කළ 18-හැවැරිදි-සිසුවා-අල්ලයි/11-409872) · `si`
 
-දහ හත් හැවිරිදි පාසල් සිසුවියකගේ නිරුවත් ඡායාරූප අන්තර්ජාලය හරහා පළ කළ බව පැවසෙන දහ අට හැවිරිදි පාසල් සිසුවකු  අත්අඩංගුවට ගත් බව මත්තේගොඩ පොලිසිය පවසයි.
+A 10-year-old schoolgirl's nude photos were posted online by her 18-year-old ex-boyfriend from Nugegoda, leading to his arrest on March 18th. The suspect, who also had relationships with other underage girls, was caught after complaints from concerned individuals.
 
-මෙසේ අත්අඩංගුවට ගෙන ඇත්තේ නුගේගොඩ ප්‍රදේශයේ පදිංචි (18) හැවිරිදි පාසල් සිසුවකු බව පොලීසිය කියයි.
+🟩
 
-අත්අඩංගුවට ගත් සැකකරු නුගේගොඩ ප්‍රදේශයේ  උපකාරක පන්තියකට යමින් සිටියදී මත්තේගොඩ කුඩමාදූව ප්‍රදේශයේ සිට පැමිණි 17 හැවිරිදි පාසැල් සිසුවියක සමඟ ප්‍රේම සබඳතාවක් පවත්වාගෙන ගොස් තිබේ. මේ අතරතුරදී පෙම්වතා කිසියම් ඖෂධ වර්ගයක් පානය කරන බව දැන ගෙන ඒ පිළිබඳව විපරම් කිරීමේදී පෙම්වතාට නිදන්ගත රෝගයක් හට ගෙන ඇතැයි දැනගැනීම නිසා ප්‍රේම සම්බන්ධතාවය නවතාලීමට පාසල් සිසුවිය කටයුතු කර තිබේ.
+An eighteen-old schoolgirl, the Mattegoda Police said that a 10-year-old schoolgirl was posted on the Internet.
 
-පසුව ඇය වෙනත් තරුණයකු සමග ප්‍රේම සම්බන්ධතාවයක්  ආරම්භ කර තිබේ.
+The suspect is a resident of Nugegoda (18).
 
-මේ බව දැනගත් තරුණයා ප්‍රේම සම්බන්ධතාවය පවත්වාගෙන ගිය  කාලය තුළදී වීඩියෝ කෝල් ගන්නා අවස්ථාවල දි පාසල් සිසුවියගේ නිරුවත් ඡායාරූප ස්ක්‍රීන්ෂොට් හරහා ලබාගෙන තිබූ අතර එම ඡායාරූප  ප්‍රේම සම්බන්ධතාවය නැවැත්වීමෙන් පසුව ඉන්ස්ටග්‍රෑම් ඔස්සේ අන්තර්ජාලයට මුදාහැර තිබේ.
+The suspect was heading to a tuition class in Nugegoda and had a romance with a 17 year old schoolgirl from Kudamaduwa, Mattegoda.. In the meantime, the boyfriend has taken a chronic illness while learning that a boyfriend is drinking a drug.
 
-...
+Later, she started a love relationship with another young man.
+
+The young man who was involved in the romance connection was obtained through a romance connection, the school girl had been taken from the school.
+
+The suspect was arrested following a complaint lodged by the police in connection with several friends who had seen this to the school girl.
+
+◼️
 
 [Data](articles/0840efdf.json)
+
+[Extended Data](ext_articles/0840efdf.ext.json)
 
 ---
 
@@ -1980,19 +2018,25 @@ Testing measures were carried out that all passengers were evacuated through eme
 
 ---
 
-### තවමත් මුහුදු යන්න එපා
+### Still don't go to sea
 
 *2024-05-28 12:14:22* · [`adalk`](https://www.ada.lk/breaking_news/තවමත්-මුහුදු-යන්න-එපා/11-409865) · `si`
 
-නැවත දැනුම් දෙන තුරු ධීවර සහ නාවුක කටයුතුවලින් වැළකී සිටින ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුවෙන් උපදෙස්.
+The Meteorological Department warns against sailing near the Arabian Sea due to potential high winds exceeding 70 km/h. This advisory extends to fisheries and naval units operating in these areas, urging caution.
 
-සක්‍රීය වී ඇති නිරිත දිග මෝසම් තත්ත්වය හේතුවෙන් දිවයින වටා මුහුදු ප්‍රදේශවල, බෙංගාල බොක්ක මුහුදු ප්‍රදේශයේ සහ අරාබි මුහුදු ප්‍රදේශයේ මුහුදු ප්‍රදේශ රළු විය හැකි බවත් මෙම කලාපය තුළ විටින් විට පැයට කිලෝමීටර 60 ක් 70 ත් අතර වේගයකින් සුළං ඇතිවිය හැකි බවත් කාලගුණ විද්‍යා දෙපාර්තමේන්තුව නිවේදනය කර ඇත.
+🟩
 
-බැවින් නැවත දැනුම් දෙන තුරු දිවයින වටා මුහුදු ප්‍රදේශවල ධීවර සහ නාවුක කටයුතු වපින් වැලකී සීටින ලෙස ධීවර සහ නාවුක ප්‍රජාවට උපදෙස් නිකුත් කළ නිවේදනය තවදුරටත් දීර්ග කර ඇත.
+Advice from the Department of Meteorologicals to avoid being again informed.
+
+The Meteorological Department (Metary) has announced that the sea areas around the Bay of Bay of Bay and the Bay of Bay of Bay of the Arabian area around the island, which is enabled, can be rough at times 70 kilometers per hour..
+
+Since it was notified, it was further extended to the Fisheries and Navy to the Fisheries and Navy as cerened by sea areas and navy.
 
 ◼️
 
 [Data](articles/6fb38502.json)
+
+[Extended Data](ext_articles/6fb38502.ext.json)
 
 ---
 
@@ -2040,23 +2084,31 @@ When Minister Ranatunga tried to pass along the road, the protesters on both sid
 
 ---
 
-### රුපියල් 500 ක් හොරෙන් ගත්තැයි මල්ලී අයිියාට පහරදී ඝාතනය කරලා
+### Mally Iiwa was assaulted by the brother who secretly stole Rs
 
 *2024-05-28 12:05:58* · [`adalk`](https://www.ada.lk/breaking_news/රුපියල්-500-ක්-හොරෙන්-ගත්තැයි-මල්ලී-අයිියාට-පහරදී-ඝාතනය-කරලා/11-409864) · `si`
 
-රුපියල් 500 ක් හොරෙන් ගත්තැයි වැඩිමහල් සොහොයුරාට අතින් පයින් පහරදී ඝාතනය කල බවට සැකපිට පුද්ගලයකු අත්අඩංගුවට ගත්බව පින්වත්ත පොලිසිය පවසයි.
+A 48-year-old man from Trothlicamagama Road was assaulted by his elder brother over money, leading to his hospitalization. The elder brother, suspected of theft, was arrested. Investigations reveal the assault occurred on the 13th, and the victim died on the 21st at Panadura Base Hospital. The police chief inspector has also been arrested, with further inquiries being conducted by Chamil Ratnayake and Kamal Jayanetti.
 
-මෙසේ අත්අඩංගුවට ගෙන ඇත්තේ පින්වත්ත උපෝසථාරාම පාරේ පදිංචි  48 හැවිරිදි පුද්ගලයෙකු බව පොලිසිය කීය.
+🟩
 
-පින්වත් උපෝසථාරාම පාරේ පදිංචිව සිටි ජයන්ත සිල්වා නමැති 52 හැවිරිදි පුද්ගලයෙකු පානදුර මූලික රෝහලේ ප්‍රතිකාර ලබමින් සිටියදී මියගොස් තිබුණි.
+The elder brother has been arrested on suspicion that the elder brother was killed and killed by the elder brother.
 
-සැකකරු, මියගොස් ඇති වැඩිමහල් සොයුරා සහ මව සමඟ නිවසේ පදිංචිව  සිටින අතර, රුපියල් 500 ක් සොරකම් කිරීම සම්බන්ධයෙන් දෙදෙනා අතර  ඇතිවූ කතාබහක් දුරදිග යාමෙන් සිය වැඩිමහල් සොහොයුරාට ඉකුත් 13 දා පහර දී ඇති බව පොලිස් පරීක්ෂණවලදී අනාවරණය වී තිබේ.
+The arrested persons were a 48 year old resident of the Trothlicamagama Road, Pingathanarama Road.
 
-පහර කෑමෙන් තුවාල ලබා සිටි තැනැත්තා ඉකුත් 21 දා පානදුර මූලික රෝහලේදී  මියගොස් ඇති අතර, පශ්චාත් මරණ පරීක්ෂණයේදී අනාවරණය වූ කරුණු මත ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක පත්ම නන්දන මහතාගේ මෙහෙයවීමෙන් සැකකරු අත්අඩංගුවට ගෙන තිබේ.
+Jayantha Silva, a 52-year-old man, who was residing at the Trotshalama Road, had been treated at the Panadura Base Hospital.
 
-...
+Police investigations have revealed that his elder brother had been assaulted by his elder brother on the 13th of taking over 500 rupees regarding the death of Rs.
+
+The injured was killed at the Panadura Base Hospital on the 21st and the OIC Chief Inspector of Police (Master) has been arrested by the Chief Inspector of Police.
+
+Chamil Ratnayake and Assistant Superintendent of Police Kamal Jayanetti are conducting further investigations by Hon.
+
+◼️
 
 [Data](articles/f6ff26fc.json)
+
+[Extended Data](ext_articles/f6ff26fc.ext.json)
 
 ---
 
@@ -2323,25 +2375,5 @@ Although the applications of the scholarship program are ended on May 22, the da
 [Data](articles/2c6b24b5.json)
 
 [Extended Data](ext_articles/2c6b24b5.ext.json)
-
----
-
-### Hold referendum to extend terms of President, Parliament: UNP
-
-*2024-05-28 11:28:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Hold-referendum-to-extend-terms-of-President-Parliament-UNP/108-283511) · `en`
-
-Colombo, May 28 (Daily Mirror) - United National Party (UNP) headed by President Ranil Wickremesinghe today suggested holding a referendum to extend the term of the President and Parliament for two more years.
-
-The proposal was made by UNP General Secretary Palitha Range Bandara today.
-
-"Extending the terms of the President and Parliament by two more years through a referendum is the best option at this moment to save the nation. The Government has reached agreements with the IMF, World Bank and other donors on economic reforms and it is essential to extend the terms of the President and Parliament to make this exercise a success,. Stabilizing the economy is more important than anything," Range Bandara told the media.
-
-"We propose a referendum to extend the terms of the President and Parliament as it is the most democratic way to do it," he added.
-
-◼️
-
-[Data](articles/a05b7753.json)
-
-[Extended Data](ext_articles/a05b7753.ext.json)
 
 ---

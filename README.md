@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-28 10:06:34**
+As of **2024-05-28 10:18:48**
 
 ## Newspaper Stats
 
-*Scraped **26,722** Articles*
+*Scraped **26,726** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 1,453
 economynextcom | 1,525
 dailyftlk | 1,567
 adalk | 2,273
-adaderanalk | 3,056
-tamilmirrorlk | 3,128
+adaderanalk | 3,058
+tamilmirrorlk | 3,130
 virakesarilk | 4,091
 dailymirrorlk | 4,214
 adaderanasinhalalk | 4,284
@@ -26,23 +26,49 @@ adaderanasinhalalk | 4,284
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,715 (100.0%) of 26,722 articles have been extended.
+26,722 (100.0%) of 26,726 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-28 (Tuesday)
 
-### தொழில்நுட்ப கோளாறு ; பிரதான மார்க்கத்தில் ரயில் தாமதம்!
+### Technical disorder;Train delay in main route!
 
 *2024-05-28 09:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/184658) · `ta`
 
-வந்துரவ மற்றும் வெயங்கொடை ரயில் நிலையங்களுக்கு இடையில் அலுவலக ரயிலில் ஏற்பட்ட தொழில்நுட்ப கோளாறு காரணமாக பிரதான மார்க்கத்தில் ரயில் தாமதம் ஏற்பட்டுள்ளதாக ரயில்வே கட்டுப்பாட்டு பிரிவு தெரிவித்துள்ளது.
+A technical failure caused delays on the main route between Vandavara and Vayankoda, affecting both the office train and the Pouzi office train due to mechanical issues.
 
-மேலும், பவுசி அலுவலக ரயிலிலேயே இயந்திரக் கோளாறு ஏற்பட்டுள்ளதாக ரயில்வே கட்டுப்பாட்டு பிரிவு தெரிவித்துள்ளது.
+🟩
+
+The Railway Control Division has said that there was a delay in the main route due to a technical failure of the office train between Vandavara and Vayankoda railway stations.
+
+In addition, the Railway Control Division said that the Pouzi office train had a mechanical problem.
 
 ◼️
 
 [Data](articles/a8576257.json)
+
+[Extended Data](ext_articles/a8576257.ext.json)
+
+---
+
+### உயிரிழந்த சிசு - DNA பரிசோதனைக்கு நீதவான் உத்தரவு
+
+*2024-05-28 09:40:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உயிரிழந்த-சிசு-DNA-பரிசோதனைக்கு-நீதவான்-உத்தரவு/175-338003) · `ta`
+
+மாத்தறை புதிய மாவட்ட பொது வைத்தியசாலையில் உயிரிழந்த சிசுவின் அடையாளத்தை உறுதிப்படுத்த DNA பரிசோதனையை மேற்கொள்ளுமாறு மாத்தறை பிரதான நீதவான்  அருண புத்ததாச இன்று உத்தரவிட்டுள்ளார்.
+
+தமது சிசு தொடர்பில் டி.என்.ஏ பரிசோதனை செய்யுமாறு பெற்றோர்கள் கோரியபோது, ​​வைத்தியசாலையின் பணிப்பாளர் அதற்கு எதிர்ப்புத் தெரிவித்த பின்னணியில் இந்த உத்தரவு பிறப்பிக்கப்பட்டுள்ளது.
+
+மாத்தறை பிரதான நீதவான் அருண புத்ததாச வைத்தியசாலைக்கு வந்து, வைத்தியசாலை அதிகாரிகள் பெற்றோரிடம் காட்டியதாகக் கூறப்படும் சிசுவின் சடலத்தை பரிசோதனைக்கு உட்படுத்தியதன் பின்னர் நீதவான்  இந்த உத்தரவை வழங்கினார்.
+
+மாத்தறை வெலிகம பகுதியைச் சேர்ந்த 24 வயதான காவிந்த்யா மதுஷானி தனது முதல் குழந்தையைப் பெற்றெடுப்பதற்காக மாத்தறை புதிய மாவட்ட பொது வைத்தியசாலையில் கடந்த 22ஆம் திகதி அனுமதிக்கப்பட்டார்.
+
+மதுஷானி வைத்தியசாலை அனுமதிக்கப்பட்ட தினமே குழந்தையை பிரசவித்திருந்த நிலையில்,   குழந்தை இறந்துவிட்டதாக வைத்தியசாலை அதிகாரிகள் தெரிவித்தனர்.
+
+...
+
+[Data](articles/4522a9a7.json)
 
 ---
 
@@ -66,19 +92,25 @@ The woman was arrested as' Wellampitiya Kuda Queen 'with 7 grams of heroin yeste
 
 ---
 
-### டெல்லியில் விமானத்திற்கு வெடிகுண்டு மிரட்டல்
+### Bomb threatening to aircraft in Delhi
 
 *2024-05-28 09:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/184659) · `ta`
 
-டெல்லியில் விமானத்திற்கு வெடிகுண்டு மிரட்டல் கொடுக்கப்பட்ட சம்பவத்தைத் தொடர்ந்து பயணிகள் அவசரமாக வெளியிடப்பட்டது பரபரப்பை ஏற்படுத்தியுள்ளது.
+A bomb threat forced an Indigo flight from Varanasi to evacuate passengers in Delhi. The plane was moved to a secure area, and bomb experts are conducting checks.
 
-டெல்லியில் இருந்து வாரணாசி செல்வதற்காக இன்று செவ்வாய்க்கிழமை காலை விமானம் புறப்பட தயாராக இருந்த நிலையில், இண்டிகோ நிறுவனத்திற்கு விமானத்தில் வெடிகுண்டு வைக்கப்பட்டுள்ளது என மிரட்டல் வெளியானது.
+🟩
 
-தகவலறிந்து விமான நிலைய அதிகாரிகள், பொலிஸார்  விமானத்தை தனி இடத்துக்கு கொண்டு சென்றுள்ளனர். பயணிகள் அவசர வழியில் வெளியேற்றப்பட்டனர். தொடர்ந்து விமானம் முழுமையாக வெடிகுண்டு நிபுணர்களால் சோதனைக்கு உட்படுத்தப்பட்டு வருகிறது.
+The emergency release of passengers has caused a stir in the wake of the bomb threatening to the aircraft in Delhi.
+
+Indigo was threatened to have a bomb on Tuesday morning to leave Varanasi from Delhi.
+
+Airport officials and police took the aircraft to a separate place. Passengers were evicted in an emergency way. The aircraft is constantly being tested by bomb experts.
 
 ◼️
 
 [Data](articles/39b45868.json)
+
+[Extended Data](ext_articles/39b45868.ext.json)
 
 ---
 
@@ -110,77 +142,159 @@ A resident of the Wandurassa area has been arrested in the Wandurassa area regar
 
 ---
 
-### முல்லைத்தீவு, தியோநகர் மீனவர்களின் போராட்டம் தற்காலிகமாக நிறைவு
+### Mullaitivu and Tiyonagar fishermen are temporarily completed
 
 *2024-05-28 09:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/184657) · `ta`
 
-முல்லைத்தீவு, தியோநகர் பகுதியில் பிரதான வீதியினையும், கடற்கரையினையும் இணைக்கும்  இணைப்பு வீதியானது சில தரப்பினரால் மறித்து வேலி இடப்பட்ட சம்பவம் ஒன்று ஞாயிற்றுக்கிழமை (26) இடம்பெற்றது.
+Fishing communities in Mullaitivu faced disruption due to road damage and fencing by a private company, hindering their livelihoods. Villagers protested, demanding solutions from authorities. The protest was temporarily halted after meetings with officials, with plans to resume after two weeks.
 
-முல்லைத்தீவு கரையோரக் கிராமங்களில் ஒன்றான தியோநகர் பகுதியில் பிரதான வீதியினையும், கடற்கரையினையும் இணைக்கும் குறித்த வீதியூடாகவே கிராம மக்கள்  மீன்பிடிக்குச்செல்வது வழக்கமானதாகும்.
+🟩
 
-இந்நிலையில் திங்கட்கிழமை (27) மீனவர்கள் தொழிலுக்கு செல்லும் வீதியினது வேலி அடைக்கப்பட்டு கற்கள் போடப்பட்டு மூடப்பட்டுள்ளது. அதனையடுத்து   மக்கள் கிராம மக்கள் ஒன்று கூடி குறித்த வீதித்தடைகள் வேலிகளை அகற்றியிருந்தனர்.
+An incident took place on Sunday (26) that the connecting road connecting the main road and the coast in Mullaitivu, Mullaitivu, was destroyed by some parties.
+
+It is customary for the villagers to go fishing through the road connecting the main road and the coast of Diyonagar, one of the villages of Mullaitivu.
+
+In this case, the fence of the fishermen on the road was closed and closed on Monday (27). Subsequently, the villagers gathered together and removed the streets.
+
+குறித்த பகுதியில் சுற்றுலாத்தளம் ஒன்றினை அமைத்துள்ள  தனியார் நிறுவனம் ஒன்று தொடர்ச்சியாக  அப்பகுதி மீனவர்களுக்கு தொழில் செய்யவிடாமல் தொல்லை கொடுத்து வருவதாகவும், குறித்த கிராம மக்களின் மீன்பிடிப்படகுகள் வலைகளை உள்ளே வைத்தே பாதையினை அடைத்ததாகவும் கரையோரத்தில் மீன்பிடிப்பதற்கு சுதந்திரமாக விடுவதில்லை என்றும், இது தொடர்பாக அதிகாரிகளுக்கு முறையிட்டும் பயன் கிடைக்கவில்லை என்றும்  தமக்கான நிரந்தரத்தீர்வு கிடைக்கும் வரை  தொடர் போராட்டத்தில் ஈடுபட இருப்பதாகவும் அப்பகுதி மக்கள் தெரிவித்திருந்தனர்.
 
 ...
 
 [Data](articles/df93a98d.json)
 
+[Extended Data](ext_articles/df93a98d.ext.json)
+
 ---
 
-### துருக்கியில் வாகனங்கள் மீது பஸ் மோதி விபத்து ; 10 பேர் பலி ; 39 பேர் காயம்
+### Bomb scare on IndiGo flight at Delhi airport, all 176 passengers evacuated
+
+*2024-05-28 09:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/99482/bomb-scare-on-indigo-flight-at-delhi-airport-all-176-passengers-evacuated) · `en`
+
+A Varanasi-bound IndiGo flight today received a bomb threat at the Delhi airport, prompting authorities to inspect the plane, officials said.
+
+The flight, 6E2211, was scheduled to take off from Delhi’s Indira Gandhi International Airport around 5 am and was stopped on the runway minutes before departure.
+
+“At 05:40 am, a phone call was received from the IGI airport regarding a bomb threat. A message ‘BOMB BLAST @30 MINUTES’ was written on a piece of paper inside the lavatory of the flight and was found by the pilot,” an official said.
+
+The aircraft, with 176 passengers onboard, was immediately taken to the isolation bay for further necessary action, the official said, adding that a quick response team was deployed, which has so far not found any suspicious items.
+
+All passengers were deboarded through the emergency door and are safe, the official said.
+
+...
+
+[Data](articles/f2c9d4b6.json)
+
+---
+
+### Bus collision on vehicles in Turkey;10 killed;39 people injured
 
 *2024-05-28 09:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/184656) · `ta`
 
-தெற்கு துருக்கியில் அதிவேக வீதியில் பயணிகள் பஸ் ஒன்று வாகனங்கள் மீது மோதி விபத்துக்குள்ளானதில் 10 பேர் உயிரிழந்துள்ளதோடு, 39 பேர் காயமடைந்துள்ளதாக அந்நாட்டு அதிகாரிகள் திங்கட்கிழமை தெரிவித்தனர்.
+A passenger bus crash in South Turkey resulted in 10 deaths and 39 injuries. The accident involved a collision with another vehicle during heavy rain, leading to further crashes involving a lorry and three other vehicles. Eight of the injured were critically hurt.
 
-துருக்கியின் தென்கிழக்கு நகரமான தியார்பாகிரில் இருந்து தெற்கில் உள்ள அதானாவுக்கு 28 பயணித்த அதிசொகுசு பஸ் ஒன்றே இவ்வாறு விபத்துக்குள்ளானது.
+🟩
 
-பலத்த மழை பெய்து கொண்டிருந்த போது பஸ் எதிர் திசையில் வந்து கொண்டிருந்த இரண்டு கார்கள் மீது மோதியது. அதனை தொடர்ந்து  லொறி ஒன்று மூன்று வாகனங்கள் மீது மோதி விபத்துக்குள்ளாகியுள்ளது.
+At least 10 people were killed and 39 injured when a passenger bus crashed into a bus on a high -speed road in South Turkey, officials said on Monday.
 
-காயமடைந்தவர்கள் அருகிலுள்ள வைத்தியசாலைக்கு கொண்டு செல்லப்பட்டனர், அவர்களில் குறைந்தது எட்டு பேரின் நிலை கவலைக்கிடமாக உள்ளது என தெரிவிக்கப்பட்டுள்ளது.
+The accident occurred from the southeastern city of Turkey to the 28 traveler from Tiyarbagir to Adana.
 
-தென்கிழக்கு நகரமான தியார்பாகிரில் இருந்து நாட்டின் தெற்கில் உள்ள அதானாவுக்குப் பயணித்த இன்டர்சிட்டி பேருந்தில் 28 பயணிகள் இருந்ததாக அனடோலு தெரிவித்துள்ளது.
+The bus crashed into two cars in the opposite direction while heavy rains. Following this, a lorry crashed into three vehicles.
+
+The injured were taken to a nearby hospital and at least eight of them were in critical condition.
+
+Anadolu said that there were 28 passengers on the intercity bus traveling from the southeastern city of Tiyarbagir to Adana in the south of the country.
 
 ◼️
 
 [Data](articles/5fa0a7c6.json)
 
+[Extended Data](ext_articles/5fa0a7c6.ext.json)
+
 ---
 
-### மட்டு. வெல்லாவெளியில் கிணற்றிலிருந்து ஆண் ஒருவரின் சடலம் மீட்பு
+### ‘அநுரவால் அரசாங்கத்தை திறம்பட நடத்த முடியாதென லால்காந்தவுக்குத் தெரியும்’
+
+*2024-05-28 09:19:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அநுரவால்-அரசாங்கத்தை-திறம்பட-நடத்த-முடியாதென-லால்காந்தவுக்குத்-தெரியும்/175-338001) · `ta`
+
+பாராளுமன்ற உறுப்பினர் அநுர குமார திஸாநாயக்கவால் அரசாங்கத்தை திறம்பட நடாத்த முடியாததென்பது தெரியுமென்பதால் தனது கட்சி ஆட்சிக்கு வருவதைத் தடுக்க அநுர தலைமை தாங்கும் தேசிய மக்கள் சக்தியின் உறுப்பினர் கே.டி. லால்காந்த முயல்வதாக ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் எஸ்.எம். மரிக்கார் தெரிவித்துள்ளார்.
+
+திங்கட்கிழமை நடைபெற்ற செய்தியாளர் மாநாட்டொன்றிலேயே இக்கருத்தை வெளிப்படுத்திய மரிக்கார், ஈரான் ஜனாதிபதி எப்ராஹிம் றைசியின் திடீர் மரணத்துக்கான அனுதாபச் செய்தியை தனது அலைபேசியிலிருந்து அநுர பிரதி செய்ததாகக் கூறியதுடன், அவ்வாறானவர் எவ்வாறு நாட்டை ஆளலாம் எனக் கேள்விக்குட்படுத்தினார்.
+
+◼️
+
+[Data](articles/e870465a.json)
+
+---
+
+### Body found inside a well in Wellawali
+
+*2024-05-28 09:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/99481/body-found-inside-a-well-in-wellawali) · `en`
+
+The body of an individual suspected to have been murdered has been recovered from a well near Wellawali Kalupalama in Mandoor, Wellawali.
+
+The body has been discovered according to information received by Wellawali Police last morning (27).
+
+The deceased has been identified as a 69-year-old resident of the Mandoor area.
+
+Investigations have revealed that the deceased had left home on May 26 to participate in a complaint sent to the Mediation Board regarding a dispute with neighbours, and that while he was returning home he had been hit on the head and thrown into the well by an individual or a group of persons.
+
+Wellawali Police are conducting further investigations to arrest the suspects in connection with the murder.
+
+◼️
+
+[Data](articles/5560ccac.json)
+
+---
+
+### Bore. Recovery of a male from well in Wellaveli
 
 *2024-05-28 09:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/184655) · `ta`
 
-மட்டக்களப்பு மாவட்டம் வெல்லாவெளிப் பொலிஸ் பிரிவுக்குட்பட்ட மண்டூர் பகுதியிலுள்ள வயல் வெளியில்  அமைந்துள்ள கிணறு ஒன்றிலிருந்து ஆண் ஒருவரின் சடலம் நேற்று திங்கட்கிழமை (27) மாலை  மீட்கப்பட்டுள்ளதாக வெல்லாவெளிப் பொலிஸார் தெரிவித்துள்ளனர்.
+In Wellaveli, a 69-year-old fish dealer named Thambrasa Padrasa was found dead in a well near the Mandur area. The discovery led to a police investigation, including a search by the Batticaloa Criminal Investigation Division and a visit by a magistrate. An autopsy was ordered at the Batticaloa Teaching Hospital, and a suspect was arrested.
 
-வெல்லாவெளி மண்டூர் பிரதான வீதியில் அமைந்துள்ள வயல் பகுதியில் உள்ள கிணறு ஒன்றில் சடலம் ஒன்று கிடப்பதாக பொலிஸாருக்கு கிடைத்த தகவலையடுத்து, சம்பவ இடத்திற்கு விரைந்த பொலிசார் விசாரணைகளை முன்னெடுத்திருந்தனர்.
+🟩
 
-இந்நிலையில் சம்பவ இடத்திற்கு வருகை தந்த களுவாஞ்சிகுடி நீதவான் நீதிமன்ற நீதிபதி ஏ.ரஞ்ஜித்குமார் முன்னிலையில் கிணற்றிலிருந்து சடலம் மீட்கப்பட்டுள்ளது.  சடலத்தை பார்வையிட்ட நீதிவான் மட்டக்களப்பு போதனா வைத்தியசாலைக்கு கொண்டு சென்று பிரேத பரிசோதனைக்குட்படுத்துமாறு உத்தரவிட்டுள்ளார்.
+The body of a man has been recovered from a well located outside the field in the Mandur area of the Batticaloa district Wellavelip police division, Wellaveli police said.
 
-மட்டக்களப்பு குற்றத்தடுப்பு பிரிவு பொலிஸார், சம்பவ இடத்திற்கு வரவளைக்கப்பட்டு, பொலிஸ் மோப்ப நாய் கொண்டு தேடுதல் நடவடிக்கையில் ஈடுபட்டிருந்தனர்.
+Police rushed to the scene after receiving information that a body was found in a well in a well in the Wellaveli Mandur main road.
+
+The body has been recovered from the well in the presence of Kaluwanchikudi Magistrate Court Judge A. Ranjit Kumar.  The magistrate who visited the body was taken to the Batticaloa Teaching Hospital and ordered the autopsy.
+
+The Batticaloa Criminal Investigation Division was summoned to the scene and was involved in a search operation with a police dog.
+
+The body of the body was identified as a 69 -year -old Thambrasa Padrasa, a fish dealer from Kottamunai Kottamunai area.. Police are conducting investigations on suspicion that the body is found in the body and that this may be a murder.
 
 ...
 
 [Data](articles/d821e3e6.json)
 
+[Extended Data](ext_articles/d821e3e6.ext.json)
+
 ---
 
-### பசறையில் குளவி கொட்டுக்கு இலக்கான நபர் உயிரிழப்பு
+### Dies
 
 *2024-05-28 09:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/184654) · `ta`
 
-பசறை பொலிஸ் பிரிவுக்குட்பட்ட மில்லபெத்த பிட்டகொலகம பகுதியில் குளவி கொட்டுக்கு இலக்காகி  ஒருவர் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+A 59-year-old man died after being stung by wasps while climbing a tree in his garden near Pittagolagama. He was taken to Hoppon Hospital but passed away before receiving treatment. Police, including E.M. Piyaratne, are investigating the incident.
 
-இந்த நபர் தனது தோட்டத்தில் மிளகு பறிப்பதற்காக மரம் ஒன்றில் ஏறி மிளகு பறித்து கொண்டு இருந்த போது  குளவி கூடு கலைந்து குளவி கொட்டுக்கு இலக்காகியுள்ளார்.
+🟩
 
-இந்நிலையில், ஹொப்டன் வைத்தியசாலையில் அனுமதிக்கப்பட்டு சிகிச்சை அளிக்கப்பட்ட போது சிகிச்சை பலனின்றி உயிரிழந்துள்ளார்.
+One person has died after being washed with a wasps in the Pittagolagama area of the Pasarai police division, police said.
 
-மில்லபெத்த பிட்டகொலகம பகுதியைச் சேர்ந்த 59 வயதுடைய நபர் ஒருவரே இவ்வாறு உயிரிழந்துள்ளதாக பசறை பொலிஸார் தெரிவித்தனர்.
+This person was a target of the wasp nest when he was climbing a tree to pluck pepper in his garden.
 
-மரணித்த நபரின் சடலம் லுணுகலை ஹொப்டன் வைத்தியசாலையில் வைக்கப்பட்டுள்ளதுடன், மேலதிக விசாரணைகளை பசறை பொலிஸ் நிலைய பொறுப்பதிகாரி E.M.பியரட்ண தலைமையிலான குழுவினர் விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
+In this case, Hoppon was admitted to the hospital and died without treatment.
+
+A 59 -year -old man from Millabetha Pittagolgama has died, according to Pasarai police.
+
+The body of the deceased has been placed at the Hoppon Hospital, Lunugala, and a delegation headed by a police officer in charge of the police station, E.M. Piyaratne, is conducting investigations.
 
 ◼️
 
 [Data](articles/dc2b898a.json)
+
+[Extended Data](ext_articles/dc2b898a.ext.json)
 
 ---
 
@@ -1778,19 +1892,25 @@ In addition, the water levels of Gin and Nilwala Runwala are also increasing.
 
 ---
 
-### මෛත්‍රී පාර්ශ්වය මෙහෙයුම් මධ්‍යස්ථානයක් අරඹයි
+### Maithri launches operating center
 
 *2024-05-27 18:55:52* · [`adalk`](https://www.ada.lk/breaking_news/මෛත්‍රී-පාර්ශ්වය-මෙහෙයුම්-මධ්‍යස්ථානයක්-අරඹයි/11-409857) · `si`
 
-ඉදිරි දේශපාන කටයුතු සිදුකිරීම සඳහා මේ සතිය තුළදී මෙහෙයුම් මධ්ය්ස්ථානයක් ආරම්භ කරන බවත්, පක්ෂ මූලස්ථානයට යෑමෙන් ගැටලුකාරී තත්වයක් නිර්මාණය වන  නිසා වෙනත් ස්ථානයක සිට අදාළ කටයුතු සිදුකරන බවත් ශ්රී  ලංකා නිදහස් පක්ෂයේ මෛත්රීිපාල සිරිසේන මහතාගේ පාර්ශ්වය පෙන්වා දෙයි.
+Maithri Sirisena, SLFP leader, announces an operating center launch, promising swift action for future politics. Professor Rohana Lakshman Piyadasa supports, urging quick political progress.
 
-එම පාර්ශ්වයට සහාය දක්වන දිස්ත්රිරක් නායකයන් හා ආසනවල නායකයෙන් කොළඹට කැඳවා  මේ සතිය තුළදී ඉදිරි කටයුතු පිළිබඳව සාකච්ඡා කිරීමට  තිරණය කර තිබෙන බවද මහාචාර්ය රෝහණ ලක්ෂ්මන් පියදාස මහතා සඳහන් කළේය.
+🟩
 
-ඉදිරි දේශපාලන කටයුතු ඉතාමත් ඉක්මනින් සිදු කළ යුතුව තිබෙන බවත්, මේ නිසා දිස්ත්රිඉක් හා ආසනවල නායකයන් කැඳවා අදාළ කටයුතු සිදුකිරීමට සැලසුම් කර තිබෙන බවත්  හෙතෙම පවසා සිටියේය.
+Sri Lanka Freedom Party (SLFP) Maithripala Sirisena states that action will be taken from any other location due to the future politician.
+
+Professor Rohana Lakshman Piyadasa said that he has summoned to Colombo from the leading and electorates to support the party.
+
+He said that the future politics should be carried out quickly.
 
 ◼️
 
 [Data](articles/58f3e41f.json)
+
+[Extended Data](ext_articles/58f3e41f.ext.json)
 
 ---
 
@@ -2095,105 +2215,5 @@ They have been doing many things in violation of the Indian Sri Lanka Accord.
 [Data](articles/9882602f.json)
 
 [Extended Data](ext_articles/9882602f.ext.json)
-
----
-
-### A clear answer to the politics of South Sri Lanka, which is questioned by our existence
-
-*2024-05-27 18:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/184618) · `ta`
-
-Professor Padmanathan challenges South Sri Lanka's politics denying Tamil existence, highlighting the ancient Nagas' contributions, including their language, culture, and practices like vegetarianism. He emphasizes the Nagas' widespread presence in Jaffna, their advanced agricultural techniques, and their use of metal and sea resources. This book aims to correct historical inaccuracies and support Tamil rights.
-
-🟩
-
-Professor Pathmanathan, in a manner that provides a strong response to the politics of South Sri Lanka, which deny the myth of Tamil in Sri Lanka, which deny the existence of the Tamil people;  Professor A Serveeswaran of the University of Colombo, A.
-
-He was speaking at the publication of a vision of a disappeared civilization at the Tamil Sangam in Colombo.
-
-He said that the founders of the Nagas spoke in the Tamil language today that the founders of Jaffna today have confirmed the vision of a disappeared civilization - the Adi -era Jaffna book.
-
-This book testifies the antiquity of vegetarianism in Sri Lanka.
-
-We know that this book is about the Nagadars, the North is called Nagadivu Naganadu.
-
-The Nagas did not identify themselves as Tamils but they spoke the Tamil language.
-
-The vision of Professor Padmanathan's united civilization talks about the Nagas living in the Northeast, especially Jaffna.
-
-There are many sources for their lives in Vadamarachchi.
-
-...
-
-[Data](articles/86e4dd3d.json)
-
-[Extended Data](ext_articles/86e4dd3d.ext.json)
-
----
-
-### Vegetable prices rise with rain
-
-*2024-05-27 17:57:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மரக்கறி-விலைகள்-மழையுடன்-எகிறியது/76-337992) · `ta`
-
-Inclement weather nationwide has led to a rise in vegetable prices, affecting both farmers' harvests and consumers' budgets. Retail prices for vegetables like Murunga Kai and eggplant have increased, causing dissatisfaction among consumers and restaurant owners alike.
-
-🟩
-
-Due to the inclement weather across the country, the prices of vegetables are increasing, the area vegetable vendors say.
-
-Vegetable agriculture has been severely affected by the current rains, and vegetable prices have risen due to lack of harvest.
-
-Retail sales Rs. 480, Murunga Kai Rs.160, eggplant Rs.
-
-Consumers and restaurant owners are very dissatisfied with the rise in vegetable prices.
-
-◼️
-
-[Data](articles/cdfec57a.json)
-
-[Extended Data](ext_articles/cdfec57a.ext.json)
-
----
-
-### Resistance to Employers Federation for Salary Increase
-
-*2024-05-27 17:38:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/சம்பள-உயர்வுக்கு-முதலாளிமார்-சம்மேளம்-எதிர்ப்பு/76-337990) · `ta`
-
-The Employers Federation opposes the government's plan to raise the minimum wage for plantation workers in tea and rubber by 70%, citing concerns during a media briefing in Colombo.
-
-🟩
-
-The Employers Federation has opposed the government's decision to increase the minimum wage of plantation workers in tea and rubber by 70 per cent.
-
-Speaking at a media briefing held at the Colombo-Renuka Hotel on Monday (27).
-
-◼️
-
-[Data](articles/64f2ef9d.json)
-
-[Extended Data](ext_articles/64f2ef9d.ext.json)
-
----
-
-### A looting at a supermarket in Colpetty
-
-*2024-05-27 17:35:08* · [`adalk`](https://www.ada.lk/breaking_news/කොල්ලුපිටියේ--සුපිරි-වෙළඳ-සංකීර්ණයක-කොල්ලයක්/11-409852) · `si`
-
-In Colpetty, a supermarket was robbed; a suspect fled with a bag containing firearms. A worker is under suspicion. CCTV captured the incident, now being investigated by Kollupitiya Police's OIC, Mr. Elunayake.
-
-🟩
-
-Kollupitiya Police say that a stranger has fled the bag with a firearm with a firearm with a firearm with a firearm with a firearm with a firearm.
-
-The person who had pistols showed a pistol type of pistol
-
-A suspicion has also been suspected of a person who works in the company regarding the robbery.
-
-The loot is also recorded at CC TV camera. The OIC of the Kollupitiya Police is investigating the instructions of Mr. Elunayake.
-
-◼️
-
-[Data](articles/c7900a2e.json)
-
-[Extended Data](ext_articles/c7900a2e.ext.json)
 
 ---

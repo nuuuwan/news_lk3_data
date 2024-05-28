@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-28 12:06:00**
+As of **2024-05-28 12:18:54**
 
 ## Newspaper Stats
 
-*Scraped **26,756** Articles*
+*Scraped **26,757** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,453
 economynextcom | 1,530
 dailyftlk | 1,567
-adalk | 2,275
+adalk | 2,276
 adaderanalk | 3,062
 tamilmirrorlk | 3,134
 virakesarilk | 4,094
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,291
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,745 (100.0%) of 26,756 articles have been extended.
+26,755 (100.0%) of 26,757 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -52,37 +52,53 @@ Accordingly, naval and fishing communities are also requested to be attentive to
 
 [Data](articles/2e70b9c2.json)
 
+[Extended Data](ext_articles/2e70b9c2.ext.json)
+
 ---
 
-### පොහොට්ටු කාර්යාලය ඉදිරිපිට උණුසුම් තත්ත්වයක්
+### A warm quality in front of the office
 
 *2024-05-28 11:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197104) · `si`
 
-බත්තරමුල්ල නෙළුම් මාවත ශ්‍රී ලංකා පොදුජන පෙරමුණු කාර්යාලය ඉදිරිපිට උණුසුම් තත්ත්වයක් ඇතිවිය.
+Protesters gathered outside the Sri Lanka General Front Office on Nelum Mawatha, Battaramulla, causing disruptions including obstructing Minister Prasanna Ranatunga. Civilian organizers were present to manage the situation.
 
-සිවිල් සංවිධාන ක්‍රියාකරුවන් කිහිපදෙනෙකු එම ස්ථානයට පැමිණ එම පක්ෂයට විරුද්ධව පොල් ගැසීමට කටයුතු කිරීමත් සමග මෙම තත්ත්වය ඇතිවිය.
+🟩
 
-එහිදී එම ස්ථානයෙන් ගමන්කළ අමාත්‍ය ප්‍රසන්න රණතුංග මහතාට ද විරෝධතාවයේ නිරත පිරිසගෙන් බාධා එල්ලවිය.
+Nelum Mawatha, Battaramulla, has been reported in front of the Sri Lanka General Front Office.
+
+This has arisen with several civilian organizers to arrive at the scene and take action against the party.
+
+Minister Prasanna Ranatunga was also obstructed from the protest.
 
 ◼️
 
 [Data](articles/e177e708.json)
 
+[Extended Data](ext_articles/e177e708.ext.json)
+
 ---
 
-### ICTபுலமைப்பரிசில் விண்ணப்ப முடிவுத் திகதி நீடிப்பு
+### ICT Scholarship Application Extension Date Date
 
 *2024-05-28 11:33:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ICTபுலமைப்பரிசில்-விண்ணப்ப-முடிவுத்-திகதி-நீடிப்பு/175-338012) · `ta`
 
-க.பொ.த (உயர்தர) தகவல் தொழிநுட்பத்தை ஒரு பாடமாக கற்கும் மாணவர்களுக்கு இலங்கைத் தொலைத்தொடர்பு ஒழுங்குபடுத்தல் ஆணைக்குழு மற்றும் ஜனாதிபதி நிதியம் இணைந்து வழங்கும் புலமைப்பரிசில் வேலைத்திட்டம் – 2024/2025 இற்காக விண்ணப்பங்கள் ஏற்றுக்கொள்ளப்படும் முடிவுத்திகதி ஜூன் மாதம் 07 ஆம் திகதி வரை நீடிக்கப்பட்டுள்ளது.
+The application deadline for the ICT Scholarship Program under the Ceylon Telecommunication Regulatory Commission and the Presidential Fund Scheme for 2024/2025 has been extended to June 07, 2023. This decision was made after receiving numerous requests from students facing administrative issues and adverse weather conditions, preventing them from submitting their applications before the original cutoff date of May 22, 2023.
 
-இந்தப் புலமைப்பரிசில் வழங்கும் திட்டம் மிக விரைவில் நடைமுறைப்படுத்தப்படவுள்ளதால் தகுதி பெற்றுள்ள மாணவ மாணவிகள் தமது விண்ணப்பங்களை உரிய முறையில் நிரப்பி குறித்த திகதிக்கு முன்னர் தமது பிரதேச கிராம உத்தியோகத்தர் மற்றும் செயலாளரின் பரிந்துரையுடன், வகுப்பாசிரியர், பாடசாலை அதிபர், மற்றும் வலயக் கல்விப் பணிப்பாளரின் பரிந்துரையுடன் செயலாளர், ஜனாதிபதி நிதியம், இலக்கம் 35, மூன்றாம் மாடி, லேக்ஹவுஸ் கட்டிடம், டீ. ஆர் விஜேவர்தன மாவத்தை, கொழும்பு 10 என்ற முகவரிக்கு பதிவுத் தபாலில் மாத்திரம் அனுப்பிவைக்கவும்.
+🟩
 
-கடித உரையின் இடது பக்க மேல் மூலையில் புலமைப்பரிசில் வேலைத்திட்டத்தின் பெயர் மற்றும் பாடசாலை உள்வாங்கப்பட்டுள்ள கல்வி வலயத்தின் பெயரையும் குறிப்பிட வேண்டும்.
+The Ceylon Telecommunication Regulatory Commission and the Presidential Fund Scheme - 2024/2025 Applications will be extended till June 07.
 
-...
+With the recommendation of the Divisional Grama Niladhari and Secretary of the Regional Grama Niladhari and Secretary, with the recommendation of the Divisional Grama Niladhari and Secretary, the Secretary, the President's Fund, No. 35, the third floor, the third floor, the third floor, the third floor, the third floor, the third floor, the third floor, the third floor, the third floor, the Lakehouse, Tea. Send R Wijewardena Mawatha to Colombo 10 in the registration post.
+
+The name of the scholarship program in the upper corner of the letter speech and the name of the educational zone in which the school is injected.
+
+Although the applications of the scholarship program are ended on May 22, the date has been extended at the request of a large number of students who cannot send applications due to various administrative problems and worse climate.
+
+◼️
 
 [Data](articles/2c6b24b5.json)
+
+[Extended Data](ext_articles/2c6b24b5.ext.json)
 
 ---
 
@@ -102,6 +118,8 @@ The proposal was made by UNP General Secretary Palitha Range Bandara today.
 
 [Data](articles/a05b7753.json)
 
+[Extended Data](ext_articles/a05b7753.ext.json)
+
 ---
 
 ### Woman arrested with heroin in Wellampitiya
@@ -115,6 +133,8 @@ The Police Special Task Force (STF) arrested the woman, identified by the alias 
 ◼️
 
 [Data](articles/1a7fc029.json)
+
+[Extended Data](ext_articles/1a7fc029.ext.json)
 
 ---
 
@@ -135,6 +155,8 @@ President of the Peliyagoda Central Fish Market Traders’ Association Jayasiri 
 ◼️
 
 [Data](articles/810f738f.json)
+
+[Extended Data](ext_articles/810f738f.ext.json)
 
 ---
 
@@ -165,6 +187,22 @@ The Irrigation Department is notable to care for the public as the Attanagalu Bu
 [Data](articles/6de2c536.json)
 
 [Extended Data](ext_articles/6de2c536.ext.json)
+
+---
+
+### අවදානයෙන් සිටින්න ජල මට්ටම එකවර අඩි තුනක් ඉහලට
+
+*2024-05-28 11:16:05* · [`adalk`](https://www.ada.lk/breaking_news/අවදානයෙන්-සිටින්න-ජල-මට්ටම-එකවර-අඩි-තුනක්-ඉහලට/11-409863) · `si`
+
+කලු ගඟේ ජලමට්ටම අද (28) දා උදේ පැය හතරක් ඇතුළත අඩි තුනකින් ඉහළ ගොස් සුලු ගංවතුර තත්ත්වයක් ඇතිවු බව පවසන රත්නපුර දිස්ත්‍රික් ලේකම් වසන්ත ගුණරත්න මහතා පහත්බිම් සහ ඒවට වෙසෙන ජනතාවටත් නායයාම් අවදානම් බවට අනතුරු අගවා ඇති ස්ථානවල පදිංචි ජනතාවටත් අවධානයෙන් සිටින ලෙස ඉල්ලීමක් කරයි.
+
+එහෙත් වර්ෂාවේ යම් අඩුවක් පෙන්නුම් කළේය. අද (28)දා පෙරවරු 05.30ට කලුගඟේ මුවගම ස්වයංක්‍රීය ජලමාපකයේ ජලමට්ටම අඩි 17යි අඟල් 09ක් විය. එය පෙරවරු 09.30 වනවිට අඩි 20යි අඟල් 10ක් විය.   වේ, හංගමු, ගලතුර, දෙනවක් සහ කුකුළේ යන ගංගා වල ද ජලමට්ටම් සැලකියයුතු අන්දමේ ඉහළ අගයක පවතී.
+
+සිරිපා අඩවියට තද වැසි ඇදහැලීම නිසා කලු ගඟේ සහ කුරු ගඟේ ජලමට්ටම් ඉහළ ගොස් ඇතිබව ද දිස්ත්‍රික් ලේකම්වරයා අවධාරණය කළේය. පසුගිය දින කිහිපය තුල ඇදහැලුණු මහ වැසි හේතුවෙන් ගංගා ඇලදොළ ආශ්‍රිත පහත්බ්ම් වල ජලය රැඳී පවතී. අද උදෑසන වන විට මිලි මීටර් 33.9ක වැඩිම වර්ෂාපතනයක් රත්නපුර දිස්ත්‍රික්කයෙන් වාර්තා විය.
+
+◼️
+
+[Data](articles/a6806f13.json)
 
 ---
 
@@ -387,6 +425,8 @@ Fitch Ratings – Colombo – 22 May 2024: Fitch Ratings has published Sri Lanka
 ...
 
 [Data](articles/ac67ef10.json)
+
+[Extended Data](ext_articles/ac67ef10.ext.json)
 
 ---
 
@@ -657,6 +697,8 @@ The Colombo Stock Exchange opened down. The All Share Price Index was down 0.06 
 ◼️
 
 [Data](articles/2bd460ab.json)
+
+[Extended Data](ext_articles/2bd460ab.ext.json)
 
 ---
 
@@ -1076,6 +1118,8 @@ The central bank said the effect of value added tax hike in the inflation index 
 
 [Data](articles/2781e10e.json)
 
+[Extended Data](ext_articles/2781e10e.ext.json)
+
 ---
 
 ### Vegetables and fish prices up by inclement weather
@@ -1137,6 +1181,8 @@ Planters’ Association strongly opposes Government’s arbitrary and ill-concei
 ...
 
 [Data](articles/4adca159.json)
+
+[Extended Data](ext_articles/4adca159.ext.json)
 
 ---
 
@@ -2193,27 +2239,5 @@ Earlier, President Ranil Wickremesinghe said that Elon Musk had sent an applicat
 [Data](articles/1f64b740.json)
 
 [Extended Data](ext_articles/1f64b740.ext.json)
-
----
-
-### Starlink internet pre-orders open in Sri Lanka
-
-*2024-05-27 21:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Starlink-internet-pre-orders-open-in-Sri-Lanka/155-283459) · `en`
-
-Colombo, May 27 (Daily Mirror) - Elon Musk's Starlink internet is now open for pre-order in Sri Lanka, with the public able to reserve Starlink by paying a fully refundable USD 9 deposit.
-
-Starlink aims to commence service in Sri Lanka in 2024, pending regulatory approval.
-
-Orders will be fulfilled on a first-come, first-served basis within each coverage area.
-
-Starlink’s Internet Constellation is one of the biggest breakthroughs in commercial satellite history. It brings nearly broadband-capable speeds and performance using a novel configuration of small satellites that work as a constellation while orbiting the Earth much lower than traditional satellites.
-
-Earlier, President Ranil Wickremesinghe said that Elon Musk had sent an application to launch the Starlink service in Sri Lanka and preliminary work to bring Starlink to Sri Lanka has been completed.
-
-◼️
-
-[Data](articles/af9237b4.json)
-
-[Extended Data](ext_articles/af9237b4.ext.json)
 
 ---

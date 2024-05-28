@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-28 22:05:55**
+As of **2024-05-28 22:18:40**
 
 ## Newspaper Stats
 
-*Scraped **26,900** Articles*
+*Scraped **26,901** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,539
 dailyftlk | 1,568
 adalk | 2,293
 adaderanalk | 3,074
-tamilmirrorlk | 3,151
+tamilmirrorlk | 3,152
 virakesarilk | 4,127
 dailymirrorlk | 4,241
 adaderanasinhalalk | 4,318
@@ -26,27 +26,45 @@ adaderanasinhalalk | 4,318
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,899 (100.0%) of 26,900 articles have been extended.
+26,900 (100.0%) of 26,901 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-28 (Tuesday)
 
-### ගංවතුර අවදානම ගැන යළිත් නිවේදනයක්
+### A/L பெறுபேறுகள் வெளியாகும் காலம் அறிவிப்பு
+
+*2024-05-28 21:51:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/A-L-பெறுபேறுகள்-வெளியாகும்-காலம்-அறிவிப்பு/175-338051) · `ta`
+
+2023ஆம் ஆண்டிற்கான கல்விப் பொதுத் தராதர உயர்தரப் பரீட்சையின் பெறுபேறுகளை இந்த வார இறுதியில் வெளியிடுவதற்கு எதிர்பார்த்துள்ளதாக இலங்கை பரீட்சைகள் திணைக்களத் தகவல்கள் தெரிவிக்கின்றன.  R
+
+◼️
+
+[Data](articles/e3f67223.json)
+
+---
+
+### Announcement about flood risk
 
 *2024-05-28 21:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197132) · `si`
 
-අත්තනගලු ඔය ද්‍රෝණිය සඳහා නිකුත් කළ ගංවතුර අනතුරු ඇඟවීමේ නිවේදනය ඉදිරි පැය 24 සඳහා ද දීර්ඝ කරන බව වාරිමාර්ග දෙපාර්තමේන්තුව පවසයි.
+Flood warnings issued for Attanagalu Oya and Black River; residents urged to prepare and protect infrastructure.
 
-මෙම තත්ත්වය ගැන දැඩි විමසිල්ලෙන් කටයුතු කරන ලෙස පහත්බිම්වල වෙසෙන ජනතාවගෙන් ඉල්ලා සිටී.
+🟩
 
-එම ප්‍රදේශවල මාර්ග සහ අතුරු මාර්ගවල ගමන් කිරීමේදී ආරක්ෂාකාරී වන ලෙස ද දැනුම්දෙයි.
+The Department of Irrigation says that the flood warning notification issued for the Attanagalu Oya.
 
-මේ අතර කළු ගඟේ කුඩා ගඟ ද්‍රෝණිය සඳහා නිකුත් කළ ගංවතුර අනතුරු ඇඟවීම ද ඉදිරි පැය 24 සඳහා දීර්ඝ කර තිබේ.
+The people living in the lowlands are asking to work in this situation.
+
+It is also notified to protect the roads and by roads in those areas.
+
+Meanwhile, the floods issued for the small river of the Black River have been extended to the next 24 hours.
 
 ◼️
 
 [Data](articles/b2887fee.json)
+
+[Extended Data](ext_articles/b2887fee.ext.json)
 
 ---
 
@@ -2331,27 +2349,5 @@ Accordingly, the Presidential Election should be held in October this year, the 
 [Data](articles/e03c4545.json)
 
 [Extended Data](ext_articles/e03c4545.ext.json)
-
----
-
-### Proposal to go to both elections
-
-*2024-05-28 13:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197109) · `si`
-
-The UNP proposes postponing the upcoming elections for two years to focus on economic recovery and fulfilling international agreements, avoiding a return to the financial state of 2022.
-
-🟩
-
-The United National Party says that the two-end elections should be postponed in two years.
-
-UNP General Secretary Palitha Range Bandara made this observation at a press conference held today.
-
-"Now there is now the bankruptcy rescued, build the economy of the country, we have our agreements with IMF and International Organizations. If we break these agreements, we will again go back to where there were 2022. So do we know and go to it?Or do you extend both of these two years to come to a common agreement?The President is not overwhelming. We say this. Don't waste a parliamentary vote and waste again. Put both two years, and within two years, these questions can be settled and go to the election. "
-
-◼️
-
-[Data](articles/a57fe582.json)
-
-[Extended Data](ext_articles/a57fe582.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-28 21:18:46**
+As of **2024-05-28 21:33:57**
 
 ## Newspaper Stats
 
-*Scraped **26,897** Articles*
+*Scraped **26,898** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,456
 economynextcom | 1,539
 dailyftlk | 1,568
-adalk | 2,292
+adalk | 2,293
 adaderanalk | 3,073
 tamilmirrorlk | 3,151
 virakesarilk | 4,127
@@ -26,25 +26,31 @@ adaderanasinhalalk | 4,317
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,895 (100.0%) of 26,897 articles have been extended.
+26,897 (100.0%) of 26,898 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-28 (Tuesday)
 
-### වාහන ආනයනය ගැන මහ බැංකුවේ ස්ථාවරය
+### The Central Bank's stand on imports
 
 *2024-05-28 21:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197131) · `si`
 
-වාහන ආනයන සීමා ක්‍රමානුකූලව ලිහිල් කිරීමට රජය තීරණය කරන්නේ නම් ඒ සඳහා විදෙස් සංචිත කළමනාකරණය කිරීමට මහ බැංකුවට හැකියාව ඇතැයි ශ්‍රී ලංකා මහ බැංකු අධිපති ආචාර්ය නන්දලාල් වීරසිංහ මහතා පවසයි.
+Dr. Nandalal Weerasinghe, Governor of the Central Bank of Sri Lanka, announced the bank's successful management of rural vehicle imports and its decision to keep policy interest rates unchanged. The bank has approved some vehicle imports and plans to continue easing restrictions, confident in its ability to handle foreign exchange.
 
-අද (28) පැවැති ප්‍රවෘත්ති සාකච්ඡාවකට එක්වෙමින් මහ බැංකු අධිපතිවරයා වැඩිදුරටත් ස﻿ඳහන් කළේ, මහ බැංකුව සිය ප්‍රතිපත්ති පොලී අනුපාතිකය තවදුරටත් නොවෙනස්ව පවත්වා ගැනීමට තීරණය කර ඇති බවය.
+🟩
 
-"සමහර වාහනවලට දැනටමත් ඉඩදීලා තිබෙනවා. වාහන ආනයනය ක්‍රමානුකූලව ලිහිල් කරන එක වැදගත් තීරණයක්. විදේශ විනිමය කළමනාකරණය කරන්න පුළුවන් කියන විශ්වාසය අපිට තිබෙනවා."
+Central Bank Governor Dr. Nandalal Weerasinghe says the Central Bank of Sri Lanka has been able to manage the rural management of vehicle imports.
+
+The Central Bank has further stated that the Central Bank has further stated that the Central Bank has decided to maintain its policy interest rates.
+
+"Some vehicles have already been allowed. An important decision to systematically relaxing vehicles. We have confidence that foreign exchange can manage. "
 
 ◼️
 
 [Data](articles/5ae5944c.json)
+
+[Extended Data](ext_articles/5ae5944c.ext.json)
 
 ---
 
@@ -65,6 +71,8 @@ The Minister said the train service is also in critical condition and said even 
 ...
 
 [Data](articles/e82a7716.json)
+
+[Extended Data](ext_articles/e82a7716.ext.json)
 
 ---
 
@@ -153,6 +161,24 @@ Lanza made this statement in the wake of UNP General Secretary Palitha Range Ban
 [Data](articles/5cc915bd.json)
 
 [Extended Data](ext_articles/5cc915bd.ext.json)
+
+---
+
+### ජා ඇළ මහා රන් කොල්ලයේ සැකකරු පැය 48කින් අල්ලයි
+
+*2024-05-28 20:21:39* · [`adalk`](https://www.ada.lk/breaking_news/ජා-ඇළ-මහා-රන්-කොල්ලයේ-සැකකරු-පැය-48කින්-අල්ලයි/11-409884) · `si`
+
+ජාඇල කණුවන සමූපාකාර ග්‍රාමීය බැංකුව තුල දින තුනක් රැඳී සිට සේප්පු කපා  රුපියල් කෝටි 4 කට ආසන්න වටිනා  කිලෝ 2 ක  බරින් යුත් රන් භාණ්ඩ තොගයක් සහ  රුපියල් ලක්ෂ දහයකට අධික මුදල් සොරාගත් පුද්ගලයා පැය 48 ක් යාමට මත්තෙන් කොල්ලූපිටිය ප්‍රසිද්ධ සමාජ ශාලාවක් අසලදී  හොරයින් මත්කුඩු මිලිගෑම් 11200 ක් සමග  අත්අඩංගුවට ගත් බව පෑලියගොඩ අපරාධ කොට්ඨාසය කියයි
+
+එම සැකකරුගෙන් සිදුකළ ප්‍රශ්න කිරීමේද  එම බැංකුවෙන් සොරාගෙන තිබූ ගනුදෙනුකරුවන් 500 කට  ආසන්න ප්‍රමාණයකගේ කිලෝ 2 කට ආසන්න බරින්  යුත් රන් භාණ්ඩ තොගය  , සේප්පු කැපීමට යොදාගත් , ගයින්ඩරය , අඬු , මිටි,  තල හා විදුලි පන්දම සහ එදින ඇඳ සිටි ඇඳුම් පැළඳුම් ද පොලිසිය මගින් සොයාගෙන ඇත
+
+ඊට අමතරව  සැකකරු එම සොරකම සඳහා යොදාගත් සුඛෝපභෝගී මෝටර් රථය ද පොලිස් භාරයට ගෙන ඇත
+
+ඉකුත් 25  වෙනිදින ජාඇල කණුවන ග්‍රාමීය බැංකුවේ කළමනාකාරිනිය දින දෙකකට පසු බැංකුව විවෘත කිරීම සඳහා පැමිණි අවස්ථාවේදී  බැංකුවේ පැති බිත්තියක් අඩි එකහමාරක පමණ විෂ්කම්භයකින් හාරා කිසියම් සොර කණ්ඩායමක් ඇතුලට පැමිණ සේප්පු කපා  රන් භාණ්ඩ ඇතුළු දේපළ සොරාගෙන ගොස් ඇති බවට ජාඇල පොලිසියට පැමිණිලි කර තිබිණි
+
+...
+
+[Data](articles/c8942a04.json)
 
 ---
 
@@ -2329,31 +2355,5 @@ Suddenly, the Testament to consult the Secretaries of four of the Ministry Secre
 [Data](articles/039529fe.json)
 
 [Extended Data](ext_articles/039529fe.ext.json)
-
----
-
-### Similarly, four North Central Provincial Sabhalaku chairs
-
-*2024-05-28 13:15:28* · [`adalk`](https://www.ada.lk/breaking_news/උතුරු-මැද-ප‍ළාත්-ස‍‍‍බාවේලොකු-පුටු-හතරක-වෙනසක්/11-409869) · `si`
-
-North Central Provincial Governor Herath has reorganized the secretaries of four Ministries within the North Central Provincial Council. Key appointments include Wijaya Wildlman moving from Fisheries and Lands to Food and Co-operatives. These changes took effect last Thursday, leaving the Ministry of Health unaffected. The move also involves consulting two officers promoted to special grades based on their performance, not their previous roles.
-
-🟩
-
-North Central Provincial Governor Herath has taken steps to amend the secretaries of four of the Ministries of the North Central Provincial Council.
-
-Accordingly, the secretary secretariat was the Secretary to the Chief Secretary of the North Central Provincial Council.Wijaya Wildlman, the Secretary to the Ministry of Fisheries and the Ministry of Fisheries and the Ministry of Lands has been appointed as the Secretary to the Secretary to the Ministry of Food and Co-operatives.Been appointed as.
-
-With the amendments of the Secretary of the Provincial Council, the newly appointed secretaries took the work of their positions on Thursday.
-
-The Ministry of Health is the only ministries that have not been amended this year and is still the Secretary to the Ministry.
-
-Suddenly, the Testament to consult the Secretaries of four of the Ministry Secretaries of the North Central Provincial Council regarding the amendment of the Ministry Secretaries.
-
-...
-
-[Data](articles/170a5835.json)
-
-[Extended Data](ext_articles/170a5835.ext.json)
 
 ---

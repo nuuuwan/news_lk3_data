@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-28 20:18:46**
+As of **2024-05-28 20:34:49**
 
 ## Newspaper Stats
 
-*Scraped **26,883** Articles*
+*Scraped **26,885** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,34 @@ economynextcom | 1,539
 dailyftlk | 1,568
 adalk | 2,290
 adaderanalk | 3,073
-tamilmirrorlk | 3,150
+tamilmirrorlk | 3,151
 virakesarilk | 4,122
 dailymirrorlk | 4,238
-adaderanasinhalalk | 4,314
+adaderanasinhalalk | 4,315
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,882 (100.0%) of 26,883 articles have been extended.
+26,883 (100.0%) of 26,885 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-28 (Tuesday)
+
+### ஜனாதிபதி ரணில் விக்ரமசிங்க அதிரடி உத்தரவு
+
+*2024-05-28 20:04:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-ரணில்-விக்ரமசிங்க-அதிரடி-உத்தரவு/175-338050) · `ta`
+
+சீரற்ற காலநிலையினால் பாதிக்கப்பட்ட மக்களுக்கு உடனடி நிவாரணங்களை வழங்குமாறும், அனர்த்த நிலைமை குறையும் வரை நிவாரணப் பணிகளை தொடருமாறும் ஜனாதிபதி ரணில் விக்ரமசிங்க உரிய அதிகாரிகளுக்கு பணிப்புரை விடுத்துள்ளார்.
+
+அதற்கமைய, அனர்த்த முகாமைத்துவ நிலையமும் உயிரிழந்த நபர்களுக்கு இழப்பீடு வழங்க நடவடிக்கை எடுத்துள்ளது. R
+
+◼️
+
+[Data](articles/33d120bc.json)
+
+---
 
 ### Promise of the Russian Ambassador of Sri Lanka
 
@@ -62,6 +76,28 @@ Foreign Minister Ali Sabri told Ada Derana that the Northern Province has decide
 
 ---
 
+### ජාවාරම්කරුවෙකුගේ කෝටි 10ක දේපොළ තහනම් කරයි
+
+*2024-05-28 19:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197128) · `si`
+
+මහා පරිමාණ මත්ද්‍රව්‍ය ජාවාරම්කරුවෙකු වන දිනේෂ් පෙරේරා නොහොත් කුඩු සනා නැමැත්තා මත්ද්‍රව්‍ය ජාවාරමෙන් උපයාගත් බව කියන මුදල්වලින් මිලදීගත් අධි සුඛෝපභෝගී නිවාස දෙකක් සහ මෝටර් රථ තුනක් පොලිසිය විසින් අද තහනම් කර තිබේ.
+
+එම දේපොළවල වටිනාකම රුපියල් කෝටි 10කට ආසන්න බව පොලීසිය පවසයි.
+
+මහා පරිමාණ මත්ද්‍රව්‍ය ජවාරම්කරුවකු වන දිනේෂ් පෙරේරා නොහොත් "කුඩු සනා" නමැත්තා සහ ඔහුගේ සහෝදරයා පසුගියදා මහනුවරදී අත්අඩංගුවට ගෙන අධිකරණයට ඉදිරිපත් කිරීමෙන් පසු රිමාන්ඩ් බන්ධනාගාරගත කරනු ලැබීය.
+
+අනතුරුව පොලිස් මත්ද්‍රව්‍ය නාශක කාර්යාංශය මගින් සැකකරුගේ දේපොළ පිළිබඳව විමර්ශනයක් සිදුකරන ලෙස නීතිවිරෝධී වත්කම් විමර්ශන කොට්ඨාශයට දැනුම්දී තිබුණි.
+
+ඒ අනුව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව භාර නියෝජ්‍ය පොලිස්පති රොහාන් ප්‍රේමරත්න මහතාගේ උපදෙස් මත නීති විරෝධී වත්කම් විමර්ශන කොට්ඨාසයේ අධ්‍යක්ෂ ජ්‍යෙෂ්ඨ පොලිස් අධිකාරී ලක්සිරි ගීතාල් මහතාගේ අධීක්ෂණය යටතේ විමර්ශනයක් ආරම්භ කළේය.
+
+එහි ප්‍රථිඵලයක් ලෙස අද දිනයේදී "කුඩු සනා" නමැත්තාට අයත් ගෝනපල ප්‍රදේශයේ පිහිටි කෝටි 2කට අධික වටිනාකමකින් යුත් සුඛෝපභෝගී නිවස මෙලෙස පවරාගනු ලැබීය.
+
+...
+
+[Data](articles/377e5403.json)
+
+---
+
 ### Who are favourites to win T20 World Cup in USA and WI
 
 *2024-05-28 19:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Who-are-favourites-to-win-T20-World-Cup-in-USA-and-WI/108-283538) · `en`
@@ -78,25 +114,39 @@ Perhaps the World Cup in the USA and WI could go down as one of the most unpredi
 
 ---
 
-### බැංකුවේ දින 3ක් රැඳී කොල්ලකෑ සැකකරු කොටුකළ සුපිරි මෙහෙයුම
+### The suspect who looked at 3 days in the bank
 
 *2024-05-28 19:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197127) · `si`
 
-ජාඇළ ප්‍රදේශයේ සමූපකාර ග්‍රාමීය බැංකුවකට ඇතුළුවී දින තුනක් එහි රැඳී සිටිමින් සේප්පු කපා මුදල් හා රන්භාණ්ඩ සොරාගත් පුද්ගලයෙක් පැය 48 ක් යාමටත් මත්තෙන් අත්අඩංගුවට ගැනීමට පෑලියගොඩ අපරාධ කොට්ඨාශය සමත්වී තිබේ.
+A suspect, after stealing cash and gold worth 2 kg from the Jaelian Rural Bank in Ja Ela, was tracked through CCTV footage and car registration details. Arrested from a Kollupitiya club, he confessed to the robbery and led authorities to stolen items, including a grinder used to break safes. The suspect, linked to various financial crimes and drug dealings, admitted to selling the stolen gold to buy a car.
 
-වෙසක් පෝය නිමිත්තෙන් දින හතරක බැංකු නිවාඩුවක් පවතිද්දී බැංකුවේ බිත්තිය කඩා සැකකරු ඊට ඇතුල්වී තිබුණි.
+🟩
 
-ජා ඇල, කණුවන පිහිටි සමූපකාර ග්‍රාමීය බැංකුවේ පැති බිත්තියක් අඩි එකහමාරක පමණ විෂ්කම්භයකින් හාරා සැකකරු ඊට ඇතුළුවී තිබුණේ වෙසක් පොහොය නිමිත්තෙන් දින කිහිපයක් එය වසා තිබියදීය.
+The Peliyagoda Crimes Division has passed 48 hours to get a man of cash and gold stolen from the Jaelian Rural Bank in Ja Ela.
 
-එහිදී රුපියල් කෝටි 4කට ආසන්න වටිනාකමකින් යුත් කිලෝ 2ක් බරැති රන් භාණ්ඩ තොගයක් සහ රුපියල් ලක්ෂ දහයකට අධික මුදලක් සොරාගෙන තිබූ අතර බැංකුවේ CCTV කැමරා පද්ධතියද සම්පූර්ණයෙන්ම ගලවාගෙන ගොස් තිබුණි.
+The bank's wall was entrusted with a four-day bank vacation at a four-day bank vacation.
 
-ඒ සම්බන්ධයෙන් පෑලියගොඩ අපරාධ කොට්ඨාසය විමර්ශනයක් ආරම්භ කළ අතර විමර්ශකයන්ගේ ප්‍රමුඛ අවධානය යොමුව තිබුණේ බැංකුවේ බිම වැටී තිබී සොයාගත් ග්‍රයින්ඩර් තල කිහිපයක් වෙතටය.
+The suspect has entered a side wall of Ja-Ela, a side wall of the Jaly, and entered the Vesak Poya while several days were closed for several days.
 
-සේප්පු කැපීමට යොදාගත් බවට සැකකෙරුණු එම ග්‍රයින්ඩර් තල චීනයෙන් ආනයනය කරන දෙල්ගොඩ ප්‍රදේශයේ පිහිටි ආයතනයක් වෙත ගිය පොලිසිය එහි කාර්යය මණ්ඩලයේ සහාය ලබාගෙන තිබුණි.
+There were a stock of gold and stolen of 2 kilograms of Rs.
+
+Peliyagoda Criminal Division Investigation
+
+The police went to an institution in Delgoda, who was used to cut the safest, had gone to a company in Delgoda, who imported the China.
+
+According to reports of them, a person has been observed in three cases of the CCTV cameras in the Ragama area.
+
+The suspects were revealed in the investigation of the car of the vehicle registration number in the car.
+
+Accordingly, the suspect was arrested from a public club in Kollupitiya.
+
+In his interrogation, he was part of the robbery jewelry that he was temporarily looted by the Jaela Rural Bank.
 
 ...
 
 [Data](articles/a983bf2d.json)
+
+[Extended Data](ext_articles/a983bf2d.ext.json)
 
 ---
 
@@ -2277,61 +2327,5 @@ Meanwhile, Central Bank Governor, Dr. Nandalal Weerasinghe said that the financi
 [Data](articles/5ad2b017.json)
 
 [Extended Data](ext_articles/5ad2b017.ext.json)
-
----
-
-### One killed, one dies after falling fishing vessel, one missing owners
-
-*2024-05-28 12:25:54* · [`adalk`](https://www.ada.lk/breaking_news/ධීවර-යාත්‍රාවක්-පෙර‍ළී-අයෙක්-මරුට--අයෙක්-අතුරුදන්-හිමිකරු-ගොඩබිමට-පීනයි/11-409866) · `si`
-
-A fisherman was killed, another fell off a fishing vessel and is critically injured, while a third remains missing. The incident occurred near Ahungalla, involving three fishermen from Balapitiya. The survivor is the vessel's owner. Authorities are investigating.
-
-🟩
-
-Ahungalla police say that a fisherman has been killed and another have disappeared today (28).
-
-The owner of the fishing vessel has survived. The deceased has been identified as Saktambi Earl Nishantha Kumara (46) from Balapitiya, Wijaraduma Road.
-
-Atapurdi Surendra Perera, a resident of Balapitiya Brahmana Estate. Three fishermen of the Balapitiya Crosspalastalli ferries have been sealed at around 5.30 this morning, police said.
-
-The police say that the people of Wijayarama Road, Balapitiya (28), has been landed on the landslide of the fishing vessels. Ahungalla Police are conducting further complainations.
-
-◼️
-
-[Data](articles/61dc5033.json)
-
-[Extended Data](ext_articles/61dc5033.ext.json)
-
----
-
-### Starlink: When will Sri Lanka receive Satellite Internet facilities?
-
-*2024-05-28 12:22:59* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/crggj9e97r4o) · `si`
-
-Sri Lanka is set to receive Starlink satellite internet services soon, with registration open on Starlink's official website. This comes after a meeting between President Ranil Wickremesinghe and Elon Musk on May 19. Starlink uses a network of low-orbit satellites to provide internet connectivity, bypassing the need for fiber optic cables. Despite concerns over market competition and national security, the government assures compliance with all requirements. The service aims to enhance connectivity, especially in remote areas, but affordability and data privacy remain key considerations.
-
-🟩
-
-Starlink: When will Sri Lanka receive Satellite Internet facilities?
-
-The world's famous business ownership of the world has now been able to order the facility of the country (on May 27).
-
-On their official website, Sri Lankans have the opportunity to register before the Starling online internet service for the refundability of repayment.
-
-President Ranil Wickremesinghe and Elon Musculars held a meeting between the 19th of May on May 19.
-
-Starlink Internet Service is a satellite-based internet system that has been located near the Earth's surface.
-
-Instead of using Fiber Optic cable, Starlinq, is used in thousands of small, lower orbitals for thousands of small, lower-orbitals.
-
-Simply put Starlink through radio waves, online data to the satellites in orbit, which leads to the users of the earth.
-
-Starlink satellite service may refer to the remote areas of the fiber optic cable.
-
-...
-
-[Data](articles/5168a185.json)
-
-[Extended Data](ext_articles/5168a185.ext.json)
 
 ---

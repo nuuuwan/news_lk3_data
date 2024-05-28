@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-29 00:18:50**
+As of **2024-05-29 00:33:50**
 
 ## Newspaper Stats
 
-*Scraped **26,915** Articles*
+*Scraped **26,919** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,21 +14,91 @@ bbccomsinhala | 268
 newsfirstlk | 363
 islandlk | 1,456
 economynextcom | 1,540
-dailyftlk | 1,568
+dailyftlk | 1,570
 adalk | 2,294
 adaderanalk | 3,075
 tamilmirrorlk | 3,154
 virakesarilk | 4,128
-dailymirrorlk | 4,248
+dailymirrorlk | 4,250
 adaderanasinhalalk | 4,319
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,914 (100.0%) of 26,915 articles have been extended.
+26,915 (100.0%) of 26,919 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-05-29 (Wednesday)
+
+### Is the Swiss auction legally valid?
+
+*2024-05-29 00:15:06* · [`dailyftlk`](https://www.ft.lk/opinion/Is-the-Swiss-auction-legally-valid/14-762274) · `en`
+
+We need to welcome foreign investment in meeting our energy demands and not subject them to selective outage
+
+Recently, Minister of Power and Energy Kanchana Wijesekara took to X, formally known as Twitter, to announce the conclusion of intense negotiation between the Government and Adani Group. Under this, the country will purchase power from wind plants built by the latter at 8.26 US cents a kilowatt hour for 20 years, to be paid in LKR on the prevailing exchange rate at the time of payment. “On the current exchange rate considered as, 1 USD = Rs 300, the cost of energy will be Rs 24.78 per kWh. The current average cost of energy in SL is Rs 39.02 per kWh,” the minister added on X.
+
+India’s Adani group has proposed to invest about $ 740 million in the country to set up two wind power projects with a cumulative generation capacity of 484 MW. The tariff is by far the best the country has seen, as is evident from the given table.
+
+...
+
+[Data](articles/d848b787.json)
+
+---
+
+### Tea and lack of empathy
+
+*2024-05-29 00:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Tea-and-lack-of-empathy/172-283565) · `en`
+
+For years, even before our country received independence, it was the income from the tea industry which formed the backbone of our country’s economy. Even after independence, it was the income from tea that provided the main export earnings that kept the economic wheels of the country turning.
+
+Even today tea provides the third highest portion of the Lankan economy behind the earnings of expatriate workers and the textile trade.
+
+Sri Lanka’s tea export earnings crossed US $ 1 billion for the first time in history in 2008. Sri Lanka is the first country to achieve this feat.
+
+During the financial year 2022 to 2023, according to the Sri Lanka Export Development Board, export earnings from tea made up 12% of merchandise exports, an increase of 3.57 % year-on-year (Y-o-Y) to US$ 111.12 Mn in December 2023 compared to December 2022.
+
+This is despite a drop in production in 2022 because of the industry being hit by a fertiliser shortage caused by an ill-advised agrochemical ban.
+
+...
+
+[Data](articles/655e05f1.json)
+
+---
+
+### From three-wheeler drivers to beach boys: Sri Lanka’s workforce transformation
+
+*2024-05-29 00:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/From-three-wheeler-drivers-to-beach-boys-Sri-Lankas-workforce-transformation/172-283566) · `en`
+
+To end the intergenerational degradation of the country’s youth, the government should create 250,000 university and vocational training opportunities. Else, we are doomed as a nation
+
+For a country that takes pride in its free education system, Sri Lanka has done a miserable job in putting its human capital to productive work.
+
+That is the story since the independence, but let’s leave the first three decades defined by quasi-socialist policies and skyrocketing fertility growths, which created enormous pressure on the state. But the story has not changed much since the economy was liberalized, and population growth is well under control- fertility growth now is barely at replacement level or less.
+
+One might observe a few concerted areas where the bulk of jobs were made available for the Sri Lankan youth during the last four decades.
+
+...
+
+[Data](articles/51eb3ae2.json)
+
+---
+
+### Corporate head office – creator or destroyer of value in a conglomerate
+
+*2024-05-29 00:07:33* · [`dailyftlk`](https://www.ft.lk/columns/Corporate-head-office-creator-or-destroyer-of-value-in-a-conglomerate/4-762272) · `en`
+
+The corporate centre of a conglomerate can be value accretive or value destructive to the conglomerate
+
+The best parent companies are those which create more value than any other rival if they owned the same business. Such businesses are deemed to have parenting advantage. In the same way that business strategy gives rise to competitive advantage, it is the corporate level strategy of a conglomerate which gives life to the parenting advantage of a constituent subsidiary. A business will enjoy a parenting advantage only if a parenting opportunity exists. When a corporate parent identifies such opportunities and addresses them with actions which give a positive net present value it will improve the value of the business and, subject to the idiosyncrasies of the market, improve the market value of the parent’s share too
+
+...
+
+[Data](articles/3f3a912f.json)
+
+---
 
 ### 2024-05-28 (Tuesday)
 
@@ -75,6 +145,8 @@ While explaining the situation, he said that the current budget only includes fi
 ...
 
 [Data](articles/3e171d89.json)
+
+[Extended Data](ext_articles/3e171d89.ext.json)
 
 ---
 
@@ -2209,105 +2281,5 @@ Police said the cause of the accident was the woman who drove the car.
 [Data](articles/fd67b69c.json)
 
 [Extended Data](ext_articles/fd67b69c.ext.json)
-
----
-
-### Abduction of male manager
-
-*2024-05-28 15:10:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஆண்-முகாமையாளரை-கடத்தி-வன்புணர்வு/76-338028) · `ta`
-
-A male supermarket manager was kidnapped, sexually assaulted, and filmed in a forest house. Robbed of 118,500 rupees, two mobile phones, a voucher ring, and watch, he was later abandoned. The incident occurred on the 23rd, with the manager being picked up from Ranavana Road, Katugastota, and taken to Venni. The culprits threatened not to report the assault to the police, delaying the complaint. Four suspects were arrested, and the van used in the abduction was seized. Further investigation is ongoing by the Katugastota police, aiming to bring the suspects to court.
-
-🟩
-
-An incident where a male manager was abducted, sexually abused and recorded as a video, and an incident in which he was abandoned and abandoned the manager.
-
-The manager of a supermarket station in Wadegama has been abducted and sexually assaulted in a house in the forest.
-
-1,18,500 rupees, two mobile phones, vouchee ring and wristwatch have been robbed from him.. Five days after the incident, the police have lodged a complaint. Subsequently, four persons have been arrested by the police on suspicion.
-
-On the evening of the 23rd, the manager was abducted by some people in the van on the evening of the Ranavana Road, Katugastota.  Investigations have also been found that the manager of the violence has taken him to Venni that night and fled the street.
-
-It is reported that the kidnappers have been delayed to lodge a complaint with the police as they threaten the video.
-
-...
-
-[Data](articles/7b9d6540.json)
-
-[Extended Data](ext_articles/7b9d6540.ext.json)
-
----
-
-### Kidnapped the male manager, the robbery
-
-*2024-05-28 15:10:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஆண்-முகாமையாளரை-கடத்தி-வன்புணர்ந்து-கொள்ளை/76-338028) · `ta`
-
-A male manager was kidnapped, sexually assaulted, and robbed of 118,500 rupees, two mobile phones, a voucher ring, and a wristwatch. The incident occurred near Wadegama, and the manager was later abandoned. Four suspects were arrested five days post-incident. The abduction took place on the 23rd, with the assailants threatening to release a video unless a complaint was filed. The police recovered the van used in the kidnapping and are investigating further.
-
-🟩
-
-An incident where a male manager was abducted, sexually abused and recorded as a video, and an incident where the manager was abandoned and the manager was abandoned.
-
-The manager of a supermarket station in Wadegama has been abducted and sexually assaulted in a house in the forest.
-
-1,18,500 rupees, two mobile phones, vouchee ring and wristwatch have been robbed from him.. Five days after the incident, the police have lodged a complaint. Subsequently, four persons have been arrested by the police on suspicion.
-
-On the evening of the 23rd, the manager was abducted by some people in the van on the evening of the Ranavana Road, Katugastota.  Investigations have also been found that the manager of the violence has taken him to Venni that night and fled the street.
-
-It is reported that the kidnappers have been delayed to lodge a complaint with the police as they threaten the video.
-
-...
-
-[Data](articles/7eab017e.json)
-
-[Extended Data](ext_articles/7eab017e.ext.json)
-
----
-
-### Government approves renovation of 52 bungalows belonging to Wildlife Conservation
-
-*2024-05-28 15:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Government-approves-renovation-of-52-bungalows-belonging-to-Wildlife-Conservation/108-283521) · `en`
-
-Colombo, May 28 (Daily Mirror) - Government approval was granted to renovate and improve the facilities at wildlife bungalows with the contribution of private sector organizations and parties who are interested in contributing voluntarily.
-
-While addressing the media, Cabinet spokesman and Minister Bandula Gunawardana said there are 25 such wildlife bungalows available currently.
-
-These bungalows situated in wildlife reservation areas are of national value, which helps attract tourists.
-
-He also mentioned that these activities should not contradict with the provisions of the Wildlife and Flora Ordinance.
-
-◼️
-
-[Data](articles/53018297.json)
-
-[Extended Data](ext_articles/53018297.ext.json)
-
----
-
-### Re -explanation for the accountant arrested with drugs in Kalmunai
-
-*2024-05-28 14:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/184673) · `ta`
-
-An accountant in Kalmunai was arrested for drug possession and distribution. The magistrate ordered a 14-day remand until June 10th after being charged. The arrest occurred on March 22nd, with 840mg of ice and 4g of cannabis found. The suspect previously worked for the Kalmunai Municipal Council and now works for the Ampara Regional Health Services Workshop.
-
-🟩
-
-The Kalmunai Magistrate has ordered that the suspect, who was detained and interrogated on charges of a long -standing drug distribution and use, has been remanded until June 10 for 14 days.
-
-It is noteworthy that the suspect was ordered to be remanded for 14 days as the case was taken up for hearing on Monday (27).
-
-The suspect was arrested on Monday night (22) night by a large Neelavana police in the Maruthamunai area on charges of a long -standing drug distribution and use.
-
-Recently, in the area of Maruthamunai Nagar, Ice and Cannabis have taken steps to arrest the accountant of the big Nilawana police, based on the affidavit of the suspect who was arrested with ice and cannabis drug.
-
-It is noteworthy that 840 mg of ice drugs were recovered from the accountant's ownership 4 grams and 540 mg.
-
-In addition, the suspect has been working as a former accountant of the Kalmunai Municipal Council and is currently working as an accountant of the Ampara Regional Health Services Workshop.
-
-◼️
-
-[Data](articles/bc142da6.json)
-
-[Extended Data](ext_articles/bc142da6.ext.json)
 
 ---

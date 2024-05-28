@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-28 15:18:44**
+As of **2024-05-28 15:34:08**
 
 ## Newspaper Stats
 
-*Scraped **26,800** Articles*
+*Scraped **26,802** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,38 +17,80 @@ economynextcom | 1,532
 dailyftlk | 1,568
 adalk | 2,281
 adaderanalk | 3,065
-tamilmirrorlk | 3,143
+tamilmirrorlk | 3,144
 virakesarilk | 4,104
-dailymirrorlk | 4,223
+dailymirrorlk | 4,224
 adaderanasinhalalk | 4,298
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,796 (100.0%) of 26,800 articles have been extended.
+26,800 (100.0%) of 26,802 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-28 (Tuesday)
 
-### Onmax මුදල් නැවත ගෙවීමේ ක්‍රමය අධිකරණයට දන්වන්නැයි නියෝග
+### ஆண் முகாமையாளரை கடத்தி வன்புணர்ந்து, கொள்ளை
+
+*2024-05-28 15:10:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஆண்-முகாமையாளரை-கடத்தி-வன்புணர்ந்து-கொள்ளை/76-338028) · `ta`
+
+ஆண் முகாமையாளர் ஒருவரை கடத்திச் சென்று, பாலியல் வன்புணர்ந்து, அதனை வீடியோவாக பதிவுச் செய்துக்கொண்டதன் பின்னர், அவரிடமிருந்த பெறுமதியான பொருட்களை அபகரித்துவிட்டு, முகாமையாளரை கைவிட்டுச் சென்ற சம்பவமொன்று கண்டி- வத்தேகம பொலிஸ் பிரிவில் இடம்பெற்றுள்ளது.
+
+வத்தேகம நகரிலுள்ள பல்பொருள் அங்காடி நிலையமொன்றின் முகாமையாளரே, இவ்வாறு கடத்திச் செல்லப்பட்டு, காட்டுப்பகுதியில் உள்ள வீடொன்றில் வைத்து பாலியல் வன்கொடுமைக்கு உட்படுத்தப்பட்டுள்ளார்.
+
+அவரிடமிருந்து 1,18,500 ரூபாய் பணம்,  இரண்டு அலைபேசிகள், வௌ்ளி மோதிரம் மற்றும் கைக்கடிகாரம் ஆகியன கொள்ளையிடப்பட்டுள்ளன. சம்பவம் தொடர்பில் ஐந்து நாட்களுக்குப் பின்னரே, பொலிஸில் முறைப்பாடு செய்யப்பட்டுள்ளது. அதனையடுத்து, சந்தேகத்தின்பேரில் நால்வரை கட்டுக்கஸ்தோட்டை பொலிஸார் கைது செய்துள்ளனர்.
+
+...
+
+[Data](articles/7eab017e.json)
+
+---
+
+### Government approves renovation of 52 bungalows belonging to Wildlife Conservation
+
+*2024-05-28 15:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Government-approves-renovation-of-52-bungalows-belonging-to-Wildlife-Conservation/108-283521) · `en`
+
+Colombo, May 28 (Daily Mirror) - Government approval was granted to renovate and improve the facilities at wildlife bungalows with the contribution of private sector organizations and parties who are interested in contributing voluntarily.
+
+While addressing the media, Cabinet spokesman and Minister Bandula Gunawardana said there are 25 such wildlife bungalows available currently.
+
+These bungalows situated in wildlife reservation areas are of national value, which helps attract tourists.
+
+He also mentioned that these activities should not contradict with the provisions of the Wildlife and Flora Ordinance.
+
+◼️
+
+[Data](articles/53018297.json)
+
+---
+
+### Court orders Court to inform Court informing the court repayment
 
 *2024-05-28 14:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197112) · `si`
 
-Onmax පිරමීඩ යෝජනා සැලැස්මට අදාළව මුදල් ආයෝජනය කර මේ වනවිට මුදල් අහිමිවී සිටින තැන්පත්කරුවන්ට එම මුදල් වසර දෙකක් තුළ ගෙවා අවසන් කිරීමට පියවර ගන්නා බව එම සමාගමේ අධ්‍යක්ෂවරුන් අද (28) කොළඹ මහෙස්ත්‍රාත් අධිකරණයට දැනුම්දී ඇති බව අප අධිකරණ වාර්තාකරු පැවසීය.
+The Anuradhapura Magistrate's court has been informed by its directors that the ONMAX Pyramid Scheme will repay its depositors within two years, totaling around US$18 billion. The court has also been advised that freezing bank accounts related to the company could hinder this repayment process. The court has ordered an investigation into the matter and is considering lifting the freeze on these accounts to facilitate the repayment plan.
 
-අදාළ පැමිණිල්ල අද කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් තිළිණ ගමගේ මහතා ඉදිරියේ කැඳවනු ලැබූ අවස්ථාවේදී එහි අධ්‍යක්ෂවරුන් වෙනුවෙන් පෙනී සිටි ජනාධිපති නීතිඥ අනුජ ප්‍රේමරත්න මහතා මෙම දැනුම්දීම සිදු කළේය.
+🟩
 
-ජනාධිපති නීතිඥ අනුජ ප්‍රේමරත්න මහතා වැඩිදුරටත් අධිකරණය හමුවේ කරුණු දක්වමින් සිය සමාගමේ මුදල් තැන්පත් කළ තැන්පත්කරුවන් 61,000කට මුදල් ගෙවීමට නියමිතව තිබෙන බව සඳහන් කර තිබේ.
+The directors of the Anuradhapura Magistrate has informed the Anuradhapura Magistrate today that the ONMAX Pyramid Scheme has been informed of the money and will be paid to the money to pay the money in two years.
 
-එසේ ගෙවිය යුතු මුදල් ප්‍රමාණය අමෙරිකානු ඩොලර් බිලියන 18 කට අසන්න බවත් ජනාධිපති නීතිඥවරයා සඳහන් කර සිටියේය.
+The complaint was held before Colombo Chief Thilina Gamage today, the President's Counsel, Order, Order Angeled for its directors.
+
+President's Counsel Angel Valraerathne said he was due to pay 61,000 depositors who deposited their money in court.
+
+The Presidential Counsel said that the amount of money owing to be paid is to ask US $ 18 billion.
 
 තම සමාගමට අදාළ බැංකු ගිණුම් මේ වනවිට අධිකරණය විසින් තහනමට ලක් කර තිබෙන බවත් එම තහනම ඉවත් කරන්නේ නම් වසර දෙකක් තුළ අදාළ මුදල් තැන්පත්කරුවන්ට නැවත ගෙවා අවසන් කිරීමට හැකි වනු ඇති බවත් ජනාධිපති නීතිඥවරයා පැවසීය.
+
+Attorney-at-Law Namal Rajapaksa, who appeared for the loss of the money, said that the defendants will be re-paid to their clients for about Rs.
 
 ...
 
 [Data](articles/97e1daf8.json)
+
+[Extended Data](ext_articles/97e1daf8.ext.json)
 
 ---
 
@@ -94,6 +136,8 @@ Speaking at a press conference today (28), he further stated that the interest r
 
 [Data](articles/37712829.json)
 
+[Extended Data](ext_articles/37712829.ext.json)
+
 ---
 
 ### Suspect arrested over murder of ‘Kalamulle Tashi’ dies in prison
@@ -117,6 +161,8 @@ Police said the shooting had been carried out by two gunmen who had arrived on a
 ...
 
 [Data](articles/50007467.json)
+
+[Extended Data](ext_articles/50007467.ext.json)
 
 ---
 
@@ -214,19 +260,25 @@ Police stated that the arrested suspect was the rider of the motorcycle used to 
 
 ---
 
-### මේ වසරේ පාර්ලිමේන්තු මැතිවරණයක් න‍ෑ
+### There is no parliamentary election this year
 
 *2024-05-28 13:25:43* · [`adalk`](https://www.ada.lk/breaking_news/මේ-වසරේ-පාර්ලිමේන්තු-මැතිවරණයක්-න‍ෑ/11-409870) · `si`
 
-ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ විධිවිධාන වලට අනුව ජනාධිපතිවරණය පවැත්වෙන බවත්, ඒ සඳහා අයවැයෙන් බිලියන 10 ක් වෙන් කොට තිබෙන බවත්, මෙම වසරේ පාර්ලිමේන්තු මැතිවරණය පැවැත්වීමේ අත්‍යවශ්‍යතාවයක්  නොමැති බවත් ජනමාධ්‍ය, ප්‍රවාහන හා මහාමාර්ග අමාත්‍ය, ආචාර්ය බන්දුල ගුණවර්ධන මහතා ප්‍රකාශ කරයි.
+This year, there's no parliamentary election due to constitutional provisions. However, the presidential election is scheduled for October, with a budget of 10 billion rupees, as announced by the Minister of Mass Media, Transport, and Highways, Dr. Bandula Gunawardena. This decision was shared during a press conference where the Cabinet's decisions were disclosed.
 
-අමාත්‍යවරයා මේ බව ප්‍රකාශ කලේ අද (28) රජයේ ප්‍රවෘත්ති දෙපර්තමෙන්තුවේ පැවති කැබිනට් තීරණ දැනුම්දීමේ මාධ්‍ය සාකච්ඡාවේ දී මේ පිළිබඳව මාධ්‍යවේදියෙකු විසින් නගන පැනයකට පිළිතුරු වශයෙනි.
+🟩
 
-ඒ අනුව, ආණ්ඩුක්‍රම ව්‍යවස්ථාව අනුව මෙම වසරේ ඔක්තෝබර් මාසයට ප්‍රථම ජනාධිපතිවරණය පැවැත්විය යුතු බවත්, ජනාධිපතිවරණය සඳහා අවශ්‍ය මුල්‍ය ප්‍රතිපාදන රුපියල් බිලියන 10 ක් අයවැය මඟීන් වෙන්කර තිබෙන බවත්, මැතිවරණ කොමසාරිස්වරයා විසින් ව්‍යවස්ථාපිත වගකීම නියමිත කාල වකවානුව තුළ සිදු කරනු ඇතැයි ද හෙතෙම මෙහි දී අමාත්‍යවරයා මෙහි දී වැඩිදුරටත් සඳහන් කළේය.
+According to the provisions of the Constitution, the presidential election will be reserved and 10 billion in the budget, Minister of Mass Media, Transport and Highways, Dr. Bandula Gunawardena.
+
+The Minister made this statement in response to a question raised by a journalist at a press conference to inform the Cabinet Decision in the Government News this morning.
+
+Accordingly, the Presidential Election should be held in October this year, the Presidential Elections for the Presidential Election to October 10 billion rupees.Added.
 
 ◼️
 
 [Data](articles/e03c4545.json)
+
+[Extended Data](ext_articles/e03c4545.ext.json)
 
 ---
 
@@ -2355,53 +2407,5 @@ The president and the government have no people to privatize state institutions 
 [Data](articles/d4697481.json)
 
 [Extended Data](ext_articles/d4697481.ext.json)
-
----
-
-### Showers and wind condition further
-
-*2024-05-28 06:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197086) · `si`
-
-Due to the active southwest monsoon, heavy showers exceeding 100mm are expected in the Western and Sabaragamuwa provinces, along with thundershowers in the Uva Province and Ampara and Batticaloa districts. Strong winds may also occur across various regions including the North, North Central, Western, Southern, North Western, and Wayamba districts.
-
-🟩
-
-The Meteorological Department says that the rain and wind is further expected due to active southwest monsoon.
-
-Showers will occur at times in the Western, Sabaragamuwa, Central, North Western and Southern provinces.
-
-In some places in the Western and Sabaragamuwa Province, MM. Heavy showers over 100.
-
-Thundershowers will develop at several places in the Uva Province and Ampara and Batticaloa districts.
-
-At times, in the North, North, North-central, Western, Southern and North Western and Southern and Wayamba Districts. The Meteorology Department further stated that strong winds can occur.
-
-◼️
-
-[Data](articles/887f6dcc.json)
-
-[Extended Data](ext_articles/887f6dcc.ext.json)
-
----
-
-### The music of the image ...
-
-*2024-05-28 06:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/184636) · `ta`
-
-The upcoming film 'Rayan,' featuring a star-studded cast including Dhanush, S Dhanush, J Surya, and more, is set to release its second song titled "Water Pocket Munji" next month. Composed by A.R. Rahman, the song has sparked controversy due to its lyrics mocking a young woman. Despite the criticism, the song, along with the film's first track, has garnered significant attention, with both expected to be released globally soon.
-
-🟩
-
-The second song will be released in the upcoming film 'Rayan' to be released next month. In this song, the young woman's face is mocked as 'water pocket munji'. A division fans have composed the song 'music' A.. R. Rahman is posting their condemnation on the Internet.
-
-Dhanush, S Dhanush, directed by actor and director Dhanush in 'Rayan'. J.. Surya, Prakashraj, Selvaraghavan, Sandeep Kishan, Kalidas Jayaram, Dushara Vijayan, Aparna Balamurali, Varalakshmi Sarathkumar, Saravanan and many others have acted. 'Music Storm' for the film, which has been recorded by Om Prakash. R. Raghuman has composed the music. The film was produced by Dr. Maran on behalf of Sun Pictures.
-
-The first song in the film will be released on June 13 in the world.. In this case, the second song 'Water Pocket' and the lyrical video for the song has been released.
-
-...
-
-[Data](articles/39fb79f2.json)
-
-[Extended Data](ext_articles/39fb79f2.ext.json)
 
 ---

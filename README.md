@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-28 18:35:20**
+As of **2024-05-28 18:52:57**
 
 ## Newspaper Stats
 
-*Scraped **26,869** Articles*
+*Scraped **26,877** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,47 @@ dailyftlk | 1,568
 adalk | 2,288
 adaderanalk | 3,072
 tamilmirrorlk | 3,150
-virakesarilk | 4,116
-dailymirrorlk | 4,235
+virakesarilk | 4,122
+dailymirrorlk | 4,237
 adaderanasinhalalk | 4,312
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,867 (100.0%) of 26,869 articles have been extended.
+26,869 (100.0%) of 26,877 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-28 (Tuesday)
+
+### Darshana secures Gold Medal in 400m
+
+*2024-05-28 18:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Darshana-secures-Gold-Medal-in-400m/110-283537) · `en`
+
+Sri Lankan sprinter Aruna Darshana further boosted his chances of qualifying for the 2024 Paris Olympic Games by securing the Gold Medal in the Men’s 400m event at the second Belt and Road Athletics Invitation Meet in Chongqing, China.
+
+◼️
+
+[Data](articles/35c98c44.json)
+
+---
+
+### No debate after June 6: NPP gives ultimatum to SJB
+
+*2024-05-28 18:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/No-debate-after-June-6-NPP-gives-ultimatum-to-SJB/108-283536) · `en`
+
+Colombo, May 28 (Daily Mirror)- The National People's Power (NPP) said today that if the Samagi Jana Balawegaya (SJB) is not ready for the debate between the two leaders Sajith Premadasa and Anura Kumara Dissanayake on June 6 as previously announced, there would be no further debate or discussions about a debate after June 6.
+
+Speaking to the media, NPP Executive Member Dr. Nalinda Jayatissa said if the scheduled debate on June 6 is held, they are ready to engage in discussions on preparations for the debate between the two leaders.
+
+"What we have to do now is to decide on a television channel or a place to hold the debate. We have no time to waste on other nonsense. We would like to remind Sajith Premadasa and Nalin Bandara that even though politics is a joke for them, it is not so for us. If the debate between the two leaders is not held on June 6, there will be no debates or discussions on a debate after that," he said.
+
+...
+
+[Data](articles/d41bf3f9.json)
+
+---
 
 ### Darshana edge towards Paris Olympic dream
 
@@ -74,6 +102,28 @@ The 10th World Water Forum was held on the 18th to the 20th Bali Island of Indon
 
 ---
 
+### சினா க்ரோன் ப்றீ 400 மீ. ஓட்டத்தில் அருண தர்ஷன வெற்றிபெற்றார்
+
+*2024-05-28 17:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/184717) · `ta`
+
+சீனாவின் சொக்குயிங் விளையாட்டரங்கில் இன்று 28 ஆம் திகதி செவ்வாய்க்கிழமை நடைபெற்ற ஆண்களுக்கான 400 மீற்றர் ஓட்டப் போட்டியில் இலங்கை வீரர்; அருண தர்ஷன முதலாம் இடத்தைப் பெற்றார்.
+
+பெல்ட் அண்ட் ரோட் உலக மெய்வல்லுநர் வெண்கல முத்திரை கண்டங்கள் சுற்றுப்பயண க்ராண்ட் ப்றீ போட்டியில் ஆண்களுக்கான 400 மீற்றர் ஓட்ட நிகழ்ச்சியை 45.48 செக்கன்களில் ஓடி முடித்து அவர் முதலாம் இடத்தைப் பெற்றார்.
+
+இதன் மூலம் ஒலிம்பிக் தகுதியைப் பெறுவதற்கான தரவரிசைப் புள்ளிகளை அருண தர்ஷன சற்று அதிகரித்துக்கொண்டுள்ளார்.
+
+இந்த போட்டி சி பிரிவு உலக மெய்வல்லுநர் போட்டி என்பதால் மிகக் குறைந்த புள்ளிகளே அருண தர்ஷனவுக்கு கிடைத்துள்ளது.
+
+சைனீஸ் தாய்ப்பேயில் எதிர்வரும் சனிக்கிழமை நடைபெறவுள்ள மெய்வல்லுநர் போட்டியிலும் அதன் பின்னர் தென் கொரியாவில் நடைபெறவுள்ள போட்டியிலும் பங்குபற்றும் அருண தர்ஷன, திகமவில் அடுத்த மாதம் நடைபெறவுள்ள தேசிய மெய்வல்லுநர் போட்டியிலும் பங்குபற்றுவார்.
+
+தேசிய மெய்வல்லுநர் போட்டிடயை 45.00 செக்கன்களுக்குள் நிறைசெய்தால் ஒலிம்பிக் பங்குபற்றுவதற்கான வாய்ப்பு கிடைக்கும் என தெரிவிக்கப்படுகிறது.
+
+...
+
+[Data](articles/73ab2a60.json)
+
+---
+
 ### Special bus service for Poson Poya due to northern railway delays
 
 *2024-05-28 17:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Special-bus-service-for-Poson-Poya-due-to-northern-railway-delays/108-283532) · `en`
@@ -89,6 +139,20 @@ He further said that using the bus service, people can travel more than those wh
 [Data](articles/a132c7eb.json)
 
 [Extended Data](ext_articles/a132c7eb.ext.json)
+
+---
+
+### அனர்த்த நிலைமை குறையும் வரை நிவாரணப் பணிகளை தொடருமாறும் அதிகாரிகளுக்கு ஜனாதிபதி விடுத்துள்ள பணிப்புரை!
+
+*2024-05-28 17:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/184715) · `ta`
+
+சீரற்ற காலநிலையினால் பாதிக்கப்பட்ட மக்களுக்கு உடனடி நிவாரணங்களை வழங்குமாறும், அனர்த்த நிலைமை குறையும் வரை நிவாரணப் பணிகளை தொடருமாறும் ஜனாதிபதி ரணில் விக்ரமசிங்க உரிய அதிகாரிகளுக்கு பணிப்புரை விடுத்துள்ளார்.
+
+அதற்கமைய, அனர்த்த முகாமைத்துவ நிலையமும் உயிரிழந்த நபர்களுக்கு இழப்பீடு வழங்க நடவடிக்கை எடுத்துள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/7cc11279.json)
 
 ---
 
@@ -244,6 +308,18 @@ Moreover, the Disaster Management Center (DMC) is also taking steps to compensat
 
 ---
 
+### மரம் வீழ்ந்ததில் பெண் தோட்டத் தொழிலாளி ஒருவர் உயிரிழப்பு !
+
+*2024-05-28 17:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/184713) · `ta`
+
+இரத்தினபுரி, கஹவத்தை  ஓபாத இலக்கம் 03 பகுதியில்  மரம் வீழ்ந்ததில் பெண் தோட்டத் தொழிலாளி ஒருவர் உயிரிழந்துள்ளார்.
+
+◼️
+
+[Data](articles/8fc33c34.json)
+
+---
+
 ### No post for election post - Namal
 
 *2024-05-28 17:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197123) · `si`
@@ -263,6 +339,24 @@ Namal Rajapaksa says that stability should be caused by the will of people, not 
 [Data](articles/b689aaa0.json)
 
 [Extended Data](ext_articles/b689aaa0.ext.json)
+
+---
+
+### தமிழ்த்தேசிய இனம் இலக்கு நோக்கிய பயணத்தில் இடர்களை எதிர்த்து முன்னேற வேண்டும் - சிறீதரன்
+
+*2024-05-28 17:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/184690) · `ta`
+
+தமிழ்த்தேசிய இனம் தன் இலக்கு நோக்கிய பயணத்தில் இடர்களை எதிர்த்து முன்னேற வேண்டும் என பாராளுமன்ற உறுப்பினர் சிவஞானம் சிறீதரன் தெரிவித்துள்ளார்.
+
+கிளிநொச்சியில் உள்ள அவரது கட்சி அலுவலகத்தில் செவ்வாய்க்கிழமை (28) நடைபெற்ற ஊடக சந்திப்பில் கருத்து தெரிவிக்கும் போதே குறித்த விடயத்தை தெரிவித்தார்.
+
+இறுதிப்போரில் இலங்கை அரசாங்கம் எமது மக்களை ஆயுத முனையிலும் பட்டினியாலும் இனப்படுகொலை செய்த போது கஞ்சிக்காக வரிசையில் நின்றோம் அதனை எமது தற்கால சமூகத்திற்கு நினைவு படுத்தும் முகமாக சிரட்டையில் கஞ்சி காய்ச்சி தன்னெழுர்ச்சியாக மக்கள் வழங்கியபோது பொலிஸார் கதற கதற கைது செய்தனர்.
+
+பல்கலைக்கழக மாணவர்கள் கஞ்சி காய்ச்சும் போதும் அதனை சப்பாத்து கால்களினால் தட்டி ஊத்தினர்.கேட்டால் கஞ்சிக்கு சுகாதாரம் இல்லை என்று அதனையும் கடந்து கடந்த 23மற்றும் 24ம் திகதிகளை பார்க்கும் போது தன்சல என்ற போர்வையில்  இராணுவமும் அவர்களுடன் சேர்ந்த ஒட்டுக்குழுக்களும் எந்த சுகாதார முறையும் அற்று மிக மோசமாக செய்திருந்தனர்.
+
+...
+
+[Data](articles/1f479222.json)
 
 ---
 
@@ -354,6 +448,24 @@ However, the implementation of the scheme is subject to the recommendations of a
 
 ---
 
+### யாழ்.போதனா வைத்தியசாலை ஊழியர் மீது தாக்குதல் ;  நடவடிக்கை எடுக்ககோரி அரச வைத்திய அதிகாரிகள் சங்கம் கடிதம்
+
+*2024-05-28 17:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/184712) · `ta`
+
+யாழ்ப்பாணம் போதனா வைத்தியசாலை ஊழியர் தாக்கப்பட்ட சம்பவம் தொடர்பாக உரிய நடவடிக்கை எடுக்ககோரி அரச வைத்திய அதிகாரிகள் சங்கம் வைத்தியசாலை பணிப்பாளருக்கும் வட மாகாண ஆளுநருக்கும் அவசர கடிதமொன்றை அனுப்பியுள்ளது.
+
+நான்கு கோரிக்கைகளை வலியுறுத்தி யாழ்ப்பாணம் போதனா வைத்தியசாலை பணிப்பாளர் த.சத்தியமூர்த்தி, வடக்கு மாகாண ஆளுநர் பி.எஸ்.எம்.சார்ள்ஸ் ஆகியோருக்கு யாழ்ப்பாணம் போதனா வைத்தியசாலை அரச வைத்திய அதிகாரிகள் சங்கத்தினரால் கடிதம் அனுப்பப்பட்டுள்ளது.
+
+அக்கடிதத்தில், நேற்று திங்கட்கிழமை (27) இரவு 10:30 அளவில் மோட்டார் சைக்கிள் ஒன்றில் மது போதையில் வந்த இருவர் யாழ்போதனா வைத்திய சாலையின் விபத்து மற்றும் அவசர சிகிச்சை பிரிவினுள் தமது வண்டியை செலுத்தினார்கள்.
+
+வண்டியின் பின்னால் இருந்தவர் மது போதையில் தனது கையை கண்ணாடியில் இடித்ததனால் ஏற்பட்ட காயத்துக்கு சிகிச்சை பெற வந்தவர்.
+
+...
+
+[Data](articles/29325d78.json)
+
+---
+
 ### President instructs immediate relief to affected people
 
 *2024-05-28 17:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197122) · `si`
@@ -417,6 +529,34 @@ Taking to 'X', MP Rajapaksa said, "Postponing elections is not healthy for any d
 [Data](articles/881d8b2e.json)
 
 [Extended Data](ext_articles/881d8b2e.ext.json)
+
+---
+
+### Torture by school in Jaffna: Students surrendered to police
+
+*2024-05-28 16:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/184711) · `ta`
+
+In Jaffna, 11 schoolgirls aged 10-17 surrendered to police after enduring three years of physical abuse from a school official for mistakes like incorrect English pronunciation and failing to memorize prayers. They feared reporting the issue directly. The girls were hospitalized, and the official was arrested.
+
+🟩
+
+11 schoolgirls who were staying there have surrendered to the Kayts police station, unable to withstand the brutal attack of an officer in charge of a school in the Educational Zone in Jaffna, Jaffna.
+
+School students between the ages of 10 and 17 have surrendered to the police station.
+
+Students have appealed to the police that the officer in charge of the hostel has been tortured for the past 3 years that he is attacking the stick and the stick and attacking the wall.
+
+Students have said that they have been attacked for reasons for speaking new English pronunciation, English pronunciation mistake, not speaking English properly and not memorizing prayer.
+
+Eleven students have lodged a complaint at the Kayts police station today for fear of telling the school.
+
+The 11 students have been admitted to the Kayts Hospital and the police have taken steps to arrest the hostel.
+
+◼️
+
+[Data](articles/3e46498c.json)
+
+[Extended Data](ext_articles/3e46498c.ext.json)
 
 ---
 
@@ -485,34 +625,6 @@ Directed by director Ram Kandasamy, Kamal Kumar, Nakkalids Vattiswari, Karthik V
 [Data](articles/8a08bd61.json)
 
 [Extended Data](ext_articles/8a08bd61.ext.json)
-
----
-
-### Torture by school in Jaffna: Students surrendered to police
-
-*2024-05-28 16:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/184711) · `ta`
-
-In Jaffna, 11 schoolgirls aged 10-17 surrendered to police after enduring three years of physical abuse from a school official for mistakes like incorrect English pronunciation and failing to memorize prayers. They feared reporting the issue directly. The girls were hospitalized, and the official was arrested.
-
-🟩
-
-11 schoolgirls who were staying there have surrendered to the Kayts police station, unable to withstand the brutal attack of an officer in charge of a school in the Educational Zone in Jaffna, Jaffna.
-
-School students between the ages of 10 and 17 have surrendered to the police station.
-
-Students have appealed to the police that the officer in charge of the hostel has been tortured for the past 3 years that he is attacking the stick and the stick and attacking the wall.
-
-Students have said that they have been attacked for reasons for speaking new English pronunciation, English pronunciation mistake, not speaking English properly and not memorizing prayer.
-
-Eleven students have lodged a complaint at the Kayts police station today for fear of telling the school.
-
-The 11 students have been admitted to the Kayts Hospital and the police have taken steps to arrest the hostel.
-
-◼️
-
-[Data](articles/3e46498c.json)
-
-[Extended Data](ext_articles/3e46498c.ext.json)
 
 ---
 
@@ -729,6 +841,24 @@ Under the leadership of President Ranil Wickremesinghe, there was also the hope 
 [Data](articles/361dfc13.json)
 
 [Extended Data](ext_articles/361dfc13.ext.json)
+
+---
+
+### எமது நாடு சிறியதாக இருந்தாலும் பலபடுகொலைகள் இடம்பெற்றுள்ளன - விஜயதாஸ
+
+*2024-05-28 16:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/184705) · `ta`
+
+ஜே.வி.பி இரண்டு முறை ஆயுதம் ஏந்தி போராடியதன் விளைவாக 1971 ஆம் ஆண்டில் 12,000 பேரும், 1988-1989 ஆண்டுகளில் 77,000 பேரும் உயிரிழந்ததாக நீதி, சிறைச்சாலைகள் மற்றும் அரசியலமைப்பு மறுசீரமைப்பு அமைச்சர் விஜயதாச ராஜபக்ஷ தெரிவித்துள்ளார்.
+
+30 வருடகால விடுதலைப் புலிகளின் பயங்கரவாதத்தில் சுமார் 70 ஆயிரம் உயிரிழந்துள்ளதாகவும், இந்த நாடு சிறியதாக இருந்தாலும் பலபடுகொலைகள் இடம்பெற்றுள்ளதாகவும் அவர் தெரிவித்தார்.
+
+கண்டி மாவட்ட  நல்லிணக்கக்குழுவிற்கான காரியாலயமொன்றை திறந்துவைக்கும் முகமாக மத்திய மாகாண ஆளுநர் காரியாலயத்தில்  நடைபெற்ற வைபவத்தில் கலந்துகொண்டு உரையாற்றுகையில் இவ்வாறு அமைச்சர்  தெரிவித்தார்.
+
+இவ்வாறான அனர்த்தங்கள் மீண்டும் ஏற்படாத வகையில் கிராம மட்டத்தில் அமைக்கப்பட்டுள்ள நல்லிணக்கக் குழுக்களுக்கு ஆதரவு கிடைக்கும் எனவும் இதன் மூலம் கிராமத்திற்கு கிராம அரச அதிகாரம் கிடைக்கும் எனவும் அவர் வலியுறுத்தியுள்ளார்.
+
+...
+
+[Data](articles/c50362ef.json)
 
 ---
 
@@ -1132,19 +1262,29 @@ Police said the cause of the accident was the woman who drove the car.
 
 ---
 
-### ஆண் முகாமையாளரை கடத்தி வன்புணர்வு
+### Abduction of male manager
 
 *2024-05-28 15:10:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஆண்-முகாமையாளரை-கடத்தி-வன்புணர்வு/76-338028) · `ta`
 
-ஆண் முகாமையாளர் ஒருவரை கடத்திச் சென்று, பாலியல் வன்புணர்ந்து, அதனை வீடியோவாக பதிவுச் செய்துக்கொண்டதன் பின்னர், அவரிடமிருந்த பெறுமதியான பொருட்களை அபகரித்துவிட்டு, முகாமையாளரை கைவிட்டுச் சென்ற சம்பவமொன்று கண்டி- வத்தேகம பொலிஸ் பிரிவில் இடம்பெற்றுள்ளது.
+A male supermarket manager was kidnapped, sexually assaulted, and filmed in a forest house. Robbed of 118,500 rupees, two mobile phones, a voucher ring, and watch, he was later abandoned. The incident occurred on the 23rd, with the manager being picked up from Ranavana Road, Katugastota, and taken to Venni. The culprits threatened not to report the assault to the police, delaying the complaint. Four suspects were arrested, and the van used in the abduction was seized. Further investigation is ongoing by the Katugastota police, aiming to bring the suspects to court.
 
-வத்தேகம நகரிலுள்ள பல்பொருள் அங்காடி நிலையமொன்றின் முகாமையாளரே, இவ்வாறு கடத்திச் செல்லப்பட்டு, காட்டுப்பகுதியில் உள்ள வீடொன்றில் வைத்து பாலியல் வன்கொடுமைக்கு உட்படுத்தப்பட்டுள்ளார்.
+🟩
 
-அவரிடமிருந்து 1,18,500 ரூபாய் பணம்,  இரண்டு அலைபேசிகள், வௌ்ளி மோதிரம் மற்றும் கைக்கடிகாரம் ஆகியன கொள்ளையிடப்பட்டுள்ளன. சம்பவம் தொடர்பில் ஐந்து நாட்களுக்குப் பின்னரே, பொலிஸில் முறைப்பாடு செய்யப்பட்டுள்ளது. அதனையடுத்து, சந்தேகத்தின்பேரில் நால்வரை கட்டுக்கஸ்தோட்டை பொலிஸார் கைது செய்துள்ளனர்.
+An incident where a male manager was abducted, sexually abused and recorded as a video, and an incident in which he was abandoned and abandoned the manager.
+
+The manager of a supermarket station in Wadegama has been abducted and sexually assaulted in a house in the forest.
+
+1,18,500 rupees, two mobile phones, vouchee ring and wristwatch have been robbed from him.. Five days after the incident, the police have lodged a complaint. Subsequently, four persons have been arrested by the police on suspicion.
+
+On the evening of the 23rd, the manager was abducted by some people in the van on the evening of the Ranavana Road, Katugastota.  Investigations have also been found that the manager of the violence has taken him to Venni that night and fled the street.
+
+It is reported that the kidnappers have been delayed to lodge a complaint with the police as they threaten the video.
 
 ...
 
 [Data](articles/7b9d6540.json)
+
+[Extended Data](ext_articles/7b9d6540.ext.json)
 
 ---
 
@@ -2149,231 +2289,5 @@ A thorough inspection was conducted, the officer said, adding, "No suspicious it
 [Data](articles/860870a6.json)
 
 [Extended Data](ext_articles/860870a6.ext.json)
-
----
-
-### Today's price of vegetables
-
-*2024-05-28 11:54:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மரக்கறிகளின்-இன்றைய-விலை/76-338014) · `ta`
-
-The Nuwara Eliya Special Economic Center released prices for 1kg of various vegetables today.
-
-🟩
-
-The Office of the Special Economic Center on Tuesday (28) released a list of 1 kg of vegetables purchased and sold through the Nuwara Eliya Special Economic Center.
-
-◼️
-
-[Data](articles/708a99bc.json)
-
-[Extended Data](ext_articles/708a99bc.ext.json)
-
----
-
-### National People's Power
-
-*2024-05-28 11:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/184676) · `ta`
-
-It seems like you've shared a comprehensive statement outlining various political, social, and economic issues facing Sri Lanka, along with proposed solutions and commitments from a hypothetical government. Your message touches on several key points:
-
-
-
-1. **Political Dynamics**: The current political landscape is critiqued, with specific mentions of individuals and parties. There's a focus on ensuring fair competition and addressing perceived injustices in the electoral process.
-
-
-
-2. **Education and Health**: The importance of accessible and high-quality education and healthcare is emphasized. The burden on families to provide these essentials is highlighted, with promises to shift this responsibility to the government.
-
-
-
-3. **Economic Challenges**: Issues related to drug addiction, unemployment, and the impact of globalization on local industries are discussed. There's a commitment to revitalize agriculture and ensure sustainable livelihoods for rural communities.
-
-
-
-4. **Social Welfare and Infrastructure**: The statement addresses the need for affordable housing, improved health services, and nutritional support for pregnant women and children. It also mentions the goal of reducing the prevalence of infectious diseases.
-
-
-
-5. **Historical Context and Unity**: The text reflects on past conflicts and divisions within the country, emphasizing the need for reconciliation and unity among different ethnic and religious groups.
-
-
-
-6. **Future Vision**: The overarching aim is to build a more equitable, peaceful, and prosperous Sri Lanka, focusing on education, health, and economic stability. There's a call to action for voters to support the National People's Power government to achieve these goals.
-
-
-
-This statement appears to be part of a broader political discourse, possibly aimed at rallying support for a particular agenda or party. If you have specific questions or need further assistance related to this content, please let me know how I can help
-
-🟩
-
-Our main purpose is to create a nation that builds unity among the Sinhalese, Tamil and Muslim people who do not have conflicts again. Even if our generations are war, our children cannot be allowed to fight war.Its leader Anura Kumara Dissanayake said that the national people's power would be created by a government that considers the lives of the rulers and the lives of citizens.
-
-The Vavuniya District Women's Conference of the National People's Power was held on Saturday 25th. Speaking on the occasion, National People's Power Leader Anura Kumara Dissanayake said this.
-
-The presidential election must be held according to. However, Range Bandara had said that Ranil Wickremesinghe should be given a further five years without holding the presidential election. I urge Range Bandara that there is no longer place to do so in Sri Lanka.
-
-Similarly, Vajira Abeywardena says Ranil Wickremesinghe should be allowed to contest any other candidate.. They know that Ranil cannot win the election.
-
-...
-
-[Data](articles/0e5bf9e3.json)
-
-[Extended Data](ext_articles/0e5bf9e3.ext.json)
-
----
-
-### Fishermen advised not to go to sea until further notice
-
-*2024-05-28 11:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/99486/fishermen-advised-not-to-go-to-sea-until-further-notice) · `en`
-
-The Department of Meteorology has issued an advisory for strong winds and rough seas for the sea areas around the island.
-
-The ‘red’ alert states that the sea areas around the island will be very rough with very strong gusty winds up to 60-70kmph.
-
-Thus, naval and fishing communities are advised not to venture into the sea areas around the island, until further notice, the advisory said.
-
-Swell waves about 2.5 m – 3.0 m height (this is not for land area) may increase in the sea areas off the coast extending from Kalpitiya to Pottuvil via Colombo, Galle and Hambantota.
-
-There is a possibility that near shore sea areas off the coast extending from Kalpitiya to Matara via, Colombo and Galle may experience surges due to swell waves, the advisory added.
-
-Accordingly, naval and fishing communities are also requested to be attentive to future forecasts issued by the Department of Meteorology in this regard.
-
-◼️
-
-[Data](articles/2e70b9c2.json)
-
-[Extended Data](ext_articles/2e70b9c2.ext.json)
-
----
-
-### A warm quality in front of the office
-
-*2024-05-28 11:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197104) · `si`
-
-Protesters gathered outside the Sri Lanka General Front Office on Nelum Mawatha, Battaramulla, causing disruptions including obstructing Minister Prasanna Ranatunga. Civilian organizers were present to manage the situation.
-
-🟩
-
-Nelum Mawatha, Battaramulla, has been reported in front of the Sri Lanka General Front Office.
-
-This has arisen with several civilian organizers to arrive at the scene and take action against the party.
-
-Minister Prasanna Ranatunga was also obstructed from the protest.
-
-◼️
-
-[Data](articles/e177e708.json)
-
-[Extended Data](ext_articles/e177e708.ext.json)
-
----
-
-### How long have we been displaced 8 times?;Where to go anymore?- People who were caught in Israel attack in Rabba
-
-*2024-05-28 11:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/184671) · `ta`
-
-In a devastating turn of events, the al-Attar family in Gaza experienced a massive fire during an Israeli attack on temporary shelters in Rabba, leading to displacement for the eighth time. Eyewitnesses described a scene of chaos and fear, with casualties including women and children. The international community has condemned the incident, which follows earlier ground operations by Israeli forces in Rabba, forcing thousands of Palestinians into refuge. Amidst the destruction, survivors like Dalal Saeed Salman find themselves questioning their path forward, highlighting the ongoing crisis and its impact on those affected.
-
-🟩
-
-The al -Attar family in Gaza was praying for a massive noise outside their tent while they were sleeping with the children after praying.
-
-A massive fire broke out following an Israeli attack on Sunday on temporary tents set up for displaced people in the city of Rabba.
-
-Eyewitnesses said that the fearful people escaped from the tents.
-
-Um Mohammed al -Attar said that many missiles or bombs were fallen, filled with our room bombs.
-
-He told us this as we visited the tents of the degenerative camp and the iron.
-
-A woman martyred at the door of her room with the disabled child. She questioned what she had committed.
-
-While our neighbor was engaged in prayer, the martyr was found on the wall of his brain.
-
-45 people have been killed.
-
-The leaders of the world have issued a strong condemnation of the number of people killed.
-
-Thousands of Palestinians have taken refuge in the Dell al -Sultan area after Israeli soldiers launched ground operations in Rabba two weeks ago.
-
-...
-
-[Data](articles/b0999e4c.json)
-
-[Extended Data](ext_articles/b0999e4c.ext.json)
-
----
-
-### Israel should not pursue military action on Rabam- Australia
-
-*2024-05-28 11:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/184675) · `ta`
-
-Australia urges Israel to halt military action against Rabam, citing humanitarian concerns and the protection of civilians. The Australian Foreign Minister criticizes Israel's actions, emphasizing the need for a ceasefire and the release of hostages by Hamas.
-
-🟩
-
-Australian Foreign Minister Beniwong has appealed to Israel not to continue the military action against Rabam.
-
-He said that the events that took place over the past 24 hours have now been able to establish a humanitarian ceasefire and thereby protect the civilians.
-
-Australia has made it clear that Israel's attacks have been unacceptable consequences, saying that Israel should not carry out its military action against Raba, who has taken over half of the population of Beniwong Gaza.
-
-He has also appealed to Hamas to release all his hostages and stop the use of the public as human shields and abandon his weapons.
-
-◼️
-
-[Data](articles/786e7488.json)
-
-[Extended Data](ext_articles/786e7488.ext.json)
-
----
-
-### Kalmunai Upper Judgment Interim Prohibition on East Graduate Teacher Appointments
-
-*2024-05-28 11:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/184672) · `ta`
-
-The Kalmunai High Court has temporarily halted the appointment of graduate teachers in the Eastern Province, citing potential irregularities. This decision comes after concerns were raised about the process, which included the release of a selection list before interviews were conducted. The case will be revisited on June 5th, allowing time for further investigation into the allegations of improper conduct during the recruitment process.
-
-🟩
-
-The appointment of graduate teachers in the Eastern Province today has been blocked by the Kalmunai High Court on Monday (27).
-
-The case will be taken up for hearing again on June 5. The court has ordered the defendants not to appoint any appointment.
-
-It is noteworthy that the interim injunction was issued due to the tireless efforts of lawyers to operate voices.
-
-Earlier, the Eastern Provincial Council has appealed to the Governor of the Eastern Province Senthil Thondaman to take appropriate action to address the Eastern Provincial Education Ministry.
-
-GCE in the Eastern Province. The open competitive examination to recruit graduates for the teacher vacancies for the higher quality subjects was held on March 30 last year.
-
-...
-
-[Data](articles/b1754d16.json)
-
-[Extended Data](ext_articles/b1754d16.ext.json)
-
----
-
-### ICT Scholarship Application Extension Date Date
-
-*2024-05-28 11:33:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ICTபுலமைப்பரிசில்-விண்ணப்ப-முடிவுத்-திகதி-நீடிப்பு/175-338012) · `ta`
-
-The application deadline for the ICT Scholarship Program under the Ceylon Telecommunication Regulatory Commission and the Presidential Fund Scheme for 2024/2025 has been extended to June 07, 2023. This decision was made after receiving numerous requests from students facing administrative issues and adverse weather conditions, preventing them from submitting their applications before the original cutoff date of May 22, 2023.
-
-🟩
-
-The Ceylon Telecommunication Regulatory Commission and the Presidential Fund Scheme - 2024/2025 Applications will be extended till June 07.
-
-With the recommendation of the Divisional Grama Niladhari and Secretary of the Regional Grama Niladhari and Secretary, with the recommendation of the Divisional Grama Niladhari and Secretary, the Secretary, the President's Fund, No. 35, the third floor, the third floor, the third floor, the third floor, the third floor, the third floor, the third floor, the third floor, the third floor, the Lakehouse, Tea. Send R Wijewardena Mawatha to Colombo 10 in the registration post.
-
-The name of the scholarship program in the upper corner of the letter speech and the name of the educational zone in which the school is injected.
-
-Although the applications of the scholarship program are ended on May 22, the date has been extended at the request of a large number of students who cannot send applications due to various administrative problems and worse climate.
-
-◼️
-
-[Data](articles/2c6b24b5.json)
-
-[Extended Data](ext_articles/2c6b24b5.ext.json)
 
 ---

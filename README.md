@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-28 19:18:49**
+As of **2024-05-28 19:34:10**
 
 ## Newspaper Stats
 
-*Scraped **26,878** Articles*
+*Scraped **26,880** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,36 @@ newsfirstlk | 363
 islandlk | 1,456
 economynextcom | 1,539
 dailyftlk | 1,568
-adalk | 2,288
+adalk | 2,289
 adaderanalk | 3,073
 tamilmirrorlk | 3,150
 virakesarilk | 4,122
-dailymirrorlk | 4,237
+dailymirrorlk | 4,238
 adaderanasinhalalk | 4,312
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,878 (100.0%) of 26,878 articles have been extended.
+26,878 (100.0%) of 26,880 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-28 (Tuesday)
+
+### Who are favourites to win T20 World Cup in USA and WI
+
+*2024-05-28 19:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Who-are-favourites-to-win-T20-World-Cup-in-USA-and-WI/108-283538) · `en`
+
+May 28 (Daily Mirror) - T20 is arguably the most unpredictable format of cricket, given that little moments could have a significant effect on the final result. Recently, co-hosts United States of America (USA) defeated Bangladesh, and Ireland defeated Pakistan. In the previous World Cup Sri Lanka were outclassed by Namibia while Netherlands stunned South Africa.
+
+Perhaps the World Cup in the USA and WI could go down as one of the most unpredictable ICC events in the history of the game, considering the fact that nobody seems to have a clear idea on what to expect from the pitches.
+
+...
+
+[Data](articles/41307594.json)
+
+---
 
 ### Education Ministry’s request to university non-academic staff on strike
 
@@ -81,6 +95,22 @@ Speaking to the media, NPP Executive Member Dr. Nalinda Jayatissa said if the sc
 [Data](articles/d41bf3f9.json)
 
 [Extended Data](ext_articles/d41bf3f9.ext.json)
+
+---
+
+### සරසවි අනධ්‍යන සේවක වැටුප් විශමතා විමර්ශනයට කමිටුවක්
+
+*2024-05-28 18:07:40* · [`adalk`](https://www.ada.lk/breaking_news/සරසවි-අනධ්‍යන-සේවක-වැටුප්-විශමතා-විමර්ශනයට-කමිටුවක්/11-409874) · `si`
+
+2024.05.27 දින පැවැති අමාත්‍ය මණ්ඩල රැස්වීමේ දී ගනු ලැබූ අමාත්‍ය මණ්ඩල තීරණය පරිදි විශ්වවිද්‍යාල අනධ්‍යයන කාර්ය මණ්ඩලවල 2018 සිට පැවැති වැටුප් විෂමතාව සම්බන්ධයෙන් වූ ගැටලු‍ව පිළිබඳව හා ඒ හා සම්බන්ධ වූ වෙනත් වැටුප් විෂමතා පිළිබඳව ඇති ගැටලු‍ පිළිබඳව විමර්ශනය කර මීළඟ අයවැයට පෙර අමාත්‍ය මණ්ඩලයට වාර්තා කිරීමට භාණ්ඩාගාර ලේකම්ගේ ප්‍රධානත්වයෙන් කමිටුවක් පත් කර නිර්දේශ ලබා ගැනීමට තීරණය වි ඇතැයි අධ්‍යාපන අමාත්‍යාංශය කියයි.
+
+මේ අනුව වෘත්තිය ක්‍රියාමාර්ගයකට අවතීර්ණව සිටින විශ්වවිද්‍යාල අනධ්‍යයන කාර්ය මණ්ඩල වෘත්තිය සමිති දැනට පවත්වාගෙන යන වෘත්තිය ක්‍රියා මාර්ගයෙන් බැහැරව සේවයට වාර්තා කරන ලෙස අධ්‍යාපන අමාත්‍යාංශය ඉල්ලා සිටියි.
+
+තවද, සේවයට වාර්තා කිරීමෙන් පසු වැටුප් හා අතිකාල දීමනා ගෙවීම පිළිබඳව ගැටලු‍වක් පැන නොනඟින බවද අමාත්‍යාංශය නිකුත් කළ නිවේදනයේ වැඩිදුරටත් දැක්වෙයි.
+
+◼️
+
+[Data](articles/b8d1244c.json)
 
 ---
 
@@ -799,6 +829,26 @@ The time spent on completing the 400m event was 45.48 seconds.
 [Data](articles/f06f9448.json)
 
 [Extended Data](ext_articles/f06f9448.ext.json)
+
+---
+
+### Sri Lanka risks foreign retaliation over VFS visa deal
+
+*2024-05-28 16:27:00* · [`economynextcom`](https://economynext.com/sri-lanka-risks-foreign-retaliation-over-vfs-visa-deal-165061/) · `en`
+
+ECONOMYNEXT – The Maldives could take reciprocal action after Sri Lanka’s new system of outsourcing its visas, which requires the payment of “processing” and “convenience” charges of 26 dollars, even though the government does not collect any fees.
+
+Maldivian authorities have reminded Sri Lanka of the long-standing bilateral agreement under which their citizens could travel freely between the two neighbours without any charges or bureaucratic barriers.
+
+Maldivians, who consider Sri Lanka their second home, often spend more than a month in the larger country, but are now required to pay 26 dollars to VFS Global, which has controversially been contracted to handle Sri Lankan visas.
+
+“The Sri Lankan government will not charge a fee, but Maldivians still have to pay VFS after applying online for a visa,” a Maldivian government official said in the capital, Male. “This violates the spirit of our agreement.”
+
+...
+
+[Data](articles/9611925b.json)
+
+[Extended Data](ext_articles/9611925b.ext.json)
 
 ---
 
@@ -2271,71 +2321,5 @@ The proposal has been submitted by the General Treasury as the General Treasury 
 [Data](articles/8f207331.json)
 
 [Extended Data](ext_articles/8f207331.ext.json)
-
----
-
-### Tense situation emerges at Nelum Mawatha when Prasanna Ranatunga passes area
-
-*2024-05-28 12:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Tense-situation-emerges-at-Nelum-Mawatha-when-Prasanna-Ranatunga-passes-area/108-283518) · `en`
-
-Colombo, May 28 (Daily Mirror) - A tense situation arose at the Nelum Mawatha premises near Parliament a short while ago when Minister Prasanna Ranatunga attempted to pass the area.
-
-Several civil organizations have come together in a protest march from near the Parliament to the Nelum Mawatha premises of the Sri Lanka Podujana Peramuna (SLPP).
-
-During the protest march, a heated argument arose between the police and the protesters when the protesters were obstructed by the police near the entrance to Nelum Mawatha.
-
-When Minister Ranatunga tried to pass along the road, the protesters on both sides started hooting at him.
-
-◼️
-
-[Data](articles/564899a3.json)
-
-[Extended Data](ext_articles/564899a3.ext.json)
-
----
-
-### Mally Iiwa was assaulted by the brother who secretly stole Rs
-
-*2024-05-28 12:05:58* · [`adalk`](https://www.ada.lk/breaking_news/රුපියල්-500-ක්-හොරෙන්-ගත්තැයි-මල්ලී-අයිියාට-පහරදී-ඝාතනය-කරලා/11-409864) · `si`
-
-A 48-year-old man from Trothlicamagama Road was assaulted by his elder brother over money, leading to his hospitalization. The elder brother, suspected of theft, was arrested. Investigations reveal the assault occurred on the 13th, and the victim died on the 21st at Panadura Base Hospital. The police chief inspector has also been arrested, with further inquiries being conducted by Chamil Ratnayake and Kamal Jayanetti.
-
-🟩
-
-The elder brother has been arrested on suspicion that the elder brother was killed and killed by the elder brother.
-
-The arrested persons were a 48 year old resident of the Trothlicamagama Road, Pingathanarama Road.
-
-Jayantha Silva, a 52-year-old man, who was residing at the Trotshalama Road, had been treated at the Panadura Base Hospital.
-
-Police investigations have revealed that his elder brother had been assaulted by his elder brother on the 13th of taking over 500 rupees regarding the death of Rs.
-
-The injured was killed at the Panadura Base Hospital on the 21st and the OIC Chief Inspector of Police (Master) has been arrested by the Chief Inspector of Police.
-
-Chamil Ratnayake and Assistant Superintendent of Police Kamal Jayanetti are conducting further investigations by Hon.
-
-◼️
-
-[Data](articles/f6ff26fc.json)
-
-[Extended Data](ext_articles/f6ff26fc.ext.json)
-
----
-
-### Sri Lanka reforms have started to yield positive outcomes: State minister
-
-*2024-05-28 12:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-reforms-have-started-to-yield-positive-outcomes-state-minister-165062/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s State Minister of Finance Shehan Semasinghe says reforms have lead to positive incomes, including an increase in reserves.
-
-“The reforms have started to yield positive outcomes, reflecting significant progress in multiple areas. Sri Lanka’s gross official reserves have seen a significant increase, reaching USD 5.5 billion by the end of April 2024,” Semasinghe said on social media platform X (twitter).
-
-“Additionally, the Sri Lankan rupee has appreciated by approximately 8 % against the US dollar so far in 2024. This will boosts investor confidence and enhances the country’s ability to manage external shocks and meet international obligations and enhance confidence on the economy.
-
-...
-
-[Data](articles/2afa6e96.json)
-
-[Extended Data](ext_articles/2afa6e96.ext.json)
 
 ---

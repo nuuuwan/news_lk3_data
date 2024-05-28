@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-29 02:03:48**
+As of **2024-05-29 02:18:45**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,319
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,926 (100.0%) of 26,928 articles have been extended.
+26,928 (100.0%) of 26,928 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,6 +46,8 @@ Prepaid customers can also upgrade to the Postpaid Power Plan while retaining th
 
 [Data](articles/bb29dfda.json)
 
+[Extended Data](ext_articles/bb29dfda.ext.json)
+
 ---
 
 ### Trade and investment team from Fujian Province visits BOI
@@ -57,6 +59,8 @@ To strengthen  cooperation in trade and investment a delegation from China Coun
 ◼️
 
 [Data](articles/165e2712.json)
+
+[Extended Data](ext_articles/165e2712.ext.json)
 
 ---
 

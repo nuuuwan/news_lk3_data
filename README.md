@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-29 01:03:53**
+As of **2024-05-29 01:19:02**
 
 ## Newspaper Stats
 
-*Scraped **26,922** Articles*
+*Scraped **26,926** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,10 +14,10 @@ bbccomsinhala | 268
 newsfirstlk | 363
 islandlk | 1,456
 economynextcom | 1,540
-dailyftlk | 1,570
+dailyftlk | 1,572
 adalk | 2,294
 adaderanalk | 3,075
-tamilmirrorlk | 3,154
+tamilmirrorlk | 3,156
 virakesarilk | 4,130
 dailymirrorlk | 4,250
 adaderanasinhalalk | 4,319
@@ -26,11 +26,65 @@ adaderanasinhalalk | 4,319
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,919 (100.0%) of 26,922 articles have been extended.
+26,922 (100.0%) of 26,926 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-29 (Wednesday)
+
+### Chartered Institute of Taxation of Sri Lanka urges Govt. to legally recognise profession of “Tax Consultant”
+
+*2024-05-29 00:39:28* · [`dailyftlk`](https://www.ft.lk/business/Chartered-Institute-of-Taxation-of-Sri-Lanka-urges-Govt-to-legally-recognise-profession-of-Tax-Consultant/34-762276) · `en`
+
+For all these years the taxation was considered as a part of accountancy not being given its due place. Taxation is a mixture of law, accountancy and economics. It is a distinctive art one has to master. The Chartered Institute of Taxation is the only body incorporated by a parliamentary act specialised to disseminate tax knowledge across the country. Tax education shall not only create the profession of “Tax Consultant” but shall make people tax compliant as well – Chartered Institute of Taxation of Sri Lanka President Ranil Abeywardhene
+
+1992 set up Sri Lanka Institute of Taxation celebrates granting of “Chartered” status
+
+Chartered Institute of Taxation of Sri Lanka President Ranil Abeywardhene
+
+Chartered Institute of Taxation of Sri Lanka (CITSL) President Ranil Abeywardhene recently requested the Government to legally recognise the profession of “Tax Consultant” to ensure continuous improvement measures to uplift the tax education and the profession of tax consultancy in Sri Lanka.
+
+...
+
+[Data](articles/6141f8fd.json)
+
+---
+
+### ’ஒத்திவைக்கும் விளையாட்டு சரிவராது’
+
+*2024-05-29 00:39:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒத்திவைக்கும்-விளையாட்டு-சரிவராது/175-338057) · `ta`
+
+மக்களின் பிரச்சினைகளுக்கு உண்மையான பதில்களை வழங்கியிருந்தால் நாடு இவ்வாறானதொரு கதியை சந்தித்திருக்காது என தெரிவித்த தேசிய மக்கள் சக்தியின் தலைவரும், பாராளுமன்ற உறுப்பினருமான அனுரகுமார திஸாநாயக்க, தேர்தலை ஒத்திவைக்கும் விளையாட்டு தங்களிடத்தில் எடுபடாது என்றார்.
+
+தேசிய மக்கள் சக்தியின் வவுனியா மாவட்ட மகளிர் மாநாட்டில் கலந்து கொண்டு உரையாற்றும் போதே திரு.திஸாநாயக்க மேற்கண்டவாறு தெரிவித்தார்.
+
+ஜனாதிபதித் தேர்தலை திட்டமிட்டபடி நடத்த வேண்டும் என்றும் ஆனால் ரணில் விக்கிரமசிங்கவுக்கு இன்னும் ஐந்து வருட கால அவகாசம் வழங்க வேண்டும் என்றும் ரங்கே பண்டார கூறியிருக்கின்றார்.  வேறு யாரையும் கேட்காமல் ரணிலை மட்டும் ஜனாதிபதித் தேர்தலுக்குக் கேட்கிறார்கள், அவரால் வெற்றி பெற முடியாது என்பதை அவர்களும் ஏற்றுக் கொள்கிறார்கள் என்றுதான் அர்த்தம்.
+
+இலங்கையின் முழு அரசியலிலும் தேசிய மக்கள் சக்தி மையமாக உள்ளது வெவ்வேறு காலங்களில் வெவ்வேறு கட்சிகளுக்கு வாக்களித்தவர்கள் அரசியலில் ஆர்வம் காட்டாமல் பல்வேறு கட்சிகளுக்கு வாக்களித்தனர்.
+
+...
+
+[Data](articles/f753ce5a.json)
+
+---
+
+### ’தேர்தலை பிற்போட இடமில்லை’
+
+*2024-05-29 00:36:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தலை-பிற்போட-இடமில்லை/175-338056) · `ta`
+
+அரசியலமைப்பின் பிரகாரம் ஜனாதிபதித் தேர்தலை ஒத்திவைக்க முடியாது. ஜனாதிபதி தேர்தலுக்காக சர்வஜன வாக்கெடுப்பு நடத்த முடியாது என ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் கீன்ஸ் நெல்சன் தெரிவித்தார்.
+
+எதிர்க்கட்சித் தலைவர் அலுவலகத்தில் செவ்வாய்க்கிழமை (28) இடம்பெற்ற ஊடகவியலாளர் சந்திப்பிலேயே மேற்கண்டவாறு தெரிவித்தார்.
+
+ஐக்கிய தேசியக் கட்சியின் பொதுச் செயலாளர் பாலித ரங்கே பண்டார அரசியலமைப்புச் சட்டத்தை சரியாகப் புரிந்து கொள்ளாமலே இவ்வாறான கருத்துக்களை வெளியிடுகின்றார்.
+
+இந்த கதையை நாட்டுக்கு கூறும் முன், அரசியலமைப்பின் எந்தப் பிரிவு இவ்வாறு குறிப்பிடப்பட்டுள்ளது என்பதை பாலித ரங்கே பண்டார முதலில் சுட்டிக்காட்ட வேண்டும். இவ்வாறான பொறுப்பற்ற அறிக்கைகளை வெளியிடுவதை தவிர்க்குமாறு கேட்டுக்கொண்டார்.
+
+...
+
+[Data](articles/8402fe94.json)
+
+---
 
 ### Is the Swiss auction legally valid?
 
@@ -50,19 +104,25 @@ India’s Adani group has proposed to invest about $ 740 million in the country 
 
 ---
 
-### தேர்தல் ஆணைக்குழுவினருக்கும் அமெரிக்க தூதுவர் ஜூலி சுங்கிற்கும் இடையில் சந்திப்பு
+### Meeting between Election Commission and US Ambassador Julie Sung
 
 *2024-05-29 00:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/184727) · `ta`
 
-இலங்கை தேர்தல் ஆணைக்குழுவின் உறுப்பினர்களுக்கும், இலங்கைக்கான அமெரிக்க தூதுவர் ஜூலி சுங்கிற்கும் இடையில் விசேட சந்திப்பொன்று 28 ஆம் திகதி செவ்வாய்க்கிழமை இடம்பெற்றுள்ளது.
+In a meeting on Tuesday, Sri Lanka's Election Commission discussed election plans with US Ambassador Julie Sung. The ambassador praised the commission for its efforts towards establishing transparent processes, emphasizing the significance of free and fair elections in maintaining democracy.
 
-இந்த சந்திப்பு தொடர்பில் இலங்கைக்கான அமெரிக்க தூதுவர் ஜூலி சுங், தனது X வலைத்தளத்தில் பதிவொன்றை பதிவேற்றியுள்ளார்.
+🟩
 
-“தேர்தலுக்கான திட்டங்கள் மற்றும் வெளிப்படையான செயல்முறையை நிலைநிறுத்துவது குறித்து தேர்தல் ஆணைக்குழுவுடனான சந்திப்பு பாராட்டுக்குரியது. இலங்கை, அமெரிக்கா மற்றும் பல நாடுகள் இந்த ஆண்டு தேர்தலை எதிர்கொள்வதால், ஜனநாயக ஆட்சியின் தூணாக சுதந்திரமான மற்றும் நியாயமான தேர்தல்களில் வாக்களிப்பதன் முக்கியத்துவம் குறித்து நாங்கள் கருத்துக்களை பரிமாறிக்கொண்டோம்.” என அவர் தனது X பதிவில் குறிப்பிட்டுள்ளார்.
+A special meeting was held on Tuesday between the members of the Election Commission of Sri Lanka and the US Ambassador to Sri Lanka, Julie Sung.
+
+US Ambassador to Sri Lanka Julie Chung has uploaded a record on her X website regarding the meeting.
+
+“Meeting with the Election Commission is commendable on the establishment of election plans and the explicit process. As Sri Lanka, the United States and many other countries face this year's election, we exchanged comments on the importance of voting in independent and fair elections as the pillar of democratic regime. ”He mentioned in his X post.
 
 ◼️
 
 [Data](articles/c5e2765b.json)
+
+[Extended Data](ext_articles/c5e2765b.ext.json)
 
 ---
 
@@ -126,21 +186,43 @@ The best parent companies are those which create more value than any other rival
 
 ### 2024-05-28 (Tuesday)
 
-### யாழில் அண்மையில் விடுவிக்கப்பட்ட காணிக்குள் பொதுமக்கள் பிரவேசிப்பதற்கு தடை
+### Public entry into the recently released land in Jaffna
 
 *2024-05-28 23:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/184726) · `ta`
 
-யாழ்ப்பாணம் தெல்லிப்பளை ஒட்டகப்புலத்தில் அண்மையில் விடுவிக்கப்பட்ட 234.83 ஏக்கர் காணிக்குள் பொதுமக்கள் பிரவேசிப்பதற்கு தற்காலிக தடை அறிவிக்கப்பட்டுள்ளது.
+A temporary ban restricts public entry into newly released land in Tellippalai, Jaffna, due to potential mine threats. The Jaffna District Secretariat plans to conduct technical studies and ensure deactivation/removal of any mines before allowing public resettlement post-June 10th. Areas including Vasavilan East/West, Palali North/East/South were released, previously under military control, but caution is advised due to unexploded ordnance concerns.
 
-மேலும் அந்த செய்தி குறிப்பில், விடுவிக்கப்பட்டுள்ள பகுதியில் சுமார் 55 ஆயிரம் சதுர அடி காணியில் கண்ணிவெடிகள் காணப்படகூடும் என்ற அச்சம் வெளியிடப்பட்டுள்ள நிலையில், யாழ்ப்பாணம் மாவட்ட செயலகத்தால் உரிய தீர்வு காண்பதற்கான நடவடிக்கை முன்னெடுக்கப்பட்டுள்ளது.
+🟩
 
-அதற்கமைய எதிர்வரும் ஜூன் மாதம் பத்தாம் (10) திகதி வரை விடுவிக்கப்பட்ட காணிகளுக்கு செல்ல வேண்டாம் என காணி உரிமையாளர்களிடம் கோரிக்கை விடுக்கப்பட்டுள்ளது.
+A temporary ban on public entry into 234.83 acres of land recently released in Tellippalai camel in Tellippalai, Jaffna.
 
-விடுவிக்கப்பட்டுள்ள காணிகளில் எதிர்வரும் முதலாம் திகதி முதல் தொழில்நுட்ப ஆய்வுகள் மேற்கொள்ளப்படவுள்ளன. இதன்போது கண்ணிவெடிகள் காணப்படும் இடங்கள் அடையாளப்படுத்தப்பட்டால் அந்த பகுதிகளை தவிர்த்து ஏனைய காணிகளுக்குள் எதிர்வரும் பத்தாம் திகதிக்கு பின்னர் பொதுமக்கள் தங்களின் மீள்குடியேற்ற செயற்பாடுகளை மேற்கொள்ள முடியும் என அறிவிக்கப்பட்டுள்ளது.
+In addition, the Jaffna District Secretariat has taken steps to find a solution, as it has been feared that the mines will be found in the area of ​​about 55 thousand square feet of land.
+
+Land owners have been asked not to go to the lands released until the 10th of June.
+
+Technical studies will be carried out from the first day of the release. It has been announced that the public will be able to carry out their resettlement activities after the 10th of this month, excluding the areas where the mines are identified.
+
+Meanwhile, if the mines are found, they will be deactivated and removed by following the appropriate procedures.. Once the area was declared as a mines, the public could go into their land without any disruption.. This temporary ban has been banned for the safety of the public.
 
 ...
 
 [Data](articles/e355f5e7.json)
+
+[Extended Data](ext_articles/e355f5e7.ext.json)
+
+---
+
+### The six face(t)s of CWC Chief Arumugan “Thamby” Thondaman
+
+*2024-05-28 23:50:07* · [`dailyftlk`](https://www.ft.lk/columns/The-six-face-t-s-of-CWC-Chief-Arumugan-Thamby-Thondaman/4-762271) · `en`
+
+Former Cabinet Minister, Nuwara Eliya district Parliamentarian and Ceylon Workers Congress (CWC) leader Arumugan Thondaman would have celebrated his 60th birthday on 29 May, if he were alive today. Thondaman passed away due to a cardiac arrest four days before his 56th birthday four years ago on 26 May 2020. He was serving as a Minister in the cabinet of President Gotabaya Rajapaksa at the time of his death. This week’s “Political Pulse” – with the aid of my previous writings – focuses on Arumugan Thondaman to denote his 60th birth anniversary.
+
+Let me begin with two points about his name and pet name. Thondaman’s first name Arumugan is spelled with an N at the end. However it is frequently misspelled by the media as Arumugam with an M instead of N. I too have been guilty of this error at times. I remember his illustrious grandfather Saumiyamoorthy Thondaman gently admonishing me once “He is Arumugan not Arumugam”.
+
+...
+
+[Data](articles/5005af32.json)
 
 ---
 
@@ -779,6 +861,8 @@ As the Berlin Wall fell and the Iron Curtain was lifted, the world witnessed a r
 ...
 
 [Data](articles/30c8910e.json)
+
+[Extended Data](ext_articles/30c8910e.ext.json)
 
 ---
 
@@ -2175,99 +2259,5 @@ Following the trade union meeting, we have decided to continue with our trade un
 [Data](articles/de6a0d79.json)
 
 [Extended Data](ext_articles/de6a0d79.ext.json)
-
----
-
-### UNP proposes postponing elections by two years
-
-*2024-05-28 15:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/99490/unp-proposes-postponing-elections-by-two-years) · `en`
-
-The United National Party (UNP) has proposed to postpone Sri Lanka’s two upcoming elections by at least two years.
-
-UNP general secretary Palitha Range Bandara made this observation while attending a press conference in Colombo today (28).
-
-He proposed that the Presidential Election and the General Election be postponed for 2 years, through a proposal to be tabled in Parliament and that a referendum could be called if necessary.
-
-“Now we have to save the country from this bankruptcy and rebuild the country’s economy,” the former parliamentarian said.
-
-He stated that Sri Lanka has an agreement in place with the International Monetary Fund (IMF) and if the said agreement is violated the country will regress back to how it was two years back.
-
-“So, do we want to knowingly go back to that point and get ruined? Or else do we reach a common agreement and postpone both these elections for two years?”
-
-...
-
-[Data](articles/b9517e13.json)
-
-[Extended Data](ext_articles/b9517e13.ext.json)
-
----
-
-### Notice to finish the strike and come to work
-
-*2024-05-28 15:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197115) · `si`
-
-The Ministry of Education has ordered the removal of professional societies for academic and non-academic staff, following a cabinet meeting on June 27, 2013. The decision was made to address salary anomalies among non-drinking staff since 2018 and plan for the next budget.
-
-🟩
-
-The Ministry of Education has requested the Ministry of Education to remove the proper staff professional societies.
-
-Issuing an announcement, the Ministry of Education states that the profession of the profession and report to the non-academic employees.
-
-The announcement indicates that the Cabinet Meeting held at the Cabinet Meeting held on 27.06.2013.
-
-The Secretary to the Treasury has decided to report to the Cabinet of the Treasury to report the issues of the Salary Anomality of the Non-Drinking Staff from 2018 and the Next Budget..
-
-◼️
-
-[Data](articles/539a7228.json)
-
-[Extended Data](ext_articles/539a7228.ext.json)
-
----
-
-### Another censorship against Wijayaka
-
-*2024-05-28 15:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197114) · `si`
-
-The Colombo District Court issued an injunction against someone impersonating the SLFP Chairman, acting on a complaint by Mr. Lasantha Alagiyawanna.
-
-🟩
-
-The Colombo District Court issued another injunction due to the Chairman of the Sri Lanka Freedom Party (SLFP) and pretending to be a member of the party.
-
-The order was issued after considering a complaint made by Mr. Lasantha Alagiyawanna.
-
-◼️
-
-[Data](articles/1d36a15f.json)
-
-[Extended Data](ext_articles/1d36a15f.ext.json)
-
----
-
-### A murder held for Rs. 500
-
-*2024-05-28 15:35:44* · [`adalk`](https://www.ada.lk/breaking_news/රුපියල්-500කට-සිදුවූ-මිනීමැරුමක්/11-409873) · `si`
-
-A 48-year-old man from Trothlicamagama Road was arrested for allegedly murdering his 52-year-old brother, Jayantha Silva, over a dispute involving Rs. 500. The victim, who lived on Trotshalama Road, was hospitalized but succumbed to injuries. Police investigations suggest the motive behind the killing was a financial disagreement.
-
-🟩
-
-A person arrested on suspicion that the elder brother was assassinated by the elder brother, said.
-
-The arrested persons were a 48 year old resident of the Trothlicamagama Road, Pingathanarama Road.
-
-Jayantha Silva, a 52-year-old man, who was residing at the Trotshalama Road, had been treated at the Panadura Base Hospital.
-
-Police investigations have revealed that his elder brother had been assaulted by his elder brother on the 13th of taking over 500 rupees regarding the death of Rs.
-
-The injured had been killed in the Panadura Base Hospital recently, while the OIC Chief Inspector of the OIC has been arrested by the Chief Inspector of the OIC of the post mortem.
-
-◼️
-
-[Data](articles/0cd7917b.json)
-
-[Extended Data](ext_articles/0cd7917b.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-28 18:12:00**
+As of **2024-05-28 18:23:44**
 
 ## Newspaper Stats
 
-*Scraped **26,858** Articles*
+*Scraped **26,867** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,75 @@ colombotelegraphcom | 237
 dbsjeyarajcom | 265
 bbccomsinhala | 268
 newsfirstlk | 363
-islandlk | 1,454
+islandlk | 1,455
 economynextcom | 1,539
 dailyftlk | 1,568
-adalk | 2,285
+adalk | 2,288
 adaderanalk | 3,072
 tamilmirrorlk | 3,149
 virakesarilk | 4,116
-dailymirrorlk | 4,231
-adaderanasinhalalk | 4,311
+dailymirrorlk | 4,235
+adaderanasinhalalk | 4,312
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,855 (100.0%) of 26,858 articles have been extended.
+26,858 (100.0%) of 26,867 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-28 (Tuesday)
+
+### Darshana edge towards Paris Olympic dream
+
+*2024-05-28 18:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Darshana-edge-towards-Paris-Olympic-dream/108-283535) · `en`
+
+May 28 (Daily Mirror) - Sri Lankan sprinter Aruna Darshana further boosted his chances of qualifying for the 2024 Paris Olympic Games by securing the Gold Medal in the Men’s 400m event at the second Belt and Road Athletics Invitation Meet in Chongqing, China.
+
+The 25-year-old athlete from Sinhapura, Trincomalee and the South Asian Games Gold Medallist lived upto expectations and powered his way to finish the 400m final with a splendid time of 45.48s.
+
+Darshana of course, started the final brimming with confidence after having advanced to the final on the previous day with the second fastest time from heats as he commenced his first overseas campaign of the year on a successful note.
+
+His effort in the final was a vast improvement as he clocked 46.26s earlier to win the heat in this meet - a World Athletics Continental Tour Bronze Label event. The Olympic Qualifying standard time for the Men’s 400m event is 45.00s.
+
+...
+
+[Data](articles/895af8a0.json)
+
+---
+
+### රටම කතාවෙන Starlink ගැන රජයෙන් දැනුම්දීමක්
+
+*2024-05-28 18:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197126) · `si`
+
+“Starlink” වැනි ව්‍යාපෘතියකට සම්බන්ධ වීම හරහා මෙරට අන්තර්ජාල පහසුකම දුර්වල ප්‍රදේශවලට ද ගැටළුවකින් තොරව අන්තර්ජාල පහසුකම් ලබාදීමට හැකිවන බව ජනාධිපති ජ්‍යෙෂ්ඨ උපදේශක රුවන් විජේවර්ධන මහතා පවසයි.
+
+ඒ මහතා මේ බව පැවසුවේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන් ඊයේ (27) ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක් වෙමිනි.
+
+10 වන ලෝක ජල සමුළුව “World Water Forum” පසුගිය 18 වනදා සිට 20 වනදා දක්වා ඉන්දුනීසියාවේ බාලි දූපතේ දී පැවැත්වුණා. ඉන්දුනීසියානු ජනාධිපති ජෝකෝ විඩෝඩෝ (Joko Widodo)මහතාගේ නිල ආරාධනයකට අනුව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ඇතුළු දූත පිරිසක් ඊට සහභාගී වුණා. එම සංචාරයේ දී ජනාධිපතිවරයා සහ ටෙස්ලා සහ ස්පේස් එක්ස් හි ප්‍රධානී ඊලෝන් මස්ක් මහතා අතර විශේෂ හමුවක් පැවැත්වුණා.
+
+...
+
+[Data](articles/3955a456.json)
+
+---
+
+### Special bus service for Poson Poya due to northern railway delays
+
+*2024-05-28 17:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Special-bus-service-for-Poson-Poya-due-to-northern-railway-delays/108-283532) · `en`
+
+Colombo, May 28 (Daily Mirror) - Special bus services will be arranged for Poson Poya to avoid inconvenience to passengers as the development work of the Northern Railway will be delayed by another two months, Cabinet Spokesman and Transport Minister Bandula Gunawardana said.
+
+Addressing the media, he said that the Sri Lanka Railways Department engineers have been informed that this delay is due to rain and adverse weather and having to bear higher costs than expected.
+
+He further said that using the bus service, people can travel more than those who travel by train.
+
+◼️
+
+[Data](articles/a132c7eb.json)
+
+---
 
 ### Worker's death in a surrogate: trio injury
 
@@ -76,19 +126,45 @@ Accordingly, the court will confidentially forward its determination to the Spea
 
 ---
 
-### විදුලි සංදේශ නියාමන සංශෝධන පනත් කෙටුම්පතට දුන් තීරණය
+### Decision to the Telecommunication Regulatory Amendment Bill
 
 *2024-05-28 17:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197125) · `si`
 
-රජය විසින් පාර්ලිමේන්තුවට ඉදිරිපත් කර තිබෙන විදුලි සංදේශ නියාමන සංශෝධන පනත් කෙටුම්පතට එරෙහි පෙත්සම් විභාගය අවසන් කර තිබේ.
+The Supreme Court, led by Chief Justice Jayantha Jayasuriya, has secretly concluded its review of the constitutional validity of the Telecommunications Regulatory Amendment Bill after receiving a petition from Parliament. The decision will be based on the opinions of Justices Mustratu Fernando and Janak de Silva.
 
-ඒ අනුව ශ්‍රේෂ්ඨාධිකරණය අදාළ පනත් කෙටුම්පතේ ව්‍යවස්ථානුකූලභවය පිළිබඳ සිය රහසිගත නිගමනය පාර්ලිමේන්තුවේ කථානායකවරයා වෙත යොමු කරන බව නිවේදනය කළේය.
+🟩
 
-අගවිනිසුරු ජයන්ත ජයසූරිය, මුර්දු ප්‍රනාන්දු සහ ජනක් ද සිල්වා යන ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ලක් ඉදිරියේ මෙම පෙත්සම් විභාගය පැවැත්වුණි.
+The petition against the Telecommunications Regulatory Amendment Bill has been presented to Parliament has been completed.
+
+Accordingly, the Supreme Court announced his secret conclusion on the constitutionalism of the law of the relevant Bill.
+
+The Petition was held in front of the three-member Supreme Court judge, Chief Justice Jayantha Jayasuriya, Mustratu Fernando and Janak de Silva.
 
 ◼️
 
 [Data](articles/3adb861d.json)
+
+[Extended Data](ext_articles/3adb861d.ext.json)
+
+---
+
+### Indians running IT firm with visit visa apprehended
+
+*2024-05-28 17:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Indians-running-IT-firm-with-visit-visa-apprehended/108-283529) · `en`
+
+Colombo, May 28 (Daily Mirror) - A group of Indian nationals who were illegally running an IT based firm in Colombo 7 on mere visit visas to remain in Sri Lanka was taken into custody by the Department of Immigration and Emigration.
+
+The officials of the department’s Investigation Division following an inquiry raided a house in Cinnamon Gardens and took seven males and one female who were in their thirties.
+
+A senior detective from the division told the Daily Mirror that all the foreigners have arrived in the country on visit visas and two of them were found to have overstayed their 14 days visa period.
+
+The arrested female was reportedly the wife of one of the other seven suspects.
+
+Preliminary inquiries revealed that the group had rented a house in Cinnamon Gardens to carry out their IT company and the authorities are conducting further investigations to determine what kind of work they have actually performed in Sri Lanka.
+
+...
+
+[Data](articles/aa124661.json)
 
 ---
 
@@ -116,21 +192,27 @@ SG Holdings Global Pte Ltd, the company’s majority shareholder, said it will p
 
 ---
 
-### ඒ වැඩේ කරන්න එපා - ආරක්ෂක රාජ්‍ය ඇමති
+### Don't do that work - State Minister
 
 *2024-05-28 17:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197124) · `si`
 
-යුක්‍රේන - රුසියා යුද්ධය ට එක්වී අසරණ වී ඇති ශ්‍රී ලාංකිකයින් ගෙන්වා ගැනීම සඳහා රජය උපරිම වශයෙන් මැදිහත් වන බව ආරක්ෂක රාජ්‍ය අමාත්‍ය, ප්‍රමිත බණ්ඩාර තෙන්නකෝන් මහතා පවසයි.
+State Minister Pipaina Bandara Tennakoon announced the government's efforts to retrieve Sri Lankans involved in the Russian-Ukrainian conflict, criticizing attempts to politicize the matter. The Defense Ministry set up a hotline receiving 451 inquiries and collected statements from 301 individuals.
 
-සමහර පුද්ගලයින් මෙම ප්‍රශ්නය දේශපාලනීකරණය කිරීමට උත්සාහ ගනිමින් පවතින බවත් ඉන් කිහිපදෙනෙක් මේ වනවිට විනෝද චාරිකාවකට එක්වී ඇති බවත් රාජ්‍ය අමාත්‍යවරයා පැවසීය.
+🟩
 
-රුසියාවට හෝ යුක්‍රේනයට ගිය පුද්ගලයින්ගේ තොරතුරු ලබාදීම සඳහා ආරක්ෂක අමාත්‍යංශය විසින් දුරකථන අංකයක් හඳුන්වාදුන් බවත් ඒ ඔස්සේ මේ වනවිට පැමිණිලි 451ක් ලැබී ඇති බවත් ඔහු කීය.
+Defense State Minister Pipaina Bandara Tennakoon says that the government is fully intervened to obtain Sri Lankans who have joined the Ukrainian and Russia War.
 
-එසේම පොලීසිය විසින් 301 දෙනෙකුගෙන් කටඋත්තර ලබාගෙන ඇති බව රාජ්‍ය අමාත්‍යවරයා හෙළිකළේය.
+The State Minister said some people are trying to politicize this issue and several of them have already been a picnic.
+
+He said that the Defense Ministry introduced a telephone number and received 451 complaints to provide the information from Russia or Ukraine.
+
+The State Minister also revealed that the police had obtained statements from 301 people.
 
 ◼️
 
 [Data](articles/a014c8cf.json)
+
+[Extended Data](ext_articles/a014c8cf.ext.json)
 
 ---
 
@@ -193,6 +275,22 @@ A bond maturing on 01.10.2032 closed at 11.85/12.00 percent from 11.85/12.05 per
 [Data](articles/55109937.json)
 
 [Extended Data](ext_articles/55109937.ext.json)
+
+---
+
+### 60th session of International Coconut Community to be held in Sri Lanka
+
+*2024-05-28 17:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/60th-session-of-International-Coconut-Community-to-be-held-in-Sri-Lanka/108-283534) · `en`
+
+Colombo, May 28 (Daily Mirror) - The 60th Session and Ministerial Meeting of the International Coconut Community are proposed to be held in Sri Lanka this year.
+
+Cabinet Minister Bandula Gunawardana said today that the International Coconut Community meeting will be held in Sri Lanka to achieve the objectives of increasing foreign exchange earnings, promoting the Sri Lankan coconut industry among member countries, and improving cooperation among key stakeholders in the coconut sector.
+
+Accordingly, the session and ministerial meeting will be held in Colombo in November this year using the income earned by the Coconut Development Authority and the contributions of several private institutions in the coconut sector.
+
+◼️
+
+[Data](articles/6c71d595.json)
 
 ---
 
@@ -1270,6 +1368,26 @@ Subsequently, a fellow officials gathered in the area and folded the attacker an
 
 ---
 
+### 17 හැවැරිදි සිසුවියගේ නිරුවත් ඡායාරූප අන්තර්ජාලයට එක්කළ 18 හැවැරිදි සිසුවා අල්ලයි
+
+*2024-05-28 14:06:35* · [`adalk`](https://www.ada.lk/breaking_news/17-හැවැරිදි-සිසුවියගේ-නිරුවත්-ඡායාරූප-අන්තර්ජාලයට-එක්කළ 18-හැවැරිදි-සිසුවා-අල්ලයි/11-409872) · `si`
+
+දහ හත් හැවිරිදි පාසල් සිසුවියකගේ නිරුවත් ඡායාරූප අන්තර්ජාලය හරහා පළ කළ බව පැවසෙන දහ අට හැවිරිදි පාසල් සිසුවකු  අත්අඩංගුවට ගත් බව මත්තේගොඩ පොලිසිය පවසයි.
+
+මෙසේ අත්අඩංගුවට ගෙන ඇත්තේ නුගේගොඩ ප්‍රදේශයේ පදිංචි (18) හැවිරිදි පාසල් සිසුවකු බව පොලීසිය කියයි.
+
+අත්අඩංගුවට ගත් සැකකරු නුගේගොඩ ප්‍රදේශයේ  උපකාරක පන්තියකට යමින් සිටියදී මත්තේගොඩ කුඩමාදූව ප්‍රදේශයේ සිට පැමිණි 17 හැවිරිදි පාසැල් සිසුවියක සමඟ ප්‍රේම සබඳතාවක් පවත්වාගෙන ගොස් තිබේ. මේ අතරතුරදී පෙම්වතා කිසියම් ඖෂධ වර්ගයක් පානය කරන බව දැන ගෙන ඒ පිළිබඳව විපරම් කිරීමේදී පෙම්වතාට නිදන්ගත රෝගයක් හට ගෙන ඇතැයි දැනගැනීම නිසා ප්‍රේම සම්බන්ධතාවය නවතාලීමට පාසල් සිසුවිය කටයුතු කර තිබේ.
+
+පසුව ඇය වෙනත් තරුණයකු සමග ප්‍රේම සම්බන්ධතාවයක්  ආරම්භ කර තිබේ.
+
+මේ බව දැනගත් තරුණයා ප්‍රේම සම්බන්ධතාවය පවත්වාගෙන ගිය  කාලය තුළදී වීඩියෝ කෝල් ගන්නා අවස්ථාවල දි පාසල් සිසුවියගේ නිරුවත් ඡායාරූප ස්ක්‍රීන්ෂොට් හරහා ලබාගෙන තිබූ අතර එම ඡායාරූප  ප්‍රේම සම්බන්ධතාවය නැවැත්වීමෙන් පසුව ඉන්ස්ටග්‍රෑම් ඔස්සේ අන්තර්ජාලයට මුදාහැර තිබේ.
+
+...
+
+[Data](articles/0840efdf.json)
+
+---
+
 ### Gaza Children's Fund Donation of 127 million rupees so far
 
 *2024-05-28 14:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/184688) · `ta`
@@ -1808,25 +1926,35 @@ The police say that the people of Wijayarama Road, Balapitiya (28), has been lan
 
 ---
 
-### Starlink : ශ්‍රී ලංකාවට සැටලයිට් අන්තර්ජාල පහසුකම් ලැබෙන්නේ කවදා ද ?
+### Starlink: When will Sri Lanka receive Satellite Internet facilities?
 
 *2024-05-28 12:22:59* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/crggj9e97r4o) · `si`
 
-Starlink : ශ්‍රී ලංකාවට සැටලයිට් අන්තර්ජාල පහසුකම් ලැබෙන්නේ කවදා ද ?
+Sri Lanka is set to receive Starlink satellite internet services soon, with registration open on Starlink's official website. This comes after a meeting between President Ranil Wickremesinghe and Elon Musk on May 19. Starlink uses a network of low-orbit satellites to provide internet connectivity, bypassing the need for fiber optic cables. Despite concerns over market competition and national security, the government assures compliance with all requirements. The service aims to enhance connectivity, especially in remote areas, but affordability and data privacy remain key considerations.
 
-ලොව සුප්‍රකට ව්‍යාපාරික ඊලෝන් මස්ක් හිමිකාරිත්වය දරනු ලබන ස්ටාර්ලින්ක් අන්තර්ජාල සේවාවේ  පහසුකම ලබා ගැනීම සඳහා මෙරට පාරිභෝගිකයින්ට පෙර ඇණවුම් කිරීමේ අවස්ථාව දැන් උදාවී ඇති බව (මැයි මස 27 වෙනිදා) සමාජ මාධ්‍ය ඔස්සේ හුවමාරු විය.
+🟩
 
-ආපසු ගෙවීමේ කොන්දේසිය මත ඇමෙරිකානු ඩොලර් 9 ක මුදලකට ස්ටාර්ලින්ක් අන්තර්ජාල සේවාව වෙනුවෙන් ශ්‍රී ලාංකිකයින්ට පෙර ඇණවුම් ලියාපදිංචිය කිරීමට අවස්ථාව ඇති බව ඔවුන්ගේ නිල වෙබ් අඩවියේ දැක්වෙයි.
+Starlink: When will Sri Lanka receive Satellite Internet facilities?
 
-ජනාධිපති රනිල් වික්‍රමසිංහ සහ ඊලෝන් මස්ක් අතර හමුවක් පසුගිය මැයි මස 19 වෙනිදා ඉන්දුනීසියාවේ දී පැවැත්වුණි.
+The world's famous business ownership of the world has now been able to order the facility of the country (on May 27).
 
-ස්ටාර්ලින්ක් අන්තර්ජාල සේවාව යනු පෘථිවි පෘෂ්ඨයට සාපේක්ෂව ආසන්න කක්ෂයක් හෝ පහළ පෘථිවි කක්ෂය තුළ ස්ථාන ගත කර ඇති චන්ද්‍රිකා මත පදනම් වූ අන්තර්ජාල පද්ධතියකි.
+On their official website, Sri Lankans have the opportunity to register before the Starling online internet service for the refundability of repayment.
 
-ෆයිබර් ඔප්ටික් කේබල් භාවිතා කිරීම වෙනුවට ස්ටාර්ලින්ක්, අධික වේගයෙන් දත්ත හුවමාරු කිරීම සඳහා කුඩා, පහළ-කක්ෂීය චන්ද්‍රිකා දහස් ගණනකින් සැදුම්ලත් පද්ධතියක් භාවිත කරනු ලැබේ.
+President Ranil Wickremesinghe and Elon Musculars held a meeting between the 19th of May on May 19.
+
+Starlink Internet Service is a satellite-based internet system that has been located near the Earth's surface.
+
+Instead of using Fiber Optic cable, Starlinq, is used in thousands of small, lower orbitals for thousands of small, lower-orbitals.
+
+Simply put Starlink through radio waves, online data to the satellites in orbit, which leads to the users of the earth.
+
+Starlink satellite service may refer to the remote areas of the fiber optic cable.
 
 ...
 
 [Data](articles/5168a185.json)
+
+[Extended Data](ext_articles/5168a185.ext.json)
 
 ---
 
@@ -1849,6 +1977,22 @@ Testing measures were carried out that all passengers were evacuated through eme
 [Data](articles/7e4b56b5.json)
 
 [Extended Data](ext_articles/7e4b56b5.ext.json)
+
+---
+
+### තවමත් මුහුදු යන්න එපා
+
+*2024-05-28 12:14:22* · [`adalk`](https://www.ada.lk/breaking_news/තවමත්-මුහුදු-යන්න-එපා/11-409865) · `si`
+
+නැවත දැනුම් දෙන තුරු ධීවර සහ නාවුක කටයුතුවලින් වැළකී සිටින ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුවෙන් උපදෙස්.
+
+සක්‍රීය වී ඇති නිරිත දිග මෝසම් තත්ත්වය හේතුවෙන් දිවයින වටා මුහුදු ප්‍රදේශවල, බෙංගාල බොක්ක මුහුදු ප්‍රදේශයේ සහ අරාබි මුහුදු ප්‍රදේශයේ මුහුදු ප්‍රදේශ රළු විය හැකි බවත් මෙම කලාපය තුළ විටින් විට පැයට කිලෝමීටර 60 ක් 70 ත් අතර වේගයකින් සුළං ඇතිවිය හැකි බවත් කාලගුණ විද්‍යා දෙපාර්තමේන්තුව නිවේදනය කර ඇත.
+
+බැවින් නැවත දැනුම් දෙන තුරු දිවයින වටා මුහුදු ප්‍රදේශවල ධීවර සහ නාවුක කටයුතු වපින් වැලකී සීටින ලෙස ධීවර සහ නාවුක ප්‍රජාවට උපදෙස් නිකුත් කළ නිවේදනය තවදුරටත් දීර්ග කර ඇත.
+
+◼️
+
+[Data](articles/6fb38502.json)
 
 ---
 
@@ -1893,6 +2037,26 @@ When Minister Ranatunga tried to pass along the road, the protesters on both sid
 [Data](articles/564899a3.json)
 
 [Extended Data](ext_articles/564899a3.ext.json)
+
+---
+
+### රුපියල් 500 ක් හොරෙන් ගත්තැයි මල්ලී අයිියාට පහරදී ඝාතනය කරලා
+
+*2024-05-28 12:05:58* · [`adalk`](https://www.ada.lk/breaking_news/රුපියල්-500-ක්-හොරෙන්-ගත්තැයි-මල්ලී-අයිියාට-පහරදී-ඝාතනය-කරලා/11-409864) · `si`
+
+රුපියල් 500 ක් හොරෙන් ගත්තැයි වැඩිමහල් සොහොයුරාට අතින් පයින් පහරදී ඝාතනය කල බවට සැකපිට පුද්ගලයකු අත්අඩංගුවට ගත්බව පින්වත්ත පොලිසිය පවසයි.
+
+මෙසේ අත්අඩංගුවට ගෙන ඇත්තේ පින්වත්ත උපෝසථාරාම පාරේ පදිංචි  48 හැවිරිදි පුද්ගලයෙකු බව පොලිසිය කීය.
+
+පින්වත් උපෝසථාරාම පාරේ පදිංචිව සිටි ජයන්ත සිල්වා නමැති 52 හැවිරිදි පුද්ගලයෙකු පානදුර මූලික රෝහලේ ප්‍රතිකාර ලබමින් සිටියදී මියගොස් තිබුණි.
+
+සැකකරු, මියගොස් ඇති වැඩිමහල් සොයුරා සහ මව සමඟ නිවසේ පදිංචිව  සිටින අතර, රුපියල් 500 ක් සොරකම් කිරීම සම්බන්ධයෙන් දෙදෙනා අතර  ඇතිවූ කතාබහක් දුරදිග යාමෙන් සිය වැඩිමහල් සොහොයුරාට ඉකුත් 13 දා පහර දී ඇති බව පොලිස් පරීක්ෂණවලදී අනාවරණය වී තිබේ.
+
+පහර කෑමෙන් තුවාල ලබා සිටි තැනැත්තා ඉකුත් 21 දා පානදුර මූලික රෝහලේදී  මියගොස් ඇති අතර, පශ්චාත් මරණ පරීක්ෂණයේදී අනාවරණය වූ කරුණු මත ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක පත්ම නන්දන මහතාගේ මෙහෙයවීමෙන් සැකකරු අත්අඩංගුවට ගෙන තිබේ.
+
+...
+
+[Data](articles/f6ff26fc.json)
 
 ---
 
@@ -2179,185 +2343,5 @@ The proposal was made by UNP General Secretary Palitha Range Bandara today.
 [Data](articles/a05b7753.json)
 
 [Extended Data](ext_articles/a05b7753.ext.json)
-
----
-
-### Sri Lanka risks foreign retaliation over VFS visa deal
-
-*2024-05-28 11:27:00* · [`economynextcom`](https://economynext.com/sri-lanka-risks-foreign-retaliation-over-vfs-visa-deal-165061/) · `en`
-
-ECONOMYNEXT – The Maldives could take reciprocal action after Sri Lanka’s new system of outsourcing its visas, which requires the payment of “processing” and “convenience” charges of 26 dollars, even though the government does not collect any fees.
-
-Maldivian authorities have reminded Sri Lanka of the long-standing bilateral agreement under which their citizens could travel freely between the two neighbours without any charges or bureaucratic barriers.
-
-Maldivians, who consider Sri Lanka their second home, often spend more than a month in the larger country, but are now required to pay 26 dollars to VFS Global, which has controversially been contracted to handle Sri Lankan visas.
-
-“The Sri Lankan government will not charge a fee, but Maldivians still have to pay VFS after applying online for a visa,” a Maldivian government official said in the capital, Male. “This violates the spirit of our agreement.”
-
-...
-
-[Data](articles/9611925b.json)
-
-[Extended Data](ext_articles/9611925b.ext.json)
-
----
-
-### Woman arrested with heroin in Wellampitiya
-
-*2024-05-28 11:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/99485/woman-arrested-with-heroin-in-wellampitiya) · `en`
-
-Police have arrested a woman who was in possession of heroin during the operation ‘Yukthiya’ carried out in the Wellampitiya area in the Grandpass police division.
-
-The Police Special Task Force (STF) arrested the woman, identified by the alias “Wellampitiya Kudu Rejina”, with 7 grams and 280 milligrams of heroin during the operation yesterday (27) and handed over the suspect to Grandpass Police for further investigations.
-
-◼️
-
-[Data](articles/1a7fc029.json)
-
-[Extended Data](ext_articles/1a7fc029.ext.json)
-
----
-
-### Suspect arrested over murder of ’Kalamulle Tashi’ dies in prison
-
-*2024-05-28 11:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Suspect-arrested-over-murder-of-Kalamulle-Tashi-dies-in-prison/108-283515) · `en`
-
-Kalutara, May 28 (Daily Mirror) - A suspect who was arrested and remanded in connection with a murder in Katukurunda, Kalutara last week, was found dead in the Kalutara prison yesterday (27).
-
-The deceased, Thushara Rukmal Silva, a resident of Palapitiyagoda was arrested on May 25 in connection with the shooting in Kalutara in which 39-year-old Tashmin Madhuwantha Silva alias 'Kalamulle Tashi' was killed and his 8-year-old daughter injured on May 20.
-
-The suspect Rukmal Silva was remanded over the shooting after being produced before the Kalutara Magistrate's Court.
-
-According to prison sources, the inmate died yesterday afternoon (27) after being admitted to the Nagoda Teaching Hospital due to a sudden illness.
-
-The post-mortem examination of the deceased suspect is to be conducted today (28) and Kalutara (North) Police are conducting further investigations.
-
-◼️
-
-[Data](articles/f1415a50.json)
-
-[Extended Data](ext_articles/f1415a50.ext.json)
-
----
-
-### Bad weather pushing vegetable and fish prices up
-
-*2024-05-28 11:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/99484/bad-weather-pushing-vegetable-and-fish-prices-up) · `en`
-
-The prices of vegetables in the market have increased once gain due to the prevailing adverse weather conditions.
-
-It is reported that the prices have increased due to vegetable crops being damaged by the rainy weather.
-
-President of the Manning Market Traders’ Association, Ajith Kalutharage, warned that if this situation continues, the price of vegetables may rise even further.
-
-Meanwhile, it is reported that fish prices have also increased rapidly.
-
-President of the Peliyagoda Central Fish Market Traders’ Association Jayasiri Wickramaarachchi said that fishermen are not resorting to fishing activities at sea due to the bad weather conditions, which has caused the prices of fish to rise.
-
-◼️
-
-[Data](articles/810f738f.json)
-
-[Extended Data](ext_articles/810f738f.ext.json)
-
----
-
-### Floods at several places including Ratnapura
-
-*2024-05-28 11:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197103) · `si`
-
-Flood warnings issued for Ratnapura and surrounding areas due to rising water levels in Kalu Ganga and its tributaries. The Irrigation Department advises caution, expecting severe conditions later today. Floods also reported in Ging and Nilwala rivers, with potential for further flooding in the afternoon. Public urged to stay alert, especially near Attanagalu and Kelani rivers.
-
-🟩
-
-Irrigation Department announces that the watermen of the Kalu Ganga and tributaries have reached the level.
-
-Director of the Irrigation Department (Irrigation Department) of the Irrigation Department, the Water Science and Disaster Management Division of the Irrigation Department.. He said, "Suesshwara said.
-
-He said that the watermen of the Ratnapura Water Station has increased to 6.5 m, he said.
-
-Accordingly, the Irrigation Department announces the people on both sides of the Kalu Ganga, Pelmadulla, Nivitigala, Kuruwita, Kiriella and Ugali Divisional Secretariat.
-
-Suesshwara said that this situation could be severe in this afternoon.
-
-Meanwhile, the watermen of the Ging River and the Nilwala River is also a flood in the river, but the river will be easily flooded in the afternoon.Said.
-
-The Irrigation Department is notable to care for the public as the Attanagalu Bulnean and Kelani River.
-
-◼️
-
-[Data](articles/6de2c536.json)
-
-[Extended Data](ext_articles/6de2c536.ext.json)
-
----
-
-### Stay in the attention the water level over three feet at the same time
-
-*2024-05-28 11:16:05* · [`adalk`](https://www.ada.lk/breaking_news/අවදානයෙන්-සිටින්න-ජල-මට්ටම-එකවර-අඩි-තුනක්-ඉහලට/11-409863) · `si`
-
-In the Ratnapura district, water levels in several rivers, including the Kalugalle, have risen significantly due to recent heavy rains, reaching heights such as 17 feet 9 inches and 20 feet 10 inches. The District Secretary highlighted concerns about flooding in areas like Hide, Hungry, and Chicken rivers, and the impact on the Queen and Kurya rivers. Despite the high rainfall, there's a call to stay alert and cautious.
-
-🟩
-
-Ratnapura District Secretary, Ven.
-
-But showed some lack of rain. The watermen of the automatic draphrafts of the Kalugalle at the Kalugalle (28) will be 17 feet nine-foot. It was 20 feet and 10 inches at 09.30am.   The watermark should be significantly significantly significantly significantly highlights in hide, hide, hungry and chicken rivers.
-
-The District Secretary also emphasized that the water distance of the Queen and Kurya River in the Siripa Site. The water of river alignment is underway due to heavy rains in the past few days. The Ratnapura district was the highest rainfall of 33.9 millions this morning.
-
-◼️
-
-[Data](articles/a6806f13.json)
-
-[Extended Data](ext_articles/a6806f13.ext.json)
-
----
-
-### Eastern MP of Parliament in Ambuulans
-
-*2024-05-28 11:14:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அம்பியூலன்ஸில்-பாராளுமன்றம்-வரும்-கிழக்கு-எம்-பி/175-338008) · `ta`
-
-MPs complain about ambulance shortages; Speaker discusses issues with hospital officials, plans to travel to Colombo in an ambulance. MPs' request for tax-free vehicle licenses to be submitted to the President.
-
-🟩
-
-Speaker Mahinda Yapa Abeywardena has said that many MPs have lodged a complaint with the problems caused by the lack of vehicle and that a member of the Eastern Provincial Parliamentarian is frequent in Ambulance.
-
-The Speaker said that after discussing with the hospital officials, the Speaker said that he would come to Colombo in Ambuulans.
-
-Meanwhile, he said that the request of MPs to issue a tax -free vehicle license will be handed over to the President this week.
-
-116 members of the ruling party and opposition members have recently requested the Speaker to submit a Maj.. It is noteworthy that the Parliamentary Committee has already approved this request.
-
-◼️
-
-[Data](articles/64b95d58.json)
-
-[Extended Data](ext_articles/64b95d58.ext.json)
-
----
-
-### Eastern MP in Parliament
-
-*2024-05-28 11:14:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அம்புலன்ஸில்-பாராளுமன்றம்-வரும்-கிழக்கு-எம்-பி/175-338008) · `ta`
-
-MPs complain about vehicle shortages, especially ambulances in the Eastern Province. After discussions with hospital officials, it's agreed to bring vehicles to Colombo. A proposal for tax-free vehicle licenses, supported by both ruling and opposition parties, will be presented to the President this week.
-
-🟩
-
-Speaker Mahinda Yapa Abeywardena said that many MPs have lodged a complaint with the problems caused by the lack of vehicle and that a member of the Eastern Provincial Parliamentarian is frequent in the ambulance.
-
-Speaker said that after discussing with the hospital officials, the Speaker said that he would come to Colombo in Colombo.
-
-Meanwhile, he said that the request of MPs to issue a tax -free vehicle license will be handed over to the President this week.
-
-116 members of the ruling party and opposition members have recently requested the Speaker to issue a free vehicle permit.. It is noteworthy that the Parliamentary Committee has already approved this request.
-
-◼️
-
-[Data](articles/92bcb18b.json)
-
-[Extended Data](ext_articles/92bcb18b.ext.json)
 
 ---

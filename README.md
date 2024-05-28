@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-28 05:59:17**
+As of **2024-05-28 06:19:11**
 
 ## Newspaper Stats
 
-*Scraped **26,672** Articles*
+*Scraped **26,683** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 237
 dbsjeyarajcom | 265
 bbccomsinhala | 266
 newsfirstlk | 363
-islandlk | 1,442
+islandlk | 1,453
 economynextcom | 1,525
 dailyftlk | 1,567
 adalk | 2,270
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,273
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,672 (100.0%) of 26,672 articles have been extended.
+26,672 (100.0%) of 26,683 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -377,6 +377,76 @@ The Sri Lankan government too, like a ritual, has been rejecting the observation
 ---
 
 ### 2024-05-27 (Monday)
+
+### Food truck to restaurant chain: How Uber Eats helped Street Burger thrive
+
+*2024-05-27 23:38:00* · [`islandlk`](http://island.lk/food-truck-to-restaurant-chain-how-uber-eats-helped-street-burger-thrive/) · `en`
+
+Street Burger started dishing out delicious burgers from a food truck and grew to become a popular eating joint in no time. But Tharique, Founder, Street Burger, had bigger plans. He had confidence in his product and wanted to take it to more Sri Lankans and expand operations. Scale and reach came with Uber Eats. As Sri Lanka’s most popular food and grocery delivery app, it was a big support for the young brand to be available on Uber Eats and the orders grew as word went around. Today, Street Burger has grown from being a food truck to a restaurant chain with four outlets and continues to expand.
+
+...
+
+[Data](articles/1a39cf52.json)
+
+---
+
+### HNBA and HNBGI recognized as ‘Company with Great Managers’
+
+*2024-05-27 23:37:00* · [`islandlk`](http://island.lk/hnba-and-hnbgi-recognized-as-company-with-great-managers/) · `en`
+
+HNB Assurance PLC and HNB General Insurance Ltd were recognized as “Company with Great Managers” at the CLA Leadership Excellence and CLA Great Managers Awards 2024, for the second consecutive year. This prestigious recognition was conferred in recognition of HNBA and HNBGI being benchmarked with best practices and a culture demonstrating great leadership and managerial quotient while providing an eco system to nurture great managers.
+
+...
+
+[Data](articles/a16f7030.json)
+
+---
+
+### CSE and USAID hold Issuer Forum in the Southern Region, educating SMEs
+
+*2024-05-27 23:37:00* · [`islandlk`](http://island.lk/cse-and-usaid-hold-issuer-forum-in-the-southern-region-educating-smes/) · `en`
+
+The Colombo Stock Exchange (CSE) and the United States Agency for International Development (USAID) collaborated on a forum to provide small and medium sized enterprises (SMEs) in southern Sri Lanka with insights into opportunities to raise capital through the CSE.
+
+Held recently at the Weligama Bay Marriott Resort & Spa, the issuer forum titled “Redefining the Trajectory of Your Business”, provided guidance on exploring effective capital-raising avenues, specifically through listing on the Empower and Diri Savi Boards, which offer dedicated listing platforms for SMEs, focusing on sectors like agribusinesses, livestock, energy generation, ICT, and tourism-related ventures. Industry experts, investment advisors, CSE representatives, and representatives of USAID’s CATALYZE Sri Lanka Private Sector Development Activity led panel discussions and interactive sessions.
+
+...
+
+[Data](articles/f535f7d9.json)
+
+---
+
+### Overall decline in April PMI
+
+*2024-05-27 23:35:00* · [`islandlk`](http://island.lk/overall-decline-in-april-pmi/) · `en`
+
+Sri Lanka Purchasing Managers’ Index for Manufacturing (PMI – Manufacturing) recorded an index value of 42.0 in April 2024, indicating a contraction in manufacturing activities following the seasonal pattern. New Orders, Production, Employment and Stock of Purchases sub-indices declined during the month, resulting in an overall decline in the index.
+
+As per the respondents, the decline in New Orders was mainly due to the end of the festive season’s demand, particularly for food & beverages. Further, the decrease in Production was primarily due to the fewer working days in April, as most factories were temporarily closed for the Sinhala and Tamil New Year holidays. Moreover, Employment and Stock of Purchases decreased during the month, in line with the decline in New Orders and Production. Meanwhile, Suppliers’ Delivery Time further lengthened in April, owing to the extended holidays in the month.
+
+...
+
+[Data](articles/387bfe4d.json)
+
+---
+
+### Following delisting move, Unisyst Engineering launches share buy-back initiative
+
+*2024-05-27 23:32:00* · [`islandlk`](http://island.lk/following-delisting-move-unisyst-engineering-launches-share-buy-back-initiative/) · `en`
+
+Hayleys Group’s Unisyst Engineering PLC, which announced it would be delisting from the CSE last month, has submitted an offer letter to shareholders to buy back shares at Rs 6 per share.
+
+“Exit Offer of Rs 6 per share has been made by Advantis Projects & Engineering (Private) Limited (“Majority Shareholder”) to the rest of the shareholders of Unisyst Engineering PLC (the “Company”), who may wish to sell their shares in the Company, the Hayleys Group said in a stock exchange filing.
+
+The acceptance of the exit offer will commence at 9 am on May 28, 2024 and close at 1.30 pm on June 26, 2024, Hayleys said. Formerly Alufab PLC, Unisyst Engineering is an aluminium supplier in Sri Lanka.
+
+Yesterday both indices moved downwards. The All Share Price Index went down by 37.52 points, while S and P SL20 declined by 14.48 points. Turnover stood at Rs 494 million sans any crossings.
+
+...
+
+[Data](articles/f5b79e94.json)
+
+---
 
 ### Excise Dept. employee and bank manager among 08 arrested over drug racket
 
@@ -2141,121 +2211,5 @@ The government has not yet come forward to provide any solutions. If this situat
 [Data](articles/209e600c.json)
 
 [Extended Data](ext_articles/209e600c.ext.json)
-
----
-
-### The order to be received today
-
-*2024-05-27 14:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197069) · `si`
-
-Whangith Ungith Ungith and Wijayath Umbugala were released on bail from the Colombo Magistrate court. Meanwhile, Whangith Welhala remains in custody pending charges of financial fraud.
-
-🟩
-
-Whangith Ungith, Wijayath Umbugala has been released on bail.
-
-He had released on bail after being produced before the Colombo Magistrate.
-
-Whangith Welhala, who was arrested on suspicion of financial fraud, was remanded till today.
-
-◼️
-
-[Data](articles/03f6fb2a.json)
-
-[Extended Data](ext_articles/03f6fb2a.ext.json)
-
----
-
-### Bail to the leader of the Aura
-
-*2024-05-27 14:40:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அவுரா-தலைவருக்கு-பிணை/175-337970) · `ta`
-
-Colombo's Additional Magistrate Mrs. Pavithra Sanjeevani Patraja released Aura Lanka Chairman Viranjith Tabukalai on bail on Monday, following his arrest by the CID on charges lodged by IWS Holding. The suspect was granted two bails amounting to unspecified Rs.
-
-🟩
-
-Colombo Additional Magistrate Mrs. Pavithra Sanjeevani Patraja on Monday (27) has ordered the release of Aura Lanka Chairman Viranjith Tabukalai on bail.
-
-According to the complaint lodged by IWS Holding, the suspect was arrested by the Criminal Investigation Department (CID) and produced in court on the 22nd after being produced in court.
-
-The suspect has been ordered to grant two bail of Rs.
-
-◼️
-
-[Data](articles/f886bf59.json)
-
-[Extended Data](ext_articles/f886bf59.ext.json)
-
----
-
-### India and Bangladesh batter
-
-*2024-05-27 14:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197068) · `si`
-
-Rhem's hurricane hit India and Bangladesh, causing four deaths and widespread power outages. Despite its initial strength of 135 km/h, the storm's impact is now weakening. Authorities evacuated over a million people to safety.
-
-🟩
-
-It is reported that Rhem was reportedly in India and Bangladesh in India and Bangladesh in India and Bangladesh.
-
-Due to this, four people were killed and there were electricity in many areas.
-
-However, the impact of that hurricane is weakening.
-
-The hurricane of Rhem was 135 km per kilometers per hour last night.
-
-The authorities had acted to refer to the storms risk and send more than one million people to safe places.
-
-◼️
-
-[Data](articles/83d88947.json)
-
-[Extended Data](ext_articles/83d88947.ext.json)
-
----
-
-### Governor Vavuniya
-
-*2024-05-27 14:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/184601) · `ta`
-
-President Ranil Wickremesinghe presented 5,400 land guarantees in Vavuniya and Mannar districts as part of a national program aiming to provide 20 lakh such guarantees nationwide. The Governor of the Northern Province highlighted issues like land transfers and bank mortgages hindering guarantee acquisition but expressed confidence in the President finding solutions. He urged cooperation to successfully execute this initiative.
-
-🟩
-
-5,400 land guarantees for the people of Vavuniya and Mannar district were presented by President Ranil Wickremesinghe on Sunday (26) under the National Program to provide 20 lakh land guarantees across the country.
-
-Speaking at the event, Governor of the Northern Province, BSM Charles, said that the land bonds were re -issued to the Divisional Secretaries and that the people were facing the difficulties in obtaining their assurance.
-
-The governor said that many people cannot obtain land guarantees under the scheme due to the transfer of the land, the hand of the land, and the mortgage in the banks.
-
-However, the Hon'ble Governor said that the President would take action to find a solution to the banks mortgaged in the banks.
-
-Therefore, the Honorable Governor has demanded that all should cooperate successfully implement the president's dream project.
-
-◼️
-
-[Data](articles/34faa9f3.json)
-
-[Extended Data](ext_articles/34faa9f3.ext.json)
-
----
-
-### Aura Lanka chairman Viranjith Thambugala granted bail
-
-*2024-05-27 14:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/99465/aura-lanka-chairman-viranjith-thambugala-granted-bail) · `en`
-
-The Chairman of Aura Lanka Viranjith Thambugala who was arrested and remanded over allegations of financial fraud has been granted bail.
-
-The Colombo Magistrate’s Court issued this order when the case was taken up today (27), Ada Derana reporter said.
-
-The Chairman of Aura Lanka, businessman Viranjith Thambugala was arrested by police over allegations of financial fraud on May 22 and was remanded until today after being produced before the Colombo Magistrate’s Court.
-
-Thanbugala is the Chairman of Aura Lanka Group of Companies and the former owner of the ‘Dambulla Aura’ team in the Lanka Premier League (LPL).
-
-◼️
-
-[Data](articles/64e0b6bb.json)
-
-[Extended Data](ext_articles/64e0b6bb.ext.json)
 
 ---

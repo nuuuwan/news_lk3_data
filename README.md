@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-28 08:34:07**
+As of **2024-05-28 08:52:55**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,280
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,700 (100.0%) of 26,709 articles have been extended.
+26,709 (100.0%) of 26,709 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -298,53 +298,87 @@ Further, Leptospirosis, commonly known as ‘rat fever,’ is another pressing c
 
 ---
 
-### இடைக்கால ஜனாதிபதியாகவே ரணில் விக்கிரமசிங்கவை தெரிவு செய்தோம்    - பொதுச்செயலாளர் சாகர காரியவசம்
+### We elected Ranil Wickremesinghe as the interim president - General Secretary Sagara Kariyawasam
 
 *2024-05-28 06:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/184621) · `ta`
 
-இடைக்கால ஜனாதிபதியாகவே ரணில் விக்கிரமசிங்கவை தெரிவு செய்தோம்.பதவி காலம் நிறைவடைந்ததன் பின்னர் இணக்கப்பாடும் முடிவடையும்.தேர்தலை நடத்தாமல் ஜனாதிபதிக்கு மீண்டும் அதிகாரத்தை வழங்க வேண்டும் என்று குறிப்பிடுவது முட்டாள்தனமான கருத்தாகும்.தேசியத்தின் மீது பற்றுள்ளவரை ஜனாதிபதி வேட்பாளராக களமிறக்குவோம் என ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் பொதுச்செயலாளர் சாகர காரியவசம் தெரிவித்தார்.
+Ranil Wickremesinghe has been elected as the interim president, with the General Secretary emphasizing the importance of holding elections instead of transferring power without them. The Sri Lanka People's Alliance (PA) plans nationwide campaign meetings ahead of the elections, showcasing unity despite internal political differences. The PA is prepared to contest the upcoming presidential election, with a candidate announcement expected next month, and continues to support President Wickremesinghe.
 
-ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் தலைமை காரியாலயத்தில் திங்கட்கிழமை (27) இடம்பெற்ற ஊடகவியலாளர் சந்திப்பின் போது மேற்கண்டவாறு குறிப்பிட்டார்.
+🟩
 
-இடம்பெறவுள்ள தேர்தல்களை இலக்காகக் கொண்டு நாடளாவிய ரீதியில்  தேர்தல் பிரசாரக் கூட்டங்களை நடத்த தீர்மானித்துள்ளோம்.முதலாவது கூட்டத்தை நேற்று முன்தினம் அநுராதபுரத்தில் வெற்றிகரமாக நடத்தினோம்.செயற்பாட்டு ரீதியான செயற்பாடுகளில் இனி ஈடுபடுவோம்.
+We have elected Ranil Wickremesinghe as the interim president. After the end of the post, it is a foolish idea that the President should re -give power without holding the election.
 
-பாராளுமன்ற உறுப்பினர் நிமல் லன்ஷா எமது கட்சியின் தலைவரான மஹிந்த ராஜபக்ஷவின் உருவ படத்தை முன்னிலைப்படுத்தி அரசியலில் ஈடுபட்டார்.பொதுஜன பெரமுனவின் உறுப்பினராகவே பாராளுமன்றத்துக்கு தெரிவானார்.
+He made this statement during a media briefing held at the Sri Lanka PA's Chief Office on Monday (27).
+
+We have decided to hold election campaign meetings nationwide, targeting the upcoming elections. The first meeting was held in Anuradhapura yesterday.
+
+Member of Parliament Nimal Lansha was involved in politics, highlighting the image of our party leader, Mahinda Rajapaksa.
+
+There is no problem with politics beyond politics between Basil Rajapaksa and Member of Parliament Nimal Lansha, the founder of the PA.
+
+We are ready to contest the upcoming presidential election. Many people are ready to contest on behalf of our scene. We will announce our candidate next month.
+
+News that the PA has decided to continue to cooperate with President Ranil Wickremesinghe.
 
 ...
 
 [Data](articles/d9551716.json)
 
+[Extended Data](ext_articles/d9551716.ext.json)
+
 ---
 
-### ஸ்ரீலங்கா சுதந்திர கட்சி தலைமையில் பாரிய கூட்டணி   - அமைச்சர் மஹிந்த அமரவீர தெரிவிப்பு
+### Sri Lanka Freedom Party (SLFP)
 
 *2024-05-28 06:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/184615) · `ta`
 
-நாட்டில் இடம்பெறக்கூடிய எதிர்வரும் தேர்தலை இலக்காகக்கொண்டு இலங்கையில் மிகவும் விசாலமான கூட்டணியை ஸ்ரீலங்கா சுதந்திர கட்சி தலைமையில் அமைக்க இருக்கிறோம்.  அதன் அங்குரார்பண நிகழ்வு அடுத்த மாதம் அம்பாந்தோட்டையில் இடம்பெறும் என அமைச்சர் மஹிந்த அமரவீர தெரிவித்தார்.
+The Sri Lanka Freedom Party (SLFP) is forming a broad coalition ahead of the country's upcoming elections, with its inaugural event scheduled for June 8 in Hambantota. Minister Mahinda Amaraweera confirmed the event, emphasizing the party's strength and widespread support from both parliamentary and non-parliamentary groups. Despite efforts to divide the party, SLFP remains united and invites all supporters to its headquarters.
 
-நாட்டில் அடுத்து இடம்பெறும் தேர்தலில் ஸ்ரீலங்கா சுதந்திர கட்சி எடுக்க இருக்கும் நிலைப்பாடு தொடர்பாக குறிப்பிடுகையிலலேயே இவ்வாறு தெரிவித்தார்.
+🟩
 
-நாட்டில் இடம்பெறக்கூடிய எதிர்வரும் தேர்தலை இலக்காகக்கொண்டு இலங்கையில் மிகவும் விசாலமான மற்றும் பலம்மிக்க கூட்டணியை ஸ்ரீலங்கா சுதந்திர கட்சி தலைமையில் அமைக்க இருக்கிறோம். அதன் அங்குரார்ப்பண நிகழ்வு எதிர்வரும் ஜூன் மாதம் 8ஆம் திகதி அம்பாந்தோட்டை மாவட்டத்தில் இடம்பெற இருக்கிறது. அன்றைய தினம் பாரிய மக்கள் கூட்டத்துடன் ஸ்ரீலங்கா சுதந்திர கட்சி தலைமையிலான கூட்டணியின் கன்னி பேரணி இடம்பெற இருக்கிறது.
+The Sri Lanka Freedom Party (SLFP) has formed a very spacious alliance in Sri Lanka, targeting the upcoming elections in the country.Minister Mahinda Amaraweera said that the event will take place in Hambantota next month.
+
+He said this in the wake of the Sri Lanka Freedom Party (SLFP) in the next election in the country.
+
+The Sri Lanka Freedom Party (SLFP) has formed a very spacious and strong coalition in Sri Lanka to target the upcoming elections in the country.. Its inauguration will be held on June 8 in the Hambantota district.. The Virgin rally of the Sri Lanka Freedom Party -led coalition is to be held that day with massive crowds.
+
+Many parties, such as parties that represent parliament and parties that do not represent parliament. Have expressed their support for our massive alliance. At the same time, many MPs who represent various parties have already announced that they are participating in the rally.
 
 ...
 
 [Data](articles/a5546d02.json)
 
+[Extended Data](ext_articles/a5546d02.ext.json)
+
 ---
 
-### ஆகஸ்ட் மாதத்துக்குள் அரச நிறுவனங்களை  தனியார் மயப்படுத்த அரசாங்கம் தீர்மானம்    - ஜீ.எல்.பீரிஸ்
+### Government resolution to privatize state institutions by August - GL Peiris
 
 *2024-05-28 06:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/184623) · `ta`
 
-மறுசீரமைப்பு என்று குறிப்பிட்டுக் கொண்டு எதிர்வரும் ஆகஸ்ட் மாதத்துக்குள் அரச நிறுவனங்களை தனியார் மயப்படுத்த அரசாங்கம் தீர்மானித்துள்ளது.அரச நிறுவனங்கள் மற்றும் அரச வளங்கள் தொடர்பில் தீர்மானம் எடுக்கும் ஆணை ஜனாதிபதிக்கும்,அரசாங்கத்துக்கும் கிடையாது என சுதந்திர மக்கள் சபையின் பிரதிநிதியும்,பாராளுமன்ற உறுப்பினருமான பேராசிரியர் ஜீ.எல்.பீரிஸ் தெரிவித்தார்.
+The government plans to privatize state institutions by August, sparking public speculation about elections. This move follows the introduction of the Economic Transformation Bill aimed at stabilizing future governments. The decision has raised questions about the timing and motives behind the privatization, especially in light of upcoming elections.
 
-கொழும்பில் உள்ள சுதந்திர மக்கள் சபை காரியாலயத்தில் திங்கட்கிழமை (27) இடம்பெற்ற ஊடகவியலாளர் சந்திப்பின் போது மேற்கண்டவாறு குறிப்பிட்டார்.
+🟩
 
-ஜனாதிபதி தேர்தலா அல்லது பொதுத்தேர்தலா ?  முதலில் இடம்பெறும் என மக்கள் மத்தியில் பாரிய சந்தேகம் காணப்படுகிறது.பொறுப்புக் கூற வேண்டிய தரப்பினர் அறிக்கை வெளியிட்டுள்ள நிலையிலும் மக்கள் நம்பிக்கை கொள்வதில்லை.சொல்வதை செய்யும் கலாச்சாரம் இல்லாத காரணத்தால் அரச நிறுவனங்கள் மீது மக்கள் நம்பிக்கையில்லாமல் இருக்கிறார்கள்.
+The government has decided to privatize state institutions by the next August, referring to the restructuring.
 
-...
+He made this statement during a media briefing held at the Independent People's Council office in Colombo on Monday (27).
+
+Is the presidential election or the general election?There is a huge suspicion among the people.
+
+The expectation of the establishment of a new government is seen among the people.
+
+The government -free government has created the Economic Transformation Bill to make future governments in crisis.
+
+The government has decided to privatize state institutions by August by the opposite of August.
+
+The president and the government have no people to privatize state institutions and state resources. With the presidential election, political parties have to demand the people of the people to reorganize state institutions.
+
+◼️
 
 [Data](articles/d4697481.json)
+
+[Extended Data](ext_articles/d4697481.ext.json)
 
 ---
 
@@ -374,49 +408,71 @@ At times, in the North, North, North-central, Western, Southern and North Wester
 
 ---
 
-### உருவ கேலிக்கு துணை போயிருக்கும் இசைப்புயல் ...!
+### The music of the image ...
 
 *2024-05-28 06:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/184636) · `ta`
 
-தனுஷ் நடிப்பில் தயாராகி அடுத்த மாதம் திரைக்கு வரவிருக்கும் 'ராயன்' திரைப்படத்தில் இடம்பெற்ற இரண்டாவது பாடல் வெளியாகி இருக்கிறது. இந்தப் பாடலில் இளம் பெண்ணின் முகத்தை 'வாட்டர் பாக்கெட் மூஞ்சி' என்று உருவ கேலி செய்யப்பட்டிருப்பதால். ஒரு பிரிவு ரசிகர்கள் இப்பாடலுக்கு இசையமைத்த 'இசைப்புயல்' ஏ. ஆர். ரஹ்மானுக்கு தங்களது கண்டனத்தை இணையத்தில் பதிவு செய்து வருகிறார்கள்.
+The upcoming film 'Rayan,' featuring a star-studded cast including Dhanush, S Dhanush, J Surya, and more, is set to release its second song titled "Water Pocket Munji" next month. Composed by A.R. Rahman, the song has sparked controversy due to its lyrics mocking a young woman. Despite the criticism, the song, along with the film's first track, has garnered significant attention, with both expected to be released globally soon.
 
-நடிகரும், இயக்குநருமான தனுஷ் இயக்கத்தில் உருவாகி இருக்கும் 'ராயன்' எனும் திரைப்படத்தில் தனுஷ், எஸ். ஜே. சூர்யா, பிரகாஷ்ராஜ், செல்வராகவன், சந்தீப் கிஷன், காளிதாஸ் ஜெயராம், துஷாரா விஜயன், அபர்ணா பாலமுரளி, வரலட்சுமி சரத்குமார், சரவணன் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். ஓம் பிரகாஷ் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு 'இசை புயல்' ஏ. ஆர். ரகுமான் இசையமைத்திருக்கிறார். எக்சன் வித் திரில்லர் வகையிலான இந்தத் திரைப்படத்தை சன் பிக்சர்ஸ் நிறுவனம் சார்பில் தயாரிப்பாளர் கலாநிதி மாறன் தயாரித்திருக்கிறார்.
+🟩
+
+The second song will be released in the upcoming film 'Rayan' to be released next month. In this song, the young woman's face is mocked as 'water pocket munji'. A division fans have composed the song 'music' A.. R. Rahman is posting their condemnation on the Internet.
+
+Dhanush, S Dhanush, directed by actor and director Dhanush in 'Rayan'. J.. Surya, Prakashraj, Selvaraghavan, Sandeep Kishan, Kalidas Jayaram, Dushara Vijayan, Aparna Balamurali, Varalakshmi Sarathkumar, Saravanan and many others have acted. 'Music Storm' for the film, which has been recorded by Om Prakash. R. Raghuman has composed the music. The film was produced by Dr. Maran on behalf of Sun Pictures.
+
+The first song in the film will be released on June 13 in the world.. In this case, the second song 'Water Pocket' and the lyrical video for the song has been released.
 
 ...
 
 [Data](articles/39fb79f2.json)
 
+[Extended Data](ext_articles/39fb79f2.ext.json)
+
 ---
 
-### கார்த்தி - அரவிந்த்சாமி இணையும் 'மெய்யழகன்'
+### Karthi - Aravindsamy joins
 
 *2024-05-28 06:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/184635) · `ta`
 
-தமிழ் திரையுலகில் அழகான புன்சிரிப்பை தன் அடையாளங்களில் ஒன்றாக கொண்டிருக்கும் நட்சத்திர கலைஞர்களான கார்த்தி- அரவிந்த்சாமி முதன் முதன்முறையாக இணைந்திருக்கும் 'மெய்யழகன்' எனும் திரைப்படத்தின் ஃபர்ஸ்ட் லுக் போஸ்டர் வெளியிடப்பட்டிருக்கிறது.
+The first look poster of "Karthi-Aravindsamy," marking a significant moment in the Tamil film industry, has been unveiled. Directed by Premkumar, the film features Karthi, Aravindsamy, Sri Divya, Rajkiran, and more. Composed by Govind Vasantha and shot by Mahendran Jayaraju, it's produced by Surya and Jothika under 2D Entertainment. The production has wrapped, and the team celebrated Karthi's birthday by releasing the poster, generating high anticipation among fans.
 
-'96' எனும் திரைப்படத்தை இயக்கிய இயக்குநர் சி. பிரேம்குமார் இயக்கத்தில் உருவாகி இருக்கும் 'மெய்யழகன்' எனும் திரைப்படத்தில் கார்த்தி, அரவிந்த்சாமி, ஸ்ரீ திவ்யா, ராஜ்கிரண் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். மகேந்திரன் ஜெயராஜு ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு கோவிந்த் வசந்தா இசையமைத்திருக்கிறார். ஆக்சன் என்டர்டெய்னராக தயாராகி இருக்கும் இந்த திரைப்படத்தை 2 டி என்டர்டெய்ன்மென்ட் பட நிறுவனம் சார்பில் நட்சத்திர தம்பதிகளான சூர்யா- ஜோதிகா ஆகியோர் இணைந்து தயாரித்திருக்கிறார்கள்.
+🟩
 
-இப்படத்தின் படப்பிடிப்பு பணிகள் நிறைவடைந்து இறுதி கட்டப் பணிகள் விறுவிறுப்பாக நடைபெற்று வருகிறது. இந்நிலையில் கார்த்தியின் பிறந்த நாளை முன்னிட்டு இப்படத்தின் ஃபர்ஸ்ட் லுக்கை படக் குழுவினர் வெளியிட்டுள்ளனர்.
+The first look poster of the film 'Karthi-Aravindsamy' has been released for the first time in the Tamil film industry.
 
-...
+Director C's directed '96'. Karthi, Aravindsamy, Sri Divya, Rajkran and many others have starred in the movie 'Meyyalakan' directed by Premkumar.. Govind Vasantha has composed the film, which is being recorded by Mahendran Jayaraju. The film is being produced by star couple Surya and Jodhika on behalf of 2D Entertainment film company.
+
+The shooting of the film is completed and the final phase of the work is going on. The film crew has released the first look of the film on the occasion of Karthi's birthday.
+
+Karthi and Aravindsamy have been designed to be the mudslides of the mud, which has caused great anticipation among fans.. The expectation of the film has increased as the photo with Karthi Jallikattu bull has been released in another poster.
+
+◼️
 
 [Data](articles/9029ab6f.json)
 
+[Extended Data](ext_articles/9029ab6f.ext.json)
+
 ---
 
-### அலி சப்ரி ரஹீமுக்கும் புத்தளம் பிரதேச செயலாளருக்கும் இடையில் வாக்குவாதம்
+### An argument between Ali Sabri Rahim and Puttalam Divisional Secretary
 
 *2024-05-28 06:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/184652) · `ta`
 
-புத்தளம் பிரதேச செயலாளருக்கும் புத்தளம் மாவட்ட பாராளுமன்ற உறுப்பினர் அலி சப்ரி ரஹீமுக்கும் இடையில் வாக்குவாதம் ஏற்பட்டுள்ளது.
+Ali Sabri Rahim, the Puttalam District Parliamentarian, had an argument with the Divisional Secretary over an investigation into individuals occupying state-owned land on Mannarama Road. This incident led to a protest by Divisional Secretariat officials against threats to the Secretary.
 
-புத்தளம், மன்னாராம வீதியில் அரசாங்கத்திற்குச் சொந்தமான காணியொன்றை ஆக்கிரமித்துள்ள நபர்கள் தொடர்பில் விசாரணை நடத்த பிரதேச செயலாளர் அங்கு சென்ற போதே வாக்குவாதம் ஏற்பட்டுள்ளது.
+🟩
 
-அங்கு பிரதேச செயலாளருக்கு பாராளுமன்ற உறுப்பினர் அச்சுறுத்தல் விடுத்தமைக்கு எதிர்ப்பு தெரிவித்து புத்தளம் பிரதேச செயலக அதிகாரிகள் குழுவொன்றும் ஆர்ப்பாட்டத்தில் ஈடுபட்டனர்.
+There has been an argument between Puttalam Divisional Secretary and Puttalam District Parliamentarian Ali Sabri Rahim.
+
+There was an argument when the Divisional Secretary went to investigate the people who occupied a state -owned land on Mannarama Road in Puttalam.
+
+A group of Puttalam Divisional Secretariat officials staged a demonstration in protest of the threat of MP for the Divisional Secretary.
 
 ◼️
 
 [Data](articles/748a4627.json)
+
+[Extended Data](ext_articles/748a4627.ext.json)
 
 ---
 
@@ -460,37 +516,51 @@ Speaking at a press conference held in Colombo yesterday, industry veteran and f
 
 ---
 
-### தேர்தல் பரப்புரையின் போது ராகுல் காந்தி, தேஜஸ்வி யாதவ் பங்கேற்றிருந்த மேடை கீழே இறங்கியது
+### During the election campaign, Rahul Gandhi and Tejaswi Yadav took the stage.
 
 *2024-05-28 02:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/184651) · `ta`
 
-இந்திய காங்கிரஸ் கட்சியின் தலைவர் ராகுல் காந்தி கலந்து கொண்ட பேரணியின் போது ஒரு மேடை மேடை கீழே இறங்கியது தொடர்பான வீடியோ சமூக வலைத்தளங்களில் வைரலாகி வருகிறது.
+Rahul Gandhi and Tejasvi Yadav supported Misa Bharti in Bihar's Bihatpur constituency during her election campaign. A viral video from their rally shows them together. Despite reports of no injuries, this event has garnered significant attention on social media.
 
-பீகார் மாநிலம் பாட்லிபுத்ரா தொகுதியில் லாலு பிரசாத் யாதவின் மகள் மிசா பார்தி போட்டியிடுகிறார். அவர்க்கு ஆதரவாக ராகுல்காந்தி வாக்கு சேகரித்தார். அவருடன் பீகார் எதிர்க்கட்சி தலைவர் தேஜஸ்வி யாதவ் உடன் இருந்தார்.
+🟩
 
-இருப்பினும் இதில் யாருக்கும் காயம் ஏற்படவில்லை என வெளிநாட்டு ஊடகங்கள் செய்தி வெளியிட்டுள்ளன.
+A video of a stage on the stage during the rally attended by Indian Congress leader Rahul Gandhi has gone viral on social media.
+
+Misa Bharti, daughter of Lalu Prasad Yadav, is contesting in Bihar State Batliputra constituency. Rahul Gandhi collected the vote in support of him. He was accompanied by Bihar Opposition Leader Tejasvi Yadav.
+
+However, foreign media have reported that no one was injured.
 
 ◼️
 
 [Data](articles/2fe81d1f.json)
 
+[Extended Data](ext_articles/2fe81d1f.ext.json)
+
 ---
 
-### யுத்தம் நிறைவடைந்த போதிலும் வடக்கிற்கு சமாதானத்தின் பலன் உரியவாறு கிடைக்கவில்லை - சஜித் பிரேமதாச
+### Despite the end of the war
 
 *2024-05-28 02:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/184650) · `ta`
 
-2019 மே 18 இல் யுத்தம் நிறைவடைந்தது. யுத்தம் நிறைவடைந்து 15 வருடங்கள் கடந்துள்ள போதிலும், வடக்கின் நிலைமை குறித்து எம்மால் மகிழ்ச்சியடைய முடியாது. யுத்தமொன்று முடிவடைந்த பின்னர்  சமாதானத்தின் பலனைக் கூட சரிவர இச்சமூகம் பெறவில்லை.
+Despite peace since 2019, the aftermath remains dire, especially in the North, where schools remain damaged and the community hasn't reaped peace's benefits. The Leader of the Opposition criticizes the lack of justice and fulfillment of promises, highlighting the need for digital education to strengthen the nation. He emphasizes the importance of IT education and plans to equip schools with smart classrooms and install Women Development Centers to empower both genders technologically.
 
-சமாதானத்தின் பலன்கள் சரியாக கிடைத்திருந்தால் இங்குள்ள பாடசாலைகள் கூட தேசிய பாடசாலைகளாக மாறியிருக்க வேண்டும். பெயர் பலகையுடன் சுருங்கிய தேசியப் பாடசாலைகளை இங்கு நாம் நாடவில்லை.  ஆனால் இங்கு அவ்வாறான எதுவும் நடக்கவில்லை.
+🟩
 
-இன்னும் கூட இப்பிரதேசங்களில் யுத்தத்தால் அழிந்து போன பாடசாலைகள் இருக்கின்றன. சமாதானம் ஏற்பட்டு 15 வருடங்களாகின்றன. யுத்தத்தை வெற்றி கொண்டதற்காக எத்தனை தடவை வாக்களித்தீர்கள். இன்னும் எமக்கு யுத்தத்தை காரணம் காட்ட முடியாது.
+The war ended on May 18, 2019. Although 15 years have passed since the end of the war, we cannot be happy with the situation of the North. After the end of the war, the community did not even get the benefit of peace.
 
-இப்பிரதேச பாடசாலைக்கும் மாணவர்களுக்கும் நீதி நியாயம் நிலைநாட்டப்படவில்லை என எதிர்க்கட்சித் தலைவர் தெரிவித்தார்.
+If the benefits of peace were right, the schools here must have become national schools. Here we do not seek national schools shrinking with the name board.But nothing like that happened here.
+
+Even in these areas, there are schools that have been destroyed by war. 15 years after peace. How many times did you vote for the winning of the war. We still cannot show the cause of war.
+
+The Leader of the Opposition said that justice for the area and the students of the area has not been upheld.
+
+In a history where promises are not fulfilled, I can only give pure confidence to the affected people who have lost their confidence in politics. The opposition leader said that he was the only opposition in the true meaning of the word and carried out services for the people.
 
 ...
 
 [Data](articles/b371555b.json)
+
+[Extended Data](ext_articles/b371555b.ext.json)
 
 ---
 
@@ -608,27 +678,33 @@ Bandara stressed the importance of initiating discussions on the economic polici
 
 ---
 
-### ஜனாதிபதி தேர்தலில் யாருக்கு ஆதரவு என முடிவெடுக்கவில்லை
+### The presidential election does not decide who supported
 
 *2024-05-28 02:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/184649) · `ta`
 
-ஜனாதிபதி தேர்தலில் யாரை ஆதரிப்பது என தமிழரசு கட்சி இதுவரை எந்த முடிவையும் எடுக்கவில்லை என நாடாளுமன்ற உறுப்பினர் ஜனாதிபதி சட்டத்தரணி எம்.ஏ சுமந்திரன் தெரிவித்துள்ளார்.
+The Tamil National Alliance (TNA) has not yet decided which candidate to support in the upcoming presidential election. The party's central executive committee discussed the matter but took no stance. A decision will likely be made after reviewing the manifestos of the three candidates. Additionally, Sajith Premadasa expressed his commitment to fully implementing the 13th amendment, including police powers devolution, a point previously discussed in parliament.
 
-யாழ்.ஊடக அமையத்தில் 27 ஆம் திகதி திங்கட்கிழமை இடம்பெற்ற ஊடக சந்திப்பின் போதே அவ்வாறு தெரிவித்தார்.
+🟩
 
-கட்சியின் மத்திய செயற்குழு கூட்டத்தில் ஜனாதிபதி தேர்தல் தொடர்பில் பேசப்பட்டது. ஆனால் யாரை ஆதரிப்பது என முடிவெடுக்கவில்லை.
+The TNA has not taken any decision on whom to support the presidential election, said MP MP MA Sumanthiran.
 
-தற்போது ஜனாதிபதி தேர்தலில் மூன்று பேர் பிரதானமாக போட்டியிடவுள்ளதாக அறிகிறோம். அவர்கள் மூவரின் தேர்தல் அறிக்கைகள் வெளியான பின்னர், அது தொடர்பில் ஆராய்ந்து யாருக்கு ஆதரவு வழங்குவது என முடிவெடுப்போம்.
+He said this during a media briefing held at the Jaffna Media Center on Monday 27th.
 
-அதேவேளை கடந்த மே தின கூட்டம் ஒன்றில் சஜித் பிரேமதாசா உரையாற்றும் போது 13ஐ முழுமையாக நடைமுறைப்படுத்துவேன் என கூறி இருந்தார்.
+The party's central executive committee spoke about the presidential election. But it did not decide whom to support.
 
-இது தொடர்பில் நான் அவரை நாடாளுமன்றில் சந்தித்த போது கேட்டேன். பொலிஸ் காணி அதிகாரம் அதற்குள் இருக்குமா என அவர் அதற்கு இருக்கும் என கூறினார்.
+We know that three people are currently contesting the presidential election. After the release of the trio's election manifesto, we will decide who will support it.
 
-அவ்வேளை நான் அவரிடம் கூறினேன், கடந்த ஜனாதிபதி தேர்தலின் போது , 13ஐ விட அதிகமாக தரலாம் என கூறினீர்கள் என அவரிடம் கூறினேன் என தெரிவித்தார்.
+At the same May Day meeting, Sajith Premadasa said he would fully implement 13.
+
+When I met him in parliament in this regard, I heard. He said it would be if it would have the police land authority.
+
+I told him that I told him that during the last presidential election, you said that you could give more than 13 more than 13.
 
 ◼️
 
 [Data](articles/f526dc80.json)
+
+[Extended Data](ext_articles/f526dc80.ext.json)
 
 ---
 

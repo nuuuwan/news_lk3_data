@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-28 15:34:08**
+As of **2024-05-28 15:52:58**
 
 ## Newspaper Stats
 
-*Scraped **26,802** Articles*
+*Scraped **26,803** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,31 +20,59 @@ adaderanalk | 3,065
 tamilmirrorlk | 3,144
 virakesarilk | 4,104
 dailymirrorlk | 4,224
-adaderanasinhalalk | 4,298
+adaderanasinhalalk | 4,299
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,800 (100.0%) of 26,802 articles have been extended.
+26,802 (100.0%) of 26,803 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-28 (Tuesday)
 
-### ஆண் முகாமையாளரை கடத்தி வன்புணர்ந்து, கொள்ளை
+### පාස්කු ප්‍රහාරයෙන් පුතු අහිමිවූ තිළිණිත් යන්නම යයි
+
+*2024-05-28 15:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197113) · `si`
+
+ලොවම කම්පාවට පත්කරමින් 2019 වසරේ අප්‍රේල් 21 වනදා එල්ලවූ පාස්කු ප්‍රහාරයෙන් බරපතළ තුවාල ලැබූ කාන්තාවක් මියගොස් තිබේ.
+
+පාස්කු ත්‍රස්තයින්ගේ එක් ඉලක්කයක් වූ මීගමුව කටුවාපිටිය දේවස්ථානයට එල්ලවූ ප්‍රහාරයෙන් ඇය තුවාල ලබා තිබුණි.
+
+එම ප්‍රහාරයෙන් තිදරු මවක් වන ඇයගේ එක් පුතෙකුද ජීවිතක්ෂයට පත්විය.
+
+ප්‍රහාරයෙන් බරපතළ තුවාල ලැබූ එම කාන්තාව වසර 5කට ආසන්න කාලයක් ප්‍රතිකාර ලබමින් සිට මෙලෙස මියගොස් ඇත.
+
+◼️
+
+[Data](articles/54d7d8b0.json)
+
+---
+
+### Kidnapped the male manager, the robbery
 
 *2024-05-28 15:10:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஆண்-முகாமையாளரை-கடத்தி-வன்புணர்ந்து-கொள்ளை/76-338028) · `ta`
 
-ஆண் முகாமையாளர் ஒருவரை கடத்திச் சென்று, பாலியல் வன்புணர்ந்து, அதனை வீடியோவாக பதிவுச் செய்துக்கொண்டதன் பின்னர், அவரிடமிருந்த பெறுமதியான பொருட்களை அபகரித்துவிட்டு, முகாமையாளரை கைவிட்டுச் சென்ற சம்பவமொன்று கண்டி- வத்தேகம பொலிஸ் பிரிவில் இடம்பெற்றுள்ளது.
+A male manager was kidnapped, sexually assaulted, and robbed of 118,500 rupees, two mobile phones, a voucher ring, and a wristwatch. The incident occurred near Wadegama, and the manager was later abandoned. Four suspects were arrested five days post-incident. The abduction took place on the 23rd, with the assailants threatening to release a video unless a complaint was filed. The police recovered the van used in the kidnapping and are investigating further.
 
-வத்தேகம நகரிலுள்ள பல்பொருள் அங்காடி நிலையமொன்றின் முகாமையாளரே, இவ்வாறு கடத்திச் செல்லப்பட்டு, காட்டுப்பகுதியில் உள்ள வீடொன்றில் வைத்து பாலியல் வன்கொடுமைக்கு உட்படுத்தப்பட்டுள்ளார்.
+🟩
 
-அவரிடமிருந்து 1,18,500 ரூபாய் பணம்,  இரண்டு அலைபேசிகள், வௌ்ளி மோதிரம் மற்றும் கைக்கடிகாரம் ஆகியன கொள்ளையிடப்பட்டுள்ளன. சம்பவம் தொடர்பில் ஐந்து நாட்களுக்குப் பின்னரே, பொலிஸில் முறைப்பாடு செய்யப்பட்டுள்ளது. அதனையடுத்து, சந்தேகத்தின்பேரில் நால்வரை கட்டுக்கஸ்தோட்டை பொலிஸார் கைது செய்துள்ளனர்.
+An incident where a male manager was abducted, sexually abused and recorded as a video, and an incident where the manager was abandoned and the manager was abandoned.
+
+The manager of a supermarket station in Wadegama has been abducted and sexually assaulted in a house in the forest.
+
+1,18,500 rupees, two mobile phones, vouchee ring and wristwatch have been robbed from him.. Five days after the incident, the police have lodged a complaint. Subsequently, four persons have been arrested by the police on suspicion.
+
+On the evening of the 23rd, the manager was abducted by some people in the van on the evening of the Ranavana Road, Katugastota.  Investigations have also been found that the manager of the violence has taken him to Venni that night and fled the street.
+
+It is reported that the kidnappers have been delayed to lodge a complaint with the police as they threaten the video.
 
 ...
 
 [Data](articles/7eab017e.json)
+
+[Extended Data](ext_articles/7eab017e.ext.json)
 
 ---
 
@@ -63,6 +91,8 @@ He also mentioned that these activities should not contradict with the provision
 ◼️
 
 [Data](articles/53018297.json)
+
+[Extended Data](ext_articles/53018297.ext.json)
 
 ---
 
@@ -2377,35 +2407,5 @@ Many parties, such as parties that represent parliament and parties that do not 
 [Data](articles/a5546d02.json)
 
 [Extended Data](ext_articles/a5546d02.ext.json)
-
----
-
-### Government resolution to privatize state institutions by August - GL Peiris
-
-*2024-05-28 06:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/184623) · `ta`
-
-The government plans to privatize state institutions by August, sparking public speculation about elections. This move follows the introduction of the Economic Transformation Bill aimed at stabilizing future governments. The decision has raised questions about the timing and motives behind the privatization, especially in light of upcoming elections.
-
-🟩
-
-The government has decided to privatize state institutions by the next August, referring to the restructuring.
-
-He made this statement during a media briefing held at the Independent People's Council office in Colombo on Monday (27).
-
-Is the presidential election or the general election?There is a huge suspicion among the people.
-
-The expectation of the establishment of a new government is seen among the people.
-
-The government -free government has created the Economic Transformation Bill to make future governments in crisis.
-
-The government has decided to privatize state institutions by August by the opposite of August.
-
-The president and the government have no people to privatize state institutions and state resources. With the presidential election, political parties have to demand the people of the people to reorganize state institutions.
-
-◼️
-
-[Data](articles/d4697481.json)
-
-[Extended Data](ext_articles/d4697481.ext.json)
 
 ---

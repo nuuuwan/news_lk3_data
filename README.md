@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-29 00:06:17**
+As of **2024-05-29 00:18:50**
 
 ## Newspaper Stats
 
-*Scraped **26,914** Articles*
+*Scraped **26,915** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,38 +19,62 @@ adalk | 2,294
 adaderanalk | 3,075
 tamilmirrorlk | 3,154
 virakesarilk | 4,128
-dailymirrorlk | 4,247
+dailymirrorlk | 4,248
 adaderanasinhalalk | 4,319
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,913 (100.0%) of 26,914 articles have been extended.
+26,914 (100.0%) of 26,915 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-28 (Tuesday)
 
-### யாழில் 11 மாணவிகளுக்கு நடந்த கொடுமை - பொலிஸில் சரண்
+### The cruelty of 11 students in Jaffna - Saran at the police
 
 *2024-05-28 23:43:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/யாழில்-11-மாணவிகளுக்கு-நடந்த-கொடுமை-பொலிஸில்-சரண்/71-338053) · `ta`
 
-யாழ்ப்பாணம், தீவகம் கல்வி வலயத்திலுள்ள பாடசாலையொன்றின் விடுதியில் தங்கியிருந்த 10 முதல் 17 வயதுக்குட்பட்ட 11 பாடசாலை மாணவிகள் ஊர்காவற்துறை பொலிஸ் நிலையத்தில் சரணடைந்துள்ளனர்.
+In Jaffna, 11 students aged 10-17 from a school in the Educational Zone have sought refuge at the Kayts police station due to alleged physical abuse and harassment over three years by hostel staff. The victims reported being targeted for mistakes in English pronunciation, not speaking English well, and not memorizing prayers. Following their complaint, the students were hospitalized, and the police initiated an arrest warrant against the hostel staff.
 
-கிறிஸ்தவ அருட்சகோதரி ஒருவரின் கொடூர தாக்குதலை தாங்க முடியாமல் அவர்கள் வெளியேறி உள்ளனர்.
+🟩
 
-அகப்பை காம்பு மற்றும் தடியால் தாக்குவது, தலைமுடியை பிடித்து சுவருடன் தாக்குவதென, விடுதிக்கு பொறுப்பான அருட்சகோதரி கடந்த 3 வருடங்களாக தம்மை சித்திரவதை செய்வதாக மாணவிகள் கண்ணீருடன் முறையிட்டுள்ளனர்.
+11 school students between the ages of 10 and 17 who were staying at a school in the Educational Zone in the Education Zone in Jaffna have surrendered to the Kayts police station.
 
-புது வகையான ஆங்கில உச்சரிப்பை பேசச் சொல்வது, ஆங்கில உச்சரிப்பு தவறு, ஆங்கிலம் முறையாக பேசாதது, பிரார்த்தனையை முறையாக  மனனம் செய்யாதது உள்ளிட்ட காரணங்களிற்காகவே அருட் சகோதரி தாக்குதல் நடத்தியதாக குறிப்பிடப்படுகிறது.
+They are unable to withstand the brutal attack of a Christian blessing.
 
-பாடசாலையில் குறித்த விடயத்தை சொன்னபோதும் சமாளித்து போகுமாறு கூறவே அச்சம் காரணமாக 11 மாணவிகளும் இன்று ஊர்காவற்றுறை பொலிஸ் நிலையத்தில் முறைப்பாடு அளித்துள்ளனர்.
+Students have tearfully appealed for the torture of the hostel for the past three years that the hostel is in charge of the stick and the stick and attacking the wall.
 
-குறித்த 11 மாணவிகளும் ஊர்காவற்துறை ஆதார வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதுடன் விடுதி பொறுப்பாசிரியரை கைது செய்ய பொலிஸார் நடவடிக்கை எடுத்துள்ளனர். R
+It is said that the Arut sister was attacked for reasons for speaking new English pronunciation, English pronunciation mistake, not speaking English properly and not memorizing prayer.
+
+Eleven students have lodged a complaint at the Kayts police station today for fear of telling the school.
+
+The 11 students have been admitted to the Kayts Hospital and the police have taken steps to arrest the hostel.. Remble
 
 ◼️
 
 [Data](articles/223286b2.json)
+
+[Extended Data](ext_articles/223286b2.ext.json)
+
+---
+
+### No funds this year for addressing public, govt. sector salary anomalies: Minister
+
+*2024-05-28 23:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/No-funds-this-year-for-addressing-public-govt-sector-salary-anomalies-Minister/108-283546) · `en`
+
+Colombo, May 28 (Daily Mirror) - Cabinet Minister Bandula Gunawardana said today that, under public financial management, the government is unable to allocate funds this year to address the salary anomalies demanded by trade unions in the public and government sectors.
+
+Addressing the media, he said several trade unions have requested that the president as well as the government consider their demands.
+
+He mentioned that there is an ongoing trade union action by university non-academic staff members. Additionally, several trade union actions have been launched by the health sector, education sector, and other state institutions over salary anomalies and demands for salary increases.
+
+While explaining the situation, he said that the current budget only includes financial provisions for the changes resulting from the increased salary allowance of Rs.10,000. Therefore, the government is unable to allocate funds to fulfill any recommendations during this financial year.
+
+...
+
+[Data](articles/3e171d89.json)
 
 ---
 
@@ -2285,29 +2309,5 @@ In addition, the suspect has been working as a former accountant of the Kalmunai
 [Data](articles/bc142da6.json)
 
 [Extended Data](ext_articles/bc142da6.ext.json)
-
----
-
-### Wildlife to improve the infrastructure of tourism hostels!
-
-*2024-05-28 14:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/184696) · `ta`
-
-The Wildlife Conservation Department is upgrading its tourist hostels' infrastructure to better accommodate the increasing number of visitors. This initiative includes enhancing physical facilities and services through partnerships with private entities interested in contributing to wildlife conservation efforts. The government has approved a proposal to facilitate these collaborations.
-
-🟩
-
-Steps have been taken to improve the infrastructure of the Wildlife Conservation Department, which belongs to the Department of Wildlife.
-
-There are 52 tourists currently being managed by the Department of Wildlife and have been found to increase the physical facilities of the hostel to provide the most of the services.
-
-It is appropriate to take physical development to the plants and animal protection directives that can be provided with the cooperation of private sector corporations and parties who are interested in providing self -cooperation for these tasks.
-
-Accordingly, the Cabinet has approved the proposal submitted by the Minister of Forestry and Forest Protection to obtain a desire from these parties.
-
-◼️
-
-[Data](articles/46a0bfec.json)
-
-[Extended Data](ext_articles/46a0bfec.ext.json)
 
 ---

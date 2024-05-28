@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-28 06:19:11**
+As of **2024-05-28 06:58:43**
 
 ## Newspaper Stats
 
-*Scraped **26,683** Articles*
+*Scraped **26,684** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ adaderanalk | 3,054
 tamilmirrorlk | 3,126
 virakesarilk | 4,076
 dailymirrorlk | 4,208
-adaderanasinhalalk | 4,273
+adaderanasinhalalk | 4,274
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,672 (100.0%) of 26,683 articles have been extended.
+26,680 (100.0%) of 26,684 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-28 (Tuesday)
+
+### වැසි සහ සුළං තත්ත්වය තවදුරටත්
+
+*2024-05-28 06:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197086) · `si`
+
+සක්‍රීය නිරිත දිග මෝසම් තත්ත්වය හේතුවෙන් පවතින වැසි සහ සුළං තත්ත්වය තවදුරටත් බලාපොරොත්තු විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ බස්නාහිර, සබරගමුව,මධ්‍යම, වයඹ සහ දකුණු පළාත්වල විටින් විට වැසි ඇතිවිය හැකි බවය.
+
+බස්නාහිර සහ සබරගමුව පළාත්වලත්, නුවරඑළිය දිස්ත්‍රික්කයේත් ඇතැම් ස්ථානවල මි.මී. 100ට වැඩි තද වැසි ඇතිවේ.
+
+ඌව පළාතේත් අම්පාර සහ මඩකලපුව දිස්ත්‍රික්කවලත්සවස් කාලයේ හෝ රාත්‍රී කාලයේ තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවේ.
+
+මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවලත් උතුරු, උතුරු මැද, බස්නාහිර, දකුණු සහ වයඹ පළාත්වලත් ත්‍රිකුණාමලය සහ මොනරාගල දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. (50-60) ක පමණ තද සුළං ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව විසින් නිකුත්කළ නිවේදනයේ වැඩිදුරටත් සඳහන් වේ.
+
+◼️
+
+[Data](articles/887f6dcc.json)
+
+---
 
 ### Dilith, Gammanpila, Wimal join hands to form ‘Sarvajana Balaya’
 
@@ -388,6 +408,8 @@ Street Burger started dishing out delicious burgers from a food truck and grew t
 
 [Data](articles/1a39cf52.json)
 
+[Extended Data](ext_articles/1a39cf52.ext.json)
+
 ---
 
 ### HNBA and HNBGI recognized as ‘Company with Great Managers’
@@ -399,6 +421,8 @@ HNB Assurance PLC and HNB General Insurance Ltd were recognized as “Company wi
 ...
 
 [Data](articles/a16f7030.json)
+
+[Extended Data](ext_articles/a16f7030.ext.json)
 
 ---
 
@@ -414,6 +438,8 @@ Held recently at the Weligama Bay Marriott Resort & Spa, the issuer forum titled
 
 [Data](articles/f535f7d9.json)
 
+[Extended Data](ext_articles/f535f7d9.ext.json)
+
 ---
 
 ### Overall decline in April PMI
@@ -427,6 +453,8 @@ As per the respondents, the decline in New Orders was mainly due to the end of t
 ...
 
 [Data](articles/387bfe4d.json)
+
+[Extended Data](ext_articles/387bfe4d.ext.json)
 
 ---
 
@@ -445,6 +473,8 @@ Yesterday both indices moved downwards. The All Share Price Index went down by 3
 ...
 
 [Data](articles/f5b79e94.json)
+
+[Extended Data](ext_articles/f5b79e94.ext.json)
 
 ---
 
@@ -2189,27 +2219,5 @@ The police said that the police said that the police said that the police said t
 [Data](articles/34c1b55b.json)
 
 [Extended Data](ext_articles/34c1b55b.ext.json)
-
----
-
-### Some organizations, including student associations, are worried about our struggle - Southeastern University Employees Union Secretary
-
-*2024-05-27 15:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/184608) · `ta`
-
-The Southeastern University Employees Union has been protesting for 26 days, supported by various organizations and student associations nationwide. Despite the government's silence, the union fights for fair wages and better conditions, not luxury needs, highlighting the struggles of non-academic staff amidst the country's economic challenges. They urge understanding and support from all stakeholders, emphasizing the impact on students' futures if their demands are not met.
-
-🟩
-
-Other associations and organizations outside the university have come together to voice their voices in support of our legitimate demands, including students' associations, including student associations in other universities in other universities in other universities, as we have been fighting for the past 26 days.Southeastern University Employees Union Secretary MM. Mohammed said Kamil.
-
-Southeastern University Employees Union President MRM. Secretary MM MM during the protests at the University's court on Monday (27) led by Tajuddin. Mohammed Kamil presented these comments.
-
-The government has not yet come forward to provide any solutions. If this situation is prolonged, the future of the students will be affected. He said that the government, the students or the parents did not present their opinions in this regard.
-
-...
-
-[Data](articles/209e600c.json)
-
-[Extended Data](ext_articles/209e600c.ext.json)
 
 ---

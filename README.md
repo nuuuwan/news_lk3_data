@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-28 14:34:00**
+As of **2024-05-28 14:52:35**
 
 ## Newspaper Stats
 
-*Scraped **26,788** Articles*
+*Scraped **26,792** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,13 +12,13 @@ colombotelegraphcom | 237
 dbsjeyarajcom | 265
 bbccomsinhala | 266
 newsfirstlk | 363
-islandlk | 1,453
+islandlk | 1,454
 economynextcom | 1,532
 dailyftlk | 1,568
-adalk | 2,279
+adalk | 2,280
 adaderanalk | 3,063
 tamilmirrorlk | 3,141
-virakesarilk | 4,102
+virakesarilk | 4,104
 dailymirrorlk | 4,223
 adaderanasinhalalk | 4,296
 
@@ -26,11 +26,47 @@ adaderanasinhalalk | 4,296
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,788 (100.0%) of 26,788 articles have been extended.
+26,788 (100.0%) of 26,792 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-28 (Tuesday)
+
+### யாழில் வைத்தியசாலைக்குள் நுழைந்த மோட்டார் சைக்கிள் : கடமையிலிருந்த உத்தியோகத்தர் மீது தாக்குதல்
+
+*2024-05-28 14:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/184687) · `ta`
+
+யாழ். போதனா வைத்தியசாலை உத்தியோகஸ்தர் மீது தாக்குதல் மேற்கொண்டவர் பொலிஸாரினால் கைது செய்யப்பட்டுள்ளார்.
+
+வாள்வெட்டு சம்பவத்தில் காயமடைந்த நபரை தனது மோட்டார் சைக்கிளில் ஏற்றி வந்தவர், வைத்தியசாலை வளாகத்தினுள் அத்துமீறி மோட்டார் சைக்கிளை செலுத்திச் சென்று, தான் ஏற்றி வந்த நபரை சிகிச்சைக்காக அனுமதித்துள்ளார்.
+
+அதன்போது, உத்தியோகஸ்தர் ஒருவர், மோட்டார் சைக்கிளை ஓட்டி வந்தவரை, வைத்தியசாலை வளாகத்தினுள் ஏன் அத்துமீறி நுழைந்தீர்கள் என கேள்வி எழுப்பியுள்ளார்.
+
+அதன்போது, இருவருக்கும் இடையில் தர்க்கம் ஏற்பட்ட போது, உத்தியோகஸ்தர் மீது வைத்தியசாலைக்குள் இருந்த அச்சியந்திரத்தால் ( printer) தாக்குதல் மேற்கொண்டுள்ளார்.
+
+அதனையடுத்து, அவ்விடத்தில் ஒன்று கூடிய சக உத்தியோகஸ்தர்கள் ஒன்று கூடி தாக்குதல் மேற்கொண்டவரை மடக்கி பிடித்து, யாழ்ப்பாண பொலிஸாரிடம் ஒப்படைத்துள்ளனர்.
+
+◼️
+
+[Data](articles/2b07f643.json)
+
+---
+
+### காசா சிறுவர் நிதியத்திற்கு இதுவரை 127 மில்லியன் ரூபாவை நன்கொடை : காலம் நீடிப்பு!
+
+*2024-05-28 14:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/184688) · `ta`
+
+ஜனாதிபதி ரணில் விக்ரமசிங்கவின் எண்ணக்கருவின்படி 2024 ஆம் ஆண்டு மார்ச் மாதம் 04 ஆம் திகதி ஆரம்பிக்கப்பட்ட காஸா சிறுவர் நிதியத்திற்கு இலங்கை நன்கொடையாளர்கள் மற்றும் பல்வேறு அமைப்புக்களினால் இன்றுவரை 127 மில்லியன் ரூபாவை நன்கொடையாக வழங்கப்பட்டுள்ளது.
+
+காஸாவில் காணப்படும் யுத்த சூழ்நிலை காரணமாக அப்பகுதியில் சிக்கியுள்ள சுமார் ஒரு மில்லியன் சிறுவர்களின் அவலநிலை, குறிப்பாக தண்ணீர், உணவு மற்றும் மருத்துவ வசதிகள் இன்மை காரணமாக அவர்கள் எதிர்கொள்ளும்  பல்வேறு  சிரமங்களைக் கருத்தில் கொண்டு, அவர்களின் அத்தியாவசிய செலவுகளை ஈடுகட்ட மனிதாபிமான உதவி வழங்குவதற்காக நிதியமொன்றை ஆரம்பிக்க அமைச்சரவை தீர்மானித்துள்ளது.
+
+அதற்கமைய காஸாவிலுள்ள சிறுவர்களுக்கு நிவாரணம் வழங்குவதற்காக நிதியமொன்றை ஆரம்பிப்பதற்காக ,கடந்த இப்தார் கொண்டாட்டத்திற்காக ஜனாதிபதி அலுவலகம், பிரதமர் அலுவலகம் மற்றும் அரச நிறுவனங்கள் என்பவற்றினால் ஒதுக்கப்பட்ட ஒரு மில்லியன் ரூபா நிதி முதற்கட்டமாக   ஐக்கிய நாடுகள் சபையின் நிவாரண மற்றும் பணி முகவர் நிறுவனத்தின் (UNRWA)ஊடாக 04-01-2024  ஆம் திகதி பாலஸ்தீன அரசாங்கத்திடம் ஒப்படைக்கப்பட்டது.
+
+...
+
+[Data](articles/52a78184.json)
+
+---
 
 ### First model village for strawberry cultivation established in Nuwara Eliya
 
@@ -125,6 +161,22 @@ The Minister further stated that a special program has been conducted with the C
 [Data](articles/e1034e44.json)
 
 [Extended Data](ext_articles/e1034e44.ext.json)
+
+---
+
+### උතුරු මැද ප‍ළාත් ස‍‍‍භාවේ ලොකු පුටු හතරක වෙනසක්
+
+*2024-05-28 13:15:28* · [`adalk`](https://www.ada.lk/breaking_news/උතුරු-මැද-ප‍ළාත්-ස‍‍‍භාවේ-ලොකු-පුටු-හතරක-වෙනසක්/11-409869) · `si`
+
+උතුරු මැද පළාත් සභාවේ අමාත්‍යාංශ පහෙන් හතරක ලේකම්වරුන්ගේ සංශෝධනයක් කිරීමට උතුරු මැද පලාත් ආණ්ඩුකාර මහීපාල හේරත් මහතා කටයුතු කර ඇත.
+
+ඒ අනුව උතුරු මැද පළාත් සභාවේ ප්‍රධාන අමාත්‍යාංශ ලේකම්වරිය ලෙස කටයුතු කළ අභය ලක්ෂ්මි හේවාපතිරණ මහත්මිය ඉන් ඉවත්කර වාරිමාර්ග හා ඉඩම් අමාත්‍යාංශ ලේකම්වරිය ලෙස පත් කර තිබේ.ඉන් පුරප්පාඩු වූ ප්‍රධාන අමාත්‍යංශ ලේකම් තනතුරට ආහාර හා සමූපකාර අමාත්‍යාංශ ලේකම්වරයා ලෙස කටයුතු කළ සිරිමෙවන් ධර්මසේන මහතා පත්කර තිබේ.කෘෂිකර්ම,ධීවර කටයුතු හා ඉඩම් අමාත්‍යාංශයේ ලේකම් ලෙස කටයුතු කළ විජය වනසිංහ මහතා ආණ්ඩුකාර ලේකම්වරය ලෙස පත්කර ඇත.කෘෂිකර්ම අමාත්‍යාංශයේ ලේකම් වශයෙන් කේ.එම්.එච්.සමන්ත කුමාර ජයලත් මහතා පත්කර ඇති අතර වාරිමාර්ග හා ඉඩම් අමාත්‍යාංශයේ හිටපු ලේකම් චින්තක රණසිංහ මහතා ආහාර හා සමුපකාර අමාත්‍යාංශ ලේකම්වරයා වශයෙන් පත් කර තිබේ.
+
+මෙසේ පළාත් සභාවේ අමාත්‍යාංශ ලේකම්වරුන්ගේ සංශෝධන වීමත්  සමඟ අලුතෙන් පත් වූ ලේකම්වරුන් පසුගිය 27 දා තම තනතුරුවල වැඩ භාර ගැනීම සිදුවිය.
+
+...
+
+[Data](articles/039529fe.json)
 
 ---
 
@@ -2325,61 +2377,5 @@ President Ranil Wickremesinghe met Elon Musk, the CEO of Tesla and SpaceX, at th
 [Data](articles/3d14e09d.json)
 
 [Extended Data](ext_articles/3d14e09d.ext.json)
-
----
-
-### Dilith, Gammanpila, Wimal join hands to form ‘Sarvajana Balaya’
-
-*2024-05-28 02:18:48* · [`dailyftlk`](https://www.ft.lk/news/Dilith-Gammanpila-Wimal-join-hands-to-form-Sarvajana-Balaya/56-762260) · `en`
-
-PHU leader Udaya Gammanpila says the nationalist movement cannot be extinguished despite efforts by separatist and imperialist factions
-
-Accuses certain groups for hoping to end the nationalist movement in the upcoming polls
-
-Unveils ten-point manifesto with plans to present strategic program to citizens within a month
-
-Several nationalist political parties and civil society groups joined hands to form a new political movement titled “Sarvajana Balaya” in Colombo yesterday.
-
-The agreement for the coalition was signed by coalition partners Jathika Nidahas Peramuna (JNP) led by MP Wimal Weerawansa, Pivithuru Hela Urumaya (PHU) led by MP Udaya Gammanpila, Mawbima Janatha Party (MJP) led by Dilith Jayaweera, the Democratic Left Front led by MP Vasudeva Nanayakkara, the Sri Lanka Communist Party, Yuthukama National Organisation led by MP Gevindu Cumaratunga and the Independent MP’s Forum led by MP Channa Jayasumana.
-
-...
-
-[Data](articles/74a545aa.json)
-
-[Extended Data](ext_articles/74a545aa.ext.json)
-
----
-
-### Siyambalapitiya assures transparent recruitment for Customs Department
-
-*2024-05-28 02:13:22* · [`dailyftlk`](https://www.ft.lk/news/Siyambalapitiya-assures-transparent-recruitment-for-Customs-Department/56-762259) · `en`
-
-State Minister of Finance Ranjith Siyambalapitiya announced yesterday that the recruitment process for the currently vacant posts of Assistant Superintendent of Customs and Inspector of Customs is proceeding without any interference, ensuring transparency and fairness.
-
-...
-
-[Data](articles/31812693.json)
-
-[Extended Data](ext_articles/31812693.ext.json)
-
----
-
-### Former SLFP MP Tissa Karaliyadda joins SJB
-
-*2024-05-28 02:11:23* · [`dailyftlk`](https://www.ft.lk/news/Former-SLFP-MP-Tissa-Karaliyadda-joins-SJB/56-762258) · `en`
-
-Veteran politician and former Sri Lanka Freedom Party (SLFP) Anuradhapura district MP Tissa Karaliyadda officially joined the Samagi Jana Balawegaya (SJB) over the weekend.
-
-Karaliyadda joined the SJB after meeting with party leader Sajith Premadasa in Polonnaruwa on Saturday. Premadasa was in town for a party rally when he welcomed Karaliyadda into the SJB. The event was also attended by SJB MP Rohana Bandara.
-
-Karaliyadda entered Parliament representing the Anuradhapura district and has served as the Cabinet Minister for Child Development and Women’s Affairs, as well as the Minister of Indigenous Medicine.
-
-The veteran politician found himself embroiled in controversy in 2015 when a photograph of him alongside underworld figure Iron Ranasinghe, alias SF Loku Malli, a prime suspect in the murder of nightclub owner Wasantha de Zoysa, went viral. At the time Karaliyadda denied any connection to Ranasinghe and the murder of de Zoysa in Anuradhapura.
-
-◼️
-
-[Data](articles/10b6b596.json)
-
-[Extended Data](ext_articles/10b6b596.ext.json)
 
 ---

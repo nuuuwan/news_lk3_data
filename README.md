@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-28 21:53:26**
+As of **2024-05-28 22:05:55**
 
 ## Newspaper Stats
 
-*Scraped **26,899** Articles*
+*Scraped **26,900** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adaderanalk | 3,074
 tamilmirrorlk | 3,151
 virakesarilk | 4,127
 dailymirrorlk | 4,241
-adaderanasinhalalk | 4,317
+adaderanasinhalalk | 4,318
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,898 (100.0%) of 26,899 articles have been extended.
+26,899 (100.0%) of 26,900 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-28 (Tuesday)
+
+### ගංවතුර අවදානම ගැන යළිත් නිවේදනයක්
+
+*2024-05-28 21:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197132) · `si`
+
+අත්තනගලු ඔය ද්‍රෝණිය සඳහා නිකුත් කළ ගංවතුර අනතුරු ඇඟවීමේ නිවේදනය ඉදිරි පැය 24 සඳහා ද දීර්ඝ කරන බව වාරිමාර්ග දෙපාර්තමේන්තුව පවසයි.
+
+මෙම තත්ත්වය ගැන දැඩි විමසිල්ලෙන් කටයුතු කරන ලෙස පහත්බිම්වල වෙසෙන ජනතාවගෙන් ඉල්ලා සිටී.
+
+එම ප්‍රදේශවල මාර්ග සහ අතුරු මාර්ගවල ගමන් කිරීමේදී ආරක්ෂාකාරී වන ලෙස ද දැනුම්දෙයි.
+
+මේ අතර කළු ගඟේ කුඩා ගඟ ද්‍රෝණිය සඳහා නිකුත් කළ ගංවතුර අනතුරු ඇඟවීම ද ඉදිරි පැය 24 සඳහා දීර්ඝ කර තිබේ.
+
+◼️
+
+[Data](articles/b2887fee.json)
+
+---
 
 ### Social security benefits to be introduced for all workers over 55 years
 
@@ -47,6 +65,8 @@ The Minister further responded to criticisms about the lack of mental freedom to
 ...
 
 [Data](articles/b0738bdb.json)
+
+[Extended Data](ext_articles/b0738bdb.ext.json)
 
 ---
 
@@ -2333,33 +2353,5 @@ UNP General Secretary Palitha Range Bandara made this observation at a press con
 [Data](articles/a57fe582.json)
 
 [Extended Data](ext_articles/a57fe582.ext.json)
-
----
-
-### When will the development activities of the Northern Railway line be completed?
-
-*2024-05-28 13:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197108) · `si`
-
-Development of the Northern Railway line is expected to finish by August, but the station completion is uncertain. A special bus service for Poson Poya is planned, involving the Ceylon Transport Board and the private sector.
-
-🟩
-
-Cabinet spokesman Bandula Gunawardena says that the development work of the Northern Railway line is not possible to complete the Northern Railway Station.
-
-The Minister made this statement in response to a question raised by a journalist at a press briefing held today.
-
-The Minister said that the development work of the Northern Railway can be completed by August.
-
-Meanwhile, the Minister said that a special bus service will be launched in the Poson Poya.
-
-He also said that the bus service Poson Poya will be implemented on the date of the date on the day.
-
-The Minister further stated that a special program has been conducted with the Ceylon Transport Board and the private sector for this special bus service.
-
-◼️
-
-[Data](articles/e1034e44.json)
-
-[Extended Data](ext_articles/e1034e44.ext.json)
 
 ---

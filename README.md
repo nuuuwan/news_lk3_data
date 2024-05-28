@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-28 15:52:58**
+As of **2024-05-28 16:05:33**
 
 ## Newspaper Stats
 
-*Scraped **26,803** Articles*
+*Scraped **26,809** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,38 +15,118 @@ newsfirstlk | 363
 islandlk | 1,454
 economynextcom | 1,532
 dailyftlk | 1,568
-adalk | 2,281
-adaderanalk | 3,065
-tamilmirrorlk | 3,144
+adalk | 2,283
+adaderanalk | 3,066
+tamilmirrorlk | 3,145
 virakesarilk | 4,104
 dailymirrorlk | 4,224
-adaderanasinhalalk | 4,299
+adaderanasinhalalk | 4,301
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,802 (100.0%) of 26,803 articles have been extended.
+26,803 (100.0%) of 26,809 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-28 (Tuesday)
 
-### පාස්කු ප්‍රහාරයෙන් පුතු අහිමිවූ තිළිණිත් යන්නම යයි
+### UNP proposes postponing elections by two years
+
+*2024-05-28 15:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/99490/unp-proposes-postponing-elections-by-two-years) · `en`
+
+The United National Party (UNP) has proposed to postpone Sri Lanka’s two upcoming elections by at least two years.
+
+UNP general secretary Palitha Range Bandara made this observation while attending a press conference in Colombo today (28).
+
+“Now we have to save the country from this bankruptcy and rebuild the country’s economy,” the former parliamentarian said.
+
+He stated that Sri Lanka has an agreement in place with the International Monetary Fund (IMF) and if the said agreement is violated the country will regress back to how it was two years back.
+
+“So, do we want to knowingly go back to that point and get ruined? Or else do we reach a common agreement and postpone both these elections for two years?”
+
+“The President is not greedy to stay on. We are the ones asking,” he said, adding that funds should not be wasted by going for a general election at this time.
+
+...
+
+[Data](articles/b9517e13.json)
+
+---
+
+### වර්ජනය අවසන් කර වැඩට එන්නැයි දැනුම්දීමක්
+
+*2024-05-28 15:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197115) · `si`
+
+අනධ්‍යයන කාර්ය මණ්ඩල වෘත්තිය සමිති දැනට පවත්වාගෙන යන වෘත්තිය ක්‍රියා මාර්ගයෙන් ඉවත්වන ලෙස අධ්‍යාපන අමාත්‍යාංශය ඉල්ලීමක් සිදුකර තිබේ.
+
+නිවේදනයක් නිකුත් කරමින් අධ්‍යාපන අමාත්‍යාංශය පවසන්නේ වෘත්තිය ක්‍රියා මාර්ගයෙන් ඉවත්ව අනධ්‍යයන සේවකයින්ට සේවය සඳහා වාර්තා කරන ලෙසටය.
+
+එම නිවේදනයේ දැක්වෙන්නේ 2024.06.27 දින පැවැති අමාත්‍ය මණ්ඩල රැස්වීමේ දී ගනු ලැබූ අමාත්‍ය මණ්ඩල තීරණය පරිදි ඔවුන්ගේ ඉල්ලීම් සඳහා විසඳුම් ලැබෙනු ඇති බවය.
+
+එහිදී අනධ්‍යයන කාර්ය මණ්ඩලවල 2018 සිට පැවැති වැටුප් විෂමතාව සම්බන්ධයෙන් වූ ගැටලු‍ව පිළිබඳව හා ඒ හා සම්බන්ධ වූ වෙනත් වැටුප් විෂමතා පිළිබඳව ඇති ගැටලු‍ පිළිබඳව විමර්ශනය කර මීළඟ අයවැයට පෙර අමාත්‍ය මණ්ඩලයට වාර්තා කිරීමට භාණ්ඩාගාර ලේකම්ගේ ප්‍රධානත්වයෙන් කමිටුවක් පත්කර නිර්දේශ ලබා ගැනීමට තීරණය කර ඇති බවද එම නිවේදනයේ වැඩිදුරටත් දැක්වෙයි.
+
+◼️
+
+[Data](articles/539a7228.json)
+
+---
+
+### විජයදාසට එරෙහිව තවත් වාරණයක්
+
+*2024-05-28 15:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197114) · `si`
+
+ශ්‍රී ලංකා නිදහස් පක්ෂයේ සභාපතිවරයා ලෙස විජයදාස රාජපක්ෂ මහතා කටයුතු කිරීම සහ එම පක්ෂයේ සාමාජිකයෙක් වශයෙන් පෙනී සිටීම වළක්වාලමින් කොළඹ දිසා අධිකරණය තවත් වාරණ නියෝගයක් නිකුත් කළේය.
+
+ලසන්ත අලගියවන්න මහතා විසින් ඉදිරිපත් කළ පැමිණිල්ලක් සලකා බැලීමෙන් අනතුරුව මෙම නියෝගය නිකුත් කෙරුණි.
+
+◼️
+
+[Data](articles/1d36a15f.json)
+
+---
+
+### රුපියල් 500කට සිදුවූ මිනීමැරුමක්
+
+*2024-05-28 15:35:44* · [`adalk`](https://www.ada.lk/breaking_news/රුපියල්-500කට-සිදුවූ-මිනීමැරුමක්/11-409873) · `si`
+
+රුපියල් 500 ක් හොරෙන් ගත්තැයි වැඩිමහල් සොහොයුරාට අතින් පයින් පහරදී ඝාතනය කල බවට සැකපිට පුද්ගලයකු අත්අඩංගුවට ගත්බව පින්වත්ත (පානදුර) පොලිසිය පවසයි.
+
+මෙසේ අත්අඩංගුවට ගෙන ඇත්තේ පින්වත්ත උපෝසථාරාම පාරේ පදිංචි  48 හැවිරිදි පුද්ගලයෙකු බව පොලිසිය කීය.
+
+පින්වත් උපෝසථාරාම පාරේ පදිංචිව සිටි ජයන්ත සිල්වා නමැති 52 හැවිරිදි පුද්ගලයෙකු පානදුර මූලික රෝහලේ ප්‍රතිකාර ලබමින් සිටියදී මියගොස් තිබුණි.
+
+සැකකරු, මියගොස් ඇති වැඩිමහල් සොයුරා සහ මව සමඟ නිවසේ පදිංචිව  සිටින අතර, රුපියල් 500 ක් සොරකම් කිරීම සම්බන්ධයෙන් දෙදෙනා අතර  ඇතිවූ කතාබහක් දුරදිග යාමෙන් සිය වැඩිමහල් සොහොයුරාට ඉකුත් 13 දා පහර දී ඇති බව පොලිස් පරීක්ෂණවලදී අනාවරණය වී තිබේ.
+
+පහර කෑමෙන් තුවාල ලබා සිටි තැනැත්තා පසුගිය දිනකදී පානදුර මූලික රෝහලේදී  මියගොස් ඇති අතර, පශ්චාත් මරණ පරීක්ෂණයේදී අනාවරණය වූ කරුණු මත ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක පත්ම නන්දන මහතාගේ මෙහෙයවීමෙන් සැකකරු අත්අඩංගුවට ගෙන තිබේ.
+
+◼️
+
+[Data](articles/0cd7917b.json)
+
+---
+
+### It is going to be gifts who lost his son from the Passover attack
 
 *2024-05-28 15:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197113) · `si`
 
-ලොවම කම්පාවට පත්කරමින් 2019 වසරේ අප්‍රේල් 21 වනදා එල්ලවූ පාස්කු ප්‍රහාරයෙන් බරපතළ තුවාල ලැබූ කාන්තාවක් මියගොස් තිබේ.
+In a tragic Passover attack on April 21, 2019, a mother of three lost her son, while she herself was critically injured. Identified as a woman set to receive treatment after five years, this incident highlights the devastating impact of such attacks.
 
-පාස්කු ත්‍රස්තයින්ගේ එක් ඉලක්කයක් වූ මීගමුව කටුවාපිටිය දේවස්ථානයට එල්ලවූ ප්‍රහාරයෙන් ඇය තුවාල ලබා තිබුණි.
+🟩
 
-එම ප්‍රහාරයෙන් තිදරු මවක් වන ඇයගේ එක් පුතෙකුද ජීවිතක්ෂයට පත්විය.
+A woman was seriously injured in the Passover attack on April 21, 2019.
 
-ප්‍රහාරයෙන් බරපතළ තුවාල ලැබූ එම කාන්තාව වසර 5කට ආසන්න කාලයක් ප්‍රතිකාර ලබමින් සිට මෙලෙස මියගොස් ඇත.
+She was injured in the attack on the Easter terrorists, a target of the Easter.
+
+One of her son, a mother of three, was also killed in the attack.
+
+The woman who was injured in the attack was identified as five years from receiving treatment.
 
 ◼️
 
 [Data](articles/54d7d8b0.json)
+
+[Extended Data](ext_articles/54d7d8b0.ext.json)
 
 ---
 
@@ -414,6 +494,24 @@ Suddenly, the Testament to consult the Secretaries of four of the Ministry Secre
 
 ---
 
+### රජ දවසින් පසු මෑත ඉතිහාසය තුල රුවන්වැලිසෑය අභියස පැවැති විශාලම ශබ්ද පූජාව
+
+*2024-05-28 13:09:17* · [`adalk`](https://www.ada.lk/breaking_news/රජ-දවසින්-පසු-මෑත-ඉතිහාසය-තුල-රුවන්වැලිසෑය-අභියස-පැවැති-විශාලම-ශබ්ද-පූජාව/11-409868) · `si`
+
+හෙල රජ දවසින් පසු මෑත ඉතිහාසය තු‍ළ රුවන්වැලි සෑ රදුන් ඉදිරිපිට  පැවැත්වූ විශාලතම ශබ්ද පූජා පින්කම අද (28දා) උදෑසන රුවන්වැලි සෑ රදුන් අබියස දී සිදු කෙරිණි.
+
+මඟුල් බෙරය, දවුල, තම්මැට්ටම, ගැටබෙරය, හක් ගෙඩිය සහ හොරණෑව භාවිතා කරමින් 510, දෙනෙකුගෙන් යුතු හේවිසි කණ්ඩායමක් රුවන්වැලි සෑ සලපතල මළුව වටා හිඳිමින් බුදු රජාණන් වහන්සේ උදෙසා සිදු කෙරෙන ආමිස පූජාවක් ලෙස, උදෑසන 6.30 සිට 7.30 දක්වා පැයක  කාලයක් පුරාවට අඛණ්ඩව මෙම ශබ්ද පූජාව සිදු කලහ.
+
+"වස් දොස්  දුරුවී රටට යහපත සැනසිල්ල උදා වේවායි" ප්‍රාර්ථනා කරමින් මෙම ශබ්ද පූජාව පැවැත්වූහ.
+
+රජරට විශ්වවිද්‍යාලයේ කුලපති, රුවන්වැලි සෑ  චෛත්‍යාරාමාධිකාරී පූජ්‍ය ඊතල් වැටුණු වැවේ ඥානතිලක නා හිමිගේ අනුශාසකත්වයෙන් මල්වතු මහා විහාර වාසී, පුරා විද්‍යා ගවේෂණ ශූරී ශාස්ත්‍රපති මැද මහනුවර ධම්මසිරි හිමිපාණන්ගේ සංවිධානත්වයෙන් හා මඟ පෙන්වීමෙන්, උන්වහන්සේගේ දායක දායිකාවන් පිරිසක් මෙම ශබ්ද පූජා පින්කම සිදු කලහ.
+
+◼️
+
+[Data](articles/e349ff2b.json)
+
+---
+
 ### SLTB driver abducts the bus
 
 *2024-05-28 13:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197107) · `si`
@@ -495,6 +593,22 @@ The accident is suspected of the accident with the train heading to Colombo and 
 [Data](articles/bd0107fe.json)
 
 [Extended Data](ext_articles/bd0107fe.ext.json)
+
+---
+
+### இந்திய அணி பயிற்சியாளரக்கு மோடி  விண்ணப்பம்
+
+*2024-05-28 12:48:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/இந்திய-அணி-பயிற்சியாளரக்கு-மோடி-விண்ணப்பம்/44-338022) · `ta`
+
+இந்திய ஆண்கள் கிரிக்கெட் அணியின் பயிற்சியாளர் பதவிக்கு ராகுல் டிராவிட்டிற்கு  பிறகு அவருக்கு பொருத்தமான மாற்றாக யாரை தேர்ந்தெடுக்கலாம் என்று இந்திய கிரிக்கெட் கவுன்சிலான பி.சி.சி.ஐ. தீவிரமாக ஆலோசித்து வருகிறது.
+
+மே 13 முதல் இந்திய அணி பயிற்சியாளர் பதவிக்கு விண்ணப்பங்கள் பெறப்பட்ட நிலையில், அது திங்கட்கிழமை (27) யுடன் நிறைவு பெற்றது. இந்தநிலையில், இந்திய கிரிக்கெட் அணி பயிற்சியாளர் பதவிக்கு மோடி, அமித்ஷா, சச்சின், தோனி, சேவாக் ஆகிய பெயரில் போலியாக விண்ணப்பங்கள் குவிந்துள்ளதால் தேர்வுக்குழு குழுப்பம் அடைந்துள்ளதாக தகவல் வெளியாகி உள்ளது.
+
+இந்திய அணியின் தலைமை பயிற்சியாளர் பதவிக்கு 3 ஆயிரம் பேர் விண்ணப்பித்துள்ளதாகவும் பதிவான விண்ணப்பங்களில் போலி எது, உண்மை எது என கண்டறிய தாமதம் ஆகும் எனவும்  பி.சி.சி.ஐ தகவல் தெரிவித்துள்ளது. கூகுள் பார்ம் மூலம் விண்ணப்பங்கள் பெறப்பட்டதால் பலர் போலி விண்ணப்பங்களை பதிவு செய்துள்ளது தெரியவந்துள்ளது. இந்திய அணி பயிற்சியாளர் ராகுல் டிராவிட்டின் பதவிக்காலம் டி20 உலகக்கோப்பை தொடருடன் நிறைவடைகிறது.
+
+◼️
+
+[Data](articles/40aca2c4.json)
 
 ---
 
@@ -2263,149 +2377,5 @@ The following period of 2024 -2025 Applications have been extended to June 07, t
 [Data](articles/f0b0c956.json)
 
 [Extended Data](ext_articles/f0b0c956.ext.json)
-
----
-
-### Sri Lanka's first training match against Sri Lanka
-
-*2024-05-28 07:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197089) · `si`
-
-Sri Lanka's cricket team begins its World Cup journey with a training match against the Netherlands today, followed by another against Ireland. Their first official match is on June 3rd against South Africa.
-
-🟩
-
-The first training match will be held today (28) in parallel to the World Cup.
-
-The match with the Netherlands team will commence today at Sri Lanka's time.
-
-Sri Lanka team will attend two training matches and the second training match will be held with the Irish Team Friday.
-
-The first match of the Sri Lankan team will be played on the 3rd June with the South African team to attend the 20 World Cup.
-
-◼️
-
-[Data](articles/9d9a1169.json)
-
-[Extended Data](ext_articles/9d9a1169.ext.json)
-
----
-
-### Dead body found in a well
-
-*2024-05-28 06:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197088) · `si`
-
-A body was discovered in a well near Wellaweli Black, Vellaveli, after a report reached the Velvaley police on 27th. Initial investigations suggest the victim visited a neighbor's house on the 26th. The Vellaveli Police continue probing to identify and apprehend the culprits.
-
-🟩
-
-A body was found in a well near Wellaweli Black in Vellaveli, Vellaveli, Vellaveli.
-
-The body was recovered following a trip received by the Velvaley police yesterday (27).
-
-Investigations have revealed that the neighboring board of neighboring board on the 26th to attend the home of the neighboring board.
-
-Vellaveli Police are conducting further investigations to arrest the suspects.
-
-◼️
-
-[Data](articles/9db66a0f.json)
-
-[Extended Data](ext_articles/9db66a0f.ext.json)
-
----
-
-### Sri Lanka hopes to launch Starlink satellite internet service within three months: Ruwan
-
-*2024-05-28 06:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-hopes-to-launch-Starlink-satellite-internet-service-within-three-months-Ruwan/108-283481) · `en`
-
-Colombo, May 28 (Daily Mirror) - Sri Lanka is hoping to launch Starlink satellite internet service founded by billionaire Elon Musk within three months’ time, Senior Presidential Advisor Ruwan Wijewardene said yesterday.
-
-Mr. Wijewardene told a media briefing that the founder of Starlink millionaire entrepreneur Elon Musk had already sent an application to start up the internet service and the negotiations have begun on the project. “We hope to launch the satellite internet service in three months’ time as soon as the negotiations are completed,” he said.
-
-He said negotiations on starting up SpaceX in Sri Lanka will begin after the launch of Starlink.
-
-Mr. Wijewardene said Elon is also interested in renewable energy sector as well in Sri Lanka. “The billionaire expressed his interest in solar energy and had informed President Ranil Wickremesinghe that he has to visit Sri Lanka and study the sector we the duo met recently in Indonesia,” he said.
-
-...
-
-[Data](articles/54c4de89.json)
-
-[Extended Data](ext_articles/54c4de89.ext.json)
-
----
-
-### Health experts warn of spike in seasonal diseases
-
-*2024-05-28 06:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Health-experts-warn-of-spike-in-seasonal-diseases/155-283480) · `en`
-
-With the torrential rains sweeping across Sri Lanka, health experts are raising alarm bells over a spike in seasonal diseases including dengue, leptospirosis, diarrheal diseases and influenza.
-
-"The onset of the rainy season dramatically increases the risk of several serious illnesses," experts warned.
-
-Speaking to Daily Mirror, Dr. LakKumar Fernando highlighted, “Dengue fever remains a significant threat during this time. With increased rainfall, we see a rise in stagnant water, which serves as a breeding ground for Aedes mosquitoes. It's crucial for the public to eliminate standing water around their homes and use mosquito repellents.”
-
-He also mentioned an unprecedented rise in influenza cases over the past few weeks.
-
-Further, Leptospirosis, commonly known as ‘rat fever,’ is another pressing concern. “Flooded areas can become contaminated with the urine of infected animals, leading to the spread of leptospirosis,” a senior health official explained.
-
-...
-
-[Data](articles/0ac74f74.json)
-
-[Extended Data](ext_articles/0ac74f74.ext.json)
-
----
-
-### We elected Ranil Wickremesinghe as the interim president - General Secretary Sagara Kariyawasam
-
-*2024-05-28 06:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/184621) · `ta`
-
-Ranil Wickremesinghe has been elected as the interim president, with the General Secretary emphasizing the importance of holding elections instead of transferring power without them. The Sri Lanka People's Alliance (PA) plans nationwide campaign meetings ahead of the elections, showcasing unity despite internal political differences. The PA is prepared to contest the upcoming presidential election, with a candidate announcement expected next month, and continues to support President Wickremesinghe.
-
-🟩
-
-We have elected Ranil Wickremesinghe as the interim president. After the end of the post, it is a foolish idea that the President should re -give power without holding the election.
-
-He made this statement during a media briefing held at the Sri Lanka PA's Chief Office on Monday (27).
-
-We have decided to hold election campaign meetings nationwide, targeting the upcoming elections. The first meeting was held in Anuradhapura yesterday.
-
-Member of Parliament Nimal Lansha was involved in politics, highlighting the image of our party leader, Mahinda Rajapaksa.
-
-There is no problem with politics beyond politics between Basil Rajapaksa and Member of Parliament Nimal Lansha, the founder of the PA.
-
-We are ready to contest the upcoming presidential election. Many people are ready to contest on behalf of our scene. We will announce our candidate next month.
-
-News that the PA has decided to continue to cooperate with President Ranil Wickremesinghe.
-
-...
-
-[Data](articles/d9551716.json)
-
-[Extended Data](ext_articles/d9551716.ext.json)
-
----
-
-### Sri Lanka Freedom Party (SLFP)
-
-*2024-05-28 06:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/184615) · `ta`
-
-The Sri Lanka Freedom Party (SLFP) is forming a broad coalition ahead of the country's upcoming elections, with its inaugural event scheduled for June 8 in Hambantota. Minister Mahinda Amaraweera confirmed the event, emphasizing the party's strength and widespread support from both parliamentary and non-parliamentary groups. Despite efforts to divide the party, SLFP remains united and invites all supporters to its headquarters.
-
-🟩
-
-The Sri Lanka Freedom Party (SLFP) has formed a very spacious alliance in Sri Lanka, targeting the upcoming elections in the country.Minister Mahinda Amaraweera said that the event will take place in Hambantota next month.
-
-He said this in the wake of the Sri Lanka Freedom Party (SLFP) in the next election in the country.
-
-The Sri Lanka Freedom Party (SLFP) has formed a very spacious and strong coalition in Sri Lanka to target the upcoming elections in the country.. Its inauguration will be held on June 8 in the Hambantota district.. The Virgin rally of the Sri Lanka Freedom Party -led coalition is to be held that day with massive crowds.
-
-Many parties, such as parties that represent parliament and parties that do not represent parliament. Have expressed their support for our massive alliance. At the same time, many MPs who represent various parties have already announced that they are participating in the rally.
-
-...
-
-[Data](articles/a5546d02.json)
-
-[Extended Data](ext_articles/a5546d02.ext.json)
 
 ---

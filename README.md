@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-28 22:18:40**
+As of **2024-05-28 22:33:59**
 
 ## Newspaper Stats
 
-*Scraped **26,901** Articles*
+*Scraped **26,902** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,27 +20,55 @@ adaderanalk | 3,074
 tamilmirrorlk | 3,152
 virakesarilk | 4,127
 dailymirrorlk | 4,241
-adaderanasinhalalk | 4,318
+adaderanasinhalalk | 4,319
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,900 (100.0%) of 26,901 articles have been extended.
+26,901 (100.0%) of 26,902 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-28 (Tuesday)
 
-### A/L பெறுபேறுகள் வெளியாகும் காலம் அறிவிப்பு
+### කබඩි පරාජයන්ට හේතුව දක්ෂයින් හලා යෑම ද ?
+
+*2024-05-28 22:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197133) · `si`
+
+බංග්ලාදේශයේ පැවැත්වෙන බංගබන්දු කුසලාන කබඩි තරගාවලියේ පළමු තරග දෙකෙන්ම ශ්‍රී ලංකා කණ්ඩායම පරාජයට පත්වුණි.
+
+බංග්ලාදේශයේ පැවැත්වෙන බංගබන්දු කුසලාන කබඩි තරගාවලියේ අඛණ්ඩව සිය දෙවන පරාජය ද ලැබීමට ශ්‍රී ලංකා කබඩි කණ්ඩායමට අද සිදු විය.
+
+ශ්‍රී ලංකාව ඊයේ සහභාගී වූ පළමු තරගයද කෙන්යාව හමුවේ ලකුණු 56ට 28ක් ලෙස දරුණු පරාජයක් ලැබීය.
+
+මෙම තරගාවලිය සඳහා ක්‍රීඩා අමාත්‍යවරයාගේ අනුමැතිය හිමි නොවූ කණ්ඩායමක් සහභාගී කරවා ඇති බවට පසුගියදා කබඩි ක්‍රීඩකයන්, පුහුණුකරුවන් ඇතුළු පිරිසක් චෝදනා එල්ල කර තිබුණි.
+
+ක්‍රීඩා අමාත්‍යාංශය වෙත පැමිණ ලිපියක් භාරදෙමින් ඔවුන් සඳහන් කළේ තේරීම් තරග පැවැත්වීමටත් පෙර දක්ෂ ක්‍රීඩකයින් රැසකටම අවස්ථාව අහිමි කරමින් බංගබන්දු තරගාවලිය සඳහා සංචිතයක් තෝරාගැනීමට කබඩි බලධාරීන් පියවර ගත් බවටය.
+
+ශ්‍රී ලංකා කබඩි පිල තමන් සහභාගී වූ මුල් තරග දෙකේදි මෙලෙස දරුණු පරාජයක් ලැබුවේ එවන් පසුබිමකය.
+
+◼️
+
+[Data](articles/70f03f65.json)
+
+---
+
+### A/L Gallery Release
 
 *2024-05-28 21:51:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/A-L-பெறுபேறுகள்-வெளியாகும்-காலம்-அறிவிப்பு/175-338051) · `ta`
 
-2023ஆம் ஆண்டிற்கான கல்விப் பொதுத் தராதர உயர்தரப் பரீட்சையின் பெறுபேறுகளை இந்த வார இறுதியில் வெளியிடுவதற்கு எதிர்பார்த்துள்ளதாக இலங்கை பரீட்சைகள் திணைக்களத் தகவல்கள் தெரிவிக்கின்றன.  R
+The Sri Lanka Examinations Department expects to release the 2023 GCE A/L exam results this weekend.
+
+🟩
+
+The Department of Sri Lanka's Examinations Department reports that the results of the GCE A / L examination of the 2023 Education General Level Examination are expected to be released this weekend.  R
 
 ◼️
 
 [Data](articles/e3f67223.json)
+
+[Extended Data](ext_articles/e3f67223.ext.json)
 
 ---
 
@@ -2327,27 +2355,5 @@ Sri Lanka govt distances itself from UNP call for postponing electionsSee more
 [Data](articles/b0d939fd.json)
 
 [Extended Data](ext_articles/b0d939fd.ext.json)
-
----
-
-### There is no parliamentary election this year
-
-*2024-05-28 13:25:43* · [`adalk`](https://www.ada.lk/breaking_news/මේ-වසරේ-පාර්ලිමේන්තු-මැතිවරණයක්-න‍ෑ/11-409870) · `si`
-
-This year, there's no parliamentary election due to constitutional provisions. However, the presidential election is scheduled for October, with a budget of 10 billion rupees, as announced by the Minister of Mass Media, Transport, and Highways, Dr. Bandula Gunawardena. This decision was shared during a press conference where the Cabinet's decisions were disclosed.
-
-🟩
-
-According to the provisions of the Constitution, the presidential election will be reserved and 10 billion in the budget, Minister of Mass Media, Transport and Highways, Dr. Bandula Gunawardena.
-
-The Minister made this statement in response to a question raised by a journalist at a press conference to inform the Cabinet Decision in the Government News this morning.
-
-Accordingly, the Presidential Election should be held in October this year, the Presidential Elections for the Presidential Election to October 10 billion rupees.Added.
-
-◼️
-
-[Data](articles/e03c4545.json)
-
-[Extended Data](ext_articles/e03c4545.ext.json)
 
 ---

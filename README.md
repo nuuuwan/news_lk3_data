@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-28 10:34:03**
+As of **2024-05-28 10:52:12**
 
 ## Newspaper Stats
 
-*Scraped **26,728** Articles*
+*Scraped **26,732** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,63 +18,149 @@ dailyftlk | 1,567
 adalk | 2,273
 adaderanalk | 3,058
 tamilmirrorlk | 3,130
-virakesarilk | 4,091
+virakesarilk | 4,093
 dailymirrorlk | 4,214
-adaderanasinhalalk | 4,286
+adaderanasinhalalk | 4,288
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,726 (100.0%) of 26,728 articles have been extended.
+26,728 (100.0%) of 26,732 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-28 (Tuesday)
 
-### ටෂී ඝාතන සැකකරු බන්ධනාගාරයේදී මරුට
+### තවත් ඝාතන සැකකරුවෙක් මාට්ටු
 
-*2024-05-28 10:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197099) · `si`
+*2024-05-28 10:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197101) · `si`
 
-කළුතර, කටුකුරුන්ද ප්‍රදේශයේ දී සිදුවු ඝාතනයක් සම්බන්ධයෙන් අත්අඩංගුවට ගෙන රිමාන්ඩ් භාරයේ සිටි සැකකරු ඊයේ (27) කළුතර බන්ධනාගාරය තුළ දී හදිසියේ මියගොස් ඇති බව කළුතර උතුර පොලීසිය පැවසිය.
+පසුගිය 08 වනදා අහුංගල්ල, ලෝකන්වත්ත ප්‍රදේශයේදී සිදුකළ වෙඩිතැබීමකට සම්බන්ධ සැකකරුවෙකු අත්අඩංගුවට ගෙන තිබේ.
 
-මෙසේ මියගොස් ඇත්තේ, තිබුවන පැලපිටියාගොඩ ප්‍රදේශයේ පදිංචිව සිටි තුෂාර රුක්මාල් සිල්වා නමැති රැඳවියෙකි.
+එම සැකකරුව පසුගිය දා වැලිඔය පොලිස් වසමේ වෙ‍ෙහරතැන්න, බෝගස්වැව ප්‍රදේශයේදී වව්නියාව පොලිස් විශේෂ කාර්ය බළකා කඳවුරේ නිලධාරින් විසින් අත්අඩංගුවට ගෙන ඇත.
 
-මියගොස් ඇති රැඳවියා මනුෂ්‍ය ඝාතන චෝදනාව යටතේ පසුගිය 25 දා කළුතර මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමෙන් පසු රිමාන්ඩ් බන්ධනාගාරගත කර සිට ඇති බව පොලීසිය පවසයි.
+අත්අඩංගුවට ගත් සැකකරු වෙහෙරතැන්න බෝගස්වැව ප්‍රදේශයේ පදිංචි 23 හැවිරිදි තරුණයෙකි.
 
-රැඳවියා ඊයේ (27) පස්වරුවේ හදිසියේ ඇති වූ රෝගී තත්ත්වයක් හේතුවෙන් අසනීපව කළුතර නාගොඩ ශික්ෂණ රෝහලට ඇතුළත් කිරීමේදී මිය ගොස් ඇති බව බන්ධනාගාර ආරංචි මාර්ග සඳහන් කරයි.
+සැකකරු මෙම වෙඩිතැබීමේ සිද්ධියේ යතුරුපැදියේ පැදිකරු ලෙස කටයුතු කර ඇති බවට පොලීසිය පවසයි.
 
-මියගිය සැකකරුගේ පශ්චාත් මරණ පරීක්ෂණය අද (28) කළුතර නාගොඩ ශීක්ෂණ රෝහලේදී සිදුකිරීමට නියමිතව තිබේ.
+◼️
 
-ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක දමිත් ජයතිලක මහතාගේ ප්‍රධානත්වයෙන් වැඩිදුර පරීක්ෂණ පවත්වයි.
-
-පසුගිය 20 වනදා කළුතර, කටුකුරුන්ද ප්‍රදේශයේ සිදුවූ වෙඩිතැබීමකින් 40 හැවිරිදි තෂ්මින් මධුවන්ත සිල්වා නොහොත් කලමුල්ලේ ටෂී නැමැත්තා මියගොස්  ඔහුගේ 7 හැවිරිදි දියණිය තුවා ලැබීය.
-
-...
-
-[Data](articles/ab76b222.json)
+[Data](articles/a4284345.json)
 
 ---
 
-### අවදානම නොතකා මුහුදු ගිය ධීවරයින් ට අත්වූ ඉරණම
+### விமானங்களில் ஏற்படும் திகில் அனுபவம் ! அந்தரத்தில் ஊசலாடும்  உயிர்கள்!
+
+*2024-05-28 10:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/184664) · `ta`
+
+விமானத்தில் பயணிக்க யாருக்குத்தான் ஆசை இல்லை. ஆனால்  உள்ளூர பயம் ஒன்றும் இல்லாமல் இல்லை, அதாவது பல்லாயிரம் அடிகளுக்கு மேலாக  பல மணி நேரம்  பயணிக்கும் போது, திடீர் என்று விமானத்துக்கு ஏதேனும்  அனர்த்தம் நேர்ந்தால் என்ன நடக்கும்? உயிரை விடுவதை தவிர வேறு தெரிவே  இல்லை.
+
+◼️
+
+[Data](articles/64eae8fa.json)
+
+---
+
+### නිලන්ත ජයවර්ධන ට එරෙහි පෙත්සම සලකා බැලීම කල් දැමේ
+
+*2024-05-28 10:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197100) · `si`
+
+පාස්කු ඉරු දින ත්‍රස්ත ප්‍රහාරයක් එල්ලවීමට නියමිත බවට බුද්ධි තොරතුරු ලැබී තිබියදීත් එය වළක්වා ගැනීමට කටයුතු නොකිරීම සම්බන්ධයෙන් රාජ්‍ය බුද්ධි සේවයේ හිටපු ප්‍රධානී නිලන්ත ජයවර්ධන මහතාට එරෙහිව නීතිමය පියවර ගන්නා ලෙස නියෝගයක් නිකුත් කරන්නැයි ඉල්ලා ගොනුකළ පෙත්සම සලකා බැලීම සඳහා ජූලි මස 25 වනදා කැඳවන ලෙස අභියාචනාධිකරණය නියෝග කළේය.
+
+මෙම පෙත්සම අද (28) සෝභිත රාජකරුණා සහ ධම්මික ගනේපොල යන මහත්වරුන්ගේ සමන්විත විනිසුරු මඩුල්ලක් ඉදිරියේ කැඳවනු ලැබීය.
+
+එම අවස්ථාවේදී වගඋත්තරකාර නිලන්ත ජයවර්ධන මහතා වෙනුවෙන් පෙනී සිටි නීතිඥ මහතා මෙම නඩුකරයට අදාළව විරෝධතා ගොනුකිරීම සඳහා දිනයක් ලබාදෙන ලෙස ඉල්ලා සිටියේය.
+
+ඒ අනුව අදාළ විරෝධතා ජුනි මස 25 වනදා හෝ ඊට පෙර ගොනුකරන ලෙස අධිකරණය නියෝග කළේය.
+
+ඉන් අනතුරුව පෙත්සම සලකා බැලීම සඳහා ජූලි මස 25 වනදා යළි කැඳවන ලෙස අධිකරණය නියම කළේය.
+
+සමාජ හා සාමයික කේන්ද්‍රයේ අධ්‍යක්ෂ ජූඩ් රොහාන් සිල්වා පියතුමා ඇතුළු පිරිසක් විසින් මෙම පෙත්සම ඉදිරිපත් කර තිබේ.
+
+◼️
+
+[Data](articles/36ee0c5e.json)
+
+---
+
+### பிரிட்டனால் இலங்கைக்கு நாடு கடத்தப்பட்ட தமிழர் உயிரிழப்பு - பிரிட்டனின் உள்துறை அலுவலகம் மீது கடும் குற்றச்சாட்டுகள்
+
+*2024-05-28 10:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/184662) · `ta`
+
+பிரிட்டனின் உள்துறை அமைச்சினால் இலங்கைக்கு தவறுதலாக நாடு கடத்தப்பட்ட தமிழர் இலங்கையில் உயிரிழந்துள்ள நிலையில் அவர் தனது மீண்டும் குடும்பத்துடன் இணைவதற்கு உள்துறை அமைச்சின் திணைக்களங்களின் தாமதமே காரணம் என அவரது குடும்பத்தினர் குற்றம்சாட்;டியுள்ளனர்.
+
+சுதர்சன் இதயசந்திரன் என்பவர் 2019 டிசம்பர் மாதம் 24ம் திகதிஅவரது திருமணநாள் அன்று பிரிட்டனிலிருந்து இலங்கைக்கு நாடு கடத்தப்பட்டார்.
+
+போலியான ஆவணங்களை பயன்படுத்தியதையும் டெஸ்கோவில் பணியாற்றியமையையும் ஏற்றுக்கொண்டதை தொடர்ந்து அவர் நாடு கடத்தப்பட்டார்.
+
+செவிப்புல திறன் அற்ற தனது மனைவி சுபத்திரா தனது 9 மற்றும் 8 வயது ஆண் பெண் குழந்தைகளை விட்டு விட்டு அவர் பிரிட்டனிலிருந்து வெளியே வேண்டிய நிலையேற்பட்டது.
+
+எனினும் நவம்பர் 2023 ம் ஆண்டு இடம்பெற்ற குடிவரவுதீர்ப்பாயத்தில் நீதிபதி பொனெவெரோ  சுதர்சன் இதயசந்திரனின் மேல்முறையீட்டை ஏற்றுக்கொண்டதுடன் அவருக்கு குடும்பத்துடன் இணைவதற்கான உரிமை உள்ளது என தெரிவித்தார்.
+
+...
+
+[Data](articles/7b969e2d.json)
+
+---
+
+### Tashi murder suspect killed in prison
+
+*2024-05-28 10:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197099) · `si`
+
+Thushara Rukmal, a murder suspect, died in custody at Kalutara Prison. Identified as a resident of Pelitiyagoda, he was charged with murder and remanded. His death occurred while hospitalized at the Nagoda Teaching Hospital in Kalutara. Further investigations are led by OIC Chief Inspector Damith Jayatilake, with a post-mortem scheduled for today.
+
+🟩
+
+The suspect was arrested by the Kalutara Prison yesterday (27) at the Kalutara Prison in Kalutara yesterday (27).
+
+The deceased has been identified as Thushara Rukmal, a resident of Pelitiyagoda, Pelitiyagoda.
+
+The deceased has been remanded after being produced before the Kalutara Magistrate's Court on charges of the deaths.
+
+The detainee was sick yesterday (27) after being sick and was identified as the death of the Nagoda Teaching Hospital in Kalutara.
+
+The post mortem examination of the deceased suspect is due to be held at the Nagoda Survey Hospital in Kalutara today (28).
+
+OIC Chief Inspector Damith Jayatilake is conducting further investigations.
+
+Tashi Salaminda Salaminda, a 40-year-old daughter, was the 40-year-old daughter, death.
+
+Two people who came from a motorcycle were shot dead by the person who had received a dinner with the three children at their home.
+
+◼️
+
+[Data](articles/ab76b222.json)
+
+[Extended Data](ext_articles/ab76b222.ext.json)
+
+---
+
+### The fate of fishermen who left the sea despite the risk
 
 *2024-05-28 10:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197098) · `si`
 
-බලපිටිය හරස්පල ධීවර තොටුපොළෙන් මුහුදු ගිය ධීවරයන් තිදෙනකු රැගත් එක් දින ධීවර යාත්‍රාවක් පෙරළීම හේතුවෙන් දෙදෙනෙක් මුහුදේ ගිලී අතුරුදන්ව ඇති බව වාර්තා වෙයි.
+In a tragic incident, three fishermen ventured out to sea but faced heavy waves leading to their boat sinking. Among them, 42-year-old Earl Nishantha De Silva, a disabled former soldier and father of two, drowned. The other two managed to reach shore safely.
 
-ඔවුන්ගේ යාත්‍රාව කාර්මික දෝෂයට ලක්වීම හේතුකොට ගෙන එය අලුත්වැඩියා කරමින් සිටියදී එය දැඩි රළ පහරට හසුවී පෙරළී තිබුණි.
+🟩
 
-එහිදී බෝට්ටුවේ සිටි තිදෙනා මුහුදට වැටී ඇති අතර ඉන් එක් අයෙක් දිවි බේරා ගෙන පිහිනා ගොඩට පැමිණ තිබූ අතර අනෙක් දෙදෙනා මුහුදේ ගිලී අතුරුදහන් වී ඇත.
+Two fishermen carrying three fishermen carrying three fishermen carrying three fishermen have been sank.
 
-මෙසේ මියගොස් ඇත්තේ බලපිටිය විජේරාම මාවතේ පදිංචි 42 හැවිරිදි අර්ල් නිශාන්ත ද සිල්වා නමැති දෙදරු පියෙකි.
+When their vessel was rushed to the industrial fault, it had toppled in heavy waves.
 
-ඔහු ආබාධිත වූ යුද  හමුදා සෙබළෙකි. අතුරුදන්වී ඇත්තේ බලපිටිය බ්‍රාහ්මණවත්තේ පදිංචි ප්‍රදීප් ද සිල්වා නැමැති අයෙකි.
+The three in the boat had fallen into the sea, and one of them had come to the sea, and the other two sinks in the sea.
 
-සිද්ධියෙන් දිවි බේරාගෙන ඇත්තේ එම බෝට්ටුවේ අයිතිකරු වන ළහිරු ගිම්හාන ද සිල්වා නමැති අයෙකි.
+The deceased is a 42-year-old Earl Nishantha De Silva, a 42-year-old father of two.
+
+He was a disabled Army Soldier. Pradeep de Silva, a resident of Balapitiya Brahmannar.
+
+The owner of the boat was the owner of the boat, Lahiru Sumrawa De Silva.
 
 ◼️
 
 [Data](articles/60d0a390.json)
+
+[Extended Data](ext_articles/60d0a390.ext.json)
 
 ---
 
@@ -2139,93 +2225,5 @@ Representatives of the Employers Federation made this statement at a special med
 [Data](articles/a16394e4.json)
 
 [Extended Data](ext_articles/a16394e4.ext.json)
-
----
-
-### President’s Fund deadline extended for 2024/2025 ICT scholarship applications
-
-*2024-05-27 18:27:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Presidents-Fund-deadline-extended-for-20242025-ICT-scholarship-applications/108-283454) · `en`
-
-Colombo, May 27 (PMD) - The deadline for submitting applications for the 2024/2025 scholarship programme, jointly offered by the Sri Lanka Telecommunication Regulatory Commission and the President’s Fund for students studying Information and Communication Technology at the G.C.E. Advanced Level, has been extended till June 7, the President’s Media Division (PMD) said.
-
-As the awarding of these scholarships needs to be done promptly, students who have met the qualifications should properly complete their applications.
-
-These applications must be recommended by the Grama Seva Officer, Divisional Secretary, class teacher, school principal and Zonal Director. The completed applications should then be sent by registered post only to the Secretary, President's Fund, No. 35, 3rd Floor, Lake House Building, D.R. Wijewardena Mawatha, Colombo 10, before the specified date.
-
-...
-
-[Data](articles/289f1ff4.json)
-
-[Extended Data](ext_articles/289f1ff4.ext.json)
-
----
-
-### Tea Estate Association declares a decision on estate salary
-
-*2024-05-27 18:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197079) · `si`
-
-The Tea Estate Association opposes a government-mandated Rs 1,700 salary hike for estate workers, arguing it could harm small tea and rubber estate owners and disrupt industry operations. Mr. Roshan Rajadoraherai stated the decision was made without consulting the industry, potentially threatening workers' livelihoods across Sri Lanka.
-
-🟩
-
-The tea estate Association says it cannot be paid Rs 1,700 salary increase for estate workers as the government has proposed.
-
-The government has decided to increase the salaries of the relevant salaries without informing the tea estate owners.
-
-Speaking at a media briefing held today (27), Mr. Roshan Rajadoraherai expressed these views.
-
-"This decision has been taken regarding the needs of all stakeholders who are in the industry.. It is our belief that this decision does not receive any benefit from the tea and rubber industry in the country. In force of small tea and rubber estate owners and regional plantation companies to make such an unfair wage increments cannot be successful in slashing the basic operations requirements of the industry. In the moment, the livelihood of workers and communities throughout Sri Lanka throughout the entire estate is threatened with workers and communities throughout Sri Lanka. "
-
-◼️
-
-[Data](articles/fb13286f.json)
-
-[Extended Data](ext_articles/fb13286f.ext.json)
-
----
-
-### Failed one of the five drugs that come to register
-
-*2024-05-27 18:12:24* · [`adalk`](https://www.ada.lk/breaking_news/ලියා-පදිංචියට-එන-ඖෂධ-පහෙන්-එකක්-ගුණත්වයෙන්-අසමත්/11-409853) · `si`
-
-The National Audit Office warns of potential risks with one of five drugs registered with the Drug Regulatory Authority. Despite regulations requiring all drugs to be tested at the National Drug Quality Assurance Laboratory, 1646 drugs from January to September 30, 2023, were not submitted. The audit also found issues with 16 out of 76 samples, highlighting concerns over drug quality and safety.
-
-🟩
-
-The National Audit Office reveals that there is a risk of one of five drugs that register to the Drug Regulatory Authority.
-
-All the drugs presented to the National Drug Quality Protection Laboratory to the National Drug Quality Assurance Laboratory should be submitted to the National Drug Quality Assurance Laboratory.
-
-However, the audit revealed that the Authority has not taken steps to submit 1646 drugs from January to September 30, 2023.
-
-The National Drug Regulatory Authority has been observed that 16 samples had been reported that the samples were reported to be able to use one of 76 samples.The National Audit Report has been revealed by the National Audit Office of the National Audit Office on the National Drug Quality Protection Authority.
-
-◼️
-
-[Data](articles/59f65e72.json)
-
-[Extended Data](ext_articles/59f65e72.ext.json)
-
----
-
-### Pakistan HC unveils Gallery celebrating Buddhist archeological sites in Kandy Museum
-
-*2024-05-27 18:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/99473/pakistan-hc-unveils-gallery-celebrating-buddhist-archeological-sites-in-kandy-museum) · `en`
-
-High Commissioner of Pakistan to Sri Lanka Maj. General (Rtd) Faheem Ul Aziz officially inaugurated the Pakistan Gallery located inside Kandy Museum.
-
-The gallery has recently been renovated to showcase the Buddhist archeological and heritage sites, based in different cities of Pakistan through pictures, relics, and artifacts, the Pakistan High Commission in Sri Lanka said in a statement.
-
-Accordingly, the Pakistan Gallery is now officially opened for the general public to visit, the statement mentioned.
-
-Many prominent dignitaries including Pradeep Nilanga, Diyavadana Nilame and Mr. Afzal Marikar Honorary Consul of Pakistan in Kandy attended the event.
-
-The High Commissioner has later distributed school bags among children while visiting the Kandy Temple, according to the Pakistan High Commission in Sri Lanka.
-
-◼️
-
-[Data](articles/0f7ec811.json)
-
-[Extended Data](ext_articles/0f7ec811.ext.json)
 
 ---

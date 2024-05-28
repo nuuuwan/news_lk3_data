@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-28 16:05:33**
+As of **2024-05-28 16:18:38**
 
 ## Newspaper Stats
 
-*Scraped **26,809** Articles*
+*Scraped **26,811** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 363
 islandlk | 1,454
 economynextcom | 1,532
 dailyftlk | 1,568
-adalk | 2,283
-adaderanalk | 3,066
+adalk | 2,284
+adaderanalk | 3,067
 tamilmirrorlk | 3,145
 virakesarilk | 4,104
 dailymirrorlk | 4,224
@@ -26,11 +26,31 @@ adaderanasinhalalk | 4,301
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,803 (100.0%) of 26,809 articles have been extended.
+26,809 (100.0%) of 26,811 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-28 (Tuesday)
+
+### Upgrading of Northern railway line to be completed by August
+
+*2024-05-28 16:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/99491/upgrading-of-northern-railway-line-to-be-completed-by-august) · `en`
+
+Minister of Highways, Transport, and Mass Media Dr. Bandula Gunawardena says that it is unlikely that the reconstruction work on the Northern railway track will be completed before the upcoming Poson Poya.
+
+In response to a question raised by a journalist during a press conference held today (28), the minister explained that the development of the Northern railway line could be completed by August this year.
+
+Meanwhile, he further stated that a special bus service will be implemented for the ‘Poson Poya’ holidays.
+
+He said that the bus service will be implemented on the ‘Poson Poya’ day and the day before.
+
+Minister Gunawardena also stated that an announcement will be made in relation to the schedule of the special bus service and special arrangements have also been made with the Sri Lanka Transport Board (SLTB) and the private sector bus operators in this regard.
+
+◼️
+
+[Data](articles/86fd6668.json)
+
+---
 
 ### UNP proposes postponing elections by two years
 
@@ -52,57 +72,77 @@ He stated that Sri Lanka has an agreement in place with the International Moneta
 
 [Data](articles/b9517e13.json)
 
+[Extended Data](ext_articles/b9517e13.ext.json)
+
 ---
 
-### වර්ජනය අවසන් කර වැඩට එන්නැයි දැනුම්දීමක්
+### Notice to finish the strike and come to work
 
 *2024-05-28 15:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197115) · `si`
 
-අනධ්‍යයන කාර්ය මණ්ඩල වෘත්තිය සමිති දැනට පවත්වාගෙන යන වෘත්තිය ක්‍රියා මාර්ගයෙන් ඉවත්වන ලෙස අධ්‍යාපන අමාත්‍යාංශය ඉල්ලීමක් සිදුකර තිබේ.
+The Ministry of Education has ordered the removal of professional societies for academic and non-academic staff, following a cabinet meeting on June 27, 2013. The decision was made to address salary anomalies among non-drinking staff since 2018 and plan for the next budget.
 
-නිවේදනයක් නිකුත් කරමින් අධ්‍යාපන අමාත්‍යාංශය පවසන්නේ වෘත්තිය ක්‍රියා මාර්ගයෙන් ඉවත්ව අනධ්‍යයන සේවකයින්ට සේවය සඳහා වාර්තා කරන ලෙසටය.
+🟩
 
-එම නිවේදනයේ දැක්වෙන්නේ 2024.06.27 දින පැවැති අමාත්‍ය මණ්ඩල රැස්වීමේ දී ගනු ලැබූ අමාත්‍ය මණ්ඩල තීරණය පරිදි ඔවුන්ගේ ඉල්ලීම් සඳහා විසඳුම් ලැබෙනු ඇති බවය.
+The Ministry of Education has requested the Ministry of Education to remove the proper staff professional societies.
 
-එහිදී අනධ්‍යයන කාර්ය මණ්ඩලවල 2018 සිට පැවැති වැටුප් විෂමතාව සම්බන්ධයෙන් වූ ගැටලු‍ව පිළිබඳව හා ඒ හා සම්බන්ධ වූ වෙනත් වැටුප් විෂමතා පිළිබඳව ඇති ගැටලු‍ පිළිබඳව විමර්ශනය කර මීළඟ අයවැයට පෙර අමාත්‍ය මණ්ඩලයට වාර්තා කිරීමට භාණ්ඩාගාර ලේකම්ගේ ප්‍රධානත්වයෙන් කමිටුවක් පත්කර නිර්දේශ ලබා ගැනීමට තීරණය කර ඇති බවද එම නිවේදනයේ වැඩිදුරටත් දැක්වෙයි.
+Issuing an announcement, the Ministry of Education states that the profession of the profession and report to the non-academic employees.
+
+The announcement indicates that the Cabinet Meeting held at the Cabinet Meeting held on 27.06.2013.
+
+The Secretary to the Treasury has decided to report to the Cabinet of the Treasury to report the issues of the Salary Anomality of the Non-Drinking Staff from 2018 and the Next Budget..
 
 ◼️
 
 [Data](articles/539a7228.json)
 
+[Extended Data](ext_articles/539a7228.ext.json)
+
 ---
 
-### විජයදාසට එරෙහිව තවත් වාරණයක්
+### Another censorship against Wijayaka
 
 *2024-05-28 15:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197114) · `si`
 
-ශ්‍රී ලංකා නිදහස් පක්ෂයේ සභාපතිවරයා ලෙස විජයදාස රාජපක්ෂ මහතා කටයුතු කිරීම සහ එම පක්ෂයේ සාමාජිකයෙක් වශයෙන් පෙනී සිටීම වළක්වාලමින් කොළඹ දිසා අධිකරණය තවත් වාරණ නියෝගයක් නිකුත් කළේය.
+The Colombo District Court issued an injunction against someone impersonating the SLFP Chairman, acting on a complaint by Mr. Lasantha Alagiyawanna.
 
-ලසන්ත අලගියවන්න මහතා විසින් ඉදිරිපත් කළ පැමිණිල්ලක් සලකා බැලීමෙන් අනතුරුව මෙම නියෝගය නිකුත් කෙරුණි.
+🟩
+
+The Colombo District Court issued another injunction due to the Chairman of the Sri Lanka Freedom Party (SLFP) and pretending to be a member of the party.
+
+The order was issued after considering a complaint made by Mr. Lasantha Alagiyawanna.
 
 ◼️
 
 [Data](articles/1d36a15f.json)
 
+[Extended Data](ext_articles/1d36a15f.ext.json)
+
 ---
 
-### රුපියල් 500කට සිදුවූ මිනීමැරුමක්
+### A murder held for Rs. 500
 
 *2024-05-28 15:35:44* · [`adalk`](https://www.ada.lk/breaking_news/රුපියල්-500කට-සිදුවූ-මිනීමැරුමක්/11-409873) · `si`
 
-රුපියල් 500 ක් හොරෙන් ගත්තැයි වැඩිමහල් සොහොයුරාට අතින් පයින් පහරදී ඝාතනය කල බවට සැකපිට පුද්ගලයකු අත්අඩංගුවට ගත්බව පින්වත්ත (පානදුර) පොලිසිය පවසයි.
+A 48-year-old man from Trothlicamagama Road was arrested for allegedly murdering his 52-year-old brother, Jayantha Silva, over a dispute involving Rs. 500. The victim, who lived on Trotshalama Road, was hospitalized but succumbed to injuries. Police investigations suggest the motive behind the killing was a financial disagreement.
 
-මෙසේ අත්අඩංගුවට ගෙන ඇත්තේ පින්වත්ත උපෝසථාරාම පාරේ පදිංචි  48 හැවිරිදි පුද්ගලයෙකු බව පොලිසිය කීය.
+🟩
 
-පින්වත් උපෝසථාරාම පාරේ පදිංචිව සිටි ජයන්ත සිල්වා නමැති 52 හැවිරිදි පුද්ගලයෙකු පානදුර මූලික රෝහලේ ප්‍රතිකාර ලබමින් සිටියදී මියගොස් තිබුණි.
+A person arrested on suspicion that the elder brother was assassinated by the elder brother, said.
 
-සැකකරු, මියගොස් ඇති වැඩිමහල් සොයුරා සහ මව සමඟ නිවසේ පදිංචිව  සිටින අතර, රුපියල් 500 ක් සොරකම් කිරීම සම්බන්ධයෙන් දෙදෙනා අතර  ඇතිවූ කතාබහක් දුරදිග යාමෙන් සිය වැඩිමහල් සොහොයුරාට ඉකුත් 13 දා පහර දී ඇති බව පොලිස් පරීක්ෂණවලදී අනාවරණය වී තිබේ.
+The arrested persons were a 48 year old resident of the Trothlicamagama Road, Pingathanarama Road.
 
-පහර කෑමෙන් තුවාල ලබා සිටි තැනැත්තා පසුගිය දිනකදී පානදුර මූලික රෝහලේදී  මියගොස් ඇති අතර, පශ්චාත් මරණ පරීක්ෂණයේදී අනාවරණය වූ කරුණු මත ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක පත්ම නන්දන මහතාගේ මෙහෙයවීමෙන් සැකකරු අත්අඩංගුවට ගෙන තිබේ.
+Jayantha Silva, a 52-year-old man, who was residing at the Trotshalama Road, had been treated at the Panadura Base Hospital.
+
+Police investigations have revealed that his elder brother had been assaulted by his elder brother on the 13th of taking over 500 rupees regarding the death of Rs.
+
+The injured had been killed in the Panadura Base Hospital recently, while the OIC Chief Inspector of the OIC has been arrested by the Chief Inspector of the OIC of the post mortem.
 
 ◼️
 
 [Data](articles/0cd7917b.json)
+
+[Extended Data](ext_articles/0cd7917b.ext.json)
 
 ---
 
@@ -494,21 +534,27 @@ Suddenly, the Testament to consult the Secretaries of four of the Ministry Secre
 
 ---
 
-### රජ දවසින් පසු මෑත ඉතිහාසය තුල රුවන්වැලිසෑය අභියස පැවැති විශාලම ශබ්ද පූජාව
+### The biggest sound offering that the king of the king was nearing recent history in recent history
 
 *2024-05-28 13:09:17* · [`adalk`](https://www.ada.lk/breaking_news/රජ-දවසින්-පසු-මෑත-ඉතිහාසය-තුල-රුවන්වැලිසෑය-අභියස-පැවැති-විශාලම-ශබ්ද-පූජාව/11-409868) · `si`
 
-හෙල රජ දවසින් පසු මෑත ඉතිහාසය තු‍ළ රුවන්වැලි සෑ රදුන් ඉදිරිපිට  පැවැත්වූ විශාලතම ශබ්ද පූජා පින්කම අද (28දා) උදෑසන රුවන්වැලි සෑ රදුන් අබියස දී සිදු කෙරිණි.
+The largest sound offering ceremony recently took place near Ruwanweli Stupa, featuring a conch, drum, cymbals, and a trumpet, lasting from 6:30 to 7:30 AM. It aimed to bring peace and prosperity to the nation, organized by Malwathu Vihara under the guidance of Gnanatilaka Nayaka Thera of Rajarata University.
 
-මඟුල් බෙරය, දවුල, තම්මැට්ටම, ගැටබෙරය, හක් ගෙඩිය සහ හොරණෑව භාවිතා කරමින් 510, දෙනෙකුගෙන් යුතු හේවිසි කණ්ඩායමක් රුවන්වැලි සෑ සලපතල මළුව වටා හිඳිමින් බුදු රජාණන් වහන්සේ උදෙසා සිදු කෙරෙන ආමිස පූජාවක් ලෙස, උදෑසන 6.30 සිට 7.30 දක්වා පැයක  කාලයක් පුරාවට අඛණ්ඩව මෙම ශබ්ද පූජාව සිදු කලහ.
+🟩
 
-"වස් දොස්  දුරුවී රටට යහපත සැනසිල්ල උදා වේවායි" ප්‍රාර්ථනා කරමින් මෙම ශබ්ද පූජාව පැවැත්වූහ.
+The largest sound sacrifice was held in front of Ruwanweli Pinna in the recent history after the day.
 
-රජරට විශ්වවිද්‍යාලයේ කුලපති, රුවන්වැලි සෑ  චෛත්‍යාරාමාධිකාරී පූජ්‍ය ඊතල් වැටුණු වැවේ ඥානතිලක නා හිමිගේ අනුශාසකත්වයෙන් මල්වතු මහා විහාර වාසී, පුරා විද්‍යා ගවේෂණ ශූරී ශාස්ත්‍රපති මැද මහනුවර ධම්මසිරි හිමිපාණන්ගේ සංවිධානත්වයෙන් හා මඟ පෙන්වීමෙන්, උන්වහන්සේගේ දායක දායිකාවන් පිරිසක් මෙම ශබ්ද පූජා පින්කම සිදු කලහ.
+A Hawles of a Durupe, a Dhamma, Ruwanweli, Hakkali, and the trumpet is continuing to be around the Ruwanweli Parakara and the Buddha for an hour from 6.30 am to 7.30 amIt was done.
+
+"Wishing to the country is comforted by good and comforted," he held this sound offering.
+
+The Malwathu Vihara, the organizational and guide of Gnanati Parakara of the Rajanuweli Parakara of the Rajarata University of Ruwanweli Parakara is the organizations of the Gnanatilake Nuraki.
 
 ◼️
 
 [Data](articles/e349ff2b.json)
+
+[Extended Data](ext_articles/e349ff2b.ext.json)
 
 ---
 
@@ -596,19 +642,25 @@ The accident is suspected of the accident with the train heading to Colombo and 
 
 ---
 
-### இந்திய அணி பயிற்சியாளரக்கு மோடி  விண்ணப்பம்
+### Modi application for Indian team coach
 
 *2024-05-28 12:48:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/இந்திய-அணி-பயிற்சியாளரக்கு-மோடி-விண்ணப்பம்/44-338022) · `ta`
 
-இந்திய ஆண்கள் கிரிக்கெட் அணியின் பயிற்சியாளர் பதவிக்கு ராகுல் டிராவிட்டிற்கு  பிறகு அவருக்கு பொருத்தமான மாற்றாக யாரை தேர்ந்தெடுக்கலாம் என்று இந்திய கிரிக்கெட் கவுன்சிலான பி.சி.சி.ஐ. தீவிரமாக ஆலோசித்து வருகிறது.
+BCCI is seeking a replacement for Rahul Dravid as India's men's cricket team coach, receiving over 3000 applications but facing challenges in verifying authenticity due to suspected fake applications involving notable figures like Modi, Amit Shah, Sachin, Dhoni, and Sehwag. The process was expected to conclude on May 27th, with the real challenge being to distinguish between genuine and fraudulent applications.
 
-மே 13 முதல் இந்திய அணி பயிற்சியாளர் பதவிக்கு விண்ணப்பங்கள் பெறப்பட்ட நிலையில், அது திங்கட்கிழமை (27) யுடன் நிறைவு பெற்றது. இந்தநிலையில், இந்திய கிரிக்கெட் அணி பயிற்சியாளர் பதவிக்கு மோடி, அமித்ஷா, சச்சின், தோனி, சேவாக் ஆகிய பெயரில் போலியாக விண்ணப்பங்கள் குவிந்துள்ளதால் தேர்வுக்குழு குழுப்பம் அடைந்துள்ளதாக தகவல் வெளியாகி உள்ளது.
+🟩
 
-இந்திய அணியின் தலைமை பயிற்சியாளர் பதவிக்கு 3 ஆயிரம் பேர் விண்ணப்பித்துள்ளதாகவும் பதிவான விண்ணப்பங்களில் போலி எது, உண்மை எது என கண்டறிய தாமதம் ஆகும் எனவும்  பி.சி.சி.ஐ தகவல் தெரிவித்துள்ளது. கூகுள் பார்ம் மூலம் விண்ணப்பங்கள் பெறப்பட்டதால் பலர் போலி விண்ணப்பங்களை பதிவு செய்துள்ளது தெரியவந்துள்ளது. இந்திய அணி பயிற்சியாளர் ராகுல் டிராவிட்டின் பதவிக்காலம் டி20 உலகக்கோப்பை தொடருடன் நிறைவடைகிறது.
+BCCI in the Indian Cricket Council BCCI says who can choose the appropriate alternative after Rahul Dravid for the post of coach of the Indian men's cricket team. Seriously considering.
+
+Applications for the post of coach from May 13 have been completed on Monday (27). In the meantime, it has been reported that Modi, Amit Shah, Sachin, Dhoni and Sehwag have been accused of fake applications for the post of Indian cricket team coach.
+
+The BCCI said that 3000 people have applied for the post of head coach and will be delayed to find out what is fake and what is true in applications reported.. It has been revealed that many have registered fake applications as applications have been received by Google Farm. Indian team coach Rahul Dravid's term ends with the T20 World Cup series.
 
 ◼️
 
 [Data](articles/40aca2c4.json)
+
+[Extended Data](ext_articles/40aca2c4.ext.json)
 
 ---
 
@@ -711,6 +763,20 @@ The US $ 295.8074 is Rs.
 [Data](articles/a418c39f.json)
 
 [Extended Data](ext_articles/a418c39f.ext.json)
+
+---
+
+### රාජ්‍ය ‍සේවයේ වැටුප් විෂමතා ගැන හොයන්න කමිටුවක්
+
+*2024-05-28 12:32:41* · [`adalk`](https://www.ada.lk/breaking_news/රාජ්‍ය-‍සේවයේ-වැටුප්-විෂමතා-ගැන-හොයන්න-කමිටුවක්/11-409867) · `si`
+
+රාජ්‍ය සේවයේ විවිධ සේවක කණ්ඩායම් අතර පවතින වැටුප් විෂමතාවන් සම්බන්ධයෙන් එකී සේවක කණ්ඩායම් හා අදාල වෘත්තීය සමිති විසින් වරින්වර ඉදිරිපත් කරනු ලැබ ඇති නියෝජනයන් සැලකිල්ලට ගෙන ඵකී වැටුප් විෂමතාවන් පිළිබදව කරුණු අධ්‍යනය කිරීම සඳහා කමිටුවක් පත් කර තිබේ.
+
+2025 වර්ෂය සදහා වන අය වැය මගින් එම විෂමතාවන් නිවැරදි කිරිමට හැකි වන පරිදි වාර්තාවක් ඉදිරිපත් කිරීම සදහා එම විශේෂඥ කමිටුවක් පත් කිරීමට ඊයේ පැවති අමාත්‍ය මණ්ඩලය  රැස්වීමේදී තීරණය වී තිබේ.
+
+◼️
+
+[Data](articles/01d76b42.json)
 
 ---
 
@@ -2325,57 +2391,5 @@ However, the situation took a dramatic turn when she and her husband returned to
 [Data](articles/7bc1d693.json)
 
 [Extended Data](ext_articles/7bc1d693.ext.json)
-
----
-
-### Sri Lanka plantations say state ‘arbitrary’ wage order will de-stabilize tea sector
-
-*2024-05-28 07:28:00* · [`economynextcom`](https://economynext.com/sri-lanka-plantations-say-state-arbitrary-wage-order-will-de-stabilize-tea-sector-165025/) · `en`
-
-ECONOMYNEXT – A state ordered wage hike for tea and rubber workers will de-stabilize the sector by undermining a productivity linked wages aimed at boosting output, plantations managers said.
-
-In order to pay the mandated wage which amounts to a 70 percent increase in costs, without an increase in output which is possible under alternative models already tried will force cost-cutting in fertilizer and other investments, the Planters’ Association of Ceylon said.
-
-The government issued another gazette in May, with exactly the same wage as in April, under the so-called wages board ordinance.
-
-Wages for tea and rubber workers are the highest among all wages boards including garments and other state jobs like
-
-Planters’ Association strongly opposes Government’s arbitrary and ill-conceived wage hike for plantation sector workers
-
-...
-
-[Data](articles/4adca159.json)
-
-[Extended Data](ext_articles/4adca159.ext.json)
-
----
-
-### Committee to investigate salary anomalies
-
-*2024-05-28 07:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197090) · `si`
-
-A special committee will be formed to address salary discrepancies within the public sector, as approved by the Cabinet under President Ranil Wickremesinghe. The committee's role includes identifying and proposing solutions to these anomalies across different fields. Additionally, the deadline for applying to the Presidential Fund Scholarship Program for the academic year 2024-2025 has been extended to June 7th due to administrative issues and unfavorable weather conditions.
-
-🟩
-
-The Cabinet has decided to appoint a special committee to investigate the salary anomalies existing in the public service.
-
-The decision was taken at the Cabinet meeting yesterday (27) under the patronage of President Ranil Wickremesinghe.
-
-The President has proposed to the Cabinet that the officers of the Public Service has come forward to remove salary anomalies.
-
-President Ranil Wickremesinghe has proposed to appoint a committee to recommend the Salary Anomalies in each field and recommend the Solutions to the proposal.
-
-It is reported that the President has instructed the Presidential Secretary Saman Ekanayake to appoint the committee to appoint the relevant committee expeditiously appointment from the Secretaries and Public Officers.
-
-Meanwhile, the General Assembly of Study General Certificate has been extended to the Presidential Fund Scholarship Scholarship Scholarship.
-
-The following period of 2024 -2025 Applications have been extended to June 07, the Presidential Media Unit said.
-
-...
-
-[Data](articles/f0b0c956.json)
-
-[Extended Data](ext_articles/f0b0c956.ext.json)
 
 ---

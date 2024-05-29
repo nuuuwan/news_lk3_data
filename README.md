@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-29 17:18:45**
+As of **2024-05-29 17:34:22**
 
 ## Newspaper Stats
 
-*Scraped **27,110** Articles*
+*Scraped **27,115** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,76 @@ newsfirstlk | 363
 islandlk | 1,465
 economynextcom | 1,548
 dailyftlk | 1,591
-adalk | 2,302
+adalk | 2,304
 adaderanalk | 3,091
-tamilmirrorlk | 3,183
+tamilmirrorlk | 3,185
 virakesarilk | 4,168
 dailymirrorlk | 4,280
-adaderanasinhalalk | 4,345
+adaderanasinhalalk | 4,346
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,107 (100.0%) of 27,110 articles have been extended.
+27,110 (100.0%) of 27,115 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-29 (Wednesday)
+
+### රන් ගෙන්වන ආයතන 5කට මිලියන 1243ක දඩයක්
+
+*2024-05-29 17:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197161) · `si`
+
+මෙරටට නීතිවිරෝධී ලෙස රන් ආනයනය කළ ආයතන කිහිපයකට රුපියල් මිලියන 1243ක දඩයක් නියම කර ඇති බව මුදල් රාජ්‍ය අමාත්‍ය රංජිත් සියඹලාපිටිය මහතා පවසයි.
+
+එලෙස නීතිවිරෝධී ලෙස රන් ආනයනය කළ ආයතන 5ක් මේවනවිට හඳුනාගෙන ඇති බවද මුදල් රාජ්‍ය අමාත්‍යවරයා වැඩිදුරටත් සඳහන් කළේය.
+
+අමාත්‍යවරයා වැඩිදුරටත් පවසා ඇත්තේ එම ආයතන අතරින් එක් ආයතනයක් සඳහා රුපියල් මිලියන 179ක දඩයක් ගෙවීමට නියම කර ඇති බවය.
+
+මින් ඉදිරියට රන්භාණ්ඩ ආනයන සිදුකරන බලපත්‍රලාභී සියලු ආයතන මෙම නීති විරෝධී ක්‍රියාවන් වෙතින් මිදිය යුතු බවද එහිදී අමාත්‍යවරයා අවදාරණය කර සිටී.
+
+එසේම අදාළ ආයතන ඍජුව රන් ආනයනය නොකර තුන්වැනි පාර්ශ්ව වෙතින් මිලදීගන්නා රන් සඳහා ද නිෂ්පාදන වාර්තා සළකාබලා දඩ මුදල් අය කරගන්නා බවද අමාත්‍යවරයා පවසයි.
+
+නීතිවිරෝධී ලෙස රට තුළට රන් ආනයනය කිරීම සම්බන්ධයෙන් පසුගිය වකවානුව තුළ අනාවරණය වූ සිදුවීම් සැලකිල්ලට ගෙන මෙරට රන් ජාවාරම වැළැක්වීමේ අරමුණින් ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ උපදෙස් මත රන් භාණ්ඩ ආනයනයේ දී හඳුනාගත් සීමා පනවමින් අතිවිශේෂ ගැසට් නිවේදනයක් ද පසුගිය වර්ෂයේ මාර්තු මාසයේ දී නිකුත් කර තිබේ.
+
+◼️
+
+[Data](articles/3e9d2ca2.json)
+
+---
+
+### பெண் கான்ஸ்டபிளின் ஏ.ரி.எம்  அட்டையில் இழுத்த ஐவர் கைது
+
+*2024-05-29 17:13:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெண்-கான்ஸ்டபிளின்-ஏ-ரி-எம்-அட்டையில்-இழுத்த-ஐவர்-கைது/175-338115) · `ta`
+
+பெண் கான்ஸ்டபிளுக்குச் சொந்தமான வங்கி தானியக்க இயந்திர அட்டையை (ஏ.ரி.எம் அட்டை) எடுத்து பொருட்களைக் கொள்வனவுச் செய்தனர் என்ற குற்றச்சாட்டின் கீழ், கந்தேநுவர பொலிஸில் இணைந்து கடமையாற்றும் பெண் கான்ஸ்டபிள்கள் இருவர் உட்பட ஐவர் கைது செய்யப்பட்டுள்ளனர்.
+
+கைது செய்யப்பட்ட ஏனைய சந்தேகநபர்களில், இணைந்து கடமையாற்றும் பொலிஸ் கான்ஸ்டபிள், லக்கல பொலிஸ் பிரிவில் கடமையாற்றும் பல்நோக்கு அபிவிருத்தி உதவியாளர், ரத்தோட்டை உள்ளூராட்சி சபையின் மின்சார ஊழியர் ஆகியோரும் அடங்குவர் என பொலிஸார் தெரிவித்துள்ளனர்.
+
+மாத்தளை வெசாக் வலயத்தில் விகாரை மாவத்தையில் கடந்த 24ஆம் திகதியன்று விழுந்து கிடந்த ஏ.ரி.எம் காட் அட்டையில் 15,150 ரூபாய் பணம் மீள எடுக்கப்பட்டுள்ளது. அத்துடன், பொருட்களும் கொள்வனவு செய்யப்பட்டுள்ளன என அந்த பெண் கான்ஸ்டபிளினால் முறைப்பாடு செய்யப்பட்டுள்ளது.
+
+அதனடிப்படையில் மேற்கொள்ளப்பட்ட விசாரணைகளின் பின்னரே, வெசாக் வலயத்தில் கந்தேநுவர பொலிஸில் இருந்து வருகைதந்த பொலிஸார் கைது செய்யப்பட்டனர். அவர்களிடம் மேற்கொள்ளப்பட்ட விசாரணைகளில் ஏனையோரும் கைது செய்யப்பட்டனர் என பொலிஸார் குறிப்பிட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/5f205828.json)
+
+---
+
+### ‘ரணிலின் தோல்வியை ஐ.தே.க ஏற்றுள்ளது’
+
+*2024-05-29 17:08:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலின்-தோல்வியை-ஐ-தே-க-ஏற்றுள்ளது/175-338114) · `ta`
+
+ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் தோல்வியை உத்தியோகபூர்வமாக ஐக்கிய தேசியக் கட்சி ஏற்றுக் கொண்டுள்ளதாக தேசிய மக்கள் சக்தியின் நிறைவேற்றுச் சபை உறுப்பினர் நலிந்த ஜயதிஸ்ஸ செவ்வாய்க்கிழமை (28) தெரிவித்துள்ளார்.
+
+ஜனாதிபதி அல்லது பொதுத் தேர்தல்களை நடத்தாமல் ரணில் விக்கிரமசிங்கவுக்கு மேலும் இரண்டு ஆண்டுகள் வழங்கப்பட வேண்டுமென்ற ஐக்கிய தேசியக் கட்சியின் பொதுச் செயலாளர் பாலித ரங்கே பண்டாரவின் கருத்தைச் சாடும்போதே குறித்த கருத்தை ஜயதிஸ்ஸ வெளிப்படுத்தியுள்ளார்.
+
+◼️
+
+[Data](articles/cdb44f7b.json)
+
+---
 
 ### Singapore flight investigation finds sharp altitude drop caused injuries
 
@@ -48,33 +102,63 @@ The May 21 flight on a Boeing 777-300ER plane carrying 211 passengers and 18 cre
 
 [Data](articles/e6907d5b.json)
 
+[Extended Data](ext_articles/e6907d5b.ext.json)
+
 ---
 
-### அல்லு அர்ஜுன் நடிக்கும் 'புஷ்பா 2- தி ரூல்' படத்தின் இரண்டாவது பாடல் வெளியீடு
+### Allu Arjun starrer 'Pushpa 2- The Rule'
 
 *2024-05-29 16:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/184803) · `ta`
 
-தெலுங்கு திரையுலகின் முன்னணி நட்சத்திர நடிகரான அல்லு அர்ஜுன் 'புஷ்பா' படத்தின் மூலம் பான் இந்திய நட்சத்திர நடிகராக உயர்ந்தார். அவர் நடிப்பில் எதிர்வரும் ஓகஸ்ட் மாதம் 15 ஆம் திகதியன்று வெளியாகவிருக்கும் 'புஷ்பா படத்தின் இரண்டாம் பாகத்தில் இடம்பெற்ற இரண்டாவது பாடலும், பாடலுக்கான பிரத்யேக காணொளியும் வெளியிடப்பட்டிருக்கிறது.
+"Pushpa 2: The Rule," starring Allu Arjun, directed by Sukumar, features songs in multiple languages including Tamil, Telugu, Malayalam, Kannada, and Hindi. The sequel, releasing on August 15, follows the success of its first song, which garnered over forty million views. The second song, "Suda...," along with a special video, has already attracted over a million views in just two hours."
 
-இயக்குநர் சுகுமார் இயக்கத்தில் உருவாகி இருக்கும் 'புஷ்பா 2- தி ரூல்' எனும் திரைப்படத்தில் அல்லு அர்ஜுன், பகத் ஃபாசில், ரஷ்மிகா மந்தானா, தனஞ்ஜெயா, ராவ் ரமேஷ், சுனில், அனுசுயா பரத்வாஜ், அஜய் கோஷ் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். 'ராக் ஸ்டார்' தேவி ஸ்ரீ பிரசாத் இசையமைத்திருக்கும் இந்த திரைப்படத்தை மைத்ரி மூவி மேக்கர்ஸ் நிறுவனம் சார்பில் தயாரிப்பாளர்கள் நவீன் யெர்னேனி மற்றும் வை. ரவிசங்கர் ஆகியோர் இணைந்து தயாரித்திருக்கிறார்கள்.
+🟩
+
+Allu Arjun, the leading star actor of Telugu film industry, rose to Ban Indian star actor with 'Pushpa'. The second song and a special video for the song will be released in the second part of the film 'Pushpa', which will be released on August 15, will be released on August 15.
+
+Directed by director Sukumar, 'Pushpa 2-The Rule' stars Allu Arjun, Bhagat Fazil, Rashmika Mantana, Tananjaya, Rao Ramesh, Sunil, Anusuya Bharadwaj, Ajay Ghosh, Ajay Ghosh. The film is composed by 'Rock Star' Devi Sri Prasad on behalf of Maithri Movie Makers Company.. Ravi Shankar has co -produced.
 
 ...
 
 [Data](articles/72e56797.json)
 
+[Extended Data](ext_articles/72e56797.ext.json)
+
 ---
 
-### திருக்கோணேஸ்வரர் ஆலய வழக்கு தொடர்பில் விமர்சித்த போலி முகநூல் பதிவொன்றிற்கு எதிராக வழக்குத்தாக்கல்
+### Criticism against a fake Facebook post criticized in the case of the temple
 
 *2024-05-29 16:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/184802) · `ta`
 
-திருகோணமலை மாவட்ட நீதிமன்றில் கோணேசர் ஆலய வழக்கு தொடர்பில் விமர்சித்த போலி முகநூல் பதிவொன்றிற்கு எதிராக இன்று புதன்கிழமை (29) வழக்கொன்று தாக்கல் செய்யப்பட்டுள்ளது.
+A lawsuit has been filed against a fake Facebook account linked to the Konasar temple case in Trincomalee, under Section 26(1) of the Ceremony Act No. 9, 2024. The case was presented by attorney Chinathambi Shanmukhi, with senior attorney Ramalingam supporting it. The court seeks to identify the person behind the account and investigate related incidents. This marks the second such case filed by the Trincomalee District Court against anonymous Facebook registrations under the same act.
 
-செல்வக்கண்டு கனகநாயகம் விஜயநாதன் என்பவரினால் 2024 ஆம் ஆண்டு 9 ஆம் இலக்க நிகழ்நிலைக் காப்புச் சட்டத்தின் பிரிவு 26 (1) இல் உள்ள ஏற்பாடுகளின் கீழ் குறித்த வழக்கானது தாக்கல் செய்யப்பட்டுள்ளது. வழக்கினை பதிவு செய்யப்பட்ட சட்டத்தரணி சின்னத்தம்பி சண்முகி தாக்கல் செய்திருந்தார். குறித்த மனுவை ஆதரித்து சிரேஷ்ட சட்டத்தரணி இராமலிங்கம் திருக்குமாரநாதன் மன்றில் தனது சமர்ப்பணத்தை முன்வைத்தார்.
+🟩
+
+A case has been filed today (29) against a fake Facebook account criticized in the Konasar temple case in Trincomalee District Court.
+
+The case has been filed under Section 26 (1) of the Ceremony Act No. 9, 2024 by Selvakandu Kanakanayagam Vijayanathan.. Attorney -at -Law Chinathambi Shanmukhi had filed the case. Senior Attorney Ramalingam presented his submission to the Thirukumaranathan Hall in support of the petition.
+
+The identity of the man who is used or the man who is used to be able to recognize the unprecedented Facebook account, and other events related to the Facebook account used by the petitioner are required to file the case in the future, as the Hon. The Hon.The Criminal Investigation Department of the Criminal Investigation Department (Criminal Investigation), which is acting on the submission of the Hon.
 
 ...
 
 [Data](articles/93609a14.json)
+
+[Extended Data](ext_articles/93609a14.ext.json)
+
+---
+
+### අත්අඩංගුවට ගත් කොතලාවල ආරක්ෂක විශ්වවිද්‍යාලයේ කථිකාචාර්ය වරයා ඇප මත මුදාහරී
+
+*2024-05-29 16:49:44* · [`adalk`](https://www.ada.lk/breaking_news/අත්අඩංගුවට-ගත්-කොතලාවල-ආරක්ෂක-විශ්වවිද්‍යාලයේ-කථිකාචාර්ය-වරයා-ඇප-මත-මුදාහරී/11-409891) · `si`
+
+ISIS සංවිධානය සමඟ සම්බන්ධ බවට සැකකෙරෙන ඉන්දියාවේදී අත්අඩංගුවට ගත් ශ්‍රී ලාංකිකයින් 4 දෙනෙකු සම්බන්ධයෙන් අසත්‍ය ප්‍රකාශයක් සිදුකළ බවට එල්ලවූ චෝදනාවකට අදාළව කොතලාවල ආරක්ෂක විශ්වවිද්‍යාලයේ කථිකාචාර්ය ආචාර්ය පුන්සර අමරසිංහ මහතා  අද පෙරවරුවේ අත්අඩංගුවට ගත්තේය.
+
+පසුව අත්අඩංගුවට ගත් ඒ මහතා කොටුව මහෙස්ත්‍රාත් අධිකරණය හමුවට ඉදිරිපත් කිරීමෙන් අනතුරුව ලක්ෂ 10ක ශරීර ඇපයක් මත  මුදාහැර ඇත.
+
+◼️
+
+[Data](articles/c249638b.json)
 
 ---
 
@@ -147,6 +231,26 @@ It is reported that the white colored South Korea has been reported to eight or 
 [Data](articles/99488cbd.json)
 
 [Extended Data](ext_articles/99488cbd.ext.json)
+
+---
+
+### ගුරුවරු අද සහ හෙට ලෙඩ නිවාඩු?
+
+*2024-05-29 16:27:02* · [`adalk`](https://www.ada.lk/breaking_news/ගුරුවරු-අද-සහ-හෙට-ලෙඩ-නිවාඩු-/11-409890) · `si`
+
+ගුරුවරු අද(30) සහ හෙට(31) දෙදින ලෙඩ නිවාඩු වාර්තා කිරීමේ වෘත්තීය ක්‍රියාමාර්ගයක නිරත වන බව ජාතික ගුරු බලය සංවිධානය ප්‍රකාශ කරයි.
+
+ජාතික ගුරු බලය සංවිධානයේ ප්‍රධාන ලේකම් එල් .ආර් .මනතුංග මහතා ප්‍රකාශ කළේ කාලයක් තිස්සේ විසඳා ගත නොහැකි වූ ගුරුවරුන්ගේ සහ විදුහල්පතිවරුන්ගේ වැටුප් විෂමතා විසඳා ගැනීම සඳහා බලකිරීමේ ක්‍රියාදාමයකට යොමු වෙමින් මෙලෙස මෙම දින දෙක තුළ ලෙඩ නිවාඩු වාර්තා කරන බවයි.
+
+1997 වසරේ සමස්ත රාජ්‍ය සේවය සඳහා වැටුප් සංශෝධනය කරමින් බී.සී පෙරේරා  කොමිෂම ඉදිරිපත් කළ යෝජනා මෙතෙක් ක්‍රියාත්මක නොවීම  පිළිබඳව රජයට ගුරුවරුන්ගේ විරෝධය පළ කරන බවද ජාතික ගුරු  බලය සංවිධානය සඳහන් කරයි.
+
+මේ අතර අධ්‍යාපන අමාත්‍යාංශය විශේෂ නිවේදනයක් නිකුත් නරමින් කියා සිටින්නේ
+
+හෙට සහ අනිද්දා එනම්, මැයි මස 30 සහ 31 දිනයන්හි සියලු‍ ම පාසල් සාමාන්‍ය පරිදි පැවැත්වෙන බවයි.
+
+◼️
+
+[Data](articles/7c97f6a6.json)
 
 ---
 
@@ -228,7 +332,17 @@ With the Sports Minister deciding to put off the NFSL elections, the regime of L
 
 Prime Minister Dinesh Gunawardena has confirmed that the Presidential Election will be held in accordance with the Constitution and on the date specified by the Election Commission.
 
-◼️
+He made these comments while responding to questions from journalists after attending the opening of the Martin Wickramasinghe Hall of Life section at the National Library and Documentation Services Board today (29).
+
+“The government’s stand on the election has already been announced. The Election Commission declared that the presidential election can be held according to the constitution.”
+
+“They have announced that it will be scheduled between the months of September and October. The government has also announced that,” he said.
+
+Replying to a question on allegations that the government is trying to postpone the election after seeing the crowd for its May Day, the Premier said:
+
+“No political decision will be taken after seeing a crowd. We will not be panicked or reversed, but will move forward.”
+
+...
 
 [Data](articles/6c7fbbd2.json)
 
@@ -2135,123 +2249,5 @@ President Ranil Wickremesinghe requests the support and development of private s
 [Data](articles/db81a387.json)
 
 [Extended Data](ext_articles/db81a387.ext.json)
-
----
-
-### 29 people injured in bus
-
-*2024-05-29 10:35:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பஸ்-புரண்டதில்-29-பேர்-காயம்/76-338074) · `ta`
-
-In a tragic accident near Belmadulla, a private bus and a three-wheeler collided, injuring 29 people. The bus, en route from Embilipitiya to Colombo, veered off the road, causing it to crash. Four passengers were in the bus and three in the three-wheeler. Victims are hospitalized in Kehawatte and Ratnapura hospitals.
-
-🟩
-
-A private bus and a three-wheeler collided head-on near Belmadulla on the Colombo-Badulla main road, police said.
-
-The private bus traveling from Embilipitiya to Colombo, when the bus driver was trying to keep the bus driver in the bus, was trying to keep the bus from the bus.
-
-At the time, the police said that the bus crashed into the road and the bus crashed down the road.. The injured include four people in the bus and three -wheeler.
-
-22 injured have been admitted to Kehawatte Hospital and seven are admitted to the Ratnapura Teaching Hospital.
-
-◼️
-
-[Data](articles/25e0fdf1.json)
-
-[Extended Data](ext_articles/25e0fdf1.ext.json)
-
----
-
-### 27 people injured in bus
-
-*2024-05-29 10:35:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பஸ்-புரண்டதில்-27-பேர்-காயம்/76-338074) · `ta`
-
-In a tragic accident near Belmadulla, a private bus and a three-wheeler collided, injuring 27 people. The bus, en route from Embilipitiya to Colombo, veered off the road before crashing. Four passengers from the bus and three from the three-wheeler were among the injured. Twenty victims were taken to Kehawatte Hospital, while seven went to Ratnapura Teaching Hospital.
-
-🟩
-
-A private bus and a three-wheeler collided head-on near Belmadulla on the Colombo-Badulla main road, police said.
-
-The private bus traveling from Embilipitiya to Colombo, when the bus driver was trying to keep the bus driver in the bus, was trying to keep the bus from the bus.
-
-At the time, the police said that the bus crashed into the road and the bus crashed down the road.. The injured include four people in the bus and three -wheeler.
-
-Twenty injured have been admitted to Kehawatte Hospital and seven are admitted to the Ratnapura Teaching Hospital.
-
-◼️
-
-[Data](articles/b8ae82f3.json)
-
-[Extended Data](ext_articles/b8ae82f3.ext.json)
-
----
-
-### Sri Lanka’s Combank stock slides after capital call
-
-*2024-05-29 10:27:00* · [`economynextcom`](https://economynext.com/sri-lankas-combank-stock-slides-after-capital-call-165222/) · `en`
-
-ECONOMYNEXT – Stocks of Sri Lanka’s Commercial Bank of Ceylon, the largest private bank by assets, were trading down at 103.00, a day after the bank announced a rights issue. Non voting shares were down at 84.00.
-
-The bank made a capital call from shareholders of 22 billion rupees, offering voting shares at 85 rupees and non-voting at 69 rupees.
-
-Commercial Bank will offer 252,082,449 shares in the proportion of 1 for every exiting 5, to raise 21.42 billion rupees, the bank said Tuesday in a stock exchange filing.
-
-The 22.52 billion rupees will used to bolster Tier 1 capital to accommodate future lending, the firm said.
-
-Commerical is the first bank to make a cash call after bad loans and and a sovereign default dented banks following steep rates cuts made in 2020 to target ‘potential output’ by macro-economists. (Colombo/May29/2024)
-
-◼️
-
-[Data](articles/0a0eec91.json)
-
-[Extended Data](ext_articles/0a0eec91.ext.json)
-
----
-
-### The ISIS team sent to ISIS team in India revealed
-
-*2024-05-29 10:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197146) · `si`
-
-Gujarat Treasury officials investigated Sri Lankan ISIS suspects arrested in India. Four suspects detained at Ahmedabad Airport on May 20; two more arrested by Sri Lanka's security forces. Police offering Rs. 2 million reward. Suspects linked to "Abu Pakistani" activities. Drones from Pakistan used over Punjab.
-
-🟩
-
-Indian media reports that a group of Gujarat Treasury officials to further investigate the suspects of Sri Lankan ISIS suspects who was arrested in India.
-
-The four suspects were arrested at Ahmedabad Airport on May 20.
-
-Two other suspects have been arrested by the Sri Lankan security forces and two other suspects were arrested.
-
-The police recently announced that he would receive a sum of Rs. 2 million.
-
-According to Indian media reports, the four suspects arrested on the 20th have been involved in "Abu Pakistani".
-
-The drones were also sent to the Punjab area, using drones from Pakistan to the Punjab.
-
-◼️
-
-[Data](articles/b0100894.json)
-
-[Extended Data](ext_articles/b0100894.ext.json)
-
----
-
-### Netherlands outplay Sri Lanka in T20 World Cup Warm-Up
-
-*2024-05-29 10:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Netherlands-outplay-Sri-Lanka-in-T20-World-Cup-Warm-Up/108-283591) · `en`
-
-Florida, May 29 (Daily Mirror) - Netherlands defeated Sri Lanka by 20 runs in their first warm-up match of ICC T20 World Cup 2024 on Tuesday (May 28).
-
-Chasing the Dutch team's target of 182, the Lankans were dismissed for 161 runs in 18.5 overs.
-
-The game was played at the Central Broward Regional Park Stadium Turf Ground in Lauderhill, Florida.
-
-Both teams have one more warm-up game slated in the coming days. Sri Lanka next face Ireland in Florida on May 31. The Netherlands will take on Canada in Texas, also on May 31
-
-◼️
-
-[Data](articles/bd43e8fd.json)
-
-[Extended Data](ext_articles/bd43e8fd.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-29 17:54:53**
+As of **2024-05-29 18:12:21**
 
 ## Newspaper Stats
 
@@ -26,29 +26,35 @@ adaderanasinhalalk | 4,347
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,115 (100.0%) of 27,118 articles have been extended.
+27,118 (100.0%) of 27,118 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-29 (Wednesday)
 
-### ජනාධිපතිවරණය නියමිත දිනට පවත්වනවා - අගමැති
+### Presidential election is held on the due date - PM
 
 *2024-05-29 17:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197162) · `si`
 
-ආණ්ඩුක්‍රම ව්‍යවස්ථාව අනුව නියමිත දිනට ජනාධිපතිවරණය පැවැත්වීමට කටයුතු කරන බව අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන මහතා පවසයි.
+PM Dinesh Gunawardena confirms the presidential election will proceed as scheduled, aligning with constitutional requirements. He emphasizes the importance of maintaining democracy and the government's commitment to holding elections without delay. The Elections Commission is prepared to conduct the election within the constitutional timeframe, starting from September. The PM addresses concerns about potential delays, stating that no political decisions will hinder the process. He highlights the government's efforts to uphold democracy and the importance of adhering to constitutional procedures for conducting elections.
 
-අග්‍රාමාත්‍යවරයා මේ බව සඳහන් කළේ කොළඹ, ජාතික පුස්තකාල ප්‍රලේඛන සේවා මණ්ඩලයේදී මාර්ටින් වික්‍රමසිංහ ජන ජීවිතය හා ලේඛන කලාගාරය සුවිශේෂ මැදිරිය විවෘත කිරීමේ අවස්ථාවට එක්වෙමිනි.
+🟩
 
-එහිදී වැඩිදුරටත් අදහස් දැක්වූ අග්‍රාමාත්‍යවරයා පැවසුවේ වගකීමක් නැති ප්‍රකාශ හරහා රට කලඹන්න ප්‍රජාතන්ත්‍රවාදී ආණ්ඩුවක් හෝ පාර්ලිමේන්තුවක් ඉඩ නොදෙන බවය.
+Prime Minister Dinesh Gunawardena says that the presidential election will be held on the due date in terms of the Constitution.
 
-මැතිවරණය ගැන දැනටමත් රජයේ ස්ථාවරය ප්‍රකාශයට පත්කරල තිබෙනවා. ආණ්ඩුක්‍රම ව්‍යවස්ථාව අනුව ජනාධිපතිවරණය පවත්වන්නට පුළුවන් බව මැතිවරණ කොමිසම ප්‍රකාශ කළා. සැප්තැම්බර් ඔක්තෝම්බර් මාස දෙක අතර එය සූදානම් කරන බව ඔවුන් ප්‍රකාශ කරලා තියෙනවා. ඒ බව ආණ්ඩුවත් ප්‍රකාශ කර තිබෙනවා.
+The Prime Minister made this observation at the opening of Martin Wickremesinghe in the National Library Documentation Services Board in Colombo and National Library Document.
 
-මැයි දිනයේ සෙනඟ දැකලා ආණ්ඩුව මැතිවරණය කල් දාන්න උත්සහ කරනවා කියලා චෝදනාවක් තියෙනවා නේද?
+Speaking further the Prime Minister said that a democratic government or parliament would not allow the country through the unrealized statements.
+
+The government's position has already been announced about the election. The Elections Commission stated that the presidential election can be held in terms of the Constitution. They have stated that it is preparing between September two months. The government has said that.
+
+Have you accused the government to procrastinate the election on May Day?
 
 ...
 
 [Data](articles/838d756f.json)
+
+[Extended Data](ext_articles/838d756f.ext.json)
 
 ---
 
@@ -540,6 +546,8 @@ The President highlighted the dual nature of the executive presidential system, 
 
 [Data](articles/90aedbbf.json)
 
+[Extended Data](ext_articles/90aedbbf.ext.json)
+
 ---
 
 ### Police Inspector collided with a motorcycle in Colombo
@@ -597,6 +605,8 @@ In today’s Daily Mirror, it was reported that the 33-year-old mother found her
 ◼️
 
 [Data](articles/0021e604.json)
+
+[Extended Data](ext_articles/0021e604.ext.json)
 
 ---
 

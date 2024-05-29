@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-29 20:18:47**
+As of **2024-05-29 20:34:20**
 
 ## Newspaper Stats
 
-*Scraped **27,143** Articles*
+*Scraped **27,144** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,556
 dailyftlk | 1,591
 adalk | 2,306
 adaderanalk | 3,092
-tamilmirrorlk | 3,186
+tamilmirrorlk | 3,187
 virakesarilk | 4,173
 dailymirrorlk | 4,288
 adaderanasinhalalk | 4,348
@@ -26,11 +26,29 @@ adaderanasinhalalk | 4,348
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,143 (100.0%) of 27,143 articles have been extended.
+27,143 (100.0%) of 27,144 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-29 (Wednesday)
+
+### வெப்ப அலையால் சுருண்டு விழுந்த மாணவ, மாணவிகள்
+
+*2024-05-29 20:08:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெப்ப-அலையால்-சுருண்டு-விழுந்த-மாணவ-மாணவிகள்/175-338118) · `ta`
+
+இந்தியாவின் மேற்கு மற்றும் வடக்கு பகுதிகளில் கடுமையான வெப்பம் நிலவி வருகிறது. மக்கள் வீட்டை விட்டு வெளியே வர முடியாத அளவிற்கு வெப்ப அலை வீசுகிறது.
+
+டெல்லி, உ.பி., பீகார் போன்ற மாநிலங்களில் 45 டிகிரி செல்சியசை தாண்டி வெயில் கொளுத்துகிறது. இதனால் வெப்ப காற்று வீசுகிறது. அதனால் பகல் நேரங்களில் வெளியே வரவேண்டாம் என அறிவுறுத்தப்பட்டுள்ளது.
+
+இந்த நிலையில் பீகார் மாநிலம், ஷேக்பூராவில் உள்ள பள்ளி ஒன்றில் வெப்ப அலையின் தாக்கம் தாங்க முடியாமல் பள்ளி மாணவ, மாணவியர்கள் அடுத்தடுத்து மயக்கம் அடைந்தனர். இதனால் பரபரப்பு ஏற்பட்டது.
+
+மாணவிகளுக்கு தண்ணீர் வழங்கி முதலுதவி வழங்கப்பட்டு உடனடியாக அருகில் உள்ள மருத்துவமனையில் அனுமதிக்கப்பட்டனர். இதனால் அந்த பகுதியில் பெரும் பரபரப்பு ஏற்பட்டது. R
+
+◼️
+
+[Data](articles/1c79612a.json)
+
+---
 
 ### Vehicle catches fire on Cotta Road
 
@@ -2237,27 +2255,5 @@ He also said that plans are underway to suggest forming special school committee
 [Data](articles/adcf1789.json)
 
 [Extended Data](ext_articles/adcf1789.ext.json)
-
----
-
-### Young man's death
-
-*2024-05-29 11:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/184753) · `ta`
-
-Mohammed Rimas, a 21-year-old from Azhar Vidyalaya Road, tragically died when a falling wooden box from a lorry hit him. The incident is under investigation by the police, who have moved his body to the Valaichenai Resource Hospital for examination.
-
-🟩
-
-Police investigations revealed that a youth had died on the spot when a wooden box sent from abroad was falling from a lorry.
-
-The deceased is Mohammed Rimas, a 21 -year -old from Azhar Vidyalaya Road.
-
-The body of the deceased has been placed at the Valaichenai Resource Hospital for medical examination and the police are conducting investigations.
-
-◼️
-
-[Data](articles/68402e8a.json)
-
-[Extended Data](ext_articles/68402e8a.ext.json)
 
 ---

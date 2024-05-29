@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-30 04:52:47**
+As of **2024-05-30 05:04:05**
 
 ## Newspaper Stats
 
-*Scraped **27,187** Articles*
+*Scraped **27,189** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 270
 newsfirstlk | 363
 islandlk | 1,465
 economynextcom | 1,556
-dailyftlk | 1,597
+dailyftlk | 1,599
 adalk | 2,311
 adaderanalk | 3,095
 tamilmirrorlk | 3,189
@@ -26,11 +26,43 @@ adaderanasinhalalk | 4,351
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,186 (100.0%) of 27,187 articles have been extended.
+27,187 (100.0%) of 27,189 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-30 (Thursday)
+
+### How transparency and competitive bidding could have averted VFS visa fiasco
+
+*2024-05-30 04:46:09* · [`dailyftlk`](https://www.ft.lk/columns/How-transparency-and-competitive-bidding-could-have-averted-VFS-visa-fiasco/4-762351) · `en`
+
+The recent outrage over the outsourcing of Sri Lanka›s visa issuance to VFS Global stemmed from two controversies: 1) the secretive selection process of VFS Global without broader consultation and 2) neglecting value for money by not considering alternatives.
+
+Addressing two key gaps in Sri Lanka›s public procurement system could have prevented the uproar: 1) lack of transparency and 2) excessive reliance on cabinet discretion over competitive bidding.
+
+The first point of contention is the secrecy and lack of consultation surrounding the decision to grant VFS Global the contract. The public, and even the Parliament, learned crucial details about the terms and conditions of the handover—such as service fees, investment and contract duration—only through ad-hoc statements by the authorities after VFS Global began operations. This, too, was in response to the backlash following a viral video criticising VFS Global›s management.
+
+...
+
+[Data](articles/09772d46.json)
+
+---
+
+### SAARC and beyond: Sri Lanka’s quest for regional tourism integration
+
+*2024-05-30 04:40:15* · [`dailyftlk`](https://www.ft.lk/columns/SAARC-and-beyond-Sri-Lanka-s-quest-for-regional-tourism-integration/4-762350) · `en`
+
+Developing culturally-focused tour packages, along with collaboration with SAARC tourism bodies, can develop a sense of regional unity and attract a diverse range of visitors from within the region
+
+The expansion of air connectivity, along with the development of infrastructure, improved transportation networks, and streamlined visa facilities, has significantly enhanced accessibility and convenience for travellers from around the world visiting Sri Lanka
+
+Sri Lanka’s tourism sector experienced a significant setback during the pandemic, due to travel restrictions and safety concerns. However, the country’s determined efforts to revive the sector have yielded remarkable results during the first quarter of 2024. Strategic tourism promotion campaigns, coupled with infrastructure improvements, have successfully attracted tourists back to the island nation.
+
+...
+
+[Data](articles/e96dc101.json)
+
+---
 
 ### Aitken Spence Plantation Managements to delist
 
@@ -89,6 +121,8 @@ The President made these remarks while participating in the “What’s New” d
 ...
 
 [Data](articles/f025f3c7.json)
+
+[Extended Data](ext_articles/f025f3c7.ext.json)
 
 ---
 
@@ -2247,47 +2281,5 @@ He added that the upcoming visit by the Sri Lanka’s State Minister of Foreign 
 [Data](articles/c0405923.json)
 
 [Extended Data](ext_articles/c0405923.ext.json)
-
----
-
-### In Mayilathamaduwu
-
-*2024-05-29 15:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/184786) · `ta`
-
-In Mayilathamadu, Batticaloa, ongoing injustices against immigrants involve police complicity, livestock theft, and violence. This issue, rooted in a long history of livestock farming, escalated during planned settlements from 2013 to 2016. The Tamil National Alliance opposed these actions, leading to legal challenges. The situation worsened under Gotabhaya Rajapaksa's governance, with farmers resorting to hiding their livestock due to threats and inadequate food supply. Over 1400 cattle have died, and four departments allegedly deceive farmers. The government's economic crisis exacerbates the problem, risking the destruction of native breeds and potential importation of foreign cattle. This scenario is seen as a form of political manipulation aimed at fostering communal conflict for political gain. Efforts to address these issues, including international outreach and legal actions, have yielded limited results, with continued atrocities against the immigrants.
-
-🟩
-
-The President of the Batticaloa District Civil Social Operators Union said that the iniquities of the immigrants in the Mayilathamadu Madhavan area continue to be carried out to this day, with the help of the police, they carry out their injustice.
-
-He made this statement during a conversation on the crisis faced by the Milky Ways at Batticaloa at the Colombo National Christian Society
-
-He said that cattle are missing, killing them, putting ammunition into the food, killing them with sharp weapons and shooting fire.
-
-Madhavan, Batticaloa, has been involved in livestock farming for more than five generations of long history.
-
-From 2013 to 2016, similar planned settlements took place - these were carried out under the State Event.
-
-After the change of 2015, the Tamil National Alliance (TNA) was the Opposition of the Opposition of the Maithripala Sirisena -a case was filed by Durairajasinghe, Minister of Agricultural Livestock Development of the Eastern Provincial Council.
-
-...
-
-[Data](articles/ce737fb1.json)
-
-[Extended Data](ext_articles/ce737fb1.ext.json)
-
----
-
-### Protest by United Trade Union Alliance...
-
-*2024-05-29 15:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Protest-by-United-Trade-Union-Alliance/110-283613) · `en`
-
-The United Trade Union Alliance staged a peaceful protest today in front of the Fort Railway Station against several issues such as the selling of state property and the proposed education policy. Pix by Pradeep Dilrukshana
-
-◼️
-
-[Data](articles/85d01f1a.json)
-
-[Extended Data](ext_articles/85d01f1a.ext.json)
 
 ---

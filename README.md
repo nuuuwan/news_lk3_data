@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-29 10:52:40**
+As of **2024-05-29 11:04:24**
 
 ## Newspaper Stats
 
-*Scraped **27,004** Articles*
+*Scraped **27,006** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,540
 dailyftlk | 1,591
 adalk | 2,296
 adaderanalk | 3,078
-tamilmirrorlk | 3,168
+tamilmirrorlk | 3,170
 virakesarilk | 4,142
 dailymirrorlk | 4,258
 adaderanasinhalalk | 4,331
@@ -26,49 +26,61 @@ adaderanasinhalalk | 4,331
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,997 (100.0%) of 27,004 articles have been extended.
+27,004 (100.0%) of 27,006 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-29 (Wednesday)
 
-### பஸ் புரண்டதில் 27 பேர் காயம்
+### 27 people injured in bus
 
 *2024-05-29 10:35:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பஸ்-புரண்டதில்-27-பேர்-காயம்/76-338074) · `ta`
 
-கொழும்பு- பதுளை பிரதான வீதியில் பெல்மடுல்ல நகருக்கு அருகில் தனியார் பஸ்ஸொன்றும் முச்சக்கர வண்டியொன்றும் நேருக்கு நேர் மோதியதில் 27 பேர் காயமடைந்து வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவிக்கின்றனர்.
+In a tragic accident near Belmadulla, a private bus and a three-wheeler collided, injuring 27 people. The bus, en route from Embilipitiya to Colombo, veered off the road before crashing. Four passengers from the bus and three from the three-wheeler were among the injured. Twenty victims were taken to Kehawatte Hospital, while seven went to Ratnapura Teaching Hospital.
 
-எம்பிலிப்பிட்டியவில் இருந்து கொழும்பு நோக்கி பயணித்த தனியார் பேரூந்து, எதிர்திசையில் இருந்து வந்த முச்சக்கரவண்டி பேருந்தை நோக்கி வந்த போது, ​​பஸ் சாரதி முச்சக்கரவண்டி பஸ்ஸில் மோதாமல் இருக்க முயற்சித்ததாக பொலிஸார் தெரிவித்தனர்.
+🟩
 
-அப்போது, ​​சாலையில் இருந்த மண் திட்டுடன் மோதி, பஸ் சில அடிகள் கீழே சாலையில் கவிழ்ந்ததாக பொலிஸார் தெரிவித்தனர். காயமடைந்தவர்களில் பஸ் மற்றும் முச்சக்கர வண்டியில் இருந்த நால்வர் அடங்குகின்றனர்.
+A private bus and a three-wheeler collided head-on near Belmadulla on the Colombo-Badulla main road, police said.
 
-காயமடைந்த 20 பேர் கெஹாவத்தை ஆதார வைத்தியசாலையிலும் ஏழு பேர் இரத்தினபுரி போதனா வைத்தியசாலையிலும் அனுமதிக்கப்பட்டுள்ளனர்.
+The private bus traveling from Embilipitiya to Colombo, when the bus driver was trying to keep the bus driver in the bus, was trying to keep the bus from the bus.
+
+At the time, the police said that the bus crashed into the road and the bus crashed down the road.. The injured include four people in the bus and three -wheeler.
+
+Twenty injured have been admitted to Kehawatte Hospital and seven are admitted to the Ratnapura Teaching Hospital.
 
 ◼️
 
 [Data](articles/b8ae82f3.json)
 
+[Extended Data](ext_articles/b8ae82f3.ext.json)
+
 ---
 
-### ඉන්දියාවේදී කොටුවූ ISIS කණ්ඩායමට පාකිස්තානයෙන් ආයුධ එවූ හැටි හෙළිවෙයි
+### The ISIS team sent to ISIS team in India revealed
 
 *2024-05-29 10:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197146) · `si`
 
-ඉන්දියාවේදී අත්අඩංගුවට ගැනුණු ශ්‍රී ලාංකික ISIS සැකකරුවන් සම්බන්ධයෙන් තවදුරටත් පරීක්ෂණ කිරීම සඳහා ගුජරාට් ත්‍රස්ත විරෝධී බළකායේ නිලධාරීන් පිරිසක් ශ්‍රී ලංකාවට පැමිණීමට නියමිත බව ඉන්දීය මාධ්‍ය වාර්තා කරයි.
+Gujarat Treasury officials investigated Sri Lankan ISIS suspects arrested in India. Four suspects detained at Ahmedabad Airport on May 20; two more arrested by Sri Lanka's security forces. Police offering Rs. 2 million reward. Suspects linked to "Abu Pakistani" activities. Drones from Pakistan used over Punjab.
 
-එම සැකකරුවන් සිව් දෙනා පසුගිය මැයි 20 වනදා අහමදාබාද් ගුවන්තොටුපොළේ දී අත්අඩංගුවට ගැනුණි.
+🟩
 
-මේ වනවිට මෙරට ආරක්ෂක අංශ විසින් එම සිව් දෙනා හා සම්බන්ධතා පැවැත්වූ තවත් සැකකරුවන් දෙදෙනෙක්ව අත්අඩංගුවට ගෙන ඇති අතර ඔස්මන්ඩ් ජෙරාඩ් නම් තවත් සැකකරුවෙක් අත්අඩංගුවට ගැනීම සඳහා මහජන සහාය පතයි.
+Indian media reports that a group of Gujarat Treasury officials to further investigate the suspects of Sri Lankan ISIS suspects who was arrested in India.
 
-ඔහු ව අත්අඩංගුවට ගැනීමට තොරතුරු දෙන අයෙක්ට රුපියල් මිලියන 2ක ත්‍යාග මුදලක් ලබාදෙන බව පොලීසිය පසුගියදා නිවේදනය කළේය.
+The four suspects were arrested at Ahmedabad Airport on May 20.
 
-ඉන්දීය මාධ්‍ය වාර්තා සඳහන් කරන්නේ 20 වනදා අත්අඩංගුවට ගැනුණු සැකකරුවන් සිව් දෙනා "අබු පාකිස්තානි" නම් දේශකයෙක් සමග සම්බන්ධතා පවත්වා ඇති බවයි.
+Two other suspects have been arrested by the Sri Lankan security forces and two other suspects were arrested.
 
-එසේම පාකිස්තානයේ සිට ඩ්‍රෝන භාවිත කර දේශසීමාව ට ඉහළින් ආයුධයක් පන්ජාබ් ප්‍රදේශයට එවා ඇති බවයි.
+The police recently announced that he would receive a sum of Rs. 2 million.
+
+According to Indian media reports, the four suspects arrested on the 20th have been involved in "Abu Pakistani".
+
+The drones were also sent to the Punjab area, using drones from Pakistan to the Punjab.
 
 ◼️
 
 [Data](articles/b0100894.json)
+
+[Extended Data](ext_articles/b0100894.ext.json)
 
 ---
 
@@ -87,6 +99,8 @@ Both teams have one more warm-up game slated in the coming days. Sri Lanka next 
 ◼️
 
 [Data](articles/bd43e8fd.json)
+
+[Extended Data](ext_articles/bd43e8fd.ext.json)
 
 ---
 
@@ -138,41 +152,55 @@ The explosion is almost completely destroyed by the first floor of the building.
 
 ---
 
-### இலங்கையின் நல்லிணக்க பொறிமுறை பாதிக்கப்பட்ட சமூகங்களின் நம்பிக்கையை பெறக்கூடியதாக காணப்படவேண்டும்- பிரிட்டனின் அமைச்சர் கருத்து
+### Sri Lanka's reconciliation mechanism should be found to be the belief of the affected communities- the British Minister
 
 *2024-05-29 10:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/184744) · `ta`
 
-மனித உரிமை விடயத்தில் இலங்கை பிரிட்டனின் முன்னுரிமைக்குரிய நாடாக விளங்குகின்றது என  பிரிட்டனின் பொதுநலவாய வெளிவிவகார அபிவிருத்தி அலுவலக இராஜாங்க அமைச்சர் மேரி டிரெவல்யன் தெரிவித்துள்ளார்
+Mary Dravyan, Britain's Commonwealth Development Office Minister, emphasized Sri Lanka's importance as a human rights priority. She highlighted concerns from affected communities about the country's reconciliation mechanisms, urging for independent verification to gain their trust.
 
-நாடாளுமன்றத்தில் இலங்கையில் நல்லிணக்கம் தொடர்பில் பிரிட்டனின் நிலைப்பாடு குறித்து எழுப்பப்பட்ட கேள்விக்கு பதில் அளிக்கையில் அமைச்சர் இதனை தெரிவித்துள்ளார்.
+🟩
 
-இலங்கையின் நல்லிணக்க பொறிமுறை குறித்து பாதிக்கப்பட்ட சமூகத்தினர் வெளியிட்டுள்ள குறிப்பிடத்தக்க சந்தேகங்களை நாங்கள் ஏற்றுக்கொள்கின்றோம் என இராஜாங்க அமைச்சர் தெரிவித்துள்ளார்.
+Britain's Commonwealth Development Office Minister Mary Dravyan says that Sri Lanka is a priority country of human rights on human rights.
 
-நம்பிக்கையை கட்டியெழுப்புவதற்காக அனைவரையும் உள்வாங்கிய நடைமுஐறயின் அவசியத்தை பிரிட்டன் வலியுறுத்தியுள்ளது எனவும் அவர் தெரிவித்துள்ளார்.
+Responding to a question raised by Britain on Britain's position on reconciliation in Sri Lanka in Parliament, the Minister said this.
 
-...
+The Minister of State has said that we accept the significant doubts issued by the affected community on Sri Lanka's reconciliation mechanism.
+
+He also said that Britain has urged the need for a walk that has been embedded in everyone to build confidence.
+
+Britain's Commonwealth Development Office Minister Mary Dravyan said that any mechanism should be obtained independently and the confidence of the affected communities, he said.
+
+◼️
 
 [Data](articles/e9651780.json)
 
+[Extended Data](ext_articles/e9651780.ext.json)
+
 ---
 
-### உள்ளூர் துப்பாக்கியுடன் ஒருவர் கைது!
+### Arrested by someone with local gun!
 
 *2024-05-29 10:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/184742) · `ta`
 
-கொஸ்லந்த ஊவா மாவெலகம பகுதியில் உள்ள வீடொன்றில் இருந்து உள்ளூரில்  தயாரிக்கப்பட்ட துப்பாக்கியுடன் சந்தேகத்தில்  ஒருவர் நேற்று செவ்வாய்க்கிழமை (28) கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+A 57-year-old man was arrested in Koslanda, Uva Mawhelagama, for possessing a locally made gun. The police raided his house based on a tip-off and plan to present him in court.
 
-ஊவா மாவெலகம, கம்பஹா, மதுகஸ்தலாவ பகுதியைச் சேர்ந்த 57 வயதுடைய ஒருவரே இவ்வாறு கைது செய்யப்பட்டுள்ளார்.
+🟩
 
-நபரொருவரின் வீட்டில் துப்பாக்கி இருப்பதாக கொஸ்லந்த பொலிஸாருக்கு கிடைக்கப்பெற்ற தொலைபேசி அழைப்புக்கு அமைய பொலிஸார் குறித்த வீட்டை சுற்றி வளைத்து சோதனை நடவடிக்கையினை மேற்கொண்டனர்.
+One person was arrested on Tuesday (28) with a locally manufactured gun from a house in Koslanda Uva Mawhelagama area, police said.
 
-பதுளை மாவட்டத்திற்கு பொறுப்பான பிரதி பொலிஸ் மா அதிபர் உபுல் சந்தன, பண்டாரவளை பிரிவுக்கு பொறுப்பான சிரேஷ்ட பொலிஸ் அத்தியட்சகர் பிரதீப் களுபஹனவின் பணிப்புரையின் கீழ் கொஸ்லந்த பொலிஸ் நிலைய பொறுப்பதிகாரி பிரபோப டபிள்யூ. விக்கிரமசிங்க தலைமையிலான  குழுவினரால் சுற்றிவளைப்பு மேற்கொள்ளப்பட்டதாக பொலிஸார் தெரிவித்துள்ளனர்.
+A 57 -year -old man from Uva Mavhelagama, Gampaha and Madhukastalawa has been arrested.
 
-மேலும், கைது செய்யப்பட்ட சந்தேகநபர் பண்டாரவளை நீதவான் நீதிமன்றில் ஆஜர் படுத்துவதற்கான நடவடிக்கைகளை மேற்கொண்டு வருவதாக பொலிஸார் தெரிவித்துள்ளனர்.
+The police surrounded the house and carried out a raid on the phone call to Koslanda police.
+
+Deputy Inspector General of Police, Upul Chandana, who is in charge of the Badulla district. Police said that the raid was carried out by a team led by Wickremesinghe.
+
+In addition, police said that the suspect was taking steps to appear before the Bandarawela Magistrate's Court.
 
 ◼️
 
 [Data](articles/d8108844.json)
+
+[Extended Data](ext_articles/d8108844.ext.json)
 
 ---
 
@@ -342,23 +370,29 @@ The retail prices of a kilo of various meats at the Narahenpita Economic Centre 
 
 ---
 
-### வடக்கு ரயில் பாதை அபிவிருத்தி பணிகள் ஆகஸ்ட் மாதம் நிறைவு பெறும் - அதிவேக வீதி மற்றும் வீதி அபிவிருத்தி அமைச்சு
+### Northern Railway Development Work on August - Ministry of Highway and Road Development
 
 *2024-05-29 09:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/184739) · `ta`
 
-வடக்கு ரயில் பாதை அபிவிருத்தி பணிகள் ஆகஸ்ட் மாதம் நிறைவு பெறும் என அதிவேக வீதி மற்றும் வீதி அபிவிருத்தி அமைச்சர் பந்துல குணவர்தன தெரிவித்துள்ளார்.
+The Northern Railway development project, expected to finish in August, may not meet its deadline due to ongoing reconstruction. As a result, a special bus service will run from the Poson Full Moon Day onwards, including the day before, ensuring transportation during the holiday period. This service, coordinated with the Sri Lanka Transport Board and private bus operators, aims to address potential transport shortages.
 
-எதிர்வரும் பௌர்ணமி தினத்திற்கு முன்பதாக  வடக்கு புகையிரத பாதையின் புனரமைப்பு பணிகள் நிறைவடைய வாய்ப்பில்லை.
+🟩
 
-எனவே, பொசன்  பௌர்ணமி தின விடுமுறையை முன்னிட்டு விசேட பஸ் சேவையொன்று அமுல்படுத்தப்படவுள்ளது.
+The Northern Railway Development Work will be completed in August, the Minister of Express and Road Development Bandula Gunawardena said.
 
-இந்த பஸ் சேவை பொசன் பௌர்ணமி தினத்தன்றும் அதற்கு முந்திய நாளிலும் அமுல்படுத்தப்படும்.
+The reconstruction work of the Northern Railway line is not likely to be completed before the upcoming full moon day.
 
-விசேட பஸ் சேவை அட்டவணை தொடர்பில் அறிவிக்கப்படும் எனவும், இலங்கை போக்குவரத்து சபை மற்றும் தனியார் துறை பஸ் சேவையாளர்களுடனும் கலந்துரையாடி விசேட ஏற்பாடுகள் செய்யப்பட்டுள்ளதாகவும் தெரிவித்துள்ளார்.
+Therefore, a special bus service is to be implemented on the Poson Full Moon Day holiday.
+
+The bus service will be implemented on the Poson Full Moon Day and the previous day.
+
+He said that the Special Bus Service would be notified of the schedule and that special arrangements were made in consultation with the Sri Lanka Transport Board and the private sector bus servants.
 
 ◼️
 
 [Data](articles/86da6597.json)
+
+[Extended Data](ext_articles/86da6597.ext.json)
 
 ---
 
@@ -384,19 +418,25 @@ The apprehended suspects, identified as Mohammad Nusrat (33), Mohammad Farish (3
 
 ---
 
-### உயர் தரப் பரீட்சை பெறுபேறுகள் வெளியாகும் திகதி அறிவிப்பு !
+### Declaration of GCE A / L examination
 
 *2024-05-29 09:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/184738) · `ta`
 
-2023 ஆம் ஆண்டுக்கான கல்விப் பொதுத்தராதர உயர்தரப் பரீட்சை பெறுபேறுகளை வெளியிடவுள்ளதாக கல்வி அமைச்சர் சுசில் பிரேம ஜயந்த தெரிவித்தார்.
+In 2023, 346,976 students sat for the GCE A/L exam, with results due out on May 31st, as announced by Education Minister Susil Prema Jayantha.
 
-அதன்படி மே மாதம் 31 ஆம் திகதி 2023 ஆம் ஆண்டுக்கான கல்விப் பொதுத்தராதர உயர்தரப் பரீட்சை பெறுபேறுகளை வெளியிடவுள்ளதாக கல்வி அமைச்சர் மேலும் தெரிவித்தார்.
+🟩
 
-2023 ஆம் ஆண்டுக்கான கல்விப் பொதுத் தராதர உயர்தரப் பரீட்சை கடந்த ஜனவரி மாதம் இடம்பெற்றிருந்த நிலையில், பரீட்சைக்கு நாடளாவிய ரீதியில் 346,976 பரீட்சார்த்திகள் தோற்றியிருந்தனர்.
+Minister of Education Susil Prema Jayantha said that the GCE A / L examination of 2023 will be released.
+
+Accordingly, the Minister of Education added that the results of the GCE A / L examination for the 31st of May, 2023, will be released.
+
+With the GCE Advanced Level Examination for 2023, 346,976 candidates have appeared nationwide for the examination.
 
 ◼️
 
 [Data](articles/4b3663d4.json)
+
+[Extended Data](ext_articles/4b3663d4.ext.json)
 
 ---
 
@@ -445,6 +485,44 @@ He said the central bank had decided to maintain its policy interest rate withou
 [Data](articles/4d5100ab.json)
 
 [Extended Data](ext_articles/4d5100ab.ext.json)
+
+---
+
+### வாகன இறக்குமதி:  ஆளுநர் அதிரடி
+
+*2024-05-29 08:51:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாகன-இறக்குமதி-ஆளுநர்-அதிரடி/175-338067) · `ta`
+
+வாகன இறக்குமதி கட்டுப்பாடுகளை படிப்படியாக தளர்த்த அரசாங்கம் தீர்மானிக்கிறது என்றால், அதற்கான வெளிநாட்டு கையிருப்பை நிர்வகிக்கும் திறன் மத்திய வங்கிக்கு உண்டு என இலங்கை மத்திய வங்கியின் ஆளுநர் கலாநிதி நந்தலால் வீரசிங்க தெரிவித்துள்ளார்.
+
+மத்திய வங்கி தனது கொள்கை வட்டி வீதத்தை மாற்றியமைக்காமல் பராமரிக்க தீர்மானித்தள்ளதாக தெரிவித்தார்.
+
+"ஏற்கனவே சில வாகனங்கள் அனுமதிக்கப்பட்டுள்ளன. வாகனங்களின் இறக்குமதியை படிப்படியாக தளர்த்துவது முக்கியமான முடிவு. அந்நியச் செலாவணியை எங்களால் நிர்வகிக்க முடியும் என்று நாங்கள் நம்புகிறோம்." என்றார். R
+
+◼️
+
+[Data](articles/ea114eb4.json)
+
+---
+
+### சோற்றில் மட்டைத்தேள் ; உணவகத்திற்கு சீல்
+
+*2024-05-29 08:48:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/சோற்றில்-மட்டைத்தேள்-உணவகத்திற்கு-சீல்/71-338066) · `ta`
+
+திருநெல்வேலி பகுதியில் உள்ள ஓர் உணவகத்தில் கடந்த வெள்ளிக்கிழமை மதிய உணவு வாங்கிய ஒருவரின் சோற்று பார்சலில் மட்டைத்தேள் காணப்பட்டதாக பொது சுகாதார பரிசோதகர் பா. சஞ்சீவனிற்கு முறைப்பாடு ஒன்று கிடைத்தது.
+
+இதனையடுத்து சனிக்கிழமை குறித்த உணவகம் திருநெல்வேலி பொது சுகாதார பரிசோதகர் பா. சஞ்சீவனினால் பரிசோதனை மேற்கொள்ளப்பட்டது.
+
+இதன்போது பொது சுகாதார பரிசோதகரால் ஏற்கனவே வழங்கப்பட்ட திருத்த வேலைகள் எவையும் நிவர்த்தி செய்யப்படாமல் இருப்பது அவதானிக்கப்பட்டது.
+
+இதனை தொடர்ந்து நேற்றைய தினம்  (27) கடை உரிமையாளரிற்கு எதிராக மேலதிக நீதவான் நீதிமன்றில் வழக்கு தாக்கல் செய்யப்பட்டது.
+
+வழக்கை நேற்றை தினம் விசாரணைக்கு எடுத்து கொண்ட நீதவான், உரிமையாளரிற்கு 45,000/= அபராதம் அறவிட்டதுடன் கடையினை திருத்த வேலைகள் முடிவடையும் வரை சீல்வைத்து மூடுமாறு பொது சுகாதார பரிசோதகரிற்கு கட்டளை வழங்கினார்.
+
+இதனையடுத்து பொது சுகாதார பரிசோதகர் பா. சஞ்சீவனால் குறித்த உணவகம் நேற்யை தினம் சீல் வைத்து மூடப்பட்டது. R
+
+◼️
+
+[Data](articles/51223992.json)
 
 ---
 
@@ -2183,51 +2261,5 @@ Accordingly, the Disaster Management Center has taken steps to compensate for th
 [Data](articles/7cc11279.json)
 
 [Extended Data](ext_articles/7cc11279.ext.json)
-
----
-
-### Activists of civil organizations are protesting to make money: Prasanna Ranatunga
-
-*2024-05-28 20:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/184724) · `ta`
-
-Civil organization activists protested against the country's degradation bill, accused by Minister Prasanna Ranatunga of seeking personal gain and aiming to create chaos. Demonstrators, including members of 'Makin Radada', carried banners opposing the law. Despite a police warning, the minister proceeded through the demonstration, engaging with journalists but refusing to address specific concerns directly. He labeled the protesters as a minority attempting to undermine national stability for financial gain, emphasizing the government's support for the majority's views.
-
-🟩
-
-Minister of Urban Development and Housing Prasanna Ranatunga urged that some of the activists of the civil organizations involved in the demonstration wanted to establish anarchy in the country and that they were to make money.
-
-Responding to questions raised by journalists who participated in the demonstration organized by some of the representatives of the civil organizations in front of the Sri Lanka PA office on the theme of “Defeating the Laws of the country”.
-
-The demonstration was organized on Tuesday morning, demanding that the MPs of the Sri Lanka PA's Peramuna be opposed to the country's degradation Bill.
-
-Members of the 'Makin Radada' organization, including Sanjay Mahawatta, Kamantha Dushara and Ajanta Perera, are the members of the civil organizations, carrying out the protest banners that 'defeat the laws of the country'.
-
-Prasanna Ranatunga, the chief organizer of the ruling party and the Minister of Urban Development and Housing, was also in office.
-
-...
-
-[Data](articles/5780a3e1.json)
-
-[Extended Data](ext_articles/5780a3e1.ext.json)
-
----
-
-### Sri Lanka to benefit the coin
-
-*2024-05-28 20:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197130) · `si`
-
-Sri Lanka, participating in its inaugural US World Cup match against the Netherlands in Florida, chose to bat first, leveraging its coin toss win.
-
-🟩
-
-Sri Lanka's first training competition will be held in the US World Cup today (28), US Florida against the Netherlands.
-
-Sri Lanka won the advantage of its coin and Sri Lanka decided to bowl first.
-
-◼️
-
-[Data](articles/0958e42f.json)
-
-[Extended Data](ext_articles/0958e42f.ext.json)
 
 ---

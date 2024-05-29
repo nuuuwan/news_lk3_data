@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-29 17:03:55**
+As of **2024-05-29 17:18:45**
 
 ## Newspaper Stats
 
-*Scraped **27,107** Articles*
+*Scraped **27,110** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 1,465
 economynextcom | 1,548
 dailyftlk | 1,591
 adalk | 2,302
-adaderanalk | 3,090
+adaderanalk | 3,091
 tamilmirrorlk | 3,183
-virakesarilk | 4,166
+virakesarilk | 4,168
 dailymirrorlk | 4,280
 adaderanasinhalalk | 4,345
 
@@ -26,29 +26,81 @@ adaderanasinhalalk | 4,345
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,098 (100.0%) of 27,107 articles have been extended.
+27,107 (100.0%) of 27,110 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-29 (Wednesday)
 
-### දඹුල්ලේදී ජීවිත 4ක් බිලිගත් ඛේදවාචකය
+### Singapore flight investigation finds sharp altitude drop caused injuries
+
+*2024-05-29 17:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/99515/singapore-flight-investigation-finds-sharp-altitude-drop-caused-injuries) · `en`
+
+Preliminary findings released on Wednesday of an investigation into a Singapore Airlines flight hit by severe turbulence last week showed that a rapid change in gravitational force and a 54-metre altitude drop caused injuries.
+
+A 73-year-old passenger died of a suspected heart attack and dozens were injured after flight SQ321, flying from London to Singapore, encountered what the airline described as sudden, extreme turbulence while flying over Myanmar.
+
+The May 21 flight on a Boeing 777-300ER plane carrying 211 passengers and 18 crew diverted to Bangkok for an emergency landing after the plane was buffeted by turbulence that flung passengers and crew around the cabin, slamming some into the ceiling.
+
+“The aircraft experienced a rapid change in G (gravitational force) … This likely resulted in the occupants who were not belted up to become airborne,” the Singapore Transport Ministry said in a statement.
+
+...
+
+[Data](articles/e6907d5b.json)
+
+---
+
+### அல்லு அர்ஜுன் நடிக்கும் 'புஷ்பா 2- தி ரூல்' படத்தின் இரண்டாவது பாடல் வெளியீடு
+
+*2024-05-29 16:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/184803) · `ta`
+
+தெலுங்கு திரையுலகின் முன்னணி நட்சத்திர நடிகரான அல்லு அர்ஜுன் 'புஷ்பா' படத்தின் மூலம் பான் இந்திய நட்சத்திர நடிகராக உயர்ந்தார். அவர் நடிப்பில் எதிர்வரும் ஓகஸ்ட் மாதம் 15 ஆம் திகதியன்று வெளியாகவிருக்கும் 'புஷ்பா படத்தின் இரண்டாம் பாகத்தில் இடம்பெற்ற இரண்டாவது பாடலும், பாடலுக்கான பிரத்யேக காணொளியும் வெளியிடப்பட்டிருக்கிறது.
+
+இயக்குநர் சுகுமார் இயக்கத்தில் உருவாகி இருக்கும் 'புஷ்பா 2- தி ரூல்' எனும் திரைப்படத்தில் அல்லு அர்ஜுன், பகத் ஃபாசில், ரஷ்மிகா மந்தானா, தனஞ்ஜெயா, ராவ் ரமேஷ், சுனில், அனுசுயா பரத்வாஜ், அஜய் கோஷ் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். 'ராக் ஸ்டார்' தேவி ஸ்ரீ பிரசாத் இசையமைத்திருக்கும் இந்த திரைப்படத்தை மைத்ரி மூவி மேக்கர்ஸ் நிறுவனம் சார்பில் தயாரிப்பாளர்கள் நவீன் யெர்னேனி மற்றும் வை. ரவிசங்கர் ஆகியோர் இணைந்து தயாரித்திருக்கிறார்கள்.
+
+...
+
+[Data](articles/72e56797.json)
+
+---
+
+### திருக்கோணேஸ்வரர் ஆலய வழக்கு தொடர்பில் விமர்சித்த போலி முகநூல் பதிவொன்றிற்கு எதிராக வழக்குத்தாக்கல்
+
+*2024-05-29 16:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/184802) · `ta`
+
+திருகோணமலை மாவட்ட நீதிமன்றில் கோணேசர் ஆலய வழக்கு தொடர்பில் விமர்சித்த போலி முகநூல் பதிவொன்றிற்கு எதிராக இன்று புதன்கிழமை (29) வழக்கொன்று தாக்கல் செய்யப்பட்டுள்ளது.
+
+செல்வக்கண்டு கனகநாயகம் விஜயநாதன் என்பவரினால் 2024 ஆம் ஆண்டு 9 ஆம் இலக்க நிகழ்நிலைக் காப்புச் சட்டத்தின் பிரிவு 26 (1) இல் உள்ள ஏற்பாடுகளின் கீழ் குறித்த வழக்கானது தாக்கல் செய்யப்பட்டுள்ளது. வழக்கினை பதிவு செய்யப்பட்ட சட்டத்தரணி சின்னத்தம்பி சண்முகி தாக்கல் செய்திருந்தார். குறித்த மனுவை ஆதரித்து சிரேஷ்ட சட்டத்தரணி இராமலிங்கம் திருக்குமாரநாதன் மன்றில் தனது சமர்ப்பணத்தை முன்வைத்தார்.
+
+...
+
+[Data](articles/93609a14.json)
+
+---
+
+### 4-lived tragedies in Dambulla
 
 *2024-05-29 16:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197160) · `si`
 
-දඹුල්ල ප්‍රදේශයේ නීතිවිරෝධී මත්පැන් පානය කළ සිව්දෙනෙකු මියගොස් ඇති බවට පැවසෙන සිද්ධියක් සම්බන්ධයෙන් පොලීසිය විමර්ශන ආරම්භ කර තිබේ.
+In Dambulla, two deaths linked to illicit alcohol sales have sparked police investigations, leading to arrests. Residents face inconvenience due to the liquor racket.
 
-මීට දින දෙකකට පෙර එම නීතිවිරෝධී මත්පැන් පානය කිරීමෙන් පුද්ගලයින් දෙදෙනෙකු මියගොස් ඇති බවද අද දිනයේද එලෙසම මත්පැන් පානය කළ දෙදෙනෙකු මියගිය බවද ප්‍රදේශවාසීන් පවසයි.
+🟩
 
-මෙම නීතිවිරෝධී මත්පැන් ජාවාරම සම්බන්ධයෙන් පොලීසිය විසින් සැකකරුවන් අවස්ථා කිහිපයකදීම අත්අඩංගුවට ගෙන අධිකරණය හමුවට ඉදිරිපත් කිරීමෙන් අනතුරුව දඬුවම් ලැබ තිබීමද විශේෂත්වයකි.
+Police have commenced investigations into the death of an illusive drinking of illegal drinking in Dambulla.
 
-කලක සිට පවත්වාගෙන යනු ලබන මෙම  නීතිවිරෝධී මත්පැන් විකිණීමේ ජාවාරම හේතුවෙන් ප්‍රදේශවාසීන් මේ වනවිට දැඩි අපහසුතාවයකට පත්ව ඇති බවටද තොරතුරු වාර්තාවෙයි.
+Residents say that two persons have died in the same illegal drinking two days ago.
 
-මෙලෙස මියගොස් ඇති පුද්ගලයින්ගේ පශ්චාත් මරණ පරීක්ෂණයට අමතරව රස පරීක්ෂක වාර්තා කැඳවා ඔවුන්ගේ මරණවලට නිශ්චිත හේතු අනාවරණ කරගැනීමට අවශ්‍ය පියවර ගන්නා බවද පොලීසිය පවසයි.
+Police have arrested the suspects on several occasions and produced before the courts.
+
+It is reported that the residents of the area have been severely inconvenienced due to the racket of this illegal sale of liquor sale.
+
+The police said that in addition to the post mortem examination of the people, the police said.
 
 ◼️
 
 [Data](articles/f8528e1f.json)
+
+[Extended Data](ext_articles/f8528e1f.ext.json)
 
 ---
 
@@ -166,6 +218,8 @@ With the Sports Minister deciding to put off the NFSL elections, the regime of L
 
 [Data](articles/60ba0082.json)
 
+[Extended Data](ext_articles/60ba0082.ext.json)
+
 ---
 
 ### Prime Minister issues clarification on Presidential Election
@@ -262,23 +316,31 @@ It is reported that the submarine is named The Explorer - Return to the Titanic.
 
 ---
 
-### 2 பிள்ளைகளை தலைகீழாக தொங்க விட்ட ‘முக்கோண’ தாய்
+### 2 Triangle mother who hangs upside down
 
 *2024-05-29 16:06:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/2-பிள்ளைகளை-தலைகீழாக-தொங்க-விட்ட-முக்கோண-தாய்/175-338107) · `ta`
 
-11 வயதான சிறுவனை மரமொன்றில்  தலைகீழாக கட்டி தொங்கவிட்டு, கம்பால் அடித்து சித்திவதை செய்ததுடன் இரண்டரை வயது ஆண் பிள்ளையை தொங்கவிட்டு, அடித்து துன்புறுத்தினார் என்றக் குற்றச்சாட்டில் அவ்விரு பிள்ளைகளின் தாயாரான  28 வயதுடைய பெண், செவ்வாய்க்கிழமை (28) இரவு கைது செய்யப்பட்டுள்ளார்.
+A 28-year-old woman was arrested for allegedly tying and beating an 11-year-old boy and a 2.5-year-old boy in a village near Batticaloa. She had previously converted from Hinduism to Islam and later married a Sinhalese, fathering the younger boy. The older boy was reportedly abused for smoking. The father of the younger boy filed a complaint after the woman refused to hand over their child, leading to her arrest and the boys' hospitalization.
 
-மட்டக்களப்பு ஏறாவூர் பொலிஸ் பிரிவில் உள்ள கிராமம் ஒன்றிலேயே இந்த சம்பவம் இடம்பெற்றுள்ளது. மீட்கப்பட்ட  இரு சிறுவர்களையும் வைத்தியசாலையில் அனுமதித்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+🟩
 
-முதலாவதாக இந்து முறைப்படி திருமணம் முடித்த பெண், கணவனை விட்டுவிட்டு அவருக்கு பிறந்த முதல் குழந்தையுடன் இஸ்லாம் மதத்துக்கு மாறி, முஸ்லிம் நபரொருவரை திருமணம் முடித்துள்ளார். அவ்விருவருக்கும் குழந்தைகள் இல்லை.
+The 28 -year -old woman, a 28 -year -old woman, was arrested on Tuesday night (28) for alleged that an 11 -year -old boy was tied up in a tree and was beaten by a kambal and hanging a two -and -a -half -year -old boy.
 
-இந்நிலையில், அவரையும் விட்டுவிட்டு புத்தளம் பகுதியிலுள்ள சிங்களவர் ஒருவரை திருமணம் முடித்துள்ளார். அவ்விருவருக்கும்  இரண்டரை வயதில் ஆண் பிள்ளை உள்ளது.
+The incident took place in a village in the Eravur police division of Batticaloa. Police said the two rescued boys were admitted to the hospital.
 
-அவரையும் விட்டுவிட்டு, தன்னுடைய  இரு பிள்ளைகளுடன் ஏறாவூர் சதாம் உசைன் கிராமத்துக்கு மீண்டும் வந்து அங்கு வாழ்ந்து வருகின்றார்.
+First, the woman who married a Hindu formally left her husband and converted to Islam with the first child to marry a Muslim person.. They have no children.
+
+In this case, he left him and married a Sinhalese in the Puttalam area. They have a male child at the age of two and a half.
+
+After leaving him, he returns to the village of Eravur Saddam Usain with his two children.
+
+In this case, his 11 -year -old elder child caught the company as he was involved in smoking and tied him up in a tree and attacked Kambal.. Investigations revealed that he was tortured in April.
 
 ...
 
 [Data](articles/6c78a7f3.json)
+
+[Extended Data](ext_articles/6c78a7f3.ext.json)
 
 ---
 
@@ -295,6 +357,8 @@ The President highlighted the dual nature of the executive presidential system, 
 ◼️
 
 [Data](articles/33f4bcac.json)
+
+[Extended Data](ext_articles/33f4bcac.ext.json)
 
 ---
 
@@ -377,6 +441,8 @@ In today’s Daily Mirror, it was reported that the 33-year-old mother found her
 ◼️
 
 [Data](articles/af4dbeb4.json)
+
+[Extended Data](ext_articles/af4dbeb4.ext.json)
 
 ---
 
@@ -1056,6 +1122,8 @@ He further mentioned that the government had been concentrating on resuming vehi
 
 [Data](articles/5cd05096.json)
 
+[Extended Data](ext_articles/5cd05096.ext.json)
+
 ---
 
 ### KDU lecturer arrested over comments on ISIS suspects arrested in India
@@ -1471,6 +1539,8 @@ Sri Lanka awarded over 100 tourism SMEs with the National Sustainable Tourism Ce
 ◼️
 
 [Data](articles/bb610021.json)
+
+[Extended Data](ext_articles/bb610021.ext.json)
 
 ---
 
@@ -1890,6 +1960,8 @@ The on-going “Yukthiya” program, launched by the Police and covered by the n
 
 [Data](articles/28e0ea81.json)
 
+[Extended Data](ext_articles/28e0ea81.ext.json)
+
 ---
 
 ### Sri Lanka new employment act will not prevent age discrimination: minister
@@ -2066,21 +2138,27 @@ President Ranil Wickremesinghe requests the support and development of private s
 
 ---
 
-### பஸ் புரண்டதில் 29  பேர் காயம்
+### 29 people injured in bus
 
 *2024-05-29 10:35:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பஸ்-புரண்டதில்-29-பேர்-காயம்/76-338074) · `ta`
 
-கொழும்பு- பதுளை பிரதான வீதியில் பெல்மடுல்ல நகருக்கு அருகில் தனியார் பஸ்ஸொன்றும் முச்சக்கர வண்டியொன்றும் நேருக்கு நேர் மோதியதில் 29  பேர் காயமடைந்து வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவிக்கின்றனர்.
+In a tragic accident near Belmadulla, a private bus and a three-wheeler collided, injuring 29 people. The bus, en route from Embilipitiya to Colombo, veered off the road, causing it to crash. Four passengers were in the bus and three in the three-wheeler. Victims are hospitalized in Kehawatte and Ratnapura hospitals.
 
-எம்பிலிப்பிட்டியவில் இருந்து கொழும்பு நோக்கி பயணித்த தனியார் பேரூந்து, எதிர்திசையில் இருந்து வந்த முச்சக்கரவண்டி பேருந்தை நோக்கி வந்த போது, ​​பஸ் சாரதி முச்சக்கரவண்டி பஸ்ஸில் மோதாமல் இருக்க முயற்சித்ததாக பொலிஸார் தெரிவித்தனர்.
+🟩
 
-அப்போது, ​​சாலையில் இருந்த மண் திட்டுடன் மோதி, பஸ் சில அடிகள் கீழே சாலையில் கவிழ்ந்ததாக பொலிஸார் தெரிவித்தனர். காயமடைந்தவர்களில் பஸ் மற்றும் முச்சக்கர வண்டியில் இருந்த நால்வர் அடங்குகின்றனர்.
+A private bus and a three-wheeler collided head-on near Belmadulla on the Colombo-Badulla main road, police said.
 
-காயமடைந்த 22 பேர் கெஹாவத்தை ஆதார வைத்தியசாலையிலும் ஏழு பேர் இரத்தினபுரி போதனா வைத்தியசாலையிலும் அனுமதிக்கப்பட்டுள்ளனர்.
+The private bus traveling from Embilipitiya to Colombo, when the bus driver was trying to keep the bus driver in the bus, was trying to keep the bus from the bus.
+
+At the time, the police said that the bus crashed into the road and the bus crashed down the road.. The injured include four people in the bus and three -wheeler.
+
+22 injured have been admitted to Kehawatte Hospital and seven are admitted to the Ratnapura Teaching Hospital.
 
 ◼️
 
 [Data](articles/25e0fdf1.json)
+
+[Extended Data](ext_articles/25e0fdf1.ext.json)
 
 ---
 
@@ -2175,79 +2253,5 @@ Both teams have one more warm-up game slated in the coming days. Sri Lanka next 
 [Data](articles/bd43e8fd.json)
 
 [Extended Data](ext_articles/bd43e8fd.ext.json)
-
----
-
-### Enjoining order against Maithri is extended
-
-*2024-05-29 10:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197145) · `si`
-
-The Colombo District Court extended an injunction against Maithri, sentencing former President Maithripala Sirisena for his role as SLFP Chairman. The case was heard today (29) before Judge Sandun Withana.
-
-🟩
-
-The Colombo District Court sentenced the participation of former President Maithripala Sirisena as the Chairman of the SLFP.
-
-The complaint was recalled before the Colombo District Judge Sandun Withana this morning (29).
-
-◼️
-
-[Data](articles/f4aa710d.json)
-
-[Extended Data](ext_articles/f4aa710d.ext.json)
-
----
-
-### An explosion of a bank building in the US
-
-*2024-05-29 10:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197144) · `si`
-
-In Ohio, an explosion at a bank building injured seven and led to the disappearance of two others. The building, housing emergency services, was largely destroyed, with initial reports attributing the blast to a gas leak.
-
-🟩
-
-Seven persons were injured in an explosion in a banking building in Ohio, USA.
-
-Foreign reports say that two more persons have disappeared in the explosion.
-
-The emergency service sector building was immediately removed immediately after the explosion.
-
-The emergency service divisions have been taken to remove the people near the explosion.
-
-Preliminary investigations have revealed that a gas leak was the cause of the explosion.
-
-The explosion is almost completely destroyed by the first floor of the building.
-
-◼️
-
-[Data](articles/02d8ae99.json)
-
-[Extended Data](ext_articles/02d8ae99.ext.json)
-
----
-
-### Sri Lanka's reconciliation mechanism should be found to be the belief of the affected communities- the British Minister
-
-*2024-05-29 10:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/184744) · `ta`
-
-Mary Dravyan, Britain's Commonwealth Development Office Minister, emphasized Sri Lanka's importance as a human rights priority. She highlighted concerns from affected communities about the country's reconciliation mechanisms, urging for independent verification to gain their trust.
-
-🟩
-
-Britain's Commonwealth Development Office Minister Mary Dravyan says that Sri Lanka is a priority country of human rights on human rights.
-
-Responding to a question raised by Britain on Britain's position on reconciliation in Sri Lanka in Parliament, the Minister said this.
-
-The Minister of State has said that we accept the significant doubts issued by the affected community on Sri Lanka's reconciliation mechanism.
-
-He also said that Britain has urged the need for a walk that has been embedded in everyone to build confidence.
-
-Britain's Commonwealth Development Office Minister Mary Dravyan said that any mechanism should be obtained independently and the confidence of the affected communities, he said.
-
-◼️
-
-[Data](articles/e9651780.json)
-
-[Extended Data](ext_articles/e9651780.ext.json)
 
 ---

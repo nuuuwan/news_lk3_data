@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-29 15:04:00**
+As of **2024-05-29 15:18:55**
 
 ## Newspaper Stats
 
@@ -26,21 +26,27 @@ adaderanasinhalalk | 4,340
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,068 (100.0%) of 27,072 articles have been extended.
+27,072 (100.0%) of 27,072 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-29 (Wednesday)
 
-### ISIS விவகாரம்: விரிவுரையாளருக்கு பிணை
+### ISIS Affairs: Bail for lecturer
 
 *2024-05-29 14:50:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ISIS-விவகாரம்-விரிவுரையாளருக்கு-பிணை/175-338094) · `ta`
 
-இந்தியாவில் கைது செய்யப்பட்டு தடுத்து வைக்கப்பட்டுள்ள ஐ.எஸ்.ஐ.எஸ் உறுப்பினர்கள் தொடர்பில் ஊடகங்களுக்கு பொய்யான அறிக்கைகளை வெளியிட்டார் என்றக் குற்றச்சாட்டின் கீழ்  கைது செய்யப்பட்ட ஜெனரல் சேர் ஜோன் கொத்தலாவல பாதுகாப்பு பல்கலைக்கழகத்தின்   விரிவுரையாளருக்கு பிணை வழங்கப்பட்டுள்ளது.
+A lecturer from the University of Kotalawala, arrested for falsely reporting on ISIS detainees in India, has been released on bail by Gen. Sir John Kotalawala Safety University.
+
+🟩
+
+Gen. Sir John Kotalawala Safety University has been granted bail to the lecturer of the University of Kotalawala, who was arrested on charges of making false reports to the media regarding the arrested and detained ISIS members in India.
 
 ◼️
 
 [Data](articles/09c6ddec.json)
+
+[Extended Data](ext_articles/09c6ddec.ext.json)
 
 ---
 
@@ -54,21 +60,29 @@ Colombo, May 29 -  The lecturer attached to the General Sir John Kotelawala Def
 
 [Data](articles/59f3dd41.json)
 
+[Extended Data](ext_articles/59f3dd41.ext.json)
+
 ---
 
-### சரத் அமுனுகம இராஜினாமா
+### Sarath Amunugama resigns
 
 *2024-05-29 14:25:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சரத்-அமுனுகம-இராஜினாமா/175-338093) · `ta`
 
-விமல் வீரவன்ச, உதய கம்மன்பில, வாசுதேவ நாணயக்கார ஆகியோரின் கட்சிகள் உள்ளிட்ட மேலும் சில தரப்பினருடன் திங்கட்கிழமை (27) கூட்டணி அமைத்துக்கொண்ட திலித் ஜயவீரவின் மவ்பிம ஜனதா கட்சியின் தவிசாளர் கலாநிதி சரத் அமுனுகம, அந்த கட்சியிலிருந்து செவ்வாய்க்கிழமை (28)  இராஜினாமா செய்துள்ளார்.
+Dr. Sarath Amunugama, Chairman of the Mawpima Janata Party led by Dilith Jayaweera, resigned on Tuesday. He informed Dilith before quitting and expressed congratulations to him.
 
-தாம் கட்சியிலிருந்து இராஜினாமா செய்வதாக மவ்பிம ஜனதா கட்சியின் தலைவர் திலித் ஜயவீரவிற்கு  அறிவித்ததாக   சரத் அமுனுகம தெரிவித்தார்.
+🟩
 
-தாம் திலித் ஜயவீரவிற்கு வாழ்த்துத் தெரிவித்து, கட்சியிலிருந்து விலகியதாக கலாநிதி சரத் அமுனுகம கூறினார்.
+Dr. Sarath Amunugama, the Chairman of the Mawpima Janata Party of the Mawpima Janata Party of Dilith Jayaweera, who formed a coalition with some other parties, including Wimal Weerawansa, Udaya Kammanpila and Vasudeva Nanayakkara, has resigned from the party on Tuesday (28).
+
+Sarath Amunugama said he had informed Mawpima Janata Party leader Dilith Jayaweera that he would resign from the party.
+
+Dr. Sarath Amunugama said he had quit the party and congratulated Dilith Jayaweera.
 
 ◼️
 
 [Data](articles/1a759232.json)
+
+[Extended Data](ext_articles/1a759232.ext.json)
 
 ---
 
@@ -450,17 +464,23 @@ She said that she was ready to give $ 5,000 to someone who is finding or informe
 
 ---
 
-### ත්‍රීරෝද රථ ගාලට අලුතින් ත්‍රී රෝද රථක් එක් කිරීමට ගොස් අයෙක් මරුට
+### One killed in joining three-wheeler parks
 
 *2024-05-29 12:51:48* · [`adalk`](https://www.ada.lk/breaking_news/ත්‍රීරෝද-රථ-ගාලට-අලුතින්-ත්‍රී-රෝද-රථක්-එක්-කිරීමට-ගොස්-අයෙක්-මරුට/11-409888) · `si`
 
-තිහාරිය ගොඩැල්ල මහපල්ලිය ආසන්නයේ ත්‍රී රෝද රථ ගාලකට අලුතින් රථයක් ඇතුළත් කිරීම  හේතුවෙන්  සිදුවූ ගැටුමකින්  පුද්ගලයෙකු මරණයට පත්වී ඇතැයි නිට්ටඹුව පොලිසිය කියයි.
+A fatal clash occurred over a new vehicle in a three-wheeler park in Nittambuwa, resulting in one death. The victim's father also died after being rescued during the incident.
 
-ත්‍රී රෝද රථ ගාලට අලුතෙන් එක් වූ තරුණයකුට පහර දීමට ලක්වන අවස්ථාවේ ඔහු බේරා ගැනීමට ගිය සිය පියා මෙසේ රෝහල් ගත කිරීමෙන් පසු මිය ගොස් ඇතැයි වාර්තාවයි.
+🟩
+
+Nittambuwa Police say that a person has been killed in a clash due to the inclusion of a new vehicle from the Thihariya Godage Mahapuliya.
+
+It was reported that his father had died after being rescued when a new youth was attacked.
 
 ◼️
 
 [Data](articles/ed26df37.json)
+
+[Extended Data](ext_articles/ed26df37.ext.json)
 
 ---
 

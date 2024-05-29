@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-29 20:34:20**
+As of **2024-05-29 20:52:54**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 4,348
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,143 (100.0%) of 27,144 articles have been extended.
+27,144 (100.0%) of 27,144 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-29 (Wednesday)
 
-### வெப்ப அலையால் சுருண்டு விழுந்த மாணவ, மாணவிகள்
+### Student, students curled up by the heat wave
 
 *2024-05-29 20:08:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெப்ப-அலையால்-சுருண்டு-விழுந்த-மாணவ-மாணவிகள்/175-338118) · `ta`
 
-இந்தியாவின் மேற்கு மற்றும் வடக்கு பகுதிகளில் கடுமையான வெப்பம் நிலவி வருகிறது. மக்கள் வீட்டை விட்டு வெளியே வர முடியாத அளவிற்கு வெப்ப அலை வீசுகிறது.
+In India's western and northern regions, a severe heatwave is causing temperatures to soar above 45 degrees Celsius, forcing residents indoors, especially in Delhi, UP, and Bihar. Schools in Shakpura, Bihar, have been affected, with students collapsing due to the heat. Immediate first aid was administered, followed by hospital admissions, sparking concern among locals.
 
-டெல்லி, உ.பி., பீகார் போன்ற மாநிலங்களில் 45 டிகிரி செல்சியசை தாண்டி வெயில் கொளுத்துகிறது. இதனால் வெப்ப காற்று வீசுகிறது. அதனால் பகல் நேரங்களில் வெளியே வரவேண்டாம் என அறிவுறுத்தப்பட்டுள்ளது.
+🟩
 
-இந்த நிலையில் பீகார் மாநிலம், ஷேக்பூராவில் உள்ள பள்ளி ஒன்றில் வெப்ப அலையின் தாக்கம் தாங்க முடியாமல் பள்ளி மாணவ, மாணவியர்கள் அடுத்தடுத்து மயக்கம் அடைந்தனர். இதனால் பரபரப்பு ஏற்பட்டது.
+The western and northern parts of India are in severe heat. The heat wave is so that people cannot get out of the house.
 
-மாணவிகளுக்கு தண்ணீர் வழங்கி முதலுதவி வழங்கப்பட்டு உடனடியாக அருகில் உள்ள மருத்துவமனையில் அனுமதிக்கப்பட்டனர். இதனால் அந்த பகுதியில் பெரும் பரபரப்பு ஏற்பட்டது. R
+In states like Delhi, UP and Bihar, 45 degrees Celsius. Thus the hot air blows. So it is advised not to come out in the daytime.
+
+In this case, schoolchildren and students were subsequently falary to the impact of a heat wave at a school in Shakpura, Bihar.. This caused a stir.
+
+Students were given water to the first aid and immediately admitted to a nearby hospital. This caused a stir in the area. Remble
 
 ◼️
 
 [Data](articles/1c79612a.json)
+
+[Extended Data](ext_articles/1c79612a.ext.json)
 
 ---
 

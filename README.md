@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-29 18:23:52**
+As of **2024-05-29 18:35:18**
 
 ## Newspaper Stats
 
-*Scraped **27,129** Articles*
+*Scraped **27,130** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,38 @@ adalk | 2,305
 adaderanalk | 3,091
 tamilmirrorlk | 3,185
 virakesarilk | 4,168
-dailymirrorlk | 4,285
+dailymirrorlk | 4,286
 adaderanasinhalalk | 4,347
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,118 (100.0%) of 27,129 articles have been extended.
+27,129 (100.0%) of 27,130 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-29 (Wednesday)
+
+### SJB ready for debate even with government leaders
+
+*2024-05-29 18:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SJB-ready-for-debate-even-with-government-leaders/108-283630) · `en`
+
+Colombo, May 29 (Daily Mirror)- The Samagi Jana Balawegaya (SJB) today said it is ready to have a public debate even with government leaders other than the National Peoples Power (NPP).
+
+The remark came from SJB MPs Kabir Hashim and Eran Wickramaratne at a media briefing today.
+
+"We are ready to debate with any party, including the government leaders any time," MP Wickramaratne said.
+
+MP Harsha De Silva who referred to the proposed debate with the NPP said his party is also ready for it.
+
+"We are ready for the debate with the NPP. I have seen someone saying that the proposed debate is a joke. Talking about economic policies will never be a joke," he said.
+
+◼️
+
+[Data](articles/9deb9820.json)
+
+---
 
 ### Ranil will never go for referendum: AKD
 
@@ -50,6 +70,8 @@ He said it is not good to insult the Constitution and people's mandate and creat
 
 [Data](articles/1de20a6a.json)
 
+[Extended Data](ext_articles/1de20a6a.ext.json)
+
 ---
 
 ### Sri Lanka’s Aitken Spence Plantation Managements to delist from CSE
@@ -65,6 +87,8 @@ The exit offer price is 240 rupees per share, the company said in a stock exchan
 ...
 
 [Data](articles/be276192.json)
+
+[Extended Data](ext_articles/be276192.ext.json)
 
 ---
 
@@ -113,6 +137,8 @@ A bond maturing on 01.10.2032 closed down at 11.80/95 percent from 11.85/12.00 p
 ◼️
 
 [Data](articles/beb0ac95.json)
+
+[Extended Data](ext_articles/beb0ac95.ext.json)
 
 ---
 
@@ -204,23 +230,31 @@ And all 80 billion rupees offered of 12-month bills were sold at 9.18 percent, d
 
 [Data](articles/e84839df.json)
 
+[Extended Data](ext_articles/e84839df.ext.json)
+
 ---
 
-### දඹුල්ල විහාර හන්දිය ප්‍රදේශයේ නීතිවිරෝධී මත්පැන් පානය කළ හතරක් මරුට
+### Four killed in Vihara Junction in Dambulla junction
 
 *2024-05-29 17:06:18* · [`adalk`](https://www.ada.lk/breaking_news/දඹුල්ල-විහාර-හන්දිය-ප්‍රදේශයේ-නීතිවිරෝධී-මත්පැන්-පානය-කළ-හතරක්-මරුට/11-409892) · `si`
 
-දඹුල්ල විහාර හන්දිය ප්‍රදේශයේ නීතිවිරෝධී මත්පැන් පානය කළ සිව්දෙනෙකු මියගොස් ඇති බවට වාර්තාවේ.
+In Dambulla, four died from illegal alcohol consumption at Vihara Junction. Residents report two deaths over two days. Suspects, previously arrested, are now in custody after another death today.
 
-දින දෙකකට පෙර  දෙදෙනෙකු මියගොස් ඇති අතර අද දිනයේද එලෙසම මත්පැන් පානය කළ දෙදෙනෙකු මියගිය බවද ප්‍රදේශවාසීන් පවසයි.
+🟩
 
-කලක සිට පවත්වාගෙන යනු ලබන මෙම  නීතිවිරෝධී මත්පැන් විකිණීමේ ජාවාරම  සම්බන්ධයෙන් පොලීසිය විසින් සැකකරුවන් මීට පෙර අවස්ථා කිහිපයකදීම අත්අඩංගුවට ගෙන අධිකරණය හමුවට ඉදිරිපත් කර ඇත‍ෙ
+Four of illegal drinking alcohol in the Dambulla Vihara Junction area were killed.
 
-මෙලෙස මියගොස් ඇති පුද්ගලයින්ගේ පශ්චාත් මරණ පරීක්ෂණයට අමතරව රස පරීක්ෂක වාර්තා කැඳවා ඔවුන්ගේ මරණවලට නිශ්චිත හේතු අනාවරණ කරගැනීමට අවශ්‍ය පියවර ගන්නා බවද දඹුල්ල පොලීසිය පවසයි.
+Residents say two days ago and two alcoholic was killed today.
+
+The suspects have been arrested by the police and produced before the court on several previous occasions.
+
+Dambulla Police say that in addition to the post mortem examination of the dead, the Dambulla Police said.
 
 ◼️
 
 [Data](articles/a725327a.json)
+
+[Extended Data](ext_articles/a725327a.ext.json)
 
 ---
 
@@ -325,6 +359,8 @@ The 22.52 billion rupees will used to bolster Tier 1 capital to accommodate futu
 ...
 
 [Data](articles/5a3d0bd6.json)
+
+[Extended Data](ext_articles/5a3d0bd6.ext.json)
 
 ---
 
@@ -644,6 +680,8 @@ The program is partially financed by the European Union’s Accelerating Climate
 
 [Data](articles/0728f77b.json)
 
+[Extended Data](ext_articles/0728f77b.ext.json)
+
 ---
 
 ### President says presidential election to be held as planned
@@ -659,6 +697,8 @@ The President highlighted the dual nature of the executive presidential system, 
 ◼️
 
 [Data](articles/33af2dc6.json)
+
+[Extended Data](ext_articles/33af2dc6.ext.json)
 
 ---
 
@@ -1079,6 +1119,8 @@ A Sri Lankan delegation including State Foreign Minister Tharaka Balasuriya and 
 ...
 
 [Data](articles/c2181508.json)
+
+[Extended Data](ext_articles/c2181508.ext.json)
 
 ---
 
@@ -1720,21 +1762,23 @@ The 2023 G.C.E. Advanced Level Examination was held from January 04 to 31, 2024 
 
 ---
 
-### බෑණාගේ සූදානම මාමණ්ඩියගේ උපාය අනුගමනය කිරීම ද?
+### Is the nephew follow the strategy of the father's readiness?
 
 *2024-05-29 12:18:04* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c6ppxwjl75po) · `si`
 
-ලොව පුරා රටවලට මැතිවරණ වසරක් ලෙස සැලකෙන 2024 වසර ශ්‍රී ලාංකික පුරවැසියන්ට ද මැතිවරණ වසරකි. 1978 දෙවන ජනරජ ව්‍යවස්ථාවට අනුකූලව වර්තමානයේ අනුප්‍රාප්තික ජනාධිපති ධූරය දරන ජනාධිපති රනිල් වික්‍රමසිංහට හිමි ධූර කාලය තව මාස කිහිපයකින් අවසන් වන නිසා ආණ්ඩුක්‍රම ව්‍යවස්ථාවට අනුව මේ වසරේ දී ජනාධිපතිවරණයක් පවත්වා ජනාධිපතිවරයෙකු පත් කරගත යුතු ය.
+The text discusses the controversy surrounding the potential postponement of Sri Lanka's presidential election, citing concerns about its constitutionality and impact on democracy. Experts argue that the current constitution does not allow for election delays, emphasizing the importance of timely elections for democratic governance. They highlight the distinction between a president elected by popular vote and one appointed successively, suggesting that only the latter lacks the power to extend their term. The discussion also touches on historical instances where attempts to delay elections were met with resistance and legal challenges.
 
-ඒ සම්බන්ධයෙන් බොහෝ පාර්ශවයන් ද ජනාධිපතිවරණයට තරග කිරීමට බලාපොරොත්තුවන අපේක්ෂකයන් සහ ඔවුන්ගේ පක්ෂ විසින් දැඩි උනන්දුවකින් බලා සිටින අවස්ථාවක දී ජනාධිපති රනිල් වික්‍රමසිංහ නායකත්වය දරණ එක්සත් ජාතික පක්ෂයේ මහලේකම් පාලිත රංගේබණ්ඩාර විසින් 2024 මැයි 28 පැවති මාධ්‍ය හමුවක දී ප්‍රකාශ කළේ ජනාධිපතිවරණය වසර දෙකකට කල් දැමිය යුතු බවත්, ඒ සඳහා පාර්ලිමේන්තුවේ පක්ෂ සියල්ල සහය දිය යුතු බවත් ය.
+🟩
 
-එම ප්‍රකාශය කිරීමත් සමඟ මේ වන විට ජනාධිපතිවරණය කල් දැමීම පිළිබඳ දැඩි කතාබහක් නිර්මාණය වී ඇති අතර බොහෝ දෙනා එය ප්‍රජාතන්ත්‍ර විරෝධී ප්‍රකාශයක් බවට අදහස් දක්වා තිබේ.
+Elections will be elected to Sri Lankan citizens, which are a year-long year of elections. Since the constitutional term of the Presidency is the current republic of the Republican Constitution in accordance with the Second Republican Constitution of the Second Republic of China, the Constitution should be appointed to hold a presidential election this year.
 
-දේශපාලන පක්ෂ රැසක් ද මේ සම්බන්ධයෙන් අදහස් දක්වා ඇති අතර සිවිල් සංවිධාන කිහිපයක් ද මෙම ප්‍රකාශය හෙලා දැක් තිබේ.
+A press conference held by the UNP General Secretary General of Parliament General Assembly of President Ranil Wickremesinghe, the General Secretary of the National Party (UNP), the General Secretary of the National Party (UNP), the Presidential Secretaries of the National Party (UNP), was asked to postpone the presidential election two years at the time of the candidates who are looking forward to the candidates who wish to contest the presidential election.All parties in Parliament should be supported.
 
 ...
 
 [Data](articles/8bdbe993.json)
+
+[Extended Data](ext_articles/8bdbe993.ext.json)
 
 ---
 
@@ -2227,27 +2271,5 @@ The suspect involved in the murder has not been arrested so far and Meegoda Poli
 [Data](articles/636f16c1.json)
 
 [Extended Data](ext_articles/636f16c1.ext.json)
-
----
-
-### There is no plan to postpone the presidential election
-
-*2024-05-29 11:25:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதித்-தேர்தலை-ஒத்திவைக்கும்-திட்டம்-எதுவுமில்லை/175-338078) · `ta`
-
-Nimal Lansa confirms no plans to postpone Sri Lanka's presidential election, aligning with President Ranil Wickremesinghe's stance despite calls from UNP's Palitha Range Bandara for a referendum delay.
-
-🟩
-
-Government parliamentarian Nimal Lansa, who has said that this year's presidential election will be held, has said that there is no plans to postpone the presidential election.
-
-Lansa further stated that President Ranil Wickremesinghe expressed his intention of holding the election.
-
-Lansa has expressed this view following the calling of the United National Party (UNP) Palitha Range Bandara on the invitation to postpone the presidential election by a referendum.
-
-◼️
-
-[Data](articles/6230c52b.json)
-
-[Extended Data](ext_articles/6230c52b.ext.json)
 
 ---

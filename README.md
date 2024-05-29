@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-29 15:18:55**
+As of **2024-05-29 15:34:02**
 
 ## Newspaper Stats
 
-*Scraped **27,072** Articles*
+*Scraped **27,074** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 238
-dbsjeyarajcom | 265
+dbsjeyarajcom | 266
 bbccomsinhala | 269
 newsfirstlk | 363
 islandlk | 1,465
@@ -19,14 +19,14 @@ adalk | 2,301
 adaderanalk | 3,087
 tamilmirrorlk | 3,181
 virakesarilk | 4,153
-dailymirrorlk | 4,271
+dailymirrorlk | 4,272
 adaderanasinhalalk | 4,340
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,072 (100.0%) of 27,072 articles have been extended.
+27,072 (100.0%) of 27,074 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -2182,6 +2182,22 @@ Sagala Ratnayake has informed the Service Minute on the Service Minute of the Pu
 
 ---
 
+### Triple tragedy for mother of four
+
+*2024-05-29 07:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Triple-tragedy-for-mother-of-four/108-283572) · `en`
+
+She laments enduring four months without electricity, and two weeks of water scarcity
+
+In a distressing tale from Kebithigolleva, a 33-year-old mother of four found herself in dire circumstances as she laments enduring four months without electricity, two weeks of water scarcity, and the recent loss of her husband, the main breadwinner who supported the family through odd jobs.
+
+The grieving mother found herself thrust into a challenging situation following the tragic death of her husband, PK Chaturanga (34). The father of her two school-going children - a 6th grade boy and 4th grade girl, they also have another 2-year-old boy and a 40-day-old baby - her husband lost his life after a sudden collision with a cow while riding a motorcycle. The incident occurred near their residence, leaving the family shattered.
+
+...
+
+[Data](articles/072d8e28.json)
+
+---
+
 ### University non-academic staff
 
 *2024-05-29 07:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197136) · `si`
@@ -2301,27 +2317,5 @@ The mandatory reserve ratio for banks was also left at 2.00 percent.
 [Data](articles/c082ea9a.json)
 
 [Extended Data](ext_articles/c082ea9a.ext.json)
-
----
-
-### Ruling party and opposition join forces against Range Bandara’s proposal to postpone polls
-
-*2024-05-29 02:26:53* · [`dailyftlk`](https://www.ft.lk/news/Ruling-party-and-opposition-join-forces-against-Range-Bandara-s-proposal-to-postpone-polls/56-762321) · `en`
-
-UNP’s Ravi Karunanayake criticises party General Secretary Palitha Range Bandara’s proposal to postpone elections, revealing a split within UNP regarding election timing
-
-Ruling party firmly rejects the idea of postponing elections, emphasising the importance of democratic principles and the people’s right to vote
-
-Opposition parties, including SJB and NPP vehemently oppose Range Bandara’s proposal, asserting their commitment to safeguarding democracy and electoral process
-
-Cabinet Spokesman Bandula Gunawardena confirms President has instructed allocation of necessary funds to conduct elections, reaffirming commitment to holding elections as scheduled
-
-United National Party (UNP) Colombo District organiser Ravi Karunanayake yesterday criticised party General Secretary Palitha Range Bandara’s proposal to postpone both Parliamentary and presidential polls for two years, highlighting a significant division within the UNP regarding the timing of the elections.
-
-...
-
-[Data](articles/8dd1f45f.json)
-
-[Extended Data](ext_articles/8dd1f45f.ext.json)
 
 ---

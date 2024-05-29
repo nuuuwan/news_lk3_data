@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-29 22:33:57**
+As of **2024-05-29 22:52:05**
 
 ## Newspaper Stats
 
-*Scraped **27,161** Articles*
+*Scraped **27,165** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,58 @@ newsfirstlk | 363
 islandlk | 1,465
 economynextcom | 1,556
 dailyftlk | 1,591
-adalk | 2,308
-adaderanalk | 3,093
+adalk | 2,309
+adaderanalk | 3,094
 tamilmirrorlk | 3,188
 virakesarilk | 4,180
-dailymirrorlk | 4,292
-adaderanasinhalalk | 4,350
+dailymirrorlk | 4,293
+adaderanasinhalalk | 4,351
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,155 (100.0%) of 27,161 articles have been extended.
+27,161 (100.0%) of 27,165 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-29 (Wednesday)
+
+### Iraq seeks enhanced ties with Sri Lanka, requests for business links in Baghdad, Kurdistan
+
+*2024-05-29 22:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Iraq-seeks-enhanced-ties-with-Sri-Lanka-requests-for-business-links-in-Baghdad-Kurdistan/108-283658) · `en`
+
+Trade Minister Nalin Fernando met with Iraqi envoy Mohammed Obaid Jabur Zahir Al-Masoudi today and discussed the conducting of the ninth session of the Iraq-Sri Lanka for Economic and Technical Cooperation in Sri Lanka this November, which is a greater platform for the bilateral relations between both countries, a statement from the Ministry said.
+
+The Trade Minister briefed the envoy on the current economic situation and urged the importance of international support not only in the monetary sector but also in other sectors.
+
+The head of the embassy encouraged Sri Lankan investors to establish business links in Bagdad and Kurdistan. Iraq is one of the main Sri Lankan tea buyers and nearly 150,000 Sri Lankan employees work there.
+
+Re-establishing a Sri Lankan Embassy in Iraq to resolve the matters relating to visa issues, the tax on goods etc. between both countries with the cooperation of the Foreign Ministry, were also discussed.
+
+...
+
+[Data](articles/36b48940.json)
+
+---
+
+### Five companies fined Rs. 1,243 million for illegally importing gold
+
+*2024-05-29 22:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/99520/five-companies-fined-rs-1243-million-for-illegally-importing-gold) · `en`
+
+State Minister of Finance Ranjith Siyambalapitiya says that five companies have been identified for illegally importing gold to Sri Lanka during the year and a fine of Rs. 1,243 million has been imposed on those companies.
+
+The state minister mentioned that a related company has been ordered to pay Rs. 179 million. Henceforth, all licensed companies that import gold products should refrain from these illegal activities, he warned.
+
+Siyambalapitiya said that efforts are currently underway to stabilize the state income of the country by closing the loopholes related to the loss of state income.
+
+The state minister further said that certain parties who import gold products have turned it into a big racket and there is a mafia around it.
+
+...
+
+[Data](articles/d5638ee3.json)
+
+---
 
 ### Is hypertension the reason for some SLTB bus drivers to drive recklessly?
 
@@ -48,6 +84,24 @@ The programme was organized by Nursing Sister K.A. Nilanthi, PHI Sanjaya Wannina
 
 [Data](articles/44b1dde9.json)
 
+[Extended Data](ext_articles/44b1dde9.ext.json)
+
+---
+
+### කොළඹ වරායට ආ නෞකාවක කපිතාන්වරයෙකුට අධිකරණ නියෝගයක්
+
+*2024-05-29 22:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197166) · `si`
+
+කොළඹ වරායේ නැංගූරම්ලා ඇති බව සඳහන් නෞකාවක කපිතාන්වරයෙකුට විදෙස් ගමන් තහනමක් පනවා තිබේ.
+
+කොළඹ අතිරේක මහෙස්ත්‍රාත්වරයා විසින් මෙම තහනම පනවා ඇත්තේ ඉන්දීය නෞකාවක කපිතාන්වරයෙකුටය.
+
+අදාළ ඉන්දීය නෞකාවෙන් ඉන්ධන කාන්දුවක් සිදුවන බවට වරාය පොලීසියට ලද පැමිණිල්ලකට අනුව අධිකරණය වෙත කරුණු වාර්තා කිරීමෙන් පසුව මෙම තහනම පැනවීමට පියවර ගෙන තිබේ.
+
+◼️
+
+[Data](articles/b1685855.json)
+
 ---
 
 ### Teachers, principals to launch two-day islandwide sick leave campaign tomorrow
@@ -60,11 +114,13 @@ Addressing the media NTP national organiser and media spokesman Amuthu Bandara t
 
 "We held a sick leave campaign on March 28, and we gave the rulers of the country a chance, but they did not listen. Therefore, the NTP has decided to launch the two-day sick leave campaign tomorrow," he said.
 
-“There is a responsibility for the 225 MPs in the Parliament to launch a debate on this issue, as they were elected to Parliament with the vote cast by the teachers and principals as well.
+“There is a responsibility for the 225 MPs in the Parliament to have a debate on this issue, as they were elected to Parliament with the vote cast by the teachers and principals as well.
 
 ...
 
 [Data](articles/cd7a34e4.json)
+
+[Extended Data](ext_articles/cd7a34e4.ext.json)
 
 ---
 
@@ -169,6 +225,26 @@ The relevant application has been submitted by the Gazette No. 2383/17 of May 20
 [Data](articles/3aab11cc.json)
 
 [Extended Data](ext_articles/3aab11cc.ext.json)
+
+---
+
+### ලංකාව ගැන වීඩියෝවක් හදන්න ආපු එංගලන්ත සංචාරිකාවගේ ඩොලර් 20000ක දේපළ බසයකදී සොරාගෙන
+
+*2024-05-29 21:06:22* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාව-ගැන-වීඩියෝවක්-හදන්න-ආපු-එංගලන්ත-සංචාරිකාවගේ-ඩොලර්-20000ක-දේපළ-බසයකදී-සොරාගෙන/11-409895) · `si`
+
+ශ්‍රී ලංකාව පිළිබඳ සංචාරක වීඩියෝ පටයක් සකස් කිරීම සඳහා මෙරටට පැමිණි එංගලන්ත ජාතික තරුණියකගේ  ඩොලර් 20000ක පමණ වටිනා දේපළ අඩංගු බෑගයක් කිසිවකු විසින් පිටකොටුව බැස්ටියෙන් මාවත බස් නැවතුම්පොලේ බස් රථයක් තුළදී සොරාගෙන  ගොස් ඇතැයි පිටකොටුව පොලිසිය කියයි.
+
+එම බෑගය තුළ ලැෆ් ටොෆ් පරිගණකයක් කැමරාවක්, බැංකු කාඩ්පත්  හා ඇයගේ ගුවන් ගමන් බලපත්‍රය තිබී ඇතැයි පොලිසිය සඳහන් කරයි.
+
+එම බෑගය සොයා දෙන කෙනෙකුට හෝ  තොරතුරක් ලබා දෙන කෙනෙකුට ඇමරිකානු ඩොලර් 5000 ක් එනම් ශ්‍රී ලංකා මුදලින් රුපියල් ලක්ෂ 15 ක ත්‍යාග මුදලක් ලබා දෙන බව ස්කයිබ් නකෝමන් තරුණිය දන්වා සිටි.
+
+ඇල්ල බලා යාම සඳහා කොටුව දුම්රිය පොළ වෙත ගොස් දුම්රිය අවලංගු වීම හේතුවෙන් පිටකොටුව බස් නැවතුම්පොළ වෙත පැමිණ බස් රථයට නැග මඳ වේලාවකදී   දේපළ අඩංගු බෑගය සොරාගෙන ගොස් තිබූ බව පොලිස් විමර්ශනවලදී අනාවරණය වී ඇත.
+
+"අන්ඩර් ද සේම් ස්කයි " නමින් යූබ්ටියුබ් චැනලයක් පවත්වාගෙන යන  ස්කයිබ් නකෝමන් නමැති තරුණිය රටවල් 37ක සංචාරය කර ඇති තැනැත්තියක් බවත් ඉකුත් 24 වෙනිදින  මෙරට සංචාරය සඳහා පැමිණ තිබූ බව පොලිසිය කියයි.
+
+...
+
+[Data](articles/da3fa9e8.json)
 
 ---
 
@@ -310,19 +386,25 @@ At the same time, the President referred to the difficulties in obtaining domest
 
 ---
 
-### அடுத்தடுத்து 4 பேர் பலியாகிய சோகம்; தம்புள்ளையில் சம்பவம்
+### The tragedy of the victim of 4 people;The incident in Dambulla
 
 *2024-05-29 19:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/184817) · `ta`
 
-தம்புள்ளை பகுதியில் சட்டவிரோத மதுபானம் அருந்தி நான்கு பேர் உயிரிழந்துள்ளதாக கூறப்படும் சம்பவம் தொடர்பில் பொலிஸார் விசாரணைகளை ஆரம்பித்துள்ளனர்.
+Four deaths in Dambulla linked to illegal alcohol. Two fatalities occurred initially, followed by another two. Police investigating, focusing on autopsies and forensic reports to determine causes.
 
-இரண்டு நாட்களுக்கு முன்னர் இதே சட்டவிரோத மதுபானத்தை அருந்தி இருவர் உயிரிழந்துள்ளதாகவும் இன்று அதே மதுபானத்தை அருந்தி இருவர் உயிரிழந்துள்ளதாக பிரதேச மக்கள் தெரிவிக்கின்றனர்.
+🟩
 
-உயிரிழந்தவர்களின் பிரேதப் பரிசோதனைக்கு மேலதிகமாக, தடயவியல் அறிக்கைகளை வரவழைத்து அவர்களின் மரணத்திற்கான குறிப்பிட்ட காரணங்களைக் கண்டறிய தேவையான நடவடிக்கைகள் எடுக்கப்படும் என்றும் பொலிஸார் மேலும் தெரிவித்தனர்.
+Police have launched an investigation into the alleged deaths of four people in the Dambulla area.
+
+Two days ago, two people died after drinking the same illegal alcoholic beverage and two people died today.
+
+In addition to the autopsy of the deceased, the police said that steps would be taken to bring forensic reports and to find out the reasons for their death.
 
 ◼️
 
 [Data](articles/d503d91a.json)
+
+[Extended Data](ext_articles/d503d91a.ext.json)
 
 ---
 
@@ -342,19 +424,25 @@ Two fire trucks have been deployed by the CMC Fire Services Department to douse 
 
 ---
 
-### 7 வயது சிறுவனை தலைகீழாக கட்டி தொங்கவிட்டு தாக்கிய தாய் கைது
+### Mother arrested for attacking a 7 -year -old boy upside down
 
 *2024-05-29 19:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/184816) · `ta`
 
-28 ஆம் திகதி செவ்வாய்க்கிழமை ஏறாவூர் சாதாட் கிராமத்தில் 7 வயது சிறுவனை தலைகீழாக கட்டி தொங்கவிட்டு தாக்கிய சம்பவத்துடன் தொடர்புடைய 35 வயதுடைய குறித்த சிறுவனின் தாய் ஏறாவூர் பொலிஸாரினால் கைது செய்யப்பட்டிருந்தார்.
+A 35-year-old woman was arrested after allegedly attacking a 7-year-old boy in Eravur. The incident occurred on Tuesday, leading to the arrest of her son, a 24-year-old, and two others on Wednesday. The victims were hospitalized and later transferred to a child care center.
 
-பின்னர் குறித்த பெண்ணின் 24 வயதுடைய சகேதரரும் ஏறாவூர் பொலிஸாரினால் கைது செய்யப்பட்டு 29 ஆம் திகதி புதன்கிழமை இருவரையும் ஏறாவூர் நீதவான் நீதிமன்றத்தில் ஆஜர் படுத்திய போது எதிர்வரும் 6ஆம் மாதம் 12ஆம் திகதி வரை இருவரையும் விளக்கமறியலில் வைக்க நீதவான் உத்தரவிட்டுள்ளதாக ஏறாவூர் பொலிஸார் தெரிவித்தனர்.
+🟩
 
-வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ள இரண்டு சிறுவர்களையும் ஏறாவூர் ஆயிஷா லு அபூபக்கர் சித்திக் சிறுவர் பராமரிப்பு நிலையத்தில் ஒப்படைக்குமாறு நீதவான் உத்தரவிட்டுள்ளதாக ஏறாவூர் பொலிஸார் தெரிவித்தனர்.
+A 35 -year -old boy's mother was arrested by the Eravur police in connection with the attack on a 7 -year -old boy in the village of Eravur on Tuesday 28th.
+
+The Eravur police said that the woman's 24 -year -old Saler and the Eravur police were arrested by the Eravur police on Wednesday, 29th and the Magistrate has ordered the two men to be interrogated till the 12th of this month.
+
+The Eravur police said that the two boys who were admitted to the hospital were ordered to be handed over to the Eravur Aisha Lu Abubakar Siddique Child Care Center.
 
 ◼️
 
 [Data](articles/7ee9fa7e.json)
+
+[Extended Data](ext_articles/7ee9fa7e.ext.json)
 
 ---
 
@@ -1072,23 +1160,29 @@ It is reported that the white colored South Korea has been reported to eight or 
 
 ---
 
-### தேர்தலை பிற்போடவேண்டுமென்பது ஐக்கிய தேசிய கட்சியின் நிலைப்பாடு அல்ல - சமன் ரத்னப்பிரிய
+### The United National Party (UNP) is not the position of the election - Saman Ratnapriya
 
 *2024-05-29 16:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/184799) · `ta`
 
-தேர்தலை பிற்போடுவது குறிபத்து ஐக்கிய தேசிய  எந்த தீர்மானத்தையும் மேற்கொள்ளவில்லை. தேர்தலை பிற்போடவேண்டும் என்ற யோசனை ரங்கே பண்டாரவின் தனிப்பட்ட கருத்து என ஜனாதிபதியின் தொழிற்சங்க பணிப்பாளர் நாயகமும் ஐக்கிய தேசிய கட்சியின் முன்னாள் பாராளுமன்ற உறுப்பினருமான சமன் ரத்னப்பிரிய தெரிவித்தார்.
+Saman Ratnapriya clarified that the United National Party (UNP) has not decided to postpone elections, contrary to Range Bandara's suggestion. He emphasized that the party has not adopted this stance, despite economic concerns and opinions from various sectors suggesting otherwise. The President reaffirmed the scheduled timing for the presidential election, set by the Constitution, during a recent cabinet meeting, ensuring no changes this year.
 
-கொழும்பில் புதன்கிழமை (29) இடம்பெற்ற நிகழ்வொன்றின் பின்னர் இது தொடர்பாக ஊடகங்களுக்கு கருத்து தெரிவிக்கையிலேயே இவ்வாறு தெரிவித்தார்.
+🟩
 
-ஜனாதிபதி தேர்தல் மற்றும் பாராளுமன்ற  தேர்தலை இரண்டு வருடங்களுக்கு பிற்பாேடவேண்டும் என ஐக்கிய தேசிய கட்சியின் பொது செயலாளர் ரங்கே பண்டார தெரிவித்திருந்த விடயம் அவரது தனிப்பட்ட கருத்து.
+The United National Party has not made any decision to mark the election. The idea of ​​backing the election was Range Bandara's personal opinion, said Saman Ratnapriya, the President's Trade Union Director General and former United National Party (UNP) Member of Parliament.
 
-அது ஐக்கிய தேசிய கட்சியின் நிலைப்பாடு அல்ல. அவ்வாறான எந்த தீர்மானத்தையும் ஐக்கிய தேசிய கட்சி மேற்கொள்ளவில்லை.
+He said this while speaking to the media after an event in Colombo on Wednesday (29).
 
-நாடு பொருளாதார ரீதியில் வீழ்ந்துள்ள நிலையில், தேர்தல் ஒன்று அவசியம் இல்லை எனவும் மேலும் இரண்டு வருடங்களுக்கு தேர்தல் ஒன்றை நடத்தாமல் முன்னோக்கிச் செல்ல முடியும் என பலரும் தெரிவித்து வருகின்றனர்.
+His personal opinion is that the General Secretary of the United National Party Range Bandara has said that the presidential and parliamentary elections should be held two years later.
+
+That is not the position of the United National Party. The United National Party has not made any such resolution.
+
+Many people have said that the country has fallen economically and that the election is not necessary and that it can go ahead without holding an election for two years.
 
 ...
 
 [Data](articles/44cf611f.json)
+
+[Extended Data](ext_articles/44cf611f.ext.json)
 
 ---
 
@@ -1118,23 +1212,31 @@ All schools will be held on the basis of tomorrow, and on May 30 and 31.
 
 ---
 
-### பிரபல்யமானவரை ஜனாதிபதி வேட்பாளராக அறிவிப்போம் - உதய கம்மன்பில
+### We will declare the presidential candidate - Udaya Kammanpila
 
 *2024-05-29 16:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/184793) · `ta`
 
-69 இலட்ச மக்களின் எதிர்பார்ப்புகளுக்காகவே புதிய அரசியல் கூட்டணியை ஸ்தாபித்துள்ளோம்.எம்மில் பிரபல்யமான நபரை ஜனாதிபதி வேட்பாளராக களமிறக்குவோம். வேட்பாளர் யார் என்பது முக்கியமல்ல,எதை செய்ய போகிறோம் என்பதே முக்கியமானது என பிவிதுரு ஹெல உறுமய கட்சியின் தலைவரும்,பாராளுமன்ற உறுப்பினருமான உதய கம்மன்பில தெரிவித்தார்.
+Udaya Kammanpila, leading a new political coalition aimed at addressing the needs of 690,000 people, emphasizes actions over candidates. He discusses a proposed bill, criticized for lacking alignment with International Monetary Fund (IMF) recommendations, which aims to boost economic growth and female representation in governance. The bill also outlines penalties for law violations. This announcement marks a significant shift in Sri Lanka's political landscape, focusing on policy and performance rather than individual figures.
 
-கொழும்பில் உள்ள பிவிதுரு ஹெல உறுமய கட்சி காரியாலயத்தில் புதன்கிழமை (28) இடம்பெற்ற ஊடகவியலாளர் சந்திப்பின் போது மேற்கண்டவாறு குறிப்பிட்டார்.
+🟩
 
-எவ்விதமான இலக்கு மற்றும் எதிர்பார்ப்பும் இல்லாத வகையில் சட்டமூலத்தின் ஏற்பாடுகள் காணப்படுகின்றன.கனவு மற்றும் கற்பனை சட்டமூலம் என்றே குறிப்பிட வேண்டும்.
+We have established a new political coalition for the expectations of 69 lakhs.. Udaya Kammanpila, the leader of the Pivithuru Hela Urumaya (JHU) and Member of Parliament, said that the candidate is not important and what we are going to do.
 
-இந்த சட்டமூலத்தின் ஊடாக ஸ்தாபிக்கப்படும் ஆணைக்குழுக்களை ஜனாதிபதி நியமிக்கிறார்.அவ்வாறு இருக்கையில் எவ்வாறு சுயாதீனமான முறையில் பொருளாதாரம் தீர்மானங்கள் எடுக்கப்படும். புதிய மத்திய வங்கி சட்டத்தினால் ஏற்பட்ட நிலைமை இந்த சட்டமூலத்தின் ஊடாகவும் ஏற்படும்.
+He was speaking at a media briefing held at the Pivithuru Hela Urumaya (JHU) office in Colombo on Wednesday (28).
 
-சர்வதேச நாணய நிதியத்தின் பரிந்துரைக்கு அமைய இந்த சட்டமூலம் தயாரிக்கப்பட்டுள்ளதாக அரசாங்கம் குறிப்பிடுகிறது.
+Preparations of the Bill are found in the absence of any goal and expectation.
+
+The President appoints the Commission to be established through this Bill.. The situation caused by the new Central Bank Act will be through this bill.
+
+The government states that the Bill has been prepared on the recommendation of the International Monetary Fund.
+
+But in the recommendations of the International Monetary Fund, the bill is not mentioned anywhere. The Bill is contrary to the recommendations of the IMF.
 
 ...
 
 [Data](articles/b1000e51.json)
+
+[Extended Data](ext_articles/b1000e51.ext.json)
 
 ---
 
@@ -2149,83 +2251,5 @@ The US dollar sales price was Rs 296.8300 and the purchase price was Rs 306.442,
 [Data](articles/294acb36.json)
 
 [Extended Data](ext_articles/294acb36.ext.json)
-
----
-
-### Lecturer arrested for false remarks on ISIS arrests in India
-
-*2024-05-29 13:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Lecturer-arrested-for-false-remarks-on-ISIS-arrests-in-India/108-283608) · `en`
-
-Colombo, May 29 (Daily Mirror) - The Criminal Investigation Department (CID) arrested a lecturer attached to the General Sir John Kotelawala Defence University (KDU) for making false statements to the media regarding the ISIS members arrested in India.
-
-Police Spokesman DIG Nihal Thalduwa said Dr. Punsara Amarasinghe  was arrested yesterday after being summoned to the CID to record a statement over remarks he had made during a TV programme.
-
-On May 20, four Sri Lankans were arrested by the Gujarat Anti-Terrorism Squad at Ahmedabad Airport on suspicion of having ISIS links. The lecturer recently claimed in media interviews that the report of the Commission on the Easter Sunday bomb attacks had recommended these men for rehabilitation.
-
-However, when questioned by the CID, the lecturer admitted to being unaware of the relevant details, thus leading to his arrest.
-
-The Police spokesman said the suspect will be produced before court today.
-
-...
-
-[Data](articles/836b1b51.json)
-
-[Extended Data](ext_articles/836b1b51.ext.json)
-
----
-
-### Lecturer at Kotelawala Defense University arrested
-
-*2024-05-29 13:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197152) · `si`
-
-Dr. Punar Amarasinghe, a lecturer at Kotelawala Defense University, was arrested by the CID for allegedly making false statements about four Sri Lankans detained in India, suspected of ISIS ties.
-
-🟩
-
-The Criminal Investigations Department (CID) has been arrested by the Criminal Investigations Department Dr. Punar Amarasinghe at the Kotelawala Defense University.
-
-It was accused of making a false statement regarding 4 Sri Lankans arrested in India who was suspected to be involved in the ISIS organization.
-
-◼️
-
-[Data](articles/215c6e73.json)
-
-[Extended Data](ext_articles/215c6e73.ext.json)
-
----
-
-### CBSL optimistic of easing vehicle restrictions
-
-*2024-05-29 13:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/CBSL-optimistic-of-easing-vehicle-restrictions/108-283609) · `en`
-
-Colombo,May 29 (Daily Mirror) - In light of the Central Bank’s ability to manage foreign reserve, the governor Dr. Nandalal Weerasinghe stressed the importance of easing vehicle restrictions.
-
-Addressing the media, he emphasized that the government must determine whether to resume vehicle imports following the Central Bank's announcement of adequate foreign reserves.
-
-He further mentioned that the government had been concentrating on resuming vehicle imports gradually, with specific vehicle categories already permitted for the tourism industry.
-
-◼️
-
-[Data](articles/463172dd.json)
-
-[Extended Data](ext_articles/463172dd.ext.json)
-
----
-
-### CBSL optimistic of easing vehicle restrictions
-
-*2024-05-29 13:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/CBSL-optimistic-of-easing-vehicle-restrictions/155-283609) · `en`
-
-Colombo,May 29 (Daily Mirror) - In light of the Central Bank’s ability to manage foreign reserve, the governor Dr. Nandalal Weerasinghe stressed the importance of easing vehicle restrictions.
-
-Addressing the media, he emphasized that the government must determine whether to resume vehicle imports following the Central Bank's announcement of adequate foreign reserves.
-
-He further mentioned that the government had been concentrating on resuming vehicle imports gradually, with specific vehicle categories already permitted for the tourism industry.
-
-◼️
-
-[Data](articles/5cd05096.json)
-
-[Extended Data](ext_articles/5cd05096.ext.json)
 
 ---

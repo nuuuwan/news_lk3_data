@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-29 10:18:47**
+As of **2024-05-29 10:34:15**
 
 ## Newspaper Stats
 
-*Scraped **26,994** Articles*
+*Scraped **26,997** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,79 @@ adaderanalk | 3,078
 tamilmirrorlk | 3,167
 virakesarilk | 4,138
 dailymirrorlk | 4,257
-adaderanasinhalalk | 4,327
+adaderanasinhalalk | 4,330
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,993 (100.0%) of 26,994 articles have been extended.
+26,994 (100.0%) of 26,997 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-29 (Wednesday)
+
+### මෛත්‍රීට එරෙහි වාරණ නියෝගය දීර්ඝ කෙරේ
+
+*2024-05-29 10:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197145) · `si`
+
+ශ්‍රී ලංකා නිදහස් පක්ෂයේ සභාපතිවරයා ලෙස හිටපු ජනාධිපති, මෛත්‍රීපාල සිරිසේන මහතා කටයුතු කිරීම වළක්වාලමින් පනවා තිබෙන වාරණ නියෝගය ලබන මස 12 වන දක්වා තවදුරටත් දීර්ඝ කරන ලෙස කොළඹ දිසා අධිකරණය නියම කළේය.
+
+හිටපු ජනාධිපතිනි චන්ද්‍රිකා බණ්ඩාරනායක කුමාරතුංග මහත්මිය විසින් ගොනුකර තිබූ මෙම පැමිණිල්ල අද (29) කොළඹ දිසා විනිසුරු සඳුන් විතාන මහතා ඉදිරියේ යළි කැඳවනු ලැබීය.
+
+◼️
+
+[Data](articles/f4aa710d.json)
+
+---
+
+### අමෙරිකාවේ බැංකු ගොඩනැගිල්ලක පිපිරීමක්
+
+*2024-05-29 10:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197144) · `si`
+
+අමෙරිකාවේ ඔහියෝ ප්‍රාන්තයේ බැංකු ගොඩනැගිල්ලක සිදුවූ පිපිරීමකින් පුද්ගලයින් 7 දෙනෙකු තුවාල ලබා තිබේ.
+
+පිපිරීමෙන් තවත් පුද්ගලයින් දෙදෙනෙක් අතුරුදන් බව විදෙස් වාර්තා පෙන්වා දෙයි.
+
+පිපිරීමෙන් පසුව ඒ වෙත පැමිණි හදිසි සේවා අංශ ගොඩනැගිල්ල තුළ සිටි පිරිස වහාම ඉන් ඉවත් කිරීමට කටයුතු කර තිබිණි.
+
+පිපිරීම සිදුවූ ගොඩනැගිල්ල ආසන්නයෙන් ජනතාව ඉවත් කිරීමට හදිසි සේවා අංශ කටයුතු කර ඇත.
+
+පිපිරීමට හේතුව ගෑස් කාන්දුවක් බව මූලික විමර්ශනවලින් අනාවරණ වී ඇත.
+
+පිපිරීමෙන් ගොඩනැගිල්ලේ පළමු මහල සම්පූර්ණයෙන්ම පාහේ විනාශ වී ඇති බව සඳහන්ය.
+
+◼️
+
+[Data](articles/02d8ae99.json)
+
+---
+
+### තවත් කාන්තාවක්ව නිවස තුළ දී ඝාතනය කෙරේ
+
+*2024-05-29 09:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197143) · `si`
+
+පාදුක්ක, වටරැක ප්‍රදේශයේ නිවසක සිටි කාන්තාවක්ව තියුණු ආයුධයකින් පහරදී ඝාතනය කර තිබේ.
+
+අද (29) අලුයම් කාලයේදී කිසියම් පුද්ගලයෙකු විසින් එම ඝාතනය සිදුකර ඇත.
+
+මරණකාරිය යම්කිසි අවශ්‍යතාවයක් සඳහා අලුයම් කාලයේදී නිවසෙහි ඉදිරිපස කාමරයකට ගිය අවස්ථාවේදී මෙලෙස කිසිවෙකු විසින් තියුණු ආයුධ ප්‍රහාරයක් එල්ල කර පළා ගොස් ඇත.
+
+තියුණු ආයුධ පහරින් බරපතළ තුවාල ලැබූ කාන්තාව පාදුක්ක දිසා රෝහලට ඇතුළත් කිරීමෙන් පසු වැඩිදුර ප්‍රතිකාර සඳහා හෝමාගම මූලික රෝහලට ඇතුළත් කිරීමෙන් පසු මියගොස් තිබේ.
+
+මෙලෙස ඝාතනයට ලක්ව ඇත්තේ පාදුක්ක, වටරැක ප්‍රදේශයේ පදිංචිව සිටි 65 හැවිරිදි එක්දරු මවකි.
+
+ඝාතනයට සම්බන්ධ සැකකරු මෙතෙක් අත්අඩංගුවට ගෙන නොමැති අතර සිද්ධිය සම්බන්ධයෙන් මීගොඩ පොලිසිය වැඩිදුරටත් පරීක්ෂණ පවත්වයි.
+
+මේ අතර, ගලිකිරියාගම පොලිස් වසමේ බණ්ඩාරපතාන ප්‍රදේශයේ දී පුද්ගලයින් දෙදෙනෙකුට තියුණු ආයුධයකින් හා පොල්ලකින් පහර දී තිබේ.
+
+පොලීසියට ලද පැමිණිල්ලක් මත අදාළ ස්ථානයට ගොස් තුවාලකරුවන් දෙදෙනො දඹුල්ල හා ගල්කිරියාගම රෝහල්වලට ඇතුළුත් කිරීමේ දී එක් අයෙක් මිය ගොස් ඇත.
+
+...
+
+[Data](articles/416fef0c.json)
+
+---
 
 ### University non-academic staff to continue strike action
 
@@ -47,6 +109,8 @@ UTUJC Co-Chairman Dhammika S. Priyantha emphasized that the issue cannot be reso
 ◼️
 
 [Data](articles/0d40467c.json)
+
+[Extended Data](ext_articles/0d40467c.ext.json)
 
 ---
 
@@ -2199,79 +2263,5 @@ Investigators said that it was worth over Rs.
 [Data](articles/377e5403.json)
 
 [Extended Data](ext_articles/377e5403.ext.json)
-
----
-
-### Pattayal in a restaurant in Tirunelveli - Restaurant Sealing
-
-*2024-05-28 19:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/184721) · `ta`
-
-In Tirunelveli, a restaurant was sealed after a public health inspector found in a lunch packet. Following a complaint, the inspector conducted an unscheduled inspection, leading to a fine of 45,000/= for the owner and closure of the restaurant until health standards are met.
-
-🟩
-
-Public Health Inspector Pa, who was found in a packet of lunch at a restaurant in Tirunelveli last Friday.. Sanjeevan got a complaint.
-
-Subsequently, the restaurant on Saturday, Tirunelveli Public Health Inspector Pa. Sanjeevan was subjected to sudden examination.
-
-It was observed that the restaurant was operating with a health remedy without following any previous instructions by the Public Health Inspector.
-
-Following this, a case was filed against the shop owner yesterday (27) at the Additional Magistrate's Court.. The Magistrate, who took the case today, ordered the owner to be fined 45,000/= and ordered the Public Health Inspector to close the shop until the work is completed.
-
-Subsequently, the Public Health Inspector Pa Pa. The restaurant on Sanjeevan was sealed today.
-
-◼️
-
-[Data](articles/d6c9ec2c.json)
-
-[Extended Data](ext_articles/d6c9ec2c.ext.json)
-
----
-
-### Sri Lankan cricket team visited England under 19
-
-*2024-05-28 19:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/184720) · `ta`
-
-The Sri Lankan under-19 cricket team is set to tour England, playing both ODI and Test matches against their English counterparts. The team, selected for this trip, aims to gain valuable experience through this exposure. The tour includes a 50-over practice match before the start of the three-match ODI series at Selport and Glown County Stadium. Following the ODIs, two four-day Test matches are scheduled for July at Wormsley and another location yet to be announced.
-
-🟩
-
-The Sri Lankan team will play under the age of 19 in the ODI and Test cricket against England under the age of 19.
-
-The Sri Lankan team under the age of 19 will be selected for the next month.
-
-Sri Lanka will play under the age of 19 in the England ODIs and the four -day Test cricket matches.
-
-Sri Lanka Cricket has arranged the cricket visit to the Sri Lankan young players to bring better experience to Sri Lankan young players by opposing the country in a different situation.
-
-The Sri Lankan team will travel to England in mid -June and play a 50 -over training match.
-
-This is followed by the first match of the three -match international ODI series between Sri Lanka and England under the age of 19 at the Selport and Glown County Stadium.
-
-The second and third matches will be held on July 1st and 3rd at the Howe Senchary County Ground.
-
-The first four -day youth Test match between the two teams will be held in Wormsle from July 8 to 11 and the second match will be held from July 16 to July 16.
-
-◼️
-
-[Data](articles/cb65010d.json)
-
-[Extended Data](ext_articles/cb65010d.ext.json)
-
----
-
-### NATO Expansion: The Untold Agreement & Its Role In The Ukraine War
-
-*2024-05-28 19:12:38* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/nato-expansion-the-untold-agreement-its-role-in-the-ukraine-war/) · `en`
-
-The ongoing conflict in Ukraine has roots that stretch back decades, to a time when the geopolitical landscape of Europe was dramatically shifting. In the aftermath of the Cold War, as the Soviet Union disintegrated, new alliances and understandings were formed. Among these was an untold agreement between Russia and NATO, which plays a crucial role in understanding the current crisis.
-
-As the Berlin Wall fell and the Iron Curtain was lifted, the world witnessed a remarkable transformation. The Soviet Union’s collapse left the United States as the sole superpower, with the promise of a new era of peace and cooperation. However, this period of optimism was underpinned by delicate negotiations and promises, many of which were not formally documented but were significant in shaping international relations.
-
-...
-
-[Data](articles/30c8910e.json)
-
-[Extended Data](ext_articles/30c8910e.ext.json)
 
 ---

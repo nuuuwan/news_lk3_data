@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-29 16:18:55**
+As of **2024-05-29 16:33:58**
 
 ## Newspaper Stats
 
-*Scraped **27,089** Articles*
+*Scraped **27,091** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,51 @@ islandlk | 1,465
 economynextcom | 1,548
 dailyftlk | 1,591
 adalk | 2,301
-adaderanalk | 3,089
+adaderanalk | 3,090
 tamilmirrorlk | 3,181
 virakesarilk | 4,161
 dailymirrorlk | 4,275
-adaderanasinhalalk | 4,342
+adaderanasinhalalk | 4,343
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,087 (100.0%) of 27,089 articles have been extended.
+27,087 (100.0%) of 27,091 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-29 (Wednesday)
+
+### දිල්ලිය නොසිතූ ලෙස රත්වෙයි
+
+*2024-05-29 16:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197158) · `si`
+
+අද දිනයේ එම නගරයේ උෂ්ණත්වය සෙල්සියස් අංශක 49.9ක් ලෙස සටහන් වී ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+
+මෙම තත්ත්වය තුළ ප්‍රාන්ත බලධාරීන් විසින් ජල හිඟය සම්බන්ධයෙන් අනතුරු ඇඟවීමක් සිදුකර තිබුණි.
+
+මිලියන 30 කට වැඩි ජනගහනයක් සිටින දිල්ලි නගරයේ ජනතාවට උෂ්ණත්වය ඉහළයාම සම්බන්ධ රතු අනතුරු ඇඟවීමේ නිවේදනයක් ද නිකුත් කර ඇති බව සඳහන් වෙයි.
+
+දේශගුණික විපර්යාස හේතුවෙන් ඇතිවන තාප තරංග තීව්‍ර වීම මෙම තත්වයට හේතුවී ඇති බවද විදෙස් වාර්තා වැඩිදුරටත් සඳහන් කළේය.
+
+◼️
+
+[Data](articles/ca509608.json)
+
+---
+
+### Prime Minister issues clarification on Presidential Election
+
+*2024-05-29 16:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/99514/prime-minister-issues-clarification-on-presidential-election) · `en`
+
+Prime Minister Dinesh Gunawardena has confirmed that the Presidential Election will be held in accordance with the Constitution and on the date specified by the Election Commission.
+
+◼️
+
+[Data](articles/6c7fbbd2.json)
+
+---
 
 ### US envoy meets Election Commission members, discuss plans for elections
 
@@ -739,6 +769,8 @@ He further mentioned that the government had been concentrating on resuming vehi
 *2024-05-29 13:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/99510/kdu-lecturer-arrested-over-comments-on-isis-suspects-arrested-in-india) · `en`
 
 UPDATE: Dr. Punsara Amarasinghe, a lecturer at the Kotelawala Defence University (KDU) who was arrested by the CID, has been released on bail by the Fort Magistrate’s Court.
+
+He has been ordered released on a personal bail of Rs. 1 million by the Fort Magistrate’s Court after he was produced before the court today.
 
 Dr. Punsara Amarasinghe, a lecturer at the Kotelawala Defence University (KDU), has been arrested by the Criminal Investigation Department (CID).
 
@@ -2255,61 +2287,5 @@ He said the central bank had decided to maintain its policy interest rate withou
 [Data](articles/ea114eb4.json)
 
 [Extended Data](ext_articles/ea114eb4.ext.json)
-
----
-
-### Put on the soda;Seal to the restaurant
-
-*2024-05-29 08:48:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/சோற்றில்-மட்டைத்தேள்-உணவகத்திற்கு-சீல்/71-338066) · `ta`
-
-A public health inspector visited a restaurant in Tirunelveli after receiving a complaint. Despite an inspection by Sanjeevan, no corrective actions were taken. A case was filed against the owner, fined 45,000/=, and the restaurant was closed until repairs are done.
-
-🟩
-
-Public Health Inspector Pa Pa, at a restaurant in a restaurant in Tirunelveli last Friday. Sanjeevan got a complaint.
-
-Following this, the restaurant on Saturday. Examination was carried out by Sanjeevan.
-
-It has been observed that no correction work has already been made by the Public Health Inspector.
-
-Following this, a case was filed against the shop owner yesterday (27) at the Additional Magistrate's Court.
-
-The magistrate, who took the case yesterday, paid a fine of 45,000/= to the owner and ordered the Public Health Inspector to close the shop until the work is completed.
-
-Subsequently, the Public Health Inspector Pa Pa. The restaurant was sealed by Sanjeevan. Remble
-
-◼️
-
-[Data](articles/51223992.json)
-
-[Extended Data](ext_articles/51223992.ext.json)
-
----
-
-### Put on the soda;Sealing to the restaurant
-
-*2024-05-29 08:48:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/சோற்றில்-மட்டைத்தேள்-உணவகத்திற்கு-சீல்வைப்பு/71-338066) · `ta`
-
-A Public Health Inspector found in a meal from a Tirunelveli restaurant led to an inspection by Sanjeevan. No corrective action was taken, resulting in a case against the owner. The court fined the owner 45,000/= and ordered the shop closed until repairs are done, leading to the restaurant's sealing by Sanjeevan.
-
-🟩
-
-Public Health Inspector Pa, who was found in a lunch parcel of a man who bought lunch last Friday at a restaurant in Tirunelveli area.. Sanjeevan got a complaint.
-
-Following this, the restaurant on Saturday. Examination was carried out by Sanjeevan.
-
-It has been observed that no correction work has already been made by the Public Health Inspector.
-
-Following this, a case was filed against the shop owner yesterday (27) at the Additional Magistrate's Court.
-
-The magistrate, who took the case yesterday, paid a fine of 45,000/= to the owner and ordered the Public Health Inspector to close the shop until the work is completed.
-
-Subsequently, the Public Health Inspector Pa Pa. The restaurant was sealed by Sanjeevan. Remble
-
-◼️
-
-[Data](articles/84497334.json)
-
-[Extended Data](ext_articles/84497334.ext.json)
 
 ---

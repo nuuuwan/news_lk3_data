@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-29 10:05:34**
+As of **2024-05-29 10:18:47**
 
 ## Newspaper Stats
 
-*Scraped **26,993** Articles*
+*Scraped **26,994** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,465
 economynextcom | 1,540
 dailyftlk | 1,591
 adalk | 2,296
-adaderanalk | 3,077
+adaderanalk | 3,078
 tamilmirrorlk | 3,167
 virakesarilk | 4,138
 dailymirrorlk | 4,257
@@ -26,11 +26,29 @@ adaderanasinhalalk | 4,327
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,989 (100.0%) of 26,993 articles have been extended.
+26,993 (100.0%) of 26,994 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-29 (Wednesday)
+
+### University non-academic staff to continue strike action
+
+*2024-05-29 09:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/99502/university-non-academic-staff-to-continue-strike-action) · `en`
+
+The University Trade Union Joint Committee (UTUJC) has announced that university non-academic employees will continue their trade union action.
+
+UTUJC Co-Chairman Dhammika S. Priyantha emphasized that the issue cannot be resolved by merely appointing committees.
+
+“We expected a positive response to the two Cabinet memorandums sent to address long-standing issues in the university system. Instead, another committee has been appointed,” Priyantha stated.
+
+“We went on strike for 27 days, not to see another committee formed. These demands have been accepted as reasonable through previous reports. We have yet to receive an answer from the government, so the union leaders have decided to continue the trade union action,” he added.
+
+◼️
+
+[Data](articles/0d40467c.json)
+
+---
 
 ### Pro-ISIS threat ahead of India-Pakistan T20 World Cup clash in New York
 
@@ -50,39 +68,53 @@ A spokesperson for the International Cricket Council (ICC) said in a statement: 
 
 [Data](articles/9bba8a9f.json)
 
+[Extended Data](ext_articles/9bba8a9f.ext.json)
+
 ---
 
-### අයිස් කිලෝවක් සමඟ පුද්ගලයෙකු දැලේ
+### A person arrested with a kilo of ice
 
 *2024-05-29 09:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197142) · `si`
 
-අයිස් මත්ද්‍රව්‍ය තොගයක් යතුරුපැදියකින් ප්‍රවාහනය කරමින් සිටි පුද්ලගයෙකු මන්නාරම, සවුත්බාර් ප්‍රදේශයේදී අත්අඩංගුවට ගෙන තිබේ.
+In Mannar, police arrested a 44-year-old man from the Sungar area, confiscating 1 kg of ice drugs during a raid based on intelligence from the Mannar Division Crime Investigation Bureau.
 
-පොලීසිය පැවසුවේ මන්නාරම කොට්ඨාස අපරාධ විමර්ශන කාර්යංශයේ නිලධාරීන්ට ලද තොරතුරකට අනුව එම වැටලීම සිදුකර ඇති බවය.
+🟩
 
-සැකකරු සතුව තිබී අයිස් මත්ද්‍රව්‍ය කිලෝ ග්‍රෑම් 01ක් සොයාගෙන තිබේ.
+A large number of ice drug stock was arrested in Mannar, Mannar, Mannar.
 
-අත්අඩංගුවට ගෙන ඇත්තේ 44 හැවිරිදි මන්නාරම සවුත්බාර් ප්‍රදේශයේ පදිංචි පුද්ගලයෙකි.
+Police said that the raid was carried out according to information received by the officers of the Mannar Division Crime Investigation Bureau.
+
+Suspect has found 1 kilograms of ice drugs in the possession.
+
+The arrested were a 44 year old resident of the Sungar area in Mannar.
 
 ◼️
 
 [Data](articles/1d03af68.json)
 
+[Extended Data](ext_articles/1d03af68.ext.json)
+
 ---
 
-### பல ஆறுகளில் நீர்மட்டம் உயர்வு
+### Rise in many rivers
 
 *2024-05-29 09:37:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல-ஆறுகளில்-நீர்மட்டம்-உயர்வு/175-338069) · `ta`
 
-நாட்டில் உள்ள பல ஆறுகளில் நீர்வரத்து தொடர்ந்து அதிகரித்து வருவதாக நீர்ப்பாசன திணைக்களம் தெரிவித்துள்ளது.
+Heavy rains have caused rising water levels in numerous rivers across the country, prompting warnings for residents near riverbanks about potential flooding risks.
 
-அண்மை காலமாக தொடர்ந்து பெய்து வரும் கடும் மழை காரணமாக நாட்டின் பல்வேறு பகுதிகளில் ஆறுகளில் நீர்வரத்து அதிகரித்துள்ளது.
+🟩
 
-இதனால், ஆறுகளை சுற்றியுள்ள தாழ்நில பகுதிகளில் வசிக்கும் மக்கள் வெள்ள அபாயம் குறித்து விழிப்புடன் இருக்குமாறு தொடர்ந்து அறிவுறுத்தப்பட்டு வருகின்றது.
+The Irrigation Department said the water level continues to increase in many rivers in the country.
+
+Due to heavy rains in recent years, water levels in rivers have increased in various parts of the country.
+
+As a result, people living in the lower castes around the rivers are constantly advised to be aware of the flood risk.
 
 ◼️
 
 [Data](articles/b9bc7b2f.json)
+
+[Extended Data](ext_articles/b9bc7b2f.ext.json)
 
 ---
 
@@ -2241,27 +2273,5 @@ As the Berlin Wall fell and the Iron Curtain was lifted, the world witnessed a r
 [Data](articles/30c8910e.json)
 
 [Extended Data](ext_articles/30c8910e.ext.json)
-
----
-
-### President should be extended to two more years
-
-*2024-05-28 19:10:54* · [`adalk`](https://www.ada.lk/breaking_news/තවත්-වසර-දෙකක්-ජනපතිගේ-කාලය-දීර්ඝ-කළ-යුතුයි/11-409881) · `si`
-
-UNP General Secretary Palitha Range Bandara suggests extending President Ranil Wickremesinghe's term by two years, citing economic growth and administrative strength. He implies that either Sajith Premadasa or Anura Dissanayake should initiate this, emphasizing that all MPs should decide.
-
-🟩
-
-UNP General Secretary Palitha Range Bandara said Ranil Wickremesinghe was extended to the President's tenure for two years in the moment.. He stated that Sajith Premadasa or Subject Schantuma Dissanayake should intervene and do so.
-
-He was speaking at the media held at Sirikotha party headquarters today (28). Speaking further Mr. Rangamb Bandara said:
-
-"The economy has strengthened and granted relief to the people and has made the administrative structure into stronger. Education has been realized. So now it is not to be held in an election. Mr. Sajith Premadasa is involved in an intervening or Anura Dissanayake has intervened to be extended to another two years after another two years.. All members of Parliament should take this decision. "
-
-◼️
-
-[Data](articles/39cc6891.json)
-
-[Extended Data](ext_articles/39cc6891.ext.json)
 
 ---

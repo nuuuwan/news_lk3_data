@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-29 20:04:08**
+As of **2024-05-29 20:18:47**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,348
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,141 (100.0%) of 27,143 articles have been extended.
+27,143 (100.0%) of 27,143 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -44,6 +44,8 @@ Two fire trucks have been deployed by the CMC Fire Services Department to douse 
 
 [Data](articles/d5542087.json)
 
+[Extended Data](ext_articles/d5542087.ext.json)
+
 ---
 
 ### Our pleas ignored but we will not give up: Cardinal
@@ -59,6 +61,8 @@ Cardinal Ranjith made this remark after paying his last respects to Tilina Haras
 ◼️
 
 [Data](articles/9df663cf.json)
+
+[Extended Data](ext_articles/9df663cf.ext.json)
 
 ---
 

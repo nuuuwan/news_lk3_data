@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-29 23:34:07**
+As of **2024-05-29 23:53:23**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,351
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,167 (100.0%) of 27,168 articles have been extended.
+27,168 (100.0%) of 27,168 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ Thaksin, 74, denies wrongdoing and has repeatedly pledged loyalty to the crown, 
 ...
 
 [Data](articles/e0596cf4.json)
+
+[Extended Data](ext_articles/e0596cf4.ext.json)
 
 ---
 

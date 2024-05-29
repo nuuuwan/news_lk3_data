@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-29 08:12:29**
+As of **2024-05-29 08:19:56**
 
 ## Newspaper Stats
 
-*Scraped **26,970** Articles*
+*Scraped **26,974** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,21 +12,21 @@ colombotelegraphcom | 238
 dbsjeyarajcom | 265
 bbccomsinhala | 268
 newsfirstlk | 363
-islandlk | 1,463
+islandlk | 1,465
 economynextcom | 1,540
 dailyftlk | 1,591
 adalk | 2,294
 adaderanalk | 3,076
 tamilmirrorlk | 3,161
 virakesarilk | 4,137
-dailymirrorlk | 4,251
+dailymirrorlk | 4,253
 adaderanasinhalalk | 4,323
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,962 (100.0%) of 26,970 articles have been extended.
+26,962 (100.0%) of 26,974 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -147,6 +147,30 @@ In fact, by last evening, President Wickremesinghe began receiving calls from se
 ...
 
 [Data](articles/42d5d552.json)
+
+---
+
+### Central Bank stays pat on rates
+
+*2024-05-29 04:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Central-Bank-stays-pat-on-rates/108-283563) · `en`
+
+Decides to keep the current Standing Lending Facility Rate (SLFR) and the Standing Deposit Facility Rate (SDFR) unchanged at 9.50 percent and 8.50 percent
+
+Mandatory reserve ratio for banks was also left at 2.00 percent
+
+Says the Board observed the need for a further reduction in market lending rates
+
+As widely expected, the Central Bank left its key policy rates unchanged at the policy meeting held this week.
+
+This was largely to provide the previous rate cuts to do their work in bringing down the rest of the market lending rates further as inflation expectations remain well anchored.
+
+At the third monetary policy board meeting held on Monday, the Central Bank decided to keep the current Standing Lending Facility Rate (SLFR) and the Standing Deposit Facility Rate (SDFR) unchanged at 9.50 percent and 8.50 percent respectively.
+
+The mandatory reserve ratio for banks was also left at 2.00 percent.
+
+...
+
+[Data](articles/c082ea9a.json)
 
 ---
 
@@ -373,6 +397,22 @@ New Generation Sri Lanka Chairman Kasun Sigera said: “This year, we wanted to 
 [Data](articles/c6ec1428.json)
 
 [Extended Data](ext_articles/c6ec1428.ext.json)
+
+---
+
+### National Audit Office takes charge of Rs. 400 bn Samurdhi banking system
+
+*2024-05-29 02:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/National-Audit-Office-takes-charge-of-Rs-400-bn-Samurdhi-banking-system/108-283562) · `en`
+
+As a part of the government’s policy decision to regularising Sri Lanka’s Samurdhi banking system, the government has decided to entrust the auditing of the Samurdhi Community Based Banks and Samurdhi Community Based Banking Societies to the National Audit Office (NDO).
+
+President Ranil Wickremesinghe in his capacity as the Minister of Women Affairs and Social Empowerment sought the approval of the Cabinet of Ministers this week to amend the Samurdhi Act No.1 of 2013 as amended by Divineguma (Amendment) Act No. 2 of 2017 and to advise the legal draftsman to prepare the relevant bill for this purpose.
+
+“It has been recognised that auditing Samurdhi Community Based Banks and Samurdhi Community Based Banking Societies by the National Audit Office will also help maintain transparency in their operations and increase public confidence and acceptance,” Cabinet Spokesperson Minister Bandula Gunawardane told the weekly cabinet media briefing yesterday.
+
+...
+
+[Data](articles/a5f195c8.json)
 
 ---
 
@@ -1247,6 +1287,22 @@ He told the media that it was a serious statement and that they have no right to
 [Data](articles/547f207f.json)
 
 [Extended Data](ext_articles/547f207f.ext.json)
+
+---
+
+### Policy interest rates decision plunges bourse into bearish mood
+
+*2024-05-28 21:54:00* · [`islandlk`](http://island.lk/policy-interest-rates-decision-plunges-bourse-into-bearish-mood/) · `en`
+
+CSE trading activities on the floor indicated a bearish stance yesterday as the Central Bank decided to maintain policy rates without adjusting them. Apart from that, further delays in the external debt restructuring exercise created worries for stock market investors, The Island Financial Review learns.
+
+Amid those developments both indices moved downwards. The All Share Price Index went down by 83.2 points while S and P SL20 declined by 27 points. Turnover stood at Rs 916 million with three crossings.
+
+Those crossing were reported in Sampath Bank, which crossed 1.7 million shares to the tune of Rs 133 million; its shares traded at Rs 77.50, NDB, 351,000 shares crossed for Rs 43 million; its shares traded at Rs 78, and Alumax 2.5 million shares crossed for Rs 28.4 million; its shares traded at Rs 11.40.
+
+...
+
+[Data](articles/8551a016.json)
 
 ---
 
@@ -2157,75 +2213,5 @@ The Petition was held in front of the three-member Supreme Court judge, Chief Ju
 [Data](articles/3adb861d.json)
 
 [Extended Data](ext_articles/3adb861d.ext.json)
-
----
-
-### Indians running IT firm with visit visa apprehended
-
-*2024-05-28 17:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Indians-running-IT-firm-with-visit-visa-apprehended/108-283529) · `en`
-
-Colombo, May 28 (Daily Mirror) - A group of Indian nationals who were illegally running an IT based firm in Colombo 7 on mere visit visas to remain in Sri Lanka was taken into custody by the Department of Immigration and Emigration.
-
-The officials of the department’s Investigation Division following an inquiry raided a house in Cinnamon Gardens and took seven males and one female who were in their thirties.
-
-A senior detective from the division told the Daily Mirror that all the foreigners have arrived in the country on visit visas and two of them were found to have overstayed their 14 days visa period.
-
-The arrested female was reportedly the wife of one of the other seven suspects.
-
-Preliminary inquiries revealed that the group had rented a house in Cinnamon Gardens to carry out their IT company and the authorities are conducting further investigations to determine what kind of work they have actually performed in Sri Lanka.
-
-...
-
-[Data](articles/aa124661.json)
-
-[Extended Data](ext_articles/aa124661.ext.json)
-
----
-
-### Sri Lanka minority shareholders of Expolanka Holdings Plc challenge de-listing
-
-*2024-05-28 17:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-minority-shareholders-of-expolanka-holdings-plc-challenge-de-listing-165117/) · `en`
-
-ECONOMYNEXT – A group of shareholders of Expolanka Holdings Plc have filed a case to prevent the delisting, the company said in a stock exchange filing.
-
-“Nine minority shareholders of Expolanka Holdings PLC holding approximately 0.012% of the shares thereof, have filed an application before the Court of Appeal of the Democratic Socialist Republic of Sri Lanka challenging the de-listing of Expolanka Holdings PLC.”
-
-Both the Securities and Exchange Commission of Sri Lanka and the Colombo Stock Exchange have been made parties to the said application, the company said.
-
-The limited Objections of the Respondents are due on Wednesday, May 29 and the matter is fixed for support on the May 31.
-
-SG Holdings, the parent company of Expolanka Holdings Plc, announced on March 1 it was delisting the company from the Colombo Stock Exchange.
-
-SG Holdings Global Pte Ltd, the company’s majority shareholder, said it will purchase its shares from shareholders at 185.00 rupees a share.
-
-...
-
-[Data](articles/1ffae48a.json)
-
-[Extended Data](ext_articles/1ffae48a.ext.json)
-
----
-
-### Don't do that work - State Minister
-
-*2024-05-28 17:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197124) · `si`
-
-State Minister Pipaina Bandara Tennakoon announced the government's efforts to retrieve Sri Lankans involved in the Russian-Ukrainian conflict, criticizing attempts to politicize the matter. The Defense Ministry set up a hotline receiving 451 inquiries and collected statements from 301 individuals.
-
-🟩
-
-Defense State Minister Pipaina Bandara Tennakoon says that the government is fully intervened to obtain Sri Lankans who have joined the Ukrainian and Russia War.
-
-The State Minister said some people are trying to politicize this issue and several of them have already been a picnic.
-
-He said that the Defense Ministry introduced a telephone number and received 451 complaints to provide the information from Russia or Ukraine.
-
-The State Minister also revealed that the police had obtained statements from 301 people.
-
-◼️
-
-[Data](articles/a014c8cf.json)
-
-[Extended Data](ext_articles/a014c8cf.ext.json)
 
 ---

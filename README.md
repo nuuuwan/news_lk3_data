@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-29 12:06:08**
+As of **2024-05-29 12:18:29**
 
 ## Newspaper Stats
 
-*Scraped **27,029** Articles*
+*Scraped **27,033** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,50 +19,120 @@ adalk | 2,297
 adaderanalk | 3,083
 tamilmirrorlk | 3,175
 virakesarilk | 4,142
-dailymirrorlk | 4,260
-adaderanasinhalalk | 4,334
+dailymirrorlk | 4,263
+adaderanasinhalalk | 4,335
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,021 (100.0%) of 27,029 articles have been extended.
+27,029 (100.0%) of 27,033 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-29 (Wednesday)
 
-### மரப்பெட்டி விழுந்து இளைஞன் மரணம்
+### Removal of rock debris begins at Pahala Kadugannawa
+
+*2024-05-29 12:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Removal-of-rock-debris-begins-at-Pahala-Kadugannawa/108-283605) · `en`
+
+Colombo, May 29 (Daily Mirror) - Removing the rock debris that was claimed to be a high-risk at Pahala Kadugannawa is currently underway, Disaster Management Center (DMC) director Pradeep Kodippili said today.
+
+According to the Keagalle district DMC, the Pahala Kadugannawa road will not be closed completely.
+
+They said the rocks will be removed using nets without harming the vehicle movements on the road.
+
+However, Kodippili said that if it becomes essential to close the road the DMC will announce it to the public.
+
+◼️
+
+[Data](articles/b7ee1d84.json)
+
+---
+
+### කාලගුණයෙන් රතු නිවේදනයක්
+
+*2024-05-29 12:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197150) · `si`
+
+තද සුළං සහ රළු මුහුද පිළිබඳව අනතුරු ඇඟවීමේ රතු නිවේදනයක් කාලගුණවිද්‍යා දෙපාර්තමේන්තුව විසින් නිකුත් කර තිබේ.
+
+ඒ අනුව දිවයිනට වටා මුහුදු ප්‍රදේශවල ජනතාවට සැලකිලිමත් වන්නැයි දැනුම්දී තිබේ.
+
+එම ප්‍රදේශවල සුළඟේ වේගය විටින් විට පැ.කි.මී 60 - 70ත් අතර වැඩි වෙන බවත් මුහුද ඉතා රළු වෙන බවත් අදාළ නිවේදනයේ දැක්වේ.
+
+මුහුදු ප්‍රදේශයන්ට නැවත දැනුම්දෙන තුරු යාත්‍රා නොකරන ලෙසට ද නාවික හා ධීවර ප්‍රජාවන්ට දැනුම්දී ඇත.
+
+කල්පිටිය සිට කොළඹ, ගාල්ල සහ හම්බන්තොට හරහා පොතුවිල් දක්වා වෙරළට ඔබ්බෙන් වන මුහුදු ප්‍රදේශවල මුහුදු රළ උස මීටර් 2.5 - 3.5 දක්වා ඉහළ යාහැකිය.
+
+මේ හේතුවෙන් කල්පිටිය සිට කොළඹ, ගාල්ල හරහා මාතර දක්වා ප්‍රදේශවල මුහුදු රළ ගොඩබිමට පැමිණීමේ හැකියාවක් ද පවතී.
+
+◼️
+
+[Data](articles/ff89e3ad.json)
+
+---
+
+### Safety of schoolchildren during bad weather a top priority
+
+*2024-05-29 11:58:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Safety-of-schoolchildren-during-bad-weather-a-top-priority/108-283604) · `en`
+
+Colombo, May 29 (Daily Mirror) - Keeping schoolchildren safe, especially during bad weather, is a top priority in the country's disaster management programme, State Defence Minister Premitha Bandara Tennakoon said.
+
+During an event on disaster management preparedness yesterday at the Disaster Management Centre (DMC), he said that he had requested officials to update and activate district committees to conduct risk assessments and inform the DMC and it would help in preparing effective contingency plans for emergency situations.
+
+While launching the ‘Surakimu’ programme at the DMC headquarters yesterday, the State Defence Minister said that the safety of all students in the country's 10,126 schools must be ensured.
+
+He also said that plans are underway to suggest forming special school committees led by principals, with help from past pupils' associations and parent-teacher associations, after consulting with relevant authorities and state agencies.
+
+...
+
+[Data](articles/adcf1789.json)
+
+---
+
+### Young man's death
 
 *2024-05-29 11:51:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/மரப்பெட்டி-விழுந்து-இளைஞன்-மரணம்/73-338080) · `ta`
 
-வெளிநாட்டிலிருந்து அனுப்பப்பட்ட மரப் பெட்டி ஒன்றை லொரியில் இருந்து வாழைச்சேனையில் வைத்து இறக்கும் போது அது தவறி விழுந்ததில் இளைஞன் ஸ்தலத்திலேயே மரணடைந்துள்ளதாக பொலிஸாரின் விசாரணைகளின்போது தெரிய வந்துள்ளது.
+Mohammed Rimas, a 21-year-old from Azhar Vidyalaya, died instantly when a wooden box fell off a lorry onto him. The incident occurred near a banana plantation. His body is at Valaichenai Resource Hospital for examination while the police investigate.
 
-இவ்வாறு மரணமடைந்த இளைஞன் மீராவோடை தபாலகத்தில் பணிபுரியும் இப்றாகீம் என்பவரின் மகனான பிறைந்துறைச்சேனை அஸ்ஹர் வித்தியாலய வீதியைச் சேர்ந்த 21 வயதுடைய முகம்மது றிமாஸ் என்பவராவார்.
+🟩
 
-மரணமடைந்த இளைஞனின் உடல் வைத்திய பரிசோதனைக்காக வாழைச்சேனை ஆதார வைத்தியசாலையில் வைக்கப்பட்டுள்ளதுடன், விசாரணைகளை வாழைச்சேனை பொலிஸார் மேற்கொண்டு வருகின்றனர்.
+Police investigations revealed that the youth had died on the spot when a wooden box sent from abroad died from a lorry at a banana.
+
+The deceased is Mohammed Rimas, a 21 -year -old from Azhar Vidyalaya, the son of Ibrahim, the son of Ibrahim, who is working in the Meeravodai post office.
+
+The body of the deceased has been placed at the Valaichenai Resource Hospital for medical examination and the police are conducting investigations.
 
 ◼️
 
 [Data](articles/139885ff.json)
 
+[Extended Data](ext_articles/139885ff.ext.json)
+
 ---
 
-### උසස් පෙළ ප්‍රතිඵල එළැඹෙන සඳුදාට පෙර
+### A / L results before Monday
 
 *2024-05-29 11:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197149) · `si`
 
-2023 අධ්‍යයන පොදු සහතික පත්‍ර උසස් පෙළ විභාගයේ ප්‍රතිඵල එළඹෙන සඳුදා දිනට පෙර නිකුත් කිරීමට පියවර ගන්නා බව අධ්‍යාපන අමාත්‍ය සුසිල් ප්‍රේමජයන්ත මහතා පවසයි.
+Susil Premajayantha, Minister of Education, announced that the GCE Advanced Level Examination results will be available before the upcoming Monday. The exams were conducted from January 4th to 31st, with 281,445 candidates participating.
 
-අධ්‍යයන පොදු සහතික පත්‍ර උසස් පෙළ විභාගය පසුගිය ජනවාරි මස 4 වනදා සිට 31 වනදා දක්වා පැවැත්වුණි.
+🟩
 
-ඒ අනුව "අද දෙරණ" කළ විමසීමක දී අධ්‍යාපන අමාත්‍යවරයා සඳහන් කළේ, විභාග ප්‍රතිඵල නිකුත් කිරීමට අවශ්‍ය කටයුතු මේ වන විට විභාග දෙපාර්තමේන්තුව මඟින් සිදුකරමින් පවතින බවය.
+Minister of Education Susil Premajayantha says that the results of the GCE Advanced Level Examination will be released before the next Monday.
 
-ඊට අපේක්ෂකයින් 346,976 දෙනෙකු පෙනීසිටි අතර ඉන් 281,445ක් පාසල් අයදුම්කරුවන් වු බව විභාග දෙපාර්තමේන්තුව පැවසුවේය.
+The GCE Advanced Level Examination held from January 4 to 31 to 31st.
+
+Accordingly, "Ada Derana" inquiry, the Ministry of Education stated that the activities of the Examinations are currently being carried out by the Examination Department.
+
+The Department of Examinations said 281,445 of the candidates have sat the 281,445 school candidates.
 
 ◼️
 
 [Data](articles/97ec970d.json)
+
+[Extended Data](ext_articles/97ec970d.ext.json)
 
 ---
 
@@ -81,6 +151,26 @@ The Grama Niladhari Trade Unions highlighted that numerous issues have arisen co
 ...
 
 [Data](articles/a44ee9e3.json)
+
+[Extended Data](ext_articles/a44ee9e3.ext.json)
+
+---
+
+### US Ambassador discusses upcoming elections with EC officials
+
+*2024-05-29 11:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/US-Ambassador-discusses-upcoming-elections-with-EC-officials/108-283603) · `en`
+
+Colombo, May 29 - US Ambassador to Sri Lanka, Julie Chung, held a meeting with R.M.A.L. Rathnayake, Chairman of the Election Commission to discuss the forthcoming elections in Sri Lanka.
+
+During the meeting, Ambassador Chung raised concerns regarding the conduct of the elections and sought clarity on several issues.
+
+Following the discussion, Ambassador Chung shared on X (formerly Twitter) that the dialogue focused on the significance of free and fair elections as a cornerstone of democratic governance. She emphasized the shared commitment to upholding the integrity of the electoral process.
+
+Chairman Rathnayake assured Ambassador Chung that the elections will be conducted in accordance with the constitutional powers vested in the Election Commission. He reiterated the Commission's dedication to ensuring a transparent and impartial election process.
+
+◼️
+
+[Data](articles/8b99d137.json)
 
 ---
 
@@ -105,6 +195,8 @@ Following a search of the building, a man and woman remain unaccounted for, Finl
 ...
 
 [Data](articles/5f8b3bf9.json)
+
+[Extended Data](ext_articles/5f8b3bf9.ext.json)
 
 ---
 
@@ -157,6 +249,8 @@ The suspect involved in the murder has not been arrested so far and Meegoda Poli
 ◼️
 
 [Data](articles/636f16c1.json)
+
+[Extended Data](ext_articles/636f16c1.ext.json)
 
 ---
 
@@ -292,6 +386,8 @@ The 44-year-old arrestee is a resident of South Bar, Mannar while further invest
 
 [Data](articles/2ff04ae5.json)
 
+[Extended Data](ext_articles/2ff04ae5.ext.json)
+
 ---
 
 ### US billionaire plans submersible trip to Titanic wreck
@@ -378,17 +474,25 @@ Therefore, the plaint was presented requesting an enjoining order preventing for
 
 [Data](articles/1bc04099.json)
 
+[Extended Data](ext_articles/1bc04099.ext.json)
+
 ---
 
-### පෞද්ගලික ආයෝජකයින්ගෙන් ජනපති කළ ඉල්ලීම
+### President requesting from private investors
 
 *2024-05-29 10:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197147) · `si`
 
-ශ්‍රී ලංකාවේ බලශක්ති ක්ෂේත්‍රයේ පරිවර්තනය සහ හරිත වර්ධන ප්‍රයත්නයන් ප්‍රවර්ධනය කිරීම සඳහා දිගුකාලීන සැලැස්මකට සහාය දක්වන ලෙස සහ සංවර්ධනය කරන ලෙස පෞද්ගලික අංශයේ ආයෝජකයින් ඇතුළු සියලුම පාර්ශවකරුවන්ගෙන් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ඉල්ලීමක් කරයි.
+President Ranil Wickremesinghe urges private investors to back a long-term energy sector plan in Sri Lanka, fostering green growth initiatives.
+
+🟩
+
+President Ranil Wickremesinghe requests the support and development of private sector investors to support and develop a long-term plan in the energy sector in Sri Lanka and to promote green growth efforts.
 
 ◼️
 
 [Data](articles/db81a387.json)
+
+[Extended Data](ext_articles/db81a387.ext.json)
 
 ---
 
@@ -2203,79 +2307,5 @@ US Ambassador to Sri Lanka Julie Chung has uploaded a record on her X website re
 [Data](articles/c5e2765b.json)
 
 [Extended Data](ext_articles/c5e2765b.ext.json)
-
----
-
-### Tea and lack of empathy
-
-*2024-05-29 00:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Tea-and-lack-of-empathy/172-283565) · `en`
-
-For years, even before our country received independence, it was the income from the tea industry which formed the backbone of our country’s economy. Even after independence, it was the income from tea that provided the main export earnings that kept the economic wheels of the country turning.
-
-Even today tea provides the third highest portion of the Lankan economy behind the earnings of expatriate workers and the textile trade.
-
-Sri Lanka’s tea export earnings crossed US $ 1 billion for the first time in history in 2008. Sri Lanka is the first country to achieve this feat.
-
-During the financial year 2022 to 2023, according to the Sri Lanka Export Development Board, export earnings from tea made up 12% of merchandise exports, an increase of 3.57 % year-on-year (Y-o-Y) to US$ 111.12 Mn in December 2023 compared to December 2022.
-
-This is despite a drop in production in 2022 because of the industry being hit by a fertiliser shortage caused by an ill-advised agrochemical ban.
-
-...
-
-[Data](articles/655e05f1.json)
-
-[Extended Data](ext_articles/655e05f1.ext.json)
-
----
-
-### From three-wheeler drivers to beach boys: Sri Lanka’s workforce transformation
-
-*2024-05-29 00:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/From-three-wheeler-drivers-to-beach-boys-Sri-Lankas-workforce-transformation/172-283566) · `en`
-
-To end the intergenerational degradation of the country’s youth, the government should create 250,000 university and vocational training opportunities. Else, we are doomed as a nation
-
-For a country that takes pride in its free education system, Sri Lanka has done a miserable job in putting its human capital to productive work.
-
-That is the story since the independence, but let’s leave the first three decades defined by quasi-socialist policies and skyrocketing fertility growths, which created enormous pressure on the state. But the story has not changed much since the economy was liberalized, and population growth is well under control- fertility growth now is barely at replacement level or less.
-
-One might observe a few concerted areas where the bulk of jobs were made available for the Sri Lankan youth during the last four decades.
-
-...
-
-[Data](articles/51eb3ae2.json)
-
-[Extended Data](ext_articles/51eb3ae2.ext.json)
-
----
-
-### Corporate head office – creator or destroyer of value in a conglomerate
-
-*2024-05-29 00:07:33* · [`dailyftlk`](https://www.ft.lk/columns/Corporate-head-office-creator-or-destroyer-of-value-in-a-conglomerate/4-762272) · `en`
-
-The corporate centre of a conglomerate can be value accretive or value destructive to the conglomerate
-
-The best parent companies are those which create more value than any other rival if they owned the same business. Such businesses are deemed to have parenting advantage. In the same way that business strategy gives rise to competitive advantage, it is the corporate level strategy of a conglomerate which gives life to the parenting advantage of a constituent subsidiary. A business will enjoy a parenting advantage only if a parenting opportunity exists. When a corporate parent identifies such opportunities and addresses them with actions which give a positive net present value it will improve the value of the business and, subject to the idiosyncrasies of the market, improve the market value of the parent’s share too
-
-...
-
-[Data](articles/3f3a912f.json)
-
-[Extended Data](ext_articles/3f3a912f.ext.json)
-
----
-
-### Dharmasena’s agarwood  project faces yorker from Central Bank!
-
-*2024-05-29 00:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Dharmasenas-agarwood-project-faces-yorker-from-Central-Bank/108-283567) · `en`
-
-The billboard showing the existence of Pintanna Plantations Pvt Ltd; an institute that has stirred much controversy
-
-Central Bank of Sri Lanka (CBSL) has launched investigations into multiple complaints it has received regarding the collection of cash deposits for plantation investment projects. Recently, the Central Bank disclosed that it has obtained information about institutions accepting deposits from the public primarily for agricultural investments.
-
-...
-
-[Data](articles/a0a39701.json)
-
-[Extended Data](ext_articles/a0a39701.ext.json)
 
 ---

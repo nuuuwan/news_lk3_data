@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-29 11:53:46**
+As of **2024-05-29 12:06:08**
 
 ## Newspaper Stats
 
-*Scraped **27,021** Articles*
+*Scraped **27,029** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,59 +16,169 @@ islandlk | 1,465
 economynextcom | 1,547
 dailyftlk | 1,591
 adalk | 2,297
-adaderanalk | 3,078
-tamilmirrorlk | 3,174
+adaderanalk | 3,083
+tamilmirrorlk | 3,175
 virakesarilk | 4,142
 dailymirrorlk | 4,260
-adaderanasinhalalk | 4,332
+adaderanasinhalalk | 4,334
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,010 (100.0%) of 27,021 articles have been extended.
+27,021 (100.0%) of 27,029 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-29 (Wednesday)
 
-### “நீங்கள் போட்டிக்காக காத்திருங்கள்”: “நாங்கள் உங்களுக்காக காத்திருக்கிறோம்” :ISIS எச்சரிக்கை
+### மரப்பெட்டி விழுந்து இளைஞன் மரணம்
 
-*2024-05-29 11:27:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/நீங்கள்-போட்டிக்காக-காத்திருங்கள்-நாங்கள்-உங்களுக்காக-காத்திருக்கிறோம்-ISIS-எச்சரிக்கை/44-338079) · `ta`
+*2024-05-29 11:51:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/மரப்பெட்டி-விழுந்து-இளைஞன்-மரணம்/73-338080) · `ta`
 
-அமெரிக்காவில் ஆரம்பமாகவிருக்கின்ற ICC, T20 உலகக் கிண்ணப் போட்டிகளுக்கு ஐ.எஸ்.ஐ.எஸ் பயங்கரவாதத் தாக்குதல் நடாத்தப்படும் வகையில் அச்சுறுத்தல் விடுக்கப்பட்டுள்ளது.
+வெளிநாட்டிலிருந்து அனுப்பப்பட்ட மரப் பெட்டி ஒன்றை லொரியில் இருந்து வாழைச்சேனையில் வைத்து இறக்கும் போது அது தவறி விழுந்ததில் இளைஞன் ஸ்தலத்திலேயே மரணடைந்துள்ளதாக பொலிஸாரின் விசாரணைகளின்போது தெரிய வந்துள்ளது.
 
-துப்பாக்கியை முதுகில் சுமந்தவாறு, முகமூடி அணிந்த நபரொருவர், நியூயோர்க் கிரிக்கெட் மைதானத்தை பார்த்துக் கொண்டிருக்கும் வகையில் இந்த படம் சித்திரிக்கப்பட்டுள்ளது.
+இவ்வாறு மரணமடைந்த இளைஞன் மீராவோடை தபாலகத்தில் பணிபுரியும் இப்றாகீம் என்பவரின் மகனான பிறைந்துறைச்சேனை அஸ்ஹர் வித்தியாலய வீதியைச் சேர்ந்த 21 வயதுடைய முகம்மது றிமாஸ் என்பவராவார்.
 
-“நீங்கள் போட்டிக்காக காத்திருங்கள்” என்று எழுதப்பட்டு, ரத்தச் சிவப்பு நிறத்தில் – “நாங்கள் உங்களுக்காக காத்திருக்கிறோம்” என இந்த படத்திலுள்ள நபரின் மீது எழுதப்பட்டுள்ளது.
+மரணமடைந்த இளைஞனின் உடல் வைத்திய பரிசோதனைக்காக வாழைச்சேனை ஆதார வைத்தியசாலையில் வைக்கப்பட்டுள்ளதுடன், விசாரணைகளை வாழைச்சேனை பொலிஸார் மேற்கொண்டு வருகின்றனர்.
 
-மேலும், இந்த வசனம் முடிவுறும் இடத்தில் டைனமைட் குச்சியுடன் கூடிய கடிகாரமொன்று காட்சிப்படுத்தப்பட்டுள்ளது.
+◼️
 
-நாசாவ் ஸ்டேடியத்தில், இந்திய மற்றும் பாகிஸ்தான் அணிகளுக்கு இடையிலான போட்டி   ஜூன் மாதம் 09ம் திகதி நடைபெறவுள்ளது.
-
-இந்த விடயம் தொடர்பில், சர்வதேச கிரிக்கெட் பேரவையின் ஊடகப் பேச்சாளர் கருத்து தெரிவித்துள்ளார்.
-
-“போட்டிக்கு வரும் அனைவரின் பாதுகாப்பும் எங்கள் முதல் முன்னுரிமையாகும், மேலும் எங்களிடம் விரிவான மற்றும் வலுவான பாதுகாப்புத் திட்டம் உள்ளது.” என அவர் கூறியுள்ளார்.
-
-...
-
-[Data](articles/b112f4e5.json)
+[Data](articles/139885ff.json)
 
 ---
 
-### ‘ஜனாதிபதித் தேர்தலை ஒத்திவைக்கும் திட்டம் எதுவுமில்லை’
+### උසස් පෙළ ප්‍රතිඵල එළැඹෙන සඳුදාට පෙර
+
+*2024-05-29 11:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197149) · `si`
+
+2023 අධ්‍යයන පොදු සහතික පත්‍ර උසස් පෙළ විභාගයේ ප්‍රතිඵල එළඹෙන සඳුදා දිනට පෙර නිකුත් කිරීමට පියවර ගන්නා බව අධ්‍යාපන අමාත්‍ය සුසිල් ප්‍රේමජයන්ත මහතා පවසයි.
+
+අධ්‍යයන පොදු සහතික පත්‍ර උසස් පෙළ විභාගය පසුගිය ජනවාරි මස 4 වනදා සිට 31 වනදා දක්වා පැවැත්වුණි.
+
+ඒ අනුව "අද දෙරණ" කළ විමසීමක දී අධ්‍යාපන අමාත්‍යවරයා සඳහන් කළේ, විභාග ප්‍රතිඵල නිකුත් කිරීමට අවශ්‍ය කටයුතු මේ වන විට විභාග දෙපාර්තමේන්තුව මඟින් සිදුකරමින් පවතින බවය.
+
+ඊට අපේක්ෂකයින් 346,976 දෙනෙකු පෙනීසිටි අතර ඉන් 281,445ක් පාසල් අයදුම්කරුවන් වු බව විභාග දෙපාර්තමේන්තුව පැවසුවේය.
+
+◼️
+
+[Data](articles/97ec970d.json)
+
+---
+
+### Government focuses on addressing issues faced by Grama Niladhari Officers
+
+*2024-05-29 11:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/99507/government-focuses-on-addressing-issues-faced-by-grama-niladhari-officers) · `en`
+
+President’s Senior Advisor on National Security and Chief of Presidential Staff Sagala Ratnayaka, has advised relevant officials to find possible solutions to the problems in the Grama Niladhari Service, while ensuring that no conflict arises with other public services.
+
+He emphasized the importance of discussing existing issues thoroughly and reaching a common agreement. This directive was given during a meeting held at the Presidential Secretariat on Tuesday (28), involving officials of the Grama Niladhari Trade Unions and related line institutions, the PMD reported.
+
+There was an extensive discussion regarding the issues related to the Grama Niladhari Service Constitution and the problems that have arisen concerning the salary scale, the statement said.
+
+The Grama Niladhari Trade Unions highlighted that numerous issues have arisen concerning the promotions of Grama Niladhari officers and emphasized the need for a revised service constitution to address these problems.
+
+...
+
+[Data](articles/a44ee9e3.json)
+
+---
+
+### 7 injured, 2 missing after explosion rocks downtown Youngstown, Ohio
+
+*2024-05-29 11:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/99506/7-injured-2-missing-after-explosion-rocks-downtown-youngstown-ohio) · `en`
+
+Seven people were injured, including one critically, and two people remain missing after an explosion rocked downtown Youngstown, Ohio, Tuesday, officials said.
+
+The explosion occurred near Central Square Tuesday afternoon, police said, urging people to avoid the area.
+
+It is unclear what caused the explosion, which impacted a building that contains a Chase bank and apartments, authorities said.
+
+Youngstown Fire Chief Barry Finley had initially characterized the incident as a natural gas explosion, but later said crews were working to determine if there was a gas leak.
+
+“All I know for sure is that there was an explosion,” Finley told reporters during a press briefing Tuesday evening.
+
+Mercy Health said Tuesday evening it is treating seven people who were injured in the incident, including one person in critical condition.
+
+Following a search of the building, a man and woman remain unaccounted for, Finley said. The man is an employee of the bank, the fire chief said.
+
+...
+
+[Data](articles/5f8b3bf9.json)
+
+---
+
+### “Wait for you for competition”: “We're waiting for you”: ISIS Warning
+
+*2024-05-29 11:27:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/நீங்கள்-போட்டிக்காக-காத்திருங்கள்-நாங்கள்-உங்களுக்காக-காத்திருக்கிறோம்-ISIS-எச்சரிக்கை/44-338079) · `ta`
+
+ISIS threatens terror attacks during ICC and T20 World Cup in the U.S., targeting cricket matches including India vs. Pakistan on June 9 at NASA Stadium. The threat includes a masked figure holding a gun near a New York Cricket Ground with a clock and dynamite. The International Cricket Council assures strong security measures for everyone's safety.
+
+🟩
+
+ISIS has been threatened with terrorist attacks for the ICC and T20 World Cup in the United States.
+
+The film is depicted as a masked man, carrying a gun on the back of the gun, is looking at the New York Cricket Ground.
+
+Writing, "Wait for the competition," is written on the person in the film, "We are waiting for you."
+
+Also, a clock with a dynamite stick is displayed at the end of the verse.
+
+The match between India and Pakistan will be held on June 9 at NASA Stadium.
+
+The media spokesman of the International Cricket Council has commented on this.
+
+"The safety of all who come to the competition is our first priority, and we have a comprehensive and strong security plan."He has said.
+
+The ICC T20 World Cup will be held from June 1st to June 29, focusing on the US and West Indies.
+
+◼️
+
+[Data](articles/b112f4e5.json)
+
+[Extended Data](ext_articles/b112f4e5.ext.json)
+
+---
+
+### 65-year-old woman dies in stabbing at Padukka
+
+*2024-05-29 11:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/99505/65-year-old-woman-dies-in-stabbing-at-padukka) · `en`
+
+A woman has been stabbed to death with a sharp weapon inside her house in the Wataraka area of Padukka.
+
+The woman had been stabbed by an unidentified individual this morning (29) after she had reportedly entered the front room of the house for some reason. The attacker had later fled the scene.
+
+The woman, who was critically injured in the attack, had been rushed to the Padukka Divisional Hospital, and was later transferred to Homagama Base Hospital for further treatment where she had succumbed to injuries.
+
+The deceased is a 65-year-old mother of one who was a resident of the Wataraka area of Padukka.
+
+The suspect involved in the murder has not been arrested so far and Meegoda Police is conducting further investigations regarding the incident.
+
+◼️
+
+[Data](articles/636f16c1.json)
+
+---
+
+### There is no plan to postpone the presidential election
 
 *2024-05-29 11:25:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதித்-தேர்தலை-ஒத்திவைக்கும்-திட்டம்-எதுவுமில்லை/175-338078) · `ta`
 
-திட்டமிடப்பட்டது போன்று இவ்வாண்டு ஜனாதிபதித் தேர்தல் நடைபெறும் எனத் தெரிவித்துள்ள அரசாங்க பாராளுமன்ற உறுப்பினர் நிமல் லன்சா, ஜனாதிபதித் தேர்தலை ஒத்தி வைக்கும்  திட்டமெதுவில்லை எனக் கூறியுள்ளார்.
+Nimal Lansa confirms no plans to postpone Sri Lanka's presidential election, aligning with President Ranil Wickremesinghe's stance despite calls from UNP's Palitha Range Bandara for a referendum delay.
 
-தேர்தலை நேரத்துக்குத் நடாத்தும் தனது எண்ணத்தை ஜனாதிபதி ரணில் விக்கிரமசிங்க வெளிப்படுத்தியதாக லன்சா மேலும் குறிப்பிட்டுள்ளார்.
+🟩
 
-சர்வஜன வாக்கெடுப்பொன்றின் மூலம் ஜனாதிபதித் தேர்தலை ஒத்தி வைத்து, பாராளுமன்றத்தை இரண்டு ஆண்டுகள் நீடிப்பதற்கான அழைப்பை ஐக்கிய தேசியக் கட்சியின் பாலித ரங்கே பண்டார அழைப்பு விடுத்தமையைத் தொடர்ந்தே மேற்படி கருத்தை லன்சா வெளிப்படுத்தியுள்ளர்.
+Government parliamentarian Nimal Lansa, who has said that this year's presidential election will be held, has said that there is no plans to postpone the presidential election.
+
+Lansa further stated that President Ranil Wickremesinghe expressed his intention of holding the election.
+
+Lansa has expressed this view following the calling of the United National Party (UNP) Palitha Range Bandara on the invitation to postpone the presidential election by a referendum.
 
 ◼️
 
 [Data](articles/6230c52b.json)
+
+[Extended Data](ext_articles/6230c52b.ext.json)
 
 ---
 
@@ -84,23 +194,31 @@ Colombo District Court Judge Sandun Vithana made this order pursuant to a lawsui
 
 [Data](articles/0b93fe7b.json)
 
+[Extended Data](ext_articles/0b93fe7b.ext.json)
+
 ---
 
-### மைத்திரிக்கு எதிரான தடை நீட்டிப்பு
+### Extension
 
 *2024-05-29 11:22:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மைத்திரிக்கு-எதிரான-தடை-நீட்டிப்பு/175-338077) · `ta`
 
-ஸ்ரீ லங்கா சுதந்திரக் கட்சியின் தலைவராக முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன செயற்படுவதைத் தடுக்கும் வகையில் விதிக்கப்பட்ட தடையை எதிர்வரும் 12ஆம் திகதி வரை நீடிக்குமாறு கொழும்பு மாவட்ட நீதிமன்றம் உத்தரவிட்டுள்ளது.
+Colombo District Court has lifted the ban on Maithripala Sirisena leading SLFP, overturning Chandrika Bandaranaike Kumaratunga's complaint.
 
-முன்னாள் ஜனாதிபதி சந்திரிக்கா பண்டாரநாயக்க குமாரதுங்கவினால் தாக்கல் செய்யப்பட்ட முறைப்பாடு இன்று (29) கொழும்பு மாவட்ட நீதிபதி சந்துன் விதான முன்னிலையில் மீண்டும் விசாரணைக்கு எடுத்துக்கொள்ளப்பட்டது.
+🟩
 
-ஸ்ரீ லங்கா சுதந்திரக் கட்சியின் அரசியலமைப்பின் பிரகாரம், கட்சியின் தலைவராக செயற்படுவதற்கு முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேனவுக்கு சட்டப்பூர்வ உரிமை கிடையாது என முன்னாள் ஜனாதிபதி சந்திரிக்கா தனது முறைப்பாட்டில் தெரிவித்துள்ளார்.
+The Colombo District Court has ordered that the ban on former President Maithripala Sirisena's act as the leader of the Sri Lanka Freedom Party (SLFP).
 
-இதன்படி, குறித்த பதவியில் மைத்திரிபால சிறிசேன பணியாற்றுவதைத் தடுக்கும் வகையில் தடை உத்தரவு பிறப்பிக்குமாறு கோரி இந்த முறைப்பாட்டை சந்திரிக்கா சமர்ப்பித்திருந்தார்.
+The complaint lodged by former President Chandrika Bandaranaike Kumaratunga was taken up again today in the presence of Colombo District Judge Chandun Vidhan.
+
+Former President Maithripala Sirisena has no legal right to act as the party leader of the Sri Lanka Freedom Party (SLFP).
+
+Accordingly, Chandrika has submitted this complaint demanding an injunction to prevent Maithripala Sirisena from working in the post.
 
 ◼️
 
 [Data](articles/57419bfb.json)
+
+[Extended Data](ext_articles/57419bfb.ext.json)
 
 ---
 
@@ -128,6 +246,8 @@ Sri Lanka’s PR status allows persons to work, run businesses, buy or inherit p
 
 [Data](articles/49b8d6bd.json)
 
+[Extended Data](ext_articles/49b8d6bd.ext.json)
+
 ---
 
 ### Sri Lanka new employment act will not prevent age discrimination: minister
@@ -151,6 +271,26 @@ However, the ministry of public administration has advertised that employees wis
 ◼️
 
 [Data](articles/187f0a84.json)
+
+[Extended Data](ext_articles/187f0a84.ext.json)
+
+---
+
+### Suspect arrested while transporting 1kg of ‘Ice’ in Mannar
+
+*2024-05-29 11:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/99504/-suspect-arrested-while-transporting-1kg-of-ice-in-mannar) · `en`
+
+An individual has been arrested while transporting a stock of ‘Ice’ drugs, also known as Crystal Methamphetamine, on a motorcycle at South Bar, Mannar.
+
+The raid was conducted based on a tip-off received by the officers of the Mannar Division Crimes Bureau, police said
+
+One kilogram of ‘Ice’ drugs was found in the possession of the arrested suspect.
+
+The 44-year-old arrestee is a resident of South Bar, Mannar while further investigations are being carried out by the Mannar Police.
+
+◼️
+
+[Data](articles/2ff04ae5.json)
 
 ---
 
@@ -220,6 +360,38 @@ Thus, local meat prices have increased.   அதன்படி, நாரஹ�
 
 ---
 
+### Court extends injunction against Maithripala Sirisena
+
+*2024-05-29 10:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/99503/court-extends-injunction-against-maithripala-sirisena) · `en`
+
+The Colombo District Court has extended the interim injunction issued preventing former President Maithripala Sirisena from functioning as the Chairman of the Sri Lanka Freedom Party (SLFP), until June 12.
+
+The order was issued when the plain filed by former President Chandrika Bandaranaike Kumaratunga was taken up for consideration once again before Colombo District Judge Sandun Withana today (09).
+
+The Judge had then ordered to extend the relevant injunction until June 12.
+
+Former President Chandrika Bandaranaike Kumaratunga, in her complaint, states that as per the constitution of the Sri Lanka Freedom Party (SLFP), former President Maithripala Sirisena has no legal right to function as the Chairman of the party.
+
+Therefore, the plaint was presented requesting an enjoining order preventing former President Maithripala Sirisena from functioning as the SLFP chairman.
+
+◼️
+
+[Data](articles/1bc04099.json)
+
+---
+
+### පෞද්ගලික ආයෝජකයින්ගෙන් ජනපති කළ ඉල්ලීම
+
+*2024-05-29 10:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197147) · `si`
+
+ශ්‍රී ලංකාවේ බලශක්ති ක්ෂේත්‍රයේ පරිවර්තනය සහ හරිත වර්ධන ප්‍රයත්නයන් ප්‍රවර්ධනය කිරීම සඳහා දිගුකාලීන සැලැස්මකට සහාය දක්වන ලෙස සහ සංවර්ධනය කරන ලෙස පෞද්ගලික අංශයේ ආයෝජකයින් ඇතුළු සියලුම පාර්ශවකරුවන්ගෙන් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ඉල්ලීමක් කරයි.
+
+◼️
+
+[Data](articles/db81a387.json)
+
+---
+
 ### 27 people injured in bus
 
 *2024-05-29 10:35:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பஸ்-புரண்டதில்-27-பேர்-காயம்/76-338074) · `ta`
@@ -261,6 +433,8 @@ Commerical is the first bank to make a cash call after bad loans and and a sover
 ◼️
 
 [Data](articles/0a0eec91.json)
+
+[Extended Data](ext_articles/0a0eec91.ext.json)
 
 ---
 
@@ -504,6 +678,8 @@ Returnees have said hundreds of Sri Lankan ex-soldiers and other are serving in 
 
 [Data](articles/a45448ea.json)
 
+[Extended Data](ext_articles/a45448ea.ext.json)
+
 ---
 
 ### Sri Lanka rupee opens stronger at 301.00/20 to US dollar
@@ -523,6 +699,8 @@ The Colombo Stock Exchange opened down. The All Share Price Index was down 0.82 
 ◼️
 
 [Data](articles/d4906922.json)
+
+[Extended Data](ext_articles/d4906922.ext.json)
 
 ---
 
@@ -952,6 +1130,8 @@ To expand however retail sales have to pick up. Capital investments then start a
 
 [Data](articles/da9994be.json)
 
+[Extended Data](ext_articles/da9994be.ext.json)
+
 ---
 
 ### Sri Lanka tightens governance of state banks, limits lending to SOEs
@@ -971,6 +1151,8 @@ Any loans against Treasury guarantees will be subject to a ceiling under an upco
 ...
 
 [Data](articles/e75a3f7e.json)
+
+[Extended Data](ext_articles/e75a3f7e.ext.json)
 
 ---
 
@@ -2095,177 +2277,5 @@ Central Bank of Sri Lanka (CBSL) has launched investigations into multiple compl
 [Data](articles/a0a39701.json)
 
 [Extended Data](ext_articles/a0a39701.ext.json)
-
----
-
-### 2024-05-28 (Tuesday)
-
-### The six face(t)s of CWC Chief Arumugan “Thamby” Thondaman
-
-*2024-05-28 23:50:07* · [`dailyftlk`](https://www.ft.lk/columns/The-six-face-t-s-of-CWC-Chief-Arumugan-Thamby-Thondaman/4-762271) · `en`
-
-Former Cabinet Minister, Nuwara Eliya district Parliamentarian and Ceylon Workers Congress (CWC) leader Arumugan Thondaman would have celebrated his 60th birthday on 29 May, if he were alive today. Thondaman passed away due to a cardiac arrest four days before his 56th birthday four years ago on 26 May 2020. He was serving as a Minister in the cabinet of President Gotabaya Rajapaksa at the time of his death. This week’s “Political Pulse” – with the aid of my previous writings – focuses on Arumugan Thondaman to denote his 60th birth anniversary.
-
-Let me begin with two points about his name and pet name. Thondaman’s first name Arumugan is spelled with an N at the end. However it is frequently misspelled by the media as Arumugam with an M instead of N. I too have been guilty of this error at times. I remember his illustrious grandfather Saumiyamoorthy Thondaman gently admonishing me once “He is Arumugan not Arumugam”.
-
-...
-
-[Data](articles/5005af32.json)
-
-[Extended Data](ext_articles/5005af32.ext.json)
-
----
-
-### The cruelty of 11 students in Jaffna - Saran at the police
-
-*2024-05-28 23:43:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/யாழில்-11-மாணவிகளுக்கு-நடந்த-கொடுமை-பொலிஸில்-சரண்/71-338053) · `ta`
-
-In Jaffna, 11 students aged 10-17 from a school in the Educational Zone have sought refuge at the Kayts police station due to alleged physical abuse and harassment over three years by hostel staff. The victims reported being targeted for mistakes in English pronunciation, not speaking English well, and not memorizing prayers. Following their complaint, the students were hospitalized, and the police initiated an arrest warrant against the hostel staff.
-
-🟩
-
-11 school students between the ages of 10 and 17 who were staying at a school in the Educational Zone in the Education Zone in Jaffna have surrendered to the Kayts police station.
-
-They are unable to withstand the brutal attack of a Christian blessing.
-
-Students have tearfully appealed for the torture of the hostel for the past three years that the hostel is in charge of the stick and the stick and attacking the wall.
-
-It is said that the Arut sister was attacked for reasons for speaking new English pronunciation, English pronunciation mistake, not speaking English properly and not memorizing prayer.
-
-Eleven students have lodged a complaint at the Kayts police station today for fear of telling the school.
-
-The 11 students have been admitted to the Kayts Hospital and the police have taken steps to arrest the hostel.. Remble
-
-◼️
-
-[Data](articles/223286b2.json)
-
-[Extended Data](ext_articles/223286b2.ext.json)
-
----
-
-### No funds this year for addressing public, govt. sector salary anomalies: Minister
-
-*2024-05-28 23:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/No-funds-this-year-for-addressing-public-govt-sector-salary-anomalies-Minister/108-283546) · `en`
-
-Colombo, May 28 (Daily Mirror) - Cabinet Minister Bandula Gunawardana said today that, under public financial management, the government is unable to allocate funds this year to address the salary anomalies demanded by trade unions in the public and government sectors.
-
-Addressing the media, he said several trade unions have requested that the president as well as the government consider their demands.
-
-He mentioned that there is an ongoing trade union action by university non-academic staff members. Additionally, several trade union actions have been launched by the health sector, education sector, and other state institutions over salary anomalies and demands for salary increases.
-
-While explaining the situation, he said that the current budget only includes financial provisions for the changes resulting from the increased salary allowance of Rs.10,000. Therefore, the government is unable to allocate funds to fulfill any recommendations during this financial year.
-
-...
-
-[Data](articles/3e171d89.json)
-
-[Extended Data](ext_articles/3e171d89.ext.json)
-
----
-
-### Democracy is not healthy for democracy
-
-*2024-05-28 22:34:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்களைப்-பிற்போடுவது-ஜனநாயகத்துக்கு-ஆரோக்கியமானதல்ல/175-338052) · `ta`
-
-Namal Rajapakse criticizes extending parliamentary terms as unhealthy for democracy, challenging UNP's core values. He argues this undermines democratic principles, not addressing genuine concerns.
-
-🟩
-
-Parliamentarian Namal Rajapakse has said that such a move would question the basic principles of the United National Party (UNP) Secretary General Palitha Range Bandara, who would hold a referendum to extend the mandate of Parliament.
-
-Namal said that postponing elections is not healthy for any democracy, and that the extension of the term of the president and parliament is questioning the basic policies of the democratic society and that it is not due to the delay in their voice.
-
-◼️
-
-[Data](articles/aaa3b4b4.json)
-
-[Extended Data](ext_articles/aaa3b4b4.ext.json)
-
----
-
-### Railway service is critical, requires significant investments to run efficiently
-
-*2024-05-28 22:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Railway-service-is-critical-requires-significant-investments-to-run-efficiently/108-283545) · `en`
-
-Colombo, May 28 (Daily Mirror) - The railway service in the country is currently in a critical situation, and efficient train usage requires significant investments, Cabinet Spokesman and Transport Minister Bandula Gunawardana said.
-
-Addressing the media, he said that rail tracks need to be replaced every five years, with coastal railway lines requiring even more frequent changes.
-
-"The necessary funds for purchasing railway lines, compartments, and sleepers have been obtained through foreign loan facilities," he said.
-
-"The most recent loan was obtained from the Asian Development Bank (ADB) to purchase 10,000 rail tracks for the railway service. The Northern Railway Line is being renovated under the Indian Credit Line facility. If we do not manage our loan repayments properly, we will not be able to use trains efficiently even if we want to," Minister Gunawardana said.
-
-...
-
-[Data](articles/146650f7.json)
-
-[Extended Data](ext_articles/146650f7.ext.json)
-
----
-
-### State Minister highlights importance of disaster preparedness at school level
-
-*2024-05-28 22:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/99499/state-minister-highlights-importance-of-disaster-preparedness-at-school-level) · `en`
-
-Safeguarding the safety of school children through ensuring a safe school environment especially during prevalent weather-related emergency situations is a top priority in government’s disaster management programme, said State Minister of Defence Premitha Bandara Tennakoon.
-
-He stated this during a meeting held at the Disaster Management Centre in Colombo today (May 28) with media representative after discussions with senior state officials including District and Divisional Secretaries, Education Ministry authorities Environment Ministry officials and INGO representatives on separate occasions regarding disaster management preparedness.
-
-The state minister said that he had requested these officials to update and activate district committees to make risk assessments and appraise the Disaster Management Centre in order for them to prepare contingency plans to face emergency situations effectively.
-
-...
-
-[Data](articles/8d003c8c.json)
-
-[Extended Data](ext_articles/8d003c8c.ext.json)
-
----
-
-### Should the crust defeats be kept?
-
-*2024-05-28 22:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197133) · `si`
-
-The Sri Lankan Kabaddi team suffered two consecutive losses in the Bangabandhu Cup Tournament in Bangladesh. The team tied 28-28 against Kenya in its first match and lost to Bangladesh. Players and coaches were criticized for participating despite concerns raised about selection procedures.
-
-🟩
-
-The Sri Lankan team was defeated by both the first two matches of the Bangabadu Cup Kabadi Tournament in Bangladesh.
-
-The Sri Lankan Kabaddi team continued to receive his second defeat in Bangladesh crude crustaceans.
-
-Sri Lanka was the first match participated in yesterday and a score of 28 to 28 runs in Kenya.
-
-Kabaddi players, trainers have been accused of participating in the tournament.
-
-They referred to a letter to the Ministry of Sports and stated that the cridal authorities have taken steps to select a reserve before the selection matches.
-
-Such a failure was a severe defeat of Sri Lanka Kabaddi team in the first two participants.
-
-◼️
-
-[Data](articles/70f03f65.json)
-
-[Extended Data](ext_articles/70f03f65.ext.json)
-
----
-
-### Prime Group’s ‘88 Residence Kahathuduwa’ Open Day unlocks dream homes offering the finest living experience
-
-*2024-05-28 22:04:00* · [`islandlk`](http://island.lk/prime-groups-88-residence-kahathuduwa-open-day-unlocks-dream-homes-offering-the-finest-living-experience/) · `en`
-
-With a steadfast dedication to making ownership of dream homes a reality for everyone, Prime Group, the local real estate giant, held a much-awaited Open Day at 88 Residence, a luxurious residential development in the heart of Kahathuduwa.
-
-During the Open Day conducted from 17th to 19th May 2024, prospective homebuyers were able to explore the exquisite model house, witnessing first-hand the superior craftsmanship and attention to detail that go into every Prime Group creation.
-
-Under the agreement, aspiring homeowners can secure a home at 88 Residence by paying 25% of the value, approximately Rs.8 million only. Customers are presented with the amazing opportunity to occupy the house immediately with all legal documents prepared and deeds ready for transfer.
-
-Subsequently, Prime Group will bear the interest costs for the first year, ensuring a seamless transition. Representatives from HNB were present at the site during the Open Day to discuss the unprecedented payment plan.
-
-...
-
-[Data](articles/4e44a12d.json)
-
-[Extended Data](ext_articles/4e44a12d.ext.json)
 
 ---

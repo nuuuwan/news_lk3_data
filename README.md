@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-29 09:53:40**
+As of **2024-05-29 10:05:34**
 
 ## Newspaper Stats
 
-*Scraped **26,990** Articles*
+*Scraped **26,993** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,34 +17,94 @@ economynextcom | 1,540
 dailyftlk | 1,591
 adalk | 2,296
 adaderanalk | 3,077
-tamilmirrorlk | 3,166
+tamilmirrorlk | 3,167
 virakesarilk | 4,138
-dailymirrorlk | 4,256
-adaderanasinhalalk | 4,326
+dailymirrorlk | 4,257
+adaderanasinhalalk | 4,327
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,986 (100.0%) of 26,990 articles have been extended.
+26,989 (100.0%) of 26,993 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-29 (Wednesday)
 
-### ගංඟා කිහිපයක ජල මට්ටම ඉහළට
+### Pro-ISIS threat ahead of India-Pakistan T20 World Cup clash in New York
+
+*2024-05-29 09:50:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Pro-ISIS-threat-ahead-of-India-Pakistan-T20-World-Cup-clash-in-New-York/108-283590) · `en`
+
+New York, May 29 (Daily Mail) - There are renewed fears of terrorist attacks at this year's T20 World Cup after a chilling poster was released hinting at bloodshed in New York.
+
+A pro-ISIS outlet released a graphic which showed a hooded man with a rifle over his shoulder. It read 'You wait for the matches...' and then - written in dripping blood-red - 'And we wait for you...'
+
+The poster makes reference to June 9 at 'Nassau Stadium', which is when - and where - bitter rivals India and Pakistan will meet in a group game.
+
+It also includes images of drones flying over the stadium and stick of dynamite with a ticking clock. DailyMail.com understands, however, that the poster has not prompted US authorities to raise the threat level of an attack.
+
+A spokesperson for the International Cricket Council (ICC) said in a statement: 'The safety and security of everyone at the event is our No 1 priority and we have a comprehensive and robust security plan in place.
+
+...
+
+[Data](articles/9bba8a9f.json)
+
+---
+
+### අයිස් කිලෝවක් සමඟ පුද්ගලයෙකු දැලේ
+
+*2024-05-29 09:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197142) · `si`
+
+අයිස් මත්ද්‍රව්‍ය තොගයක් යතුරුපැදියකින් ප්‍රවාහනය කරමින් සිටි පුද්ලගයෙකු මන්නාරම, සවුත්බාර් ප්‍රදේශයේදී අත්අඩංගුවට ගෙන තිබේ.
+
+පොලීසිය පැවසුවේ මන්නාරම කොට්ඨාස අපරාධ විමර්ශන කාර්යංශයේ නිලධාරීන්ට ලද තොරතුරකට අනුව එම වැටලීම සිදුකර ඇති බවය.
+
+සැකකරු සතුව තිබී අයිස් මත්ද්‍රව්‍ය කිලෝ ග්‍රෑම් 01ක් සොයාගෙන තිබේ.
+
+අත්අඩංගුවට ගෙන ඇත්තේ 44 හැවිරිදි මන්නාරම සවුත්බාර් ප්‍රදේශයේ පදිංචි පුද්ගලයෙකි.
+
+◼️
+
+[Data](articles/1d03af68.json)
+
+---
+
+### பல ஆறுகளில் நீர்மட்டம் உயர்வு
+
+*2024-05-29 09:37:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல-ஆறுகளில்-நீர்மட்டம்-உயர்வு/175-338069) · `ta`
+
+நாட்டில் உள்ள பல ஆறுகளில் நீர்வரத்து தொடர்ந்து அதிகரித்து வருவதாக நீர்ப்பாசன திணைக்களம் தெரிவித்துள்ளது.
+
+அண்மை காலமாக தொடர்ந்து பெய்து வரும் கடும் மழை காரணமாக நாட்டின் பல்வேறு பகுதிகளில் ஆறுகளில் நீர்வரத்து அதிகரித்துள்ளது.
+
+இதனால், ஆறுகளை சுற்றியுள்ள தாழ்நில பகுதிகளில் வசிக்கும் மக்கள் வெள்ள அபாயம் குறித்து விழிப்புடன் இருக்குமாறு தொடர்ந்து அறிவுறுத்தப்பட்டு வருகின்றது.
+
+◼️
+
+[Data](articles/b9bc7b2f.json)
+
+---
+
+### The water level of several rivers
 
 *2024-05-29 09:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197141) · `si`
 
-ගංඟා කිහිපයක ජල මට්ටම තවදුරටත් ඉහළ මට්ටමක පවතින බව වාරිමාර්ග දෙපාර්තමේන්තුව පවසයි.
+Several rivers in Sri Lanka, including Attanagalu Oya, Black, Ginguwara Oya, Black, Gin, and Nilwala, are experiencing high water levels due to significant rainfall, particularly in the Kalu River area. The Irrigation Department advises residents in lowland areas to prepare for potential flooding, especially during heavy rains expected in the afternoon and night. However, the Ging and Nilwala Rivers are not currently at risk of flooding.
 
-එහි වාරිමාර්ග ඉංජිනේරු සකුරා දිල්තාරා මහත්මිය සඳහන් කළේ, මෙම තත්ත්වය ගැන දැඩි විමසිල්ලෙන් කටයුතු කරන ලෙස පහත්බිම්වල වෙසෙන ජනතාවගෙන් ඉල්ලා සිටිය යුතු බවය.
+🟩
 
-"ලංකාවේ නිරිත දිග ප්‍රදේශ ඔස්සේ ගලා බසින අත්තනගලු ඔය, කළු, ගිං සහ නිල්වලා යන ප්‍රධාන ගංගාවන් අද උදෑසන වනවිටත් ඉහළ ජල මට්ටමක් වාර්තා කරනවා. විශේෂයෙන්ම කළු ගඟේ ඉහළ ධාරා ප්‍රදේශවලට එනම් රත්නපුර හා ඉන් ඉහළ ධාරා ප්‍රදේශවලට සැලකිය යුතු වර්ෂාපතනයක් පැවතීම නිසා මේ වනවිට රත්නපුර හා ඒ අවට ප්‍රදේශවල ජනතාව අවධානයෙන් සිටිය යුතු මට්ටමට ළඟා වී තිබේ. විශේෂයෙන් අද දහවල් හා රාත්‍රියේ තද වැසි ඇති වුවහොත් මේ තත්ත්වය අනතුරුදායක තත්ත්වයකට පත්විය හැකිය. ගිං සහ නිල්වලා ගඟත් අවධානයෙන් සිටිය යුතු මට්ටමට ළඟා වී ඇති අතර ගංවතුර අවධානමක් නොමැති බව පැවසිය හැකියි."
+The water level of several rivers is further high, says Irrigation Department.
+
+Irrigation Engineer Sakuura, Sakumera, said that the people living in the lowlands should be requested to take care of this situation.
+
+"Attanagalu Oya, Black, Ginguwara Oya, Black, Gin and Nilwala which flows on southwest areas of Sri Lanka reports a high water level this morning. Especially due to a significant rainfall in the Kalu River, Ratnapura and High-current areas, the people of Ratnapura and surrounding areas have reached the level. This situation may be in dangerous in case of heavy rain, especially in the afternoon and night. Ging and the Nilwala River have reached attention and there is no flood risk. "
 
 ◼️
 
 [Data](articles/e40a7605.json)
+
+[Extended Data](ext_articles/e40a7605.ext.json)
 
 ---
 
@@ -65,6 +125,8 @@ The retail prices of a kilo of various meats at the Narahenpita Economic Centre 
 ◼️
 
 [Data](articles/78c69592.json)
+
+[Extended Data](ext_articles/78c69592.ext.json)
 
 ---
 
@@ -1406,6 +1468,8 @@ Central Bank of Sri Lanka (CBSL) has launched investigations into multiple compl
 
 [Data](articles/a0a39701.json)
 
+[Extended Data](ext_articles/a0a39701.ext.json)
+
 ---
 
 ### 2024-05-28 (Tuesday)
@@ -2199,75 +2263,5 @@ He was speaking at the media held at Sirikotha party headquarters today (28). Sp
 [Data](articles/39cc6891.json)
 
 [Extended Data](ext_articles/39cc6891.ext.json)
-
----
-
-### Who are favourites to win T20 World Cup in USA and WI
-
-*2024-05-28 19:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Who-are-favourites-to-win-T20-World-Cup-in-USA-and-WI/108-283538) · `en`
-
-May 28 (Daily Mirror) - T20 is arguably the most unpredictable format of cricket, given that little moments could have a significant effect on the final result. Recently, co-hosts United States of America (USA) defeated Bangladesh, and Ireland defeated Pakistan. In the previous World Cup Sri Lanka were outclassed by Namibia while Netherlands stunned South Africa.
-
-Perhaps the World Cup in the USA and WI could go down as one of the most unpredictable ICC events in the history of the game, considering the fact that nobody seems to have a clear idea on what to expect from the pitches.
-
-...
-
-[Data](articles/41307594.json)
-
-[Extended Data](ext_articles/41307594.ext.json)
-
----
-
-### The suspect who looked at 3 days in the bank
-
-*2024-05-28 19:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197127) · `si`
-
-A suspect, after stealing cash and gold worth 2 kg from the Jaelian Rural Bank in Ja Ela, was tracked through CCTV footage and car registration details. Arrested from a Kollupitiya club, he confessed to the robbery and led authorities to stolen items, including a grinder used to break safes. The suspect, linked to various financial crimes and drug dealings, admitted to selling the stolen gold to buy a car.
-
-🟩
-
-The Peliyagoda Crimes Division has passed 48 hours to get a man of cash and gold stolen from the Jaelian Rural Bank in Ja Ela.
-
-The bank's wall was entrusted with a four-day bank vacation at a four-day bank vacation.
-
-The suspect has entered a side wall of Ja-Ela, a side wall of the Jaly, and entered the Vesak Poya while several days were closed for several days.
-
-There were a stock of gold and stolen of 2 kilograms of Rs.
-
-Peliyagoda Criminal Division Investigation
-
-The police went to an institution in Delgoda, who was used to cut the safest, had gone to a company in Delgoda, who imported the China.
-
-According to reports of them, a person has been observed in three cases of the CCTV cameras in the Ragama area.
-
-The suspects were revealed in the investigation of the car of the vehicle registration number in the car.
-
-Accordingly, the suspect was arrested from a public club in Kollupitiya.
-
-In his interrogation, he was part of the robbery jewelry that he was temporarily looted by the Jaela Rural Bank.
-
-...
-
-[Data](articles/a983bf2d.json)
-
-[Extended Data](ext_articles/a983bf2d.ext.json)
-
----
-
-### වතු රජයට පවරා ගැනීමට සහාය දෙන බව වතු කම්කරු සංගමය කියයි
-
-*2024-05-28 18:59:07* · [`adalk`](https://www.ada.lk/breaking_news/වතු-රජයට-පවරා-ගැනීමට-සහාය-දෙන-බව-වතු-කම්කරු-සංගමය-කියයි/11-409879) · `si`
-
-වතු කම්කරු වැටුප් වැඩි නොකරන සියලුම වතු රජයට පවරා ගැනීම සඳහා සිය සංගමයේ පූර්ණ සහයෝගය ලබාදෙන බව පහත රට වතු කම්කරුවන්ගේ සංගමයේ සභාපති රුවන් ගාල්ලගේ මහතා ඊයේ (28දා) පස්වරුවේදී පිටිගල පැවති මාධ්‍ය හමුවකදී කීවේය.
-
-වතු කම්කරු වැටුප වතු හාම්පුතුන් වැඩි නොකරන්නේ නම්  වතු කම්කරු දීපව්‍යාප්ත වැඩ වර්ජනයකට සූදානම් බවත්, එසේ වුවහොත්  වතු හාම්පුතුන්ට වතු සමාගම් කරගෙන යාමට නොහැකිව රජයට භාරදීම හැර වෙනත් විකල්පයක් නැති බවත් ගාල්ලගේ මහතා මෙහිදී කීවේය.
-
-වතු හාම්පුතුන් වතු කම්කරු වැටුප් වැඩි නොකරන්නේ නම් සිය සංගමය වතු රජයට පවරා ගැනීමේ වැඩපිළිවෙළට වක්‍රව නොව සෘජුවම සහයෝජය ලබාදෙන බවත් ඒ වෙනුවෙන් තමන්ද රජය සමග අත්වැල් බැඳ ගන්නා බවත් ගාල්ලගේ මහතා කීය.
-
-වතු හාම්පුතුන් දන්නා හෝ නොදන්නා කාරණයක් වුවත්, මේ වනවිට වතු කර්මාන්තයෙන් වතු කම්කරුවන් ඉවත්වෙමින් පවතින බවත්, වතු කම්කරුවන්ට ගෙවන අඩු වැටුප නිසා ඔවුන් වැටුප් වැඩි වෙන රස්සාවලට යමින් පවතින බවත් ගාල්ලගේ මහතා කීවේය.
-
-...
-
-[Data](articles/fb3a6117.json)
 
 ---

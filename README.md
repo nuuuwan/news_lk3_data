@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-29 15:53:07**
+As of **2024-05-29 16:06:15**
 
 ## Newspaper Stats
 
-*Scraped **27,078** Articles*
+*Scraped **27,088** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,93 @@ dailyftlk | 1,591
 adalk | 2,301
 adaderanalk | 3,088
 tamilmirrorlk | 3,181
-virakesarilk | 4,153
-dailymirrorlk | 4,274
-adaderanasinhalalk | 4,341
+virakesarilk | 4,161
+dailymirrorlk | 4,275
+adaderanasinhalalk | 4,342
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,074 (100.0%) of 27,078 articles have been extended.
+27,078 (100.0%) of 27,088 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-29 (Wednesday)
+
+### රුසියානු වීසා ගැන රජයෙන් අලුත් තීරණයක්
+
+*2024-05-29 15:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197157) · `si`
+
+ඉදිරියේදී ආරක්ෂක අමාත්‍යාංශයේ පූර්ව අනුමැතිය ලබාදීමෙන් අනතුරුව පමණක් රුසියාවට ගමන් කිරීම සඳහා අපේක්ෂා කරන හිටපු ආරක්ෂක අංශ සාමාජිකයින් සඳහා වීසා නිකුත්කිරීමට කටයුතු කරන බව විදේශ අමාත්‍යවරයා පවසයි.
+
+සිය නිල X ගිණුමේ සටහනක් තබමින් විදේශ අමාත්‍ය අලි සබ්රි මහතා ඒ බව පවසයි.
+
+මේ අතර අද කොළඹදී රුසියානු තානාපති Levan S. Dzhagaryan සමග පැවති හමුවකින් අනතුරුව අමාත්‍යවරයා මේ බව සඳහන් කර තිබේ.
+
+ඉදිරියේදී මේ සම්බන්ධයෙන් වැඩිදුරටත් කටයුතු කිරීමට විදේශ කටයුතු රාජ්‍ය අමාත්‍ය තාරක බාලසූරිය මහතා ද රුසියාවේ සංචාරයක නිරතවීමට නියමිත බවද අමාත්‍යවරයා වැඩිදුරටත් පවසා ඇත.
+
+◼️
+
+[Data](articles/99ebed22.json)
+
+---
+
+### காத்தான்குடியில் போதை மதன லேகியங்களுடன் வர்த்தகர் ஒருவர் கைது
+
+*2024-05-29 15:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/184794) · `ta`
+
+காத்தான்குடி பொலிஸ் பிரிவுக்குட்பட்ட காத்தான்குடி சேர்.ராசீக் பரீட் மாவத்தையிலுள்ள  கடை ஒன்றிலிருந்து 70 மதன லேகியம் பக்கற்றுகள் இன்று புதன்கிழமை (29) காலை கைப்பற்றப்பட்டுள்ளதாக மட்டக்களப்பு மாவட்ட குற்ற விசாரணை பிரிவினர் தெரிவித்தனர்.
+
+இது தொடர்பாக குறித்த வர்த்தக நிலையத்தின் உரிமையாளர் காத்தான்குடியில் கைது செய்யப்பட்டுள்ளார். கைது செய்யப்பட்ட வர்த்தகர் தற்போது காத்தான்குடி பொலிஸ் நிலையத்தில் விசாரணைக்கென தடுத்து வைக்கப்பட்டுள்ளார்
+
+குறித்த நபரிடமிருந்து வர்த்தக நிலையத்தில் விற்பனைக்காக வைக்கப்பட்டிருந்த 70 பக்கற்றுக்கள் மதன லேகியங்கள் கைப்பற்றப்பட்டுள்ளது. அங்கிருந்த  மோட்டார் சைக்கிளும் மாவட்ட குற்ற விசாரணை பிரிவினரால் மீட்கப்பட்டுள்ளது.
+
+தற்போது காத்தான்குடி பொலிஸ் நிலையத்தில் மட்டக்களப்பு மாவட்டகுற்ற விசாரணை பிரிவினர் சந்தேக  நபரையும் லேகிய பக்கட்டுகளையும் ஒப்படைத்துள்ளனர் .
+
+மட்டக்களப்பு நீதவான் நீதிமன்றத்தில் குறித்த நபரை ஆஜர்படுத்துவதற்கான நடவடிக்கைகளை காத்தான்குடி பொலிஸார் மேற்கொண்டுள்ளதாக காத்தான்குடி பொலிஸ் நிலைய பொறுப்பதிகாரி ஜி கஜநாயக்கா தெரிவித்தார்.
+
+◼️
+
+[Data](articles/a29166e0.json)
+
+---
+
+### கசினோவுக்கு அடிமையாகியவர் இரு கூட்டுறவு கிராமிய வங்கிகளை உடைத்துக் கொள்ளை !
+
+*2024-05-29 15:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/184737) · `ta`
+
+இரு கூட்டுறவு கிராமிய வங்கிகளை உடைத்து பல கோடி ரூபா பெறுமதியான தங்க  ஆபரணங்கள் மற்றும் பணம் ஆகியன திருடப்பட்ட சம்பவம் தொடர்பில் குற்றப்புலனாய்வு பிரிவினருக்கு கிடைத்த தகவலின் அடிப்படையில் சந்தேகநபரொருவர் நேற்று செவ்வாய்க்கிழமை (28) கைது செய்யப்பட்டுள்ளார்.
+
+வென்னப்புவ, அங்கம்பிட்டி பகுதியில் உள்ள கூட்டுறவு கிராமிய வங்கியில் 6 கோடி ரூபா பெறுமதியான தங்க ஆபரணங்கள் மற்றும் பணத்தினையும்  ஜா- எல, கனுவான பகுதியிலுள்ள கூட்டுறவு கிராமிய வங்கியிலிருந்து 2 கோடி ரூபா பெறுமதியுடைய தங்க ஆபரணங்கள் மற்றும் பணத்தினையும்  சந்தேகநபர் திருடியுள்ளார்.
+
+கைதுசெய்யப்பட்டவர் பிலியந்தலை மடபாத்த பகுதியைச் சேர்ந்த 30 வயதுடையவர் எனவும், கசினோ விளையாட்டிற்கு அடிமையாகியுள்ள நிலையில் திருட்டு குற்றச் செயல்களில்  ஈடுபடுவதாகவும்  விசாரணையில் தெரியவந்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+அத்தோடு, இரண்டு வங்கிகளிலும் திருடப்பட்ட தங்க ஆபரணங்களை விற்பனை செய்து கிடைத்த பணத்தில் களியாட்ட விடுதிகளுக்குச் சென்று கசினோ விளையாடியதாக சந்தேக நபர் பொலிஸாரிடம் தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/5013d1e8.json)
+
+---
+
+### Defence Ministry clearance mandatory for ex-servicemen traveling to Russia
+
+*2024-05-29 15:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Defence-Ministry-clearance-mandatory-for-ex-servicemen-traveling-to-Russia/108-283617) · `en`
+
+Colombo, May 29 (Daily Mirror) - Sri Lanka has announced that Russia will now require clearance from the Sri Lanka Defence Ministry for issuing visit visas to ex-servicemen.
+
+This decision was made following a constructive meeting between Sri Lanka's Minister of Foreign Affairs, Ali Sabry, and the Russian Ambassador to Colombo, His Excellency Levan S. Dzhagaryan.
+
+The discussions focused on the urgent issue of Sri Lankans being deployed in the ongoing Russia-Ukraine conflict. Both parties agreed on the necessity of immediate steps to address and resolve these pressing concerns. The new visa clearance requirement is part of these measures aimed at regulating and monitoring the involvement of Sri Lankan nationals in the conflict.
+
+Further, the upcoming visit by the Honorable State Minister of Foreign Affairs to Russia is expected to facilitate further dialogue and efforts to find a comprehensive solution to this matter.
+
+◼️
+
+[Data](articles/daee7e74.json)
+
+---
 
 ### Singapore team in Colombo to study immigration system in SL
 
@@ -52,6 +126,24 @@ The Ministry said the delegation assured that the report will be submitted withi
 
 [Data](articles/c7e1558e.json)
 
+[Extended Data](ext_articles/c7e1558e.ext.json)
+
+---
+
+### அக்கரைப்பற்றில் 8 உணவகங்களுக்கு எதிராக சட்ட நடவடிக்கை
+
+*2024-05-29 15:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/184760) · `ta`
+
+கல்முனை பிராந்திய சுகாதார சேவைகள் பணிப்பாளர் வைத்திய கலாநிதி சகீலா இஸ்ஸடீனின் அறிவுறுத்தலுக்கமைய, பிராந்திய சுற்றுச்சூழல் தொழில்சார் சுகாதாரம் மற்றும் உணவுப் பாதுகாப்பு பிரிவின் பொறுப்பு வைத்திய அதிகாரி ஏ.எஸ்.எம்.பெளசாத்  பங்களிப்புடன்  அக்கரைப்பற்று சுகாதார வைத்திய அதிகாரி பணிமனைக்குட்பட்ட பிரதேசங்களில் உணவு கையாளும் நிறுவனங்கள் திடீர் பரிசோதனைக்கு உட்படுத்தப்பட்டன.
+
+அக்கரைப்பற்று, அட்டாளைச்சேனை, ஆலையடிவேம்பு ஆகிய சுகாதார வைத்திய அதிகாரி காரியாலயங்களின் பொதுச்சுகாதார பரிசோதகர்களினால் அக்கரைப்பற்று பிரதேசத்தில் உள்ள வர்த்தக நிலையங்கள் மற்றும் உணவு நிலையங்களில் திடீர் சோதனை நடவடிக்கை மேற்கொள்ளப்பட்டு, மனித நுகர்வுக்கு பொருத்தமற்ற உணவுகள் கைப்பற்றப்பட்டு அவை அழிக்கப்பட்டன.
+
+இதன்போது 65 உணவு கையாளும் நிறுவனங்கள் சோதனை செய்யப்பட்டு அதில் 8 நிறுவனங்களுக்கு எதிராக சட்ட நடவடிக்கையும் எடுக்கப்பட்டுள்ளது.
+
+...
+
+[Data](articles/c3c2ea3b.json)
+
 ---
 
 ### Presidential Election this year - Prime Minister emphatically states
@@ -67,6 +159,8 @@ Speaking to journalists after attending inauguration of Martin Wickramasinghe’
 ...
 
 [Data](articles/364b77f7.json)
+
+[Extended Data](ext_articles/364b77f7.ext.json)
 
 ---
 
@@ -88,27 +182,91 @@ He added that the upcoming visit by the Sri Lanka’s State Minister of Foreign 
 
 [Data](articles/c0405923.json)
 
+[Extended Data](ext_articles/c0405923.ext.json)
+
 ---
 
-### ජනාධිපතිවරණය ගැන ජනපතිගෙන් ප්‍රකාශයක්
+### மயிலத்தமடுவில் கால்நடைகளை துப்பாக்கியால் சுட்டும் மின்வேலியை பயன்படுத்தியும்கொலை செய்கின்றனர் - மனிதர்களை போல அவற்றையும் காணாமலாக்குகின்றனர் - சிவில் சமூக செயற்பாட்டாளர் சிவயோகநாதன்
+
+*2024-05-29 15:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/184786) · `ta`
+
+மட்டக்களப்பு மயிலத்தமடு மாதவனைபகுதியில்  அத்துமீறி குடியேறியவர்களின் அக்கிரமங்கள் இன்றுவரை தொடர்கின்றன, பொலிஸார் இராணுவத்தினரின் உதவியுடன் இவர்கள் தங்கள்  அநீதியான செயற்பாடுகளை முன்னெடுக்கின்றனர், பண்ணையாளர்களின் போராட்டம் 270 நாட்களை கடந்து எந்த தீர்வும் இன்றி தொடர்கின்றது என  மட்டக்களப்பு மாவட்ட  சிவில் சமூக செயற்பாட்டளர்கள் ஒன்றியத்தின்  தலைவர் சிவயோகநாதன் தெரிவித்துள்ளார்
+
+கொழும்பு தேசிய கிறிஸ்தவ சங்கத்தில் இடம்பெற்ற மட்டகளப்பு மயிலத்தமடு பால்பண்ணையாளர்கள் எதிர்கொள்ளும் நெருக்கடி தொடர்பான உரையாடலின் போதே அவர் இதனை தெரிவித்தார்
+
+மனிதர்களை போல கால்நடைகளும் காணாமல் ஆக்கப்படுகின்றனர், அவற்றை கொலை செய்கின்றனர் ,உணவிற்குள் வெடிபொருட்களை வைக்கின்றனர், கூரிய ஆயுதங்களால் வெட்டி கொலை செய்கின்றனர்,  துப்பாக்கியால் சுட்டுக்கொல்கின்றனர் என அவர் தெரிவித்தார்
+
+மட்டக்களப்பு மயிலத்தமடு மாதவனை நீண்ட வரலாற்றை கொண்ட பகுதி  ஐந்து தலைமுறைக்கு மேல் அங்கு கால்நடை வளர்ப்பில் ஈடுபட்டுள்ளனர்.
+
+2013 முதல் 2016 வரை  இதேமாதிரியான  திட்டமிட்ட குடியேற்றங்கள் இடம்பெற்றன - அரசநிகழ்ச்சி நிரலின் கீழ் இவை முன்னெடுக்கப்பட்டன.
+
+...
+
+[Data](articles/ce737fb1.json)
+
+---
+
+### President pays statement about presidential election
 
 *2024-05-29 15:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197156) · `si`
 
-ඉදිරියේදී අනිවාර්යයෙන්ම ජනාධිපතිවරණය පැවැත්වීමට කටයුතු කරන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+President Ranil Wickremesinghe announced future presidential elections during a workshop with young law professionals, emphasizing the importance of the English parliamentary system over the American model due to Sri Lanka's non-federal structure. He highlighted various governmental systems, including the English method, the executive presidential system, and the French system, discussing their pros and cons. The President also touched upon the challenges faced, including the impact of war on the economy and the need for modernization in sectors like agriculture and education. He expressed support for the Animal Welfare Act, noting its current discussion in the Supervisory Committee and prioritization of other legal drafts.
 
-ජනාධිපතිවරයා මේ බව පවසා සිටියේ 'What's New'' තරුණ නීති වෘත්තිකයින් සමග ජනාධිපති කාර්යාලයේ පැවති වැඩමුළුවකට එක්වෙමිනි.
+🟩
 
-මේ අතර ඒ සඳහා මූල්‍ය ප්‍රතිපාදන මේවනවිටත් වෙන්කර ඇති බවද ජනාධිපති රනිල් වික්‍රමසිංහ මහතා එහිදී වැඩිදුරටත් පවසා තිබේ.
+President Ranil Wickremesinghe says that the Presidential Election will be held in the future.
 
-එංගලන්ත පාර්ලිමේන්තුව තුළ යම් නීතියක් සම්මත වූ පසු ඒ පිළිබඳ කිසිවෙකුට ප්‍රශ්න කළ නොහැකියි. පාර්ලිමේන්තුවේ උත්තරීතරභාවයේ පදනම එයයි. උත්තරීතර වන්නේ පාර්ලිමේන්තුවයි.
+The President was speaking at a workshop with young law professionals with young law professionals.
 
-ඇමරිකානු ක්‍රමවේදය මීට වෙනස්. ඇමරිකානු ක්‍රමවේදය මගින්, ඔවුන් යම් නීතියක් කෙටුම්පත් කරන විට, විධායක බලතල ජනාධිපතිටත්, ව්‍යවස්ථාදායක බලතල කොන්ග්‍රසයටත් සහ අධිකරණ බලතල අධිකරණයටත් ලබා දුන්නා.
+President Ranil Wickremesinghe has said that financial allocations have already been allocated.
 
-අපේ රට ෆෙඩරල් ක්‍රමයක් අනුගමනය නොකරන නිසා අප පවත්වාගෙන යන්නේ ඉංග්‍රීසි ක්‍රමයයි.ෆෙඩරල් ක්‍රමයට යාමට ඉන්දියාවට සිදු වූයේ ඔවුන් ෆෙඩරල් රටක් වූ නිසායි. නමුත් අපි ෆෙඩරල් රටක් නොවේ. අපේ රටේ නීති සම්පාදනය පිළිබඳ අවසාන බලතල තිබෙන්නේ පාර්ලිමේන්තුවටයි.
+Once a law passed in the England parliament, no one can interrogate. That was the foundation of the supremacy of Parliament. The Parliament is the Parliament.
+
+American method is different. By the American methodology, when they drafted some law, they gave the executive powers to the executive powers and the Congress Congress and the Court of Justice.
+
+We maintain the English method because our country does not follow a federal way.. But we are not a federal country. Parliament is the final powers of the country's legislation.
 
 ...
 
 [Data](articles/e0e11acb.json)
+
+[Extended Data](ext_articles/e0e11acb.ext.json)
+
+---
+
+### கார்த்திகைப் பூ பொறிக்கப்பட்ட செருப்புகளை சந்தையிலிருந்து அகற்ற வடக்கிலிருந்து கோரிக்கை
+
+*2024-05-29 14:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/184777) · `ta`
+
+வடக்கில் காட்சிப்படுத்தப்பட்ட போது பொலிஸாரால் கேள்வி எழுப்பப்பட்ட மலரான கார்த்திகைப் பூ, மிகப் பெரிய வர்த்தக நிறுவனத்தால், நாடு முழுவதும் வர்த்தக நடவடிக்கைகளுக்கு தடையின்றி பயன்படுத்தப்படுவது சர்ச்சைகளை தோற்றுவித்துள்ளது.
+
+நாட்டின் முதல்தர பாதணிகளை விளம்பரப்படுத்தும் வகையில் தெற்கில் உள்ள நிறுவனம் ஒன்று செருப்புகளில் தமிழ் தேசிய மலரான கார்த்திகை மலரின் உருவத்தை பொறித்துள்ளமையால்  தமிழர்கள் மிகுந்த கவலையடைந்துள்ளனர்.
+
+கார்த்திகை பூக்கள் பொறிக்கப்பட்ட செருப்புகளை சந்தையில் இருந்து உடனடியாக மீளப் பெறுமாறு காலணி தயாரிக்கும் நிறுவனத்திடம் தமிழ் அரசியல் கட்சி ஒன்றின் பேச்சாளர் கேட்டுக்கொண்டுள்ளார்.
+
+“தமிழர்களின் உணர்வுகளைப் புண்படுத்தும் வகையில் வெளியிடப்பட்டுள்ள கார்த்திகைப் பூ பொறிக்கப்பட்ட  பாதணிகளை, உற்பத்தி நிறுவனம் அதனை மீளப்பெற வேண்டுமென விநயமாக வேண்டுகின்றோம்.” என தமிழ்த் தேசிய மக்கள் முன்னணியின் ஊடகப் பேச்சாளர் கனகரட்ணம் சுகாஸ் தனது எக்ஸ் தளத்தில் குறிப்பிட்டுள்ளார்.
+
+...
+
+[Data](articles/e08d7cc6.json)
+
+---
+
+### தெமோதரையில் ரயில் முன் பாய்ந்தவர் படுகாயம் !
+
+*2024-05-29 14:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/184785) · `ta`
+
+எல்ல பொலிஸ் பிரிவுக்குட்பட்ட தெமோதரை ரயில் நிலையத்துக்கு அருகாமையில் உள்ள சுரங்க பாதைக்கு அருகாமையில் நபர் ஒருவர் ரயில் முன் பாய்ந்து உயிரை மாய்க்க முயன்றுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+குறித்த நபர்  உயிரை மாய்க்க முற்பட்டவேளை, படுகாயம் அடைந்த நிலையில் தெமோதரை வைத்தியசாலையில் சிகிச்சைக்காக அனுமதிக்கப்பட்டுள்ளார்.
+
+இதையடுத்து, மேலதிக சிகிச்சைகளுக்காக பதுளை வைத்தியசாலைக்கு மாற்றப்பட்டு அங்கு சிகிச்சை பெற்று வருவதாக பொலிஸார் தெரிவித்தனர்.
+
+34 வயதுடைய உடுவர தோட்டம் 4 ஆம் பிரிவை சேர்ந்த நபரே ரயில் முன்பாய்ந்து உயிரை மாய்க்க முயன்றதாக பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/684d108e.json)
 
 ---
 
@@ -130,6 +288,20 @@ Gen. Sir John Kotalawala Safety University has been granted bail to the lecturer
 
 ---
 
+### பாகிஸ்தானில், தெற்காசிய அரசியலுக்கான புதிய பாடத்திட்டத்தை AI பட்டியலிடுகிறது
+
+*2024-05-29 14:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/184783) · `ta`
+
+எழுதியவர் - நெவிந்தி ஜெயவர்தன மற்றும் தில்ஷான் படதுவாரச்சியுடன் இணைந்து உதித தேவப்ரிய
+
+பெப்ரவரி 8 ஆம் திகதி பாகிஸ்தானியர்கள் தேர்தலுக்கு முகம் கொடுத்த நேரத்தில், இம்ரான் கான் மற்றைய தவறுகள் மற்றும் குற்றச்சாட்டுகளுக்காக 14 ஆண்டுகள் சிறைத்தண்டனையை அனுபவித்தார். ஒரு வாரத்திற்கு முன்பு, நாட்டின் மிகவும் பிரபலமான எதிர்க்கட்சி தலைவரான கான், 10 ஆண்டுகள் பதவியில் இருப்பதிலிருந்து தகுதி நீக்கம் செய்யப்பட்டார். அவரது கட்சியான பாகிஸ்தான் தெஹ்ரீக்-இ-இன்சாஃப் (PTI) வெகுஜன வற்புறுத்தலுக்கும் அடக்குமுறைக்கும் உட்பட்டதுடன், அதன் மத்திய அலுவலகங்கள் பொலிசாரால் சீல் வைக்கப்பட்டன.
+
+...
+
+[Data](articles/44a46851.json)
+
+---
+
 ### Lecturer arrested for false remarks on ISIS granted bail
 
 *2024-05-29 14:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Lecturer-arrested-for-false-remarks-on-ISIS-granted-bail/108-283612) · `en`
@@ -141,6 +313,26 @@ Colombo, May 29 -  The lecturer attached to the General Sir John Kotelawala Def
 [Data](articles/59f3dd41.json)
 
 [Extended Data](ext_articles/59f3dd41.ext.json)
+
+---
+
+### இந்தியாவில் கைதானவர்கள் தொடர்பில் கருத்து தெரிவித்த விரிவுரையாளர் கைது
+
+*2024-05-29 14:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/184781) · `ta`
+
+கொத்தலாவல பாதுகாப்பு பல்கலைக்கழகத்தின் விரிவுரையாளரான புன்சர அமரசிங்க என்பவர் குற்றப் புலனாய்வுப் பிரிவினரால் (CID) கைது செய்யப்பட்டுள்ளார்.
+
+இம்மாதம் 20 ஆம் திகதி இந்தியாவில் குஜராத் மாநிலத்தில் அஹமதாபாத் விமானிநிலையத்தில் ஐ.எஸ்.ஐ.எஸ் பயங்கரவாதிகள் எனக்கூறி சந்தேகத்தில் 4 பேர் கைது செய்யப்பட்டார்கள்.
+
+இந்த நால்வர் தொடர்பில் போலியான தகவல்களை வெளியிட்ட குற்றச்சாட்டில் புன்சர அமரசிங்க  கைது செய்யப்பட்டுள்ளார்.
+
+இவர் அண்மையில் தொலைக்காட்சி ஒன்றுக்கு வழங்கிய நேர்காணலின் போதே இவ்வாறு போலியான தகவல்களை வெளியிட்டிருந்தார்.
+
+இதேவேளை, குற்றப்புலனாய்வுப் பிரிவினரால் கைதுசெய்யப்பட்ட விரிவுரையாளர் கோட்டை நீதிவான் நீதிமன்றில் ஆஜர்படுத்திய நிலையில் அவரை பிணையில் செல்ல அனுமதித்துள்ளது.
+
+◼️
+
+[Data](articles/3b203e6e.json)
 
 ---
 
@@ -2069,235 +2261,5 @@ Thundershowers may be temporarily blowing in the up -and -coming areas. The publ
 [Data](articles/7b1500f3.json)
 
 [Extended Data](ext_articles/7b1500f3.ext.json)
-
----
-
-### Roads inundated
-
-*2024-05-29 08:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Roads-inundated/110-283580) · `en`
-
-Torrential rains caused minor flooding in the Kirindivita area of Gampaha yesterday. Several roads were inundated, leading to traffic disruptions. Pix by Kushan Pathiraja
-
-◼️
-
-[Data](articles/3d9b18ac.json)
-
-[Extended Data](ext_articles/3d9b18ac.ext.json)
-
----
-
-### 55 Approval of the proposal to benefit all workers
-
-*2024-05-29 08:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197140) · `si`
-
-Minister Manusha Nanayakkara approves a proposal for universal worker benefits, including pensions for those without existing schemes like ETF/EPF. Legal preparations are underway, and registration is encouraged through www.garusaru.lk for journalists, painters, and three-wheel drivers among others.
-
-🟩
-
-The Minister of Manusha Nanayakkara has approved the proposal to provide a social security benefit to all workers in various industries to provide a social security benefit.
-
-He said that the preparation of legal provisions has already begun to prepare the procedure for the procedure, which is prepared in parallel to this process.
-
-He said that a number of syllabus has already been registered under www.garusaru.lk.
-
-"Controllerate journalists, journalists, painters, three-wheelers, three-wheelers, three-wheeler drivers, register and strengthen their dignity in particular.. I found approval to build the Cabinet report. The country's workforce gets a pension for the public sector. The private sector is getting ETF / EPF. However, we are given to those who have not taken other in Sri Lanka when 55 years old, a social welfare system. They too provide a pension right. We will start the methodology that we submit to the Cabinet next week. "
-
-◼️
-
-[Data](articles/1ec44ae0.json)
-
-[Extended Data](ext_articles/1ec44ae0.ext.json)
-
----
-
-### Netherlands to win the first training match
-
-*2024-05-29 08:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197139) · `si`
-
-In the first training match for the World Cup, the Netherlands won against Sri Lanka after scoring 181 runs in 20 overs. Despite losing 20 runs initially, Sri Lanka managed to score 161 runs but fell short of the target set by the Netherlands. Key performers included Venjandu Hasarangitiya with 43 runs off 15 balls and Views with 35 runs. The next match is against Ireland on May 31.
-
-🟩
-
-The Sri Lankan team had lost 20 runs in the first training match for the World Cup.
-
-Sri Lanka invited the Sri Lankan team to bat first, winning the toss and elected to the tournament in the match of the United States.
-
-Accordingly, the Netherlands team scored 181 runs for the loss of 5 wickets at the end of 20 overs.
-
-Sri Lanka's major bowlers were sent to the Sri Lankan team in the first round of the World Cup.
-
-Sri Lanka were able to join a target of 182 runs in 18 overs and won 161 runs in their bodies.
-
-When Sri Lanka's early picins failed, Venjandu Hasarangitiya scored 43 runs off 15 balls.
-
-Views scored 35 runs off 20 balls while Dhananjaya de Silva de Silva scored 31 runs.
-
-The second training match will be held against Ireland on May 31.
-
-◼️
-
-[Data](articles/0eceae21.json)
-
-[Extended Data](ext_articles/0eceae21.ext.json)
-
----
-
-### An announcement that the owners of risk trees should accept its owners
-
-*2024-05-29 07:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197138) · `si`
-
-Owners of properties with risky trees must comply with new regulations announced today. The Colombo Municipal Commissioner warns of actions against unsafe trees on both private and public lands. Complaints about potential damage have led to this decision, emphasizing the responsibility of landowners towards tree safety on their properties. Legal measures will be taken to remove hazardous trees and protect buildings from falling debris.
-
-🟩
-
-Legal announcements are to be issued from today's private and state lands, located at risk of risky trees.
-
-The Colombo Municipal Commissioner Bhadrani Jayawardena says that action will be taken.
-
-"We receive complaints that private lands and government institutions can fall. If there is a land owner, a government agency has the right to the safety and responsibility of all the property within their land. Thus they also be responsible for the trees of the land. If there is such insecure, it's really wrong. We studied this legal announcement as per the Municipal Council Ordinance. Accordingly, we are released to remove these trees and take necessary steps to prevent the crash to institutions and personal houses in dangerous trees. "
-
-◼️
-
-[Data](articles/ce55d10b.json)
-
-[Extended Data](ext_articles/ce55d10b.ext.json)
-
----
-
-### Sri Lanka retail sales picking up, private credit expected to follow: CB Governor
-
-*2024-05-29 07:53:00* · [`economynextcom`](https://economynext.com/sri-lanka-retail-sales-picking-up-private-credit-expected-to-follow-cb-governor-165173/) · `en`
-
-ECONMYNEXT – Sri Lanka’s retail sales are picking up and private credit is expected to follow in the second half of the year if businesses begin investing for expansion, Central Bank Governor Nandalal Weerasinghe said.
-
-Though private credit is positive it is still ‘sluggish’ , the central bank said.
-
-Businesses are trying to de-leverage after a currency crisis, and also re-negotiate old loans with lower interest rates as complaints from the SME sector shows.
-
-De-leveraging is part of a credit cycle that improves the balance sheets of business across the board and leaves them in a stronger position to expand in the future.
-
-To expand however retail sales have to pick up. Capital investments then start as existing capacity or slack runs out and there is more confidence in the future.
-
-“We have seen retail sales picking up in the recent past,” Governor Weerasinghe said. “I think that will push up some of the SME borrowings in the coming months.”
-
-...
-
-[Data](articles/da9994be.json)
-
-[Extended Data](ext_articles/da9994be.ext.json)
-
----
-
-### Sri Lanka tightens governance of state banks, limits lending to SOEs
-
-*2024-05-29 07:52:00* · [`economynextcom`](https://economynext.com/sri-lanka-tightens-governance-of-state-banks-limits-lending-to-soes-165188/) · `en`
-
-ECONOMYNEXT – Sri Lanka is tightening governance of state banks to reduce state bank lending, especially to loss-making state enterprises, which have been used for off-budget spending in the past, a finance ministry statement said.
-
-“The balance sheets of state-owned banks have been used to absorb losses of State-owned Enterprises and help finance large fiscal deficits, thereby delaying reforms and accumulating debts, which contribute to the economic crisis,” the statement said.
-
-State banks in the future will finance SOEs on commercial terms, competing with private sector banks. Any dollar loans will be in line with their net open position exposures.
-
-Loans to loss making SOEs beyond 5 percent of equity will require special board approval and risk management sign off.
-
-Any loans against Treasury guarantees will be subject to a ceiling under an upcoming fiscal management law.
-
-...
-
-[Data](articles/e75a3f7e.json)
-
-[Extended Data](ext_articles/e75a3f7e.ext.json)
-
----
-
-### Heavy showers expected in parts of the island
-
-*2024-05-29 07:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/99500/heavy-showers-expected-in-parts-of-the-island) · `en`
-
-The prevailing showery and windy conditions over the island are expected to continue further, due to the active Southwest monsoonal condition, says the Meteorology Department.
-
-Showers will occur at times in Western, Sabaragamuwa, Central, North-western and Southern provinces.
-
-Heavy showers above 100mm are likely at some places in Western and Sabaragamuwa province and in Nuwara-Eliya district.
-
-Showers or thundershowers will occur at a few places in Uva province and in Ampara and Batticaloa districts in the evening or night.
-
-Strong winds of about 50-60 kmph can be expected at times over Western slopes of the central hills and in Northern, North-central, Western, Southern and North-western provinces and in Trincomalee and Monaragala districts.
-
-The sea areas around the island will be very rough due to the active south-west monsoonal condition. Naval and fishing communities are advised not to venture into the sea areas around the island, until further notice.
-
-...
-
-[Data](articles/b3cf8b3a.json)
-
-[Extended Data](ext_articles/b3cf8b3a.ext.json)
-
----
-
-### Sacred solution to Grama Niladhari pay issue
-
-*2024-05-29 07:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197137) · `si`
-
-Presidential consultant Sagala Ratnayake has directed officials to resolve Grama Niladhari service issues, including wages and promotions. A meeting was held involving the Grama Niladhari Federation, where discussions focused on addressing these concerns. The federation aims to draft a service minute outlining necessary actions, which will then be presented to the Public Service Commission. This initiative underscores the importance of the Grama Niladhari service in rural areas.
-
-🟩
-
-Senior Presidential Consultant and Presidential Staff Head of the President Sagala Ratnayake has instructed the relevant officials to propose to address the issues of the Grama Niladhari Service.
-
-The Presidential Media Unit stated that the officials have instructed the officials to discuss existing issues and come to a common agreement.
-
-Speaking at a discussion held at the Presidential Secretariat, Sagala Ratnayake has joined the Grama Niladhari Federation Federation and the officers of the Grama Niladhari Federation.
-
-The issues of the Grama Niladhari Service and issues have been discussed at length about the issues that have arisen about the wage plane.
-
-The Grama Niladhari Federation Federation has said that a number of issues regarding the promotions of the Grama Niladhari Service should be drafted and drafting the service minute.
-
-Sagala Ratnayake has informed the Service Minute on the Service Minute of the Public Service Commission.
-
-...
-
-[Data](articles/0a5f3b2d.json)
-
-[Extended Data](ext_articles/0a5f3b2d.ext.json)
-
----
-
-### Triple tragedy for mother of four
-
-*2024-05-29 07:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Triple-tragedy-for-mother-of-four/108-283572) · `en`
-
-She laments enduring four months without electricity, and two weeks of water scarcity
-
-In a distressing tale from Kebithigolleva, a 33-year-old mother of four found herself in dire circumstances as she laments enduring four months without electricity, two weeks of water scarcity, and the recent loss of her husband, the main breadwinner who supported the family through odd jobs.
-
-The grieving mother found herself thrust into a challenging situation following the tragic death of her husband, PK Chaturanga (34). The father of her two school-going children - a 6th grade boy and 4th grade girl, they also have another 2-year-old boy and a 40-day-old baby - her husband lost his life after a sudden collision with a cow while riding a motorcycle. The incident occurred near their residence, leaving the family shattered.
-
-...
-
-[Data](articles/072d8e28.json)
-
-[Extended Data](ext_articles/072d8e28.ext.json)
-
----
-
-### University non-academic staff
-
-*2024-05-29 07:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197136) · `si`
-
-Non-academic staff at a university have extended their strike, criticizing the appointment of committees as insufficient solutions. Their co-chairman, Dhammika S. Priyantha, urges the government to address their demands after 27 days of striking, expressing frustration over the formation of yet another committee without progress. Trade union leaders have decided unanimously to maintain the strike, highlighting the need for direct action from the government.
-
-🟩
-
-The strike begins to continue in university non-academic workers will continue to continue the strike.
-
-Its co-chairman, Dhammika S. Priyantha stated that this problem cannot be addressed only by appointing committees.
-
-"We hoped that the seventh party that the strike is aimed at the government for many years to find a solution to the Cabinet of Cabinet.. We have not yet been an official answer regarding this. We hear that another committee was appointed. Therefore, we need to tell the government earnestly, for 27 days of the university employees have made a strike for 27 days to appoint another committee. These committees have accepted that these requests are fair. Another committee of another committee leaving time. The trade union leaders have come into unanimous decision to continue the trade union action. "
-
-◼️
-
-[Data](articles/eac492a2.json)
-
-[Extended Data](ext_articles/eac492a2.ext.json)
 
 ---

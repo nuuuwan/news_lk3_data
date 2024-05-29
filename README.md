@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-29 16:33:58**
+As of **2024-05-29 16:50:32**
 
 ## Newspaper Stats
 
-*Scraped **27,091** Articles*
+*Scraped **27,098** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,38 +15,98 @@ newsfirstlk | 363
 islandlk | 1,465
 economynextcom | 1,548
 dailyftlk | 1,591
-adalk | 2,301
+adalk | 2,302
 adaderanalk | 3,090
 tamilmirrorlk | 3,181
-virakesarilk | 4,161
+virakesarilk | 4,166
 dailymirrorlk | 4,275
-adaderanasinhalalk | 4,343
+adaderanasinhalalk | 4,344
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,087 (100.0%) of 27,091 articles have been extended.
+27,091 (100.0%) of 27,098 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-29 (Wednesday)
 
-### දිල්ලිය නොසිතූ ලෙස රත්වෙයි
+### උතුරු කොරියාවෙන් දකුණට අපද්‍රව්‍ය පිරවූ බැලූන
+
+*2024-05-29 16:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197159) · `si`
+
+අපද්‍රව්‍ය සහිත බැලූන 260ක් පමණ දකුණු කොරියාවේ විවිධ ස්ථානවලට පතිත වී ඇති බව එරට බලධාරීන් පවසයි.
+
+උතුරු කොරියාවෙන් එම බැලූන එවා ඇති බවට සැකකෙරෙන අතර එම බැලුන වැටුණු ප්‍රදේශවල ජනතාවට නිවෙස් තුළට වී සිටින ලෙසත් එම බැලුන ස්පර්ශ කිරීමෙන් වළකින ලෙසත් දකුණු කොරියානු බලධාරීන් දැනුම්දී තිබේ.
+
+සුදු වර්ණයෙන් යුතු බැලුන දකුණු කොරියාවේ ප්‍රාන්ත 8කට හෝ 9කට පතිත වී ඇති බව වාර්තා වෙයි.
+
+◼️
+
+[Data](articles/99488cbd.json)
+
+---
+
+### சீரற்ற காநிலையால் நுவரெலியாவில் 171 குடும்மபங்கள் பாதிப்பு
+
+*2024-05-29 16:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/184801) · `ta`
+
+மலையகத்தில் நிலவும் கன மழை மற்றும் பலத்த காற்றுடன் கூடிய சீரற்ற காலநிலை காரணமாக நுவரெலியா மாவட்டத்தில் 171 குடும்பங்களைச் சேர்ந்த 623 பேர் பாதிக்கப்பட்டுள்ளதாக நுவரெலியா அனர்த்த முகாமைத்துவ பிரிவின் உதவிப் பணிப்பாளர் நிமல் பண்டார தெரிவித்தார்.
+
+இந்த சீரற்ற காலநிலை காரணமாக  நுவரெலியா மாவட்டத்தின் நான்கு பிரதேச செயலகப் பிரிவுகள் கடுமையாகப் பாதிக்கப்பட்டுள்ளது. தொடர்ச்சியாக பெய்து வரும் கன மழை காரணமாக நுவரெலியா  மாவட்டத்தில் 159 வீடுகள் பகுதியளவில் சேதமடைந்துள்ளன.
+
+அதன்படி, வலப்பனை பிரதேச செயலக பிரிவில் 47 குடும்பங்களைச் சேர்ந்த 195 பேரும், நுவரெலியா பிரதேச செயலக  பிரிவில்  9 குடும்பங்களைச் சேர்ந்த 40 பேரும், ஹங்குரான்கெத்த பிரதேச செயலக பிரிவில் 45 குடும்பங்களைச் சேர்ந்த 136 பேரும், கொத்மலை பிரதேச செயலக  பிரிவில் 70 குடும்பங்களைச் சேர்ந்த 252 பேரும் பாதிக்கப்பட்டுள்ளனர்.
+
+...
+
+[Data](articles/4d3efda1.json)
+
+---
+
+### முல்லைத்தீவு - கேப்பாபிலவில் 14 வயது சிறுமி பாலியல் துஷ்பிரயோகம் ;  சந்தேகநபர் கைது
+
+*2024-05-29 16:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/184800) · `ta`
+
+முல்லைத்தீவில் சாப்பாட்டுக்கடை உரிமையாளரால் பாடசாலை சிறுமி பாலியல் துஷ்பிரயோகத்திற்குட்பட்ட சம்பவம் ஒன்று இடம்பெற்றுள்ளது.
+
+முல்லைத்தீவு கேப்பாபிலவில்  உணவுக்கடை நடாத்திவரும் நபர் ஒருவரால் 14 வயதுடைய பாடசாலை மாணவி பாலியல் துஷ்பிரயோகம் செய்யப்பட்டுள்ளமை தெரியவந்துள்ளது.
+
+குறித்த சிறுமியின்  உடலில் திடீரென ஏற்பட்ட மாற்றத்தினை அவதானித்த பெற்றோர்  முல்லைத்தீவு மாவட்ட வைத்தியசாலைக்கு அழைத்து சென்று பரிசோதனைக்குட்படுத்தியதில்  குறித்த  சிறுமி மூன்று மாத  கர்ப்பமாக இருந்தமை தெரியவந்துள்ளது.
+
+இதனையடுத்து  குறித்த விடயம் பொலிஸாருக்கு  தெரியப்படுத்தப்பட்டதனை தொடர்ந்து  விசாரணை மேற்கொண்ட முள்ளியவளை  பொலிஸார் குறித்த சிறுமியின் நிலைக்கு காரணமான  நபரை கைது செய்துள்ளனர்.
+
+கைது செய்யப்பட்ட குறித்த  நபரை நேற்று செவ்வாய்க்கிழமை (28) நீதிமன்றில் முற்படுத்தியபோது எதிர்வரும் 6 ஆம் திகதிவரை விளக்கமறியலில் வைக்க நீதவான் உத்தரவிட்டுள்ளார்.
+
+கைது செய்யப்பட்ட குறித்த சந்தேக  நபர்  முல்லைத்தீவு கேப்பாபிலவில்  உணவுக்கடை நடாத்தி வரும் 55 வயது மதிக்கத்தக்கவர் என்பதும்  குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/1adb2a0f.json)
+
+---
+
+### Delhi is unexpected
 
 *2024-05-29 16:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197158) · `si`
 
-අද දිනයේ එම නගරයේ උෂ්ණත්වය සෙල්සියස් අංශක 49.9ක් ලෙස සටහන් වී ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+Delhi faces an unprecedented heatwave with temperatures reaching 49.9°C, leading to water shortages and a health alert for its over 30 million residents due to the severe impact of climate change.
 
-මෙම තත්ත්වය තුළ ප්‍රාන්ත බලධාරීන් විසින් ජල හිඟය සම්බන්ධයෙන් අනතුරු ඇඟවීමක් සිදුකර තිබුණි.
+🟩
 
-මිලියන 30 කට වැඩි ජනගහනයක් සිටින දිල්ලි නගරයේ ජනතාවට උෂ්ණත්වය ඉහළයාම සම්බන්ධ රතු අනතුරු ඇඟවීමේ නිවේදනයක් ද නිකුත් කර ඇති බව සඳහන් වෙයි.
+The city temperature is 49.9 degrees Celsius today, foreign media reports.
 
-දේශගුණික විපර්යාස හේතුවෙන් ඇතිවන තාප තරංග තීව්‍ර වීම මෙම තත්වයට හේතුවී ඇති බවද විදෙස් වාර්තා වැඩිදුරටත් සඳහන් කළේය.
+In this situation, the state authorities have warned the shortage of water.
+
+The people of Delhi has issued a population of more than 30 million people have also issued a red warning notification regarding the temperature increases.
+
+The intensifying the heat of the heat caused by climate change has been caused by this situation.
 
 ◼️
 
 [Data](articles/ca509608.json)
+
+[Extended Data](ext_articles/ca509608.ext.json)
 
 ---
 
@@ -59,6 +119,90 @@ Prime Minister Dinesh Gunawardena has confirmed that the Presidential Election w
 ◼️
 
 [Data](articles/6c7fbbd2.json)
+
+[Extended Data](ext_articles/6c7fbbd2.ext.json)
+
+---
+
+### A businessman arrested with drug league in Kattankudi
+
+*2024-05-29 16:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/184794) · `ta`
+
+In Kattankudi, a businessman was arrested for drug trafficking after 70 Madana Legiyam sides were found in his shop. The owner is detained for questioning, and 70 pages of sales records and a motorcycle were seized. The case is now with the Batticaloa District Investigation Division, preparing to take the suspect to court.
+
+🟩
+
+The Batticaloa District Criminal Investigation Division said that 70 Madana Legiyam sides have been seized from a shop in Kattankudy Police Division from Kattankudy Police Division.
+
+The owner of the shopping center has been arrested in Kattankudi. The arrested businessman is currently detained at the Kattankudy police station for interrogation
+
+70 pages of sale at the trade center from the person have been seized. The motorcycle has also been recovered by the District Criminal Investigation Division.
+
+At present, the Batticaloa District Investigation Division has handed over the suspect and Legiya packets at the Kattankudy police station.
+
+Kattankudy Police Station Superintendent G. Gajanayake said that the Kattankudy Police have taken steps to bring the person to the Batticaloa Magistrate's Court.
+
+◼️
+
+[Data](articles/a29166e0.json)
+
+[Extended Data](ext_articles/a29166e0.ext.json)
+
+---
+
+### 7 வயதுடைய சிறுவனை தலைகீழாக கட்டிதொங்க விட்ட தாய் கைது
+
+*2024-05-29 16:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/184798) · `ta`
+
+மட்டக்களப்பு ஏறாவூர் பொலிஸ் பிரிவிற்கு உட்பட்ட சாதாட் கிராமத்தில் தனது மகனை தலைகீழாக கட்டி தொங்கவிட்டு தடியால் தாக்கியதாக குறித்த பெண்ணின் கணவரால் ஏறாவூர் பொலிஸ் நிலையத்தில் முறைப்பாடு செய்யப்பட்டுள்ளதாக ஏறாவூர் பொலிஸார் தெரிவித்தனர்.
+
+குறித்த பெண் முதல் கணவரால் கைவிடப்பட்ட நிலையில் புத்தளம் பகுதியில் உள்ள மேலும் ஒருவரை திருமணம் செய்து கொண்டதாகவும் குறித்த இரண்டாவது கணவருக்கும் ஒரு பிள்ளை உள்ளதாகவும் குறித்த கணவரும் குறித்த பெண்ணை விட்டு சென்றுள்ளார். இந்நிலையில்  குறித்த இரண்டாவது கணவரின் பிள்ளை குறித்த பெண்ணினால் தாக்கப்படுவதாக அயலவர்களினால் குறித்த நபருக்கு தகவல் வழங்கப்பட்டுள்ளது.
+
+இதனைத் தொடர்ந்து குறித்த பெண்ணின் ஊரான ஏறாவூர் சாதாட்ற்கு வந்த இரண்டாவது கணவர் தனது பிள்ளையை தன்னுடன் அனுப்பி வைக்குமாறு குறித்த பெண்ணுடன் வாக்குவாதத்தில் ஈடுபட்டுள்ளார். பின்னர் பெண்ணின் கையடக்கத் தொலைபேசியை எடுத்து பார்த்த போது தனது பிள்ளையை குறித்த பெண் தாக்கியது காணொளியாக எடுக்கப்பட்டுள்ளதை அவதானித்துள்ளார்.
+
+...
+
+[Data](articles/11d80311.json)
+
+---
+
+### மூழ்கிய டைட்டானிக் கப்பலை பார்வையிடத் தயாராகும் அமெரிக்க கோடிஸ்வரர்
+
+*2024-05-29 16:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/184763) · `ta`
+
+அமெரிக்காவின் ஒகாயோ பகுதியைச் சேர்ந்த கோடீஸ்வரரான லேரி கானர் (Larry Connor), கடலில் மூழ்கிய டைட்டானிக் கப்பலை பார்க்க புதிய நீர்மூழ்கி ஒன்றை வடிவமைத்து வருகிறார்.
+
+இதன்படி, எதிர்வரும் 2026 ஆம் ஆண்டு கடலுக்கு அடியில் அவர் செல்ல திட்டமிட்டுள்ளார்.
+
+74 வயதான  சாகச பிரியர் லேரி டைட்டானிக் கப்பலை பார்ப்பதற்காக ட்ரைடன் சப்மரைன்ஸ் என்ற நிறுவனத்தை அவர் அணுகியுள்ளார்.
+
+அவருக்காக வடிவமைக்கப்பட்டு வரும் இந்த நீர்மூழ்கியில் இரண்டு பேர் பயணிக்கலாம் என தெரிவிக்கப்பட்டுள்ளது.
+
+கடலில் சுமார் 12,500 அடி ஆழத்தில் செல்லும் இந்த நீர்மூழ்கி பயணத்தில் அறிவியல் பூர்வமான ஆய்வுகளும் மேற்கொள்ள உள்ளதாக சொல்லப்பட்டுள்ளது.
+
+டைட்டானிக் கப்பலை பார்க்க செல்லும் வெறும் பயணம் அல்ல. இது ஆய்வு சார்ந்த விடயமாகும். இதன் மற்றொரு நோக்கம் என்னவென்றால் பாதுகாப்பான முறையில் ஆழ்கடலுக்கு பயணிக்கலாம் என்பதை உலகுக்கு நிரூபிப்பது. இதன் மூலம் மீண்டும் மீண்டும் ஆழ்கடல் பயணம் மேற்கொள்ள முடியும் என கூறியுள்ளார்.
+
+...
+
+[Data](articles/3de4a96c.json)
+
+---
+
+### கொழும்பில் மதுபோதையில் மோட்டார் சைக்கிளை செலுத்தி ஒருவரை மோதிய பொலிஸ் பரிசோதகர் !
+
+*2024-05-29 16:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/184747) · `ta`
+
+கொழும்பு பிரதான வீதியில் மதுபோதையில் மோட்டார் சைக்கிளை செலுத்திச் சென்று விபத்தை ஏற்படுத்திய பொலிஸ் பரிசோதகர் கைது செய்யப்பட்டுள்ளார்.
+
+பொலிஸ் பரிசோதகர் தனது கடமைகளை நிறைவுசெய்த பின் இன்று புதன்கிழமை (29) காலை மோட்டார் சைக்கிளில் பயணித்துள்ளார்.
+
+இதன்போது, கொழும்பு பிரதான வீதியில் உள்ள ஹோட்டலுக்கு அருகில் நின்ற நபரை செலுத்திச் சென்ற மோட்டார் சைக்கிளால் மோதி காயப்படுத்தியதோடு, முச்சக்கரவண்டி ஒன்றின் மீதும் மோதியுள்ளார்.
+
+இந்நிலையில்  பொலிஸ் பரிசோதகர்  பொலிஸாரினால் கைது செய்யப்பட்டு சட்ட வைத்திய அதிகாரி முன்னிலையில் ஆஜர்படுத்தப்பட்டார்.
+
+◼️
+
+[Data](articles/4ef81bf1.json)
 
 ---
 
@@ -75,6 +219,8 @@ In a post on ‘X’ (formerly Twitter), the Ambassador said the meeting was hel
 ◼️
 
 [Data](articles/38de9283.json)
+
+[Extended Data](ext_articles/38de9283.ext.json)
 
 ---
 
@@ -99,32 +245,6 @@ Minister of External Affairs Tharaka Balasuriya is also scheduled to commence in
 [Data](articles/99ebed22.json)
 
 [Extended Data](ext_articles/99ebed22.ext.json)
-
----
-
-### A businessman arrested with drug league in Kattankudi
-
-*2024-05-29 15:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/184794) · `ta`
-
-In Kattankudi, a businessman was arrested for drug trafficking after 70 Madana Legiyam sides were found in his shop. The owner is detained for questioning, and 70 pages of sales records and a motorcycle were seized. The case is now with the Batticaloa District Investigation Division, preparing to take the suspect to court.
-
-🟩
-
-The Batticaloa District Criminal Investigation Division said that 70 Madana Legiyam sides have been seized from a shop in Kattankudy Police Division from Kattankudy Police Division.
-
-The owner of the shopping center has been arrested in Kattankudi. The arrested businessman is currently detained at the Kattankudy police station for interrogation
-
-70 pages of sale at the trade center from the person have been seized. The motorcycle has also been recovered by the District Criminal Investigation Division.
-
-At present, the Batticaloa District Investigation Division has handed over the suspect and Legiya packets at the Kattankudy police station.
-
-Kattankudy Police Station Superintendent G. Gajanayake said that the Kattankudy Police have taken steps to bring the person to the Batticaloa Magistrate's Court.
-
-◼️
-
-[Data](articles/a29166e0.json)
-
-[Extended Data](ext_articles/a29166e0.ext.json)
 
 ---
 
@@ -424,23 +544,29 @@ Colombo, May 29 -  The lecturer attached to the General Sir John Kotelawala Def
 
 ---
 
-### இந்தியாவில் கைதானவர்கள் தொடர்பில் கருத்து தெரிவித்த விரிவுரையாளர் கைது
+### The lecturer arrested in India
 
 *2024-05-29 14:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/184781) · `ta`
 
-கொத்தலாவல பாதுகாப்பு பல்கலைக்கழகத்தின் விரிவுரையாளரான புன்சர அமரசிங்க என்பவர் குற்றப் புலனாய்வுப் பிரிவினரால் (CID) கைது செய்யப்பட்டுள்ளார்.
+Punchara Amarasinghe, a lecturer from Kotelawala Security University, was arrested by India's CID for allegedly spreading false information about suspected ISIS terrorists in Gujarat. However, he was later released on bail after appearing in court.
 
-இம்மாதம் 20 ஆம் திகதி இந்தியாவில் குஜராத் மாநிலத்தில் அஹமதாபாத் விமானிநிலையத்தில் ஐ.எஸ்.ஐ.எஸ் பயங்கரவாதிகள் எனக்கூறி சந்தேகத்தில் 4 பேர் கைது செய்யப்பட்டார்கள்.
+🟩
 
-இந்த நால்வர் தொடர்பில் போலியான தகவல்களை வெளியிட்ட குற்றச்சாட்டில் புன்சர அமரசிங்க  கைது செய்யப்பட்டுள்ளார்.
+Punchara Amarasinghe, a lecturer of the Kotelawala Security University, has been arrested by the Criminal Investigation Department (CID).
 
-இவர் அண்மையில் தொலைக்காட்சி ஒன்றுக்கு வழங்கிய நேர்காணலின் போதே இவ்வாறு போலியான தகவல்களை வெளியிட்டிருந்தார்.
+Four persons were arrested on suspicion of ISIS terrorists at the Ahmedabad pilot in Gujarat, Gujarat, in India on the 20th of this month.
 
-இதேவேளை, குற்றப்புலனாய்வுப் பிரிவினரால் கைதுசெய்யப்பட்ட விரிவுரையாளர் கோட்டை நீதிவான் நீதிமன்றில் ஆஜர்படுத்திய நிலையில் அவரை பிணையில் செல்ல அனுமதித்துள்ளது.
+Punsara Amarasinghe has been arrested on charges of making false information in connection with the four.
+
+He recently published fake information during an interview with a television.
+
+Meanwhile, the lecturer who was arrested by the Criminal Investigation Division has been allowed to go on bail after he was produced before the Magistrate's Court.
 
 ◼️
 
 [Data](articles/3b203e6e.json)
+
+[Extended Data](ext_articles/3b203e6e.ext.json)
 
 ---
 
@@ -533,6 +659,20 @@ The Ministry of Education (MoE) informs that all Government schools will functio
 [Data](articles/fc9051fb.json)
 
 [Extended Data](ext_articles/fc9051fb.ext.json)
+
+---
+
+### අවුරුදු 55 පිරුණු සියලු ශ්‍රමිකයන්ට සමාජ ආරක්ෂණ ප්‍රතිලාභයක්
+
+*2024-05-29 14:13:20* · [`adalk`](https://www.ada.lk/breaking_news/අවුරුදු-55-පිරුණු-සියලු-ශ්‍රමිකයන්ට-සමාජ-ආරක්ෂණ-ප්‍රතිලාභයක්/11-409889) · `si`
+
+විවිධ කර්මාන්තවල සේවයේ යෙදෙන වයස අවුරුදු 55 සපිරුණු සියලු ශ්‍රමිකයන්ට සමාජ ආරක්ෂණ ප්‍රතිලාභයක් ලබාදිය හැකි වන පරිදි සකස් කෙරුණු යෝජනාවට කැබිනට් අනුමැතිය හිමිව ඇති බව අමාත්‍ය මනූෂ නානායක්කාර පවසනවා.
+
+www.garusaru.lk යන වෙබ් අඩවිය යටතේ මේ වනවිට විෂය කේෂ්ත්‍ර ගණනාවකට ලියාපදිංචි වීමට අවස්ථාව ඇති බවද අමාත්‍යවරයා වැඩිදුරටත් සඳහන් කළා.
+
+◼️
+
+[Data](articles/fb9b916a.json)
 
 ---
 
@@ -2125,167 +2265,5 @@ Irrigation Engineer Sakuura, Sakumera, said that the people living in the lowlan
 [Data](articles/e40a7605.json)
 
 [Extended Data](ext_articles/e40a7605.ext.json)
-
----
-
-### Fish harvest down, meat varieties up by Rs. 50
-
-*2024-05-29 09:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Fish-harvest-down-meat-varieties-up-by-Rs-50/108-283589) · `en`
-
-Colombo, May 29 (Daily Mirror) - The National Consumer Front (NCF) reported that reduced fish harvests have led to increased prices for meat varieties, including chicken, in the local market.
-
-Fish prices have risen because fishermen were advised by the Meteorology Department to avoid fishing due to rough seas. The sea areas around the island are expected to remain rough, and naval and fishing communities are advised not to venture out until further notice.
-
-As a result, local meat prices have increased by Rs. 50 today. The NCF noted that the price hikes began at the farms.
-
-Accordingly, the wholesale price of a kilo of fresh chicken at the Narahenpita Economic Centre is recorded at Rs. 1,080.
-
-The retail prices of a kilo of various meats at the Narahenpita Economic Centre are as follows:
-
-◼️
-
-[Data](articles/78c69592.json)
-
-[Extended Data](ext_articles/78c69592.ext.json)
-
----
-
-### Northern Railway Development Work on August - Ministry of Highway and Road Development
-
-*2024-05-29 09:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/184739) · `ta`
-
-The Northern Railway development project, expected to finish in August, may not meet its deadline due to ongoing reconstruction. As a result, a special bus service will run from the Poson Full Moon Day onwards, including the day before, ensuring transportation during the holiday period. This service, coordinated with the Sri Lanka Transport Board and private bus operators, aims to address potential transport shortages.
-
-🟩
-
-The Northern Railway Development Work will be completed in August, the Minister of Express and Road Development Bandula Gunawardena said.
-
-The reconstruction work of the Northern Railway line is not likely to be completed before the upcoming full moon day.
-
-Therefore, a special bus service is to be implemented on the Poson Full Moon Day holiday.
-
-The bus service will be implemented on the Poson Full Moon Day and the previous day.
-
-He said that the Special Bus Service would be notified of the schedule and that special arrangements were made in consultation with the Sri Lanka Transport Board and the private sector bus servants.
-
-◼️
-
-[Data](articles/86da6597.json)
-
-[Extended Data](ext_articles/86da6597.ext.json)
-
----
-
-### Gujarat ATS to visit Sri Lanka for further investigation into ‘ISIS terrorists’ arrested at Ahmedabad Airport
-
-*2024-05-29 09:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/99501/gujarat-ats-to-visit-sri-lanka-for-further-investigation-into-isis-terrorists-arrested-at-ahmedabad-airport) · `en`
-
-The Gujarat Anti-Terrorist Squad (ATS) is preparing to visit Sri Lanka to further investigate the arrest of four ISIS terrorists at Ahmedabad airport.
-
-This development comes as Sri Lankan police have detained two individuals related to the case, while a third suspect, Osmond Gerrard, remains at large.
-
-Sri Lanka has declared Gerrard wanted and announced a Rs. 2 million reward for his capture.
-
-Gujarat Anti-Terrorism Squad (ATS) thwarted a potential terror attack with the arrest of four Sri Lankan nationals at Ahmedabad airport on May 20.
-
-The apprehended suspects, identified as Mohammad Nusrat (33), Mohammad Farish (35), Mohammad Nafran (27), and Mohammad Rashdeen (43), are believed to be linked to the Islamic State of Iraq and Syria (ISIS).
-
-...
-
-[Data](articles/0bc8a919.json)
-
-[Extended Data](ext_articles/0bc8a919.ext.json)
-
----
-
-### Declaration of GCE A / L examination
-
-*2024-05-29 09:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/184738) · `ta`
-
-In 2023, 346,976 students sat for the GCE A/L exam, with results due out on May 31st, as announced by Education Minister Susil Prema Jayantha.
-
-🟩
-
-Minister of Education Susil Prema Jayantha said that the GCE A / L examination of 2023 will be released.
-
-Accordingly, the Minister of Education added that the results of the GCE A / L examination for the 31st of May, 2023, will be released.
-
-With the GCE Advanced Level Examination for 2023, 346,976 candidates have appeared nationwide for the examination.
-
-◼️
-
-[Data](articles/4b3663d4.json)
-
-[Extended Data](ext_articles/4b3663d4.ext.json)
-
----
-
-### Public entry into the recently released land in Jaffna
-
-*2024-05-29 08:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/184726) · `ta`
-
-A temporary ban restricts public entry into newly released land in Tellippalai, Jaffna, due to potential mine threats. The Jaffna District Secretariat plans to conduct technical studies and ensure deactivation/removal of any mines before allowing public resettlement post-June 10th. Areas including Vasavilan East/West, Palali North/East/South were released, previously under military control, but caution is advised due to unexploded ordnance concerns.
-
-🟩
-
-A temporary ban on public entry into 234.83 acres of land recently released in Tellippalai camel in Tellippalai, Jaffna.
-
-In addition, the Jaffna District Secretariat has taken steps to find a solution, as it has been feared that the mines will be found in the area of ​​about 55 thousand square feet of land.
-
-Land owners have been asked not to go to the lands released until the 10th of June.
-
-Technical studies will be carried out from the first day of the release. It has been announced that the public will be able to carry out their resettlement activities after the 10th of this month, excluding the areas where the mines are identified.
-
-Meanwhile, if the mines are found, they will be deactivated and removed by following the appropriate procedures.. Once the area was declared as a mines, the public could go into their land without any disruption.. This temporary ban has been banned for the safety of the public.
-
-...
-
-[Data](articles/e355f5e7.json)
-
-[Extended Data](ext_articles/e355f5e7.ext.json)
-
----
-
-### Central Bank Governor's comment on vehicle imports
-
-*2024-05-29 08:51:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாகன-இறக்குமதி-தொடர்பில்-மத்திய-வங்கி-ஆளுநர்-வெளியிட்ட-கருத்து/175-338067) · `ta`
-
-Dr. Nandalal Weerasinghe, Governor of Sri Lanka's Central Bank, stated that if the government eases vehicle import rules, the Central Bank can handle foreign reserves. He confirmed no change in the policy interest rate and expressed optimism about managing foreign exchange through gradual vehicle import relaxation.
-
-🟩
-
-Governor of the Central Bank of Sri Lanka, Dr. Nandalal Weerasinghe, said that if the government decides to gradually relax vehicle import regulations, the Central Bank has the ability to manage foreign stockpile.
-
-He said the central bank had decided to maintain its policy interest rate without changing.
-
-“Some vehicles already have been allowed. Gradually relaxation of imports of vehicles is an important decision. We hope that we can manage foreign exchange. ”. Remble
-
-◼️
-
-[Data](articles/4d5100ab.json)
-
-[Extended Data](ext_articles/4d5100ab.ext.json)
-
----
-
-### Vehicle Import: Governor Action
-
-*2024-05-29 08:51:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாகன-இறக்குமதி-ஆளுநர்-அதிரடி/175-338067) · `ta`
-
-Dr. Nandalal Weerasinghe, Governor of Sri Lanka's Central Bank, stated that if the government eases vehicle import rules, the Central Bank can handle foreign currency reserves. He also mentioned maintaining the current policy interest rate.
-
-🟩
-
-Governor of the Central Bank of Sri Lanka, Dr. Nandalal Weerasinghe, said that if the government decides to gradually relax vehicle import regulations, the Central Bank has the ability to manage foreign stockpile.
-
-He said the central bank had decided to maintain its policy interest rate without changing.
-
-“Some vehicles already have been allowed. Gradually relaxation of imports of vehicles is an important decision. We hope that we can manage foreign exchange. ”. Remble
-
-◼️
-
-[Data](articles/ea114eb4.json)
-
-[Extended Data](ext_articles/ea114eb4.ext.json)
 
 ---

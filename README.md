@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-29 13:04:02**
+As of **2024-05-29 13:18:41**
 
 ## Newspaper Stats
 
-*Scraped **27,039** Articles*
+*Scraped **27,044** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,82 @@ dbsjeyarajcom | 265
 bbccomsinhala | 269
 newsfirstlk | 363
 islandlk | 1,465
-economynextcom | 1,547
+economynextcom | 1,548
 dailyftlk | 1,591
-adalk | 2,299
+adalk | 2,300
 adaderanalk | 3,085
-tamilmirrorlk | 3,177
+tamilmirrorlk | 3,178
 virakesarilk | 4,142
-dailymirrorlk | 4,263
-adaderanasinhalalk | 4,335
+dailymirrorlk | 4,264
+adaderanasinhalalk | 4,336
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,039 (100.0%) of 27,039 articles have been extended.
+27,039 (100.0%) of 27,044 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-29 (Wednesday)
+
+### ලංකාවට ආ විදෙස් තරුණියට නොසිතූ කරදරයක් - CCTV සහිතයි
+
+*2024-05-29 12:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197151) · `si`
+
+ඇල්ල ප්‍රදේශයේ සංචාරය කිරීම සඳහා පිටකොටුව බැස්ටියන් මාවත බස් නැවතුම්පොළෙන් බස් රථයකට නැගුණු එංගලන්ත ජාතික තරුණියකගේ ගමන් බෑගය බස් රථය තුළදී සොරාගෙන තිබේ.
+
+යූ ටියුබ් නාලිකාවක් පවත්වාගෙන එම තරුණිය ශ්‍රී ලංකාව පිළිබඳව සංචාරක වීඩියෝවක් නිර්මාණය කිරීම සඳහා දිවයිනට පැමිණ තිබිණි.
+
+ස්කයි මැගෝවන් සංචාර පිළිබඳ යූ ටියුබ් නාලිකාවක් පවත්වාගෙන යන ඔස්ට්‍රේලියාවේ වාසය කරන එංගලන්ත ජාතික තරුණියකි.
+
+රටවල් 37ක පමණ සංචාරය කර ඇති ඇය පසුගිය මැයි 24වැනිදා මෙරටට පැමිණ තිබුණේ දෙවන වරටය.
+
+දුම්රියෙන් ඇල්ල බලා යාම සඳහා ඇය කොටුව දුම්රිය ස්ථානය වෙත ගියද පැවති අයහපත් කාලගුණය හේතුවෙන් දුම්රිය අවලංගු වීම නිසා ඇය බසයෙන් ඇල්ල බලා යාමේ අරමුණින් බැස්ටියන් මාවත බස් නැවතුම්පළෙන් බසයකට ගොඩ වී තිබේ.
+
+කෙසේ වුවද බසයේදී පුද්ගලයින් දෙදෙනෙකු ඇයගේ බෑගය සොරාගෙන ඇති අතර එය බසයේ CCTV කැමරාවේ සටහන්ව තිබුණි.
+
+සිය බෑගය සොරාගෙන ඇති බව දැනගත් වහාම ඇය එම බස් නැවතුම්පළේ පොලිසියට මේ බව දැනුම් දී තිබූ අතර ඔවුන් කොටුව පොලිස් ස්ථානයටද ඒ පිළිබඳ පැමිණිල්ලක් ගොනුකර තිබුණි.
+
+...
+
+[Data](articles/c10a06cb.json)
+
+---
+
+### Sri Lanka rubber sector collapse to worsen with wage hike order: official
+
+*2024-05-29 12:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-rubber-sector-collapse-to-worsen-with-wage-hike-order-official-165245/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rubber production, which has collapsed over the last decade, will get into a deeper crisis due to mandated wage hike which will increase loss, an industry official said after the tea industry also protested the move.
+
+Sri Lanka produced 152,000 metric tonnes of rubber in 2012, but by 2023, it had fallen to only 64,400 metric tonnes, Manoj Udugampola, a former Chairman of the Colombo Rubber Traders Association told reporters in Colombo.
+
+A census by Sri Lanka’s Rubber Development Department had found that the area cultivated had fallen from 138,000 hectares to 98,250 hectares.
+
+“Apart from that, if you take the rubber extent we had ten years back, which was 138,000 Ha, last year the Rubber Development Department got a fresh survey, as per that census we have only 98,250 Ha,” Udagampola said, estimating a drop in 40 percent of the land extent.
+
+...
+
+[Data](articles/c9e6d4eb.json)
+
+---
+
+### ත්‍රිරෝද රථයක ගැටී බසයක් පෙරලී 27ක් රෝහලේ
+
+*2024-05-29 12:29:24* · [`adalk`](https://www.ada.lk/breaking_news/ත්‍රිරෝද-රථයක-ගැටී-බසයක්-පෙරලී-27ක්-රෝහලේ/11-409887) · `si`
+
+අද පෙරවරුවේ කොළඹ බදුල්ල ප්‍රධාන මාර්ගයේ පැල්මඩුල්ල නගරය ආසන්නයේ දි පෞද්ගලික බස් රථයක් සහ ත්‍රිරෝද රථයක් මුහුණට මුහුණ ගැටිමෙන් පසු පෞද්ගලික බසය  මාර්ගයෙන් ඉවතට පෙරළි  සිදු වූ අනතුරින්    පුද්ගලයින් 27දෙනෙකු තුවාල ලබා රෝහල් ගතකර ඇතැයි පොලීසිය කියයි.  ‍
+
+පෞද්ගලික  බසය ඇඹිලිපිටිය සිට කොළඹ දක්වා ධාවනය කරමින් සිටි අතර ඊට ප්‍රතිවිරුද්ධ දෙසින් පැමිණි ත්‍රිරෝද රථය බස් රථය දෙසට එද්දි ත්‍රිරෝද රථය බසයේ ගැටිම වැලක්විමට බස් රියදුරු උත්සාහ ගෙන ඇති බව එම අවස්ථාවේදී මාර්ගයේ  පස් ලිහිල්ව බසය අඩි කිපයක  පල්ලමකට මාර්ගයෙන් ඉවතට  පෙරලී  ගොස්  ඇතැයි පොලීසිය සඳහන් කරයි.
+
+ෙකහවත්ත මූලික රෝහලට තුවාලකරුවන්  ව්සි දෙනෙකු ද රත්නපුර ශික්ෂණ රෝහලට හත් දෙනෙකු ද ඇතුළත් කර තිබේ
+
+◼️
+
+[Data](articles/de606ec2.json)
+
+---
 
 ### 2023 A/L results to be released before Monday
 
@@ -47,6 +105,24 @@ The 2023 G.C.E. Advanced Level Examination was held from January 04 to 31, 2024 
 [Data](articles/68ec78db.json)
 
 [Extended Data](ext_articles/68ec78db.ext.json)
+
+---
+
+### Adverse weather conditions to ease
+
+*2024-05-29 12:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Adverse-weather-conditions-to-ease/108-283606) · `en`
+
+Colombo, May 29 (Daily Mirror) - Director of the Disaster Management Center (DMC) Pradeep Kodippili said today that there is a reduction in disaster situations.
+
+Due to the ongoing adverse weather, numerous disaster situations have been reported across more than 20 districts, affecting about 220 District Secretariat divisions throughout the country. Currently, there are only 10 safe locations available, with a total of 226 people seeking refuge in these places.
+
+As of yesterday, over 47,000 people were affected by the adverse weather conditions. However, today, the number has decreased to 34,000. Meanwhile, there have been reports of eight deaths in various districts including Galle, Ratnapura, Puttalam, Nuwara Eliya and Badulla.
+
+The DMC, following the Minister's instructions, has initiated a programme with the assistance of the armed forces to remove all trees that are not protected.
+
+...
+
+[Data](articles/cacaa346.json)
 
 ---
 
@@ -83,6 +159,26 @@ However, Kodippili said that if it becomes essential to close the road the DMC w
 [Data](articles/b7ee1d84.json)
 
 [Extended Data](ext_articles/b7ee1d84.ext.json)
+
+---
+
+### நிர்வாண  படங்களை  வெளியிட்ட காதலன்
+
+*2024-05-29 12:01:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/நிர்வாண-படங்களை-வெளியிட்ட-காதலன்/76-338083) · `ta`
+
+17 வயதுடைய பாடசாலை மாணவியின் நிர்வாண புகைப்படங்களை இணையத்தில் வெளியிட்ட குற்றச்சாட்டில் 18 வயதுடைய பாடசாலை மாணவன் ஒருவன் மத்தேகொட பொலிஸாரால் கைது செய்யப்பட்டுள்ளார் .
+
+நுகேகொட பிரதேசத்தை சேர்ந்த 18 வயதுடைய பாடசாலை மாணவர் ஒருவரே இவ்வாறு கைது செய்யப்பட்டுள்ளதாக தெரிவிக்கப்பட்டுள்ளது .
+
+கைது செய்யப்பட்ட மாணவன்  நுகேகொட பிரதேசத்தில் உள்ள பிரத்தியேக வகுப்பொன்றிக்கு சென்று கொண்டிருந்த போது, ​​மத்தேகொட , குடமாதுவ பிரதேசத்தை சேர்ந்த 17 வயதுடைய பாடசாலை மாணவி ஒருவருடன் காதல் தொடர்பை ஏற்படுத்திக் கொண்டுள்ளார் .
+
+இந் நிலையில் , குறித்த மாணவன் அடிக்கடி மருந்து வகைகளை உட்கொள்வதை   அறிந்த மாணவி  அது தொடர்பில் வினவிய போது மாணவனுக்கு தீராத நோய் ஒன்று ஏற்பட்டுள்ளமை தெரியவந்துள்ளது .
+
+பின்னர் குறித்த மாணவி அவர்களின் காதல் உறவை முறித்துக்கொண்டு வேறொரு இளைஞனுடன் காதலை வளர்த்துக்கொண்டுள்ளார் . இதனால் கோபமடைந்த மாணவன் , குறித்த இருவரும் காதல் உறவில் இருந்த போது , வீடியோ அழைப்புகள் மூலம் ஸ்கிரீன் ஷாட் செய்யப்பட்ட மாணவியின் நிர்வாண புகைப்படங்களை  சமூக வலைத்தளங்களில் வெளியிட்டுள்ளார் .
+
+...
+
+[Data](articles/41765d9b.json)
 
 ---
 
@@ -2199,123 +2295,5 @@ Some accuse people that they have no peace of mind to celebrate festivals. But t
 [Data](articles/7522a864.json)
 
 [Extended Data](ext_articles/7522a864.ext.json)
-
----
-
-### The President has promised to protect democracy on the constitution - Parliamentarian Nimal Lansa
-
-*2024-05-29 01:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/184730) · `ta`
-
-Parliamentarian Nimal Lansa assures that the government has no plans to delay the upcoming presidential election, as per constitutional timelines. President Ranil Wickremesinghe has pledged to safeguard democracy and adhere to the election schedule. The Election Commission is tasked with conducting the election within its constitutional timeframe.
-
-🟩
-
-The presidential election will be held within the time of the presidential election according to the Constitution. Parliamentarian Nimal Lansa said the government had no intention of postponing it.
-
-He posted a special report to the media and further stated:
-
-According to the Constitution, President Ranil Wickremesinghe has promised to defend democracy and hold the time -bounds of the presidential election.. That is the position of the government.
-
-Their personal opinion is that various parties can submit proposals to postpone the presidential election or parliamentary elections for two years or submit any opinion.
-
-It is the responsibility of the Election Commission to hold the presidential election within the time of the constitution.
-
-◼️
-
-[Data](articles/cc34023c.json)
-
-[Extended Data](ext_articles/cc34023c.ext.json)
-
----
-
-### The postponement of the election is anti -democratic - Namal Rajapaksa
-
-*2024-05-29 01:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/184729) · `ta`
-
-Namal Rajapaksa criticizes both the postponement and continuation of Sri Lanka's elections as undemocratic, highlighting the need for stability through elections and caution against environmental and financial costs of delays.
-
-🟩
-
-The backing of the election is anti -democratic. Sri Lanka PA's National Organizer Namal Rajapaksa has uploaded to his official X website that the Sri Lanka PA should be held elections to establish stability in the country of the people.
-
-President Ranil Wickremesinghe should be given a further two -year post.. UNP general secretary Range Bandara has stated that if the election is held in the present case, the costs and the pollution of the environment will only increase.
-
-Namal Rajapaksa has uploaded this point of view of the United National Party (UNP) general secretary as political parties and civil organizations have expressed fierce opposition.
-
-Extending the tenure of the president and the parliament without holding elections will affect the basic principles of democracy. He said that the people's wishes should be stable in the country, but not to delay the voices of the people.
-
-◼️
-
-[Data](articles/4d5cb0bf.json)
-
-[Extended Data](ext_articles/4d5cb0bf.ext.json)
-
----
-
-### The group is trying to destroy the protesters
-
-*2024-05-29 01:10:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆர்ப்பாட்டம்-செய்வோர்-அழிக்க-முயற்சிக்கும்-குழு/175-338058) · `ta`
-
-Protesters, led by civil organizations, demonstrate against the country's degradation bill outside the Mottu Party office. Minister Prasanna Ranatunga, despite a police warning due to the demonstration, insists the protesters aim to establish anarchy and misuse democracy for personal gain. He emphasizes the government's stance supports the majority's views, contrasting experienced politicians with those without political background.
-
-🟩
-
-Minister of Urban Development and Housing Prasanna Ranatunga stressed that some of the activists of the civil organizations involved in the demonstration wanted to establish anarchy in the country.
-
-Responding to questions raised by journalists raised by journalists in the demonstration organized by some of the representatives of the civil organizations in front of the Mottu Party office on the theme of 'Defeating the Laws of the country'.
-
-The demonstration was organized by the Sri Lanka PA's MPs to protest the country's degradation Bill.
-
-Members of the 'Makin Radada' organization, including Sanjay Mahawatta, Kamantha Dushara and Ajanta Perera, are the members of the civil organizations, carrying out the protest banners that 'defeat the laws of the country'.
-
-Prasanna Ranatunga, the chief organizer of the ruling party and the Minister of Urban Development and Housing, was in office.. When the minister enters the party office, there is no struggle in the area.
-
-...
-
-[Data](articles/7aa3ef2b.json)
-
-[Extended Data](ext_articles/7aa3ef2b.ext.json)
-
----
-
-### Dharmalingam Siddharthan and Vijayagala Maheshwaran have been allocated funds to Chunnakam Skandavarodaya College
-
-*2024-05-29 01:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/184728) · `ta`
-
-Funds totaling 110 million rupees have been allocated by former Education Minister Vijayagala Maheshwaran for the construction of an auditorium and initial phase at Sunnagam Skandavarodaya College. This follows a previous allocation of 50 million rupees requested by her and Parliamentarian Siddharthan in 2019 under the Good Governance Government. The project faced delays due to national instability, prompting immediate action from both the President and the Prime Minister, who issued directives for its completion.
-
-🟩
-
-Former Minister of State for Education Vijayagala Maheshwaran has allocated 110 million rupees for the construction of Sunnagam Skandavarodaya College's auditorium and the first phase of the construction of Rs 70 million has been released for the construction of the school.
-
-At the request of the Minister of State for Education Vijayagala Maheshwaran and Parliamentarian Siddharthan in 2019, the then Good Governance Government has allocated 50 million rupees by the then Good Governance Government.Hold on.
-
-The matter was addressed to the President at a new building inauguration in Jaffna, which was recently attended by the Presidential Medical Faculty in Jaffna regarding the lack of work on the country's instability.
-
-...
-
-[Data](articles/8d922013.json)
-
-[Extended Data](ext_articles/8d922013.ext.json)
-
----
-
-### Chartered Institute of Taxation of Sri Lanka urges Govt. to legally recognise profession of “Tax Consultant”
-
-*2024-05-29 00:39:28* · [`dailyftlk`](https://www.ft.lk/business/Chartered-Institute-of-Taxation-of-Sri-Lanka-urges-Govt-to-legally-recognise-profession-of-Tax-Consultant/34-762276) · `en`
-
-For all these years the taxation was considered as a part of accountancy not being given its due place. Taxation is a mixture of law, accountancy and economics. It is a distinctive art one has to master. The Chartered Institute of Taxation is the only body incorporated by a parliamentary act specialised to disseminate tax knowledge across the country. Tax education shall not only create the profession of “Tax Consultant” but shall make people tax compliant as well – Chartered Institute of Taxation of Sri Lanka President Ranil Abeywardhene
-
-1992 set up Sri Lanka Institute of Taxation celebrates granting of “Chartered” status
-
-Chartered Institute of Taxation of Sri Lanka President Ranil Abeywardhene
-
-Chartered Institute of Taxation of Sri Lanka (CITSL) President Ranil Abeywardhene recently requested the Government to legally recognise the profession of “Tax Consultant” to ensure continuous improvement measures to uplift the tax education and the profession of tax consultancy in Sri Lanka.
-
-...
-
-[Data](articles/6141f8fd.json)
-
-[Extended Data](ext_articles/6141f8fd.ext.json)
 
 ---

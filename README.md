@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-29 08:19:56**
+As of **2024-05-29 08:33:53**
 
 ## Newspaper Stats
 
-*Scraped **26,974** Articles*
+*Scraped **26,975** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,465
 economynextcom | 1,540
 dailyftlk | 1,591
-adalk | 2,294
+adalk | 2,295
 adaderanalk | 3,076
 tamilmirrorlk | 3,161
 virakesarilk | 4,137
@@ -26,25 +26,31 @@ adaderanasinhalalk | 4,323
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,962 (100.0%) of 26,974 articles have been extended.
+26,974 (100.0%) of 26,975 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-29 (Wednesday)
 
-### අවදානම් ගස්වල වගකීම එහි හිමිකරුවන් බාරගතයුතු බවට නිවේදනයක්
+### An announcement that the owners of risk trees should accept its owners
 
 *2024-05-29 07:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197138) · `si`
 
-අවදානම් සහිත ගස් පිහිටා ඇති පෞද්ගලික හා රජයේ ඉඩම්වල හිමිකරුවන් සඳහා අද (29) සිට නීතිමය නිවේදන නිකුත් කිරීමට නියමිතව තිබේ.
+Owners of properties with risky trees must comply with new regulations announced today. The Colombo Municipal Commissioner warns of actions against unsafe trees on both private and public lands. Complaints about potential damage have led to this decision, emphasizing the responsibility of landowners towards tree safety on their properties. Legal measures will be taken to remove hazardous trees and protect buildings from falling debris.
 
-ඒ සඳහා අදාළ පියවර ගන්නා බව ද කොළඹ නාගරික කොමසාරිස් භද්‍රානි ජයවර්ධන මහත්මිය පවසන්නීය.
+🟩
 
-"පෞද්ගලික ඉඩම් සහ රජයේ ආයතනවල ගස් වැටීමට ලක්විය හැකි බවට අපට පැමිණිලි ලැබෙනවා. යම්කිසි ඉඩමක අයිතිකරුවෙක් ඉන්නවා නම් රාජ්‍ය ආයතනයක් පුද්ගලික ආයනයක් හෝ නිවැසියන් ඒ අයට අයිතියක් තියෙනවා තමන්ගේ ඉඩම තුළ තියෙන සියලු දේපොළ ගැන ආරක්ෂාව සහ වගකීම. මේ අනුව ඒ ඉඩම්වල තියෙන ගස් පිළිබඳවත් ඔවුන්ට වගකීම පැවරෙනවා. එහෙම අනාරක්ෂිතව තියෙනවා නම් ඇත්තටම ඒක වරදක්. අපි මහනගර සභා ආඥා පනත අනුව කොහොම ද මේ නීතිමය නිවේදනය නිකුත් කරන්නේ, කියලා අධ්‍යයනය කළා. ඒ අනුව අපි අද දවසේ නිකුත් කරනවා අනතුරුදායක ගස් පිහිටා ඇති ආයතන හා පුද්ගලික නිවාසවලට මෙම ගස් ඉවත් කිරීම හා ඒ අනතුර වළක්වා ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස."
+Legal announcements are to be issued from today's private and state lands, located at risk of risky trees.
+
+The Colombo Municipal Commissioner Bhadrani Jayawardena says that action will be taken.
+
+"We receive complaints that private lands and government institutions can fall. If there is a land owner, a government agency has the right to the safety and responsibility of all the property within their land. Thus they also be responsible for the trees of the land. If there is such insecure, it's really wrong. We studied this legal announcement as per the Municipal Council Ordinance. Accordingly, we are released to remove these trees and take necessary steps to prevent the crash to institutions and personal houses in dangerous trees. "
 
 ◼️
 
 [Data](articles/ce55d10b.json)
+
+[Extended Data](ext_articles/ce55d10b.ext.json)
 
 ---
 
@@ -68,41 +74,57 @@ The sea areas around the island will be very rough due to the active south-west 
 
 [Data](articles/b3cf8b3a.json)
 
+[Extended Data](ext_articles/b3cf8b3a.ext.json)
+
 ---
 
-### ග්‍රාම නිලධාරී වැටුප් ගැටලුවට සාගලගෙන් විසඳුමක්
+### Sacred solution to Grama Niladhari pay issue
 
 *2024-05-29 07:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197137) · `si`
 
-රාජ්‍ය සේවයේ අනෙකුත් සේවාවන් සමඟ ගැටීමක් ඇති නොවන ආකාරයට ග්‍රාම නිලධාරී සේවයේ පවතින ගැටලු සඳහා ලබා දිය හැකි විසඳුම් ඉදිරිපත් කරන ලෙස ජාතික ආරක්ෂාව පිළිබඳ ජනාධිපති ජ්‍යේෂ්ඨ උපදේශක හා ජනාධිපති කාර්ය මණ්ඩල ප්‍රධානි සාගල රත්නායක මහතා අදාළ නිලධාරීන්ට උපදෙස් ලබා දී තිබේ.
+Presidential consultant Sagala Ratnayake has directed officials to resolve Grama Niladhari service issues, including wages and promotions. A meeting was held involving the Grama Niladhari Federation, where discussions focused on addressing these concerns. The federation aims to draft a service minute outlining necessary actions, which will then be presented to the Public Service Commission. This initiative underscores the importance of the Grama Niladhari service in rural areas.
 
-ජනාධිපති මාධ්‍ය අංශය සඳහන් කළේ, එමෙන්ම පවතින ගැටලු සාකච්ඡා කර පොදු එකඟතාවකට පැමිණීමට කටයුතු කරන ලෙසද නිලධාරීන්ට උපදෙස් ලබා දී ඇති බවය.
+🟩
 
-ග්‍රාම නිලධාරී සේවයේ පවතින ගැටලු පිළිබඳව ග්‍රාම නිලධාරී වෘත්තීය සමිති සම්මේලනය හා අදාළ රේඛීය ආයතනවල නිලධාරීන් සමඟ ජනාධිපති කාර්යාලයේදී පැවති සාකච්ඡාවකට එක්වෙමින් සාගල රත්නායක මහතා මෙම උපදෙස් ලබා දී තිබේ.
+Senior Presidential Consultant and Presidential Staff Head of the President Sagala Ratnayake has instructed the relevant officials to propose to address the issues of the Grama Niladhari Service.
 
-ග්‍රාම නිලධාරී සේවා ව්‍යවස්ථාව පිළිබඳව ඇති ගැටලු මෙන්ම වැටුප් තලය සම්බන්ධයෙන් පැන නැගී ඇති ගැටලු පිළිබඳවද මෙහිදී දීර්ඝ වශයෙන් සාකච්ඡාවට ලක්කර තිබේ.
+The Presidential Media Unit stated that the officials have instructed the officials to discuss existing issues and come to a common agreement.
 
-මෙහිදී ග්‍රාම නිලධාරී වෘත්තීය සමිති සම්මේලනය පවසා ඇත්තේ, ග්‍රාම නිලධාරී සේවයේ උසස් වීම් පිළිබඳව ගැටලු රැසක් මතුවී ඇති බැවින් ඒවා විසඳමින් සේවා ව්‍යවස්ථාව කෙටුම්පත් කළ යුතු බවය.
+Speaking at a discussion held at the Presidential Secretariat, Sagala Ratnayake has joined the Grama Niladhari Federation Federation and the officers of the Grama Niladhari Federation.
+
+The issues of the Grama Niladhari Service and issues have been discussed at length about the issues that have arisen about the wage plane.
+
+The Grama Niladhari Federation Federation has said that a number of issues regarding the promotions of the Grama Niladhari Service should be drafted and drafting the service minute.
+
+Sagala Ratnayake has informed the Service Minute on the Service Minute of the Public Service Commission.
 
 ...
 
 [Data](articles/0a5f3b2d.json)
 
+[Extended Data](ext_articles/0a5f3b2d.ext.json)
+
 ---
 
-### විශ්වවිද්‍යාල අනධ්‍යයන සේවකයින්ගේ වැඩවර්ජනය තවදුරටත්
+### University non-academic staff
 
 *2024-05-29 07:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197136) · `si`
 
-විශ්වවිද්‍යාල අනධ්‍යයන සේවකයන් ආරම්භ වැඩවර්ජනය තවදුරටත් අඛණ්ඩව ක්‍රියාත්මක කරන බව විශ්වවිද්‍යාල අනධ්‍යයන සේවක සංගමය පවසයි.
+Non-academic staff at a university have extended their strike, criticizing the appointment of committees as insufficient solutions. Their co-chairman, Dhammika S. Priyantha, urges the government to address their demands after 27 days of striking, expressing frustration over the formation of yet another committee without progress. Trade union leaders have decided unanimously to maintain the strike, highlighting the need for direct action from the government.
 
-එහි සම සභාපති, ධම්මික එස්. ප්‍රියන්ත මහතා සඳහන් කළේ කමිටු පත්කිරීමෙන් පමණක් මෙම ගැටලුවට විසඳුම් සෙවිය නොහැකි බවය.
+🟩
 
-"අපි බලාපොරොත්තු වුණා වැඩවර්ජනයේ යෙදෙන පාර්ශවය විදියට වසර ගණනාවක් පුරා විශ්වවිද්‍යාල පද්ධතියේ ඇදෙන ගැටලුව සඳහා විසඳුම් ලබාගැනීමට අමාත්‍ය මණ්ඩලය වෙත යොමුකරන ලද අමාත්‍ය මණ්ඩල සංදේශ දෙකට යහපත් ප්‍රතිචාරයක් ලැබෙයි කියලා. මේ සම්බන්ධයෙන් නිල පිළිතුරක් අපට තවමත් ලැබිලා නෑ. අපිට ආරංචි විදියට මේ සඳහා තවත් කමිටුවක් පත්කරපු බවක් තමා දැනගන්න ලැබෙන්නේ. එම නිසා අපි ඉතා ඕනෑකමින් රජයට කියන්න ඕනේ, විශ්වවිද්‍යාල සේවකයින් මේ අරගලයට අවතීර්ණ වෙලා දින 27 තිස්සේ වැඩවර්ජනයක් කළේ තවත් කමිටුවක් පත්කරගන්න නෙමෙයි. මේ කමිටු වාර්තා තුළින් මේ ඉල්ලීම් සාධාරණයි කියලා පිළිගෙන තියෙනවා. තවත් කමිටුවක් පත්කිරීම කාලය කා දැමීමක්. රජය පාර්ශවයෙන් තවමත් අපිට පිළිතුරක් ලැබිලා ඒ නිසා වෘත්තීය ක්‍රියාමාර්ගය අඛණ්ඩව ක්‍රියාත්මක කිරීමට වෘත්තීය සමිති නායකයින් ඒකමතික තීරණයකට එළැඹිලා තියෙනවා."
+The strike begins to continue in university non-academic workers will continue to continue the strike.
+
+Its co-chairman, Dhammika S. Priyantha stated that this problem cannot be addressed only by appointing committees.
+
+"We hoped that the seventh party that the strike is aimed at the government for many years to find a solution to the Cabinet of Cabinet.. We have not yet been an official answer regarding this. We hear that another committee was appointed. Therefore, we need to tell the government earnestly, for 27 days of the university employees have made a strike for 27 days to appoint another committee. These committees have accepted that these requests are fair. Another committee of another committee leaving time. The trade union leaders have come into unanimous decision to continue the trade union action. "
 
 ◼️
 
 [Data](articles/eac492a2.json)
+
+[Extended Data](ext_articles/eac492a2.ext.json)
 
 ---
 
@@ -148,6 +170,8 @@ In fact, by last evening, President Wickremesinghe began receiving calls from se
 
 [Data](articles/42d5d552.json)
 
+[Extended Data](ext_articles/42d5d552.ext.json)
+
 ---
 
 ### Central Bank stays pat on rates
@@ -171,6 +195,8 @@ The mandatory reserve ratio for banks was also left at 2.00 percent.
 ...
 
 [Data](articles/c082ea9a.json)
+
+[Extended Data](ext_articles/c082ea9a.ext.json)
 
 ---
 
@@ -413,6 +439,8 @@ President Ranil Wickremesinghe in his capacity as the Minister of Women Affairs 
 ...
 
 [Data](articles/a5f195c8.json)
+
+[Extended Data](ext_articles/a5f195c8.ext.json)
 
 ---
 
@@ -934,6 +962,8 @@ India’s Adani group has proposed to invest about $ 740 million in the country 
 
 [Data](articles/301e88b9.json)
 
+[Extended Data](ext_articles/301e88b9.ext.json)
+
 ---
 
 ### Is the Swiss auction legally valid?
@@ -1228,6 +1258,8 @@ Subsequently, Prime Group will bear the interest costs for the first year, ensur
 
 [Data](articles/4e44a12d.json)
 
+[Extended Data](ext_articles/4e44a12d.ext.json)
+
 ---
 
 ### Driving growth through listings and diversifying revenue streams at the Colombo Stock Exchange
@@ -1272,6 +1304,8 @@ Pan Asia Bank posts steady performance in 1Q 2024 – Profit before Tax increase
 
 [Data](articles/b40132c0.json)
 
+[Extended Data](ext_articles/b40132c0.ext.json)
+
 ---
 
 ### NPP condemns Range Bandara’s statement; says UNP has officially admitted Ranil’s defeat
@@ -1303,6 +1337,8 @@ Those crossing were reported in Sampath Bank, which crossed 1.7 million shares t
 ...
 
 [Data](articles/8551a016.json)
+
+[Extended Data](ext_articles/8551a016.ext.json)
 
 ---
 
@@ -1685,6 +1721,28 @@ Foreign Minister Ali Sabri told Ada Derana that the Northern Province has decide
 [Data](articles/4d96b7c2.json)
 
 [Extended Data](ext_articles/4d96b7c2.ext.json)
+
+---
+
+### මත්ද්‍රව්‍ය ජාවාරම්කරුවෙක් සමග සිටි උප පොලිස් පරීක්ෂක ඇතුළු පහක් අල්ලයි
+
+*2024-05-28 19:24:11* · [`adalk`](https://www.ada.lk/breaking_news/මත්ද්‍රව්‍ය-ජාවාරම්කරුවෙක්-සමග-සිටි-උප-පොලිස්-පරීක්ෂක-ඇතුළු-පහක්-අල්ලයි/11-409882) · `si`
+
+මත්ද්‍රව්‍ය ජාවාරම්කරුවෙකු සමග කිලිනොච්චි ආනන්දපුරම් නැගෙනහිර ප්‍රදේශයේ නිවසක රැඳී සිටි උපපොලිස් පරීක්ෂකවරයෙකු ඇතුළු පස්දෙනෙකු අත්අඩංගුවට ගත් බව කිලිනොච්චි පොලීසිය පවසයි.
+
+අත්අඩංගුවට ගත් උපපොලිස් පරීක්ෂකවරයා කයිට්ස් පොලිස් ස්ථානයට අනුයුක්තව රාජකාරී කරමින් සිට විවේකය ලබා සිටි අයෙකු බවද පොලිසිය සඳහන් කරයි.
+
+ඉහත නිවසේ සැකකටයුතු පුද්ගලයන් පිරිසක්රැඳී සිටින බවට පොලීසියට ලද තොරතුරක් මත නිලධාරීන් කණ්ඩායමක් ඊයේ (27දා)රාත්‍රියේ අදාළ නිවස වටලා සෝදිසි කිරීමේදී එහි සිටි එක්පුද්ගලයෙකු ළඟ තිබීඅයිස් මත්ද්‍රව්‍ය මිලිග්‍රෑම් 2,100ක් සහ ඩිජිටල් තරාදියක් සමග අත්අඩංගුවට ගත් බව පොලීසියේ සඳහන් කරයි.
+
+එම නිවසේ තවත් සිවුදෙනෙකු සිට ඇති අතර, ඔවුන්ද අත්අඩංගුවට ගෙන පරීක්ෂා කිරීමේදී ඒ අතර මෙම උපපොලිස් පරීක්ෂකවරයාද සිටි බව පොලීසිය සඳහන් කරයි.
+
+මත්ද්‍රව්‍ය ජාවාරම්කරු මෙම නිවස කුලී පදනම මත ලබාගෙන එහි සිට මත්ද්‍රව්‍ය ජාවාරමේ නිරතව ඇති බව පොලීසිය තොරතුරු හෙළි කරගෙන ඇත.
+
+සැකකාර උපපොලිස් පරීක්ෂකවරයා මෙම පිරිස සමග එක්ව මත්ද්‍රව්‍ය ජාවාරමේ නිරත වූයේදයන්න හෙළි කර ගැනීම සඳහා පොලීසිය විමර්ශන ආරම්භ කර ඇත.
+
+...
+
+[Data](articles/8f216cb5.json)
 
 ---
 
@@ -2191,27 +2249,5 @@ Accordingly, the court will confidentially forward its determination to the Spea
 [Data](articles/8bf9b9c7.json)
 
 [Extended Data](ext_articles/8bf9b9c7.ext.json)
-
----
-
-### Decision to the Telecommunication Regulatory Amendment Bill
-
-*2024-05-28 17:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197125) · `si`
-
-The Supreme Court, led by Chief Justice Jayantha Jayasuriya, has secretly concluded its review of the constitutional validity of the Telecommunications Regulatory Amendment Bill after receiving a petition from Parliament. The decision will be based on the opinions of Justices Mustratu Fernando and Janak de Silva.
-
-🟩
-
-The petition against the Telecommunications Regulatory Amendment Bill has been presented to Parliament has been completed.
-
-Accordingly, the Supreme Court announced his secret conclusion on the constitutionalism of the law of the relevant Bill.
-
-The Petition was held in front of the three-member Supreme Court judge, Chief Justice Jayantha Jayasuriya, Mustratu Fernando and Janak de Silva.
-
-◼️
-
-[Data](articles/3adb861d.json)
-
-[Extended Data](ext_articles/3adb861d.ext.json)
 
 ---

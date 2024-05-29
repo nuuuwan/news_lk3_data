@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-29 06:00:21**
+As of **2024-05-29 07:00:14**
 
 ## Newspaper Stats
 
-*Scraped **26,955** Articles*
+*Scraped **26,960** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 238
 dbsjeyarajcom | 265
 bbccomsinhala | 268
 newsfirstlk | 363
-islandlk | 1,456
+islandlk | 1,461
 economynextcom | 1,540
 dailyftlk | 1,590
 adalk | 2,294
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,319
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,954 (100.0%) of 26,955 articles have been extended.
+26,955 (100.0%) of 26,960 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -364,21 +364,27 @@ Recognising the importance of maintaining transparency and increasing public con
 
 ---
 
-### ’பசில், நாமல் பெயர்களில் சிதறுதேங்காய் உடைப்பு’
+### Model Basil, Namal's names
 
 *2024-05-29 01:47:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பசில்-நாமல்-பெயர்களில்-சிதறுதேங்காய்-உடைப்பு/175-338060) · `ta`
 
-பத்தரமுல்ல நெலும் மாவத்தையில் அமைந்துள்ள ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் தலைமை அலுவலகத்திற்கு சிவில் அமைப்புக்களின் பிரதிநிதிகள் பலர் செவ்வாய்க்கிழமை (28) காலை வருகை தந்த போது அங்கு பதற்றமான சூழ்நிலை ஏற்பட்டது.
+A tense confrontation occurred at the Sri Lanka Peoples Alliance headquarters in Battaramulla, involving civil organization activists and PA officials. The situation escalated, leading to a police intervention. Notably, Namal Rajapaksa and Basil Rajapaksa, both members of the PA, participated in the event, which included breaking coconuts as part of a traditional ceremony. Demonstrators also protested against Minister Prasanna Ranatunga.
 
-சிவில் சமூக ஆர்வலர்கள் ஸ்ரீலங்கா பொதுஜன பெரமுனவின் தலைமையகத்திற்கு முன்பாக ஆர்ப்பாட்டம் செய்யத் தயாரானதையடுத்து அங்கு பரபரப்பான சூழல் ஏற்பட்டது. அந்த அலுவலகத்தில் இருந்த ஒரு குழுவினருக்கும் சிவில் அமைப்புகளின் செயல்பாட்டாளர்களுக்கும் இடையே வாய்கத்தர்க்கம் ஏற்பட்டது, பொலிஸார் தலையிட்டு அவ்விரு குழுக்களையும் கலைத்தனர்.
+🟩
 
-ஶ்ரீ லங்கா பொதுஜன பெரமுனவின் பாராளுமன்ற உறுப்பினர் நாமல் ராஜபக்ஷ மற்றும் அதன் ஸ்தாபகர் பசில் ராஜபக்ஷ ஆகிய இருவர் பெயர்களை தேங்காய்களில் எழுதி சிதறுதேங்காய்கள் இரண்டை அடித்து உடைத்தனர்.
+There was a tense situation when several representatives of civil organizations visited the headquarters of the Sri Lanka Peoples Alliance (PA) headquarters in Battaramulla Nelum Mawatha on Tuesday morning.
 
-அவ்விடத்திலிருந்து வாகனத்தில் சென்ற அமைச்சர் பிரசன்ன ரணதுங்கவையும் ஆர்ப்பாட்டக்காரர்கள் தடுத்து நிறுத்தியதோடு, அவருக்கு எதிராகவும் குரல் கொடுத்தனர்.
+Civil social activists were ready to protest in front of the headquarters of the Sri Lanka PA. There was a rhetoric between a group of people in the office and the activists of civil organizations, and the police intervened and dispersed the two groups.
+
+Namal Rajapaksa and its founder Basil Rajapaksa wrote the names of the Sri Lanka PA parliamentary and broke the two in the coconuts.
+
+The demonstrators stopped Minister Prasanna Ranatunga, who rushed in the vehicle and voiced against him.
 
 ◼️
 
 [Data](articles/bb278b4d.json)
+
+[Extended Data](ext_articles/bb278b4d.ext.json)
 
 ---
 
@@ -1005,6 +1011,22 @@ Such a failure was a severe defeat of Sri Lanka Kabaddi team in the first two pa
 [Data](articles/70f03f65.json)
 
 [Extended Data](ext_articles/70f03f65.ext.json)
+
+---
+
+### Driving growth through listings and diversifying revenue streams at the Colombo Stock Exchange
+
+*2024-05-28 22:01:00* · [`islandlk`](http://island.lk/driving-growth-through-listings-and-diversifying-revenue-streams-at-the-colombo-stock-exchange/) · `en`
+
+Punyamali Saparamadu, Senior Vice President of the CSE Commercial Division, providing a detailed overview on the strategies adopted by CSE to stimulate growth and broaden its revenue sources. Her insights also highlight the new product portfolio as well as issuer relations initiatives of the Colombo Stock Exchange.
+
+Can you talk about the role your division plays in the Colombo Stock
+
+The establishment of a dedicated Commercial Division within the CSE underscores the organization’s commitment to enhancing issuer relations, marketing new products, and diversifying revenue streams while leveraging on its advocacy efforts. These key functions are aimed at strengthening the CSE’s market position among potential issuers across its product suite and fostering growth opportunities.
+
+...
+
+[Data](articles/79067067.json)
 
 ---
 
@@ -2219,27 +2241,5 @@ He entered the treatment unit without the recommendation of the doctor.The other
 [Data](articles/29325d78.json)
 
 [Extended Data](ext_articles/29325d78.ext.json)
-
----
-
-### President instructs immediate relief to affected people
-
-*2024-05-28 17:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197122) · `si`
-
-The President ordered swift aid for those hit by severe weather, emphasizing ongoing support until recovery is complete. The Disaster Management Center is also handling compensation for fatalities.
-
-🟩
-
-The President has instructed the officers to provide immediate relief to the people affected by the inclement weather.
-
-The President has instructed to continue the relief work until the disaster.
-
-The Presidential Media Unit added that the Disaster Management Center has taken compensation for the deceased.
-
-◼️
-
-[Data](articles/cd413dc5.json)
-
-[Extended Data](ext_articles/cd413dc5.ext.json)
 
 ---

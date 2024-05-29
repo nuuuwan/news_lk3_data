@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-29 12:34:08**
+As of **2024-05-29 12:51:38**
 
 ## Newspaper Stats
 
-*Scraped **27,037** Articles*
+*Scraped **27,039** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 363
 islandlk | 1,465
 economynextcom | 1,547
 dailyftlk | 1,591
-adalk | 2,298
-adaderanalk | 3,084
+adalk | 2,299
+adaderanalk | 3,085
 tamilmirrorlk | 3,177
 virakesarilk | 4,142
 dailymirrorlk | 4,263
@@ -26,11 +26,27 @@ adaderanasinhalalk | 4,335
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,033 (100.0%) of 27,037 articles have been extended.
+27,037 (100.0%) of 27,039 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-29 (Wednesday)
+
+### 2023 A/L results to be released before Monday
+
+*2024-05-29 12:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/99509/2023-al-results-to-be-released-before-monday) · `en`
+
+Education Minister Dr. Susil Premajayantha said that necessary arrangements will be made to release the results of the 2023 G.C.E. Advanced Level Examination before next Monday (June 03).
+
+Responding to an inquiry made by Ada Derana, the Minister stated that the necessary work to release the examination’s results are currently being carried out by the Examinations Department.
+
+The 2023 G.C.E. Advanced Level Examination was held from January 04 to 31, 2024 with a total of 346,976 applicants sitting for the exam. Of these, 281,445 were school applicants and 65,531 were private applicants.
+
+◼️
+
+[Data](articles/68ec78db.json)
+
+---
 
 ### President calls for long-term plan to advance Sri Lanka’s energy sector transformation
 
@@ -43,6 +59,8 @@ The President stated this while addressing a roundtable discussion, the Presiden
 ◼️
 
 [Data](articles/d7ceae76.json)
+
+[Extended Data](ext_articles/d7ceae76.ext.json)
 
 ---
 
@@ -66,23 +84,33 @@ However, Kodippili said that if it becomes essential to close the road the DMC w
 
 ---
 
-### நிர்வாண புகைப்படங்களை  வெளியிட்ட காதலன்
+### Lover who released nude photos
 
 *2024-05-29 12:01:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/நிர்வாண-புகைப்படங்களை-வெளியிட்ட-காதலன்/76-338083) · `ta`
 
-17 வயதுடைய பாடசாலை மாணவியின் நிர்வாண புகைப்படங்களை இணையத்தில் வெளியிட்ட குற்றச்சாட்டில் 18 வயதுடைய பாடசாலை மாணவன் ஒருவன் மத்தேகொட பொலிஸாரால் கைது செய்யப்பட்டுள்ளார் .
+An 18-year-old girl from Nugegoda was arrested for sharing explicit photos of her ex-lover, a 17-year-old from Kudamaduwa, on social media. The victim, who had a health issue and was taking medication, ended their relationship, leading to the suspect's anger. The incident is under investigation by the Mattegoda police.
 
-நுகேகொட பிரதேசத்தை சேர்ந்த 18 வயதுடைய பாடசாலை மாணவர் ஒருவரே இவ்வாறு கைது செய்யப்பட்டுள்ளதாக தெரிவிக்கப்பட்டுள்ளது .
+🟩
 
-கைது செய்யப்பட்ட மாணவன்  நுகேகொட பிரதேசத்தில் உள்ள பிரத்தியேக வகுப்பொன்றிக்கு சென்று கொண்டிருந்த போது, ​​மத்தேகொட , குடமாதுவ பிரதேசத்தை சேர்ந்த 17 வயதுடைய பாடசாலை மாணவி ஒருவருடன் காதல் தொடர்பை ஏற்படுத்திக் கொண்டுள்ளார் .
+A 18 -year -old schoolgirl has been arrested by Mattegoda police on charges of posting naked photos of a 17 -year -old schoolgirl.
 
-இந் நிலையில் , குறித்த மாணவன் அடிக்கடி மருந்து வகைகளை உட்கொள்வதை   அறிந்த மாணவி  அது தொடர்பில் வினவிய போது மாணவனுக்கு தீராத நோய் ஒன்று ஏற்பட்டுள்ளமை தெரியவந்துள்ளது .
+A 18 -year -old schoolgirl from Nugegoda has been arrested.
 
-பின்னர் குறித்த மாணவி அவர்களின் காதல் உறவை முறித்துக்கொண்டு வேறொரு இளைஞனுடன் காதலை வளர்த்துக்கொண்டுள்ளார் . இதனால் கோபமடைந்த மாணவன் , குறித்த இருவரும் காதல் உறவில் இருந்த போது , வீடியோ அழைப்புகள் மூலம் ஸ்கிரீன் ஷாட் செய்யப்பட்ட மாணவியின் நிர்வாண புகைப்படங்களை  சமூக வலைத்தளங்களில் வெளியிட்டுள்ளார் .
+While the arrested student was going to an exclusive class in Nugegoda, a 17 -year -old schoolgirl from Kudamaduwa area in Mattegoda had made a love affair.
 
-...
+In this case, the student who knew that the student was frequently taking medications and the student was diagnosed with an illness.
+
+The student then broke their love relationship and developed love with another young man. The angry student, while both in love, posted naked photos of a student who had been shot by video calls on social media.
+
+The suspect has been arrested according to a complaint lodged by the police after some of the friends of the student have been informed of the photos.
+
+In addition, the suspect is to be produced in court and further investigations are being carried out by Mattegoda police.
+
+◼️
 
 [Data](articles/c566b416.json)
+
+[Extended Data](ext_articles/c566b416.ext.json)
 
 ---
 
@@ -134,15 +162,21 @@ He also said that plans are underway to suggest forming special school committee
 
 ---
 
-### மரக்கறி விலைகளில் மாற்றம்
+### Change in vegetable prices
 
 *2024-05-29 11:51:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மரக்கறி-விலைகளில்-மாற்றம்/76-338081) · `ta`
 
-நுவரெலியா விசேட பொருளாதார மத்திய நிலையத்தின் ஊடாக கொள்வனவு மற்றும் விற்பனை செய்யப்படும் கிலோவுக்கான மரக்கறி விலைகளின் விலை பட்டியலை நிலையத்தின் காரியாலயம் புதன்கிழமை (29) வெளியிட்டுள்ளது.
+Nuwara Eliya Special Economic Center announced changes in vegetable prices on Wednesday, affecting local markets.
+
+🟩
+
+The office of the Center on Wednesday (29) was released by the Nuwara Eliya Special Economic Center.
 
 ◼️
 
 [Data](articles/425d4094.json)
+
+[Extended Data](ext_articles/425d4094.ext.json)
 
 ---
 
@@ -374,6 +408,24 @@ Accordingly, Chandrika has submitted this complaint demanding an injunction to p
 
 ---
 
+### ස්ත්‍රියක් අපයොජනය කොට වසර 23ක් සැගව සිටි විජිතට අවසානයේ සිදුවූ දේ
+
+*2024-05-29 11:21:31* · [`adalk`](https://www.ada.lk/breaking_news/ස්ත්‍රියක්-අපයොජනය-කොට-වසර-23ක්-සැගව-සිටි-විජිතට-අවසානයේ-සිදුවූ-දේ/11-409886) · `si`
+
+2010 වසරේදී මුන්දලම පොලිස් වසමට අයත් කන්දතොඩුවාව  ප්‍ර දේශයට නුදුරු ස්ථානයකදී පුද්ගලයින් දෙදෙනෙකු සමග එකතුව ස්ත්‍රියක බලහත්කාරයෙන් අපයොජනය කිරීමේ වරදට පුත්තලම අධිකරණයේ විභාගය වෙමින් තිබූ නඩුවක් මග හරිමින් ඕස්ට්‍රේලියාවට පැනගොස් නැවත දිවයිනට පැමින සිටි පුද්ගලයෙකු 28දා මුදුරන්කුලිය පොලීසිය විසින් අත්අඩංගුවට ගෙන ඇත.
+
+මෙසේ අත්අඩංගුවටපත්ව ඇත්තේ මදුරන්කුලිය, වැල්ලවත්ත පදිංචි විජිත ලක්මාල් නැමති පුද්ගලයෙකි.
+
+අත්අඩංගුව පත් පුද්ගලයා සමග ඔහුගේ මිතුරකු සමග එකතුව 2010 වසරේදී කන්දතොඩුවාව  ප‍්‍රදේශයට නුදරු ස්ථානයකදී ස්ත්‍රියක් බලයෙන් පැහැරගෙන ගොස් අපයොජනය කිරීම සම්බන්ධයෙන් අදාල සැකකරුවන් දෙදෙනාම අත්අඩංගුවට ගෙන අධිකරණයට ඉදිරිපත් කිරීමෙන් අනතුරුව බන්ධනාගාර ගතව සිට අනුතුරුව ඇපලබා නඩුව විභාගය වෙමින් තිබියදී සැකකරු  අධිකරණය මග හැර රටින් පිටව ගොස් ඇත .
+
+අනතුරුව නඩුව ඒක පාරශිකව විභාගයකර නඩුවට ඉදිරිපත් වූ පුද්ගලයාට සහ අධිකරණය මග හැරිය පුද්ගලයාට වසර 17ක බරපතල වැඩසහිත සිරදඩුවමක් ලබාදී ඇත.
+
+...
+
+[Data](articles/c4d35c4a.json)
+
+---
+
 ### Permanent residence for persons of Sri Lanka descent, foreign spouses
 
 *2024-05-29 11:19:00* · [`economynextcom`](https://economynext.com/permanent-residence-for-persons-of-sri-lanka-descent-foreign-spouses-165234/) · `en`
@@ -514,17 +566,25 @@ Thus, local meat prices have increased.   அதன்படி, நாரஹ�
 
 ---
 
-### අතරමග නැවතුණු මධ්‍යම පාන්තික නිවාස ව්‍යාපෘති නැවත අරඹයි
+### Straining middle-class housing projects again
 
 *2024-05-29 10:53:12* · [`adalk`](https://www.ada.lk/breaking_news/අතරමග-නැවතුණු-මධ්‍යම-පාන්තික-නිවාස-ව්‍යාපෘති-නැවත-අරඹයි/11-409885) · `si`
 
-කොවිඩ් සහ ආර්ථික අර්බුධය හේතුවෙන් අතරමග නතර කෙරුණු මාලඹේ, බොරලැස්ගමුව, මාකුඹුර යන විශේෂ කැබිනට් පත්‍රිකාවක් අමාත්‍යමණ්ඩලයට ඉදිරිපත් කෙරේ. නාගරික සංවර්ධන හා නිවාස අමාත්‍ය ප්‍රසන්න රණතුංග මහතා එය කැබිනට් මණ්ඩලයට ඉදිරිපත් කර ඇත.
+Due to the economic crisis, Sri Lanka's Urban Development and Housing Minister Prasanna Ranatunga has submitted a special cabinet proposal for three housing projects: Malabe (256 houses), Boralesgamuwa (120 houses), and Makumbura (314 houses). These projects, initiated in February 2021, faced temporary halts in March 2023 and July 2022, with total expenditures of Rs. 369 million and Rs. 1378 million respectively.
 
-මෙම නිවාස ව්‍යාපෘති තුන නාගරික සංවර්ධන අධිකාරිය ආරම්භ කරන ලද්දේ 2021 වර්ෂයේ පෙබරවාරි මාසයේ දී ය. මාලඹේ නිවාස ව්‍යාපෘතිය සදහා රු.මිලි. 3148.80 ක් වෙන් කෙරිණ. ඒ නිවාස 256 ක් ඉදිකිරීම සදහායි. නිවාස 120 ක් ඉදිකිරීම සදහා වන බොරලැස්ගමුව නිවාස ව්‍යාපෘතිය සදහා වෙන් කළ මුදල රු. මිලි. 1476 කි. යෝජිත මාකුඹුර නිවාස ව්‍යාපෘතිය සදහා වන ඇස්තමේන්තුගත මුදල රු.මිලි. 3859ක් වන අතර එහි ඉදිකෙරෙන නිවාස සංඛ්‍යාව 314 කි.
+🟩
 
-...
+Special Cabinet at Makumbura to be submitted due to the covard and economic crisis. Urban Development and Housing Prasanna Ranatunga has been submitted to the Cabinet.
+
+The three housing projects were started in February 2021 in February. Rs. House in Malabe. 3148.80 was allocated. 256 houses were built. Allocation for the Boralesgamuwa Housing Project for the construction of 120 houses. Ml. 1476. Estimated amount of estimated cost of the proposed Makumbura Housing Project. There are 3859 and the number of houses involved in 314.
+
+The Mahalapa Housing Project was temporarily suspended from March 2023 and the Urban Development Authority was already spent on its construction.The work of Boralesgamuwa and Makulura projects are temporarily stopped in July, 2022. The Authority had already spent 369 rupees and Rs. 1378 respectively.
+
+◼️
 
 [Data](articles/2e065722.json)
+
+[Extended Data](ext_articles/2e065722.ext.json)
 
 ---
 
@@ -2247,57 +2307,5 @@ Chartered Institute of Taxation of Sri Lanka (CITSL) President Ranil Abeywardhen
 [Data](articles/6141f8fd.json)
 
 [Extended Data](ext_articles/6141f8fd.ext.json)
-
----
-
-### Postponing game
-
-*2024-05-29 00:39:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒத்திவைக்கும்-விளையாட்டு-சரிவராது/175-338057) · `ta`
-
-Anuragumara Dissanayake criticizes the government for not addressing public issues, leading to current challenges. He spoke at a women's conference, emphasizing the need for genuine solutions. Range Bandara suggests holding the presidential election as scheduled but supports giving Ranil Wickremesinghe another term, indicating a lack of viable alternatives. Dissanayake highlights the potential of Sri Lanka, rich in natural resources, yet facing issues like hunger and homelessness, calling for a nation where everyone thrives.
-
-🟩
-
-Anuragumara Dissanayake, the leader of the National People's Power and Member of Parliament, said that if the country had given real answers to the problems of the people, the country would not have met such a fate.
-
-Speaking at the Vavuniya District Women's Conference of the National People's Power, Mr. Dissanayake said this.
-
-Range Bandara has said that the presidential election should be held as planned but that Ranil Wickremesinghe should be given five more years.It means that Ranil only asks for the presidential election without asking anyone else and that they cannot win.
-
-The entire politics of Sri Lanka is a national people's power center.
-
-This country is not the country to begging. This is not a country that people have to suffer. This is not a country that people want to starve, this is a gem with all natural resources, such as a gem and people die without food. There are homeless people. We will build a country where everyone can live together.
-
-◼️
-
-[Data](articles/f753ce5a.json)
-
-[Extended Data](ext_articles/f753ce5a.ext.json)
-
----
-
-### There is no place for the election
-
-*2024-05-29 00:36:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தலை-பிற்போட-இடமில்லை/175-338056) · `ta`
-
-The presidential election cannot be postponed due to constitutional restrictions, as stated by Keens Nelson from the United People's Power. Palitha Range Bandara, from the United National Party, made incorrect claims about the constitution, prompting calls for him to clarify his statements. The executive president assures protection of the constitution, and any attempts to postpone elections or extend terms would likely fail due to lack of constitutional provisions.
-
-🟩
-
-The presidential election cannot be postponed according to the Constitution. United People's Power MP Keens Nelson said that a referendum could not be held for the presidential election.
-
-He said this at a media briefing held at the Opposition Leader's office on Tuesday (28).
-
-United National Party General Secretary Palitha Range Bandara makes such comments without understanding the constitution.
-
-Before telling this story to the country, Palitha Range Bandara should first point to which section of the Constitution is mentioned.. He urged to avoid publishing such reckless statements.
-
-The executive president of the country gives the promise to protect the Constitution. Palitha Range Bandara is acting as a violation of the Constitution. He said the proposals would definitely defeat if the proposals were brought to postpone the presidential election and the general election for 2 years or to extend their tenure.
-
-...
-
-[Data](articles/8402fe94.json)
-
-[Extended Data](ext_articles/8402fe94.ext.json)
 
 ---

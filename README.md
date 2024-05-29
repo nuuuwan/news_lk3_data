@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-29 09:34:13**
+As of **2024-05-29 09:53:40**
 
 ## Newspaper Stats
 
-*Scraped **26,986** Articles*
+*Scraped **26,990** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,58 @@ newsfirstlk | 363
 islandlk | 1,465
 economynextcom | 1,540
 dailyftlk | 1,591
-adalk | 2,295
+adalk | 2,296
 adaderanalk | 3,077
 tamilmirrorlk | 3,166
 virakesarilk | 4,138
-dailymirrorlk | 4,254
-adaderanasinhalalk | 4,325
+dailymirrorlk | 4,256
+adaderanasinhalalk | 4,326
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,984 (100.0%) of 26,986 articles have been extended.
+26,986 (100.0%) of 26,990 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-29 (Wednesday)
+
+### ගංඟා කිහිපයක ජල මට්ටම ඉහළට
+
+*2024-05-29 09:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197141) · `si`
+
+ගංඟා කිහිපයක ජල මට්ටම තවදුරටත් ඉහළ මට්ටමක පවතින බව වාරිමාර්ග දෙපාර්තමේන්තුව පවසයි.
+
+එහි වාරිමාර්ග ඉංජිනේරු සකුරා දිල්තාරා මහත්මිය සඳහන් කළේ, මෙම තත්ත්වය ගැන දැඩි විමසිල්ලෙන් කටයුතු කරන ලෙස පහත්බිම්වල වෙසෙන ජනතාවගෙන් ඉල්ලා සිටිය යුතු බවය.
+
+"ලංකාවේ නිරිත දිග ප්‍රදේශ ඔස්සේ ගලා බසින අත්තනගලු ඔය, කළු, ගිං සහ නිල්වලා යන ප්‍රධාන ගංගාවන් අද උදෑසන වනවිටත් ඉහළ ජල මට්ටමක් වාර්තා කරනවා. විශේෂයෙන්ම කළු ගඟේ ඉහළ ධාරා ප්‍රදේශවලට එනම් රත්නපුර හා ඉන් ඉහළ ධාරා ප්‍රදේශවලට සැලකිය යුතු වර්ෂාපතනයක් පැවතීම නිසා මේ වනවිට රත්නපුර හා ඒ අවට ප්‍රදේශවල ජනතාව අවධානයෙන් සිටිය යුතු මට්ටමට ළඟා වී තිබේ. විශේෂයෙන් අද දහවල් හා රාත්‍රියේ තද වැසි ඇති වුවහොත් මේ තත්ත්වය අනතුරුදායක තත්ත්වයකට පත්විය හැකිය. ගිං සහ නිල්වලා ගඟත් අවධානයෙන් සිටිය යුතු මට්ටමට ළඟා වී ඇති අතර ගංවතුර අවධානමක් නොමැති බව පැවසිය හැකියි."
+
+◼️
+
+[Data](articles/e40a7605.json)
+
+---
+
+### Fish harvest down, meat varieties up by Rs. 50
+
+*2024-05-29 09:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Fish-harvest-down-meat-varieties-up-by-Rs-50/108-283589) · `en`
+
+Colombo, May 29 (Daily Mirror) - The National Consumer Front (NCF) reported that reduced fish harvests have led to increased prices for meat varieties, including chicken, in the local market.
+
+Fish prices have risen because fishermen were advised by the Meteorology Department to avoid fishing due to rough seas. The sea areas around the island are expected to remain rough, and naval and fishing communities are advised not to venture out until further notice.
+
+As a result, local meat prices have increased by Rs. 50 today. The NCF noted that the price hikes began at the farms.
+
+Accordingly, the wholesale price of a kilo of fresh chicken at the Narahenpita Economic Centre is recorded at Rs. 1,080.
+
+The retail prices of a kilo of various meats at the Narahenpita Economic Centre are as follows:
+
+◼️
+
+[Data](articles/78c69592.json)
+
+---
 
 ### Gujarat ATS to visit Sri Lanka for further investigation into ‘ISIS terrorists’ arrested at Ahmedabad Airport
 
@@ -40,7 +76,7 @@ The Gujarat Anti-Terrorist Squad (ATS) is preparing to visit Sri Lanka to furthe
 
 This development comes as Sri Lankan police have detained two individuals related to the case, while a third suspect, Osmond Gerrard, remains at large.
 
-Sri Lanka has declared Gerrard wanted and announced a $2 million reward for his capture.
+Sri Lanka has declared Gerrard wanted and announced a Rs. 2 million reward for his capture.
 
 Gujarat Anti-Terrorism Squad (ATS) thwarted a potential terror attack with the arrest of four Sri Lankan nationals at Ahmedabad airport on May 20.
 
@@ -49,6 +85,8 @@ The apprehended suspects, identified as Mohammad Nusrat (33), Mohammad Farish (3
 ...
 
 [Data](articles/0bc8a919.json)
+
+[Extended Data](ext_articles/0bc8a919.ext.json)
 
 ---
 
@@ -612,23 +650,29 @@ Perera is a Fellow Member of Association of Chartered Certified Accountants (UK)
 
 ---
 
-### 'බිම බඩගාගෙන යන කෙනෙක්ට අර වගේ කෙනෙක් කැමති වුණේ කොහොමද කියලා හැමෝම හිතනවා'
+### "Everyone Think How Did You Lang Languate?"
 
 *2024-05-29 02:08:00* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/ce44jdvzydpo) · `si`
 
-මෙහි කිසිවක් අඩංගු නැත.වීඩියෝ ශීර්ෂ වැකිය, ''ශාරීරික වෙනසට වඩා උපුල්ගේ ආත්ම විශ්වාසය වැඩියි''
+Upul Ranjith, despite being physically challenged, inspires children at the Homagama Zonal Education Office with his resilience and motivational speeches. His story of overcoming adversity was featured on the BBC Sinhala service, highlighting his impact beyond physical limitations.
 
-'බිම බඩගාගෙන යන කෙනෙක්ට අර වගේ කෙනෙක් කැමති වුණේ කොහොමද කියලා හැමෝම හිතනවා'
+🟩
 
-හෝමාගම කලාප අධ්‍යාපන කාර්යාලයේ සේවය කරන උපුල් රංජිත් උපතින්ම ලද ආබාධ නොසලකා ධෛර්යය සම්පන්නව ජීවිතයට මුහුණදෙන තරුණයෙකි.
+None contains none of this. 'The self-confidence of Upul is more than physical "
 
-පාදවල අසාමාන්‍ය තත්ත්වයක් සහිත ඔහුගේ අත්වල ඇඟිලි අඩුය.  උපුල් පිළිගැනීමේ නිලධාරියෙකු ලෙස සේවය කරයි. එමෙන්ම ඔහු අභියෝග හමුවේ නොසැලී ජීවිතයට මුහුණදෙන ආකාරය ගැන දරුවන් අභිප්‍රේරණය කරන්නෙකි.
+"Everyone Think How Did You Lang Languate?"
 
-''ඕනෑම කෙනක් හිතනවා මම බිම බඩගාගෙන යන කෙනෙක්. ඇයි අරවගේ කෙනෙක් කැමති වුණේ කියලා. ඇය කියන්නේ අබාධ සහිත තත්ත්වයක් මගෙන් දැක්කට අනිත් යට වඩා මම ලෝකය ජයගත්ත පුද්ගලයෙක් හැටියට'' යනුවෙන් උපුල් රංජිත් BBC සිංහල සේවයට පැවසුවේය.
+The courage is a young person despite the birth of Upul Ranjith, who works at the Homagama Zonal Education Office.
+
+The fingers of his arms with unusual status of the feet. Works as Upul Accepons. He is also motivating children about how life is faced with the challenges.
+
+'' Anyone thinks I'm a crawl. Why did a person liked. She says, "As a person who has overcome a situation I have overcome a situation," told BBC Sinhala service.
 
 ◼️
 
 [Data](articles/d95f721d.json)
+
+[Extended Data](ext_articles/d95f721d.ext.json)
 
 ---
 
@@ -1347,6 +1391,20 @@ The best parent companies are those which create more value than any other rival
 [Data](articles/3f3a912f.json)
 
 [Extended Data](ext_articles/3f3a912f.ext.json)
+
+---
+
+### Dharmasena’s agarwood  project faces yorker from Central Bank!
+
+*2024-05-29 00:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Dharmasenas-agarwood-project-faces-yorker-from-Central-Bank/108-283567) · `en`
+
+The billboard showing the existence of Pintanna Plantations Pvt Ltd; an institute that has stirred much controversy
+
+Central Bank of Sri Lanka (CBSL) has launched investigations into multiple complaints it has received regarding the collection of cash deposits for plantation investment projects. Recently, the Central Bank disclosed that it has obtained information about institutions accepting deposits from the public primarily for agricultural investments.
+
+...
+
+[Data](articles/a0a39701.json)
 
 ---
 
@@ -2196,100 +2254,20 @@ In his interrogation, he was part of the robbery jewelry that he was temporarily
 
 ---
 
-### Seedl in Sri Lanka's first strawberry village
+### වතු රජයට පවරා ගැනීමට සහාය දෙන බව වතු කම්කරු සංගමය කියයි
 
-*2024-05-28 18:50:02* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවේ-පළමු-ස්ට්‍රෝබෙරි-ගම්මානයේ-පැළ-සිටුවා-අවසන්/11-409878) · `si`
+*2024-05-28 18:59:07* · [`adalk`](https://www.ada.lk/breaking_news/වතු-රජයට-පවරා-ගැනීමට-සහාය-දෙන-බව-වතු-කම්කරු-සංගමය-කියයි/11-409879) · `si`
 
-Sri Lanka's first strawberry village, Seedl, established by the Department of Agriculture, features strawberry cultivation across 42 safe houses involving 50 farmers. This initiative, modeled after four villages in Nuwara Eliya, aims to boost local strawberry production, with imported plants from Australia distributed among the farmers.
+වතු කම්කරු වැටුප් වැඩි නොකරන සියලුම වතු රජයට පවරා ගැනීම සඳහා සිය සංගමයේ පූර්ණ සහයෝගය ලබාදෙන බව පහත රට වතු කම්කරුවන්ගේ සංගමයේ සභාපති රුවන් ගාල්ලගේ මහතා ඊයේ (28දා) පස්වරුවේදී පිටිගල පැවති මාධ්‍ය හමුවකදී කීවේය.
 
-🟩
+වතු කම්කරු වැටුප වතු හාම්පුතුන් වැඩි නොකරන්නේ නම්  වතු කම්කරු දීපව්‍යාප්ත වැඩ වර්ජනයකට සූදානම් බවත්, එසේ වුවහොත්  වතු හාම්පුතුන්ට වතු සමාගම් කරගෙන යාමට නොහැකිව රජයට භාරදීම හැර වෙනත් විකල්පයක් නැති බවත් ගාල්ලගේ මහතා මෙහිදී කීවේය.
 
-The Department of Agriculture says that the planting of strawberry in Sri Lanka has completed the work of planting stroberry.
+වතු හාම්පුතුන් වතු කම්කරු වැටුප් වැඩි නොකරන්නේ නම් සිය සංගමය වතු රජයට පවරා ගැනීමේ වැඩපිළිවෙළට වක්‍රව නොව සෘජුවම සහයෝජය ලබාදෙන බවත් ඒ වෙනුවෙන් තමන්ද රජය සමග අත්වැල් බැඳ ගන්නා බවත් ගාල්ලගේ මහතා කීය.
 
-The Department of Agrarian Development has taken steps to establish this model strewelry based on four villages in Nuwara Eliya.
-
-The strewberry cultivation has been launched in 42 safe house with 50 farmers at a cost of Rs.
-
-Steps have been taken to distribute imported strawberry plants from Australia to this country, and the planting of planting planting in the safe house is fully ended, AMML. Mr. Abeyratne said.
-
-◼️
-
-[Data](articles/536f7744.json)
-
-[Extended Data](ext_articles/536f7744.ext.json)
-
----
-
-### Owner of Malaysia's jobs
-
-*2024-05-28 18:34:22* · [`adalk`](https://www.ada.lk/breaking_news/මැලේසියාවේ-රැකියා-පෙන්වා-මුදල්-වංචාකළ-ඒජන්සි-හිමිකරු-දැලේ/11-409876) · `si`
-
-The owner of a Sri Lanka-based foreign employment agency was arrested for allegedly refusing to pay workers and operating without valid job orders. The agency's license has been suspended, and further arrests are expected. A second suspect was also arrested related to a separate case involving alleged fraud in Australia. The Sri Lanka Bureau of Foreign Employment advises checking its website or calling a specific number to verify job agencies' legitimacy.
-
-🟩
-
-The owner of a foreign employment agency, the owner of the Sri Lanka Bureau of Foreign Employment, was arrested by the Sri Lanka Foreign Employment Bureau yesterday (5/7).
-
-Rs.
-
-Although the youth goes back to the relevant employment, he lodged to the Special Investigation Division of the Bureau, as the owner of the company was refusing to pay the money.
-
-Accordingly, the owner of the employer, to the Bureau, to the Bureau, has been arrested by the charge and violating the bureaucraft without a valid job order.
-
-The suspect was produced before the Maligakanda Magistrate's Court today (5/28) and remanded till tomorrow.
-
-The Bureau has already taken steps to suspend the license of the Employment Agency and further investigations are being carried out to arrest another person who supported this fraudulent act.
+වතු හාම්පුතුන් දන්නා හෝ නොදන්නා කාරණයක් වුවත්, මේ වනවිට වතු කර්මාන්තයෙන් වතු කම්කරුවන් ඉවත්වෙමින් පවතින බවත්, වතු කම්කරුවන්ට ගෙවන අඩු වැටුප නිසා ඔවුන් වැටුප් වැඩි වෙන රස්සාවලට යමින් පවතින බවත් ගාල්ලගේ මහතා කීවේය.
 
 ...
 
-[Data](articles/5d4a33f4.json)
-
-[Extended Data](ext_articles/5d4a33f4.ext.json)
-
----
-
-### Sri Lanka’s Commercial Bank in rights issue to raise Rs22bn
-
-*2024-05-28 18:30:00* · [`economynextcom`](https://economynext.com/sri-lankas-commercial-bank-in-rights-issue-to-raise-rs22bn-165131/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Commercial Bank of Ceylon, the largest private bank by assets, has made a capital call from shareholders of 22 billion rupees, offering voting shares at 85 rupees and non-voting at 69 rupees.
-
-Commercial Bank will offer 252,082,449 shares in the proportion of 1 for every exiting 5, to raise 21.42 billion rupees, the bank said in a stock exchange filing.
-
-It will also offer 15,847,696 shares also 1 for 5 to raise 1,093 billion rupees.
-
-The 22.52 billion rupees will used to bolster Tier 1 capital to accommodate future lending, the firm said.
-
-The bank’s Tier 1 capital was 11.36 percent as at March 2024 (required 10 percent) and total capital ratio, 14.87 percent, (required 14.0 percent)
-
-Commercial Bank had equity of 220.83 billion rupees and net assets of 164.93 rupees per share.
-
-The stock closed at 112.75 rupees, down 75 cents on Tuesday.
-
-...
-
-[Data](articles/332e1633.json)
-
-[Extended Data](ext_articles/332e1633.ext.json)
-
----
-
-### Education Ministry’s request to university non-academic staff on strike
-
-*2024-05-28 18:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/99497/education-ministrys-request-to-university-non-academic-staff-on-strike) · `en`
-
-The Ministry of Education has requested the university non-academic staff trade unions to withdraw from their ongoing strike action.
-
-In a statement issued, the Ministry of Education urges university non-academic staff to report back to their respective duties after withdrawing from the ongoing strike action.
-
-The statement further stated that solutions would be provided to the demands of the trade unions as per the Cabinet decision taken in its meeting held on May 27, 2024.
-
-The ministry further mentioned that it has been decided to appoint a committee headed by the Secretary to the Treasury to look into the wage disparities of non-academic staff which have existed since 2018 and other related salary disparities, and make recommendations and report to the cabinet before the next Budget proposal is prepared.
-
-◼️
-
-[Data](articles/ad27ddaf.json)
-
-[Extended Data](ext_articles/ad27ddaf.ext.json)
+[Data](articles/fb3a6117.json)
 
 ---

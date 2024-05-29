@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-30 01:52:45**
+As of **2024-05-30 02:03:47**
 
 ## Newspaper Stats
 
-*Scraped **27,174** Articles*
+*Scraped **27,175** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,556
 dailyftlk | 1,591
 adalk | 2,311
 adaderanalk | 3,095
-tamilmirrorlk | 3,188
+tamilmirrorlk | 3,189
 virakesarilk | 4,180
 dailymirrorlk | 4,297
 adaderanasinhalalk | 4,351
@@ -26,11 +26,27 @@ adaderanasinhalalk | 4,351
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,173 (100.0%) of 27,174 articles have been extended.
+27,174 (100.0%) of 27,175 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-30 (Thursday)
+
+### ’அரசியலமைப்பின் பிரகாரம் ஜனாதிபதித் தேர்தல்’
+
+*2024-05-30 01:46:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசியலமைப்பின்-பிரகாரம்-ஜனாதிபதித்-தேர்தல்/175-338120) · `ta`
+
+பொறுப்பற்ற கூற்றுகள் மூலம் நாட்டில் குழப்பத்தை ஏற்படுத்த ஜனநாயக ஆட்சியில் சந்தர்ப்பம் கிடைக்காது எனவும் அவர் தெரிவித்துள்ளார்.
+
+கொழும்பில் நடைபெற்ற நிகழ்வொன்றின் பின்னர் ஊடகவியலாளர்கள் எழுப்பிய கேள்விக்கு பதிலளித்த போதே பிரதமர் இவ்வாறு குறிப்பிட்டார்.
+
+செப்டம்பர் - ஒக்டோபர் மாதங்களுக்கு இடையில் தேர்தலை நடத்துவதற்கான ஏற்பாடுகளை தேர்தல்கள் ஆணைக்குழு மேற்கொள்ளுமெனவும், இதனை அரசாங்கமும் அறிவித்துள்ளதாகவும் அவர் தெரிவித்துள்ளார். (a)
+
+◼️
+
+[Data](articles/c268c3c4.json)
+
+---
 
 ### Unlocking economic growth and Strategic Advantages: Potential benefits for Sri Lanka from BRICS
 
@@ -611,6 +627,8 @@ Last Friday (24 May 2024) saw my wife and me attending the Opening Ceremony of J
 ...
 
 [Data](articles/bdaf17dd.json)
+
+[Extended Data](ext_articles/bdaf17dd.ext.json)
 
 ---
 
@@ -2255,19 +2273,5 @@ He said the Examinations Department is taking measures to release the results.
 [Data](articles/3fbc98e5.json)
 
 [Extended Data](ext_articles/3fbc98e5.ext.json)
-
----
-
-### All schools to function as normal in next two days
-
-*2024-05-29 14:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/99511/all-schools-to-function-as-normal-in-next-two-days) · `en`
-
-The Ministry of Education (MoE) informs that all Government schools will function as normal tomorrow (30) and the day after (31).
-
-◼️
-
-[Data](articles/fc9051fb.json)
-
-[Extended Data](ext_articles/fc9051fb.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-29 19:04:13**
+As of **2024-05-29 19:18:51**
 
 ## Newspaper Stats
 
-*Scraped **27,139** Articles*
+*Scraped **27,141** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 266
 bbccomsinhala | 270
 newsfirstlk | 363
 islandlk | 1,465
-economynextcom | 1,554
+economynextcom | 1,556
 dailyftlk | 1,591
 adalk | 2,306
 adaderanalk | 3,092
@@ -26,11 +26,51 @@ adaderanasinhalalk | 4,348
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,136 (100.0%) of 27,139 articles have been extended.
+27,139 (100.0%) of 27,141 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-29 (Wednesday)
+
+### Iraq official invites Sri Lanka investors to do business in Bagdad, Kurdistan
+
+*2024-05-29 19:00:00* · [`economynextcom`](https://economynext.com/iraq-official-invites-sri-lanka-investors-to-do-business-in-bagdad-kurdistan-165363/) · `en`
+
+ECONOMYNEXT – The Chargé d’Affairs of the Embassy of Republic of Iraq in Colombo Mohammed Obaid Jabur Zahir Al- Masoudi has invited Sri Lankan investors to establish business links in Bagdad and Kurdistan.
+
+Trade Minister Nalin Fernando met with Al- Masoudi on Wednesday to discuss holding the 9th session of Iraq-Sri Lanka for Economic and Technical Cooperation in Sri Lanka in November.
+
+The forum offers a platform to develop bilateral relations between both countries.
+
+“The Head of the embassy encourages Sri Lankan investors to establish business links in Bagdad and Kurdistan,” the trade ministry said in a statement after the meeting. “[He] explained that through direct shipping facilities, Sri Lanka can enjoy the benefits of fast and convenient trade facilitation to Europe and the Middle East countries.”
+
+Iraq is one of the main buyers of Sri Lanka’s tea. Nearly 150,000 migrant Sri Lankans work in Iraq.
+
+...
+
+[Data](articles/3cc9e059.json)
+
+---
+
+### Sri Lanka prime minister says presidential election still scheduled for 2024
+
+*2024-05-29 18:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-prime-minister-says-presidential-election-still-scheduled-for-2024-165383/) · `en`
+
+ECONOMYNEXT — Sri Lanka’s government had not discussed at any point the postponement of the presidential election, Prime Minister Dinesh Gunawardena said, dismissing a controversial proposal by the United National Party (UNP) as “irresponsible”.
+
+Speaking to reporters on Wednesday May 29, Gunawardena said the date for the presidential election are for 2024 and that the constitution provides for the election commission to call elections.
+
+“According to the constitution, it is the election commission that has the power to call a presidential election within the due dates. It cannot be called early or later. The provisions are there in the constitution,” he said.
+
+Responding to questions on safeguarding democracy, the prime minister said the government had in fact restored democracy.
+
+“We have restored democracy since the night it was destroyed,” he said.
+
+...
+
+[Data](articles/6b7cabb0.json)
+
+---
 
 ### Four dead after consuming illicit liquor in Dambulla
 
@@ -56,47 +96,59 @@ Police said in addition to the post-mortem examination, forensic reports would a
 
 ---
 
-### වසර 3කට පසුව ගෙදර ගිය කාන්තාව අතරමදී මරුට
+### Two years later, the woman killed in the house
 
 *2024-05-29 18:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197163) · `si`
 
-වසර 3කට පසුව සිය නිවස වෙත යමින් සිටි කාන්තාවක් අවාසනාවන්ත ලෙස ජීවිතක්ෂයට පත්ව තිබේ.
+A 26-year-old woman from Passara, who had been working in Kuwait, tragically died when her three-wheeler collided with a bus in Pelmadulla, causing it to fall into a 15-foot precipice. The accident also injured three other passengers, who were hospitalized in Pelmadulla, Kahawatta, and Ratnapura.
 
-මෙලෙස මියගොස් ඇත්තේ පස්සර ප්‍රදේශයේ පදිංචිව සිටි 26 හැවිරිදි වියේ පසුවූ එක්දරු මවකි.
+🟩
 
-ඇය වසර 03කට ආසන්න කාලයක් කුවේට් රාජ්‍යයේ සේවයේ නිරතව සිට පැමිණ යළි සිය නිවස වෙත යමින් සිටියදී මෙම අනතුර සිදුව තිබුණි.
+A woman who was going to her home after three years has died.
 
-ඔවුන් ගමන්කරමින් තිබූ ත්‍රිරෝද රථය බස් රථයක ගැටීමෙන් පැල්මඩුල්ල ප්‍රදේශයේදී මෙම අනතුර සිදුව තිබුණි.
+The deceased is a 26-year-old resident of Passara, Passara.
 
-ත්‍රිරෝද රථයේ ගැටුණු බස් රථය මාර්ගයෙන් ඉවතට පැන අඩි 15ක පමණ ප්‍රපාතයකට පෙරළී තිබුණි.
+The accident had occurred while she was working in Kuwait and returning to her home.
 
-මෙම අනතුරින් ත්‍රිරෝද රථයේ ගමන්කළ මියගිය කාන්තාව ඇතුලු මගීන් තිදෙනෙකුද තුවාල ලබා ඇති බව පොලීසිය පවසයි.
+The accident had occurred in Pelmadulla as a three-wheeler was trapped in a bus.
 
-තුවාලකරුවන් පැල්මඩුල්ල, කහවත්ත, සහ රත්නපුර රෝහල් වෙත ඇතුළත් කර ඇත.
+The bus collided in the three-wheeler had fallen into a precipice of about 15 feet.
 
-එහිදී බරපතළ තුවාල ලබා සිටි කාන්තාව අවාසනාවන්ත ලෙස මියගොස් තිබුණි.
+Three passengers, including the deceased, has also been injured in the accident.
+
+The injured have been admitted to the Pelmadulla, Kahawatta, and Ratnapura hospitals.
+
+The woman who was severely injured had died unfortunately.
 
 ◼️
 
 [Data](articles/e5b869b9.json)
 
+[Extended Data](ext_articles/e5b869b9.ext.json)
+
 ---
 
-### ’கொதிக்கும்’ டெல்லி: 52.3 டிகிரி செல்சியஸ் வெப்ப நிலை பதிவு
+### Model boiling telephone Delhi: 52.3 degrees Celsius
 
 *2024-05-29 18:17:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொதிக்கும்-டெல்லி-52-3-டிகிரி-செல்சியஸ்-வெப்ப-நிலை-பதிவு/175-338117) · `ta`
 
-: தலைநகர் டெல்லியில் வரலாற்றில் இதுவரை இல்லாதவாறு 52.3 டிகிரி செல்சியஸ் என்ற அளவில் அதிகபட்ச வெப்ப நிலை பதிவாகியுள்ளது.
+Delhi experiences record-high temperatures, reaching 52.3°C, amid upcoming monsoon season. Peak electricity demand hits 8300 MW, surpassing previous records.
 
-கேரளாவில் தென்மேற்கு பருவமழை நாளை மறுதினம் தொடங்கவுள்ள நிலையில், நாட்டின் தலைநகர் டெல்லியில் கடுமையான வெப்ப அலை நிலவி வருகிறது. தலைநகர் டெல்லியில் வரலாற்றில் இதுவரை இல்லாதவாறு 52.3 டிகிரி செல்சியஸ் என்ற அளவில் அதிகபட்ச வெப்ப நிலை இன்று பதிவாகியுள்ளதாக இந்திய வானிலமை மையம் தெரிவித்துள்ளது.
+🟩
 
-டெல்லி முன்கேஸ்பூர் பகுதியில் இந்த அளவுக்கு கடுமையான வெப்ப நிலை நிலவியதாக தெரிவிக்கப்பட்டுள்ளது. நேற்று 49.9 டிகிரி செல்சியஸ் என்ற அளவில் டெல்லியில் வெப்பநிலை பதிவானது குறிப்பிடத்தக்கது
+: In the capital Delhi, the highest temperature has been recorded at 52.3 degrees Celsius.
 
-இதற்கிடையே, இன்று நிலவிய இந்த கடுமையான வெப்ப நிலை காரணமாக டெல்லியில் மின் தேவையும் உச்சத்தை எட்டியுள்ளது. டெல்லியின் மின் தேவை இன்று மட்டும் 8300 மெகாவாட் என்ற புதிய உச்சத்தை தொட்டது. இத்தனை மெகாவாட் மின்தேவை டெல்லியில் இதுவரை இருந்ததில்லை. இதுவே முதல்முறை என்று மின்வாரிய அதிகாரிகள் தெரிவித்துள்ளனர்
+The country's capital, Delhi, is on a rough wave as the southwest monsoon starts tomorrow in Kerala. The maximum temperature of 52.3 degrees Celsius has been reported today in the capital Delhi, according to the Indian Affairs Center.
+
+The Delhi Munglespur area has reportedly had a severe temperature. Temperature recorded in Delhi at 49.9 degrees Celsius yesterday
+
+Meanwhile, the demand for power in Delhi has reached its peak due to this heavy temperature today. Delhi's power demand today touched the new peak of 8300 MW today. This has never existed in Delhi. Electricity officials said this is the first time
 
 ◼️
 
 [Data](articles/52926753.json)
+
+[Extended Data](ext_articles/52926753.ext.json)
 
 ---
 
@@ -122,17 +174,23 @@ MP Harsha De Silva who referred to the proposed debate with the NPP said his par
 
 ---
 
-### වාහන ආනයනය ගැන මහ බැංකුවෙන් කොළ එළියක්
+### Central Bank leaves about vehicles
 
 *2024-05-29 18:01:04* · [`adalk`](https://www.ada.lk/breaking_news/වාහන-ආනයනය-ගැන-මහ-බැංකුවෙන්-කොළ එළියක්/11-409893) · `si`
 
-සංචිත කළමණාකරනය කර ගැන‍ිමට හැකියාවක් ඇති බවත් ඒ අනුව වාහන ආනයන ස‍‍ිමා ක්‍රමයෙන් ඉවත් කිර‍ිම වැදගත් බවත් මහ බැංකු අධිපති නන්දලාල් විරසිංහ මහතා ප්‍රකාශ කළේය.
+Central Bank Governor Nandalal Weerawasinghe mentioned that vehicle imports could be phased out, but this decision rests with the government, which has approved vehicle imports for tourism purposes.
 
-කෙසේවෙසත් එම තීරණය ගනු ඇත්‍තේ රජය බවත් රජය දැනටමත් සංචාරක ව්‍යාපාරයට අදාළව වාහන ගෙන්විම වෙනුවෙන් අවසර දී ඇති බවත් ඔහු පැවැසීය.
+🟩
+
+Central Bank Governor Nandalal Weerawasinghe said that the reserves could be managed and the vehicles imports of vehicles are gradually removed.
+
+However, he said that the decision would be taken by the government and that the government has already allowed vehicles in relation to tourism.
 
 ◼️
 
 [Data](articles/fb661173.json)
+
+[Extended Data](ext_articles/fb661173.ext.json)
 
 ---
 
@@ -2195,55 +2253,5 @@ The office of the Center on Wednesday (29) was released by the Nuwara Eliya Spec
 [Data](articles/425d4094.json)
 
 [Extended Data](ext_articles/425d4094.ext.json)
-
----
-
-### Young man's death
-
-*2024-05-29 11:51:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/மரப்பெட்டி-விழுந்து-இளைஞன்-மரணம்/73-338080) · `ta`
-
-Mohammed Rimas, a 21-year-old from Azhar Vidyalaya, died instantly when a wooden box fell off a lorry onto him. The incident occurred near a banana plantation. His body is at Valaichenai Resource Hospital for examination while the police investigate.
-
-🟩
-
-Police investigations revealed that the youth had died on the spot when a wooden box sent from abroad died from a lorry at a banana.
-
-The deceased is Mohammed Rimas, a 21 -year -old from Azhar Vidyalaya, the son of Ibrahim, the son of Ibrahim, who is working in the Meeravodai post office.
-
-The body of the deceased has been placed at the Valaichenai Resource Hospital for medical examination and the police are conducting investigations.
-
-◼️
-
-[Data](articles/139885ff.json)
-
-[Extended Data](ext_articles/139885ff.ext.json)
-
----
-
-### Explosion in Ogaio, USA
-
-*2024-05-29 11:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/184759) · `ta`
-
-An explosion occurred near Ogayo Central Square, USA, causing two people to go missing. The cause remains unknown. Authorities advise avoiding the area. Seven injured individuals are receiving treatment.
-
-🟩
-
-Two people have been reported missing in the explosion in Ogaio, USA.
-
-The incident took place near Ogayo Central Square. Police have asked the public to avoid going to the area.
-
-The cause of the explosion is unknown.
-
-The head of the Yangdown Fire Division said that it could be confirmed as the explosion.
-
-Seven people are treated for the injured.
-
-The male bank employee is missing a male and a woman, said the head of the fire brigade.
-
-◼️
-
-[Data](articles/623cb6b4.json)
-
-[Extended Data](ext_articles/623cb6b4.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-29 19:52:18**
+As of **2024-05-29 20:04:08**
 
 ## Newspaper Stats
 
-*Scraped **27,141** Articles*
+*Scraped **27,143** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,48 @@ adalk | 2,306
 adaderanalk | 3,092
 tamilmirrorlk | 3,186
 virakesarilk | 4,173
-dailymirrorlk | 4,286
+dailymirrorlk | 4,288
 adaderanasinhalalk | 4,348
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,141 (100.0%) of 27,141 articles have been extended.
+27,141 (100.0%) of 27,143 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-29 (Wednesday)
+
+### Vehicle catches fire on Cotta Road
+
+*2024-05-29 19:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Vehicle-catches-fire-on-Cotta-Road/108-283633) · `en`
+
+A vehicle caught fire at Ruhunukala Mawatha on Cotta Road, Borella a short while ago, Police said.
+
+Two fire trucks have been deployed by the CMC Fire Services Department to douse the fire.
+
+◼️
+
+[Data](articles/d5542087.json)
+
+---
+
+### Our pleas ignored but we will not give up: Cardinal
+
+*2024-05-29 19:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Our-pleas-ignored-but-we-will-not-give-up-Cardinal/108-283631) · `en`
+
+Colombo, May 29 (Daily Mirror) -  The request by the church to conduct a proper investigation into the Easter Sunday bomb attacks is being ignored by the authorities. But they will renew their struggle and will fight for justice, Archbishop of Colombo Cardinal Malcolm Ranjith said.
+
+Cardinal Ranjith made this remark after paying his last respects to Tilina Harashni who died on Monday after suffering for five years due to  the injuries she suffered as a result of the Easter Sunday bombings in 2019.
+
+"We pray for Tilina who underwent immense suffering for five years after the bomb attack," the Cardinal added.
+
+◼️
+
+[Data](articles/9df663cf.json)
+
+---
 
 ### Iraq official invites Sri Lanka investors to do business in Bagdad, Kurdistan
 
@@ -2225,37 +2255,5 @@ The body of the deceased has been placed at the Valaichenai Resource Hospital fo
 [Data](articles/68402e8a.json)
 
 [Extended Data](ext_articles/68402e8a.ext.json)
-
----
-
-### NSTCS awarded to 100 SMEs in tourism sector
-
-*2024-05-29 11:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/NSTCS-awarded-to-100-SMEs-in-tourism-sector/110-283602) · `en`
-
-Sri Lanka awarded over 100 tourism SMEs with the National Sustainable Tourism Certification Scheme (NSTCS), in partnership with the UNDP. Established in 2018, NSTCS promotes environmental, social and economic sustainability in the tourism sector. Minister Harin Fernando and other dignitaries attended the ceremony, emphasizing the scheme's role in fostering a sustainable future for Sri Lanka's vital tourism industry, which significantly contributes to the nation's GDP. Pix by Kithsiri de Mel
-
-◼️
-
-[Data](articles/bb610021.json)
-
-[Extended Data](ext_articles/bb610021.ext.json)
-
----
-
-### Change in vegetable prices
-
-*2024-05-29 11:51:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மரக்கறி-விலைகளில்-மாற்றம்/76-338081) · `ta`
-
-Nuwara Eliya Special Economic Center announced changes in vegetable prices on Wednesday, affecting local markets.
-
-🟩
-
-The office of the Center on Wednesday (29) was released by the Nuwara Eliya Special Economic Center.
-
-◼️
-
-[Data](articles/425d4094.json)
-
-[Extended Data](ext_articles/425d4094.ext.json)
 
 ---

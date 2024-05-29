@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-29 16:06:15**
+As of **2024-05-29 16:18:55**
 
 ## Newspaper Stats
 
-*Scraped **27,088** Articles*
+*Scraped **27,089** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,465
 economynextcom | 1,548
 dailyftlk | 1,591
 adalk | 2,301
-adaderanalk | 3,088
+adaderanalk | 3,089
 tamilmirrorlk | 3,181
 virakesarilk | 4,161
 dailymirrorlk | 4,275
@@ -26,65 +26,101 @@ adaderanasinhalalk | 4,342
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,078 (100.0%) of 27,088 articles have been extended.
+27,087 (100.0%) of 27,089 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-29 (Wednesday)
 
-### රුසියානු වීසා ගැන රජයෙන් අලුත් තීරණයක්
+### US envoy meets Election Commission members, discuss plans for elections
+
+*2024-05-29 15:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/99513/us-envoy-meets-election-commission-members-discuss-plans-for-elections) · `en`
+
+U.S. Ambassador to Sri Lanka, Julie J. Chung, has met with the members of Sri Lanka’s Election Commission including its chairman, Mr. R. M. A. L. Rathnayake.
+
+In a post on ‘X’ (formerly Twitter), the Ambassador said the meeting was held to discuss the plans to hold the upcoming elections in Sri Lanka and “upholding a transparent process”.
+
+“As Sri Lanka, the U.S., and many countries face elections this year, we exchanged views on the importance of voting in free and fair elections as a pillar of democratic governance,” she said.
+
+◼️
+
+[Data](articles/38de9283.json)
+
+---
+
+### A new decision from the Government of Russia Visa
 
 *2024-05-29 15:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197157) · `si`
 
-ඉදිරියේදී ආරක්ෂක අමාත්‍යාංශයේ පූර්ව අනුමැතිය ලබාදීමෙන් අනතුරුව පමණක් රුසියාවට ගමන් කිරීම සඳහා අපේක්ෂා කරන හිටපු ආරක්ෂක අංශ සාමාජිකයින් සඳහා වීසා නිකුත්කිරීමට කටයුතු කරන බව විදේශ අමාත්‍යවරයා පවසයි.
+Russia's government has issued a new visa policy requiring prior Defense Ministry approval for former security personnel wishing to visit. This decision was announced by Foreign Minister Ali Sabri, emphasizing its importance through his official X account. Meanwhile, discussions involving the Russian Ambassador in Colombo and Sri Lanka's Minister of External Affairs indicate ongoing diplomatic efforts related to this matter.
 
-සිය නිල X ගිණුමේ සටහනක් තබමින් විදේශ අමාත්‍ය අලි සබ්රි මහතා ඒ බව පවසයි.
+🟩
 
-මේ අතර අද කොළඹදී රුසියානු තානාපති Levan S. Dzhagaryan සමග පැවති හමුවකින් අනතුරුව අමාත්‍යවරයා මේ බව සඳහන් කර තිබේ.
+The Foreign Minister said that only the former security forces who wish to travel to Russia only after granting the prior approval of the Defense Ministry.
 
-ඉදිරියේදී මේ සම්බන්ධයෙන් වැඩිදුරටත් කටයුතු කිරීමට විදේශ කටයුතු රාජ්‍ය අමාත්‍ය තාරක බාලසූරිය මහතා ද රුසියාවේ සංචාරයක නිරතවීමට නියමිත බවද අමාත්‍යවරයා වැඩිදුරටත් පවසා ඇත.
+Foreign Minister Ali Sabri says this is a note of his official X account.
+
+Meanwhile, the Russian Ambassador today in Colombo Levan s. The Minister was addressing a meeting with Dzhageryan.
+
+Minister of External Affairs Tharaka Balasuriya is also scheduled to commence in this regard.
 
 ◼️
 
 [Data](articles/99ebed22.json)
 
+[Extended Data](ext_articles/99ebed22.ext.json)
+
 ---
 
-### காத்தான்குடியில் போதை மதன லேகியங்களுடன் வர்த்தகர் ஒருவர் கைது
+### A businessman arrested with drug league in Kattankudi
 
 *2024-05-29 15:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/184794) · `ta`
 
-காத்தான்குடி பொலிஸ் பிரிவுக்குட்பட்ட காத்தான்குடி சேர்.ராசீக் பரீட் மாவத்தையிலுள்ள  கடை ஒன்றிலிருந்து 70 மதன லேகியம் பக்கற்றுகள் இன்று புதன்கிழமை (29) காலை கைப்பற்றப்பட்டுள்ளதாக மட்டக்களப்பு மாவட்ட குற்ற விசாரணை பிரிவினர் தெரிவித்தனர்.
+In Kattankudi, a businessman was arrested for drug trafficking after 70 Madana Legiyam sides were found in his shop. The owner is detained for questioning, and 70 pages of sales records and a motorcycle were seized. The case is now with the Batticaloa District Investigation Division, preparing to take the suspect to court.
 
-இது தொடர்பாக குறித்த வர்த்தக நிலையத்தின் உரிமையாளர் காத்தான்குடியில் கைது செய்யப்பட்டுள்ளார். கைது செய்யப்பட்ட வர்த்தகர் தற்போது காத்தான்குடி பொலிஸ் நிலையத்தில் விசாரணைக்கென தடுத்து வைக்கப்பட்டுள்ளார்
+🟩
 
-குறித்த நபரிடமிருந்து வர்த்தக நிலையத்தில் விற்பனைக்காக வைக்கப்பட்டிருந்த 70 பக்கற்றுக்கள் மதன லேகியங்கள் கைப்பற்றப்பட்டுள்ளது. அங்கிருந்த  மோட்டார் சைக்கிளும் மாவட்ட குற்ற விசாரணை பிரிவினரால் மீட்கப்பட்டுள்ளது.
+The Batticaloa District Criminal Investigation Division said that 70 Madana Legiyam sides have been seized from a shop in Kattankudy Police Division from Kattankudy Police Division.
 
-தற்போது காத்தான்குடி பொலிஸ் நிலையத்தில் மட்டக்களப்பு மாவட்டகுற்ற விசாரணை பிரிவினர் சந்தேக  நபரையும் லேகிய பக்கட்டுகளையும் ஒப்படைத்துள்ளனர் .
+The owner of the shopping center has been arrested in Kattankudi. The arrested businessman is currently detained at the Kattankudy police station for interrogation
 
-மட்டக்களப்பு நீதவான் நீதிமன்றத்தில் குறித்த நபரை ஆஜர்படுத்துவதற்கான நடவடிக்கைகளை காத்தான்குடி பொலிஸார் மேற்கொண்டுள்ளதாக காத்தான்குடி பொலிஸ் நிலைய பொறுப்பதிகாரி ஜி கஜநாயக்கா தெரிவித்தார்.
+70 pages of sale at the trade center from the person have been seized. The motorcycle has also been recovered by the District Criminal Investigation Division.
+
+At present, the Batticaloa District Investigation Division has handed over the suspect and Legiya packets at the Kattankudy police station.
+
+Kattankudy Police Station Superintendent G. Gajanayake said that the Kattankudy Police have taken steps to bring the person to the Batticaloa Magistrate's Court.
 
 ◼️
 
 [Data](articles/a29166e0.json)
 
+[Extended Data](ext_articles/a29166e0.ext.json)
+
 ---
 
-### கசினோவுக்கு அடிமையாகியவர் இரு கூட்டுறவு கிராமிய வங்கிகளை உடைத்துக் கொள்ளை !
+### The slave to Kasino breaks two co -operative rural banks
 
 *2024-05-29 15:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/184737) · `ta`
 
-இரு கூட்டுறவு கிராமிய வங்கிகளை உடைத்து பல கோடி ரூபா பெறுமதியான தங்க  ஆபரணங்கள் மற்றும் பணம் ஆகியன திருடப்பட்ட சம்பவம் தொடர்பில் குற்றப்புலனாய்வு பிரிவினருக்கு கிடைத்த தகவலின் அடிப்படையில் சந்தேகநபரொருவர் நேற்று செவ்வாய்க்கிழமை (28) கைது செய்யப்பட்டுள்ளார்.
+A suspect, a 30-year-old from Piliyandala addicted to gambling, stole Rs 8 crore from two cooperative rural banks in Sri Lanka. He used the money to gamble at casinos, buying a car with the loot. Arrested on charges of grand theft, his addiction led him to commit the crimes.
 
-வென்னப்புவ, அங்கம்பிட்டி பகுதியில் உள்ள கூட்டுறவு கிராமிய வங்கியில் 6 கோடி ரூபா பெறுமதியான தங்க ஆபரணங்கள் மற்றும் பணத்தினையும்  ஜா- எல, கனுவான பகுதியிலுள்ள கூட்டுறவு கிராமிய வங்கியிலிருந்து 2 கோடி ரூபா பெறுமதியுடைய தங்க ஆபரணங்கள் மற்றும் பணத்தினையும்  சந்தேகநபர் திருடியுள்ளார்.
+🟩
 
-கைதுசெய்யப்பட்டவர் பிலியந்தலை மடபாத்த பகுதியைச் சேர்ந்த 30 வயதுடையவர் எனவும், கசினோ விளையாட்டிற்கு அடிமையாகியுள்ள நிலையில் திருட்டு குற்றச் செயல்களில்  ஈடுபடுவதாகவும்  விசாரணையில் தெரியவந்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+A suspect was arrested on Tuesday (28) based on information received by the Criminal Investigation Department in connection with the stolen incident of gold jewelery and money worth billions of rupees.
 
-அத்தோடு, இரண்டு வங்கிகளிலும் திருடப்பட்ட தங்க ஆபரணங்களை விற்பனை செய்து கிடைத்த பணத்தில் களியாட்ட விடுதிகளுக்குச் சென்று கசினோ விளையாடியதாக சந்தேக நபர் பொலிஸாரிடம் தெரிவித்துள்ளார்.
+The suspect has stolen gold jewelery and money worth Rs 6 crore at a co-operative rural bank in Angampitiya, Wennappuwa, and the suspect has stolen gold jewelery and money worth Rs 2 crore from Ja-Ela and Kanavana.
 
-...
+Investigations have revealed that the arrested man is a 30 -year -old from Madabatha area of ​​Piliyandala and is addicted to the Cassino's game.
+
+In addition, the suspect told the police that he went to the extravagant hostels and played Cassino with the money that was sold in the two banks.
+
+Investigations have revealed that the car has been bought from a person in the Wennappuwa area with stolen money.
+
+◼️
 
 [Data](articles/5013d1e8.json)
+
+[Extended Data](ext_articles/5013d1e8.ext.json)
 
 ---
 
@@ -103,6 +139,8 @@ Further, the upcoming visit by the Honorable State Minister of Foreign Affairs t
 ◼️
 
 [Data](articles/daee7e74.json)
+
+[Extended Data](ext_articles/daee7e74.ext.json)
 
 ---
 
@@ -130,19 +168,27 @@ The Ministry said the delegation assured that the report will be submitted withi
 
 ---
 
-### அக்கரைப்பற்றில் 8 உணவகங்களுக்கு எதிராக சட்ட நடவடிக்கை
+### Legal action against 8 restaurants
 
 *2024-05-29 15:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/184760) · `ta`
 
-கல்முனை பிராந்திய சுகாதார சேவைகள் பணிப்பாளர் வைத்திய கலாநிதி சகீலா இஸ்ஸடீனின் அறிவுறுத்தலுக்கமைய, பிராந்திய சுற்றுச்சூழல் தொழில்சார் சுகாதாரம் மற்றும் உணவுப் பாதுகாப்பு பிரிவின் பொறுப்பு வைத்திய அதிகாரி ஏ.எஸ்.எம்.பெளசாத்  பங்களிப்புடன்  அக்கரைப்பற்று சுகாதார வைத்திய அதிகாரி பணிமனைக்குட்பட்ட பிரதேசங்களில் உணவு கையாளும் நிறுவனங்கள் திடீர் பரிசோதனைக்கு உட்படுத்தப்பட்டன.
+Dr. Saheela Isadine, under the Director of Regional Health Services, led a division to inspect food safety in Akkaraipattu. They found issues at 65 food handling businesses, taking legal action against 8.
 
-அக்கரைப்பற்று, அட்டாளைச்சேனை, ஆலையடிவேம்பு ஆகிய சுகாதார வைத்திய அதிகாரி காரியாலயங்களின் பொதுச்சுகாதார பரிசோதகர்களினால் அக்கரைப்பற்று பிரதேசத்தில் உள்ள வர்த்தக நிலையங்கள் மற்றும் உணவு நிலையங்களில் திடீர் சோதனை நடவடிக்கை மேற்கொள்ளப்பட்டு, மனித நுகர்வுக்கு பொருத்தமற்ற உணவுகள் கைப்பற்றப்பட்டு அவை அழிக்கப்பட்டன.
+🟩
 
-இதன்போது 65 உணவு கையாளும் நிறுவனங்கள் சோதனை செய்யப்பட்டு அதில் 8 நிறுவனங்களுக்கு எதிராக சட்ட நடவடிக்கையும் எடுக்கப்பட்டுள்ளது.
+On the instructions of the Director of Regional Health Services, Dr. Saheela Isadine, the Regional Environmental Industrial Health and Food Safety Division responsible for the contribution of ASM Balasad, the Health Medical Officer of the Akkaraipattu Health Medical Officer.
 
-...
+Akkaraipattu, Adalaichenai and Alayadivembu, the public health inspectors of the offices of the offices of Akkaraipattu, were carried out at trade centers and food stations in Akkaraipattu area and seized and destroyed human consumption.
+
+65 food manipulation companies have been tested and legal action has been taken against eight companies.
+
+Senior Public Health Inspectors, Public Health Inspectors, Regional Environmental Industrial Health and Food Security Unit Officers including Health Medical Officer AL Ismail, Akkaraipattu Health Officer
+
+◼️
 
 [Data](articles/c3c2ea3b.json)
+
+[Extended Data](ext_articles/c3c2ea3b.ext.json)
 
 ---
 
@@ -186,23 +232,31 @@ He added that the upcoming visit by the Sri Lanka’s State Minister of Foreign 
 
 ---
 
-### மயிலத்தமடுவில் கால்நடைகளை துப்பாக்கியால் சுட்டும் மின்வேலியை பயன்படுத்தியும்கொலை செய்கின்றனர் - மனிதர்களை போல அவற்றையும் காணாமலாக்குகின்றனர் - சிவில் சமூக செயற்பாட்டாளர் சிவயோகநாதன்
+### In Mayilathamaduwu
 
 *2024-05-29 15:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/184786) · `ta`
 
-மட்டக்களப்பு மயிலத்தமடு மாதவனைபகுதியில்  அத்துமீறி குடியேறியவர்களின் அக்கிரமங்கள் இன்றுவரை தொடர்கின்றன, பொலிஸார் இராணுவத்தினரின் உதவியுடன் இவர்கள் தங்கள்  அநீதியான செயற்பாடுகளை முன்னெடுக்கின்றனர், பண்ணையாளர்களின் போராட்டம் 270 நாட்களை கடந்து எந்த தீர்வும் இன்றி தொடர்கின்றது என  மட்டக்களப்பு மாவட்ட  சிவில் சமூக செயற்பாட்டளர்கள் ஒன்றியத்தின்  தலைவர் சிவயோகநாதன் தெரிவித்துள்ளார்
+In Mayilathamadu, Batticaloa, ongoing injustices against immigrants involve police complicity, livestock theft, and violence. This issue, rooted in a long history of livestock farming, escalated during planned settlements from 2013 to 2016. The Tamil National Alliance opposed these actions, leading to legal challenges. The situation worsened under Gotabhaya Rajapaksa's governance, with farmers resorting to hiding their livestock due to threats and inadequate food supply. Over 1400 cattle have died, and four departments allegedly deceive farmers. The government's economic crisis exacerbates the problem, risking the destruction of native breeds and potential importation of foreign cattle. This scenario is seen as a form of political manipulation aimed at fostering communal conflict for political gain. Efforts to address these issues, including international outreach and legal actions, have yielded limited results, with continued atrocities against the immigrants.
 
-கொழும்பு தேசிய கிறிஸ்தவ சங்கத்தில் இடம்பெற்ற மட்டகளப்பு மயிலத்தமடு பால்பண்ணையாளர்கள் எதிர்கொள்ளும் நெருக்கடி தொடர்பான உரையாடலின் போதே அவர் இதனை தெரிவித்தார்
+🟩
 
-மனிதர்களை போல கால்நடைகளும் காணாமல் ஆக்கப்படுகின்றனர், அவற்றை கொலை செய்கின்றனர் ,உணவிற்குள் வெடிபொருட்களை வைக்கின்றனர், கூரிய ஆயுதங்களால் வெட்டி கொலை செய்கின்றனர்,  துப்பாக்கியால் சுட்டுக்கொல்கின்றனர் என அவர் தெரிவித்தார்
+The President of the Batticaloa District Civil Social Operators Union said that the iniquities of the immigrants in the Mayilathamadu Madhavan area continue to be carried out to this day, with the help of the police, they carry out their injustice.
 
-மட்டக்களப்பு மயிலத்தமடு மாதவனை நீண்ட வரலாற்றை கொண்ட பகுதி  ஐந்து தலைமுறைக்கு மேல் அங்கு கால்நடை வளர்ப்பில் ஈடுபட்டுள்ளனர்.
+He made this statement during a conversation on the crisis faced by the Milky Ways at Batticaloa at the Colombo National Christian Society
 
-2013 முதல் 2016 வரை  இதேமாதிரியான  திட்டமிட்ட குடியேற்றங்கள் இடம்பெற்றன - அரசநிகழ்ச்சி நிரலின் கீழ் இவை முன்னெடுக்கப்பட்டன.
+He said that cattle are missing, killing them, putting ammunition into the food, killing them with sharp weapons and shooting fire.
+
+Madhavan, Batticaloa, has been involved in livestock farming for more than five generations of long history.
+
+From 2013 to 2016, similar planned settlements took place - these were carried out under the State Event.
+
+After the change of 2015, the Tamil National Alliance (TNA) was the Opposition of the Opposition of the Maithripala Sirisena -a case was filed by Durairajasinghe, Minister of Agricultural Livestock Development of the Eastern Provincial Council.
 
 ...
 
 [Data](articles/ce737fb1.json)
+
+[Extended Data](ext_articles/ce737fb1.ext.json)
 
 ---
 
@@ -234,39 +288,55 @@ We maintain the English method because our country does not follow a federal way
 
 ---
 
-### கார்த்திகைப் பூ பொறிக்கப்பட்ட செருப்புகளை சந்தையிலிருந்து அகற்ற வடக்கிலிருந்து கோரிக்கை
+### Demand from the north to remove the sandals embedded from the market
 
 *2024-05-29 14:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/184777) · `ta`
 
-வடக்கில் காட்சிப்படுத்தப்பட்ட போது பொலிஸாரால் கேள்வி எழுப்பப்பட்ட மலரான கார்த்திகைப் பூ, மிகப் பெரிய வர்த்தக நிறுவனத்தால், நாடு முழுவதும் வர்த்தக நடவடிக்கைகளுக்கு தடையின்றி பயன்படுத்தப்படுவது சர்ச்சைகளை தோற்றுவித்துள்ளது.
+Controversy erupted over a shoe company's use of the Tamil national flower, Karthik, in its products, sparking demands for removal from the market. The Tamil community views this as a sacrilege, leading to calls for boycotts and protests. Political figures and community leaders have voiced strong opposition, emphasizing the cultural significance of the flower and urging the company to apologize and withdraw the offending items.
 
-நாட்டின் முதல்தர பாதணிகளை விளம்பரப்படுத்தும் வகையில் தெற்கில் உள்ள நிறுவனம் ஒன்று செருப்புகளில் தமிழ் தேசிய மலரான கார்த்திகை மலரின் உருவத்தை பொறித்துள்ளமையால்  தமிழர்கள் மிகுந்த கவலையடைந்துள்ளனர்.
+🟩
 
-கார்த்திகை பூக்கள் பொறிக்கப்பட்ட செருப்புகளை சந்தையில் இருந்து உடனடியாக மீளப் பெறுமாறு காலணி தயாரிக்கும் நிறுவனத்திடம் தமிழ் அரசியல் கட்சி ஒன்றின் பேச்சாளர் கேட்டுக்கொண்டுள்ளார்.
+The flower of the flower, the flower, which was questioned by the police during the display in the North, has created controversy by the largest trade company to uninterrupted trade activities across the country.
 
-“தமிழர்களின் உணர்வுகளைப் புண்படுத்தும் வகையில் வெளியிடப்பட்டுள்ள கார்த்திகைப் பூ பொறிக்கப்பட்ட  பாதணிகளை, உற்பத்தி நிறுவனம் அதனை மீளப்பெற வேண்டுமென விநயமாக வேண்டுகின்றோம்.” என தமிழ்த் தேசிய மக்கள் முன்னணியின் ஊடகப் பேச்சாளர் கனகரட்ணம் சுகாஸ் தனது எக்ஸ் தளத்தில் குறிப்பிட்டுள்ளார்.
+The Tamils ​​are very worried about the image of a Tamil national flower, the Tamil national flower, in the south, to promote the country's first footwear.
+
+A spokesman for a Tamil political party has asked the shoe -made company to immediately recover from the market.
+
+"We are demanding that the manufacturing company reconsider the inscriptions of the Karthik flower that has been released to offend the sentiments of the Tamils."Tamil National People's Front media spokesman Kanakaratnam Sukas stated on his X site.
+
+He has also requested the Tamil people to boycott the company's products if it fails to do so.
+
+“If we fail to do so, we demand our relationships to boycott the company's products and the trade centers that sell them!”
 
 ...
 
 [Data](articles/e08d7cc6.json)
 
+[Extended Data](ext_articles/e08d7cc6.ext.json)
+
 ---
 
-### தெமோதரையில் ரயில் முன் பாய்ந்தவர் படுகாயம் !
+### The train jumps in front of the train
 
 *2024-05-29 14:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/184785) · `ta`
 
-எல்ல பொலிஸ் பிரிவுக்குட்பட்ட தெமோதரை ரயில் நிலையத்துக்கு அருகாமையில் உள்ள சுரங்க பாதைக்கு அருகாமையில் நபர் ஒருவர் ரயில் முன் பாய்ந்து உயிரை மாய்க்க முயன்றுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+A man attempted suicide by standing in front of a train near the Temodara railway station. He was hospitalized and is receiving further treatment. The incident occurred near the Ella Police Division.
 
-குறித்த நபர்  உயிரை மாய்க்க முற்பட்டவேளை, படுகாயம் அடைந்த நிலையில் தெமோதரை வைத்தியசாலையில் சிகிச்சைக்காக அனுமதிக்கப்பட்டுள்ளார்.
+🟩
 
-இதையடுத்து, மேலதிக சிகிச்சைகளுக்காக பதுளை வைத்தியசாலைக்கு மாற்றப்பட்டு அங்கு சிகிச்சை பெற்று வருவதாக பொலிஸார் தெரிவித்தனர்.
+Police said that a person near the tunnel near the Temodara railway station belonging to the Ella Police Division has tried to make a living in front of the train.
 
-34 வயதுடைய உடுவர தோட்டம் 4 ஆம் பிரிவை சேர்ந்த நபரே ரயில் முன்பாய்ந்து உயிரை மாய்க்க முயன்றதாக பொலிஸார் தெரிவித்தனர்.
+The person has been admitted to the hospital for treatment after being injured.
+
+Subsequently, the police said that they were being treated for further treatment.
+
+Police said that a 34 -year -old Udura estate was trying to make life in front of the train.
 
 ◼️
 
 [Data](articles/684d108e.json)
+
+[Extended Data](ext_articles/684d108e.ext.json)
 
 ---
 
@@ -288,17 +358,25 @@ Gen. Sir John Kotalawala Safety University has been granted bail to the lecturer
 
 ---
 
-### பாகிஸ்தானில், தெற்காசிய அரசியலுக்கான புதிய பாடத்திட்டத்தை AI பட்டியலிடுகிறது
+### In Pakistan, AI lists the new curriculum for South Asian politics
 
 *2024-05-29 14:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/184783) · `ta`
 
-எழுதியவர் - நெவிந்தி ஜெயவர்தன மற்றும் தில்ஷான் படதுவாரச்சியுடன் இணைந்து உதித தேவப்ரிய
+In a historic move, Pakistan's opposition leader Imran Khan, despite facing disqualification and persecution, emerged victorious in the elections, marking a significant shift in South Asian politics. Utilizing AI to create a speech for his victory address, Khan's party, PTI, innovatively navigated government-imposed internet restrictions, showcasing the power of digital technology in electoral strategies. This victory highlights the changing landscape of politics in South Asia, where traditional media's grip is loosening, and AI becomes a pivotal tool for political engagement.
 
-பெப்ரவரி 8 ஆம் திகதி பாகிஸ்தானியர்கள் தேர்தலுக்கு முகம் கொடுத்த நேரத்தில், இம்ரான் கான் மற்றைய தவறுகள் மற்றும் குற்றச்சாட்டுகளுக்காக 14 ஆண்டுகள் சிறைத்தண்டனையை அனுபவித்தார். ஒரு வாரத்திற்கு முன்பு, நாட்டின் மிகவும் பிரபலமான எதிர்க்கட்சி தலைவரான கான், 10 ஆண்டுகள் பதவியில் இருப்பதிலிருந்து தகுதி நீக்கம் செய்யப்பட்டார். அவரது கட்சியான பாகிஸ்தான் தெஹ்ரீக்-இ-இன்சாஃப் (PTI) வெகுஜன வற்புறுத்தலுக்கும் அடக்குமுறைக்கும் உட்பட்டதுடன், அதன் மத்திய அலுவலகங்கள் பொலிசாரால் சீல் வைக்கப்பட்டன.
+🟩
+
+Author - Nevindi Jayawardena and Dilshan
+
+At the time of the Pakistani election on February 8, Imran Khan suffered 14 years in prison for other mistakes and charges. A week ago, Khan, the country's most popular opposition leader, was disqualified from being in office for 10 years. His party, Pakistan Tehreek-e-Insaf (PTI), was subjected to mass persecution and repression and its central offices were sealed by the police.
+
+The contradictions against the party and its leader were fiercely. Yet Khanal was able to oppose them. Although allegations such as voting and military intervention and all races were supported by the government, PTI won 93 seats. The ruling party, Pakistan Muslim League-Nawaz (PMLN), won 75 seats and Pakistan People's Party (PPP), led by Benazir Bhutto's son Bilawal Bhutto Zardari, won 54 seats.
 
 ...
 
 [Data](articles/44a46851.json)
+
+[Extended Data](ext_articles/44a46851.ext.json)
 
 ---
 
@@ -2233,33 +2311,5 @@ Subsequently, the Public Health Inspector Pa Pa. The restaurant was sealed by Sa
 [Data](articles/84497334.json)
 
 [Extended Data](ext_articles/84497334.ext.json)
-
----
-
-### Expectation as rain and wind will continue
-
-*2024-05-29 08:43:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மழையும்-காற்றும்-மேலும்-தொடரும்-என-எதிர்பார்ப்பு/175-338065) · `ta`
-
-Due to the southwest monsoon, expect continued rainfall and wind across the country, especially in the upper, Sabaragamuwa, Central, North Western, and Southern Provinces. Heavy rainfall is predicted in parts of the Western and Sabaragamuwa provinces and Nuwara Eliya district. Thunderstorms are possible in the evening or night in the Uva Province, Ampara, and Batticaloa districts. Strong winds up to 50-60 km/h are anticipated in several provinces' western slopes. The public should prepare for potential lightning strikes.
-
-🟩
-
-Due to the southwest monsoon situation, the current rainfall and wind conditions across the country are expected to continue.
-
-Rainfall in the upper, Sabaragamuwa, Central, North Western and Southern Provinces will occur from time to time, the department said.
-
-Heavy rainfall is expected in some places in the Western and Sabaragamuwa provinces and Nuwara Eliya district.
-
-In many places in the Uva Province, Ampara and Batticaloa districts, there is a possibility of rain or thunderstorms in the evening or at night.
-
-Heavy winds are likely to blow up to 50-60 km / h from time to time in the western slopes of the Central Highlands, North, North, Southern and North Western Provinces and Trincomalee.
-
-Thundershowers may be temporarily blowing in the up -and -coming areas. The public is advised to take necessary precautions to reduce the impacts of lightning impacts. Remble
-
-◼️
-
-[Data](articles/7b1500f3.json)
-
-[Extended Data](ext_articles/7b1500f3.ext.json)
 
 ---

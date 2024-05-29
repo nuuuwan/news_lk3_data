@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-30 01:34:07**
+As of **2024-05-30 01:52:45**
 
 ## Newspaper Stats
 
-*Scraped **27,173** Articles*
+*Scraped **27,174** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 240
+colombotelegraphcom | 241
 dbsjeyarajcom | 266
 bbccomsinhala | 270
 newsfirstlk | 363
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,351
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,173 (100.0%) of 27,173 articles have been extended.
+27,173 (100.0%) of 27,174 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -599,6 +599,18 @@ Two fire trucks have been deployed by the CMC Fire Services Department to douse 
 [Data](articles/d5542087.json)
 
 [Extended Data](ext_articles/d5542087.ext.json)
+
+---
+
+### Ranil Wickremesinghe’s Promises: The Parrot That Waited In Vain For The Fruit To Ripen
+
+*2024-05-29 19:37:09* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/ranil-wickremesinghes-promises-the-parrot-that-waited-in-vain-for-the-fruit-to-ripen/) · `en`
+
+Last Friday (24 May 2024) saw my wife and me attending the Opening Ceremony of Jaffna University’s Clinical Training and Research Block behind the CEB facilities on Hospital Road. It was a welcome development. What was wrong, however, is that almost every speaker tried to root for the President’s re-election at the hustings in or around October.
+
+...
+
+[Data](articles/bdaf17dd.json)
 
 ---
 
@@ -2257,25 +2269,5 @@ The Ministry of Education (MoE) informs that all Government schools will functio
 [Data](articles/fc9051fb.json)
 
 [Extended Data](ext_articles/fc9051fb.ext.json)
-
----
-
-### Social Security Benefit to all 55-year-old workers
-
-*2024-05-29 14:13:20* · [`adalk`](https://www.ada.lk/breaking_news/අවුරුදු-55-පිරුණු-සියලු-ශ්‍රමිකයන්ට-සමාජ-ආරක්ෂණ-ප්‍රතිලාභයක්/11-409889) · `si`
-
-Minister Manusha Nanayakkara announced a proposal to offer social security benefits to all 55-year-old workers across industries. The initiative involves registering several syllabi through www.garusaru.lk.
-
-🟩
-
-Minister Manusha Nanayakkara states that the proposal to be given to all workers to provide a social security benefit to all the 55-year-old workers in various industries.
-
-The Minister further stated that a number of syllabus has already been registered under www.garusaru.lk.
-
-◼️
-
-[Data](articles/fb9b916a.json)
-
-[Extended Data](ext_articles/fb9b916a.ext.json)
 
 ---

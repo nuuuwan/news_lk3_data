@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-29 14:34:24**
+As of **2024-05-29 14:53:42**
 
 ## Newspaper Stats
 
-*Scraped **27,066** Articles*
+*Scraped **27,068** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,34 @@ adalk | 2,300
 adaderanalk | 3,087
 tamilmirrorlk | 3,179
 virakesarilk | 4,153
-dailymirrorlk | 4,269
-adaderanasinhalalk | 4,339
+dailymirrorlk | 4,270
+adaderanasinhalalk | 4,340
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,049 (99.9%) of 27,066 articles have been extended.
+27,066 (100.0%) of 27,068 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-29 (Wednesday)
+
+### ආචාර්ය පුන්සර අමරසිංහට ඇප
+
+*2024-05-29 14:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197155) · `si`
+
+අත්අඩංගුවට ගත් කොතලාවල ආරක්ෂක විශ්වවිද්‍යාලයේ කථිකාචාර්ය ආචාර්ය පුන්සර අමරසිංහ මහතාව ඇප මත මුදාහැර තිබේ.
+
+ඒ මහතා කොටුව මහෙස්ත්‍රාත් අධිකරණය හමුවට ඉදිරිපත් කිරීමෙන් අනතුරුව ලක්ෂ 10ක ශරීර ඇපයක් මත මෙලෙස මුදාහැර ඇත.
+
+ISIS සංවිධානය සමඟ සම්බන්ධ බවට සැකකෙරෙන ඉන්දියාවේදී අත්අඩංගුවට ගත් ශ්‍රී ලාංකිකයින් 4 දෙනෙකු සම්බන්ධයෙන් අසත්‍ය ප්‍රකාශයක් සිදුකළ බවට එල්ලවූ චෝදනාවකට අදාළව ඒ මහතා අද පෙරවරුවේ අත්අඩංගුවට ගත්තේය.
+
+◼️
+
+[Data](articles/db93bb83.json)
+
+---
 
 ### Green light for vehicle imports
 
@@ -54,13 +70,15 @@ He further mentioned that the government had been concentrating on resuming vehi
 
 *2024-05-29 14:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/GCE-AL-results-to-be-released-by-Monday/108-283611) · `en`
 
-The results of the 2023 G.C.E. Advanced Level (A/L) examination will be released before Monday (June), Education Minister Susil Peremajayantha said.
+Colombo, May 29 (Daily Mirror) - The results of the 2023 G.C.E. Advanced Level (A/L) examination will be released before Monday (June), Education Minister Susil Peremajayantha said.
 
 He said the Examinations Department is taking measures to release the results.
 
 ◼️
 
 [Data](articles/3fbc98e5.json)
+
+[Extended Data](ext_articles/3fbc98e5.ext.json)
 
 ---
 
@@ -73,6 +91,8 @@ The Ministry of Education (MoE) informs that all Government schools will functio
 ◼️
 
 [Data](articles/fc9051fb.json)
+
+[Extended Data](ext_articles/fc9051fb.ext.json)
 
 ---
 
@@ -90,51 +110,91 @@ As many as three Australian first-XI players - Pat Cummins, Travis Head and Mitc
 
 [Data](articles/632b722c.json)
 
+[Extended Data](ext_articles/632b722c.ext.json)
+
 ---
 
-### පාසල් ගැන අධ්‍යාපන අමාත්‍යංශයෙන් විශේෂ නිවේදනයක්
+### Australia forced to field coach, selector in warm-up game vs Namibia
+
+*2024-05-29 14:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Australia-forced-to-field-coach-selector-in-warm-up-game-vs-Namibia/108-283610) · `en`
+
+(Hindustantimes) - Australia were forced to use four support staff members while fielding during their T20 World Cup warm-up match vs Namibia as only nine players were available.
+
+The after-effects of the IPL hit the Australian side before the T20 World Cup as they were forced to field their head coach, chief selector and two other support staff members as fielders during their warm-up match against Namibia on Tuesday. Australia only had nine players for the match as the other squad members, who were part of IPL 2024, will arrive late.
+
+As many as three Australian first-XI players - Pat Cummins, Travis Head and Mitchell Starc were part of the IPL 2024 final on May 26 (Sunday).
+
+...
+
+[Data](articles/e3594a8b.json)
+
+---
+
+### Ministry of Education is a special announcement on schools
 
 *2024-05-29 14:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197154) · `si`
 
-හෙට සහ අනිද්දා එනම්, මැයි මස 30 සහ 31 දිනයන්හි සියලු‍ම පාසල් සාමාන්‍ය පරිදි පැවැත්වෙන බව අධ්‍යාපන අමාත්‍යාංශය නිවේදනයක් නිකුත් කරමින් පවසයි.
+The Ministry of Education announced that schools will operate remotely on May 30 and 31 due to unforeseen circumstances.
+
+🟩
+
+The Ministry of Education has issued a statement that all schools on May 30 and 31, on May 30 and 31, will be held on the basis of tomorrow.
 
 ◼️
 
 [Data](articles/322d93b1.json)
 
+[Extended Data](ext_articles/322d93b1.ext.json)
+
 ---
 
-### இந்தியா-பாகிஸ்தான் ரி20 உலகக் கிண்ண போட்டி: ISIS ஆதரவுக் குழு அச்சுறுத்தல்
+### India-Pakistan R20 World Cup Competition: ISIS Support Group Threatening
 
 *2024-05-29 14:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/184778) · `ta`
 
-இன்னும் சில தினங்களில் ஆரம்பமாகவுள்ள ரி20 உலகக் கிண்ணப் போட்டியின்போது பயங்கரவாத தாக்குதல்கள் இடம்பெறலாம் என்ற அச்சம் தோன்றியுள்ளது.
+Fears of terrorist attacks during the upcoming T20 World Cup between India and Pakistan have escalated due to a poster released by an ISIS-supporting group. The poster features a map with a masked man holding a gun, threatening violence. Despite this, US officials haven't raised the security alert level. The International Cricket Council assures robust security measures are in place, collaborating with local authorities to ensure the safety of attendees.
 
-நியூயோர்க்கில் இரத்தக்களறி ஏற்படலாம் என சுவரொட்டி ஒன்று வெளியானதை அடுத்து பயங்கரவாதத் தாக்குதல் குறித்த அச்சம் ஏற்பட்டுள்ளது.
+🟩
 
-ISISக்கு ஆதரவான குழுவினால் அச்சுறுத்தல் விடுக்கப்பட்ட ஒரு வரைபடம் வெளியிடப்பட்டுள்ளது. அதில் ஒரு முகமூடி அணிந்த மனிதன் தோளில் துப்பாக்கியுடன் இருப்பதைக் காட்டுகிறது.
+There are fears that terrorist attacks will take place during the T20 World Cup, which will begin in a few days.
 
-'நீங்கள் போட்டிக்காக காத்திருங்கள்...' என குறிப்பிடப்பட்டுள்ள அந்த வரைபடத்தில் தொடர்ந்து 'நாங்கள் உங்களுக்காக காத்திருக்கிறோம்...' என இரத்தச் சிவப்பில் எழுதப்பட்டுள்ளது.
+There has been a fear of terrorist attacks following a poster release in New York.
 
-அன்றைய தினம் தான் கிரிக்கெட் பரம வைரிகள் இந்தியாவும் பாகிஸ்தானும் அந்த மைதானத்தில் ஏ குழுவுக்கான ரி20 உலகக் கிண்ணப் போட்டியில் ஒன்றையொன்று எதிர்த்தாடவுள்ளன.
+A map has been issued by a threatened group in favor of ISIS. It shows that a masked man is a gun on the shoulder.
 
-அந்த சுவரொட்டியில், மைதானத்தின் மீது பறக்கும் ட்ரோன்கள், டைனமைட் குச்சியுடன் நேரத்தை கணிப்பிடும் கடிகாரம் என்பனவும் காணப்படுகிறது.
+The map, which is referred to as 'you wait for the competition ...' continues in the red red, 'We are waiting for you ...'.
+
+On that day, cricket paramilitary viruses India and Pakistan will oppose one another in the R20 World Cup for the A group at the stadium.
+
+On the poster, the drones flying on the stadium, the clock that calculates the time with a dynamite stick.
+
+However, US officials have not increased the precautionary level over the threat of the attack.
+
+'It will be our head to prioritize each person's life safety and security during the competition. We have a very comprehensive and strong security program, ”a spokesman for the International Cricket Council said.
 
 ...
 
 [Data](articles/9d540f59.json)
 
+[Extended Data](ext_articles/9d540f59.ext.json)
+
 ---
 
-### பாடசாலைகளை திறப்பது குறித்து விசேட அறிவிப்பு
+### Special Notice on the opening of schools
 
 *2024-05-29 14:01:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாடசாலைகளை-திறப்பது-குறித்து-விசேட-அறிவிப்பு/175-338091) · `ta`
 
-அதனடிப்​படையில்,  பாடசாலைகள் யாவும், 30 மற்றும்  31 ஆம் திகதிகளில் வழமையைப் போல இயங்கும் என்றும் குறிப்பிடப்பட்டுள்ளது.
+Schools will operate normally on the 30th and 31st, as per the army's announcement.
+
+🟩
+
+According to the army, all schools will run as usual on the 30th and 31st.
 
 ◼️
 
 [Data](articles/aed97001.json)
+
+[Extended Data](ext_articles/aed97001.ext.json)
 
 ---
 
@@ -164,29 +224,41 @@ Meanwhile, the ambassadors of the European Commission and the UN High Commission
 
 ---
 
-### நாளையும் நாளை மறுதினமும் பாடசாலை இயங்குமா ? - கல்வி அமைச்சு வெளியிட்ட தகவல் !
+### Will the school run tomorrow and tomorrow?- Information released by the Ministry of Education!
 
 *2024-05-29 13:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/184776) · `ta`
 
-நாளை வியாழக்கிழமையும் (30) நாளை மறுதினம் வெள்ளிக்கிழமையும் (31) வழமை போன்று நாடளாவிய ரீதியில் உள்ள அனைத்து பாடசாலைகளும் இயங்கும் என கல்வி அமைச்சு தெரிவித்துள்ளது.
+The Ministry of Education announced that schools nationwide will operate normally tomorrow and the day after (30th), despite upcoming teacher strikes.
 
-எதிர்வரும் நாட்களில் ஆசிரியர் சங்கங்களால் முன்னெடுக்கப்படவுள்ள பணிப்பகிஷ்கரிப்புக்கு மத்தியில் பாடசாலைகள் இயங்காது என தெரிவிக்ககப்பட்ட நிலையிலேயே கல்வி அமைச்சு இந்த செய்தியை வெளியிட்டுள்ளமை குறிப்பிடத்தக்கது.
+🟩
+
+The Ministry of Education said that all schools across the country will run as usual tomorrow and tomorrow (30).
+
+It is noteworthy that the Ministry of Education has issued this message as schools will not work amidst the workplace to be carried out by the Teachers Associations in the coming days.
 
 ◼️
 
 [Data](articles/a7f41ff1.json)
 
+[Extended Data](ext_articles/a7f41ff1.ext.json)
+
 ---
 
-### இன்றைய நாணய மாற்று விகிதம்
+### Today's currency exchange rate
 
 *2024-05-29 13:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/184773) · `ta`
 
-இன்று புதன்கிழமை (மே 29) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் விற்பனை விலை ரூபா 296.8300 ஆகவும் கொள்வனவு விலை ரூபா 306.4442 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+The US dollar's selling price is Rs 296.8300, while its buying price is Rs 306.442 according to the Central Bank's latest update on May 29.
+
+🟩
+
+The US dollar sales price was Rs 296.8300 and the purchase price was Rs 306.442, based on the currency exchange rate released by the Central Bank on Wednesday (May 29).
 
 ◼️
 
 [Data](articles/294acb36.json)
+
+[Extended Data](ext_articles/294acb36.ext.json)
 
 ---
 
@@ -196,7 +268,7 @@ Meanwhile, the ambassadors of the European Commission and the UN High Commission
 
 Colombo, May 29 (Daily Mirror) - The Criminal Investigation Department (CID) arrested a lecturer attached to the General Sir John Kotelawala Defence University (KDU) for making false statements to the media regarding the ISIS members arrested in India.
 
-Police Spokesman DIG Nihal Thalduwa said the suspect was arrested yesterday after being summoned to the CID to record a statement over remarks he had made during a TV programme.
+Police Spokesman DIG Nihal Thalduwa said Dr. Punsara Amarasinghe  was arrested yesterday after being summoned to the CID to record a statement over remarks he had made during a TV programme.
 
 On May 20, four Sri Lankans were arrested by the Gujarat Anti-Terrorism Squad at Ahmedabad Airport on suspicion of having ISIS links. The lecturer recently claimed in media interviews that the report of the Commission on the Easter Sunday bomb attacks had recommended these men for rehabilitation.
 
@@ -236,7 +308,7 @@ It was accused of making a false statement regarding 4 Sri Lankans arrested in I
 
 *2024-05-29 13:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/CBSL-optimistic-of-easing-vehicle-restrictions/108-283609) · `en`
 
-Colombo,May 29 (Daily Mirror) - In light of the Central Bank's ability to manage the foreign reserve, the governor Dr. Nandalal Weerasinghe stressed the importance of easing the vehicle restrictions.
+Colombo,May 29 (Daily Mirror) - In light of the Central Bank’s ability to manage foreign reserve, the governor Dr. Nandalal Weerasinghe stressed the importance of easing vehicle restrictions.
 
 Addressing the media, he emphasized that the government must determine whether to resume vehicle imports following the Central Bank's announcement of adequate foreign reserves.
 
@@ -245,6 +317,8 @@ He further mentioned that the government had been concentrating on resuming vehi
 ◼️
 
 [Data](articles/463172dd.json)
+
+[Extended Data](ext_articles/463172dd.ext.json)
 
 ---
 
@@ -266,19 +340,29 @@ Dr. Amarasinghe had reportedly made the controversial remarks during a recent te
 
 ---
 
-### திருகோணமலை, பதவிஸ்ரீபுர பிரதேச வைத்தியசாலை பெயர்பலகையில் தமிழ் பிழை
+### Tamil Error at Padasiripura Divisional Hospital
 
 *2024-05-29 13:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/184772) · `ta`
 
-திருகோணமலை – பதவிஸ்ரீபுர பிரதேச வைத்தியசாலை பெயர்பலகையில் பிழையாக பிரசுரிக்கப்பட்டுள்ள தமிழ் எழுத்துக்களை திருத்துமாறு மக்கள் கோரிக்கை விடுக்கின்றனர்.
+Residents of Trincomalee-Padasripura demand corrections to the Tamil alphabet on the newly inaugurated hospital's name board due to errors. Despite the presence of knowledgeable Tamils in state departments and growing online translation tools, mistakes persist. Activists urge the government to take responsibility for rectifying these errors to prevent future occurrences.
 
-திருகோணமலை - பதவிஸ்ரீபுர பிரதேச செயலாளர் பிரிவுக்குட்பட்ட பகுதியில் அப்பகுதி மக்களுடைய நலனினை கருத்திற் கொண்டு அண்மையில் பிரதேச வைத்தியசாலை ஒன்று திறந்து வைக்கப்பட்டது.
+🟩
 
-இதன் பெயர்ப் பலகையில் உள்ள தமிழ் பெயரானது தமிழ் பிழைகளோடு காணப்படுவதாகவும், அதை திருத்துமாறு சம்பந்தப்பட்ட தரப்பினருக்கு கோரிக்கை விடுக்கப்பட்டும் இதுவரை அது திருத்தப்படவில்லை எனவும் மக்கள் தெரிவிக்கின்றனர்.
+People are demanding to edit the Tamil alphabet that has been published in the name of the Trincomalee - Padasripura Divisional Hospital.
 
-...
+A recently inauguration of a Divisional Hospital in the area of ​​the Trincomalee - Padasripura Divisional Secretariat Division
+
+People say that the Tamil name on the name board is seen with Tamil errors and that it has not yet been amended by the relevant parties to correct it.
+
+While there are many Tamil who knows Tamil in most of the state departments and names in Sri Lanka, there are more and more translating internet facilities in Tamil, and that such mistakes are continuously in Tamil, and why the social activists fail to printed important names and pre -displayed the important names.The question is.
+
+Therefore, the people are demanding that the government be responsible for correction of the Tamil errors on the name board and that such mistakes in the future are not anywhere.
+
+◼️
 
 [Data](articles/80f484b3.json)
+
+[Extended Data](ext_articles/80f484b3.ext.json)
 
 ---
 
@@ -316,39 +400,59 @@ She said that she was ready to give $ 5,000 to someone who is finding or informe
 
 ---
 
-### பொது வேட்பாளர் விடயத்தை சுமந்திரன் குழப்புகிறார் - சி.வி.விக்னேஸ்வரன்
+### Sumanthiran confuses the issue of common candidate - CV Wigneswaran
 
 *2024-05-29 12:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/184766) · `ta`
 
-ஜனாதிபதி தேர்தலில் தமிழ்ப் பொது வேட்பாளர் ஒருவரை களமிறக்குவது தொடர்பில் இடம்பெற்றுவரும் முன்னெடுப்புக்களை சுமந்திரன் குழப்பியடிக்கின்றார் என தமிழ் மக்கள் கூட்டணியின் தலைவர், நாடாளுமன்ற உறுப்பினர் சி.வி.விக்னேஸ்வரன் குற்றம் சாட்டியுள்ளார்.
+CV Wigneswaran accuses Sumanthiran of confusing the public regarding the Tamil general candidate's initiatives in the presidential election. Sumanthiran's arrangements in Jaffna were criticized as distractions. The civil society aims for a common Tamil candidate, dismissing concerns as distractions. Wigneswaran suggests Sumanthiran isn't a Tamil nationalist and isn't involved in the common candidate issue, implying he might seek southern support for personal gain.
 
-தமிழ் பொது வேட்பாளர் குறித்து நாடாளுமன்ற உறுப்பினர் எம்.ஏ சுமந்திரனின் ஏற்பாட்டில் யாழ்ப்பாணத்தில் கருத்து பரிமாற்ற நிகழ்வு நடைபெறவுள்ளமை தொடர்பில் கேட்ட போதே அவ்வாறு தெரிவித்தார்.
+🟩
 
-தமிழ்ப் பொது வேட்பாளர் தொடர்பான இந்தக் கூட்டத்துக்கு எனக்கொரு அழைப்பும் வரவில்லை. ஆனால், இவ்வாறான கருத்துப் பரிமாற்ற கூட்டங்கள் என்பது எங்களைத் திசை திருப்புவதாகவே அமையும்.
+The leader of the Tamil People's Alliance CV Wigneswaran has accused Sumanthiran of confusion over the ongoing initiatives of the Tamil general candidate in the presidential election.
 
-சிவில் சமூகத்தினர், தமிழ் மக்கள் சார்பிலே ஒருவரைப் பொது வேட்பாளராக நிறுத்துவது என்ற முடிவுக்கு வந்து விட்டார்கள். இதனை முன்வைத்து அடுத்த கட்ட நடவடிக்கைகள் தொடர்பில் மக்களுடனும், பல அரசியல் தரப்பினர்களுடனும் தொடர்ந்து பேசிக் கொண்டிருக்கின்றார்கள்.
+When asked about the Tamil general candidate, MA Sumanthiran's arrangement was held in Jaffna.
+
+I have no invitation to this meeting on the Tamil general candidate. But such concept meetings are aimed at distracting us.
+
+The civil society has come to the conclusion that one of the Tamil people is to be a common candidate. They are continuing to talk to the people and many political parties about the next steps.
+
+Thus, when the general position is taken and strengthened, it is a distraction to bring this issue out of the public and call it an exchange of opinion.
+
+If someone wants to say something against this position, let us say anything. We will give the answers.
+
+This means that if the general candidate comes up, the Tamil people will not vote, or we are ready to give the answers to any reason.
 
 ...
 
 [Data](articles/7e384de9.json)
 
+[Extended Data](ext_articles/7e384de9.ext.json)
+
 ---
 
-### பெருந்தோட்டத் தொழிலாளர்களுக்கான ஆயிரத்து 700 ரூபா சம்பள விடயத்தில் விட்டுக்கொடுப்புக்கு இடமில்லை - எம்.ராமேஷ்வரன்
+### Thousands of Rs.
 
 *2024-05-29 12:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/184764) · `ta`
 
-“அரசமைப்பின் பிரகாரம் ஜனாதிபதி தேர்தல் நடத்தப்பட வேண்டும். உரிய வகையில் அத்தேர்தல் நடைபெறும் என எதிர்பார்க்கின்றோம்.” என்று இலங்கை தொழிலாளர் காங்கிரஸின் தவிசாளரும், நுவரெலியா மாவட்ட நாடாளுமன்ற உறுப்பினருமான மருதபாண்டி ராமேஷ்வரன் தெரிவித்தார்.
+Maruthapandi Rameshwaran, a parliamentarian from the Ceylon Workers Congress, emphasized the importance of holding the presidential election as per the constitution. He addressed concerns about plantation workers' wages, stating that despite challenges, a wage increase was achieved through negotiations. Rameshwaran criticized companies for not participating in discussions and suggested handing over estates to the government if the agreed-upon wages were not met. He clarified that the wage increase was not an election promise and condemned political maneuvering over the issue.
 
-அத்துடன், பெருந்தோட்டத் தொழிலாளர்களுக்கான ஆயிரத்து 700 ரூபா சம்பள விடயத்தில் விட்டுக்கொடுப்புக்கு இடமில்லை எனவும் அவர் கூறினார்.
+🟩
 
-அமரர் ஆறுமுகன் தொண்டமானின் ஜனன தினத்தை முன்னிட்டு, இ.தொ.காவின் பொதுச்செயலாளரும், நீர்வழங்கல் மற்றும் தோட்ட உட்கட்டமைப்பு அபிவிருத்தி அமைச்சருமான ஜீவன் தொண்டமானின் ஆலோசனைக்கமைய எம்.பி ராமேஷ்வரனின் நிதி ஒதுக்கீட்டின் மூலம் கொத்மலை கல்வி வலயத்துக்குட்பட்ட தெரிவு செய்யப்பட்ட பாடசாலைகளுக்கு விளையாட்டு உபகரணங்கள் மற்றும் இசைக்கருவிகள் வழங்கும் நிகழ்வு இன்று புதன்கிழமை (29) பூண்டுலோயா தமிழ் மகா வித்தியாலயத்தில் நடைபெற்றது.
+“The presidential election must be held according to the constitution. We expect the election to be held. ”Maruthapandi Rameshwaran, a member of the Ceylon Workers Congress and Nuwara Eliya District Parliamentarian.
 
-இந்நிகழ்வின் பின்னர் ஊடகங்களிடம் கருத்து வெளியிடுகையிலேயே நாடாளுமன்ற உறுப்பினர் ரமேஷ்வரன் மேற்கண்டவாறு கூறினார்.
+He also said that there is no place for the plantation workers to give up a thousand rupees of 700 rupees.
+
+On the advice of Jeevan Thondaman, the General Secretary of the CWC and the Minister of Water Resources and Estate Infrastructure Development, on the occasion of Amara Arumugan Thondaman's birthdayHeld at the Vidyalaya.
+
+Parliamentarian Rameshwaran said this while commenting on the media after the event.
+
+“The estate administration sought the court, saying that the last time a thousand rupees was fixed through the salary council.. However, at the end we succeeded.
 
 ...
 
 [Data](articles/92cc16b2.json)
+
+[Extended Data](ext_articles/92cc16b2.ext.json)
 
 ---
 
@@ -576,19 +680,25 @@ He also said that plans are underway to suggest forming special school committee
 
 ---
 
-### மரப்பெட்டி விழுந்து இளைஞன் மரணம்!
+### Young man's death
 
 *2024-05-29 11:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/184753) · `ta`
 
-வெளிநாட்டிலிருந்து அனுப்பப்பட்ட மரப் பெட்டி ஒன்றை லொறியில் இருந்து இறக்கும் போது தவறி விழுந்ததில் இளைஞன் ஸ்தலத்திலேயே மரணடைந்துள்ளதாக பொலிஸாரின் விசாரணைகளின்போது தெரிய வந்துள்ளது.
+Mohammed Rimas, a 21-year-old from Azhar Vidyalaya Road, tragically died when a falling wooden box from a lorry hit him. The incident is under investigation by the police, who have moved his body to the Valaichenai Resource Hospital for examination.
 
-இவ்வாறு மரணமடைந்த இளைஞன் பிறைந்துறைச்சேனை அஸ்ஹர் வித்தியாலய வீதியைச் சேர்ந்த 21 வயதுடைய முகம்மது றிமாஸ் என்பவராவார்.
+🟩
 
-மரணமடைந்த இளைஞனின் உடல் வைத்திய பரிசோதனைக்காக வாழைச்சேனை ஆதார வைத்தியசாலையில் வைக்கப்பட்டுள்ளதுடன், விசாரணைகளை வாழைச்சேனை பொலிஸார் மேற்கொண்டு வருகின்றனர்.
+Police investigations revealed that a youth had died on the spot when a wooden box sent from abroad was falling from a lorry.
+
+The deceased is Mohammed Rimas, a 21 -year -old from Azhar Vidyalaya Road.
+
+The body of the deceased has been placed at the Valaichenai Resource Hospital for medical examination and the police are conducting investigations.
 
 ◼️
 
 [Data](articles/68402e8a.json)
+
+[Extended Data](ext_articles/68402e8a.ext.json)
 
 ---
 
@@ -632,79 +742,111 @@ The body of the deceased has been placed at the Valaichenai Resource Hospital fo
 
 ---
 
-### அமெரிக்காவின் ஒகாயோவில் வெடிப்புச்சம்பவம் - ஏழு பேர் காயம் இருவரை காணவில்லை
+### Explosion in Ogaio, USA
 
 *2024-05-29 11:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/184759) · `ta`
 
-அமெரிக்காவின் ஒகாயோவின்  யங்டவுனில் இடம்பெற்ற வெடிப்பு சம்பவத்தில் 7 பேர்காயமடைந்துள்ளனர் இருவர் காணாமல்போயுள்ளனர்.
+An explosion occurred near Ogayo Central Square, USA, causing two people to go missing. The cause remains unknown. Authorities advise avoiding the area. Seven injured individuals are receiving treatment.
 
-ஒகாயோ மத்திய சதுக்கத்திற்கு அருகில்  இந்த சம்பவம் இடம்பெற்றுள்ளது.இந்த பகுதிக்கு செல்வதை தவிர்க்குமாறு  பொலிஸார் பொதுமக்களை கேட்டுக்கொண்டுள்ளனர்.
+🟩
 
-வெடிப்பு சம்பவத்திற்கான காரணம் இதுவரை தெரியவரவில்லை.வாயு கசிவு ஏற்பட்டதா என்பதை கண்டறிவதற்கான முயற்சிகளில் ஈடுபட்டுள்ளதாக அதிகாரிகள் தெரிவித்துள்ளனர்.
+Two people have been reported missing in the explosion in Ogaio, USA.
 
-எனினும இது வெடிப்புசம்பவம் என உறுதியாக தெரிவிக்க முடியும் என யங்டவுனின் தீயணைப்புபிரிவின் தலைவர் தெரிவித்துள்ளார்.
+The incident took place near Ogayo Central Square. Police have asked the public to avoid going to the area.
 
-காயமடைந்த ஏழு பேருக்கு சிகிச்சை அளிக்கின்றோம் ஒருவர் படுகாயமடைந்துள்ளார் என அதிகாரிகள் தெரிவித்துள்ளனர்.
+The cause of the explosion is unknown.
 
-ஆண் ஒருவரையும் பெண்ணையும் காணவில்லை ஆண் வங்கி ஊழியர் என தீயணைப்பு படையின் தலைவர் தெரிவித்துள்ளார்.
+The head of the Yangdown Fire Division said that it could be confirmed as the explosion.
+
+Seven people are treated for the injured.
+
+The male bank employee is missing a male and a woman, said the head of the fire brigade.
 
 ◼️
 
 [Data](articles/623cb6b4.json)
 
+[Extended Data](ext_articles/623cb6b4.ext.json)
+
 ---
 
-### வன்னி ஊடகவியலாளரின் புகைப்படங்களுக்கு ஐ.நா அங்கீகாரம்
+### UN recognition for photos of Vanni journalist
 
 *2024-05-29 11:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/184756) · `ta`
 
-இலங்கையில் பலவந்தமாக காணாமல் ஆக்கப்பட்டோர் தொடர்பில் வெளியிடப்பட்ட விசேட அறிக்கைக்காக, வன்னியில் முன்னணி தமிழ் ஊடகவியலாளர் ஒருவர் எடுத்த புகைப்படங்களை ஐக்கிய நாடுகள் சபை பயன்படுத்தியுள்ளது.
+The UN has featured photos by Tamil journalist Kanapathi Pillai Kumanan in a report on enforced disappearances in Sri Lanka, highlighting the struggles of families affected by the conflict. The report, focusing on the experiences of mothers in the North and East of Sri Lanka, underscores the ongoing quest for truth and justice regarding forcibly disappeared individuals from the civil war, which ended 15 years ago. Despite the passage of time, relatives remain hopeful and continue to demand answers, as evidenced by peaceful protests in refugee camps and villages.
 
-மே 21 அன்று ஐக்கிய நாடுகளின் மனித உரிமைகள் ஆணையாளர் அலுவலகத்தால் வெளியிடப்பட்ட "பலவந்தமாக காணாமல் ஆக்கப்பட்டவர்களின் மரபு இலங்கையை ஆட்டிப்படைக்கிறது" (Legacy of enforced disappearances haunts Sri Lanka) என்ற கட்டுரைக்கு புகைப்பட ஊடகவியலாளர் கனபதிப்பிள்ளை குமணன் எடுத்த புகைப்படங்கள் பயன்படுத்தப்பட்டுள்ளன.
+🟩
 
-இலங்கையில் யுத்தத்தின் போது பலவந்தமாக காணாமல் ஆக்கப்பட்ட பல்லாயிரக்கணக்கான அன்புக்குரியவர்களுக்கு என்ன நடந்தது எனக் கேட்டு இலங்கையில் நீண்ட காலமாகப் போராட்டத்தில் ஈடுபட்டு வரும் வடக்கு, கிழக்கு வலிந்து காணாமல் ஆக்கப்பட்ட உறவினர்கள் சங்கத்தைச் சேர்ந்த தாய்மார்களின் அனுபவங்களை மையப்படுத்தி இக்கட்டுரை வெளியிடப்பட்டுள்ளது.
+The United Nations has used photographs taken by a leading Tamil journalist in Vanni for a special report issued on the forcible missing persons in Sri Lanka.
+
+Photos of photographers Kanapathi Pillai Kumanan have been used for the article "Legacy of Enforced Disappearances" (Legacy of Enforced Disappearances Hounts Sri Lanka) published by the United Nations Human Rights Commissioner's Office on May 21.
+
+This article has been published, focusing on the experiences of mothers of the North and East, who have been struggling in Sri Lanka for a long time, asking tens of thousands of loved ones who have been forcibly disappeared during the war in Sri Lanka.
+
+The article was published in collaboration with a special report issued by the United Nations Human Rights Commissioner's Office on the lack of local accountability in Sri Lanka.
 
 ...
 
 [Data](articles/bd0f9b0f.json)
 
+[Extended Data](ext_articles/bd0f9b0f.ext.json)
+
 ---
 
-### மைத்திரிக்கு எதிரான தடை மேலும் நீடிப்பு !
+### The ban on Maithri is more prolonged!
 
 *2024-05-29 11:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/184757) · `ta`
 
-ஸ்ரீலங்கா சுதந்திரக் கட்சியின் தலைவராக முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன செயற்படுவதைத் தடுக்க விதிக்கப்பட்ட தடையை மேலும் நீடித்து கொழும்பு மாவட்ட நீதிமன்றம் உத்தரவிட்டுள்ளது.
+The Colombo District Court extended the ban on former President Maithripala Sirisena, preventing him from leading the SLFP, based on a complaint by former President Chandrika Bandaranaike Kumaratunga. The ban was ordered to continue until June 12, following a hearing presided over by Judge Chandun Vidhan.
 
-அதன்படி எதிர்வரும் ஜூன் மாதம் 12 ஆம் திகதி வரை குறித்த தடையை நீடித்து கொழும்பு மாவட்ட நீதிமன்றம் உத்தரவிட்டுள்ளது.
+🟩
 
-முன்னாள் ஜனாதிபதி சந்திரிக்கா பண்டாரநாயக்க குமாரதுங்கவினால் தாக்கல் செய்யப்பட்ட முறைப்பாடு, கொழும்பு மாவட்ட நீதிபதி சந்துன் விதான முன்னிலையில் இன்று புதன்கிழமை (29)  மீண்டும் விசாரணைக்கு எடுத்துக் கொள்ளப்பட்டது.
+The Colombo District Court has ordered the ban on former President Maithripala Sirisena to prevent the act of the Sri Lanka Freedom Party (SLFP).
 
-இதன்போதே ஸ்ரீலங்கா சுதந்திரக் கட்சியின் தலைவராக முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன செயற்படுவதைத் தடுக்க விதிக்கப்பட்ட தடை உத்தரவை ஜூன் மாதம் 12 ஆம் திகதி வரை நீட்டித்து நீதிபதி உத்தரவிட்டமை குறிப்பிடத்தக்கது.
+Accordingly, the Colombo District Court has ordered the ban on the 12th of June.
+
+The complaint lodged by former President Chandrika Bandaranaike Kumaratunga was taken up for hearing again in the presence of Colombo District Judge Chandun Vidhan.
+
+Meanwhile, the judge has ordered the extension of the ban on former President Maithripala Sirisena as the leader of the Sri Lanka Freedom Party until June 12.
 
 ◼️
 
 [Data](articles/5c558763.json)
 
+[Extended Data](ext_articles/5c558763.ext.json)
+
 ---
 
-### ரபாவில் 45 பேரை பலி கொண்ட தாக்குதல்; - அமெரிக்காவில் தயாரிக்கப்பட்ட குண்டே பயன்படுத்தப்பட்டது என்கின்றது சிஎன்என்
+### Attack of 45 people in Rabba;- CNN says the Gunde made in the United States
 
 *2024-05-29 11:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/184755) · `ta`
 
-காசாவின் ரபாவில் இடம்பெயர்ந்த மக்கள் கூடாரங்கள் மீது தாக்குதலை மேற்கொள்வதற்கு இஸ்ரேல் அமெரிக்காவின் வெடிமருந்துகளை பயன்படுத்தியது என சிஎன்என் தெரிவித்துள்ளது.
+CNN reports that Israel used US-made ammunition in an attack on displaced people in Gaza's Rabbah, causing over 45 deaths and injuring hundreds. The attack targeted the Kuwait Refugee Camp 1, with victims including the elderly and children. Explosive weapons analysis indicates the use of GPS-guided bombs, typically used for precise strikes on strategic targets.
 
-சம்பவம் இடம்பெற்ற பகுதியில் பதிவான வீடியோவை சிஎன்என் ஆய்வு செய்த வேளை இது தெரியவந்துள்ளதாக தெரிவித்துள்ள சிஎன்என் வெடிகுண்டு நிபுணர்களின் ஆய்வின் மூலமும் இது தெரியவந்துள்ளதாக குறிப்பிட்டுள்ளது.
+🟩
 
-காசாவின் தென்பகுதியில் இடம்பெயர்ந்த மக்கள் வசிக்கும் கூடாரங்களின் மீது மேற்கொள்ளப்பட்ட தாக்குதலை தொடர்ந்து பெரும் தீ மூண்டமை குறிப்பிடத்தக்கது.
+CNN said Israel used US ammunition to attack the displaced people in Gaza's Rabbah.
 
-இஸ்ரேலின் இந்த தாக்குதல் காரணமாக 45க்கும் அதிகமானவர்கள் உயிரிழந்துள்ளதுடன் 200க்கும் அதிகமானவர்கள் மருத்துவமனைகளில் அனுமதிக்கப்பட்டுள்ளனர்.
+The CNN explored the video recorded in the area where the CNN bomb experts said that it was revealed that it was revealed.
 
-ரபாவில் மேற்கொள்ளப்பட்ட இந்த தாக்குதலில் கொல்லப்பட்டவர்களில் அனேகமானவர்கள் பெண்கள் குழந்தைகள் முதியவர்கள் என காசாவின் சுகாதார அமைச்சு வட்டாரங்களும் மருத்துவர்களும் தெரிவித்துள்ளனர்.
+It is noteworthy that the fire broke out following the attack on the displaced people in the south of Gaza.
+
+More than 45 people have been killed and more than 200 have been admitted to hospitals due to Israel's attack.
+
+Gaza's Health Ministry sources and doctors said that many of the victims of the attack in Rabba were the oldest women and the elderly.
+
+The video footage of CNN has shown that the Raba camp is burning and has said that many people are trying to escape the attack at night.
+
+CNN said it could observe the burnt bodies, including the bodies of the children, that rescue workers could be taken out of the rubble.
+
+The camp, known as the Kuwait Refugee Camp 1, has said that the camp has been investigated by Israel's attack.
 
 ...
 
 [Data](articles/4bff3f0f.json)
+
+[Extended Data](ext_articles/4bff3f0f.ext.json)
 
 ---
 
@@ -2187,43 +2329,5 @@ Israel has withdrawn its ambassadors from Ireland, Norway and Spain and formally
 [Data](articles/b43b9ece.json)
 
 [Extended Data](ext_articles/b43b9ece.ext.json)
-
----
-
-### Ambeon Holdings posts Rs. 2.8 b PAT for FY24
-
-*2024-05-29 02:23:06* · [`dailyftlk`](https://www.ft.lk/business/Ambeon-Holdings-posts-Rs-2-8-b-PAT-for-FY24/34-762316) · `en`
-
-Ambeon Holdings PLC, a diversified conglomerate with interests in financial services, real estate, technology, and strategic investments, said it has recorded a stellar performance for the financial year (FY) 2023/2024 as per the interim financial results released.
-
-Amidst an improving macroeconomic landscape, the group delivered robust results for the financial year 2023/24 and posted impressive financial results for posting a Profit After Tax (PAT) of Rs. 2.8 billion, a remarkable 73% growth when compared to its 2022/2023 PAT of Rs. 1.6 billion. For the fourth quarter, the Group’s revenue amounted to Rs. 4.9 billion, compared to Rs. 6.9 billion in the previous year. The PAT for Q4 amounted to Rs. 557 million compared to Rs. 323 million last year.
-
-Ambeon Holdings PLC Chairman Sujeewa Mudalige said: “Considering the market challenges which prevailed during the year under review, the group has withstood the challenges and fared well.”
-
-...
-
-[Data](articles/21fcbe5c.json)
-
-[Extended Data](ext_articles/21fcbe5c.ext.json)
-
----
-
-### Savanth Sebastian new Chairman at Colombo City Holdings
-
-*2024-05-29 02:18:59* · [`dailyftlk`](https://www.ft.lk/business/Savanth-Sebastian-new-Chairman-at-Colombo-City-Holdings/34-762315) · `en`
-
-Savanth Sebastian has been appointed as the Chairman of Colombo City Holdings PLC, a subsidiary of Ambeon Holdings Plc.
-
-The Chairmanship of Colombo City Holdings was previously held by Ravi Abeysuriya until his demise late last year.
-
-Sebastian has a wealth of experience in economics, financial services and investment management and currently also serves on the Boards of Directors of Nations Trust Bank PLC (6 years), Voguetex Ltd. and ArpicoAtaraxia Asset Management.
-
-Sebastian brings with him 21 years of industry experience, having carried out responsibilities for nine years as the Senior Economist within the Global Markets research team at Commonwealth Bank in Australia, advising Federal and State Governments, high net worth private and institutional clients, and internal stakeholders – Including Colonial First State and the Commonwealth Bank senior leadership team.
-
-...
-
-[Data](articles/f543352e.json)
-
-[Extended Data](ext_articles/f543352e.ext.json)
 
 ---

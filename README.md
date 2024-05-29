@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-29 23:18:40**
+As of **2024-05-29 23:34:07**
 
 ## Newspaper Stats
 
-*Scraped **27,167** Articles*
+*Scraped **27,168** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,465
 economynextcom | 1,556
 dailyftlk | 1,591
 adalk | 2,311
-adaderanalk | 3,094
+adaderanalk | 3,095
 tamilmirrorlk | 3,188
 virakesarilk | 4,180
 dailymirrorlk | 4,293
@@ -26,11 +26,29 @@ adaderanasinhalalk | 4,351
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,167 (100.0%) of 27,167 articles have been extended.
+27,167 (100.0%) of 27,168 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-29 (Wednesday)
+
+### Thailand set to indict former PM Thaksin over royal insult
+
+*2024-05-29 23:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/99521/thailand-set-to-indict-former-pm-thaksin-over-royal-insult) · `en`
+
+(Reuters) - Thailand’s attorney-general will indict former Prime Minister Thaksin Shinawatra for allegedly insulting the monarchy, an official said on Wednesday, in a setback to a political heavyweight whose loyalists are currently in government.
+
+The complaint, lodged by the royalist military that ousted the government of his sister, Yingluck Shinawatra, had stemmed from an interview the influential tycoon gave to foreign media in 2015. Other charges include violating a computer crime law.
+
+“The attorney-general has decided to indict Thaksin on all charges,” spokesperson Prayuth Bejraguna said, adding he must appear in court on June 18.
+
+Thaksin, 74, denies wrongdoing and has repeatedly pledged loyalty to the crown, criticism of which is forbidden under Thailand’s lese-majeste law, one of the world’s strictest of its kind.
+
+...
+
+[Data](articles/e0596cf4.json)
+
+---
 
 ### The Presidential election is held under the constitution
 
@@ -2261,31 +2279,5 @@ According to the army, all schools will run as usual on the 30th and 31st.
 [Data](articles/aed97001.json)
 
 [Extended Data](ext_articles/aed97001.ext.json)
-
----
-
-### Meeting between Election Commission Chairman and July Chang
-
-*2024-05-29 13:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197153) · `si`
-
-US Ambassador July Chang met with Sri Lanka's Election Commission Chairman RMA V. Ratnayake to discuss election issues. The meeting was also attended by European Commission and UN representatives, focusing on the election campaign.
-
-🟩
-
-The US Ambassador to Sri Lanka has held a meeting between Mr. Chang and the Chairman of the Elections Commission RMA V. Ratnayake.
-
-It is reported that she met the Chairman of the Elections Commission to consult the country's election campaign.
-
-The US Ambassador to the Election Commission has asked the Election Commission regarding the issues that have arisen in elections.
-
-The Chairman of the Elections Commission. M. it. Mr. L Ratnayake has said.
-
-Meanwhile, the ambassadors of the European Commission and the UN High Commissioner to the Elections Commission had discussed the election campaign.
-
-◼️
-
-[Data](articles/fc7dffdc.json)
-
-[Extended Data](ext_articles/fc7dffdc.ext.json)
 
 ---

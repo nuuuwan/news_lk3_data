@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-29 11:04:24**
+As of **2024-05-29 11:18:29**
 
 ## Newspaper Stats
 
-*Scraped **27,006** Articles*
+*Scraped **27,010** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,74 @@ newsfirstlk | 363
 islandlk | 1,465
 economynextcom | 1,540
 dailyftlk | 1,591
-adalk | 2,296
+adalk | 2,297
 adaderanalk | 3,078
-tamilmirrorlk | 3,170
+tamilmirrorlk | 3,171
 virakesarilk | 4,142
-dailymirrorlk | 4,258
-adaderanasinhalalk | 4,331
+dailymirrorlk | 4,259
+adaderanasinhalalk | 4,332
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,004 (100.0%) of 27,006 articles have been extended.
+27,006 (100.0%) of 27,010 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-29 (Wednesday)
+
+### US billionaire plans submersible trip to Titanic wreck
+
+*2024-05-29 11:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/US-billionaire-plans-submersible-trip-to-Titanic-wreck/107-283599) · `en`
+
+BBC - A US luxury real estate billionaire and a deep-sea explorer are planning to travel in a submersible to explore the Titanic.
+
+Ohio tycoon and adventurer Larry Connor and Patrick Lahey, co-founder of Triton Submarines, say they want to take a sub to a depth of around 3,800m (12,467ft) to see the shipwreck in the North Atlantic Ocean.
+
+The private submersible industry was rocked after five people were killed when a vessel built by OceanGate imploded en route to the Titanic last year.
+
+A spokesman for Mr Connor’s company said on Tuesday that the proposed voyage would only take place once a vessel was fully certified by a marine organisation.
+
+The pair plan to use a sub dubbed the Triton 4000/2 Abyssal Explorer – the “4000” refers to the depth in metres to which the craft can safely be deployed.
+
+The Titan submarine built by OceanGate was constructed of carbon fibre and was only certified to 1,300m, far short of the depths of the ocean floor where the Titanic wreck lay.
+
+...
+
+[Data](articles/10b6323c.json)
+
+---
+
+### අනුර අධිකරණයට එයි
+
+*2024-05-29 11:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197148) · `si`
+
+නඩු විභාගයක සාක්ෂි දීම සඳහා ජාතික නිදහස් පෙරමුණේ නායක අනුර කුමාර දිසානායක මහතා කොළඹ දිසා අධිකරණයට පැමිණ තිබේ.
+
+◼️
+
+[Data](articles/e41e23e0.json)
+
+---
+
+### மீன்பிடித்தல் குறைந்ததால்: இறைச்சி விலைகள் அதிகரிப்பு
+
+*2024-05-29 10:59:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீன்பிடித்தல்-குறைந்ததால்-இறைச்சி-விலைகள்-அதிகரிப்பு/175-338075) · `ta`
+
+மீன் பிடித்தல் குறைவதால், உள்ளூர் சந்தையில் கோழி உள்ளிட்ட இறைச்சி வகைகளின் விலை அதிகரித்துள்ளதாக தேசிய நுகர்வோர் முன்னணி தெரிவித்துள்ளது.
+
+கடல் சீற்றம் காரணமாக மீன்பிடிக்க வேண்டாம் என வானிலை ஆய்வு மையம் அறிவுறுத்தியதால் மீன் விலை உயர்ந்துள்ளது.
+
+நாட்டைச் சூழவுள்ள கடற்பரப்புகள் கொந்தளிப்புடன் காணப்படும் எனவும், மீனவ மற்றும் கடற்படை சமூகங்கள் மறு அறிவித்தல் வரை வெளியில் செல்லவேண்டாம் எனவும் தெரிவிக்கப்பட்டுள்ளது.
+
+இதனால், உள்ளூர் இறைச்சி விலை   அதிகரித்துள்ளது.   அதன்படி, நாரஹேன்பிட்டி பொருளாதார மத்திய நிலையத்தில் ஒரு கிலோ கிராம் புதிய கோழி  1,080. ரூபாயாகும்
+
+◼️
+
+[Data](articles/7712422b.json)
+
+---
 
 ### 27 people injured in bus
 
@@ -488,41 +540,53 @@ He said the central bank had decided to maintain its policy interest rate withou
 
 ---
 
-### வாகன இறக்குமதி:  ஆளுநர் அதிரடி
+### Vehicle Import: Governor Action
 
 *2024-05-29 08:51:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாகன-இறக்குமதி-ஆளுநர்-அதிரடி/175-338067) · `ta`
 
-வாகன இறக்குமதி கட்டுப்பாடுகளை படிப்படியாக தளர்த்த அரசாங்கம் தீர்மானிக்கிறது என்றால், அதற்கான வெளிநாட்டு கையிருப்பை நிர்வகிக்கும் திறன் மத்திய வங்கிக்கு உண்டு என இலங்கை மத்திய வங்கியின் ஆளுநர் கலாநிதி நந்தலால் வீரசிங்க தெரிவித்துள்ளார்.
+Dr. Nandalal Weerasinghe, Governor of Sri Lanka's Central Bank, stated that if the government eases vehicle import rules, the Central Bank can handle foreign currency reserves. He also mentioned maintaining the current policy interest rate.
 
-மத்திய வங்கி தனது கொள்கை வட்டி வீதத்தை மாற்றியமைக்காமல் பராமரிக்க தீர்மானித்தள்ளதாக தெரிவித்தார்.
+🟩
 
-"ஏற்கனவே சில வாகனங்கள் அனுமதிக்கப்பட்டுள்ளன. வாகனங்களின் இறக்குமதியை படிப்படியாக தளர்த்துவது முக்கியமான முடிவு. அந்நியச் செலாவணியை எங்களால் நிர்வகிக்க முடியும் என்று நாங்கள் நம்புகிறோம்." என்றார். R
+Governor of the Central Bank of Sri Lanka, Dr. Nandalal Weerasinghe, said that if the government decides to gradually relax vehicle import regulations, the Central Bank has the ability to manage foreign stockpile.
+
+He said the central bank had decided to maintain its policy interest rate without changing.
+
+“Some vehicles already have been allowed. Gradually relaxation of imports of vehicles is an important decision. We hope that we can manage foreign exchange. ”. Remble
 
 ◼️
 
 [Data](articles/ea114eb4.json)
 
+[Extended Data](ext_articles/ea114eb4.ext.json)
+
 ---
 
-### சோற்றில் மட்டைத்தேள் ; உணவகத்திற்கு சீல்
+### Put on the soda;Seal to the restaurant
 
 *2024-05-29 08:48:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/சோற்றில்-மட்டைத்தேள்-உணவகத்திற்கு-சீல்/71-338066) · `ta`
 
-திருநெல்வேலி பகுதியில் உள்ள ஓர் உணவகத்தில் கடந்த வெள்ளிக்கிழமை மதிய உணவு வாங்கிய ஒருவரின் சோற்று பார்சலில் மட்டைத்தேள் காணப்பட்டதாக பொது சுகாதார பரிசோதகர் பா. சஞ்சீவனிற்கு முறைப்பாடு ஒன்று கிடைத்தது.
+A public health inspector visited a restaurant in Tirunelveli after receiving a complaint. Despite an inspection by Sanjeevan, no corrective actions were taken. A case was filed against the owner, fined 45,000/=, and the restaurant was closed until repairs are done.
 
-இதனையடுத்து சனிக்கிழமை குறித்த உணவகம் திருநெல்வேலி பொது சுகாதார பரிசோதகர் பா. சஞ்சீவனினால் பரிசோதனை மேற்கொள்ளப்பட்டது.
+🟩
 
-இதன்போது பொது சுகாதார பரிசோதகரால் ஏற்கனவே வழங்கப்பட்ட திருத்த வேலைகள் எவையும் நிவர்த்தி செய்யப்படாமல் இருப்பது அவதானிக்கப்பட்டது.
+Public Health Inspector Pa Pa, at a restaurant in a restaurant in Tirunelveli last Friday. Sanjeevan got a complaint.
 
-இதனை தொடர்ந்து நேற்றைய தினம்  (27) கடை உரிமையாளரிற்கு எதிராக மேலதிக நீதவான் நீதிமன்றில் வழக்கு தாக்கல் செய்யப்பட்டது.
+Following this, the restaurant on Saturday. Examination was carried out by Sanjeevan.
 
-வழக்கை நேற்றை தினம் விசாரணைக்கு எடுத்து கொண்ட நீதவான், உரிமையாளரிற்கு 45,000/= அபராதம் அறவிட்டதுடன் கடையினை திருத்த வேலைகள் முடிவடையும் வரை சீல்வைத்து மூடுமாறு பொது சுகாதார பரிசோதகரிற்கு கட்டளை வழங்கினார்.
+It has been observed that no correction work has already been made by the Public Health Inspector.
 
-இதனையடுத்து பொது சுகாதார பரிசோதகர் பா. சஞ்சீவனால் குறித்த உணவகம் நேற்யை தினம் சீல் வைத்து மூடப்பட்டது. R
+Following this, a case was filed against the shop owner yesterday (27) at the Additional Magistrate's Court.
+
+The magistrate, who took the case yesterday, paid a fine of 45,000/= to the owner and ordered the Public Health Inspector to close the shop until the work is completed.
+
+Subsequently, the Public Health Inspector Pa Pa. The restaurant was sealed by Sanjeevan. Remble
 
 ◼️
 
 [Data](articles/51223992.json)
+
+[Extended Data](ext_articles/51223992.ext.json)
 
 ---
 
@@ -2191,75 +2255,5 @@ The Minister said the train service is also in critical condition and said even 
 [Data](articles/e82a7716.json)
 
 [Extended Data](ext_articles/e82a7716.ext.json)
-
----
-
-### The government is focused on solving the problems of the Grama Niladhari!
-
-*2024-05-28 20:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/184725) · `ta`
-
-The government is addressing issues within the Grama Niladhari Service, as directed by the President's Senior Presidential Commission on National Security. This includes investigating pay concerns and advocating for changes to the Service Bill to improve promotions. Sagala Ratnayake, in discussions with the Grama Niladhari Trade Union Federation, highlighted the importance of this service, which has been operational for over sixty years, and acknowledged the contributions made by Grama Niladharis despite challenges.
-
-🟩
-
-The President's Senior Presidential Commission on National Security has instructed the relevant authorities to come up with potential solutions to the problems in the Grama Niladhari Service, which is not contradicted with other services of the public service.
-
-He also urged the authorities to address the existing issues and reach a common agreement.
-
-Sagala Ratnayake gave these instructions at a discussion held at the Presidential Office today (28) with representatives of the Grama Niladhari Trade Union Federation and its relevant institutions on the issues of the Grama Niladhari Service.
-
-The Grama Niladhari Service was investigated on issues and pay issues.
-
-The Grama Niladhari Federation urged that the Service Bill should be changed to resolve the issue of the promotion of the Grama Niladhari.
-
-Accordingly, Sagala Ratnayake advised to embrace favorable proposals in the Service Bill submitted for the approval of the Public Service Commission.
-
-...
-
-[Data](articles/94b480a8.json)
-
-[Extended Data](ext_articles/94b480a8.ext.json)
-
----
-
-### Pope Francis apologizes over use of gay slur
-
-*2024-05-28 20:37:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Pope-Francis-apologizes-over-use-of-gay-slur/108-283540) · `en`
-
-May 28, (CNN) - Pope Francis has apologized for using an anti-gay slur during a meeting with bishops.
-
-The 87-year-old pontiff reportedly made the homophobic remark in a closed-door meeting last week as he told Italian bishops that gay men shouldn’t be allowed to train for the priesthood.
-
-“The Pope never intended to offend or express himself in homophobic terms, and he extends his apologies to those who felt offended by the use of a term, as reported by others,” the Vatican said in a Tuesday statement.
-
-“As he (Pope Francis) has said on several occasions, ‘in the Church there is room for everyone, everyone! No one is useless, no one is superfluous, there is room for everyone. Just as we are, everyone.’”
-
-The Pope’s comments came to light on Monday when two Italian newspapers - the Corriere della Sera and La Repubblica – reported on the May 20 meeting, citing sources in attendance.
-
-...
-
-[Data](articles/41bfd1a0.json)
-
-[Extended Data](ext_articles/41bfd1a0.ext.json)
-
----
-
-### The President's Directorate to the authorities to continue relief work until the disaster is reduced!
-
-*2024-05-28 20:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/184715) · `ta`
-
-President Wickremesinghe urges continued relief efforts until disaster mitigation is achieved, directing authorities to assist victims promptly. The Disaster Management Center is taking steps to compensate those affected.
-
-🟩
-
-President Ranil Wickremesinghe has directed the relevant authorities to provide immediate relief to the people affected by the inclement weather and to continue the relief work until the disaster is reduced.
-
-Accordingly, the Disaster Management Center has taken steps to compensate for the victims.
-
-◼️
-
-[Data](articles/7cc11279.json)
-
-[Extended Data](ext_articles/7cc11279.ext.json)
 
 ---

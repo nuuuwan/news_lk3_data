@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-30 00:05:28**
+As of **2024-05-30 00:18:42**
 
 ## Newspaper Stats
 
-*Scraped **27,168** Articles*
+*Scraped **27,172** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,16 +19,92 @@ adalk | 2,311
 adaderanalk | 3,095
 tamilmirrorlk | 3,188
 virakesarilk | 4,180
-dailymirrorlk | 4,293
+dailymirrorlk | 4,297
 adaderanasinhalalk | 4,351
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,168 (100.0%) of 27,168 articles have been extended.
+27,168 (100.0%) of 27,172 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-05-30 (Thursday)
+
+### Unlocking economic growth and Strategic Advantages: Potential benefits for Sri Lanka from BRICS
+
+*2024-05-30 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Unlocking-economic-growth-and-Strategic-Advantages-Potential-benefits-for-Sri-Lanka-from-BRICS/172-283634) · `en`
+
+The expansion of the BRICS coalition to include Iran, Egypt, Ethiopia, and the United Arab Emirates on 1st January 2024 marks a significant milestone in its evolution
+
+The recent inclusion of Iran, Saudi Arabia, and the UAE expands BRICS’ collective population to around 3.5 billion people
+
+BRICS wants to see a “greater voice and representation” for emerging economies
+
+The BRICS summit in Yekaterinburg holds particular significance as the birthplace of the coalition’s formalization. This city’s status as a cultural and industrial hub underscores the BRICS’ commitment to fostering cooperation across various sectors, from trade and investment to technology and innovation
+
+BRICS is an acronym representing a coalition of the world’s prominent Emerging market economies: Brazil, Russia, India, China, and South Africa.
+
+...
+
+[Data](articles/9f7a81f8.json)
+
+---
+
+### World No Tobacco Day Calls to strengthen measures to protect children from tobacco industry
+
+*2024-05-30 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/World-No-Tobacco-Day-Calls-to-strengthen-measures-to-protect-children-from-tobacco-industry/172-283636) · `en`
+
+Governments must strengthen legal measures to comprehensively ban all forms of domestic and cross-border marketing of tobacco products. The picture shows the Young advocates group at the 10th Conference Of the Parties in Panama, February 2024
+
+Young people across the world who are urging governments to shield them from predatory tobacco marketing tactics
+
+40 percent of the audience engaged with the marketing content of these tobacco companies on social media are young people under the age of 25
+
+‘Protecting children from tobacco industry interference’ is the theme for World No Tobacco Day this year. No tobacco day falls on May 31.
+
+Thus the World No Tobacco Day for 2024 will give a platform to young people across the world who are urging governments to shield them from predatory tobacco marketing tactics.
+
+...
+
+[Data](articles/a27c556b.json)
+
+---
+
+### Why are boys falling behind in education and what can we do about it?
+
+*2024-05-30 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Why-are-boys-falling-behind-in-education-and-what-can-we-do-about-it/172-283638) · `en`
+
+Parent and teacher attitudes and aspirations may differ with harder sanctions for boys or inadvertent rewarding for lower effort because ‘boys will be boys’
+
+Females comprised 64% of all state university enrolments for medicine, dentistry, law, science, IT, education, management and arts
+
+Even at the primary school level, girls’ attainment outperforms boys’ with cut-off marks for grade 5 scholarship entrance exams consistently higher for prestigious girls’ schools compared to boys’ schools
+
+But the trend is reversed in the workplace where men earn on average more than women for every level of education in Sri Lanka in every occupational category; the disparity is a symptom of deeper structural issues
+
+Integrating work-related initiatives into the curriculum, such as vocational training, work placements or entrepreneurial opportunities that come with a stipend or other incentive, may be a way to show that learning is worthwhile
+
+...
+
+[Data](articles/a8752f19.json)
+
+---
+
+### The generation that can make peace with the land
+
+*2024-05-30 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/The-generation-that-can-make-peace-with-the-land/172-283637) · `en`
+
+During the past few weeks, most parts of Sri Lanka have been experiencing torrential rains and floods partly due to the South-West monsoon which was aggravated by climate change issues such as the cutting down of trees.
+
+On Tuesday (28), the UNP General Secretary Palitha Range Bandara caused a stir when he said there were plans to postpone both the Presidential and Parliamentary Elections. However, other sources denied any such move and said that President Ranil Wickremesinghe had assured that elections would be held. So, while President Wickremesinghe and the Sri Lanka Podujana Peramuna (SLPP) government are focused on elections, they should also dedicate time for issues such as climate change as it no doubt affects the entire country and its people.
+
+...
+
+[Data](articles/f503a300.json)
+
+---
 
 ### 2024-05-29 (Wednesday)
 
@@ -2195,91 +2271,5 @@ As many as three Australian first-XI players - Pat Cummins, Travis Head and Mitc
 [Data](articles/632b722c.json)
 
 [Extended Data](ext_articles/632b722c.ext.json)
-
----
-
-### Australia forced to field coach, selector in warm-up game vs Namibia
-
-*2024-05-29 14:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Australia-forced-to-field-coach-selector-in-warm-up-game-vs-Namibia/108-283610) · `en`
-
-(Hindustantimes) - Australia were forced to use four support staff members while fielding during their T20 World Cup warm-up match vs Namibia as only nine players were available.
-
-The after-effects of the IPL hit the Australian side before the T20 World Cup as they were forced to field their head coach, chief selector and two other support staff members as fielders during their warm-up match against Namibia on Tuesday. Australia only had nine players for the match as the other squad members, who were part of IPL 2024, will arrive late.
-
-As many as three Australian first-XI players - Pat Cummins, Travis Head and Mitchell Starc were part of the IPL 2024 final on May 26 (Sunday).
-
-...
-
-[Data](articles/e3594a8b.json)
-
-[Extended Data](ext_articles/e3594a8b.ext.json)
-
----
-
-### Ministry of Education is a special announcement on schools
-
-*2024-05-29 14:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197154) · `si`
-
-The Ministry of Education announced that schools will operate remotely on May 30 and 31 due to unforeseen circumstances.
-
-🟩
-
-The Ministry of Education has issued a statement that all schools on May 30 and 31, on May 30 and 31, will be held on the basis of tomorrow.
-
-◼️
-
-[Data](articles/322d93b1.json)
-
-[Extended Data](ext_articles/322d93b1.ext.json)
-
----
-
-### India-Pakistan R20 World Cup Competition: ISIS Support Group Threatening
-
-*2024-05-29 14:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/184778) · `ta`
-
-Fears of terrorist attacks during the upcoming T20 World Cup between India and Pakistan have escalated due to a poster released by an ISIS-supporting group. The poster features a map with a masked man holding a gun, threatening violence. Despite this, US officials haven't raised the security alert level. The International Cricket Council assures robust security measures are in place, collaborating with local authorities to ensure the safety of attendees.
-
-🟩
-
-There are fears that terrorist attacks will take place during the T20 World Cup, which will begin in a few days.
-
-There has been a fear of terrorist attacks following a poster release in New York.
-
-A map has been issued by a threatened group in favor of ISIS. It shows that a masked man is a gun on the shoulder.
-
-The map, which is referred to as 'you wait for the competition ...' continues in the red red, 'We are waiting for you ...'.
-
-On that day, cricket paramilitary viruses India and Pakistan will oppose one another in the R20 World Cup for the A group at the stadium.
-
-On the poster, the drones flying on the stadium, the clock that calculates the time with a dynamite stick.
-
-However, US officials have not increased the precautionary level over the threat of the attack.
-
-'It will be our head to prioritize each person's life safety and security during the competition. We have a very comprehensive and strong security program, ”a spokesman for the International Cricket Council said.
-
-...
-
-[Data](articles/9d540f59.json)
-
-[Extended Data](ext_articles/9d540f59.ext.json)
-
----
-
-### Special Notice on the opening of schools
-
-*2024-05-29 14:01:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாடசாலைகளை-திறப்பது-குறித்து-விசேட-அறிவிப்பு/175-338091) · `ta`
-
-Schools will operate normally on the 30th and 31st, as per the army's announcement.
-
-🟩
-
-According to the army, all schools will run as usual on the 30th and 31st.
-
-◼️
-
-[Data](articles/aed97001.json)
-
-[Extended Data](ext_articles/aed97001.ext.json)
 
 ---

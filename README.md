@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-30 00:18:42**
+As of **2024-05-30 00:33:57**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,351
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,168 (100.0%) of 27,172 articles have been extended.
+27,172 (100.0%) of 27,172 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,6 +50,8 @@ BRICS is an acronym representing a coalition of the world’s prominent Emerging
 
 [Data](articles/9f7a81f8.json)
 
+[Extended Data](ext_articles/9f7a81f8.ext.json)
+
 ---
 
 ### World No Tobacco Day Calls to strengthen measures to protect children from tobacco industry
@@ -69,6 +71,8 @@ Thus the World No Tobacco Day for 2024 will give a platform to young people acro
 ...
 
 [Data](articles/a27c556b.json)
+
+[Extended Data](ext_articles/a27c556b.ext.json)
 
 ---
 
@@ -90,6 +94,8 @@ Integrating work-related initiatives into the curriculum, such as vocational tra
 
 [Data](articles/a8752f19.json)
 
+[Extended Data](ext_articles/a8752f19.ext.json)
+
 ---
 
 ### The generation that can make peace with the land
@@ -103,6 +109,8 @@ On Tuesday (28), the UNP General Secretary Palitha Range Bandara caused a stir w
 ...
 
 [Data](articles/f503a300.json)
+
+[Extended Data](ext_articles/f503a300.ext.json)
 
 ---
 

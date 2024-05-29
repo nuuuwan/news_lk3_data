@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-30 04:34:16**
+As of **2024-05-30 04:52:47**
 
 ## Newspaper Stats
 
-*Scraped **27,186** Articles*
+*Scraped **27,187** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 270
 newsfirstlk | 363
 islandlk | 1,465
 economynextcom | 1,556
-dailyftlk | 1,596
+dailyftlk | 1,597
 adalk | 2,311
 adaderanalk | 3,095
 tamilmirrorlk | 3,189
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,351
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,181 (100.0%) of 27,186 articles have been extended.
+27,186 (100.0%) of 27,187 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ The company said that the Board has made arrangements with major shareholders of
 ...
 
 [Data](articles/fd4d23bc.json)
+
+[Extended Data](ext_articles/fd4d23bc.ext.json)
 
 ---
 
@@ -66,6 +68,28 @@ Under the theme “Hungary: Your Gateway to the European Union (EU),” one coul
 
 [Data](articles/a3e3f229.json)
 
+[Extended Data](ext_articles/a3e3f229.ext.json)
+
+---
+
+### Ranil says no Presidential candidate has announced plans to abolish executive powers
+
+*2024-05-30 04:20:20* · [`dailyftlk`](https://www.ft.lk/news/Ranil-says-no-Presidential-candidate-has-announced-plans-to-abolish-executive-powers/56-762341) · `en`
+
+Opines economy was developed and 30 year war brought to an end due to executive powers vested in the Presidency
+
+Stresses urgent need for legislation holding President answerable to Parliament
+
+President Ranil Wickremesinghe yesterday emphasised that none of the candidates aspiring to run in the presidential election have announced their intention to abolish the executive powers associated with the position.
+
+He highlighted the dual nature of the executive presidential system, noting its advantages and disadvantages. He emphasised that the executive power vested in the Presidency played a pivotal role in the economic development of Sri Lanka and the resolution of the 30-year war.
+
+The President made these remarks while participating in the “What’s New” dialogue on legal reforms with young legal professionals at a workshop held on Tuesday at the Presidential Secretariat.
+
+...
+
+[Data](articles/f025f3c7.json)
+
 ---
 
 ### JICA scandal: BASL members urge removal of potentially implicated office bearers
@@ -86,6 +110,8 @@ In a letter to the five-member Inquiry Committee investigating the JICA project 
 
 [Data](articles/643a8f50.json)
 
+[Extended Data](ext_articles/643a8f50.ext.json)
+
 ---
 
 ### KDU lecturer released on bail after arrest over false claim on ISIS suspects
@@ -103,6 +129,8 @@ He was detained for claiming that the four suspects arrested in India recently M
 ...
 
 [Data](articles/bad418b2.json)
+
+[Extended Data](ext_articles/bad418b2.ext.json)
 
 ---
 
@@ -125,6 +153,8 @@ Prime Minister Dinesh Gunawardena yesterday assured that the upcoming Presidenti
 ...
 
 [Data](articles/751bf54b.json)
+
+[Extended Data](ext_articles/751bf54b.ext.json)
 
 ---
 
@@ -2259,33 +2289,5 @@ The United Trade Union Alliance staged a peaceful protest today in front of the 
 [Data](articles/85d01f1a.json)
 
 [Extended Data](ext_articles/85d01f1a.ext.json)
-
----
-
-### President pays statement about presidential election
-
-*2024-05-29 15:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197156) · `si`
-
-President Ranil Wickremesinghe announced future presidential elections during a workshop with young law professionals, emphasizing the importance of the English parliamentary system over the American model due to Sri Lanka's non-federal structure. He highlighted various governmental systems, including the English method, the executive presidential system, and the French system, discussing their pros and cons. The President also touched upon the challenges faced, including the impact of war on the economy and the need for modernization in sectors like agriculture and education. He expressed support for the Animal Welfare Act, noting its current discussion in the Supervisory Committee and prioritization of other legal drafts.
-
-🟩
-
-President Ranil Wickremesinghe says that the Presidential Election will be held in the future.
-
-The President was speaking at a workshop with young law professionals with young law professionals.
-
-President Ranil Wickremesinghe has said that financial allocations have already been allocated.
-
-Once a law passed in the England parliament, no one can interrogate. That was the foundation of the supremacy of Parliament. The Parliament is the Parliament.
-
-American method is different. By the American methodology, when they drafted some law, they gave the executive powers to the executive powers and the Congress Congress and the Court of Justice.
-
-We maintain the English method because our country does not follow a federal way.. But we are not a federal country. Parliament is the final powers of the country's legislation.
-
-...
-
-[Data](articles/e0e11acb.json)
-
-[Extended Data](ext_articles/e0e11acb.ext.json)
 
 ---

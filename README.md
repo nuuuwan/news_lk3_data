@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-29 18:35:18**
+As of **2024-05-29 18:52:55**
 
 ## Newspaper Stats
 
-*Scraped **27,130** Articles*
+*Scraped **27,136** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 1,465
 economynextcom | 1,554
 dailyftlk | 1,591
 adalk | 2,305
-adaderanalk | 3,091
+adaderanalk | 3,092
 tamilmirrorlk | 3,185
-virakesarilk | 4,168
+virakesarilk | 4,173
 dailymirrorlk | 4,286
 adaderanasinhalalk | 4,347
 
@@ -26,11 +26,33 @@ adaderanasinhalalk | 4,347
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,129 (100.0%) of 27,130 articles have been extended.
+27,130 (100.0%) of 27,136 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-29 (Wednesday)
+
+### Four dead after consuming illicit liquor in Dambulla
+
+*2024-05-29 18:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/99518/four-dead-after-consuming-illicit-liquor-in-dambulla) · `en`
+
+Police have launched an investigation following the death of four individuals after allegedly consuming illicit liquor in Dambulla.
+
+The incident in question has been reported in Vihara Junction, Dambulla.
+
+According to the villagers, two individuals had previously died after consuming illicit liquor two day ago while two more persons have reportedly died today after consuming the same illicit alcohol.
+
+Incidentally, it is reported that the suspects involved in selling illicit liquor in the area have previously been arrested by the police on several occasions over the same charges and had been sentenced after being produced at court.
+
+It is also reported that the residents of the area are facing various issues due to this illicit liquor racket which has been operating in the area for a long period of time.
+
+Police said in addition to the post-mortem examination, forensic reports would also be called to find out the exact cause of deaths of the four individuals.
+
+...
+
+[Data](articles/7fbf84ef.json)
+
+---
 
 ### SJB ready for debate even with government leaders
 
@@ -49,6 +71,8 @@ MP Harsha De Silva who referred to the proposed debate with the NPP said his par
 ◼️
 
 [Data](articles/9deb9820.json)
+
+[Extended Data](ext_articles/9deb9820.ext.json)
 
 ---
 
@@ -89,6 +113,24 @@ The exit offer price is 240 rupees per share, the company said in a stock exchan
 [Data](articles/be276192.json)
 
 [Extended Data](ext_articles/be276192.ext.json)
+
+---
+
+### கொழும்பு விளையாட்டுப் போட்டியில் வெற்றி பெற்ற வீரர்களுக்கு சுப்பர் ஸ்டார் ரஜினிகாந்த் வாழ்த்து
+
+*2024-05-29 17:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/184811) · `ta`
+
+கொழும்புவில் இம்மாதம் 25 மற்றும் 26 ஆம் திகதிகளில் நடைபெற்ற 'பத்தாவது மாஸ்டர் அத்லெட்டிக் சாம்பியன்ஷிப் - ஸ்ரீலங்கா 2024' எனும் போட்டியில் இந்தியா சார்பில் பங்குபற்றி வெற்றி பெற்ற வீரர் மற்றும் வீராங்கனைகளுக்கு சுப்பர் ஸ்டார் ரஜினிகாந்த் வாழ்த்து தெரிவித்துள்ளார்.
+
+2024 ஆம் ஆண்டிற்கான பத்தாவது மாஸ்டர் அத்லெட்டிக் சாம்பியன்ஷிப் போட்டி இலங்கை தலைநகர் கொழும்புவில் மே மாதம் 25 மற்றும் 26 ஆகிய இரண்டு திகதியில் நடைபெற்றது.  இதன் போது இந்தியாவிலிருந்து பங்கு பற்றிய வீரர் எம். செண்பகமூர்த்தி மற்றும் சுரேஷ் காசிநாதன், வீராங்கனைகள் ஜேசு எஸ்தர் ராணி மற்றும் ஆர். பிரமிளா ஆகியோர் பல்வேறு தடகள போட்டிகளில் வெற்றி பெற்றனர்.
+
+இதில் எம். செண்பக மூர்த்தி 100 மீ  ஓட்டப்பந்தயத்தில் இரண்டாமிடத்தையும், 200 மீ ஓட்டப்பந்தயத்தில் மூன்றாமிடத்தையும், கலப்பு தொடர் ஓட்ட போட்டியில் முதலிடத்தையும் பெற்றார்.
+
+மற்றொரு வீரரான சுரேஷ் காசிநாதன் 100 மீ ஓட்டப்பந்தயத்தில் மூன்றாமிடத்தையும், 200 மீ ஓட்டப்பந்தயத்தில் மூன்றாமிடத்தையும், கலப்பு தொடர் ஓட்ட போட்டியில் முதலிடத்தையும் பிடித்தார்.
+
+...
+
+[Data](articles/eed7ffd1.json)
 
 ---
 
@@ -139,6 +181,46 @@ A bond maturing on 01.10.2032 closed down at 11.80/95 percent from 11.85/12.00 p
 [Data](articles/beb0ac95.json)
 
 [Extended Data](ext_articles/beb0ac95.ext.json)
+
+---
+
+### மிர்ச்சி சிவா நடிக்கும் 'சூது கவ்வும் 2' படத்தின் புதிய பாடல் வெளியீடு
+
+*2024-05-29 17:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/184810) · `ta`
+
+நடிகர் மிர்ச்சி சிவா கதையின் நாயகனாக முதன்மையான கதாபாத்திரத்தில் நடித்திருக்கும் 'சூது கவ்வும் 2 ' எனும் திரைப்படத்தில் இடம் பெற்ற 'பேட் பாய்ஸ் மிஷன்' எனும் பாடலும், பாடலுக்கான லிரிக்கல் வீடியோவும் வெளியிடப்பட்டிருக்கிறது.
+
+இயக்குநர் எஸ்.ஜே. அர்ஜுன் இயக்கத்தில் உருவாகி இருக்கும் 'சூது கவ்வும் 2' எனும் திரைப்படத்தில் மிர்ச்சி சிவா, ஹரிஷா,  ராதாரவி, கருணாகரன், எம். எஸ். பாஸ்கர், கராத்தே கார்த்தி, ரகு, அருள் தாஸ், கல்கி உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். கார்த்திக் கே. தில்லை ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு எட்வின் லூயிஸ் விஸ்வநாத் இசையமைத்திருக்கிறார்.  இந்தத் திரைப்படத்தை திருக்குமரன் என்டர்டெய்ன்மென்ட் மற்றும் தங்கம் சினிமாஸ் ஆகிய பட நிறுவனங்கள் சார்பில் தயாரிப்பாளர்கள் சி. வி. குமார் மற்றும் தங்கராஜ் ஆகியோர் இணைந்து தயாரித்திருக்கிறார்கள்.
+
+...
+
+[Data](articles/90832580.json)
+
+---
+
+### உலக நாயகன்' கமல்ஹாசன் நடிக்கும் 'இந்தியன் 2' படத்தில் இடம்பெற்ற இரண்டாவது பாடல் வெளியீடு
+
+*2024-05-29 17:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/184809) · `ta`
+
+'உலகநாயகன்' கமல்ஹாசன் நடிப்பில் தயாராகி இருக்கும் 'இந்தியன் 2' எனும் திரைப்படத்தில் இடம் பெற்ற இரண்டாவது பாடலும், பாடலுக்கான லிரிக்கல் வீடியோவும் வெளியிடப்பட்டிருக்கிறது. இந்தத் திரைப்படம் எதிர்வரும் ஜூலை மாதம் 12 ஆம் திகதியன்று உலகம் முழுவதும் பட மாளிகையில் வெளியாகிறது.
+
+இயக்குநர் ஷங்கர் இயக்கத்தில் உருவாகி இருக்கும் 'இந்தியன் 2' எனும் திரைப்படத்தில் 'உலகநாயகன்' கமல்ஹாசன், சித்தார்த், காஜல் அகர்வால், ரகுல் ப்ரீத் சிங், எஸ். ஜே. சூர்யா, பொபி சிம்ஹா, பிரியா பவானி சங்கர், பிரம்மானந்தம், சமுத்திரக்கனி, காளிதாஸ் ஜெயராம் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். ரவிவர்மன் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு அனிருத் இசையமைத்திருக்கிறார். எக்சன் என்டர்டெய்னராக தயாராகி இருக்கும் இந்த திரைப்படத்தை லைக்கா புரொடக்ஷன்ஸ் பட நிறுவனம் சார்பில் தயாரிப்பாளர் சுபாஸ்கரன் தயாரித்திருக்கிறார்.‌ இதனை ரெட் ஜெயன்ட் மூவிஸ் நிறுவனம் வழங்குகிறது.
+
+...
+
+[Data](articles/edf3c645.json)
+
+---
+
+### புரட்சித் தமிழன்' சத்யராஜ் நடித்திருக்கும் 'வெப்பன்' திரைப்படத்தின் புதிய வெளியீட்டுத் திகதி அறிவிப்பு
+
+*2024-05-29 17:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/184808) · `ta`
+
+தமிழ் திரையுலகில் நடிகராக அறிமுகமாகி, நாற்பத்தைந்து ஆண்டுகளை நிறைவு செய்திருக்கும் சத்யராஜ்.. இன்றும் பரபரப்பான நடிகராகவே செயல்பட்டு வருகிறார். தற்போது கூட சுப்பர் ஸ்டார் ரஜினிகாந்த் நடிப்பில் லோகேஷ் கனகராஜ் இயக்கத்தில் உருவாகும் 'கூலி' எனும் திரைப்படத்தில் நடிக்க ஒப்பந்தமாகி இருக்கிறார்.‌ இந்தத் தருணத்தில் அவர் அழுத்தமான வேடத்தில் நடித்திருக்கும் 'வெப்பன்' எனும் திரைப்படம் ஜூன் மாதம் ஏழாம் திகதியன்று உலகம் முழுவதும் திரையரங்குகளில் வெளியாகும் என பிரத்யேக புகைப்படத்தை வெளியிட்டு படக் குழுவினர் உற்சாகமாக அறிவித்திருக்கிறார்கள்.
+
+...
+
+[Data](articles/4367ec33.json)
 
 ---
 
@@ -255,6 +337,30 @@ Dambulla Police say that in addition to the post mortem examination of the dead,
 [Data](articles/a725327a.json)
 
 [Extended Data](ext_articles/a725327a.ext.json)
+
+---
+
+### A mother arrested for tied up by a 7 -year -old boy
+
+*2024-05-29 17:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/184798) · `ta`
+
+A mother was arrested after a video surfaced showing her tying up her 7-year-old son. The incident occurred in the village of Chadd under the Eravur police division of Batticaloa. The woman, who remarried and moved to Puttalam, allegedly assaulted her stepson, leading to her arrest. Her actions were reported by neighbors, and her second husband discovered the abuse through her mobile phone. He alerted the Eravur police, who arrested her based on the evidence presented.
+
+🟩
+
+The Eravur police said that the woman's husband had lodged a complaint with the woman's husband, who had tied her son upside down in the village of Chadd, which belongs to the Eravur police division of Batticaloa.
+
+The woman has left the woman who has married another husband in the Puttalam area and has a second husband and a child.. In this case, the person has been informed by the neighbors that the child of the second husband is being attacked by the woman.
+
+Following this, the second husband of Eravur, the woman's hometown, was involved in a dispute with the woman to send her child with her.. Later, when she took the woman's mobile phone, she observed that the woman was attacked by her child.
+
+He immediately rushed to the Eravur police station and showed the video to the police.Eravur police said that the woman was arrested yesterday for the video.
+
+◼️
+
+[Data](articles/11d80311.json)
+
+[Extended Data](ext_articles/11d80311.ext.json)
 
 ---
 
@@ -534,6 +640,20 @@ With the Sports Minister deciding to put off the NFSL elections, the regime of L
 
 ---
 
+### மாலபே, பொரலஸ்கமுவ, மாகும்புர ஆகிய நடுத்தர வர்க்க வீட்டுத் திட்டங்களை மீண்டும் ஆரம்பிக்க நடவடிக்கை - பிரசன்ன ரணதுங்க
+
+*2024-05-29 16:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/184775) · `ta`
+
+கோவிட் மற்றும் பொருளாதார நெருக்கடி காரணமாக பாதியில் நிறுத்தப்பட்ட மாலப்பே, பொரலஸ்கமுவ மற்றும் மாகும்புர ஆகிய மத்தியதர வர்க்க வீட்டுத் திட்டங்களை மீள ஆரம்பிப்பதற்கான விசேட அமைச்சரவைப் பத்திரம் அமைச்சரவையில் சமர்ப்பிக்கப்பட்டுள்ளது. நகர அபிவிருத்தி மற்றும் வீடமைப்பு அமைச்சர் பிரசன்ன ரணதுங்க இதனை அமைச்சரவையில் முன்வைத்துள்ளார்.
+
+இந்த மூன்று வீட்டுத் திட்டங்களும் 2021 பெப்ரவரியில் நகர அபிவிருத்தி அதிகாரசபையால் ஆரம்பிக்கப்பட்டது. மாலப்பே வீட்டுத்திட்டத்திற்காக ரூ. மில். 3148.80 ஒதுக்கப்பட்டது. இதில் 256 வீடுகள் நிர்மாணிக்கப்படவுள்ளது. பொரலஸ்கமுவ வீடமைப்பு திட்டத்திற்கு 120 வீடுகளை நிர்மாணிப்பதற்காக ஒதுக்கப்பட்ட தொகை ரூ. மில். 1476 ஆகும் மாகும்புர வீடமைப்புத் திட்டத்திற்கான மதிப்பிடப்பட்ட தொகை ரூ. மில். 3859 மற்றும் அங்கு நிர்மாணிக்கப்படும் வீடுகளின் எண்ணிக்கை 314 ஆகும்.
+
+...
+
+[Data](articles/75ce7403.json)
+
+---
+
 ### Prime Minister issues clarification on Presidential Election
 
 *2024-05-29 16:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/99514/prime-minister-issues-clarification-on-presidential-election) · `en`
@@ -581,30 +701,6 @@ Kattankudy Police Station Superintendent G. Gajanayake said that the Kattankudy 
 [Data](articles/a29166e0.json)
 
 [Extended Data](ext_articles/a29166e0.ext.json)
-
----
-
-### A mother arrested for tied up by a 7 -year -old boy
-
-*2024-05-29 16:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/184798) · `ta`
-
-A mother was arrested after a video surfaced showing her tying up her 7-year-old son. The incident occurred in the village of Chadd under the Eravur police division of Batticaloa. The woman, who remarried and moved to Puttalam, allegedly assaulted her stepson, leading to her arrest. Her actions were reported by neighbors, and her second husband discovered the abuse through her mobile phone. He alerted the Eravur police, who arrested her based on the evidence presented.
-
-🟩
-
-The Eravur police said that the woman's husband had lodged a complaint with the woman's husband, who had tied her son upside down in the village of Chadd, which belongs to the Eravur police division of Batticaloa.
-
-The woman has left the woman who has married another husband in the Puttalam area and has a second husband and a child.. In this case, the person has been informed by the neighbors that the child of the second husband is being attacked by the woman.
-
-Following this, the second husband of Eravur, the woman's hometown, was involved in a dispute with the woman to send her child with her.. Later, when she took the woman's mobile phone, she observed that the woman was attacked by her child.
-
-He immediately rushed to the Eravur police station and showed the video to the police.Eravur police said that the woman was arrested yesterday for the video.
-
-◼️
-
-[Data](articles/11d80311.json)
-
-[Extended Data](ext_articles/11d80311.ext.json)
 
 ---
 
@@ -2127,149 +2223,5 @@ The camp, known as the Kuwait Refugee Camp 1, has said that the camp has been in
 [Data](articles/4bff3f0f.json)
 
 [Extended Data](ext_articles/4bff3f0f.ext.json)
-
----
-
-### A / L results before Monday
-
-*2024-05-29 11:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197149) · `si`
-
-Susil Premajayantha, Minister of Education, announced that the GCE Advanced Level Examination results will be available before the upcoming Monday. The exams were conducted from January 4th to 31st, with 281,445 candidates participating.
-
-🟩
-
-Minister of Education Susil Premajayantha says that the results of the GCE Advanced Level Examination will be released before the next Monday.
-
-The GCE Advanced Level Examination held from January 4 to 31 to 31st.
-
-Accordingly, "Ada Derana" inquiry, the Ministry of Education stated that the activities of the Examinations are currently being carried out by the Examination Department.
-
-The Department of Examinations said 281,445 of the candidates have sat the 281,445 school candidates.
-
-◼️
-
-[Data](articles/97ec970d.json)
-
-[Extended Data](ext_articles/97ec970d.ext.json)
-
----
-
-### Government focuses on addressing issues faced by Grama Niladhari Officers
-
-*2024-05-29 11:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/99507/government-focuses-on-addressing-issues-faced-by-grama-niladhari-officers) · `en`
-
-President’s Senior Advisor on National Security and Chief of Presidential Staff Sagala Ratnayaka, has advised relevant officials to find possible solutions to the problems in the Grama Niladhari Service, while ensuring that no conflict arises with other public services.
-
-He emphasized the importance of discussing existing issues thoroughly and reaching a common agreement. This directive was given during a meeting held at the Presidential Secretariat on Tuesday (28), involving officials of the Grama Niladhari Trade Unions and related line institutions, the PMD reported.
-
-There was an extensive discussion regarding the issues related to the Grama Niladhari Service Constitution and the problems that have arisen concerning the salary scale, the statement said.
-
-The Grama Niladhari Trade Unions highlighted that numerous issues have arisen concerning the promotions of Grama Niladhari officers and emphasized the need for a revised service constitution to address these problems.
-
-...
-
-[Data](articles/a44ee9e3.json)
-
-[Extended Data](ext_articles/a44ee9e3.ext.json)
-
----
-
-### US Ambassador discusses upcoming elections with EC officials
-
-*2024-05-29 11:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/US-Ambassador-discusses-upcoming-elections-with-EC-officials/108-283603) · `en`
-
-Colombo, May 29 - US Ambassador to Sri Lanka, Julie Chung, held a meeting with R.M.A.L. Rathnayake, Chairman of the Election Commission to discuss the forthcoming elections in Sri Lanka.
-
-During the meeting, Ambassador Chung raised concerns regarding the conduct of the elections and sought clarity on several issues.
-
-Following the discussion, Ambassador Chung shared on X (formerly Twitter) that the dialogue focused on the significance of free and fair elections as a cornerstone of democratic governance. She emphasized the shared commitment to upholding the integrity of the electoral process.
-
-Chairman Rathnayake assured Ambassador Chung that the elections will be conducted in accordance with the constitutional powers vested in the Election Commission. He reiterated the Commission's dedication to ensuring a transparent and impartial election process.
-
-◼️
-
-[Data](articles/8b99d137.json)
-
-[Extended Data](ext_articles/8b99d137.ext.json)
-
----
-
-### 7 injured, 2 missing after explosion rocks downtown Youngstown, Ohio
-
-*2024-05-29 11:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/99506/7-injured-2-missing-after-explosion-rocks-downtown-youngstown-ohio) · `en`
-
-Seven people were injured, including one critically, and two people remain missing after an explosion rocked downtown Youngstown, Ohio, Tuesday, officials said.
-
-The explosion occurred near Central Square Tuesday afternoon, police said, urging people to avoid the area.
-
-It is unclear what caused the explosion, which impacted a building that contains a Chase bank and apartments, authorities said.
-
-Youngstown Fire Chief Barry Finley had initially characterized the incident as a natural gas explosion, but later said crews were working to determine if there was a gas leak.
-
-“All I know for sure is that there was an explosion,” Finley told reporters during a press briefing Tuesday evening.
-
-Mercy Health said Tuesday evening it is treating seven people who were injured in the incident, including one person in critical condition.
-
-Following a search of the building, a man and woman remain unaccounted for, Finley said. The man is an employee of the bank, the fire chief said.
-
-...
-
-[Data](articles/5f8b3bf9.json)
-
-[Extended Data](ext_articles/5f8b3bf9.ext.json)
-
----
-
-### “Wait for you for competition”: “We're waiting for you”: ISIS Warning
-
-*2024-05-29 11:27:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/நீங்கள்-போட்டிக்காக-காத்திருங்கள்-நாங்கள்-உங்களுக்காக-காத்திருக்கிறோம்-ISIS-எச்சரிக்கை/44-338079) · `ta`
-
-ISIS threatens terror attacks during ICC and T20 World Cup in the U.S., targeting cricket matches including India vs. Pakistan on June 9 at NASA Stadium. The threat includes a masked figure holding a gun near a New York Cricket Ground with a clock and dynamite. The International Cricket Council assures strong security measures for everyone's safety.
-
-🟩
-
-ISIS has been threatened with terrorist attacks for the ICC and T20 World Cup in the United States.
-
-The film is depicted as a masked man, carrying a gun on the back of the gun, is looking at the New York Cricket Ground.
-
-Writing, "Wait for the competition," is written on the person in the film, "We are waiting for you."
-
-Also, a clock with a dynamite stick is displayed at the end of the verse.
-
-The match between India and Pakistan will be held on June 9 at NASA Stadium.
-
-The media spokesman of the International Cricket Council has commented on this.
-
-"The safety of all who come to the competition is our first priority, and we have a comprehensive and strong security plan."He has said.
-
-The ICC T20 World Cup will be held from June 1st to June 29, focusing on the US and West Indies.
-
-◼️
-
-[Data](articles/b112f4e5.json)
-
-[Extended Data](ext_articles/b112f4e5.ext.json)
-
----
-
-### 65-year-old woman dies in stabbing at Padukka
-
-*2024-05-29 11:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/99505/65-year-old-woman-dies-in-stabbing-at-padukka) · `en`
-
-A woman has been stabbed to death with a sharp weapon inside her house in the Wataraka area of Padukka.
-
-The woman had been stabbed by an unidentified individual this morning (29) after she had reportedly entered the front room of the house for some reason. The attacker had later fled the scene.
-
-The woman, who was critically injured in the attack, had been rushed to the Padukka Divisional Hospital, and was later transferred to Homagama Base Hospital for further treatment where she had succumbed to injuries.
-
-The deceased is a 65-year-old mother of one who was a resident of the Wataraka area of Padukka.
-
-The suspect involved in the murder has not been arrested so far and Meegoda Police is conducting further investigations regarding the incident.
-
-◼️
-
-[Data](articles/636f16c1.json)
-
-[Extended Data](ext_articles/636f16c1.ext.json)
 
 ---

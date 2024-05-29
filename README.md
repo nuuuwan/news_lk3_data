@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-29 21:34:14**
+As of **2024-05-29 21:53:25**
 
 ## Newspaper Stats
 
-*Scraped **27,148** Articles*
+*Scraped **27,149** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,13 +20,13 @@ adaderanalk | 3,093
 tamilmirrorlk | 3,187
 virakesarilk | 4,173
 dailymirrorlk | 4,289
-adaderanasinhalalk | 4,349
+adaderanasinhalalk | 4,350
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,146 (100.0%) of 27,148 articles have been extended.
+27,148 (100.0%) of 27,149 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,6 +48,30 @@ President Wickremesinghe emphasized the importance of enacting laws that render 
 
 [Data](articles/b7052175.json)
 
+[Extended Data](ext_articles/b7052175.ext.json)
+
+---
+
+### ශ්‍රී ලංකාවේ පුරවැසිභාවය ගන්න අලුත් ගැසට් පත්‍රයක්
+
+*2024-05-29 21:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197165) · `si`
+
+මෙරට පුරවැසිභාවය අත්හැර දැමූ අය ඇතුළු ශ්‍රි ලාංකික සම්භවයක් සහිත පුද්ගලයින්ට සහ විදේශීය කාලත්‍රයන්ට ස්ථිර පදිංචිය ලබාගත හැකිවන පරිදි නව රෙගුලාසි ගැසට් පත්‍රයක් මගින් ඉදිරිපත් කර තිබේ.
+
+මහජන ආරක්ෂක අමාත්‍යාංශය විසින් අදාළ රෙගුලාසි ගැසට් පත්‍රයක් මගින් ප්‍රකාශයට පත්කර ඇති අතර මෙම නියෝග 2024 ස්ථීර වාස වීසා පත්‍ර නියෝග ලෙස හදුන්වා ඇති බව සඳහන් වෙයි.
+
+ඒ අනුව ශ්‍රි ලාංකික සම්භවයක් සහිත පුද්ගලයෙකු හෝ පුරවැසි පනතේ 19, 20 හෝ 21 වගන්ති යටතේ මෙරට පුරවැසිභාවය නතර වී ඇති මෙන්ම විදේශීය කාලත්‍රයෙකුට නව රෙගුලාසි යටතේ විවාහ වී මාස 6කට පසු අයදුම් කිරිමට අවස්ථාව හිමිවෙයි.
+
+විවාහය වසර 5කට පෙර අහෝසි වුවහොත් ස්ථීර පදිංචි තත්ත්වය ස්වයංක්‍රීයව අහෝසි වන බව අදාළ ගැසට් නිවේදනයේ දැක්වෙයි.
+
+තම මව්පියන්, මුත්තණුවන් දිවයිනේ උපත ලද හෝ තවමත් පුරවැසියන් වන පුද්ගලයෙකු ශ්‍රි ලංකා සම්භවයක් සහිත අයෙකු ලෙස හදුන්වනු ලබයි.
+
+මේ යටතේ අයදුම්පත්‍රයක් ඉදිරිපත් කරන ප්‍රාථමික අයදුම්කරුවෙකු සදහා ඩොලර් 1,000ක ගාස්තුවක් අයකරන අතර ශ්‍රි ලාංකික නොවන කාලත්‍රයෙකු සඳහා මෙන්ම ළමුන් සදහා ද ඩොලර් 400ක ගාස්තුවක් අය කෙරෙනු ඇත.
+
+...
+
+[Data](articles/3aab11cc.json)
+
 ---
 
 ### Ninety lawyers maintain those responsible for misconduct involving JICA should step down
@@ -61,6 +85,8 @@ The letter states that this action should be taken pending the conduct of the in
 ...
 
 [Data](articles/12ef508c.json)
+
+[Extended Data](ext_articles/12ef508c.ext.json)
 
 ---
 
@@ -2217,25 +2243,5 @@ The event, held in collaboration with the World Bank, the Ministry of Power and 
 [Data](articles/d7ceae76.json)
 
 [Extended Data](ext_articles/d7ceae76.ext.json)
-
----
-
-### Removal of rock debris begins at Pahala Kadugannawa
-
-*2024-05-29 12:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Removal-of-rock-debris-begins-at-Pahala-Kadugannawa/108-283605) · `en`
-
-Colombo, May 29 (Daily Mirror) - Removing the rock debris that was claimed to be a high-risk at Pahala Kadugannawa is currently underway, Disaster Management Center (DMC) director Pradeep Kodippili said today.
-
-According to the Keagalle district DMC, the Pahala Kadugannawa road will not be closed completely.
-
-They said the rocks will be removed using nets without harming the vehicle movements on the road.
-
-However, Kodippili said that if it becomes essential to close the road the DMC will announce it to the public.
-
-◼️
-
-[Data](articles/b7ee1d84.json)
-
-[Extended Data](ext_articles/b7ee1d84.ext.json)
 
 ---

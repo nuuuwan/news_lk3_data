@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-29 07:23:48**
+As of **2024-05-29 07:46:19**
 
 ## Newspaper Stats
 
-*Scraped **26,962** Articles*
+*Scraped **26,964** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 238
 dbsjeyarajcom | 265
 bbccomsinhala | 268
 newsfirstlk | 363
-islandlk | 1,461
+islandlk | 1,463
 economynextcom | 1,540
 dailyftlk | 1,590
 adalk | 2,294
@@ -26,29 +26,35 @@ adaderanasinhalalk | 4,320
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,960 (100.0%) of 26,962 articles have been extended.
+26,962 (100.0%) of 26,964 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-29 (Wednesday)
 
-### බස්නාහිර සහ සබරගමුව ඇතුළු ප්‍රදේශ කිහිපයකට මි.මී 100 ඉක්මවූ වැසි
+### Showers over 100 mm, including Western and Sabaragamuwa
 
 *2024-05-29 06:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197135) · `si`
 
-සක්‍රීය නිරිත දිග මෝසම් තත්ත්වය හේතුවෙන් දිවයිනේ දැනට පවතින වැසි සහ සුළං තත්ත්වය තවදුරටත් බලාපොරොත්තු වේ.
+Heavy rainfall exceeding 100mm is expected in Western and Sabaragamuwa provinces, with potential for strong winds in various regions across the country due to the active southwest monsoon.
 
-කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කළේ, බස්නාහිර, සබරගමුව, මධ්‍යම, වයඹ සහ දකුණු පළාත්වල විටින් විට වැසි ඇති විය හැකි බවය.
+🟩
 
-බස්නාහිර සහ සබරගමුව පළාත්වලත්, නුවරඑළිය දිස්ත්‍රික්කයේත් ඇතැම් ස්ථානවල මි.මී. 100ට වැඩි තද වැසි ඇතිවිය හැකිය.
+The active rain and wind condition of the country is further expected due to active southwest monsoon.
 
-ඌව පළාතේත් අම්පාර සහ මඩකලපුව දිස්ත්‍රික්කවලත් සවස් කාලයේ හෝ රාත්‍රී කාලයේ ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වේ.
+The Department of Meteorological Department announced that showers may experience showers in the Western, Sabaragamuwa, Central, North Western and Southern provinces.
 
-මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවලත් උතුරු, උතුරු මැද, බස්නාහිර, දකුණු සහ වයඹ පළාත්වලත් ත්‍රීකුණාමලය සහ මොනරාගල දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. 50-60ක පමණ තද සුළං ඇතිවිය හැකිය.
+In some places in the Western and Sabaragamuwa Province, MM. Heavy rains may occur at more than 100.
+
+Showers or thundershowers will occur at several places in the Uva Province and in the Ampara and Batticaloa districts.
+
+At times, in the West in the central hills, the North, North Central, Western, Southern and North Western Provinces and in Trincomalee and Moneragala Districts.. Strong winds can occur 50-60.
 
 ◼️
 
 [Data](articles/92a0a17c.json)
+
+[Extended Data](ext_articles/92a0a17c.ext.json)
 
 ---
 
@@ -384,21 +390,27 @@ Recognising the importance of maintaining transparency and increasing public con
 
 ---
 
-### கிராம சேவகர்கள் பிரச்சினை தொடர்பில் அவதானம்
+### Grama Niladhari issue regarding the issue
 
 *2024-05-29 01:54:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிராம-சேவகர்கள்-பிரச்சினை-தொடர்பில்-அவதானம்/175-338061) · `ta`
 
-அரச சேவையின் ஏனைய சேவைகளுடன் முரண்படாத வகையில் கிராம சேவகர் சேவையில் உள்ள பிரச்சினைகளுக்கு சாத்தியமான தீர்வுகளை முன்வைக்குமாறு தேசிய பாதுகாப்பு தொடர்பான ஜனாதிபதியின் சிரேஷ்ட ஜனாதிபதி பணிக்குழாம் பிரதானி சாகல ரத்நாயக்க சம்பந்தப்பட்ட அதிகாரிகளுக்கு அறிவுறுத்தியுள்ளார்.
+The President's commission has directed officials to find solutions for Grama Niladhari Service issues without conflicting with other public services. Sagala Ratnayake led discussions with union reps to resolve salary and operational problems within the service.
 
-மேலும், தற்போதுள்ள பிரச்சினைகளை பேசித் தீர்த்து பொதுவான உடன்பாட்டை எட்டுமாறும் அதிகாரிகளிடம் வலியுறுத்தினார்.
+🟩
 
-கிராம சேவகர் சேவையில் ஏற்பட்டுள்ள பிரச்சினைகள் தொடர்பில் கிராம சேவகர்களின் தொழிற்சங்க சம்மேளன பிரதிநிதிகள் மற்றும் அதனுடன் தொடர்புடைய நிறுவனங்களுடன் ஜனாதிபதி அலுவலகத்தில் நேற்று இடம்பெற்ற கலந்துரையாடலில் சாகல ரத்நாயக்க இந்த அறிவுறுத்தல்களை வழங்கினார்.
+The President's Senior Presidential Commission on National Security has instructed the relevant authorities to come up with potential solutions to the problems in the Grama Niladhari Service, which is not contradicted with other services of the public service.
 
-இதன்போது கிராம சேவகர் சேவை யாப்பு தொடர்பான பிரச்சினைகள் மற்றும் சம்பள பிரச்சினைகள் தொடர்பில் ஆராயப்பட்டதாக ஜனாதிபதி ஊடகப் பிரிவு தெரிவித்துள்ளது. (a)
+He also urged the authorities to address the existing issues and reach a common agreement.
+
+Sagala Ratnayake presented these instructions at a discussion held at the Presidential Office yesterday with representatives of the Grama Niladhari Trade Union Federation and its associated institutions on the issues of the Grama Niladhari Service.
+
+The Presidential Media Unit said that the Grama Niladhari Service issued issues and salary issues were investigated.. (A)
 
 ◼️
 
 [Data](articles/abadf558.json)
+
+[Extended Data](ext_articles/abadf558.ext.json)
 
 ---
 
@@ -1052,6 +1064,24 @@ Such a failure was a severe defeat of Sri Lanka Kabaddi team in the first two pa
 
 ---
 
+### Prime Group’s ‘88 Residence Kahathuduwa’ Open Day unlocks dream homes offering the finest living experience
+
+*2024-05-28 22:04:00* · [`islandlk`](http://island.lk/prime-groups-88-residence-kahathuduwa-open-day-unlocks-dream-homes-offering-the-finest-living-experience/) · `en`
+
+With a steadfast dedication to making ownership of dream homes a reality for everyone, Prime Group, the local real estate giant, held a much-awaited Open Day at 88 Residence, a luxurious residential development in the heart of Kahathuduwa.
+
+During the Open Day conducted from 17th to 19th May 2024, prospective homebuyers were able to explore the exquisite model house, witnessing first-hand the superior craftsmanship and attention to detail that go into every Prime Group creation.
+
+Under the agreement, aspiring homeowners can secure a home at 88 Residence by paying 25% of the value, approximately Rs.8 million only. Customers are presented with the amazing opportunity to occupy the house immediately with all legal documents prepared and deeds ready for transfer.
+
+Subsequently, Prime Group will bear the interest costs for the first year, ensuring a seamless transition. Representatives from HNB were present at the site during the Open Day to discuss the unprecedented payment plan.
+
+...
+
+[Data](articles/4e44a12d.json)
+
+---
+
 ### Driving growth through listings and diversifying revenue streams at the Colombo Stock Exchange
 
 *2024-05-28 22:01:00* · [`islandlk`](http://island.lk/driving-growth-through-listings-and-diversifying-revenue-streams-at-the-colombo-stock-exchange/) · `en`
@@ -1067,6 +1097,32 @@ The establishment of a dedicated Commercial Division within the CSE underscores 
 [Data](articles/79067067.json)
 
 [Extended Data](ext_articles/79067067.ext.json)
+
+---
+
+### IBSL and Pan Asia Bank unite to elevate practical training in banking education
+
+*2024-05-28 21:58:00* · [`islandlk`](http://island.lk/ibsl-and-pan-asia-bank-unite-to-elevate-practical-training-in-banking-education/) · `en`
+
+The Pan Asia Bank is pleased to announce the partnership with the Institute of Bankers of Sri Lanka (IBSL), the institute, which provides practical training for the students who are studying banking and finance to build their professional careers.
+
+This partnership reaffirms Pan Asia Bank’s dedication to developing talent and at the same time offering practical learning to the future banking professionals.
+
+Related Topics:IBSLIBSL and Pan Asia Bank unite to elevate practical training in banking educationPan Asia Bank
+
+Dialog launches country’s first smartphone plan available to all Sri Lankans
+
+Pan Asia Bank and Wogi to introduce Global Customer Reward platform to revolutionize customer experience
+
+Pan Asia Bank and Janashakthi Life partner, forging an era of financial empowerment
+
+Pan Asia Bank managers honored with Great Manager Awards 2023
+
+Pan Asia Bank posts steady performance in 1Q 2024 – Profit before Tax increases by 47% reflecting improved conditions
+
+...
+
+[Data](articles/b40132c0.json)
 
 ---
 
@@ -2195,43 +2251,5 @@ Accordingly, the session and ministerial meeting will be held in Colombo in Nove
 [Data](articles/6c71d595.json)
 
 [Extended Data](ext_articles/6c71d595.ext.json)
-
----
-
-### SLGGA differently abled branch turns 100
-
-*2024-05-28 17:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/SLGGA-differently-abled-branch-turns-100/110-283528) · `en`
-
-The Differently Abled Branch of the Sri Lanka Girl Guides Association (SLGGA) will celebrate its centenary on June 8, 2024. A media conference to highlight future activities was held on May 28, 2024 at the National Library Auditorium, Colombo. Pix by Kithsiri de Mel
-
-◼️
-
-[Data](articles/b927c9c4.json)
-
-[Extended Data](ext_articles/b927c9c4.ext.json)
-
----
-
-### Postponing elections not healthy for any democracy - Namal
-
-*2024-05-28 17:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/99494/postponing-elections-not-healthy-for-any-democracy-namal) · `en`
-
-Parliamentarian Namal Rajapaksa says that postponing elections is not healthy for any democracy.
-
-The Sri Lanka Podujana Peramuna (SLPP) National Organiser stated that extending the terms of the President and the Parliament undermines the fundamental principles of a democratic society.
-
-“Stability should come through the will of the people, not by delaying their voice,” he said in a post on ‘X’ (formerly Twitter).
-
-Rajapaksa’s comments come likely in response to a statement made by the General Secretary of the United National Party (UNP) Palitha Range Bandara, proposing for the postponement of the two upcoming elections by two years.
-
-Speaking at a press conference in Colombo today (28), he proposed that the Presidential Election and the General Election be postponed for 2 years, through a proposal to be tabled in Parliament and that a referendum could be called if necessary.
-
-“Now we have to save the country from this bankruptcy and rebuild the country’s economy,” Range Bandara said.
-
-...
-
-[Data](articles/7114a965.json)
-
-[Extended Data](ext_articles/7114a965.ext.json)
 
 ---

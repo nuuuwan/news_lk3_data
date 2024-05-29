@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-29 21:53:25**
+As of **2024-05-29 22:06:56**
 
 ## Newspaper Stats
 
-*Scraped **27,149** Articles*
+*Scraped **27,152** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,42 @@ newsfirstlk | 363
 islandlk | 1,465
 economynextcom | 1,556
 dailyftlk | 1,591
-adalk | 2,307
+adalk | 2,308
 adaderanalk | 3,093
-tamilmirrorlk | 3,187
+tamilmirrorlk | 3,188
 virakesarilk | 4,173
-dailymirrorlk | 4,289
+dailymirrorlk | 4,290
 adaderanasinhalalk | 4,350
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,148 (100.0%) of 27,149 articles have been extended.
+27,149 (100.0%) of 27,152 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-29 (Wednesday)
+
+### மதுபானம் அருந்திய நால்வர் மரணம்; தம்புள்ளையில் சம்பவம்
+
+*2024-05-29 21:53:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மதுபானம்-அருந்திய-நால்வர்-மரணம்-தம்புள்ளையில்-சம்பவம்/175-338119) · `ta`
+
+தம்புள்ளை விகாரை சந்தி பகுதியில்  சட்டவிரோத மதுபானம் அருந்தி நான்கு பேர் உயிரிழந்துள்ளதாக கூறப்படும் சம்பவம் தொடர்பில் தம்புள்ளை பொலிஸார் விசாரணைகளை ஆரம்பித்துள்ளனர்.
+
+இரண்டு நாட்களுக்கு முன்னர் இதே சட்டவிரோத மதுபானத்தை அருந்தி இருவர் உயிரிழந்துள்ளதாகவும் இன்று அதே மதுபானத்தை அருந்தி இருவர் உயிரிழந்துள்ளதாகவும் பிரதேசவாசிகள் தெரிவிக்கின்றனர்.
+
+இந்த சட்டவிரோத மதுபான வியாபாரம் தொடர்பில் பல தடவைகள் பொலிஸாரினால் சந்தேகநபர்கள் கைது செய்யப்பட்டு நீதிமன்றில் முன்னிலைப்படுத்தப்பட்டு தண்டனையும் வழங்கப்பட்டுள்ளது.
+
+நீண்ட காலமாக இடம்பெற்று வரும் இந்த சட்டவிரோத மதுபான விற்பனை மோசடியால் பிரதேசவாசிகள் தற்போது மிகவும் சிரமத்திற்கு உள்ளாகி வருவதாகவும் தெரிவிக்கப்படுகின்றது.
+
+உயிரிழந்தவர்களின் பிரேத பரிசோதனைக்கு மேலதிகமாக, இரசாயன பகுப்பாய்வு அறிக்கைகளை பெற்று அவர்களின் மரணத்திற்கான உண்மை காரணங்களைக் கண்டறிய தேவையான நடவடிக்கைகள் எடுக்கப்படும் என்றும் பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/f8bfd3c1.json)
+
+---
 
 ### Imperative to enact laws that render President accountable to Parliament – President Ranil
 
@@ -52,25 +72,51 @@ President Wickremesinghe emphasized the importance of enacting laws that render 
 
 ---
 
-### ශ්‍රී ලංකාවේ පුරවැසිභාවය ගන්න අලුත් ගැසට් පත්‍රයක්
+### තෙල් කාන්දුවන ඉන්ද‍ිය නැවක් කොළඹ වරායට ගෙනල්ලා
 
-*2024-05-29 21:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197165) · `si`
+*2024-05-29 21:13:15* · [`adalk`](https://www.ada.lk/breaking_news/තෙල්-කාන්දුවන-ඉන්ද‍ිය-නැවක්-කොළඹ-වරායට-ගෙනල්ලා/11-409896) · `si`
 
-මෙරට පුරවැසිභාවය අත්හැර දැමූ අය ඇතුළු ශ්‍රි ලාංකික සම්භවයක් සහිත පුද්ගලයින්ට සහ විදේශීය කාලත්‍රයන්ට ස්ථිර පදිංචිය ලබාගත හැකිවන පරිදි නව රෙගුලාසි ගැසට් පත්‍රයක් මගින් ඉදිරිපත් කර තිබේ.
+මුහුදට තෙල් කාන්දුවන නෞකාවක් කොළඹ වරායට නැංගුරම් කරවූ ඉන්දීය කපිතාන්වරයෙකුට රටින් පිටවීම වළකාලමින් කොළඹ අතිරේක මහේස්ත්‍රාත් කේමින්ද පෙරේරා මහතා විදෙස් ගමන් තහනමක් අද (29) නිකුත් කළේය.
 
-මහජන ආරක්ෂක අමාත්‍යාංශය විසින් අදාළ රෙගුලාසි ගැසට් පත්‍රයක් මගින් ප්‍රකාශයට පත්කර ඇති අතර මෙම නියෝග 2024 ස්ථීර වාස වීසා පත්‍ර නියෝග ලෙස හදුන්වා ඇති බව සඳහන් වෙයි.
+ඉන්දියාවට අයත් ‘ආක් ප්‍රෙස්ටීජ්’නමැති නෞකාවේ කපිතාන්වරයා වශයෙන් කටයුතු කරන ඉන්දීය ජාතික රාජ්දෙව් යාදේව් නමැත්තාට මාසයක කාලයක් සඳහා මෙලෙස විදෙස් ගමන් තහනමක් පැනවු මහෙස්ත්‍රාත්වරයා ඒ පිළිබඳ ආගමන විගමන පාලකවරයා දැනුවත් කිරීමටද නියම කළේය.
 
-ඒ අනුව ශ්‍රි ලාංකික සම්භවයක් සහිත පුද්ගලයෙකු හෝ පුරවැසි පනතේ 19, 20 හෝ 21 වගන්ති යටතේ මෙරට පුරවැසිභාවය නතර වී ඇති මෙන්ම විදේශීය කාලත්‍රයෙකුට නව රෙගුලාසි යටතේ විවාහ වී මාස 6කට පසු අයදුම් කිරිමට අවස්ථාව හිමිවෙයි.
+කොළඹ වරාය පොලිසිය කළ ඉල්ලීමක් සලකා බැලීමෙන් අනතුරුව අදාළ විදෙස් ගමන් තහනම පැනවු මහේස්ත්‍රාත්වරයා ඒ පිළිබඳ ‘ආක් ප්‍රෙස්ටීජ්’ නෞකාවේ කපිතාන් රාජ්දෙව් යාදේව් නමැත්තා දැනුවත් කිරීමටද පොලිසියට නියම කළේය.
 
-විවාහය වසර 5කට පෙර අහෝසි වුවහොත් ස්ථීර පදිංචි තත්ත්වය ස්වයංක්‍රීයව අහෝසි වන බව අදාළ ගැසට් නිවේදනයේ දැක්වෙයි.
-
-තම මව්පියන්, මුත්තණුවන් දිවයිනේ උපත ලද හෝ තවමත් පුරවැසියන් වන පුද්ගලයෙකු ශ්‍රි ලංකා සම්භවයක් සහිත අයෙකු ලෙස හදුන්වනු ලබයි.
-
-මේ යටතේ අයදුම්පත්‍රයක් ඉදිරිපත් කරන ප්‍රාථමික අයදුම්කරුවෙකු සදහා ඩොලර් 1,000ක ගාස්තුවක් අයකරන අතර ශ්‍රි ලාංකික නොවන කාලත්‍රයෙකු සඳහා මෙන්ම ළමුන් සදහා ද ඩොලර් 400ක ගාස්තුවක් අය කෙරෙනු ඇත.
+සිද්ධියට අදාළව කරන ලද විමර්ශන වල ප්‍රගතිය දැක්වෙන වාර්තාවක් ඉදිරිපත් කළ කොළඹ වරාය පොලිසියේ නිලධාරීහු කොළඹ වරායේ ‘ඩොක්යාර්ඩ්’ ජැටියේ නැංගුරම්ලා ඇති ඉන්දිය නෞකාවෙන් හයිඩ්‍රොලික් තෙල් කාන්දු වීමක් සම්බන්ධයෙන් ලැබුණු පැමිණිල්ලකට අනුව විමර්ශන ආරම්භ කළේ යැයි දැනුම් දුන්හ.
 
 ...
 
+[Data](articles/d4a24eae.json)
+
+---
+
+### New gazette sheet to take citizenship in Sri Lanka
+
+*2024-05-29 21:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197165) · `si`
+
+Sri Lanka's new gazette regulations allow obtaining permanent residency, including restoring abandoned citizenship and granting visas to foreign spouses and children. The process involves a $1,000 fee for the primary applicant and a $400 fee per child. Citizenship by descent for Sri Lankan-born individuals or those with one Sri Lankan parent is possible after six months of marriage. However, if a marriage ends within five years, the permanent residency status may be revoked.
+
+🟩
+
+The new regulations have been submitted by a gazette that can obtain permanent residence, including the abandoned citizenship of Sri Lanka and foreign hostages.
+
+The Ministry of Defense has published the regulations by a gazette that has been identified as 2024 permanent resident visa.
+
+Accordingly, the citizenship of Sri Lankan origin or a citizenship of Sri Lankan origins or citizenship Act will be held six months after marriage under the new regulations.
+
+The gazette notification indicates that the situation of permanent residents will be automatically undone if marriage canceled five years ago.
+
+A person who is born in the island or still citizens is also known as a Sri Lankan origin.
+
+A primary applicant submitting an application will be charged at $ 1,000 for a Sri Lankan spouse as well as a $ 400 fee for children.
+
+The relevant application has been submitted by the Gazette No. 2383/17 of May 2024.
+
+◼️
+
 [Data](articles/3aab11cc.json)
+
+[Extended Data](ext_articles/3aab11cc.ext.json)
 
 ---
 
@@ -1428,6 +1474,18 @@ After the change of 2015, the Tamil National Alliance (TNA) was the Opposition o
 
 ---
 
+### Protest by United Trade Union Alliance...
+
+*2024-05-29 15:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Protest-by-United-Trade-Union-Alliance/110-283613) · `en`
+
+The United Trade Union Alliance staged a peaceful protest today in front of the Fort Railway Station against several issues such as the selling of state property and the proposed education policy. Pix by Pradeep Dilrukshana
+
+◼️
+
+[Data](articles/85d01f1a.json)
+
+---
+
 ### President pays statement about presidential election
 
 *2024-05-29 15:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197156) · `si`
@@ -2185,63 +2243,5 @@ The 2023 G.C.E. Advanced Level Examination was held from January 04 to 31, 2024 
 [Data](articles/68ec78db.json)
 
 [Extended Data](ext_articles/68ec78db.ext.json)
-
----
-
-### Is the nephew follow the strategy of the father's readiness?
-
-*2024-05-29 12:18:04* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c6ppxwjl75po) · `si`
-
-The text discusses the controversy surrounding the potential postponement of Sri Lanka's presidential election, citing concerns about its constitutionality and impact on democracy. Experts argue that the current constitution does not allow for election delays, emphasizing the importance of timely elections for democratic governance. They highlight the distinction between a president elected by popular vote and one appointed successively, suggesting that only the latter lacks the power to extend their term. The discussion also touches on historical instances where attempts to delay elections were met with resistance and legal challenges.
-
-🟩
-
-Elections will be elected to Sri Lankan citizens, which are a year-long year of elections. Since the constitutional term of the Presidency is the current republic of the Republican Constitution in accordance with the Second Republican Constitution of the Second Republic of China, the Constitution should be appointed to hold a presidential election this year.
-
-A press conference held by the UNP General Secretary General of Parliament General Assembly of President Ranil Wickremesinghe, the General Secretary of the National Party (UNP), the General Secretary of the National Party (UNP), the Presidential Secretaries of the National Party (UNP), was asked to postpone the presidential election two years at the time of the candidates who are looking forward to the candidates who wish to contest the presidential election.All parties in Parliament should be supported.
-
-...
-
-[Data](articles/8bdbe993.json)
-
-[Extended Data](ext_articles/8bdbe993.ext.json)
-
----
-
-### Adverse weather conditions to ease
-
-*2024-05-29 12:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Adverse-weather-conditions-to-ease/108-283606) · `en`
-
-Colombo, May 29 (Daily Mirror) - Director of the Disaster Management Center (DMC) Pradeep Kodippili said today that there is a reduction in disaster situations.
-
-Due to the ongoing adverse weather, numerous disaster situations have been reported across more than 20 districts, affecting about 220 District Secretariat divisions throughout the country. Currently, there are only 10 safe locations available, with a total of 226 people seeking refuge in these places.
-
-As of yesterday, over 47,000 people were affected by the adverse weather conditions. However, today, the number has decreased to 34,000. Meanwhile, there have been reports of eight deaths in various districts including Galle, Ratnapura, Puttalam, Nuwara Eliya and Badulla.
-
-The DMC, following the Minister's instructions, has initiated a programme with the assistance of the armed forces to remove all trees that are not protected.
-
-...
-
-[Data](articles/cacaa346.json)
-
-[Extended Data](ext_articles/cacaa346.ext.json)
-
----
-
-### President calls for long-term plan to advance Sri Lanka’s energy sector transformation
-
-*2024-05-29 12:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/99508/president-calls-for-long-term-plan-to-advance-sri-lankas-energy-sector-transformation) · `en`
-
-President Ranil Wickremesinghe has called on all stakeholders, including private sector investors, to support and develop a long-term plan for advancing Sri Lanka’s energy sector transformation and promoting green growth efforts.
-
-During the “Advancing Energy Transition” roundtable discussion at the Hilton Colombo this morning (29), Wickremesinghe emphasized the need for a comprehensive plan to exploit renewable energy and explore future trends in green hydrogen in Sri Lanka.
-
-The event, held in collaboration with the World Bank, the Ministry of Power and Energy, and the Ceylon Electricity Board (CEB), provided a platform for discussing the country’s energy transition, the PMD reported.
-
-...
-
-[Data](articles/d7ceae76.json)
-
-[Extended Data](ext_articles/d7ceae76.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-29 22:18:37**
+As of **2024-05-29 22:33:57**
 
 ## Newspaper Stats
 
-*Scraped **27,159** Articles*
+*Scraped **27,161** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,54 @@ adalk | 2,308
 adaderanalk | 3,093
 tamilmirrorlk | 3,188
 virakesarilk | 4,180
-dailymirrorlk | 4,290
+dailymirrorlk | 4,292
 adaderanasinhalalk | 4,350
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,152 (100.0%) of 27,159 articles have been extended.
+27,155 (100.0%) of 27,161 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-29 (Wednesday)
+
+### Is hypertension the reason for some SLTB bus drivers to drive recklessly?
+
+*2024-05-29 22:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Is-hypertension-the-reason-for-some-SLTB-bus-drivers-to-drive-recklessly/108-283643) · `en`
+
+Colombo, May 29 (Daily Mirror)- In a recent health checkup by the Kuliyapitiya MOH office, it was revealed that SLTB employees including drivers and traders in the Kuliyapitiya bus stand were at high risk for hypertension, a condition often referred to as a ‘silent killer.’
+
+According to the officials, all SLTB employees who underwent the checkup were found to be suffering from high blood pressure, putting them at risk for cardiac ailments.
+
+In response to these findings, the officials have announced plans to hold a medical clinic soon to provide formal medical checkups for all SLTB employees and private bus operators in the area.
+
+The programme was organized by Nursing Sister K.A. Nilanthi, PHI Sanjaya Wanninayaka, Officer In Charge Samith Cooray, and the Health Officer of the Urban Council. This proactive approach aims to address the health concerns of the identified high-risk group and promote overall well-being in the community.
+
+◼️
+
+[Data](articles/44b1dde9.json)
+
+---
+
+### Teachers, principals to launch two-day islandwide sick leave campaign tomorrow
+
+*2024-05-29 22:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Teachers-principals-to-launch-two-day-islandwide-sick-leave-campaign-tomorrow/108-283649) · `en`
+
+Colombo, May 29 (Daily Mirror) - The National Teachers' Power (NTP) has decided to launch an islandwide two-day sick leave campaign starting tomorrow (30), demanding the government to resolve the salary anomalies of school principals and teachers.
+
+Addressing the media NTP national organiser and media spokesman Amuthu Bandara told the Daily Mirror that they had protested on the streets during the past 27 years in search of solutions to the salary anomalies.
+
+"We held a sick leave campaign on March 28, and we gave the rulers of the country a chance, but they did not listen. Therefore, the NTP has decided to launch the two-day sick leave campaign tomorrow," he said.
+
+“There is a responsibility for the 225 MPs in the Parliament to launch a debate on this issue, as they were elected to Parliament with the vote cast by the teachers and principals as well.
+
+...
+
+[Data](articles/cd7a34e4.json)
+
+---
 
 ### The death of four drinkers;The incident in Dambulla
 
@@ -174,37 +210,53 @@ The Australia players of the Australia squad, Travis Hed, Pat Kumins, Glen Maxwe
 
 ---
 
-### முச்சக்கரவண்டியுடன் பஸ் மோதி விபத்து; 03 வருடங்களின் பின் வீடு திரும்பிய பெண் பலி
+### Bus collision with three wheelers;Woman returned home after three years
 
 *2024-05-29 20:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/184820) · `ta`
 
-பெல்மடுல்ல பகுதியில் முச்சக்கரவண்டியுடன் பேருந்து மோதி இந்த விபத்து இடம்பெற்றுள்ளது. குறித்த விபத்தில் வீதியை விட்டு விலகிய முச்சக்கரவண்டி 15 அடி பள்ளத்தில் வீழ்ந்துள்ளது.
+A tragic bus collision with a three-wheeler in Belmadulla resulted in injuries, including severe ones to a woman and her child, who had been away from home for three years working in Kuwait.
 
-இந்த விபத்தில் முச்சக்கரவண்டியில் பயணித்த உயிரிழந்த பெண் உட்பட மூன்று பயணிகளும் காயமடைந்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+🟩
 
-அங்கு அனுமதிக்கப்பட்டிருந்தவர்களில் பலத்த காயமடைந்த பசறை பிரதேசத்தை சேர்ந்த 26 வயதுடைய ஒரு பிள்ளையின் தாயே பரிதாபமாக உயிரிழந்துள்ளார்.
+The accident occurred when a bus collided with a three -wheeler in Belmadulla area. The three -wheeler left the road in a 15 -foot ditch.
 
-ஏறக்குறைய 03 வருடங்களாக குவைத்தில் பணிபுரிந்துவிட்டு தனது வீட்டிற்கு திரும்பிக் கொண்டிருந்த போதே இந்த விபத்து இடம்பெற்றுள்ளது.
+Three passengers, including a woman who were traveling in a three -wheeler, were injured in the accident, police said.
+
+The mother of a 26 -year -old child from Pasarai, who was severely injured, died tragically.
+
+The accident occurred while working in Kuwait for nearly three years and returning home.
 
 ◼️
 
 [Data](articles/06d94cbd.json)
 
+[Extended Data](ext_articles/06d94cbd.ext.json)
+
 ---
 
-### எந்தவொரு ஜனாதிபதி வேட்பாளரும் நிறைவேற்று அதிகாரத்தை இரத்துச் செய்வதாக கூறவில்லை - ஜனாதிபதி
+### No presidential candidate says that the executive power is canceled - the president
 
 *2024-05-29 20:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/184819) · `ta`
 
-ஜனாதிபதி தேர்தலில் போட்டியிட முன்வந்திருக்கும் எந்தவொரு வேட்பாளரும் நிறைவேற்று அதிகாரத்தை இரத்துச் செய்வதாக கூறவில்லை என ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+In a speech at the Presidential Secretariat, President Ranil Wickremesinghe discussed the executive presidency system in Sri Lanka, highlighting its advantages and disadvantages. He noted that no presidential candidate has promised to abolish executive power, emphasizing its role in improving the economy and winning the 30-year war. The President also touched on the distribution of executive powers to Provincial Councils and Parliamentary Supervisory Committees. He mentioned various governance systems in Sri Lanka's history, including the English period system, the executive presidency, and the Tonamore system, each with its unique characteristics and challenges. Wickremesinghe stressed the importance of strengthening Parliament and preparing a program to distribute executive powers further among parliamentary bodies.
 
-நிறைவேற்று ஜனாதிபதி முறைமை சாதக, பாதக அம்சங்களுடன் கூடியதாகவே காணப்படுவதாகவும், ஜனாதிபதிக்கு உள்ள நிறைவேற்று அதிகாரத்தினாலேயே இலங்கையின் பொருளாதாரத்தை முன்னேற்றவும் 30 வருட யுத்தத்தை வெற்றிகொள்ளவும் முடிந்ததுள்ளது என்றும் ஜனாதிபதி ரணில் விக்ரமசிங்க சுட்டிக்காட்டினார்.
+🟩
 
-இளம் சட்டத்தரணிகளுடன் நடைபெற்ற What's New சட்ட மறுசீரமைப்பு தொடர்பில் 28 ஆம் திகதி செவ்வாய்க்கிழமை ஜனாதிபதி அலுவலகத்தில் நடைபெற்ற செயலமர்வில் கலந்துகொண்டிருந்த போதே ஜனாதிபதி ரணில் விக்ரமசிங்க இதனைத் தெரிவித்தார்.
+President Ranil Wickremesinghe said that no candidate who has come forward to contest the presidential election is saying that he will cancel the executive power.
+
+President Ranil Wickremesinghe pointed out that the executive president's system is accompanied by advantage and disadvantages and that the President's executive power has been able to improve the economy of Sri Lanka and to win 30 years of war.
+
+President Ranil Wickremesinghe made this statement while attending the Presidential Secretariat at the Presidential Office on Tuesday, 28th of the What's New Law Reform with Young Lawyers.
+
+Pointing out that the President should pass the law in charge of parliament and that many of the present executive power have been distributed to the Provincial Councils and Parliamentary Supervisory Committees, he said.
+
+The President said that a presidential election would be held in the coming days and that funds have already been made.
 
 ...
 
 [Data](articles/9921b9b4.json)
+
+[Extended Data](ext_articles/9921b9b4.ext.json)
 
 ---
 
@@ -232,21 +284,29 @@ Students were given water to the first aid and immediately admitted to a nearby 
 
 ---
 
-### இந்நாட்டின் புதுப்பிக்கத்தக்க வலுசக்தித் துறையின் மாற்றத்திற்காக விரிவான திட்டத்தின் அவசியம் - ஜனாதிபதி
+### A comprehensive plan for the change of the country's renewable strength sector - the President
 
 *2024-05-29 20:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/184818) · `ta`
 
-இலங்கையில் புதுப்பிக்கத்தக்க வலுசக்தியைப் பயன்படுத்துதல் மற்றும் பசுமை ஹைட்ரஜன் உற்பத்தியின் எதிர்காலப் போக்குகள் குறித்து ஆராய விரிவான திட்டம் ஒன்றின் அவசியத்தை ஜனாதிபதி ரணில் விக்ரமசிங்க வலியுறுத்தினார்.
+President Ranil Wickremesinghe highlighted the need for a comprehensive plan to enhance Sri Lanka's renewable energy sector, emphasizing the importance of green hydrogen production and the challenges of acquiring domestic expertise. He mentioned the government's commitment to transitioning towards a green economy, focusing on renewable energy and aiming for zero emissions by 2040. The President also discussed ongoing legislative efforts, including the Electricity Reorganization Bill and the Climate Change Bill, and the role of international cooperation and private sector involvement in achieving these goals.
 
-இன்று 29 ஆம் திகதி புதன்கிழமை முற்பகல் கொழும்பு ஹில்டன் ஹோட்டலில் இடம்பெற்ற “வலுசக்தி மாற்றத்தின் எதிர்காலப் பாதை” எனும் தலைப்பில் இடம்பெற்ற வட்டமேசை கலந்துரையாடலில் கலந்துகொண்டு உரையாற்றும் போதே ஜனாதிபதி இதனை சுட்டிக்காட்டினார்.
+🟩
 
-உலக வங்கி, மின்சக்தி மற்றும் வலுசக்தி அமைச்சு மற்றும் இலங்கை மின்சார சபை ஆகியவற்றால் ஏற்பாடு செய்யப்பட்ட இந்த வட்டமேசைக் கலந்துரையாடல், இலங்கையின் வலுசக்தி மாற்றம் குறித்து கலந்துரையாடும் தளமாக அமைந்தது.
+President Ranil Wickremesinghe emphasized the need for a comprehensive plan to use renewable strength in Sri Lanka and to investigate the future trends of green hydrogen production.
 
-அண்மையில் பிரைஸ் வாட்டர் ஹவுஸ் கூப்பர்ஸ் நிறுவனம் (Pricewater house Coopers) பசுமை ஹைட்ரஜன் தொடர்பாக சமர்ப்பித்த அறிக்கையின் மீது கவனத்தை செலுத்திய ஜனாதிபதி, அந்த அறிக்கையின் முக்கியத்துவத்தையும், வளர்ந்து வரும் புதுப்பிக்கத்தக்க வலுசக்தி துறையை மேலும் ஊக்குவிக்கும் விரிவான திட்டத்தின் அவசியத்தையும் சுட்டிக்காட்டினார்.
+The President pointed out this while addressing a discussion held at the Hilton Hotel in Colombo on Wednesday morning at the Hilton Hotel, Colombo.
+
+The circulation discussion, organized by the World Bank, the Ministry of Power and the Ministry of Energy and the Ceylon Electricity Board, became a platform on Sri Lanka's strength change.
+
+The President, who recently paid attention to the report on Green Hydraj, has pointed out the importance of the report and the need for a comprehensive plan to further promoting the growing renewal power sector.
+
+At the same time, the President referred to the difficulties in obtaining domestic expertise and asked all parties, including the World Bank, the Asian Development Bank and all parties, including domestic and foreign investors.
 
 ...
 
 [Data](articles/a63f2607.json)
+
+[Extended Data](ext_articles/a63f2607.ext.json)
 
 ---
 
@@ -2167,53 +2227,5 @@ He further mentioned that the government had been concentrating on resuming vehi
 [Data](articles/5cd05096.json)
 
 [Extended Data](ext_articles/5cd05096.ext.json)
-
----
-
-### KDU lecturer arrested over comments on ISIS suspects arrested in India
-
-*2024-05-29 13:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/99510/kdu-lecturer-arrested-over-comments-on-isis-suspects-arrested-in-india) · `en`
-
-UPDATE: Dr. Punsara Amarasinghe, a lecturer at the Kotelawala Defence University (KDU) who was arrested by the CID, has been released on bail by the Fort Magistrate’s Court.
-
-He has been ordered released on a personal bail of Rs. 1 million by the Fort Magistrate’s Court after he was produced before the court today.
-
-Dr. Punsara Amarasinghe, a lecturer at the Kotelawala Defence University (KDU), has been arrested by the Criminal Investigation Department (CID).
-
-He has been taken into custody for allegedly making a false statement regarding the four Sri Lankans arrested in India over suspected links with the Islamic State of Iraq and Syria (ISIS).
-
-Dr. Amarasinghe had reportedly made the controversial remarks during a recent televised interview.
-
-◼️
-
-[Data](articles/ce4fb7ee.json)
-
-[Extended Data](ext_articles/ce4fb7ee.ext.json)
-
----
-
-### Tamil Error at Padasiripura Divisional Hospital
-
-*2024-05-29 13:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/184772) · `ta`
-
-Residents of Trincomalee-Padasripura demand corrections to the Tamil alphabet on the newly inaugurated hospital's name board due to errors. Despite the presence of knowledgeable Tamils in state departments and growing online translation tools, mistakes persist. Activists urge the government to take responsibility for rectifying these errors to prevent future occurrences.
-
-🟩
-
-People are demanding to edit the Tamil alphabet that has been published in the name of the Trincomalee - Padasripura Divisional Hospital.
-
-A recently inauguration of a Divisional Hospital in the area of ​​the Trincomalee - Padasripura Divisional Secretariat Division
-
-People say that the Tamil name on the name board is seen with Tamil errors and that it has not yet been amended by the relevant parties to correct it.
-
-While there are many Tamil who knows Tamil in most of the state departments and names in Sri Lanka, there are more and more translating internet facilities in Tamil, and that such mistakes are continuously in Tamil, and why the social activists fail to printed important names and pre -displayed the important names.The question is.
-
-Therefore, the people are demanding that the government be responsible for correction of the Tamil errors on the name board and that such mistakes in the future are not anywhere.
-
-◼️
-
-[Data](articles/80f484b3.json)
-
-[Extended Data](ext_articles/80f484b3.ext.json)
 
 ---

@@ -1,36 +1,72 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-29 18:12:21**
+As of **2024-05-29 18:23:52**
 
 ## Newspaper Stats
 
-*Scraped **27,118** Articles*
+*Scraped **27,129** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 239
 dbsjeyarajcom | 266
-bbccomsinhala | 269
+bbccomsinhala | 270
 newsfirstlk | 363
 islandlk | 1,465
-economynextcom | 1,548
+economynextcom | 1,554
 dailyftlk | 1,591
-adalk | 2,304
+adalk | 2,305
 adaderanalk | 3,091
 tamilmirrorlk | 3,185
 virakesarilk | 4,168
-dailymirrorlk | 4,282
+dailymirrorlk | 4,285
 adaderanasinhalalk | 4,347
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,118 (100.0%) of 27,118 articles have been extended.
+27,118 (100.0%) of 27,129 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-29 (Wednesday)
+
+### Ranil will never go for referendum: AKD
+
+*2024-05-29 17:49:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ranil-will-never-go-for-referendum-AKD/108-283628) · `en`
+
+Colombo, May 29 (Daily Mirror)- President Ranil Wickremesinghe, who cannot win the presidential election will never go for a referendum, National People’s Power (NPP) leader Anura Kumara Dissanayake said today.
+
+He told the media in Colombo that if Ranil Wickremesinghe could win the referendum, he would definitely go for the presidential election.
+
+Dissanayake said they are trying to create confusion in the society as Ranil Wickremesinghe and Basil Rajapaksa have no plans or vision for the election.
+
+"The other political groups are already engaged in election campaigns. Ranil Wickremesinghe and Basil Rajapaksa have no plans or vision for the election. So, they want to create confusion in society. They created news that Parliament will be dissolved. UNP MP Vajira Abeywardane said once that Ranil should be given ten years,” he said.
+
+He said it is not good to insult the Constitution and people's mandate and create confusion in the society for their cheap political ends.
+
+◼️
+
+[Data](articles/1de20a6a.json)
+
+---
+
+### Sri Lanka’s Aitken Spence Plantation Managements to delist from CSE
+
+*2024-05-29 17:45:00* · [`economynextcom`](https://economynext.com/sri-lankas-aitken-spence-plantation-managements-to-delist-from-cse-165340/) · `en`
+
+ECONOMYNEXT – Aitken Spence Plantation Managements Plc will de-list the shares of the Company from the official list of the Colombo Stock Exchange subject to obtaining shareholder and regulatory approvals, it said.
+
+The exit offer price is 240 rupees per share, the company said in a stock exchange filing.
+
+“The Board of Directors of the Company has made arrangements with Aitken Spence PLC, MJ F Holdings (Private) Limited, and Mr. D. A. de S. Wickramanayake, three largest shareholders of the Company (the “Major Shareholders”) and the Major Shareholders have indicated the willingness to acquire the shares of the minority shareholders of the Company who may wish to divest/sell their shares.”
+
+...
+
+[Data](articles/be276192.json)
+
+---
 
 ### Presidential election is held on the due date - PM
 
@@ -55,6 +91,28 @@ Have you accused the government to procrastinate the election on May Day?
 [Data](articles/838d756f.json)
 
 [Extended Data](ext_articles/838d756f.ext.json)
+
+---
+
+### Sri Lanka rupee closes broadly flat at 301.60/302.00 to US dollar
+
+*2024-05-29 17:33:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-broadly-flat-at-301-60-302-00-to-us-dollar-165328/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed broadly flat at 301.60/302.00 to the US dollar on Wednesday, from 301.70/302.30 the previous day, dealers said. Bond yields were down.
+
+A bond maturing on 15.12.2026 closed down at 9.70/85 percent from 9.90/10.05 percent.
+
+A bond maturing on 15.09.2027 closed down at 10.30/40 percent from 10.30/55 percent.
+
+A bond maturing on 01.07.2028 closed down at 10.70/80 percent from 10.90/11.00 percent.
+
+A bond maturing on 15.01.2030 closed down at 11.50/75 percent from 11.60/80 percent.
+
+A bond maturing on 01.10.2032 closed down at 11.80/95 percent from 11.85/12.00 percent. (Colombo/May29/2024)
+
+◼️
+
+[Data](articles/beb0ac95.json)
 
 ---
 
@@ -127,6 +185,42 @@ Jayatissa has expressed his views on the opinion of UNP general secretary Palith
 [Data](articles/cdb44f7b.json)
 
 [Extended Data](ext_articles/cdb44f7b.ext.json)
+
+---
+
+### Sri Lanka Treasury bill yields fall across maturities, 3-months 8.62-pct
+
+*2024-05-29 17:07:00* · [`economynextcom`](https://economynext.com/sri-lanka-treasury-bill-yields-fall-across-maturities-3-months-8-62-pct-165333/) · `en`
+
+ECONOMYNEXT – Sri Lanka Treasury bill yields dropped across maturities at Wednesday’s auction, with the 3-month yield falling to 8.62 percent, data from the state debt office showed.
+
+The debt office sold all 30 billion rupees of 3-month bills offered at 8.62 percent down from 8.76 percent.
+
+All 50 billion rupees offered of 6-month bills were sold, at 9.04 percent, down from 9.17 percent.
+
+And all 80 billion rupees offered of 12-month bills were sold at 9.18 percent, down from 9.29 percent.
+
+◼️
+
+[Data](articles/e84839df.json)
+
+---
+
+### දඹුල්ල විහාර හන්දිය ප්‍රදේශයේ නීතිවිරෝධී මත්පැන් පානය කළ හතරක් මරුට
+
+*2024-05-29 17:06:18* · [`adalk`](https://www.ada.lk/breaking_news/දඹුල්ල-විහාර-හන්දිය-ප්‍රදේශයේ-නීතිවිරෝධී-මත්පැන්-පානය-කළ-හතරක්-මරුට/11-409892) · `si`
+
+දඹුල්ල විහාර හන්දිය ප්‍රදේශයේ නීතිවිරෝධී මත්පැන් පානය කළ සිව්දෙනෙකු මියගොස් ඇති බවට වාර්තාවේ.
+
+දින දෙකකට පෙර  දෙදෙනෙකු මියගොස් ඇති අතර අද දිනයේද එලෙසම මත්පැන් පානය කළ දෙදෙනෙකු මියගිය බවද ප්‍රදේශවාසීන් පවසයි.
+
+කලක සිට පවත්වාගෙන යනු ලබන මෙම  නීතිවිරෝධී මත්පැන් විකිණීමේ ජාවාරම  සම්බන්ධයෙන් පොලීසිය විසින් සැකකරුවන් මීට පෙර අවස්ථා කිහිපයකදීම අත්අඩංගුවට ගෙන අධිකරණය හමුවට ඉදිරිපත් කර ඇත‍ෙ
+
+මෙලෙස මියගොස් ඇති පුද්ගලයින්ගේ පශ්චාත් මරණ පරීක්ෂණයට අමතරව රස පරීක්ෂක වාර්තා කැඳවා ඔවුන්ගේ මරණවලට නිශ්චිත හේතු අනාවරණ කරගැනීමට අවශ්‍ය පියවර ගන්නා බවද දඹුල්ල පොලීසිය පවසයි.
+
+◼️
+
+[Data](articles/a725327a.json)
 
 ---
 
@@ -209,6 +303,28 @@ He was later produced before the Fort Magistrate's Court and released on a bail 
 [Data](articles/c249638b.json)
 
 [Extended Data](ext_articles/c249638b.ext.json)
+
+---
+
+### Sri Lanka stocks close down after Commercial Bank capital call
+
+*2024-05-29 16:44:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-after-commercial-bank-capital-call-165319/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed down on Wednesday, data on its site showed.
+
+The broader All Share Index closed down 1.03 percent, or 125.76 points, at 12,102; while the S&P SL20 Index closed down 1.99 percent, or 71.95 points, at 3,547.
+
+Commercial Bank of Ceylon Plc (Rs221mn) and Sampath Bank Plc (Rs207mn) saw selling pressure. Commercial Bank voting shares closed down at 103.50, while non-voting shares closed down at 83.00. Sampath Bank shares closed down at 77.50.
+
+Commercial Bank, the largest private bank by assets, announced yesterday a capital call from shareholders of 22 billion rupees, offering voting shares at 85 rupees and non-voting at 69 rupees.
+
+The 22.52 billion rupees will used to bolster Tier 1 capital to accommodate future lending, the firm said.
+
+“There was a sharp decline in the market from the bell, mainly due to Commercial Bank. There was significant selling pressure on the bank’s shares which trickled to other banking stocks too,” market participants said.
+
+...
+
+[Data](articles/5a3d0bd6.json)
 
 ---
 
@@ -511,6 +627,38 @@ In this case, his 11 -year -old elder child caught the company as he was involve
 [Data](articles/6c78a7f3.json)
 
 [Extended Data](ext_articles/6c78a7f3.ext.json)
+
+---
+
+### Sri Lanka central bank gets IFC, World Bank help to focus on green finance
+
+*2024-05-29 16:04:00* · [`economynextcom`](https://economynext.com/sri-lanka-central-bank-gets-ifc-world-bank-help-to-focus-on-green-finance-165302/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Central Bank has entered into a cooperation agreement with the International Finance Corporation (IFC) and the World Bank Group, to obtain technical and financial assistance to focus on green finance.
+
+This will help to update its Roadmap for Sustainable Finance, Green Finance Taxonomy, and also to expand the focus of the National Financial Inclusion Strategy Phase II, by including inclusive green finance with an emphasis on export-oriented SMEs, the central bank said.
+
+The program is partially financed by the European Union’s Accelerating Climate-Smart and Inclusive Infrastructure in South Asia Program which supports sustainable private sector development. (Colombo/May29/2024)
+
+◼️
+
+[Data](articles/0728f77b.json)
+
+---
+
+### President says presidential election to be held as planned
+
+*2024-05-29 16:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/President-says-presidential-election-to-be-held-as-planned/108-283619) · `en`
+
+Colombo, May 29 - President Ranil Wickremesinghe said that the presidential election will definitely be held in the future and financial allocations have already been allocated for it.
+
+While joining the "What's New" workshop held at the President's office on legal reform with young legal professionals, the President said that that none of the candidates aspiring to run in the presidential election have announced their intention to abolish the executive powers associated with the position.
+
+The President highlighted the dual nature of the executive presidential system, noting its advantages and disadvantages. He emphasized that the executive power vested in the presidency played a pivotal role in the economic development of Sri Lanka and the resolution of the 30-year war.
+
+◼️
+
+[Data](articles/33af2dc6.json)
 
 ---
 
@@ -909,6 +1057,28 @@ Gen. Sir John Kotalawala Safety University has been granted bail to the lecturer
 [Data](articles/09c6ddec.json)
 
 [Extended Data](ext_articles/09c6ddec.ext.json)
+
+---
+
+### Defence Ministry clearance a must for Sri Lanka ex-servicemen applying for Russia visa
+
+*2024-05-29 14:50:00* · [`economynextcom`](https://economynext.com/defence-ministry-clearance-a-must-for-sri-lanka-ex-servicemen-applying-for-russia-visa-165285/) · `en`
+
+ECONOMYNEXT – Sri Lanka ex-servicemen applying for visit visas to Russia will now have to get Defence Ministry clearance, Minister of Foreign Affairs M U M Ali Sabry said.
+
+Sabry met the Russian Ambassador in Colombo Levan S Dzhagaryan on Wednesday.
+
+“We addressed the urgent situation of Sri Lankans being deployed in the Russia-Ukraine conflict and agreed on immediate steps to resolve these issues,” the minister said on social media platform X (twitter).
+
+“Russia will now require Sri Lanka Defence Ministry clearance for visit visas of ex-servicemen.”
+
+The upcoming visit to Russia will enable further discussions to find a solution to this matter, Sabry said.
+
+A Sri Lankan delegation including State Foreign Minister Tharaka Balasuriya and Defence Secretary Kamal Gunaratne will leave to Moscow “soon” to have discussions over concerns over hundreds of the island nation’s ex-solders now joined Russia-Ukraine war, Sabry said earlier.
+
+...
+
+[Data](articles/c2181508.json)
 
 ---
 
@@ -1550,6 +1720,24 @@ The 2023 G.C.E. Advanced Level Examination was held from January 04 to 31, 2024 
 
 ---
 
+### බෑණාගේ සූදානම මාමණ්ඩියගේ උපාය අනුගමනය කිරීම ද?
+
+*2024-05-29 12:18:04* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c6ppxwjl75po) · `si`
+
+ලොව පුරා රටවලට මැතිවරණ වසරක් ලෙස සැලකෙන 2024 වසර ශ්‍රී ලාංකික පුරවැසියන්ට ද මැතිවරණ වසරකි. 1978 දෙවන ජනරජ ව්‍යවස්ථාවට අනුකූලව වර්තමානයේ අනුප්‍රාප්තික ජනාධිපති ධූරය දරන ජනාධිපති රනිල් වික්‍රමසිංහට හිමි ධූර කාලය තව මාස කිහිපයකින් අවසන් වන නිසා ආණ්ඩුක්‍රම ව්‍යවස්ථාවට අනුව මේ වසරේ දී ජනාධිපතිවරණයක් පවත්වා ජනාධිපතිවරයෙකු පත් කරගත යුතු ය.
+
+ඒ සම්බන්ධයෙන් බොහෝ පාර්ශවයන් ද ජනාධිපතිවරණයට තරග කිරීමට බලාපොරොත්තුවන අපේක්ෂකයන් සහ ඔවුන්ගේ පක්ෂ විසින් දැඩි උනන්දුවකින් බලා සිටින අවස්ථාවක දී ජනාධිපති රනිල් වික්‍රමසිංහ නායකත්වය දරණ එක්සත් ජාතික පක්ෂයේ මහලේකම් පාලිත රංගේබණ්ඩාර විසින් 2024 මැයි 28 පැවති මාධ්‍ය හමුවක දී ප්‍රකාශ කළේ ජනාධිපතිවරණය වසර දෙකකට කල් දැමිය යුතු බවත්, ඒ සඳහා පාර්ලිමේන්තුවේ පක්ෂ සියල්ල සහය දිය යුතු බවත් ය.
+
+එම ප්‍රකාශය කිරීමත් සමඟ මේ වන විට ජනාධිපතිවරණය කල් දැමීම පිළිබඳ දැඩි කතාබහක් නිර්මාණය වී ඇති අතර බොහෝ දෙනා එය ප්‍රජාතන්ත්‍ර විරෝධී ප්‍රකාශයක් බවට අදහස් දක්වා තිබේ.
+
+දේශපාලන පක්ෂ රැසක් ද මේ සම්බන්ධයෙන් අදහස් දක්වා ඇති අතර සිවිල් සංවිධාන කිහිපයක් ද මෙම ප්‍රකාශය හෙලා දැක් තිබේ.
+
+...
+
+[Data](articles/8bdbe993.json)
+
+---
+
 ### Adverse weather conditions to ease
 
 *2024-05-29 12:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Adverse-weather-conditions-to-ease/108-283606) · `en`
@@ -2061,223 +2249,5 @@ Lansa has expressed this view following the calling of the United National Party
 [Data](articles/6230c52b.json)
 
 [Extended Data](ext_articles/6230c52b.ext.json)
-
----
-
-### Court further prevents Maithripala from running SLFP
-
-*2024-05-29 11:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Court-further-prevents-Maithripala-from-running-SLFP/108-283601) · `en`
-
-Colombo, May 29 - The Colombo District Court today further extended its enjoining order preventing former President Maithripala Sirisena from functioning as the chairman of the Sri Lanka Freedom Party (SLFP), until June 12.
-
-Colombo District Court Judge Sandun Vithana made this order pursuant to a lawsuit filed by former President Chandrika Bandaranaike Kumaratunga.
-
-◼️
-
-[Data](articles/0b93fe7b.json)
-
-[Extended Data](ext_articles/0b93fe7b.ext.json)
-
----
-
-### Extension
-
-*2024-05-29 11:22:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மைத்திரிக்கு-எதிரான-தடை-நீட்டிப்பு/175-338077) · `ta`
-
-Colombo District Court has lifted the ban on Maithripala Sirisena leading SLFP, overturning Chandrika Bandaranaike Kumaratunga's complaint.
-
-🟩
-
-The Colombo District Court has ordered that the ban on former President Maithripala Sirisena's act as the leader of the Sri Lanka Freedom Party (SLFP).
-
-The complaint lodged by former President Chandrika Bandaranaike Kumaratunga was taken up again today in the presence of Colombo District Judge Chandun Vidhan.
-
-Former President Maithripala Sirisena has no legal right to act as the party leader of the Sri Lanka Freedom Party (SLFP).
-
-Accordingly, Chandrika has submitted this complaint demanding an injunction to prevent Maithripala Sirisena from working in the post.
-
-◼️
-
-[Data](articles/57419bfb.json)
-
-[Extended Data](ext_articles/57419bfb.ext.json)
-
----
-
-### What happened to Vijitha, who was signing for 23 years when a woman was 23 years old
-
-*2024-05-29 11:21:31* · [`adalk`](https://www.ada.lk/breaking_news/ස්ත්‍රියක්-අපයොජනය-කොට-වසර-23ක්-සැගව-සිටි-විජිතට-අවසානයේ-සිදුවූ-දේ/11-409886) · `si`
-
-Vijitha Lakmal, a sign language interpreter for 23 years, was arrested in 2010 by the Mudurankuliya Police for a serious crime. After being held in custody, she was released from prison but later re-arrested by the Kandatalama police division. She was expected to appear in court on the 29th after her arrest.
-
-🟩
-
-The Kandatalama police division of the Mundalama police division in 2010 was arrested by the Mudurankuliya Police on Monday on the 28th of this month.
-
-The arrest is a person named Vijitha Lakmal, a resident of Madurankuliya, Wellawatte.
-
-The suspect was arrested and produced before courts in 2010 and was produced before the courts in 2010 and was produced before the courts in 2010 and was taken into custody.
-
-The case and the man who had been examined in the case and the judiciary has been given a serious key prison for a serious stage.
-
-The person facing the case was now free of prison. Accordingly, the courts in the country had come to Sri Lanka a few days before the country's Sagashi, in the country and was arrested by the court that the judiciary wanted in his own home by the operation of Madurankuliya Police. The suspect is due to appear before courts today (29).
-
-◼️
-
-[Data](articles/c4d35c4a.json)
-
-[Extended Data](ext_articles/c4d35c4a.ext.json)
-
----
-
-### Permanent residence for persons of Sri Lanka descent, foreign spouses
-
-*2024-05-29 11:19:00* · [`economynextcom`](https://economynext.com/permanent-residence-for-persons-of-sri-lanka-descent-foreign-spouses-165234/) · `en`
-
-ECONOMYNEXT – Persons of Sri Lanka descent, including those who have renounced their citizenship, and foreign spouses would be able to get permanent residence status, under regulations gazetted by the ministry of public security.
-
-A person of Sri Lankan descent or “whose citizenship of sri Lanka has ceased under sections 19, 20 or 21 of the Citizenship Act” as well as a foreign spouse would be eligible to apply after six months of marriage under the new regulations.
-
-However, if the marriage is dissolved before 5 years, the PR status would automatically cease.
-
-A person of Sri Lanka descent is someone whose parents, grand parents or great grand parents were born in or are still citizens of the island.
-
-A fee of 1,000 dollars would be charged. Children would also be allowed PR status at 400 dollars.
-
-Ex-Sri Lankans earlier had to apply for dual citizenship, which was not allowed by some countries.
-
-Sri Lanka’s PR status allows persons to work, run businesses, buy or inherit property.
-
-...
-
-[Data](articles/49b8d6bd.json)
-
-[Extended Data](ext_articles/49b8d6bd.ext.json)
-
----
-
-### A Matter Of Scale
-
-*2024-05-29 11:17:08* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/a-matter-of-scale/) · `en`
-
-The on-going “Yukthiya” program, launched by the Police and covered by the news services, show the astonishing incidence of organized crime. Apart from the stunning disclosures, and an understandable sense of relief, there is the nagging and troubling question, of how and why these crime syndicates escaped the attention of the relevant authorities, as part of their normal duties? An alarmed and threatened citizenry, welcome this attempt to restore long-overdue security. If the same zeal and enthusiasm is pursued without interference, it would be a support to develop a comfortably secure society.
-
-...
-
-[Data](articles/28e0ea81.json)
-
-[Extended Data](ext_articles/28e0ea81.ext.json)
-
----
-
-### Sri Lanka new employment act will not prevent age discrimination: minister
-
-*2024-05-29 11:17:00* · [`economynextcom`](https://economynext.com/sri-lanka-new-employment-act-will-not-prevent-age-discrimination-minister-165230/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s new employment act that is being drafted will not include provisions against discrimination based on age, Minister of Labour and Foreign Employment Manusha Nanayakkara said.
-
-“Ages it can be decide by the employer,” Nanayakkara said when asked about job advertisements that specify age.
-
-Sri Lanka is working on a revised employment act, which would address discrimination based on gender and sexual orientation.
-
-“Right now, it’s [with] the legal draftsman,” Nanayakkara said. “We are planning on sending it this month before election.”
-
-Nanayakkara said the new act would regulate workers in the informal sector.
-
-““From this new employment act there is no such a burden for ladies, gents, LGBTIQ, anyone can go for any job and there will be no restriction for any,” Nanayakkara said.
-
-However, the ministry of public administration has advertised that employees wishing to join the ministry ‘should be not more than 45 years of age.’ (Colombo/May29/2024)
-
-◼️
-
-[Data](articles/187f0a84.json)
-
-[Extended Data](ext_articles/187f0a84.ext.json)
-
----
-
-### Suspect arrested while transporting 1kg of ‘Ice’ in Mannar
-
-*2024-05-29 11:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/99504/-suspect-arrested-while-transporting-1kg-of-ice-in-mannar) · `en`
-
-An individual has been arrested while transporting a stock of ‘Ice’ drugs, also known as Crystal Methamphetamine, on a motorcycle at South Bar, Mannar.
-
-The raid was conducted based on a tip-off received by the officers of the Mannar Division Crimes Bureau, police said
-
-One kilogram of ‘Ice’ drugs was found in the possession of the arrested suspect.
-
-The 44-year-old arrestee is a resident of South Bar, Mannar while further investigations are being carried out by the Mannar Police.
-
-◼️
-
-[Data](articles/2ff04ae5.json)
-
-[Extended Data](ext_articles/2ff04ae5.ext.json)
-
----
-
-### US billionaire plans submersible trip to Titanic wreck
-
-*2024-05-29 11:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/US-billionaire-plans-submersible-trip-to-Titanic-wreck/107-283599) · `en`
-
-BBC - A US luxury real estate billionaire and a deep-sea explorer are planning to travel in a submersible to explore the Titanic.
-
-Ohio tycoon and adventurer Larry Connor and Patrick Lahey, co-founder of Triton Submarines, say they want to take a sub to a depth of around 3,800m (12,467ft) to see the shipwreck in the North Atlantic Ocean.
-
-The private submersible industry was rocked after five people were killed when a vessel built by OceanGate imploded en route to the Titanic last year.
-
-A spokesman for Mr Connor’s company said on Tuesday that the proposed voyage would only take place once a vessel was fully certified by a marine organisation.
-
-The pair plan to use a sub dubbed the Triton 4000/2 Abyssal Explorer – the “4000” refers to the depth in metres to which the craft can safely be deployed.
-
-The Titan submarine built by OceanGate was constructed of carbon fibre and was only certified to 1,300m, far short of the depths of the ocean floor where the Titanic wreck lay.
-
-...
-
-[Data](articles/10b6323c.json)
-
-[Extended Data](ext_articles/10b6323c.ext.json)
-
----
-
-### Will come to Anura court
-
-*2024-05-29 11:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197148) · `si`
-
-The leader of the National Freedom Front (NFF) arrives in Colombo District Court to testify in a trial.
-
-🟩
-
-Leader of the National Freedom Front (NFF) has arrived in the Colombo District Court to testify a trial.
-
-◼️
-
-[Data](articles/e41e23e0.json)
-
-[Extended Data](ext_articles/e41e23e0.ext.json)
-
----
-
-### Due to decreasing fishing: Increase in meat prices
-
-*2024-05-29 10:59:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீன்பிடித்தல்-குறைந்ததால்-இறைச்சி-விலைகள்-அதிகரிப்பு/175-338075) · `ta`
-
-Due to decreased fishing caused by rough seas, meat prices, especially chicken, have risen. The Meteorological Department advised against fishing due to safety concerns, leading to a shortage of fish and subsequent increase in meat prices.
-
-🟩
-
-The National Consumer Front said the price of meat, including poultry, has increased due to decreasing fishing.
-
-The price of fish has risen as the Meteorological Department has advised not to fish due to sea rage.
-
-It has been reported that the seas around the country are turbulent and the fishermen and naval communities should not go out until the re -notice.
-
-Thus, local meat prices have increased.   அதன்படி, நாரஹேன்பிட்டி பொருளாதார மத்திய நிலையத்தில் ஒரு கிலோ கிராம் புதிய கோழி  1,080. Are rupees
-
-◼️
-
-[Data](articles/7712422b.json)
-
-[Extended Data](ext_articles/7712422b.ext.json)
 
 ---

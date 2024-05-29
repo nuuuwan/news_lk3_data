@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-29 08:00:18**
+As of **2024-05-29 08:12:29**
 
 ## Newspaper Stats
 
-*Scraped **26,964** Articles*
+*Scraped **26,970** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,97 @@ bbccomsinhala | 268
 newsfirstlk | 363
 islandlk | 1,463
 economynextcom | 1,540
-dailyftlk | 1,590
+dailyftlk | 1,591
 adalk | 2,294
-adaderanalk | 3,075
+adaderanalk | 3,076
 tamilmirrorlk | 3,161
 virakesarilk | 4,137
-dailymirrorlk | 4,250
-adaderanasinhalalk | 4,320
+dailymirrorlk | 4,251
+adaderanasinhalalk | 4,323
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,962 (100.0%) of 26,964 articles have been extended.
+26,962 (100.0%) of 26,970 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-29 (Wednesday)
+
+### අවදානම් ගස්වල වගකීම එහි හිමිකරුවන් බාරගතයුතු බවට නිවේදනයක්
+
+*2024-05-29 07:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197138) · `si`
+
+අවදානම් සහිත ගස් පිහිටා ඇති පෞද්ගලික හා රජයේ ඉඩම්වල හිමිකරුවන් සඳහා අද (29) සිට නීතිමය නිවේදන නිකුත් කිරීමට නියමිතව තිබේ.
+
+ඒ සඳහා අදාළ පියවර ගන්නා බව ද කොළඹ නාගරික කොමසාරිස් භද්‍රානි ජයවර්ධන මහත්මිය පවසන්නීය.
+
+"පෞද්ගලික ඉඩම් සහ රජයේ ආයතනවල ගස් වැටීමට ලක්විය හැකි බවට අපට පැමිණිලි ලැබෙනවා. යම්කිසි ඉඩමක අයිතිකරුවෙක් ඉන්නවා නම් රාජ්‍ය ආයතනයක් පුද්ගලික ආයනයක් හෝ නිවැසියන් ඒ අයට අයිතියක් තියෙනවා තමන්ගේ ඉඩම තුළ තියෙන සියලු දේපොළ ගැන ආරක්ෂාව සහ වගකීම. මේ අනුව ඒ ඉඩම්වල තියෙන ගස් පිළිබඳවත් ඔවුන්ට වගකීම පැවරෙනවා. එහෙම අනාරක්ෂිතව තියෙනවා නම් ඇත්තටම ඒක වරදක්. අපි මහනගර සභා ආඥා පනත අනුව කොහොම ද මේ නීතිමය නිවේදනය නිකුත් කරන්නේ, කියලා අධ්‍යයනය කළා. ඒ අනුව අපි අද දවසේ නිකුත් කරනවා අනතුරුදායක ගස් පිහිටා ඇති ආයතන හා පුද්ගලික නිවාසවලට මෙම ගස් ඉවත් කිරීම හා ඒ අනතුර වළක්වා ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස."
+
+◼️
+
+[Data](articles/ce55d10b.json)
+
+---
+
+### Heavy showers expected in parts of the island
+
+*2024-05-29 07:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/99500/heavy-showers-expected-in-parts-of-the-island) · `en`
+
+The prevailing showery and windy conditions over the island are expected to continue further, due to the active Southwest monsoonal condition, says the Meteorology Department.
+
+Showers will occur at times in Western, Sabaragamuwa, Central, North-western and Southern provinces.
+
+Heavy showers above 100mm are likely at some places in Western and Sabaragamuwa province and in Nuwara-Eliya district.
+
+Showers or thundershowers will occur at a few places in Uva province and in Ampara and Batticaloa districts in the evening or night.
+
+Strong winds of about 50-60 kmph can be expected at times over Western slopes of the central hills and in Northern, North-central, Western, Southern and North-western provinces and in Trincomalee and Monaragala districts.
+
+The sea areas around the island will be very rough due to the active south-west monsoonal condition. Naval and fishing communities are advised not to venture into the sea areas around the island, until further notice.
+
+...
+
+[Data](articles/b3cf8b3a.json)
+
+---
+
+### ග්‍රාම නිලධාරී වැටුප් ගැටලුවට සාගලගෙන් විසඳුමක්
+
+*2024-05-29 07:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197137) · `si`
+
+රාජ්‍ය සේවයේ අනෙකුත් සේවාවන් සමඟ ගැටීමක් ඇති නොවන ආකාරයට ග්‍රාම නිලධාරී සේවයේ පවතින ගැටලු සඳහා ලබා දිය හැකි විසඳුම් ඉදිරිපත් කරන ලෙස ජාතික ආරක්ෂාව පිළිබඳ ජනාධිපති ජ්‍යේෂ්ඨ උපදේශක හා ජනාධිපති කාර්ය මණ්ඩල ප්‍රධානි සාගල රත්නායක මහතා අදාළ නිලධාරීන්ට උපදෙස් ලබා දී තිබේ.
+
+ජනාධිපති මාධ්‍ය අංශය සඳහන් කළේ, එමෙන්ම පවතින ගැටලු සාකච්ඡා කර පොදු එකඟතාවකට පැමිණීමට කටයුතු කරන ලෙසද නිලධාරීන්ට උපදෙස් ලබා දී ඇති බවය.
+
+ග්‍රාම නිලධාරී සේවයේ පවතින ගැටලු පිළිබඳව ග්‍රාම නිලධාරී වෘත්තීය සමිති සම්මේලනය හා අදාළ රේඛීය ආයතනවල නිලධාරීන් සමඟ ජනාධිපති කාර්යාලයේදී පැවති සාකච්ඡාවකට එක්වෙමින් සාගල රත්නායක මහතා මෙම උපදෙස් ලබා දී තිබේ.
+
+ග්‍රාම නිලධාරී සේවා ව්‍යවස්ථාව පිළිබඳව ඇති ගැටලු මෙන්ම වැටුප් තලය සම්බන්ධයෙන් පැන නැගී ඇති ගැටලු පිළිබඳවද මෙහිදී දීර්ඝ වශයෙන් සාකච්ඡාවට ලක්කර තිබේ.
+
+මෙහිදී ග්‍රාම නිලධාරී වෘත්තීය සමිති සම්මේලනය පවසා ඇත්තේ, ග්‍රාම නිලධාරී සේවයේ උසස් වීම් පිළිබඳව ගැටලු රැසක් මතුවී ඇති බැවින් ඒවා විසඳමින් සේවා ව්‍යවස්ථාව කෙටුම්පත් කළ යුතු බවය.
+
+...
+
+[Data](articles/0a5f3b2d.json)
+
+---
+
+### විශ්වවිද්‍යාල අනධ්‍යයන සේවකයින්ගේ වැඩවර්ජනය තවදුරටත්
+
+*2024-05-29 07:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197136) · `si`
+
+විශ්වවිද්‍යාල අනධ්‍යයන සේවකයන් ආරම්භ වැඩවර්ජනය තවදුරටත් අඛණ්ඩව ක්‍රියාත්මක කරන බව විශ්වවිද්‍යාල අනධ්‍යයන සේවක සංගමය පවසයි.
+
+එහි සම සභාපති, ධම්මික එස්. ප්‍රියන්ත මහතා සඳහන් කළේ කමිටු පත්කිරීමෙන් පමණක් මෙම ගැටලුවට විසඳුම් සෙවිය නොහැකි බවය.
+
+"අපි බලාපොරොත්තු වුණා වැඩවර්ජනයේ යෙදෙන පාර්ශවය විදියට වසර ගණනාවක් පුරා විශ්වවිද්‍යාල පද්ධතියේ ඇදෙන ගැටලුව සඳහා විසඳුම් ලබාගැනීමට අමාත්‍ය මණ්ඩලය වෙත යොමුකරන ලද අමාත්‍ය මණ්ඩල සංදේශ දෙකට යහපත් ප්‍රතිචාරයක් ලැබෙයි කියලා. මේ සම්බන්ධයෙන් නිල පිළිතුරක් අපට තවමත් ලැබිලා නෑ. අපිට ආරංචි විදියට මේ සඳහා තවත් කමිටුවක් පත්කරපු බවක් තමා දැනගන්න ලැබෙන්නේ. එම නිසා අපි ඉතා ඕනෑකමින් රජයට කියන්න ඕනේ, විශ්වවිද්‍යාල සේවකයින් මේ අරගලයට අවතීර්ණ වෙලා දින 27 තිස්සේ වැඩවර්ජනයක් කළේ තවත් කමිටුවක් පත්කරගන්න නෙමෙයි. මේ කමිටු වාර්තා තුළින් මේ ඉල්ලීම් සාධාරණයි කියලා පිළිගෙන තියෙනවා. තවත් කමිටුවක් පත්කිරීම කාලය කා දැමීමක්. රජය පාර්ශවයෙන් තවමත් අපිට පිළිතුරක් ලැබිලා ඒ නිසා වෘත්තීය ක්‍රියාමාර්ගය අඛණ්ඩව ක්‍රියාත්මක කිරීමට වෘත්තීය සමිති නායකයින් ඒකමතික තීරණයකට එළැඹිලා තියෙනවා."
+
+◼️
+
+[Data](articles/eac492a2.json)
+
+---
 
 ### Showers over 100 mm, including Western and Sabaragamuwa
 
@@ -55,6 +129,24 @@ At times, in the West in the central hills, the North, North Central, Western, S
 [Data](articles/92a0a17c.json)
 
 [Extended Data](ext_articles/92a0a17c.ext.json)
+
+---
+
+### President asserts no polls postponement
+
+*2024-05-29 06:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/President-asserts-no-polls-postponement/155-283569) · `en`
+
+- Parliamentarians from all parties desperately attempted to reach the President to seek more clarity on this statement
+
+- It was nothing but a personal statement by Range Bandara-Ravi
+
+Chaos erupted among the political circles last evening after a statement was made by UNP General Secretary Palitha Range Bandara, stating that a proposal would be brought to Parliament to postpone the presidential and parliamentary elections, with parliamentarians from all parties rejecting the move and calling for an immediate response from the President.
+
+In fact, by last evening, President Wickremesinghe began receiving calls from several Parliamentarians, including the opposition, to seek more clarity on the statement, with the President finally having to distance himself from it stating that there was no such move to delay the polls.
+
+...
+
+[Data](articles/42d5d552.json)
 
 ---
 
@@ -785,6 +877,22 @@ He said the Tamils ​​should apologize to the Tamils ​​for banning the sh
 [Data](articles/bbd6774f.json)
 
 [Extended Data](ext_articles/bbd6774f.ext.json)
+
+---
+
+### Is the Swiss auction legally valid?
+
+*2024-05-29 00:15:06* · [`dailyftlk`](https://www.ft.lk/columns/Is-the-Swiss-auction-legally-valid/4-762274) · `en`
+
+We need to welcome foreign investment in meeting our energy demands and not subject them to selective outage
+
+Recently, Minister of Power and Energy Kanchana Wijesekara took to X, formally known as Twitter, to announce the conclusion of intense negotiation between the Government and Adani Group. Under this, the country will purchase power from wind plants built by the latter at 8.26 US cents a kilowatt hour for 20 years, to be paid in LKR on the prevailing exchange rate at the time of payment. “On the current exchange rate considered as, 1 USD = Rs 300, the cost of energy will be Rs 24.78 per kWh. The current average cost of energy in SL is Rs 39.02 per kWh,” the minister added on X.
+
+India’s Adani group has proposed to invest about $ 740 million in the country to set up two wind power projects with a cumulative generation capacity of 484 MW. The tariff is by far the best the country has seen, as is evident from the given table.
+
+...
+
+[Data](articles/301e88b9.json)
 
 ---
 
@@ -2119,137 +2227,5 @@ The State Minister also revealed that the police had obtained statements from 30
 [Data](articles/a014c8cf.json)
 
 [Extended Data](ext_articles/a014c8cf.ext.json)
-
----
-
-### President directs to deliver immediate relief to victims of adverse weather
-
-*2024-05-28 17:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/99495/president-directs-to-deliver-immediate-relief-to-victims-of-adverse-weather) · `en`
-
-President Ranil Wickremesinghe instructed officials to provide immediate relief to those affected by the recent inclement weather and to continue these efforts until the situation improves, the PMD reported.
-
-According to the Disaster Management Centre (DMC), eight deaths have been reported across the island as of yesterday (27). Seven people died in accidents caused by strong winds, and one person died in a boat capsizing incident.
-
-The President also directed that compensation be provided to the families of the deceased. The Disaster Management Centre will provide Rs. 250,000 for each victim, with an advance payment of Rs. 25,000 already arranged.
-
-As of yesterday (27), 42,640 people belonging to 11,326 families have been affected by the inclement weather conditions.
-
-The President instructed the Disaster Management Centre to ensure all necessary facilities are provided, with special attention to health and hygiene of the affected.
-
-◼️
-
-[Data](articles/7ee9d4a1.json)
-
-[Extended Data](ext_articles/7ee9d4a1.ext.json)
-
----
-
-### Female gardener killed in tree
-
-*2024-05-28 17:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/184713) · `ta`
-
-A female plantation worker tragically fell into a tree in Kahawatte, Ratnapura, leading to her death.
-
-🟩
-
-A female plantation worker has died after falling into a tree on No. 03, Kahawatte, Ratnapura.
-
-◼️
-
-[Data](articles/8fc33c34.json)
-
-[Extended Data](ext_articles/8fc33c34.ext.json)
-
----
-
-### No post for election post - Namal
-
-*2024-05-28 17:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197123) · `si`
-
-Namal Rajapaksa criticizes extending presidential and parliamentary terms, arguing it undermines democracy by diverting from its core principles. He emphasizes that stability should stem from public will, not just their voices.
-
-🟩
-
-Namal Rajapaksa says that decoration is not good for democracy.
-
-The National Organizer of the Sri Lanka General Manager, MP Namal Rajapaksa, a letter to the President, says that the extension of the President's and parliament is that the devotion of the President and Parliament are harmed by the basic principles of a democratic society.
-
-Namal Rajapaksa says that stability should be caused by the will of people, not their voice.
-
-◼️
-
-[Data](articles/b689aaa0.json)
-
-[Extended Data](ext_articles/b689aaa0.ext.json)
-
----
-
-### The Tamil nationalist race should be advanced against the risks on the goal of the target - Sreedharan
-
-*2024-05-28 17:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/184690) · `ta`
-
-Sivagnanam Sreedharan, a parliamentarian, urges the Tamil nationalist movement to confront challenges aimed at its goals. He criticizes the Sri Lankan government's attempts to impose Sinhalese culture and symbols, affecting Tamil language and cultural practices. Despite internal divisions within his party, he supports the federal decision from 2002 and calls for resistance against cultural assimilation efforts.
-
-🟩
-
-Parliamentarian Sivagnanam Sreedharan has said that the Tamil nationalist race should progress against the risks on his goal.
-
-He made the matter at a media briefing held at his party office in Kilinochchi on Tuesday (28).
-
-In the final war, when the Sri Lankan government had been armed and hungry, the police arrested the police when the people were spontaneously spontaneously spontaneously supplied by the people in the face of the Kanji.
-
-When the university students were porridge, it was tapped with sapattu legs.
-
-After 2009, it is thus imposed. A unique race of Tamils ​​has the language and cultural methods of worship. The Government of Sri Lanka is seeking to impose Sinhala symbols and Sinhala cultural systems through the forces here.
-
-This time it was made openly. In doing so, our people have forgotten themselves.
-
-...
-
-[Data](articles/1f479222.json)
-
-[Extended Data](ext_articles/1f479222.ext.json)
-
----
-
-### Sri Lanka rupee closes weaker at 301.70/302.30 to US dollar
-
-*2024-05-28 17:16:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-weaker-at-301-70-302-30-to-us-dollar-165109/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee depreciated to close at 301.70/302.30 to the US dollar on Tuesday, from 300.50/70 the previous week, dealers said. Bond yields were broadly steady.
-
-A bond maturing on 15.12.2026 closed stable at 9.90/10.05 percent.
-
-A bond maturing on 15.09.2027 closed up at 10.30/55 percent from 10.30/40 percent.
-
-A bond maturing on 01.07.2028 closed up at 10.90/11.00 percent from 10.80/95 percent.
-
-A bond maturing on 15.01.2030 closed stable at 11.60/80 percent.
-
-A bond maturing on 01.10.2032 closed at 11.85/12.00 percent from 11.85/12.05 percent. (Colombo/May28/2024)
-
-◼️
-
-[Data](articles/55109937.json)
-
-[Extended Data](ext_articles/55109937.ext.json)
-
----
-
-### 60th session of International Coconut Community to be held in Sri Lanka
-
-*2024-05-28 17:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/60th-session-of-International-Coconut-Community-to-be-held-in-Sri-Lanka/108-283534) · `en`
-
-Colombo, May 28 (Daily Mirror) - The 60th Session and Ministerial Meeting of the International Coconut Community are proposed to be held in Sri Lanka this year.
-
-Cabinet Minister Bandula Gunawardana said today that the International Coconut Community meeting will be held in Sri Lanka to achieve the objectives of increasing foreign exchange earnings, promoting the Sri Lankan coconut industry among member countries, and improving cooperation among key stakeholders in the coconut sector.
-
-Accordingly, the session and ministerial meeting will be held in Colombo in November this year using the income earned by the Coconut Development Authority and the contributions of several private institutions in the coconut sector.
-
-◼️
-
-[Data](articles/6c71d595.json)
-
-[Extended Data](ext_articles/6c71d595.ext.json)
 
 ---

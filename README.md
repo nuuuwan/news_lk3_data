@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-29 11:18:29**
+As of **2024-05-29 11:34:10**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,332
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,006 (100.0%) of 27,010 articles have been extended.
+27,010 (100.0%) of 27,010 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -52,35 +52,49 @@ The Titan submarine built by OceanGate was constructed of carbon fibre and was o
 
 [Data](articles/10b6323c.json)
 
+[Extended Data](ext_articles/10b6323c.ext.json)
+
 ---
 
-### අනුර අධිකරණයට එයි
+### Will come to Anura court
 
 *2024-05-29 11:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197148) · `si`
 
-නඩු විභාගයක සාක්ෂි දීම සඳහා ජාතික නිදහස් පෙරමුණේ නායක අනුර කුමාර දිසානායක මහතා කොළඹ දිසා අධිකරණයට පැමිණ තිබේ.
+The leader of the National Freedom Front (NFF) arrives in Colombo District Court to testify in a trial.
+
+🟩
+
+Leader of the National Freedom Front (NFF) has arrived in the Colombo District Court to testify a trial.
 
 ◼️
 
 [Data](articles/e41e23e0.json)
 
+[Extended Data](ext_articles/e41e23e0.ext.json)
+
 ---
 
-### மீன்பிடித்தல் குறைந்ததால்: இறைச்சி விலைகள் அதிகரிப்பு
+### Due to decreasing fishing: Increase in meat prices
 
 *2024-05-29 10:59:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீன்பிடித்தல்-குறைந்ததால்-இறைச்சி-விலைகள்-அதிகரிப்பு/175-338075) · `ta`
 
-மீன் பிடித்தல் குறைவதால், உள்ளூர் சந்தையில் கோழி உள்ளிட்ட இறைச்சி வகைகளின் விலை அதிகரித்துள்ளதாக தேசிய நுகர்வோர் முன்னணி தெரிவித்துள்ளது.
+Due to decreased fishing caused by rough seas, meat prices, especially chicken, have risen. The Meteorological Department advised against fishing due to safety concerns, leading to a shortage of fish and subsequent increase in meat prices.
 
-கடல் சீற்றம் காரணமாக மீன்பிடிக்க வேண்டாம் என வானிலை ஆய்வு மையம் அறிவுறுத்தியதால் மீன் விலை உயர்ந்துள்ளது.
+🟩
 
-நாட்டைச் சூழவுள்ள கடற்பரப்புகள் கொந்தளிப்புடன் காணப்படும் எனவும், மீனவ மற்றும் கடற்படை சமூகங்கள் மறு அறிவித்தல் வரை வெளியில் செல்லவேண்டாம் எனவும் தெரிவிக்கப்பட்டுள்ளது.
+The National Consumer Front said the price of meat, including poultry, has increased due to decreasing fishing.
 
-இதனால், உள்ளூர் இறைச்சி விலை   அதிகரித்துள்ளது.   அதன்படி, நாரஹேன்பிட்டி பொருளாதார மத்திய நிலையத்தில் ஒரு கிலோ கிராம் புதிய கோழி  1,080. ரூபாயாகும்
+The price of fish has risen as the Meteorological Department has advised not to fish due to sea rage.
+
+It has been reported that the seas around the country are turbulent and the fishermen and naval communities should not go out until the re -notice.
+
+Thus, local meat prices have increased.   அதன்படி, நாரஹேன்பிட்டி பொருளாதார மத்திய நிலையத்தில் ஒரு கிலோ கிராம் புதிய கோழி  1,080. Are rupees
 
 ◼️
 
 [Data](articles/7712422b.json)
+
+[Extended Data](ext_articles/7712422b.ext.json)
 
 ---
 

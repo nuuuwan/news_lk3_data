@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-29 12:51:38**
+As of **2024-05-29 13:04:02**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,335
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,037 (100.0%) of 27,039 articles have been extended.
+27,039 (100.0%) of 27,039 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ The 2023 G.C.E. Advanced Level Examination was held from January 04 to 31, 2024 
 ◼️
 
 [Data](articles/68ec78db.json)
+
+[Extended Data](ext_articles/68ec78db.ext.json)
 
 ---
 
@@ -408,21 +410,29 @@ Accordingly, Chandrika has submitted this complaint demanding an injunction to p
 
 ---
 
-### ස්ත්‍රියක් අපයොජනය කොට වසර 23ක් සැගව සිටි විජිතට අවසානයේ සිදුවූ දේ
+### What happened to Vijitha, who was signing for 23 years when a woman was 23 years old
 
 *2024-05-29 11:21:31* · [`adalk`](https://www.ada.lk/breaking_news/ස්ත්‍රියක්-අපයොජනය-කොට-වසර-23ක්-සැගව-සිටි-විජිතට-අවසානයේ-සිදුවූ-දේ/11-409886) · `si`
 
-2010 වසරේදී මුන්දලම පොලිස් වසමට අයත් කන්දතොඩුවාව  ප්‍ර දේශයට නුදුරු ස්ථානයකදී පුද්ගලයින් දෙදෙනෙකු සමග එකතුව ස්ත්‍රියක බලහත්කාරයෙන් අපයොජනය කිරීමේ වරදට පුත්තලම අධිකරණයේ විභාගය වෙමින් තිබූ නඩුවක් මග හරිමින් ඕස්ට්‍රේලියාවට පැනගොස් නැවත දිවයිනට පැමින සිටි පුද්ගලයෙකු 28දා මුදුරන්කුලිය පොලීසිය විසින් අත්අඩංගුවට ගෙන ඇත.
+Vijitha Lakmal, a sign language interpreter for 23 years, was arrested in 2010 by the Mudurankuliya Police for a serious crime. After being held in custody, she was released from prison but later re-arrested by the Kandatalama police division. She was expected to appear in court on the 29th after her arrest.
 
-මෙසේ අත්අඩංගුවටපත්ව ඇත්තේ මදුරන්කුලිය, වැල්ලවත්ත පදිංචි විජිත ලක්මාල් නැමති පුද්ගලයෙකි.
+🟩
 
-අත්අඩංගුව පත් පුද්ගලයා සමග ඔහුගේ මිතුරකු සමග එකතුව 2010 වසරේදී කන්දතොඩුවාව  ප‍්‍රදේශයට නුදරු ස්ථානයකදී ස්ත්‍රියක් බලයෙන් පැහැරගෙන ගොස් අපයොජනය කිරීම සම්බන්ධයෙන් අදාල සැකකරුවන් දෙදෙනාම අත්අඩංගුවට ගෙන අධිකරණයට ඉදිරිපත් කිරීමෙන් අනතුරුව බන්ධනාගාර ගතව සිට අනුතුරුව ඇපලබා නඩුව විභාගය වෙමින් තිබියදී සැකකරු  අධිකරණය මග හැර රටින් පිටව ගොස් ඇත .
+The Kandatalama police division of the Mundalama police division in 2010 was arrested by the Mudurankuliya Police on Monday on the 28th of this month.
 
-අනතුරුව නඩුව ඒක පාරශිකව විභාගයකර නඩුවට ඉදිරිපත් වූ පුද්ගලයාට සහ අධිකරණය මග හැරිය පුද්ගලයාට වසර 17ක බරපතල වැඩසහිත සිරදඩුවමක් ලබාදී ඇත.
+The arrest is a person named Vijitha Lakmal, a resident of Madurankuliya, Wellawatte.
 
-...
+The suspect was arrested and produced before courts in 2010 and was produced before the courts in 2010 and was produced before the courts in 2010 and was taken into custody.
+
+The case and the man who had been examined in the case and the judiciary has been given a serious key prison for a serious stage.
+
+The person facing the case was now free of prison. Accordingly, the courts in the country had come to Sri Lanka a few days before the country's Sagashi, in the country and was arrested by the court that the judiciary wanted in his own home by the operation of Madurankuliya Police. The suspect is due to appear before courts today (29).
+
+◼️
 
 [Data](articles/c4d35c4a.json)
+
+[Extended Data](ext_articles/c4d35c4a.ext.json)
 
 ---
 

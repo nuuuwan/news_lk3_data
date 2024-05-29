@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-29 18:52:55**
+As of **2024-05-29 19:04:13**
 
 ## Newspaper Stats
 
-*Scraped **27,136** Articles*
+*Scraped **27,139** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,18 +15,18 @@ newsfirstlk | 363
 islandlk | 1,465
 economynextcom | 1,554
 dailyftlk | 1,591
-adalk | 2,305
+adalk | 2,306
 adaderanalk | 3,092
-tamilmirrorlk | 3,185
+tamilmirrorlk | 3,186
 virakesarilk | 4,173
 dailymirrorlk | 4,286
-adaderanasinhalalk | 4,347
+adaderanasinhalalk | 4,348
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,130 (100.0%) of 27,136 articles have been extended.
+27,136 (100.0%) of 27,139 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -52,6 +52,52 @@ Police said in addition to the post-mortem examination, forensic reports would a
 
 [Data](articles/7fbf84ef.json)
 
+[Extended Data](ext_articles/7fbf84ef.ext.json)
+
+---
+
+### වසර 3කට පසුව ගෙදර ගිය කාන්තාව අතරමදී මරුට
+
+*2024-05-29 18:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197163) · `si`
+
+වසර 3කට පසුව සිය නිවස වෙත යමින් සිටි කාන්තාවක් අවාසනාවන්ත ලෙස ජීවිතක්ෂයට පත්ව තිබේ.
+
+මෙලෙස මියගොස් ඇත්තේ පස්සර ප්‍රදේශයේ පදිංචිව සිටි 26 හැවිරිදි වියේ පසුවූ එක්දරු මවකි.
+
+ඇය වසර 03කට ආසන්න කාලයක් කුවේට් රාජ්‍යයේ සේවයේ නිරතව සිට පැමිණ යළි සිය නිවස වෙත යමින් සිටියදී මෙම අනතුර සිදුව තිබුණි.
+
+ඔවුන් ගමන්කරමින් තිබූ ත්‍රිරෝද රථය බස් රථයක ගැටීමෙන් පැල්මඩුල්ල ප්‍රදේශයේදී මෙම අනතුර සිදුව තිබුණි.
+
+ත්‍රිරෝද රථයේ ගැටුණු බස් රථය මාර්ගයෙන් ඉවතට පැන අඩි 15ක පමණ ප්‍රපාතයකට පෙරළී තිබුණි.
+
+මෙම අනතුරින් ත්‍රිරෝද රථයේ ගමන්කළ මියගිය කාන්තාව ඇතුලු මගීන් තිදෙනෙකුද තුවාල ලබා ඇති බව පොලීසිය පවසයි.
+
+තුවාලකරුවන් පැල්මඩුල්ල, කහවත්ත, සහ රත්නපුර රෝහල් වෙත ඇතුළත් කර ඇත.
+
+එහිදී බරපතළ තුවාල ලබා සිටි කාන්තාව අවාසනාවන්ත ලෙස මියගොස් තිබුණි.
+
+◼️
+
+[Data](articles/e5b869b9.json)
+
+---
+
+### ’கொதிக்கும்’ டெல்லி: 52.3 டிகிரி செல்சியஸ் வெப்ப நிலை பதிவு
+
+*2024-05-29 18:17:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொதிக்கும்-டெல்லி-52-3-டிகிரி-செல்சியஸ்-வெப்ப-நிலை-பதிவு/175-338117) · `ta`
+
+: தலைநகர் டெல்லியில் வரலாற்றில் இதுவரை இல்லாதவாறு 52.3 டிகிரி செல்சியஸ் என்ற அளவில் அதிகபட்ச வெப்ப நிலை பதிவாகியுள்ளது.
+
+கேரளாவில் தென்மேற்கு பருவமழை நாளை மறுதினம் தொடங்கவுள்ள நிலையில், நாட்டின் தலைநகர் டெல்லியில் கடுமையான வெப்ப அலை நிலவி வருகிறது. தலைநகர் டெல்லியில் வரலாற்றில் இதுவரை இல்லாதவாறு 52.3 டிகிரி செல்சியஸ் என்ற அளவில் அதிகபட்ச வெப்ப நிலை இன்று பதிவாகியுள்ளதாக இந்திய வானிலமை மையம் தெரிவித்துள்ளது.
+
+டெல்லி முன்கேஸ்பூர் பகுதியில் இந்த அளவுக்கு கடுமையான வெப்ப நிலை நிலவியதாக தெரிவிக்கப்பட்டுள்ளது. நேற்று 49.9 டிகிரி செல்சியஸ் என்ற அளவில் டெல்லியில் வெப்பநிலை பதிவானது குறிப்பிடத்தக்கது
+
+இதற்கிடையே, இன்று நிலவிய இந்த கடுமையான வெப்ப நிலை காரணமாக டெல்லியில் மின் தேவையும் உச்சத்தை எட்டியுள்ளது. டெல்லியின் மின் தேவை இன்று மட்டும் 8300 மெகாவாட் என்ற புதிய உச்சத்தை தொட்டது. இத்தனை மெகாவாட் மின்தேவை டெல்லியில் இதுவரை இருந்ததில்லை. இதுவே முதல்முறை என்று மின்வாரிய அதிகாரிகள் தெரிவித்துள்ளனர்
+
+◼️
+
+[Data](articles/52926753.json)
+
 ---
 
 ### SJB ready for debate even with government leaders
@@ -73,6 +119,20 @@ MP Harsha De Silva who referred to the proposed debate with the NPP said his par
 [Data](articles/9deb9820.json)
 
 [Extended Data](ext_articles/9deb9820.ext.json)
+
+---
+
+### වාහන ආනයනය ගැන මහ බැංකුවෙන් කොළ එළියක්
+
+*2024-05-29 18:01:04* · [`adalk`](https://www.ada.lk/breaking_news/වාහන-ආනයනය-ගැන-මහ-බැංකුවෙන්-කොළ එළියක්/11-409893) · `si`
+
+සංචිත කළමණාකරනය කර ගැන‍ිමට හැකියාවක් ඇති බවත් ඒ අනුව වාහන ආනයන ස‍‍ිමා ක්‍රමයෙන් ඉවත් කිර‍ිම වැදගත් බවත් මහ බැංකු අධිපති නන්දලාල් විරසිංහ මහතා ප්‍රකාශ කළේය.
+
+කෙසේවෙසත් එම තීරණය ගනු ඇත්‍තේ රජය බවත් රජය දැනටමත් සංචාරක ව්‍යාපාරයට අදාළව වාහන ගෙන්විම වෙනුවෙන් අවසර දී ඇති බවත් ඔහු පැවැසීය.
+
+◼️
+
+[Data](articles/fb661173.json)
 
 ---
 
@@ -116,21 +176,31 @@ The exit offer price is 240 rupees per share, the company said in a stock exchan
 
 ---
 
-### கொழும்பு விளையாட்டுப் போட்டியில் வெற்றி பெற்ற வீரர்களுக்கு சுப்பர் ஸ்டார் ரஜினிகாந்த் வாழ்த்து
+### Super Star Rajinikanth congratulates players who won the Colombo Games
 
 *2024-05-29 17:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/184811) · `ta`
 
-கொழும்புவில் இம்மாதம் 25 மற்றும் 26 ஆம் திகதிகளில் நடைபெற்ற 'பத்தாவது மாஸ்டர் அத்லெட்டிக் சாம்பியன்ஷிப் - ஸ்ரீலங்கா 2024' எனும் போட்டியில் இந்தியா சார்பில் பங்குபற்றி வெற்றி பெற்ற வீரர் மற்றும் வீராங்கனைகளுக்கு சுப்பர் ஸ்டார் ரஜினிகாந்த் வாழ்த்து தெரிவித்துள்ளார்.
+Super Star Rajinikanth congratulated Indian athletes Shenbagamoorthy, Suresh Kasinathan, Jesu Esther Queen, and R. Pramila for their achievements at the Tenth Master Athletic Championship in Colombo, Sri Lanka, on May 25-26, 2024. Shenbagamoorthy secured second in the 100m and third in the 200m races, while also winning the mixed series. Suresh Kasinathan led in the 100m and 200m runs and the mixed series. Esther Queen triumphed in the women's 100m race, long jump, and mixed series, and Pramila excelled in the 100m, long jump, and mixed series. The athletes had a personal meeting with Rajinikanth.
 
-2024 ஆம் ஆண்டிற்கான பத்தாவது மாஸ்டர் அத்லெட்டிக் சாம்பியன்ஷிப் போட்டி இலங்கை தலைநகர் கொழும்புவில் மே மாதம் 25 மற்றும் 26 ஆகிய இரண்டு திகதியில் நடைபெற்றது.  இதன் போது இந்தியாவிலிருந்து பங்கு பற்றிய வீரர் எம். செண்பகமூர்த்தி மற்றும் சுரேஷ் காசிநாதன், வீராங்கனைகள் ஜேசு எஸ்தர் ராணி மற்றும் ஆர். பிரமிளா ஆகியோர் பல்வேறு தடகள போட்டிகளில் வெற்றி பெற்றனர்.
+🟩
 
-இதில் எம். செண்பக மூர்த்தி 100 மீ  ஓட்டப்பந்தயத்தில் இரண்டாமிடத்தையும், 200 மீ ஓட்டப்பந்தயத்தில் மூன்றாமிடத்தையும், கலப்பு தொடர் ஓட்ட போட்டியில் முதலிடத்தையும் பெற்றார்.
+Super Star Rajinikanth has congratulated the winner and heroes of India on the 25th and 26th of this month in Colombo 'Tenth Master Athletic Championship - Sri Lanka 2024'.
 
-மற்றொரு வீரரான சுரேஷ் காசிநாதன் 100 மீ ஓட்டப்பந்தயத்தில் மூன்றாமிடத்தையும், 200 மீ ஓட்டப்பந்தயத்தில் மூன்றாமிடத்தையும், கலப்பு தொடர் ஓட்ட போட்டியில் முதலிடத்தையும் பிடித்தார்.
+The Tenth Master's Athletic Championships for 2024 were held on May 25 and 26 in the capital of Sri Lanka, Colombo.During this time, the player from India. Shenbagamoorthy and Suresh Kasinathan, Heroes Jesu Esther Queen and R. Pramila won various athletics.
+
+This includes M.. Shenbaga Murthy won second place in the 100m race, the 200m race was third and the first place in the mixed series.
+
+Another player, Suresh Kasinathan, topped the 100m run, the 200m race was third and the first place in the mixed series.
+
+Rani Esther Queen won the 100m race for women, third place in the 200m race, third place in the long jump and the first place in the mixed series.
+
+Another hero is r. Pramila topped the hundred meters of race, second in the long jump category and the first place in the mixed series.
 
 ...
 
 [Data](articles/eed7ffd1.json)
+
+[Extended Data](ext_articles/eed7ffd1.ext.json)
 
 ---
 
@@ -184,43 +254,69 @@ A bond maturing on 01.10.2032 closed down at 11.80/95 percent from 11.85/12.00 p
 
 ---
 
-### மிர்ச்சி சிவா நடிக்கும் 'சூது கவ்வும் 2' படத்தின் புதிய பாடல் வெளியீடு
+### Mirchi Siva starrer 'Sudu Kaavum 2' new song release
 
 *2024-05-29 17:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/184810) · `ta`
 
-நடிகர் மிர்ச்சி சிவா கதையின் நாயகனாக முதன்மையான கதாபாத்திரத்தில் நடித்திருக்கும் 'சூது கவ்வும் 2 ' எனும் திரைப்படத்தில் இடம் பெற்ற 'பேட் பாய்ஸ் மிஷன்' எனும் பாடலும், பாடலுக்கான லிரிக்கல் வீடியோவும் வெளியிடப்பட்டிருக்கிறது.
+Mirchi Siva stars in "Sudu Kaavum 2," featuring a new song titled "Bad Boys Mission." Directed by SJ. Mirchi Siva, it also includes performances from Harisha, Radha Ravi, Karunakaran, and more. Composed by Edwin Louis Viswanath, the song has been well-received online.
 
-இயக்குநர் எஸ்.ஜே. அர்ஜுன் இயக்கத்தில் உருவாகி இருக்கும் 'சூது கவ்வும் 2' எனும் திரைப்படத்தில் மிர்ச்சி சிவா, ஹரிஷா,  ராதாரவி, கருணாகரன், எம். எஸ். பாஸ்கர், கராத்தே கார்த்தி, ரகு, அருள் தாஸ், கல்கி உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். கார்த்திக் கே. தில்லை ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு எட்வின் லூயிஸ் விஸ்வநாத் இசையமைத்திருக்கிறார்.  இந்தத் திரைப்படத்தை திருக்குமரன் என்டர்டெய்ன்மென்ட் மற்றும் தங்கம் சினிமாஸ் ஆகிய பட நிறுவனங்கள் சார்பில் தயாரிப்பாளர்கள் சி. வி. குமார் மற்றும் தங்கராஜ் ஆகியோர் இணைந்து தயாரித்திருக்கிறார்கள்.
+🟩
 
-...
+Actor Mirchi Siva has been released in the film 'Bad Boys Mission' in the film 'Sudu Kaum 2' and the song of the song.
+
+Director SJ. Mirchi Siva, Harisha, Radha Ravi, Karunakaran, M. S.. Bhaskar, Karate Karthi, Raghu, Arul Das, Kalki and many others have played. Karthik. Edwin Louis Viswanath has composed the film, which has been recorded by Dilli.Producers C. V.. Kumar and Thangaraj are co -produced.
+
+With the release of the songs of the film, the new song 'Bad Boys Mission' and the song of the song has been released.Composer Edwin has written and sung this song. The song, which is released with the melody of the top music, is welcomed by the Internet generation.
+
+◼️
 
 [Data](articles/90832580.json)
 
+[Extended Data](ext_articles/90832580.ext.json)
+
 ---
 
-### உலக நாயகன்' கமல்ஹாசன் நடிக்கும் 'இந்தியன் 2' படத்தில் இடம்பெற்ற இரண்டாவது பாடல் வெளியீடு
+### The second song is featured in the movie 'Indian 2' starring Kamal Haasan
 
 *2024-05-29 17:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/184809) · `ta`
 
-'உலகநாயகன்' கமல்ஹாசன் நடிப்பில் தயாராகி இருக்கும் 'இந்தியன் 2' எனும் திரைப்படத்தில் இடம் பெற்ற இரண்டாவது பாடலும், பாடலுக்கான லிரிக்கல் வீடியோவும் வெளியிடப்பட்டிருக்கிறது. இந்தத் திரைப்படம் எதிர்வரும் ஜூலை மாதம் 12 ஆம் திகதியன்று உலகம் முழுவதும் பட மாளிகையில் வெளியாகிறது.
+"Indian 2," starring Kamal Haasan, releases its second song, "Neelapam," featuring lyrics and a musical video. Directed by Shankar, the film also stars Siddharth, Kajal Agarwal, and more. Set for release on July 12, it's produced by Subhaskaran under Leica Productions.
 
-இயக்குநர் ஷங்கர் இயக்கத்தில் உருவாகி இருக்கும் 'இந்தியன் 2' எனும் திரைப்படத்தில் 'உலகநாயகன்' கமல்ஹாசன், சித்தார்த், காஜல் அகர்வால், ரகுல் ப்ரீத் சிங், எஸ். ஜே. சூர்யா, பொபி சிம்ஹா, பிரியா பவானி சங்கர், பிரம்மானந்தம், சமுத்திரக்கனி, காளிதாஸ் ஜெயராம் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். ரவிவர்மன் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு அனிருத் இசையமைத்திருக்கிறார். எக்சன் என்டர்டெய்னராக தயாராகி இருக்கும் இந்த திரைப்படத்தை லைக்கா புரொடக்ஷன்ஸ் பட நிறுவனம் சார்பில் தயாரிப்பாளர் சுபாஸ்கரன் தயாரித்திருக்கிறார்.‌ இதனை ரெட் ஜெயன்ட் மூவிஸ் நிறுவனம் வழங்குகிறது.
+🟩
 
-...
+The second song and the lyrical video for the song has been released in the movie 'Indian 2' starring 'Kamal Haasan' Kamal Haasan.. The film will be released on July 12 at the film mansion worldwide.
+
+Directed by director Shankar, 'Indian 2', 'Lokayakan' Kamal Haasan, Siddharth, Kajal Agarwal, Rakul Preet Singh, S. J.. Surya, Bobi Simha, Priya Bhavani Shankar, Brahmanandam, Samudrakani, Kalidas Jayaram and many others have been cast. Anirudh has composed the film, which is being recorded by Ravi Varman. The film is being produced by producer Subhaskaran on behalf of Leica Productions Film Company.
+
+The first song featured in the film was released. In this case, the second song 'Neelapam ..' has been released and the lyrical video for the song has been released.The song, which begins with the song 'Lotus', the background singer V.. Abhi and playback singer Srutika Samudrala have sung.The song, which is combined with melodies and love, has attracted music fans.
+
+◼️
 
 [Data](articles/edf3c645.json)
 
+[Extended Data](ext_articles/edf3c645.ext.json)
+
 ---
 
-### புரட்சித் தமிழன்' சத்யராஜ் நடித்திருக்கும் 'வெப்பன்' திரைப்படத்தின் புதிய வெளியீட்டுத் திகதி அறிவிப்பு
+### Revolutionary Tamil 'Sathyaraj'
 
 *2024-05-29 17:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/184808) · `ta`
 
-தமிழ் திரையுலகில் நடிகராக அறிமுகமாகி, நாற்பத்தைந்து ஆண்டுகளை நிறைவு செய்திருக்கும் சத்யராஜ்.. இன்றும் பரபரப்பான நடிகராகவே செயல்பட்டு வருகிறார். தற்போது கூட சுப்பர் ஸ்டார் ரஜினிகாந்த் நடிப்பில் லோகேஷ் கனகராஜ் இயக்கத்தில் உருவாகும் 'கூலி' எனும் திரைப்படத்தில் நடிக்க ஒப்பந்தமாகி இருக்கிறார்.‌ இந்தத் தருணத்தில் அவர் அழுத்தமான வேடத்தில் நடித்திருக்கும் 'வெப்பன்' எனும் திரைப்படம் ஜூன் மாதம் ஏழாம் திகதியன்று உலகம் முழுவதும் திரையரங்குகளில் வெளியாகும் என பிரத்யேக புகைப்படத்தை வெளியிட்டு படக் குழுவினர் உற்சாகமாக அறிவித்திருக்கிறார்கள்.
+Sathyaraj, a legendary Tamil actor, marks his 45th year in the industry with the upcoming film 'Vaupan'. Directed by Gugan Chenniyappan, it features a star-studded cast including Vasant Ravi, who gained fame from 'Vettayan'. Despite production delays due to insufficient funding, the film's release on May 31st remains unchanged. Fans eagerly await the special photoshoot scheduled for June 7th.
+
+🟩
+
+Satyaraj has made his debut in the Tamil film industry and completed forty -five years.. He is still a thrilling actor today. Even Super Star Rajinikanth has been signed in the film 'Kuli' directed by Lokesh Kanakaraj.
+
+Directed by director Gugan Chenniyappan, 'Vaupan' starring 'Revolutionary Tamil' Sathyaraj, 'Illan Tamil' Vasant Ravi, Rajiv Menon, Rajiv Pillai, Yashika Anand, Mime Gopi, Kanika, Vinodini, Velu Prabhakaran and many others.. Prabhu Raghav has composed the film, which is being composed by Jibran Vaiboda.. S.. Mansur has produced.
+
+It was officially announced that the film will be released on May 31st and all the work of the film will be released.. The film is not as planned because of the lack of adequate film mansions and footage. Instead, the film crew has been excited about the release of a special photo of 'Vaupan', which will be released on the seventh of June.
 
 ...
 
 [Data](articles/4367ec33.json)
+
+[Extended Data](ext_articles/4367ec33.ext.json)
 
 ---
 
@@ -640,17 +736,23 @@ With the Sports Minister deciding to put off the NFSL elections, the regime of L
 
 ---
 
-### மாலபே, பொரலஸ்கமுவ, மாகும்புர ஆகிய நடுத்தர வர்க்க வீட்டுத் திட்டங்களை மீண்டும் ஆரம்பிக்க நடவடிக்கை - பிரசன்ன ரணதுங்க
+### Steps to resume middle -class housing schemes of Malabe, Boraleskamuwa and Makumbura - Prasanna Ranatunga
 
 *2024-05-29 16:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/184775) · `ta`
 
-கோவிட் மற்றும் பொருளாதார நெருக்கடி காரணமாக பாதியில் நிறுத்தப்பட்ட மாலப்பே, பொரலஸ்கமுவ மற்றும் மாகும்புர ஆகிய மத்தியதர வர்க்க வீட்டுத் திட்டங்களை மீள ஆரம்பிப்பதற்கான விசேட அமைச்சரவைப் பத்திரம் அமைச்சரவையில் சமர்ப்பிக்கப்பட்டுள்ளது. நகர அபிவிருத்தி மற்றும் வீடமைப்பு அமைச்சர் பிரசன்ன ரணதுங்க இதனை அமைச்சரவையில் முன்வைத்துள்ளார்.
+Prasanna Ranatunga, Minister of Urban Development and Housing, has submitted a cabinet paper to revive middle-class housing schemes in Malabe, Boralesgamuwa, and Makumbura, initially launched in February 2021. These projects, totaling around Rs. 5.4 billion, were paused due to financial constraints but are now set to resume based on a technical committee's report. The schemes aim to construct over 700 homes across the three locations, with significant funds already allocated and spent.
 
-இந்த மூன்று வீட்டுத் திட்டங்களும் 2021 பெப்ரவரியில் நகர அபிவிருத்தி அதிகாரசபையால் ஆரம்பிக்கப்பட்டது. மாலப்பே வீட்டுத்திட்டத்திற்காக ரூ. மில். 3148.80 ஒதுக்கப்பட்டது. இதில் 256 வீடுகள் நிர்மாணிக்கப்படவுள்ளது. பொரலஸ்கமுவ வீடமைப்பு திட்டத்திற்கு 120 வீடுகளை நிர்மாணிப்பதற்காக ஒதுக்கப்பட்ட தொகை ரூ. மில். 1476 ஆகும் மாகும்புர வீடமைப்புத் திட்டத்திற்கான மதிப்பிடப்பட்ட தொகை ரூ. மில். 3859 மற்றும் அங்கு நிர்மாணிக்கப்படும் வீடுகளின் எண்ணிக்கை 314 ஆகும்.
+🟩
+
+A special cabinet paper has been submitted to the Cabinet for the resumption of middle -class housing schemes of Malaphe, Boralesgamuwa and Makumbura. Minister of Urban Development and Housing Prasanna Ranatunga has presented this in the Cabinet.
+
+These three housing projects were launched by the Urban Development Authority in February 2021. MALAPE MALAPE HOME SHOULD SHOULD SEE. Mill. 3148.80 assigned. Of this, 256 houses will be constructed. The amount allocated for the construction of 120 houses for the Boralesgamuwa Housing Scheme. Mill. The estimated amount for the Makumbura Housing Scheme is Rs. 1476. Mill. 3859 and the number of houses constructed there is 314.
 
 ...
 
 [Data](articles/75ce7403.json)
+
+[Extended Data](ext_articles/75ce7403.ext.json)
 
 ---
 
@@ -2143,85 +2245,5 @@ The male bank employee is missing a male and a woman, said the head of the fire 
 [Data](articles/623cb6b4.json)
 
 [Extended Data](ext_articles/623cb6b4.ext.json)
-
----
-
-### UN recognition for photos of Vanni journalist
-
-*2024-05-29 11:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/184756) · `ta`
-
-The UN has featured photos by Tamil journalist Kanapathi Pillai Kumanan in a report on enforced disappearances in Sri Lanka, highlighting the struggles of families affected by the conflict. The report, focusing on the experiences of mothers in the North and East of Sri Lanka, underscores the ongoing quest for truth and justice regarding forcibly disappeared individuals from the civil war, which ended 15 years ago. Despite the passage of time, relatives remain hopeful and continue to demand answers, as evidenced by peaceful protests in refugee camps and villages.
-
-🟩
-
-The United Nations has used photographs taken by a leading Tamil journalist in Vanni for a special report issued on the forcible missing persons in Sri Lanka.
-
-Photos of photographers Kanapathi Pillai Kumanan have been used for the article "Legacy of Enforced Disappearances" (Legacy of Enforced Disappearances Hounts Sri Lanka) published by the United Nations Human Rights Commissioner's Office on May 21.
-
-This article has been published, focusing on the experiences of mothers of the North and East, who have been struggling in Sri Lanka for a long time, asking tens of thousands of loved ones who have been forcibly disappeared during the war in Sri Lanka.
-
-The article was published in collaboration with a special report issued by the United Nations Human Rights Commissioner's Office on the lack of local accountability in Sri Lanka.
-
-...
-
-[Data](articles/bd0f9b0f.json)
-
-[Extended Data](ext_articles/bd0f9b0f.ext.json)
-
----
-
-### The ban on Maithri is more prolonged!
-
-*2024-05-29 11:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/184757) · `ta`
-
-The Colombo District Court extended the ban on former President Maithripala Sirisena, preventing him from leading the SLFP, based on a complaint by former President Chandrika Bandaranaike Kumaratunga. The ban was ordered to continue until June 12, following a hearing presided over by Judge Chandun Vidhan.
-
-🟩
-
-The Colombo District Court has ordered the ban on former President Maithripala Sirisena to prevent the act of the Sri Lanka Freedom Party (SLFP).
-
-Accordingly, the Colombo District Court has ordered the ban on the 12th of June.
-
-The complaint lodged by former President Chandrika Bandaranaike Kumaratunga was taken up for hearing again in the presence of Colombo District Judge Chandun Vidhan.
-
-Meanwhile, the judge has ordered the extension of the ban on former President Maithripala Sirisena as the leader of the Sri Lanka Freedom Party until June 12.
-
-◼️
-
-[Data](articles/5c558763.json)
-
-[Extended Data](ext_articles/5c558763.ext.json)
-
----
-
-### Attack of 45 people in Rabba;- CNN says the Gunde made in the United States
-
-*2024-05-29 11:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/184755) · `ta`
-
-CNN reports that Israel used US-made ammunition in an attack on displaced people in Gaza's Rabbah, causing over 45 deaths and injuring hundreds. The attack targeted the Kuwait Refugee Camp 1, with victims including the elderly and children. Explosive weapons analysis indicates the use of GPS-guided bombs, typically used for precise strikes on strategic targets.
-
-🟩
-
-CNN said Israel used US ammunition to attack the displaced people in Gaza's Rabbah.
-
-The CNN explored the video recorded in the area where the CNN bomb experts said that it was revealed that it was revealed.
-
-It is noteworthy that the fire broke out following the attack on the displaced people in the south of Gaza.
-
-More than 45 people have been killed and more than 200 have been admitted to hospitals due to Israel's attack.
-
-Gaza's Health Ministry sources and doctors said that many of the victims of the attack in Rabba were the oldest women and the elderly.
-
-The video footage of CNN has shown that the Raba camp is burning and has said that many people are trying to escape the attack at night.
-
-CNN said it could observe the burnt bodies, including the bodies of the children, that rescue workers could be taken out of the rubble.
-
-The camp, known as the Kuwait Refugee Camp 1, has said that the camp has been investigated by Israel's attack.
-
-...
-
-[Data](articles/4bff3f0f.json)
-
-[Extended Data](ext_articles/4bff3f0f.ext.json)
 
 ---

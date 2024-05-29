@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-29 07:00:14**
+As of **2024-05-29 07:23:48**
 
 ## Newspaper Stats
 
-*Scraped **26,960** Articles*
+*Scraped **26,962** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,40 @@ economynextcom | 1,540
 dailyftlk | 1,590
 adalk | 2,294
 adaderanalk | 3,075
-tamilmirrorlk | 3,160
+tamilmirrorlk | 3,161
 virakesarilk | 4,137
 dailymirrorlk | 4,250
-adaderanasinhalalk | 4,319
+adaderanasinhalalk | 4,320
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,955 (100.0%) of 26,960 articles have been extended.
+26,960 (100.0%) of 26,962 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-29 (Wednesday)
+
+### බස්නාහිර සහ සබරගමුව ඇතුළු ප්‍රදේශ කිහිපයකට මි.මී 100 ඉක්මවූ වැසි
+
+*2024-05-29 06:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197135) · `si`
+
+සක්‍රීය නිරිත දිග මෝසම් තත්ත්වය හේතුවෙන් දිවයිනේ දැනට පවතින වැසි සහ සුළං තත්ත්වය තවදුරටත් බලාපොරොත්තු වේ.
+
+කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කළේ, බස්නාහිර, සබරගමුව, මධ්‍යම, වයඹ සහ දකුණු පළාත්වල විටින් විට වැසි ඇති විය හැකි බවය.
+
+බස්නාහිර සහ සබරගමුව පළාත්වලත්, නුවරඑළිය දිස්ත්‍රික්කයේත් ඇතැම් ස්ථානවල මි.මී. 100ට වැඩි තද වැසි ඇතිවිය හැකිය.
+
+ඌව පළාතේත් අම්පාර සහ මඩකලපුව දිස්ත්‍රික්කවලත් සවස් කාලයේ හෝ රාත්‍රී කාලයේ ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වේ.
+
+මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවලත් උතුරු, උතුරු මැද, බස්නාහිර, දකුණු සහ වයඹ පළාත්වලත් ත්‍රීකුණාමලය සහ මොනරාගල දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. 50-60ක පමණ තද සුළං ඇතිවිය හැකිය.
+
+◼️
+
+[Data](articles/92a0a17c.json)
+
+---
 
 ### Ruling party and opposition join forces against Range Bandara’s proposal to postpone polls
 
@@ -361,6 +381,24 @@ Recognising the importance of maintaining transparency and increasing public con
 [Data](articles/36772222.json)
 
 [Extended Data](ext_articles/36772222.ext.json)
+
+---
+
+### கிராம சேவகர்கள் பிரச்சினை தொடர்பில் அவதானம்
+
+*2024-05-29 01:54:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிராம-சேவகர்கள்-பிரச்சினை-தொடர்பில்-அவதானம்/175-338061) · `ta`
+
+அரச சேவையின் ஏனைய சேவைகளுடன் முரண்படாத வகையில் கிராம சேவகர் சேவையில் உள்ள பிரச்சினைகளுக்கு சாத்தியமான தீர்வுகளை முன்வைக்குமாறு தேசிய பாதுகாப்பு தொடர்பான ஜனாதிபதியின் சிரேஷ்ட ஜனாதிபதி பணிக்குழாம் பிரதானி சாகல ரத்நாயக்க சம்பந்தப்பட்ட அதிகாரிகளுக்கு அறிவுறுத்தியுள்ளார்.
+
+மேலும், தற்போதுள்ள பிரச்சினைகளை பேசித் தீர்த்து பொதுவான உடன்பாட்டை எட்டுமாறும் அதிகாரிகளிடம் வலியுறுத்தினார்.
+
+கிராம சேவகர் சேவையில் ஏற்பட்டுள்ள பிரச்சினைகள் தொடர்பில் கிராம சேவகர்களின் தொழிற்சங்க சம்மேளன பிரதிநிதிகள் மற்றும் அதனுடன் தொடர்புடைய நிறுவனங்களுடன் ஜனாதிபதி அலுவலகத்தில் நேற்று இடம்பெற்ற கலந்துரையாடலில் சாகல ரத்நாயக்க இந்த அறிவுறுத்தல்களை வழங்கினார்.
+
+இதன்போது கிராம சேவகர் சேவை யாப்பு தொடர்பான பிரச்சினைகள் மற்றும் சம்பள பிரச்சினைகள் தொடர்பில் ஆராயப்பட்டதாக ஜனாதிபதி ஊடகப் பிரிவு தெரிவித்துள்ளது. (a)
+
+◼️
+
+[Data](articles/abadf558.json)
 
 ---
 
@@ -1027,6 +1065,8 @@ The establishment of a dedicated Commercial Division within the CSE underscores 
 ...
 
 [Data](articles/79067067.json)
+
+[Extended Data](ext_articles/79067067.ext.json)
 
 ---
 
@@ -2193,53 +2233,5 @@ Speaking at a press conference in Colombo today (28), he proposed that the Presi
 [Data](articles/7114a965.json)
 
 [Extended Data](ext_articles/7114a965.ext.json)
-
----
-
-### Compulsory retirement scheme to be implemented for merging of fertilizer companies
-
-*2024-05-28 17:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/99493/compulsory-retirement-scheme-to-be-implemented-for-merging-of-fertilizer-companies-) · `en`
-
-A compulsory retirement scheme is set to be implemented in connection with the amalgamation of the Ceylon Fertilizer Company Limited and the Colombo Commercial Fertilizer Company Limited.
-
-A total of 267 employees have agreed to retire under the compulsory retirement scheme, according to the Cabinet Spokesman.
-
-Accordingly, the Cabinet of Ministers has granted approval to the proposal presented by the Minister of Agriculture and Plantation Industries Mahinda Amaraweera to implement this initiative.
-
-Approval has also been granted to spend Rs. 844 million from the funds of the two fertilizer companies for the execution of the proposed retirement scheme.
-
-However, the implementation of the scheme is subject to the recommendations of an Officials Committee, chaired by the Secretary to the Prime Minister, focusing on the voluntary pension scheme for excess employees in state enterprises.
-
-◼️
-
-[Data](articles/287de140.json)
-
-[Extended Data](ext_articles/287de140.ext.json)
-
----
-
-### Attack on Jaffna Bodhana Hospital employee;Letter of State Medical Officers Association to take action
-
-*2024-05-28 17:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/184712) · `ta`
-
-The Government Medical Officers Association has written to the Northern Province Director and Governor, urging swift action against an attack on a Jaffna Teaching Hospital employee. Two drunk individuals caused chaos at the hospital, leading to an internal investigation being demanded by the association. They also call for immediate security improvements and the protection of patients and their families.
-
-🟩
-
-The Government Medical Officers Association has sent an urgent letter to the Director of the Northern Province and the Governor of the Northern Province to take appropriate action in connection with the attack on the Jaffna Teaching Hospital employee.
-
-Jaffna Teaching Hospital Director T. Sathiyamoorthy and Northern Province Governor BSM Charles have been sent a letter to the Jaffna Teaching Hospital Government Medical Officers Association.
-
-At the same time, two men who had been intoxicated on a motorcycle on Monday (27) at 10:30 pm in a motorcycle in the Jaffna Hospital's accident and the emergency department.
-
-The man behind the car was the one who had been treated for the injury caused by the demolition of his hand in the mirror while intoxicated.
-
-He entered the treatment unit without the recommendation of the doctor.The other person stopped the motorcycle inside the hotel and spoke with the hospital staff and threw the printer and threw it on a employee's head.
-
-...
-
-[Data](articles/29325d78.json)
-
-[Extended Data](ext_articles/29325d78.ext.json)
 
 ---

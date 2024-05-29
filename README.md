@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-30 02:03:47**
+As of **2024-05-30 02:18:52**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 4,351
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,174 (100.0%) of 27,175 articles have been extended.
+27,175 (100.0%) of 27,175 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-30 (Thursday)
 
-### ’அரசியலமைப்பின் பிரகாரம் ஜனாதிபதித் தேர்தல்’
+### The presidential election according to the Constitution
 
 *2024-05-30 01:46:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசியலமைப்பின்-பிரகாரம்-ஜனாதிபதித்-தேர்தல்/175-338120) · `ta`
 
-பொறுப்பற்ற கூற்றுகள் மூலம் நாட்டில் குழப்பத்தை ஏற்படுத்த ஜனநாயக ஆட்சியில் சந்தர்ப்பம் கிடைக்காது எனவும் அவர் தெரிவித்துள்ளார்.
+In response to journalists' questions in Colombo, the Prime Minister emphasized the importance of adhering to the Constitution during the upcoming presidential election. He assured that the democratic system prevents any potential chaos from unfounded claims. The Elections Commission plans to conduct the election between September and October, as officially announced by the government.
 
-கொழும்பில் நடைபெற்ற நிகழ்வொன்றின் பின்னர் ஊடகவியலாளர்கள் எழுப்பிய கேள்விக்கு பதிலளித்த போதே பிரதமர் இவ்வாறு குறிப்பிட்டார்.
+🟩
 
-செப்டம்பர் - ஒக்டோபர் மாதங்களுக்கு இடையில் தேர்தலை நடத்துவதற்கான ஏற்பாடுகளை தேர்தல்கள் ஆணைக்குழு மேற்கொள்ளுமெனவும், இதனை அரசாங்கமும் அறிவித்துள்ளதாகவும் அவர் தெரிவித்துள்ளார். (a)
+He also said that there will be no chance in the democratic regime to create confusion in the country through reckless claims.
+
+Responding to a question raised by journalists after an event in Colombo, the Prime Minister said this.
+
+He said that the Elections Commission would make arrangements to hold elections between September and October and that the government had announced it.. (A)
 
 ◼️
 
 [Data](articles/c268c3c4.json)
+
+[Extended Data](ext_articles/c268c3c4.ext.json)
 
 ---
 

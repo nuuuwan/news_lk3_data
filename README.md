@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-29 14:18:55**
+As of **2024-05-29 14:34:24**
 
 ## Newspaper Stats
 
-*Scraped **27,062** Articles*
+*Scraped **27,066** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,17 +16,17 @@ islandlk | 1,465
 economynextcom | 1,548
 dailyftlk | 1,591
 adalk | 2,300
-adaderanalk | 3,086
+adaderanalk | 3,087
 tamilmirrorlk | 3,179
 virakesarilk | 4,153
-dailymirrorlk | 4,266
+dailymirrorlk | 4,269
 adaderanasinhalalk | 4,339
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,049 (100.0%) of 27,062 articles have been extended.
+27,049 (99.9%) of 27,066 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,48 @@ He further mentioned that the government had been concentrating on resuming vehi
 [Data](articles/3f3c0d10.json)
 
 [Extended Data](ext_articles/3f3c0d10.ext.json)
+
+---
+
+### GCE (A/L) results to be released by Monday
+
+*2024-05-29 14:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/GCE-AL-results-to-be-released-by-Monday/108-283611) · `en`
+
+The results of the 2023 G.C.E. Advanced Level (A/L) examination will be released before Monday (June), Education Minister Susil Peremajayantha said.
+
+He said the Examinations Department is taking measures to release the results.
+
+◼️
+
+[Data](articles/3fbc98e5.json)
+
+---
+
+### All schools to function as normal in next two days
+
+*2024-05-29 14:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/99511/all-schools-to-function-as-normal-in-next-two-days) · `en`
+
+The Ministry of Education (MoE) informs that all Government schools will function as normal tomorrow (30) and the day after (31).
+
+◼️
+
+[Data](articles/fc9051fb.json)
+
+---
+
+### Australia forced to field coach, selector in Warm-Up game vs Namibia
+
+*2024-05-29 14:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Australia-forced-to-field-coach-selector-in-Warm-Up-game-vs-Namibia/108-283610) · `en`
+
+(Hindustantimes) - Australia were forced to use four support staff members while fielding during their T20 World Cup warm-up match vs Namibia as only nine players were available.
+
+The after-effects of the IPL hit the Australian side before the T20 World Cup as they were forced to field their head coach, chief selector and two other support staff members as fielders during their warm-up match against Namibia on Tuesday. Australia only had nine players for the match as the other squad members, who were part of IPL 2024, will arrive late.
+
+As many as three Australian first-XI players - Pat Cummins, Travis Head and Mitchell Starc were part of the IPL 2024 final on May 26 (Sunday).
+
+...
+
+[Data](articles/632b722c.json)
 
 ---
 
@@ -187,6 +229,22 @@ It was accused of making a false statement regarding 4 Sri Lankans arrested in I
 [Data](articles/215c6e73.json)
 
 [Extended Data](ext_articles/215c6e73.ext.json)
+
+---
+
+### CBSL optimistic of easing vehicle restrictions
+
+*2024-05-29 13:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/CBSL-optimistic-of-easing-vehicle-restrictions/108-283609) · `en`
+
+Colombo,May 29 (Daily Mirror) - In light of the Central Bank's ability to manage the foreign reserve, the governor Dr. Nandalal Weerasinghe stressed the importance of easing the vehicle restrictions.
+
+Addressing the media, he emphasized that the government must determine whether to resume vehicle imports following the Central Bank's announcement of adequate foreign reserves.
+
+He further mentioned that the government had been concentrating on resuming vehicle imports gradually, with specific vehicle categories already permitted for the tourism industry.
+
+◼️
+
+[Data](articles/463172dd.json)
 
 ---
 
@@ -2167,89 +2225,5 @@ Sebastian brings with him 21 years of industry experience, having carried out re
 [Data](articles/f543352e.json)
 
 [Extended Data](ext_articles/f543352e.ext.json)
-
----
-
-### RIUNIT launches new podcast series
-
-*2024-05-29 02:12:43* · [`dailyftlk`](https://www.ft.lk/business/RIUNIT-launches-new-podcast-series/34-762314) · `en`
-
-Inaugural episode explores global economic stability with Dr. Howard Nicholas
-
-The Research Intelligence Unit (RIUNIT), a London-based research and consulting firm, has launched a new podcast series on global economic topics, using a nonconventional approach to identify opportunities and challenges.
-
-The inaugural episode, released on 27 May features a panel discussion titled “Why Isn’t the Global Economy in Crisis?” The panel includes renowned Economist Dr. Howard Nicholas, The Economic Training and Information Services Company Co-founder and COO Bram Nicholas, and RIUNIT Founder and CEO Roshan Madawela.
-
-...
-
-[Data](articles/20402377.json)
-
-[Extended Data](ext_articles/20402377.ext.json)
-
----
-
-### Adrian Perera appointed to Kelsey Developments Board
-
-*2024-05-29 02:09:52* · [`dailyftlk`](https://www.ft.lk/business/Adrian-Perera-appointed-to-Kelsey-Developments-Board/34-762313) · `en`
-
-Adrian Perera has been appointed to the Board of Kelsey Developments PLC as a Non-Executive Independent Director.
-
-Perera fills the vacancy created by the resignation of Executive Director C.P. John on 22 May.
-
-Kelsey Developments also announced R. Bradley Emmerson has relinquished the position of Senior Independent Director of the company and Wasantha Kumara Galagoda, a Non – Executive/ Independent Director has been appointed as the Senior Independent Director.
-
-Perera has over 30 years’ experience in Banking, Finance, Treasury, Manufacturing, Information Technology, Tourism, Agriculture and Construction.
-
-Perera is a Fellow Member of Association of Chartered Certified Accountants (UK), a Fellow member of CIMA (UK), Chartered Global Management Accountant, a Fellow Member of the Certified
-
-...
-
-[Data](articles/0e241b2f.json)
-
-[Extended Data](ext_articles/0e241b2f.ext.json)
-
----
-
-### "Everyone Think How Did You Lang Languate?"
-
-*2024-05-29 02:08:00* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/ce44jdvzydpo) · `si`
-
-Upul Ranjith, despite being physically challenged, inspires children at the Homagama Zonal Education Office with his resilience and motivational speeches. His story of overcoming adversity was featured on the BBC Sinhala service, highlighting his impact beyond physical limitations.
-
-🟩
-
-None contains none of this. 'The self-confidence of Upul is more than physical "
-
-"Everyone Think How Did You Lang Languate?"
-
-The courage is a young person despite the birth of Upul Ranjith, who works at the Homagama Zonal Education Office.
-
-The fingers of his arms with unusual status of the feet. Works as Upul Accepons. He is also motivating children about how life is faced with the challenges.
-
-'' Anyone thinks I'm a crawl. Why did a person liked. She says, "As a person who has overcome a situation I have overcome a situation," told BBC Sinhala service.
-
-◼️
-
-[Data](articles/d95f721d.json)
-
-[Extended Data](ext_articles/d95f721d.ext.json)
-
----
-
-### Lanka Transformers forges partnership with Indian giant APAR Industries
-
-*2024-05-29 02:07:36* · [`dailyftlk`](https://www.ft.lk/business/Lanka-Transformers-forges-partnership-with-Indian-giant-APAR-Industries/34-762312) · `en`
-
-Ideal Premier General Manager Oswald Pereira, LTL Transformers Chief Operating Officer Rukshika Pathberiya and APAR Industries Deputy Manager Exports Ganesh Ghorpade
-
-In the dynamic landscape of the transformer industry, where innovation meets expertise, two industry giants, Lanka Transformers Ltd., and APAR Industries Ltd., have forged an alliance that promises to redefine standards and elevate benchmarks.
-
-This alliance comes as a culmination of rigorous evaluation and meticulous selection, with APAR clinching the bid to supply bulk volumes of Transformer Oils to Lanka Transformers Ltd.
-
-...
-
-[Data](articles/605cdaca.json)
-
-[Extended Data](ext_articles/605cdaca.ext.json)
 
 ---

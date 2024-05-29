@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-29 16:50:32**
+As of **2024-05-29 17:03:55**
 
 ## Newspaper Stats
 
-*Scraped **27,098** Articles*
+*Scraped **27,107** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 238
+colombotelegraphcom | 239
 dbsjeyarajcom | 266
 bbccomsinhala | 269
 newsfirstlk | 363
@@ -17,72 +17,112 @@ economynextcom | 1,548
 dailyftlk | 1,591
 adalk | 2,302
 adaderanalk | 3,090
-tamilmirrorlk | 3,181
+tamilmirrorlk | 3,183
 virakesarilk | 4,166
-dailymirrorlk | 4,275
-adaderanasinhalalk | 4,344
+dailymirrorlk | 4,280
+adaderanasinhalalk | 4,345
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,091 (100.0%) of 27,098 articles have been extended.
+27,098 (100.0%) of 27,107 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-29 (Wednesday)
 
-### උතුරු කොරියාවෙන් දකුණට අපද්‍රව්‍ය පිරවූ බැලූන
+### දඹුල්ලේදී ජීවිත 4ක් බිලිගත් ඛේදවාචකය
 
-*2024-05-29 16:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197159) · `si`
+*2024-05-29 16:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197160) · `si`
 
-අපද්‍රව්‍ය සහිත බැලූන 260ක් පමණ දකුණු කොරියාවේ විවිධ ස්ථානවලට පතිත වී ඇති බව එරට බලධාරීන් පවසයි.
+දඹුල්ල ප්‍රදේශයේ නීතිවිරෝධී මත්පැන් පානය කළ සිව්දෙනෙකු මියගොස් ඇති බවට පැවසෙන සිද්ධියක් සම්බන්ධයෙන් පොලීසිය විමර්ශන ආරම්භ කර තිබේ.
 
-උතුරු කොරියාවෙන් එම බැලූන එවා ඇති බවට සැකකෙරෙන අතර එම බැලුන වැටුණු ප්‍රදේශවල ජනතාවට නිවෙස් තුළට වී සිටින ලෙසත් එම බැලුන ස්පර්ශ කිරීමෙන් වළකින ලෙසත් දකුණු කොරියානු බලධාරීන් දැනුම්දී තිබේ.
+මීට දින දෙකකට පෙර එම නීතිවිරෝධී මත්පැන් පානය කිරීමෙන් පුද්ගලයින් දෙදෙනෙකු මියගොස් ඇති බවද අද දිනයේද එලෙසම මත්පැන් පානය කළ දෙදෙනෙකු මියගිය බවද ප්‍රදේශවාසීන් පවසයි.
 
-සුදු වර්ණයෙන් යුතු බැලුන දකුණු කොරියාවේ ප්‍රාන්ත 8කට හෝ 9කට පතිත වී ඇති බව වාර්තා වෙයි.
+මෙම නීතිවිරෝධී මත්පැන් ජාවාරම සම්බන්ධයෙන් පොලීසිය විසින් සැකකරුවන් අවස්ථා කිහිපයකදීම අත්අඩංගුවට ගෙන අධිකරණය හමුවට ඉදිරිපත් කිරීමෙන් අනතුරුව දඬුවම් ලැබ තිබීමද විශේෂත්වයකි.
+
+කලක සිට පවත්වාගෙන යනු ලබන මෙම  නීතිවිරෝධී මත්පැන් විකිණීමේ ජාවාරම හේතුවෙන් ප්‍රදේශවාසීන් මේ වනවිට දැඩි අපහසුතාවයකට පත්ව ඇති බවටද තොරතුරු වාර්තාවෙයි.
+
+මෙලෙස මියගොස් ඇති පුද්ගලයින්ගේ පශ්චාත් මරණ පරීක්ෂණයට අමතරව රස පරීක්ෂක වාර්තා කැඳවා ඔවුන්ගේ මරණවලට නිශ්චිත හේතු අනාවරණ කරගැනීමට අවශ්‍ය පියවර ගන්නා බවද පොලීසිය පවසයි.
 
 ◼️
 
-[Data](articles/99488cbd.json)
+[Data](articles/f8528e1f.json)
 
 ---
 
-### சீரற்ற காநிலையால் நுவரெலியாவில் 171 குடும்மபங்கள் பாதிப்பு
+### 171 culprits in Nuwara Eliya due to random
 
-*2024-05-29 16:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/184801) · `ta`
+*2024-05-29 16:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/184801) · `ta`
 
-மலையகத்தில் நிலவும் கன மழை மற்றும் பலத்த காற்றுடன் கூடிய சீரற்ற காலநிலை காரணமாக நுவரெலியா மாவட்டத்தில் 171 குடும்பங்களைச் சேர்ந்த 623 பேர் பாதிக்கப்பட்டுள்ளதாக நுவரெலியா அனர்த்த முகாமைத்துவ பிரிவின் உதவிப் பணிப்பாளர் நிமல் பண்டார தெரிவித்தார்.
+Heavy rains and winds in Nuwara Eliya's hill country have affected 623 individuals across 171 families, damaging 159 houses. The worst-hit areas include Valappanai, Nuwara Eliya, Hangurankettu, and Kotmale Divisional Secretariat Divisions. Victims are sheltering with relatives, while some small-scale residents are repairing their homes. The disaster management division is coordinating relief efforts.
 
-இந்த சீரற்ற காலநிலை காரணமாக  நுவரெலியா மாவட்டத்தின் நான்கு பிரதேச செயலகப் பிரிவுகள் கடுமையாகப் பாதிக்கப்பட்டுள்ளது. தொடர்ச்சியாக பெய்து வரும் கன மழை காரணமாக நுவரெலியா  மாவட்டத்தில் 159 வீடுகள் பகுதியளவில் சேதமடைந்துள்ளன.
+🟩
 
-அதன்படி, வலப்பனை பிரதேச செயலக பிரிவில் 47 குடும்பங்களைச் சேர்ந்த 195 பேரும், நுவரெலியா பிரதேச செயலக  பிரிவில்  9 குடும்பங்களைச் சேர்ந்த 40 பேரும், ஹங்குரான்கெத்த பிரதேச செயலக பிரிவில் 45 குடும்பங்களைச் சேர்ந்த 136 பேரும், கொத்மலை பிரதேச செயலக  பிரிவில் 70 குடும்பங்களைச் சேர்ந்த 252 பேரும் பாதிக்கப்பட்டுள்ளனர்.
+Nimal Bandara, Assistant Director of the Nuwara Eliya Disaster Management Division, said that 623 persons from 171 families in the Nuwara Eliya district have been affected due to heavy rains and heavy winds in the hill country.
+
+Four Divisional Secretariats of the Nuwara Eliya District have been severely affected by this inclement weather. Due to heavy rains, 159 houses in the Nuwara Eliya district have been partially damaged.
+
+Accordingly, 195 from 47 families in the Valappanai Divisional Secretariat Division, 40 from 9 families in the Nuwara Eliya Divisional Secretariat Division, 136 from 45 families in the Hangurankettu Divisional Secretariat Division and 252 from 70 families in the Kotmale Divisional Secretariat Division.
+
+Thus the victims are temporarily housed in their relatives' homes. At the same time, some people from the small -scale residents have temporarily corrected it and stayed in the same dwellings.
 
 ...
 
 [Data](articles/4d3efda1.json)
 
+[Extended Data](ext_articles/4d3efda1.ext.json)
+
 ---
 
-### முல்லைத்தீவு - கேப்பாபிலவில் 14 வயது சிறுமி பாலியல் துஷ்பிரயோகம் ;  சந்தேகநபர் கைது
+### The South Korea's waste filled balloons
+
+*2024-05-29 16:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197159) · `si`
+
+South Korea faces a problem with waste-filled balloons, especially from North Korea, affecting various locations. Authorities are taking measures to prevent environmental damage.
+
+🟩
+
+About 260 waste balloons, 260 of the waste, the local authorities say that there are many places in South Korea.
+
+The South Korean authorities have also been informed of the balloons of North Korea and to prevent the people to be home to the people.
+
+It is reported that the white colored South Korea has been reported to eight or nine states.
+
+◼️
+
+[Data](articles/99488cbd.json)
+
+[Extended Data](ext_articles/99488cbd.ext.json)
+
+---
+
+### 14 -year -old girl sexually abused in Mullaitivu - Keppapila;Arrests
 
 *2024-05-29 16:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/184800) · `ta`
 
-முல்லைத்தீவில் சாப்பாட்டுக்கடை உரிமையாளரால் பாடசாலை சிறுமி பாலியல் துஷ்பிரயோகத்திற்குட்பட்ட சம்பவம் ஒன்று இடம்பெற்றுள்ளது.
+In Mullaitivu, a 14-year-old girl was sexually assaulted by a 55-year-old food shop owner. Her parents noticed changes in her behavior, leading them to the hospital. The police arrested the suspect after investigation, and he remains in custody pending further proceedings.
 
-முல்லைத்தீவு கேப்பாபிலவில்  உணவுக்கடை நடாத்திவரும் நபர் ஒருவரால் 14 வயதுடைய பாடசாலை மாணவி பாலியல் துஷ்பிரயோகம் செய்யப்பட்டுள்ளமை தெரியவந்துள்ளது.
+🟩
 
-குறித்த சிறுமியின்  உடலில் திடீரென ஏற்பட்ட மாற்றத்தினை அவதானித்த பெற்றோர்  முல்லைத்தீவு மாவட்ட வைத்தியசாலைக்கு அழைத்து சென்று பரிசோதனைக்குட்படுத்தியதில்  குறித்த  சிறுமி மூன்று மாத  கர்ப்பமாக இருந்தமை தெரியவந்துள்ளது.
+A school girl has been sexually abused by the owner of a meal shop in Mullaitivu.
 
-இதனையடுத்து  குறித்த விடயம் பொலிஸாருக்கு  தெரியப்படுத்தப்பட்டதனை தொடர்ந்து  விசாரணை மேற்கொண்ட முள்ளியவளை  பொலிஸார் குறித்த சிறுமியின் நிலைக்கு காரணமான  நபரை கைது செய்துள்ளனர்.
+A 14 -year -old schoolgirl has been sexually abused by a person who runs a food shop in Keppapila in Mullaitivu.
 
-கைது செய்யப்பட்ட குறித்த  நபரை நேற்று செவ்வாய்க்கிழமை (28) நீதிமன்றில் முற்படுத்தியபோது எதிர்வரும் 6 ஆம் திகதிவரை விளக்கமறியலில் வைக்க நீதவான் உத்தரவிட்டுள்ளார்.
+Parents who observed a sudden change in the body of the girl have been taken to the Mullaitivu District Hospital and examined by the girl.
 
-கைது செய்யப்பட்ட குறித்த சந்தேக  நபர்  முல்லைத்தீவு கேப்பாபிலவில்  உணவுக்கடை நடாத்தி வரும் 55 வயது மதிக்கத்தக்கவர் என்பதும்  குறிப்பிடத்தக்கது.
+The Mulliyawalai police have arrested the man responsible for the condition of the girl after investigating the matter.
+
+The magistrate has ordered the arrest of the man to be remanded until the 6th of this month.
+
+The suspect was a 55 -year -old man who was conducting a food shop in Keppapila in Mullaitivu.
 
 ◼️
 
 [Data](articles/1adb2a0f.json)
+
+[Extended Data](ext_articles/1adb2a0f.ext.json)
 
 ---
 
@@ -107,6 +147,24 @@ The intensifying the heat of the heat caused by climate change has been caused b
 [Data](articles/ca509608.json)
 
 [Extended Data](ext_articles/ca509608.ext.json)
+
+---
+
+### Netball, rugby, cycling and motorsports elections brought under DG
+
+*2024-05-29 16:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Netball-rugby-cycling-and-motorsports-elections-brought-under-DG/108-283620) · `en`
+
+May 29 (Daily Mirror) - Sports Minister Harin Fernando today instructed the relevant authorities to put off the Netball Federation of Sri Lanka (NFSL) 2024-2026 elections, scheduled at the Duncan White Auditorium of the Ministry of Sports in Colombo tomorrow.
+
+Minister Fernando decided to put off the NFSL elections having considered several complaints regarding the cancellation of voting rights of Jaffna and Colombo and after the NFSL Election Committee rejected the nomination of a member from Jaffna.
+
+Earlier, the NFSL Election Committee comprising of Retired Chief Justice Wimal Nambuhewa (Chairman) C. Rathnamudali and Padmajina Siriwardhana rejected the nomination of S. Suranthani from the Jaffna Netball Association and also suspended the voting rights of Jaffna and Colombo.
+
+With the Sports Minister deciding to put off the NFSL elections, the regime of Lakshmi Victoria also, came to an end today.
+
+...
+
+[Data](articles/60ba0082.json)
 
 ---
 
@@ -150,59 +208,117 @@ Kattankudy Police Station Superintendent G. Gajanayake said that the Kattankudy 
 
 ---
 
-### 7 வயதுடைய சிறுவனை தலைகீழாக கட்டிதொங்க விட்ட தாய் கைது
+### A mother arrested for tied up by a 7 -year -old boy
 
 *2024-05-29 16:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/184798) · `ta`
 
-மட்டக்களப்பு ஏறாவூர் பொலிஸ் பிரிவிற்கு உட்பட்ட சாதாட் கிராமத்தில் தனது மகனை தலைகீழாக கட்டி தொங்கவிட்டு தடியால் தாக்கியதாக குறித்த பெண்ணின் கணவரால் ஏறாவூர் பொலிஸ் நிலையத்தில் முறைப்பாடு செய்யப்பட்டுள்ளதாக ஏறாவூர் பொலிஸார் தெரிவித்தனர்.
+A mother was arrested after a video surfaced showing her tying up her 7-year-old son. The incident occurred in the village of Chadd under the Eravur police division of Batticaloa. The woman, who remarried and moved to Puttalam, allegedly assaulted her stepson, leading to her arrest. Her actions were reported by neighbors, and her second husband discovered the abuse through her mobile phone. He alerted the Eravur police, who arrested her based on the evidence presented.
 
-குறித்த பெண் முதல் கணவரால் கைவிடப்பட்ட நிலையில் புத்தளம் பகுதியில் உள்ள மேலும் ஒருவரை திருமணம் செய்து கொண்டதாகவும் குறித்த இரண்டாவது கணவருக்கும் ஒரு பிள்ளை உள்ளதாகவும் குறித்த கணவரும் குறித்த பெண்ணை விட்டு சென்றுள்ளார். இந்நிலையில்  குறித்த இரண்டாவது கணவரின் பிள்ளை குறித்த பெண்ணினால் தாக்கப்படுவதாக அயலவர்களினால் குறித்த நபருக்கு தகவல் வழங்கப்பட்டுள்ளது.
+🟩
 
-இதனைத் தொடர்ந்து குறித்த பெண்ணின் ஊரான ஏறாவூர் சாதாட்ற்கு வந்த இரண்டாவது கணவர் தனது பிள்ளையை தன்னுடன் அனுப்பி வைக்குமாறு குறித்த பெண்ணுடன் வாக்குவாதத்தில் ஈடுபட்டுள்ளார். பின்னர் பெண்ணின் கையடக்கத் தொலைபேசியை எடுத்து பார்த்த போது தனது பிள்ளையை குறித்த பெண் தாக்கியது காணொளியாக எடுக்கப்பட்டுள்ளதை அவதானித்துள்ளார்.
+The Eravur police said that the woman's husband had lodged a complaint with the woman's husband, who had tied her son upside down in the village of Chadd, which belongs to the Eravur police division of Batticaloa.
 
-...
+The woman has left the woman who has married another husband in the Puttalam area and has a second husband and a child.. In this case, the person has been informed by the neighbors that the child of the second husband is being attacked by the woman.
+
+Following this, the second husband of Eravur, the woman's hometown, was involved in a dispute with the woman to send her child with her.. Later, when she took the woman's mobile phone, she observed that the woman was attacked by her child.
+
+He immediately rushed to the Eravur police station and showed the video to the police.Eravur police said that the woman was arrested yesterday for the video.
+
+◼️
 
 [Data](articles/11d80311.json)
 
+[Extended Data](ext_articles/11d80311.ext.json)
+
 ---
 
-### மூழ்கிய டைட்டானிக் கப்பலை பார்வையிடத் தயாராகும் அமெரிக்க கோடிஸ்வரர்
+### American Kodiswara is ready to visit the sinking Titanic ship
 
 *2024-05-29 16:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/184763) · `ta`
 
-அமெரிக்காவின் ஒகாயோ பகுதியைச் சேர்ந்த கோடீஸ்வரரான லேரி கானர் (Larry Connor), கடலில் மூழ்கிய டைட்டானிக் கப்பலை பார்க்க புதிய நீர்மூழ்கி ஒன்றை வடிவமைத்து வருகிறார்.
+Billionaire Larry Connor plans to dive to the Titanic's wreckage in 2026 using a custom submarine, "The Explorer - Return to the Titanic," capable of reaching depths of 12,500 feet. Designed for scientific research and safe deep-sea exploration, the submarine can travel up to 13,000 feet in about 2 hours. This venture aims to prove the feasibility of deep-sea tourism and conduct studies on the Titanic site.
 
-இதன்படி, எதிர்வரும் 2026 ஆம் ஆண்டு கடலுக்கு அடியில் அவர் செல்ல திட்டமிட்டுள்ளார்.
+🟩
 
-74 வயதான  சாகச பிரியர் லேரி டைட்டானிக் கப்பலை பார்ப்பதற்காக ட்ரைடன் சப்மரைன்ஸ் என்ற நிறுவனத்தை அவர் அணுகியுள்ளார்.
+Larry Connor, a billionaire from Okao, USA, is designing a new submarine to see the Titanic ship sinking into the sea.
 
-அவருக்காக வடிவமைக்கப்பட்டு வரும் இந்த நீர்மூழ்கியில் இரண்டு பேர் பயணிக்கலாம் என தெரிவிக்கப்பட்டுள்ளது.
+Accordingly, he plans to go under the sea in 2026.
 
-கடலில் சுமார் 12,500 அடி ஆழத்தில் செல்லும் இந்த நீர்மூழ்கி பயணத்தில் அறிவியல் பூர்வமான ஆய்வுகளும் மேற்கொள்ள உள்ளதாக சொல்லப்பட்டுள்ளது.
+He has approached Tritan Submarines, a 74 -year -old adventurer Larry Titanic.
 
-டைட்டானிக் கப்பலை பார்க்க செல்லும் வெறும் பயணம் அல்ல. இது ஆய்வு சார்ந்த விடயமாகும். இதன் மற்றொரு நோக்கம் என்னவென்றால் பாதுகாப்பான முறையில் ஆழ்கடலுக்கு பயணிக்கலாம் என்பதை உலகுக்கு நிரூபிப்பது. இதன் மூலம் மீண்டும் மீண்டும் ஆழ்கடல் பயணம் மேற்கொள்ள முடியும் என கூறியுள்ளார்.
+It is reported that two people can travel in the submarine designed for him.
+
+The submarine, which is about 12,500 feet deep in the sea, is said to be conducting scientific studies.
+
+Titanic is not just traveling to visit the ship. This is the subject of study. Another purpose is to prove to the world that you can safely travel to the deep sea. He said that this would be able to make a deep sea trip.
+
+It is reported that the submarine is named The Explorer - Return to the Titanic. In addition, it is reported that it can travel up to 13,000 feet in the sea in about 2 hours.
 
 ...
 
 [Data](articles/3de4a96c.json)
 
+[Extended Data](ext_articles/3de4a96c.ext.json)
+
 ---
 
-### கொழும்பில் மதுபோதையில் மோட்டார் சைக்கிளை செலுத்தி ஒருவரை மோதிய பொலிஸ் பரிசோதகர் !
+### 2 பிள்ளைகளை தலைகீழாக தொங்க விட்ட ‘முக்கோண’ தாய்
+
+*2024-05-29 16:06:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/2-பிள்ளைகளை-தலைகீழாக-தொங்க-விட்ட-முக்கோண-தாய்/175-338107) · `ta`
+
+11 வயதான சிறுவனை மரமொன்றில்  தலைகீழாக கட்டி தொங்கவிட்டு, கம்பால் அடித்து சித்திவதை செய்ததுடன் இரண்டரை வயது ஆண் பிள்ளையை தொங்கவிட்டு, அடித்து துன்புறுத்தினார் என்றக் குற்றச்சாட்டில் அவ்விரு பிள்ளைகளின் தாயாரான  28 வயதுடைய பெண், செவ்வாய்க்கிழமை (28) இரவு கைது செய்யப்பட்டுள்ளார்.
+
+மட்டக்களப்பு ஏறாவூர் பொலிஸ் பிரிவில் உள்ள கிராமம் ஒன்றிலேயே இந்த சம்பவம் இடம்பெற்றுள்ளது. மீட்கப்பட்ட  இரு சிறுவர்களையும் வைத்தியசாலையில் அனுமதித்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+முதலாவதாக இந்து முறைப்படி திருமணம் முடித்த பெண், கணவனை விட்டுவிட்டு அவருக்கு பிறந்த முதல் குழந்தையுடன் இஸ்லாம் மதத்துக்கு மாறி, முஸ்லிம் நபரொருவரை திருமணம் முடித்துள்ளார். அவ்விருவருக்கும் குழந்தைகள் இல்லை.
+
+இந்நிலையில், அவரையும் விட்டுவிட்டு புத்தளம் பகுதியிலுள்ள சிங்களவர் ஒருவரை திருமணம் முடித்துள்ளார். அவ்விருவருக்கும்  இரண்டரை வயதில் ஆண் பிள்ளை உள்ளது.
+
+அவரையும் விட்டுவிட்டு, தன்னுடைய  இரு பிள்ளைகளுடன் ஏறாவூர் சதாம் உசைன் கிராமத்துக்கு மீண்டும் வந்து அங்கு வாழ்ந்து வருகின்றார்.
+
+...
+
+[Data](articles/6c78a7f3.json)
+
+---
+
+### President says presidential election to be held in future
+
+*2024-05-29 16:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/President-says-presidential-election-to-be-held-in-future/108-283619) · `en`
+
+Colombo, May 29 - President Ranil Wickremesinghe said that the presidential election will definitely be held in the future and financial allocations have already been allocated for it.
+
+While joining the "What's New" workshop held at the President's office on legal reform with young legal professionals, the President said that that none of the candidates aspiring to run in the presidential election have announced their intention to abolish the executive powers associated with the position.
+
+The President highlighted the dual nature of the executive presidential system, noting its advantages and disadvantages. He emphasized that the executive power vested in the presidency played a pivotal role in the economic development of Sri Lanka and the resolution of the 30-year war.
+
+◼️
+
+[Data](articles/33f4bcac.json)
+
+---
+
+### Police Inspector collided with a motorcycle in Colombo
 
 *2024-05-29 16:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/184747) · `ta`
 
-கொழும்பு பிரதான வீதியில் மதுபோதையில் மோட்டார் சைக்கிளை செலுத்திச் சென்று விபத்தை ஏற்படுத்திய பொலிஸ் பரிசோதகர் கைது செய்யப்பட்டுள்ளார்.
+A police inspector in Colombo was arrested after crashing his motorcycle into a three-wheeler while riding it post-duty. The accident occurred on the city's main road, leading to injuries.
 
-பொலிஸ் பரிசோதகர் தனது கடமைகளை நிறைவுசெய்த பின் இன்று புதன்கிழமை (29) காலை மோட்டார் சைக்கிளில் பயணித்துள்ளார்.
+🟩
 
-இதன்போது, கொழும்பு பிரதான வீதியில் உள்ள ஹோட்டலுக்கு அருகில் நின்ற நபரை செலுத்திச் சென்ற மோட்டார் சைக்கிளால் மோதி காயப்படுத்தியதோடு, முச்சக்கரவண்டி ஒன்றின் மீதும் மோதியுள்ளார்.
+A police inspector has been arrested for allegedly driving a motorcycle on the main road of Colombo.
 
-இந்நிலையில்  பொலிஸ் பரிசோதகர்  பொலிஸாரினால் கைது செய்யப்பட்டு சட்ட வைத்திய அதிகாரி முன்னிலையில் ஆஜர்படுத்தப்பட்டார்.
+The police inspector was traveling on a motorcycle this morning (29) after completing his duties.
+
+The motorcycle was rushed to a hotel near the hotel on the main road of Colombo and was injured and he was hit by a three -wheeler.
+
+The police inspector was arrested by the police and produced before the legal officer.
 
 ◼️
 
 [Data](articles/4ef81bf1.json)
+
+[Extended Data](ext_articles/4ef81bf1.ext.json)
 
 ---
 
@@ -245,6 +361,22 @@ Minister of External Affairs Tharaka Balasuriya is also scheduled to commence in
 [Data](articles/99ebed22.json)
 
 [Extended Data](ext_articles/99ebed22.ext.json)
+
+---
+
+### Daily Mirror article on poverty stricken mother gets tremendous response
+
+*2024-05-29 15:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Daily-Mirror-article-on-poverty-stricken-mother-gets-tremendous-response/108-283618) · `en`
+
+May 29- Following a report in the Daily Mirror of a mother of four children from Kebithigolleva, who was struggling after her husband’s sudden passing, numerous donors reached out to the Daily Mirror office, offering their support to the family.
+
+Accordingly, the family has shared their bank details for those interested in contributing to their well-being.
+
+In today’s Daily Mirror, it was reported that the 33-year-old mother found herself in dire circumstances, enduring four months without electricity, two weeks of water scarcity, and mourning the loss of her husband, who was the main breadwinner supporting the family through odd jobs.
+
+◼️
+
+[Data](articles/af4dbeb4.json)
 
 ---
 
@@ -662,17 +794,23 @@ The Ministry of Education (MoE) informs that all Government schools will functio
 
 ---
 
-### අවුරුදු 55 පිරුණු සියලු ශ්‍රමිකයන්ට සමාජ ආරක්ෂණ ප්‍රතිලාභයක්
+### Social Security Benefit to all 55-year-old workers
 
 *2024-05-29 14:13:20* · [`adalk`](https://www.ada.lk/breaking_news/අවුරුදු-55-පිරුණු-සියලු-ශ්‍රමිකයන්ට-සමාජ-ආරක්ෂණ-ප්‍රතිලාභයක්/11-409889) · `si`
 
-විවිධ කර්මාන්තවල සේවයේ යෙදෙන වයස අවුරුදු 55 සපිරුණු සියලු ශ්‍රමිකයන්ට සමාජ ආරක්ෂණ ප්‍රතිලාභයක් ලබාදිය හැකි වන පරිදි සකස් කෙරුණු යෝජනාවට කැබිනට් අනුමැතිය හිමිව ඇති බව අමාත්‍ය මනූෂ නානායක්කාර පවසනවා.
+Minister Manusha Nanayakkara announced a proposal to offer social security benefits to all 55-year-old workers across industries. The initiative involves registering several syllabi through www.garusaru.lk.
 
-www.garusaru.lk යන වෙබ් අඩවිය යටතේ මේ වනවිට විෂය කේෂ්ත්‍ර ගණනාවකට ලියාපදිංචි වීමට අවස්ථාව ඇති බවද අමාත්‍යවරයා වැඩිදුරටත් සඳහන් කළා.
+🟩
+
+Minister Manusha Nanayakkara states that the proposal to be given to all workers to provide a social security benefit to all the 55-year-old workers in various industries.
+
+The Minister further stated that a number of syllabus has already been registered under www.garusaru.lk.
 
 ◼️
 
 [Data](articles/fb9b916a.json)
+
+[Extended Data](ext_articles/fb9b916a.ext.json)
 
 ---
 
@@ -901,6 +1039,22 @@ He further mentioned that the government had been concentrating on resuming vehi
 [Data](articles/463172dd.json)
 
 [Extended Data](ext_articles/463172dd.ext.json)
+
+---
+
+### CBSL optimistic of easing vehicle restrictions
+
+*2024-05-29 13:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/CBSL-optimistic-of-easing-vehicle-restrictions/155-283609) · `en`
+
+Colombo,May 29 (Daily Mirror) - In light of the Central Bank’s ability to manage foreign reserve, the governor Dr. Nandalal Weerasinghe stressed the importance of easing vehicle restrictions.
+
+Addressing the media, he emphasized that the government must determine whether to resume vehicle imports following the Central Bank's announcement of adequate foreign reserves.
+
+He further mentioned that the government had been concentrating on resuming vehicle imports gradually, with specific vehicle categories already permitted for the tourism industry.
+
+◼️
+
+[Data](articles/5cd05096.json)
 
 ---
 
@@ -1305,6 +1459,18 @@ The body of the deceased has been placed at the Valaichenai Resource Hospital fo
 [Data](articles/68402e8a.json)
 
 [Extended Data](ext_articles/68402e8a.ext.json)
+
+---
+
+### NSTCS awarded to 100 SMEs in tourism sector
+
+*2024-05-29 11:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/NSTCS-awarded-to-100-SMEs-in-tourism-sector/110-283602) · `en`
+
+Sri Lanka awarded over 100 tourism SMEs with the National Sustainable Tourism Certification Scheme (NSTCS), in partnership with the UNDP. Established in 2018, NSTCS promotes environmental, social and economic sustainability in the tourism sector. Minister Harin Fernando and other dignitaries attended the ceremony, emphasizing the scheme's role in fostering a sustainable future for Sri Lanka's vital tourism industry, which significantly contributes to the nation's GDP. Pix by Kithsiri de Mel
+
+◼️
+
+[Data](articles/bb610021.json)
 
 ---
 
@@ -1714,6 +1880,18 @@ Sri Lanka’s PR status allows persons to work, run businesses, buy or inherit p
 
 ---
 
+### A Matter Of Scale
+
+*2024-05-29 11:17:08* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/a-matter-of-scale/) · `en`
+
+The on-going “Yukthiya” program, launched by the Police and covered by the news services, show the astonishing incidence of organized crime. Apart from the stunning disclosures, and an understandable sense of relief, there is the nagging and troubling question, of how and why these crime syndicates escaped the attention of the relevant authorities, as part of their normal duties? An alarmed and threatened citizenry, welcome this attempt to restore long-overdue security. If the same zeal and enthusiasm is pursued without interference, it would be a support to develop a comfortably secure society.
+
+...
+
+[Data](articles/28e0ea81.json)
+
+---
+
 ### Sri Lanka new employment act will not prevent age discrimination: minister
 
 *2024-05-29 11:17:00* · [`economynextcom`](https://economynext.com/sri-lanka-new-employment-act-will-not-prevent-age-discrimination-minister-165230/) · `en`
@@ -1888,6 +2066,24 @@ President Ranil Wickremesinghe requests the support and development of private s
 
 ---
 
+### பஸ் புரண்டதில் 29  பேர் காயம்
+
+*2024-05-29 10:35:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பஸ்-புரண்டதில்-29-பேர்-காயம்/76-338074) · `ta`
+
+கொழும்பு- பதுளை பிரதான வீதியில் பெல்மடுல்ல நகருக்கு அருகில் தனியார் பஸ்ஸொன்றும் முச்சக்கர வண்டியொன்றும் நேருக்கு நேர் மோதியதில் 29  பேர் காயமடைந்து வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவிக்கின்றனர்.
+
+எம்பிலிப்பிட்டியவில் இருந்து கொழும்பு நோக்கி பயணித்த தனியார் பேரூந்து, எதிர்திசையில் இருந்து வந்த முச்சக்கரவண்டி பேருந்தை நோக்கி வந்த போது, ​​பஸ் சாரதி முச்சக்கரவண்டி பஸ்ஸில் மோதாமல் இருக்க முயற்சித்ததாக பொலிஸார் தெரிவித்தனர்.
+
+அப்போது, ​​சாலையில் இருந்த மண் திட்டுடன் மோதி, பஸ் சில அடிகள் கீழே சாலையில் கவிழ்ந்ததாக பொலிஸார் தெரிவித்தனர். காயமடைந்தவர்களில் பஸ் மற்றும் முச்சக்கர வண்டியில் இருந்த நால்வர் அடங்குகின்றனர்.
+
+காயமடைந்த 22 பேர் கெஹாவத்தை ஆதார வைத்தியசாலையிலும் ஏழு பேர் இரத்தினபுரி போதனா வைத்தியசாலையிலும் அனுமதிக்கப்பட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/25e0fdf1.json)
+
+---
+
 ### 27 people injured in bus
 
 *2024-05-29 10:35:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பஸ்-புரண்டதில்-27-பேர்-காயம்/76-338074) · `ta`
@@ -2053,217 +2249,5 @@ Britain's Commonwealth Development Office Minister Mary Dravyan said that any me
 [Data](articles/e9651780.json)
 
 [Extended Data](ext_articles/e9651780.ext.json)
-
----
-
-### Arrested by someone with local gun!
-
-*2024-05-29 10:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/184742) · `ta`
-
-A 57-year-old man was arrested in Koslanda, Uva Mawhelagama, for possessing a locally made gun. The police raided his house based on a tip-off and plan to present him in court.
-
-🟩
-
-One person was arrested on Tuesday (28) with a locally manufactured gun from a house in Koslanda Uva Mawhelagama area, police said.
-
-A 57 -year -old man from Uva Mavhelagama, Gampaha and Madhukastalawa has been arrested.
-
-The police surrounded the house and carried out a raid on the phone call to Koslanda police.
-
-Deputy Inspector General of Police, Upul Chandana, who is in charge of the Badulla district. Police said that the raid was carried out by a team led by Wickremesinghe.
-
-In addition, police said that the suspect was taking steps to appear before the Bandarawela Magistrate's Court.
-
-◼️
-
-[Data](articles/d8108844.json)
-
-[Extended Data](ext_articles/d8108844.ext.json)
-
----
-
-### Another woman is killed in the house
-
-*2024-05-29 09:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197143) · `si`
-
-A woman, 65, was murdered in her home in Padukka by an unidentified assailant wielding a sharp object. The incident occurred in the early morning. Another assault took place in Bandarapura, where two individuals were attacked with a sharp weapon and a stick over a land dispute. The victims, aged 42 and 62, were hospitalized but succumbed to their injuries. The Meegoda police continue investigating the Padukka case, while the suspects in the Bandarapura attack have been arrested.
-
-🟩
-
-Padukka has been assaulted by a sharp object in a nearby house in the Watareka area.
-
-The murder was carried out by a person in the morning.
-
-The deceased has fled a sharp weapon attack on the house of the house for some need for any purpose.
-
-The woman who was seriously injured to be admitted to the Padukka District Hospital for further treatment.
-
-The victim was a 65 year old resident of Padukka, Padukka.
-
-The suspect involved in the murder has not been arrested yet and the Meegoda police are conducting further investigations.
-
-Meanwhile, two persons have been attacked with a sharp weapon and a stick in Bandarapura area in Galicirigama Police Division.
-
-On a complaint lodged a complaint and had gone to the relevant location and the injured were killed when they were killed in Dambulla and Galkiriyagama hospitals.
-
-It has been revealed that the deceased and his son were assaulted due to a land dispute between the two parties.
-
-...
-
-[Data](articles/416fef0c.json)
-
-[Extended Data](ext_articles/416fef0c.ext.json)
-
----
-
-### University non-academic staff to continue strike action
-
-*2024-05-29 09:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/99502/university-non-academic-staff-to-continue-strike-action) · `en`
-
-The University Trade Union Joint Committee (UTUJC) has announced that university non-academic employees will continue their trade union action.
-
-UTUJC Co-Chairman Dhammika S. Priyantha emphasized that the issue cannot be resolved by merely appointing committees.
-
-“We expected a positive response to the two Cabinet memorandums sent to address long-standing issues in the university system. Instead, another committee has been appointed,” Priyantha stated.
-
-“We went on strike for 27 days, not to see another committee formed. These demands have been accepted as reasonable through previous reports. We have yet to receive an answer from the government, so the union leaders have decided to continue the trade union action,” he added.
-
-◼️
-
-[Data](articles/0d40467c.json)
-
-[Extended Data](ext_articles/0d40467c.ext.json)
-
----
-
-### Pro-ISIS threat ahead of India-Pakistan T20 World Cup clash in New York
-
-*2024-05-29 09:50:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Pro-ISIS-threat-ahead-of-India-Pakistan-T20-World-Cup-clash-in-New-York/108-283590) · `en`
-
-New York, May 29 (Daily Mail) - There are renewed fears of terrorist attacks at this year's T20 World Cup after a chilling poster was released hinting at bloodshed in New York.
-
-A pro-ISIS outlet released a graphic which showed a hooded man with a rifle over his shoulder. It read 'You wait for the matches...' and then - written in dripping blood-red - 'And we wait for you...'
-
-The poster makes reference to June 9 at 'Nassau Stadium', which is when - and where - bitter rivals India and Pakistan will meet in a group game.
-
-It also includes images of drones flying over the stadium and stick of dynamite with a ticking clock. DailyMail.com understands, however, that the poster has not prompted US authorities to raise the threat level of an attack.
-
-A spokesperson for the International Cricket Council (ICC) said in a statement: 'The safety and security of everyone at the event is our No 1 priority and we have a comprehensive and robust security plan in place.
-
-...
-
-[Data](articles/9bba8a9f.json)
-
-[Extended Data](ext_articles/9bba8a9f.ext.json)
-
----
-
-### Sri Lanka delegation to visit Moscow soon for discussions over ex-soldiers in Russia-Ukraine war
-
-*2024-05-29 09:44:00* · [`economynextcom`](https://economynext.com/sri-lanka-delegation-to-visit-moscow-soon-for-discussions-over-ex-soldiers-in-russia-ukraine-war-165216/) · `en`
-
-ECONOMYNEXT – A Sri Lankan delegation including State Foreign Minister Tharaka Balasuriya and Defence Secretary Kamal Gunaratne will leave to Moscow “soon” to have discussions over concerns over hundreds of the island nation’s ex-solders now joined Russia-Ukraine war, Foreign Minister Ali Sabry said.
-
-“A delegation will leave and will include the State Minister, parliamentarians, and Defence Secretary,” Sabry told EconomyNext after he held discussions with the families of the Sri Lankans deployed as combatants in the Russia-Ukraine conflict on Tuesday.
-
-At least 16 Sri Lankans are reported to have been killed and around 600 likely to have joined as combatants mainly to Russian side, taking risk for higher salary.
-
-Returnees have said hundreds of Sri Lankan ex-soldiers and other are serving in Ukraine-Russia frontlines with most being duped that they were sent for support work as camp helpers.
-
-...
-
-[Data](articles/a45448ea.json)
-
-[Extended Data](ext_articles/a45448ea.ext.json)
-
----
-
-### Sri Lanka rupee opens stronger at 301.00/20 to US dollar
-
-*2024-05-29 09:42:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stronger-at-301-00-20-to-us-dollar-165214/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee strengthened to open at 301.00/20 to the US dollar on Wednesday, from 301.70/302.30 the previous day, dealers said. Bond yields were broadly steady.
-
-A bond maturing on 15.12.2026 was quoted up at 9.90/10.00 percent from 9.90/10.05 percent.
-
-A bond maturing on 15.09.2027 was quoted at 10.35/45 percent from 10.30/55 percent.
-
-A bond maturing on 01.07.2028 was quoted stable at 10.90/11.00 percent.
-
-The Colombo Stock Exchange opened down. The All Share Price Index was down 0.82 percent at 12,127, the S&P SL20 was down 1.72 percent at 3,556. (Colombo/May29/2024)
-
-◼️
-
-[Data](articles/d4906922.json)
-
-[Extended Data](ext_articles/d4906922.ext.json)
-
----
-
-### A person arrested with a kilo of ice
-
-*2024-05-29 09:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197142) · `si`
-
-In Mannar, police arrested a 44-year-old man from the Sungar area, confiscating 1 kg of ice drugs during a raid based on intelligence from the Mannar Division Crime Investigation Bureau.
-
-🟩
-
-A large number of ice drug stock was arrested in Mannar, Mannar, Mannar.
-
-Police said that the raid was carried out according to information received by the officers of the Mannar Division Crime Investigation Bureau.
-
-Suspect has found 1 kilograms of ice drugs in the possession.
-
-The arrested were a 44 year old resident of the Sungar area in Mannar.
-
-◼️
-
-[Data](articles/1d03af68.json)
-
-[Extended Data](ext_articles/1d03af68.ext.json)
-
----
-
-### Rise in many rivers
-
-*2024-05-29 09:37:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல-ஆறுகளில்-நீர்மட்டம்-உயர்வு/175-338069) · `ta`
-
-Heavy rains have caused rising water levels in numerous rivers across the country, prompting warnings for residents near riverbanks about potential flooding risks.
-
-🟩
-
-The Irrigation Department said the water level continues to increase in many rivers in the country.
-
-Due to heavy rains in recent years, water levels in rivers have increased in various parts of the country.
-
-As a result, people living in the lower castes around the rivers are constantly advised to be aware of the flood risk.
-
-◼️
-
-[Data](articles/b9bc7b2f.json)
-
-[Extended Data](ext_articles/b9bc7b2f.ext.json)
-
----
-
-### The water level of several rivers
-
-*2024-05-29 09:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197141) · `si`
-
-Several rivers in Sri Lanka, including Attanagalu Oya, Black, Ginguwara Oya, Black, Gin, and Nilwala, are experiencing high water levels due to significant rainfall, particularly in the Kalu River area. The Irrigation Department advises residents in lowland areas to prepare for potential flooding, especially during heavy rains expected in the afternoon and night. However, the Ging and Nilwala Rivers are not currently at risk of flooding.
-
-🟩
-
-The water level of several rivers is further high, says Irrigation Department.
-
-Irrigation Engineer Sakuura, Sakumera, said that the people living in the lowlands should be requested to take care of this situation.
-
-"Attanagalu Oya, Black, Ginguwara Oya, Black, Gin and Nilwala which flows on southwest areas of Sri Lanka reports a high water level this morning. Especially due to a significant rainfall in the Kalu River, Ratnapura and High-current areas, the people of Ratnapura and surrounding areas have reached the level. This situation may be in dangerous in case of heavy rain, especially in the afternoon and night. Ging and the Nilwala River have reached attention and there is no flood risk. "
-
-◼️
-
-[Data](articles/e40a7605.json)
-
-[Extended Data](ext_articles/e40a7605.ext.json)
 
 ---

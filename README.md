@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-29 15:34:02**
+As of **2024-05-29 15:53:07**
 
 ## Newspaper Stats
 
-*Scraped **27,074** Articles*
+*Scraped **27,078** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,101 @@ islandlk | 1,465
 economynextcom | 1,548
 dailyftlk | 1,591
 adalk | 2,301
-adaderanalk | 3,087
+adaderanalk | 3,088
 tamilmirrorlk | 3,181
 virakesarilk | 4,153
-dailymirrorlk | 4,272
-adaderanasinhalalk | 4,340
+dailymirrorlk | 4,274
+adaderanasinhalalk | 4,341
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,072 (100.0%) of 27,074 articles have been extended.
+27,074 (100.0%) of 27,078 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-29 (Wednesday)
+
+### Singapore team in Colombo to study immigration system in SL
+
+*2024-05-29 15:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Singapore-team-in-Colombo-to-study-immigration-system-in-SL/108-283616) · `en`
+
+Colombo, May 29 (Daily Mirror) - A six-member delegation from Singapore's Immigration & Checkpoints Authority (ICA) is on a week-long visit to Sri Lanka.
+
+The delegation arrived in Sri Lanka following a request by Minister of Public Security Tiran Alles to Minister for Law of Singapore K. Shanmugam.
+
+The Ministry said the purpose of the visit is to enhance cooperation and upgrade Sri Lanka's immigration system to align with Singapore's standards, integrating advanced technology.
+
+This initiative aims to modernize all immigration, visa and citizenship processes in Sri Lanka.
+
+After conducting a comprehensive study of the Airport and Immigration Department's operations, Minister Alles requested a detailed report on measures to elevate Sri Lanka's system to Singapore's standards.
+
+The Ministry said the delegation assured that the report will be submitted within a month.
+
+◼️
+
+[Data](articles/c7e1558e.json)
+
+---
+
+### Presidential Election this year - Prime Minister emphatically states
+
+*2024-05-29 15:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Presidential-Election-this-year-Prime-Minister-emphatically-states/108-283614) · `en`
+
+Colombo, May 29 - Prime Minister Dinesh Gunawardena emphatically said that the Presidential Election will be held this year in accordance with the constitutional provisions as already announced by the Elections Commission.
+
+He pointed out that the Election Commission has already made an announcement that the Presidential Election would be held between September 15 and October 17 this year.
+
+Speaking to journalists after attending inauguration of Martin Wickramasinghe’s Life & Literature Section at the National Libraries Board in Colombo today (May 29), he dismissed the suggestions about postponement of Presidential Elections and General Elections. The Prime Minister said it was wrong to make proposals that have not discussed by the government or the ruling alliance at any time.
+
+...
+
+[Data](articles/364b77f7.json)
+
+---
+
+### Defence Ministry clearance now required for Sri Lankan ex-servicemen to visit Russia
+
+*2024-05-29 15:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/99512/defence-ministry-clearance-now-required-for-sri-lankan-ex-servicemen-to-visit-russia) · `en`
+
+Russia will now require Sri Lanka’s Defence Ministry clearance for visit visas of ex-servicemen, says Foreign Minister Ali Sabry.
+
+The Minister of Foreign Affairs said that he had a constructive meeting with the Russian Ambassador in Colombo, Levan S. Dzhagaryan today (29).
+
+“We addressed the urgent situation of Sri Lankans being deployed in the Russia-Ukraine conflict and agreed on immediate steps to resolve these issues,” he said, in a post on ‘X’ (formerly Twitter).
+
+“Russia will now require Sri Lanka Defence Ministry clearance for visit visas of ex-servicemen.”
+
+He added that the upcoming visit by the Sri Lanka’s State Minister of Foreign Affairs, Tharaka Balasuriya to Russia will enable further discussions to find a solution to this matter.
+
+◼️
+
+[Data](articles/c0405923.json)
+
+---
+
+### ජනාධිපතිවරණය ගැන ජනපතිගෙන් ප්‍රකාශයක්
+
+*2024-05-29 15:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197156) · `si`
+
+ඉදිරියේදී අනිවාර්යයෙන්ම ජනාධිපතිවරණය පැවැත්වීමට කටයුතු කරන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+
+ජනාධිපතිවරයා මේ බව පවසා සිටියේ 'What's New'' තරුණ නීති වෘත්තිකයින් සමග ජනාධිපති කාර්යාලයේ පැවති වැඩමුළුවකට එක්වෙමිනි.
+
+මේ අතර ඒ සඳහා මූල්‍ය ප්‍රතිපාදන මේවනවිටත් වෙන්කර ඇති බවද ජනාධිපති රනිල් වික්‍රමසිංහ මහතා එහිදී වැඩිදුරටත් පවසා තිබේ.
+
+එංගලන්ත පාර්ලිමේන්තුව තුළ යම් නීතියක් සම්මත වූ පසු ඒ පිළිබඳ කිසිවෙකුට ප්‍රශ්න කළ නොහැකියි. පාර්ලිමේන්තුවේ උත්තරීතරභාවයේ පදනම එයයි. උත්තරීතර වන්නේ පාර්ලිමේන්තුවයි.
+
+ඇමරිකානු ක්‍රමවේදය මීට වෙනස්. ඇමරිකානු ක්‍රමවේදය මගින්, ඔවුන් යම් නීතියක් කෙටුම්පත් කරන විට, විධායක බලතල ජනාධිපතිටත්, ව්‍යවස්ථාදායක බලතල කොන්ග්‍රසයටත් සහ අධිකරණ බලතල අධිකරණයටත් ලබා දුන්නා.
+
+අපේ රට ෆෙඩරල් ක්‍රමයක් අනුගමනය නොකරන නිසා අප පවත්වාගෙන යන්නේ ඉංග්‍රීසි ක්‍රමයයි.ෆෙඩරල් ක්‍රමයට යාමට ඉන්දියාවට සිදු වූයේ ඔවුන් ෆෙඩරල් රටක් වූ නිසායි. නමුත් අපි ෆෙඩරල් රටක් නොවේ. අපේ රටේ නීති සම්පාදනය පිළිබඳ අවසාන බලතල තිබෙන්නේ පාර්ලිමේන්තුවටයි.
+
+...
+
+[Data](articles/e0e11acb.json)
+
+---
 
 ### ISIS Affairs: Bail for lecturer
 
@@ -2196,6 +2276,8 @@ The grieving mother found herself thrust into a challenging situation following 
 
 [Data](articles/072d8e28.json)
 
+[Extended Data](ext_articles/072d8e28.ext.json)
+
 ---
 
 ### University non-academic staff
@@ -2217,105 +2299,5 @@ Its co-chairman, Dhammika S. Priyantha stated that this problem cannot be addres
 [Data](articles/eac492a2.json)
 
 [Extended Data](ext_articles/eac492a2.ext.json)
-
----
-
-### Showers over 100 mm, including Western and Sabaragamuwa
-
-*2024-05-29 06:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197135) · `si`
-
-Heavy rainfall exceeding 100mm is expected in Western and Sabaragamuwa provinces, with potential for strong winds in various regions across the country due to the active southwest monsoon.
-
-🟩
-
-The active rain and wind condition of the country is further expected due to active southwest monsoon.
-
-The Department of Meteorological Department announced that showers may experience showers in the Western, Sabaragamuwa, Central, North Western and Southern provinces.
-
-In some places in the Western and Sabaragamuwa Province, MM. Heavy rains may occur at more than 100.
-
-Showers or thundershowers will occur at several places in the Uva Province and in the Ampara and Batticaloa districts.
-
-At times, in the West in the central hills, the North, North Central, Western, Southern and North Western Provinces and in Trincomalee and Moneragala Districts.. Strong winds can occur 50-60.
-
-◼️
-
-[Data](articles/92a0a17c.json)
-
-[Extended Data](ext_articles/92a0a17c.ext.json)
-
----
-
-### President asserts no polls postponement
-
-*2024-05-29 06:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/President-asserts-no-polls-postponement/155-283569) · `en`
-
-- Parliamentarians from all parties desperately attempted to reach the President to seek more clarity on this statement
-
-- It was nothing but a personal statement by Range Bandara-Ravi
-
-Chaos erupted among the political circles last evening after a statement was made by UNP General Secretary Palitha Range Bandara, stating that a proposal would be brought to Parliament to postpone the presidential and parliamentary elections, with parliamentarians from all parties rejecting the move and calling for an immediate response from the President.
-
-In fact, by last evening, President Wickremesinghe began receiving calls from several Parliamentarians, including the opposition, to seek more clarity on the statement, with the President finally having to distance himself from it stating that there was no such move to delay the polls.
-
-...
-
-[Data](articles/42d5d552.json)
-
-[Extended Data](ext_articles/42d5d552.ext.json)
-
----
-
-### Senior leaders of the United National Party (UNP)
-
-*2024-05-29 05:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/184735) · `ta`
-
-Political turmoil ensued within the United National Party (UNP) as its general secretary's comments on the presidential election were met with rejection by parliamentary parties. Opposition MPs called for clarity, leading the President to distance himself from the remarks, assuring no election postponement plans exist. Senior UNP members were tasked with conveying the President's stance, while insiders dismissed the general secretary's statement as personal, denying any intention to delay the election.
-
-🟩
-
-Political sources were in great disturbance yesterday after the UNP general secretary Palitha Ranga Bandara commented on the presidential and the presidential election in Parliament.
-
-The parties in Parliament completely rejected the announcement of the General Secretary of the United National Party and appealed for the president to immediately respond.
-
-Many of them telephoned President Ranil Wickremesinghe by telephone yesterday evening, many of them were opposition MPs.
-
-Opposition MPs, who contacted the president, demanded further clarification on the report of the General Secretary of the United National Party.
-
-Following this, the President said that the President had to isolate himself from the announcement of his party's general secretary, and there was no plan to postpone the election.
-
-The President has asked the senior members of the United National Party to express his comments on his behalf.
-
-...
-
-[Data](articles/6058f3c7.json)
-
-[Extended Data](ext_articles/6058f3c7.ext.json)
-
----
-
-### Central Bank stays pat on rates
-
-*2024-05-29 04:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Central-Bank-stays-pat-on-rates/108-283563) · `en`
-
-Decides to keep the current Standing Lending Facility Rate (SLFR) and the Standing Deposit Facility Rate (SDFR) unchanged at 9.50 percent and 8.50 percent
-
-Mandatory reserve ratio for banks was also left at 2.00 percent
-
-Says the Board observed the need for a further reduction in market lending rates
-
-As widely expected, the Central Bank left its key policy rates unchanged at the policy meeting held this week.
-
-This was largely to provide the previous rate cuts to do their work in bringing down the rest of the market lending rates further as inflation expectations remain well anchored.
-
-At the third monetary policy board meeting held on Monday, the Central Bank decided to keep the current Standing Lending Facility Rate (SLFR) and the Standing Deposit Facility Rate (SDFR) unchanged at 9.50 percent and 8.50 percent respectively.
-
-The mandatory reserve ratio for banks was also left at 2.00 percent.
-
-...
-
-[Data](articles/c082ea9a.json)
-
-[Extended Data](ext_articles/c082ea9a.ext.json)
 
 ---

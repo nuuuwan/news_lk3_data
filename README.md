@@ -1,22 +1,22 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-29 09:18:45**
+As of **2024-05-29 09:34:13**
 
 ## Newspaper Stats
 
-*Scraped **26,984** Articles*
+*Scraped **26,986** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 238
 dbsjeyarajcom | 265
-bbccomsinhala | 268
+bbccomsinhala | 269
 newsfirstlk | 363
 islandlk | 1,465
 economynextcom | 1,540
 dailyftlk | 1,591
 adalk | 2,295
-adaderanalk | 3,076
+adaderanalk | 3,077
 tamilmirrorlk | 3,166
 virakesarilk | 4,138
 dailymirrorlk | 4,254
@@ -26,11 +26,31 @@ adaderanasinhalalk | 4,325
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,979 (100.0%) of 26,984 articles have been extended.
+26,984 (100.0%) of 26,986 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-29 (Wednesday)
+
+### Gujarat ATS to visit Sri Lanka for further investigation into ‘ISIS terrorists’ arrested at Ahmedabad Airport
+
+*2024-05-29 09:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/99501/gujarat-ats-to-visit-sri-lanka-for-further-investigation-into-isis-terrorists-arrested-at-ahmedabad-airport) · `en`
+
+The Gujarat Anti-Terrorist Squad (ATS) is preparing to visit Sri Lanka to further investigate the arrest of four ISIS terrorists at Ahmedabad airport.
+
+This development comes as Sri Lankan police have detained two individuals related to the case, while a third suspect, Osmond Gerrard, remains at large.
+
+Sri Lanka has declared Gerrard wanted and announced a $2 million reward for his capture.
+
+Gujarat Anti-Terrorism Squad (ATS) thwarted a potential terror attack with the arrest of four Sri Lankan nationals at Ahmedabad airport on May 20.
+
+The apprehended suspects, identified as Mohammad Nusrat (33), Mohammad Farish (35), Mohammad Nafran (27), and Mohammad Rashdeen (43), are believed to be linked to the Islamic State of Iraq and Syria (ISIS).
+
+...
+
+[Data](articles/0bc8a919.json)
+
+---
 
 ### Public entry into the recently released land in Jaffna
 
@@ -58,61 +78,81 @@ Meanwhile, if the mines are found, they will be deactivated and removed by follo
 
 ---
 
-### வாகன இறக்குமதி தொடர்பில் மத்திய வங்கி ஆளுநர் வெளியிட்ட கருத்து
+### Central Bank Governor's comment on vehicle imports
 
 *2024-05-29 08:51:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாகன-இறக்குமதி-தொடர்பில்-மத்திய-வங்கி-ஆளுநர்-வெளியிட்ட-கருத்து/175-338067) · `ta`
 
-வாகன இறக்குமதி கட்டுப்பாடுகளை படிப்படியாக தளர்த்த அரசாங்கம் தீர்மானிக்கிறது என்றால், அதற்கான வெளிநாட்டு கையிருப்பை நிர்வகிக்கும் திறன் மத்திய வங்கிக்கு உண்டு என இலங்கை மத்திய வங்கியின் ஆளுநர் கலாநிதி நந்தலால் வீரசிங்க தெரிவித்துள்ளார்.
+Dr. Nandalal Weerasinghe, Governor of Sri Lanka's Central Bank, stated that if the government eases vehicle import rules, the Central Bank can handle foreign reserves. He confirmed no change in the policy interest rate and expressed optimism about managing foreign exchange through gradual vehicle import relaxation.
 
-மத்திய வங்கி தனது கொள்கை வட்டி வீதத்தை மாற்றியமைக்காமல் பராமரிக்க தீர்மானித்தள்ளதாக தெரிவித்தார்.
+🟩
 
-"ஏற்கனவே சில வாகனங்கள் அனுமதிக்கப்பட்டுள்ளன. வாகனங்களின் இறக்குமதியை படிப்படியாக தளர்த்துவது முக்கியமான முடிவு. அந்நியச் செலாவணியை எங்களால் நிர்வகிக்க முடியும் என்று நாங்கள் நம்புகிறோம்." என்றார். R
+Governor of the Central Bank of Sri Lanka, Dr. Nandalal Weerasinghe, said that if the government decides to gradually relax vehicle import regulations, the Central Bank has the ability to manage foreign stockpile.
+
+He said the central bank had decided to maintain its policy interest rate without changing.
+
+“Some vehicles already have been allowed. Gradually relaxation of imports of vehicles is an important decision. We hope that we can manage foreign exchange. ”. Remble
 
 ◼️
 
 [Data](articles/4d5100ab.json)
 
+[Extended Data](ext_articles/4d5100ab.ext.json)
+
 ---
 
-### சோற்றில் மட்டைத்தேள் ; உணவகத்திற்கு சீல்வைப்பு
+### Put on the soda;Sealing to the restaurant
 
 *2024-05-29 08:48:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/சோற்றில்-மட்டைத்தேள்-உணவகத்திற்கு-சீல்வைப்பு/71-338066) · `ta`
 
-திருநெல்வேலி பகுதியில் உள்ள ஓர் உணவகத்தில் கடந்த வெள்ளிக்கிழமை மதிய உணவு வாங்கிய ஒருவரின் சோற்று பார்சலில் மட்டைத்தேள் காணப்பட்டதாக பொது சுகாதார பரிசோதகர் பா. சஞ்சீவனிற்கு முறைப்பாடு ஒன்று கிடைத்தது.
+A Public Health Inspector found in a meal from a Tirunelveli restaurant led to an inspection by Sanjeevan. No corrective action was taken, resulting in a case against the owner. The court fined the owner 45,000/= and ordered the shop closed until repairs are done, leading to the restaurant's sealing by Sanjeevan.
 
-இதனையடுத்து சனிக்கிழமை குறித்த உணவகம் திருநெல்வேலி பொது சுகாதார பரிசோதகர் பா. சஞ்சீவனினால் பரிசோதனை மேற்கொள்ளப்பட்டது.
+🟩
 
-இதன்போது பொது சுகாதார பரிசோதகரால் ஏற்கனவே வழங்கப்பட்ட திருத்த வேலைகள் எவையும் நிவர்த்தி செய்யப்படாமல் இருப்பது அவதானிக்கப்பட்டது.
+Public Health Inspector Pa, who was found in a lunch parcel of a man who bought lunch last Friday at a restaurant in Tirunelveli area.. Sanjeevan got a complaint.
 
-இதனை தொடர்ந்து நேற்றைய தினம்  (27) கடை உரிமையாளரிற்கு எதிராக மேலதிக நீதவான் நீதிமன்றில் வழக்கு தாக்கல் செய்யப்பட்டது.
+Following this, the restaurant on Saturday. Examination was carried out by Sanjeevan.
 
-வழக்கை நேற்றை தினம் விசாரணைக்கு எடுத்து கொண்ட நீதவான், உரிமையாளரிற்கு 45,000/= அபராதம் அறவிட்டதுடன் கடையினை திருத்த வேலைகள் முடிவடையும் வரை சீல்வைத்து மூடுமாறு பொது சுகாதார பரிசோதகரிற்கு கட்டளை வழங்கினார்.
+It has been observed that no correction work has already been made by the Public Health Inspector.
 
-இதனையடுத்து பொது சுகாதார பரிசோதகர் பா. சஞ்சீவனால் குறித்த உணவகம் நேற்யை தினம் சீல் வைத்து மூடப்பட்டது. R
+Following this, a case was filed against the shop owner yesterday (27) at the Additional Magistrate's Court.
+
+The magistrate, who took the case yesterday, paid a fine of 45,000/= to the owner and ordered the Public Health Inspector to close the shop until the work is completed.
+
+Subsequently, the Public Health Inspector Pa Pa. The restaurant was sealed by Sanjeevan. Remble
 
 ◼️
 
 [Data](articles/84497334.json)
 
+[Extended Data](ext_articles/84497334.ext.json)
+
 ---
 
-### மழையும் காற்றும் மேலும் தொடரும் என எதிர்பார்ப்பு
+### Expectation as rain and wind will continue
 
 *2024-05-29 08:43:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மழையும்-காற்றும்-மேலும்-தொடரும்-என-எதிர்பார்ப்பு/175-338065) · `ta`
 
-தென்மேல் பருவப் பெயர்ச்சி நிலைமை காரணமாக நாடு முழுவதும் தற்போது நிலவும் மழை நிலைமையும் காற்று நிலைமையும் மேலும் தொடரும் என எதிர்பார்க்கப்படுகின்றது.
+Due to the southwest monsoon, expect continued rainfall and wind across the country, especially in the upper, Sabaragamuwa, Central, North Western, and Southern Provinces. Heavy rainfall is predicted in parts of the Western and Sabaragamuwa provinces and Nuwara Eliya district. Thunderstorms are possible in the evening or night in the Uva Province, Ampara, and Batticaloa districts. Strong winds up to 50-60 km/h are anticipated in several provinces' western slopes. The public should prepare for potential lightning strikes.
 
-மேல், சப்ரகமுவ, மத்திய, வடமேல் மற்றும் தென் மாகாணங்களில் அவ்வப்போது மழை பெய்யக் கூடும் என திணைக்களம் தெரிவித்துள்ளது.
+🟩
 
-மேல் மற்றும் சப்ரகமுவ மாகாணங்களிலும் நுவரெலியா மாவட்டத்திலும் சில இடங்களில் 100 மி.மீ க்கும் அதிகமான  பலத்த மழைவீழ்ச்சி எதிர்பார்க்கப்படுகின்றது.
+Due to the southwest monsoon situation, the current rainfall and wind conditions across the country are expected to continue.
 
-ஊவா மாகாணம், அம்பாறை மற்றும் மட்டக்களப்பு மாவட்டங்களில் பல இடங்களில் மாலையில் அல்லது இரவில் மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடிய சாத்தியம் காணப்படுகின்றது.
+Rainfall in the upper, Sabaragamuwa, Central, North Western and Southern Provinces will occur from time to time, the department said.
 
-மத்திய மலைநாட்டின் மேற்கு சரிவுப் பகுதிகளிலும் வடக்கு, வடமத்திய, மேல், தென் மற்றும் வடமேல் மாகாணங்களிலும் திருகோணமலை மாவட்டத்திலும் அவ்வப்போது மணித்தியாலத்துக்கு 50-60 கிலோ மீற்றர் வரையான வேகத்தில் பலத்த காற்று வீசக் கூடிய சாத்தியம் காணப்படுகிறது.
+Heavy rainfall is expected in some places in the Western and Sabaragamuwa provinces and Nuwara Eliya district.
 
-...
+In many places in the Uva Province, Ampara and Batticaloa districts, there is a possibility of rain or thunderstorms in the evening or at night.
+
+Heavy winds are likely to blow up to 50-60 km / h from time to time in the western slopes of the Central Highlands, North, North, Southern and North Western Provinces and Trincomalee.
+
+Thundershowers may be temporarily blowing in the up -and -coming areas. The public is advised to take necessary precautions to reduce the impacts of lightning impacts. Remble
+
+◼️
 
 [Data](articles/7b1500f3.json)
+
+[Extended Data](ext_articles/7b1500f3.ext.json)
 
 ---
 
@@ -572,6 +612,26 @@ Perera is a Fellow Member of Association of Chartered Certified Accountants (UK)
 
 ---
 
+### 'බිම බඩගාගෙන යන කෙනෙක්ට අර වගේ කෙනෙක් කැමති වුණේ කොහොමද කියලා හැමෝම හිතනවා'
+
+*2024-05-29 02:08:00* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/ce44jdvzydpo) · `si`
+
+මෙහි කිසිවක් අඩංගු නැත.වීඩියෝ ශීර්ෂ වැකිය, ''ශාරීරික වෙනසට වඩා උපුල්ගේ ආත්ම විශ්වාසය වැඩියි''
+
+'බිම බඩගාගෙන යන කෙනෙක්ට අර වගේ කෙනෙක් කැමති වුණේ කොහොමද කියලා හැමෝම හිතනවා'
+
+හෝමාගම කලාප අධ්‍යාපන කාර්යාලයේ සේවය කරන උපුල් රංජිත් උපතින්ම ලද ආබාධ නොසලකා ධෛර්යය සම්පන්නව ජීවිතයට මුහුණදෙන තරුණයෙකි.
+
+පාදවල අසාමාන්‍ය තත්ත්වයක් සහිත ඔහුගේ අත්වල ඇඟිලි අඩුය.  උපුල් පිළිගැනීමේ නිලධාරියෙකු ලෙස සේවය කරයි. එමෙන්ම ඔහු අභියෝග හමුවේ නොසැලී ජීවිතයට මුහුණදෙන ආකාරය ගැන දරුවන් අභිප්‍රේරණය කරන්නෙකි.
+
+''ඕනෑම කෙනක් හිතනවා මම බිම බඩගාගෙන යන කෙනෙක්. ඇයි අරවගේ කෙනෙක් කැමති වුණේ කියලා. ඇය කියන්නේ අබාධ සහිත තත්ත්වයක් මගෙන් දැක්කට අනිත් යට වඩා මම ලෝකය ජයගත්ත පුද්ගලයෙක් හැටියට'' යනුවෙන් උපුල් රංජිත් BBC සිංහල සේවයට පැවසුවේය.
+
+◼️
+
+[Data](articles/d95f721d.json)
+
+---
+
 ### Lanka Transformers forges partnership with Indian giant APAR Industries
 
 *2024-05-29 02:07:36* · [`dailyftlk`](https://www.ft.lk/business/Lanka-Transformers-forges-partnership-with-Indian-giant-APAR-Industries/34-762312) · `en`
@@ -608,17 +668,23 @@ New Generation Sri Lanka Chairman Kasun Sigera said: “This year, we wanted to 
 
 ---
 
-### நாட்டில் இன்புளுயன்சா பரவும் அபாயம்
+### Influenza
 
 *2024-05-29 02:05:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாட்டில்-இன்புளுயன்சா-பரவும்-அபாயம்/175-338063) · `ta`
 
-நாட்டில் நிலவும் மழையுடனான வானிலையால் இன்புளுயன்சா காய்ச்சல் பரவும் அபாயம் ஏற்பட்டுள்ளதாக சுகாதார அமைச்சு தெரிவித்துள்ளது.
+The Ministry warns of increased influenza risk due to heavy rainfall. Specialist Deepal Perera advises immediate treatment upon symptom appearance.
 
-நோய் அறிகுறிகள் தென்படுமாயின், உடனடியாக சிகிச்சைகளை பெற்றுக்கொள்ளுமாறு சீமாட்டி ரிட்ஜ்வே சிறுவர் வைத்தியசாலையின் விசேட வைத்தியர் தீபால் பெரேரா தெரிவித்துள்ளார்.
+🟩
+
+The Ministry of Health said that the rainfall in the country is at risk of spreading influenza fever.
+
+Deepal Perera, a specialist at Seemati Ridgeway Children's Hospital, said that if the symptoms are seen, they will take immediate treatment.
 
 ◼️
 
 [Data](articles/967ad5f4.json)
+
+[Extended Data](ext_articles/967ad5f4.ext.json)
 
 ---
 
@@ -664,19 +730,27 @@ Gunawardena said the scheme is part of a broader effort to streamline State ente
 
 ---
 
-### ’தொழிலாளர்களுக்கு சமூக பாதுகாப்பு நிவாரணம்’
+### Social Security Relief for Workers
 
 *2024-05-29 02:00:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தொழிலாளர்களுக்கு-சமூக-பாதுகாப்பு-நிவாரணம்/175-338062) · `ta`
 
-பலதரப்பட்ட தொழில் துறைகளிலும் பணியாற்றும் 55 வயது நிறைந்த அனைத்து தொழிலாளர்களுக்கும் சமூக பாதுகாப்பு நிவாரணம் வழங்குவதற்கான யோசனைக்கு அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளதென தொழில் மற்றும் வெளிநாட்டு வேலைவாய்ப்பு அமைச்சர் மனுஷ நாணயக்கார தெரிவித்துள்ளார்.
+The Sri Lankan Cabinet has approved providing social security relief to workers aged 55 and above across various industries, aligning with the 'Karuzaru' program. This includes special focus on plantation workers, with the government taking over lands from those claiming inability to pay salaries, then leasing them long-term to capable managers.
 
-ஜனாதிபதி ஊடக மையத்தில் நேற்று நடைபெற்ற ஊடகவியலாளர் மாநாட்டிலேயே அவர் இவ்வாறு தெரிவித்தார். அவர் மேலும் தெரிவிக்கையில்,
+🟩
 
-பலதரப்பட்ட தொழில் துறைகளிலும் பணியாற்றும் 55 வயது நிறைந்த அனைத்து தொழிலாளர்களுக்கும் சமூக பாதுகாப்பு நிவாரணம் வழங்குவதற்கான யோசனைக்கு அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளது. 'கருசரு' வேலைத்திட்டத்திற்கு இணையாக செயற்படுத்தப்படவிருக்கும் இத்திட்டத்துக்கான சட்ட ஏற்பாடுகள் மேற்கொள்ளப்பட்டு வருகின்றன.
+The Minister of Labor and Foreign Employment, Manusha Nanayakkara, said that the Cabinet has approved the idea of ​​providing social security relief to all workers of the 55 -year -old workers in a variety of industries.
 
-...
+He said this at a press conference held at the Presidential Media Center yesterday. As he further stated,
+
+The Cabinet has approved the idea of ​​providing social security relief to all workers of the 55 -year -old workers in a variety of industrial sectors. Legal arrangements are being made for the project that will be implemented in parallel with the 'Karuzaru' program.
+
+The government has paid special attention to the salaries of plantation workers. Lands of those who claim that the government cannot afford the salary will be acquired by the government. Then the gardens will be given to the sidewalk who can manage them on a long -term lease. The President has also obtained the Cabinet approval to make the necessary amendments to it.. (A)
+
+◼️
 
 [Data](articles/5f166dd3.json)
+
+[Extended Data](ext_articles/5f166dd3.ext.json)
 
 ---
 
@@ -2217,39 +2291,5 @@ The ministry further mentioned that it has been decided to appoint a committee h
 [Data](articles/ad27ddaf.json)
 
 [Extended Data](ext_articles/ad27ddaf.ext.json)
-
----
-
-### Postponing of elections is not in accordance with democracy - Namal
-
-*2024-05-28 18:16:32* · [`adalk`](https://www.ada.lk/breaking_news/මැතිවරණ-කල්-දැමීම-ප්‍රජාතන්ත්‍රවාදයට-අනුකූල-නෑ--නාමල්/11-409875) · `si`
-
-Namal Rajapaksa argues that postponing elections undermines democracy, emphasizing the importance of public consent for political stability. He criticizes delays as damaging to democratic principles, highlighting the need for timely elections to reflect the will of the people.
-
-🟩
-
-Namal Rajapaksa says that this is not in accordance with any democracy.. Namal Rajapaksa said,
-
-"Developing the duration of the President and Parliament. Damages basic policies. When Rajapakse Rajapaksa was in power, he had vote.. The stability of a political and a country should have the consent of the people, not by delaying their voice "
-
-◼️
-
-[Data](articles/c564e398.json)
-
-[Extended Data](ext_articles/c564e398.ext.json)
-
----
-
-### Darshana secures Gold Medal in 400m
-
-*2024-05-28 18:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Darshana-secures-Gold-Medal-in-400m/110-283537) · `en`
-
-Sri Lankan sprinter Aruna Darshana further boosted his chances of qualifying for the 2024 Paris Olympic Games by securing the Gold Medal in the Men’s 400m event at the second Belt and Road Athletics Invitation Meet in Chongqing, China.
-
-◼️
-
-[Data](articles/35c98c44.json)
-
-[Extended Data](ext_articles/35c98c44.ext.json)
 
 ---

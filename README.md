@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-29 05:36:13**
+As of **2024-05-29 06:00:21**
 
 ## Newspaper Stats
 
-*Scraped **26,954** Articles*
+*Scraped **26,955** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,540
 dailyftlk | 1,590
 adalk | 2,294
 adaderanalk | 3,075
-tamilmirrorlk | 3,159
+tamilmirrorlk | 3,160
 virakesarilk | 4,137
 dailymirrorlk | 4,250
 adaderanasinhalalk | 4,319
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,319
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,954 (100.0%) of 26,954 articles have been extended.
+26,954 (100.0%) of 26,955 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -361,6 +361,24 @@ Recognising the importance of maintaining transparency and increasing public con
 [Data](articles/36772222.json)
 
 [Extended Data](ext_articles/36772222.ext.json)
+
+---
+
+### ’பசில், நாமல் பெயர்களில் சிதறுதேங்காய் உடைப்பு’
+
+*2024-05-29 01:47:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பசில்-நாமல்-பெயர்களில்-சிதறுதேங்காய்-உடைப்பு/175-338060) · `ta`
+
+பத்தரமுல்ல நெலும் மாவத்தையில் அமைந்துள்ள ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் தலைமை அலுவலகத்திற்கு சிவில் அமைப்புக்களின் பிரதிநிதிகள் பலர் செவ்வாய்க்கிழமை (28) காலை வருகை தந்த போது அங்கு பதற்றமான சூழ்நிலை ஏற்பட்டது.
+
+சிவில் சமூக ஆர்வலர்கள் ஸ்ரீலங்கா பொதுஜன பெரமுனவின் தலைமையகத்திற்கு முன்பாக ஆர்ப்பாட்டம் செய்யத் தயாரானதையடுத்து அங்கு பரபரப்பான சூழல் ஏற்பட்டது. அந்த அலுவலகத்தில் இருந்த ஒரு குழுவினருக்கும் சிவில் அமைப்புகளின் செயல்பாட்டாளர்களுக்கும் இடையே வாய்கத்தர்க்கம் ஏற்பட்டது, பொலிஸார் தலையிட்டு அவ்விரு குழுக்களையும் கலைத்தனர்.
+
+ஶ்ரீ லங்கா பொதுஜன பெரமுனவின் பாராளுமன்ற உறுப்பினர் நாமல் ராஜபக்ஷ மற்றும் அதன் ஸ்தாபகர் பசில் ராஜபக்ஷ ஆகிய இருவர் பெயர்களை தேங்காய்களில் எழுதி சிதறுதேங்காய்கள் இரண்டை அடித்து உடைத்தனர்.
+
+அவ்விடத்திலிருந்து வாகனத்தில் சென்ற அமைச்சர் பிரசன்ன ரணதுங்கவையும் ஆர்ப்பாட்டக்காரர்கள் தடுத்து நிறுத்தியதோடு, அவருக்கு எதிராகவும் குரல் கொடுத்தனர்.
+
+◼️
+
+[Data](articles/bb278b4d.json)
 
 ---
 
@@ -2223,33 +2241,5 @@ The Presidential Media Unit added that the Disaster Management Center has taken 
 [Data](articles/cd413dc5.json)
 
 [Extended Data](ext_articles/cd413dc5.ext.json)
-
----
-
-### Motorcycle comes to hospital
-
-*2024-05-28 17:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197121) · `si`
-
-A motorcyclist caused chaos at Jaffna Teaching Hospital after being admitted. A dispute arose when the hospital staff objected to the motorcycle being operated inside. The motorcyclist allegedly assaulted a worker with a printer before being arrested.
-
-🟩
-
-A motorcyclist who was brought to the Jaffna Teaching Hospital was a hot situation due to a motorcycle with the patient.
-
-The incident was reported on the 26th and a CCTV video is currently circulating in social media.
-
-After the casualty of the blood was set out of the motorcycle, a dispute between the motorcycle and a hospital worker.
-
-The hospital worker protests over the operation of the motorcycle to the building.
-
-The motorcyclist was then stopped his motorcycle and hit the hospital worker with a printer in the place.
-
-The motorcyclist has been arrested following a complaint with the police.
-
-◼️
-
-[Data](articles/294711d8.json)
-
-[Extended Data](ext_articles/294711d8.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-29 21:03:59**
+As of **2024-05-29 21:18:42**
 
 ## Newspaper Stats
 
-*Scraped **27,144** Articles*
+*Scraped **27,146** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,38 @@ newsfirstlk | 363
 islandlk | 1,465
 economynextcom | 1,556
 dailyftlk | 1,591
-adalk | 2,306
+adalk | 2,307
 adaderanalk | 3,092
 tamilmirrorlk | 3,187
 virakesarilk | 4,173
 dailymirrorlk | 4,288
-adaderanasinhalalk | 4,348
+adaderanasinhalalk | 4,349
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,144 (100.0%) of 27,144 articles have been extended.
+27,144 (100.0%) of 27,146 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-29 (Wednesday)
+
+### පුහුණුකරුවන් සහ තේරීම් කමිටු සභාපති පිටියට
+
+*2024-05-29 20:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197164) · `si`
+
+විස්සයි විස්ස ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ නැමීබියාව සමඟ පැවති පුහුණු තරගයෙන් කඩුලු 7ක ජයක් වාර්තා කරන්නට ඔස්ට්‍රේලියා ක්‍රීඩකයින් සමත්විය.
+
+නැමීබියාව සමඟ ඊයේ පැවති පුහුණු තරගයට ඔස්ට්‍රේලියා ලෝක කුසලාන සංචිතයේ ක්‍රීඩකයින් 9 දෙනෙක් පමණක් සහභාගි වූ අතර ඒ අනුව ඔස්ට්‍රේලියා ප්‍රධාන පුහුණුකරු ඇන්ඩෘ මැක්ඩොනල්ඩ්, සහාය පුහුණුකරු බ්‍රැඩ් හොජ් සහ තේරීම් කමිටු සභාපති ජොර්ජ් බෙයිලිට පන්දු රැකීම සඳහා එක්වීමට සිදුවීම විශේෂත්වයකි.
+
+ඒ ඔස්ට්‍රේලියා ලෝක කුසලාන සංචිතයේ ක්‍රීඩකයින් වන ට්‍රැවිස් හෙඩ්, පැට් කමින්ස්, ග්ලෙන් මැක්ස්වෙල්, මිචෙල් ස්ටාර්ක්, කැමරන් ග්‍රීන් සහ මාර්කස් ස්ටොයිනිස්  IPL ක්‍රිකට් තරගාවලියට සහභාගිවීම නිසා තවමත් ඔස්ට්‍රේලියා සංචිතය සමගින් එක්ව නොමැත.
+
+◼️
+
+[Data](articles/879fd8a3.json)
+
+---
 
 ### Student, students curled up by the heat wave
 
@@ -233,6 +249,28 @@ MP Harsha De Silva who referred to the proposed debate with the NPP said his par
 [Data](articles/9deb9820.json)
 
 [Extended Data](ext_articles/9deb9820.ext.json)
+
+---
+
+### ජනා‍ධිපතිවරණය නිසි පරිදි පවත්වනවා
+
+*2024-05-29 18:15:25* · [`adalk`](https://www.ada.lk/breaking_news/ජනා‍ධිපතිවරණය-නිසි-පරිදි-පවත්වනවා/11-409894) · `si`
+
+ජනාධිපතිවරණය සඳහා ඉදිරිපත් වන බව පවසන කිසිදු අපේක්ෂකයෙකු විධායක බලතල අහෝසි කරනවා යැයි ප්‍රකාශ කර නැහැ
+
+ජනාධිපති ධූරය සතු විධායක බලය නිසා ශ්‍රී ලංකාවේ ආර්ථිකය ගොඩනැඟීමටත් තිස්වසරක යුද්ධය නිමා කිරීමටත් හැකි වුණා.
+
+මේ වන විටත් විධායක බලතලවල කොටස් ගණනාවක් පළාත් සභාවලටත්, පාර්ලිමේන්තු අධීක්ෂණ කාරක සභා වෙතත් ලබා දී තිබෙනවා- ජනපති.
+
+ජනාධිපතිවරණය සඳහා ඉදිරිපත් වන බව පවසන කිසිදු අපේක්ෂකයෙකු එම ධුරය සතු විධායක බලය අහෝසි කරන බවට මෙතෙක් ප්‍රකාශ ක‍ර නොමැති බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සඳහන් කළේය.
+
+විධායක ජනාධිපති ක්‍රමයේ වාසි මෙන්ම අවාසි පවතින බවත්, ජනාධිපති ධූරය සතු විධායක බලය නිසා ශ්‍රී ලංකාවේ ආර්ථිකය ගොඩනැඟීමට මෙන්ම තිස්වසරක යුද්ධය නිමා කිරිමට හැකි වූ බවත් ජනාධිපතිවරයා පෙන්වා දුන්නේය.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ ‘What’s New” තරුණ නීති වෘත්තිකයන් සමඟ නීති ප්‍රතිසංස්කරණ පිළිබඳ ජනාධිපති කාර්යාලයේදී ඊයේ (28) පවැති වැඩමුළුවට එක්වෙමිනි.
+
+...
+
+[Data](articles/8f49fe7c.json)
 
 ---
 
@@ -2213,53 +2251,5 @@ In addition, the suspect is to be produced in court and further investigations a
 [Data](articles/c566b416.json)
 
 [Extended Data](ext_articles/c566b416.ext.json)
-
----
-
-### A red announcement from the weather
-
-*2024-05-29 12:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197150) · `si`
-
-The Department of Meteorology has issued a red warning due to strong winds and rough seas, advising caution for coastal residents. Wind speeds exceed 60-70 knots, and sea heights may reach 2.5 meters, posing risks for naval and fishing activities. It's recommended to avoid sailing from Kalpitiya to Pottuvil and prepare for potential landfall impacts along the coast from Kalpitiya to Matara.
-
-🟩
-
-The Department of Meteorology has issued a red notice of warning of strong winds and rough sea.
-
-Accordingly, the people of the sea areas around the sea areas have been told to be concerned.
-
-In those areas, the wind is over 60 - 70 times and the sea is very rough.
-
-Naval and fishing communities have informed the sacred and fishing communities not to be restored until the sea areas are again informed.
-
-Sea areas seawater in Kalpitiya to Pottuvil from Kalpitiya to Pottuvil via Pottuvil via Pottuvil via Pottuvil can increase to 2.5 meters high.
-
-As a result, there is a possibility to land on earth from Kalpitiya to Matara through Kalpitiya and Galle.
-
-◼️
-
-[Data](articles/ff89e3ad.json)
-
-[Extended Data](ext_articles/ff89e3ad.ext.json)
-
----
-
-### Safety of schoolchildren during bad weather a top priority
-
-*2024-05-29 11:58:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Safety-of-schoolchildren-during-bad-weather-a-top-priority/108-283604) · `en`
-
-Colombo, May 29 (Daily Mirror) - Keeping schoolchildren safe, especially during bad weather, is a top priority in the country's disaster management programme, State Defence Minister Premitha Bandara Tennakoon said.
-
-During an event on disaster management preparedness yesterday at the Disaster Management Centre (DMC), he said that he had requested officials to update and activate district committees to conduct risk assessments and inform the DMC and it would help in preparing effective contingency plans for emergency situations.
-
-While launching the ‘Surakimu’ programme at the DMC headquarters yesterday, the State Defence Minister said that the safety of all students in the country's 10,126 schools must be ensured.
-
-He also said that plans are underway to suggest forming special school committees led by principals, with help from past pupils' associations and parent-teacher associations, after consulting with relevant authorities and state agencies.
-
-...
-
-[Data](articles/adcf1789.json)
-
-[Extended Data](ext_articles/adcf1789.ext.json)
 
 ---

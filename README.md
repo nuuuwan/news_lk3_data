@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-30 05:04:05**
+As of **2024-05-30 05:18:45**
 
 ## Newspaper Stats
 
-*Scraped **27,189** Articles*
+*Scraped **27,191** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 270
 newsfirstlk | 363
 islandlk | 1,465
 economynextcom | 1,556
-dailyftlk | 1,599
+dailyftlk | 1,601
 adalk | 2,311
 adaderanalk | 3,095
 tamilmirrorlk | 3,189
@@ -26,11 +26,43 @@ adaderanasinhalalk | 4,351
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,187 (100.0%) of 27,189 articles have been extended.
+27,189 (100.0%) of 27,191 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-30 (Thursday)
+
+### Vietnam example: Communist factor in JVP-NPP mix could prove constructive
+
+*2024-05-30 04:59:56* · [`dailyftlk`](https://www.ft.lk/columns/Vietnam-example-Communist-factor-in-JVP-NPP-mix-could-prove-constructive/4-762354) · `en`
+
+“First as tragedy, then as farce”. Marx’s legendary riff on Hegel springs to mind when forecasting the political future of Sarvajana Balaya, the rebranded bloc of Islamophobic ultranationalists from the Zombieland of the Gotabaya Presidency and old Leftists.
+
+I expect it to be extinguished through Sarvajana Chanda Balaya (universal franchise) at the forthcoming Parliamentary election just as the SLFP’s allies were in 1977. Its rancid ultranationalism is anathema to the youth of the Aragalaya generation and while its old personalities and discourse will give ex-MR voters someone to punish, for the painful Gotabaya fiasco.
+
+For the CPSL and Vasu’s DLF there will be no coming back from this last cruise on the Titanic. Criticising the JVP-NPP is fine but doing so in alliance with and on the same platform as three notorious political purveyors of dangerous Islamophobia (Muslim birth-rates, Dr. Shafi, etc.) is morally grotesque and ethically disgusting.
+
+...
+
+[Data](articles/464200c7.json)
+
+---
+
+### Yukthiya anti-drug operation: Separating fact from fiction
+
+*2024-05-30 04:52:20* · [`dailyftlk`](https://www.ft.lk/columns/Yukthiya-anti-drug-operation-Separating-fact-from-fiction/4-762353) · `en`
+
+The impact of the operation on respect for the rule of law and the protection of human rights has been adverse
+
+Minister Alles and Deshabandu Tennakoon, the Inspector General of Police (IGP), have repeatedly proclaimed the success of Yukthiya (means justice in Sinhala), the anti-drug operation they launched in December 2023. The facts say otherwise.
+
+As of 22 May 2024, 113,974 persons have been arrested as part of Yukthiya, with the majority of such persons released soon after arrest either after being fined or on bail. Releasing most arrested persons within a few hours of arrest demonstrates that the intent is to create the illusion of effective government action to address drug trafficking by showing a high number of arrests. However, most of the arrested persons are drug users, many of whom are drug dependent, and not drug traffickers.
+
+...
+
+[Data](articles/31f1c3cc.json)
+
+---
 
 ### How transparency and competitive bidding could have averted VFS visa fiasco
 
@@ -45,6 +77,8 @@ The first point of contention is the secrecy and lack of consultation surroundin
 ...
 
 [Data](articles/09772d46.json)
+
+[Extended Data](ext_articles/09772d46.ext.json)
 
 ---
 
@@ -61,6 +95,8 @@ Sri Lanka’s tourism sector experienced a significant setback during the pandem
 ...
 
 [Data](articles/e96dc101.json)
+
+[Extended Data](ext_articles/e96dc101.ext.json)
 
 ---
 
@@ -2241,45 +2277,5 @@ Senior Public Health Inspectors, Public Health Inspectors, Regional Environmenta
 [Data](articles/c3c2ea3b.json)
 
 [Extended Data](ext_articles/c3c2ea3b.ext.json)
-
----
-
-### Presidential Election this year - Prime Minister emphatically states
-
-*2024-05-29 15:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Presidential-Election-this-year-Prime-Minister-emphatically-states/108-283614) · `en`
-
-Colombo, May 29 - Prime Minister Dinesh Gunawardena emphatically said that the Presidential Election will be held this year in accordance with the constitutional provisions as already announced by the Elections Commission.
-
-He pointed out that the Election Commission has already made an announcement that the Presidential Election would be held between September 15 and October 17 this year.
-
-Speaking to journalists after attending inauguration of Martin Wickramasinghe’s Life & Literature Section at the National Libraries Board in Colombo today (May 29), he dismissed the suggestions about postponement of Presidential Elections and General Elections. The Prime Minister said it was wrong to make proposals that have not discussed by the government or the ruling alliance at any time.
-
-...
-
-[Data](articles/364b77f7.json)
-
-[Extended Data](ext_articles/364b77f7.ext.json)
-
----
-
-### Defence Ministry clearance now required for Sri Lankan ex-servicemen to visit Russia
-
-*2024-05-29 15:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/99512/defence-ministry-clearance-now-required-for-sri-lankan-ex-servicemen-to-visit-russia) · `en`
-
-Russia will now require Sri Lanka’s Defence Ministry clearance for visit visas of ex-servicemen, says Foreign Minister Ali Sabry.
-
-The Minister of Foreign Affairs said that he had a constructive meeting with the Russian Ambassador in Colombo, Levan S. Dzhagaryan today (29).
-
-“We addressed the urgent situation of Sri Lankans being deployed in the Russia-Ukraine conflict and agreed on immediate steps to resolve these issues,” he said, in a post on ‘X’ (formerly Twitter).
-
-“Russia will now require Sri Lanka Defence Ministry clearance for visit visas of ex-servicemen.”
-
-He added that the upcoming visit by the Sri Lanka’s State Minister of Foreign Affairs, Tharaka Balasuriya to Russia will enable further discussions to find a solution to this matter.
-
-◼️
-
-[Data](articles/c0405923.json)
-
-[Extended Data](ext_articles/c0405923.ext.json)
 
 ---

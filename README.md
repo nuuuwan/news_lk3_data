@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-29 12:18:29**
+As of **2024-05-29 12:34:08**
 
 ## Newspaper Stats
 
-*Scraped **27,033** Articles*
+*Scraped **27,037** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 islandlk | 1,465
 economynextcom | 1,547
 dailyftlk | 1,591
-adalk | 2,297
-adaderanalk | 3,083
-tamilmirrorlk | 3,175
+adalk | 2,298
+adaderanalk | 3,084
+tamilmirrorlk | 3,177
 virakesarilk | 4,142
 dailymirrorlk | 4,263
 adaderanasinhalalk | 4,335
@@ -26,11 +26,25 @@ adaderanasinhalalk | 4,335
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,029 (100.0%) of 27,033 articles have been extended.
+27,033 (100.0%) of 27,037 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-29 (Wednesday)
+
+### President calls for long-term plan to advance Sri Lanka’s energy sector transformation
+
+*2024-05-29 12:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/99508/president-calls-for-long-term-plan-to-advance-sri-lankas-energy-sector-transformation) · `en`
+
+President Ranil Wickremesinghe has called on all stakeholders, including private sector investors, to support and develop a long-term plan for advancing Sri Lanka’s energy sector transformation and promoting green growth efforts.
+
+The President stated this while addressing a roundtable discussion, the President’s Media Division reported.
+
+◼️
+
+[Data](articles/d7ceae76.json)
+
+---
 
 ### Removal of rock debris begins at Pahala Kadugannawa
 
@@ -48,27 +62,55 @@ However, Kodippili said that if it becomes essential to close the road the DMC w
 
 [Data](articles/b7ee1d84.json)
 
+[Extended Data](ext_articles/b7ee1d84.ext.json)
+
 ---
 
-### කාලගුණයෙන් රතු නිවේදනයක්
+### நிர்வாண புகைப்படங்களை  வெளியிட்ட காதலன்
+
+*2024-05-29 12:01:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/நிர்வாண-புகைப்படங்களை-வெளியிட்ட-காதலன்/76-338083) · `ta`
+
+17 வயதுடைய பாடசாலை மாணவியின் நிர்வாண புகைப்படங்களை இணையத்தில் வெளியிட்ட குற்றச்சாட்டில் 18 வயதுடைய பாடசாலை மாணவன் ஒருவன் மத்தேகொட பொலிஸாரால் கைது செய்யப்பட்டுள்ளார் .
+
+நுகேகொட பிரதேசத்தை சேர்ந்த 18 வயதுடைய பாடசாலை மாணவர் ஒருவரே இவ்வாறு கைது செய்யப்பட்டுள்ளதாக தெரிவிக்கப்பட்டுள்ளது .
+
+கைது செய்யப்பட்ட மாணவன்  நுகேகொட பிரதேசத்தில் உள்ள பிரத்தியேக வகுப்பொன்றிக்கு சென்று கொண்டிருந்த போது, ​​மத்தேகொட , குடமாதுவ பிரதேசத்தை சேர்ந்த 17 வயதுடைய பாடசாலை மாணவி ஒருவருடன் காதல் தொடர்பை ஏற்படுத்திக் கொண்டுள்ளார் .
+
+இந் நிலையில் , குறித்த மாணவன் அடிக்கடி மருந்து வகைகளை உட்கொள்வதை   அறிந்த மாணவி  அது தொடர்பில் வினவிய போது மாணவனுக்கு தீராத நோய் ஒன்று ஏற்பட்டுள்ளமை தெரியவந்துள்ளது .
+
+பின்னர் குறித்த மாணவி அவர்களின் காதல் உறவை முறித்துக்கொண்டு வேறொரு இளைஞனுடன் காதலை வளர்த்துக்கொண்டுள்ளார் . இதனால் கோபமடைந்த மாணவன் , குறித்த இருவரும் காதல் உறவில் இருந்த போது , வீடியோ அழைப்புகள் மூலம் ஸ்கிரீன் ஷாட் செய்யப்பட்ட மாணவியின் நிர்வாண புகைப்படங்களை  சமூக வலைத்தளங்களில் வெளியிட்டுள்ளார் .
+
+...
+
+[Data](articles/c566b416.json)
+
+---
+
+### A red announcement from the weather
 
 *2024-05-29 12:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197150) · `si`
 
-තද සුළං සහ රළු මුහුද පිළිබඳව අනතුරු ඇඟවීමේ රතු නිවේදනයක් කාලගුණවිද්‍යා දෙපාර්තමේන්තුව විසින් නිකුත් කර තිබේ.
+The Department of Meteorology has issued a red warning due to strong winds and rough seas, advising caution for coastal residents. Wind speeds exceed 60-70 knots, and sea heights may reach 2.5 meters, posing risks for naval and fishing activities. It's recommended to avoid sailing from Kalpitiya to Pottuvil and prepare for potential landfall impacts along the coast from Kalpitiya to Matara.
 
-ඒ අනුව දිවයිනට වටා මුහුදු ප්‍රදේශවල ජනතාවට සැලකිලිමත් වන්නැයි දැනුම්දී තිබේ.
+🟩
 
-එම ප්‍රදේශවල සුළඟේ වේගය විටින් විට පැ.කි.මී 60 - 70ත් අතර වැඩි වෙන බවත් මුහුද ඉතා රළු වෙන බවත් අදාළ නිවේදනයේ දැක්වේ.
+The Department of Meteorology has issued a red notice of warning of strong winds and rough sea.
 
-මුහුදු ප්‍රදේශයන්ට නැවත දැනුම්දෙන තුරු යාත්‍රා නොකරන ලෙසට ද නාවික හා ධීවර ප්‍රජාවන්ට දැනුම්දී ඇත.
+Accordingly, the people of the sea areas around the sea areas have been told to be concerned.
 
-කල්පිටිය සිට කොළඹ, ගාල්ල සහ හම්බන්තොට හරහා පොතුවිල් දක්වා වෙරළට ඔබ්බෙන් වන මුහුදු ප්‍රදේශවල මුහුදු රළ උස මීටර් 2.5 - 3.5 දක්වා ඉහළ යාහැකිය.
+In those areas, the wind is over 60 - 70 times and the sea is very rough.
 
-මේ හේතුවෙන් කල්පිටිය සිට කොළඹ, ගාල්ල හරහා මාතර දක්වා ප්‍රදේශවල මුහුදු රළ ගොඩබිමට පැමිණීමේ හැකියාවක් ද පවතී.
+Naval and fishing communities have informed the sacred and fishing communities not to be restored until the sea areas are again informed.
+
+Sea areas seawater in Kalpitiya to Pottuvil from Kalpitiya to Pottuvil via Pottuvil via Pottuvil via Pottuvil can increase to 2.5 meters high.
+
+As a result, there is a possibility to land on earth from Kalpitiya to Matara through Kalpitiya and Galle.
 
 ◼️
 
 [Data](articles/ff89e3ad.json)
+
+[Extended Data](ext_articles/ff89e3ad.ext.json)
 
 ---
 
@@ -87,6 +129,20 @@ He also said that plans are underway to suggest forming special school committee
 ...
 
 [Data](articles/adcf1789.json)
+
+[Extended Data](ext_articles/adcf1789.ext.json)
+
+---
+
+### மரக்கறி விலைகளில் மாற்றம்
+
+*2024-05-29 11:51:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மரக்கறி-விலைகளில்-மாற்றம்/76-338081) · `ta`
+
+நுவரெலியா விசேட பொருளாதார மத்திய நிலையத்தின் ஊடாக கொள்வனவு மற்றும் விற்பனை செய்யப்படும் கிலோவுக்கான மரக்கறி விலைகளின் விலை பட்டியலை நிலையத்தின் காரியாலயம் புதன்கிழமை (29) வெளியிட்டுள்ளது.
+
+◼️
+
+[Data](articles/425d4094.json)
 
 ---
 
@@ -171,6 +227,8 @@ Chairman Rathnayake assured Ambassador Chung that the elections will be conducte
 ◼️
 
 [Data](articles/8b99d137.json)
+
+[Extended Data](ext_articles/8b99d137.ext.json)
 
 ---
 
@@ -453,6 +511,20 @@ Thus, local meat prices have increased.   அதன்படி, நாரஹ�
 [Data](articles/7712422b.json)
 
 [Extended Data](ext_articles/7712422b.ext.json)
+
+---
+
+### අතරමග නැවතුණු මධ්‍යම පාන්තික නිවාස ව්‍යාපෘති නැවත අරඹයි
+
+*2024-05-29 10:53:12* · [`adalk`](https://www.ada.lk/breaking_news/අතරමග-නැවතුණු-මධ්‍යම-පාන්තික-නිවාස-ව්‍යාපෘති-නැවත-අරඹයි/11-409885) · `si`
+
+කොවිඩ් සහ ආර්ථික අර්බුධය හේතුවෙන් අතරමග නතර කෙරුණු මාලඹේ, බොරලැස්ගමුව, මාකුඹුර යන විශේෂ කැබිනට් පත්‍රිකාවක් අමාත්‍යමණ්ඩලයට ඉදිරිපත් කෙරේ. නාගරික සංවර්ධන හා නිවාස අමාත්‍ය ප්‍රසන්න රණතුංග මහතා එය කැබිනට් මණ්ඩලයට ඉදිරිපත් කර ඇත.
+
+මෙම නිවාස ව්‍යාපෘති තුන නාගරික සංවර්ධන අධිකාරිය ආරම්භ කරන ලද්දේ 2021 වර්ෂයේ පෙබරවාරි මාසයේ දී ය. මාලඹේ නිවාස ව්‍යාපෘතිය සදහා රු.මිලි. 3148.80 ක් වෙන් කෙරිණ. ඒ නිවාස 256 ක් ඉදිකිරීම සදහායි. නිවාස 120 ක් ඉදිකිරීම සදහා වන බොරලැස්ගමුව නිවාස ව්‍යාපෘතිය සදහා වෙන් කළ මුදල රු. මිලි. 1476 කි. යෝජිත මාකුඹුර නිවාස ව්‍යාපෘතිය සදහා වන ඇස්තමේන්තුගත මුදල රු.මිලි. 3859ක් වන අතර එහි ඉදිකෙරෙන නිවාස සංඛ්‍යාව 314 කි.
+
+...
+
+[Data](articles/2e065722.json)
 
 ---
 
@@ -2227,85 +2299,5 @@ The executive president of the country gives the promise to protect the Constitu
 [Data](articles/8402fe94.json)
 
 [Extended Data](ext_articles/8402fe94.ext.json)
-
----
-
-### Caratic flower
-
-*2024-05-29 00:33:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாதணிகளில்-கார்த்திகைப்-பூ/175-338055) · `ta`
-
-Tamil leader Ponnuthurai Aingeranesan criticizes a company for using the Karthik flower, a symbol of Tamil nationalism, in footwear, calling it an insult to Tamil sentiments. He demands an apology from the company for this offense.
-
-🟩
-
-Tamil National Green Movement Leader Ponnuthurai Aingeranesan has expressed dissatisfaction with the traditional and unique Karthik flower of the Tamils ​​in the South Sri Lanka company.
-
-The company has insulted the sentiments of the Tamils ​​in the footwear, which is not considered as a unique flower that once blooms on the Tamil nationalist area.
-
-He said the Tamils ​​should apologize to the Tamils ​​for banning the shoes produced by the company.
-
-◼️
-
-[Data](articles/bbd6774f.json)
-
-[Extended Data](ext_articles/bbd6774f.ext.json)
-
----
-
-### Is the Swiss auction legally valid?
-
-*2024-05-29 00:15:06* · [`dailyftlk`](https://www.ft.lk/columns/Is-the-Swiss-auction-legally-valid/4-762274) · `en`
-
-We need to welcome foreign investment in meeting our energy demands and not subject them to selective outage
-
-Recently, Minister of Power and Energy Kanchana Wijesekara took to X, formally known as Twitter, to announce the conclusion of intense negotiation between the Government and Adani Group. Under this, the country will purchase power from wind plants built by the latter at 8.26 US cents a kilowatt hour for 20 years, to be paid in LKR on the prevailing exchange rate at the time of payment. “On the current exchange rate considered as, 1 USD = Rs 300, the cost of energy will be Rs 24.78 per kWh. The current average cost of energy in SL is Rs 39.02 per kWh,” the minister added on X.
-
-India’s Adani group has proposed to invest about $ 740 million in the country to set up two wind power projects with a cumulative generation capacity of 484 MW. The tariff is by far the best the country has seen, as is evident from the given table.
-
-...
-
-[Data](articles/301e88b9.json)
-
-[Extended Data](ext_articles/301e88b9.ext.json)
-
----
-
-### Is the Swiss auction legally valid?
-
-*2024-05-29 00:15:06* · [`dailyftlk`](https://www.ft.lk/opinion/Is-the-Swiss-auction-legally-valid/14-762274) · `en`
-
-We need to welcome foreign investment in meeting our energy demands and not subject them to selective outage
-
-Recently, Minister of Power and Energy Kanchana Wijesekara took to X, formally known as Twitter, to announce the conclusion of intense negotiation between the Government and Adani Group. Under this, the country will purchase power from wind plants built by the latter at 8.26 US cents a kilowatt hour for 20 years, to be paid in LKR on the prevailing exchange rate at the time of payment. “On the current exchange rate considered as, 1 USD = Rs 300, the cost of energy will be Rs 24.78 per kWh. The current average cost of energy in SL is Rs 39.02 per kWh,” the minister added on X.
-
-India’s Adani group has proposed to invest about $ 740 million in the country to set up two wind power projects with a cumulative generation capacity of 484 MW. The tariff is by far the best the country has seen, as is evident from the given table.
-
-...
-
-[Data](articles/d848b787.json)
-
-[Extended Data](ext_articles/d848b787.ext.json)
-
----
-
-### Meeting between Election Commission and US Ambassador Julie Sung
-
-*2024-05-29 00:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/184727) · `ta`
-
-In a meeting on Tuesday, Sri Lanka's Election Commission discussed election plans with US Ambassador Julie Sung. The ambassador praised the commission for its efforts towards establishing transparent processes, emphasizing the significance of free and fair elections in maintaining democracy.
-
-🟩
-
-A special meeting was held on Tuesday between the members of the Election Commission of Sri Lanka and the US Ambassador to Sri Lanka, Julie Sung.
-
-US Ambassador to Sri Lanka Julie Chung has uploaded a record on her X website regarding the meeting.
-
-“Meeting with the Election Commission is commendable on the establishment of election plans and the explicit process. As Sri Lanka, the United States and many other countries face this year's election, we exchanged comments on the importance of voting in independent and fair elections as the pillar of democratic regime. ”He mentioned in his X post.
-
-◼️
-
-[Data](articles/c5e2765b.json)
-
-[Extended Data](ext_articles/c5e2765b.ext.json)
 
 ---

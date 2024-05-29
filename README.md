@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-29 08:52:57**
+As of **2024-05-29 09:03:57**
 
 ## Newspaper Stats
 
-*Scraped **26,976** Articles*
+*Scraped **26,979** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,72 @@ adalk | 2,295
 adaderanalk | 3,076
 tamilmirrorlk | 3,161
 virakesarilk | 4,138
-dailymirrorlk | 4,253
-adaderanasinhalalk | 4,323
+dailymirrorlk | 4,254
+adaderanasinhalalk | 4,325
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,975 (100.0%) of 26,976 articles have been extended.
+26,976 (100.0%) of 26,979 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-29 (Wednesday)
+
+### Roads inundated
+
+*2024-05-29 08:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Roads-inundated/110-283580) · `en`
+
+Torrential rains caused minor flooding in the Kirindivita area of Gampaha yesterday. Several roads were inundated, leading to traffic disruptions. Pix by Kushan Pathiraja
+
+◼️
+
+[Data](articles/3d9b18ac.json)
+
+---
+
+### 55 සපිරුණු සියලු ශ්‍රමිකයන්ට ප්‍රතිලාභ ලැබෙන යෝජනාවට අනුමැතිය
+
+*2024-05-29 08:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197140) · `si`
+
+විවිධ කර්මාන්තවල සේවයේ යෙදෙන වයස අවුරුදු 55 සපිරුණු සියලු ශ්‍රමිකයන්ට සමාජ ආරක්ෂණ ප්‍රතිලාභයක් ලබාදිය හැකි වන පරිදි සකස් කෙරුණු යෝජනාවට කැබිනට් අනුමැතිය හිමිව ඇති බව මනූෂ නානායක්කාර අමාත්‍යවරයා පවසයි.
+
+ඔහු පැවසුවේ "ගරුසරු" වැඩසහනට සමගාමීව සකස් කෙරෙන මෙම ක්‍රියාවලිය සඳහා නීතිමය ප්‍රතිපාදන සකස් කිරීම ද මේ වන විට ආරම්භ කර තිබෙන බවය.
+
+www.garusaru.lk යන වෙබ් අඩවිය යටතේ මේ වනවිට විෂය කේෂ්ත්‍ර ගණනාවකට ලියාපදිංචි වීමට අවස්ථාව ඇති බව ද අමාත්‍යවරයා මෙහිදී පැවසීය.
+
+...
+
+[Data](articles/1ec44ae0.json)
+
+---
+
+### පළමු පුහුණු තරගයේ ජය නෙදර්ලන්තයට
+
+*2024-05-29 08:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197139) · `si`
+
+20යි 20 ලෝක කුසලානය වෙනුවෙන් පැවැත්වුණු පළමු පුහුණු තරගයෙන් ලකුණු 20ක පරාජයක් ලැබීමට ශ්‍රී ලංකා කණ්ඩායමට සිදුවුණි.
+
+අමෙරිකාවේ ෆ්ලෝරිඩා හිදි පැවති තරගයේ කාසියේ වාසිය දිනු ශ්‍රී ලංකා කණ්ඩායම පළමුව පන්දුවට පහර දීමට නෙදර්ලන්ත කණ්ඩායමට ආරාධනා කළේය.
+
+ඒ අනුව පිටියට පිවිසි නෙදර්ලන්ත කණ්ඩායම නියමිත පන්දුවාර 20 අවසානයේදී කඩුලු 5ක් දැවි ලකුණු 181ක් රැස්කර ගත්තේය.
+
+ශ්‍රී ලංකාවට ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ පළමු වටයේදීද නෙදර්ලන්තය සමඟ තරගයක් පැවැත්වෙන බැවින් ශ්‍රී ලංකා කණ්ඩායමේ  ප්‍රධාන පන්දු යවන්නන් වන වනිඳු හසරංග, මතීෂ පතිරණ සහ මහීෂ් තීක්ෂණ පන්දු යවා තිබුණේ නැහැ.
+
+ලකුණු 182ක ජයග්‍රාහි ඉලක්කයක් හඹා යෑමට පිටියට පිවිසි ශ්‍රී ලංකා කණ්ඩායමට පන්දුවාර 18යි පන්දු 5කදී සියලුදෙනා දැවි රැස්කරගත හැකි වූයේ ලකුණු 161ක් පමණය.
+
+ශ්‍රී ලංකා මුල් පෙළ පිිතකරුවන් අසාර්ථක වෙද්දි වනිඳු හසරංග පන්දු 15කින් ලකුණු 43ක් රැස්කිරීමට සමත්වුණි.
+
+දසුන් ශානක ලකුණු පන්දු 20කදී නොදැවි ලකුණු 35ක් රැස්කළ අතර ධනංජය ද සිල්වා ලකුණු 31යි.
+
+ශ්‍රී ලංකා කණ්ඩායම සහභාගි වන දෙවන පුහුණු තරගය මැයි 31 වැනිදා අයර්ලන්තයට එරෙහිව පැවැත්වීමට නියමිතව තිබේ.
+
+◼️
+
+[Data](articles/0eceae21.json)
+
+---
 
 ### An announcement that the owners of risk trees should accept its owners
 
@@ -174,23 +228,31 @@ In fact, by last evening, President Wickremesinghe began receiving calls from se
 
 ---
 
-### ஜனாதிபதி தேர்தலையும் நாடாளுமன்ற தேர்தலையும் பிற்போடும் நோக்கம் இல்லை  – ஜனாதிபதி தெரிவித்ததாக ஐக்கியதேசிய கட்சியின் சிரேஸ்ட தலைவர்கள் தெரிவிப்பு
+### Senior leaders of the United National Party (UNP)
 
 *2024-05-29 05:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/184735) · `ta`
 
-ஐக்கிய தேசிய கட்சியின் பொதுச்செயலாளர் பாலித ரங்க பண்டார ஜனாதிபதி தேர்தலையும் நாடாளுமன்ற தேர்தலையும் பிற்போடுவதற்கான யோசனையொன்றை நாடாளுமன்றத்தில் சமர்ப்பிப்பது குறித்து கருத்து தெரிவித்ததை தொடர்ந்து அரசியல் வட்டாரங்கள் நேற்று பெரும் குழப்பநிலை காணப்பட்டது.
+Political turmoil ensued within the United National Party (UNP) as its general secretary's comments on the presidential election were met with rejection by parliamentary parties. Opposition MPs called for clarity, leading the President to distance himself from the remarks, assuring no election postponement plans exist. Senior UNP members were tasked with conveying the President's stance, while insiders dismissed the general secretary's statement as personal, denying any intention to delay the election.
 
-நாடாளுமன்றத்தில் அங்கம் வகிக்கும் கட்சிகள் ஐக்கிய தேசிய கட்சியின் பொதுச்செயலாளரின் அறிவிப்பை முற்றாக நிராகரித்ததுடன் ஜனாதிபதி உடனடியாக பதிலளிக்கவேண்டும் என வேண்டுகோள் விடுத்தனர்.
+🟩
 
-நேற்று மாலைக்குள் ஜனாதிபதி ரணில்விக்கிரமசிங்கவை பலர் தொலைபேசி மூலம் தொடர்புகொண்டனர்,இவர்களில் பலர் எதிர்கட்சி நாடாளுமன்ற உறுப்பினர்கள் என்பது குறிப்பிடத்தக்கது.
+Political sources were in great disturbance yesterday after the UNP general secretary Palitha Ranga Bandara commented on the presidential and the presidential election in Parliament.
 
-ஜனாதிபதியை தொடர்புகொண்ட எதிர்கட்சி நாடாளுமன்ற உறுப்பினர்கள்,ஐக்கிய தேசிய கட்சியின் பொதுச்செயலாளரின் அறிக்கைn குறித்து மேலும் விளக்கங்களை தெளிவுபடுத்தல்களை கோரினர்.
+The parties in Parliament completely rejected the announcement of the General Secretary of the United National Party and appealed for the president to immediately respond.
 
-இதனை தொடர்ந்து ஜனாதிபதி தனது கட்சியின் பொதுச்செயலாளரின் அறிவிப்பிலிருந்து தன்னை தனிமைப்படுத்தவேண்டிய நிலையேற்பட்டது , தேர்தலை பிற்போடும் திட்டம் எதுவும் இல்லை என ஜனாதிபதி தெரிவித்துள்ளார்.
+Many of them telephoned President Ranil Wickremesinghe by telephone yesterday evening, many of them were opposition MPs.
+
+Opposition MPs, who contacted the president, demanded further clarification on the report of the General Secretary of the United National Party.
+
+Following this, the President said that the President had to isolate himself from the announcement of his party's general secretary, and there was no plan to postpone the election.
+
+The President has asked the senior members of the United National Party to express his comments on his behalf.
 
 ...
 
 [Data](articles/6058f3c7.json)
+
+[Extended Data](ext_articles/6058f3c7.ext.json)
 
 ---
 
@@ -2185,81 +2247,5 @@ The 10th World Water Forum was held on the 18th to the 20th Bali Island of Indon
 [Data](articles/3955a456.json)
 
 [Extended Data](ext_articles/3955a456.ext.json)
-
----
-
-### Sina Gron Bri 400 m. Aruna Darshana won the flow
-
-*2024-05-28 17:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/184717) · `ta`
-
-Aruna Darshana, a Sri Lankan athlete, won the men's 400-meter race at China's Society Stadium on June 28th, finishing in 45.48 seconds. This victory improves his ranking for Olympic qualification. He also secured bronze in the World Athletics Championships. Next, he'll compete in the Chinese Bresty and South Korean athletic tournaments. Winning the National Athletics Competition in under 45 seconds could secure him an Olympic spot.
-
-🟩
-
-Sri Lankan player in the men's 400 -meter race held on Tuesday, 28th of Tuesday at China's Society Stadium;Aruna Darshana came first.
-
-Belt and Rode World Athletics Bronze Bronze Faculty Tourism Tournament Tournament Tournament of Men's 400 -meter run in 45.48 seconds.
-
-Aruna Darshana has increased the rankings for the Olympic qualification.
-
-Aruna Darshana has got the lowest points because this rival C Division is the World Athletic Tournament.
-
-Aruna Darshana will participate in the upcoming Athletic Tournament in Chinese Breasty on Saturday and then in South Korea.
-
-It is reported that if the National Athletics Competition is won by 45.00 seconds, the Olympic participate.
-
-Since the National Athletic Tournament is the first grade, the winner will get 100 rankings.
-
-◼️
-
-[Data](articles/73ab2a60.json)
-
-[Extended Data](ext_articles/73ab2a60.ext.json)
-
----
-
-### Special bus service for Poson Poya due to northern railway delays
-
-*2024-05-28 17:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Special-bus-service-for-Poson-Poya-due-to-northern-railway-delays/108-283532) · `en`
-
-Colombo, May 28 (Daily Mirror) - Special bus services will be arranged for Poson Poya to avoid inconvenience to passengers as the development work of the Northern Railway will be delayed by another two months, Cabinet Spokesman and Transport Minister Bandula Gunawardana said.
-
-Addressing the media, he said that the Sri Lanka Railways Department engineers have been informed that this delay is due to rain and adverse weather and having to bear higher costs than expected.
-
-He further said that using the bus service, people can travel more than those who travel by train.
-
-◼️
-
-[Data](articles/a132c7eb.json)
-
-[Extended Data](ext_articles/a132c7eb.ext.json)
-
----
-
-### Worker's death in a surrogate: trio injury
-
-*2024-05-28 17:40:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/வாகை-விழுந்ததில்-தொழிலாளி-மரணம்-மூவர்-காயம்/76-338048) · `ta`
-
-A female worker died and three others were injured when a surrogate tree fell at a plantation site. The incident occurred around 1 pm on Tuesday, and one victim died before reaching the hospital. Three injured workers, including one in critical condition, were admitted to hospitals for treatment.
-
-🟩
-
-A female worker died after a surrogate tree fell and three more female workers were injured, police said.
-
-The surrogate tree fell at 1 pm on Tuesday (28) at the Opavattai Division 3rd Estate in the Kavatha Police Division.
-
-This is the case when the tea plants are returning to their homes after completing work.
-
-One person died without treatment as four injured were admitted to the General Hospital.  One of the two injured is in critical condition and the other is admitted to the Emergency Division at the Ratnapura Hospital.
-
-The deceased is Mrs. S. Tamil Selvi (age 49).
-
-Mrs. Sathya Vani (age 36) and Mrs. Jeevarani (age 45) at the Ratnapura Hospital. Vijayakumari (age 49) . They are also being treated at the hospital
-
-◼️
-
-[Data](articles/102f6011.json)
-
-[Extended Data](ext_articles/102f6011.ext.json)
 
 ---

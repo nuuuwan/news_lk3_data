@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-29 11:34:10**
+As of **2024-05-29 11:53:46**
 
 ## Newspaper Stats
 
-*Scraped **27,010** Articles*
+*Scraped **27,021** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,146 @@ dbsjeyarajcom | 265
 bbccomsinhala | 269
 newsfirstlk | 363
 islandlk | 1,465
-economynextcom | 1,540
+economynextcom | 1,547
 dailyftlk | 1,591
 adalk | 2,297
 adaderanalk | 3,078
-tamilmirrorlk | 3,171
+tamilmirrorlk | 3,174
 virakesarilk | 4,142
-dailymirrorlk | 4,259
+dailymirrorlk | 4,260
 adaderanasinhalalk | 4,332
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,010 (100.0%) of 27,010 articles have been extended.
+27,010 (100.0%) of 27,021 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-29 (Wednesday)
+
+### “நீங்கள் போட்டிக்காக காத்திருங்கள்”: “நாங்கள் உங்களுக்காக காத்திருக்கிறோம்” :ISIS எச்சரிக்கை
+
+*2024-05-29 11:27:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/நீங்கள்-போட்டிக்காக-காத்திருங்கள்-நாங்கள்-உங்களுக்காக-காத்திருக்கிறோம்-ISIS-எச்சரிக்கை/44-338079) · `ta`
+
+அமெரிக்காவில் ஆரம்பமாகவிருக்கின்ற ICC, T20 உலகக் கிண்ணப் போட்டிகளுக்கு ஐ.எஸ்.ஐ.எஸ் பயங்கரவாதத் தாக்குதல் நடாத்தப்படும் வகையில் அச்சுறுத்தல் விடுக்கப்பட்டுள்ளது.
+
+துப்பாக்கியை முதுகில் சுமந்தவாறு, முகமூடி அணிந்த நபரொருவர், நியூயோர்க் கிரிக்கெட் மைதானத்தை பார்த்துக் கொண்டிருக்கும் வகையில் இந்த படம் சித்திரிக்கப்பட்டுள்ளது.
+
+“நீங்கள் போட்டிக்காக காத்திருங்கள்” என்று எழுதப்பட்டு, ரத்தச் சிவப்பு நிறத்தில் – “நாங்கள் உங்களுக்காக காத்திருக்கிறோம்” என இந்த படத்திலுள்ள நபரின் மீது எழுதப்பட்டுள்ளது.
+
+மேலும், இந்த வசனம் முடிவுறும் இடத்தில் டைனமைட் குச்சியுடன் கூடிய கடிகாரமொன்று காட்சிப்படுத்தப்பட்டுள்ளது.
+
+நாசாவ் ஸ்டேடியத்தில், இந்திய மற்றும் பாகிஸ்தான் அணிகளுக்கு இடையிலான போட்டி   ஜூன் மாதம் 09ம் திகதி நடைபெறவுள்ளது.
+
+இந்த விடயம் தொடர்பில், சர்வதேச கிரிக்கெட் பேரவையின் ஊடகப் பேச்சாளர் கருத்து தெரிவித்துள்ளார்.
+
+“போட்டிக்கு வரும் அனைவரின் பாதுகாப்பும் எங்கள் முதல் முன்னுரிமையாகும், மேலும் எங்களிடம் விரிவான மற்றும் வலுவான பாதுகாப்புத் திட்டம் உள்ளது.” என அவர் கூறியுள்ளார்.
+
+...
+
+[Data](articles/b112f4e5.json)
+
+---
+
+### ‘ஜனாதிபதித் தேர்தலை ஒத்திவைக்கும் திட்டம் எதுவுமில்லை’
+
+*2024-05-29 11:25:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதித்-தேர்தலை-ஒத்திவைக்கும்-திட்டம்-எதுவுமில்லை/175-338078) · `ta`
+
+திட்டமிடப்பட்டது போன்று இவ்வாண்டு ஜனாதிபதித் தேர்தல் நடைபெறும் எனத் தெரிவித்துள்ள அரசாங்க பாராளுமன்ற உறுப்பினர் நிமல் லன்சா, ஜனாதிபதித் தேர்தலை ஒத்தி வைக்கும்  திட்டமெதுவில்லை எனக் கூறியுள்ளார்.
+
+தேர்தலை நேரத்துக்குத் நடாத்தும் தனது எண்ணத்தை ஜனாதிபதி ரணில் விக்கிரமசிங்க வெளிப்படுத்தியதாக லன்சா மேலும் குறிப்பிட்டுள்ளார்.
+
+சர்வஜன வாக்கெடுப்பொன்றின் மூலம் ஜனாதிபதித் தேர்தலை ஒத்தி வைத்து, பாராளுமன்றத்தை இரண்டு ஆண்டுகள் நீடிப்பதற்கான அழைப்பை ஐக்கிய தேசியக் கட்சியின் பாலித ரங்கே பண்டார அழைப்பு விடுத்தமையைத் தொடர்ந்தே மேற்படி கருத்தை லன்சா வெளிப்படுத்தியுள்ளர்.
+
+◼️
+
+[Data](articles/6230c52b.json)
+
+---
+
+### Court further prevents Maithripala from running SLFP
+
+*2024-05-29 11:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Court-further-prevents-Maithripala-from-running-SLFP/108-283601) · `en`
+
+Colombo, May 29 - The Colombo District Court today further extended its enjoining order preventing former President Maithripala Sirisena from functioning as the chairman of the Sri Lanka Freedom Party (SLFP), until June 12.
+
+Colombo District Court Judge Sandun Vithana made this order pursuant to a lawsuit filed by former President Chandrika Bandaranaike Kumaratunga.
+
+◼️
+
+[Data](articles/0b93fe7b.json)
+
+---
+
+### மைத்திரிக்கு எதிரான தடை நீட்டிப்பு
+
+*2024-05-29 11:22:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மைத்திரிக்கு-எதிரான-தடை-நீட்டிப்பு/175-338077) · `ta`
+
+ஸ்ரீ லங்கா சுதந்திரக் கட்சியின் தலைவராக முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன செயற்படுவதைத் தடுக்கும் வகையில் விதிக்கப்பட்ட தடையை எதிர்வரும் 12ஆம் திகதி வரை நீடிக்குமாறு கொழும்பு மாவட்ட நீதிமன்றம் உத்தரவிட்டுள்ளது.
+
+முன்னாள் ஜனாதிபதி சந்திரிக்கா பண்டாரநாயக்க குமாரதுங்கவினால் தாக்கல் செய்யப்பட்ட முறைப்பாடு இன்று (29) கொழும்பு மாவட்ட நீதிபதி சந்துன் விதான முன்னிலையில் மீண்டும் விசாரணைக்கு எடுத்துக்கொள்ளப்பட்டது.
+
+ஸ்ரீ லங்கா சுதந்திரக் கட்சியின் அரசியலமைப்பின் பிரகாரம், கட்சியின் தலைவராக செயற்படுவதற்கு முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேனவுக்கு சட்டப்பூர்வ உரிமை கிடையாது என முன்னாள் ஜனாதிபதி சந்திரிக்கா தனது முறைப்பாட்டில் தெரிவித்துள்ளார்.
+
+இதன்படி, குறித்த பதவியில் மைத்திரிபால சிறிசேன பணியாற்றுவதைத் தடுக்கும் வகையில் தடை உத்தரவு பிறப்பிக்குமாறு கோரி இந்த முறைப்பாட்டை சந்திரிக்கா சமர்ப்பித்திருந்தார்.
+
+◼️
+
+[Data](articles/57419bfb.json)
+
+---
+
+### Permanent residence for persons of Sri Lanka descent, foreign spouses
+
+*2024-05-29 11:19:00* · [`economynextcom`](https://economynext.com/permanent-residence-for-persons-of-sri-lanka-descent-foreign-spouses-165234/) · `en`
+
+ECONOMYNEXT – Persons of Sri Lanka descent, including those who have renounced their citizenship and foreign spouses would be able to get permanent residence status, under regulations gazetted by the ministry of public security.
+
+A person of Sri Lankan descent or “whose citizenship of sri Lanka has ceased under sections 19, 20 or 21
+
+of the Citizenship Act” as well as a foreign spouse would be eligible to apply after six months of marriage under the new regulations.
+
+However, if the marriage is dissolved before 5 years, the PR status would automatically cease.
+
+A person of Sri Lanka descent is someone whose, parents, grand parents or great grand parents who were born or were or are still citizens of the island.
+
+A fee of 1,000 dollars would be charged. Children would also be allowed PR status at 400 dollars.
+
+Ex-Sri Lankans earlier had to apply for dual citizenship, which was not allowed by some countries.
+
+Sri Lanka’s PR status allows persons to work, run businesses, buy or inherit property.
+
+...
+
+[Data](articles/49b8d6bd.json)
+
+---
+
+### Sri Lanka new employment act will not prevent age discrimination: minister
+
+*2024-05-29 11:17:00* · [`economynextcom`](https://economynext.com/sri-lanka-new-employment-act-will-not-prevent-age-discrimination-minister-165230/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s new employment act that is being drafted will not include provisions against discrimination based on age, Minister of Labour and Foreign Employment Manusha Nanayakkara said.
+
+“Ages it can be decide by the employer,” Nanayakkara said when asked about job advertisements that specify age.
+
+Sri Lanka is working on a revised employment act, which would address discrimination based on gender and sexual orientation.
+
+“Right now, it’s [with] the legal draftsman,” Nanayakkara said. “We are planning on sending it this month before election.”
+
+Nanayakkara said the new act would regulate workers in the informal sector.
+
+““From this new employment act there is no such a burden for ladies, gents, LGBTIQ, anyone can go for any job and there will be no restriction for any,” Nanayakkara said.
+
+However, the ministry of public administration has advertised that employees wishing to join the ministry ‘should be not more than 45 years of age.’ (Colombo/May29/2024)
+
+◼️
+
+[Data](articles/187f0a84.json)
+
+---
 
 ### US billionaire plans submersible trip to Titanic wreck
 
@@ -119,6 +241,26 @@ Twenty injured have been admitted to Kehawatte Hospital and seven are admitted t
 [Data](articles/b8ae82f3.json)
 
 [Extended Data](ext_articles/b8ae82f3.ext.json)
+
+---
+
+### Sri Lanka’s Combank stock slides after capital call
+
+*2024-05-29 10:27:00* · [`economynextcom`](https://economynext.com/sri-lankas-combank-stock-slides-after-capital-call-165222/) · `en`
+
+ECONOMYNEXT – Stocks of Sri Lanka’s Commercial Bank of Ceylon, the largest private bank by assets, were trading down at 103.00, a day after the bank announced a rights issue. Non voting shares were down at 84.00.
+
+The bank made a capital call from shareholders of 22 billion rupees, offering voting shares at 85 rupees and non-voting at 69 rupees.
+
+Commercial Bank will offer 252,082,449 shares in the proportion of 1 for every exiting 5, to raise 21.42 billion rupees, the bank said Tuesday in a stock exchange filing.
+
+The 22.52 billion rupees will used to bolster Tier 1 capital to accommodate future lending, the firm said.
+
+Commerical is the first bank to make a cash call after bad loans and and a sovereign default dented banks following steep rates cuts made in 2020 to target ‘potential output’ by macro-economists. (Colombo/May29/2024)
+
+◼️
+
+[Data](articles/0a0eec91.json)
 
 ---
 
@@ -343,6 +485,44 @@ A spokesperson for the International Cricket Council (ICC) said in a statement: 
 [Data](articles/9bba8a9f.json)
 
 [Extended Data](ext_articles/9bba8a9f.ext.json)
+
+---
+
+### Sri Lanka delegation to visit Moscow soon for discussions over ex-soldiers in Russia-Ukraine war
+
+*2024-05-29 09:44:00* · [`economynextcom`](https://economynext.com/sri-lanka-delegation-to-visit-moscow-soon-for-discussions-over-ex-soldiers-in-russia-ukraine-war-165216/) · `en`
+
+ECONOMYNEXT – A Sri Lankan delegation including State Foreign Minister Tharaka Balasuriya and Defence Secretary Kamal Gunaratne will leave to Moscow “soon” to have discussions over concerns over hundreds of the island nation’s ex-solders now joined Russia-Ukraine war, Foreign Minister Ali Sabry said.
+
+“A delegation will leave and will include the State Minister, parliamentarians, and Defence Secretary,” Sabry told EconomyNext after he held discussions with the families of the Sri Lankans deployed as combatants in the Russia-Ukraine conflict on Tuesday.
+
+At least 16 Sri Lankans are reported to have been killed and around 600 likely to have joined as combatants mainly to Russian side, taking risk for higher salary.
+
+Returnees have said hundreds of Sri Lankan ex-soldiers and other are serving in Ukraine-Russia frontlines with most being duped that they were sent for support work as camp helpers.
+
+...
+
+[Data](articles/a45448ea.json)
+
+---
+
+### Sri Lanka rupee opens stronger at 301.00/20 to US dollar
+
+*2024-05-29 09:42:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stronger-at-301-00-20-to-us-dollar-165214/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee strengthened to open at 301.00/20 to the US dollar on Wednesday, from 301.70/302.30 the previous day, dealers said. Bond yields were broadly steady.
+
+A bond maturing on 15.12.2026 was quoted up at 9.90/10.00 percent from 9.90/10.05 percent.
+
+A bond maturing on 15.09.2027 was quoted at 10.35/45 percent from 10.30/55 percent.
+
+A bond maturing on 01.07.2028 was quoted stable at 10.90/11.00 percent.
+
+The Colombo Stock Exchange opened down. The All Share Price Index was down 0.82 percent at 12,127, the S&P SL20 was down 1.72 percent at 3,556. (Colombo/May29/2024)
+
+◼️
+
+[Data](articles/d4906922.json)
 
 ---
 
@@ -749,6 +929,48 @@ The Colombo Municipal Commissioner Bhadrani Jayawardena says that action will be
 [Data](articles/ce55d10b.json)
 
 [Extended Data](ext_articles/ce55d10b.ext.json)
+
+---
+
+### Sri Lanka retail sales picking up, private credit expected to follow: CB Governor
+
+*2024-05-29 07:53:00* · [`economynextcom`](https://economynext.com/sri-lanka-retail-sales-picking-up-private-credit-expected-to-follow-cb-governor-165173/) · `en`
+
+ECONMYNEXT – Sri Lanka’s retail sales are picking up and private credit is expected to follow in the second half of the year if businesses begin investing for expansion, Central Bank Governor Nandalal Weerasinghe said.
+
+Though private credit is positive it is still ‘sluggish’ , the central bank said.
+
+Businesses are trying to de-leverage after a currency crisis, and also re-negotiate old loans with lower interest rates as complaints from the SME sector shows.
+
+De-leveraging is part of a credit cycle that improves the balance sheets of business across the board and leaves them in a stronger position to expand in the future.
+
+To expand however retail sales have to pick up. Capital investments then start as existing capacity or slack runs out and there is more confidence in the future.
+
+“We have seen retail sales picking up in the recent past,” Governor Weerasinghe said. “I think that will push up some of the SME borrowings in the coming months.”
+
+...
+
+[Data](articles/da9994be.json)
+
+---
+
+### Sri Lanka tightens governance of state banks, limits lending to SOEs
+
+*2024-05-29 07:52:00* · [`economynextcom`](https://economynext.com/sri-lanka-tightens-governance-of-state-banks-limits-lending-to-soes-165188/) · `en`
+
+ECONOMYNEXT – Sri Lanka is tightening governance of state banks to reduce state bank lending, especially to loss-making state enterprises, which have been used for off-budget spending in the past, a finance ministry statement said.
+
+“The balance sheets of state-owned banks have been used to absorb losses of State-owned Enterprises and help finance large fiscal deficits, thereby delaying reforms and accumulating debts, which contribute to the economic crisis,” the statement said.
+
+State banks in the future will finance SOEs on commercial terms, competing with private sector banks. Any dollar loans will be in line with their net open position exposures.
+
+Loans to loss making SOEs beyond 5 percent of equity will require special board approval and risk management sign off.
+
+Any loans against Treasury guarantees will be subject to a ceiling under an upcoming fiscal management law.
+
+...
+
+[Data](articles/e75a3f7e.json)
 
 ---
 
@@ -2045,229 +2267,5 @@ Subsequently, Prime Group will bear the interest costs for the first year, ensur
 [Data](articles/4e44a12d.json)
 
 [Extended Data](ext_articles/4e44a12d.ext.json)
-
----
-
-### Driving growth through listings and diversifying revenue streams at the Colombo Stock Exchange
-
-*2024-05-28 22:01:00* · [`islandlk`](http://island.lk/driving-growth-through-listings-and-diversifying-revenue-streams-at-the-colombo-stock-exchange/) · `en`
-
-Punyamali Saparamadu, Senior Vice President of the CSE Commercial Division, providing a detailed overview on the strategies adopted by CSE to stimulate growth and broaden its revenue sources. Her insights also highlight the new product portfolio as well as issuer relations initiatives of the Colombo Stock Exchange.
-
-Can you talk about the role your division plays in the Colombo Stock
-
-The establishment of a dedicated Commercial Division within the CSE underscores the organization’s commitment to enhancing issuer relations, marketing new products, and diversifying revenue streams while leveraging on its advocacy efforts. These key functions are aimed at strengthening the CSE’s market position among potential issuers across its product suite and fostering growth opportunities.
-
-...
-
-[Data](articles/79067067.json)
-
-[Extended Data](ext_articles/79067067.ext.json)
-
----
-
-### IBSL and Pan Asia Bank unite to elevate practical training in banking education
-
-*2024-05-28 21:58:00* · [`islandlk`](http://island.lk/ibsl-and-pan-asia-bank-unite-to-elevate-practical-training-in-banking-education/) · `en`
-
-The Pan Asia Bank is pleased to announce the partnership with the Institute of Bankers of Sri Lanka (IBSL), the institute, which provides practical training for the students who are studying banking and finance to build their professional careers.
-
-This partnership reaffirms Pan Asia Bank’s dedication to developing talent and at the same time offering practical learning to the future banking professionals.
-
-Related Topics:IBSLIBSL and Pan Asia Bank unite to elevate practical training in banking educationPan Asia Bank
-
-Dialog launches country’s first smartphone plan available to all Sri Lankans
-
-Pan Asia Bank and Wogi to introduce Global Customer Reward platform to revolutionize customer experience
-
-Pan Asia Bank and Janashakthi Life partner, forging an era of financial empowerment
-
-Pan Asia Bank managers honored with Great Manager Awards 2023
-
-Pan Asia Bank posts steady performance in 1Q 2024 – Profit before Tax increases by 47% reflecting improved conditions
-
-...
-
-[Data](articles/b40132c0.json)
-
-[Extended Data](ext_articles/b40132c0.ext.json)
-
----
-
-### NPP condemns Range Bandara’s statement; says UNP has officially admitted Ranil’s defeat
-
-*2024-05-28 21:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/NPP-condemns-Range-Bandaras-statement-says-UNP-has-officially-admitted-Ranils-defeat/108-283547) · `en`
-
-Colombo, May 28 (Daily Mirror)- While condemning United National Party (UNP) General Secretary Palitha Range Bandara's statement that President Ranil Wickremesinghe should be given two more years without holding the Presidential or General Elections, NPP Executive Committee member Dr. Nalinda Jayatissa said today that the UNP has officially accepted Ranil Wickremesinghe's defeat.
-
-He told the media that it was a serious statement and that they have no right to violate the sovereignty of the people.
-
-...
-
-[Data](articles/547f207f.json)
-
-[Extended Data](ext_articles/547f207f.ext.json)
-
----
-
-### Policy interest rates decision plunges bourse into bearish mood
-
-*2024-05-28 21:54:00* · [`islandlk`](http://island.lk/policy-interest-rates-decision-plunges-bourse-into-bearish-mood/) · `en`
-
-CSE trading activities on the floor indicated a bearish stance yesterday as the Central Bank decided to maintain policy rates without adjusting them. Apart from that, further delays in the external debt restructuring exercise created worries for stock market investors, The Island Financial Review learns.
-
-Amid those developments both indices moved downwards. The All Share Price Index went down by 83.2 points while S and P SL20 declined by 27 points. Turnover stood at Rs 916 million with three crossings.
-
-Those crossing were reported in Sampath Bank, which crossed 1.7 million shares to the tune of Rs 133 million; its shares traded at Rs 77.50, NDB, 351,000 shares crossed for Rs 43 million; its shares traded at Rs 78, and Alumax 2.5 million shares crossed for Rs 28.4 million; its shares traded at Rs 11.40.
-
-...
-
-[Data](articles/8551a016.json)
-
-[Extended Data](ext_articles/8551a016.ext.json)
-
----
-
-### A/L Gallery Release
-
-*2024-05-28 21:51:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/A-L-பெறுபேறுகள்-வெளியாகும்-காலம்-அறிவிப்பு/175-338051) · `ta`
-
-The Sri Lanka Examinations Department expects to release the 2023 GCE A/L exam results this weekend.
-
-🟩
-
-The Department of Sri Lanka's Examinations Department reports that the results of the GCE A / L examination of the 2023 Education General Level Examination are expected to be released this weekend.  R
-
-◼️
-
-[Data](articles/e3f67223.json)
-
-[Extended Data](ext_articles/e3f67223.ext.json)
-
----
-
-### Announcement about flood risk
-
-*2024-05-28 21:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197132) · `si`
-
-Flood warnings issued for Attanagalu Oya and Black River; residents urged to prepare and protect infrastructure.
-
-🟩
-
-The Department of Irrigation says that the flood warning notification issued for the Attanagalu Oya.
-
-The people living in the lowlands are asking to work in this situation.
-
-It is also notified to protect the roads and by roads in those areas.
-
-Meanwhile, the floods issued for the small river of the Black River have been extended to the next 24 hours.
-
-◼️
-
-[Data](articles/b2887fee.json)
-
-[Extended Data](ext_articles/b2887fee.ext.json)
-
----
-
-### AG decides not to defend Nilantha Jayawardane
-
-*2024-05-28 21:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/AG-decides-not-to-defend-Nilantha-Jayawardane/108-283543) · `en`
-
-Colombo, May 28 (Daily Mirror) -  The Attorney General's Department informed the Court of Appeal that the Attorney General will not appear on behalf of Senior DIG Nilantha Jayawardane in a writ petition filed against him for his omission and serious dereliction of duty which led to the Easter Sunday bomb attacks.
-
-The Centre for Society and Religion had filed this writ petition before the Court of Appeal seeking an order to conduct a credible investigation and take appropriate actions against Senior DIG Nilantha Jayawardane for his omission and serious dereliction of duty which led to the Easter Sunday bombing in 2019.
-
-When the matter was called before the Court of Appeal with the two-judge-bench comprising Justices Sobhitha Rajakaruna and Dhammika Ganepola, Counsel appearing on behalf of Nilantha Jayawardena informed court that they expect to present limited objections against this petition. The petition was re-fixed for support on July 25.
-
-...
-
-[Data](articles/37903cbf.json)
-
-[Extended Data](ext_articles/37903cbf.ext.json)
-
----
-
-### Education Ministry urges university staff to end strike
-
-*2024-05-28 21:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Education-Ministry-urges-university-staff-to-end-strike/108-283542) · `en`
-
-Colombo, May 28 (Daily Mirror) - The Education Ministry today requested THE university non-academic staff unions to end their ongoing strike, return to work and present their issues to the expert committee appointed by the President.
-
-While issuing a special notice, the Ministry said that a committee had been appointed to investigate into the issues relating to the university non-academic staff salary disparity since 2018.
-
-Therefore, the Ministry requested all university non-academic staff to submit their issues and recommendations to the expert committee without disrupting university services.
-
-Since there is no system to secure funding for this year, the Education Ministry said that the President had advised the Cabinet to appoint an expert committee to study the salary anomalies of all university non-academic staff to provide recommendations, including all solutions and proposals related to these issues in the 2025 budget proposals.
-
-◼️
-
-[Data](articles/3aab864e.json)
-
-[Extended Data](ext_articles/3aab864e.ext.json)
-
----
-
-### Social security benefits to be introduced for all workers over 55 years
-
-*2024-05-28 21:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/99498/social-security-benefits-to-be-introduced-for-all-workers-over-55-years) · `en`
-
-Labour and Foreign Employment Minister Manusha Nanayakkara announced that the Cabinet has approved a proposal to provide social security benefits to all workers aged 55 and above across various industries.
-
-This initiative includes the preparation of necessary legal provisions, which will be developed alongside the “Garusaru” program, he said.
-
-Addressing the press briefing titled “Collective Path to a Stable Country” held at the President Media Centre (PMC) today (28), Minister Nanayakkara highlighted the government’s commitment to social security and labor rights.
-
-The Minister further responded to criticisms about the lack of mental freedom to celebrate festivals, noting that the current government, led by President Ranil Wickremesinghe, has restored the environment for celebrating Vesak, Poson, Esala and Christmas.
-
-...
-
-[Data](articles/b0738bdb.json)
-
-[Extended Data](ext_articles/b0738bdb.ext.json)
-
----
-
-### The Central Bank's stand on imports
-
-*2024-05-28 21:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197131) · `si`
-
-Dr. Nandalal Weerasinghe, Governor of the Central Bank of Sri Lanka, announced the bank's successful management of rural vehicle imports and its decision to keep policy interest rates unchanged. The bank has approved some vehicle imports and plans to continue easing restrictions, confident in its ability to handle foreign exchange.
-
-🟩
-
-Central Bank Governor Dr. Nandalal Weerasinghe says the Central Bank of Sri Lanka has been able to manage the rural management of vehicle imports.
-
-The Central Bank has further stated that the Central Bank has further stated that the Central Bank has decided to maintain its policy interest rates.
-
-"Some vehicles have already been allowed. An important decision to systematically relaxing vehicles. We have confidence that foreign exchange can manage. "
-
-◼️
-
-[Data](articles/5ae5944c.json)
-
-[Extended Data](ext_articles/5ae5944c.ext.json)
-
----
-
-### 52% SLTB buses have expired life span: Bandula
-
-*2024-05-28 20:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/52-SLTB-buses-have-expired-life-span-Bandula/108-283541) · `en`
-
-Colombo, May 28 (Daily Mirror)- Transport Minister Bandula Gunawardane said today 52 percent of buses belonging to Sri Lanka Transport Board (SLTB) have expired their life span.
-
-He told the weekly briefing on Cabinet decisions that the government is short of funds to replace them at the moment.
-
-"At least 52 percent of buses have expired their life span. We have no funds to replace them. We are not in a position to obtain foreign loans currently until the debt restructuring process completes. We managed to procure 500 buses on the Indian credit line," he said.
-
-The Minister said the train service is also in critical condition and said even 50 to 60 years old train engines are being used.
-
-"Thanks to our engineers, we are using some 50 to 60 years old train engines," he said.
-
-...
-
-[Data](articles/e82a7716.json)
-
-[Extended Data](ext_articles/e82a7716.ext.json)
 
 ---

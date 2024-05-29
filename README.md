@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-30 03:52:38**
+As of **2024-05-30 04:04:35**
 
 ## Newspaper Stats
 
@@ -26,77 +26,109 @@ adaderanasinhalalk | 4,351
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,175 (100.0%) of 27,181 articles have been extended.
+27,181 (100.0%) of 27,181 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-30 (Thursday)
 
-### வடக்கு மாகாணத்தின் அபிவிருத்திக்கு தேவையான ஒத்துழைப்புகள் பெற்றுக்கொடுக்கப்படும் என கனேடிய உயர்ஸ்தானிகர் தெரிவித்தார்
+### The Canadian High Commissioner said that the development of the Northern Province will be given to the development of the Northern Province
 
 *2024-05-30 02:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/184827) · `ta`
 
-வடக்கு மாகாண ஆளுநர் பி.எஸ்.எம்.சார்ள்சை இலங்கைக்கான கனேடிய உயர்ஸ்தானிகர் எரிக் வோல்ஷ் (Eric Walsh), கனடாவின் சர்வதேச அபிவிருத்திகளுக்கான பிரதி அமைச்சர் கிரிஸ்டோபர் மக்லணன் (Christopher MacLennan) உள்ளிட்ட குழுவினர் 28ஆம் திகதி புதன்கிழமை  சந்தித்து கலந்துரையாடினார்கள். வடக்கு மாகாண ஆளுநர் செயலகத்தில் இந்த சந்திப்பு நடைபெற்றது.
+Canadian officials, including the High Commissioner and Deputy Minister of International Development, met with the Governor of Sri Lanka's Northern Province to discuss reconciliation, resettlement, mine removal, education, and entrepreneurship. They plan to enhance the education and healthcare systems, provide land guarantees for small and medium entrepreneurs, especially women, and confirm their readiness to support the province's development.
 
-நல்லிணக்கச் செயற்பாடுகள், மீள்குடியேற்றம், கண்ணிவெடி அகற்றல், காணிவிடுவிப்பு, கல்வித்துறை மேம்பாடு, தொழில் முனைவோருக்கான ஒத்துழைப்புகள் உள்ளிட்ட பல விடயங்கள் தொடர்பில் இதன்போது கலந்துரையாடப்பட்டது.
+🟩
 
-கல்வி முறையில் மாற்றங்கள் ஏற்படுத்த வேண்டும்  அதற்கான மாதிரி செயற்பாடுகளை முன்னெடுக்க  திட்டமிட்டுள்ளதாகவும் அளுநர் தெரிவித்தார் . ஜனாதிபதி கடந்த வாரம்  வடக்கிற்கு விஜயம் செய்தபோது, வைத்தியசாலைகளுக்கான புதிய பிரிவுகளை திறந்துவைத்ததுடன், பட்டதாரிகளுக்கான ஆசிரியர் நியமனங்களையும், மக்களுக்கான காணி உறுதிகளையும் வழங்கி வைத்தார். இதனூடாக வடக்கு மாகாண மக்களுக்கு சிறந்த கல்வி மற்றும் சுகாதார சேவை மேலும் உறுதி செய்யப்பட்டுள்ளதாக தெரிவித்தார்.
+The Governor of the Northern Province, BSM Charles, Sri Lanka's Canadian High Commissioner, Eric Walsh, and the Deputy Minister of International Development of Canada, Christopher Maclennan, met on Wednesday.. The meeting was held at the Governor of the Northern Province.
+
+Discussions have been discussed on a number of issues including reconciliation, resettlement, mines removal, landing, education development and cooperation for entrepreneurship.
+
+He said that the educational system is planned to be carried out.. When the President visited the North last week, he opened new units for hospitals and gave the graduates teacher appointments and land guarantees for the people.. He said that the best education and health services have been confirmed by the people of the Northern Province.
+
+Honorary Governor said that the provision of land guarantees would have more benefits to small and middle -class entrepreneurs and female leadership families, he said.
 
 ...
 
 [Data](articles/c9bdfad8.json)
 
+[Extended Data](ext_articles/c9bdfad8.ext.json)
+
 ---
 
-### யாழில் மாணவிகளை தாக்கிய குற்றச்சாட்டில் கைதாகி விளக்கமறியலில் வைக்கப்பட்டிருந்த அருட்சகோதரி பிணையில் விடுவிப்பு
+### Arroganta bail on charges of assaulting students
 
 *2024-05-30 02:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/184826) · `ta`
 
-யாழில் மாணவிகளை தாக்கிய குற்றச்சாட்டில் கைதாகி விளக்கமறியலில் வைக்கப்பட்டிருந்த அருட்சகோதரி பிணையில் விடுவிக்கப்பட்டுள்ளார்.
+Arutsakodari, accused of assaulting students in Jaffna, was released on bail after eleven students alleged harassment. The magistrate ordered her arrest but later granted her bail under strict conditions, including not contacting the victims or their families.
 
-ஊர்காவற்றுறை பகுதியில் உள்ள பாடசாலை விடுதியில் தங்கி கல்வி கற்று வந்த தம்மை விடுதிக்கு பொறுப்பான அருட்சகோதரி அடித்து துன்புறுத்தியதாக கூறி 28 ஆம் திகதி செவ்வாய்க்கிழமை விடுதியில் இருந்த மாணவிகள் 11 பேர் ஊர்காவற்றுறை பொலிஸ் நிலையத்தில் சரணடைந்தனர்.
+🟩
 
-அதனை அடுத்து மாணவிகளை யாழ்,போதனா வைத்தியசாலை சட்ட வைத்திய அதிகாரியின் முன் முற்படுத்திய வேளை மாணவிகளின் உடலில் தழும்புகள் இருந்தமை கண்டறியப்பட்டது.
+Arutsakodari, who was arrested and detained for allegedly assaulting students in Jaffna, has been released on bail.
 
-அது தொடர்பில் மேலதிக விசாரணைகளை முன்னெடுத்த ஊர்காவற்றுறை பொலிஸார் அருட்சகோதரியை கைது செய்து , ஊர்காவற்றுறை பதில் நீதவான் முன்னிலையில் முற்படுத்திய வேளை , அவரை இன்றைய தினம் புதன்கிழமை வரையில் விளக்கமறியலில் வைக்குமாறு பதில் நீதவான் உத்தரவிட்டு இருந்தார்.
+Eleven students in the hostel on Tuesday surrendered to the Kayts police station on Tuesday 28th, alleging that Arutshakodari, who was in charge of the hostel, who had been staying at a school hostel in Kayts area, had been harassed.
 
-இந்நிலையில்  குறித்த வழக்கு இன்றைய தினம் புதன்கிழமை ஊர்காவற்றுறை நீதவான் நீதிமன்றில் நடைபெற்ற போது , விளக்கமறியலில் வைக்கப்பட்டிருந்த அருட்சகோதரி மன்றில் முன்னிலைப்படுத்தப்பட்டார்.
+Subsequently, when the students were tried before the Jaffna and Teaching Hospital Legal Officer, it was found that the students were in the bodies.
 
-...
+The Magistrate had ordered the arrest of the Kayts and the Kayts Magistrate in response to the Kayts Magistrate.
+
+When the case was held at the Kayts Magistrate's Court on Wednesday, he was presented to the Arrotakodari House.
+
+In the subsequent hearing, the condition has stipulated that the archakodari bail of 50 thousand rupees, one lakh rupees, has been granted bail, not to go to the student hostel and not contact the victims or their parents.
+
+◼️
 
 [Data](articles/588d7f3a.json)
 
+[Extended Data](ext_articles/588d7f3a.ext.json)
+
 ---
 
-### மாகாண சுகாதாரத்துறை நிர்வாகம் இறுக்கமாக செயற்பட வேண்டும் - யாழ் போதனா வைத்தியசாலையில் வடக்கு மாகாண ஆளுநர்
+### Northern Province Governor at the Jaffna Teaching Hospital
 
 *2024-05-30 02:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/184825) · `ta`
 
-யாழ்ப்பாணம் போதனா வைத்தியசாலையில் விபத்து மற்றும் அவசர சிகிச்சை பிரிவிற்கான கட்டடம் திறக்கப்பட்டு 05 வருட பூர்த்தியை முன்னிட்டு 29 ஆம் திகதி புதன்கிழமை ஏற்பாடு செய்யப்பட்ட நிகழ்வில் வடக்கு மாகாண ஆளுநர் பி.எஸ்.எம். சார்ள்ஸ் அவர்களும் கலந்துக்கொண்டார்.
+At a Jaffna Teaching Hospital event marking its 5th anniversary, the Northern Province Governor highlighted challenges faced by the medical department due to insufficient funding and space constraints. He emphasized the need for tighter measures to ensure patient care and adherence to regulations within state institutions. The governor urged the media to support the hospital's efforts effectively.
 
-“மருத்துவ துறையினர் பல்வேறு சவால்களுக்கு மத்தியில் தங்களின் சேவையை முன்னெடுத்து வருகின்றனர். அதேபோல சுகாதார அமைச்சின் செலவுகளுக்கே அதிகளவான நிதி தேவைப்படுகிறது. இந்நிலையில் யாழ்ப்பாணம் போதனா வைத்தியசாலையில் பல்வேறு சிக்கல்கள் காணப்படுகின்றன.
+🟩
 
-இடப்பற்றாகுறை, கட்டட வசதியின்மை, ஆளணி பற்றாகுறை உள்ளிட்ட பல சிக்கல்களுக்கு மத்தியிலேயே சேவைகளை வழங்க வேண்டியுள்ளது. எனினும் மாகாணத்திலுள்ள ஏனைய வைத்தியசாலைகளில் இருந்து, வார இறுதி நாட்களில் நோயாளர்கள் யாழ் போதனா வைத்தியசாலைக்கு மாற்றப்படுவதால் வைத்தியசாலை நிருவாகம் மேலதிக செலவுகளை சந்திக்க வேண்டியுள்ளது.
+The Governor of the Northern Province BSM at a function organized by the Jaffna Teaching Hospital on Wednesday, 29th of Wednesday, in honor of the 5th anniversary. Charles also attended.
+
+“The medical department is carrying out their service amidst various challenges. Similarly, the Ministry of Health requires more funds. In this case, there are various problems at the Jaffna Teaching Hospital.
+
+Services have to be provided in the midst of a number of issues including lack of space. However, from other hospitals in the province, the hospital administration has to meet additional expenses as patients are transferred to the Jaffna Teaching Hospital on weekends.
+
+Patients in hospitals in their respective areas should be provided with possible treatments. This is why patients face difficulties and their families are in trouble. Therefore, the provincial health department administration should adopt very tight measures in this regard.
 
 ...
 
 [Data](articles/830a3ab7.json)
 
+[Extended Data](ext_articles/830a3ab7.ext.json)
+
 ---
 
-### யாழ் பொது நூலகத்தின் கதையின் ஏரியும் நினைவுகள் என்னும் கருப்பொருளில் ஆவணப்படத் திரையிடல்
+### Documentary screening on the theme of lakes of the story of the Jaffna Public Library
 
 *2024-05-30 01:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/184824) · `ta`
 
-தமிழ் சிவில் சமூக அமையத்தின் ஏற்பாட்டில் யாழ்ப்பாண பொது நூலகத்தின் கதையின் ஏரியும் நினைவுகள் என்னும் கருப்பொருளில் ஆவணப்படத் திரையிடலும் கலந்துரையாடலும் யாழ்ப்பாண பொதுநூலகத்தின் கேட்போர் கூடத்தில் 29ஆம் திகதி புதன்கிழமை மாலை நடைபெற்றது.
+A documentary titled "Lake Memories of the Jaffna Public Library," directed by P. Sobhidarman, screened at the Jaffna Public Library Auditorium. The event featured discussions on the library's history, its destruction during the Black July, and the impact on public displacement. Attendees included political figures, academics, religious leaders, journalists, and artists, highlighting the significance of preserving cultural heritage.
 
-யாழ்ப்பாணம் பொது நூலகத்தின் கதையின் ஏரியும் நினைவுகள் என்னும் கருப்பொருளில் ஆவணப்படத் திரைப்படத்தினை இயக்குநர் ப.சோபிதர்மன் இயக்கியுள்ளார்.
+🟩
 
-இவ் நிகழ்வில் தமிழ் தேசிய மக்கள் முன்னணியின் நாடாளுமன்ற உறுப்பினர் செ.கஜேந்திரன், யாழ்ப்பாண பல்கலைக் கழக கலைப்பீட பீடாதிபதி ம.ரகுராம், தவத்திரு வேலன் சுவாமிகள், முன்னாள் ஈழநாடு பத்திரிகையின் பிரதம ஆசிரியர் ம.இராதை, இலக்கியவாதிகள், தமிழ் சிவில் சமூக இளைஞர், யுவதிப் பிரதிநிதிகள், சான்றோர்கள், கலைஞர்கள் பலரும் கலந்துகொண்டனர்.
+A documentary screening and discussion was held on Wednesday evening at the Auditorium of the Jaffna Public Library on the theme of the Lake and Memories of the Jaffna Public Library.
 
-...
+Directed by Director P. Sobhidarman, the documentary film is under the theme of Lake Memories of the Jaffna Public Library.
+
+The event was attended by Tamil National People's Front Member of Parliament, S. Gajendran, Dean of the University of Jaffna, Ma Raghuram, Tawatru Velan Swamis, Chief Editor of the former Eelam Nuncture Magazine, Literature, Tamil Civil Society Youth, Youth Representatives and Artists.
+
+Although the Jaffna Public Library was launched in the period from 1981 to 1986, the constructive comments on the destruction and the destruction of the shops, the destruction of the black July, and the public displacements and the destruction of the public, were discussed.
+
+◼️
 
 [Data](articles/892e06b8.json)
+
+[Extended Data](ext_articles/892e06b8.ext.json)
 
 ---
 
@@ -122,19 +154,25 @@ He said that the Elections Commission would make arrangements to hold elections 
 
 ---
 
-### ஐ.எஸ்.ஐ.எஸ் பயங்கரவாதிகளுடன் தொடர்பு வைத்திருந்ததாக கூறப்படும் இருவர் கைது
+### Two persons arrested for allegedly involved with ISIS terrorists
 
 *2024-05-30 01:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/184822) · `ta`
 
-கடந்த வாரம் இந்தியாவில் கைது செய்யப்பட்ட நான்கு இலங்கை ஐ.எஸ்.ஐ.எஸ் பயங்கரவாதிகளுடன் தொடர்பு வைத்திருந்ததாக கூறப்படும் சந்தேக நபர்கள் இருவர் மாவனல்ல பிரதேசத்தில் கைது செய்யப்பட்டுள்ளனர்.
+Four Sri Lankans linked to ISIS were arrested in India, including Mohamed Nafran Nauber, son of a known criminal, based on intelligence.
 
-எஸ்ஐஎஸ் அமைப்புடன் தொடர்புடைய நான்கு இலங்கையர்கள் கடந்த 20ஆம் திகதி இந்தியாவின் அஹ்பாத் விமான நிலையத்தில் குஜராத் பயங்கரவாதத் தடுப்புப் பிரிவினரால் கைது செய்யப்பட்டனர்.
+🟩
 
-இவ்வாறு கைது செய்யப்பட்ட நால்வரில் பொட்டா நௌபர் என்ற ஒழுங்கமைக்கப்பட்ட குற்றவாளியான நியாஸ் நௌபர் என்பவரின் மகனான மொஹமட் நஃப்ரான் நௌபர் என்பவர் இந்தியாவில் பயங்கரவாதத் தாக்குதலுக்குத் தயாராகி வருவதாக கிடைத்த உளவுத் தகவலின் அடிப்படையில் கைது செய்யப்பட்டுள்ளார்.
+Four Sri Lankan ISIS terrorists arrested in India last week have been arrested in the Mawanella area.
+
+Four Sri Lankans involved in the SIS were arrested by the Gujarat Terrorism Division at Ahbad Airport in India on the 20th.
+
+Mohamed Nafran Nauber, the son of Niaz Nauber, an organized culprit, Pota Nauber, has been arrested on the basis of intelligence in India.
 
 ◼️
 
 [Data](articles/9bfc925a.json)
+
+[Extended Data](ext_articles/9bfc925a.ext.json)
 
 ---
 
@@ -222,21 +260,27 @@ On Tuesday (28), the UNP General Secretary Palitha Range Bandara caused a stir w
 
 ### 2024-05-29 (Wednesday)
 
-### றக்பி, வலைபந்தாட்டம் உட்பட நான்கு விளையாட்டுத்துறை சங்கங்களுக்கு இடைக்காலத்தடை
+### Mediterranean Societies for Four Sports Societies, including Rugby, Webball
 
 *2024-05-29 23:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/184823) · `ta`
 
-ஸ்ரீலங்கா றக்பி, இலங்கை வலைபந்தாட்ட சம்மேளனம், உட்பட நான்கு விளையாட்டுத்துறை சங்கங்களுக்கு இடைக்காலத் தடை விதிக்கப்பட்டுள்ளது.
+An interim ban has been placed on four sports federations in Sri Lanka: Sri Lanka Rugby, Sri Lanka Webball Federation, Sri Lanka Cyclone Federation, and Ceylon Otomobile Association. The Sports Minister has appointed the Director General of the Department of Sports Development to oversee elections within these associations.
 
-ஸ்ரீலங்கா றக்பி (இலங்கை றக்பி நிறுவனம்), இலங்கை வலைபந்தாட்ட சம்மேளனம், இலங்கை சைக்கிளோட்ட  சம்மேளனம்,  சிலோன் ஒட்டோமொபைல் சங்கம் ஆகிய நான்கு சங்கங்களுக்கு இன்று 29ஆம் திகதி அமுலுக்கு வரும் வகையில் இடைக்காலத் தடை விதிக்கப்பட்டுள்ளதாக வர்த்தமானி அறிவித்தல் வெளியிடப்பட்டுள்ளது.
+🟩
 
-இதன்படி இந்த நான்கு சங்கங்களுக்கும் விளையாட்டுத்துறை அமைச்சின் விளையாட்டுத்துறை அபிவிருத்தித் திணைக்களப் பணிப்பாளர் நாயகத்தை  தகுதிவாய்ந்த அதிகாரியாக   விளையாட்டுத்துறை அமைச்சர் ஹரின் பெர்னாண்டோ நியமித்துள்ளார்.
+Four Sports Societies, including Sri Lanka Rugby, Sri Lanka Webball Federation, have been banned.
 
-அமைச்சரின் இந்த உத்தரவுக்கு அமைய குறிப்பிட்ட நான்கு சங்கங்களினதும் தேர்தல்கள் விளையாட்டுத்துறை அபிவிருத்தித் திணைக்கள பணிப்பாளர்நாயகத்தினால் நடத்தப்படும் என தெரிவிக்கப்படுகிறது.
+The Gazette notification has issued an interim ban on the four associations of Sri Lanka Rugby (Sri Lanka Rugby), the Sri Lanka Webball Federation, the Sri Lanka Cyclone Federation and the Ceylon Otomobile Association.
+
+Accordingly, Sports Minister Harin Fernando has appointed the Director General of the Department of Sports Development of the Ministry of Sports.
+
+It is reported that the Elections of the four associations will be conducted by the Director of the Department of Sports Development.
 
 ◼️
 
 [Data](articles/af6f88cd.json)
+
+[Extended Data](ext_articles/af6f88cd.ext.json)
 
 ---
 

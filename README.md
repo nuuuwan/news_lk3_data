@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-29 17:34:22**
+As of **2024-05-29 17:54:53**
 
 ## Newspaper Stats
 
-*Scraped **27,115** Articles*
+*Scraped **27,118** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,70 +19,108 @@ adalk | 2,304
 adaderanalk | 3,091
 tamilmirrorlk | 3,185
 virakesarilk | 4,168
-dailymirrorlk | 4,280
-adaderanasinhalalk | 4,346
+dailymirrorlk | 4,282
+adaderanasinhalalk | 4,347
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,110 (100.0%) of 27,115 articles have been extended.
+27,115 (100.0%) of 27,118 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-29 (Wednesday)
 
-### රන් ගෙන්වන ආයතන 5කට මිලියන 1243ක දඩයක්
+### ජනාධිපතිවරණය නියමිත දිනට පවත්වනවා - අගමැති
+
+*2024-05-29 17:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197162) · `si`
+
+ආණ්ඩුක්‍රම ව්‍යවස්ථාව අනුව නියමිත දිනට ජනාධිපතිවරණය පැවැත්වීමට කටයුතු කරන බව අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන මහතා පවසයි.
+
+අග්‍රාමාත්‍යවරයා මේ බව සඳහන් කළේ කොළඹ, ජාතික පුස්තකාල ප්‍රලේඛන සේවා මණ්ඩලයේදී මාර්ටින් වික්‍රමසිංහ ජන ජීවිතය හා ලේඛන කලාගාරය සුවිශේෂ මැදිරිය විවෘත කිරීමේ අවස්ථාවට එක්වෙමිනි.
+
+එහිදී වැඩිදුරටත් අදහස් දැක්වූ අග්‍රාමාත්‍යවරයා පැවසුවේ වගකීමක් නැති ප්‍රකාශ හරහා රට කලඹන්න ප්‍රජාතන්ත්‍රවාදී ආණ්ඩුවක් හෝ පාර්ලිමේන්තුවක් ඉඩ නොදෙන බවය.
+
+මැතිවරණය ගැන දැනටමත් රජයේ ස්ථාවරය ප්‍රකාශයට පත්කරල තිබෙනවා. ආණ්ඩුක්‍රම ව්‍යවස්ථාව අනුව ජනාධිපතිවරණය පවත්වන්නට පුළුවන් බව මැතිවරණ කොමිසම ප්‍රකාශ කළා. සැප්තැම්බර් ඔක්තෝම්බර් මාස දෙක අතර එය සූදානම් කරන බව ඔවුන් ප්‍රකාශ කරලා තියෙනවා. ඒ බව ආණ්ඩුවත් ප්‍රකාශ කර තිබෙනවා.
+
+මැයි දිනයේ සෙනඟ දැකලා ආණ්ඩුව මැතිවරණය කල් දාන්න උත්සහ කරනවා කියලා චෝදනාවක් තියෙනවා නේද?
+
+...
+
+[Data](articles/838d756f.json)
+
+---
+
+### A fined Rs. 1243 million for five gold importers
 
 *2024-05-29 17:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197161) · `si`
 
-මෙරටට නීතිවිරෝධී ලෙස රන් ආනයනය කළ ආයතන කිහිපයකට රුපියල් මිලියන 1243ක දඩයක් නියම කර ඇති බව මුදල් රාජ්‍ය අමාත්‍ය රංජිත් සියඹලාපිටිය මහතා පවසයි.
+State Minister Ranjith Siyambalapitiya announced fines totaling Rs. 1243 million against five gold importers, including a Rs. 179 million fine for one company. He urged the government to revoke licenses from illegal gold traders and emphasized the need for direct gold purchases to ensure compliance with a special gazette notification aimed at regulating gold imports in the country.
 
-එලෙස නීතිවිරෝධී ලෙස රන් ආනයනය කළ ආයතන 5ක් මේවනවිට හඳුනාගෙන ඇති බවද මුදල් රාජ්‍ය අමාත්‍යවරයා වැඩිදුරටත් සඳහන් කළේය.
+🟩
 
-අමාත්‍යවරයා වැඩිදුරටත් පවසා ඇත්තේ එම ආයතන අතරින් එක් ආයතනයක් සඳහා රුපියල් මිලියන 179ක දඩයක් ගෙවීමට නියම කර ඇති බවය.
+State Minister Ranjith Siyambalapitiya says that a fine of Rs. 1243 million has been fined Rs.
 
-මින් ඉදිරියට රන්භාණ්ඩ ආනයන සිදුකරන බලපත්‍රලාභී සියලු ආයතන මෙම නීති විරෝධී ක්‍රියාවන් වෙතින් මිදිය යුතු බවද එහිදී අමාත්‍යවරයා අවදාරණය කර සිටී.
+The State Minister further stated that there are five imported gold imported institutions.
 
-එසේම අදාළ ආයතන ඍජුව රන් ආනයනය නොකර තුන්වැනි පාර්ශ්ව වෙතින් මිලදීගන්නා රන් සඳහා ද නිෂ්පාදන වාර්තා සළකාබලා දඩ මුදල් අය කරගන්නා බවද අමාත්‍යවරයා පවසයි.
+The Minister further stated that one of these institutions has to pay a fine of Rs 179 million for one company.
 
-නීතිවිරෝධී ලෙස රට තුළට රන් ආනයනය කිරීම සම්බන්ධයෙන් පසුගිය වකවානුව තුළ අනාවරණය වූ සිදුවීම් සැලකිල්ලට ගෙන මෙරට රන් ජාවාරම වැළැක්වීමේ අරමුණින් ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ උපදෙස් මත රන් භාණ්ඩ ආනයනයේ දී හඳුනාගත් සීමා පනවමින් අතිවිශේෂ ගැසට් නිවේදනයක් ද පසුගිය වර්ෂයේ මාර්තු මාසයේ දී නිකුත් කර තිබේ.
+The Minister alsoar the government should be removed from these illegal activities that all the Licenses of the Golden.
+
+The Minister also said that the production reports are also paid for gold purchasing directly from the third parties without direct gold.
+
+In view of the exclusive importation of gold in the country, he issued a special gazette notification for the use of gold items in the country.
 
 ◼️
 
 [Data](articles/3e9d2ca2.json)
 
+[Extended Data](ext_articles/3e9d2ca2.ext.json)
+
 ---
 
-### பெண் கான்ஸ்டபிளின் ஏ.ரி.எம்  அட்டையில் இழுத்த ஐவர் கைது
+### Five arrested for pulling female Constable's ARM card
 
 *2024-05-29 17:13:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெண்-கான்ஸ்டபிளின்-ஏ-ரி-எம்-அட்டையில்-இழுத்த-ஐவர்-கைது/175-338115) · `ta`
 
-பெண் கான்ஸ்டபிளுக்குச் சொந்தமான வங்கி தானியக்க இயந்திர அட்டையை (ஏ.ரி.எம் அட்டை) எடுத்து பொருட்களைக் கொள்வனவுச் செய்தனர் என்ற குற்றச்சாட்டின் கீழ், கந்தேநுவர பொலிஸில் இணைந்து கடமையாற்றும் பெண் கான்ஸ்டபிள்கள் இருவர் உட்பட ஐவர் கைது செய்யப்பட்டுள்ளனர்.
+Five individuals, including two female constables and a police officer, were arrested for fraudulently purchasing goods worth 15,150 rupees using a stolen ARM card. The incident occurred in Matale, where the card was found.
 
-கைது செய்யப்பட்ட ஏனைய சந்தேகநபர்களில், இணைந்து கடமையாற்றும் பொலிஸ் கான்ஸ்டபிள், லக்கல பொலிஸ் பிரிவில் கடமையாற்றும் பல்நோக்கு அபிவிருத்தி உதவியாளர், ரத்தோட்டை உள்ளூராட்சி சபையின் மின்சார ஊழியர் ஆகியோரும் அடங்குவர் என பொலிஸார் தெரிவித்துள்ளனர்.
+🟩
 
-மாத்தளை வெசாக் வலயத்தில் விகாரை மாவத்தையில் கடந்த 24ஆம் திகதியன்று விழுந்து கிடந்த ஏ.ரி.எம் காட் அட்டையில் 15,150 ரூபாய் பணம் மீள எடுக்கப்பட்டுள்ளது. அத்துடன், பொருட்களும் கொள்வனவு செய்யப்பட்டுள்ளன என அந்த பெண் கான்ஸ்டபிளினால் முறைப்பாடு செய்யப்பட்டுள்ளது.
+Five persons, including two female constables, have been arrested by the Kandenuwara police on charges of buying goods and buying goods.
 
-அதனடிப்படையில் மேற்கொள்ளப்பட்ட விசாரணைகளின் பின்னரே, வெசாக் வலயத்தில் கந்தேநுவர பொலிஸில் இருந்து வருகைதந்த பொலிஸார் கைது செய்யப்பட்டனர். அவர்களிடம் மேற்கொள்ளப்பட்ட விசாரணைகளில் ஏனையோரும் கைது செய்யப்பட்டனர் என பொலிஸார் குறிப்பிட்டுள்ளனர்.
+Other arrested suspects include the police constable, a multi -purpose development assistant in the Lakkala Police Division and the Electricity Employees of the Rathota Local Government Council, police said.
+
+15,150 rupees has been recovered on the ARMD card, which fell on the 24th of last month at Vihara Mawatha at the Vesak Zone in Matale.. The woman has lodged a complaint with the constable that the goods have been purchased.
+
+According to the investigation, police were arrested from the Kandenuwara police in the Vesak Zone.. Investigations carried out by them were arrested by others, police said.
 
 ◼️
 
 [Data](articles/5f205828.json)
 
+[Extended Data](ext_articles/5f205828.ext.json)
+
 ---
 
-### ‘ரணிலின் தோல்வியை ஐ.தே.க ஏற்றுள்ளது’
+### UNP has accepted Ranil's defeat
 
 *2024-05-29 17:08:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலின்-தோல்வியை-ஐ-தே-க-ஏற்றுள்ளது/175-338114) · `ta`
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் தோல்வியை உத்தியோகபூர்வமாக ஐக்கிய தேசியக் கட்சி ஏற்றுக் கொண்டுள்ளதாக தேசிய மக்கள் சக்தியின் நிறைவேற்றுச் சபை உறுப்பினர் நலிந்த ஜயதிஸ்ஸ செவ்வாய்க்கிழமை (28) தெரிவித்துள்ளார்.
+The United National Party (UNP) has acknowledged President Ranil Wickremesinghe's loss. Jayatissa commented on the decision by UNP's Palitha Range Bandara to extend Wickremesinghe's term without elections.
 
-ஜனாதிபதி அல்லது பொதுத் தேர்தல்களை நடத்தாமல் ரணில் விக்கிரமசிங்கவுக்கு மேலும் இரண்டு ஆண்டுகள் வழங்கப்பட வேண்டுமென்ற ஐக்கிய தேசியக் கட்சியின் பொதுச் செயலாளர் பாலித ரங்கே பண்டாரவின் கருத்தைச் சாடும்போதே குறித்த கருத்தை ஜயதிஸ்ஸ வெளிப்படுத்தியுள்ளார்.
+🟩
+
+The United National Party (UNP) has officially accepted the defeat of President Ranil Wickremesinghe.
+
+Jayatissa has expressed his views on the opinion of UNP general secretary Palitha Range Bandara to give Ranil Wickremesinghe two more years without holding the presidential or general elections.
 
 ◼️
 
 [Data](articles/cdb44f7b.json)
+
+[Extended Data](ext_articles/cdb44f7b.ext.json)
 
 ---
 
@@ -148,17 +186,23 @@ The identity of the man who is used or the man who is used to be able to recogni
 
 ---
 
-### අත්අඩංගුවට ගත් කොතලාවල ආරක්ෂක විශ්වවිද්‍යාලයේ කථිකාචාර්ය වරයා ඇප මත මුදාහරී
+### Attorney at Kotalawala Defense University released on bail
 
 *2024-05-29 16:49:44* · [`adalk`](https://www.ada.lk/breaking_news/අත්අඩංගුවට-ගත්-කොතලාවල-ආරක්ෂක-විශ්වවිද්‍යාලයේ-කථිකාචාර්ය-වරයා-ඇප-මත-මුදාහරී/11-409891) · `si`
 
-ISIS සංවිධානය සමඟ සම්බන්ධ බවට සැකකෙරෙන ඉන්දියාවේදී අත්අඩංගුවට ගත් ශ්‍රී ලාංකිකයින් 4 දෙනෙකු සම්බන්ධයෙන් අසත්‍ය ප්‍රකාශයක් සිදුකළ බවට එල්ලවූ චෝදනාවකට අදාළව කොතලාවල ආරක්ෂක විශ්වවිද්‍යාලයේ කථිකාචාර්ය ආචාර්ය පුන්සර අමරසිංහ මහතා  අද පෙරවරුවේ අත්අඩංගුවට ගත්තේය.
+A lecturer from Kotalawala Defense University was arrested over allegations involving four Sri Lankans detained in India. He was later granted bail of Rs. 10 lakhs by the Fort Magistrate's Court.
 
-පසුව අත්අඩංගුවට ගත් ඒ මහතා කොටුව මහෙස්ත්‍රාත් අධිකරණය හමුවට ඉදිරිපත් කිරීමෙන් අනතුරුව ලක්ෂ 10ක ශරීර ඇපයක් මත  මුදාහැර ඇත.
+🟩
+
+The Kotalawala Defense University Lecturer in the Kotelawala Defense University has been arrested this morning for allegations made by the names of 4 Sri Lankans who were arrested in India.
+
+He was later produced before the Fort Magistrate's Court and released on a bail of Rs. 10 lakhs.
 
 ◼️
 
 [Data](articles/c249638b.json)
+
+[Extended Data](ext_articles/c249638b.ext.json)
 
 ---
 
@@ -234,23 +278,29 @@ It is reported that the white colored South Korea has been reported to eight or 
 
 ---
 
-### ගුරුවරු අද සහ හෙට ලෙඩ නිවාඩු?
+### Teachers today and tomorrow sick?
 
 *2024-05-29 16:27:02* · [`adalk`](https://www.ada.lk/breaking_news/ගුරුවරු-අද-සහ-හෙට-ලෙඩ-නිවාඩු-/11-409890) · `si`
 
-ගුරුවරු අද(30) සහ හෙට(31) දෙදින ලෙඩ නිවාඩු වාර්තා කිරීමේ වෘත්තීය ක්‍රියාමාර්ගයක නිරත වන බව ජාතික ගුරු බලය සංවිධානය ප්‍රකාශ කරයි.
+Teachers across the country will take sick leave on May 30th and 31st due to unresolved salary issues. The National Teacher's Organization has initiated this action, highlighting the need for further discussions on pay discrepancies. The Ministry of Education has confirmed that schools will remain open during this period.
 
-ජාතික ගුරු බලය සංවිධානයේ ප්‍රධාන ලේකම් එල් .ආර් .මනතුංග මහතා ප්‍රකාශ කළේ කාලයක් තිස්සේ විසඳා ගත නොහැකි වූ ගුරුවරුන්ගේ සහ විදුහල්පතිවරුන්ගේ වැටුප් විෂමතා විසඳා ගැනීම සඳහා බලකිරීමේ ක්‍රියාදාමයකට යොමු වෙමින් මෙලෙස මෙම දින දෙක තුළ ලෙඩ නිවාඩු වාර්තා කරන බවයි.
+🟩
 
-1997 වසරේ සමස්ත රාජ්‍ය සේවය සඳහා වැටුප් සංශෝධනය කරමින් බී.සී පෙරේරා  කොමිෂම ඉදිරිපත් කළ යෝජනා මෙතෙක් ක්‍රියාත්මක නොවීම  පිළිබඳව රජයට ගුරුවරුන්ගේ විරෝධය පළ කරන බවද ජාතික ගුරු  බලය සංවිධානය සඳහන් කරයි.
+The National Teachers Power Organization says that teachers today (30) and tomorrow (31) will engage in a professional procedure to report sick leave.
 
-මේ අතර අධ්‍යාපන අමාත්‍යාංශය විශේෂ නිවේදනයක් නිකුත් නරමින් කියා සිටින්නේ
+National Teacher's General Secretary of the National Teacher Organization L.R.R Amantunga stated that the salary anomalies of the teachers and principals cannot be resolved in the two days.
 
-හෙට සහ අනිද්දා එනම්, මැයි මස 30 සහ 31 දිනයන්හි සියලු‍ ම පාසල් සාමාන්‍ය පරිදි පැවැත්වෙන බවයි.
+The National Teacher Organization (NCC) says that the proposals made by the government regarding the proposals made by the Government of BC Perera.
+
+Meanwhile, the Ministry of Education issued a special announcement
+
+All schools will be held on the basis of tomorrow, and on May 30 and 31.
 
 ◼️
 
 [Data](articles/7c97f6a6.json)
+
+[Extended Data](ext_articles/7c97f6a6.ext.json)
 
 ---
 
@@ -476,6 +526,22 @@ The President highlighted the dual nature of the executive presidential system, 
 
 ---
 
+### President says presidential election to be held as planned
+
+*2024-05-29 16:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/President-says-presidential-election-to-be-held-as-planned/155-283619) · `en`
+
+Colombo, May 29 - President Ranil Wickremesinghe said that the presidential election will definitely be held in the future and financial allocations have already been allocated for it.
+
+While joining the "What's New" workshop held at the President's office on legal reform with young legal professionals, the President said that that none of the candidates aspiring to run in the presidential election have announced their intention to abolish the executive powers associated with the position.
+
+The President highlighted the dual nature of the executive presidential system, noting its advantages and disadvantages. He emphasized that the executive power vested in the presidency played a pivotal role in the economic development of Sri Lanka and the resolution of the 30-year war.
+
+◼️
+
+[Data](articles/90aedbbf.json)
+
+---
+
 ### Police Inspector collided with a motorcycle in Colombo
 
 *2024-05-29 16:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/184747) · `ta`
@@ -515,6 +581,22 @@ In a post on ‘X’ (formerly Twitter), the Ambassador said the meeting was hel
 [Data](articles/38de9283.json)
 
 [Extended Data](ext_articles/38de9283.ext.json)
+
+---
+
+### Daily Mirror, Lankadeepa article on poverty stricken mother gets tremendous response
+
+*2024-05-29 15:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Daily-Mirror-Lankadeepa-article-on-poverty-stricken-mother-gets-tremendous-response/108-283618) · `en`
+
+May 29- Following a report in the Daily Mirror of a mother of four children from Kebithigolleva, who was struggling after her husband’s sudden passing, numerous donors reached out to the Daily Mirror office, offering their support to the family.
+
+Accordingly, the family has shared their bank details for those interested in contributing to their well-being.
+
+In today’s Daily Mirror, it was reported that the 33-year-old mother found herself in dire circumstances, enduring four months without electricity, two weeks of water scarcity, and mourning the loss of her husband, who was the main breadwinner supporting the family through odd jobs.
+
+◼️
+
+[Data](articles/0021e604.json)
 
 ---
 
@@ -2187,67 +2269,5 @@ Thus, local meat prices have increased.   அதன்படி, நாரஹ�
 [Data](articles/7712422b.json)
 
 [Extended Data](ext_articles/7712422b.ext.json)
-
----
-
-### Straining middle-class housing projects again
-
-*2024-05-29 10:53:12* · [`adalk`](https://www.ada.lk/breaking_news/අතරමග-නැවතුණු-මධ්‍යම-පාන්තික-නිවාස-ව්‍යාපෘති-නැවත-අරඹයි/11-409885) · `si`
-
-Due to the economic crisis, Sri Lanka's Urban Development and Housing Minister Prasanna Ranatunga has submitted a special cabinet proposal for three housing projects: Malabe (256 houses), Boralesgamuwa (120 houses), and Makumbura (314 houses). These projects, initiated in February 2021, faced temporary halts in March 2023 and July 2022, with total expenditures of Rs. 369 million and Rs. 1378 million respectively.
-
-🟩
-
-Special Cabinet at Makumbura to be submitted due to the covard and economic crisis. Urban Development and Housing Prasanna Ranatunga has been submitted to the Cabinet.
-
-The three housing projects were started in February 2021 in February. Rs. House in Malabe. 3148.80 was allocated. 256 houses were built. Allocation for the Boralesgamuwa Housing Project for the construction of 120 houses. Ml. 1476. Estimated amount of estimated cost of the proposed Makumbura Housing Project. There are 3859 and the number of houses involved in 314.
-
-The Mahalapa Housing Project was temporarily suspended from March 2023 and the Urban Development Authority was already spent on its construction.The work of Boralesgamuwa and Makulura projects are temporarily stopped in July, 2022. The Authority had already spent 369 rupees and Rs. 1378 respectively.
-
-◼️
-
-[Data](articles/2e065722.json)
-
-[Extended Data](ext_articles/2e065722.ext.json)
-
----
-
-### Court extends injunction against Maithripala Sirisena
-
-*2024-05-29 10:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/99503/court-extends-injunction-against-maithripala-sirisena) · `en`
-
-The Colombo District Court has extended the interim injunction issued preventing former President Maithripala Sirisena from functioning as the Chairman of the Sri Lanka Freedom Party (SLFP), until June 12.
-
-The order was issued when the plain filed by former President Chandrika Bandaranaike Kumaratunga was taken up for consideration once again before Colombo District Judge Sandun Withana today (09).
-
-The Judge had then ordered to extend the relevant injunction until June 12.
-
-Former President Chandrika Bandaranaike Kumaratunga, in her complaint, states that as per the constitution of the Sri Lanka Freedom Party (SLFP), former President Maithripala Sirisena has no legal right to function as the Chairman of the party.
-
-Therefore, the plaint was presented requesting an enjoining order preventing former President Maithripala Sirisena from functioning as the SLFP chairman.
-
-◼️
-
-[Data](articles/1bc04099.json)
-
-[Extended Data](ext_articles/1bc04099.ext.json)
-
----
-
-### President requesting from private investors
-
-*2024-05-29 10:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197147) · `si`
-
-President Ranil Wickremesinghe urges private investors to back a long-term energy sector plan in Sri Lanka, fostering green growth initiatives.
-
-🟩
-
-President Ranil Wickremesinghe requests the support and development of private sector investors to support and develop a long-term plan in the energy sector in Sri Lanka and to promote green growth efforts.
-
-◼️
-
-[Data](articles/db81a387.json)
-
-[Extended Data](ext_articles/db81a387.ext.json)
 
 ---

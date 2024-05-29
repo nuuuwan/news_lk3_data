@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-30 04:18:38**
+As of **2024-05-30 04:34:16**
 
 ## Newspaper Stats
 
-*Scraped **27,181** Articles*
+*Scraped **27,186** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 270
 newsfirstlk | 363
 islandlk | 1,465
 economynextcom | 1,556
-dailyftlk | 1,591
+dailyftlk | 1,596
 adalk | 2,311
 adaderanalk | 3,095
 tamilmirrorlk | 3,189
@@ -26,11 +26,107 @@ adaderanasinhalalk | 4,351
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,181 (100.0%) of 27,181 articles have been extended.
+27,181 (100.0%) of 27,186 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-30 (Thursday)
+
+### Aitken Spence Plantation Managements to delist
+
+*2024-05-30 04:21:51* · [`dailyftlk`](https://www.ft.lk/business/Aitken-Spence-Plantation-Managements-to-delist/34-762343) · `en`
+
+Proposes Rs. 240 per share exit offer for 28 minority shareholders holding mere 2,160 shares
+
+The Board of Directors of Aitken Spence Plantation Managements PLC has resolved to delist the shares of the company from the Colombo Stock Exchange subject to obtaining shareholder and regulatory approvals.
+
+The company said that the Board has made arrangements with major shareholders of Aitken Spence PLC (44.10%), M.J.F. Holdings Ltd., (37.23%) and D.A. de S. Wickramanayake (18.61%) who have indicated the willingness to acquire the shares of minority shareholders who may wish to divest at Rs. 240 per share through an exit offer.
+
+...
+
+[Data](articles/fd4d23bc.json)
+
+---
+
+### Roadshow promoting Dubai and Hungary real estate investments today at Movenpick
+
+*2024-05-30 04:21:15* · [`dailyftlk`](https://www.ft.lk/business/Roadshow-promoting-Dubai-and-Hungary-real-estate-investments-today-at-Movenpick/34-762342) · `en`
+
+IGL Interglobal Luxury, in collaboration with Corporate Management Consultants, will hold a roadshow today at the Movenpick Hotel to promote real estate investments in Dubai and Hungary to investors in Sri Lanka.
+
+Interested investors will have the opportunity to participate in one-on-one interviews.
+
+The Presentation on Dubai Investments will be made by Inter Global Luxury Chief Executive Sabrina Khamisani and the presentation on Hungary will be made by Sales and Investment Director Junaid Khamisani and European Immigration Specialist Dr. Marczali Tamás.
+
+The Dubai real estate market offers very attractive terms and benefits, including a 10-year golden visa, assistance in opening bank accounts, a tax-free environment, one of the lowest crime rates globally, strong political stability, a robust legal framework, and high returns on investment (ROI) without tax implications.
+
+Under the theme “Hungary: Your Gateway to the European Union (EU),” one could apply for 3
+
+...
+
+[Data](articles/a3e3f229.json)
+
+---
+
+### JICA scandal: BASL members urge removal of potentially implicated office bearers
+
+*2024-05-30 04:19:09* · [`dailyftlk`](https://www.ft.lk/news/JICA-scandal-BASL-members-urge-removal-of-potentially-implicated-office-bearers/56-762340) · `en`
+
+Emphasise importance of maintaining BASL’s moral authority and public trust
+
+Underscore significance of ethical leadership within BASL and request probe into potential breaches of professional ethics
+
+Urge BASL Management and Executive Committees to enforce temporary resignations, to protect association’s reputation
+
+A group of legal professionals yesterday called for a sweeping investigation into alleged financial irregularities within the Bar Association of Sri Lanka (BASL).
+
+In a letter to the five-member Inquiry Committee investigating the JICA project scandal, the group including ten President’s Counsels and over 80 Attorneys-at-Law, demanded that any BASL member potentially involved step down from their positions for the duration of the inquiry.
+
+...
+
+[Data](articles/643a8f50.json)
+
+---
+
+### KDU lecturer released on bail after arrest over false claim on ISIS suspects
+
+*2024-05-30 04:18:33* · [`dailyftlk`](https://www.ft.lk/news/KDU-lecturer-released-on-bail-after-arrest-over-false-claim-on-ISIS-suspects/56-762339) · `en`
+
+Sir John Kotelawala Defence University (KDU) Senior lecturer on law, Dr. Punsara Amarasinghe was granted bail by the Colombo Fort Magistrate Court yesterday following his arrest by the Criminal Investigations Department (CID).
+
+He was accused of making false statements to the media regarding the recent arrest of ISIS suspects of Sri Lankan origin in India.
+
+The Fort Magistrate’s Court ordered Amarasinghe’s release on personal bail of Rs. 1 million after he was produced before the court.
+
+He was detained for claiming that the four suspects arrested in India recently Mohamed Nushran, Mohamed Nafran Nowfer, Mohamed Rasdeeen Abdul Raseem, and Mohamed Faris Mohamed Farook for their alleged links to the Islamic State of Iraq and Syria (ISIS), were listed by the Presidential Commission of Inquiry on the Easter Attacks as individuals recommended for rehabilitation.
+
+...
+
+[Data](articles/bad418b2.json)
+
+---
+
+### PM assures elections to be held as scheduled this year
+
+*2024-05-30 04:18:14* · [`dailyftlk`](https://www.ft.lk/news/PM-assures-elections-to-be-held-as-scheduled-this-year/56-762338) · `en`
+
+Prime Minister Dinesh Gunawardena at the inauguration of the Martin Wickramasinghe’s Life and Literature Section at the National Libraries Board, Colombo yesterday
+
+Dismisses proposal to postpone the Presidential and General Elections and said that these were never discussed within Govt.
+
+Reiterates Govt.’s commitment to election timeline declared by Election Commission
+
+Says Govt. will hold General Election thereafter and consider to hold provincial council and LG polls simultaneously
+
+Criticises irresponsible statements by some politicians, affirming that no abrupt announcements would be made without proper discussion
+
+Prime Minister Dinesh Gunawardena yesterday assured that the upcoming Presidential Election will proceed as scheduled this year, in accordance with constitutional provisions and as announced by the Elections Commission of Sri Lanka. The Commission has set the election window between 15 September and 17 October.
+
+...
+
+[Data](articles/751bf54b.json)
+
+---
 
 ### The Canadian High Commissioner said that the development of the Northern Province will be given to the development of the Northern Province
 
@@ -2191,121 +2287,5 @@ We maintain the English method because our country does not follow a federal way
 [Data](articles/e0e11acb.json)
 
 [Extended Data](ext_articles/e0e11acb.ext.json)
-
----
-
-### Demand from the north to remove the sandals embedded from the market
-
-*2024-05-29 14:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/184777) · `ta`
-
-Controversy erupted over a shoe company's use of the Tamil national flower, Karthik, in its products, sparking demands for removal from the market. The Tamil community views this as a sacrilege, leading to calls for boycotts and protests. Political figures and community leaders have voiced strong opposition, emphasizing the cultural significance of the flower and urging the company to apologize and withdraw the offending items.
-
-🟩
-
-The flower of the flower, the flower, which was questioned by the police during the display in the North, has created controversy by the largest trade company to uninterrupted trade activities across the country.
-
-The Tamils ​​are very worried about the image of a Tamil national flower, the Tamil national flower, in the south, to promote the country's first footwear.
-
-A spokesman for a Tamil political party has asked the shoe -made company to immediately recover from the market.
-
-"We are demanding that the manufacturing company reconsider the inscriptions of the Karthik flower that has been released to offend the sentiments of the Tamils."Tamil National People's Front media spokesman Kanakaratnam Sukas stated on his X site.
-
-He has also requested the Tamil people to boycott the company's products if it fails to do so.
-
-“If we fail to do so, we demand our relationships to boycott the company's products and the trade centers that sell them!”
-
-...
-
-[Data](articles/e08d7cc6.json)
-
-[Extended Data](ext_articles/e08d7cc6.ext.json)
-
----
-
-### The train jumps in front of the train
-
-*2024-05-29 14:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/184785) · `ta`
-
-A man attempted suicide by standing in front of a train near the Temodara railway station. He was hospitalized and is receiving further treatment. The incident occurred near the Ella Police Division.
-
-🟩
-
-Police said that a person near the tunnel near the Temodara railway station belonging to the Ella Police Division has tried to make a living in front of the train.
-
-The person has been admitted to the hospital for treatment after being injured.
-
-Subsequently, the police said that they were being treated for further treatment.
-
-Police said that a 34 -year -old Udura estate was trying to make life in front of the train.
-
-◼️
-
-[Data](articles/684d108e.json)
-
-[Extended Data](ext_articles/684d108e.ext.json)
-
----
-
-### ISIS Affairs: Bail for lecturer
-
-*2024-05-29 14:50:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ISIS-விவகாரம்-விரிவுரையாளருக்கு-பிணை/175-338094) · `ta`
-
-A lecturer from the University of Kotalawala, arrested for falsely reporting on ISIS detainees in India, has been released on bail by Gen. Sir John Kotalawala Safety University.
-
-🟩
-
-Gen. Sir John Kotalawala Safety University has been granted bail to the lecturer of the University of Kotalawala, who was arrested on charges of making false reports to the media regarding the arrested and detained ISIS members in India.
-
-◼️
-
-[Data](articles/09c6ddec.json)
-
-[Extended Data](ext_articles/09c6ddec.ext.json)
-
----
-
-### Defence Ministry clearance a must for Sri Lanka ex-servicemen applying for Russia visa
-
-*2024-05-29 14:50:00* · [`economynextcom`](https://economynext.com/defence-ministry-clearance-a-must-for-sri-lanka-ex-servicemen-applying-for-russia-visa-165285/) · `en`
-
-ECONOMYNEXT – Sri Lanka ex-servicemen applying for visit visas to Russia will now have to get Defence Ministry clearance, Minister of Foreign Affairs M U M Ali Sabry said.
-
-Sabry met the Russian Ambassador in Colombo Levan S Dzhagaryan on Wednesday.
-
-“We addressed the urgent situation of Sri Lankans being deployed in the Russia-Ukraine conflict and agreed on immediate steps to resolve these issues,” the minister said on social media platform X (twitter).
-
-“Russia will now require Sri Lanka Defence Ministry clearance for visit visas of ex-servicemen.”
-
-The upcoming visit to Russia will enable further discussions to find a solution to this matter, Sabry said.
-
-A Sri Lankan delegation including State Foreign Minister Tharaka Balasuriya and Defence Secretary Kamal Gunaratne will leave to Moscow “soon” to have discussions over concerns over hundreds of the island nation’s ex-solders now joined Russia-Ukraine war, Sabry said earlier.
-
-...
-
-[Data](articles/c2181508.json)
-
-[Extended Data](ext_articles/c2181508.ext.json)
-
----
-
-### In Pakistan, AI lists the new curriculum for South Asian politics
-
-*2024-05-29 14:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/184783) · `ta`
-
-In a historic move, Pakistan's opposition leader Imran Khan, despite facing disqualification and persecution, emerged victorious in the elections, marking a significant shift in South Asian politics. Utilizing AI to create a speech for his victory address, Khan's party, PTI, innovatively navigated government-imposed internet restrictions, showcasing the power of digital technology in electoral strategies. This victory highlights the changing landscape of politics in South Asia, where traditional media's grip is loosening, and AI becomes a pivotal tool for political engagement.
-
-🟩
-
-Author - Nevindi Jayawardena and Dilshan
-
-At the time of the Pakistani election on February 8, Imran Khan suffered 14 years in prison for other mistakes and charges. A week ago, Khan, the country's most popular opposition leader, was disqualified from being in office for 10 years. His party, Pakistan Tehreek-e-Insaf (PTI), was subjected to mass persecution and repression and its central offices were sealed by the police.
-
-The contradictions against the party and its leader were fiercely. Yet Khanal was able to oppose them. Although allegations such as voting and military intervention and all races were supported by the government, PTI won 93 seats. The ruling party, Pakistan Muslim League-Nawaz (PMLN), won 75 seats and Pakistan People's Party (PPP), led by Benazir Bhutto's son Bilawal Bhutto Zardari, won 54 seats.
-
-...
-
-[Data](articles/44a46851.json)
-
-[Extended Data](ext_articles/44a46851.ext.json)
 
 ---

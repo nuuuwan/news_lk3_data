@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-29 13:53:50**
+As of **2024-05-29 14:05:54**
 
 ## Newspaper Stats
 
-*Scraped **27,045** Articles*
+*Scraped **27,049** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,88 @@ adalk | 2,300
 adaderanalk | 3,086
 tamilmirrorlk | 3,178
 virakesarilk | 4,142
-dailymirrorlk | 4,264
-adaderanasinhalalk | 4,336
+dailymirrorlk | 4,266
+adaderanasinhalalk | 4,338
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,039 (100.0%) of 27,045 articles have been extended.
+27,045 (100.0%) of 27,049 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-29 (Wednesday)
+
+### Green light for vehicle imports
+
+*2024-05-29 14:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Green-light-for-vehicle-imports/108-283609) · `en`
+
+Colombo,May 29 (Daily Mirror) - Gradually easing the import of vehicle is vital since the Central Bank of Sri Lanka (CBSL) is confident in its ability to manage the foreign reserve, Central Bank Governor Dr. Nandalal Weerasinghe said.
+
+Addressing the media, he emphasized that the government must determine whether to resume vehicle imports following the Central Bank's announcement of adequate foreign reserves.
+
+He further mentioned that the government had been concentrating on resuming vehicle imports gradually, with specific vehicle categories already permitted for the tourism industry.
+
+◼️
+
+[Data](articles/3f3c0d10.json)
+
+---
+
+### මැතිවරණ කොමිසමේ සභාපති සහ ජූලි චන්ග් අතර හමුවක්
+
+*2024-05-29 13:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197153) · `si`
+
+මෙරට අමෙරිකානු තානාපති ජූලි චන්ග් මහත්මිය හා මැතිවරණ කොමිසමේ සභාපති ආර්.එම්.ඒ.එල් රත්නායක මහතා අතර හමුවක් සිදුව තිබේ.
+
+රටේ ඉදිරි මැතිවරණ පැවැත්වීම සම්බන්ධයෙන් තොරතුරු විමසීම සඳහා ඇය මැතිවරණ කොමිසමේ සභාපතිවරයා හමුවී ඇති බව වාර්තා වෙයි.
+
+මැතිවරණ පැවැත්වීමේදී මතුව ඇති ගැටලුකාරී තත්ත්වයන් සම්බන්ධයෙන් ද අමෙරිකානු තානාපති ජූලි චන්ග් මහත්මිය මැතිවරණ කොමිසමෙන් කරුණු විමසා තිබේ.
+
+ව්‍යවස්ථාවෙන් තමන්ට පැවරී ඇති බලතල ප්‍රකාරව ඉදිරි මැතිවරණ පවත්වන බව මෙහිදී මැතිවරණ කොමිසමේ සභාපති ආර්. එම්. ඒ. එල් රත්නායක මහතා ප්‍රකාශ කර ඇති බව සඳහන්ය.
+
+මේ අතර පසුගිය දා යුරෝපා කොමිසමේ තානාපතිවරුන්, එක්සත් රාජධානියේ මහ කොමසාරිස්වරයා ඇතුළු පිරිසක් ද මැතිවරණ කොමිසමේ සාමාජිකයින් හමුවී ඉදිරි මැතිවරණ ක්‍රියාවලිය පිළිබඳ කරුණු සාකච්ඡා කර තිබුණි.
+
+◼️
+
+[Data](articles/fc7dffdc.json)
+
+---
+
+### Lecturer arrested for false remarks on ISIS arrests in India
+
+*2024-05-29 13:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Lecturer-arrested-for-false-remarks-on-ISIS-arrests-in-India/108-283608) · `en`
+
+Colombo, May 29 (Daily Mirror) - The Criminal Investigation Department (CID) arrested a lecturer attached to the General Sir John Kotelawala Defence University (KDU) for making false statements to the media regarding the ISIS members arrested in India.
+
+Police Spokesman DIG Nihal Thalduwa said the suspect was arrested yesterday after being summoned to the CID to record a statement over remarks he had made during a TV programme.
+
+On May 20, four Sri Lankans were arrested by the Gujarat Anti-Terrorism Squad at Ahmedabad Airport on suspicion of having ISIS links. The lecturer recently claimed in media interviews that the report of the Commission on the Easter Sunday bomb attacks had recommended these men for rehabilitation.
+
+However, when questioned by the CID, the lecturer admitted to being unaware of the relevant details, thus leading to his arrest.
+
+The Police spokesman said the suspect will be produced before court today.
+
+...
+
+[Data](articles/836b1b51.json)
+
+---
+
+### කොතලාවල ආරක්ෂක විශ්වවිද්‍යාලයේ කථිකාචාර්යවරයෙක් අත්අඩංගුවට
+
+*2024-05-29 13:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197152) · `si`
+
+කොතලාවල ආරක්ෂක විශ්වවිද්‍යාලයේ කථිකාචාර්ය ආචාර්ය පුන්සර අමරසිංහ මහතාව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+ඒ ISIS සංවිධානය සමඟ සම්බන්ධ බවට සැකකෙරෙන ඉන්දියාවේදී අත්අඩංගුවට ගත් ශ්‍රී ලාංකිකයින් 4 දෙනෙකු සම්බන්ධයෙන් අසත්‍ය ප්‍රකාශයක් සිදුකළ බවට චෝදනා කරමින්ය.
+
+◼️
+
+[Data](articles/215c6e73.json)
+
+---
 
 ### KDU lecturer arrested over comments on ISIS suspects arrested in India
 
@@ -46,29 +116,41 @@ Dr. Amarasinghe had reportedly made the controversial remarks during a recent te
 
 [Data](articles/ce4fb7ee.json)
 
+[Extended Data](ext_articles/ce4fb7ee.ext.json)
+
 ---
 
-### ලංකාවට ආ විදෙස් තරුණියට නොසිතූ කරදරයක් - CCTV සහිතයි
+### No troubles that have not been to Sri Lanka - CCTV
 
 *2024-05-29 12:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197151) · `si`
 
-ඇල්ල ප්‍රදේශයේ සංචාරය කිරීම සඳහා පිටකොටුව බැස්ටියන් මාවත බස් නැවතුම්පොළෙන් බස් රථයකට නැගුණු එංගලන්ත ජාතික තරුණියකගේ ගමන් බෑගය බස් රථය තුළදී සොරාගෙන තිබේ.
+A British-Australian YouTuber traveling in Sri Lanka had her bag stolen from a bus in Colombo. The incident was captured on CCTV. She visited 37 countries before arriving in Sri Lanka to make a tourism video. After reporting the theft to the Fort Police Station, she offered a reward of $5,000 for the return of her bag containing her drone, camera, and $2,000 cash.
 
-යූ ටියුබ් නාලිකාවක් පවත්වාගෙන එම තරුණිය ශ්‍රී ලංකාව පිළිබඳව සංචාරක වීඩියෝවක් නිර්මාණය කිරීම සඳහා දිවයිනට පැමිණ තිබිණි.
+🟩
 
-ස්කයි මැගෝවන් සංචාර පිළිබඳ යූ ටියුබ් නාලිකාවක් පවත්වාගෙන යන ඔස්ට්‍රේලියාවේ වාසය කරන එංගලන්ත ජාතික තරුණියකි.
+The bag of a England rose to a bus raised at the bus station at the bus station in the Fall area was stolen at the bus stand.
 
-රටවල් 37ක පමණ සංචාරය කර ඇති ඇය පසුගිය මැයි 24වැනිදා මෙරටට පැමිණ තිබුණේ දෙවන වරටය.
+Maintain a YouTube channel, the girl had arrived in the island to create a tourist video about Sri Lanka.
 
-දුම්රියෙන් ඇල්ල බලා යාම සඳහා ඇය කොටුව දුම්රිය ස්ථානය වෙත ගියද පැවති අයහපත් කාලගුණය හේතුවෙන් දුම්රිය අවලංගු වීම නිසා ඇය බසයෙන් ඇල්ල බලා යාමේ අරමුණින් බැස්ටියන් මාවත බස් නැවතුම්පළෙන් බසයකට ගොඩ වී තිබේ.
+A British girl living in Australia, where you have a Youtube Channel on Sky Mawan Travel, is a young man.
 
-කෙසේ වුවද බසයේදී පුද්ගලයින් දෙදෙනෙකු ඇයගේ බෑගය සොරාගෙන ඇති අතර එය බසයේ CCTV කැමරාවේ සටහන්ව තිබුණි.
+She had visited about 37 countries on the 24th of May.
 
-සිය බෑගය සොරාගෙන ඇති බව දැනගත් වහාම ඇය එම බස් නැවතුම්පළේ පොලිසියට මේ බව දැනුම් දී තිබූ අතර ඔවුන් කොටුව පොලිස් ස්ථානයටද ඒ පිළිබඳ පැමිණිල්ලක් ගොනුකර තිබුණි.
+The train was canceled to the Fort Railway Station, as the rail was canceled due to the inclement weather, the Bastian Mawatha's road bus stand has been recovered from the bus stand.
+
+However, two people in the bus have stole her bag, which was noted in the cctv camera of the bus.
+
+When she founded his bag was stolen, she had told the police to the police station and had lodged a complaint with the Fort Police Station.
+
+Sky Mawan says that her airline, the camera, the camera, and $ 2,000.
+
+She said that she was ready to give $ 5,000 to someone who is finding or informed of her bag.
 
 ...
 
 [Data](articles/c10a06cb.json)
+
+[Extended Data](ext_articles/c10a06cb.ext.json)
 
 ---
 
@@ -88,21 +170,29 @@ A census by Sri Lanka’s Rubber Development Department had found that the area 
 
 [Data](articles/c9e6d4eb.json)
 
+[Extended Data](ext_articles/c9e6d4eb.ext.json)
+
 ---
 
-### ත්‍රිරෝද රථයක ගැටී බසයක් පෙරලී 27ක් රෝහලේ
+### 27 hospitalized after collision with a three-wheeler
 
 *2024-05-29 12:29:24* · [`adalk`](https://www.ada.lk/breaking_news/ත්‍රිරෝද-රථයක-ගැටී-බසයක්-පෙරලී-27ක්-රෝහලේ/11-409887) · `si`
 
-අද පෙරවරුවේ කොළඹ බදුල්ල ප්‍රධාන මාර්ගයේ පැල්මඩුල්ල නගරය ආසන්නයේ දි පෞද්ගලික බස් රථයක් සහ ත්‍රිරෝද රථයක් මුහුණට මුහුණ ගැටිමෙන් පසු පෞද්ගලික බසය  මාර්ගයෙන් ඉවතට පෙරළි  සිදු වූ අනතුරින්    පුද්ගලයින් 27දෙනෙකු තුවාල ලබා රෝහල් ගතකර ඇතැයි පොලීසිය කියයි.  ‍
+In a Colombo road accident involving a private bus and a three-wheeler, 27 people were hospitalized. The incident occurred when the bus veered off the road, causing injuries. Victims were treated at Kasahaswatta Base Hospital before being transferred to Ratnapura Teaching Hospital.
 
-පෞද්ගලික  බසය ඇඹිලිපිටිය සිට කොළඹ දක්වා ධාවනය කරමින් සිටි අතර ඊට ප්‍රතිවිරුද්ධ දෙසින් පැමිණි ත්‍රිරෝද රථය බස් රථය දෙසට එද්දි ත්‍රිරෝද රථය බසයේ ගැටිම වැලක්විමට බස් රියදුරු උත්සාහ ගෙන ඇති බව එම අවස්ථාවේදී මාර්ගයේ  පස් ලිහිල්ව බසය අඩි කිපයක  පල්ලමකට මාර්ගයෙන් ඉවතට  පෙරලී  ගොස්  ඇතැයි පොලීසිය සඳහන් කරයි.
+🟩
 
-ෙකහවත්ත මූලික රෝහලට තුවාලකරුවන්  ව්සි දෙනෙකු ද රත්නපුර ශික්ෂණ රෝහලට හත් දෙනෙකු ද ඇතුළත් කර තිබේ
+A private bus and three-wheeler in the Colombo Badulla-Badulla main road have been admitted to hospital with a private bus and a three-wheeler.‍
+
+The road was driven by the bus with a few feet on the road to the bus to reach the bus towards the bus, police said.
+
+Kasahaswatta Base Hospital have been injured and elected to Ratnapura Teaching Hospital
 
 ◼️
 
 [Data](articles/de606ec2.json)
+
+[Extended Data](ext_articles/de606ec2.ext.json)
 
 ---
 
@@ -139,6 +229,8 @@ The DMC, following the Minister's instructions, has initiated a programme with t
 ...
 
 [Data](articles/cacaa346.json)
+
+[Extended Data](ext_articles/cacaa346.ext.json)
 
 ---
 
@@ -178,23 +270,33 @@ However, Kodippili said that if it becomes essential to close the road the DMC w
 
 ---
 
-### நிர்வாண  படங்களை  வெளியிட்ட காதலன்
+### Lover who released nude pictures
 
 *2024-05-29 12:01:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/நிர்வாண-படங்களை-வெளியிட்ட-காதலன்/76-338083) · `ta`
 
-17 வயதுடைய பாடசாலை மாணவியின் நிர்வாண புகைப்படங்களை இணையத்தில் வெளியிட்ட குற்றச்சாட்டில் 18 வயதுடைய பாடசாலை மாணவன் ஒருவன் மத்தேகொட பொலிஸாரால் கைது செய்யப்பட்டுள்ளார் .
+An 18-year-old girl from Nugegoda was arrested for sharing explicit images of her ex-lover, a 17-year-old from Kudamaduwa, without consent. The incident occurred after their breakup when she started dating someone else. The victim, known for frequent medication due to an illness, ended up having her intimate photos shared online, leading to the arrest. Further investigation is ongoing.
 
-நுகேகொட பிரதேசத்தை சேர்ந்த 18 வயதுடைய பாடசாலை மாணவர் ஒருவரே இவ்வாறு கைது செய்யப்பட்டுள்ளதாக தெரிவிக்கப்பட்டுள்ளது .
+🟩
 
-கைது செய்யப்பட்ட மாணவன்  நுகேகொட பிரதேசத்தில் உள்ள பிரத்தியேக வகுப்பொன்றிக்கு சென்று கொண்டிருந்த போது, ​​மத்தேகொட , குடமாதுவ பிரதேசத்தை சேர்ந்த 17 வயதுடைய பாடசாலை மாணவி ஒருவருடன் காதல் தொடர்பை ஏற்படுத்திக் கொண்டுள்ளார் .
+A 18 -year -old schoolgirl has been arrested by Mattegoda police on charges of posting naked photos of a 17 -year -old schoolgirl.
 
-இந் நிலையில் , குறித்த மாணவன் அடிக்கடி மருந்து வகைகளை உட்கொள்வதை   அறிந்த மாணவி  அது தொடர்பில் வினவிய போது மாணவனுக்கு தீராத நோய் ஒன்று ஏற்பட்டுள்ளமை தெரியவந்துள்ளது .
+A 18 -year -old schoolgirl from Nugegoda has been arrested.
 
-பின்னர் குறித்த மாணவி அவர்களின் காதல் உறவை முறித்துக்கொண்டு வேறொரு இளைஞனுடன் காதலை வளர்த்துக்கொண்டுள்ளார் . இதனால் கோபமடைந்த மாணவன் , குறித்த இருவரும் காதல் உறவில் இருந்த போது , வீடியோ அழைப்புகள் மூலம் ஸ்கிரீன் ஷாட் செய்யப்பட்ட மாணவியின் நிர்வாண புகைப்படங்களை  சமூக வலைத்தளங்களில் வெளியிட்டுள்ளார் .
+While the arrested student was going to an exclusive class in Nugegoda, a 17 -year -old schoolgirl from Kudamaduwa area in Mattegoda had made a love affair.
 
-...
+In this case, the student who knew that the student was frequently taking medications and the student was diagnosed with an illness.
+
+The student then broke their love relationship and developed love with another young man. The angry student, while both in love, posted naked photos of a student who had been shot by video calls on social media.
+
+The suspect has been arrested according to a complaint lodged by the police after some of the friends of the student have been informed of the photos.
+
+In addition, the suspect is to be produced in court and further investigations are being carried out by Mattegoda police.
+
+◼️
 
 [Data](articles/41765d9b.json)
+
+[Extended Data](ext_articles/41765d9b.ext.json)
 
 ---
 
@@ -552,15 +654,13 @@ The person facing the case was now free of prison. Accordingly, the courts in th
 
 *2024-05-29 11:19:00* · [`economynextcom`](https://economynext.com/permanent-residence-for-persons-of-sri-lanka-descent-foreign-spouses-165234/) · `en`
 
-ECONOMYNEXT – Persons of Sri Lanka descent, including those who have renounced their citizenship and foreign spouses would be able to get permanent residence status, under regulations gazetted by the ministry of public security.
+ECONOMYNEXT – Persons of Sri Lanka descent, including those who have renounced their citizenship, and foreign spouses would be able to get permanent residence status, under regulations gazetted by the ministry of public security.
 
-A person of Sri Lankan descent or “whose citizenship of sri Lanka has ceased under sections 19, 20 or 21
-
-of the Citizenship Act” as well as a foreign spouse would be eligible to apply after six months of marriage under the new regulations.
+A person of Sri Lankan descent or “whose citizenship of sri Lanka has ceased under sections 19, 20 or 21 of the Citizenship Act” as well as a foreign spouse would be eligible to apply after six months of marriage under the new regulations.
 
 However, if the marriage is dissolved before 5 years, the PR status would automatically cease.
 
-A person of Sri Lanka descent is someone whose, parents, grand parents or great grand parents who were born or were or are still citizens of the island.
+A person of Sri Lanka descent is someone whose parents, grand parents or great grand parents were born in or are still citizens of the island.
 
 A fee of 1,000 dollars would be charged. Children would also be allowed PR status at 400 dollars.
 
@@ -2209,83 +2309,5 @@ The suspect is to be produced before the court and the Chief Inspector of the Cr
 [Data](articles/e077a7c7.json)
 
 [Extended Data](ext_articles/e077a7c7.ext.json)
-
----
-
-### Dialog launches SL’s first smartphone plan with 40% down payment
-
-*2024-05-29 01:40:42* · [`dailyftlk`](https://www.ft.lk/business/Dialog-launches-SL-s-first-smartphone-plan-with-40-down-payment/34-762298) · `en`
-
-Dialog Axiata PLC, has introduced ‘Smartphone Plans’ - the nation’s first installment plan, designed to offer all Sri Lankans a convenient and affordable solution for purchasing the latest Android smartphones.
-
-This innovative plan enables customers to own the latest Android smartphones by paying just 40% upfront, with the balance conveniently spread over 24 months and integrated into their Dialog Power Plan Postpaid mobile bill.
-
-Prepaid customers can also upgrade to the Postpaid Power Plan while retaining their existing mobile numbers to avail themselves of this benefit. Additionally, the plan is available through Lesi Pay, allowing Prepaid customers with credit ratings to enjoy flexible payment options and access to the latest technology.
-
-...
-
-[Data](articles/bb29dfda.json)
-
-[Extended Data](ext_articles/bb29dfda.ext.json)
-
----
-
-### Trade and investment team from Fujian Province visits BOI
-
-*2024-05-29 01:39:16* · [`dailyftlk`](https://www.ft.lk/business/Trade-and-investment-team-from-Fujian-Province-visits-BOI/34-762297) · `en`
-
-To strengthen  cooperation in trade and investment a delegation from China Council for the Promotion of International Trade (CCPIT) from Fujian Province  met with Board of Investment Chairman Dinesh Weerakkody and officials of the BOI on Monday to discuss potential areas for trade and investment. CCPIT Fujian Province Director, Trade and Investment Dept. Cai Lihong, CCPIT, Zhangzhou City Vice Chairman Li Yuexiang and CCPIT, Quanzhou City Chief, Legal Service Dept. Yue Dongting, participated.
-
-◼️
-
-[Data](articles/165e2712.json)
-
-[Extended Data](ext_articles/165e2712.ext.json)
-
----
-
-### Let us unite as Sri Lankans
-
-*2024-05-29 01:38:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையராக-ஒன்றிணைவோம்/175-338059) · `ta`
-
-Sri Lanka's unity across races and religions is emphasized, with leaders advocating for mutual respect and equality. They stress the importance of national programs like IT education to boost the economy and reduce poverty, prioritizing English-language education for its benefits.
-
-🟩
-
-Let us behave like a mother and children. Even if we are divided into race and religion, we must respect every race, every religion and the culture of all. We will pay homage to uniqueness. Opposition Leader Ranil Wickremesinghe said that this will be allowed.
-
-All of us must work together. Without the discrimination of Sinhalese, Tamils ​​and Muslims, we should all travel forward through the program of Sri Lankans. The opposition leader said that there are no two citizens of the community and the lowly citizen.
-
-Under the Universal Information Technology Program, smart classroom equipment worth Rs.. Opposition Leader Sajith Premadasa said this while addressing the event.
-
-...
-
-[Data](articles/59b4d9a1.json)
-
-[Extended Data](ext_articles/59b4d9a1.ext.json)
-
----
-
-### 20 -year -old youth arrested with 80 drug pills in Vavuniya
-
-*2024-05-29 01:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/184732) · `ta`
-
-In Vavuniya, a 20-year-old was arrested with 80 drug pills during a police raid. The suspect, from Poonthottam, had business-oriented pills intended for the local market. Further investigations are ongoing before he is presented to court.
-
-🟩
-
-A 20 -year -old youth has been arrested with 80 drug pills in Vavuniya, the District Narcotics Unit said.
-
-Police, led by Police Inspector Gajendran, in charge of the District Narcotics Unit in Kurumankadu, Vavuniya, conducted a special inspection on Tuesday evening.
-
-80 narcotics pills were recovered from a youth. Subsequently, the youth was arrested and investigations carried out by him have revealed that the business -oriented pills have been brought to the Vavuniya and Kurumankadu area.
-
-A 20 -year -old youth from Poonthottam, Vavuniya has been arrested. Police added that the youth will be given to the court after further investigations.
-
-◼️
-
-[Data](articles/8f772283.json)
-
-[Extended Data](ext_articles/8f772283.ext.json)
 
 ---

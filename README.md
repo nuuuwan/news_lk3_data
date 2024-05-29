@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-29 21:18:42**
+As of **2024-05-29 21:34:14**
 
 ## Newspaper Stats
 
-*Scraped **27,146** Articles*
+*Scraped **27,148** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,35 +16,73 @@ islandlk | 1,465
 economynextcom | 1,556
 dailyftlk | 1,591
 adalk | 2,307
-adaderanalk | 3,092
+adaderanalk | 3,093
 tamilmirrorlk | 3,187
 virakesarilk | 4,173
-dailymirrorlk | 4,288
+dailymirrorlk | 4,289
 adaderanasinhalalk | 4,349
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,144 (100.0%) of 27,146 articles have been extended.
+27,146 (100.0%) of 27,148 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-29 (Wednesday)
 
-### පුහුණුකරුවන් සහ තේරීම් කමිටු සභාපති පිටියට
+### Imperative to enact laws that render President accountable to Parliament – President Ranil
+
+*2024-05-29 21:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/99519/imperative-to-enact-laws-that-render-president-accountable-to-parliament-president-ranil) · `en`
+
+President Ranil Wickremesinghe emphasized that none of the candidates aspiring to run in the presidential election have announced their intention to abolish the executive powers associated with the position.
+
+The President highlighted the dual nature of the executive presidential system, noting its advantages and disadvantages. He emphasized that the executive power vested in the presidency played a pivotal role in the economic development of Sri Lanka and the resolution of the 30-year war.
+
+President Wickremesinghe made these remarks while participating in the “What’s New” dialogue on legal reforms with young legal professionals at a workshop held yesterday (28) at the Presidential Secretariat.
+
+President Wickremesinghe emphasized the importance of enacting laws that render the President accountable to Parliament. He noted the decentralization of certain executive powers to Provincial Councils and Parliamentary Oversight Committees, highlighting forthcoming divisions in this regard.
+
+...
+
+[Data](articles/b7052175.json)
+
+---
+
+### Ninety lawyers maintain those responsible for misconduct involving JICA should step down
+
+*2024-05-29 20:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ninety-lawyers-maintain-those-responsible-for-misconduct-involving-JICA-should-step-down/108-283635) · `en`
+
+Colombo, May 29 (Daily Mirror)- Ten Presidents' Counsels and 80 other members of the Bar Association of Sri Lanka (BASL) have sent a letter to the five-member Inquiry Committee and the BASL Executive Committee maintaining that anyone allegedly responsible for misconduct regarding activities involving the Japan International Cooperation Agency (JICA) and the BASL, who is not inclined to voluntarily resign from their positions in the association, should be required to immediately step down from functioning in any office of the association.
+
+The letter states that this action should be taken pending the conduct of the inquiry and the final determination of the matter.
+
+...
+
+[Data](articles/12ef508c.json)
+
+---
+
+### Coach and Selection Committee Chairman
 
 *2024-05-29 20:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197164) · `si`
 
-විස්සයි විස්ස ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ නැමීබියාව සමඟ පැවති පුහුණු තරගයෙන් කඩුලු 7ක ජයක් වාර්තා කරන්නට ඔස්ට්‍රේලියා ක්‍රීඩකයින් සමත්විය.
+Australia clinched the Twenty20 World Cup, defeating opponents with 7 wickets. The team, including stars like Travis Head, Pat Cummins, Glenn Maxwell, Mitchell Starc, Cameron Green, and Marcus Stoinis, trained against Namibia under coaches Justin Langer (head) and Daniel Vettori (support).
 
-නැමීබියාව සමඟ ඊයේ පැවති පුහුණු තරගයට ඔස්ට්‍රේලියා ලෝක කුසලාන සංචිතයේ ක්‍රීඩකයින් 9 දෙනෙක් පමණක් සහභාගි වූ අතර ඒ අනුව ඔස්ට්‍රේලියා ප්‍රධාන පුහුණුකරු ඇන්ඩෘ මැක්ඩොනල්ඩ්, සහාය පුහුණුකරු බ්‍රැඩ් හොජ් සහ තේරීම් කමිටු සභාපති ජොර්ජ් බෙයිලිට පන්දු රැකීම සඳහා එක්වීමට සිදුවීම විශේෂත්වයකි.
+🟩
 
-ඒ ඔස්ට්‍රේලියා ලෝක කුසලාන සංචිතයේ ක්‍රීඩකයින් වන ට්‍රැවිස් හෙඩ්, පැට් කමින්ස්, ග්ලෙන් මැක්ස්වෙල්, මිචෙල් ස්ටාර්ක්, කැමරන් ග්‍රීන් සහ මාර්කස් ස්ටොයිනිස්  IPL ක්‍රිකට් තරගාවලියට සහභාගිවීම නිසා තවමත් ඔස්ට්‍රේලියා සංචිතය සමගින් එක්ව නොමැත.
+Australia won the players from 7 wickets in the Twenty20 World Cup.
+
+The Australia's World Cup squad participated in the training competition with Namibia, which was the main coach squad and Australia's head-coach and support coach branded coach, Journ Bayilly.
+
+The Australia players of the Australia squad, Travis Hed, Pat Kumins, Glen Maxwell, Mitchell Stark, Cameron Green and Marcus Storenis IPL.
 
 ◼️
 
 [Data](articles/879fd8a3.json)
+
+[Extended Data](ext_articles/879fd8a3.ext.json)
 
 ---
 
@@ -252,25 +290,31 @@ MP Harsha De Silva who referred to the proposed debate with the NPP said his par
 
 ---
 
-### ජනා‍ධිපතිවරණය නිසි පරිදි පවත්වනවා
+### The presidential election is properly held
 
 *2024-05-29 18:15:25* · [`adalk`](https://www.ada.lk/breaking_news/ජනා‍ධිපතිවරණය-නිසි-පරිදි-පවත්වනවා/11-409894) · `si`
 
-ජනාධිපතිවරණය සඳහා ඉදිරිපත් වන බව පවසන කිසිදු අපේක්ෂකයෙකු විධායක බලතල අහෝසි කරනවා යැයි ප්‍රකාශ කර නැහැ
+In the upcoming presidential election, no candidate promises to eliminate executive powers. These powers, historically used to bolster Sri Lanka's economy and conclude its 30-year civil war, have been partially devolved to provincial councils and parliamentary oversight committees. President Ranil Wickremesinghe emphasizes the importance of these powers in maintaining stability and progress, highlighting his administration's efforts to delegate certain responsibilities while retaining overall control.
 
-ජනාධිපති ධූරය සතු විධායක බලය නිසා ශ්‍රී ලංකාවේ ආර්ථිකය ගොඩනැඟීමටත් තිස්වසරක යුද්ධය නිමා කිරීමටත් හැකි වුණා.
+🟩
 
-මේ වන විටත් විධායක බලතලවල කොටස් ගණනාවක් පළාත් සභාවලටත්, පාර්ලිමේන්තු අධීක්ෂණ කාරක සභා වෙතත් ලබා දී තිබෙනවා- ජනපති.
+No candidate says that the presidential election will be said to abolish executive powers
 
-ජනාධිපතිවරණය සඳහා ඉදිරිපත් වන බව පවසන කිසිදු අපේක්ෂකයෙකු එම ධුරය සතු විධායක බලය අහෝසි කරන බවට මෙතෙක් ප්‍රකාශ ක‍ර නොමැති බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සඳහන් කළේය.
+The executive power of the presidency was able to build the economy of Sri Lanka and end the thirty-year war.
 
-විධායක ජනාධිපති ක්‍රමයේ වාසි මෙන්ම අවාසි පවතින බවත්, ජනාධිපති ධූරය සතු විධායක බලය නිසා ශ්‍රී ලංකාවේ ආර්ථිකය ගොඩනැඟීමට මෙන්ම තිස්වසරක යුද්ධය නිමා කිරිමට හැකි වූ බවත් ජනාධිපතිවරයා පෙන්වා දුන්නේය.
+A number of executive powers have already been provided to provincial councils and the Parliament Oversight Committees - President.
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ ‘What’s New” තරුණ නීති වෘත්තිකයන් සමඟ නීති ප්‍රතිසංස්කරණ පිළිබඳ ජනාධිපති කාර්යාලයේදී ඊයේ (28) පවැති වැඩමුළුවට එක්වෙමිනි.
+President Ranil Wickremesinghe said that no candidate said that any candidate said that any candidate is said to have the executive power of the post, President Ranil Wickremesinghe said.
+
+The President also pointed out that the executive power of the Executive Presidency and the executive power of the president, the executive power of the president can end the economy of Sri Lanka and end the US.
+
+President Ranil Wickremesinghe made this statement participating in the workshop on the Presidential Secretariat on Law Reformers with young law professionals.
 
 ...
 
 [Data](articles/8f49fe7c.json)
+
+[Extended Data](ext_articles/8f49fe7c.ext.json)
 
 ---
 
@@ -2164,9 +2208,11 @@ The DMC, following the Minister's instructions, has initiated a programme with t
 
 President Ranil Wickremesinghe has called on all stakeholders, including private sector investors, to support and develop a long-term plan for advancing Sri Lanka’s energy sector transformation and promoting green growth efforts.
 
-The President stated this while addressing a roundtable discussion, the President’s Media Division reported.
+During the “Advancing Energy Transition” roundtable discussion at the Hilton Colombo this morning (29), Wickremesinghe emphasized the need for a comprehensive plan to exploit renewable energy and explore future trends in green hydrogen in Sri Lanka.
 
-◼️
+The event, held in collaboration with the World Bank, the Ministry of Power and Energy, and the Ceylon Electricity Board (CEB), provided a platform for discussing the country’s energy transition, the PMD reported.
+
+...
 
 [Data](articles/d7ceae76.json)
 
@@ -2191,65 +2237,5 @@ However, Kodippili said that if it becomes essential to close the road the DMC w
 [Data](articles/b7ee1d84.json)
 
 [Extended Data](ext_articles/b7ee1d84.ext.json)
-
----
-
-### Lover who released nude pictures
-
-*2024-05-29 12:01:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/நிர்வாண-படங்களை-வெளியிட்ட-காதலன்/76-338083) · `ta`
-
-An 18-year-old girl from Nugegoda was arrested for sharing explicit images of her ex-lover, a 17-year-old from Kudamaduwa, without consent. The incident occurred after their breakup when she started dating someone else. The victim, known for frequent medication due to an illness, ended up having her intimate photos shared online, leading to the arrest. Further investigation is ongoing.
-
-🟩
-
-A 18 -year -old schoolgirl has been arrested by Mattegoda police on charges of posting naked photos of a 17 -year -old schoolgirl.
-
-A 18 -year -old schoolgirl from Nugegoda has been arrested.
-
-While the arrested student was going to an exclusive class in Nugegoda, a 17 -year -old schoolgirl from Kudamaduwa area in Mattegoda had made a love affair.
-
-In this case, the student who knew that the student was frequently taking medications and the student was diagnosed with an illness.
-
-The student then broke their love relationship and developed love with another young man. The angry student, while both in love, posted naked photos of a student who had been shot by video calls on social media.
-
-The suspect has been arrested according to a complaint lodged by the police after some of the friends of the student have been informed of the photos.
-
-In addition, the suspect is to be produced in court and further investigations are being carried out by Mattegoda police.
-
-◼️
-
-[Data](articles/41765d9b.json)
-
-[Extended Data](ext_articles/41765d9b.ext.json)
-
----
-
-### Lover who released nude photos
-
-*2024-05-29 12:01:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/நிர்வாண-புகைப்படங்களை-வெளியிட்ட-காதலன்/76-338083) · `ta`
-
-An 18-year-old girl from Nugegoda was arrested for sharing explicit photos of her ex-lover, a 17-year-old from Kudamaduwa, on social media. The victim, who had a health issue and was taking medication, ended their relationship, leading to the suspect's anger. The incident is under investigation by the Mattegoda police.
-
-🟩
-
-A 18 -year -old schoolgirl has been arrested by Mattegoda police on charges of posting naked photos of a 17 -year -old schoolgirl.
-
-A 18 -year -old schoolgirl from Nugegoda has been arrested.
-
-While the arrested student was going to an exclusive class in Nugegoda, a 17 -year -old schoolgirl from Kudamaduwa area in Mattegoda had made a love affair.
-
-In this case, the student who knew that the student was frequently taking medications and the student was diagnosed with an illness.
-
-The student then broke their love relationship and developed love with another young man. The angry student, while both in love, posted naked photos of a student who had been shot by video calls on social media.
-
-The suspect has been arrested according to a complaint lodged by the police after some of the friends of the student have been informed of the photos.
-
-In addition, the suspect is to be produced in court and further investigations are being carried out by Mattegoda police.
-
-◼️
-
-[Data](articles/c566b416.json)
-
-[Extended Data](ext_articles/c566b416.ext.json)
 
 ---

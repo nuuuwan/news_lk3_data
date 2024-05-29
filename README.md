@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-29 23:04:28**
+As of **2024-05-29 23:18:40**
 
 ## Newspaper Stats
 
@@ -26,47 +26,63 @@ adaderanasinhalalk | 4,351
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,165 (100.0%) of 27,167 articles have been extended.
+27,167 (100.0%) of 27,167 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-29 (Wednesday)
 
-### ව්‍යවස්ථාව අනුව ජනපතිවරණය පැවැත්වෙනවා
+### The Presidential election is held under the constitution
 
 *2024-05-29 22:39:16* · [`adalk`](https://www.ada.lk/breaking_news/ව්‍යවස්ථාව-අනුව-ජනපතිවරණය-පැවැත්වෙනවා/11-409898) · `si`
 
-වගකීමක් නැති ප්‍රකාශ වලින් රට කලඹන්න ප්‍රජාතන්ත්‍රවාදී ආණ්ඩුවක් හෝ පාර්ලිමේන්තුවක් ඉඩ නොදෙන බවත් ආණ්ඩුක්‍රම ව්‍යවස්ථාව අනුව ජනාධිපතිවරණය පැවැත්වෙන බවත් අග්‍රාමාත්‍ය දිනේෂ් ගු‍ණවර්ධන මහතා පැවැස‍‍ිය.
+In a statement at the National Library Document Service Board, Prime Minister Dinesh Gunawardena emphasized the importance of adhering to the Constitution during the upcoming presidential election. He highlighted the need for transparency and accountability in governance, stating that no political decisions should be made without considering the welfare of the people. The Prime Minister also mentioned the role of the Elections Commission in organizing the election according to constitutional provisions. He reminded the audience of the efforts to restore democracy and the establishment of an all-party government to prevent its downfall.
 
-ඒසේම සෙනඟ දැක‍ීීීීමෙන්න්න කිසිම දේශපාලන තීරණයක් නොගන්නා බවත් කලබල හෝ රිවස් කිර‍ිමකින් ‍තොරව ඉදිරියට යන බවත් ‍ඔහු පැවැසිය.
+🟩
 
-අග්‍රාමාත්‍යවරයා මේ බව සඳහන් කළේ කොළඹ, ජාතික පුස්තකාල ප්‍රලේඛන සේවා මණ්ඩලයේදී මාර්ටින් වික්‍රමසිංහ ජන ජීවිතය හා ලේඛන කලාගාරය සුවිශේෂ මැදිරිය විවෘත කිරීමේ අවස්ථාවට අද (29) එක්වෙමිනි.
+Prime Minister Dinesh Gunawardena said that a democratic government or parliament would not be allowed to plunder the country, and the presidential election will be held in accordance with the Constitution that the country is not allowed by no responsibility.
 
-"මැතිවරණය ගැන දැනටමත් රජයේ ස්ථාවරය ප්‍රකාශයට පත්කරල තිබෙනවා. ආණ්ඩුක්‍රම ව්‍යවස්ථාව අනුව ජනාධිපතිවරණය පවත්වන්නට පුළුවන් බව මැතිවරණ කොමිසම ප්‍රකාශ කළා. සැප්තැම්බර් ඔක්තෝම්බර් මාස දෙක අතර එය සූදානම් කරන බව  ඔවුන් ප්‍රකාශ කරලා තියෙනවා. ඒ බව ආණ්ඩුවත් ප්‍රකාශ කර තිබෙනවා.
+He also said that no political decision to see the people would be proceeded without a violation of or rewards.
 
-සෙනඟ දැකලා කිසිම දේශපාලන තීරණයක් ගන්නේ නැහැ. කලබල කරන්නේ හෝ රිවස් කරන්නේ නැහැ. ඉදිරියට යනවා මිස.
+The Prime Minister said this at the National Library Document Service Board at the National Library Document Service Board today (29).
+
+"The government is already announced about the election. The Elections Commission stated that the presidential election can be held in terms of the Constitution. They have stated that it is preparing between September two months. The government has said that.
+
+No political decision will be seen. Not upset or rursual. Not going on.
 
 ...
 
 [Data](articles/90d742f1.json)
 
+[Extended Data](ext_articles/90d742f1.ext.json)
+
 ---
 
-### මෛත්‍රීට එරෙහි වාරණ නියෝග හතරක් දිර්ඝ කරයි
+### Four injuntaments against Maithri
 
 *2024-05-29 22:28:39* · [`adalk`](https://www.ada.lk/breaking_news/මෛත්‍රීට-එරෙහි-වාරණ-නියෝග-හතරක්-දිර්ඝ-කරයි/11-409897) · `si`
 
-හිටපු ජනපති මෛත්‍රීපාල සිරිසේන මහතාට එරෙහිව කොළඹ දිසා අධිකරණය නිකුත් කර තිබූ වාරණ නියෝග හතරක් ලබන 12 වැනිදා දක්වා යළි දීර්ඝ කිරීමට කොළඹ ප්‍රධාන දිසා විනිසුරු සඳුන් විතාන මහතා අද (29) නියම කළේය.
+Colombo District Judge Sandun Withana has extended four awareness orders against former President Maithripala Sirisena, issued by the SLFP leadership including Chandrika Bandaranaike Bandaranaike and Lasantha Alagashena. These orders were related to alleged illegal party meetings involving Sirisena, Sarahi Sarari Sirisena, Nimal Siripala de Silva, and Faizer Mustapha. The judge decided to file protests after considering the responses from the accused parties.
 
-මෛත්‍රීපාල සිරිසේන මහතා ශ්‍රී ලංකා නිදහස් පක්ෂයේ සභාපතිධුරය දැරීම, එහි උප සභාපති, ජාතික සංවිධායක හා භාණ්ඩාගාරික ලෙස කටයුතු කළ නිලධාරීන් එම ධූරවලින් ඉවත් කිරීම වළක්වමින් නිකුත් කර තිබූ වාරණ නියෝග මෙලෙස දීර්ඝ කෙරිණි.
+🟩
 
-මෛත්‍රීපාල සිරිසේන මහතා ශ්‍රී ලංකා නිදහස් පක්ෂයේ සභාපතිධුරය දැරීම ව්‍යවස්ථානුකූලව නීති විරෝධී බව පවසමින් හිටපු ජනපති චන්ද්‍රිකා බණ්ඩාරනායක කුමාරතුංග මහත්මිය  පැවරූ නඩුවකට අදාළව එක් වාරණයක්ද පක්ෂයේ ජ්‍යෙෂ්ඨ උප සභාපති මහින්ද අමරවීර, ජාතික සංවිධායක දුමින්ද දිසානායක හා භාණ්ඩාගාරික ලසන්ත අලගියවන්න මහත්තුරු පැවරු නඩු තුනක් ප්‍රකාරවද ඉතිරි වාරණ නියෝග තුනද නිකුත් කර තිබිණි.
+The Colombo District Judge Sandun Withana has repeatedly extended four awareness orders issued by former President Maithripala Sirisena to the 12th.
 
-මෙම නඩු හතරෙහි වගඋත්තරකරුවන් වශයෙන් හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන, සාරතී දුස්මන්ත, නිමල් සිරිපාලද සිල්වා, හා ෆයිසර් මුස්තාපා මහත්වරුන් නම් කර තිබිණි.
+Maithripala Sirisena was extended by the Assistant Orders issued by the Chairman of the SLFP, the Sri Lanka Freedom Chairman, National Organizer and Treasurer.
 
-...
+Ms. President Chandrika Bandaranaike Bandaranaike, National Organizer, National Organizer Lasantha Alagashena, issue of the Sri Lanka Freedom Party.Had been done.
+
+Former President Maithripala Sirisena as respondents in these four cases, Sarahi Sarari Sirisena, and Nimal Siripala de Silva, and Faizer Mustapha.
+
+Maithripala Sirisena, the party, had been prosecuted at a illegal meeting of the party's Treasurer and Senior Vice President of the party.
+
+After considering the respondents to respond to respondents to the respondents to obtaining the respondents against injunnerators, the judiciary decided to file the protests on the 12th.
+
+◼️
 
 [Data](articles/0d83c4d1.json)
+
+[Extended Data](ext_articles/0d83c4d1.ext.json)
 
 ---
 

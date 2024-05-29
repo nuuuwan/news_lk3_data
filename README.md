@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-29 10:34:15**
+As of **2024-05-29 10:52:40**
 
 ## Newspaper Stats
 
-*Scraped **26,997** Articles*
+*Scraped **27,004** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,80 +17,196 @@ economynextcom | 1,540
 dailyftlk | 1,591
 adalk | 2,296
 adaderanalk | 3,078
-tamilmirrorlk | 3,167
-virakesarilk | 4,138
-dailymirrorlk | 4,257
-adaderanasinhalalk | 4,330
+tamilmirrorlk | 3,168
+virakesarilk | 4,142
+dailymirrorlk | 4,258
+adaderanasinhalalk | 4,331
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,994 (100.0%) of 26,997 articles have been extended.
+26,997 (100.0%) of 27,004 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-29 (Wednesday)
 
-### මෛත්‍රීට එරෙහි වාරණ නියෝගය දීර්ඝ කෙරේ
+### பஸ் புரண்டதில் 27 பேர் காயம்
+
+*2024-05-29 10:35:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பஸ்-புரண்டதில்-27-பேர்-காயம்/76-338074) · `ta`
+
+கொழும்பு- பதுளை பிரதான வீதியில் பெல்மடுல்ல நகருக்கு அருகில் தனியார் பஸ்ஸொன்றும் முச்சக்கர வண்டியொன்றும் நேருக்கு நேர் மோதியதில் 27 பேர் காயமடைந்து வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவிக்கின்றனர்.
+
+எம்பிலிப்பிட்டியவில் இருந்து கொழும்பு நோக்கி பயணித்த தனியார் பேரூந்து, எதிர்திசையில் இருந்து வந்த முச்சக்கரவண்டி பேருந்தை நோக்கி வந்த போது, ​​பஸ் சாரதி முச்சக்கரவண்டி பஸ்ஸில் மோதாமல் இருக்க முயற்சித்ததாக பொலிஸார் தெரிவித்தனர்.
+
+அப்போது, ​​சாலையில் இருந்த மண் திட்டுடன் மோதி, பஸ் சில அடிகள் கீழே சாலையில் கவிழ்ந்ததாக பொலிஸார் தெரிவித்தனர். காயமடைந்தவர்களில் பஸ் மற்றும் முச்சக்கர வண்டியில் இருந்த நால்வர் அடங்குகின்றனர்.
+
+காயமடைந்த 20 பேர் கெஹாவத்தை ஆதார வைத்தியசாலையிலும் ஏழு பேர் இரத்தினபுரி போதனா வைத்தியசாலையிலும் அனுமதிக்கப்பட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/b8ae82f3.json)
+
+---
+
+### ඉන්දියාවේදී කොටුවූ ISIS කණ්ඩායමට පාකිස්තානයෙන් ආයුධ එවූ හැටි හෙළිවෙයි
+
+*2024-05-29 10:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197146) · `si`
+
+ඉන්දියාවේදී අත්අඩංගුවට ගැනුණු ශ්‍රී ලාංකික ISIS සැකකරුවන් සම්බන්ධයෙන් තවදුරටත් පරීක්ෂණ කිරීම සඳහා ගුජරාට් ත්‍රස්ත විරෝධී බළකායේ නිලධාරීන් පිරිසක් ශ්‍රී ලංකාවට පැමිණීමට නියමිත බව ඉන්දීය මාධ්‍ය වාර්තා කරයි.
+
+එම සැකකරුවන් සිව් දෙනා පසුගිය මැයි 20 වනදා අහමදාබාද් ගුවන්තොටුපොළේ දී අත්අඩංගුවට ගැනුණි.
+
+මේ වනවිට මෙරට ආරක්ෂක අංශ විසින් එම සිව් දෙනා හා සම්බන්ධතා පැවැත්වූ තවත් සැකකරුවන් දෙදෙනෙක්ව අත්අඩංගුවට ගෙන ඇති අතර ඔස්මන්ඩ් ජෙරාඩ් නම් තවත් සැකකරුවෙක් අත්අඩංගුවට ගැනීම සඳහා මහජන සහාය පතයි.
+
+ඔහු ව අත්අඩංගුවට ගැනීමට තොරතුරු දෙන අයෙක්ට රුපියල් මිලියන 2ක ත්‍යාග මුදලක් ලබාදෙන බව පොලීසිය පසුගියදා නිවේදනය කළේය.
+
+ඉන්දීය මාධ්‍ය වාර්තා සඳහන් කරන්නේ 20 වනදා අත්අඩංගුවට ගැනුණු සැකකරුවන් සිව් දෙනා "අබු පාකිස්තානි" නම් දේශකයෙක් සමග සම්බන්ධතා පවත්වා ඇති බවයි.
+
+එසේම පාකිස්තානයේ සිට ඩ්‍රෝන භාවිත කර දේශසීමාව ට ඉහළින් ආයුධයක් පන්ජාබ් ප්‍රදේශයට එවා ඇති බවයි.
+
+◼️
+
+[Data](articles/b0100894.json)
+
+---
+
+### Netherlands outplay Sri Lanka in T20 World Cup Warm-Up
+
+*2024-05-29 10:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Netherlands-outplay-Sri-Lanka-in-T20-World-Cup-Warm-Up/108-283591) · `en`
+
+Florida, May 29 (Daily Mirror) - Netherlands defeated Sri Lanka by 20 runs in their first warm-up match of ICC T20 World Cup 2024 on Tuesday (May 28).
+
+Chasing the Dutch team's target of 182, the Lankans were dismissed for 161 runs in 18.5 overs.
+
+The game was played at the Central Broward Regional Park Stadium Turf Ground in Lauderhill, Florida.
+
+Both teams have one more warm-up game slated in the coming days. Sri Lanka next face Ireland in Florida on May 31. The Netherlands will take on Canada in Texas, also on May 31
+
+◼️
+
+[Data](articles/bd43e8fd.json)
+
+---
+
+### Enjoining order against Maithri is extended
 
 *2024-05-29 10:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197145) · `si`
 
-ශ්‍රී ලංකා නිදහස් පක්ෂයේ සභාපතිවරයා ලෙස හිටපු ජනාධිපති, මෛත්‍රීපාල සිරිසේන මහතා කටයුතු කිරීම වළක්වාලමින් පනවා තිබෙන වාරණ නියෝගය ලබන මස 12 වන දක්වා තවදුරටත් දීර්ඝ කරන ලෙස කොළඹ දිසා අධිකරණය නියම කළේය.
+The Colombo District Court extended an injunction against Maithri, sentencing former President Maithripala Sirisena for his role as SLFP Chairman. The case was heard today (29) before Judge Sandun Withana.
 
-හිටපු ජනාධිපතිනි චන්ද්‍රිකා බණ්ඩාරනායක කුමාරතුංග මහත්මිය විසින් ගොනුකර තිබූ මෙම පැමිණිල්ල අද (29) කොළඹ දිසා විනිසුරු සඳුන් විතාන මහතා ඉදිරියේ යළි කැඳවනු ලැබීය.
+🟩
+
+The Colombo District Court sentenced the participation of former President Maithripala Sirisena as the Chairman of the SLFP.
+
+The complaint was recalled before the Colombo District Judge Sandun Withana this morning (29).
 
 ◼️
 
 [Data](articles/f4aa710d.json)
 
+[Extended Data](ext_articles/f4aa710d.ext.json)
+
 ---
 
-### අමෙරිකාවේ බැංකු ගොඩනැගිල්ලක පිපිරීමක්
+### An explosion of a bank building in the US
 
 *2024-05-29 10:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197144) · `si`
 
-අමෙරිකාවේ ඔහියෝ ප්‍රාන්තයේ බැංකු ගොඩනැගිල්ලක සිදුවූ පිපිරීමකින් පුද්ගලයින් 7 දෙනෙකු තුවාල ලබා තිබේ.
+In Ohio, an explosion at a bank building injured seven and led to the disappearance of two others. The building, housing emergency services, was largely destroyed, with initial reports attributing the blast to a gas leak.
 
-පිපිරීමෙන් තවත් පුද්ගලයින් දෙදෙනෙක් අතුරුදන් බව විදෙස් වාර්තා පෙන්වා දෙයි.
+🟩
 
-පිපිරීමෙන් පසුව ඒ වෙත පැමිණි හදිසි සේවා අංශ ගොඩනැගිල්ල තුළ සිටි පිරිස වහාම ඉන් ඉවත් කිරීමට කටයුතු කර තිබිණි.
+Seven persons were injured in an explosion in a banking building in Ohio, USA.
 
-පිපිරීම සිදුවූ ගොඩනැගිල්ල ආසන්නයෙන් ජනතාව ඉවත් කිරීමට හදිසි සේවා අංශ කටයුතු කර ඇත.
+Foreign reports say that two more persons have disappeared in the explosion.
 
-පිපිරීමට හේතුව ගෑස් කාන්දුවක් බව මූලික විමර්ශනවලින් අනාවරණ වී ඇත.
+The emergency service sector building was immediately removed immediately after the explosion.
 
-පිපිරීමෙන් ගොඩනැගිල්ලේ පළමු මහල සම්පූර්ණයෙන්ම පාහේ විනාශ වී ඇති බව සඳහන්ය.
+The emergency service divisions have been taken to remove the people near the explosion.
+
+Preliminary investigations have revealed that a gas leak was the cause of the explosion.
+
+The explosion is almost completely destroyed by the first floor of the building.
 
 ◼️
 
 [Data](articles/02d8ae99.json)
 
+[Extended Data](ext_articles/02d8ae99.ext.json)
+
 ---
 
-### තවත් කාන්තාවක්ව නිවස තුළ දී ඝාතනය කෙරේ
+### இலங்கையின் நல்லிணக்க பொறிமுறை பாதிக்கப்பட்ட சமூகங்களின் நம்பிக்கையை பெறக்கூடியதாக காணப்படவேண்டும்- பிரிட்டனின் அமைச்சர் கருத்து
+
+*2024-05-29 10:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/184744) · `ta`
+
+மனித உரிமை விடயத்தில் இலங்கை பிரிட்டனின் முன்னுரிமைக்குரிய நாடாக விளங்குகின்றது என  பிரிட்டனின் பொதுநலவாய வெளிவிவகார அபிவிருத்தி அலுவலக இராஜாங்க அமைச்சர் மேரி டிரெவல்யன் தெரிவித்துள்ளார்
+
+நாடாளுமன்றத்தில் இலங்கையில் நல்லிணக்கம் தொடர்பில் பிரிட்டனின் நிலைப்பாடு குறித்து எழுப்பப்பட்ட கேள்விக்கு பதில் அளிக்கையில் அமைச்சர் இதனை தெரிவித்துள்ளார்.
+
+இலங்கையின் நல்லிணக்க பொறிமுறை குறித்து பாதிக்கப்பட்ட சமூகத்தினர் வெளியிட்டுள்ள குறிப்பிடத்தக்க சந்தேகங்களை நாங்கள் ஏற்றுக்கொள்கின்றோம் என இராஜாங்க அமைச்சர் தெரிவித்துள்ளார்.
+
+நம்பிக்கையை கட்டியெழுப்புவதற்காக அனைவரையும் உள்வாங்கிய நடைமுஐறயின் அவசியத்தை பிரிட்டன் வலியுறுத்தியுள்ளது எனவும் அவர் தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/e9651780.json)
+
+---
+
+### உள்ளூர் துப்பாக்கியுடன் ஒருவர் கைது!
+
+*2024-05-29 10:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/184742) · `ta`
+
+கொஸ்லந்த ஊவா மாவெலகம பகுதியில் உள்ள வீடொன்றில் இருந்து உள்ளூரில்  தயாரிக்கப்பட்ட துப்பாக்கியுடன் சந்தேகத்தில்  ஒருவர் நேற்று செவ்வாய்க்கிழமை (28) கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+ஊவா மாவெலகம, கம்பஹா, மதுகஸ்தலாவ பகுதியைச் சேர்ந்த 57 வயதுடைய ஒருவரே இவ்வாறு கைது செய்யப்பட்டுள்ளார்.
+
+நபரொருவரின் வீட்டில் துப்பாக்கி இருப்பதாக கொஸ்லந்த பொலிஸாருக்கு கிடைக்கப்பெற்ற தொலைபேசி அழைப்புக்கு அமைய பொலிஸார் குறித்த வீட்டை சுற்றி வளைத்து சோதனை நடவடிக்கையினை மேற்கொண்டனர்.
+
+பதுளை மாவட்டத்திற்கு பொறுப்பான பிரதி பொலிஸ் மா அதிபர் உபுல் சந்தன, பண்டாரவளை பிரிவுக்கு பொறுப்பான சிரேஷ்ட பொலிஸ் அத்தியட்சகர் பிரதீப் களுபஹனவின் பணிப்புரையின் கீழ் கொஸ்லந்த பொலிஸ் நிலைய பொறுப்பதிகாரி பிரபோப டபிள்யூ. விக்கிரமசிங்க தலைமையிலான  குழுவினரால் சுற்றிவளைப்பு மேற்கொள்ளப்பட்டதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+மேலும், கைது செய்யப்பட்ட சந்தேகநபர் பண்டாரவளை நீதவான் நீதிமன்றில் ஆஜர் படுத்துவதற்கான நடவடிக்கைகளை மேற்கொண்டு வருவதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/d8108844.json)
+
+---
+
+### Another woman is killed in the house
 
 *2024-05-29 09:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197143) · `si`
 
-පාදුක්ක, වටරැක ප්‍රදේශයේ නිවසක සිටි කාන්තාවක්ව තියුණු ආයුධයකින් පහරදී ඝාතනය කර තිබේ.
+A woman, 65, was murdered in her home in Padukka by an unidentified assailant wielding a sharp object. The incident occurred in the early morning. Another assault took place in Bandarapura, where two individuals were attacked with a sharp weapon and a stick over a land dispute. The victims, aged 42 and 62, were hospitalized but succumbed to their injuries. The Meegoda police continue investigating the Padukka case, while the suspects in the Bandarapura attack have been arrested.
 
-අද (29) අලුයම් කාලයේදී කිසියම් පුද්ගලයෙකු විසින් එම ඝාතනය සිදුකර ඇත.
+🟩
 
-මරණකාරිය යම්කිසි අවශ්‍යතාවයක් සඳහා අලුයම් කාලයේදී නිවසෙහි ඉදිරිපස කාමරයකට ගිය අවස්ථාවේදී මෙලෙස කිසිවෙකු විසින් තියුණු ආයුධ ප්‍රහාරයක් එල්ල කර පළා ගොස් ඇත.
+Padukka has been assaulted by a sharp object in a nearby house in the Watareka area.
 
-තියුණු ආයුධ පහරින් බරපතළ තුවාල ලැබූ කාන්තාව පාදුක්ක දිසා රෝහලට ඇතුළත් කිරීමෙන් පසු වැඩිදුර ප්‍රතිකාර සඳහා හෝමාගම මූලික රෝහලට ඇතුළත් කිරීමෙන් පසු මියගොස් තිබේ.
+The murder was carried out by a person in the morning.
 
-මෙලෙස ඝාතනයට ලක්ව ඇත්තේ පාදුක්ක, වටරැක ප්‍රදේශයේ පදිංචිව සිටි 65 හැවිරිදි එක්දරු මවකි.
+The deceased has fled a sharp weapon attack on the house of the house for some need for any purpose.
 
-ඝාතනයට සම්බන්ධ සැකකරු මෙතෙක් අත්අඩංගුවට ගෙන නොමැති අතර සිද්ධිය සම්බන්ධයෙන් මීගොඩ පොලිසිය වැඩිදුරටත් පරීක්ෂණ පවත්වයි.
+The woman who was seriously injured to be admitted to the Padukka District Hospital for further treatment.
 
-මේ අතර, ගලිකිරියාගම පොලිස් වසමේ බණ්ඩාරපතාන ප්‍රදේශයේ දී පුද්ගලයින් දෙදෙනෙකුට තියුණු ආයුධයකින් හා පොල්ලකින් පහර දී තිබේ.
+The victim was a 65 year old resident of Padukka, Padukka.
 
-පොලීසියට ලද පැමිණිල්ලක් මත අදාළ ස්ථානයට ගොස් තුවාලකරුවන් දෙදෙනො දඹුල්ල හා ගල්කිරියාගම රෝහල්වලට ඇතුළුත් කිරීමේ දී එක් අයෙක් මිය ගොස් ඇත.
+The suspect involved in the murder has not been arrested yet and the Meegoda police are conducting further investigations.
+
+Meanwhile, two persons have been attacked with a sharp weapon and a stick in Bandarapura area in Galicirigama Police Division.
+
+On a complaint lodged a complaint and had gone to the relevant location and the injured were killed when they were killed in Dambulla and Galkiriyagama hospitals.
+
+It has been revealed that the deceased and his son were assaulted due to a land dispute between the two parties.
 
 ...
 
 [Data](articles/416fef0c.json)
+
+[Extended Data](ext_articles/416fef0c.ext.json)
 
 ---
 
@@ -226,6 +342,26 @@ The retail prices of a kilo of various meats at the Narahenpita Economic Centre 
 
 ---
 
+### வடக்கு ரயில் பாதை அபிவிருத்தி பணிகள் ஆகஸ்ட் மாதம் நிறைவு பெறும் - அதிவேக வீதி மற்றும் வீதி அபிவிருத்தி அமைச்சு
+
+*2024-05-29 09:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/184739) · `ta`
+
+வடக்கு ரயில் பாதை அபிவிருத்தி பணிகள் ஆகஸ்ட் மாதம் நிறைவு பெறும் என அதிவேக வீதி மற்றும் வீதி அபிவிருத்தி அமைச்சர் பந்துல குணவர்தன தெரிவித்துள்ளார்.
+
+எதிர்வரும் பௌர்ணமி தினத்திற்கு முன்பதாக  வடக்கு புகையிரத பாதையின் புனரமைப்பு பணிகள் நிறைவடைய வாய்ப்பில்லை.
+
+எனவே, பொசன்  பௌர்ணமி தின விடுமுறையை முன்னிட்டு விசேட பஸ் சேவையொன்று அமுல்படுத்தப்படவுள்ளது.
+
+இந்த பஸ் சேவை பொசன் பௌர்ணமி தினத்தன்றும் அதற்கு முந்திய நாளிலும் அமுல்படுத்தப்படும்.
+
+விசேட பஸ் சேவை அட்டவணை தொடர்பில் அறிவிக்கப்படும் எனவும், இலங்கை போக்குவரத்து சபை மற்றும் தனியார் துறை பஸ் சேவையாளர்களுடனும் கலந்துரையாடி விசேட ஏற்பாடுகள் செய்யப்பட்டுள்ளதாகவும் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/86da6597.json)
+
+---
+
 ### Gujarat ATS to visit Sri Lanka for further investigation into ‘ISIS terrorists’ arrested at Ahmedabad Airport
 
 *2024-05-29 09:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/99501/gujarat-ats-to-visit-sri-lanka-for-further-investigation-into-isis-terrorists-arrested-at-ahmedabad-airport) · `en`
@@ -245,6 +381,22 @@ The apprehended suspects, identified as Mohammad Nusrat (33), Mohammad Farish (3
 [Data](articles/0bc8a919.json)
 
 [Extended Data](ext_articles/0bc8a919.ext.json)
+
+---
+
+### உயர் தரப் பரீட்சை பெறுபேறுகள் வெளியாகும் திகதி அறிவிப்பு !
+
+*2024-05-29 09:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/184738) · `ta`
+
+2023 ஆம் ஆண்டுக்கான கல்விப் பொதுத்தராதர உயர்தரப் பரீட்சை பெறுபேறுகளை வெளியிடவுள்ளதாக கல்வி அமைச்சர் சுசில் பிரேம ஜயந்த தெரிவித்தார்.
+
+அதன்படி மே மாதம் 31 ஆம் திகதி 2023 ஆம் ஆண்டுக்கான கல்விப் பொதுத்தராதர உயர்தரப் பரீட்சை பெறுபேறுகளை வெளியிடவுள்ளதாக கல்வி அமைச்சர் மேலும் தெரிவித்தார்.
+
+2023 ஆம் ஆண்டுக்கான கல்விப் பொதுத் தராதர உயர்தரப் பரீட்சை கடந்த ஜனவரி மாதம் இடம்பெற்றிருந்த நிலையில், பரீட்சைக்கு நாடளாவிய ரீதியில் 346,976 பரீட்சார்த்திகள் தோற்றியிருந்தனர்.
+
+◼️
+
+[Data](articles/4b3663d4.json)
 
 ---
 
@@ -2077,191 +2229,5 @@ Sri Lanka won the advantage of its coin and Sri Lanka decided to bowl first.
 [Data](articles/0958e42f.json)
 
 [Extended Data](ext_articles/0958e42f.ext.json)
-
----
-
-### No plans to postpone Presidential election: Nimal Lanza
-
-*2024-05-28 20:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/No-plans-to-postpone-Presidential-election-Nimal-Lanza/108-283539) · `en`
-
-Colombo, May 28 - Government MP Nimal Lanza said the Presidential election will be held on schedule this year and there are no plans to postpone it.
-
-Issuing a statement, he said President Ranil Wickremesinghe had expressed his intention to hold the election on time.
-
-The presidential election is due this yera in terms of the Constitution.
-
-Lanza made this statement in the wake of UNP General Secretary Palitha Range Bandara calling for the postponement of the election and the extension of Parliament by two years with the approval of the people through a referendum.
-
-◼️
-
-[Data](articles/5cc915bd.json)
-
-[Extended Data](ext_articles/5cc915bd.ext.json)
-
----
-
-### Suspect arrested in 48 hours
-
-*2024-05-28 20:21:39* · [`adalk`](https://www.ada.lk/breaking_news/ජා-ඇළ-මහා-රන්-කොල්ලයේ-සැකකරු-පැය-48කින්-අල්ලයි/11-409884) · `si`
-
-A suspect was arrested within 48 hours for stealing over 500kg of gold worth 48 million rupees from a bank in Peliyagoda. The gold was hidden in a room and a cupboard, and some was sold at Pettah Hath Street. The suspect also stole money from various institutions and lived a luxurious lifestyle, supported by his activities. His luxury car was confiscated, and the investigation revealed connections to casinos and drug use.
-
-🟩
-
-Drugs with a gold item of gold and weighing more than 48 million rupees worth Rs.Peliyagoda Crimes Division says that he was arrested
-
-The police have found about 500 kilograms of golds weighing nearly 500 kilograms of customers who were weighing nearly 500 kilograms of customers who were stolen from the bank, the police.
-
-In addition, the suspect's luxury car has been taken into police custody
-
-A side wall of the bank had taken a complaint with a root of the bank and stolen the property in a diameter of the Bank two days after the end of the 25 days.
-
-The director of the Peliyagoda Criminal Division has been involved in the theft. Chief Inspector Sunith Jayasekara, who was conducting the OIC of J. Pushpa Kumara, and several other officials were taken to the rural bank and pay close attention to Gininser to cut the same spots on the ground.Steps were taken to expedite investigations into the company of the Delgoda area imported from China to Sri Lanka.
-
-...
-
-[Data](articles/c8942a04.json)
-
-[Extended Data](ext_articles/c8942a04.ext.json)
-
----
-
-### President Ranil Wickremesinghe Action Order
-
-*2024-05-28 20:04:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-ரணில்-விக்ரமசிங்க-அதிரடி-உத்தரவு/175-338050) · `ta`
-
-President Ranil Wickremesinghe ordered swift aid for those hit by severe weather, directing ongoing relief efforts until conditions improve. The Disaster Management Center is compensating victims.
-
-🟩
-
-President Ranil Wickremesinghe has directed the relevant authorities to provide immediate relief to the people affected by the inclement weather and to continue the relief work until the disaster is reduced.
-
-Accordingly, the Disaster Management Center has taken steps to compensate for the victims. Remble
-
-◼️
-
-[Data](articles/33d120bc.json)
-
-[Extended Data](ext_articles/33d120bc.ext.json)
-
----
-
-### Resolution to remove dangerous trees in Colombo Municipal border area
-
-*2024-05-28 20:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/184723) · `ta`
-
-Colombo plans to remove dangerous trees near its municipal border under a program launched soon. This decision follows discussions led by President Ranil Wickremesinghe, aiming to enhance safety. The project involves the Army and Civil Defense Force, supervised by the Colombo Municipal Council. Additionally, efforts will be made to plant new trees in cleared areas and conduct scientific research on tree stability after 19 fell in Vikramadevi Park.
-
-🟩
-
-Steps have been taken to remove the dangerous trees in the Colombo Municipal Council border area.. Disaster Management Minister of State for Disaster Management Bandara Tennakoon said that the decision was taken during a discussion held on Monday, the 27th, headed by President Ranil Wickremesinghe.
-
-He was speaking at a media briefing held at the Ministry of Disaster Management on Monday evening.
-
-We are about to launch a special program to remove the dangerous trees located on the border area of the Colombo Municipal Council.. The decision was made during a discussion chaired by President Ranil Wickremesinghe.
-
-Under the supervision of the Colombo Municipal Council, the Army and Civil Defense Force were discussed to engage in this program.. We expect to launch this program in a few more days.
-
-Accordingly, it was decided to further protect the trees that could increase the safety of the tree, cut off the branches to completely eliminate all the dangerous trees that are in danger.
-
-...
-
-[Data](articles/cf15c98e.json)
-
-[Extended Data](ext_articles/cf15c98e.ext.json)
-
----
-
-### Promise of the Russian Ambassador of Sri Lanka
-
-*2024-05-28 19:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197129) · `si`
-
-Relatives protested outside the Russian embassy in Colombo, demanding the return of Sri Lankan army soldiers. MPs Gamini Walaboda and Dayasiri Jayasekera joined, handing a memorandum to the embassy. The Russian Ambassador, Levan Dzhagaryan, promised to address the situation urgently. Meanwhile, three individuals were arrested for cheating over 140 people with job offers in Russia. The Foreign Minister announced plans for officials to visit Sri Lankans in Russia for investigation.
-
-🟩
-
-Relatives were silent protest in front of the Russian embassy in Colombo this morning demanding the Sri Lankan army soldiers to bring to the island soon.
-
-MPs Gamini Walaboda and Dayasiri Jayasekera were also present.
-
-The protests handed over a memorandum to the Russian embassy and four of them had a discussion with the Russian Ambassador.
-
-The Russian Ambassador in Sri Lanka Levan s. Dzhagaryan,
-
-"I'm clear why these people are in front of the Russian embassy.. I'm sorry about what is happening now. As the Russian Ambassador of Sri Lanka, I promise to make my best to revolve this issue as soon as possible and bring back our friends of Sri Lankans. I'm doing it in my best. "
-
-Meanwhile, Moratuwa Police have arrested three persons who cheated from more than 140 people claimed to be provided with jobs in Russia.
-
-Foreign Minister Ali Sabri told Ada Derana that the Northern Province has decided to visit Sri Lankans and the President to investigate Sri Lankans in Russia.
-
-◼️
-
-[Data](articles/4d96b7c2.json)
-
-[Extended Data](ext_articles/4d96b7c2.ext.json)
-
----
-
-### Sub Inspector, who was with a drug dealer, arrested
-
-*2024-05-28 19:24:11* · [`adalk`](https://www.ada.lk/breaking_news/මත්ද්‍රව්‍ය-ජාවාරම්කරුවෙක්-සමග-සිටි-උප-පොලිස්-පරීක්ෂක-ඇතුළු-පහක්-අල්ලයි/11-409882) · `si`
-
-A sub-inspector from Anandapuram East, along with four others, was arrested while accompanying a drug dealer. The sub-inspector, linked to the Kayts police station, was among those detained after a search operation. The drug dealer, whose house was leased for drug activities, disclosed the operation to the police, leading to further investigations into the drug racket.
-
-🟩
-
-Five including a suburisper inspector of Anandapuram East in the East of Anandapuram East, Kilinochchi with a drug dealer said, five persons were arrested.
-
-The arrested sub-inspector is at an attacker attached to Kayts police station, police said.
-
-Police said that a group of officers were searched at the above night, police said that the police were searched at the same night.
-
-The police said that they had been arrested and had been arrested and was also taken into custody.
-
-The drug dealer has revealed that the house was taken on the lease of the drug.
-
-Police have launched investigations to reveal the drug racket in collaboration with the suspect.
-
-The suspect has suspect that the suspect has been suspicious that the suspects have been drinking drugs.
-
-◼️
-
-[Data](articles/8f216cb5.json)
-
-[Extended Data](ext_articles/8f216cb5.ext.json)
-
----
-
-### 10 crores of a racketeer is banned
-
-*2024-05-28 19:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197128) · `si`
-
-Dinesh Perera, a major drug dealer, faces property bans: two luxury homes and three cars valued at nearly Rs. crore, linked to his drug trafficking earnings. Following his arrest with his brother in Kandy, authorities, including the Police Narcotics Bureau and the Criminal Investigation Department, initiated probes into his assets. His wife and mother failed to explain the purchases of their properties, leading to seizures.
-
-🟩
-
-Dinesh Perera, who is a large scale drug dealer, has banned two high luxury houses and three cars who have been banned from the cash of drug trafficking.
-
-The value of such property is worth nearly Rs.
-
-Dinesh Perera, a large scale drug trafficker, and his brother remanded in Kandy recently after being taken into court.
-
-The Police Narcotics Bureau has informed the Illegal Asset Division to investigate the suspect's property.
-
-According to the direction of the Criminal Investigation Department, the Director of the UPF operates an investigation under the supervision of Senior Superintendent of Police Laksiri Singal.
-
-As a result, the luxury house of over Rs.
-
-It was bought by his wife, and she failed to present information on how to buy it.
-
-The Investigation Officers had then handed over a house in Keravent Mountuwa, bought by the mother of the suspect.
-
-Investigators said that it was worth over Rs.
-
-...
-
-[Data](articles/377e5403.json)
-
-[Extended Data](ext_articles/377e5403.ext.json)
 
 ---

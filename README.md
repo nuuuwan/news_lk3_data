@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-29 13:18:41**
+As of **2024-05-29 13:34:16**
 
 ## Newspaper Stats
 
-*Scraped **27,044** Articles*
+*Scraped **27,045** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,465
 economynextcom | 1,548
 dailyftlk | 1,591
 adalk | 2,300
-adaderanalk | 3,085
+adaderanalk | 3,086
 tamilmirrorlk | 3,178
 virakesarilk | 4,142
 dailymirrorlk | 4,264
@@ -26,11 +26,27 @@ adaderanasinhalalk | 4,336
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,039 (100.0%) of 27,044 articles have been extended.
+27,039 (100.0%) of 27,045 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-29 (Wednesday)
+
+### KDU lecturer arrested over comments on ISIS suspects arrested in India
+
+*2024-05-29 13:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/99510/kdu-lecturer-arrested-over-comments-on-isis-suspects-arrested-in-india) · `en`
+
+Dr. Punsara Amarasinghe, a lecturer at the Kotelawala Defence University (KDU), has been arrested by the Criminal Investigation Department (CID).
+
+He has been taken into custody for allegedly making a false statement regarding the four Sri Lankans arrested in India over suspected links with the Islamic State of Iraq and Syria (ISIS).
+
+Dr. Amarasinghe had reportedly made the controversial remarks during a recent televised interview.
+
+◼️
+
+[Data](articles/ce4fb7ee.json)
+
+---
 
 ### ලංකාවට ආ විදෙස් තරුණියට නොසිතූ කරදරයක් - CCTV සහිතයි
 
@@ -2271,29 +2287,5 @@ A 20 -year -old youth from Poonthottam, Vavuniya has been arrested. Police added
 [Data](articles/8f772283.json)
 
 [Extended Data](ext_articles/8f772283.ext.json)
-
----
-
-### Social Security Relief will be provided to all workers who are 55 years old -Manusha Nanayakkara
-
-*2024-05-29 01:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/184731) · `ta`
-
-The Sri Lankan government, under President Ranil Wickremesinghe, is implementing social security relief for all 55-year-old workers across various industries, part of a broader effort to improve economic conditions and combat corruption. This initiative is in addition to existing programs like Aswasuma and Urumaya, and it aims to provide financial stability and support for older workers. The government has also focused on reducing bank interest rates from 25% to 12%-8% and introducing legislative changes to strengthen anti-corruption measures.
-
-🟩
-
-The Minister of Labor and Foreign Employment, Manusha Nanayakkara, said that the Cabinet has approved the idea of ​​providing social security relief to all workers of the 55 -year -old workers in a variety of industries.
-
-The Minister also stated that legal arrangements are being made for the project, which is to be implemented in parallel with the "Karusaru" program.
-
-The Minister said this at a press conference held at the Presidential Media Center on Tuesday 28th.
-
-Some accuse people that they have no peace of mind to celebrate festivals. But the government, led by President Ranil Wickremesinghe, has created an environment where Vesak and Poson are celebrated only to celebrate the festival.. So I would say that those who make the accusations compare the current status last year. The peace of mind that people have lost have been restored.
-
-...
-
-[Data](articles/7522a864.json)
-
-[Extended Data](ext_articles/7522a864.ext.json)
 
 ---

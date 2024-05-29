@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-29 09:03:57**
+As of **2024-05-29 09:18:45**
 
 ## Newspaper Stats
 
-*Scraped **26,979** Articles*
+*Scraped **26,984** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,540
 dailyftlk | 1,591
 adalk | 2,295
 adaderanalk | 3,076
-tamilmirrorlk | 3,161
+tamilmirrorlk | 3,166
 virakesarilk | 4,138
 dailymirrorlk | 4,254
 adaderanasinhalalk | 4,325
@@ -26,11 +26,95 @@ adaderanasinhalalk | 4,325
 
 Extensions include translations and NER (Named Entity Recognition).
 
-26,976 (100.0%) of 26,979 articles have been extended.
+26,979 (100.0%) of 26,984 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-29 (Wednesday)
+
+### Public entry into the recently released land in Jaffna
+
+*2024-05-29 08:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/184726) · `ta`
+
+A temporary ban restricts public entry into newly released land in Tellippalai, Jaffna, due to potential mine threats. The Jaffna District Secretariat plans to conduct technical studies and ensure deactivation/removal of any mines before allowing public resettlement post-June 10th. Areas including Vasavilan East/West, Palali North/East/South were released, previously under military control, but caution is advised due to unexploded ordnance concerns.
+
+🟩
+
+A temporary ban on public entry into 234.83 acres of land recently released in Tellippalai camel in Tellippalai, Jaffna.
+
+In addition, the Jaffna District Secretariat has taken steps to find a solution, as it has been feared that the mines will be found in the area of ​​about 55 thousand square feet of land.
+
+Land owners have been asked not to go to the lands released until the 10th of June.
+
+Technical studies will be carried out from the first day of the release. It has been announced that the public will be able to carry out their resettlement activities after the 10th of this month, excluding the areas where the mines are identified.
+
+Meanwhile, if the mines are found, they will be deactivated and removed by following the appropriate procedures.. Once the area was declared as a mines, the public could go into their land without any disruption.. This temporary ban has been banned for the safety of the public.
+
+...
+
+[Data](articles/e355f5e7.json)
+
+[Extended Data](ext_articles/e355f5e7.ext.json)
+
+---
+
+### வாகன இறக்குமதி தொடர்பில் மத்திய வங்கி ஆளுநர் வெளியிட்ட கருத்து
+
+*2024-05-29 08:51:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாகன-இறக்குமதி-தொடர்பில்-மத்திய-வங்கி-ஆளுநர்-வெளியிட்ட-கருத்து/175-338067) · `ta`
+
+வாகன இறக்குமதி கட்டுப்பாடுகளை படிப்படியாக தளர்த்த அரசாங்கம் தீர்மானிக்கிறது என்றால், அதற்கான வெளிநாட்டு கையிருப்பை நிர்வகிக்கும் திறன் மத்திய வங்கிக்கு உண்டு என இலங்கை மத்திய வங்கியின் ஆளுநர் கலாநிதி நந்தலால் வீரசிங்க தெரிவித்துள்ளார்.
+
+மத்திய வங்கி தனது கொள்கை வட்டி வீதத்தை மாற்றியமைக்காமல் பராமரிக்க தீர்மானித்தள்ளதாக தெரிவித்தார்.
+
+"ஏற்கனவே சில வாகனங்கள் அனுமதிக்கப்பட்டுள்ளன. வாகனங்களின் இறக்குமதியை படிப்படியாக தளர்த்துவது முக்கியமான முடிவு. அந்நியச் செலாவணியை எங்களால் நிர்வகிக்க முடியும் என்று நாங்கள் நம்புகிறோம்." என்றார். R
+
+◼️
+
+[Data](articles/4d5100ab.json)
+
+---
+
+### சோற்றில் மட்டைத்தேள் ; உணவகத்திற்கு சீல்வைப்பு
+
+*2024-05-29 08:48:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/சோற்றில்-மட்டைத்தேள்-உணவகத்திற்கு-சீல்வைப்பு/71-338066) · `ta`
+
+திருநெல்வேலி பகுதியில் உள்ள ஓர் உணவகத்தில் கடந்த வெள்ளிக்கிழமை மதிய உணவு வாங்கிய ஒருவரின் சோற்று பார்சலில் மட்டைத்தேள் காணப்பட்டதாக பொது சுகாதார பரிசோதகர் பா. சஞ்சீவனிற்கு முறைப்பாடு ஒன்று கிடைத்தது.
+
+இதனையடுத்து சனிக்கிழமை குறித்த உணவகம் திருநெல்வேலி பொது சுகாதார பரிசோதகர் பா. சஞ்சீவனினால் பரிசோதனை மேற்கொள்ளப்பட்டது.
+
+இதன்போது பொது சுகாதார பரிசோதகரால் ஏற்கனவே வழங்கப்பட்ட திருத்த வேலைகள் எவையும் நிவர்த்தி செய்யப்படாமல் இருப்பது அவதானிக்கப்பட்டது.
+
+இதனை தொடர்ந்து நேற்றைய தினம்  (27) கடை உரிமையாளரிற்கு எதிராக மேலதிக நீதவான் நீதிமன்றில் வழக்கு தாக்கல் செய்யப்பட்டது.
+
+வழக்கை நேற்றை தினம் விசாரணைக்கு எடுத்து கொண்ட நீதவான், உரிமையாளரிற்கு 45,000/= அபராதம் அறவிட்டதுடன் கடையினை திருத்த வேலைகள் முடிவடையும் வரை சீல்வைத்து மூடுமாறு பொது சுகாதார பரிசோதகரிற்கு கட்டளை வழங்கினார்.
+
+இதனையடுத்து பொது சுகாதார பரிசோதகர் பா. சஞ்சீவனால் குறித்த உணவகம் நேற்யை தினம் சீல் வைத்து மூடப்பட்டது. R
+
+◼️
+
+[Data](articles/84497334.json)
+
+---
+
+### மழையும் காற்றும் மேலும் தொடரும் என எதிர்பார்ப்பு
+
+*2024-05-29 08:43:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மழையும்-காற்றும்-மேலும்-தொடரும்-என-எதிர்பார்ப்பு/175-338065) · `ta`
+
+தென்மேல் பருவப் பெயர்ச்சி நிலைமை காரணமாக நாடு முழுவதும் தற்போது நிலவும் மழை நிலைமையும் காற்று நிலைமையும் மேலும் தொடரும் என எதிர்பார்க்கப்படுகின்றது.
+
+மேல், சப்ரகமுவ, மத்திய, வடமேல் மற்றும் தென் மாகாணங்களில் அவ்வப்போது மழை பெய்யக் கூடும் என திணைக்களம் தெரிவித்துள்ளது.
+
+மேல் மற்றும் சப்ரகமுவ மாகாணங்களிலும் நுவரெலியா மாவட்டத்திலும் சில இடங்களில் 100 மி.மீ க்கும் அதிகமான  பலத்த மழைவீழ்ச்சி எதிர்பார்க்கப்படுகின்றது.
+
+ஊவா மாகாணம், அம்பாறை மற்றும் மட்டக்களப்பு மாவட்டங்களில் பல இடங்களில் மாலையில் அல்லது இரவில் மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடிய சாத்தியம் காணப்படுகின்றது.
+
+மத்திய மலைநாட்டின் மேற்கு சரிவுப் பகுதிகளிலும் வடக்கு, வடமத்திய, மேல், தென் மற்றும் வடமேல் மாகாணங்களிலும் திருகோணமலை மாவட்டத்திலும் அவ்வப்போது மணித்தியாலத்துக்கு 50-60 கிலோ மீற்றர் வரையான வேகத்தில் பலத்த காற்று வீசக் கூடிய சாத்தியம் காணப்படுகிறது.
+
+...
+
+[Data](articles/7b1500f3.json)
+
+---
 
 ### Roads inundated
 
@@ -42,47 +126,63 @@ Torrential rains caused minor flooding in the Kirindivita area of Gampaha yester
 
 [Data](articles/3d9b18ac.json)
 
+[Extended Data](ext_articles/3d9b18ac.ext.json)
+
 ---
 
-### 55 සපිරුණු සියලු ශ්‍රමිකයන්ට ප්‍රතිලාභ ලැබෙන යෝජනාවට අනුමැතිය
+### 55 Approval of the proposal to benefit all workers
 
 *2024-05-29 08:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197140) · `si`
 
-විවිධ කර්මාන්තවල සේවයේ යෙදෙන වයස අවුරුදු 55 සපිරුණු සියලු ශ්‍රමිකයන්ට සමාජ ආරක්ෂණ ප්‍රතිලාභයක් ලබාදිය හැකි වන පරිදි සකස් කෙරුණු යෝජනාවට කැබිනට් අනුමැතිය හිමිව ඇති බව මනූෂ නානායක්කාර අමාත්‍යවරයා පවසයි.
+Minister Manusha Nanayakkara approves a proposal for universal worker benefits, including pensions for those without existing schemes like ETF/EPF. Legal preparations are underway, and registration is encouraged through www.garusaru.lk for journalists, painters, and three-wheel drivers among others.
 
-ඔහු පැවසුවේ "ගරුසරු" වැඩසහනට සමගාමීව සකස් කෙරෙන මෙම ක්‍රියාවලිය සඳහා නීතිමය ප්‍රතිපාදන සකස් කිරීම ද මේ වන විට ආරම්භ කර තිබෙන බවය.
+🟩
 
-www.garusaru.lk යන වෙබ් අඩවිය යටතේ මේ වනවිට විෂය කේෂ්ත්‍ර ගණනාවකට ලියාපදිංචි වීමට අවස්ථාව ඇති බව ද අමාත්‍යවරයා මෙහිදී පැවසීය.
+The Minister of Manusha Nanayakkara has approved the proposal to provide a social security benefit to all workers in various industries to provide a social security benefit.
 
-...
+He said that the preparation of legal provisions has already begun to prepare the procedure for the procedure, which is prepared in parallel to this process.
+
+He said that a number of syllabus has already been registered under www.garusaru.lk.
+
+"Controllerate journalists, journalists, painters, three-wheelers, three-wheelers, three-wheeler drivers, register and strengthen their dignity in particular.. I found approval to build the Cabinet report. The country's workforce gets a pension for the public sector. The private sector is getting ETF / EPF. However, we are given to those who have not taken other in Sri Lanka when 55 years old, a social welfare system. They too provide a pension right. We will start the methodology that we submit to the Cabinet next week. "
+
+◼️
 
 [Data](articles/1ec44ae0.json)
 
+[Extended Data](ext_articles/1ec44ae0.ext.json)
+
 ---
 
-### පළමු පුහුණු තරගයේ ජය නෙදර්ලන්තයට
+### Netherlands to win the first training match
 
 *2024-05-29 08:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197139) · `si`
 
-20යි 20 ලෝක කුසලානය වෙනුවෙන් පැවැත්වුණු පළමු පුහුණු තරගයෙන් ලකුණු 20ක පරාජයක් ලැබීමට ශ්‍රී ලංකා කණ්ඩායමට සිදුවුණි.
+In the first training match for the World Cup, the Netherlands won against Sri Lanka after scoring 181 runs in 20 overs. Despite losing 20 runs initially, Sri Lanka managed to score 161 runs but fell short of the target set by the Netherlands. Key performers included Venjandu Hasarangitiya with 43 runs off 15 balls and Views with 35 runs. The next match is against Ireland on May 31.
 
-අමෙරිකාවේ ෆ්ලෝරිඩා හිදි පැවති තරගයේ කාසියේ වාසිය දිනු ශ්‍රී ලංකා කණ්ඩායම පළමුව පන්දුවට පහර දීමට නෙදර්ලන්ත කණ්ඩායමට ආරාධනා කළේය.
+🟩
 
-ඒ අනුව පිටියට පිවිසි නෙදර්ලන්ත කණ්ඩායම නියමිත පන්දුවාර 20 අවසානයේදී කඩුලු 5ක් දැවි ලකුණු 181ක් රැස්කර ගත්තේය.
+The Sri Lankan team had lost 20 runs in the first training match for the World Cup.
 
-ශ්‍රී ලංකාවට ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ පළමු වටයේදීද නෙදර්ලන්තය සමඟ තරගයක් පැවැත්වෙන බැවින් ශ්‍රී ලංකා කණ්ඩායමේ  ප්‍රධාන පන්දු යවන්නන් වන වනිඳු හසරංග, මතීෂ පතිරණ සහ මහීෂ් තීක්ෂණ පන්දු යවා තිබුණේ නැහැ.
+Sri Lanka invited the Sri Lankan team to bat first, winning the toss and elected to the tournament in the match of the United States.
 
-ලකුණු 182ක ජයග්‍රාහි ඉලක්කයක් හඹා යෑමට පිටියට පිවිසි ශ්‍රී ලංකා කණ්ඩායමට පන්දුවාර 18යි පන්දු 5කදී සියලුදෙනා දැවි රැස්කරගත හැකි වූයේ ලකුණු 161ක් පමණය.
+Accordingly, the Netherlands team scored 181 runs for the loss of 5 wickets at the end of 20 overs.
 
-ශ්‍රී ලංකා මුල් පෙළ පිිතකරුවන් අසාර්ථක වෙද්දි වනිඳු හසරංග පන්දු 15කින් ලකුණු 43ක් රැස්කිරීමට සමත්වුණි.
+Sri Lanka's major bowlers were sent to the Sri Lankan team in the first round of the World Cup.
 
-දසුන් ශානක ලකුණු පන්දු 20කදී නොදැවි ලකුණු 35ක් රැස්කළ අතර ධනංජය ද සිල්වා ලකුණු 31යි.
+Sri Lanka were able to join a target of 182 runs in 18 overs and won 161 runs in their bodies.
 
-ශ්‍රී ලංකා කණ්ඩායම සහභාගි වන දෙවන පුහුණු තරගය මැයි 31 වැනිදා අයර්ලන්තයට එරෙහිව පැවැත්වීමට නියමිතව තිබේ.
+When Sri Lanka's early picins failed, Venjandu Hasarangitiya scored 43 runs off 15 balls.
+
+Views scored 35 runs off 20 balls while Dhananjaya de Silva de Silva scored 31 runs.
+
+The second training match will be held against Ireland on May 31.
 
 ◼️
 
 [Data](articles/0eceae21.json)
+
+[Extended Data](ext_articles/0eceae21.ext.json)
 
 ---
 
@@ -508,6 +608,20 @@ New Generation Sri Lanka Chairman Kasun Sigera said: “This year, we wanted to 
 
 ---
 
+### நாட்டில் இன்புளுயன்சா பரவும் அபாயம்
+
+*2024-05-29 02:05:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாட்டில்-இன்புளுயன்சா-பரவும்-அபாயம்/175-338063) · `ta`
+
+நாட்டில் நிலவும் மழையுடனான வானிலையால் இன்புளுயன்சா காய்ச்சல் பரவும் அபாயம் ஏற்பட்டுள்ளதாக சுகாதார அமைச்சு தெரிவித்துள்ளது.
+
+நோய் அறிகுறிகள் தென்படுமாயின், உடனடியாக சிகிச்சைகளை பெற்றுக்கொள்ளுமாறு சீமாட்டி ரிட்ஜ்வே சிறுவர் வைத்தியசாலையின் விசேட வைத்தியர் தீபால் பெரேரா தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/967ad5f4.json)
+
+---
+
 ### National Audit Office takes charge of Rs. 400 bn Samurdhi banking system
 
 *2024-05-29 02:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/National-Audit-Office-takes-charge-of-Rs-400-bn-Samurdhi-banking-system/108-283562) · `en`
@@ -547,6 +661,22 @@ Gunawardena said the scheme is part of a broader effort to streamline State ente
 [Data](articles/8bcf0186.json)
 
 [Extended Data](ext_articles/8bcf0186.ext.json)
+
+---
+
+### ’தொழிலாளர்களுக்கு சமூக பாதுகாப்பு நிவாரணம்’
+
+*2024-05-29 02:00:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தொழிலாளர்களுக்கு-சமூக-பாதுகாப்பு-நிவாரணம்/175-338062) · `ta`
+
+பலதரப்பட்ட தொழில் துறைகளிலும் பணியாற்றும் 55 வயது நிறைந்த அனைத்து தொழிலாளர்களுக்கும் சமூக பாதுகாப்பு நிவாரணம் வழங்குவதற்கான யோசனைக்கு அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளதென தொழில் மற்றும் வெளிநாட்டு வேலைவாய்ப்பு அமைச்சர் மனுஷ நாணயக்கார தெரிவித்துள்ளார்.
+
+ஜனாதிபதி ஊடக மையத்தில் நேற்று நடைபெற்ற ஊடகவியலாளர் மாநாட்டிலேயே அவர் இவ்வாறு தெரிவித்தார். அவர் மேலும் தெரிவிக்கையில்,
+
+பலதரப்பட்ட தொழில் துறைகளிலும் பணியாற்றும் 55 வயது நிறைந்த அனைத்து தொழிலாளர்களுக்கும் சமூக பாதுகாப்பு நிவாரணம் வழங்குவதற்கான யோசனைக்கு அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளது. 'கருசரு' வேலைத்திட்டத்திற்கு இணையாக செயற்படுத்தப்படவிருக்கும் இத்திட்டத்துக்கான சட்ட ஏற்பாடுகள் மேற்கொள்ளப்பட்டு வருகின்றன.
+
+...
+
+[Data](articles/5f166dd3.json)
 
 ---
 
@@ -1147,32 +1277,6 @@ The best parent companies are those which create more value than any other rival
 ---
 
 ### 2024-05-28 (Tuesday)
-
-### Public entry into the recently released land in Jaffna
-
-*2024-05-28 23:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/184726) · `ta`
-
-A temporary ban restricts public entry into newly released land in Tellippalai, Jaffna, due to potential mine threats. The Jaffna District Secretariat plans to conduct technical studies and ensure deactivation/removal of any mines before allowing public resettlement post-June 10th. Areas including Vasavilan East/West, Palali North/East/South were released, previously under military control, but caution is advised due to unexploded ordnance concerns.
-
-🟩
-
-A temporary ban on public entry into 234.83 acres of land recently released in Tellippalai camel in Tellippalai, Jaffna.
-
-In addition, the Jaffna District Secretariat has taken steps to find a solution, as it has been feared that the mines will be found in the area of ​​about 55 thousand square feet of land.
-
-Land owners have been asked not to go to the lands released until the 10th of June.
-
-Technical studies will be carried out from the first day of the release. It has been announced that the public will be able to carry out their resettlement activities after the 10th of this month, excluding the areas where the mines are identified.
-
-Meanwhile, if the mines are found, they will be deactivated and removed by following the appropriate procedures.. Once the area was declared as a mines, the public could go into their land without any disruption.. This temporary ban has been banned for the safety of the public.
-
-...
-
-[Data](articles/e355f5e7.json)
-
-[Extended Data](ext_articles/e355f5e7.ext.json)
-
----
 
 ### The six face(t)s of CWC Chief Arumugan “Thamby” Thondaman
 
@@ -2147,105 +2251,5 @@ Sri Lankan sprinter Aruna Darshana further boosted his chances of qualifying for
 [Data](articles/35c98c44.json)
 
 [Extended Data](ext_articles/35c98c44.ext.json)
-
----
-
-### No debate after June 6: NPP gives ultimatum to SJB
-
-*2024-05-28 18:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/No-debate-after-June-6-NPP-gives-ultimatum-to-SJB/155-283536) · `en`
-
-Colombo, May 28 (Daily Mirror)- The National People's Power (NPP) said today that if the Samagi Jana Balawegaya (SJB) is not ready for the debate between the two leaders Sajith Premadasa and Anura Kumara Dissanayake on June 6 as previously announced, there would be no further debate or discussions about a debate after June 6.
-
-Speaking to the media, NPP Executive Member Dr. Nalinda Jayatissa said if the scheduled debate on June 6 is held, they are ready to engage in discussions on preparations for the debate between the two leaders.
-
-"What we have to do now is to decide on a television channel or a place to hold the debate. We have no time to waste on other nonsense. We would like to remind Sajith Premadasa and Nalin Bandara that even though politics is a joke for them, it is not so for us. If the debate between the two leaders is not held on June 6, there will be no debates or discussions on a debate after that," he said.
-
-...
-
-[Data](articles/546acf16.json)
-
-[Extended Data](ext_articles/546acf16.ext.json)
-
----
-
-### No debate after June 6: NPP gives ultimatum to SJB
-
-*2024-05-28 18:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/No-debate-after-June-6-NPP-gives-ultimatum-to-SJB/108-283536) · `en`
-
-Colombo, May 28 (Daily Mirror)- The National People's Power (NPP) said today that if the Samagi Jana Balawegaya (SJB) is not ready for the debate between the two leaders Sajith Premadasa and Anura Kumara Dissanayake on June 6 as previously announced, there would be no further debate or discussions about a debate after June 6.
-
-Speaking to the media, NPP Executive Member Dr. Nalinda Jayatissa said if the scheduled debate on June 6 is held, they are ready to engage in discussions on preparations for the debate between the two leaders.
-
-"What we have to do now is to decide on a television channel or a place to hold the debate. We have no time to waste on other nonsense. We would like to remind Sajith Premadasa and Nalin Bandara that even though politics is a joke for them, it is not so for us. If the debate between the two leaders is not held on June 6, there will be no debates or discussions on a debate after that," he said.
-
-...
-
-[Data](articles/d41bf3f9.json)
-
-[Extended Data](ext_articles/d41bf3f9.ext.json)
-
----
-
-### Committee to investigate university levels of employees
-
-*2024-05-28 18:07:40* · [`adalk`](https://www.ada.lk/breaking_news/සරසවි-අනධ්‍යන-සේවක-වැටුප්-විශමතා-විමර්ශනයට-කමිටුවක්/11-409874) · `si`
-
-A committee will investigate salary anomalies at the University of Allegation under the Ministry of Education's patronage. The Treasury must address salary and overtime payment issues. The Ministry also seeks to improve professional development for non-academic staff through workshops.
-
-🟩
-
-Treasury to report on the issues of the Salary Anomalies of the University of AllegationThe Secretary of the Ministry of Education has decided to appoint a committee under the patronage of the Secretary.
-
-Accordingly, the Ministry of Education requests the work of the university non-academic staff professional surveillance workshops.
-
-Further, the Ministry has issued a problem with the payment of salaries and overtime after reporting to the service.
-
-◼️
-
-[Data](articles/b8d1244c.json)
-
-[Extended Data](ext_articles/b8d1244c.ext.json)
-
----
-
-### Darshana edge towards Paris Olympic dream
-
-*2024-05-28 18:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Darshana-edge-towards-Paris-Olympic-dream/108-283535) · `en`
-
-May 28 (Daily Mirror) - Sri Lankan sprinter Aruna Darshana further boosted his chances of qualifying for the 2024 Paris Olympic Games by securing the Gold Medal in the Men’s 400m event at the second Belt and Road Athletics Invitation Meet in Chongqing, China.
-
-The 25-year-old athlete from Sinhapura, Trincomalee and the South Asian Games Gold Medallist lived upto expectations and powered his way to finish the 400m final with a splendid time of 45.48s.
-
-Darshana of course, started the final brimming with confidence after having advanced to the final on the previous day with the second fastest time from heats as he commenced his first overseas campaign of the year on a successful note.
-
-His effort in the final was a vast improvement as he clocked 46.26s earlier to win the heat in this meet - a World Athletics Continental Tour Bronze Label event. The Olympic Qualifying standard time for the Men’s 400m event is 45.00s.
-
-...
-
-[Data](articles/895af8a0.json)
-
-[Extended Data](ext_articles/895af8a0.ext.json)
-
----
-
-### Government notification of the government about Starlink
-
-*2024-05-28 18:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197126) · `si`
-
-Senior Presidential Advisor Ruwan Wijewardene announced plans to expand internet services across Sri Lanka, highlighting the potential benefits of projects like SpaceX's Starlink. The initiative aims to bridge the digital divide, improve connectivity in underserved areas, and boost sectors like tourism. President Ranil Wickremesinghe expressed interest in collaborating with SpaceX, noting the project's global reach and its contribution to economic development.
-
-🟩
-
-Senior Presidential Advisor Ruwan Wijewardene says that the Internet supportive areas can be provided with the weakest areas of the country.
-
-He was speaking at a press conference held at the Presidential Media Center yesterday.
-
-The 10th World Water Forum was held on the 18th to the 20th Bali Island of Indonesia from the 18th to the 20th. President Ranil Wickremesinghe and angels participated in the official invitation of Indonesian President Jooko Vidodo (Joko WidoDo). A special meeting was held between the President and Tesla and Space X, Tesla and Space X.
-
-...
-
-[Data](articles/3955a456.json)
-
-[Extended Data](ext_articles/3955a456.ext.json)
 
 ---

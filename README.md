@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-30 01:03:53**
+As of **2024-05-30 01:18:46**
 
 ## Newspaper Stats
 
-*Scraped **27,172** Articles*
+*Scraped **27,173** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 239
+colombotelegraphcom | 240
 dbsjeyarajcom | 266
 bbccomsinhala | 270
 newsfirstlk | 363
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,351
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,172 (100.0%) of 27,172 articles have been extended.
+27,172 (100.0%) of 27,173 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -599,6 +599,20 @@ Two fire trucks have been deployed by the CMC Fire Services Department to douse 
 [Data](articles/d5542087.json)
 
 [Extended Data](ext_articles/d5542087.ext.json)
+
+---
+
+### Historic Crimes Of The Chauvinistic Left
+
+*2024-05-29 19:34:54* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/historic-crimes-of-the-chauvinistic-left/) · `en`
+
+Part1 – Did the Sri Lankan military aid Tamil youth in escaping from Indian troops?
+
+One evening in 1988, when encroaching darkness seemed momentarily halted, in the gentle embrace of the emerging moonlight, a car was driving towards Palali airport. The unsuspecting driver looked very innocent. The passenger in the back seat was wearing the same expression. They spoke no words, not even the faintest whisper of sound escaped their lips. The turmoil brewing within was hidden by the silence that enveloped the moving vehicle as the only comforting shroud.
+
+...
+
+[Data](articles/11e15863.json)
 
 ---
 
@@ -2261,23 +2275,5 @@ The Minister further stated that a number of syllabus has already been registere
 [Data](articles/fb9b916a.json)
 
 [Extended Data](ext_articles/fb9b916a.ext.json)
-
----
-
-### Australia forced to field coach, selector in Warm-Up game vs Namibia
-
-*2024-05-29 14:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Australia-forced-to-field-coach-selector-in-Warm-Up-game-vs-Namibia/108-283610) · `en`
-
-(Hindustantimes) - Australia were forced to use four support staff members while fielding during their T20 World Cup warm-up match vs Namibia as only nine players were available.
-
-The after-effects of the IPL hit the Australian side before the T20 World Cup as they were forced to field their head coach, chief selector and two other support staff members as fielders during their warm-up match against Namibia on Tuesday. Australia only had nine players for the match as the other squad members, who were part of IPL 2024, will arrive late.
-
-As many as three Australian first-XI players - Pat Cummins, Travis Head and Mitchell Starc were part of the IPL 2024 final on May 26 (Sunday).
-
-...
-
-[Data](articles/632b722c.json)
-
-[Extended Data](ext_articles/632b722c.ext.json)
 
 ---

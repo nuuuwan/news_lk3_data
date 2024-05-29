@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-29 19:18:51**
+As of **2024-05-29 19:34:17**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,348
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,139 (100.0%) of 27,141 articles have been extended.
+27,141 (100.0%) of 27,141 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,6 +50,8 @@ Iraq is one of the main buyers of Sri Lanka’s tea. Nearly 150,000 migrant Sri 
 
 [Data](articles/3cc9e059.json)
 
+[Extended Data](ext_articles/3cc9e059.ext.json)
+
 ---
 
 ### Sri Lanka prime minister says presidential election still scheduled for 2024
@@ -69,6 +71,8 @@ Responding to questions on safeguarding democracy, the prime minister said the g
 ...
 
 [Data](articles/6b7cabb0.json)
+
+[Extended Data](ext_articles/6b7cabb0.ext.json)
 
 ---
 

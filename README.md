@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-29 14:53:42**
+As of **2024-05-29 15:04:00**
 
 ## Newspaper Stats
 
-*Scraped **27,068** Articles*
+*Scraped **27,072** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,36 +15,82 @@ newsfirstlk | 363
 islandlk | 1,465
 economynextcom | 1,548
 dailyftlk | 1,591
-adalk | 2,300
+adalk | 2,301
 adaderanalk | 3,087
-tamilmirrorlk | 3,179
+tamilmirrorlk | 3,181
 virakesarilk | 4,153
-dailymirrorlk | 4,270
+dailymirrorlk | 4,271
 adaderanasinhalalk | 4,340
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,066 (100.0%) of 27,068 articles have been extended.
+27,068 (100.0%) of 27,072 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-29 (Wednesday)
 
-### ආචාර්ය පුන්සර අමරසිංහට ඇප
+### ISIS விவகாரம்: விரிவுரையாளருக்கு பிணை
+
+*2024-05-29 14:50:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ISIS-விவகாரம்-விரிவுரையாளருக்கு-பிணை/175-338094) · `ta`
+
+இந்தியாவில் கைது செய்யப்பட்டு தடுத்து வைக்கப்பட்டுள்ள ஐ.எஸ்.ஐ.எஸ் உறுப்பினர்கள் தொடர்பில் ஊடகங்களுக்கு பொய்யான அறிக்கைகளை வெளியிட்டார் என்றக் குற்றச்சாட்டின் கீழ்  கைது செய்யப்பட்ட ஜெனரல் சேர் ஜோன் கொத்தலாவல பாதுகாப்பு பல்கலைக்கழகத்தின்   விரிவுரையாளருக்கு பிணை வழங்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/09c6ddec.json)
+
+---
+
+### Lecturer arrested for false remarks on ISIS granted bail
+
+*2024-05-29 14:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Lecturer-arrested-for-false-remarks-on-ISIS-granted-bail/108-283612) · `en`
+
+Colombo, May 29 -  The lecturer attached to the General Sir John Kotelawala Defence University (KDU), who was arrested for making false statements to the media regarding the ISIS members in India was granted bail.
+
+◼️
+
+[Data](articles/59f3dd41.json)
+
+---
+
+### சரத் அமுனுகம இராஜினாமா
+
+*2024-05-29 14:25:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சரத்-அமுனுகம-இராஜினாமா/175-338093) · `ta`
+
+விமல் வீரவன்ச, உதய கம்மன்பில, வாசுதேவ நாணயக்கார ஆகியோரின் கட்சிகள் உள்ளிட்ட மேலும் சில தரப்பினருடன் திங்கட்கிழமை (27) கூட்டணி அமைத்துக்கொண்ட திலித் ஜயவீரவின் மவ்பிம ஜனதா கட்சியின் தவிசாளர் கலாநிதி சரத் அமுனுகம, அந்த கட்சியிலிருந்து செவ்வாய்க்கிழமை (28)  இராஜினாமா செய்துள்ளார்.
+
+தாம் கட்சியிலிருந்து இராஜினாமா செய்வதாக மவ்பிம ஜனதா கட்சியின் தலைவர் திலித் ஜயவீரவிற்கு  அறிவித்ததாக   சரத் அமுனுகம தெரிவித்தார்.
+
+தாம் திலித் ஜயவீரவிற்கு வாழ்த்துத் தெரிவித்து, கட்சியிலிருந்து விலகியதாக கலாநிதி சரத் அமுனுகம கூறினார்.
+
+◼️
+
+[Data](articles/1a759232.json)
+
+---
+
+### Dr. Punar Amarasinghe released on bail
 
 *2024-05-29 14:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197155) · `si`
 
-අත්අඩංගුවට ගත් කොතලාවල ආරක්ෂක විශ්වවිද්‍යාලයේ කථිකාචාර්ය ආචාර්ය පුන්සර අමරසිංහ මහතාව ඇප මත මුදාහැර තිබේ.
+Dr. Punar Amarasinghe, a lecturer at Kotelawala Defense University, was granted bail after being charged with making false statements about four Sri Lankans detained in India.
 
-ඒ මහතා කොටුව මහෙස්ත්‍රාත් අධිකරණය හමුවට ඉදිරිපත් කිරීමෙන් අනතුරුව ලක්ෂ 10ක ශරීර ඇපයක් මත මෙලෙස මුදාහැර ඇත.
+🟩
 
-ISIS සංවිධානය සමඟ සම්බන්ධ බවට සැකකෙරෙන ඉන්දියාවේදී අත්අඩංගුවට ගත් ශ්‍රී ලාංකිකයින් 4 දෙනෙකු සම්බන්ධයෙන් අසත්‍ය ප්‍රකාශයක් සිදුකළ බවට එල්ලවූ චෝදනාවකට අදාළව ඒ මහතා අද පෙරවරුවේ අත්අඩංගුවට ගත්තේය.
+Dr. Punar Amarasinghe, lecturer of Kotelawala Defense University, has been released on bail.
+
+He was produced before the Fort Magistrate's Court and released on a personal bail of Rs.
+
+He was arrested in connection with the allegations of a false statement regarding 4 Sri Lankans who were arrested in India who were arrested in India.
 
 ◼️
 
 [Data](articles/db93bb83.json)
+
+[Extended Data](ext_articles/db93bb83.ext.json)
 
 ---
 
@@ -127,6 +173,8 @@ As many as three Australian first-XI players - Pat Cummins, Travis Head and Mitc
 ...
 
 [Data](articles/e3594a8b.json)
+
+[Extended Data](ext_articles/e3594a8b.ext.json)
 
 ---
 
@@ -326,6 +374,8 @@ He further mentioned that the government had been concentrating on resuming vehi
 
 *2024-05-29 13:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/99510/kdu-lecturer-arrested-over-comments-on-isis-suspects-arrested-in-india) · `en`
 
+UPDATE: Dr. Punsara Amarasinghe, a lecturer at the Kotelawala Defence University (KDU) who was arrested by the CID, has been released on bail by the Fort Magistrate’s Court.
+
 Dr. Punsara Amarasinghe, a lecturer at the Kotelawala Defence University (KDU), has been arrested by the Criminal Investigation Department (CID).
 
 He has been taken into custody for allegedly making a false statement regarding the four Sri Lankans arrested in India over suspected links with the Islamic State of Iraq and Syria (ISIS).
@@ -397,6 +447,20 @@ She said that she was ready to give $ 5,000 to someone who is finding or informe
 [Data](articles/c10a06cb.json)
 
 [Extended Data](ext_articles/c10a06cb.ext.json)
+
+---
+
+### ත්‍රීරෝද රථ ගාලට අලුතින් ත්‍රී රෝද රථක් එක් කිරීමට ගොස් අයෙක් මරුට
+
+*2024-05-29 12:51:48* · [`adalk`](https://www.ada.lk/breaking_news/ත්‍රීරෝද-රථ-ගාලට-අලුතින්-ත්‍රී-රෝද-රථක්-එක්-කිරීමට-ගොස්-අයෙක්-මරුට/11-409888) · `si`
+
+තිහාරිය ගොඩැල්ල මහපල්ලිය ආසන්නයේ ත්‍රී රෝද රථ ගාලකට අලුතින් රථයක් ඇතුළත් කිරීම  හේතුවෙන්  සිදුවූ ගැටුමකින්  පුද්ගලයෙකු මරණයට පත්වී ඇතැයි නිට්ටඹුව පොලිසිය කියයි.
+
+ත්‍රී රෝද රථ ගාලට අලුතෙන් එක් වූ තරුණයකුට පහර දීමට ලක්වන අවස්ථාවේ ඔහු බේරා ගැනීමට ගිය සිය පියා මෙසේ රෝහල් ගත කිරීමෙන් පසු මිය ගොස් ඇතැයි වාර්තාවයි.
+
+◼️
+
+[Data](articles/ed26df37.json)
 
 ---
 
@@ -2239,95 +2303,5 @@ United National Party (UNP) Colombo District organiser Ravi Karunanayake yesterd
 [Data](articles/8dd1f45f.json)
 
 [Extended Data](ext_articles/8dd1f45f.ext.json)
-
----
-
-### President orders compensation for families affected by adverse weather
-
-*2024-05-29 02:25:44* · [`dailyftlk`](https://www.ft.lk/news/President-orders-compensation-for-families-affected-by-adverse-weather/56-762320) · `en`
-
-President Ranil Wickremesinghe has instructed officials to provide immediate relief to those affected by the recent inclement weather and to continue these efforts until the situation improves.
-
-According to the Disaster Management Centre (DMC), eight deaths have been reported countrywide as of Monday, where seven people died in accidents caused by strong winds and one person died in a boat capsizing.
-
-The President has also directed that compensation be provided to the families of the deceased.
-
-The DMC will provide Rs. 250,000 for each victim, with an advance payment of Rs. 25,000 already arranged.
-
-As of Monday, a total of 42,640 people belonging to 11,326 families have been affected by the inclement weather.
-
-The President instructed the Disaster Management Centre to ensure all necessary facilities are provided, with special attention to health and hygiene.
-
-◼️
-
-[Data](articles/fb3b266f.json)
-
-[Extended Data](ext_articles/fb3b266f.ext.json)
-
----
-
-### Cabinet nod to review public sector salary anomalies
-
-*2024-05-29 02:25:18* · [`dailyftlk`](https://www.ft.lk/news/Cabinet-nod-to-review-public-sector-salary-anomalies/56-762319) · `en`
-
-The Cabinet of Ministers at its meeting on Monday decided to appoint a specialist committee to address salary anomalies among various State sector employee groups.
-
-“The committee will study these discrepancies and submit a report in time for the 2025 budget, aiming to rectify the long-standing issues,” Cabinet Co-Spokesman and Minister Bandula Gunawardena said yesterday.
-
-The move comes in response to persistent concerns raised by employee groups and trade unions about salary anomalies in the public sector.
-
-“The Government will consider proposals related to monthly allowances and wage disparities faced by public sector workers,” he said at the weekly post-Cabinet meeting media briefing.
-
-Gunawardena recalled the ongoing strikes by State sector workers who have been demanding solutions to salary disparities and the receipt of monthly compensation allowances.
-
-...
-
-[Data](articles/8bdcf5f6.json)
-
-[Extended Data](ext_articles/8bdcf5f6.ext.json)
-
----
-
-### Netanyahu vows to continue war amid air strike condemnation
-
-*2024-05-29 02:24:53* · [`dailyftlk`](https://www.ft.lk/news/Netanyahu-vows-to-continue-war-amid-air-strike-condemnation/56-762318) · `en`
-
-BBC: Israeli Prime Minister Benjamin Netanyahu has vowed to continue the war against Hamas amid international condemnation of an air strike that killed scores of Palestinians in Rafah on Sunday.
-
-At least 45 people were killed, according to the Hamas-run health ministry, while hundreds more were treated for severe burns, fractures and shrapnel wounds.
-
-Mr Netanyahu said the strike was a “tragic mishap” but added: “I don’t intend to end the war before every goal has been achieved.”
-
-He said it was vital that Israel took “every precaution possible” to protect civilians, and insisted that the Israel Defence Forces (IDF) were using their “best efforts not to harm those uninvolved” in the conflict.
-
-The UN Security Council will hold an emergency meeting on Tuesday, at Algeria’s request, to discuss the Rafah strike.
-
-In a statement on Monday, UN secretary general António Guterres said the strike had “killed scores of innocent civilians who were only seeking shelter from this deadly conflict”.
-
-...
-
-[Data](articles/cf0456fd.json)
-
-[Extended Data](ext_articles/cf0456fd.ext.json)
-
----
-
-### Spain, Norway and Ireland recognise Palestinian state
-
-*2024-05-29 02:24:14* · [`dailyftlk`](https://www.ft.lk/news/Spain-Norway-and-Ireland-recognise-Palestinian-state/56-762317) · `en`
-
-Spain, Ireland and Norway have formally recognised a Palestinian state, in what they say is an attempt to refocus attention on efforts to find a political solution to the war in the Middle East.
-
-They hope by acting together they will encourage other European countries to follow suit, in a diplomatic push that could help secure a ceasefire in Gaza and the release of hostages held by Hamas.
-
-The symbolic decision has provoked a furious row with Israel’s government which has accused all three countries of rewarding terrorism.
-
-Israel has withdrawn its ambassadors from Ireland, Norway and Spain and formally reprimanded their envoys in Tel Aviv. All three were summoned to Israel’s foreign ministry last week to be shown footage of the 7 October attacks in front of the media.
-
-...
-
-[Data](articles/b43b9ece.json)
-
-[Extended Data](ext_articles/b43b9ece.ext.json)
 
 ---

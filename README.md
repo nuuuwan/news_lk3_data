@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-30 17:34:22**
+As of **2024-05-30 17:54:46**
 
 ## Newspaper Stats
 
-*Scraped **27,344** Articles*
+*Scraped **27,354** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,100 @@ dbsjeyarajcom | 267
 bbccomsinhala | 271
 newsfirstlk | 363
 islandlk | 1,477
-economynextcom | 1,563
+economynextcom | 1,566
 dailyftlk | 1,601
-adalk | 2,327
-adaderanalk | 3,117
+adalk | 2,332
+adaderanalk | 3,118
 tamilmirrorlk | 3,211
 virakesarilk | 4,210
 dailymirrorlk | 4,324
-adaderanasinhalalk | 4,371
+adaderanasinhalalk | 4,372
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,344 (100.0%) of 27,344 articles have been extended.
+27,344 (100.0%) of 27,354 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-30 (Thursday)
+
+### මංගල ඇඳුමින්ම පත්වීම ගන්න ආ තරුණිය කී කතාව
+
+*2024-05-30 17:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197188) · `si`
+
+හම්බන්තොට දිස්ත්‍රික්කයේ රැකියා විරහිත උපාධිධාරීන් සඳහා පත්වීම් ප්‍රදානය කිරීමේ උත්සවයේදී සිදුවූ සුවිශේෂී සිදුවීමක් වෙත බොහෝදෙනෙකුගේ අවධානය යොමුවිය.
+
+එහිදී අද දිනයේ තමන්ගේ මංගල ගමනට සැරසෙන යුවතියක් ද සිය ගුරු පත්වීම ලබාගැනීම එම සුවිශේෂී සිදුවීමයි.
+
+මෙලෙස සිය ගුරු පත්වීම ලබාගත්තේ අම්බලන්තොට ප්‍රදේශයේ පදිංචි දිලිණි නමැති තරුණියකි.
+
+මෙම ගුරුපත්වීම් ලබාදීමේ උත්සවය දකුණු පළාත් ආණ්ඩුකාර ලක්ෂ්මන් යාපා අබේවර්ධන මහතාගේ ප්‍රධානත්වයෙන් සිදුකෙරිණි.
+
+◼️
+
+[Data](articles/031c2bf8.json)
+
+---
+
+### Sri Lanka businesses aim to strengthen links with IORA partners
+
+*2024-05-30 17:25:00* · [`economynextcom`](https://economynext.com/sri-lanka-businesses-aim-to-strengthen-links-with-iora-partners-165456/) · `en`
+
+ECONOMYNEXT – Sri Lankan businesses have opportunities to strengthen relations with businesses in the Indian Ocean Rim Association Countries, Chairman of the Ceylon Chamber of Commerce, Duminda Hulangamuwa said.
+
+“IORA consists of countries with different sizes and shapes, different economies, and different cultural thresholds,” Hulangamuwa said at the IORA business conclave organized by the Ceylon Chamber of Commerce and the Ministry of Foreign Affairs.
+
+“However, all put together they present an enormous opportunity of investment amongst member countries.”
+
+Foreign Minister Ali Sabry said that “Sri Lanka has started trade negotiations with Malaysia and Indonesia so that we can create bigger markets for us”.
+
+“The world economy is 86 trillion. Our economy is 78 billion. If you translate that in to percentage it is 0.08. So, there is much more for Sri Lanka to gain by being part of these larger markets rather than being alone,” Minister Sabry said.
+
+...
+
+[Data](articles/2ede09c2.json)
+
+---
+
+### CoPF calls for prioritizing ‘accurate poverty verification criteria’ to select “Aswesuma” beneficiaries
+
+*2024-05-30 17:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/99547/copf-calls-for-prioritizing-accurate-poverty-verification-criteria-to-select-aswesuma-beneficiaries-) · `en`
+
+The Committee on Public Finance (CoPF) has directed the officials of the Welfare Benefits Board to prioritise the criteria that can be verified and determined in order to accurately identify poverty while selecting the “Aswesuma” beneficiaries.
+
+Drawing examples, the committee pointed out that individual poverty can be identified better based on the electricity bill amount considering the electricity units consumed in each home, the Parliamentary Communications Department said in a statement.
+
+The committee pointed out that there are major problems and lack of formality in the criteria used in the selection of “Aswesuma” beneficiaries, and advised them to rectify it as soon as possible. The officials of the Ministry of Finance told the committee that they will change the method of giving points that is currently used in the selection of relief beneficiaries.
+
+...
+
+[Data](articles/83d22340.json)
+
+---
+
+### Sri Lanka rupee closes flat at 301.85/90 to US dollar
+
+*2024-05-30 17:03:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-flat-at-301-85-90-to-us-dollar-165470/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed broadly flat at 301.85/90 to the US dollar on Thursday, from 301.60/302.00 the previous day, dealers said. Bond yields were steady.
+
+A bond maturing on 15.12.2026 closed down at 9.70/80 percent from 9.70/85 percent.
+
+A bond maturing on 15.09.2027 closed up at 10.40/55 percent from 10.30/40 percent.
+
+A bond maturing on 01.07.2028 closed stable at 10.70/80 percent.
+
+A bond maturing on 15.01.2030 closed up at 11.60/80 percent from 11.50/75 percent.
+
+A bond maturing on 01.10.2032 closed at 11.80/90 percent from 11.80/95 percent. (Colombo/May30/2024)
+
+◼️
+
+[Data](articles/bda80d23.json)
+
+---
 
 ### Latest news on revenue
 
@@ -126,6 +202,30 @@ According to the Bureau, the number of cash has been fraudulent is Rs.
 
 ---
 
+### Sri Lanka stocks close up, banking stocks steady
+
+*2024-05-30 16:44:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-banking-stocks-steady-165467/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Thursday, data on its site showed.
+
+The broader All Share Index closed up 0.56 percent, or 67.77 points, at 12,170; while the S&P SL20 Index closed up 1.08 percent, or 38.46 points, at 3,585.
+
+Sampath Bank Plc (Rs264mn) saw the most active volumes traded in the day. The share closed up at 78.60.
+
+Commercial Bank of Ceylon Plc, which announced a capital call of 22 billion rupees earlier this week, closed up at 107.00.
+
+Banking stocks picked up during the day after seeing some selling pressure yesterday on the back of the Commercial Bank announcement.
+
+DFCC Bank Plc closed up at 77.80, Hatton National Bank Plc closed flat at 194.50, and National Development Bank Plc closed up at 78.10.
+
+There was a net foreign outflow of 105 million. (Colombo/May30/2024)
+
+◼️
+
+[Data](articles/6ad6d716.json)
+
+---
+
 ### Israel extends control of Gaza’s entire land border
 
 *2024-05-30 16:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/99546/israel-extends-control-of-gazas-entire-land-border) · `en`
@@ -152,6 +252,20 @@ He said troops were “investigating.. and neutralizing” tunnels found in the 
 
 ---
 
+### මල්වතු මහනාහිමියන්ගේ වියළි ආහාර ප්‍රදානයක්
+
+*2024-05-30 16:40:52* · [`adalk`](https://www.ada.lk/breaking_news/මල්වතු-මහනාහිමියන්ගේ-වියළි-ආහාර-ප්‍රදානයක්/11-409920) · `si`
+
+මල්වතු පාර්ශවයේ මහානායක අතිපූජ්‍ය තිබ්බොටුවාවේ ශ්‍රී සිද්ධාර්ථ සුමංගල මහානා හිමියන්ගේ 80 වැනි ජන්ම දිනය නිමිත්තෙන් අඩු ආදායම් ලාබි පවුල් 500 ක් සඳහා වියළි ආහාර මල්ලක් ලබාදීමේ වැඩසටහනක් අද (30දින) මල්වතු මහා විහාරයේදී පැවැත්විණි.
+
+ඒ සඳහා චීනයේ අන්ෆු විහාරස්ථානයේ මීදා හොන්ග් මෙහෙණින් වහන්සේ ඇතුළු එම විහාරස්ථානයේ දායක පිරිස දායකත්වය ලබා දී තිබුණි.
+
+◼️
+
+[Data](articles/b3d3752e.json)
+
+---
+
 ### Red notice from the Department of Meteorology
 
 *2024-05-30 16:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197185) · `si`
@@ -171,6 +285,40 @@ Enable Southwestern monsoon weather is also highly strong winds in the Bay of Ba
 [Data](articles/39ed426e.json)
 
 [Extended Data](ext_articles/39ed426e.ext.json)
+
+---
+
+### චීන රජය හා තවත් ගිවිසුමක්
+
+*2024-05-30 16:30:52* · [`adalk`](https://www.ada.lk/breaking_news/චීන-රජය-හා-තවත්-ගිවිසුමක්/11-409919) · `si`
+
+චීන රජයේ ආධාර මත උපරිමාධිකරණ සංකීර්ණයේ ප්‍රතිසංස්කරණ කටයුතු වෙනුවෙන් වු පරිපූර්ණ ඇස්තමේන්තු  යුවාන් මිලියන 229 ක මුදල වෙනුවෙන් මුල්‍ය ගිවිසුමට අත්සන් තැබීම අධිකරණ, බන්ධනාගාර කටයුතු හා ආණ්ඩුක්‍රම ව්‍යවස්ථා ප්‍රතිසංස්කරණ අමාත්‍යාංශයේ ලේකම් නිහාල් රණසිංහ මහතා සහ ශ්‍රී ලංකාවේ චීන තානාපති කාර්යාලයේ උපදේශක Tang Yandi යන මහත්වරුන් අදාළ ගිවිසුමට අත්සන් තැබූහ.
+
+‍මෙම ගිවිසුම අධිකරණ, බන්ධනාගාර කටයුතු හා ආණ්ඩුක්‍රම ව්‍යවස්ථා ප්‍රතිසංස්කරණ අමාත්‍ය විජයදාස රාජපක්ෂ මහතාගේ හා ශ්‍රී ලංකාවේ චීන තානාපති Qi Zhenhong යන මහත්වරුන්ගේ ප්‍රධානත්වයෙන් අධිකරණ අමාත්‍යාංශ ශ්‍රවණාගාරයේදී  සිදු කෙරිණි.
+
+◼️
+
+[Data](articles/9fda62ac.json)
+
+---
+
+### ජනාධිපති ධූරය සතු විධායක බලය නිසා ශ්‍රී ලංකාවේ ආර්ථිකය ගොඩනැඟීමට හැකිවුනාලු
+
+*2024-05-30 16:29:34* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපති-ධූරය-සතු-විධායක-බලය-නිසා-ශ්‍රී-ලංකාවේ-ආර්ථිකය-ගොඩනැඟීමට-හැකිවුනාලු/11-409918) · `si`
+
+ජනාධිපතිවරණය සඳහා ඉදිරිපත් වන බව පවසන කිසිදු අපේක්ෂකයෙකු එම ධුරය සතු විධායක බලය අහෝසි කරන බවට මෙතෙක් ප්‍රකාශ ක‍ර නොමැති බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සඳහන් කරයි.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ ‘What’s New” තරුණ නීති වෘත්තිකයන් සමඟ නීති ප්‍රතිසංස්කරණ පිළිබඳ ජනාධිපති කාර්යාලයේදී ඊයේ (28) පවැති වැඩමුළුවට එක්වෙමිනි.
+
+ජනාධිපති ධූරය සතු විධායක බලය නිසා ශ්‍රී ලංකාවේ ආර්ථිකය ගොඩනැඟීමට මෙන්ම තිස්වසරක යුද්ධය නිමා කිරිමට හැකි වූ බවත් ජනාධිපතිවරයා පෙන්වා දුන්නේය.
+
+එංගලන්ත පාර්ලිමේන්තුව තුළ යම් නීතියක් සම්මත වූ පසු ඒ පිළිබඳ කිසිවෙකුට ප්‍රශ්න කළ නොහැකියි. පාර්ලිමේන්තුවේ උත්තරීතරභාවයේ පදනම එයයි. උත්තරීතර වන්නේ පාර්ලිමේන්තුවයි.
+
+ඇමරිකානු ක්‍රමවේදය මීට වෙනස්. ඇමරිකානු ක්‍රමවේදය මගින්, ඔවුන් යම් නීතියක් කෙටුම්පත් කරන විට, විධායක බලතල ජනාධිපතිටත්, ව්‍යවස්ථාදායක බලතල කොන්ග්‍රසයටත් සහ අධිකරණ බලතල අධිකරණයටත් ලබා දුන්නා.
+
+...
+
+[Data](articles/1dd66ac0.json)
 
 ---
 
@@ -1484,6 +1632,20 @@ At the same time, there is a shortage of river banks in the area.
 
 ---
 
+### ආපනශාලාවක් පරීක්ෂා කිරීමට ගිය මහජන සෞඛ්‍ය පරීක්ෂකවරයාට පන්න පන්න පහර දෙයි
+
+*2024-05-30 12:19:12* · [`adalk`](https://www.ada.lk/breaking_news/ආපනශාලාවක්-පරීක්ෂා-කිරීමට-ගිය-මහජන-සෞඛ්‍ය-පරීක්ෂකවරයාට-පන්න-පන්න-පහර-දෙයි/11-409910) · `si`
+
+මාතලේ  නගරයේ මංදණ්ඩාවෙල ප්‍රදේශයේ ආපන ශාලාවක්  පරීක්ෂා කිරීමට ගිය මහජන සෞඛ්‍ය පරීක්ෂකවරයෙකුට   එම වෙළෙඳ සැලේ හිමිකරු විසින් රාජකාරියට බාධා කොට පහරදීමෙන්  නිලධාරියා තුවාල ලබා මාතලේ දිස්ත්‍රික් මහ රෝහලේ ප්‍රතිකාර ලබන බව මාතලේ පොලිසිය පවසයි.
+
+අදාල සිද්ධිය වූ ඊයේ මාතලේ මහ නගර සභා සීමාව තුළ  වෙළඳසැල් පරීක්ෂාවක් මහජන සෞඛ්‍ය පරීක්ෂකවරුන් විසින් සිදු කර ඇති  අතර මාතලේ මන්දන්ඩාවල ප්‍රදේශයේ එම ආපනශාලාව පරීක්ෂා කිරීමට  ගිය මහජන සෞඛ්‍ය පරීක්ෂකවරයාට ආපනශාලාව පරික්ෂා කරමින් සිටියදී ඔහුගේ රාජකාරියට බාධා කරමින් එම වෙළඳසැලේ හිමිකරු විසින් පහරදී පොරවක් රැගෙන ඔහුව නගරයේ පන්නාගෙන ගොස් ඇති අතර එයින් අනූ නවයෙන් බේරී   මාතලේ මහා රෝහල  වෙත ගොස් නේවාසිකව ප්‍රතිකාර ගනු ලබයි.
+
+...
+
+[Data](articles/4c6b5579.json)
+
+---
+
 ### Paper Bangladesh in Embilipitiya
 
 *2024-05-30 12:07:11* · [`adalk`](https://www.ada.lk/breaking_news/ඇඹිලිපිටියේ-කඩදාසි-බංග්ලාදේශයට/11-409909) · `si`
@@ -1635,6 +1797,26 @@ This expansion has increased the number of eligible countries for the Visa -free
 [Data](articles/6047ad70.json)
 
 [Extended Data](ext_articles/6047ad70.ext.json)
+
+---
+
+### වැදගත් පනත් දෙකක් ලබන සතියේ පාර්ලිමේන්තුවට
+
+*2024-05-30 11:55:55* · [`adalk`](https://www.ada.lk/breaking_news/වැදගත්-පනත්-දෙකක්-ලබන-සතියේ-පාර්ලිමේන්තුවට/11-409907) · `si`
+
+කාන්තාවන් සවිබල ගැන්වීමේ පනත් කෙටුම්පත දෙවනවර කියවීමේ විවාදය ජූනි 4 ...
+
+‘අධ්‍යාපන ක්ෂේත්‍රයට අදාළව පවතින ගැටලු’ පිළිබඳ සභාව කල්තැබීමේ විවාදය ජූනි 5...
+
+ශ්‍රී ලංකා විදුලිබල පනත් කෙටුම්පත දෙවැනිවර කියවීමේ විවාදය ජූනි 6...
+
+පාර්ලිමේන්තුව ලබන 4 වැනිදා සිට 7 වැනිදා දක්වා රැස්වීමට නියමිත බව පාර්ලිමේන්තුවේ මහලේකම් කුෂානි රෝහණදීර මහත්මිය පැවසුවාය. පසුගියදා (28) කථානායක ගරු මහින්ද යාපා අබේවර්ධන මහතාගේ ප්‍රධානත්වයෙන් පැවති පාර්ලිමේන්තු කටයුතු පිළිබඳ කාරක සභාවේදී ඊට අදාළ පාර්ලිමේන්තු කටයුතු තීරණය වී ඇත.
+
+මේ අනුව ජූනි 4 වැනි අඟහරුවාදා පෙ.ව 9.30 සිට පෙ.ව 10.30 දක්වා කාලය වාචික පිළිතුරු අපේක්ෂා කරන ප්‍රශ්න සදහා වෙන් කර ඇත. අනතුරුව පෙ.ව 10.30 සිට ප.ව 5.00 දක්වා කාන්තාවන් සවිබල ගැන්වීමේ පනත් කෙටුම්පත දෙවන වර කියවීමේ විවාදය පැවැත්වීමට මෙහිදී තීරණය වී ඇත. ඉන්පසු ශ්‍රී ලංකා වරලත් තැරැව්කරුන්ගේ ආයතනය (සංස්ථාගත කිරීමේ) සහ  දැදිගම ශ්‍රී මෛත්‍රී ප්‍රඥාර්ථ බෞද්ධ අධ්‍යාපන දහම් සභාව (සංස්ථාගත කිරීමේ) පෞද්ගලික මන්ත්‍රී පනත් කෙටුම්පත් සලකා බැලීමට නියමිතව ඇත.
+
+...
+
+[Data](articles/81569037.json)
 
 ---
 
@@ -2117,231 +2299,5 @@ It was reported that a special police team has been dispatched to Dubai to bring
 [Data](articles/75dbec4f.json)
 
 [Extended Data](ext_articles/75dbec4f.ext.json)
-
----
-
-### Martin Wickramasinghe’s folklore collection to public
-
-*2024-05-30 10:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Martin-Wickramasinghes-folklore-collection-to-public/110-283700) · `en`
-
-A folklore collection of Sri Lankan journalist and author Martin Wickramasinghe was vested with the public by Prime Minister Dinesh Gunawardana. The ceremony was held at the National Library & Documentation Services Board. Pix by Nimalsiri Edirisinghe
-
-◼️
-
-[Data](articles/99351b61.json)
-
-[Extended Data](ext_articles/99351b61.ext.json)
-
----
-
-### 'Tashi' in Kalmulla '' Murder suspect dies suddenly
-
-*2024-05-30 10:41:13* · [`adalk`](https://www.ada.lk/breaking_news/’’කලමුල්ලේ-ටෂී’’-ඝාතනය-කෙරූ-සැකකරු-හදිසියේ-මිය-යයි/11-409904) · `si`
-
-Thushara Rukmal Silva, a Palitia resident, died unexpectedly after being remanded in Kalutara Prison on the 19th. Identified as a murder suspect, he appeared in court on the 25th. Further investigations will be carried out following his post-mortem examination at Kandy Survey Hospital.
-
-🟩
-
-The suspect was remanded in the Kalutara Prison on the 19th of the Katamulla Tashmadu Tashmadu on the 19th last night.
-
-The deceased has been identified as Thushara Rukmal Silva, a resident of Palitia, and he was produced before the Kalutara Magistrate's Court on the 25th of this month.
-
-The post mortem examination is to be conducted at the Kandy Survey Hospital, which is conducting further investigations.
-
-◼️
-
-[Data](articles/01fdccae.json)
-
-[Extended Data](ext_articles/01fdccae.ext.json)
-
----
-
-### Woman's body recovered from Canal in Grandpass area, Colombo
-
-*2024-05-30 10:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/184831) · `ta`
-
-A woman's body, aged around 45-50, dressed in a red dress with yellow flowers, was found in a wastewater canal in Colombo's Grandpass area. The discovery was made on Wednesday, and her identity remains unknown as authorities continue investigating.
-
-🟩
-
-The body of a woman has been recovered from the waste water canal in Colombo, police said.
-
-The body has been recovered based on information received by the police that the body of a woman was found on Wednesday (29) in the Staspura area of ​​the Grandpass police division.
-
-Police said the body was unidentified and a woman between the ages of about 45 and 50 years, and she was wearing a red -colored red dress with a yellow flower.
-
-The body is being kept at the Colombo National Hospital and further investigations are being carried out by the police.
-
-◼️
-
-[Data](articles/002328dc.json)
-
-[Extended Data](ext_articles/002328dc.ext.json)
-
----
-
-### NBRO issues landslide warnings for 6 districts
-
-*2024-05-30 10:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/99530/nbro-issues-landslide-warnings-for-6-districts) · `en`
-
-The National Building and Research Organisation (NBRO), on Thursday (May 30) issued early landslide warnings for several localities in 6 districts, to be in effect until 07.00 a.m. tomorrow (31).
-
-Accordingly, a Level 02 (Amber) alert was issued for the following areas:
-
-Nuwara-Eliya – Ambagamuwa Divisional Secretariat Division (DSD) and surrounding areas
-
-Rathnapura – Ratnapura, Balangoda, Eheliyagoda and Imbulpe DSDs and surrounding areas
-
-Meanwhile, Level 01 (Yellow) alerts have been issued for the following areas:
-
-Kandy – Udunuwara, Gangawata Korale, Yatinuwara and  Udapalatha  DSDs and surrounding areas
-
-Kegalle-  Rambukkana, Dehiowita, Bulathkohupitiya, Ruwanwella, Galigamuwa, Yatiyanthota,  Aranayaka, Mawanella, Kegalle and Deraniyagala DSDs and surrounding areas
-
-Ratnapura-  Kuruwita, Elapatha, Kiriella, Ayagama and Kalawana DSDs and surrounding areas
-
-◼️
-
-[Data](articles/c02f2ecd.json)
-
-[Extended Data](ext_articles/c02f2ecd.ext.json)
-
----
-
-### Coastal train service impact
-
-*2024-05-30 10:21:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கரையோர-ரயில்-சேவை-பாதிப்பு/175-338130) · `ta`
-
-Due to a technical failure near Ambalangoda, the coastal train service has been disrupted. The Railway Department reports an impact on the coastal railway line.
-
-🟩
-
-A train has been suspended due to technical failure near the Ambalangoda railway station.
-
-The Railway Department said that the train service has been affected at the coastal railway line. Remble
-
-◼️
-
-[Data](articles/cee23cfc.json)
-
-[Extended Data](ext_articles/cee23cfc.ext.json)
-
----
-
-### Powerful western country concerned over SL ex-soldiers joining the Russian military
-
-*2024-05-30 10:18:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Powerful-western-country-concerned-over-SL-ex-soldiers-joining-the-Russian-military/108-283675) · `en`
-
-Colombo, May 30 (Daily Mirror)- A powerful western country remains concerned over Sri Lankan ex-soldiers joining the Russian military in the war against Ukraine, an informed source said.
-
-According to the source, Sri Lankan government took initiatives to engage with the Russian authorities to seek details about Sri Lankans fighting as mercenaries of the Russian military in the wake of western concerns.
-
-A delegation headed by Defence Secretary Kamal Gunaratne is also expected to visit Moscow for diplomatic engagements.
-
-The source said some Sri Lankans had also joined the Ukrainian forces to fight against Russia.
-
-The defence authorities have received hundreds of inquiries from family members of Sri Lankan soldiers in the war front there in Russia and Ukraine.
-
-Recently, the police also arrested some individuals responsible for traf­ficking people to the war front.
-
-Most Sri Lankans are desperately trying to join the two militaries in Russia and Ukraine for money and other perks being offered.
-
-◼️
-
-[Data](articles/2a6bae41.json)
-
-[Extended Data](ext_articles/2a6bae41.ext.json)
-
----
-
-### 63 violent incidents against Christians from October 2022 - 2023
-
-*2024-05-30 10:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/184805) · `ta`
-
-From November 2022 to November 2023, Sri Lanka saw 63 acts of violence against Christians, primarily in Puttalam, Kalutara, and Jaffna. A report by the Sri Lankan National Christian Gospel highlights ongoing religious and racial violence despite political shifts, with Christians being targeted by both state officials and unidentified individuals. Violence took place across 15 districts, with the highest incidents reported in Buddhist-majority areas.
-
-🟩
-
-The Sri Lankan National Christian Gospel (Evangelikal) has published a new report in Sri Lanka, which has reported 63 violence against Christians nationwide from November 2022 in Sri Lanka, and that there have been a large number of incidents in the districts of Puttalam, Kalutara and Jaffna respectively.
-
-Based on the data provided by the National Christian Gospel gathering in Sri Lanka over the 12 -month period of the Christian community over the 12th of November - 2023 in Sri Lanka, the 60 -page study of 'Violence against Christians in Sri Lanka has been prepared'. The publication of the report was held on Tuesday (28) at the International Center for the International Center for Ethnic Lying in Colombo.
-
-...
-
-[Data](articles/d94f4a89.json)
-
-[Extended Data](ext_articles/d94f4a89.ext.json)
-
----
-
-### Indian-owned ship held in Colombo after oil spill; travel ban imposed on captain
-
-*2024-05-30 10:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/99529/indian-owned-ship-held-in-colombo-after-oil-spill-travel-ban-imposed-on-captain-) · `en`
-
-The Marine Environment Protection Authority (MEPA) has taken custody of a ship which had caused an oil spill while anchored at the Colombo Port.
-
-A spokesperson of the MEPA stated that legal action has been initiated against the company that owns the ship and the relevant insurance company regarding the oil spill. Under the Marine Environment Protection Authority Act, the MEPA is seeking compensation for the incident, the authority revealed.
-
-The ship, owned by an Indian company, had recently arrived at the Port of Colombo for maintenance activities. A special investigation conducted by MEPA had revealed a leak of hydraulic oil from the ship. The company’s owner has admitted to the incident and agreed to provide compensation, according to the MEPA.
-
-Furthermore, the Colombo Magistrate Court has imposed a travel ban on the captain of the ship preventing him from leaving the country, as per a request made by the Colombo Port Police.
-
-◼️
-
-[Data](articles/862b8241.json)
-
-[Extended Data](ext_articles/862b8241.ext.json)
-
----
-
-### 50 deaths per day due to cigarette use
-
-*2024-05-30 10:08:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிகரெட்-பாவனையால்-நாளொன்றுக்கு-50-மரணங்கள்/175-338128) · `ta`
-
-Sri Lanka sees 50 daily deaths linked to cigarettes, totaling 20,000 yearly. Despite a 9.1% reduction in adult smoking rates and a decline in cigarette production by 19%, around 1.5 million people still smoke. Concerns arise as smoking habits increase among schoolchildren, and multinational tobacco companies allegedly target youth.
-
-🟩
-
-About 50 people die daily in the country due to cigarette use, according to the liquor and narcotics information center.
-
-In addition, the station points out that about 20,000 people die each year due to smoking.
-
-This was stated in a statement issued by the Liquor and Drug Information Center on the occasion of World Tobacco Day, which is observed tomorrow (31).
-
-The theme of the World Anti -Tobacco Day this year is to protect our children from the interference of the tobacco industry.
-
-The use of cigarettes in Sri Lanka has been reduced by 9.1 percent and the use of cigarettes among young people is rapidly decreasing, according to the liquor and drug information center.
-
-According to tobacco company reports, cigarette production declined by 19 percent last year.
-
-Although Sri Lanka has a good trend in countries that are declining cigarettes in the world, about 1.5 million people are still engaged in cigarettes.
-
-...
-
-[Data](articles/c9bb124d.json)
-
-[Extended Data](ext_articles/c9bb124d.ext.json)
-
----
-
-### Ranil goes to referendum
-
-*2024-05-30 10:08:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சர்வஜன-வாக்கெடுப்புக்கு-ரணில்-செல்லார்/175-338127) · `ta`
-
-National People's Power Leader Anura Kumara Dissanayake stated that President Ranil Wickremesinghe, facing defeat in the presidential election, won't attend a referendum but might consider it if he wins. He accused Wickremesinghe and Basil Rajapakse of spreading confusion due to their lack of electoral plans.
-
-🟩
-
-President Ranil Wickremesinghe, who is unable to win the presidential election, will never go to a referendum, said National People's Power Leader Anura Kumara Dissanayake on Wednesday (29).
-
-Parliamentarian Anura Kumara Dissanayake has said that if President Ranil Wickremesinghe can win the referendum, he will definitely go to the presidential election.
-
-Anura Kumara Dissanayake added that President Ranil Wickremesinghe and Basil Rajapakse are trying to create confusion as they have no plans or intentions for the election.
-
-◼️
-
-[Data](articles/99709984.json)
-
-[Extended Data](ext_articles/99709984.ext.json)
 
 ---

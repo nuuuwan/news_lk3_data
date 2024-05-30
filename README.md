@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-30 09:03:47**
+As of **2024-05-30 09:18:59**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,355
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,213 (100.0%) of 27,215 articles have been extended.
+27,215 (100.0%) of 27,215 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -474,21 +474,27 @@ Patients in hospitals in their respective areas should be provided with possible
 
 ---
 
-### ජාත්‍යන්තර පාසල්  නියාමනය නොකිරීමෙන් 'දරුවන්ට ගැටලු රැසක්'; නියාමනය කිරීමට කළ යුත්තේ කුමක්ද?
+### "Anti-cultural problems 'by defining international schools';What should be done to regulate?
 
 *2024-05-30 02:06:48* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cd112d28rjno) · `si`
 
-ජාත්‍යන්තර පාසල්  නියාමනය නොකිරීමෙන් 'දරුවන්ට ගැටලු රැසක්'; නියාමනය කිරීමට කළ යුත්තේ කුමක්ද?
+International schools in Sri Lanka face criticism for prioritizing English literature over aesthetic subjects, potentially violating child rights. Concerns include lack of teacher recruitment for specialized subjects, annual fee hikes, and regulatory gaps allowing unqualified teachers and inadequate coverage. The National Audit Office highlighted these issues in 2020, suggesting a need for stronger oversight. Despite calls for abolition by the Ceylon Teachers Union, others argue for regulation to address these concerns, ensuring quality education for all students.
 
-"දරුවො පාසලට ඇතුළත් කරද්දි කිව්වෙ නෑ, සාමාන්‍ය පෙළට සෞන්දර්ය විෂයන් ඉගෙන ගන්න ගුරුවරු දෙන්නෙ නෑ කියලා. ඒත් 9 ශ්‍රේණියට යද්දි කියනවා, සෞන්දර්ය විෂය නැතුව ඒ වෙනුවට ඉංග්‍රීසි සාහිත්‍යය අනිවාර්යයෙන් කරන්න කියලා. මේක ළමා අයිතිවාසිකම් උල්ලංඝණය කිරීමක් නෙවෙයි ද?," ජාත්‍යන්තර පාසල්වල ඉගෙනුම ලබන දරුවන් කිහිප දෙනෙකුගේ ම දෙමාපියෝ එලෙස චෝදනා කරති.
+🟩
 
-මේ පිළිබඳව අප කළ සොයා බැලීමකදී පෙනී ගියේ, සෞන්දර්ය විෂයන් සඳහා දේශීය අ.පො.ස. සාමාන්‍ය පෙළ විභාගයට සූදානම් වන දරුවන් වෙනුවෙන් ගුරුවරුන් බඳවා නොගෙන, සියලු දරුවන්ට ඉංග්‍රීසි සාහිත්‍යය විෂය පමණක් ලබා දීමට ඇතැම් ජාත්‍යන්තර පාසල් කටයුතු කර ඇති බව ය.
+"Anti-cultural problems 'by defining international schools';What should be done to regulate?
 
-කෙසේ වෙතත්, යම් ශිෂ්‍යයෙකුට හෝ ශිෂ්‍යාවකට ඉංග්‍රීසි සාහිත්‍යය හැර වෙනත් සෞන්දර්ය විෂයක් ඉගෙන ගැනීමට අවශ්‍ය නම් පෞද්ගලිකව එම විෂය ඉගෙනගෙන සාමාන්‍ය පෙළ විභාගයට පෙනී සිටිය හැකි බව එම පාසල්වල පරිපාලන අංශ පවසයි.
+"When the children were included in school, teachers would not give teachers to learn aesthetic subjects to the ordinary line. But when you get to Grade 9 says, he says to do it without aesthetic subject to do English literature instead. Isn't this a violation of child rights?
+
+In a search we have found about this, we showed the GCE Advanced Level for aesthetic subjects. Some international schools have taken place to provide English literature to all children just the subject of English literature without recruiting teachers for the children who are ready for the GCE O / L examination.
+
+However, the administrative sections of the schools say that if a student or student wants to learn a aesthetic subject other than English literature, the administrative segments of the schools said.
 
 ...
 
 [Data](articles/6d5406b0.json)
+
+[Extended Data](ext_articles/6d5406b0.ext.json)
 
 ---
 
@@ -1145,6 +1151,8 @@ Sri Lanka’s  United National Party (UNP) suffered a humiliating electoral defe
 ...
 
 [Data](articles/ac5f04cb.json)
+
+[Extended Data](ext_articles/ac5f04cb.ext.json)
 
 ---
 

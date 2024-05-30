@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-31 01:34:24**
+As of **2024-05-31 01:52:56**
 
 ## Newspaper Stats
 
-*Scraped **27,405** Articles*
+*Scraped **27,406** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 267
 bbccomsinhala | 272
 newsfirstlk | 363
 islandlk | 1,477
-economynextcom | 1,567
+economynextcom | 1,568
 dailyftlk | 1,601
 adalk | 2,340
 adaderanalk | 3,122
@@ -26,27 +26,33 @@ adaderanasinhalalk | 4,379
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,404 (100.0%) of 27,405 articles have been extended.
+27,405 (100.0%) of 27,406 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-31 (Friday)
 
-### சட்டவிரோத சிகரெட்டுகளுடன் இந்தியர் கைது
+### Indian arrest with illegal cigarettes
 
 *2024-05-31 00:57:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சட்டவிரோத-சிகரெட்டுகளுடன்-இந்தியர்-கைது/175-338184) · `ta`
 
-சட்டவிரோத சிகரெட்டுகளை இலங்கைக்கு கொண்டு வந்த இந்திய வெளிநாட்டு பிரஜை ஒருவர் கட்டுநாயக்க விமான நிலையத்தில் வைத்து கைது செய்யப்பட்டுள்ளார்.
+An Indian national was arrested at Katunayake airport in Sri Lanka for smuggling approximately 3 lakh rupees worth of illegal cigarettes. The 31-year-old suspect was detained as part of a police operation targeting drug trafficking.
 
-பொலிஸ் போதைப்பொருள் ஒழிப்புப் பிரிவின், கட்டுநாயக்க பிரிவு அதிகாரிகள் மேற்கொண்ட சுற்றிவளைப்பின் போதே சந்தேகநபர் கைது செய்யப்பட்டுள்ளார்.
+🟩
 
-31 வயதான இந்திய பிரஜை ஒருவரே இவ்வாறு சந்தேகத்தின் பேரில் கைது செய்யப்பட்டுள்ளார்.
+An Indian foreign citizen who brought illegal cigarettes to Sri Lanka has been arrested at the Katunayake airport.
 
-அவர் சட்டவிரோதமாக கொண்டு வந்த சிகரெட்டுகளின் பெறுமதி சுமார் 3 லட்சம் ரூபா என தெரியவந்துள்ளது. (a)
+The suspect has been arrested during a roundup conducted by the Katunayake Division of the Police Drug Eradication Unit.
+
+A 31 -year -old Indian citizen has been arrested on suspicion.
+
+The value of the cigarettes he brought illegally has been revealed to be about 3 lakh rupees. (A)
 
 ◼️
 
 [Data](articles/96fef550.json)
+
+[Extended Data](ext_articles/96fef550.ext.json)
 
 ---
 
@@ -505,6 +511,26 @@ According to the help of a woman who was bathing from the top of the Kelani Rive
 [Data](articles/8b262c34.json)
 
 [Extended Data](ext_articles/8b262c34.ext.json)
+
+---
+
+### Sri Lanka confident of wrapping up debt talks for IMF review in June: State Minister
+
+*2024-05-30 19:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-confident-of-wrapping-up-debt-talks-for-imf-review-in-june-state-minister-165477/) · `en`
+
+ECONOMYNEXT – Sri Lanka is confident of wrapping up debt talks in time for the International Monetary Fund to consider the next review of the island’s program, State Minister for Finance Shenan Semasinge said.
+
+“We have a strong conviction that within our timelines we can do it,” Miniter Semasinghe told reporters Thursday.
+
+Discussions on converting in-principle deals with official creditors into MOUs are progressing.
+
+“We have to open the second round of negotiations with bondholder,” he said.
+
+Meanwhile advisors of bondholders and government are also engaging he said. (Colombo/May30/2024)
+
+◼️
+
+[Data](articles/0298b6da.json)
 
 ---
 
@@ -2285,27 +2311,5 @@ ABC News cited a New York City Police Department bulletin, opens new tab saying 
 [Data](articles/2d69b50a.json)
 
 [Extended Data](ext_articles/2d69b50a.ext.json)
-
----
-
-### World Bank discusses energy transition for Sri Lanka in high-level roundtable
-
-*2024-05-30 13:33:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/World-Bank-discusses-energy-transition-for-Sri-Lanka-in-high-level-roundtable/108-283697) · `en`
-
-The World Bank organized a high-level roundtable discussion on advancing energy transitions in Sri Lanka, yesterday.
-
-Chaired by President Ranil Wickremesinghe, the discussion had been attended by senior officials of the World Bank, Asian Development Bank, Japan International Cooperation Agency, USAID, International Finance Corporation, Asian Infrastructure Investment Bank and other global corporations on renewable energy.
-
-The officials made “presentations on how Sri Lanka can adopt financial tools for cost reduction, mitigate risk of developers, structure new projects for competitive bidding, and secure technical assistance for evaluation” Power and Energy Minister Kanchana Wijesekara said on X.
-
-Moreover, case studies of renewable energy in other similar countries were analyzed to secure financial assistance for energy efficiency in Sri Lanka.
-
-At the roundtable the President outlined Sri Lanka’s vision on prosperity, renewable energy development and net zero targets.
-
-...
-
-[Data](articles/5e616a4b.json)
-
-[Extended Data](ext_articles/5e616a4b.ext.json)
 
 ---

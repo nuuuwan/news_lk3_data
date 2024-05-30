@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-30 08:34:01**
+As of **2024-05-30 08:52:57**
 
 ## Newspaper Stats
 
-*Scraped **27,211** Articles*
+*Scraped **27,213** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 363
 islandlk | 1,477
 economynextcom | 1,556
 dailyftlk | 1,601
-adalk | 2,311
-adaderanalk | 3,097
+adalk | 2,312
+adaderanalk | 3,098
 tamilmirrorlk | 3,191
 virakesarilk | 4,186
 dailymirrorlk | 4,297
@@ -26,11 +26,29 @@ adaderanasinhalalk | 4,355
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,211 (100.0%) of 27,211 articles have been extended.
+27,212 (100.0%) of 27,213 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-30 (Thursday)
+
+### Isuru Gunathilake’s “Sheysha” wins Best Dance Film at Cannes World Film Festival 2024
+
+*2024-05-30 08:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/99524/isuru-gunathilakes-sheysha-wins-best-dance-film-at-cannes-world-film-festival-2024) · `en`
+
+“Sheysha” by Sri Lankan filmmaker Isuru Gunathilake has been adjudged the winner in the ‘Best Dance Film’ category at World Film Festival in Cannes.
+
+“Sheysha”, a movie that brings to the screen Sri Lanka’s traditional dance and a father-son relationship, is directed by young Sri Lankan filmmaker Isuru Gunathilake from a script by Samantha Kumara Gamage.
+
+It is a loving story which centers around a ‘Gurunnanse’ and his beloved son who try to protect their art as their life in a politically unconscious and culturally corrupted society. “ Sheysha” is a story about people who are trying to preserve an art which uniquely remains as a remnant in human society.
+
+...
+
+[Data](articles/e883f715.json)
+
+[Extended Data](ext_articles/e883f715.ext.json)
+
+---
 
 ### Fuel leakage sends the Marine Environment Protection Authority
 
@@ -789,6 +807,18 @@ The bank made a capital call from shareholders of Rs 22 billion, offering voting
 [Data](articles/b3e729ea.json)
 
 [Extended Data](ext_articles/b3e729ea.ext.json)
+
+---
+
+### හෙට හා අනිද්දා පාසල් සාමාන‍්‍ය පරිදි
+
+*2024-05-29 22:49:28* · [`adalk`](https://www.ada.lk/breaking_news/හෙට-හා-අනිද්දා-පාසල්-සාමාන‍්‍ය-පරිදි/11-409900) · `si`
+
+හෙට සහ අනිද්දා එනම්, මැයි මස 30 සහ 31 දිනයන්හි සියලු‍ ම පාසල් සාමාන්‍ය පරිදි පැවැත්වෙන බව අධ්‍යාපන අමාත්‍යාංශය නිවේදනය කරයි.
+
+◼️
+
+[Data](articles/0bb9b9e5.json)
 
 ---
 
@@ -2243,63 +2273,5 @@ Kattankudy Police Station Superintendent G. Gajanayake said that the Kattankudy 
 [Data](articles/a29166e0.json)
 
 [Extended Data](ext_articles/a29166e0.ext.json)
-
----
-
-### American Kodiswara is ready to visit the sinking Titanic ship
-
-*2024-05-29 16:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/184763) · `ta`
-
-Billionaire Larry Connor plans to dive to the Titanic's wreckage in 2026 using a custom submarine, "The Explorer - Return to the Titanic," capable of reaching depths of 12,500 feet. Designed for scientific research and safe deep-sea exploration, the submarine can travel up to 13,000 feet in about 2 hours. This venture aims to prove the feasibility of deep-sea tourism and conduct studies on the Titanic site.
-
-🟩
-
-Larry Connor, a billionaire from Okao, USA, is designing a new submarine to see the Titanic ship sinking into the sea.
-
-Accordingly, he plans to go under the sea in 2026.
-
-He has approached Tritan Submarines, a 74 -year -old adventurer Larry Titanic.
-
-It is reported that two people can travel in the submarine designed for him.
-
-The submarine, which is about 12,500 feet deep in the sea, is said to be conducting scientific studies.
-
-Titanic is not just traveling to visit the ship. This is the subject of study. Another purpose is to prove to the world that you can safely travel to the deep sea. He said that this would be able to make a deep sea trip.
-
-It is reported that the submarine is named The Explorer - Return to the Titanic. In addition, it is reported that it can travel up to 13,000 feet in the sea in about 2 hours.
-
-...
-
-[Data](articles/3de4a96c.json)
-
-[Extended Data](ext_articles/3de4a96c.ext.json)
-
----
-
-### 2 Triangle mother who hangs upside down
-
-*2024-05-29 16:06:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/2-பிள்ளைகளை-தலைகீழாக-தொங்க-விட்ட-முக்கோண-தாய்/175-338107) · `ta`
-
-A 28-year-old woman was arrested for allegedly tying and beating an 11-year-old boy and a 2.5-year-old boy in a village near Batticaloa. She had previously converted from Hinduism to Islam and later married a Sinhalese, fathering the younger boy. The older boy was reportedly abused for smoking. The father of the younger boy filed a complaint after the woman refused to hand over their child, leading to her arrest and the boys' hospitalization.
-
-🟩
-
-The 28 -year -old woman, a 28 -year -old woman, was arrested on Tuesday night (28) for alleged that an 11 -year -old boy was tied up in a tree and was beaten by a kambal and hanging a two -and -a -half -year -old boy.
-
-The incident took place in a village in the Eravur police division of Batticaloa. Police said the two rescued boys were admitted to the hospital.
-
-First, the woman who married a Hindu formally left her husband and converted to Islam with the first child to marry a Muslim person.. They have no children.
-
-In this case, he left him and married a Sinhalese in the Puttalam area. They have a male child at the age of two and a half.
-
-After leaving him, he returns to the village of Eravur Saddam Usain with his two children.
-
-In this case, his 11 -year -old elder child caught the company as he was involved in smoking and tied him up in a tree and attacked Kambal.. Investigations revealed that he was tortured in April.
-
-...
-
-[Data](articles/6c78a7f3.json)
-
-[Extended Data](ext_articles/6c78a7f3.ext.json)
 
 ---

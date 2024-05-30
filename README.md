@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-31 03:52:34**
+As of **2024-05-31 04:04:10**
 
 ## Newspaper Stats
 
-*Scraped **27,410** Articles*
+*Scraped **27,411** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 244
 dbsjeyarajcom | 267
 bbccomsinhala | 272
 newsfirstlk | 363
-islandlk | 1,477
+islandlk | 1,478
 economynextcom | 1,568
 dailyftlk | 1,601
 adalk | 2,340
@@ -26,71 +26,97 @@ adaderanasinhalalk | 4,379
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,406 (100.0%) of 27,410 articles have been extended.
+27,410 (100.0%) of 27,411 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-31 (Friday)
 
-### உரிய வழித்தட அனுமதி இன்றி வெளி மாவட்டங்களுக்குச் சுண்ணாம்புக்கல் கொண்டு செல்ல முடியாது என மாவட்ட  அபிவிருத்திக்குழு கூட்டத்தில் தீர்மானம்
+### District Development Committee meeting at the District Development Committee
 
 *2024-05-31 03:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/184915) · `ta`
 
-உரிய வழித்தட அனுமதி இன்றி யாழ் மாவட்டத்திலிருந்து வெளி மாவட்டங்களுக்குச் சுண்ணாம்புக்கல் கொண்டு செல்ல முடியாது என மாவட்ட  அபிவிருத்திக்குழு கூட்டத்தில் தீர்மானம்.
+The District Development Committee meeting addressed unauthorized transportation of limestone from Jaffna to other districts. It emphasized adherence to rules for local use and required permits for excavation activities. Authorities were directed to prevent soil importation from Trincomalee and Batticaloa districts.
 
-யாழ் மாவட்ட அபிவிருத்திக்குக் கூட்டம்  வடக்கு மாகாண கௌரவ ஆளுநர் பி. எஸ். எம். சார்ள்ஸ், கௌரவ அமைச்சர் டக்ளஸ் தேவாநந்தா ஆகியோரின் இணைத் தலைமைத்துவத்தின் கீழ் 30 ஆம் திகதி வியாழக்கிழமை மாவட்ட செயலகத்தின் கேட்போர் கூடத்தில் நடைபெற்றது.
+🟩
 
-யாழ் மாவட்டத்தில் அகழப்படும் சுண்ணாம்புக் கற்களை எவ்வித அனுமதியும் இன்றி வெளி மாவட்டங்களுக்குக் கொண்டு செல்லப்படுகின்றமை தொடர்பில் முன்வைக்கப்பட்ட குற்றச்சாட்டுக்கு அமைய, அபிவிருத்தி குழுக் கூட்டத்தில் கலந்துகொண்ட துறைசார் அதிகாரிகள் பல்வேறு விடயங்களை முன்வைத்தனர்.
+At the District Development Committee meeting, the District Development Committee decision cannot be transported from the Jaffna district to outer districts without the proper route permission.
+
+Jaffna District Development Meeting. S.. M.. Charles and Hon. Minister Douglas Devananda were held at the auditorium of the District Secretariat on Thursday 30th.
+
+The Department of Development Committee at the Development Committee, on the allegations made on the allegations that excavated limestone stones in the Jaffna district were being transported to outside districts without any permission, presented various issues.
 
 ...
 
 [Data](articles/d9da0f73.json)
 
+[Extended Data](ext_articles/d9da0f73.ext.json)
+
 ---
 
-### மன்னாரிலிருந்து யாழ்ப்பாணத்திற்கு கொண்டு செல்லப்பட்ட 82 கிலோ ஆமை இறைச்சியுடன் இருவர் கைது
+### Two persons arrested with 82 kg of turtle meat transported from Mannar to Jaffna
 
 *2024-05-31 03:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/184913) · `ta`
 
-மன்னாரிலிருந்து யாழ்ப்பாணத்திற்குச் சட்ட விரோதமான முறையில் கொண்டு செல்லப்பட்ட ஒரு தொகுதி கடல் ஆமை இறைச்சிகளுடன் 2 சந்தேக நபர்கள் இன்று 30 ஆம் திகதி வியாழக்கிழமை மதியம் பள்ளமடு பிரதான வீதியில் வைத்து மன்னார் குற்றத்தடுப்பு பிரிவு பொலிஸாரினால் கைது செய்யப்பட்டுள்ளனர்.
+Two individuals were arrested by Mannar police for transporting 82 kg of sea turtle meat from Mannar to Jaffna. The arrest was made based on intelligence received by the Army Intelligence Department.
 
-இவர்களிடம் இருந்து 82 கிலோ கடலாமை இறைச்சி  பொதி செய்யப்பட்ட நிலையில் மீட்கப்பட்டுள்ளது.
+🟩
 
-மீன்கள் பொதி செய்து கொண்டு செல்லும் போர்வையில் குறித்த கடலாமை பொதி செய்யப்பட்டு வாகனத்தில் கொண்டு செல்லப்பட்ட நிலையில் இராணுவ புலனாய்வுத் துறைக்குக் கிடைத்த  தகவலின் அடிப்படையில் மன்னார் குற்றத்தடுப்பு பிரிவு பொலிஸார் பள்ளமடு வீதியில் வைத்து குறித்த வாகனத்தைச் சோதனை செய்த போது குறித்த கடலாமை இறைச்சிகள் மீட்கப்பட்டுள்ளதோடு அதை கொண்டு சென்ற இரண்டு நபர்களை பொலிஸார் கைது செய்துள்ளனர்.
+Two suspects have been arrested by the Mannar Criminal Investigation Division (Mannar Crime) police on Thursday afternoon on Thursday afternoon with a seaside turtle meat.
+
+82 kg of seas have been recovered from them.
+
+Based on information received by the Army Intelligence Department on the basis of information received by the Army Intelligence Agency, the police have arrested two persons who have taken the cafeteria.
 
 ◼️
 
 [Data](articles/790761eb.json)
 
+[Extended Data](ext_articles/790761eb.ext.json)
+
 ---
 
-### இந்தியா இலங்கை ஆதினங்களின் சுவாமிகள் முதல் முதல் இணைந்து இரு நாடுகளின் புனித நதிகளின் தீர்த்தங்களுடன்; ஈழத்துத் திருச்செந்தூர் ஆலைய மஹா கும்பாபிஷேகம்
+### The Swamis of the Sri Lankan Adinas from the first part of the holy rivers of the two countries;The Eelam Thiruchendur Cultural Maha Kumbabhishekam
 
 *2024-05-31 03:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/184912) · `ta`
 
-இலங்கையில் முதல் முதல் மட்டக்களப்பு கல்லடி ஈழத்துத் திருச்செந்தூர் முருகன் ஆலைய மஹா கும்பாபிஷேகம் எதிர்வரும் 20ம் இந்தியாவின் புனித கங்கைகளின் தீர்த்தம் இலங்கையிலுள்ள புனித கங்கைகளின் தீர்த்தங்கள் கொண்டு இந்தியாவின் திருக்கயிலாய பரம்பரை பேரூர் ஆதின குருமா சந்நிதான கயிலைப்புனிதர் முதுமுனைவர் சீர்வாளர் சீர் சாந்தலிங்க மருதாச்சல அடிகள் தலைமையில் இந்தியா. இலங்கையிலுள்ள பல ஆதீனங்களின்   சுவாமிகள் ஒன்றிணைந்து திருநெறிய தெய்வத்தமிழ் திருக்குட நன்னீராட்டு பெருவிழா இடம்பெறவுள்ளது என அகில பாரத சந்நியாசிகள் சங்க ஒருங்கிணைப்பாளர் சுவாமி வேதசந்த ஆனந்த ஆச்சாரியார் பக்த அடியார்கள் அழைப்பு விடுத்துள்ளார்.
+Swami Vedasanda Acharya, leading the All India Consultants Association, advocates for the Tirukkuda Tamil Thirukkuda Freedom Festival in Sri Lanka, marking the arrival of the holy Ganges' first 20th river and the cultural significance of the Eelam Thiruchendur Maha Kumbabhishekam.
+
+🟩
+
+The first 20th holy Ganges of India's holy Ganges in Sri Lanka. The Swami Vedasanda Acharya devotees of the All India Consultants Association, Swami Vedasanda Acharya, have called for the celebration of the Tirukkuda Tamil Thirukkuda Freedom Festival in Sri Lanka.
 
 ◼️
 
 [Data](articles/c855dc03.json)
 
+[Extended Data](ext_articles/c855dc03.ext.json)
+
 ---
 
-### உலக பரா சம்பியன்ஷிப்பில் பதக்கங்கள் வென்ற சமித்த, இந்திக்க, பாலித்த ஆகியோரை டயலொக் கௌரவித்தது
+### Dialog honored Samitha, Indika and Palitha in the World Para Championships
 
 *2024-05-31 03:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/184911) · `ta`
 
-ஜப்பானின் கோபே விளையாட்டரங்கில் நடைபெற்ற உலக பரா மெய்வல்லுநர் சம்பியன்ஷிப்பில் பதக்கங்கள் வென்ற இலங்கை பரா மெய்வல்லுநர்களான சமித்த துலான், இந்திக்க கமகே, பாலித்த பண்டார ஆகியோரை டயலொக் ஆசிஆட்டா நிறுவனம் சின்னங்கள் வழங்கி பாராட்டி கௌரவித்தது.
+Samitha, Indika, and Palitha were celebrated for their achievements in the World Para Athletics Championships in Japan. Palitha Bandara won a bronze medal in the F42 Classification Division. Dialog Acida PLC, sponsor of the National Paralympic Committee since 2000, expressed pride in supporting Para athletes and congratulated the medal winners. Despite Dinesh Priyantha's disqualification due to incorrect classification, the Paralympic group acknowledged his previous medals and his decision to retire.
 
-ஆண்களுக்கான F64 வகைப்படுத்தல் பிரிவு ஈட்டி எறிதலில் 66.49 மீற்றர் தூரத்தைப் பதிவு செய்த சமித்த துலான்
+🟩
 
-அப் போட்டியில் F42, F43, F44, F64 ஆகிய நான்கு வகைப்படுத்தல் பிரிவுக்குட்பட்ட பரா மெய்வல்லுநர்கள்போட்டியிட்டனர்.
+Sri Lankan Para Athletics who won medals at the World Para Athletics Championships held at Japan's Gobe Stadium
 
-ஆண்களுக்கான F63 வகைப்படுத்தல் பிரிவு குண்டு எறிதல் போட்டியில் F42 வகைப்படுத்தல் பிரிவைச் சேர்ந்த பாலித்த பண்டார வெண்கலப் பதக்கத்தை வென்றெடுத்தார்.
+F64 Classification Division for Men
+
+In the Up Competition, F42, F43, F44 and F64 were competed in the Four Classification category.
+
+Palitha Bandara won the bronze medal of the F42 Classification Division in the Men's F63 Classification Division bomb throwing competition.
+
+Speaking at the event, Dialog Acida PLC Group Chief Minister Asanka Priyadarshana said, “Dialog Acida Company sponsorship for personal disabled people participating in the Para Games.. Dialog Acida has been giving full support to the National Paralympic Committee since 2000. We are always dedicated to promoting Para athletes. We are proud to give the medal winners at the World Athletics Championships. ”
 
 ...
 
 [Data](articles/ff7a23c3.json)
+
+[Extended Data](ext_articles/ff7a23c3.ext.json)
 
 ---
 

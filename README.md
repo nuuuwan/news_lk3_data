@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-30 08:20:26**
+As of **2024-05-30 08:34:01**
 
 ## Newspaper Stats
 
@@ -26,51 +26,65 @@ adaderanasinhalalk | 4,355
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,208 (100.0%) of 27,211 articles have been extended.
+27,211 (100.0%) of 27,211 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-30 (Thursday)
 
-### ඉන්ධන කාන්දුවූ නෞකාව සමුද්‍රීය පරිසර ආරක්ෂණ අධිකාරිය භාරයට ගනී
+### Fuel leakage sends the Marine Environment Protection Authority
 
 *2024-05-30 07:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197171) · `si`
 
-කොළඹ වරායේ නැංගුරම්ලා තිබිය දී ඉන්ධන කාන්දුවක් සිදුවූ නෞකාව සිය භාරයට ගෙන ඇති බව සමුද්‍රීය පරිසර ආරක්ෂණ අධිකාරිය පවසයි.
+The Marine Environment Protection Authority (MEPA) is investigating a fuel leak incident involving a ship anchored at the Colombo Port. Legal action has been initiated against the ship's company and its insurer. The MEPA aims to compensate for damages under its act, following reports of the spill. The ship owner has agreed to pay compensation, and the Colombo Magistrate's Court has banned the Indian vessel's captain from leaving the country, acting on a request from the Colombo Port Police.
 
-එහි ප්‍රකාශකයෙකු සඳහන් කළේ අදාළ නෞකාවෙන් සිදුවූ ඉන්ධන කාන්දුව සම්බන්ධයෙන් එම නෞකාව අයත් සමාගමට සහ රක්ෂණ සමාගමට එරෙහිව නීතිමය ක්‍රියාමාර්ග ගෙන ඇති බවය.
+🟩
 
-සමුද්‍රීය පරිසර ආරක්ෂණ අධිකාරි පනත යටතේ අදාළ සිදුවීම සම්බන්ධයෙන් වන්දි මුදලක් ලබාගැනීමට කටයුතු කරමින් සිටින බව සඳහන් ය.
+The Marine Environment Protection Authority says that the ship has taken place in the Colombo Port with an anchor of the Colombo Port.
 
-අලුත්වැඩියා කටයුත්තක් සඳහා පසුගියදා කොළඹ වරායට පැමිණි ඉන්දීය සමාගමකට අයත් නෞකාවකින් ඉන්ධන කාන්දුවක් සිදුවන බවට තොරුතුරු වාර්තා වී තිබුණි.
+A spokesman said that legal action has been taken against the company and insurance company to the ship and insurance relating to the fuel leak.
 
-ඒ අනුව සමුද්‍රීය පරිසර ආරක්ෂණ අධිකාරිය විසින් ඒ සම්බන්ධයෙන් විශේෂ විමර්ශනයක් සිදුකර ඇති අතර එහිදී හයිඩ්‍රොලික් තෙල් කාන්දුවීමක් නෞකාවෙන් සිදුවී ඇති බවට අනාවරණය කරගෙන තිබේ.
+It is said that action is being taken to pay compensation on the incident under the Marine Environment Protection Authority Act.
 
-නෞකාව අයත් සමාගම ද අදාළ වරද පිළිගෙන ඇති අතර ඒ සඳහා වන්දි මුදලක් ලබාදීමට එකඟතාව පළ‍කර ඇති බව සමුද්‍රීය පරිසර ආරක්ෂණ අධිකාරිය සඳහන් කළේය.
+For a repair work, information was reported that fuel was taken place by a ship belonging to the Port of Colombo recently.
 
-මේ අතර එම ඉන්දීය නෞකාවේ කපිතාන්වරයාට රටින් පිටුවීම වළක්වාලමින් විදෙස් ගමන් තහනමක් පැනවීමට කොළඹ මහෙස්ත්‍රාත් අධිකරණය පියවර ගෙන තිබේ.
+Accordingly, the Marine Environment Protection Authority has conducted a special investigation into the incident.
 
-...
+The company owned the ship, which has agreed to pay compensation and has agreed to pay compensation.
+
+Meanwhile, the Colombo Magistrate's Court has taken steps to impose overseas-related court to prevent the captain of the Indian vessel.
+
+The ban was imposed on a request made by the Colombo Port Police.
+
+◼️
 
 [Data](articles/7efdfb20.json)
 
+[Extended Data](ext_articles/7efdfb20.ext.json)
+
 ---
 
-### කොළඹ කුණු ඇළක කාන්තා මළසිරුරක්
+### Women's body in a garbage stream of Colombo
 
 *2024-05-30 07:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197170) · `si`
 
-කොළඹ ප්‍රදේශයේ කුණු ඇළක තිබී කාන්තා මළසිරුරක් හමුවී ඇතැයි පොලීසිය පවසයි.
+A woman's body, aged 45-50, discovered in Colombo's Grandpass area, her identity unknown. Found yesterday, she's now at the Colombo National Hospital.
 
-ග්‍රෑන්ඩ්පාස් පොලිස් වසමේ ස්ටේස්පුර ප්‍රදේශයේ මෙලෙස කාන්තා මළසිරුරක් ඇති බවට ඊයේ (29) දහවල් පොලීසියට ලද ඇමතුමක් අනුව එය සොයාගෙන තිබුණි.
+🟩
 
-ඇයගේ අනන්‍යතාව මෙතෙක් හෙළිවී නොමැති අතර මෘතශරීරය කොළඹ ජාතික රෝහලේ තැන්පත් කර ඇත.
+A bodies of a female bodies found in Colombo area in Colombo.
 
-මියගොස් ඇත්තේ අවුරුදු 45ත් 50ත් අතර වයසේ පසුවන උස අඩි 4යි අඟල් 09ක් පමණ වන තැනැත්තියකි.
+It was found yesterday (29) at the Grandpass area in the Grandpass area.
+
+Her identity has not yet been revealed and the body has been placed at the Colombo National Hospital.
+
+The deceased has been identified as between 45 and 50 years old and about 9 feet.
 
 ◼️
 
 [Data](articles/ae0c63f0.json)
+
+[Extended Data](ext_articles/ae0c63f0.ext.json)
 
 ---
 

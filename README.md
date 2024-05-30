@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-30 11:53:47**
+As of **2024-05-30 12:06:02**
 
 ## Newspaper Stats
 
-*Scraped **27,254** Articles*
+*Scraped **27,258** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,75 @@ islandlk | 1,477
 economynextcom | 1,560
 dailyftlk | 1,601
 adalk | 2,315
-adaderanalk | 3,103
+adaderanalk | 3,105
 tamilmirrorlk | 3,197
 virakesarilk | 4,194
 dailymirrorlk | 4,308
-adaderanasinhalalk | 4,357
+adaderanasinhalalk | 4,359
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,254 (100.0%) of 27,254 articles have been extended.
+27,254 (100.0%) of 27,258 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-30 (Thursday)
+
+### World No Tobacco Day 2024: Sri Lanka’s tobacco use declines amid global e-cigarette surge
+
+*2024-05-30 11:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/99532/-world-no-tobacco-day-2024-sri-lankas-tobacco-use-declines-amid-global-e-cigarette-surge) · `en`
+
+The Alcohol and Drug Information Centre (ADIC) reports that nearly 50 deaths occur daily in Sri Lanka due to smoking, totaling approximately 20,000 deaths annually.
+
+In a statement, ADIC highlighted the importance of World No Tobacco Day, observed tomorrow, May 31. The theme of World No Tobacco Day 2024 is “Protecting Children from Tobacco Industry Interference.”
+
+The ADIC noted that cigarette consumption among young people in Sri Lanka is rapidly decreasing, with an overall national decline of 9.1%. Tobacco company reports indicate that tobacco production in the country has decreased by around 19%, according to the ADIC.
+
+Despite these positive trends, ADIC states that approximately 1.5 million people in Sri Lanka still smoke tobacco. Additionally, multinational tobacco companies (MNCs) are employing various tactics to attract the younger generation and children to tobacco use, it claims.
+
+...
+
+[Data](articles/1a2801d2.json)
+
+---
+
+### US to boycott UN tribute to Iran leader killed in helicopter crash
+
+*2024-05-30 11:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/99531/us-to-boycott-un-tribute-to-iran-leader-killed-in-helicopter-crash) · `en`
+
+The United States will boycott a United Nations tribute on Thursday to Iranian President Ebrahim Raisi, who was killed earlier this month in a helicopter crash, a U.S. official said.
+
+The 193-member U.N. General Assembly traditionally meets to pay tribute to any world leader who was a sitting head of state at the time of their death. The tribute will feature speeches about Raisi.
+
+“We won’t attend this event in any capacity,” a U.S. official, speaking on condition of anonymity, told Reuters. The U.S. boycott has not previously been reported.
+
+Iran’s mission to the United Nations in New York declined to comment.
+
+Raisi, a hardliner who had been seen as a potential successor to Supreme Leader Ayatollah Ali Khamenei, was killed when his helicopter came down in poor weather in mountains near the Azerbaijan border on May 19.
+
+...
+
+[Data](articles/4a7e1647.json)
+
+---
+
+### ටෙස්ට් ක්‍රිකට් බේරාගත් දෙදෙනා
+
+*2024-05-30 11:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197175) · `si`
+
+මියැදෙමින් තිබූ ටෙස්ට් ක්‍රිකට් ක්‍රීඩාවට පණ පෙවීම සම්බන්ධයෙන් තමා පුද්ගලයින් දෙදෙනෙක්ට විශේෂ ප්‍රණාමයක් පුද කරන බව හිටපු සුපිරි ක්‍රිකට් ක්‍රීඩක ඉයන් බෝතම් පවසයි.
+
+ඔහු පවසන්නේ එංගලන්ත ටෙස්ට් ක්‍රිකට් පුහුණුකරු බ්‍රෙන්ඩන් මැකලම් සහ බෙන් ස්ටොක්ස් හඳුන්වා දුන් ක්‍රීඩා විලාසය හේතුවෙන් නැවතත් ටෙස්ට් ක්‍රිකට් සඳහා ප්‍රේක්ෂක අවධානය යොමුවී ඇති බවය.
+
+එබැවින් ටෙස්ට් ක්‍රිකට් ක්‍රීඩාව රැකගැනීම සඳහා ඔවුන් දෙදෙනා ලබාදෙන දායකත්වය අගය කළ යුතු බව බෝතම් පැවසීය.
+
+◼️
+
+[Data](articles/85fc4862.json)
+
+---
 
 ### Landslide alert to 6 districts - National Building and Research Institute
 
@@ -99,6 +153,26 @@ In the 15 years since 2009, the Tamil people and the Tamil nationalist politicia
 [Data](articles/1e9981db.json)
 
 [Extended Data](ext_articles/1e9981db.ext.json)
+
+---
+
+### ගංගා ගැන අනතුරු ඇඟවීමක්
+
+*2024-05-30 10:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197174) · `si`
+
+මධ්‍යම කඳුකරයට ඇදහැලෙන අධික වැසි හේතුවෙන් මහවැලි ගඟේ ජල මට්ටම ඉහළ ගොස් ඇති බව වාරිමාර්ග දෙපාර්තමේන්තුව පවසයි.
+
+එහි ජල විද්‍යා හා ආපදා කළමනාකරණ අංශයේ අධ්‍යක්ෂ, ඉංජිනේරු එස්. පී. සී. සුගීෂ්වර මහතා පවසන්නේ මහවැලි ගඟේ ඉහළ ප්‍රදේශ හා අතු ගංගාවල ජල මට්ටම් ඉහළ ගොස් තිබීම හේතුවෙන් අතු ගංගා හරහා ගමන් කිරීම, දියනෑම අවදානම් වියහැකි බවය.
+
+මේ අතර අද (30) දිනයේත් ගිංගඟ, කළු ගඟ, නිල්වලා ගඟ යන ගංගාවල ජල මට්ටම් ඉහළ ගොස් තිබේ.
+
+තවදුරටත් වැසි ඇදහැලුණ හොත් එම ගංගා ගංවතුර තත්ත්වයක් දක්වා ඉහළ යෑමේ අවදානමක් පවතින බවද දැනුම්දෙයි.
+
+පවතින අයහපත් කාලගුණ තත්ත්වය මත නොසිතූ ලෙස ගංගාවල ජල මට්ටම ඉහළ යන බැවින් ජනතාව වඩාත් සැලකිලිමත් වියයුතු බවද වාරිමාර්ග දෙපාර්තමේන්තුව දැනුම්දෙයි.
+
+...
+
+[Data](articles/42bcabd7.json)
 
 ---
 
@@ -2163,75 +2237,5 @@ Two fire trucks have been deployed by the CMC Fire Services Department to douse 
 [Data](articles/d5542087.json)
 
 [Extended Data](ext_articles/d5542087.ext.json)
-
----
-
-### Ranil Wickremesinghe’s Promises: The Parrot That Waited In Vain For The Fruit To Ripen
-
-*2024-05-29 19:37:09* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/ranil-wickremesinghes-promises-the-parrot-that-waited-in-vain-for-the-fruit-to-ripen/) · `en`
-
-Last Friday (24 May 2024) saw my wife and me attending the Opening Ceremony of Jaffna University’s Clinical Training and Research Block behind the CEB facilities on Hospital Road. It was a welcome development. What was wrong, however, is that almost every speaker tried to root for the President’s re-election at the hustings in or around October.
-
-...
-
-[Data](articles/bdaf17dd.json)
-
-[Extended Data](ext_articles/bdaf17dd.ext.json)
-
----
-
-### Historic Crimes Of The Chauvinistic Left
-
-*2024-05-29 19:34:54* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/historic-crimes-of-the-chauvinistic-left/) · `en`
-
-Part1 – Did the Sri Lankan military aid Tamil youth in escaping from Indian troops?
-
-One evening in 1988, when encroaching darkness seemed momentarily halted, in the gentle embrace of the emerging moonlight, a car was driving towards Palali airport. The unsuspecting driver looked very innocent. The passenger in the back seat was wearing the same expression. They spoke no words, not even the faintest whisper of sound escaped their lips. The turmoil brewing within was hidden by the silence that enveloped the moving vehicle as the only comforting shroud.
-
-...
-
-[Data](articles/11e15863.json)
-
-[Extended Data](ext_articles/11e15863.ext.json)
-
----
-
-### Mother arrested for attacking a 7 -year -old boy upside down
-
-*2024-05-29 19:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/184816) · `ta`
-
-A 35-year-old woman was arrested after allegedly attacking a 7-year-old boy in Eravur. The incident occurred on Tuesday, leading to the arrest of her son, a 24-year-old, and two others on Wednesday. The victims were hospitalized and later transferred to a child care center.
-
-🟩
-
-A 35 -year -old boy's mother was arrested by the Eravur police in connection with the attack on a 7 -year -old boy in the village of Eravur on Tuesday 28th.
-
-The Eravur police said that the woman's 24 -year -old Saler and the Eravur police were arrested by the Eravur police on Wednesday, 29th and the Magistrate has ordered the two men to be interrogated till the 12th of this month.
-
-The Eravur police said that the two boys who were admitted to the hospital were ordered to be handed over to the Eravur Aisha Lu Abubakar Siddique Child Care Center.
-
-◼️
-
-[Data](articles/7ee9fa7e.json)
-
-[Extended Data](ext_articles/7ee9fa7e.ext.json)
-
----
-
-### Our pleas ignored but we will not give up: Cardinal
-
-*2024-05-29 19:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Our-pleas-ignored-but-we-will-not-give-up-Cardinal/108-283631) · `en`
-
-Colombo, May 29 (Daily Mirror) -  The request by the church to conduct a proper investigation into the Easter Sunday bomb attacks is being ignored by the authorities. But they will renew their struggle and will fight for justice, Archbishop of Colombo Cardinal Malcolm Ranjith said.
-
-Cardinal Ranjith made this remark after paying his last respects to Tilina Harashni who died on Monday after suffering for five years due to  the injuries she suffered as a result of the Easter Sunday bombings in 2019.
-
-"We pray for Tilina who underwent immense suffering for five years after the bomb attack," the Cardinal added.
-
-◼️
-
-[Data](articles/9df663cf.json)
-
-[Extended Data](ext_articles/9df663cf.ext.json)
 
 ---

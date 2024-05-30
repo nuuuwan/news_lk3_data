@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-30 12:51:56**
+As of **2024-05-30 13:03:47**
 
 ## Newspaper Stats
 
-*Scraped **27,269** Articles*
+*Scraped **27,272** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,41 @@ islandlk | 1,477
 economynextcom | 1,560
 dailyftlk | 1,601
 adalk | 2,318
-adaderanalk | 3,105
+adaderanalk | 3,107
 tamilmirrorlk | 3,202
 virakesarilk | 4,194
 dailymirrorlk | 4,311
-adaderanasinhalalk | 4,359
+adaderanasinhalalk | 4,360
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,261 (100.0%) of 27,269 articles have been extended.
+27,269 (100.0%) of 27,272 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-30 (Thursday)
+
+### අධිකරණයට අපහාස කළ බවට මෛත්‍රී ට චෝදනාවක්
+
+*2024-05-30 12:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197177) · `si`
+
+අධිකරණයට අපහාස කළේ යැයි චෝදනා කරමින් හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතාට එරෙහිව අභියාචනාධිකරණය හමුවේ පෙත්සමක් ගොනු කර තිබේ.
+
+ශ්‍රී ලංකා නිදහස් පක්ෂයේ විධායක සභිකයකු වන මොන්ටේගු සරත්චන්ද්‍ර මහතා විසින් පෙත්සම ඉදිරිපත් කර ඇත.
+
+පෙත්සම අද අභියාචනාධිකරණයේ සභාපති විනිසුරු නිශ්ශංක බන්දුල කරුණාරත්න සහ ෂශී මහේන්ද්‍රන් යන විනිසුරු මඩුල්ල ඉදිරියේ කැඳවනු ලැබීය.
+
+එහිදී මෙම පෙත්සමට අදාළව කරුණු තහවුරු කිරීම සඳහා වගඋත්තරකාර මෛත්‍රීපාල සිරිසේන මහතා වෙත නොතීසි යැවීමට පියවර ගන්නා ලෙසත් අධිකරණය විසින් පෙත්සම්කාර පාර්ශ්වයේ නීතිඥවරයාට නියෝග කළේය.
+
+ශ්‍රී ලංකා නිදහස් පක්ෂයේ සභාපතිවරයා වශයෙන් කටයුතු කිරීම වළක්වාලමින් කොළඹ දිසා අධිකරණය විසින් අතුරු තහනම් නියෝගයක් නිකුත් කර තිබියදී එය උල්ලංඝනය වන ආකාරයෙන් කටයුතු කිරීම තුළින් අධිකරණයට අපහාස කළේ යැයි චෝදනා කොට හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතාට එරෙහිව මෙම පෙත්සම ඉදිරිපත් කර තිබේ.
+
+◼️
+
+[Data](articles/355d5bcb.json)
+
+---
 
 ### Sri Lanka Electricity Bill to be taken up for debate in Parliament next week
 
@@ -48,37 +68,95 @@ The Sri Lanka Electricity Bill includes proposed electricity sector reforms and 
 
 [Data](articles/a2331e3d.json)
 
+[Extended Data](ext_articles/a2331e3d.ext.json)
+
 ---
 
-### மீன்களின் விலை எகிறியது
+### New York boosts T20 Cricket World Cup security after reported threats
 
-*2024-05-30 12:20:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீன்களின்-விலை-எகிறியது/175-338146) · `ta`
+*2024-05-30 12:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/99534/new-york-boosts-t20-cricket-world-cup-security-after-reported-threats) · `en`
 
-அம்பாறை மாவட்டத்தின் பெரிய நீலாவணை, கல்முனை ,  மருதமுனை,பாண்டிருப்பு, பெரியநீலாவணை, நிந்தவூர் ,அட்டாளைச்சேனை, ஒலுவில், அக்கரைப்பற்று, தம்பிலுவில், பொத்துவில், பகுதிகளில் உள்ள   மீனவர்கள் மற்றும் கடல்சார் ஊழியர்கள் ரிமால் புயல் தொடர்பில்   அவதானமாக செயற்படுமாறு அறிவுறுத்தப்பட்டுள்ளனர்.
+New York will boost security for the upcoming T20 Cricket World Cup in June, the governor said on Wednesday, after reports of threats especially related to the India-Pakistan match.
 
-பலத்த காற்று மற்றும் கடல் ​கொந்தளிப்பு தொடர்பில் அண்மைக்காலமாக  வளிமண்டலவியல் திணைக்களம்   எச்சரிக்கை விடுத்துள்ளமை குறிப்பிடத்தக்கது.
+“In preparation for the @cricketworldcup, my team has been working with federal & local law enforcement to keep attendees safe,” Governor Kathy Hochul wrote on X, adding there was “no credible threat at this time”.
 
-இதனால் மீன்களின் விலைகள் அதிகரித்துள்ளதுடன் சந்தைகளும் மீன்கள் இன்மையால் மூடி காணப்படுகின்றன.குறித்த மாவட்டத்தின் பெரிய நீலாவணை  முதல் பொத்துவில்  பகுதி வரையுள்ள கடற்பரப்பு   உள்ளிட்ட கடற்பிராந்தியத்தில் மீன்களின் பிடிபாடு பெருமளவில் குறைவடைந்துள்ளது.
+ABC News cited a New York City Police Department bulletin, saying the tournament and its related events in New York City could be viewed by extremists as an opportunity to commit acts of violence or disruption.
+
+“Recent pro-ISIS propaganda which specifically referenced the upcoming India-Pakistan match at this major event ... raises concerns and reinforces the need for heightened vigilance” among security partners, the bulletin is quoted as saying by ABC News.
 
 ...
 
-[Data](articles/21989a82.json)
+[Data](articles/4e8c9bf7.json)
 
 ---
 
-### ஆசிரியர்கள், அதிபர்கள் சுகயீன விடுமுறை
+### Met. Dept. issues ‘red alert’ for strong winds and rough seas
+
+*2024-05-30 12:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/99533/met-dept-issues-red-alert-for-strong-winds-and-rough-seas) · `en`
+
+The Department of Meteorology has issued a ‘Red’ alert for strong winds and rough seas for the naval and fishing communities in the Arabian Sea and in the Bay of Bengal.
+
+Very strong winds of 60-70 kmph, accompanied by heavy rainfalls and very rough seas, are expected to continue over the sea areas around the island, the South-west and South-east Arabian Sea, and the South-west Bay of Bengal due to active south-west monsoonal conditions, the department warned.
+
+Furthermore, the department advised the naval and fishing communities not to venture into the sea areas marked in red on the map until further notice. Those already in these regions should return to the coast or move to safer areas immediately.
+
+The general public, along with the fishing and naval communities, are urged to take precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+...
+
+[Data](articles/b4773a01.json)
+
+---
+
+### The price of fish rose
+
+*2024-05-30 12:20:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீன்களின்-விலை-எகிறியது/175-338146) · `ta`
+
+Due to the Rimal Storm, fish prices have surged in the Ampara district, affecting fishermen and maritime workers. The Department of Meteorology warns of strong winds and sea turbulence, contributing to the market's fish shortage. Prices for various types of fish, including effect, bark fish, shrimp, and shark fish, have risen significantly, with some selling for triple the coastal area prices. Additionally, there's a scarcity of riverbank fish, exacerbating the situation.
+
+🟩
+
+Fishermen and maritime workers in the Ampara district have been advised to act on the Rimal Storm in the Ampara District.
+
+It is noteworthy that the Department of Meteorology has recently warned of strong winds and sea turbulence.
+
+The fish prices have increased and the markets are covered with lack of fish.
+
+In addition, one kilogram of effect is 1600 rupees, bark fish is 2400 rupees, shrimp is 1800 rupees per kg, a kilo of fish is 1000 rupees, shark fish is 2500 rupees per kg.The price of other retail fish is also increasing.
+
+Accordingly, the prices of fish have been increased due to the decline in the fish markets in the Kalmunai Sainthamaruthu areas and other Nintavur malaikkadu fish markets.
+
+It is noteworthy that fish are being sold in these markets with three times the increase in prices sold in the coastal areas.
+
+At the same time, there is a shortage of river banks in the area.
+
+◼️
+
+[Data](articles/21989a82.json)
+
+[Extended Data](ext_articles/21989a82.ext.json)
+
+---
+
+### Teachers, principals sick holiday
 
 *2024-05-30 12:06:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆசிரியர்கள்-அதிபர்கள்-சுகயீன-விடுமுறை/175-338141) · `ta`
 
-நாடளாவிய ரீதியில் இரண்டு நாள் சுகயீன விடுமுறைப் போராட்டத்தை இன்று  முதல் ஆரம்பிக்கவுள்ளதாக தேசிய ஆசிரியரின் சக்தி தீர்மானித்துள்ளது.
+National teachers' unions in Sri Lanka have launched a two-day sick leave protest nationwide to pressure the government into resolving salary disputes affecting school principals and teachers. The move was announced by Joseph Stalin, Secretary of the Sri Lanka Teachers' Association, and Mahinda Jayasinghe, General Secretary of the Sri Lanka Teachers Association, emphasizing their commitment to the cause despite not participating in the strike themselves.
 
-பாடசாலை அதிபர்கள், ஆசிரியர்களின் சம்பள முரண்பாடுகளை தீர்க்க அரசாங்கத்தை வலியுறுத்தியே தேசிய ஆசிரியரின் சக்தி இதை முன்னெடுக்கவுள்ளது.
+🟩
 
-இந்நிலையில் இலங்கை ஆசிரியர்களின் சங்கச் செயலாளர் ஜோசப் ஸ்டாலின், இலங்கை ஆசிரியர் சேவைகள் சங்க பொதுச் செயலாளர் மஹிந்த ஜயசிங்க ஆகியோர் தாங்கள் இன்று ஆரம்பமாலும் இந்த இரண்டு நாள் போராட்டத்தில் ஈடுபடவில்லை எனக் கூறியுள்ளனர்.
+The power of the national teacher has decided to launch a two -day sick holiday struggle across the country from today.
+
+The power of the national teacher will carry out this with the government to urge the government to resolve the salary conflicts of school principals and teachers.
+
+Joseph Stalin, Secretary of the Sri Lanka Teachers' Association and the General Secretary of the Sri Lanka Teachers Association, Mahinda Jayasinghe, said they were not engaged in this two -day struggle today.
 
 ◼️
 
 [Data](articles/154b6198.json)
+
+[Extended Data](ext_articles/154b6198.ext.json)
 
 ---
 
@@ -152,6 +230,8 @@ A statement read: "A fatal incident took place at Schiphol today during which a 
 
 [Data](articles/2c72f8f5.json)
 
+[Extended Data](ext_articles/2c72f8f5.ext.json)
+
 ---
 
 ### US to boycott UN tribute to Iran leader killed in helicopter crash
@@ -176,41 +256,59 @@ Raisi, a hardliner who had been seen as a potential successor to Supreme Leader 
 
 ---
 
-### மூக்குத்தி குத்தியோருக்கு மட்டும்
+### Nose
 
 *2024-05-30 11:42:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மூக்குத்தி-குத்தியோருக்கு-மட்டும்/175-338140) · `ta`
 
-நகைகள் என்றால் ஆசையே இல்லாத பெண்கள் இருக்கவே மாட்டார்கள். அதிலும், தங்க நகைகள் என்றால் சொல்லவா வேண்டும். பிறந்த நாள் முதல், ஆடி 18 வரையும் நகைகள்தான் கேட்பார்கள் பரிசாக,
+People gather at bus stations, hospitals, and schools sharing tales of desire, laughter, tears, and confusion. On Thursday morning, individuals wait outside the Colombo National Hospital lab for blood tests, speaking in Sinhala and Tamil. Some faint due to hunger before testing. A conversation about a woman's missing nose piercing leads to discussions on trust and medical ethics amidst the queue.
 
-அவ்வாறான கதைகளை கேட்க, பேருந்து நிலையங்கள், வைத்தியசாலைகள் மற்றும் பாடசாலைகளுக்கு முன்பாக நின்றுக்கொண்டிருக்க வேண்டும்.  வியக்கத்தக்க பல கதைகள் கிடைக்கும். நினைத்து நினைத்து சிரிப்பதா? அழுவதா? என மனம் தடுமாறி போய்விடும்
+🟩
 
-வியாழக்கிழமை (30) நேரம் காலை 8 மணியிருக்கும் பலரும் வரிசையாக நின்றுக்கொண்டிருந்தனர். அவர்கள் அனைவரினதும் கைகளில் வண்ணவண்ண குப்பிகள் இருந்தன. இன்னும் சிலர் அமர்ந்திருந்தனர்.
+Jewelry will not be women who do not have desire. Even if gold jewelry should be said. From birthday, Audi 18
 
-நாற்காலிகளில் அமர்ந்திருந்தவர்கள் நகர, நகர நின்றிருப்பவர்கள் அமர்ந்துகொள்ளவேண்டும். அனைவரும் ஏதோவொரு நோய்க்கு உள்ளாகியுள்ளனர். இரத்த பரிசோதனைக்காக கொழும்பு தேசிய வைத்தியசாலையில் ஆய்வுக்கூடத்துக்கு வந்திருந்தனர்.
+To hear such stories, you must stand in front of bus stations, hospitals and schools.Get many stories astonishing stories. Thinking and laughing?Crying?The mind will stumble
 
-பெரும்பாலும் சிங்களம், தமிழ் மொழிகளில் பேசுபவர்களே இருந்தனர். உறவினர்களுடன் வருகைதராமல், தனித்து வந்த நோயாளர்கள் சில மயங்கி விழுந்துவிட்டனர். ஏனெனில், இரத்த பரிசோதனைக்கு வரும்போது உணவு, ஆகாரம் எதுவுமே உண்ணாமலே வரவேண்டும்.
+Thursday (30) was standing in the morning at 8 am. They all had colored vials in the hands of all of them. Others were seated.
+
+Those who sit in chairs must sit on the city and the city. Everyone is infected with something. They came to the Laboratory at the Colombo National Hospital for blood tests.
+
+Most of the people who spoke in Sinhala and Tamil. Without arriving with relatives, some of the lonely patients have fallen faint. This is because when it comes to a blood test, no food and food should be eaten.
+
+Many of the elderly and the fed upon were helping and letting go in advance.
+
+The first woman: I came in the morning, the sidewalk manisi came, Ottola Vandu, how many hours to go,
+
+Second Woman: Why, where is it?
 
 ...
 
 [Data](articles/e0e19bc6.json)
 
+[Extended Data](ext_articles/e0e19bc6.ext.json)
+
 ---
 
-### ”அரசியல் பேச தடை”
+### “Forbidden to speak politics”
 
 *2024-05-30 11:35:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/அரசியல்-பேச-தடை/71-338139) · `ta`
 
-யாழ்ப்பாணம் பொது நூலகம் எரிக்கப்பட்டமை தொடர்பிலான ஆவணப்படத்தினை பொது நூலக கேட்போர் கூடத்தில் திரையிட அனுமதி வழங்கும் போது, அரசியல் பேச கூடாது என்ற நிபந்தனையுடன் அனுமதி வழங்கப்பட்டுள்ளது.
+The documentary on the Jaffna Public Library fire, approved for screening but forbidden from discussing politics, highlights the struggle to show it in the library auditorium over 17 years due to political sensitivities. The Municipal Council's permission comes with a ban on political speech during the event, leading to banners instead of verbal discussions.
 
-குறித்த ஆவண படத்தினை கடந்த 17 வருட காலமாக நூலக கேட்போர் கூடத்தில் திரையிடுவதற்கான முயற்சிகளை பல தரப்பினரும் முன்னெடுத்து வந்த நிலையில் அது சாத்தியமாகவில்லை.
+🟩
 
-இந்நிலையில், யாழ்.சிவில் சமூக நிலையம் ஊடாக முன்னெடுக்கப்பட்ட முயற்சியில் , ஆவணப்படத்தினை திரையிட அனுமதி வழங்கிய மாநகர சபையினர் , நிகழ்வில் அரசியல் எதுவும் பேச கூடாது என்ற கடுமையான நிபந்தனையுடன் அனுமதி வழங்கியுள்ளனர்.
+The documentary on the burning of the Jaffna Public Library has been approved by the condition that politics should not speak when the public library auditorium is allowed to be screened.
 
-அதனால் ,நிகழ்வு ஏற்பாட்டாளர்கள் , நிகழ்வு இடம்பெற்ற மண்டபத்தில் ,  “#அனுமதிக்கப்படவில்லை #அரசியலை பேசுதல் ”என எழுதிய பதாகைகளை காட்சிப்படுத்தி இருந்தனர்.
+It is not possible as many parties have been carrying out their efforts to screen the documentary film in the library auditorium for the past 17 years.
+
+In this context, the Municipal Council, which has given permission to screen the documentary, has given permission to not speak politics at the event.
+
+So, the event organizers showed the banners written in the hall where the event was held.
 
 ◼️
 
 [Data](articles/e569d08c.json)
+
+[Extended Data](ext_articles/e569d08c.ext.json)
 
 ---
 
@@ -230,23 +328,31 @@ Addressing the media, its media spokesman, Dr. Chamil Wijesinghe, said that the 
 
 [Data](articles/45d1c831.json)
 
+[Extended Data](ext_articles/45d1c831.ext.json)
+
 ---
 
-### 10 வயதான மாணவிகளுடன் துர்நடத்தை: ஆசிரியருக்கு தடை
+### 10 -year -old Students
 
 *2024-05-30 11:19:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/10-வயதான-மாணவிகளுடன்-துர்நடத்தை-ஆசிரியருக்கு-தடை/71-338138) · `ta`
 
-யாழ்ப்பாணத்தில் 10 வயது மாணவிகளுடன் துர்நடத்தையில் ஈடுபட்டதாக குற்றம் சாட்டப்பட்டுள்ள ஆசிரியருக்கு வடமாகாண கல்வி அமைச்சினால் பணித்தடை விதிக்கப்பட்டுள்ளது.
+A teacher was arrested for alleged misconduct towards a student at a Manipay school, leading to a ban by the Northern Provincial Ministry of Education. The case is ongoing, with the teacher released on bail and investigations continuing.
 
-மானிப்பாய் பகுதியில் உள்ள பாடசாலை ஒன்றில் ஆசிரியர் ஒருவர்  , தரம் 05 இல் கல்வி கற்கும்  மாணவிகளுடன் தவறாக நடந்து கொண்டதாக பாதிக்கப்பட்ட மாணவி ஒருவரின் பெற்றோர்களால் பதிவு செய்யப்பட்ட முறைப்பாட்டிற்கு அமைய, ஆசிரியர் கைது செய்யப்பட்டு மல்லாகம் நீதவான் நீதிமன்றில் முற்படுத்தப்பட்டுள்ளார் .
+🟩
 
-குறித்த ஆசிரியர் தற்போது பிணையில் விடுவிக்கபட்டுள்ள நிலையில்   வழக்கு நிலுவையில் உள்ளதாக தெரிவிக்கப்பட்டுள்ளது .
+The Northern Provincial Ministry of Education has been banned by the Northern Provincial Ministry of Education.
 
-மேலும் , சம்பவம் தொடர்பில் திணைக்களம் ஊடான விசாரணைகள் முன்னெடுக்கப்பட்டிருந்த நிலையில் , விசாரணை அறிக்கை கல்வி அமைச்சின் செயலாளருக்கு அனுப்பி வைக்கப்பட்டுள்ளதுடன் , ஆசிரியருக்கு தனது பணியினை தொடர தடை விதிக்கப்பட்டு கடிதம் அனுப்பி வைக்கப்பட்டுள்ளது.
+A teacher has been arrested at the Mallakam Magistrate's Court on a complaint lodged by the parents of a victim student for allegedly misbehaving with Grade 05 school in a school in Manipay.
+
+The case is pending as the teacher has been released on bail.
+
+In addition, the investigation into the incident has been sent to the Secretary of the Ministry of Education and a letter has been sent to the teacher to continue his work.
 
 ◼️
 
 [Data](articles/5c3f7259.json)
+
+[Extended Data](ext_articles/5c3f7259.ext.json)
 
 ---
 
@@ -2147,79 +2253,5 @@ Addressing the media NTP national organiser and media spokesman Amuthu Bandara t
 [Data](articles/cd7a34e4.json)
 
 [Extended Data](ext_articles/cd7a34e4.ext.json)
-
----
-
-### The death of four drinkers;The incident in Dambulla
-
-*2024-05-29 21:53:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மதுபானம்-அருந்திய-நால்வர்-மரணம்-தம்புள்ளையில்-சம்பவம்/175-338119) · `ta`
-
-Dambulla police investigate the deaths of four individuals allegedly caused by consuming illicit liquor. Suspects, previously arrested for illegal alcohol trade, face legal action. Autopsies and chemical analyses will determine the cause of death as locals grapple with the aftermath of the scandal.
-
-🟩
-
-Dambulla police have launched an investigation into the alleged killing of four people in the Dambulla Vikarai junction.
-
-Residents say two people have died two days ago by drinking the same liquor.
-
-The suspects have been arrested by the police several times in connection with the illegal liquor business and have been sentenced to court.
-
-It is also reported that the residents of the area are now in great trouble due to the long -lasting illegal liquor sales scam.
-
-In addition to the autopsy of the deceased, the police said that necessary steps would be taken to obtain chemical analysis reports and find out the real reasons for their death.
-
-◼️
-
-[Data](articles/f8bfd3c1.json)
-
-[Extended Data](ext_articles/f8bfd3c1.ext.json)
-
----
-
-### Imperative to enact laws that render President accountable to Parliament – President Ranil
-
-*2024-05-29 21:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/99519/imperative-to-enact-laws-that-render-president-accountable-to-parliament-president-ranil) · `en`
-
-President Ranil Wickremesinghe emphasized that none of the candidates aspiring to run in the presidential election have announced their intention to abolish the executive powers associated with the position.
-
-The President highlighted the dual nature of the executive presidential system, noting its advantages and disadvantages. He emphasized that the executive power vested in the presidency played a pivotal role in the economic development of Sri Lanka and the resolution of the 30-year war.
-
-President Wickremesinghe made these remarks while participating in the “What’s New” dialogue on legal reforms with young legal professionals at a workshop held yesterday (28) at the Presidential Secretariat.
-
-President Wickremesinghe emphasized the importance of enacting laws that render the President accountable to Parliament. He noted the decentralization of certain executive powers to Provincial Councils and Parliamentary Oversight Committees, highlighting forthcoming divisions in this regard.
-
-...
-
-[Data](articles/b7052175.json)
-
-[Extended Data](ext_articles/b7052175.ext.json)
-
----
-
-### Oil-leak oil to Colombo Harbor
-
-*2024-05-29 21:13:15* · [`adalk`](https://www.ada.lk/breaking_news/තෙල්-කාන්දුවන-ඉන්ද‍ිය-නැවක්-කොළඹ-වරායට-ගෙනල්ලා/11-409896) · `si`
-
-Colombo Magistrate Kamin Damitha Perera imposed a travel ban on Indian captain Jadhav of the 'Arj Prestige' ship due to a hydraulic oil spill at Colombo Port. The ban allows him to leave Sri Lanka only after a month-long restriction, following a police recommendation based on a complaint about the spill.
-
-🟩
-
-Colombo Additional Magistrate Kamin Damitha Perera released a foreign travel ban to an Indian captain to leave the Colombo Port.
-
-The Magistra Jadhav, who is the captain of the 'Arj Prestige' ship, is the captain of India, has banned foreign travel for a month for a month.
-
-After considering a request made by the Colombo Harbor Police, the police planted the relevant foreign travel ban to inform the police to educate the police.
-
-The Colombo Port, police officers informed the complaint with a complaint with a complaint with a hydraulic oil spill in the Colombo Port.
-
-When investigations were carried out, the captain of the ship was asked to issue an order preventing an abroad.
-
-The Magistrate was appointed to report the progress of the investigation into the incident with regard to the submissions.
-
-◼️
-
-[Data](articles/d4a24eae.json)
-
-[Extended Data](ext_articles/d4a24eae.ext.json)
 
 ---

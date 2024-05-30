@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-30 11:03:49**
+As of **2024-05-30 11:18:25**
 
 ## Newspaper Stats
 
-*Scraped **27,239** Articles*
+*Scraped **27,253** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,124 @@ economynextcom | 1,560
 dailyftlk | 1,601
 adalk | 2,315
 adaderanalk | 3,103
-tamilmirrorlk | 3,193
-virakesarilk | 4,186
-dailymirrorlk | 4,305
+tamilmirrorlk | 3,197
+virakesarilk | 4,193
+dailymirrorlk | 4,308
 adaderanasinhalalk | 4,357
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,237 (100.0%) of 27,239 articles have been extended.
+27,239 (99.9%) of 27,253 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-30 (Thursday)
+
+### பொது வேட்பாளர் தெரிவை கிழக்கிலிருந்து ஆரம்பிக்க வேண்டும் ; அவரை தமிழ் மக்களின் குறியீடாக நிறுத்தவேண்டும் - யாழ். பல்கலைக்கழக மாணவர் ஒன்றியம் வேண்டுகோள்
+
+*2024-05-30 11:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/184838) · `ta`
+
+பொதுவேட்பாளர் குறிப்பிட்ட சில தரப்பினரின் அரசியல் நலன்களை பிரதிபலிப்பவராக விளங்க கூடாது- அவர் தமிழ் மக்களின் குறியீடாக நிறுத்தப்படவேண்டும் என வேண்டுகோள் விடுத்துள்ள யாழ் பல்கலைகழக மாணவர் ஒன்றியம் முழுமையாக ஆக்கிரமிக்கப்பட்ட கிழக்கு மாகாணத்தை அடையாளப்படுத்தும் வகையில் கிழக்கிலிருந்து வேட்பாளர் தேர்வு நடைபெற வேண்டும். அவ்வேட்பாளர் பெண்ணொருவாராக இருப்பின் உத்தமம்.எனவும் தெரிவித்துள்ளது
+
+சிறிலங்காவின் அரச தலைவரைத் தேர்வு செய்யும் தேர்தல் தொடர்பான பேச்சுக்கள் முனைப்புப் பெற்றுள்ள நிலையில், கட்டமைக்கப்பட்ட இனவழிப்புப் பொறிமுறைகளிற்குள் (Structural Genocide) சிக்குண்டு இனவிடுதலை வேண்டி நிற்கும் ஈழத்தமிழ் மக்கள் தமது அரசியல் விடுதலைப்பயணத்தில் இத்தேர்தல் களத்தினை தங்கள் நலன்சார்ந்து எவ்வாறானதாகக் கையாள வேண்டும் என்பதில் கடந்த கால அனுபவங்களைப் பரிசீலனை செய்து இனியாவது சுதாகரித்து முன்நகர வேண்டிய அவசியநிலைக்குத் தள்ளப்பட்டுள்ளோம்.
+
+...
+
+[Data](articles/1e9981db.json)
+
+---
+
+### 6 மாவட்டங்களுக்கு மண்சரிவு எச்சரிக்கை - தேசிய கட்டிடம் மற்றும் ஆராய்ச்சி நிறுவனம்
+
+*2024-05-30 10:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/184839) · `ta`
+
+நாளை (31) காலை 7 மணி வரை அமுலில் இருக்கும் வகையில் குறித்த எச்சரிக்கை விடுக்கப்பட்டுள்ளதாக தேசிய கட்டிட ஆராய்ச்சி நிறுவனம் தெரிவித்துள்ளது.
+
+இதற்கமைய கொழும்பு, கண்டி, கேகாலை, குருணாகல், நுவரெலியா மற்றும் இரத்தினபுரி ஆகிய மாவட்டங்களுக்கு மண்சரிவு அனர்த்த எச்சரிக்கை விடுக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/8ab33d93.json)
+
+---
+
+### Documentary screening on the theme of lakes of the story of the Jaffna Public Library
+
+*2024-05-30 10:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/184824) · `ta`
+
+A documentary titled "Lake Memories of the Jaffna Public Library," directed by P. Sobhidarman, screened at the Jaffna Public Library Auditorium. The event featured discussions on the library's history, its destruction during the Black July, and the impact on public displacement. Attendees included political figures, academics, religious leaders, journalists, and artists, highlighting the significance of preserving cultural heritage.
+
+🟩
+
+A documentary screening and discussion was held on Wednesday evening at the Auditorium of the Jaffna Public Library on the theme of the Lake and Memories of the Jaffna Public Library.
+
+Directed by Director P. Sobhidarman, the documentary film is under the theme of Lake Memories of the Jaffna Public Library.
+
+The event was attended by Tamil National People's Front Member of Parliament, S. Gajendran, Dean of the University of Jaffna, Ma Raghuram, Tawatru Velan Swamis, Chief Editor of the former Eelam Nuncture Magazine, Literature, Tamil Civil Society Youth, Youth Representatives and Artists.
+
+Although the Jaffna Public Library was launched in the period from 1981 to 1986, the constructive comments on the destruction and the destruction of the shops, the destruction of the black July, and the public displacements and the destruction of the public, were discussed.
+
+◼️
+
+[Data](articles/892e06b8.json)
+
+[Extended Data](ext_articles/892e06b8.ext.json)
+
+---
+
+### Extending President’s term - will explain on Monday: Range Bandara
+
+*2024-05-30 10:50:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Extending-Presidents-term-will-explain-on-Monday-Range-Bandara/108-283681) · `en`
+
+Colombo, May 30 (Daily Mirror)- United National Party (UNP) General Secretary Palitha Range Bandara said today he will explain on Monday his proposal of extending the terms of the President and Parliament by two years.
+
+"On Tuesday I talked about extending the term of the President and Parliament through a referendum. Many have come up with various remarks on it. I will hold a media conference on Monday June 3rd and come up with a detailed explanation on what I said," he told the media today.
+
+When asked as to why he did not make a statement today as he assured earlier, Range Bandara told Daily Mirror that he only wanted to inform about the media briefing he was planning on Monday.
+
+◼️
+
+[Data](articles/d394d25a.json)
+
+---
+
+### Underworld figure Midigama Ruwan to be extradited to Sri Lanka
+
+*2024-05-30 10:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Underworld-figure-Midigama-Ruwan-to-be-extradited-to-Sri-Lanka/108-283679) · `en`
+
+Colombo, May 30 (Daily Mirror) - Ruwan Jayasekara, alias Midigama Ruwan, a notorious underworld figure allegedly involved in planning an attack on the Criminal Investigation Department (CID) headquarters in Colombo to free drug trafficker Nadun Chinthaka alias 'Harak Kata', is to be extradited to Sri Lanka today.
+
+Midigama Ruwan, who is also the brother-in-law of Nadun Chinthaka, was reportedly arrested by Dubai Police in March. Harak Kata himself was arrested by Dubai authorities last year and subsequently deported to Sri Lanka.
+
+The Dubai police arrested Midigama Ruwan following a clash in a night club in Dubai. It was reported that Ruwan's name was among the Interpol warrant list.
+
+It was reported that a special police team has been dispatched to Dubai to bring the suspect back to Sri Lanka.
+
+◼️
+
+[Data](articles/75dbec4f.json)
+
+---
+
+### கொழும்பு, கிராண்ட்பாஸ் பகுதியில் கால்வாயிலிருந்து பெண்ணின் சடலம்  மீட்பு !
+
+*2024-05-30 10:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/184831) · `ta`
+
+கொழும்பு பகுதியில் உள்ள கழிவு நீர் கால்வாயிலிருந்து பெண்ணொருவரின் சடலம் மீட்க்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+கிராண்ட்பாஸ் பொலிஸ் பிரிவுக்குட்பட்ட ஸ்டேஸ்புர பகுதியில் நேற்று புதன்கிழமை  (29) பெண் ஒருவரின் சடலம் காணப்படுவதாக பொலிஸாருக்கு கிடைத்த  தகவலின் அடிப்படையில் குறித்த சடலம் மீட்க்கப்பட்டுள்ளது.
+
+சடலம் அடையாளம் காணப்பட முடியாத நிலையில் உள்ளதாகவும் சுமார் 45 மற்றும் 50 வயதுக்கு இடைப்பட்ட 4 அடி 09 அங்குல உயரம் கொண்ட பெண்  எனவும் மஞ்சள் பூக்கள் கொண்ட சிவப்பு நிற ஆடையை அணிந்துள்ளார் எனவும் பொலிஸார் தெரிவித்துளளனர்.
+
+மேலும், சடலமானது  கொழும்பு தேசிய வைத்தியசாலையில் வைக்கப்பட்டுள்ளதோடு  சம்பவம் தொடர்பாக மேலதிக விசாரணைகளை பொலிஸார்  மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/002328dc.json)
+
+---
 
 ### NBRO issues landslide warnings for 6 districts
 
@@ -60,6 +164,20 @@ Ratnapura-  Kuruwita, Elapatha, Kiriella, Ayagama and Kalawana DSDs and surroun
 
 ---
 
+### கரையோர ரயில் சேவை பாதிப்பு
+
+*2024-05-30 10:21:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கரையோர-ரயில்-சேவை-பாதிப்பு/175-338130) · `ta`
+
+அம்பலாங்கொடை ரயில் நிலையத்திற்கு அருகில் தொழிநுட்ப கோளாறு காரணமாக ரயில் ஒன்று நிறுத்தி வைக்கப்பட்டுள்ளது.
+
+இதனால் கரையோர  ரயில் மார்க்கத்தில் ரயில் சேவை  பாதிக்கப்பட்டுள்ளதாக ரயில்வே திணைக்களம் தெரிவித்துள்ளது. R
+
+◼️
+
+[Data](articles/cee23cfc.json)
+
+---
+
 ### Powerful western country concerned over SL ex-soldiers joining the Russian military
 
 *2024-05-30 10:18:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Powerful-western-country-concerned-over-SL-ex-soldiers-joining-the-Russian-military/108-283675) · `en`
@@ -86,6 +204,20 @@ Most Sri Lankans are desperately trying to join the two militaries in Russia and
 
 ---
 
+### 2022 நவம்பர் - 2023 ஒக்டோபர் வரை கிறிஸ்தவர்களுக்கு எதிராக 63 வன்முறைச் சம்பவங்கள் பதிவு
+
+*2024-05-30 10:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/184805) · `ta`
+
+இலங்கையில் 2022 நவம்பர் - 2023 ஒக்டோபர் வரையான ஒருவருடகாலத்தில் நாடளாவிய ரீதியில் கிறிஸ்தவர்களுக்கு எதிராக 63 வன்முறைச்சம்பவங்கள் இடம்பெற்றிருப்பதாகவும், இவற்றில் முறையே புத்தளம், களுத்துறை மற்றும் யாழ்ப்பாணம் ஆகிய மாவட்டங்களில் அதிக எண்ணிக்கையான சம்பவங்கள் பதிவாகியிருப்பதாகவும் இலங்கை தேசிய கிறிஸ்தவ சுவிசேச (எவாஞ்சலிக்கல்) கூட்டிணைவினால் வெளியிடப்பட்டுள்ள புதிய ஆய்வறிக்கையில் சுட்டிக்காட்டப்பட்டுள்ளது.
+
+இலங்கையில் கடந்த 2022 நவம்பர் - 2023 ஒக்டோபர் வரையான 12 மாதகாலப்பகுதியில் கிறிஸ்தவ சமூகத்துக்கு எதிராக இடம்பெற்ற அத்துமீறல் மற்றும் வன்முறை சம்பவங்கள் தொடர்பில் இலங்கை தேசிய கிறிஸ்தவ சுவிசேச கூட்டிணைவினால் சேகரிக்கப்பட்டு வழங்கப்பட்ட தரவுகளை அடிப்படையாகக்கொண்டு வெரிட்டே ரிசேர்ச் அமைப்பினால் 'இலங்கையில் கிறிஸ்தவர்களுக்கு எதிரான வன்முறைகளின் போக்கு தொடர்பான ஆய்வு' எனும் 60 பக்க ஆய்வறிக்கை தயாரிக்கப்பட்டுள்ளது. இவ்வறிக்கையின் வெளியீட்டு நிகழ்வு செவ்வாய்கிழமை (28) கொழும்பில் அமைந்துள்ள இனத்துவ கற்றைகளுக்கான சர்வதேச நிலையத்தின் கேட்போர்கூடத்தில் நடைபெற்றது.
+
+...
+
+[Data](articles/d94f4a89.json)
+
+---
+
 ### Indian-owned ship held in Colombo after oil spill; travel ban imposed on captain
 
 *2024-05-30 10:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/99529/indian-owned-ship-held-in-colombo-after-oil-spill-travel-ban-imposed-on-captain-) · `en`
@@ -103,6 +235,46 @@ Furthermore, the Colombo Magistrate Court has imposed a travel ban on the captai
 [Data](articles/862b8241.json)
 
 [Extended Data](ext_articles/862b8241.ext.json)
+
+---
+
+### சிகரெட் பாவனையால் நாளொன்றுக்கு 50 மரணங்கள்
+
+*2024-05-30 10:08:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிகரெட்-பாவனையால்-நாளொன்றுக்கு-50-மரணங்கள்/175-338128) · `ta`
+
+சிகரெட் பாவனையால் இந்நாட்டில் நாளாந்தம் 50 பேர் உயிரிழப்பதாக மதுபானம் மற்றும் போதைப்பொருள் தகவல் நிலையம் தெரிவித்துள்ளது.
+
+அத்துடன், புகைப்பிடிப்பதால் ஒவ்வொரு ஆண்டும் சுமார் 20,000 பேர் உயிரிழப்பதாக நிலையம் சுட்டிக்காட்டுகிறது.
+
+நாளை (31) அனுசரிக்கப்படும் உலக புகையிலை எதிர்ப்பு தினம் தொடர்பாக மதுபானம் மற்றும் போதைப்பொருள் தகவல் நிலையம் விடுத்துள்ள அறிக்கையிலேயே இவ்வாறு தெரிவிக்கப்பட்டுள்ளது.
+
+புகையிலைத் தொழிலின் குறுக்கீட்டிலிருந்து நமது சிறுவர்களை பாதுகாப்பதே இந்த ஆண்டு உலக புகையிலை எதிர்ப்பு தினத்தின் தொனிப்பொருளாகும்.
+
+தற்போது இலங்கையில் சிகரெட் பாவனை 9.1 வீதத்தால் குறைந்துள்ளதுடன் இளைஞர்கள் மத்தியில் சிகரெட் பாவனை வேகமாக குறைந்து வருவதாக மதுபானம் மற்றும் போதைப்பொருள் தகவல் நிலையம் தெரிவித்துள்ளது.
+
+புகையிலை நிறுவன அறிக்கைகளின்படி, கடந்த ஆண்டில் சிகரெட் உற்பத்தி 19 சதவீதம் குறைந்துள்ளது.
+
+உலகில் சிகரெட் பாவனை குறைவடைந்து வரும் நாடுகளில் இலங்கையில் நல்ல போக்கு காணப்பட்டாலும் இன்னும் சுமார் 1.5 மில்லியன் மக்கள் சிகரெட் பாவனையில் ஈடுபடுவதாக சுட்டிக்காட்டப்பட்டுள்ளது.
+
+...
+
+[Data](articles/c9bb124d.json)
+
+---
+
+### ‘சர்வஜன வாக்கெடுப்புக்கு ரணில் செல்லார்’
+
+*2024-05-30 10:08:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சர்வஜன-வாக்கெடுப்புக்கு-ரணில்-செல்லார்/175-338127) · `ta`
+
+ஜனாதிபதித் தேர்தலை வெல்ல முடியாத ஜனாதிபதி ரணில் விக்கிரமசிங்க, ஒருபோதும் ஒருபோதும் சர்வஜன வாக்கெடுப்பொன்றுக்கு செல்ல மாட்டாரென தேசிய மக்கள் சக்தியின் தலைவர் அநுர குமார திஸாநாயக்க புதன்கிழமை (29) தெரிவித்துள்ளார்.
+
+ஜனாதிபதி ரணில் விக்கிரமசிங்கவால் சர்வஜன வாக்கெடுப்பில் வெல்ல முடியுமானால் நிச்சயமாக அவரால் ஜனாதிபதித் தேர்தலுக்குச் செல்ல முடியுமென பாராளுமன்ற உறுப்பினரான அநுர குமார திஸாநாயக்க கூறியுள்ளார்.
+
+ஜனாதிபதி ரணில் விக்கிரமசிங்கவும், பசில் ராஜபக்‌ஷவும் தேர்தலுக்கான எத்திட்டங்களையோ அல்லது நோக்குகளையோ கொண்டிராத நிலையில் அவர்கள் குழப்பத்தை ஏற்படுத்த முயல்வதாக அநுர குமார திஸாநாயக்க மேலும் குறிப்பிட்டுள்ளார்.
+
+◼️
+
+[Data](articles/99709984.json)
 
 ---
 
@@ -145,6 +317,28 @@ The Thai cabinet also approved visa-on-arrival for a total of 31 countries, up f
 [Data](articles/7167ad69.json)
 
 [Extended Data](ext_articles/7167ad69.ext.json)
+
+---
+
+### எரிபொருள் கசிவு ஏற்பட்ட இந்திய கப்பலுக்கு பொறுப்பேற்பு
+
+*2024-05-30 09:58:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எரிபொருள்-கசிவு-ஏற்பட்ட-இந்திய-கப்பலுக்கு-பொறுப்பேற்பு/175-338126) · `ta`
+
+அண்மையில் இந்திய நிறுவனமொன்றுக்கு சொந்தமான கப்பல் பழுதுபார்ப்பதற்காக கொழும்பு துறைமுகத்திற்கு வந்துள்ள நிலையில், எரிபொருள் கசிவு ஏற்பட்டுள்ளதாக தெரிவிக்கப்படுகிறது.
+
+இந்த நிலையில், எரிபொருள் கசிவு ஏற்பட்ட கப்பலை பொறுப்பேற்றுள்ளதாக  கடல்சார் சூழல் பாதுகாப்பு அதிகாரசபை தெரிவித்துள்ளது.
+
+குறித்த கப்பலில் இருந்து எரிபொருள் கசிவு ஏற்பட்டமை தொடர்பில் கப்பலுக்கு சொந்தமான நிறுவனம் மற்றும் காப்புறுதி நிறுவனத்திற்கு எதிராக சட்ட நடவடிக்கை எடுக்கப்பட்டுள்ளதாகவும் அதன் பேச்சாளர் ஒருவர் தெரிவித்தார்.
+
+கடல்சார் சூழல் பாதுகாப்பு அதிகாரசபை சட்டத்தின் கீழ் குறித்த சம்பவத்திற்கு நட்டஈடு பெற்றுக்கொடுக்கும் நடவடிக்கையில் ஈடுபட்டுள்ளதாக தெரிவிக்கப்படுகின்றது.
+
+அண்மையில் இந்திய நிறுவனமொன்றுக்கு சொந்தமான கப்பல் பழுதுபார்ப்பதற்காக கொழும்பு துறைமுகத்திற்கு வந்துள்ள நிலையில், எரிபொருள் கசிவு ஏற்பட்டுள்ளதாக தெரிவிக்கப்படுகிறது.
+
+கப்பலுக்கு சொந்தமான நிறுவனமும் தவறை ஏற்றுக் கொண்டு இழப்பீடு வழங்க ஒப்புக்கொண்டுள்ளதாக கடல்சார் சூழல் பாதுகாப்பு அதிகாரசபை தெரிவித்துள்ளது.
+
+...
+
+[Data](articles/15246d3e.json)
 
 ---
 
@@ -224,6 +418,24 @@ The identity of the deceased is yet to be ascertained and the body is currently 
 
 ---
 
+### சட்டவிரோதமாக தங்கத்தை இறக்குமதி செய்த ஐந்து நிறுவனங்களுக்கு அபராதம் விதிப்பு
+
+*2024-05-30 09:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/184833) · `ta`
+
+இவ் ஆண்டு  நாட்டிற்கு சட்டவிரோதமான முறையில் தங்கத்தை இறக்குமதி செய்த ஐந்து நிறுவனங்கள் இனங்காணப்பட்டுள்ளதாகவும், அந்நிறுவனங்களுக்கு 124 கோடி 10 இலட்சம் ரூபாய்  அபராதம் விதிக்கப்பட்டுள்ளதாகவும் நிதி இராஜாங்க அமைச்சர் ரஞ்சித் சியம்பலாபிட்டிய தெரிவித்துள்ளார்.
+
+அதில் ஒரு நிறுவனத்துக்கு 17 கோடி 90 இலட்சம் ரூபாய் ரூபா அபராதம் செலுத்த உத்தரவிடப்பட்டுள்ளதுடன்,  தங்கம் இறக்குமதியை மேற்கொள்ளும் அனைத்து உரிமம் பெற்ற நிறுவனங்களும் இந்த சட்டவிரோத செயல்களில் இருந்து விடுபட வேண்டுமென எச்சரிக்கை விடுக்கப்பட்டுள்ளது.
+
+அரசாங்கத்திற்கு கிடைக்கும் வருமானத்தை இழக்கும் சட்டவிரோத செயற்பாடுகளை தடுக்க நடவடிக்கைகள் மேற்கொள்ளப்படுவதாக அவர் தெரிவித்துள்ளார்.
+
+தங்கப் பொருட்களை இறக்குமதி செய்யும் சில தரப்பினர் அதனை பெரும் மோசடியாக மாற்றியுள்ளதாகவும் அதனைச் சுற்றி ஒரு மாஃபியா இருப்பதாகவும் ராஜாங்க அமைச்சர் மேலும் தெரிவித்தார்.
+
+...
+
+[Data](articles/b5748e8b.json)
+
+---
+
 ### Sri Lanka rupee opens lower at 301.60/75 to US dollar
 
 *2024-05-30 09:36:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-lower-at-301-60-75-to-us-dollar-165408/) · `en`
@@ -268,33 +480,57 @@ Veteran dancer Chandana Wickremasinghe represents its main character.
 
 ---
 
-### මැයි 26 වන විට ලංකාවට සංචාරකයන් 881000ක් ඇවිත්
+### Tourist arrivals to Sri Lanka by 26
 
 *2024-05-30 09:07:33* · [`adalk`](https://www.ada.lk/breaking_news/මැයි-26-වන-විට-ලංකාවට-සංචාරකයන්-881000ක්-ඇවිත්/11-409902) · `si`
 
-මේ වසරේ ජනවාරි 01 දා සිට මැයි 26 දා දක්වා ශ්‍රී ලංකාවට සංචාරකයන් 881 541ක් පැමිණ ඇති බව සංචාරක සංවර්ධන අධිකාරිය පවසයි. එසේම මැයි 01 දා සිට මැයි 26 දා තෙක් ලංකාවට සංචාරකයන් 96 890ක්ද පැමිණ තිබේ.
+From January 1 to May 26, Sri Lanka welcomed 881,541 tourists, with 96,890 arriving between May 1 and May 26. The majority came from India.
 
-මැයි මාසයේ‍ ලංකාවට වැඩිම සංචාරකයන් පිරිසක් පැමිණ ඇත්තේ ඉන්දියාවෙන් වන අතර ඉන් අනතරුව මාලදිවයිනෙන් පැමිණ තිබේ.
+🟩
+
+Tourism Development Authority says that 881 541 tourists have arrived in Sri Lanka from 1st to May 26 this year. Tourist arrivals to Sri Lanka from May 1 to May 26, 96 890 tourists arrived.
+
+The highest number of tourist arrivals from India in May arrived from India and is from India.
 
 ◼️
 
 [Data](articles/1d7e11e2.json)
 
+[Extended Data](ext_articles/1d7e11e2.ext.json)
+
 ---
 
-### ජාතික ක්‍ර‍ිඩා සංගම් 4ක ලියාපදිංචිය අත්හිටුවයි
+### 4 National Sports Associations have been suspended
 
 *2024-05-30 08:58:52* · [`adalk`](https://www.ada.lk/sports/ජාතික-ක්‍ර‍ිඩා-සංගම්-4ක-ලියාපදිංචිය-අත්හිටුවයි/9-409901) · `si`
 
-ජාතික ක්‍රීඩා සංගම් 4ක ලියාපදිංචිය තාවකාලිකව අත්හිටුවමින් ක්‍රීඩා හා යෞවන කටයුතු ඇමති හර‍ින් ප්‍රනාන්දු මහතා අති වි‍‍ශෙස ගැසට් නිවේදනයක් නිකුත් කර තිබේ.
+Anura Fernando, Minister of Sports and Youth, has temporarily suspended four National Sports Associations: the Sri Lanka Cycling Federation, Rugby Union, Car Former, and Netball Federation. The Director General of the Sports Development Department will oversee this process.
 
-ශ්‍රී ලංකා පාපැදි සම්මේලනය, රග්බි සංගමය, මෝටර් රථ සම්මේලනය සහ දැල්පන්දු සම්මේලනය යන සංගම් මෙසේ තාවකාලිකව අත්හිටුවා තිබේ.
+🟩
 
-අදාළ සංගම් හා සම්මේලනවල ඉදිරි කටයුතු සිදුකිරීම සහ ඊට අදාළ නිලවරණය කැඳවීම සඳහා නිසි බලධාරියා ලෙස ක්‍රීඩා සංවර්ධන දෙපාර්තමේන්තුවේ අධ්‍යක්ෂ ජනරාල්වරයා පත්කර ඇති බව එම ගැසට් නිවේදනයේ දැක්වෙයි.
+Minister of Sports and Youth Anura Fernando has issued a large gazette notification temporarily suspended in 4 National Sports Associations.
+
+The Sri Lanka Cycling Federation, Rugby Union, Car Former and Netball Federation Associations have been temporarily suspended.
+
+The Director General of the Sports Development Department has been appointed as the Protection Authority to carry out the relevant associations and conferences and the relevant official.
 
 ◼️
 
 [Data](articles/4da6ee8a.json)
+
+[Extended Data](ext_articles/4da6ee8a.ext.json)
+
+---
+
+### கொட்டா வீதியில் தீப்பற்றி எரிந்த வாகனம்
+
+*2024-05-30 08:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/184830) · `ta`
+
+பொரளை, கொட்டா வீதியில் உள்ள ருஹுனுகல மாவத்தையில் வாகனமொன்று நேற்று புதன்கிழமை (29) இரவு தீப்பிடித்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/1baf39c8.json)
 
 ---
 
@@ -346,6 +582,30 @@ Visa-on-arrival: The number of countries eligible for visa-on-arrival has increa
 
 ---
 
+### Nun arrested for assaulting 11 girls at Kayts hostel
+
+*2024-05-30 08:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Nun-arrested-for-assaulting-11-girls-at-Kayts-hostel/108-283664) · `en`
+
+Jaffna, May 30 (Daily Mirror) - A 52-year-old nun from a hostel in Kayts has been arrested on charges of assaulting a group of girls residing at the hostel.
+
+The arrest came following a complaint filed by the girls with the Kayts Police on Tuesday.
+
+The girls alleged that the nun had assaulted them repeatedly without any justification. Some of the girls managed to escape from the hostel and reported the incidents to the police.
+
+Upon investigation, Police discovered that 11 girls, aged between 13 and 19, were living at the hostel. The girls were found to have sustained minor injuries due to the assaults.
+
+Accordingly, the nun was arrested and presented before the Kayts Magistrate's Court on Tuesday.
+
+She was remanded till Wednesday (29) but was later granted bail.
+
+Police have referred the girls to the Judicial Medical Officer (JMO) for examination. The Magistrate has ordered that the girls be transferred to a children's home in Thiranaveli.
+
+...
+
+[Data](articles/7c5b26ff.json)
+
+---
+
 ### Election Commission slams election delay moves
 
 *2024-05-30 08:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Election-Commission-slams-election-delay-moves/155-283662) · `en`
@@ -387,6 +647,18 @@ After 14 years in opposition, the Labour party now has the chance to win back po
 [Data](articles/22b1c32e.json)
 
 [Extended Data](ext_articles/22b1c32e.ext.json)
+
+---
+
+### கரையோர ரயில் சேவைகள் பாதிப்பு
+
+*2024-05-30 08:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/184829) · `ta`
+
+அம்பலாங்கொடை ரயில் நிலையத்திற்கு அருகில் தொழிநுட்ப கோளாறு காரணமாக ரயில் ஒன்று நிறுத்தி வைக்கப்பட்டுள்ளதனாலேயே கரையோர  ரயில் மார்க்கத்தில் ரயில் சேவை  பாதிக்கப்பட்டுள்ளதாக ரயில்வே திணைக்களம் தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/fda5f52c.json)
 
 ---
 
@@ -997,30 +1269,6 @@ Meanwhile, 39 thousand 156 people from 10 thousand 483 families have been affect
 [Data](articles/8c014485.json)
 
 [Extended Data](ext_articles/8c014485.ext.json)
-
----
-
-### Documentary screening on the theme of lakes of the story of the Jaffna Public Library
-
-*2024-05-30 01:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/184824) · `ta`
-
-A documentary titled "Lake Memories of the Jaffna Public Library," directed by P. Sobhidarman, screened at the Jaffna Public Library Auditorium. The event featured discussions on the library's history, its destruction during the Black July, and the impact on public displacement. Attendees included political figures, academics, religious leaders, journalists, and artists, highlighting the significance of preserving cultural heritage.
-
-🟩
-
-A documentary screening and discussion was held on Wednesday evening at the Auditorium of the Jaffna Public Library on the theme of the Lake and Memories of the Jaffna Public Library.
-
-Directed by Director P. Sobhidarman, the documentary film is under the theme of Lake Memories of the Jaffna Public Library.
-
-The event was attended by Tamil National People's Front Member of Parliament, S. Gajendran, Dean of the University of Jaffna, Ma Raghuram, Tawatru Velan Swamis, Chief Editor of the former Eelam Nuncture Magazine, Literature, Tamil Civil Society Youth, Youth Representatives and Artists.
-
-Although the Jaffna Public Library was launched in the period from 1981 to 1986, the constructive comments on the destruction and the destruction of the shops, the destruction of the black July, and the public displacements and the destruction of the public, were discussed.
-
-◼️
-
-[Data](articles/892e06b8.json)
-
-[Extended Data](ext_articles/892e06b8.ext.json)
 
 ---
 
@@ -1901,339 +2149,5 @@ Iraq is one of the main buyers of Sri Lanka’s tea. Nearly 150,000 migrant Sri 
 [Data](articles/3cc9e059.json)
 
 [Extended Data](ext_articles/3cc9e059.ext.json)
-
----
-
-### Sri Lanka prime minister says presidential election still scheduled for 2024
-
-*2024-05-29 18:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-prime-minister-says-presidential-election-still-scheduled-for-2024-165383/) · `en`
-
-ECONOMYNEXT — Sri Lanka’s government had not discussed at any point the postponement of the presidential election, Prime Minister Dinesh Gunawardena said, dismissing a controversial proposal by the United National Party (UNP) as “irresponsible”.
-
-Speaking to reporters on Wednesday May 29, Gunawardena said the date for the presidential election are for 2024 and that the constitution provides for the election commission to call elections.
-
-“According to the constitution, it is the election commission that has the power to call a presidential election within the due dates. It cannot be called early or later. The provisions are there in the constitution,” he said.
-
-Responding to questions on safeguarding democracy, the prime minister said the government had in fact restored democracy.
-
-“We have restored democracy since the night it was destroyed,” he said.
-
-...
-
-[Data](articles/6b7cabb0.json)
-
-[Extended Data](ext_articles/6b7cabb0.ext.json)
-
----
-
-### Four dead after consuming illicit liquor in Dambulla
-
-*2024-05-29 18:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/99518/four-dead-after-consuming-illicit-liquor-in-dambulla) · `en`
-
-Police have launched an investigation following the death of four individuals after allegedly consuming illicit liquor in Dambulla.
-
-The incident in question has been reported in Vihara Junction, Dambulla.
-
-According to the villagers, two individuals had previously died after consuming illicit liquor two day ago while two more persons have reportedly died today after consuming the same illicit alcohol.
-
-Incidentally, it is reported that the suspects involved in selling illicit liquor in the area have previously been arrested by the police on several occasions over the same charges and had been sentenced after being produced at court.
-
-It is also reported that the residents of the area are facing various issues due to this illicit liquor racket which has been operating in the area for a long period of time.
-
-Police said in addition to the post-mortem examination, forensic reports would also be called to find out the exact cause of deaths of the four individuals.
-
-...
-
-[Data](articles/7fbf84ef.json)
-
-[Extended Data](ext_articles/7fbf84ef.ext.json)
-
----
-
-### Two years later, the woman killed in the house
-
-*2024-05-29 18:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197163) · `si`
-
-A 26-year-old woman from Passara, who had been working in Kuwait, tragically died when her three-wheeler collided with a bus in Pelmadulla, causing it to fall into a 15-foot precipice. The accident also injured three other passengers, who were hospitalized in Pelmadulla, Kahawatta, and Ratnapura.
-
-🟩
-
-A woman who was going to her home after three years has died.
-
-The deceased is a 26-year-old resident of Passara, Passara.
-
-The accident had occurred while she was working in Kuwait and returning to her home.
-
-The accident had occurred in Pelmadulla as a three-wheeler was trapped in a bus.
-
-The bus collided in the three-wheeler had fallen into a precipice of about 15 feet.
-
-Three passengers, including the deceased, has also been injured in the accident.
-
-The injured have been admitted to the Pelmadulla, Kahawatta, and Ratnapura hospitals.
-
-The woman who was severely injured had died unfortunately.
-
-◼️
-
-[Data](articles/e5b869b9.json)
-
-[Extended Data](ext_articles/e5b869b9.ext.json)
-
----
-
-### Model boiling telephone Delhi: 52.3 degrees Celsius
-
-*2024-05-29 18:17:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொதிக்கும்-டெல்லி-52-3-டிகிரி-செல்சியஸ்-வெப்ப-நிலை-பதிவு/175-338117) · `ta`
-
-Delhi experiences record-high temperatures, reaching 52.3°C, amid upcoming monsoon season. Peak electricity demand hits 8300 MW, surpassing previous records.
-
-🟩
-
-: In the capital Delhi, the highest temperature has been recorded at 52.3 degrees Celsius.
-
-The country's capital, Delhi, is on a rough wave as the southwest monsoon starts tomorrow in Kerala. The maximum temperature of 52.3 degrees Celsius has been reported today in the capital Delhi, according to the Indian Affairs Center.
-
-The Delhi Munglespur area has reportedly had a severe temperature. Temperature recorded in Delhi at 49.9 degrees Celsius yesterday
-
-Meanwhile, the demand for power in Delhi has reached its peak due to this heavy temperature today. Delhi's power demand today touched the new peak of 8300 MW today. This has never existed in Delhi. Electricity officials said this is the first time
-
-◼️
-
-[Data](articles/52926753.json)
-
-[Extended Data](ext_articles/52926753.ext.json)
-
----
-
-### SJB ready for debate even with government leaders
-
-*2024-05-29 18:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SJB-ready-for-debate-even-with-government-leaders/108-283630) · `en`
-
-Colombo, May 29 (Daily Mirror)- The Samagi Jana Balawegaya (SJB) today said it is ready to have a public debate even with government leaders other than the National Peoples Power (NPP).
-
-The remark came from SJB MPs Kabir Hashim and Eran Wickramaratne at a media briefing today.
-
-"We are ready to debate with any party, including the government leaders any time," MP Wickramaratne said.
-
-MP Harsha De Silva who referred to the proposed debate with the NPP said his party is also ready for it.
-
-"We are ready for the debate with the NPP. I have seen someone saying that the proposed debate is a joke. Talking about economic policies will never be a joke," he said.
-
-◼️
-
-[Data](articles/9deb9820.json)
-
-[Extended Data](ext_articles/9deb9820.ext.json)
-
----
-
-### The presidential election is properly held
-
-*2024-05-29 18:15:25* · [`adalk`](https://www.ada.lk/breaking_news/ජනා‍ධිපතිවරණය-නිසි-පරිදි-පවත්වනවා/11-409894) · `si`
-
-In the upcoming presidential election, no candidate promises to eliminate executive powers. These powers, historically used to bolster Sri Lanka's economy and conclude its 30-year civil war, have been partially devolved to provincial councils and parliamentary oversight committees. President Ranil Wickremesinghe emphasizes the importance of these powers in maintaining stability and progress, highlighting his administration's efforts to delegate certain responsibilities while retaining overall control.
-
-🟩
-
-No candidate says that the presidential election will be said to abolish executive powers
-
-The executive power of the presidency was able to build the economy of Sri Lanka and end the thirty-year war.
-
-A number of executive powers have already been provided to provincial councils and the Parliament Oversight Committees - President.
-
-President Ranil Wickremesinghe said that no candidate said that any candidate said that any candidate is said to have the executive power of the post, President Ranil Wickremesinghe said.
-
-The President also pointed out that the executive power of the Executive Presidency and the executive power of the president, the executive power of the president can end the economy of Sri Lanka and end the US.
-
-President Ranil Wickremesinghe made this statement participating in the workshop on the Presidential Secretariat on Law Reformers with young law professionals.
-
-...
-
-[Data](articles/8f49fe7c.json)
-
-[Extended Data](ext_articles/8f49fe7c.ext.json)
-
----
-
-### Central Bank leaves about vehicles
-
-*2024-05-29 18:01:04* · [`adalk`](https://www.ada.lk/breaking_news/වාහන-ආනයනය-ගැන-මහ-බැංකුවෙන්-කොළ එළියක්/11-409893) · `si`
-
-Central Bank Governor Nandalal Weerawasinghe mentioned that vehicle imports could be phased out, but this decision rests with the government, which has approved vehicle imports for tourism purposes.
-
-🟩
-
-Central Bank Governor Nandalal Weerawasinghe said that the reserves could be managed and the vehicles imports of vehicles are gradually removed.
-
-However, he said that the decision would be taken by the government and that the government has already allowed vehicles in relation to tourism.
-
-◼️
-
-[Data](articles/fb661173.json)
-
-[Extended Data](ext_articles/fb661173.ext.json)
-
----
-
-### Ranil will never go for referendum: AKD
-
-*2024-05-29 17:49:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ranil-will-never-go-for-referendum-AKD/108-283628) · `en`
-
-Colombo, May 29 (Daily Mirror)- President Ranil Wickremesinghe, who cannot win the presidential election will never go for a referendum, National People’s Power (NPP) leader Anura Kumara Dissanayake said today.
-
-He told the media in Colombo that if Ranil Wickremesinghe could win the referendum, he would definitely go for the presidential election.
-
-Dissanayake said they are trying to create confusion in the society as Ranil Wickremesinghe and Basil Rajapaksa have no plans or vision for the election.
-
-"The other political groups are already engaged in election campaigns. Ranil Wickremesinghe and Basil Rajapaksa have no plans or vision for the election. So, they want to create confusion in society. They created news that Parliament will be dissolved. UNP MP Vajira Abeywardane said once that Ranil should be given ten years,” he said.
-
-He said it is not good to insult the Constitution and people's mandate and create confusion in the society for their cheap political ends.
-
-◼️
-
-[Data](articles/1de20a6a.json)
-
-[Extended Data](ext_articles/1de20a6a.ext.json)
-
----
-
-### Sri Lanka’s Aitken Spence Plantation Managements to delist from CSE
-
-*2024-05-29 17:45:00* · [`economynextcom`](https://economynext.com/sri-lankas-aitken-spence-plantation-managements-to-delist-from-cse-165340/) · `en`
-
-ECONOMYNEXT – Aitken Spence Plantation Managements Plc will de-list the shares of the Company from the official list of the Colombo Stock Exchange subject to obtaining shareholder and regulatory approvals, it said.
-
-The exit offer price is 240 rupees per share, the company said in a stock exchange filing.
-
-“The Board of Directors of the Company has made arrangements with Aitken Spence PLC, MJ F Holdings (Private) Limited, and Mr. D. A. de S. Wickramanayake, three largest shareholders of the Company (the “Major Shareholders”) and the Major Shareholders have indicated the willingness to acquire the shares of the minority shareholders of the Company who may wish to divest/sell their shares.”
-
-...
-
-[Data](articles/be276192.json)
-
-[Extended Data](ext_articles/be276192.ext.json)
-
----
-
-### Super Star Rajinikanth congratulates players who won the Colombo Games
-
-*2024-05-29 17:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/184811) · `ta`
-
-Super Star Rajinikanth congratulated Indian athletes Shenbagamoorthy, Suresh Kasinathan, Jesu Esther Queen, and R. Pramila for their achievements at the Tenth Master Athletic Championship in Colombo, Sri Lanka, on May 25-26, 2024. Shenbagamoorthy secured second in the 100m and third in the 200m races, while also winning the mixed series. Suresh Kasinathan led in the 100m and 200m runs and the mixed series. Esther Queen triumphed in the women's 100m race, long jump, and mixed series, and Pramila excelled in the 100m, long jump, and mixed series. The athletes had a personal meeting with Rajinikanth.
-
-🟩
-
-Super Star Rajinikanth has congratulated the winner and heroes of India on the 25th and 26th of this month in Colombo 'Tenth Master Athletic Championship - Sri Lanka 2024'.
-
-The Tenth Master's Athletic Championships for 2024 were held on May 25 and 26 in the capital of Sri Lanka, Colombo.During this time, the player from India. Shenbagamoorthy and Suresh Kasinathan, Heroes Jesu Esther Queen and R. Pramila won various athletics.
-
-This includes M.. Shenbaga Murthy won second place in the 100m race, the 200m race was third and the first place in the mixed series.
-
-Another player, Suresh Kasinathan, topped the 100m run, the 200m race was third and the first place in the mixed series.
-
-Rani Esther Queen won the 100m race for women, third place in the 200m race, third place in the long jump and the first place in the mixed series.
-
-Another hero is r. Pramila topped the hundred meters of race, second in the long jump category and the first place in the mixed series.
-
-...
-
-[Data](articles/eed7ffd1.json)
-
-[Extended Data](ext_articles/eed7ffd1.ext.json)
-
----
-
-### Presidential election is held on the due date - PM
-
-*2024-05-29 17:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197162) · `si`
-
-PM Dinesh Gunawardena confirms the presidential election will proceed as scheduled, aligning with constitutional requirements. He emphasizes the importance of maintaining democracy and the government's commitment to holding elections without delay. The Elections Commission is prepared to conduct the election within the constitutional timeframe, starting from September. The PM addresses concerns about potential delays, stating that no political decisions will hinder the process. He highlights the government's efforts to uphold democracy and the importance of adhering to constitutional procedures for conducting elections.
-
-🟩
-
-Prime Minister Dinesh Gunawardena says that the presidential election will be held on the due date in terms of the Constitution.
-
-The Prime Minister made this observation at the opening of Martin Wickremesinghe in the National Library Documentation Services Board in Colombo and National Library Document.
-
-Speaking further the Prime Minister said that a democratic government or parliament would not allow the country through the unrealized statements.
-
-The government's position has already been announced about the election. The Elections Commission stated that the presidential election can be held in terms of the Constitution. They have stated that it is preparing between September two months. The government has said that.
-
-Have you accused the government to procrastinate the election on May Day?
-
-...
-
-[Data](articles/838d756f.json)
-
-[Extended Data](ext_articles/838d756f.ext.json)
-
----
-
-### Sri Lanka rupee closes broadly flat at 301.60/302.00 to US dollar
-
-*2024-05-29 17:33:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-broadly-flat-at-301-60-302-00-to-us-dollar-165328/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed broadly flat at 301.60/302.00 to the US dollar on Wednesday, from 301.70/302.30 the previous day, dealers said. Bond yields were down.
-
-A bond maturing on 15.12.2026 closed down at 9.70/85 percent from 9.90/10.05 percent.
-
-A bond maturing on 15.09.2027 closed down at 10.30/40 percent from 10.30/55 percent.
-
-A bond maturing on 01.07.2028 closed down at 10.70/80 percent from 10.90/11.00 percent.
-
-A bond maturing on 15.01.2030 closed down at 11.50/75 percent from 11.60/80 percent.
-
-A bond maturing on 01.10.2032 closed down at 11.80/95 percent from 11.85/12.00 percent. (Colombo/May29/2024)
-
-◼️
-
-[Data](articles/beb0ac95.json)
-
-[Extended Data](ext_articles/beb0ac95.ext.json)
-
----
-
-### Mirchi Siva starrer 'Sudu Kaavum 2' new song release
-
-*2024-05-29 17:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/184810) · `ta`
-
-Mirchi Siva stars in "Sudu Kaavum 2," featuring a new song titled "Bad Boys Mission." Directed by SJ. Mirchi Siva, it also includes performances from Harisha, Radha Ravi, Karunakaran, and more. Composed by Edwin Louis Viswanath, the song has been well-received online.
-
-🟩
-
-Actor Mirchi Siva has been released in the film 'Bad Boys Mission' in the film 'Sudu Kaum 2' and the song of the song.
-
-Director SJ. Mirchi Siva, Harisha, Radha Ravi, Karunakaran, M. S.. Bhaskar, Karate Karthi, Raghu, Arul Das, Kalki and many others have played. Karthik. Edwin Louis Viswanath has composed the film, which has been recorded by Dilli.Producers C. V.. Kumar and Thangaraj are co -produced.
-
-With the release of the songs of the film, the new song 'Bad Boys Mission' and the song of the song has been released.Composer Edwin has written and sung this song. The song, which is released with the melody of the top music, is welcomed by the Internet generation.
-
-◼️
-
-[Data](articles/90832580.json)
-
-[Extended Data](ext_articles/90832580.ext.json)
-
----
-
-### The second song is featured in the movie 'Indian 2' starring Kamal Haasan
-
-*2024-05-29 17:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/184809) · `ta`
-
-"Indian 2," starring Kamal Haasan, releases its second song, "Neelapam," featuring lyrics and a musical video. Directed by Shankar, the film also stars Siddharth, Kajal Agarwal, and more. Set for release on July 12, it's produced by Subhaskaran under Leica Productions.
-
-🟩
-
-The second song and the lyrical video for the song has been released in the movie 'Indian 2' starring 'Kamal Haasan' Kamal Haasan.. The film will be released on July 12 at the film mansion worldwide.
-
-Directed by director Shankar, 'Indian 2', 'Lokayakan' Kamal Haasan, Siddharth, Kajal Agarwal, Rakul Preet Singh, S. J.. Surya, Bobi Simha, Priya Bhavani Shankar, Brahmanandam, Samudrakani, Kalidas Jayaram and many others have been cast. Anirudh has composed the film, which is being recorded by Ravi Varman. The film is being produced by producer Subhaskaran on behalf of Leica Productions Film Company.
-
-The first song featured in the film was released. In this case, the second song 'Neelapam ..' has been released and the lyrical video for the song has been released.The song, which begins with the song 'Lotus', the background singer V.. Abhi and playback singer Srutika Samudrala have sung.The song, which is combined with melodies and love, has attracted music fans.
-
-◼️
-
-[Data](articles/edf3c645.json)
-
-[Extended Data](ext_articles/edf3c645.ext.json)
 
 ---

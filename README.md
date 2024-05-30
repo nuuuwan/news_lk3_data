@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-30 19:34:13**
+As of **2024-05-30 19:52:31**
 
 ## Newspaper Stats
 
-*Scraped **27,365** Articles*
+*Scraped **27,368** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,60 @@ newsfirstlk | 363
 islandlk | 1,477
 economynextcom | 1,567
 dailyftlk | 1,601
-adalk | 2,334
+adalk | 2,335
 adaderanalk | 3,119
-tamilmirrorlk | 3,211
+tamilmirrorlk | 3,212
 virakesarilk | 4,210
 dailymirrorlk | 4,325
-adaderanasinhalalk | 4,376
+adaderanasinhalalk | 4,377
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,364 (100.0%) of 27,365 articles have been extended.
+27,365 (100.0%) of 27,368 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-30 (Thursday)
+
+### இலங்கைக்கு விடுக்கப்பட்ட சிவப்பு எச்சரிக்கை
+
+*2024-05-30 19:31:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கைக்கு-விடுக்கப்பட்ட-சிவப்பு-எச்சரிக்கை/175-338168) · `ta`
+
+பலத்த காற்று மற்றும் கடல் சீற்றத்துடனான வானிலை நிலவும் என வளிமண்டலவியல் திணைக்களம் சிவப்பு எச்சரிக்கை விடுத்துள்ளது.
+
+அரபிக் கடல் மற்றும் வங்காள விரிகுடாவைச் சுற்றியுள்ள கடற்பகுதியில் மீன்பிடி நடவடிக்கைகளில் ஈடுபடம் மக்களுக்கு இந்த அறிவிப்பு விடுக்கப்பட்டுள்ளது.
+
+தற்போது நிலவும் தென்மேற்கு பருவமழை காரணமாக, இலங்கையை சுற்றியுள்ள கடற்பரப்புகளிலும், தென்மேற்கு மற்றும் தென்கிழக்கு அரேபிய கடல் பகுதிகளிலும், தெற்கிலும் பலத்த காற்றுடன் (மணிக்கு 60-70 கி.மீ.)  கொந்தளிப்பான கடல்களுடன் கூடிய கனமழை பெய்யக்கூடும் எனவும் வளிமண்டலவியல் திணைக்களம் சிவப்பு எச்சரிக்கையில் மேலும் தெரிவிக்கப்பட்டுள்ளது. R
+
+◼️
+
+[Data](articles/cf77ccad.json)
+
+---
+
+### සැඩ පහර මැද කැලණි ගඟට පැන්න කාන්තාවක් බේරු සුපිරි මෙහෙයුම
+
+*2024-05-30 19:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197193) · `si`
+
+කැලණි ගඟට පැන සියදිවි නසාගැනීමට උත්සාහ කළ කාන්තාවක් අසීරු මෙහෙයුමකින් පසුව බේරාගැනීමට කඩුවෙල පොලීසියේ නිලධාරීන් සහ ප්‍රදේශවාසීන් පිරිසක් සමත්ව තිබේ.
+
+අධික වැසි තත්ත්වයත් සමග කැලණි ගඟේ ජල මට්ටම ඉහළ ගොස් දැඩි සැඩ පහරක් පවතින අවස්ථාවක මෙම මෙහෙයුම ක්‍රියාත්මක කර තිබුණි.
+
+ඊයේ රාත්‍රී 8ට පමණ පවතින වැසි සමඟ දෙගොඩ තලා යන කැලණි ගඟේ කාන්තාවක් ගසාගෙන යන බවට 119 හදිසි ඇමතුම් අංකයට දුරකථන ඇමතුමක් ලැබී තිබුණි.
+
+එම අවස්ථාවේ ප්‍රදේශයේ මුර සංචාරයේ යෙදී සිටි කඩුවෙල පොලිසියේ ස්ථානාධිපති පොලිස් පරීක්ෂක කාන් වීරසිංහ මහතාට පොලිස් නිලධාරීන් එම තොරතුර කඩිනමින් දැනුම්දී තිබුණා.
+
+වහාම ක්‍රියාත්මක වූ ස්ථානාධිපතිවරයා පොලිස් නිලධාරීන්ට උපදෙස් ලබාදී තිබුණේ ගඟට බැසීමට පුද්ගලයෙකු, කඹයක් සහ විදුලි පන්දම් කිහිපයක්ද සූදානම්කරගන්නා ලෙසටය.
+
+ඒ අනුව මිනිත්තු කිහිපයක් ඇතුළත සූදානම් කෙරුණු ආම්පන්න සහ ගඟට බැසීමට හැකියාව ඇති ප්‍රදේශවාසියෙක් වන සමන් අසිත නමැත්තාද කැටුව ස්ථානාධිපතිවරයා කඩුවෙල බෝගහවත්ත පාලම අසළට වහාම පිටත්ව ගොස් තිබුණි.
+
+...
+
+[Data](articles/8b262c34.json)
+
+---
 
 ### Prisoner escapes from Kalutara Malwatta Prison
 
@@ -47,6 +85,8 @@ Prison officials are currently conducting a search operation to apprehend the es
 ◼️
 
 [Data](articles/5b83d021.json)
+
+[Extended Data](ext_articles/5b83d021.ext.json)
 
 ---
 
@@ -211,6 +251,22 @@ The event was held under the patronage of the Southern Province Governor Lakshma
 [Data](articles/031c2bf8.json)
 
 [Extended Data](ext_articles/031c2bf8.ext.json)
+
+---
+
+### කැළණිවැලි තේ වතු වල නිමි තේ  වෙන්දේසියට රැගෙන යාමට තහනමක්
+
+*2024-05-30 17:38:24* · [`adalk`](https://www.ada.lk/breaking_news/කැළණිවැලි-තේ-වතු-වල-නිමි-තේ--වෙන්දේසියට-රැගෙන-යාමට-තහනමක්/11-409922) · `si`
+
+කැළණිවැලි තේ වතු සමාගමට අයත් සියළුම තේ වතු වල නිෂ්පාදනය කරනු ලබන නිමි තේ කොළ තේ වෙන්දේසිය සදහා රැගෙන යාමට ඉඩ ලබා නොදෙන ලෙස ලංකා කම්කරු කොන්ග්‍රසයේ මහ ලේකම් සහ ජල සම්පාදන හා වතු යටිතල පහසුකම් අමාත්‍ය ජිවන් තොණ්ඩමන් මහතා පැවසිය.
+
+එම වතු සමාගමට අයත් නානුඔය උඩ රදැල්ල වතුයායේ වතු පාලන අධිකාරිය විසින් තේ ගස් ගලවා කෝපි වගාව සිදු කිරිමට තිරණය කර බැකෝ යන්ත්‍රයක් යොදාගෙන ඉකුත් මස කටයුතු කරමින් සිටියදි එයට විරෝධය පලකල එම වතුයායේ වතු කම්කරුවන් කිහිපදෙනෙකුගේ වැඩ තාවකාලිකව තහනම් කිරිම සම්බන්ධයෙන් නුවරඑලිය සහකාර කම්කරු කොමසාරිස් කාර්යාලයේ එම කම්කරුවන් විසින් සිදු කල පැමිණිල්ලක් සම්බන්ධයෙන් සහකාර කම්කරු කොමසාරිස්වරයා විසින් (30) දින දෙපාර්ශවයම කැදවා සාකච්ඡාවක් පවත්වා ඇත.
+
+එම සාකච්ඡාවට පැමිණිලි පාර්ශවය , වතු පාලන අධිකාරිය සහ අමාත්‍ය ජිවන් තොණ්ඩමන් මහතා සහභාගි වි ඇති අතර , එහිදි වතු පාලන අධිකාරිය තාවකාලිකව වැඩ තහනම් කල වතු කම්කරුවන්ට යලිත් වැඩ ලබාදිමට එකගතාවය පල නොකිරිම මත එම සාකච්ඡාව එකගතාවයකින් තොරව අවසන් වි ඇත.
+
+...
+
+[Data](articles/8bc9455d.json)
 
 ---
 
@@ -2273,81 +2329,5 @@ Second Woman: Why, where is it?
 [Data](articles/e0e19bc6.json)
 
 [Extended Data](ext_articles/e0e19bc6.ext.json)
-
----
-
-### Nostril
-
-*2024-05-30 11:42:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மூக்குத்தி-குத்திய-பெண்களுக்கு-மட்டும்/175-338140) · `ta`
-
-People gather at bus stations, hospitals, and schools sharing tales of desire, laughter, tears, and confusion. On Thursday morning, individuals wait outside the Colombo National Hospital lab for blood tests, speaking in Sinhala and Tamil. Some faint due to hunger before testing. The narrative shifts from personal experiences to medical procedures, highlighting the mix of human emotions and practical concerns during health check-ups.
-
-🟩
-
-Jewelry will not be women who do not have desire. Even if gold jewelry should be said. From birthday, Audi 18
-
-To hear such stories, you must stand in front of bus stations, hospitals and schools.Get many stories astonishing stories. Thinking and laughing?Crying?The mind will stumble
-
-Thursday (30) was standing in the morning at 8 am. They all had colored vials in the hands of all of them. Others were seated.
-
-Those who sit in chairs must sit on the city and the city. Everyone is infected with something. They came to the Laboratory at the Colombo National Hospital for blood tests.
-
-Most of the people who spoke in Sinhala and Tamil. Without arriving with relatives, some of the lonely patients have fallen faint. This is because when it comes to a blood test, no food and food should be eaten.
-
-Many of the elderly and the fed upon were helping and letting go in advance.
-
-The first woman: I came in the morning, the sidewalk manisi came, Ottola Vandu, how many hours to go,
-
-Second Woman: Why, where is it?
-
-...
-
-[Data](articles/f3fee81b.json)
-
-[Extended Data](ext_articles/f3fee81b.ext.json)
-
----
-
-### “Forbidden to speak politics”
-
-*2024-05-30 11:35:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/அரசியல்-பேச-தடை/71-338139) · `ta`
-
-The documentary on the Jaffna Public Library fire, approved for screening but forbidden from discussing politics, highlights the struggle to show it in the library auditorium over 17 years due to political sensitivities. The Municipal Council's permission comes with a ban on political speech during the event, leading to banners instead of verbal discussions.
-
-🟩
-
-The documentary on the burning of the Jaffna Public Library has been approved by the condition that politics should not speak when the public library auditorium is allowed to be screened.
-
-It is not possible as many parties have been carrying out their efforts to screen the documentary film in the library auditorium for the past 17 years.
-
-In this context, the Municipal Council, which has given permission to screen the documentary, has given permission to not speak politics at the event.
-
-So, the event organizers showed the banners written in the hall where the event was held.
-
-◼️
-
-[Data](articles/e569d08c.json)
-
-[Extended Data](ext_articles/e569d08c.ext.json)
-
----
-
-### GMOA warns of terminal hospital closures if doctor shortage not addressed
-
-*2024-05-30 11:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/GMOA-warns-of-terminal-hospital-closures-if-doctor-shortage-not-addressed/108-283685) · `en`
-
-Colombo, May 30 (Daily Mirror) - If the responsible parties do not intervene in increasing the approved number of doctors for the hospital system in the country, the Government Medical Officers' Association (GMOA) today warned that they will take a decision on the closure of terminal hospitals that are crippled without doctors.
-
-Addressing the media, its media spokesman, Dr. Chamil Wijesinghe, said that the above decision is for the upcoming Central Committee meeting of the GMOA.
-
-"Due the approved number of doctors for the hospital system not being increased, a serious crisis has been created in the hospital system of the country.
-
-"The approved number of doctors should increase compared to the increase in the population of the country and the expansion of the health system in the past, due to various reasons given by the Management Services Department," he said.
-
-...
-
-[Data](articles/45d1c831.json)
-
-[Extended Data](ext_articles/45d1c831.ext.json)
 
 ---

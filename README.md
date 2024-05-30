@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-30 11:18:25**
+As of **2024-05-30 11:34:07**
 
 ## Newspaper Stats
 
-*Scraped **27,253** Articles*
+*Scraped **27,254** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 1,601
 adalk | 2,315
 adaderanalk | 3,103
 tamilmirrorlk | 3,197
-virakesarilk | 4,193
+virakesarilk | 4,194
 dailymirrorlk | 4,308
 adaderanasinhalalk | 4,357
 
@@ -26,37 +26,69 @@ adaderanasinhalalk | 4,357
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,239 (99.9%) of 27,253 articles have been extended.
+27,253 (100.0%) of 27,254 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-30 (Thursday)
 
-### பொது வேட்பாளர் தெரிவை கிழக்கிலிருந்து ஆரம்பிக்க வேண்டும் ; அவரை தமிழ் மக்களின் குறியீடாக நிறுத்தவேண்டும் - யாழ். பல்கலைக்கழக மாணவர் ஒன்றியம் வேண்டுகோள்
+### Landslide alert to 6 districts - National Building and Research Institute
+
+*2024-05-30 11:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/184839) · `ta`
+
+A landslide alert has been issued for six districts in Sri Lanka: Colombo, Kandy, Kegalle, Kurunegala, Nuwara Eliya, and Ratnapura. The warning remains effective until 7 am tomorrow (31st).
+
+🟩
+
+The National Building Research Institute said that the warning has been issued till 7 am tomorrow (31).
+
+Accordingly, a landslide disaster has been issued to Colombo, Kandy, Kegalle, Kurunegala, Nuwara Eliya and Ratnapura districts.
+
+◼️
+
+[Data](articles/8ab33d93.json)
+
+[Extended Data](ext_articles/8ab33d93.ext.json)
+
+---
+
+### மரக்கறிகளுக்கு கடும் தட்டுப்பாடு ஏற்படுவதுடன் விலைகள் துரிதமாக உயரும் - நுவரெலியா பொருளாதார நிலையம்
+
+*2024-05-30 11:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/184841) · `ta`
+
+எதிர்காலத்தில் மரக்கறிகளுக்கு கடும் தட்டுப்பாடு ஏற்படுவதுடன் விலைகள் துரிதமாக உயரும் என நுவரெலியா பொருளாதார நிலையம் எச்சரித்துள்ளது.
+
+நிலவும் கடும் மழை மற்றும் காற்றுடன் கூடிய காலநிலை காரணமாக பயிரிடப்பட்ட விவசாய நிலங்களில் தண்ணீர் தேங்கி பயிர்கள் அழிந்து போவதாலும், காற்றினால் மரக்கறி வேர்கள் உதிர்ந்து போவதாலும் தேவைக்கு ஏற்ப விநியோகம் செய்ய முடியாத நிலை ஏற்பட்டுள்ளது.
+
+மற்றும் மரக்கறிகளின் விலை படிப்படியாக அதிகரிக்கப்படும் நிலை ஏற்பட்டுள்ளதாகவும், சுமார் ஒரு மாத காலப்பகுதிக்குள் மரக்கறிகளுக்கு கடும் தட்டுப்பாடு ஏற்படும் சாத்தியக்கூறுகள் காணப்படுவதாகவும் நுவரெலியா பொருளாதார நிலைய வர்த்தக சங்கம் எச்சரிக்கை விடுத்துள்ளது.
+
+மரக்கறி விலைகள் மற்றும் தற்போதைய விவசாயிகளின் பிரச்சினைகள் குறித்து கலந்துரையாடுவதற்காக நுவரெலியா பொருளாதார மத்திய நிலையத்தில் தொழிற்சங்கம் (30) ஏற்பாடு செய்திருந்த விசேட செய்தியாளர் மாநாட்டிலேயே அவர்கள் இதனைத் தெரிவித்தனர்.
+
+...
+
+[Data](articles/90af5175.json)
+
+---
+
+### The general candidate should start the choice from the east;To stop him as a symbol of the Tamil people - Jaffna. University Student Union Request
 
 *2024-05-30 11:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/184838) · `ta`
 
-பொதுவேட்பாளர் குறிப்பிட்ட சில தரப்பினரின் அரசியல் நலன்களை பிரதிபலிப்பவராக விளங்க கூடாது- அவர் தமிழ் மக்களின் குறியீடாக நிறுத்தப்படவேண்டும் என வேண்டுகோள் விடுத்துள்ள யாழ் பல்கலைகழக மாணவர் ஒன்றியம் முழுமையாக ஆக்கிரமிக்கப்பட்ட கிழக்கு மாகாணத்தை அடையாளப்படுத்தும் வகையில் கிழக்கிலிருந்து வேட்பாளர் தேர்வு நடைபெற வேண்டும். அவ்வேட்பாளர் பெண்ணொருவாராக இருப்பின் உத்தமம்.எனவும் தெரிவித்துள்ளது
+The Jaffna University Student Union urges the Tamil community to select a general candidate from the East as a symbol of unity and to avoid candidates tied to specific political parties. They emphasize the importance of addressing the structural genocide faced by Eelam Tamils and moving beyond the limitations of the 13th Amendment. The union calls for a focus on creating foreign policies and engaging with multinational corporations independently. They also stress the need for a non-politician as a common candidate, capable of working across political lines post-election. The statement highlights the critical role of Tamil votes in challenging Sinhala-Buddhist chauvinism and the necessity of making informed decisions based on the broader interests of the Tamil people.
 
-சிறிலங்காவின் அரச தலைவரைத் தேர்வு செய்யும் தேர்தல் தொடர்பான பேச்சுக்கள் முனைப்புப் பெற்றுள்ள நிலையில், கட்டமைக்கப்பட்ட இனவழிப்புப் பொறிமுறைகளிற்குள் (Structural Genocide) சிக்குண்டு இனவிடுதலை வேண்டி நிற்கும் ஈழத்தமிழ் மக்கள் தமது அரசியல் விடுதலைப்பயணத்தில் இத்தேர்தல் களத்தினை தங்கள் நலன்சார்ந்து எவ்வாறானதாகக் கையாள வேண்டும் என்பதில் கடந்த கால அனுபவங்களைப் பரிசீலனை செய்து இனியாவது சுதாகரித்து முன்நகர வேண்டிய அவசியநிலைக்குத் தள்ளப்பட்டுள்ளோம்.
+🟩
+
+The general candidate should not reflect the political interests of certain parties- the Jaffna University Student Union, which has appealed to the Tamil people, should be held from the East to identify the entire occupied Eastern Province to identify the occupied Eastern Province.. If the candidate is a woman, it is said.
+
+While the elections related to the election of the head of the state of Sri Lanka have been initiating, the Eelam Tamils ​​who are in the Structural Genocide within the structural genocide are required to take up the election in their political liberation.
+
+In the 15 years since 2009, the Tamil people and the Tamil nationalist politicians have failed to save an inch of the homeland from the Tamil language and the Tamil people and the Tamil nationalist politicians have failed to make the people of Tamil Nadu, which has only been promoted by the Tamil parties, which are only relying on empty promises in the name of diplomacy and diplomacy.
 
 ...
 
 [Data](articles/1e9981db.json)
 
----
-
-### 6 மாவட்டங்களுக்கு மண்சரிவு எச்சரிக்கை - தேசிய கட்டிடம் மற்றும் ஆராய்ச்சி நிறுவனம்
-
-*2024-05-30 10:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/184839) · `ta`
-
-நாளை (31) காலை 7 மணி வரை அமுலில் இருக்கும் வகையில் குறித்த எச்சரிக்கை விடுக்கப்பட்டுள்ளதாக தேசிய கட்டிட ஆராய்ச்சி நிறுவனம் தெரிவித்துள்ளது.
-
-இதற்கமைய கொழும்பு, கண்டி, கேகாலை, குருணாகல், நுவரெலியா மற்றும் இரத்தினபுரி ஆகிய மாவட்டங்களுக்கு மண்சரிவு அனர்த்த எச்சரிக்கை விடுக்கப்பட்டுள்ளது.
-
-◼️
-
-[Data](articles/8ab33d93.json)
+[Extended Data](ext_articles/1e9981db.ext.json)
 
 ---
 
@@ -98,6 +130,8 @@ When asked as to why he did not make a statement today as he assured earlier, Ra
 
 [Data](articles/d394d25a.json)
 
+[Extended Data](ext_articles/d394d25a.ext.json)
+
 ---
 
 ### Underworld figure Midigama Ruwan to be extradited to Sri Lanka
@@ -116,23 +150,31 @@ It was reported that a special police team has been dispatched to Dubai to bring
 
 [Data](articles/75dbec4f.json)
 
+[Extended Data](ext_articles/75dbec4f.ext.json)
+
 ---
 
-### கொழும்பு, கிராண்ட்பாஸ் பகுதியில் கால்வாயிலிருந்து பெண்ணின் சடலம்  மீட்பு !
+### Woman's body recovered from Canal in Grandpass area, Colombo
 
 *2024-05-30 10:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/184831) · `ta`
 
-கொழும்பு பகுதியில் உள்ள கழிவு நீர் கால்வாயிலிருந்து பெண்ணொருவரின் சடலம் மீட்க்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+A woman's body, aged around 45-50, dressed in a red dress with yellow flowers, was found in a wastewater canal in Colombo's Grandpass area. The discovery was made on Wednesday, and her identity remains unknown as authorities continue investigating.
 
-கிராண்ட்பாஸ் பொலிஸ் பிரிவுக்குட்பட்ட ஸ்டேஸ்புர பகுதியில் நேற்று புதன்கிழமை  (29) பெண் ஒருவரின் சடலம் காணப்படுவதாக பொலிஸாருக்கு கிடைத்த  தகவலின் அடிப்படையில் குறித்த சடலம் மீட்க்கப்பட்டுள்ளது.
+🟩
 
-சடலம் அடையாளம் காணப்பட முடியாத நிலையில் உள்ளதாகவும் சுமார் 45 மற்றும் 50 வயதுக்கு இடைப்பட்ட 4 அடி 09 அங்குல உயரம் கொண்ட பெண்  எனவும் மஞ்சள் பூக்கள் கொண்ட சிவப்பு நிற ஆடையை அணிந்துள்ளார் எனவும் பொலிஸார் தெரிவித்துளளனர்.
+The body of a woman has been recovered from the waste water canal in Colombo, police said.
 
-மேலும், சடலமானது  கொழும்பு தேசிய வைத்தியசாலையில் வைக்கப்பட்டுள்ளதோடு  சம்பவம் தொடர்பாக மேலதிக விசாரணைகளை பொலிஸார்  மேற்கொண்டு வருகின்றனர்.
+The body has been recovered based on information received by the police that the body of a woman was found on Wednesday (29) in the Staspura area of ​​the Grandpass police division.
+
+Police said the body was unidentified and a woman between the ages of about 45 and 50 years, and she was wearing a red -colored red dress with a yellow flower.
+
+The body is being kept at the Colombo National Hospital and further investigations are being carried out by the police.
 
 ◼️
 
 [Data](articles/002328dc.json)
+
+[Extended Data](ext_articles/002328dc.ext.json)
 
 ---
 
@@ -164,17 +206,23 @@ Ratnapura-  Kuruwita, Elapatha, Kiriella, Ayagama and Kalawana DSDs and surroun
 
 ---
 
-### கரையோர ரயில் சேவை பாதிப்பு
+### Coastal train service impact
 
 *2024-05-30 10:21:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கரையோர-ரயில்-சேவை-பாதிப்பு/175-338130) · `ta`
 
-அம்பலாங்கொடை ரயில் நிலையத்திற்கு அருகில் தொழிநுட்ப கோளாறு காரணமாக ரயில் ஒன்று நிறுத்தி வைக்கப்பட்டுள்ளது.
+Due to a technical failure near Ambalangoda, the coastal train service has been disrupted. The Railway Department reports an impact on the coastal railway line.
 
-இதனால் கரையோர  ரயில் மார்க்கத்தில் ரயில் சேவை  பாதிக்கப்பட்டுள்ளதாக ரயில்வே திணைக்களம் தெரிவித்துள்ளது. R
+🟩
+
+A train has been suspended due to technical failure near the Ambalangoda railway station.
+
+The Railway Department said that the train service has been affected at the coastal railway line. Remble
 
 ◼️
 
 [Data](articles/cee23cfc.json)
+
+[Extended Data](ext_articles/cee23cfc.ext.json)
 
 ---
 
@@ -204,17 +252,23 @@ Most Sri Lankans are desperately trying to join the two militaries in Russia and
 
 ---
 
-### 2022 நவம்பர் - 2023 ஒக்டோபர் வரை கிறிஸ்தவர்களுக்கு எதிராக 63 வன்முறைச் சம்பவங்கள் பதிவு
+### 63 violent incidents against Christians from October 2022 - 2023
 
 *2024-05-30 10:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/184805) · `ta`
 
-இலங்கையில் 2022 நவம்பர் - 2023 ஒக்டோபர் வரையான ஒருவருடகாலத்தில் நாடளாவிய ரீதியில் கிறிஸ்தவர்களுக்கு எதிராக 63 வன்முறைச்சம்பவங்கள் இடம்பெற்றிருப்பதாகவும், இவற்றில் முறையே புத்தளம், களுத்துறை மற்றும் யாழ்ப்பாணம் ஆகிய மாவட்டங்களில் அதிக எண்ணிக்கையான சம்பவங்கள் பதிவாகியிருப்பதாகவும் இலங்கை தேசிய கிறிஸ்தவ சுவிசேச (எவாஞ்சலிக்கல்) கூட்டிணைவினால் வெளியிடப்பட்டுள்ள புதிய ஆய்வறிக்கையில் சுட்டிக்காட்டப்பட்டுள்ளது.
+From November 2022 to November 2023, Sri Lanka saw 63 acts of violence against Christians, primarily in Puttalam, Kalutara, and Jaffna. A report by the Sri Lankan National Christian Gospel highlights ongoing religious and racial violence despite political shifts, with Christians being targeted by both state officials and unidentified individuals. Violence took place across 15 districts, with the highest incidents reported in Buddhist-majority areas.
 
-இலங்கையில் கடந்த 2022 நவம்பர் - 2023 ஒக்டோபர் வரையான 12 மாதகாலப்பகுதியில் கிறிஸ்தவ சமூகத்துக்கு எதிராக இடம்பெற்ற அத்துமீறல் மற்றும் வன்முறை சம்பவங்கள் தொடர்பில் இலங்கை தேசிய கிறிஸ்தவ சுவிசேச கூட்டிணைவினால் சேகரிக்கப்பட்டு வழங்கப்பட்ட தரவுகளை அடிப்படையாகக்கொண்டு வெரிட்டே ரிசேர்ச் அமைப்பினால் 'இலங்கையில் கிறிஸ்தவர்களுக்கு எதிரான வன்முறைகளின் போக்கு தொடர்பான ஆய்வு' எனும் 60 பக்க ஆய்வறிக்கை தயாரிக்கப்பட்டுள்ளது. இவ்வறிக்கையின் வெளியீட்டு நிகழ்வு செவ்வாய்கிழமை (28) கொழும்பில் அமைந்துள்ள இனத்துவ கற்றைகளுக்கான சர்வதேச நிலையத்தின் கேட்போர்கூடத்தில் நடைபெற்றது.
+🟩
+
+The Sri Lankan National Christian Gospel (Evangelikal) has published a new report in Sri Lanka, which has reported 63 violence against Christians nationwide from November 2022 in Sri Lanka, and that there have been a large number of incidents in the districts of Puttalam, Kalutara and Jaffna respectively.
+
+Based on the data provided by the National Christian Gospel gathering in Sri Lanka over the 12 -month period of the Christian community over the 12th of November - 2023 in Sri Lanka, the 60 -page study of 'Violence against Christians in Sri Lanka has been prepared'. The publication of the report was held on Tuesday (28) at the International Center for the International Center for Ethnic Lying in Colombo.
 
 ...
 
 [Data](articles/d94f4a89.json)
+
+[Extended Data](ext_articles/d94f4a89.ext.json)
 
 ---
 
@@ -238,43 +292,55 @@ Furthermore, the Colombo Magistrate Court has imposed a travel ban on the captai
 
 ---
 
-### சிகரெட் பாவனையால் நாளொன்றுக்கு 50 மரணங்கள்
+### 50 deaths per day due to cigarette use
 
 *2024-05-30 10:08:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிகரெட்-பாவனையால்-நாளொன்றுக்கு-50-மரணங்கள்/175-338128) · `ta`
 
-சிகரெட் பாவனையால் இந்நாட்டில் நாளாந்தம் 50 பேர் உயிரிழப்பதாக மதுபானம் மற்றும் போதைப்பொருள் தகவல் நிலையம் தெரிவித்துள்ளது.
+Sri Lanka sees 50 daily deaths linked to cigarettes, totaling 20,000 yearly. Despite a 9.1% reduction in adult smoking rates and a decline in cigarette production by 19%, around 1.5 million people still smoke. Concerns arise as smoking habits increase among schoolchildren, and multinational tobacco companies allegedly target youth.
 
-அத்துடன், புகைப்பிடிப்பதால் ஒவ்வொரு ஆண்டும் சுமார் 20,000 பேர் உயிரிழப்பதாக நிலையம் சுட்டிக்காட்டுகிறது.
+🟩
 
-நாளை (31) அனுசரிக்கப்படும் உலக புகையிலை எதிர்ப்பு தினம் தொடர்பாக மதுபானம் மற்றும் போதைப்பொருள் தகவல் நிலையம் விடுத்துள்ள அறிக்கையிலேயே இவ்வாறு தெரிவிக்கப்பட்டுள்ளது.
+About 50 people die daily in the country due to cigarette use, according to the liquor and narcotics information center.
 
-புகையிலைத் தொழிலின் குறுக்கீட்டிலிருந்து நமது சிறுவர்களை பாதுகாப்பதே இந்த ஆண்டு உலக புகையிலை எதிர்ப்பு தினத்தின் தொனிப்பொருளாகும்.
+In addition, the station points out that about 20,000 people die each year due to smoking.
 
-தற்போது இலங்கையில் சிகரெட் பாவனை 9.1 வீதத்தால் குறைந்துள்ளதுடன் இளைஞர்கள் மத்தியில் சிகரெட் பாவனை வேகமாக குறைந்து வருவதாக மதுபானம் மற்றும் போதைப்பொருள் தகவல் நிலையம் தெரிவித்துள்ளது.
+This was stated in a statement issued by the Liquor and Drug Information Center on the occasion of World Tobacco Day, which is observed tomorrow (31).
 
-புகையிலை நிறுவன அறிக்கைகளின்படி, கடந்த ஆண்டில் சிகரெட் உற்பத்தி 19 சதவீதம் குறைந்துள்ளது.
+The theme of the World Anti -Tobacco Day this year is to protect our children from the interference of the tobacco industry.
 
-உலகில் சிகரெட் பாவனை குறைவடைந்து வரும் நாடுகளில் இலங்கையில் நல்ல போக்கு காணப்பட்டாலும் இன்னும் சுமார் 1.5 மில்லியன் மக்கள் சிகரெட் பாவனையில் ஈடுபடுவதாக சுட்டிக்காட்டப்பட்டுள்ளது.
+The use of cigarettes in Sri Lanka has been reduced by 9.1 percent and the use of cigarettes among young people is rapidly decreasing, according to the liquor and drug information center.
+
+According to tobacco company reports, cigarette production declined by 19 percent last year.
+
+Although Sri Lanka has a good trend in countries that are declining cigarettes in the world, about 1.5 million people are still engaged in cigarettes.
 
 ...
 
 [Data](articles/c9bb124d.json)
 
+[Extended Data](ext_articles/c9bb124d.ext.json)
+
 ---
 
-### ‘சர்வஜன வாக்கெடுப்புக்கு ரணில் செல்லார்’
+### Ranil goes to referendum
 
 *2024-05-30 10:08:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சர்வஜன-வாக்கெடுப்புக்கு-ரணில்-செல்லார்/175-338127) · `ta`
 
-ஜனாதிபதித் தேர்தலை வெல்ல முடியாத ஜனாதிபதி ரணில் விக்கிரமசிங்க, ஒருபோதும் ஒருபோதும் சர்வஜன வாக்கெடுப்பொன்றுக்கு செல்ல மாட்டாரென தேசிய மக்கள் சக்தியின் தலைவர் அநுர குமார திஸாநாயக்க புதன்கிழமை (29) தெரிவித்துள்ளார்.
+National People's Power Leader Anura Kumara Dissanayake stated that President Ranil Wickremesinghe, facing defeat in the presidential election, won't attend a referendum but might consider it if he wins. He accused Wickremesinghe and Basil Rajapakse of spreading confusion due to their lack of electoral plans.
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்கவால் சர்வஜன வாக்கெடுப்பில் வெல்ல முடியுமானால் நிச்சயமாக அவரால் ஜனாதிபதித் தேர்தலுக்குச் செல்ல முடியுமென பாராளுமன்ற உறுப்பினரான அநுர குமார திஸாநாயக்க கூறியுள்ளார்.
+🟩
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்கவும், பசில் ராஜபக்‌ஷவும் தேர்தலுக்கான எத்திட்டங்களையோ அல்லது நோக்குகளையோ கொண்டிராத நிலையில் அவர்கள் குழப்பத்தை ஏற்படுத்த முயல்வதாக அநுர குமார திஸாநாயக்க மேலும் குறிப்பிட்டுள்ளார்.
+President Ranil Wickremesinghe, who is unable to win the presidential election, will never go to a referendum, said National People's Power Leader Anura Kumara Dissanayake on Wednesday (29).
+
+Parliamentarian Anura Kumara Dissanayake has said that if President Ranil Wickremesinghe can win the referendum, he will definitely go to the presidential election.
+
+Anura Kumara Dissanayake added that President Ranil Wickremesinghe and Basil Rajapakse are trying to create confusion as they have no plans or intentions for the election.
 
 ◼️
 
 [Data](articles/99709984.json)
+
+[Extended Data](ext_articles/99709984.ext.json)
 
 ---
 
@@ -320,25 +386,33 @@ The Thai cabinet also approved visa-on-arrival for a total of 31 countries, up f
 
 ---
 
-### எரிபொருள் கசிவு ஏற்பட்ட இந்திய கப்பலுக்கு பொறுப்பேற்பு
+### The Indian ship was responsible for the fuel leak
 
 *2024-05-30 09:58:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எரிபொருள்-கசிவு-ஏற்பட்ட-இந்திய-கப்பலுக்கு-பொறுப்பேற்பு/175-338126) · `ta`
 
-அண்மையில் இந்திய நிறுவனமொன்றுக்கு சொந்தமான கப்பல் பழுதுபார்ப்பதற்காக கொழும்பு துறைமுகத்திற்கு வந்துள்ள நிலையில், எரிபொருள் கசிவு ஏற்பட்டுள்ளதாக தெரிவிக்கப்படுகிறது.
+An Indian ship leaked fuel upon arrival at Colombo port for repairs. The Maritime Environmental Protection Authority took control of the vessel and initiated legal action against the ship's company and its insurer. Compensation for the spill is being processed, and the ship's captain faces a travel ban to prevent departure.
 
-இந்த நிலையில், எரிபொருள் கசிவு ஏற்பட்ட கப்பலை பொறுப்பேற்றுள்ளதாக  கடல்சார் சூழல் பாதுகாப்பு அதிகாரசபை தெரிவித்துள்ளது.
+🟩
 
-குறித்த கப்பலில் இருந்து எரிபொருள் கசிவு ஏற்பட்டமை தொடர்பில் கப்பலுக்கு சொந்தமான நிறுவனம் மற்றும் காப்புறுதி நிறுவனத்திற்கு எதிராக சட்ட நடவடிக்கை எடுக்கப்பட்டுள்ளதாகவும் அதன் பேச்சாளர் ஒருவர் தெரிவித்தார்.
+Recently, a fuel leak has been reported as an Indian company has arrived at the Colombo port for repair.
 
-கடல்சார் சூழல் பாதுகாப்பு அதிகாரசபை சட்டத்தின் கீழ் குறித்த சம்பவத்திற்கு நட்டஈடு பெற்றுக்கொடுக்கும் நடவடிக்கையில் ஈடுபட்டுள்ளதாக தெரிவிக்கப்படுகின்றது.
+The Maritime Environmental Protection Authority said that the fuel leak ship was taken over.
 
-அண்மையில் இந்திய நிறுவனமொன்றுக்கு சொந்தமான கப்பல் பழுதுபார்ப்பதற்காக கொழும்பு துறைமுகத்திற்கு வந்துள்ள நிலையில், எரிபொருள் கசிவு ஏற்பட்டுள்ளதாக தெரிவிக்கப்படுகிறது.
+A spokesman said legal action has been taken against the ship -owned company and the insurance company in connection with the fuel leak from the ship.
 
-கப்பலுக்கு சொந்தமான நிறுவனமும் தவறை ஏற்றுக் கொண்டு இழப்பீடு வழங்க ஒப்புக்கொண்டுள்ளதாக கடல்சார் சூழல் பாதுகாப்பு அதிகாரசபை தெரிவித்துள்ளது.
+It is reported that the Maritime Environmental Protection Authority is in the process of paying compensation for the incident.
 
-...
+Recently, a fuel leak has been reported as an Indian company has arrived at the Colombo port for repair.
+
+The Maritime Environmental Protection Authority said that the ship -owned company has also agreed to accept the mistake and pay compensation.
+
+Meanwhile, the Colombo Magistrate's Court has taken steps to impose a travel ban to prevent the Indian ship's captain from leaving the country.R
+
+◼️
 
 [Data](articles/15246d3e.json)
+
+[Extended Data](ext_articles/15246d3e.ext.json)
 
 ---
 
@@ -418,21 +492,29 @@ The identity of the deceased is yet to be ascertained and the body is currently 
 
 ---
 
-### சட்டவிரோதமாக தங்கத்தை இறக்குமதி செய்த ஐந்து நிறுவனங்களுக்கு அபராதம் விதிப்பு
+### Fines for five companies that illegally imported gold
 
 *2024-05-30 09:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/184833) · `ta`
 
-இவ் ஆண்டு  நாட்டிற்கு சட்டவிரோதமான முறையில் தங்கத்தை இறக்குமதி செய்த ஐந்து நிறுவனங்கள் இனங்காணப்பட்டுள்ளதாகவும், அந்நிறுவனங்களுக்கு 124 கோடி 10 இலட்சம் ரூபாய்  அபராதம் விதிக்கப்பட்டுள்ளதாகவும் நிதி இராஜாங்க அமைச்சர் ரஞ்சித் சியம்பலாபிட்டிய தெரிவித்துள்ளார்.
+Five companies were fined Rs 124 crore 10 lakh for illegally importing gold. One faces a Rs 17 crore 90 lakh penalty. Measures aim to curb such activities, preventing revenue loss and addressing fraud within the gold import industry.
 
-அதில் ஒரு நிறுவனத்துக்கு 17 கோடி 90 இலட்சம் ரூபாய் ரூபா அபராதம் செலுத்த உத்தரவிடப்பட்டுள்ளதுடன்,  தங்கம் இறக்குமதியை மேற்கொள்ளும் அனைத்து உரிமம் பெற்ற நிறுவனங்களும் இந்த சட்டவிரோத செயல்களில் இருந்து விடுபட வேண்டுமென எச்சரிக்கை விடுக்கப்பட்டுள்ளது.
+🟩
 
-அரசாங்கத்திற்கு கிடைக்கும் வருமானத்தை இழக்கும் சட்டவிரோத செயற்பாடுகளை தடுக்க நடவடிக்கைகள் மேற்கொள்ளப்படுவதாக அவர் தெரிவித்துள்ளார்.
+Finance Minister Ranjith Siyambalapitiya said five companies that illegally imported gold to the country have been identified and fined Rs 124 crore 10 lakhs.
 
-தங்கப் பொருட்களை இறக்குமதி செய்யும் சில தரப்பினர் அதனை பெரும் மோசடியாக மாற்றியுள்ளதாகவும் அதனைச் சுற்றி ஒரு மாஃபியா இருப்பதாகவும் ராஜாங்க அமைச்சர் மேலும் தெரிவித்தார்.
+A company has been ordered to pay a fine of Rs 17 crore 90 lakhs and all the licensed companies that make gold imports should be free from these illegal activities.
 
-...
+He said measures are being taken to prevent illegal activities that lose their income from the government.
+
+The Minister of State added that some parties who import gold products have made it a great fraud and there is a mafia around it.
+
+A special gazette notification was issued in March last year to impose restrictions on gold imports in accordance with President Ranil Wickremesinghe's directive to prevent gold smuggling in the country to prevent illegal importation.
+
+◼️
 
 [Data](articles/b5748e8b.json)
+
+[Extended Data](ext_articles/b5748e8b.ext.json)
 
 ---
 
@@ -522,15 +604,21 @@ The Director General of the Sports Development Department has been appointed as 
 
 ---
 
-### கொட்டா வீதியில் தீப்பற்றி எரிந்த வாகனம்
+### The vehicle burned at Kota Road
 
 *2024-05-30 08:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/184830) · `ta`
 
-பொரளை, கொட்டா வீதியில் உள்ள ருஹுனுகல மாவத்தையில் வாகனமொன்று நேற்று புதன்கிழமை (29) இரவு தீப்பிடித்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+A vehicle on Ruhunugala Mawatha, Kotta Road, Borella, caught fire on Wednesday night.
+
+🟩
+
+A vehicle at Ruhunugala Mawatha on Kotta Road, Borella, was caught fire on Wednesday night (29), police said.
 
 ◼️
 
 [Data](articles/1baf39c8.json)
+
+[Extended Data](ext_articles/1baf39c8.ext.json)
 
 ---
 
@@ -604,6 +692,8 @@ Police have referred the girls to the Judicial Medical Officer (JMO) for examina
 
 [Data](articles/7c5b26ff.json)
 
+[Extended Data](ext_articles/7c5b26ff.ext.json)
+
 ---
 
 ### Election Commission slams election delay moves
@@ -650,15 +740,21 @@ After 14 years in opposition, the Labour party now has the chance to win back po
 
 ---
 
-### கரையோர ரயில் சேவைகள் பாதிப்பு
+### Impact of coastal train services
 
 *2024-05-30 08:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/184829) · `ta`
 
-அம்பலாங்கொடை ரயில் நிலையத்திற்கு அருகில் தொழிநுட்ப கோளாறு காரணமாக ரயில் ஒன்று நிறுத்தி வைக்கப்பட்டுள்ளதனாலேயே கரையோர  ரயில் மார்க்கத்தில் ரயில் சேவை  பாதிக்கப்பட்டுள்ளதாக ரயில்வே திணைக்களம் தெரிவித்துள்ளது.
+A technical issue near Ambalangoda railway station disrupted coastal train services, affecting travel plans.
+
+🟩
+
+The Railway Department said that a train service has been affected due to a technical disorder near the Ambalangoda railway station.
 
 ◼️
 
 [Data](articles/fda5f52c.json)
+
+[Extended Data](ext_articles/fda5f52c.ext.json)
 
 ---
 
@@ -2127,27 +2223,5 @@ Cardinal Ranjith made this remark after paying his last respects to Tilina Haras
 [Data](articles/9df663cf.json)
 
 [Extended Data](ext_articles/9df663cf.ext.json)
-
----
-
-### Iraq official invites Sri Lanka investors to do business in Bagdad, Kurdistan
-
-*2024-05-29 19:00:00* · [`economynextcom`](https://economynext.com/iraq-official-invites-sri-lanka-investors-to-do-business-in-bagdad-kurdistan-165363/) · `en`
-
-ECONOMYNEXT – The Chargé d’Affairs of the Embassy of Republic of Iraq in Colombo Mohammed Obaid Jabur Zahir Al- Masoudi has invited Sri Lankan investors to establish business links in Bagdad and Kurdistan.
-
-Trade Minister Nalin Fernando met with Al- Masoudi on Wednesday to discuss holding the 9th session of Iraq-Sri Lanka for Economic and Technical Cooperation in Sri Lanka in November.
-
-The forum offers a platform to develop bilateral relations between both countries.
-
-“The Head of the embassy encourages Sri Lankan investors to establish business links in Bagdad and Kurdistan,” the trade ministry said in a statement after the meeting. “[He] explained that through direct shipping facilities, Sri Lanka can enjoy the benefits of fast and convenient trade facilitation to Europe and the Middle East countries.”
-
-Iraq is one of the main buyers of Sri Lanka’s tea. Nearly 150,000 migrant Sri Lankans work in Iraq.
-
-...
-
-[Data](articles/3cc9e059.json)
-
-[Extended Data](ext_articles/3cc9e059.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-30 20:52:52**
+As of **2024-05-30 21:03:55**
 
 ## Newspaper Stats
 
-*Scraped **27,381** Articles*
+*Scraped **27,383** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,34 @@ adalk | 2,336
 adaderanalk | 3,120
 tamilmirrorlk | 3,212
 virakesarilk | 4,220
-dailymirrorlk | 4,325
+dailymirrorlk | 4,327
 adaderanasinhalalk | 4,378
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,371 (100.0%) of 27,381 articles have been extended.
+27,381 (100.0%) of 27,383 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-30 (Thursday)
+
+### Engage primary kids more in extra-curricular activities than academics: Minister
+
+*2024-05-30 20:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Engage-primary-kids-more-in-extra-curricular-activities-than-academics-Minister/108-283724) · `en`
+
+Colombo, May 30 (Daily Mirror) - Children in primary grades should be engaged in more extracurricular and co-curricular activities than academic activities, Education Minister Susil Premajayantha said.
+
+While participating as the chief guest at the award ceremony of the under-15 and under-17 cricket tournament organized by the Sri Lanka School Cricket Association at the Nelum Pokuna Theater with the support of the Sri Lanka Cricket Institute, he said that by engaging in extra-curricular activities like cricket, a balanced personality can be formed in the children, and thus a child with balanced abilities can be created.
+
+Due to hard work, the school sports tournaments that were missed during the Covid-19 period were able to be properly conducted and completed.
+
+...
+
+[Data](articles/0dcddfa3.json)
+
+---
 
 ### Assistant Customs Superintendent arrested in Fell
 
@@ -72,23 +88,29 @@ An Assistant Superintendent of Customs has been arrested in Colombo with 7,000 s
 
 ---
 
-### நாட்டை மீண்டும் நெருக்கடிக்குள் தள்ள விரும்புவோர் தான் பொருளாதார பரிமாற்ற சட்ட மூலத்தை எதிர்க்கின்றனர் - நிதி இராஜாங்க அமைச்சர் செஹான் சேமசிங்க
+### Those who want to put the country back in crisis are opposed to the Economic Transfer Act - Finance Minister Sehan Semasinghe
 
 *2024-05-30 19:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/184906) · `ta`
 
-நாட்டை மீண்டும் பொருளாதார நெருக்கடிக்குள் தள்ள வேண்டிய தேவை உள்ள தரப்பினர்களுக்கே பொருளாதார மாற்ற சட்டமூலத்தை எதிர்க்க முடியும் என நிதி இராஜாங்க அமைச்சர் செஹான் சேமசிங்க தெரிவித்தார்.
+Finance Minister Xihan Semasinghe argues that opponents of the Economic Change Bill aim to plunge the country back into crisis, driven by political motives rather than genuine concern for the economy. He highlights the government's ambitious plans to boost productivity, improve infrastructure, create jobs, and foster innovation, contrasting these with the negative commentary from those unfamiliar with the bill. The minister emphasizes the importance of implementing targeted legislation to avoid past economic downturns and outlines specific financial targets for reducing the country's debt burden, increasing economic growth, and enhancing employment rates. Additionally, he discusses goals for gender equality in the workforce and maintaining low unemployment levels, alongside ambitions to grow exports and attract foreign direct investments.
 
-நாட்டின் பொருளாதாரம் தொடர்பில் தற்போதைய அரசாங்கம் நம்பிக்கையான இலக்கைக் கொண்டிருந்தாலும், ஏனைய எதிர்க்கட்சிகள் அரசியல் நோக்கத்தை மாத்திரம் கொண்டுள்ளதாகவும் அவர் குறிப்பிட்டார்.
+🟩
 
-ஜனாதிபதி ஊடக மையத்தில் 30 ஆம் திகதி வியாழக்கிழமை நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே நிதி இராஜாங்க அமைச்சர் செஹான் சேமசிங்க இதனைத் தெரிவித்தார்.
+Finance Minister Xihan Semasinghe said that only parties who need to put the country back into economic crisis can oppose the economic change bill.
 
-பொருளாதார மாற்ற சட்டமூலத்தின் ஊடாக உற்பத்தித்திறனை அதிகரித்து ஒவ்வொரு பிரஜைக்கும் சம வாய்ப்புள்ள நாடாக இலங்கையை மாற்றுவதே எமது எதிர்பார்ப்பாகும். மேலும் சிறந்த உட்கட்டமைப்பு வசதிகளைக்கொண்ட நாட்டை உருவாக்கவும் இதன் மூலம் எதிர்பார்க்கப்படுகிறது.
+He noted that the current government has a confident goal regarding the country's economy but that other opposition parties have only political motives.
 
-அதேபோன்று, பொருளாதார வளர்ச்சிக்கு இணைந்த வகையில் தொழில் வாய்ப்புகளை உருவாக்குவதுடன், புத்தாக்கத்துடன் கூடிய ஏற்றுமதி விரிவாக்கப்பட்ட போட்டிச் சந்தையை உருவாக்கவும் எதிர்பார்க்கப்படுகிறது.
+Finance Minister Xihan Semasinghe said this at a media briefing held at the Presidential Media Center on Thursday 30th.
+
+Our expectation is to increase productivity through the Economic Change Bill and transform Sri Lanka into an equal opportunity for every citizen. It is also expected to create a country with better infrastructure.
+
+Similarly, it is expected to create employment opportunities in accordance with economic growth and create an innovative exported competitive market.
 
 ...
 
 [Data](articles/c412b6cf.json)
+
+[Extended Data](ext_articles/c412b6cf.ext.json)
 
 ---
 
@@ -208,19 +230,27 @@ President Ranil Wickremesinghe added that all professionals' opinion on the adva
 
 ---
 
-### 2009 ஆம் ஆண்டு அழிவுகள் மீள்நிகழாதிருப்பதை உறுதிப்படுத்த உண்மை, நீதி, பொறுப்புக்கூறலை நிலைநாட்டல் இன்றியமையாதது - கெலம் மக்ரே
+### Truth, Justice and Liability establishment is essential - Kellam McRae
 
 *2024-05-30 18:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/184905) · `ta`
 
-இலங்கையில் 2009 ஆம் ஆண்டில் இடம்பெற்ற மிகமோசமான வன்முறைகள் மற்றும் மீறல்கள் மீண்டும் நிகழாதிருப்பதை உறுதிப்படுத்துவதற்கு உண்மை கண்டறியப்பட்டு, நீதி நிலைநாட்டப்படுவதும், பொறுப்புக்கூறல் உறுதிசெய்யப்படுவதும் இன்றியமையாததாகும் என 'நோ ஃபையர் ஸோன்' ஆவணப்படத்தின் இயங்குநர் கெலம் மக்ரே வலியுறுத்தியுள்ளார்.
+Kellam McRae highlights the urgency of establishing truth, justice, and liability, especially in light of ongoing human rights abuses reminiscent of past atrocities in Sri Lanka and current violations in Gaza.
 
-இலங்கையில் இடம்பெற்ற இறுதிக்கட்டப்போரின்போது தமிழ்மக்களுக்கு எதிராக நிகழ்த்தப்பட்ட போர்க்குற்றக்காணொளிகளுடன் கூடியதாக கெலம் மக்ரேவினால் தயாரிக்கப்பட்ட 'நோ ஃபையர் ஸோன்' என்ற ஆவணப்படம் 11 வருடங்களுக்கு முன்னர் 'சனல் 4' என்ற தொலைக்காட்சி சேவையில் வெளியாகி பாரிய அதிர்வலைகளைத் தோற்றுவித்திருந்தது.
+🟩
 
-இந்நிலையில் யுத்தம் முடிவுக்குக்கொண்டுவரப்பட்டு இவ்வருடத்துடன் 15 ஆண்டுகள் பூர்த்தியடைந்திருப்பதை முன்னிட்டு கெலம் மக்ரே வெளியிட்டுள்ள நினைவுச்செய்தியில் மேலும் கூறியிருப்பதாவது:
+The director of the 'No Fire Zone' documentary, Kellam McRy, has emphasized that the fact that the most violent violence and violence in Sri Lanka was not repeated in 2009 is essential for the establishment of justice and ensuring accountability.
+
+During the final war in Sri Lanka, the documentary 'No Fire Zone', made by Kellam McRahe, was released 11 years ago on TV service 'Channel 4' and created a huge shock.
+
+In a commemoration issued by Kellam McRy, the war has ended 15 years after the end of the war.
+
+15 years after the end of the war, we recall it on the 18th of May. However, violations against the Tamil people continue. The victims, including relatives of the missing persons, continue to live with the impact. In such a situation, the Sri Lankan government is denied the right to commemorate their loved ones. Similarly, the Tamil homelands are under the strong control of the security guard.
 
 ...
 
 [Data](articles/f4a2d0ba.json)
+
+[Extended Data](ext_articles/f4a2d0ba.ext.json)
 
 ---
 
@@ -274,19 +304,31 @@ Based on those complaints, the agency is believed to have cheated a total sum of
 
 ---
 
-### ரஷ்யாவுக்கு செல்வதற்கு பாதுகாப்பு அமைச்சின் அனுமதியை பெற வேண்டும் - தாரக பாலசூரிய
+### The Ministry of Defense must get permission to go to Russia - Tharha Balasuriya
 
 *2024-05-30 18:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/184902) · `ta`
 
-இலங்கையர்கள் ரஷ்யாவுக்கு  சுற்றுலா விசா ஊடாக செல்வதை தற்காலிகமாக இடைநிறுத்த தீர்மானிக்கப்பட்டுள்ளது. இலங்கையர்கள் குறிப்பாக ஆண்கள் ரஷ்யாவுக்கு செல்வதாயின் பாதுகாப்பு அமைச்சின் அனுமதியை பெற வேண்டும். ரஷ்ய யுத்தக்களத்தில் பாதிக்கப்பட்டு காயமடைந்துள்ள 37 இலங்கையர்களை முதற்கட்டமாக நாட்டுக்கு அழைத்து வர இராஜதந்திர மட்டத்தில் நடவடிக்கைகள் முன்னெடுக்கப்பட்டுள்ளன.455 இலங்கையர்களில் 16 பேர் காணாமல் போயுள்ளனர் என வெளிவிவகாரத்துறை இராஜாங்க அமைச்சர் தாரக பாலசூரிய தெரிவித்தார்.
+Due to a temporary suspension, Sri Lankans require defense ministry approval to visit Russia. 455 are in crisis, unaware they might be sent to battlefields. The government is negotiating with Russia to bring back the injured and ensure no one is forced into combat.
 
-வெளிவிவகாரத்துறை அமைச்சின் காரியாலயத்தில் 30 ஆம் திகதி வியாழக்கிழமை இடம்பெற்ற ஊடகவியலாளர் சந்திப்பின் போது மேற்கண்டவாறு குறிப்பிட்டார்.
+🟩
 
-விசிட் விசா முறைமையின் ஊடாக ரஷ்யாவுக்கு சென்ற 455 இலங்கையர்கள் துரதிஷ்டவசமாக  தற்போது நெருக்கடிக்குள்ளாகியுள்ளார்கள்.போலியான வாக்குறுதிகளுக்கு ஏமாற்றமடைந்து இவர்கள் ரஷ்யாவுக்கு சென்றுள்ளார்கள்.இவர்களை நாட்டுக்கு அழைத்து வருவதற்கு இராஜதந்திர மட்டத்தில் மனிதாபிமான அடிப்படையில் நடவடிக்கைகள் முன்னெடுக்கப்படுகின்றன.
+It has been decided to temporarily suspend the Sri Lankans going through a tourist visa to Russia. If Sri Lankans, especially men go to Russia, have to obtain permission from the Ministry of Defense. Diplomatic measures have been taken to bring 37 Sri Lankans who have been injured in the Russian battlefield for the first time.
+
+He made this statement during a media briefing held at the Ministry of Foreign Affairs on Thursday 30th.
+
+455 Sri Lankans who have gone to Russia through the Visit Visa System are unfortunately in crisis. They have gone to Russia and have gone to Russia.
+
+President Ranil Wickremesinghe has paid special attention to this.
+
+Opposition parties have accused the government of not taking appropriate action to bring the country in Russia to the country.
+
+The report that the government has decided to get the cooperation of former Russia Ambassador Udayanga Weeratunga is false. No decisions have been made regarding Udayanga Weeratunga.
 
 ...
 
 [Data](articles/2ff54f2b.json)
+
+[Extended Data](ext_articles/2ff54f2b.ext.json)
 
 ---
 
@@ -408,53 +450,79 @@ Minister Jivan Thondaman has informed the teams of all the members of the trade 
 
 ---
 
-### இந்தியில் நகைச்சுவை வேடத்தில் நடிக்கும் சத்யராஜ்
+### Satyaraj, who plays comedy in Hindi
 
 *2024-05-30 17:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/184899) · `ta`
 
-தமிழ் திரையுலகத்தில் புரட்சி தமிழனாக பிரபலமான நடிகர் சத்யராஜ் சிறிய இடைவேளைக்கு பிறகு இந்தியில் வெளியாகும் படம் ஒன்றில் நகைச்சுவை வேடத்தில் நடித்திருப்பதாக தகவல்கள் வெளியாகி இருக்கிறது.‌
+Sathyaraj, known for his work in Tamil cinema, is set to star in a Hindi comedy film titled 'Munjia,' directed by Aditya, marking his return from a brief hiatus. The film, featuring him in a comedic role previously held by Vadivelu, promises a fresh take on his career. Sathyaraj also discusses his upcoming projects, including a role as Super Star Rajinikanth in a film directed by Lokesh Kanakaraj and A.R., and his collaboration with Salman Khan in another project directed by Murugadoss.
 
-பொலிவூட் இயக்குநர் ஆதித்யா இயக்கத்தில் உருவாகி இருக்கும் 'முன்ஜியா' எனும் கொமடி ஹாரர் வகையிலான திரைப்படத்தில் நகைச்சுவை வேடத்தில் சத்யராஜ் நடித்திருக்கிறார். இந்தத் திரைப்படம் எதிர்வரும் ஜூன் மாதம் ஏழாம் திகதியன்று உலகம் முழுவதும் படமாளிகையில் வெளியாகிறது.
+🟩
 
-இது தொடர்பாக சென்னையில் நடைபெற்ற விழா ஒன்றில் பங்கு பற்றி பேசிய சத்யராஜ், '' விரைவில் வெளியாகும் 'முன்ஜியா' எனும் திரைப்படத்தில் வடிவேலு நடிக்க வேண்டி நகைச்சுவை கதாபாத்திரத்தில் நான் நடித்திருக்கிறேன். பொதுவாக வேற்று மொழி இயக்குநர்கள் குணச்சித்திர கதாபாத்திரங்களிலும், வில்லன் கதாபாத்திரங்களிலும் நடிக்கவே எம்மை தொடர்பு கொள்வர் ஆனால் முதன் முதலாக முழு நீள நகைச்சுவை வேடத்தில் நடிக்க இயக்குநர் ஆதித்யா எம்மைத் தொடர்பு கொண்டார். இது எனக்கு வித்தியாசமான அனுபவமாக இருந்தது.'' என்றார்.
+Actor Sathyaraj, the revolutionary Tamil in the Tamil film industry, is reportedly playing a comedy in a movie released in Hindi after a short break.
 
-...
+Satyaraj is playing a comedy role in the movie 'Munjia', which is being directed by Bollywood director Aditya.. The film will be released worldwide on the seventh of June.
+
+Speaking about a function in Chennai, Satyaraj said, "I have played a comedy role in Vadivelu in the movie 'Munjia' which will soon be released.. In general, alien language directors will contact us in character and villainous roles but director Aditya has been involved in the first full -length comedy role.. This was a different experience for me. ”
+
+Meanwhile, actor Sathyaraj is currently playing the role of Super Star Rajinikanth directed by director Lokesh Kanakaraj and director A.. R. It is noteworthy that Salman Khan is also signed to play the villain in the Hindi film directed by Murugadoss.
+
+◼️
 
 [Data](articles/b59992f3.json)
 
+[Extended Data](ext_articles/b59992f3.ext.json)
+
 ---
 
-### ஹாட்ரிக் வெற்றிக்காக பிரதமர் நரேந்திர மோடி தியானம் செய்கிறாரா..?
+### Prime Minister Narendra Modi meditates for hat -trick success ..?
 
 *2024-05-30 17:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/184896) · `ta`
 
-கன்னியாகுமரியில் உள்ள விவேகானந்தர் பாறை மீது பிரதமர் நரேந்திர மோடி தியானம் மேற்கொள்வதற்கு தடை விதிக்க வேண்டும் என சென்னை உயர்நீதிமன்றத்தில் தமிழக காங்கிரஸ் கட்சி மனு அளித்துள்ளது.
+The Tamil Nadu Congress Party has petitioned the Madras High Court to ban Prime Minister Narendra Modi's meditation on Vivekananda Rock in Kanyakumari, alleging it as an indirect campaign tactic ahead of the Lok Sabha elections. The petition argues against potential misuse of power and seeks protection for tourists. Modi, who arrived in Thiruvananthapuram, has been meditating for over forty-five hours, with extensive security measures in place around Kanyakumari. This marks his third meditation session, previously occurring before the 2014 and expected to influence the 2024 Lok Sabha elections.
 
-காங்கிரஸ் கட்சியின் சட்டத்தரணிகள் பிரிவு சார்பில் சென்னை உயர்நீதிமன்ற பதிவாளரிடம் மனு அளிக்கப்பட்டிருக்கிறது. அந்த மனுவில்,'' அதிகார துஷ்பிரயோகம் செய்வதை தடுக்கவும், சுற்றுலா பயணிகளின் நலனை கருத்தில் கொண்டும், தேர்தல் ஆணையத்திற்கு உத்தரவிடும் வகையில் சென்னை உயர்நீதிமன்றம் தாமாக முன்வந்து இந்த மனுவை விசாரிக்க வேண்டும்'' என குறிப்பிடப்பட்டுள்ளது.
+🟩
 
-இறுதிக்கட்ட மக்களவைத் தேர்தலுக்கான பிரச்சாரம் இன்று வியாழக்கிழமை (30) மாலையுடன் நிறைவடைகிறது. இந்நிலையில் பிரதமர் நரேந்திர மோடி கன்னியாகுமரியில் தியானம் மேற்கொள்ளும் செயலானது மறைமுக பிரச்சாரமாக இருக்கிறது என்பதால் இதற்கு தடை விதிக்க வேண்டும் என தேர்தல் ஆணையத்திற்கு காங்கிரஸ் கட்சி நேற்று கடிதமும் எழுதி இருந்தது.
+The Tamil Nadu Congress Party has filed a petition in the Madras High Court seeking a ban on Prime Minister Narendra Modi meditating on Vivekananda rock in Kanyakumari.
+
+A petition has been filed with the Madras High Court Registrar on behalf of the Congress Party Attorney's Division. In the petition, the Madras High Court should volunteer to investigate the petition in order to prevent the abuse of power and the welfare of the tourists.
+
+The campaign for the final Lok Sabha elections ends today (30) evening. In this backdrop, the Congress party had written a letter to the Election Commission yesterday that Prime Minister Narendra Modi's meditation process was an indirect campaign.
+
+Meanwhile, Prime Minister Narendra Modi, who arrives at Thiruvananthapuram by a special flight from New Delhi. Vivekananda, who is located in the middle of the sea, continues to meditate for forty -five hours from June to date.
 
 ...
 
 [Data](articles/8ea68d3f.json)
 
+[Extended Data](ext_articles/8ea68d3f.ext.json)
+
 ---
 
-### யாழ் போதனா வைத்தியசாலை அசம்பாவிதம் குறித்து அமைச்சர் டக்ளஸின் அறிவுறுத்தல் !
+### Minister Douglas's instruction on Jaffna Teaching Hospital
 
 *2024-05-30 17:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/184888) · `ta`
 
-யாழ் போதனா வைத்தியசாலையின் மகிமையையும்  ஊழியர்களின் பாதுகாப்பையும் கருதி அடாவடியில் ஈடுபடுபட்ட நபர்களுக்கு கடுமையான சட்ட நடவடிக்கை எடுக்கப்பட வேண்டும் என்று வலியுறுத்தியுள்ள அமைச்சர் டக்ளஸ் தேவானந்தா இனிவரும் காலத்தில் இவ்வாறான அச்சுறுத்தல்கள் ஏற்படாத வகையிலான முன்னுதாரணமாக குறித்த நடவடிக்கை இருக்கவேண்டும் என்றும் அறிவுறுத்தியுள்ளார்.
+Minister Douglas Devananda emphasized the importance of ensuring the safety of the Jaffna Teaching Hospital and its staff, addressing concerns raised at a district coordinating committee meeting. He highlighted the need for emergency life support equipment and unobstructed vehicle access for the hospital's 5,000 daily patients. Stressing the responsibility of the community, particularly the youth, in maintaining hospital security, he also urged the public to cooperate with the police to prevent future incidents.
 
-அண்மைக்காலமாக யாழ் போதனா வைத்தியசாலையில் இடம்பெற்றுவரும் அசம்பாவிதங்கள் தொடர்பில் அமைச்சர் டக்ளஸ் தேவானந்தா தலைமையில் நடைபெற்ற யாழ் மாவட்ட ஒருங்கிணைப்பு குழு கூட்டத்தில் இன்று வியாழக்கிழமை  ஆராயப்பட்டது.
+🟩
 
-இதன்போது வைத்தியசாலை பணிப்பாளர் மற்றும் பொலிசார் ஆகியோரிடம் அது குறித்து விளக்கம் மற்றும் எடுக்கப்பட்ட நடவடிக்கைகள் குறித்து அமைச்சர் கேட்டறிந்தபின் கருத்து கூறுகையிலேயே இவ்வாறு வலியுறுத்தியிருந்தார்.
+Minister Douglas Devananda has urged the people who have been involved in the safety of the Jaffna Teaching Hospital and the safety of the staff.
 
-இதன்போது யாழ் வைத்தியசாலை அசம்பாவிதங்கள் குறித்து கருத்துக்கூறிய பணிப்பாளர் சத்தியமூர்த்தி - வைத்தியசாலைக்கு நாளாந்தம் குறைந்தது 5000 அதிகமானவர்கள்  அவசர நோயாளர் பிரிவுக்கு பல்வேறு அவசர உயிர் காப்பு தேவை கருதி வருவதுண்டு.
+The Jaffna District Coordinating Committee meeting was held today at the Jaffna District Coordinating Committee meeting chaired by Minister Douglas Devananda regarding the incidents at the Jaffna Teaching Hospital.
+
+The Minister of the Hospital and the police said that the Minister had addressed the matter after hearing about the action and the action taken by the police.
+
+The Director of the Jaffna Hospital, Satyamoorthy - The Hospital, at least 5000 people daily, requires a variety of emergency life insulation for the emergency patient.
+
+In addition, it is customary for those who come in a variety of vehicles and allow them to be uninterrupted.
+
+Such incidents are due to the use of a few people who use that youthful practice. At the same time, such incidents cannot be brought to a tight walk at the entrance of the emergency.
 
 ...
 
 [Data](articles/45f8f684.json)
+
+[Extended Data](ext_articles/45f8f684.ext.json)
 
 ---
 
@@ -504,23 +572,31 @@ Foreign Minister Ali Sabry said that “Sri Lanka has started trade negotiations
 
 ---
 
-### தென் கொரியாவுக்கு பலூன்களில் குப்பைகளை அனுப்பிய வட கொரியா
+### North Korea sent garbage in balloons to South Korea
 
 *2024-05-30 17:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/184866) · `ta`
 
-தென் கொரியாவுக்கு பலூன்களில் குப்பைகளை வட கொரியா அனுப்பியுள்ளதாக தென் கொரிய இராணுவம் தெரிவித்துள்ளது.
+North Korea has launched over 150 balloons carrying garbage towards South Korea, marking a new confrontational strategy. The South Korean military, collaborating under UN orders, warns this act violates international law and poses safety risks, especially to airports and highways. Despite the threat, North Korea's Kim Yo Jong defends it as "freedom of expression," comparing it to South Korea's past balloon launches with propaganda. This incident underscores the ongoing tensions between the two Koreas.
 
-நாட்டிற்குள் செவ்வாய்க்கிழமை (28)  இரவு முதல் புதன்கிழமை (29) காலை வரை 150 க்கும் அதிகமான பலூன்கள் குப்பைகளை சுமந்தவாறு வட கொரியாவில் இருந்து வருந்ததை அவதானித்ததாக தென் கொரிய இராணுவம் தெரிவித்துள்ளது.
+🟩
 
-இந்த செயல்  வட கொரியா அதன் தெற்கு அயல் நாடுகளுடன் மோதுவதற்கு ஒரு புதிய உத்தியைக் கடைப்பிடித்துள்ளதாக கூறப்படுகிறது.
+The South Korean military has reported that North Korea has sent garbage in balloons to South Korea.
 
-இரண்டு இராட்சத பலூன்கள் மற்றும் சிறிய பலூன்கள் சுமந்து வந்த பொதியில் இருந்த பிளாஸ்டிக் துண்டுகள், காகிதத் தாள்கள் அடங்கி குப்பை வீதியில் நடைபாதையில் கிடக்கும் புகைப்படங்களை தென் கொரிய இராணுவம் வெளியிட்டுள்ளது.
+The South Korean military has reported that more than 150 balloons have been carrying garbage from North Korea from Tuesday night (28) to Wednesday morning.
 
-தென்கொரியாவிற்குள் இதுவரை  பலூன்கள் குப்பைகளை சுமந்து வந்த நிலையில் அரசாங்க நிறுவனங்களால் பகுப்பாய்வு செய்யப்படுகின்றன. ஐக்கிய நாடுகள் சபையின் கட்டளைக்கு இராணுவம் ஒத்துழைத்தது.
+This act is said to have adopted a new strategy to clash with its southern neighboring countries.
+
+The South Korean army has released photos of plastic pieces and paper sheets on the garbage road carrying two giant balloons and small balloons.
+
+Analyzed by government agencies as balloons have been carrying garbage within South Korea. The military collaborated on the command of the United Nations.
+
+"North Korea's actions clearly violate international law and threaten the safety of our citizens.". "All responsibilities that arise by North Korean balloons depend on North Korea, and we strongly warned that North Korea's inhumane and subordinates will be stopped immediately."South Korea said.
 
 ...
 
 [Data](articles/d4568f6b.json)
+
+[Extended Data](ext_articles/d4568f6b.ext.json)
 
 ---
 
@@ -660,15 +736,21 @@ According to the Bureau, the number of cash has been fraudulent is Rs.
 
 ---
 
-### கொழும்பு துறைமுகத்திற்கு வந்த கப்பலில் எரிபொருள் கசிவு
+### Fuel leak
 
 *2024-05-30 16:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/184892) · `ta`
 
-கப்பலில் இருந்து கசிந்துள்ள எரிபொருள் துறைமுக கடலில் கலந்துள்ளதால் குறித்த பகுதி கடல் நீர் மாசடைந்துள்ளமை குறிப்பிடத்தக்கது.
+A fuel leak occurred, contaminating the area with seawater mixed from the fuel port.
+
+🟩
+
+It is noteworthy that the area was contaminated with the seawater as it was mixed with the fuel port.
 
 ◼️
 
 [Data](articles/10d6ae29.json)
+
+[Extended Data](ext_articles/10d6ae29.ext.json)
 
 ---
 
@@ -744,17 +826,25 @@ The Genades of the Afu Viharaya in China's Afu Viharaya had contributed to the a
 
 ---
 
-### நானுஓயா உடரதல்ல தோட்ட அதிகாரிக்கு எதிராக பகிஷ்கரிப்பு தொடர்பில் பேச்சுவார்த்தை
+### Negotiations on boycotting against the plantation officer
 
 *2024-05-30 16:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/184890) · `ta`
 
-நானுஓயாவில் களனிவெளி பெருந்தோட்ட முகாமைத்துவ நிறுவனத்திற்கு கீழ் இயங்கும் நானுஓயா தோட்டப் பிரிவிற்கு உட்பட்ட உடரதல்ல தோட்ட தொழிலாளர்கள் கடந்த ஏப்ரல் மாதம் 29 ஆம் திகதி முதல் தோட்ட நிர்வாகத்திற்கு எதிராக பணி பகிஷ்கரிப்பில் ஈடுபட்டு வந்த நிலையில் கடந்த 16 ஆம் திகதி நானுஓயா பிரதான நகரில் எதிர்ப்பு  ஆர்ப்பாட்டத்தில் ஈடுபட்டனர்.
+Plantation workers in Nanuoya protested against the plantation administration, accusing them of damaging tea trees and manipulating the plantation. They demanded better conditions and normal operations without interference. Negotiations involving local officials aimed to resolve the dispute, emphasizing the need for peaceful solutions and the importance of maintaining tea exports from key regions.
 
-குறித்த தோட்ட தொழிலாளர்கள் உடரதல்ல தோட்டத்தில் அதிகாரியால் கையகப்படுத்தும் சூழ்ச்சி நடைபெற்றுக்கொண்டு இருப்பதாகவும், நன்கு வளர்ச்சி பெற்றுள்ள தேயிலை மரங்களை அழித்து அவ்விடத்தில் கோப்பி கன்றுகளை நடுவதற்கு முன் ஏற்பாடுகள் செய்தமைக்கு எதிராகவும் , இவ்விடயம் தொடர்பில் தோட்ட அதிகாரிகளுடன் வாக்குவாதம் செய்த ஆண் தொழிலாளர்களுக்கு  எதிரார தோட்ட அதிகாரியால் நானுஓயா பொலிஸ் நிலையத்தில் முறைப்பாடு பதிவு செய்து தோட்ட தலைவர்கள் மூவருக்கு வேலை நிறுத்தம் செய்யப்பட்டுள்ளமையாலும் தொடர்ந்து தோட்ட நிர்வாகத்திற்கு எதிராக பணி செல்லாது தமது எதிர்ப்பினை தெரிவித்து வருகின்றன.
+🟩
+
+The plantation workers, which are under the Nanuoya Estate Division, which are under the Nanuoya Plantation Management Institute in Nanuoya, staged a protest in Nanuoya main city on the 16th as they have been working on the plantation management against the plantation administration since April 29.
+
+The plantation workers have not been involved in the manipulation of the garden, and the destruction of well -developed tea trees and arranged before planting the calves before the planting of the plantation officers in this regard by the opposing plantation officer of the Nanuoya Police Station by the opposite plantation officer.They are protesting against the plantation administration.
+
+Jeevan Thondaman, Minister of Water Supply and Estate Infrastructure Development, National Organizer of the Ceylon Workers Congress and former Central Provincial Council member AP SakthivelThe negotiations were held.
 
 ...
 
 [Data](articles/e04458b0.json)
+
+[Extended Data](ext_articles/e04458b0.ext.json)
 
 ---
 
@@ -797,6 +887,24 @@ The agreement was carried out at the Ministry of Justice under the patronage of 
 [Data](articles/9fda62ac.json)
 
 [Extended Data](ext_articles/9fda62ac.ext.json)
+
+---
+
+### Politicians’ future uncertain if salary issue not resolved by Poson Poya: Teachers’ Principles’ Union
+
+*2024-05-30 16:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Politicians-future-uncertain-if-salary-issue-not-resolved-by-Poson-Poya-Teachers-Principles-Union/108-283725) · `en`
+
+Colombo, May 30 (Daily Mirror) - If politicians fail to resolve the salary anomaly issue of teachers and principals before Poson Poya, their political future will be uncertain, the National Teachers' Power (NTP) said.
+
+Speaking to the Daily Mirror, its media spokesman, Amuthu Bandara, said the first day of the two-day sick leave campaign launched by the National Teachers' Power (NTP) to demonstrate the strength of the teachers' and principals' unions was successful.
+
+He said that over 70 percent of teachers and principals had engaged with the two-day sick leave campaign.
+
+"The islandwide two-day sick leave campaign was demanding the government to resolve the salary anomalies of school principals and teachers, which have remained unanswered for the past 27 years. This strike action was launched against the enforcement from the traditional teachers and principals unions," he said.
+
+...
+
+[Data](articles/9bf63cc8.json)
 
 ---
 
@@ -844,17 +952,25 @@ The arrested suspect has been identified as a 31-year-old Indian national and he
 
 ---
 
-### பல்கலைக்கழக ஊழியர்களைப் பணிக்குத் திரும்ப பணிப்பு!
+### Work on returning university staff to work!
 
 *2024-05-30 16:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/184887) · `ta`
 
-நாட்டைக் காக்கும் நாளைய தலைவர்களின் எதிர்காலம் கருதி தொழிற்சங்க நடவடிக்கைகளில் ஈடுபட்டுள்ள அனைத்துத் தரப்பினரையும் உடனடியாகப் பணிக்குத் திரும்புமாறு பல்கலைக்கழக மானியங்கள் ஆணைக்குழுத் தலைவர் பணித்துள்ளார்.
+The University Grants Commission Chairman has called for an end to the ongoing strike by university staff, urging them to resume work and address salary disputes. The Chairman's letter emphasizes the importance of resolving these issues swiftly to prevent further disruption to education. Despite the Chairman's plea, the All University's Joint Committee has vowed to continue their trade union activities until their demands are met, indicating no immediate resolution to the strike.
 
-சம்பள முரண்பாடுகளைத் தீர்த்தல் உட்படப் பல்வேறு கோரிக்கைகளை முன் வைத்து இம்மாதம் இரண்டாம் திகதி முதல் தொடர்ச்சியான வேலை நிறுத்தத்தில் ஈடுபட்டுள்ள பல்கலைக்கழக நிர்வாக உத்தயோகத்தர்கள் மற்றும் போதனைசாராப் பணியாளர்களை உடனடியாகப் பணிக்குத் திரும்பப் பணித்து அந்தந்தத் தொழிற்சங்கங்களின் தலைவர்களுக்குப் பல்கலைக்கழக மானியங்கள் ஆணைக்குழுத் தலைவர் சிரேஷ்ட பேராசிரியர் சம்பத் அமரதுங்க அனுப்பி வைத்துள்ள கடிதத்திலேயே இந்தப் பணிப்புரையை விடுத்துள்ளார்.
+🟩
+
+The Chairman of the University Grants Commission has asked all the parties involved in the trade union activities for the future of the day to protect the country.
+
+The University Grants Commission Chairman Professor Sampath Aratunga has issued a letter to the leaders of the university subsidies commission to immediately work for the university administrators and teaching staff who have been on strike from the second day of this month, including the resolution of pay conflicts.
+
+In the letter, a number of university's union and non -teaching unions have been protesting for the past 27 days, including their salary conflict.. Many Cabinet papers have been prepared by the University Grants Commission and submitted by the Ministry of Education on the instructions of the Ministry of Education.
 
 ...
 
 [Data](articles/c1a0d00d.json)
+
+[Extended Data](ext_articles/c1a0d00d.ext.json)
 
 ---
 
@@ -2215,51 +2331,5 @@ Investigating the Matale Municipal Commissioner Nishantha Maduage, he stated tha
 [Data](articles/4c6b5579.json)
 
 [Extended Data](ext_articles/4c6b5579.ext.json)
-
----
-
-### Paper Bangladesh in Embilipitiya
-
-*2024-05-30 12:07:11* · [`adalk`](https://www.ada.lk/breaking_news/ඇඹිලිපිටියේ-කඩදාසි-බංග්ලාදේශයට/11-409909) · `si`
-
-The Embilipitiya Paper Factory, initially producing paper over two decades ago, recently restarted operations under the KSPA package, focusing on exporting industrial paper. The factory, now privately owned, aims to meet Sri Lanka's domestic demand and expand its exports to twelve countries.
-
-🟩
-
-The first piece of paper produced at the Embilipitiya Paper Factory, which began more than two decades, exported the first piece of paper produced on the Embilipitiya Paper Factory.
-
-Fifty tons of paper was in the industrial paper. Factory Production was established on 18 April. The 'Group' Group Executive Director Nalin Anthony said that the stock of exported paper was worth around $ 20000.
-
-The Embilipitiya Paper Factory that was owned by the National Paper Corporation was shut down in 2003 after operationing from foreign countries on overseas countries.. There were only a few instances of machinery iron and sold to the old iron and the factory buildings and machines.
-
-Later, the government was reconstructed by KSPA package (Pvt) Last year, named Embilipitiya Paper Mills Priva. Originally, the first 70mg and 150mg size industrial paper was started in the first installment of new machines. Sri Lanka's exploitation was used as elements of the country.
-
-...
-
-[Data](articles/03a551ee.json)
-
-[Extended Data](ext_articles/03a551ee.ext.json)
-
----
-
-### Teachers, principals sick holiday
-
-*2024-05-30 12:06:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆசிரியர்கள்-அதிபர்கள்-சுகயீன-விடுமுறை/175-338141) · `ta`
-
-National teachers' unions in Sri Lanka have launched a two-day sick leave protest nationwide to pressure the government into resolving salary disputes affecting school principals and teachers. The move was announced by Joseph Stalin, Secretary of the Sri Lanka Teachers' Association, and Mahinda Jayasinghe, General Secretary of the Sri Lanka Teachers Association, emphasizing their commitment to the cause despite not participating in the strike themselves.
-
-🟩
-
-The power of the national teacher has decided to launch a two -day sick holiday struggle across the country from today.
-
-The power of the national teacher will carry out this with the government to urge the government to resolve the salary conflicts of school principals and teachers.
-
-Joseph Stalin, Secretary of the Sri Lanka Teachers' Association and the General Secretary of the Sri Lanka Teachers Association, Mahinda Jayasinghe, said they were not engaged in this two -day struggle today.
-
-◼️
-
-[Data](articles/154b6198.json)
-
-[Extended Data](ext_articles/154b6198.ext.json)
 
 ---

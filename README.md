@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-30 23:18:48**
+As of **2024-05-30 23:34:16**
 
 ## Newspaper Stats
 
-*Scraped **27,398** Articles*
+*Scraped **27,399** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,477
 economynextcom | 1,567
 dailyftlk | 1,601
-adalk | 2,339
+adalk | 2,340
 adaderanalk | 3,122
 tamilmirrorlk | 3,214
 virakesarilk | 4,224
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,379
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,397 (100.0%) of 27,398 articles have been extended.
+27,398 (100.0%) of 27,399 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -388,6 +388,22 @@ According to the help of a woman who was bathing from the top of the Kelani Rive
 
 ---
 
+### පොසොන් උත්සවයට මිහින්තලේට උදව් නොකරන මෙන් වගකිවයුත්තන් ප්‍රකාශ කරලා
+
+*2024-05-30 19:05:10* · [`adalk`](https://www.ada.lk/breaking_news/පොසොන්-උත්සවයට-මිහින්තලේට-උදව්-නොකරන-මෙන්-වගකිවයුත්තන්-ප්‍රකාශ-කරලා/11-409931) · `si`
+
+මෙවර පොසොන් උත්සවයට මිහින්තලේ පන්සලට උදව් නොකරන මෙන් ජනාධිපති ලේකම් කාර්යාලයේ වගකිවයුත්තන් සහ ඇතැම් මැති ඇමතිවරුන් ප්‍රකාශ කර ඇතත් මිහිඳු මහ රහතන් වහන්සේ සමරන ඒ උදාර පින්කමගිය වසරටත් වඩා මේ වසරේදී  සාර්ථකව සිදු කරන බව මිහින්තලා රජමහා විහාරාධිපති පූජ්‍ය වලවා හැංගුණවැවේ ධම්මරතන හිමියෝ පැවසූහ.
+
+උන්වහන්සේ මේ බව පැවසූවේ අද (30දා) මිහින්තලේ පැවති මාධ්‍ය හමුවකදීය. එහිදී උන්වහන්සේ මෙසේද පැවසූහ.
+
+"මිහිඳු මහරහතන් වහන්සේ වැඩම කරලා මේ පොසොන් පොහොය දිනට වසර 2332 ක් වෙනවා.සිංහල රජ දවසේ සිට අද දක්වා පොසොන් පින්කම සිදුකර තිබෙන බවට මූලාශ්‍ර වල අපි දැකලා තිබෙනවා, එල්.ටී.ටී.ඊ සහ ජේ.වී.පී ත්‍රස්තවාදී සමයේ , පාස්කු ප්‍රහාරය එල්ලවූ අවස්ථාවේදී  , කොවිඩ් වසංගතය පැවති සමයේ පවා අපි මේ පින්කම සිද්ධ කළා.
+
+...
+
+[Data](articles/58d40451.json)
+
+---
+
 ### Prisoner escapes from Kalutara Malwatta Prison
 
 *2024-05-30 19:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Prisoner-escapes-from-Kalutara-Malwatta-Prison/108-283722) · `en`
@@ -408,17 +424,25 @@ Prison officials are currently conducting a search operation to apprehend the es
 
 ---
 
-### මෛත්‍රීපාලට නොතීසි
+### Maithripala
 
 *2024-05-30 18:59:08* · [`adalk`](https://www.ada.lk/breaking_news/මෛත්‍රීපාලට-නොතීසි/11-409930) · `si`
 
-ශ්‍රී ලංකා නිදහස් පක්ෂයේ සභාපතිවරයා වශයෙන් හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා කටයුතු කිරීම වළකාලමින් කොළඹ දිසා අධිකරණයෙන් නියෝගයක් නිකුත් කර තිබියදීත් ඒ මහතා එම ධුරයේ කටයුතු කිරීමෙන් අධිකරණයට අපහාසයක් කළ බව සඳහන් කරමින් මොන්ටේගු සරත්චන්ද්‍ර  මහතා ගොනු කර ඇති පෙත්සම සම්බන්ධයෙන් ජූලි 10 වැනිදා අධිකරණයේ පෙනී සිට කරුණු පැහැදිලි කරන ලෙස මෛත්‍රීපාල සිරිසේන මහතාට නියම කරමින් අභියාචනාධිකරණය අද (30දා) නොතීසි නිකුත් කළේය.
+Maithripala Sirisena, former SLFP Chairman, appeared in court over a petition filed against him. The Court of Appeal issued orders related to his role within the party, calling for an interim order due to allegations mentioned in the petition.
 
-පෙත්සම සම්බන්ධයෙන් ඉදිරිපත් වූ කරුණු සලකා බැලීමෙන් අනතුරුව එලෙස නොතීසි නිකුත් කළ අභියාචනාධිකරණය අදාළ නොතීසිය මෛත්‍රීපාල සිරිසේන මහතාට බාර දෙන ලෙස පෙත්සම්කරුගේ නීතිඥවරයාට නියම කළේය.අභියාචනාධිකරණයේ සභාපති විනිසුරු නිශ්ශංක බන්දුල කරුණාරත්න සහ ශෂී මහේන්ද්‍ර යන මහත්වරුන්ගෙන් සැදුම්ලත් අභියාචනාධිකරණ විනිසුරු මඩුල්ලක් හමුවේ මෙම පෙත්සම සලකා බැලිණ.ශ්‍රි ලංකා නිදහස් පක්ෂයේ විධායක සභිකයකු වන මොන්ටේගු සරත්චන්ද්‍ර  මහතා ගොනු කර ඇති මෙම පෙත්සමේ වගඋත්තරකරු වශයෙන් ශ්‍රී ලංකා නිදහස් පක්ෂයේ හිටපු සභාපති, ජනාධිපති මෛත්‍රිපාල සිරිසේන මහතා නම් කර ඇත.
+🟩
+
+The Chairman of the Sri Lanka Freedom Party (SLFP) was an order from the Colombo District Court in averted to act in the Colombo District Court, he appeared in court on July 10 regarding the petition filed by the Colombo District Court.The Court of Appeal was issued today (30) addressing Mr. Maithripala Sirisena.
+
+The Court of Appeal was given to the Attorney General of the Court of Appeal, the President of the Court of Appeal of the Court of Appeal, was held under the court of the Court of Appeal of the Court of Appeal.The former SLFP chairman, President Maithripala Sirisena has been named as respondent of the petition, which is a party executive.
+
+Maithripala Sirisena has called for a interim order on the Chairman of former President Maithripala Sirisena by working as the Chairman of the Sri Lanka Freedom Party.Mentioned in the petition.
 
 ...
 
 [Data](articles/b595ec32.json)
+
+[Extended Data](ext_articles/b595ec32.ext.json)
 
 ---
 
@@ -2289,33 +2313,5 @@ Therefore, those in the low lying areas and along the Mahaweli Ganga are request
 [Data](articles/d6bfb238.json)
 
 [Extended Data](ext_articles/d6bfb238.ext.json)
-
----
-
-### Student gets seriously in a car accident
-
-*2024-05-30 13:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197178) · `si`
-
-A student from Weather Maha Vidyalaya suffered serious injuries in a car accident involving a scooter near Kahathuduwa welfare hospitals. The collision occurred after the car swerved to avoid hitting the scooter and then struck a power line. The student was initially treated at Wethara Hospital before being transferred to Kalubowila Teaching Hospital. The driver, a 29-year-old, lost control and was subsequently arrested by the Kahathuduwa police.
-
-🟩
-
-Kahathuduwa police said that the student was seriously injured when a scooter and a student who was traveling in front of Kahathuduwa welfare hospitals.
-
-The injured were injured in the 15th year student of the Weather Maha Vidyalaya.
-
-The car has been a short distance with the scooter and has later collided with a power line.
-
-The student who was seriously injured in the accident has been admitted to the Wethara Hospital and later transferred to the Kalubowila Teaching Hospital for further treatment.
-
-The driver is not able to control the vehicle due to the blows of the car in the Piliyandala to Kahathuduwa.
-
-The driver of the 29-year-old driver has been arrested by the police.
-
-◼️
-
-[Data](articles/590aa7c7.json)
-
-[Extended Data](ext_articles/590aa7c7.ext.json)
 
 ---

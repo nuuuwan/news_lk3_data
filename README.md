@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-30 13:34:24**
+As of **2024-05-30 13:53:31**
 
 ## Newspaper Stats
 
-*Scraped **27,282** Articles*
+*Scraped **27,291** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,126 @@ newsfirstlk | 363
 islandlk | 1,477
 economynextcom | 1,560
 dailyftlk | 1,601
-adalk | 2,320
-adaderanalk | 3,107
-tamilmirrorlk | 3,202
+adalk | 2,321
+adaderanalk | 3,108
+tamilmirrorlk | 3,204
 virakesarilk | 4,200
-dailymirrorlk | 4,311
-adaderanasinhalalk | 4,362
+dailymirrorlk | 4,315
+adaderanasinhalalk | 4,363
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,281 (100.0%) of 27,282 articles have been extended.
+27,282 (100.0%) of 27,291 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-30 (Thursday)
+
+### “எமது கட்சிக்கு எவரும் பாடம் எடுக்க வேண்டியதில்லை ”
+
+*2024-05-30 13:37:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எமது-கட்சிக்கு-எவரும்-பாடம்-எடுக்க-வேண்டியதில்லை/175-338152) · `ta`
+
+ஜனநாயகத்தின் தாயகமே ஐக்கிய தேசியக் கட்சிதான். எனவே, ஜனநாயகம் பற்றி எமது கட்சிக்கு எவரும் பாடம் எடுக்க வேண்டியதில்லை. அரசமைப்பின் பிரகாரம் உரிய வகையில் தேர்தல்கள் நடத்தப்படும் - என்று ஜனாதிபதியின் கீழ் இயங்கும் தொழிற்சங்க முடிவுகளை எடுக்கும் மூன்றுபேர் கொண்ட குழுவின் உறுப்பினரும், ஐக்கிய தேசியக் கட்சியின் இரத்தினபுரி மாவட்ட அமைப்பாளருமான சுப்பையா ஆனந்தகுமார் தெரிவித்தார்.  இது தொடர்பில் அவர் விடுத்துள்ள அறிக்கையில் தெரிவிக்கப்பட்டுள்ளவை வருமாறு,
+
+“ ஜனநாயகத்தை அதிகம் மதிக்கும் கட்சியாக ஐக்கிய தேசியக் கட்சியும், தலைவராக ரணில் விக்கிரமசிங்கவும் உலகலாவிய ரீதியில் ஏற்றுக்கொள்ளப்பட்டுள்ளனர். எனவே, ஜனநாயகத்துக்கு எதிரான நடவடிக்கைகளில் ஐக்கிய தேசியக் கட்சி ஒருபோதும் இறங்காது என்பது ஊரறியும், உலகறியும்.
+
+எனினும், எதற்கெடுத்தாலும் அறிக்கை விடுத்தும், அறிவிப்புகளை விடுத்தும் அரசியல் நடத்தும் வாய்சொல் வீரர்கள், எமது கட்சியின் பொதுச்செயலாளரால் வெளியிடப்பட்டுள்ள கருத்தை தூக்கிப்பிடித்துக்கொண்டு கட்சிக்கு எதிராக விமர்சனங்களை முன்வைத்துவருகின்றனர். இவற்றை நாம் வன்மையாகக் கண்டிக்கின்றோம்.
+
+...
+
+[Data](articles/793d0627.json)
+
+---
+
+### New York boosts T20 Cricket World Cup security after reported threats
+
+*2024-05-30 13:33:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/New-York-boosts-T20-Cricket-World-Cup-security-after-reported-threats/108-283696) · `en`
+
+May 30 (Reuters) - New York will boost security for the upcoming T20 Cricket World Cup in June, the governor said on Wednesday, after reports of threats especially related to the India-Pakistan match.
+
+"In preparation for the @cricketworldcup, my team has been working with federal & local law enforcement to keep attendees safe," Governor Kathy Hochul wrote on X, adding there was "no credible threat at this time".
+
+ABC News cited a New York City Police Department bulletin, opens new tab saying the tournament and its related events in New York City could be viewed by extremists as an opportunity to commit acts of violence or disruption.
+
+"Recent pro-ISIS propaganda which specifically referenced the upcoming India-Pakistan match at this major event ... raises concerns and reinforces the need for heightened vigilance" among security partners, the bulletin is quoted as saying by ABC News.
+
+...
+
+[Data](articles/2d69b50a.json)
+
+---
+
+### World Bank discusses energy transition for Sri Lanka in high-level roundtable
+
+*2024-05-30 13:33:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/World-Bank-discusses-energy-transition-for-Sri-Lanka-in-high-level-roundtable/108-283697) · `en`
+
+The World Bank organized a high-level roundtable discussion on advancing energy transitions in Sri Lanka, yesterday.
+
+Chaired by President Ranil Wickremesinghe, the discussion had been attended by senior officials of the World Bank, Asian Development Bank, Japan International Cooperation Agency, USAID, International Finance Corporation, Asian Infrastructure Investment Bank and other global corporations on renewable energy.
+
+The officials made “presentations on how Sri Lanka can adopt financial tools for cost reduction, mitigate risk of developers, structure new projects for competitive bidding, and secure technical assistance for evaluation” Power and Energy Minister Kanchana Wijesekara said on X.
+
+Moreover, case studies of renewable energy in other similar countries were analyzed to secure financial assistance for energy efficiency in Sri Lanka.
+
+At the roundtable the President outlined Sri Lanka’s vision on prosperity, renewable energy development and net zero targets.
+
+...
+
+[Data](articles/5e616a4b.json)
+
+---
+
+### ප්‍රවීණ සංගීතඥ ෂෙල්ටන් ප්‍රේමරත්න අභාවප්‍රාප්ත වෙයි
+
+*2024-05-30 13:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197179) · `si`
+
+ඉතා මියුරු ගීත තනු සිය ගනනක් සංගීත ක්ෂේත්‍රයට දායාද කළ ප්‍රවීණ සංගීතඥ ෂෙල්ටන් ප්‍රේමරත්න මහතා අද (30) අභාවප්‍රාප්ත වී තිබේ.
+
+◼️
+
+[Data](articles/9bff7782.json)
+
+---
+
+### Contempt of court petition filed against ex-President Maithripala
+
+*2024-05-30 13:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/99535/contempt-of-court-petition-filed-against-ex-president-maithripala) · `en`
+
+The Court of Appeals has issued notice to the former Chairman of Sri Lanka Freedom Party (SLFP), ex-President and Maithripala Sirisena with regard to a contempt of court petition filed against him.
+
+The petition has been filed by Montague Sarathchandra, an executive committee member of the SLFP.
+
+The relevant petition was taken up before the two-member judge bench comprising of the President of the Court of Appeal Justice Nissanka Bandula Karunaratne and Justice Shashi Mahendran this morning (30).
+
+Accordingly, the judge bench ordered the attorneys of the petitioning party to send notice to the respondent of the petition, former President Maithripala, in order to confirm the facts related to the petition.
+
+The petitioner has alleged that the former President has committed contempt of court through his actions in violation of a court order issued by the Colombo District Court preventing him from acting as the Chairman of the SLFP.
+
+◼️
+
+[Data](articles/e73895eb.json)
+
+---
+
+### Higher water level recorded in Mahaweli Ganga, those in Kandy requested to be vigilant
+
+*2024-05-30 13:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Higher-water-level-recorded-in-Mahaweli-Ganga-those-in-Kandy-requested-to-be-vigilant/108-283693) · `en`
+
+Colombo, May 30 (Daily Mirror) - Due to the considerable rainfall in the catchment areas of the central hills yesterday, those living in Nuwara-Eliya and Kandy are requested to be vigilant as the water level of the Mahaweli Ganga has risen and hence may cause sudden floods.
+
+Addressing the media, the Irrigation Department’s Irrigation (Hydrology) Director, Eng. S.P.C. Sugeeshwara Bandara said the water level of the Mahaweli Ganga has increased from the upper streams to the Kandy area in the Central Province where the river flows.
+
+He said more than 100 mm of rainfall was received in certain areas of the central hills, and therefore, the water level of the Mahaweli Ganga has risen.
+
+Therefore, those in the low lying areas and along the Mahaweli Ganga are requested to be vigilant over sudden floods.
+
+◼️
+
+[Data](articles/d6bfb238.json)
+
+---
 
 ### Student gets seriously in a car accident
 
@@ -57,6 +161,20 @@ The driver of the 29-year-old driver has been arrested by the police.
 [Data](articles/590aa7c7.json)
 
 [Extended Data](ext_articles/590aa7c7.ext.json)
+
+---
+
+### අනුරට ඇති කැමැත්ත අඩුවයි, සජිත් හා අනුර සමවෙති, රනිල්ට ඇති කමැත්ත ඉහ‍ලට
+
+*2024-05-30 13:03:38* · [`adalk`](https://www.ada.lk/breaking_news/අනුරට-ඇති-කැමැත්ත-අඩුවයි--සජිත්-හා-අනුර-සමවෙති--රනිල්ට-ඇති-කමැත්ත-ඉහ‍ලට/11-409913) · `si`
+
+අප්‍රේල් මාසයේදි ජනපතිවරණයක් පැවැත්විනම් ජාතික ජනබලවේගයේ නායක අනුර කුමාර දිසානායක මහතාට හා සජිත් ප්‍රේමදාස මහතාට සියයට 39 බැගින් ලබාගෙන සම තත්ත්වයේ පසුවන බව සෞඛ්‍ය ප්‍රතිපත්ති ආයතනය විසින් නිකුත් කළ නවතම සමීක්ෂණ වාර්තාවේ දැක්වෙයි.
+
+ඒ් අනුව මාර්තු මාසයට සමගාමීව අනුර කුමාර දිසානායක මහතාට පැවැති ජනතා හිතකරත්වය සියයට 6කින් පහළ බැස තිබේ. කෙසේ වෙතත් සජිත් ‌ප්‍රේමදාස මහතාට ඇති ජනතා හිතකරත්වය හා රනිල් වික්‍රමසිංහ මහතා ඇති ජනතා හිතකරත්වය සියයට 1 බැගින් ඉහළ ‌‌ගොස් තිබේ.‍
+
+◼️
+
+[Data](articles/1262b646.json)
 
 ---
 
@@ -110,19 +228,25 @@ The process of collecting witnesses against war soldiers and military personnel 
 
 ---
 
-### දිමුත් කරුණාරත්න පාසල් ක්‍රිකට් ක්‍රීඩකයින්ට දුන් උපදෙස
+### The advice of Dimuth Karunaratne to school cricketers
 
 *2024-05-30 12:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197176) · `si`
 
-ක්‍රිකට් ක්‍රීඩාවෙන් ඉදිරියට යෑමට නම් අභියෝග හමුවේ නොසැලී තම ඉලක්කය කරා යා යුතු බව ශ්‍රී ලංකා හිටපු ක්‍රිකට් නායක දිමුත් කරුණාරත්න පවසයි.
+Dimuth Karunaratne advises young cricketers to focus on their goals, avoid shortcuts, and participate in tournaments like the 2003 Under-15 and 2023 Under-17 school cricket awards.
 
-ඔහු පවසන්නේ ඒ සඳහා කෙටි මාර්ග (Short-cut) සෙවීම නොකළ යුතු දෙයක් බවයි.
+🟩
 
-දිමුත් එසේ පැවසුවේ 2023 වසර සඳහා අවුරුදු 15න් පහළ සහ 17න් පහළ පාසල් ක්‍රිකට් සම්මාන උලෙළට එක්වෙමිනි.
+Former Sri Lanka Cricket captain Dimuth Karunaratne says that he should go to the goal of going to cricket.
+
+He says that short roads (short-cut) to search for it.
+
+In addition, participating at the 2003 Under-15 and 17-year-old school awards ceremony for 2023.
 
 ◼️
 
 [Data](articles/a6e7fca9.json)
+
+[Extended Data](ext_articles/a6e7fca9.ext.json)
 
 ---
 
@@ -501,6 +625,26 @@ Second Woman: Why, where is it?
 [Data](articles/e0e19bc6.json)
 
 [Extended Data](ext_articles/e0e19bc6.ext.json)
+
+---
+
+### மூக்குத்தி குத்திய பெண்களுக்கு மட்டும்
+
+*2024-05-30 11:42:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மூக்குத்தி-குத்திய-பெண்களுக்கு-மட்டும்/175-338140) · `ta`
+
+நகைகள் என்றால் ஆசையே இல்லாத பெண்கள் இருக்கவே மாட்டார்கள். அதிலும், தங்க நகைகள் என்றால் சொல்லவா வேண்டும். பிறந்த நாள் முதல், ஆடி 18 வரையும் நகைகள்தான் கேட்பார்கள் பரிசாக,
+
+அவ்வாறான கதைகளை கேட்க, பேருந்து நிலையங்கள், வைத்தியசாலைகள் மற்றும் பாடசாலைகளுக்கு முன்பாக நின்றுக்கொண்டிருக்க வேண்டும்.  வியக்கத்தக்க பல கதைகள் கிடைக்கும். நினைத்து நினைத்து சிரிப்பதா? அழுவதா? என மனம் தடுமாறி போய்விடும்
+
+வியாழக்கிழமை (30) நேரம் காலை 8 மணியிருக்கும் பலரும் வரிசையாக நின்றுக்கொண்டிருந்தனர். அவர்கள் அனைவரினதும் கைகளில் வண்ணவண்ண குப்பிகள் இருந்தன. இன்னும் சிலர் அமர்ந்திருந்தனர்.
+
+நாற்காலிகளில் அமர்ந்திருந்தவர்கள் நகர, நகர நின்றிருப்பவர்கள் அமர்ந்துகொள்ளவேண்டும். அனைவரும் ஏதோவொரு நோய்க்கு உள்ளாகியுள்ளனர். இரத்த பரிசோதனைக்காக கொழும்பு தேசிய வைத்தியசாலையில் ஆய்வுக்கூடத்துக்கு வந்திருந்தனர்.
+
+பெரும்பாலும் சிங்களம், தமிழ் மொழிகளில் பேசுபவர்களே இருந்தனர். உறவினர்களுடன் வருகைதராமல், தனித்து வந்த நோயாளர்கள் சில மயங்கி விழுந்துவிட்டனர். ஏனெனில், இரத்த பரிசோதனைக்கு வரும்போது உணவு, ஆகாரம் எதுவுமே உண்ணாமலே வரவேண்டும்.
+
+...
+
+[Data](articles/f3fee81b.json)
 
 ---
 
@@ -1380,6 +1524,26 @@ In response to the recent statement by the United National Party (UNP) headed by
 
 ---
 
+### Election Commission slams election delay moves
+
+*2024-05-30 08:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Election-Commission-slams-election-delay-moves/108-283662) · `en`
+
+The Election Commission has expressed strong dismay over any attempts to delay the upcoming Presidential and Parliamentary elections, insisting they proceed as scheduled.
+
+Speaking to Daily Mirror, the Election Commission Chief R.M.A.L. Ratnayake said that the stance of the Commission has already been conveyed to the government that the presidential election should be held between September 17 and October 16 while the parliamentary election is slated for 2025.
+
+“We are fully geared for the upcoming presidential election as funds have already been allocated,” he said.
+
+Further, he said presidential election will be declared between the end of July and the early part of August.
+
+In response to the recent statement by the United National Party (UNP) headed by President Ranil Wickremesinghe where it was suggested holding a referendum to extend the term of the President and Parliament for two more years, the Chairman stated that they had not been informed about holding a referendum.
+
+...
+
+[Data](articles/fb1aad7e.json)
+
+---
+
 ### UK Parliament dissolves ahead of July 4 general election
 
 *2024-05-30 08:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/99526/uk-parliament-dissolves-ahead-of-july-4-general-election) · `en`
@@ -2093,189 +2257,5 @@ BRICS is an acronym representing a coalition of the world’s prominent Emerging
 [Data](articles/9f7a81f8.json)
 
 [Extended Data](ext_articles/9f7a81f8.ext.json)
-
----
-
-### World No Tobacco Day Calls to strengthen measures to protect children from tobacco industry
-
-*2024-05-30 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/World-No-Tobacco-Day-Calls-to-strengthen-measures-to-protect-children-from-tobacco-industry/172-283636) · `en`
-
-Governments must strengthen legal measures to comprehensively ban all forms of domestic and cross-border marketing of tobacco products. The picture shows the Young advocates group at the 10th Conference Of the Parties in Panama, February 2024
-
-Young people across the world who are urging governments to shield them from predatory tobacco marketing tactics
-
-40 percent of the audience engaged with the marketing content of these tobacco companies on social media are young people under the age of 25
-
-‘Protecting children from tobacco industry interference’ is the theme for World No Tobacco Day this year. No tobacco day falls on May 31.
-
-Thus the World No Tobacco Day for 2024 will give a platform to young people across the world who are urging governments to shield them from predatory tobacco marketing tactics.
-
-...
-
-[Data](articles/a27c556b.json)
-
-[Extended Data](ext_articles/a27c556b.ext.json)
-
----
-
-### Why are boys falling behind in education and what can we do about it?
-
-*2024-05-30 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Why-are-boys-falling-behind-in-education-and-what-can-we-do-about-it/172-283638) · `en`
-
-Parent and teacher attitudes and aspirations may differ with harder sanctions for boys or inadvertent rewarding for lower effort because ‘boys will be boys’
-
-Females comprised 64% of all state university enrolments for medicine, dentistry, law, science, IT, education, management and arts
-
-Even at the primary school level, girls’ attainment outperforms boys’ with cut-off marks for grade 5 scholarship entrance exams consistently higher for prestigious girls’ schools compared to boys’ schools
-
-...
-
-[Data](articles/a8752f19.json)
-
-[Extended Data](ext_articles/a8752f19.ext.json)
-
----
-
-### The generation that can make peace with the land
-
-*2024-05-30 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/The-generation-that-can-make-peace-with-the-land/172-283637) · `en`
-
-During the past few weeks, most parts of Sri Lanka have been experiencing torrential rains and floods partly due to the South-West monsoon which was aggravated by climate change issues such as the cutting down of trees.
-
-On Tuesday (28), the UNP General Secretary Palitha Range Bandara caused a stir when he said there were plans to postpone both the Presidential and Parliamentary Elections. However, other sources denied any such move and said that President Ranil Wickremesinghe had assured that elections would be held. So, while President Wickremesinghe and the Sri Lanka Podujana Peramuna (SLPP) government are focused on elections, they should also dedicate time for issues such as climate change as it no doubt affects the entire country and its people.
-
-...
-
-[Data](articles/f503a300.json)
-
-[Extended Data](ext_articles/f503a300.ext.json)
-
----
-
-### 2024-05-29 (Wednesday)
-
-### Mediterranean Societies for Four Sports Societies, including Rugby, Webball
-
-*2024-05-29 23:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/184823) · `ta`
-
-An interim ban has been placed on four sports federations in Sri Lanka: Sri Lanka Rugby, Sri Lanka Webball Federation, Sri Lanka Cyclone Federation, and Ceylon Otomobile Association. The Sports Minister has appointed the Director General of the Department of Sports Development to oversee elections within these associations.
-
-🟩
-
-Four Sports Societies, including Sri Lanka Rugby, Sri Lanka Webball Federation, have been banned.
-
-The Gazette notification has issued an interim ban on the four associations of Sri Lanka Rugby (Sri Lanka Rugby), the Sri Lanka Webball Federation, the Sri Lanka Cyclone Federation and the Ceylon Otomobile Association.
-
-Accordingly, Sports Minister Harin Fernando has appointed the Director General of the Department of Sports Development of the Ministry of Sports.
-
-It is reported that the Elections of the four associations will be conducted by the Director of the Department of Sports Development.
-
-◼️
-
-[Data](articles/af6f88cd.json)
-
-[Extended Data](ext_articles/af6f88cd.ext.json)
-
----
-
-### Egg white masks for clear skin
-
-*2024-05-29 23:44:00* · [`islandlk`](http://island.lk/egg-white-masks-for-clear-skin/) · `en`
-
-All of us love to have eggs at breakfast time…even lunch and dinner, as well.
-
-Yes, eggs can also help us get rid of skin problems, so this week I’ve decided to do my beauty scene with eggs.
-
-You will need 1 egg white, 1 teaspoon of lemon juice and ½ teaspoon of honey
-
-Whisk all the ingredients in a clean mixing bowl and then apply this mixture to your face.
-
-Let the mask dry for about 10-15 minutes and then remove the mask with a wet wipe or damp cloth.
-
-You will need 1 egg white, 1 teaspoon of orange juice and ½ teaspoon of turmeric powder.
-
-Whisk the egg white in a bowl until it turns frothy. Add the orange juice and turmeric. Mix all the ingredients thoroughly. Apply this mixture to your face.
-
-You will need 1 egg white, ¼ ripe mashed avocado and1 teaspoon of yoghurt.
-
-Whisk the egg white until it is frothy and then add the mashed avocado and yoghurt.
-
-Apply this paste to your face and wait for 15-20 minutes before washing with warm water.
-
-...
-
-[Data](articles/d6fe7268.json)
-
-[Extended Data](ext_articles/d6fe7268.ext.json)
-
----
-
-### Thailand set to indict former PM Thaksin over royal insult
-
-*2024-05-29 23:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/99521/thailand-set-to-indict-former-pm-thaksin-over-royal-insult) · `en`
-
-(Reuters) - Thailand’s attorney-general will indict former Prime Minister Thaksin Shinawatra for allegedly insulting the monarchy, an official said on Wednesday, in a setback to a political heavyweight whose loyalists are currently in government.
-
-The complaint, lodged by the royalist military that ousted the government of his sister, Yingluck Shinawatra, had stemmed from an interview the influential tycoon gave to foreign media in 2015. Other charges include violating a computer crime law.
-
-“The attorney-general has decided to indict Thaksin on all charges,” spokesperson Prayuth Bejraguna said, adding he must appear in court on June 18.
-
-Thaksin, 74, denies wrongdoing and has repeatedly pledged loyalty to the crown, criticism of which is forbidden under Thailand’s lese-majeste law, one of the world’s strictest of its kind.
-
-...
-
-[Data](articles/e0596cf4.json)
-
-[Extended Data](ext_articles/e0596cf4.ext.json)
-
----
-
-### MillenniumIT ESP Singapore, successfully concludes ‘CIO Conclave 2024’
-
-*2024-05-29 23:13:00* · [`islandlk`](http://island.lk/millenniumit-esp-singapore-successfully-concludes-cio-conclave-2024/) · `en`
-
-MillenniumIT ESP, via its Singapore subsidiary, in collaboration with Veritas Technologies LLC and Oracle MySQL, successfully hosted the “CIO Conclave 2024” on the 9th of May 2024, at The St. Regis Singapore.
-
-The event brought together over 30 Chief Information Officers (CIOs) from a variety of industries, providing a unique opportunity to explore the latest advancements in data management and analytics, with a focus on education. MillenniumIT ESP Singapore played a significant role in organising this event, attesting to its growing global footprint and international presence.
-
-...
-
-[Data](articles/568a870b.json)
-
-[Extended Data](ext_articles/568a870b.ext.json)
-
----
-
-### LankaPay partners with UnionPay, revolutionizing cross-border ATM acceptance in Sri Lanka
-
-*2024-05-29 23:07:00* · [`islandlk`](http://island.lk/lankapay-partners-with-unionpay-revolutionizing-cross-border-atm-acceptance-in-sri-lanka/) · `en`
-
-LankaPay – the national payment network of Sri Lanka recently announced their partnership with UnionPay International (UPI), the leading international payment network in the world, enabling cross border ATM connectivity. This collaboration marks a significant milestone in LankaPay’s global journey towards fostering cross border payments with a view to provide greater convenience to tourists who visit Sri Lanka.
-
-With the rebound of tourism and international trade in Sri Lanka, seamless cross-border financial transactions have become a pressing need. Recognizing this demand, UnionPay International and LankaPay have joined forces to establish a comprehensive network that enables UnionPay cardholders to access ATMs across Sri Lanka, providing unparalleled convenience and accessibility.
-
-...
-
-[Data](articles/15901dbe.json)
-
-[Extended Data](ext_articles/15901dbe.ext.json)
-
----
-
-### Standard Chartered, Women Win and SERVE empower 15,000 girls through Goal Girl Empowerment Project
-
-*2024-05-29 23:03:00* · [`islandlk`](http://island.lk/standard-chartered-women-win-and-serve-empower-15000-girls-through-goal-girl-empowerment-project/) · `en`
-
-Standard Chartered has successfully empowered 15,000 young women and girls from underserved communities in Sri Lanka.
-
-The transformative Goal Girl Empowerment Project is part of Futuremakers by Standard Chartered (Futuremakers), the Bank’s global initiative to tackle inequality by promoting economic inclusion for disadvantaged young people across its markets, including those affected by COVID-19
-
-Launched in 2017 with funding from the Standard Chartered Foundation the programme was delivered by Women Win and SERVE, a Sri Lankan social work-based NGO. Goal was designed for adolescent girls aged 12 – 18 years from disadvantaged communities with the aim of harnessing the power of sports and life-skills education to tackle gender inequity and promote economic inclusion.
-
-...
-
-[Data](articles/03106a24.json)
-
-[Extended Data](ext_articles/03106a24.ext.json)
 
 ---

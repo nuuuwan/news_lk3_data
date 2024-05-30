@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-30 09:53:50**
+As of **2024-05-30 10:06:50**
 
 ## Newspaper Stats
 
-*Scraped **27,224** Articles*
+*Scraped **27,228** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,64 @@ newsfirstlk | 363
 islandlk | 1,477
 economynextcom | 1,556
 dailyftlk | 1,601
-adalk | 2,312
-adaderanalk | 3,098
+adalk | 2,313
+adaderanalk | 3,100
 tamilmirrorlk | 3,193
 virakesarilk | 4,186
 dailymirrorlk | 4,303
-adaderanasinhalalk | 4,356
+adaderanasinhalalk | 4,357
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,215 (100.0%) of 27,224 articles have been extended.
+27,215 (100.0%) of 27,228 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-30 (Thursday)
+
+### දුම්වැටි භාවිතය නිසා දෛනික මරණ 50කට ආසන්නයි
+
+*2024-05-30 09:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197173) · `si`
+
+දුම්වැටි භාවිතය හේතුවෙන් දෛනිකව මෙරට පුද්ගලයින් 50කට ආසන්න පිරිසක් මරණයට පත් වන බව මද්‍යසාර හා මත්ද්‍රව්‍ය තොරතුරු මධ්‍යස්ථානය පවසයි.
+
+එම මධ්‍යස්ථානය පෙන්වාදෙන්නේ වසරකට පුද්ගලයින් 20,000ක් පමණ දුම්වැටි භාවිතයෙන් මරණයට පත් වන බවය.
+
+හෙටට (31) යෙදී ඇති ලෝක දුම්වැටි නිවාරණ දිනය සම්බන්ධයෙන් නිවේදනයක් නිකුත් කරමින් මද්‍යසාර සහ මත්ද්‍රව්‍ය තොරතුරු මධ්‍යස්ථානය මේ බව සඳහන් කරයි.
+
+දුම්කොළ කර්මාන්තයේ මැදිහත්වීම්වලින් අපේ දරුවන් ආරක්ෂා කරගනිමු යන්න මෙවර ලෝක දුම්වැටි නිවාරණ දිනයේ තේමාව ය.
+
+මේ වන විට මෙරට දුම්වැටි භාවිතය සියයට 9.1කින් අඩුවී ඇති අතර තරුණ පිරිස් අතර දුම්වැටි භාවිතය ඝීග්‍රයෙන් අඩුවෙමින් පවතින බව මද්‍යසාර හා මත්ද්‍රව්‍ය තොරතුරු මධ්‍යස්ථානය පවසයි.
+
+දුම්කොළ සමාගම් වාර්තාවලට අනුව පසුගිය වසර තුළ දුම්වැටි නිෂ්පාදනය සියයට 19කින් පමණ අඩුවී තිබේ.
+
+ලෝකයේ දුම්වැටි භාවිතය අඩුවෙමින් පවතින රටවල් අතර ශ්‍රී ලංකාව තුළ ද හොඳ ප්‍රවණාතාවක් පැවතුණ ද තවදුරටත් මිලියන 1.5ක පමණ පිරිසක් දුම්වැටි භාවිතය සිදුකරන බව මධ්‍යසාර හා මත්ද්‍රව්‍ය තොරතුරු මධ්‍යස්ථානය පෙන්වාදෙයි.
+
+...
+
+[Data](articles/a300afda.json)
+
+---
+
+### Woman’s body found in canal in Colombo
+
+*2024-05-30 09:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/99527/womans-body-found-in-canal-in-colombo) · `en`
+
+The body of an unidentified woman has been recovered from a waste water canal in Grandpass, Colombo.
+
+Police said the body was found based on information received last evening (29).
+
+The deceased, believed to be between the ages 45 and 50, is around 4 feet and 9 inches in height while she was wearing a red dress with yellow flowers.
+
+The identity of the deceased is yet to be ascertained and the body is currently placed at the Colombo National Hospital.
+
+◼️
+
+[Data](articles/6c248089.json)
+
+---
 
 ### Cannes සම්මාන උළලේදී ශ්‍රී ලංකාවේ ශේෂ ඇගයීමට ලක්වෙයි
 
@@ -109,6 +151,26 @@ In response to the recent statement by the United National Party (UNP) headed by
 ...
 
 [Data](articles/dadf371e.json)
+
+---
+
+### UK Parliament dissolves ahead of July 4 general election
+
+*2024-05-30 08:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/99526/uk-parliament-dissolves-ahead-of-july-4-general-election) · `en`
+
+The British parliament dissolved on Thursday ahead of a July 4 general election, which looks set to bring Labour to power after 14 years of Conservative rule.
+
+Five weeks of campaigning officially began as 650 seats of members of parliament (MPs) became vacant at one minute past midnight (2301 GMT) in line with the electoral schedule.
+
+The first week of campaigning has seen a shaky start following Prime Minister Rishi Sunak’s rain-drenched election announcement, with many observers taking the downpour as a bad omen.
+
+Sunak set the election for July 4, instead of later in the year as had been widely expected, in what observers said was an attempt to regain momentum as his party slides in opinion polls.
+
+After 14 years in opposition, the Labour party now has the chance to win back power with its leader Keir Starmer, a former human rights lawyer, at the helm.
+
+...
+
+[Data](articles/22b1c32e.json)
 
 ---
 
@@ -977,6 +1039,22 @@ The Ministry of Education has announced that all schools on the 30th and 31st Ma
 [Data](articles/0bb9b9e5.json)
 
 [Extended Data](ext_articles/0bb9b9e5.ext.json)
+
+---
+
+### ඖෂධවල ගුණය හොයන පරීක්ෂණාගාරයට අසාධ්‍යයි
+
+*2024-05-29 22:44:04* · [`adalk`](https://www.ada.lk/breaking_news/ඖෂධවල-ගුණය-හොයන-පරීක්ෂණාගාරයට-අසාධ්‍යයි/11-409899) · `si`
+
+රෝගීන්ගේ ජීවිත සුරක්ෂිත කිරීම සඳහා මෙරට භාවිතයට ගැනෙන ඖෂධ පිළිබඳ පර්යේෂණ සිදුකර ගුණාත්මක බව තහවුරු   කිරීමට ඇති ප්‍රමුඛතම ආයතනය වන ජාතික ඖෂධ තත්ත්ව ආරක්ෂණ පර්යේෂණාගාරයේ (National  Medicines Quality Assurance Laboratory ) දිගින් දිගටම පවතින අඩුපාඩු හා දුර්වලතා හේතුවෙන් සෞඛ්‍ය පද්ධතිය තුළ  බරපතල ගැටලු රැසක් නිර්මාණය වී ඇතැයි ජාතික විගණන කාර්යාලය අනාවරණය කරයි.
+
+ජාතික ඖෂධ නියාමන අධිකාරී පනත යටතේ පිහිටුවා    සෞඛ්‍ය අමාත්‍යාංශය යටතේ සෘජුවම පවත්වාගෙන ගිය මෙම ආයතනය 2015 සිට  ජාතික ඖෂධ නියාමන අධිකාරිය යටතේ පවත්වාගෙන යයි.
+
+ජාතික ඖෂධ නියාමන අධිකාරී පනතට අනුව ඖෂධ ඇතුළු වෛද්‍ය සැපයුම්  ලියා පදිංචියට ඉදිරිපත් කිරීමේදී ,මෙරටට ගෙන ඒමේදී,භාවිතා කරන්නන්ගේ පැමිණිලි විභාගයේදී ,පශ්චාත් අලෙවි සමීක්ෂණ පැවැත්වීමේදී හා වෙනත් අවස්ථානුකූල අවශ්‍යතාවන්හිදී  ඖෂධවල ගුණාත්මක භාවය පිළිබඳ පර්යේෂණ පවත්වා ඒවා භාවිතයට  සුදුසුද නැද්ද යන්න පිළිබඳ   නිගමන වාර්තා  ලබා දීම මෙම පර්යේෂණාගාරයේ ප්‍රධානතම කාර්ය වේ.
+
+...
+
+[Data](articles/697a82f1.json)
 
 ---
 
@@ -2127,101 +2205,5 @@ He was later produced before the Fort Magistrate's Court and released on a bail 
 [Data](articles/c249638b.json)
 
 [Extended Data](ext_articles/c249638b.ext.json)
-
----
-
-### Sri Lanka stocks close down after Commercial Bank capital call
-
-*2024-05-29 16:44:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-after-commercial-bank-capital-call-165319/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed down on Wednesday, data on its site showed.
-
-The broader All Share Index closed down 1.03 percent, or 125.76 points, at 12,102; while the S&P SL20 Index closed down 1.99 percent, or 71.95 points, at 3,547.
-
-Commercial Bank of Ceylon Plc (Rs221mn) and Sampath Bank Plc (Rs207mn) saw selling pressure. Commercial Bank voting shares closed down at 103.50, while non-voting shares closed down at 83.00. Sampath Bank shares closed down at 77.50.
-
-Commercial Bank, the largest private bank by assets, announced yesterday a capital call from shareholders of 22 billion rupees, offering voting shares at 85 rupees and non-voting at 69 rupees.
-
-The 22.52 billion rupees will used to bolster Tier 1 capital to accommodate future lending, the firm said.
-
-“There was a sharp decline in the market from the bell, mainly due to Commercial Bank. There was significant selling pressure on the bank’s shares which trickled to other banking stocks too,” market participants said.
-
-...
-
-[Data](articles/5a3d0bd6.json)
-
-[Extended Data](ext_articles/5a3d0bd6.ext.json)
-
----
-
-### 4-lived tragedies in Dambulla
-
-*2024-05-29 16:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197160) · `si`
-
-In Dambulla, two deaths linked to illicit alcohol sales have sparked police investigations, leading to arrests. Residents face inconvenience due to the liquor racket.
-
-🟩
-
-Police have commenced investigations into the death of an illusive drinking of illegal drinking in Dambulla.
-
-Residents say that two persons have died in the same illegal drinking two days ago.
-
-Police have arrested the suspects on several occasions and produced before the courts.
-
-It is reported that the residents of the area have been severely inconvenienced due to the racket of this illegal sale of liquor sale.
-
-The police said that in addition to the post mortem examination of the people, the police said.
-
-◼️
-
-[Data](articles/f8528e1f.json)
-
-[Extended Data](ext_articles/f8528e1f.ext.json)
-
----
-
-### 171 culprits in Nuwara Eliya due to random
-
-*2024-05-29 16:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/184801) · `ta`
-
-Heavy rains and winds in Nuwara Eliya's hill country have affected 623 individuals across 171 families, damaging 159 houses. The worst-hit areas include Valappanai, Nuwara Eliya, Hangurankettu, and Kotmale Divisional Secretariat Divisions. Victims are sheltering with relatives, while some small-scale residents are repairing their homes. The disaster management division is coordinating relief efforts.
-
-🟩
-
-Nimal Bandara, Assistant Director of the Nuwara Eliya Disaster Management Division, said that 623 persons from 171 families in the Nuwara Eliya district have been affected due to heavy rains and heavy winds in the hill country.
-
-Four Divisional Secretariats of the Nuwara Eliya District have been severely affected by this inclement weather. Due to heavy rains, 159 houses in the Nuwara Eliya district have been partially damaged.
-
-Accordingly, 195 from 47 families in the Valappanai Divisional Secretariat Division, 40 from 9 families in the Nuwara Eliya Divisional Secretariat Division, 136 from 45 families in the Hangurankettu Divisional Secretariat Division and 252 from 70 families in the Kotmale Divisional Secretariat Division.
-
-Thus the victims are temporarily housed in their relatives' homes. At the same time, some people from the small -scale residents have temporarily corrected it and stayed in the same dwellings.
-
-...
-
-[Data](articles/4d3efda1.json)
-
-[Extended Data](ext_articles/4d3efda1.ext.json)
-
----
-
-### The South Korea's waste filled balloons
-
-*2024-05-29 16:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197159) · `si`
-
-South Korea faces a problem with waste-filled balloons, especially from North Korea, affecting various locations. Authorities are taking measures to prevent environmental damage.
-
-🟩
-
-About 260 waste balloons, 260 of the waste, the local authorities say that there are many places in South Korea.
-
-The South Korean authorities have also been informed of the balloons of North Korea and to prevent the people to be home to the people.
-
-It is reported that the white colored South Korea has been reported to eight or nine states.
-
-◼️
-
-[Data](articles/99488cbd.json)
-
-[Extended Data](ext_articles/99488cbd.ext.json)
 
 ---

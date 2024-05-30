@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-31 05:03:48**
+As of **2024-05-31 05:18:51**
 
 ## Newspaper Stats
 
@@ -26,45 +26,59 @@ adaderanasinhalalk | 4,379
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,411 (100.0%) of 27,413 articles have been extended.
+27,413 (100.0%) of 27,413 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-31 (Friday)
 
-### வவுனியாவில் குளவிக் கொட்டுக்கு இலக்காகிய தொழிலாளர்கள் இருவர் வைத்தியசாலையில் அனுமதி
+### Two workers targeted for wasp in Vavuniya hospital
 
 *2024-05-31 03:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/184917) · `ta`
 
-வவுனியா பிரதி மாகாண விவசாய பணிப்பாளரின் அரச விடுதியை துப்பரவு செய்த திணைக்கள தொழிலாளர்கள் இருவர் குளவி கொட்டுக்கு இலக்காகி வவுனியா வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+Two workers from the Department of Agriculture in Vavuniya were stung by wasps while cleaning a public hotel. They were admitted to the Vavuniya Hospital's emergency department. The victims are identified as V. Nagendran (52) and Goneswaran (46). Police are investigating the incident.
 
-வவுனியா பிரதி மாகாண விவசாய பணிப்பாளர் அவர்களின் அரச விடுதியை துப்புரவு செய்யத் திணைக்கள தொழிலாளர்கள் இருவர் அனுப்பி வைக்கப்பட்டுள்ளனர்.
+🟩
 
-குறித்த இரு தொழிலாளர்களும் விடுதியை துப்புரவு செய்த போது அங்கிருந்த குளவிகள் களைந்து இருவருக்கும் கொட்டியதில் இருவரும் வவுனியா வைத்தியசாலையின் அவசர சிகிச்சைப் பிரிவில் அனுமதிக்கப்பட்டுள்ளனர்.
+Two workers who have cleaned up the state hotel of the Vavuniya Deputy Provincial Director of Agriculture have been admitted to the Vavuniya Hospital.
 
-திணைக்கள தொழிலாளர்களான வே.நாகேந்திரன் (வயது 52), கோணேஸ்வரன் (வயது 46) ஆகிய இருவரே வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர். இது தொடர்பான மேலதிக விசாரணைகளை வவுனியா பொலிசார் முன்னெடுத்துள்ளனர்.
+Two workers of the Department have been sent to clean up their public hotel, Vavuniya Deputy Provincial Director.
+
+The two workers were admitted to the Emergency Department of the Vavuniya Hospital when the two workers were cleaning the hotel.
+
+Department workers V. Nagendran (age 52) and Goneswaran (46) have been admitted to the hospital.. Vavuniya police are conducting further investigations.
 
 ◼️
 
 [Data](articles/992c5594.json)
 
+[Extended Data](ext_articles/992c5594.ext.json)
+
 ---
 
-### ரி20 உலகக் கிண்ணப் போட்டியை முன்னிட்டு பாதுகாப்பு அதிகரிக்கப்பட்டுள்ளது
+### Security has been enhanced to ahead of the T20 World Cup
 
 *2024-05-31 03:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/184916) · `ta`
 
-உலகக் கிண்ணப் போட்டியின்போது அச்சுறுத்தல் இருப்பதாக அறிக்கைகள் வெளியானதை அடுத்து ரி20 உலகக் கிண்ண போட்டிக்கான பாதுகாப்பு அதிரிக்கப்பட்டுள்ளது.
+Security for the T20 World Cup has been heightened amid threats, particularly around the India-Pakistan match. The New York Governor announced increased security measures, including collaboration with local authorities and enhanced surveillance. Despite initial concerns, no credible threats were identified, ensuring the safety of attendees.
 
-ஜூன் மாதம் நடைபெறவுள்ள டி20 கிரிக்கெட் உலகக் கிண்ணத்துக்கான பாதுகாப்பை அமெரிக்கா அதிகரிக்கும் என்று நியூயோர்க் ஆளுநர் கவர்னர் தெரிவித்துள்ளார்.
+🟩
 
-'உலகக் கிண்ணப் போட்டிக்கான ஏற்பாடுகளின் ஓர் அங்கமாக பார்வையாளர்களின் உயிர்பாதுகாப்பை கருத்தில் கொண்டு சமஷ்டி மற்றும் உள்ளூர் பாதுகாப்பு அதிகாரிகளுடன் எனது அணி இணைந்து பணியாற்றி வருகிறது. இப்போதைக்கு நம்பத்தக்க அச்சுறுத்தல் எதுவும் இல்லை' என ஆளுநர் கத்தி ஹோச்சுல்  குறிப்பிட்டுள்ளார்.
+The security for the T20 World Cup has been shocked following reports that there was a threat during the World Cup.
 
-நியூ யோர்க் சிட்டியில் நடைபெறும் உலகக் கிண்ண சுற்றுப் போட்டி மற்றும் அதனுடன் தொடர்புடைய நிகழ்ச்சிகளை சந்தர்ப்பமாகப் பயன்படுத்தி தீவிரவாதிகள் வன்முறைகளில் ஈடுபடலாம்  அல்லது இடையூறுகளை ஏற்படுத்தலாம்  என நியூ யோர்க் சிட்டி பொலிஸாரை மேற்கோள் காட்டி ஏபிசி நீயூஸ் செய்தி வெளியிட்டிருந்தது.
+The Governor of the New York Governor said the US would increase the security of the T20 Cricket World Cup in June.
+
+“My team is working with Samadhi and Local Security Officers to consider the life safety of the audience as part of the arrangements for the World Cup competition.. There is no credible threat at the moment, ”Governor Kathi Hochul said.
+
+ABC Neuz has issued a news report that the World Cup and its associated events in New York City can take advantage of the opportunity to engage in violence or cause disturbance.
+
+“During the World Cup, especially the India-Pakistan match, the information released in favor of ISIS is concerned.. As a result, the need to strengthen security surveillance measures has been emphasized, ”the news further stated.
 
 ...
 
 [Data](articles/8b18c56e.json)
+
+[Extended Data](ext_articles/8b18c56e.ext.json)
 
 ---
 

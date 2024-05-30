@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-30 10:06:50**
+As of **2024-05-30 10:18:47**
 
 ## Newspaper Stats
 
-*Scraped **27,228** Articles*
+*Scraped **27,234** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,46 +13,114 @@ dbsjeyarajcom | 267
 bbccomsinhala | 271
 newsfirstlk | 363
 islandlk | 1,477
-economynextcom | 1,556
+economynextcom | 1,560
 dailyftlk | 1,601
 adalk | 2,313
-adaderanalk | 3,100
+adaderanalk | 3,101
 tamilmirrorlk | 3,193
 virakesarilk | 4,186
-dailymirrorlk | 4,303
+dailymirrorlk | 4,304
 adaderanasinhalalk | 4,357
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,215 (100.0%) of 27,228 articles have been extended.
+27,228 (100.0%) of 27,234 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-30 (Thursday)
 
-### දුම්වැටි භාවිතය නිසා දෛනික මරණ 50කට ආසන්නයි
+### Jewellers fined for importing gold illegally
 
-*2024-05-30 09:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197173) · `si`
+*2024-05-30 10:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Jewellers-fined-for-importing-gold-illegally/108-283674) · `en`
 
-දුම්වැටි භාවිතය හේතුවෙන් දෛනිකව මෙරට පුද්ගලයින් 50කට ආසන්න පිරිසක් මරණයට පත් වන බව මද්‍යසාර හා මත්ද්‍රව්‍ය තොරතුරු මධ්‍යස්ථානය පවසයි.
+Colombo, May 30 (Daily Mirror)- Five leading jewellers who imported gold illegally hav been fined, State Minister of Finance Ranjith Siyambalapitiya said yesterday.the total fine amounted to Rs 1,243 million according to the minister.
 
-එම මධ්‍යස්ථානය පෙන්වාදෙන්නේ වසරකට පුද්ගලයින් 20,000ක් පමණ දුම්වැටි භාවිතයෙන් මරණයට පත් වන බවය.
+One jeweller was find Rs 179 million.the State Minister said those who import gold through a third party will also be fined in the future.
 
-හෙටට (31) යෙදී ඇති ලෝක දුම්වැටි නිවාරණ දිනය සම්බන්ධයෙන් නිවේදනයක් නිකුත් කරමින් මද්‍යසාර සහ මත්ද්‍රව්‍ය තොරතුරු මධ්‍යස්ථානය මේ බව සඳහන් කරයි.
+“Some companies have made gold importation a racket and this has continued for some time,” he said.
 
-දුම්කොළ කර්මාන්තයේ මැදිහත්වීම්වලින් අපේ දරුවන් ආරක්ෂා කරගනිමු යන්න මෙවර ලෝක දුම්වැටි නිවාරණ දිනයේ තේමාව ය.
+Customs officers recently raided five jewellery manufacturing plants and recovered illegal gold.
 
-මේ වන විට මෙරට දුම්වැටි භාවිතය සියයට 9.1කින් අඩුවී ඇති අතර තරුණ පිරිස් අතර දුම්වැටි භාවිතය ඝීග්‍රයෙන් අඩුවෙමින් පවතින බව මද්‍යසාර හා මත්ද්‍රව්‍ය තොරතුරු මධ්‍යස්ථානය පවසයි.
+◼️
 
-දුම්කොළ සමාගම් වාර්තාවලට අනුව පසුගිය වසර තුළ දුම්වැටි නිෂ්පාදනය සියයට 19කින් පමණ අඩුවී තිබේ.
+[Data](articles/97f13ebb.json)
 
-ලෝකයේ දුම්වැටි භාවිතය අඩුවෙමින් පවතින රටවල් අතර ශ්‍රී ලංකාව තුළ ද හොඳ ප්‍රවණාතාවක් පැවතුණ ද තවදුරටත් මිලියන 1.5ක පමණ පිරිසක් දුම්වැටි භාවිතය සිදුකරන බව මධ්‍යසාර හා මත්ද්‍රව්‍ය තොරතුරු මධ්‍යස්ථානය පෙන්වාදෙයි.
+---
+
+### Thailand introduces visa-free entry for Sri Lankan tourists
+
+*2024-05-30 10:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/99528/thailand-introduces-visa-free-entry-for-sri-lankan-tourists) · `en`
+
+The Thai cabinet has adopted multiple visa measures to stimulate tourism, which will benefit tourists from 36 more countries including Sri Lankan travelers who may have plan to stay in the kingdom for more than 30 days.
+
+From 1 June, the number of countries eligible for visa-free entry will increase from 57 to 93, with the duration of visa-free stays extended to 60 days.
+
+Newly added countries include Sri Lanka, Laos, Albania, Cambodia, China, India, Jamaica, Kazakhstan, Mexico, Morocco, Panama, Romania, Uzbekistan, and others.
+
+These measures, including new visa-free and visa-on-arrival schemes, also extended stays for students and reduced health insurance requirements for retirees.
+
+The Thai cabinet also approved visa-on-arrival for a total of 31 countries, up from the previous 19.
 
 ...
 
+[Data](articles/7167ad69.json)
+
+---
+
+### Reyaz Mihular chairman of Sri Lanka’s Watawala Plantations
+
+*2024-05-30 09:49:00* · [`economynextcom`](https://economynext.com/reyaz-mihular-chairman-of-sri-lankas-watawala-plantations-165410/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Watawala Plantations Plc said Reyaz Mihular, a chartered accountant, has been appointed chairman, succeeding Sunil G Wijesinha who held the position for 12 years.
+
+Mihular was Managing Partner of KPMG Sri Lanka and Maldives from 2012 to 2022 and chaired KPMG’s Middle East and South Asia Regional Cluster, where he also acted as Chief Operating Officer.
+
+He holds directorships at various public listed companies, including Watawala Plantations and Sunshine Holdings.
+
+He is a Commissioner at the Colombo Port City Economic Commission and a member of the Stakeholder Engagement Committee of the Central Bank of Sri Lanka.
+
+Outgoing Chairman Wijesinha has served on the boards of both Watawala Plantations and Watawala Dairy Ltd. In September 2023, he was honoured with the ‘Order of the Rising Sun’ by the Government of Japan, in recognition of his contribution to strengthening economic relations and promoting mutual understanding between Japan and Sri Lanka.
+
+...
+
+[Data](articles/19a4499a.json)
+
+---
+
+### 50 daily deaths due to smoking
+
+*2024-05-30 09:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197173) · `si`
+
+Despite a decrease in cigarette use, especially among youth, smoking remains a significant health risk, causing around 20,000 deaths annually. The Alcohol and Drugs Information Center highlights the impact of smoking, while also noting a reduction in cigarette production and usage. Efforts to combat smoking continue, with interventions targeting both adults and minors.
+
+🟩
+
+Alcohol and Drugs Information Center (DMC) says that alcohol is killed daily due to the use of smoking.
+
+The center shows that about 20,000 people die from smoking per year.
+
+Alcohol and Drugs Medium (DMC) is said to be a statement regarding the World Cigarettes Prevention Day (31).
+
+The theme is the theme of the world cigarettes this year with the intervention of tobacco industry.
+
+The use of cigarettes of cigarettes has decreased by 9.1 percent and the use of smoking is diminished by young people.
+
+According to tobacco Company reports, cigarettes production has fallen by 19 percent in the past year.
+
+The alcohol and the drug information states that the use of cigarettes of cigarettes is decreasing in Sri Lanka.
+
+In the face of the present situation, youths and children are launching a number of muslim companies to use cigarettes.
+
+Meanwhile, Dr. Chandana de Silva, Specialist Dr. Chandana de Silva, said that addiction to the use of cigarettes among school children is increasing.
+
+◼️
+
 [Data](articles/a300afda.json)
+
+[Extended Data](ext_articles/a300afda.ext.json)
 
 ---
 
@@ -72,21 +140,49 @@ The identity of the deceased is yet to be ascertained and the body is currently 
 
 [Data](articles/6c248089.json)
 
+[Extended Data](ext_articles/6c248089.ext.json)
+
 ---
 
-### Cannes සම්මාන උළලේදී ශ්‍රී ලංකාවේ ශේෂ ඇගයීමට ලක්වෙයි
+### Sri Lanka rupee opens lower at 301.60/75 to US dollar
+
+*2024-05-30 09:36:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-lower-at-301-60-75-to-us-dollar-165408/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened lower at 301.60/75 to the US dollar on Thursday, from 301.60/302.00 the previous day, dealers said. Bond yields were steady.
+
+A bond maturing on 15.12.2026 was quoted at 9.70/80 percent from 9.70/85 percent.
+
+A bond maturing on 15.09.2027 was quoted up at 10.25/35 percent from 10.30/40 percent.
+
+A bond maturing on 01.07.2028 was quoted up at 10.75/80 percent from 10.70/80 percent.
+
+The Colombo Stock Exchange opened up. The All Share Price Index was up 0.09 percent at 12,113, the S&P SL20 was down 0.16 percent at 3,552. (Colombo/May30/2024)
+
+◼️
+
+[Data](articles/43727808.json)
+
+---
+
+### Sri Lanka's balance is evaluated at the CANNES Awards
 
 *2024-05-30 09:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197172) · `si`
 
-ශ්‍රී ලංකාවේ සිනමා පටයක් වන "ශේෂ" 2024 ලෝක "Cannes" සම්මාන උළලේදී BEST DANCE FILM අංශයේ සම්මානය දිනගෙන තිබේ.
+At the CANNES Awards, Sri Lanka's "Balance," a Vest Dance Film directed by Isur Gunatilake, won. The film, which explores the concept of Hela through veteran dancer Chandana Wickremasinghe's performance, showcases Sri Lanka's cinematic talent.
 
-හෙළයාගේ අස්පර්ශ මූලාශ්‍රය ලෙසින් හඳුන්වා දුන් "ශේෂ" සිනමා පටය ඉසුරු ගුණතිලකගේ නිර්මාණයකි.
+🟩
 
-ප්‍රවීණ නර්තන ශිල්පී චන්දන වික්‍රමසිංහ විසින් එහි ප්‍රධාන චරිතය නිරූපණය කරයි.
+The Balance "Cannes" Awards winning the Vest Dance Film was won by a cinema in Sri Lanka.
+
+Isur Gunatilake's design is the "balance" film, introduced as the source of the Hela.
+
+Veteran dancer Chandana Wickremasinghe represents its main character.
 
 ◼️
 
 [Data](articles/2f4b9d45.json)
+
+[Extended Data](ext_articles/2f4b9d45.ext.json)
 
 ---
 
@@ -112,6 +208,8 @@ Police have referred the girls to the Judicial Medical Officer (JMO) for examina
 
 [Data](articles/10bbf75a.json)
 
+[Extended Data](ext_articles/10bbf75a.ext.json)
+
 ---
 
 ### Thailand approves visa-free travel for Sri Lankan tourists
@@ -131,6 +229,8 @@ Visa-on-arrival: The number of countries eligible for visa-on-arrival has increa
 ...
 
 [Data](articles/638ba8e0.json)
+
+[Extended Data](ext_articles/638ba8e0.ext.json)
 
 ---
 
@@ -152,6 +252,8 @@ In response to the recent statement by the United National Party (UNP) headed by
 
 [Data](articles/dadf371e.json)
 
+[Extended Data](ext_articles/dadf371e.ext.json)
+
 ---
 
 ### UK Parliament dissolves ahead of July 4 general election
@@ -171,6 +273,8 @@ After 14 years in opposition, the Labour party now has the chance to win back po
 ...
 
 [Data](articles/22b1c32e.json)
+
+[Extended Data](ext_articles/22b1c32e.ext.json)
 
 ---
 
@@ -245,6 +349,38 @@ The deceased has been identified as between 45 and 50 years old and about 9 feet
 [Data](articles/ae0c63f0.json)
 
 [Extended Data](ext_articles/ae0c63f0.ext.json)
+
+---
+
+### Sri Lanka monetary policy is not to promote growth: CB Governor
+
+*2024-05-30 07:41:00* · [`economynextcom`](https://economynext.com/sri-lanka-monetary-policy-is-not-to-promote-growth-cb-governor-165386/) · `en`
+
+ECONOMYNEXT – The objective of Sri Lanka’s monetary policy is not to promote growth but provide stability to achieve its growth potential, Central Bank Governor Nandalal Weerasinghe said though it could be a secondary aim.
+
+“The objective of monetary policy is not to promote growth, but to stabilize and facilitate for the country to achieve potential growth, whatever the levels,” Governor Weerasinghe told reporters in Colombo, after keeping rates unchanged.
+
+“A lot of other policies will have to take place to enhance growth in the medium to long term.”
+
+Critics have complained that Sri Lanka’s central bank has in the past tried to push growth by cutting rates by printing money through liquidity tools and denied monetary stability to the people and businesses by trying to close a potential ‘output gap’.
+
+...
+
+[Data](articles/d5607414.json)
+
+---
+
+### Fearing legal action globally, Sri Lanka parliament calls to review UN’s evidence gathering
+
+*2024-05-30 07:39:00* · [`economynextcom`](https://economynext.com/fearing-legal-action-globally-sri-lanka-parliament-calls-to-review-uns-evidence-gathering-165387/) · `en`
+
+ECONOMYNEXT – Facing possible legal actions on human rights violations in International Court of Justice (ICJ) and International Criminal Court (ICC), a Sri Lankan parliament panel has called all stakeholders to look into a United Nation’s evidence gathering mechanism against the island nation’s rights abuses under a 2021 UN resolution, a top official said.
+
+The United Nation’s Human Rights Council (UNHRC) passed a resolution in March 2021 that has given mandate for the global body to establish a mechanism to gather evidences outside the country over alleged human rights violations during and after a 26-year war ended in 2009.
+
+...
+
+[Data](articles/2b2bbfc3.json)
 
 ---
 
@@ -564,21 +700,27 @@ Honorary Governor said that the provision of land guarantees would have more ben
 
 ---
 
-### ’வலுசக்தித் துறையின் மாற்றத்திற்கான திட்டம் அவசியம்’
+### Plan for a change of transformation is essential
 
 *2024-05-30 02:36:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வலுசக்தித்-துறையின்-மாற்றத்திற்கான-திட்டம்-அவசியம்/175-338124) · `ta`
 
-இலங்கையில் புதுப்பிக்கத்தக்க வலுசக்தியைப் பயன்படுத்துதல் மற்றும் பசுமை ஹைட்ரஜன் உற்பத்தியின் எதிர்காலப் போக்குகள் குறித்து ஆராய விரிவான திட்டம் ஒன்றின் அவசியத்தை ஜனாதிபதி ரணில் விக்கிரமசிங்க வலியுறுத்தினார்.
+President Ranil Wickremesinghe highlighted the importance of a detailed plan for harnessing renewable energy and exploring green hydrogen production in Sri Lanka. He discussed this during a meeting organized by the World Bank, Ministry of Power, and others, emphasizing the challenges in securing local expertise and the need for international collaboration. The President mentioned the approval of the Electricity Reform Act and its amendment, the submission of the Economic Change Bill to Parliament, and the preparation of the Climate Change Act. He also noted the study of other countries' energy transition laws, indicating the intention to develop similar legislation in Sri Lanka, opening opportunities for both domestic and foreign investment in the energy sector.
 
-கொழும்பு ஹில்டன் ஹோட்டலில் நேற்று  இடம்பெற்ற 'வலுசக்தி மாற்றத்தின் எதிர்காலப் பாதை' எனும் தலைப்பில் இடம்பெற்ற வட்டமேசை கலந்துரையாடலில் கலந்துகொண்டு உரையாற்றும் போதே ஜனாதிபதி இதனை சுட்டிக்காட்டினார்.
+🟩
 
-உலக வங்கி, மின்சக்தி மற்றும் வலுசக்தி அமைச்சு மற்றும் இலங்கை மின்சார சபை ஆகியவற்றால் ஏற்பாடு செய்யப்பட்ட இந்த வட்டமேசைக் கலந்துரையாடல், இலங்கையின் வலுசக்தி மாற்றம் குறித்து கலந்துரையாடும் தளமாக அமைந்தது.
+President Ranil Wickremesinghe emphasized the need for a comprehensive plan to use renewable strength in Sri Lanka and to investigate the future trends of green hydrogen production.
 
-அதன்போது, உள்நாட்டு நிபுணத்துவத்தைப் பெறுவதில் உள்ள சிரமங்களைப் பற்றிக் குறிப்பிட்ட ஜனாதிபதி, உலக வங்கி, ஆசிய அபிவிருத்தி வங்கி மற்றும் உள்நாட்டு மற்றும் வெளிநாட்டு முதலீட்டாளர்கள் உட்பட அனைத்து தரப்பினரையும் ஆதரவு வழங்குமாறு கேட்டுக் கொண்டார்.
+The President pointed out this while addressing a discussion with the Vattamesh discussion held at the Hilton Hotel yesterday at the Hilton Hotel, Colombo.
+
+The circulation discussion, organized by the World Bank, the Ministry of Power and the Ministry of Energy and the Ceylon Electricity Board, became a platform on Sri Lanka's strength change.
+
+At the same time, the President referred to the difficulties in obtaining domestic expertise and asked all parties, including the World Bank, the Asian Development Bank and all parties, including domestic and foreign investors.
 
 ...
 
 [Data](articles/57f38048.json)
+
+[Extended Data](ext_articles/57f38048.ext.json)
 
 ---
 
@@ -634,21 +776,27 @@ Patients in hospitals in their respective areas should be provided with possible
 
 ---
 
-### 5 நிறுவனங்களுக்கு எதிராக அபராதம்
+### Fines against 5 companies
 
 *2024-05-30 02:14:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/5-நிறுவனங்களுக்கு-எதிராக-அபராதம்/175-338123) · `ta`
 
-சட்டவிரோதமாக தங்கத்தை இறக்குமதி செய்த ஐந்து நிறுவனங்களுக்கு 1243 மில்லியன் ரூபா அபராதம் விதிக்கப்பட்டுள்ளது.
+Five companies were fined 1243 million rupees for illegally importing gold into Sri Lanka. The Minister highlighted fines for indirect imports through jewelry purchases and mentioned one company's fine of 179 million rupees.
 
-நேரடி இறக்குமதியின்றி, மூன்றாம் தரப்பினரிடமிருந்து கொள்வனவு செய்யப்படும் தங்க ஆபரணங்களுக்கும் அபராதம் விதிக்கப்படும் என இராஜாங்க அமைச்சர் ரஞ்சித் சியம்பலாபிட்டிய தெரிவித்துள்ளார்.
+🟩
 
-வருடத்தின் இதுவரையிலான காலப்பகுதிக்குள், இலங்கைக்கு சட்டவிரோதமான முறையில் தங்கத்தை இறக்குமதி செய்த ஐந்து நிறுவனங்கள் அடையாளம் காணப்பட்டுள்ளதாகவும், அந்த நிறுவனங்களுக்கு 1243 மில்லியன் ரூபா அபராதம் விதிக்கப்பட்டுள்ளதாகவும் அவர் தெரிவித்துள்ளார்.
+Five companies who illegally imported gold have been fined 1243 million rupees.
 
-அத்துடன், சட்டவிரோத இறக்குமதியுடன் தொடர்புடைய நிறுவனமொன்றுக்கு 179 மில்லியன் ரூபாவை செலுத்துமாறு உத்தரவிடப்பட்டுள்ளதாகவும் ரஞ்சித் சியம்பலாபிட்டிய தெரிவித்துள்ளார். (a)
+Minister of State Ranjith Siyambalapitiya said that the gold jewelery purchased from the third party will be fined without direct imports.
+
+He said five companies that illegally imported gold to Sri Lanka have been identified and fined 1243 million rupees.
+
+Ranjith Siyambalapitiya said that a company related to illegal imports has been ordered to pay 179 million rupees.. (A)
 
 ◼️
 
 [Data](articles/74f241f2.json)
+
+[Extended Data](ext_articles/74f241f2.ext.json)
 
 ---
 
@@ -665,6 +813,8 @@ Commenting on the market lending rates, the Central Bank said it had seen a subs
 ...
 
 [Data](articles/596a0e01.json)
+
+[Extended Data](ext_articles/596a0e01.ext.json)
 
 ---
 
@@ -1042,19 +1192,27 @@ The Ministry of Education has announced that all schools on the 30th and 31st Ma
 
 ---
 
-### ඖෂධවල ගුණය හොයන පරීක්ෂණාගාරයට අසාධ්‍යයි
+### Pharmaceutical laboratory laboratory laboratory
 
 *2024-05-29 22:44:04* · [`adalk`](https://www.ada.lk/breaking_news/ඖෂධවල-ගුණය-හොයන-පරීක්ෂණාගාරයට-අසාධ්‍යයි/11-409899) · `si`
 
-රෝගීන්ගේ ජීවිත සුරක්ෂිත කිරීම සඳහා මෙරට භාවිතයට ගැනෙන ඖෂධ පිළිබඳ පර්යේෂණ සිදුකර ගුණාත්මක බව තහවුරු   කිරීමට ඇති ප්‍රමුඛතම ආයතනය වන ජාතික ඖෂධ තත්ත්ව ආරක්ෂණ පර්යේෂණාගාරයේ (National  Medicines Quality Assurance Laboratory ) දිගින් දිගටම පවතින අඩුපාඩු හා දුර්වලතා හේතුවෙන් සෞඛ්‍ය පද්ධතිය තුළ  බරපතල ගැටලු රැසක් නිර්මාණය වී ඇතැයි ජාතික විගණන කාර්යාලය අනාවරණය කරයි.
+The National Drug Quality Assurance Laboratory faces issues including lack of international recognition, outdated equipment, and insufficient staffing, impacting its ability to ensure drug quality. The audit highlights deficiencies in reporting, inadequate training for officials, and delays in issuing critical drug quality reports. Recommendations aim to improve standards and patient safety.
 
-ජාතික ඖෂධ නියාමන අධිකාරී පනත යටතේ පිහිටුවා    සෞඛ්‍ය අමාත්‍යාංශය යටතේ සෘජුවම පවත්වාගෙන ගිය මෙම ආයතනය 2015 සිට  ජාතික ඖෂධ නියාමන අධිකාරිය යටතේ පවත්වාගෙන යයි.
+🟩
 
-ජාතික ඖෂධ නියාමන අධිකාරී පනතට අනුව ඖෂධ ඇතුළු වෛද්‍ය සැපයුම්  ලියා පදිංචියට ඉදිරිපත් කිරීමේදී ,මෙරටට ගෙන ඒමේදී,භාවිතා කරන්නන්ගේ පැමිණිලි විභාගයේදී ,පශ්චාත් අලෙවි සමීක්ෂණ පැවැත්වීමේදී හා වෙනත් අවස්ථානුකූල අවශ්‍යතාවන්හිදී  ඖෂධවල ගුණාත්මක භාවය පිළිබඳ පර්යේෂණ පවත්වා ඒවා භාවිතයට  සුදුසුද නැද්ද යන්න පිළිබඳ   නිගමන වාර්තා  ලබා දීම මෙම පර්යේෂණාගාරයේ ප්‍රධානතම කාර්ය වේ.
+National audits have been created in the National Drug Quality Assurance Laboratory, the main issues of the National Drugs Quality Assurance Laboratory (National Medicines Quality Assurance Laboratory) to ensure the quality of patients.The office reveals.
+
+The institution directly maintained under the Ministry of Health under the Ministry of Health, this institution directly maintained under the Ministry of Health.
+
+In order to register medical supplies to the Regulatory Authority Act, when submitting medical supplies to regulatory regulations and other situations research on the use of medicine, the report will be conducted on the quality of drugs and not to use.The main function is.
+
+The laboratory shows that this laboratory has been deprived of international recognition and benefits from the Sri Lanka Accreditation Board as a standardized institution.
 
 ...
 
 [Data](articles/697a82f1.json)
+
+[Extended Data](ext_articles/697a82f1.ext.json)
 
 ---
 
@@ -2075,135 +2233,5 @@ And all 80 billion rupees offered of 12-month bills were sold at 9.18 percent, d
 [Data](articles/e84839df.json)
 
 [Extended Data](ext_articles/e84839df.ext.json)
-
----
-
-### Four killed in Vihara Junction in Dambulla junction
-
-*2024-05-29 17:06:18* · [`adalk`](https://www.ada.lk/breaking_news/දඹුල්ල-විහාර-හන්දිය-ප්‍රදේශයේ-නීතිවිරෝධී-මත්පැන්-පානය-කළ-හතරක්-මරුට/11-409892) · `si`
-
-In Dambulla, four died from illegal alcohol consumption at Vihara Junction. Residents report two deaths over two days. Suspects, previously arrested, are now in custody after another death today.
-
-🟩
-
-Four of illegal drinking alcohol in the Dambulla Vihara Junction area were killed.
-
-Residents say two days ago and two alcoholic was killed today.
-
-The suspects have been arrested by the police and produced before the court on several previous occasions.
-
-Dambulla Police say that in addition to the post mortem examination of the dead, the Dambulla Police said.
-
-◼️
-
-[Data](articles/a725327a.json)
-
-[Extended Data](ext_articles/a725327a.ext.json)
-
----
-
-### A mother arrested for tied up by a 7 -year -old boy
-
-*2024-05-29 17:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/184798) · `ta`
-
-A mother was arrested after a video surfaced showing her tying up her 7-year-old son. The incident occurred in the village of Chadd under the Eravur police division of Batticaloa. The woman, who remarried and moved to Puttalam, allegedly assaulted her stepson, leading to her arrest. Her actions were reported by neighbors, and her second husband discovered the abuse through her mobile phone. He alerted the Eravur police, who arrested her based on the evidence presented.
-
-🟩
-
-The Eravur police said that the woman's husband had lodged a complaint with the woman's husband, who had tied her son upside down in the village of Chadd, which belongs to the Eravur police division of Batticaloa.
-
-The woman has left the woman who has married another husband in the Puttalam area and has a second husband and a child.. In this case, the person has been informed by the neighbors that the child of the second husband is being attacked by the woman.
-
-Following this, the second husband of Eravur, the woman's hometown, was involved in a dispute with the woman to send her child with her.. Later, when she took the woman's mobile phone, she observed that the woman was attacked by her child.
-
-He immediately rushed to the Eravur police station and showed the video to the police.Eravur police said that the woman was arrested yesterday for the video.
-
-◼️
-
-[Data](articles/11d80311.json)
-
-[Extended Data](ext_articles/11d80311.ext.json)
-
----
-
-### Singapore flight investigation finds sharp altitude drop caused injuries
-
-*2024-05-29 17:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/99515/singapore-flight-investigation-finds-sharp-altitude-drop-caused-injuries) · `en`
-
-Preliminary findings released on Wednesday of an investigation into a Singapore Airlines flight hit by severe turbulence last week showed that a rapid change in gravitational force and a 54-metre altitude drop caused injuries.
-
-A 73-year-old passenger died of a suspected heart attack and dozens were injured after flight SQ321, flying from London to Singapore, encountered what the airline described as sudden, extreme turbulence while flying over Myanmar.
-
-The May 21 flight on a Boeing 777-300ER plane carrying 211 passengers and 18 crew diverted to Bangkok for an emergency landing after the plane was buffeted by turbulence that flung passengers and crew around the cabin, slamming some into the ceiling.
-
-“The aircraft experienced a rapid change in G (gravitational force) … This likely resulted in the occupants who were not belted up to become airborne,” the Singapore Transport Ministry said in a statement.
-
-...
-
-[Data](articles/e6907d5b.json)
-
-[Extended Data](ext_articles/e6907d5b.ext.json)
-
----
-
-### Allu Arjun starrer 'Pushpa 2- The Rule'
-
-*2024-05-29 16:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/184803) · `ta`
-
-"Pushpa 2: The Rule," starring Allu Arjun, directed by Sukumar, features songs in multiple languages including Tamil, Telugu, Malayalam, Kannada, and Hindi. The sequel, releasing on August 15, follows the success of its first song, which garnered over forty million views. The second song, "Suda...," along with a special video, has already attracted over a million views in just two hours."
-
-🟩
-
-Allu Arjun, the leading star actor of Telugu film industry, rose to Ban Indian star actor with 'Pushpa'. The second song and a special video for the song will be released in the second part of the film 'Pushpa', which will be released on August 15, will be released on August 15.
-
-Directed by director Sukumar, 'Pushpa 2-The Rule' stars Allu Arjun, Bhagat Fazil, Rashmika Mantana, Tananjaya, Rao Ramesh, Sunil, Anusuya Bharadwaj, Ajay Ghosh, Ajay Ghosh. The film is composed by 'Rock Star' Devi Sri Prasad on behalf of Maithri Movie Makers Company.. Ravi Shankar has co -produced.
-
-...
-
-[Data](articles/72e56797.json)
-
-[Extended Data](ext_articles/72e56797.ext.json)
-
----
-
-### Criticism against a fake Facebook post criticized in the case of the temple
-
-*2024-05-29 16:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/184802) · `ta`
-
-A lawsuit has been filed against a fake Facebook account linked to the Konasar temple case in Trincomalee, under Section 26(1) of the Ceremony Act No. 9, 2024. The case was presented by attorney Chinathambi Shanmukhi, with senior attorney Ramalingam supporting it. The court seeks to identify the person behind the account and investigate related incidents. This marks the second such case filed by the Trincomalee District Court against anonymous Facebook registrations under the same act.
-
-🟩
-
-A case has been filed today (29) against a fake Facebook account criticized in the Konasar temple case in Trincomalee District Court.
-
-The case has been filed under Section 26 (1) of the Ceremony Act No. 9, 2024 by Selvakandu Kanakanayagam Vijayanathan.. Attorney -at -Law Chinathambi Shanmukhi had filed the case. Senior Attorney Ramalingam presented his submission to the Thirukumaranathan Hall in support of the petition.
-
-The identity of the man who is used or the man who is used to be able to recognize the unprecedented Facebook account, and other events related to the Facebook account used by the petitioner are required to file the case in the future, as the Hon. The Hon.The Criminal Investigation Department of the Criminal Investigation Department (Criminal Investigation), which is acting on the submission of the Hon.
-
-...
-
-[Data](articles/93609a14.json)
-
-[Extended Data](ext_articles/93609a14.ext.json)
-
----
-
-### Attorney at Kotalawala Defense University released on bail
-
-*2024-05-29 16:49:44* · [`adalk`](https://www.ada.lk/breaking_news/අත්අඩංගුවට-ගත්-කොතලාවල-ආරක්ෂක-විශ්වවිද්‍යාලයේ-කථිකාචාර්ය-වරයා-ඇප-මත-මුදාහරී/11-409891) · `si`
-
-A lecturer from Kotalawala Defense University was arrested over allegations involving four Sri Lankans detained in India. He was later granted bail of Rs. 10 lakhs by the Fort Magistrate's Court.
-
-🟩
-
-The Kotalawala Defense University Lecturer in the Kotelawala Defense University has been arrested this morning for allegations made by the names of 4 Sri Lankans who were arrested in India.
-
-He was later produced before the Fort Magistrate's Court and released on a bail of Rs. 10 lakhs.
-
-◼️
-
-[Data](articles/c249638b.json)
-
-[Extended Data](ext_articles/c249638b.ext.json)
 
 ---

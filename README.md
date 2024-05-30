@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-30 19:18:49**
+As of **2024-05-30 19:34:13**
 
 ## Newspaper Stats
 
-*Scraped **27,364** Articles*
+*Scraped **27,365** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,36 @@ adalk | 2,334
 adaderanalk | 3,119
 tamilmirrorlk | 3,211
 virakesarilk | 4,210
-dailymirrorlk | 4,324
+dailymirrorlk | 4,325
 adaderanasinhalalk | 4,376
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,361 (100.0%) of 27,364 articles have been extended.
+27,364 (100.0%) of 27,365 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-30 (Thursday)
+
+### Prisoner escapes from Kalutara Malwatta Prison
+
+*2024-05-30 19:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Prisoner-escapes-from-Kalutara-Malwatta-Prison/108-283722) · `en`
+
+Colombo, May 30 (Daily Mirror) - A prisoner from Kalutara Malwatta Prison, serving time for a drug-related offense, escaped this afternoon, according to prison sources.
+
+The escapee, identified as a resident of the Ingiriya area, reportedly fled while cleaning an official house within the prison grounds.
+
+Authorities suspect that he made his way into the forested area behind the prison in Malwatta.
+
+Prison officials are currently conducting a search operation to apprehend the escaped prisoner.
+
+◼️
+
+[Data](articles/5b83d021.json)
+
+---
 
 ### Parliament gathers from 4 to 7
 
@@ -122,6 +140,8 @@ Based on those complaints, the agency is believed to have cheated a total sum of
 
 [Data](articles/469c9a8d.json)
 
+[Extended Data](ext_articles/469c9a8d.ext.json)
+
 ---
 
 ### $ 1 billion investment goal is completed
@@ -194,21 +214,27 @@ The event was held under the patronage of the Southern Province Governor Lakshma
 
 ---
 
-### එළවළු මිල සීඝ්‍රයෙන් ඉහළට
+### Vegetable prices are rapidly increasing
 
 *2024-05-30 17:27:38* · [`adalk`](https://www.ada.lk/breaking_news/එළවළු-මිල-සීඝ්‍රයෙන්-ඉහළට/11-409921) · `si`
 
-දිවයින පුරා පවතින දැඩි අයහපත් කාලගුණයත් සමග එලවළු වගාවන් විනාශ විම හේතුවෙන් ඉල්ලුමට සරිලන එලවළු සැපයුමක් ලබාදිමට නොහැකි විම මත එලවළු මිල සීඝ්‍රෙයන් ඉහල ගොස් ඇති බවත්, පවතින තත්ත්වය මත එලවළු හිගයක් ඇතිවිමේ අවධානමක් ඇති බව නුවරඑලිය ආර්ථික මධ්‍යස්ථාන වෙළඳ සංගමයේ නිලධාරින් පැවසිය.
+Due to crop damage, vegetable prices are soaring. At a press conference, Nuwara Eliya Economic Center officials discussed the impact on farmers.
 
-එම නිලධාරින් ඒ බැව් කියා සිටියේ (30) දින එළවළු මිල හා වත්මන් ගොවීන්ගේ ගැටළු සාකච්ඡා කිරීම වෙනුවෙන් නුවරඑළිය ආර්ථික මධ්‍යස්ථානයේ සංවිධානය කරතිබූ විශේෂ මාධ්‍ය හමුවකට එක්වෙමිනි.
+🟩
 
-මෙම මාධ්‍ය හමුවේදි වැඩිදුරටත් අදහස් දැක් වු නුවරඑළිය ආර්ථික මධ්‍යස්ථානයේ සභාපති සුසිල් ශාන්ත සහ ලේකම් ගුණසේකරන් ශිවා යන මහතුන් කියා සිටියේ ,
+According to the Nuwara Eliya Economic Center Trade Association officials said that due to the destruction of vegetable crops due to the destruction of vegetable crops.
 
-"ගෝවා කිලෝවක ගැනුම් මිළ  රුපියල් 70 ක් කැරට් කිලෝවක ගැනුම් මිල රුපියල් 120 ක් ලික්ස් කිලෝවක ගැනුම් මිල රුපියල් 300 ක් රාබු කිලෝවක ගැනුම් මිල රුපියල් 80 ක් බිට්රුට් කිලෝවක ගැනුම් රුපියල් 320 ක් හා අර්තාපල් කිලෝවක ගැනුම් මිල 280ක් වශයෙන් අද අපි ගොවියන්ගෙන් ලබා ගන්නවා" යනුවෙනි.
+They were told at a special press conference organized by the Nuwara Eliya Economic Center for the discussion of vegetable prices and the issues of the present farmers.
+
+Speaking further the Chairman of the Nuwara Eliya Economic Center of Nuwara Eliya Economic Center Susil Shantha and Secretary Gunasekaran said:
+
+"The cost of prices of kilograms of cabbage is Rs.
 
 ◼️
 
 [Data](articles/314e68d4.json)
+
+[Extended Data](ext_articles/314e68d4.ext.json)
 
 ---
 
@@ -1590,6 +1616,8 @@ George Michael (name fondly mistaken to English singer and celebrity) served as 
 
 [Data](articles/12e858ed.json)
 
+[Extended Data](ext_articles/12e858ed.ext.json)
+
 ---
 
 ### The other willingness is less, and Sajith and Anura is so the subscriptions of Ranil
@@ -2321,33 +2349,5 @@ Addressing the media, its media spokesman, Dr. Chamil Wijesinghe, said that the 
 [Data](articles/45d1c831.json)
 
 [Extended Data](ext_articles/45d1c831.ext.json)
-
----
-
-### There is a severe shortage of vegetables and prices rise rapidly - Nuwara Eliya Economic Center
-
-*2024-05-30 11:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/184841) · `ta`
-
-Nuwara Eliya Economic Center predicts a severe vegetable shortage due to climate damage, leading to rapid price hikes. Farmers face delays in payments, affecting supply.
-
-🟩
-
-The Nuwara Eliya Economic Center has warned that there will be severe shortage of vegetables in the future and prices will rise rapidly.
-
-Due to heavy rains and wind climates, the agricultural lands cultivated in the agricultural lands have been destroyed and the roots of vegetables are unable to distribute in demand.
-
-The Nuwara Eliya Economic Center has warned that the prices of vegetables have been gradually increased and there will be severe shortage of vegetables within a period of about a month.
-
-They made this statement at a special press conference organized by the union (30) at the Nuwara Eliya Economic Center to discuss the problems of vegetable prices and the current farmers.
-
-In a statement to the media, Mr. Susil Shantha and Secretary of the Nuwara Eliya Economic Center, Mr. Gunasekaran Siva.
-
-The purchase price of one kilogram of cabbage is 70 rupees, the purchase price of carrots is Rs.
-
-...
-
-[Data](articles/90af5175.json)
-
-[Extended Data](ext_articles/90af5175.ext.json)
 
 ---

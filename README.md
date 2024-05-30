@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-30 16:05:32**
+As of **2024-05-30 16:18:52**
 
 ## Newspaper Stats
 
-*Scraped **27,332** Articles*
+*Scraped **27,334** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,36 +17,42 @@ economynextcom | 1,563
 dailyftlk | 1,601
 adalk | 2,326
 adaderanalk | 3,114
-tamilmirrorlk | 3,209
+tamilmirrorlk | 3,210
 virakesarilk | 4,210
-dailymirrorlk | 4,321
+dailymirrorlk | 4,322
 adaderanasinhalalk | 4,368
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,320 (100.0%) of 27,332 articles have been extended.
+27,332 (100.0%) of 27,334 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-30 (Thursday)
 
-### කටුනායකින් අවසන් වූ ඉන්දියානුවාගේ සෙල්ලම
+### The Indians who ended with Katunayake
 
 *2024-05-30 15:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197184) · `si`
 
-නීතිවිරෝධී ලෙස දුම්වැටි තොගයක් මෙරටට රැගෙන ආ විදෙස් ජාතිකයෙකු කටුනායක ගුවන්තොටුපොළේදී අත්අඩංගුවට ගෙන තිබේ.
+A 31-year-old Indian was arrested at Katunayake airport for smuggling contraband cigarettes. The arrest followed a police raid on the Katunayake unit of the Narcotics Bureau.
 
-පොලිස් මත්ද්‍රව්‍යනාශක කාර්යාංශයේ කටුනායක ඒකකයේ නිලධාරීන් විසින් කළ වැටලීමකදී සැකකරු අත්අඩංගුවට ගෙන ඇත.
+🟩
 
-මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ 31 හැවිරිදි වියේ පසුවන ඉන්දීය ජාතිකයෙකි.
+A foreign national has been arrested at the Katunayake airport.
 
-ඔහු මෙලෙස නීතිවිරෝධී ලෙස රැගෙනවිත් තිබූ දුම්වැටිවල වටිනාකම රුපියල් ලක්ෂ 3කට ආසන්න බවට අනාවරණය වී ඇත.
+The suspect has been arrested following a raid on the Katunayake Unit of the Police Narcota Bureau.
+
+The arrested has been arrested for a 31-year-old Indian.
+
+It has been revealed that the cigarettes were illegally carried by the illegal bodies.
 
 ◼️
 
 [Data](articles/ce58455a.json)
+
+[Extended Data](ext_articles/ce58455a.ext.json)
 
 ---
 
@@ -94,6 +100,8 @@ The petitioner alleged that despite the Colombo District Court's interim injunct
 
 [Data](articles/c0fc435a.json)
 
+[Extended Data](ext_articles/c0fc435a.ext.json)
+
 ---
 
 ### Public cautioned over rising water levels of several rivers
@@ -115,6 +123,26 @@ The Department of Irrigation further stated that people living in low-lying area
 [Data](articles/4aa1c99c.json)
 
 [Extended Data](ext_articles/4aa1c99c.ext.json)
+
+---
+
+### கடதாசி கரண்டியால் தடுமாறும் தமிழர்
+
+*2024-05-30 15:33:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடதாசி-கரண்டியால்-தடுமாறும்-தமிழர்/175-338159) · `ta`
+
+ஒரு தட​வை மட்டுமே பயன்படுத்தப்படும் பிளாஸ்டிக் பொருட்களுக்குத் தடைச் செய்யப்பட்டுள்ளதை வரவேற்க வேண்டும். அதற்காக மாற்று ஏற்பாடுகள் பல செய்யப்பட்டுள்ளன.
+
+கடதாசியில் செய்யப்பட்ட ‘ஸ்டோ‘,‘ ‘கடதாசி மட்டை கரண்டி’, ‘கடதாசி கப்’, ‘கடதாசி பிளேட்’  இவ்வாறு பல வடிவங்களில் பொருட்கள் சந்தைகளில் புழக்கத்தில் உள்ளன. யோகட் வாங்கும் போது, பெரும்பாலான கடைகளில் மட்டை கடதாசி கரண்டியே வழங்கப்படுகின்றது.
+
+சுற்றாடலுக்கு  கேடு விளைவிக்கும் பிளாஸ்டிக்கை தூங்கிவீசிவிட்டு, விரைவாக உக்கும் மண்ணுக்கு உரம்கொடுக்கும் இந்த கடதாசி மட்டை கரண்டியின் பயன்பாடு வரவேற்கத்தக்கது.
+
+எனினும், அக்கடதாசி மட்டை கரண்டியில் குழி இருக்காது, வாங்குவோர்தான் இரண்டுபுறங்களும் மடித்து, குழியைப்போல செய்துக்கொள்ளவேண்டும். இந்த விடயம் தெரியாத பலரும், கடதாசி க​ரண்டியை மடிக்காமல், யோகட்டை அள்ளி, ஆடைகளிலும் கீழேயும் கொட்டிக்கொள்கின்றனர்.
+
+கடைக்காரர்களும் அதனை விளங்கப்படுத்துவது இல்லை. எனினும்,  தமிழ் தெரியாதவர்களுக்கு அதுவும் ஒரு பிரச்சினையாகும். ஏனெனில், இவ்விடத்தில் மடிக்கவும் என, சிங்களம், ஆங்கிலம் ஆகிய இரண்டுமொழிகளில் மட்டுமே எழுதப்பட்டு உள்ளன.
+
+...
+
+[Data](articles/9c23e692.json)
 
 ---
 
@@ -192,19 +220,29 @@ Raisi, a hardliner who had been seen as a potential successor to Supreme Leader 
 
 [Data](articles/19a738df.json)
 
+[Extended Data](ext_articles/19a738df.ext.json)
+
 ---
 
-### கார்த்திகை மலர் பொறிக்கப்பட்ட பாதணிகளை மீளப்பெற அதிகாரத்தை பயன்படுத்துவார்களா? -பொலிஸ் மா அதிபரிடம் வினவியுள்ள அருட்தந்தை மா.சத்திவேல்
+### Do you use the power to recover the flower of the flower?-The Blessed Chancellor
 
 *2024-05-30 15:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/184879) · `ta`
 
-கார்த்திகை மலர் மிதிபடும் ஒன்றாக்கியதன் மூலம் தமிழர்களின் அரசியலை மிதித்தழிப்போம் என பகிரங்கமாகவே கர்ஜிப்பதாகவே உள்ளது என சமூக நீதிக்கான செயற்பாட்டாளரும், அரசியல் கைதிகளை விடுதலை  செய்வதற்கான தேசிய அமைப்பின் இணைப்பாளருமான அருட்தந்தை மா.சத்திவேல் தெரிவித்துள்ளார்.
+A controversy erupted when Sri Lanka's TS. I Company featured a Tamil symbol in its product, sparking accusations of cultural appropriation and political bias. Activists argue this reflects the country's chauvinistic politics towards Tamils. The incident, including the use of the symbol at a school event and concerns over potential legal action, highlights deeper issues of ethnic tension and political manipulation. Calls for unity among Tamil nationalists and a focus on electoral strategies are emerging as responses to these incidents.
 
-இலங்கையின் பிரபல பாதணி உற்பத்தி நிறுவனமான டி.எஸ். ஐ கம்பெனி அண்மையில் சந்தைப்படுத்தியுள்ள தனது உற்பத்தி ஒன்றில் கார்த்திகை மலரை பதிவிட்டுள்ளது. இது இலங்கையின் பேரினவாத அரசியல் முதலாளித்துவத்தினையும் எந்த அளவிற்கு ஆக்கிரமித்துள்ளது என்பதை  காட்டுவதோடு தமிழர்களின் அரசியல் அடையாளங்களில் ஒன்றான கார்த்திகை மலரை மிதிபடும், மிதிக்கப்படும் ஒன்றாக்கியதன் மூலம் தமிழர்களின் அரசியலை மிதித்தழிப்போம் என பகிரங்கமாகவே கர்ஜிப்பதாக உள்ளது. இதனை வன்மையாக கண்டிப்பதோடு தமிழ் உணர்வு மிக்க தேசப்பற்றார்கள் இதற்கு தகுந்த பாடத்தை வெளிப்படுத்த வேண்டும்.
+🟩
+
+"It is openly rooted to the politics of the Tamils ​​by uniting the flower of the flower," said Sathivale, a social justice activist and a national organization for the release of political prisoners.
+
+Sri Lanka's leading footwear company TS. The I Company has recently posted a flower in one of its products marketed. It shows how much of Sri Lanka's chauvinist political bourgeoisie occupies and is publicly caught by one of the political identities of the Tamils ​​to trample the politics of the Tamils ​​by trampling and trampling the flower.. This is strongly condemned and the Tamil -conscious patriots must reveal the appropriate lesson.
+
+When the floral decoration was used at a school home game in Jaffna Tellippalai. Similarly, will the police investigate many people as the planning design of the footwear company?Do you use the authority to recover the footwear for sale in the market?We ask the police.
 
 ...
 
 [Data](articles/615d24f8.json)
+
+[Extended Data](ext_articles/615d24f8.ext.json)
 
 ---
 
@@ -221,6 +259,8 @@ World Bank Country Director for Sri Lanka, Faris H Hadad-Zervos, said it was imp
 ...
 
 [Data](articles/8d9aecc5.json)
+
+[Extended Data](ext_articles/8d9aecc5.ext.json)
 
 ---
 
@@ -252,19 +292,37 @@ Pictures obtained by Dutch national broadcaster NOS show emergency services surr
 
 ---
 
-### யாழில் மாணவிகளுடன் துர்நடத்தை : ஆசிரியருக்கு கற்பிக்க தடை
+### Students in Jaffna
 
 *2024-05-30 15:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/184874) · `ta`
 
-யாழ்ப்பாணத்தில் 10 வயது மாணவிகளுடன் துர்நடத்தையில் ஈடுபட்டதாக குற்றம் சாட்டப்பட்டுள்ள ஆசிரியருக்கு வடமாகாண கல்வி அமைச்சினால் பணித்தடை விதிக்கப்பட்டுள்ளது.
+The Northern Provincial Ministry of Education banned itself, leading to the arrest of a teacher who was then charged at the Mallakam Magistrate's Court based on a Manipay police complaint. The investigation into the incident involves the Ministry's Secretary and the accused teacher.
 
-மானிப்பாய் பகுதியில் உள்ள பிரபல பாடசாலை ஒன்றில் தரம் 05 இல் கல்வி கற்கும் 10 வயதான மாணவிகளுடன் ஆசிரியர் ஒருவர் தவறாக நடந்து கொண்டதாக பாதிக்கபப்ட்ட மாணவி ஒருவரின் பெற்றோர் மானிப்பாய் பொலிஸ் நிலையத்தில் முறைப்பாடு செய்ததன் அடிப்படையில் , பொலிஸார் ஆசிரியரை கைது செய்து மல்லாகம் நீதவான் நீதிமன்றில் முற்படுத்தினர்.
+🟩
 
-இந்நிலையில், சம்பவம் தொடர்பில் திணைக்களம் ஊடான விசாரணைகள் முன்னெடுக்கப்பட்டிருந்த நிலையில் , விசாரணை அறிக்கை கல்வி அமைச்சின் செயலாளருக்கு அனுப்பி வைக்கப்பட்ட நிலையில் , ஆசிரியர் தனது பணியினை தொடர தடை விதிக்கப்பட்டு , குற்றம் சாட்டப்பட்டுள்ள ஆசிரியருக்கு கடிதம் அனுப்பி வைக்கப்பட்டுள்ளது.
+The Northern Provincial Ministry of Education has been banned by the Northern Provincial Ministry of Education.
+
+The police arrested the teacher and tried to the Mallakam Magistrate's Court on the basis of a complaint at the Manipay police station at the Manipay police station.
+
+In this case, the investigation into the incident has been sent to the Secretary of the Ministry of Education and has been sent to the accused teacher.
 
 ◼️
 
 [Data](articles/91bea93f.json)
+
+[Extended Data](ext_articles/91bea93f.ext.json)
+
+---
+
+### ’’Name the powerful Western country’’
+
+*2024-05-30 15:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Name-the-powerful-Western-country/110-283712) · `en`
+
+Russian Ambassador in Sri Lanka Levan Dzhagaryan slammed a "powerful western country" for its comments, published in an article on today's edition of the Daily Mirror, regarding Sri Lankans who were part of his country's war against Ukraine. The Ambassador questioned why Sri Lankans fighting for Russia was being made an issue, but no similar comments were being made about Sri Lankans fighting for Ukraine. Pix by Pradeep Pathirana
+
+◼️
+
+[Data](articles/54c61a66.json)
 
 ---
 
@@ -316,21 +374,27 @@ Gálvez is facing the candidate of López Obrador’s Morena party, former Mexic
 
 ---
 
-### பொல்கொல்லை நீர்தேக்கத்தின் ஐந்து வான் கதவுகள் திறப்பு ; பொது மக்கள் அவதானம்!
+### The opening of the five air doors of the Polgollai reservoir;The public is observation!
 
 *2024-05-30 14:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/184871) · `ta`
 
-மத்திய மலைநாட்டில் அதிகாலை முதல் பெய்து வரும் கடும் மழை காரணமாக மகாவலி கங்கையின் நீர் மட்டம் அதிகரித்துள்ளது.
+Heavy rains in Sri Lanka's central hills led to an increase in the Mahaweli Ganga's water level. In response, the Mahaweli Authority opened the five air gates of the Polgollai reservoir by 1.5 meters, releasing 19,000 cubic feet of water into the Victoria reservoir. The public is advised to stay alert due to rising water levels.
 
-இதன் காரணமாக  பொல்கொல்லை நீர்தேக்கத்தின் ஐந்து வான் கதவுகள் ஒன்று ஒன்றறை மீட்டர் வீதம் இன்று வியாழக்கிழமை (30) பிற்பகல்  முதல் திறக்கப்பட்டுள்ளதாக மகாவலி அதிகார சபையின் பொல்கொல்லை காரியாலயம் தெரிவித்துள்ளது.
+🟩
 
-பொல்கொல்லை நீர்தேக்கத்தின் ஐந்து வான் கதவுகள் ஒன்று ஒன்றறை மீட்டர் வீதம் திறக்கப்பட்டுள்ளதாகவும் அதனூடாக ஒரு  வினாடிக்கு (செக்கன்)  19,000 ம் கன அடி நீர் விக்டோரியா நீர்தேக்கத்திற்கு அனுப்புவதாகவும் அக் காரியாலயம் மேலும் தெரிவித்த்து.
+The water level of the Mahaweli Ganga has increased due to heavy rains since early morning in the central hill country.
 
-மகாவலி கங்கையில் அதிக அளவில் நீர் அதிகரிப்பதால் பொதுமக்கள் அவதானமாக இருக்க வேண்டும் என்றும் அக் காரியாலயம் மேலும் தெரிவிக்கின்றது.
+As a result of this, the Mahaweli Authority's Polgollai office said that the five air doors of the Polgollai reservoir have been opened from one and a half meters this afternoon.
+
+The office further stated that the five air doors of the Polgollai reservoir have been opened by one and a half meters, thereby sending 19,000 cubic feet of water to the Victoria reservoir.
+
+The office also said that the public should be vigilant as the Mahaweli Ganga increases the water.
 
 ◼️
 
 [Data](articles/8eaeb360.json)
+
+[Extended Data](ext_articles/8eaeb360.ext.json)
 
 ---
 
@@ -420,35 +484,49 @@ According to the information received, 16 Sri Lankans have been able to repatria
 
 ---
 
-### 4ஆம் திகதி முதல் 7ஆம் திகதி வரை பாராளுமன்றம்  கூடுகிறது
+### Parliament meets from 4th to 7th
 
 *2024-05-30 14:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/184862) · `ta`
 
-பாராளுமன்றம் எதிர்வரும் 4ஆம் திகதி முதல் 7ஆம் திகதிவரை கூட்டப்படவிருப்பதாக பாராளுமன்ற செயலாளர் நாயகம் குஷானி ரோஹனதீர தெரிவித்துள்ளார்.
+The Parliament will convene from June 4th to 7th, with various sessions scheduled for debates and question-and-answer periods. Key topics include the Women's Reinforcement Bill, Sri Lanka Chartered Shipping Brokers Bill, Buddhist Education Sabha Bill, and several others. The schedule also includes time for oral answers, debates on motions, and questions to the Prime Minister and other officials.
 
-சபாநாயகர் மஹிந்த யாப்பா அபேவர்தன தலைமையில் செவ்வாய்க்கிழமை (28) கூடிய பாராளுமன்ற அலுவல்கள் பற்றிய குழுக் கூட்டத்திலேயே இது பற்றிய தீர்மானம் எடுக்கப்பட்டுள்ளது.
+🟩
 
-இதற்கமைய,  ஜூன்  4ஆம் திகதி செவ்வாய்க்கிழமை மு.ப 9.30 மணி முதல் 10.30 மணி வரையான நேரம் வாய்மூல விடைக்காக ஒதுக்கப்பட்டிருப்பதுடன், மு.ப 10.30 மணி முதல் பி.ப 5.00 மணி வரை பெண்களின் வலுவூட்டல் சட்டமூலம் தொடர்பான இரண்டாவது மதிப்பீட்டு விவாதம் நடத்தப்படவுள்ளது.
+Parliamentary Secretary General Kushani Rohanadeera has said that the Parliament will be held from the 4th to the 7th.
 
-இதன் பின்னர் இலங்கை பட்டய கப்பல் தரகர்கள் நிறுவனம் (கூட்டிணைத்தல்) சட்டமூலம், தெதிகம ஸ்ரீ மைத்திரி பிரக்ஞார்த்த பௌத்த கல்வி சபாவ (கூட்டிணைத்தல்) சட்டமூலம் என்பன பரிசீலனைக்கு எடுத்துக்கொள்ளப்படவுள்ளன.
+The decision was taken at a meeting of Parliamentary Affairs on Tuesday (28) chaired by Speaker Mahinda Yapa Abeywardena.
+
+Accordingly, the time will be reserved for the oral answer from 9.30 am to 10.30 pm on Tuesday, June 4 and a second assessment debate on the women's reinforcement Bill will be held from 10.30 pm to 5.00 pm.
+
+Subsequently, the Sri Lanka Chartered Shipping Brokers Bill and the Buddhist Education Sabha (Consultation) Bill of the Sri Maithri Pragnanarta, Thektikama, will be taken up for consideration.
+
+On Wednesday, June 5th, from 9.30 am to 10.00 pm, the Prime Minister is asked for questions (04 questions).. Subsequently, from 10.00 am to 10.30 pm, the time has been allocated for the source of the source (05 questions).
 
 ...
 
 [Data](articles/57beb020.json)
 
+[Extended Data](ext_articles/57beb020.ext.json)
+
 ---
 
-### களுகங்கை நீர் மட்டத்தில்  வேகமான அதிகரிப்பு!
+### A speedy increase in the water level of Kaluganga!
 
 *2024-05-30 14:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/184865) · `ta`
 
-இதன்காரணமாக,  இரத்தினபுரி அலுபொத்த பிரதான பஸ் பாதையில்  ஓயா பகுதியிலிருந்து மீண்டும் வெள்ளம் பெருக்கெடுத்து போக்குவரத்துக்கு இடையூறு ஏற்பட்டுள்ளது.
+Rapidly rising water levels in Kaluganga lead to severe flooding along the main bus route in Ratnapura's Oya area, disrupting traffic. Concerns mount as predictions suggest a major flood if the water surpasses the critical mark of 7 meters.
 
-நீர் மட்டம் 07 என்ற  எல்லையை மீறினால்  பெரும் வெள்ளம் அபாயம்  ஏற்படும் என மக்கள் தெரிவித்துள்ளனர்.
+🟩
+
+As a result, flooding from Oya area on the main bus route of Ratnapura has caused disruption to traffic.
+
+People have said that if the water level exceeds the border of 07, there will be a heavy flood.
 
 ◼️
 
 [Data](articles/f28bc547.json)
+
+[Extended Data](ext_articles/f28bc547.ext.json)
 
 ---
 
@@ -472,25 +550,31 @@ While some of them had travelled as mercenaries, the State Minister said that ot
 
 ---
 
-### யாழில் வைத்தியசாலைக்கு சென்று வீடு திரும்பிக்கொண்டிருந்த பெண் விபத்தில் சிக்கி உயிரிழப்பு
+### A woman who was returning home from a hospital in Jaffna
 
 *2024-05-30 14:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/184867) · `ta`
 
-யாழ்ப்பாணம் - பண்டத்தரிப்பு பகுதியில் கணவருடன் மருத்துவ சிகிச்சைக்காக வைத்தியசாலைக்கு சென்று, வீடு திரும்பிக்கொண்டிருந்த குடும்ப பெண் விபத்தில் சிக்கி உயிரிழந்துள்ளார்.
+In Jaffna, Sarojini Devi Albert William, 61, was fatally hit by a speeding car while cycling back from a hospital visit with her husband. The couple, unwell for days, sought treatment but were involved in an accident upon return. Devi was critically injured and rushed to Tellippallai Hospital before being transferred to Jaffna Bodhana Hospital. The car's driver was apprehended by Ilavalai police for further investigation.
 
-சம்பவத்தில் அப்பகுதியைச் சேர்ந்த 61 வயதான சரோஜினி தேவி அல்பேர்ட் வில்லியம் என்பவரே உயிரிழந்துள்ளார்
+🟩
 
-குறித்த குடும்பப்பெண் கடந்த சில தினங்களாக சுகவீனமடைந்திருந்த நிலையில் நேற்றைய தினம் கணவனுடன் துவிச்சக்கர வண்டியில் மருத்துவ சிகிச்சைபெற அருகில் உள்ள வைத்தியசாலைக்கு சென்றுள்ளார்.
+A family woman who was returning home from her husband to hospital with her husband for medical treatment in Jaffna
 
-சிகிச்சை பெற்றுக்கொண்டு , கணவனுடன் துவிச்சக்கர வண்டியில் வீடு திரும்பிக்கொண்டிருந்த வேளை , பின்னால் வேகமாக வந்த கார் இவர்களை மோதி தள்ளியுள்ளது.
+Sarojini Devi Albert William, a 61 -year -old from the area, died in the incident
 
-விபத்தில் துவிச்சக்கர வண்டியில் பயணித்த குடும்ப பெண் தூக்கி வீசப்பட்டு, படுகாயமடைந்த நிலையில் தெல்லிப்பழை வைத்தியசாலையில் அனுமதிக்கப்பட்டு, மேலதிக சிகிச்சைக்காக யாழ்.போதனா வைத்தியசாலைக்கு மாற்றப்பட்ட நிலையில் சிகிச்சை பலனின்றி உயிரிழந்துள்ளார்.
+The family had been sick for the past few days and went to a nearby hospital yesterday with her husband in a bicycle.
 
-விபத்து சம்பவம் தொடர்பில் விசாரணைகளை முன்னெடுத்த இளவாலை பொலிஸார் காரின் சாரதியை கைது செய்து மேலதிக விசாரணைகளை முன்னெடுத்துள்ளனர்.
+While receiving treatment and returning home in a bicycle with her husband, the fast -paced car collided with them.
+
+The family woman who was traveling in a bicycle was thrown and injured in the Tellippallai Hospital and was transferred to the Jaffna Bodhana Hospital for further treatment.
+
+Ilavalai police have arrested the driver of the car and carried out further investigations into the incident.
 
 ◼️
 
 [Data](articles/dc66975f.json)
+
+[Extended Data](ext_articles/dc66975f.ext.json)
 
 ---
 
@@ -592,19 +676,25 @@ He was a legendary film and drama music director who has composed the music for 
 
 ---
 
-### கிளிநொச்சியிலிருந்து யாழிற்கு பாடசாலை மாணவர்களின் புத்தகப்பையில் கசிப்பு பொதிகளை கடத்தியவர் கைது!
+### Arrested in school students from Kilinochchi to Jaffna
 
 *2024-05-30 14:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/184857) · `ta`
 
-கிளிநொச்சி பகுதியில் இருந்து யாழ்ப்பாணத்திற்கு பாடசாலை மாணவர்களுக்கான புத்தகப்பையில் கசிப்பு பொதிகளை கடத்தி வந்தவர் கைது செய்யப்பட்டுள்ளார்.
+A man was arrested for smuggling leaked exam papers from Kilinochchi to Jaffna. Police found 30 liters of leaked content from three books. The arrest followed a tip-off about him abducting a bus.
 
-இதன் போது மூன்று புத்தகப்பைகளில் இருந்து  30 லீட்டர் கசிப்பு பொலிஸாரினால் கைப்பற்றப்பட்டுள்ளது.
+🟩
 
-குறித்த இளைஞன் பேருந்தில் கசிப்பு கடத்தி வருவதாக பொலிஸாருக்கு கிடைத்த ரகசிய தகவலின் அடிப்படையிலே இளைஞனை கைது செய்துள்ளதாகவும், விசாரணைகளின் பின்னர் நீதிமன்றில் முற்படுத்த நடவடிக்கை எடுத்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+A man has been arrested for smuggling leakage packages in a booklet for schoolchildren from Kilinochchi to Jaffna.
+
+At the time, 30 liters of leakage from three books were seized by the police.
+
+Police said the youth had been arrested on the basis of confidential information received by the police that the young man was abducting the bus.
 
 ◼️
 
 [Data](articles/148f4791.json)
+
+[Extended Data](ext_articles/148f4791.ext.json)
 
 ---
 
@@ -2122,6 +2212,8 @@ However, in the context of this article, the writer uses this phrase with a sens
 
 [Data](articles/e231c35b.json)
 
+[Extended Data](ext_articles/e231c35b.ext.json)
+
 ---
 
 ### Reyaz Mihular chairman of Sri Lanka’s Watawala Plantations
@@ -2245,49 +2337,5 @@ A special gazette notification was issued in March last year to impose restricti
 [Data](articles/b5748e8b.json)
 
 [Extended Data](ext_articles/b5748e8b.ext.json)
-
----
-
-### Sri Lanka rupee opens lower at 301.60/75 to US dollar
-
-*2024-05-30 09:36:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-lower-at-301-60-75-to-us-dollar-165408/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened lower at 301.60/75 to the US dollar on Thursday, from 301.60/302.00 the previous day, dealers said. Bond yields were steady.
-
-A bond maturing on 15.12.2026 was quoted at 9.70/80 percent from 9.70/85 percent.
-
-A bond maturing on 15.09.2027 was quoted up at 10.25/35 percent from 10.30/40 percent.
-
-A bond maturing on 01.07.2028 was quoted up at 10.75/80 percent from 10.70/80 percent.
-
-The Colombo Stock Exchange opened up. The All Share Price Index was up 0.09 percent at 12,113, the S&P SL20 was down 0.16 percent at 3,552. (Colombo/May30/2024)
-
-◼️
-
-[Data](articles/43727808.json)
-
-[Extended Data](ext_articles/43727808.ext.json)
-
----
-
-### Sri Lanka's balance is evaluated at the CANNES Awards
-
-*2024-05-30 09:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197172) · `si`
-
-At the CANNES Awards, Sri Lanka's "Balance," a Vest Dance Film directed by Isur Gunatilake, won. The film, which explores the concept of Hela through veteran dancer Chandana Wickremasinghe's performance, showcases Sri Lanka's cinematic talent.
-
-🟩
-
-The Balance "Cannes" Awards winning the Vest Dance Film was won by a cinema in Sri Lanka.
-
-Isur Gunatilake's design is the "balance" film, introduced as the source of the Hela.
-
-Veteran dancer Chandana Wickremasinghe represents its main character.
-
-◼️
-
-[Data](articles/2f4b9d45.json)
-
-[Extended Data](ext_articles/2f4b9d45.ext.json)
 
 ---

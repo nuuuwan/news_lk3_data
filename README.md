@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-30 16:18:52**
+As of **2024-05-30 16:34:13**
 
 ## Newspaper Stats
 
-*Scraped **27,334** Articles*
+*Scraped **27,336** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 363
 islandlk | 1,477
 economynextcom | 1,563
 dailyftlk | 1,601
-adalk | 2,326
-adaderanalk | 3,114
+adalk | 2,327
+adaderanalk | 3,115
 tamilmirrorlk | 3,210
 virakesarilk | 4,210
 dailymirrorlk | 4,322
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,368
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,332 (100.0%) of 27,334 articles have been extended.
+27,334 (100.0%) of 27,336 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -53,6 +53,22 @@ It has been revealed that the cigarettes were illegally carried by the illegal b
 [Data](articles/ce58455a.json)
 
 [Extended Data](ext_articles/ce58455a.ext.json)
+
+---
+
+### Russian envoy ‘perplexed’ by omission of Sri Lankans fighting for Ukraine
+
+*2024-05-30 15:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/99543/russian-envoy-perplexed-by-omission-of-sri-lankans-fighting-for-ukraine-) · `en`
+
+State Minister of Foreign Affairs Tharaka Balasuriya states that Sri Lanka is working closely with the Government of Russia to repatriate Sri Lankans who are working with the Russian forces.
+
+Posting on ‘X’ following a joint press conference held in Colombo with Russia’s Ambassador to Sri Lanka Mr. Levan Dzhagaryan, the State Minister also expressed that the ministry has requested that those who choose to remain will not be sent to the frontlines of the war in Ukraine, and will continue to receive their salaries and benefits in full.
+
+Meanwhile, the Ambassador of Russia to Sri Lanka, Mr. Levan Dzhagaryan underscored the efforts undertaken by Sri Lanka’s Ministry of Foreign Affairs and Russian competent authorities in order to sort out the issue pertaining to the Sri Lankan citizens involved in the conflict in Ukraine, the Russian Embassy in Colombo said.
+
+...
+
+[Data](articles/f053c0d2.json)
 
 ---
 
@@ -126,23 +142,31 @@ The Department of Irrigation further stated that people living in low-lying area
 
 ---
 
-### கடதாசி கரண்டியால் தடுமாறும் தமிழர்
+### Tamil
 
 *2024-05-30 15:33:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடதாசி-கரண்டியால்-தடுமாறும்-தமிழர்/175-338159) · `ta`
 
-ஒரு தட​வை மட்டுமே பயன்படுத்தப்படும் பிளாஸ்டிக் பொருட்களுக்குத் தடைச் செய்யப்பட்டுள்ளதை வரவேற்க வேண்டும். அதற்காக மாற்று ஏற்பாடுகள் பல செய்யப்பட்டுள்ளன.
+This text discusses single-use plastic products in Sri Lanka, emphasizing the importance of understanding instructions in local languages like Tamil. It highlights the environmental impact of improper disposal and the constitutional right to language equality, urging for clearer product instructions in all official languages.
 
-கடதாசியில் செய்யப்பட்ட ‘ஸ்டோ‘,‘ ‘கடதாசி மட்டை கரண்டி’, ‘கடதாசி கப்’, ‘கடதாசி பிளேட்’  இவ்வாறு பல வடிவங்களில் பொருட்கள் சந்தைகளில் புழக்கத்தில் உள்ளன. யோகட் வாங்கும் போது, பெரும்பாலான கடைகளில் மட்டை கடதாசி கரண்டியே வழங்கப்படுகின்றது.
+🟩
 
-சுற்றாடலுக்கு  கேடு விளைவிக்கும் பிளாஸ்டிக்கை தூங்கிவீசிவிட்டு, விரைவாக உக்கும் மண்ணுக்கு உரம்கொடுக்கும் இந்த கடதாசி மட்டை கரண்டியின் பயன்பாடு வரவேற்கத்தக்கது.
+Welcome to plastic products used only for one time. A number of alternative arrangements have been made for that.
 
-எனினும், அக்கடதாசி மட்டை கரண்டியில் குழி இருக்காது, வாங்குவோர்தான் இரண்டுபுறங்களும் மடித்து, குழியைப்போல செய்துக்கொள்ளவேண்டும். இந்த விடயம் தெரியாத பலரும், கடதாசி க​ரண்டியை மடிக்காமல், யோகட்டை அள்ளி, ஆடைகளிலும் கீழேயும் கொட்டிக்கொள்கின்றனர்.
+The stoop, the time, the kadasi kapam, the kadasasi cup, the kadasi plate, the products are in circulation in the market in many forms. When buying a yoga, most stores are provided with a katadasi spoon.
 
-கடைக்காரர்களும் அதனை விளங்கப்படுத்துவது இல்லை. எனினும்,  தமிழ் தெரியாதவர்களுக்கு அதுவும் ஒரு பிரச்சினையாகும். ஏனெனில், இவ்விடத்தில் மடிக்கவும் என, சிங்களம், ஆங்கிலம் ஆகிய இரண்டுமொழிகளில் மட்டுமே எழுதப்பட்டு உள்ளன.
+The use of this gutter spoon is welcome, which can be torn down and fertilizes to the soil that is harmful to the environment.
+
+However, there is no pit in the spoon of the bar, but the buyer must fold both sides and make it like a pit. Many people who do not know this, do not wrap the Kadadasi Randy, but also pour the yoga into the clothes and pour it down.
+
+Shoppers do not explain it. However, that is also a problem for those who do not know Tamil. This is because the Sinhalese and English are only written in the language.
+
+When the smooth yoga, the smooth Kadadasi pot is spoonful, the slippery pour down.
 
 ...
 
 [Data](articles/9c23e692.json)
+
+[Extended Data](ext_articles/9c23e692.ext.json)
 
 ---
 
@@ -323,6 +347,8 @@ Russian Ambassador in Sri Lanka Levan Dzhagaryan slammed a "powerful western cou
 ◼️
 
 [Data](articles/54c61a66.json)
+
+[Extended Data](ext_articles/54c61a66.ext.json)
 
 ---
 
@@ -1095,6 +1121,24 @@ The petition has been presented against former President Maithripala Sirisena, w
 [Data](articles/355d5bcb.json)
 
 [Extended Data](ext_articles/355d5bcb.ext.json)
+
+---
+
+### තායිලන්තයේ සංචාරයට යන ලාංකිකයන්ටත් නිදහස් විසා
+
+*2024-05-30 12:46:14* · [`adalk`](https://www.ada.lk/breaking_news/තායිලන්තයේ-සංචාරයට-යන-ලාංකිකයන්ටත්-නිදහස්-විසා/11-409911) · `si`
+
+ලංකාව ඇතුළු රටවල් 36කින් තායිලන්තයේ සංචාරයට පැමි‍ණෙන සංචාරකයන් වෙනුවෙන් නිදහස් වීසා ලබාදිමට තායිලන්ත රජය ත‍ීරණය කර ති‍බේ. තායිලන්තය වෙනුවෙන් වැඩි සංචාරකයින් පිරිසක් ආකර්ෂණය කර ගැනීම අරමුණු කර ගනිමින් එරට කැබිනට් මණ්ඩලය පසුගිය දා මෙම තීරණය ගෙන තිබේ.
+
+ඒ අනුව එරට සංචාරක අමාත්‍යාංශය විසින් සිදුකළ යෝජනාවකට අනුමැතිය ලබා දෙමින් මෙතෙක් තායිලන්තයට ඇතුල් වීම සඳහා visa-free ප්‍රවේශ පහසුකම ලබා දී තිබුණු රටවල් සංඛ්‍යාව 57 සිට 93 ක් දක්වා වැඩි කිරීමට අනුමැතිය හිමිව ඇත.
+
+ලංකාවට අම්‍තරව ඇල්බේනියාව, කාම්බෝජය, චීනය, ඉන්දියාව, ජැමෙයිකා, කසකස්තානය, ලාඕසය, මෙක්සිකෝව, මොරොක්කෝව, පැනමාව සහ රුමේනියාව නව පහසුකම  ලැබී තිබේ.
+
+තායිලන්තයේ මෙම නව වීසා ප්‍රතිපත්තිය 2024 ජූනි 24 දින සිට බලපැවැත්වෙනු ඇත.
+
+◼️
+
+[Data](articles/d15dea74.json)
 
 ---
 
@@ -2291,51 +2335,5 @@ Meanwhile, Dr. Chandana de Silva, Specialist Dr. Chandana de Silva, said that ad
 [Data](articles/a300afda.json)
 
 [Extended Data](ext_articles/a300afda.ext.json)
-
----
-
-### Woman’s body found in canal in Colombo
-
-*2024-05-30 09:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/99527/womans-body-found-in-canal-in-colombo) · `en`
-
-The body of an unidentified woman has been recovered from a waste water canal in Grandpass, Colombo.
-
-Police said the body was found based on information received last evening (29).
-
-The deceased, believed to be between the ages 45 and 50, is around 4 feet and 9 inches in height while she was wearing a red dress with yellow flowers.
-
-The identity of the deceased is yet to be ascertained and the body is currently placed at the Colombo National Hospital.
-
-◼️
-
-[Data](articles/6c248089.json)
-
-[Extended Data](ext_articles/6c248089.ext.json)
-
----
-
-### Fines for five companies that illegally imported gold
-
-*2024-05-30 09:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/184833) · `ta`
-
-Five companies were fined Rs 124 crore 10 lakh for illegally importing gold. One faces a Rs 17 crore 90 lakh penalty. Measures aim to curb such activities, preventing revenue loss and addressing fraud within the gold import industry.
-
-🟩
-
-Finance Minister Ranjith Siyambalapitiya said five companies that illegally imported gold to the country have been identified and fined Rs 124 crore 10 lakhs.
-
-A company has been ordered to pay a fine of Rs 17 crore 90 lakhs and all the licensed companies that make gold imports should be free from these illegal activities.
-
-He said measures are being taken to prevent illegal activities that lose their income from the government.
-
-The Minister of State added that some parties who import gold products have made it a great fraud and there is a mafia around it.
-
-A special gazette notification was issued in March last year to impose restrictions on gold imports in accordance with President Ranil Wickremesinghe's directive to prevent gold smuggling in the country to prevent illegal importation.
-
-◼️
-
-[Data](articles/b5748e8b.json)
-
-[Extended Data](ext_articles/b5748e8b.ext.json)
 
 ---

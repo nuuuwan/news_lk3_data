@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-30 15:03:49**
+As of **2024-05-30 15:18:48**
 
 ## Newspaper Stats
 
-*Scraped **27,301** Articles*
+*Scraped **27,310** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,175 @@ islandlk | 1,477
 economynextcom | 1,562
 dailyftlk | 1,601
 adalk | 2,323
-adaderanalk | 3,109
+adaderanalk | 3,112
 tamilmirrorlk | 3,204
 virakesarilk | 4,203
-dailymirrorlk | 4,316
-adaderanasinhalalk | 4,364
+dailymirrorlk | 4,319
+adaderanasinhalalk | 4,367
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,301 (100.0%) of 27,301 articles have been extended.
+27,301 (100.0%) of 27,310 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-30 (Thursday)
+
+### ගුවන් යානයක එන්ජිමට ඇදී ගිය ගුවන්තොටුපොළ සේවකයා මරුට
+
+*2024-05-30 15:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197183) · `si`
+
+නෙදර්ලන්තයේ ගුවන්තොටුපොළක සිදුවූ බිහිසුණු අනතුරකින් ගුවන්තොටුපොළ සේවකයෙකු අවාසනාවන්ත ලෙස ජීවිතක්ෂයට පත්ව තිබේ.
+
+KLM අයත් ගුවන් යානයක එන්ජිම තුළට ඇදී යාමෙන් මෙම අවාසනාවන්ත මරණය සිදුව ඇති බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+එහි වැඩිදුරටත් දැක්වෙන්නේ අනතුරින් මියගිය පුද්ගලයා කවුරුන්දැයි යන්න මෙතෙක් හඳුනාගෙන නොමැති බවය.
+
+ගුවන් යානය නෙදර්ලන්තයේ සිට ඩෙන්මාක් වෙත පියාසර කිරීමට සූදානමින් තිබියදී මෙම අවාසනාවන්ත අනතුර සිදුව ඇත.
+
+කෙසේ වෙතත් ඇම්ස්ටඩෑම් Schiphol ගුවන්තොටුපොළ ප්‍රකාශ උපුටා දක්වමින් විදෙස් මාධ්‍ය වැඩිදුරටත් වාර්තා කර ඇත්තේ මෙවැනි අවස්ථාවන්හි රාජකාරී කිරීමේදී දැඩි විමසිලිමත්භාවයක් දක්වන බැවින් මෙම අනතුර සම්බන්ධයෙන් විශේෂ විමර්ශනයක් සිදුකරන බවය.
+
+එසේම මෙම බිහිසුණු අනතුරත් සමග අදාළ ගුවන්යානයේ සිටි සියලුම මගීන් ඉන් පිටතට ගෙන ඇති බවද විදෙස් මාධ්‍ය වැඩිදුරටත් වාර්තා කර තිබේ.
+
+◼️
+
+[Data](articles/902bb9f0.json)
+
+---
+
+### Violence clouds the last day of campaigning for Mexico’s election
+
+*2024-05-30 14:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/99539/violence-clouds-the-last-day-of-campaigning-for-mexicos-election) · `en`
+
+Mexico held the last day of campaigning Wednesday before Sunday’s nationwide election, but the closing rallies were darkened by attacks on candidates and the country’s persistently high homicide rate.
+
+Opposition candidate Xóchitl Gálvez started her last campaign rallies early Wednesday on the outskirts of Mexico City, and she focused her ire on President Andrés Manuel López Obrador’s “hugs not bullets” policy of not confronting the drug cartels.
+
+Gálvez is facing the candidate of López Obrador’s Morena party, former Mexico City Mayor Claudia Sheinbaum. Sheinbaum, who leads in the race, has promised to continue all of López Obrador’s policies.
+
+“Are we going to continue with hugs, or are we going to apply the law to criminals?” Gálvez asked a cheering crowd. “Mexico wants peace, wants tranquility.”
+
+...
+
+[Data](articles/81636449.json)
+
+---
+
+### Second reading debate on ‘Sri Lanka Electricity Bill’ on June 06
+
+*2024-05-30 14:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/99538/second-reading-debate-on-sri-lanka-electricity-bill-on-june-06) · `en`
+
+The Secretary General of Parliament, Mrs. Kushani Rohanadeera, has announced that the Parliament is scheduled to convene from the 4th to the 7th of June.
+
+This schedule was confirmed during the Committee on Parliamentary Business meeting held on Tuesday (28), chaired by Speaker Mahinda Yapa Abeywardena, according to the Parliamentary Communications Department.
+
+On Tuesday, June 04, Parliament will begin with Questions for Oral Answers from 9:30 a.m. to 10:30 a.m. Following this, the debate on the second reading of the Women Empowerment Bill will take place from 10:30 a.m. to 5:00 p.m. Afterward, the Private Members’ Bills of Institute of Chartered Ship Brokers of Sri Lanka (Incorporation) and Dadigama Sri Maithri Pragnartha Bouddha Educational Dhaham Sabhawa (Incorporation) will be considered.
+
+The day will conclude with a Motion at the Adjournment Time (Government) from 5:00 p.m. to 5:30 p.m.
+
+...
+
+[Data](articles/b41605fa.json)
+
+---
+
+### Several roads in Ratnapura inundated as Kalu River rises
+
+*2024-05-30 14:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/99537/several-roads-in-ratnapura-inundated-as-kalu-river-rises) · `en`
+
+A flood situation has been reported in certain areas of Ratnapura due to the rapid rise in the water level of the Kalu River, Ada Derana reporter said.
+
+The water level of the Kalu River has reportedly neared the 07m level at the Pulungupitiya Gauging Station.
+
+As a result of this, the Alupotha, Ratnapura main bus route has been flooded again from the Athoya area, disrupting traffic movement on the road.
+
+It is reported that many byroads that area connected to the main roads are also reportedly inundated with houses in the vicinity at risk.
+
+Residents fear that if the water level reaches the 07 limit of the gauge, a severe flood situation will occur in the area.
+
+◼️
+
+[Data](articles/edd28bb4.json)
+
+---
+
+### හිටපු ශ්‍රී ලාංකික හමුදා සෙබළුන් ගැන සොයන්න නියෝජිත පිරිසක් රුසියාව ට
+
+*2024-05-30 14:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197182) · `si`
+
+රුසියානු - යුක්‍රේන යුද්ධයට සම්බන්ධ වී සිටින හිටපු ශ්‍රී ලාංකික හමුදා සෙබළුන් සම්බන්ධයෙන් සාකච්ඡා කිරීම සඳහා මෙරට නියෝජිතයින් පිරිසක් ලබන මස රුසියාවේ සංචාරය කිරීමට නියමිතය.
+
+මාධ්‍ය අමතමින් විදේශ කටයුතු රාජ්‍ය අමාත්‍ය තාරක බාලසුරිය මහතා ඒ බව පැවසීය.
+
+ඔහු පැවසුවේ මෙරට නියෝජිත පිරිස ජුනි 5 - 7ත් අතර කාලසීමාවේදී රුසියාවේ සංචාරය කිරීමට නියමිත බවයි.
+
+රුසියානු - යුක්‍රේන යුද්ධයට සම්බන්ධ වී සිටින හිටපු ශ්‍රී ලාංකික හමුදා සෙබළු සම්බන්ධයෙන් තොරතුරු ලබා ගැනීමට ආරක්ෂක අමාත්‍යංශය විසින් විශේෂ දුරකථන අංකයක් හඳුන්වා දුන් අතර එම අංකයට මේ දක්වා පැමිණිලි 455ක් ලැබී ඇති බව තාරක බාලසූරිය මහතා පැවසීය.
+
+මේ දක්වා ලැබී ඇති තොරතුරු අනුව ශ්‍රී ලාංකිකයින් 16 දෙනෙක් අතුරුදන්වී ඇති බවත් ශ්‍රී ලාංකිකයින් 26 දෙනෙක් නැවතත් මෙරටට ගෙන්වා ගැනීමට හැකියාව ලැබුණු බවත් රාජ්‍ය අමාත්‍යවරයා කීය.
+
+◼️
+
+[Data](articles/2dd2c1a2.json)
+
+---
+
+### SL diplomats to meet Russian Defence Ministry today
+
+*2024-05-30 14:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SL-diplomats-to-meet-Russian-Defence-Ministry-today/108-283706) · `en`
+
+Colombo, May 30 (Daily Mirror) Sri Lankan diplomats in Russia will engage with officials of the Russian Defence Ministry this evening, in "first steps" towards repatriating Sri Lankans in Russia, who have been thrust into the battlefront of its war against Ukraine.
+
+The Foreign Ministry has received up to 455 complaints of Sri Lankans who have been become part of Russia's military efforts, willingly or unwillingly, but this number could be much higher, State Minister of Foreign Affairs Tharaka Balasuriya said.
+
+While some of them had travelled as mercenaries, the State Minister said that others were duped into fighting for Russia at the battle front.
+
+“The people who have gone to Russia, have gone through different means. Most have gone through visit visas, and they have gone through India or the Middle East, and they have been duped by various nefarious agents, some of whom have been arrested,” State Minister Balasuriya said.
+
+...
+
+[Data](articles/44166a08.json)
+
+---
+
+### වෛද්‍ය කපිල වික්‍රමනායකගේ පෙත්සම ගැන අභියාචනාධිකරණය දුන් නියෝගය
+
+*2024-05-30 14:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197181) · `si`
+
+තමන්ව රක්ෂිත බන්ධනාගාර ගත කිරීමට දුන් නියෝගය නීතියට පටහැනි බවට තීන්දුවක් ලබාදෙන ලෙස ඉල්ලා සෞඛ්‍ය අමාත්‍යාංශයේ වෛද්‍ය සැපයීම් අංශයේ අධ්‍යක්ෂ වෛද්‍ය කපිල වික්‍රමනායක මහතා විසින් ඉදිරිපත් කළ පෙත්සම සලකාබැලීම සඳහා ජුනි මස 04 වනදා කැඳවන ලෙස අභියාචනාධිකරණය නියම කළේය.
+
+ප්‍රමිතියෙන් තොර ප්‍රතිදේහ එන්නත් මිලදීගැනීමේ සිද්ධිය සම්බන්ධයෙන් මාළිගාකන්ද මහෙස්ත්‍රාත් අධිකරණය විසින් ඔහුව රක්ෂිත බන්ධනාගාර ගත කෙරිණි.
+
+අභියාචනාධිකරණයේ සභාපති විනිසුරු නිශ්ශංක බන්දුල කරුණාරත්න සහ ශෂී මහේන්ද්‍රන් යන මහත්වරුන්ගෙන් සමන්විත අභියාචනාධිකරණ විනිසුරු මඩුල්ලක් ඉදිරියේ එම පෙත්සම අද (30) කැඳවනු ලැබීය.
+
+එහිදී නීතිපතිවරයා වෙනුවෙන් පෙනී සිටි  නියෝජ්‍ය සොලිසිටර් ජනරාල් නිර්මලන් විග්නේෂ්වරන් මහතා සඳහන් කළේ මෙම පෙත්සමට අදාළ සීමිත විරෝධතා ගොනුකර අවසන් බවයි.
+
+ඉන්  අනතුරුව පෙත්සම සලකාබැලීම සඳහා ජුනි මස 04 වනදා කැඳවන ලෙස නියෝග කළේය.
+
+...
+
+[Data](articles/fa6402fc.json)
+
+---
+
+### Shelton Premaratne passes away
+
+*2024-05-30 14:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Shelton-Premaratne-passes-away/108-283701) · `en`
+
+Renowned Sri Lankan composer, instrumentalist and music director Dr. Shelton Premaratne passed away this morning (30) in Australia at the age of 94.
+
+According to information received Dr. Shelton Premaratne was residing in Australia with his son at the time.
+
+Dr. Premaratne made his mark when Sinhala music directly emulated Hindi and Tamil music from India. He was a pioneer in developing a music style that was original and unique to Sri Lanka.
+
+He was a legendary film and drama music director who has composed the music for songs since the 1940s, and sung by almost all professional singers young and old in Sri Lanka. He has won many national and international awards.
+
+◼️
+
+[Data](articles/3c04f312.json)
+
+---
 
 ### Today in history
 
@@ -399,6 +553,18 @@ The process of collecting witnesses against war soldiers and military personnel 
 [Data](articles/e76e5052.json)
 
 [Extended Data](ext_articles/e76e5052.ext.json)
+
+---
+
+### University employees in peaceful protest
+
+*2024-05-30 12:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/University-employees-in-peaceful-protest/110-283689) · `en`
+
+The Joint Committee of University Trade Unions held a peaceful protest today in front of the University Grants Commission (UGC), demanding an immediate and satisfactory wage increase for university employees.
+
+◼️
+
+[Data](articles/dae292ce.json)
 
 ---
 
@@ -2105,199 +2271,5 @@ The first point of contention is the secrecy and lack of consultation surroundin
 [Data](articles/09772d46.json)
 
 [Extended Data](ext_articles/09772d46.ext.json)
-
----
-
-### SAARC and beyond: Sri Lanka’s quest for regional tourism integration
-
-*2024-05-30 04:40:15* · [`dailyftlk`](https://www.ft.lk/columns/SAARC-and-beyond-Sri-Lanka-s-quest-for-regional-tourism-integration/4-762350) · `en`
-
-Developing culturally-focused tour packages, along with collaboration with SAARC tourism bodies, can develop a sense of regional unity and attract a diverse range of visitors from within the region
-
-The expansion of air connectivity, along with the development of infrastructure, improved transportation networks, and streamlined visa facilities, has significantly enhanced accessibility and convenience for travellers from around the world visiting Sri Lanka
-
-Sri Lanka’s tourism sector experienced a significant setback during the pandemic, due to travel restrictions and safety concerns. However, the country’s determined efforts to revive the sector have yielded remarkable results during the first quarter of 2024. Strategic tourism promotion campaigns, coupled with infrastructure improvements, have successfully attracted tourists back to the island nation.
-
-...
-
-[Data](articles/e96dc101.json)
-
-[Extended Data](ext_articles/e96dc101.ext.json)
-
----
-
-### Aitken Spence Plantation Managements to delist
-
-*2024-05-30 04:21:51* · [`dailyftlk`](https://www.ft.lk/business/Aitken-Spence-Plantation-Managements-to-delist/34-762343) · `en`
-
-Proposes Rs. 240 per share exit offer for 28 minority shareholders holding mere 2,160 shares
-
-The Board of Directors of Aitken Spence Plantation Managements PLC has resolved to delist the shares of the company from the Colombo Stock Exchange subject to obtaining shareholder and regulatory approvals.
-
-The company said that the Board has made arrangements with major shareholders of Aitken Spence PLC (44.10%), M.J.F. Holdings Ltd., (37.23%) and D.A. de S. Wickramanayake (18.61%) who have indicated the willingness to acquire the shares of minority shareholders who may wish to divest at Rs. 240 per share through an exit offer.
-
-...
-
-[Data](articles/fd4d23bc.json)
-
-[Extended Data](ext_articles/fd4d23bc.ext.json)
-
----
-
-### Roadshow promoting Dubai and Hungary real estate investments today at Movenpick
-
-*2024-05-30 04:21:15* · [`dailyftlk`](https://www.ft.lk/business/Roadshow-promoting-Dubai-and-Hungary-real-estate-investments-today-at-Movenpick/34-762342) · `en`
-
-IGL Interglobal Luxury, in collaboration with Corporate Management Consultants, will hold a roadshow today at the Movenpick Hotel to promote real estate investments in Dubai and Hungary to investors in Sri Lanka.
-
-Interested investors will have the opportunity to participate in one-on-one interviews.
-
-The Presentation on Dubai Investments will be made by Inter Global Luxury Chief Executive Sabrina Khamisani and the presentation on Hungary will be made by Sales and Investment Director Junaid Khamisani and European Immigration Specialist Dr. Marczali Tamás.
-
-The Dubai real estate market offers very attractive terms and benefits, including a 10-year golden visa, assistance in opening bank accounts, a tax-free environment, one of the lowest crime rates globally, strong political stability, a robust legal framework, and high returns on investment (ROI) without tax implications.
-
-Under the theme “Hungary: Your Gateway to the European Union (EU),” one could apply for 3
-
-...
-
-[Data](articles/a3e3f229.json)
-
-[Extended Data](ext_articles/a3e3f229.ext.json)
-
----
-
-### Ranil says no Presidential candidate has announced plans to abolish executive powers
-
-*2024-05-30 04:20:20* · [`dailyftlk`](https://www.ft.lk/news/Ranil-says-no-Presidential-candidate-has-announced-plans-to-abolish-executive-powers/56-762341) · `en`
-
-Opines economy was developed and 30 year war brought to an end due to executive powers vested in the Presidency
-
-Stresses urgent need for legislation holding President answerable to Parliament
-
-President Ranil Wickremesinghe yesterday emphasised that none of the candidates aspiring to run in the presidential election have announced their intention to abolish the executive powers associated with the position.
-
-He highlighted the dual nature of the executive presidential system, noting its advantages and disadvantages. He emphasised that the executive power vested in the Presidency played a pivotal role in the economic development of Sri Lanka and the resolution of the 30-year war.
-
-The President made these remarks while participating in the “What’s New” dialogue on legal reforms with young legal professionals at a workshop held on Tuesday at the Presidential Secretariat.
-
-...
-
-[Data](articles/f025f3c7.json)
-
-[Extended Data](ext_articles/f025f3c7.ext.json)
-
----
-
-### JICA scandal: BASL members urge removal of potentially implicated office bearers
-
-*2024-05-30 04:19:09* · [`dailyftlk`](https://www.ft.lk/news/JICA-scandal-BASL-members-urge-removal-of-potentially-implicated-office-bearers/56-762340) · `en`
-
-Emphasise importance of maintaining BASL’s moral authority and public trust
-
-Underscore significance of ethical leadership within BASL and request probe into potential breaches of professional ethics
-
-Urge BASL Management and Executive Committees to enforce temporary resignations, to protect association’s reputation
-
-A group of legal professionals yesterday called for a sweeping investigation into alleged financial irregularities within the Bar Association of Sri Lanka (BASL).
-
-In a letter to the five-member Inquiry Committee investigating the JICA project scandal, the group including ten President’s Counsels and over 80 Attorneys-at-Law, demanded that any BASL member potentially involved step down from their positions for the duration of the inquiry.
-
-...
-
-[Data](articles/643a8f50.json)
-
-[Extended Data](ext_articles/643a8f50.ext.json)
-
----
-
-### KDU lecturer released on bail after arrest over false claim on ISIS suspects
-
-*2024-05-30 04:18:33* · [`dailyftlk`](https://www.ft.lk/news/KDU-lecturer-released-on-bail-after-arrest-over-false-claim-on-ISIS-suspects/56-762339) · `en`
-
-Sir John Kotelawala Defence University (KDU) Senior lecturer on law, Dr. Punsara Amarasinghe was granted bail by the Colombo Fort Magistrate Court yesterday following his arrest by the Criminal Investigations Department (CID).
-
-He was accused of making false statements to the media regarding the recent arrest of ISIS suspects of Sri Lankan origin in India.
-
-The Fort Magistrate’s Court ordered Amarasinghe’s release on personal bail of Rs. 1 million after he was produced before the court.
-
-He was detained for claiming that the four suspects arrested in India recently Mohamed Nushran, Mohamed Nafran Nowfer, Mohamed Rasdeeen Abdul Raseem, and Mohamed Faris Mohamed Farook for their alleged links to the Islamic State of Iraq and Syria (ISIS), were listed by the Presidential Commission of Inquiry on the Easter Attacks as individuals recommended for rehabilitation.
-
-...
-
-[Data](articles/bad418b2.json)
-
-[Extended Data](ext_articles/bad418b2.ext.json)
-
----
-
-### PM assures elections to be held as scheduled this year
-
-*2024-05-30 04:18:14* · [`dailyftlk`](https://www.ft.lk/news/PM-assures-elections-to-be-held-as-scheduled-this-year/56-762338) · `en`
-
-Prime Minister Dinesh Gunawardena at the inauguration of the Martin Wickramasinghe’s Life and Literature Section at the National Libraries Board, Colombo yesterday
-
-Dismisses proposal to postpone the Presidential and General Elections and said that these were never discussed within Govt.
-
-Reiterates Govt.’s commitment to election timeline declared by Election Commission
-
-Says Govt. will hold General Election thereafter and consider to hold provincial council and LG polls simultaneously
-
-Criticises irresponsible statements by some politicians, affirming that no abrupt announcements would be made without proper discussion
-
-Prime Minister Dinesh Gunawardena yesterday assured that the upcoming Presidential Election will proceed as scheduled this year, in accordance with constitutional provisions and as announced by the Elections Commission of Sri Lanka. The Commission has set the election window between 15 September and 17 October.
-
-...
-
-[Data](articles/751bf54b.json)
-
-[Extended Data](ext_articles/751bf54b.ext.json)
-
----
-
-### The Canadian High Commissioner said that the development of the Northern Province will be given to the development of the Northern Province
-
-*2024-05-30 02:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/184827) · `ta`
-
-Canadian officials, including the High Commissioner and Deputy Minister of International Development, met with the Governor of Sri Lanka's Northern Province to discuss reconciliation, resettlement, mine removal, education, and entrepreneurship. They plan to enhance the education and healthcare systems, provide land guarantees for small and medium entrepreneurs, especially women, and confirm their readiness to support the province's development.
-
-🟩
-
-The Governor of the Northern Province, BSM Charles, Sri Lanka's Canadian High Commissioner, Eric Walsh, and the Deputy Minister of International Development of Canada, Christopher Maclennan, met on Wednesday.. The meeting was held at the Governor of the Northern Province.
-
-Discussions have been discussed on a number of issues including reconciliation, resettlement, mines removal, landing, education development and cooperation for entrepreneurship.
-
-He said that the educational system is planned to be carried out.. When the President visited the North last week, he opened new units for hospitals and gave the graduates teacher appointments and land guarantees for the people.. He said that the best education and health services have been confirmed by the people of the Northern Province.
-
-Honorary Governor said that the provision of land guarantees would have more benefits to small and middle -class entrepreneurs and female leadership families, he said.
-
-...
-
-[Data](articles/c9bdfad8.json)
-
-[Extended Data](ext_articles/c9bdfad8.ext.json)
-
----
-
-### Plan for a change of transformation is essential
-
-*2024-05-30 02:36:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வலுசக்தித்-துறையின்-மாற்றத்திற்கான-திட்டம்-அவசியம்/175-338124) · `ta`
-
-President Ranil Wickremesinghe highlighted the importance of a detailed plan for harnessing renewable energy and exploring green hydrogen production in Sri Lanka. He discussed this during a meeting organized by the World Bank, Ministry of Power, and others, emphasizing the challenges in securing local expertise and the need for international collaboration. The President mentioned the approval of the Electricity Reform Act and its amendment, the submission of the Economic Change Bill to Parliament, and the preparation of the Climate Change Act. He also noted the study of other countries' energy transition laws, indicating the intention to develop similar legislation in Sri Lanka, opening opportunities for both domestic and foreign investment in the energy sector.
-
-🟩
-
-President Ranil Wickremesinghe emphasized the need for a comprehensive plan to use renewable strength in Sri Lanka and to investigate the future trends of green hydrogen production.
-
-The President pointed out this while addressing a discussion with the Vattamesh discussion held at the Hilton Hotel yesterday at the Hilton Hotel, Colombo.
-
-The circulation discussion, organized by the World Bank, the Ministry of Power and the Ministry of Energy and the Ceylon Electricity Board, became a platform on Sri Lanka's strength change.
-
-At the same time, the President referred to the difficulties in obtaining domestic expertise and asked all parties, including the World Bank, the Asian Development Bank and all parties, including domestic and foreign investors.
-
-...
-
-[Data](articles/57f38048.json)
-
-[Extended Data](ext_articles/57f38048.ext.json)
 
 ---

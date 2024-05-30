@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-30 17:54:46**
+As of **2024-05-30 18:12:41**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 4,372
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,344 (100.0%) of 27,354 articles have been extended.
+27,354 (100.0%) of 27,354 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-30 (Thursday)
 
-### මංගල ඇඳුමින්ම පත්වීම ගන්න ආ තරුණිය කී කතාව
+### The young woman who has come to get in a wedding suit
 
 *2024-05-30 17:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197188) · `si`
 
-හම්බන්තොට දිස්ත්‍රික්කයේ රැකියා විරහිත උපාධිධාරීන් සඳහා පත්වීම් ප්‍රදානය කිරීමේ උත්සවයේදී සිදුවූ සුවිශේෂී සිදුවීමක් වෙත බොහෝදෙනෙකුගේ අවධානය යොමුවිය.
+A young woman from Ambalantota, named Dilini, attended a job appointment ceremony in Hambantota, aiming for a teaching position. The event, hosted under the Southern Province Governor Lakshman Yapa Abeywardena, highlighted opportunities for unemployed graduates.
 
-එහිදී අද දිනයේ තමන්ගේ මංගල ගමනට සැරසෙන යුවතියක් ද සිය ගුරු පත්වීම ලබාගැනීම එම සුවිශේෂී සිදුවීමයි.
+🟩
 
-මෙලෙස සිය ගුරු පත්වීම ලබාගත්තේ අම්බලන්තොට ප්‍රදේශයේ පදිංචි දිලිණි නමැති තරුණියකි.
+Many were focused on an unique event at the ceremony of appointing appointments to unemployed graduates in the Hambantota district.
 
-මෙම ගුරුපත්වීම් ලබාදීමේ උත්සවය දකුණු පළාත් ආණ්ඩුකාර ලක්ෂ්මන් යාපා අබේවර්ධන මහතාගේ ප්‍රධානත්වයෙන් සිදුකෙරිණි.
+It is a girl who is trying to get his teacher's appointment today today.
+
+Their teaching was obtained from Dilini, a resident of Ambalantota.
+
+The event was held under the patronage of the Southern Province Governor Lakshman Yapa Abeywardena.
 
 ◼️
 
 [Data](articles/031c2bf8.json)
+
+[Extended Data](ext_articles/031c2bf8.ext.json)
 
 ---
 
@@ -68,6 +74,8 @@ Foreign Minister Ali Sabry said that “Sri Lanka has started trade negotiations
 
 [Data](articles/2ede09c2.json)
 
+[Extended Data](ext_articles/2ede09c2.ext.json)
+
 ---
 
 ### CoPF calls for prioritizing ‘accurate poverty verification criteria’ to select “Aswesuma” beneficiaries
@@ -83,6 +91,8 @@ The committee pointed out that there are major problems and lack of formality in
 ...
 
 [Data](articles/83d22340.json)
+
+[Extended Data](ext_articles/83d22340.ext.json)
 
 ---
 
@@ -105,6 +115,8 @@ A bond maturing on 01.10.2032 closed at 11.80/90 percent from 11.80/95 percent. 
 ◼️
 
 [Data](articles/bda80d23.json)
+
+[Extended Data](ext_articles/bda80d23.ext.json)
 
 ---
 
@@ -224,6 +236,8 @@ There was a net foreign outflow of 105 million. (Colombo/May30/2024)
 
 [Data](articles/6ad6d716.json)
 
+[Extended Data](ext_articles/6ad6d716.ext.json)
+
 ---
 
 ### Israel extends control of Gaza’s entire land border
@@ -252,17 +266,23 @@ He said troops were “investigating.. and neutralizing” tunnels found in the 
 
 ---
 
-### මල්වතු මහනාහිමියන්ගේ වියළි ආහාර ප්‍රදානයක්
+### Dry food grant of Malwathu Mass
 
 *2024-05-30 16:40:52* · [`adalk`](https://www.ada.lk/breaking_news/මල්වතු-මහනාහිමියන්ගේ-වියළි-ආහාර-ප්‍රදානයක්/11-409920) · `si`
 
-මල්වතු පාර්ශවයේ මහානායක අතිපූජ්‍ය තිබ්බොටුවාවේ ශ්‍රී සිද්ධාර්ථ සුමංගල මහානා හිමියන්ගේ 80 වැනි ජන්ම දිනය නිමිත්තෙන් අඩු ආදායම් ලාබි පවුල් 500 ක් සඳහා වියළි ආහාර මල්ලක් ලබාදීමේ වැඩසටහනක් අද (30දින) මල්වතු මහා විහාරයේදී පැවැත්විණි.
+Today, a program distributed dry food bags to 500 children at Malwathu Maha Viharaya, funded by donations from the Gadenpasar Temple in China.
 
-ඒ සඳහා චීනයේ අන්ෆු විහාරස්ථානයේ මීදා හොන්ග් මෙහෙණින් වහන්සේ ඇතුළු එම විහාරස්ථානයේ දායක පිරිස දායකත්වය ලබා දී තිබුණි.
+🟩
+
+A program to provide a dry food bag of 500 children was held at the Malwathu Maha Viharaya today (30) at the Malwathu Maha Viharaya today (30).
+
+The Genades of the Afu Viharaya in China's Afu Viharaya had contributed to the assistance of the temple.
 
 ◼️
 
 [Data](articles/b3d3752e.json)
+
+[Extended Data](ext_articles/b3d3752e.ext.json)
 
 ---
 
@@ -288,37 +308,49 @@ Enable Southwestern monsoon weather is also highly strong winds in the Bay of Ba
 
 ---
 
-### චීන රජය හා තවත් ගිවිසුමක්
+### Chinese government and another agreement
 
 *2024-05-30 16:30:52* · [`adalk`](https://www.ada.lk/breaking_news/චීන-රජය-හා-තවත්-ගිවිසුමක්/11-409919) · `si`
 
-චීන රජයේ ආධාර මත උපරිමාධිකරණ සංකීර්ණයේ ප්‍රතිසංස්කරණ කටයුතු වෙනුවෙන් වු පරිපූර්ණ ඇස්තමේන්තු  යුවාන් මිලියන 229 ක මුදල වෙනුවෙන් මුල්‍ය ගිවිසුමට අත්සන් තැබීම අධිකරණ, බන්ධනාගාර කටයුතු හා ආණ්ඩුක්‍රම ව්‍යවස්ථා ප්‍රතිසංස්කරණ අමාත්‍යාංශයේ ලේකම් නිහාල් රණසිංහ මහතා සහ ශ්‍රී ලංකාවේ චීන තානාපති කාර්යාලයේ උපදේශක Tang Yandi යන මහත්වරුන් අදාළ ගිවිසුමට අත්සන් තැබූහ.
+The Chinese government has signed an agreement with Sri Lanka's Ministry of Justice for the reconstruction of the Supreme Court Complex, facilitated by the judiciary, Prison, and Constitutional Reforms departments.
 
-‍මෙම ගිවිසුම අධිකරණ, බන්ධනාගාර කටයුතු හා ආණ්ඩුක්‍රම ව්‍යවස්ථා ප්‍රතිසංස්කරණ අමාත්‍ය විජයදාස රාජපක්ෂ මහතාගේ හා ශ්‍රී ලංකාවේ චීන තානාපති Qi Zhenhong යන මහත්වරුන්ගේ ප්‍රධානත්වයෙන් අධිකරණ අමාත්‍යාංශ ශ්‍රවණාගාරයේදී  සිදු කෙරිණි.
+🟩
+
+Secretary to the Ministry of Justice and Constitutional Reforms, Secretary to the Ministry of Justice and Constitutional Reforms for the assistance of the Chinese government has signed the agreement with the reconstruction of the Supreme Court Complex..
+
+The agreement was carried out at the Ministry of Justice under the patronage of the judiciary, Prison and Constitutional Reforms in Sri Lanka.
 
 ◼️
 
 [Data](articles/9fda62ac.json)
 
+[Extended Data](ext_articles/9fda62ac.ext.json)
+
 ---
 
-### ජනාධිපති ධූරය සතු විධායක බලය නිසා ශ්‍රී ලංකාවේ ආර්ථිකය ගොඩනැඟීමට හැකිවුනාලු
+### The executive power of the presidency has been able to build the economy of Sri Lanka
 
 *2024-05-30 16:29:34* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපති-ධූරය-සතු-විධායක-බලය-නිසා-ශ්‍රී-ලංකාවේ-ආර්ථිකය-ගොඩනැඟීමට-හැකිවුනාලු/11-409918) · `si`
 
-ජනාධිපතිවරණය සඳහා ඉදිරිපත් වන බව පවසන කිසිදු අපේක්ෂකයෙකු එම ධුරය සතු විධායක බලය අහෝසි කරන බවට මෙතෙක් ප්‍රකාශ ක‍ර නොමැති බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සඳහන් කරයි.
+President Ranil Wickremesinghe highlighted the executive power's role in Sri Lanka's economic growth and peace during a workshop. He emphasized the importance of maintaining the English parliamentary system over the American model, where executive, legislative, and judicial powers are separated. This approach, he argued, ensures the supremacy of Parliament and prevents interference in laws once passed, contrasting it with the more decentralized U.S. system.
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ ‘What’s New” තරුණ නීති වෘත්තිකයන් සමඟ නීති ප්‍රතිසංස්කරණ පිළිබඳ ජනාධිපති කාර්යාලයේදී ඊයේ (28) පවැති වැඩමුළුවට එක්වෙමිනි.
+🟩
 
-ජනාධිපති ධූරය සතු විධායක බලය නිසා ශ්‍රී ලංකාවේ ආර්ථිකය ගොඩනැඟීමට මෙන්ම තිස්වසරක යුද්ධය නිමා කිරිමට හැකි වූ බවත් ජනාධිපතිවරයා පෙන්වා දුන්නේය.
+President Ranil Wickremesinghe said that no candidate says any candidate said that any candidate said the post candidate would be abolished the executive power of the post.
 
-එංගලන්ත පාර්ලිමේන්තුව තුළ යම් නීතියක් සම්මත වූ පසු ඒ පිළිබඳ කිසිවෙකුට ප්‍රශ්න කළ නොහැකියි. පාර්ලිමේන්තුවේ උත්තරීතරභාවයේ පදනම එයයි. උත්තරීතර වන්නේ පාර්ලිමේන්තුවයි.
+President Ranil Wickremesinghe made this statement participating in the workshop on the Presidential Secretariat on Law Reformers with young law professionals.
 
-ඇමරිකානු ක්‍රමවේදය මීට වෙනස්. ඇමරිකානු ක්‍රමවේදය මගින්, ඔවුන් යම් නීතියක් කෙටුම්පත් කරන විට, විධායක බලතල ජනාධිපතිටත්, ව්‍යවස්ථාදායක බලතල කොන්ග්‍රසයටත් සහ අධිකරණ බලතල අධිකරණයටත් ලබා දුන්නා.
+The President also pointed out that due to the executive power of the president, the Sri Lankan economy was able to build the economy in Sri Lanka and end the war.
+
+Once a law passed in the England parliament, no one can interrogate. That was the foundation of the supremacy of Parliament. The Parliament is the Parliament.
+
+American method is different. By the American methodology, when they drafted some law, they gave the executive powers to the executive powers and the Congress Congress and the Court of Justice.
 
 ...
 
 [Data](articles/1dd66ac0.json)
+
+[Extended Data](ext_articles/1dd66ac0.ext.json)
 
 ---
 
@@ -1632,17 +1664,27 @@ At the same time, there is a shortage of river banks in the area.
 
 ---
 
-### ආපනශාලාවක් පරීක්ෂා කිරීමට ගිය මහජන සෞඛ්‍ය පරීක්ෂකවරයාට පන්න පන්න පහර දෙයි
+### Purpose the Public Health Inspector who went to test a restaurant
 
 *2024-05-30 12:19:12* · [`adalk`](https://www.ada.lk/breaking_news/ආපනශාලාවක්-පරීක්ෂා-කිරීමට-ගිය-මහජන-සෞඛ්‍ය-පරීක්ෂකවරයාට-පන්න-පන්න-පහර-දෙයි/11-409910) · `si`
 
-මාතලේ  නගරයේ මංදණ්ඩාවෙල ප්‍රදේශයේ ආපන ශාලාවක්  පරීක්ෂා කිරීමට ගිය මහජන සෞඛ්‍ය පරීක්ෂකවරයෙකුට   එම වෙළෙඳ සැලේ හිමිකරු විසින් රාජකාරියට බාධා කොට පහරදීමෙන්  නිලධාරියා තුවාල ලබා මාතලේ දිස්ත්‍රික් මහ රෝහලේ ප්‍රතිකාර ලබන බව මාතලේ පොලිසිය පවසයි.
+A public health inspector in Matale was assaulted by a restaurant owner during an inspection, leading to hospitalization. The incident is under investigation by local authorities.
 
-අදාල සිද්ධිය වූ ඊයේ මාතලේ මහ නගර සභා සීමාව තුළ  වෙළඳසැල් පරීක්ෂාවක් මහජන සෞඛ්‍ය පරීක්ෂකවරුන් විසින් සිදු කර ඇති  අතර මාතලේ මන්දන්ඩාවල ප්‍රදේශයේ එම ආපනශාලාව පරීක්ෂා කිරීමට  ගිය මහජන සෞඛ්‍ය පරීක්ෂකවරයාට ආපනශාලාව පරික්ෂා කරමින් සිටියදී ඔහුගේ රාජකාරියට බාධා කරමින් එම වෙළඳසැලේ හිමිකරු විසින් පහරදී පොරවක් රැගෙන ඔහුව නගරයේ පන්නාගෙන ගොස් ඇති අතර එයින් අනූ නවයෙන් බේරී   මාතලේ මහා රෝහල  වෙත ගොස් නේවාසිකව ප්‍රතිකාර ගනු ලබයි.
+🟩
 
-...
+A public health inspector who visited a cafeteria in Matale in Matale is receiving treatment at the Matale District General Hospital, police said.
+
+The incident was carried out by the Public Health Inspectors in Matale Municipal Large yesterday, and the owner of the shop was attacked by the owner, and crashed into his duties while checking the cafeteria in Gampanda.The ninety-nine has gone to the Matale General Hospital and residential treatment.
+
+Restaurant owner has lodged a complaint by the restaurant owner by the restaurant owner, as the resident owner was invited by the candidate of the candidate while he was inspected by the public health inspector.Are filed.
+
+Investigating the Matale Municipal Commissioner Nishantha Maduage, he stated that the Matale Senior Superintendent of Police has applied for a fair investigation into the incident.
+
+◼️
 
 [Data](articles/4c6b5579.json)
+
+[Extended Data](ext_articles/4c6b5579.ext.json)
 
 ---
 
@@ -1800,23 +1842,29 @@ This expansion has increased the number of eligible countries for the Visa -free
 
 ---
 
-### වැදගත් පනත් දෙකක් ලබන සතියේ පාර්ලිමේන්තුවට
+### Two important bills to be tabled in Parliament next week
 
 *2024-05-30 11:55:55* · [`adalk`](https://www.ada.lk/breaking_news/වැදගත්-පනත්-දෙකක්-ලබන-සතියේ-පාර්ලිමේන්තුවට/11-409907) · `si`
 
-කාන්තාවන් සවිබල ගැන්වීමේ පනත් කෙටුම්පත දෙවනවර කියවීමේ විවාදය ජූනි 4 ...
+Next week, Parliament will discuss two key bills: the Empower Women Bill and the Education Problems Adjournment Debate. The schedule includes debates, question times, and discussions on various acts and proposals, highlighting significant legislative activities.
 
-‘අධ්‍යාපන ක්ෂේත්‍රයට අදාළව පවතින ගැටලු’ පිළිබඳ සභාව කල්තැබීමේ විවාදය ජූනි 5...
+🟩
 
-ශ්‍රී ලංකා විදුලිබල පනත් කෙටුම්පත දෙවැනිවර කියවීමේ විවාදය ජූනි 6...
+Seventh Reading Debate on the Bill of Empower Women Bill June 4 ...
 
-පාර්ලිමේන්තුව ලබන 4 වැනිදා සිට 7 වැනිදා දක්වා රැස්වීමට නියමිත බව පාර්ලිමේන්තුවේ මහලේකම් කුෂානි රෝහණදීර මහත්මිය පැවසුවාය. පසුගියදා (28) කථානායක ගරු මහින්ද යාපා අබේවර්ධන මහතාගේ ප්‍රධානත්වයෙන් පැවති පාර්ලිමේන්තු කටයුතු පිළිබඳ කාරක සභාවේදී ඊට අදාළ පාර්ලිමේන්තු කටයුතු තීරණය වී ඇත.
+The Congregation Concerment on the 'Problems in the Education' Adjournment Debate on June 5 ...
 
-මේ අනුව ජූනි 4 වැනි අඟහරුවාදා පෙ.ව 9.30 සිට පෙ.ව 10.30 දක්වා කාලය වාචික පිළිතුරු අපේක්ෂා කරන ප්‍රශ්න සදහා වෙන් කර ඇත. අනතුරුව පෙ.ව 10.30 සිට ප.ව 5.00 දක්වා කාන්තාවන් සවිබල ගැන්වීමේ පනත් කෙටුම්පත දෙවන වර කියවීමේ විවාදය පැවැත්වීමට මෙහිදී තීරණය වී ඇත. ඉන්පසු ශ්‍රී ලංකා වරලත් තැරැව්කරුන්ගේ ආයතනය (සංස්ථාගත කිරීමේ) සහ  දැදිගම ශ්‍රී මෛත්‍රී ප්‍රඥාර්ථ බෞද්ධ අධ්‍යාපන දහම් සභාව (සංස්ථාගත කිරීමේ) පෞද්ගලික මන්ත්‍රී පනත් කෙටුම්පත් සලකා බැලීමට නියමිතව ඇත.
+Second Reading Debate The Second Reading Debate ...
+
+Special Secretary General of Parliament Kushani Rohanadera said that the Parliament will meet on the 4th to the 7th of this month.. Recently, the relevant arrangements have been decided during the Committee on Parliamentary Affairs, under the patronage of Hon. Mahinda Yapa Abeywardena.
+
+Thus Tuesday 4th to 10 am to 10 am from 9.30 am to 10.30 am to 10:00 am reserved for questions looking for verbal answers. The Second Reading Debate has decided to hold the second reading of the Bill to empower women from 10.30 am to 2:00 pm. The Institute of the Chartered Broker Institute (Incorporation) and Dedigama Sri Maithri Sarduriya Buddhist Education Dhamma Council (Incorporation) are due to consider Private Members' Dhamma Council (Incorporation).
 
 ...
 
 [Data](articles/81569037.json)
+
+[Extended Data](ext_articles/81569037.ext.json)
 
 ---
 

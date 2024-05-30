@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-30 08:52:57**
+As of **2024-05-30 09:03:47**
 
 ## Newspaper Stats
 
-*Scraped **27,213** Articles*
+*Scraped **27,215** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 241
-dbsjeyarajcom | 266
-bbccomsinhala | 270
+dbsjeyarajcom | 267
+bbccomsinhala | 271
 newsfirstlk | 363
 islandlk | 1,477
 economynextcom | 1,556
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,355
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,212 (100.0%) of 27,213 articles have been extended.
+27,213 (100.0%) of 27,215 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -474,6 +474,24 @@ Patients in hospitals in their respective areas should be provided with possible
 
 ---
 
+### ජාත්‍යන්තර පාසල්  නියාමනය නොකිරීමෙන් 'දරුවන්ට ගැටලු රැසක්'; නියාමනය කිරීමට කළ යුත්තේ කුමක්ද?
+
+*2024-05-30 02:06:48* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cd112d28rjno) · `si`
+
+ජාත්‍යන්තර පාසල්  නියාමනය නොකිරීමෙන් 'දරුවන්ට ගැටලු රැසක්'; නියාමනය කිරීමට කළ යුත්තේ කුමක්ද?
+
+"දරුවො පාසලට ඇතුළත් කරද්දි කිව්වෙ නෑ, සාමාන්‍ය පෙළට සෞන්දර්ය විෂයන් ඉගෙන ගන්න ගුරුවරු දෙන්නෙ නෑ කියලා. ඒත් 9 ශ්‍රේණියට යද්දි කියනවා, සෞන්දර්ය විෂය නැතුව ඒ වෙනුවට ඉංග්‍රීසි සාහිත්‍යය අනිවාර්යයෙන් කරන්න කියලා. මේක ළමා අයිතිවාසිකම් උල්ලංඝණය කිරීමක් නෙවෙයි ද?," ජාත්‍යන්තර පාසල්වල ඉගෙනුම ලබන දරුවන් කිහිප දෙනෙකුගේ ම දෙමාපියෝ එලෙස චෝදනා කරති.
+
+මේ පිළිබඳව අප කළ සොයා බැලීමකදී පෙනී ගියේ, සෞන්දර්ය විෂයන් සඳහා දේශීය අ.පො.ස. සාමාන්‍ය පෙළ විභාගයට සූදානම් වන දරුවන් වෙනුවෙන් ගුරුවරුන් බඳවා නොගෙන, සියලු දරුවන්ට ඉංග්‍රීසි සාහිත්‍යය විෂය පමණක් ලබා දීමට ඇතැම් ජාත්‍යන්තර පාසල් කටයුතු කර ඇති බව ය.
+
+කෙසේ වෙතත්, යම් ශිෂ්‍යයෙකුට හෝ ශිෂ්‍යාවකට ඉංග්‍රීසි සාහිත්‍යය හැර වෙනත් සෞන්දර්ය විෂයක් ඉගෙන ගැනීමට අවශ්‍ය නම් පෞද්ගලිකව එම විෂය ඉගෙනගෙන සාමාන්‍ය පෙළ විභාගයට පෙනී සිටිය හැකි බව එම පාසල්වල පරිපාලන අංශ පවසයි.
+
+...
+
+[Data](articles/6d5406b0.json)
+
+---
+
 ### 300 schools are at risk of landslides
 
 *2024-05-30 02:00:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/300-பாடசாலைகளுக்கு-மண்சரிவு-அபாயம்/175-338122) · `ta`
@@ -810,15 +828,21 @@ The bank made a capital call from shareholders of Rs 22 billion, offering voting
 
 ---
 
-### හෙට හා අනිද්දා පාසල් සාමාන‍්‍ය පරිදි
+### Schools tomorrow and tomorrow
 
 *2024-05-29 22:49:28* · [`adalk`](https://www.ada.lk/breaking_news/හෙට-හා-අනිද්දා-පාසල්-සාමාන‍්‍ය-පරිදි/11-409900) · `si`
 
-හෙට සහ අනිද්දා එනම්, මැයි මස 30 සහ 31 දිනයන්හි සියලු‍ ම පාසල් සාමාන්‍ය පරිදි පැවැත්වෙන බව අධ්‍යාපන අමාත්‍යාංශය නිවේදනය කරයි.
+The Ministry of Education has confirmed that schools will operate normally on the 30th and 31st of May.
+
+🟩
+
+The Ministry of Education has announced that all schools on the 30th and 31st May, the date on the 30th and 31st May will be held as normal.
 
 ◼️
 
 [Data](articles/0bb9b9e5.json)
+
+[Extended Data](ext_articles/0bb9b9e5.ext.json)
 
 ---
 
@@ -1109,6 +1133,18 @@ OIC of the Criminal Investigation Division (CID) OIC Inspector General of Police
 [Data](articles/da3fa9e8.json)
 
 [Extended Data](ext_articles/da3fa9e8.ext.json)
+
+---
+
+### “Operation Sajaba” Intends to Deplete  SJB  Through  Large Scale Crossover of MPs to  Ranil  Wickremesingh’s Side..
+
+*2024-05-29 21:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84109) · `en`
+
+Sri Lanka’s  United National Party (UNP) suffered a humiliating electoral defeat in the 2020 Parliamentary elections. Electoral debacles were nothing new to the UNP which is  referred to by some as the grand old party. In 1956 the UNP got only eight seats in a Parliament of 101 MPs. In 1970 the party won 17 seats in a Parliament of 157 MPs.2020 was distinctly  different.  For the first time in its history ,the UNP  failed to get even a single MP elected to Parliament. Mercifully the UNP  polling 249,435 (2.15%)  votes was entitled to a national list MP. Thus the UNP had a single MP in a Parliament of 225 MPs.
+
+...
+
+[Data](articles/ac5f04cb.json)
 
 ---
 
@@ -2223,55 +2259,5 @@ These three housing projects were launched by the Urban Development Authority in
 [Data](articles/75ce7403.json)
 
 [Extended Data](ext_articles/75ce7403.ext.json)
-
----
-
-### Prime Minister issues clarification on Presidential Election
-
-*2024-05-29 16:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/99514/prime-minister-issues-clarification-on-presidential-election) · `en`
-
-Prime Minister Dinesh Gunawardena has confirmed that the Presidential Election will be held in accordance with the Constitution and on the date specified by the Election Commission.
-
-He made these comments while responding to questions from journalists after attending the opening of the Martin Wickramasinghe Hall of Life section at the National Library and Documentation Services Board today (29).
-
-“The government’s stand on the election has already been announced. The Election Commission declared that the presidential election can be held according to the constitution.”
-
-“They have announced that it will be scheduled between the months of September and October. The government has also announced that,” he said.
-
-Replying to a question on allegations that the government is trying to postpone the election after seeing the crowd for its May Day, the Premier said:
-
-“No political decision will be taken after seeing a crowd. We will not be panicked or reversed, but will move forward.”
-
-...
-
-[Data](articles/6c7fbbd2.json)
-
-[Extended Data](ext_articles/6c7fbbd2.ext.json)
-
----
-
-### A businessman arrested with drug league in Kattankudi
-
-*2024-05-29 16:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/184794) · `ta`
-
-In Kattankudi, a businessman was arrested for drug trafficking after 70 Madana Legiyam sides were found in his shop. The owner is detained for questioning, and 70 pages of sales records and a motorcycle were seized. The case is now with the Batticaloa District Investigation Division, preparing to take the suspect to court.
-
-🟩
-
-The Batticaloa District Criminal Investigation Division said that 70 Madana Legiyam sides have been seized from a shop in Kattankudy Police Division from Kattankudy Police Division.
-
-The owner of the shopping center has been arrested in Kattankudi. The arrested businessman is currently detained at the Kattankudy police station for interrogation
-
-70 pages of sale at the trade center from the person have been seized. The motorcycle has also been recovered by the District Criminal Investigation Division.
-
-At present, the Batticaloa District Investigation Division has handed over the suspect and Legiya packets at the Kattankudy police station.
-
-Kattankudy Police Station Superintendent G. Gajanayake said that the Kattankudy Police have taken steps to bring the person to the Batticaloa Magistrate's Court.
-
-◼️
-
-[Data](articles/a29166e0.json)
-
-[Extended Data](ext_articles/a29166e0.ext.json)
 
 ---

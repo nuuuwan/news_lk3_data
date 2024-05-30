@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-30 07:21:25**
+As of **2024-05-30 07:45:53**
 
 ## Newspaper Stats
 
-*Scraped **27,203** Articles*
+*Scraped **27,209** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,97 @@ islandlk | 1,477
 economynextcom | 1,556
 dailyftlk | 1,601
 adalk | 2,311
-adaderanalk | 3,095
-tamilmirrorlk | 3,189
+adaderanalk | 3,097
+tamilmirrorlk | 3,191
 virakesarilk | 4,186
 dailymirrorlk | 4,297
-adaderanasinhalalk | 4,351
+adaderanasinhalalk | 4,353
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,191 (100.0%) of 27,203 articles have been extended.
+27,198 (100.0%) of 27,209 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-30 (Thursday)
+
+### Four major national sports federations temporarily suspended
+
+*2024-05-30 07:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/99523/four-major-national-sports-federations-temporarily-suspended) · `en`
+
+A Gazette notification has been issued by the Minister of Sports Harin Fernando suspending the Sri Lanka Cycling Federation, the Sri Lanka Rugby Federation, the Sri Lanka Automobile Federation and the Sri Lanka Netball Federation with effect from Wednesday (29).
+
+The Extraordinary Gazette also appoints the Director General of the Department of Sports Development, Professor (Rear Admiral) Shemal Fernando, as the competent authority only for the limited purpose of holding the elections of office bearers for the said national sports governing bodies.
+
+“The Government maintains that it will not appoint any interim committees for any sport federation,” Sports Minister Harin Fernando said, in a post on ‘X’ (formerly Twitter).
+
+◼️
+
+[Data](articles/3e85da9c.json)
+
+---
+
+### Fairly heavy showers, strong winds expected in parts of the island
+
+*2024-05-30 07:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/99522/fairly-heavy-showers-strong-winds-expected-in-parts-of-the-island) · `en`
+
+The prevailing showery and windy conditions over the island are expected to continue further, due to the active Southwest Monsoonal condition, according to the Meteorology Department.
+
+Showers will occur at times in Western, Sabaragamuwa, Central and Southern provinces while several spells of showers will occur in North-western province.
+
+Fairly heavy showers above 75 mm are likely at some places in Western and Sabaragamuwa province and in Nuwara-Eliya district.
+
+Showers or thundershowers will occur at a few places in Uva province and in Ampara and Batticaloa districts in the evening or night, it said.
+
+Strong winds of about 50-60 kmph can be expected at times over Western slopes of the central hills and in North-central, Western, Southern and North-western provinces and in Trincomalee and Monaragala districts.
+
+The sea areas around the island will be rough or very rough due to the active south-west monsoonal condition.
+
+...
+
+[Data](articles/2fcc58ef.json)
+
+---
+
+### ක්‍රීඩා සංගම් 4ක් තාවකාලිකව අත්හිටුවයි
+
+*2024-05-30 06:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197169) · `si`
+
+වහාම ක්‍රියාත්මක වනපරිදි ජාතික ක්‍රීඩා සංගම් සම්මේලන 4ක ලියාපදිංචිය තාවකාලිකව අත්හිටුවීමට ක්‍රීඩා හා යෞවන කටයුතු අමාත්‍යාංශය පියවර ගෙන තිබේ.
+
+ශ්‍රී ලංකා පාපැදි සම්මේලනය, රග්බි සංගමය, මෝටර් රථ සම්මේලනය සහ දැල්පන්දු සම්මේලනය යන සංගම් හා සම්මේලනවල ලියාපදිංචිය මෙලෙස අත්හිටුවා ඇති බව සඳහන් ය.
+
+අදාළ සංගම් හා සම්මේලනවල ඉදිරි කටයුතු සිදුකිරීම සහ ඊට අදාළ නිලවරණය කැඳවීම සඳහා නිසි බලධාරියා ලෙස ක්‍රීඩා සංවර්ධන දෙපාර්තමේන්තුවේ අධ්‍යක්ෂ ජනරාල්වරයා පත්කර ඇති බව සඳහන් ය.
+
+◼️
+
+[Data](articles/7ad0e4bf.json)
+
+---
+
+### නිරිතදිග මෝසම් තත්ත්වයේ බලපෑම තවදුරටත්
+
+*2024-05-30 06:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197167) · `si`
+
+සක්‍රීය නිරිතදිග මෝසම් තත්ත්වය හේතුවෙන් දිවයිනේ දැනට පවතින වැසි සහ සුළං තත්ත්වය තවදුරටත් බලාපොරොත්තු වෙන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+අද (30) අලුයම නිකුත් කළ නවතම කාලගුණ නිවේදනයෙන් ඒ බව පෙන්වා දෙයි.
+
+ඒ හේතුවෙන් අද දිනයේත් බස්නාහිර, සබරගමුව, මධ්‍යම සහ දකුණු පළාත්වල විටින් විට වැසි ඇතිවෙයි. වයඹ පළාතේ වැසි වාර කිහිපයක් ඇතිවිය හැකිය.
+
+බස්නාහිර සහ සබරගමුව පළාත්වලත්, නුවරඑළිය දිස්ත්‍රික්කයේත් ඇතැම් ස්ථානවල මි.මී. 75 ට වැඩි තරමක තද වැසි ඇති වෙයි.
+
+ඌව පළාතේත් අම්පාර සහ මඩකලපුව දිස්ත්‍රික්කවලත් සවස් කාලයේ හෝ රාත්‍රී කාලයේ ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇදහැලෙයි.
+
+මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවලත් උතුරු මැද, බස්නාහිර, දකුණු සහ වයඹ පළාත්වලත් ත්‍රීකුණාමලය සහ මොනරාගල දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. (50-60) ක පමණ තද සුළං ඇතිවිය හැකිය.
+
+◼️
+
+[Data](articles/cd5808d8.json)
+
+---
 
 ### Vietnam example: Communist factor in JVP-NPP mix could prove constructive
 
@@ -308,6 +384,36 @@ Patients in hospitals in their respective areas should be provided with possible
 
 ---
 
+### 300 பாடசாலைகளுக்கு மண்சரிவு அபாயம்
+
+*2024-05-30 02:00:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/300-பாடசாலைகளுக்கு-மண்சரிவு-அபாயம்/175-338122) · `ta`
+
+மண்சரிவு அதி அபாய பகுதிகளில் 300 இற்கும் மேற்பட்ட பாடசாலைகள் காணப்படுகின்றன என தேசிய கட்டட ஆராய்ச்சி நிறுவகம் தெரிவித்தது.
+
+அடையாளம் காணப்பட்டுள்ள மேற்படி பாடசாலைகள் அமைந்துள்ள பகுதியில் அனர்த்தங்களை கட்டுப்படுத்தும் நடவடிக்கைகள் முன்னெடுக்கப்பட்டுள்ளன என தேசிய கட்டட ஆராய்ச்சி நிறுவகத்தின் மண்சரிவு ஆய்வு பிரிவின் பணிப்பாளர் காமினி ஜயதிஸ்ஸ தெரிவித்துள்ளார்.
+
+அத்துடன், மண்சரிவு அதி அபாய பகுதிகளில் பல்வேறு அரச நிறுவனங்களும் காணப்படுகின்றன அவர் தெரிவித்துள்ளார். (a)
+
+◼️
+
+[Data](articles/83546a29.json)
+
+---
+
+### சூறாவளி தாக்கம் இன்று முதல் குறைவடையும்
+
+*2024-05-30 01:51:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சூறாவளி-தாக்கம்-இன்று-முதல்-குறைவடையும்/175-338121) · `ta`
+
+தென்மேற்கு பருவப்பெயர்ச்சியின் காரணமாக, எதிர்வரும் இரண்டு அல்லது மூன்று தினங்களில் நாட்டின் தென்மேற்கு பிராந்தியத்தில் மழையுடனான வானிலை நிலவும் என திணைக்களம் குறிப்பிட்டுள்ளது.
+
+இதனிடையே, மழையுடனான வானிலை காரணமாக 10 ஆயிரத்து 483 குடும்பங்களை சேர்ந்த 39 ஆயிரத்து 156 பேர் பாதிக்கப்பட்டுள்ளனர். (a)
+
+◼️
+
+[Data](articles/8c014485.json)
+
+---
+
 ### Documentary screening on the theme of lakes of the story of the Jaffna Public Library
 
 *2024-05-30 01:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/184824) · `ta`
@@ -512,6 +618,8 @@ Apply this paste to your face and wait for 15-20 minutes before washing with war
 
 [Data](articles/d6fe7268.json)
 
+[Extended Data](ext_articles/d6fe7268.ext.json)
+
 ---
 
 ### Thailand set to indict former PM Thaksin over royal insult
@@ -546,6 +654,8 @@ The event brought together over 30 Chief Information Officers (CIOs) from a vari
 
 [Data](articles/568a870b.json)
 
+[Extended Data](ext_articles/568a870b.ext.json)
+
 ---
 
 ### LankaPay partners with UnionPay, revolutionizing cross-border ATM acceptance in Sri Lanka
@@ -559,6 +669,8 @@ With the rebound of tourism and international trade in Sri Lanka, seamless cross
 ...
 
 [Data](articles/15901dbe.json)
+
+[Extended Data](ext_articles/15901dbe.ext.json)
 
 ---
 
@@ -576,6 +688,8 @@ Launched in 2017 with funding from the Standard Chartered Foundation the program
 
 [Data](articles/03106a24.json)
 
+[Extended Data](ext_articles/03106a24.ext.json)
+
 ---
 
 ### Banking sector shares suffer decline in the wake of Combank’s morn setback
@@ -589,6 +703,8 @@ The bank made a capital call from shareholders of Rs 22 billion, offering voting
 ...
 
 [Data](articles/b3e729ea.json)
+
+[Extended Data](ext_articles/b3e729ea.ext.json)
 
 ---
 
@@ -2137,125 +2253,5 @@ The President highlighted the dual nature of the executive presidential system, 
 [Data](articles/33af2dc6.json)
 
 [Extended Data](ext_articles/33af2dc6.ext.json)
-
----
-
-### President says presidential election to be held in future
-
-*2024-05-29 16:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/President-says-presidential-election-to-be-held-in-future/108-283619) · `en`
-
-Colombo, May 29 - President Ranil Wickremesinghe said that the presidential election will definitely be held in the future and financial allocations have already been allocated for it.
-
-While joining the "What's New" workshop held at the President's office on legal reform with young legal professionals, the President said that that none of the candidates aspiring to run in the presidential election have announced their intention to abolish the executive powers associated with the position.
-
-The President highlighted the dual nature of the executive presidential system, noting its advantages and disadvantages. He emphasized that the executive power vested in the presidency played a pivotal role in the economic development of Sri Lanka and the resolution of the 30-year war.
-
-◼️
-
-[Data](articles/33f4bcac.json)
-
-[Extended Data](ext_articles/33f4bcac.ext.json)
-
----
-
-### President says presidential election to be held as planned
-
-*2024-05-29 16:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/President-says-presidential-election-to-be-held-as-planned/155-283619) · `en`
-
-Colombo, May 29 - President Ranil Wickremesinghe said that the presidential election will definitely be held in the future and financial allocations have already been allocated for it.
-
-While joining the "What's New" workshop held at the President's office on legal reform with young legal professionals, the President said that that none of the candidates aspiring to run in the presidential election have announced their intention to abolish the executive powers associated with the position.
-
-The President highlighted the dual nature of the executive presidential system, noting its advantages and disadvantages. He emphasized that the executive power vested in the presidency played a pivotal role in the economic development of Sri Lanka and the resolution of the 30-year war.
-
-◼️
-
-[Data](articles/90aedbbf.json)
-
-[Extended Data](ext_articles/90aedbbf.ext.json)
-
----
-
-### Police Inspector collided with a motorcycle in Colombo
-
-*2024-05-29 16:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/184747) · `ta`
-
-A police inspector in Colombo was arrested after crashing his motorcycle into a three-wheeler while riding it post-duty. The accident occurred on the city's main road, leading to injuries.
-
-🟩
-
-A police inspector has been arrested for allegedly driving a motorcycle on the main road of Colombo.
-
-The police inspector was traveling on a motorcycle this morning (29) after completing his duties.
-
-The motorcycle was rushed to a hotel near the hotel on the main road of Colombo and was injured and he was hit by a three -wheeler.
-
-The police inspector was arrested by the police and produced before the legal officer.
-
-◼️
-
-[Data](articles/4ef81bf1.json)
-
-[Extended Data](ext_articles/4ef81bf1.ext.json)
-
----
-
-### US envoy meets Election Commission members, discuss plans for elections
-
-*2024-05-29 15:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/99513/us-envoy-meets-election-commission-members-discuss-plans-for-elections) · `en`
-
-U.S. Ambassador to Sri Lanka, Julie J. Chung, has met with the members of Sri Lanka’s Election Commission including its chairman, Mr. R. M. A. L. Rathnayake.
-
-In a post on ‘X’ (formerly Twitter), the Ambassador said the meeting was held to discuss the plans to hold the upcoming elections in Sri Lanka and “upholding a transparent process”.
-
-“As Sri Lanka, the U.S., and many countries face elections this year, we exchanged views on the importance of voting in free and fair elections as a pillar of democratic governance,” she said.
-
-◼️
-
-[Data](articles/38de9283.json)
-
-[Extended Data](ext_articles/38de9283.ext.json)
-
----
-
-### Daily Mirror, Lankadeepa article on poverty stricken mother gets tremendous response
-
-*2024-05-29 15:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Daily-Mirror-Lankadeepa-article-on-poverty-stricken-mother-gets-tremendous-response/108-283618) · `en`
-
-May 29- Following a report in the Daily Mirror of a mother of four children from Kebithigolleva, who was struggling after her husband’s sudden passing, numerous donors reached out to the Daily Mirror office, offering their support to the family.
-
-Accordingly, the family has shared their bank details for those interested in contributing to their well-being.
-
-In today’s Daily Mirror, it was reported that the 33-year-old mother found herself in dire circumstances, enduring four months without electricity, two weeks of water scarcity, and mourning the loss of her husband, who was the main breadwinner supporting the family through odd jobs.
-
-◼️
-
-[Data](articles/0021e604.json)
-
-[Extended Data](ext_articles/0021e604.ext.json)
-
----
-
-### A new decision from the Government of Russia Visa
-
-*2024-05-29 15:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197157) · `si`
-
-Russia's government has issued a new visa policy requiring prior Defense Ministry approval for former security personnel wishing to visit. This decision was announced by Foreign Minister Ali Sabri, emphasizing its importance through his official X account. Meanwhile, discussions involving the Russian Ambassador in Colombo and Sri Lanka's Minister of External Affairs indicate ongoing diplomatic efforts related to this matter.
-
-🟩
-
-The Foreign Minister said that only the former security forces who wish to travel to Russia only after granting the prior approval of the Defense Ministry.
-
-Foreign Minister Ali Sabri says this is a note of his official X account.
-
-Meanwhile, the Russian Ambassador today in Colombo Levan s. The Minister was addressing a meeting with Dzhageryan.
-
-Minister of External Affairs Tharaka Balasuriya is also scheduled to commence in this regard.
-
-◼️
-
-[Data](articles/99ebed22.json)
-
-[Extended Data](ext_articles/99ebed22.ext.json)
 
 ---

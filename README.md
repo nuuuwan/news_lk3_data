@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-30 05:18:45**
+As of **2024-05-30 05:37:11**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,351
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,189 (100.0%) of 27,191 articles have been extended.
+27,191 (100.0%) of 27,191 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,6 +46,8 @@ For the CPSL and Vasu’s DLF there will be no coming back from this last cruise
 
 [Data](articles/464200c7.json)
 
+[Extended Data](ext_articles/464200c7.ext.json)
+
 ---
 
 ### Yukthiya anti-drug operation: Separating fact from fiction
@@ -61,6 +63,8 @@ As of 22 May 2024, 113,974 persons have been arrested as part of Yukthiya, with 
 ...
 
 [Data](articles/31f1c3cc.json)
+
+[Extended Data](ext_articles/31f1c3cc.ext.json)
 
 ---
 

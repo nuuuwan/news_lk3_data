@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-30 19:52:31**
+As of **2024-05-30 20:04:06**
 
 ## Newspaper Stats
 
@@ -26,47 +26,61 @@ adaderanasinhalalk | 4,377
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,365 (100.0%) of 27,368 articles have been extended.
+27,368 (100.0%) of 27,368 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-30 (Thursday)
 
-### இலங்கைக்கு விடுக்கப்பட்ட சிவப்பு எச்சரிக்கை
+### Red warning to Sri Lanka
 
 *2024-05-30 19:31:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கைக்கு-விடுக்கப்பட்ட-சிவப்பு-எச்சரிக்கை/175-338168) · `ta`
 
-பலத்த காற்று மற்றும் கடல் சீற்றத்துடனான வானிலை நிலவும் என வளிமண்டலவியல் திணைக்களம் சிவப்பு எச்சரிக்கை விடுத்துள்ளது.
+The Department of Meteorology has issued a red warning due to severe weather conditions, including strong winds and rough seas, affecting fishing activities near the Arabian Sea and Bay of Bengal. Heavy rains and winds of 60-70 km/h are expected in the southwest and southeast Arabian Sea and south of Sri Lanka, primarily during the southwest monsoon season.
 
-அரபிக் கடல் மற்றும் வங்காள விரிகுடாவைச் சுற்றியுள்ள கடற்பகுதியில் மீன்பிடி நடவடிக்கைகளில் ஈடுபடம் மக்களுக்கு இந்த அறிவிப்பு விடுக்கப்பட்டுள்ளது.
+🟩
 
-தற்போது நிலவும் தென்மேற்கு பருவமழை காரணமாக, இலங்கையை சுற்றியுள்ள கடற்பரப்புகளிலும், தென்மேற்கு மற்றும் தென்கிழக்கு அரேபிய கடல் பகுதிகளிலும், தெற்கிலும் பலத்த காற்றுடன் (மணிக்கு 60-70 கி.மீ.)  கொந்தளிப்பான கடல்களுடன் கூடிய கனமழை பெய்யக்கூடும் எனவும் வளிமண்டலவியல் திணைக்களம் சிவப்பு எச்சரிக்கையில் மேலும் தெரிவிக்கப்பட்டுள்ளது. R
+The Department of Meteorology has issued a red warning that the weather conditions with strong winds and sea rage.
+
+The announcement has been made to people involved in fishing activities in the waters around the Arabian Sea and the Bay of Bengal.
+
+Due to the prevailing southwest monsoon, the Department of Meteorology has further stated that heavy rains with heavy winds (60-70 km) in the southwest and south-east Arabian Sea and south are likely to occur in the seas around Sri Lanka.. Remble
 
 ◼️
 
 [Data](articles/cf77ccad.json)
 
+[Extended Data](ext_articles/cf77ccad.ext.json)
+
 ---
 
-### සැඩ පහර මැද කැලණි ගඟට පැන්න කාන්තාවක් බේරු සුපිරි මෙහෙයුම
+### A woman drives in Kelani River in the middle of the storied
 
 *2024-05-30 19:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197193) · `si`
 
-කැලණි ගඟට පැන සියදිවි නසාගැනීමට උත්සාහ කළ කාන්තාවක් අසීරු මෙහෙයුමකින් පසුව බේරාගැනීමට කඩුවෙල පොලීසියේ නිලධාරීන් සහ ප්‍රදේශවාසීන් පිරිසක් සමත්ව තිබේ.
+In heavy rain, Kaduwela police and locals rescued a woman attempting suicide in the rising Kelani River. The emergency call alerted them, leading to a swift response. Inspector Kan Weerasinghe coordinated the effort, deploying personnel equipped with ropes. Despite the challenging conditions, they managed to save the woman, who was found about 9 kilometers downstream from Bomaraya. She remains hospitalized at Colombo East Hospital.
 
-අධික වැසි තත්ත්වයත් සමග කැලණි ගඟේ ජල මට්ටම ඉහළ ගොස් දැඩි සැඩ පහරක් පවතින අවස්ථාවක මෙම මෙහෙයුම ක්‍රියාත්මක කර තිබුණි.
+🟩
 
-ඊයේ රාත්‍රී 8ට පමණ පවතින වැසි සමඟ දෙගොඩ තලා යන කැලණි ගඟේ කාන්තාවක් ගසාගෙන යන බවට 119 හදිසි ඇමතුම් අංකයට දුරකථන ඇමතුමක් ලැබී තිබුණි.
+Kaduwela police officers and the residents of Kaduwela Police have also been able to rescue a woman who attempted to commit suicide by jumping into the Kelani River.
 
-එම අවස්ථාවේ ප්‍රදේශයේ මුර සංචාරයේ යෙදී සිටි කඩුවෙල පොලිසියේ ස්ථානාධිපති පොලිස් පරීක්ෂක කාන් වීරසිංහ මහතාට පොලිස් නිලධාරීන් එම තොරතුර කඩිනමින් දැනුම්දී තිබුණා.
+With heavy rains, the operation was implemented when the water level in the Kelani River rises.
 
-වහාම ක්‍රියාත්මක වූ ස්ථානාධිපතිවරයා පොලිස් නිලධාරීන්ට උපදෙස් ලබාදී තිබුණේ ගඟට බැසීමට පුද්ගලයෙකු, කඹයක් සහ විදුලි පන්දම් කිහිපයක්ද සූදානම්කරගන්නා ලෙසටය.
+The Emergency Call Number had received a telephone call that a woman was swept out of the Kelani River in the Kelani River last night last night.
 
-ඒ අනුව මිනිත්තු කිහිපයක් ඇතුළත සූදානම් කෙරුණු ආම්පන්න සහ ගඟට බැසීමට හැකියාව ඇති ප්‍රදේශවාසියෙක් වන සමන් අසිත නමැත්තාද කැටුව ස්ථානාධිපතිවරයා කඩුවෙල බෝගහවත්ත පාලම අසළට වහාම පිටත්ව ගොස් තිබුණි.
+Kaduwela Police OIC Inspector Kan Weerasinghe, Inspector General of Police, had been informed of the information.
+
+Immediately the OIC of the OIC was instructed to prepare a person, rope, and several triples.
+
+Accordingly, the OIC of Saman Asitha, who is able to get to the river and the capacity of the residents of the river, was immediately departed near the Kaduwela Bridge.
+
+According to the help of a woman who was bathing from the top of the Kelani River, Asith Samantha inspected the river and rescued her after a serious streets of life.
 
 ...
 
 [Data](articles/8b262c34.json)
+
+[Extended Data](ext_articles/8b262c34.ext.json)
 
 ---
 
@@ -254,19 +268,27 @@ The event was held under the patronage of the Southern Province Governor Lakshma
 
 ---
 
-### කැළණිවැලි තේ වතු වල නිමි තේ  වෙන්දේසියට රැගෙන යාමට තහනමක්
+### Banning to be taken to the finished tea auction in Kelani tea estates
 
 *2024-05-30 17:38:24* · [`adalk`](https://www.ada.lk/breaking_news/කැළණිවැලි-තේ-වතු-වල-නිමි-තේ--වෙන්දේසියට-රැගෙන-යාමට-තහනමක්/11-409922) · `si`
 
-කැළණිවැලි තේ වතු සමාගමට අයත් සියළුම තේ වතු වල නිෂ්පාදනය කරනු ලබන නිමි තේ කොළ තේ වෙන්දේසිය සදහා රැගෙන යාමට ඉඩ ලබා නොදෙන ලෙස ලංකා කම්කරු කොන්ග්‍රසයේ මහ ලේකම් සහ ජල සම්පාදන හා වතු යටිතල පහසුකම් අමාත්‍ය ජිවන් තොණ්ඩමන් මහතා පැවසිය.
+In response to worker complaints, the Ceylon Workers Congress and several labor officials have temporarily halted operations at Kelani tea estates. This move follows protests against the estate company, with Minister Jivan Thondaman urging trade unions to boycott the upcoming tea auction. The situation remains unresolved, with ongoing trade union actions aimed at addressing the issue.
 
-එම වතු සමාගමට අයත් නානුඔය උඩ රදැල්ල වතුයායේ වතු පාලන අධිකාරිය විසින් තේ ගස් ගලවා කෝපි වගාව සිදු කිරිමට තිරණය කර බැකෝ යන්ත්‍රයක් යොදාගෙන ඉකුත් මස කටයුතු කරමින් සිටියදි එයට විරෝධය පලකල එම වතුයායේ වතු කම්කරුවන් කිහිපදෙනෙකුගේ වැඩ තාවකාලිකව තහනම් කිරිම සම්බන්ධයෙන් නුවරඑලිය සහකාර කම්කරු කොමසාරිස් කාර්යාලයේ එම කම්කරුවන් විසින් සිදු කල පැමිණිල්ලක් සම්බන්ධයෙන් සහකාර කම්කරු කොමසාරිස්වරයා විසින් (30) දින දෙපාර්ශවයම කැදවා සාකච්ඡාවක් පවත්වා ඇත.
+🟩
 
-එම සාකච්ඡාවට පැමිණිලි පාර්ශවය , වතු පාලන අධිකාරිය සහ අමාත්‍ය ජිවන් තොණ්ඩමන් මහතා සහභාගි වි ඇති අතර , එහිදි වතු පාලන අධිකාරිය තාවකාලිකව වැඩ තහනම් කල වතු කම්කරුවන්ට යලිත් වැඩ ලබාදිමට එකගතාවය පල නොකිරිම මත එම සාකච්ඡාව එකගතාවයකින් තොරව අවසන් වි ඇත.
+The Secretary of the Ceylon Workers Congress, General Secretary and Estate Infrastructure, Minister of Water Supply and Estate Infrastructure, Minister of Water Supply and Estate Infrastructure, Minister of Water Supply and Estate Infrastructure, Minister of Labor Congress said.
+
+The Several Assistant Commissioner of Labor to temporarily ban the work of the estate firm in the area of ​​the estate company to be temporarily banned by the estate control authority of the estate firm, refrains the work of the estate.The Assistant Commissioner Commissioner of Labor has held a discussion on a complaint (30).
+
+The discussion has also been present on the discussion and Minister Jivan Thondaman, who has not yet been able to resume the estate workers to be temporary.
+
+Minister Jivan Thondaman has informed the teams of all the members of the trade union not to be allowed to be taken to the tea auction produced in protest of the estate company.
 
 ...
 
 [Data](articles/8bc9455d.json)
+
+[Extended Data](ext_articles/8bc9455d.ext.json)
 
 ---
 

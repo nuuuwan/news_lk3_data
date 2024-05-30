@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-30 16:50:36**
+As of **2024-05-30 17:03:44**
 
 ## Newspaper Stats
 
-*Scraped **27,337** Articles*
+*Scraped **27,341** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,35 +16,99 @@ islandlk | 1,477
 economynextcom | 1,563
 dailyftlk | 1,601
 adalk | 2,327
-adaderanalk | 3,115
+adaderanalk | 3,117
 tamilmirrorlk | 3,210
 virakesarilk | 4,210
-dailymirrorlk | 4,322
-adaderanasinhalalk | 4,369
+dailymirrorlk | 4,323
+adaderanasinhalalk | 4,370
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,336 (100.0%) of 27,337 articles have been extended.
+27,337 (100.0%) of 27,341 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-30 (Thursday)
 
-### කාලගුණවිද්‍යා දෙපාර්තමේන්තුවෙන් රතු නිවේදනයක්
+### රුසියානු හමුදා සේවයට ලාංකිකයින් යොමුකළ ඒජන්සියේ හිමිකරු යළි රිමාන්ඩ්
+
+*2024-05-30 16:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197186) · `si`
+
+රුසියානු හමුදාවේ සේවය සඳහා ශ්‍රි ලාංකිකයින් යොමුකළ විදේශ රැකියා ආයතනයක හිමිකරු හා එහි කළමනාකරු ජූනි 13 දක්වා යළි රක්ෂිත බන්ධනාගාර ගත කර තිබේ.
+
+ඒ ඊට අදාළ නඩුව මීගමුව මහෙස්ත්‍රාත් අධිකරණයේදී අද (30) යළි කැඳවූ අවස්ථාවේ දීය.
+
+එක් අයෙකුගෙන් රුපියල් ලක්ෂ 15 බැගින් මුදල් අයකර, සංචාරක වීසා මගින් රුසියානු හමුදාවේ සිවිල් සේවය සඳහා ශ්‍රි ලාංකිකයින් යොමුකරන බවට ලද පැමිණිලි 7ක් අනුව සැකකරුවන් දෙදෙනා මැයි 15 වනදා විදේශ සේවා නියුක්ති කාර්යාංශයේ විශේෂ විමර්ශන අංශයේ නිළධාරීන් විසින් අත්අඩංගුවට ගන්නා ලදී.
+
+කාර්යාංශය වෙත ලද පැමිණිලි අනුව මෙම ආයතනය වංචාකර ඇති මුදල් ප්‍රමාණය රුපියල් කෝටියකට අධික වේ.
+
+◼️
+
+[Data](articles/5456c791.json)
+
+---
+
+### Israel extends control of Gaza’s entire land border
+
+*2024-05-30 16:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/99546/israel-extends-control-of-gazas-entire-land-border) · `en`
+
+Israel’s military has said it has taken control of the strategically important buffer zone along the Gaza-Egypt border known as the Philadelphi Corridor, meaning it now controls Gaza’s entire land border.
+
+A spokesman for the Israel Defense Forces (IDF) said about 20 tunnels used by Hamas to smuggle weapons into Gaza had been found within the zone.
+
+Egyptian TV quoted sources denying this, and said Israel was trying to justify its military operation in the southern Gaza city of Rafah.
+
+The announcement comes during a period of heightened tensions with Egypt.
+
+“In recent days, IDF troops established operational control on the Philadelphi Corridor, on the border between Egypt and Rafah,” IDF spokesman Rear Admiral Daniel Hagari said on Wednesday.
+
+He described the corridor as a “lifeline” for Hamas, through which the group “regularly smuggled weapons into the Gaza Strip”.
+
+He said troops were “investigating.. and neutralizing” tunnels found in the area.
+
+...
+
+[Data](articles/7d5d1395.json)
+
+---
+
+### Red notice from the Department of Meteorology
 
 *2024-05-30 16:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197185) · `si`
 
-කාලගුණවිද්‍යා දෙපාර්තමේන්තුව විසින් තද සුළං සහ මුහුදු රළුවීම පිළිබඳව අනතුරු ඇගවීමේ රතු නිවේදනයක් නිකුත් කර තිබේ.
+The Department of Meteorology has issued a red alert for strong winds and rough seas in the Arabian Sea and Bay of Bengal due to enabled Southwestern monsoon conditions. This warning is specifically directed towards the fisheries and naval communities, advising them of heavy showers and extremely rough sea conditions.
 
-අරාබි මුහුද සහ බෙංගාල බොක්ක ආශ්‍රිත මුහුදු ප්‍රදේශවල ක්‍රියාකරන ධීවර සහ නාවික ප්‍රජාව සඳහා මෙම නිවේදනය නිකුත් කර ඇත.
+🟩
 
-පවතින සක්‍රීය නිරිතදිග මෝසම් කාලගුණය නිසා දිවයින වටාවන මුහුදු ප්‍රදේශවලත් නිරිතදිග සහ ගිනිකොණදිග ආරබි මුහුදු ප්‍රදේශවලත් නිරිතදිග බෙංගාල බොක්ක මුහුදු ප්‍රදේශවලත් තවදුරටත් ඉතා තද සුළං (පැ.කි.මී . 60-70) , සමගින් තද වැසි පැවතිය හැකි අතර මුහුදු ප්‍රදේශ ඉතා රළු විය හැකි බව වැඩිදුරටත් දැනුම්දී තිබේ.
+The Department of Meteorology has issued a red notice of strong winds and sea floor.
+
+The announcement has been issued for the fisheries and naval community who acts in the Arabian Sea and Bay of Bengal.
+
+Enable Southwestern monsoon weather is also highly strong winds in the Bay of Bay of Bay of Bay of Bay of Bay of Bay Bay Sea. 60-70) Heavy showers may be informed with rain, and the sea can be very rough.
 
 ◼️
 
 [Data](articles/39ed426e.json)
+
+[Extended Data](ext_articles/39ed426e.ext.json)
+
+---
+
+### Indian arrested with smuggled cigarettes at BIA
+
+*2024-05-30 16:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/99545/indian-arrested-with-smuggled-cigarettes-at-bia) · `en`
+
+The officers of Police Narcotics Bureau (PNB) have arrested a foreign national who was in possession of a large stock of cigarettes smuggled into the country at the Bandaranaike International Airport (BIA) in Katunayake.
+
+The consignment of cigarettes is estimated to be worth around Rs. 300,000.
+
+The arrested suspect has been identified as a 31-year-old Indian national and he has been detained following an inspection carried out by the officers of PNB at the airport.
+
+◼️
+
+[Data](articles/b139c162.json)
 
 ---
 
@@ -1572,6 +1636,32 @@ A statement read: "A fatal incident took place at Schiphol today during which a 
 
 ---
 
+### Person dies after being sucked into airplane engine in Amsterdam airport
+
+*2024-05-30 11:50:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Person-dies-after-being-sucked-into-airplane-engine-in-Amsterdam-airport/107-283686) · `en`
+
+Amsterdam, May 30, (ABC) - A person has died after falling into a running aircraft engine at Amsterdam's Schiphol airport, police say.
+
+Dutch military police are investigating the incident, which happened on Wednesday and involved a person ending up in the engine of a KLM airlines Embraer jet plane which was about to take off on a flight for Denmark.
+
+It is not known if the incident was an accident or suicide, a spokesperson for the military police, the Marechaussee, told Reuters.
+
+All passengers and crew onboard the plane were safely removed and are being supported.
+
+"Our thoughts go out to the [deceased's] relatives, and we care for the passengers and colleagues who saw this," the airport said in a statement.
+
+KLM, which is part of France-KLM, said it was investigating the event.
+
+A statement read: "A fatal incident took place at Schiphol today during which a person ended up in a running aircraft engine.
+
+"Sadly, this person has died. The flight concerned was KL1341 bound for Billund.
+
+...
+
+[Data](articles/a50fe1e0.json)
+
+---
+
 ### US to boycott UN tribute to Iran leader killed in helicopter crash
 
 *2024-05-30 11:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/99531/us-to-boycott-un-tribute-to-iran-leader-killed-in-helicopter-crash) · `en`
@@ -2235,95 +2325,5 @@ The Thai cabinet also approved visa-on-arrival for a total of 31 countries, up f
 [Data](articles/7167ad69.json)
 
 [Extended Data](ext_articles/7167ad69.ext.json)
-
----
-
-### The Indian ship was responsible for the fuel leak
-
-*2024-05-30 09:58:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எரிபொருள்-கசிவு-ஏற்பட்ட-இந்திய-கப்பலுக்கு-பொறுப்பேற்பு/175-338126) · `ta`
-
-An Indian ship leaked fuel upon arrival at Colombo port for repairs. The Maritime Environmental Protection Authority took control of the vessel and initiated legal action against the ship's company and its insurer. Compensation for the spill is being processed, and the ship's captain faces a travel ban to prevent departure.
-
-🟩
-
-Recently, a fuel leak has been reported as an Indian company has arrived at the Colombo port for repair.
-
-The Maritime Environmental Protection Authority said that the fuel leak ship was taken over.
-
-A spokesman said legal action has been taken against the ship -owned company and the insurance company in connection with the fuel leak from the ship.
-
-It is reported that the Maritime Environmental Protection Authority is in the process of paying compensation for the incident.
-
-Recently, a fuel leak has been reported as an Indian company has arrived at the Colombo port for repair.
-
-The Maritime Environmental Protection Authority said that the ship -owned company has also agreed to accept the mistake and pay compensation.
-
-Meanwhile, the Colombo Magistrate's Court has taken steps to impose a travel ban to prevent the Indian ship's captain from leaving the country.R
-
-◼️
-
-[Data](articles/15246d3e.json)
-
-[Extended Data](ext_articles/15246d3e.ext.json)
-
----
-
-### Once Bitten, Twice Shy; But It Takes Two To Tango!
-
-*2024-05-30 09:57:20* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/once-bitten-twice-shy-but-it-takes-two-to-tango/) · `en`
-
-The age-old adage “Once Bitten, Twice Shy” is a well-known and frequently used phrase of admonition that many Sri Lankans, especially those from the middle and upper strata of society, have grown up hearing during their school years. This often-repeated saying typically forms the lower rungs of a “disciplinary ladder” that, for many of us, ended with corporal punishment in the principal’s or headmaster’s office, depending on the title of the chief administrative officer at our respective schools.
-
-However, in the context of this article, the writer uses this phrase with a sense of dread, applying its message to his co-religionists in Sri Lanka—the Sri Lankan Muslim community. Once again, this community finds itself entangled in domestic and regional political intrigue. Their cultural and religious practices, along with the supposed geopolitical implications attributed to them by external experts and academics, have been dissected, discussed, and occasionally maligned in public forums.
-
-...
-
-[Data](articles/e231c35b.json)
-
-[Extended Data](ext_articles/e231c35b.ext.json)
-
----
-
-### Reyaz Mihular chairman of Sri Lanka’s Watawala Plantations
-
-*2024-05-30 09:49:00* · [`economynextcom`](https://economynext.com/reyaz-mihular-chairman-of-sri-lankas-watawala-plantations-165410/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Watawala Plantations Plc said Reyaz Mihular, a chartered accountant, has been appointed chairman, succeeding Sunil G Wijesinha who held the position for 12 years.
-
-Mihular was Managing Partner of KPMG Sri Lanka and Maldives from 2012 to 2022 and chaired KPMG’s Middle East and South Asia Regional Cluster, where he also acted as Chief Operating Officer.
-
-He holds directorships at various public listed companies, including Watawala Plantations and Sunshine Holdings.
-
-He is a Commissioner at the Colombo Port City Economic Commission and a member of the Stakeholder Engagement Committee of the Central Bank of Sri Lanka.
-
-Outgoing Chairman Wijesinha has served on the boards of both Watawala Plantations and Watawala Dairy Ltd. In September 2023, he was honoured with the ‘Order of the Rising Sun’ by the Government of Japan, in recognition of his contribution to strengthening economic relations and promoting mutual understanding between Japan and Sri Lanka.
-
-...
-
-[Data](articles/19a4499a.json)
-
-[Extended Data](ext_articles/19a4499a.ext.json)
-
----
-
-### Palitha's statement is taking over the defeat
-
-*2024-05-30 09:48:13* · [`adalk`](https://www.ada.lk/breaking_news/පාලිතගේ-ප්‍රකාශය-පරාජය-‍භාර-ගැනීමක්/11-409903) · `si`
-
-UNP's Palitha Range Bandara suggested postponing the presidential election for two years, citing parliamentary majority and referendum possibilities. This move is seen as a strategic step to strengthen the Ranil Alliance, according to UNP Executive Member KD Lal Kantha.
-
-🟩
-
-UNP General Secretary Palitha Range Bandara said that if the presidential election could be postponed in two years, the UNP's Executive Member KD Mr. Lal Kantha said.
-
-Mr. Lal Kanthe said this after the media was held in the face of a vehicles sticks of the Kundasale electorate in the Kundasale electorate.
-
-"If you do it, there is a two-thirds power in Parliament. Also, there is a referendum. This pitcher has been released. And that means that the presidential election cannot be forwarded to the general election and win them. That weak was Range Bandara came out of the mouth. We see this statement as a rescue of Ranil Alliance. "
-
-◼️
-
-[Data](articles/85005175.json)
-
-[Extended Data](ext_articles/85005175.ext.json)
 
 ---

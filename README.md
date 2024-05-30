@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-30 17:18:49**
+As of **2024-05-30 17:34:22**
 
 ## Newspaper Stats
 
@@ -26,43 +26,57 @@ adaderanasinhalalk | 4,371
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,341 (100.0%) of 27,344 articles have been extended.
+27,344 (100.0%) of 27,344 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-30 (Thursday)
 
-### අස්වැසුම ගැන අලුත්ම ආරංචියක්
+### Latest news on revenue
 
 *2024-05-30 17:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197187) · `si`
 
-අස්වැසුම ප්‍රතිලාභීන් තෝරාගැනීමේදී දරිද්‍රතාවය නිවැරදිව හඳුනාගැනීම සඳහා, පරීක්ෂා කර බලා තීරණය කළ හැකි නිර්ණායක වලට මූලිකත්වය ලබා දී කටයුතු කරන ලෙස සුබසාධක ප්‍රතිලාභ මණ්ඩලයේ නිලධාරීන් වෙත රජයේ මුදල් පිළිබඳ  කාරක සභාව විසින් උපදෙස් ලබාදී තිබේ.
+The Committee on Government Finance has directed the Welfare Board to improve its methods for identifying and addressing poverty. This includes ensuring accurate identification of beneficiaries and correcting any issues in the selection process. The Ministry of Finance plans to update the criteria for selecting recipients of welfare benefits. These changes were discussed during a parliamentary meeting where amendments to the Welfare Benefit Act were considered.
 
-එහිදී උදාහරණ දක්වමින් කාරක සභාව පෙන්වා දී ඇත්තේ නිවෙස් වල පරිභෝජනය කල විදුලි එකක ප්‍රමාණය මත විදුලි බිපත මගින් වඩාත් හොඳින් පුද්ගල දරිද්‍රතාවය හඳුනා ගත හැකි බවය.
+🟩
 
-මේවනවිට අස්වැසුම ප්‍රතිලාභීන් තෝරාගැනීමේදී භාවිතකරන නිර්ණායකවල විශාල ගැටලු පවතින බව සහ විධිමත්බවක් නොමැති බව පෙන්වා දුන් කාරක සභාව ඒවා හැකි ඉක්මණින් නිවැරදි කිරීමට කටයුතු කරන ලෙසටද උපදස් ලබාදී ඇත.
+The Committee on Government Finance has instructed the Welfare Board officials to accurately identify the poverty and determine the poverty, to accurately identify the poverty and determine poverty.
 
-එහිදී  මුදල් අමාත්‍යාංශයේ නිලධාරීන් පවසා ඇත්‌තේ අස්වැසුම ප්‍රතිලාභීන් තෝරාගැනීමේදී දැනට භාවිතකරන ලකුණු ලබාදීමේ ක්‍රමවේදය ද ඉදිරියේ දී වෙනස් කිරීමට කටයුතු කරන බවය.
+For example, the Committee has pointed out that the electricity bodies can be identified by the electricity bodies of a power consumed.
 
-පාර්ලිමේන්තු මන්ත්‍රී හර්ෂ ද සිල්වා මහතාගේ සභාපතීත්වයෙන් රජයේ මුදල් පිළිබඳ කාරක සභාව පසුගියදා (28) වනදා පාර්ලිමේන්තුවේ රැස්වූ අවස්ථාවේදී මෙම නිර්දේශ ලබා දී තිබුණි.
+The committee, which has shown that there is no formal problems in selecting reward beneficiaries, the committee, which is used in the selection and the lack of proper problems, has been instructed to correct them as soon as possible.
+
+The officials of the Ministry of Finance have said that the methodology of providing the present marks will also be changed to the selection of revenue beneficiaries.
+
+The recommendations had been issued when the Committee on Finance Meeting was presented in parliament yesterday (28).
 
 ...
 
 [Data](articles/bbbfbce7.json)
 
+[Extended Data](ext_articles/bbbfbce7.ext.json)
+
 ---
 
-### பல்கலைக்கழக ஊழியர்களை பணிக்குத் திரும்ப பணிப்பு
+### Work to return university staff to work
 
 *2024-05-30 17:01:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல்கலைக்கழக-ஊழியர்களை-பணிக்குத்-திரும்ப-பணிப்பு/175-338163) · `ta`
 
-நாட்டைக் காக்கும் நாளைய தலைவர்களின் எதிர்காலம் கருதி தொழிற்சங்க நடவடிக்கைகளில் ஈடுபட்டுள்ள அனைத்துத் தரப்பினரையும் உடனடியாகப் பணிக்குத் திரும்புமாறு பல்கலைக்கழக மானியங்கள் ஆணைக்குழுத் தலைவர் பணித்துள்ளார்.
+The University Grants Commission Chairman has called for an end to the ongoing strike by university staff, urging them to resume work and address salary disputes. The Chairman's letter highlights the impact of the strike on students' education and emphasizes the importance of fulfilling national responsibilities. Despite the Chairman's plea, a joint committee of university unions has stated they won't cease their actions until their demands are met.
 
-சம்பள முரண்பாடுகளைத் தீர்த்தல் உட்படப் பல்வேறு கோரிக்கைகளை முன் வைத்து இம்மாதம் இரண்டாம் திகதி முதல் தொடர்ச்சியான வேலை நிறுத்தத்தில் ஈடுபட்டுள்ள பல்கலைக்கழக நிர்வாக உத்தயோகத்தர்கள் மற்றும் போதனைசாராப் பணியாளர்களை உடனடியாகப் பணிக்குத் திரும்பப் பணித்து அந்தந்தத் தொழிற்சங்கங்களின் தலைவர்களுக்குப் பல்கலைக்கழக மானியங்கள் ஆணைக்குழுத் தலைவர் சிரேஷ்ட பேராசிரியர் சம்பத் அமரதுங்க அனுப்பி வைத்துள்ள கடிதத்திலேயே இந்தப் பணிப்புரையை விடுத்துள்ளார்.
+🟩
+
+The Chairman of the University Grants Commission has asked all the parties involved in the trade union activities for the future of the day to protect the country.
+
+The University Grants Commission Chairman Professor Sampath Aratunga has issued a letter to the leaders of the university subsidies commission to immediately work for the university administrators and teaching staff who have been on strike from the second day of this month, including the resolution of pay conflicts.
+
+In the letter, a number of university's union and non -teaching unions have been protesting for the past 27 days, including their salary conflict.. Many Cabinet papers have been prepared by the University Grants Commission and submitted by the Ministry of Education on the instructions of the Ministry of Education.
 
 ...
 
 [Data](articles/3117652f.json)
+
+[Extended Data](ext_articles/3117652f.ext.json)
 
 ---
 
@@ -83,6 +97,8 @@ When the American Airlines staffer approached them before take-off, ordering the
 ...
 
 [Data](articles/2e41bdd6.json)
+
+[Extended Data](ext_articles/2e41bdd6.ext.json)
 
 ---
 

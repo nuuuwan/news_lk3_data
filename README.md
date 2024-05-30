@@ -1,21 +1,21 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-30 18:24:29**
+As of **2024-05-30 18:35:04**
 
 ## Newspaper Stats
 
-*Scraped **27,356** Articles*
+*Scraped **27,358** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 242
 dbsjeyarajcom | 267
-bbccomsinhala | 271
+bbccomsinhala | 272
 newsfirstlk | 363
 islandlk | 1,477
 economynextcom | 1,567
 dailyftlk | 1,601
-adalk | 2,332
+adalk | 2,333
 adaderanalk | 3,118
 tamilmirrorlk | 3,211
 virakesarilk | 4,210
@@ -26,25 +26,31 @@ adaderanasinhalalk | 4,373
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,354 (100.0%) of 27,356 articles have been extended.
+27,356 (100.0%) of 27,358 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-30 (Thursday)
 
-### ඩොලර් බිලියන 1ක ආයෝජන ඉලක්කය සපුරා අවසන්
+### $ 1 billion investment goal is completed
 
 *2024-05-30 18:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197189) · `si`
 
-ශ්‍රී ලංකා ආයෝජන මණ්ඩලය 2024 වසර සඳහා වූ අමෙරිකානු ඩොලර් බිලියන 1ක ආයෝජන ඉලක්කය මෙම වසරේ පළමු කාර්තුවේදීම සපුරාගෙන ඇති බව රාජ්‍ය අමාත්‍ය දිලුම් අමුණුගම පවසයි.
+Sri Lanka's Board of Investment secured $1 billion in investments for 2024, including $820 million from Parliament members and $320 million from other contracts.
 
-ඒ මහතා මේ බව පැවසුවේ ශ්‍රි ලංකා ආයෝජන මණ්ඩලය සමග ආයෝජන ගිවිසුම්ගත වූ ආයෝජකයින් සමග ඔවුන්ගේ ව්‍යාපාර පිළිබඳ පසුවිපරම් කිරීම සඳහා පැවති සාකච්ජාවකදීය.
+🟩
 
-එහිදී වැඩිදුරටත් අදහස් දැක්වූ රාජ්‍ය අමාත්‍යවරයා සඳහන් කළේ අදානි සමාගම ඩොලර් මිලියන 820 ක ආයෝජනයක්ද අනෙකුත් ව්‍යාපාර තවත් මිලියන 320ක් ද මේ වනවිටත් ආයෝජන මණ්ඩලය සමග ගිවිසුම්ගතකොට ඇති බවය.
+The Board of Investment of Sri Lanka has met US $ 1 billion to invest in the year 2024 this year, State Minister Dilum Amunugama.
+
+He was speaking at a discussion with the Board of Investment (BOI) with investment engaged investors.
+
+Speaking further the public minister said that the Minister of Parliament has an investment of $ 820 million and another 320 million others have already contracted by the Board of Investment.
 
 ◼️
 
 [Data](articles/a57b97b8.json)
+
+[Extended Data](ext_articles/a57b97b8.ext.json)
 
 ---
 
@@ -67,6 +73,8 @@ Sri Lanka was also planning to send a delegation to meet Russian defense officia
 ...
 
 [Data](articles/de8f91f6.json)
+
+[Extended Data](ext_articles/de8f91f6.ext.json)
 
 ---
 
@@ -1356,6 +1364,24 @@ The petitioner has alleged that the former President has committed contempt of c
 
 ---
 
+### ඉතිහාසයේ ලැබෙන ඓතිහාසිකම ජනවරම මෙවර රනිල් වික්‍රමසිංහට
+
+*2024-05-30 13:22:24* · [`adalk`](https://www.ada.lk/breaking_news/ඉතිහාසයේ-ලැබෙන-ඓතිහාසිකම-ජනවරම-මෙවර-රනිල්-වික්‍රමසිංහට/11-409914) · `si`
+
+ලංකා ඉතිහාසයේ ලැබෙන ඓතිහාසිකම ජනවරම මෙවර රනිල් වික්‍රමසිංහ මහතාට ලැබෙන බවත් ඒ වෙනුවෙන් සමස්ථ ශ්‍රී ලාංකික මහජනතාව මේ වනවිටත් පෙළ ගැසී සිටින බවත් එක්සත් ජාතික පක්ෂ සභාපති, පාර්ලිමේන්තු මන්ත්‍රී වජිර අබේවර්ධන මහතා අවධාරණය කළේය.
+
+එසේම දේශපාලන පක්ෂවලට හසුවූ මහජනතාව දැන් එතැනින් ඉවත් වෙමින් සිටින බවත් ඒ නිසාම දේශපාලන පක්ෂ විවිධ සටන් පාඨ නිර්මාණය කරමින් මහජනතාව නොමග යැවීමට උත්සාහ කරමින් සිටින බවත් මේ ගැන රටේ සමස්ථ මහජනතාව කල්පනාවෙන් සහ අවබෝධනයෙන් ක්‍රියාකළ යුතු බවත් ඒ මහතා වැඩිදුරටත් ප්‍රකාශ කළේය.
+
+අවේබර්ධන මහතා මෙම අදහස් ප්‍රකාශ කළේ අද (30) ගාල්ල උළුවිටිකේ එක්සත් ජාතික පක්ෂ ප්‍රධාන කාර්යාලයේ පැවැති මාධ්‍ය හමුවකට එක්වෙමිනි.
+
+විශේෂයෙන් ආණ්ඩුක්‍රම ව්‍යවස්ථාව අනුව ඔක්තෝබර් මාසයේ 17 වෙනිදාට පෙර ජනාධිපතිවරණය පවත්වන බව ජනාධිපතිවරයා විසින්ම කැබිනට් මණ්ඩලයටත්, අනෙකුත් අත්‍යවශ්‍ය ස්ථානවලටත් ප්‍රකාශ කොට තිබෙනවා. ඒ වගේම අග්‍රාමාත්‍යවරයාත් එම ප්‍රකාශයම සිදුකොට තිබුණා. එසේනම් ඔක්තෝබර් 17 වෙනිදාට ප්‍රථම ජනාධිපතිවරණය ශ්‍රී ලංකාව තුළ පැවත්වෙනවා. එය ස්ථීරයි, ඒ ගැන කිසිඳු ප්‍රශ්නයක් නැහැ.
+
+...
+
+[Data](articles/0b60b15f.json)
+
+---
+
 ### Higher water level recorded in Mahaweli Ganga, those in Kandy requested to be vigilant
 
 *2024-05-30 13:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Higher-water-level-recorded-in-Mahaweli-Ganga-those-in-Kandy-requested-to-be-vigilant/108-283693) · `en`
@@ -2216,6 +2242,28 @@ In addition, the investigation into the incident has been sent to the Secretary 
 
 ---
 
+### රොෂේන් චානක: කම්කරුවන් වෙනුවෙන් දිවි දුන් පුතුට යුක්තිය සොයන මවගේ ඉල්ලීම
+
+*2024-05-30 11:19:34* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c511pynzdneo) · `si`
+
+රොෂේන් චානක: කම්කරුවන් වෙනුවෙන් දිවි දුන් පුතුට යුක්තිය සොයන මවගේ ඉල්ලීම
+
+මීට වසර දහතුනකට පෙර අදවන් දිනක කටුනායක නිදහස වෙළඳ කලාප වැඩ බිම අරගල භූමියක් බවට පත් වුයේ එවක ජනපති මහින්ද රාජපක්ෂගේ නායකත්වයෙන් යුත් රජය විසින් සේවක අර්ථසාධක අරමුදල කප්පාදු කර, විශ්‍රාම වැටුප් ක්‍රමයක් ඉදිරිපත් කිරීමට ගෙන එන ලද යෝජනාවට එරෙහිව ය.
+
+එම යෝජනාව “අර්ථසාධක අරමුදල කොල්ලකෑමට ගන්නා උත්සාහයක්” ලෙස චෝදනා කරමින් දින කිහිපයක් තිස්සේ රට පුරා කම්කරුවන් විරෝධය දැක්වු අතර පැවති විරෝධයන්ට රජය පාර්ශවයෙන් පිළිගත හැකි විසඳුමක් නොලැබීම හේතුවෙන් 2011 මැයි මස 30 වැනිදා රජයට එරෙහි විරෝධය  තීව්‍ර කරමින් කටුනායක නිදහස් වෙළඳ කලාප සේවකයන් වැඩ වරමින් වීදී සටනක් ආරම්භ කළහ.
+
+නිරායුධ කම්කරුවන්ගේ එම විරෝධතාවට පොලිසිය විසින් වෙඩි තැබූ  අතර කම්කරුවන් 400ක්  පමණ එහිදී  තුවාල සිදු විය.
+
+එම සටන්කරුවන් අතර සිටි රොෂේන් ශානක නිදහස් වෙළඳ කලාප සේවයට ගොස් ගතව තිබුණේ  හාර මාසයක් පමණි.
+
+එදින වෙඩි තැබීමෙන් තුවාල ලබා  රෝහල් ගත කළ ඔහු දෙදිනකට පසුව මිය ගිය අතර පසුව රජය තම විශ්‍රාම වැටුප් යෝජනාව හකුලා  ගත්තේය.
+
+...
+
+[Data](articles/573d95b9.json)
+
+---
+
 ### Test cricket
 
 *2024-05-30 11:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197175) · `si`
@@ -2297,55 +2345,5 @@ In the 15 years since 2009, the Tamil people and the Tamil nationalist politicia
 [Data](articles/1e9981db.json)
 
 [Extended Data](ext_articles/1e9981db.ext.json)
-
----
-
-### A warning of the rivers
-
-*2024-05-30 10:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197174) · `si`
-
-Heavy rains in the central hills have caused rising water levels in the Mahaweli, Gunanga, Black Ganga, Kinanga, and Nilwala Rivers, posing a flood risk. The Irrigation Department warns of potential dangers from sudden, heavy rainfall, emphasizing the importance of public awareness to mitigate damage, especially in urban areas where immediate action is crucial.
-
-🟩
-
-The water level of the Mahaweli River has increased due to heavy rains in the central hills.
-
-Its Hydrology and Disaster Management Division, Engineer S. P. C. Mr. Sugshwara says that the water levels in the Mahaweli River and the waters of the upper areas of the river and the water levels on the rise.
-
-Meanwhile, the river levels of the Gunanga, the Black Ganga, the Kinanga, the Black Ganga and Nilwala River have increased.
-
-It is reported that there is a risk of rising river floods if heroes will be rained.
-
-The Irrigation Department does notice that the masses should be more concerned with the inclement weather.
-
-...
-
-[Data](articles/42bcabd7.json)
-
-[Extended Data](ext_articles/42bcabd7.ext.json)
-
----
-
-### Documentary screening on the theme of lakes of the story of the Jaffna Public Library
-
-*2024-05-30 10:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/184824) · `ta`
-
-A documentary titled "Lake Memories of the Jaffna Public Library," directed by P. Sobhidarman, screened at the Jaffna Public Library Auditorium. The event featured discussions on the library's history, its destruction during the Black July, and the impact on public displacement. Attendees included political figures, academics, religious leaders, journalists, and artists, highlighting the significance of preserving cultural heritage.
-
-🟩
-
-A documentary screening and discussion was held on Wednesday evening at the Auditorium of the Jaffna Public Library on the theme of the Lake and Memories of the Jaffna Public Library.
-
-Directed by Director P. Sobhidarman, the documentary film is under the theme of Lake Memories of the Jaffna Public Library.
-
-The event was attended by Tamil National People's Front Member of Parliament, S. Gajendran, Dean of the University of Jaffna, Ma Raghuram, Tawatru Velan Swamis, Chief Editor of the former Eelam Nuncture Magazine, Literature, Tamil Civil Society Youth, Youth Representatives and Artists.
-
-Although the Jaffna Public Library was launched in the period from 1981 to 1986, the constructive comments on the destruction and the destruction of the shops, the destruction of the black July, and the public displacements and the destruction of the public, were discussed.
-
-◼️
-
-[Data](articles/892e06b8.json)
-
-[Extended Data](ext_articles/892e06b8.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-30 08:10:51**
+As of **2024-05-30 08:20:26**
 
 ## Newspaper Stats
 
-*Scraped **27,209** Articles*
+*Scraped **27,211** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,59 @@ adaderanalk | 3,097
 tamilmirrorlk | 3,191
 virakesarilk | 4,186
 dailymirrorlk | 4,297
-adaderanasinhalalk | 4,353
+adaderanasinhalalk | 4,355
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,208 (100.0%) of 27,209 articles have been extended.
+27,208 (100.0%) of 27,211 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-30 (Thursday)
+
+### ඉන්ධන කාන්දුවූ නෞකාව සමුද්‍රීය පරිසර ආරක්ෂණ අධිකාරිය භාරයට ගනී
+
+*2024-05-30 07:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197171) · `si`
+
+කොළඹ වරායේ නැංගුරම්ලා තිබිය දී ඉන්ධන කාන්දුවක් සිදුවූ නෞකාව සිය භාරයට ගෙන ඇති බව සමුද්‍රීය පරිසර ආරක්ෂණ අධිකාරිය පවසයි.
+
+එහි ප්‍රකාශකයෙකු සඳහන් කළේ අදාළ නෞකාවෙන් සිදුවූ ඉන්ධන කාන්දුව සම්බන්ධයෙන් එම නෞකාව අයත් සමාගමට සහ රක්ෂණ සමාගමට එරෙහිව නීතිමය ක්‍රියාමාර්ග ගෙන ඇති බවය.
+
+සමුද්‍රීය පරිසර ආරක්ෂණ අධිකාරි පනත යටතේ අදාළ සිදුවීම සම්බන්ධයෙන් වන්දි මුදලක් ලබාගැනීමට කටයුතු කරමින් සිටින බව සඳහන් ය.
+
+අලුත්වැඩියා කටයුත්තක් සඳහා පසුගියදා කොළඹ වරායට පැමිණි ඉන්දීය සමාගමකට අයත් නෞකාවකින් ඉන්ධන කාන්දුවක් සිදුවන බවට තොරුතුරු වාර්තා වී තිබුණි.
+
+ඒ අනුව සමුද්‍රීය පරිසර ආරක්ෂණ අධිකාරිය විසින් ඒ සම්බන්ධයෙන් විශේෂ විමර්ශනයක් සිදුකර ඇති අතර එහිදී හයිඩ්‍රොලික් තෙල් කාන්දුවීමක් නෞකාවෙන් සිදුවී ඇති බවට අනාවරණය කරගෙන තිබේ.
+
+නෞකාව අයත් සමාගම ද අදාළ වරද පිළිගෙන ඇති අතර ඒ සඳහා වන්දි මුදලක් ලබාදීමට එකඟතාව පළ‍කර ඇති බව සමුද්‍රීය පරිසර ආරක්ෂණ අධිකාරිය සඳහන් කළේය.
+
+මේ අතර එම ඉන්දීය නෞකාවේ කපිතාන්වරයාට රටින් පිටුවීම වළක්වාලමින් විදෙස් ගමන් තහනමක් පැනවීමට කොළඹ මහෙස්ත්‍රාත් අධිකරණය පියවර ගෙන තිබේ.
+
+...
+
+[Data](articles/7efdfb20.json)
+
+---
+
+### කොළඹ කුණු ඇළක කාන්තා මළසිරුරක්
+
+*2024-05-30 07:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197170) · `si`
+
+කොළඹ ප්‍රදේශයේ කුණු ඇළක තිබී කාන්තා මළසිරුරක් හමුවී ඇතැයි පොලීසිය පවසයි.
+
+ග්‍රෑන්ඩ්පාස් පොලිස් වසමේ ස්ටේස්පුර ප්‍රදේශයේ මෙලෙස කාන්තා මළසිරුරක් ඇති බවට ඊයේ (29) දහවල් පොලීසියට ලද ඇමතුමක් අනුව එය සොයාගෙන තිබුණි.
+
+ඇයගේ අනන්‍යතාව මෙතෙක් හෙළිවී නොමැති අතර මෘතශරීරය කොළඹ ජාතික රෝහලේ තැන්පත් කර ඇත.
+
+මියගොස් ඇත්තේ අවුරුදු 45ත් 50ත් අතර වයසේ පසුවන උස අඩි 4යි අඟල් 09ක් පමණ වන තැනැත්තියකි.
+
+◼️
+
+[Data](articles/ae0c63f0.json)
+
+---
 
 ### Four major national sports federations temporarily suspended
 
@@ -42,7 +84,7 @@ The Extraordinary Gazette also appoints the Director General of the Department o
 
 “The Government maintains that it will not appoint any interim committees for any sport federation,” Sports Minister Harin Fernando said, in a post on ‘X’ (formerly Twitter).
 
-◼️
+...
 
 [Data](articles/3e85da9c.json)
 
@@ -2245,41 +2287,5 @@ In this case, his 11 -year -old elder child caught the company as he was involve
 [Data](articles/6c78a7f3.json)
 
 [Extended Data](ext_articles/6c78a7f3.ext.json)
-
----
-
-### Sri Lanka central bank gets IFC, World Bank help to focus on green finance
-
-*2024-05-29 16:04:00* · [`economynextcom`](https://economynext.com/sri-lanka-central-bank-gets-ifc-world-bank-help-to-focus-on-green-finance-165302/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Central Bank has entered into a cooperation agreement with the International Finance Corporation (IFC) and the World Bank Group, to obtain technical and financial assistance to focus on green finance.
-
-This will help to update its Roadmap for Sustainable Finance, Green Finance Taxonomy, and also to expand the focus of the National Financial Inclusion Strategy Phase II, by including inclusive green finance with an emphasis on export-oriented SMEs, the central bank said.
-
-The program is partially financed by the European Union’s Accelerating Climate-Smart and Inclusive Infrastructure in South Asia Program which supports sustainable private sector development. (Colombo/May29/2024)
-
-◼️
-
-[Data](articles/0728f77b.json)
-
-[Extended Data](ext_articles/0728f77b.ext.json)
-
----
-
-### President says presidential election to be held as planned
-
-*2024-05-29 16:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/President-says-presidential-election-to-be-held-as-planned/108-283619) · `en`
-
-Colombo, May 29 - President Ranil Wickremesinghe said that the presidential election will definitely be held in the future and financial allocations have already been allocated for it.
-
-While joining the "What's New" workshop held at the President's office on legal reform with young legal professionals, the President said that that none of the candidates aspiring to run in the presidential election have announced their intention to abolish the executive powers associated with the position.
-
-The President highlighted the dual nature of the executive presidential system, noting its advantages and disadvantages. He emphasized that the executive power vested in the presidency played a pivotal role in the economic development of Sri Lanka and the resolution of the 30-year war.
-
-◼️
-
-[Data](articles/33af2dc6.json)
-
-[Extended Data](ext_articles/33af2dc6.ext.json)
 
 ---

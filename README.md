@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-30 12:34:19**
+As of **2024-05-30 12:51:56**
 
 ## Newspaper Stats
 
-*Scraped **27,261** Articles*
+*Scraped **27,269** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,70 @@ economynextcom | 1,560
 dailyftlk | 1,601
 adalk | 2,318
 adaderanalk | 3,105
-tamilmirrorlk | 3,197
+tamilmirrorlk | 3,202
 virakesarilk | 4,194
-dailymirrorlk | 4,308
+dailymirrorlk | 4,311
 adaderanasinhalalk | 4,359
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,261 (100.0%) of 27,261 articles have been extended.
+27,261 (100.0%) of 27,269 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-30 (Thursday)
+
+### Sri Lanka Electricity Bill to be taken up for debate in Parliament next week
+
+*2024-05-30 12:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-Electricity-Bill-to-be-taken-up-for-debate-in-Parliament-next-week/108-283687) · `en`
+
+Colombo, May 30 (Daily Mirror)- Party leaders decided to take up the second reading debate on the Sri Lanka Electricity Bill next week, Communications Department of Parliament said.
+
+The decision was taken by the Committee on Parliamentary Business which met under the chairmanship of Speaker Mahinda Yapa Abeywardena.
+
+Accordingly, the debate will be held on June 6, 2024 from 10.30 am to 5.00 pm.
+
+The Sri Lanka Electricity Bill includes proposed electricity sector reforms and provides for greater participation of the private sector in the power sector.
+
+◼️
+
+[Data](articles/a2331e3d.json)
+
+---
+
+### மீன்களின் விலை எகிறியது
+
+*2024-05-30 12:20:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீன்களின்-விலை-எகிறியது/175-338146) · `ta`
+
+அம்பாறை மாவட்டத்தின் பெரிய நீலாவணை, கல்முனை ,  மருதமுனை,பாண்டிருப்பு, பெரியநீலாவணை, நிந்தவூர் ,அட்டாளைச்சேனை, ஒலுவில், அக்கரைப்பற்று, தம்பிலுவில், பொத்துவில், பகுதிகளில் உள்ள   மீனவர்கள் மற்றும் கடல்சார் ஊழியர்கள் ரிமால் புயல் தொடர்பில்   அவதானமாக செயற்படுமாறு அறிவுறுத்தப்பட்டுள்ளனர்.
+
+பலத்த காற்று மற்றும் கடல் ​கொந்தளிப்பு தொடர்பில் அண்மைக்காலமாக  வளிமண்டலவியல் திணைக்களம்   எச்சரிக்கை விடுத்துள்ளமை குறிப்பிடத்தக்கது.
+
+இதனால் மீன்களின் விலைகள் அதிகரித்துள்ளதுடன் சந்தைகளும் மீன்கள் இன்மையால் மூடி காணப்படுகின்றன.குறித்த மாவட்டத்தின் பெரிய நீலாவணை  முதல் பொத்துவில்  பகுதி வரையுள்ள கடற்பரப்பு   உள்ளிட்ட கடற்பிராந்தியத்தில் மீன்களின் பிடிபாடு பெருமளவில் குறைவடைந்துள்ளது.
+
+...
+
+[Data](articles/21989a82.json)
+
+---
+
+### ஆசிரியர்கள், அதிபர்கள் சுகயீன விடுமுறை
+
+*2024-05-30 12:06:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆசிரியர்கள்-அதிபர்கள்-சுகயீன-விடுமுறை/175-338141) · `ta`
+
+நாடளாவிய ரீதியில் இரண்டு நாள் சுகயீன விடுமுறைப் போராட்டத்தை இன்று  முதல் ஆரம்பிக்கவுள்ளதாக தேசிய ஆசிரியரின் சக்தி தீர்மானித்துள்ளது.
+
+பாடசாலை அதிபர்கள், ஆசிரியர்களின் சம்பள முரண்பாடுகளை தீர்க்க அரசாங்கத்தை வலியுறுத்தியே தேசிய ஆசிரியரின் சக்தி இதை முன்னெடுக்கவுள்ளது.
+
+இந்நிலையில் இலங்கை ஆசிரியர்களின் சங்கச் செயலாளர் ஜோசப் ஸ்டாலின், இலங்கை ஆசிரியர் சேவைகள் சங்க பொதுச் செயலாளர் மஹிந்த ஜயசிங்க ஆகியோர் தாங்கள் இன்று ஆரம்பமாலும் இந்த இரண்டு நாள் போராட்டத்தில் ஈடுபடவில்லை எனக் கூறியுள்ளனர்.
+
+◼️
+
+[Data](articles/154b6198.json)
+
+---
 
 ### To find out to find the murder of Paliya Ranjitha and allowed to eat the murder?
 
@@ -78,6 +128,32 @@ Despite these positive trends, ADIC states that approximately 1.5 million people
 
 ---
 
+### Person dies after ‘falling into running plane engine
+
+*2024-05-30 11:50:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Person-dies-after-falling-into-running-plane-engine/107-283686) · `en`
+
+Amsterdam, May 30, (ABC) - A person has died after falling into a running aircraft engine at Amsterdam's Schiphol airport, police say.
+
+Dutch military police are investigating the incident, which happened on Wednesday and involved a person ending up in the engine of a KLM airlines Embraer jet plane which was about to take off on a flight for Denmark.
+
+It is not known if the incident was an accident or suicide, a spokesperson for the military police, the Marechaussee, told Reuters.
+
+All passengers and crew onboard the plane were safely removed and are being supported.
+
+"Our thoughts go out to the [deceased's] relatives, and we care for the passengers and colleagues who saw this," the airport said in a statement.
+
+KLM, which is part of France-KLM, said it was investigating the event.
+
+A statement read: "A fatal incident took place at Schiphol today during which a person ended up in a running aircraft engine.
+
+"Sadly, this person has died. The flight concerned was KL1341 bound for Billund.
+
+...
+
+[Data](articles/2c72f8f5.json)
+
+---
+
 ### US to boycott UN tribute to Iran leader killed in helicopter crash
 
 *2024-05-30 11:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/99531/us-to-boycott-un-tribute-to-iran-leader-killed-in-helicopter-crash) · `en`
@@ -97,6 +173,80 @@ Raisi, a hardliner who had been seen as a potential successor to Supreme Leader 
 [Data](articles/4a7e1647.json)
 
 [Extended Data](ext_articles/4a7e1647.ext.json)
+
+---
+
+### மூக்குத்தி குத்தியோருக்கு மட்டும்
+
+*2024-05-30 11:42:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மூக்குத்தி-குத்தியோருக்கு-மட்டும்/175-338140) · `ta`
+
+நகைகள் என்றால் ஆசையே இல்லாத பெண்கள் இருக்கவே மாட்டார்கள். அதிலும், தங்க நகைகள் என்றால் சொல்லவா வேண்டும். பிறந்த நாள் முதல், ஆடி 18 வரையும் நகைகள்தான் கேட்பார்கள் பரிசாக,
+
+அவ்வாறான கதைகளை கேட்க, பேருந்து நிலையங்கள், வைத்தியசாலைகள் மற்றும் பாடசாலைகளுக்கு முன்பாக நின்றுக்கொண்டிருக்க வேண்டும்.  வியக்கத்தக்க பல கதைகள் கிடைக்கும். நினைத்து நினைத்து சிரிப்பதா? அழுவதா? என மனம் தடுமாறி போய்விடும்
+
+வியாழக்கிழமை (30) நேரம் காலை 8 மணியிருக்கும் பலரும் வரிசையாக நின்றுக்கொண்டிருந்தனர். அவர்கள் அனைவரினதும் கைகளில் வண்ணவண்ண குப்பிகள் இருந்தன. இன்னும் சிலர் அமர்ந்திருந்தனர்.
+
+நாற்காலிகளில் அமர்ந்திருந்தவர்கள் நகர, நகர நின்றிருப்பவர்கள் அமர்ந்துகொள்ளவேண்டும். அனைவரும் ஏதோவொரு நோய்க்கு உள்ளாகியுள்ளனர். இரத்த பரிசோதனைக்காக கொழும்பு தேசிய வைத்தியசாலையில் ஆய்வுக்கூடத்துக்கு வந்திருந்தனர்.
+
+பெரும்பாலும் சிங்களம், தமிழ் மொழிகளில் பேசுபவர்களே இருந்தனர். உறவினர்களுடன் வருகைதராமல், தனித்து வந்த நோயாளர்கள் சில மயங்கி விழுந்துவிட்டனர். ஏனெனில், இரத்த பரிசோதனைக்கு வரும்போது உணவு, ஆகாரம் எதுவுமே உண்ணாமலே வரவேண்டும்.
+
+...
+
+[Data](articles/e0e19bc6.json)
+
+---
+
+### ”அரசியல் பேச தடை”
+
+*2024-05-30 11:35:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/அரசியல்-பேச-தடை/71-338139) · `ta`
+
+யாழ்ப்பாணம் பொது நூலகம் எரிக்கப்பட்டமை தொடர்பிலான ஆவணப்படத்தினை பொது நூலக கேட்போர் கூடத்தில் திரையிட அனுமதி வழங்கும் போது, அரசியல் பேச கூடாது என்ற நிபந்தனையுடன் அனுமதி வழங்கப்பட்டுள்ளது.
+
+குறித்த ஆவண படத்தினை கடந்த 17 வருட காலமாக நூலக கேட்போர் கூடத்தில் திரையிடுவதற்கான முயற்சிகளை பல தரப்பினரும் முன்னெடுத்து வந்த நிலையில் அது சாத்தியமாகவில்லை.
+
+இந்நிலையில், யாழ்.சிவில் சமூக நிலையம் ஊடாக முன்னெடுக்கப்பட்ட முயற்சியில் , ஆவணப்படத்தினை திரையிட அனுமதி வழங்கிய மாநகர சபையினர் , நிகழ்வில் அரசியல் எதுவும் பேச கூடாது என்ற கடுமையான நிபந்தனையுடன் அனுமதி வழங்கியுள்ளனர்.
+
+அதனால் ,நிகழ்வு ஏற்பாட்டாளர்கள் , நிகழ்வு இடம்பெற்ற மண்டபத்தில் ,  “#அனுமதிக்கப்படவில்லை #அரசியலை பேசுதல் ”என எழுதிய பதாகைகளை காட்சிப்படுத்தி இருந்தனர்.
+
+◼️
+
+[Data](articles/e569d08c.json)
+
+---
+
+### GMOA warns of terminal hospital closures if doctor shortage not addressed
+
+*2024-05-30 11:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/GMOA-warns-of-terminal-hospital-closures-if-doctor-shortage-not-addressed/108-283685) · `en`
+
+Colombo, May 30 (Daily Mirror) - If the responsible parties do not intervene in increasing the approved number of doctors for the hospital system in the country, the Government Medical Officers' Association (GMOA) today warned that they will take a decision on the closure of terminal hospitals that are crippled without doctors.
+
+Addressing the media, its media spokesman, Dr. Chamil Wijesinghe, said that the above decision is for the upcoming Central Committee meeting of the GMOA.
+
+"Due the approved number of doctors for the hospital system not being increased, a serious crisis has been created in the hospital system of the country.
+
+"The approved number of doctors should increase compared to the increase in the population of the country and the expansion of the health system in the past, due to various reasons given by the Management Services Department," he said.
+
+...
+
+[Data](articles/45d1c831.json)
+
+---
+
+### 10 வயதான மாணவிகளுடன் துர்நடத்தை: ஆசிரியருக்கு தடை
+
+*2024-05-30 11:19:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/10-வயதான-மாணவிகளுடன்-துர்நடத்தை-ஆசிரியருக்கு-தடை/71-338138) · `ta`
+
+யாழ்ப்பாணத்தில் 10 வயது மாணவிகளுடன் துர்நடத்தையில் ஈடுபட்டதாக குற்றம் சாட்டப்பட்டுள்ள ஆசிரியருக்கு வடமாகாண கல்வி அமைச்சினால் பணித்தடை விதிக்கப்பட்டுள்ளது.
+
+மானிப்பாய் பகுதியில் உள்ள பாடசாலை ஒன்றில் ஆசிரியர் ஒருவர்  , தரம் 05 இல் கல்வி கற்கும்  மாணவிகளுடன் தவறாக நடந்து கொண்டதாக பாதிக்கப்பட்ட மாணவி ஒருவரின் பெற்றோர்களால் பதிவு செய்யப்பட்ட முறைப்பாட்டிற்கு அமைய, ஆசிரியர் கைது செய்யப்பட்டு மல்லாகம் நீதவான் நீதிமன்றில் முற்படுத்தப்பட்டுள்ளார் .
+
+குறித்த ஆசிரியர் தற்போது பிணையில் விடுவிக்கபட்டுள்ள நிலையில்   வழக்கு நிலுவையில் உள்ளதாக தெரிவிக்கப்பட்டுள்ளது .
+
+மேலும் , சம்பவம் தொடர்பில் திணைக்களம் ஊடான விசாரணைகள் முன்னெடுக்கப்பட்டிருந்த நிலையில் , விசாரணை அறிக்கை கல்வி அமைச்சின் செயலாளருக்கு அனுப்பி வைக்கப்பட்டுள்ளதுடன் , ஆசிரியருக்கு தனது பணியினை தொடர தடை விதிக்கப்பட்டு கடிதம் அனுப்பி வைக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/5c3f7259.json)
 
 ---
 
@@ -2071,191 +2221,5 @@ The Magistrate was appointed to report the progress of the investigation into th
 [Data](articles/d4a24eae.json)
 
 [Extended Data](ext_articles/d4a24eae.ext.json)
-
----
-
-### New gazette sheet to take citizenship in Sri Lanka
-
-*2024-05-29 21:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197165) · `si`
-
-Sri Lanka's new gazette regulations allow obtaining permanent residency, including restoring abandoned citizenship and granting visas to foreign spouses and children. The process involves a $1,000 fee for the primary applicant and a $400 fee per child. Citizenship by descent for Sri Lankan-born individuals or those with one Sri Lankan parent is possible after six months of marriage. However, if a marriage ends within five years, the permanent residency status may be revoked.
-
-🟩
-
-The new regulations have been submitted by a gazette that can obtain permanent residence, including the abandoned citizenship of Sri Lanka and foreign hostages.
-
-The Ministry of Defense has published the regulations by a gazette that has been identified as 2024 permanent resident visa.
-
-Accordingly, the citizenship of Sri Lankan origin or a citizenship of Sri Lankan origins or citizenship Act will be held six months after marriage under the new regulations.
-
-The gazette notification indicates that the situation of permanent residents will be automatically undone if marriage canceled five years ago.
-
-A person who is born in the island or still citizens is also known as a Sri Lankan origin.
-
-A primary applicant submitting an application will be charged at $ 1,000 for a Sri Lankan spouse as well as a $ 400 fee for children.
-
-The relevant application has been submitted by the Gazette No. 2383/17 of May 2024.
-
-◼️
-
-[Data](articles/3aab11cc.json)
-
-[Extended Data](ext_articles/3aab11cc.ext.json)
-
----
-
-### Stolen in a bus in bus, who had come to build a video about Sri Lanka
-
-*2024-05-29 21:06:22* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාව-ගැන-වීඩියෝවක්-හදන්න-ආපු-එංගලන්ත-සංචාරිකාවගේ-ඩොලර්-20000ක-දේපළ-බසයකදී-සොරාගෙන/11-409895) · `si`
-
-Sky Nakoman, a Sri Lankan tourist, had her bag containing personal items including a laptop used for her YouTube channel, stolen from a bus in Pettah. The theft occurred when the bus was stopped at a bus stop due to a canceled train. CCTV footage from the bus may aid in the investigation. A reward of US $5,000 has been offered for information leading to the thief's arrest.
-
-🟩
-
-A brief brief in the bus stabbed to the country has been stolen at a bus stop in the bus stop, Pettah, has been stolen at the bus stabbed to the Sri Lankan tourist video.
-
-The laugh torboard came on the bag, bank cards and her passport in the bag.
-
-Sky Nakaman, who has been informed of US $ 5,000, a reward for someone who is looking for someone who is finding or information.
-
-Police investigations have revealed that the bus was stolen at the Fort Railway Bus Stand due to the cancellation of the train and stole the bag.
-
-The woman named Sky Nakomman, who has run a Jabtubub 'chankayman, who runs another Uubtube chankoman, named Uubtube Channeaman.
-
-The CC TV's mounted on the bus is also recorded in the bus.
-
-OIC of the Criminal Investigation Division (CID) OIC Inspector General of Police (DMC) is conducting further investigations on the instructions of OIC of Pettah Police OIC.
-
-◼️
-
-[Data](articles/da3fa9e8.json)
-
-[Extended Data](ext_articles/da3fa9e8.ext.json)
-
----
-
-### “Operation Sajaba” Intends to Deplete  SJB  Through  Large Scale Crossover of MPs to  Ranil  Wickremesingh’s Side..
-
-*2024-05-29 21:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84109) · `en`
-
-Sri Lanka’s  United National Party (UNP) suffered a humiliating electoral defeat in the 2020 Parliamentary elections. Electoral debacles were nothing new to the UNP which is  referred to by some as the grand old party. In 1956 the UNP got only eight seats in a Parliament of 101 MPs. In 1970 the party won 17 seats in a Parliament of 157 MPs.2020 was distinctly  different.  For the first time in its history ,the UNP  failed to get even a single MP elected to Parliament. Mercifully the UNP  polling 249,435 (2.15%)  votes was entitled to a national list MP. Thus the UNP had a single MP in a Parliament of 225 MPs.
-
-...
-
-[Data](articles/ac5f04cb.json)
-
-[Extended Data](ext_articles/ac5f04cb.ext.json)
-
----
-
-### Ninety lawyers maintain those responsible for misconduct involving JICA should step down
-
-*2024-05-29 20:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ninety-lawyers-maintain-those-responsible-for-misconduct-involving-JICA-should-step-down/108-283635) · `en`
-
-Colombo, May 29 (Daily Mirror)- Ten Presidents' Counsels and 80 other members of the Bar Association of Sri Lanka (BASL) have sent a letter to the five-member Inquiry Committee and the BASL Executive Committee maintaining that anyone allegedly responsible for misconduct regarding activities involving the Japan International Cooperation Agency (JICA) and the BASL, who is not inclined to voluntarily resign from their positions in the association, should be required to immediately step down from functioning in any office of the association.
-
-The letter states that this action should be taken pending the conduct of the inquiry and the final determination of the matter.
-
-...
-
-[Data](articles/12ef508c.json)
-
-[Extended Data](ext_articles/12ef508c.ext.json)
-
----
-
-### Coach and Selection Committee Chairman
-
-*2024-05-29 20:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197164) · `si`
-
-Australia clinched the Twenty20 World Cup, defeating opponents with 7 wickets. The team, including stars like Travis Head, Pat Cummins, Glenn Maxwell, Mitchell Starc, Cameron Green, and Marcus Stoinis, trained against Namibia under coaches Justin Langer (head) and Daniel Vettori (support).
-
-🟩
-
-Australia won the players from 7 wickets in the Twenty20 World Cup.
-
-The Australia's World Cup squad participated in the training competition with Namibia, which was the main coach squad and Australia's head-coach and support coach branded coach, Journ Bayilly.
-
-The Australia players of the Australia squad, Travis Hed, Pat Kumins, Glen Maxwell, Mitchell Stark, Cameron Green and Marcus Storenis IPL.
-
-◼️
-
-[Data](articles/879fd8a3.json)
-
-[Extended Data](ext_articles/879fd8a3.ext.json)
-
----
-
-### Bus collision with three wheelers;Woman returned home after three years
-
-*2024-05-29 20:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/184820) · `ta`
-
-A tragic bus collision with a three-wheeler in Belmadulla resulted in injuries, including severe ones to a woman and her child, who had been away from home for three years working in Kuwait.
-
-🟩
-
-The accident occurred when a bus collided with a three -wheeler in Belmadulla area. The three -wheeler left the road in a 15 -foot ditch.
-
-Three passengers, including a woman who were traveling in a three -wheeler, were injured in the accident, police said.
-
-The mother of a 26 -year -old child from Pasarai, who was severely injured, died tragically.
-
-The accident occurred while working in Kuwait for nearly three years and returning home.
-
-◼️
-
-[Data](articles/06d94cbd.json)
-
-[Extended Data](ext_articles/06d94cbd.ext.json)
-
----
-
-### No presidential candidate says that the executive power is canceled - the president
-
-*2024-05-29 20:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/184819) · `ta`
-
-In a speech at the Presidential Secretariat, President Ranil Wickremesinghe discussed the executive presidency system in Sri Lanka, highlighting its advantages and disadvantages. He noted that no presidential candidate has promised to abolish executive power, emphasizing its role in improving the economy and winning the 30-year war. The President also touched on the distribution of executive powers to Provincial Councils and Parliamentary Supervisory Committees. He mentioned various governance systems in Sri Lanka's history, including the English period system, the executive presidency, and the Tonamore system, each with its unique characteristics and challenges. Wickremesinghe stressed the importance of strengthening Parliament and preparing a program to distribute executive powers further among parliamentary bodies.
-
-🟩
-
-President Ranil Wickremesinghe said that no candidate who has come forward to contest the presidential election is saying that he will cancel the executive power.
-
-President Ranil Wickremesinghe pointed out that the executive president's system is accompanied by advantage and disadvantages and that the President's executive power has been able to improve the economy of Sri Lanka and to win 30 years of war.
-
-President Ranil Wickremesinghe made this statement while attending the Presidential Secretariat at the Presidential Office on Tuesday, 28th of the What's New Law Reform with Young Lawyers.
-
-Pointing out that the President should pass the law in charge of parliament and that many of the present executive power have been distributed to the Provincial Councils and Parliamentary Supervisory Committees, he said.
-
-The President said that a presidential election would be held in the coming days and that funds have already been made.
-
-...
-
-[Data](articles/9921b9b4.json)
-
-[Extended Data](ext_articles/9921b9b4.ext.json)
-
----
-
-### Student, students curled up by the heat wave
-
-*2024-05-29 20:08:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெப்ப-அலையால்-சுருண்டு-விழுந்த-மாணவ-மாணவிகள்/175-338118) · `ta`
-
-In India's western and northern regions, a severe heatwave is causing temperatures to soar above 45 degrees Celsius, forcing residents indoors, especially in Delhi, UP, and Bihar. Schools in Shakpura, Bihar, have been affected, with students collapsing due to the heat. Immediate first aid was administered, followed by hospital admissions, sparking concern among locals.
-
-🟩
-
-The western and northern parts of India are in severe heat. The heat wave is so that people cannot get out of the house.
-
-In states like Delhi, UP and Bihar, 45 degrees Celsius. Thus the hot air blows. So it is advised not to come out in the daytime.
-
-In this case, schoolchildren and students were subsequently falary to the impact of a heat wave at a school in Shakpura, Bihar.. This caused a stir.
-
-Students were given water to the first aid and immediately admitted to a nearby hospital. This caused a stir in the area. Remble
-
-◼️
-
-[Data](articles/1c79612a.json)
-
-[Extended Data](ext_articles/1c79612a.ext.json)
 
 ---

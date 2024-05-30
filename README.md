@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-30 13:03:47**
+As of **2024-05-30 13:18:53**
 
 ## Newspaper Stats
 
-*Scraped **27,272** Articles*
+*Scraped **27,281** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,40 +15,100 @@ newsfirstlk | 363
 islandlk | 1,477
 economynextcom | 1,560
 dailyftlk | 1,601
-adalk | 2,318
+adalk | 2,320
 adaderanalk | 3,107
 tamilmirrorlk | 3,202
-virakesarilk | 4,194
+virakesarilk | 4,200
 dailymirrorlk | 4,311
-adaderanasinhalalk | 4,360
+adaderanasinhalalk | 4,361
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,269 (100.0%) of 27,272 articles have been extended.
+27,272 (100.0%) of 27,281 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-30 (Thursday)
 
-### අධිකරණයට අපහාස කළ බවට මෛත්‍රී ට චෝදනාවක්
+### මෝටර් රථ අනතුරකින් සිසුවෙකුට බරපතළයි
+
+*2024-05-30 13:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197178) · `si`
+
+කහතුඩුව වෑතර රෝහල ඉදිරිපිටදී ධාවනය වෙමින් තිබූ මෝටර් රථයක්   නවතා තිබූ ස්කූටරයක සහ මාර්ගයේ ගමන් ගත් සිසුවෙකුගේ ගැටීමෙන්  එම සිසුවා බරපතළ තුවාල ලබා ඇතැයි කහතුඩුව පොලීසිය පවසයි.
+
+අනතුරින් තුවාල ලබා ඇත්තේ වෑතර මහා විද්‍යාලයේ 10 වන වසරේ ඉගෙනුම ලබන 15 හැවිරිදි  සිසුවෙකි.
+
+ස්කූටරය සමග මෝටර් රථය කෙටි දුරක් ඉදිරියට ඇදී ගොස් ඇති අතර‍ පසුව අධිබලැති විදුලි රැහැන් කණුවක ද ගැටී තිබේ.
+
+අනතුරින් බරපතළ තුවාල ලැබූ සිසුවා වෑතර රෝහල වෙත ඇතුළත් කිරීමෙන් අනතුරුව වැඩිදුර ප්‍රතිකාර සඳහා කළුබෝවිල ශික්ෂණ රෝහල වෙත මාරුකර යවා ඇත.
+
+පිළියන්දල දෙස සිට කහතුඩුව දෙසට ධාවනයවෙමින් තිබූ මෝටර් රථයේ දකුණුපස පිටුපස ටයරයේ හුළං යෑම හේතුවෙන් රියදුරුට රථය පාලනය කරගත නොහැකිව අනතුර සිදුවී ඇති බව පැවසෙයි.
+
+සිද්ධිය සම්බන්ධයෙන් 29 හැවිරිදි මෝටර් රථයේ රියදුරාව පොලීසිය විසින් අත්අඩංගුවට ගෙන ඇත.
+
+◼️
+
+[Data](articles/590aa7c7.json)
+
+---
+
+### Maithri accusated that insulted the judiciary
 
 *2024-05-30 12:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197177) · `si`
 
-අධිකරණයට අපහාස කළේ යැයි චෝදනා කරමින් හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතාට එරෙහිව අභියාචනාධිකරණය හමුවේ පෙත්සමක් ගොනු කර තිබේ.
+Maithripala Sirisena, a former President, has filed a petition against himself through Montegu Sarathchandra, accusing him of insulting the judiciary. The case was heard by Judges Nissankala Karunaratne and Shiras Mahendran, who ordered the petitioner's attorney to serve the respondents. This unusual legal action involves Sirisena seeking an injunction against himself as the SLFP Chairman.
 
-ශ්‍රී ලංකා නිදහස් පක්ෂයේ විධායක සභිකයකු වන මොන්ටේගු සරත්චන්ද්‍ර මහතා විසින් පෙත්සම ඉදිරිපත් කර ඇත.
+🟩
 
-පෙත්සම අද අභියාචනාධිකරණයේ සභාපති විනිසුරු නිශ්ශංක බන්දුල කරුණාරත්න සහ ෂශී මහේන්ද්‍රන් යන විනිසුරු මඩුල්ල ඉදිරියේ කැඳවනු ලැබීය.
+Former President Maithripala Sirisena has filed a petition against former President Maithripala Sirisena against the Court of Appeal.
 
-එහිදී මෙම පෙත්සමට අදාළව කරුණු තහවුරු කිරීම සඳහා වගඋත්තරකාර මෛත්‍රීපාල සිරිසේන මහතා වෙත නොතීසි යැවීමට පියවර ගන්නා ලෙසත් අධිකරණය විසින් පෙත්සම්කාර පාර්ශ්වයේ නීතිඥවරයාට නියෝග කළේය.
+The petition was presented by Montegu Sarathchandra, a SLFP Executive.
 
-ශ්‍රී ලංකා නිදහස් පක්ෂයේ සභාපතිවරයා වශයෙන් කටයුතු කිරීම වළක්වාලමින් කොළඹ දිසා අධිකරණය විසින් අතුරු තහනම් නියෝගයක් නිකුත් කර තිබියදී එය උල්ලංඝනය වන ආකාරයෙන් කටයුතු කිරීම තුළින් අධිකරණයට අපහාස කළේ යැයි චෝදනා කොට හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතාට එරෙහිව මෙම පෙත්සම ඉදිරිපත් කර තිබේ.
+The petition was called before the Court of Appeal Judge Nissankala Karunaratne and Shiras Mahendran.
+
+The Court ordered the Attorney at the petitioner party to ensure the respondents to the respondent to the petition.
+
+The petition has been presented against former President Maithripala Sirisena, who has issued an interim injunction in the Sri Lanka Freedom Party's Chairman.
 
 ◼️
 
 [Data](articles/355d5bcb.json)
+
+[Extended Data](ext_articles/355d5bcb.ext.json)
+
+---
+
+### சர்வதேச குற்றவியல் நீதிமன்றம் ஊடாக நாட்டுக்கு பெரும் நெருக்கடிகள் ஏற்படும் - சரத் வீரசேகர
+
+*2024-05-30 12:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/184854) · `ta`
+
+இலங்கைக்கு எதிரான ஜெனீவா வெளிக்கள விசாரணை பொறிமுறை தொடர்பில் அரசாங்கத்தின் பதிலளிப்புக்கள் திருப்திகரமாக இல்லை. இந்த நிலைமை தொடர்ந்தால் சர்வதேச குற்றவியல் நீதிமன்றம் ஊடாக நாட்டுக்கு பெரும் நெருக்கடிகள் ஏற்படும் எனத் தெரிவித்த தேசிய பாதுகாப்பு தொடர்பான துறைசார் கண்காணிப்புக் குழுவின் தலைவர் சரத் வீரசேகர, இது தொடர்பில் கலந்தாலோசிப்பதற்காக வெளிவிவகார அமைச்சு, பாதுகாப்பு அமைச்சு மற்றும் சட்டமா அதிபர் திணைக்களத்தின் உயரதிகாரிகளுக்கு அழைப்பு விடுக்கப்பட்டுள்ளதாகவும் தெரிவித்தார்.
+
+ஜனாதிபதி ஊடக மையத்தில் புதன்கிழமை (29) இடம்பெற்ற ஊடகவியலாளர் மாநாட்டில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+
+வெளிநாட்டலுவல்கள் அமைச்சு, பாதுகாப்பு அமைச்சு என்பவற்றின் உயர் அதிகாரிகள், சட்டமா அதிபர் உள்ளிட்டோருக்கு எதிர்வரும் ஜூன் 5ஆம் திகதி தேசிய பாதுகாப்பு தொடர்பான துறைசார் கண்காணிப்புக் குழுவுக்கு அழைப்பு விடுக்கப்பட்டுள்ளது. அன்றைய தினம் ஜெனீவாவில் 46/1 பிரேரணைக்கமைய ஸ்தாபிக்கப்பட்டுள்ள வெளிக்கள பொறிமுறை மற்றும் பயங்கரவாத எதிர்ப்பு சட்டம் தொடர்பில் கலந்துரையாடப்பவுள்ளது.
+
+...
+
+[Data](articles/e76e5052.json)
+
+---
+
+### இந்தியாவில் கைதான ஐ.எஸ்.ஐ.எஸ். உடன் தொடர்புடைய இலங்கையர்களின் உள்நாட்டு வலையமைப்பு குறித்து விசாரணை - சரத் வீரசேகர
+
+*2024-05-30 12:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/184850) · `ta`
+
+இந்தியாவில் கைது செய்யப்பட்ட ஐ.எஸ்.ஐ.எஸ். உடன் தொடர்புடைய இலங்கை பிரஜைகளுக்கு இலங்கையில் எவ்வாறான தொடர்புகள் உள்ளன?, அவர்களது தொடர்பாடல் வலையமைப்புக்கள் எவ்வாறானவை என்பது தொடர்பில் விசாரணைகளை முன்னெடுப்பதற்கு எமது புலனாய்வு பிரிவினரை இந்தியாவுக்கு அனுப்ப வேண்டும் என்று தேசிய பாதுகாப்பு தொடர்பான துறைசார் கண்காணிப்புக் குழுவின் தலைவர் பாராளுமன்ற உறுப்பினர் சரத் வீரசேகர தெரிவித்தார்.
+
+ஜனாதிபதி ஊடக மையத்தில் நேற்று புதன்கிழமை இடம்பெற்ற ஊடகவியலாளர் மாநாட்டில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+
+இந்தியாவில் கைது செய்யப்பட்ட ஐ.எஸ்.ஐ.எஸ். உடன் தொடர்புடைய இலங்கை பிரஜைகள் தொடர்பில் குஜராத் பொலிஸார் தீவிர விசாரணைகளை முன்னெடுத்து வருகின்றனர். மொஹம்மட் நுஸ்ரத், மொஹம்மட் பாரிஸ், மொஹம்மட் ராசீப், மொஹம்மட் நஸ்ராத் என்ற நபர்களே இவ்வாறு கைது செய்யப்பட்டுள்ளனர். முஸ்லிம் அல்லாதவர்களை கொலை செய்தால் தாம் சொர்க்கத்துக்குச் செல்வோம் என்று இவர்கள் உறுதிமொழி எடுத்துள்ளனர்.
+
+...
+
+[Data](articles/17060977.json)
 
 ---
 
@@ -88,6 +148,8 @@ ABC News cited a New York City Police Department bulletin, saying the tournamen
 
 [Data](articles/4e8c9bf7.json)
 
+[Extended Data](ext_articles/4e8c9bf7.ext.json)
+
 ---
 
 ### Met. Dept. issues ‘red alert’ for strong winds and rough seas
@@ -105,6 +167,8 @@ The general public, along with the fishing and naval communities, are urged to t
 ...
 
 [Data](articles/b4773a01.json)
+
+[Extended Data](ext_articles/b4773a01.ext.json)
 
 ---
 
@@ -160,6 +224,20 @@ Joseph Stalin, Secretary of the Sri Lanka Teachers' Association and the General 
 
 ---
 
+### தேர்தலை ஒத்திவைக்கும் பாலித ரங்க பண்டாரவின் கருத்து ஜனநாயகம்  குடிமக்கள் தங்கள் பிரதிநிதிகளைத் தேர்ந்தெடுக்கும் உரிமைக்கு  முரணானது  -ஹாஸ்டக் ஜெனரேசன்
+
+*2024-05-30 12:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/184849) · `ta`
+
+ஜனாதிபதித் தேர்தல் மற்றும் பொதுத் தேர்தலை இரண்டு வருடங்களுக்கு ஒத்திவைக்குமாறு ஐக்கிய தேசியக் கட்சியின் பொதுச் செயலாளர் பாலித ரங்கே பண்டார முன்வைத்த கருத்தை நாம் வன்மையாகக் கண்டிக்கின்றோம்.  இக் கருத்தானது அரசியலமைப்பு ரீதியாக நிறுவப்பட்ட தேர்தல் செயல்முறை நாட்டின் ஜனநாயகம் மற்றும் குடிமக்கள் தங்கள் பிரதிநிதிகளைத் தேர்ந்தெடுக்கும் உரிமைக்கு முரணானதாக அமைந்துள்ளது.  என ஹாஸ்டக் ஜெனரேசன் தெரிவித்துள்ளது.
+
+அரசியலமைப்பின் படிஇ ஜனாதிபதியின் பதவிக்காலம் முடிவடைந்ததைத் தொடர்ந்து எதிர்வரும் தேர்தலை நடத்தும் பொறுப்பு இலங்கை தேர்தல்கள் ஆணைக்குழுவிற்கு உள்ளது.  ஜனாதிபதித் தேர்தலானது செப்டம்பர் 17 முதல் அக்டோபர் 16 வரை நடைபெறும் என்று மே 09ஆம் திகதி தேர்தல்கள் ஆணைக்குழு அறிவித்தது.  இவ்வாறான நிலையில் தேர்தல்கள் ஒத்திவைக்கப்பட வேண்டிய சூழ்நிலைகளோ தேவையோ இல்லை என்பது சுட்டிக்காட்டத்தக்கதாகும்.
+
+...
+
+[Data](articles/d23ae18b.json)
+
+---
+
 ### To find out to find the murder of Paliya Ranjitha and allowed to eat the murder?
 
 *2024-05-30 12:04:50* · [`adalk`](https://www.ada.lk/breaking_news/පියල්-රංජිත්ව-ඝාතනය-කොට-සතුන්ට-කෑමට-ඉඩ-හැරියේ-ඝාතනය-සොයාගැනීමට-අපහසු-කරවීමටද-/11-409908) · `si`
@@ -186,6 +264,36 @@ According to the supervision of Superintendent of Police Jayantha Jayawardena, O
 
 ---
 
+### இஸ்ரேலின் எதிர்ப்பை மீறி மூன்று நாடுகள் பாலஸ்தீன  அரசுக்கு அங்கீகாரம் ! அடுத்த கட்டம் என்ன ?
+
+*2024-05-30 12:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/184846) · `ta`
+
+இஸ்ரேல் - பாலஸ்தீன மோதல்களைத் தொடர்ந்து மனிதப் பேரவலங்கள் அதிகரித்து வருகின்றன. அதனை நிறுத்தும் முயற்சிகளும் முடியாத  ஒன்றாகவே இருந்து வருகிறது.
+
+◼️
+
+[Data](articles/3102081e.json)
+
+---
+
+### இலங்கை சுற்றுலாப் பயணிகள் தாய்லாந்துக்கு விசா இன்றி செல்ல அனுமதி
+
+*2024-05-30 11:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/184837) · `ta`
+
+ஜூன் முதலாம் திகதி முதல் இங்கையர்கள் விசா இல்லாமலேயே தாய்லாந்துக்குச் செல்தற்கும், அங்கு 60 நாட்கள் வரை தங்குவதற்கும் அந்நாட்டு அமைச்சரவை அனுமதி வழங்கியுள்ளது.
+
+இந்த நடவடிக்கைகளில் இலவச விசா மற்றும் ஒன் அரைவல் விசா திட்டங்கள், மாணவர்கள் நீண்ட காலம் தங்குதல் மற்றும் ஓய்வு பெற்றவர்களுக்கு கட்டாய சுகாதார காப்பீடு ஆகியவை அடங்கும்.
+
+அதன்படி, அல்பேனியா, கம்போடியா, சீனா, இந்தியா, ஜமைக்கா, கஜகஸ்தான், லாவோஸ், மெக்சிகோ, மொராக்கோ, பனாமா, ருமேனியா, இலங்கை மற்றும் உஸ்பெகிஸ்தான் உள்ளிட்ட 36 நாடுகளைச் சேர்ந்த சுற்றுலாப் பயணிகளுடன், இலங்கை சுற்றுலாப் பயணிகளும் விசா இன்றி தாய்லாந்துக்கு செல்ல முடியும்.
+
+இந்த விரிவாக்கம் விசா இல்லாத நுழைவுக்கான தகுதியுள்ள நாடுகளின் எண்ணிக்கையை 57 இலிருந்து 93 ஆக அதிகரித்துள்ளது. சுற்றுலாவை பெரிதும் நம்பியிருக்கும் தேசிய பொருளாதாரத்தை அதிகரிக்க இந்த முயற்சி நோக்கமாகக் கொண்டுள்ளது என தாய்லாந்து அரசாங்க ஊடகவியலாளர் சாய் வச்சரோன்கேயின் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/6047ad70.json)
+
+---
+
 ### World No Tobacco Day 2024: Sri Lanka’s tobacco use declines amid global e-cigarette surge
 
 *2024-05-30 11:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/99532/-world-no-tobacco-day-2024-sri-lankas-tobacco-use-declines-amid-global-e-cigarette-surge) · `en`
@@ -203,6 +311,24 @@ Despite these positive trends, ADIC states that approximately 1.5 million people
 [Data](articles/1a2801d2.json)
 
 [Extended Data](ext_articles/1a2801d2.ext.json)
+
+---
+
+### ரிமால் புயல் காரணமாக மீன்களின் விலை அதிகரிப்பு!
+
+*2024-05-30 11:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/184844) · `ta`
+
+ரிமால் புயல் காரணமாக  கடற்பிராந்தியங்கள் மிகவும் கொந்தளிப்பாகக் காணப்படும் என அறிவிக்கப்பட்டுள்ள நிலையில் ஆழ்கடல் வள்ளங்கள் எவையும் மீன்பிடிக்க செல்லவில்லை. இருந்த போதிலும் கரை வலை மீன் வள்ளங்கள் மீன் பிடி நடவடிக்கையில் தொடர்ந்தும் ஈடுபட்டு வருகின்றன.
+
+அம்பாறை மாவட்டத்தின் பெரிய நீலாவணை, கல்முனை ,  மருதமுனை, பாண்டிருப்பு, பெரியநீலாவணை, நிந்தவூர் , அட்டாளைச்சேனை, ஒலுவில், அக்கரைப்பற்று, தம்பிலுவில், பொத்துவில் பகுதிகளில் உள்ள   மீனவர்கள் மற்றும் கடல்சார் ஊழியர்கள் புயல் தொடர்பில்   அவதானமாக செயற்படுமாறு அறிவுறுத்தப்பட்டுள்ளனர்.
+
+பலத்த காற்று மற்றும் கடல் கொந்தளிப்பு தொடர்பில் அண்மைக்காலமாக  வளிமண்டலவியல் திணைக்களம்   எச்சரிக்கை விடுத்துள்ளமை குறிப்பிடத்தக்கது.
+
+இதனால் மீன்களின் விலைகள் அதிகரித்துள்ளதுடன், சந்தைகளும் மீன்கள் இன்மையால் மூடி காணப்படுகின்றன. குறித்த மாவட்டத்தின் பெரிய நீலாவணை  முதல் பொத்துவில்  பகுதி வரையுள்ள கடற்பரப்பு   உள்ளிட்ட கடற்பிராந்தியத்தில் மீன்களின் பிடிபாடு பெருமளவில் குறைவடைந்துள்ளது.
+
+...
+
+[Data](articles/9aeb2af0.json)
 
 ---
 
@@ -253,6 +379,22 @@ Raisi, a hardliner who had been seen as a potential successor to Supreme Leader 
 [Data](articles/4a7e1647.json)
 
 [Extended Data](ext_articles/4a7e1647.ext.json)
+
+---
+
+### පොල්ගොල්ල ජලාශයේ වාන් දොරටු 05ක් විවෘත කෙරේ
+
+*2024-05-30 11:45:59* · [`adalk`](https://www.ada.lk/breaking_news/පොල්ගොල්ල-ජලාශයේ-වාන්-දොරටු-05ක්-විවෘත-කෙරේ/11-409906) · `si`
+
+මහනුවර  හා අවට ප්‍රදේශවලට ඇද  හැල අධික වර්ෂාව නිසා පොල්ගොල්ල මහවැලි ජලාශයේ වාන් දොරටු පහක් අද විවෘත කළ  (30) බව වේල්ල භාර ඉංජිනේරු කාර්යාලය  සඳහන් කළේය.
+
+ඒ අනුව පොල්ගොල්ල වේල්ලේ වාන් දොරටු   පහක් මීටර  එක  (1') බැගින් ඉහළට ඔසවා තිබු අතර මේ හේතුවෙන් ජලාශය පහළට මහවැලි ගඟට තත්පරයට ඝණ අඩි 13900 ක පමණ ජල ප්‍රමාණයක් නිකුත්කළ බව එම කාර්යාලය  වැඩිදුරටත් පැවැසීය.
+
+මේ හේතුවෙන් පවතින වර්ෂාව අනුව දොරටු විවෘත කරන බැවින් පොල්ගොල්ල වේල්ලට පහළින් වික්ටෝරියා ජලාශය දක්වා  මහවැලි ගඟ භාවිතා කරන ජනතාව අවධානයෙන් සිටීය යුතු බව එම කාර්යාලය  වැඩිදුරටත් පැවැසීය
+
+◼️
+
+[Data](articles/1399588e.json)
 
 ---
 
@@ -332,6 +474,34 @@ Addressing the media, its media spokesman, Dr. Chamil Wijesinghe, said that the 
 
 ---
 
+### There is a severe shortage of vegetables and prices rise rapidly - Nuwara Eliya Economic Center
+
+*2024-05-30 11:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/184841) · `ta`
+
+Nuwara Eliya Economic Center predicts a severe vegetable shortage due to climate damage, leading to rapid price hikes. Farmers face delays in payments, affecting supply.
+
+🟩
+
+The Nuwara Eliya Economic Center has warned that there will be severe shortage of vegetables in the future and prices will rise rapidly.
+
+Due to heavy rains and wind climates, the agricultural lands cultivated in the agricultural lands have been destroyed and the roots of vegetables are unable to distribute in demand.
+
+The Nuwara Eliya Economic Center has warned that the prices of vegetables have been gradually increased and there will be severe shortage of vegetables within a period of about a month.
+
+They made this statement at a special press conference organized by the union (30) at the Nuwara Eliya Economic Center to discuss the problems of vegetable prices and the current farmers.
+
+In a statement to the media, Mr. Susil Shantha and Secretary of the Nuwara Eliya Economic Center, Mr. Gunasekaran Siva.
+
+The purchase price of one kilogram of cabbage is 70 rupees, the purchase price of carrots is Rs.
+
+...
+
+[Data](articles/90af5175.json)
+
+[Extended Data](ext_articles/90af5175.ext.json)
+
+---
+
 ### 10 -year -old Students
 
 *2024-05-30 11:19:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/10-வயதான-மாணவிகளுடன்-துர்நடத்தை-ஆசிரியருக்கு-தடை/71-338138) · `ta`
@@ -395,34 +565,6 @@ Accordingly, a landslide disaster has been issued to Colombo, Kandy, Kegalle, Ku
 [Data](articles/8ab33d93.json)
 
 [Extended Data](ext_articles/8ab33d93.ext.json)
-
----
-
-### There is a severe shortage of vegetables and prices rise rapidly - Nuwara Eliya Economic Center
-
-*2024-05-30 11:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/184841) · `ta`
-
-Nuwara Eliya Economic Center predicts a severe vegetable shortage due to climate damage, leading to rapid price hikes. Farmers face delays in payments, affecting supply.
-
-🟩
-
-The Nuwara Eliya Economic Center has warned that there will be severe shortage of vegetables in the future and prices will rise rapidly.
-
-Due to heavy rains and wind climates, the agricultural lands cultivated in the agricultural lands have been destroyed and the roots of vegetables are unable to distribute in demand.
-
-The Nuwara Eliya Economic Center has warned that the prices of vegetables have been gradually increased and there will be severe shortage of vegetables within a period of about a month.
-
-They made this statement at a special press conference organized by the union (30) at the Nuwara Eliya Economic Center to discuss the problems of vegetable prices and the current farmers.
-
-In a statement to the media, Mr. Susil Shantha and Secretary of the Nuwara Eliya Economic Center, Mr. Gunasekaran Siva.
-
-The purchase price of one kilogram of cabbage is 70 rupees, the purchase price of carrots is Rs.
-
-...
-
-[Data](articles/90af5175.json)
-
-[Extended Data](ext_articles/90af5175.ext.json)
 
 ---
 
@@ -859,6 +1001,22 @@ Outgoing Chairman Wijesinha has served on the boards of both Watawala Plantation
 [Data](articles/19a4499a.json)
 
 [Extended Data](ext_articles/19a4499a.ext.json)
+
+---
+
+### පාලිතගේ ප්‍රකාශය පරාජය ‍භාර ගැනීමක්
+
+*2024-05-30 09:48:13* · [`adalk`](https://www.ada.lk/breaking_news/පාලිතගේ-ප්‍රකාශය-පරාජය-‍භාර-ගැනීමක්/11-409903) · `si`
+
+ජනපතිවරණය සහ පාර්ලිමේන්තු මැතිවරණය වසර දෙකකින් කල් දාන්න පුළුවන් නම් හොඳ බව එජාප මහ ලේකම් පාලිත රංගේ බණ්ඩාර පැවසුවා, කල්දාන එක ජනතාවට කෙසේ වෙතත් ඒ අයට නම් හොඳ යයි ජාතික ජනබලවේගයේ විධායක සභික කේ.ඩී ලාල් කාන්ත මහතා පැවසීය.
+
+ජාතික ජනබලවේගයේ කුණ්ඩසාලේ ආසනය මගින් සංවිධානය කළ වාහන ස්ටිකර් ඇලවීමේ ප්‍රචාරක වැඩසටහනක් පල්ලේකැලේ ගම් උදාව ඔරුලෝසු කණුව ඉදිරි පිටදී පැවැති අවස්ථාවෙන් අනතුරුව මාධ්‍ය හමුවේ අදහස් දක්වමින් ලාල්කාන්ත මහතා මේ බව පැවසුවේය.
+
+"එය ඉටු කරනවා නම් පාර්ලිමේන්තුවේ තුනෙන් දෙකක බලයක් අවශ්‍යය යි. ඒ වගේම ජනමත විචාරණයක් ඕන. මේ මුට්ටිය දැමිල්ලක් කරලා තියෙන්නේ. ඒ වගේම ඒකෙන් කියවෙනවා ජනපතිවරණයට මහමැතිවරණයට ඉදිරිපත් වෙලා ඔවුන් ට දිනන්න බැහැ කියන එක. ඒ අඳෝනාව තමයි රංගේ බණ්ඩාර කටින් එලියට ආවේ. මේ ප්‍රකාශය අපි දකින්නේ රනිල් රාජපක්ෂ හවුල පරාජය බාර ගැනීමක් ලෙසයි."
+
+◼️
+
+[Data](articles/85005175.json)
 
 ---
 
@@ -2055,203 +2213,5 @@ The bank made a capital call from shareholders of Rs 22 billion, offering voting
 [Data](articles/b3e729ea.json)
 
 [Extended Data](ext_articles/b3e729ea.ext.json)
-
----
-
-### Schools tomorrow and tomorrow
-
-*2024-05-29 22:49:28* · [`adalk`](https://www.ada.lk/breaking_news/හෙට-හා-අනිද්දා-පාසල්-සාමාන‍්‍ය-පරිදි/11-409900) · `si`
-
-The Ministry of Education has confirmed that schools will operate normally on the 30th and 31st of May.
-
-🟩
-
-The Ministry of Education has announced that all schools on the 30th and 31st May, the date on the 30th and 31st May will be held as normal.
-
-◼️
-
-[Data](articles/0bb9b9e5.json)
-
-[Extended Data](ext_articles/0bb9b9e5.ext.json)
-
----
-
-### Pharmaceutical laboratory laboratory laboratory
-
-*2024-05-29 22:44:04* · [`adalk`](https://www.ada.lk/breaking_news/ඖෂධවල-ගුණය-හොයන-පරීක්ෂණාගාරයට-අසාධ්‍යයි/11-409899) · `si`
-
-The National Drug Quality Assurance Laboratory faces issues including lack of international recognition, outdated equipment, and insufficient staffing, impacting its ability to ensure drug quality. The audit highlights deficiencies in reporting, inadequate training for officials, and delays in issuing critical drug quality reports. Recommendations aim to improve standards and patient safety.
-
-🟩
-
-National audits have been created in the National Drug Quality Assurance Laboratory, the main issues of the National Drugs Quality Assurance Laboratory (National Medicines Quality Assurance Laboratory) to ensure the quality of patients.The office reveals.
-
-The institution directly maintained under the Ministry of Health under the Ministry of Health, this institution directly maintained under the Ministry of Health.
-
-In order to register medical supplies to the Regulatory Authority Act, when submitting medical supplies to regulatory regulations and other situations research on the use of medicine, the report will be conducted on the quality of drugs and not to use.The main function is.
-
-The laboratory shows that this laboratory has been deprived of international recognition and benefits from the Sri Lanka Accreditation Board as a standardized institution.
-
-...
-
-[Data](articles/697a82f1.json)
-
-[Extended Data](ext_articles/697a82f1.ext.json)
-
----
-
-### The Presidential election is held under the constitution
-
-*2024-05-29 22:39:16* · [`adalk`](https://www.ada.lk/breaking_news/ව්‍යවස්ථාව-අනුව-ජනපතිවරණය-පැවැත්වෙනවා/11-409898) · `si`
-
-In a statement at the National Library Document Service Board, Prime Minister Dinesh Gunawardena emphasized the importance of adhering to the Constitution during the upcoming presidential election. He highlighted the need for transparency and accountability in governance, stating that no political decisions should be made without considering the welfare of the people. The Prime Minister also mentioned the role of the Elections Commission in organizing the election according to constitutional provisions. He reminded the audience of the efforts to restore democracy and the establishment of an all-party government to prevent its downfall.
-
-🟩
-
-Prime Minister Dinesh Gunawardena said that a democratic government or parliament would not be allowed to plunder the country, and the presidential election will be held in accordance with the Constitution that the country is not allowed by no responsibility.
-
-He also said that no political decision to see the people would be proceeded without a violation of or rewards.
-
-The Prime Minister said this at the National Library Document Service Board at the National Library Document Service Board today (29).
-
-"The government is already announced about the election. The Elections Commission stated that the presidential election can be held in terms of the Constitution. They have stated that it is preparing between September two months. The government has said that.
-
-No political decision will be seen. Not upset or rursual. Not going on.
-
-...
-
-[Data](articles/90d742f1.json)
-
-[Extended Data](ext_articles/90d742f1.ext.json)
-
----
-
-### Four injuntaments against Maithri
-
-*2024-05-29 22:28:39* · [`adalk`](https://www.ada.lk/breaking_news/මෛත්‍රීට-එරෙහි-වාරණ-නියෝග-හතරක්-දිර්ඝ-කරයි/11-409897) · `si`
-
-Colombo District Judge Sandun Withana has extended four awareness orders against former President Maithripala Sirisena, issued by the SLFP leadership including Chandrika Bandaranaike Bandaranaike and Lasantha Alagashena. These orders were related to alleged illegal party meetings involving Sirisena, Sarahi Sarari Sirisena, Nimal Siripala de Silva, and Faizer Mustapha. The judge decided to file protests after considering the responses from the accused parties.
-
-🟩
-
-The Colombo District Judge Sandun Withana has repeatedly extended four awareness orders issued by former President Maithripala Sirisena to the 12th.
-
-Maithripala Sirisena was extended by the Assistant Orders issued by the Chairman of the SLFP, the Sri Lanka Freedom Chairman, National Organizer and Treasurer.
-
-Ms. President Chandrika Bandaranaike Bandaranaike, National Organizer, National Organizer Lasantha Alagashena, issue of the Sri Lanka Freedom Party.Had been done.
-
-Former President Maithripala Sirisena as respondents in these four cases, Sarahi Sarari Sirisena, and Nimal Siripala de Silva, and Faizer Mustapha.
-
-Maithripala Sirisena, the party, had been prosecuted at a illegal meeting of the party's Treasurer and Senior Vice President of the party.
-
-After considering the respondents to respond to respondents to the respondents to obtaining the respondents against injunnerators, the judiciary decided to file the protests on the 12th.
-
-◼️
-
-[Data](articles/0d83c4d1.json)
-
-[Extended Data](ext_articles/0d83c4d1.ext.json)
-
----
-
-### Iraq seeks enhanced ties with Sri Lanka, requests for business links in Baghdad, Kurdistan
-
-*2024-05-29 22:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Iraq-seeks-enhanced-ties-with-Sri-Lanka-requests-for-business-links-in-Baghdad-Kurdistan/108-283658) · `en`
-
-Trade Minister Nalin Fernando met with Iraqi envoy Mohammed Obaid Jabur Zahir Al-Masoudi today and discussed the conducting of the ninth session of the Iraq-Sri Lanka for Economic and Technical Cooperation in Sri Lanka this November, which is a greater platform for the bilateral relations between both countries, a statement from the Ministry said.
-
-The Trade Minister briefed the envoy on the current economic situation and urged the importance of international support not only in the monetary sector but also in other sectors.
-
-The head of the embassy encouraged Sri Lankan investors to establish business links in Bagdad and Kurdistan. Iraq is one of the main Sri Lankan tea buyers and nearly 150,000 Sri Lankan employees work there.
-
-Re-establishing a Sri Lankan Embassy in Iraq to resolve the matters relating to visa issues, the tax on goods etc. between both countries with the cooperation of the Foreign Ministry, were also discussed.
-
-...
-
-[Data](articles/36b48940.json)
-
-[Extended Data](ext_articles/36b48940.ext.json)
-
----
-
-### Five companies fined Rs. 1,243 million for illegally importing gold
-
-*2024-05-29 22:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/99520/five-companies-fined-rs-1243-million-for-illegally-importing-gold) · `en`
-
-State Minister of Finance Ranjith Siyambalapitiya says that five companies have been identified for illegally importing gold to Sri Lanka during the year and a fine of Rs. 1,243 million has been imposed on those companies.
-
-The state minister mentioned that a related company has been ordered to pay Rs. 179 million. Henceforth, all licensed companies that import gold products should refrain from these illegal activities, he warned.
-
-Siyambalapitiya said that efforts are currently underway to stabilize the state income of the country by closing the loopholes related to the loss of state income.
-
-The state minister further said that certain parties who import gold products have turned it into a big racket and there is a mafia around it.
-
-...
-
-[Data](articles/d5638ee3.json)
-
-[Extended Data](ext_articles/d5638ee3.ext.json)
-
----
-
-### Is hypertension the reason for some SLTB bus drivers to drive recklessly?
-
-*2024-05-29 22:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Is-hypertension-the-reason-for-some-SLTB-bus-drivers-to-drive-recklessly/108-283643) · `en`
-
-Colombo, May 29 (Daily Mirror)- In a recent health checkup by the Kuliyapitiya MOH office, it was revealed that SLTB employees including drivers and traders in the Kuliyapitiya bus stand were at high risk for hypertension, a condition often referred to as a ‘silent killer.’
-
-According to the officials, all SLTB employees who underwent the checkup were found to be suffering from high blood pressure, putting them at risk for cardiac ailments.
-
-In response to these findings, the officials have announced plans to hold a medical clinic soon to provide formal medical checkups for all SLTB employees and private bus operators in the area.
-
-The programme was organized by Nursing Sister K.A. Nilanthi, PHI Sanjaya Wanninayaka, Officer In Charge Samith Cooray, and the Health Officer of the Urban Council. This proactive approach aims to address the health concerns of the identified high-risk group and promote overall well-being in the community.
-
-◼️
-
-[Data](articles/44b1dde9.json)
-
-[Extended Data](ext_articles/44b1dde9.ext.json)
-
----
-
-### Court order to a captain of ship to Colombo harbor
-
-*2024-05-29 22:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197166) · `si`
-
-A Colombo Port captain banned another captain after an Indian ship's captain complained to the Ports Police. The Colombo Additional Magistrate issued an order based on this complaint.
-
-🟩
-
-A captain of the Colombo Port has banned a captain.
-
-The Colombo Additional Magistrate was imposed by a captain of an Indian ship.
-
-According to a complaint lodged by the Ports Police, the court reported on a complaint received by the Ports Police.
-
-◼️
-
-[Data](articles/b1685855.json)
-
-[Extended Data](ext_articles/b1685855.ext.json)
-
----
-
-### Teachers, principals to launch two-day islandwide sick leave campaign tomorrow
-
-*2024-05-29 22:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Teachers-principals-to-launch-two-day-islandwide-sick-leave-campaign-tomorrow/108-283649) · `en`
-
-Colombo, May 29 (Daily Mirror) - The National Teachers' Power (NTP) has decided to launch an islandwide two-day sick leave campaign starting tomorrow (30), demanding the government to resolve the salary anomalies of school principals and teachers.
-
-Addressing the media NTP national organiser and media spokesman Amuthu Bandara told the Daily Mirror that they had protested on the streets during the past 27 years in search of solutions to the salary anomalies.
-
-"We held a sick leave campaign on March 28, and we gave the rulers of the country a chance, but they did not listen. Therefore, the NTP has decided to launch the two-day sick leave campaign tomorrow," he said.
-
-“There is a responsibility for the 225 MPs in the Parliament to have a debate on this issue, as they were elected to Parliament with the vote cast by the teachers and principals as well.
-
-...
-
-[Data](articles/cd7a34e4.json)
-
-[Extended Data](ext_articles/cd7a34e4.ext.json)
 
 ---

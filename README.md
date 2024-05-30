@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-30 14:05:09**
+As of **2024-05-30 14:18:47**
 
 ## Newspaper Stats
 
-*Scraped **27,295** Articles*
+*Scraped **27,301** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,12 +13,12 @@ dbsjeyarajcom | 267
 bbccomsinhala | 271
 newsfirstlk | 363
 islandlk | 1,477
-economynextcom | 1,560
+economynextcom | 1,562
 dailyftlk | 1,601
-adalk | 2,322
+adalk | 2,323
 adaderanalk | 3,109
 tamilmirrorlk | 3,204
-virakesarilk | 4,200
+virakesarilk | 4,203
 dailymirrorlk | 4,316
 adaderanasinhalalk | 4,364
 
@@ -26,29 +26,51 @@ adaderanasinhalalk | 4,364
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,291 (100.0%) of 27,295 articles have been extended.
+27,295 (100.0%) of 27,301 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-30 (Thursday)
 
-### රත්නපුරයේ මාර්ග රැසක් ජලයෙන් යටවෙයි
+### வரலாற்றில் இன்று
+
+*2024-05-30 13:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/184863) · `ta`
+
+இஸ்ரேல் - காசா யுத்தம் மிகத் தீவிரமாகி வருகிறது. கள அழிப்புகள், உயிரிழப்புக்களை ஏற்படுத்தும் இந்த போரினால் ஏனைய நாடுகளுக்கிடையே பல்வேறு முரண்பாடுகளும் பலவிதமான எதிர்த்தாக்குதல்களும் உருவாகிவிட்டன.
+
+இதைப் போன்றதொரு போர்க்கால சூழல்  1967ஆம் ஆண்டில் நிலவியபோது, அன்றைய ஐக்கிய அரபு குடியரசின் ஜனாதிபதி கமால் அப்துல் நாஸர், அரபு நாடுகளுக்கும் இஸ்ரேலுக்கும் ஏற்படக்கூடிய யுத்தத்தில் வேறு எந்த நாடும் தலையிட்டால் சூயஸ் கால்வாயை உடனடியாக மூடிவிடுவேன் என்று பகிரங்க அறிவித்திருந்தார்.
+
+இது தொடர்பான செய்தி, 1967ஆம் ஆண்டு இதே திகதியான மே 30 அன்று வெளியான வீரகேசரி பத்திரிகையின் முதல் பக்கத்தில் "சூயஸ் கால்வாயை மூடுவேன் : ஜனாதிபதி நாஸர் எச்சரிக்கை : ஐ.நா. பந்தோபஸ்து சபை தகராறை விவாதிக்கிறது" என்ற தலையங்கத்துடன் பிரசுரிக்கப்பட்டிருந்தது.
+
+◼️
+
+[Data](articles/7dda5d5c.json)
+
+---
+
+### Many roads in Ratnapura flooded
 
 *2024-05-30 13:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197180) · `si`
 
-කළු ගඟේ ජල මට්ටම වේගයෙන් ඉහළයෑම හේතුවෙන් රත්නපුරයේ ගංවතුර තත්ත්වයක් පවතින බව අප වාර්තාකරුවන් පවසයි.
+Ratnapura faces flooding issues with rising water levels in the Kalu and Black Tree rivers, threatening the main bus route and several homes. The situation is concerning locals who fear potential disaster if water levels reach critical points.
 
-කළු ගගේ ජල මට්ටම පුළුඟුපිටිය ජල මාපක 07 සීමාව කරා ළඟාවෙමින් ඇති බවද වාර්තා වෙයි.
+🟩
 
-මේ හේතුවෙන් රත්නපුර අළුපොත ප්‍රධාන බස් මාර්ගය ඇත් ඔය ප්‍රදේශයෙන් යළි යටවී ගමනාගමනයට බාධා එල්ලවී තිබේ.
+Our correspondents say that the water level of the Kalu River is rapidly increased.
 
-ප්‍රධාන මාර්ගවලට ප්‍රවේශ වන අතුරු මාර්ග රැසක් ද ජලයෙන් යටවී ඇති අතර නිවාස ද අවදානමට ලක්වී ඇතැයි වාර්තා වෙයි.
+It is also reported that the black tree water level is nearing the 7 wrast thumb.
 
-ජල මට්ටම මාපකයේ 07 සීමාවට ළඟා වුවහොත් ලොකු ගංවතුර තත්ත්වයක් ඇති වෙතැයි ජනතාව බිය පළ කරයි.
+As a result, the main bus route of the Giyapotha has been resigned from the elephant from the elephant from the elephant.
+
+A number of interim roads to main roads have also been inundated and houses have also been subjected to water.
+
+The masses fear that if the water level reaches the limits of the minor 7, the people are afraid of a flood.
 
 ◼️
 
 [Data](articles/c53ffe72.json)
+
+[Extended Data](ext_articles/c53ffe72.ext.json)
 
 ---
 
@@ -71,6 +93,8 @@ Dr Premaratne was residing in Sydney, Australia with his beloved son, at the tim
 ◼️
 
 [Data](articles/ff78bc84.json)
+
+[Extended Data](ext_articles/ff78bc84.ext.json)
 
 ---
 
@@ -138,25 +162,33 @@ At the roundtable the President outlined Sri Lanka’s vision on prosperity, ren
 
 ---
 
-### මෝටර් රථ අනතුරකින් සිසුවෙකුට බරපතළයි
+### Student gets seriously in a car accident
 
 *2024-05-30 13:26:44* · [`adalk`](https://www.ada.lk/breaking_news/මෝටර්-රථ-අනතුරකින්-සිසුවෙකුට-බරපතළයි/11-409915) · `si`
 
-කහතුඩුව වෑතර රෝහල ඉදිරිපිටදී ධාවනය වෙමින් තිබූ මෝටර් රථයක්  නවතා තිබූ ස්කුටර්යක සහ මාර්ගයේ ගමන් ගත් සිසුවෙකුගේ  ගැටීමෙන්  එම සිසුවා බරපතල තුවාල ලබා ඇතැයි කහතුඩුව පොලිසිය කියයි.
+A serious car accident occurred near Kahathuduwa welfare hospital, involving a 15-year-old student from two schools. The student was critically injured and hospitalized in Wethara and Kalubowage Sathugala for further treatment. The incident happened when the student's scooter collided with another car after stopping ten meters ahead. The driver of the other car, a 29-year-old, has been arrested. Investigations reveal the student was not controlling the road properly and was also involved in selling air balloons.
 
-අනතුරින් තුවාල ලබා ඇත්තේ වෑතර මහා විද්‍යාලයේ දහවන වසරේ ඉගෙනුම ලබන බණ්ඩාරගම වල්ගම ප්‍රදේශයේ පදිංචි 15 හැවිරිදි  සිසුවෙක්ය.
+🟩
 
-මෝටර් රථයේ ගැටීමෙන් නවතා තිබූ ස්කූටරය මීටර් දහයක් පමණ මෝටර් රථයක් සමග ඉදිරියට ඇදී ගොස් අධිබලැති විදුලි කණුවක ගැටී දෙකට නැවී බරපතල අලාභ සිදු වී ඇතැයි පොලිසිය සඳහන් කරයි.
+Kahathuduwa police say that the student was seriously injured when a group of police staged in front of Kahathuduwa welfare hospitals.
 
-අනතුරින් බරපතළ තුවාල ලැබූ සිසුවා වෑතර රෝහල වෙත ඇතුළත් කිරීමෙන් අනතුරුව වැඩිදුර ප්‍රතිකාර සඳහා කළුබෝවල ශීක්ෂණ රෝහල වෙත ඇතුලත් කර ඇත.
+The injured were a 15 year old student from the Walagama Maha Vidyalaya, the tenth year of the Weharaya Maha Vidyalaya.
 
-මෝටර් රථය පිළියන්දල දෙස සිට කහතුඩුව දෙසට පැමිණීමේදී එහි  පිටුපස දකුණු පස ටයරයේ හුළං යාම හේතුවෙන්
+The scooter stopped in the car was about ten meters and had passed away with a car collided with a car collide, police said.
 
-රියදුරට මෝටර් රථයේ පාලනය කර  ගැනීමට නොහැකිව මාර්ගයේ  වම් අත දිසාවට ඇදී ගොස්  වෙළඳසැලක් ඉදිරිපිට නවතා තිබූ ස්කූටරය යේ ගැටීමෙන් අනතුරුව පාගමනින් යමින් සිටි සිසුවාගේ ද ගැටී  මෙම අනතුර වී ඇතැයි පොලිසිය කියයි.
+The student who was seriously injured in the accident has been admitted to the Wethara Hospital and has been admitted to the Kalubowage Sathugala for further treatment.
+
+Due to the tests of the back of the right side of the back of the car in Piliyandala to Kahathuduwa due to its back
+
+Police say the accident had been hit by the student who was traveling in front of a shooter, which was not to control the road.
+
+Police investigations have revealed that the victim was serving as a shop in the Weather, which attended a shop at the Weather, while the student was serving as a female employee of the Weather.
 
 ...
 
 [Data](articles/5cc58e34.json)
+
+[Extended Data](ext_articles/5cc58e34.ext.json)
 
 ---
 
@@ -175,6 +207,18 @@ Veteran Musiciant Shelton Premaratne has passed away today (30).
 [Data](articles/9bff7782.json)
 
 [Extended Data](ext_articles/9bff7782.ext.json)
+
+---
+
+### இன்றைய நாணய மாற்று விகிதம்
+
+*2024-05-30 13:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/184861) · `ta`
+
+இன்று வியாழக்கிழமை (மே 30) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் விற்பனை விலை ரூபா 296.8721 ஆகவும் கொள்வனவு விலை ரூபா 306.4863ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/c4e43adc.json)
 
 ---
 
@@ -245,6 +289,26 @@ The driver of the 29-year-old driver has been arrested by the police.
 [Data](articles/590aa7c7.json)
 
 [Extended Data](ext_articles/590aa7c7.ext.json)
+
+---
+
+### ஈரான் ஜனாதிபதிக்கு அஞ்சலி செலுத்தும் ஐநா நிகழ்வு - அவுஸ்திரேலியா அமெரிக்கா புறக்கணிக்க தீர்மானம்
+
+*2024-05-30 13:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/184859) · `ta`
+
+ஐக்கியநாடுகள் பொதுச்சபையில் ஈரான் ஜனாதிபதி இப்ராஹிம் ரைசிக்கு அஞ்சலி செலுத்தும் நிகழ்வை அவுஸ்திரேலியா புறக்கணிக்கவுள்ளது.
+
+ஈரான் ஜனாதிபதிக்கு அஞ்சலி செலுத்தும் நிகழ்வை அமெரிக்கா புறக்கணிக்கவுள்ளதாக  தெரிவித்துள்ள நிலையிலேயே அவுஸ்திரேலியாவும் புறக்கணிக்கவுள்ளதாக தகவல்கள் வெளியாகியுள்ளன.
+
+ஐக்கியநாடுகள் பொதுச்சபை நிகழ்வில் அவுஸ்திரேலிய பிரதிநிதிகள் எவரும் கலந்துகொள்ளமாட்டார்கள் என உறுதியாக தெரியவருவதாக கார்டியன் தெரிவித்துள்ளது.
+
+தெஹ்ரானின் கசாப்புக்கடைக்காரன் என பல ஈரானியர்கள் தெரிவிக்கும் அஞ்சலி செலுத்தும் ஐநாவின் இன்றைய நிகழ்வை புறக்கணிக்கவேண்டிய தார்மீக கடமை அவுஸ்திரேலிய அரசாங்கத்திற்குள்ளது என  லிபரல் கட்சியின் கிளைரே சான்ட்லர் தெரிவித்துள்ளார்.
+
+ரைசி அரசாங்கத்தின் கீழ் பாதிக்கப்பட்ட அப்பாவி பொதுமக்களிற்கு அவுஸ்திரேலியா ஆதரவாகயிருக்கவேண்டும் இவ்வாறு பாதிக்கப்பட்ட பலர் பெண்கள் யுவதிகள் என அவர்  தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/eee41a1b.json)
 
 ---
 
@@ -454,6 +518,22 @@ At the same time, there is a shortage of river banks in the area.
 
 ---
 
+### ඇඹිලිපිටියේ කඩදාසි බංග්ලාදේශයට
+
+*2024-05-30 12:07:11* · [`adalk`](https://www.ada.lk/breaking_news/ඇඹිලිපිටියේ-කඩදාසි-බංග්ලාදේශයට/11-409909) · `si`
+
+දශක දෙකකට වැඩි කාලයක් වසා දමා තිබී යළි නිෂ්පාදන කටයුතු ඇරඹු ඇඹිලිපිටිය කඩදාසි කම්හලේ නිෂ්පාදිත පළමු කඩදාසි තොගය 29දා බංගලාදේශයට අපනයනය කරනු ලැබීය.
+
+ටොන් පනහකින් යුතු මෙම කඩදාසි තොගය කාර්මික කඩදාසි වලින් යුතු විය. කර්මාන්ත ශාලාවේ නිෂ්පාදන කටයුතු පසුගිය අප්‍රේල් 18දා ආරම්භ කරනු ලැබීය. අපනයනය කළ කඩදාසි තොගයේ වටිනාකම ඩොලර් 20000ක් පමණ බව ‘අනුනයින්’ සමූහ ව්‍යාපාරයේ විධායක අධ්‍යක්‍ෂ නලින් ඇන්තනී මහතා පැවසුවේ ය.
+
+ජාතික කඩදාසි සංස්ථාවට අයත්ව තිබු ඇඹිලිපිටිය කඩදාසි කම්හල විවෘත ආර්ථික ප්‍රතිපත්ති මත විදෙස් රටවලින් කඩදාසි ගෙන්විමට කටයුතු කිරිමෙන් පසු 2003 වසරේදි වසා දමන ලදී. ඉන් පසු අවස්ථා කිහිපයකදි එහි තිබූ යන්ත්‍ර සූත්‍ර යකඩ ආදිය ගලවා පරණ යකඩ වලට විකුණා කම්හල ගොඩනැගිලිවලට සහ යන්ත්‍ර සුත්‍ර කිහිපයකට පමණක් සීමාකර තිබුණි.
+
+...
+
+[Data](articles/03a551ee.json)
+
+---
+
 ### Teachers, principals sick holiday
 
 *2024-05-30 12:06:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆசிரியர்கள்-அதிபர்கள்-சுகயீன-விடுமுறை/175-338141) · `ta`
@@ -537,6 +617,24 @@ Human beings are increasing following Israel -Palestinian clashes. Attempts to s
 [Data](articles/3102081e.json)
 
 [Extended Data](ext_articles/3102081e.ext.json)
+
+---
+
+### Singapore team to help improve Sri Lanka immigration system
+
+*2024-05-30 12:00:00* · [`economynextcom`](https://economynext.com/singapore-team-to-help-improve-sri-lanka-immigration-system-165443/) · `en`
+
+ECONOMYNEXT – A six-member delegation from Singapore’s Immigration and Checkpoints Authority (ICA) is in Sri Lanka to conduct a comprehensive study of airport and immigration department operation systems.
+
+“The purpose of this visit is to provide cooperation to improve Sri Lanka’s immigration system by achieving the same standards as Singapore and integrating advanced technology,” the Ministry of Public Security said in a statement.
+
+“This will greatly contribute to Sri Lanka’s efforts to modernize and improve all processes related to immigration, visa issuance and citizenship.”
+
+The team, who are  here after Minister Tiran Alas requested Singapore Minister for Law K Shanmugam’s help, will provide a detailed report on recommendations to bring the existing system on par with that of Singapore.
+
+...
+
+[Data](articles/6ca08bc1.json)
 
 ---
 
@@ -1028,6 +1126,8 @@ A folklore collection of Sri Lankan journalist and author Martin Wickramasinghe 
 
 [Data](articles/99351b61.json)
 
+[Extended Data](ext_articles/99351b61.ext.json)
+
 ---
 
 ### 'Tashi' in Kalmulla '' Murder suspect dies suddenly
@@ -1259,6 +1359,26 @@ Customs officers recently raided five jewellery manufacturing plants and recover
 [Data](articles/97f13ebb.json)
 
 [Extended Data](ext_articles/97f13ebb.ext.json)
+
+---
+
+### Sri Lanka tourists to get 60-day visa free entry to Thailand
+
+*2024-05-30 10:04:00* · [`economynextcom`](https://economynext.com/sri-lanka-tourists-to-get-60-day-visa-free-entry-to-thailand-165417/) · `en`
+
+ECONOMYNEXT – Tourists from Sri Lanka would get visa free entry to Thailand from June 1 under a program approved by the country’s cabinet to boost the sector, a media report said.
+
+Sri Lankans are among 36 countries added to a list of 57 countries that would get 60 day stays under the scheme, The Bangkok Post reported.
+
+The new countries eligible for ‘Destination Thailand Visa’ include Albania, Cambodia, China, India, Jamaica, Kazakhstan, Laos, Mexico, Morocco, Panama, Romania and Uzbekistan.
+
+Visitors who want to work and visit tourist destinations will be able to get five-year visas valid for 180 days, extendable for another 180 days, the government spokesman Chai Wacharonke  was quoted in the news report.
+
+The visa will allow foreign students of higher education to stay for one year after graduation and work, instead of having to leave the country immediately after finishing their course.
+
+...
+
+[Data](articles/e02783c4.json)
 
 ---
 
@@ -2147,145 +2267,5 @@ At the same time, the President referred to the difficulties in obtaining domest
 [Data](articles/57f38048.json)
 
 [Extended Data](ext_articles/57f38048.ext.json)
-
----
-
-### Arroganta bail on charges of assaulting students
-
-*2024-05-30 02:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/184826) · `ta`
-
-Arutsakodari, accused of assaulting students in Jaffna, was released on bail after eleven students alleged harassment. The magistrate ordered her arrest but later granted her bail under strict conditions, including not contacting the victims or their families.
-
-🟩
-
-Arutsakodari, who was arrested and detained for allegedly assaulting students in Jaffna, has been released on bail.
-
-Eleven students in the hostel on Tuesday surrendered to the Kayts police station on Tuesday 28th, alleging that Arutshakodari, who was in charge of the hostel, who had been staying at a school hostel in Kayts area, had been harassed.
-
-Subsequently, when the students were tried before the Jaffna and Teaching Hospital Legal Officer, it was found that the students were in the bodies.
-
-The Magistrate had ordered the arrest of the Kayts and the Kayts Magistrate in response to the Kayts Magistrate.
-
-When the case was held at the Kayts Magistrate's Court on Wednesday, he was presented to the Arrotakodari House.
-
-In the subsequent hearing, the condition has stipulated that the archakodari bail of 50 thousand rupees, one lakh rupees, has been granted bail, not to go to the student hostel and not contact the victims or their parents.
-
-◼️
-
-[Data](articles/588d7f3a.json)
-
-[Extended Data](ext_articles/588d7f3a.ext.json)
-
----
-
-### Northern Province Governor at the Jaffna Teaching Hospital
-
-*2024-05-30 02:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/184825) · `ta`
-
-At a Jaffna Teaching Hospital event marking its 5th anniversary, the Northern Province Governor highlighted challenges faced by the medical department due to insufficient funding and space constraints. He emphasized the need for tighter measures to ensure patient care and adherence to regulations within state institutions. The governor urged the media to support the hospital's efforts effectively.
-
-🟩
-
-The Governor of the Northern Province BSM at a function organized by the Jaffna Teaching Hospital on Wednesday, 29th of Wednesday, in honor of the 5th anniversary. Charles also attended.
-
-“The medical department is carrying out their service amidst various challenges. Similarly, the Ministry of Health requires more funds. In this case, there are various problems at the Jaffna Teaching Hospital.
-
-Services have to be provided in the midst of a number of issues including lack of space. However, from other hospitals in the province, the hospital administration has to meet additional expenses as patients are transferred to the Jaffna Teaching Hospital on weekends.
-
-Patients in hospitals in their respective areas should be provided with possible treatments. This is why patients face difficulties and their families are in trouble. Therefore, the provincial health department administration should adopt very tight measures in this regard.
-
-...
-
-[Data](articles/830a3ab7.json)
-
-[Extended Data](ext_articles/830a3ab7.ext.json)
-
----
-
-### Fines against 5 companies
-
-*2024-05-30 02:14:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/5-நிறுவனங்களுக்கு-எதிராக-அபராதம்/175-338123) · `ta`
-
-Five companies were fined 1243 million rupees for illegally importing gold into Sri Lanka. The Minister highlighted fines for indirect imports through jewelry purchases and mentioned one company's fine of 179 million rupees.
-
-🟩
-
-Five companies who illegally imported gold have been fined 1243 million rupees.
-
-Minister of State Ranjith Siyambalapitiya said that the gold jewelery purchased from the third party will be fined without direct imports.
-
-He said five companies that illegally imported gold to Sri Lanka have been identified and fined 1243 million rupees.
-
-Ranjith Siyambalapitiya said that a company related to illegal imports has been ordered to pay 179 million rupees.. (A)
-
-◼️
-
-[Data](articles/74f241f2.json)
-
-[Extended Data](ext_articles/74f241f2.ext.json)
-
----
-
-### Central Bank hopeful of faster recovery in credit to private sector
-
-*2024-05-30 02:07:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Central-Bank-hopeful-of-faster-recovery-in-credit-to-private-sector/108-283657) · `en`
-
-Although the private sector credit growth hasn’t so far picked up to the desired levels, the Central Bank said it is hopeful that the pace of growth would improve along with the recovery in the economy as well as the easing of credit conditions, alongside the easing of interest rates.
-
-The Central Bank wasn’t entirely happy about the speed of the growth in credit to the private sector thus far this year, although that has consistently been in the positive from June last year, with the exception of in January, which turned out to be an idiosyncrasy.
-
-Commenting on the market lending rates, the Central Bank said it had seen a substantial decline, especially for shorter tenures. However, the financial sector regulator noted there is a bit more room for the long tenure rates to adjust downwards.
-
-...
-
-[Data](articles/596a0e01.json)
-
-[Extended Data](ext_articles/596a0e01.ext.json)
-
----
-
-### "Anti-cultural problems 'by defining international schools';What should be done to regulate?
-
-*2024-05-30 02:06:48* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cd112d28rjno) · `si`
-
-International schools in Sri Lanka face criticism for prioritizing English literature over aesthetic subjects, potentially violating child rights. Concerns include lack of teacher recruitment for specialized subjects, annual fee hikes, and regulatory gaps allowing unqualified teachers and inadequate coverage. The National Audit Office highlighted these issues in 2020, suggesting a need for stronger oversight. Despite calls for abolition by the Ceylon Teachers Union, others argue for regulation to address these concerns, ensuring quality education for all students.
-
-🟩
-
-"Anti-cultural problems 'by defining international schools';What should be done to regulate?
-
-"When the children were included in school, teachers would not give teachers to learn aesthetic subjects to the ordinary line. But when you get to Grade 9 says, he says to do it without aesthetic subject to do English literature instead. Isn't this a violation of child rights?
-
-In a search we have found about this, we showed the GCE Advanced Level for aesthetic subjects. Some international schools have taken place to provide English literature to all children just the subject of English literature without recruiting teachers for the children who are ready for the GCE O / L examination.
-
-However, the administrative sections of the schools say that if a student or student wants to learn a aesthetic subject other than English literature, the administrative segments of the schools said.
-
-...
-
-[Data](articles/6d5406b0.json)
-
-[Extended Data](ext_articles/6d5406b0.ext.json)
-
----
-
-### 300 schools are at risk of landslides
-
-*2024-05-30 02:00:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/300-பாடசாலைகளுக்கு-மண்சரிவு-அபாயம்/175-338122) · `ta`
-
-More than 300 schools face landslide risks, as per the National Building Research Institute. Measures are being taken to manage disasters in these areas, with several state agencies also present in landslide-prone zones.
-
-🟩
-
-The National Building Research Institute said that there are more than 300 schools in the landslides.
-
-Gamini Jayatissa, Director of the National Building Research Institute Institute of Research Institute, said that steps have been taken to control disasters in the area where these schools are located.
-
-In addition, various state agencies are found in the landslide hazardous areas.. (A)
-
-◼️
-
-[Data](articles/83546a29.json)
-
-[Extended Data](ext_articles/83546a29.ext.json)
 
 ---

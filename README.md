@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-30 14:18:47**
+As of **2024-05-30 14:34:26**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 4,364
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,295 (100.0%) of 27,301 articles have been extended.
+27,301 (100.0%) of 27,301 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-30 (Thursday)
 
-### வரலாற்றில் இன்று
+### Today in history
 
 *2024-05-30 13:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/184863) · `ta`
 
-இஸ்ரேல் - காசா யுத்தம் மிகத் தீவிரமாகி வருகிறது. கள அழிப்புகள், உயிரிழப்புக்களை ஏற்படுத்தும் இந்த போரினால் ஏனைய நாடுகளுக்கிடையே பல்வேறு முரண்பாடுகளும் பலவிதமான எதிர்த்தாக்குதல்களும் உருவாகிவிட்டன.
+In 1967, during the Israel-Gaza War, UAE President Kamal Abdul Nasser threatened to close the Suez Canal if any country interfered in the conflict between Arab nations and Israel. This warning was published in the Weerakesari magazine on May 30, 1967, highlighting the tense geopolitical situation of the time.
 
-இதைப் போன்றதொரு போர்க்கால சூழல்  1967ஆம் ஆண்டில் நிலவியபோது, அன்றைய ஐக்கிய அரபு குடியரசின் ஜனாதிபதி கமால் அப்துல் நாஸர், அரபு நாடுகளுக்கும் இஸ்ரேலுக்கும் ஏற்படக்கூடிய யுத்தத்தில் வேறு எந்த நாடும் தலையிட்டால் சூயஸ் கால்வாயை உடனடியாக மூடிவிடுவேன் என்று பகிரங்க அறிவித்திருந்தார்.
+🟩
 
-இது தொடர்பான செய்தி, 1967ஆம் ஆண்டு இதே திகதியான மே 30 அன்று வெளியான வீரகேசரி பத்திரிகையின் முதல் பக்கத்தில் "சூயஸ் கால்வாயை மூடுவேன் : ஜனாதிபதி நாஸர் எச்சரிக்கை : ஐ.நா. பந்தோபஸ்து சபை தகராறை விவாதிக்கிறது" என்ற தலையங்கத்துடன் பிரசுரிக்கப்பட்டிருந்தது.
+Israel - Gaza War is becoming more intense. This war that causes field destruction and casualties has created various contradictions and a variety of resistant attacks between other countries.
+
+When a wartime situation prevailed in 1967, the President of the UAE, Kamal Abdul Nasser, had publicly announced that if any other country intervened in the war between the Arab countries and Israel, the Suez Canal would be closed immediately.
+
+On the first page of the Weerakesari magazine on May 30, 1967, the Suez Canal will be closed: President Nasser Warning: UN. Published with an editorial, "The Bandopastu Council Disputes."
 
 ◼️
 
 [Data](articles/7dda5d5c.json)
+
+[Extended Data](ext_articles/7dda5d5c.ext.json)
 
 ---
 
@@ -210,15 +216,21 @@ Veteran Musiciant Shelton Premaratne has passed away today (30).
 
 ---
 
-### இன்றைய நாணய மாற்று விகிதம்
+### Today's currency exchange rate
 
 *2024-05-30 13:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/184861) · `ta`
 
-இன்று வியாழக்கிழமை (மே 30) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் விற்பனை விலை ரூபா 296.8721 ஆகவும் கொள்வனவு விலை ரூபா 306.4863ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+The current exchange rate is approximately 296.8721 USD to INR.
+
+🟩
+
+The US $ 296.8721 is Rs.
 
 ◼️
 
 [Data](articles/c4e43adc.json)
+
+[Extended Data](ext_articles/c4e43adc.ext.json)
 
 ---
 
@@ -292,23 +304,31 @@ The driver of the 29-year-old driver has been arrested by the police.
 
 ---
 
-### ஈரான் ஜனாதிபதிக்கு அஞ்சலி செலுத்தும் ஐநா நிகழ்வு - அவுஸ்திரேலியா அமெரிக்கா புறக்கணிக்க தீர்மானம்
+### UN event to pay tribute to Iran's president - Australia resolution to boycott US
 
 *2024-05-30 13:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/184859) · `ta`
 
-ஐக்கியநாடுகள் பொதுச்சபையில் ஈரான் ஜனாதிபதி இப்ராஹிம் ரைசிக்கு அஞ்சலி செலுத்தும் நிகழ்வை அவுஸ்திரேலியா புறக்கணிக்கவுள்ளது.
+Australia plans to boycott the UN General Assembly tribute to Iran's President Raisi, citing his human rights abuses. The move follows reports that Australia will also skip the US tribute to Raisi. The decision is backed by claims of Raisi's involvement in mass killings during Iran's 1988 prison massacres, with critics labeling him "Tehran's butcher."
 
-ஈரான் ஜனாதிபதிக்கு அஞ்சலி செலுத்தும் நிகழ்வை அமெரிக்கா புறக்கணிக்கவுள்ளதாக  தெரிவித்துள்ள நிலையிலேயே அவுஸ்திரேலியாவும் புறக்கணிக்கவுள்ளதாக தகவல்கள் வெளியாகியுள்ளன.
+🟩
 
-ஐக்கியநாடுகள் பொதுச்சபை நிகழ்வில் அவுஸ்திரேலிய பிரதிநிதிகள் எவரும் கலந்துகொள்ளமாட்டார்கள் என உறுதியாக தெரியவருவதாக கார்டியன் தெரிவித்துள்ளது.
+Australia will boycott Ibrahim Raisi's tribute to the United Nations General Assembly.
 
-தெஹ்ரானின் கசாப்புக்கடைக்காரன் என பல ஈரானியர்கள் தெரிவிக்கும் அஞ்சலி செலுத்தும் ஐநாவின் இன்றைய நிகழ்வை புறக்கணிக்கவேண்டிய தார்மீக கடமை அவுஸ்திரேலிய அரசாங்கத்திற்குள்ளது என  லிபரல் கட்சியின் கிளைரே சான்ட்லர் தெரிவித்துள்ளார்.
+According to reports, Australia will also boycott the Iranian president's tribute to the US.
 
-ரைசி அரசாங்கத்தின் கீழ் பாதிக்கப்பட்ட அப்பாவி பொதுமக்களிற்கு அவுஸ்திரேலியா ஆதரவாகயிருக்கவேண்டும் இவ்வாறு பாதிக்கப்பட்ட பலர் பெண்கள் யுவதிகள் என அவர்  தெரிவித்துள்ளார்.
+The Guardian said it was sure that no Australian representatives would attend the United Nations General Assembly.
 
-...
+The Australian government has the moral duty to boycott the UN's today's event, which is a tribute to the many Iranians as Tehran's butcher, said the Liberal Party's Glyrey Sandler.
+
+Australia should be supported by the innocent civilians under the Raisi government, so many of the victims are women.
+
+US officials, who have said that Ibrahim Raisi is the worst human rights violations in Iran, have killed thousands of prisoners in 1988, they said they would boycott the tribute event.
+
+◼️
 
 [Data](articles/eee41a1b.json)
+
+[Extended Data](ext_articles/eee41a1b.ext.json)
 
 ---
 
@@ -518,19 +538,27 @@ At the same time, there is a shortage of river banks in the area.
 
 ---
 
-### ඇඹිලිපිටියේ කඩදාසි බංග්ලාදේශයට
+### Paper Bangladesh in Embilipitiya
 
 *2024-05-30 12:07:11* · [`adalk`](https://www.ada.lk/breaking_news/ඇඹිලිපිටියේ-කඩදාසි-බංග්ලාදේශයට/11-409909) · `si`
 
-දශක දෙකකට වැඩි කාලයක් වසා දමා තිබී යළි නිෂ්පාදන කටයුතු ඇරඹු ඇඹිලිපිටිය කඩදාසි කම්හලේ නිෂ්පාදිත පළමු කඩදාසි තොගය 29දා බංගලාදේශයට අපනයනය කරනු ලැබීය.
+The Embilipitiya Paper Factory, initially producing paper over two decades ago, recently restarted operations under the KSPA package, focusing on exporting industrial paper. The factory, now privately owned, aims to meet Sri Lanka's domestic demand and expand its exports to twelve countries.
 
-ටොන් පනහකින් යුතු මෙම කඩදාසි තොගය කාර්මික කඩදාසි වලින් යුතු විය. කර්මාන්ත ශාලාවේ නිෂ්පාදන කටයුතු පසුගිය අප්‍රේල් 18දා ආරම්භ කරනු ලැබීය. අපනයනය කළ කඩදාසි තොගයේ වටිනාකම ඩොලර් 20000ක් පමණ බව ‘අනුනයින්’ සමූහ ව්‍යාපාරයේ විධායක අධ්‍යක්‍ෂ නලින් ඇන්තනී මහතා පැවසුවේ ය.
+🟩
 
-ජාතික කඩදාසි සංස්ථාවට අයත්ව තිබු ඇඹිලිපිටිය කඩදාසි කම්හල විවෘත ආර්ථික ප්‍රතිපත්ති මත විදෙස් රටවලින් කඩදාසි ගෙන්විමට කටයුතු කිරිමෙන් පසු 2003 වසරේදි වසා දමන ලදී. ඉන් පසු අවස්ථා කිහිපයකදි එහි තිබූ යන්ත්‍ර සූත්‍ර යකඩ ආදිය ගලවා පරණ යකඩ වලට විකුණා කම්හල ගොඩනැගිලිවලට සහ යන්ත්‍ර සුත්‍ර කිහිපයකට පමණක් සීමාකර තිබුණි.
+The first piece of paper produced at the Embilipitiya Paper Factory, which began more than two decades, exported the first piece of paper produced on the Embilipitiya Paper Factory.
+
+Fifty tons of paper was in the industrial paper. Factory Production was established on 18 April. The 'Group' Group Executive Director Nalin Anthony said that the stock of exported paper was worth around $ 20000.
+
+The Embilipitiya Paper Factory that was owned by the National Paper Corporation was shut down in 2003 after operationing from foreign countries on overseas countries.. There were only a few instances of machinery iron and sold to the old iron and the factory buildings and machines.
+
+Later, the government was reconstructed by KSPA package (Pvt) Last year, named Embilipitiya Paper Mills Priva. Originally, the first 70mg and 150mg size industrial paper was started in the first installment of new machines. Sri Lanka's exploitation was used as elements of the country.
 
 ...
 
 [Data](articles/03a551ee.json)
+
+[Extended Data](ext_articles/03a551ee.ext.json)
 
 ---
 
@@ -635,6 +663,8 @@ The team, who are  here after Minister Tiran Alas requested Singapore Minister f
 ...
 
 [Data](articles/6ca08bc1.json)
+
+[Extended Data](ext_articles/6ca08bc1.ext.json)
 
 ---
 
@@ -1379,6 +1409,8 @@ The visa will allow foreign students of higher education to stay for one year af
 ...
 
 [Data](articles/e02783c4.json)
+
+[Extended Data](ext_articles/e02783c4.ext.json)
 
 ---
 

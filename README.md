@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-30 06:59:02**
+As of **2024-05-30 07:21:25**
 
 ## Newspaper Stats
 
-*Scraped **27,191** Articles*
+*Scraped **27,203** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 241
 dbsjeyarajcom | 266
 bbccomsinhala | 270
 newsfirstlk | 363
-islandlk | 1,465
+islandlk | 1,477
 economynextcom | 1,556
 dailyftlk | 1,601
 adalk | 2,311
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,351
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,191 (100.0%) of 27,191 articles have been extended.
+27,191 (100.0%) of 27,203 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -484,6 +484,36 @@ It is reported that the Elections of the four associations will be conducted by 
 
 ---
 
+### Egg white masks for clear skin
+
+*2024-05-29 23:44:00* · [`islandlk`](http://island.lk/egg-white-masks-for-clear-skin/) · `en`
+
+All of us love to have eggs at breakfast time…even lunch and dinner, as well.
+
+Yes, eggs can also help us get rid of skin problems, so this week I’ve decided to do my beauty scene with eggs.
+
+You will need 1 egg white, 1 teaspoon of lemon juice and ½ teaspoon of honey
+
+Whisk all the ingredients in a clean mixing bowl and then apply this mixture to your face.
+
+Let the mask dry for about 10-15 minutes and then remove the mask with a wet wipe or damp cloth.
+
+You will need 1 egg white, 1 teaspoon of orange juice and ½ teaspoon of turmeric powder.
+
+Whisk the egg white in a bowl until it turns frothy. Add the orange juice and turmeric. Mix all the ingredients thoroughly. Apply this mixture to your face.
+
+You will need 1 egg white, ¼ ripe mashed avocado and1 teaspoon of yoghurt.
+
+Whisk the egg white until it is frothy and then add the mashed avocado and yoghurt.
+
+Apply this paste to your face and wait for 15-20 minutes before washing with warm water.
+
+...
+
+[Data](articles/d6fe7268.json)
+
+---
+
 ### Thailand set to indict former PM Thaksin over royal insult
 
 *2024-05-29 23:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/99521/thailand-set-to-indict-former-pm-thaksin-over-royal-insult) · `en`
@@ -501,6 +531,64 @@ Thaksin, 74, denies wrongdoing and has repeatedly pledged loyalty to the crown, 
 [Data](articles/e0596cf4.json)
 
 [Extended Data](ext_articles/e0596cf4.ext.json)
+
+---
+
+### MillenniumIT ESP Singapore, successfully concludes ‘CIO Conclave 2024’
+
+*2024-05-29 23:13:00* · [`islandlk`](http://island.lk/millenniumit-esp-singapore-successfully-concludes-cio-conclave-2024/) · `en`
+
+MillenniumIT ESP, via its Singapore subsidiary, in collaboration with Veritas Technologies LLC and Oracle MySQL, successfully hosted the “CIO Conclave 2024” on the 9th of May 2024, at The St. Regis Singapore.
+
+The event brought together over 30 Chief Information Officers (CIOs) from a variety of industries, providing a unique opportunity to explore the latest advancements in data management and analytics, with a focus on education. MillenniumIT ESP Singapore played a significant role in organising this event, attesting to its growing global footprint and international presence.
+
+...
+
+[Data](articles/568a870b.json)
+
+---
+
+### LankaPay partners with UnionPay, revolutionizing cross-border ATM acceptance in Sri Lanka
+
+*2024-05-29 23:07:00* · [`islandlk`](http://island.lk/lankapay-partners-with-unionpay-revolutionizing-cross-border-atm-acceptance-in-sri-lanka/) · `en`
+
+LankaPay – the national payment network of Sri Lanka recently announced their partnership with UnionPay International (UPI), the leading international payment network in the world, enabling cross border ATM connectivity. This collaboration marks a significant milestone in LankaPay’s global journey towards fostering cross border payments with a view to provide greater convenience to tourists who visit Sri Lanka.
+
+With the rebound of tourism and international trade in Sri Lanka, seamless cross-border financial transactions have become a pressing need. Recognizing this demand, UnionPay International and LankaPay have joined forces to establish a comprehensive network that enables UnionPay cardholders to access ATMs across Sri Lanka, providing unparalleled convenience and accessibility.
+
+...
+
+[Data](articles/15901dbe.json)
+
+---
+
+### Standard Chartered, Women Win and SERVE empower 15,000 girls through Goal Girl Empowerment Project
+
+*2024-05-29 23:03:00* · [`islandlk`](http://island.lk/standard-chartered-women-win-and-serve-empower-15000-girls-through-goal-girl-empowerment-project/) · `en`
+
+Standard Chartered has successfully empowered 15,000 young women and girls from underserved communities in Sri Lanka.
+
+The transformative Goal Girl Empowerment Project is part of Futuremakers by Standard Chartered (Futuremakers), the Bank’s global initiative to tackle inequality by promoting economic inclusion for disadvantaged young people across its markets, including those affected by COVID-19
+
+Launched in 2017 with funding from the Standard Chartered Foundation the programme was delivered by Women Win and SERVE, a Sri Lankan social work-based NGO. Goal was designed for adolescent girls aged 12 – 18 years from disadvantaged communities with the aim of harnessing the power of sports and life-skills education to tackle gender inequity and promote economic inclusion.
+
+...
+
+[Data](articles/03106a24.json)
+
+---
+
+### Banking sector shares suffer decline in the wake of Combank’s morn setback
+
+*2024-05-29 23:03:00* · [`islandlk`](http://island.lk/banking-sector-shares-suffer-decline-in-the-wake-of-combanks-morn-setback/) · `en`
+
+Commercial Bank of Sri Lanka stocks were trading down last morning, a day after the bank announced a rights issue. Non- voting shares were down at Rs. 84.00. This negatively impacted other banking stocks yesterday, market analysts said.
+
+The bank made a capital call from shareholders of Rs 22 billion, offering voting shares at Rs 85 and non-voting at Rs. 69. Commercial Bank will offer 252,082,449 shares in the proportion of 1 for every existing 5, to raise Rs 21.42 billion.
+
+...
+
+[Data](articles/b3e729ea.json)
 
 ---
 
@@ -2169,117 +2257,5 @@ Minister of External Affairs Tharaka Balasuriya is also scheduled to commence in
 [Data](articles/99ebed22.json)
 
 [Extended Data](ext_articles/99ebed22.ext.json)
-
----
-
-### Daily Mirror article on poverty stricken mother gets tremendous response
-
-*2024-05-29 15:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Daily-Mirror-article-on-poverty-stricken-mother-gets-tremendous-response/108-283618) · `en`
-
-May 29- Following a report in the Daily Mirror of a mother of four children from Kebithigolleva, who was struggling after her husband’s sudden passing, numerous donors reached out to the Daily Mirror office, offering their support to the family.
-
-Accordingly, the family has shared their bank details for those interested in contributing to their well-being.
-
-In today’s Daily Mirror, it was reported that the 33-year-old mother found herself in dire circumstances, enduring four months without electricity, two weeks of water scarcity, and mourning the loss of her husband, who was the main breadwinner supporting the family through odd jobs.
-
-◼️
-
-[Data](articles/af4dbeb4.json)
-
-[Extended Data](ext_articles/af4dbeb4.ext.json)
-
----
-
-### The slave to Kasino breaks two co -operative rural banks
-
-*2024-05-29 15:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/184737) · `ta`
-
-A suspect, a 30-year-old from Piliyandala addicted to gambling, stole Rs 8 crore from two cooperative rural banks in Sri Lanka. He used the money to gamble at casinos, buying a car with the loot. Arrested on charges of grand theft, his addiction led him to commit the crimes.
-
-🟩
-
-A suspect was arrested on Tuesday (28) based on information received by the Criminal Investigation Department in connection with the stolen incident of gold jewelery and money worth billions of rupees.
-
-The suspect has stolen gold jewelery and money worth Rs 6 crore at a co-operative rural bank in Angampitiya, Wennappuwa, and the suspect has stolen gold jewelery and money worth Rs 2 crore from Ja-Ela and Kanavana.
-
-Investigations have revealed that the arrested man is a 30 -year -old from Madabatha area of ​​Piliyandala and is addicted to the Cassino's game.
-
-In addition, the suspect told the police that he went to the extravagant hostels and played Cassino with the money that was sold in the two banks.
-
-Investigations have revealed that the car has been bought from a person in the Wennappuwa area with stolen money.
-
-◼️
-
-[Data](articles/5013d1e8.json)
-
-[Extended Data](ext_articles/5013d1e8.ext.json)
-
----
-
-### Defence Ministry clearance mandatory for ex-servicemen traveling to Russia
-
-*2024-05-29 15:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Defence-Ministry-clearance-mandatory-for-ex-servicemen-traveling-to-Russia/108-283617) · `en`
-
-Colombo, May 29 (Daily Mirror) - Sri Lanka has announced that Russia will now require clearance from the Sri Lanka Defence Ministry for issuing visit visas to ex-servicemen.
-
-This decision was made following a constructive meeting between Sri Lanka's Minister of Foreign Affairs, Ali Sabry, and the Russian Ambassador to Colombo, His Excellency Levan S. Dzhagaryan.
-
-The discussions focused on the urgent issue of Sri Lankans being deployed in the ongoing Russia-Ukraine conflict. Both parties agreed on the necessity of immediate steps to address and resolve these pressing concerns. The new visa clearance requirement is part of these measures aimed at regulating and monitoring the involvement of Sri Lankan nationals in the conflict.
-
-Further, the upcoming visit by the Honorable State Minister of Foreign Affairs to Russia is expected to facilitate further dialogue and efforts to find a comprehensive solution to this matter.
-
-◼️
-
-[Data](articles/daee7e74.json)
-
-[Extended Data](ext_articles/daee7e74.ext.json)
-
----
-
-### Singapore team in Colombo to study immigration system in SL
-
-*2024-05-29 15:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Singapore-team-in-Colombo-to-study-immigration-system-in-SL/108-283616) · `en`
-
-Colombo, May 29 (Daily Mirror) - A six-member delegation from Singapore's Immigration & Checkpoints Authority (ICA) is on a week-long visit to Sri Lanka.
-
-The delegation arrived in Sri Lanka following a request by Minister of Public Security Tiran Alles to Minister for Law of Singapore K. Shanmugam.
-
-The Ministry said the purpose of the visit is to enhance cooperation and upgrade Sri Lanka's immigration system to align with Singapore's standards, integrating advanced technology.
-
-This initiative aims to modernize all immigration, visa and citizenship processes in Sri Lanka.
-
-After conducting a comprehensive study of the Airport and Immigration Department's operations, Minister Alles requested a detailed report on measures to elevate Sri Lanka's system to Singapore's standards.
-
-The Ministry said the delegation assured that the report will be submitted within a month.
-
-◼️
-
-[Data](articles/c7e1558e.json)
-
-[Extended Data](ext_articles/c7e1558e.ext.json)
-
----
-
-### Legal action against 8 restaurants
-
-*2024-05-29 15:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/184760) · `ta`
-
-Dr. Saheela Isadine, under the Director of Regional Health Services, led a division to inspect food safety in Akkaraipattu. They found issues at 65 food handling businesses, taking legal action against 8.
-
-🟩
-
-On the instructions of the Director of Regional Health Services, Dr. Saheela Isadine, the Regional Environmental Industrial Health and Food Safety Division responsible for the contribution of ASM Balasad, the Health Medical Officer of the Akkaraipattu Health Medical Officer.
-
-Akkaraipattu, Adalaichenai and Alayadivembu, the public health inspectors of the offices of the offices of Akkaraipattu, were carried out at trade centers and food stations in Akkaraipattu area and seized and destroyed human consumption.
-
-65 food manipulation companies have been tested and legal action has been taken against eight companies.
-
-Senior Public Health Inspectors, Public Health Inspectors, Regional Environmental Industrial Health and Food Security Unit Officers including Health Medical Officer AL Ismail, Akkaraipattu Health Officer
-
-◼️
-
-[Data](articles/c3c2ea3b.json)
-
-[Extended Data](ext_articles/c3c2ea3b.ext.json)
 
 ---

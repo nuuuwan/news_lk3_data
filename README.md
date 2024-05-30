@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-30 10:34:15**
+As of **2024-05-30 10:52:17**
 
 ## Newspaper Stats
 
-*Scraped **27,234** Articles*
+*Scraped **27,237** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,89 @@ islandlk | 1,477
 economynextcom | 1,560
 dailyftlk | 1,601
 adalk | 2,313
-adaderanalk | 3,101
+adaderanalk | 3,103
 tamilmirrorlk | 3,193
 virakesarilk | 4,186
-dailymirrorlk | 4,304
+dailymirrorlk | 4,305
 adaderanasinhalalk | 4,357
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,234 (100.0%) of 27,234 articles have been extended.
+27,234 (100.0%) of 27,237 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-30 (Thursday)
+
+### NBRO issues landslide warnings for 6 districts
+
+*2024-05-30 10:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/99530/nbro-issues-landslide-warnings-for-6-districts) · `en`
+
+The National Building and Research Organisation (NBRO), on Thursday (May 30) issued early landslide warnings for several localities in 6 districts, to be in effect until 07.00 a.m. tomorrow (31).
+
+Accordingly, a Level 02 (Amber) alert was issued for the following areas:
+
+Nuwara-Eliya – Ambagamuwa Divisional Secretariat Division (DSD) and surrounding areas
+
+Rathnapura – Ratnapura, Balangoda, Eheliyagoda and Imbulpe DSDs and surrounding areas
+
+Meanwhile, Level 01 (Yellow) alerts have been issued for the following areas:
+
+Kandy – Udunuwara, Gangawata Korale, Yatinuwara and  Udapalatha  DSDs and surrounding areas
+
+Kegalle-  Rambukkana, Dehiowita, Bulathkohupitiya, Ruwanwella, Galigamuwa, Yatiyanthota,  Aranayaka, Mawanella, Kegalle and Deraniyagala DSDs and surrounding areas
+
+Ratnapura-  Kuruwita, Elapatha, Kiriella, Ayagama and Kalawana DSDs and surrounding areas
+
+◼️
+
+[Data](articles/c02f2ecd.json)
+
+---
+
+### Powerful western country concerned over SL ex-soldiers joining the Russian military
+
+*2024-05-30 10:18:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Powerful-western-country-concerned-over-SL-ex-soldiers-joining-the-Russian-military/108-283675) · `en`
+
+Colombo, May 30 (Daily Mirror)- A powerful western country remains concerned over Sri Lankan ex-soldiers joining the Russian military in the war against Ukraine, an informed source said.
+
+According to the source, Sri Lankan government took initiatives to engage with the Russian authorities to seek details about Sri Lankans fighting as mercenaries of the Russian military in the wake of western concerns.
+
+A delegation headed by Defence Secretary Kamal Gunaratne is also expected to visit Moscow for diplomatic engagements.
+
+The source said some Sri Lankans had also joined the Ukrainian forces to fight against Russia.
+
+The defence authorities have received hundreds of inquiries from family members of Sri Lankan soldiers in the war front there in Russia and Ukraine.
+
+Recently, the police also arrested some individuals responsible for traf­ficking people to the war front.
+
+Most Sri Lankans are desperately trying to join the two militaries in Russia and Ukraine for money and other perks being offered.
+
+◼️
+
+[Data](articles/2a6bae41.json)
+
+---
+
+### Indian-owned ship held in Colombo after oil spill; travel ban imposed on captain
+
+*2024-05-30 10:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/99529/indian-owned-ship-held-in-colombo-after-oil-spill-travel-ban-imposed-on-captain-) · `en`
+
+The Marine Environment Protection Authority (MEPA) has taken custody of a ship which had caused an oil spill while anchored at the Colombo Port.
+
+A spokesperson of the MEPA stated that legal action has been initiated against the company that owns the ship and the relevant insurance company regarding the oil spill. Under the Marine Environment Protection Authority Act, the MEPA is seeking compensation for the incident, the authority revealed.
+
+The ship, owned by an Indian company, had recently arrived at the Port of Colombo for maintenance activities. A special investigation conducted by MEPA had revealed a leak of hydraulic oil from the ship. The company’s owner has admitted to the incident and agreed to provide compensation, according to the MEPA.
+
+Furthermore, the Colombo Magistrate Court has imposed a travel ban on the captain of the ship preventing him from leaving the country, as per a request made by the Colombo Port Police.
+
+◼️
+
+[Data](articles/862b8241.json)
+
+---
 
 ### Jewellers fined for importing gold illegally
 
@@ -2181,69 +2249,5 @@ In view of the exclusive importation of gold in the country, he issued a special
 [Data](articles/3e9d2ca2.json)
 
 [Extended Data](ext_articles/3e9d2ca2.ext.json)
-
----
-
-### Five arrested for pulling female Constable's ARM card
-
-*2024-05-29 17:13:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெண்-கான்ஸ்டபிளின்-ஏ-ரி-எம்-அட்டையில்-இழுத்த-ஐவர்-கைது/175-338115) · `ta`
-
-Five individuals, including two female constables and a police officer, were arrested for fraudulently purchasing goods worth 15,150 rupees using a stolen ARM card. The incident occurred in Matale, where the card was found.
-
-🟩
-
-Five persons, including two female constables, have been arrested by the Kandenuwara police on charges of buying goods and buying goods.
-
-Other arrested suspects include the police constable, a multi -purpose development assistant in the Lakkala Police Division and the Electricity Employees of the Rathota Local Government Council, police said.
-
-15,150 rupees has been recovered on the ARMD card, which fell on the 24th of last month at Vihara Mawatha at the Vesak Zone in Matale.. The woman has lodged a complaint with the constable that the goods have been purchased.
-
-According to the investigation, police were arrested from the Kandenuwara police in the Vesak Zone.. Investigations carried out by them were arrested by others, police said.
-
-◼️
-
-[Data](articles/5f205828.json)
-
-[Extended Data](ext_articles/5f205828.ext.json)
-
----
-
-### UNP has accepted Ranil's defeat
-
-*2024-05-29 17:08:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலின்-தோல்வியை-ஐ-தே-க-ஏற்றுள்ளது/175-338114) · `ta`
-
-The United National Party (UNP) has acknowledged President Ranil Wickremesinghe's loss. Jayatissa commented on the decision by UNP's Palitha Range Bandara to extend Wickremesinghe's term without elections.
-
-🟩
-
-The United National Party (UNP) has officially accepted the defeat of President Ranil Wickremesinghe.
-
-Jayatissa has expressed his views on the opinion of UNP general secretary Palitha Range Bandara to give Ranil Wickremesinghe two more years without holding the presidential or general elections.
-
-◼️
-
-[Data](articles/cdb44f7b.json)
-
-[Extended Data](ext_articles/cdb44f7b.ext.json)
-
----
-
-### Sri Lanka Treasury bill yields fall across maturities, 3-months 8.62-pct
-
-*2024-05-29 17:07:00* · [`economynextcom`](https://economynext.com/sri-lanka-treasury-bill-yields-fall-across-maturities-3-months-8-62-pct-165333/) · `en`
-
-ECONOMYNEXT – Sri Lanka Treasury bill yields dropped across maturities at Wednesday’s auction, with the 3-month yield falling to 8.62 percent, data from the state debt office showed.
-
-The debt office sold all 30 billion rupees of 3-month bills offered at 8.62 percent down from 8.76 percent.
-
-All 50 billion rupees offered of 6-month bills were sold, at 9.04 percent, down from 9.17 percent.
-
-And all 80 billion rupees offered of 12-month bills were sold at 9.18 percent, down from 9.29 percent.
-
-◼️
-
-[Data](articles/e84839df.json)
-
-[Extended Data](ext_articles/e84839df.ext.json)
 
 ---

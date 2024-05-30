@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-30 23:34:16**
+As of **2024-05-30 23:53:49**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,379
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,398 (100.0%) of 27,399 articles have been extended.
+27,399 (100.0%) of 27,399 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -388,19 +388,29 @@ According to the help of a woman who was bathing from the top of the Kelani Rive
 
 ---
 
-### පොසොන් උත්සවයට මිහින්තලේට උදව් නොකරන මෙන් වගකිවයුත්තන් ප්‍රකාශ කරලා
+### The Poson festival proclaimed not to help Mihintale
 
 *2024-05-30 19:05:10* · [`adalk`](https://www.ada.lk/breaking_news/පොසොන්-උත්සවයට-මිහින්තලේට-උදව්-නොකරන-මෙන්-වගකිවයුත්තන්-ප්‍රකාශ-කරලා/11-409931) · `si`
 
-මෙවර පොසොන් උත්සවයට මිහින්තලේ පන්සලට උදව් නොකරන මෙන් ජනාධිපති ලේකම් කාර්යාලයේ වගකිවයුත්තන් සහ ඇතැම් මැති ඇමතිවරුන් ප්‍රකාශ කර ඇතත් මිහිඳු මහ රහතන් වහන්සේ සමරන ඒ උදාර පින්කමගිය වසරටත් වඩා මේ වසරේදී  සාර්ථකව සිදු කරන බව මිහින්තලා රජමහා විහාරාධිපති පූජ්‍ය වලවා හැංගුණවැවේ ධම්මරතන හිමියෝ පැවසූහ.
+The Chief Incumbent of Mihintale Raja Maha Viharaya clarified that despite statements from the Presidential Secretariat and several MPs about the Poson Festival, the Giantdu Maha Ranaman celebration is ongoing this year. He highlighted the Arahantadahara's continuous work since the Poson Poya Day 2332 years ago, including efforts during the COVID pandemic. He expressed gratitude towards various communities for their support last year and mentioned the need for two generators due to ongoing electrification issues. The Mihindu Perahera is scheduled for the 20th, and he urged continued assistance and media propagation for this year's Poson Festival.
 
-උන්වහන්සේ මේ බව පැවසූවේ අද (30දා) මිහින්තලේ පැවති මාධ්‍ය හමුවකදීය. එහිදී උන්වහන්සේ මෙසේද පැවසූහ.
+🟩
 
-"මිහිඳු මහරහතන් වහන්සේ වැඩම කරලා මේ පොසොන් පොහොය දිනට වසර 2332 ක් වෙනවා.සිංහල රජ දවසේ සිට අද දක්වා පොසොන් පින්කම සිදුකර තිබෙන බවට මූලාශ්‍ර වල අපි දැකලා තිබෙනවා, එල්.ටී.ටී.ඊ සහ ජේ.වී.පී ත්‍රස්තවාදී සමයේ , පාස්කු ප්‍රහාරය එල්ලවූ අවස්ථාවේදී  , කොවිඩ් වසංගතය පැවති සමයේ පවා අපි මේ පින්කම සිද්ධ කළා.
+The Chief Incumbent of the Mihintale Raja Maha Viharaya said that although the Presidential Secretariat and several MPs have stated in the Poson Festival, but the Chief Incumbent of the Mihinila Raja Maha Viharaya said that the Giantdu Maha Ranaman celebrates this year.
+
+He was speaking at a press conference held at Mihintale today.The Thera said,
+
+"The Arahantadahara has been working 2332 years from the Poson Poya Day from the day.At the time of the covid plague, we eventually attended this pinch.
+
+They were speaking from the great arroad of parliament and made security forces who were cleaned and cleaned in the charity, the Holy cleansed and cleaned, tea. It was a big chancer.. Those rules do not take any people, those who have not learned the financial management of the King of the Fourth Most of the Fourth.
+
+The rulers who ignore the Poson Pinhavation celebrating the Mihindu Maha Rahan.But the Sinhalese, Muslims, Tamils, other nationals have helped us last year.
 
 ...
 
 [Data](articles/58d40451.json)
+
+[Extended Data](ext_articles/58d40451.ext.json)
 
 ---
 

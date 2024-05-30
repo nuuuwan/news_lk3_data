@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-30 21:34:27**
+As of **2024-05-30 21:53:26**
 
 ## Newspaper Stats
 
-*Scraped **27,384** Articles*
+*Scraped **27,385** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 243
+colombotelegraphcom | 244
 dbsjeyarajcom | 267
 bbccomsinhala | 272
 newsfirstlk | 363
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,378
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,383 (100.0%) of 27,384 articles have been extended.
+27,384 (100.0%) of 27,385 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ Adviser Ashu Marasinghe stressed that the former only talked of an available opt
 ...
 
 [Data](articles/019640c4.json)
+
+[Extended Data](ext_articles/019640c4.ext.json)
 
 ---
 
@@ -1033,6 +1035,20 @@ Meanwhile, the Ambassador of Russia to Sri Lanka, Mr. Levan Dzhagaryan underscor
 [Data](articles/f053c0d2.json)
 
 [Extended Data](ext_articles/f053c0d2.ext.json)
+
+---
+
+### A Defeated President Cannot Appoint The Chief Justice!
+
+*2024-05-30 15:38:35* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/a-defeated-president-cannot-appoint-the-chief-justice/) · `en`
+
+There is speculation that President Ranil Wickremesinghe sought the approval of the Constitutional Council to extend the term of office of Attorney-General Sanjay Rajaratnam because he wished to appoint Rajaratnam as Chief Justice when the current Chief Justice retires towards the end of the year after the presidential election.
+
+A lawyer was heard to say in the Law Library canteen that ‘Machang, No worries. A defeated President has no power of appointment. I am only sorry that nice lady Ayesha will retire without getting appointed as AG!’, a reference to Mrs Ayesha Jinasena, Solicitor-General who would have succeeded Rajaratnam as Attorney-General.
+
+...
+
+[Data](articles/3c618467.json)
 
 ---
 
@@ -2297,35 +2313,5 @@ The general public, along with the fishing and naval communities, are urged to t
 [Data](articles/b4773a01.json)
 
 [Extended Data](ext_articles/b4773a01.ext.json)
-
----
-
-### The price of fish rose
-
-*2024-05-30 12:20:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீன்களின்-விலை-எகிறியது/175-338146) · `ta`
-
-Due to the Rimal Storm, fish prices have surged in the Ampara district, affecting fishermen and maritime workers. The Department of Meteorology warns of strong winds and sea turbulence, contributing to the market's fish shortage. Prices for various types of fish, including effect, bark fish, shrimp, and shark fish, have risen significantly, with some selling for triple the coastal area prices. Additionally, there's a scarcity of riverbank fish, exacerbating the situation.
-
-🟩
-
-Fishermen and maritime workers in the Ampara district have been advised to act on the Rimal Storm in the Ampara District.
-
-It is noteworthy that the Department of Meteorology has recently warned of strong winds and sea turbulence.
-
-The fish prices have increased and the markets are covered with lack of fish.
-
-In addition, one kilogram of effect is 1600 rupees, bark fish is 2400 rupees, shrimp is 1800 rupees per kg, a kilo of fish is 1000 rupees, shark fish is 2500 rupees per kg.The price of other retail fish is also increasing.
-
-Accordingly, the prices of fish have been increased due to the decline in the fish markets in the Kalmunai Sainthamaruthu areas and other Nintavur malaikkadu fish markets.
-
-It is noteworthy that fish are being sold in these markets with three times the increase in prices sold in the coastal areas.
-
-At the same time, there is a shortage of river banks in the area.
-
-◼️
-
-[Data](articles/21989a82.json)
-
-[Extended Data](ext_articles/21989a82.ext.json)
 
 ---

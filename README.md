@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-31 00:33:49**
+As of **2024-05-31 00:51:48**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,379
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,399 (100.0%) of 27,402 articles have been extended.
+27,402 (100.0%) of 27,402 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,6 +46,8 @@ The day Zionism is defeated is the victory day for humanism and humanity.
 
 [Data](articles/28a054dd.json)
 
+[Extended Data](ext_articles/28a054dd.ext.json)
+
 ---
 
 ### Lies used in the name of transforming a nation
@@ -57,6 +59,8 @@ When we think of elections in Sri Lanka we are forced to think of marriages as w
 ...
 
 [Data](articles/63622eac.json)
+
+[Extended Data](ext_articles/63622eac.ext.json)
 
 ---
 
@@ -77,6 +81,8 @@ He said that various government departments and institutions have been provided 
 ...
 
 [Data](articles/4e1fa95c.json)
+
+[Extended Data](ext_articles/4e1fa95c.ext.json)
 
 ---
 

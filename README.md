@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-31 03:34:16**
+As of **2024-05-31 03:52:34**
 
 ## Newspaper Stats
 
-*Scraped **27,406** Articles*
+*Scraped **27,410** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 1,601
 adalk | 2,340
 adaderanalk | 3,122
 tamilmirrorlk | 3,215
-virakesarilk | 4,226
+virakesarilk | 4,230
 dailymirrorlk | 4,332
 adaderanasinhalalk | 4,379
 
@@ -26,11 +26,73 @@ adaderanasinhalalk | 4,379
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,406 (100.0%) of 27,406 articles have been extended.
+27,406 (100.0%) of 27,410 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-31 (Friday)
+
+### உரிய வழித்தட அனுமதி இன்றி வெளி மாவட்டங்களுக்குச் சுண்ணாம்புக்கல் கொண்டு செல்ல முடியாது என மாவட்ட  அபிவிருத்திக்குழு கூட்டத்தில் தீர்மானம்
+
+*2024-05-31 03:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/184915) · `ta`
+
+உரிய வழித்தட அனுமதி இன்றி யாழ் மாவட்டத்திலிருந்து வெளி மாவட்டங்களுக்குச் சுண்ணாம்புக்கல் கொண்டு செல்ல முடியாது என மாவட்ட  அபிவிருத்திக்குழு கூட்டத்தில் தீர்மானம்.
+
+யாழ் மாவட்ட அபிவிருத்திக்குக் கூட்டம்  வடக்கு மாகாண கௌரவ ஆளுநர் பி. எஸ். எம். சார்ள்ஸ், கௌரவ அமைச்சர் டக்ளஸ் தேவாநந்தா ஆகியோரின் இணைத் தலைமைத்துவத்தின் கீழ் 30 ஆம் திகதி வியாழக்கிழமை மாவட்ட செயலகத்தின் கேட்போர் கூடத்தில் நடைபெற்றது.
+
+யாழ் மாவட்டத்தில் அகழப்படும் சுண்ணாம்புக் கற்களை எவ்வித அனுமதியும் இன்றி வெளி மாவட்டங்களுக்குக் கொண்டு செல்லப்படுகின்றமை தொடர்பில் முன்வைக்கப்பட்ட குற்றச்சாட்டுக்கு அமைய, அபிவிருத்தி குழுக் கூட்டத்தில் கலந்துகொண்ட துறைசார் அதிகாரிகள் பல்வேறு விடயங்களை முன்வைத்தனர்.
+
+...
+
+[Data](articles/d9da0f73.json)
+
+---
+
+### மன்னாரிலிருந்து யாழ்ப்பாணத்திற்கு கொண்டு செல்லப்பட்ட 82 கிலோ ஆமை இறைச்சியுடன் இருவர் கைது
+
+*2024-05-31 03:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/184913) · `ta`
+
+மன்னாரிலிருந்து யாழ்ப்பாணத்திற்குச் சட்ட விரோதமான முறையில் கொண்டு செல்லப்பட்ட ஒரு தொகுதி கடல் ஆமை இறைச்சிகளுடன் 2 சந்தேக நபர்கள் இன்று 30 ஆம் திகதி வியாழக்கிழமை மதியம் பள்ளமடு பிரதான வீதியில் வைத்து மன்னார் குற்றத்தடுப்பு பிரிவு பொலிஸாரினால் கைது செய்யப்பட்டுள்ளனர்.
+
+இவர்களிடம் இருந்து 82 கிலோ கடலாமை இறைச்சி  பொதி செய்யப்பட்ட நிலையில் மீட்கப்பட்டுள்ளது.
+
+மீன்கள் பொதி செய்து கொண்டு செல்லும் போர்வையில் குறித்த கடலாமை பொதி செய்யப்பட்டு வாகனத்தில் கொண்டு செல்லப்பட்ட நிலையில் இராணுவ புலனாய்வுத் துறைக்குக் கிடைத்த  தகவலின் அடிப்படையில் மன்னார் குற்றத்தடுப்பு பிரிவு பொலிஸார் பள்ளமடு வீதியில் வைத்து குறித்த வாகனத்தைச் சோதனை செய்த போது குறித்த கடலாமை இறைச்சிகள் மீட்கப்பட்டுள்ளதோடு அதை கொண்டு சென்ற இரண்டு நபர்களை பொலிஸார் கைது செய்துள்ளனர்.
+
+◼️
+
+[Data](articles/790761eb.json)
+
+---
+
+### இந்தியா இலங்கை ஆதினங்களின் சுவாமிகள் முதல் முதல் இணைந்து இரு நாடுகளின் புனித நதிகளின் தீர்த்தங்களுடன்; ஈழத்துத் திருச்செந்தூர் ஆலைய மஹா கும்பாபிஷேகம்
+
+*2024-05-31 03:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/184912) · `ta`
+
+இலங்கையில் முதல் முதல் மட்டக்களப்பு கல்லடி ஈழத்துத் திருச்செந்தூர் முருகன் ஆலைய மஹா கும்பாபிஷேகம் எதிர்வரும் 20ம் இந்தியாவின் புனித கங்கைகளின் தீர்த்தம் இலங்கையிலுள்ள புனித கங்கைகளின் தீர்த்தங்கள் கொண்டு இந்தியாவின் திருக்கயிலாய பரம்பரை பேரூர் ஆதின குருமா சந்நிதான கயிலைப்புனிதர் முதுமுனைவர் சீர்வாளர் சீர் சாந்தலிங்க மருதாச்சல அடிகள் தலைமையில் இந்தியா. இலங்கையிலுள்ள பல ஆதீனங்களின்   சுவாமிகள் ஒன்றிணைந்து திருநெறிய தெய்வத்தமிழ் திருக்குட நன்னீராட்டு பெருவிழா இடம்பெறவுள்ளது என அகில பாரத சந்நியாசிகள் சங்க ஒருங்கிணைப்பாளர் சுவாமி வேதசந்த ஆனந்த ஆச்சாரியார் பக்த அடியார்கள் அழைப்பு விடுத்துள்ளார்.
+
+◼️
+
+[Data](articles/c855dc03.json)
+
+---
+
+### உலக பரா சம்பியன்ஷிப்பில் பதக்கங்கள் வென்ற சமித்த, இந்திக்க, பாலித்த ஆகியோரை டயலொக் கௌரவித்தது
+
+*2024-05-31 03:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/184911) · `ta`
+
+ஜப்பானின் கோபே விளையாட்டரங்கில் நடைபெற்ற உலக பரா மெய்வல்லுநர் சம்பியன்ஷிப்பில் பதக்கங்கள் வென்ற இலங்கை பரா மெய்வல்லுநர்களான சமித்த துலான், இந்திக்க கமகே, பாலித்த பண்டார ஆகியோரை டயலொக் ஆசிஆட்டா நிறுவனம் சின்னங்கள் வழங்கி பாராட்டி கௌரவித்தது.
+
+ஆண்களுக்கான F64 வகைப்படுத்தல் பிரிவு ஈட்டி எறிதலில் 66.49 மீற்றர் தூரத்தைப் பதிவு செய்த சமித்த துலான்
+
+அப் போட்டியில் F42, F43, F44, F64 ஆகிய நான்கு வகைப்படுத்தல் பிரிவுக்குட்பட்ட பரா மெய்வல்லுநர்கள்போட்டியிட்டனர்.
+
+ஆண்களுக்கான F63 வகைப்படுத்தல் பிரிவு குண்டு எறிதல் போட்டியில் F42 வகைப்படுத்தல் பிரிவைச் சேர்ந்த பாலித்த பண்டார வெண்கலப் பதக்கத்தை வென்றெடுத்தார்.
+
+...
+
+[Data](articles/ff7a23c3.json)
+
+---
 
 ### Indian arrest with illegal cigarettes
 
@@ -2221,97 +2283,5 @@ On the first page of the Weerakesari magazine on May 30, 1967, the Suez Canal wi
 [Data](articles/7dda5d5c.json)
 
 [Extended Data](ext_articles/7dda5d5c.ext.json)
-
----
-
-### Many roads in Ratnapura flooded
-
-*2024-05-30 13:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197180) · `si`
-
-Ratnapura faces flooding issues with rising water levels in the Kalu and Black Tree rivers, threatening the main bus route and several homes. The situation is concerning locals who fear potential disaster if water levels reach critical points.
-
-🟩
-
-Our correspondents say that the water level of the Kalu River is rapidly increased.
-
-It is also reported that the black tree water level is nearing the 7 wrast thumb.
-
-As a result, the main bus route of the Giyapotha has been resigned from the elephant from the elephant from the elephant.
-
-A number of interim roads to main roads have also been inundated and houses have also been subjected to water.
-
-The masses fear that if the water level reaches the limits of the minor 7, the people are afraid of a flood.
-
-◼️
-
-[Data](articles/c53ffe72.json)
-
-[Extended Data](ext_articles/c53ffe72.ext.json)
-
----
-
-### Veteran Sri Lankan musician Shelton Premaratne passes away
-
-*2024-05-30 13:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/99536/veteran-sri-lankan-musician-shelton-premaratne-passes-away) · `en`
-
-Veteran Sri Lankan music composer Dr. Shelton Premaratne has reportedly passed away this morning (30) in Australia.
-
-This was confirmed by Sri Lankan musician Keerthi Pasquel in a Facebook post.
-
-Dr Shelton Premaratne was a legendary Sri Lankan composer, instrumentalist and music director. At a time when Sinhala music directly emulated Hindi and Tamil music from India, Dr Premaratne was a pioneer in developing a music style that was original and unique to Sri Lanka.
-
-Masterful with various Eastern and Western instruments, Dr Premaratne has contributed to Sinhala cinema, theatre and classical Sri Lankan music.
-
-He was the music composer and director in over 30 stage productions, including Henry Jayasena’s popular theatre production Hunuwataye Kathawa (The Caucasian Chalk Circle), and 21 Sinhala films including films such as Daskon, Romeo Juliet Kathawak and Hithaka Pipunu Mal.
-
-Dr Premaratne was residing in Sydney, Australia with his beloved son, at the time of his passing.
-
-◼️
-
-[Data](articles/ff78bc84.json)
-
-[Extended Data](ext_articles/ff78bc84.ext.json)
-
----
-
-### “No one has to take a lesson for our party”
-
-*2024-05-30 13:37:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எமது-கட்சிக்கு-எவரும்-பாடம்-எடுக்க-வேண்டியதில்லை/175-338152) · `ta`
-
-The United National Party (UNP) asserts its commitment to democracy, emphasizing its global reputation for respecting democratic principles. Despite criticisms from certain politicians, the UNP remains focused on conducting elections constitutionally under President Ranil Wickremesinghe's leadership. The party condemns unfounded accusations and calls for a peaceful, fair electoral process amidst political turmoil.
-
-🟩
-
-The United National Party is the homeland of democracy. So, no one has to take a lesson for our party about democracy. Subbaiah Anandakumar, a member of a three -member committee of the United National Party and the organizer of the United National Party (UNP), said that the elections will be held in accordance with the constitution.In this regard, he said,
-
-“The United National Party (UNP) and Ranil Wickremesinghe have been adopted worldwide as the party that respects democracy. Therefore, the United National Party will never descend into anti -democratic activities.
-
-However, politicians who make a statement and announce the announcements, have been criticizing the party by lifting the views made by our party's general secretary.. We vehemently condemn these.
-
-...
-
-[Data](articles/793d0627.json)
-
-[Extended Data](ext_articles/793d0627.ext.json)
-
----
-
-### New York boosts T20 Cricket World Cup security after reported threats
-
-*2024-05-30 13:33:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/New-York-boosts-T20-Cricket-World-Cup-security-after-reported-threats/108-283696) · `en`
-
-May 30 (Reuters) - New York will boost security for the upcoming T20 Cricket World Cup in June, the governor said on Wednesday, after reports of threats especially related to the India-Pakistan match.
-
-"In preparation for the @cricketworldcup, my team has been working with federal & local law enforcement to keep attendees safe," Governor Kathy Hochul wrote on X, adding there was "no credible threat at this time".
-
-ABC News cited a New York City Police Department bulletin, opens new tab saying the tournament and its related events in New York City could be viewed by extremists as an opportunity to commit acts of violence or disruption.
-
-"Recent pro-ISIS propaganda which specifically referenced the upcoming India-Pakistan match at this major event ... raises concerns and reinforces the need for heightened vigilance" among security partners, the bulletin is quoted as saying by ABC News.
-
-...
-
-[Data](articles/2d69b50a.json)
-
-[Extended Data](ext_articles/2d69b50a.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-31 04:52:42**
+As of **2024-05-31 05:03:48**
 
 ## Newspaper Stats
 
-*Scraped **27,411** Articles*
+*Scraped **27,413** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 1,601
 adalk | 2,340
 adaderanalk | 3,122
 tamilmirrorlk | 3,215
-virakesarilk | 4,230
+virakesarilk | 4,232
 dailymirrorlk | 4,332
 adaderanasinhalalk | 4,379
 
@@ -26,11 +26,47 @@ adaderanasinhalalk | 4,379
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,411 (100.0%) of 27,411 articles have been extended.
+27,411 (100.0%) of 27,413 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-31 (Friday)
+
+### வவுனியாவில் குளவிக் கொட்டுக்கு இலக்காகிய தொழிலாளர்கள் இருவர் வைத்தியசாலையில் அனுமதி
+
+*2024-05-31 03:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/184917) · `ta`
+
+வவுனியா பிரதி மாகாண விவசாய பணிப்பாளரின் அரச விடுதியை துப்பரவு செய்த திணைக்கள தொழிலாளர்கள் இருவர் குளவி கொட்டுக்கு இலக்காகி வவுனியா வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+
+வவுனியா பிரதி மாகாண விவசாய பணிப்பாளர் அவர்களின் அரச விடுதியை துப்புரவு செய்யத் திணைக்கள தொழிலாளர்கள் இருவர் அனுப்பி வைக்கப்பட்டுள்ளனர்.
+
+குறித்த இரு தொழிலாளர்களும் விடுதியை துப்புரவு செய்த போது அங்கிருந்த குளவிகள் களைந்து இருவருக்கும் கொட்டியதில் இருவரும் வவுனியா வைத்தியசாலையின் அவசர சிகிச்சைப் பிரிவில் அனுமதிக்கப்பட்டுள்ளனர்.
+
+திணைக்கள தொழிலாளர்களான வே.நாகேந்திரன் (வயது 52), கோணேஸ்வரன் (வயது 46) ஆகிய இருவரே வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர். இது தொடர்பான மேலதிக விசாரணைகளை வவுனியா பொலிசார் முன்னெடுத்துள்ளனர்.
+
+◼️
+
+[Data](articles/992c5594.json)
+
+---
+
+### ரி20 உலகக் கிண்ணப் போட்டியை முன்னிட்டு பாதுகாப்பு அதிகரிக்கப்பட்டுள்ளது
+
+*2024-05-31 03:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/184916) · `ta`
+
+உலகக் கிண்ணப் போட்டியின்போது அச்சுறுத்தல் இருப்பதாக அறிக்கைகள் வெளியானதை அடுத்து ரி20 உலகக் கிண்ண போட்டிக்கான பாதுகாப்பு அதிரிக்கப்பட்டுள்ளது.
+
+ஜூன் மாதம் நடைபெறவுள்ள டி20 கிரிக்கெட் உலகக் கிண்ணத்துக்கான பாதுகாப்பை அமெரிக்கா அதிகரிக்கும் என்று நியூயோர்க் ஆளுநர் கவர்னர் தெரிவித்துள்ளார்.
+
+'உலகக் கிண்ணப் போட்டிக்கான ஏற்பாடுகளின் ஓர் அங்கமாக பார்வையாளர்களின் உயிர்பாதுகாப்பை கருத்தில் கொண்டு சமஷ்டி மற்றும் உள்ளூர் பாதுகாப்பு அதிகாரிகளுடன் எனது அணி இணைந்து பணியாற்றி வருகிறது. இப்போதைக்கு நம்பத்தக்க அச்சுறுத்தல் எதுவும் இல்லை' என ஆளுநர் கத்தி ஹோச்சுல்  குறிப்பிட்டுள்ளார்.
+
+நியூ யோர்க் சிட்டியில் நடைபெறும் உலகக் கிண்ண சுற்றுப் போட்டி மற்றும் அதனுடன் தொடர்புடைய நிகழ்ச்சிகளை சந்தர்ப்பமாகப் பயன்படுத்தி தீவிரவாதிகள் வன்முறைகளில் ஈடுபடலாம்  அல்லது இடையூறுகளை ஏற்படுத்தலாம்  என நியூ யோர்க் சிட்டி பொலிஸாரை மேற்கோள் காட்டி ஏபிசி நீயூஸ் செய்தி வெளியிட்டிருந்தது.
+
+...
+
+[Data](articles/8b18c56e.json)
+
+---
 
 ### District Development Committee meeting at the District Development Committee
 
@@ -2259,55 +2295,5 @@ Police said the youth had been arrested on the basis of confidential information
 [Data](articles/148f4791.json)
 
 [Extended Data](ext_articles/148f4791.ext.json)
-
----
-
-### Husband dies by assaulting his wife with a warest
-
-*2024-05-30 13:59:49* · [`adalk`](https://www.ada.lk/breaking_news/බිරිඳ-පොරවකින්-පහරදීමෙන්-සැමියා-ජීවිතක්ෂයට/11-409916) · `si`
-
-In a tragic incident, a 74-year-old man named Punchi Bandaage Ukku Banda was killed by his wife's husband, who then turned himself in. The assailant, a 59-year-old man, was treated for mental illness before the murder occurred. Following the attack, he was hospitalized but later transferred to the Anuradhapura Teaching Hospital. Police continue investigating the case.
-
-🟩
-
-The husband was killed by her husband yesterday (29), the husband was receiving treatment at the husband of a mental illness.
-
-The deceased has been identified as a 74 year old man named Punchi Bandaage Ukku Banda, a resident of Ganthiygama.
-
-A 59-year-old woman was arrested in the above resident of the remandation of the deceased victim.
-
-The suspect was rushed to the Kekirawa hospital and was admitted to the Anuradhapura Teaching Hospital due to the death of his wife in the open part of his house.
-
-The police said that the daughter had died around 1.30 pm after being recovered from the daughter's residence.
-
-Ipalogama police OIC Chief Inspector HA. U.S. A group of officials including Hapuarachchi is further investigations into the incident.
-
-◼️
-
-[Data](articles/4a43eaa9.json)
-
-[Extended Data](ext_articles/4a43eaa9.ext.json)
-
----
-
-### Today in history
-
-*2024-05-30 13:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/184863) · `ta`
-
-In 1967, during the Israel-Gaza War, UAE President Kamal Abdul Nasser threatened to close the Suez Canal if any country interfered in the conflict between Arab nations and Israel. This warning was published in the Weerakesari magazine on May 30, 1967, highlighting the tense geopolitical situation of the time.
-
-🟩
-
-Israel - Gaza War is becoming more intense. This war that causes field destruction and casualties has created various contradictions and a variety of resistant attacks between other countries.
-
-When a wartime situation prevailed in 1967, the President of the UAE, Kamal Abdul Nasser, had publicly announced that if any other country intervened in the war between the Arab countries and Israel, the Suez Canal would be closed immediately.
-
-On the first page of the Weerakesari magazine on May 30, 1967, the Suez Canal will be closed: President Nasser Warning: UN. Published with an editorial, "The Bandopastu Council Disputes."
-
-◼️
-
-[Data](articles/7dda5d5c.json)
-
-[Extended Data](ext_articles/7dda5d5c.ext.json)
 
 ---

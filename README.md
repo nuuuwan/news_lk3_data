@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-30 18:12:41**
+As of **2024-05-30 18:24:29**
 
 ## Newspaper Stats
 
-*Scraped **27,354** Articles*
+*Scraped **27,356** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,62 @@ dbsjeyarajcom | 267
 bbccomsinhala | 271
 newsfirstlk | 363
 islandlk | 1,477
-economynextcom | 1,566
+economynextcom | 1,567
 dailyftlk | 1,601
 adalk | 2,332
 adaderanalk | 3,118
 tamilmirrorlk | 3,211
 virakesarilk | 4,210
 dailymirrorlk | 4,324
-adaderanasinhalalk | 4,372
+adaderanasinhalalk | 4,373
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,354 (100.0%) of 27,354 articles have been extended.
+27,354 (100.0%) of 27,356 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-30 (Thursday)
+
+### ඩොලර් බිලියන 1ක ආයෝජන ඉලක්කය සපුරා අවසන්
+
+*2024-05-30 18:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197189) · `si`
+
+ශ්‍රී ලංකා ආයෝජන මණ්ඩලය 2024 වසර සඳහා වූ අමෙරිකානු ඩොලර් බිලියන 1ක ආයෝජන ඉලක්කය මෙම වසරේ පළමු කාර්තුවේදීම සපුරාගෙන ඇති බව රාජ්‍ය අමාත්‍ය දිලුම් අමුණුගම පවසයි.
+
+ඒ මහතා මේ බව පැවසුවේ ශ්‍රි ලංකා ආයෝජන මණ්ඩලය සමග ආයෝජන ගිවිසුම්ගත වූ ආයෝජකයින් සමග ඔවුන්ගේ ව්‍යාපාර පිළිබඳ පසුවිපරම් කිරීම සඳහා පැවති සාකච්ජාවකදීය.
+
+එහිදී වැඩිදුරටත් අදහස් දැක්වූ රාජ්‍ය අමාත්‍යවරයා සඳහන් කළේ අදානි සමාගම ඩොලර් මිලියන 820 ක ආයෝජනයක්ද අනෙකුත් ව්‍යාපාර තවත් මිලියන 320ක් ද මේ වනවිටත් ආයෝජන මණ්ඩලය සමග ගිවිසුම්ගතකොට ඇති බවය.
+
+◼️
+
+[Data](articles/a57b97b8.json)
+
+---
+
+### Diplomats to meet Russia defense officials amid complaints about 455 Sri Lankans in warfront
+
+*2024-05-30 18:00:00* · [`economynextcom`](https://economynext.com/diplomats-to-meet-russia-defense-officials-amid-complaints-about-455-sri-lankans-in-warfront-165479/) · `en`
+
+ECONOMYNEXT – Authorities have received complaints on about 455 Sri Lankans who are in the Russia-Ukraine war front from family members, State Minister of Foreign Affairs Tharaka Balasuriya said.
+
+“Sri Lanka is working closely with the Government of Russia to repatriate Sri Lankans who are in the front lines. We are optimistic that we will be able to resolve this matter swiftly with close cooperation between both governments.”
+
+The first meeting with Sri Lanka diplomats and Russian officials is to be held today.
+
+“Today in Moscow, there will be a meeting in the Defence Ministry, between the diplomatic mission and defence attaché, with high-ranking military officials,” Russia’s ambassador to Colombo Levan Dzhagaryan said in Colombo in a joint press conference with the state minister.
+
+“That would be the first step, in the continuous efforts to settle the situation.”
+
+Sri Lanka was also planning to send a delegation to meet Russian defense officials.
+
+...
+
+[Data](articles/de8f91f6.json)
+
+---
 
 ### The young woman who has come to get in a wedding suit
 
@@ -2309,43 +2347,5 @@ Although the Jaffna Public Library was launched in the period from 1981 to 1986,
 [Data](articles/892e06b8.json)
 
 [Extended Data](ext_articles/892e06b8.ext.json)
-
----
-
-### Extending President’s term - will explain on Monday: Range Bandara
-
-*2024-05-30 10:50:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Extending-Presidents-term-will-explain-on-Monday-Range-Bandara/108-283681) · `en`
-
-Colombo, May 30 (Daily Mirror)- United National Party (UNP) General Secretary Palitha Range Bandara said today he will explain on Monday his proposal of extending the terms of the President and Parliament by two years.
-
-"On Tuesday I talked about extending the term of the President and Parliament through a referendum. Many have come up with various remarks on it. I will hold a media conference on Monday June 3rd and come up with a detailed explanation on what I said," he told the media today.
-
-When asked as to why he did not make a statement today as he assured earlier, Range Bandara told Daily Mirror that he only wanted to inform about the media briefing he was planning on Monday.
-
-◼️
-
-[Data](articles/d394d25a.json)
-
-[Extended Data](ext_articles/d394d25a.ext.json)
-
----
-
-### Underworld figure Midigama Ruwan to be extradited to Sri Lanka
-
-*2024-05-30 10:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Underworld-figure-Midigama-Ruwan-to-be-extradited-to-Sri-Lanka/108-283679) · `en`
-
-Colombo, May 30 (Daily Mirror) - Ruwan Jayasekara, alias Midigama Ruwan, a notorious underworld figure allegedly involved in planning an attack on the Criminal Investigation Department (CID) headquarters in Colombo to free drug trafficker Nadun Chinthaka alias 'Harak Kata', is to be extradited to Sri Lanka today.
-
-Midigama Ruwan, who is also the brother-in-law of Nadun Chinthaka, was reportedly arrested by Dubai Police in March. Harak Kata himself was arrested by Dubai authorities last year and subsequently deported to Sri Lanka.
-
-The Dubai police arrested Midigama Ruwan following a clash in a night club in Dubai. It was reported that Ruwan's name was among the Interpol warrant list.
-
-It was reported that a special police team has been dispatched to Dubai to bring the suspect back to Sri Lanka.
-
-◼️
-
-[Data](articles/75dbec4f.json)
-
-[Extended Data](ext_articles/75dbec4f.ext.json)
 
 ---

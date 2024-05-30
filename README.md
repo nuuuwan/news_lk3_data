@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-30 12:06:02**
+As of **2024-05-30 12:18:57**
 
 ## Newspaper Stats
 
-*Scraped **27,258** Articles*
+*Scraped **27,261** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,477
 economynextcom | 1,560
 dailyftlk | 1,601
-adalk | 2,315
+adalk | 2,318
 adaderanalk | 3,105
 tamilmirrorlk | 3,197
 virakesarilk | 4,194
@@ -26,11 +26,27 @@ adaderanasinhalalk | 4,359
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,254 (100.0%) of 27,258 articles have been extended.
+27,258 (100.0%) of 27,261 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-30 (Thursday)
+
+### පියල් රංජිත්ව ඝාතනය කොට සතුන්ට කෑමට ඉඩ හැරියේ ඝාතනය සොයාගැනීමට අපහසු කරවීමටද?
+
+*2024-05-30 12:04:50* · [`adalk`](https://www.ada.lk/breaking_news/පියල්-රංජිත්ව-ඝාතනය-කොට-සතුන්ට-කෑමට-ඉඩ-හැරියේ-ඝාතනය-සොයාගැනීමට-අපහසු-කරවීමටද-/11-409908) · `si`
+
+දින පහක  සිට  නිවසින් අතුරුදන්ව සිටි  රස්නායකපුර පොලිස් වසමේ පදිංචි පුද්ගලයා ගේ  සිරුර  නිකවැරටිය පොලිස්  වසමේ කුඹුරු යායක  ඇලක් ආසන්නයේ  තිබී  29 දා  පස්වරුවේ  හමුවූ බව නිකවැරටිය මූලස්ථාන පොලීසිය පවසයි .
+
+එම   නරක් වූ මළ  සිරුර, නිකවැරටිය  පොලිස්  වසමේ, පහල ගලපිටියාගම  කුඹුරු යායක තිබී  සොයා ගන්නා   විටද , සිරුරේ කොටස් සතුන් විසින්ද  කා දමා  තිබූ අතර , මෙලෙස මියගොස් සිටියේ , රස්නායකපුර  පොලිස් වසමේ, කෝන්ගස්වලයාගම, හීලෝගම ලිපිනයේ පදිංචි  පියල් රංජිත් ජයසිංහ  (44) නැමති  දෙදරු  පියෙකි.
+
+දෛනික කුලී වැඩ  වල නිරත  වෙමින්  ජීවත් වූ  මෙම පුද්ගලයා , ඉකුත්  24  වෙනිදා, උදෑසන කෑම කා, නිවසින්  බැහැරට ගොස් ඇති අතර, ඉන් පසුව  ඔහු යලි ආපසු  නිවසට නොපැමිණි  බවට, ඔහුගේ බිරිය විසින්  පසුව  රස්නායකපුර පොලීසියට පැමිණිලි  කර  ඇති බවද පොලීසිය සඳහන් කරයි .
+
+...
+
+[Data](articles/3aae754d.json)
+
+---
 
 ### World No Tobacco Day 2024: Sri Lanka’s tobacco use declines amid global e-cigarette surge
 
@@ -47,6 +63,8 @@ Despite these positive trends, ADIC states that approximately 1.5 million people
 ...
 
 [Data](articles/1a2801d2.json)
+
+[Extended Data](ext_articles/1a2801d2.ext.json)
 
 ---
 
@@ -68,21 +86,29 @@ Raisi, a hardliner who had been seen as a potential successor to Supreme Leader 
 
 [Data](articles/4a7e1647.json)
 
+[Extended Data](ext_articles/4a7e1647.ext.json)
+
 ---
 
-### ටෙස්ට් ක්‍රිකට් බේරාගත් දෙදෙනා
+### Test cricket
 
 *2024-05-30 11:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197175) · `si`
 
-මියැදෙමින් තිබූ ටෙස්ට් ක්‍රිකට් ක්‍රීඩාවට පණ පෙවීම සම්බන්ධයෙන් තමා පුද්ගලයින් දෙදෙනෙක්ට විශේෂ ප්‍රණාමයක් පුද කරන බව හිටපු සුපිරි ක්‍රිකට් ක්‍රීඩක ඉයන් බෝතම් පවසයි.
+Ian Botham praises England's Test coach for introducing Brendon McCullum and Ben Stokes, highlighting their contributions to reviving interest in Test cricket.
 
-ඔහු පවසන්නේ එංගලන්ත ටෙස්ට් ක්‍රිකට් පුහුණුකරු බ්‍රෙන්ඩන් මැකලම් සහ බෙන් ස්ටොක්ස් හඳුන්වා දුන් ක්‍රීඩා විලාසය හේතුවෙන් නැවතත් ටෙස්ට් ක්‍රිකට් සඳහා ප්‍රේක්ෂක අවධානය යොමුවී ඇති බවය.
+🟩
 
-එබැවින් ටෙස්ට් ක්‍රිකට් ක්‍රීඩාව රැකගැනීම සඳහා ඔවුන් දෙදෙනා ලබාදෙන දායකත්වය අගය කළ යුතු බව බෝතම් පැවසීය.
+Former GPP cricketer Ian Botham says he will provide special praise to two persons regarding the death of Test cricket.
+
+He says that the England Test coach introduced Bandon McCullum and Ben Stokes, he was again focused on Test cricket.
+
+Therefore, the contribution given by both of them should be appreciated to protect Test cricket.
 
 ◼️
 
 [Data](articles/85fc4862.json)
+
+[Extended Data](ext_articles/85fc4862.ext.json)
 
 ---
 
@@ -134,6 +160,20 @@ The purchase price of one kilogram of cabbage is 70 rupees, the purchase price o
 
 ---
 
+### රුපියල් 500ට මල්ලී අයියව ඝාතනය කරයි
+
+*2024-05-30 11:06:39* · [`adalk`](https://www.ada.lk/breaking_news/රුපියල්-500ට-මල්ලී-අයියව-ඝාතනය-කරයි/11-409905) · `si`
+
+රුපියල් 500 ක් හොරෙන් ගත්තැයි තම වැඩිමහල් සොහොයුරාට ජයන්ත සිල්වා නමැති 52 හැවිරිදි පුද්ගලයකුට අතින් පයින් පහරදී ඝාතනය කිරීමේ සිද්ධියක් සම්බන්ධයෙන් ඔහුගේ බාල සොහොයුරු අත්අඩංගුවට ගත්බව පින්වත්ත පොලිසිය පවසයි. මෙසේ අත්අඩංගුවට ගෙන ඇත්තේ පින්වත්ත උපෝසථාරාම පාරේ පදිංචි 48 හැවිරිදි පුද්ගලයකු බව පොලිසිය කීය.
+
+පින්වත්ත උපෝසථාරාම පාරේ පදිංචිව සිටි මියගිය පුද්ගලයා පානදුර මූලික රෝහලේ ප්‍රතිකාර ලබමින් සිටිය දී මියගියේය.  මෙම සහෝදරයින් දෙදනො සහ මව සමග නිවසේ පදිංචිව සිටින අතර රුපියල් 500 ක් සොරකම් කිරීම සම්බන්ධයෙන් දෙදෙනා අතර ඇති වූ කතාබහක් දුරදිග යාමෙන් සිය වැඩිමහලු සොහොයුරාට ඉකුත් 13 දා පහර දී ඇති බව පොලිස් පරීක්ෂණවල දී අනාවරණය වී තිබේ.පහර කෑමෙන් තුවාල ලබා සිටි තැනැත්තා ඉකුත් 21 දා පානදුර මූලික රෝහලේ දී මියගොස් ඇති අතර, පශ්චාත් මරණ පරීක්ෂණයේ දී අනාවරණය වූ කරුණු මත ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක පත්ම නන්දන මහතාගේ මෙහෙයවීමෙන් සැකකරු අත්අඩංගුවට ගෙන ඇත. සැකකරු පානදුර මහේස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමට නියමිතව සිටියේය.
+
+◼️
+
+[Data](articles/88499402.json)
+
+---
+
 ### The general candidate should start the choice from the east;To stop him as a symbol of the Tamil people - Jaffna. University Student Union Request
 
 *2024-05-30 11:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/184838) · `ta`
@@ -156,23 +196,29 @@ In the 15 years since 2009, the Tamil people and the Tamil nationalist politicia
 
 ---
 
-### ගංගා ගැන අනතුරු ඇඟවීමක්
+### A warning of the rivers
 
 *2024-05-30 10:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197174) · `si`
 
-මධ්‍යම කඳුකරයට ඇදහැලෙන අධික වැසි හේතුවෙන් මහවැලි ගඟේ ජල මට්ටම ඉහළ ගොස් ඇති බව වාරිමාර්ග දෙපාර්තමේන්තුව පවසයි.
+Heavy rains in the central hills have caused rising water levels in the Mahaweli, Gunanga, Black Ganga, Kinanga, and Nilwala Rivers, posing a flood risk. The Irrigation Department warns of potential dangers from sudden, heavy rainfall, emphasizing the importance of public awareness to mitigate damage, especially in urban areas where immediate action is crucial.
 
-එහි ජල විද්‍යා හා ආපදා කළමනාකරණ අංශයේ අධ්‍යක්ෂ, ඉංජිනේරු එස්. පී. සී. සුගීෂ්වර මහතා පවසන්නේ මහවැලි ගඟේ ඉහළ ප්‍රදේශ හා අතු ගංගාවල ජල මට්ටම් ඉහළ ගොස් තිබීම හේතුවෙන් අතු ගංගා හරහා ගමන් කිරීම, දියනෑම අවදානම් වියහැකි බවය.
+🟩
 
-මේ අතර අද (30) දිනයේත් ගිංගඟ, කළු ගඟ, නිල්වලා ගඟ යන ගංගාවල ජල මට්ටම් ඉහළ ගොස් තිබේ.
+The water level of the Mahaweli River has increased due to heavy rains in the central hills.
 
-තවදුරටත් වැසි ඇදහැලුණ හොත් එම ගංගා ගංවතුර තත්ත්වයක් දක්වා ඉහළ යෑමේ අවදානමක් පවතින බවද දැනුම්දෙයි.
+Its Hydrology and Disaster Management Division, Engineer S. P. C. Mr. Sugshwara says that the water levels in the Mahaweli River and the waters of the upper areas of the river and the water levels on the rise.
 
-පවතින අයහපත් කාලගුණ තත්ත්වය මත නොසිතූ ලෙස ගංගාවල ජල මට්ටම ඉහළ යන බැවින් ජනතාව වඩාත් සැලකිලිමත් වියයුතු බවද වාරිමාර්ග දෙපාර්තමේන්තුව දැනුම්දෙයි.
+Meanwhile, the river levels of the Gunanga, the Black Ganga, the Kinanga, the Black Ganga and Nilwala River have increased.
+
+It is reported that there is a risk of rising river floods if heroes will be rained.
+
+The Irrigation Department does notice that the masses should be more concerned with the inclement weather.
 
 ...
 
 [Data](articles/42bcabd7.json)
+
+[Extended Data](ext_articles/42bcabd7.ext.json)
 
 ---
 
@@ -235,6 +281,22 @@ It was reported that a special police team has been dispatched to Dubai to bring
 [Data](articles/75dbec4f.json)
 
 [Extended Data](ext_articles/75dbec4f.ext.json)
+
+---
+
+### ’’කලමුල්ලේ ටෂී’’ ඝාතනය කෙරූ සැකකරු හදිසියේ මිය යයි
+
+*2024-05-30 10:41:13* · [`adalk`](https://www.ada.lk/breaking_news/’’කලමුල්ලේ-ටෂී’’-ඝාතනය-කෙරූ-සැකකරු-හදිසියේ-මිය-යයි/11-409904) · `si`
+
+කළුතර, කටුකුරුන්ද ප්‍රෙදේශයේ දී පසුගිය 19 දා රාත්‍රි කලමුල්ලේ ටෂී නමැත්තා වෙඩි තබා ඝාතනය කිරීමේ සිද්ධියට අදාලව කළුතර බන්ධනාගාරය තුළ රිමාන්ඩ් බන්ධනාගාරගත කර සිටි සැකකරු ඊයේ පස්වරුවේ හදිසියේ ඇති වූ රෝගී තත්ත්වයක් හේතුවෙන් අසනීපව කළුතර නාගොඩ ශික්ෂණ රෝහලට ඇතුලත් කිරීමේදී මිය ගොස් තිබෙනවා.
+
+මෙසේ මියගොස් ඇත්තේ, තිබුවන පැලපිටියා ගොඩ ප්‍රදේශයේ පදිංචිව සිටි තුෂාර රුක්මාල් සිල්වා නමැති රැඳවියකු බවත්  ඔහු මෙම මනුෂ්‍ය ඝාතන චෝදනාව යටතේ පසුගිය 25 දා කළුතර මහේස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමෙන් පසු රිමාන්ඩ් බන්ධනාගාරගත කර සිටියා.
+
+පශ්චාත් මරණ පරීක්ෂණය කළුතර නාගොඩ ශීක්ෂණ රෝහලේදී සිදුකිරීමට නියමිතව ඇති අතර වැඩිදුර පරීක්ෂණ සිදුකෙරෙන බව වර්තාවේ.
+
+◼️
+
+[Data](articles/01fdccae.json)
 
 ---
 
@@ -2173,69 +2235,5 @@ Students were given water to the first aid and immediately admitted to a nearby 
 [Data](articles/1c79612a.json)
 
 [Extended Data](ext_articles/1c79612a.ext.json)
-
----
-
-### A comprehensive plan for the change of the country's renewable strength sector - the President
-
-*2024-05-29 20:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/184818) · `ta`
-
-President Ranil Wickremesinghe highlighted the need for a comprehensive plan to enhance Sri Lanka's renewable energy sector, emphasizing the importance of green hydrogen production and the challenges of acquiring domestic expertise. He mentioned the government's commitment to transitioning towards a green economy, focusing on renewable energy and aiming for zero emissions by 2040. The President also discussed ongoing legislative efforts, including the Electricity Reorganization Bill and the Climate Change Bill, and the role of international cooperation and private sector involvement in achieving these goals.
-
-🟩
-
-President Ranil Wickremesinghe emphasized the need for a comprehensive plan to use renewable strength in Sri Lanka and to investigate the future trends of green hydrogen production.
-
-The President pointed out this while addressing a discussion held at the Hilton Hotel in Colombo on Wednesday morning at the Hilton Hotel, Colombo.
-
-The circulation discussion, organized by the World Bank, the Ministry of Power and the Ministry of Energy and the Ceylon Electricity Board, became a platform on Sri Lanka's strength change.
-
-The President, who recently paid attention to the report on Green Hydraj, has pointed out the importance of the report and the need for a comprehensive plan to further promoting the growing renewal power sector.
-
-At the same time, the President referred to the difficulties in obtaining domestic expertise and asked all parties, including the World Bank, the Asian Development Bank and all parties, including domestic and foreign investors.
-
-...
-
-[Data](articles/a63f2607.json)
-
-[Extended Data](ext_articles/a63f2607.ext.json)
-
----
-
-### The tragedy of the victim of 4 people;The incident in Dambulla
-
-*2024-05-29 19:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/184817) · `ta`
-
-Four deaths in Dambulla linked to illegal alcohol. Two fatalities occurred initially, followed by another two. Police investigating, focusing on autopsies and forensic reports to determine causes.
-
-🟩
-
-Police have launched an investigation into the alleged deaths of four people in the Dambulla area.
-
-Two days ago, two people died after drinking the same illegal alcoholic beverage and two people died today.
-
-In addition to the autopsy of the deceased, the police said that steps would be taken to bring forensic reports and to find out the reasons for their death.
-
-◼️
-
-[Data](articles/d503d91a.json)
-
-[Extended Data](ext_articles/d503d91a.ext.json)
-
----
-
-### Vehicle catches fire on Cotta Road
-
-*2024-05-29 19:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Vehicle-catches-fire-on-Cotta-Road/108-283633) · `en`
-
-A vehicle caught fire at Ruhunukala Mawatha on Cotta Road, Borella a short while ago, Police said.
-
-Two fire trucks have been deployed by the CMC Fire Services Department to douse the fire.
-
-◼️
-
-[Data](articles/d5542087.json)
-
-[Extended Data](ext_articles/d5542087.ext.json)
 
 ---

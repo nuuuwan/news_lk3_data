@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-30 20:04:06**
+As of **2024-05-30 20:18:54**
 
 ## Newspaper Stats
 
-*Scraped **27,368** Articles*
+*Scraped **27,369** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,477
 economynextcom | 1,567
 dailyftlk | 1,601
 adalk | 2,335
-adaderanalk | 3,119
+adaderanalk | 3,120
 tamilmirrorlk | 3,212
 virakesarilk | 4,210
 dailymirrorlk | 4,325
@@ -26,11 +26,23 @@ adaderanasinhalalk | 4,377
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,368 (100.0%) of 27,368 articles have been extended.
+27,368 (100.0%) of 27,369 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-30 (Thursday)
+
+### Assistant Superintendent of Customs arrested with illegally imported cigarettes
+
+*2024-05-30 19:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/99549/assistant-superintendent-of-customs-arrested-with-illegally-imported-cigarettes) · `en`
+
+An Assistant Superintendent of Customs has been arrested in Colombo with 7,000 sticks of illegally imported cigarettes and Rs. 590,000 in cash which he allegedly earned from selling these cigarettes, police said.
+
+◼️
+
+[Data](articles/f50b03fb.json)
+
+---
 
 ### Red warning to Sri Lanka
 
@@ -2319,37 +2331,5 @@ As a result of this, the doors are opened by the Victoria Reservoir below the Vi
 [Data](articles/1399588e.json)
 
 [Extended Data](ext_articles/1399588e.ext.json)
-
----
-
-### Nose
-
-*2024-05-30 11:42:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மூக்குத்தி-குத்தியோருக்கு-மட்டும்/175-338140) · `ta`
-
-People gather at bus stations, hospitals, and schools sharing tales of desire, laughter, tears, and confusion. On Thursday morning, individuals wait outside the Colombo National Hospital lab for blood tests, speaking in Sinhala and Tamil. Some faint due to hunger before testing. A conversation about a woman's missing nose piercing leads to discussions on trust and medical ethics amidst the queue.
-
-🟩
-
-Jewelry will not be women who do not have desire. Even if gold jewelry should be said. From birthday, Audi 18
-
-To hear such stories, you must stand in front of bus stations, hospitals and schools.Get many stories astonishing stories. Thinking and laughing?Crying?The mind will stumble
-
-Thursday (30) was standing in the morning at 8 am. They all had colored vials in the hands of all of them. Others were seated.
-
-Those who sit in chairs must sit on the city and the city. Everyone is infected with something. They came to the Laboratory at the Colombo National Hospital for blood tests.
-
-Most of the people who spoke in Sinhala and Tamil. Without arriving with relatives, some of the lonely patients have fallen faint. This is because when it comes to a blood test, no food and food should be eaten.
-
-Many of the elderly and the fed upon were helping and letting go in advance.
-
-The first woman: I came in the morning, the sidewalk manisi came, Ottola Vandu, how many hours to go,
-
-Second Woman: Why, where is it?
-
-...
-
-[Data](articles/e0e19bc6.json)
-
-[Extended Data](ext_articles/e0e19bc6.ext.json)
 
 ---

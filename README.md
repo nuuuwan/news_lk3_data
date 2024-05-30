@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-30 18:52:45**
+As of **2024-05-30 19:03:53**
 
 ## Newspaper Stats
 
-*Scraped **27,358** Articles*
+*Scraped **27,361** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,71 @@ adaderanalk | 3,118
 tamilmirrorlk | 3,211
 virakesarilk | 4,210
 dailymirrorlk | 4,324
-adaderanasinhalalk | 4,373
+adaderanasinhalalk | 4,376
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,358 (100.0%) of 27,358 articles have been extended.
+27,358 (100.0%) of 27,361 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-30 (Thursday)
+
+### පාර්ලිමේන්තුව ලබන 4 සිට 7 දක්වා රැස්වෙයි
+
+*2024-05-30 18:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197192) · `si`
+
+පාර්ලිමේන්තුව ලබන 4 වනදා සිට 7 වනදා දක්වා රැස්වීමට නියමිත බව පාර්ලිමේන්තුවේ මහලේකම් කුෂානි රෝහණදීර මහත්මිය පවසයි.
+
+පසුගියදා 28 වනදා කථානායකවරයාගේ ප්‍රධානත්වයෙන් පැවති පාර්ලිමේන්තු කටයුතු පිළිබඳ කාරක සභාවේදී ඊට අදාළ පාර්ලිමේන්තු කටයුතු තීරණය වී ඇත.
+
+එහිදී කාන්තාවන් සවිබල ගැන්වීමේ පනත් කෙටුම්පත දෙවනවර කියවීමේ විවාදය ජුනි 4, ‘අධ්‍යාපන ක්ෂේත්‍රයට අදාළව පවතින ගැටලු’ පිළිබඳ සභාව කල්තැබීමේ විවාදය ජුනි 5, ශ්‍රී ලංකා විදුලිබල පනත් කෙටුම්පත දෙවැනිවර කියවීමේ විවාදය ජුනි 6, පැවැත්වීමට නියමිතය.
+
+◼️
+
+[Data](articles/b8a5cb61.json)
+
+---
+
+### රජයේ වැටුප් ගැන ජනපති දුන් සහතිකය
+
+*2024-05-30 18:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197191) · `si`
+
+රාජ්‍ය අංශයේ සෑම අංශයකම වැටුප් විෂමතා විසඳීමට කටයුතු කරන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+
+ඒ මහතා මේ බව සඳහන් කළේ “ලෙස්ලි දේවේන්ද්‍ර සිංහාවලෝකනය” මැයෙන් කොළඹ බණ්ඩාරනායක අනුස්මරණ ජාත්‍යන්තර සම්මන්ත්‍රණ ශාලාවේදී ඊයේ (29) පැවති උත්සවයට එක් වෙමිනි.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා වැඩිදුරටත් සඳහන් කළේ රට ඉදිරියට ගෙන යාමේ වැඩපිළිවෙළ වෙනුවෙන් වු සියලු වෘත්තිකයන්ගේ අදහස් සංවාදයට බදුන් කිරීම සඳහා මෙන්ම අනාගතයට ගැළපෙන ශ්‍රමිකයා නිර්මාණය කිරීම වෙනුවෙන් “සේවක කේන්ද්‍රයක්” ඇති කිරීමට කටයුතු කරන බවය.
+
+...
+
+[Data](articles/3e645839.json)
+
+---
+
+### විදෙස් දුම්වැටි තොගයක් සමග දේශපාලනඥයෙකු අත්අඩංගුවට
+
+*2024-05-30 18:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197190) · `si`
+
+විදෙස් දුම්වැටි තොගයක් රැගෙන ශ්‍රී ලංකාවට පැමිණි දේශපාලනඥයෙකු අත්අඩංගුවට ගෙන තිබේ.
+
+පොලිස් මත්ද්‍රව්‍යනාශක කාර්යාංශයේ කටුනායක ගුවන්තොටුපොළ ඒකකයේ නිලධාරීන් විසින් කළ වැටලීමකදී සැකකාර දේශපාලනඥයා අත්අඩංගුවට ගෙන ඇත.
+
+සැකකරු ප්‍රබල දේශපාලන පක්ෂයක් නියෝජනය කරන හිටපු පළාත් සභා මන්ත්‍රීවරයෙකු බවට තොරතුරු අනාවරණය වී තිබේ.
+
+එහිදී ඔහු සන්තකයේ තිබී දුම්වැටි 6000කට ආසන්න ප්‍රමාණයක් සොයාගෙන ඇත.
+
+එහි වටිනාකම රුපියල් ලක්ෂ 5කට ආසන්න බවට වැඩිදුරටත් තොරතුරු වාර්තාවෙයි.
+
+පොලිස් මත්ද්‍රව්‍යනාශක කාර්යාංශයේ කටුනායක ගුවන්තොටුපොළ ඒකකයේ නිලධාරීන් සිද්ධිය සම්බන්ධයෙන් වැඩිදුර පරීක්ෂණ සිදුකරයි.
+
+◼️
+
+[Data](articles/2d834453.json)
+
+---
 
 ### $ 1 billion investment goal is completed
 
@@ -2301,67 +2355,5 @@ Therefore, the contribution given by both of them should be appreciated to prote
 [Data](articles/85fc4862.json)
 
 [Extended Data](ext_articles/85fc4862.ext.json)
-
----
-
-### Landslide alert to 6 districts - National Building and Research Institute
-
-*2024-05-30 11:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/184839) · `ta`
-
-A landslide alert has been issued for six districts in Sri Lanka: Colombo, Kandy, Kegalle, Kurunegala, Nuwara Eliya, and Ratnapura. The warning remains effective until 7 am tomorrow (31st).
-
-🟩
-
-The National Building Research Institute said that the warning has been issued till 7 am tomorrow (31).
-
-Accordingly, a landslide disaster has been issued to Colombo, Kandy, Kegalle, Kurunegala, Nuwara Eliya and Ratnapura districts.
-
-◼️
-
-[Data](articles/8ab33d93.json)
-
-[Extended Data](ext_articles/8ab33d93.ext.json)
-
----
-
-### Marie brother is killed at Rs 500
-
-*2024-05-30 11:06:39* · [`adalk`](https://www.ada.lk/breaking_news/රුපියල්-500ට-මල්ලී-අයියව-ඝාතනය-කරයි/11-409905) · `si`
-
-A man was killed for 500 rupees, and his younger brother, aged 48, was arrested for the murder. The victim lived with his mother and siblings until he was attacked. The suspect will face charges in court.
-
-🟩
-
-Pingwatta police say that his younger brother arrested for the death of his elder brother. The suspect was a 48 year old resident of the Tropharagama Road, Pingathanarama Road.
-
-The deceased has been identified as the deceased who was residing at the Tumber Base Hospital.In police investigations revealed that his eldest brother had been attacked on the 13th of the role of the two who had been living in the house with two and the mother.The deceased has been identified as the deceased in the post mortem examination and the OIC Chief Inspector of Police has arrested the suspect under the direction of Mr. Nandana. The suspect was to be produced before the Panadura Magistrate's Court.
-
-◼️
-
-[Data](articles/88499402.json)
-
-[Extended Data](ext_articles/88499402.ext.json)
-
----
-
-### The general candidate should start the choice from the east;To stop him as a symbol of the Tamil people - Jaffna. University Student Union Request
-
-*2024-05-30 11:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/184838) · `ta`
-
-The Jaffna University Student Union urges the Tamil community to select a general candidate from the East as a symbol of unity and to avoid candidates tied to specific political parties. They emphasize the importance of addressing the structural genocide faced by Eelam Tamils and moving beyond the limitations of the 13th Amendment. The union calls for a focus on creating foreign policies and engaging with multinational corporations independently. They also stress the need for a non-politician as a common candidate, capable of working across political lines post-election. The statement highlights the critical role of Tamil votes in challenging Sinhala-Buddhist chauvinism and the necessity of making informed decisions based on the broader interests of the Tamil people.
-
-🟩
-
-The general candidate should not reflect the political interests of certain parties- the Jaffna University Student Union, which has appealed to the Tamil people, should be held from the East to identify the entire occupied Eastern Province to identify the occupied Eastern Province.. If the candidate is a woman, it is said.
-
-While the elections related to the election of the head of the state of Sri Lanka have been initiating, the Eelam Tamils ​​who are in the Structural Genocide within the structural genocide are required to take up the election in their political liberation.
-
-In the 15 years since 2009, the Tamil people and the Tamil nationalist politicians have failed to save an inch of the homeland from the Tamil language and the Tamil people and the Tamil nationalist politicians have failed to make the people of Tamil Nadu, which has only been promoted by the Tamil parties, which are only relying on empty promises in the name of diplomacy and diplomacy.
-
-...
-
-[Data](articles/1e9981db.json)
-
-[Extended Data](ext_articles/1e9981db.ext.json)
 
 ---

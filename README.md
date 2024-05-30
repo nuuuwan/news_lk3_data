@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-30 07:45:53**
+As of **2024-05-30 08:10:51**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,353
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,198 (100.0%) of 27,209 articles have been extended.
+27,208 (100.0%) of 27,209 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ The Extraordinary Gazette also appoints the Director General of the Department o
 ◼️
 
 [Data](articles/3e85da9c.json)
+
+[Extended Data](ext_articles/3e85da9c.ext.json)
 
 ---
 
@@ -68,43 +70,57 @@ The sea areas around the island will be rough or very rough due to the active so
 
 [Data](articles/2fcc58ef.json)
 
+[Extended Data](ext_articles/2fcc58ef.ext.json)
+
 ---
 
-### ක්‍රීඩා සංගම් 4ක් තාවකාලිකව අත්හිටුවයි
+### Four sports associations temporarily suspended
 
 *2024-05-30 06:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197169) · `si`
 
-වහාම ක්‍රියාත්මක වනපරිදි ජාතික ක්‍රීඩා සංගම් සම්මේලන 4ක ලියාපදිංචිය තාවකාලිකව අත්හිටුවීමට ක්‍රීඩා හා යෞවන කටයුතු අමාත්‍යාංශය පියවර ගෙන තිබේ.
+The Ministry of Sports and Youth Affairs in Sri Lanka has temporarily suspended the registrations of four National Sports Associations: the Cycling Federation, Rugby Union, Motor Conference, and Netball Federation. The Director General of the Department of Sports Development will oversee this process.
 
-ශ්‍රී ලංකා පාපැදි සම්මේලනය, රග්බි සංගමය, මෝටර් රථ සම්මේලනය සහ දැල්පන්දු සම්මේලනය යන සංගම් හා සම්මේලනවල ලියාපදිංචිය මෙලෙස අත්හිටුවා ඇති බව සඳහන් ය.
+🟩
 
-අදාළ සංගම් හා සම්මේලනවල ඉදිරි කටයුතු සිදුකිරීම සහ ඊට අදාළ නිලවරණය කැඳවීම සඳහා නිසි බලධාරියා ලෙස ක්‍රීඩා සංවර්ධන දෙපාර්තමේන්තුවේ අධ්‍යක්ෂ ජනරාල්වරයා පත්කර ඇති බව සඳහන් ය.
+The Ministry of Sports and Youth Affairs has taken steps to temporarily suspend the registration of 4 National Sports Association conferences.
+
+The Registration of the Sri Lanka Cycling Federation, Rugby Union, Motor Conference and Netball Federation Association and Federations have been suspended.
+
+The Director General of the Department of Sports Development has been appointed as the Protection Authority to carry out the relevant associations and conferences.
 
 ◼️
 
 [Data](articles/7ad0e4bf.json)
 
+[Extended Data](ext_articles/7ad0e4bf.ext.json)
+
 ---
 
-### නිරිතදිග මෝසම් තත්ත්වයේ බලපෑම තවදුරටත්
+### The influence of southwest monsoon further
 
 *2024-05-30 06:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197167) · `si`
 
-සක්‍රීය නිරිතදිග මෝසම් තත්ත්වය හේතුවෙන් දිවයිනේ දැනට පවතින වැසි සහ සුළං තත්ත්වය තවදුරටත් බලාපොරොත්තු වෙන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+The Department of Meteorology reports that the island's rainfall and wind conditions have improved due to the active southwest monsoon, affecting various provinces with showers and potential heavy rains.
 
-අද (30) අලුයම නිකුත් කළ නවතම කාලගුණ නිවේදනයෙන් ඒ බව පෙන්වා දෙයි.
+🟩
 
-ඒ හේතුවෙන් අද දිනයේත් බස්නාහිර, සබරගමුව, මධ්‍යම සහ දකුණු පළාත්වල විටින් විට වැසි ඇතිවෙයි. වයඹ පළාතේ වැසි වාර කිහිපයක් ඇතිවිය හැකිය.
+The Department of Meteorology says that the existing rain and wind quality of the island have further supported due to active southwest monsoon.
 
-බස්නාහිර සහ සබරගමුව පළාත්වලත්, නුවරඑළිය දිස්ත්‍රික්කයේත් ඇතැම් ස්ථානවල මි.මී. 75 ට වැඩි තරමක තද වැසි ඇති වෙයි.
+The latest weather relent was issued today (30).
 
-ඌව පළාතේත් අම්පාර සහ මඩකලපුව දිස්ත්‍රික්කවලත් සවස් කාලයේ හෝ රාත්‍රී කාලයේ ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇදහැලෙයි.
+As a result, showers will occur at times in the Western, Sabaragamuwa, Central and Southern provinces. Showers will occur in the North Western Province.
 
-මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවලත් උතුරු මැද, බස්නාහිර, දකුණු සහ වයඹ පළාත්වලත් ත්‍රීකුණාමලය සහ මොනරාගල දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. (50-60) ක පමණ තද සුළං ඇතිවිය හැකිය.
+In some places in the Western and Sabaragamuwa Province, MM. Heavy rains experience more than 75.
+
+Showers or thundershowers will occur in the Uva Province and in the Ampara and Batticaloa districts, or at night.
+
+At times, the North Central, West, Western, Southern and Northwestern provinces are held in Trincomalee and North Western Provinces and in Trincomalee and Moneragala Districts.. (50-60) can cause strong winds.
 
 ◼️
 
 [Data](articles/cd5808d8.json)
+
+[Extended Data](ext_articles/cd5808d8.ext.json)
 
 ---
 
@@ -384,33 +400,45 @@ Patients in hospitals in their respective areas should be provided with possible
 
 ---
 
-### 300 பாடசாலைகளுக்கு மண்சரிவு அபாயம்
+### 300 schools are at risk of landslides
 
 *2024-05-30 02:00:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/300-பாடசாலைகளுக்கு-மண்சரிவு-அபாயம்/175-338122) · `ta`
 
-மண்சரிவு அதி அபாய பகுதிகளில் 300 இற்கும் மேற்பட்ட பாடசாலைகள் காணப்படுகின்றன என தேசிய கட்டட ஆராய்ச்சி நிறுவகம் தெரிவித்தது.
+More than 300 schools face landslide risks, as per the National Building Research Institute. Measures are being taken to manage disasters in these areas, with several state agencies also present in landslide-prone zones.
 
-அடையாளம் காணப்பட்டுள்ள மேற்படி பாடசாலைகள் அமைந்துள்ள பகுதியில் அனர்த்தங்களை கட்டுப்படுத்தும் நடவடிக்கைகள் முன்னெடுக்கப்பட்டுள்ளன என தேசிய கட்டட ஆராய்ச்சி நிறுவகத்தின் மண்சரிவு ஆய்வு பிரிவின் பணிப்பாளர் காமினி ஜயதிஸ்ஸ தெரிவித்துள்ளார்.
+🟩
 
-அத்துடன், மண்சரிவு அதி அபாய பகுதிகளில் பல்வேறு அரச நிறுவனங்களும் காணப்படுகின்றன அவர் தெரிவித்துள்ளார். (a)
+The National Building Research Institute said that there are more than 300 schools in the landslides.
+
+Gamini Jayatissa, Director of the National Building Research Institute Institute of Research Institute, said that steps have been taken to control disasters in the area where these schools are located.
+
+In addition, various state agencies are found in the landslide hazardous areas.. (A)
 
 ◼️
 
 [Data](articles/83546a29.json)
 
+[Extended Data](ext_articles/83546a29.ext.json)
+
 ---
 
-### சூறாவளி தாக்கம் இன்று முதல் குறைவடையும்
+### The impact of the hurricane will decrease from today
 
 *2024-05-30 01:51:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சூறாவளி-தாக்கம்-இன்று-முதல்-குறைவடையும்/175-338121) · `ta`
 
-தென்மேற்கு பருவப்பெயர்ச்சியின் காரணமாக, எதிர்வரும் இரண்டு அல்லது மூன்று தினங்களில் நாட்டின் தென்மேற்கு பிராந்தியத்தில் மழையுடனான வானிலை நிலவும் என திணைக்களம் குறிப்பிட்டுள்ளது.
+Hurricane impact decreases due to southwest monsoon, affecting 39,156 individuals from 10,483 families in the southwestern region over the next few days.
 
-இதனிடையே, மழையுடனான வானிலை காரணமாக 10 ஆயிரத்து 483 குடும்பங்களை சேர்ந்த 39 ஆயிரத்து 156 பேர் பாதிக்கப்பட்டுள்ளனர். (a)
+🟩
+
+Due to the southwest monsoon, the department said the rainy weather conditions in the southwestern region of the country in the next two or three days.
+
+Meanwhile, 39 thousand 156 people from 10 thousand 483 families have been affected by the rainy weather. (A)
 
 ◼️
 
 [Data](articles/8c014485.json)
+
+[Extended Data](ext_articles/8c014485.ext.json)
 
 ---
 

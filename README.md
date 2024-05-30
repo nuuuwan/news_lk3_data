@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-30 13:53:31**
+As of **2024-05-30 14:05:09**
 
 ## Newspaper Stats
 
-*Scraped **27,291** Articles*
+*Scraped **27,295** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,36 +15,84 @@ newsfirstlk | 363
 islandlk | 1,477
 economynextcom | 1,560
 dailyftlk | 1,601
-adalk | 2,321
-adaderanalk | 3,108
+adalk | 2,322
+adaderanalk | 3,109
 tamilmirrorlk | 3,204
 virakesarilk | 4,200
-dailymirrorlk | 4,315
-adaderanasinhalalk | 4,363
+dailymirrorlk | 4,316
+adaderanasinhalalk | 4,364
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,282 (100.0%) of 27,291 articles have been extended.
+27,291 (100.0%) of 27,295 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-30 (Thursday)
 
-### “எமது கட்சிக்கு எவரும் பாடம் எடுக்க வேண்டியதில்லை ”
+### රත්නපුරයේ මාර්ග රැසක් ජලයෙන් යටවෙයි
+
+*2024-05-30 13:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197180) · `si`
+
+කළු ගඟේ ජල මට්ටම වේගයෙන් ඉහළයෑම හේතුවෙන් රත්නපුරයේ ගංවතුර තත්ත්වයක් පවතින බව අප වාර්තාකරුවන් පවසයි.
+
+කළු ගගේ ජල මට්ටම පුළුඟුපිටිය ජල මාපක 07 සීමාව කරා ළඟාවෙමින් ඇති බවද වාර්තා වෙයි.
+
+මේ හේතුවෙන් රත්නපුර අළුපොත ප්‍රධාන බස් මාර්ගය ඇත් ඔය ප්‍රදේශයෙන් යළි යටවී ගමනාගමනයට බාධා එල්ලවී තිබේ.
+
+ප්‍රධාන මාර්ගවලට ප්‍රවේශ වන අතුරු මාර්ග රැසක් ද ජලයෙන් යටවී ඇති අතර නිවාස ද අවදානමට ලක්වී ඇතැයි වාර්තා වෙයි.
+
+ජල මට්ටම මාපකයේ 07 සීමාවට ළඟා වුවහොත් ලොකු ගංවතුර තත්ත්වයක් ඇති වෙතැයි ජනතාව බිය පළ කරයි.
+
+◼️
+
+[Data](articles/c53ffe72.json)
+
+---
+
+### Veteran Sri Lankan musician Shelton Premaratne passes away
+
+*2024-05-30 13:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/99536/veteran-sri-lankan-musician-shelton-premaratne-passes-away) · `en`
+
+Veteran Sri Lankan music composer Dr. Shelton Premaratne has reportedly passed away this morning (30) in Australia.
+
+This was confirmed by Sri Lankan musician Keerthi Pasquel in a Facebook post.
+
+Dr Shelton Premaratne was a legendary Sri Lankan composer, instrumentalist and music director. At a time when Sinhala music directly emulated Hindi and Tamil music from India, Dr Premaratne was a pioneer in developing a music style that was original and unique to Sri Lanka.
+
+Masterful with various Eastern and Western instruments, Dr Premaratne has contributed to Sinhala cinema, theatre and classical Sri Lankan music.
+
+He was the music composer and director in over 30 stage productions, including Henry Jayasena’s popular theatre production Hunuwataye Kathawa (The Caucasian Chalk Circle), and 21 Sinhala films including films such as Daskon, Romeo Juliet Kathawak and Hithaka Pipunu Mal.
+
+Dr Premaratne was residing in Sydney, Australia with his beloved son, at the time of his passing.
+
+◼️
+
+[Data](articles/ff78bc84.json)
+
+---
+
+### “No one has to take a lesson for our party”
 
 *2024-05-30 13:37:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எமது-கட்சிக்கு-எவரும்-பாடம்-எடுக்க-வேண்டியதில்லை/175-338152) · `ta`
 
-ஜனநாயகத்தின் தாயகமே ஐக்கிய தேசியக் கட்சிதான். எனவே, ஜனநாயகம் பற்றி எமது கட்சிக்கு எவரும் பாடம் எடுக்க வேண்டியதில்லை. அரசமைப்பின் பிரகாரம் உரிய வகையில் தேர்தல்கள் நடத்தப்படும் - என்று ஜனாதிபதியின் கீழ் இயங்கும் தொழிற்சங்க முடிவுகளை எடுக்கும் மூன்றுபேர் கொண்ட குழுவின் உறுப்பினரும், ஐக்கிய தேசியக் கட்சியின் இரத்தினபுரி மாவட்ட அமைப்பாளருமான சுப்பையா ஆனந்தகுமார் தெரிவித்தார்.  இது தொடர்பில் அவர் விடுத்துள்ள அறிக்கையில் தெரிவிக்கப்பட்டுள்ளவை வருமாறு,
+The United National Party (UNP) asserts its commitment to democracy, emphasizing its global reputation for respecting democratic principles. Despite criticisms from certain politicians, the UNP remains focused on conducting elections constitutionally under President Ranil Wickremesinghe's leadership. The party condemns unfounded accusations and calls for a peaceful, fair electoral process amidst political turmoil.
 
-“ ஜனநாயகத்தை அதிகம் மதிக்கும் கட்சியாக ஐக்கிய தேசியக் கட்சியும், தலைவராக ரணில் விக்கிரமசிங்கவும் உலகலாவிய ரீதியில் ஏற்றுக்கொள்ளப்பட்டுள்ளனர். எனவே, ஜனநாயகத்துக்கு எதிரான நடவடிக்கைகளில் ஐக்கிய தேசியக் கட்சி ஒருபோதும் இறங்காது என்பது ஊரறியும், உலகறியும்.
+🟩
 
-எனினும், எதற்கெடுத்தாலும் அறிக்கை விடுத்தும், அறிவிப்புகளை விடுத்தும் அரசியல் நடத்தும் வாய்சொல் வீரர்கள், எமது கட்சியின் பொதுச்செயலாளரால் வெளியிடப்பட்டுள்ள கருத்தை தூக்கிப்பிடித்துக்கொண்டு கட்சிக்கு எதிராக விமர்சனங்களை முன்வைத்துவருகின்றனர். இவற்றை நாம் வன்மையாகக் கண்டிக்கின்றோம்.
+The United National Party is the homeland of democracy. So, no one has to take a lesson for our party about democracy. Subbaiah Anandakumar, a member of a three -member committee of the United National Party and the organizer of the United National Party (UNP), said that the elections will be held in accordance with the constitution.In this regard, he said,
+
+“The United National Party (UNP) and Ranil Wickremesinghe have been adopted worldwide as the party that respects democracy. Therefore, the United National Party will never descend into anti -democratic activities.
+
+However, politicians who make a statement and announce the announcements, have been criticizing the party by lifting the views made by our party's general secretary.. We vehemently condemn these.
 
 ...
 
 [Data](articles/793d0627.json)
+
+[Extended Data](ext_articles/793d0627.ext.json)
 
 ---
 
@@ -63,6 +111,8 @@ ABC News cited a New York City Police Department bulletin, opens new tab saying 
 ...
 
 [Data](articles/2d69b50a.json)
+
+[Extended Data](ext_articles/2d69b50a.ext.json)
 
 ---
 
@@ -84,17 +134,47 @@ At the roundtable the President outlined Sri Lanka’s vision on prosperity, ren
 
 [Data](articles/5e616a4b.json)
 
+[Extended Data](ext_articles/5e616a4b.ext.json)
+
 ---
 
-### ප්‍රවීණ සංගීතඥ ෂෙල්ටන් ප්‍රේමරත්න අභාවප්‍රාප්ත වෙයි
+### මෝටර් රථ අනතුරකින් සිසුවෙකුට බරපතළයි
+
+*2024-05-30 13:26:44* · [`adalk`](https://www.ada.lk/breaking_news/මෝටර්-රථ-අනතුරකින්-සිසුවෙකුට-බරපතළයි/11-409915) · `si`
+
+කහතුඩුව වෑතර රෝහල ඉදිරිපිටදී ධාවනය වෙමින් තිබූ මෝටර් රථයක්  නවතා තිබූ ස්කුටර්යක සහ මාර්ගයේ ගමන් ගත් සිසුවෙකුගේ  ගැටීමෙන්  එම සිසුවා බරපතල තුවාල ලබා ඇතැයි කහතුඩුව පොලිසිය කියයි.
+
+අනතුරින් තුවාල ලබා ඇත්තේ වෑතර මහා විද්‍යාලයේ දහවන වසරේ ඉගෙනුම ලබන බණ්ඩාරගම වල්ගම ප්‍රදේශයේ පදිංචි 15 හැවිරිදි  සිසුවෙක්ය.
+
+මෝටර් රථයේ ගැටීමෙන් නවතා තිබූ ස්කූටරය මීටර් දහයක් පමණ මෝටර් රථයක් සමග ඉදිරියට ඇදී ගොස් අධිබලැති විදුලි කණුවක ගැටී දෙකට නැවී බරපතල අලාභ සිදු වී ඇතැයි පොලිසිය සඳහන් කරයි.
+
+අනතුරින් බරපතළ තුවාල ලැබූ සිසුවා වෑතර රෝහල වෙත ඇතුළත් කිරීමෙන් අනතුරුව වැඩිදුර ප්‍රතිකාර සඳහා කළුබෝවල ශීක්ෂණ රෝහල වෙත ඇතුලත් කර ඇත.
+
+මෝටර් රථය පිළියන්දල දෙස සිට කහතුඩුව දෙසට පැමිණීමේදී එහි  පිටුපස දකුණු පස ටයරයේ හුළං යාම හේතුවෙන්
+
+රියදුරට මෝටර් රථයේ පාලනය කර  ගැනීමට නොහැකිව මාර්ගයේ  වම් අත දිසාවට ඇදී ගොස්  වෙළඳසැලක් ඉදිරිපිට නවතා තිබූ ස්කූටරය යේ ගැටීමෙන් අනතුරුව පාගමනින් යමින් සිටි සිසුවාගේ ද ගැටී  මෙම අනතුර වී ඇතැයි පොලිසිය කියයි.
+
+...
+
+[Data](articles/5cc58e34.json)
+
+---
+
+### Veteran musician Shelton Premaratne passes away
 
 *2024-05-30 13:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197179) · `si`
 
-ඉතා මියුරු ගීත තනු සිය ගනනක් සංගීත ක්ෂේත්‍රයට දායාද කළ ප්‍රවීණ සංගීතඥ ෂෙල්ටන් ප්‍රේමරත්න මහතා අද (30) අභාවප්‍රාප්ත වී තිබේ.
+Shelton Premaratne, a renowned musician, has sadly passed away today.
+
+🟩
+
+Veteran Musiciant Shelton Premaratne has passed away today (30).
 
 ◼️
 
 [Data](articles/9bff7782.json)
+
+[Extended Data](ext_articles/9bff7782.ext.json)
 
 ---
 
@@ -116,6 +196,8 @@ The petitioner has alleged that the former President has committed contempt of c
 
 [Data](articles/e73895eb.json)
 
+[Extended Data](ext_articles/e73895eb.ext.json)
+
 ---
 
 ### Higher water level recorded in Mahaweli Ganga, those in Kandy requested to be vigilant
@@ -133,6 +215,8 @@ Therefore, those in the low lying areas and along the Mahaweli Ganga are request
 ◼️
 
 [Data](articles/d6bfb238.json)
+
+[Extended Data](ext_articles/d6bfb238.ext.json)
 
 ---
 
@@ -164,17 +248,23 @@ The driver of the 29-year-old driver has been arrested by the police.
 
 ---
 
-### අනුරට ඇති කැමැත්ත අඩුවයි, සජිත් හා අනුර සමවෙති, රනිල්ට ඇති කමැත්ත ඉහ‍ලට
+### The other willingness is less, and Sajith and Anura is so the subscriptions of Ranil
 
 *2024-05-30 13:03:38* · [`adalk`](https://www.ada.lk/breaking_news/අනුරට-ඇති-කැමැත්ත-අඩුවයි--සජිත්-හා-අනුර-සමවෙති--රනිල්ට-ඇති-කමැත්ත-ඉහ‍ලට/11-409913) · `si`
 
-අප්‍රේල් මාසයේදි ජනපතිවරණයක් පැවැත්විනම් ජාතික ජනබලවේගයේ නායක අනුර කුමාර දිසානායක මහතාට හා සජිත් ප්‍රේමදාස මහතාට සියයට 39 බැගින් ලබාගෙන සම තත්ත්වයේ පසුවන බව සෞඛ්‍ය ප්‍රතිපත්ති ආයතනය විසින් නිකුත් කළ නවතම සමීක්ෂණ වාර්තාවේ දැක්වෙයි.
+In a recent survey, Sajith Premadasa leads with 39% support for a potential April presidential election, a slight increase from previous months. Despite a 6% drop for Mr. Dissanayake, both Sajith and Ranil Wickremesinghe see a 1% rise in public favorability.
 
-ඒ් අනුව මාර්තු මාසයට සමගාමීව අනුර කුමාර දිසානායක මහතාට පැවැති ජනතා හිතකරත්වය සියයට 6කින් පහළ බැස තිබේ. කෙසේ වෙතත් සජිත් ‌ප්‍රේමදාස මහතාට ඇති ජනතා හිතකරත්වය හා රනිල් වික්‍රමසිංහ මහතා ඇති ජනතා හිතකරත්වය සියයට 1 බැගින් ඉහළ ‌‌ගොස් තිබේ.‍
+🟩
+
+The latest survey issued by the Health Policy Agency issued by the Health Policy Agency, if a presidential election will be held in April and Sajith Premadasa was receiving 39 percent.
+
+Mr. Dissanayake has fallen by 6 percent in parallel to March. However, the beneficiary of the people who have Sajith Premadasa and Ranil Wickremesinghe has increased by 1 percent.
 
 ◼️
 
 [Data](articles/1262b646.json)
+
+[Extended Data](ext_articles/1262b646.ext.json)
 
 ---
 
@@ -628,23 +718,35 @@ Second Woman: Why, where is it?
 
 ---
 
-### மூக்குத்தி குத்திய பெண்களுக்கு மட்டும்
+### Nostril
 
 *2024-05-30 11:42:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மூக்குத்தி-குத்திய-பெண்களுக்கு-மட்டும்/175-338140) · `ta`
 
-நகைகள் என்றால் ஆசையே இல்லாத பெண்கள் இருக்கவே மாட்டார்கள். அதிலும், தங்க நகைகள் என்றால் சொல்லவா வேண்டும். பிறந்த நாள் முதல், ஆடி 18 வரையும் நகைகள்தான் கேட்பார்கள் பரிசாக,
+People gather at bus stations, hospitals, and schools sharing tales of desire, laughter, tears, and confusion. On Thursday morning, individuals wait outside the Colombo National Hospital lab for blood tests, speaking in Sinhala and Tamil. Some faint due to hunger before testing. The narrative shifts from personal experiences to medical procedures, highlighting the mix of human emotions and practical concerns during health check-ups.
 
-அவ்வாறான கதைகளை கேட்க, பேருந்து நிலையங்கள், வைத்தியசாலைகள் மற்றும் பாடசாலைகளுக்கு முன்பாக நின்றுக்கொண்டிருக்க வேண்டும்.  வியக்கத்தக்க பல கதைகள் கிடைக்கும். நினைத்து நினைத்து சிரிப்பதா? அழுவதா? என மனம் தடுமாறி போய்விடும்
+🟩
 
-வியாழக்கிழமை (30) நேரம் காலை 8 மணியிருக்கும் பலரும் வரிசையாக நின்றுக்கொண்டிருந்தனர். அவர்கள் அனைவரினதும் கைகளில் வண்ணவண்ண குப்பிகள் இருந்தன. இன்னும் சிலர் அமர்ந்திருந்தனர்.
+Jewelry will not be women who do not have desire. Even if gold jewelry should be said. From birthday, Audi 18
 
-நாற்காலிகளில் அமர்ந்திருந்தவர்கள் நகர, நகர நின்றிருப்பவர்கள் அமர்ந்துகொள்ளவேண்டும். அனைவரும் ஏதோவொரு நோய்க்கு உள்ளாகியுள்ளனர். இரத்த பரிசோதனைக்காக கொழும்பு தேசிய வைத்தியசாலையில் ஆய்வுக்கூடத்துக்கு வந்திருந்தனர்.
+To hear such stories, you must stand in front of bus stations, hospitals and schools.Get many stories astonishing stories. Thinking and laughing?Crying?The mind will stumble
 
-பெரும்பாலும் சிங்களம், தமிழ் மொழிகளில் பேசுபவர்களே இருந்தனர். உறவினர்களுடன் வருகைதராமல், தனித்து வந்த நோயாளர்கள் சில மயங்கி விழுந்துவிட்டனர். ஏனெனில், இரத்த பரிசோதனைக்கு வரும்போது உணவு, ஆகாரம் எதுவுமே உண்ணாமலே வரவேண்டும்.
+Thursday (30) was standing in the morning at 8 am. They all had colored vials in the hands of all of them. Others were seated.
+
+Those who sit in chairs must sit on the city and the city. Everyone is infected with something. They came to the Laboratory at the Colombo National Hospital for blood tests.
+
+Most of the people who spoke in Sinhala and Tamil. Without arriving with relatives, some of the lonely patients have fallen faint. This is because when it comes to a blood test, no food and food should be eaten.
+
+Many of the elderly and the fed upon were helping and letting go in advance.
+
+The first woman: I came in the morning, the sidewalk manisi came, Ottola Vandu, how many hours to go,
+
+Second Woman: Why, where is it?
 
 ...
 
 [Data](articles/f3fee81b.json)
+
+[Extended Data](ext_articles/f3fee81b.ext.json)
 
 ---
 
@@ -913,6 +1015,18 @@ It was reported that a special police team has been dispatched to Dubai to bring
 [Data](articles/75dbec4f.json)
 
 [Extended Data](ext_articles/75dbec4f.ext.json)
+
+---
+
+### Martin Wickramasinghe’s folklore collection to public
+
+*2024-05-30 10:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Martin-Wickramasinghes-folklore-collection-to-public/110-283700) · `en`
+
+A folklore collection of Sri Lankan journalist and author Martin Wickramasinghe was vested with the public by Prime Minister Dinesh Gunawardana. The ceremony was held at the National Library & Documentation Services Board. Pix by Nimalsiri Edirisinghe
+
+◼️
+
+[Data](articles/99351b61.json)
 
 ---
 
@@ -1541,6 +1655,8 @@ In response to the recent statement by the United National Party (UNP) headed by
 ...
 
 [Data](articles/fb1aad7e.json)
+
+[Extended Data](ext_articles/fb1aad7e.ext.json)
 
 ---
 
@@ -2171,91 +2287,5 @@ In addition, various state agencies are found in the landslide hazardous areas..
 [Data](articles/83546a29.json)
 
 [Extended Data](ext_articles/83546a29.ext.json)
-
----
-
-### The impact of the hurricane will decrease from today
-
-*2024-05-30 01:51:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சூறாவளி-தாக்கம்-இன்று-முதல்-குறைவடையும்/175-338121) · `ta`
-
-Hurricane impact decreases due to southwest monsoon, affecting 39,156 individuals from 10,483 families in the southwestern region over the next few days.
-
-🟩
-
-Due to the southwest monsoon, the department said the rainy weather conditions in the southwestern region of the country in the next two or three days.
-
-Meanwhile, 39 thousand 156 people from 10 thousand 483 families have been affected by the rainy weather. (A)
-
-◼️
-
-[Data](articles/8c014485.json)
-
-[Extended Data](ext_articles/8c014485.ext.json)
-
----
-
-### The presidential election according to the Constitution
-
-*2024-05-30 01:46:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசியலமைப்பின்-பிரகாரம்-ஜனாதிபதித்-தேர்தல்/175-338120) · `ta`
-
-In response to journalists' questions in Colombo, the Prime Minister emphasized the importance of adhering to the Constitution during the upcoming presidential election. He assured that the democratic system prevents any potential chaos from unfounded claims. The Elections Commission plans to conduct the election between September and October, as officially announced by the government.
-
-🟩
-
-He also said that there will be no chance in the democratic regime to create confusion in the country through reckless claims.
-
-Responding to a question raised by journalists after an event in Colombo, the Prime Minister said this.
-
-He said that the Elections Commission would make arrangements to hold elections between September and October and that the government had announced it.. (A)
-
-◼️
-
-[Data](articles/c268c3c4.json)
-
-[Extended Data](ext_articles/c268c3c4.ext.json)
-
----
-
-### Two persons arrested for allegedly involved with ISIS terrorists
-
-*2024-05-30 01:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/184822) · `ta`
-
-Four Sri Lankans linked to ISIS were arrested in India, including Mohamed Nafran Nauber, son of a known criminal, based on intelligence.
-
-🟩
-
-Four Sri Lankan ISIS terrorists arrested in India last week have been arrested in the Mawanella area.
-
-Four Sri Lankans involved in the SIS were arrested by the Gujarat Terrorism Division at Ahbad Airport in India on the 20th.
-
-Mohamed Nafran Nauber, the son of Niaz Nauber, an organized culprit, Pota Nauber, has been arrested on the basis of intelligence in India.
-
-◼️
-
-[Data](articles/9bfc925a.json)
-
-[Extended Data](ext_articles/9bfc925a.ext.json)
-
----
-
-### Unlocking economic growth and Strategic Advantages: Potential benefits for Sri Lanka from BRICS
-
-*2024-05-30 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Unlocking-economic-growth-and-Strategic-Advantages-Potential-benefits-for-Sri-Lanka-from-BRICS/172-283634) · `en`
-
-The expansion of the BRICS coalition to include Iran, Egypt, Ethiopia, and the United Arab Emirates on 1st January 2024 marks a significant milestone in its evolution
-
-The recent inclusion of Iran, Saudi Arabia, and the UAE expands BRICS’ collective population to around 3.5 billion people
-
-BRICS wants to see a “greater voice and representation” for emerging economies
-
-The BRICS summit in Yekaterinburg holds particular significance as the birthplace of the coalition’s formalization. This city’s status as a cultural and industrial hub underscores the BRICS’ commitment to fostering cooperation across various sectors, from trade and investment to technology and innovation
-
-BRICS is an acronym representing a coalition of the world’s prominent Emerging market economies: Brazil, Russia, India, China, and South Africa.
-
-...
-
-[Data](articles/9f7a81f8.json)
-
-[Extended Data](ext_articles/9f7a81f8.ext.json)
 
 ---

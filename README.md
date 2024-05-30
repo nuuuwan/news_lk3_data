@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-30 21:53:26**
+As of **2024-05-30 22:06:19**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,378
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,384 (100.0%) of 27,385 articles have been extended.
+27,385 (100.0%) of 27,385 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1049,6 +1049,8 @@ A lawyer was heard to say in the Law Library canteen that ‘Machang, No worries
 ...
 
 [Data](articles/3c618467.json)
+
+[Extended Data](ext_articles/3c618467.ext.json)
 
 ---
 

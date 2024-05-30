@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-30 10:18:47**
+As of **2024-05-30 10:34:15**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,357
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,228 (100.0%) of 27,234 articles have been extended.
+27,234 (100.0%) of 27,234 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,6 +48,8 @@ Customs officers recently raided five jewellery manufacturing plants and recover
 
 [Data](articles/97f13ebb.json)
 
+[Extended Data](ext_articles/97f13ebb.ext.json)
+
 ---
 
 ### Thailand introduces visa-free entry for Sri Lankan tourists
@@ -68,6 +70,8 @@ The Thai cabinet also approved visa-on-arrival for a total of 31 countries, up f
 
 [Data](articles/7167ad69.json)
 
+[Extended Data](ext_articles/7167ad69.ext.json)
+
 ---
 
 ### Reyaz Mihular chairman of Sri Lanka’s Watawala Plantations
@@ -87,6 +91,8 @@ Outgoing Chairman Wijesinha has served on the boards of both Watawala Plantation
 ...
 
 [Data](articles/19a4499a.json)
+
+[Extended Data](ext_articles/19a4499a.ext.json)
 
 ---
 
@@ -161,6 +167,8 @@ The Colombo Stock Exchange opened up. The All Share Price Index was up 0.09 perc
 ◼️
 
 [Data](articles/43727808.json)
+
+[Extended Data](ext_articles/43727808.ext.json)
 
 ---
 
@@ -368,6 +376,8 @@ Critics have complained that Sri Lanka’s central bank has in the past tried to
 
 [Data](articles/d5607414.json)
 
+[Extended Data](ext_articles/d5607414.ext.json)
+
 ---
 
 ### Fearing legal action globally, Sri Lanka parliament calls to review UN’s evidence gathering
@@ -381,6 +391,8 @@ The United Nation’s Human Rights Council (UNHRC) passed a resolution in March 
 ...
 
 [Data](articles/2b2bbfc3.json)
+
+[Extended Data](ext_articles/2b2bbfc3.ext.json)
 
 ---
 

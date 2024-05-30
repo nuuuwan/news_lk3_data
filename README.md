@@ -1,22 +1,22 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-30 19:03:53**
+As of **2024-05-30 19:18:49**
 
 ## Newspaper Stats
 
-*Scraped **27,361** Articles*
+*Scraped **27,364** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 242
+colombotelegraphcom | 243
 dbsjeyarajcom | 267
 bbccomsinhala | 272
 newsfirstlk | 363
 islandlk | 1,477
 economynextcom | 1,567
 dailyftlk | 1,601
-adalk | 2,333
-adaderanalk | 3,118
+adalk | 2,334
+adaderanalk | 3,119
 tamilmirrorlk | 3,211
 virakesarilk | 4,210
 dailymirrorlk | 4,324
@@ -26,63 +26,101 @@ adaderanasinhalalk | 4,376
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,358 (100.0%) of 27,361 articles have been extended.
+27,361 (100.0%) of 27,364 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-30 (Thursday)
 
-### පාර්ලිමේන්තුව ලබන 4 සිට 7 දක්වා රැස්වෙයි
+### Parliament gathers from 4 to 7
 
 *2024-05-30 18:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197192) · `si`
 
-පාර්ලිමේන්තුව ලබන 4 වනදා සිට 7 වනදා දක්වා රැස්වීමට නියමිත බව පාර්ලිමේන්තුවේ මහලේකම් කුෂානි රෝහණදීර මහත්මිය පවසයි.
+Parliament meets from April 4 to 7, with the Secretary General, Kushani Rohandera, also present. The agenda includes the Second Reading Debate on the Sri Lanka Electricity Bill and the Power of Education Act, decided upon in a committee meeting chaired by the Speaker.
 
-පසුගියදා 28 වනදා කථානායකවරයාගේ ප්‍රධානත්වයෙන් පැවති පාර්ලිමේන්තු කටයුතු පිළිබඳ කාරක සභාවේදී ඊට අදාළ පාර්ලිමේන්තු කටයුතු තීරණය වී ඇත.
+🟩
 
-එහිදී කාන්තාවන් සවිබල ගැන්වීමේ පනත් කෙටුම්පත දෙවනවර කියවීමේ විවාදය ජුනි 4, ‘අධ්‍යාපන ක්ෂේත්‍රයට අදාළව පවතින ගැටලු’ පිළිබඳ සභාව කල්තැබීමේ විවාදය ජුනි 5, ශ්‍රී ලංකා විදුලිබල පනත් කෙටුම්පත දෙවැනිවර කියවීමේ විවාදය ජුනි 6, පැවැත්වීමට නියමිතය.
+The Secretary General of Parliament Kushani Rohandera is said to meet from the 4th to 7th to 7th.
+
+The relevant Parliamentary Affairs has been decided during the Committee on Parliamentary Affairs chaired by Speaker yesterday.
+
+The Second Reading Debate on June 4, June 4, June 5, Sri Lanka Electricity Bill of Power of Education
 
 ◼️
 
 [Data](articles/b8a5cb61.json)
 
+[Extended Data](ext_articles/b8a5cb61.ext.json)
+
 ---
 
-### රජයේ වැටුප් ගැන ජනපති දුන් සහතිකය
+### Presidential certificate in government salaries
 
 *2024-05-30 18:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197191) · `si`
 
-රාජ්‍ය අංශයේ සෑම අංශයකම වැටුප් විෂමතා විසඳීමට කටයුතු කරන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+President Ranil Wickremesinghe aims to address salary discrepancies across all sectors, emphasizing the importance of professional input for national progress. He highlights the need for a "employee hub" to foster innovation and economic recovery post-pandemic. Addressing the nation's economic challenges, including high-interest debts and reliance on foreign loans, he advocates for local financing options and strengthening the banking sector. The President also mentions plans to introduce new legislation for board appointments and focuses on reducing poverty and improving living conditions through various programs. He commits to resolving salary issues in both public and private sectors, underscoring the collective effort needed to revive the economy and ensure employee rights.
 
-ඒ මහතා මේ බව සඳහන් කළේ “ලෙස්ලි දේවේන්ද්‍ර සිංහාවලෝකනය” මැයෙන් කොළඹ බණ්ඩාරනායක අනුස්මරණ ජාත්‍යන්තර සම්මන්ත්‍රණ ශාලාවේදී ඊයේ (29) පැවති උත්සවයට එක් වෙමිනි.
+🟩
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා වැඩිදුරටත් සඳහන් කළේ රට ඉදිරියට ගෙන යාමේ වැඩපිළිවෙළ වෙනුවෙන් වු සියලු වෘත්තිකයන්ගේ අදහස් සංවාදයට බදුන් කිරීම සඳහා මෙන්ම අනාගතයට ගැළපෙන ශ්‍රමිකයා නිර්මාණය කිරීම වෙනුවෙන් “සේවක කේන්ද්‍රයක්” ඇති කිරීමට කටයුතු කරන බවය.
+President Ranil Wickremesinghe says he will resolve salary anomalies in all sectors.
+
+He was speaking at a ceremony held at the Bandaranaike Memorial International Conference Hall yesterday (29) at the Bandaranaike Memorial International Conference Hall.
+
+President Ranil Wickremesinghe added that all professionals' opinion on the advancement of the country will create a "employee hub" to bug and create the future.
 
 ...
 
 [Data](articles/3e645839.json)
 
+[Extended Data](ext_articles/3e645839.ext.json)
+
 ---
 
-### විදෙස් දුම්වැටි තොගයක් සමග දේශපාලනඥයෙකු අත්අඩංගුවට
+### Politicuit arrested with foreign cigarettes
 
 *2024-05-30 18:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197190) · `si`
 
-විදෙස් දුම්වැටි තොගයක් රැගෙන ශ්‍රී ලංකාවට පැමිණි දේශපාලනඥයෙකු අත්අඩංගුවට ගෙන තිබේ.
+A politician was arrested in Sri Lanka after being caught with nearly 6,000 foreign cigarettes during a raid at Katunayake Airport. The suspect, a former provincial councilor from a major political party, faces charges related to the contraband cigarettes. Further investigations are ongoing by airport officials.
 
-පොලිස් මත්ද්‍රව්‍යනාශක කාර්යාංශයේ කටුනායක ගුවන්තොටුපොළ ඒකකයේ නිලධාරීන් විසින් කළ වැටලීමකදී සැකකාර දේශපාලනඥයා අත්අඩංගුවට ගෙන ඇත.
+🟩
 
-සැකකරු ප්‍රබල දේශපාලන පක්ෂයක් නියෝජනය කරන හිටපු පළාත් සභා මන්ත්‍රීවරයෙකු බවට තොරතුරු අනාවරණය වී තිබේ.
+A politician has been arrested by a politician who came to Sri Lanka with foreign cigarettes.
 
-එහිදී ඔහු සන්තකයේ තිබී දුම්වැටි 6000කට ආසන්න ප්‍රමාණයක් සොයාගෙන ඇත.
+The suspect politician has been arrested following a raid on the police nations Bureau Katunayake Airport Unit.
 
-එහි වටිනාකම රුපියල් ලක්ෂ 5කට ආසන්න බවට වැඩිදුරටත් තොරතුරු වාර්තාවෙයි.
+It has been revealed that the suspect is a former provincial councilor representing a powerful political party.
 
-පොලිස් මත්ද්‍රව්‍යනාශක කාර්යාංශයේ කටුනායක ගුවන්තොටුපොළ ඒකකයේ නිලධාරීන් සිද්ධිය සම්බන්ධයෙන් වැඩිදුර පරීක්ෂණ සිදුකරයි.
+Nearly 6000 cigarettes were found in his possession.
+
+It is reported that the value of its value is nearly Rs.
+
+Officers in the Katunayaka Airport Unit of the Katunayake Airport's Office are conducting further investigations.
 
 ◼️
 
 [Data](articles/2d834453.json)
+
+[Extended Data](ext_articles/2d834453.ext.json)
+
+---
+
+### Agency owner, and manager further remanded over illegal recruitment of Sri Lankans to Russian army
+
+*2024-05-30 18:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/99548/agency-owner-and-manager-further-remanded-over-illegal-recruitment-of-sri-lankans-to-russian-army) · `en`
+
+The owner and the manager of a licensed foreign employment agency who were arrested and remanded for allegedly sending Sri Lankans for employment in the Russian army to fight in the Ukraine war, have been further remanded until July 13.
+
+The order was issued when the relevant case was taken up before the Negombo Magistrate’s Court today (30).
+
+Based on 07 complaints received regarding the racket operated by the agency, the two suspects were arrested by officers of the Sri Lanka Bureau of Foreign Employment’s (SLBFE) Special Investigations Unit (SIU) on May 15.
+
+It is claimed that the agency had obtained a sum of Rs. 1.5 million from each individual after promising that they would be sent to Russia on tourist visas and given employment in the Russian army’s civil service.
+
+Based on those complaints, the agency is believed to have cheated a total sum of over Rs. 10 million.
+
+◼️
+
+[Data](articles/469c9a8d.json)
 
 ---
 
@@ -153,6 +191,24 @@ The event was held under the patronage of the Southern Province Governor Lakshma
 [Data](articles/031c2bf8.json)
 
 [Extended Data](ext_articles/031c2bf8.ext.json)
+
+---
+
+### එළවළු මිල සීඝ්‍රයෙන් ඉහළට
+
+*2024-05-30 17:27:38* · [`adalk`](https://www.ada.lk/breaking_news/එළවළු-මිල-සීඝ්‍රයෙන්-ඉහළට/11-409921) · `si`
+
+දිවයින පුරා පවතින දැඩි අයහපත් කාලගුණයත් සමග එලවළු වගාවන් විනාශ විම හේතුවෙන් ඉල්ලුමට සරිලන එලවළු සැපයුමක් ලබාදිමට නොහැකි විම මත එලවළු මිල සීඝ්‍රෙයන් ඉහල ගොස් ඇති බවත්, පවතින තත්ත්වය මත එලවළු හිගයක් ඇතිවිමේ අවධානමක් ඇති බව නුවරඑලිය ආර්ථික මධ්‍යස්ථාන වෙළඳ සංගමයේ නිලධාරින් පැවසිය.
+
+එම නිලධාරින් ඒ බැව් කියා සිටියේ (30) දින එළවළු මිල හා වත්මන් ගොවීන්ගේ ගැටළු සාකච්ඡා කිරීම වෙනුවෙන් නුවරඑළිය ආර්ථික මධ්‍යස්ථානයේ සංවිධානය කරතිබූ විශේෂ මාධ්‍ය හමුවකට එක්වෙමිනි.
+
+මෙම මාධ්‍ය හමුවේදි වැඩිදුරටත් අදහස් දැක් වු නුවරඑළිය ආර්ථික මධ්‍යස්ථානයේ සභාපති සුසිල් ශාන්ත සහ ලේකම් ගුණසේකරන් ශිවා යන මහතුන් කියා සිටියේ ,
+
+"ගෝවා කිලෝවක ගැනුම් මිළ  රුපියල් 70 ක් කැරට් කිලෝවක ගැනුම් මිල රුපියල් 120 ක් ලික්ස් කිලෝවක ගැනුම් මිල රුපියල් 300 ක් රාබු කිලෝවක ගැනුම් මිල රුපියල් 80 ක් බිට්රුට් කිලෝවක ගැනුම් රුපියල් 320 ක් හා අර්තාපල් කිලෝවක ගැනුම් මිල 280ක් වශයෙන් අද අපි ගොවියන්ගෙන් ලබා ගන්නවා" යනුවෙනි.
+
+◼️
+
+[Data](articles/314e68d4.json)
 
 ---
 
@@ -1004,7 +1060,7 @@ People have said that if the water level exceeds the border of 07, there will be
 
 Colombo, May 30 (Daily Mirror) Sri Lankan diplomats in Russia will engage with officials of the Russian Defence Ministry this evening, in "first steps" towards repatriating Sri Lankans in Russia, who have been thrust into the battlefront of its war against Ukraine.
 
-The Foreign Ministry has received up to 455 complaints of Sri Lankans who have been become part of Russia's military efforts, willingly or unwillingly, but this number could be much higher, State Minister of Foreign Affairs Tharaka Balasuriya said.
+The Foreign Ministry has received up to 455 complaints of Sri Lankans who are part of Russia's military efforts, willingly or unwillingly, but this number could be much higher, State Minister of Foreign Affairs Tharaka Balasuriya said.
 
 While some of them had travelled as mercenaries, the State Minister said that others were duped into fighting for Russia at the battle front.
 
@@ -1519,6 +1575,20 @@ US officials, who have said that Ibrahim Raisi is the worst human rights violati
 [Data](articles/eee41a1b.json)
 
 [Extended Data](ext_articles/eee41a1b.ext.json)
+
+---
+
+### “Rob Or Perish” – A Grim Reality In Public Service?
+
+*2024-05-30 13:06:57* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/rob-or-perish-a-grim-reality-in-public-service/) · `en`
+
+With a heavy heart, I share two photographs of George Michael, a former Secretary of the Ministry of Tourism: one taken on his retirement day and the other published years later by the ministry’s chief accountant at that time. This heart-wrenching image, which circulated on social media earlier, calls for financial or other assistance to support him. This piece, which should have been written earlier, is not meant to generalize but rather to highlight why some public officials have become what they are today, which can be interpreted in both ways.
+
+George Michael (name fondly mistaken to English singer and celebrity) served as Secretary to the Ministry of Tourism before his premature retirement in 2011, after being discarded into the pool while his superiors then were aiming to transform Sri Lanka into an ‘economic paradise’ like Singapore.
+
+...
+
+[Data](articles/12e858ed.json)
 
 ---
 
@@ -2279,81 +2349,5 @@ The purchase price of one kilogram of cabbage is 70 rupees, the purchase price o
 [Data](articles/90af5175.json)
 
 [Extended Data](ext_articles/90af5175.ext.json)
-
----
-
-### 10 -year -old Students
-
-*2024-05-30 11:19:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/10-வயதான-மாணவிகளுடன்-துர்நடத்தை-ஆசிரியருக்கு-தடை/71-338138) · `ta`
-
-A teacher was arrested for alleged misconduct towards a student at a Manipay school, leading to a ban by the Northern Provincial Ministry of Education. The case is ongoing, with the teacher released on bail and investigations continuing.
-
-🟩
-
-The Northern Provincial Ministry of Education has been banned by the Northern Provincial Ministry of Education.
-
-A teacher has been arrested at the Mallakam Magistrate's Court on a complaint lodged by the parents of a victim student for allegedly misbehaving with Grade 05 school in a school in Manipay.
-
-The case is pending as the teacher has been released on bail.
-
-In addition, the investigation into the incident has been sent to the Secretary of the Ministry of Education and a letter has been sent to the teacher to continue his work.
-
-◼️
-
-[Data](articles/5c3f7259.json)
-
-[Extended Data](ext_articles/5c3f7259.ext.json)
-
----
-
-### Roshen Chanaka: Mother's request for the son of workers for workers
-
-*2024-05-30 11:19:34* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c511pynzdneo) · `si`
-
-Thirteen years ago, Roshen Chanaka, a worker in the Katunayaka Free Trade Zone, was fatally shot during a protest against the government's proposed changes to the Employees' Provident Fund (EPF) pension scheme. His mother, Swarna Kanti, recounts the tragic event and the subsequent struggles to obtain justice for her son. Despite the intervention of ministers and MPs, and the establishment of a commission to investigate the incident, the report remains inaccessible due to claims of national security threats. Six years later, under the Right to Information Act, Roshen's mother managed to secure the report, which she believes does not adequately address the issues surrounding her son's death. She continues to advocate for justice not just for Roshen, but for all workers affected by similar incidents during the Rajapaksa regime.
-
-🟩
-
-Roshen Chanaka: Mother's request for the son of workers for workers
-
-Thirteen years ago, Katunayaka Freedom was a struggle for the release of the Employees 'Provident Fund and presented the Employees' Provident Fund and presented a pension scheme.
-
-Katunayake Free Trade Zone workers commence anti-government warranty due to the objections of the government to obstruct the protesters of the country for several days, accusing the proposal as the proposal was accused of announcing the "EPF".Did.
-
-Police fired at the protest of unarmed workers and about 400 workers were injured.
-
-Among those fighters, Roshean Shanaka won the service only one month.
-
-He was hospitalized after being injured in the shooting that day, and the government was diagnosed with his pension scheme.
-
-In the Meeting of Roshen, who rescued the meaning of the private sector employees of the private sector in the country, was rescued to the Minuwangoda.
-
-...
-
-[Data](articles/573d95b9.json)
-
-[Extended Data](ext_articles/573d95b9.ext.json)
-
----
-
-### Test cricket
-
-*2024-05-30 11:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197175) · `si`
-
-Ian Botham praises England's Test coach for introducing Brendon McCullum and Ben Stokes, highlighting their contributions to reviving interest in Test cricket.
-
-🟩
-
-Former GPP cricketer Ian Botham says he will provide special praise to two persons regarding the death of Test cricket.
-
-He says that the England Test coach introduced Bandon McCullum and Ben Stokes, he was again focused on Test cricket.
-
-Therefore, the contribution given by both of them should be appreciated to protect Test cricket.
-
-◼️
-
-[Data](articles/85fc4862.json)
-
-[Extended Data](ext_articles/85fc4862.ext.json)
 
 ---

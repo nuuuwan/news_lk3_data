@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-30 20:18:54**
+As of **2024-05-30 20:34:11**
 
 ## Newspaper Stats
 
-*Scraped **27,369** Articles*
+*Scraped **27,371** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,42 @@ newsfirstlk | 363
 islandlk | 1,477
 economynextcom | 1,567
 dailyftlk | 1,601
-adalk | 2,335
+adalk | 2,336
 adaderanalk | 3,120
 tamilmirrorlk | 3,212
 virakesarilk | 4,210
 dailymirrorlk | 4,325
-adaderanasinhalalk | 4,377
+adaderanasinhalalk | 4,378
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,368 (100.0%) of 27,369 articles have been extended.
+27,369 (100.0%) of 27,371 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-30 (Thursday)
+
+### සහකාර රේගු අධිකාරීවරයෙකු කොටුවේදී අත්අඩංගුවට
+
+*2024-05-30 20:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197194) · `si`
+
+නීතිවිරෝධී ලෙස ගෙන්වන ලද විදෙස් දුම්වැටි තොගයක් සමග සහකාර රේගු අධිකාරීවරයෙකු අත්අඩංගුවට ගෙන තිබේ.
+
+කොළඹ මධ්‍යම දූෂණ අපරාධ කාර්යාංශය විසින් සැකකරු මෙලෙස කොළඹ කොටුව ප්‍රදේශයේදී අත්අඩංගුවට ගෙන ඇත.
+
+එහිදී ඔහු සන්තකයේ තිබී විදෙස් දුම්වැටි 7,000 ප්‍රමාණයක් සොයාගෙන ඇති බව පොලීසිය පවසයි.
+
+එහි වටිනාකම රුපියල් ලක්ෂ 500,000කට ආසන්න බව වැඩිදුර විමර්ශනවලදී හෙළිවී තිබේ.
+
+සැකකාර සහකාර රේගු අධිකාරීවරයා දුම්වැටි තොගය සමග වැඩිදුර විමර්ශන සඳහා කොටුව පොලීසිය වෙත භාරදී තිබේ.
+
+◼️
+
+[Data](articles/f02d7ce2.json)
+
+---
 
 ### Assistant Superintendent of Customs arrested with illegally imported cigarettes
 
@@ -41,6 +61,8 @@ An Assistant Superintendent of Customs has been arrested in Colombo with 7,000 s
 ◼️
 
 [Data](articles/f50b03fb.json)
+
+[Extended Data](ext_articles/f50b03fb.ext.json)
 
 ---
 
@@ -253,6 +275,22 @@ Sri Lanka was also planning to send a delegation to meet Russian defense officia
 [Data](articles/de8f91f6.json)
 
 [Extended Data](ext_articles/de8f91f6.ext.json)
+
+---
+
+### කිසිම මැතිවරණයකට භයක් නෑ
+
+*2024-05-30 17:59:33* · [`adalk`](https://www.ada.lk/breaking_news/කිසිම-මැතිවරණයකට-භයක්-නෑ/11-409924) · `si`
+
+“කිසිදු මැතිවරණයකට අපේ භයක් නෑ, බොහෝම පැහැදිලිව ආණ්ඩුක්‍රම ව්‍යවස්ථාවට අනුව මැතිවරණ පැවැත්විය යුතු නියමිත දිනයට නියමිත මැතිවරණ එලෙසින්ම පවත්වන බවට සහතිකයක් ජනාධිපතිතුමන් විසින් රටට ලබා දීලා තියෙනවා” යැයි ප්‍රවාහන මහා මාර්ග හා ජනමාධ්‍ය අමාත්‍යය, ආචාර්ය බන්දුල ගුණවර්ධන මහතා පැවසීය.
+
+ඒ මහතා මේ බව ප්‍රකාශ කර සිටියේ අනුරාධපුර, පලාගල ප්‍රදේශයේ පැවති උත්සවයකින් අනතුරුව මාධ්‍යවේදීන් නැගූ ප්‍රශ්නයකට පිළිතුරු සපයමින්ය.
+
+“ආණ්ඩුව මැතිවරණ වලට කිසිම භයක් නෑ, ආණ්ඩුව භය වෙලා තියෙන්නේ මේ රට තියන තැනින් බේරා ගැනීම සඳහා විදේශ ණය ප්‍රථිව්‍යුහගත කරන වැඩපිළිවෙල සඳහා තමයි ජනාධිපතිතුමත්, රජයත්, අන්තර්ජාතික සංවිධානත් මහන්සි වෙන්නේ, ඒ නිසා අපි භය වෙන්නේ මේ ණය ගෙවාගන්න බැරිව තියෙන ගැටලුවට පමණයි, ඒ මිසක් කිසිදු මැතිවරණයකට භයක් නෑ, බොහෝම පැහැදිලිව ආණ්ඩුක්‍රම ව්‍යවස්ථාවට අනුව මැතිවරණ පැවැත්විය යුතු නියමිත දිනයට නියමිත මැතිවරණ එලෙසින්ම පවත්වන බවට සහතිකයක් අතිගරු ජනාධිපතිතුමන් විසින් රටට ලබා දීලා තියෙනවා.
+
+...
+
+[Data](articles/6fdcd2ca.json)
 
 ---
 
@@ -2287,49 +2325,5 @@ A statement read: "A fatal incident took place at Schiphol today during which a 
 [Data](articles/a50fe1e0.json)
 
 [Extended Data](ext_articles/a50fe1e0.ext.json)
-
----
-
-### US to boycott UN tribute to Iran leader killed in helicopter crash
-
-*2024-05-30 11:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/99531/us-to-boycott-un-tribute-to-iran-leader-killed-in-helicopter-crash) · `en`
-
-The United States will boycott a United Nations tribute on Thursday to Iranian President Ebrahim Raisi, who was killed earlier this month in a helicopter crash, a U.S. official said.
-
-The 193-member U.N. General Assembly traditionally meets to pay tribute to any world leader who was a sitting head of state at the time of their death. The tribute will feature speeches about Raisi.
-
-“We won’t attend this event in any capacity,” a U.S. official, speaking on condition of anonymity, told Reuters. The U.S. boycott has not previously been reported.
-
-Iran’s mission to the United Nations in New York declined to comment.
-
-Raisi, a hardliner who had been seen as a potential successor to Supreme Leader Ayatollah Ali Khamenei, was killed when his helicopter came down in poor weather in mountains near the Azerbaijan border on May 19.
-
-...
-
-[Data](articles/4a7e1647.json)
-
-[Extended Data](ext_articles/4a7e1647.ext.json)
-
----
-
-### 5 sluice gates of Polgolla Reservoir opened
-
-*2024-05-30 11:45:59* · [`adalk`](https://www.ada.lk/breaking_news/පොල්ගොල්ල-ජලාශයේ-වාන්-දොරටු-05ක්-විවෘත-කෙරේ/11-409906) · `si`
-
-Due to heavy rains, five sluice gates of the Anuradhapura Mahaweli Reservoir were opened, releasing about 13,900 cubic feet into the Mahaweli River. This action also led to the opening of sluice gates at the Polgolla Dam, affecting water levels downstream, including the Victoria Reservoir. Users of the Mahaweli River are advised to exercise caution.
-
-🟩
-
-Five sluice gates of the Anuradhapura Mahaweli Reservoir (30) have been opened today due to heavy rains.
-
-Five of Polgolla Dalla Dams have been hit by one (1 ') and the reservoir has issued about 13900 cubic feet to the Mahaweli River.
-
-As a result of this, the doors are opened by the Victoria Reservoir below the Victoria Reservoir below Polgolla Dam and the people who use the Mahaweli River should be impartial.
-
-◼️
-
-[Data](articles/1399588e.json)
-
-[Extended Data](ext_articles/1399588e.ext.json)
 
 ---

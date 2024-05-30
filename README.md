@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-30 22:06:19**
+As of **2024-05-30 22:18:35**
 
 ## Newspaper Stats
 
-*Scraped **27,385** Articles*
+*Scraped **27,389** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,95 @@ islandlk | 1,477
 economynextcom | 1,567
 dailyftlk | 1,601
 adalk | 2,336
-adaderanalk | 3,120
-tamilmirrorlk | 3,212
+adaderanalk | 3,121
+tamilmirrorlk | 3,213
 virakesarilk | 4,220
-dailymirrorlk | 4,328
-adaderanasinhalalk | 4,378
+dailymirrorlk | 4,329
+adaderanasinhalalk | 4,379
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,385 (100.0%) of 27,385 articles have been extended.
+27,385 (100.0%) of 27,389 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-30 (Thursday)
+
+### ரஷ்ய போருக்கு இலங்கையர்களை அனுப்பியவர்கள் விளக்கமறியலில்...
+
+*2024-05-30 22:07:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரஷ்ய-போருக்கு-இலங்கையர்களை-அனுப்பியவர்கள்-விளக்கமறியலில்/175-338182) · `ta`
+
+ரஷ்யா போருக்கு இலங்கையர்களை கடத்திய குற்றச்சாட்டுக்காக கைது செய்யப்பட்ட  வெளிநாட்டு வேலைவாய்ப்பு நிறுவனம் ஒன்றின் உரிமையாளர் மற்றும் முகாமையாளர் ஜூன் 13 ஆம் திகதி வரை விளக்கமறியலில் வைக்கப்பட்டுள்ளனர்.
+
+இது தொடர்பான வழக்கு இன்று (30) நீர்கொழும்பு நீதவான் நீதிமன்றில் மீண்டும் விசாரணைக்கு எடுத்துக் கொள்ளப்பட்டது.
+
+ரஷ்ய இராணுவத்தில் சிவில் சேவைக்காக இலங்கையர்களை அனுப்புவதாக தலா 15 இலட்சம் ரூபா அறவீடு செய்ததாக 7 முறைப்பாடுகள் கிடைக்கப்பெற்றுள்ளன.
+
+இதன் அடிப்படையில் 2 சந்தேக நபர்களும் கடந்த மே மாதம் 15 ஆம் திகதி வெளிநாட்டு வேலைவாய்ப்பு பணியகத்தின் விசேட புலனாய்வுப் பிரிவினரால் கைது செய்யப்பட்டனர்.
+
+இந்த நிறுவனத்தினால் மோசடி செய்யப்பட்ட பணத்தின் தொகை சுமார் 1 கோடி ரூபாவுக்கும் அதிகம் என பணியகத்திற்கு கிடைத்த முறைப்பாடுகள் தெரிவிக்கின்றன. R
+
+◼️
+
+[Data](articles/5014d121.json)
+
+---
+
+### වනජීවිය ඇල්ලූ පක්ෂීන් ගැන අධිකරණයෙන් නියෝගයක්
+
+*2024-05-30 21:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197195) · `si`
+
+මෙරටට නීතිවිරෝධී ලෙස ආනයනය කළ බවට චෝදනා කරමින් වනජීවී දෙපාර්තමේන්තුව භාරයට ගෙන තිබූ විවිධ වර්ගයේ පක්ෂීන් හා පක්ෂීන්ගේ බිත්තර එම පක්ෂීන් ආනයනය කළ හිමිකරුට මුදාහරිණ ලෙස අභියාචනාධිකරණය නියෝග කර ඇත.
+
+මෙම පක්ෂීන් විදේශයක සිට ආනයනය කළ අයෙකු විසින් ඉදිරිපත් කළ රිට් පෙත්සමක් සළකාබැලීමෙන් අනතුරුව අභියාචනාධිකරණය විසින් මෙම නියෝගය නිකුත් කර තිබේ.
+
+මෙහිදී පෙත්සම්කරු වෙනුවෙන් පෙනීසිටි ජනාධිපති නීතිඥ ෆයිසර් මුස්තාපා මහතා අධිකරණය හමුවේ කරුණු දක්වමින් මෙම පක්ෂීන් නීතිවිරෝධී ලෙස ආනයනය කළ සතුන් නොවන බවත් සුරතල් සතුන් අලෙවි කරන ස්ථානයකින් මිලදීගෙන ඒවා මෙරටට රැගෙනවිත් ඇතිබවත් සඳහන් කළේය.
+
+මෙම පක්ෂීන් සත්ත්ව උද්‍යානයේ රඳවා තැබුවහොත් ඔවුන්ට අවශ්‍ය ආහාර මෙන්ම පහසුකම් නිසි පරිදි නොලැබීයාමෙන් ඔවුන් මරණයට පත්වීමේ අනතුරත් පවතින බව පෙන්වා දුන් ජනාධිපති නීතිඥවරයා එබැවින් එම පක්ෂීන් ඔවුන් රැගෙන හා හිමිකරු වෙත මුදාහරීමේ නියෝගයක් නිකුත් කරන ලෙසත් ඉල්ලා තිබේ.
+
+ඉදිරිපත් වූ කරුණු සළකාබැලූ අභියාචනාධිකරණය අනතුරුව මෙම නියෝගය නිකුත් කර ඇත.
+
+◼️
+
+[Data](articles/87631033.json)
+
+---
+
+### Foreign Minister urges Tamil diaspora to avoid following political agendas
+
+*2024-05-30 21:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/99550/foreign-minister-urges-tamil-diaspora-to-avoid-following-political-agendas) · `en`
+
+Sri Lanka’s Minister of Foreign Affairs Ali Sabry says that the western countries have shown their ‘double standards’ by ‘turning a blind eye’ to the crisis in Gaza and that, serious amendments must be made to the international laws on how the United Nations functions in order to protect international democracy.
+
+Joining Ada Derana’s current affairs programme, ‘At Hydepark’, the Minister stated that Sri Lanka is of the view that the Israel-Palestine war must come to an end immediately and both countries must exist as per the borders announced in 1965.
+
+Reflecting on the situation in Gaza, Sabry pointed out that 143 countries have voted to recognize Palestine. He advocated for a peaceful coexistence between Palestinians and Israelis, stressing the need for the establishment of a Palestinian government within five years.
+
+“You cannot continue with double standards and hypocrisy,” he asserted.
+
+...
+
+[Data](articles/20fdbf3b.json)
+
+---
+
+### Customs strongly refutes allegations of misappropriating billions from reward fund
+
+*2024-05-30 21:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Customs-strongly-refutes-allegations-of-misappropriating-billions-from-reward-fund/108-283729) · `en`
+
+Colombo, May 30 (Daily Mirror) - Sri Lanka Customs strongly refuting all allegations levelled against them including misappropriation of billions of rupees from the Customs Reward Fund said even a Supreme Court verdict in 2000 proves that the present reward scheme has been approved by the then Finance Minister in 1988.
+
+Convening a special media briefing, a top Customs official said today that there is an organized attempt by certain parties to slander them by making allegations that they misuse the monies of the rewards fund.
+
+Additional Director General of Customs Seevali Arukgoda responding to allegations said regulations of maintaining the reward fund has been clearly stated in the Customs Ordinance, which is about 150 years old now and an amendment to it in 1988.
+
+...
+
+[Data](articles/ecd7e424.json)
+
+---
 
 ### Extending term of President and P’ment is an option- Presidential Adviser
 
@@ -2231,89 +2305,5 @@ In addition, participating at the 2003 Under-15 and 17-year-old school awards ce
 [Data](articles/a6e7fca9.json)
 
 [Extended Data](ext_articles/a6e7fca9.ext.json)
-
----
-
-### The arrested ISIS. Investigations into the Domestic Network of Sri Lankans involved - Sarath Weerasekera
-
-*2024-05-30 12:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/184850) · `ta`
-
-Sarath Weerasekera, head of Sri Lanka's National Security Department Monitoring Committee, called for an investigation into Sri Lankan contacts with ISIS members arrested in India. The Gujarat police are probing four arrested individuals linked to ISIS, who aim to attack the BJP and have been found with explosives. Weerasekera emphasized the need for Sri Lanka's intelligence units to collaborate with Indian authorities to understand the extent of extremist influence within Sri Lanka and take necessary actions against it.
-
-🟩
-
-ISIS arrested in India. Parliamentarian Sarath Weerasekera, chairman of the National Security Department Monitoring Committee, said that our intelligence unit should send our intelligence unit to India to investigate what kind of contact with Sri Lankan citizens in Sri Lanka.
-
-He further stated at a press conference held at the Presidential Media Center on Wednesday.
-
-ISIS arrested in India. Gujarat police are conducting serious investigations into Sri Lankan citizens involved. Mohammed Nusrat, Mohammed Paris, Mohammed Rajib and Mohammed Nasrat have been arrested.. They have pledged that they will go to heaven if they kill non -Muslims.
-
-They have said that their goal is to attack the Bharatiya Janata Party (BJP), claiming to be unjust against Muslims.. Three of them have been seized with bombs. ISIS. Gujarat police said that a black flag with the organization of the organization has been recovered.
-
-...
-
-[Data](articles/17060977.json)
-
-[Extended Data](ext_articles/17060977.ext.json)
-
----
-
-### Sri Lanka Electricity Bill to be taken up for debate in Parliament next week
-
-*2024-05-30 12:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-Electricity-Bill-to-be-taken-up-for-debate-in-Parliament-next-week/108-283687) · `en`
-
-Colombo, May 30 (Daily Mirror)- Party leaders decided to take up the second reading debate on the Sri Lanka Electricity Bill next week, Communications Department of Parliament said.
-
-The decision was taken by the Committee on Parliamentary Business which met under the chairmanship of Speaker Mahinda Yapa Abeywardena.
-
-Accordingly, the debate will be held on June 6, 2024 from 10.30 am to 5.00 pm.
-
-The Sri Lanka Electricity Bill includes proposed electricity sector reforms and provides for greater participation of the private sector in the power sector.
-
-◼️
-
-[Data](articles/a2331e3d.json)
-
-[Extended Data](ext_articles/a2331e3d.ext.json)
-
----
-
-### New York boosts T20 Cricket World Cup security after reported threats
-
-*2024-05-30 12:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/99534/new-york-boosts-t20-cricket-world-cup-security-after-reported-threats) · `en`
-
-New York will boost security for the upcoming T20 Cricket World Cup in June, the governor said on Wednesday, after reports of threats especially related to the India-Pakistan match.
-
-“In preparation for the @cricketworldcup, my team has been working with federal & local law enforcement to keep attendees safe,” Governor Kathy Hochul wrote on X, adding there was “no credible threat at this time”.
-
-ABC News cited a New York City Police Department bulletin, saying the tournament and its related events in New York City could be viewed by extremists as an opportunity to commit acts of violence or disruption.
-
-“Recent pro-ISIS propaganda which specifically referenced the upcoming India-Pakistan match at this major event ... raises concerns and reinforces the need for heightened vigilance” among security partners, the bulletin is quoted as saying by ABC News.
-
-...
-
-[Data](articles/4e8c9bf7.json)
-
-[Extended Data](ext_articles/4e8c9bf7.ext.json)
-
----
-
-### Met. Dept. issues ‘red alert’ for strong winds and rough seas
-
-*2024-05-30 12:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/99533/met-dept-issues-red-alert-for-strong-winds-and-rough-seas) · `en`
-
-The Department of Meteorology has issued a ‘Red’ alert for strong winds and rough seas for the naval and fishing communities in the Arabian Sea and in the Bay of Bengal.
-
-Very strong winds of 60-70 kmph, accompanied by heavy rainfalls and very rough seas, are expected to continue over the sea areas around the island, the South-west and South-east Arabian Sea, and the South-west Bay of Bengal due to active south-west monsoonal conditions, the department warned.
-
-Furthermore, the department advised the naval and fishing communities not to venture into the sea areas marked in red on the map until further notice. Those already in these regions should return to the coast or move to safer areas immediately.
-
-The general public, along with the fishing and naval communities, are urged to take precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-...
-
-[Data](articles/b4773a01.json)
-
-[Extended Data](ext_articles/b4773a01.ext.json)
 
 ---

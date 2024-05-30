@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-31 03:03:49**
+As of **2024-05-31 03:18:51**
 
 ## Newspaper Stats
 
@@ -1512,7 +1512,7 @@ Meanwhile, the Ambassador of Russia to Sri Lanka, Mr. Levan Dzhagaryan underscor
 
 There is speculation that President Ranil Wickremesinghe sought the approval of the Constitutional Council to extend the term of office of Attorney-General Sanjay Rajaratnam because he wished to appoint Rajaratnam as Chief Justice when the current Chief Justice retires towards the end of the year after the presidential election.
 
-A lawyer was heard to say in the Law Library canteen that ‘Machang, No worries. A defeated President has no power of appointment. I am only sorry that nice lady Ayesha will retire without getting appointed as AG!’, a reference to Mrs Ayesha Jinasena, Solicitor-General who would have succeeded Rajaratnam as Attorney-General.
+A lawyer was heard to say in the Law Library canteen that ‘Machang, No worries. A defeated President has no power of appointment. I am only sorry that nice lady Ayesha will retire without getting appointed as AG!’, a reference to Mrs Ayesha Jinasena, Solicitor-General who would have succeeded Rajaratnam as Attorney-General. What was implied is that as Chief Justice Jayantha Jayasuriya retires after the Presidential election, Wickremesinghe would be a defeated President by that time.
 
 ...
 

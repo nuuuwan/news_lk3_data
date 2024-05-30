@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-30 22:34:07**
+As of **2024-05-30 22:51:30**
 
 ## Newspaper Stats
 
-*Scraped **27,391** Articles*
+*Scraped **27,392** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,567
 dailyftlk | 1,601
 adalk | 2,338
 adaderanalk | 3,121
-tamilmirrorlk | 3,213
+tamilmirrorlk | 3,214
 virakesarilk | 4,220
 dailymirrorlk | 4,329
 adaderanasinhalalk | 4,379
@@ -26,11 +26,23 @@ adaderanasinhalalk | 4,379
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,389 (100.0%) of 27,391 articles have been extended.
+27,391 (100.0%) of 27,392 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-30 (Thursday)
+
+### இலங்கை சுற்றுலாப்பயணிகளுக்கு விசா இல்லாத பயணத்தை அங்கிகரித்த தாய்லாந்து
+
+*2024-05-30 22:16:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-சுற்றுலாப்பயணிகளுக்கு-விசா-இல்லாத-பயணத்தை-அங்கிகரித்த-தாய்லாந்து/175-338183) · `ta`
+
+இலங்கை உட்பட வேறு 36 நாடுகளின் சுற்றுலாப்பயணிகள் விசாவில்லாமல் தாய்லாந்துக்குள் நுழைய முடியுமென்பதுடன் 60 நாள்கள் வரையில் தங்கியிருக்கலாமென வெளிவிவகார அமைச்சர் அலி சப்ரி தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/0551293f.json)
+
+---
 
 ### Those who sent Sri Lankans to the Russian war
 
@@ -340,17 +352,25 @@ President Ranil Wickremesinghe added that all professionals' opinion on the adva
 
 ---
 
-### ප්‍රාථමික අධ්‍යාපනය තුළ විභාග පැවැත්වීමට වඩා විෂය බාහිර ක්‍රියාකාරකම්වලට ප්‍රමුඛත්වය දිය යුතුයි
+### Substances should be prioritized than to hold the exam in primary education
 
 *2024-05-30 18:36:21* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රාථමික-අධ්‍යාපනය-තුළ-විභාග-පැවැත්වීමට-වඩා-විෂය-බාහිර-ක්‍රියාකාරකම්වලට-ප්‍රමුඛත්වය-දිය-යුතුයි/11-409926) · `si`
 
-ප්‍රාථමික ශ්‍රේණිවල දරුවන් අධ්‍යයන කටයුතුවලට වඩා විෂය අධ්‍යාපන  බාහිර හා විෂය සමගාමී ක්‍රියාකාරකම්වල වැඩි වශයෙන් නිරත කරවිය යුතු බවත් එහි දී ක්‍රිකට් ක්‍රීඩාව වැනි විෂය බාහිර ක්‍රියාකාරකම්වල නිරත වීම මගින් දරුවන් තුළ සමබර පෞරුෂයක් ගොඩනැගෙන අතර එමගින් තුලනාත්මක හැකියාවන් සහිත දරුවකු බිහි කරගත හැකි බව අධ්‍යාපන අමාත්‍ය ආචාර්ය සුසිල් ප්‍රේමජයන්ත මහතා පැවසී ය.
+Dr. Susil Premajayantha emphasizes prioritizing substances over exams in primary education, highlighting the importance of maintaining school sports competitions and updating education to address global issues like climate change. He mentions the need for a balanced approach to education, including cricket, and plans to produce top cricketers while reducing reliance on early-grade exams.
 
-ඒ මහතා මේ බව පැවසුවේ ශ්‍රී ලංකා ක්‍රිකට් ආයතනයේ අනුග්‍රහය ඇති ව නෙළුම් පොකුණ රඟහලේ පැවති ශ්‍රී ලංකා පාසල් ක්‍රිකට් සංගමය විසින් සංවිධානය කරනු ලැබූ වයස අවුරුදු 15න් පහළ හා 17න් පහළ ක්‍රිකට් තරගාවලියේ සම්මාන ප්‍රදානෝත්සවයට ප්‍රධාන ආරාධිතයා ලෙස එක් වෙමිනි.
+🟩
+
+Minister of Education Dr. Susil Premajayantha has built a balanced personality in the external activity of the subject education, as far as the subject of cricket, which is more of the subject of cricket.He said.
+
+He was speaking to the Sri Lanka Schools Cricket Association organized by the Sri Lanka Schools Cricket Association at the Nelum Pokuna Theater.
+
+Speaking further further, the Minister of Education said he was able to maintain the school sports competitions during the covande school. Accordingly, the budgetary allocation of Rs.Here he said. The Minister said that the subject outside an outsourced activity of the SLC is working and that the country is planning to produce the best cricketers in the country.
 
 ...
 
 [Data](articles/9d32cbfc.json)
+
+[Extended Data](ext_articles/9d32cbfc.ext.json)
 
 ---
 
@@ -378,17 +398,25 @@ In a commemoration issued by Kellam McRy, the war has ended 15 years after the e
 
 ---
 
-### රුසියානු හමුදා සේවයට ලාංකිකයින් යොමුකළ ඒජන්සියේ හිමිකරුට ඇප නෑ
+### The owner of the Sri Lankan employee is bailed to the Russian military service
 
 *2024-05-30 18:29:20* · [`adalk`](https://www.ada.lk/breaking_news/රුසියානු-හමුදා-සේවයට-ලාංකිකයින්-යොමුකළ-ඒජන්සියේ-හිමිකරුට-ඇප-නෑ/11-409925) · `si`
 
-රුසියානු හමුදාවේ සේවය සඳහා ශ්‍රි ලාංකිකයින් යොමුකළ චම්පිකා එක්ස්පෝර්ට් විදේශ රැකියා ආයතනයේ හිමිකරු හා එහි කළමනාකරු ජූනි මස 13 දක්වා යළි රක්ෂිත බන්ධනාගාර ගත කර තිබේ. ඊට අදාළ නඩුව මීගමුව මහේස්ත්‍රාත් අධිකරණයේ අද (5/30) යළි කැඳවූ අවස්ථාවේ මහේස්ත්‍රාත්වරයා මෙම නියෝගය සිදුකරන ලදී.
+Champika Exporte Foreign Employment Institute and its manager are remanded until June 13th, facing charges related to fraudulent tourist visas and alleged exploitation of Sri Lankan workers for Russian military service. The Labor and Foreign Employment Minister has ordered action against these issues.
 
-එක් අයෙකුගෙන් රුපියල් ලක්ෂ 15 බැගින් මුදල් අයකර, සංචාරක වීසා මගින් රුසියානු හමුදාවේ සිවිල් සේවය සඳහා ශ්‍රි ලාංකිකයින් යොමුකරන බවට ලද පැමිණිලි 7ක් අනුව සැකකරුවන් දෙදෙනා මැයි මස 15 වන දින විදේශ සේවා නියුක්ති කාර්යාංශයේ විශේෂ විමර්ශන අංශයේ නිළධාරීන් විසින් අත්අඩංගුවට ගන්නා ලදී. කාර්යාංශය වෙත ලද පැමිණිලි අනුව මෙම ආයතනය වංචාකර ඇති මුදල් ප්‍රමාණය රුපියල් කෝටියකට අධික වේ.
+🟩
 
-...
+Champika Exporte Foreign Employment Institute and its manager have been remanded until June 13.. The case was taken up again at the Negombo Magistrate's Court today (5/30).
+
+According to the tourist visa, the tourist visas were rewarded by the tourist visas for Rs.. According to the Bureau, the number of cash has been fraudulent is Rs.
+
+Sri Lankans do not approve of Sri Lankans to serve in the service of the army and the tourist visa calls on Labor and Foreign Employment Minister Manusha Nanayakkara.. The Minister has instructed the officials of the Foreign Employment Bureau to punish the racketeers such as racketeering.
+
+◼️
 
 [Data](articles/34767e2d.json)
+
+[Extended Data](ext_articles/34767e2d.ext.json)
 
 ---
 
@@ -2289,29 +2317,5 @@ This new visa policy of Thailand will be effective from June 24, 2024.
 [Data](articles/d15dea74.json)
 
 [Extended Data](ext_articles/d15dea74.ext.json)
-
----
-
-### Sarath Weerasekera
-
-*2024-05-30 12:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/184854) · `ta`
-
-Sarath Weerasekera criticizes the Sri Lankan government's handling of the Geneva investigation, warning of potential crises. He mentions concerns over international lawsuits against soldiers due to ongoing investigations based on rejected motions. The US Ambassador's visit and criticism of Sri Lanka's anti-terrorism efforts are highlighted, along with allegations of US involvement with extremist groups against Sri Lanka. The US is accused of planning a proposal against Sri Lanka, demanding recognition of the Tamil people's rights and accusing Sri Lanka of genocide, which could lead to the banning of certain organizations within the country.
-
-🟩
-
-The government's response to the Geneva Explanial Investigation mechanism against Sri Lanka is not satisfactory. Sarath Weerasekera, Chairman of the National Security Department Monitoring Committee, said that if this situation continues, there will be major crises for the country.
-
-He further stated this at a press conference held at the Presidential Media Center on Wednesday (29).
-
-The Ministry of Foreign Affairs and the Ministry of Defense and the Ministry of Defense, including the Attorney General, were invited to the National Security Department Monitoring Committee on June 5.. On that day, the 46/1 proposal in Geneva will be discussed on the outlook mechanism and the anti -terrorism Act.
-
-The process of collecting witnesses against war soldiers and military personnel is being carried out through the outlook mechanism.. Although the Sri Lankan government has rejected the 46/1 motion, investigations are being carried out on the basis of it.
-
-...
-
-[Data](articles/e76e5052.json)
-
-[Extended Data](ext_articles/e76e5052.ext.json)
 
 ---

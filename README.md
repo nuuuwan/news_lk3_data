@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-30 10:52:17**
+As of **2024-05-30 11:03:49**
 
 ## Newspaper Stats
 
-*Scraped **27,237** Articles*
+*Scraped **27,239** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,477
 economynextcom | 1,560
 dailyftlk | 1,601
-adalk | 2,313
+adalk | 2,315
 adaderanalk | 3,103
 tamilmirrorlk | 3,193
 virakesarilk | 4,186
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,357
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,234 (100.0%) of 27,237 articles have been extended.
+27,237 (100.0%) of 27,239 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -56,6 +56,8 @@ Ratnapura-  Kuruwita, Elapatha, Kiriella, Ayagama and Kalawana DSDs and surroun
 
 [Data](articles/c02f2ecd.json)
 
+[Extended Data](ext_articles/c02f2ecd.ext.json)
+
 ---
 
 ### Powerful western country concerned over SL ex-soldiers joining the Russian military
@@ -80,6 +82,8 @@ Most Sri Lankans are desperately trying to join the two militaries in Russia and
 
 [Data](articles/2a6bae41.json)
 
+[Extended Data](ext_articles/2a6bae41.ext.json)
+
 ---
 
 ### Indian-owned ship held in Colombo after oil spill; travel ban imposed on captain
@@ -97,6 +101,8 @@ Furthermore, the Colombo Magistrate Court has imposed a travel ban on the captai
 ◼️
 
 [Data](articles/862b8241.json)
+
+[Extended Data](ext_articles/862b8241.ext.json)
 
 ---
 
@@ -259,6 +265,36 @@ Veteran dancer Chandana Wickremasinghe represents its main character.
 [Data](articles/2f4b9d45.json)
 
 [Extended Data](ext_articles/2f4b9d45.ext.json)
+
+---
+
+### මැයි 26 වන විට ලංකාවට සංචාරකයන් 881000ක් ඇවිත්
+
+*2024-05-30 09:07:33* · [`adalk`](https://www.ada.lk/breaking_news/මැයි-26-වන-විට-ලංකාවට-සංචාරකයන්-881000ක්-ඇවිත්/11-409902) · `si`
+
+මේ වසරේ ජනවාරි 01 දා සිට මැයි 26 දා දක්වා ශ්‍රී ලංකාවට සංචාරකයන් 881 541ක් පැමිණ ඇති බව සංචාරක සංවර්ධන අධිකාරිය පවසයි. එසේම මැයි 01 දා සිට මැයි 26 දා තෙක් ලංකාවට සංචාරකයන් 96 890ක්ද පැමිණ තිබේ.
+
+මැයි මාසයේ‍ ලංකාවට වැඩිම සංචාරකයන් පිරිසක් පැමිණ ඇත්තේ ඉන්දියාවෙන් වන අතර ඉන් අනතරුව මාලදිවයිනෙන් පැමිණ තිබේ.
+
+◼️
+
+[Data](articles/1d7e11e2.json)
+
+---
+
+### ජාතික ක්‍ර‍ිඩා සංගම් 4ක ලියාපදිංචිය අත්හිටුවයි
+
+*2024-05-30 08:58:52* · [`adalk`](https://www.ada.lk/sports/ජාතික-ක්‍ර‍ිඩා-සංගම්-4ක-ලියාපදිංචිය-අත්හිටුවයි/9-409901) · `si`
+
+ජාතික ක්‍රීඩා සංගම් 4ක ලියාපදිංචිය තාවකාලිකව අත්හිටුවමින් ක්‍රීඩා හා යෞවන කටයුතු ඇමති හර‍ින් ප්‍රනාන්දු මහතා අති වි‍‍ශෙස ගැසට් නිවේදනයක් නිකුත් කර තිබේ.
+
+ශ්‍රී ලංකා පාපැදි සම්මේලනය, රග්බි සංගමය, මෝටර් රථ සම්මේලනය සහ දැල්පන්දු සම්මේලනය යන සංගම් මෙසේ තාවකාලිකව අත්හිටුවා තිබේ.
+
+අදාළ සංගම් හා සම්මේලනවල ඉදිරි කටයුතු සිදුකිරීම සහ ඊට අදාළ නිලවරණය කැඳවීම සඳහා නිසි බලධාරියා ලෙස ක්‍රීඩා සංවර්ධන දෙපාර්තමේන්තුවේ අධ්‍යක්ෂ ජනරාල්වරයා පත්කර ඇති බව එම ගැසට් නිවේදනයේ දැක්වෙයි.
+
+◼️
+
+[Data](articles/4da6ee8a.json)
 
 ---
 
@@ -2199,55 +2235,5 @@ The first song featured in the film was released. In this case, the second song 
 [Data](articles/edf3c645.json)
 
 [Extended Data](ext_articles/edf3c645.ext.json)
-
----
-
-### Revolutionary Tamil 'Sathyaraj'
-
-*2024-05-29 17:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/184808) · `ta`
-
-Sathyaraj, a legendary Tamil actor, marks his 45th year in the industry with the upcoming film 'Vaupan'. Directed by Gugan Chenniyappan, it features a star-studded cast including Vasant Ravi, who gained fame from 'Vettayan'. Despite production delays due to insufficient funding, the film's release on May 31st remains unchanged. Fans eagerly await the special photoshoot scheduled for June 7th.
-
-🟩
-
-Satyaraj has made his debut in the Tamil film industry and completed forty -five years.. He is still a thrilling actor today. Even Super Star Rajinikanth has been signed in the film 'Kuli' directed by Lokesh Kanakaraj.
-
-Directed by director Gugan Chenniyappan, 'Vaupan' starring 'Revolutionary Tamil' Sathyaraj, 'Illan Tamil' Vasant Ravi, Rajiv Menon, Rajiv Pillai, Yashika Anand, Mime Gopi, Kanika, Vinodini, Velu Prabhakaran and many others.. Prabhu Raghav has composed the film, which is being composed by Jibran Vaiboda.. S.. Mansur has produced.
-
-It was officially announced that the film will be released on May 31st and all the work of the film will be released.. The film is not as planned because of the lack of adequate film mansions and footage. Instead, the film crew has been excited about the release of a special photo of 'Vaupan', which will be released on the seventh of June.
-
-...
-
-[Data](articles/4367ec33.json)
-
-[Extended Data](ext_articles/4367ec33.ext.json)
-
----
-
-### A fined Rs. 1243 million for five gold importers
-
-*2024-05-29 17:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197161) · `si`
-
-State Minister Ranjith Siyambalapitiya announced fines totaling Rs. 1243 million against five gold importers, including a Rs. 179 million fine for one company. He urged the government to revoke licenses from illegal gold traders and emphasized the need for direct gold purchases to ensure compliance with a special gazette notification aimed at regulating gold imports in the country.
-
-🟩
-
-State Minister Ranjith Siyambalapitiya says that a fine of Rs. 1243 million has been fined Rs.
-
-The State Minister further stated that there are five imported gold imported institutions.
-
-The Minister further stated that one of these institutions has to pay a fine of Rs 179 million for one company.
-
-The Minister alsoar the government should be removed from these illegal activities that all the Licenses of the Golden.
-
-The Minister also said that the production reports are also paid for gold purchasing directly from the third parties without direct gold.
-
-In view of the exclusive importation of gold in the country, he issued a special gazette notification for the use of gold items in the country.
-
-◼️
-
-[Data](articles/3e9d2ca2.json)
-
-[Extended Data](ext_articles/3e9d2ca2.ext.json)
 
 ---

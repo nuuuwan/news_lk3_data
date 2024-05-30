@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-30 15:18:48**
+As of **2024-05-30 15:34:20**
 
 ## Newspaper Stats
 
@@ -26,31 +26,37 @@ adaderanasinhalalk | 4,367
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,301 (100.0%) of 27,310 articles have been extended.
+27,310 (100.0%) of 27,310 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-30 (Thursday)
 
-### ගුවන් යානයක එන්ජිමට ඇදී ගිය ගුවන්තොටුපොළ සේවකයා මරුට
+### Airport worker dies after opening aircraft
 
 *2024-05-30 15:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197183) · `si`
 
-නෙදර්ලන්තයේ ගුවන්තොටුපොළක සිදුවූ බිහිසුණු අනතුරකින් ගුවන්තොටුපොළ සේවකයෙකු අවාසනාවන්ත ලෙස ජීවිතක්ෂයට පත්ව තිබේ.
+A tragic accident occurred at a Dutch airport where a KLM ground staff member was fatally injured while handling an aircraft. The incident happened as the plane was preparing for a flight to Denmark. The victim has not been identified yet. All passengers were safely evacuated from the plane.
 
-KLM අයත් ගුවන් යානයක එන්ජිම තුළට ඇදී යාමෙන් මෙම අවාසනාවන්ත මරණය සිදුව ඇති බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+🟩
 
-එහි වැඩිදුරටත් දැක්වෙන්නේ අනතුරින් මියගිය පුද්ගලයා කවුරුන්දැයි යන්න මෙතෙක් හඳුනාගෙන නොමැති බවය.
+A farmer employee has died in a terrifying accident at a airport in the Netherlands.
 
-ගුවන් යානය නෙදර්ලන්තයේ සිට ඩෙන්මාක් වෙත පියාසර කිරීමට සූදානමින් තිබියදී මෙම අවාසනාවන්ත අනතුර සිදුව ඇත.
+The unfortunate death has taken place when the klm's engine is attracted to an airplane engine.
 
-කෙසේ වෙතත් ඇම්ස්ටඩෑම් Schiphol ගුවන්තොටුපොළ ප්‍රකාශ උපුටා දක්වමින් විදෙස් මාධ්‍ය වැඩිදුරටත් වාර්තා කර ඇත්තේ මෙවැනි අවස්ථාවන්හි රාජකාරී කිරීමේදී දැඩි විමසිලිමත්භාවයක් දක්වන බැවින් මෙම අනතුර සම්බන්ධයෙන් විශේෂ විමර්ශනයක් සිදුකරන බවය.
+It further states that he has not yet been identified.
 
-එසේම මෙම බිහිසුණු අනතුරත් සමග අදාළ ගුවන්යානයේ සිටි සියලුම මගීන් ඉන් පිටතට ගෙන ඇති බවද විදෙස් මාධ්‍ය වැඩිදුරටත් වාර්තා කර තිබේ.
+This unfortunate accident had occurred when the plane was ready to fly to Denmak from the Netherlands.
+
+However, foreign media reports that the foreign media has been reported in the accident, since the quotation of Amsterdam Schiphol facts.
+
+Also, all the passengers in the aircraft have been taken out of the aircraft with the terrible accident.
 
 ◼️
 
 [Data](articles/902bb9f0.json)
+
+[Extended Data](ext_articles/902bb9f0.ext.json)
 
 ---
 
@@ -70,6 +76,8 @@ Gálvez is facing the candidate of López Obrador’s Morena party, former Mexic
 
 [Data](articles/81636449.json)
 
+[Extended Data](ext_articles/81636449.ext.json)
+
 ---
 
 ### Second reading debate on ‘Sri Lanka Electricity Bill’ on June 06
@@ -87,6 +95,8 @@ The day will conclude with a Motion at the Adjournment Time (Government) from 5:
 ...
 
 [Data](articles/b41605fa.json)
+
+[Extended Data](ext_articles/b41605fa.ext.json)
 
 ---
 
@@ -108,25 +118,33 @@ Residents fear that if the water level reaches the 07 limit of the gauge, a seve
 
 [Data](articles/edd28bb4.json)
 
+[Extended Data](ext_articles/edd28bb4.ext.json)
+
 ---
 
-### හිටපු ශ්‍රී ලාංකික හමුදා සෙබළුන් ගැන සොයන්න නියෝජිත පිරිසක් රුසියාව ට
+### A delegation to Russia to seek former Sri Lankan soldiers
 
 *2024-05-30 14:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197182) · `si`
 
-රුසියානු - යුක්‍රේන යුද්ධයට සම්බන්ධ වී සිටින හිටපු ශ්‍රී ලාංකික හමුදා සෙබළුන් සම්බන්ධයෙන් සාකච්ඡා කිරීම සඳහා මෙරට නියෝජිතයින් පිරිසක් ලබන මස රුසියාවේ සංචාරය කිරීමට නියමිතය.
+A Sri Lankan delegation will visit Russia from June 5-7 to assist former Sri Lankan soldiers involved in the Russian-Ukrainian conflict. The delegation aims to address the concerns of 455 such soldiers, with 16 already repatriated and efforts underway to bring back more.
 
-මාධ්‍ය අමතමින් විදේශ කටයුතු රාජ්‍ය අමාත්‍ය තාරක බාලසුරිය මහතා ඒ බව පැවසීය.
+🟩
 
-ඔහු පැවසුවේ මෙරට නියෝජිත පිරිස ජුනි 5 - 7ත් අතර කාලසීමාවේදී රුසියාවේ සංචාරය කිරීමට නියමිත බවයි.
+Russian-Ukrainian soldiers are to visit Russia on behalf of the former Sri Lankan soldiers involved in the war.
 
-රුසියානු - යුක්‍රේන යුද්ධයට සම්බන්ධ වී සිටින හිටපු ශ්‍රී ලාංකික හමුදා සෙබළු සම්බන්ධයෙන් තොරතුරු ලබා ගැනීමට ආරක්ෂක අමාත්‍යංශය විසින් විශේෂ දුරකථන අංකයක් හඳුන්වා දුන් අතර එම අංකයට මේ දක්වා පැමිණිලි 455ක් ලැබී ඇති බව තාරක බාලසූරිය මහතා පැවසීය.
+Special Minister of External Affairs, Minister of Foreign Affairs, said that.
 
-මේ දක්වා ලැබී ඇති තොරතුරු අනුව ශ්‍රී ලාංකිකයින් 16 දෙනෙක් අතුරුදන්වී ඇති බවත් ශ්‍රී ලාංකිකයින් 26 දෙනෙක් නැවතත් මෙරටට ගෙන්වා ගැනීමට හැකියාව ලැබුණු බවත් රාජ්‍ය අමාත්‍යවරයා කීය.
+He said that the local delegation is due to visit Russia during the period between June 5 and 7.
+
+Tharaka Balasuriya said that 455 complaints have been received from the former Sri Lankan soldiers who are involved in the Russian - Ukrainian military soldiers.
+
+According to the information received, 16 Sri Lankans have been able to repatriate 16 Sri Lankans have been able to repatriate 26 Sri Lankans to bring back to Sri Lanka.
 
 ◼️
 
 [Data](articles/2dd2c1a2.json)
+
+[Extended Data](ext_articles/2dd2c1a2.ext.json)
 
 ---
 
@@ -146,25 +164,35 @@ While some of them had travelled as mercenaries, the State Minister said that ot
 
 [Data](articles/44166a08.json)
 
+[Extended Data](ext_articles/44166a08.ext.json)
+
 ---
 
-### වෛද්‍ය කපිල වික්‍රමනායකගේ පෙත්සම ගැන අභියාචනාධිකරණය දුන් නියෝගය
+### Court of Appeal about Dr. Kapila Wickremanayake's petition
 
 *2024-05-30 14:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197181) · `si`
 
-තමන්ව රක්ෂිත බන්ධනාගාර ගත කිරීමට දුන් නියෝගය නීතියට පටහැනි බවට තීන්දුවක් ලබාදෙන ලෙස ඉල්ලා සෞඛ්‍ය අමාත්‍යාංශයේ වෛද්‍ය සැපයීම් අංශයේ අධ්‍යක්ෂ වෛද්‍ය කපිල වික්‍රමනායක මහතා විසින් ඉදිරිපත් කළ පෙත්සම සලකාබැලීම සඳහා ජුනි මස 04 වනදා කැඳවන ලෙස අභියාචනාධිකරණය නියම කළේය.
+Dr. Kapila Wickramanayaka, a health ministry director, filed a petition challenging a law in the Court of Appeal. The case involves allegations of purchasing substandard antibodies, which led to his arrest. The petition will be heard by Judges Nissanka Bandula Karunaratne and Shahi Mahendran on June 4th. Deputy Solicitor General Nirmalan Wigneswaran represented the Attorney General, stating there were limited protests against the petition.
 
-ප්‍රමිතියෙන් තොර ප්‍රතිදේහ එන්නත් මිලදීගැනීමේ සිද්ධිය සම්බන්ධයෙන් මාළිගාකන්ද මහෙස්ත්‍රාත් අධිකරණය විසින් ඔහුව රක්ෂිත බන්ධනාගාර ගත කෙරිණි.
+🟩
 
-අභියාචනාධිකරණයේ සභාපති විනිසුරු නිශ්ශංක බන්දුල කරුණාරත්න සහ ශෂී මහේන්ද්‍රන් යන මහත්වරුන්ගෙන් සමන්විත අභියාචනාධිකරණ විනිසුරු මඩුල්ලක් ඉදිරියේ එම පෙත්සම අද (30) කැඳවනු ලැබීය.
+The Court of Appeal was set to summon the petition filed by Dr. Kapila Wickramanayaka, Director of the Ministry of Health, Dr. Kapila Wickramanayaka, to prove the decree of the law that he had to be filed against the law.
 
-එහිදී නීතිපතිවරයා වෙනුවෙන් පෙනී සිටි  නියෝජ්‍ය සොලිසිටර් ජනරාල් නිර්මලන් විග්නේෂ්වරන් මහතා සඳහන් කළේ මෙම පෙත්සමට අදාළ සීමිත විරෝධතා ගොනුකර අවසන් බවයි.
+The Maligakanda Magistrate's Court was remanded by the Maligakanda Magistrate's Court regarding the purchase of substandard antibodies.
 
-ඉන්  අනතුරුව පෙත්සම සලකාබැලීම සඳහා ජුනි මස 04 වනදා කැඳවන ලෙස නියෝග කළේය.
+The petition was summoned before the court of Judge Nissanka Bandula Karunaratne and Shahi Mahendran.
 
-...
+Deputy Solicitor General Nirmalan Wigneswaran, who appeared for the Attorney General, said that limited protests have been filed in the petition.
+
+The petition was then ordered to be summoned on June 4 to consider.
+
+The petition has been filed by the Maligakanda Magistrate's Court to be remanded until the case is under the end of the Divisional Research Purchase of Persons.
+
+◼️
 
 [Data](articles/fa6402fc.json)
+
+[Extended Data](ext_articles/fa6402fc.ext.json)
 
 ---
 
@@ -183,6 +211,8 @@ He was a legendary film and drama music director who has composed the music for 
 ◼️
 
 [Data](articles/3c04f312.json)
+
+[Extended Data](ext_articles/3c04f312.ext.json)
 
 ---
 
@@ -565,6 +595,8 @@ The Joint Committee of University Trade Unions held a peaceful protest today in 
 ◼️
 
 [Data](articles/dae292ce.json)
+
+[Extended Data](ext_articles/dae292ce.ext.json)
 
 ---
 

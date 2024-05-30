@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-30 17:03:44**
+As of **2024-05-30 17:18:49**
 
 ## Newspaper Stats
 
-*Scraped **27,341** Articles*
+*Scraped **27,344** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,36 +17,96 @@ economynextcom | 1,563
 dailyftlk | 1,601
 adalk | 2,327
 adaderanalk | 3,117
-tamilmirrorlk | 3,210
+tamilmirrorlk | 3,211
 virakesarilk | 4,210
-dailymirrorlk | 4,323
-adaderanasinhalalk | 4,370
+dailymirrorlk | 4,324
+adaderanasinhalalk | 4,371
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,337 (100.0%) of 27,341 articles have been extended.
+27,341 (100.0%) of 27,344 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-30 (Thursday)
 
-### රුසියානු හමුදා සේවයට ලාංකිකයින් යොමුකළ ඒජන්සියේ හිමිකරු යළි රිමාන්ඩ්
+### අස්වැසුම ගැන අලුත්ම ආරංචියක්
+
+*2024-05-30 17:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197187) · `si`
+
+අස්වැසුම ප්‍රතිලාභීන් තෝරාගැනීමේදී දරිද්‍රතාවය නිවැරදිව හඳුනාගැනීම සඳහා, පරීක්ෂා කර බලා තීරණය කළ හැකි නිර්ණායක වලට මූලිකත්වය ලබා දී කටයුතු කරන ලෙස සුබසාධක ප්‍රතිලාභ මණ්ඩලයේ නිලධාරීන් වෙත රජයේ මුදල් පිළිබඳ  කාරක සභාව විසින් උපදෙස් ලබාදී තිබේ.
+
+එහිදී උදාහරණ දක්වමින් කාරක සභාව පෙන්වා දී ඇත්තේ නිවෙස් වල පරිභෝජනය කල විදුලි එකක ප්‍රමාණය මත විදුලි බිපත මගින් වඩාත් හොඳින් පුද්ගල දරිද්‍රතාවය හඳුනා ගත හැකි බවය.
+
+මේවනවිට අස්වැසුම ප්‍රතිලාභීන් තෝරාගැනීමේදී භාවිතකරන නිර්ණායකවල විශාල ගැටලු පවතින බව සහ විධිමත්බවක් නොමැති බව පෙන්වා දුන් කාරක සභාව ඒවා හැකි ඉක්මණින් නිවැරදි කිරීමට කටයුතු කරන ලෙසටද උපදස් ලබාදී ඇත.
+
+එහිදී  මුදල් අමාත්‍යාංශයේ නිලධාරීන් පවසා ඇත්‌තේ අස්වැසුම ප්‍රතිලාභීන් තෝරාගැනීමේදී දැනට භාවිතකරන ලකුණු ලබාදීමේ ක්‍රමවේදය ද ඉදිරියේ දී වෙනස් කිරීමට කටයුතු කරන බවය.
+
+පාර්ලිමේන්තු මන්ත්‍රී හර්ෂ ද සිල්වා මහතාගේ සභාපතීත්වයෙන් රජයේ මුදල් පිළිබඳ කාරක සභාව පසුගියදා (28) වනදා පාර්ලිමේන්තුවේ රැස්වූ අවස්ථාවේදී මෙම නිර්දේශ ලබා දී තිබුණි.
+
+...
+
+[Data](articles/bbbfbce7.json)
+
+---
+
+### பல்கலைக்கழக ஊழியர்களை பணிக்குத் திரும்ப பணிப்பு
+
+*2024-05-30 17:01:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல்கலைக்கழக-ஊழியர்களை-பணிக்குத்-திரும்ப-பணிப்பு/175-338163) · `ta`
+
+நாட்டைக் காக்கும் நாளைய தலைவர்களின் எதிர்காலம் கருதி தொழிற்சங்க நடவடிக்கைகளில் ஈடுபட்டுள்ள அனைத்துத் தரப்பினரையும் உடனடியாகப் பணிக்குத் திரும்புமாறு பல்கலைக்கழக மானியங்கள் ஆணைக்குழுத் தலைவர் பணித்துள்ளார்.
+
+சம்பள முரண்பாடுகளைத் தீர்த்தல் உட்படப் பல்வேறு கோரிக்கைகளை முன் வைத்து இம்மாதம் இரண்டாம் திகதி முதல் தொடர்ச்சியான வேலை நிறுத்தத்தில் ஈடுபட்டுள்ள பல்கலைக்கழக நிர்வாக உத்தயோகத்தர்கள் மற்றும் போதனைசாராப் பணியாளர்களை உடனடியாகப் பணிக்குத் திரும்பப் பணித்து அந்தந்தத் தொழிற்சங்கங்களின் தலைவர்களுக்குப் பல்கலைக்கழக மானியங்கள் ஆணைக்குழுத் தலைவர் சிரேஷ்ட பேராசிரியர் சம்பத் அமரதுங்க அனுப்பி வைத்துள்ள கடிதத்திலேயே இந்தப் பணிப்புரையை விடுத்துள்ளார்.
+
+...
+
+[Data](articles/3117652f.json)
+
+---
+
+### Black men sue American Airlines after kicked off plane over body odour
+
+*2024-05-30 16:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Black-men-sue-American-Airlines-after-kicked-off-plane-over-body-odour/108-283719) · `en`
+
+May 30 - American Airlines has been sued by three Black men who have alleged that they were racially discriminated against when they were removed from a flight.
+
+According to CNN, Alvin Jackson, Emmanuel Jean-Joseph and Xavier Veals, along with five other Black male passengers were ejected from Flight 832 over body odour complaint. The incident took place on January 5, 2024, and the flight was on its way from Phoenix to JFK Airport in New York, CNN further said in its report.
+
+The complainants have claimed in the lawsuit that they were ejected "without any valid reason, based solely on their race".
+
+When the American Airlines staffer approached them before take-off, ordering them to get off the plane, the men complied.
+
+"Once they reached the jet bridge, they saw that several other Black men were also being removed from the plane. In fact, it appeared to Plaintiffs that American had ordered all of the Black male passengers on Flight 832 off the plane," according to the complaint.
+
+...
+
+[Data](articles/2e41bdd6.json)
+
+---
+
+### Sri Lankans' owner who referred to the Russian military service further remanded
 
 *2024-05-30 16:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197186) · `si`
 
-රුසියානු හමුදාවේ සේවය සඳහා ශ්‍රි ලාංකිකයින් යොමුකළ විදේශ රැකියා ආයතනයක හිමිකරු හා එහි කළමනාකරු ජූනි 13 දක්වා යළි රක්ෂිත බන්ධනාගාර ගත කර තිබේ.
+The owner and manager of a foreign employment institution were remanded until June 13 after being charged with fraudulently misappropriating over 1.5 million Rupees. The case was re-presented at the Negombo Magistrate Court.
 
-ඒ ඊට අදාළ නඩුව මීගමුව මහෙස්ත්‍රාත් අධිකරණයේදී අද (30) යළි කැඳවූ අවස්ථාවේ දීය.
+🟩
 
-එක් අයෙකුගෙන් රුපියල් ලක්ෂ 15 බැගින් මුදල් අයකර, සංචාරක වීසා මගින් රුසියානු හමුදාවේ සිවිල් සේවය සඳහා ශ්‍රි ලාංකිකයින් යොමුකරන බවට ලද පැමිණිලි 7ක් අනුව සැකකරුවන් දෙදෙනා මැයි 15 වනදා විදේශ සේවා නියුක්ති කාර්යාංශයේ විශේෂ විමර්ශන අංශයේ නිළධාරීන් විසින් අත්අඩංගුවට ගන්නා ලදී.
+The owner of a foreign employment institution and its manager have been remanded until June 13.
 
-කාර්යාංශය වෙත ලද පැමිණිලි අනුව මෙම ආයතනය වංචාකර ඇති මුදල් ප්‍රමාණය රුපියල් කෝටියකට අධික වේ.
+The case was taken back to the Negombo Magistrate Court today.
+
+According to one of the 15 lakhs of Rs.
+
+According to the Bureau, the number of cash has been fraudulent is Rs.
 
 ◼️
 
 [Data](articles/5456c791.json)
+
+[Extended Data](ext_articles/5456c791.ext.json)
 
 ---
 
@@ -71,6 +131,8 @@ He said troops were “investigating.. and neutralizing” tunnels found in the 
 ...
 
 [Data](articles/7d5d1395.json)
+
+[Extended Data](ext_articles/7d5d1395.ext.json)
 
 ---
 
@@ -109,6 +171,8 @@ The arrested suspect has been identified as a 31-year-old Indian national and he
 ◼️
 
 [Data](articles/b139c162.json)
+
+[Extended Data](ext_articles/b139c162.ext.json)
 
 ---
 
@@ -1660,6 +1724,8 @@ A statement read: "A fatal incident took place at Schiphol today during which a 
 
 [Data](articles/a50fe1e0.json)
 
+[Extended Data](ext_articles/a50fe1e0.ext.json)
+
 ---
 
 ### US to boycott UN tribute to Iran leader killed in helicopter crash
@@ -2261,69 +2327,5 @@ Anura Kumara Dissanayake added that President Ranil Wickremesinghe and Basil Raj
 [Data](articles/99709984.json)
 
 [Extended Data](ext_articles/99709984.ext.json)
-
----
-
-### Jewellers fined for importing gold illegally
-
-*2024-05-30 10:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Jewellers-fined-for-importing-gold-illegally/108-283674) · `en`
-
-Colombo, May 30 (Daily Mirror)- Five leading jewellers who imported gold illegally hav been fined, State Minister of Finance Ranjith Siyambalapitiya said yesterday.the total fine amounted to Rs 1,243 million according to the minister.
-
-One jeweller was find Rs 179 million.the State Minister said those who import gold through a third party will also be fined in the future.
-
-“Some companies have made gold importation a racket and this has continued for some time,” he said.
-
-Customs officers recently raided five jewellery manufacturing plants and recovered illegal gold.
-
-◼️
-
-[Data](articles/97f13ebb.json)
-
-[Extended Data](ext_articles/97f13ebb.ext.json)
-
----
-
-### Sri Lanka tourists to get 60-day visa free entry to Thailand
-
-*2024-05-30 10:04:00* · [`economynextcom`](https://economynext.com/sri-lanka-tourists-to-get-60-day-visa-free-entry-to-thailand-165417/) · `en`
-
-ECONOMYNEXT – Tourists from Sri Lanka would get visa free entry to Thailand from June 1 under a program approved by the country’s cabinet to boost the sector, a media report said.
-
-Sri Lankans are among 36 countries added to a list of 57 countries that would get 60 day stays under the scheme, The Bangkok Post reported.
-
-The new countries eligible for ‘Destination Thailand Visa’ include Albania, Cambodia, China, India, Jamaica, Kazakhstan, Laos, Mexico, Morocco, Panama, Romania and Uzbekistan.
-
-Visitors who want to work and visit tourist destinations will be able to get five-year visas valid for 180 days, extendable for another 180 days, the government spokesman Chai Wacharonke  was quoted in the news report.
-
-The visa will allow foreign students of higher education to stay for one year after graduation and work, instead of having to leave the country immediately after finishing their course.
-
-...
-
-[Data](articles/e02783c4.json)
-
-[Extended Data](ext_articles/e02783c4.ext.json)
-
----
-
-### Thailand introduces visa-free entry for Sri Lankan tourists
-
-*2024-05-30 10:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/99528/thailand-introduces-visa-free-entry-for-sri-lankan-tourists) · `en`
-
-The Thai cabinet has adopted multiple visa measures to stimulate tourism, which will benefit tourists from 36 more countries including Sri Lankan travelers who may have plan to stay in the kingdom for more than 30 days.
-
-From 1 June, the number of countries eligible for visa-free entry will increase from 57 to 93, with the duration of visa-free stays extended to 60 days.
-
-Newly added countries include Sri Lanka, Laos, Albania, Cambodia, China, India, Jamaica, Kazakhstan, Mexico, Morocco, Panama, Romania, Uzbekistan, and others.
-
-These measures, including new visa-free and visa-on-arrival schemes, also extended stays for students and reduced health insurance requirements for retirees.
-
-The Thai cabinet also approved visa-on-arrival for a total of 31 countries, up from the previous 19.
-
-...
-
-[Data](articles/7167ad69.json)
-
-[Extended Data](ext_articles/7167ad69.ext.json)
 
 ---

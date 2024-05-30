@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-30 13:18:53**
+As of **2024-05-30 13:34:24**
 
 ## Newspaper Stats
 
-*Scraped **27,281** Articles*
+*Scraped **27,282** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,37 +20,43 @@ adaderanalk | 3,107
 tamilmirrorlk | 3,202
 virakesarilk | 4,200
 dailymirrorlk | 4,311
-adaderanasinhalalk | 4,361
+adaderanasinhalalk | 4,362
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,272 (100.0%) of 27,281 articles have been extended.
+27,281 (100.0%) of 27,282 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-30 (Thursday)
 
-### මෝටර් රථ අනතුරකින් සිසුවෙකුට බරපතළයි
+### Student gets seriously in a car accident
 
 *2024-05-30 13:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197178) · `si`
 
-කහතුඩුව වෑතර රෝහල ඉදිරිපිටදී ධාවනය වෙමින් තිබූ මෝටර් රථයක්   නවතා තිබූ ස්කූටරයක සහ මාර්ගයේ ගමන් ගත් සිසුවෙකුගේ ගැටීමෙන්  එම සිසුවා බරපතළ තුවාල ලබා ඇතැයි කහතුඩුව පොලීසිය පවසයි.
+A student from Weather Maha Vidyalaya suffered serious injuries in a car accident involving a scooter near Kahathuduwa welfare hospitals. The collision occurred after the car swerved to avoid hitting the scooter and then struck a power line. The student was initially treated at Wethara Hospital before being transferred to Kalubowila Teaching Hospital. The driver, a 29-year-old, lost control and was subsequently arrested by the Kahathuduwa police.
 
-අනතුරින් තුවාල ලබා ඇත්තේ වෑතර මහා විද්‍යාලයේ 10 වන වසරේ ඉගෙනුම ලබන 15 හැවිරිදි  සිසුවෙකි.
+🟩
 
-ස්කූටරය සමග මෝටර් රථය කෙටි දුරක් ඉදිරියට ඇදී ගොස් ඇති අතර‍ පසුව අධිබලැති විදුලි රැහැන් කණුවක ද ගැටී තිබේ.
+Kahathuduwa police said that the student was seriously injured when a scooter and a student who was traveling in front of Kahathuduwa welfare hospitals.
 
-අනතුරින් බරපතළ තුවාල ලැබූ සිසුවා වෑතර රෝහල වෙත ඇතුළත් කිරීමෙන් අනතුරුව වැඩිදුර ප්‍රතිකාර සඳහා කළුබෝවිල ශික්ෂණ රෝහල වෙත මාරුකර යවා ඇත.
+The injured were injured in the 15th year student of the Weather Maha Vidyalaya.
 
-පිළියන්දල දෙස සිට කහතුඩුව දෙසට ධාවනයවෙමින් තිබූ මෝටර් රථයේ දකුණුපස පිටුපස ටයරයේ හුළං යෑම හේතුවෙන් රියදුරුට රථය පාලනය කරගත නොහැකිව අනතුර සිදුවී ඇති බව පැවසෙයි.
+The car has been a short distance with the scooter and has later collided with a power line.
 
-සිද්ධිය සම්බන්ධයෙන් 29 හැවිරිදි මෝටර් රථයේ රියදුරාව පොලීසිය විසින් අත්අඩංගුවට ගෙන ඇත.
+The student who was seriously injured in the accident has been admitted to the Wethara Hospital and later transferred to the Kalubowila Teaching Hospital for further treatment.
+
+The driver is not able to control the vehicle due to the blows of the car in the Piliyandala to Kahathuduwa.
+
+The driver of the 29-year-old driver has been arrested by the police.
 
 ◼️
 
 [Data](articles/590aa7c7.json)
+
+[Extended Data](ext_articles/590aa7c7.ext.json)
 
 ---
 
@@ -80,35 +86,67 @@ The petition has been presented against former President Maithripala Sirisena, w
 
 ---
 
-### சர்வதேச குற்றவியல் நீதிமன்றம் ஊடாக நாட்டுக்கு பெரும் நெருக்கடிகள் ஏற்படும் - சரத் வீரசேகர
+### Sarath Weerasekera
 
 *2024-05-30 12:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/184854) · `ta`
 
-இலங்கைக்கு எதிரான ஜெனீவா வெளிக்கள விசாரணை பொறிமுறை தொடர்பில் அரசாங்கத்தின் பதிலளிப்புக்கள் திருப்திகரமாக இல்லை. இந்த நிலைமை தொடர்ந்தால் சர்வதேச குற்றவியல் நீதிமன்றம் ஊடாக நாட்டுக்கு பெரும் நெருக்கடிகள் ஏற்படும் எனத் தெரிவித்த தேசிய பாதுகாப்பு தொடர்பான துறைசார் கண்காணிப்புக் குழுவின் தலைவர் சரத் வீரசேகர, இது தொடர்பில் கலந்தாலோசிப்பதற்காக வெளிவிவகார அமைச்சு, பாதுகாப்பு அமைச்சு மற்றும் சட்டமா அதிபர் திணைக்களத்தின் உயரதிகாரிகளுக்கு அழைப்பு விடுக்கப்பட்டுள்ளதாகவும் தெரிவித்தார்.
+Sarath Weerasekera criticizes the Sri Lankan government's handling of the Geneva investigation, warning of potential crises. He mentions concerns over international lawsuits against soldiers due to ongoing investigations based on rejected motions. The US Ambassador's visit and criticism of Sri Lanka's anti-terrorism efforts are highlighted, along with allegations of US involvement with extremist groups against Sri Lanka. The US is accused of planning a proposal against Sri Lanka, demanding recognition of the Tamil people's rights and accusing Sri Lanka of genocide, which could lead to the banning of certain organizations within the country.
 
-ஜனாதிபதி ஊடக மையத்தில் புதன்கிழமை (29) இடம்பெற்ற ஊடகவியலாளர் மாநாட்டில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+🟩
 
-வெளிநாட்டலுவல்கள் அமைச்சு, பாதுகாப்பு அமைச்சு என்பவற்றின் உயர் அதிகாரிகள், சட்டமா அதிபர் உள்ளிட்டோருக்கு எதிர்வரும் ஜூன் 5ஆம் திகதி தேசிய பாதுகாப்பு தொடர்பான துறைசார் கண்காணிப்புக் குழுவுக்கு அழைப்பு விடுக்கப்பட்டுள்ளது. அன்றைய தினம் ஜெனீவாவில் 46/1 பிரேரணைக்கமைய ஸ்தாபிக்கப்பட்டுள்ள வெளிக்கள பொறிமுறை மற்றும் பயங்கரவாத எதிர்ப்பு சட்டம் தொடர்பில் கலந்துரையாடப்பவுள்ளது.
+The government's response to the Geneva Explanial Investigation mechanism against Sri Lanka is not satisfactory. Sarath Weerasekera, Chairman of the National Security Department Monitoring Committee, said that if this situation continues, there will be major crises for the country.
+
+He further stated this at a press conference held at the Presidential Media Center on Wednesday (29).
+
+The Ministry of Foreign Affairs and the Ministry of Defense and the Ministry of Defense, including the Attorney General, were invited to the National Security Department Monitoring Committee on June 5.. On that day, the 46/1 proposal in Geneva will be discussed on the outlook mechanism and the anti -terrorism Act.
+
+The process of collecting witnesses against war soldiers and military personnel is being carried out through the outlook mechanism.. Although the Sri Lankan government has rejected the 46/1 motion, investigations are being carried out on the basis of it.
 
 ...
 
 [Data](articles/e76e5052.json)
 
+[Extended Data](ext_articles/e76e5052.ext.json)
+
 ---
 
-### இந்தியாவில் கைதான ஐ.எஸ்.ஐ.எஸ். உடன் தொடர்புடைய இலங்கையர்களின் உள்நாட்டு வலையமைப்பு குறித்து விசாரணை - சரத் வீரசேகர
+### දිමුත් කරුණාරත්න පාසල් ක්‍රිකට් ක්‍රීඩකයින්ට දුන් උපදෙස
+
+*2024-05-30 12:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197176) · `si`
+
+ක්‍රිකට් ක්‍රීඩාවෙන් ඉදිරියට යෑමට නම් අභියෝග හමුවේ නොසැලී තම ඉලක්කය කරා යා යුතු බව ශ්‍රී ලංකා හිටපු ක්‍රිකට් නායක දිමුත් කරුණාරත්න පවසයි.
+
+ඔහු පවසන්නේ ඒ සඳහා කෙටි මාර්ග (Short-cut) සෙවීම නොකළ යුතු දෙයක් බවයි.
+
+දිමුත් එසේ පැවසුවේ 2023 වසර සඳහා අවුරුදු 15න් පහළ සහ 17න් පහළ පාසල් ක්‍රිකට් සම්මාන උලෙළට එක්වෙමිනි.
+
+◼️
+
+[Data](articles/a6e7fca9.json)
+
+---
+
+### The arrested ISIS. Investigations into the Domestic Network of Sri Lankans involved - Sarath Weerasekera
 
 *2024-05-30 12:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/184850) · `ta`
 
-இந்தியாவில் கைது செய்யப்பட்ட ஐ.எஸ்.ஐ.எஸ். உடன் தொடர்புடைய இலங்கை பிரஜைகளுக்கு இலங்கையில் எவ்வாறான தொடர்புகள் உள்ளன?, அவர்களது தொடர்பாடல் வலையமைப்புக்கள் எவ்வாறானவை என்பது தொடர்பில் விசாரணைகளை முன்னெடுப்பதற்கு எமது புலனாய்வு பிரிவினரை இந்தியாவுக்கு அனுப்ப வேண்டும் என்று தேசிய பாதுகாப்பு தொடர்பான துறைசார் கண்காணிப்புக் குழுவின் தலைவர் பாராளுமன்ற உறுப்பினர் சரத் வீரசேகர தெரிவித்தார்.
+Sarath Weerasekera, head of Sri Lanka's National Security Department Monitoring Committee, called for an investigation into Sri Lankan contacts with ISIS members arrested in India. The Gujarat police are probing four arrested individuals linked to ISIS, who aim to attack the BJP and have been found with explosives. Weerasekera emphasized the need for Sri Lanka's intelligence units to collaborate with Indian authorities to understand the extent of extremist influence within Sri Lanka and take necessary actions against it.
 
-ஜனாதிபதி ஊடக மையத்தில் நேற்று புதன்கிழமை இடம்பெற்ற ஊடகவியலாளர் மாநாட்டில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+🟩
 
-இந்தியாவில் கைது செய்யப்பட்ட ஐ.எஸ்.ஐ.எஸ். உடன் தொடர்புடைய இலங்கை பிரஜைகள் தொடர்பில் குஜராத் பொலிஸார் தீவிர விசாரணைகளை முன்னெடுத்து வருகின்றனர். மொஹம்மட் நுஸ்ரத், மொஹம்மட் பாரிஸ், மொஹம்மட் ராசீப், மொஹம்மட் நஸ்ராத் என்ற நபர்களே இவ்வாறு கைது செய்யப்பட்டுள்ளனர். முஸ்லிம் அல்லாதவர்களை கொலை செய்தால் தாம் சொர்க்கத்துக்குச் செல்வோம் என்று இவர்கள் உறுதிமொழி எடுத்துள்ளனர்.
+ISIS arrested in India. Parliamentarian Sarath Weerasekera, chairman of the National Security Department Monitoring Committee, said that our intelligence unit should send our intelligence unit to India to investigate what kind of contact with Sri Lankan citizens in Sri Lanka.
+
+He further stated at a press conference held at the Presidential Media Center on Wednesday.
+
+ISIS arrested in India. Gujarat police are conducting serious investigations into Sri Lankan citizens involved. Mohammed Nusrat, Mohammed Paris, Mohammed Rajib and Mohammed Nasrat have been arrested.. They have pledged that they will go to heaven if they kill non -Muslims.
+
+They have said that their goal is to attack the Bharatiya Janata Party (BJP), claiming to be unjust against Muslims.. Three of them have been seized with bombs. ISIS. Gujarat police said that a black flag with the organization of the organization has been recovered.
 
 ...
 
 [Data](articles/17060977.json)
+
+[Extended Data](ext_articles/17060977.ext.json)
 
 ---
 
@@ -224,17 +262,23 @@ Joseph Stalin, Secretary of the Sri Lanka Teachers' Association and the General 
 
 ---
 
-### தேர்தலை ஒத்திவைக்கும் பாலித ரங்க பண்டாரவின் கருத்து ஜனநாயகம்  குடிமக்கள் தங்கள் பிரதிநிதிகளைத் தேர்ந்தெடுக்கும் உரிமைக்கு  முரணானது  -ஹாஸ்டக் ஜெனரேசன்
+### Palitha Ranga Bandara's opinion postponing the election is contrary to the right to select their representatives
 
 *2024-05-30 12:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/184849) · `ta`
 
-ஜனாதிபதித் தேர்தல் மற்றும் பொதுத் தேர்தலை இரண்டு வருடங்களுக்கு ஒத்திவைக்குமாறு ஐக்கிய தேசியக் கட்சியின் பொதுச் செயலாளர் பாலித ரங்கே பண்டார முன்வைத்த கருத்தை நாம் வன்மையாகக் கண்டிக்கின்றோம்.  இக் கருத்தானது அரசியலமைப்பு ரீதியாக நிறுவப்பட்ட தேர்தல் செயல்முறை நாட்டின் ஜனநாயகம் மற்றும் குடிமக்கள் தங்கள் பிரதிநிதிகளைத் தேர்ந்தெடுக்கும் உரிமைக்கு முரணானதாக அமைந்துள்ளது.  என ஹாஸ்டக் ஜெனரேசன் தெரிவித்துள்ளது.
+Opposing calls to delay Sri Lanka's elections, critics argue it undermines democratic rights, emphasizing the Elections Commission's duty to hold polls post-presidential term. The move is seen as unnecessary amid economic and political turmoil, crucial for shaping the nation's future post-2022 protests. Urging all parties to prioritize democracy and timely elections for the country's sake.
 
-அரசியலமைப்பின் படிஇ ஜனாதிபதியின் பதவிக்காலம் முடிவடைந்ததைத் தொடர்ந்து எதிர்வரும் தேர்தலை நடத்தும் பொறுப்பு இலங்கை தேர்தல்கள் ஆணைக்குழுவிற்கு உள்ளது.  ஜனாதிபதித் தேர்தலானது செப்டம்பர் 17 முதல் அக்டோபர் 16 வரை நடைபெறும் என்று மே 09ஆம் திகதி தேர்தல்கள் ஆணைக்குழு அறிவித்தது.  இவ்வாறான நிலையில் தேர்தல்கள் ஒத்திவைக்கப்பட வேண்டிய சூழ்நிலைகளோ தேவையோ இல்லை என்பது சுட்டிக்காட்டத்தக்கதாகும்.
+🟩
+
+We vehemently condemn the views of the United National Party General Secretary Palitha Range Bandara to postpone the presidential and general election for two years.This concept is contrary to the right to select their representatives of the country's democracy and citizens.Hostess General said.
+
+According to the Constitution, the Sri Lanka Elections Commission has the responsibility of holding the upcoming election following the end of the presidential term.The Elections Commission announced on May 9 that the presidential election will be held from September 17 to October 16.It is noteworthy that there are no circumstances or necessary to postpone the elections.
 
 ...
 
 [Data](articles/d23ae18b.json)
+
+[Extended Data](ext_articles/d23ae18b.ext.json)
 
 ---
 
@@ -264,33 +308,45 @@ According to the supervision of Superintendent of Police Jayantha Jayawardena, O
 
 ---
 
-### இஸ்ரேலின் எதிர்ப்பை மீறி மூன்று நாடுகள் பாலஸ்தீன  அரசுக்கு அங்கீகாரம் ! அடுத்த கட்டம் என்ன ?
+### Three countries have recognized the Palestinian government despite Israel's oppositionWhat is the next step?
 
 *2024-05-30 12:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/184846) · `ta`
 
-இஸ்ரேல் - பாலஸ்தீன மோதல்களைத் தொடர்ந்து மனிதப் பேரவலங்கள் அதிகரித்து வருகின்றன. அதனை நிறுத்தும் முயற்சிகளும் முடியாத  ஒன்றாகவே இருந்து வருகிறது.
+Despite Israel's opposition, three nations have acknowledged the Palestinian government. The situation worsens as human casualties from Israel-Palestine conflicts rise, making efforts to halt violence futile. What's next?
+
+🟩
+
+Human beings are increasing following Israel -Palestinian clashes. Attempts to stop it have been impossible.
 
 ◼️
 
 [Data](articles/3102081e.json)
 
+[Extended Data](ext_articles/3102081e.ext.json)
+
 ---
 
-### இலங்கை சுற்றுலாப் பயணிகள் தாய்லாந்துக்கு விசா இன்றி செல்ல அனுமதி
+### Sri Lankan tourists permit Thailand to go to Thailand without visa
 
 *2024-05-30 11:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/184837) · `ta`
 
-ஜூன் முதலாம் திகதி முதல் இங்கையர்கள் விசா இல்லாமலேயே தாய்லாந்துக்குச் செல்தற்கும், அங்கு 60 நாட்கள் வரை தங்குவதற்கும் அந்நாட்டு அமைச்சரவை அனுமதி வழங்கியுள்ளது.
+Since June 1st, Sri Lankans can visit Thailand visa-free for up to 60 days under programs like free visa and half-visa, long-term stays, and mandatory health insurance for retirees. This policy now covers 93 countries, up from 57, aiming to boost Thailand's tourism-dependent economy.
 
-இந்த நடவடிக்கைகளில் இலவச விசா மற்றும் ஒன் அரைவல் விசா திட்டங்கள், மாணவர்கள் நீண்ட காலம் தங்குதல் மற்றும் ஓய்வு பெற்றவர்களுக்கு கட்டாய சுகாதார காப்பீடு ஆகியவை அடங்கும்.
+🟩
 
-அதன்படி, அல்பேனியா, கம்போடியா, சீனா, இந்தியா, ஜமைக்கா, கஜகஸ்தான், லாவோஸ், மெக்சிகோ, மொராக்கோ, பனாமா, ருமேனியா, இலங்கை மற்றும் உஸ்பெகிஸ்தான் உள்ளிட்ட 36 நாடுகளைச் சேர்ந்த சுற்றுலாப் பயணிகளுடன், இலங்கை சுற்றுலாப் பயணிகளும் விசா இன்றி தாய்லாந்துக்கு செல்ல முடியும்.
+Since June 1st, the Cabinet has granted permission to go to Thailand without a visa and stay for up to 60 days.
 
-இந்த விரிவாக்கம் விசா இல்லாத நுழைவுக்கான தகுதியுள்ள நாடுகளின் எண்ணிக்கையை 57 இலிருந்து 93 ஆக அதிகரித்துள்ளது. சுற்றுலாவை பெரிதும் நம்பியிருக்கும் தேசிய பொருளாதாரத்தை அதிகரிக்க இந்த முயற்சி நோக்கமாகக் கொண்டுள்ளது என தாய்லாந்து அரசாங்க ஊடகவியலாளர் சாய் வச்சரோன்கேயின் தெரிவித்துள்ளார்.
+These activities include free visa and one -half visa programs, long -term staying and compulsory health insurance for retirees.
+
+Accordingly, Sri Lankan tourists from 36 countries, including Albania, Cambodia, China, India, Jamaica, Jamaica, Kazakhstan, Laos, Mexico, Morocco, Panama, Romania, Sri Lanka and Uzbekistan, can travel to Thailand without visa.
+
+This expansion has increased the number of eligible countries for the Visa -free entry from 57 to 93. Thailand government journalist Sai Vachoronkin said the effort aims to increase the national economy that rely on tourism.
 
 ◼️
 
 [Data](articles/6047ad70.json)
+
+[Extended Data](ext_articles/6047ad70.ext.json)
 
 ---
 
@@ -314,21 +370,33 @@ Despite these positive trends, ADIC states that approximately 1.5 million people
 
 ---
 
-### ரிமால் புயல் காரணமாக மீன்களின் விலை அதிகரிப்பு!
+### Rimal Storm Increase Fish Price
 
 *2024-05-30 11:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/184844) · `ta`
 
-ரிமால் புயல் காரணமாக  கடற்பிராந்தியங்கள் மிகவும் கொந்தளிப்பாகக் காணப்படும் என அறிவிக்கப்பட்டுள்ள நிலையில் ஆழ்கடல் வள்ளங்கள் எவையும் மீன்பிடிக்க செல்லவில்லை. இருந்த போதிலும் கரை வலை மீன் வள்ளங்கள் மீன் பிடி நடவடிக்கையில் தொடர்ந்தும் ஈடுபட்டு வருகின்றன.
+The Rimal Storm has caused significant disruptions in sea areas, preventing deep-sea fishing but allowing web fish boats to operate. This has led to increased fish prices due to reduced supply and warnings of strong winds and sea turbulence by the Department of Meteorology. Fishermen attribute the decrease in catch to rapid weather changes and moonlight conditions. Prices have tripled in certain markets like Kalmunai Sainthamaruthu and Nintavur Mallikkadu, affecting consumers.
 
-அம்பாறை மாவட்டத்தின் பெரிய நீலாவணை, கல்முனை ,  மருதமுனை, பாண்டிருப்பு, பெரியநீலாவணை, நிந்தவூர் , அட்டாளைச்சேனை, ஒலுவில், அக்கரைப்பற்று, தம்பிலுவில், பொத்துவில் பகுதிகளில் உள்ள   மீனவர்கள் மற்றும் கடல்சார் ஊழியர்கள் புயல் தொடர்பில்   அவதானமாக செயற்படுமாறு அறிவுறுத்தப்பட்டுள்ளனர்.
+🟩
 
-பலத்த காற்று மற்றும் கடல் கொந்தளிப்பு தொடர்பில் அண்மைக்காலமாக  வளிமண்டலவியல் திணைக்களம்   எச்சரிக்கை விடுத்துள்ளமை குறிப்பிடத்தக்கது.
+Due to the Rimal Storm, it has been reported that the sea areas are very turbulent and no deep sea boats go fishing. Nevertheless, web fish boats continue to engage in fishing.
 
-இதனால் மீன்களின் விலைகள் அதிகரித்துள்ளதுடன், சந்தைகளும் மீன்கள் இன்மையால் மூடி காணப்படுகின்றன. குறித்த மாவட்டத்தின் பெரிய நீலாவணை  முதல் பொத்துவில்  பகுதி வரையுள்ள கடற்பரப்பு   உள்ளிட்ட கடற்பிராந்தியத்தில் மீன்களின் பிடிபாடு பெருமளவில் குறைவடைந்துள்ளது.
+Fishermen and maritime workers in the Ampara district have been instructed to address the storm in the storm.
+
+It is noteworthy that the Department of Meteorology has recently warned of strong winds and sea turbulence.
+
+This has increased the prices of fish and the markets are covered with lack of fish. The fish cabinet has been greatly reduced in the seas, including the seas of the district, from the large Neelavana to Pottuvil area.
+
+Fishermen say the cause of this is due to the rapid inclement weather and the light of the moon.
+
+Merchants have reported that the increase in the price of fish is the cause of the increase in sea turbulence due to heavy winds.
+
+In addition, 1,600 rupees, 1 kg of fish is Rs.The prices of other retail fish are increasing in areas.
 
 ...
 
 [Data](articles/9aeb2af0.json)
+
+[Extended Data](ext_articles/9aeb2af0.ext.json)
 
 ---
 
@@ -382,19 +450,25 @@ Raisi, a hardliner who had been seen as a potential successor to Supreme Leader 
 
 ---
 
-### පොල්ගොල්ල ජලාශයේ වාන් දොරටු 05ක් විවෘත කෙරේ
+### 5 sluice gates of Polgolla Reservoir opened
 
 *2024-05-30 11:45:59* · [`adalk`](https://www.ada.lk/breaking_news/පොල්ගොල්ල-ජලාශයේ-වාන්-දොරටු-05ක්-විවෘත-කෙරේ/11-409906) · `si`
 
-මහනුවර  හා අවට ප්‍රදේශවලට ඇද  හැල අධික වර්ෂාව නිසා පොල්ගොල්ල මහවැලි ජලාශයේ වාන් දොරටු පහක් අද විවෘත කළ  (30) බව වේල්ල භාර ඉංජිනේරු කාර්යාලය  සඳහන් කළේය.
+Due to heavy rains, five sluice gates of the Anuradhapura Mahaweli Reservoir were opened, releasing about 13,900 cubic feet into the Mahaweli River. This action also led to the opening of sluice gates at the Polgolla Dam, affecting water levels downstream, including the Victoria Reservoir. Users of the Mahaweli River are advised to exercise caution.
 
-ඒ අනුව පොල්ගොල්ල වේල්ලේ වාන් දොරටු   පහක් මීටර  එක  (1') බැගින් ඉහළට ඔසවා තිබු අතර මේ හේතුවෙන් ජලාශය පහළට මහවැලි ගඟට තත්පරයට ඝණ අඩි 13900 ක පමණ ජල ප්‍රමාණයක් නිකුත්කළ බව එම කාර්යාලය  වැඩිදුරටත් පැවැසීය.
+🟩
 
-මේ හේතුවෙන් පවතින වර්ෂාව අනුව දොරටු විවෘත කරන බැවින් පොල්ගොල්ල වේල්ලට පහළින් වික්ටෝරියා ජලාශය දක්වා  මහවැලි ගඟ භාවිතා කරන ජනතාව අවධානයෙන් සිටීය යුතු බව එම කාර්යාලය  වැඩිදුරටත් පැවැසීය
+Five sluice gates of the Anuradhapura Mahaweli Reservoir (30) have been opened today due to heavy rains.
+
+Five of Polgolla Dalla Dams have been hit by one (1 ') and the reservoir has issued about 13900 cubic feet to the Mahaweli River.
+
+As a result of this, the doors are opened by the Victoria Reservoir below the Victoria Reservoir below Polgolla Dam and the people who use the Mahaweli River should be impartial.
 
 ◼️
 
 [Data](articles/1399588e.json)
+
+[Extended Data](ext_articles/1399588e.ext.json)
 
 ---
 
@@ -1004,19 +1078,25 @@ Outgoing Chairman Wijesinha has served on the boards of both Watawala Plantation
 
 ---
 
-### පාලිතගේ ප්‍රකාශය පරාජය ‍භාර ගැනීමක්
+### Palitha's statement is taking over the defeat
 
 *2024-05-30 09:48:13* · [`adalk`](https://www.ada.lk/breaking_news/පාලිතගේ-ප්‍රකාශය-පරාජය-‍භාර-ගැනීමක්/11-409903) · `si`
 
-ජනපතිවරණය සහ පාර්ලිමේන්තු මැතිවරණය වසර දෙකකින් කල් දාන්න පුළුවන් නම් හොඳ බව එජාප මහ ලේකම් පාලිත රංගේ බණ්ඩාර පැවසුවා, කල්දාන එක ජනතාවට කෙසේ වෙතත් ඒ අයට නම් හොඳ යයි ජාතික ජනබලවේගයේ විධායක සභික කේ.ඩී ලාල් කාන්ත මහතා පැවසීය.
+UNP's Palitha Range Bandara suggested postponing the presidential election for two years, citing parliamentary majority and referendum possibilities. This move is seen as a strategic step to strengthen the Ranil Alliance, according to UNP Executive Member KD Lal Kantha.
 
-ජාතික ජනබලවේගයේ කුණ්ඩසාලේ ආසනය මගින් සංවිධානය කළ වාහන ස්ටිකර් ඇලවීමේ ප්‍රචාරක වැඩසටහනක් පල්ලේකැලේ ගම් උදාව ඔරුලෝසු කණුව ඉදිරි පිටදී පැවැති අවස්ථාවෙන් අනතුරුව මාධ්‍ය හමුවේ අදහස් දක්වමින් ලාල්කාන්ත මහතා මේ බව පැවසුවේය.
+🟩
 
-"එය ඉටු කරනවා නම් පාර්ලිමේන්තුවේ තුනෙන් දෙකක බලයක් අවශ්‍යය යි. ඒ වගේම ජනමත විචාරණයක් ඕන. මේ මුට්ටිය දැමිල්ලක් කරලා තියෙන්නේ. ඒ වගේම ඒකෙන් කියවෙනවා ජනපතිවරණයට මහමැතිවරණයට ඉදිරිපත් වෙලා ඔවුන් ට දිනන්න බැහැ කියන එක. ඒ අඳෝනාව තමයි රංගේ බණ්ඩාර කටින් එලියට ආවේ. මේ ප්‍රකාශය අපි දකින්නේ රනිල් රාජපක්ෂ හවුල පරාජය බාර ගැනීමක් ලෙසයි."
+UNP General Secretary Palitha Range Bandara said that if the presidential election could be postponed in two years, the UNP's Executive Member KD Mr. Lal Kantha said.
+
+Mr. Lal Kanthe said this after the media was held in the face of a vehicles sticks of the Kundasale electorate in the Kundasale electorate.
+
+"If you do it, there is a two-thirds power in Parliament. Also, there is a referendum. This pitcher has been released. And that means that the presidential election cannot be forwarded to the general election and win them. That weak was Range Bandara came out of the mouth. We see this statement as a rescue of Ranil Alliance. "
 
 ◼️
 
 [Data](articles/85005175.json)
+
+[Extended Data](ext_articles/85005175.ext.json)
 
 ---
 
@@ -2197,21 +2277,5 @@ Launched in 2017 with funding from the Standard Chartered Foundation the program
 [Data](articles/03106a24.json)
 
 [Extended Data](ext_articles/03106a24.ext.json)
-
----
-
-### Banking sector shares suffer decline in the wake of Combank’s morn setback
-
-*2024-05-29 23:03:00* · [`islandlk`](http://island.lk/banking-sector-shares-suffer-decline-in-the-wake-of-combanks-morn-setback/) · `en`
-
-Commercial Bank of Sri Lanka stocks were trading down last morning, a day after the bank announced a rights issue. Non- voting shares were down at Rs. 84.00. This negatively impacted other banking stocks yesterday, market analysts said.
-
-The bank made a capital call from shareholders of Rs 22 billion, offering voting shares at Rs 85 and non-voting at Rs. 69. Commercial Bank will offer 252,082,449 shares in the proportion of 1 for every existing 5, to raise Rs 21.42 billion.
-
-...
-
-[Data](articles/b3e729ea.json)
-
-[Extended Data](ext_articles/b3e729ea.ext.json)
 
 ---

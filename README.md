@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-30 15:34:20**
+As of **2024-05-30 15:52:47**
 
 ## Newspaper Stats
 
-*Scraped **27,310** Articles*
+*Scraped **27,320** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 islandlk | 1,477
 economynextcom | 1,562
 dailyftlk | 1,601
-adalk | 2,323
-adaderanalk | 3,112
-tamilmirrorlk | 3,204
+adalk | 2,326
+adaderanalk | 3,114
+tamilmirrorlk | 3,209
 virakesarilk | 4,203
 dailymirrorlk | 4,319
 adaderanasinhalalk | 4,367
@@ -26,11 +26,113 @@ adaderanasinhalalk | 4,367
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,310 (100.0%) of 27,310 articles have been extended.
+27,310 (100.0%) of 27,320 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-30 (Thursday)
+
+### ප්‍රවීණ සංගීතඥ ෂෙල්ටන් ප්‍රේමරත්න අභාවප්‍රාප්ත වෙයි
+
+*2024-05-30 15:35:34* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රවීණ-සංගීතඥ-ෂෙල්ටන්-ප්‍රේමරත්න-අභාවප්‍රාප්ත-වෙයි/11-409917) · `si`
+
+මියුරු ගීත තනු රැසක් සංගීත ක්ෂේත්‍රයට දායාද කළ ප්‍රවීණ සංගීතඥ ෂෙල්ටන් ප්‍රේමරත්න මහතා ඊයේ(30දා) ඕස්ට්‍රේලියාවේ සිඩ්නි නුවරදි අභාවප්‍රාප්ත විය. මියයන විට ඒ මහතා 93 වියේ පසුවිය.
+
+ෂෙල්ටන් ප්‍රේමරත්න 1931 අප්‍රේල් 29 වැනිදා කොළඹ කොටහේනේදී උපත ලැබූ අතර, , කොටහේනේ සෙක්කු විදියේ කිතුණු ළදරු පාසලෙන් මූලික අධ්‍යාපනය ලැබීය.වැඩිදුර අධ්‍යාපනය සඳහා කොටහේන මධ්‍ය මහා විද්‍යාලයට ඔහු ඇතුළත් වුණි.
+
+ෂෙල්ටන් ප්‍රේමරත්නයන් සංගීත ක්ෂේත්‍රයට පිවිසෙන්නේ 1952 දී වේදිකාගත කළ ‘හීන කුලය’ නම් නාට්‍ය හරහාය.නමුත් ඊට පෙර ඒ.පි.එම්. නූර් නම් ව්‍යාපාරිකයා විසින් නිෂ්පාදනය කිරීමට යෙදුනු චිත්‍රපටයක් වූ ‘ජිවිතයේ ප්‍රීතිය’ නම් චිත්‍රපටයේ සංගීත අධ්‍යක්ෂණයට ෂෙල්ටන්ව තෝරාගෙන තිබුණි.ඔහු මෙම චිත්‍රපටයට ‘කදිරනේ ධීර වීරා’ නම් වූ ගීතය නිර්මාණය කරනු ලැබු නමුත්, අවාසනාවකට මෙම චිත්‍රපටය අතරමඟ නතර විය. එවිට ෂෙල්ටන් ප්‍රේමරත්නයන්ගේ වයස අවුරුදු 17 ක් විය.
+
+...
+
+[Data](articles/05729461.json)
+
+---
+
+### Public cautioned over rising water levels of several rivers
+
+*2024-05-30 15:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/99541/public-cautioned-over-rising-water-levels-of-several-rivers) · `en`
+
+The Department of Irrigation says that the water level of the Mahaweli River has risen following the heavy rainfall experienced in the Central Hills.
+
+The Director of Irrigation (Hydrology & Disaster Management) S. P. C. Sugeeshwara stated that the water levels of the upper catchment areas of Mahaweli River and its tributaries have increased and consequently, it is dangerous to travel along the tributaries as well as bathing in them.
+
+Meanwhile, the water levels of Gin, Kalu and Nilwala rivers have also increased significantly today (30).
+
+It is also warned that there is a risk of flooding if heavy rainfall continues.
+
+The Department of Irrigation further stated that people living in low-lying areas should pay high attention in this regard as the water levels of these rivers may rise unexpectedly.
+
+◼️
+
+[Data](articles/4aa1c99c.json)
+
+---
+
+### கடதாசி கரண்டியை மடிக்க தடுமாறும் தமிழர்
+
+*2024-05-30 15:33:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடதாசி-கரண்டியை-மடிக்க-தடுமாறும்-தமிழர்/175-338159) · `ta`
+
+ஒரு தட​வை மட்டுமே பயன்படுத்தப்படும் பிளாஸ்டிக் பொருட்களுக்குத் தடைச் செய்யப்பட்டுள்ளதை வரவேற்க வேண்டும். அதற்காக மாற்று ஏற்பாடுகள் பல செய்யப்பட்டுள்ளன.
+
+கடதாசியில் செய்யப்பட்ட ‘ஸ்டோ‘,‘ ‘கடதாசி மட்டை கரண்டி’, ‘கடதாசி கப்’, ‘கடதாசி பிளேட்’  இவ்வாறு பல வடிவங்களில் பொருட்கள் சந்தைகளில் புழக்கத்தில் உள்ளன. யோகட் வாங்கும் போது, பெரும்பாலான கடைகளில் மட்டை கடதாசி கரண்டியே வழங்கப்படுகின்றது.
+
+சுற்றாடலுக்கு  கேடு விளைவிக்கும் பிளாஸ்டிக்கை தூங்கிவீசிவிட்டு, விரைவாக உக்கும் மண்ணுக்கு உரம்கொடுக்கும் இந்த கடதாசி மட்டை கரண்டியின் பயன்பாடு வரவேற்கத்தக்கது.
+
+எனினும், அக்கடதாசி மட்டை கரண்டியில் குழி இருக்காது, வாங்குவோர்தான் இரண்டுபுறங்களும் மடித்து, குழியைப்போல செய்துக்கொள்ளவேண்டும். இந்த விடயம் தெரியாத பலரும், கடதாசி க​ரண்டியை மடிக்காமல், யோகட்டை அள்ளி, ஆடைகளிலும் கீழேயும் கொட்டிக்கொள்கின்றனர்.
+
+கடைக்காரர்களும் அதனை விளங்கப்படுத்துவது இல்லை. எனினும்,  தமிழ் தெரியாதவர்களுக்கு அதுவும் ஒரு பிரச்சினையாகும். ஏனெனில், இவ்விடத்தில் மடிக்கவும் என, சிங்களம், ஆங்கிலம் ஆகிய இரண்டுமொழிகளில் மட்டுமே உள்ளன.
+
+...
+
+[Data](articles/c6a82a82.json)
+
+---
+
+### கடதாசி கரண்டியை மடிக்க தடுமாறும் தமிழர்
+
+*2024-05-30 15:33:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடதாசி-கரண்டியை-மடிக்க-தடுமாறும்-தமிழர்/175-338158) · `ta`
+
+ஒரு தட​வை மட்டுமே பயன்படுத்தப்படும் பிளாஸ்டிக் பொருட்களுக்குத் தடைச் செய்யப்பட்டுள்ளதை வரவேற்க வேண்டும். அதற்காக மாற்று ஏற்பாடுகள் பல செய்யப்பட்டுள்ளன.
+
+கடதாசியில் செய்யப்பட்ட ‘ஸ்டோ‘,‘ ‘கடதாசி மட்டை கரண்டி’, ‘கடதாசி கப்’, ‘கடதாசி பிளேட்’  இவ்வாறு பல வடிவங்களில் பொருட்கள் சந்தைகளில் புழக்கத்தில் உள்ளன. யோகட் வாங்கும் போது, பெரும்பாலான கடைகளில் மட்டை கடதாசி கரண்டியே வழங்கப்படுகின்றது.
+
+சுற்றாடலுக்கு  கேடு விளைவிக்கும் பிளாஸ்டிக்கை தூங்கிவீசிவிட்டு, விரைவாக உக்கும் மண்ணுக்கு உரம்கொடுக்கும் இந்த கடதாசி மட்டை கரண்டியின் பயன்பாடு வரவேற்கத்தக்கது.
+
+எனினும், அக்கடதாசி மட்டை கரண்டியில் குழி இருக்காது, வாங்குவோர்தான் இரண்டுபுறங்களும் மடித்து, குழியைப்போல செய்துக்கொள்ளவேண்டும். இந்த விடயம் தெரியாத பலரும், கடதாசி க​ரண்டியை மடிக்காமல், யோகட்டை அள்ளி, ஆடைகளிலும் கீழேயும் கொட்டிக்கொள்கின்றனர்.
+
+கடைக்காரர்களும் அதனை விளங்கப்படுத்துவது இல்லை. எனினும்,  தமிழ் தெரியாதவர்களுக்கு அதுவும் ஒரு பிரச்சினையாகும். ஏனெனில், இவ்விடத்தில் மடிக்கவும் என, சிங்களம், ஆங்கிலம் ஆகிய இரண்டுமொழிகளில் மட்டுமே உள்ளன.
+
+...
+
+[Data](articles/3216707a.json)
+
+---
+
+### Person killed by jet engine at Amsterdam airport
+
+*2024-05-30 15:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/99540/person-killed-by-jet-engine-at-amsterdam-airport) · `en`
+
+A person has been killed after ending up in the running jet engine of a KLM passenger plane at Amsterdam’s Schiphol airport.
+
+The death happened as the KL1341 flight was getting ready to fly to Billund, Denmark, on Wednesday afternoon.
+
+The airline said it was taking care of passengers and employees who witnessed the incident and it was investigating.
+
+Netherland’s military police also said it had started an investigation.
+
+Royal Netherlands Marechaussee force added in a post on X that all passengers and employees had been removed from the flight.
+
+The deceased has not yet been identified and it is too early to say whether it was an accident or a form of suicide, a spokesperson told Reuters new agency.
+
+Various Dutch media outlets have suggested the victim could be an employee involved in pushing back an aeroplane before it takes off.
+
+Pictures obtained by Dutch national broadcaster NOS show emergency services surrounding the passenger jet on the airport’s apron - where aircraft are parked.
+
+...
+
+[Data](articles/7ca4f2b9.json)
+
+---
 
 ### Airport worker dies after opening aircraft
 
@@ -77,6 +179,18 @@ Gálvez is facing the candidate of López Obrador’s Morena party, former Mexic
 [Data](articles/81636449.json)
 
 [Extended Data](ext_articles/81636449.ext.json)
+
+---
+
+### தேர்தலைப் பிற்போடும் நகர்வுகளுக்கு ஆணைக்குழு எதிர்ப்பு
+
+*2024-05-30 14:49:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தலைப்-பிற்போடும்-நகர்வுகளுக்கு-ஆணைக்குழு-எதிர்ப்பு/175-338156) · `ta`
+
+எதிர்வரும் ஜனாதிபதி, பாராளுமன்றத் தேர்தல்களைப் பிற்போடும் எவ்வித நகர்வுகளுக்கும் கடுமையான எதிர்ப்பை வெளியிட்டுள்ள தேர்தல் ஆணைக்குழு, தேர்தல்கள் திட்டமிட்டபடி இடம்பெறும் எனத் தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/78907142.json)
 
 ---
 
@@ -168,6 +282,42 @@ While some of them had travelled as mercenaries, the State Minister said that ot
 
 ---
 
+### சுழிபுரத்தில் காணி சுவீகரிப்பு தடுத்து நிறுத்தம்
+
+*2024-05-30 14:22:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுழிபுரத்தில்-காணி-சுவீகரிப்பு-தடுத்து-நிறுத்தம்/175-338154) · `ta`
+
+சுழிபுரம் திருவடிநிலை காட்டுபுலத்தில் கடற்படை முகாமிற்காக மேற்கொள்ளப்படவிருந்த காணி சுவீகரிப்பு மக்கள் பிரதிநிதிகள் மற்றும் பொதுமக்கள், காணி உரிமையாளரின் எதிர்ப்பினையடுத்து  கைவிடப்பட்டது.
+
+சுழிபுரம் காட்டு புலம் பகுதியில் உள்ள 4 பரப்பு தனியார் காணியினை நில அளவை திணைக்களம், கடற்படையினரின் காணி சுவீகரிப்பிற்காக காட்டுபுலத்திற்கு வருகை தந்த நிலையில் தடுத்து நிறுதப்பட்டனர். இந்நிலையில் தாம் திரும்பி செல்வது தொடர்பில்  மேலதிகாரிக்கு அறிவிக்க வேண்டும் எனவும் தெரிவித்தனர்.
+
+இதனையடுத்து இலங்கை தமிழரசு கட்சியின் பாராளுமன்ற உறுப்பினர் சிவஞானம் சிறீதரன் மேலதிகாரியுடன் தொடர்பு கொண்டு பொதுமக்களின் எதிர்ப்பினை தெரிவித்தார். இந்நிலையில் மேலதிகாரியினால் மீள வரும்படியாக உத்தரவிடப்பட்டது.
+
+உரிமையாளர்களின் எதிர்ப்பு கடிதம்   சட்டத்தரணி சுகாசினால் கையளிக்கப்பட்டது. அதனை தொடர்ந்து அவ்விடத்தை விட்டு நில அளவை திணைக்களத்தினர் அகன்று சென்றனர்.
+
+...
+
+[Data](articles/3b0a40f7.json)
+
+---
+
+### எமனாக மாறிய முடி உலர்த்தி
+
+*2024-05-30 14:19:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எமனாக-மாறிய-முடி-உலர்த்தி/175-338153) · `ta`
+
+புத்தளம் சாஹிரா தேசிய பாடசாலையில் இருந்து இம்முறை கல்வி பொதுத்தராதர சாதாரண தரப் பரீட்சை எழுதிய மாணவன் சலீம் மொஹமட் சஹ்ரான் மின்சார தாக்குதலுக்குள்ளாகி வியாழக்கிழமை (30) காலை உயிரிழந்துள்ளார்.
+
+தனது வீட்டில் குளித்து விட்டு முடி உலர்த்தி (hair dryer) மூலம் முடியை உலர வைத்த சந்தர்ப்பத்திலேயே இவர் மின்சார தாக்குதலுக்கு உள்ளாகி புத்தளம் தள வைத்தியசாலையில் அதி தீவிர சிகிச்சை பிரிவில் அனுமதிக்கப்பட்டிருந்தார்.
+
+இவரது மரண விசாரணைகளை மேற்கொண்ட புத்தளம் மற்றும் கல்பிட்டி பிரதேசத்துக்கான திடீர் மரண விசாரணை அதிகாரி பீ.எம்.ஹிசாம், மின்சாரம் தாக்குதலினால் ஏற்பட்ட மரணம் என தீர்ப்பளித்து ஜனாஸாவை குடும்பத்தினரிடம் ஒப்படைத்தார்.
+
+இவரது ஜனாஸா வியாழக்கிழமை(31)  இரவு புத்தளம் பகா பள்ளி மைய வாடியில் நல்லடக்கம் செய்யப்பட்டவுள்ளமை குறிப்பிடத்தக்கது,
+
+◼️
+
+[Data](articles/601a7e1b.json)
+
+---
+
 ### Court of Appeal about Dr. Kapila Wickremanayake's petition
 
 *2024-05-30 14:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197181) · `si`
@@ -213,6 +363,26 @@ He was a legendary film and drama music director who has composed the music for 
 [Data](articles/3c04f312.json)
 
 [Extended Data](ext_articles/3c04f312.ext.json)
+
+---
+
+### බිරිඳ පොරවකින් පහරදීමෙන් සැමියා ජීවිතක්ෂයට
+
+*2024-05-30 13:59:49* · [`adalk`](https://www.ada.lk/breaking_news/බිරිඳ-පොරවකින්-පහරදීමෙන්-සැමියා-ජීවිතක්ෂයට/11-409916) · `si`
+
+මානසික රෝගී තත්ත්වයකට ප්‍රතිකාර ලබමින් සිටි බිරිඳ විසින් ස්වාමිපුරුෂයාට පොරවකින්  පහරදී බර පතල කැපුම් තුවාල සිදු කිරීම හේතුවෙන් ප්‍රතිකාර ලබමින් සිටි එම සැමියා, ඊයේ (29දින) ජීවිතක්ෂයට පත්ව ඇති බව ඉපලෝගම පොලිසිය පවසයි.
+
+මෙලෙස ජීවිතක්ෂයට පත්ව ඇත්තේ ඉපලෝගම, ගන්තිරියාගම ප්‍රදේශයේ පදිංචිව සිටි පුංචි බණ්ඩාගේ උක්කු  බණ්ඩා නැමැති 74 හැවිරිදි පුද්ගලයෙකි.
+
+සිද්ධියට සම්බන්ධ මරණකරුගේ  බිරිඳ වන ඉහත ලිපිනයේ පදිංචි වයස අවුරුදු 59ක කාන්තාවක් අත්අඩංගුවට ගත් බවද පොලිසිය සඳහන් කළේය.
+
+ඉකුත් හය වන දින මරණකරු තම නිවසේ සාලයේ විවෘත කොටසේ බිම නිදා සිටියදී, ඔහුගේ බිරිඳ වන සැකකාරිය  මරණකරුගේ හිසට පොරවකින් පහර දීම හේතුවෙන් කැකිරාව  රෝහලට ඇතුලත් කර වැඩි දුර ප්‍රතිකාර සඳහා අනුරාධපුර ශික්ෂණ රෝහලට ඇතුලත් කර දැඩිසත්කාර ඒකකයේ ප්‍රතිකාර ලබමින් සිටි බව පොලිසිය කියයි.
+
+සුව කිරීමට නොහැකි වීම හේතුවෙන් ඉකුත් 24දා යලි කැකිරාව රෝහල වෙත යොමු කිරීමෙන් පසු, දියණියගේ නිවසට රැගෙන ගොස් සිටියදී පෙරේදා (29 දා) පස්වරු 1.30ට පමණ මෙලෙස ජීවිතක්ෂයට පත් වූ බවද පොලිසිය වැඩි දුරටත් සඳහන් කලේය.
+
+...
+
+[Data](articles/4a43eaa9.json)
 
 ---
 
@@ -533,6 +703,24 @@ Mr. Dissanayake has fallen by 6 percent in parallel to March. However, the benef
 [Data](articles/1262b646.json)
 
 [Extended Data](ext_articles/1262b646.ext.json)
+
+---
+
+### 2027 තෙක් විදේශ ණය නොගෙවා සිටය හැකියි
+
+*2024-05-30 12:52:21* · [`adalk`](https://www.ada.lk/breaking_news/2027-තෙක්-විදේශ-ණය-නොගෙවා-සිටය-හැකියි/11-409912) · `si`
+
+රාජ්‍ය අංශයේ සෑම අංශයකම වැටුප් විෂමතා විසඳීමට කටයුතු කරන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+
+ආර්ථික වශයෙන් වැටී තිබු රට දැන් දෙපයින් නැගිට ඇවිඳීමට පටන් ගත්තා පමණක් බව පෙන්වා දුන් ජනාධිපතිවරයා රටක් ලෙස තවත් බොහෝ දුර යාමට ඇති බවත් ඒ සඳහා වෘත්තීය සමිති ව්‍යාපාරය ද කාලීන වෙනස්කම්වලට බදුන් වෙමින් ඉදිරියට පැමිණිය යුතු බවත් සඳහන් කළේය.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ, දේශබන්දු ලෙස්ලි දේවේන්ද්‍ර මහතාගේ වෘත්තීය දිවියට හැට වසරක් සැපිරීම නිමිත්තෙන් “ලෙස්ලි දේවේන්ද්‍ර සිංහාවලෝකනය” මැයෙන් කොළඹ බණ්ඩාරනායක අනුස්මරණ ජාත්‍යන්තර සම්මන්ත්‍රණ ශාලාවේදී ඊයේ (29) පැවති උත්සවයට එක් වෙමිනි.
+
+රට ඉදිරියට ගෙන යාමේ වැඩපිළිවෙළ වෙනුවෙන් වු සියලු වෘත්තිකයන්ගේ අදහස් සංවාදයට බදුන් කිරීම සඳහා මෙන්ම අනාගතයට ගැළපෙන ශ්‍රමිකයා නිර්මාණය කිරීම වෙනුවෙන් “සේවක කේන්ද්‍රයක්” ඇති කිරීමට කටයුතු කරන බවත් ඒ සඳහා ආණ්ඩුවෙන් වාර්ෂිකව මුදලක් වෙන් කිරීමට පියවර ගන්නා බවත් ජනාධිපතිවරයා මෙහිදී පැවසිය.
+
+...
+
+[Data](articles/d9638000.json)
 
 ---
 
@@ -2097,211 +2285,5 @@ The ban was imposed on a request made by the Colombo Port Police.
 [Data](articles/7efdfb20.json)
 
 [Extended Data](ext_articles/7efdfb20.ext.json)
-
----
-
-### Women's body in a garbage stream of Colombo
-
-*2024-05-30 07:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197170) · `si`
-
-A woman's body, aged 45-50, discovered in Colombo's Grandpass area, her identity unknown. Found yesterday, she's now at the Colombo National Hospital.
-
-🟩
-
-A bodies of a female bodies found in Colombo area in Colombo.
-
-It was found yesterday (29) at the Grandpass area in the Grandpass area.
-
-Her identity has not yet been revealed and the body has been placed at the Colombo National Hospital.
-
-The deceased has been identified as between 45 and 50 years old and about 9 feet.
-
-◼️
-
-[Data](articles/ae0c63f0.json)
-
-[Extended Data](ext_articles/ae0c63f0.ext.json)
-
----
-
-### Sri Lanka monetary policy is not to promote growth: CB Governor
-
-*2024-05-30 07:41:00* · [`economynextcom`](https://economynext.com/sri-lanka-monetary-policy-is-not-to-promote-growth-cb-governor-165386/) · `en`
-
-ECONOMYNEXT – The objective of Sri Lanka’s monetary policy is not to promote growth but provide stability to achieve its growth potential, Central Bank Governor Nandalal Weerasinghe said though it could be a secondary aim.
-
-“The objective of monetary policy is not to promote growth, but to stabilize and facilitate for the country to achieve potential growth, whatever the levels,” Governor Weerasinghe told reporters in Colombo, after keeping rates unchanged.
-
-“A lot of other policies will have to take place to enhance growth in the medium to long term.”
-
-Critics have complained that Sri Lanka’s central bank has in the past tried to push growth by cutting rates by printing money through liquidity tools and denied monetary stability to the people and businesses by trying to close a potential ‘output gap’.
-
-...
-
-[Data](articles/d5607414.json)
-
-[Extended Data](ext_articles/d5607414.ext.json)
-
----
-
-### Fearing legal action globally, Sri Lanka parliament calls to review UN’s evidence gathering
-
-*2024-05-30 07:39:00* · [`economynextcom`](https://economynext.com/fearing-legal-action-globally-sri-lanka-parliament-calls-to-review-uns-evidence-gathering-165387/) · `en`
-
-ECONOMYNEXT – Facing possible legal actions on human rights violations in International Court of Justice (ICJ) and International Criminal Court (ICC), a Sri Lankan parliament panel has called all stakeholders to look into a United Nation’s evidence gathering mechanism against the island nation’s rights abuses under a 2021 UN resolution, a top official said.
-
-The United Nation’s Human Rights Council (UNHRC) passed a resolution in March 2021 that has given mandate for the global body to establish a mechanism to gather evidences outside the country over alleged human rights violations during and after a 26-year war ended in 2009.
-
-...
-
-[Data](articles/2b2bbfc3.json)
-
-[Extended Data](ext_articles/2b2bbfc3.ext.json)
-
----
-
-### Four major national sports federations temporarily suspended
-
-*2024-05-30 07:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/99523/four-major-national-sports-federations-temporarily-suspended) · `en`
-
-A Gazette notification has been issued by the Minister of Sports Harin Fernando suspending the Sri Lanka Cycling Federation, the Sri Lanka Rugby Federation, the Sri Lanka Automobile Federation and the Sri Lanka Netball Federation with effect from Wednesday (29).
-
-The Extraordinary Gazette also appoints the Director General of the Department of Sports Development, Professor (Rear Admiral) Shemal Fernando, as the competent authority only for the limited purpose of holding the elections of office bearers for the said national sports governing bodies.
-
-“The Government maintains that it will not appoint any interim committees for any sport federation,” Sports Minister Harin Fernando said, in a post on ‘X’ (formerly Twitter).
-
-...
-
-[Data](articles/3e85da9c.json)
-
-[Extended Data](ext_articles/3e85da9c.ext.json)
-
----
-
-### Fairly heavy showers, strong winds expected in parts of the island
-
-*2024-05-30 07:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/99522/fairly-heavy-showers-strong-winds-expected-in-parts-of-the-island) · `en`
-
-The prevailing showery and windy conditions over the island are expected to continue further, due to the active Southwest Monsoonal condition, according to the Meteorology Department.
-
-Showers will occur at times in Western, Sabaragamuwa, Central and Southern provinces while several spells of showers will occur in North-western province.
-
-Fairly heavy showers above 75 mm are likely at some places in Western and Sabaragamuwa province and in Nuwara-Eliya district.
-
-Showers or thundershowers will occur at a few places in Uva province and in Ampara and Batticaloa districts in the evening or night, it said.
-
-Strong winds of about 50-60 kmph can be expected at times over Western slopes of the central hills and in North-central, Western, Southern and North-western provinces and in Trincomalee and Monaragala districts.
-
-The sea areas around the island will be rough or very rough due to the active south-west monsoonal condition.
-
-...
-
-[Data](articles/2fcc58ef.json)
-
-[Extended Data](ext_articles/2fcc58ef.ext.json)
-
----
-
-### Four sports associations temporarily suspended
-
-*2024-05-30 06:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197169) · `si`
-
-The Ministry of Sports and Youth Affairs in Sri Lanka has temporarily suspended the registrations of four National Sports Associations: the Cycling Federation, Rugby Union, Motor Conference, and Netball Federation. The Director General of the Department of Sports Development will oversee this process.
-
-🟩
-
-The Ministry of Sports and Youth Affairs has taken steps to temporarily suspend the registration of 4 National Sports Association conferences.
-
-The Registration of the Sri Lanka Cycling Federation, Rugby Union, Motor Conference and Netball Federation Association and Federations have been suspended.
-
-The Director General of the Department of Sports Development has been appointed as the Protection Authority to carry out the relevant associations and conferences.
-
-◼️
-
-[Data](articles/7ad0e4bf.json)
-
-[Extended Data](ext_articles/7ad0e4bf.ext.json)
-
----
-
-### The influence of southwest monsoon further
-
-*2024-05-30 06:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197167) · `si`
-
-The Department of Meteorology reports that the island's rainfall and wind conditions have improved due to the active southwest monsoon, affecting various provinces with showers and potential heavy rains.
-
-🟩
-
-The Department of Meteorology says that the existing rain and wind quality of the island have further supported due to active southwest monsoon.
-
-The latest weather relent was issued today (30).
-
-As a result, showers will occur at times in the Western, Sabaragamuwa, Central and Southern provinces. Showers will occur in the North Western Province.
-
-In some places in the Western and Sabaragamuwa Province, MM. Heavy rains experience more than 75.
-
-Showers or thundershowers will occur in the Uva Province and in the Ampara and Batticaloa districts, or at night.
-
-At times, the North Central, West, Western, Southern and Northwestern provinces are held in Trincomalee and North Western Provinces and in Trincomalee and Moneragala Districts.. (50-60) can cause strong winds.
-
-◼️
-
-[Data](articles/cd5808d8.json)
-
-[Extended Data](ext_articles/cd5808d8.ext.json)
-
----
-
-### Vietnam example: Communist factor in JVP-NPP mix could prove constructive
-
-*2024-05-30 04:59:56* · [`dailyftlk`](https://www.ft.lk/columns/Vietnam-example-Communist-factor-in-JVP-NPP-mix-could-prove-constructive/4-762354) · `en`
-
-“First as tragedy, then as farce”. Marx’s legendary riff on Hegel springs to mind when forecasting the political future of Sarvajana Balaya, the rebranded bloc of Islamophobic ultranationalists from the Zombieland of the Gotabaya Presidency and old Leftists.
-
-I expect it to be extinguished through Sarvajana Chanda Balaya (universal franchise) at the forthcoming Parliamentary election just as the SLFP’s allies were in 1977. Its rancid ultranationalism is anathema to the youth of the Aragalaya generation and while its old personalities and discourse will give ex-MR voters someone to punish, for the painful Gotabaya fiasco.
-
-For the CPSL and Vasu’s DLF there will be no coming back from this last cruise on the Titanic. Criticising the JVP-NPP is fine but doing so in alliance with and on the same platform as three notorious political purveyors of dangerous Islamophobia (Muslim birth-rates, Dr. Shafi, etc.) is morally grotesque and ethically disgusting.
-
-...
-
-[Data](articles/464200c7.json)
-
-[Extended Data](ext_articles/464200c7.ext.json)
-
----
-
-### Yukthiya anti-drug operation: Separating fact from fiction
-
-*2024-05-30 04:52:20* · [`dailyftlk`](https://www.ft.lk/columns/Yukthiya-anti-drug-operation-Separating-fact-from-fiction/4-762353) · `en`
-
-The impact of the operation on respect for the rule of law and the protection of human rights has been adverse
-
-Minister Alles and Deshabandu Tennakoon, the Inspector General of Police (IGP), have repeatedly proclaimed the success of Yukthiya (means justice in Sinhala), the anti-drug operation they launched in December 2023. The facts say otherwise.
-
-As of 22 May 2024, 113,974 persons have been arrested as part of Yukthiya, with the majority of such persons released soon after arrest either after being fined or on bail. Releasing most arrested persons within a few hours of arrest demonstrates that the intent is to create the illusion of effective government action to address drug trafficking by showing a high number of arrests. However, most of the arrested persons are drug users, many of whom are drug dependent, and not drug traffickers.
-
-...
-
-[Data](articles/31f1c3cc.json)
-
-[Extended Data](ext_articles/31f1c3cc.ext.json)
-
----
-
-### How transparency and competitive bidding could have averted VFS visa fiasco
-
-*2024-05-30 04:46:09* · [`dailyftlk`](https://www.ft.lk/columns/How-transparency-and-competitive-bidding-could-have-averted-VFS-visa-fiasco/4-762351) · `en`
-
-The recent outrage over the outsourcing of Sri Lanka›s visa issuance to VFS Global stemmed from two controversies: 1) the secretive selection process of VFS Global without broader consultation and 2) neglecting value for money by not considering alternatives.
-
-Addressing two key gaps in Sri Lanka›s public procurement system could have prevented the uproar: 1) lack of transparency and 2) excessive reliance on cabinet discretion over competitive bidding.
-
-The first point of contention is the secrecy and lack of consultation surrounding the decision to grant VFS Global the contract. The public, and even the Parliament, learned crucial details about the terms and conditions of the handover—such as service fees, investment and contract duration—only through ad-hoc statements by the authorities after VFS Global began operations. This, too, was in response to the backlash following a viral video criticising VFS Global›s management.
-
-...
-
-[Data](articles/09772d46.json)
-
-[Extended Data](ext_articles/09772d46.ext.json)
 
 ---

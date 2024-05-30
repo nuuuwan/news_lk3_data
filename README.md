@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-30 16:34:13**
+As of **2024-05-30 16:50:36**
 
 ## Newspaper Stats
 
-*Scraped **27,336** Articles*
+*Scraped **27,337** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ adaderanalk | 3,115
 tamilmirrorlk | 3,210
 virakesarilk | 4,210
 dailymirrorlk | 4,322
-adaderanasinhalalk | 4,368
+adaderanasinhalalk | 4,369
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,334 (100.0%) of 27,336 articles have been extended.
+27,336 (100.0%) of 27,337 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-30 (Thursday)
+
+### කාලගුණවිද්‍යා දෙපාර්තමේන්තුවෙන් රතු නිවේදනයක්
+
+*2024-05-30 16:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197185) · `si`
+
+කාලගුණවිද්‍යා දෙපාර්තමේන්තුව විසින් තද සුළං සහ මුහුදු රළුවීම පිළිබඳව අනතුරු ඇගවීමේ රතු නිවේදනයක් නිකුත් කර තිබේ.
+
+අරාබි මුහුද සහ බෙංගාල බොක්ක ආශ්‍රිත මුහුදු ප්‍රදේශවල ක්‍රියාකරන ධීවර සහ නාවික ප්‍රජාව සඳහා මෙම නිවේදනය නිකුත් කර ඇත.
+
+පවතින සක්‍රීය නිරිතදිග මෝසම් කාලගුණය නිසා දිවයින වටාවන මුහුදු ප්‍රදේශවලත් නිරිතදිග සහ ගිනිකොණදිග ආරබි මුහුදු ප්‍රදේශවලත් නිරිතදිග බෙංගාල බොක්ක මුහුදු ප්‍රදේශවලත් තවදුරටත් ඉතා තද සුළං (පැ.කි.මී . 60-70) , සමගින් තද වැසි පැවතිය හැකි අතර මුහුදු ප්‍රදේශ ඉතා රළු විය හැකි බව වැඩිදුරටත් දැනුම්දී තිබේ.
+
+◼️
+
+[Data](articles/39ed426e.json)
+
+---
 
 ### The Indians who ended with Katunayake
 
@@ -69,6 +85,8 @@ Meanwhile, the Ambassador of Russia to Sri Lanka, Mr. Levan Dzhagaryan underscor
 ...
 
 [Data](articles/f053c0d2.json)
+
+[Extended Data](ext_articles/f053c0d2.ext.json)
 
 ---
 
@@ -1124,21 +1142,27 @@ The petition has been presented against former President Maithripala Sirisena, w
 
 ---
 
-### තායිලන්තයේ සංචාරයට යන ලාංකිකයන්ටත් නිදහස් විසා
+### Free Sri Lankans traveling in Thailand
 
 *2024-05-30 12:46:14* · [`adalk`](https://www.ada.lk/breaking_news/තායිලන්තයේ-සංචාරයට-යන-ලාංකිකයන්ටත්-නිදහස්-විසා/11-409911) · `si`
 
-ලංකාව ඇතුළු රටවල් 36කින් තායිලන්තයේ සංචාරයට පැමි‍ණෙන සංචාරකයන් වෙනුවෙන් නිදහස් වීසා ලබාදිමට තායිලන්ත රජය ත‍ීරණය කර ති‍බේ. තායිලන්තය වෙනුවෙන් වැඩි සංචාරකයින් පිරිසක් ආකර්ෂණය කර ගැනීම අරමුණු කර ගනිමින් එරට කැබිනට් මණ්ඩලය පසුගිය දා මෙම තීරණය ගෙන තිබේ.
+Thailand offers free visas to tourists from 36 countries, including Sri Lanka, starting June 24, 2024, aiming to boost tourism.
 
-ඒ අනුව එරට සංචාරක අමාත්‍යාංශය විසින් සිදුකළ යෝජනාවකට අනුමැතිය ලබා දෙමින් මෙතෙක් තායිලන්තයට ඇතුල් වීම සඳහා visa-free ප්‍රවේශ පහසුකම ලබා දී තිබුණු රටවල් සංඛ්‍යාව 57 සිට 93 ක් දක්වා වැඩි කිරීමට අනුමැතිය හිමිව ඇත.
+🟩
 
-ලංකාවට අම්‍තරව ඇල්බේනියාව, කාම්බෝජය, චීනය, ඉන්දියාව, ජැමෙයිකා, කසකස්තානය, ලාඕසය, මෙක්සිකෝව, මොරොක්කෝව, පැනමාව සහ රුමේනියාව නව පහසුකම  ලැබී තිබේ.
+The Government of Thailand has decided to offer free visas for tourists in 36 countries including Sri Lanka. The Cabinet of Cabinet recently has taken this decision to attract more tourists for Thailand.
 
-තායිලන්තයේ මෙම නව වීසා ප්‍රතිපත්තිය 2024 ජූනි 24 දින සිට බලපැවැත්වෙනු ඇත.
+Accordingly, approval has been approved to increase the VISA-Free Accessibility to Thailand to enter Thailand, approval to enter Thailand.
+
+For Sri Lanka has received Amman Albania, Cambodia, China, India, Jamaika, Laos, Mexico, Laos, Mexico, Panama and Romania.
+
+This new visa policy of Thailand will be effective from June 24, 2024.
 
 ◼️
 
 [Data](articles/d15dea74.json)
+
+[Extended Data](ext_articles/d15dea74.ext.json)
 
 ---
 
@@ -2301,39 +2325,5 @@ Mr. Lal Kanthe said this after the media was held in the face of a vehicles stic
 [Data](articles/85005175.json)
 
 [Extended Data](ext_articles/85005175.ext.json)
-
----
-
-### 50 daily deaths due to smoking
-
-*2024-05-30 09:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197173) · `si`
-
-Despite a decrease in cigarette use, especially among youth, smoking remains a significant health risk, causing around 20,000 deaths annually. The Alcohol and Drugs Information Center highlights the impact of smoking, while also noting a reduction in cigarette production and usage. Efforts to combat smoking continue, with interventions targeting both adults and minors.
-
-🟩
-
-Alcohol and Drugs Information Center (DMC) says that alcohol is killed daily due to the use of smoking.
-
-The center shows that about 20,000 people die from smoking per year.
-
-Alcohol and Drugs Medium (DMC) is said to be a statement regarding the World Cigarettes Prevention Day (31).
-
-The theme is the theme of the world cigarettes this year with the intervention of tobacco industry.
-
-The use of cigarettes of cigarettes has decreased by 9.1 percent and the use of smoking is diminished by young people.
-
-According to tobacco Company reports, cigarettes production has fallen by 19 percent in the past year.
-
-The alcohol and the drug information states that the use of cigarettes of cigarettes is decreasing in Sri Lanka.
-
-In the face of the present situation, youths and children are launching a number of muslim companies to use cigarettes.
-
-Meanwhile, Dr. Chandana de Silva, Specialist Dr. Chandana de Silva, said that addiction to the use of cigarettes among school children is increasing.
-
-◼️
-
-[Data](articles/a300afda.json)
-
-[Extended Data](ext_articles/a300afda.ext.json)
 
 ---

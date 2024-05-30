@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-30 23:03:52**
+As of **2024-05-30 23:18:48**
 
 ## Newspaper Stats
 
-*Scraped **27,397** Articles*
+*Scraped **27,398** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,477
 economynextcom | 1,567
 dailyftlk | 1,601
-adalk | 2,338
+adalk | 2,339
 adaderanalk | 3,122
 tamilmirrorlk | 3,214
 virakesarilk | 4,224
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,379
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,392 (100.0%) of 27,397 articles have been extended.
+27,397 (100.0%) of 27,398 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,6 +48,8 @@ The Economic Transformation Bill aims to increase productivity and ensure equal 
 
 [Data](articles/385f325c.json)
 
+[Extended Data](ext_articles/385f325c.ext.json)
+
 ---
 
 ### Thailand recognized Sri Lankan tourists
@@ -68,19 +70,25 @@ External Affairs Minister Ali Sabri said that tourists from 36 other countries, 
 
 ---
 
-### விகாரை புனரமைப்புக்காக திலீபன் எம்.பியால் நிதி ஒதுக்கீடு
+### Dileepan MP fund allocation for the reconstruction of Vihara
 
 *2024-05-30 22:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/184909) · `ta`
 
-வவுனியாவின் எல்லைப் பகுதிகளில் உருவாக்கப்பட்ட சிங்கள குடியேற்ற கிராமங்களுக்கு வன்னிப் பாராளுமன்ற உறுப்பினர் குலசிங்கம் திலீபன் அவர்களால் பல்வேறு அபிவிருத்தி பணிகள் ஆரம்பித்து வைக்கப்பட்டது.
+Wanni Parliamentarian Kulasingham Dileepan has initiated development projects in Sinhala settlements near Vavuniya, allocating 10 lakh rupees for Vihara reconstruction in Nandimitrakama and 19 lakh rupees for Gambillivewa Sinhalese settlement development.
 
-அந்தவகையில் நந்திமித்திரகம கிராமத்தில் அமைந்துள்ள விகாரைக்கு அபிவிருத்தி பணிகளை மேற்கொள்வதற்காக 10 இலட்சம் ரூபாய் நிதி ஒதுக்கப்பட்டுள்ளதுடன், அங்கு புதிதாக அமைக்கப்படவுள்ள கட்டடம் ஒன்றுக்கு பாராளுமன்ற உறுப்பினரால் அடிக்கல் நாட்டி வைக்கப்பட்டது.
+🟩
 
-அத்துடன், அதற்கு அண்மையில் உள்ள கம்பிலிவெவ சிங்கள குடியேற்றப் பகுதிக்கும் பல்வேறு அபிவிருத்தி பணிகளுக்காக 19 இலட்சம் ரூபாய் நிதி ஒதுக்கீடு அவரால் செய்யப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+Various development work has been started by Wanni Parliamentarian Kulasingham Dileepan to the Sinhala settlement villages created in the border areas of Vavuniya.
+
+10 lakhs of rupees have been allocated to carry out the development work of the Vihara in the village of Nandimitrakama, where the newly constructed building was laid by a Member of Parliament.
+
+It is also worth noting that he has allocated a sum of Rs 19 lakhs for various development work for the recent Gambillivewa Sinhalese settlement.
 
 ◼️
 
 [Data](articles/4c02fc68.json)
+
+[Extended Data](ext_articles/4c02fc68.ext.json)
 
 ---
 
@@ -192,39 +200,55 @@ Adviser Ashu Marasinghe stressed that the former only talked of an available opt
 
 ---
 
-### இறுதிப் போரில் குழந்தைகளை கொலை செய்தனர்: அப்போது இரக்கம் வரவில்லையா என வவுனியா மாவட்ட வலிந்து காணாமல் ஆக்கப்பட்டோரின் உறவுகள் கேள்வி
+### Killing children in the final war
 
 *2024-05-30 21:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/184908) · `ta`
 
-காசா சிறுவர்களுக்காக நிதி வழங்கும் அரசாங்கத்திற்கு இறுதிப்போரில் தமிழ் குழந்தைகள் கொலை செய்யப்படும் போது இரக்கம் வரவில்லையா என வவுனியா மாவட்ட வலிந்து காணாமல் ஆக்கப்பட்ட உறவுகள் கேள்வி எழுப்பியுள்ளனர்.
+In Vavuniya, a protest questioned the lack of mercy shown towards Tamil children killed in the final war, comparing it to the treatment of Gaza Children. The Vavuniya District Missing Relations Association demanded international justice amidst state repression. Economic struggles led to another country being considered for aid, potentially a political maneuver to gain support, while the allocation for Gaza Children was criticized for lacking compassion.
 
-வவுனியா மாவட்ட வலிந்து காணாமல் ஆக்கப்பட்ட உறவுகளின் சங்கத்தினரால் வவுனியா பழையபேருந்து நிலையத்திற்கு முன்பாக 30 ஆம் திகதி வியாழக்கிழமை ஆர்பாட்டம் ஒன்று முன்னெடுக்கப்பட்டது.
+🟩
 
-குறித்த ஆர்பாட்டத்தின் பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கும் போதே அவர்கள் இவ்வாறு தெரிவித்தனர். தொடர்ந்து கருத்து தெரிவித்த அவர்கள்,
+The Vavuniya district has questioned whether the Tamil children are not merciful when the killing of Tamil children in the final war for the Gaza Children.
 
-சர்வதேச நீதியினைக் கோரி நாம் தொடர்ச்சியான போராட்டங்களை முன்னெடுத்து வருகின்றோம். எமது போராட்டங்களை தடுக்கும் விதத்தில் பல்வேறு அடக்குமுறைகள் இந்த அரசால் பிரயோகிக்கப்பட்டு வருகின்றது. இருப்பினும் நாம் நீதிக்கான எமது போராட்டங்களில் தொடர்ச்சியாக பயணிப்போம்.
+A demonstration was held on Thursday 30th in front of the Vavuniya Old Bus Stand by the Vavuniya District Missing Relations Association.
 
-...
+They said this while speaking to the media after the demonstration. They continued to comment,
+
+We are carrying out a series of struggles demanding international justice. Various repression is being used by this state to prevent our struggles. However, we will continue to travel in our struggles for justice.
+
+Meanwhile. Another country is being donated as the economy of this country has fallen. This can be seen as a political move to multiply their support.
+
+Currently allocate for Gaza Children. They questioned whether they had no compassion.
+
+◼️
 
 [Data](articles/367c3cb0.json)
 
+[Extended Data](ext_articles/367c3cb0.ext.json)
+
 ---
 
-### படையினருக்கான காணி அளவீடுகளை உடனடியாக நிறுத்தவும் - அமைச்சர் டக்ளஸ்
+### Immediately stop land measurements for soldiers - Minister Douglas
 
 *2024-05-30 20:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/184907) · `ta`
 
-படைத் தரப்பினருக்காகக் காணிகளைச் சுவீகரிக்கும்  நோக்காலான அனைத்து காணி அளவீடுகளையும் தற்காலிகமாக நிறுத்துமாறு யாழ் மாவட்ட ஒருங்கிணைப்புக் குழுவின் தலைவர் அமைச்சர் டக்ளஸ் தேவானந்தாவினால் அறிவுறுத்தப்பட்டுள்ளது.
+Minister Douglas Devananda halted army land acquisition projects in Jaffna, citing concerns over limestone mining and unauthorized trade. He also addressed issues related to legal work for the navy and criticized the distribution of special funds among MPs. The meeting focused on stopping limestone transport until proper permissions are granted and ensuring funds support community development equitably.
 
-யாழ் மாவட்ட செயலகத்தில் 30 ஆம் திகதி வியாழக்கிழமை நடைபெற்ற மாவட்ட அபிவிருத்தி ஒருங்கிணைப்புக் குழுக் கூட்டத்திலேயே அமைச்சரினால் சம்மந்தப்பட்ட அதிகாரிகளுக்குக் குறித்த அறிவுறுத்தல் வழங்கப்பட்டது.
+🟩
 
-ஒருங்கிணைப்புக் குழுவின் தலைவர் அமைச்சர் டக்ளஸ் தேவானந்தா மற்றும் இணைத் தலைவர் பி.எம்.எஸ் சாள்ஸ் ஆகியோர் தலைமையில் இடம்பெற்ற இன்றைய கூட்டத்தில்,
+Jaffna District Coordinating Committee Chairman Minister Douglas Devananda has been instructed to suspend all land measurements aimed at acquiring land for the army.
 
-ஒருங்கிணைப்புக் குழுவின் அனுமதிக்காகச் சமர்ப்பிக்கப்பட்ட   உள்ளூராட்சி மன்றங்களினால் முன்னெடுக்கப்படும் வேலைத் திட்டம் தொடர்பாகவும், கடந்த கூட்டத்தில் மேற்கொள்ளப்பட்ட தீர்மானங்களின் முனனேற்றங்கள் தொடர்பாகவும் ஆராயப்பட்டன.
+The instructions were given to the officials involved by the Minister at the District Development Coordinating Committee meeting held at the Jaffna District Secretariat on Thursday 30th.
+
+At today's meeting chaired by Minister of Coordinating Committee Minister Douglas Devananda and Joint Chairman PMS Charles
+
+The work plan carried out by the local bodies submitted for the approval of the Coordinating Committee was investigated and the missions of the resolutions made at the last meeting.
 
 ...
 
 [Data](articles/65300041.json)
+
+[Extended Data](ext_articles/65300041.ext.json)
 
 ---
 
@@ -381,6 +405,20 @@ Prison officials are currently conducting a search operation to apprehend the es
 [Data](articles/5b83d021.json)
 
 [Extended Data](ext_articles/5b83d021.ext.json)
+
+---
+
+### මෛත්‍රීපාලට නොතීසි
+
+*2024-05-30 18:59:08* · [`adalk`](https://www.ada.lk/breaking_news/මෛත්‍රීපාලට-නොතීසි/11-409930) · `si`
+
+ශ්‍රී ලංකා නිදහස් පක්ෂයේ සභාපතිවරයා වශයෙන් හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා කටයුතු කිරීම වළකාලමින් කොළඹ දිසා අධිකරණයෙන් නියෝගයක් නිකුත් කර තිබියදීත් ඒ මහතා එම ධුරයේ කටයුතු කිරීමෙන් අධිකරණයට අපහාසයක් කළ බව සඳහන් කරමින් මොන්ටේගු සරත්චන්ද්‍ර  මහතා ගොනු කර ඇති පෙත්සම සම්බන්ධයෙන් ජූලි 10 වැනිදා අධිකරණයේ පෙනී සිට කරුණු පැහැදිලි කරන ලෙස මෛත්‍රීපාල සිරිසේන මහතාට නියම කරමින් අභියාචනාධිකරණය අද (30දා) නොතීසි නිකුත් කළේය.
+
+පෙත්සම සම්බන්ධයෙන් ඉදිරිපත් වූ කරුණු සලකා බැලීමෙන් අනතුරුව එලෙස නොතීසි නිකුත් කළ අභියාචනාධිකරණය අදාළ නොතීසිය මෛත්‍රීපාල සිරිසේන මහතාට බාර දෙන ලෙස පෙත්සම්කරුගේ නීතිඥවරයාට නියම කළේය.අභියාචනාධිකරණයේ සභාපති විනිසුරු නිශ්ශංක බන්දුල කරුණාරත්න සහ ශෂී මහේන්ද්‍ර යන මහත්වරුන්ගෙන් සැදුම්ලත් අභියාචනාධිකරණ විනිසුරු මඩුල්ලක් හමුවේ මෙම පෙත්සම සලකා බැලිණ.ශ්‍රි ලංකා නිදහස් පක්ෂයේ විධායක සභිකයකු වන මොන්ටේගු සරත්චන්ද්‍ර  මහතා ගොනු කර ඇති මෙම පෙත්සමේ වගඋත්තරකරු වශයෙන් ශ්‍රී ලංකා නිදහස් පක්ෂයේ හිටපු සභාපති, ජනාධිපති මෛත්‍රිපාල සිරිසේන මහතා නම් කර ඇත.
+
+...
+
+[Data](articles/b595ec32.json)
 
 ---
 
@@ -814,21 +852,29 @@ Foreign Minister Ali Sabry said that “Sri Lanka has started trade negotiations
 
 ---
 
-### விமர்சனங்களுக்கு திங்கட்கிழமை பதிலளிப்பேன் :  ரங்கே பண்டார
+### Monday will respond to reviews: Range Bandara
 
 *2024-05-30 17:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/184876) · `ta`
 
-தேர்தல்களை இரண்டு வருடங்களுக்கு ஒத்திவைக்க வேண்டும் என்ற எனது கருத்து தொடர்பில் தற்போது எழுந்திருக்கும் விமர்சனங்களுக்கு திங்கட்கிழமை பதிலளிப்பேன் என ஐக்கிய தேசிய கட்சியின் பொதுச் செயலாளர் பாலித்த ரங்கே பண்டார தெரிவித்தார்.
+Palitha Range Bandara, UNP General Secretary, plans to address criticisms about his stance on delaying elections by two years. This comes after a press conference where several allegations were made against the party. He promises to respond to all queries and concerns during a press conference next Monday.
 
-ஐக்கிய தேசிய கட்சி தலைமையகமான சிறிகொத்தவில் வியாழக்கிழமை (30) இடம்பெற்ற செய்தியாளர் சந்திப்பில் கலந்துகொண்டு இது தொடர்பான அறிவிப்பை முன்வைத்தார்.
+🟩
 
-நாட்டின் பொருளாதாரத்தை ஸ்திர நிலைக்கு கொண்டு வர தற்போதுள்ள நிலையில் பாராளுமன்ற தேர்தல், ஜனாதிபதி தேர்தல் ஆகிய இரண்டு தேர்தல்களையும் இரண்டு வருடங்களுக்கு பிற்போடுவது நல்லது. அது தொடர்பான பிரேரணை ஒன்றை எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச கொண்டுவருமானால் அது மிகவும் பொருத்தம் என தெரிவித்திருந்தேன்.
+United National Party General Secretary Palitha Range Bandara said that he will respond to the criticism that will now arise on my opinion on the postponement of the elections for two years.
 
-ஐக்கிய தேசிய கட்சி தலைமையகத்தில் கடந்த செவ்வாய்க்கிழமை இடம்பெற்ற செய்தியானர் சந்திப்பில் இந்த யோசனையை தெரிவித்த பின்னர் அதற்கு எதிராக பல்வேறு தரப்பினர் பல்வேறு குற்றச்சாட்டுக்களை தெரிவித்க்க ஆரம்பித்தனர். எமது கட்சி அலுவலகத்துக்கு முன்னால் சுமார் 7பேர் வரை வந்து பாரிய ஆர்ப்பாட்டம் ஒன்றையும் நடத்தி இருந்தனர்.
+The United National Party headquarters, Sirikotha, participated in a press conference held on Thursday (30).
 
-...
+With the country's economy to stabilize. I have stated that if the opposition leader Sajith Premadasa comes up with a proposal.
+
+At a press conference held at the United National Party (UNP) headquarters last Tuesday, various parties began making various allegations against it.. About 7 people came in front of our party office and held a massive demonstration.
+
+So if I will hold a press conference next Monday for all these issues, reviews and questions.
+
+◼️
 
 [Data](articles/49bddbdd.json)
+
+[Extended Data](ext_articles/49bddbdd.ext.json)
 
 ---
 
@@ -2271,33 +2317,5 @@ The driver of the 29-year-old driver has been arrested by the police.
 [Data](articles/590aa7c7.json)
 
 [Extended Data](ext_articles/590aa7c7.ext.json)
-
----
-
-### UN event to pay tribute to Iran's president - Australia resolution to boycott US
-
-*2024-05-30 13:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/184859) · `ta`
-
-Australia plans to boycott the UN General Assembly tribute to Iran's President Raisi, citing his human rights abuses. The move follows reports that Australia will also skip the US tribute to Raisi. The decision is backed by claims of Raisi's involvement in mass killings during Iran's 1988 prison massacres, with critics labeling him "Tehran's butcher."
-
-🟩
-
-Australia will boycott Ibrahim Raisi's tribute to the United Nations General Assembly.
-
-According to reports, Australia will also boycott the Iranian president's tribute to the US.
-
-The Guardian said it was sure that no Australian representatives would attend the United Nations General Assembly.
-
-The Australian government has the moral duty to boycott the UN's today's event, which is a tribute to the many Iranians as Tehran's butcher, said the Liberal Party's Glyrey Sandler.
-
-Australia should be supported by the innocent civilians under the Raisi government, so many of the victims are women.
-
-US officials, who have said that Ibrahim Raisi is the worst human rights violations in Iran, have killed thousands of prisoners in 1988, they said they would boycott the tribute event.
-
-◼️
-
-[Data](articles/eee41a1b.json)
-
-[Extended Data](ext_articles/eee41a1b.ext.json)
 
 ---

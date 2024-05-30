@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-30 21:18:57**
+As of **2024-05-30 21:34:27**
 
 ## Newspaper Stats
 
-*Scraped **27,383** Articles*
+*Scraped **27,384** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,34 @@ adalk | 2,336
 adaderanalk | 3,120
 tamilmirrorlk | 3,212
 virakesarilk | 4,220
-dailymirrorlk | 4,327
+dailymirrorlk | 4,328
 adaderanasinhalalk | 4,378
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,383 (100.0%) of 27,383 articles have been extended.
+27,383 (100.0%) of 27,384 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-30 (Thursday)
+
+### Extending term of President and P’ment is an option- Presidential Adviser
+
+*2024-05-30 21:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Extending-term-of-President-and-Pment-is-an-option-Presidential-Adviser/108-283723) · `en`
+
+Colombo, May 30 (Daily Mirror) -  Whilst United National Party (UNP) General Secretary Palitha Range Bandara said he will explain his proposal of extending the terms of the President and Parliament on Monday, Presidential
+
+Adviser Ashu Marasinghe stressed that the former only talked of an available option to ensure the nation’s stability. These remarks are made despite criticism against the postponement of elections and assurances by both President and the Prime Minister that presidential elections would be held this year
+
+“Many including the opposition and media have misunderstood what Range Bandara came out with. He only talked of an available option to ensure stability and a bright future for the nation. It is possible to extend the term of President and Parliament. It can be done after seeking an interpretation from the judiciary,” Marasinghe told a briefing.
+
+...
+
+[Data](articles/019640c4.json)
+
+---
 
 ### Engage primary kids more in extra-curricular activities than academics: Minister
 
@@ -2311,29 +2327,5 @@ At the same time, there is a shortage of river banks in the area.
 [Data](articles/21989a82.json)
 
 [Extended Data](ext_articles/21989a82.ext.json)
-
----
-
-### Purpose the Public Health Inspector who went to test a restaurant
-
-*2024-05-30 12:19:12* · [`adalk`](https://www.ada.lk/breaking_news/ආපනශාලාවක්-පරීක්ෂා-කිරීමට-ගිය-මහජන-සෞඛ්‍ය-පරීක්ෂකවරයාට-පන්න-පන්න-පහර-දෙයි/11-409910) · `si`
-
-A public health inspector in Matale was assaulted by a restaurant owner during an inspection, leading to hospitalization. The incident is under investigation by local authorities.
-
-🟩
-
-A public health inspector who visited a cafeteria in Matale in Matale is receiving treatment at the Matale District General Hospital, police said.
-
-The incident was carried out by the Public Health Inspectors in Matale Municipal Large yesterday, and the owner of the shop was attacked by the owner, and crashed into his duties while checking the cafeteria in Gampanda.The ninety-nine has gone to the Matale General Hospital and residential treatment.
-
-Restaurant owner has lodged a complaint by the restaurant owner by the restaurant owner, as the resident owner was invited by the candidate of the candidate while he was inspected by the public health inspector.Are filed.
-
-Investigating the Matale Municipal Commissioner Nishantha Maduage, he stated that the Matale Senior Superintendent of Police has applied for a fair investigation into the incident.
-
-◼️
-
-[Data](articles/4c6b5579.json)
-
-[Extended Data](ext_articles/4c6b5579.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-30 09:34:16**
+As of **2024-05-30 09:53:50**
 
 ## Newspaper Stats
 
-*Scraped **27,215** Articles*
+*Scraped **27,224** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,100 @@ economynextcom | 1,556
 dailyftlk | 1,601
 adalk | 2,312
 adaderanalk | 3,098
-tamilmirrorlk | 3,191
+tamilmirrorlk | 3,193
 virakesarilk | 4,186
-dailymirrorlk | 4,297
-adaderanasinhalalk | 4,355
+dailymirrorlk | 4,303
+adaderanasinhalalk | 4,356
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,215 (100.0%) of 27,215 articles have been extended.
+27,215 (100.0%) of 27,224 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-30 (Thursday)
+
+### Cannes සම්මාන උළලේදී ශ්‍රී ලංකාවේ ශේෂ ඇගයීමට ලක්වෙයි
+
+*2024-05-30 09:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197172) · `si`
+
+ශ්‍රී ලංකාවේ සිනමා පටයක් වන "ශේෂ" 2024 ලෝක "Cannes" සම්මාන උළලේදී BEST DANCE FILM අංශයේ සම්මානය දිනගෙන තිබේ.
+
+හෙළයාගේ අස්පර්ශ මූලාශ්‍රය ලෙසින් හඳුන්වා දුන් "ශේෂ" සිනමා පටය ඉසුරු ගුණතිලකගේ නිර්මාණයකි.
+
+ප්‍රවීණ නර්තන ශිල්පී චන්දන වික්‍රමසිංහ විසින් එහි ප්‍රධාන චරිතය නිරූපණය කරයි.
+
+◼️
+
+[Data](articles/2f4b9d45.json)
+
+---
+
+### Nun arrested for assaulting girls at Kayts hostel
+
+*2024-05-30 08:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Nun-arrested-for-assaulting-girls-at-Kayts-hostel/108-283664) · `en`
+
+Jaffna, May 30 (Daily Mirror) - A 52-year-old nun from a hostel in Kayts has been arrested on charges of assaulting a group of girls residing at the hostel.
+
+The arrest came following a complaint filed by the girls with the Kayts Police on Tuesday.
+
+The girls alleged that the nun had assaulted them repeatedly without any justification. Some of the girls managed to escape from the hostel and reported the incidents to the police.
+
+Upon investigation, Police discovered that 11 girls, aged between 13 and 19, were living at the hostel. The girls were found to have sustained minor injuries due to the assaults.
+
+Accordingly, the nun was arrested and presented before the Kayts Magistrate's Court on Tuesday.
+
+She was remanded till Wednesday (29) but was later granted bail.
+
+Police have referred the girls to the Judicial Medical Officer (JMO) for examination. The Magistrate has ordered that the girls be transferred to a children's home in Thiranaveli.
+
+...
+
+[Data](articles/10bbf75a.json)
+
+---
+
+### Thailand approves visa-free travel for Sri Lankan tourists
+
+*2024-05-30 08:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Thailand-approves-visa-free-travel-for-Sri-Lankan-tourists/155-283663) · `en`
+
+Colombo, May 30 (Daily Mirror) - Thailand’s cabinet approved a range of visa promotions to attract more tourists from other countries, including Sri Lanka, Foreign Affairs Minister M.U.M. Ali Sabry said.
+
+He said these measures include visa-free and visa-on-arrival schemes, longer stays for students, and reduced compulsory health insurance for retirees.
+
+According to him, Sri Lankan tourists, along with visitors from 36 other countries including Albania, Cambodia, China, India, Jamaica, Kazakhstan, Laos, Mexico, Morocco, Panama, Romania, Sri Lanka and Uzbekistan can now enter Thailand without a visa and stay for up to 60 days.
+
+However, according to Thai government spokesman Chai Wacharonke, this expansion increases the number of countries eligible for visa-free entry from 57 to 93. The initiative aims to boost the national economy, which relies heavily on tourism, he said.
+
+Visa-on-arrival: The number of countries eligible for visa-on-arrival has increased from 19 to 31.
+
+...
+
+[Data](articles/638ba8e0.json)
+
+---
+
+### Election Commission slams election delay moves
+
+*2024-05-30 08:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Election-Commission-slams-election-delay-moves/155-283662) · `en`
+
+The Election Commission has expressed strong dismay over any attempts to delay the upcoming Presidential and Parliamentary elections, insisting they proceed as scheduled.
+
+Speaking to Daily Mirror, the Election Commission Chief R.M.A.L. Ratnayake said that the stance of the Commission has already been conveyed to the government that the presidential election should be held between September 17 and October 16 while the parliamentary election is slated for 2025.
+
+“We are fully geared for the upcoming presidential election as funds have already been allocated,” he said.
+
+Further, he said presidential election will be declared between the end of July and the early part of August.
+
+In response to the recent statement by the United National Party (UNP) headed by President Ranil Wickremesinghe where it was suggested holding a referendum to extend the term of the President and Parliament for two more years, the Chairman stated that they had not been informed about holding a referendum.
+
+...
+
+[Data](articles/dadf371e.json)
+
+---
 
 ### Isuru Gunathilake’s “Sheysha” wins Best Dance Film at Cannes World Film Festival 2024
 
@@ -422,6 +502,24 @@ Honorary Governor said that the provision of land guarantees would have more ben
 
 ---
 
+### ’வலுசக்தித் துறையின் மாற்றத்திற்கான திட்டம் அவசியம்’
+
+*2024-05-30 02:36:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வலுசக்தித்-துறையின்-மாற்றத்திற்கான-திட்டம்-அவசியம்/175-338124) · `ta`
+
+இலங்கையில் புதுப்பிக்கத்தக்க வலுசக்தியைப் பயன்படுத்துதல் மற்றும் பசுமை ஹைட்ரஜன் உற்பத்தியின் எதிர்காலப் போக்குகள் குறித்து ஆராய விரிவான திட்டம் ஒன்றின் அவசியத்தை ஜனாதிபதி ரணில் விக்கிரமசிங்க வலியுறுத்தினார்.
+
+கொழும்பு ஹில்டன் ஹோட்டலில் நேற்று  இடம்பெற்ற 'வலுசக்தி மாற்றத்தின் எதிர்காலப் பாதை' எனும் தலைப்பில் இடம்பெற்ற வட்டமேசை கலந்துரையாடலில் கலந்துகொண்டு உரையாற்றும் போதே ஜனாதிபதி இதனை சுட்டிக்காட்டினார்.
+
+உலக வங்கி, மின்சக்தி மற்றும் வலுசக்தி அமைச்சு மற்றும் இலங்கை மின்சார சபை ஆகியவற்றால் ஏற்பாடு செய்யப்பட்ட இந்த வட்டமேசைக் கலந்துரையாடல், இலங்கையின் வலுசக்தி மாற்றம் குறித்து கலந்துரையாடும் தளமாக அமைந்தது.
+
+அதன்போது, உள்நாட்டு நிபுணத்துவத்தைப் பெறுவதில் உள்ள சிரமங்களைப் பற்றிக் குறிப்பிட்ட ஜனாதிபதி, உலக வங்கி, ஆசிய அபிவிருத்தி வங்கி மற்றும் உள்நாட்டு மற்றும் வெளிநாட்டு முதலீட்டாளர்கள் உட்பட அனைத்து தரப்பினரையும் ஆதரவு வழங்குமாறு கேட்டுக் கொண்டார்.
+
+...
+
+[Data](articles/57f38048.json)
+
+---
+
 ### Arroganta bail on charges of assaulting students
 
 *2024-05-30 02:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/184826) · `ta`
@@ -471,6 +569,40 @@ Patients in hospitals in their respective areas should be provided with possible
 [Data](articles/830a3ab7.json)
 
 [Extended Data](ext_articles/830a3ab7.ext.json)
+
+---
+
+### 5 நிறுவனங்களுக்கு எதிராக அபராதம்
+
+*2024-05-30 02:14:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/5-நிறுவனங்களுக்கு-எதிராக-அபராதம்/175-338123) · `ta`
+
+சட்டவிரோதமாக தங்கத்தை இறக்குமதி செய்த ஐந்து நிறுவனங்களுக்கு 1243 மில்லியன் ரூபா அபராதம் விதிக்கப்பட்டுள்ளது.
+
+நேரடி இறக்குமதியின்றி, மூன்றாம் தரப்பினரிடமிருந்து கொள்வனவு செய்யப்படும் தங்க ஆபரணங்களுக்கும் அபராதம் விதிக்கப்படும் என இராஜாங்க அமைச்சர் ரஞ்சித் சியம்பலாபிட்டிய தெரிவித்துள்ளார்.
+
+வருடத்தின் இதுவரையிலான காலப்பகுதிக்குள், இலங்கைக்கு சட்டவிரோதமான முறையில் தங்கத்தை இறக்குமதி செய்த ஐந்து நிறுவனங்கள் அடையாளம் காணப்பட்டுள்ளதாகவும், அந்த நிறுவனங்களுக்கு 1243 மில்லியன் ரூபா அபராதம் விதிக்கப்பட்டுள்ளதாகவும் அவர் தெரிவித்துள்ளார்.
+
+அத்துடன், சட்டவிரோத இறக்குமதியுடன் தொடர்புடைய நிறுவனமொன்றுக்கு 179 மில்லியன் ரூபாவை செலுத்துமாறு உத்தரவிடப்பட்டுள்ளதாகவும் ரஞ்சித் சியம்பலாபிட்டிய தெரிவித்துள்ளார். (a)
+
+◼️
+
+[Data](articles/74f241f2.json)
+
+---
+
+### Central Bank hopeful of faster recovery in credit to private sector
+
+*2024-05-30 02:07:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Central-Bank-hopeful-of-faster-recovery-in-credit-to-private-sector/108-283657) · `en`
+
+Although the private sector credit growth hasn’t so far picked up to the desired levels, the Central Bank said it is hopeful that the pace of growth would improve along with the recovery in the economy as well as the easing of credit conditions, alongside the easing of interest rates.
+
+The Central Bank wasn’t entirely happy about the speed of the growth in credit to the private sector thus far this year, although that has consistently been in the positive from June last year, with the exception of in January, which turned out to be an idiosyncrasy.
+
+Commenting on the market lending rates, the Central Bank said it had seen a substantial decline, especially for shorter tenures. However, the financial sector regulator noted there is a bit more room for the long tenure rates to adjust downwards.
+
+...
+
+[Data](articles/596a0e01.json)
 
 ---
 
@@ -661,10 +793,6 @@ Parent and teacher attitudes and aspirations may differ with harder sanctions fo
 Females comprised 64% of all state university enrolments for medicine, dentistry, law, science, IT, education, management and arts
 
 Even at the primary school level, girls’ attainment outperforms boys’ with cut-off marks for grade 5 scholarship entrance exams consistently higher for prestigious girls’ schools compared to boys’ schools
-
-But the trend is reversed in the workplace where men earn on average more than women for every level of education in Sri Lanka in every occupational category; the disparity is a symptom of deeper structural issues
-
-Integrating work-related initiatives into the curriculum, such as vocational training, work placements or entrepreneurial opportunities that come with a stipend or other incentive, may be a way to show that learning is worthwhile
 
 ...
 
@@ -2095,177 +2223,5 @@ It is reported that the white colored South Korea has been reported to eight or 
 [Data](articles/99488cbd.json)
 
 [Extended Data](ext_articles/99488cbd.ext.json)
-
----
-
-### The United National Party (UNP) is not the position of the election - Saman Ratnapriya
-
-*2024-05-29 16:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/184799) · `ta`
-
-Saman Ratnapriya clarified that the United National Party (UNP) has not decided to postpone elections, contrary to Range Bandara's suggestion. He emphasized that the party has not adopted this stance, despite economic concerns and opinions from various sectors suggesting otherwise. The President reaffirmed the scheduled timing for the presidential election, set by the Constitution, during a recent cabinet meeting, ensuring no changes this year.
-
-🟩
-
-The United National Party has not made any decision to mark the election. The idea of ​​backing the election was Range Bandara's personal opinion, said Saman Ratnapriya, the President's Trade Union Director General and former United National Party (UNP) Member of Parliament.
-
-He said this while speaking to the media after an event in Colombo on Wednesday (29).
-
-His personal opinion is that the General Secretary of the United National Party Range Bandara has said that the presidential and parliamentary elections should be held two years later.
-
-That is not the position of the United National Party. The United National Party has not made any such resolution.
-
-Many people have said that the country has fallen economically and that the election is not necessary and that it can go ahead without holding an election for two years.
-
-...
-
-[Data](articles/44cf611f.json)
-
-[Extended Data](ext_articles/44cf611f.ext.json)
-
----
-
-### Teachers today and tomorrow sick?
-
-*2024-05-29 16:27:02* · [`adalk`](https://www.ada.lk/breaking_news/ගුරුවරු-අද-සහ-හෙට-ලෙඩ-නිවාඩු-/11-409890) · `si`
-
-Teachers across the country will take sick leave on May 30th and 31st due to unresolved salary issues. The National Teacher's Organization has initiated this action, highlighting the need for further discussions on pay discrepancies. The Ministry of Education has confirmed that schools will remain open during this period.
-
-🟩
-
-The National Teachers Power Organization says that teachers today (30) and tomorrow (31) will engage in a professional procedure to report sick leave.
-
-National Teacher's General Secretary of the National Teacher Organization L.R.R Amantunga stated that the salary anomalies of the teachers and principals cannot be resolved in the two days.
-
-The National Teacher Organization (NCC) says that the proposals made by the government regarding the proposals made by the Government of BC Perera.
-
-Meanwhile, the Ministry of Education issued a special announcement
-
-All schools will be held on the basis of tomorrow, and on May 30 and 31.
-
-◼️
-
-[Data](articles/7c97f6a6.json)
-
-[Extended Data](ext_articles/7c97f6a6.ext.json)
-
----
-
-### We will declare the presidential candidate - Udaya Kammanpila
-
-*2024-05-29 16:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/184793) · `ta`
-
-Udaya Kammanpila, leading a new political coalition aimed at addressing the needs of 690,000 people, emphasizes actions over candidates. He discusses a proposed bill, criticized for lacking alignment with International Monetary Fund (IMF) recommendations, which aims to boost economic growth and female representation in governance. The bill also outlines penalties for law violations. This announcement marks a significant shift in Sri Lanka's political landscape, focusing on policy and performance rather than individual figures.
-
-🟩
-
-We have established a new political coalition for the expectations of 69 lakhs.. Udaya Kammanpila, the leader of the Pivithuru Hela Urumaya (JHU) and Member of Parliament, said that the candidate is not important and what we are going to do.
-
-He was speaking at a media briefing held at the Pivithuru Hela Urumaya (JHU) office in Colombo on Wednesday (28).
-
-Preparations of the Bill are found in the absence of any goal and expectation.
-
-The President appoints the Commission to be established through this Bill.. The situation caused by the new Central Bank Act will be through this bill.
-
-The government states that the Bill has been prepared on the recommendation of the International Monetary Fund.
-
-But in the recommendations of the International Monetary Fund, the bill is not mentioned anywhere. The Bill is contrary to the recommendations of the IMF.
-
-...
-
-[Data](articles/b1000e51.json)
-
-[Extended Data](ext_articles/b1000e51.ext.json)
-
----
-
-### 14 -year -old girl sexually abused in Mullaitivu - Keppapila;Arrests
-
-*2024-05-29 16:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/184800) · `ta`
-
-In Mullaitivu, a 14-year-old girl was sexually assaulted by a 55-year-old food shop owner. Her parents noticed changes in her behavior, leading them to the hospital. The police arrested the suspect after investigation, and he remains in custody pending further proceedings.
-
-🟩
-
-A school girl has been sexually abused by the owner of a meal shop in Mullaitivu.
-
-A 14 -year -old schoolgirl has been sexually abused by a person who runs a food shop in Keppapila in Mullaitivu.
-
-Parents who observed a sudden change in the body of the girl have been taken to the Mullaitivu District Hospital and examined by the girl.
-
-The Mulliyawalai police have arrested the man responsible for the condition of the girl after investigating the matter.
-
-The magistrate has ordered the arrest of the man to be remanded until the 6th of this month.
-
-The suspect was a 55 -year -old man who was conducting a food shop in Keppapila in Mullaitivu.
-
-◼️
-
-[Data](articles/1adb2a0f.json)
-
-[Extended Data](ext_articles/1adb2a0f.ext.json)
-
----
-
-### Delhi is unexpected
-
-*2024-05-29 16:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197158) · `si`
-
-Delhi faces an unprecedented heatwave with temperatures reaching 49.9°C, leading to water shortages and a health alert for its over 30 million residents due to the severe impact of climate change.
-
-🟩
-
-The city temperature is 49.9 degrees Celsius today, foreign media reports.
-
-In this situation, the state authorities have warned the shortage of water.
-
-The people of Delhi has issued a population of more than 30 million people have also issued a red warning notification regarding the temperature increases.
-
-The intensifying the heat of the heat caused by climate change has been caused by this situation.
-
-◼️
-
-[Data](articles/ca509608.json)
-
-[Extended Data](ext_articles/ca509608.ext.json)
-
----
-
-### Netball, rugby, cycling and motorsports elections brought under DG
-
-*2024-05-29 16:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Netball-rugby-cycling-and-motorsports-elections-brought-under-DG/108-283620) · `en`
-
-May 29 (Daily Mirror) - Sports Minister Harin Fernando today instructed the relevant authorities to put off the Netball Federation of Sri Lanka (NFSL) 2024-2026 elections, scheduled at the Duncan White Auditorium of the Ministry of Sports in Colombo tomorrow.
-
-Minister Fernando decided to put off the NFSL elections having considered several complaints regarding the cancellation of voting rights of Jaffna and Colombo and after the NFSL Election Committee rejected the nomination of a member from Jaffna.
-
-Earlier, the NFSL Election Committee comprising of Retired Chief Justice Wimal Nambuhewa (Chairman) C. Rathnamudali and Padmajina Siriwardhana rejected the nomination of S. Suranthani from the Jaffna Netball Association and also suspended the voting rights of Jaffna and Colombo.
-
-With the Sports Minister deciding to put off the NFSL elections, the regime of Lakshmi Victoria also, came to an end today.
-
-...
-
-[Data](articles/60ba0082.json)
-
-[Extended Data](ext_articles/60ba0082.ext.json)
-
----
-
-### Steps to resume middle -class housing schemes of Malabe, Boraleskamuwa and Makumbura - Prasanna Ranatunga
-
-*2024-05-29 16:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/184775) · `ta`
-
-Prasanna Ranatunga, Minister of Urban Development and Housing, has submitted a cabinet paper to revive middle-class housing schemes in Malabe, Boralesgamuwa, and Makumbura, initially launched in February 2021. These projects, totaling around Rs. 5.4 billion, were paused due to financial constraints but are now set to resume based on a technical committee's report. The schemes aim to construct over 700 homes across the three locations, with significant funds already allocated and spent.
-
-🟩
-
-A special cabinet paper has been submitted to the Cabinet for the resumption of middle -class housing schemes of Malaphe, Boralesgamuwa and Makumbura. Minister of Urban Development and Housing Prasanna Ranatunga has presented this in the Cabinet.
-
-These three housing projects were launched by the Urban Development Authority in February 2021. MALAPE MALAPE HOME SHOULD SHOULD SEE. Mill. 3148.80 assigned. Of this, 256 houses will be constructed. The amount allocated for the construction of 120 houses for the Boralesgamuwa Housing Scheme. Mill. The estimated amount for the Makumbura Housing Scheme is Rs. 1476. Mill. 3859 and the number of houses constructed there is 314.
-
-...
-
-[Data](articles/75ce7403.json)
-
-[Extended Data](ext_articles/75ce7403.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-31 00:19:48**
+As of **2024-05-31 00:33:49**
 
 ## Newspaper Stats
 
-*Scraped **27,399** Articles*
+*Scraped **27,402** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,66 @@ adalk | 2,340
 adaderanalk | 3,122
 tamilmirrorlk | 3,214
 virakesarilk | 4,224
-dailymirrorlk | 4,329
+dailymirrorlk | 4,332
 adaderanasinhalalk | 4,379
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,399 (100.0%) of 27,399 articles have been extended.
+27,399 (100.0%) of 27,402 articles have been extended.
 
 ## Latest 100 Articles 
 
+### 2024-05-31 (Friday)
+
+### The US,  Zionism and moral depravity
+
+*2024-05-31 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/The-US-Zionism-and-moral-depravity/172-283733) · `en`
+
+“Finish them,” failed Republican Party presidential candidate Nikki Haley writes on a shell Israel will use to kill children and civilians in Gaza
+
+As Israel’s genocidal campaign in the Gaza Strip enters its eighth month, more and more people around the world realise that Zionism is an evil ideology. If Zionism is not denounced and eradicated, similar to how the world dealt with Nazism after World War II, nations may soon find themselves dependent on this destructive ideology for their survival.
+
+The day Zionism is defeated is the victory day for humanism and humanity.
+
+...
+
+[Data](articles/28a054dd.json)
+
+---
+
+### Lies used in the name of transforming a nation
+
+*2024-05-31 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Lies-used-in-the-name-of-transforming-a-nation/172-283728) · `en`
+
+When we think of elections in Sri Lanka we are forced to think of marriages as well. This is largely because the incumbent President Ranil Wickremesinghe has decided to contest the upcoming presidential elections as an independent candidate with the support of a strong alliance. These are days when we see many promises being made on the political scene by ambitious individuals. People on this ‘sun-kissed island’ are used to this bluff, but sadly they aren’t immune to being fooled time and time again.
+
+...
+
+[Data](articles/63622eac.json)
+
+---
+
 ### 2024-05-30 (Thursday)
+
+### Chronic kidney disease: Cases now drop due to purified water
+
+*2024-05-30 23:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Chronic-kidney-disease-Cases-now-drop-due-to-purified-water/108-283721) · `en`
+
+May 30 - Deputy Director General of  Beijing Center for Disease Control and Prevention Professor Quanyi Wang said that the Chinese Academy of Sciences (CAS) has been providing necessary guidance and support to tackle the Chronic Kidney Diseases of Unknown Etiology  (CKDU) since 2015.
+
+Professor Wang was making a presentation on ‘The Chinese project investigating the causes of CKDu and its research progress during the  CKDU knowledge sharing and collaboration workshop held at the Joint Research and Demonstration Center in Peradeniya recently.
+
+The National Institute of Kidney Diseases and  Urology (NIKDU) organized the workshop in collaboration with the Chinese Academy of Sciences.
+
+He said that various government departments and institutions have been provided support by the Chinese government in tackling the Chronic Kidney Disease which is  prevailing in some parts of Sri Lanka.
+
+...
+
+[Data](articles/4e1fa95c.json)
+
+---
 
 ### Opposition parties seek to derail Economic Transformation Bill, risking return to crisis - Semasinghe
 
@@ -2253,75 +2301,5 @@ The US $ 296.8721 is Rs.
 [Data](articles/c4e43adc.json)
 
 [Extended Data](ext_articles/c4e43adc.ext.json)
-
----
-
-### Contempt of court petition filed against ex-President Maithripala
-
-*2024-05-30 13:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/99535/contempt-of-court-petition-filed-against-ex-president-maithripala) · `en`
-
-The Court of Appeals has issued notice to the former Chairman of Sri Lanka Freedom Party (SLFP), ex-President and Maithripala Sirisena with regard to a contempt of court petition filed against him.
-
-The petition has been filed by Montague Sarathchandra, an executive committee member of the SLFP.
-
-The relevant petition was taken up before the two-member judge bench comprising of the President of the Court of Appeal Justice Nissanka Bandula Karunaratne and Justice Shashi Mahendran this morning (30).
-
-Accordingly, the judge bench ordered the attorneys of the petitioning party to send notice to the respondent of the petition, former President Maithripala, in order to confirm the facts related to the petition.
-
-The petitioner has alleged that the former President has committed contempt of court through his actions in violation of a court order issued by the Colombo District Court preventing him from acting as the Chairman of the SLFP.
-
-◼️
-
-[Data](articles/e73895eb.json)
-
-[Extended Data](ext_articles/e73895eb.ext.json)
-
----
-
-### Historical Mandicapulation in History This year Ranil Wickremesinghe
-
-*2024-05-30 13:22:24* · [`adalk`](https://www.ada.lk/breaking_news/ඉතිහාසයේ-ලැබෙන-ඓතිහාසිකම-ජනවරම-මෙවර-රනිල්-වික්‍රමසිංහට/11-409914) · `si`
-
-In a significant moment for Sri Lanka's history, UNP Chairman Ranil Wickremesinghe addresses the nation, emphasizing the importance of public awareness and caution against misleading political maneuvers. Highlighting the upcoming presidential election, Wickremesinghe stresses the need for unity and vigilance to prevent the country from descending into economic crisis akin to Venezuela or Zimbabwe. His focus remains on fulfilling his responsibilities to steer the country away from bankruptcy, urging political parties to prioritize the public's well-being and avoid further instability.
-
-🟩
-
-UNP Chairman, Vajira Abeywardena, the Sri Lankan public is alignificant to this year's historical mandates in the history of Sri Lanka.
-
-He also said that the public who has been with political parties is now quitting and trying to mislead the masses, and the entire public should be conscious and inquire.
-
-Mr. Avage Policy Speaking at a press conference held at the UNP headquarters in Galle, Galle today (30).
-
-The President has told the Cabinet and other essential places that the presidential election is held before 17th September, especially on the 19th of October.. And the Prime Minister had made the same statement. The presidential election is held in Sri Lanka before October 17th. It's permanent, no problem with it.
-
-All political parties are waiting for all political parties and handed over to the leader who en-bankrupt into the bankrupt.
-
-The people of our country do not want this country to be a Venezuela, or not to become a country like Zimbabwe.
-
-...
-
-[Data](articles/0b60b15f.json)
-
-[Extended Data](ext_articles/0b60b15f.ext.json)
-
----
-
-### Higher water level recorded in Mahaweli Ganga, those in Kandy requested to be vigilant
-
-*2024-05-30 13:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Higher-water-level-recorded-in-Mahaweli-Ganga-those-in-Kandy-requested-to-be-vigilant/108-283693) · `en`
-
-Colombo, May 30 (Daily Mirror) - Due to the considerable rainfall in the catchment areas of the central hills yesterday, those living in Nuwara-Eliya and Kandy are requested to be vigilant as the water level of the Mahaweli Ganga has risen and hence may cause sudden floods.
-
-Addressing the media, the Irrigation Department’s Irrigation (Hydrology) Director, Eng. S.P.C. Sugeeshwara Bandara said the water level of the Mahaweli Ganga has increased from the upper streams to the Kandy area in the Central Province where the river flows.
-
-He said more than 100 mm of rainfall was received in certain areas of the central hills, and therefore, the water level of the Mahaweli Ganga has risen.
-
-Therefore, those in the low lying areas and along the Mahaweli Ganga are requested to be vigilant over sudden floods.
-
-◼️
-
-[Data](articles/d6bfb238.json)
-
-[Extended Data](ext_articles/d6bfb238.ext.json)
 
 ---

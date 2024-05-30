@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-30 22:51:30**
+As of **2024-05-30 23:03:52**
 
 ## Newspaper Stats
 
-*Scraped **27,392** Articles*
+*Scraped **27,397** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 1,477
 economynextcom | 1,567
 dailyftlk | 1,601
 adalk | 2,338
-adaderanalk | 3,121
+adaderanalk | 3,122
 tamilmirrorlk | 3,214
-virakesarilk | 4,220
+virakesarilk | 4,224
 dailymirrorlk | 4,329
 adaderanasinhalalk | 4,379
 
@@ -26,21 +26,61 @@ adaderanasinhalalk | 4,379
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,391 (100.0%) of 27,392 articles have been extended.
+27,392 (100.0%) of 27,397 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-30 (Thursday)
 
-### இலங்கை சுற்றுலாப்பயணிகளுக்கு விசா இல்லாத பயணத்தை அங்கிகரித்த தாய்லாந்து
+### Opposition parties seek to derail Economic Transformation Bill, risking return to crisis - Semasinghe
+
+*2024-05-30 22:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/99551/opposition-parties-seek-to-derail-economic-transformation-bill-risking-return-to-crisis-semasinghe) · `en`
+
+State Minister for Finance, Shehan Semasinghe stated that only those wishing to plunge the country back into an economic crisis would oppose the Economic Transformation Bill.
+
+He emphasized that while the current government is focused on an optimistic economic outlook, the opposition groups are driven solely by political motives.
+
+State Minister Semasinghe made these remarks during a press conference at the Presidential Media Centre today (30), themed ‘Collective path to a stable country’.
+
+The Economic Transformation Bill aims to increase productivity and ensure equal opportunities for all citizens in Sri Lanka, while also enhancing infrastructure. It is expected to generate job opportunities, foster economic growth, and expand the competitive market through innovative exports.
+
+...
+
+[Data](articles/385f325c.json)
+
+---
+
+### Thailand recognized Sri Lankan tourists
 
 *2024-05-30 22:16:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-சுற்றுலாப்பயணிகளுக்கு-விசா-இல்லாத-பயணத்தை-அங்கிகரித்த-தாய்லாந்து/175-338183) · `ta`
 
-இலங்கை உட்பட வேறு 36 நாடுகளின் சுற்றுலாப்பயணிகள் விசாவில்லாமல் தாய்லாந்துக்குள் நுழைய முடியுமென்பதுடன் 60 நாள்கள் வரையில் தங்கியிருக்கலாமென வெளிவிவகார அமைச்சர் அலி சப்ரி தெரிவித்துள்ளார்.
+Thailand allows visa-free entry for tourists from 36 countries, including Sri Lanka, granting them a 60-day stay.
+
+🟩
+
+External Affairs Minister Ali Sabri said that tourists from 36 other countries, including Sri Lanka, can enter Thailand without visa and stay for up to 60 days.
 
 ◼️
 
 [Data](articles/0551293f.json)
+
+[Extended Data](ext_articles/0551293f.ext.json)
+
+---
+
+### விகாரை புனரமைப்புக்காக திலீபன் எம்.பியால் நிதி ஒதுக்கீடு
+
+*2024-05-30 22:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/184909) · `ta`
+
+வவுனியாவின் எல்லைப் பகுதிகளில் உருவாக்கப்பட்ட சிங்கள குடியேற்ற கிராமங்களுக்கு வன்னிப் பாராளுமன்ற உறுப்பினர் குலசிங்கம் திலீபன் அவர்களால் பல்வேறு அபிவிருத்தி பணிகள் ஆரம்பித்து வைக்கப்பட்டது.
+
+அந்தவகையில் நந்திமித்திரகம கிராமத்தில் அமைந்துள்ள விகாரைக்கு அபிவிருத்தி பணிகளை மேற்கொள்வதற்காக 10 இலட்சம் ரூபாய் நிதி ஒதுக்கப்பட்டுள்ளதுடன், அங்கு புதிதாக அமைக்கப்படவுள்ள கட்டடம் ஒன்றுக்கு பாராளுமன்ற உறுப்பினரால் அடிக்கல் நாட்டி வைக்கப்பட்டது.
+
+அத்துடன், அதற்கு அண்மையில் உள்ள கம்பிலிவெவ சிங்கள குடியேற்றப் பகுதிக்கும் பல்வேறு அபிவிருத்தி பணிகளுக்காக 19 இலட்சம் ரூபாய் நிதி ஒதுக்கீடு அவரால் செய்யப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/4c02fc68.json)
 
 ---
 
@@ -149,6 +189,42 @@ Adviser Ashu Marasinghe stressed that the former only talked of an available opt
 [Data](articles/019640c4.json)
 
 [Extended Data](ext_articles/019640c4.ext.json)
+
+---
+
+### இறுதிப் போரில் குழந்தைகளை கொலை செய்தனர்: அப்போது இரக்கம் வரவில்லையா என வவுனியா மாவட்ட வலிந்து காணாமல் ஆக்கப்பட்டோரின் உறவுகள் கேள்வி
+
+*2024-05-30 21:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/184908) · `ta`
+
+காசா சிறுவர்களுக்காக நிதி வழங்கும் அரசாங்கத்திற்கு இறுதிப்போரில் தமிழ் குழந்தைகள் கொலை செய்யப்படும் போது இரக்கம் வரவில்லையா என வவுனியா மாவட்ட வலிந்து காணாமல் ஆக்கப்பட்ட உறவுகள் கேள்வி எழுப்பியுள்ளனர்.
+
+வவுனியா மாவட்ட வலிந்து காணாமல் ஆக்கப்பட்ட உறவுகளின் சங்கத்தினரால் வவுனியா பழையபேருந்து நிலையத்திற்கு முன்பாக 30 ஆம் திகதி வியாழக்கிழமை ஆர்பாட்டம் ஒன்று முன்னெடுக்கப்பட்டது.
+
+குறித்த ஆர்பாட்டத்தின் பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கும் போதே அவர்கள் இவ்வாறு தெரிவித்தனர். தொடர்ந்து கருத்து தெரிவித்த அவர்கள்,
+
+சர்வதேச நீதியினைக் கோரி நாம் தொடர்ச்சியான போராட்டங்களை முன்னெடுத்து வருகின்றோம். எமது போராட்டங்களை தடுக்கும் விதத்தில் பல்வேறு அடக்குமுறைகள் இந்த அரசால் பிரயோகிக்கப்பட்டு வருகின்றது. இருப்பினும் நாம் நீதிக்கான எமது போராட்டங்களில் தொடர்ச்சியாக பயணிப்போம்.
+
+...
+
+[Data](articles/367c3cb0.json)
+
+---
+
+### படையினருக்கான காணி அளவீடுகளை உடனடியாக நிறுத்தவும் - அமைச்சர் டக்ளஸ்
+
+*2024-05-30 20:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/184907) · `ta`
+
+படைத் தரப்பினருக்காகக் காணிகளைச் சுவீகரிக்கும்  நோக்காலான அனைத்து காணி அளவீடுகளையும் தற்காலிகமாக நிறுத்துமாறு யாழ் மாவட்ட ஒருங்கிணைப்புக் குழுவின் தலைவர் அமைச்சர் டக்ளஸ் தேவானந்தாவினால் அறிவுறுத்தப்பட்டுள்ளது.
+
+யாழ் மாவட்ட செயலகத்தில் 30 ஆம் திகதி வியாழக்கிழமை நடைபெற்ற மாவட்ட அபிவிருத்தி ஒருங்கிணைப்புக் குழுக் கூட்டத்திலேயே அமைச்சரினால் சம்மந்தப்பட்ட அதிகாரிகளுக்குக் குறித்த அறிவுறுத்தல் வழங்கப்பட்டது.
+
+ஒருங்கிணைப்புக் குழுவின் தலைவர் அமைச்சர் டக்ளஸ் தேவானந்தா மற்றும் இணைத் தலைவர் பி.எம்.எஸ் சாள்ஸ் ஆகியோர் தலைமையில் இடம்பெற்ற இன்றைய கூட்டத்தில்,
+
+ஒருங்கிணைப்புக் குழுவின் அனுமதிக்காகச் சமர்ப்பிக்கப்பட்ட   உள்ளூராட்சி மன்றங்களினால் முன்னெடுக்கப்படும் வேலைத் திட்டம் தொடர்பாகவும், கடந்த கூட்டத்தில் மேற்கொள்ளப்பட்ட தீர்மானங்களின் முனனேற்றங்கள் தொடர்பாகவும் ஆராயப்பட்டன.
+
+...
+
+[Data](articles/65300041.json)
 
 ---
 
@@ -735,6 +811,24 @@ Foreign Minister Ali Sabry said that “Sri Lanka has started trade negotiations
 [Data](articles/2ede09c2.json)
 
 [Extended Data](ext_articles/2ede09c2.ext.json)
+
+---
+
+### விமர்சனங்களுக்கு திங்கட்கிழமை பதிலளிப்பேன் :  ரங்கே பண்டார
+
+*2024-05-30 17:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/184876) · `ta`
+
+தேர்தல்களை இரண்டு வருடங்களுக்கு ஒத்திவைக்க வேண்டும் என்ற எனது கருத்து தொடர்பில் தற்போது எழுந்திருக்கும் விமர்சனங்களுக்கு திங்கட்கிழமை பதிலளிப்பேன் என ஐக்கிய தேசிய கட்சியின் பொதுச் செயலாளர் பாலித்த ரங்கே பண்டார தெரிவித்தார்.
+
+ஐக்கிய தேசிய கட்சி தலைமையகமான சிறிகொத்தவில் வியாழக்கிழமை (30) இடம்பெற்ற செய்தியாளர் சந்திப்பில் கலந்துகொண்டு இது தொடர்பான அறிவிப்பை முன்வைத்தார்.
+
+நாட்டின் பொருளாதாரத்தை ஸ்திர நிலைக்கு கொண்டு வர தற்போதுள்ள நிலையில் பாராளுமன்ற தேர்தல், ஜனாதிபதி தேர்தல் ஆகிய இரண்டு தேர்தல்களையும் இரண்டு வருடங்களுக்கு பிற்போடுவது நல்லது. அது தொடர்பான பிரேரணை ஒன்றை எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச கொண்டுவருமானால் அது மிகவும் பொருத்தம் என தெரிவித்திருந்தேன்.
+
+ஐக்கிய தேசிய கட்சி தலைமையகத்தில் கடந்த செவ்வாய்க்கிழமை இடம்பெற்ற செய்தியானர் சந்திப்பில் இந்த யோசனையை தெரிவித்த பின்னர் அதற்கு எதிராக பல்வேறு தரப்பினர் பல்வேறு குற்றச்சாட்டுக்களை தெரிவித்க்க ஆரம்பித்தனர். எமது கட்சி அலுவலகத்துக்கு முன்னால் சுமார் 7பேர் வரை வந்து பாரிய ஆர்ப்பாட்டம் ஒன்றையும் நடத்தி இருந்தனர்.
+
+...
+
+[Data](articles/49bddbdd.json)
 
 ---
 
@@ -2205,117 +2299,5 @@ US officials, who have said that Ibrahim Raisi is the worst human rights violati
 [Data](articles/eee41a1b.json)
 
 [Extended Data](ext_articles/eee41a1b.ext.json)
-
----
-
-### “Rob Or Perish” – A Grim Reality In Public Service?
-
-*2024-05-30 13:06:57* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/rob-or-perish-a-grim-reality-in-public-service/) · `en`
-
-With a heavy heart, I share two photographs of George Michael, a former Secretary of the Ministry of Tourism: one taken on his retirement day and the other published years later by the ministry’s chief accountant at that time. This heart-wrenching image, which circulated on social media earlier, calls for financial or other assistance to support him. This piece, which should have been written earlier, is not meant to generalize but rather to highlight why some public officials have become what they are today, which can be interpreted in both ways.
-
-George Michael (name fondly mistaken to English singer and celebrity) served as Secretary to the Ministry of Tourism before his premature retirement in 2011, after being discarded into the pool while his superiors then were aiming to transform Sri Lanka into an ‘economic paradise’ like Singapore.
-
-...
-
-[Data](articles/12e858ed.json)
-
-[Extended Data](ext_articles/12e858ed.ext.json)
-
----
-
-### The other willingness is less, and Sajith and Anura is so the subscriptions of Ranil
-
-*2024-05-30 13:03:38* · [`adalk`](https://www.ada.lk/breaking_news/අනුරට-ඇති-කැමැත්ත-අඩුවයි--සජිත්-හා-අනුර-සමවෙති--රනිල්ට-ඇති-කමැත්ත-ඉහ‍ලට/11-409913) · `si`
-
-In a recent survey, Sajith Premadasa leads with 39% support for a potential April presidential election, a slight increase from previous months. Despite a 6% drop for Mr. Dissanayake, both Sajith and Ranil Wickremesinghe see a 1% rise in public favorability.
-
-🟩
-
-The latest survey issued by the Health Policy Agency issued by the Health Policy Agency, if a presidential election will be held in April and Sajith Premadasa was receiving 39 percent.
-
-Mr. Dissanayake has fallen by 6 percent in parallel to March. However, the beneficiary of the people who have Sajith Premadasa and Ranil Wickremesinghe has increased by 1 percent.
-
-◼️
-
-[Data](articles/1262b646.json)
-
-[Extended Data](ext_articles/1262b646.ext.json)
-
----
-
-### Until 2027, foreign loans can be paid
-
-*2024-05-30 12:52:21* · [`adalk`](https://www.ada.lk/breaking_news/2027-තෙක්-විදේශ-ණය-නොගෙවා-සිටය-හැකියි/11-409912) · `si`
-
-President Ranil Wickremesinghe announced measures to address salary issues across sectors and manage foreign debts until 2027, emphasizing economic recovery and inviting professional feedback. He highlighted the importance of adapting to change and preventing political appointments in the board of directors.
-
-🟩
-
-President Ranil Wickremesinghe said that action will be taken to solve salary anomalies in all sectors.
-
-The President pointed out that the economy had just begun to rise up and began to rise in the past, the President said that it would go to another country and that the trade union movement should also come forward to time changes.
-
-President Ranil Wickremesinghe made this statement at the Bandaranaike Memorial International Memorial International Conference Hall yesterday (29) at the Bandaranaike Memorial International Conference Hall yesterday.
-
-The President also said that the comments of all professionals on the movement of the country will be taken to bow into the conversation and create a "client" to create a future.
-
-President Ranil Wickremesinghe said that President Ranil Wickremesinghe has given the opportunity to maintain foreign debt to maintain foreign debt to maintain the stability of the financial sector in Sri Lanka.
-
-...
-
-[Data](articles/d9638000.json)
-
-[Extended Data](ext_articles/d9638000.ext.json)
-
----
-
-### Maithri accusated that insulted the judiciary
-
-*2024-05-30 12:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197177) · `si`
-
-Maithripala Sirisena, a former President, has filed a petition against himself through Montegu Sarathchandra, accusing him of insulting the judiciary. The case was heard by Judges Nissankala Karunaratne and Shiras Mahendran, who ordered the petitioner's attorney to serve the respondents. This unusual legal action involves Sirisena seeking an injunction against himself as the SLFP Chairman.
-
-🟩
-
-Former President Maithripala Sirisena has filed a petition against former President Maithripala Sirisena against the Court of Appeal.
-
-The petition was presented by Montegu Sarathchandra, a SLFP Executive.
-
-The petition was called before the Court of Appeal Judge Nissankala Karunaratne and Shiras Mahendran.
-
-The Court ordered the Attorney at the petitioner party to ensure the respondents to the respondent to the petition.
-
-The petition has been presented against former President Maithripala Sirisena, who has issued an interim injunction in the Sri Lanka Freedom Party's Chairman.
-
-◼️
-
-[Data](articles/355d5bcb.json)
-
-[Extended Data](ext_articles/355d5bcb.ext.json)
-
----
-
-### Free Sri Lankans traveling in Thailand
-
-*2024-05-30 12:46:14* · [`adalk`](https://www.ada.lk/breaking_news/තායිලන්තයේ-සංචාරයට-යන-ලාංකිකයන්ටත්-නිදහස්-විසා/11-409911) · `si`
-
-Thailand offers free visas to tourists from 36 countries, including Sri Lanka, starting June 24, 2024, aiming to boost tourism.
-
-🟩
-
-The Government of Thailand has decided to offer free visas for tourists in 36 countries including Sri Lanka. The Cabinet of Cabinet recently has taken this decision to attract more tourists for Thailand.
-
-Accordingly, approval has been approved to increase the VISA-Free Accessibility to Thailand to enter Thailand, approval to enter Thailand.
-
-For Sri Lanka has received Amman Albania, Cambodia, China, India, Jamaika, Laos, Mexico, Laos, Mexico, Panama and Romania.
-
-This new visa policy of Thailand will be effective from June 24, 2024.
-
-◼️
-
-[Data](articles/d15dea74.json)
-
-[Extended Data](ext_articles/d15dea74.ext.json)
 
 ---

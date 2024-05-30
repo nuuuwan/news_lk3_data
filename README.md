@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-31 01:18:36**
+As of **2024-05-31 01:34:24**
 
 ## Newspaper Stats
 
-*Scraped **27,404** Articles*
+*Scraped **27,405** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,567
 dailyftlk | 1,601
 adalk | 2,340
 adaderanalk | 3,122
-tamilmirrorlk | 3,214
+tamilmirrorlk | 3,215
 virakesarilk | 4,226
 dailymirrorlk | 4,332
 adaderanasinhalalk | 4,379
@@ -26,11 +26,29 @@ adaderanasinhalalk | 4,379
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,402 (100.0%) of 27,404 articles have been extended.
+27,404 (100.0%) of 27,405 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-31 (Friday)
+
+### சட்டவிரோத சிகரெட்டுகளுடன் இந்தியர் கைது
+
+*2024-05-31 00:57:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சட்டவிரோத-சிகரெட்டுகளுடன்-இந்தியர்-கைது/175-338184) · `ta`
+
+சட்டவிரோத சிகரெட்டுகளை இலங்கைக்கு கொண்டு வந்த இந்திய வெளிநாட்டு பிரஜை ஒருவர் கட்டுநாயக்க விமான நிலையத்தில் வைத்து கைது செய்யப்பட்டுள்ளார்.
+
+பொலிஸ் போதைப்பொருள் ஒழிப்புப் பிரிவின், கட்டுநாயக்க பிரிவு அதிகாரிகள் மேற்கொண்ட சுற்றிவளைப்பின் போதே சந்தேகநபர் கைது செய்யப்பட்டுள்ளார்.
+
+31 வயதான இந்திய பிரஜை ஒருவரே இவ்வாறு சந்தேகத்தின் பேரில் கைது செய்யப்பட்டுள்ளார்.
+
+அவர் சட்டவிரோதமாக கொண்டு வந்த சிகரெட்டுகளின் பெறுமதி சுமார் 3 லட்சம் ரூபா என தெரியவந்துள்ளது. (a)
+
+◼️
+
+[Data](articles/96fef550.json)
+
+---
 
 ### The US,  Zionism and moral depravity
 
@@ -86,37 +104,51 @@ He said that various government departments and institutions have been provided 
 
 ---
 
-### மாதக்கணக்கில் பழுதடைந்துள்ள CT ஸ்கான் இயந்திரம்! நோயாளர்கள் கடும் அவதி!
+### CT scan machine that has been damaged for months!Patients are severe!
 
 *2024-05-30 23:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/184910) · `ta`
 
-வவுனியா பொது வைத்தியசாலையில் உள்ள CT ஸ்கான் இயந்திரம் கடந்த சிலமாதங்களாக பழுதடைந்துள்ளமையால் நோயாளிகள் அவதிக்குள்ளாவதுடன் அலைக்கழிப்பிற்கு உள்ளாக்கப்படுகின்றார்கள்.
+Vavuniya General Hospital's sole CT scanner has been malfunctioning for months, forcing patients to seek scans in distant hospitals like Polonnaruwa and Jaffna. The machine, after a brief repair, was damaged again, exacerbating the crisis. Patients face significant delays and additional expenses due to this issue.
 
-வவுனியா பொது வைத்தியசாலையில் ஒரேயொரு CT இயந்திரம் மாத்திரமே உள்ளது. அது கடந்த சில மாதங்களாக பழுதடைந்துள்ளது. இதனால் CT ஸ்கான் எடுக்கவேண்டிய நோயாளர்கள் அனுராதபுரம்  பொலனறுவை மற்றும், யாழ் போதனா வைத்தியசாலைகளுக்கு அனுப்பிவைக்கப்படுகின்றனர்.இதனால் நோயாளர்கள் பெரும் சிரமத்திற்குள்ளாகின்றனர்.
+🟩
 
-அங்கு கொண்டுசெல்லப்படும் ஒரு நோயாளிக்காக நோயாளர்காவுவண்டியில் ஒருவைத்தியர் தாதியர் சிற்றூழியர் ஆகியோர் பயணிக்கவேண்டும். இதன் மூலம் நேரவிரயம் மாத்திரம் அல்லாமல் வீண் செலவும் ஏற்படுகின்றது. வைத்தியசாலையில் நோயாளர்காவு வண்டிகளுக்கும் தட்டுப்பாடு நிலவுகின்றது. அதற்காகவும் காத்திருக்கவேண்டிய நிலைமை மக்களுக்கு ஏற்பட்டுள்ளது.
+The CT scan engine at the Vavuniya General Hospital has been infected with patients and has been suffering from a shortage of patients for the past few months.
 
-இதேவேளை சில தினங்களிற்கு முன்பாக குறித்த இயந்திரம் திருத்தப்பட்டநிலையில். அன்றையதினமே மீண்டும் அது பழுதடைந்துள்ளது.
+There is only one CT machine at Vavuniya General Hospital. It has been ripe for the past few months. Patients who need to take CT scan are sent to Polonnaruwa and Jaffna Teaching Hospitals.
 
-...
+For a patient, one must travel in the patient's nurses. This results in waste costs not only of time. There is also a shortage of patients in the hospital. People have to wait for that.
+
+Meanwhile, a few days ago, the machine was revised. It was again damaged that day.
+
+The CT machine has been accused of not being rushed to the hospital in retaining it and engaging in a steady operation.
+
+◼️
 
 [Data](articles/2bb635d8.json)
 
+[Extended Data](ext_articles/2bb635d8.ext.json)
+
 ---
 
-### மக்கள் விழிப்பாக இருந்தால்தான் எமது நிலங்கள் பாதுகாக்கப்படும் - சுகாஸ்
+### Our lands will be protected only if people are aware - Sukas
 
 *2024-05-30 23:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/184895) · `ta`
 
-மக்கள் விழிப்பாக இருந்தால்தான் எமது நிலங்கள் பாதுகாக்கப்படும் ,எமது தேசம் பாதுகாக்கப்படும் என தமிழ் தேசிய மக்கள் முன்னணி ஊடக பேச்சாளர் சட்டதரணி சுகாஸ் தெரிவித்தார்.
+Attorney Sukas emphasizes that protecting lands and nation requires public awareness. He criticizes the opposition for abandoning citizens during land surveying measures in Valikamam, affecting not just Jaffna but the entire Northern and Eastern Tamil regions.
 
-வலிகாமம் மேற்கு சுழிபுரம் திருவடி நிலை பகுதியில் பொதுமக்களுடைய காணிகளை கடற்படையினரின் தேவைக்காக சுவிகரிக்கும் நோக்கில் நில அளவீட்டு திணைக்களத்தினரால்  அளவீடும் நடவடிக்கை முன்னேடுக்க வருகைதந்த போது மக்கள் எதிர்ப்பால் கைவிடப்பட்டது இந்த மக்கள் போராட்டத்தில் கலந்து கொண்டு உரையாற்றும் போதே அவர் இதனை தெரிவித்தார் .
+🟩
 
-யாழ்ப்பாணத்தில் மட்டுமல்ல வடக்கு கிழக்கு தமிழர் தேசம் எங்கும் தமிழ் மக்களின் காணிகள் முப்படையினரின் தேவைகளுக்காக சுவிகரிக்க நடவடிக்கை எடுக்கப்பட்டு வருகிறது. இந்த நடவடிக்கைகளை அனுமதிக்க முடியாது .இன்று தற்காலிகமாகவே அளவீட்டு பணிகள் நிறுத்தப்பட்டுள்ளது இன்றைய நாள் போல் நாங்கள் அனைவரும் விழிப்பாக இருந்தால் தான் எமது தாயகத்தை பாதுகாக்க முடியும்  நாங் கள் ஒன்றிணைந்து போராடவேண்டும் என்றார்.
+Tamil National People's Front media spokesman Attorney Sukas said that our lands will be protected and our nation will be protected only if people are aware.
+
+He said this while addressing the struggle when the people were abandoned by the opposition of the people when they were attending measuring measures by the Department of Land Surveying to promote the land of the civilian land in the West Chiripuram Thiruvadi state of Valikamam.
+
+Not only in Jaffna but also in the North and East Tamil nation. These measures cannot be allowed.
 
 ◼️
 
 [Data](articles/2490089a.json)
+
+[Extended Data](ext_articles/2490089a.ext.json)
 
 ---
 
@@ -2275,35 +2307,5 @@ At the roundtable the President outlined Sri Lanka’s vision on prosperity, ren
 [Data](articles/5e616a4b.json)
 
 [Extended Data](ext_articles/5e616a4b.ext.json)
-
----
-
-### Student gets seriously in a car accident
-
-*2024-05-30 13:26:44* · [`adalk`](https://www.ada.lk/breaking_news/මෝටර්-රථ-අනතුරකින්-සිසුවෙකුට-බරපතළයි/11-409915) · `si`
-
-A serious car accident occurred near Kahathuduwa welfare hospital, involving a 15-year-old student from two schools. The student was critically injured and hospitalized in Wethara and Kalubowage Sathugala for further treatment. The incident happened when the student's scooter collided with another car after stopping ten meters ahead. The driver of the other car, a 29-year-old, has been arrested. Investigations reveal the student was not controlling the road properly and was also involved in selling air balloons.
-
-🟩
-
-Kahathuduwa police say that the student was seriously injured when a group of police staged in front of Kahathuduwa welfare hospitals.
-
-The injured were a 15 year old student from the Walagama Maha Vidyalaya, the tenth year of the Weharaya Maha Vidyalaya.
-
-The scooter stopped in the car was about ten meters and had passed away with a car collided with a car collide, police said.
-
-The student who was seriously injured in the accident has been admitted to the Wethara Hospital and has been admitted to the Kalubowage Sathugala for further treatment.
-
-Due to the tests of the back of the right side of the back of the car in Piliyandala to Kahathuduwa due to its back
-
-Police say the accident had been hit by the student who was traveling in front of a shooter, which was not to control the road.
-
-Police investigations have revealed that the victim was serving as a shop in the Weather, which attended a shop at the Weather, while the student was serving as a female employee of the Weather.
-
-...
-
-[Data](articles/5cc58e34.json)
-
-[Extended Data](ext_articles/5cc58e34.ext.json)
 
 ---

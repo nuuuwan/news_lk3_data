@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-30 11:34:07**
+As of **2024-05-30 11:53:47**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,357
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,253 (100.0%) of 27,254 articles have been extended.
+27,254 (100.0%) of 27,254 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -52,21 +52,31 @@ Accordingly, a landslide disaster has been issued to Colombo, Kandy, Kegalle, Ku
 
 ---
 
-### மரக்கறிகளுக்கு கடும் தட்டுப்பாடு ஏற்படுவதுடன் விலைகள் துரிதமாக உயரும் - நுவரெலியா பொருளாதார நிலையம்
+### There is a severe shortage of vegetables and prices rise rapidly - Nuwara Eliya Economic Center
 
 *2024-05-30 11:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/184841) · `ta`
 
-எதிர்காலத்தில் மரக்கறிகளுக்கு கடும் தட்டுப்பாடு ஏற்படுவதுடன் விலைகள் துரிதமாக உயரும் என நுவரெலியா பொருளாதார நிலையம் எச்சரித்துள்ளது.
+Nuwara Eliya Economic Center predicts a severe vegetable shortage due to climate damage, leading to rapid price hikes. Farmers face delays in payments, affecting supply.
 
-நிலவும் கடும் மழை மற்றும் காற்றுடன் கூடிய காலநிலை காரணமாக பயிரிடப்பட்ட விவசாய நிலங்களில் தண்ணீர் தேங்கி பயிர்கள் அழிந்து போவதாலும், காற்றினால் மரக்கறி வேர்கள் உதிர்ந்து போவதாலும் தேவைக்கு ஏற்ப விநியோகம் செய்ய முடியாத நிலை ஏற்பட்டுள்ளது.
+🟩
 
-மற்றும் மரக்கறிகளின் விலை படிப்படியாக அதிகரிக்கப்படும் நிலை ஏற்பட்டுள்ளதாகவும், சுமார் ஒரு மாத காலப்பகுதிக்குள் மரக்கறிகளுக்கு கடும் தட்டுப்பாடு ஏற்படும் சாத்தியக்கூறுகள் காணப்படுவதாகவும் நுவரெலியா பொருளாதார நிலைய வர்த்தக சங்கம் எச்சரிக்கை விடுத்துள்ளது.
+The Nuwara Eliya Economic Center has warned that there will be severe shortage of vegetables in the future and prices will rise rapidly.
 
-மரக்கறி விலைகள் மற்றும் தற்போதைய விவசாயிகளின் பிரச்சினைகள் குறித்து கலந்துரையாடுவதற்காக நுவரெலியா பொருளாதார மத்திய நிலையத்தில் தொழிற்சங்கம் (30) ஏற்பாடு செய்திருந்த விசேட செய்தியாளர் மாநாட்டிலேயே அவர்கள் இதனைத் தெரிவித்தனர்.
+Due to heavy rains and wind climates, the agricultural lands cultivated in the agricultural lands have been destroyed and the roots of vegetables are unable to distribute in demand.
+
+The Nuwara Eliya Economic Center has warned that the prices of vegetables have been gradually increased and there will be severe shortage of vegetables within a period of about a month.
+
+They made this statement at a special press conference organized by the union (30) at the Nuwara Eliya Economic Center to discuss the problems of vegetable prices and the current farmers.
+
+In a statement to the media, Mr. Susil Shantha and Secretary of the Nuwara Eliya Economic Center, Mr. Gunasekaran Siva.
+
+The purchase price of one kilogram of cabbage is 70 rupees, the purchase price of carrots is Rs.
 
 ...
 
 [Data](articles/90af5175.json)
+
+[Extended Data](ext_articles/90af5175.ext.json)
 
 ---
 

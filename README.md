@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-30 18:35:04**
+As of **2024-05-30 18:52:45**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,373
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,356 (100.0%) of 27,358 articles have been extended.
+27,358 (100.0%) of 27,358 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1364,21 +1364,31 @@ The petitioner has alleged that the former President has committed contempt of c
 
 ---
 
-### ඉතිහාසයේ ලැබෙන ඓතිහාසිකම ජනවරම මෙවර රනිල් වික්‍රමසිංහට
+### Historical Mandicapulation in History This year Ranil Wickremesinghe
 
 *2024-05-30 13:22:24* · [`adalk`](https://www.ada.lk/breaking_news/ඉතිහාසයේ-ලැබෙන-ඓතිහාසිකම-ජනවරම-මෙවර-රනිල්-වික්‍රමසිංහට/11-409914) · `si`
 
-ලංකා ඉතිහාසයේ ලැබෙන ඓතිහාසිකම ජනවරම මෙවර රනිල් වික්‍රමසිංහ මහතාට ලැබෙන බවත් ඒ වෙනුවෙන් සමස්ථ ශ්‍රී ලාංකික මහජනතාව මේ වනවිටත් පෙළ ගැසී සිටින බවත් එක්සත් ජාතික පක්ෂ සභාපති, පාර්ලිමේන්තු මන්ත්‍රී වජිර අබේවර්ධන මහතා අවධාරණය කළේය.
+In a significant moment for Sri Lanka's history, UNP Chairman Ranil Wickremesinghe addresses the nation, emphasizing the importance of public awareness and caution against misleading political maneuvers. Highlighting the upcoming presidential election, Wickremesinghe stresses the need for unity and vigilance to prevent the country from descending into economic crisis akin to Venezuela or Zimbabwe. His focus remains on fulfilling his responsibilities to steer the country away from bankruptcy, urging political parties to prioritize the public's well-being and avoid further instability.
 
-එසේම දේශපාලන පක්ෂවලට හසුවූ මහජනතාව දැන් එතැනින් ඉවත් වෙමින් සිටින බවත් ඒ නිසාම දේශපාලන පක්ෂ විවිධ සටන් පාඨ නිර්මාණය කරමින් මහජනතාව නොමග යැවීමට උත්සාහ කරමින් සිටින බවත් මේ ගැන රටේ සමස්ථ මහජනතාව කල්පනාවෙන් සහ අවබෝධනයෙන් ක්‍රියාකළ යුතු බවත් ඒ මහතා වැඩිදුරටත් ප්‍රකාශ කළේය.
+🟩
 
-අවේබර්ධන මහතා මෙම අදහස් ප්‍රකාශ කළේ අද (30) ගාල්ල උළුවිටිකේ එක්සත් ජාතික පක්ෂ ප්‍රධාන කාර්යාලයේ පැවැති මාධ්‍ය හමුවකට එක්වෙමිනි.
+UNP Chairman, Vajira Abeywardena, the Sri Lankan public is alignificant to this year's historical mandates in the history of Sri Lanka.
 
-විශේෂයෙන් ආණ්ඩුක්‍රම ව්‍යවස්ථාව අනුව ඔක්තෝබර් මාසයේ 17 වෙනිදාට පෙර ජනාධිපතිවරණය පවත්වන බව ජනාධිපතිවරයා විසින්ම කැබිනට් මණ්ඩලයටත්, අනෙකුත් අත්‍යවශ්‍ය ස්ථානවලටත් ප්‍රකාශ කොට තිබෙනවා. ඒ වගේම අග්‍රාමාත්‍යවරයාත් එම ප්‍රකාශයම සිදුකොට තිබුණා. එසේනම් ඔක්තෝබර් 17 වෙනිදාට ප්‍රථම ජනාධිපතිවරණය ශ්‍රී ලංකාව තුළ පැවත්වෙනවා. එය ස්ථීරයි, ඒ ගැන කිසිඳු ප්‍රශ්නයක් නැහැ.
+He also said that the public who has been with political parties is now quitting and trying to mislead the masses, and the entire public should be conscious and inquire.
+
+Mr. Avage Policy Speaking at a press conference held at the UNP headquarters in Galle, Galle today (30).
+
+The President has told the Cabinet and other essential places that the presidential election is held before 17th September, especially on the 19th of October.. And the Prime Minister had made the same statement. The presidential election is held in Sri Lanka before October 17th. It's permanent, no problem with it.
+
+All political parties are waiting for all political parties and handed over to the leader who en-bankrupt into the bankrupt.
+
+The people of our country do not want this country to be a Venezuela, or not to become a country like Zimbabwe.
 
 ...
 
 [Data](articles/0b60b15f.json)
+
+[Extended Data](ext_articles/0b60b15f.ext.json)
 
 ---
 
@@ -2242,25 +2252,33 @@ In addition, the investigation into the incident has been sent to the Secretary 
 
 ---
 
-### රොෂේන් චානක: කම්කරුවන් වෙනුවෙන් දිවි දුන් පුතුට යුක්තිය සොයන මවගේ ඉල්ලීම
+### Roshen Chanaka: Mother's request for the son of workers for workers
 
 *2024-05-30 11:19:34* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c511pynzdneo) · `si`
 
-රොෂේන් චානක: කම්කරුවන් වෙනුවෙන් දිවි දුන් පුතුට යුක්තිය සොයන මවගේ ඉල්ලීම
+Thirteen years ago, Roshen Chanaka, a worker in the Katunayaka Free Trade Zone, was fatally shot during a protest against the government's proposed changes to the Employees' Provident Fund (EPF) pension scheme. His mother, Swarna Kanti, recounts the tragic event and the subsequent struggles to obtain justice for her son. Despite the intervention of ministers and MPs, and the establishment of a commission to investigate the incident, the report remains inaccessible due to claims of national security threats. Six years later, under the Right to Information Act, Roshen's mother managed to secure the report, which she believes does not adequately address the issues surrounding her son's death. She continues to advocate for justice not just for Roshen, but for all workers affected by similar incidents during the Rajapaksa regime.
 
-මීට වසර දහතුනකට පෙර අදවන් දිනක කටුනායක නිදහස වෙළඳ කලාප වැඩ බිම අරගල භූමියක් බවට පත් වුයේ එවක ජනපති මහින්ද රාජපක්ෂගේ නායකත්වයෙන් යුත් රජය විසින් සේවක අර්ථසාධක අරමුදල කප්පාදු කර, විශ්‍රාම වැටුප් ක්‍රමයක් ඉදිරිපත් කිරීමට ගෙන එන ලද යෝජනාවට එරෙහිව ය.
+🟩
 
-එම යෝජනාව “අර්ථසාධක අරමුදල කොල්ලකෑමට ගන්නා උත්සාහයක්” ලෙස චෝදනා කරමින් දින කිහිපයක් තිස්සේ රට පුරා කම්කරුවන් විරෝධය දැක්වු අතර පැවති විරෝධයන්ට රජය පාර්ශවයෙන් පිළිගත හැකි විසඳුමක් නොලැබීම හේතුවෙන් 2011 මැයි මස 30 වැනිදා රජයට එරෙහි විරෝධය  තීව්‍ර කරමින් කටුනායක නිදහස් වෙළඳ කලාප සේවකයන් වැඩ වරමින් වීදී සටනක් ආරම්භ කළහ.
+Roshen Chanaka: Mother's request for the son of workers for workers
 
-නිරායුධ කම්කරුවන්ගේ එම විරෝධතාවට පොලිසිය විසින් වෙඩි තැබූ  අතර කම්කරුවන් 400ක්  පමණ එහිදී  තුවාල සිදු විය.
+Thirteen years ago, Katunayaka Freedom was a struggle for the release of the Employees 'Provident Fund and presented the Employees' Provident Fund and presented a pension scheme.
 
-එම සටන්කරුවන් අතර සිටි රොෂේන් ශානක නිදහස් වෙළඳ කලාප සේවයට ගොස් ගතව තිබුණේ  හාර මාසයක් පමණි.
+Katunayake Free Trade Zone workers commence anti-government warranty due to the objections of the government to obstruct the protesters of the country for several days, accusing the proposal as the proposal was accused of announcing the "EPF".Did.
 
-එදින වෙඩි තැබීමෙන් තුවාල ලබා  රෝහල් ගත කළ ඔහු දෙදිනකට පසුව මිය ගිය අතර පසුව රජය තම විශ්‍රාම වැටුප් යෝජනාව හකුලා  ගත්තේය.
+Police fired at the protest of unarmed workers and about 400 workers were injured.
+
+Among those fighters, Roshean Shanaka won the service only one month.
+
+He was hospitalized after being injured in the shooting that day, and the government was diagnosed with his pension scheme.
+
+In the Meeting of Roshen, who rescued the meaning of the private sector employees of the private sector in the country, was rescued to the Minuwangoda.
 
 ...
 
 [Data](articles/573d95b9.json)
+
+[Extended Data](ext_articles/573d95b9.ext.json)
 
 ---
 

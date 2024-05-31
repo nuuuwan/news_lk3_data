@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-31 23:04:13**
+As of **2024-05-31 23:18:49**
 
 ## Newspaper Stats
 
-*Scraped **27,598** Articles*
+*Scraped **27,603** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,105 @@ islandlk | 1,488
 economynextcom | 1,575
 dailyftlk | 1,612
 adalk | 2,360
-adaderanalk | 3,142
+adaderanalk | 3,143
 tamilmirrorlk | 3,234
 virakesarilk | 4,260
 dailymirrorlk | 4,371
-adaderanasinhalalk | 4,405
+adaderanasinhalalk | 4,409
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,598 (100.0%) of 27,598 articles have been extended.
+27,598 (100.0%) of 27,603 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-31 (Friday)
+
+### සයිනොපෙක් මිලත් වෙනස් වෙයි
+
+*2024-05-31 23:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197228) · `si`
+
+ඒ අනුව ඔක්ටේන් 92 වර්ගයේ පෙට්‍රල් ලීටරයක් රුපියල් 10කින් පහත දමා ඇති අතර එහි නව මිල රුපියල් 355කි.
+
+ඔටෝ ඩීසල් ලීටරයක් රුපියල් 19කින් පහළ දමා ඇති අතර එහි නව මිල රුපියල් 314කි.
+
+◼️
+
+[Data](articles/667a699d.json)
+
+---
+
+### Police arrest most wanted suspect who assisted ISIS-linked Sri Lankans arrested in India
+
+*2024-05-31 22:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/99572/police-arrest-most-wanted-suspect-who-assisted-isis-linked-sri-lankans-arrested-in-india) · `en`
+
+A most wanted suspect believed to have maintained close links with and assisted the 04 Sri Lankans arrested in India over suspected links with ISIS has been arrested in Colombo in a joint operation by the Criminal Investigations Department (CID) and the Terrorism Investigation Division (TID) of Sri Lanka Police.
+
+Police Media Spokesman DIG Nihal Thalduwa said the arrested suspect has been identified as Osman Pushparaj.
+
+◼️
+
+[Data](articles/55daf9d7.json)
+
+---
+
+### ISIS සැකකරුවන් සමග සමීප සබඳතා පැවැත්වූ ප්‍රබලයෙක් අත්අඩංගුවට
+
+*2024-05-31 22:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197227) · `si`
+
+ISIS සංවිධානය සමඟ සම්බන්ධ බවට සැකකෙරෙන ඉන්දියාවේදී අත්අඩංගුවට ගත් ශ්‍රී ලාංකිකයින් සිව්දෙනා සමඟ සමීප සබඳතා පැවැත්වූ සහ සහාය වූ බවට සැක කෙරෙන අත්‍යාවශ වූ සැකකරු වන ඔස්මන් පුෂ්පරාජ් නැමැත්තා අත්අඩංගුවට ගෙන තිබේ.
+
+පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති, නීතිඥ නිහාල් තල්දුව මහතා පැවසුවේ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ ත්‍රස්ථ විමර්ශන දෙපාර්තමේන්තුව ඒකාබද්ධව සිදුකළ මෙහෙයුමකින් කොළඹදී අත්අඩංගුවට ගත් බවය.
+
+◼️
+
+[Data](articles/d8938f7b.json)
+
+---
+
+### Starlink ගැන අවසන් තීරණය ලබන සතියේ
+
+*2024-05-31 22:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197226) · `si`
+
+Starlink අන්තර්ජාල සේවය මෙරට ක්‍රියාත්මක කිරීම සම්බන්ධයෙන් වන බලපත්‍රය පිළිබඳව අවසන් තීන්දුව ලබන සතියේදී ජනාධිපතිවරයා වෙත ඉදිරිපත් කිරීමට බලාපොරොත්තු වන බව තාක්ෂණ රාජ්‍ය අමාත්‍ය කනක හේරත් මහතා පවසයි.
+
+රාජ්‍ය අමාත්‍යවරයා වැඩිදුරටත් පවසන්නේ, චන්ද්‍රිකා තාක්ෂණය හරහා අන්තර්ජාල පහසුකම් සැපයීමේ සේවාවන් සඳහා පළමුවරට මෙවැනි ඉල්ලීමක් සිදුකර ඇති බවත් ඒ සඳහා අවශ්‍ය නීති කෙටුම්පත් සැකසීම සිදුකරමින් සිටින බවය.
+
+ලොව ධනවත්ම මෙන්ම සුපක්‍රට තාක්ෂණ ව්‍යවසායකයෙකු වන ඊලොන් මස්ක් හිමිකාරිත්වය දරන space x ව්‍යාපෘතිය හරහා Starlink අන්තර්ජාල සේවාව ආරම්භ කරනු ලැබීය.
+
+Starlink ව්‍යාපෘතිය හරහා ෆයිබර් ඔප්ටික් කේබල් භාවිතා කිරීම වෙනුවට පැයට කිලෝමීටර් 27,000ක ආසන්න වේගයකින් ගමන් ගන්නා චන්ද්‍රිකාවක් හරහා අධික වේගයෙන් දත්ත හුවමාරු කිරීම සිදුකරනු ලබයි.
+
+Starlink හරහා දුෂ්කර ප්‍රදේශවල වාසය කරනු ලබන අන්තර්ජාල පරිශීලකයින් වෙත අන්තර්ජාලට පිවිසිමට අවස්ථාව උදාවේ.
+
+2024 වන විට ස්ටාර්ලින්ක් චන්ද්‍රිකා 5,874ක් කක්ෂ ගත කර ඇති අතර ඉන් චන්ද්‍රිකා 5,800ක ප්‍රමාණයක් ක්‍රියාත්මක තත්ත්වයේ පවතින බව වාර්තා වේ.
+
+...
+
+[Data](articles/dd177be5.json)
+
+---
+
+### ඉලක්ක සපුරා ගැනීමට AI තාක්ෂණය ප්‍රවර්ධනය කළ යුතුයි -ජනපති
+
+*2024-05-31 22:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197225) · `si`
+
+ඉදිරි සමාජ හා ආර්ථික ඉලක්ක සපුරා ගැනීමට නම් කෘත්‍රිම බුද්ධිය වැනි නවීන තාක්ෂණික ක්‍රම රට තුළ ප්‍රවර්ධනය කළයුතු බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+
+AI තාක්ෂණය මෙරටට හඳුන්වාදීම පිළිබඳ විශ්වවිද්‍යාල සිසුන් සමඟ සාකච්ඡාවකට එක්වෙමින් ජනාධිපතිවරයා මෙම අදහස් පළකළේය.
+
+කෘතිම බුද්ධිය මෙරට විවිධ ක්ෂේත්‍ර සඳහා හඳුන්වාදීම සම්බන්ධයෙන් විශේෂ සාකච්ඡාවක් ජනාධිපතිවරයා සහ විශ්වවිද්‍යාල සිසුන්, ආචාර්යවරුන් ඇතුළු පිරිසක් සමඟ ඊයේ (30) පැවැත්විය.
+
+ජනාධිපති කාර්යාලයේදී පැවති මෙම සාකච්ඡාවේදී විශ්වවිද්‍යාල සිසුන් සහ ආචාර්යවරුන් කෘත්‍රිම බුද්ධිය සම්බන්ධයෙන් මේවන විට සිදුකරමින් පවතින ව්‍යාපෘති පිළිබඳ ද අදහස් පළකළේය.
+
+''තාක්ෂණය ගැන සැලකූ විට ශ්‍රී ලංකාවට විශාල පිම්මක් පනින්න ඕනේ. තාක්ෂණය අතින් අපි ගොඩක් පසුපසින් ඉන්නවා වගේම තාක්ෂණික දැනුම ආර්ථික ප්‍රතිලාභ සඳහා යොදාගෙන නැහැ. නව ක්ෂේත්‍රය තමයි AI නැතිනම් කෘත්‍රිම බුද්ධිය. අපිට AI අංශයෙන් පසුබසින්න බැහැ අපි AI සමඟ ඉදිරියට යනවා නම් අනෙක් තාක්ෂණික දැනුමත් ඒ සමඟ වැඩි දියුණු කරගන්න හැකි වේවි. අනාගතයේදී අපිව විනිශ්චය කරන ප්‍රධානම මිනුම් දණ්ඩ වන්නේ අපි AI භාවිත කරන ආකාරයයි.
+
+...
+
+[Data](articles/3c3b9725.json)
+
+---
 
 ### How Trump was convicted
 
@@ -2197,127 +2281,5 @@ He added that discussions with State Minister Ranjith Siyambalapitiya indicated 
 [Data](articles/aba4bd01.json)
 
 [Extended Data](ext_articles/aba4bd01.ext.json)
-
----
-
-### Increase in daily egg consumption in the country
-
-*2024-05-31 11:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/184938) · `ta`
-
-Egg consumption in the country has risen significantly, surpassing 70 lakh to 80 lakh eggs daily over the past few months. This surge is partly due to the influx of foreign tourists and the affordability and nutritional value of eggs compared to other foods like meat and fish.
-
-🟩
-
-Egg consumption in the country has increased, the Department of Animal Production and Health said.
-
-That is, the daily consumption of the egg in the last few months has crossed 70 lakhs and then 80 lakhs. Accordingly, the daily consumption of the egg daily has increased by 10 lakhs, the department said.
-
-Increase in the advent of foreign tourists and high nutritious and cheap foods such as meat, fish and egg prices have been attributed to the increase in consumption.
-
-◼️
-
-[Data](articles/6d7fd173.json)
-
-[Extended Data](ext_articles/6d7fd173.ext.json)
-
----
-
-### Trying to sell additional drugs in Sri Lanka to Ukraine through Polish?What does the Ministry of Defense report?
-
-*2024-05-31 11:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/184937) · `ta`
-
-The Ministry of Defense denies claims that Polish intermediaries are facilitating drug sales from Sri Lanka to Ukraine. Spokesman Nalin Herath confirms no truth to these allegations. He also mentions that while ammunition is stored in army camps, it's not owned by the MoD and will be removed due to security reasons. Security sources reveal that explosives, previously intended for Poland by a Chinese company, have been stopped due to international intervention.
-
-🟩
-
-The Ministry of Defense has rejected information that Polish intermediaries are being used to sell more and more drugs in Sri Lanka to Ukraine.
-
-Nalin Herath, a spokesman for the Ministry of Defense, said there was no truth in such information.
-
-However, he acknowledged that timely ammunition was stored in the army camps.
-
-However, the ammunition is not owned by the Ministry of Defense, he said, adding that the company has asked the company to remove them due to security concerns.
-
-Meanwhile, security sources said that the further explosives were owned by a Chinese company, according to reports that the Chinese company tried to send these explosives to Poland last year, but it was halted by international pressure.
-
-◼️
-
-[Data](articles/be58ac61.json)
-
-[Extended Data](ext_articles/be58ac61.ext.json)
-
----
-
-### The solution is the solution to the right to self -determination - evidence of genocide in Sri Lanka
-
-*2024-05-31 11:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/184934) · `ta`
-
-The discussion revolves around the importance of recognizing the genocide in Sri Lanka and advocating for self-determination as a solution. It highlights the U.S.'s acknowledgment of the genocide, the need for international support, and the potential for peaceful resolution through self-determination. The conversation also touches on the historical significance of self-determination rights and the role of the U.S. in supporting such causes globally.
-
-🟩
-
-He said that self -determination is an essential solution, and that the Member of the US House of Representatives Wile Nikel said that it is necessary to take place.
-
-He said that the US recognizes that the genocide took place in Sri Lanka, but there is evidence that Barack Obama has spoken in his book.
-
-Thank you for submitting a historic resolution in the US Congress - Can you tell me more about it?
-
-I think this is the most important step towards the hearing of our voices in the United States on the issue of repression and self -determination against the Tamil people.
-
-I think the solution to the right of self -determination can reach it in a peaceful way.
-
-The rest of the world's most important countries have examined the United States.
-
-This is the first step in the first phase of the Congress and the other members of the Congress have received great support and I am very confident that we are heading towards.
-
-...
-
-[Data](articles/5ef410b2.json)
-
-[Extended Data](ext_articles/5ef410b2.ext.json)
-
----
-
-### Ex-CBSL chief Cabraal and 3 others released from 2012 Greek bonds case
-
-*2024-05-31 11:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/99558/ex-cbsl-chief-cabraal-and-3-others-released-from-2012-greek-bonds-case) · `en`
-
-The Colombo High Court today (31) ordered the release of former Governor of the Central Bank of Sri Lanka (CBSL) Ajith Nivard Cabraal and three other defendants in a case filed against them alleging financial losses caused to the government of Sri Lanka through investments in Greek treasury bonds in 2012.
-
-The attorneys who appeared on behalf of the former CBSL chief had raised objections that the relevant case filed by the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) cannot be maintained.
-
-The Colombo High Court Judge Adithya Patabendige, who accepted the relevant objections ordered the release of Ajith Nivard Cabraal and the co-defendants of the case.
-
-The defendants were accused of causing a loss of over Rs. 1.8 billion to the Sri Lankan government through the Greek T-bond investments in 2012.
-
-On 03 May 2024, Cabraal’s attorneys raised preliminary objections, leading to today’s decision to dismiss the case and the release of the defendants.
-
-◼️
-
-[Data](articles/b23e8d77.json)
-
-[Extended Data](ext_articles/b23e8d77.ext.json)
-
----
-
-### Cabraal and others released
-
-*2024-05-31 11:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197206) · `si`
-
-In a case involving Ajith Nivard Cabraal and others, the Colombo High Court dismissed preliminary objections from attorneys and defendants, paving the way for their release. The case was initially filed by the Bribery Commission.
-
-🟩
-
-The Colombo High Court has set the release of Rs.
-
-Attorneys and the accused of the defendants including Ajith Nivard Cabraal had raised the primaries including Ajith Nivard Cabraal that the case filed by the Bribery Commission.
-
-The judge sentenced to release the preliminary objections.
-
-◼️
-
-[Data](articles/b49e3e94.json)
-
-[Extended Data](ext_articles/b49e3e94.ext.json)
 
 ---

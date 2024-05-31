@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-31 14:34:25**
+As of **2024-05-31 15:04:43**
 
 ## Newspaper Stats
 
-*Scraped **27,515** Articles*
+*Scraped **27,520** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,68 @@ economynextcom | 1,572
 dailyftlk | 1,612
 adalk | 2,349
 adaderanalk | 3,132
-tamilmirrorlk | 3,227
+tamilmirrorlk | 3,228
 virakesarilk | 4,242
-dailymirrorlk | 4,354
-adaderanasinhalalk | 4,390
+dailymirrorlk | 4,355
+adaderanasinhalalk | 4,393
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,509 (100.0%) of 27,515 articles have been extended.
+27,520 (100.0%) of 27,520 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-31 (Friday)
+
+### In 45 hours of meditation
+
+*2024-05-31 14:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197211) · `si`
+
+Narendra Modi initiated a 45-hour meditation session inspired by Swami Vivekananda's 1892 practice at the Gokhale Memorial Meditation Center. This event coincides with the upcoming Indian General Election, scheduled for today (01).
+
+🟩
+
+Indian Prime Minister Narendra Modi has launched 45 hours of meditation.
+
+In the year 1892, Indian Philosopher Swami Swami Swami Swami Swami Swami Swami Swami Ownership was at the Giked Memorial Meditation Center at Kanampari.
+
+Prime Minister Moody is due to be favorable until tomorrow evening tomorrow and the Indian General Election will be held tomorrow (01).
+
+◼️
+
+[Data](articles/112fa717.json)
+
+[Extended Data](ext_articles/112fa717.ext.json)
+
+---
+
+### 3 girls aged 14;News published by the police
+
+*2024-05-31 14:28:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/14-வயதுடைய-3-சிறுமிகள்-மாயம்-பொலிஸார்-வெளியிட்ட-செய்தி/175-338199) · `ta`
+
+In Gampaha-Yakkala, three 14-year-old grade 9 students have been missing since yesterday. Their parents filed a complaint as they didn't return home by Wednesday night. The police, along with the Children's and Women Bureau and Weerakula Police, are investigating but haven't found any leads yet.
+
+🟩
+
+Yakkala and Weerakula police said that three students aged 14 in Gampaha - Yakkala area have disappeared since yesterday.
+
+Three missing students are reported to be friends in grade 9 at a school in Gampaha Yakkala.
+
+Parents have lodged this complaint, saying they did not come home until Wednesday night.
+
+The police said that there were no information about the three missing students.
+
+Further investigations are being carried out by the Children's and Women Bureau and Weerakula Police. Remble
+
+◼️
+
+[Data](articles/5ff7fc98.json)
+
+[Extended Data](ext_articles/5ff7fc98.ext.json)
+
+---
 
 ### Memorial service held in remembrance of late French Ambassador
 
@@ -45,6 +93,8 @@ Foreign Minister Ali Sabry and a larger group of Ambassadors and High Commission
 ◼️
 
 [Data](articles/37d85b15.json)
+
+[Extended Data](ext_articles/37d85b15.ext.json)
 
 ---
 
@@ -68,6 +118,42 @@ He was originally left out of Nepal's 15-man squad for the tournament, which wil
 
 [Data](articles/791d0e9c.json)
 
+[Extended Data](ext_articles/791d0e9c.ext.json)
+
+---
+
+### Midigama is questioning crimes who did
+
+*2024-05-31 14:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197210) · `si`
+
+Midigama Ruwan, an organized crime member, was arrested in Dubai for his involvement in a nightclub brawl and is now being questioned in Sri Lanka by the Terrorism Investigation Division regarding his alleged role as the mastermind behind the Mt. 422 incident. He is known to have connections with other criminals, including Kosgoda Sugho, and attempted to escape from the Criminal Investigation Department. Further inquiries are underway under the direction of DIG Premane Premaratne.
+
+🟩
+
+Midigama Ruwan, an organized crime member, who was arrested in Dubai, was brought to the island this morning (31) by officers of the Terrorism Investigation Division.
+
+He was brought to the terrorist eradication division in Colombo and is now being questioned by him.
+
+Midigama Ruwan was arrested by police about a clash at a Dubai nightclub.
+
+The international police issued red announcements against him.
+
+Midigama Ruw, the master planner of the Mt. 422, was nominated as the main planner of the Mt.
+
+When he was arrested, he had been with criminals named Kosgoda Suhg.
+
+The brother of the wander, or the wife of the crimes committed on his advice, was also the brother of gold.
+
+Police said that the Suspect's attempt to escape the beef criminal investigation Department was planned by Ruwan.
+
+Further investigations are being carried out on the instructions of DIG Premane Premaratne in charge of the Midigama Ruwan.
+
+◼️
+
+[Data](articles/61f906c9.json)
+
+[Extended Data](ext_articles/61f906c9.ext.json)
+
 ---
 
 ### Proposed Electricity Bill will unbundle CEB services, guarantee quality supply: Kanchana
@@ -83,6 +169,56 @@ The Minister said the proposed three-year reform timeline will also enable to es
 ...
 
 [Data](articles/b934d6dd.json)
+
+[Extended Data](ext_articles/b934d6dd.ext.json)
+
+---
+
+### In remembrance of French Ambassador...
+
+*2024-05-31 14:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/In-remembrance-of-French-Ambassador/110-283803) · `en`
+
+A memorial service in remembrance of the late Ambassador Jean-François Pactet of France to Sri Lanka was held at St. Mary’s Church, Lauries Road,  Colombo 04 this morning.Pix by Nimalsiri Edirisinghe
+
+◼️
+
+[Data](articles/09e427d0.json)
+
+[Extended Data](ext_articles/09e427d0.ext.json)
+
+---
+
+### Sky Mawan's bag was catching the suspect
+
+*2024-05-31 13:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197209) · `si`
+
+Sky Mawan's bag, containing $5,000 and a MacBook, was stolen from the Fort Railway Station. The suspect, a 26-year-old previously involved in thefts, was arrested in Kelaniya after hiding. He sold the stolen items and attempted to change the MacBook's password. The Pettah Police recovered the items and returned them to Sky Mawan, praising their efforts.
+
+🟩
+
+The suspect was arrested while he was hiding in the Kelaniya, Kelaniya and Pethiyagoda area.
+
+The 26-year-old suspect was a suspect in the police regarding many of these thefts.
+
+The Sky Skye, a British girl who lives in Australia, has come to Sri Lanka on May 24.
+
+When she went to the Fort Railway Station, she had stolen her bag when she arrived at the bus stand for the bus stop due to the inclement weather.
+
+Sky Mawen declared that one of US $ 5,000, a cash prize of $ 500,000 to someone who is looking for or finding his bag.
+
+Meanwhile, the Pettah Police are conducting further investigations to investigate the complaint to the police regarding the stolen of her bag.
+
+Pettah Police have the photographs of trading and knudkers in Pettah buses.
+
+Investigations have gone on a rented place on a rental base of Kelaniya and Pethiyagoda houses.
+
+However, the suspect was reported to the resident of Derana on May 29, the suspect was arrested while closing the rented house and hid.
+
+...
+
+[Data](articles/a43d4330.json)
+
+[Extended Data](ext_articles/a43d4330.ext.json)
 
 ---
 
@@ -101,6 +237,8 @@ Investigations revealed that the tourist, a YouTuber had arrived in Sri Lanka to
 ◼️
 
 [Data](articles/9839d269.json)
+
+[Extended Data](ext_articles/9839d269.ext.json)
 
 ---
 
@@ -2039,109 +2177,5 @@ He said that before the rainy weather began, the hydraulic power generation was 
 [Data](articles/a0f76567.json)
 
 [Extended Data](ext_articles/a0f76567.ext.json)
-
----
-
-### Indian arrest with illegal cigarettes
-
-*2024-05-31 00:57:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சட்டவிரோத-சிகரெட்டுகளுடன்-இந்தியர்-கைது/175-338184) · `ta`
-
-An Indian national was arrested at Katunayake airport in Sri Lanka for smuggling approximately 3 lakh rupees worth of illegal cigarettes. The 31-year-old suspect was detained as part of a police operation targeting drug trafficking.
-
-🟩
-
-An Indian foreign citizen who brought illegal cigarettes to Sri Lanka has been arrested at the Katunayake airport.
-
-The suspect has been arrested during a roundup conducted by the Katunayake Division of the Police Drug Eradication Unit.
-
-A 31 -year -old Indian citizen has been arrested on suspicion.
-
-The value of the cigarettes he brought illegally has been revealed to be about 3 lakh rupees. (A)
-
-◼️
-
-[Data](articles/96fef550.json)
-
-[Extended Data](ext_articles/96fef550.ext.json)
-
----
-
-### The US,  Zionism and moral depravity
-
-*2024-05-31 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/The-US-Zionism-and-moral-depravity/172-283733) · `en`
-
-“Finish them,” failed Republican Party presidential candidate Nikki Haley writes on a shell Israel will use to kill children and civilians in Gaza
-
-As Israel’s genocidal campaign in the Gaza Strip enters its eighth month, more and more people around the world realise that Zionism is an evil ideology. If Zionism is not denounced and eradicated, similar to how the world dealt with Nazism after World War II, nations may soon find themselves dependent on this destructive ideology for their survival.
-
-The day Zionism is defeated is the victory day for humanism and humanity.
-
-...
-
-[Data](articles/28a054dd.json)
-
-[Extended Data](ext_articles/28a054dd.ext.json)
-
----
-
-### Lies used in the name of transforming a nation
-
-*2024-05-31 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Lies-used-in-the-name-of-transforming-a-nation/172-283728) · `en`
-
-When we think of elections in Sri Lanka we are forced to think of marriages as well. This is largely because the incumbent President Ranil Wickremesinghe has decided to contest the upcoming presidential elections as an independent candidate with the support of a strong alliance. These are days when we see many promises being made on the political scene by ambitious individuals. People on this ‘sun-kissed island’ are used to this bluff, but sadly they aren’t immune to being fooled time and time again.
-
-...
-
-[Data](articles/63622eac.json)
-
-[Extended Data](ext_articles/63622eac.ext.json)
-
----
-
-### 2024-05-30 (Thursday)
-
-### Chronic kidney disease: Cases now drop due to purified water
-
-*2024-05-30 23:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Chronic-kidney-disease-Cases-now-drop-due-to-purified-water/108-283721) · `en`
-
-May 30 - Deputy Director General of  Beijing Center for Disease Control and Prevention Professor Quanyi Wang said that the Chinese Academy of Sciences (CAS) has been providing necessary guidance and support to tackle the Chronic Kidney Diseases of Unknown Etiology  (CKDU) since 2015.
-
-Professor Wang was making a presentation on ‘The Chinese project investigating the causes of CKDu and its research progress during the  CKDU knowledge sharing and collaboration workshop held at the Joint Research and Demonstration Center in Peradeniya recently.
-
-The National Institute of Kidney Diseases and  Urology (NIKDU) organized the workshop in collaboration with the Chinese Academy of Sciences.
-
-He said that various government departments and institutions have been provided support by the Chinese government in tackling the Chronic Kidney Disease which is  prevailing in some parts of Sri Lanka.
-
-...
-
-[Data](articles/4e1fa95c.json)
-
-[Extended Data](ext_articles/4e1fa95c.ext.json)
-
----
-
-### CT scan machine that has been damaged for months!Patients are severe!
-
-*2024-05-30 23:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/184910) · `ta`
-
-Vavuniya General Hospital's sole CT scanner has been malfunctioning for months, forcing patients to seek scans in distant hospitals like Polonnaruwa and Jaffna. The machine, after a brief repair, was damaged again, exacerbating the crisis. Patients face significant delays and additional expenses due to this issue.
-
-🟩
-
-The CT scan engine at the Vavuniya General Hospital has been infected with patients and has been suffering from a shortage of patients for the past few months.
-
-There is only one CT machine at Vavuniya General Hospital. It has been ripe for the past few months. Patients who need to take CT scan are sent to Polonnaruwa and Jaffna Teaching Hospitals.
-
-For a patient, one must travel in the patient's nurses. This results in waste costs not only of time. There is also a shortage of patients in the hospital. People have to wait for that.
-
-Meanwhile, a few days ago, the machine was revised. It was again damaged that day.
-
-The CT machine has been accused of not being rushed to the hospital in retaining it and engaging in a steady operation.
-
-◼️
-
-[Data](articles/2bb635d8.json)
-
-[Extended Data](ext_articles/2bb635d8.ext.json)
 
 ---

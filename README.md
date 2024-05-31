@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-01 00:05:17**
+As of **2024-06-01 00:18:43**
 
 ## Newspaper Stats
 
-*Scraped **27,615** Articles*
+*Scraped **27,619** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,21 +14,101 @@ bbccomsinhala | 273
 newsfirstlk | 363
 islandlk | 1,488
 economynextcom | 1,583
-dailyftlk | 1,612
+dailyftlk | 1,613
 adalk | 2,360
 adaderanalk | 3,143
 tamilmirrorlk | 3,235
 virakesarilk | 4,260
-dailymirrorlk | 4,374
+dailymirrorlk | 4,377
 adaderanasinhalalk | 4,409
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,614 (100.0%) of 27,615 articles have been extended.
+27,615 (100.0%) of 27,619 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-06-01 (Saturday)
+
+### 700,000 houses for low income households and financing plan
+
+*2024-06-01 00:03:01* · [`dailyftlk`](https://www.ft.lk/columns/700-000-houses-for-low-income-households-and-financing-plan/4-762450) · `en`
+
+Total houses required – 700,000 (slums + temp structures + homeless)
+
+Above statistics may not be 100% accurate, but it is indicative.
+
+700,000 houses at Rs. 2 million/unit ($ 7,000) = $ 5 billion
+
+Stop investing money on a new Hingurakgoda Airport. Sri Lanka (SL) already has six airports. SL does not need another airport;
+
+Stop taking new loans for roads, irrigation. Maintenance of roads and irrigation tanks could continue. Work already started on roads, irrigation projects could continue;
+
+Obtain new grants from India to construct houses in the north and the estate sector. Obtain grants without conditions from the Middle East countries to construct houses in the Eastern Province;
+
+Obtain grants from China and Japan to construct houses in the South and the Western Provinces;
+
+Obtain grants from UNDP, Save the Children, and other donor organisations for the low income housing program which is to minimise poverty;
+
+...
+
+[Data](articles/1f3dd00c.json)
+
+---
+
+### Red herrings, referendums, poverty and postponing elections
+
+*2024-06-01 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Red-herrings-referendums-poverty-and-postponing-elections/172-283850) · `en`
+
+Even though an election has not been officially announced by the Commissioner of Elections, election fever has hit our political parties. The Secretary of the United National Party (UNP) suggested a possible postponement of elections. Was he drawing a red herring to test the political waters?
+
+The ordinary man on the street though, has not been drawn into this conversation. They are looking for ways and means to keep the wolf from the door. But this does not mean they are disinterested.
+
+On 29 May, nearly all news media carried the pathetic tale of a mother of four living in Padaviya, having had electricity and water supply to her house being disconnected. Four months ago her husband-the sole breadwinner of the family died in a tragic accident. She has been unable to make ends meet since then.
+
+The youngest child is 40 days old! The two elder children study in the fourth and second grades at their school, while the third child is a two-year-old.
+
+...
+
+[Data](articles/056ad4d3.json)
+
+---
+
+### Referendum to extend President’s term: Is it ploy to avoid election defeat?
+
+*2024-06-01 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Referendum-to-extend-Presidents-term-Is-it-ploy-to-avoid-election-defeat/172-283853) · `en`
+
+It is undoubtedly election phobia of the United National Party (UNP) headed by President Ranil Wickremesinghe that prompted Palitha Range Bandara, the General Secretary of the Party to suggest on Tuesday to hold a referendum to extend the term of the President and Parliament for two more years.
+
+“This is the best option at this moment to save the nation. The Government has reached agreements with the IMF, World Bank and other donors on economic reforms and it is essential to extend the terms of the President and Parliament to make this exercise a success,” Range Bandara told the media.
+
+Although Wickremesinghe and several other UNP leaders have disowned their General Secretary’s statement, the general perception is that this is not his personal opinion but a collective decision of the top most few inner circle leaders of the party to test the waters – to feel the response of the people and the Opposition.
+
+...
+
+[Data](articles/bb22cd5b.json)
+
+---
+
+### Range Bandara’s   “Loud Thinking” and Ranil’s election campaign
+
+*2024-06-01 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Range-Bandaras-Loud-Thinking-and-Ranils-election-campaign/172-283848) · `en`
+
+President Ranil Wickremesinghe (centre), UNP General Secretray Palitha Range Bandara and  UNP Chairman Vajira Abeywardena greet crowds at an election rally
+
+When some UNP seniors and party office-bearers met to discuss the situation  Range Bandara in his capacity as Gen Secy was also present. Some of those present began to criticise Range and blame him  for bringing the Government into disrepute. Ranil Wickremesinghe however intervened  and put a stop to “Bandara baiting”
+
+Even though Range Bandara’s proposal was his personal point of view and only a suggestion, it was not perceived as such. Sections of the media and social media along with Opposition political parties treated it as an official Government announcement
+
+The essence of what Palitha Range Bandara proposed was this -. Ranil Wickremesinghe took over the country’s leadership at a time of a great economic crisis
+
+...
+
+[Data](articles/d8f8c7cb.json)
+
+---
 
 ### 2024-05-31 (Friday)
 
@@ -208,13 +288,19 @@ Sri Lanka wants to jump a huge leap when considering technology. The technique i
 
 *2024-05-31 22:09:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எரிபொருட்களின்-விலையில்-அதிரடி-திருத்தம்/175-338209) · `ta`
 
-இதற்கமைய, ஒக்டேன் 92 ரக பெற்றோல் லீற்றர் ஒன்றின் விலை 13 ரூபாவினால் குறைக்கப்பட்டு, புதிய விலை 355 ரூபாயாக நிர்ணயிக்கப்படவுள்ளது.
+Petrol (Octane 92) price drops by 13 rupees to 355 per liter; diesel (Otto) now sells for 317 per liter from tonight.
 
-இதற்கமைய, இன்று நள்ளிரவு முதல் ஒரு லீற்றர் ஒட்டோ டீசல் 317 ரூபாவுக்கு விற்பனை செய்யப்படவுள்ளது.
+🟩
+
+Accordingly, the price of a liter of petrol by Octane 92 will be reduced by 13 rupees and the new price will be fixed at 355 rupees.
+
+Accordingly, a liter of Otto diesel will be sold for 317 rupees from midnight today.
 
 ◼️
 
 [Data](articles/efd319e9.json)
+
+[Extended Data](ext_articles/efd319e9.ext.json)
 
 ---
 
@@ -2231,85 +2317,5 @@ Sri Lanka Insurance Corporation Limited is 51.34% of Lanka Hospitals Corporation
 [Data](articles/6c43cefc.json)
 
 [Extended Data](ext_articles/6c43cefc.ext.json)
-
----
-
-### Protest against Israeli actions in Gaza
-
-*2024-05-31 13:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Protest-against-Israeli-actions-in-Gaza/110-283800) · `en`
-
-A demonstration aimed at halting the Israeli actions in the Gaza Strip took place outside the United Nations office in Bambalapitiya, joined by the Democratic Youth, Students for Social Equality, and the Socialist Equality Party. Pix by Kithsiri De Mel
-
-◼️
-
-[Data](articles/10765ebc.json)
-
-[Extended Data](ext_articles/10765ebc.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-05-31 13:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/184949) · `ta`
-
-The US dollar's selling price is Rs 296.9774, while its buying price is Rs 306.5863 as per the Central Bank update on May 31.
-
-🟩
-
-The US dollar sales price was Rs 296.9774 and the purchase price was Rs 306.5863 based on the Central Bank released today (May 31).
-
-◼️
-
-[Data](articles/e9748679.json)
-
-[Extended Data](ext_articles/e9748679.ext.json)
-
----
-
-### 2016 hit-and-run incident: Ex-CCD officers ordered to compensate Champika’s driver’s family
-
-*2024-05-31 13:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/99561/2016-hit-and-run-incident-ex-ccd-officers-ordered-to-compensate-champikas-drivers-family) · `en`
-
-The Supreme Court has declared that the police have violated fundamental human rights by illegally detaining the wife, mother-in-law and one-year-old daughter of MP Patali Champika Ranawaka’s driver.
-
-The detention had occurred within the Colombo Crimes Division (CCD) for several hours and was related to the alleged hit-and-run incident at Rajagiriya in 2016.
-
-Accordingly, the court ordered the responsible officers; then Acting Director of the Colombo Crimes Division Neville Silva and Chief Inspector of Police A. Meththananda to pay a compensation of Rs. 250,000 each to the aggrieved party with their personal money.
-
-Additionally, it was also ordered that the government should pay a compensation of Rs. 10,000 to the petitioner.
-
-The verdict was delivered by the three-member Supreme Court judge bench consisting of Justices Arjuna Obeysekara, Mahinda Samayawardena and S. Thurairaja, when the case was taken up this morning (31).
-
-...
-
-[Data](articles/acbb3265.json)
-
-[Extended Data](ext_articles/acbb3265.ext.json)
-
----
-
-### Two CCD officers have to pay for personal money
-
-*2024-05-31 12:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197207) · `si`
-
-The Supreme Court ruled that two police officers violated human rights by detaining Patali Champika Ranawaka's wife and mother for hours in 2016. It ordered the officers to personally compensate the family Rs. 250,000 and the government to add Rs. 10,000.
-
-🟩
-
-The Supreme Court today (31) today, the Supreme Court today decided that the police have violated fundamental human rights.
-
-The driver of his wife Patali Champika Ranawaka, his wife and her mother was brought to the Colombo Crimes Division in 2016, with his wife and her mother in the Colombo Crimes Division for several hours.
-
-Accordingly, Neville Silva and its Chief Inspector of the Colombo Crimes Division, who is responsible for violating the fundamental rights and its Chief Inspector of Police. The officers of Meetananda should pay compensation to the petitioner of Rs. 25,0000 / - from their personal money.
-
-In addition, the government has ordered the price of Rs. 10,000.
-
-Supreme Court Judge S. The Supreme Court Judge. The decision had been published by Mr. Turai Raja.
-
-◼️
-
-[Data](articles/525d1c99.json)
-
-[Extended Data](ext_articles/525d1c99.ext.json)
 
 ---

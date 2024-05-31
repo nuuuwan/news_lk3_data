@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-31 15:34:19**
+As of **2024-05-31 15:52:44**
 
 ## Newspaper Stats
 
-*Scraped **27,526** Articles*
+*Scraped **27,531** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 247
+colombotelegraphcom | 248
 dbsjeyarajcom | 267
 bbccomsinhala | 273
 newsfirstlk | 363
@@ -19,18 +19,62 @@ adalk | 2,350
 adaderanalk | 3,132
 tamilmirrorlk | 3,228
 virakesarilk | 4,244
-dailymirrorlk | 4,357
-adaderanasinhalalk | 4,393
+dailymirrorlk | 4,360
+adaderanasinhalalk | 4,394
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,526 (100.0%) of 27,526 articles have been extended.
+27,527 (100.0%) of 27,531 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-31 (Friday)
+
+### Maldivian Foreign Minister to visit Sri Lanka next week
+
+*2024-05-31 15:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Maldivian-Foreign-Minister-to-visit-Sri-Lanka-next-week/108-283811) · `en`
+
+Colombo, May 31 (Daily Mirror)- The Minister of Foreign Affairs of the Maldives, Moosa Zameer undertake an official visit to Sri Lanka from June 03 to 06 , 2024, the Ministry of Foreign Affairs said.
+
+He is scheduled to pay courtesy calls on President Ranil Wickremesinghe and Prime Minister Dinesh Gunawardena during this visit.
+
+The Foreign Minister of Maldives and his delegation will also have official bilateral discussions with Foreign Minister Ali Sabry during the visit at the Ministry of Foreign Affairs.
+
+Foreign Minister Zameer will be accompanied by senior officials of the Ministry of Foreign Affairs of the Maldives.
+
+◼️
+
+[Data](articles/fa880263.json)
+
+---
+
+### වතු කම්කරු වැටුප් වැඩි කිරීමට එරෙහි පෙත්සමට අධිකරණයෙන් නියෝගයක්
+
+*2024-05-31 15:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197212) · `si`
+
+වතු කම්කරුවන් සඳහා අවම දෛනික වැටුපක් නියම කරමින් කම්කරු අමාත්‍යවරයා විසින් නිකුත් කර තිබෙන ගැසට් නිවේදනයක් බලරහිත කිරීමේ රිට් ආඥාවක් නිකුත් කරන ලෙස ඉල්ලා වැවිලි සමාගම් විසින් ගොනුකර තිබෙන පෙත්සම පිළිබඳ වැඩිදුර කරුණු සලකා බැලීම ලබන සඳුදා තෙක් කල් තැබීමට අභියාචනාධිකරණය අද (31) නියෝග කළා.
+
+සෝභිත රාජකරුණා සහ ධම්මික ගනේපොල යන මහත්වරුන්ගෙන් සමන්විත අභියාචනාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ පෙත්සම අද කැඳවනු ලැබීය.
+
+එහිදී පෙත්සම්කාර පාර්ශ්වය වෙනුවෙන් ජනාධිපති නීතිඥ රොමේෂ් ද සිල්වා මහතා කරුණු ඉදිරිපත් කළේය.
+
+ඉන් අනතුරුව වැඩිදුර කරුණු සලකා බැලීම ලබන සඳුදා තෙක් කල් තැබිණි.
+
+ආගරපතන වැවිලි සමාගම ඇතුළු වැවිලි සමාගම් 21ක් විසින් මෙම පෙත්සම ඉදිරිපත් කර තිබිණි.
+
+එහි වග උත්තරකරුවන් ලෙස කම්කරු ඇමති මනුෂ නානායක්කාර, කම්කරු කොමසාරිස්වරයා ඇතුළු 52ක් නම් කර තිබේ.
+
+මෙම පෙත්සම අද සෝභිත රාජකරණ සහ ධම්මික ගනේපොළ යන මහත්වරුන් ගෙන් සමන්විත අභියාචනාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ කැඳවනු ලැබීය.
+
+එහිදී විනිසුරු මඩුල්ල නියෝග කළේ මෙම පෙත්සමට අදාළ කරුණු තහවුරු කිරීම් මේ මස 31 වන දා සිදුකරන ලෙසය.
+
+...
+
+[Data](articles/412166c6.json)
+
+---
 
 ### Beedi leaf packs floating in the Puttalam mixture
 
@@ -57,6 +101,20 @@ Puttalam police said that steps are being taken to bring the seized beedi leaves
 [Data](articles/0cbc1bfa.json)
 
 [Extended Data](ext_articles/0cbc1bfa.ext.json)
+
+---
+
+### Lankadeepa wins seven awards...
+
+*2024-05-31 14:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Lankadeepa-wins-seven-awards/110-283808) · `en`
+
+Our sister paper Daily Lankadeepa won seven awards at Miracle award ceremony held at Waters Edge Hotel last night.
+
+◼️
+
+[Data](articles/1ab69b51.json)
+
+[Extended Data](ext_articles/1ab69b51.ext.json)
 
 ---
 
@@ -271,20 +329,6 @@ However, the suspect was reported to the resident of Derana on May 29, the suspe
 [Data](articles/a43d4330.json)
 
 [Extended Data](ext_articles/a43d4330.ext.json)
-
----
-
-### Lankadeepa wins seven awards...
-
-*2024-05-31 13:58:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Lankadeepa-wins-seven-awards/110-283808) · `en`
-
-Our sister paper Daily Lankadeepa won seven awards at Miracle award ceremony held at Waters Edge Hotel last night.
-
-◼️
-
-[Data](articles/1ab69b51.json)
-
-[Extended Data](ext_articles/1ab69b51.ext.json)
 
 ---
 
@@ -545,6 +589,24 @@ The National Authority on Tobacco and Alcohol has directed the hotel to comply w
 [Data](articles/8ae8ec4b.json)
 
 [Extended Data](ext_articles/8ae8ec4b.ext.json)
+
+---
+
+### NATA directs hotels to ban ’’Happy Hour’’
+
+*2024-05-31 12:07:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/NATA-directs-hotels-to-ban-Happy-Hour/155-283796) · `en`
+
+Colombo, May 31 (Daily Mirror)- The National Authority on Tobacco and Alcohol (NATA) has directed all hotels to refrain from granting any discounts on the purchase of alcohol products, claiming that it is a punishable offence.
+
+In a letter to a leading star-class hotel in Colombo, NATA Chairman Dr. Alan Ludowyke said the NATA has received several complaints regarding hotels with liquor licenses offering discounts on the purchase of alcohol products, such as "Happy Hour" promotions.
+
+The NATA has said in the letter that this practice constitutes a clear violation of Section 37(2) of the NATA Act No. 27 of 2006 and that violation of the aforementioned section is liable to a fine of Rs. 50,000, and each director of the offending establishment will be deemed guilty of the offence.
+
+The National Authority on Tobacco and Alcohol has directed the hotel to comply with all provisions of the NATA Act No. 27 of 2006 (as amended).
+
+◼️
+
+[Data](articles/fef19020.json)
 
 ---
 
@@ -1022,6 +1084,20 @@ The body recovered has run a liquor bar. Investigations have revealed that the e
 
 ---
 
+### Democracy Is Founded On Elections: Lawyers Collective Condemns Range Bandara’s Statement
+
+*2024-05-31 09:43:25* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/democracy-is-founded-on-elections-lawyers-collective-condemns-range-bandaras-statement/) · `en`
+
+The Lawyers Collective condemns the statement of UNP General Secretary Range Bandara, made on 30th May 2024, suggesting at a formal press conference at the head office of the United National Party, that by a public referendum the term of this President and this Parliament be extended for two more years in order to “save the nation”. This was followed by vague statements from the President, the leader of the UNP and members of the UNP merely dismissing such statements as the personal views of their own General Secretary.
+
+...
+
+[Data](articles/a4add39f.json)
+
+[Extended Data](ext_articles/a4add39f.ext.json)
+
+---
+
 ### Sri Lanka rupee opens stable at 301.75/80 to US dollar
 
 *2024-05-31 09:40:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stable-at-301-75-80-to-us-dollar-165537/) · `en`
@@ -1483,6 +1559,26 @@ He is considered to be one of the two people who had led Harak Kata’s drug net
 [Data](articles/a7c6f4d5.json)
 
 [Extended Data](ext_articles/a7c6f4d5.ext.json)
+
+---
+
+### SL refutes reports of move to sell surplus ammunition to Ukraine via Poland
+
+*2024-05-31 06:42:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SL-refutes-reports-of-move-to-sell-surplus-ammunition-to-Ukraine-via-Poland/108-283762) · `en`
+
+- MoD says immediate action will be taken on the status of a large stock of surplus ammunition
+
+Colombo, May 31 (Daily Mirror) - Sri Lanka's Ministry of Defence has refuted recent media reports, stating that Poland is utilizing intermediaries to procure surplus ammunitions from Sri Lanka to transfer to Ukraine.
+
+Colonel Nalin Herath, the Defence Ministry Spokesman, dismissed the claims as false, stating that there is no validity to the reports.
+
+However, he acknowledged the presence of ammunition which has passed its shelf life being stored in military-owned warehouses in the country.
+
+Colonel Herath clarified that “these stocks do not belong to the Ministry of Defence but to a foreign private company, which has been instructed to promptly remove or destroy the surplus ammunitions due to security concerns.
+
+...
+
+[Data](articles/2c75e7ee.json)
 
 ---
 
@@ -2069,99 +2165,5 @@ ABC Neuz has issued a news report that the World Cup and its associated events i
 [Data](articles/8b18c56e.json)
 
 [Extended Data](ext_articles/8b18c56e.ext.json)
-
----
-
-### Demystifying supply chain management
-
-*2024-05-31 03:38:00* · [`islandlk`](http://island.lk/demystifying-supply-chain-management/) · `en`
-
-Supply chain management has been in vogue for many decades and has raised the interest of both academics and practitioners. The concept is more popular within international business and yet it is important to demystify it further for adapting to current practices.
-
-As we know theories are updating fast amid the technological revolution. The current practices in many disciplines of industry undergo integration, such as, human resources, marketing, quality management, project management and operation management. The Industrial Revolution has made a tremendous contribution to the integration of many concepts, including supply chain management.
-
-...
-
-[Data](articles/697ac052.json)
-
-[Extended Data](ext_articles/697ac052.ext.json)
-
----
-
-### Sampath Bank launches innovative Mini-POS Solution, empowering SMEs to boost sales and enhance customer experience
-
-*2024-05-31 03:38:00* · [`islandlk`](http://island.lk/sampath-bank-launches-innovative-mini-pos-solution-empowering-smes-to-boost-sales-and-enhance-customer-experience/) · `en`
-
-Responding to the increasing demand for digital payment solutions within the small and medium-sized enterprise (SME) sector, Sampath Bank is the first bank in Sri Lanka to launch a MiniPOS device, proudly announcing the innovative bespoke mini-POS solution. These innovative systems, meticulously crafted to address the unique needs of SMEs, empower businesses to streamline transactions and enhance customer experiences.
-
-As SMEs continue to play an increasingly pivotal role in the market, Sampath Bank recognises the importance of providing affordable and user-friendly payment solution. Developed with portability, versatility, and ease of use in mind, the mini-POS solution offer SMEs a convenient avenue to accept payments from customers, thereby driving sales and revenue growth. Customers can seamlessly process transactions over multiple payment schemes such as Visa, Mastercard, China Union Pay, JCB, Lanka QR, and UPI networks is also another important feature of this handy portable device.
-
-...
-
-[Data](articles/da36fae2.json)
-
-[Extended Data](ext_articles/da36fae2.ext.json)
-
----
-
-### District Development Committee meeting at the District Development Committee
-
-*2024-05-31 03:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/184915) · `ta`
-
-The District Development Committee meeting addressed unauthorized transportation of limestone from Jaffna to other districts. It emphasized adherence to rules for local use and required permits for excavation activities. Authorities were directed to prevent soil importation from Trincomalee and Batticaloa districts.
-
-🟩
-
-At the District Development Committee meeting, the District Development Committee decision cannot be transported from the Jaffna district to outer districts without the proper route permission.
-
-Jaffna District Development Meeting. S.. M.. Charles and Hon. Minister Douglas Devananda were held at the auditorium of the District Secretariat on Thursday 30th.
-
-The Department of Development Committee at the Development Committee, on the allegations made on the allegations that excavated limestone stones in the Jaffna district were being transported to outside districts without any permission, presented various issues.
-
-...
-
-[Data](articles/d9da0f73.json)
-
-[Extended Data](ext_articles/d9da0f73.ext.json)
-
----
-
-### Two persons arrested with 82 kg of turtle meat transported from Mannar to Jaffna
-
-*2024-05-31 03:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/184913) · `ta`
-
-Two individuals were arrested by Mannar police for transporting 82 kg of sea turtle meat from Mannar to Jaffna. The arrest was made based on intelligence received by the Army Intelligence Department.
-
-🟩
-
-Two suspects have been arrested by the Mannar Criminal Investigation Division (Mannar Crime) police on Thursday afternoon on Thursday afternoon with a seaside turtle meat.
-
-82 kg of seas have been recovered from them.
-
-Based on information received by the Army Intelligence Department on the basis of information received by the Army Intelligence Agency, the police have arrested two persons who have taken the cafeteria.
-
-◼️
-
-[Data](articles/790761eb.json)
-
-[Extended Data](ext_articles/790761eb.ext.json)
-
----
-
-### The Swamis of the Sri Lankan Adinas from the first part of the holy rivers of the two countries;The Eelam Thiruchendur Cultural Maha Kumbabhishekam
-
-*2024-05-31 03:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/184912) · `ta`
-
-Swami Vedasanda Acharya, leading the All India Consultants Association, advocates for the Tirukkuda Tamil Thirukkuda Freedom Festival in Sri Lanka, marking the arrival of the holy Ganges' first 20th river and the cultural significance of the Eelam Thiruchendur Maha Kumbabhishekam.
-
-🟩
-
-The first 20th holy Ganges of India's holy Ganges in Sri Lanka. The Swami Vedasanda Acharya devotees of the All India Consultants Association, Swami Vedasanda Acharya, have called for the celebration of the Tirukkuda Tamil Thirukkuda Freedom Festival in Sri Lanka.
-
-◼️
-
-[Data](articles/c855dc03.json)
-
-[Extended Data](ext_articles/c855dc03.ext.json)
 
 ---

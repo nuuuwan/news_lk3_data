@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-31 17:34:34**
+As of **2024-05-31 17:54:44**
 
 ## Newspaper Stats
 
-*Scraped **27,547** Articles*
+*Scraped **27,552** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,40 @@ economynextcom | 1,575
 dailyftlk | 1,612
 adalk | 2,352
 adaderanalk | 3,137
-tamilmirrorlk | 3,228
+tamilmirrorlk | 3,231
 virakesarilk | 4,244
-dailymirrorlk | 4,362
-adaderanasinhalalk | 4,398
+dailymirrorlk | 4,363
+adaderanasinhalalk | 4,399
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,544 (100.0%) of 27,547 articles have been extended.
+27,547 (100.0%) of 27,552 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-31 (Friday)
+
+### කුරුණෑගල හොර විදේශ රැකියා ඒජන්සියක් වටලයි
+
+*2024-05-31 17:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197218) · `si`
+
+කුරුණෑගල නගරයේ නීතිවිරෝධි අයුරින් විදේශ රැකියා නියෝජිතායතනයක් පවත්වාගෙන ගිය හිමිකරුවෙක්ව ශ්‍රී ලංකා විදේශ සේවා නියුක්ති කාර්යාංශය විසින් අද (31)  අත්අඩංගුවට ගෙන තිබේ.
+
+කුරුණෑගල, සූරතිස්ස මාවතේ එම්.එම්.බී නමින් මෙම නීතිවිරෝධි විදේශ රැකියා ආයතනය පවත්වාගෙන ගොස් ඇත.
+
+මෙහිදී සෞදි අරාබිය, ඕමාන්, කුවේට් ඇතුළු මැදපෙරදිග රටවල් සඳහා බඳවාගැනීම් සිදුකරන බවට පවසා ඇති බව අනාවරණය වී තිබේ.
+
+එම ස්ථානයේ තිබී විදේශ ගමන් බලපත්‍ර 110ක්, රැකියා අයදුම්පත්‍ර ඇතුළු ලේඛන රැසක් ද නිලධාරීන් භාරයට ගෙන ඇත.
+
+අත්අඩංගුවට ගත් සැකකරු අද කුරුණෑගල මහෙස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කර තිබේ.
+
+...
+
+[Data](articles/0895e3c9.json)
+
+---
 
 ### Maldives FM to discuss enhancing support for citizens in Sri Lanka during upcoming visit
 
@@ -49,6 +69,42 @@ Maldives Minister of State for Foreign Affairs Sheryna Abdul Samad, Additional S
 ...
 
 [Data](articles/d167149d.json)
+
+[Extended Data](ext_articles/d167149d.ext.json)
+
+---
+
+### உயிரிழந்த யானையில் உடலால் துர்நாற்றம்
+
+*2024-05-31 17:05:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/உயிரிழந்த-யானையில்-உடலால்-துர்நாற்றம்/72-338202) · `ta`
+
+கடந்த 25ம் திகதி சனிக்கிழமை ரயில் மோதி உயிரிழந்த யானையின் உடலால் துர்நாற்றம் வீசுவதாக தெரிவிக்கப்படுகின்றது.
+
+யாழில் இருந்து வவுனியா நோக்கி பயணித்த ரயில் மோதி தாய் யானையும் குட்டியும் கடந்த 25ம் திகதி சனிக்கிழமை பலியாகியிருந்தது.
+
+உயிரிழந்த குறித்த யானைகள் முறையாக அப்புறப்படுத்தப்படாமையால் அப்பகுதியில் துர்நாற்றம் வீசுவதுடன், சுகாதார பாதிப்புகள் ஏற்படுகின்றமை குறிப்பிடத்தக்கது. R
+
+◼️
+
+[Data](articles/d894b1c7.json)
+
+---
+
+### Key accomplice of ’Kudu Salindu’ arrested
+
+*2024-05-31 17:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Key-accomplice-of-Kudu-Salindu-arrested/108-283814) · `en`
+
+Colombo, May 31 (Daily Mirror) - A key accomplice of notorious drug trafficker Salindu Malshika alias 'Kudu Salindu' has been arrested along with a string of narcotics, police said.
+
+The arrest was made by police personnel attached to the Gampaha police following a tip-off from the Western Province Intelligence Unit.
+
+The suspect has been identified as Pusanjana Harshana (30), a key drug trafficker.
+
+The police also seized 500g of Ice, 50 gms of Heroin, 500 gms of Ganja, about 2,000 narcotic pills found in possession of the suspect.
+
+◼️
+
+[Data](articles/ba9b6300.json)
 
 ---
 
@@ -91,6 +147,34 @@ The petitioning plantation companies point out that the Minister of Labor has is
 ...
 
 [Data](articles/7361ee14.json)
+
+[Extended Data](ext_articles/7361ee14.ext.json)
+
+---
+
+### க.பொ.த உயர்தரப் பெறுபேறுகள் வெளியாகின
+
+*2024-05-31 16:26:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/க-பொ-த-உயர்தரப்-பெறுபேறுகள்-வெளியாகின/175-338201) · `ta`
+
+இவ்வாண்டு நடைபெற்ற 2023ஆம் ஆண்டு கல்விப் பொதுத் தராதர உயர்தரப் பரீட்சைப் பெறுபேறுகள் சற்று முன்னர் வெளியாகின.
+
+◼️
+
+[Data](articles/bd6abf5b.json)
+
+---
+
+### 190 பரீட்சார்த்திகளின் பெறுபேறுகள் நிறுத்தப்பட்டுள்ளன
+
+*2024-05-31 16:24:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/190-பரீட்சார்த்திகளின்-பெறுபேறுகள்-நிறுத்தப்பட்டுள்ளன/175-338200) · `ta`
+
+கல்வி பொதுத் தராதர உயர்தர பெறுபேறுகளில் 190. பரீட்சார்த்திகளின் பெறுபேறுகள் நிறுத்தப்பட்டுள்ளன என பரீட்சைகள் திணைக்களம் அறிவித்துள்ளது..
+
+229,057 பாடசாலைப் பரீட்சார்த்திகளும், 40,556 தனிப்பட்ட பரீட்சார்த்திகளுமாக மொத்தமாக 269,613 பரீட்சார்த்திகள் 2023ஆம் ஆண்டு கல்விப் பொதுத் தராதர உயர்தரப் பரீட்சையில் தோற்றியிருந்த நிலையில், 151,343 பாடசாலைப் பரீட்சார்த்திகளும், 22,101 தனிப்பட்ட பரீட்சார்த்திகளுமாக 173,444 பரீட்சார்த்திகள் பல்கலைக்கழக அனுமதிக்கு தகைமையுடையவர்களாகக் காணப்படுகின்றனர். அந்தவகையில் இம்முறை 64.33 சதவீதமானோர் பல்கலைக்கழக அனுமதிக்கு தகமையானவர்களாகக் காணப்படுகின்றனர்.
+
+◼️
+
+[Data](articles/6d9d10b7.json)
 
 ---
 
@@ -954,21 +1038,29 @@ Due to this, the train services have been delayed and the train services will be
 
 ---
 
-### බත්තරමුල්ලට දුම්රිය මාර්ගයක්
+### Railway line to Battaramulla
 
 *2024-05-31 12:03:50* · [`adalk`](https://www.ada.lk/breaking_news/බත්තරමුල්ලට-දුම්රිය-මාර්ගයක්/11-409939) · `si`
 
-කොළොන්නාව නගර සභා බල ප්‍රදේශය නව නගරයක් ලෙස පරිවර්තනීය වෙනසකට ලක්කිරීමේ පිඹුරුපත් සකසා අවසන් බව අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන මහතා පැවසීය.
+Prime Minister Dinesh Gunawardena announced plans to transform the Kolonnawa Urban Council area into a new city, aiming for economic and social development. A draft has been prepared for this initiative, which includes connecting the Kolonnawa railway line to Battaramulla, enhancing passenger transportation and easing Colombo's congestion. Key figures from the district and local government attended the announcement meeting.
 
-අග්‍රාමාත්‍යවරයා මෙසේ පැවසුවේ (2024.05.28) කොළොන්නාව ප්‍රාදේශීය ලේකම් කාර්‍යාලයේ පැවැති සාකච්ඡාවකදී ය.
+🟩
 
-මෙහිදී අදහස් දැක්වු අග්‍රාමාත්‍යවරයා කොළොන්නාව නගර සභා බල ප්‍රදේශය නව නගරයක් බවට පත්කිරීමටත්, නව නගරයක පහසුකම් ජනතාවට ලබාදීමටත්, අලුත් ආකර්ෂණයකින් ප්‍රදේශයක් ලෙස දියුණු කිරීමටත් අවශ්‍ය මූලික කෙටුම්පතක් මේ වන විටත් සකස් කර අවසන් බවද සඳහන් කළේය.
+Prime Minister Dinesh Gunawardena said that the Kolonnawa Urban Council area has been prepared to transform as a new city.
 
-මේ හරහා කොළොන්නාව නගර සභා බල ප්‍රදේශය තුළ සිදුවන පරිවර්තනය තුළින් තදාසන්න ප්‍රදේශද ආර්ථික, සමාජයීය පරිවර්තනයකට ලක් වෙයි. කොළොන්නාව පිරිපහදුව වෙත තෙල් ප්‍රවාහනය කෙරෙන දුම්රිය මාර්ගය බත්තරමුල්ල නගරය සමඟ සම්බන්ධ කොට දුම්රිය මගී ප්‍රවාහන මාධ්‍යයක් බවට පත්කිරීම ද සිදුකෙරෙයි. ප්‍රධාන පරිපාලන ආයතන රැසක් පිහිටා ඇති බත්තරමුල්ල නගරයට කඩිනමින් ළගා වීමේ හැකියාව ලැබෙන අතර කොළඹ තදබදයට ද මේ හරහා විසදුම් ලැබේ.
+The Prime Minister said (2024.05.28) at a meeting held at the Kolonnawa Divisional Secretariat.
 
-...
+The Prime Minister said that a key draft has already been prepared to make the Kolonnawa Urban Council area and to develop the people of the Kolonnawa Municipal Council.
+
+Through this, the suburbs also submit to the economic and social transformation of the colonnarian area. The railway line to Kolonnawa refuge is connected to Battaramulla and has made the rail a passenger transportation. There are many main administrative institutions to reach Batta Battaramulla to Battaramulla and the Colombo congestion is also solved.
+
+Kolonnawa District Development Committee Chairman, MP Sarath Weerasekera, Parliamentarian Yadamini Gunawardena, Kolonnawa Regional Secretary Priyanath Perera and former UPFA Pradeshiya Sabha. Mrs. Prabhamei and former people were present.
+
+◼️
 
 [Data](articles/d5fcba2b.json)
+
+[Extended Data](ext_articles/d5fcba2b.ext.json)
 
 ---
 
@@ -2159,95 +2251,5 @@ Trump is also facing trials for inciting a ‘riot’ in Washington. (Colombo/Ma
 [Data](articles/33670805.json)
 
 [Extended Data](ext_articles/33670805.ext.json)
-
----
-
-### Dr. Shafi recounts ordeal and emphasises need for unity and compassion in Sri Lanka
-
-*2024-05-31 05:48:21* · [`dailyftlk`](https://www.ft.lk/opinion/Dr-Shafi-recounts-ordeal-and-emphasises-need-for-unity-and-compassion-in-Sri-Lanka/14-762404) · `en`
-
-Expresses dismay at Padeniya’s silence during his forced sterilisation ordeal
-
-Says some mothers from Kurunegala, continue to trust and seek his services for deliveries while even apologising for complaining against him
-
-Reiterates commitment to providing care to mothers, emphasising that he never harboured any intentions to harm them
-
-Reflects on his detention alongside Makandure Madhush, who he said had no more humanity than those in Parliament today
-
-Kurunegala Teaching Hospital Senior House Officer in the Gynaecology and Obstetrics Unit Dr. Shafi Shihabdeen last week recounted his ordeal and emphasised the need for unity and compassion in Sri Lanka.
-
-He voiced his disappointment with former President of the Government Medical Officers Association (GMOA), Anuruddha Padeniya, for remaining silent during Shihabdeen’s wrongful accusation of conducting forced sterilisations on women.
-
-...
-
-[Data](articles/f5d2a36f.json)
-
-[Extended Data](ext_articles/f5d2a36f.ext.json)
-
----
-
-### Vesak at the United Nations: Still not a UN holiday?
-
-*2024-05-31 05:46:44* · [`dailyftlk`](https://www.ft.lk/columns/Vesak-at-the-United-Nations-Still-not-a-UN-holiday/4-762403) · `en`
-
-Vesak Day almsgiving hosted at Permanent Mission of Sri Lanka in New York
-
-IDN-InDepthNews: Sri Lanka celebrated Vesak Day 2024 last week with much pomp and ceremony in historic Matale where the Buddha’s teachings were first formally documented in the first century B.C. at the Aluviharaya Rock Temple and religious observances took place in almost every temple in the country. Prior to that, the Master’s teachings had been transmitted orally from teacher to pupil.
-
-Vesak is the premier religious festival in Sri Lanka, commemorating the birth, enlightenment and the passing of the Buddha, with colourful electrically lit decorations illuminating private homes and main streets and alms being offered to all passers-by along main roads.
-
-In New York, the Permanent Mission of Sri Lanka co-hosted an impressive event at the United Nations with Thailand to observe the United Nations Day of Vesak. Many other Sri Lankan missions around the world did the same.
-
-...
-
-[Data](articles/40ff7e05.json)
-
-[Extended Data](ext_articles/40ff7e05.ext.json)
-
----
-
-### Governance all the way down
-
-*2024-05-31 05:42:12* · [`dailyftlk`](https://www.ft.lk/columns/Governance-all-the-way-down/4-762402) · `en`
-
-Multiple modalities of State intervention—from regulation to planning, stimulus to welfare—have all been collapsed into each other and displaced by the insipid term of governance
-
-Given the comprador mentality that pervades thinking about the burgeoning crisis of development and possible solutions for poor countries, there has been far less scrutiny of the vague claim that governance is the problem. How many people in the US establishment would now argue, for example, that free trade is an unassailable good? In contrast, when it comes to financing for development, myth quickly replaces evidence in determining which solutions are taken seriously, and which are dismissed. The choice often has nothing to do with reason. Instead, as Doyle implied, it has everything to do with interests and how creditor expectations are currently formed. And in this moment, it is austerity that is the primary vehicle of extraction
-
-...
-
-[Data](articles/e66e540f.json)
-
-[Extended Data](ext_articles/e66e540f.ext.json)
-
----
-
-### As Julie Chung Morphs Into Elizabeth K Horst…
-
-*2024-05-31 05:41:22* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/as-julie-chung-morphs-into-elizabeth-k-horst/) · `en`
-
-Ambassadorial aspirants hardly break a sweat when drafting submissions to the US Senate Committee on Foreign Relations, not even in pre-ChatGPT days. They’ve been in the business of US diplomacy long enough to know what ‘US Foreign Policy’ is. They know what the listers want to hear. They have templates to choose from. And therefore the opening statement made on May 9, 2024 to the Committee by Elizabeth K Horst, nominee to be the US Ambassador to Sri Lanka, is more or less par for the course. A parenthesis is called for here.
-
-...
-
-[Data](articles/d26cf98e.json)
-
-[Extended Data](ext_articles/d26cf98e.ext.json)
-
----
-
-### A Glint In The Eyes Of Votaries Of BJP – 2024 Encounter
-
-*2024-05-31 05:40:57* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/a-glint-in-the-eyes-of-votaries-of-bjp-2024-encounter/) · `en`
-
-An absolute majority in Lok Sabha held the prospect of a third consecutive term for the BJP in 2024. A remarkable stretch of achievements nationally and internationally, swung increasing support for the incumbent government. Conversely, the opposition unable to bring its act together, was losing its confidence by the day. An ill-knit coalition fragmented even in the course of the elections. Before elections concluded, the coalition was in shambles.
-
-The Four-State elections giving a stunning victory to the BJP recently, launched it into the trajectory of victory. The election year 2023 – 2024 pitched but ever-increasing confidence in the BJP. The opposition fragments were driven into an unholy alliance, which started disintegrating from the beginning. To see an overwhelming victory, BJP has only four more days.
-
-...
-
-[Data](articles/e815fe37.json)
-
-[Extended Data](ext_articles/e815fe37.ext.json)
 
 ---

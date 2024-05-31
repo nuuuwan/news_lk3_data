@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-31 10:18:47**
+As of **2024-05-31 10:34:10**
 
 ## Newspaper Stats
 
-*Scraped **27,471** Articles*
+*Scraped **27,473** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 1,612
 adalk | 2,344
 adaderanalk | 3,127
 tamilmirrorlk | 3,221
-virakesarilk | 4,234
+virakesarilk | 4,236
 dailymirrorlk | 4,345
 adaderanasinhalalk | 4,386
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,386
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,465 (100.0%) of 27,471 articles have been extended.
+27,471 (100.0%) of 27,473 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,35 +50,49 @@ That will be difficult, however, given this has never happened before.
 
 [Data](articles/d331cdbc.json)
 
+[Extended Data](ext_articles/d331cdbc.ext.json)
+
 ---
 
-### இலங்கை - பாகிஸ்தான் இடையே மேலும் விமான சேவைகள்
+### More flights between Sri Lanka and Pakistan
 
 *2024-05-31 09:55:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-பாகிஸ்தான்-இடையே-மேலும்-விமான-சேவைகள்/175-338191) · `ta`
 
-கொழும்பில் இருந்து இஸ்லாமாபாத்துக்கு நேரடி விமான சேவையை தொடங்குவதன் மூலம் விமான தொடர்பை அதிகரிப்பதற்கான சாத்தியக்கூறுகளை ஆராய இலங்கையும் பாகிஸ்தானும் ஒப்புக்கொண்டுள்ளதாக தகவல் வெளியாகி உள்ளது.
+Sri Lanka and Pakistan plan to explore more direct flights, specifically from Colombo to Islamabad, building on existing routes to Lahore and Karachi. This decision was made during a meeting involving officials from both nations' religious affairs ministries, highlighting the mutual interest in enhancing air connectivity.
 
-தற்போது, ​​கொழும்பில் இருந்து பாகிஸ்தானின் லாகூர் மற்றும் கராச்சிக்கு மட்டுமே நேரடி விமானங்கள் இயக்கப்படுகின்றன.
+🟩
 
-இலங்கைக்கு விஜயம் செய்துள்ள பாகிஸ்தானின் மத அலுவல்கள் மற்றும் சர்வமத நல்லிணக்க அமைச்சர் சௌத்ரி சாலிக் ஹுசைன் மற்றும் புத்தசாசன, மத மற்றும் கலாசார அலுவல்கள் இராஜாங்க அமைச்சர் விதுர விக்கிரமநாயக்க ஆகியோருக்கு இடையில் இடம்பெற்ற சந்திப்பில், விமான சேவையை அதிகரிப்பதன் அவசியம் குறித்து கலந்துரையாடப்பட்டது.
+It has been reported that Sri Lanka and Pakistan have agreed to investigate the possibility of increasing aircraft by launching a direct flight from Colombo to Islamabad.
 
-இந்த சந்திப்பில் கலந்து கொண்ட பாகிஸ்தானில் உள்ள இலங்கை உயர்ஸ்தானிகர் ரவீந்திர விஜேகுணவர்தன இரு நாடுகளுக்கும் இடையிலான விமான இணைப்புகளின் தற்போதைய நிலையை விளக்கியதுடன் விமான நடவடிக்கைகளை அதிகரிப்பதன் முக்கியத்துவத்தையும் வலியுறுத்தினார்.
+Currently, direct flights are operated from Colombo to Lahore and Karachi in Pakistan.
+
+At a meeting between Pakistan's Religious Affairs and Religious Reconciliation Minister Chowdhury Salik Hussein and Buddha Sasana, Minister of Religious and Cultural Affairs, Vidura Wickramanayake, the need to increase the airline.
+
+Sri Lankan High Commissioner to Pakistan, Ravindra Wijegunawardena, who participated in the meeting, explained the current status of airlines between the two countries and emphasized the importance of increasing air operations.
 
 ◼️
 
 [Data](articles/d4b8090d.json)
 
+[Extended Data](ext_articles/d4b8090d.ext.json)
+
 ---
 
-### විදෙස් තරුණියගේ බෑග් එක සොරාගත් සැකකරු හසුවෙයි
+### The suspect who stored the bag of foreign girl
 
 *2024-05-31 09:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197204) · `si`
 
-කොළඹ පිටකොටුවේ පෞද්ගලික බස් රථයක් තුළදී විදේශීය ජාතික තරුණියකගේ ගමන් මල්ල සොරකම් කිරීමේ සිද්ධිය සම්බන්ධයෙන් සැකකරුවෙකු අත්අඩංගුවට ගෙන තිබේ.
+A suspect was arrested for stealing a foreign girl's luggage from a private bus in Pettah, Colombo.
+
+🟩
+
+A suspect has been arrested in connection with theft of a foreign national girl's baggage on a private bus in Pettah, Colombo.
 
 ◼️
 
 [Data](articles/0c5f8a42.json)
+
+[Extended Data](ext_articles/0c5f8a42.ext.json)
 
 ---
 
@@ -91,6 +105,24 @@ An individual who allegedly stole a bag belonging to a female foreign tourist in
 ◼️
 
 [Data](articles/a1619583.json)
+
+[Extended Data](ext_articles/a1619583.ext.json)
+
+---
+
+### மதுபானசாலையில் கொலை செய்யப்பட்ட நிலையில் ஒருவர் சடலமாக மீட்பு
+
+*2024-05-31 09:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/184924) · `ta`
+
+மதுபானசாலை ஒன்றில் ஆண் ஒருவரின் சடலம் நேற்று (30) காலை பிபிலை பொலிஸாரால் கண்டெடுக்கப்பட்டுள்ளது.
+
+உயிரிழந்தவர் 37 வயதுடைய ஹாலி –எல, போகஹமதித்த பகுதியைச் சேர்ந்தவர் என அடையாளம் காணப்பட்டுள்ளார்.
+
+சடலமாக மீட்கப்பட்டவர் மதுபானசாலை ஒன்றை நடத்திவந்துள்ளார். இந்நிலையில், மதுபானசாலையில் பணிபுரியும் ஊழியர் ஒருவருடன் ஏற்பட்ட வாக்குவாதத்தையடுத்து, குறித்த ஊழியர் இரும்பு கம்பியால் அவரை தாக்கி கொலையை செய்துள்ளதாக விசாரணைகளில் தெரியவந்துள்ளது.
+
+◼️
+
+[Data](articles/ec90637c.json)
 
 ---
 
@@ -123,6 +155,22 @@ The operation was organized by the Criminal Investigation Department from the CI
 [Data](articles/f9fd2af4.json)
 
 [Extended Data](ext_articles/f9fd2af4.ext.json)
+
+---
+
+### சட்டவிரோதமாக இறக்குமதி செய்யப்பட்ட சிகரெட்டுகளுடன் உதவி சுங்க அத்தியட்சகர் கைது
+
+*2024-05-31 09:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/184922) · `ta`
+
+சட்டவிரோதமாக நாட்டிற்கு இறக்குமதி செய்யப்பட்ட 7,000 சிகரெட்டுகளுடன் உதவி சுங்க அத்தியட்சகர் ஒருவர் கைது செய்யப்பட்டுள்ளார்.
+
+கொழும்பு கோட்டை பகுதியில் வைத்து கொழும்பு மத்திய ஊழல் குற்றத்தடுப்பு பிரிவினரால் குறித்த சந்தேகநபர் கைது செய்யப்பட்டுள்ளார்.
+
+சந்தேகநபரிடம் இருந்து பெறப்பட்ட வெளிநாட்டு சிகரெட்டுகளின் பெறுமதி சுமார் 590,000 ரூபா என பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/573f1b5a.json)
 
 ---
 
@@ -168,19 +216,25 @@ He was taken to the Katunayake airport with strong security and taken to the Col
 
 ---
 
-### டுபாயிலிருந்து அழைத்து வரப்பட்டார் “மிதிகம ருவன்”
+### Brought from Dubai "Mithigama Ruwan"
 
 *2024-05-31 09:17:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டுபாயிலிருந்து-அழைத்து-வரப்பட்டார்-மிதிகம-ருவன்/175-338190) · `ta`
 
-பாதாள உலகத் தலைவரும் சர்வதேச போதைப்பொருள் வலையமைப்புடன் தொடர்புடைய பிரதான சந்தேக நபருமான மிதிகம ருவன் டுபாயில் இருந்து இலங்கைக்கு அழைத்து வரப்பட்டுள்ளார்.
+"Mithigama Ruwan, the underworld leader and key drug network suspect, has been extradited from Dubai to Sri Lanka by a team of CID special officials. It's alleged he was plotting to free Harak Kata/Nadun Chintaka from the CID."
 
-குற்றப் புலனாய்வு திணைக்களத்தின் விசேட அதிகாரிகள் குழு ஒன்று மிதிகம ருவனை டுபாயில் இருந்து அழைத்து வந்துள்ளதாக தெரிவிக்கப்படுகின்றது.
+🟩
 
-அண்மையில் குற்றப் புலனாய்வுத் திணைக்களத்தில் இருந்து 'ஹரக் கட்டா' அல்லது நதுன் சிந்தகவை விடுவிக்க இவர் திட்டமிட்டவர் என்றும் சந்தேகிக்கப்படுகிறது. R
+Mithigama Ruwan, the head of the underworld and the main suspect in the international drug network, has been brought to Sri Lanka from Dubai.
+
+It is reported that a team of special officials of the Criminal Investigation Department has brought Mithigama Ruwan from Dubai.
+
+It is also suspected that he was planning to release 'Harak Kata' or Nadun Chintaka from the Criminal Investigation Department recently.. Remble
 
 ◼️
 
 [Data](articles/1ba9f624.json)
+
+[Extended Data](ext_articles/1ba9f624.ext.json)
 
 ---
 
@@ -1076,21 +1130,31 @@ ESG adoption and reporting has become a prerequisite to secure foreign funds in 
 
 ---
 
-### ’பொருளாதார பரிமாற்ற சட்ட மூலத்துக்கு எதிர்ப்பு’
+### Opposition to the Economic Transfer Legal Source
 
 *2024-05-31 02:22:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொருளாதார-பரிமாற்ற-சட்ட-மூலத்துக்கு-எதிர்ப்பு/175-338188) · `ta`
 
-நாட்டை மீண்டும் பொருளாதார நெருக்கடிக்குள் தள்ள வேண்டிய தேவை உள்ள தரப்பினர்களுக்கே பொருளாதார மாற்ற சட்டமூலத்தை எதிர்க்க முடியுமென நிதி இராஜாங்க அமைச்சர் செஹான் சேமசிங்க தெரிவித்தார்.
+Finance Minister Xihan Semasinghe defended the Economic Change Bill, aiming to boost productivity, improve infrastructure, and create jobs. Critics, mainly political opponents, argue against the bill, accusing it of causing an economic crisis. Semasinghe countered, stating that only those seeking to revert the country to an economic crisis would oppose the bill. He emphasized learning from past failures to implement similar legal structures effectively.
 
-ஜனாதிபதி ஊடக மையத்தில் நேற்று நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே செஹான் சேமசிங்க மேற்கண்டவாறு தெரிவித்தார். இதன்போது அவர் மேலும் தெரிவிக்கையில்,
+🟩
 
-பொருளாதார மாற்ற சட்டமூலத்தின் ஊடாக உற்பத்தித்திறனை அதிகரித்து ஒவ்வொரு பிரஜைக்கும் சம வாய்ப்புள்ள நாடாக இலங்கையை மாற்றுவதே எமது எதிர்பார்ப்பாகும். மேலும் சிறந்த உட்கட்டமைப்பு வசதிகளைக்கொண்ட நாட்டை உருவாக்கவும் இதன் மூலம் எதிர்பார்க்கப்படுகிறது.
+Finance Minister Xihan Semasinghe said that the economic change legislation could be opposed to the parties who need to be re -economic crisis.
 
-அதேபோன்று, பொருளாதார வளர்ச்சிக்கு இணைந்த வகையில் தொழில் வாய்ப்புகளை உருவாக்குவதுடன், புத்தாக்கத்துடன் கூடிய ஏற்றுமதி விரிவாக்கப்பட்ட போட்டிச் சந்தையை உருவாக்கவும் எதிர்பார்க்கப்படுகிறது.
+Sehan Semasinghe said at a media briefing held at the Presidential Media Center yesterday. He further stated that
+
+Our expectation is to increase productivity through the Economic Change Bill and transform Sri Lanka into an equal opportunity for every citizen. It is also expected to create a country with better infrastructure.
+
+Similarly, it is expected to create employment opportunities in accordance with economic growth and create an innovative exported competitive market.
+
+But those who are unaware of this bill are making various comments. Only parties need to put the country back into economic crisis can only oppose the economic change bill. They also accuse the goals of this legal source.
+
+Although the current government has a favorable target on the economy of the country, the other opposition parties are only political.
 
 ...
 
 [Data](articles/07c47c21.json)
+
+[Extended Data](ext_articles/07c47c21.ext.json)
 
 ---
 
@@ -2117,53 +2181,5 @@ Minister Jivan Thondaman has informed the teams of all the members of the trade 
 [Data](articles/8bc9455d.json)
 
 [Extended Data](ext_articles/8bc9455d.ext.json)
-
----
-
-### Satyaraj, who plays comedy in Hindi
-
-*2024-05-30 17:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/184899) · `ta`
-
-Sathyaraj, known for his work in Tamil cinema, is set to star in a Hindi comedy film titled 'Munjia,' directed by Aditya, marking his return from a brief hiatus. The film, featuring him in a comedic role previously held by Vadivelu, promises a fresh take on his career. Sathyaraj also discusses his upcoming projects, including a role as Super Star Rajinikanth in a film directed by Lokesh Kanakaraj and A.R., and his collaboration with Salman Khan in another project directed by Murugadoss.
-
-🟩
-
-Actor Sathyaraj, the revolutionary Tamil in the Tamil film industry, is reportedly playing a comedy in a movie released in Hindi after a short break.
-
-Satyaraj is playing a comedy role in the movie 'Munjia', which is being directed by Bollywood director Aditya.. The film will be released worldwide on the seventh of June.
-
-Speaking about a function in Chennai, Satyaraj said, "I have played a comedy role in Vadivelu in the movie 'Munjia' which will soon be released.. In general, alien language directors will contact us in character and villainous roles but director Aditya has been involved in the first full -length comedy role.. This was a different experience for me. ”
-
-Meanwhile, actor Sathyaraj is currently playing the role of Super Star Rajinikanth directed by director Lokesh Kanakaraj and director A.. R. It is noteworthy that Salman Khan is also signed to play the villain in the Hindi film directed by Murugadoss.
-
-◼️
-
-[Data](articles/b59992f3.json)
-
-[Extended Data](ext_articles/b59992f3.ext.json)
-
----
-
-### Prime Minister Narendra Modi meditates for hat -trick success ..?
-
-*2024-05-30 17:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/184896) · `ta`
-
-The Tamil Nadu Congress Party has petitioned the Madras High Court to ban Prime Minister Narendra Modi's meditation on Vivekananda Rock in Kanyakumari, alleging it as an indirect campaign tactic ahead of the Lok Sabha elections. The petition argues against potential misuse of power and seeks protection for tourists. Modi, who arrived in Thiruvananthapuram, has been meditating for over forty-five hours, with extensive security measures in place around Kanyakumari. This marks his third meditation session, previously occurring before the 2014 and expected to influence the 2024 Lok Sabha elections.
-
-🟩
-
-The Tamil Nadu Congress Party has filed a petition in the Madras High Court seeking a ban on Prime Minister Narendra Modi meditating on Vivekananda rock in Kanyakumari.
-
-A petition has been filed with the Madras High Court Registrar on behalf of the Congress Party Attorney's Division. In the petition, the Madras High Court should volunteer to investigate the petition in order to prevent the abuse of power and the welfare of the tourists.
-
-The campaign for the final Lok Sabha elections ends today (30) evening. In this backdrop, the Congress party had written a letter to the Election Commission yesterday that Prime Minister Narendra Modi's meditation process was an indirect campaign.
-
-Meanwhile, Prime Minister Narendra Modi, who arrives at Thiruvananthapuram by a special flight from New Delhi. Vivekananda, who is located in the middle of the sea, continues to meditate for forty -five hours from June to date.
-
-...
-
-[Data](articles/8ea68d3f.json)
-
-[Extended Data](ext_articles/8ea68d3f.ext.json)
 
 ---

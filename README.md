@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-01 02:03:45**
+As of **2024-06-01 02:18:56**
 
 ## Newspaper Stats
 
-*Scraped **27,646** Articles*
+*Scraped **27,648** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 1,635
 adalk | 2,360
 adaderanalk | 3,143
 tamilmirrorlk | 3,236
-virakesarilk | 4,264
+virakesarilk | 4,266
 dailymirrorlk | 4,377
 adaderanasinhalalk | 4,409
 
@@ -26,11 +26,39 @@ adaderanasinhalalk | 4,409
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,646 (100.0%) of 27,646 articles have been extended.
+27,646 (100.0%) of 27,648 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-01 (Saturday)
+
+### ஜனாதிபதி இளம் பிரதிநிதிகளுடன் சந்திப்பு; நாட்டின் எதிர்கால பயணத்தில் இளம் தலைமுறையை வலுவான முறையில் ஈடுபடுத்த புதிய பொறிமுறை
+
+*2024-06-01 02:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/185005) · `ta`
+
+ஜனாதிபதி ரணில் விக்ரமசிங்க மற்றும்  இளம் பிரதிநிதிகளுக்கு இடையிலான சந்திப்பொன்று 30ஆம் திகதி வியாழக்கிழமை ஜனாதிபதியின் உத்தியோகபூர்வ வாசஸ்தலத்தில் நடைபெற்றது.
+
+ஜனாதிபதி செயலகத்தின் ஏற்பாட்டில் முன்னெடுக்கப்பட்டு வரும் இளையோரின் பங்கேற்புடனான நிகழ்வுகளின் ஒரு அங்கமாக "இளையோர் கலந்துரையாடல் - நாளை இலங்கையின் இளம் தலைவர்கள்" என்ற தொனிப்பொருளின் கீழ் இந்த நிகழ்வு ஏற்பாடு செய்யப்பட்டிருந்தது.
+
+அரசாங்கத்தினால் முன்னெடுக்கப்பட்டு வரும் புதிய பொருளாதார மறுசீரமைப்பு மற்றும் சீர்த்திருத்த முயற்சிகள் தொடர்பில் இங்கு கலந்துரையாடப்பட்டது.   இலங்கையின் வெற்றிகரமான எதிர்கால பயணத்திற்கு இளையோரின் பங்களிப்பு மிக முக்கியமானது என்றும் ஜனாதிபதி ரணில் விக்ரமசிங்க இதன்போது வலியுறுத்தினார்.
+
+...
+
+[Data](articles/38e4eec1.json)
+
+---
+
+### பலஸ்தீனம் மீதான இஸ்ரேல் தாக்குதலை நிறுத்தக்கோரி கொழும்பு தெவடகஹா பள்ளிவாசல் முன்பாக கவனயீர்ப்பு போராட்டம்
+
+*2024-06-01 01:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/185004) · `ta`
+
+பலஸ்தீனம் மீதான இஸ்ரேல் தாக்குதலை உடன் நிறுத்துமாறு வலியுறுத்தி சிவில் அமைப்பினர் கொழும்பு தெவடகஹா பள்ளிவாசல் முன்பாக கவனயீர்ப்பு போராட்டத்தில் ஈடுபட்டனர்.
+
+◼️
+
+[Data](articles/1705bf62.json)
+
+---
 
 ### SJB vows to thwart President’s election delay tactics
 
@@ -2157,51 +2185,5 @@ The remaining 65,531 are private applicants, the Examinations Department said.
 [Data](articles/f7769da0.json)
 
 [Extended Data](ext_articles/f7769da0.ext.json)
-
----
-
-### US Ambassador to the Election Committee
-
-*2024-05-31 15:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/184967) · `ta`
-
-The US Ambassador's visit to Sri Lanka's Election Commission has sparked no public concern. The Chairman, Saman Sriratnayake, confirmed this lack of concern. If the visit were secret, no photos would be shared. The Ambassador requested a visit to India's Election Commission and inquired about parliamentary election preparations, post-presidential dissolution. This visit preceded a meeting with EU representatives.
-
-🟩
-
-Officials of the Election Commission have said that the public has not been concerned about the US Ambassador to Sri Lanka, Julisung visiting the Headquarters of the Elections Commission of Sri Lanka.
-
-Elections Commission Chairman Saman Sriratnayake says the public is not concerned about the US Ambassador to meet the top official of the Independent Commission.
-
-If it is a secret visit, the US Ambassador will not share the pictures taken with the Election Commission officials, ”said Samanasreratnayake.
-
-The US Ambassador has said that the US Ambassador has asked the Elections Commission to visit the Elections Commission of India.
-
-"Foreign representatives have also been asked about our preparations for holding parliamentary elections before the presidential election, said that the presidential parliament was dissolved.
-
-He said that after the visit of the US Ambassador, representatives of the EU had come to meet us.
-
-◼️
-
-[Data](articles/a5cda17a.json)
-
-[Extended Data](ext_articles/a5cda17a.ext.json)
-
----
-
-### Released. High Quality Examination Grades!
-
-*2024-05-31 15:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/184966) · `ta`
-
-Examination results are out Check them on www.doenets.lk.
-
-🟩
-
-The Examinations Department said that the results of the examination can be viewed on the website www.doenets.lk.
-
-◼️
-
-[Data](articles/c94a9dd3.json)
-
-[Extended Data](ext_articles/c94a9dd3.ext.json)
 
 ---

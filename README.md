@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-31 12:34:09**
+As of **2024-05-31 12:52:12**
 
 ## Newspaper Stats
 
-*Scraped **27,494** Articles*
+*Scraped **27,496** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 2,346
 adaderanalk | 3,131
 tamilmirrorlk | 3,224
 virakesarilk | 4,236
-dailymirrorlk | 4,348
+dailymirrorlk | 4,350
 adaderanasinhalalk | 4,388
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,488 (100.0%) of 27,494 articles have been extended.
+27,494 (100.0%) of 27,496 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -43,6 +43,42 @@ Issuing a statement, the Lanka Hospitals Corporation PLC stated that they are in
 ...
 
 [Data](articles/c74ba9c0.json)
+
+[Extended Data](ext_articles/c74ba9c0.ext.json)
+
+---
+
+### NATA directs all hotels to refrain from granting discounts on alcohol products
+
+*2024-05-31 12:07:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/NATA-directs-all-hotels-to-refrain-from-granting-discounts-on-alcohol-products/108-283796) · `en`
+
+Colombo, May 31 (Daily Mirror)- The National Authority on Tobacco and Alcohol (NATA) has directed all hotels to refrain from granting any discounts on the purchase of alcohol products, claiming that it is a punishable offence.
+
+In a letter to a leading star-class hotel in Colombo, NATA Chairman Dr. Alan Ludowyke said the NATA has received several complaints regarding hotels with liquor licenses offering discounts on the purchase of alcohol products, such as "Happy Hour" promotions.
+
+The NATA has said in the letter that this practice constitutes a clear violation of Section 37(2) of the NATA Act No. 27 of 2006 and that violation of the aforementioned section is liable to a fine of Rs. 50,000, and each director of the offending establishment will be deemed guilty of the offence.
+
+The National Authority on Tobacco and Alcohol has directed the hotel to comply with all provisions of the NATA Act No. 27 of 2006 (as amended).
+
+◼️
+
+[Data](articles/8ae8ec4b.json)
+
+---
+
+### Cabraal, four others released from Treasury Bill case
+
+*2024-05-31 11:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Cabraal-four-others-released-from-Treasury-Bill-case/108-283795) · `en`
+
+Colombo, May 31 (Daily Mirror) - The Colombo High Court today ordered to release former Governor of the Central Bank Ajith Nivard Cabraal and four others from a corruption case filed by the Bribery Commission.
+
+The Colombo High Court made this order taking into account the preliminary objections raised by the defence challenging the maintainability of the case.
+
+The Bribery Commission had filed indictments against five accused for causing a loss of Rs. 1,843.3 million to the government through the purchase of Treasury Bills in 2012.
+
+◼️
+
+[Data](articles/3820f2cf.json)
 
 ---
 
@@ -212,6 +248,8 @@ Minor Hotels has over 550 hotels and resorts and serves customers in 56 countrie
 
 [Data](articles/1debd9be.json)
 
+[Extended Data](ext_articles/1debd9be.ext.json)
+
 ---
 
 ### This is a carrot potato - Vehicle importers
@@ -364,7 +402,7 @@ A suspect has been arrested in connection with theft of a foreign national girl'
 
 *2024-05-31 09:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/99556/suspect-arrested-for-stealing-foreign-tourists-bag-in-bus) · `en`
 
-An individual who allegedly stole a bag belonging to a female foreign tourist inside a private bus in Pettah, Colombo, has been arrested by the police in Pethiyagoda, Kelaniya.
+An individual who allegedly stole a bag, containing foreign currency and valuables worth around Rs. 2.5 million, belonging to a female foreign tourist while on a private bus in Pettah, Colombo, has been arrested by the police in Pethiyagoda, Kelaniya.
 
 Police have recovered the stolen items, including a laptop computer, camera, bank cards, and the tourist’s passport.
 
@@ -421,6 +459,8 @@ The Colombo Stock Exchange opened up. The All Share Price Index was up 0.10 perc
 ◼️
 
 [Data](articles/b80e0e11.json)
+
+[Extended Data](ext_articles/b80e0e11.ext.json)
 
 ---
 
@@ -1029,6 +1069,8 @@ Trump is also facing trials for inciting a ‘riot’ in Washington. (Colombo/Ma
 ◼️
 
 [Data](articles/33670805.json)
+
+[Extended Data](ext_articles/33670805.ext.json)
 
 ---
 
@@ -2089,53 +2131,5 @@ The persons have sent a sum of Rs.
 [Data](articles/b6c5d7ac.json)
 
 [Extended Data](ext_articles/b6c5d7ac.ext.json)
-
----
-
-### Those who want to put the country back in crisis are opposed to the Economic Transfer Act - Finance Minister Sehan Semasinghe
-
-*2024-05-30 19:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/184906) · `ta`
-
-Finance Minister Xihan Semasinghe argues that opponents of the Economic Change Bill aim to plunge the country back into crisis, driven by political motives rather than genuine concern for the economy. He highlights the government's ambitious plans to boost productivity, improve infrastructure, create jobs, and foster innovation, contrasting these with the negative commentary from those unfamiliar with the bill. The minister emphasizes the importance of implementing targeted legislation to avoid past economic downturns and outlines specific financial targets for reducing the country's debt burden, increasing economic growth, and enhancing employment rates. Additionally, he discusses goals for gender equality in the workforce and maintaining low unemployment levels, alongside ambitions to grow exports and attract foreign direct investments.
-
-🟩
-
-Finance Minister Xihan Semasinghe said that only parties who need to put the country back into economic crisis can oppose the economic change bill.
-
-He noted that the current government has a confident goal regarding the country's economy but that other opposition parties have only political motives.
-
-Finance Minister Xihan Semasinghe said this at a media briefing held at the Presidential Media Center on Thursday 30th.
-
-Our expectation is to increase productivity through the Economic Change Bill and transform Sri Lanka into an equal opportunity for every citizen. It is also expected to create a country with better infrastructure.
-
-Similarly, it is expected to create employment opportunities in accordance with economic growth and create an innovative exported competitive market.
-
-...
-
-[Data](articles/c412b6cf.json)
-
-[Extended Data](ext_articles/c412b6cf.ext.json)
-
----
-
-### Red warning to Sri Lanka
-
-*2024-05-30 19:31:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கைக்கு-விடுக்கப்பட்ட-சிவப்பு-எச்சரிக்கை/175-338168) · `ta`
-
-The Department of Meteorology has issued a red warning due to severe weather conditions, including strong winds and rough seas, affecting fishing activities near the Arabian Sea and Bay of Bengal. Heavy rains and winds of 60-70 km/h are expected in the southwest and southeast Arabian Sea and south of Sri Lanka, primarily during the southwest monsoon season.
-
-🟩
-
-The Department of Meteorology has issued a red warning that the weather conditions with strong winds and sea rage.
-
-The announcement has been made to people involved in fishing activities in the waters around the Arabian Sea and the Bay of Bengal.
-
-Due to the prevailing southwest monsoon, the Department of Meteorology has further stated that heavy rains with heavy winds (60-70 km) in the southwest and south-east Arabian Sea and south are likely to occur in the seas around Sri Lanka.. Remble
-
-◼️
-
-[Data](articles/cf77ccad.json)
-
-[Extended Data](ext_articles/cf77ccad.ext.json)
 
 ---

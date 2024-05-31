@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-31 21:03:55**
+As of **2024-05-31 21:18:55**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,403
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,587 (100.0%) of 27,589 articles have been extended.
+27,589 (100.0%) of 27,589 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -104,15 +104,23 @@ Daluwatte maintained consistency across all three days, carding scores of 71, 71
 
 ---
 
-### ක‍ිර්තිමත් බුද්ධි අංශ නිලධාරී ලුතිනන් කර්නල් මුතාලිෆ් ඝාතනයට වසර 19
+### Followan Intelligence Officer Lieutenant K Colonel Muthalif 19
 
 *2024-05-31 19:46:23* · [`adalk`](https://www.ada.lk/opinion/ක‍ිර්තිමත්-බුද්ධි-අංශ-නිලධාරී-ලුතිනන්-කර්නල්-මුතාලිෆ්-ඝාතනයට-වසර-19/2-409946) · `si`
 
-රට ජාතිය වෙනුවෙන් යුද සේවයට කැප වෙන්නාවූ සෑම රණවිරුවකුම මේ රට ආරක්ෂා කරන්නාවූ දෙවියන් බදු වුවන් වන බැවින් එවන් යුධ සෙබළුන් සිටින හමුදාවක කොටසක් නැතහොත් කොදුනාරටියක් වශයෙන් සැලකෙන බුද්ධි අංශය රටෙහි ජාතික ආරක්ෂාව සදහා විශාල මෙහෙයක් සිදු කරනු ලබයි.  රටක යුද හමුදා බුද්ධි අංශයක් ක්‍රියාත්මක වන්නේ රාජ්‍ය පාලකයා සහ සමස්ත ජනතාව ම ආරක්ෂා කිරීම සදහාය. ඔවුන් දිවුරුම් දී ඇත්තේ නායකා රකින්නට පමණක් නොව සමස්ත ජනතාවත් රජය්‍යත් සමග තම මවුබිම රැකිම සදහාය.
+Intelligence officers like Lt. Col. Muthalif play a crucial role in national security, protecting both the leadership and the populace. Muthalif, a key figure in military intelligence, faced threats due to his efforts against the LTTE. Despite these dangers, he continued his service, contributing significantly to weakening the LTTE. His dedication and bravery were recognized nationally, highlighting his importance in the fight against terrorism and his impact on national unity.
+
+🟩
+
+Since all war heroes who have committed to the nation's warfare to protect the country, the intelligence of such war soldiers, or angrout, is a great deal of national security in the country.A military intelligence in a country is working on the state ruler and the entire masses.. They have been sworn in not only to protect the leadership but also to protect their homeland with the overall people.
+
+Evaniasaya, a major link of such intelligence, was to go to the war heroair to go to the war heroair to be able to go to the brumy three years. At that time, the highest officer in the Army was a shocked by the highest officer in the Army and the international army, violating the terms of the government and LTTE.. Major Muthalif, who served as the commander of the Sri Lanka Army's First Brigade, was on his way to the car in the car.The demise of such strategic intelligence was an incident that caused everyone in this country.
 
 ...
 
 [Data](articles/31e5c0bf.json)
+
+[Extended Data](ext_articles/31e5c0bf.ext.json)
 
 ---
 
@@ -760,17 +768,23 @@ This is stated by the latest report issued by the Department of Census and Stati
 
 ---
 
-### චීන ආර්ථික වර්ධන පුරෝකථනය යළිත් ඉහළට
+### Chinese economic growth forecast up again
 
 *2024-05-31 16:40:01* · [`adalk`](https://www.ada.lk/breaking_news/චීන-ආර්ථික-වර්ධන-පුරෝකථනය-යළිත්-ඉහළට/11-409945) · `si`
 
-2024 හා 2025 වසරවල චීන ආර්ථික වර්ධන අනුපාත පිළිවෙළින් 5% ක් හා 4.5% ක් වනු ඇතැයි ජාත්‍යන්තර මූල්‍ය අරමුදල පවසයි. පසුගිය අප්‍රේල් මාසයේ නිකුත් කෙරුණු ලෝක ආර්ථික අපේක්ෂා පිළිබඳ වාර්තාව හා සසඳන විට එය 0.4% ක වර්ධනයකි.
+The IMF forecasts China's economic growth at 5% for 2024 and 4.5% for 2025, a slight increase from its April report. This positive outlook follows rapid GDP growth and effective measures taken in Q1.
 
-ජාත්‍යන්තර මූල්‍ය අරමුදලේ උපසභාපතිනි ගීතා ගෝපිනාත් මහත්මිය මේ බව කියාසිටියේ 29 වැනිදා බෙයිජිං අගනුවර පැවති මාධ්‍ය හමුවකට එක්වෙමිනි. වසරේ පළමු කාර්තුවේ දී චීන දළ දේශීය නිෂ්පාදනය වේගයෙන් වර්ධනය වීම හා අනුගමනය කර ඇති ඵලදායී පියවර ගණනාවක් ඊට හේතු වූ බව ද ඇය ප්‍රකාශ කළාය.
+🟩
+
+The International Monetary Fund says Chinese economic growth rates will be 5% and 4.5% in 2024 and 2025. It is an increase of 0.4% compared to the report on world economic expectations issued in April.
+
+Mrs. Vice Competition of the International Monetary Fund (IMF) was speaking at a media briefing held in the capital of Beijing Palai on the 29th. She said that the Chinese GDP was rapidly growing and effective measures adopted in the first quarter of the year.
 
 ◼️
 
 [Data](articles/e8b1664d.json)
+
+[Extended Data](ext_articles/e8b1664d.ext.json)
 
 ---
 

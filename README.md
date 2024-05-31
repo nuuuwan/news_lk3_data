@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-31 14:05:10**
+As of **2024-05-31 14:18:45**
 
 ## Newspaper Stats
 
@@ -1415,6 +1415,8 @@ In New York, the Permanent Mission of Sri Lanka co-hosted an impressive event at
 *2024-05-31 05:42:12* · [`dailyftlk`](https://www.ft.lk/columns/Governance-all-the-way-down/4-762402) · `en`
 
 Multiple modalities of State intervention—from regulation to planning, stimulus to welfare—have all been collapsed into each other and displaced by the insipid term of governance
+
+Given the comprador mentality that pervades thinking about the burgeoning crisis of development and possible solutions for poor countries, there has been far less scrutiny of the vague claim that governance is the problem. How many people in the US establishment would now argue, for example, that free trade is an unassailable good? In contrast, when it comes to financing for development, myth quickly replaces evidence in determining which solutions are taken seriously, and which are dismissed. The choice often has nothing to do with reason. Instead, as Doyle implied, it has everything to do with interests and how creditor expectations are currently formed. And in this moment, it is austerity that is the primary vehicle of extraction
 
 ...
 

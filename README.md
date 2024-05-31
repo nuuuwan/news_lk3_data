@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-01 00:34:10**
+As of **2024-06-01 00:50:27**
 
 ## Newspaper Stats
 
-*Scraped **27,634** Articles*
+*Scraped **27,638** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,10 +14,10 @@ bbccomsinhala | 273
 newsfirstlk | 363
 islandlk | 1,488
 economynextcom | 1,583
-dailyftlk | 1,624
+dailyftlk | 1,627
 adalk | 2,360
 adaderanalk | 3,143
-tamilmirrorlk | 3,235
+tamilmirrorlk | 3,236
 virakesarilk | 4,264
 dailymirrorlk | 4,377
 adaderanasinhalalk | 4,409
@@ -26,11 +26,53 @@ adaderanasinhalalk | 4,409
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,619 (99.9%) of 27,634 articles have been extended.
+27,629 (100.0%) of 27,638 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-01 (Saturday)
+
+### Sabry meets Russian envoy to discuss Sri Lankans in Ukraine conflict
+
+*2024-06-01 00:24:05* · [`dailyftlk`](https://www.ft.lk/news/Sabry-meets-Russian-envoy-to-discuss-Sri-Lankans-in-Ukraine-conflict/56-762469) · `en`
+
+Foreign Minister Ali Sabry this week held a follow up discussion with Russian Ambassador Levan S. Dzhagaryan relating to the urgent situation regarding the Sri Lankans engaged in the Russia-Ukraine conflict. This meeting was subsequent to the previous meeting held with the Russian Ambassador on 7 May.
+
+...
+
+[Data](articles/2ab15a12.json)
+
+---
+
+### Ambassador Chandana Weerasena presents credentials to European Council President
+
+*2024-06-01 00:21:52* · [`dailyftlk`](https://www.ft.lk/news/Ambassador-Chandana-Weerasena-presents-credentials-to-European-Council-President/56-762468) · `en`
+
+Ambassador of Sri Lanka in Belgium Chandana Weerasena presented his Letters of Credence to European Council President Charles Michel as the Ambassador of Sri Lanka to the European Union at the Europa Building of the European Council in Brussels on 22 May.
+
+The presentation of credentials was followed by a meeting with the President of the European Council. President Michel recalled EU’s important relations with Sri Lanka and inquired on the recent challenging economic situation of the country.
+
+...
+
+[Data](articles/9672a6ef.json)
+
+---
+
+### South Korean Anti-Corruption and Civil Rights Commission Vice Chair calls on Speaker
+
+*2024-06-01 00:20:46* · [`dailyftlk`](https://www.ft.lk/news/South-Korean-Anti-Corruption-and-Civil-Rights-Commission-Vice-Chair-calls-on-Speaker/56-762467) · `en`
+
+A delegation led by South Korea’s Anti-Corruption and Civil Rights Commission (ACRC) Vice Chairperson and Secretary General Chung Seung-yun met with the Speaker of the House Mahinda Yapa Abeywardena at Parliament recently.
+
+During the discussion, Seung-Yun said that the Anti-Corruption Act passed in Sri Lanka last year is a very strong legislation. Meanwhile, Seung-Yun added that he is ready to support the introduction of the Integrity Assessment System for Government institutions in Sri Lanka which is currently operating in South Korea to prevent bribery and corruption.
+
+Speaker Abeywardena pointed out that the Anti-Corruption Act passed in Sri Lanka is completely independent and that, accordingly, the Commission to Investigate Allegations of Bribery or Corruption will be able to work independently. The Speaker also mentioned that he hopes to work together with other supporting countries to curb corruption.
+
+...
+
+[Data](articles/cd5249da.json)
+
+---
 
 ### Foreign Secretary meets Canadian Deputy Minister for International Development
 
@@ -43,6 +85,8 @@ Foreign Secretary Wijewardane briefed Deputy Minister MacLennan on the significa
 ...
 
 [Data](articles/a697946b.json)
+
+[Extended Data](ext_articles/a697946b.ext.json)
 
 ---
 
@@ -60,6 +104,8 @@ Ambassador Ameer Ajwad is a career diplomat with 26 years of experience in the S
 
 [Data](articles/52b0ea6c.json)
 
+[Extended Data](ext_articles/52b0ea6c.ext.json)
+
 ---
 
 ### Dr. Alan Lightman highlights US-Sri Lanka people-to-people ties
@@ -73,6 +119,8 @@ On 31 May, Dr. Lightman delivered an inspiring lecture at the American Centre Co
 ...
 
 [Data](articles/fdd8e42b.json)
+
+[Extended Data](ext_articles/fdd8e42b.ext.json)
 
 ---
 
@@ -89,6 +137,8 @@ The delegation included Sri Lanka’s Minister for Buddhasasana, Religious and C
 ...
 
 [Data](articles/ce300f98.json)
+
+[Extended Data](ext_articles/ce300f98.ext.json)
 
 ---
 
@@ -108,6 +158,8 @@ Although the contract was signed on 23 April for the renovation of the Supreme C
 
 [Data](articles/6d2d15b5.json)
 
+[Extended Data](ext_articles/6d2d15b5.ext.json)
+
 ---
 
 ### India launches BIMSTEC-India Marine Research Network
@@ -126,6 +178,8 @@ i. BIMReN Split-Site Doctoral Fellowships, which offers doctoral candidates in B
 
 [Data](articles/0b912374.json)
 
+[Extended Data](ext_articles/0b912374.ext.json)
+
 ---
 
 ### Sri Lanka and Turkmenistan hold inaugural Foreign Office Consultations
@@ -141,6 +195,8 @@ Key highlights included the exploration of avenues for cooperation in the politi
 ...
 
 [Data](articles/f71a4600.json)
+
+[Extended Data](ext_articles/f71a4600.ext.json)
 
 ---
 
@@ -158,6 +214,30 @@ The ceremony was a testament to the diversity and unity within the Buddhist comm
 
 [Data](articles/23d0387b.json)
 
+[Extended Data](ext_articles/23d0387b.ext.json)
+
+---
+
+### ட்ரம்ப் குற்றவாளி: குற்றவியல் வழக்கில் தீர்ப்பு
+
+*2024-06-01 00:09:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ட்ரம்ப்-குற்றவாளி-குற்றவியல்-வழக்கில்-தீர்ப்பு/50-338220) · `ta`
+
+அமெரிக்காவின் முன்னாள் ஜனாதிபதி டொனால்ட் ட்ரம்ப் மீதான மோசடி நிதி அறிக்கைகள் தொடர்பான வழக்கில் அவர் குற்றவாளியாக அறிவிக்கப்பட்டுள்ளார்.
+
+நியூயோர்க் மாநிலத்திலுள்ள மன்ஹாட்டன் குற்றவியல் நீதிமன்றத்தில் இந்த வழக்கு விசாரிக்கப்பட்டதுடன், 22 பேரின் சாட்சியங்கள் தொடர்பில் ஆராயப்பட்டன.
+
+12 நடுவர்கள் இரண்டு வாரங்கள் விவாதித்து  ஒருமனதாக இந்த வழக்கின் தீர்ப்பை அறிவித்துள்ளனர்.
+
+வழக்கு தொடர்பான 34 குற்றச்சாட்டுகளிலும் முன்னாள் ஜனாதிபதி ட்ரம்ப் குற்றவாளி என நீதிமன்றம் உத்தரவிட்டுள்ளது.
+
+இதன்மூலம், அமெரிக்க வரலாற்றில் குற்றவியல் வழக்கொன்றில் தண்டனை பெற்ற முதல் முன்னாள் ஜனாதிபதியாக டொனால்ட் ட்ரம்ப் பதிவாகியுள்ளார்.
+
+அமெரிக்காவின் முன்னாள் ஜனாதிபதி ட்ரம்ப், தன்னுடனான பாலியல் தொடர்பை மறைக்க ஆபாச நடிகை ஸ்டோமி டேனியல்ஸுக்கு சுமார் 1.3 லட்சம் டொலர்களை 2016 ஆம் ஆண்டுக்கான தேர்தல் பிரச்சார நிதியில் இருந்து கொடுத்தார் என்று குற்றம் சாட்டப்பட்டது. (a)
+
+◼️
+
+[Data](articles/7824421e.json)
+
 ---
 
 ### Climate change and human health
@@ -171,6 +251,8 @@ The nexus between climate change and human health is increasingly entering natio
 ...
 
 [Data](articles/8a802af5.json)
+
+[Extended Data](ext_articles/8a802af5.ext.json)
 
 ---
 
@@ -271,6 +353,8 @@ What does “genocide” mean to Justin Trudeau, Prime Minister of Canada? His s
 ...
 
 [Data](articles/aa728302.json)
+
+[Extended Data](ext_articles/aa728302.ext.json)
 
 ---
 
@@ -2127,85 +2211,5 @@ The petitioners said that politicians had expressed their views on the recent Ma
 [Data](articles/412166c6.json)
 
 [Extended Data](ext_articles/412166c6.ext.json)
-
----
-
-### Beedi leaf packs floating in the Puttalam mixture
-
-*2024-05-31 14:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/184953) · `ta`
-
-In Puttalam, fishermen found suspicious packages containing over 320kg of beedi leaves, potentially smuggled from India, worth over 20 lakh rupees. Police are seizing them and investigating, planning to present them in court.
-
-🟩
-
-Fishermen in the Puttalam mixed area have been informed by the police who observed suspicious packages.
-
-When the police went to the area and checked the packs, the speeches revealed that there were beedi leaves.
-
-About 320 kg of beedi leaves have been seized in 12 speech, police said.
-
-The seized beedi leaves are reported to be worth more than 20 lakh rupees.
-
-Police say they suspect the beedi leaves may have been illegally brought from India to sea.
-
-Puttalam police said that steps are being taken to bring the seized beedi leaves to the Puttalam court and are investigating the matter.
-
-◼️
-
-[Data](articles/0cbc1bfa.json)
-
-[Extended Data](ext_articles/0cbc1bfa.ext.json)
-
----
-
-### Lankadeepa wins seven awards...
-
-*2024-05-31 14:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Lankadeepa-wins-seven-awards/110-283808) · `en`
-
-Our sister paper Daily Lankadeepa won seven awards at Miracle award ceremony held at Waters Edge Hotel last night. Among the individual accolades, Sujith Hewajulige was named Best News Editor and Journalist, Lionel Perera won Best Poet, Niroshan Godellage was awarded Best Provincial News Editor, Dasa Hapuwalana took home Best Cartoonist, and Nimal Jayarathne was recognized as Best Provincial Correspondent. In addition, Daily Lankadeepa received the award for Best Website of the Year.
-
-◼️
-
-[Data](articles/1ab69b51.json)
-
-[Extended Data](ext_articles/1ab69b51.ext.json)
-
----
-
-### Lankadeepa wins 'best Newspaper of the Year'
-
-*2024-05-31 14:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Lankadeepa-wins-best-Newspaper-of-the-Year/110-283808) · `en`
-
-Our sister paper Daily Lankadeepa won seven awards including 'best Newspaper of the Year' at Miracle award ceremony held at Waters Edge Hotel last night.  Among the individual accolades, Sujith Hewajulige was named Best News Editor and Journalist, Lionel Perera won Best Poet, Niroshan Godellage was awarded Best Provincial News Editor, Dasa Hapuwalana took home Best Cartoonist, and Nimal Jayarathne was recognized as Best Provincial Correspondent. In addition, Daily Lankadeepa received the award for Best Website of the Year.
-
-◼️
-
-[Data](articles/cdd01718.json)
-
-[Extended Data](ext_articles/cdd01718.ext.json)
-
----
-
-### Rising Sri Lanka egg consumption should not deter exports: minister
-
-*2024-05-31 14:37:00* · [`economynextcom`](https://economynext.com/rising-sri-lanka-egg-consumption-should-not-deter-exports-minister-165585/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s egg consumption has risen by about one million, the Department of Animal Production and Health has said.
-
-“The daily consumption of chicken eggs in this country was 7 million eggs and in the last few months that amount has exceeded to about 8 million eggs,” Department officials said in a discussion with Minister of Agriculture and Plantation Industry Mahinda Amaraweera.
-
-Amaraweera said the increase in local demand should not compromise Sri Lanka’s egg exports, and asked for a survey to be conducted on egg consumption.
-
-Sri Lanka exports chicken eggs mainly to the Maldives, Amaraweera told EconomyNext. “Because of the presence of bird flu in other countries, there is a high demand for eggs from Sri Lanka.”
-
-Switz Lanka, a hen egg producer which markets its product under the Happy Hen brand, exports eggs to the high-end Maldivian hospitality sector.
-
-Maxies and Co Pvt Ltd is also listed as an egg exporter by Sri Lanka’s Export Development Board.
-
-...
-
-[Data](articles/a6727bfa.json)
-
-[Extended Data](ext_articles/a6727bfa.ext.json)
 
 ---

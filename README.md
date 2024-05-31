@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-31 21:53:21**
+As of **2024-05-31 22:06:33**
 
 ## Newspaper Stats
 
-*Scraped **27,595** Articles*
+*Scraped **27,598** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,44 @@ newsfirstlk | 363
 islandlk | 1,488
 economynextcom | 1,575
 dailyftlk | 1,612
-adalk | 2,359
+adalk | 2,360
 adaderanalk | 3,142
 tamilmirrorlk | 3,234
 virakesarilk | 4,260
 dailymirrorlk | 4,371
-adaderanasinhalalk | 4,403
+adaderanasinhalalk | 4,405
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,591 (100.0%) of 27,595 articles have been extended.
+27,595 (100.0%) of 27,598 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-31 (Friday)
+
+### ට්‍රම්ප් වරදකරු වූ හැටි
+
+*2024-05-31 21:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197224) · `si`
+
+ව්‍යාජ ව්‍යාපාර ලේඛන සකස් කළ බවට හිටපු අමෙරිකානු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප්ට එරෙහිව එල්ලවූ අපරාධ චෝදනා 34ටම ඔහු වරදකරු බව නිව්යෝර්ක් අධිකරණය තීන්දු කර තිබේ.
+
+තමන් සමග පැවති සබඳතාවක් රහසිගතව තබාගන්නා ලෙස නිල් චිත්‍රපට නිළි ස්ටෝමි ඩැනියල්ට 2016 ජනාධිපතිවරණයට පෙර හිටපු ජනපති ඩොනල්ඩ් ට්‍රම්ප් ඩොලර් 130,000ක මුදලක් ගෙවීම ඔහුට එල්ලවූ චෝදනාවයි.
+
+එලෙස මුදල් ලබාදීම නීතියෙන් වරදක් නොවුවත් එය ව්‍යාපාරික ගනුදෙනුවක් ලෙස හුවා දක්වමින් ව්‍යාජ ව්‍යාපාර ලේඛන සැකසීම අමරිකානු නීතියට අනුව මැතිවරණ නීති උල්ලංඝනය කිරීමකි.
+
+ඊට අදාළ අපරාධ චෝදනා 34ටම නිව්යෝර්ක් අධිකරණයේදී සති 7ක කාලයක් පැවති නඩු විභාගයෙන් පසු හිටපු ජනපති ට්‍රම්ප් වරදකරු ලෙස තීන්දු කෙරුණි.
+
+ඒ සාක්ෂිකරුවන් විසි දෙදෙනෙකුගෙන් සාක්ෂි විමසා ජූරි සභිකයින් 12 දෙනෙකු ඒකමතිකව ගත් තීරණයට අනුවය.
+
+ඒ සමග අපරාධ චෝදනාවකට වරදකරුවූ පළමු අමෙරිකානු ජනාධිපතිවරයා ලෙස මෙන්ම මැතිවරණ කාලවකවානුවකදී අපරාධයකට වරදකරුවෙකු වූ පළමු ප්‍රධාන ජනාධිපති අපේක්ෂකයා ලෙස ට්‍රම්ප් ඉතිහාසයට එක් වේ.
+
+...
+
+[Data](articles/2bcec82e.json)
+
+---
 
 ### CPC announces fuel price revisions
 
@@ -47,6 +69,32 @@ Further, the price of Kerosene has been lowered by Rs. 13, setting the new rate 
 ◼️
 
 [Data](articles/847a8ab1.json)
+
+[Extended Data](ext_articles/847a8ab1.ext.json)
+
+---
+
+### උසස් පෙළ විශිෂ්‍ඨයන් මෙන්න
+
+*2024-05-31 21:14:09* · [`adalk`](https://www.ada.lk/breaking_news/උසස්-පෙළ-විශිෂ්‍ඨයන්-මෙන්න/11-409948) · `si`
+
+උසස් පෙළ විභාග ප්‍රතිඵලවලට අදාළව එක් එක් විෂය ධාරාවන් අනුව දිවයිනේ ප්‍රථම ස්ථාන ලබාගත් සිසුන් ප්‍රකාශයට පත් කර තිබේ.
+
+ජෛව විද්‍යා අංශයේ ප්‍රථම ස්ථානය -  ගාල්ල සංඝමිත්තා බාලිකා විද්‍යාලයේ පහන්මා උපනි ලෙනෝරා
+
+ගණිත අංශයෙන් පළමු ස්ථානය  - කොළඹ ආනන්ද විද්‍යාලයේ ඩව්. ඒ. චිරාත් නිරෝධ
+
+කලා අංශයෙන් ප්‍රථම ස්ථානය - ගාල්ල රිච්මන්ඩ් විද්‍යාලයේ ටසුන් රිත්මික විතානගේ
+
+ඉංජිනේරු තාක්ෂණවේදය විෂය ධාරාවේ ප්‍රථම ස්ථානය - ගිනිගත්හේන මධ්‍ය මහා විද්‍යාලයේ ශෙහානි නවෝද්‍යා මුල්විලගේ
+
+වාණිජ විෂය ධාරාවේ පළමු ස්ථානය  - පානදුර බාලිකා මහා විද්‍යාලයේ ශෙහාරා සිතුමිණි පුංචිහේවා
+
+ජෛව පද්ධති තාක්ෂණවේදය ප්‍රථම ස්ථානය  - ඇහැළියගොඩ මධ්‍ය මහා විද්‍යාලයේ කිරුලු සිහිල්දිය පල්ලියගුරු
+
+◼️
+
+[Data](articles/3c073206.json)
 
 ---
 
@@ -68,6 +116,30 @@ Meanwhile, the prices of Petrol 95 Octane and Super diesel will remain unchanged
 
 ---
 
+### ඉන්ධන මිල වෙනස් වෙයි
+
+*2024-05-31 21:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197223) · `si`
+
+අද (31) මධ්‍යම රාත්‍රියේ සිට ක්‍රියාත්මක වන පරිදි සිපෙට්කෝ ඉන්ධන මිල ගණන් සංශෝධනය කර තිබේ.
+
+මෙම සංශෝධන යටතේ ඉන්ධන වර්ග තුනක මිල ගණන් අඩුවී ඇති අතර, දෙකක මිල ගණන් නොවෙනස්ව පවතී.
+
+ඒ අනුව ඔක්ටේන් 92 පෙට්‍රල් ලීටරයක මිල රුපියල් 13කින් පහළ දමා ඇති අතර එහි නව මිල රුපියල් 355කි.
+
+ඔක්ටේන් 95 පෙට්‍රල් ලීටරයක මිල නොවෙනස්ව පවතින අතර, එහි මිල රුපියල් 420කි.
+
+සුදු ඩීසල් ලීටරයක මිල රුපියල් 16කින් පහළ ගොස් ඇති අතර එහි නව මිල රුපියල් 317කි.
+
+එමෙන්ම ලංකා සුපර් ඩීසල් ලීටරයක මිල නොවෙනස්ව පවතින අතර එහි මිල රුපියල් 377කි.
+
+භූමිතෙල් මිල රුපියල් 13කින් පහළ දමා ඇති අතර එහි නව මිල රුපියල් 202ක් වෙයි.
+
+◼️
+
+[Data](articles/4a29dec1.json)
+
+---
+
 ### Contempt of court application against Diana fixed for support
 
 *2024-05-31 20:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Contempt-of-court-application-against-Diana-fixed-for-support/108-283822) · `en`
@@ -83,6 +155,8 @@ Former Chairman of the Weligama Urban Council, Rehan Jayawickrema filed this app
 ...
 
 [Data](articles/c0419665.json)
+
+[Extended Data](ext_articles/c0419665.ext.json)
 
 ---
 
@@ -133,6 +207,8 @@ The Examinations Department has announced the top island rankings for various st
 ◼️
 
 [Data](articles/7cfdd11c.json)
+
+[Extended Data](ext_articles/7cfdd11c.ext.json)
 
 ---
 
@@ -458,7 +534,7 @@ In the Commerce stream, Shehara Sithumini of Panadura Balika Vidyalaya has obtai
 
 Shehani Navodya of Ginigathhena Central College is the island’s first in the Engineering Technology stream.
 
-Meanwhile, Shehani Navodya of Ginigathhena Central College has obtained island’s best results in Arts stream.
+Meanwhile, Thasun Rithmika of Richmond College, Galle has obtained island’s best results in Arts stream.
 
 ◼️
 
@@ -1404,6 +1480,8 @@ Our sister paper Daily Lankadeepa won seven awards including 'best Newspaper of 
 
 [Data](articles/cdd01718.json)
 
+[Extended Data](ext_articles/cdd01718.ext.json)
+
 ---
 
 ### Rising Sri Lanka egg consumption should not deter exports: minister
@@ -2217,65 +2295,5 @@ The judge sentenced to release the preliminary objections.
 [Data](articles/b49e3e94.json)
 
 [Extended Data](ext_articles/b49e3e94.ext.json)
-
----
-
-### Jaffna is prohibited to teach a teacher
-
-*2024-05-31 11:02:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/யாழ்ப்பாணத்தில்-ஆசிரியர்-ஒருவருக்கு-கற்பிக்கத்-தடை/71-338194) · `ta`
-
-A teacher in Jaffna was arrested after allegations of misconduct with a 10-year-old student. The Northern Provincial Ministry of Education acted upon a parent's complaint, leading to the teacher's arrest and court appearance. Investigations were conducted by the Department of Education.
-
-🟩
-
-A teacher accused of misbehaving with 10 -year -old students in Jaffna has been imposed by the Northern Provincial Ministry of Education.
-
-The parents of a victim had lodged a complaint at the Manipay police station that a teacher had misbehaved with a 10 -year -old student in Grade 05 at a popular school in Manipay.
-
-On the basis of this, the police arrested the teacher and produced him before the Mallakam Magistrate's Court.
-
-In this case, investigations into the incident have been carried out by the Department of Education and sent to the Secretary of the Ministry of Education.. Remble
-
-◼️
-
-[Data](articles/17693bf0.json)
-
-[Extended Data](ext_articles/17693bf0.ext.json)
-
----
-
-### Derailment delays train services between Maradana, Fort
-
-*2024-05-31 10:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Derailment-delays-train-services-between-Maradana-Fort/108-283793) · `en`
-
-Colombo, May 31 (Daily Mirror) -Train services between Colombo Fort and Maradana will be delayed due to a derailment, the Railways Department said.
-
-They said that due to the derailment, the train services will operate with a considerable delay.
-
-◼️
-
-[Data](articles/d06ff146.json)
-
-[Extended Data](ext_articles/d06ff146.ext.json)
-
----
-
-### Propaganda to insult Buddhist philosophy, Buddha’s character: Parliamentary Committee reveals
-
-*2024-05-31 10:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Propaganda-to-insult-Buddhist-philosophy-Buddhas-character-Parliamentary-Committee-reveals/108-283792) · `en`
-
-Parliament, May 31 (Daily Mirror)- Those who carry out propaganda insulting the Buddhist philosophy and the Buddha's character are engaged in various businesses in this country as well as in other foreign countries and spend a lot of money to carry out such work, a Parliamentary Committee has revealed.
-
-This was revealed during a meeting of the Parliamentary Caucus for functioning towards safeguarding the national heritage charied by MP Jayantha Samaraweera recently.
-
-The officials present pointed out that this could be one facet of a conspiracy to bring down Sri Lanka as a country in international geopolitics, so measures should be taken after considering the matter.
-
-They were of the opinion that social violence and cultural breakdown will occur as a result of these actions and this may lead to the breakdown of the individual, family, institutions and ultimately the entire society in this country and therefore, attention should be paid to this matter immediately.
-
-...
-
-[Data](articles/58c31c9f.json)
-
-[Extended Data](ext_articles/58c31c9f.ext.json)
 
 ---

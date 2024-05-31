@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-31 07:21:33**
+As of **2024-05-31 07:45:43**
 
 ## Newspaper Stats
 
-*Scraped **27,445** Articles*
+*Scraped **27,446** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 272
 newsfirstlk | 363
 islandlk | 1,488
 economynextcom | 1,568
-dailyftlk | 1,611
+dailyftlk | 1,612
 adalk | 2,340
 adaderanalk | 3,125
 tamilmirrorlk | 3,216
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,381
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,428 (99.9%) of 27,445 articles have been extended.
+27,428 (99.9%) of 27,446 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -211,6 +211,28 @@ Election Commission’s Chairman R. M. A. L. Ratnayake confirmed that the EU del
 ...
 
 [Data](articles/4be1dc6d.json)
+
+---
+
+### Dr. Shafi recounts ordeal and emphasises need for unity and compassion in Sri Lanka
+
+*2024-05-31 05:48:21* · [`dailyftlk`](https://www.ft.lk/opinion/Dr-Shafi-recounts-ordeal-and-emphasises-need-for-unity-and-compassion-in-Sri-Lanka/14-762404) · `en`
+
+Expresses dismay at Padeniya’s silence during his forced sterilisation ordeal
+
+Says some mothers from Kurunegala, continue to trust and seek his services for deliveries while even apologising for complaining against him
+
+Reiterates commitment to providing care to mothers, emphasising that he never harboured any intentions to harm them
+
+Reflects on his detention alongside Makandure Madhush, who he said had no more humanity than those in Parliament today
+
+Kurunegala Teaching Hospital Senior House Officer in the Gynaecology and Obstetrics Unit Dr. Shafi Shihabdeen last week recounted his ordeal and emphasised the need for unity and compassion in Sri Lanka.
+
+He voiced his disappointment with former President of the Government Medical Officers Association (GMOA), Anuruddha Padeniya, for remaining silent during Shihabdeen’s wrongful accusation of conducting forced sterilisations on women.
+
+...
+
+[Data](articles/f5d2a36f.json)
 
 ---
 
@@ -2131,33 +2153,5 @@ A lawyer was heard to say in the Law Library canteen that ‘Machang, No worries
 [Data](articles/3c618467.json)
 
 [Extended Data](ext_articles/3c618467.ext.json)
-
----
-
-### Veteran musician Shelton Premaratne passes away
-
-*2024-05-30 15:35:34* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රවීණ-සංගීතඥ-ෂෙල්ටන්-ප්‍රේමරත්න-අභාවප්‍රාප්ත-වෙයි/11-409917) · `si`
-
-Shelton Premaratne, a veteran musician from Sri Lanka, passed away at 93 in Australia. Born in 1931, he entered the music industry at 17 and became renowned for his contributions to Sinhala cinema, including composing the first academic song for the film 'Dhamma'. His works, such as "My Dreams Are Roses For My Love" from Romeo Juliet, showcased his talent alongside other notable artists like Cold Desion and Sujathi Attanayake. Premaratne also led the Shelton Linders' Orchestra during the Deepawali film festival. His funeral will take place in Sydney, Australia.
-
-🟩
-
-Veteran Musiciant Shelton Premaratne passed away yesterday (30) in Australia, Australia yesterday (30).. He was 93 when he died.
-
-Shelton Premaratne was born on 29th April 1931, Kotahena, Kithahena, Kithena Central College, he included in Kotahena Central College.
-
-Shellton Premaits enter the music industry.. Shelton had chosen music in the film 'Happy journalist', a film, a film that was used by businessman.. Then Shellton Premaits were 17 years old.
-
-Shelton Premaratne joined Shilaton Peace with Siammani Peace with Sishiran Premaratne, who was changing her possibility from the film 'Dascan'.. The first academic song of the 'Dhamma' song song is a Sinhala film.
-
-Shelton loves are the highest number of ballet in Sri Lanka.
-
-"My Dreams Are Roses For My Love (Romeo Juliet Film Movie Juliet)" (Romeo Juliet). "Cold desion and Sujathi Attanayake Sing" Hanzani Perera sang the "Hanzani Perera ', SunzaraniPine "Songs Songs Shelton Premasses Outstanding Creation.
-
-...
-
-[Data](articles/05729461.json)
-
-[Extended Data](ext_articles/05729461.ext.json)
 
 ---

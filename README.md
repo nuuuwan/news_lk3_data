@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-01 01:18:42**
+As of **2024-06-01 01:33:59**
 
 ## Newspaper Stats
 
-*Scraped **27,644** Articles*
+*Scraped **27,646** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 273
 newsfirstlk | 363
 islandlk | 1,488
 economynextcom | 1,583
-dailyftlk | 1,633
+dailyftlk | 1,635
 adalk | 2,360
 adaderanalk | 3,143
 tamilmirrorlk | 3,236
@@ -26,11 +26,53 @@ adaderanasinhalalk | 4,409
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,638 (100.0%) of 27,644 articles have been extended.
+27,644 (100.0%) of 27,646 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-01 (Saturday)
+
+### SJB vows to thwart President’s election delay tactics
+
+*2024-06-01 01:07:42* · [`dailyftlk`](https://www.ft.lk/news/SJB-vows-to-thwart-President-s-election-delay-tactics/56-762479) · `en`
+
+SJB’s Sujeewa Senasinghe accuses President Ranil Wickremesinghe of resorting to political tricks and manipulations to delay polls
+
+Claims Palitha Range Bandara’s proposal to delay elections is strategic manoeuvre orchestrated by Wickremesinghe
+
+Assures SJB will vigorously oppose any attempts to delay Presidential Election
+
+Dismisses rumours of potential collaboration between SJB and UNP ahead of polls
+
+Samagi Jana Balawegaya (SJB) Head of Presidential Election Operations Sujeewa Senasinghe asserted yesterday that the party would firmly resist any attempts by President Ranil Wickremesinghe to manipulate the electoral process.
+
+Speaking at a press briefing in Colombo, Senasinghe accused Wickremesinghe of relying heavily on political manoeuvres and deceptive tactics throughout his three-decade-long political career.
+
+...
+
+[Data](articles/2c5d4bae.json)
+
+---
+
+### Lawyers Collective condemns Range Bandara’s proposal to postpone polls
+
+*2024-06-01 01:06:46* · [`dailyftlk`](https://www.ft.lk/news/Lawyers-Collective-condemns-Range-Bandara-s-proposal-to-postpone-polls/56-762478) · `en`
+
+Highlights “democracy deficit” in SL referencing 2022 Aragalaya uprising, which indicated lack of public confidence in Govt.
+
+Argues President Ranil Wickremesinghe elected amid public discontent, should uphold democratic principles and respect people’s sovereignty
+
+Says Bandara’s proposal is dangerous, made in bad faith, and disregards SL’s Constitution while abusing the rejected Parliamentary majority’s power
+
+Stresses regular elections are essential for democracy and condemns any attempt to interfere with the process as an authoritarian move
+
+The Lawyers Collective yesterday strongly condemned a recent statement made by the United National Party (UNP) General Secretary Palitha Range Bandara proposing a public referendum to extend the terms of the current President and Parliament by two years.
+
+...
+
+[Data](articles/483ae8a1.json)
+
+---
 
 ### Iraq encourages re-establishment of Lankan embassy to boost diplomatic and economic ties
 
@@ -54,6 +96,8 @@ He said the move is seen as a crucial step in addressing visa issues and smoothe
 
 [Data](articles/42d58f8e.json)
 
+[Extended Data](ext_articles/42d58f8e.ext.json)
+
 ---
 
 ### Siyambalapitiya says Cabinet approves Rs. 5 b to settle statutory allowance arrears to plantation workers
@@ -70,6 +114,8 @@ He said the decision follows guidance and instructions from President Ranil Wick
 
 [Data](articles/40ee6eb8.json)
 
+[Extended Data](ext_articles/40ee6eb8.ext.json)
+
 ---
 
 ### Foreign Minister inaugurates IORA Business Conclave
@@ -83,6 +129,8 @@ The Business Conclave under the theme “Sustaining Growth – Bridging Horizons
 ...
 
 [Data](articles/ea2af0c8.json)
+
+[Extended Data](ext_articles/ea2af0c8.ext.json)
 
 ---
 
@@ -102,6 +150,8 @@ Through an incubator, which is provided under the assistance of the Chinese Gove
 
 [Data](articles/f66d970c.json)
 
+[Extended Data](ext_articles/f66d970c.ext.json)
+
 ---
 
 ### Celebration of International Tea Day in Istanbul
@@ -118,6 +168,8 @@ Honorary Consul for Sri Lanka in the Mediterranean Region, Adana, Beşir Uğur f
 
 [Data](articles/55f4c9cf.json)
 
+[Extended Data](ext_articles/55f4c9cf.ext.json)
+
 ---
 
 ### SLASSCOM champions awareness, education, and industry collaboration to combat WhatsApp scams
@@ -131,6 +183,8 @@ CSCx Forum at SLASSCOM Head Sithira Wanniarachchi, said that common tactics scam
 ...
 
 [Data](articles/9711de51.json)
+
+[Extended Data](ext_articles/9711de51.ext.json)
 
 ---
 
@@ -2145,65 +2199,5 @@ The Examinations Department said that the results of the examination can be view
 [Data](articles/c94a9dd3.json)
 
 [Extended Data](ext_articles/c94a9dd3.ext.json)
-
----
-
-### Does TiktoK reserving American operations?
-
-*2024-05-31 15:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197215) · `si`
-
-TikTok, owned by ByteDance, faces scrutiny over its U.S. operations due to national security concerns. The Trump administration considered banning TikTok and sought to force ByteDance to divest its U.S. assets. Despite these efforts, ByteDance maintains control over TikTok's U.S. operations, denying reports of separating the app's U.S. and China operations. This situation highlights ongoing tensions between tech companies and government regulations regarding data privacy and national security.
-
-🟩
-
-The only social media that belongs to 5 of the world's most popular social media platforms is Ticktock, a short video exchange app.
-
-But about 170 million Americans are using the Ticktock social media.
-
-The Trump administration also think that the American ownership data of the Ticktock app is at risk of the US subscribers.
-
-Therefore, the Bideman administration was adopted that Ticktock was sold to a US company and banned Tiktock America and the Bideman administration was also adopted.
-
-Recently, it was reported that the Bitdans stated that even though the US was banned, tictock could not be sold.
-
-However, the international media reveals that the Chinese Tiktock social media apparent, the Bitdans is working to separate the 'algarrring' from the US Ticktock mission.
-
-That is, byddans comply with a Critical copy of the US to the US in the Ticktock Video Exchange app.
-
-It was stated that it could be a step to sell in the US Ticktock mission.
-
-...
-
-[Data](articles/5b888a86.json)
-
-[Extended Data](ext_articles/5b888a86.ext.json)
-
----
-
-### Premaging person who stole the travel bag of foreign girl
-
-*2024-05-31 15:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197214) · `si`
-
-A suspect accused of stealing a British girl's travel bag from a bus in Passara has been remanded until the 7th. The arrest followed an investigation after the theft occurred at the Pettah Bastian bus station. The stolen items included cash, a camera, bank cards, and a passport.
-
-🟩
-
-The suspect arrested for the suspects of a British girl's bag and theft of money on the Passara bus has been remanded until the 7th.
-
-The suspect was handed over by the Pettah Police Piyawarana Amarasene at the Colombo Additional Magistrate Pradeshina.
-
-The police had produced the lbs of the complaint, the camera, bank cards and her passport, and her passport.
-
-Additional Magistrate, who had considered the investigations into the incident, was later taken to be remanded until the 7th of this month.
-
-The suspect was arrested by the police following the investigation carried out by the bus operated on the bus.
-
-The robbery had taken place when the bus was landed at the Bastian bus station at the Pettah Bastian bus station for the girl.
-
-◼️
-
-[Data](articles/31a81919.json)
-
-[Extended Data](ext_articles/31a81919.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-01 00:18:43**
+As of **2024-06-01 00:34:10**
 
 ## Newspaper Stats
 
-*Scraped **27,619** Articles*
+*Scraped **27,634** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,11 +14,11 @@ bbccomsinhala | 273
 newsfirstlk | 363
 islandlk | 1,488
 economynextcom | 1,583
-dailyftlk | 1,613
+dailyftlk | 1,624
 adalk | 2,360
 adaderanalk | 3,143
 tamilmirrorlk | 3,235
-virakesarilk | 4,260
+virakesarilk | 4,264
 dailymirrorlk | 4,377
 adaderanasinhalalk | 4,409
 
@@ -26,11 +26,153 @@ adaderanasinhalalk | 4,409
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,615 (100.0%) of 27,619 articles have been extended.
+27,619 (99.9%) of 27,634 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-01 (Saturday)
+
+### Foreign Secretary meets Canadian Deputy Minister for International Development
+
+*2024-06-01 00:20:14* · [`dailyftlk`](https://www.ft.lk/news/Foreign-Secretary-meets-Canadian-Deputy-Minister-for-International-Development/56-762466) · `en`
+
+Foreign Secretary Aruni Wijewardane met the Canadian Deputy Minister for International Development Christopher MacLennan at the Ministry of Foreign Affairs on Thursday.
+
+Foreign Secretary Wijewardane briefed Deputy Minister MacLennan on the significant progress made by Sri Lanka on economic stabilisation and the high priority placed by the Government on economic diplomacy as the country moves towards revenue generation and growth. These efforts run parallel to the Government’s efforts at promoting peace and reconciliation. On the political front, the Foreign Secretary expressed Sri Lanka’s deep concern regarding high-level pronouncements made in Canada in recent years representing a false narrative of genocide in connection with the conflict that took place in Sri Lanka. The Foreign Secretary requested Canada to engage with Sri Lanka in a constructive manner and facilitate dialogue and reconciliation.
+
+...
+
+[Data](articles/a697946b.json)
+
+---
+
+### Ambassador – Designate to Kingdom of Saudi Arabia Ameer Ajwad assumes duties
+
+*2024-06-01 00:19:19* · [`dailyftlk`](https://www.ft.lk/news/Ambassador-Designate-to-Kingdom-of-Saudi-Arabia-Ameer-Ajwad-assumes-duties/56-762465) · `en`
+
+Ambassador – Designate of Sri Lanka to the Kingdom of Saudi Arabia Omar Lebbe Ameer Ajwad officially assumed duties on 24 May 2024. The occasion was marked by a simple ceremony organised by the staff of the Embassy at the Sri Lankan Embassy premises in Riyadh.
+
+Addressing the staff Ambassador Ameer Ajwad emphasised the need for elevating the existing relations between Sri Lanka and Saudi Arabia to new heights while highlighting the 50th anniversary of the establishment of diplomatic relations between the two countries that falls this year.
+
+Ambassador Ameer Ajwad is a career diplomat with 26 years of experience in the Sri Lanka Foreign Service. Prior to his appointment he served as the Additional Secretary of the Ministry of Foreign Affairs of Sri Lanka in charge of Planning, Implementation, and Performance Review including Bilateral Treaties; Political Affairs (Africa Region); Consular Affairs; as well as Emergency Response Unit of the Ministry of Foreign Affairs.
+
+...
+
+[Data](articles/52b0ea6c.json)
+
+---
+
+### Dr. Alan Lightman highlights US-Sri Lanka people-to-people ties
+
+*2024-06-01 00:18:28* · [`dailyftlk`](https://www.ft.lk/news/Dr-Alan-Lightman-highlights-US-Sri-Lanka-people-to-people-ties/56-762464) · `en`
+
+The US Embassy said yesterday it was proud to support the visit of acclaimed American physicist and best-selling author, MIT professor Dr. Alan Lightman, to Sri Lanka.
+
+On 31 May, Dr. Lightman delivered an inspiring lecture at the American Centre Colombo, attended by members of Sri Lanka’s academic, arts and sciences community and First Lady Professor Maithree Wickremesinghe. Dr. Lightman’s lecture focused on spiritual materialism, our feelings of connection to nature and other people, reflecting on our cosmic insignificance, as well as the immense significance of our unique position as observers of, and in, the universe. The American Centre event fostered a vibrant exchange of ideas and highlighted the enduring cultural ties between the two nations.
+
+...
+
+[Data](articles/fdd8e42b.json)
+
+---
+
+### Delegation of visiting Buddhist leaders calls on Pakistani Prime Minister
+
+*2024-06-01 00:17:23* · [`dailyftlk`](https://www.ft.lk/news/Delegation-of-visiting-Buddhist-leaders-calls-on-Pakistani-Prime-Minister/56-762463) · `en`
+
+A delegation of esteemed Buddhist leaders called on Prime Minister Muhammad Shehbaz Sharif in Islamabad recently.
+
+The delegation is visiting Pakistan to attend a symposium and an exhibition titled “From Gandhara to the World,” organised by the Ministry of Foreign Affairs Pakistan.
+
+The delegation included Sri Lanka’s Minister for Buddhasasana, Religious and Cultural Affairs Vidura Wikramanayaka, Most Venerable Thich Duc Tuan from Vietnam, Most Venerable Anil Sakya from Thailand and Dr. Keshabman Shakya from Nepal.
+
+...
+
+[Data](articles/ce300f98.json)
+
+---
+
+### Supreme Court complex begins renovations with Chinese assistance
+
+*2024-06-01 00:16:20* · [`dailyftlk`](https://www.ft.lk/news/Supreme-Court-complex-begins-renovations-with-Chinese-assistance/56-762462) · `en`
+
+With the assistance of the Chinese Government, the renovation work of the Supreme Court complex is currently underway.
+
+The signing of the total value estimation financial agreement was done in the Ministry of Justice auditorium on Thursday under the chairmanship of Minister of Justice, Prison Affairs and Constitutional Reforms, President’s Counsel Dr. Wijeyadasa Rajapakshe and Chinese Ambassador to Sri Lanka Qi Zhenhong.
+
+Ministry of Justice, Prison Affairs and Constitutional Reform Secretary Nihal Ranasinghe, and Chinese Embassy in Sri Lanka Counsellor Tang Yandi signed the relevant agreement.
+
+Although the contract was signed on 23 April for the renovation of the Supreme Court complex with the assistance of the Chinese Government for an amount of 240 million Yuan, the estimated amount to be spent on the project is 229 million Yuan. Accordingly, the agreement was signed for the amount of 229 million yuan to be spent.
+
+...
+
+[Data](articles/6d2d15b5.json)
+
+---
+
+### India launches BIMSTEC-India Marine Research Network
+
+*2024-06-01 00:15:43* · [`dailyftlk`](https://www.ft.lk/news/India-launches-BIMSTEC-India-Marine-Research-Network/56-762461) · `en`
+
+Initiative aimed at enabling PhD students from BIMSTEC countries to conduct doctoral research in India
+
+The Government of India has launched BIMReN (BIMSTEC-India Marine Research Network), a joint-initiative of MEA and the Bay of Bengal Programme-Inter Governmental Organisation (BOBP-IGO), to facilitate sustainable development of blue economy by networking researchers and research institutions in BIMSTEC countries.
+
+BIMReN aims to enable PhD students from BIMSTEC countries to conduct doctoral research in India and facilitate collaborative research among scientists/academicians from BIMSTEC countries through:
+
+i. BIMReN Split-Site Doctoral Fellowships, which offers doctoral candidates in BIMSTEC member countries a Research Grant of up to INR 1 million and the opportunity to pursue studies at Indian research labs for 6-12 months.
+
+...
+
+[Data](articles/0b912374.json)
+
+---
+
+### Sri Lanka and Turkmenistan hold inaugural Foreign Office Consultations
+
+*2024-06-01 00:15:15* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-and-Turkmenistan-hold-inaugural-Foreign-Office-Consultations/56-762460) · `en`
+
+The inaugural session of the Foreign Office Consultations between Sri Lanka and Turkmenistan was held on 30 May.
+
+This virtual event saw representatives from both nations engage in fruitful discussions aimed at strengthening ties across various domains.
+
+Key highlights included the exploration of avenues for cooperation in the political and diplomatic spheres, parliamentary engagements, economic sectors, energy, transport, education, and culture. Both sides acknowledged the potential for mutual benefit and emphasised the importance of sustained high-level visits to foster increased cooperation.
+
+...
+
+[Data](articles/f71a4600.json)
+
+---
+
+### White House celebrates Vesak in honour of Buddhists around the world
+
+*2024-06-01 00:14:26* · [`dailyftlk`](https://www.ft.lk/news/White-House-celebrates-Vesak-in-honour-of-Buddhists-around-the-world/56-762459) · `en`
+
+Honouring the global Buddhist community, the White House, led by Second Gentleman Douglas Emhoff, celebrated Vesak with a formal ceremony on 23 May.
+
+The event took place at the White House in Washington DC, marking the day of Vesak, which is observed by millions of Buddhists in the US and worldwide. The ceremony emphasised the relevance of Buddhist teachings in promoting peace, tolerance, and compassion and offering sustained solutions to global challenges.
+
+The ceremony was a testament to the diversity and unity within the Buddhist community. Buddhist priests from various traditions came together, lighting lamps and chanting prayers in front of a specially set-up platform. The platform featured a large Buddha statue, donated to the White House by the Sri Lanka Embassy last year, and was adorned with decorations ranging from flowers to Buddhist flags and lamps.
+
+...
+
+[Data](articles/23d0387b.json)
+
+---
+
+### Climate change and human health
+
+*2024-06-01 00:06:55* · [`dailyftlk`](https://www.ft.lk/columns/Climate-change-and-human-health/4-762451) · `en`
+
+Climate change impacts human health in a multitude of ways, but climate action also has the potential to address these issues through holistic and cross-cutting approaches
+
+The nexus between climate change and human health is increasingly entering national and global climate processes and conversations. Climate change is not just an environmental and economic issue but also poses an important challenge for public health that affects millions of people worldwide in multi-faceted ways.
+
+...
+
+[Data](articles/8a802af5.json)
+
+---
 
 ### 700,000 houses for low income households and financing plan
 
@@ -56,6 +198,8 @@ Obtain grants from UNDP, Save the Children, and other donor organisations for th
 
 [Data](articles/1f3dd00c.json)
 
+[Extended Data](ext_articles/1f3dd00c.ext.json)
+
 ---
 
 ### Red herrings, referendums, poverty and postponing elections
@@ -74,6 +218,8 @@ The youngest child is 40 days old! The two elder children study in the fourth an
 
 [Data](articles/056ad4d3.json)
 
+[Extended Data](ext_articles/056ad4d3.ext.json)
+
 ---
 
 ### Referendum to extend President’s term: Is it ploy to avoid election defeat?
@@ -89,6 +235,8 @@ Although Wickremesinghe and several other UNP leaders have disowned their Genera
 ...
 
 [Data](articles/bb22cd5b.json)
+
+[Extended Data](ext_articles/bb22cd5b.ext.json)
 
 ---
 
@@ -108,9 +256,57 @@ The essence of what Palitha Range Bandara proposed was this -. Ranil Wickremesin
 
 [Data](articles/d8f8c7cb.json)
 
+[Extended Data](ext_articles/d8f8c7cb.ext.json)
+
 ---
 
 ### 2024-05-31 (Friday)
+
+### Trudeau’s “genocide”, JVP’s “separatist war” and Netanyahu’s Israel
+
+*2024-05-31 23:51:33* · [`dailyftlk`](https://www.ft.lk/columns/Trudeau-s-genocide-JVP-s-separatist-war-and-Netanyahu-s-Israel/4-762446) · `en`
+
+What does “genocide” mean to Justin Trudeau, Prime Minister of Canada? His special statement issued on 18 May last introduced as “Statement by the Prime Minister on Tamil Genocide Remembrance Day” begins with the sentence, “Fifteen years ago, the quarter-century-long armed conflict in Sri Lanka came to an end.” So, he knows it. Yes, it came to an end 15 years ago with the LTTE proscribed in 33 countries as a “terrorist organisation” including in Canada, was completely annihilated.
+
+...
+
+[Data](articles/aa728302.json)
+
+---
+
+### Four Sri Lankans arrested in India for smuggling; here Rohan Gunaratne accuses Muslims of radicalisation
+
+*2024-05-31 23:49:14* · [`dailyftlk`](https://www.ft.lk/columns/Four-Sri-Lankans-arrested-in-India-for-smuggling-here-Rohan-Gunaratne-accuses-Muslims-of-radicalisation/4-762445) · `en`
+
+Four Sri Lankans were arrested on Monday, 20 May 2024 at the Ahmadabad Airport in India for smuggling of gold and drugs.
+
+According to Daily Mirror of 23 May 2024 Sri Lanka’s state intelligence has asked for further information from India’s state intelligence to verify the background of these alleged suspects, as well as to probe if they are actually linked to the ISIS network.
+
+Thus so far there was no report of their involvement in any organisation promoting violence. One should not forget the government in power in India is extremely hostile to Muslims. They demonise and unleash violence against Muslims. On the other hand it is ridiculous to state that they went to India to commit crime for a mere Rs. 100,000 each.
+
+...
+
+[Data](articles/05b73772.json)
+
+---
+
+### இந்தியாவில் கைது செய்யப்பட்ட 4 இலங்கையர்களுடன் நெருங்கிய தொடர்புடைய ISIS பயங்கரவாத அமைப்பின் முக்கியஸ்தர் கொழும்பில் கைது
+
+*2024-05-31 23:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/185003) · `ta`
+
+ஐ.எஸ்.ஐ.எஸ் அமைப்புடன் தொடர்புடைய சந்தேகத்தின் பேரில் இந்தியாவில் கைது செய்யப்பட்ட நான்கு இலங்கையர்களுடன் நெருங்கிய தொடர்புகளை வைத்திருந்ததாகவும் அவர்களுக்கு உதவியதாகவும் சந்தேகிக்கப்படும் ஒஸ்மான் புஷ்பராஜ் கைது செய்யப்பட்டுள்ளார்.
+
+இந்தியாவின் அஹமதாபாத் விமான நிலையத்தில் கைது செய்யப்பட்ட 4 இலங்கையர்களுடன் நெருங்கிய தொடர்புகளை ஜெராட் புஸ்பராஜா ஒஸ்மன் ஜெராட் பேணி வந்துள்ளார்.
+
+இந்த நிலையில், ஜெராட் புஸ்பராஜா ஒஸ்மன் ஜெராட்டை கைது செய்வதற்கான விசேட விசாரணைகள் ஆரம்பிக்கப்பட்டன.
+
+குற்றப்புலனாய்வு திணைக்களத்தின் பயங்கரவாத புலனாய்வு திணைக்களத்தின் கூட்டு நடவடிக்கையில் கொழும்பில் வைத்து கைது செய்யப்பட்டதாக பொலிஸ் ஊடகப் பேச்சாளர் டிஐஜி, சட்டத்தரணி திரு.நிஹால் தல்துவா தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/38626c75.json)
+
+---
 
 ### CA orders authorities to prosecute individuals who illegally kept elephants
 
@@ -304,6 +500,18 @@ Accordingly, a liter of Otto diesel will be sold for 317 rupees from midnight to
 
 ---
 
+### கொழும்பில் சுவாமி விபுலானந்தர் துறவு பூண்டு நூற்றாண்டு நிறைவையொட்டி "இசைத்தமிழ் விழா"
+
+*2024-05-31 21:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/185002) · `ta`
+
+சுவாமி விபுலானந்தர் துறவு பூண்டு நூற்றாண்டு நிறைவையொட்டி இந்து சமய கலாசார அலுவல்கள் திணைக்களம் நடாத்தும் "இசைத்தமிழ் விழா" கொழும்பு தமிழ் சங்க சங்கரப்பிள்ளை மண்டபத்தில் சங்கத் தலைவர் கலாநிதி க. இரகுபரன் தலைமையில் நடைபெற்றது. சுவாமி விபுலானந்தார் சிலை சைவ மங்கையர் வித்தியாலயத்தில் இருந்து ஊர்வலமாக எடுத்து வருவதையும், தொடர்ந்து இராமகிருஸ்ண மிஷன் தலைவர் ஸ்ரீமத் சுவாமி அக்ஷராத்மனாந்தஜீ மாலை அணிவித்தபின் ஞானசேகரன், ஞானலக்ஷ்மி தம்பதியினர் மங்கள விளக்கேற்றி விழாவை ஆரம்பித்து வைப்பதையும் கலந்து கொண்டோரையும் காணலாம்.
+
+◼️
+
+[Data](articles/cfc871b4.json)
+
+---
+
 ### How Trump was convicted
 
 *2024-05-31 21:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197224) · `si`
@@ -333,6 +541,30 @@ The maximum punishment for the maximum of four years in such a case, the former 
 [Data](articles/2bcec82e.json)
 
 [Extended Data](ext_articles/2bcec82e.ext.json)
+
+---
+
+### இன்று நள்ளிரவு முதல் எரிபொருள் விலையில் மாற்றம்
+
+*2024-05-31 21:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/185001) · `ta`
+
+இன்று 31ஆம் திகதி வெள்ளிக்கிழமை நள்ளிரவு முதல் அமுலுக்கு வரும் வகையில் இலங்கை பெற்றோலிய கூட்டுத்தாபனம் எரிபொருள் விலையில் திருத்தம் செய்யத் தீர்மானித்துள்ளது.
+
+இந்த திருத்தங்களின் கீழ், மூன்று வகையான எரிபொருட்களின் விலைகள் குறைக்கப்பட்டுள்ள அதேவேளை, இரண்டின் விலைகளில் மாற்றமில்லை.
+
+இதன்படி, ஒக்டேன் 92 பெற்றோல் லீற்றர் ஒன்றின் விலை 13 ரூபாவினால் குறைக்கப்பட்டுள்ளதுடன், அதன் புதிய விலை 355 ரூபாவாகும்.
+
+ஒக்டேன் 95 லீற்றர் பெற்றோலின் விலை மாற்றமின்றி 420 ரூபாவுக்கு விற்பனை செய்யப்படவுள்ளது.
+
+ஒரு லீற்றர் ஓட்டோ டீசலின் விலை 16 ரூபாவினால் குறைக்கப்படவுள்ளதுடன் அதன் புதிய விலை 317 ரூபாவாகும்.
+
+அத்துடன், சுப்பர் டீசல் லீற்றர் ஒன்றின் விலையில் மாற்றமின்றி தொடர்ந்தும் அதன் விலை 377 ரூபாவுக்கு விற்பனை செய்யப்படவுள்ளது.
+
+மண்ணெண்ணெய் விலை 13 ரூபாவால் குறைக்கப்படவுள்ளதுடன், அதன் புதிய விலை 202 ரூபாவாகும்.
+
+◼️
+
+[Data](articles/f3888dd3.json)
 
 ---
 
@@ -527,6 +759,22 @@ Later, the North Colombo University was incorporated as the medical faculty of s
 [Data](articles/50eb6516.json)
 
 [Extended Data](ext_articles/50eb6516.ext.json)
+
+---
+
+### தேசிய மெய்வல்லுநர் போட்டி: விண்ணப்ப முடிவு திகதி ஜ10ன் 18
+
+*2024-05-31 20:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/185000) · `ta`
+
+ஸ்ரீலங்கா அத்லெட்டிக்ஸ் (இலங்கை மெய்வல்லுர் நிறுவனம்) ஏற்பாடு செய்துள்ள 102ஆவது தேசிய மெய்வல்லுநர் போட்டி தியகம மஹிந்த ராஜபக்ஷ மஹிந்த ராஜபக்ஸ விளையாட்டரங்கில் ஜுன் மாதம் 25, 26, 27ஆம் திகதிகளில் நடைபெறவுள்ளது.
+
+இப் போட்டியில் பங்குபற்ற விரும்பும் மெய்வல்லுநர்களிடம் இருந்து அல்லது அவர்கள் சார்பில் கழகங்கள், பாடசாலகள், மாவட்ட சங்கங்களிடம் இருந்து விண்ணப்பங்கள் கோரப்படுகின்றது.
+
+இங்கு தரப்பட்டுள்ள ஆண்களுக்கான மற்றும் பெண்களுக்கான விண்ணப்பப் படிவத்தை பதிவிறக்கம் செய்து அதனை பூர்த்தி செய்து அனுப்பிவைக்குமாறு விண்ணப்பதாரர்கள் கோரப்படுகின்றனர்.
+
+◼️
+
+[Data](articles/1fac5eef.json)
 
 ---
 
@@ -1959,363 +2207,5 @@ Maxies and Co Pvt Ltd is also listed as an egg exporter by Sri Lanka’s Export 
 [Data](articles/a6727bfa.json)
 
 [Extended Data](ext_articles/a6727bfa.ext.json)
-
----
-
-### Lost foreign woman's bag found in Kelaniya after 5 days
-
-*2024-05-31 14:32:57* · [`adalk`](https://www.ada.lk/breaking_news/පිටකොටුවේදී-නැතිවූ-විදේශීය-කතගේ-බෑගය-දින-5කින්-පසු-කැලනියෙන්-හමුවෙයි/11-409941) · `si`
-
-A lost foreign woman's bag containing valuable items was found in Kelaniya after five days. The bag was discovered near the Bastian Mawatha Bus Stand in Pettah, valued at over Rs. 25 million. A suspect was arrested by police officers from the Pettah Church Street Police Station. The Loddeceiya police recovered the bag, which included a camera and bank cards, from a sharp in Pettiyagoda.
-
-🟩
-
-On the 25th of the Bastian Mawatha Bus Stand on the Bastian Mawatha Bus Stand on Pettah, a bus worth over Rs. 25 million worth of property worth Rs.
-
-So the suspect was arrested by a group of police church officers in Pettah in Pettiyagoda today (31).. The Lodlepe computer cards found the camera and banking cards in the sharft where the stolen.
-
-◼️
-
-[Data](articles/a6809f71.json)
-
-[Extended Data](ext_articles/a6809f71.ext.json)
-
----
-
-### In 45 hours of meditation
-
-*2024-05-31 14:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197211) · `si`
-
-Narendra Modi initiated a 45-hour meditation session inspired by Swami Vivekananda's 1892 practice at the Gokhale Memorial Meditation Center. This event coincides with the upcoming Indian General Election, scheduled for today (01).
-
-🟩
-
-Indian Prime Minister Narendra Modi has launched 45 hours of meditation.
-
-In the year 1892, Indian Philosopher Swami Swami Swami Swami Swami Swami Swami Swami Ownership was at the Giked Memorial Meditation Center at Kanampari.
-
-Prime Minister Moody is due to be favorable until tomorrow evening tomorrow and the Indian General Election will be held tomorrow (01).
-
-◼️
-
-[Data](articles/112fa717.json)
-
-[Extended Data](ext_articles/112fa717.ext.json)
-
----
-
-### 3 girls aged 14;News published by the police
-
-*2024-05-31 14:28:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/14-வயதுடைய-3-சிறுமிகள்-மாயம்-பொலிஸார்-வெளியிட்ட-செய்தி/175-338199) · `ta`
-
-In Gampaha-Yakkala, three 14-year-old grade 9 students have been missing since yesterday. Their parents filed a complaint as they didn't return home by Wednesday night. The police, along with the Children's and Women Bureau and Weerakula Police, are investigating but haven't found any leads yet.
-
-🟩
-
-Yakkala and Weerakula police said that three students aged 14 in Gampaha - Yakkala area have disappeared since yesterday.
-
-Three missing students are reported to be friends in grade 9 at a school in Gampaha Yakkala.
-
-Parents have lodged this complaint, saying they did not come home until Wednesday night.
-
-The police said that there were no information about the three missing students.
-
-Further investigations are being carried out by the Children's and Women Bureau and Weerakula Police. Remble
-
-◼️
-
-[Data](articles/5ff7fc98.json)
-
-[Extended Data](ext_articles/5ff7fc98.ext.json)
-
----
-
-### ‘Ground-breaking’ cancer vaccine trial announced
-
-*2024-05-31 14:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/99562/ground-breaking-cancer-vaccine-trial-announced) · `en`
-
-Thousands of patients will be able to access “ground-breaking” cancer vaccines, as part of an NHS trial.
-
-A “match-making” service called the Cancer Vaccine Launch Pad (CVLP), which can match patients with suitable trials, is set to be launched.
-
-The Southampton Clinical Trials Unit (SCTU), based at the University of Southampton, has been chosen to run the project.
-
-The new NHS England programme aims to accelerate research into personalised cancer vaccines.
-
-It is a type of immunotherapy treatment that boosts the body’s own immune system to help it find and destroy cancer.
-
-SCTU clinical director, prof Simon Crabb said the new scheme would “bring together different academic and industry partners who are developing cancer vaccines and allow patients across England to access trials of treatments that may not have previously been an option for them”.
-
-...
-
-[Data](articles/545bac36.json)
-
-[Extended Data](ext_articles/545bac36.ext.json)
-
----
-
-### History
-
-*2024-05-31 14:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/184950) · `ta`
-
-MGR, former CM of Tamil Nadu, visited Sri Lanka where Veerakesari, his magazine, ceased publication. He described Veerakesari as his personal platform to express his thoughts and actions. During a shooting incident, sharing his health news comforted many, appearing on Weerakesari's first page in 1967 alongside Kesari.
-
-🟩
-
-Former Tamil Nadu Chief Minister MGR. When he visited Sri Lanka, Veerakesari also stepped down to the newspaper company.
-
-“Veerakesari is my own magazine. Weerakesari helped me to understand and understand my thoughts and my actions immediately. ”He shared his memories.
-
-Not only that, he said, "I was bearing the news about my health to comfort the millions of people who were aware of my health during the shooting incident.. Tens of thousands of people were comforted by it.
-
-MGR with Kesari on the first page of the Weerakesari magazine published on the same date on the same date 1967.
-
-◼️
-
-[Data](articles/9bd1821e.json)
-
-[Extended Data](ext_articles/9bd1821e.ext.json)
-
----
-
-### Memorial service held in remembrance of late French Ambassador
-
-*2024-05-31 14:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Memorial-service-held-in-remembrance-of-late-French-Ambassador/108-283806) · `en`
-
-Colombo, May 31 (Daily Mirror)- A memorial service in remembrance of the late Ambassador Jean-François Pactet of France to Sri Lanka was held at St. Mary’s Church, Lauries Road,  Colombo 04 this morning.
-
-Monsignor Brain Udaigwe, Apostolic Nuncio of the Holy See to Sri Lanka lead the memorial service.
-
-Foreign Minister Ali Sabry and a larger group of Ambassadors and High Commissioners attended the event.
-
-◼️
-
-[Data](articles/37d85b15.json)
-
-[Extended Data](ext_articles/37d85b15.ext.json)
-
----
-
-### Nepal’s Lamichhane denied US visa for second time
-
-*2024-05-31 14:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Nepals-Lamichhane-denied-US-visa-for-second-time/108-283805) · `en`
-
-(BBC) - Nepal leg-spinner Sandeep Lamichhane is set to miss the T20 World Cup after a second visa application to the United States was rejected.
-
-The 23-year-old's initial application was turned down by the the US Embassy in Kathmandu last week.
-
-Lamichhane was found guilty of raping an 18-year-old woman in December 2023 but that conviction was recently overturned.
-
-Nepal's government and the Cricket Association of Nepal (CAN) had attempted to intervene on the player's behalf with a second application.
-
-However, a statement from CAN said "despite taking necessary initiatives" the "US Embassy has expressed its inability to give travel permission to national player Lamichhane".
-
-He was originally left out of Nepal's 15-man squad for the tournament, which will be held in the United States and the Caribbean, but was reportedly set to be added to their party.
-
-...
-
-[Data](articles/791d0e9c.json)
-
-[Extended Data](ext_articles/791d0e9c.ext.json)
-
----
-
-### Midigama is questioning crimes who did
-
-*2024-05-31 14:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197210) · `si`
-
-Midigama Ruwan, an organized crime member, was arrested in Dubai for his involvement in a nightclub brawl and is now being questioned in Sri Lanka by the Terrorism Investigation Division regarding his alleged role as the mastermind behind the Mt. 422 incident. He is known to have connections with other criminals, including Kosgoda Sugho, and attempted to escape from the Criminal Investigation Department. Further inquiries are underway under the direction of DIG Premane Premaratne.
-
-🟩
-
-Midigama Ruwan, an organized crime member, who was arrested in Dubai, was brought to the island this morning (31) by officers of the Terrorism Investigation Division.
-
-He was brought to the terrorist eradication division in Colombo and is now being questioned by him.
-
-Midigama Ruwan was arrested by police about a clash at a Dubai nightclub.
-
-The international police issued red announcements against him.
-
-Midigama Ruw, the master planner of the Mt. 422, was nominated as the main planner of the Mt.
-
-When he was arrested, he had been with criminals named Kosgoda Suhg.
-
-The brother of the wander, or the wife of the crimes committed on his advice, was also the brother of gold.
-
-Police said that the Suspect's attempt to escape the beef criminal investigation Department was planned by Ruwan.
-
-Further investigations are being carried out on the instructions of DIG Premane Premaratne in charge of the Midigama Ruwan.
-
-◼️
-
-[Data](articles/61f906c9.json)
-
-[Extended Data](ext_articles/61f906c9.ext.json)
-
----
-
-### Proposed Electricity Bill will unbundle CEB services, guarantee quality supply: Kanchana
-
-*2024-05-31 14:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Proposed-Electricity-Bill-will-unbundle-CEB-services-guarantee-quality-supply-Kanchana/108-283804) · `en`
-
-Colombo, May 31 (Daily Mirror)- The electricity sector reforms proposed in the Sri Lanka Electricity Bill will unbundle the services of the Ceylon Electricity Board (CEB) while guaranteeing a quality supply of electricity and services, Power and Energy Minister Kanchana Wijesekara said today.
-
-"If approved next week in Parliament, the electricity sector reforms proposes to unbundle the services of the CEB, establish successor companies to take over different functions to operate more efficiently and in a transparent manner, to guarantee a quality supply of electricity and services and to reduce the cost of energy to the consumer in the future," he said in a statement on X.
-
-The Minister said the proposed three-year reform timeline will also enable to establish wholesale markets, open access, power trading across regions and pave the way for necessary investments and competition for the sector.
-
-...
-
-[Data](articles/b934d6dd.json)
-
-[Extended Data](ext_articles/b934d6dd.ext.json)
-
----
-
-### In remembrance of French Ambassador...
-
-*2024-05-31 14:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/In-remembrance-of-French-Ambassador/110-283803) · `en`
-
-A memorial service in remembrance of the late Ambassador Jean-François Pactet of France to Sri Lanka was held at St. Mary’s Church, Lauries Road,  Colombo 04 this morning.Pix by Nimalsiri Edirisinghe
-
-◼️
-
-[Data](articles/09e427d0.json)
-
-[Extended Data](ext_articles/09e427d0.ext.json)
-
----
-
-### Sky Mawan's bag was catching the suspect
-
-*2024-05-31 13:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197209) · `si`
-
-Sky Mawan's bag, containing $5,000 and a MacBook, was stolen from the Fort Railway Station. The suspect, a 26-year-old previously involved in thefts, was arrested in Kelaniya after hiding. He sold the stolen items and attempted to change the MacBook's password. The Pettah Police recovered the items and returned them to Sky Mawan, praising their efforts.
-
-🟩
-
-The suspect was arrested while he was hiding in the Kelaniya, Kelaniya and Pethiyagoda area.
-
-The 26-year-old suspect was a suspect in the police regarding many of these thefts.
-
-The Sky Skye, a British girl who lives in Australia, has come to Sri Lanka on May 24.
-
-When she went to the Fort Railway Station, she had stolen her bag when she arrived at the bus stand for the bus stop due to the inclement weather.
-
-Sky Mawen declared that one of US $ 5,000, a cash prize of $ 500,000 to someone who is looking for or finding his bag.
-
-Meanwhile, the Pettah Police are conducting further investigations to investigate the complaint to the police regarding the stolen of her bag.
-
-Pettah Police have the photographs of trading and knudkers in Pettah buses.
-
-Investigations have gone on a rented place on a rental base of Kelaniya and Pethiyagoda houses.
-
-However, the suspect was reported to the resident of Derana on May 29, the suspect was arrested while closing the rented house and hid.
-
-...
-
-[Data](articles/a43d4330.json)
-
-[Extended Data](ext_articles/a43d4330.ext.json)
-
----
-
-### Suspect arrested for stealing British lady’s bag on bus
-
-*2024-05-31 13:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Suspect-arrested-for-stealing-British-ladys-bag-on-bus/108-283801) · `en`
-
-Colombo, May 31 (Daily Mirror) - A 31 years-old suspect has been arrested in connection with stealing a bag of a female British tourist containing valuables worth Rs. 2.5 million on a bus at the Bastian Mawatha in Pettah.
-
-Police said the suspect, a resident of Pethiyagoda, Kelaniya was arrested early this morning by a group of police officers from the Pettah Police.
-
-Police also recovered stolen valuables including a camera, a laptop, bank cards and the passport of the Birtish lady.
-
-Investigations revealed that the tourist, a YouTuber had arrived in Sri Lanka to make a video on the country and was preparing to leave for Ella from Bastian Mawatha when her bag was stolen.
-
-◼️
-
-[Data](articles/9839d269.json)
-
-[Extended Data](ext_articles/9839d269.ext.json)
-
----
-
-### Sri Lanka moves to ban ‘Happy Hour’ leave hotels staggered
-
-*2024-05-31 13:34:00* · [`economynextcom`](https://economynext.com/sri-lanka-moves-to-ban-happy-hour-leave-hotels-staggered-165586/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s hotels have protested a move by the island’s alcohol and tobacco control agency to ban the ‘Happy Hour’, with the threat to fine each director 50,000 rupees if discounts are offered on alcohol.
-
-“It is serious matter for the industry,” Tourist Hotels Association of Sri Lanka President M Shanthikumar said.
-
-“The Happy Hour is not only found in Sri Lanka. It is across the world.”
-
-The National Authority on Tobacco and Alcohol had informed a city hotel that received complaints that hotels were offering discounts on drinks during ‘Happy Hour’ promotions.
-
-The practice was viewed as a violation of the NATA Act, the agency had decided to direct all hotels to stop giving discounts on alcohol.
-
-Each director will be fined 50,000 rupees if hotels continued to make customers happy with discounts.
-
-Shanthikumar said representations have been made to the Sri Lanka Tourist Development Authority to help resolve the crisis.
-
-...
-
-[Data](articles/03f67d08.json)
-
-[Extended Data](ext_articles/03f67d08.ext.json)
-
----
-
-### Sri Lanka moves to ban ‘Happy Hour’ leave hotels staggered
-
-*2024-05-31 13:34:00* · [`economynextcom`](https://economynext.com/sri-lanka-moves-to-ban-happy-hour-leaves-hotels-staggered-165586/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s hotels have protested a move by the island’s alcohol and tobacco control agency to ban the ‘Happy Hour’, with the threat to fine each director 50,000 rupees if discounts are offered on alcohol.
-
-“It is serious matter for the industry,” Tourist Hotels Association of Sri Lanka President M Shanthikumar said.
-
-“The Happy Hour is not only found in Sri Lanka. It is across the world.”
-
-The National Authority on Tobacco and Alcohol had informed a city hotel that received complaints that hotels were offering discounts on drinks during ‘Happy Hour’ promotions.
-
-The practice was viewed as a violation of the NATA Act, the agency had decided to direct all hotels to stop giving discounts on alcohol.
-
-Each director will be fined 50,000 rupees if hotels continued to make customers happy with discounts.
-
-Shanthikumar said representations have been made to the Sri Lanka Tourist Development Authority to help resolve the crisis.
-
-...
-
-[Data](articles/df502f90.json)
-
-[Extended Data](ext_articles/df502f90.ext.json)
-
----
-
-### Decision on Lanka Hospital rights
-
-*2024-05-31 13:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197208) · `si`
-
-The Ministry of Finance in Sri Lanka is deciding the majority shareholder of Lanka Hospitals Corporation PLC, a healthcare provider. The Sri Lanka Insurance Corporation (SLIC), a key partner, plans to transfer its shares to the Treasury. Lanka Hospitals PLC confirms receiving notice from the Government Enterprise Department about this change. SLIC holds 58,781,308 shares out of 58,781,648 total, representing 51.34% ownership of Lanka Hospitals Corporation PLC.
-
-🟩
-
-The Ministry of Finance has taken steps to decide on the mainstream owner of Lanka Hospitalus Corporation PLC, a list of health care supply company in Sri Lanka.
-
-Sri Lanka Insurance Corporation (SLC) the main partner of Lanka Hospitals PLC has decided to hand over its share ownership to the Treasury.
-
-Lanka Hospitals said that the Government Enterprise Department had informed him regarding the matter.
-
-Lanka Hospitals PLC added that he has asked the Chairman of the Securities and Exchange Commission of Sri Lanka has been asked to facilitate the transfer of these parts.
-
-Sri Lanka Insurance Corporation Limulances (Life Fund) has 58,781,308 sections of Sri Lanka Hospitals, 58,781,648 shares.There is also available.
-
-Sri Lanka Insurance Corporation Limited is 51.34% of Lanka Hospitals Corporation PLC.
-
-◼️
-
-[Data](articles/6c43cefc.json)
-
-[Extended Data](ext_articles/6c43cefc.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-31 13:34:50**
+As of **2024-05-31 13:53:42**
 
 ## Newspaper Stats
 
-*Scraped **27,502** Articles*
+*Scraped **27,509** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,49 @@ dailyftlk | 1,612
 adalk | 2,347
 adaderanalk | 3,132
 tamilmirrorlk | 3,227
-virakesarilk | 4,236
+virakesarilk | 4,242
 dailymirrorlk | 4,350
-adaderanasinhalalk | 4,389
+adaderanasinhalalk | 4,390
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,501 (100.0%) of 27,502 articles have been extended.
+27,502 (100.0%) of 27,509 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-31 (Friday)
+
+### ලංකා හොස්පිටල් අයිතිය ගැන තීරණයක්
+
+*2024-05-31 13:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197208) · `si`
+
+මෙරට ලැයිස්තුගත සෞඛ්‍ය සේවා සැපයුම් සමාගමක් වන ලංකා හොස්පිටලස් කෝපරේෂන් පීඑල්සී හි බහුතර කොටස් හිමිකාරීත්වය සම්බන්ධයෙන් තීරණයක් ගැනීමට මුදල් අමාත්‍යාංශය පියවර ගෙන තිබේ.
+
+ඒ අනුව ලංකා හොස්පිටල්ස් පීඑල්සී හි ප්‍රමුඛ කොටස්කරුවා වන ශ්‍රී ලංකා ඉන්ෂුවරන්ස් කෝපරේෂන් ලිමිටඩ් විසින් සිය කොටස් හිමිකාරීත්වය මහා භාණ්ඩාගාරය වෙත පැවරීමට තීරණය කර ඇති බව වාර්තා වෙයි.
+
+මේ සම්බන්ධයෙන් ලංකා හොස්පිටල්ස් සමාගම පවසන්නේ අදාළ තීරණය පිළිබඳව මුදල් අමාත්‍යාංශයේ රාජ්‍ය ව්‍යවසාය දෙපාර්තමේන්තුව විසින් තමන් වෙත දැනුම් දීමක් සිදුකර ඇති බවය.
+
+මෙම කොටස් පැවරීම සම්බන්ධයෙන් අවශ්‍ය කෙරෙන පහසුකම් සැලසීම සඳහා ශ්‍රී ලංකා සුරැකුම්පත් හා විනිමය කොමිෂන් සභාවේ සභාපතිවරයා වෙත ඉල්ලීමක් සිදුකර ඇති බව තමන් වෙත දැනුම් දී ඇති බව ද ලංකා හොස්පිටල්ස් පීඑල්සී වැඩිදුරටත් සඳහන් කරයි.
+
+...
+
+[Data](articles/6c43cefc.json)
+
+---
+
+### இன்றைய நாணய மாற்று விகிதம்
+
+*2024-05-31 13:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/184949) · `ta`
+
+இன்று வெள்ளிக்கிழமை (மே 31) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் விற்பனை விலை ரூபா 296.9774 ஆகவும் கொள்வனவு விலை ரூபா 306.5863 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/e9748679.json)
+
+---
 
 ### 2016 hit-and-run incident: Ex-CCD officers ordered to compensate Champika’s driver’s family
 
@@ -150,6 +180,24 @@ It was reported that in some areas without a permit, the limestone was excavated
 
 ---
 
+### கொழும்பில் 11 இளைஞர்கள் கடத்தப்பட்டு காணாமலாக்கப்பட்ட விவகாரம் - முன்னாள் கடற்படைதளபதியை குற்றச்சாட்டிலிருந்து விடுவிப்பதற்கு  எதிராக காணாமல்போனவர்களின் உறவினர்கள் போராட்டம்
+
+*2024-05-31 12:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/184944) · `ta`
+
+கொழும்பில் 11  இளைஞர்கள் கடற்படையினரால் கடத்தப்பட்டு  காணாமலாக்கப்ட்டமை தொடர்பில் டிரையல் அட்பார் விசாரணையிலிருந்து முன்னாள் கடற்படை தளபதி வசந்தகரணாகொடவை விடுவிப்பதற்கான  முயற்சிகளிற்கு எதிராக காணாமல்போனவர்களின் உறவினர்கள் ஆர்ப்பாட்டம் செய்தனர்.
+
+முன்னாள் கடற்படை தளபதியால் தாக்கல் செய்யப்பட்ட ரிட்மனுவின் மீதான விசாரணை எதிர்வரும் மூன்றாம் திகதி மேன்முறையீட்டு நீதிமன்றத்தினால் விசாரணைக்கு எடுத்துக்கொள்ளப்படவுள்ள நிலையில் உயர்நீதிமன்றத்திற்கு முன்பாக காணாமல்போனவர்களின் உறவினர்கள் மனித உரிமை அமைப்புகளை சேர்ந்தவர்கள் ஆர்ப்பாட்டத்தில் ஈடுபட்டனர்.
+
+2008-2009 இல் 11 இளைஞர்களை கடத்தியமை கப்பம் கோரியமை மற்றும் கொலைசதி தொடர்பில் 2019ம் ஆண்டு சட்டமாஅதிபர் வசந்த கரணாகொட உட்பட 14 பேருக்கு எதிரான குற்றச்சாட்டுகள் அடங்கிய குற்றப்பத்திரிகையை தாக்கல் செய்திருந்தார்.
+
+இந்த குற்றங்களின் பாரதூரதன்மை காரணமாக உயர்நீதிமன்ற நீதிபதிகனை உள்ளடக்கிய டிரையல் பார் விசாரணைக்காக நியமிக்கப்பட்டது.
+
+...
+
+[Data](articles/6418e0d9.json)
+
+---
+
 ### SLIC transfers its shares in Lanka Hospitals to Treasury Secretary
 
 *2024-05-31 12:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/99560/slic-transfers-its-shares-in-lanka-hospitals-to-treasury-secretary) · `en`
@@ -183,6 +231,20 @@ The National Authority on Tobacco and Alcohol has directed the hotel to comply w
 [Data](articles/8ae8ec4b.json)
 
 [Extended Data](ext_articles/8ae8ec4b.ext.json)
+
+---
+
+### மருதானை - கோட்டை ரயில் நிலையங்களுக்கு இடையில் ரயில் தடம்புரள்வு
+
+*2024-05-31 12:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/184941) · `ta`
+
+கொழும்பு கோட்டை  மற்றும் மருதானை ரயில் நிலையங்களுக்கு இடையில் இன்று வெள்ளிக்கிழமை (31) காலை ரயில் ஒன்று தடம்புரண்டுள்ளது.
+
+இதன் காரணமாக குறித்த மார்க்கத்தில் ரயில் சேவைகள் தாமதமாகியுள்ளதோடு, ரயில் சேவைகள் சிறிது காலதாமதமாகி இயக்கப்படும் என ரயில் திணைக்களம் தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/12b694c9.json)
 
 ---
 
@@ -221,6 +283,64 @@ He added that discussions with State Minister Ranjith Siyambalapitiya indicated 
 [Data](articles/aba4bd01.json)
 
 [Extended Data](ext_articles/aba4bd01.ext.json)
+
+---
+
+### நாட்டில் நாளாந்தம் முட்டை நுகர்வு அதிகரிப்பு
+
+*2024-05-31 11:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/184938) · `ta`
+
+நாட்டில் முட்டை நுகர்வு அதிகரித்துள்ளதாக விலங்கு உற்பத்தி மற்றும் சுகாதாரத்துறை  திணைக்களம் தெரிவித்துள்ளது.
+
+அதாவது,  கடந்த சில மாதங்களில் முட்டையின் நாளாந்த நுகர்வு 70 இலட்சமாகவும், பின்னர் 80 இலட்சத்தையும் கடந்துள்ளது. அதன்படி, நாளாந்தம் முட்டையின்  நாளாந்த நுகர்வு 10 இலட்சத்தால் அதிகரித்துள்ளதாக திணைக்களம் தெரிவித்துள்ளது.
+
+வெளிநாட்டு சுற்றுலாப் பயணிகளின் வருகை அதிகரிப்பு மற்றும் அதிக சத்தான மற்றும் மலிவாக கிடைக்ககூடிய உணவுகளான இறைச்சி, மீன் மற்றும் முட்டை விலைகள் அதிகரித்ததே நுகர்வு அதிகரிப்புக்குக் காரணம் எனக் குறிப்பிடப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/6d7fd173.json)
+
+---
+
+### இலங்கையில் மேலதிகமாக உள்ளவெடிமருந்துகளை போலந்து ஊடாக உக்ரைனிற்கு விற்க முயற்சியா? பாதுகாப்பு அமைச்சு தெரிவிப்பது என்ன?
+
+*2024-05-31 11:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/184937) · `ta`
+
+இலங்கையில் மேலதிகமாக உள்ளவெடிமருந்துகளை உக்ரைனிற்கு விற்பனை செய்வதற்கு போலந்து இடைத்தரகர்களை பயன்படுத்துகின்றது என வெளியாகியுள்ள தகவல்களை பாதுகாப்பு அமைச்சு நிராகரித்துள்ளது.
+
+இவ்வாறான தகவல்களில் எந்த உண்மையிலும் இல்லை ஆதாரங்களும் இல்லை என பாதுகாப்பு அமைச்சின் பேச்சாளர் நளின் ஹேரத் தெரிவித்துள்ளார்.
+
+எனினும் காலவதியான வெடிமருந்துகள் இராணுவத்தின் முகாம்களில் சேமித்து வைக்கப்பட்டுள்ளன என்பதை அவர் ஏற்றுக்கொண்டுள்ளார்.
+
+எனினும் இந்த வெடிமருந்துகள் பாதுகாப்பு அமைச்சிற்கு சொந்தமானவை இல்லை தனியாருக்கு சொந்தமானவை என தெரிவித்துள்ள அவர் பாதுகாப்பு கரிசனைகள் காரணமாக இவற்றை அகற்றுமாறு அந்த நிறுவனத்தை கேட்டுக்கொண்டுள்ளதாக குறிப்பிட்டுள்ளார்.
+
+இதேவேளை இந்த மேலதிக வெடிபொருட்கள் சீன நிறுவனமொன்றிற்கு சொந்தமானவை என பாதுகாப்பு வட்டாரங்கள் தெரிவித்துள்ளதாக செய்தி வெளியிட்டுள்ள டெய்லிமிரர் கொஸ்மிக் டெக்னோலஜிஸ் என்ற தனியார் நிறுவனம் மூலம் சீன நிறுவனம் கடந்த வருடம் இந்த வெடிபொருட்களை போலந்திற்கு அனுப்ப முயன்றது எனினும் சர்வதேச அழுத்தங்களால் இது நிறுத்தப்பட்டது என குறிப்பிட்டுள்ளன என தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/be58ac61.json)
+
+---
+
+### சுயநிர்ணய உரிமையே அவசியமான தீர்வு - இலங்கையில் இனப்படுகொலை இடம்பெற்றமைக்கான  ஆதாரங்கள் உள்ளன - ஒபமா கூட தனது நூலில் குறிப்பிட்டுள்ளார்- அமெரிக்க காங்கிரஸ் உறுப்பினர் விலே நிக்கெல்
+
+*2024-05-31 11:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/184934) · `ta`
+
+சுயநிர்ணய உரிமையே அவசியமான முக்கியமான தீர்வு என தெரிவித்துள்ள அமெரிக்க சனப்பிரதிநிதிகள் சபையின்  உறுப்பினர் விலே நிக்கெல் இதற்கான சர்வஜனவாக்கெடுப்பு இடம்பெறுவது அவசியம் என குறிப்பிட்டுள்ளார்.
+
+இலங்கையில் இனப்படுகொலை இடம்பெற்றது என்பதை அமெரிக்கா  அங்கீகரிக்க செய்வது மிகவும் அவசியமான நடவடிக்கை ஆனால் அதற்கான ஆதாரங்கள் உள்ளன  பராக் ஒபாமா தனது நூலில் இது குறித்து பேசியுள்ளார் எனவும் அவர் தெரிவித்துள்ளார்
+
+அமெரிக்க காங்கிரஸில் வரலாற்றுமுக்கியத்துவம் வாய்ந்த தீர்மானத்தை சமர்ப்பித்தமைக்கு நன்றி - அதுபற்றி மேலும் தெரிவிக்க முடியுமா உங்களை இதனை செய்ய தூண்டியது என்ன என குறிப்பிடமுடியுமா?
+
+இலங்கை நிலவரம் தமிழ் மக்களிற்கு எதிரான ஒடுக்குமுறை மற்றும் சுயநிர்ணய உரிமை ஆகிய விடயங்கள் குறித்து அமெரிக்காவில் எங்கள் குரல்கள் செவிமடுக்கபடுவதை நோக்கிய மிகவும் முக்கியமான ஆரம்பகட்ட நடவடிக்கை இது என நான் கருதுகின்றேன்.
+
+சுயநிர்ணய உரிமையே அவசியமான தீர்வு  அதனை அமைதியான வழியில் அடையலாம் என நான் கருதுகின்றேன்.
+
+உலகின் ஏனைய முக்கியமான நாடுகள் இது குறித்து ஆராய்ந்துள்ளன அமெரிக்காவும் இது குறித்து ஆராயவேண்டும் .
+
+...
+
+[Data](articles/5ef410b2.json)
 
 ---
 
@@ -1981,165 +2101,5 @@ It is also worth noting that he has allocated a sum of Rs 19 lakhs for various d
 [Data](articles/4c02fc68.json)
 
 [Extended Data](ext_articles/4c02fc68.ext.json)
-
----
-
-### Those who sent Sri Lankans to the Russian war
-
-*2024-05-30 22:07:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரஷ்ய-போருக்கு-இலங்கையர்களை-அனுப்பியவர்கள்-விளக்கமறியலில்/175-338182) · `ta`
-
-A foreign employment agency owner and manager were arrested for allegedly kidnapping Sri Lankans to fight in the Russian war, based on seven complaints. They were remanded until June 13 after being charged with fraudulently taking over Rs 1 crore from job seekers.
-
-🟩
-
-The owner and manager of a foreign employment agency, who was arrested for allegedly abducting Sri Lankans for the Russia war, has been remanded until June 13.
-
-The case was taken up again at the Negombo Magistrate's Court today (30).
-
-There have been seven complaints have been received that Sri Lankans have been sent to the Russian army for sending Sri Lankans for civil service.
-
-Based on this, the two suspects were arrested on May 15 by the Special Investigation Unit of the Foreign Employment Bureau.
-
-Complaints received that the money defrauded by the company is more than Rs 1 crore.. Remble
-
-◼️
-
-[Data](articles/5014d121.json)
-
-[Extended Data](ext_articles/5014d121.ext.json)
-
----
-
-### Court order on Wildlife
-
-*2024-05-30 21:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197195) · `si`
-
-The Court of Appeal has ordered the detention of illegally imported birds, following a petition. The birds' owner disputes the illegal import claim, but the court has sided with the petitioner, ordering their seizure to prevent further harm.
-
-🟩
-
-The Court of Appeal has ordered the owner of the birds, accused of illegally imported to the country.
-
-The Court of Appeal has issued the order after considering a Rit petition filed by a person who imported the birds from abroad.
-
-Attorneys-at-Law Faizer Mustapha, appearing for the petitioner, said that the birds were not illegally imported and were illegally imported.
-
-If the birds detained in the animal park, the President's Counsel has asked them to take their deaths and the danger of death.
-
-The Court of Appeal has issued the Court of Appeal following the contents.
-
-◼️
-
-[Data](articles/87631033.json)
-
-[Extended Data](ext_articles/87631033.ext.json)
-
----
-
-### Foreign Minister urges Tamil diaspora to avoid following political agendas
-
-*2024-05-30 21:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/99550/foreign-minister-urges-tamil-diaspora-to-avoid-following-political-agendas) · `en`
-
-Sri Lanka’s Minister of Foreign Affairs Ali Sabry says that the western countries have shown their ‘double standards’ by ‘turning a blind eye’ to the crisis in Gaza and that, serious amendments must be made to the international laws on how the United Nations functions in order to protect international democracy.
-
-Joining Ada Derana’s current affairs programme, ‘At Hydepark’, the Minister stated that Sri Lanka is of the view that the Israel-Palestine war must come to an end immediately and both countries must exist as per the borders announced in 1965.
-
-Reflecting on the situation in Gaza, Sabry pointed out that 143 countries have voted to recognize Palestine. He advocated for a peaceful coexistence between Palestinians and Israelis, stressing the need for the establishment of a Palestinian government within five years.
-
-“You cannot continue with double standards and hypocrisy,” he asserted.
-
-...
-
-[Data](articles/20fdbf3b.json)
-
-[Extended Data](ext_articles/20fdbf3b.ext.json)
-
----
-
-### Customs strongly refutes allegations of misappropriating billions from reward fund
-
-*2024-05-30 21:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Customs-strongly-refutes-allegations-of-misappropriating-billions-from-reward-fund/108-283729) · `en`
-
-Colombo, May 30 (Daily Mirror) - Sri Lanka Customs strongly refuting all allegations levelled against them including misappropriation of billions of rupees from the Customs Reward Fund said even a Supreme Court verdict in 2000 proves that the present reward scheme has been approved by the then Finance Minister in 1988.
-
-Convening a special media briefing, a top Customs official said today that there is an organized attempt by certain parties to slander them by making allegations that they misuse the monies of the rewards fund.
-
-Additional Director General of Customs Seevali Arukgoda responding to allegations said regulations of maintaining the reward fund has been clearly stated in the Customs Ordinance, which is about 150 years old now and an amendment to it in 1988.
-
-...
-
-[Data](articles/ecd7e424.json)
-
-[Extended Data](ext_articles/ecd7e424.ext.json)
-
----
-
-### Extending term of President and P’ment is an option- Presidential Adviser
-
-*2024-05-30 21:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Extending-term-of-President-and-Pment-is-an-option-Presidential-Adviser/108-283723) · `en`
-
-Colombo, May 30 (Daily Mirror) -  Whilst United National Party (UNP) General Secretary Palitha Range Bandara said he will explain his proposal of extending the terms of the President and Parliament on Monday, Presidential
-
-Adviser Ashu Marasinghe stressed that the former only talked of an available option to ensure the nation’s stability. These remarks are made despite criticism against the postponement of elections and assurances by both President and the Prime Minister that presidential elections would be held this year
-
-“Many including the opposition and media have misunderstood what Range Bandara came out with. He only talked of an available option to ensure stability and a bright future for the nation. It is possible to extend the term of President and Parliament. It can be done after seeking an interpretation from the judiciary,” Marasinghe told a briefing.
-
-...
-
-[Data](articles/019640c4.json)
-
-[Extended Data](ext_articles/019640c4.ext.json)
-
----
-
-### Killing children in the final war
-
-*2024-05-30 21:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/184908) · `ta`
-
-In Vavuniya, a protest questioned the lack of mercy shown towards Tamil children killed in the final war, comparing it to the treatment of Gaza Children. The Vavuniya District Missing Relations Association demanded international justice amidst state repression. Economic struggles led to another country being considered for aid, potentially a political maneuver to gain support, while the allocation for Gaza Children was criticized for lacking compassion.
-
-🟩
-
-The Vavuniya district has questioned whether the Tamil children are not merciful when the killing of Tamil children in the final war for the Gaza Children.
-
-A demonstration was held on Thursday 30th in front of the Vavuniya Old Bus Stand by the Vavuniya District Missing Relations Association.
-
-They said this while speaking to the media after the demonstration. They continued to comment,
-
-We are carrying out a series of struggles demanding international justice. Various repression is being used by this state to prevent our struggles. However, we will continue to travel in our struggles for justice.
-
-Meanwhile. Another country is being donated as the economy of this country has fallen. This can be seen as a political move to multiply their support.
-
-Currently allocate for Gaza Children. They questioned whether they had no compassion.
-
-◼️
-
-[Data](articles/367c3cb0.json)
-
-[Extended Data](ext_articles/367c3cb0.ext.json)
-
----
-
-### Immediately stop land measurements for soldiers - Minister Douglas
-
-*2024-05-30 20:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/184907) · `ta`
-
-Minister Douglas Devananda halted army land acquisition projects in Jaffna, citing concerns over limestone mining and unauthorized trade. He also addressed issues related to legal work for the navy and criticized the distribution of special funds among MPs. The meeting focused on stopping limestone transport until proper permissions are granted and ensuring funds support community development equitably.
-
-🟩
-
-Jaffna District Coordinating Committee Chairman Minister Douglas Devananda has been instructed to suspend all land measurements aimed at acquiring land for the army.
-
-The instructions were given to the officials involved by the Minister at the District Development Coordinating Committee meeting held at the Jaffna District Secretariat on Thursday 30th.
-
-At today's meeting chaired by Minister of Coordinating Committee Minister Douglas Devananda and Joint Chairman PMS Charles
-
-The work plan carried out by the local bodies submitted for the approval of the Coordinating Committee was investigated and the missions of the resolutions made at the last meeting.
-
-...
-
-[Data](articles/65300041.json)
-
-[Extended Data](ext_articles/65300041.ext.json)
 
 ---

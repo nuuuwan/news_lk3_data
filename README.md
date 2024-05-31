@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-31 09:53:37**
+As of **2024-05-31 10:05:37**
 
 ## Newspaper Stats
 
@@ -26,33 +26,41 @@ adaderanasinhalalk | 4,385
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,458 (100.0%) of 27,465 articles have been extended.
+27,465 (100.0%) of 27,465 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-31 (Friday)
 
-### මිදිගම රුවන් ව TID වෙත රැගෙන එයි
+### Midigama brings Ruwan to TID
 
 *2024-05-31 09:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197203) · `si`
 
-අද (31) අලුයම දිවයිනට රැගෙන ආ මිදිගම රුවන් නමැති සංවිධානාත්මක අපරාධ කල්ලි සාමාජිකයාව ත්‍රස්ත විමර්ශන කොට්ඨාසය වෙත රැගෙන ගොස් තිබේ.
+Midigama Ruwan, linked to the International Drug Games and recently arrested in Dubai, was brought to the island today and then taken to the Terrorism Investigation Division (TID). He is associated with Chinthaka, who is already in custody. The operation to extradite him was led by the Criminal Investigation Department (CID), supervised by DIG Rohan Premaratne.
 
-ජාත්‍යන්තර මත්ද්‍රව්‍ය ජාලයට සම්බන්ධ සැකකරුවෙකු වන, ඩුබායි හිදී අත්අඩංගුවට ගත් මිදිගම රුවන් ව අද (31) අලුයම දිවයිනට රැගෙන එනු ලැබීය.
+🟩
 
-ඔහු මේ වනවිට අත්අඩංගුවේ පසුවන නදුන් චින්තක නොහොත් හරක් කටාගේ සමීපතමයෙකි.
+Midigama Ruwan, who brought to the island this morning, has been taken to the Terrorism Investigation Division.
 
-ඩුබායි හී පිහිටි රාත්‍රී සමාජ ශාලාවක ඇතිවූ ගැටුමක් සම්බන්ධයෙන් ඩුබායි පොලීසිය මීට මාස කිහිපයකට පෙරදී ජාත්‍යන්තර පොලීසිය හරහා රතු වරෙන්තු නිකුත් කර සිටින මිදිගම රුවන් නමැත්තාව අත්අඩංගුවට ගනු ලැබීය.
+Midigama Ruwan was taken to the island this morning, a suspect involved in the International Drug Games.
 
-අනතුරුව ඒ පිළිබඳව මෙරට අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව දැනුවත් කිරීමෙන් පසුව ඔහුව රැගෙන ඒම සඳහා ත්‍රස්ත විමර්ශන කොට්ඨාසයේ නිලධාරීන් කණ්ඩායමක් ඊයේ රාත්‍රියේ ඩුබායි බලා පිටත්ව ගොස් තිබුණි.
+He is currently the close associate of Chinthaka, who is in custody.
 
-ඒ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව භාර නියෝජ්‍ය පොලිස්පති රොහාන් ප්‍රේමරත්න මහතාගේ අධික්ෂණය යටතේය.
+Midigama Ruwan, a few months ago, was arrested by the Dubai Police a few months ago with a clash at a nightclub in Dubai.
 
-නදුන් චින්තක නොහොත් හරක් කටාගේ සමීපතමයෙක් වන මිදිගම රුවන්, හරක් කටාගේ අපරාධ රැසක් ඩුඩාහි සිට මෙහෙයවා ඇති බවට ද අනාවරණ වී තිබේ.
+The Troops of the Terror Investigation Division had left for Dubai last night to bring him informed of the Criminal Investigation Department.
 
-...
+DIG Rohan Premaratne in charge of the Criminal Investigation Division Rohan Premaratne is under the supervision of Mr. Roharan Premaratne.
+
+It has also been revealed that Midigama, who is called Chinthaka, or the beef, has been led by Duda.
+
+The operation was organized by the Criminal Investigation Department from the CID.
+
+◼️
 
 [Data](articles/f9fd2af4.json)
+
+[Extended Data](ext_articles/f9fd2af4.ext.json)
 
 ---
 
@@ -71,6 +79,8 @@ The High Commissioner said Sri Lankan military personnel especially will their c
 ◼️
 
 [Data](articles/2b65678a.json)
+
+[Extended Data](ext_articles/2b65678a.ext.json)
 
 ---
 
@@ -142,6 +152,8 @@ Currently the economy is in a fine place with very mild inflation and growth pic
 
 [Data](articles/e44f7cc3.json)
 
+[Extended Data](ext_articles/e44f7cc3.ext.json)
+
 ---
 
 ### Person found murdered inside a liquor store
@@ -179,6 +191,8 @@ Sri Lankan High Commissioner in Pakistan Ravindra Wijegunawardena who was presen
 ◼️
 
 [Data](articles/1c3f7aec.json)
+
+[Extended Data](ext_articles/1c3f7aec.ext.json)
 
 ---
 
@@ -232,17 +246,23 @@ The decision was announced after the jurors were discussed for nearly 12 hours.
 
 ---
 
-### ගංජා පැළ 9100ක් විනාශ කරයි
+### Cannabis destroys 9100
 
 *2024-05-31 07:47:54* · [`adalk`](https://www.ada.lk/breaking_news/ගංජා-පැළ-9100ක්-විනාශ-කරයි/11-409936) · `si`
 
-සෙවනගල, සීනි කර්මාන්ත ශාලාවට නුදුරින් උක් වගාවක් ආවරණයට ගනිමින් ඉතා සූක්‍ෂමව දිගුකාලයක් තිස්සේ පවත්වාගෙන ගොස් තිබු ගංජා පැල තවාන් 10ක් සැකකරුවන් දෙදෙනෙකු සමඟ අත්අඩංගුවට ගෙන ඇත. යුද්ධ හමුදා බුද්ධි අංශයට ලද තොරතුරු අනුව උඩවලව විශේෂ කාර්ය බලකා සාමාජිකයින් එක්ව සිදු කරන ලද මෙම වැටලීමේදී උස අඩි 2-5ත් අතර ගංජා පැල 9100ක ප්‍රමාණයක් අත්අඩංගුවට ගෙන ඇත.
+In a raid led by the Udawalawe Special Task Force, ten marijuana nurseries were dismantled, resulting in the arrest of two suspects aged 37 and 68 from Sevanagala. The operation targeted a large-scale cultivation site near the Sevanagala Sugar Factory, where 9,100 cannabis plants were seized. Further investigations are ongoing by the Sevanagala Police Station.
 
-අත්අඩංගුවට ගත් සැකකරුවන් වයස අවු: 37ත්, 68ත් අතර වයස් වල පසුවන පුද්ගලයින් වන අතර ඔවුන් සෙවනගල ප්‍රදේශයේ පදිංචිකරුවන් වේ. අදාල වැටලීමෙන් අනතුරුව මෙම ගංජා පැල තවන් ආරක්‍ෂක අංශ විසින් විනාශ කර ඇති අතර එහි වැඩිදුර පරීක්‍ෂණ කටයුතු සෙවනගල පොලිස් ස්ථානය මගින් සිදුකරනු ලබයි.
+🟩
+
+Ten marijuana nurseries have been arrested with two suspects with two suspects who had been submerged with a highly secular building to cover the Sevanagala, Sugar Factory near the Sugar Factory.. According to the Army Intelligence, the Udawalawe Special Task Force members join the raid, 9100 cannabis plants have been arrested.
+
+The suspects are aged 37 and 68 years old and are residents of Sevanagala area. After the raid, the security forces have been destroyed by the security forces and further investigations are carried out by Sevanagala Police Station.
 
 ◼️
 
 [Data](articles/61ba9d88.json)
+
+[Extended Data](ext_articles/61ba9d88.ext.json)
 
 ---
 
@@ -974,6 +994,8 @@ ESG adoption and reporting has become a prerequisite to secure foreign funds in 
 
 [Data](articles/1dfa7cf6.json)
 
+[Extended Data](ext_articles/1dfa7cf6.ext.json)
+
 ---
 
 ### Action to address the telecommunication contradictions
@@ -1476,21 +1498,31 @@ An Assistant Superintendent of Customs has been arrested in Colombo with 7,000 s
 
 ---
 
-### ඉන්දීය ISIS සිද්ධියට සැකපිට  ශ්‍රී ලංකාවේ දී 6ක් අත්අඩංගුව‍ට
+### Six Sri Lanka arrested in suspicion to Indian ISIS incident
 
 *2024-05-30 19:57:39* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්දීය-ISIS-සිද්ධියට-සැකපිට--ශ්‍රී-ලංකාවේ-දී-6ක්-අත්අඩංගුව‍ට/11-409934) · `si`
 
-ශ්‍රී ලංකා තරුණයන් සිවු දෙනා ඉන්දියාවට යැවූ පුද්ගලයා, ISIS දිවුරුම දුන් දෙදෙනෙක්, ISIS ලාංඡනය සහිත කොඩිය රු.2000කට සෑදූ පුද්ගලයා හා මුදල් හුවමාරු කළ දෙදෙනෙක් ඒ අතර
+Six Sri Lankans, including four youths sent to India and two suspected of exchanging money for ISIS flags, were arrested by Sri Lanka's security forces investigating links between local individuals and the Indian ISIS incident. The arrests come after the suspects allegedly took oaths related to ISIS, with some refusing travel to India. Investigations suggest involvement in drug trafficking and other crimes, but officials are still probing connections to ISIS.
 
-මුල් දිවුරුම දුන් දෙදෙනෙක් ඉන්දියාවට යෑම ප්‍රතික්ෂේප කළ නිසා තවත් දෙදෙනක් සමග දෙවැනි දිවුරුමකුත් දීලා
+🟩
 
-ISIS සංවිධානය හා සම්බන්ධ යැයි සැකපිට ඉන්දියාවේ ගුජරාට් ප්‍රාන්තයේ ත්‍රස්ත විරෝධී බළකාය (ATS) විසින් අත්අඩංගුවට ගත් ශ්‍රී ලාංකිකයන් සිව් දෙනා සම්බන්ධයෙන් පරීක්ෂණ පවත්වන ශ්‍රී ලංකාවේ ආරක්ෂක අංශ මේ වන විට පුද්ගලයන් 6දෙනෙකු අත්අඩංගුවට ගෙන ඇතැයි 'අද' පුවත්පතට වාර්තා වෙයි.
+The four Sri Lankan youths who sent to India, the man who had sworn and exchanged the Flag with the ISIS logo, two and two money exchanged money
 
-ශ්‍රී ලාංකිකයන් සිවු දෙනා ඉන්දියාවට යැවීමට සම්බන්ධීකරණය කළ පුද්ගලයා, ඉන්දියාවට ගිය ශ්‍රී ලාංකිකයන් සිවු දෙනාට දිවුරුමක් ලබාදීමට ISIS ලාංඡනය සහිත කොඩිය සැකසූ පුද්ගලයා, මුල් අවස්ථාවකදී අදාළ දිවුරුම දුන් පුද්ගලයන් දෙදෙනෙක් හා මොවුන් සමග මුදල් ගනුදෙනු කළ මාවනැල්ලේ පුද්ගලයන් දෙදෙනෙක් ද ඒ අතර වෙති.
+Two others who were given first oaths were refused to go to India
+
+Sri Lanka's security forces have been arrested by Sri Lankan security forces in Sri Lanka, who is conducting the four Sri Lankans who were arrested by the LTTE (ASS).
+
+The victim coordinated the four Sri Lankans to send to India to the four Sri Lankans visiting India, the person who was set to a oath to India were two sworn in Mawanella, a first occasion.
+
+The oath to oath is requested that the flag with logo has been prepared to Rs.. There have been four to the first oath, and two oath and two oath have refused to go to India.Investigations so far revealed that a swear in a sworn hand with two newly two newly two new joined.. According to the defense sources, Indian Defense Assistants have played the second time.
+
+The persons have sent a sum of Rs.
 
 ...
 
 [Data](articles/b6c5d7ac.json)
+
+[Extended Data](ext_articles/b6c5d7ac.ext.json)
 
 ---
 

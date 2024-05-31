@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-31 07:59:30**
+As of **2024-05-31 07:21:33**
 
 ## Newspaper Stats
 
-*Scraped **27,452** Articles*
+*Scraped **27,445** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,77 +14,23 @@ bbccomsinhala | 272
 newsfirstlk | 363
 islandlk | 1,488
 economynextcom | 1,568
-dailyftlk | 1,612
-adalk | 2,342
+dailyftlk | 1,611
+adalk | 2,340
 adaderanalk | 3,125
-tamilmirrorlk | 3,217
+tamilmirrorlk | 3,216
 virakesarilk | 4,232
-dailymirrorlk | 4,340
-adaderanasinhalalk | 4,382
+dailymirrorlk | 4,338
+adaderanasinhalalk | 4,381
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,439 (100.0%) of 27,452 articles have been extended.
+27,428 (99.9%) of 27,445 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-31 (Friday)
-
-### රට බීම හලක් තුළ පුද්ගලයෙක් මරුට
-
-*2024-05-31 07:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197199) · `si`
-
-රට බීම හලක් තුළ පුද්ගලයෙකු මියගොස් සිටියදී පොලීසිය විසින් සොයාගෙන තිබේ.
-
-ඒ ඊයේ (30) උදෑසන කාලයේදී බිබිල පොලීසියට ලැබුණු තොරතුරක් අනුවය.
-
-මියගිය පුද්ගලයා රට බීම අලෙවිසැළක් පවත්වාගෙන යන අතර එහි සේවකයෙකු සමග ඇතිවූ බහින්බස්වීමකින් පසු සේවකයා විසින් යකඩ පොල්ලකින් පහරදී මෙම ඝාතනය සිදුකර ඇති බවට විමර්ශනවලදී හෙළිවී ඇත.
-
-සිද්ධියට සම්බන්ධ 34 හැවිරිදි සැකකරුව පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
-
-◼️
-
-[Data](articles/5828cdea.json)
-
----
-
-### Waterfalls swell again
-
-*2024-05-31 07:18:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Waterfalls-swell-again/110-283763) · `en`
-
-The waterfalls in the central hills have swelled creating a lovely and attractive sight due to the heavy rain experienced at present.
-
-The scenic beauty of the waterfalls have been attracting local and foreign tourists much to the pleasure of the people living in the vicinity of waterfalls who depended on income from tourists.
-
-Representatives of environmental organizations pointed out that the waterfalls with a lapping sound which could be heard from a distance added to the scenic beauty. By Shantha Chandrasiri
-
-◼️
-
-[Data](articles/ea2646a9.json)
-
----
-
-### EC defends talks with Julie Chung amid criticisms
-
-*2024-05-31 07:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/EC-defends-talks-with-Julie-Chung-amid-criticisms/108-283720) · `en`
-
-Colombo, May 30 (Daily Mirror) - Following severe criticism that US Ambassador Julie Chung had interfered in discussing Sri Lanka’s election process with the Election Commission (EC) officials, the EC chairman R.M.A.L. Rathnayake defended the move saying that the discussion with Chung was a casual one.
-
-He told Daily Mirror that in the discussion that took place on Tuesday (28), Chung had asked if the election would be held during the period from between September 17 and October 16 as officially announced by the EC.
-
-“The focal point of the meeting was to discuss the election process. Besides, plans for elections were also discussed. However, there was nothing serious or influencing discussed during the meeting which lasted only 30 minutes. It was just a courtesy call,” he underscored.
-
-He also noted that the appointment for the meeting was made two weeks ago and it came from the US Embassy.
-
-This follows heavy criticism on social media that the US is influencing Sri Lanka’s internal affairs.
-
-...
-
-[Data](articles/47a13312.json)
-
----
 
 ### Underworld figure ‘Midigama Ruwan’ brought back to Sri Lanka
 
@@ -101,8 +47,6 @@ He is considered to be one of the two people who had led Harak Kata’s drug net
 ◼️
 
 [Data](articles/a7c6f4d5.json)
-
-[Extended Data](ext_articles/a7c6f4d5.ext.json)
 
 ---
 
@@ -124,8 +68,6 @@ Colonel Herath clarified that “these stocks do not belong to the Ministry of D
 
 [Data](articles/eb43170a.json)
 
-[Extended Data](ext_articles/eb43170a.ext.json)
-
 ---
 
 ### Families of disappeared against freeing Ex-Navy Chief
@@ -142,29 +84,21 @@ In 2019, the Attorney General filed indictments with over 667 charges against th
 
 [Data](articles/4ae1cb8c.json)
 
-[Extended Data](ext_articles/4ae1cb8c.ext.json)
-
 ---
 
-### Midigama brings Ruwan to Sri Lanka
+### මිදිගම රුවන් මෙරටට රැගෙන එයි
 
 *2024-05-31 06:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197197) · `si`
 
-Major suspect Midigama Ruwan, linked to an underworld and international drug network, is extradited from Dubai to Sri Lanka by a CID special team.
+පාතාල  නායකයකු සහ ජාත්‍යන්තර මත්ද්‍රව්‍ය ජාලයට සම්බන්ධ ප්‍රධාන සැකකරුවෙකු වන මිදිගම රුවන් ඩුබායි සිට මෙරටට රැගෙනවිත් තිබේ.
 
-🟩
+අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ විශේෂ නිලධාරීන් කණ්ඩායමක් විසින් සැකකරුව රැගෙනවිත් ඇත.
 
-Midigama Ruwan, a major suspect in an underworld and international drug network, has been brought to Sri Lanka from Dubai.
-
-The suspect was brought by a team of special officers of the CID.
-
-Midigama, Ruwan suspects to redeem the Criminal Investigation Department (CID) recently.
+පසුගියදා හරක් කටා හෙවත් නදුන් චින්තක ව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවෙන් මුදාගැනීමට සැලසුම් කළ පුද්ගලයා ලෙසටද මිදිගම රුවන් ව සැක කරයි.
 
 ◼️
 
 [Data](articles/ffbbfdcc.json)
-
-[Extended Data](ext_articles/ffbbfdcc.ext.json)
 
 ---
 
@@ -184,33 +118,25 @@ Therefore, people in low-lying areas are urged to remain vigilant over possible 
 
 [Data](articles/44460b77.json)
 
-[Extended Data](ext_articles/44460b77.ext.json)
-
 ---
 
-### Heavy rains today
+### අදත් තද වැසි
 
 *2024-05-31 06:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197196) · `si`
 
-Expect heavy rainfall across the Western, Sabaragamuwa, Central, and Southern provinces, with intense showers reported in some areas exceeding 50mm. The North Western Province will also see showers. Strong winds are expected, particularly in the North Central, West, Western, Southern, and Northwestern provinces, with gusts reaching 40-50km/h.
+සක්‍රීය නිරිතදිග මෝසම් තත්ත්වය හේතුවෙන් දිවයිනේ දැනට පවතින වැසි සහ සුළං තත්ත්වය තවදුරටත් අද (31) දිනයේත් අපේක්ෂා කෙරේ.
 
-🟩
+ඒ අනුව අද දිනයේත් බස්නාහිර, සබරගමුව, මධ්‍යම සහ දකුණු පළාත්වල විටින්විට වැසි ඇතිවෙයි. වයඹ පළාතේ වැසි වාර කිහිපයක් ඇතිවිය හැකිය.
 
-The existing rain and winds in the country are still expected today (31) due to active southwest monsoon.
+බස්නාහිර සහ සබරගමුව පළාත්වලත්, නුවරඑළිය දිස්ත්‍රික්කයේත් ඇතැම් ස්ථානවල මි.මී. 50 ට වැඩි තරමක තද වැසි ඇති වෙයි.
 
-Thus will experience showers in the Western, Sabaragamuwa, Central and Southern provinces. Showers will occur in the North Western Province.
+ඌව, උතුරු-මැද සහ නැගෙනහිර පළාත්වල සවස් කාලයේ හෝ රාත්‍රී කාලයේ ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකිය.
 
-In some places in the Western and Sabaragamuwa Province, MM. Heavy rains experience more than 50.
-
-Showers or thundershowers will occur at a few night or night in the Uva, North-central areas.
-
-At times, the North Central, West, Western, Southern and Northwestern provinces are held in Trincomalee and North Western Provinces and in Trincomalee and Moneragala Districts.. 40-50. There will be about strong winds.
+මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවලත් උතුරු මැද, බස්නාහිර, දකුණු සහ වයඹ පළාත්වලත් ත්‍රීකුණාමලය සහ මොනරාගල දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. (40-50) ක පමණ තද සුළං ඇති වෙයි.
 
 ◼️
 
 [Data](articles/d7a30c39.json)
-
-[Extended Data](ext_articles/d7a30c39.ext.json)
 
 ---
 
@@ -227,8 +153,6 @@ The Dubai police arrested Midigama Ruwan following a clash in a night club in Du
 ◼️
 
 [Data](articles/285862a6.json)
-
-[Extended Data](ext_articles/285862a6.ext.json)
 
 ---
 
@@ -247,8 +171,6 @@ Judge Juan Merchan set sentencing for July 11, just days before the Republican N
 ...
 
 [Data](articles/323ce64a.json)
-
-[Extended Data](ext_articles/323ce64a.ext.json)
 
 ---
 
@@ -270,8 +192,6 @@ Strong winds of about 40-50 kmph can be expected at times over Western slopes of
 
 [Data](articles/cb74ddb7.json)
 
-[Extended Data](ext_articles/cb74ddb7.ext.json)
-
 ---
 
 ### International spotlight on presidential election
@@ -291,32 +211,6 @@ Election Commission’s Chairman R. M. A. L. Ratnayake confirmed that the EU del
 ...
 
 [Data](articles/4be1dc6d.json)
-
-[Extended Data](ext_articles/4be1dc6d.ext.json)
-
----
-
-### Dr. Shafi recounts ordeal and emphasises need for unity and compassion in Sri Lanka
-
-*2024-05-31 05:48:21* · [`dailyftlk`](https://www.ft.lk/opinion/Dr-Shafi-recounts-ordeal-and-emphasises-need-for-unity-and-compassion-in-Sri-Lanka/14-762404) · `en`
-
-Expresses dismay at Padeniya’s silence during his forced sterilisation ordeal
-
-Says some mothers from Kurunegala, continue to trust and seek his services for deliveries while even apologising for complaining against him
-
-Reiterates commitment to providing care to mothers, emphasising that he never harboured any intentions to harm them
-
-Reflects on his detention alongside Makandure Madhush, who he said had no more humanity than those in Parliament today
-
-Kurunegala Teaching Hospital Senior House Officer in the Gynaecology and Obstetrics Unit Dr. Shafi Shihabdeen last week recounted his ordeal and emphasised the need for unity and compassion in Sri Lanka.
-
-He voiced his disappointment with former President of the Government Medical Officers Association (GMOA), Anuruddha Padeniya, for remaining silent during Shihabdeen’s wrongful accusation of conducting forced sterilisations on women.
-
-...
-
-[Data](articles/f5d2a36f.json)
-
-[Extended Data](ext_articles/f5d2a36f.ext.json)
 
 ---
 
@@ -734,24 +628,6 @@ Speaking at the event, Dialog Acida PLC Group Chief Minister Asanka Priyadarshan
 
 ---
 
-### கங்கைகளின் நீர்மட்டம் உயர்வு
-
-*2024-05-31 02:01:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கங்கைகளின்-நீர்மட்டம்-உயர்வு/175-338186) · `ta`
-
-நாட்டில் தொடரும் சீரற்ற நிலையினால் மகாவலி, களனி, களு, நில்வளா ஆகிய கங்கைகளின் நீர்மட்டம் அதிகரித்து வருவதாக நீர்ப்பாசனத் திணைக்களம் தெரிவித்துள்ளது.
-
-இதனால், அந்த கங்கைகளுக்கு அருகில் வசிப்பவர்கள் மிகுந்த எச்சரிக்கையுடன் இருக்குமாறு அந்த திணைக்களம் குறிப்பிட்டுள்ளது.
-
-அதேநேரம், மத்திய மலைநாட்டின் மேற்கு சரிவுகளில் நிலவும் சீரற்ற காலநிலை காரணமாக கெனியோன் நீர்த்தேக்கத்தின் 2 வான்கதவுகள் நேற்று காலை திறக்கப்பட்டன.
-
-விமலசுரேந்திர, காசல்ரீ மற்றும் மவுஸ்ஸாகலை ஆகிய நீர்த்தேக்கங்களின் நீர், நிரம்பி வழியும் மட்டத்தை எட்டியுள்ளதாக அந்த நீர்த்தேக்கங்களுக்கு பொறுப்பான பொறியியலாளர்கள் தெரிவித்துள்ளனர். (a)
-
-◼️
-
-[Data](articles/b4ffd3fc.json)
-
----
-
 ### நீர் மின் உற்பத்தி அதிகரிப்பு
 
 *2024-05-31 01:55:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீர்-மின்-உற்பத்தி-அதிகரிப்பு/175-338185) · `ta`
@@ -1132,26 +1008,6 @@ Due to hard work, the school sports tournaments that were missed during the Covi
 
 ---
 
-### අයි එස් ත්‍රස්තවාදීන්ගේ ක්‍රියාකරකම් පිළිබඳව බුද්ධි අංශ විමසිල්ලෙන්
-
-*2024-05-30 20:02:37* · [`adalk`](https://www.ada.lk/breaking_news/අයි-එස්-ත්‍රස්තවාදීන්ගේ-ක්‍රියාකරකම්-පිළිබඳව-බුද්ධි-අංශ-විමසිල්ලෙන්/11-409935) · `si`
-
-ශ්‍රිලංකාවේ බුද්ධි අංශ  අයි එස් ත්‍රස්තවාදීන්ගේ ක්‍රියාකරකම් පිළිබඳව   විපරමින් සිටින  බව ආරක්ෂක ලේකම් විශ්‍රාමික මේජර් ජෙනරාල් කමල් ගුණරත්න මහතා ඊයේ (30දා) දීඝවාපි පුදබිමේදී පැවසීය.
-
-දීඝවාපි චෛත්‍යයේ ඉදිකිරීම් කටයුතු නිරීක්ෂණය කිරීමට පැමිණි අවස්ථාවේ ඔහු මේ බව පැසුවේ මාධ්‍යවේදීන් නැගු ප්‍රශ්නයකට පිළිතුරු දෙමින්ය.
-
-&ඉන්දියාවට ගිය අය පිළිබඳව අපි පරික්ෂණ පවත්වා ගෙන යනවා. ඒ අය ඇසුර කරපු අයත් අඩංගුවට අරගෙන  පරීක්ෂණ කටයුතු කරනවා.මේ පරික්ෂණවල අභ්‍යන්තර තත්වය පිළිබඳව දැනට මට එලියට දෙන්න බැහැ.
-
-දැනට අත් අඩංගුවට ගත් හතරදෙනා තද බල ලෙස මත්ද්‍රව්‍යවලට ඇබ්බැහි වෙලා.    දැඩි ආගමික මතධාරීන් නොවෙයි. ඉන්දියාවෙන් අපට ලබාදුන් තොරතුරු මත අපේ බුද්ධි අංශත් අපරාධ පරීක්ෂණ දෙපාර්මේන්තුවත් පරීක්ෂණ පවත්වනවා.
-
-ආරක්ෂක ලේකම්වරයා හැටියට මම සහතිකයක් දෙනවා රටේ ජනතාවට.  මහජනතාවගේ  ආරක්ෂාව ගැන, ජාතික ආරක්ෂව ගැන අපි දවසේ  පැය 24 පුරාම විමසිල්ලෙන්  ඉන්නේ.  අර පාස්කු ඉරිදා වගේ සිදුවීමක් වෙන්න අපි කොහොමටවත් ඉඩ තියන්නේ නැහැ.
-
-...
-
-[Data](articles/ab54a354.json)
-
----
-
 ### Assistant Customs Superintendent arrested in Fell
 
 *2024-05-30 20:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197194) · `si`
@@ -1267,22 +1123,6 @@ According to the help of a woman who was bathing from the top of the Kelani Rive
 [Data](articles/8b262c34.json)
 
 [Extended Data](ext_articles/8b262c34.ext.json)
-
----
-
-### රංගෙගෙන් සඳුදා ප්‍රකාශයක්
-
-*2024-05-30 19:15:02* · [`adalk`](https://www.ada.lk/breaking_news/රංගෙගෙන්-සඳුදා-ප්‍රකාශයක්/11-409932) · `si`
-
-ජනමත විචාරණයක් පැවැත්වීම සම්බන්ධයෙන් සහ ජනාධිපතිවරයාගේ ධුර කාලය වසර දෙකකින් දිර්ඝ කිරීම සම්බන්ධයෙන් තමා කළ ප්‍රකාශය පිළිබඳ එළඹෙන සඳුදා(03දා) ප්‍රකාශයක් සිදුකරන බව එක්සත් ජාතික පක්ෂ මහ ලේකම් පාලිත රංගෙ බණ්ඩාර මහතා පැවසීය.
-
-සියලු දෙනාගේ ප්‍රශ්න සඳහා එහිදී පිළිතුරු ලබා දෙන බව ද රංගෙ බණ්ඩාර මහතා පැවසුවේය. පිටකෝට්ටේ සිරිකොත එක්සත් ජාතික පක්ෂ මූලස්ථානයේ දී 03 වැනිදා පෙරවරු 10ට එම ප්‍රකාශය සිදුකරන බව ද සඳහන් කළේය.සිරිකොත පක්ෂ මූලස්ථානයේ දී අද (30දා) පැවති මාධ්‍ය හමුව අමතමින් පාලිත රංගෙ බණ්ඩාර මහතා මේ බව සඳහන් කළේය.
-
-තමා කළ ප්‍රකාශය පිළිබද විවිධ පාර්ශ්ව විවිධ ප්‍රකාශ නිකුත් කිරීමට පටන් ගෙන තිබෙන බව පැවසූ රංගෙ බණ්ඩාර මහතා, සිරිකොත මන්දිරය ඉදිරිපිටට පැමිණි අතිවිශාල හත් දෙනකුගෙන් සමන්විත කණ්ඩායමක් උද්ඝෝෂණයක්ද කළ බව ප්‍රකාශ කළේය.
-
-◼️
-
-[Data](articles/e31ebd64.json)
 
 ---
 
@@ -2167,5 +2007,157 @@ He said that over 70 percent of teachers and principals had engaged with the two
 [Data](articles/9bf63cc8.json)
 
 [Extended Data](ext_articles/9bf63cc8.ext.json)
+
+---
+
+### The executive power of the presidency has been able to build the economy of Sri Lanka
+
+*2024-05-30 16:29:34* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපති-ධූරය-සතු-විධායක-බලය-නිසා-ශ්‍රී-ලංකාවේ-ආර්ථිකය-ගොඩනැඟීමට-හැකිවුනාලු/11-409918) · `si`
+
+President Ranil Wickremesinghe highlighted the executive power's role in Sri Lanka's economic growth and peace during a workshop. He emphasized the importance of maintaining the English parliamentary system over the American model, where executive, legislative, and judicial powers are separated. This approach, he argued, ensures the supremacy of Parliament and prevents interference in laws once passed, contrasting it with the more decentralized U.S. system.
+
+🟩
+
+President Ranil Wickremesinghe said that no candidate says any candidate said that any candidate said the post candidate would be abolished the executive power of the post.
+
+President Ranil Wickremesinghe made this statement participating in the workshop on the Presidential Secretariat on Law Reformers with young law professionals.
+
+The President also pointed out that due to the executive power of the president, the Sri Lankan economy was able to build the economy in Sri Lanka and end the war.
+
+Once a law passed in the England parliament, no one can interrogate. That was the foundation of the supremacy of Parliament. The Parliament is the Parliament.
+
+American method is different. By the American methodology, when they drafted some law, they gave the executive powers to the executive powers and the Congress Congress and the Court of Justice.
+
+...
+
+[Data](articles/1dd66ac0.json)
+
+[Extended Data](ext_articles/1dd66ac0.ext.json)
+
+---
+
+### Indian arrested with smuggled cigarettes at BIA
+
+*2024-05-30 16:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/99545/indian-arrested-with-smuggled-cigarettes-at-bia) · `en`
+
+The officers of Police Narcotics Bureau (PNB) have arrested a foreign national who was in possession of a large stock of cigarettes smuggled into the country at the Bandaranaike International Airport (BIA) in Katunayake.
+
+The consignment of cigarettes is estimated to be worth around Rs. 300,000.
+
+The arrested suspect has been identified as a 31-year-old Indian national and he has been detained following an inspection carried out by the officers of PNB at the airport.
+
+◼️
+
+[Data](articles/b139c162.json)
+
+[Extended Data](ext_articles/b139c162.ext.json)
+
+---
+
+### Work on returning university staff to work!
+
+*2024-05-30 16:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/184887) · `ta`
+
+The University Grants Commission Chairman has called for an end to the ongoing strike by university staff, urging them to resume work and address salary disputes. The Chairman's letter emphasizes the importance of resolving these issues swiftly to prevent further disruption to education. Despite the Chairman's plea, the All University's Joint Committee has vowed to continue their trade union activities until their demands are met, indicating no immediate resolution to the strike.
+
+🟩
+
+The Chairman of the University Grants Commission has asked all the parties involved in the trade union activities for the future of the day to protect the country.
+
+The University Grants Commission Chairman Professor Sampath Aratunga has issued a letter to the leaders of the university subsidies commission to immediately work for the university administrators and teaching staff who have been on strike from the second day of this month, including the resolution of pay conflicts.
+
+In the letter, a number of university's union and non -teaching unions have been protesting for the past 27 days, including their salary conflict.. Many Cabinet papers have been prepared by the University Grants Commission and submitted by the Ministry of Education on the instructions of the Ministry of Education.
+
+...
+
+[Data](articles/c1a0d00d.json)
+
+[Extended Data](ext_articles/c1a0d00d.ext.json)
+
+---
+
+### The Indians who ended with Katunayake
+
+*2024-05-30 15:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197184) · `si`
+
+A 31-year-old Indian was arrested at Katunayake airport for smuggling contraband cigarettes. The arrest followed a police raid on the Katunayake unit of the Narcotics Bureau.
+
+🟩
+
+A foreign national has been arrested at the Katunayake airport.
+
+The suspect has been arrested following a raid on the Katunayake Unit of the Police Narcota Bureau.
+
+The arrested has been arrested for a 31-year-old Indian.
+
+It has been revealed that the cigarettes were illegally carried by the illegal bodies.
+
+◼️
+
+[Data](articles/ce58455a.json)
+
+[Extended Data](ext_articles/ce58455a.ext.json)
+
+---
+
+### Russian envoy ‘perplexed’ by omission of Sri Lankans fighting for Ukraine
+
+*2024-05-30 15:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/99543/russian-envoy-perplexed-by-omission-of-sri-lankans-fighting-for-ukraine-) · `en`
+
+State Minister of Foreign Affairs Tharaka Balasuriya states that Sri Lanka is working closely with the Government of Russia to repatriate Sri Lankans who are working with the Russian forces.
+
+Posting on ‘X’ following a joint press conference held in Colombo with Russia’s Ambassador to Sri Lanka Mr. Levan Dzhagaryan, the State Minister also expressed that the ministry has requested that those who choose to remain will not be sent to the frontlines of the war in Ukraine, and will continue to receive their salaries and benefits in full.
+
+Meanwhile, the Ambassador of Russia to Sri Lanka, Mr. Levan Dzhagaryan underscored the efforts undertaken by Sri Lanka’s Ministry of Foreign Affairs and Russian competent authorities in order to sort out the issue pertaining to the Sri Lankan citizens involved in the conflict in Ukraine, the Russian Embassy in Colombo said.
+
+...
+
+[Data](articles/f053c0d2.json)
+
+[Extended Data](ext_articles/f053c0d2.ext.json)
+
+---
+
+### A Defeated President Cannot Appoint The Chief Justice!
+
+*2024-05-30 15:38:35* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/a-defeated-president-cannot-appoint-the-chief-justice/) · `en`
+
+There is speculation that President Ranil Wickremesinghe sought the approval of the Constitutional Council to extend the term of office of Attorney-General Sanjay Rajaratnam because he wished to appoint Rajaratnam as Chief Justice when the current Chief Justice retires towards the end of the year after the presidential election.
+
+A lawyer was heard to say in the Law Library canteen that ‘Machang, No worries. A defeated President has no power of appointment. I am only sorry that nice lady Ayesha will retire without getting appointed as AG!’, a reference to Mrs Ayesha Jinasena, Solicitor-General who would have succeeded Rajaratnam as Attorney-General. What was implied is that as Chief Justice Jayantha Jayasuriya retires after the Presidential election, Wickremesinghe would be a defeated President by that time.
+
+...
+
+[Data](articles/3c618467.json)
+
+[Extended Data](ext_articles/3c618467.ext.json)
+
+---
+
+### Veteran musician Shelton Premaratne passes away
+
+*2024-05-30 15:35:34* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රවීණ-සංගීතඥ-ෂෙල්ටන්-ප්‍රේමරත්න-අභාවප්‍රාප්ත-වෙයි/11-409917) · `si`
+
+Shelton Premaratne, a veteran musician from Sri Lanka, passed away at 93 in Australia. Born in 1931, he entered the music industry at 17 and became renowned for his contributions to Sinhala cinema, including composing the first academic song for the film 'Dhamma'. His works, such as "My Dreams Are Roses For My Love" from Romeo Juliet, showcased his talent alongside other notable artists like Cold Desion and Sujathi Attanayake. Premaratne also led the Shelton Linders' Orchestra during the Deepawali film festival. His funeral will take place in Sydney, Australia.
+
+🟩
+
+Veteran Musiciant Shelton Premaratne passed away yesterday (30) in Australia, Australia yesterday (30).. He was 93 when he died.
+
+Shelton Premaratne was born on 29th April 1931, Kotahena, Kithahena, Kithena Central College, he included in Kotahena Central College.
+
+Shellton Premaits enter the music industry.. Shelton had chosen music in the film 'Happy journalist', a film, a film that was used by businessman.. Then Shellton Premaits were 17 years old.
+
+Shelton Premaratne joined Shilaton Peace with Siammani Peace with Sishiran Premaratne, who was changing her possibility from the film 'Dascan'.. The first academic song of the 'Dhamma' song song is a Sinhala film.
+
+Shelton loves are the highest number of ballet in Sri Lanka.
+
+"My Dreams Are Roses For My Love (Romeo Juliet Film Movie Juliet)" (Romeo Juliet). "Cold desion and Sujathi Attanayake Sing" Hanzani Perera sang the "Hanzani Perera ', SunzaraniPine "Songs Songs Shelton Premasses Outstanding Creation.
+
+...
+
+[Data](articles/05729461.json)
+
+[Extended Data](ext_articles/05729461.ext.json)
 
 ---

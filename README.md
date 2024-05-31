@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-31 10:05:37**
+As of **2024-05-31 10:18:47**
 
 ## Newspaper Stats
 
-*Scraped **27,465** Articles*
+*Scraped **27,471** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,83 @@ islandlk | 1,488
 economynextcom | 1,568
 dailyftlk | 1,612
 adalk | 2,344
-adaderanalk | 3,126
-tamilmirrorlk | 3,218
+adaderanalk | 3,127
+tamilmirrorlk | 3,221
 virakesarilk | 4,234
-dailymirrorlk | 4,344
-adaderanasinhalalk | 4,385
+dailymirrorlk | 4,345
+adaderanasinhalalk | 4,386
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,465 (100.0%) of 27,465 articles have been extended.
+27,465 (100.0%) of 27,471 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-31 (Friday)
+
+### What Trump’s conviction means for the election
+
+*2024-05-31 09:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/What-Trumps-conviction-means-for-the-election/107-283787) · `en`
+
+New York, May 31 (BBC) - Former United States President Donald Trump has been found guilty in a historic criminal hush-money trial, in a decision that could shake up the 2024 election campaign.
+
+He’s the first former or serving US president to be found guilty of a crime. He’s the first presumptive major-party nominee to become a convicted felon as well.
+
+While Trump plans his appeal in the hush-money case, and awaits a sentence on 11 July that could in theory include prison time and a hefty fine, it’s not too early to consider the political fallout.
+
+That will be difficult, however, given this has never happened before.
+
+“We often look to history to find some kind of hint of what’s going to happen,” says Jeffrey Engel, director of the Center for Presidential History at Southern Methodist University. “But there is nothing in the record that comes even close to this.”
+
+...
+
+[Data](articles/d331cdbc.json)
+
+---
+
+### இலங்கை - பாகிஸ்தான் இடையே மேலும் விமான சேவைகள்
+
+*2024-05-31 09:55:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-பாகிஸ்தான்-இடையே-மேலும்-விமான-சேவைகள்/175-338191) · `ta`
+
+கொழும்பில் இருந்து இஸ்லாமாபாத்துக்கு நேரடி விமான சேவையை தொடங்குவதன் மூலம் விமான தொடர்பை அதிகரிப்பதற்கான சாத்தியக்கூறுகளை ஆராய இலங்கையும் பாகிஸ்தானும் ஒப்புக்கொண்டுள்ளதாக தகவல் வெளியாகி உள்ளது.
+
+தற்போது, ​​கொழும்பில் இருந்து பாகிஸ்தானின் லாகூர் மற்றும் கராச்சிக்கு மட்டுமே நேரடி விமானங்கள் இயக்கப்படுகின்றன.
+
+இலங்கைக்கு விஜயம் செய்துள்ள பாகிஸ்தானின் மத அலுவல்கள் மற்றும் சர்வமத நல்லிணக்க அமைச்சர் சௌத்ரி சாலிக் ஹுசைன் மற்றும் புத்தசாசன, மத மற்றும் கலாசார அலுவல்கள் இராஜாங்க அமைச்சர் விதுர விக்கிரமநாயக்க ஆகியோருக்கு இடையில் இடம்பெற்ற சந்திப்பில், விமான சேவையை அதிகரிப்பதன் அவசியம் குறித்து கலந்துரையாடப்பட்டது.
+
+இந்த சந்திப்பில் கலந்து கொண்ட பாகிஸ்தானில் உள்ள இலங்கை உயர்ஸ்தானிகர் ரவீந்திர விஜேகுணவர்தன இரு நாடுகளுக்கும் இடையிலான விமான இணைப்புகளின் தற்போதைய நிலையை விளக்கியதுடன் விமான நடவடிக்கைகளை அதிகரிப்பதன் முக்கியத்துவத்தையும் வலியுறுத்தினார்.
+
+◼️
+
+[Data](articles/d4b8090d.json)
+
+---
+
+### විදෙස් තරුණියගේ බෑග් එක සොරාගත් සැකකරු හසුවෙයි
+
+*2024-05-31 09:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197204) · `si`
+
+කොළඹ පිටකොටුවේ පෞද්ගලික බස් රථයක් තුළදී විදේශීය ජාතික තරුණියකගේ ගමන් මල්ල සොරකම් කිරීමේ සිද්ධිය සම්බන්ධයෙන් සැකකරුවෙකු අත්අඩංගුවට ගෙන තිබේ.
+
+◼️
+
+[Data](articles/0c5f8a42.json)
+
+---
+
+### Suspect arrested for stealing foreign tourist’s bag in bus
+
+*2024-05-31 09:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/99556/suspect-arrested-for-stealing-foreign-tourists-bag-in-bus) · `en`
+
+An individual who allegedly stole a bag belonging to a female foreign tourist inside a private bus in Pettah, Colombo, has been arrested by the police in Pethiyagoda, Kelaniya.
+
+◼️
+
+[Data](articles/a1619583.json)
+
+---
 
 ### Midigama brings Ruwan to TID
 
@@ -103,6 +165,22 @@ He was taken to the Katunayake airport with strong security and taken to the Col
 [Data](articles/053d36a9.json)
 
 [Extended Data](ext_articles/053d36a9.ext.json)
+
+---
+
+### டுபாயிலிருந்து அழைத்து வரப்பட்டார் “மிதிகம ருவன்”
+
+*2024-05-31 09:17:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டுபாயிலிருந்து-அழைத்து-வரப்பட்டார்-மிதிகம-ருவன்/175-338190) · `ta`
+
+பாதாள உலகத் தலைவரும் சர்வதேச போதைப்பொருள் வலையமைப்புடன் தொடர்புடைய பிரதான சந்தேக நபருமான மிதிகம ருவன் டுபாயில் இருந்து இலங்கைக்கு அழைத்து வரப்பட்டுள்ளார்.
+
+குற்றப் புலனாய்வு திணைக்களத்தின் விசேட அதிகாரிகள் குழு ஒன்று மிதிகம ருவனை டுபாயில் இருந்து அழைத்து வந்துள்ளதாக தெரிவிக்கப்படுகின்றது.
+
+அண்மையில் குற்றப் புலனாய்வுத் திணைக்களத்தில் இருந்து 'ஹரக் கட்டா' அல்லது நதுன் சிந்தகவை விடுவிக்க இவர் திட்டமிட்டவர் என்றும் சந்தேகிக்கப்படுகிறது. R
+
+◼️
+
+[Data](articles/1ba9f624.json)
 
 ---
 
@@ -995,6 +1073,24 @@ ESG adoption and reporting has become a prerequisite to secure foreign funds in 
 [Data](articles/1dfa7cf6.json)
 
 [Extended Data](ext_articles/1dfa7cf6.ext.json)
+
+---
+
+### ’பொருளாதார பரிமாற்ற சட்ட மூலத்துக்கு எதிர்ப்பு’
+
+*2024-05-31 02:22:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொருளாதார-பரிமாற்ற-சட்ட-மூலத்துக்கு-எதிர்ப்பு/175-338188) · `ta`
+
+நாட்டை மீண்டும் பொருளாதார நெருக்கடிக்குள் தள்ள வேண்டிய தேவை உள்ள தரப்பினர்களுக்கே பொருளாதார மாற்ற சட்டமூலத்தை எதிர்க்க முடியுமென நிதி இராஜாங்க அமைச்சர் செஹான் சேமசிங்க தெரிவித்தார்.
+
+ஜனாதிபதி ஊடக மையத்தில் நேற்று நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே செஹான் சேமசிங்க மேற்கண்டவாறு தெரிவித்தார். இதன்போது அவர் மேலும் தெரிவிக்கையில்,
+
+பொருளாதார மாற்ற சட்டமூலத்தின் ஊடாக உற்பத்தித்திறனை அதிகரித்து ஒவ்வொரு பிரஜைக்கும் சம வாய்ப்புள்ள நாடாக இலங்கையை மாற்றுவதே எமது எதிர்பார்ப்பாகும். மேலும் சிறந்த உட்கட்டமைப்பு வசதிகளைக்கொண்ட நாட்டை உருவாக்கவும் இதன் மூலம் எதிர்பார்க்கப்படுகிறது.
+
+அதேபோன்று, பொருளாதார வளர்ச்சிக்கு இணைந்த வகையில் தொழில் வாய்ப்புகளை உருவாக்குவதுடன், புத்தாக்கத்துடன் கூடிய ஏற்றுமதி விரிவாக்கப்பட்ட போட்டிச் சந்தையை உருவாக்கவும் எதிர்பார்க்கப்படுகிறது.
+
+...
+
+[Data](articles/07c47c21.json)
 
 ---
 
@@ -2069,151 +2165,5 @@ Meanwhile, Prime Minister Narendra Modi, who arrives at Thiruvananthapuram by a 
 [Data](articles/8ea68d3f.json)
 
 [Extended Data](ext_articles/8ea68d3f.ext.json)
-
----
-
-### Minister Douglas's instruction on Jaffna Teaching Hospital
-
-*2024-05-30 17:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/184888) · `ta`
-
-Minister Douglas Devananda emphasized the importance of ensuring the safety of the Jaffna Teaching Hospital and its staff, addressing concerns raised at a district coordinating committee meeting. He highlighted the need for emergency life support equipment and unobstructed vehicle access for the hospital's 5,000 daily patients. Stressing the responsibility of the community, particularly the youth, in maintaining hospital security, he also urged the public to cooperate with the police to prevent future incidents.
-
-🟩
-
-Minister Douglas Devananda has urged the people who have been involved in the safety of the Jaffna Teaching Hospital and the safety of the staff.
-
-The Jaffna District Coordinating Committee meeting was held today at the Jaffna District Coordinating Committee meeting chaired by Minister Douglas Devananda regarding the incidents at the Jaffna Teaching Hospital.
-
-The Minister of the Hospital and the police said that the Minister had addressed the matter after hearing about the action and the action taken by the police.
-
-The Director of the Jaffna Hospital, Satyamoorthy - The Hospital, at least 5000 people daily, requires a variety of emergency life insulation for the emergency patient.
-
-In addition, it is customary for those who come in a variety of vehicles and allow them to be uninterrupted.
-
-Such incidents are due to the use of a few people who use that youthful practice. At the same time, such incidents cannot be brought to a tight walk at the entrance of the emergency.
-
-...
-
-[Data](articles/45f8f684.json)
-
-[Extended Data](ext_articles/45f8f684.ext.json)
-
----
-
-### Vegetable prices are rapidly increasing
-
-*2024-05-30 17:27:38* · [`adalk`](https://www.ada.lk/breaking_news/එළවළු-මිල-සීඝ්‍රයෙන්-ඉහළට/11-409921) · `si`
-
-Due to crop damage, vegetable prices are soaring. At a press conference, Nuwara Eliya Economic Center officials discussed the impact on farmers.
-
-🟩
-
-According to the Nuwara Eliya Economic Center Trade Association officials said that due to the destruction of vegetable crops due to the destruction of vegetable crops.
-
-They were told at a special press conference organized by the Nuwara Eliya Economic Center for the discussion of vegetable prices and the issues of the present farmers.
-
-Speaking further the Chairman of the Nuwara Eliya Economic Center of Nuwara Eliya Economic Center Susil Shantha and Secretary Gunasekaran said:
-
-"The cost of prices of kilograms of cabbage is Rs.
-
-◼️
-
-[Data](articles/314e68d4.json)
-
-[Extended Data](ext_articles/314e68d4.ext.json)
-
----
-
-### Sri Lanka businesses aim to strengthen links with IORA partners
-
-*2024-05-30 17:25:00* · [`economynextcom`](https://economynext.com/sri-lanka-businesses-aim-to-strengthen-links-with-iora-partners-165456/) · `en`
-
-ECONOMYNEXT – Sri Lankan businesses have opportunities to strengthen relations with businesses in the Indian Ocean Rim Association Countries, Chairman of the Ceylon Chamber of Commerce, Duminda Hulangamuwa said.
-
-“IORA consists of countries with different sizes and shapes, different economies, and different cultural thresholds,” Hulangamuwa said at the IORA business conclave organized by the Ceylon Chamber of Commerce and the Ministry of Foreign Affairs.
-
-“However, all put together they present an enormous opportunity of investment amongst member countries.”
-
-Foreign Minister Ali Sabry said that “Sri Lanka has started trade negotiations with Malaysia and Indonesia so that we can create bigger markets for us”.
-
-“The world economy is 86 trillion. Our economy is 78 billion. If you translate that in to percentage it is 0.08. So, there is much more for Sri Lanka to gain by being part of these larger markets rather than being alone,” Minister Sabry said.
-
-...
-
-[Data](articles/2ede09c2.json)
-
-[Extended Data](ext_articles/2ede09c2.ext.json)
-
----
-
-### Monday will respond to reviews: Range Bandara
-
-*2024-05-30 17:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/184876) · `ta`
-
-Palitha Range Bandara, UNP General Secretary, plans to address criticisms about his stance on delaying elections by two years. This comes after a press conference where several allegations were made against the party. He promises to respond to all queries and concerns during a press conference next Monday.
-
-🟩
-
-United National Party General Secretary Palitha Range Bandara said that he will respond to the criticism that will now arise on my opinion on the postponement of the elections for two years.
-
-The United National Party headquarters, Sirikotha, participated in a press conference held on Thursday (30).
-
-With the country's economy to stabilize. I have stated that if the opposition leader Sajith Premadasa comes up with a proposal.
-
-At a press conference held at the United National Party (UNP) headquarters last Tuesday, various parties began making various allegations against it.. About 7 people came in front of our party office and held a massive demonstration.
-
-So if I will hold a press conference next Monday for all these issues, reviews and questions.
-
-◼️
-
-[Data](articles/49bddbdd.json)
-
-[Extended Data](ext_articles/49bddbdd.ext.json)
-
----
-
-### North Korea sent garbage in balloons to South Korea
-
-*2024-05-30 17:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/184866) · `ta`
-
-North Korea has launched over 150 balloons carrying garbage towards South Korea, marking a new confrontational strategy. The South Korean military, collaborating under UN orders, warns this act violates international law and poses safety risks, especially to airports and highways. Despite the threat, North Korea's Kim Yo Jong defends it as "freedom of expression," comparing it to South Korea's past balloon launches with propaganda. This incident underscores the ongoing tensions between the two Koreas.
-
-🟩
-
-The South Korean military has reported that North Korea has sent garbage in balloons to South Korea.
-
-The South Korean military has reported that more than 150 balloons have been carrying garbage from North Korea from Tuesday night (28) to Wednesday morning.
-
-This act is said to have adopted a new strategy to clash with its southern neighboring countries.
-
-The South Korean army has released photos of plastic pieces and paper sheets on the garbage road carrying two giant balloons and small balloons.
-
-Analyzed by government agencies as balloons have been carrying garbage within South Korea. The military collaborated on the command of the United Nations.
-
-"North Korea's actions clearly violate international law and threaten the safety of our citizens.". "All responsibilities that arise by North Korean balloons depend on North Korea, and we strongly warned that North Korea's inhumane and subordinates will be stopped immediately."South Korea said.
-
-...
-
-[Data](articles/d4568f6b.json)
-
-[Extended Data](ext_articles/d4568f6b.ext.json)
-
----
-
-### CoPF calls for prioritizing ‘accurate poverty verification criteria’ to select “Aswesuma” beneficiaries
-
-*2024-05-30 17:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/99547/copf-calls-for-prioritizing-accurate-poverty-verification-criteria-to-select-aswesuma-beneficiaries-) · `en`
-
-The Committee on Public Finance (CoPF) has directed the officials of the Welfare Benefits Board to prioritise the criteria that can be verified and determined in order to accurately identify poverty while selecting the “Aswesuma” beneficiaries.
-
-Drawing examples, the committee pointed out that individual poverty can be identified better based on the electricity bill amount considering the electricity units consumed in each home, the Parliamentary Communications Department said in a statement.
-
-The committee pointed out that there are major problems and lack of formality in the criteria used in the selection of “Aswesuma” beneficiaries, and advised them to rectify it as soon as possible. The officials of the Ministry of Finance told the committee that they will change the method of giving points that is currently used in the selection of relief beneficiaries.
-
-...
-
-[Data](articles/83d22340.json)
-
-[Extended Data](ext_articles/83d22340.ext.json)
 
 ---

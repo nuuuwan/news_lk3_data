@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-31 14:56:09**
+As of **2024-05-31 14:34:25**
 
 ## Newspaper Stats
 
-*Scraped **27,520** Articles*
+*Scraped **27,515** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,56 +17,20 @@ economynextcom | 1,572
 dailyftlk | 1,612
 adalk | 2,349
 adaderanalk | 3,132
-tamilmirrorlk | 3,228
+tamilmirrorlk | 3,227
 virakesarilk | 4,242
-dailymirrorlk | 4,355
-adaderanasinhalalk | 4,393
+dailymirrorlk | 4,354
+adaderanasinhalalk | 4,390
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,515 (100.0%) of 27,520 articles have been extended.
+27,509 (100.0%) of 27,515 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-31 (Friday)
-
-### මෝදි පැය 45ක භාවනාවක
-
-*2024-05-31 14:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197211) · `si`
-
-ඉන්දීය අගමැති නරේන්ද්‍ර මෝදි පැය 45ක භාවනාවක් ආරම්භ කර තිබේ.
-
-ඒ 1892 වර්ෂයේදී ඉන්දීය දාර්ශනික ස්වාමි විවේකානන්ද තපස් වැඩූ කන්‍යකුමාරිහි විවේකානන්ද ගිරිකුළ අනුස්මරණ භාවනා මධ්‍යස්ථානයේදීය.
-
-අගමැති මෝදී හෙට සවස් කාලය තෙක් මෙලෙස භවනානුයෝගීව සිටීමට නියමිත අතර ඉන්දීය මහ මැතිවරණය අවසන් වීමට නියමිතව ඇත්තේ ද හෙට (01) දිනයේදී වීම විශේෂත්වයකි.
-
-◼️
-
-[Data](articles/112fa717.json)
-
----
-
-### 14 வயதுடைய 3 சிறுமிகள் மாயம்; பொலிஸார் வெளியிட்ட செய்தி
-
-*2024-05-31 14:28:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/14-வயதுடைய-3-சிறுமிகள்-மாயம்-பொலிஸார்-வெளியிட்ட-செய்தி/175-338199) · `ta`
-
-கம்பஹா - யக்கல பிரதேசத்தில் 14 வயதுடைய மூன்று மாணவிகள் நேற்று முதல் காணாமல் போயுள்ளதாக யக்கல மற்றும் வீரகுல பொலிஸார் தெரிவித்துள்ளனர்.
-
-காணாமல் போன மூன்று மாணவர்களும் கம்பஹா யக்கல பிரதேசத்தில் உள்ள பாடசாலை ஒன்றில் 9ஆம் தரத்தில் கல்வி கற்கும் நண்பர்கள் என தெரிவிக்கப்படுகிறது.
-
-இவர்கள் மூவரும் கடந்த புதன்கிழமை இரவு வரை வீட்டிற்கு வரவில்லை என தெரிவித்து பெற்றோர் இந்த முறைப்பாட்டை பதிவு செய்துள்ளனர்.
-
-காணாமல் போன மூன்று மாணவர்கள் தொடர்பில் எவ்வித தகவலும் கிடைக்கவில்லை எனவும் பொலிஸார் தெரிவித்துள்ளனர்.
-
-மேலும் இது தொடர்பில் சிறுவர் - பெண்கள் பணியகம் மற்றும் வீரகுல காவல்துறையினர் மேலதிக விசாரணைகளை முன்னெடுத்துள்ளனர். R
-
-◼️
-
-[Data](articles/5ff7fc98.json)
-
----
 
 ### Memorial service held in remembrance of late French Ambassador
 
@@ -81,8 +45,6 @@ Foreign Minister Ali Sabry and a larger group of Ambassadors and High Commission
 ◼️
 
 [Data](articles/37d85b15.json)
-
-[Extended Data](ext_articles/37d85b15.ext.json)
 
 ---
 
@@ -106,32 +68,6 @@ He was originally left out of Nepal's 15-man squad for the tournament, which wil
 
 [Data](articles/791d0e9c.json)
 
-[Extended Data](ext_articles/791d0e9c.ext.json)
-
----
-
-### මිදිගම රුවන් කළ අපරාධ ගැන ප්‍රශ්න කරයි
-
-*2024-05-31 14:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197210) · `si`
-
-ඩුබායි හිදී අත්අඩංගුවට ගත් ජාත්‍යන්තර මත්ද්‍රව්‍ය ජාලයට සම්බන්ධ මිදිගම රුවන් නමැති සංවිධානාත්මක අපරාධ කල්ලි සාමාජිකයා ත්‍රස්ත විමර්ශන කොට්ඨාසයේ නිලධාරීන් විසින් අද (31) අලුයම දිවයිනට රැගෙන ආවේය.
-
-අනතුරුව ඔහුව කොළඹ පිහිටි ත්‍රස්ත මර්දන කොට්ඨාසය වෙත රැගෙන ආ අතර මේ වන විට ඔහුගෙන් ප්‍රශ්න කරමින් ඇති බව වාර්තා වෙයි.
-
-මිදිගම රුවන් මීට මසකට පමණ ඉහතදී ඩුබායි රාත්‍රී සමාජ ශාලාවක ඇතිවූ ගැටුමක් හේතුවෙන් එරට පොලීසිය මගින් අත්අඩංගුවට  ගෙන තිබුණි.
-
-ඒ ඔහුට එරෙහිව ජාත්‍යන්තර පොලීසිය මගින් රතු නිවේදන නිකුත්කර තිබියදීය.
-
-මිදිගම රුවන් 2022 වසරේ අගෝස්තු 4 වනදා ගල්කිස්ස අධිකරණයේදී පුද්ගලයෙකුට වෙඩිතැබීමේ සිද්ධියේ ප්‍රධාන සැලසුම්කරු ලෙස නම් කෙරුණු අතර අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ මහජන පැමිණිලි අංශය ඔහුට එරෙහිව රතු නිවේදන නිකුත් කරන ලෙස ඉල්ලා තිබුණේ ඒ අනුවය.
-
-ඔහු අත්අඩංගුවට පත්වන අවස්ථාවේ කොස්ගොඩ සුජී නමැති අපරාධකරුද ඔහු සමග සිට ඇති බව වාර්තා වෙයි.
-
-රුවන්, නඳුන් චින්තක නොහොත් හරක් කටාගේ බිරිඳගේ සහෝදරයාද වන අතර ඔහුගේ උපදෙස් මත සිදුකළ අපරාධ රැසකම මහමොළකරු ලෙස කටයුතු කර තිබේ.
-
-...
-
-[Data](articles/61f906c9.json)
-
 ---
 
 ### Proposed Electricity Bill will unbundle CEB services, guarantee quality supply: Kanchana
@@ -147,40 +83,6 @@ The Minister said the proposed three-year reform timeline will also enable to es
 ...
 
 [Data](articles/b934d6dd.json)
-
-[Extended Data](ext_articles/b934d6dd.ext.json)
-
----
-
-### In remembrance of French Ambassador...
-
-*2024-05-31 14:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/In-remembrance-of-French-Ambassador/110-283803) · `en`
-
-A memorial service in remembrance of the late Ambassador Jean-François Pactet of France to Sri Lanka was held at St. Mary’s Church, Lauries Road,  Colombo 04 this morning.Pix by Nimalsiri Edirisinghe
-
-◼️
-
-[Data](articles/09e427d0.json)
-
----
-
-### ස්කයි මැගෝවන්ගේ බෑග් එක ඉස්සූ සැකකරු ඇල්ලූ මෙහෙයුම
-
-*2024-05-31 13:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197209) · `si`
-
-ශ්‍රී ලංකාව පිළිබඳව සංචාරක වීඩියෝවක් සකස් කිරීමේ අරමුණින් මෙරටට පැමිණ සිටින එංගලන්ත ජාතික තරුණියගේ බෑගය සොරකම් කළ සැකකරු කැලණිය, පෙතියාගොඩ ප්‍රදේශයේ සැඟවී සිටියදී පොලිස් අත්අඩංගුවට පත්වුණි.
-
-26 හැවිරිදි සැකකරු මීට පෙරද මෙවන් සොරකම් රැසක් සම්බන්ධයෙන් පොලීසියට අවශ්‍ය කර සිටි සැකකරුවෙකි.
-
-Under The Same Skye නමින් යූ ටියුබ් චැනලයක් පවත්වාගෙන යන ස්කයි මැගෝවන් නම් ඔස්ට්‍රේලියාවේ වාසය කරන එංගලන්ත ජාතික තරුණියක් පසුගිය මැයි 24 වැනිදා මෙරටට පැමිණ තිබුණේ ශ්‍රී ලංකාව පිළිබඳ වීඩියෝවක් සකස් කිරීමේ අරමුණිනි.
-
-දුම්රියෙන් ඇල්ල බලා යාම සඳහා ඇය කොටුව දුම්රිය ස්ථානය වෙත ගියද පැවති අයහපත් කාලගුණය හේතුවෙන් දුම්රිය අවලංගු වීම නිසා ඇය බසයෙන් ඇල්ල බලා යාමට බැස්ටියන් මාවත බස් නැවතුම්පොළට පැමිණි අවස්ථාවේදී බසයේ සිටි පුද්ගලයින් දෙදෙනෙකු ඇගේ බෑගය සොරාගෙන තිබුණි.
-
-ස්කයි මැගෝවන් එදින ප්‍රකාශ කළේ, තම බෑගය සොයා දෙන හෝ ඒ පිළිබඳ තොරතුරුක් ලබාදෙන අයෙකුට අමෙරිකානු ඩොලර් පන්දහසක් එනම් රුපියල් ලක්ෂ 15ක මුදල් ත්‍යාගයක් ලබාදෙන බවය.
-
-...
-
-[Data](articles/a43d4330.json)
 
 ---
 
@@ -199,8 +101,6 @@ Investigations revealed that the tourist, a YouTuber had arrived in Sri Lanka to
 ◼️
 
 [Data](articles/9839d269.json)
-
-[Extended Data](ext_articles/9839d269.ext.json)
 
 ---
 
@@ -2139,5 +2039,109 @@ He said that before the rainy weather began, the hydraulic power generation was 
 [Data](articles/a0f76567.json)
 
 [Extended Data](ext_articles/a0f76567.ext.json)
+
+---
+
+### Indian arrest with illegal cigarettes
+
+*2024-05-31 00:57:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சட்டவிரோத-சிகரெட்டுகளுடன்-இந்தியர்-கைது/175-338184) · `ta`
+
+An Indian national was arrested at Katunayake airport in Sri Lanka for smuggling approximately 3 lakh rupees worth of illegal cigarettes. The 31-year-old suspect was detained as part of a police operation targeting drug trafficking.
+
+🟩
+
+An Indian foreign citizen who brought illegal cigarettes to Sri Lanka has been arrested at the Katunayake airport.
+
+The suspect has been arrested during a roundup conducted by the Katunayake Division of the Police Drug Eradication Unit.
+
+A 31 -year -old Indian citizen has been arrested on suspicion.
+
+The value of the cigarettes he brought illegally has been revealed to be about 3 lakh rupees. (A)
+
+◼️
+
+[Data](articles/96fef550.json)
+
+[Extended Data](ext_articles/96fef550.ext.json)
+
+---
+
+### The US,  Zionism and moral depravity
+
+*2024-05-31 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/The-US-Zionism-and-moral-depravity/172-283733) · `en`
+
+“Finish them,” failed Republican Party presidential candidate Nikki Haley writes on a shell Israel will use to kill children and civilians in Gaza
+
+As Israel’s genocidal campaign in the Gaza Strip enters its eighth month, more and more people around the world realise that Zionism is an evil ideology. If Zionism is not denounced and eradicated, similar to how the world dealt with Nazism after World War II, nations may soon find themselves dependent on this destructive ideology for their survival.
+
+The day Zionism is defeated is the victory day for humanism and humanity.
+
+...
+
+[Data](articles/28a054dd.json)
+
+[Extended Data](ext_articles/28a054dd.ext.json)
+
+---
+
+### Lies used in the name of transforming a nation
+
+*2024-05-31 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Lies-used-in-the-name-of-transforming-a-nation/172-283728) · `en`
+
+When we think of elections in Sri Lanka we are forced to think of marriages as well. This is largely because the incumbent President Ranil Wickremesinghe has decided to contest the upcoming presidential elections as an independent candidate with the support of a strong alliance. These are days when we see many promises being made on the political scene by ambitious individuals. People on this ‘sun-kissed island’ are used to this bluff, but sadly they aren’t immune to being fooled time and time again.
+
+...
+
+[Data](articles/63622eac.json)
+
+[Extended Data](ext_articles/63622eac.ext.json)
+
+---
+
+### 2024-05-30 (Thursday)
+
+### Chronic kidney disease: Cases now drop due to purified water
+
+*2024-05-30 23:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Chronic-kidney-disease-Cases-now-drop-due-to-purified-water/108-283721) · `en`
+
+May 30 - Deputy Director General of  Beijing Center for Disease Control and Prevention Professor Quanyi Wang said that the Chinese Academy of Sciences (CAS) has been providing necessary guidance and support to tackle the Chronic Kidney Diseases of Unknown Etiology  (CKDU) since 2015.
+
+Professor Wang was making a presentation on ‘The Chinese project investigating the causes of CKDu and its research progress during the  CKDU knowledge sharing and collaboration workshop held at the Joint Research and Demonstration Center in Peradeniya recently.
+
+The National Institute of Kidney Diseases and  Urology (NIKDU) organized the workshop in collaboration with the Chinese Academy of Sciences.
+
+He said that various government departments and institutions have been provided support by the Chinese government in tackling the Chronic Kidney Disease which is  prevailing in some parts of Sri Lanka.
+
+...
+
+[Data](articles/4e1fa95c.json)
+
+[Extended Data](ext_articles/4e1fa95c.ext.json)
+
+---
+
+### CT scan machine that has been damaged for months!Patients are severe!
+
+*2024-05-30 23:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/184910) · `ta`
+
+Vavuniya General Hospital's sole CT scanner has been malfunctioning for months, forcing patients to seek scans in distant hospitals like Polonnaruwa and Jaffna. The machine, after a brief repair, was damaged again, exacerbating the crisis. Patients face significant delays and additional expenses due to this issue.
+
+🟩
+
+The CT scan engine at the Vavuniya General Hospital has been infected with patients and has been suffering from a shortage of patients for the past few months.
+
+There is only one CT machine at Vavuniya General Hospital. It has been ripe for the past few months. Patients who need to take CT scan are sent to Polonnaruwa and Jaffna Teaching Hospitals.
+
+For a patient, one must travel in the patient's nurses. This results in waste costs not only of time. There is also a shortage of patients in the hospital. People have to wait for that.
+
+Meanwhile, a few days ago, the machine was revised. It was again damaged that day.
+
+The CT machine has been accused of not being rushed to the hospital in retaining it and engaging in a steady operation.
+
+◼️
+
+[Data](articles/2bb635d8.json)
+
+[Extended Data](ext_articles/2bb635d8.ext.json)
 
 ---

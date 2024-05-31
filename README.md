@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-31 20:18:55**
+As of **2024-05-31 20:34:07**
 
 ## Newspaper Stats
 
-*Scraped **27,584** Articles*
+*Scraped **27,587** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,79 @@ islandlk | 1,488
 economynextcom | 1,575
 dailyftlk | 1,612
 adalk | 2,356
-adaderanalk | 3,140
+adaderanalk | 3,141
 tamilmirrorlk | 3,234
 virakesarilk | 4,260
-dailymirrorlk | 4,366
-adaderanasinhalalk | 4,402
+dailymirrorlk | 4,367
+adaderanasinhalalk | 4,403
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,583 (100.0%) of 27,584 articles have been extended.
+27,584 (100.0%) of 27,587 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-31 (Friday)
+
+### පාතාලේ දෙමස්සිනාලා එක්ව කළ අපරාධ සියල්ල හෙළිවෙයි
+
+*2024-05-31 20:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197222) · `si`
+
+සංවිධානාත්මක අපරාධ කල්ලි සාමාජකයෙකු සහ මත්ද්‍රව්‍ය ජාවාරම්කරුවෙකු වන ජයසේකර විතානගේ රුවන් චාමර නොහොත් මිදිගම රුවන් නැමැත්තා ඩුබායිහි සිට අද (31) දිවයිනට රැගෙන එනු ලැබීය‍.
+
+ඔහු රැගෙන එනු ලැබුවේ ඒ සඳහා ඩුබායි රාජ්‍ය බලා ඊයේ (30) පිටත්ව ගිය ත්‍රස්ත මර්දන කොට්ඨාස නිලධාරී කණ්ඩායමක් විසිනි.
+
+කටුනායක ගුවන්තොටුපොළේ පිහිටි අපරාධ පරීක්ෂණ දෙපාර්තමේන්තු ඒකකය තුළ සැකකරු කෙටි වේලාවක් රඳවාගෙන මූලික ප්‍රශ්න කිරීම් සිදුකර තිබේ.
+
+අනතුරුව ඔහු කොළඹ ත්‍රස්ත මර්දන කොට්ඨාසය වෙත රැගෙන ආ අතර මේ වන විට ඔහුගෙන් ප්‍රශ්න කරමින් සිටින බව වාර්තා වේ.
+
+මිදිගම රුවන් මීට මසකට පමණ ඉහතදී ඩුබායීහී රාත්‍රී සාමාජ ශාලාවක ඇතිවූ ගැටුමක් හේතුවෙන් එරට පොලීසිය මගින් අත්අඩංගුවට ගෙන තිබුණි.
+
+ඒ ඔහුට එරෙහිව ජාත්‍යන්තර පොලීසිය මඟින් රතු නිවේදන නිකුත්කර තිබියදීය.
+
+සැකකරු 2022 වසරේ අගෝස්තු 4 වනදා ගල්කිස්ස අධිකරණයේදී පුද්ගලයෙකුට වෙඩිතැබීමේ සිද්ධියේ ප්‍රධාන සැලසුම්කරු ලෙස නම් කෙරුණු අතර අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ මහජන පැමිණිලි අංශය ඔහුට එරෙහිව රතු නිවේදන නිකුත් කරන ලෙස ඉල්ලා තිබුණේ ඒ අනුවය.
+
+...
+
+[Data](articles/0afbeca5.json)
+
+---
+
+### Sri Lanka moves closer to ‘Starlink’ implementation: TRCSL prepares for crucial talks
+
+*2024-05-31 20:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/99570/sri-lanka-moves-closer-to-starlink-implementation-trcsl-prepares-for-crucial-talks) · `en`
+
+The Telecommunication Regulatory Commission of Sri Lanka (TRCSL) is expected to meet next week for further discussions pertaining to the formal authorization and implementation of the “Starlink” service in Sri Lanka, the State Minister of Technology Kanaka Herath says.
+
+Speaking to Ada Derana, the State Minister who stated that no company of this nature operates in Sri Lanka so far, also highlighted that steps are being taken to explore the regulations and the legal framework required to facilitate its operations.
+
+The State Minister further said: “We will be looking at the nature of the license that will be granted to Starlink. The Telecommunication Regulatory Commission will be meeting next week.”
+
+“The commission’s final decision will be presented to the president”, he added.
+
+...
+
+[Data](articles/4698a2f6.json)
+
+---
+
+### Young Sri Lankan golfer Kaya triumphs at Nepal Open Golf Tourney
+
+*2024-05-31 19:58:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Young-Sri-Lankan-golfer-Kaya-triumphs-at-Nepal-Open-Golf-Tourney/108-283820) · `en`
+
+May 31 - Young Sri Lankan golfer, Kaya Daluwatte claimed the top position at the 10th Nepal Amateur Open Golf Championship 2024, which concluded in Kathmandu, Nepal today.
+
+Kaya was in sparkling form, displaying her exceptional skills throughout the tournament, finishing with a final day score of four under par with a score of 68. First day, she was one under with a score of 71 while on day two also she repeated the same score. Her impressive performance was highlighted by five birdies and one eagle, showcasing her accuracy and precision on the course.
+
+Daluwatte maintained consistency across all three days, carding scores of 71, 71, and 68 and claiming her lead over the other competitors. Meanwhile, Indian golfers secured the second and third positions.
+
+◼️
+
+[Data](articles/0ca8aa1f.json)
+
+---
 
 ### Minister of State for Higher Education Dr. Suren Raghavan
 
@@ -160,23 +218,29 @@ Aruna Darshana in the men's 400m race, Nadisha Ramanayake, Nadisha Ramanayake, T
 
 ---
 
-### මාලදිවයින් විදේශ කටයුතු අමාත්‍යවරයා ශ්‍රී ලංකාවේ සංචාරයක
+### Maldives Foreign Minister visits Sri Lanka
 
 *2024-05-31 19:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197221) · `si`
 
-මාලදිවයින් විදේශ කටයුතු අමාත්‍ය මූසා සමීර් මහතා මෙරට සිව්දින සංචාරයක නිරත වීමට නියමිතව තිබේ.
+Maldives' Foreign Minister Moses Same will visit Sri Lanka from June 3rd to 6th, meeting President Ranil Wickremesinghe, Prime Minister Dinesh Gunawardena, and Foreign Minister Ali Sabri. The visit includes bilateral discussions and participation from senior officers.
 
-මාලදිවයින් විදේශ කටයුතු අමාත්‍යවරයා ලබන ජූනි මස 03 වනදා සිට 06 වනදා දක්වා මෙරට නිල සංචාරයක නිරත වීමට නියමිත බව විදේශ කටයුතු අමාත්‍යංශය පැවසුවේය.
+🟩
 
-මෙම සංචාරයේදී මාලදිවයින් විදේශ අමාත්‍යවරයා ජනාධිපති රනිල් වික්‍රමසිංහ සහ අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන යන මහත්වරුන් සමඟ සාකච්ඡා පැවැත්වීමට නියමිතය.
+Maldives External Affairs Minister Moses Same is due to visit four four days.
 
-මීට අමතරව මාලදිවයින් විදේශ අමාත්‍යවරයා සහ ඔහුගේ දූත පිරිස විදේශ කටයුතු අමාත්‍යාංශයේදී විදේශ අමාත්‍ය අලි සබ්රි මහතා සමඟ ද්විපාර්ශ්වික සාකච්ඡා පැවැත්වීමට ද නියමිතව තිබේ.
+The Maldives Foreign Minister is scheduled to visit the country from June 3 to 6th to the 6th.
 
-මෙම සංචාරය සඳහා මාලදිවයින් විදේශ අමාත්‍ය සමීර් මහතා සමඟ මාලදිවයින් විදේශ කටයුතු අමාත්‍යාංශයේ ජ්‍යේෂ්ඨ නිලධාරීන් පිරිසක් ද සහභාගී වීමට නියමිතය.
+The Maldives Foreign Minister will hold talks with President Ranil Wickremesinghe and Prime Minister Dinesh Gunawardena.
+
+In addition, the Maldivian Foreign Minister and his delegation are also scheduled to hold bilateral discussions with Foreign Minister Ali Sabri.
+
+A group of Senior Officers of the Maldives External Affairs Sameer is also participating in the visit.
 
 ◼️
 
 [Data](articles/03e4d265.json)
+
+[Extended Data](ext_articles/03e4d265.ext.json)
 
 ---
 
@@ -2209,61 +2273,5 @@ A suspect has been arrested in connection with theft of a foreign national girl'
 [Data](articles/0c5f8a42.json)
 
 [Extended Data](ext_articles/0c5f8a42.ext.json)
-
----
-
-### Suspect arrested for stealing foreign tourist’s bag in bus
-
-*2024-05-31 09:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/99556/suspect-arrested-for-stealing-foreign-tourists-bag-in-bus) · `en`
-
-An individual who allegedly stole a bag, containing foreign currency and valuables worth around Rs. 2.5 million, belonging to a female foreign tourist while on a private bus in Pettah, Colombo, has been arrested by the police in Pethiyagoda, Kelaniya.
-
-Police have recovered the stolen items, including a laptop computer, camera, bank cards, and the tourist’s passport.
-
-The tourist, a YouTuber, had visited to Sri Lanka to make a travel video and was on her way to Ella when the incident occurred. She had placed her bag on a bus in Bastian Mawatha, Pettah, when the suspect in question had left behind his own bag and stole hers.
-
-Police arrested the suspect after identifying him through informants and CCTV footage from the bus. The 31-year-old suspect is a resident of Pethiyagoda, Kelaniya, police noted.
-
-◼️
-
-[Data](articles/a1619583.json)
-
-[Extended Data](ext_articles/a1619583.ext.json)
-
----
-
-### A man was found dead at a liquor station
-
-*2024-05-31 09:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/184924) · `ta`
-
-A 37-year-old man named Hali-Ela from Boghamathitha was found dead in his liquor bar by Bibil police. He was killed with an iron rod during a dispute with another employee.
-
-🟩
-
-The body of a man in a liquor bar was found by Bibil police yesterday morning.
-
-The deceased has been identified as a 37 -year -old Hali -Ela, Boghamathitha.
-
-The body recovered has run a liquor bar. Investigations have revealed that the employee was assassinated by an iron rod following a dispute with a employee at the liquor station.
-
-◼️
-
-[Data](articles/ec90637c.json)
-
-[Extended Data](ext_articles/ec90637c.ext.json)
-
----
-
-### Democracy Is Founded On Elections: Lawyers Collective Condemns Range Bandara’s Statement
-
-*2024-05-31 09:43:25* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/democracy-is-founded-on-elections-lawyers-collective-condemns-range-bandaras-statement/) · `en`
-
-The Lawyers Collective condemns the statement of UNP General Secretary Range Bandara, made on 30th May 2024, suggesting at a formal press conference at the head office of the United National Party, that by a public referendum the term of this President and this Parliament be extended for two more years in order to “save the nation”. This was followed by vague statements from the President, the leader of the UNP and members of the UNP merely dismissing such statements as the personal views of their own General Secretary.
-
-...
-
-[Data](articles/a4add39f.json)
-
-[Extended Data](ext_articles/a4add39f.ext.json)
 
 ---

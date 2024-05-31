@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-01 01:04:02**
+As of **2024-06-01 01:18:42**
 
 ## Newspaper Stats
 
-*Scraped **27,638** Articles*
+*Scraped **27,644** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 273
 newsfirstlk | 363
 islandlk | 1,488
 economynextcom | 1,583
-dailyftlk | 1,627
+dailyftlk | 1,633
 adalk | 2,360
 adaderanalk | 3,143
 tamilmirrorlk | 3,236
@@ -26,11 +26,113 @@ adaderanasinhalalk | 4,409
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,638 (100.0%) of 27,638 articles have been extended.
+27,638 (100.0%) of 27,644 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-01 (Saturday)
+
+### Iraq encourages re-establishment of Lankan embassy to boost diplomatic and economic ties
+
+*2024-06-01 01:02:16* · [`dailyftlk`](https://www.ft.lk/business/Iraq-encourages-re-establishment-of-Lankan-embassy-to-boost-diplomatic-and-economic-ties/34-762477) · `en`
+
+Chargé d’Affairs of Embassy Mohammed Obaid Jabur Zahir Al-Masoudi says reopening embassy helps to address visa issues, improve trade relations
+
+Encourages Sri Lankan investors to explore business opportunities in Baghdad and Kurdistan
+
+Praises Sri Lanka’s progress towards economic stability, reaffirms Iraq’s commitment to supporting economic development
+
+Trade Minister Nalin Fernando outlines economic situation, stresses need for international support across various sectors
+
+Highlights importance of international partnerships in fostering economic recovery and growth
+
+Chargé d’Affairs of the Embassy of the Republic of Iraq in Sri Lanka Mohammed Obaid Jabur Zahir Al-Masoudi encouraged the re-establishment of a Sri Lankan embassy in Iraq, to strengthen diplomatic and economic engagement between the two countries.
+
+He said the move is seen as a crucial step in addressing visa issues and smoother trade relations.
+
+...
+
+[Data](articles/42d58f8e.json)
+
+---
+
+### Siyambalapitiya says Cabinet approves Rs. 5 b to settle statutory allowance arrears to plantation workers
+
+*2024-06-01 01:01:30* · [`dailyftlk`](https://www.ft.lk/business/Siyambalapitiya-says-Cabinet-approves-Rs-5-b-to-settle-statutory-allowance-arrears-to-plantation-workers/34-762476) · `en`
+
+State Minister of Finance Ranjith Siyambalapitiya has announced that the Cabinet on Monday approved a proposal to settle Rs. 5 billion in arrears of provident funds and employees’ trust funds, including interest, for State-run estate employees.
+
+He said the decision follows guidance and instructions from President Ranil Wickremesinghe.
+
+“This comprehensive settlement aims to rectify the financial neglect experienced by estate workers and their families,” he added.
+
+...
+
+[Data](articles/40ee6eb8.json)
+
+---
+
+### Foreign Minister inaugurates IORA Business Conclave
+
+*2024-06-01 01:00:08* · [`dailyftlk`](https://www.ft.lk/business/Foreign-Minister-inaugurates-IORA-Business-Conclave/34-762475) · `en`
+
+Foreign Affairs Minister M.U.M. Ali Sabry in his capacity as the current Chair of the Indian Ocean Rim Association (IORA) inaugurated the “IORA Business Conclave” on 28 May at the Shangri-La Hotel in Colombo.
+
+The Business Conclave under the theme “Sustaining Growth – Bridging Horizons” was organised by the Ceylon Chamber of Commerce as the current Chair of the IORA Business Forum (IORBF) in collaboration with the Ministry of Foreign Affairs from 28-29 May. Over 80 participants from the business fraternity across the IORA region participated in the Conclave. This is the highest number of participants recorded at an IORA Business Conclave.
+
+...
+
+[Data](articles/ea2af0c8.json)
+
+---
+
+### Business opportunities with credit facilities for new female entrepreneurs
+
+*2024-06-01 00:59:18* · [`dailyftlk`](https://www.ft.lk/business/Business-opportunities-with-credit-facilities-for-new-female-entrepreneurs/34-762474) · `en`
+
+Measures to increase total egg production of the country by increasing poultry farming industry at rural level
+
+5,000 people in Seethawaka area benefit from program for distribution of incubators
+
+Another phase of the program for the distribution of incubators aimed at strengthening the rural economy and uplifting the small-scale poultry farm owners was held this week at Seethawaka Pradeshiya Sabha under the patronage of Prime Minister Dinesh Gunawardena.
+
+Through an incubator, which is provided under the assistance of the Chinese Government, direct income sources will be opened for five families and many families in the villages related to those families will get its indirect benefits. The objective of this program is to improve income generation, improve nutrition intake of families, improve general egg production in the country, and create a self-sufficient home garden at the household level. 5,000 people will benefit from this program which was started at Seethawaka.
+
+...
+
+[Data](articles/f66d970c.json)
+
+---
+
+### Celebration of International Tea Day in Istanbul
+
+*2024-06-01 00:58:17* · [`dailyftlk`](https://www.ft.lk/business/Celebration-of-International-Tea-Day-in-Istanbul/34-762473) · `en`
+
+Beta Tea, claimed to be the 12th largest tea company in the world, in collaboration with the Embassy of Sri Lanka in Ankara, hosted the “Beta International Tea and Culture Festival from 21-24 May at Beta Yeni Han in Istanbul, Türkiye. This was the first time that Beta Tea organised such a cultural festival in Türkiye.
+
+The event was organised to celebrate the inclusion of Turkiye’s tea culture to the list of UNESCO intangible cultural heritages in 2022 and to mark the 100th anniversary of the commencement of tea cultivation in Türkiye.
+
+Honorary Consul for Sri Lanka in the Mediterranean Region, Adana, Beşir Uğur founded the Beta Tea in 1987 with bulk tea importation from Sri Lanka and packaging, and reselling in Türkiye as well as abroad.
+
+...
+
+[Data](articles/55f4c9cf.json)
+
+---
+
+### SLASSCOM champions awareness, education, and industry collaboration to combat WhatsApp scams
+
+*2024-06-01 00:57:16* · [`dailyftlk`](https://www.ft.lk/business/SLASSCOM-champions-awareness-education-and-industry-collaboration-to-combat-WhatsApp-scams/34-762472) · `en`
+
+As the digital landscape evolves and cybercriminals adapt their tactics to exploit individuals and businesses, WhatsApp has become a prime target for scammers using deceptive technique to defraud users. In response, SLASSCOM, Sri Lanka’s leading IT/BPM industry body, has taken a lead role in championing awareness, education and Industry collaboration to combat these scams.
+
+CSCx Forum at SLASSCOM Head Sithira Wanniarachchi, said that common tactics scammers deploy include the impersonation of renowned brands or individuals, and in manufacturing fake emergencies to induce immediate responses, tempting users with unbelievable offers or prizes and utilising links to pilfer personal information. He explained that while WhatsApp scams can target any sector, industries such as financial services, online shopping, and tech support are particularly vulnerable due to the potential for financial gain.
+
+...
+
+[Data](articles/9711de51.json)
+
+---
 
 ### Sabry meets Russian envoy to discuss Sri Lankans in Ukraine conflict
 
@@ -469,6 +571,28 @@ Hadunnetti said a publicity stunt is being operated through a separate company b
 [Data](articles/006c2f3a.json)
 
 [Extended Data](ext_articles/006c2f3a.ext.json)
+
+---
+
+### The first look poster of the 'Nagendran Honeymoon' Internet series starring Suraj Venjaramudu
+
+*2024-05-31 22:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/184977) · `ta`
+
+The first look of "Nagendran's Honeymoon," a new internet series featuring Suraj Venjaramudu, has been unveiled. Directed by Nithin Ranji Municipality, it also stars Grace Antony, Shivata Menon, Kani Kusruti, among others. The series, combining comedy and action, is set to premiere on Disney Plus Hot Star.
+
+🟩
+
+The first look of the new original internet series 'Nagendran's Honeymune', which plays the lead role in the lead role in the Malayalam film industry, has been released.. The Internet series will soon be released at the leading digital site Disney Plus Hot Star.
+
+Directed by director Nithin Ranji Municipality, 'Nagendran's Honeymune', Suraj Venjaramudu, Grace Antony, Shivata Menon, Kani Kusruti, Albi Pancharan, Niranjana Anoop, Prashant Alexander, Ammu Abirami, Ramesh Pishajan. Nikhil S.. Renjin Raj has composed the film, which has been recorded by Praveen. The web series is co -produced by MGC Private Limited and Nithin Ranji Machikar Productions for Disney Plus Hotstar.
+
+The Internet series, which is combined with stomach shaking comedy + action turns, will soon be released on a digital site, Disney Plus Hot Star.
+
+◼️
+
+[Data](articles/df93c611.json)
+
+[Extended Data](ext_articles/df93c611.ext.json)
 
 ---
 
@@ -972,29 +1096,9 @@ Daluwatte maintained consistency across all three days, carding scores of 71, 71
 
 ---
 
-### Followan Intelligence Officer Lieutenant K Colonel Muthalif 19
-
-*2024-05-31 19:46:23* · [`adalk`](https://www.ada.lk/opinion/ක‍ිර්තිමත්-බුද්ධි-අංශ-නිලධාරී-ලුතිනන්-කර්නල්-මුතාලිෆ්-ඝාතනයට-වසර-19/2-409946) · `si`
-
-Intelligence officers like Lt. Col. Muthalif play a crucial role in national security, protecting both the leadership and the populace. Muthalif, a key figure in military intelligence, faced threats due to his efforts against the LTTE. Despite these dangers, he continued his service, contributing significantly to weakening the LTTE. His dedication and bravery were recognized nationally, highlighting his importance in the fight against terrorism and his impact on national unity.
-
-🟩
-
-Since all war heroes who have committed to the nation's warfare to protect the country, the intelligence of such war soldiers, or angrout, is a great deal of national security in the country.A military intelligence in a country is working on the state ruler and the entire masses.. They have been sworn in not only to protect the leadership but also to protect their homeland with the overall people.
-
-Evaniasaya, a major link of such intelligence, was to go to the war heroair to go to the war heroair to be able to go to the brumy three years. At that time, the highest officer in the Army was a shocked by the highest officer in the Army and the international army, violating the terms of the government and LTTE.. Major Muthalif, who served as the commander of the Sri Lanka Army's First Brigade, was on his way to the car in the car.The demise of such strategic intelligence was an incident that caused everyone in this country.
-
-...
-
-[Data](articles/31e5c0bf.json)
-
-[Extended Data](ext_articles/31e5c0bf.ext.json)
-
----
-
 ### Minister of State for Higher Education Dr. Suren Raghavan
 
-*2024-05-31 19:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/184999) · `ta`
+*2024-05-31 19:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/184999) · `ta`
 
 Dr. Suren Raghavan, Higher Education Minister, announced plans to meet with striking non-academic staff unions to address their demands, emphasizing the government's readiness to offer a solution. The strike, affecting student learning and costing around 150 million rupees daily, highlights the urgency for resolution. Discussions with finance officials aim to cover the estimated 1.1 billion rupee requirement for salary increases over six months. Raghavan stresses the importance of finding a suitable solution amidst economic challenges and the need for higher education reform aligning with global trends.
 
@@ -1013,6 +1117,26 @@ Minister of Higher Education Suren Raghavan made this statement at a media brief
 [Data](articles/c91cb4f4.json)
 
 [Extended Data](ext_articles/c91cb4f4.ext.json)
+
+---
+
+### Followan Intelligence Officer Lieutenant K Colonel Muthalif 19
+
+*2024-05-31 19:46:23* · [`adalk`](https://www.ada.lk/opinion/ක‍ිර්තිමත්-බුද්ධි-අංශ-නිලධාරී-ලුතිනන්-කර්නල්-මුතාලිෆ්-ඝාතනයට-වසර-19/2-409946) · `si`
+
+Intelligence officers like Lt. Col. Muthalif play a crucial role in national security, protecting both the leadership and the populace. Muthalif, a key figure in military intelligence, faced threats due to his efforts against the LTTE. Despite these dangers, he continued his service, contributing significantly to weakening the LTTE. His dedication and bravery were recognized nationally, highlighting his importance in the fight against terrorism and his impact on national unity.
+
+🟩
+
+Since all war heroes who have committed to the nation's warfare to protect the country, the intelligence of such war soldiers, or angrout, is a great deal of national security in the country.A military intelligence in a country is working on the state ruler and the entire masses.. They have been sworn in not only to protect the leadership but also to protect their homeland with the overall people.
+
+Evaniasaya, a major link of such intelligence, was to go to the war heroair to go to the war heroair to be able to go to the brumy three years. At that time, the highest officer in the Army was a shocked by the highest officer in the Army and the international army, violating the terms of the government and LTTE.. Major Muthalif, who served as the commander of the Sri Lanka Army's First Brigade, was on his way to the car in the car.The demise of such strategic intelligence was an incident that caused everyone in this country.
+
+...
+
+[Data](articles/31e5c0bf.json)
+
+[Extended Data](ext_articles/31e5c0bf.ext.json)
 
 ---
 
@@ -1792,28 +1916,6 @@ Mrs. Vice Competition of the International Monetary Fund (IMF) was speaking at a
 
 ---
 
-### The first look poster of the 'Nagendran Honeymoon' Internet series starring Suraj Venjaramudu
-
-*2024-05-31 16:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/184977) · `ta`
-
-The first look of "Nagendran's Honeymoon," a new internet series featuring Suraj Venjaramudu, has been unveiled. Directed by Nithin Ranji Municipality, it also stars Grace Antony, Shivata Menon, Kani Kusruti, among others. The series, combining comedy and action, is set to premiere on Disney Plus Hot Star.
-
-🟩
-
-The first look of the new original internet series 'Nagendran's Honeymune', which plays the lead role in the lead role in the Malayalam film industry, has been released.. The Internet series will soon be released at the leading digital site Disney Plus Hot Star.
-
-Directed by director Nithin Ranji Municipality, 'Nagendran's Honeymune', Suraj Venjaramudu, Grace Antony, Shivata Menon, Kani Kusruti, Albi Pancharan, Niranjana Anoop, Prashant Alexander, Ammu Abirami, Ramesh Pishajan. Nikhil S.. Renjin Raj has composed the film, which has been recorded by Praveen. The web series is co -produced by MGC Private Limited and Nithin Ranji Machikar Productions for Disney Plus Hotstar.
-
-The Internet series, which is combined with stomach shaking comedy + action turns, will soon be released on a digital site, Disney Plus Hot Star.
-
-◼️
-
-[Data](articles/df93c611.json)
-
-[Extended Data](ext_articles/df93c611.ext.json)
-
----
-
 ### Keerthi Suresh clashes with Allu Arjun
 
 *2024-05-31 16:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/184973) · `ta`
@@ -2103,151 +2205,5 @@ The robbery had taken place when the bus was landed at the Bastian bus station a
 [Data](articles/31a81919.json)
 
 [Extended Data](ext_articles/31a81919.ext.json)
-
----
-
-### Dead bodies in the day of the day
-
-*2024-05-31 15:43:30* · [`adalk`](https://www.ada.lk/breaking_news/දින-දින-තැන-තැන-මළ-සිරුරු/11-409942) · `si`
-
-Two bodies were discovered floating in the Victoria Reservoir near Digana, leading to an investigation by the Teldeniya Police. The remains were subsequently transported to the Kandy National Hospital's morgue for examination.
-
-🟩
-
-Two persons floating in the Digana in the Digana area in the Victoria Reservoir were found yesterday (30), the Teldeniya Police said.
-
-The two bodies of the area were found in the Victoria Reservoir, which was floating floating in the Victoria and Coconut in the Third Thirty-up of the Thaldeniya police station.
-
-The Teldeniya Magistrate Bardeniya Officer and residents of theldeniya police personnel and residents have been handed over to the Kandy National Hospital's morgue with the two bodies.. (I J)
-
-◼️
-
-[Data](articles/2c2d92c8.json)
-
-[Extended Data](ext_articles/2c2d92c8.ext.json)
-
----
-
-### Elephant body
-
-*2024-05-31 15:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/184961) · `ta`
-
-A tragic accident occurred when an elephant was hit by a train, leading to its death. The incident sparked concerns over the improper disposal of elephant remains in the area. This event took place on Saturday, the 25th of the month, where both a mother elephant and her calf lost their lives.
-
-🟩
-
-The body of the elephant who died of the train collided with the body of the body, and the concern about the lack of proper burial.
-
-The mother elephant and cub were killed on Saturday, the 25th of this month.
-
-It is noteworthy that the elephants in the area are not properly disposed of.
-
-◼️
-
-[Data](articles/3e0f0ed6.json)
-
-[Extended Data](ext_articles/3e0f0ed6.ext.json)
-
----
-
-### Colombo consumer price inflation drops to 0.9% in May
-
-*2024-05-31 15:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/99564/colombo-consumer-price-inflation-drops-to-09-in-may) · `en`
-
-The overall rate of inflation as measured by the Colombo Consumer Price Index (CCPI) on year-on-year (y-o-y) basis decreased to 0.9% in May 2024, the Department of Census & Statistics (DCS) says.
-
-Last month, the CCPI-based inflation was calculated at 1.5%, according to the latest figures published by the DCS.
-
-On a year-on-year basis, the inflation of food group dropped to 0.0% in May 2024 from 2.9% in April 2024 while the inflation of the non-food group climbed to 1.3% in May from 0.9% in April 2024.
-
-The contributions to the inflation rate of May 2024 from the food group and non-food group were   -0.37% and -0.20%, respectively.
-
-Meanwhile, CCPI Core in May 2024 has decreased to 177.0 from 177.3 in April 2024, while the general price level has increased by 94.1% compared to the index reference (2021).
-
-◼️
-
-[Data](articles/7a461c12.json)
-
-[Extended Data](ext_articles/7a461c12.ext.json)
-
----
-
-### 2023 A/L results released
-
-*2024-05-31 15:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/99563/2023-al-results-released) · `en`
-
-The results of the 2023 (2024) G.C.E. Advanced Level examination have been released online, the Department of Examination announced.
-
-Accordingly, the results can be viewed on the following website: www.doenets.lk.
-
-A total of 229,057 school applicants and 40,556 private applicants sat for the 2023 (2024) G.C.E. Advanced Level examination.
-
-The Commissioner General of Examinations Amith Jayasundara stated that 151,343 school applicants have qualified for university admission while 22,101 private applicants have qualified for universities.
-
-Accordingly, a total of 173,444 applicants have qualified for universities, which is 64.33 per cent of the total applicants.
-
-Meanwhile the results of 190 candidates who had faced the exam have been suspended while this includes 44 private applicants, he said.
-
-...
-
-[Data](articles/513a2bf2.json)
-
-[Extended Data](ext_articles/513a2bf2.ext.json)
-
----
-
-### Maldivian Foreign Minister to visit Sri Lanka next week
-
-*2024-05-31 15:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Maldivian-Foreign-Minister-to-visit-Sri-Lanka-next-week/108-283811) · `en`
-
-Colombo, May 31 (Daily Mirror)- The Minister of Foreign Affairs of the Maldives, Moosa Zameer undertake an official visit to Sri Lanka from June 03 to 06 , 2024, the Ministry of Foreign Affairs said.
-
-He is scheduled to pay courtesy calls on President Ranil Wickremesinghe and Prime Minister Dinesh Gunawardena during this visit.
-
-The Foreign Minister of Maldives and his delegation will also have official bilateral discussions with Foreign Minister Ali Sabry during the visit at the Ministry of Foreign Affairs.
-
-Foreign Minister Zameer will be accompanied by senior officials of the Ministry of Foreign Affairs of the Maldives.
-
-◼️
-
-[Data](articles/fa880263.json)
-
-[Extended Data](ext_articles/fa880263.ext.json)
-
----
-
-### Court orders petition against the increase in estate workers' salaries
-
-*2024-05-31 15:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197212) · `si`
-
-The Court of Appeal has temporarily halted a government plan to raise plantation workers' wages, pending further review. The petition, led by Agarapatha Plantation Limited and 21 other companies, argues that the decision was made without proper consultation, violating principles of fairness. The case will be considered further on Monday.
-
-🟩
-
-The Court of Appeal today (31) ordered to postpone a gazette notification issued by the Labor Labor Laboon's gazette notification to issue a minimum daily wage for plantation workers.
-
-The petition was called before the Judge of the Court of Appeal with Sobhitha Rajakuna and Dhammika Ganepola.
-
-President's Counsel Romesh de Silva made the petitioner for the petitioner party.
-
-Further, further considerations were postponed until Monday, Monday.
-
-The petition was presented by the Agarapatha Plantation Limited and 21 plantation companies.
-
-Labor Minister Manusha Nanayakkara, the Commissioner of Labor and Labor have been named as respondents.
-
-The petition was called before the Court of Appeal with the summit of the petition today.
-
-The panel of judges was ordered to be established on the petition on the 31st of this month.
-
-The petitioned plantation companies proclaimed that 1,350 and Rs. 300 and another Rs.
-
-The petitioners said that politicians had expressed their views on the recent May Day rallies.
-
-...
-
-[Data](articles/412166c6.json)
-
-[Extended Data](ext_articles/412166c6.ext.json)
 
 ---

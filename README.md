@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-31 20:34:07**
+As of **2024-05-31 20:53:15**
 
 ## Newspaper Stats
 
@@ -26,33 +26,43 @@ adaderanasinhalalk | 4,403
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,584 (100.0%) of 27,587 articles have been extended.
+27,587 (100.0%) of 27,587 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-31 (Friday)
 
-### පාතාලේ දෙමස්සිනාලා එක්ව කළ අපරාධ සියල්ල හෙළිවෙයි
+### Departments held by Deleales with heated
 
 *2024-05-31 20:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197222) · `si`
 
-සංවිධානාත්මක අපරාධ කල්ලි සාමාජකයෙකු සහ මත්ද්‍රව්‍ය ජාවාරම්කරුවෙකු වන ජයසේකර විතානගේ රුවන් චාමර නොහොත් මිදිගම රුවන් නැමැත්තා ඩුබායිහි සිට අද (31) දිවයිනට රැගෙන එනු ලැබීය‍.
+Ruwan Chamara, a key narcotics figure linked to organized crime, was arrested in Sri Lanka after being extradited from Dubai. He faces charges including terrorism and is implicated in several high-profile cases, including a shooting incident in Mount Lavinia. The Criminal Investigation Department has issued red notices for his arrest internationally.
 
-ඔහු රැගෙන එනු ලැබුවේ ඒ සඳහා ඩුබායි රාජ්‍ය බලා ඊයේ (30) පිටත්ව ගිය ත්‍රස්ත මර්දන කොට්ඨාස නිලධාරී කණ්ඩායමක් විසිනි.
+🟩
 
-කටුනායක ගුවන්තොටුපොළේ පිහිටි අපරාධ පරීක්ෂණ දෙපාර්තමේන්තු ඒකකය තුළ සැකකරු කෙටි වේලාවක් රඳවාගෙන මූලික ප්‍රශ්න කිරීම් සිදුකර තිබේ.
+Ruwan Chamara alias Ruwan Chamara alias Mandara Ruwan, a narcotic member of an organized criminal criminal, was brought to the island today (31).
 
-අනතුරුව ඔහු කොළඹ ත්‍රස්ත මර්දන කොට්ඨාසය වෙත රැගෙන ආ අතර මේ වන විට ඔහුගෙන් ප්‍රශ්න කරමින් සිටින බව වාර්තා වේ.
+He was taken by a group of terrorist officers who left Dubai yesterday (30).
 
-මිදිගම රුවන් මීට මසකට පමණ ඉහතදී ඩුබායීහී රාත්‍රී සාමාජ ශාලාවක ඇතිවූ ගැටුමක් හේතුවෙන් එරට පොලීසිය මගින් අත්අඩංගුවට ගෙන තිබුණි.
+The suspect has been detained in a short time and interrogated the Criminal Investigation Department (CID at the Katunayake airport.
 
-ඒ ඔහුට එරෙහිව ජාත්‍යන්තර පොලීසිය මඟින් රතු නිවේදන නිකුත්කර තිබියදීය.
+He was brought to the Colombo Terrorism Prevention Division and is now being questioned by him.
 
-සැකකරු 2022 වසරේ අගෝස්තු 4 වනදා ගල්කිස්ස අධිකරණයේදී පුද්ගලයෙකුට වෙඩිතැබීමේ සිද්ධියේ ප්‍රධාන සැලසුම්කරු ලෙස නම් කෙරුණු අතර අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ මහජන පැමිණිලි අංශය ඔහුට එරෙහිව රතු නිවේදන නිකුත් කරන ලෙස ඉල්ලා තිබුණේ ඒ අනුවය.
+Midigama Ruwan was arrested by police for a clash at Duthiwaha and Duthuwatha.
+
+The international police issued red announcements against him.
+
+The suspect was named the main planner of the shooting case in Mount Lavinia Magistrate on August 4, 2022 and the Criminal Investigation Department has called for red announcements against him.
+
+When he was arrested in Dubai, the criminal named Kosgoda Ziv has been with him.
+
+Ruwan, Chinthaka, or the brother of the beef, has also been the wife of the many crimes committed on his advice, police said.
 
 ...
 
 [Data](articles/0afbeca5.json)
+
+[Extended Data](ext_articles/0afbeca5.ext.json)
 
 ---
 
@@ -72,6 +82,8 @@ The State Minister further said: “We will be looking at the nature of the lice
 
 [Data](articles/4698a2f6.json)
 
+[Extended Data](ext_articles/4698a2f6.ext.json)
+
 ---
 
 ### Young Sri Lankan golfer Kaya triumphs at Nepal Open Golf Tourney
@@ -87,6 +99,8 @@ Daluwatte maintained consistency across all three days, carding scores of 71, 71
 ◼️
 
 [Data](articles/0ca8aa1f.json)
+
+[Extended Data](ext_articles/0ca8aa1f.ext.json)
 
 ---
 

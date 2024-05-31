@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-31 08:34:18**
+As of **2024-05-31 08:52:53**
 
 ## Newspaper Stats
 
-*Scraped **27,453** Articles*
+*Scraped **27,454** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,568
 dailyftlk | 1,612
 adalk | 2,342
 adaderanalk | 3,125
-tamilmirrorlk | 3,217
+tamilmirrorlk | 3,218
 virakesarilk | 4,232
 dailymirrorlk | 4,340
 adaderanasinhalalk | 4,383
@@ -26,27 +26,33 @@ adaderanasinhalalk | 4,383
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,452 (100.0%) of 27,453 articles have been extended.
+27,453 (100.0%) of 27,454 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-31 (Friday)
 
-### අමෙරිකානු ඉතිහාසය වෙනස් කරමින් ට්‍රම්ප් වරදකරු වෙයි
+### Trump is convicted by changing American history
 
 *2024-05-31 08:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197200) · `si`
 
-හිටපු අමෙරිකානු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් ව්‍යාපාරික වාර්තා අසත්‍ය ලෙස සකස් කිරීමේ චෝදනා 34කට අදාළව වරදකරු බවට මෑන්හැටන් ජූරි සභාවක් තීන්දු කර තිබේ.
+Donald Trump becomes the first U.S. president convicted of criminal charges, marking a historic moment in American jurisprudence. The Manhattan jury found him guilty on 34 counts, following a 12-hour deliberation, making it a landmark case in legal history.
 
-අදාළ තීන්දුව ඓතිහාසික තීන්දුවක් බවට ප්‍රකාශ කරමින් විදෙස් මාධ්‍ය තොරතුරු වාර්තා කර තිබුණේ අමෙරිකානු ඉතිහාසයේ අපරාධ චෝදනාවකට වරදකරු වූ පළමු ජනාධිපතිවරයා ට්‍රම්ප් බවය.
+🟩
 
-එමෙන්ම මැතිවරණ කාලවකවානුවක් අතර අපරාධයකට වරදකරු වූ පළමු ප්‍රධාන පක්ෂ ජනාධිපති අපේක්ෂකයා ලෙසද ඔහු ඉතිහාසගත වෙයි.
+The Manhattan jury has decided that former American President's President Donald Trump has Business Reports of 34 charges.
 
-මෙම තීන්දුව ප්‍රකාශයට පත්කර තිබුණේ ජූරි සභිකයන් දින දෙකක් පුරා පැය 12කට ආසන්න කාලයක් සාකච්ඡා කිරීමෙන් අනතුරුවය.
+The first President was the first President who was convicted of a criminal allegation in American history, declaring the verdict as a historical decision.
+
+He is also his historical candidate for the first major party criminal of a crime between a period of time.
+
+The decision was announced after the jurors were discussed for nearly 12 hours.
 
 ◼️
 
 [Data](articles/3b5da1f5.json)
+
+[Extended Data](ext_articles/3b5da1f5.ext.json)
 
 ---
 
@@ -761,6 +767,24 @@ Speaking at the event, Dialog Acida PLC Group Chief Minister Asanka Priyadarshan
 [Data](articles/ff7a23c3.json)
 
 [Extended Data](ext_articles/ff7a23c3.ext.json)
+
+---
+
+### ’சம்பள முரண்பாடுகளை நிவர்த்திக்க நடவடிக்கை’
+
+*2024-05-31 02:20:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சம்பள-முரண்பாடுகளை-நிவர்த்திக்க-நடவடிக்கை/175-338187) · `ta`
+
+அரசாங்கத்தின் அனைத்து துறைகளிலும் காணப்படும் சம்பள முரண்பாடுகளை நிவர்த்திப்பதற்கு நடவடிக்கை எடுக்கப்படும் என  ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்துள்ளார்.
+
+தேசபந்து லெஸ்லி தேவேந்திரவின் தொழிற்சங்க பணிகளுக்கு 60 ஆண்டுகள் நிறைவடைவதை முன்னிட்டு கொழும்பு பண்டாரநாயக்க ஞாபகார்த்த சர்வதேச மாநாட்டு மண்டபத்தில் நேற்று முன்தினம் இடம்பெற்ற நிகழ்வில் உரையாற்றும் போதே ஜனாதிபதி இவ்வாறு குறிப்பிட்டார். அவர் மேலும் உரையாற்றுகையில்,
+
+பொருளாதார ரீதியில் இப்போது நாம் எழுந்து நிற்க ஆரம்பித்துள்ளோம். நாம் நடக்க வேண்டும். இந்த ஆண்டு அரச ஊழியர்களுக்கு 10,000 ரூபாய் கொடுப்பனவு வழங்க ஏற்பாடு செய்யப்பட்டது. அதே நேரத்தில், தனியார் துறையிலும் சம்பளத்தை அதிகரிக்க முயற்சிகள் மேற்கொள்ளப்பட்டுள்ளன.
+
+இவ்வருடம் அதிக நிவாரணங்களை வழங்குவதற்கான பொருளாதார பலம் எம்மிடம் இல்லாவிட்டாலும் அடுத்த வருடம் அரச ஊழியர்களுக்கு சில சலுகைகளை வழங்க வேண்டும். இதற்காக அரச துறையின் அனைத்து துறைகளிலும் நிலவும் சம்பள முரண்பாடுகளை தீர்க்க குழுவொன்றை நியமிக்க தீர்மானித்துள்ளோம்.
+
+...
+
+[Data](articles/3800e729.json)
 
 ---
 
@@ -1642,7 +1666,7 @@ Speaking further the public minister said that the Minister of Parliament has an
 
 ---
 
-### Diplomats to meet Russia defense officials amid complaints about 455 Sri Lankans in warfront
+### Family member complaints about Sri Lankans in warfront rise to 455
 
 *2024-05-30 18:00:00* · [`economynextcom`](https://economynext.com/diplomats-to-meet-russia-defense-officials-amid-complaints-about-455-sri-lankans-in-warfront-165479/) · `en`
 
@@ -2181,25 +2205,5 @@ Enable Southwestern monsoon weather is also highly strong winds in the Bay of Ba
 [Data](articles/39ed426e.json)
 
 [Extended Data](ext_articles/39ed426e.ext.json)
-
----
-
-### Chinese government and another agreement
-
-*2024-05-30 16:30:52* · [`adalk`](https://www.ada.lk/breaking_news/චීන-රජය-හා-තවත්-ගිවිසුමක්/11-409919) · `si`
-
-The Chinese government has signed an agreement with Sri Lanka's Ministry of Justice for the reconstruction of the Supreme Court Complex, facilitated by the judiciary, Prison, and Constitutional Reforms departments.
-
-🟩
-
-Secretary to the Ministry of Justice and Constitutional Reforms, Secretary to the Ministry of Justice and Constitutional Reforms for the assistance of the Chinese government has signed the agreement with the reconstruction of the Supreme Court Complex..
-
-The agreement was carried out at the Ministry of Justice under the patronage of the judiciary, Prison and Constitutional Reforms in Sri Lanka.
-
-◼️
-
-[Data](articles/9fda62ac.json)
-
-[Extended Data](ext_articles/9fda62ac.ext.json)
 
 ---

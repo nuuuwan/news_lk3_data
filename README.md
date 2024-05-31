@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-31 05:18:51**
+As of **2024-05-31 05:36:15**
 
 ## Newspaper Stats
 
-*Scraped **27,413** Articles*
+*Scraped **27,417** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 272
 newsfirstlk | 363
 islandlk | 1,478
 economynextcom | 1,568
-dailyftlk | 1,601
+dailyftlk | 1,605
 adalk | 2,340
 adaderanalk | 3,122
 tamilmirrorlk | 3,215
@@ -26,11 +26,75 @@ adaderanasinhalalk | 4,379
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,413 (100.0%) of 27,413 articles have been extended.
+27,413 (100.0%) of 27,417 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-31 (Friday)
+
+### UN addresses concern over deployment of HR violators in peacekeeping missions
+
+*2024-05-31 05:17:10* · [`dailyftlk`](https://www.ft.lk/news/UN-addresses-concern-over-deployment-of-HR-violators-in-peacekeeping-missions/56-762395) · `en`
+
+UN Spokesperson Stephane Dujarric emphasises Secretariat’s commitment to deploying personnel who meet the highest standards integrity, including commitment to human rights
+
+Acknowledges there have been instances where allegations of past HR violations by uniformed personnel were brought to UN’s attention
+
+Ensures in such cases, UN peacekeeping department takes appropriate action following their screening policy and other relevant frameworks
+
+In a recent UN news briefing, questions were raised about a recent investigative documentary revealing that Bangladesh and Sri Lanka have allegedly sent officers implicated in severe human rights violations, including torture and extrajudicial killings, on UN peacekeeping missions. Concerns at the briefing held on 22 May were specifically highlighted regarding the deployment of numerous human rights abusers from Bangladesh.
+
+...
+
+[Data](articles/f44751cd.json)
+
+---
+
+### Notice issued to Maithripala Sirisena on contempt of court charges
+
+*2024-05-31 05:16:00* · [`dailyftlk`](https://www.ft.lk/news/Notice-issued-to-Maithripala-Sirisena-on-contempt-of-court-charges/56-762394) · `en`
+
+The Court of Appeal yesterday issued notice to the former Sri Lanka Freedom Party (SLFP) Chairman and President Maithripala Sirisena with regard to a contempt of court petition filed against him.
+
+The notice was issued petition, was taken up before the two-member judge bench comprising of the President of the Court of Appeal Justice Nissanka Bandula Karunaratne and Justice Shashi Mahendran yesterday, after hearing submissions made on behalf of the complainant.
+
+Accordingly, the judge bench ordered the counsels of the petitioning party to send notice to the respondent of the petition, former President Sirisena, to confirm the facts related to the petition.
+
+The petition was filed by SLFP Executive Committee member Montague Sarathchandra.
+
+The petitioner has alleged that Sirisena has committed contempt of Court through his actions in violation of a Court order issued by the Colombo District Court preventing him from acting as the Chairman of the SLFP.
+
+◼️
+
+[Data](articles/2f987303.json)
+
+---
+
+### Memorial service today in remembrance of late French envoy
+
+*2024-05-31 05:13:06* · [`dailyftlk`](https://www.ft.lk/news/Memorial-service-today-in-remembrance-of-late-French-envoy/56-762393) · `en`
+
+A memorial service in remembrance of the late Ambassador Jean-François Pactet of France to Sri Lanka will be held today at St.Mary’s Church, Lauries Road, Colombo 4, commencing at 10 a.m.  Monsignor Brain Udaigwe, Apostolic Nuncio of the Holy See to Sri Lanka, will lead the memorial service.
+
+◼️
+
+[Data](articles/ce37ea90.json)
+
+---
+
+### Several SLPP and SLFP members join SJB
+
+*2024-05-31 05:12:48* · [`dailyftlk`](https://www.ft.lk/news/Several-SLPP-and-SLFP-members-join-SJB/56-762392) · `en`
+
+Several local Gover-nment members from the Sri Lanka Podujana Peramuna (SLPP) and the Sri Lanka Freedom Party (SLFP) crossed over to the Samagi Jana Balawegaya (SJB) yesterday. According to a statement from the SJB, these politicians have aligned with the party to support opposition leader Sajith Premadasa’s country-building program.
+
+Among those who crossed over are former SLPP Polonnaruwa District Deputy Minister Nandasena Herath, SLPP Eastern Provincial Councillor Ariyawathi Galappaththi, SLPP Western Provincial Councillor Dilip Kumara Rajapaksha, and SLPP Western Provincial Councillor Anil Kumara Wijesinghe. Additionally, former SLFP member of the Western Provincial Council from Gampaha District Rehensiri Varagoda and former SLFP member of the Kalutara Municipal Council Prasanna Withanage have also joined the SJB.
+
+◼️
+
+[Data](articles/9e0bfca3.json)
+
+---
 
 ### Two workers targeted for wasp in Vavuniya hospital
 
@@ -2215,99 +2279,5 @@ Sri Lanka Tamil National Alliance (TNA) parliamentarian Sivagnanam Sreedharan, G
 [Data](articles/3b0a40f7.json)
 
 [Extended Data](ext_articles/3b0a40f7.ext.json)
-
----
-
-### Emmenter
-
-*2024-05-30 14:19:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எமனாக-மாறிய-முடி-உலர்த்தி/175-338153) · `ta`
-
-Salim Mohamed Sahran, a student from Puttalam Zahira National School, passed away unexpectedly. He was hospitalized after being electrocuted at home while bathing. The investigation into his death is ongoing. His funeral, known as Janaza, will be held on Thursday at the Puttalam Baga School Center.
-
-🟩
-
-Salim Mohamed Sahran, a student who wrote the GCE Ordinary Level Examination from the Puttalam Zahira National School, died on Thursday morning.
-
-He was admitted to the Puttalam Base Hospital at the time when he had been bathed in his home with a hair dryer.
-
-Puttalam and Kalpitiya, who were investigating his death, were handed over to Janaza to the family by BM Hizam, who was the death of a electricity attack.
-
-It is noteworthy that his Janasa will be held on Thursday (31) at the Puttalam Baga School Center.
-
-◼️
-
-[Data](articles/601a7e1b.json)
-
-[Extended Data](ext_articles/601a7e1b.ext.json)
-
----
-
-### Court of Appeal about Dr. Kapila Wickremanayake's petition
-
-*2024-05-30 14:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197181) · `si`
-
-Dr. Kapila Wickramanayaka, a health ministry director, filed a petition challenging a law in the Court of Appeal. The case involves allegations of purchasing substandard antibodies, which led to his arrest. The petition will be heard by Judges Nissanka Bandula Karunaratne and Shahi Mahendran on June 4th. Deputy Solicitor General Nirmalan Wigneswaran represented the Attorney General, stating there were limited protests against the petition.
-
-🟩
-
-The Court of Appeal was set to summon the petition filed by Dr. Kapila Wickramanayaka, Director of the Ministry of Health, Dr. Kapila Wickramanayaka, to prove the decree of the law that he had to be filed against the law.
-
-The Maligakanda Magistrate's Court was remanded by the Maligakanda Magistrate's Court regarding the purchase of substandard antibodies.
-
-The petition was summoned before the court of Judge Nissanka Bandula Karunaratne and Shahi Mahendran.
-
-Deputy Solicitor General Nirmalan Wigneswaran, who appeared for the Attorney General, said that limited protests have been filed in the petition.
-
-The petition was then ordered to be summoned on June 4 to consider.
-
-The petition has been filed by the Maligakanda Magistrate's Court to be remanded until the case is under the end of the Divisional Research Purchase of Persons.
-
-◼️
-
-[Data](articles/fa6402fc.json)
-
-[Extended Data](ext_articles/fa6402fc.ext.json)
-
----
-
-### Shelton Premaratne passes away
-
-*2024-05-30 14:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Shelton-Premaratne-passes-away/108-283701) · `en`
-
-Renowned Sri Lankan composer, instrumentalist and music director Dr. Shelton Premaratne passed away this morning (30) in Australia at the age of 94.
-
-According to information received Dr. Shelton Premaratne was residing in Australia with his son at the time.
-
-Dr. Premaratne made his mark when Sinhala music directly emulated Hindi and Tamil music from India. He was a pioneer in developing a music style that was original and unique to Sri Lanka.
-
-He was a legendary film and drama music director who has composed the music for songs since the 1940s, and sung by almost all professional singers young and old in Sri Lanka. He has won many national and international awards.
-
-◼️
-
-[Data](articles/3c04f312.json)
-
-[Extended Data](ext_articles/3c04f312.ext.json)
-
----
-
-### Arrested in school students from Kilinochchi to Jaffna
-
-*2024-05-30 14:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/184857) · `ta`
-
-A man was arrested for smuggling leaked exam papers from Kilinochchi to Jaffna. Police found 30 liters of leaked content from three books. The arrest followed a tip-off about him abducting a bus.
-
-🟩
-
-A man has been arrested for smuggling leakage packages in a booklet for schoolchildren from Kilinochchi to Jaffna.
-
-At the time, 30 liters of leakage from three books were seized by the police.
-
-Police said the youth had been arrested on the basis of confidential information received by the police that the young man was abducting the bus.
-
-◼️
-
-[Data](articles/148f4791.json)
-
-[Extended Data](ext_articles/148f4791.ext.json)
 
 ---

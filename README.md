@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-31 17:18:43**
+As of **2024-05-31 17:34:34**
 
 ## Newspaper Stats
 
-*Scraped **27,544** Articles*
+*Scraped **27,547** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 363
 islandlk | 1,488
 economynextcom | 1,575
 dailyftlk | 1,612
-adalk | 2,351
-adaderanalk | 3,135
+adalk | 2,352
+adaderanalk | 3,137
 tamilmirrorlk | 3,228
 virakesarilk | 4,244
 dailymirrorlk | 4,362
@@ -26,27 +26,71 @@ adaderanasinhalalk | 4,398
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,543 (100.0%) of 27,544 articles have been extended.
+27,544 (100.0%) of 27,547 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-31 (Friday)
 
-### මැයි මාසයේ ආහාර උද්ධමනය සියයට බිංදුවයි
+### Maldives FM to discuss enhancing support for citizens in Sri Lanka during upcoming visit
+
+*2024-05-31 17:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/99566/maldives-fm-to-discuss-enhancing-support-for-citizens-in-sri-lanka-during-upcoming-visit) · `en`
+
+The Minister of Foreign Affairs of Maldives Moosa Zameer is scheduled to travel to Sri Lanka for an official visit from June 03 to 06, Maldivian media reported.
+
+The visit is being undertaken on the invitation of his Sri Lankan counterpart, Foreign Minister Ali Sabry, it said.
+
+During the visit, Minister Zameer will have a courtesy visit with the President of Sri Lanka Ranil Wickremesinghe and Prime Minister of Sri Lanka Dinesh Gunawardena, a statement released by the Foreign Ministry of Maldives said.
+
+Zameer will also hold bilateral discussions with Foreign Minister Sabry, which will include deliberations on provision of further conveniences to Maldivians residing in Sri Lanka.
+
+Maldives Minister of State for Foreign Affairs Sheryna Abdul Samad, Additional Secretary Shiruzimath Sameer and Director General Aishath Fareena will be accompanying the Minister on this trip.
+
+...
+
+[Data](articles/d167149d.json)
+
+---
+
+### Food inflation in May in May
 
 *2024-05-31 16:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197217) · `si`
 
-කොළඹ පාරිභෝගික මිල දර්ශකයෙහි වාර්ෂික ලක්ෂ්‍යමය වෙනස මඟින් මනිනු ලබන මතුපිට උද්ධමනය මැයි මාසයේ දී 0.9%ක් දක්වා පහළ ගොස් තිබේ.
+In May, Colombo's CPI annual growth fell to 0.9%, with food inflation dropping from 2.9% to 0.0%. Non-food inflation rose to 1.3%. This data comes from the Department of Census and Statistics' latest report.
 
-මෙහිදී ආහාර කාණ්ඩයේ උද්ධමනය අප්‍රේල් මාසයේ වාර්තා වූ සියයට 2.9 සිට මැයි මාසයේ දී සියයට 0.0ක් දක්වා පහළ ගොස් තිබීම විශේෂත්වයකි.
+🟩
 
-ආහාර නොවන කාණ්ඩයේ උද්ධමනය මැයි මාසයේ දී සියයට 1.3ක් දක්වා ඉහළ ගොස් තිබේ.
+The annual point difference in the Colombo Consumer Price Index has fallen to 0.9% in May.
 
-ජනලේඛන හා සංඛ්‍යාලේඛන දෙපාර්තමේන්තුව විසින් නිකුත් කළ නවතම වාර්තාවක මේ බව සඳහන් වේ.
+The food group inflation drops from 2.9 percent to 0.0 percent in April to 0.0 percent in April.
+
+The non-food category inflation increased to 1.3 percent in May.
+
+This is stated by the latest report issued by the Department of Census and Statistics.
 
 ◼️
 
 [Data](articles/ff2154b0.json)
+
+[Extended Data](ext_articles/ff2154b0.ext.json)
+
+---
+
+### Court moved against gazetted minimum daily wage of plantation workers
+
+*2024-05-31 16:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/99565/court-moved-against-gazetted-minimum-daily-wage-of-plantation-workers) · `en`
+
+The Court of Appeal has adjourned further consideration of a petition filed by plantation companies seeking writ order invalidating the gazette notification issued by the Minister of Labor stipulating a minimum daily wage for plantation workers, until next Monday (June 03).
+
+The petition, filed by 21 plantation companies including Agarapatana Plantations Ltd., was taken for consideration today (31) before a two-member Appeals Court judge bench consisting of Justices Sobitha Rajakaruna and Dhammika Ganepola.
+
+The petitioners have named 52 individuals including Minister of Labor Manusha Nanayakkara and the Labor Commissioner as respondents of the case.
+
+The petitioning plantation companies point out that the Minister of Labor has issued a gazette notification setting the minimum daily wage of a plantation worker at Rs. 1,350, together with an allowance of Rs. 300 and another allowance of Rs. 80, as minimum wage.
+
+...
+
+[Data](articles/7361ee14.json)
 
 ---
 
@@ -188,7 +232,15 @@ The results of the 2023 (2024) G.C.E. Advanced Level examination have been relea
 
 Accordingly, the results can be viewed on the following website: www.doenets.lk.
 
-◼️
+A total of 229,057 school applicants and 40,556 private applicants sat for the 2023 (2024) G.C.E. Advanced Level examination.
+
+The Commissioner General of Examinations Amith Jayasundara stated that 151,343 school applicants have qualified for university admission while 22,101 private applicants have qualified for universities.
+
+Accordingly, a total of 173,444 applicants have qualified for universities, which is 64.33 per cent of the total applicants.
+
+Meanwhile the results of 190 candidates who had faced the exam have been suspended while this includes 44 private applicants, he said.
+
+...
 
 [Data](articles/513a2bf2.json)
 
@@ -899,6 +951,24 @@ Due to this, the train services have been delayed and the train services will be
 [Data](articles/12b694c9.json)
 
 [Extended Data](ext_articles/12b694c9.ext.json)
+
+---
+
+### බත්තරමුල්ලට දුම්රිය මාර්ගයක්
+
+*2024-05-31 12:03:50* · [`adalk`](https://www.ada.lk/breaking_news/බත්තරමුල්ලට-දුම්රිය-මාර්ගයක්/11-409939) · `si`
+
+කොළොන්නාව නගර සභා බල ප්‍රදේශය නව නගරයක් ලෙස පරිවර්තනීය වෙනසකට ලක්කිරීමේ පිඹුරුපත් සකසා අවසන් බව අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන මහතා පැවසීය.
+
+අග්‍රාමාත්‍යවරයා මෙසේ පැවසුවේ (2024.05.28) කොළොන්නාව ප්‍රාදේශීය ලේකම් කාර්‍යාලයේ පැවැති සාකච්ඡාවකදී ය.
+
+මෙහිදී අදහස් දැක්වු අග්‍රාමාත්‍යවරයා කොළොන්නාව නගර සභා බල ප්‍රදේශය නව නගරයක් බවට පත්කිරීමටත්, නව නගරයක පහසුකම් ජනතාවට ලබාදීමටත්, අලුත් ආකර්ෂණයකින් ප්‍රදේශයක් ලෙස දියුණු කිරීමටත් අවශ්‍ය මූලික කෙටුම්පතක් මේ වන විටත් සකස් කර අවසන් බවද සඳහන් කළේය.
+
+මේ හරහා කොළොන්නාව නගර සභා බල ප්‍රදේශය තුළ සිදුවන පරිවර්තනය තුළින් තදාසන්න ප්‍රදේශද ආර්ථික, සමාජයීය පරිවර්තනයකට ලක් වෙයි. කොළොන්නාව පිරිපහදුව වෙත තෙල් ප්‍රවාහනය කෙරෙන දුම්රිය මාර්ගය බත්තරමුල්ල නගරය සමඟ සම්බන්ධ කොට දුම්රිය මගී ප්‍රවාහන මාධ්‍යයක් බවට පත්කිරීම ද සිදුකෙරෙයි. ප්‍රධාන පරිපාලන ආයතන රැසක් පිහිටා ඇති බත්තරමුල්ල නගරයට කඩිනමින් ළගා වීමේ හැකියාව ලැබෙන අතර කොළඹ තදබදයට ද මේ හරහා විසදුම් ලැබේ.
+
+...
+
+[Data](articles/d5fcba2b.json)
 
 ---
 
@@ -2179,57 +2249,5 @@ The Four-State elections giving a stunning victory to the BJP recently, launched
 [Data](articles/e815fe37.json)
 
 [Extended Data](ext_articles/e815fe37.ext.json)
-
----
-
-### “VFS” the whole lot
-
-*2024-05-31 05:37:50* · [`dailyftlk`](https://www.ft.lk/columns/VFS-the-whole-lot/4-762401) · `en`
-
-“Yes, real tragedy is never resolved. It goes on hopelessly for ever. Conventional tragedy is too easy. The hero dies and we feel a purging of emotions. A real tragedy takes place in a corner, in an untidy spot …” – No Longer at Ease (Chinua Achebe)
-
-In the common usage, VFS has come to represent the concept of outsourcing, when the State or a private sector organisation decides that one of its functions is better performed by an outside agency, and more economically. As far as we are aware, VFS, the organisation in issue is in the business of providing visa support services, acting on behalf of certain States, which will make the final decision on who goes in or out of that country. The function of the VFS is purely administrative, collecting documents from visa applicants which are then sent to the respective embassies for decision.
-
-...
-
-[Data](articles/307167e4.json)
-
-[Extended Data](ext_articles/307167e4.ext.json)
-
----
-
-### Quo Vadis (Where are you going) Sri Lanka?
-
-*2024-05-31 05:33:45* · [`dailyftlk`](https://www.ft.lk/columns/Quo-Vadis-Where-are-you-going-Sri-Lanka/4-762400) · `en`
-
-Whichever way Sri Lanka chooses to go, will ultimately be determined by its core values
-
-Sri Lanka, since independence has been on a road that was not quite destined to reach a destination. Then, after almost 30 years of independence, with light to moderate progress, the economy underwent a radical change in 1977. We were told that this would make Sri Lanka a developed country in a short time span.
-
-Things did not work out as expected and the next four and a half decades brought us to bankruptcy. There is not much purpose in blaming others, when we ourselves were to blame.
-
-What is clear is that there was a huge thinking deficit on our part, as we believed all the West was saying and advising about development and how we should be getting about it.
-
-...
-
-[Data](articles/48e6ccff.json)
-
-[Extended Data](ext_articles/48e6ccff.ext.json)
-
----
-
-### “VFS” The Whole Lot!
-
-*2024-05-31 05:33:19* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/vfs-the-whole-lot/) · `en`
-
-“Yes, real tragedy is never resolved. It goes on hopelessly for ever. Conventional tragedy is too easy. The hero dies and we feel a purging of emotions. A real tragedy takes place in a corner, in an untidy spot …”  ~ No Longer at Ease – Chinua Achebe
-
-In the common usage, VFS has come to represent the concept of outsourcing, when the State or a private sector organisation decides that one of its functions is better performed by an outside agency, and more economically. As far as we are aware, VFS, the organisation in issue is in the business of providing Visa support services, acting on behalf of certain States, which will make the final decision on who goes in or out of that country. The function of the VFS is purely administrative, collecting documents from Visa applicants which are then sent to the respective embassies for decision.
-
-...
-
-[Data](articles/ea0c8ae3.json)
-
-[Extended Data](ext_articles/ea0c8ae3.ext.json)
 
 ---

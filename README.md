@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-31 16:50:47**
+As of **2024-05-31 17:04:02**
 
 ## Newspaper Stats
 
-*Scraped **27,537** Articles*
+*Scraped **27,543** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,64 @@ dbsjeyarajcom | 267
 bbccomsinhala | 273
 newsfirstlk | 363
 islandlk | 1,488
-economynextcom | 1,572
+economynextcom | 1,575
 dailyftlk | 1,612
 adalk | 2,351
 adaderanalk | 3,135
 tamilmirrorlk | 3,228
 virakesarilk | 4,244
-dailymirrorlk | 4,360
-adaderanasinhalalk | 4,396
+dailymirrorlk | 4,362
+adaderanasinhalalk | 4,397
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,537 (100.0%) of 27,537 articles have been extended.
+27,537 (100.0%) of 27,543 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-31 (Friday)
+
+### උසස් පෙළ ප්‍රතිඵල නිකුත් කෙරේ
+
+*2024-05-31 16:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197216) · `si`
+
+2023 අධ්‍යයන පොදු සහතික පත්‍ර උසස් පෙළ විභාගයේ ප්‍රතිඵල නිකුත් කර තිබේ.
+
+පසුගිය ජනවාරි 4 වන දින සිට ජනවාරි 31 වනදා දක්වා උසස් පෙළ විභාගය පැවැත්වුණි.
+
+මෙවර විභාගය සඳහා අපේක්ෂකයින් 269,613 දෙනෙකු පෙනීසිටින අතර ඉන් 229,057ක් පාසල් අයදුම්කරුවන් ය.
+
+විශ්වවිද්‍යාල ප්‍රවේශය සඳහා 173,444ක් සුදුසුකම් ලබා ඇති අතර අපේක්ෂකයින් 190කගේ ප්‍රතිඵල අත්හිට වූ බව ද විභාග දෙපාර්තමේන්තුව නිවේදනය කරයි.
+
+පාසල් විභාග ප්‍රතිඵල ලේඛන විදුල්පතිවරුන් වෙත නැවත සමීක්ෂණ ප්‍රතිඵල නිකුත් කිරීමෙන් පසු නිකුත් කරනු ලබන බව ද විභාග කොමසාරිස් ජනරාල් අමිත් ජයසුන්දර මහතා සඳහන් කර ඇත.
+
+මේ අතර ප්‍රතිඵල නැවත සමීක්ෂණ සඳහා http://onlineexams.gov.lk/eic වෙබ් අඩවියට පිවිසීමෙන් ජූනි 5 වනදා සිට 2024.06.19 වන දින දක්වා අයදුම්පත් ඉදිරිපත් කළ හැකිය.
+
+◼️
+
+[Data](articles/b8199b65.json)
+
+---
+
+### 2023 A/L results released
+
+*2024-05-31 16:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/2023-AL-results-released/108-283813) · `en`
+
+Colombo, May 31 (Daily Mirror) - The Examinations Department said it released the results of the 2023 (2024) GCE Advanced Level (A/L) examinations a short while ago.
+
+They said that the results could be viewed on www.doenets.lk/exam or www.results.exams.gov.lk
+
+Accordingly, a total of 346,976 candidates sat for this examination held in January this year.
+
+The remaining 65,531 are private applicants, the Examinations Department said.
+
+◼️
+
+[Data](articles/f7769da0.json)
+
+---
 
 ### Does TiktoK reserving American operations?
 
@@ -225,6 +265,28 @@ Our sister paper Daily Lankadeepa won seven awards at Miracle award ceremony hel
 [Data](articles/1ab69b51.json)
 
 [Extended Data](ext_articles/1ab69b51.ext.json)
+
+---
+
+### Rising Sri Lanka egg consumption should not deter exports: minister
+
+*2024-05-31 14:37:00* · [`economynextcom`](https://economynext.com/rising-sri-lanka-egg-consumption-should-not-deter-exports-minister-165585/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s egg consumption has risen by about one million, the Department of Animal Production and Health has said.
+
+“The daily consumption of chicken eggs in this country was 7 million eggs and in the last few months that amount has exceeded to about 8 million eggs,” Department officials said in a discussion with Minister of Agriculture and Plantation Industry Mahinda Amaraweera.
+
+Amaraweera said the increase in local demand should not compromise Sri Lanka’s egg exports, and asked for a survey to be conducted on egg consumption.
+
+Sri Lanka exports chicken eggs mainly to the Maldives, Amaraweera told EconomyNext. “Because of the presence of bird flu in other countries, there is a high demand for eggs from Sri Lanka.”
+
+Switz Lanka, a hen egg producer which markets its product under the Happy Hen brand, exports eggs to the high-end Maldivian hospitality sector.
+
+Maxies and Co Pvt Ltd is also listed as an egg exporter by Sri Lanka’s Export Development Board.
+
+...
+
+[Data](articles/a6727bfa.json)
 
 ---
 
@@ -503,6 +565,30 @@ Investigations revealed that the tourist, a YouTuber had arrived in Sri Lanka to
 [Data](articles/9839d269.json)
 
 [Extended Data](ext_articles/9839d269.ext.json)
+
+---
+
+### Sri Lanka moves to ban ‘Happy Hour’ leaves hotels staggered
+
+*2024-05-31 13:34:00* · [`economynextcom`](https://economynext.com/sri-lanka-moves-to-ban-happy-hour-leaves-hotels-staggered-165586/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s hotels have protested a move by the island’s alcohol and tobacco control agency to ban the ‘Happy Hour’, with the threat to fine each director 50,000 rupees if discounts are offered on alcohol.
+
+“It is serious matter for the industry,” Tourist Hotels Association of Sri Lanka President M Shanthikumar said.
+
+“The Happy Hour is not only found in Sri Lanka. It is across the world.”
+
+The National Authority on Tobacco and Alcohol had informed a city hotel that received complaints that hotels were offering discounts on drinks during ‘Happy Hour’ promotions.
+
+The practice was viewed as a violation of the NATA Act, the agency had decided to direct all hotels to stop giving discounts on alcohol.
+
+Each director will be fined 50,000 rupees if hotels continued to make customers happy with discounts.
+
+Shanthikumar said representations have been made to the Sri Lanka Tourist Development Authority to help resolve the crisis.
+
+...
+
+[Data](articles/df502f90.json)
 
 ---
 
@@ -801,6 +887,24 @@ The Bribery Commission had filed indictments against five accused for causing a 
 [Data](articles/3820f2cf.json)
 
 [Extended Data](ext_articles/3820f2cf.ext.json)
+
+---
+
+### Sri Lanka to get blue economy research fellowships from India BIMSTEC initiative
+
+*2024-05-31 11:53:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-get-blue-economy-research-fellowships-from-india-bimstec-initiative-165570/) · `en`
+
+ECONOMYNEXT – Candidates from Sri Lanka would get opportunities to conduct doctoral research in India under an initiative launched for BIMSTEC countries, the Indian High Commission in Colombo said.
+
+Under BIMReN Split-Site Doctoral Fellowships, doctoral candidates in BIMSTEC member countries get a research grant of up to 1 million Indian rupees and the opportunity to pursue studies at Indian research labs for 6-12 months.
+
+Government of India has launched BIMReN (BIMSTEC-India Marine Research Network), a joint-initiative of MEA and the Bay of Bengal Programme-Inter Governmental Organization (BOBP-IGO), to facilitate sustainable development of blue economy by networking researchers and research institutions in BIMSTEC countries.
+
+2. BIMReN aims to enable PhD students from BIMSTEC countries to conduct doctoral research in India and facilitate collaborative research among scientists / academicians from BIMSTEC countries through:
+
+...
+
+[Data](articles/0383afce.json)
 
 ---
 
@@ -2113,97 +2217,5 @@ Group’s Healthcare and Consumer sectors led growth while healthcare segment re
 [Data](articles/311768de.json)
 
 [Extended Data](ext_articles/311768de.ext.json)
-
----
-
-### Watawala Plantations appoints Reyaz Mihular as Chairman; bids farewell to Sunil G. Wijesinha
-
-*2024-05-31 05:20:22* · [`dailyftlk`](https://www.ft.lk/business/Watawala-Plantations-appoints-Reyaz-Mihular-as-Chairman-bids-farewell-to-Sunil-G-Wijesinha/34-762397) · `en`
-
-Watawala Plantations PLC has announced the appointment of Reyaz Mihular as Chairman, succeeding Sunil G. Wijesinha, who is stepping down after completing a long tenure of 12 years with the company.
-
-Mihular is an accomplished professional in the financial and corporate sectors, having held various significant senior management roles throughout his career. He served as Managing Partner of KPMG Sri Lanka & Maldives from 2012 to 2022 and chaired KPMG’s Middle East and South Asia Regional Cluster, where he also acted as Chief Operating Officer. Mihular’s expertise spans both in accounting and management, as reflected in his presidency and fellowship at the Institute of Chartered Accountants of Sri Lanka.
-
-...
-
-[Data](articles/0f19fbd5.json)
-
-[Extended Data](ext_articles/0f19fbd5.ext.json)
-
----
-
-### Calls for probe into Bar Assoc. office bearers over misconduct in JICA project
-
-*2024-05-31 05:18:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Calls-for-probe-into-Bar-Assoc-office-bearers-over-misconduct-in-JICA-project/108-283758) · `en`
-
-Several concerned members of the Bar Association of Sri Lanka (BASL) - Attorneys-at-Law including President's Counsels have urged the newly appointed five-member expertise Committee of Inquiry to look into the very serious and perturbing allegations of misconduct against few members of the Bar Association office bearers into the JICA funded project/ activities.
-
-This five member expertise Committee of Inquiry was appointed by the Bar Council on May 18, 2024 and consist of Dr. K. Kanag-Isvaran PC, Dr. Faisz Musthapha PC, Rienzie Arsekuleratne PC, Ikram Mohamed PC and Geoff Alagaratnam PC.
-
-The Daily Mirror in its May 22nd edition exposed this alleged misconduct under the caption ‘Did BASL misappropriate monies sent by JICA for anti-corruption programme’.
-
-According to BASL Financial Report as at April 30, 2024, which this newspaper is in possession, President and Deputy President of the BASL have been paid Rs 6 and 3 million respectively out of the project money.
-
-...
-
-[Data](articles/a3af641a.json)
-
-[Extended Data](ext_articles/a3af641a.ext.json)
-
----
-
-### UN addresses concern over deployment of HR violators in peacekeeping missions
-
-*2024-05-31 05:17:10* · [`dailyftlk`](https://www.ft.lk/news/UN-addresses-concern-over-deployment-of-HR-violators-in-peacekeeping-missions/56-762395) · `en`
-
-UN Spokesperson Stephane Dujarric emphasises Secretariat’s commitment to deploying personnel who meet the highest standards integrity, including commitment to human rights
-
-Acknowledges there have been instances where allegations of past HR violations by uniformed personnel were brought to UN’s attention
-
-Ensures in such cases, UN peacekeeping department takes appropriate action following their screening policy and other relevant frameworks
-
-In a recent UN news briefing, questions were raised about a recent investigative documentary revealing that Bangladesh and Sri Lanka have allegedly sent officers implicated in severe human rights violations, including torture and extrajudicial killings, on UN peacekeeping missions. Concerns at the briefing held on 22 May were specifically highlighted regarding the deployment of numerous human rights abusers from Bangladesh.
-
-...
-
-[Data](articles/f44751cd.json)
-
-[Extended Data](ext_articles/f44751cd.ext.json)
-
----
-
-### Notice issued to Maithripala Sirisena on contempt of court charges
-
-*2024-05-31 05:16:00* · [`dailyftlk`](https://www.ft.lk/news/Notice-issued-to-Maithripala-Sirisena-on-contempt-of-court-charges/56-762394) · `en`
-
-The Court of Appeal yesterday issued notice to the former Sri Lanka Freedom Party (SLFP) Chairman and President Maithripala Sirisena with regard to a contempt of court petition filed against him.
-
-The notice was issued petition, was taken up before the two-member judge bench comprising of the President of the Court of Appeal Justice Nissanka Bandula Karunaratne and Justice Shashi Mahendran yesterday, after hearing submissions made on behalf of the complainant.
-
-Accordingly, the judge bench ordered the counsels of the petitioning party to send notice to the respondent of the petition, former President Sirisena, to confirm the facts related to the petition.
-
-The petition was filed by SLFP Executive Committee member Montague Sarathchandra.
-
-The petitioner has alleged that Sirisena has committed contempt of Court through his actions in violation of a Court order issued by the Colombo District Court preventing him from acting as the Chairman of the SLFP.
-
-◼️
-
-[Data](articles/2f987303.json)
-
-[Extended Data](ext_articles/2f987303.ext.json)
-
----
-
-### Memorial service today in remembrance of late French envoy
-
-*2024-05-31 05:13:06* · [`dailyftlk`](https://www.ft.lk/news/Memorial-service-today-in-remembrance-of-late-French-envoy/56-762393) · `en`
-
-A memorial service in remembrance of the late Ambassador Jean-François Pactet of France to Sri Lanka will be held today at St.Mary’s Church, Lauries Road, Colombo 4, commencing at 10 a.m.  Monsignor Brain Udaigwe, Apostolic Nuncio of the Holy See to Sri Lanka, will lead the memorial service.
-
-◼️
-
-[Data](articles/ce37ea90.json)
-
-[Extended Data](ext_articles/ce37ea90.ext.json)
 
 ---

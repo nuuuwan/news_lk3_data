@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-31 16:34:57**
+As of **2024-05-31 16:50:47**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,396
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,535 (100.0%) of 27,537 articles have been extended.
+27,537 (100.0%) of 27,537 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -125,6 +125,8 @@ Accordingly, the results can be viewed on the following website: www.doenets.lk.
 ◼️
 
 [Data](articles/513a2bf2.json)
+
+[Extended Data](ext_articles/513a2bf2.ext.json)
 
 ---
 
@@ -226,17 +228,23 @@ Our sister paper Daily Lankadeepa won seven awards at Miracle award ceremony hel
 
 ---
 
-### පිටකොටුවේදී නැතිවූ විදේශීය කතගේ බෑගය දින 5කින් පසු කැලනියෙන් හමුවෙයි
+### Lost foreign woman's bag found in Kelaniya after 5 days
 
 *2024-05-31 14:32:57* · [`adalk`](https://www.ada.lk/breaking_news/පිටකොටුවේදී-නැතිවූ-විදේශීය-කතගේ-බෑගය-දින-5කින්-පසු-කැලනියෙන්-හමුවෙයි/11-409941) · `si`
 
-ඉකුත් 25දින පිටකොටුව බැස්ටියන් මාවත බස්නැවතුම්පලේ බස් රථයක් තුලදී විදේශීය ජාතික කාන්තාවකගේ රුපියල් ලක්ෂ 25 කට අධික වටිනාකමින් යුත් දේපල සහිත ගමන් බෑගයක් සොරකම් කිරීමක් සම්බන්ධයෙන් පිට කොටුව පොලිස් ස්ථානයට ලැබූ පැමිනිල්ලක් මත විමර්ශත ආරම්භ කර තිබිණි.
+A lost foreign woman's bag containing valuable items was found in Kelaniya after five days. The bag was discovered near the Bastian Mawatha Bus Stand in Pettah, valued at over Rs. 25 million. A suspect was arrested by police officers from the Pettah Church Street Police Station. The Loddeceiya police recovered the bag, which included a camera and bank cards, from a sharp in Pettiyagoda.
 
-ඒ් අනුව සොරකම සිදුකරන ලද සැකකරු අද (31) අළුයම කැළණිය පෙතියාගොඩ පුදේශයේදී පිටකොටුව පොලිස් ෂථානයේ නිළධාරීන් පිරිසක් විසින් අත්අඩංගුවට ගත් බව වාර්ථාවෙයි. එහිදී සොරාගන්නා ලදබව කියන බෑගයෙහ වූ ලැප්ටෙප් පරිගණකය කැමරාව හා බැංකු කාඩ්පත් සොයාගත් බව පෙලීසිය පවසයි.
+🟩
+
+On the 25th of the Bastian Mawatha Bus Stand on the Bastian Mawatha Bus Stand on Pettah, a bus worth over Rs. 25 million worth of property worth Rs.
+
+So the suspect was arrested by a group of police church officers in Pettah in Pettiyagoda today (31).. The Lodlepe computer cards found the camera and banking cards in the sharft where the stolen.
 
 ◼️
 
 [Data](articles/a6809f71.json)
+
+[Extended Data](ext_articles/a6809f71.ext.json)
 
 ---
 

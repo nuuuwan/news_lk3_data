@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-31 19:51:54**
+As of **2024-05-31 20:03:46**
 
 ## Newspaper Stats
 
-*Scraped **27,576** Articles*
+*Scraped **27,583** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,88 @@ newsfirstlk | 363
 islandlk | 1,488
 economynextcom | 1,575
 dailyftlk | 1,612
-adalk | 2,354
+adalk | 2,356
 adaderanalk | 3,140
 tamilmirrorlk | 3,234
-virakesarilk | 4,256
-dailymirrorlk | 4,365
+virakesarilk | 4,260
+dailymirrorlk | 4,366
 adaderanasinhalalk | 4,401
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,575 (100.0%) of 27,576 articles have been extended.
+27,576 (100.0%) of 27,583 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-31 (Friday)
+
+### வேலை நிறுத்தத்தில் ஈடுபட்டுள்ள பல்கலைக்கழக கல்விசாரா ஊழியர்களுடன் எதிர்வரும் திங்கட்கிழமை பேச்சுவார்த்தை - உயர்கல்வி இராஜாங்க அமைச்சர் கலாநிதி சுரேன் ராகவன்
+
+*2024-05-31 19:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/184999) · `ta`
+
+பல்வேறு கோரிக்கைகளை முன்வைத்து வேலை நிறுத்தத்தில் ஈடுபட்டுள்ள பல்கலைக்கழக கல்விசாரா ஊழியர் சங்கங்களுடன் எதிர்வரும் திங்கட்கிழமை பேச்சுவார்த்தை நடத்தவுள்ளதாக உயர்கல்வி இராஜாங்க அமைச்சர் கலாநிதி சுரேன் ராகவன் தெரிவித்தார்.
+
+இது தொடர்பில் ஜனாதிபதி ரணில் விக்ரமசிங்க உள்ளிட்ட அரசாங்கம் சிறந்த தீர்வை வழங்க தயாராக உள்ளதாகவும் அவர் குறிப்பிட்டார்.
+
+ஜனாதிபதி ஊடக மையத்தில் 31ஆம் வெள்ளிக்கிழமை நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே உயர்கல்வி இராஜாங்க அமைச்சர் சுரேன் ராகவன் இதனைத் தெரிவித்தார்.
+
+...
+
+[Data](articles/c91cb4f4.json)
+
+---
+
+### Jeevan criticized for thuggish behavior; takes law into own hands
+
+*2024-05-31 19:42:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Jeevan-criticized-for-thuggish-behavior-takes-law-into-own-hands/108-283819) · `en`
+
+May 31 - In a country where Ministers often believe they can get away by taking the law into their own hands, Water Supply Minister Jeevan Thondaman was the latest to be ridiculed for his thuggish behavior when he threatened police officers and the management of a Nuwara Eliya tea estate.
+
+In a social media video, likely to have been filmed by someone closely following the Minister, Jeevan was seen turning into an 'angry rowdy' while entering the tea estate by force and threatening the management.
+
+He was also seen arguing with the police and later blocking the roads, in a manner not suitable for a Cabinet Minister.
+
+However, after coming under criticism, Jeevan took to his X account defending his actions.
+
+...
+
+[Data](articles/588c5125.json)
+
+---
+
+### முதியவர்களுக்கான கொடுப்பனவுகள் நிறுத்தப்படுமென வௌியாகும் தகவல் பொய்யானது - நலன்புரி நன்மைகள் சபை
+
+*2024-05-31 19:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/184998) · `ta`
+
+அஸ்வெசும நலன்புரித் திட்டம் நடைமுறைப்படுத்தப்பட்டு வரும் நிலையில் இதுவரையில் வழங்கப்பட்டு வந்த முதியர்களுக்கான கொடுப்பனவு நிறுத்தப்படுமென வௌியாகும் தகவல்கள் உண்மைக்கு புறம்பானவை என நலன்புரி நன்மைகள் சபை அறிவித்துள்ளது.
+
+2024 மே மாதம் கொடுப்பனவுகளை வழங்குவதற்குத் தேவையான சுமார் 1518 மில்லியன் ரூபா நிதி மாவட்டச் செயலகங்களுக்கு அனுப்பி வைக்கப்பட்டுள்ளது.
+
+தொழில்நுட்ப காரணங்களினால் கொடுப்பனவுகளை வழங்குவதில் தாமதம் ஏற்பட்டிருந்தாலும், ஜூன் மாதம் இரண்டாம் வாரத்தின் பின்னர் பிரதேச செயலகங்களில் வழமையான முறையில் முதியவர்களுக்கான கொடுப்பனவு வழங்கப்படுமெனவும் நலன்புரி நன்மைகள் சபை அறிவுறுத்தியுள்ளது.
+
+அதேபோல் ஜுன் கொடுப்பனவும் குறித்த மாதத்திலேயே வழங்கப்படும் என்றும், அஸ்வெசும கொடுப்பனவு கட்டமைப்பின் கீழ் உரிய வங்கிக் கணக்குகளில் பணத்தை வைப்பிடும் பணிகள் ஆரம்பிக்கப்பட்டுள்ளதாகவும் குறித்த சபை அறிவித்துள்ளது.
+
+இதனிடையே தற்போது அஸ்வெசும நலன்புரித் தொகையைப் பெற்றுக்கொள்ளும் குடும்பங்களிலிருந்தும்  70 வயதுக்கு மேற்பட்ட முதியவர்களுக்கு இந்த கொடுப்பனவு வழங்கப்படும் என்றும் நலன்புரி நன்மைகள் சபை அறிவித்துள்ளது.
+
+◼️
+
+[Data](articles/f2b0eb37.json)
+
+---
+
+### கொழும்பில் பலஸ்தீனம் மீதான இனப்படுகொலையை நிறுத்தக்கோரி கவனயீர்ப்பு போராட்டம்
+
+*2024-05-31 19:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/184997) · `ta`
+
+பலஸ்தீனம் மீதான இனப்படுகொலை தாக்குதலை உடன் நிறுத்துமாறு வலியுறுத்தி சிவில் அமைப்பினர் கொழும்பில் உள்ள ஐக்கிய நாடுகள் சபையின் தலைமை அலுவலகத்தின் முன்பாக கவனயீர்ப்பு போராட்டத்தில் ஈடுபட்டனர்.
+
+◼️
+
+[Data](articles/5fab65f7.json)
+
+---
 
 ### Extreme Asian heat spurs LNG demand ahead of summer months
 
@@ -47,6 +113,22 @@ While China may still see lower demand compared with its record breaking shipmen
 ...
 
 [Data](articles/6ddac846.json)
+
+[Extended Data](ext_articles/6ddac846.ext.json)
+
+---
+
+### சைனீஸ் தாய்ப்பே பகிரங்க மெய்வல்லுநர் போட்டி: இலங்கையிலிருந்து ஐவர் பங்கேற்பு
+
+*2024-05-31 19:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/184996) · `ta`
+
+தாய்வானில் நடைபெறவுள்ள சைனீஸ் தாய்ப்பே பகிரங்க மெய்வல்லுநர் போட்டியில் இலங்கை சார்பாக ஐவர் பங்குபற்றவுள்ளனர்.
+
+ஆண்களுக்கான 400 மீற்றர் ஓட்டப் போட்டியில் அருண தர்ஷனவும் பெண்களுக்கான 400 மீற்றர் ஓட்டப் போட்டியில் நடீஷா ராமநாயக்கவும் 800 மீற்றர் ஓட்டப் போட்டியில் தருஷி கருணாரட்ன, கயன்திகா அபேரட்ன ஆகியோரும் ஈட்டி எறிதல் போட்டியில் டில்ஹானி லேக்கம்கேயும் பங்குபற்றவுள்ளனர்.
+
+◼️
+
+[Data](articles/bb3d01e3.json)
 
 ---
 
@@ -94,7 +176,7 @@ Director General of Health Services Dr. Asela Gunawardena said that children bet
 
 *2024-05-31 18:37:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Over-150-000-qualify-for-university-entrance/108-283816) · `en`
 
-Colombo, May31 (Daily Mirror) - A total of 173,444 students have qualified to apply for university admission this year following the 2023 (2024) GCE Advanced Level (A/L) examinations.
+Colombo, May31 (Daily Mirror) - A total of 173,444 students have been qualified to apply for university admission this year following the 2023 (2024) GCE Advanced Level (A/L) examinations.
 
 Addressing the media, the Examinations Department Commissioner General said the qualified percentage was 64.33.
 
@@ -851,6 +933,22 @@ The robbery had taken place when the bus was landed at the Bastian bus station a
 [Data](articles/31a81919.json)
 
 [Extended Data](ext_articles/31a81919.ext.json)
+
+---
+
+### දින දින තැන තැන මළ සිරුරු
+
+*2024-05-31 15:43:30* · [`adalk`](https://www.ada.lk/breaking_news/දින-දින-තැන-තැන-මළ-සිරුරු/11-409942) · `si`
+
+වික්ටෝරියා ජලාශයේ දිගන ප්‍රදේශයේ ප‍ාවෙමින් තිබු පුද්ගල මල සිරරු දෙකක් ඊයේ (30) සොයා ගත් බව තෙල්දෙණිය පොලීසිය පවසයි.
+
+තෙල්දෙණිය පොලිස් ස්ථානයට ලද තොරතුරකට අනුව දිගන, අඹකොටේ හා පොල් අක්කර තිහ ගම්මානවලට මායිම්ව පිහිටි වික්ටෝරියා ජලාශයේ පාවෙමින් තිබූ මෙම මල සිරුරු දෙක ප්‍රදේශවාසින්ට හමුවී ඇති අතර එම සිරුරු හඳුනාගැනීමට නොහැකි තරම් නරක්වී ඇත.
+
+මෙම මල සිරුරු දෙක සම්බන්ධ‍යෙන් තෙල්දෙණිය වැඩබලන මහේස්ත්‍රාත් බාන්ස් රඹුක්වැල්ල මහතා විසින් ස්ථානීය පරීක්ෂාවක් සිදු කර ඇති අතර ඉන් පසු  තෙල්දෙණිය පොලිස්ථානයේ නිළධාරීන් හා ප්‍රදේශවාසීන් එක්ව අදාළ සිරුරු දෙක ගොඩ ගෙන මහනුවර ජාතික රෝහලේ මෘත ශරීරාගාරය වෙත භාර දී ඇත. (I J)
+
+◼️
+
+[Data](articles/2c2d92c8.json)
 
 ---
 
@@ -2137,153 +2235,5 @@ The Colombo Stock Exchange opened up. The All Share Price Index was up 0.10 perc
 [Data](articles/b80e0e11.json)
 
 [Extended Data](ext_articles/b80e0e11.ext.json)
-
----
-
-### Midigama brings Ruwan to TID
-
-*2024-05-31 09:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197203) · `si`
-
-Midigama Ruwan, linked to the International Drug Games and recently arrested in Dubai, was brought to the island today and then taken to the Terrorism Investigation Division (TID). He is associated with Chinthaka, who is already in custody. The operation to extradite him was led by the Criminal Investigation Department (CID), supervised by DIG Rohan Premaratne.
-
-🟩
-
-Midigama Ruwan, who brought to the island this morning, has been taken to the Terrorism Investigation Division.
-
-Midigama Ruwan was taken to the island this morning, a suspect involved in the International Drug Games.
-
-He is currently the close associate of Chinthaka, who is in custody.
-
-Midigama Ruwan, a few months ago, was arrested by the Dubai Police a few months ago with a clash at a nightclub in Dubai.
-
-The Troops of the Terror Investigation Division had left for Dubai last night to bring him informed of the Criminal Investigation Department.
-
-DIG Rohan Premaratne in charge of the Criminal Investigation Division Rohan Premaratne is under the supervision of Mr. Roharan Premaratne.
-
-It has also been revealed that Midigama, who is called Chinthaka, or the beef, has been led by Duda.
-
-The operation was organized by the Criminal Investigation Department from the CID.
-
-◼️
-
-[Data](articles/f9fd2af4.json)
-
-[Extended Data](ext_articles/f9fd2af4.ext.json)
-
----
-
-### France to Palestinia
-
-*2024-05-31 09:36:37* · [`adalk`](https://www.ada.lk/breaking_news/පලස්තින-රාජ්‍යයට-චිනයේ-සහාය/11-409938) · `si`
-
-Xi Jinping, at the Chinese Arabian Cooperation Forum, expressed China's commitment to fostering strong ties with Arab nations for global stability. He highlighted China's readiness to cooperate, respecting international laws and history. China aims to enhance bilateral relations through large-scale investments, energy partnerships, and cultural exchanges. Xi Jinping reaffirmed China's support for a Palestinian state in East Jerusalem, emphasizing the importance of peace and justice.
-
-🟩
-
-Chinese President tells the Arab General Cooperation Forum that supports the establishment of a papers establishment of full independence.
-
-Chinese President Xi Jin Pin conducting the keynote address at the inauguration ceremony of the Chinese Arabian Cooperation Forum.. The ceremony was held in the capital yesterday (30) morning.
-
-Shi Jinping said China hopes to develop the Chinese-Arabian Kingdom relationship with Arab countries as a motivation to ensure global and stability.. Shi Jin Pin said China is ready to try to try to attempt to strive with the Arab countries, respecting the United Nations Charter and Principles and the Historical Truths and historical truths.
-
-...
-
-[Data](articles/0ee18961.json)
-
-[Extended Data](ext_articles/0ee18961.ext.json)
-
----
-
-### Midigama Ruwan takes over Sri Lanka
-
-*2024-05-31 09:28:24* · [`adalk`](https://www.ada.lk/picture_story/මිදිගම-රුවන්-ලංකාවට-රැගෙන-එයි/10-409937) · `si`
-
-Midigama Ruwan, a notorious organized crime leader, was recently apprehended by the Colombo Terrorism Investigation Unit after a confrontation at a club. Known internationally due to a Red Notice by Interpol, his arrest followed a raid where a group of 31-year-old investigators from the Jayasekera Investigation Unit were also detained. This incident highlights the ongoing efforts against criminal activities in Sri Lanka, with special police officers traveling to Dubai for further investigations.
-
-🟩
-
-A group of 31 year old Jayasekera Investigation Unit of the Colombo Terrorism Investigation Unit, a group of 31 year old Jayasekera Investigation Unit, was arrested by the Colombo Terrorism Investigation Unit.
-
-Midigama Ruwan has been revealed that the organized criminal gang leader of the organized crime leader, who is currently in man.
-
-He was arrested by security forces in a confrontation took place at a club about two months ago.
-
-Midigama Ruwan International Interpol is a criminal mentioned in the red notice of the International Announcements.
-
-A group of special police officers had gone to Dubai on 08/28, a Superintendent of Police in the Colombo Terrorist Inquiries in Colombo.
-
-They were 05.45 am on 05.45 am on 05.45 am from Dubai to SriLankan Airlines.
-
-He was taken out of heavy security care at the Katunayake airport, he was taken to the Colombo Terrorist Investigation Division for further investigations.
-
-◼️
-
-[Data](articles/e488b825.json)
-
-[Extended Data](ext_articles/e488b825.ext.json)
-
----
-
-### Assistant Customs Superintendent arrested with illegally imported cigarettes
-
-*2024-05-31 09:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/184922) · `ta`
-
-A Customs Superintendent was arrested in Colombo for smuggling 7,000 cigarettes worth around 590,000 rupees. The Colombo Central Crime Branch made the arrest in Colombo Fort.
-
-🟩
-
-A Customs Superintendent has been arrested with 7,000 cigarettes imported to the country.
-
-The suspect has been arrested by the Colombo Central Crime Branch in Colombo Fort.
-
-The value of foreign cigarettes received from the suspect was about 590,000 rupees, police said.
-
-◼️
-
-[Data](articles/573f1b5a.json)
-
-[Extended Data](ext_articles/573f1b5a.ext.json)
-
----
-
-### Sri Lankan eyes to Pakistan, 36,000 corneas donated
-
-*2024-05-31 09:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankan-eyes-to-Pakistan-36-000-corneas-donated/108-283777) · `en`
-
-Pakistan, May 31 (Daily Mirror) - Sri Lanka has donated as many as 36,000 corneas to Pakistan over many decades, a top official said.
-
-Sri Lankan High Commissioner in Islamabad Ravindra Wijegunawardena told a function here that Sri Lanka had donated 88,000 corneas to the world and Pakistan has been the single largest recipient.
-
-He said the second largest recipient had got only 2,000 corneas.
-
-The High Commissioner said Sri Lankan military personnel especially will their corneas to be donated to Pakistan as a gesture of goodwill.
-
-◼️
-
-[Data](articles/2b65678a.json)
-
-[Extended Data](ext_articles/2b65678a.ext.json)
-
----
-
-### Mithigama Ruwan was brought to Sri Lanka from Dubai
-
-*2024-05-31 09:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/184921) · `ta`
-
-Mithigama Ruwan, linked to an underworld gang and international drug smuggling, was extradited from Dubai to Sri Lanka after being arrested there for a hotel brawl. He's now under investigation by the Colombo Criminal Investigation Division.
-
-🟩
-
-Vidhanage Ruwan Samara, the leader of the underworld gang and the smuggler in the international drug network, has been brought to the country by officials of the Criminal Investigation Division from Dubai.
-
-Mithigama Ruwan was arrested two months ago in connection with the clash at a Dubai Kaliyatta Hotel. His name was on the red list of the International Police.
-
-He was taken to the Katunayake airport with strong security and taken to the Colombo Criminal Investigation Division for further investigations.
-
-◼️
-
-[Data](articles/053d36a9.json)
-
-[Extended Data](ext_articles/053d36a9.ext.json)
 
 ---

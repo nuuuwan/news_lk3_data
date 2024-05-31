@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-31 18:12:25**
+As of **2024-05-31 18:23:46**
 
 ## Newspaper Stats
 
-*Scraped **27,553** Articles*
+*Scraped **27,554** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,488
 economynextcom | 1,575
 dailyftlk | 1,612
 adalk | 2,353
-adaderanalk | 3,137
+adaderanalk | 3,138
 tamilmirrorlk | 3,231
 virakesarilk | 4,244
 dailymirrorlk | 4,363
@@ -26,11 +26,25 @@ adaderanasinhalalk | 4,399
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,552 (100.0%) of 27,553 articles have been extended.
+27,553 (100.0%) of 27,554 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-31 (Friday)
+
+### SAITM and NFTH to be handed over to Moratuwa Uni. in August
+
+*2024-05-31 18:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/99567/saitm-and-nfth-to-be-handed-over-to-moratuwa-uni-in-august) · `en`
+
+The South Asian Institute of Technology (SAITM) and the Neville Fernando Teaching Hospital (NFTH) will be handed over to the Faculty of Medicine, University of Moratuwa in August, the President’s Media Division (PMD) reported.
+
+The decision was taken in order to make pre-arrangements for the University of Moratuwa before commencing academic studies in January 2025, according to the PMD.
+
+◼️
+
+[Data](articles/eadd8f5e.json)
+
+---
 
 ### Work on Kurunegala Foreign Employment Agency
 
@@ -148,17 +162,23 @@ This is stated by the latest report issued by the Department of Census and Stati
 
 ---
 
-### උපෙළ ප්‍රති‍ඵල නිකුත් කරයි
+### The boash issues
 
 *2024-05-31 16:31:54* · [`adalk`](https://www.ada.lk/breaking_news/උපෙළ-ප්‍රති‍ඵල-නිකුත්-කරයි/11-409944) · `si`
 
-අපොස ‍උසස් පෙළ 2023 (2024) විභාගයේ ප්‍රතිඵල විභාග දෙපාර්තමේන්තුව විසින් මේ වන විට නිකුත් කර තිබේ.
+The GCE Advanced Level 2023 (2024) exam results are out, accessible via https://www.doees.lk/examresults.
 
-https://www.doenets.lk/examresults යන සබඳිය ‍ඔස්සේ එම ප්‍රතිඵල ලබා ගැන‍‍ිමට අවස්ථාව තිබේ.
+🟩
+
+The results of the examination of the GCE Advanced Level 2023 (2024) have been released by the Department of Examinations.
+
+The links available to https://www.doees.lk/examresults have the opportunity to get these results.
 
 ◼️
 
 [Data](articles/22792aa0.json)
+
+[Extended Data](ext_articles/22792aa0.ext.json)
 
 ---
 
@@ -2243,27 +2263,5 @@ Strong winds of about 40-50 kmph can be expected at times over Western slopes of
 [Data](articles/cb74ddb7.json)
 
 [Extended Data](ext_articles/cb74ddb7.ext.json)
-
----
-
-### International spotlight on presidential election
-
-*2024-05-31 06:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/International-spotlight-on-presidential-election/108-283757) · `en`
-
-Colombo, May 31 (Daily Mirror) - The International spotlight is already cast on the conduct of the upcoming presidential election in Sri Lanka with the European Union already deploying its experts for a pre-election assessment of the ground situation, an official said yesterday.
-
-Election observers are usually deployed to monitor national elections in Sri Lanka. They also carry out pre-poll assessments to ascertain whether a free and fair electoral process is ensured in the country.
-
-However, it assumes special significance this year because Sri Lanka is going to implement the Campaign Finance Act to monitor electoral expenses of candidates for the first time.
-
-The implementation of the new law was also a recommendation by the EU experts who monitored elections in Sri Lanka in the past.
-
-Election Commission’s Chairman R. M. A. L. Ratnayake confirmed that the EU delegation met with him.
-
-...
-
-[Data](articles/4be1dc6d.json)
-
-[Extended Data](ext_articles/4be1dc6d.ext.json)
 
 ---

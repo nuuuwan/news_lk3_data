@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-31 19:03:51**
+As of **2024-05-31 19:18:35**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,401
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,558 (100.0%) of 27,560 articles have been extended.
+27,560 (100.0%) of 27,560 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -52,6 +52,8 @@ Candidates can visit the Education Department’s official websites www.doenets.
 
 [Data](articles/ab5839ab.json)
 
+[Extended Data](ext_articles/ab5839ab.ext.json)
+
 ---
 
 ### Island’s best results of 2023 A/L exam
@@ -62,6 +64,12 @@ The names of the students who have obtained the best results in the island at th
 
 Accordingly, Pahanma Upani Lenora of Sangamitta Balika Vidyalaya in Galle has placed first in the island in the Biological Science stream while W.A Chirath Nirodha of Ananda College, Colombo is the island’s first in the Physical Science stream.
 
+In the Commerce stream, Shehara Sithumini of Panadura Balika Vidyalaya has obtained the best results in the island.
+
+Shehani Navodya of Ginigathhena Central College is the island’s first in the Engineering Technology stream.
+
+Meanwhile, Shehani Navodya of Ginigathhena Central College has obtained island’s best results in Arts stream.
+
 ◼️
 
 [Data](articles/c05f05b2.json)
@@ -70,17 +78,23 @@ Accordingly, Pahanma Upani Lenora of Sangamitta Balika Vidyalaya in Galle has pl
 
 ---
 
-### SAITM සහ නෙවිල් ප්‍රනාන්දු රෝහල් ගැන තීරණයක්
+### Decision about SAITM and Neville Fernando hospitals
 
 *2024-05-31 18:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197220) · `si`
 
-දකුණු ආසියානු තාක්ෂණ ආයතනය (SAITM) සහ නෙවිල් ප්‍රනාන්දු ශික්ෂණ රෝහල (NFTH) මොරටුව විශ්වවිද්‍යාලයේ වෛද්‍ය පීඨයට භාරදෙන බව ජනාධිපති මාධ්‍ය අංශය පවසයි.
+The Presidential Media Unit, SAITM, and NFTH will be managed by the University of Moratuwa's Medical Faculty. Preparations for this transition are set to begin in August, with studies starting in January 2025.
 
-2025 ජනවාරි මාසයේ අධ්‍යයන කටයුතු ආරම්භ කිරීමට පෙර ඒ සඳහා අවශ්‍ය පූර්ව කටයුතු සිදුකිරීමට අගෝස්තු මාසයේ දී මොරටුව විශ්වවිද්‍යාලයේ වෛද්‍ය පීඨයට භාර දෙන බව සඳහන් වේ.
+🟩
+
+The Presidential Media Unit, the South Asian Institute of Technology (SAITM) and the Neville Fernando Teaching Hospital (NFTh) will be handed over to the Medical Faculty of the University of Moratuwa.
+
+It is said that before the commencement of study in January 2025, it is said that the necessary pre-action will be taken to the Medical Faculty of the University of Moratuwa in August.
 
 ◼️
 
 [Data](articles/b26ddcd8.json)
+
+[Extended Data](ext_articles/b26ddcd8.ext.json)
 
 ---
 

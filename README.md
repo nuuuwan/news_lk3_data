@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-31 11:05:16**
+As of **2024-05-31 11:18:47**
 
 ## Newspaper Stats
 
-*Scraped **27,479** Articles*
+*Scraped **27,480** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,568
 dailyftlk | 1,612
 adalk | 2,345
 adaderanalk | 3,128
-tamilmirrorlk | 3,223
+tamilmirrorlk | 3,224
 virakesarilk | 4,236
 dailymirrorlk | 4,346
 adaderanasinhalalk | 4,387
@@ -26,11 +26,29 @@ adaderanasinhalalk | 4,387
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,476 (100.0%) of 27,479 articles have been extended.
+27,479 (100.0%) of 27,480 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-31 (Friday)
+
+### யாழ்ப்பாணத்தில் ஆசிரியர் ஒருவருக்கு கற்பிக்கத் தடை
+
+*2024-05-31 11:02:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/யாழ்ப்பாணத்தில்-ஆசிரியர்-ஒருவருக்கு-கற்பிக்கத்-தடை/71-338194) · `ta`
+
+யாழ்ப்பாணத்தில் 10 வயது மாணவிகளுடன் தவறாக நடந்துகொண்டதாக குற்றம்சாட்டப்பட்ட ஆசிரியருக்கு வடமாகாண கல்வி அமைச்சினால் பணித்தடை விதிக்கப்பட்டுள்ளது.
+
+மானிப்பாய் பகுதியில் உள்ள பிரபல பாடசாலை ஒன்றில் தரம் 05 இல் கல்வி கற்கும் 10 வயதான மாணவிகளுடன் ஆசிரியர் ஒருவர் தவறாக நடந்து கொண்டதாக பாதிக்கப்பட்ட மாணவி ஒருவரின் பெற்றோர் மானிப்பாய் பொலிஸ் நிலையத்தில் முறைப்பாடு செய்திருந்தார்.
+
+இதன் அடிப்படையில், பொலிஸார் ஆசிரியரை கைது செய்து மல்லாகம் நீதவான் நீதிமன்றில் முற்படுத்திய நிலையில், அவர் தற்போது பிணையில் விடுவிக்கப்பட்டு  மன்றில் வழக்கு நிலுவையில் உள்ளது.
+
+இந்நிலையில், சம்பவம் தொடர்பில் திணைக்களம் ஊடான விசாரணைகள் முன்னெடுக்கப்பட்டு விசாரணை அறிக்கை கல்வி அமைச்சின் செயலாளருக்கு அனுப்பி வைக்கப்பட்ட நிலையில், ஆசிரியர் தனது பணியினை தொடர தடை விதிக்கப்பட்டு, குற்றம் சாட்டப் பட்டுள்ள ஆசிரியருக்கு கடிதம் அனுப்பி வைக்கப்பட்டுள்ளது. R
+
+◼️
+
+[Data](articles/17693bf0.json)
+
+---
 
 ### Daily consumption of eggs has increased by one million
 
@@ -50,25 +68,33 @@ However, the Minister instructed the Agriculture Ministry Livestock Division to 
 
 [Data](articles/ce2917b0.json)
 
+[Extended Data](ext_articles/ce2917b0.ext.json)
+
 ---
 
-### මේක කැරට් අලයක් - වාහන ආනයනකරුවන් කියයි
+### This is a carrot potato - Vehicle importers
 
 *2024-05-31 10:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197205) · `si`
 
-වාහන ආනයනය සඳහා ඉඩ ලබාදෙන බවට රජය නිතර පවසන දේ සම්බන්ධයෙන් සැකයක් මතුවෙන බව ශ්‍රී ලංකා වාහන ආනයනකරුවන්ගේ සංගමය පවසයි.
+Sri Lanka's SLTB expresses skepticism over the government's claims on vehicle imports, noting potential price hikes post-importation due to high taxes. The Central Bank hints at easing export restrictions but no action has been taken yet. Vehicles like buses, lorries, and three-wheelers are prioritized for import, with cars and vans to follow. There's concern over whether this approach will genuinely lower vehicle prices, as market dynamics play a significant role.
 
-ඔහු පෙන්වා දෙන්නේ කෙසේවෙතත් වාහන ආනයනයට ඉඩ ලබාදුන් පසු මිල ගණන් ඉහළ යෑමේ ප්‍රවණතාවයක් ද ඇති බවය.
+🟩
 
-"අවුරුදු 4 පුරා අපි බලන් ඉන්නවා වාහන ආනයනය සම්බන්ධව. ළඟදීම ගේන්න දෙනවා කියලා කියනවා. නමුත් දිනයක් කාලයක් කියන්නේ නෑ. ක්‍රමානුකූලව ලිහිල් කරන්න පුළුවන් කියලා මහ බැංකු අධිපති කිව්වා.ලංකාවේ වාහන එකලස් කිරීම කරනවා. නමුත් තවමත් අපනයනයක් කරලා නැහැ. අපි වාහන ආනයනය කළාම 200% ක් පමණ රජය බදු ගහනවා."
+The Association of Sri Lanka (SLTB) says that there is a suspicion regarding what the government often says to import vehicles.
 
-"අපි රාජ්‍ය ඇමති රංජිත් සියඹලාපිටිය මහතා සමග සාකච්ඡා කළා. ඔහු කිව්වේ මුලින් බස්, ලොරි වගේ වාහනවලට ඉඩ දීලා ඒක ආර්ථිකයට බාලපාන අයුරු බලලා පස්සේ ත්‍රීවිල්, යතුරුපැදි සඳහා ලිහිල් කරන්නේ කියලා. ඊට පස්සේ තමයි කාර්, වෑන්වලට අවස්ථාව ලැබෙන්නේ."
+He points to however, however, there is a tendency to increase the prices after allowing vehicles.
 
-"මේ වාහන ගේන්න අවසර දෙනවා කියන එක විදියක කැරට් අලයක් කියලා අපිට සැකයක් මතුවෙලා තියෙනවා. මේක පෙන්වා සූදානම් වෙන්නේ මැති ඇමතිවරුන්ට අවශ්‍ය වාහන ටික ගෙන්වා දෙන්න. මොකද මැතිඇමතිවරු ඉල්ලීම් කරලා තියෙනවා කථානායකට ඒ අයට වාහන ලබාදෙන්න කියලා."
+"We are waiting for the 4 years. Says that soon bring. But a day doesn't say a day. Central Bank Governor said he could gradually ease.. But still not exporting. When we import vehicles, about 200% of the government taxes. "
+
+"We discussed the Minister of State Minister Ranjith Siyambalapitiya. He said the buses first allows vehicles like lorries, after lorry, and after the economy, three-wheeler, motorbike loose. That is the next time cars, vans get the opportunity. "
+
+"We have doubts that there is a carrot potato that is permitted to bring these vehicles. It is preparing to bring the vehicles you want to and the ministers. Because the representatives have made the requests to give speakers to vehicles. "
 
 ...
 
 [Data](articles/b96b2158.json)
+
+[Extended Data](ext_articles/b96b2158.ext.json)
 
 ---
 
@@ -260,25 +286,33 @@ The operation was organized by the Criminal Investigation Department from the CI
 
 ---
 
-### මිදිගම රුවන් ලංකාවට රැගෙන එයි
+### Midigama Ruwan takes over Sri Lanka
 
 *2024-05-31 09:28:24* · [`adalk`](https://www.ada.lk/picture_story/මිදිගම-රුවන්-ලංකාවට-රැගෙන-එයි/10-409937) · `si`
 
-සංවිධානාත්මක අපරාධ කල්ලි නායකයෙකු මෙන්ම ජාත්‍යන්තර මත්ද්‍රව්‍ය ජාලයට සම්බන්ධ ජාවාරම්කරුවෙකු වන 31 හැවිරිදි ජයසේකර විතානගේ රුවන් චාමර නොහොත් මිදිගම රුවන් නැමැත්තා , කොළඹ ත්‍රස්තවාදී විමර්ශන ඒකකයේ නිලධාරීන් පිරිසක් විසින් ඩුබායි සිට අත් අඩංගුවට ගෙන 05/31 දින අලුයම කටුනායක ගුවන් තොටුපොළ වෙත රැගෙන විත් තිබුණි .
+Midigama Ruwan, a notorious organized crime leader, was recently apprehended by the Colombo Terrorism Investigation Unit after a confrontation at a club. Known internationally due to a Red Notice by Interpol, his arrest followed a raid where a group of 31-year-old investigators from the Jayasekera Investigation Unit were also detained. This incident highlights the ongoing efforts against criminal activities in Sri Lanka, with special police officers traveling to Dubai for further investigations.
 
-මිදිගම රුවන් දැනට අත් අඩංගුවේ පසුවන හරක් කටා නැමැති සංවිධානාත්මක අපරාධ කල්ලි නායකයාගේ මස්සිනා බවට කරුණු අනාවරණය කර ගෙන තිබේ .
+🟩
 
-මොහු මීට මාස දෙකකට පමණ පෙර ඩුබායි හි සමාජ ශාලාවක ඇති කර ගත් ගැටුමකදී එරට ආරක්ෂක අංශ මගින් අත් අඩංගුවට ගෙන තිබේ .
+A group of 31 year old Jayasekera Investigation Unit of the Colombo Terrorism Investigation Unit, a group of 31 year old Jayasekera Investigation Unit, was arrested by the Colombo Terrorism Investigation Unit.
 
-මිදිගම රුවන් ජාත්‍යන්තර ඉන්ටර්පෝල් පොලිසියේ රතු නිවේදන ලැයිස්තුවේ සදහන් අපරාධකරුවෙකි .
+Midigama Ruwan has been revealed that the organized criminal gang leader of the organized crime leader, who is currently in man.
 
-කොළඹ ත්‍රස්තවාදී විමර්ශන කොට්ඨාසයේ පොලිස් අධිකාරීවරයෙකු යටතේ විශේෂ පොලිස් නිලධාරීන් පිරිසක් ඉකුත් 05/28 දින  ඩුබායි වෙත ගොස් මිදිගම රුවන් එරට ආරක්ෂක අංශ මගින් භාර ගෙන මෙසේ කටුනායක ගුවන් තොටුපොළ වෙත රැගෙන විත් තිබුණි .
+He was arrested by security forces in a confrontation took place at a club about two months ago.
 
-ඔවුන් 05/31 දින අලුයම 05.45 ට ඩුබායි සිට ශ්‍රී ලන්කන් ගුවන් සේවයේ යූ.එල්.- 226 දරන ගුවන් යානයෙන් කටුනායක ගුවන් තොටුපොළ වෙත රැගෙන පැමිණ තිබුණි .
+Midigama Ruwan International Interpol is a criminal mentioned in the red notice of the International Announcements.
 
-...
+A group of special police officers had gone to Dubai on 08/28, a Superintendent of Police in the Colombo Terrorist Inquiries in Colombo.
+
+They were 05.45 am on 05.45 am on 05.45 am from Dubai to SriLankan Airlines.
+
+He was taken out of heavy security care at the Katunayake airport, he was taken to the Colombo Terrorist Investigation Division for further investigations.
+
+◼️
 
 [Data](articles/e488b825.json)
+
+[Extended Data](ext_articles/e488b825.ext.json)
 
 ---
 
@@ -2143,27 +2177,5 @@ Officers in the Katunayaka Airport Unit of the Katunayake Airport's Office are c
 [Data](articles/2d834453.json)
 
 [Extended Data](ext_articles/2d834453.ext.json)
-
----
-
-### Agency owner, and manager further remanded over illegal recruitment of Sri Lankans to Russian army
-
-*2024-05-30 18:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/99548/agency-owner-and-manager-further-remanded-over-illegal-recruitment-of-sri-lankans-to-russian-army) · `en`
-
-The owner and the manager of a licensed foreign employment agency who were arrested and remanded for allegedly sending Sri Lankans for employment in the Russian army to fight in the Ukraine war, have been further remanded until July 13.
-
-The order was issued when the relevant case was taken up before the Negombo Magistrate’s Court today (30).
-
-Based on 07 complaints received regarding the racket operated by the agency, the two suspects were arrested by officers of the Sri Lanka Bureau of Foreign Employment’s (SLBFE) Special Investigations Unit (SIU) on May 15.
-
-It is claimed that the agency had obtained a sum of Rs. 1.5 million from each individual after promising that they would be sent to Russia on tourist visas and given employment in the Russian army’s civil service.
-
-Based on those complaints, the agency is believed to have cheated a total sum of over Rs. 10 million.
-
-◼️
-
-[Data](articles/469c9a8d.json)
-
-[Extended Data](ext_articles/469c9a8d.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-31 13:18:30**
+As of **2024-05-31 13:34:50**
 
 ## Newspaper Stats
 
-*Scraped **27,501** Articles*
+*Scraped **27,502** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,488
 economynextcom | 1,572
 dailyftlk | 1,612
-adalk | 2,346
+adalk | 2,347
 adaderanalk | 3,132
 tamilmirrorlk | 3,227
 virakesarilk | 4,236
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,389
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,500 (100.0%) of 27,501 articles have been extended.
+27,501 (100.0%) of 27,502 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,8 @@ The verdict was delivered by the three-member Supreme Court judge bench consisti
 ...
 
 [Data](articles/acbb3265.json)
+
+[Extended Data](ext_articles/acbb3265.ext.json)
 
 ---
 

@@ -1,22 +1,22 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-31 12:06:17**
+As of **2024-05-31 12:18:41**
 
 ## Newspaper Stats
 
-*Scraped **27,484** Articles*
+*Scraped **27,489** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 244
+colombotelegraphcom | 247
 dbsjeyarajcom | 267
 bbccomsinhala | 272
 newsfirstlk | 363
 islandlk | 1,488
 economynextcom | 1,568
 dailyftlk | 1,612
-adalk | 2,345
-adaderanalk | 3,129
+adalk | 2,346
+adaderanalk | 3,130
 tamilmirrorlk | 3,224
 virakesarilk | 4,236
 dailymirrorlk | 4,348
@@ -26,11 +26,29 @@ adaderanasinhalalk | 4,388
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,484 (100.0%) of 27,484 articles have been extended.
+27,484 (100.0%) of 27,489 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-31 (Friday)
+
+### Vehicle importers raise doubts over govt’s promises to lift restrictions
+
+*2024-05-31 11:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/99559/vehicle-importers-raise-doubts-over-govts-promises-to-lift-restrictions) · `en`
+
+The Vehicle Importers’ Association has raised doubts regarding the government’s repeated claims of easing existing restrictions and allowing vehicle imports.
+
+President of the Sri Lanka Vehicle Importers’ Association Prasad Manage highlighted the uncertainty and potential impacts on the vehicle prices once imports are permitted.
+
+“We have been waiting for four years to import vehicles. They say it will happen soon, but no specific date is given. The Central Bank Governor said the restrictions can be relaxed gradually. Vehicles are assembled locally, but none have been exported as of yet. The government imposes taxes of around 200% when we import vehicles,” Manage alleged.
+
+He added that discussions with State Minister Ranjith Siyambalapitiya indicated that buses and lorries would be prioritized in allowing vehicle imports, followed by three-wheelers and motorcycles, with cars and vans being considered last.
+
+...
+
+[Data](articles/aba4bd01.json)
+
+---
 
 ### Ex-CBSL chief Cabraal and 3 others released from 2012 Greek bonds case
 
@@ -309,6 +327,12 @@ A suspect has been arrested in connection with theft of a foreign national girl'
 *2024-05-31 09:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/99556/suspect-arrested-for-stealing-foreign-tourists-bag-in-bus) · `en`
 
 An individual who allegedly stole a bag belonging to a female foreign tourist inside a private bus in Pettah, Colombo, has been arrested by the police in Pethiyagoda, Kelaniya.
+
+Police have recovered the stolen items, including a laptop computer, camera, bank cards, and the tourist’s passport.
+
+The tourist, a YouTuber, had visited to Sri Lanka to make a travel video and was on her way to Ella when the incident occurred. She had placed her bag on a bus in Bastian Mawatha, Pettah, when the suspect in question had left behind his own bag and stole hers.
+
+Police arrested the suspect after identifying him through informants and CCTV footage from the bus. The 31-year-old suspect is a resident of Pethiyagoda, Kelaniya, police noted.
 
 ◼️
 
@@ -980,6 +1004,32 @@ Multiple modalities of State intervention—from regulation to planning, stimulu
 
 ---
 
+### As Julie Chung Morphs Into Elizabeth K Horst…
+
+*2024-05-31 05:41:22* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/as-julie-chung-morphs-into-elizabeth-k-horst/) · `en`
+
+Ambassadorial aspirants hardly break a sweat when drafting submissions to the US Senate Committee on Foreign Relations, not even in pre-ChatGPT days. They’ve been in the business of US diplomacy long enough to know what ‘US Foreign Policy’ is. They know what the listers want to hear. They have templates to choose from. And therefore the opening statement made on May 9, 2024 to the Committee by Elizabeth K Horst, nominee to be the US Ambassador to Sri Lanka, is more or less par for the course. A parenthesis is called for here.
+
+...
+
+[Data](articles/d26cf98e.json)
+
+---
+
+### A Glint In The Eyes Of Votaries Of BJP – 2024 Encounter
+
+*2024-05-31 05:40:57* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/a-glint-in-the-eyes-of-votaries-of-bjp-2024-encounter/) · `en`
+
+An absolute majority in Lok Sabha held the prospect of a third consecutive term for the BJP in 2024. A remarkable stretch of achievements nationally and internationally, swung increasing support for the incumbent government. Conversely, the opposition unable to bring its act together, was losing its confidence by the day. An ill-knit coalition fragmented even in the course of the elections. Before elections concluded, the coalition was in shambles.
+
+The Four-State elections giving a stunning victory to the BJP recently, launched it into the trajectory of victory. The election year 2023 – 2024 pitched but ever-increasing confidence in the BJP. The opposition fragments were driven into an unholy alliance, which started disintegrating from the beginning. To see an overwhelming victory, BJP has only four more days.
+
+...
+
+[Data](articles/e815fe37.json)
+
+---
+
 ### “VFS” the whole lot
 
 *2024-05-31 05:37:50* · [`dailyftlk`](https://www.ft.lk/columns/VFS-the-whole-lot/4-762401) · `en`
@@ -1013,6 +1063,20 @@ What is clear is that there was a huge thinking deficit on our part, as we belie
 [Data](articles/48e6ccff.json)
 
 [Extended Data](ext_articles/48e6ccff.ext.json)
+
+---
+
+### “VFS” The Whole Lot!
+
+*2024-05-31 05:33:19* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/vfs-the-whole-lot/) · `en`
+
+“Yes, real tragedy is never resolved. It goes on hopelessly for ever. Conventional tragedy is too easy. The hero dies and we feel a purging of emotions. A real tragedy takes place in a corner, in an untidy spot …”  ~ No Longer at Ease – Chinua Achebe
+
+In the common usage, VFS has come to represent the concept of outsourcing, when the State or a private sector organisation decides that one of its functions is better performed by an outside agency, and more economically. As far as we are aware, VFS, the organisation in issue is in the business of providing Visa support services, acting on behalf of certain States, which will make the final decision on who goes in or out of that country. The function of the VFS is purely administrative, collecting documents from Visa applicants which are then sent to the respective embassies for decision.
+
+...
+
+[Data](articles/ea0c8ae3.json)
 
 ---
 
@@ -2081,91 +2145,5 @@ The rulers who ignore the Poson Pinhavation celebrating the Mihindu Maha Rahan.B
 [Data](articles/58d40451.json)
 
 [Extended Data](ext_articles/58d40451.ext.json)
-
----
-
-### Prisoner escapes from Kalutara Malwatta Prison
-
-*2024-05-30 19:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Prisoner-escapes-from-Kalutara-Malwatta-Prison/108-283722) · `en`
-
-Colombo, May 30 (Daily Mirror) - A prisoner from Kalutara Malwatta Prison, serving time for a drug-related offense, escaped this afternoon, according to prison sources.
-
-The escapee, identified as a resident of the Ingiriya area, reportedly fled while cleaning an official house within the prison grounds.
-
-Authorities suspect that he made his way into the forested area behind the prison in Malwatta.
-
-Prison officials are currently conducting a search operation to apprehend the escaped prisoner.
-
-◼️
-
-[Data](articles/5b83d021.json)
-
-[Extended Data](ext_articles/5b83d021.ext.json)
-
----
-
-### Maithripala
-
-*2024-05-30 18:59:08* · [`adalk`](https://www.ada.lk/breaking_news/මෛත්‍රීපාලට-නොතීසි/11-409930) · `si`
-
-Maithripala Sirisena, former SLFP Chairman, appeared in court over a petition filed against him. The Court of Appeal issued orders related to his role within the party, calling for an interim order due to allegations mentioned in the petition.
-
-🟩
-
-The Chairman of the Sri Lanka Freedom Party (SLFP) was an order from the Colombo District Court in averted to act in the Colombo District Court, he appeared in court on July 10 regarding the petition filed by the Colombo District Court.The Court of Appeal was issued today (30) addressing Mr. Maithripala Sirisena.
-
-The Court of Appeal was given to the Attorney General of the Court of Appeal, the President of the Court of Appeal of the Court of Appeal, was held under the court of the Court of Appeal of the Court of Appeal.The former SLFP chairman, President Maithripala Sirisena has been named as respondent of the petition, which is a party executive.
-
-Maithripala Sirisena has called for a interim order on the Chairman of former President Maithripala Sirisena by working as the Chairman of the Sri Lanka Freedom Party.Mentioned in the petition.
-
-...
-
-[Data](articles/b595ec32.json)
-
-[Extended Data](ext_articles/b595ec32.ext.json)
-
----
-
-### Parliament gathers from 4 to 7
-
-*2024-05-30 18:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197192) · `si`
-
-Parliament meets from April 4 to 7, with the Secretary General, Kushani Rohandera, also present. The agenda includes the Second Reading Debate on the Sri Lanka Electricity Bill and the Power of Education Act, decided upon in a committee meeting chaired by the Speaker.
-
-🟩
-
-The Secretary General of Parliament Kushani Rohandera is said to meet from the 4th to 7th to 7th.
-
-The relevant Parliamentary Affairs has been decided during the Committee on Parliamentary Affairs chaired by Speaker yesterday.
-
-The Second Reading Debate on June 4, June 4, June 5, Sri Lanka Electricity Bill of Power of Education
-
-◼️
-
-[Data](articles/b8a5cb61.json)
-
-[Extended Data](ext_articles/b8a5cb61.ext.json)
-
----
-
-### Presidential certificate in government salaries
-
-*2024-05-30 18:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197191) · `si`
-
-President Ranil Wickremesinghe aims to address salary discrepancies across all sectors, emphasizing the importance of professional input for national progress. He highlights the need for a "employee hub" to foster innovation and economic recovery post-pandemic. Addressing the nation's economic challenges, including high-interest debts and reliance on foreign loans, he advocates for local financing options and strengthening the banking sector. The President also mentions plans to introduce new legislation for board appointments and focuses on reducing poverty and improving living conditions through various programs. He commits to resolving salary issues in both public and private sectors, underscoring the collective effort needed to revive the economy and ensure employee rights.
-
-🟩
-
-President Ranil Wickremesinghe says he will resolve salary anomalies in all sectors.
-
-He was speaking at a ceremony held at the Bandaranaike Memorial International Conference Hall yesterday (29) at the Bandaranaike Memorial International Conference Hall.
-
-President Ranil Wickremesinghe added that all professionals' opinion on the advancement of the country will create a "employee hub" to bug and create the future.
-
-...
-
-[Data](articles/3e645839.json)
-
-[Extended Data](ext_articles/3e645839.ext.json)
 
 ---

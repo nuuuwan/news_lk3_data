@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-31 09:34:17**
+As of **2024-05-31 09:53:37**
 
 ## Newspaper Stats
 
-*Scraped **27,458** Articles*
+*Scraped **27,465** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,60 +15,132 @@ newsfirstlk | 363
 islandlk | 1,488
 economynextcom | 1,568
 dailyftlk | 1,612
-adalk | 2,342
+adalk | 2,344
 adaderanalk | 3,126
 tamilmirrorlk | 3,218
 virakesarilk | 4,234
-dailymirrorlk | 4,340
-adaderanasinhalalk | 4,384
+dailymirrorlk | 4,344
+adaderanasinhalalk | 4,385
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,455 (100.0%) of 27,458 articles have been extended.
+27,458 (100.0%) of 27,465 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-31 (Friday)
 
-### மிதிகம ருவன் துபாயிலிருந்து இலங்கைக்கு அழைத்துவரப்பட்டார்
+### මිදිගම රුවන් ව TID වෙත රැගෙන එයි
+
+*2024-05-31 09:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197203) · `si`
+
+අද (31) අලුයම දිවයිනට රැගෙන ආ මිදිගම රුවන් නමැති සංවිධානාත්මක අපරාධ කල්ලි සාමාජිකයාව ත්‍රස්ත විමර්ශන කොට්ඨාසය වෙත රැගෙන ගොස් තිබේ.
+
+ජාත්‍යන්තර මත්ද්‍රව්‍ය ජාලයට සම්බන්ධ සැකකරුවෙකු වන, ඩුබායි හිදී අත්අඩංගුවට ගත් මිදිගම රුවන් ව අද (31) අලුයම දිවයිනට රැගෙන එනු ලැබීය.
+
+ඔහු මේ වනවිට අත්අඩංගුවේ පසුවන නදුන් චින්තක නොහොත් හරක් කටාගේ සමීපතමයෙකි.
+
+ඩුබායි හී පිහිටි රාත්‍රී සමාජ ශාලාවක ඇතිවූ ගැටුමක් සම්බන්ධයෙන් ඩුබායි පොලීසිය මීට මාස කිහිපයකට පෙරදී ජාත්‍යන්තර පොලීසිය හරහා රතු වරෙන්තු නිකුත් කර සිටින මිදිගම රුවන් නමැත්තාව අත්අඩංගුවට ගනු ලැබීය.
+
+අනතුරුව ඒ පිළිබඳව මෙරට අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව දැනුවත් කිරීමෙන් පසුව ඔහුව රැගෙන ඒම සඳහා ත්‍රස්ත විමර්ශන කොට්ඨාසයේ නිලධාරීන් කණ්ඩායමක් ඊයේ රාත්‍රියේ ඩුබායි බලා පිටත්ව ගොස් තිබුණි.
+
+ඒ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව භාර නියෝජ්‍ය පොලිස්පති රොහාන් ප්‍රේමරත්න මහතාගේ අධික්ෂණය යටතේය.
+
+නදුන් චින්තක නොහොත් හරක් කටාගේ සමීපතමයෙක් වන මිදිගම රුවන්, හරක් කටාගේ අපරාධ රැසක් ඩුඩාහි සිට මෙහෙයවා ඇති බවට ද අනාවරණ වී තිබේ.
+
+...
+
+[Data](articles/f9fd2af4.json)
+
+---
+
+### Sri Lankan eyes to Pakistan, 36,000 corneas donated
+
+*2024-05-31 09:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankan-eyes-to-Pakistan-36-000-corneas-donated/108-283777) · `en`
+
+Pakistan, May 31 (Daily Mirror) - Sri Lanka has donated as many as 36,000 corneas to Pakistan over many decades, a top official said.
+
+Sri Lankan High Commissioner in Islamabad Ravindra Wijegunawardena told a function here that Sri Lanka had donated 88,000 corneas to the world and Pakistan has been the single largest recipient.
+
+He said the second largest recipient had got only 2,000 corneas.
+
+The High Commissioner said Sri Lankan military personnel especially will their corneas to be donated to Pakistan as a gesture of goodwill.
+
+◼️
+
+[Data](articles/2b65678a.json)
+
+---
+
+### Mithigama Ruwan was brought to Sri Lanka from Dubai
 
 *2024-05-31 09:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/184921) · `ta`
 
-பாதாள உலக கும்பலின் தலைவரும் சர்வதேச போதைப்பொருள் வலையமைப்புடன் தொடர்புடைய கடத்தல்காரருமான விதானகே ருவன் சாமர என்றழைக்கப்படும் "மிதிகம ருவன்" துபாயிலிருந்து கொழும்பு குற்றப்புலனாய்வு பிரிவின் அதிகாரிகளால் நாட்டிற்கு அழைத்து வரப்பட்டுள்ளார்.
+Mithigama Ruwan, linked to an underworld gang and international drug smuggling, was extradited from Dubai to Sri Lanka after being arrested there for a hotel brawl. He's now under investigation by the Colombo Criminal Investigation Division.
 
-துபாய் களியாட்ட விடுதியொன்றில் இடம்பெற்ற மோதல் சம்பவம் தொடர்பில் மிதிகம ருவன் அந்நாட்டு பொலிஸாரினால் கடந்த இரு மாதங்களுக்கு முன்னர் கைதுசெய்யப்பட்டிருந்தார். சர்வதேச பொலிஸாரின் சிவப்பு பட்டியலில் அவரது பெயர் இருந்தது.
+🟩
 
-கட்டுநாயக்க விமான நிலையத்தில் பலத்த பாதுகாப்புடன் அவர் அழைத்துச் செல்லப்பட்டு மேலதிக விசாரணைகளுக்காக கொழும்பு குற்றப்புலனாய்வு பிரிவிற்கு அழைத்துச் செல்லப்பட்டுள்ளார்.
+Vidhanage Ruwan Samara, the leader of the underworld gang and the smuggler in the international drug network, has been brought to the country by officials of the Criminal Investigation Division from Dubai.
+
+Mithigama Ruwan was arrested two months ago in connection with the clash at a Dubai Kaliyatta Hotel. His name was on the red list of the International Police.
+
+He was taken to the Katunayake airport with strong security and taken to the Colombo Criminal Investigation Division for further investigations.
 
 ◼️
 
 [Data](articles/053d36a9.json)
 
+[Extended Data](ext_articles/053d36a9.ext.json)
+
 ---
 
-### දුම්වැටි පානය ගැන සමීක්ෂණයක්
+### Survey of cigarettes
 
 *2024-05-31 09:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197202) · `si`
 
-‘දුම්කොළ කර්මාන්තයේ මැදිහත්වීම්වලින් අපේ දරුවන් ආරක්ෂා කරගනිමු’යන්න මෙවර ලෝක දුම්වැටි නිවාරණ දිනයේ තේමාව වෙයි.
+Cigarette usage has declined by 9.1% globally, with production down 19% last year according to tobacco company reports. In Sri Lanka, cigarette use among youth and children remains high despite overall decreases. The Alcohol and Drugs Center reports 50 daily deaths from smoking there, but a new survey shows 5.7% of schoolchildren smoke.
 
-මෙරට දුම්වැටි භාවිතය සියයට 9.1කින් අඩුවී ඇති අතර තරුණ පිරිස් අතර දුම්වැටි භාවිතය ඝීග්‍රයෙන් අඩුවෙමින් පවතින බව මද්‍යසාර හා මත්ද්‍රව්‍ය තොරතුරු මධ්‍යස්ථානය පවසයි.
+🟩
 
-දුම්කොළ සමාගම් වාර්තාවලට අනුව පසුගිය වසර තුළ දුම්වැටි නිෂ්පාදනය සියයට 19කින් පමණ අඩු වී තිබේ.
+"Protect our children from the intervention of tobacco industry".
 
-ලෝකයේ දුම්වැටි භාවිතය අඩුවෙමින් පවතින රටවල් අතර ශ්‍රී ලංකාව තුළ ද හොඳ ප්‍රවණාතාවක් පැවතුණ ද තවදුරටත් මිලියන 1.5ක පමණ පිරිසක් දුම්වැටි භාවිතය සිදුකරන බව මධ්‍යසාර හා මත්ද්‍රව්‍ය තොරතුරු මධ්‍යස්ථානය පෙන්වාදෙයි.
+The use of cigarettes of cigarettes has decreased by 9.1 percent and the use of smoking is decreasing with the use of smoking is decreasing.
 
-පවතින තත්ත්වය හමුවේ තරුණයින් සහ ළමුන් දුම්වැටි භාවිතයට යොමුකරවීම සඳහා බහුජාතික දුම්කොළ සමාගම් කූට උපක්‍රම ගණනාවක් දියත් කරමින් සිටින බවද සඳහන් ය.
+According to tobacco Company reports, cigarettes production has decreased by 19 percent in the past year.
 
-දුම්වැටි භාවිතය හේතුවෙන් දෛනිකව මෙරට පුද්ගලයින් පනහකට ආසන්න පිරිසක් මරණයට පත් වන බවද මද්‍යසාර හා මත්ද්‍රව්‍ය තොරතුරු මධ්‍යස්ථානය පෙන්වාදෙයි.
+The alcohol and the drug information states that the use of cigarettes of cigarettes is decreasing in Sri Lanka.
 
-කෙසේවුවද පාසල් සිසුන්ගෙන් සියයට 5.7ක් දුම්වැටි පානය කරන බවට නවතම සමීක්ෂණයකින් හෙළිවී තිබේ.
+In the face of the situation, the youths and children are still launching a number of culmination of multinational tobacco companies to direct cigarettes.
+
+Alcohol and Drugs Center states that nearly fifty people in Sri Lanka is killed daily due to the use of smoking.
+
+However, a new survey has revealed that 5.7 percent of school children drink smoking.
 
 ◼️
 
 [Data](articles/c3c5045b.json)
+
+[Extended Data](ext_articles/c3c5045b.ext.json)
+
+---
+
+### CB keeps door open for more rate cuts; but says future action would depend on data
+
+*2024-05-31 09:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/CB-keeps-door-open-for-more-rate-cuts-but-says-future-action-would-depend-on-data/108-283754) · `en`
+
+Although the Central Bank said the current monetary policy stance is appropriate to both maintain inflation in line with their desired goal of 5 percent while supporting the recovery in the economy, they kept the door open for future rate cuts, but said that depends on fresh data.
+
+Central Bank Governor Dr. Nandalal Weerasinghe said there is some space for further cuts in the monetary policy but any future action would depend on data.
+
+Central Bank closely watches the economic data on inflation, predominantly the core prices, growth in private sector credit, and the growth in economic activities before they move in either direction.
+
+Currently the economy is in a fine place with very mild inflation and growth picking up.
+
+...
+
+[Data](articles/e44f7cc3.json)
 
 ---
 
@@ -87,6 +159,26 @@ The 34-year-old suspect involved in the incident has been arrested by the police
 ◼️
 
 [Data](articles/f3cf9d65.json)
+
+[Extended Data](ext_articles/f3cf9d65.ext.json)
+
+---
+
+### Sri Lanka, Pakistan seek further air links
+
+*2024-05-31 08:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-Pakistan-seek-further-air-links/108-283769) · `en`
+
+Pakistan, May 31 (Daily Mirror) - Sri Lanka and Pakistan have agreed to explore the possibility of increasing air connectivity by launching  direct flight from Colombo to Islamabad, a top source here said .
+
+Currently , direct flights from Colombo are operated only to Lahore and Karachi In Pakistan.
+
+The need for increased air connectivity was discussed at a meeting between visiting Sri Lankan State Minister  of Buddhasasana, Religious and Cultural Affairs Vidura Wickramanayake and Minister for Religious Affairs and Interfaith Harmony of Pakistan Chaudhry Salik Hussain.
+
+Sri Lankan High Commissioner in Pakistan Ravindra Wijegunawardena who was present briefed the current status of air links between the two countries and stressed the importance of increasing flight operations .
+
+◼️
+
+[Data](articles/1c3f7aec.json)
 
 ---
 
@@ -137,6 +229,20 @@ The decision was announced after the jurors were discussed for nearly 12 hours.
 [Data](articles/3b5da1f5.json)
 
 [Extended Data](ext_articles/3b5da1f5.ext.json)
+
+---
+
+### ගංජා පැළ 9100ක් විනාශ කරයි
+
+*2024-05-31 07:47:54* · [`adalk`](https://www.ada.lk/breaking_news/ගංජා-පැළ-9100ක්-විනාශ-කරයි/11-409936) · `si`
+
+සෙවනගල, සීනි කර්මාන්ත ශාලාවට නුදුරින් උක් වගාවක් ආවරණයට ගනිමින් ඉතා සූක්‍ෂමව දිගුකාලයක් තිස්සේ පවත්වාගෙන ගොස් තිබු ගංජා පැල තවාන් 10ක් සැකකරුවන් දෙදෙනෙකු සමඟ අත්අඩංගුවට ගෙන ඇත. යුද්ධ හමුදා බුද්ධි අංශයට ලද තොරතුරු අනුව උඩවලව විශේෂ කාර්ය බලකා සාමාජිකයින් එක්ව සිදු කරන ලද මෙම වැටලීමේදී උස අඩි 2-5ත් අතර ගංජා පැල 9100ක ප්‍රමාණයක් අත්අඩංගුවට ගෙන ඇත.
+
+අත්අඩංගුවට ගත් සැකකරුවන් වයස අවු: 37ත්, 68ත් අතර වයස් වල පසුවන පුද්ගලයින් වන අතර ඔවුන් සෙවනගල ප්‍රදේශයේ පදිංචිකරුවන් වේ. අදාල වැටලීමෙන් අනතුරුව මෙම ගංජා පැල තවන් ආරක්‍ෂක අංශ විසින් විනාශ කර ඇති අතර එහි වැඩිදුර පරීක්‍ෂණ කටයුතු සෙවනගල පොලිස් ස්ථානය මගින් සිදුකරනු ලබයි.
+
+◼️
+
+[Data](articles/61ba9d88.json)
 
 ---
 
@@ -854,6 +960,22 @@ Speaking at the event, Dialog Acida PLC Group Chief Minister Asanka Priyadarshan
 
 ---
 
+### CSE sees growing trend among listed entities adopting ESG standards
+
+*2024-05-31 03:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/CSE-sees-growing-trend-among-listed-entities-adopting-ESG-standards/108-283755) · `en`
+
+Nearly one third of listed entities have already adopted ESG standards
+
+Having nearly one third of listed entities adopting Environmental, Social and Governance (ESG) principles in their business models and reporting, the Colombo Stock Exchange (CSE) Chief acknowledges a growing interest among listed entities to adopt ESG principles.
+
+ESG adoption and reporting has become a prerequisite to secure foreign funds in particular from Europe and to become part of global value chains. However, there’s has been a backlash on ESG in recent months specially in the United States (U.S) which has caused some major financial institutions to step back from climate-related pledges.
+
+...
+
+[Data](articles/1dfa7cf6.json)
+
+---
+
 ### Action to address the telecommunication contradictions
 
 *2024-05-31 02:20:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சம்பள-முரண்பாடுகளை-நிவர்த்திக்க-நடவடிக்கை/175-338187) · `ta`
@@ -1351,6 +1473,24 @@ An Assistant Superintendent of Customs has been arrested in Colombo with 7,000 s
 [Data](articles/f50b03fb.json)
 
 [Extended Data](ext_articles/f50b03fb.ext.json)
+
+---
+
+### ඉන්දීය ISIS සිද්ධියට සැකපිට  ශ්‍රී ලංකාවේ දී 6ක් අත්අඩංගුව‍ට
+
+*2024-05-30 19:57:39* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්දීය-ISIS-සිද්ධියට-සැකපිට--ශ්‍රී-ලංකාවේ-දී-6ක්-අත්අඩංගුව‍ට/11-409934) · `si`
+
+ශ්‍රී ලංකා තරුණයන් සිවු දෙනා ඉන්දියාවට යැවූ පුද්ගලයා, ISIS දිවුරුම දුන් දෙදෙනෙක්, ISIS ලාංඡනය සහිත කොඩිය රු.2000කට සෑදූ පුද්ගලයා හා මුදල් හුවමාරු කළ දෙදෙනෙක් ඒ අතර
+
+මුල් දිවුරුම දුන් දෙදෙනෙක් ඉන්දියාවට යෑම ප්‍රතික්ෂේප කළ නිසා තවත් දෙදෙනක් සමග දෙවැනි දිවුරුමකුත් දීලා
+
+ISIS සංවිධානය හා සම්බන්ධ යැයි සැකපිට ඉන්දියාවේ ගුජරාට් ප්‍රාන්තයේ ත්‍රස්ත විරෝධී බළකාය (ATS) විසින් අත්අඩංගුවට ගත් ශ්‍රී ලාංකිකයන් සිව් දෙනා සම්බන්ධයෙන් පරීක්ෂණ පවත්වන ශ්‍රී ලංකාවේ ආරක්ෂක අංශ මේ වන විට පුද්ගලයන් 6දෙනෙකු අත්අඩංගුවට ගෙන ඇතැයි 'අද' පුවත්පතට වාර්තා වෙයි.
+
+ශ්‍රී ලාංකිකයන් සිවු දෙනා ඉන්දියාවට යැවීමට සම්බන්ධීකරණය කළ පුද්ගලයා, ඉන්දියාවට ගිය ශ්‍රී ලාංකිකයන් සිවු දෙනාට දිවුරුමක් ලබාදීමට ISIS ලාංඡනය සහිත කොඩිය සැකසූ පුද්ගලයා, මුල් අවස්ථාවකදී අදාළ දිවුරුම දුන් පුද්ගලයන් දෙදෙනෙක් හා මොවුන් සමග මුදල් ගනුදෙනු කළ මාවනැල්ලේ පුද්ගලයන් දෙදෙනෙක් ද ඒ අතර වෙති.
+
+...
+
+[Data](articles/b6c5d7ac.json)
 
 ---
 
@@ -2043,167 +2183,5 @@ The committee pointed out that there are major problems and lack of formality in
 [Data](articles/83d22340.json)
 
 [Extended Data](ext_articles/83d22340.ext.json)
-
----
-
-### Sri Lanka rupee closes flat at 301.85/90 to US dollar
-
-*2024-05-30 17:03:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-flat-at-301-85-90-to-us-dollar-165470/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed broadly flat at 301.85/90 to the US dollar on Thursday, from 301.60/302.00 the previous day, dealers said. Bond yields were steady.
-
-A bond maturing on 15.12.2026 closed down at 9.70/80 percent from 9.70/85 percent.
-
-A bond maturing on 15.09.2027 closed up at 10.40/55 percent from 10.30/40 percent.
-
-A bond maturing on 01.07.2028 closed stable at 10.70/80 percent.
-
-A bond maturing on 15.01.2030 closed up at 11.60/80 percent from 11.50/75 percent.
-
-A bond maturing on 01.10.2032 closed at 11.80/90 percent from 11.80/95 percent. (Colombo/May30/2024)
-
-◼️
-
-[Data](articles/bda80d23.json)
-
-[Extended Data](ext_articles/bda80d23.ext.json)
-
----
-
-### Latest news on revenue
-
-*2024-05-30 17:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197187) · `si`
-
-The Committee on Government Finance has directed the Welfare Board to improve its methods for identifying and addressing poverty. This includes ensuring accurate identification of beneficiaries and correcting any issues in the selection process. The Ministry of Finance plans to update the criteria for selecting recipients of welfare benefits. These changes were discussed during a parliamentary meeting where amendments to the Welfare Benefit Act were considered.
-
-🟩
-
-The Committee on Government Finance has instructed the Welfare Board officials to accurately identify the poverty and determine the poverty, to accurately identify the poverty and determine poverty.
-
-For example, the Committee has pointed out that the electricity bodies can be identified by the electricity bodies of a power consumed.
-
-The committee, which has shown that there is no formal problems in selecting reward beneficiaries, the committee, which is used in the selection and the lack of proper problems, has been instructed to correct them as soon as possible.
-
-The officials of the Ministry of Finance have said that the methodology of providing the present marks will also be changed to the selection of revenue beneficiaries.
-
-The recommendations had been issued when the Committee on Finance Meeting was presented in parliament yesterday (28).
-
-...
-
-[Data](articles/bbbfbce7.json)
-
-[Extended Data](ext_articles/bbbfbce7.ext.json)
-
----
-
-### Work to return university staff to work
-
-*2024-05-30 17:01:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல்கலைக்கழக-ஊழியர்களை-பணிக்குத்-திரும்ப-பணிப்பு/175-338163) · `ta`
-
-The University Grants Commission Chairman has called for an end to the ongoing strike by university staff, urging them to resume work and address salary disputes. The Chairman's letter highlights the impact of the strike on students' education and emphasizes the importance of fulfilling national responsibilities. Despite the Chairman's plea, a joint committee of university unions has stated they won't cease their actions until their demands are met.
-
-🟩
-
-The Chairman of the University Grants Commission has asked all the parties involved in the trade union activities for the future of the day to protect the country.
-
-The University Grants Commission Chairman Professor Sampath Aratunga has issued a letter to the leaders of the university subsidies commission to immediately work for the university administrators and teaching staff who have been on strike from the second day of this month, including the resolution of pay conflicts.
-
-In the letter, a number of university's union and non -teaching unions have been protesting for the past 27 days, including their salary conflict.. Many Cabinet papers have been prepared by the University Grants Commission and submitted by the Ministry of Education on the instructions of the Ministry of Education.
-
-...
-
-[Data](articles/3117652f.json)
-
-[Extended Data](ext_articles/3117652f.ext.json)
-
----
-
-### Black men sue American Airlines after kicked off plane over body odour
-
-*2024-05-30 16:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Black-men-sue-American-Airlines-after-kicked-off-plane-over-body-odour/108-283719) · `en`
-
-May 30 - American Airlines has been sued by three Black men who have alleged that they were racially discriminated against when they were removed from a flight.
-
-According to CNN, Alvin Jackson, Emmanuel Jean-Joseph and Xavier Veals, along with five other Black male passengers were ejected from Flight 832 over body odour complaint. The incident took place on January 5, 2024, and the flight was on its way from Phoenix to JFK Airport in New York, CNN further said in its report.
-
-The complainants have claimed in the lawsuit that they were ejected "without any valid reason, based solely on their race".
-
-When the American Airlines staffer approached them before take-off, ordering them to get off the plane, the men complied.
-
-"Once they reached the jet bridge, they saw that several other Black men were also being removed from the plane. In fact, it appeared to Plaintiffs that American had ordered all of the Black male passengers on Flight 832 off the plane," according to the complaint.
-
-...
-
-[Data](articles/2e41bdd6.json)
-
-[Extended Data](ext_articles/2e41bdd6.ext.json)
-
----
-
-### Sri Lankans' owner who referred to the Russian military service further remanded
-
-*2024-05-30 16:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197186) · `si`
-
-The owner and manager of a foreign employment institution were remanded until June 13 after being charged with fraudulently misappropriating over 1.5 million Rupees. The case was re-presented at the Negombo Magistrate Court.
-
-🟩
-
-The owner of a foreign employment institution and its manager have been remanded until June 13.
-
-The case was taken back to the Negombo Magistrate Court today.
-
-According to one of the 15 lakhs of Rs.
-
-According to the Bureau, the number of cash has been fraudulent is Rs.
-
-◼️
-
-[Data](articles/5456c791.json)
-
-[Extended Data](ext_articles/5456c791.ext.json)
-
----
-
-### Fuel leak
-
-*2024-05-30 16:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/184892) · `ta`
-
-A fuel leak occurred, contaminating the area with seawater mixed from the fuel port.
-
-🟩
-
-It is noteworthy that the area was contaminated with the seawater as it was mixed with the fuel port.
-
-◼️
-
-[Data](articles/10d6ae29.json)
-
-[Extended Data](ext_articles/10d6ae29.ext.json)
-
----
-
-### Sri Lanka stocks close up, banking stocks steady
-
-*2024-05-30 16:44:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-banking-stocks-steady-165467/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up on Thursday, data on its site showed.
-
-The broader All Share Index closed up 0.56 percent, or 67.77 points, at 12,170; while the S&P SL20 Index closed up 1.08 percent, or 38.46 points, at 3,585.
-
-Sampath Bank Plc (Rs264mn) saw the most active volumes traded in the day. The share closed up at 78.60.
-
-Commercial Bank of Ceylon Plc, which announced a capital call of 22 billion rupees earlier this week, closed up at 107.00.
-
-Banking stocks picked up during the day after seeing some selling pressure yesterday on the back of the Commercial Bank announcement.
-
-DFCC Bank Plc closed up at 77.80, Hatton National Bank Plc closed flat at 194.50, and National Development Bank Plc closed up at 78.10.
-
-There was a net foreign outflow of 105 million. (Colombo/May30/2024)
-
-◼️
-
-[Data](articles/6ad6d716.json)
-
-[Extended Data](ext_articles/6ad6d716.ext.json)
 
 ---

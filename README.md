@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-31 23:18:49**
+As of **2024-05-31 23:33:59**
 
 ## Newspaper Stats
 
@@ -26,23 +26,29 @@ adaderanasinhalalk | 4,409
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,598 (100.0%) of 27,603 articles have been extended.
+27,603 (100.0%) of 27,603 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-31 (Friday)
 
-### සයිනොපෙක් මිලත් වෙනස් වෙයි
+### Sinapek changes the price
 
 *2024-05-31 23:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197228) · `si`
 
-ඒ අනුව ඔක්ටේන් 92 වර්ගයේ පෙට්‍රල් ලීටරයක් රුපියල් 10කින් පහත දමා ඇති අතර එහි නව මිල රුපියල් 355කි.
+Sinapek reduces petrol by Rs.10 to Rs.355/liter and diesel by Rs.13 to Rs.314/liter.
 
-ඔටෝ ඩීසල් ලීටරයක් රුපියල් 19කින් පහළ දමා ඇති අතර එහි නව මිල රුපියල් 314කි.
+🟩
+
+Accordingly, a liter of octan 92 petrol has been reduced by Rs.10 and its new price is Rs. 355.
+
+A liter of auto diesel has been reduced by Rs.13 and its new price is Rs. 314.
 
 ◼️
 
 [Data](articles/667a699d.json)
+
+[Extended Data](ext_articles/667a699d.ext.json)
 
 ---
 
@@ -58,61 +64,83 @@ Police Media Spokesman DIG Nihal Thalduwa said the arrested suspect has been ide
 
 [Data](articles/55daf9d7.json)
 
+[Extended Data](ext_articles/55daf9d7.ext.json)
+
 ---
 
-### ISIS සැකකරුවන් සමග සමීප සබඳතා පැවැත්වූ ප්‍රබලයෙක් අත්අඩංගුවට
+### ISIS arrested with a desi
 
 *2024-05-31 22:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197227) · `si`
 
-ISIS සංවිධානය සමඟ සම්බන්ධ බවට සැකකෙරෙන ඉන්දියාවේදී අත්අඩංගුවට ගත් ශ්‍රී ලාංකිකයින් සිව්දෙනා සමඟ සමීප සබඳතා පැවැත්වූ සහ සහාය වූ බවට සැක කෙරෙන අත්‍යාවශ වූ සැකකරු වන ඔස්මන් පුෂ්පරාජ් නැමැත්තා අත්අඩංගුවට ගෙන තිබේ.
+Osman Pushraj, linked to the arrest of four Sri Lankans in India, was detained in Colombo by the Trophy Investigation Department under the guidance of Police Media Spokesperson DIG Nihal Thali.
 
-පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති, නීතිඥ නිහාල් තල්දුව මහතා පැවසුවේ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ ත්‍රස්ථ විමර්ශන දෙපාර්තමේන්තුව ඒකාබද්ධව සිදුකළ මෙහෙයුමකින් කොළඹදී අත්අඩංගුවට ගත් බවය.
+🟩
+
+Osman Pushraj has been arrested in connection with the four Sri Lankans who were arrested in India, who was arrested in India.
+
+Police Media Spokesperson DIG, Attorney Nihal Thali, said that the Trophy Investigation Department was arrested in Colombo.
 
 ◼️
 
 [Data](articles/d8938f7b.json)
 
+[Extended Data](ext_articles/d8938f7b.ext.json)
+
 ---
 
-### Starlink ගැන අවසන් තීරණය ලබන සතියේ
+### Last decision on Starlink next week
 
 *2024-05-31 22:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197226) · `si`
 
-Starlink අන්තර්ජාල සේවය මෙරට ක්‍රියාත්මක කිරීම සම්බන්ධයෙන් වන බලපත්‍රය පිළිබඳව අවසන් තීන්දුව ලබන සතියේදී ජනාධිපතිවරයා වෙත ඉදිරිපත් කිරීමට බලාපොරොත්තු වන බව තාක්ෂණ රාජ්‍ය අමාත්‍ය කනක හේරත් මහතා පවසයි.
+The final decision on Starlink's implementation in Sri Lanka will be announced next week. The service, facilitated by SpaceX CEO Elon Musk, aims to provide internet access to remote areas via satellite technology, bypassing the need for fiber optic cables. This initiative is part of a broader discussion involving President Ranil Wickremesinghe and concerns about cybersecurity. Sri Lanka is among the top 20 countries eligible for Starlink's affordable internet services.
 
-රාජ්‍ය අමාත්‍යවරයා වැඩිදුරටත් පවසන්නේ, චන්ද්‍රිකා තාක්ෂණය හරහා අන්තර්ජාල පහසුකම් සැපයීමේ සේවාවන් සඳහා පළමුවරට මෙවැනි ඉල්ලීමක් සිදුකර ඇති බවත් ඒ සඳහා අවශ්‍ය නීති කෙටුම්පත් සැකසීම සිදුකරමින් සිටින බවය.
+🟩
 
-ලොව ධනවත්ම මෙන්ම සුපක්‍රට තාක්ෂණ ව්‍යවසායකයෙකු වන ඊලොන් මස්ක් හිමිකාරිත්වය දරන space x ව්‍යාපෘතිය හරහා Starlink අන්තර්ජාල සේවාව ආරම්භ කරනු ලැබීය.
+State Minister Kanaka Herath says that the final verdict on the implementation of the License on the implementation of the License on the Sri Lankan service.
 
-Starlink ව්‍යාපෘතිය හරහා ෆයිබර් ඔප්ටික් කේබල් භාවිතා කිරීම වෙනුවට පැයට කිලෝමීටර් 27,000ක ආසන්න වේගයකින් ගමන් ගන්නා චන්ද්‍රිකාවක් හරහා අධික වේගයෙන් දත්ත හුවමාරු කිරීම සිදුකරනු ලබයි.
+The State Minister further stated that such a request has been made for internet facilitation services through the satellite technology and the necessary legal drafts are being implemented.
 
-Starlink හරහා දුෂ්කර ප්‍රදේශවල වාසය කරනු ලබන අන්තර්ජාල පරිශීලකයින් වෙත අන්තර්ජාලට පිවිසිමට අවස්ථාව උදාවේ.
+Starlink Internet service was launched through the world's richest and Supreme Technology entrepreneur, an entrepreneur of technology, Eocer.
 
-2024 වන විට ස්ටාර්ලින්ක් චන්ද්‍රිකා 5,874ක් කක්ෂ ගත කර ඇති අතර ඉන් චන්ද්‍රිකා 5,800ක ප්‍රමාණයක් ක්‍රියාත්මක තත්ත්වයේ පවතින බව වාර්තා වේ.
+Instead of using Fiber Optic Cables through the Starlink project, the exchange of data transferred through a satellite traveling at nearly 27,000 kilometers per hour.
+
+Starlink opens online users to access Internet users who live in remote areas.
+
+By 2024, 6,874 satellites were ordenting that 5,800 satellites are in operation.
+
+In this backdrop, there was a broader conversation with the President Ranil Wickremesinghe and Ecom between President Ranil Wickremesinghe and Elon meal was found in the Indanician.
 
 ...
 
 [Data](articles/dd177be5.json)
 
+[Extended Data](ext_articles/dd177be5.ext.json)
+
 ---
 
-### ඉලක්ක සපුරා ගැනීමට AI තාක්ෂණය ප්‍රවර්ධනය කළ යුතුයි -ජනපති
+### AI technology should be promoted to meet targets - President
 
 *2024-05-31 22:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197225) · `si`
 
-ඉදිරි සමාජ හා ආර්ථික ඉලක්ක සපුරා ගැනීමට නම් කෘත්‍රිම බුද්ධිය වැනි නවීන තාක්ෂණික ක්‍රම රට තුළ ප්‍රවර්ධනය කළයුතු බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+President Ranil Wickremesinghe advocates for the promotion of AI technology in Sri Lanka to boost future social and economic development. He emphasizes the need to avoid past mistakes in IT, focusing more on practical applications rather than just projects. By integrating AI, Sri Lanka aims to leverage technology for economic growth, moving towards a digital transformation that extends beyond mere projects to encompass socioeconomic change. This shift is crucial as the country transitions from an import to an export economy, with AI playing a pivotal role in this transformation.
 
-AI තාක්ෂණය මෙරටට හඳුන්වාදීම පිළිබඳ විශ්වවිද්‍යාල සිසුන් සමඟ සාකච්ඡාවකට එක්වෙමින් ජනාධිපතිවරයා මෙම අදහස් පළකළේය.
+🟩
 
-කෘතිම බුද්ධිය මෙරට විවිධ ක්ෂේත්‍ර සඳහා හඳුන්වාදීම සම්බන්ධයෙන් විශේෂ සාකච්ඡාවක් ජනාධිපතිවරයා සහ විශ්වවිද්‍යාල සිසුන්, ආචාර්යවරුන් ඇතුළු පිරිසක් සමඟ ඊයේ (30) පැවැත්විය.
+President Ranil Wickremesinghe says he should promote modern techniques such as artificial intelligence to meet future social and economic goals.
 
-ජනාධිපති කාර්යාලයේදී පැවති මෙම සාකච්ඡාවේදී විශ්වවිද්‍යාල සිසුන් සහ ආචාර්යවරුන් කෘත්‍රිම බුද්ධිය සම්බන්ධයෙන් මේවන විට සිදුකරමින් පවතින ව්‍යාපෘති පිළිබඳ ද අදහස් පළකළේය.
+The President made these comments participating in a discussion with the introduction of AI technology to Sri Lanka.
 
-''තාක්ෂණය ගැන සැලකූ විට ශ්‍රී ලංකාවට විශාල පිම්මක් පනින්න ඕනේ. තාක්ෂණය අතින් අපි ගොඩක් පසුපසින් ඉන්නවා වගේම තාක්ෂණික දැනුම ආර්ථික ප්‍රතිලාභ සඳහා යොදාගෙන නැහැ. නව ක්ෂේත්‍රය තමයි AI නැතිනම් කෘත්‍රිම බුද්ධිය. අපිට AI අංශයෙන් පසුබසින්න බැහැ අපි AI සමඟ ඉදිරියට යනවා නම් අනෙක් තාක්ෂණික දැනුමත් ඒ සමඟ වැඩි දියුණු කරගන්න හැකි වේවි. අනාගතයේදී අපිව විනිශ්චය කරන ප්‍රධානම මිනුම් දණ්ඩ වන්නේ අපි AI භාවිත කරන ආකාරයයි.
+The President and the university students, lecturers, were held yesterday (30), a special discussion on introduction of artificial intellect.
+
+At the discussion held at the Presidential Secretariat, university students and lecturers expressed their views on artificial intelligence.
+
+Sri Lanka wants to jump a huge leap when considering technology. The technique is a lot of technology, and technical knowledge has not been used for economic benefits. New field is ai or artificial intelligence. We can't retain from AI section If we are proceeding with AI, the other technical knowledge will be able to improve. The main measure of the future is how we use AI.
 
 ...
 
 [Data](articles/3c3b9725.json)
+
+[Extended Data](ext_articles/3c3b9725.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-31 08:19:13**
+As of **2024-05-31 08:34:18**
 
 ## Newspaper Stats
 
-*Scraped **27,452** Articles*
+*Scraped **27,453** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adaderanalk | 3,125
 tamilmirrorlk | 3,217
 virakesarilk | 4,232
 dailymirrorlk | 4,340
-adaderanasinhalalk | 4,382
+adaderanasinhalalk | 4,383
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,452 (100.0%) of 27,452 articles have been extended.
+27,452 (100.0%) of 27,453 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-31 (Friday)
+
+### අමෙරිකානු ඉතිහාසය වෙනස් කරමින් ට්‍රම්ප් වරදකරු වෙයි
+
+*2024-05-31 08:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197200) · `si`
+
+හිටපු අමෙරිකානු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් ව්‍යාපාරික වාර්තා අසත්‍ය ලෙස සකස් කිරීමේ චෝදනා 34කට අදාළව වරදකරු බවට මෑන්හැටන් ජූරි සභාවක් තීන්දු කර තිබේ.
+
+අදාළ තීන්දුව ඓතිහාසික තීන්දුවක් බවට ප්‍රකාශ කරමින් විදෙස් මාධ්‍ය තොරතුරු වාර්තා කර තිබුණේ අමෙරිකානු ඉතිහාසයේ අපරාධ චෝදනාවකට වරදකරු වූ පළමු ජනාධිපතිවරයා ට්‍රම්ප් බවය.
+
+එමෙන්ම මැතිවරණ කාලවකවානුවක් අතර අපරාධයකට වරදකරු වූ පළමු ප්‍රධාන පක්ෂ ජනාධිපති අපේක්ෂකයා ලෙසද ඔහු ඉතිහාසගත වෙයි.
+
+මෙම තීන්දුව ප්‍රකාශයට පත්කර තිබුණේ ජූරි සභිකයන් දින දෙකක් පුරා පැය 12කට ආසන්න කාලයක් සාකච්ඡා කිරීමෙන් අනතුරුවය.
+
+◼️
+
+[Data](articles/3b5da1f5.json)
+
+---
 
 ### Man dies in a drink
 
@@ -2183,25 +2201,5 @@ The agreement was carried out at the Ministry of Justice under the patronage of 
 [Data](articles/9fda62ac.json)
 
 [Extended Data](ext_articles/9fda62ac.ext.json)
-
----
-
-### Politicians’ future uncertain if salary issue not resolved by Poson Poya: Teachers’ Principles’ Union
-
-*2024-05-30 16:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Politicians-future-uncertain-if-salary-issue-not-resolved-by-Poson-Poya-Teachers-Principles-Union/108-283725) · `en`
-
-Colombo, May 30 (Daily Mirror) - If politicians fail to resolve the salary anomaly issue of teachers and principals before Poson Poya, their political future will be uncertain, the National Teachers' Power (NTP) said.
-
-Speaking to the Daily Mirror, its media spokesman, Amuthu Bandara, said the first day of the two-day sick leave campaign launched by the National Teachers' Power (NTP) to demonstrate the strength of the teachers' and principals' unions was successful.
-
-He said that over 70 percent of teachers and principals had engaged with the two-day sick leave campaign.
-
-"The islandwide two-day sick leave campaign was demanding the government to resolve the salary anomalies of school principals and teachers, which have remained unanswered for the past 27 years. This strike action was launched against the enforcement from the traditional teachers and principals unions," he said.
-
-...
-
-[Data](articles/9bf63cc8.json)
-
-[Extended Data](ext_articles/9bf63cc8.ext.json)
 
 ---

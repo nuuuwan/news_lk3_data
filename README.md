@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-31 23:53:30**
+As of **2024-06-01 00:05:17**
 
 ## Newspaper Stats
 
-*Scraped **27,614** Articles*
+*Scraped **27,615** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,583
 dailyftlk | 1,612
 adalk | 2,360
 adaderanalk | 3,143
-tamilmirrorlk | 3,234
+tamilmirrorlk | 3,235
 virakesarilk | 4,260
 dailymirrorlk | 4,374
 adaderanasinhalalk | 4,409
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,409
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,603 (100.0%) of 27,614 articles have been extended.
+27,614 (100.0%) of 27,615 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ The Court further issued a Writ of Certiorari quashing the decision of the Chief
 ...
 
 [Data](articles/256834a1.json)
+
+[Extended Data](ext_articles/256834a1.ext.json)
 
 ---
 
@@ -86,6 +88,8 @@ Hadunnetti said a publicity stunt is being operated through a separate company b
 
 [Data](articles/006c2f3a.json)
 
+[Extended Data](ext_articles/006c2f3a.ext.json)
+
 ---
 
 ### Police arrest most wanted suspect who assisted ISIS-linked Sri Lankans arrested in India
@@ -119,6 +123,8 @@ Sri Lankan security forces suspect that the 46-year-old suspect acted as a handl
 ...
 
 [Data](articles/8c03c52b.json)
+
+[Extended Data](ext_articles/8c03c52b.ext.json)
 
 ---
 
@@ -195,6 +201,20 @@ Sri Lanka wants to jump a huge leap when considering technology. The technique i
 [Data](articles/3c3b9725.json)
 
 [Extended Data](ext_articles/3c3b9725.ext.json)
+
+---
+
+### எரிபொருட்களின் விலையில் அதிரடி திருத்தம்
+
+*2024-05-31 22:09:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எரிபொருட்களின்-விலையில்-அதிரடி-திருத்தம்/175-338209) · `ta`
+
+இதற்கமைய, ஒக்டேன் 92 ரக பெற்றோல் லீற்றர் ஒன்றின் விலை 13 ரூபாவினால் குறைக்கப்பட்டு, புதிய விலை 355 ரூபாயாக நிர்ணயிக்கப்படவுள்ளது.
+
+இதற்கமைய, இன்று நள்ளிரவு முதல் ஒரு லீற்றர் ஒட்டோ டீசல் 317 ரூபாவுக்கு விற்பனை செய்யப்படவுள்ளது.
+
+◼️
+
+[Data](articles/efd319e9.json)
 
 ---
 
@@ -419,6 +439,8 @@ Later, the North Colombo University was incorporated as the medical faculty of s
 ◼️
 
 [Data](articles/50eb6516.json)
+
+[Extended Data](ext_articles/50eb6516.ext.json)
 
 ---
 
@@ -872,6 +894,8 @@ ECONOMYNEXT – Procurement of renewable energy as well as transmission lines wi
 
 [Data](articles/71872dc2.json)
 
+[Extended Data](ext_articles/71872dc2.ext.json)
+
 ---
 
 ### SAITM and NFTH to be handed over to Moratuwa Uni. in August
@@ -1006,6 +1030,8 @@ Educations, recreation and culture, while food, clothing and also transport seem
 
 [Data](articles/57b8fb82.json)
 
+[Extended Data](ext_articles/57b8fb82.ext.json)
+
 ---
 
 ### Dilshan Rodrigo made Chief Executive of Sri Lanka’s Union Bank
@@ -1025,6 +1051,8 @@ He has held numerous non-executive board appointments in sectors such as insuran
 ...
 
 [Data](articles/324a3af4.json)
+
+[Extended Data](ext_articles/324a3af4.ext.json)
 
 ---
 
@@ -1122,6 +1150,8 @@ A bond maturing on 15.01.2030 closed up at 11.65/75 percent from 11.60/80 percen
 
 [Data](articles/48e12972.json)
 
+[Extended Data](ext_articles/48e12972.ext.json)
+
 ---
 
 ### The body of the dead elephant
@@ -1210,6 +1240,8 @@ Minor Hotels has over 550 hotels and resorts and serves customers in 56 countrie
 
 [Data](articles/33482fa1.json)
 
+[Extended Data](ext_articles/33482fa1.ext.json)
+
 ---
 
 ### Sri Lanka stocks close down, mixed sentiments on banks
@@ -1233,6 +1265,8 @@ There was a net foreign inflow of 121 million. (Colombo/May31/2024)
 ◼️
 
 [Data](articles/808698a1.json)
+
+[Extended Data](ext_articles/808698a1.ext.json)
 
 ---
 
@@ -2142,6 +2176,8 @@ Shanthikumar said representations have been made to the Sri Lanka Tourist Develo
 
 [Data](articles/03f67d08.json)
 
+[Extended Data](ext_articles/03f67d08.ext.json)
+
 ---
 
 ### Sri Lanka moves to ban ‘Happy Hour’ leave hotels staggered
@@ -2275,25 +2311,5 @@ Supreme Court Judge S. The Supreme Court Judge. The decision had been published 
 [Data](articles/525d1c99.json)
 
 [Extended Data](ext_articles/525d1c99.ext.json)
-
----
-
-### Ajith Nivard's release including Kabral
-
-*2024-05-31 12:47:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அஜித்-நிவார்ட்-கப்ரால்-உட்பட-ஐவர்-விடுதலை/175-338198) · `ta`
-
-The Colombo High Court has ordered the release of five defendants, including former Central Bank Governor Ajith Nivard Cabral. This comes after accusations against the government for a 1.84 billion rupee loss from investments in Greek bonds in 2012.
-
-🟩
-
-The Colombo High Court has ordered the release of five defendants, including former Governor of the Central Bank of Sri Lanka, Ajith Nivard Cabral.
-
-It is noteworthy that the government was accused of loss of 1.84 billion rupees by investing in Greek bonds in 2012. Remble
-
-◼️
-
-[Data](articles/247cdd7c.json)
-
-[Extended Data](ext_articles/247cdd7c.ext.json)
 
 ---

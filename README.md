@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-01 01:33:59**
+As of **2024-06-01 01:52:46**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,409
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,644 (100.0%) of 27,646 articles have been extended.
+27,646 (100.0%) of 27,646 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -52,6 +52,8 @@ Speaking at a press briefing in Colombo, Senasinghe accused Wickremesinghe of re
 
 [Data](articles/2c5d4bae.json)
 
+[Extended Data](ext_articles/2c5d4bae.ext.json)
+
 ---
 
 ### Lawyers Collective condemns Range Bandara’s proposal to postpone polls
@@ -71,6 +73,8 @@ The Lawyers Collective yesterday strongly condemned a recent statement made by t
 ...
 
 [Data](articles/483ae8a1.json)
+
+[Extended Data](ext_articles/483ae8a1.ext.json)
 
 ---
 

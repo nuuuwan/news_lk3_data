@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-31 12:18:41**
+As of **2024-05-31 12:34:09**
 
 ## Newspaper Stats
 
-*Scraped **27,489** Articles*
+*Scraped **27,494** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,10 +13,10 @@ dbsjeyarajcom | 267
 bbccomsinhala | 272
 newsfirstlk | 363
 islandlk | 1,488
-economynextcom | 1,568
+economynextcom | 1,572
 dailyftlk | 1,612
 adalk | 2,346
-adaderanalk | 3,130
+adaderanalk | 3,131
 tamilmirrorlk | 3,224
 virakesarilk | 4,236
 dailymirrorlk | 4,348
@@ -26,11 +26,25 @@ adaderanasinhalalk | 4,388
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,484 (100.0%) of 27,489 articles have been extended.
+27,488 (100.0%) of 27,494 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-31 (Friday)
+
+### SLIC transfers its shares in Lanka Hospitals to Treasury Secretary
+
+*2024-05-31 12:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/99560/slic-transfers-its-shares-in-lanka-hospitals-to-treasury-secretary) · `en`
+
+The Lanka Hospitals Corp. PLC announces that the company has been notified by the Department of Public Enterprise of the Ministry of Finance, Economic Stabilization and National Policies regarding a decision by the Board of Directors of Sri Lanka Insurance Corporation Limited to transfer its shares in The Lanka Hospitals Corp. PLC to the Secretary of the Treasury.
+
+Issuing a statement, the Lanka Hospitals Corporation PLC stated that they are informed that pursuant to the said decision, a request has been submitted to the Chairman of the Securities and Exchange Commission to facilitate the transfer of the said shares.
+
+...
+
+[Data](articles/c74ba9c0.json)
+
+---
 
 ### Vehicle importers raise doubts over govt’s promises to lift restrictions
 
@@ -47,6 +61,8 @@ He added that discussions with State Minister Ranjith Siyambalapitiya indicated 
 ...
 
 [Data](articles/aba4bd01.json)
+
+[Extended Data](ext_articles/aba4bd01.ext.json)
 
 ---
 
@@ -173,6 +189,28 @@ However, the Minister instructed the Agriculture Ministry Livestock Division to 
 [Data](articles/ce2917b0.json)
 
 [Extended Data](ext_articles/ce2917b0.ext.json)
+
+---
+
+### Softlogic Colombo hotel under Minor group’s NH Collection brand from June
+
+*2024-05-31 10:39:00* · [`economynextcom`](https://economynext.com/softlogic-colombo-hotel-under-minor-groups-nh-collection-brand-from-june-165543/) · `en`
+
+ECONOMYNEXT – Softlogic Holdings said its Colombo city hotel will be operated by Thailand-based Minor leisure group under its upmarket NH Collection brand from June 1.
+
+“The debut of the NH Collection Hotels & Resorts brand in Sri Lanka is an indication of the untapped potential and opportunity for tourism in Sri Lanka, particularly in the city of Colombo,” Softlogic said in a stock exchange filing.
+
+The hotel has 219 rooms and has so far been operated by Movenpick, hotels and resorts.
+
+Minor Hotels has three other properties in Sri Lanka – Anantara Kalutara Resort, Anantara Peace Haven Tangalle Resort and Avani Kalutara Resort.
+
+The Softlogic hotel property, which consists of 219 rooms and suites providing an expansive view of the Indian ocean and Colombo city, will be branded as the “NH Collection Colombo Hotel”.
+
+Minor Hotels has over 550 hotels and resorts and serves customers in 56 countries, the statement said. (Colombo/May31/2024)
+
+◼️
+
+[Data](articles/1debd9be.json)
 
 ---
 
@@ -361,6 +399,28 @@ The body recovered has run a liquor bar. Investigations have revealed that the e
 [Data](articles/ec90637c.json)
 
 [Extended Data](ext_articles/ec90637c.ext.json)
+
+---
+
+### Sri Lanka rupee opens stable at 301.75/80 to US dollar
+
+*2024-05-31 09:40:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stable-at-301-75-80-to-us-dollar-165537/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened somewhat stable at 301.75/80 to the US dollar on Friday, from 301.85/90 the previous day, dealers said. Bond yields were steady.
+
+A bond maturing on 15.12.2026 was quoted stable at 9.70/80 percent.
+
+A bond maturing on 15.09.2027 was quoted down at 10.35/50 percent from 10.40/55 percent.
+
+A bond maturing on 01.07.2028 was quoted stable at 10.70/80 percent.
+
+A bond maturing on 15.05.2030 was quoted at 11.55/75 percent.
+
+The Colombo Stock Exchange opened up. The All Share Price Index was up 0.10 percent at 12,182, the S&P SL20 was down 0.23 percent at 3,594. (Colombo/May31/2024)
+
+◼️
+
+[Data](articles/b80e0e11.json)
 
 ---
 
@@ -946,6 +1006,32 @@ Election Commission’s Chairman R. M. A. L. Ratnayake confirmed that the EU del
 
 ---
 
+### Donald Trump convicted 34 times in first for ex-US president
+
+*2024-05-31 06:06:00* · [`economynextcom`](https://economynext.com/donald-trump-convicted-34-times-in-first-for-ex-us-president-165515/) · `en`
+
+ECONOMYNEXT – Former US President Donald Trump has been convicted by the jury for falsifying business records in a case linked to paying off a former porn star.
+
+Trump is expected to be sentenced on July 11 but Trumps lawyers are also expected to appeal the decision.
+
+Trump slammed the judge as ‘corrupt’ and claimed he was a ‘very innocent man’ after the jury delivered the verdict.
+
+The trial should have been held in a different location where there were more Republicans instead of the New York, where he did not win, he said.
+
+However many Trump businesses had been based for years in New York.
+
+Reporters in the courtroom said the jury was widely expected to go home for the day for further deliberations and those present were ‘stunned’ by the verdict that came at the end of the day.
+
+Trump’s fund-raising website crashed in what the Republican activists said was a rush by his supporters to donate.
+
+Trump is also facing trials for inciting a ‘riot’ in Washington. (Colombo/May31/2024)
+
+◼️
+
+[Data](articles/33670805.json)
+
+---
+
 ### Dr. Shafi recounts ordeal and emphasises need for unity and compassion in Sri Lanka
 
 *2024-05-31 05:48:21* · [`dailyftlk`](https://www.ft.lk/opinion/Dr-Shafi-recounts-ordeal-and-emphasises-need-for-unity-and-compassion-in-Sri-Lanka/14-762404) · `en`
@@ -1014,6 +1100,8 @@ Ambassadorial aspirants hardly break a sweat when drafting submissions to the US
 
 [Data](articles/d26cf98e.json)
 
+[Extended Data](ext_articles/d26cf98e.ext.json)
+
 ---
 
 ### A Glint In The Eyes Of Votaries Of BJP – 2024 Encounter
@@ -1027,6 +1115,8 @@ The Four-State elections giving a stunning victory to the BJP recently, launched
 ...
 
 [Data](articles/e815fe37.json)
+
+[Extended Data](ext_articles/e815fe37.ext.json)
 
 ---
 
@@ -1077,6 +1167,8 @@ In the common usage, VFS has come to represent the concept of outsourcing, when 
 ...
 
 [Data](articles/ea0c8ae3.json)
+
+[Extended Data](ext_articles/ea0c8ae3.ext.json)
 
 ---
 
@@ -2045,105 +2137,5 @@ Due to the prevailing southwest monsoon, the Department of Meteorology has furth
 [Data](articles/cf77ccad.json)
 
 [Extended Data](ext_articles/cf77ccad.ext.json)
-
----
-
-### A woman drives in Kelani River in the middle of the storied
-
-*2024-05-30 19:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197193) · `si`
-
-In heavy rain, Kaduwela police and locals rescued a woman attempting suicide in the rising Kelani River. The emergency call alerted them, leading to a swift response. Inspector Kan Weerasinghe coordinated the effort, deploying personnel equipped with ropes. Despite the challenging conditions, they managed to save the woman, who was found about 9 kilometers downstream from Bomaraya. She remains hospitalized at Colombo East Hospital.
-
-🟩
-
-Kaduwela police officers and the residents of Kaduwela Police have also been able to rescue a woman who attempted to commit suicide by jumping into the Kelani River.
-
-With heavy rains, the operation was implemented when the water level in the Kelani River rises.
-
-The Emergency Call Number had received a telephone call that a woman was swept out of the Kelani River in the Kelani River last night last night.
-
-Kaduwela Police OIC Inspector Kan Weerasinghe, Inspector General of Police, had been informed of the information.
-
-Immediately the OIC of the OIC was instructed to prepare a person, rope, and several triples.
-
-Accordingly, the OIC of Saman Asitha, who is able to get to the river and the capacity of the residents of the river, was immediately departed near the Kaduwela Bridge.
-
-According to the help of a woman who was bathing from the top of the Kelani River, Asith Samantha inspected the river and rescued her after a serious streets of life.
-
-...
-
-[Data](articles/8b262c34.json)
-
-[Extended Data](ext_articles/8b262c34.ext.json)
-
----
-
-### A statement from the Ranga
-
-*2024-05-30 19:15:02* · [`adalk`](https://www.ada.lk/breaking_news/රංගෙගෙන්-සඳුදා-ප්‍රකාශයක්/11-409932) · `si`
-
-Palitha Range Bandara, UNP General Secretary, announced a forthcoming statement on a referendum and the President's term, set for release today at 10 am at the UNP Headquarters in Pitakotte. He pledged to address all concerns, noting other parties' increasing statements on the matter.
-
-🟩
-
-UNP General Secretary Palitha Range Bandara stated that a statement is being made regarding a referendum and the President's term of office in two years.
-
-Mr. Bandara said the Range Bandara said he would answer the problems of everyone. The statement will be made at the United National Party Headquarters in Pitakotte at 10 am today.
-
-Rangambara Bandara said that various parties have begun to issue various statements about their statement.
-
-◼️
-
-[Data](articles/e31ebd64.json)
-
-[Extended Data](ext_articles/e31ebd64.ext.json)
-
----
-
-### Sri Lanka confident of wrapping up debt talks for IMF review in June: State Minister
-
-*2024-05-30 19:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-confident-of-wrapping-up-debt-talks-for-imf-review-in-june-state-minister-165477/) · `en`
-
-ECONOMYNEXT – Sri Lanka is confident of wrapping up debt talks in time for the International Monetary Fund to consider the next review of the island’s program, State Minister for Finance Shenan Semasinge said.
-
-“We have a strong conviction that within our timelines we can do it,” Miniter Semasinghe told reporters Thursday.
-
-Discussions on converting in-principle deals with official creditors into MOUs are progressing.
-
-“We have to open the second round of negotiations with bondholder,” he said.
-
-Meanwhile advisors of bondholders and government are also engaging he said. (Colombo/May30/2024)
-
-◼️
-
-[Data](articles/0298b6da.json)
-
-[Extended Data](ext_articles/0298b6da.ext.json)
-
----
-
-### The Poson festival proclaimed not to help Mihintale
-
-*2024-05-30 19:05:10* · [`adalk`](https://www.ada.lk/breaking_news/පොසොන්-උත්සවයට-මිහින්තලේට-උදව්-නොකරන-මෙන්-වගකිවයුත්තන්-ප්‍රකාශ-කරලා/11-409931) · `si`
-
-The Chief Incumbent of Mihintale Raja Maha Viharaya clarified that despite statements from the Presidential Secretariat and several MPs about the Poson Festival, the Giantdu Maha Ranaman celebration is ongoing this year. He highlighted the Arahantadahara's continuous work since the Poson Poya Day 2332 years ago, including efforts during the COVID pandemic. He expressed gratitude towards various communities for their support last year and mentioned the need for two generators due to ongoing electrification issues. The Mihindu Perahera is scheduled for the 20th, and he urged continued assistance and media propagation for this year's Poson Festival.
-
-🟩
-
-The Chief Incumbent of the Mihintale Raja Maha Viharaya said that although the Presidential Secretariat and several MPs have stated in the Poson Festival, but the Chief Incumbent of the Mihinila Raja Maha Viharaya said that the Giantdu Maha Ranaman celebrates this year.
-
-He was speaking at a press conference held at Mihintale today.The Thera said,
-
-"The Arahantadahara has been working 2332 years from the Poson Poya Day from the day.At the time of the covid plague, we eventually attended this pinch.
-
-They were speaking from the great arroad of parliament and made security forces who were cleaned and cleaned in the charity, the Holy cleansed and cleaned, tea. It was a big chancer.. Those rules do not take any people, those who have not learned the financial management of the King of the Fourth Most of the Fourth.
-
-The rulers who ignore the Poson Pinhavation celebrating the Mihindu Maha Rahan.But the Sinhalese, Muslims, Tamils, other nationals have helped us last year.
-
-...
-
-[Data](articles/58d40451.json)
-
-[Extended Data](ext_articles/58d40451.ext.json)
 
 ---

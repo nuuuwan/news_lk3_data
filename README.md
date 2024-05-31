@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-31 14:18:45**
+As of **2024-05-31 14:34:25**
 
 ## Newspaper Stats
 
-*Scraped **27,509** Articles*
+*Scraped **27,515** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,94 @@ newsfirstlk | 363
 islandlk | 1,488
 economynextcom | 1,572
 dailyftlk | 1,612
-adalk | 2,347
+adalk | 2,349
 adaderanalk | 3,132
 tamilmirrorlk | 3,227
 virakesarilk | 4,242
-dailymirrorlk | 4,350
+dailymirrorlk | 4,354
 adaderanasinhalalk | 4,390
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,509 (100.0%) of 27,509 articles have been extended.
+27,509 (100.0%) of 27,515 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-31 (Friday)
+
+### Memorial service held in remembrance of late French Ambassador
+
+*2024-05-31 14:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Memorial-service-held-in-remembrance-of-late-French-Ambassador/108-283806) · `en`
+
+Colombo, May 31 (Daily Mirror)- A memorial service in remembrance of the late Ambassador Jean-François Pactet of France to Sri Lanka was held at St. Mary’s Church, Lauries Road,  Colombo 04 this morning.
+
+Monsignor Brain Udaigwe, Apostolic Nuncio of the Holy See to Sri Lanka lead the memorial service.
+
+Foreign Minister Ali Sabry and a larger group of Ambassadors and High Commissioners attended the event.
+
+◼️
+
+[Data](articles/37d85b15.json)
+
+---
+
+### Nepal’s Lamichhane denied US visa for second time
+
+*2024-05-31 14:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Nepals-Lamichhane-denied-US-visa-for-second-time/108-283805) · `en`
+
+(BBC) - Nepal leg-spinner Sandeep Lamichhane is set to miss the T20 World Cup after a second visa application to the United States was rejected.
+
+The 23-year-old's initial application was turned down by the the US Embassy in Kathmandu last week.
+
+Lamichhane was found guilty of raping an 18-year-old woman in December 2023 but that conviction was recently overturned.
+
+Nepal's government and the Cricket Association of Nepal (CAN) had attempted to intervene on the player's behalf with a second application.
+
+However, a statement from CAN said "despite taking necessary initiatives" the "US Embassy has expressed its inability to give travel permission to national player Lamichhane".
+
+He was originally left out of Nepal's 15-man squad for the tournament, which will be held in the United States and the Caribbean, but was reportedly set to be added to their party.
+
+...
+
+[Data](articles/791d0e9c.json)
+
+---
+
+### Proposed Electricity Bill will unbundle CEB services, guarantee quality supply: Kanchana
+
+*2024-05-31 14:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Proposed-Electricity-Bill-will-unbundle-CEB-services-guarantee-quality-supply-Kanchana/108-283804) · `en`
+
+Colombo, May 31 (Daily Mirror)- The electricity sector reforms proposed in the Sri Lanka Electricity Bill will unbundle the services of the Ceylon Electricity Board (CEB) while guaranteeing a quality supply of electricity and services, Power and Energy Minister Kanchana Wijesekara said today.
+
+"If approved next week in Parliament, the electricity sector reforms proposes to unbundle the services of the CEB, establish successor companies to take over different functions to operate more efficiently and in a transparent manner, to guarantee a quality supply of electricity and services and to reduce the cost of energy to the consumer in the future," he said in a statement on X.
+
+The Minister said the proposed three-year reform timeline will also enable to establish wholesale markets, open access, power trading across regions and pave the way for necessary investments and competition for the sector.
+
+...
+
+[Data](articles/b934d6dd.json)
+
+---
+
+### Suspect arrested for stealing British lady’s bag on bus
+
+*2024-05-31 13:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Suspect-arrested-for-stealing-British-ladys-bag-on-bus/108-283801) · `en`
+
+Colombo, May 31 (Daily Mirror) - A 31 years-old suspect has been arrested in connection with stealing a bag of a female British tourist containing valuables worth Rs. 2.5 million on a bus at the Bastian Mawatha in Pettah.
+
+Police said the suspect, a resident of Pethiyagoda, Kelaniya was arrested early this morning by a group of police officers from the Pettah Police.
+
+Police also recovered stolen valuables including a camera, a laptop, bank cards and the passport of the Birtish lady.
+
+Investigations revealed that the tourist, a YouTuber had arrived in Sri Lanka to make a video on the country and was preparing to leave for Ella from Bastian Mawatha when her bag was stolen.
+
+◼️
+
+[Data](articles/9839d269.json)
+
+---
 
 ### Decision on Lanka Hospital rights
 
@@ -2071,87 +2143,5 @@ The CT machine has been accused of not being rushed to the hospital in retaining
 [Data](articles/2bb635d8.json)
 
 [Extended Data](ext_articles/2bb635d8.ext.json)
-
----
-
-### Our lands will be protected only if people are aware - Sukas
-
-*2024-05-30 23:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/184895) · `ta`
-
-Attorney Sukas emphasizes that protecting lands and nation requires public awareness. He criticizes the opposition for abandoning citizens during land surveying measures in Valikamam, affecting not just Jaffna but the entire Northern and Eastern Tamil regions.
-
-🟩
-
-Tamil National People's Front media spokesman Attorney Sukas said that our lands will be protected and our nation will be protected only if people are aware.
-
-He said this while addressing the struggle when the people were abandoned by the opposition of the people when they were attending measuring measures by the Department of Land Surveying to promote the land of the civilian land in the West Chiripuram Thiruvadi state of Valikamam.
-
-Not only in Jaffna but also in the North and East Tamil nation. These measures cannot be allowed.
-
-◼️
-
-[Data](articles/2490089a.json)
-
-[Extended Data](ext_articles/2490089a.ext.json)
-
----
-
-### Opposition parties seek to derail Economic Transformation Bill, risking return to crisis - Semasinghe
-
-*2024-05-30 22:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/99551/opposition-parties-seek-to-derail-economic-transformation-bill-risking-return-to-crisis-semasinghe) · `en`
-
-State Minister for Finance, Shehan Semasinghe stated that only those wishing to plunge the country back into an economic crisis would oppose the Economic Transformation Bill.
-
-He emphasized that while the current government is focused on an optimistic economic outlook, the opposition groups are driven solely by political motives.
-
-State Minister Semasinghe made these remarks during a press conference at the Presidential Media Centre today (30), themed ‘Collective path to a stable country’.
-
-The Economic Transformation Bill aims to increase productivity and ensure equal opportunities for all citizens in Sri Lanka, while also enhancing infrastructure. It is expected to generate job opportunities, foster economic growth, and expand the competitive market through innovative exports.
-
-...
-
-[Data](articles/385f325c.json)
-
-[Extended Data](ext_articles/385f325c.ext.json)
-
----
-
-### Thailand recognized Sri Lankan tourists
-
-*2024-05-30 22:16:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-சுற்றுலாப்பயணிகளுக்கு-விசா-இல்லாத-பயணத்தை-அங்கிகரித்த-தாய்லாந்து/175-338183) · `ta`
-
-Thailand allows visa-free entry for tourists from 36 countries, including Sri Lanka, granting them a 60-day stay.
-
-🟩
-
-External Affairs Minister Ali Sabri said that tourists from 36 other countries, including Sri Lanka, can enter Thailand without visa and stay for up to 60 days.
-
-◼️
-
-[Data](articles/0551293f.json)
-
-[Extended Data](ext_articles/0551293f.ext.json)
-
----
-
-### Dileepan MP fund allocation for the reconstruction of Vihara
-
-*2024-05-30 22:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/184909) · `ta`
-
-Wanni Parliamentarian Kulasingham Dileepan has initiated development projects in Sinhala settlements near Vavuniya, allocating 10 lakh rupees for Vihara reconstruction in Nandimitrakama and 19 lakh rupees for Gambillivewa Sinhalese settlement development.
-
-🟩
-
-Various development work has been started by Wanni Parliamentarian Kulasingham Dileepan to the Sinhala settlement villages created in the border areas of Vavuniya.
-
-10 lakhs of rupees have been allocated to carry out the development work of the Vihara in the village of Nandimitrakama, where the newly constructed building was laid by a Member of Parliament.
-
-It is also worth noting that he has allocated a sum of Rs 19 lakhs for various development work for the recent Gambillivewa Sinhalese settlement.
-
-◼️
-
-[Data](articles/4c02fc68.json)
-
-[Extended Data](ext_articles/4c02fc68.ext.json)
 
 ---

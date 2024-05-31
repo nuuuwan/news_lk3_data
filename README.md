@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-31 06:59:21**
+As of **2024-05-31 07:21:33**
 
 ## Newspaper Stats
 
-*Scraped **27,433** Articles*
+*Scraped **27,445** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,203 @@ islandlk | 1,488
 economynextcom | 1,568
 dailyftlk | 1,611
 adalk | 2,340
-adaderanalk | 3,122
-tamilmirrorlk | 3,215
+adaderanalk | 3,125
+tamilmirrorlk | 3,216
 virakesarilk | 4,232
-dailymirrorlk | 4,332
-adaderanasinhalalk | 4,379
+dailymirrorlk | 4,338
+adaderanasinhalalk | 4,381
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,421 (100.0%) of 27,433 articles have been extended.
+27,428 (99.9%) of 27,445 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-31 (Friday)
+
+### Underworld figure ‘Midigama Ruwan’ brought back to Sri Lanka
+
+*2024-05-31 06:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/99554/underworld-figure-midigama-ruwan-brought-back-to-sri-lanka) · `en`
+
+Notorious underworld figure and drug trafficker Ruwan Jayasekara, alias “Midigama Ruwan”, has been brought back to Sri Lanka from Dubai by a team of offices from the Criminal Investigations Department (CID) today, Police Spokesman DIG Nihal Thalduwa said.
+
+The suspect is accused of being involved in planning the attempt by infamous drug trafficker Nadun Chinthaka alias ‘Harak Kata’ to escape from the CID headquarters in Colombo.
+
+In March, it had been reported that “Midigama Ruwan” had been arrested by the Dubai Police, based on a Interpol warrant, and that he would likely be extradited back to Sri Lanka.
+
+He is considered to be one of the two people who had led Harak Kata’s drug network after the latter’s arrest in Madagascar and extradition to Sri Lanka. He is also said to have planned an attack on the CID head office in Colombo to free drug trafficker Nadun Chinthaka alias ‘Harak Kata’, which was ultimately foiled.
+
+◼️
+
+[Data](articles/a7c6f4d5.json)
+
+---
+
+### SL refutes reports of move to sell surplus ammunition to Ukraine via Poland
+
+*2024-05-31 06:42:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/SL-refutes-reports-of-move-to-sell-surplus-ammunition-to-Ukraine-via-Poland/155-283762) · `en`
+
+- MoD says immediate action will be taken on the status of a large stock of surplus ammunition
+
+Colombo, May 31 (Daily Mirror) - Sri Lanka's Ministry of Defence has refuted recent media reports, stating that Poland is utilizing intermediaries to procure surplus ammunitions from Sri Lanka to transfer to Ukraine.
+
+Colonel Nalin Herath, the Defence Ministry Spokesman, dismissed the claims as false, stating that there is no validity to the reports.
+
+However, he acknowledged the presence of ammunition which has passed its shelf life being stored in military-owned warehouses in the country.
+
+Colonel Herath clarified that “these stocks do not belong to the Ministry of Defence but to a foreign private company, which has been instructed to promptly remove or destroy the surplus ammunitions due to security concerns.
+
+...
+
+[Data](articles/eb43170a.json)
+
+---
+
+### Families of disappeared against freeing Ex-Navy Chief
+
+*2024-05-31 06:38:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Families-of-disappeared-against-freeing-Ex-Navy-Chief/108-283761) · `en`
+
+Colombo, May 31 (Daily Mirror) - The Families of the Disappeared with the parents staged a protest against the attempt to free former Navy Commander Wasantha Karannagoda  from the Trial-at-Bar relating to the disappearance of 11 youths by a group of Navy officers.
+
+The protest was organised by the human rights organisation, the Families of the Disappeared in front of the Superior Courts Complex at Hulftsdorp ahead of the hearing of the writ application filed by ex-Navy chief Karannagoda scheduled to be taken up on June 3 before the Court of Appeal.
+
+In 2019, the Attorney General filed indictments with over 667 charges against the 14 accused including Karannagoda in connection with the torture, extortion, abduction and conspiracy to murder 11 youths during the years 2008-2009. Due to the seriousness of the crime, a special Trial-at-Bar comprising three High Court judges was appointed to try the case.
+
+...
+
+[Data](articles/4ae1cb8c.json)
+
+---
+
+### මිදිගම රුවන් මෙරටට රැගෙන එයි
+
+*2024-05-31 06:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197197) · `si`
+
+පාතාල  නායකයකු සහ ජාත්‍යන්තර මත්ද්‍රව්‍ය ජාලයට සම්බන්ධ ප්‍රධාන සැකකරුවෙකු වන මිදිගම රුවන් ඩුබායි සිට මෙරටට රැගෙනවිත් තිබේ.
+
+අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ විශේෂ නිලධාරීන් කණ්ඩායමක් විසින් සැකකරුව රැගෙනවිත් ඇත.
+
+පසුගියදා හරක් කටා හෙවත් නදුන් චින්තක ව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවෙන් මුදාගැනීමට සැලසුම් කළ පුද්ගලයා ලෙසටද මිදිගම රුවන් ව සැක කරයි.
+
+◼️
+
+[Data](articles/ffbbfdcc.json)
+
+---
+
+### Sufficient water is to hydro-power plants, irrigation tanks fill over 80%
+
+*2024-05-31 06:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sufficient-water-is-to-hydro-power-plants-irrigation-tanks-fill-over-80/108-283760) · `en`
+
+Colombo, May 31 (Daily Mirror) - With the increased rainfall in the catchment areas of the central hills, the hydro-power plants are receiving sufficient capacity of water, the Irrigation Department’s Irrigation (Hydrology) Director, Eng. S.P.C. Sugeeshwara Bandara said.
+
+He also said that this is a positive sign for continuous hydroelectricity generation and mentioned that the total water capacity of the country's irrigation tanks has reached 80 percent.
+
+Certain irrigation tanks are spilling water at a considerable rate, and the release capacity is expected to increase with the higher rainfall anticipated in the catchment areas tonight, he added.
+
+Therefore, people in low-lying areas are urged to remain vigilant over possible sudden floods.
+
+◼️
+
+[Data](articles/44460b77.json)
+
+---
+
+### අදත් තද වැසි
+
+*2024-05-31 06:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197196) · `si`
+
+සක්‍රීය නිරිතදිග මෝසම් තත්ත්වය හේතුවෙන් දිවයිනේ දැනට පවතින වැසි සහ සුළං තත්ත්වය තවදුරටත් අද (31) දිනයේත් අපේක්ෂා කෙරේ.
+
+ඒ අනුව අද දිනයේත් බස්නාහිර, සබරගමුව, මධ්‍යම සහ දකුණු පළාත්වල විටින්විට වැසි ඇතිවෙයි. වයඹ පළාතේ වැසි වාර කිහිපයක් ඇතිවිය හැකිය.
+
+බස්නාහිර සහ සබරගමුව පළාත්වලත්, නුවරඑළිය දිස්ත්‍රික්කයේත් ඇතැම් ස්ථානවල මි.මී. 50 ට වැඩි තරමක තද වැසි ඇති වෙයි.
+
+ඌව, උතුරු-මැද සහ නැගෙනහිර පළාත්වල සවස් කාලයේ හෝ රාත්‍රී කාලයේ ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකිය.
+
+මධ්‍යම කඳුකරයේ බටහිර බැවුම් ප්‍රදේශවලත් උතුරු මැද, බස්නාහිර, දකුණු සහ වයඹ පළාත්වලත් ත්‍රීකුණාමලය සහ මොනරාගල දිස්ත්‍රික්කවලත් විටින් විට හමන පැ.කි.මී. (40-50) ක පමණ තද සුළං ඇති වෙයි.
+
+◼️
+
+[Data](articles/d7a30c39.json)
+
+---
+
+### Underworld figure Midigama Ruwan brought to Sri Lanka
+
+*2024-05-31 06:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Underworld-figure-Midigama-Ruwan-brought-to-Sri-Lanka/108-283759) · `en`
+
+Colombo, May 31 (Daily Mirror) - Ruwan Jayasekara, alias Midigama Ruwan, a notorious underworld figure allegedly involved in planning an attack on the Criminal Investigation Department (CID) headquarters in Colombo to free drug trafficker Nadun Chinthaka alias 'Harak Kata', brought to Sri Lanka from Dubai by a CID team.
+
+Midigama Ruwan, who is also the brother-in-law of Nadun Chinthaka, was reportedly arrested by Dubai Police in March. Harak Kata himself was arrested by Dubai authorities last year and subsequently deported to Sri Lanka.
+
+The Dubai police arrested Midigama Ruwan following a clash in a night club in Dubai.
+
+◼️
+
+[Data](articles/285862a6.json)
+
+---
+
+### Trump becomes first former U.S. president to be convicted of felony crimes
+
+*2024-05-31 06:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/99553/trump-becomes-first-former-us-president-to-be-convicted-of-felony-crimes) · `en`
+
+(AP) — Donald Trump became the first former American president to be convicted of felony crimes Thursday as a New York jury found him guilty of all 34 charges in a scheme to illegally influence the 2016 election through a hush money payment to a porn actor who said the two had sex.
+
+Trump sat stone-faced while the verdict was read as cheering from the street below could be heard in the hallway on the courthouse’s 15th floor where the decision was revealed after more than nine hours of deliberations.
+
+“This was a rigged, disgraceful trial,” an angry Trump told reporters after leaving the courtroom. “The real verdict is going to be Nov. 5 by the people. They know what happened, and everyone knows what happened here.”
+
+Judge Juan Merchan set sentencing for July 11, just days before the Republican National Convention in Milwaukee, where GOP leaders, who remained resolute in their support in the aftermath of the verdict, are expected to formally make him their nominee.
+
+...
+
+[Data](articles/323ce64a.json)
+
+---
+
+### Fairly heavy showers expected in parts of the island
+
+*2024-05-31 06:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/99552/fairly-heavy-showers-expected-in-parts-of-the-island) · `en`
+
+The prevailing showery and windy conditions over the island are expected to continue further, due to the active Southwest Monsoonal condition, says the Met. Department.
+
+Showers will occur at times in Western, Sabaragamuwa, Central and Southern provinces. Several spells of showers will occur in North-western province.
+
+Fairly heavy showers above 50 mm are likely at some places in Western and Sabaragamuwa provinces and in Nuwara-Eliya district.
+
+Showers or thundershowers will occur at a few places in Uva, North-central and Eastern provinces in the evening or night, it said.
+
+Strong winds of about 40-50 kmph can be expected at times over Western slopes of the central hills and in North-central, Western, Southern and North-western provinces and in Trincomalee and Monaragala districts.
+
+...
+
+[Data](articles/cb74ddb7.json)
+
+---
+
+### International spotlight on presidential election
+
+*2024-05-31 06:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/International-spotlight-on-presidential-election/108-283757) · `en`
+
+Colombo, May 31 (Daily Mirror) - The International spotlight is already cast on the conduct of the upcoming presidential election in Sri Lanka with the European Union already deploying its experts for a pre-election assessment of the ground situation, an official said yesterday.
+
+Election observers are usually deployed to monitor national elections in Sri Lanka. They also carry out pre-poll assessments to ascertain whether a free and fair electoral process is ensured in the country.
+
+However, it assumes special significance this year because Sri Lanka is going to implement the Campaign Finance Act to monitor electoral expenses of candidates for the first time.
+
+The implementation of the new law was also a recommendation by the EU experts who monitored elections in Sri Lanka in the past.
+
+Election Commission’s Chairman R. M. A. L. Ratnayake confirmed that the EU delegation met with him.
+
+...
+
+[Data](articles/4be1dc6d.json)
+
+---
 
 ### Vesak at the United Nations: Still not a UN holiday?
 
@@ -116,6 +298,8 @@ Group’s Healthcare and Consumer sectors led growth while healthcare segment re
 
 [Data](articles/311768de.json)
 
+[Extended Data](ext_articles/311768de.ext.json)
+
 ---
 
 ### Watawala Plantations appoints Reyaz Mihular as Chairman; bids farewell to Sunil G. Wijesinha
@@ -129,6 +313,26 @@ Mihular is an accomplished professional in the financial and corporate sectors, 
 ...
 
 [Data](articles/0f19fbd5.json)
+
+[Extended Data](ext_articles/0f19fbd5.ext.json)
+
+---
+
+### Calls for probe into Bar Assoc. office bearers over misconduct in JICA project
+
+*2024-05-31 05:18:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Calls-for-probe-into-Bar-Assoc-office-bearers-over-misconduct-in-JICA-project/108-283758) · `en`
+
+Several concerned members of the Bar Association of Sri Lanka (BASL) - Attorneys-at-Law including President's Counsels have urged the newly appointed five-member expertise Committee of Inquiry to look into the very serious and perturbing allegations of misconduct against few members of the Bar Association office bearers into the JICA funded project/ activities.
+
+This five member expertise Committee of Inquiry was appointed by the Bar Council on May 18, 2024 and consist of Dr. K. Kanag-Isvaran PC, Dr. Faisz Musthapha PC, Rienzie Arsekuleratne PC, Ikram Mohamed PC and Geoff Alagaratnam PC.
+
+The Daily Mirror in its May 22nd edition exposed this alleged misconduct under the caption ‘Did BASL misappropriate monies sent by JICA for anti-corruption programme’.
+
+According to BASL Financial Report as at April 30, 2024, which this newspaper is in possession, President and Deputy President of the BASL have been paid Rs 6 and 3 million respectively out of the project money.
+
+...
+
+[Data](articles/a3af641a.json)
 
 ---
 
@@ -216,6 +420,8 @@ As at the end of the fiscal year, the Company reported a portfolio of Rs. 250 bi
 
 [Data](articles/9f4c2bf0.json)
 
+[Extended Data](ext_articles/9f4c2bf0.ext.json)
+
 ---
 
 ### Durdans Hospital elevates healthcare connectivity with Dialog Enterprise’s SDWAN Solution
@@ -227,6 +433,8 @@ Durdans Hospital, a pioneering institution in Sri Lanka’s healthcare landscape
 ...
 
 [Data](articles/ca7b2bb1.json)
+
+[Extended Data](ext_articles/ca7b2bb1.ext.json)
 
 ---
 
@@ -270,6 +478,8 @@ The Economic Transformation Bill aims to increase productivity and ensure equal 
 
 [Data](articles/a0da283c.json)
 
+[Extended Data](ext_articles/a0da283c.ext.json)
+
 ---
 
 ### Security has been enhanced to ahead of the T20 World Cup
@@ -310,6 +520,8 @@ As we know theories are updating fast amid the technological revolution. The cur
 
 [Data](articles/697ac052.json)
 
+[Extended Data](ext_articles/697ac052.ext.json)
+
 ---
 
 ### Sampath Bank launches innovative Mini-POS Solution, empowering SMEs to boost sales and enhance customer experience
@@ -323,6 +535,8 @@ As SMEs continue to play an increasingly pivotal role in the market, Sampath Ban
 ...
 
 [Data](articles/da36fae2.json)
+
+[Extended Data](ext_articles/da36fae2.ext.json)
 
 ---
 
@@ -411,6 +625,22 @@ Speaking at the event, Dialog Acida PLC Group Chief Minister Asanka Priyadarshan
 [Data](articles/ff7a23c3.json)
 
 [Extended Data](ext_articles/ff7a23c3.ext.json)
+
+---
+
+### நீர் மின் உற்பத்தி அதிகரிப்பு
+
+*2024-05-31 01:55:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீர்-மின்-உற்பத்தி-அதிகரிப்பு/175-338185) · `ta`
+
+நாட்டில் தற்போது பெய்துவரும் கனமழையால் நீர் மின் உற்பத்தி சுமார் இருமடங்கு அதிகரித்துள்ளது.
+
+தற்போதைய மழை நிலைமையுடன் நீர் மின் உற்பத்தி 40 வீதத்தால் அதிகரித்துள்ளதாக மின்சக்தி மற்றும் எரிசக்தி அமைச்சின் செயலாளர் சுலக்‌ஷன ஜயவர்தன தெரிவித்துள்ளார்.
+
+மழையுடனான வானிலை ஆரம்பமாகுவதற்கு முன்னர் நீர் மின் உற்பத்தியானது 20 சதவீதமாகவே காணப்பட்டதாக அவர் தெரிவித்துள்ளார். (a)
+
+◼️
+
+[Data](articles/a0f76567.json)
 
 ---
 
@@ -1929,285 +2159,5 @@ Shelton loves are the highest number of ballet in Sri Lanka.
 [Data](articles/05729461.json)
 
 [Extended Data](ext_articles/05729461.ext.json)
-
----
-
-### Maithripala to be charged for contempt of court?
-
-*2024-05-30 15:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Maithripala-to-be-charged-for-contempt-of-court/108-283716) · `en`
-
-Colombo, May 30 (Daily Mirror) - A contempt of court application has been filed before the Court of Appeal against former President Maithripala Sirisena for allegedly disregarding an order made by the Colombo District Court regarding the Sri Lanka Freedom Party (SLFP) chairmanship.
-
-SLFP activist Montague Sarathchandra filed this application seeking an order to punish Maithripala Sirisena for the offence of contempt of court for alleged violation of the interim injunction issued by the Colombo District Court on April 24, 2024.
-
-The Colombo District Court had issued an interim injunction on April 24, preventing former President Maithripala Sirisena from functioning as the chairman of the SLFP.
-
-The petitioner alleged that despite the Colombo District Court's interim injunction, respondent Sirisena purported to style himself and function as the Chairman of the SLFP till May 12, 2024.
-
-...
-
-[Data](articles/c0fc435a.json)
-
-[Extended Data](ext_articles/c0fc435a.ext.json)
-
----
-
-### Public cautioned over rising water levels of several rivers
-
-*2024-05-30 15:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/99541/public-cautioned-over-rising-water-levels-of-several-rivers) · `en`
-
-The Department of Irrigation says that the water level of the Mahaweli River has risen following the heavy rainfall experienced in the Central Hills.
-
-The Director of Irrigation (Hydrology & Disaster Management) S. P. C. Sugeeshwara stated that the water levels of the upper catchment areas of Mahaweli River and its tributaries have increased and consequently, it is dangerous to travel along the tributaries as well as bathing in them.
-
-Meanwhile, the water levels of Gin, Kalu and Nilwala rivers have also increased significantly today (30).
-
-It is also warned that there is a risk of flooding if heavy rainfall continues.
-
-The Department of Irrigation further stated that people living in low-lying areas should pay high attention in this regard as the water levels of these rivers may rise unexpectedly.
-
-◼️
-
-[Data](articles/4aa1c99c.json)
-
-[Extended Data](ext_articles/4aa1c99c.ext.json)
-
----
-
-### Tamil
-
-*2024-05-30 15:33:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடதாசி-கரண்டியால்-தடுமாறும்-தமிழர்/175-338159) · `ta`
-
-This text discusses single-use plastic products in Sri Lanka, emphasizing the importance of understanding instructions in local languages like Tamil. It highlights the environmental impact of improper disposal and the constitutional right to language equality, urging for clearer product instructions in all official languages.
-
-🟩
-
-Welcome to plastic products used only for one time. A number of alternative arrangements have been made for that.
-
-The stoop, the time, the kadasi kapam, the kadasasi cup, the kadasi plate, the products are in circulation in the market in many forms. When buying a yoga, most stores are provided with a katadasi spoon.
-
-The use of this gutter spoon is welcome, which can be torn down and fertilizes to the soil that is harmful to the environment.
-
-However, there is no pit in the spoon of the bar, but the buyer must fold both sides and make it like a pit. Many people who do not know this, do not wrap the Kadadasi Randy, but also pour the yoga into the clothes and pour it down.
-
-Shoppers do not explain it. However, that is also a problem for those who do not know Tamil. This is because the Sinhalese and English are only written in the language.
-
-When the smooth yoga, the smooth Kadadasi pot is spoonful, the slippery pour down.
-
-...
-
-[Data](articles/9c23e692.json)
-
-[Extended Data](ext_articles/9c23e692.ext.json)
-
----
-
-### Tamil
-
-*2024-05-30 15:33:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடதாசி-கரண்டியை-மடிக்க-தடுமாறும்-தமிழர்/175-338159) · `ta`
-
-In Sri Lanka, a ban on single-use plastics has led to the promotion of biodegradable alternatives like bamboo spoons. These eco-friendly options, however, pose challenges due to lack of awareness among non-Tamil speakers about proper disposal methods. The issue highlights the importance of multilingual instructions to ensure environmental responsibility across all communities, reflecting Sri Lanka's constitutional commitment to language equality.
-
-🟩
-
-Welcome to the ban on plastic products used for only one time. A number of alternative arrangements have been made for that.
-
-The stoop, the time, the kadasi kapam, the kadasasi cup, the kadasi plate, the products are in circulation in the market in many forms. When buying a yoga, most stores are provided with a katadasi spoon.
-
-The use of this gutter spoon is welcome, which can be torn down and fertilizes to the soil that is harmful to the environment.
-
-However, there is no pit in the spoon of the bar, but the buyer must fold both sides and make it like a pit. Many people who do not know this, do not wrap the Kadadasi Randy, but also pour the yoga into the clothes and pour it down.
-
-Shoppers do not explain it. However, that is also a problem for those who do not know Tamil. This is because there are only both Sinhalese and English as folding here.
-
-When the smooth yoga, the smooth Kadadasi shell, the slippery spoon, the slippery.
-
-...
-
-[Data](articles/c6a82a82.json)
-
-[Extended Data](ext_articles/c6a82a82.ext.json)
-
----
-
-### Tamil
-
-*2024-05-30 15:33:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடதாசி-கரண்டியை-மடிக்க-தடுமாறும்-தமிழர்/175-338158) · `ta`
-
-In Sri Lanka, a ban on single-use plastics has led to the promotion of biodegradable alternatives like bamboo spoons. These eco-friendly options are widely available in markets. However, confusion arises among non-Tamil speakers about how to properly dispose of these items, as instructions are primarily in Tamil and Sinhalese. This highlights a gap in ensuring language inclusivity, particularly for constitutional language rights, where all official communications should ideally be accessible in all national languages, including Tamil.
-
-🟩
-
-Welcome to the ban on plastic products used for only one time. A number of alternative arrangements have been made for that.
-
-The stoop, the time, the kadasi kapam, the kadasasi cup, the kadasi plate, the products are in circulation in the market in many forms. When buying a yoga, most stores are provided with a katadasi spoon.
-
-The use of this gutter spoon is welcome, which can be torn down and fertilizes to the soil that is harmful to the environment.
-
-However, there is no pit in the spoon of the bar, but the buyer must fold both sides and make it like a pit. Many people who do not know this, do not wrap the Kadadasi Randy, but also pour the yoga into the clothes and pour it down.
-
-Shoppers do not explain it. However, that is also a problem for those who do not know Tamil. This is because there are only both Sinhalese and English as folding here.
-
-When the smooth yoga, the smooth Kadadasi shell, the slippery spoon, the slippery.
-
-...
-
-[Data](articles/3216707a.json)
-
-[Extended Data](ext_articles/3216707a.ext.json)
-
----
-
-### US to boycott UN tribute to Iran leader killed in helicopter crash
-
-*2024-05-30 15:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/US-to-boycott-UN-tribute-to-Iran-leader-killed-in-helicopter-crash/108-283714) · `en`
-
-UNITED NATIONS, May 29 (Reuters) - The United States will boycott a United Nations tribute on Thursday to Iranian President Ebrahim Raisi, who was killed earlier this month in a helicopter crash, a U.S. official said.
-
-The 193-member U.N. General Assembly traditionally meets to pay tribute to any world leader who was a sitting head of state at the time of their death. The tribute will feature speeches about Raisi.
-
-"We won't attend this event in any capacity," a U.S. official, speaking on condition of anonymity, told Reuters. The U.S. boycott has not previously been reported.
-
-Iran's mission to the United Nations in New York declined to comment.
-
-Raisi, a hardliner who had been seen as a potential successor to Supreme Leader Ayatollah Ali Khamenei, was killed when his helicopter came down in poor weather in mountains near the Azerbaijan border on May 19.
-
-...
-
-[Data](articles/19a738df.json)
-
-[Extended Data](ext_articles/19a738df.ext.json)
-
----
-
-### Do you use the power to recover the flower of the flower?-The Blessed Chancellor
-
-*2024-05-30 15:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/184879) · `ta`
-
-A controversy erupted when Sri Lanka's TS. I Company featured a Tamil symbol in its product, sparking accusations of cultural appropriation and political bias. Activists argue this reflects the country's chauvinistic politics towards Tamils. The incident, including the use of the symbol at a school event and concerns over potential legal action, highlights deeper issues of ethnic tension and political manipulation. Calls for unity among Tamil nationalists and a focus on electoral strategies are emerging as responses to these incidents.
-
-🟩
-
-"It is openly rooted to the politics of the Tamils ​​by uniting the flower of the flower," said Sathivale, a social justice activist and a national organization for the release of political prisoners.
-
-Sri Lanka's leading footwear company TS. The I Company has recently posted a flower in one of its products marketed. It shows how much of Sri Lanka's chauvinist political bourgeoisie occupies and is publicly caught by one of the political identities of the Tamils ​​to trample the politics of the Tamils ​​by trampling and trampling the flower.. This is strongly condemned and the Tamil -conscious patriots must reveal the appropriate lesson.
-
-When the floral decoration was used at a school home game in Jaffna Tellippalai. Similarly, will the police investigate many people as the planning design of the footwear company?Do you use the authority to recover the footwear for sale in the market?We ask the police.
-
-...
-
-[Data](articles/615d24f8.json)
-
-[Extended Data](ext_articles/615d24f8.ext.json)
-
----
-
-### Sri Lanka needs energy transition law so private sector can come in: President
-
-*2024-05-30 15:18:00* · [`economynextcom`](https://economynext.com/sri-lanka-needs-energy-transition-law-so-private-sector-can-come-in-president-165449/) · `en`
-
-ECONOMYNEXT – Sri Lanka is considering energy transition legislation, similar to that in South Australia, to open up power generation and power distribution to the private sector, President Ranil Wickremesinghe said.
-
-“It may be useful for us to have energy transition legislation. One is we are going to a new sector. We are opening it up, not merely for power generation but for power distribution. We will have the private sector playing the lead role. So it is going to be private-sector-driven,” Wickremesinghe told an energy discussion held with the World Bank.
-
-World Bank Country Director for Sri Lanka, Faris H Hadad-Zervos, said it was important to enhance institutional capacity and regulatory frameworks for renewable energy procurement to attract private sector investments.
-
-...
-
-[Data](articles/8d9aecc5.json)
-
-[Extended Data](ext_articles/8d9aecc5.ext.json)
-
----
-
-### Person killed by jet engine at Amsterdam airport
-
-*2024-05-30 15:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/99540/person-killed-by-jet-engine-at-amsterdam-airport) · `en`
-
-A person has been killed after ending up in the running jet engine of a KLM passenger plane at Amsterdam’s Schiphol airport.
-
-The death happened as the KL1341 flight was getting ready to fly to Billund, Denmark, on Wednesday afternoon.
-
-The airline said it was taking care of passengers and employees who witnessed the incident and it was investigating.
-
-Netherland’s military police also said it had started an investigation.
-
-Royal Netherlands Marechaussee force added in a post on X that all passengers and employees had been removed from the flight.
-
-The deceased has not yet been identified and it is too early to say whether it was an accident or a form of suicide, a spokesperson told Reuters new agency.
-
-Various Dutch media outlets have suggested the victim could be an employee involved in pushing back an aeroplane before it takes off.
-
-Pictures obtained by Dutch national broadcaster NOS show emergency services surrounding the passenger jet on the airport’s apron - where aircraft are parked.
-
-...
-
-[Data](articles/7ca4f2b9.json)
-
-[Extended Data](ext_articles/7ca4f2b9.ext.json)
-
----
-
-### Students in Jaffna
-
-*2024-05-30 15:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/184874) · `ta`
-
-The Northern Provincial Ministry of Education banned itself, leading to the arrest of a teacher who was then charged at the Mallakam Magistrate's Court based on a Manipay police complaint. The investigation into the incident involves the Ministry's Secretary and the accused teacher.
-
-🟩
-
-The Northern Provincial Ministry of Education has been banned by the Northern Provincial Ministry of Education.
-
-The police arrested the teacher and tried to the Mallakam Magistrate's Court on the basis of a complaint at the Manipay police station at the Manipay police station.
-
-In this case, the investigation into the incident has been sent to the Secretary of the Ministry of Education and has been sent to the accused teacher.
-
-◼️
-
-[Data](articles/91bea93f.json)
-
-[Extended Data](ext_articles/91bea93f.ext.json)
-
----
-
-### ’’Name the powerful Western country’’
-
-*2024-05-30 15:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Name-the-powerful-Western-country/110-283712) · `en`
-
-Russian Ambassador in Sri Lanka Levan Dzhagaryan slammed a "powerful western country" for its comments, published in an article on today's edition of the Daily Mirror, regarding Sri Lankans who were part of his country's war against Ukraine. The Ambassador questioned why Sri Lankans fighting for Russia was being made an issue, but no similar comments were being made about Sri Lankans fighting for Ukraine. Pix by Pradeep Pathirana
-
-◼️
-
-[Data](articles/54c61a66.json)
-
-[Extended Data](ext_articles/54c61a66.ext.json)
-
----
-
-### Airport worker dies after opening aircraft
-
-*2024-05-30 15:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197183) · `si`
-
-A tragic accident occurred at a Dutch airport where a KLM ground staff member was fatally injured while handling an aircraft. The incident happened as the plane was preparing for a flight to Denmark. The victim has not been identified yet. All passengers were safely evacuated from the plane.
-
-🟩
-
-A farmer employee has died in a terrifying accident at a airport in the Netherlands.
-
-The unfortunate death has taken place when the klm's engine is attracted to an airplane engine.
-
-It further states that he has not yet been identified.
-
-This unfortunate accident had occurred when the plane was ready to fly to Denmak from the Netherlands.
-
-However, foreign media reports that the foreign media has been reported in the accident, since the quotation of Amsterdam Schiphol facts.
-
-Also, all the passengers in the aircraft have been taken out of the aircraft with the terrible accident.
-
-◼️
-
-[Data](articles/902bb9f0.json)
-
-[Extended Data](ext_articles/902bb9f0.ext.json)
 
 ---

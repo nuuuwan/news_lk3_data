@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-31 10:52:51**
+As of **2024-05-31 11:05:16**
 
 ## Newspaper Stats
 
-*Scraped **27,476** Articles*
+*Scraped **27,479** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,62 @@ newsfirstlk | 363
 islandlk | 1,488
 economynextcom | 1,568
 dailyftlk | 1,612
-adalk | 2,344
+adalk | 2,345
 adaderanalk | 3,128
 tamilmirrorlk | 3,223
 virakesarilk | 4,236
-dailymirrorlk | 4,345
-adaderanasinhalalk | 4,386
+dailymirrorlk | 4,346
+adaderanasinhalalk | 4,387
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,473 (100.0%) of 27,476 articles have been extended.
+27,476 (100.0%) of 27,479 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-31 (Friday)
+
+### Daily consumption of eggs has increased by one million
+
+*2024-05-31 10:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Daily-consumption-of-eggs-has-increased-by-one-million/108-283791) · `en`
+
+Colombo, May 31 (Daily Mirror) - The daily consumption of eggs in the country has increased by one million compared to the last few months, the Animal Production and Health Department (DAPH) reported.
+
+They said during the last few months, the daily consumption of eggs was recorded at seven million, and later, the consumption had exceeded eight million. Accordingly, the daily consumption has increased by one million.
+
+The rise in foreign tourists and the increase in meat, fish and egg prices, which are highly nutritious and affordable foods, were cited as the reasons for the boost in consumption.
+
+Officials of the DAPH said the above points were discussed at a meeting with Agriculture and Plantation Industries Minister Mahinda Amaraweera.
+
+However, the Minister instructed the Agriculture Ministry Livestock Division to conduct a survey on the consumption of eggs, milk and meat since a proper information survey has not been done for a long time.
+
+◼️
+
+[Data](articles/ce2917b0.json)
+
+---
+
+### මේක කැරට් අලයක් - වාහන ආනයනකරුවන් කියයි
+
+*2024-05-31 10:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197205) · `si`
+
+වාහන ආනයනය සඳහා ඉඩ ලබාදෙන බවට රජය නිතර පවසන දේ සම්බන්ධයෙන් සැකයක් මතුවෙන බව ශ්‍රී ලංකා වාහන ආනයනකරුවන්ගේ සංගමය පවසයි.
+
+ඔහු පෙන්වා දෙන්නේ කෙසේවෙතත් වාහන ආනයනයට ඉඩ ලබාදුන් පසු මිල ගණන් ඉහළ යෑමේ ප්‍රවණතාවයක් ද ඇති බවය.
+
+"අවුරුදු 4 පුරා අපි බලන් ඉන්නවා වාහන ආනයනය සම්බන්ධව. ළඟදීම ගේන්න දෙනවා කියලා කියනවා. නමුත් දිනයක් කාලයක් කියන්නේ නෑ. ක්‍රමානුකූලව ලිහිල් කරන්න පුළුවන් කියලා මහ බැංකු අධිපති කිව්වා.ලංකාවේ වාහන එකලස් කිරීම කරනවා. නමුත් තවමත් අපනයනයක් කරලා නැහැ. අපි වාහන ආනයනය කළාම 200% ක් පමණ රජය බදු ගහනවා."
+
+"අපි රාජ්‍ය ඇමති රංජිත් සියඹලාපිටිය මහතා සමග සාකච්ඡා කළා. ඔහු කිව්වේ මුලින් බස්, ලොරි වගේ වාහනවලට ඉඩ දීලා ඒක ආර්ථිකයට බාලපාන අයුරු බලලා පස්සේ ත්‍රීවිල්, යතුරුපැදි සඳහා ලිහිල් කරන්නේ කියලා. ඊට පස්සේ තමයි කාර්, වෑන්වලට අවස්ථාව ලැබෙන්නේ."
+
+"මේ වාහන ගේන්න අවසර දෙනවා කියන එක විදියක කැරට් අලයක් කියලා අපිට සැකයක් මතුවෙලා තියෙනවා. මේක පෙන්වා සූදානම් වෙන්නේ මැති ඇමතිවරුන්ට අවශ්‍ය වාහන ටික ගෙන්වා දෙන්න. මොකද මැතිඇමතිවරු ඉල්ලීම් කරලා තියෙනවා කථානායකට ඒ අයට වාහන ලබාදෙන්න කියලා."
+
+...
+
+[Data](articles/b96b2158.json)
+
+---
 
 ### UNICEF and National Youth Services Council join forces to promote ‘Youth-Led Climate Action’ in Sri Lanka
 
@@ -46,31 +86,45 @@ The signing, today of the agreement by Mr. Christian Skoog, UNICEF Representativ
 
 [Data](articles/b917b952.json)
 
+[Extended Data](ext_articles/b917b952.ext.json)
+
 ---
 
-### ஆயுதங்களை போலந்து வழியாக உக்ரேனுக்கு அனுப்பியதை மறுக்கும் இலங்கை
+### Sri Lanka refuses to send weapons to Ukraine via Polish
 
 *2024-05-31 10:24:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆயுதங்களை-போலந்து-வழியாக-உக்ரேனுக்கு-அனுப்பியதை-மறுக்கும்-இலங்கை/175-338193) · `ta`
 
-இலங்கையில் மேலதிகமாகவுள்ள ஆயுதங்களை உக்ரேனுக்கு மாற்றுவதற்கு இடைத்தரகராக போலந்து பயன்படுத்தபடுவதான அண்மைய ஊடக அறிக்கைகளை இலங்கையின் பாதுகாப்பமைச்சு மறுத்துள்ளது.
+Sri Lanka denies sending weapons to Ukraine through Poland, contradicting media reports.
+
+🟩
+
+Sri Lanka's Defense Ministry has denied recent media reports that Polish is being used as an intermediary to transfer more weapons in Sri Lanka to Ukraine.
 
 ◼️
 
 [Data](articles/0364e778.json)
 
+[Extended Data](ext_articles/0364e778.ext.json)
+
 ---
 
-### A/L பெறுபேறுகள் இன்று வெளியாகும்
+### A/L results will be released today
 
 *2024-05-31 10:03:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/A-L-பெறுபேறுகள்-இன்று-வெளியாகும்/175-338192) · `ta`
 
-2023ஆம் ஆண்டிற்கான கல்விப் பொதுத் தராதர உயர்தரப் பரீட்சைப் பெறுபேறுகள் இன்று வெளியிடப்படும் என கல்வி அமைச்சர் சுசில் பிரேமஜயந்த தெரிவித்துள்ளார்.
+The Minister of Education announced that the 2023 GCE A/L exam results will be released today, marking the conclusion of exams taken in January.
 
-கல்விப் பொதுத் தராதர உயர்தரப் பரீட்சை கடந்த ஜனவரி மாதம் இடம்பெற்றிருந்தது. R
+🟩
+
+Minister of Education Susil Premajayantha said that the results of the GCE A / L examination for 2023 will be released today.
+
+The GCE Advanced Level Examination was held last January. Remble
 
 ◼️
 
 [Data](articles/0c195e77.json)
+
+[Extended Data](ext_articles/0c195e77.ext.json)
 
 ---
 
@@ -203,6 +257,28 @@ The operation was organized by the Criminal Investigation Department from the CI
 [Data](articles/f9fd2af4.json)
 
 [Extended Data](ext_articles/f9fd2af4.ext.json)
+
+---
+
+### මිදිගම රුවන් ලංකාවට රැගෙන එයි
+
+*2024-05-31 09:28:24* · [`adalk`](https://www.ada.lk/picture_story/මිදිගම-රුවන්-ලංකාවට-රැගෙන-එයි/10-409937) · `si`
+
+සංවිධානාත්මක අපරාධ කල්ලි නායකයෙකු මෙන්ම ජාත්‍යන්තර මත්ද්‍රව්‍ය ජාලයට සම්බන්ධ ජාවාරම්කරුවෙකු වන 31 හැවිරිදි ජයසේකර විතානගේ රුවන් චාමර නොහොත් මිදිගම රුවන් නැමැත්තා , කොළඹ ත්‍රස්තවාදී විමර්ශන ඒකකයේ නිලධාරීන් පිරිසක් විසින් ඩුබායි සිට අත් අඩංගුවට ගෙන 05/31 දින අලුයම කටුනායක ගුවන් තොටුපොළ වෙත රැගෙන විත් තිබුණි .
+
+මිදිගම රුවන් දැනට අත් අඩංගුවේ පසුවන හරක් කටා නැමැති සංවිධානාත්මක අපරාධ කල්ලි නායකයාගේ මස්සිනා බවට කරුණු අනාවරණය කර ගෙන තිබේ .
+
+මොහු මීට මාස දෙකකට පමණ පෙර ඩුබායි හි සමාජ ශාලාවක ඇති කර ගත් ගැටුමකදී එරට ආරක්ෂක අංශ මගින් අත් අඩංගුවට ගෙන තිබේ .
+
+මිදිගම රුවන් ජාත්‍යන්තර ඉන්ටර්පෝල් පොලිසියේ රතු නිවේදන ලැයිස්තුවේ සදහන් අපරාධකරුවෙකි .
+
+කොළඹ ත්‍රස්තවාදී විමර්ශන කොට්ඨාසයේ පොලිස් අධිකාරීවරයෙකු යටතේ විශේෂ පොලිස් නිලධාරීන් පිරිසක් ඉකුත් 05/28 දින  ඩුබායි වෙත ගොස් මිදිගම රුවන් එරට ආරක්ෂක අංශ මගින් භාර ගෙන මෙසේ කටුනායක ගුවන් තොටුපොළ වෙත රැගෙන විත් තිබුණි .
+
+ඔවුන් 05/31 දින අලුයම 05.45 ට ඩුබායි සිට ශ්‍රී ලන්කන් ගුවන් සේවයේ යූ.එල්.- 226 දරන ගුවන් යානයෙන් කටුනායක ගුවන් තොටුපොළ වෙත රැගෙන පැමිණ තිබුණි .
+
+...
+
+[Data](articles/e488b825.json)
 
 ---
 
@@ -2089,79 +2165,5 @@ Based on those complaints, the agency is believed to have cheated a total sum of
 [Data](articles/469c9a8d.json)
 
 [Extended Data](ext_articles/469c9a8d.ext.json)
-
----
-
-### The Ministry of Defense must get permission to go to Russia - Tharha Balasuriya
-
-*2024-05-30 18:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/184902) · `ta`
-
-Due to a temporary suspension, Sri Lankans require defense ministry approval to visit Russia. 455 are in crisis, unaware they might be sent to battlefields. The government is negotiating with Russia to bring back the injured and ensure no one is forced into combat.
-
-🟩
-
-It has been decided to temporarily suspend the Sri Lankans going through a tourist visa to Russia. If Sri Lankans, especially men go to Russia, have to obtain permission from the Ministry of Defense. Diplomatic measures have been taken to bring 37 Sri Lankans who have been injured in the Russian battlefield for the first time.
-
-He made this statement during a media briefing held at the Ministry of Foreign Affairs on Thursday 30th.
-
-455 Sri Lankans who have gone to Russia through the Visit Visa System are unfortunately in crisis. They have gone to Russia and have gone to Russia.
-
-President Ranil Wickremesinghe has paid special attention to this.
-
-Opposition parties have accused the government of not taking appropriate action to bring the country in Russia to the country.
-
-The report that the government has decided to get the cooperation of former Russia Ambassador Udayanga Weeratunga is false. No decisions have been made regarding Udayanga Weeratunga.
-
-...
-
-[Data](articles/2ff54f2b.json)
-
-[Extended Data](ext_articles/2ff54f2b.ext.json)
-
----
-
-### $ 1 billion investment goal is completed
-
-*2024-05-30 18:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197189) · `si`
-
-Sri Lanka's Board of Investment secured $1 billion in investments for 2024, including $820 million from Parliament members and $320 million from other contracts.
-
-🟩
-
-The Board of Investment of Sri Lanka has met US $ 1 billion to invest in the year 2024 this year, State Minister Dilum Amunugama.
-
-He was speaking at a discussion with the Board of Investment (BOI) with investment engaged investors.
-
-Speaking further the public minister said that the Minister of Parliament has an investment of $ 820 million and another 320 million others have already contracted by the Board of Investment.
-
-◼️
-
-[Data](articles/a57b97b8.json)
-
-[Extended Data](ext_articles/a57b97b8.ext.json)
-
----
-
-### Family member complaints about Sri Lankans in warfront rise to 455
-
-*2024-05-30 18:00:00* · [`economynextcom`](https://economynext.com/diplomats-to-meet-russia-defense-officials-amid-complaints-about-455-sri-lankans-in-warfront-165479/) · `en`
-
-ECONOMYNEXT – Authorities have received complaints on about 455 Sri Lankans who are in the Russia-Ukraine war front from family members, State Minister of Foreign Affairs Tharaka Balasuriya said.
-
-“Sri Lanka is working closely with the Government of Russia to repatriate Sri Lankans who are in the front lines. We are optimistic that we will be able to resolve this matter swiftly with close cooperation between both governments.”
-
-The first meeting with Sri Lanka diplomats and Russian officials is to be held today.
-
-“Today in Moscow, there will be a meeting in the Defence Ministry, between the diplomatic mission and defence attaché, with high-ranking military officials,” Russia’s ambassador to Colombo Levan Dzhagaryan said in Colombo in a joint press conference with the state minister.
-
-“That would be the first step, in the continuous efforts to settle the situation.”
-
-Sri Lanka was also planning to send a delegation to meet Russian defense officials.
-
-...
-
-[Data](articles/de8f91f6.json)
-
-[Extended Data](ext_articles/de8f91f6.ext.json)
 
 ---

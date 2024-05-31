@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-31 15:52:44**
+As of **2024-05-31 16:04:39**
 
 ## Newspaper Stats
 
-*Scraped **27,531** Articles*
+*Scraped **27,535** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,87 @@ islandlk | 1,488
 economynextcom | 1,572
 dailyftlk | 1,612
 adalk | 2,350
-adaderanalk | 3,132
+adaderanalk | 3,134
 tamilmirrorlk | 3,228
 virakesarilk | 4,244
 dailymirrorlk | 4,360
-adaderanasinhalalk | 4,394
+adaderanasinhalalk | 4,396
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,527 (100.0%) of 27,531 articles have been extended.
+27,531 (100.0%) of 27,535 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-31 (Friday)
+
+### TikTok අමෙරිකානු මෙහෙයුම් වෙන් කරයි ද?
+
+*2024-05-31 15:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197215) · `si`
+
+ලෝකයේ ජනප්‍රියතම සමාජ මාධ්‍ය වේදිකා 05ට අයත්වන අමෙරිකානු නොවන එකම සමාජ මාධ්‍යය වන්නේ චීන බයිට්ඩාන්ස් සමාගමේ ටික්ටොක්, කෙටි වීඩියෝ හුවමාරු යෙදුමය.
+
+එහෙත් අමෙරිකානුවන් මිලියන 170ක් පමණ අද වනවිට ටික්ටොක් සමාජ මාධ්‍යය භාවිත කරමින් සිටී.
+
+ටික්ටොක් යෙදුමේ චීන හිමිකාරීත්වය නිසා අමෙරිකානු ග්‍රාහකයන්ගේ දත්ත අවදානමට ලක්වන බවට ට්‍රම්ප් පරිපාලනයේ වගේම ජෝ බයිඩන් පරිපාලනයේත් අදහස වී තිබේ.
+
+එබැවින් ටික්ටොක් අමෙරිකානු මෙහෙයුම් අමෙරිකානු සමාගමකට විකුණා දමන ලෙසත් නැතහොත් ටික්ටොක් අමෙරිකාවේ තහනම් කරන බවටත් බයිඩන් පරිපාලනය පසුගියදා නීතියක් ද සම්මත කරගෙන තිබුණි.
+
+එහෙත් අමෙරිකාවේ තහනම් කෙරුණත් ටික්ටොක් විකුණා දැමිය නොහැකි බව බයිට්ඩාන්ස් සමාගම ප්‍රකාශ කළේ යැයි පසුගිය කාලයේදී වාර්තා විය.
+
+එහෙත් ජාත්‍යන්තර මාධ්‍ය අද අනාවරණය කළේ, චීන ටික්ටොක් සමාජ මාධ්‍ය යෙදුමේ මෘදුකාංග සැකැස්ම නැත්නම් 'ඇල්ගොරිදම් එක' අමෙරිකාවේ ටික්ටොක් මෙහෙයුමෙන් වෙන් කරන්න බයිට්ඩාන්ස් සමාගම කටයුතු කරමින් සිටින බවය.
+
+එනම් ටික්ටොක් වීඩියෝ හුවමාරු යෙදුමේ අමෙරිකාවට අදාළ ක්ලෝන පිටපතක් සකස් කිරීමට බයිට්ඩාන්ස් සමාගම කටයුතු කරන බවය.
+
+...
+
+[Data](articles/5b888a86.json)
+
+---
+
+### විදෙස් තරුණියගේ ගමන් මල්ල සොරාගත් පුද්ගලයා රිමාන්ඩ්
+
+*2024-05-31 15:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197214) · `si`
+
+පස්සර බස් රථයේදී බ්‍රිතාන්‍ය ජාතික තරුණියකගේ ගමන් මල්ලක් හා මුදල් සොරකම් කිරීමේ සිද්ධිය සම්බන්ධයෙන් අත්අඩංගුවට ගත් සැකකරු ලබන 07 වනදා දක්වා රක්ෂිත බන්ධනාගාර ගත කරන ලෙස කොළඹ මහෙස්ත්‍රාත් අධිකරණය නියම කර තිබේ.
+
+පිටකොටුව පොලීසිය විසින් අදාළ සැකකරු කොළඹ අතිරේක මහෙස්ත්‍රාත් පසන් අමරසේන මහතා හමුවට පමුණුවනු ලැබීය.
+
+සැකකරු විසින් සොරා ගත් බව කියන පැමිණිකාරයට අයත් ලැප්ටොප් පරිගණකය, කැමරාව, බැංකු කාඩ්පත් සහ ඇයගේ විදේශ ගමන් බලපත්‍රය ඇතුළු ද්‍රව්‍ය යෙන්ම පොලිසිය විසින් අධිකරණයට ඉදිරිපත් කර තිබුණා.
+
+සිද්ධියට අදාළ විමර්ශන තවදුරටත් සිදුකරන බවට පොලීසිය විසින් ඉදිරිපත් කළ කරුණු සලකා බැලූ අතිරේක මහෙස්ත්‍රාත්වරයා අනතුරුව සැකකරු ලබන 07 වනදා දක්වා රක්ෂිත බන්ධනාගාර ගත කිරීමට නියෝග කළේය.
+
+මෙම සිද්ධිය සම්බන්ධයෙන් අදාළ බස් රථයේ සවි කර තිබූ ආරක්ෂිත කැමරා ඔස්සේ සිදුකළ විමර්ශනයකින් අනතුරුව මෙම සැකකරු පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබිණි.
+
+අදාළ තරුණිය ඇල්ල බලා පිටත්වයාම සඳහා පිටකොටුව බැස්ටියන් බස් නැවතුම්පොලේ බස් රථයට ගොඩවී සිටින අවස්ථාවේ මෙම සොරකම සිදුවී ඇති බවත් පොලීසිය අධිකරණයට වාර්තා කර තිබිණි.
+
+◼️
+
+[Data](articles/31a81919.json)
+
+---
+
+### Colombo consumer price inflation drops to 0.9% in May
+
+*2024-05-31 15:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/99564/colombo-consumer-price-inflation-drops-to-09-in-may) · `en`
+
+The overall rate of inflation as measured by the Colombo Consumer Price Index (CCPI) on year-on-year (y-o-y) basis decreased to 0.9% in May 2024, the Department of Census & Statistics (DCS) says.
+
+Last month, the CCPI-based inflation was calculated at 1.5%, according to the latest figures published by the DCS.
+
+On a year-on-year basis, the inflation of food group dropped to 0.0% in May 2024 from 2.9% in April 2024 while the inflation of the non-food group climbed to 1.3% in May from 0.9% in April 2024.
+
+The contributions to the inflation rate of May 2024 from the food group and non-food group were   -0.37% and -0.20%, respectively.
+
+Meanwhile, CCPI Core in May 2024 has decreased to 177.0 from 177.3 in April 2024, while the general price level has increased by 94.1% compared to the index reference (2021).
+
+◼️
+
+[Data](articles/7a461c12.json)
+
+---
 
 ### Maldivian Foreign Minister to visit Sri Lanka next week
 
@@ -48,31 +114,43 @@ Foreign Minister Zameer will be accompanied by senior officials of the Ministry 
 
 [Data](articles/fa880263.json)
 
+[Extended Data](ext_articles/fa880263.ext.json)
+
 ---
 
-### වතු කම්කරු වැටුප් වැඩි කිරීමට එරෙහි පෙත්සමට අධිකරණයෙන් නියෝගයක්
+### Court orders petition against the increase in estate workers' salaries
 
 *2024-05-31 15:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197212) · `si`
 
-වතු කම්කරුවන් සඳහා අවම දෛනික වැටුපක් නියම කරමින් කම්කරු අමාත්‍යවරයා විසින් නිකුත් කර තිබෙන ගැසට් නිවේදනයක් බලරහිත කිරීමේ රිට් ආඥාවක් නිකුත් කරන ලෙස ඉල්ලා වැවිලි සමාගම් විසින් ගොනුකර තිබෙන පෙත්සම පිළිබඳ වැඩිදුර කරුණු සලකා බැලීම ලබන සඳුදා තෙක් කල් තැබීමට අභියාචනාධිකරණය අද (31) නියෝග කළා.
+The Court of Appeal has temporarily halted a government plan to raise plantation workers' wages, pending further review. The petition, led by Agarapatha Plantation Limited and 21 other companies, argues that the decision was made without proper consultation, violating principles of fairness. The case will be considered further on Monday.
 
-සෝභිත රාජකරුණා සහ ධම්මික ගනේපොල යන මහත්වරුන්ගෙන් සමන්විත අභියාචනාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ පෙත්සම අද කැඳවනු ලැබීය.
+🟩
 
-එහිදී පෙත්සම්කාර පාර්ශ්වය වෙනුවෙන් ජනාධිපති නීතිඥ රොමේෂ් ද සිල්වා මහතා කරුණු ඉදිරිපත් කළේය.
+The Court of Appeal today (31) ordered to postpone a gazette notification issued by the Labor Labor Laboon's gazette notification to issue a minimum daily wage for plantation workers.
 
-ඉන් අනතුරුව වැඩිදුර කරුණු සලකා බැලීම ලබන සඳුදා තෙක් කල් තැබිණි.
+The petition was called before the Judge of the Court of Appeal with Sobhitha Rajakuna and Dhammika Ganepola.
 
-ආගරපතන වැවිලි සමාගම ඇතුළු වැවිලි සමාගම් 21ක් විසින් මෙම පෙත්සම ඉදිරිපත් කර තිබිණි.
+President's Counsel Romesh de Silva made the petitioner for the petitioner party.
 
-එහි වග උත්තරකරුවන් ලෙස කම්කරු ඇමති මනුෂ නානායක්කාර, කම්කරු කොමසාරිස්වරයා ඇතුළු 52ක් නම් කර තිබේ.
+Further, further considerations were postponed until Monday, Monday.
 
-මෙම පෙත්සම අද සෝභිත රාජකරණ සහ ධම්මික ගනේපොළ යන මහත්වරුන් ගෙන් සමන්විත අභියාචනාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ කැඳවනු ලැබීය.
+The petition was presented by the Agarapatha Plantation Limited and 21 plantation companies.
 
-එහිදී විනිසුරු මඩුල්ල නියෝග කළේ මෙම පෙත්සමට අදාළ කරුණු තහවුරු කිරීම් මේ මස 31 වන දා සිදුකරන ලෙසය.
+Labor Minister Manusha Nanayakkara, the Commissioner of Labor and Labor have been named as respondents.
+
+The petition was called before the Court of Appeal with the summit of the petition today.
+
+The panel of judges was ordered to be established on the petition on the 31st of this month.
+
+The petitioned plantation companies proclaimed that 1,350 and Rs. 300 and another Rs.
+
+The petitioners said that politicians had expressed their views on the recent May Day rallies.
 
 ...
 
 [Data](articles/412166c6.json)
+
+[Extended Data](ext_articles/412166c6.ext.json)
 
 ---
 
@@ -163,6 +241,28 @@ Further investigations are being carried out by the Children's and Women Bureau 
 [Data](articles/5ff7fc98.json)
 
 [Extended Data](ext_articles/5ff7fc98.ext.json)
+
+---
+
+### ‘Ground-breaking’ cancer vaccine trial announced
+
+*2024-05-31 14:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/99562/ground-breaking-cancer-vaccine-trial-announced) · `en`
+
+Thousands of patients will be able to access “ground-breaking” cancer vaccines, as part of an NHS trial.
+
+A “match-making” service called the Cancer Vaccine Launch Pad (CVLP), which can match patients with suitable trials, is set to be launched.
+
+The Southampton Clinical Trials Unit (SCTU), based at the University of Southampton, has been chosen to run the project.
+
+The new NHS England programme aims to accelerate research into personalised cancer vaccines.
+
+It is a type of immunotherapy treatment that boosts the body’s own immune system to help it find and destroy cancer.
+
+SCTU clinical director, prof Simon Crabb said the new scheme would “bring together different academic and industry partners who are developing cancer vaccines and allow patients across England to access trials of treatments that may not have previously been an option for them”.
+
+...
+
+[Data](articles/545bac36.json)
 
 ---
 
@@ -608,6 +708,8 @@ The National Authority on Tobacco and Alcohol has directed the hotel to comply w
 
 [Data](articles/fef19020.json)
 
+[Extended Data](ext_articles/fef19020.ext.json)
+
 ---
 
 ### Railway Station between Maradana - Fort Railway Stations
@@ -855,8 +957,6 @@ They were of the opinion that social violence and cultural breakdown will occur 
 *2024-05-31 10:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Daily-consumption-of-eggs-has-increased-by-one-million/108-283791) · `en`
 
 Colombo, May 31 (Daily Mirror) - The daily consumption of eggs in the country has increased by one million compared to the last few months, the Animal Production and Health Department (DAPH) reported.
-
-They said during the last few months, the daily consumption of eggs was recorded at seven million, and later, the consumption had exceeded eight million. Accordingly, the daily consumption has increased by one million.
 
 The rise in foreign tourists and the increase in meat, fish and egg prices, which are highly nutritious and affordable foods, were cited as the reasons for the boost in consumption.
 
@@ -1580,6 +1680,8 @@ Colonel Herath clarified that “these stocks do not belong to the Ministry of D
 
 [Data](articles/2c75e7ee.json)
 
+[Extended Data](ext_articles/2c75e7ee.ext.json)
+
 ---
 
 ### SL refutes reports of move to sell surplus ammunition to Ukraine via Poland
@@ -2081,89 +2183,5 @@ As at the end of the fiscal year, the Company reported a portfolio of Rs. 250 bi
 [Data](articles/9f4c2bf0.json)
 
 [Extended Data](ext_articles/9f4c2bf0.ext.json)
-
----
-
-### Durdans Hospital elevates healthcare connectivity with Dialog Enterprise’s SDWAN Solution
-
-*2024-05-31 04:45:00* · [`islandlk`](http://island.lk/durdans-hospital-elevates-healthcare-connectivity-with-dialog-enterprises-sdwan-solution/) · `en`
-
-Durdans Hospital, a pioneering institution in Sri Lanka’s healthcare landscape, has forged a strategic alliance with Dialog Enterprise, the corporate ICT solutions arm of Dialog Axiata PLC., to introduce a cutting-edge Software Defined Wide Area Network (SDWAN) solution. This collaboration marks a significant leap forward in revolutionizing healthcare connectivity and operational efficiency.
-
-...
-
-[Data](articles/ca7b2bb1.json)
-
-[Extended Data](ext_articles/ca7b2bb1.ext.json)
-
----
-
-### Two workers targeted for wasp in Vavuniya hospital
-
-*2024-05-31 03:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/184917) · `ta`
-
-Two workers from the Department of Agriculture in Vavuniya were stung by wasps while cleaning a public hotel. They were admitted to the Vavuniya Hospital's emergency department. The victims are identified as V. Nagendran (52) and Goneswaran (46). Police are investigating the incident.
-
-🟩
-
-Two workers who have cleaned up the state hotel of the Vavuniya Deputy Provincial Director of Agriculture have been admitted to the Vavuniya Hospital.
-
-Two workers of the Department have been sent to clean up their public hotel, Vavuniya Deputy Provincial Director.
-
-The two workers were admitted to the Emergency Department of the Vavuniya Hospital when the two workers were cleaning the hotel.
-
-Department workers V. Nagendran (age 52) and Goneswaran (46) have been admitted to the hospital.. Vavuniya police are conducting further investigations.
-
-◼️
-
-[Data](articles/992c5594.json)
-
-[Extended Data](ext_articles/992c5594.ext.json)
-
----
-
-### Opposition parties seek to derail Economic Transformation Bill, risking return to economic crisis – State Minister for Finance
-
-*2024-05-31 03:49:00* · [`islandlk`](http://island.lk/opposition-parties-seek-to-derail-economic-transformation-bill-risking-return-to-economic-crisis-state-minister-for-finance/) · `en`
-
-State Minister for Finance, Shehan Semasinghe stated that only those wishing to plunge the country back into an economic crisis would oppose the Economic Transformation Bill.
-
-He emphasized that while the current government is focused on an optimistic economic outlook, the opposition groups are driven solely by political motives.
-
-State Minister Semasinghe made these remarks during a press conference at the Presidential Media Centre on Thursday (30), themed ‘Collective path to a stable country’.
-
-The Economic Transformation Bill aims to increase productivity and ensure equal opportunities for all citizens of Sri Lanka, while also enhancing infrastructure. It is expected to generate job opportunities, foster economic growth, and expand the competitive market through innovative exports.
-
-...
-
-[Data](articles/a0da283c.json)
-
-[Extended Data](ext_articles/a0da283c.ext.json)
-
----
-
-### Security has been enhanced to ahead of the T20 World Cup
-
-*2024-05-31 03:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/184916) · `ta`
-
-Security for the T20 World Cup has been heightened amid threats, particularly around the India-Pakistan match. The New York Governor announced increased security measures, including collaboration with local authorities and enhanced surveillance. Despite initial concerns, no credible threats were identified, ensuring the safety of attendees.
-
-🟩
-
-The security for the T20 World Cup has been shocked following reports that there was a threat during the World Cup.
-
-The Governor of the New York Governor said the US would increase the security of the T20 Cricket World Cup in June.
-
-“My team is working with Samadhi and Local Security Officers to consider the life safety of the audience as part of the arrangements for the World Cup competition.. There is no credible threat at the moment, ”Governor Kathi Hochul said.
-
-ABC Neuz has issued a news report that the World Cup and its associated events in New York City can take advantage of the opportunity to engage in violence or cause disturbance.
-
-“During the World Cup, especially the India-Pakistan match, the information released in favor of ISIS is concerned.. As a result, the need to strengthen security surveillance measures has been emphasized, ”the news further stated.
-
-...
-
-[Data](articles/8b18c56e.json)
-
-[Extended Data](ext_articles/8b18c56e.ext.json)
 
 ---

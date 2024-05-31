@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-31 17:54:44**
+As of **2024-05-31 18:12:25**
 
 ## Newspaper Stats
 
-*Scraped **27,552** Articles*
+*Scraped **27,553** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,488
 economynextcom | 1,575
 dailyftlk | 1,612
-adalk | 2,352
+adalk | 2,353
 adaderanalk | 3,137
 tamilmirrorlk | 3,231
 virakesarilk | 4,244
@@ -26,29 +26,37 @@ adaderanasinhalalk | 4,399
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,547 (100.0%) of 27,552 articles have been extended.
+27,552 (100.0%) of 27,553 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-31 (Friday)
 
-### කුරුණෑගල හොර විදේශ රැකියා ඒජන්සියක් වටලයි
+### Work on Kurunegala Foreign Employment Agency
 
 *2024-05-31 17:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197218) · `si`
 
-කුරුණෑගල නගරයේ නීතිවිරෝධි අයුරින් විදේශ රැකියා නියෝජිතායතනයක් පවත්වාගෙන ගිය හිමිකරුවෙක්ව ශ්‍රී ලංකා විදේශ සේවා නියුක්ති කාර්යාංශය විසින් අද (31)  අත්අඩංගුවට ගෙන තිබේ.
+The Sri Lanka Bureau of Foreign Employment (SLBFE) arrested officials from the Kurunegala Foreign Employment Agency, accused of illegal operations. The agency, located on Suretississa Mawatha, MMB, Kurunegala, allegedly recruited workers for Saudi Arabia, Oman, Kuwait, and other Middle Eastern countries. Authorities seized 110 passports and employment applications during the arrest. The suspects were presented in court. SLBFE advises checking www.slbfe.gov.lk or calling 1989 for verification of job agencies.
 
-කුරුණෑගල, සූරතිස්ස මාවතේ එම්.එම්.බී නමින් මෙම නීතිවිරෝධි විදේශ රැකියා ආයතනය පවත්වාගෙන ගොස් ඇත.
+🟩
 
-මෙහිදී සෞදි අරාබිය, ඕමාන්, කුවේට් ඇතුළු මැදපෙරදිග රටවල් සඳහා බඳවාගැනීම් සිදුකරන බවට පවසා ඇති බව අනාවරණය වී තිබේ.
+The Sri Lanka Bureau of Foreign Employment (SLBFE) has been arrested by the Sri Lanka Bureau of Foreign Employment today.
 
-එම ස්ථානයේ තිබී විදේශ ගමන් බලපත්‍ර 110ක්, රැකියා අයදුම්පත්‍ර ඇතුළු ලේඛන රැසක් ද නිලධාරීන් භාරයට ගෙන ඇත.
+The illegal employment institute has been operated by MMB, Kurunegala, Suretississa Mawatha.
 
-අත්අඩංගුවට ගත් සැකකරු අද කුරුණෑගල මහෙස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කර තිබේ.
+It has been revealed that the recruitment of Saudi Arabia, Oman, Kuwait and the Middle East countries.
 
-...
+Officers have been taken into custody, including 110 passports and employment applications.
+
+The suspect was produced before the Kurunegala Magistrate's Court today.
+
+WWW.SLBFE to find out if a company or a person has a valid job agency to recruit a foreign employment or a valid job agency to get a foreign employment for foreign employment.The Bureau urges foreign employment seekers to obtain information by visiting the LK website or the 1989 instant call number.
+
+◼️
 
 [Data](articles/0895e3c9.json)
+
+[Extended Data](ext_articles/0895e3c9.ext.json)
 
 ---
 
@@ -74,19 +82,25 @@ Maldives Minister of State for Foreign Affairs Sheryna Abdul Samad, Additional S
 
 ---
 
-### உயிரிழந்த யானையில் உடலால் துர்நாற்றம்
+### The body of the dead elephant
 
 *2024-05-31 17:05:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/உயிரிழந்த-யானையில்-உடலால்-துர்நாற்றம்/72-338202) · `ta`
 
-கடந்த 25ம் திகதி சனிக்கிழமை ரயில் மோதி உயிரிழந்த யானையின் உடலால் துர்நாற்றம் வீசுவதாக தெரிவிக்கப்படுகின்றது.
+A dead elephant and its calf were found on Saturday, the 25th. Their bodies have not been properly disposed of, causing a health hazard due to the smell.
 
-யாழில் இருந்து வவுனியா நோக்கி பயணித்த ரயில் மோதி தாய் யானையும் குட்டியும் கடந்த 25ம் திகதி சனிக்கிழமை பலியாகியிருந்தது.
+🟩
 
-உயிரிழந்த குறித்த யானைகள் முறையாக அப்புறப்படுத்தப்படாமையால் அப்பகுதியில் துர்நாற்றம் வீசுவதுடன், சுகாதார பாதிப்புகள் ஏற்படுகின்றமை குறிப்பிடத்தக்கது. R
+It is reported that the body of an elephant who died on Saturday, the 25th of this month.
+
+The mother elephant and cub were killed on Saturday, the 25th of this month.
+
+It is noteworthy that the elephants of the dead are not properly disposed of and the stench in the area is causing health problems.. Remble
 
 ◼️
 
 [Data](articles/d894b1c7.json)
+
+[Extended Data](ext_articles/d894b1c7.ext.json)
 
 ---
 
@@ -105,6 +119,8 @@ The police also seized 500g of Ice, 50 gms of Heroin, 500 gms of Ganja, about 2,
 ◼️
 
 [Data](articles/ba9b6300.json)
+
+[Extended Data](ext_articles/ba9b6300.ext.json)
 
 ---
 
@@ -132,6 +148,20 @@ This is stated by the latest report issued by the Department of Census and Stati
 
 ---
 
+### උපෙළ ප්‍රති‍ඵල නිකුත් කරයි
+
+*2024-05-31 16:31:54* · [`adalk`](https://www.ada.lk/breaking_news/උපෙළ-ප්‍රති‍ඵල-නිකුත්-කරයි/11-409944) · `si`
+
+අපොස ‍උසස් පෙළ 2023 (2024) විභාගයේ ප්‍රතිඵල විභාග දෙපාර්තමේන්තුව විසින් මේ වන විට නිකුත් කර තිබේ.
+
+https://www.doenets.lk/examresults යන සබඳිය ‍ඔස්සේ එම ප්‍රතිඵල ලබා ගැන‍‍ිමට අවස්ථාව තිබේ.
+
+◼️
+
+[Data](articles/22792aa0.json)
+
+---
+
 ### Court moved against gazetted minimum daily wage of plantation workers
 
 *2024-05-31 16:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/99565/court-moved-against-gazetted-minimum-daily-wage-of-plantation-workers) · `en`
@@ -152,29 +182,41 @@ The petitioning plantation companies point out that the Minister of Labor has is
 
 ---
 
-### க.பொ.த உயர்தரப் பெறுபேறுகள் வெளியாகின
+### GCE Advanced Level Grades
 
 *2024-05-31 16:26:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/க-பொ-த-உயர்தரப்-பெறுபேறுகள்-வெளியாகின/175-338201) · `ta`
 
-இவ்வாண்டு நடைபெற்ற 2023ஆம் ஆண்டு கல்விப் பொதுத் தராதர உயர்தரப் பரீட்சைப் பெறுபேறுகள் சற்று முன்னர் வெளியாகின.
+The 2023 GCE Advanced Level Examination results have been announced.
+
+🟩
+
+The results of the GCE Advanced Level Examination of the 2023 Education Center were released shortly before this year.
 
 ◼️
 
 [Data](articles/bd6abf5b.json)
 
+[Extended Data](ext_articles/bd6abf5b.ext.json)
+
 ---
 
-### 190 பரீட்சார்த்திகளின் பெறுபேறுகள் நிறுத்தப்பட்டுள்ளன
+### The results of 190 examiners have been stopped
 
 *2024-05-31 16:24:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/190-பரீட்சார்த்திகளின்-பெறுபேறுகள்-நிறுத்தப்பட்டுள்ளன/175-338200) · `ta`
 
-கல்வி பொதுத் தராதர உயர்தர பெறுபேறுகளில் 190. பரீட்சார்த்திகளின் பெறுபேறுகள் நிறுத்தப்பட்டுள்ளன என பரீட்சைகள் திணைக்களம் அறிவித்துள்ளது..
+The Department of Examinations has halted the results of 190 examiners from the 2023 Academic GCE Advanced Level Examination. Out of 269,613 examiners (229,057 school and 40,556 individual), 64.33% achieved high-quality education standards.
 
-229,057 பாடசாலைப் பரீட்சார்த்திகளும், 40,556 தனிப்பட்ட பரீட்சார்த்திகளுமாக மொத்தமாக 269,613 பரீட்சார்த்திகள் 2023ஆம் ஆண்டு கல்விப் பொதுத் தராதர உயர்தரப் பரீட்சையில் தோற்றியிருந்த நிலையில், 151,343 பாடசாலைப் பரீட்சார்த்திகளும், 22,101 தனிப்பட்ட பரீட்சார்த்திகளுமாக 173,444 பரீட்சார்த்திகள் பல்கலைக்கழக அனுமதிக்கு தகைமையுடையவர்களாகக் காணப்படுகின்றனர். அந்தவகையில் இம்முறை 64.33 சதவீதமானோர் பல்கலைக்கழக அனுமதிக்கு தகமையானவர்களாகக் காணப்படுகின்றனர்.
+🟩
+
+190 in high -quality results of education. The Department of Examinations has announced that the results of the examiners have been stopped.
+
+A total of 269,613 examiners, 229,057 school examiners and 40,556 individual examiners appeared in the 2023 Academic GCE Advanced Level Examination.. This time, 64.33 percent of the university admissions are found.
 
 ◼️
 
 [Data](articles/6d9d10b7.json)
+
+[Extended Data](ext_articles/6d9d10b7.ext.json)
 
 ---
 
@@ -2223,33 +2265,5 @@ Election Commission’s Chairman R. M. A. L. Ratnayake confirmed that the EU del
 [Data](articles/4be1dc6d.json)
 
 [Extended Data](ext_articles/4be1dc6d.ext.json)
-
----
-
-### Donald Trump convicted 34 times in first for ex-US president
-
-*2024-05-31 06:06:00* · [`economynextcom`](https://economynext.com/donald-trump-convicted-34-times-in-first-for-ex-us-president-165515/) · `en`
-
-ECONOMYNEXT – Former US President Donald Trump has been convicted by the jury for falsifying business records in a case linked to paying off a former porn star.
-
-Trump is expected to be sentenced on July 11 but Trumps lawyers are also expected to appeal the decision.
-
-Trump slammed the judge as ‘corrupt’ and claimed he was a ‘very innocent man’ after the jury delivered the verdict.
-
-The trial should have been held in a different location where there were more Republicans instead of the New York, where he did not win, he said.
-
-However many Trump businesses had been based for years in New York.
-
-Reporters in the courtroom said the jury was widely expected to go home for the day for further deliberations and those present were ‘stunned’ by the verdict that came at the end of the day.
-
-Trump’s fund-raising website crashed in what the Republican activists said was a rush by his supporters to donate.
-
-Trump is also facing trials for inciting a ‘riot’ in Washington. (Colombo/May31/2024)
-
-◼️
-
-[Data](articles/33670805.json)
-
-[Extended Data](ext_articles/33670805.ext.json)
 
 ---

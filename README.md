@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-31 21:18:55**
+As of **2024-05-31 21:34:17**
 
 ## Newspaper Stats
 
-*Scraped **27,589** Articles*
+*Scraped **27,591** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 363
 islandlk | 1,488
 economynextcom | 1,575
 dailyftlk | 1,612
-adalk | 2,358
-adaderanalk | 3,141
+adalk | 2,359
+adaderanalk | 3,142
 tamilmirrorlk | 3,234
 virakesarilk | 4,260
 dailymirrorlk | 4,367
@@ -26,11 +26,45 @@ adaderanasinhalalk | 4,403
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,589 (100.0%) of 27,589 articles have been extended.
+27,589 (100.0%) of 27,591 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-31 (Friday)
+
+### Fuel prices revised
+
+*2024-05-31 21:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/99571/fuel-prices-revised) · `en`
+
+The Ceylon Petroleum Corporation (Ceypetco) has revised its fuel prices with effect from midnight today (May 31).
+
+◼️
+
+[Data](articles/f392809a.json)
+
+---
+
+### උපෙළ වාණිජ අංශයේ ලංකාවෙන්ම විශිෂ්‍‍ඨයා පානදුර බාලිකාවේ ශෙහාරා
+
+*2024-05-31 20:47:41* · [`adalk`](https://www.ada.lk/breaking_news/උපෙළ-වාණිජ-අංශයේ-ලංකාවෙන්ම-විශිෂ්‍‍ඨයා-පානදුර-බාලිකාවේ-ශෙහාරා/11-409947) · `si`
+
+පානදුර  බාලිකා විද්‍යාලයේ ශෙහාරා සිතුමිණි පුංචිහේවා සිසුවිය වාණිජ අංශයෙන් ලංකාවේ පළමු ස්ථානය ලබාගෙන තිබේ.
+
+ජයනාත් පුංචි හේවා සහ අනූෂා විකුම්සිරි යන දෙපලගේ දැරියන් තිදෙනෙකුගෙන් යුත් පවුලේ ශෙහාරා දෙවනියා බව සදහන් වේ.
+
+බෙන්තර, ඉඳුරුව ගෝනගල ප්‍රදේශයේ පදිංචි ශෙහාරා ගේ වැඩිමහල් දියණියද විද්‍යා අංශයෙන් අපොස උසස් පෙළ හදාරා මේ වනවිට වයඹ විශ්ව විද්‍යාලයේ දෙවන වසරේ සිසුවියකි.
+
+කළුතර ශුද්ධ වූ පවුලේ කන්‍යාරාමයෙන් මූලික අධ්‍යාපනය හැදෑරූ ශෙහාරා 5 වසර ශිෂ්‍යත්ව විභාගයෙන් ඉහළින් සමත්ව, අපොස සාමාන්‍ය පෙළ විභාගයෙන් ඒ සාමාර්ථ 9 ක් ලබාගෙන පානදුර බාලිකා විද්‍යාලයට ඇතුළු වී තිබේ.
+
+මව්පියන් දෙදෙනා ව්‍යාපාරික කටයුතු වල නියැලෙන අතර , බාල දියණියද කළුතර ශුද්ධ වූ පවු‍ලේ කන්‍යාරාමයේ 11 වසරේ ඉගෙනුම ලබයි.
+
+ශෙහාරාගේ දක්ෂතාවය පිළිබඳව අදහස් දැක්වූ ඇයගේ මව වන අනූෂා විකුම්සිරි මහත්මිය මෙසේ පැවසුවාය. "දුව පාසලෙන් එදිනෙදා දෙන වැඩ එදිනෙදාම අවසන් කලා. අමතර පන්ති වලටත් සහභාගි වුණා, ඇය ඉහළ සාමාර්ථයක් ලබා ගනීවි කියලා විශ්වාසය තිබුණත් ලංකාවෙන් පළවෙනියා වේවි කියා හිතුවේ නැහැ ."
+
+◼️
+
+[Data](articles/8fc10575.json)
+
+---
 
 ### Departments held by Deleales with heated
 
@@ -2243,47 +2277,5 @@ Sri Lanka's Defense Ministry has denied recent media reports that Polish is bein
 [Data](articles/0364e778.json)
 
 [Extended Data](ext_articles/0364e778.ext.json)
-
----
-
-### A/L results will be released today
-
-*2024-05-31 10:03:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/A-L-பெறுபேறுகள்-இன்று-வெளியாகும்/175-338192) · `ta`
-
-The Minister of Education announced that the 2023 GCE A/L exam results will be released today, marking the conclusion of exams taken in January.
-
-🟩
-
-Minister of Education Susil Premajayantha said that the results of the GCE A / L examination for 2023 will be released today.
-
-The GCE Advanced Level Examination was held last January. Remble
-
-◼️
-
-[Data](articles/0c195e77.json)
-
-[Extended Data](ext_articles/0c195e77.ext.json)
-
----
-
-### What Trump’s conviction means for the election
-
-*2024-05-31 09:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/What-Trumps-conviction-means-for-the-election/107-283787) · `en`
-
-New York, May 31 (BBC) - Former United States President Donald Trump has been found guilty in a historic criminal hush-money trial, in a decision that could shake up the 2024 election campaign.
-
-He’s the first former or serving US president to be found guilty of a crime. He’s the first presumptive major-party nominee to become a convicted felon as well.
-
-While Trump plans his appeal in the hush-money case, and awaits a sentence on 11 July that could in theory include prison time and a hefty fine, it’s not too early to consider the political fallout.
-
-That will be difficult, however, given this has never happened before.
-
-“We often look to history to find some kind of hint of what’s going to happen,” says Jeffrey Engel, director of the Center for Presidential History at Southern Methodist University. “But there is nothing in the record that comes even close to this.”
-
-...
-
-[Data](articles/d331cdbc.json)
-
-[Extended Data](ext_articles/d331cdbc.ext.json)
 
 ---

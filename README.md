@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-31 22:06:33**
+As of **2024-05-31 22:18:42**
 
 ## Newspaper Stats
 
@@ -26,31 +26,41 @@ adaderanasinhalalk | 4,405
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,595 (100.0%) of 27,598 articles have been extended.
+27,598 (100.0%) of 27,598 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-31 (Friday)
 
-### ට්‍රම්ප් වරදකරු වූ හැටි
+### How Trump was convicted
 
 *2024-05-31 21:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197224) · `si`
 
-ව්‍යාජ ව්‍යාපාර ලේඛන සකස් කළ බවට හිටපු අමෙරිකානු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප්ට එරෙහිව එල්ලවූ අපරාධ චෝදනා 34ටම ඔහු වරදකරු බව නිව්යෝර්ක් අධිකරණය තීන්දු කර තිබේ.
+The New York Court convicted former President Donald Trump on 34 criminal charges related to a $130,000 payment made during the 2016 presidential election, which was deemed illegal due to falsified business records. This marks a historic moment as Trump becomes the first U.S. president found guilty of criminal charges post-presidency. The verdict was reached unanimously by a jury of 12, setting a precedent for future elections. The sentencing, expected before the 2024 Republican primary, could result in a maximum of four years imprisonment or a fine.
 
-තමන් සමග පැවති සබඳතාවක් රහසිගතව තබාගන්නා ලෙස නිල් චිත්‍රපට නිළි ස්ටෝමි ඩැනියල්ට 2016 ජනාධිපතිවරණයට පෙර හිටපු ජනපති ඩොනල්ඩ් ට්‍රම්ප් ඩොලර් 130,000ක මුදලක් ගෙවීම ඔහුට එල්ලවූ චෝදනාවයි.
+🟩
 
-එලෙස මුදල් ලබාදීම නීතියෙන් වරදක් නොවුවත් එය ව්‍යාපාරික ගනුදෙනුවක් ලෙස හුවා දක්වමින් ව්‍යාජ ව්‍යාපාර ලේඛන සැකසීම අමරිකානු නීතියට අනුව මැතිවරණ නීති උල්ලංඝනය කිරීමකි.
+The New York Court has decided that he was guilty of 34 criminal charges against former American President Donald Trump.
 
-ඊට අදාළ අපරාධ චෝදනා 34ටම නිව්යෝර්ක් අධිකරණයේදී සති 7ක කාලයක් පැවති නඩු විභාගයෙන් පසු හිටපු ජනපති ට්‍රම්ප් වරදකරු ලෙස තීන්දු කෙරුණි.
+Blue Film Active Stem Daniel to pay a relationship with the 2016 presidential election
 
-ඒ සාක්ෂිකරුවන් විසි දෙදෙනෙකුගෙන් සාක්ෂි විමසා ජූරි සභිකයින් 12 දෙනෙකු ඒකමතිකව ගත් තීරණයට අනුවය.
+The provision of such cash is nothing wrong with law, but the preparing forged business documents is a violation of election laws according to the somari law.
 
-ඒ සමග අපරාධ චෝදනාවකට වරදකරුවූ පළමු අමෙරිකානු ජනාධිපතිවරයා ලෙස මෙන්ම මැතිවරණ කාලවකවානුවකදී අපරාධයකට වරදකරුවෙකු වූ පළමු ප්‍රධාන ජනාධිපති අපේක්ෂකයා ලෙස ට්‍රම්ප් ඉතිහාසයට එක් වේ.
+Former President Trump has decided to be guilty of the former President after the three-week trial in the New York court.
 
-...
+According to the unanimous decision, according to the decision of 12 jury.
+
+The trump is one of the first major presidential candidate who is the first US President who is found guilty of criminal charges as a criminal US president.
+
+The punishment is to be announced 4 days before the official Republican Party candidate of the 2024 presidential election on July 11.
+
+The maximum punishment for the maximum of four years in such a case, the former President Trum can only a fine.
+
+◼️
 
 [Data](articles/2bcec82e.json)
+
+[Extended Data](ext_articles/2bcec82e.ext.json)
 
 ---
 
@@ -74,27 +84,33 @@ Further, the price of Kerosene has been lowered by Rs. 13, setting the new rate 
 
 ---
 
-### උසස් පෙළ විශිෂ්‍ඨයන් මෙන්න
+### Here are the A / L excellence
 
 *2024-05-31 21:14:09* · [`adalk`](https://www.ada.lk/breaking_news/උසස්-පෙළ-විශිෂ්‍ඨයන්-මෙන්න/11-409948) · `si`
 
-උසස් පෙළ විභාග ප්‍රතිඵලවලට අදාළව එක් එක් විෂය ධාරාවන් අනුව දිවයිනේ ප්‍රථම ස්ථාන ලබාගත් සිසුන් ප්‍රකාශයට පත් කර තිබේ.
+Top students from across Sri Lanka excelled in various subjects in the A/L exams. Notable achievements include Lenora Lenora of Sanmammitta Balika Vidyalaya, Galle, for her performance in Mathematics; Chirath Wijesinghe from the University of Ananda College, Colombo, for Arts; Shane Navodya from Ginigathena Central College, Colombo, for Engineering Technology; Punchihewa from Panadura Girls' Maha Vidyalaya for Commerce; and Ceria from Eheliyagoda Central College for Biology Technology.
 
-ජෛව විද්‍යා අංශයේ ප්‍රථම ස්ථානය -  ගාල්ල සංඝමිත්තා බාලිකා විද්‍යාලයේ පහන්මා උපනි ලෙනෝරා
+🟩
 
-ගණිත අංශයෙන් පළමු ස්ථානය  - කොළඹ ආනන්ද විද්‍යාලයේ ඩව්. ඒ. චිරාත් නිරෝධ
+Students who obtained the first places in the island have been published according to each subject strength of the A / L examination results.
 
-කලා අංශයෙන් ප්‍රථම ස්ථානය - ගාල්ල රිච්මන්ඩ් විද්‍යාලයේ ටසුන් රිත්මික විතානගේ
+Lights in Sanmemamitta Balika Vidyalaya, Galle - Lenora Lenora
 
-ඉංජිනේරු තාක්ෂණවේදය විෂය ධාරාවේ ප්‍රථම ස්ථානය - ගිනිගත්හේන මධ්‍ය මහා විද්‍යාලයේ ශෙහානි නවෝද්‍යා මුල්විලගේ
+First Place of Mathematics - University of Ananda College, Colombo. it. Chirath wipe
 
-වාණිජ විෂය ධාරාවේ පළමු ස්ථානය  - පානදුර බාලිකා මහා විද්‍යාලයේ ශෙහාරා සිතුමිණි පුංචිහේවා
+Prior to the Arts Department Tasun at Richmond College, Galle Restains
 
-ජෛව පද්ධති තාක්ෂණවේදය ප්‍රථම ස්ථානය  - ඇහැළියගොඩ මධ්‍ය මහා විද්‍යාලයේ කිරුලු සිහිල්දිය පල්ලියගුරු
+Engineering Technology Stream is the first place - Ginigathena Central College, Shane Navodya, Colombo
+
+First Place of commercial currency - Panadura Girls Maha Vidyalaya Punchihewa
+
+Biology Technology Technology First Place - Eheliyagoda Central College Ceremony
 
 ◼️
 
 [Data](articles/3c073206.json)
+
+[Extended Data](ext_articles/3c073206.ext.json)
 
 ---
 
@@ -116,27 +132,33 @@ Meanwhile, the prices of Petrol 95 Octane and Super diesel will remain unchanged
 
 ---
 
-### ඉන්ධන මිල වෙනස් වෙයි
+### Fuel prices vary
 
 *2024-05-31 21:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197223) · `si`
 
-අද (31) මධ්‍යම රාත්‍රියේ සිට ක්‍රියාත්මක වන පරිදි සිපෙට්කෝ ඉන්ධන මිල ගණන් සංශෝධනය කර තිබේ.
+Fuel prices adjusted midnight 31st; three types cheaper, two remain same: Octane 92 down 13 to 355, Octane 95 stays 420, white diesel drops 16 to 317, SL Super Diesel unchanged at 377, kerosene falls 13 to 202.
 
-මෙම සංශෝධන යටතේ ඉන්ධන වර්ග තුනක මිල ගණන් අඩුවී ඇති අතර, දෙකක මිල ගණන් නොවෙනස්ව පවතී.
+🟩
 
-ඒ අනුව ඔක්ටේන් 92 පෙට්‍රල් ලීටරයක මිල රුපියල් 13කින් පහළ දමා ඇති අතර එහි නව මිල රුපියල් 355කි.
+Sipette fuel prices have been amended from midnight today (31).
 
-ඔක්ටේන් 95 පෙට්‍රල් ලීටරයක මිල නොවෙනස්ව පවතින අතර, එහි මිල රුපියල් 420කි.
+Under these amendments, the prices of three types of fuel have been reduced, and two are unchanged.
 
-සුදු ඩීසල් ලීටරයක මිල රුපියල් 16කින් පහළ ගොස් ඇති අතර එහි නව මිල රුපියල් 317කි.
+Accordingly, the price of a liter of octan 92 petrol has been reduced by 13 rupees and its price is Rs. 355.
 
-එමෙන්ම ලංකා සුපර් ඩීසල් ලීටරයක මිල නොවෙනස්ව පවතින අතර එහි මිල රුපියල් 377කි.
+The price of an Octane 95 petrol is unchanged, and its price is Rs. 420.
 
-භූමිතෙල් මිල රුපියල් 13කින් පහළ දමා ඇති අතර එහි නව මිල රුපියල් 202ක් වෙයි.
+The price of a liter of white diesel has fallen by Rs.16 rupees and its new price is Rs. 317.
+
+Also, the price of a liter of Sri Lanka Super Diesel is unchanged, and its price is Rs. 377.
+
+The price of kerosene has been reduced by 13 rupees and its price is Rs. 202.
 
 ◼️
 
 [Data](articles/4a29dec1.json)
+
+[Extended Data](ext_articles/4a29dec1.ext.json)
 
 ---
 

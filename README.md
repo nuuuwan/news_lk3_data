@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-31 21:34:17**
+As of **2024-05-31 21:53:21**
 
 ## Newspaper Stats
 
-*Scraped **27,591** Articles*
+*Scraped **27,595** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,36 @@ adalk | 2,359
 adaderanalk | 3,142
 tamilmirrorlk | 3,234
 virakesarilk | 4,260
-dailymirrorlk | 4,367
+dailymirrorlk | 4,371
 adaderanasinhalalk | 4,403
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,589 (100.0%) of 27,591 articles have been extended.
+27,591 (100.0%) of 27,595 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-31 (Friday)
+
+### CPC announces fuel price revisions
+
+*2024-05-31 21:18:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/CPC-announces-fuel-price-revisions/108-283823) · `en`
+
+Colombo, May 31 (Daily Mirror) - The Ceylon Petroleum Corporation (CPC) announced a revision of fuel prices, which will take effect from midnight today.
+
+Under the new pricing scheme, the cost of Petrol 92 Octane has been reduced by Rs. 13, bringing the price down to Rs. 355 per litre. The price of Petrol 95 Octane remains unchanged at Rs. 420 per litre.
+
+In the diesel category, Auto Diesel sees a reduction of Rs. 16, now priced at Rs. 317 per litre. The price for Super Diesel remains steady at Rs. 377 per litre.
+
+Further, the price of Kerosene has been lowered by Rs. 13, setting the new rate at Rs. 202 per litre.
+
+◼️
+
+[Data](articles/847a8ab1.json)
+
+---
 
 ### Fuel prices revised
 
@@ -38,31 +56,83 @@ Extensions include translations and NER (Named Entity Recognition).
 
 The Ceylon Petroleum Corporation (Ceypetco) has revised its fuel prices with effect from midnight today (May 31).
 
+Accordingly, the price of Petrol Octane 92 will be reduced by Rs. 13 to Rs. 355 per litre while Auto Diesel is to be reduced by Rs. 16 to Rs. 317 per litre. Kerosene has been reduced by Rs. 13 to Rs. 202.
+
+Meanwhile, the prices of Petrol 95 Octane and Super diesel will remain unchanged, according to the Ceypetco.
+
 ◼️
 
 [Data](articles/f392809a.json)
 
+[Extended Data](ext_articles/f392809a.ext.json)
+
 ---
 
-### උපෙළ වාණිජ අංශයේ ලංකාවෙන්ම විශිෂ්‍‍ඨයා පානදුර බාලිකාවේ ශෙහාරා
+### Contempt of court application against Diana fixed for support
+
+*2024-05-31 20:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Contempt-of-court-application-against-Diana-fixed-for-support/108-283822) · `en`
+
+Colombo, May 31 (Daily Mirror) -  A contempt of court application filed against former State Minister Diana Gamage was today fixed for support on June 26 by the Supreme Court.
+
+An application filed before the Supreme Court alleged that Diana Gamage has committed the offence of contempt of court through her statements at a media conference held on May 9 this year.
+
+The Supreme Court today directed the petitioner to serve notices on Diana Gamage and fixed the matter for support on June 26.
+
+Former Chairman of the Weligama Urban Council, Rehan Jayawickrema filed this application alleging that Diana Gamage had made a statement with the intent of bringing the authority of the Supreme Court to disrespect as provided in Section 3(1) (a) of the Contempt of a Court, Tribunal or Institution Act No: 8 of 2024.
+
+...
+
+[Data](articles/c0419665.json)
+
+---
+
+### Supermarcors in Sri Lanka
 
 *2024-05-31 20:47:41* · [`adalk`](https://www.ada.lk/breaking_news/උපෙළ-වාණිජ-අංශයේ-ලංකාවෙන්ම-විශිෂ්‍‍ඨයා-පානදුර-බාලිකාවේ-ශෙහාරා/11-409947) · `si`
 
-පානදුර  බාලිකා විද්‍යාලයේ ශෙහාරා සිතුමිණි පුංචිහේවා සිසුවිය වාණිජ අංශයෙන් ලංකාවේ පළමු ස්ථානය ලබාගෙන තිබේ.
+Hehara Sadumini Punchihewa, a student from Panadura Balika Vidyalaya, secured the top spot in Sri Lanka's commercial sector. The daughter of Jayanath Punchi Hewa and Anusha Vicuseasiri, she excelled academically, entering the Girls' Vidyalaya after passing the GCE O/L exam. Her siblings attend Benthara, Induruwa, and Holy Family Convent, Kalutara. Despite her parents being entrepreneurs, Hehara dedicated herself to her studies, attending extra classes daily, which contributed to her success.
 
-ජයනාත් පුංචි හේවා සහ අනූෂා විකුම්සිරි යන දෙපලගේ දැරියන් තිදෙනෙකුගෙන් යුත් පවුලේ ශෙහාරා දෙවනියා බව සදහන් වේ.
+🟩
 
-බෙන්තර, ඉඳුරුව ගෝනගල ප්‍රදේශයේ පදිංචි ශෙහාරා ගේ වැඩිමහල් දියණියද විද්‍යා අංශයෙන් අපොස උසස් පෙළ හදාරා මේ වනවිට වයඹ විශ්ව විද්‍යාලයේ දෙවන වසරේ සිසුවියකි.
+Hehara Sadumini Punchihewa has obtained the first place in Sri Lanka from the commercial sector Panadura Balika Vidyalaya.
 
-කළුතර ශුද්ධ වූ පවුලේ කන්‍යාරාමයෙන් මූලික අධ්‍යාපනය හැදෑරූ ශෙහාරා 5 වසර ශිෂ්‍යත්ව විභාගයෙන් ඉහළින් සමත්ව, අපොස සාමාන්‍ය පෙළ විභාගයෙන් ඒ සාමාර්ථ 9 ක් ලබාගෙන පානදුර බාලිකා විද්‍යාලයට ඇතුළු වී තිබේ.
+It is also said that the Seed of the three girls with three girls with three girls of Jayanath Punchi Hewa and Anusha Vicuseasiri.
 
-මව්පියන් දෙදෙනා ව්‍යාපාරික කටයුතු වල නියැලෙන අතර , බාල දියණියද කළුතර ශුද්ධ වූ පවු‍ලේ කන්‍යාරාමයේ 11 වසරේ ඉගෙනුම ලබයි.
+Benthara, Induruwa, is a second year in the North-Western University, a resident of Gunangala area.
 
-ශෙහාරාගේ දක්ෂතාවය පිළිබඳව අදහස් දැක්වූ ඇයගේ මව වන අනූෂා විකුම්සිරි මහත්මිය මෙසේ පැවසුවාය. "දුව පාසලෙන් එදිනෙදා දෙන වැඩ එදිනෙදාම අවසන් කලා. අමතර පන්ති වලටත් සහභාගි වුණා, ඇය ඉහළ සාමාර්ථයක් ලබා ගනීවි කියලා විශ්වාසය තිබුණත් ලංකාවෙන් පළවෙනියා වේවි කියා හිතුවේ නැහැ ."
+He had entered the 5 Scholarship Examination of the Year 5 scholarship examination and entered the Girls' Vidyalaya from the GCE O / L examination.
+
+The two parents are engaged in business, and her younger daughter learns 11 year in the Holy Family Convent, Kalutara.
+
+Commenting on the skill of the Hehara, her mother, Anusha Vicuseasiri, said:. "The daughter ended every morning work on the day. Attended extra classes, she did not think she was first known from Sri Lanka despite the confidence she was confident, but it was confident. "
 
 ◼️
 
 [Data](articles/8fc10575.json)
+
+[Extended Data](ext_articles/8fc10575.ext.json)
+
+---
+
+### Top Island ranks in GCE A/L
+
+*2024-05-31 20:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Top-Island-ranks-in-GCE-AL/110-283821) · `en`
+
+The Examinations Department has announced the top island rankings for various streams.
+
+- Chirath Nirodha of Ananda College, Colombo, who excelled in the Physical Science (Mathematics) stream
+
+- Shehani Navodya of Ginigathhena Central College, who topped the Engineering Technology stream
+
+- Upani Lenora of Sanghamitta Balika Vidyalaya in Galle, who achieved the highest rank in the Science stream
+
+- Thasun Rithmika of Richmond College, Galle, who secured the island first in the Arts stream
+
+- Shehara Sithumini of Panadura Balika Vidyalaya, who achieved the highest rank in the Commerce stream
+
+◼️
+
+[Data](articles/7cfdd11c.json)
 
 ---
 
@@ -1324,6 +1394,18 @@ Our sister paper Daily Lankadeepa won seven awards at Miracle award ceremony hel
 
 ---
 
+### Lankadeepa wins 'best Newspaper of the Year'
+
+*2024-05-31 14:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Lankadeepa-wins-best-Newspaper-of-the-Year/110-283808) · `en`
+
+Our sister paper Daily Lankadeepa won seven awards including 'best Newspaper of the Year' at Miracle award ceremony held at Waters Edge Hotel last night.  Among the individual accolades, Sujith Hewajulige was named Best News Editor and Journalist, Lionel Perera won Best Poet, Niroshan Godellage was awarded Best Provincial News Editor, Dasa Hapuwalana took home Best Cartoonist, and Nimal Jayarathne was recognized as Best Provincial Correspondent. In addition, Daily Lankadeepa received the award for Best Website of the Year.
+
+◼️
+
+[Data](articles/cdd01718.json)
+
+---
+
 ### Rising Sri Lanka egg consumption should not deter exports: minister
 
 *2024-05-31 14:37:00* · [`economynextcom`](https://economynext.com/rising-sri-lanka-egg-consumption-should-not-deter-exports-minister-165585/) · `en`
@@ -2195,87 +2277,5 @@ They were of the opinion that social violence and cultural breakdown will occur 
 [Data](articles/58c31c9f.json)
 
 [Extended Data](ext_articles/58c31c9f.ext.json)
-
----
-
-### Daily consumption of eggs has increased by one million
-
-*2024-05-31 10:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Daily-consumption-of-eggs-has-increased-by-one-million/108-283791) · `en`
-
-Colombo, May 31 (Daily Mirror) - The daily consumption of eggs in the country has increased by one million compared to the last few months, the Animal Production and Health Department (DAPH) reported.
-
-The rise in foreign tourists and the increase in meat, fish and egg prices, which are highly nutritious and affordable foods, were cited as the reasons for the boost in consumption.
-
-Officials of the DAPH said the above points were discussed at a meeting with Agriculture and Plantation Industries Minister Mahinda Amaraweera.
-
-However, the Minister instructed the Agriculture Ministry Livestock Division to conduct a survey on the consumption of eggs, milk and meat since a proper information survey has not been done for a long time.
-
-◼️
-
-[Data](articles/ce2917b0.json)
-
-[Extended Data](ext_articles/ce2917b0.ext.json)
-
----
-
-### This is a carrot potato - Vehicle importers
-
-*2024-05-31 10:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197205) · `si`
-
-Sri Lanka's SLTB expresses skepticism over the government's claims on vehicle imports, noting potential price hikes post-importation due to high taxes. The Central Bank hints at easing export restrictions but no action has been taken yet. Vehicles like buses, lorries, and three-wheelers are prioritized for import, with cars and vans to follow. There's concern over whether this approach will genuinely lower vehicle prices, as market dynamics play a significant role.
-
-🟩
-
-The Association of Sri Lanka (SLTB) says that there is a suspicion regarding what the government often says to import vehicles.
-
-He points to however, however, there is a tendency to increase the prices after allowing vehicles.
-
-"We are waiting for the 4 years. Says that soon bring. But a day doesn't say a day. Central Bank Governor said he could gradually ease.. But still not exporting. When we import vehicles, about 200% of the government taxes. "
-
-"We discussed the Minister of State Minister Ranjith Siyambalapitiya. He said the buses first allows vehicles like lorries, after lorry, and after the economy, three-wheeler, motorbike loose. That is the next time cars, vans get the opportunity. "
-
-"We have doubts that there is a carrot potato that is permitted to bring these vehicles. It is preparing to bring the vehicles you want to and the ministers. Because the representatives have made the requests to give speakers to vehicles. "
-
-...
-
-[Data](articles/b96b2158.json)
-
-[Extended Data](ext_articles/b96b2158.ext.json)
-
----
-
-### UNICEF and National Youth Services Council join forces to promote ‘Youth-Led Climate Action’ in Sri Lanka
-
-*2024-05-31 10:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/99557/unicef-and-national-youth-services-council-join-forces-to-promote-youth-led-climate-action-in-sri-lanka) · `en`
-
-The National Youth Services Council (NYSC) of Sri Lanka has signed a Memorandum of Understanding (MoU) with the UNICEF in order to promote “Youth-Led Climate Action” in Sri Lanka.
-
-The partnership aims to benefit children and youth, especially those from marginalized backgrounds, by increasing critical awareness, making climate knowledge more language inclusive, building essential skills, and fostering collaboration among stakeholders in climate change and environmental conservation, the UNICEF said in a statement.
-
-The signing, today of the agreement by Mr. Christian Skoog, UNICEF Representative in Sri Lanka and Pasindu Guneratne, Chairperson of NYSC, signifies a unified dedication to building a better future for children and youth by empowering them to lead and innovate in responding to the climate change crisis, it added.
-
-...
-
-[Data](articles/b917b952.json)
-
-[Extended Data](ext_articles/b917b952.ext.json)
-
----
-
-### Sri Lanka refuses to send weapons to Ukraine via Polish
-
-*2024-05-31 10:24:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆயுதங்களை-போலந்து-வழியாக-உக்ரேனுக்கு-அனுப்பியதை-மறுக்கும்-இலங்கை/175-338193) · `ta`
-
-Sri Lanka denies sending weapons to Ukraine through Poland, contradicting media reports.
-
-🟩
-
-Sri Lanka's Defense Ministry has denied recent media reports that Polish is being used as an intermediary to transfer more weapons in Sri Lanka to Ukraine.
-
-◼️
-
-[Data](articles/0364e778.json)
-
-[Extended Data](ext_articles/0364e778.ext.json)
 
 ---

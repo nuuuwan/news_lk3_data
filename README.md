@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-01 02:18:56**
+As of **2024-06-01 02:34:04**
 
 ## Newspaper Stats
 
@@ -26,37 +26,51 @@ adaderanasinhalalk | 4,409
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,646 (100.0%) of 27,648 articles have been extended.
+27,648 (100.0%) of 27,648 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-01 (Saturday)
 
-### ஜனாதிபதி இளம் பிரதிநிதிகளுடன் சந்திப்பு; நாட்டின் எதிர்கால பயணத்தில் இளம் தலைமுறையை வலுவான முறையில் ஈடுபடுத்த புதிய பொறிமுறை
+### Meeting with young representatives of the president;New mechanism to strongly engage young generation on the country's future journey
 
 *2024-06-01 02:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/185005) · `ta`
 
-ஜனாதிபதி ரணில் விக்ரமசிங்க மற்றும்  இளம் பிரதிநிதிகளுக்கு இடையிலான சந்திப்பொன்று 30ஆம் திகதி வியாழக்கிழமை ஜனாதிபதியின் உத்தியோகபூர்வ வாசஸ்தலத்தில் நடைபெற்றது.
+President Ranil Wickremesinghe met with young leaders to discuss Sri Lanka's future, emphasizing youth involvement in governance. They discussed economic reforms and how to incorporate youth ideas for the country's development.
 
-ஜனாதிபதி செயலகத்தின் ஏற்பாட்டில் முன்னெடுக்கப்பட்டு வரும் இளையோரின் பங்கேற்புடனான நிகழ்வுகளின் ஒரு அங்கமாக "இளையோர் கலந்துரையாடல் - நாளை இலங்கையின் இளம் தலைவர்கள்" என்ற தொனிப்பொருளின் கீழ் இந்த நிகழ்வு ஏற்பாடு செய்யப்பட்டிருந்தது.
+🟩
 
-அரசாங்கத்தினால் முன்னெடுக்கப்பட்டு வரும் புதிய பொருளாதார மறுசீரமைப்பு மற்றும் சீர்த்திருத்த முயற்சிகள் தொடர்பில் இங்கு கலந்துரையாடப்பட்டது.   இலங்கையின் வெற்றிகரமான எதிர்கால பயணத்திற்கு இளையோரின் பங்களிப்பு மிக முக்கியமானது என்றும் ஜனாதிபதி ரணில் விக்ரமசிங்க இதன்போது வலியுறுத்தினார்.
+A meeting between President Ranil Wickremesinghe and the Young Representatives was held on Thursday 30th at the President's official residence.
+
+The event was organized under the theme "Youth Discussion - Young Heads of Sri Lanka tomorrow" as part of the participation of the youth in the Presidential Secretariat.
+
+Here was a discussion on the new economic restructuring and reform efforts being carried out by the government.President Ranil Wickremesinghe emphasized that the participation of the youth for the successful future journey of Sri Lanka is very important.
+
+The President gave answers to questions raised by the youth and congratulated the youth's efforts to build Sri Lanka future. The President advised the authorities to implement a mechanism to obtain the ideas and recommendations of the youth for the future of the country.
 
 ...
 
 [Data](articles/38e4eec1.json)
 
+[Extended Data](ext_articles/38e4eec1.ext.json)
+
 ---
 
-### பலஸ்தீனம் மீதான இஸ்ரேல் தாக்குதலை நிறுத்தக்கோரி கொழும்பு தெவடகஹா பள்ளிவாசல் முன்பாக கவனயீர்ப்பு போராட்டம்
+### Israeli attack on Palestine
 
 *2024-06-01 01:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/185004) · `ta`
 
-பலஸ்தீனம் மீதான இஸ்ரேல் தாக்குதலை உடன் நிறுத்துமாறு வலியுறுத்தி சிவில் அமைப்பினர் கொழும்பு தெவடகஹா பள்ளிவாசல் முன்பாக கவனயீர்ப்பு போராட்டத்தில் ஈடுபட்டனர்.
+Protesters gathered outside Colombo Thevadakaha School, calling for an end to Israel's assault on Palestine.
+
+🟩
+
+Civil organizations engaged in a protest in front of the Colombo Thevadakaha School, demanding the halt of the Israeli attack on Palestine.
 
 ◼️
 
 [Data](articles/1705bf62.json)
+
+[Extended Data](ext_articles/1705bf62.ext.json)
 
 ---
 

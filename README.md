@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-31 12:52:12**
+As of **2024-05-31 13:03:57**
 
 ## Newspaper Stats
 
-*Scraped **27,496** Articles*
+*Scraped **27,500** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,90 @@ economynextcom | 1,572
 dailyftlk | 1,612
 adalk | 2,346
 adaderanalk | 3,131
-tamilmirrorlk | 3,224
+tamilmirrorlk | 3,227
 virakesarilk | 4,236
 dailymirrorlk | 4,350
-adaderanasinhalalk | 4,388
+adaderanasinhalalk | 4,389
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,494 (100.0%) of 27,496 articles have been extended.
+27,496 (100.0%) of 27,500 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-31 (Friday)
+
+### CCD නිලධාරීන් දෙදෙනෙකුට පෞද්ගලික මුදල්වලින් වන්දි ගෙවන්න වෙයි
+
+*2024-05-31 12:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197207) · `si`
+
+පොලීසිය මූලික මිනිස් අයිතිවාසිකම් උල්ලංඝනය කර ඇතැයි ශ්‍රේෂ්ඨාධිකරණය අද (31) තීන්දු කළේය.
+
+ඒ, 2016 වසරේ රාජගිරිය ප්‍රදේශයේ සිදුවූ මහත් ආන්දෝලනයකට තුඩු දුන් රිය අනතුරු සිද්ධිය සම්බන්ධයෙන් හිටපු අමාත්‍ය පාඨලී චම්පික රණවක මහතාගේ රියදුරු සොයාදෙන ලෙස ඔහුගේ බිරිඳ, අත දරුවා සහ ඇයගේ මව අනීතික ලෙස කොළඹ අපරාධ කොට්ඨාසයට රැගෙන විත් පැය කිහිපයක් කොළඹ අපරාධ කොට්ඨාසයේ රඳවා ගැනීම තුළිනි.
+
+ඒ අනුව අදාළ මූලික අයිතිවාසිකම් කඩ කිරීමට වගකිවයුතු කොළඹ අපරාධ කොට්ඨාසයේ එවක වැඩබලන අධ්‍යක්ෂවරයා ලෙස කටයුතු කළ නෙවිල් සිල්වා සහ එහි ප්‍රධාන පොලිස් පරීක්ෂක ඒ. මෙත්තානන්ද යන නිලධාරීන් සිය පුද්ගලික මුදල් වලින් රුපියල් 25,0000/- බැගින් පෙත්සම්කාරියට වන්දි ගෙවිය යුතු බවත් නියෝග කෙරිණි.
+
+ඊට අමතරව රජය විසින් රුපියල් 10,000ක වන්දියක් ගෙවිය යුතු බවත් නියෝග කෙරුණි.
+
+අර්ජුන ඔබසේකර, මහින්ද සමයවර්ධන යන විනිසුරුවරුන්ගේ එකඟත්වය සහිතව ශ්‍රේෂ්ඨාධිකරණ විනිසුරු එස්. තුරෙයි රාජා මහතා විසින් මෙම තීන්දුව ප්‍රකාශයට පත් කර තිබුණි.
+
+◼️
+
+[Data](articles/525d1c99.json)
+
+---
+
+### அஜித் நிவார்ட் கப்ரால் உட்பட ஐவர் விடுதலை
+
+*2024-05-31 12:47:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அஜித்-நிவார்ட்-கப்ரால்-உட்பட-ஐவர்-விடுதலை/175-338198) · `ta`
+
+இலங்கை மத்திய வங்கியின் முன்னாள் ஆளுநர் அஜித் நிவார்ட் கப்ரால் உட்பட 5 பிரதிவாதிகளை விடுதலை செய்ய கொழும்பு மேல் நீதிமன்றம் உத்தரவிட்டுள்ளது.
+
+2012 ஆம் ஆண்டு கிரேக்கப் பத்திரங்களில்  முதலீடு மூலம், அரசாங்கத்திற்கு 1.84 பில்லியன் ரூபா நட்டம் ஏற்படுத்தியதாக இவர்கள் மீது குற்றம் சுமத்தப்பட்டமை குறிப்பிடத்தக்கது. R
+
+◼️
+
+[Data](articles/247cdd7c.json)
+
+---
+
+### சிறுவனின் உயிரை பறித்த ஹேர் ட்ரையர்
+
+*2024-05-31 12:41:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறுவனின்-உயிரை-பறித்த-ஹேர்-ட்ரையர்/175-338197) · `ta`
+
+புத்தளத்தில் மின்சாரம் தாக்கி, புத்தளம் தள வைத்தியசாலையின் அதி தீவிர சிகிச்சைப் பிரிவில் சிகிச்சை பெற்றுவந்த இளைஞர் ஒருவர் சிகிச்சை பலனின்றி நேற்று (30) உயிரிழந்துள்ளார்.
+
+புத்தளம் , ஐந்தாம் குறுக்குத் தெருவைச் சேர்ந்த துவான் சலீம் முஹம்மது சஹ்ரான் ( வயது 17) எனும் இளைஞனே இவ்வாறு உயிரிழந்துள்ளார் என பொலிஸார் தெரிவித்தனர்.
+
+குறித்த இளைஞன், கடந்த 24 ஆம் திகதி வெள்ளிக்கிழமை தனது வீட்டில் குளித்து விட்டு , முடி உலர்த்தி மூலம் முடியை உலர வைத்த சந்தர்ப்பத்திலேயே மின்சாரம் தாக்கியுள்ளது..
+
+புத்தளம் பகுதிக்குப் பொறுப்பான திடீர் மரண விசாரணை அதிகாரி தேசமான்ய பதுர்தீன் முஹம்மது ஹிசாம், உயிரிழந்த இளைஞனின் ஜனாஸா மீதான மரண விசாரணையை  நடத்தி மின்சாரத் தாக்குதலினால் ஏற்பட்ட மரணம் எனத் தீர்ப்பளித்து ஜனாஸாவை குடும்பத்தினரிடம் ஒப்படைத்தார்.
+
+புத்தளம் சாஹிரா தேசியப் பாடசாலை மாணவரான இவர், கடந்த மாதம் நிறைவடைந்த க.பொ.த. சாதாரண தரப் பரீட்சைக்குத் தோற்றியிருந்தார் என்பது குறிப்பிடத்தக்கது. R
+
+◼️
+
+[Data](articles/90864914.json)
+
+---
+
+### யாழ். மாவட்டத்திற்கு வெளியே கொண்டு செல்ல முடியாது
+
+*2024-05-31 12:37:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/யாழ்-மாவட்டத்திற்கு-வெளியே-கொண்டு-செல்ல-முடியாது/71-338196) · `ta`
+
+உரிய வழிதட அனுமதி இன்றி யாழ். மாவட்டத்தில் இருந்து வெளி மாவட்டங்களுக்கு சுண்ணாம்புக்கல் கொண்டு செல்ல முடியாது என மாவட்ட  அபிவிருத்திக்குழு கூட்டத்தில் தீர்மானம் எடுக்கப்பட்டுள்ளது.
+
+யாழ். மாவட்ட அபிவிருத்திக்குழு கூட்டம்  வடக்கு மாகாண ஆளுநர் பி. எஸ். எம். சார்ள்ஸ், அமைச்சர் டக்ளஸ் தேவாநந்தா ஆகியோரின் இணைத் தலைமைத்துவத்தின் கீழ் நேற்று மாவட்ட செயலகத்தின் கேட்போர் கூடத்தில் நடைபெற்றது.
+
+யாழ் மாவட்டத்தில் அகழப்படும் சுண்ணாம்புக் கற்களை எவ்வித அனுமதியும் இன்றி வெளி மாவட்டங்களுக்கு கொண்டு செல்லப்படுகின்றமை தொடர்பில் முன்வைக்கப்பட்ட குற்றச்சாட்டுக்கு அமைய, அபிவிருத்தி குழு கூட்டத்தில் கலந்துகொண்ட துறைசார் அதிகாரிகள் பல்வேறு விடயங்களை முன்வைத்தனர்.
+
+...
+
+[Data](articles/2187c61f.json)
+
+---
 
 ### SLIC transfers its shares in Lanka Hospitals to Treasury Secretary
 
@@ -64,6 +134,8 @@ The National Authority on Tobacco and Alcohol has directed the hotel to comply w
 
 [Data](articles/8ae8ec4b.json)
 
+[Extended Data](ext_articles/8ae8ec4b.ext.json)
+
 ---
 
 ### Cabraal, four others released from Treasury Bill case
@@ -79,6 +151,8 @@ The Bribery Commission had filed indictments against five accused for causing a 
 ◼️
 
 [Data](articles/3820f2cf.json)
+
+[Extended Data](ext_articles/3820f2cf.ext.json)
 
 ---
 
@@ -2037,99 +2111,5 @@ Due to hard work, the school sports tournaments that were missed during the Covi
 [Data](articles/0dcddfa3.json)
 
 [Extended Data](ext_articles/0dcddfa3.ext.json)
-
----
-
-### Intelligence sector awareness of the activities of the terrorist activities
-
-*2024-05-30 20:02:37* · [`adalk`](https://www.ada.lk/breaking_news/අයි-එස්-ත්‍රස්තවාදීන්ගේ-ක්‍රියාකරකම්-පිළිබඳව-බුද්ධි-අංශ-විමසිල්ලෙන්/11-409935) · `si`
-
-Retired Major General Kamal Gunaratne, now the Defense Secretary, assures the public of continuous surveillance for national security, mentioning ongoing investigations into suspected terrorists returning from India, including drug-addicted individuals. He was speaking during his visit to the Deadaweapi Chaitya construction site, where he also highlighted the importance of maintaining religious duties and the collaborative efforts between the Intelligence and Criminal Departments in combating terrorism.
-
-🟩
-
-Commerce Major General Kamal Gunaratne, retired Major General Kamal Gunaratne, he said that the intelligence of the intelligence of the terrorist activities of the terrorist activities of the terrorist activities.
-
-When he came to inspect the construction work of the Deadaweapi Chaitya, he was responding to a question raised by journalists.
-
-We maintain inspections on those who went to India. They are conducting further investigations and investigations are being arrested.
-
-The four arrested for the arrested are addicted to drugs.Not tough religious duties. Our Intelligence and Criminal Department of Intelligence and Criminal Department are conducting investigations on the information we have given us from India.
-
-As the Defense Secretary, I give guarantee to the people of the country.About 24 hours a day, we are watching the protection of the public and national security.We will not be able to be like that Easter.
-
-...
-
-[Data](articles/ab54a354.json)
-
-[Extended Data](ext_articles/ab54a354.ext.json)
-
----
-
-### Assistant Customs Superintendent arrested in Fell
-
-*2024-05-30 20:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197194) · `si`
-
-An Assistant Customs Superintendent was arrested in Colombo for smuggling 7,000 foreign cigarettes worth nearly Rs. Further investigation is being conducted by the Fort Police.
-
-🟩
-
-A Assistant Customs Superintendent has been arrested with a consignment of illegally imported foreign smoking.
-
-The suspect was arrested by the Central Chief of Parliament of Central Province in the Colombo Fort area.
-
-Police said that 7,000 foreign cigarettes were found in his possession.
-
-It has been revealed in further investigations that the value of its value is nearly Rs.
-
-The Assistant Assistant Customs Superintendent has been handed over to the Fort Police for further investigations.
-
-◼️
-
-[Data](articles/f02d7ce2.json)
-
-[Extended Data](ext_articles/f02d7ce2.ext.json)
-
----
-
-### Assistant Superintendent of Customs arrested with illegally imported cigarettes
-
-*2024-05-30 19:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/99549/assistant-superintendent-of-customs-arrested-with-illegally-imported-cigarettes) · `en`
-
-An Assistant Superintendent of Customs has been arrested in Colombo with 7,000 sticks of illegally imported cigarettes and Rs. 590,000 in cash which he allegedly earned from selling these cigarettes, police said.
-
-◼️
-
-[Data](articles/f50b03fb.json)
-
-[Extended Data](ext_articles/f50b03fb.ext.json)
-
----
-
-### Six Sri Lanka arrested in suspicion to Indian ISIS incident
-
-*2024-05-30 19:57:39* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්දීය-ISIS-සිද්ධියට-සැකපිට--ශ්‍රී-ලංකාවේ-දී-6ක්-අත්අඩංගුව‍ට/11-409934) · `si`
-
-Six Sri Lankans, including four youths sent to India and two suspected of exchanging money for ISIS flags, were arrested by Sri Lanka's security forces investigating links between local individuals and the Indian ISIS incident. The arrests come after the suspects allegedly took oaths related to ISIS, with some refusing travel to India. Investigations suggest involvement in drug trafficking and other crimes, but officials are still probing connections to ISIS.
-
-🟩
-
-The four Sri Lankan youths who sent to India, the man who had sworn and exchanged the Flag with the ISIS logo, two and two money exchanged money
-
-Two others who were given first oaths were refused to go to India
-
-Sri Lanka's security forces have been arrested by Sri Lankan security forces in Sri Lanka, who is conducting the four Sri Lankans who were arrested by the LTTE (ASS).
-
-The victim coordinated the four Sri Lankans to send to India to the four Sri Lankans visiting India, the person who was set to a oath to India were two sworn in Mawanella, a first occasion.
-
-The oath to oath is requested that the flag with logo has been prepared to Rs.. There have been four to the first oath, and two oath and two oath have refused to go to India.Investigations so far revealed that a swear in a sworn hand with two newly two newly two new joined.. According to the defense sources, Indian Defense Assistants have played the second time.
-
-The persons have sent a sum of Rs.
-
-...
-
-[Data](articles/b6c5d7ac.json)
-
-[Extended Data](ext_articles/b6c5d7ac.ext.json)
 
 ---

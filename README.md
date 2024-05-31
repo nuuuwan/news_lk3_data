@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-31 17:04:02**
+As of **2024-05-31 17:18:43**
 
 ## Newspaper Stats
 
-*Scraped **27,543** Articles*
+*Scraped **27,544** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,37 +20,61 @@ adaderanalk | 3,135
 tamilmirrorlk | 3,228
 virakesarilk | 4,244
 dailymirrorlk | 4,362
-adaderanasinhalalk | 4,397
+adaderanasinhalalk | 4,398
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,537 (100.0%) of 27,543 articles have been extended.
+27,543 (100.0%) of 27,544 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-31 (Friday)
 
-### උසස් පෙළ ප්‍රතිඵල නිකුත් කෙරේ
+### මැයි මාසයේ ආහාර උද්ධමනය සියයට බිංදුවයි
+
+*2024-05-31 16:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197217) · `si`
+
+කොළඹ පාරිභෝගික මිල දර්ශකයෙහි වාර්ෂික ලක්ෂ්‍යමය වෙනස මඟින් මනිනු ලබන මතුපිට උද්ධමනය මැයි මාසයේ දී 0.9%ක් දක්වා පහළ ගොස් තිබේ.
+
+මෙහිදී ආහාර කාණ්ඩයේ උද්ධමනය අප්‍රේල් මාසයේ වාර්තා වූ සියයට 2.9 සිට මැයි මාසයේ දී සියයට 0.0ක් දක්වා පහළ ගොස් තිබීම විශේෂත්වයකි.
+
+ආහාර නොවන කාණ්ඩයේ උද්ධමනය මැයි මාසයේ දී සියයට 1.3ක් දක්වා ඉහළ ගොස් තිබේ.
+
+ජනලේඛන හා සංඛ්‍යාලේඛන දෙපාර්තමේන්තුව විසින් නිකුත් කළ නවතම වාර්තාවක මේ බව සඳහන් වේ.
+
+◼️
+
+[Data](articles/ff2154b0.json)
+
+---
+
+### A / L results released
 
 *2024-05-31 16:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197216) · `si`
 
-2023 අධ්‍යයන පොදු සහතික පත්‍ර උසස් පෙළ විභාගයේ ප්‍රතිඵල නිකුත් කර තිබේ.
+The GCE Advanced Level Examination results have been announced, covering 269,613 candidates from January 4th to 31st. Of these, 229,057 were school candidates. The Examinations Department reported that 173,444 candidates have been suspended from university admission. Results for school exams will be released post-survey results, available for re-survey at onlineexams.gov.lk/eic.
 
-පසුගිය ජනවාරි 4 වන දින සිට ජනවාරි 31 වනදා දක්වා උසස් පෙළ විභාගය පැවැත්වුණි.
+🟩
 
-මෙවර විභාගය සඳහා අපේක්ෂකයින් 269,613 දෙනෙකු පෙනීසිටින අතර ඉන් 229,057ක් පාසල් අයදුම්කරුවන් ය.
+The results of the GCE Advanced Level Examination have been released.
 
-විශ්වවිද්‍යාල ප්‍රවේශය සඳහා 173,444ක් සුදුසුකම් ලබා ඇති අතර අපේක්ෂකයින් 190කගේ ප්‍රතිඵල අත්හිට වූ බව ද විභාග දෙපාර්තමේන්තුව නිවේදනය කරයි.
+The A / L examination was held on January 4 to January 31st.
 
-පාසල් විභාග ප්‍රතිඵල ලේඛන විදුල්පතිවරුන් වෙත නැවත සමීක්ෂණ ප්‍රතිඵල නිකුත් කිරීමෙන් පසු නිකුත් කරනු ලබන බව ද විභාග කොමසාරිස් ජනරාල් අමිත් ජයසුන්දර මහතා සඳහන් කර ඇත.
+269,613 candidates for the examination have appeared and 229,057 were school candidates.
 
-මේ අතර ප්‍රතිඵල නැවත සමීක්ෂණ සඳහා http://onlineexams.gov.lk/eic වෙබ් අඩවියට පිවිසීමෙන් ජූනි 5 වනදා සිට 2024.06.19 වන දින දක්වා අයදුම්පත් ඉදිරිපත් කළ හැකිය.
+The Examinations Department announces that 173,444 candidates have been suspended for university admission.
+
+The Commissioner General of Examinations Amitha Jayasundara has also stated that the results of the school examination will be released after releasing the results of the survey results.
+
+Meanwhile, results can be submitted to http://onlineexams.gov.lk/eic website for re-surveys.
 
 ◼️
 
 [Data](articles/b8199b65.json)
+
+[Extended Data](ext_articles/b8199b65.ext.json)
 
 ---
 
@@ -69,6 +93,8 @@ The remaining 65,531 are private applicants, the Examinations Department said.
 ◼️
 
 [Data](articles/f7769da0.json)
+
+[Extended Data](ext_articles/f7769da0.ext.json)
 
 ---
 
@@ -287,6 +313,8 @@ Maxies and Co Pvt Ltd is also listed as an egg exporter by Sri Lanka’s Export 
 ...
 
 [Data](articles/a6727bfa.json)
+
+[Extended Data](ext_articles/a6727bfa.ext.json)
 
 ---
 
@@ -589,6 +617,8 @@ Shanthikumar said representations have been made to the Sri Lanka Tourist Develo
 ...
 
 [Data](articles/df502f90.json)
+
+[Extended Data](ext_articles/df502f90.ext.json)
 
 ---
 
@@ -905,6 +935,8 @@ Government of India has launched BIMReN (BIMSTEC-India Marine Research Network),
 ...
 
 [Data](articles/0383afce.json)
+
+[Extended Data](ext_articles/0383afce.ext.json)
 
 ---
 
@@ -2199,23 +2231,5 @@ In the common usage, VFS has come to represent the concept of outsourcing, when 
 [Data](articles/ea0c8ae3.json)
 
 [Extended Data](ext_articles/ea0c8ae3.ext.json)
-
----
-
-### Sunshine Holdings delivers record FY24 results propelled by healthcare and consumer sectors
-
-*2024-05-31 05:22:40* · [`dailyftlk`](https://www.ft.lk/business/Sunshine-Holdings-delivers-record-FY24-results-propelled-by-healthcare-and-consumer-sectors/34-762398) · `en`
-
-Healthcare sector revenue growth of 16.1% YoY to Rs. 27.7 billion
-
-Diversified Sri Lankan conglomerate Sunshine Holdings PLC has recorded resilient revenue growth amidst the backdrop of a moderately stable macroeconomic conditions, reporting notable top-line and bottom-line growth during the year ended 31 March 2024.
-
-Group’s Healthcare and Consumer sectors led growth while healthcare segment remained the major contributor to total Group revenue in FY24. Sunshine recorded a consolidated Group revenue of Rs. 55.5 billion for the year ended 31 March, a 7% Year-on-Year (YoY) growth. Profit after tax (PAT) for the period in review increased by 66.4% to Rs. 6 billion. The gross profit also increased by Rs. 3.7 billion, representing a robust 27.6% YoY growth, primarily driven by the margin expansion in both the healthcare and consumer segments. The gross profit margin for the period stood at 31%, marking a significant improvement of 500 basis points compared to the previous year.
-
-...
-
-[Data](articles/311768de.json)
-
-[Extended Data](ext_articles/311768de.ext.json)
 
 ---

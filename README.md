@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-01 00:50:27**
+As of **2024-06-01 01:04:02**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,409
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,629 (100.0%) of 27,638 articles have been extended.
+27,638 (100.0%) of 27,638 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -42,6 +42,8 @@ Foreign Minister Ali Sabry this week held a follow up discussion with Russian Am
 
 [Data](articles/2ab15a12.json)
 
+[Extended Data](ext_articles/2ab15a12.ext.json)
+
 ---
 
 ### Ambassador Chandana Weerasena presents credentials to European Council President
@@ -55,6 +57,8 @@ The presentation of credentials was followed by a meeting with the President of 
 ...
 
 [Data](articles/9672a6ef.json)
+
+[Extended Data](ext_articles/9672a6ef.ext.json)
 
 ---
 
@@ -71,6 +75,8 @@ Speaker Abeywardena pointed out that the Anti-Corruption Act passed in Sri Lanka
 ...
 
 [Data](articles/cd5249da.json)
+
+[Extended Data](ext_articles/cd5249da.ext.json)
 
 ---
 
@@ -218,25 +224,31 @@ The ceremony was a testament to the diversity and unity within the Buddhist comm
 
 ---
 
-### ட்ரம்ப் குற்றவாளி: குற்றவியல் வழக்கில் தீர்ப்பு
+### Trump is guilty: verdict in criminal case
 
 *2024-06-01 00:09:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ட்ரம்ப்-குற்றவாளி-குற்றவியல்-வழக்கில்-தீர்ப்பு/50-338220) · `ta`
 
-அமெரிக்காவின் முன்னாள் ஜனாதிபதி டொனால்ட் ட்ரம்ப் மீதான மோசடி நிதி அறிக்கைகள் தொடர்பான வழக்கில் அவர் குற்றவாளியாக அறிவிக்கப்பட்டுள்ளார்.
+Donald Trump has been found guilty in a fraud case involving false financial statements, making him the first ex-president convicted in a criminal case. The trial, held at Manhattan Criminal Court, included testimonies from 22 witnesses over two weeks, with Trump convicted on all 34 charges.
 
-நியூயோர்க் மாநிலத்திலுள்ள மன்ஹாட்டன் குற்றவியல் நீதிமன்றத்தில் இந்த வழக்கு விசாரிக்கப்பட்டதுடன், 22 பேரின் சாட்சியங்கள் தொடர்பில் ஆராயப்பட்டன.
+🟩
 
-12 நடுவர்கள் இரண்டு வாரங்கள் விவாதித்து  ஒருமனதாக இந்த வழக்கின் தீர்ப்பை அறிவித்துள்ளனர்.
+He has been convicted in a case of fraudulent financial statements against former US President Donald Trump.
 
-வழக்கு தொடர்பான 34 குற்றச்சாட்டுகளிலும் முன்னாள் ஜனாதிபதி ட்ரம்ப் குற்றவாளி என நீதிமன்றம் உத்தரவிட்டுள்ளது.
+The case was heard at the Manhattan Criminal Court in New York and the testimony of 22 people.
 
-இதன்மூலம், அமெரிக்க வரலாற்றில் குற்றவியல் வழக்கொன்றில் தண்டனை பெற்ற முதல் முன்னாள் ஜனாதிபதியாக டொனால்ட் ட்ரம்ப் பதிவாகியுள்ளார்.
+The 12 referees discussed the verdict of the case for two weeks.
 
-அமெரிக்காவின் முன்னாள் ஜனாதிபதி ட்ரம்ப், தன்னுடனான பாலியல் தொடர்பை மறைக்க ஆபாச நடிகை ஸ்டோமி டேனியல்ஸுக்கு சுமார் 1.3 லட்சம் டொலர்களை 2016 ஆம் ஆண்டுக்கான தேர்தல் பிரச்சார நிதியில் இருந்து கொடுத்தார் என்று குற்றம் சாட்டப்பட்டது. (a)
+Former President Trump has been guilty of all 34 allegations regarding the case.
+
+Donald Trump has been named the first former president to be convicted in a criminal case in American history.
+
+Former US President Trump has been accused of giving her about $ 1.3 lakh from Porn Stommy Daniels from the 2016 election campaign fund to cover up her sexual intercourse.. (A)
 
 ◼️
 
 [Data](articles/7824421e.json)
+
+[Extended Data](ext_articles/7824421e.ext.json)
 
 ---
 
@@ -372,23 +384,31 @@ Thus so far there was no report of their involvement in any organisation promoti
 
 [Data](articles/05b73772.json)
 
+[Extended Data](ext_articles/05b73772.ext.json)
+
 ---
 
-### இந்தியாவில் கைது செய்யப்பட்ட 4 இலங்கையர்களுடன் நெருங்கிய தொடர்புடைய ISIS பயங்கரவாத அமைப்பின் முக்கியஸ்தர் கொழும்பில் கைது
+### The head of the ISIS terrorist organization arrested in Colombo in Colombo
 
 *2024-05-31 23:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/185003) · `ta`
 
-ஐ.எஸ்.ஐ.எஸ் அமைப்புடன் தொடர்புடைய சந்தேகத்தின் பேரில் இந்தியாவில் கைது செய்யப்பட்ட நான்கு இலங்கையர்களுடன் நெருங்கிய தொடர்புகளை வைத்திருந்ததாகவும் அவர்களுக்கு உதவியதாகவும் சந்தேகிக்கப்படும் ஒஸ்மான் புஷ்பராஜ் கைது செய்யப்பட்டுள்ளார்.
+Osman Pushparaj, suspected of links to four Sri Lankans arrested in India for alleged ISIS ties, was detained in Colombo. A joint operation led to his arrest, with further investigations underway against him.
 
-இந்தியாவின் அஹமதாபாத் விமான நிலையத்தில் கைது செய்யப்பட்ட 4 இலங்கையர்களுடன் நெருங்கிய தொடர்புகளை ஜெராட் புஸ்பராஜா ஒஸ்மன் ஜெராட் பேணி வந்துள்ளார்.
+🟩
 
-இந்த நிலையில், ஜெராட் புஸ்பராஜா ஒஸ்மன் ஜெராட்டை கைது செய்வதற்கான விசேட விசாரணைகள் ஆரம்பிக்கப்பட்டன.
+Osman Pushparaj has been arrested for suspected of having close ties with four Sri Lankans arrested in India on suspicion of ISIS.
 
-குற்றப்புலனாய்வு திணைக்களத்தின் பயங்கரவாத புலனாய்வு திணைக்களத்தின் கூட்டு நடவடிக்கையில் கொழும்பில் வைத்து கைது செய்யப்பட்டதாக பொலிஸ் ஊடகப் பேச்சாளர் டிஐஜி, சட்டத்தரணி திரு.நிஹால் தல்துவா தெரிவித்துள்ளார்.
+Gerat Pusparajah Osman Jerata has maintained close ties with 4 Sri Lankans arrested at Ahmedabad airport in India.
+
+At this juncture, special inquiries have been launched to arrest Jerat Pusparajah Osman Gerath.
+
+Police Media Spokesperson DIG, Attorney -at -Law Mr. Nihal Talduwa said that the Criminal Investigation Department has been arrested in Colombo during a joint operation of the Criminal Investigation Department.
 
 ◼️
 
 [Data](articles/38626c75.json)
+
+[Extended Data](ext_articles/38626c75.ext.json)
 
 ---
 
@@ -584,15 +604,21 @@ Accordingly, a liter of Otto diesel will be sold for 317 rupees from midnight to
 
 ---
 
-### கொழும்பில் சுவாமி விபுலானந்தர் துறவு பூண்டு நூற்றாண்டு நிறைவையொட்டி "இசைத்தமிழ் விழா"
+### Swami Vipulanandar in Colombo
 
 *2024-05-31 21:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/185002) · `ta`
 
-சுவாமி விபுலானந்தர் துறவு பூண்டு நூற்றாண்டு நிறைவையொட்டி இந்து சமய கலாசார அலுவல்கள் திணைக்களம் நடாத்தும் "இசைத்தமிழ் விழா" கொழும்பு தமிழ் சங்க சங்கரப்பிள்ளை மண்டபத்தில் சங்கத் தலைவர் கலாநிதி க. இரகுபரன் தலைமையில் நடைபெற்றது. சுவாமி விபுலானந்தார் சிலை சைவ மங்கையர் வித்தியாலயத்தில் இருந்து ஊர்வலமாக எடுத்து வருவதையும், தொடர்ந்து இராமகிருஸ்ண மிஷன் தலைவர் ஸ்ரீமத் சுவாமி அக்ஷராத்மனாந்தஜீ மாலை அணிவித்தபின் ஞானசேகரன், ஞானலக்ஷ்மி தம்பதியினர் மங்கள விளக்கேற்றி விழாவை ஆரம்பித்து வைப்பதையும் கலந்து கொண்டோரையும் காணலாம்.
+Swami Vipulanandar's monastery in Colombo, led by Raghubaran, hosted an event featuring his statue transfer. The ceremony included the participation of the Ramakrishna Mission's Srimad Swami Aksharatmananthaji, who joined the Gnanashekaran and Gnanalakshmi couple in honoring the statue.
+
+🟩
+
+Swami Vipulanandar Monastery Garlic. Was held under the leadership of Raghubaran. Swami Vipulanandar statue is being taken from the Saiva Mangayar Vidyalaya, followed by the Ramakrishna Mission leader Srimad Swami Aksharatmananthaji after the garland of Gnanashekaran and Gnanalakshmi couple.
 
 ◼️
 
 [Data](articles/cfc871b4.json)
+
+[Extended Data](ext_articles/cfc871b4.ext.json)
 
 ---
 
@@ -628,27 +654,33 @@ The maximum punishment for the maximum of four years in such a case, the former 
 
 ---
 
-### இன்று நள்ளிரவு முதல் எரிபொருள் விலையில் மாற்றம்
+### Change in fuel prices from midnight today
 
 *2024-05-31 21:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/185001) · `ta`
 
-இன்று 31ஆம் திகதி வெள்ளிக்கிழமை நள்ளிரவு முதல் அமுலுக்கு வரும் வகையில் இலங்கை பெற்றோலிய கூட்டுத்தாபனம் எரிபொருள் விலையில் திருத்தம் செய்யத் தீர்மானித்துள்ளது.
+From midnight Friday 31st, Ceylon Petroleum Corporation adjusted fuel prices: Octane 92 petrol now costs 355 rupees (down 13), Octane 95 remains 420 rupees, Otto diesel is 317 rupees (down 16), diesel per liter is 377 rupees unchanged, and kerosene is 202 rupees (down 13).
 
-இந்த திருத்தங்களின் கீழ், மூன்று வகையான எரிபொருட்களின் விலைகள் குறைக்கப்பட்டுள்ள அதேவேளை, இரண்டின் விலைகளில் மாற்றமில்லை.
+🟩
 
-இதன்படி, ஒக்டேன் 92 பெற்றோல் லீற்றர் ஒன்றின் விலை 13 ரூபாவினால் குறைக்கப்பட்டுள்ளதுடன், அதன் புதிய விலை 355 ரூபாவாகும்.
+The Ceylon Petroleum Corporation has decided to revise the fuel prices with effect from midnight on Friday 31st.
 
-ஒக்டேன் 95 லீற்றர் பெற்றோலின் விலை மாற்றமின்றி 420 ரூபாவுக்கு விற்பனை செய்யப்படவுள்ளது.
+Under these amendments, the prices of three types of fuels have been reduced, while the prices of the two are not changed.
 
-ஒரு லீற்றர் ஓட்டோ டீசலின் விலை 16 ரூபாவினால் குறைக்கப்படவுள்ளதுடன் அதன் புதிய விலை 317 ரூபாவாகும்.
+Accordingly, the price of an Octane 92 petrol has been reduced by 13 rupees and its new price is 355 rupees.
 
-அத்துடன், சுப்பர் டீசல் லீற்றர் ஒன்றின் விலையில் மாற்றமின்றி தொடர்ந்தும் அதன் விலை 377 ரூபாவுக்கு விற்பனை செய்யப்படவுள்ளது.
+The price of Octane 95 will be sold for 420 rupees without change.
 
-மண்ணெண்ணெய் விலை 13 ரூபாவால் குறைக்கப்படவுள்ளதுடன், அதன் புதிய விலை 202 ரூபாவாகும்.
+The price of an Otto diesel will be reduced by 16 rupees and its new price is 317 rupees.
+
+In addition, the price of a liter of diesel will continue to be sold at 377 rupees.
+
+The price of kerosene will be reduced by 13 rupees and its new price is 202 rupees.
 
 ◼️
 
 [Data](articles/f3888dd3.json)
+
+[Extended Data](ext_articles/f3888dd3.ext.json)
 
 ---
 
@@ -846,19 +878,25 @@ Later, the North Colombo University was incorporated as the medical faculty of s
 
 ---
 
-### தேசிய மெய்வல்லுநர் போட்டி: விண்ணப்ப முடிவு திகதி ஜ10ன் 18
+### National Athletics Competition: Application Date
 
 *2024-05-31 20:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/185000) · `ta`
 
-ஸ்ரீலங்கா அத்லெட்டிக்ஸ் (இலங்கை மெய்வல்லுர் நிறுவனம்) ஏற்பாடு செய்துள்ள 102ஆவது தேசிய மெய்வல்லுநர் போட்டி தியகம மஹிந்த ராஜபக்ஷ மஹிந்த ராஜபக்ஸ விளையாட்டரங்கில் ஜுன் மாதம் 25, 26, 27ஆம் திகதிகளில் நடைபெறவுள்ளது.
+The 102nd National Athletics Competition in Sri Lanka, set for June 25-27 at the Mahinda Rajapaksa Stadium, invites applications from athletes, corporations, schools, and district associations. Forms for both men and women participants are available online.
 
-இப் போட்டியில் பங்குபற்ற விரும்பும் மெய்வல்லுநர்களிடம் இருந்து அல்லது அவர்கள் சார்பில் கழகங்கள், பாடசாலகள், மாவட்ட சங்கங்களிடம் இருந்து விண்ணப்பங்கள் கோரப்படுகின்றது.
+🟩
 
-இங்கு தரப்பட்டுள்ள ஆண்களுக்கான மற்றும் பெண்களுக்கான விண்ணப்பப் படிவத்தை பதிவிறக்கம் செய்து அதனை பூர்த்தி செய்து அனுப்பிவைக்குமாறு விண்ணப்பதாரர்கள் கோரப்படுகின்றனர்.
+The 102nd National Athletics Competition organized by Sri Lanka Athletics (Sri Lanka Athletic Institute) will be held on the 25th, 26th and 27th of June at the Mahinda Rajapaksa Mahinda Rajapaksa Stadium.
+
+Applications are requested from the athletes who wish to participate in this competition or from the corporations, schools and district associations on their behalf.
+
+Applicants are requested to download and complete the application form for men and women provided here.
 
 ◼️
 
 [Data](articles/1fac5eef.json)
+
+[Extended Data](ext_articles/1fac5eef.ext.json)
 
 ---
 

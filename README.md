@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-31 11:34:44**
+As of **2024-05-31 11:53:45**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,388
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,480 (100.0%) of 27,484 articles have been extended.
+27,484 (100.0%) of 27,484 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,21 +50,29 @@ On 03 May 2024, Cabraal’s attorneys raised preliminary objections, leading to 
 
 [Data](articles/b23e8d77.json)
 
+[Extended Data](ext_articles/b23e8d77.ext.json)
+
 ---
 
-### කබ්රාල් ඇතුළු පිරිසට නිදහස් කෙරේ
+### Cabraal and others released
 
 *2024-05-31 11:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197206) · `si`
 
-2012 වසරේ ග්‍රීසියේ බැඳුම්කරවල ආයෝජනයක් සිදුකිරීම තුළින් රජයට රුපියල් බිලියන 1.84ක පාඩුවක් සිදු කළේ යැයි චෝදනා ලබා සිටි ශ්‍රී ලංකා මහ බැංකුවේ හිටපු අධිපති අජිත් නිවාඩ් කබ්රාල් ඇතුළු විත්තිකරුවන් පස් දෙනෙකු නිදහස් කරන ලෙස කොළඹ මහාධිකරණය නියම කර තිබේ.
+In a case involving Ajith Nivard Cabraal and others, the Colombo High Court dismissed preliminary objections from attorneys and defendants, paving the way for their release. The case was initially filed by the Bribery Commission.
 
-අල්ලස් කොමිසම විසින් ගොනුකර තිබෙන මෙම නඩුව පවරා පවත්වාගෙන යාමට නොහැකි බවට අජිත් නිවාඩ් කබ්රාල් ඇතුළු විත්තිකරුවන් වෙනුවෙන් පෙනී සිටි නීතිඥවරු මූලික විරෝතා මතු කර තිබුණි.
+🟩
 
-එම මූලික විරෝධතා පිළිගෙන අදාළ විත්තිකරුවන් නිදහස් කිරීමට විනිසුරුවරයා නියම කළේය.
+The Colombo High Court has set the release of Rs.
+
+Attorneys and the accused of the defendants including Ajith Nivard Cabraal had raised the primaries including Ajith Nivard Cabraal that the case filed by the Bribery Commission.
+
+The judge sentenced to release the preliminary objections.
 
 ◼️
 
 [Data](articles/b49e3e94.json)
+
+[Extended Data](ext_articles/b49e3e94.ext.json)
 
 ---
 
@@ -104,6 +112,8 @@ They said that due to the derailment, the train services will operate with a con
 
 [Data](articles/d06ff146.json)
 
+[Extended Data](ext_articles/d06ff146.ext.json)
+
 ---
 
 ### Propaganda to insult Buddhist philosophy, Buddha’s character: Parliamentary Committee reveals
@@ -121,6 +131,8 @@ They were of the opinion that social violence and cultural breakdown will occur 
 ...
 
 [Data](articles/58c31c9f.json)
+
+[Extended Data](ext_articles/58c31c9f.ext.json)
 
 ---
 

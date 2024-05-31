@@ -1,36 +1,58 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-31 15:04:43**
+As of **2024-05-31 15:18:44**
 
 ## Newspaper Stats
 
-*Scraped **27,520** Articles*
+*Scraped **27,526** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 247
 dbsjeyarajcom | 267
-bbccomsinhala | 272
+bbccomsinhala | 273
 newsfirstlk | 363
 islandlk | 1,488
 economynextcom | 1,572
 dailyftlk | 1,612
-adalk | 2,349
+adalk | 2,350
 adaderanalk | 3,132
 tamilmirrorlk | 3,228
-virakesarilk | 4,242
-dailymirrorlk | 4,355
+virakesarilk | 4,244
+dailymirrorlk | 4,357
 adaderanasinhalalk | 4,393
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,520 (100.0%) of 27,520 articles have been extended.
+27,520 (100.0%) of 27,526 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-31 (Friday)
+
+### புத்தளம் கலப்பில் மிதந்த பீடி இலை பொதிகள்
+
+*2024-05-31 14:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/184953) · `ta`
+
+புத்தளம் கலப்பு பகுதியில் கடலில் மிதந்த நிலையில் சந்தேகத்திற்கிடமான பொதிகள் காணப்பட்டதை அவதானித்த அப்பகுதி மீனவர்கள் பொலிஸாருக்குத் தகவல் வழங்கியுள்ளனர்.
+
+இதன்போது, பொலிஸார் குறித்த பகுதிக்குச் சென்று பொதிகளை சோதனைக்குட்படுத்தியுள்ளபோது குறித்த உரைகளில் பீடி இலைகள் இருப்பது தெரியவந்துள்ளது.
+
+இதன்போது 12 உரைகளில் சுமார் 320 கிலோ கிராம் பீடி இலைகள் கைப்பற்றப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+இவ்வாறு கைப்பற்றப்பட்ட பீடி இலைகள் சுமார் 20 இலட்சம் ரூபாவிற்கும் அதிக பெறுமதியென தெரிவிக்கப்படுகின்றது.
+
+குறித்த பீடி இலைகள் இந்தியாவிலிருந்து சட்டவிரோதமாக கடல்மார்க்கமாக கொண்டுவரப்பட்டிருக்கலாமென சந்தேகிப்பதாக பொலிஸார் தெரிவிக்கின்றனர்.
+
+கைப்பற்றப்பட்ட பீடி இலைகளை புத்தளம் நீதிமன்றத்தில் ஆஜர்படுத்த நடவடிக்கைகளை மேற்கொண்டுள்ளதாகவும் இது தொடர்பாக விசாரணைகளை மேற்கொண்டு வருவதாகவும் புத்தளம் பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/0cbc1bfa.json)
+
+---
 
 ### In 45 hours of meditation
 
@@ -77,6 +99,24 @@ Further investigations are being carried out by the Children's and Women Bureau 
 [Data](articles/5ff7fc98.json)
 
 [Extended Data](ext_articles/5ff7fc98.ext.json)
+
+---
+
+### வரலாறு
+
+*2024-05-31 14:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/184950) · `ta`
+
+மறைந்த முன்னாள் தமிழக முதலமைச்சர் எம்.ஜி.ஆர். இலங்கைக்கு வருகை தந்தபோது, வீரகேசரி பத்திரிகை நிறுவனத்துக்கும் அடியெடுத்து வைத்துள்ளார்.
+
+"வீரகேசரி என் சொந்த பத்திரிகை. என் எண்ணங்களையும் என் செயல்களையும் இலங்கைவாழ் தமிழர்கள் உடனுக்குடன் அறிய, தெளிவாக புரியவைக்க எனக்கு உதவியது வீரகேசரி...." என்று தன் நினைவுகளை பகிர்ந்துகொண்டார்.
+
+அது மட்டுமன்றி, "துப்பாக்கிச் சூடு சம்பவத்தின்போது என் உடல் நிலை பற்றி அறியத் துடித்த இலட்சக்கணக்கான மக்களுக்கு ஆறுதல் அளிக்கும் வகையில் என் உடல் நலம் பற்றிய செய்திகளை வீரகேசரி தாங்கி வந்தது. அதைப் பார்த்து பல்லாயிரக்கணக்கானவர்கள் ஆறுதல் அடைந்தார்கள்...." என  கையில் கேசரியை வைத்துப் பார்த்தபடி தமிழ்நாட்டின் நந்தம்பாக்கத்தில் உள்ள தனது தோட்டத்திலிருந்து எம்.ஜி.ஆர் பேட்டி கொடுத்தபோதே இவ்விதமாக கூறியிருந்தார்.
+
+1967ஆம் ஆண்டு இதே திகதியில் ( மே 31) வெளியான வீரகேசரி பத்திரிகையின் முதல் பக்கத்தில் கேசரியுடன் எம்.ஜி.ஆர்....
+
+◼️
+
+[Data](articles/9bd1821e.json)
 
 ---
 
@@ -222,6 +262,18 @@ However, the suspect was reported to the resident of Derana on May 29, the suspe
 
 ---
 
+### Lankadeepa wins seven awards...
+
+*2024-05-31 13:58:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Lankadeepa-wins-seven-awards/110-283808) · `en`
+
+Our sister paper Daily Lankadeepa won seven awards at Miracle award ceremony held at Waters Edge Hotel last night.
+
+◼️
+
+[Data](articles/1ab69b51.json)
+
+---
+
 ### Suspect arrested for stealing British lady’s bag on bus
 
 *2024-05-31 13:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Suspect-arrested-for-stealing-British-ladys-bag-on-bus/108-283801) · `en`
@@ -267,6 +319,18 @@ Sri Lanka Insurance Corporation Limited is 51.34% of Lanka Hospitals Corporation
 [Data](articles/6c43cefc.json)
 
 [Extended Data](ext_articles/6c43cefc.ext.json)
+
+---
+
+### Protest against Israeli actions in Gaza
+
+*2024-05-31 13:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Protest-against-Israeli-actions-in-Gaza/110-283800) · `en`
+
+A demonstration aimed at halting the Israeli actions in the Gaza Strip took place outside the United Nations office in Bambalapitiya, joined by the Democratic Youth, Students for Social Equality, and the Socialist Equality Party. Pix by Kithsiri De Mel
+
+◼️
+
+[Data](articles/10765ebc.json)
 
 ---
 
@@ -998,6 +1062,22 @@ The operation was organized by the Criminal Investigation Department from the CI
 
 ---
 
+### පලස්තින රාජ්‍යයට චිනයේ සහාය
+
+*2024-05-31 09:36:37* · [`adalk`](https://www.ada.lk/breaking_news/පලස්තින-රාජ්‍යයට-චිනයේ-සහාය/11-409938) · `si`
+
+පූර්ණ ස්වාධීනත්වය හිමි පලස්තීන රාජ්‍යයක් ස්ථාපනය කිරීමට සහාය දෙන බව අරාබි රාජ්‍ය ස‍හයෝගිතා සංසදයට එක්වෙමින් චීන ජනපති කියයි.
+
+චීන ජනාධිපති ෂී ජින් පිං මහතා චීන අරාබි රාජ්‍ය ස‍හයෝගිතා සංසදයේ 10 වැනි අමාත්‍ය සමුළුවේ සමාරම්භක උ‍ළෙලට එක් ව එහි ප්‍රධාන දේශනය පවත්වමින් ඔහු මේ බව කිය. එම උත්සවය බෙයිජිං අගනුවර දී ඊයේ (30 ) පෙරවරුවේ පැවැත්විණ.
+
+අරාබි රටවල් සමග එක්ව චීන-අරාබි රාජ්‍ය සම්බන්ධතාව ලෝක සාමය හා ස්ථාවරත්වය සහතික කිරීම පිළිබඳ ආදර්ශ සබඳතාවක් ලෙසට සංවර්ධනය කිරීම චීනයේ අපේක්ෂාවක් බව ෂී ජින්පිං මහතා එහිදී ප්‍රකාශ කළේය. එක්සත් ජාතීන්ගේ ප්‍රඥප්තියට හා මූලධර්මයන්ටත්, විවිධ රටවල ජනතාවගේ තෝරාගැනීම් හා ඓතිහාසික සත්‍යයන්ටත් ගරු කරමින්, උග්‍ර වී ඇති ප්‍රශ්නවලට තිරසර විසඳුම් සොයා ගැනීම සඳහා අරාබි රටවල් සමග එක්ව ප්‍රයත්න දැරීමට චීනය සූදානම් බව ද ෂී ජින් පිං මහතා අවධාරණය කළේය.
+
+...
+
+[Data](articles/0ee18961.json)
+
+---
+
 ### Midigama Ruwan takes over Sri Lanka
 
 *2024-05-31 09:28:24* · [`adalk`](https://www.ada.lk/picture_story/මිදිගම-රුවන්-ලංකාවට-රැගෙන-එයි/10-409937) · `si`
@@ -1251,6 +1331,24 @@ The decision was announced after the jurors were discussed for nearly 12 hours.
 [Data](articles/3b5da1f5.json)
 
 [Extended Data](ext_articles/3b5da1f5.ext.json)
+
+---
+
+### ශ්‍රී ලංකා පොලිසියේ මානව හිම්කම් උල්ලංඝණ ලැයිස්තුව තවත් දිගු වෙයි
+
+*2024-05-31 07:51:12* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cw993pn4pl9o) · `si`
+
+ශ්‍රී ලංකා පොලිසියේ මානව හිම්කම් උල්ලංඝණ ලැයිස්තුව තවත් දිගු වෙයි
+
+2016 වසරේ රාජගිරිය ප්‍රදේශයේ සිදුවූ මහත් ආන්දෝලනයකට තුඩු දුන් රිය අනතුරු සිද්ධිය සම්බන්ධයෙන් හිටපු අමාත්‍ය පාඨලී චම්පික රණවකගේ රියදුරු සොයාගැනීම සඳහා ඔහුගේ බිරිඳ, අත දරුවා සහ ඇයගේ මව අනීතික ලෙස කොළඹ අපරාධ කොට්ඨාසයට රැගෙන විත් එහි පැය කිහිපයක් රඳවා ගැනිම තුළින් පොලිසිය මූලික මිනිස් අයිතිවාසිකම් උල්ලංඝණය කර ඇතැයි ශ්‍රේෂ්ඨාධිකරණය අද (මැයි 31 වැනිදා) තීන්දු කළේය.
+
+ඒ අනුව අදාළ මූලික අයිතිවාසිකම් කඩ කිරීමට වගකිවයුතු කොළඹ අපරාධ කොට්ඨාසයේ එවක වැඩබලන අධ්‍යක්ෂවරයා ලෙස කටයුතු කළ නෙවිල් සිල්වා සහ එහි ප්‍රධාන පොලිස් පරීක්ෂක ඒ. මෙත්තානන්ද යන නිලධාරීන් සිය පුද්ගලික මුදල් වලින් රුපියල් 250000/- බැගින් පෙත්සම්කාරියට වන්දි ගෙවිය යුතු බවත් නියෝග කෙරුණි.
+
+ඊට අමතරව අදාළ නිලධාරීන් දෙදෙනා සම්බන්ධයෙන් සුදුසු විනය ක්‍රියාමාර්ග ගැනීමට පියවර ගන්නා ලෙසත් විනිසුරු මඩුල්ල විසින් ජාතික පොලිස් කොමිසමට නියෝග කරනු ලැබීය.
+
+...
+
+[Data](articles/43eface6.json)
 
 ---
 
@@ -2035,147 +2133,5 @@ The first 20th holy Ganges of India's holy Ganges in Sri Lanka. The Swami Vedasa
 [Data](articles/c855dc03.json)
 
 [Extended Data](ext_articles/c855dc03.ext.json)
-
----
-
-### Dialog honored Samitha, Indika and Palitha in the World Para Championships
-
-*2024-05-31 03:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/184911) · `ta`
-
-Samitha, Indika, and Palitha were celebrated for their achievements in the World Para Athletics Championships in Japan. Palitha Bandara won a bronze medal in the F42 Classification Division. Dialog Acida PLC, sponsor of the National Paralympic Committee since 2000, expressed pride in supporting Para athletes and congratulated the medal winners. Despite Dinesh Priyantha's disqualification due to incorrect classification, the Paralympic group acknowledged his previous medals and his decision to retire.
-
-🟩
-
-Sri Lankan Para Athletics who won medals at the World Para Athletics Championships held at Japan's Gobe Stadium
-
-F64 Classification Division for Men
-
-In the Up Competition, F42, F43, F44 and F64 were competed in the Four Classification category.
-
-Palitha Bandara won the bronze medal of the F42 Classification Division in the Men's F63 Classification Division bomb throwing competition.
-
-Speaking at the event, Dialog Acida PLC Group Chief Minister Asanka Priyadarshana said, “Dialog Acida Company sponsorship for personal disabled people participating in the Para Games.. Dialog Acida has been giving full support to the National Paralympic Committee since 2000. We are always dedicated to promoting Para athletes. We are proud to give the medal winners at the World Athletics Championships. ”
-
-...
-
-[Data](articles/ff7a23c3.json)
-
-[Extended Data](ext_articles/ff7a23c3.ext.json)
-
----
-
-### CSE sees growing trend among listed entities adopting ESG standards
-
-*2024-05-31 03:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/CSE-sees-growing-trend-among-listed-entities-adopting-ESG-standards/108-283755) · `en`
-
-Nearly one third of listed entities have already adopted ESG standards
-
-Having nearly one third of listed entities adopting Environmental, Social and Governance (ESG) principles in their business models and reporting, the Colombo Stock Exchange (CSE) Chief acknowledges a growing interest among listed entities to adopt ESG principles.
-
-ESG adoption and reporting has become a prerequisite to secure foreign funds in particular from Europe and to become part of global value chains. However, there’s has been a backlash on ESG in recent months specially in the United States (U.S) which has caused some major financial institutions to step back from climate-related pledges.
-
-...
-
-[Data](articles/1dfa7cf6.json)
-
-[Extended Data](ext_articles/1dfa7cf6.ext.json)
-
----
-
-### Opposition to the Economic Transfer Legal Source
-
-*2024-05-31 02:22:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொருளாதார-பரிமாற்ற-சட்ட-மூலத்துக்கு-எதிர்ப்பு/175-338188) · `ta`
-
-Finance Minister Xihan Semasinghe defended the Economic Change Bill, aiming to boost productivity, improve infrastructure, and create jobs. Critics, mainly political opponents, argue against the bill, accusing it of causing an economic crisis. Semasinghe countered, stating that only those seeking to revert the country to an economic crisis would oppose the bill. He emphasized learning from past failures to implement similar legal structures effectively.
-
-🟩
-
-Finance Minister Xihan Semasinghe said that the economic change legislation could be opposed to the parties who need to be re -economic crisis.
-
-Sehan Semasinghe said at a media briefing held at the Presidential Media Center yesterday. He further stated that
-
-Our expectation is to increase productivity through the Economic Change Bill and transform Sri Lanka into an equal opportunity for every citizen. It is also expected to create a country with better infrastructure.
-
-Similarly, it is expected to create employment opportunities in accordance with economic growth and create an innovative exported competitive market.
-
-But those who are unaware of this bill are making various comments. Only parties need to put the country back into economic crisis can only oppose the economic change bill. They also accuse the goals of this legal source.
-
-Although the current government has a favorable target on the economy of the country, the other opposition parties are only political.
-
-...
-
-[Data](articles/07c47c21.json)
-
-[Extended Data](ext_articles/07c47c21.ext.json)
-
----
-
-### Action to address the telecommunication contradictions
-
-*2024-05-31 02:20:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சம்பள-முரண்பாடுகளை-நிவர்த்திக்க-நடவடிக்கை/175-338187) · `ta`
-
-President Wickremesinghe announced measures to resolve salary disputes across government sectors, marking the 60th anniversary of Leslie Devendra's trade union work. He highlighted economic progress and promised Rs. 10,000 for public servants this year, with efforts to boost private sector wages. Acknowledging the impact of the last economic crisis, he pledged to form a committee to address salary issues nationwide, emphasizing collective effort in recovery.
-
-🟩
-
-President Ranil Wickremesinghe says steps will be taken to address salary conflicts in all sectors of the government.
-
-The President was speaking at a function held at the Bandaranaike Memorial International Conference Hall in Colombo yesterday to mark the 60 years of the trade union work of Leslie Devendra.. When he further addresses,
-
-Economically we are starting to stand up. We have to walk. Arrangements were made to pay Rs. 10,000 for public servants this year. At the same time, efforts have been made to increase salaries in the private sector.
-
-Even if we do not have the economic strength to provide more relief this year, we will have to make some concessions to civil servants next year.. For this purpose, we have decided to appoint a committee to resolve the salary conflicts in all sectors of the state sector.
-
-...
-
-[Data](articles/3800e729.json)
-
-[Extended Data](ext_articles/3800e729.ext.json)
-
----
-
-### Hydraulic
-
-*2024-05-31 02:01:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கங்கைகளின்-நீர்மட்டம்-உயர்வு/175-338186) · `ta`
-
-Due to heavy rainfall, water levels in rivers like Mahaweli, Kelani, Kalu, and Nilwala are rising. The Irrigation Department advises caution among residents near the Ganges. Additionally, two sluice gates of the Kenion Reservoir were opened due to weather conditions on the central hills' western slopes. Engineers warn that reservoirs including Wimalasurendra, Kasalri, and Mouseakalai are nearing overflow.
-
-🟩
-
-The Irrigation Department has said that the water level of Mahaweli, Kelani, Kalu and Nilwala is increasing due to the continuing inclement in the country.
-
-The department said that residents near the Ganges are very cautious.
-
-At the same time, 2 skilletes of the Kenion Reservoir opened yesterday morning due to inclement weather on the western slopes of the central hill country.
-
-Engineers responsible for the reservoirs have said that the water of the reservoirs of Wimalasurendra, Kasalri and Mouseakalai has reached the level of overflowing.. (A)
-
-◼️
-
-[Data](articles/b4ffd3fc.json)
-
-[Extended Data](ext_articles/b4ffd3fc.ext.json)
-
----
-
-### Hydro power
-
-*2024-05-31 01:55:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீர்-மின்-உற்பத்தி-அதிகரிப்பு/175-338185) · `ta`
-
-Heavy rains have doubled hydro power generation, up from 20% pre-rainfall to 40%, according to the Ministry of Power and Energy.
-
-🟩
-
-Heavy rains in the country have increased by about double power generation.
-
-Secretary to the Ministry of Power and Energy Sulakshana Jayawardena said that the current rainfall has increased by 40 percent.
-
-He said that before the rainy weather began, the hydraulic power generation was only 20 percent.. (A)
-
-◼️
-
-[Data](articles/a0f76567.json)
-
-[Extended Data](ext_articles/a0f76567.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-31 15:18:44**
+As of **2024-05-31 15:34:19**
 
 ## Newspaper Stats
 
@@ -26,31 +26,37 @@ adaderanasinhalalk | 4,393
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,520 (100.0%) of 27,526 articles have been extended.
+27,526 (100.0%) of 27,526 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-31 (Friday)
 
-### புத்தளம் கலப்பில் மிதந்த பீடி இலை பொதிகள்
+### Beedi leaf packs floating in the Puttalam mixture
 
 *2024-05-31 14:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/184953) · `ta`
 
-புத்தளம் கலப்பு பகுதியில் கடலில் மிதந்த நிலையில் சந்தேகத்திற்கிடமான பொதிகள் காணப்பட்டதை அவதானித்த அப்பகுதி மீனவர்கள் பொலிஸாருக்குத் தகவல் வழங்கியுள்ளனர்.
+In Puttalam, fishermen found suspicious packages containing over 320kg of beedi leaves, potentially smuggled from India, worth over 20 lakh rupees. Police are seizing them and investigating, planning to present them in court.
 
-இதன்போது, பொலிஸார் குறித்த பகுதிக்குச் சென்று பொதிகளை சோதனைக்குட்படுத்தியுள்ளபோது குறித்த உரைகளில் பீடி இலைகள் இருப்பது தெரியவந்துள்ளது.
+🟩
 
-இதன்போது 12 உரைகளில் சுமார் 320 கிலோ கிராம் பீடி இலைகள் கைப்பற்றப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+Fishermen in the Puttalam mixed area have been informed by the police who observed suspicious packages.
 
-இவ்வாறு கைப்பற்றப்பட்ட பீடி இலைகள் சுமார் 20 இலட்சம் ரூபாவிற்கும் அதிக பெறுமதியென தெரிவிக்கப்படுகின்றது.
+When the police went to the area and checked the packs, the speeches revealed that there were beedi leaves.
 
-குறித்த பீடி இலைகள் இந்தியாவிலிருந்து சட்டவிரோதமாக கடல்மார்க்கமாக கொண்டுவரப்பட்டிருக்கலாமென சந்தேகிப்பதாக பொலிஸார் தெரிவிக்கின்றனர்.
+About 320 kg of beedi leaves have been seized in 12 speech, police said.
 
-கைப்பற்றப்பட்ட பீடி இலைகளை புத்தளம் நீதிமன்றத்தில் ஆஜர்படுத்த நடவடிக்கைகளை மேற்கொண்டுள்ளதாகவும் இது தொடர்பாக விசாரணைகளை மேற்கொண்டு வருவதாகவும் புத்தளம் பொலிஸார் தெரிவித்தனர்.
+The seized beedi leaves are reported to be worth more than 20 lakh rupees.
+
+Police say they suspect the beedi leaves may have been illegally brought from India to sea.
+
+Puttalam police said that steps are being taken to bring the seized beedi leaves to the Puttalam court and are investigating the matter.
 
 ◼️
 
 [Data](articles/0cbc1bfa.json)
+
+[Extended Data](ext_articles/0cbc1bfa.ext.json)
 
 ---
 
@@ -102,21 +108,27 @@ Further investigations are being carried out by the Children's and Women Bureau 
 
 ---
 
-### வரலாறு
+### History
 
 *2024-05-31 14:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/184950) · `ta`
 
-மறைந்த முன்னாள் தமிழக முதலமைச்சர் எம்.ஜி.ஆர். இலங்கைக்கு வருகை தந்தபோது, வீரகேசரி பத்திரிகை நிறுவனத்துக்கும் அடியெடுத்து வைத்துள்ளார்.
+MGR, former CM of Tamil Nadu, visited Sri Lanka where Veerakesari, his magazine, ceased publication. He described Veerakesari as his personal platform to express his thoughts and actions. During a shooting incident, sharing his health news comforted many, appearing on Weerakesari's first page in 1967 alongside Kesari.
 
-"வீரகேசரி என் சொந்த பத்திரிகை. என் எண்ணங்களையும் என் செயல்களையும் இலங்கைவாழ் தமிழர்கள் உடனுக்குடன் அறிய, தெளிவாக புரியவைக்க எனக்கு உதவியது வீரகேசரி...." என்று தன் நினைவுகளை பகிர்ந்துகொண்டார்.
+🟩
 
-அது மட்டுமன்றி, "துப்பாக்கிச் சூடு சம்பவத்தின்போது என் உடல் நிலை பற்றி அறியத் துடித்த இலட்சக்கணக்கான மக்களுக்கு ஆறுதல் அளிக்கும் வகையில் என் உடல் நலம் பற்றிய செய்திகளை வீரகேசரி தாங்கி வந்தது. அதைப் பார்த்து பல்லாயிரக்கணக்கானவர்கள் ஆறுதல் அடைந்தார்கள்...." என  கையில் கேசரியை வைத்துப் பார்த்தபடி தமிழ்நாட்டின் நந்தம்பாக்கத்தில் உள்ள தனது தோட்டத்திலிருந்து எம்.ஜி.ஆர் பேட்டி கொடுத்தபோதே இவ்விதமாக கூறியிருந்தார்.
+Former Tamil Nadu Chief Minister MGR. When he visited Sri Lanka, Veerakesari also stepped down to the newspaper company.
 
-1967ஆம் ஆண்டு இதே திகதியில் ( மே 31) வெளியான வீரகேசரி பத்திரிகையின் முதல் பக்கத்தில் கேசரியுடன் எம்.ஜி.ஆர்....
+“Veerakesari is my own magazine. Weerakesari helped me to understand and understand my thoughts and my actions immediately. ”He shared his memories.
+
+Not only that, he said, "I was bearing the news about my health to comfort the millions of people who were aware of my health during the shooting incident.. Tens of thousands of people were comforted by it.
+
+MGR with Kesari on the first page of the Weerakesari magazine published on the same date on the same date 1967.
 
 ◼️
 
 [Data](articles/9bd1821e.json)
+
+[Extended Data](ext_articles/9bd1821e.ext.json)
 
 ---
 
@@ -272,6 +284,8 @@ Our sister paper Daily Lankadeepa won seven awards at Miracle award ceremony hel
 
 [Data](articles/1ab69b51.json)
 
+[Extended Data](ext_articles/1ab69b51.ext.json)
+
 ---
 
 ### Suspect arrested for stealing British lady’s bag on bus
@@ -331,6 +345,8 @@ A demonstration aimed at halting the Israeli actions in the Gaza Strip took plac
 ◼️
 
 [Data](articles/10765ebc.json)
+
+[Extended Data](ext_articles/10765ebc.ext.json)
 
 ---
 
@@ -1062,19 +1078,25 @@ The operation was organized by the Criminal Investigation Department from the CI
 
 ---
 
-### පලස්තින රාජ්‍යයට චිනයේ සහාය
+### France to Palestinia
 
 *2024-05-31 09:36:37* · [`adalk`](https://www.ada.lk/breaking_news/පලස්තින-රාජ්‍යයට-චිනයේ-සහාය/11-409938) · `si`
 
-පූර්ණ ස්වාධීනත්වය හිමි පලස්තීන රාජ්‍යයක් ස්ථාපනය කිරීමට සහාය දෙන බව අරාබි රාජ්‍ය ස‍හයෝගිතා සංසදයට එක්වෙමින් චීන ජනපති කියයි.
+Xi Jinping, at the Chinese Arabian Cooperation Forum, expressed China's commitment to fostering strong ties with Arab nations for global stability. He highlighted China's readiness to cooperate, respecting international laws and history. China aims to enhance bilateral relations through large-scale investments, energy partnerships, and cultural exchanges. Xi Jinping reaffirmed China's support for a Palestinian state in East Jerusalem, emphasizing the importance of peace and justice.
 
-චීන ජනාධිපති ෂී ජින් පිං මහතා චීන අරාබි රාජ්‍ය ස‍හයෝගිතා සංසදයේ 10 වැනි අමාත්‍ය සමුළුවේ සමාරම්භක උ‍ළෙලට එක් ව එහි ප්‍රධාන දේශනය පවත්වමින් ඔහු මේ බව කිය. එම උත්සවය බෙයිජිං අගනුවර දී ඊයේ (30 ) පෙරවරුවේ පැවැත්විණ.
+🟩
 
-අරාබි රටවල් සමග එක්ව චීන-අරාබි රාජ්‍ය සම්බන්ධතාව ලෝක සාමය හා ස්ථාවරත්වය සහතික කිරීම පිළිබඳ ආදර්ශ සබඳතාවක් ලෙසට සංවර්ධනය කිරීම චීනයේ අපේක්ෂාවක් බව ෂී ජින්පිං මහතා එහිදී ප්‍රකාශ කළේය. එක්සත් ජාතීන්ගේ ප්‍රඥප්තියට හා මූලධර්මයන්ටත්, විවිධ රටවල ජනතාවගේ තෝරාගැනීම් හා ඓතිහාසික සත්‍යයන්ටත් ගරු කරමින්, උග්‍ර වී ඇති ප්‍රශ්නවලට තිරසර විසඳුම් සොයා ගැනීම සඳහා අරාබි රටවල් සමග එක්ව ප්‍රයත්න දැරීමට චීනය සූදානම් බව ද ෂී ජින් පිං මහතා අවධාරණය කළේය.
+Chinese President tells the Arab General Cooperation Forum that supports the establishment of a papers establishment of full independence.
+
+Chinese President Xi Jin Pin conducting the keynote address at the inauguration ceremony of the Chinese Arabian Cooperation Forum.. The ceremony was held in the capital yesterday (30) morning.
+
+Shi Jinping said China hopes to develop the Chinese-Arabian Kingdom relationship with Arab countries as a motivation to ensure global and stability.. Shi Jin Pin said China is ready to try to try to attempt to strive with the Arab countries, respecting the United Nations Charter and Principles and the Historical Truths and historical truths.
 
 ...
 
 [Data](articles/0ee18961.json)
+
+[Extended Data](ext_articles/0ee18961.ext.json)
 
 ---
 
@@ -1334,21 +1356,29 @@ The decision was announced after the jurors were discussed for nearly 12 hours.
 
 ---
 
-### ශ්‍රී ලංකා පොලිසියේ මානව හිම්කම් උල්ලංඝණ ලැයිස්තුව තවත් දිගු වෙයි
+### Sri Lanka Police Human Himmel Violence
 
 *2024-05-31 07:51:12* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cw993pn4pl9o) · `si`
 
-ශ්‍රී ලංකා පොලිසියේ මානව හිම්කම් උල්ලංඝණ ලැයිස්තුව තවත් දිගු වෙයි
+In 2016, the Supreme Court of Sri Lanka found the police guilty of violating the fundamental rights of a woman and her mother during an investigation in the Rajagiriya area. The court ordered compensation and disciplinary action against the officers involved. The case highlighted concerns over police conduct and the potential for "state terrorism."
 
-2016 වසරේ රාජගිරිය ප්‍රදේශයේ සිදුවූ මහත් ආන්දෝලනයකට තුඩු දුන් රිය අනතුරු සිද්ධිය සම්බන්ධයෙන් හිටපු අමාත්‍ය පාඨලී චම්පික රණවකගේ රියදුරු සොයාගැනීම සඳහා ඔහුගේ බිරිඳ, අත දරුවා සහ ඇයගේ මව අනීතික ලෙස කොළඹ අපරාධ කොට්ඨාසයට රැගෙන විත් එහි පැය කිහිපයක් රඳවා ගැනිම තුළින් පොලිසිය මූලික මිනිස් අයිතිවාසිකම් උල්ලංඝණය කර ඇතැයි ශ්‍රේෂ්ඨාධිකරණය අද (මැයි 31 වැනිදා) තීන්දු කළේය.
+🟩
 
-ඒ අනුව අදාළ මූලික අයිතිවාසිකම් කඩ කිරීමට වගකිවයුතු කොළඹ අපරාධ කොට්ඨාසයේ එවක වැඩබලන අධ්‍යක්ෂවරයා ලෙස කටයුතු කළ නෙවිල් සිල්වා සහ එහි ප්‍රධාන පොලිස් පරීක්ෂක ඒ. මෙත්තානන්ද යන නිලධාරීන් සිය පුද්ගලික මුදල් වලින් රුපියල් 250000/- බැගින් පෙත්සම්කාරියට වන්දි ගෙවිය යුතු බවත් නියෝග කෙරුණි.
+Sri Lanka Police Human Himmel Violence
 
-ඊට අමතරව අදාළ නිලධාරීන් දෙදෙනා සම්බන්ධයෙන් සුදුසු විනය ක්‍රියාමාර්ග ගැනීමට පියවර ගන්නා ලෙසත් විනිසුරු මඩුල්ල විසින් ජාතික පොලිස් කොමිසමට නියෝග කරනු ලැබීය.
+The Supreme Court has violated his wife and her mother to find the driver of the Rajagiriya area in 2016 to the Colombo Crimes Division.Decided today (on 31st).
+
+Accordingly, Neville Silva and its Chief Inspector of the Colombo Crimes Division, who is responsible for violating the fundamental rights and its Chief Inspector of Police. The officers of Meetananda were ordered to pay compensation to the petitioner of Rs. 250000 / -.
+
+In addition, the Judge Madulla ordered the National Police Commission to take appropriate disciplinary action on the two relevant officers.
+
+The Supreme Court Judge S. Westirajah, a fundamental rights sent by the Dilum, Patali Ranawaka, who was the driver of former Minister Patali Ranawaka.The verdict was published.
 
 ...
 
 [Data](articles/43eface6.json)
+
+[Extended Data](ext_articles/43eface6.ext.json)
 
 ---
 

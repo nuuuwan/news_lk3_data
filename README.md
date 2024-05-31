@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-31 16:18:37**
+As of **2024-05-31 16:34:57**
 
 ## Newspaper Stats
 
-*Scraped **27,535** Articles*
+*Scraped **27,537** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 363
 islandlk | 1,488
 economynextcom | 1,572
 dailyftlk | 1,612
-adalk | 2,350
-adaderanalk | 3,134
+adalk | 2,351
+adaderanalk | 3,135
 tamilmirrorlk | 3,228
 virakesarilk | 4,244
 dailymirrorlk | 4,360
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,396
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,535 (100.0%) of 27,535 articles have been extended.
+27,535 (100.0%) of 27,537 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -111,6 +111,20 @@ Meanwhile, CCPI Core in May 2024 has decreased to 177.0 from 177.3 in April 2024
 [Data](articles/7a461c12.json)
 
 [Extended Data](ext_articles/7a461c12.ext.json)
+
+---
+
+### 2023 A/L results released
+
+*2024-05-31 15:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/99563/2023-al-results-released) · `en`
+
+The results of the 2023 (2024) G.C.E. Advanced Level examination have been released online, the Department of Examination announced.
+
+Accordingly, the results can be viewed on the following website: www.doenets.lk.
+
+◼️
+
+[Data](articles/513a2bf2.json)
 
 ---
 
@@ -209,6 +223,20 @@ Our sister paper Daily Lankadeepa won seven awards at Miracle award ceremony hel
 [Data](articles/1ab69b51.json)
 
 [Extended Data](ext_articles/1ab69b51.ext.json)
+
+---
+
+### පිටකොටුවේදී නැතිවූ විදේශීය කතගේ බෑගය දින 5කින් පසු කැලනියෙන් හමුවෙයි
+
+*2024-05-31 14:32:57* · [`adalk`](https://www.ada.lk/breaking_news/පිටකොටුවේදී-නැතිවූ-විදේශීය-කතගේ-බෑගය-දින-5කින්-පසු-කැලනියෙන්-හමුවෙයි/11-409941) · `si`
+
+ඉකුත් 25දින පිටකොටුව බැස්ටියන් මාවත බස්නැවතුම්පලේ බස් රථයක් තුලදී විදේශීය ජාතික කාන්තාවකගේ රුපියල් ලක්ෂ 25 කට අධික වටිනාකමින් යුත් දේපල සහිත ගමන් බෑගයක් සොරකම් කිරීමක් සම්බන්ධයෙන් පිට කොටුව පොලිස් ස්ථානයට ලැබූ පැමිනිල්ලක් මත විමර්ශත ආරම්භ කර තිබිණි.
+
+ඒ් අනුව සොරකම සිදුකරන ලද සැකකරු අද (31) අළුයම කැළණිය පෙතියාගොඩ පුදේශයේදී පිටකොටුව පොලිස් ෂථානයේ නිළධාරීන් පිරිසක් විසින් අත්අඩංගුවට ගත් බව වාර්ථාවෙයි. එහිදී සොරාගන්නා ලදබව කියන බෑගයෙහ වූ ලැප්ටෙප් පරිගණකය කැමරාව හා බැංකු කාඩ්පත් සොයාගත් බව පෙලීසිය පවසයි.
+
+◼️
+
+[Data](articles/a6809f71.json)
 
 ---
 
@@ -2169,37 +2197,5 @@ A memorial service in remembrance of the late Ambassador Jean-François Pactet o
 [Data](articles/ce37ea90.json)
 
 [Extended Data](ext_articles/ce37ea90.ext.json)
-
----
-
-### Several SLPP and SLFP members join SJB
-
-*2024-05-31 05:12:48* · [`dailyftlk`](https://www.ft.lk/news/Several-SLPP-and-SLFP-members-join-SJB/56-762392) · `en`
-
-Several local Gover-nment members from the Sri Lanka Podujana Peramuna (SLPP) and the Sri Lanka Freedom Party (SLFP) crossed over to the Samagi Jana Balawegaya (SJB) yesterday. According to a statement from the SJB, these politicians have aligned with the party to support opposition leader Sajith Premadasa’s country-building program.
-
-Among those who crossed over are former SLPP Polonnaruwa District Deputy Minister Nandasena Herath, SLPP Eastern Provincial Councillor Ariyawathi Galappaththi, SLPP Western Provincial Councillor Dilip Kumara Rajapaksha, and SLPP Western Provincial Councillor Anil Kumara Wijesinghe. Additionally, former SLFP member of the Western Provincial Council from Gampaha District Rehensiri Varagoda and former SLFP member of the Kalutara Municipal Council Prasanna Withanage have also joined the SJB.
-
-◼️
-
-[Data](articles/9e0bfca3.json)
-
-[Extended Data](ext_articles/9e0bfca3.ext.json)
-
----
-
-### Lolc Finance concludes a remarkable year with its highest profits ever recorded
-
-*2024-05-31 04:45:00* · [`islandlk`](http://island.lk/lolc-finance-concludes-a-remarkable-year-with-its-highest-profits-ever-recorded/) · `en`
-
-LOLC Finance PLC, the largest non-banking financial institution in Sri Lanka has reported exceptional performance recording Rs.21.5 billion profits for the fiscal year 2023/24 with 39% YoY growth, representing an ROE of 20%. This outstanding performance underscores the company’s strategic excellence and robust market position, achieved through a series of strategic consolidations and a steadfast commitment to cost efficiency, digital transformation, and customer-centricity.
-
-As at the end of the fiscal year, the Company reported a portfolio of Rs. 250 billion and a deposit base of Rs. 206 billion along with a capital base of Rs. 122 billion, the largest in the NBFI sector. Through these results, the company not only demonstrates its dominance in the non-banking financial industry but also its successful navigation through an evolving macroeconomic landscape and the company’s ability to adapt and thrive amidst challenges.
-
-...
-
-[Data](articles/9f4c2bf0.json)
-
-[Extended Data](ext_articles/9f4c2bf0.ext.json)
 
 ---

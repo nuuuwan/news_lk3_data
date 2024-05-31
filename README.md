@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-31 23:33:59**
+As of **2024-05-31 23:53:30**
 
 ## Newspaper Stats
 
-*Scraped **27,603** Articles*
+*Scraped **27,614** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,40 @@ dbsjeyarajcom | 267
 bbccomsinhala | 273
 newsfirstlk | 363
 islandlk | 1,488
-economynextcom | 1,575
+economynextcom | 1,583
 dailyftlk | 1,612
 adalk | 2,360
 adaderanalk | 3,143
 tamilmirrorlk | 3,234
 virakesarilk | 4,260
-dailymirrorlk | 4,371
+dailymirrorlk | 4,374
 adaderanasinhalalk | 4,409
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,603 (100.0%) of 27,603 articles have been extended.
+27,603 (100.0%) of 27,614 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-31 (Friday)
+
+### CA orders authorities to prosecute individuals who illegally kept elephants
+
+*2024-05-31 23:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/CA-orders-authorities-to-prosecute-individuals-who-illegally-kept-elephants/108-283818) · `en`
+
+Colombo, May 31 (Daily Mirror) -  The Court of Appeal today issued a Writ of Mandamus directing the Director General of Wildlife Conservation, CID, IGP and the Attorney General to take necessary steps to prosecute all individuals who illegally kept the elephants referred to the Colombo Chief Magistrate’s Court and Matale Magistrate’s Court, who have not been lawfully registered in terms of the law.
+
+The Court of Appeal Justices Sobhitha Rajakaruna and Justice Dhammika Ganepola delivered this judgement pursuant to four writ petitions filed by the Centre for Eco-Cultural Studies, Justice for Animals Sri Lanka and Centre for Environmental Justice challenging the registration of elephants in terms of the new regulations issued by the government.
+
+The Court further issued a Writ of Certiorari quashing the decision of the Chief Magistrate’s Court of Colombo and Magistrate’s Court in Matale, releasing elephants back to the perpetrators.
+
+...
+
+[Data](articles/256834a1.json)
+
+---
 
 ### Sinapek changes the price
 
@@ -52,6 +68,26 @@ A liter of auto diesel has been reduced by Rs.13 and its new price is Rs. 314.
 
 ---
 
+### Ranil trying to open doors to economic hitmen like Elon Musk: Hadunnetti
+
+*2024-05-31 22:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ranil-trying-to-open-doors-to-economic-hitmen-like-Elon-Musk-Hadunnetti/108-283841) · `en`
+
+Colombo, May 31 (Daily Mirror)- President Ranil Wickremesinghe is trying to open doors to economic hitmen like billionaire Elon Musk, George Soros and James Packer by introducing the Economic Transformation Bill, NPP Economic Council member Sunil Hadunnetti said.
+
+Addressing a meeting with the business community in Badulla recently, he said President Ranil Wickremesinghe claimed that Elon Musk is coming to Sri Lanka to provide WIFI.
+
+"Ranil said in 2015 that free WIFI will be made available to all. He has now dropped the word 'free' and says WIFI will be given in 2024. Elon Musk will never give free WIFI," he said.
+
+He said Ranil Wickremesinghe claimed earlier that James Packer is coming to invest in Sri Lanka. But he never came with any investments.
+
+Hadunnetti said a publicity stunt is being operated through a separate company by using government funds to show that foreign investors are coming to the country.
+
+...
+
+[Data](articles/006c2f3a.json)
+
+---
+
 ### Police arrest most wanted suspect who assisted ISIS-linked Sri Lankans arrested in India
 
 *2024-05-31 22:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/99572/police-arrest-most-wanted-suspect-who-assisted-isis-linked-sri-lankans-arrested-in-india) · `en`
@@ -65,6 +101,24 @@ Police Media Spokesman DIG Nihal Thalduwa said the arrested suspect has been ide
 [Data](articles/55daf9d7.json)
 
 [Extended Data](ext_articles/55daf9d7.ext.json)
+
+---
+
+### CID arrests suspected ISIS terrorist coordinator
+
+*2024-05-31 22:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/CID-arrests-suspected-ISIS-terrorist-coordinator/108-283832) · `en`
+
+Colombo, May 31 (Daily Mirror) - The Criminal Investigation Department arrested a wanted suspect, Gerard Pushparaja Osman Gerard, suspected to be a close relative of the person who co-ordinated the sending of the four alleged ISIS terrorists from Sri Lanka to India and who were arrested in India.
+
+Earlier, the CID announced a reward of Rs. 2 million for information leading to the arrest of the suspect.
+
+The suspect was arrested in a join ooperaion conducted by the police in Colombo.
+
+Sri Lankan security forces suspect that the 46-year-old suspect acted as a handler of the four Sri Lankan nationals who were arrested at Ahmedabad airport in India last week for suspected links with the banned Islamic State (ISIS) outfit.
+
+...
+
+[Data](articles/8c03c52b.json)
 
 ---
 
@@ -345,6 +399,26 @@ The Examinations Department has announced the top island rankings for various st
 [Data](articles/7cfdd11c.json)
 
 [Extended Data](ext_articles/7cfdd11c.ext.json)
+
+---
+
+### SAITM to be handed over to University of Moratuwa
+
+*2024-05-31 20:32:00* · [`economynextcom`](https://economynext.com/saitm-to-be-handed-over-to-university-of-moratuwa-165694/) · `en`
+
+ECONOMYNEXT – The South Asian Institute of Technology (SAITM) and the Neville Fernando Teaching Hospital (NFTH) will be handed over to the University of Moratuwa Faculty of Medicine in August, the president’s media division said.
+
+This is for the University to make pre-arrangements before commencing academic studies in January 2025.
+
+Successive governments’ efforts to open private medical faculties have ended with strong protests from leftists and Marxists.
+
+SAITM and before it the North Colombo University in Ragama were forced to close after such protests.
+
+Later, the North Colombo University was incorporated as the medical faculty of state-run University of Kelaniya. (Colombo/May31/2024)
+
+◼️
+
+[Data](articles/50eb6516.json)
 
 ---
 
@@ -782,6 +856,24 @@ The announcement was made by the President’s Media Division (PMD).
 
 ---
 
+### Sri Lanka renewables, power lines without tender to be legalized in new law: IESL
+
+*2024-05-31 18:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-renewables-power-lines-without-tender-to-be-legalized-in-new-law-iesl-165658/) · `en`
+
+ECONOMYNEXT – Procurement of renewable energy as well as transmission lines without competitive tenders will be legalized in a planned electricity reform law, the Institution of Engineers of Sri Lanka has warned.
+
+“Despite declaring the objects of the proposed Act to be “allowing open competitive procurement of new generation capacity including renewable energy”, the body of this Act states the complete opposite,” the IESL said.
+
+“The present practice of procuring renewable energy projects at higher prices through negotiated deals and at feed-in-tariffs that never decrease, has been further strengthened by incorporating it into the main electricity legislation in the country, when most countries have given up such practices long ago to make way for competition.
+
+“The proposed Act does not have clauses that bring any relief to Sri Lanka’s electricity customer, burdened with prices almost double that of competitor countries in the region.
+
+...
+
+[Data](articles/71872dc2.json)
+
+---
+
 ### SAITM and NFTH to be handed over to Moratuwa Uni. in August
 
 *2024-05-31 18:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/99567/saitm-and-nfth-to-be-handed-over-to-moratuwa-uni-in-august) · `en`
@@ -896,6 +988,46 @@ This year's Dialog Schools Rugby League will commence this year with a competiti
 
 ---
 
+### Sri Lanka inflation 2.5-pct in 20-months to May 2024, food deflates 5.7-pct
+
+*2024-05-31 17:34:00* · [`economynextcom`](https://economynext.com/sri-lanka-inflation-2-5-pct-in-20-months-to-may-2024-food-deflates-5-7-pct-165647/) · `en`
+
+ECONOMYEXT – Sri Lanka’s inflation over the 12-months to May 2024 was 0.9 percent with the central bank only generating 2.5 percent inflation since September 2022 when its deflationary policy started to show up in the balance of payments as a surplus, official data shows.
+
+Prices measured by the widely-watched Colombo Consumer Price Index fell 0.6 percent in the month of May. The index fell from 195.2 points to 194.1.
+
+The food and non-alcoholic price index fell 1.2 percent to 232.6 points from 235.4 a month earlier.
+
+Sri Lanka’s central bank has been operating deflationary policy and also allowing the rupee to appreciate over the past year bringing down traded price in particular which some non-traded items continued to go up as the price structure adjusted to a collapse of the currency in 2022.
+
+Educations, recreation and culture, while food, clothing and also transport seems to have finished inflating in response to the currency collapse.
+
+...
+
+[Data](articles/57b8fb82.json)
+
+---
+
+### Dilshan Rodrigo made Chief Executive of Sri Lanka’s Union Bank
+
+*2024-05-31 17:30:00* · [`economynextcom`](https://economynext.com/dilshan-rodrigo-made-chief-executive-of-sri-lankas-union-bank-165634/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Union Bank of Colombo Plc said Dilshan Rodrigo, an experienced banker, has been appointed Director/CEO, succeeding Indrajit Wickramasinghe who held the position for 9 years.
+
+Rodrigo is a banker with a track record of senior leadership roles across multiple industries and previously served as executive director/chief operating officer at Hatton National Bank.
+
+He is the current Deputy CEO, and will assume the role of Director/CEO of Union Bank on August 16, subject to regulatory approvals. Rodrigo will spearhead the organization’s next phase of growth.
+
+Wickramasinghe is an accomplished professional with a successful management career spanning over 35 years across local and multinational organizations in the FMCG and financial services sectors.
+
+He has held numerous non-executive board appointments in sectors such as insurance, wealth management, stock brokering, property management, finance companies, and commercial banking.
+
+...
+
+[Data](articles/324a3af4.json)
+
+---
+
 ### Work on Kurunegala Foreign Employment Agency
 
 *2024-05-31 17:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197218) · `si`
@@ -972,6 +1104,26 @@ Maldives Minister of State for Foreign Affairs Sheryna Abdul Samad, Additional S
 
 ---
 
+### Sri Lanka rupee closes weaker at 301.90/302.00 to US dollar
+
+*2024-05-31 17:08:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-weaker-at-301-90-302-00-to-us-dollar-165632/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed weaker at 301.90/302.00 to the US dollar on Friday, from 301.85/90 the previous day, dealers said. Bond yields were slightly up.
+
+A bond maturing on 15.12.2026 closed up at 9.80/95 percent from 9.70/80 percent.
+
+A bond maturing on 15.09.2027 closed stable at 10.40/55 percent.
+
+A bond maturing on 01.07.2028 closed up at 10.80/90 percent from 10.70/80 percent.
+
+A bond maturing on 15.01.2030 closed up at 11.65/75 percent from 11.60/80 percent.
+
+◼️
+
+[Data](articles/48e12972.json)
+
+---
+
 ### The body of the dead elephant
 
 *2024-05-31 17:05:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/உயிரிழந்த-யானையில்-உடலால்-துர்நாற்றம்/72-338202) · `ta`
@@ -1035,6 +1187,52 @@ Minor Hotels has over 550 hotels and resorts and serves customers in 56 countrie
 [Data](articles/1debd9be.json)
 
 [Extended Data](ext_articles/1debd9be.ext.json)
+
+---
+
+### NH Collection brand enters Sri Lanka replacing Mövenpick at Softlogic hotel
+
+*2024-05-31 17:01:00* · [`economynextcom`](https://economynext.com/nh-collection-brand-enters-sri-lanka-replacing-movenpick-at-softlogic-hotel-165543/) · `en`
+
+ECONOMYNEXT – Softlogic Holdings said its Colombo city hotel will be operated by Thailand-based Minor leisure group under its upmarket NH Collection brand from June 1.
+
+“The debut of the NH Collection Hotels & Resorts brand in Sri Lanka is an indication of the untapped potential and opportunity for tourism in Sri Lanka, particularly in the city of Colombo,” Softlogic said in a stock exchange filing.
+
+The hotel has 219 rooms and has so far been operated by Movenpick, hotels and resorts.
+
+Minor Hotels has three other properties in Sri Lanka – Anantara Kalutara Resort, Anantara Peace Haven Tangalle Resort and Avani Kalutara Resort.
+
+The Softlogic hotel property, which consists of 219 rooms and suites providing an expansive view of the Indian ocean and Colombo city, will be branded as the “NH Collection Colombo Hotel”.
+
+Minor Hotels has over 550 hotels and resorts and serves customers in 56 countries, the statement said. (Colombo/May31/2024)
+
+◼️
+
+[Data](articles/33482fa1.json)
+
+---
+
+### Sri Lanka stocks close down, mixed sentiments on banks
+
+*2024-05-31 17:01:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-mixed-sentiments-on-banks-165626/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed down on Friday, data on its site showed.
+
+The broader All Share Index closed down 0.52 percent, or 63.64 points, at 12,106; while the S&P SL20 Index closed down 0.47 percent, or 16.77 points, at 3,569.
+
+Turnover was 1.1 billion. Most of this came from the food, beverage and tobacco stocks (Rs287mn) and capital goods stocks (Rs251mn).
+
+Melstacorp Plc saw the most active volumes traded in the day. The share closed down at 88.00.
+
+Selling pressure was seen on some banking stocks. Sampath Bank Plc closed down at 78.40, Commercial Bank of Ceylon Plc closed down at 105.75, and DFCC Bank Plc closed down at 77.40.
+
+However, Hatton National Bank Plc closed up at 195.25, and National Development Bank Plc closed up at 78.80.
+
+There was a net foreign inflow of 121 million. (Colombo/May31/2024)
+
+◼️
+
+[Data](articles/808698a1.json)
 
 ---
 
@@ -1924,6 +2122,30 @@ Investigations revealed that the tourist, a YouTuber had arrived in Sri Lanka to
 
 ### Sri Lanka moves to ban ‘Happy Hour’ leave hotels staggered
 
+*2024-05-31 13:34:00* · [`economynextcom`](https://economynext.com/sri-lanka-moves-to-ban-happy-hour-leave-hotels-staggered-165586/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s hotels have protested a move by the island’s alcohol and tobacco control agency to ban the ‘Happy Hour’, with the threat to fine each director 50,000 rupees if discounts are offered on alcohol.
+
+“It is serious matter for the industry,” Tourist Hotels Association of Sri Lanka President M Shanthikumar said.
+
+“The Happy Hour is not only found in Sri Lanka. It is across the world.”
+
+The National Authority on Tobacco and Alcohol had informed a city hotel that received complaints that hotels were offering discounts on drinks during ‘Happy Hour’ promotions.
+
+The practice was viewed as a violation of the NATA Act, the agency had decided to direct all hotels to stop giving discounts on alcohol.
+
+Each director will be fined 50,000 rupees if hotels continued to make customers happy with discounts.
+
+Shanthikumar said representations have been made to the Sri Lanka Tourist Development Authority to help resolve the crisis.
+
+...
+
+[Data](articles/03f67d08.json)
+
+---
+
+### Sri Lanka moves to ban ‘Happy Hour’ leave hotels staggered
+
 *2024-05-31 13:34:00* · [`economynextcom`](https://economynext.com/sri-lanka-moves-to-ban-happy-hour-leaves-hotels-staggered-165586/) · `en`
 
 ECONOMYNEXT – Sri Lanka’s hotels have protested a move by the island’s alcohol and tobacco control agency to ban the ‘Happy Hour’, with the threat to fine each director 50,000 rupees if discounts are offered on alcohol.
@@ -2073,241 +2295,5 @@ It is noteworthy that the government was accused of loss of 1.84 billion rupees 
 [Data](articles/247cdd7c.json)
 
 [Extended Data](ext_articles/247cdd7c.ext.json)
-
----
-
-### Hair driver who snatched the boy's life
-
-*2024-05-31 12:41:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறுவனின்-உயிரை-பறித்த-ஹேர்-ட்ரையர்/175-338197) · `ta`
-
-In Puttalam, a 17-year-old boy named Duan Salim Muhammad Sahran died suddenly after being electrocuted by a hairdryer. He was a student at Puttalam Zahira National School and had recently taken the GCE Ordinary Level Examination. The incident occurred on Friday, 24th, and despite immediate attention, he passed away the next day.
-
-🟩
-
-A youth who was diagnosed with electricity in Puttalam and was treated at the Puttalam Base Hospital, died yesterday (30) without treatment.
-
-Duan Salim Muhammad Sahran (age 17), a young man from Fifth Cross Street, Puttalam, has died, police said.
-
-The young man was bathed in his home on Friday, the 24th, and the electricity was hit by a hair dryer.
-
-The sudden death investigator of the Puttalam area, Deshamanya Badurdeen Muhammad Hizam, conducted a death investigation into the death of a youth, and handed over the death of Janasa to the family.
-
-He is a student of the Puttalam Zahira National School, which ended last month.. It is noteworthy that he appeared for the GCE Ordinary Level Examination. Remble
-
-◼️
-
-[Data](articles/90864914.json)
-
-[Extended Data](ext_articles/90864914.ext.json)
-
----
-
-### Yall. Cannot be carried out to the district
-
-*2024-05-31 12:37:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/யாழ்-மாவட்டத்திற்கு-வெளியே-கொண்டு-செல்ல-முடியாது/71-338196) · `ta`
-
-At a District Development Committee meeting, it was decided that limestone extraction and transport from Jaffna to other districts require permission due to environmental concerns and local demand. Violators face charges, and stricter monitoring is planned. Authorities also aim to prevent soil erosion from neighboring districts.
-
-🟩
-
-Jaffna without permission. A decision has been taken at the District Development Committee meeting that limestone cannot be transported from the district to outer districts.
-
-Yall. District Development Committee Meeting. S.. M.. Charles and Minister Douglas Devananda were held at the auditorium of the District Secretariat yesterday.
-
-The Department of Development Committee at the Development Committee meeting on charges of being transported to outer districts without any permission in the Jaffna district.
-
-It was reported that in some areas without a permit, the limestone was excavated and transported to the outer districts. It was stated that the limestone should be excavated in accordance with the rules and used it for local demand. The Geological Survey and Mining Bureau officials have issued a directive to seek permits and permits for those who engage in excavations for agricultural activity and to take a series of surveillance to see if the permit regulations are appropriate.
-
-...
-
-[Data](articles/2187c61f.json)
-
-[Extended Data](ext_articles/2187c61f.ext.json)
-
----
-
-### Relatives of those who have disappeared against the release of former Naval Commander in Colombo
-
-*2024-05-31 12:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/184944) · `ta`
-
-Relatives and human rights groups protested the release of former Navy Commander Vasanthakaranagoda, linked to the abduction and murder of 11 youths in Colombo. The commander had filed charges against 14 individuals, including himself, but sought an injunction to halt the trial pending psychological evaluations. Critics, including the head of the Missing Families Organization, accuse the Attorney General of attempting to withdraw charges due to the commander's political influence, labeling the move suspicious.
-
-🟩
-
-Relatives of the missing persons protested against the release of former Navy Commander Vasanthakaranagoda from the Trial Adbar inquiry into the abduction of 11 youths in Colombo.
-
-Relatives of human rights organizations staged a demonstration as the inquiry into the Ritman, filed by the former Navy Commander, is due to be taken up by the Court of Appeal on the third day.
-
-In 2008-2009, in the 2019 lawmaker, Vasantha Karanakoda, in connection with the abduction and murder of 11 youths, he filed a charge sheet against 14 persons, including Vasantha Karanagoda.
-
-Due to the seriousness of these crimes, the trial bar, which includes the High Court Judge, was appointed for trial.
-
-In March 2020, the former Navy Commander Ritman had filed a request for an interim injunction to suspend the trial of the trail Adbhar against himself and others until his psychological inquiries were held.
-
-...
-
-[Data](articles/6418e0d9.json)
-
-[Extended Data](ext_articles/6418e0d9.ext.json)
-
----
-
-### SLIC transfers its shares in Lanka Hospitals to Treasury Secretary
-
-*2024-05-31 12:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/99560/slic-transfers-its-shares-in-lanka-hospitals-to-treasury-secretary) · `en`
-
-The Lanka Hospitals Corp. PLC announces that the company has been notified by the Department of Public Enterprise of the Ministry of Finance, Economic Stabilization and National Policies regarding a decision by the Board of Directors of Sri Lanka Insurance Corporation Limited to transfer its shares in The Lanka Hospitals Corp. PLC to the Secretary of the Treasury.
-
-Issuing a statement, the Lanka Hospitals Corporation PLC stated that they are informed that pursuant to the said decision, a request has been submitted to the Chairman of the Securities and Exchange Commission to facilitate the transfer of the said shares.
-
-...
-
-[Data](articles/c74ba9c0.json)
-
-[Extended Data](ext_articles/c74ba9c0.ext.json)
-
----
-
-### NATA directs all hotels to refrain from granting discounts on alcohol products
-
-*2024-05-31 12:07:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/NATA-directs-all-hotels-to-refrain-from-granting-discounts-on-alcohol-products/108-283796) · `en`
-
-Colombo, May 31 (Daily Mirror)- The National Authority on Tobacco and Alcohol (NATA) has directed all hotels to refrain from granting any discounts on the purchase of alcohol products, claiming that it is a punishable offence.
-
-In a letter to a leading star-class hotel in Colombo, NATA Chairman Dr. Alan Ludowyke said the NATA has received several complaints regarding hotels with liquor licenses offering discounts on the purchase of alcohol products, such as "Happy Hour" promotions.
-
-The NATA has said in the letter that this practice constitutes a clear violation of Section 37(2) of the NATA Act No. 27 of 2006 and that violation of the aforementioned section is liable to a fine of Rs. 50,000, and each director of the offending establishment will be deemed guilty of the offence.
-
-The National Authority on Tobacco and Alcohol has directed the hotel to comply with all provisions of the NATA Act No. 27 of 2006 (as amended).
-
-◼️
-
-[Data](articles/8ae8ec4b.json)
-
-[Extended Data](ext_articles/8ae8ec4b.ext.json)
-
----
-
-### NATA directs hotels to ban ’’Happy Hour’’
-
-*2024-05-31 12:07:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/NATA-directs-hotels-to-ban-Happy-Hour/155-283796) · `en`
-
-Colombo, May 31 (Daily Mirror)- The National Authority on Tobacco and Alcohol (NATA) has directed all hotels to refrain from granting any discounts on the purchase of alcohol products, claiming that it is a punishable offence.
-
-In a letter to a leading star-class hotel in Colombo, NATA Chairman Dr. Alan Ludowyke said the NATA has received several complaints regarding hotels with liquor licenses offering discounts on the purchase of alcohol products, such as "Happy Hour" promotions.
-
-The NATA has said in the letter that this practice constitutes a clear violation of Section 37(2) of the NATA Act No. 27 of 2006 and that violation of the aforementioned section is liable to a fine of Rs. 50,000, and each director of the offending establishment will be deemed guilty of the offence.
-
-The National Authority on Tobacco and Alcohol has directed the hotel to comply with all provisions of the NATA Act No. 27 of 2006 (as amended).
-
-◼️
-
-[Data](articles/fef19020.json)
-
-[Extended Data](ext_articles/fef19020.ext.json)
-
----
-
-### Railway Station between Maradana - Fort Railway Stations
-
-*2024-05-31 12:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/184941) · `ta`
-
-A train blockage between Colombo Fort and Maradana stations caused delays in train services today. The Railway Department announced further delays are expected.
-
-🟩
-
-A train was blocked between Colombo Fort and Maradana railway stations this morning.
-
-Due to this, the train services have been delayed and the train services will be delayed shortly, the Railway Department said.
-
-◼️
-
-[Data](articles/12b694c9.json)
-
-[Extended Data](ext_articles/12b694c9.ext.json)
-
----
-
-### Railway line to Battaramulla
-
-*2024-05-31 12:03:50* · [`adalk`](https://www.ada.lk/breaking_news/බත්තරමුල්ලට-දුම්රිය-මාර්ගයක්/11-409939) · `si`
-
-Prime Minister Dinesh Gunawardena announced plans to transform the Kolonnawa Urban Council area into a new city, aiming for economic and social development. A draft has been prepared for this initiative, which includes connecting the Kolonnawa railway line to Battaramulla, enhancing passenger transportation and easing Colombo's congestion. Key figures from the district and local government attended the announcement meeting.
-
-🟩
-
-Prime Minister Dinesh Gunawardena said that the Kolonnawa Urban Council area has been prepared to transform as a new city.
-
-The Prime Minister said (2024.05.28) at a meeting held at the Kolonnawa Divisional Secretariat.
-
-The Prime Minister said that a key draft has already been prepared to make the Kolonnawa Urban Council area and to develop the people of the Kolonnawa Municipal Council.
-
-Through this, the suburbs also submit to the economic and social transformation of the colonnarian area. The railway line to Kolonnawa refuge is connected to Battaramulla and has made the rail a passenger transportation. There are many main administrative institutions to reach Batta Battaramulla to Battaramulla and the Colombo congestion is also solved.
-
-Kolonnawa District Development Committee Chairman, MP Sarath Weerasekera, Parliamentarian Yadamini Gunawardena, Kolonnawa Regional Secretary Priyanath Perera and former UPFA Pradeshiya Sabha. Mrs. Prabhamei and former people were present.
-
-◼️
-
-[Data](articles/d5fcba2b.json)
-
-[Extended Data](ext_articles/d5fcba2b.ext.json)
-
----
-
-### Cabraal, four others released from Treasury Bill case
-
-*2024-05-31 11:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Cabraal-four-others-released-from-Treasury-Bill-case/108-283795) · `en`
-
-Colombo, May 31 (Daily Mirror) - The Colombo High Court today ordered to release former Governor of the Central Bank Ajith Nivard Cabraal and four others from a corruption case filed by the Bribery Commission.
-
-The Colombo High Court made this order taking into account the preliminary objections raised by the defence challenging the maintainability of the case.
-
-The Bribery Commission had filed indictments against five accused for causing a loss of Rs. 1,843.3 million to the government through the purchase of Treasury Bills in 2012.
-
-◼️
-
-[Data](articles/3820f2cf.json)
-
-[Extended Data](ext_articles/3820f2cf.ext.json)
-
----
-
-### Sri Lanka to get blue economy research fellowships from India BIMSTEC initiative
-
-*2024-05-31 11:53:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-get-blue-economy-research-fellowships-from-india-bimstec-initiative-165570/) · `en`
-
-ECONOMYNEXT – Candidates from Sri Lanka would get opportunities to conduct doctoral research in India under an initiative launched for BIMSTEC countries, the Indian High Commission in Colombo said.
-
-Under BIMReN Split-Site Doctoral Fellowships, doctoral candidates in BIMSTEC member countries get a research grant of up to 1 million Indian rupees and the opportunity to pursue studies at Indian research labs for 6-12 months.
-
-Government of India has launched BIMReN (BIMSTEC-India Marine Research Network), a joint-initiative of MEA and the Bay of Bengal Programme-Inter Governmental Organization (BOBP-IGO), to facilitate sustainable development of blue economy by networking researchers and research institutions in BIMSTEC countries.
-
-2. BIMReN aims to enable PhD students from BIMSTEC countries to conduct doctoral research in India and facilitate collaborative research among scientists / academicians from BIMSTEC countries through:
-
-...
-
-[Data](articles/0383afce.json)
-
-[Extended Data](ext_articles/0383afce.ext.json)
-
----
-
-### Vehicle importers raise doubts over govt’s promises to lift restrictions
-
-*2024-05-31 11:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/99559/vehicle-importers-raise-doubts-over-govts-promises-to-lift-restrictions) · `en`
-
-The Vehicle Importers’ Association has raised doubts regarding the government’s repeated claims of easing existing restrictions and allowing vehicle imports.
-
-President of the Sri Lanka Vehicle Importers’ Association Prasad Manage highlighted the uncertainty and potential impacts on the vehicle prices once imports are permitted.
-
-“We have been waiting for four years to import vehicles. They say it will happen soon, but no specific date is given. The Central Bank Governor said the restrictions can be relaxed gradually. Vehicles are assembled locally, but none have been exported as of yet. The government imposes taxes of around 200% when we import vehicles,” Manage alleged.
-
-He added that discussions with State Minister Ranjith Siyambalapitiya indicated that buses and lorries would be prioritized in allowing vehicle imports, followed by three-wheelers and motorcycles, with cars and vans being considered last.
-
-...
-
-[Data](articles/aba4bd01.json)
-
-[Extended Data](ext_articles/aba4bd01.ext.json)
 
 ---

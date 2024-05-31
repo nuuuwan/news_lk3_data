@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-31 06:18:49**
+As of **2024-05-31 06:59:21**
 
 ## Newspaper Stats
 
-*Scraped **27,428** Articles*
+*Scraped **27,433** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 244
 dbsjeyarajcom | 267
 bbccomsinhala | 272
 newsfirstlk | 363
-islandlk | 1,483
+islandlk | 1,488
 economynextcom | 1,568
 dailyftlk | 1,611
 adalk | 2,340
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,379
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,417 (100.0%) of 27,428 articles have been extended.
+27,421 (100.0%) of 27,433 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,6 +48,8 @@ In New York, the Permanent Mission of Sri Lanka co-hosted an impressive event at
 
 [Data](articles/40ff7e05.json)
 
+[Extended Data](ext_articles/40ff7e05.ext.json)
+
 ---
 
 ### Governance all the way down
@@ -59,6 +61,8 @@ Multiple modalities of State intervention—from regulation to planning, stimulu
 ...
 
 [Data](articles/e66e540f.json)
+
+[Extended Data](ext_articles/e66e540f.ext.json)
 
 ---
 
@@ -73,6 +77,8 @@ In the common usage, VFS has come to represent the concept of outsourcing, when 
 ...
 
 [Data](articles/307167e4.json)
+
+[Extended Data](ext_articles/307167e4.ext.json)
 
 ---
 
@@ -91,6 +97,8 @@ What is clear is that there was a huge thinking deficit on our part, as we belie
 ...
 
 [Data](articles/48e6ccff.json)
+
+[Extended Data](ext_articles/48e6ccff.ext.json)
 
 ---
 
@@ -196,6 +204,20 @@ Among those who crossed over are former SLPP Polonnaruwa District Deputy Ministe
 
 ---
 
+### Lolc Finance concludes a remarkable year with its highest profits ever recorded
+
+*2024-05-31 04:45:00* · [`islandlk`](http://island.lk/lolc-finance-concludes-a-remarkable-year-with-its-highest-profits-ever-recorded/) · `en`
+
+LOLC Finance PLC, the largest non-banking financial institution in Sri Lanka has reported exceptional performance recording Rs.21.5 billion profits for the fiscal year 2023/24 with 39% YoY growth, representing an ROE of 20%. This outstanding performance underscores the company’s strategic excellence and robust market position, achieved through a series of strategic consolidations and a steadfast commitment to cost efficiency, digital transformation, and customer-centricity.
+
+As at the end of the fiscal year, the Company reported a portfolio of Rs. 250 billion and a deposit base of Rs. 206 billion along with a capital base of Rs. 122 billion, the largest in the NBFI sector. Through these results, the company not only demonstrates its dominance in the non-banking financial industry but also its successful navigation through an evolving macroeconomic landscape and the company’s ability to adapt and thrive amidst challenges.
+
+...
+
+[Data](articles/9f4c2bf0.json)
+
+---
+
 ### Durdans Hospital elevates healthcare connectivity with Dialog Enterprise’s SDWAN Solution
 
 *2024-05-31 04:45:00* · [`islandlk`](http://island.lk/durdans-hospital-elevates-healthcare-connectivity-with-dialog-enterprises-sdwan-solution/) · `en`
@@ -229,6 +251,24 @@ Department workers V. Nagendran (age 52) and Goneswaran (46) have been admitted 
 [Data](articles/992c5594.json)
 
 [Extended Data](ext_articles/992c5594.ext.json)
+
+---
+
+### Opposition parties seek to derail Economic Transformation Bill, risking return to economic crisis – State Minister for Finance
+
+*2024-05-31 03:49:00* · [`islandlk`](http://island.lk/opposition-parties-seek-to-derail-economic-transformation-bill-risking-return-to-economic-crisis-state-minister-for-finance/) · `en`
+
+State Minister for Finance, Shehan Semasinghe stated that only those wishing to plunge the country back into an economic crisis would oppose the Economic Transformation Bill.
+
+He emphasized that while the current government is focused on an optimistic economic outlook, the opposition groups are driven solely by political motives.
+
+State Minister Semasinghe made these remarks during a press conference at the Presidential Media Centre on Thursday (30), themed ‘Collective path to a stable country’.
+
+The Economic Transformation Bill aims to increase productivity and ensure equal opportunities for all citizens of Sri Lanka, while also enhancing infrastructure. It is expected to generate job opportunities, foster economic growth, and expand the competitive market through innovative exports.
+
+...
+
+[Data](articles/a0da283c.json)
 
 ---
 
@@ -269,6 +309,20 @@ As we know theories are updating fast amid the technological revolution. The cur
 ...
 
 [Data](articles/697ac052.json)
+
+---
+
+### Sampath Bank launches innovative Mini-POS Solution, empowering SMEs to boost sales and enhance customer experience
+
+*2024-05-31 03:38:00* · [`islandlk`](http://island.lk/sampath-bank-launches-innovative-mini-pos-solution-empowering-smes-to-boost-sales-and-enhance-customer-experience/) · `en`
+
+Responding to the increasing demand for digital payment solutions within the small and medium-sized enterprise (SME) sector, Sampath Bank is the first bank in Sri Lanka to launch a MiniPOS device, proudly announcing the innovative bespoke mini-POS solution. These innovative systems, meticulously crafted to address the unique needs of SMEs, empower businesses to streamline transactions and enhance customer experiences.
+
+As SMEs continue to play an increasingly pivotal role in the market, Sampath Bank recognises the importance of providing affordable and user-friendly payment solution. Developed with portability, versatility, and ease of use in mind, the mini-POS solution offer SMEs a convenient avenue to accept payments from customers, thereby driving sales and revenue growth. Customers can seamlessly process transactions over multiple payment schemes such as Visa, Mastercard, China Union Pay, JCB, Lanka QR, and UPI networks is also another important feature of this handy portable device.
+
+...
+
+[Data](articles/da36fae2.json)
 
 ---
 
@@ -2155,67 +2209,5 @@ Also, all the passengers in the aircraft have been taken out of the aircraft wit
 [Data](articles/902bb9f0.json)
 
 [Extended Data](ext_articles/902bb9f0.ext.json)
-
----
-
-### Violence clouds the last day of campaigning for Mexico’s election
-
-*2024-05-30 14:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/99539/violence-clouds-the-last-day-of-campaigning-for-mexicos-election) · `en`
-
-Mexico held the last day of campaigning Wednesday before Sunday’s nationwide election, but the closing rallies were darkened by attacks on candidates and the country’s persistently high homicide rate.
-
-Opposition candidate Xóchitl Gálvez started her last campaign rallies early Wednesday on the outskirts of Mexico City, and she focused her ire on President Andrés Manuel López Obrador’s “hugs not bullets” policy of not confronting the drug cartels.
-
-Gálvez is facing the candidate of López Obrador’s Morena party, former Mexico City Mayor Claudia Sheinbaum. Sheinbaum, who leads in the race, has promised to continue all of López Obrador’s policies.
-
-“Are we going to continue with hugs, or are we going to apply the law to criminals?” Gálvez asked a cheering crowd. “Mexico wants peace, wants tranquility.”
-
-...
-
-[Data](articles/81636449.json)
-
-[Extended Data](ext_articles/81636449.ext.json)
-
----
-
-### The opening of the five air doors of the Polgollai reservoir;The public is observation!
-
-*2024-05-30 14:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/184871) · `ta`
-
-Heavy rains in Sri Lanka's central hills led to an increase in the Mahaweli Ganga's water level. In response, the Mahaweli Authority opened the five air gates of the Polgollai reservoir by 1.5 meters, releasing 19,000 cubic feet of water into the Victoria reservoir. The public is advised to stay alert due to rising water levels.
-
-🟩
-
-The water level of the Mahaweli Ganga has increased due to heavy rains since early morning in the central hill country.
-
-As a result of this, the Mahaweli Authority's Polgollai office said that the five air doors of the Polgollai reservoir have been opened from one and a half meters this afternoon.
-
-The office further stated that the five air doors of the Polgollai reservoir have been opened by one and a half meters, thereby sending 19,000 cubic feet of water to the Victoria reservoir.
-
-The office also said that the public should be vigilant as the Mahaweli Ganga increases the water.
-
-◼️
-
-[Data](articles/8eaeb360.json)
-
-[Extended Data](ext_articles/8eaeb360.ext.json)
-
----
-
-### Commission opposition to moves after election
-
-*2024-05-30 14:49:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தலைப்-பிற்போடும்-நகர்வுகளுக்கு-ஆணைக்குழு-எதிர்ப்பு/175-338156) · `ta`
-
-The Election Commission opposes changes post-elections, assuring the process will proceed as scheduled.
-
-🟩
-
-The Election Commission, which has expressed fierce opposition to any moves after the upcoming presidential elections, said the elections would be planned as planned.
-
-◼️
-
-[Data](articles/78907142.json)
-
-[Extended Data](ext_articles/78907142.ext.json)
 
 ---

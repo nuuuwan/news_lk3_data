@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-31 10:34:10**
+As of **2024-05-31 10:52:51**
 
 ## Newspaper Stats
 
-*Scraped **27,473** Articles*
+*Scraped **27,476** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 1,488
 economynextcom | 1,568
 dailyftlk | 1,612
 adalk | 2,344
-adaderanalk | 3,127
-tamilmirrorlk | 3,221
+adaderanalk | 3,128
+tamilmirrorlk | 3,223
 virakesarilk | 4,236
 dailymirrorlk | 4,345
 adaderanasinhalalk | 4,386
@@ -26,11 +26,53 @@ adaderanasinhalalk | 4,386
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,471 (100.0%) of 27,473 articles have been extended.
+27,473 (100.0%) of 27,476 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-31 (Friday)
+
+### UNICEF and National Youth Services Council join forces to promote ‘Youth-Led Climate Action’ in Sri Lanka
+
+*2024-05-31 10:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/99557/unicef-and-national-youth-services-council-join-forces-to-promote-youth-led-climate-action-in-sri-lanka) · `en`
+
+The National Youth Services Council (NYSC) of Sri Lanka has signed a Memorandum of Understanding (MoU) with the UNICEF in order to promote “Youth-Led Climate Action” in Sri Lanka.
+
+The partnership aims to benefit children and youth, especially those from marginalized backgrounds, by increasing critical awareness, making climate knowledge more language inclusive, building essential skills, and fostering collaboration among stakeholders in climate change and environmental conservation, the UNICEF said in a statement.
+
+The signing, today of the agreement by Mr. Christian Skoog, UNICEF Representative in Sri Lanka and Pasindu Guneratne, Chairperson of NYSC, signifies a unified dedication to building a better future for children and youth by empowering them to lead and innovate in responding to the climate change crisis, it added.
+
+...
+
+[Data](articles/b917b952.json)
+
+---
+
+### ஆயுதங்களை போலந்து வழியாக உக்ரேனுக்கு அனுப்பியதை மறுக்கும் இலங்கை
+
+*2024-05-31 10:24:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆயுதங்களை-போலந்து-வழியாக-உக்ரேனுக்கு-அனுப்பியதை-மறுக்கும்-இலங்கை/175-338193) · `ta`
+
+இலங்கையில் மேலதிகமாகவுள்ள ஆயுதங்களை உக்ரேனுக்கு மாற்றுவதற்கு இடைத்தரகராக போலந்து பயன்படுத்தபடுவதான அண்மைய ஊடக அறிக்கைகளை இலங்கையின் பாதுகாப்பமைச்சு மறுத்துள்ளது.
+
+◼️
+
+[Data](articles/0364e778.json)
+
+---
+
+### A/L பெறுபேறுகள் இன்று வெளியாகும்
+
+*2024-05-31 10:03:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/A-L-பெறுபேறுகள்-இன்று-வெளியாகும்/175-338192) · `ta`
+
+2023ஆம் ஆண்டிற்கான கல்விப் பொதுத் தராதர உயர்தரப் பரீட்சைப் பெறுபேறுகள் இன்று வெளியிடப்படும் என கல்வி அமைச்சர் சுசில் பிரேமஜயந்த தெரிவித்துள்ளார்.
+
+கல்விப் பொதுத் தராதர உயர்தரப் பரீட்சை கடந்த ஜனவரி மாதம் இடம்பெற்றிருந்தது. R
+
+◼️
+
+[Data](articles/0c195e77.json)
+
+---
 
 ### What Trump’s conviction means for the election
 
@@ -110,19 +152,25 @@ An individual who allegedly stole a bag belonging to a female foreign tourist in
 
 ---
 
-### மதுபானசாலையில் கொலை செய்யப்பட்ட நிலையில் ஒருவர் சடலமாக மீட்பு
+### A man was found dead at a liquor station
 
 *2024-05-31 09:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/184924) · `ta`
 
-மதுபானசாலை ஒன்றில் ஆண் ஒருவரின் சடலம் நேற்று (30) காலை பிபிலை பொலிஸாரால் கண்டெடுக்கப்பட்டுள்ளது.
+A 37-year-old man named Hali-Ela from Boghamathitha was found dead in his liquor bar by Bibil police. He was killed with an iron rod during a dispute with another employee.
 
-உயிரிழந்தவர் 37 வயதுடைய ஹாலி –எல, போகஹமதித்த பகுதியைச் சேர்ந்தவர் என அடையாளம் காணப்பட்டுள்ளார்.
+🟩
 
-சடலமாக மீட்கப்பட்டவர் மதுபானசாலை ஒன்றை நடத்திவந்துள்ளார். இந்நிலையில், மதுபானசாலையில் பணிபுரியும் ஊழியர் ஒருவருடன் ஏற்பட்ட வாக்குவாதத்தையடுத்து, குறித்த ஊழியர் இரும்பு கம்பியால் அவரை தாக்கி கொலையை செய்துள்ளதாக விசாரணைகளில் தெரியவந்துள்ளது.
+The body of a man in a liquor bar was found by Bibil police yesterday morning.
+
+The deceased has been identified as a 37 -year -old Hali -Ela, Boghamathitha.
+
+The body recovered has run a liquor bar. Investigations have revealed that the employee was assassinated by an iron rod following a dispute with a employee at the liquor station.
 
 ◼️
 
 [Data](articles/ec90637c.json)
+
+[Extended Data](ext_articles/ec90637c.ext.json)
 
 ---
 
@@ -158,19 +206,25 @@ The operation was organized by the Criminal Investigation Department from the CI
 
 ---
 
-### சட்டவிரோதமாக இறக்குமதி செய்யப்பட்ட சிகரெட்டுகளுடன் உதவி சுங்க அத்தியட்சகர் கைது
+### Assistant Customs Superintendent arrested with illegally imported cigarettes
 
 *2024-05-31 09:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/184922) · `ta`
 
-சட்டவிரோதமாக நாட்டிற்கு இறக்குமதி செய்யப்பட்ட 7,000 சிகரெட்டுகளுடன் உதவி சுங்க அத்தியட்சகர் ஒருவர் கைது செய்யப்பட்டுள்ளார்.
+A Customs Superintendent was arrested in Colombo for smuggling 7,000 cigarettes worth around 590,000 rupees. The Colombo Central Crime Branch made the arrest in Colombo Fort.
 
-கொழும்பு கோட்டை பகுதியில் வைத்து கொழும்பு மத்திய ஊழல் குற்றத்தடுப்பு பிரிவினரால் குறித்த சந்தேகநபர் கைது செய்யப்பட்டுள்ளார்.
+🟩
 
-சந்தேகநபரிடம் இருந்து பெறப்பட்ட வெளிநாட்டு சிகரெட்டுகளின் பெறுமதி சுமார் 590,000 ரூபா என பொலிஸார் தெரிவித்தனர்.
+A Customs Superintendent has been arrested with 7,000 cigarettes imported to the country.
+
+The suspect has been arrested by the Colombo Central Crime Branch in Colombo Fort.
+
+The value of foreign cigarettes received from the suspect was about 590,000 rupees, police said.
 
 ◼️
 
 [Data](articles/573f1b5a.json)
+
+[Extended Data](ext_articles/573f1b5a.ext.json)
 
 ---
 
@@ -2109,77 +2163,5 @@ Sri Lanka was also planning to send a delegation to meet Russian defense officia
 [Data](articles/de8f91f6.json)
 
 [Extended Data](ext_articles/de8f91f6.ext.json)
-
----
-
-### There is no fear of any election
-
-*2024-05-30 17:59:33* · [`adalk`](https://www.ada.lk/breaking_news/කිසිම-මැතිවරණයකට-භයක්-නෑ/11-409924) · `si`
-
-Dr. Bandula Gunawardena, Minister of Transport and Mass Media, announced that the President has assured the country that elections will be held as per the constitution's stipulated date. He addressed concerns over potential delays or cancellations, emphasizing the government's confidence in conducting the elections smoothly. The statement aims to reassure both domestic and international observers about the electoral process, despite financial challenges and the need for international assistance.
-
-🟩
-
-"No election for any election, the President has given the country to the country that the forest elections will be held on the exact date of the constitution," said Dr. Bandula Gunawardena, Minister of Transport and Mass Media.
-
-He was responding to a question raised by journalists after a function in Palagala, Anuradhapura.
-
-"The government is not worried about the election, so the government and the international organizations are afraid to save the country to save the debt, but only the problem of the problemHis Excellency the President has given the country a certificate that the elections will be held on the exact date of the constitution.
-
-He has clearly stated that he had already allocated Rs.The presidential election is held to select a new president.
-
-...
-
-[Data](articles/6fdcd2ca.json)
-
-[Extended Data](ext_articles/6fdcd2ca.ext.json)
-
----
-
-### The young woman who has come to get in a wedding suit
-
-*2024-05-30 17:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197188) · `si`
-
-A young woman from Ambalantota, named Dilini, attended a job appointment ceremony in Hambantota, aiming for a teaching position. The event, hosted under the Southern Province Governor Lakshman Yapa Abeywardena, highlighted opportunities for unemployed graduates.
-
-🟩
-
-Many were focused on an unique event at the ceremony of appointing appointments to unemployed graduates in the Hambantota district.
-
-It is a girl who is trying to get his teacher's appointment today today.
-
-Their teaching was obtained from Dilini, a resident of Ambalantota.
-
-The event was held under the patronage of the Southern Province Governor Lakshman Yapa Abeywardena.
-
-◼️
-
-[Data](articles/031c2bf8.json)
-
-[Extended Data](ext_articles/031c2bf8.ext.json)
-
----
-
-### Banning to be taken to the finished tea auction in Kelani tea estates
-
-*2024-05-30 17:38:24* · [`adalk`](https://www.ada.lk/breaking_news/කැළණිවැලි-තේ-වතු-වල-නිමි-තේ--වෙන්දේසියට-රැගෙන-යාමට-තහනමක්/11-409922) · `si`
-
-In response to worker complaints, the Ceylon Workers Congress and several labor officials have temporarily halted operations at Kelani tea estates. This move follows protests against the estate company, with Minister Jivan Thondaman urging trade unions to boycott the upcoming tea auction. The situation remains unresolved, with ongoing trade union actions aimed at addressing the issue.
-
-🟩
-
-The Secretary of the Ceylon Workers Congress, General Secretary and Estate Infrastructure, Minister of Water Supply and Estate Infrastructure, Minister of Water Supply and Estate Infrastructure, Minister of Water Supply and Estate Infrastructure, Minister of Labor Congress said.
-
-The Several Assistant Commissioner of Labor to temporarily ban the work of the estate firm in the area of ​​the estate company to be temporarily banned by the estate control authority of the estate firm, refrains the work of the estate.The Assistant Commissioner Commissioner of Labor has held a discussion on a complaint (30).
-
-The discussion has also been present on the discussion and Minister Jivan Thondaman, who has not yet been able to resume the estate workers to be temporary.
-
-Minister Jivan Thondaman has informed the teams of all the members of the trade union not to be allowed to be taken to the tea auction produced in protest of the estate company.
-
-...
-
-[Data](articles/8bc9455d.json)
-
-[Extended Data](ext_articles/8bc9455d.ext.json)
 
 ---

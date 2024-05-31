@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-31 11:18:47**
+As of **2024-05-31 11:34:44**
 
 ## Newspaper Stats
 
-*Scraped **27,480** Articles*
+*Scraped **27,484** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,37 +16,111 @@ islandlk | 1,488
 economynextcom | 1,568
 dailyftlk | 1,612
 adalk | 2,345
-adaderanalk | 3,128
+adaderanalk | 3,129
 tamilmirrorlk | 3,224
 virakesarilk | 4,236
-dailymirrorlk | 4,346
-adaderanasinhalalk | 4,387
+dailymirrorlk | 4,348
+adaderanasinhalalk | 4,388
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,479 (100.0%) of 27,480 articles have been extended.
+27,480 (100.0%) of 27,484 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-31 (Friday)
 
-### யாழ்ப்பாணத்தில் ஆசிரியர் ஒருவருக்கு கற்பிக்கத் தடை
+### Ex-CBSL chief Cabraal and 3 others released from 2012 Greek bonds case
+
+*2024-05-31 11:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/99558/ex-cbsl-chief-cabraal-and-3-others-released-from-2012-greek-bonds-case) · `en`
+
+The Colombo High Court today (31) ordered the release of former Governor of the Central Bank of Sri Lanka (CBSL) Ajith Nivard Cabraal and three other defendants in a case filed against them alleging financial losses caused to the government of Sri Lanka through investments in Greek treasury bonds in 2012.
+
+The attorneys who appeared on behalf of the former CBSL chief had raised objections that the relevant case filed by the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) cannot be maintained.
+
+The Colombo High Court Judge Adithya Patabendige, who accepted the relevant objections ordered the release of Ajith Nivard Cabraal and the co-defendants of the case.
+
+The defendants were accused of causing a loss of over Rs. 1.8 billion to the Sri Lankan government through the Greek T-bond investments in 2012.
+
+On 03 May 2024, Cabraal’s attorneys raised preliminary objections, leading to today’s decision to dismiss the case and the release of the defendants.
+
+◼️
+
+[Data](articles/b23e8d77.json)
+
+---
+
+### කබ්රාල් ඇතුළු පිරිසට නිදහස් කෙරේ
+
+*2024-05-31 11:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197206) · `si`
+
+2012 වසරේ ග්‍රීසියේ බැඳුම්කරවල ආයෝජනයක් සිදුකිරීම තුළින් රජයට රුපියල් බිලියන 1.84ක පාඩුවක් සිදු කළේ යැයි චෝදනා ලබා සිටි ශ්‍රී ලංකා මහ බැංකුවේ හිටපු අධිපති අජිත් නිවාඩ් කබ්රාල් ඇතුළු විත්තිකරුවන් පස් දෙනෙකු නිදහස් කරන ලෙස කොළඹ මහාධිකරණය නියම කර තිබේ.
+
+අල්ලස් කොමිසම විසින් ගොනුකර තිබෙන මෙම නඩුව පවරා පවත්වාගෙන යාමට නොහැකි බවට අජිත් නිවාඩ් කබ්රාල් ඇතුළු විත්තිකරුවන් වෙනුවෙන් පෙනී සිටි නීතිඥවරු මූලික විරෝතා මතු කර තිබුණි.
+
+එම මූලික විරෝධතා පිළිගෙන අදාළ විත්තිකරුවන් නිදහස් කිරීමට විනිසුරුවරයා නියම කළේය.
+
+◼️
+
+[Data](articles/b49e3e94.json)
+
+---
+
+### Jaffna is prohibited to teach a teacher
 
 *2024-05-31 11:02:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/யாழ்ப்பாணத்தில்-ஆசிரியர்-ஒருவருக்கு-கற்பிக்கத்-தடை/71-338194) · `ta`
 
-யாழ்ப்பாணத்தில் 10 வயது மாணவிகளுடன் தவறாக நடந்துகொண்டதாக குற்றம்சாட்டப்பட்ட ஆசிரியருக்கு வடமாகாண கல்வி அமைச்சினால் பணித்தடை விதிக்கப்பட்டுள்ளது.
+A teacher in Jaffna was arrested after allegations of misconduct with a 10-year-old student. The Northern Provincial Ministry of Education acted upon a parent's complaint, leading to the teacher's arrest and court appearance. Investigations were conducted by the Department of Education.
 
-மானிப்பாய் பகுதியில் உள்ள பிரபல பாடசாலை ஒன்றில் தரம் 05 இல் கல்வி கற்கும் 10 வயதான மாணவிகளுடன் ஆசிரியர் ஒருவர் தவறாக நடந்து கொண்டதாக பாதிக்கப்பட்ட மாணவி ஒருவரின் பெற்றோர் மானிப்பாய் பொலிஸ் நிலையத்தில் முறைப்பாடு செய்திருந்தார்.
+🟩
 
-இதன் அடிப்படையில், பொலிஸார் ஆசிரியரை கைது செய்து மல்லாகம் நீதவான் நீதிமன்றில் முற்படுத்திய நிலையில், அவர் தற்போது பிணையில் விடுவிக்கப்பட்டு  மன்றில் வழக்கு நிலுவையில் உள்ளது.
+A teacher accused of misbehaving with 10 -year -old students in Jaffna has been imposed by the Northern Provincial Ministry of Education.
 
-இந்நிலையில், சம்பவம் தொடர்பில் திணைக்களம் ஊடான விசாரணைகள் முன்னெடுக்கப்பட்டு விசாரணை அறிக்கை கல்வி அமைச்சின் செயலாளருக்கு அனுப்பி வைக்கப்பட்ட நிலையில், ஆசிரியர் தனது பணியினை தொடர தடை விதிக்கப்பட்டு, குற்றம் சாட்டப் பட்டுள்ள ஆசிரியருக்கு கடிதம் அனுப்பி வைக்கப்பட்டுள்ளது. R
+The parents of a victim had lodged a complaint at the Manipay police station that a teacher had misbehaved with a 10 -year -old student in Grade 05 at a popular school in Manipay.
+
+On the basis of this, the police arrested the teacher and produced him before the Mallakam Magistrate's Court.
+
+In this case, investigations into the incident have been carried out by the Department of Education and sent to the Secretary of the Ministry of Education.. Remble
 
 ◼️
 
 [Data](articles/17693bf0.json)
+
+[Extended Data](ext_articles/17693bf0.ext.json)
+
+---
+
+### Derailment delays train services between Maradana, Fort
+
+*2024-05-31 10:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Derailment-delays-train-services-between-Maradana-Fort/108-283793) · `en`
+
+Colombo, May 31 (Daily Mirror) -Train services between Colombo Fort and Maradana will be delayed due to a derailment, the Railways Department said.
+
+They said that due to the derailment, the train services will operate with a considerable delay.
+
+◼️
+
+[Data](articles/d06ff146.json)
+
+---
+
+### Propaganda to insult Buddhist philosophy, Buddha’s character: Parliamentary Committee reveals
+
+*2024-05-31 10:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Propaganda-to-insult-Buddhist-philosophy-Buddhas-character-Parliamentary-Committee-reveals/108-283792) · `en`
+
+Parliament, May 31 (Daily Mirror)- Those who carry out propaganda insulting the Buddhist philosophy and the Buddha's character are engaged in various businesses in this country as well as in other foreign countries and spend a lot of money to carry out such work, a Parliamentary Committee has revealed.
+
+This was revealed during a meeting of the Parliamentary Caucus for functioning towards safeguarding the national heritage charied by MP Jayantha Samaraweera recently.
+
+The officials present pointed out that this could be one facet of a conspiracy to bring down Sri Lanka as a country in international geopolitics, so measures should be taken after considering the matter.
+
+They were of the opinion that social violence and cultural breakdown will occur as a result of these actions and this may lead to the breakdown of the individual, family, institutions and ultimately the entire society in this country and therefore, attention should be paid to this matter immediately.
+
+...
+
+[Data](articles/58c31c9f.json)
 
 ---
 
@@ -2081,101 +2155,5 @@ President Ranil Wickremesinghe added that all professionals' opinion on the adva
 [Data](articles/3e645839.json)
 
 [Extended Data](ext_articles/3e645839.ext.json)
-
----
-
-### Substances should be prioritized than to hold the exam in primary education
-
-*2024-05-30 18:36:21* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රාථමික-අධ්‍යාපනය-තුළ-විභාග-පැවැත්වීමට-වඩා-විෂය-බාහිර-ක්‍රියාකාරකම්වලට-ප්‍රමුඛත්වය-දිය-යුතුයි/11-409926) · `si`
-
-Dr. Susil Premajayantha emphasizes prioritizing substances over exams in primary education, highlighting the importance of maintaining school sports competitions and updating education to address global issues like climate change. He mentions the need for a balanced approach to education, including cricket, and plans to produce top cricketers while reducing reliance on early-grade exams.
-
-🟩
-
-Minister of Education Dr. Susil Premajayantha has built a balanced personality in the external activity of the subject education, as far as the subject of cricket, which is more of the subject of cricket.He said.
-
-He was speaking to the Sri Lanka Schools Cricket Association organized by the Sri Lanka Schools Cricket Association at the Nelum Pokuna Theater.
-
-Speaking further further, the Minister of Education said he was able to maintain the school sports competitions during the covande school. Accordingly, the budgetary allocation of Rs.Here he said. The Minister said that the subject outside an outsourced activity of the SLC is working and that the country is planning to produce the best cricketers in the country.
-
-...
-
-[Data](articles/9d32cbfc.json)
-
-[Extended Data](ext_articles/9d32cbfc.ext.json)
-
----
-
-### Truth, Justice and Liability establishment is essential - Kellam McRae
-
-*2024-05-30 18:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/184905) · `ta`
-
-Kellam McRae highlights the urgency of establishing truth, justice, and liability, especially in light of ongoing human rights abuses reminiscent of past atrocities in Sri Lanka and current violations in Gaza.
-
-🟩
-
-The director of the 'No Fire Zone' documentary, Kellam McRy, has emphasized that the fact that the most violent violence and violence in Sri Lanka was not repeated in 2009 is essential for the establishment of justice and ensuring accountability.
-
-During the final war in Sri Lanka, the documentary 'No Fire Zone', made by Kellam McRahe, was released 11 years ago on TV service 'Channel 4' and created a huge shock.
-
-In a commemoration issued by Kellam McRy, the war has ended 15 years after the end of the war.
-
-15 years after the end of the war, we recall it on the 18th of May. However, violations against the Tamil people continue. The victims, including relatives of the missing persons, continue to live with the impact. In such a situation, the Sri Lankan government is denied the right to commemorate their loved ones. Similarly, the Tamil homelands are under the strong control of the security guard.
-
-...
-
-[Data](articles/f4a2d0ba.json)
-
-[Extended Data](ext_articles/f4a2d0ba.ext.json)
-
----
-
-### The owner of the Sri Lankan employee is bailed to the Russian military service
-
-*2024-05-30 18:29:20* · [`adalk`](https://www.ada.lk/breaking_news/රුසියානු-හමුදා-සේවයට-ලාංකිකයින්-යොමුකළ-ඒජන්සියේ-හිමිකරුට-ඇප-නෑ/11-409925) · `si`
-
-Champika Exporte Foreign Employment Institute and its manager are remanded until June 13th, facing charges related to fraudulent tourist visas and alleged exploitation of Sri Lankan workers for Russian military service. The Labor and Foreign Employment Minister has ordered action against these issues.
-
-🟩
-
-Champika Exporte Foreign Employment Institute and its manager have been remanded until June 13.. The case was taken up again at the Negombo Magistrate's Court today (5/30).
-
-According to the tourist visa, the tourist visas were rewarded by the tourist visas for Rs.. According to the Bureau, the number of cash has been fraudulent is Rs.
-
-Sri Lankans do not approve of Sri Lankans to serve in the service of the army and the tourist visa calls on Labor and Foreign Employment Minister Manusha Nanayakkara.. The Minister has instructed the officials of the Foreign Employment Bureau to punish the racketeers such as racketeering.
-
-◼️
-
-[Data](articles/34767e2d.json)
-
-[Extended Data](ext_articles/34767e2d.ext.json)
-
----
-
-### Politicuit arrested with foreign cigarettes
-
-*2024-05-30 18:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197190) · `si`
-
-A politician was arrested in Sri Lanka after being caught with nearly 6,000 foreign cigarettes during a raid at Katunayake Airport. The suspect, a former provincial councilor from a major political party, faces charges related to the contraband cigarettes. Further investigations are ongoing by airport officials.
-
-🟩
-
-A politician has been arrested by a politician who came to Sri Lanka with foreign cigarettes.
-
-The suspect politician has been arrested following a raid on the police nations Bureau Katunayake Airport Unit.
-
-It has been revealed that the suspect is a former provincial councilor representing a powerful political party.
-
-Nearly 6000 cigarettes were found in his possession.
-
-It is reported that the value of its value is nearly Rs.
-
-Officers in the Katunayaka Airport Unit of the Katunayake Airport's Office are conducting further investigations.
-
-◼️
-
-[Data](articles/2d834453.json)
-
-[Extended Data](ext_articles/2d834453.ext.json)
 
 ---

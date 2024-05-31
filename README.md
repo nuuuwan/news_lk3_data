@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-31 13:03:57**
+As of **2024-05-31 13:18:30**
 
 ## Newspaper Stats
 
-*Scraped **27,500** Articles*
+*Scraped **27,501** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,488
 economynextcom | 1,572
 dailyftlk | 1,612
 adalk | 2,346
-adaderanalk | 3,131
+adaderanalk | 3,132
 tamilmirrorlk | 3,227
 virakesarilk | 4,236
 dailymirrorlk | 4,350
@@ -26,79 +26,125 @@ adaderanasinhalalk | 4,389
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,496 (100.0%) of 27,500 articles have been extended.
+27,500 (100.0%) of 27,501 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-31 (Friday)
 
-### CCD නිලධාරීන් දෙදෙනෙකුට පෞද්ගලික මුදල්වලින් වන්දි ගෙවන්න වෙයි
+### 2016 hit-and-run incident: Ex-CCD officers ordered to compensate Champika’s driver’s family
+
+*2024-05-31 13:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/99561/2016-hit-and-run-incident-ex-ccd-officers-ordered-to-compensate-champikas-drivers-family) · `en`
+
+The Supreme Court has declared that the police have violated fundamental human rights by illegally detaining the wife, mother-in-law and one-year-old daughter of MP Patali Champika Ranawaka’s driver.
+
+The detention had occurred within the Colombo Crimes Division (CCD) for several hours and was related to the alleged hit-and-run incident at Rajagiriya in 2016.
+
+Accordingly, the court ordered the responsible officers; then Acting Director of the Colombo Crimes Division Neville Silva and Chief Inspector of Police A. Meththananda to pay a compensation of Rs. 250,000 each to the aggrieved party with their personal money.
+
+Additionally, it was also ordered that the government should pay a compensation of Rs. 10,000 to the petitioner.
+
+The verdict was delivered by the three-member Supreme Court judge bench consisting of Justices Arjuna Obeysekara, Mahinda Samayawardena and S. Thurairaja, when the case was taken up this morning (31).
+
+...
+
+[Data](articles/acbb3265.json)
+
+---
+
+### Two CCD officers have to pay for personal money
 
 *2024-05-31 12:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197207) · `si`
 
-පොලීසිය මූලික මිනිස් අයිතිවාසිකම් උල්ලංඝනය කර ඇතැයි ශ්‍රේෂ්ඨාධිකරණය අද (31) තීන්දු කළේය.
+The Supreme Court ruled that two police officers violated human rights by detaining Patali Champika Ranawaka's wife and mother for hours in 2016. It ordered the officers to personally compensate the family Rs. 250,000 and the government to add Rs. 10,000.
 
-ඒ, 2016 වසරේ රාජගිරිය ප්‍රදේශයේ සිදුවූ මහත් ආන්දෝලනයකට තුඩු දුන් රිය අනතුරු සිද්ධිය සම්බන්ධයෙන් හිටපු අමාත්‍ය පාඨලී චම්පික රණවක මහතාගේ රියදුරු සොයාදෙන ලෙස ඔහුගේ බිරිඳ, අත දරුවා සහ ඇයගේ මව අනීතික ලෙස කොළඹ අපරාධ කොට්ඨාසයට රැගෙන විත් පැය කිහිපයක් කොළඹ අපරාධ කොට්ඨාසයේ රඳවා ගැනීම තුළිනි.
+🟩
 
-ඒ අනුව අදාළ මූලික අයිතිවාසිකම් කඩ කිරීමට වගකිවයුතු කොළඹ අපරාධ කොට්ඨාසයේ එවක වැඩබලන අධ්‍යක්ෂවරයා ලෙස කටයුතු කළ නෙවිල් සිල්වා සහ එහි ප්‍රධාන පොලිස් පරීක්ෂක ඒ. මෙත්තානන්ද යන නිලධාරීන් සිය පුද්ගලික මුදල් වලින් රුපියල් 25,0000/- බැගින් පෙත්සම්කාරියට වන්දි ගෙවිය යුතු බවත් නියෝග කෙරිණි.
+The Supreme Court today (31) today, the Supreme Court today decided that the police have violated fundamental human rights.
 
-ඊට අමතරව රජය විසින් රුපියල් 10,000ක වන්දියක් ගෙවිය යුතු බවත් නියෝග කෙරුණි.
+The driver of his wife Patali Champika Ranawaka, his wife and her mother was brought to the Colombo Crimes Division in 2016, with his wife and her mother in the Colombo Crimes Division for several hours.
 
-අර්ජුන ඔබසේකර, මහින්ද සමයවර්ධන යන විනිසුරුවරුන්ගේ එකඟත්වය සහිතව ශ්‍රේෂ්ඨාධිකරණ විනිසුරු එස්. තුරෙයි රාජා මහතා විසින් මෙම තීන්දුව ප්‍රකාශයට පත් කර තිබුණි.
+Accordingly, Neville Silva and its Chief Inspector of the Colombo Crimes Division, who is responsible for violating the fundamental rights and its Chief Inspector of Police. The officers of Meetananda should pay compensation to the petitioner of Rs. 25,0000 / - from their personal money.
+
+In addition, the government has ordered the price of Rs. 10,000.
+
+Supreme Court Judge S. The Supreme Court Judge. The decision had been published by Mr. Turai Raja.
 
 ◼️
 
 [Data](articles/525d1c99.json)
 
+[Extended Data](ext_articles/525d1c99.ext.json)
+
 ---
 
-### அஜித் நிவார்ட் கப்ரால் உட்பட ஐவர் விடுதலை
+### Ajith Nivard's release including Kabral
 
 *2024-05-31 12:47:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அஜித்-நிவார்ட்-கப்ரால்-உட்பட-ஐவர்-விடுதலை/175-338198) · `ta`
 
-இலங்கை மத்திய வங்கியின் முன்னாள் ஆளுநர் அஜித் நிவார்ட் கப்ரால் உட்பட 5 பிரதிவாதிகளை விடுதலை செய்ய கொழும்பு மேல் நீதிமன்றம் உத்தரவிட்டுள்ளது.
+The Colombo High Court has ordered the release of five defendants, including former Central Bank Governor Ajith Nivard Cabral. This comes after accusations against the government for a 1.84 billion rupee loss from investments in Greek bonds in 2012.
 
-2012 ஆம் ஆண்டு கிரேக்கப் பத்திரங்களில்  முதலீடு மூலம், அரசாங்கத்திற்கு 1.84 பில்லியன் ரூபா நட்டம் ஏற்படுத்தியதாக இவர்கள் மீது குற்றம் சுமத்தப்பட்டமை குறிப்பிடத்தக்கது. R
+🟩
+
+The Colombo High Court has ordered the release of five defendants, including former Governor of the Central Bank of Sri Lanka, Ajith Nivard Cabral.
+
+It is noteworthy that the government was accused of loss of 1.84 billion rupees by investing in Greek bonds in 2012. Remble
 
 ◼️
 
 [Data](articles/247cdd7c.json)
 
+[Extended Data](ext_articles/247cdd7c.ext.json)
+
 ---
 
-### சிறுவனின் உயிரை பறித்த ஹேர் ட்ரையர்
+### Hair driver who snatched the boy's life
 
 *2024-05-31 12:41:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறுவனின்-உயிரை-பறித்த-ஹேர்-ட்ரையர்/175-338197) · `ta`
 
-புத்தளத்தில் மின்சாரம் தாக்கி, புத்தளம் தள வைத்தியசாலையின் அதி தீவிர சிகிச்சைப் பிரிவில் சிகிச்சை பெற்றுவந்த இளைஞர் ஒருவர் சிகிச்சை பலனின்றி நேற்று (30) உயிரிழந்துள்ளார்.
+In Puttalam, a 17-year-old boy named Duan Salim Muhammad Sahran died suddenly after being electrocuted by a hairdryer. He was a student at Puttalam Zahira National School and had recently taken the GCE Ordinary Level Examination. The incident occurred on Friday, 24th, and despite immediate attention, he passed away the next day.
 
-புத்தளம் , ஐந்தாம் குறுக்குத் தெருவைச் சேர்ந்த துவான் சலீம் முஹம்மது சஹ்ரான் ( வயது 17) எனும் இளைஞனே இவ்வாறு உயிரிழந்துள்ளார் என பொலிஸார் தெரிவித்தனர்.
+🟩
 
-குறித்த இளைஞன், கடந்த 24 ஆம் திகதி வெள்ளிக்கிழமை தனது வீட்டில் குளித்து விட்டு , முடி உலர்த்தி மூலம் முடியை உலர வைத்த சந்தர்ப்பத்திலேயே மின்சாரம் தாக்கியுள்ளது..
+A youth who was diagnosed with electricity in Puttalam and was treated at the Puttalam Base Hospital, died yesterday (30) without treatment.
 
-புத்தளம் பகுதிக்குப் பொறுப்பான திடீர் மரண விசாரணை அதிகாரி தேசமான்ய பதுர்தீன் முஹம்மது ஹிசாம், உயிரிழந்த இளைஞனின் ஜனாஸா மீதான மரண விசாரணையை  நடத்தி மின்சாரத் தாக்குதலினால் ஏற்பட்ட மரணம் எனத் தீர்ப்பளித்து ஜனாஸாவை குடும்பத்தினரிடம் ஒப்படைத்தார்.
+Duan Salim Muhammad Sahran (age 17), a young man from Fifth Cross Street, Puttalam, has died, police said.
 
-புத்தளம் சாஹிரா தேசியப் பாடசாலை மாணவரான இவர், கடந்த மாதம் நிறைவடைந்த க.பொ.த. சாதாரண தரப் பரீட்சைக்குத் தோற்றியிருந்தார் என்பது குறிப்பிடத்தக்கது. R
+The young man was bathed in his home on Friday, the 24th, and the electricity was hit by a hair dryer.
+
+The sudden death investigator of the Puttalam area, Deshamanya Badurdeen Muhammad Hizam, conducted a death investigation into the death of a youth, and handed over the death of Janasa to the family.
+
+He is a student of the Puttalam Zahira National School, which ended last month.. It is noteworthy that he appeared for the GCE Ordinary Level Examination. Remble
 
 ◼️
 
 [Data](articles/90864914.json)
 
+[Extended Data](ext_articles/90864914.ext.json)
+
 ---
 
-### யாழ். மாவட்டத்திற்கு வெளியே கொண்டு செல்ல முடியாது
+### Yall. Cannot be carried out to the district
 
 *2024-05-31 12:37:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/யாழ்-மாவட்டத்திற்கு-வெளியே-கொண்டு-செல்ல-முடியாது/71-338196) · `ta`
 
-உரிய வழிதட அனுமதி இன்றி யாழ். மாவட்டத்தில் இருந்து வெளி மாவட்டங்களுக்கு சுண்ணாம்புக்கல் கொண்டு செல்ல முடியாது என மாவட்ட  அபிவிருத்திக்குழு கூட்டத்தில் தீர்மானம் எடுக்கப்பட்டுள்ளது.
+At a District Development Committee meeting, it was decided that limestone extraction and transport from Jaffna to other districts require permission due to environmental concerns and local demand. Violators face charges, and stricter monitoring is planned. Authorities also aim to prevent soil erosion from neighboring districts.
 
-யாழ். மாவட்ட அபிவிருத்திக்குழு கூட்டம்  வடக்கு மாகாண ஆளுநர் பி. எஸ். எம். சார்ள்ஸ், அமைச்சர் டக்ளஸ் தேவாநந்தா ஆகியோரின் இணைத் தலைமைத்துவத்தின் கீழ் நேற்று மாவட்ட செயலகத்தின் கேட்போர் கூடத்தில் நடைபெற்றது.
+🟩
 
-யாழ் மாவட்டத்தில் அகழப்படும் சுண்ணாம்புக் கற்களை எவ்வித அனுமதியும் இன்றி வெளி மாவட்டங்களுக்கு கொண்டு செல்லப்படுகின்றமை தொடர்பில் முன்வைக்கப்பட்ட குற்றச்சாட்டுக்கு அமைய, அபிவிருத்தி குழு கூட்டத்தில் கலந்துகொண்ட துறைசார் அதிகாரிகள் பல்வேறு விடயங்களை முன்வைத்தனர்.
+Jaffna without permission. A decision has been taken at the District Development Committee meeting that limestone cannot be transported from the district to outer districts.
+
+Yall. District Development Committee Meeting. S.. M.. Charles and Minister Douglas Devananda were held at the auditorium of the District Secretariat yesterday.
+
+The Department of Development Committee at the Development Committee meeting on charges of being transported to outer districts without any permission in the Jaffna district.
+
+It was reported that in some areas without a permit, the limestone was excavated and transported to the outer districts. It was stated that the limestone should be excavated in accordance with the rules and used it for local demand. The Geological Survey and Mining Bureau officials have issued a directive to seek permits and permits for those who engage in excavations for agricultural activity and to take a series of surveillance to see if the permit regulations are appropriate.
 
 ...
 
 [Data](articles/2187c61f.json)
+
+[Extended Data](ext_articles/2187c61f.ext.json)
 
 ---
 
@@ -2093,23 +2139,5 @@ The work plan carried out by the local bodies submitted for the approval of the 
 [Data](articles/65300041.json)
 
 [Extended Data](ext_articles/65300041.ext.json)
-
----
-
-### Engage primary kids more in extra-curricular activities than academics: Minister
-
-*2024-05-30 20:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Engage-primary-kids-more-in-extra-curricular-activities-than-academics-Minister/108-283724) · `en`
-
-Colombo, May 30 (Daily Mirror) - Children in primary grades should be engaged in more extracurricular and co-curricular activities than academic activities, Education Minister Susil Premajayantha said.
-
-While participating as the chief guest at the award ceremony of the under-15 and under-17 cricket tournament organized by the Sri Lanka School Cricket Association at the Nelum Pokuna Theater with the support of the Sri Lanka Cricket Institute, he said that by engaging in extra-curricular activities like cricket, a balanced personality can be formed in the children, and thus a child with balanced abilities can be created.
-
-Due to hard work, the school sports tournaments that were missed during the Covid-19 period were able to be properly conducted and completed.
-
-...
-
-[Data](articles/0dcddfa3.json)
-
-[Extended Data](ext_articles/0dcddfa3.ext.json)
 
 ---

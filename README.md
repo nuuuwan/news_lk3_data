@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-31 20:53:15**
+As of **2024-05-31 21:03:55**
 
 ## Newspaper Stats
 
-*Scraped **27,587** Articles*
+*Scraped **27,589** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,488
 economynextcom | 1,575
 dailyftlk | 1,612
-adalk | 2,356
+adalk | 2,358
 adaderanalk | 3,141
 tamilmirrorlk | 3,234
 virakesarilk | 4,260
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,403
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,587 (100.0%) of 27,587 articles have been extended.
+27,587 (100.0%) of 27,589 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -101,6 +101,18 @@ Daluwatte maintained consistency across all three days, carding scores of 71, 71
 [Data](articles/0ca8aa1f.json)
 
 [Extended Data](ext_articles/0ca8aa1f.ext.json)
+
+---
+
+### ක‍ිර්තිමත් බුද්ධි අංශ නිලධාරී ලුතිනන් කර්නල් මුතාලිෆ් ඝාතනයට වසර 19
+
+*2024-05-31 19:46:23* · [`adalk`](https://www.ada.lk/opinion/ක‍ිර්තිමත්-බුද්ධි-අංශ-නිලධාරී-ලුතිනන්-කර්නල්-මුතාලිෆ්-ඝාතනයට-වසර-19/2-409946) · `si`
+
+රට ජාතිය වෙනුවෙන් යුද සේවයට කැප වෙන්නාවූ සෑම රණවිරුවකුම මේ රට ආරක්ෂා කරන්නාවූ දෙවියන් බදු වුවන් වන බැවින් එවන් යුධ සෙබළුන් සිටින හමුදාවක කොටසක් නැතහොත් කොදුනාරටියක් වශයෙන් සැලකෙන බුද්ධි අංශය රටෙහි ජාතික ආරක්ෂාව සදහා විශාල මෙහෙයක් සිදු කරනු ලබයි.  රටක යුද හමුදා බුද්ධි අංශයක් ක්‍රියාත්මක වන්නේ රාජ්‍ය පාලකයා සහ සමස්ත ජනතාව ම ආරක්ෂා කිරීම සදහාය. ඔවුන් දිවුරුම් දී ඇත්තේ නායකා රකින්නට පමණක් නොව සමස්ත ජනතාවත් රජය්‍යත් සමග තම මවුබිම රැකිම සදහාය.
+
+...
+
+[Data](articles/31e5c0bf.json)
 
 ---
 
@@ -745,6 +757,20 @@ This is stated by the latest report issued by the Department of Census and Stati
 [Data](articles/ff2154b0.json)
 
 [Extended Data](ext_articles/ff2154b0.ext.json)
+
+---
+
+### චීන ආර්ථික වර්ධන පුරෝකථනය යළිත් ඉහළට
+
+*2024-05-31 16:40:01* · [`adalk`](https://www.ada.lk/breaking_news/චීන-ආර්ථික-වර්ධන-පුරෝකථනය-යළිත්-ඉහළට/11-409945) · `si`
+
+2024 හා 2025 වසරවල චීන ආර්ථික වර්ධන අනුපාත පිළිවෙළින් 5% ක් හා 4.5% ක් වනු ඇතැයි ජාත්‍යන්තර මූල්‍ය අරමුදල පවසයි. පසුගිය අප්‍රේල් මාසයේ නිකුත් කෙරුණු ලෝක ආර්ථික අපේක්ෂා පිළිබඳ වාර්තාව හා සසඳන විට එය 0.4% ක වර්ධනයකි.
+
+ජාත්‍යන්තර මූල්‍ය අරමුදලේ උපසභාපතිනි ගීතා ගෝපිනාත් මහත්මිය මේ බව කියාසිටියේ 29 වැනිදා බෙයිජිං අගනුවර පැවති මාධ්‍ය හමුවකට එක්වෙමිනි. වසරේ පළමු කාර්තුවේ දී චීන දළ දේශීය නිෂ්පාදනය වේගයෙන් වර්ධනය වීම හා අනුගමනය කර ඇති ඵලදායී පියවර ගණනාවක් ඊට හේතු වූ බව ද ඇය ප්‍රකාශ කළාය.
+
+◼️
+
+[Data](articles/e8b1664d.json)
 
 ---
 
@@ -2245,47 +2271,5 @@ That will be difficult, however, given this has never happened before.
 [Data](articles/d331cdbc.json)
 
 [Extended Data](ext_articles/d331cdbc.ext.json)
-
----
-
-### More flights between Sri Lanka and Pakistan
-
-*2024-05-31 09:55:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-பாகிஸ்தான்-இடையே-மேலும்-விமான-சேவைகள்/175-338191) · `ta`
-
-Sri Lanka and Pakistan plan to explore more direct flights, specifically from Colombo to Islamabad, building on existing routes to Lahore and Karachi. This decision was made during a meeting involving officials from both nations' religious affairs ministries, highlighting the mutual interest in enhancing air connectivity.
-
-🟩
-
-It has been reported that Sri Lanka and Pakistan have agreed to investigate the possibility of increasing aircraft by launching a direct flight from Colombo to Islamabad.
-
-Currently, direct flights are operated from Colombo to Lahore and Karachi in Pakistan.
-
-At a meeting between Pakistan's Religious Affairs and Religious Reconciliation Minister Chowdhury Salik Hussein and Buddha Sasana, Minister of Religious and Cultural Affairs, Vidura Wickramanayake, the need to increase the airline.
-
-Sri Lankan High Commissioner to Pakistan, Ravindra Wijegunawardena, who participated in the meeting, explained the current status of airlines between the two countries and emphasized the importance of increasing air operations.
-
-◼️
-
-[Data](articles/d4b8090d.json)
-
-[Extended Data](ext_articles/d4b8090d.ext.json)
-
----
-
-### The suspect who stored the bag of foreign girl
-
-*2024-05-31 09:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197204) · `si`
-
-A suspect was arrested for stealing a foreign girl's luggage from a private bus in Pettah, Colombo.
-
-🟩
-
-A suspect has been arrested in connection with theft of a foreign national girl's baggage on a private bus in Pettah, Colombo.
-
-◼️
-
-[Data](articles/0c5f8a42.json)
-
-[Extended Data](ext_articles/0c5f8a42.ext.json)
 
 ---

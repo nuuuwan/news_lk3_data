@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-31 20:03:46**
+As of **2024-05-31 20:18:55**
 
 ## Newspaper Stats
 
-*Scraped **27,583** Articles*
+*Scraped **27,584** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,31 +20,39 @@ adaderanalk | 3,140
 tamilmirrorlk | 3,234
 virakesarilk | 4,260
 dailymirrorlk | 4,366
-adaderanasinhalalk | 4,401
+adaderanasinhalalk | 4,402
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,576 (100.0%) of 27,583 articles have been extended.
+27,583 (100.0%) of 27,584 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-31 (Friday)
 
-### வேலை நிறுத்தத்தில் ஈடுபட்டுள்ள பல்கலைக்கழக கல்விசாரா ஊழியர்களுடன் எதிர்வரும் திங்கட்கிழமை பேச்சுவார்த்தை - உயர்கல்வி இராஜாங்க அமைச்சர் கலாநிதி சுரேன் ராகவன்
+### Minister of State for Higher Education Dr. Suren Raghavan
 
 *2024-05-31 19:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/184999) · `ta`
 
-பல்வேறு கோரிக்கைகளை முன்வைத்து வேலை நிறுத்தத்தில் ஈடுபட்டுள்ள பல்கலைக்கழக கல்விசாரா ஊழியர் சங்கங்களுடன் எதிர்வரும் திங்கட்கிழமை பேச்சுவார்த்தை நடத்தவுள்ளதாக உயர்கல்வி இராஜாங்க அமைச்சர் கலாநிதி சுரேன் ராகவன் தெரிவித்தார்.
+Dr. Suren Raghavan, Higher Education Minister, announced plans to meet with striking non-academic staff unions to address their demands, emphasizing the government's readiness to offer a solution. The strike, affecting student learning and costing around 150 million rupees daily, highlights the urgency for resolution. Discussions with finance officials aim to cover the estimated 1.1 billion rupee requirement for salary increases over six months. Raghavan stresses the importance of finding a suitable solution amidst economic challenges and the need for higher education reform aligning with global trends.
 
-இது தொடர்பில் ஜனாதிபதி ரணில் விக்ரமசிங்க உள்ளிட்ட அரசாங்கம் சிறந்த தீர்வை வழங்க தயாராக உள்ளதாகவும் அவர் குறிப்பிட்டார்.
+🟩
 
-ஜனாதிபதி ஊடக மையத்தில் 31ஆம் வெள்ளிக்கிழமை நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே உயர்கல்வி இராஜாங்க அமைச்சர் சுரேன் ராகவன் இதனைத் தெரிவித்தார்.
+Higher Education Minister Dr. Suren Raghavan said that he will hold talks with the university non -academic staff unions who have been on strike on various demands.
+
+He added that the government, including President Ranil Wickremesinghe, is ready to provide a better solution.
+
+Minister of Higher Education Suren Raghavan made this statement at a media briefing held at the Presidential Media Center on Friday.
+
+“Currently non -academic staff are on strike. This is an unfortunate thing. This is because the students of the future are affected by this. This results in a direct loss of about 150 million rupees a day. This is only a financial loss. Human Time is also wasted. So the government does not need to waste more than one more hour. I think the strike as a parent is also impact. So they do not want to follow this. Now we need to see how to find the right solution.
 
 ...
 
 [Data](articles/c91cb4f4.json)
+
+[Extended Data](ext_articles/c91cb4f4.ext.json)
 
 ---
 
@@ -64,37 +72,51 @@ However, after coming under criticism, Jeevan took to his X account defending hi
 
 [Data](articles/588c5125.json)
 
+[Extended Data](ext_articles/588c5125.ext.json)
+
 ---
 
-### முதியவர்களுக்கான கொடுப்பனவுகள் நிறுத்தப்படுமென வௌியாகும் தகவல் பொய்யானது - நலன்புரி நன்மைகள் சபை
+### Information that the Payments for the Elderly will be stopped
 
 *2024-05-31 19:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/184998) · `ta`
 
-அஸ்வெசும நலன்புரித் திட்டம் நடைமுறைப்படுத்தப்பட்டு வரும் நிலையில் இதுவரையில் வழங்கப்பட்டு வந்த முதியர்களுக்கான கொடுப்பனவு நிறுத்தப்படுமென வௌியாகும் தகவல்கள் உண்மைக்கு புறம்பானவை என நலன்புரி நன்மைகள் சபை அறிவித்துள்ளது.
+The Aswezum Welfare Program, which provides allowances to the elderly, faces delays due to technical issues but aims to resume payments post-second week of June. The program, set to discontinue, had allocated 1518 million rupees for May allowances, ensuring support for those over 70 from welfare-receiving families.
 
-2024 மே மாதம் கொடுப்பனவுகளை வழங்குவதற்குத் தேவையான சுமார் 1518 மில்லியன் ரூபா நிதி மாவட்டச் செயலகங்களுக்கு அனுப்பி வைக்கப்பட்டுள்ளது.
+🟩
 
-தொழில்நுட்ப காரணங்களினால் கொடுப்பனவுகளை வழங்குவதில் தாமதம் ஏற்பட்டிருந்தாலும், ஜூன் மாதம் இரண்டாம் வாரத்தின் பின்னர் பிரதேச செயலகங்களில் வழமையான முறையில் முதியவர்களுக்கான கொடுப்பனவு வழங்கப்படுமெனவும் நலன்புரி நன்மைகள் சபை அறிவுறுத்தியுள்ளது.
+The Welfare Benefits Council has announced that the information that the Aswezum Welfare Program is being implemented will be discontinued.
 
-அதேபோல் ஜுன் கொடுப்பனவும் குறித்த மாதத்திலேயே வழங்கப்படும் என்றும், அஸ்வெசும கொடுப்பனவு கட்டமைப்பின் கீழ் உரிய வங்கிக் கணக்குகளில் பணத்தை வைப்பிடும் பணிகள் ஆரம்பிக்கப்பட்டுள்ளதாகவும் குறித்த சபை அறிவித்துள்ளது.
+In May 2024, about 1518 million rupees required to provide allowances has been sent to the District Secretariats.
 
-இதனிடையே தற்போது அஸ்வெசும நலன்புரித் தொகையைப் பெற்றுக்கொள்ளும் குடும்பங்களிலிருந்தும்  70 வயதுக்கு மேற்பட்ட முதியவர்களுக்கு இந்த கொடுப்பனவு வழங்கப்படும் என்றும் நலன்புரி நன்மைகள் சபை அறிவித்துள்ளது.
+The Welfare Benefits Council has advised that even though there is a delay in the payment of allowances due to technical reasons, the benefits of the elderly will be given to the elderly in the Divisional Secretariats after the second week of June.
+
+Similarly, the June allowance will be issued in the month and that the payment of money in the relevant bank accounts under the Assembly Payment Structure has begun.
+
+Meanwhile, the Welfare Benefits Council has announced that the allowance will be issued to the elderly over 70 years of age from families who are currently receiving welfare.
 
 ◼️
 
 [Data](articles/f2b0eb37.json)
 
+[Extended Data](ext_articles/f2b0eb37.ext.json)
+
 ---
 
-### கொழும்பில் பலஸ்தீனம் மீதான இனப்படுகொலையை நிறுத்தக்கோரி கவனயீர்ப்பு போராட்டம்
+### The protest is to stop the genocide on Palestine in Colombo
 
 *2024-05-31 19:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/184997) · `ta`
 
-பலஸ்தீனம் மீதான இனப்படுகொலை தாக்குதலை உடன் நிறுத்துமாறு வலியுறுத்தி சிவில் அமைப்பினர் கொழும்பில் உள்ள ஐக்கிய நாடுகள் சபையின் தலைமை அலுவலகத்தின் முன்பாக கவனயீர்ப்பு போராட்டத்தில் ஈடுபட்டனர்.
+In Colombo, civil groups protested outside the UN Headquarters, calling for an end to the genocide in Palestine.
+
+🟩
+
+Civil organizations staged a protest in front of the United Nations Headquarters in Colombo, demanding the halt of the genocide on Palestine.
 
 ◼️
 
 [Data](articles/5fab65f7.json)
+
+[Extended Data](ext_articles/5fab65f7.ext.json)
 
 ---
 
@@ -118,17 +140,43 @@ While China may still see lower demand compared with its record breaking shipmen
 
 ---
 
-### சைனீஸ் தாய்ப்பே பகிரங்க மெய்வல்லுநர் போட்டி: இலங்கையிலிருந்து ஐவர் பங்கேற்பு
+### Chinese breastfeeding public athletics competition: Five participates from Sri Lanka
 
 *2024-05-31 19:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/184996) · `ta`
 
-தாய்வானில் நடைபெறவுள்ள சைனீஸ் தாய்ப்பே பகிரங்க மெய்வல்லுநர் போட்டியில் இலங்கை சார்பாக ஐவர் பங்குபற்றவுள்ளனர்.
+Sri Lanka sends five athletes to the Chinese Breastfeeding Athletics Competition in Taiwan: Aruna Darshana (men's 400m), Nadisha Ramanayake and Tarushi Karunaratne (women's 800m), Gayantika Abeyratne (unknown event), and Tilhani Lakekamke (javelin throw).
 
-ஆண்களுக்கான 400 மீற்றர் ஓட்டப் போட்டியில் அருண தர்ஷனவும் பெண்களுக்கான 400 மீற்றர் ஓட்டப் போட்டியில் நடீஷா ராமநாயக்கவும் 800 மீற்றர் ஓட்டப் போட்டியில் தருஷி கருணாரட்ன, கயன்திகா அபேரட்ன ஆகியோரும் ஈட்டி எறிதல் போட்டியில் டில்ஹானி லேக்கம்கேயும் பங்குபற்றவுள்ளனர்.
+🟩
+
+Five will participate on behalf of Sri Lanka in the Chinese Breasty Athletics Competition to be held in Taiwan.
+
+Aruna Darshana in the men's 400m race, Nadisha Ramanayake, Nadisha Ramanayake, Tarushi Karunaratne and Gayantika Abeyratne in the 800m race and Tilhani Lakekamke will participate in the javelin throwing competition.
 
 ◼️
 
 [Data](articles/bb3d01e3.json)
+
+[Extended Data](ext_articles/bb3d01e3.ext.json)
+
+---
+
+### මාලදිවයින් විදේශ කටයුතු අමාත්‍යවරයා ශ්‍රී ලංකාවේ සංචාරයක
+
+*2024-05-31 19:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197221) · `si`
+
+මාලදිවයින් විදේශ කටයුතු අමාත්‍ය මූසා සමීර් මහතා මෙරට සිව්දින සංචාරයක නිරත වීමට නියමිතව තිබේ.
+
+මාලදිවයින් විදේශ කටයුතු අමාත්‍යවරයා ලබන ජූනි මස 03 වනදා සිට 06 වනදා දක්වා මෙරට නිල සංචාරයක නිරත වීමට නියමිත බව විදේශ කටයුතු අමාත්‍යංශය පැවසුවේය.
+
+මෙම සංචාරයේදී මාලදිවයින් විදේශ අමාත්‍යවරයා ජනාධිපති රනිල් වික්‍රමසිංහ සහ අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන යන මහත්වරුන් සමඟ සාකච්ඡා පැවැත්වීමට නියමිතය.
+
+මීට අමතරව මාලදිවයින් විදේශ අමාත්‍යවරයා සහ ඔහුගේ දූත පිරිස විදේශ කටයුතු අමාත්‍යාංශයේදී විදේශ අමාත්‍ය අලි සබ්රි මහතා සමඟ ද්විපාර්ශ්වික සාකච්ඡා පැවැත්වීමට ද නියමිතව තිබේ.
+
+මෙම සංචාරය සඳහා මාලදිවයින් විදේශ අමාත්‍ය සමීර් මහතා සමඟ මාලදිවයින් විදේශ කටයුතු අමාත්‍යාංශයේ ජ්‍යේෂ්ඨ නිලධාරීන් පිරිසක් ද සහභාගී වීමට නියමිතය.
+
+◼️
+
+[Data](articles/03e4d265.json)
 
 ---
 
@@ -936,19 +984,25 @@ The robbery had taken place when the bus was landed at the Bastian bus station a
 
 ---
 
-### දින දින තැන තැන මළ සිරුරු
+### Dead bodies in the day of the day
 
 *2024-05-31 15:43:30* · [`adalk`](https://www.ada.lk/breaking_news/දින-දින-තැන-තැන-මළ-සිරුරු/11-409942) · `si`
 
-වික්ටෝරියා ජලාශයේ දිගන ප්‍රදේශයේ ප‍ාවෙමින් තිබු පුද්ගල මල සිරරු දෙකක් ඊයේ (30) සොයා ගත් බව තෙල්දෙණිය පොලීසිය පවසයි.
+Two bodies were discovered floating in the Victoria Reservoir near Digana, leading to an investigation by the Teldeniya Police. The remains were subsequently transported to the Kandy National Hospital's morgue for examination.
 
-තෙල්දෙණිය පොලිස් ස්ථානයට ලද තොරතුරකට අනුව දිගන, අඹකොටේ හා පොල් අක්කර තිහ ගම්මානවලට මායිම්ව පිහිටි වික්ටෝරියා ජලාශයේ පාවෙමින් තිබූ මෙම මල සිරුරු දෙක ප්‍රදේශවාසින්ට හමුවී ඇති අතර එම සිරුරු හඳුනාගැනීමට නොහැකි තරම් නරක්වී ඇත.
+🟩
 
-මෙම මල සිරුරු දෙක සම්බන්ධ‍යෙන් තෙල්දෙණිය වැඩබලන මහේස්ත්‍රාත් බාන්ස් රඹුක්වැල්ල මහතා විසින් ස්ථානීය පරීක්ෂාවක් සිදු කර ඇති අතර ඉන් පසු  තෙල්දෙණිය පොලිස්ථානයේ නිළධාරීන් හා ප්‍රදේශවාසීන් එක්ව අදාළ සිරුරු දෙක ගොඩ ගෙන මහනුවර ජාතික රෝහලේ මෘත ශරීරාගාරය වෙත භාර දී ඇත. (I J)
+Two persons floating in the Digana in the Digana area in the Victoria Reservoir were found yesterday (30), the Teldeniya Police said.
+
+The two bodies of the area were found in the Victoria Reservoir, which was floating floating in the Victoria and Coconut in the Third Thirty-up of the Thaldeniya police station.
+
+The Teldeniya Magistrate Bardeniya Officer and residents of theldeniya police personnel and residents have been handed over to the Kandy National Hospital's morgue with the two bodies.. (I J)
 
 ◼️
 
 [Data](articles/2c2d92c8.json)
+
+[Extended Data](ext_articles/2c2d92c8.ext.json)
 
 ---
 
@@ -2211,29 +2265,5 @@ The Lawyers Collective condemns the statement of UNP General Secretary Range Ban
 [Data](articles/a4add39f.json)
 
 [Extended Data](ext_articles/a4add39f.ext.json)
-
----
-
-### Sri Lanka rupee opens stable at 301.75/80 to US dollar
-
-*2024-05-31 09:40:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stable-at-301-75-80-to-us-dollar-165537/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened somewhat stable at 301.75/80 to the US dollar on Friday, from 301.85/90 the previous day, dealers said. Bond yields were steady.
-
-A bond maturing on 15.12.2026 was quoted stable at 9.70/80 percent.
-
-A bond maturing on 15.09.2027 was quoted down at 10.35/50 percent from 10.40/55 percent.
-
-A bond maturing on 01.07.2028 was quoted stable at 10.70/80 percent.
-
-A bond maturing on 15.05.2030 was quoted at 11.55/75 percent.
-
-The Colombo Stock Exchange opened up. The All Share Price Index was up 0.10 percent at 12,182, the S&P SL20 was down 0.23 percent at 3,594. (Colombo/May31/2024)
-
-◼️
-
-[Data](articles/b80e0e11.json)
-
-[Extended Data](ext_articles/b80e0e11.ext.json)
 
 ---

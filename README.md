@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-31 16:04:39**
+As of **2024-05-31 16:18:37**
 
 ## Newspaper Stats
 
@@ -26,55 +26,69 @@ adaderanasinhalalk | 4,396
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,531 (100.0%) of 27,535 articles have been extended.
+27,535 (100.0%) of 27,535 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-31 (Friday)
 
-### TikTok අමෙරිකානු මෙහෙයුම් වෙන් කරයි ද?
+### Does TiktoK reserving American operations?
 
 *2024-05-31 15:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197215) · `si`
 
-ලෝකයේ ජනප්‍රියතම සමාජ මාධ්‍ය වේදිකා 05ට අයත්වන අමෙරිකානු නොවන එකම සමාජ මාධ්‍යය වන්නේ චීන බයිට්ඩාන්ස් සමාගමේ ටික්ටොක්, කෙටි වීඩියෝ හුවමාරු යෙදුමය.
+TikTok, owned by ByteDance, faces scrutiny over its U.S. operations due to national security concerns. The Trump administration considered banning TikTok and sought to force ByteDance to divest its U.S. assets. Despite these efforts, ByteDance maintains control over TikTok's U.S. operations, denying reports of separating the app's U.S. and China operations. This situation highlights ongoing tensions between tech companies and government regulations regarding data privacy and national security.
 
-එහෙත් අමෙරිකානුවන් මිලියන 170ක් පමණ අද වනවිට ටික්ටොක් සමාජ මාධ්‍යය භාවිත කරමින් සිටී.
+🟩
 
-ටික්ටොක් යෙදුමේ චීන හිමිකාරීත්වය නිසා අමෙරිකානු ග්‍රාහකයන්ගේ දත්ත අවදානමට ලක්වන බවට ට්‍රම්ප් පරිපාලනයේ වගේම ජෝ බයිඩන් පරිපාලනයේත් අදහස වී තිබේ.
+The only social media that belongs to 5 of the world's most popular social media platforms is Ticktock, a short video exchange app.
 
-එබැවින් ටික්ටොක් අමෙරිකානු මෙහෙයුම් අමෙරිකානු සමාගමකට විකුණා දමන ලෙසත් නැතහොත් ටික්ටොක් අමෙරිකාවේ තහනම් කරන බවටත් බයිඩන් පරිපාලනය පසුගියදා නීතියක් ද සම්මත කරගෙන තිබුණි.
+But about 170 million Americans are using the Ticktock social media.
 
-එහෙත් අමෙරිකාවේ තහනම් කෙරුණත් ටික්ටොක් විකුණා දැමිය නොහැකි බව බයිට්ඩාන්ස් සමාගම ප්‍රකාශ කළේ යැයි පසුගිය කාලයේදී වාර්තා විය.
+The Trump administration also think that the American ownership data of the Ticktock app is at risk of the US subscribers.
 
-එහෙත් ජාත්‍යන්තර මාධ්‍ය අද අනාවරණය කළේ, චීන ටික්ටොක් සමාජ මාධ්‍ය යෙදුමේ මෘදුකාංග සැකැස්ම නැත්නම් 'ඇල්ගොරිදම් එක' අමෙරිකාවේ ටික්ටොක් මෙහෙයුමෙන් වෙන් කරන්න බයිට්ඩාන්ස් සමාගම කටයුතු කරමින් සිටින බවය.
+Therefore, the Bideman administration was adopted that Ticktock was sold to a US company and banned Tiktock America and the Bideman administration was also adopted.
 
-එනම් ටික්ටොක් වීඩියෝ හුවමාරු යෙදුමේ අමෙරිකාවට අදාළ ක්ලෝන පිටපතක් සකස් කිරීමට බයිට්ඩාන්ස් සමාගම කටයුතු කරන බවය.
+Recently, it was reported that the Bitdans stated that even though the US was banned, tictock could not be sold.
+
+However, the international media reveals that the Chinese Tiktock social media apparent, the Bitdans is working to separate the 'algarrring' from the US Ticktock mission.
+
+That is, byddans comply with a Critical copy of the US to the US in the Ticktock Video Exchange app.
+
+It was stated that it could be a step to sell in the US Ticktock mission.
 
 ...
 
 [Data](articles/5b888a86.json)
 
+[Extended Data](ext_articles/5b888a86.ext.json)
+
 ---
 
-### විදෙස් තරුණියගේ ගමන් මල්ල සොරාගත් පුද්ගලයා රිමාන්ඩ්
+### Premaging person who stole the travel bag of foreign girl
 
 *2024-05-31 15:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197214) · `si`
 
-පස්සර බස් රථයේදී බ්‍රිතාන්‍ය ජාතික තරුණියකගේ ගමන් මල්ලක් හා මුදල් සොරකම් කිරීමේ සිද්ධිය සම්බන්ධයෙන් අත්අඩංගුවට ගත් සැකකරු ලබන 07 වනදා දක්වා රක්ෂිත බන්ධනාගාර ගත කරන ලෙස කොළඹ මහෙස්ත්‍රාත් අධිකරණය නියම කර තිබේ.
+A suspect accused of stealing a British girl's travel bag from a bus in Passara has been remanded until the 7th. The arrest followed an investigation after the theft occurred at the Pettah Bastian bus station. The stolen items included cash, a camera, bank cards, and a passport.
 
-පිටකොටුව පොලීසිය විසින් අදාළ සැකකරු කොළඹ අතිරේක මහෙස්ත්‍රාත් පසන් අමරසේන මහතා හමුවට පමුණුවනු ලැබීය.
+🟩
 
-සැකකරු විසින් සොරා ගත් බව කියන පැමිණිකාරයට අයත් ලැප්ටොප් පරිගණකය, කැමරාව, බැංකු කාඩ්පත් සහ ඇයගේ විදේශ ගමන් බලපත්‍රය ඇතුළු ද්‍රව්‍ය යෙන්ම පොලිසිය විසින් අධිකරණයට ඉදිරිපත් කර තිබුණා.
+The suspect arrested for the suspects of a British girl's bag and theft of money on the Passara bus has been remanded until the 7th.
 
-සිද්ධියට අදාළ විමර්ශන තවදුරටත් සිදුකරන බවට පොලීසිය විසින් ඉදිරිපත් කළ කරුණු සලකා බැලූ අතිරේක මහෙස්ත්‍රාත්වරයා අනතුරුව සැකකරු ලබන 07 වනදා දක්වා රක්ෂිත බන්ධනාගාර ගත කිරීමට නියෝග කළේය.
+The suspect was handed over by the Pettah Police Piyawarana Amarasene at the Colombo Additional Magistrate Pradeshina.
 
-මෙම සිද්ධිය සම්බන්ධයෙන් අදාළ බස් රථයේ සවි කර තිබූ ආරක්ෂිත කැමරා ඔස්සේ සිදුකළ විමර්ශනයකින් අනතුරුව මෙම සැකකරු පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබිණි.
+The police had produced the lbs of the complaint, the camera, bank cards and her passport, and her passport.
 
-අදාළ තරුණිය ඇල්ල බලා පිටත්වයාම සඳහා පිටකොටුව බැස්ටියන් බස් නැවතුම්පොලේ බස් රථයට ගොඩවී සිටින අවස්ථාවේ මෙම සොරකම සිදුවී ඇති බවත් පොලීසිය අධිකරණයට වාර්තා කර තිබිණි.
+Additional Magistrate, who had considered the investigations into the incident, was later taken to be remanded until the 7th of this month.
+
+The suspect was arrested by the police following the investigation carried out by the bus operated on the bus.
+
+The robbery had taken place when the bus was landed at the Bastian bus station at the Pettah Bastian bus station for the girl.
 
 ◼️
 
 [Data](articles/31a81919.json)
+
+[Extended Data](ext_articles/31a81919.ext.json)
 
 ---
 
@@ -95,6 +109,8 @@ Meanwhile, CCPI Core in May 2024 has decreased to 177.0 from 177.3 in April 2024
 ◼️
 
 [Data](articles/7a461c12.json)
+
+[Extended Data](ext_articles/7a461c12.ext.json)
 
 ---
 
@@ -263,6 +279,8 @@ SCTU clinical director, prof Simon Crabb said the new scheme would “bring toge
 ...
 
 [Data](articles/545bac36.json)
+
+[Extended Data](ext_articles/545bac36.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-31 19:34:24**
+As of **2024-05-31 19:51:54**
 
 ## Newspaper Stats
 
-*Scraped **27,575** Articles*
+*Scraped **27,576** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,488
 economynextcom | 1,575
 dailyftlk | 1,612
 adalk | 2,354
-adaderanalk | 3,139
+adaderanalk | 3,140
 tamilmirrorlk | 3,234
 virakesarilk | 4,256
 dailymirrorlk | 4,365
@@ -26,37 +26,67 @@ adaderanasinhalalk | 4,401
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,560 (99.9%) of 27,575 articles have been extended.
+27,575 (100.0%) of 27,576 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-31 (Friday)
 
-### இங்கிலாந்து பெண்ணிடம் கைவரிசையை காட்டிய இளைஞன்
+### Extreme Asian heat spurs LNG demand ahead of summer months
+
+*2024-05-31 19:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/99569/extreme-asian-heat-spurs-lng-demand-ahead-of-summer-months) · `en`
+
+Extreme temperatures across Asia are driving up liquefied natural gas (LNG) demand in the region as importers seek cargoes ahead of summer, with imports in South Asia hitting records.
+
+This could tighten available supply and further lift Asian spot prices that have already gained a third since April, with heatwaves across South and Southeast Asia boosting air-conditioner use and other cooling demand. Prices are now at a near six-month peak at $12 per million British thermal units (mmBtu) and are expected to remain elevated.
+
+“Spot prices are now driven by Asian demand. Temperatures in South Asia are rising due to a heatwave, increasing power demand,” said Siamak Adibi, principal consultant at energy consultancy FGE.
+
+While China may still see lower demand compared with its record breaking shipments in 2021, demand from India and the rest of Asia has compensated for any drop-off, Adibi said.
+
+...
+
+[Data](articles/6ddac846.json)
+
+---
+
+### A young man who showed the handwriting to the UK woman
 
 *2024-05-31 19:18:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இங்கிலாந்து-பெண்ணிடம்-கைவரிசையை-காட்டிய-இளைஞன்/175-338205) · `ta`
 
-புறக்கோட்டை பஸ் நிலையத்தில் இங்கிலாந்து பெண் ஒருவரின் பயணப்பொதியை  திருடிய நபர் கைது செய்யப்பட்டுள்ளார்.
+A man was arrested for stealing from a UK woman at a Pettah bus station. He sold stolen items like a laptop and camera on the 25th. The police will present him to court and aim to apprehend buyers of these goods.
 
-கடந்த 25 ஆம் திகதி திருடப்பட்ட பயணப்பொதியில் இருந்த மடிக்கணினி, கெமரா உள்ளிட்ட பெறுமதியான பொருட்களை சந்தேகநபர் பல்வேறு நபர்களுக்கு விற்பனை செய்துள்ளதாக பொலிஸார் குறிப்பிட்டனர்.
+🟩
 
-சந்தேகநபரை புதுக்கடை நீதவான் நீதிமன்றில் முன்னிலைப்படுத்த நடவடிக்கை எடுக்கப்பட்டுள்ளதுடன், பொருட்களை கொள்வனவு செய்துள்ள நபர்களையும் கைது செய்ய நடவடிக்கை எடுக்கப்பட்டுள்ளதாக பொலிஸார் குறிப்பிட்டனர். R
+A man has been arrested for stealing a UK woman in the bus station in Pettah.
+
+Police said the suspect had sold valuable items, including laptop and camera, which was stolen on the 25th.
+
+Steps have been taken to present the suspect to the Pudukkadai Magistrate's Court and the police have taken steps to arrest the persons who have purchased the goods.. Remble
 
 ◼️
 
 [Data](articles/003f5ca6.json)
 
+[Extended Data](ext_articles/003f5ca6.ext.json)
+
 ---
 
-### திரிபோஷா உற்பத்திக்கு மீண்டும் அனுமதி
+### Allow the Triposha production again
 
 *2024-05-31 18:38:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திரிபோஷா-உற்பத்திக்கு-மீண்டும்-அனுமதி/175-338204) · `ta`
 
-06 மாதங்கள் முதல் 3 வயது வரையிலான சிறார்களுக்கு நிபந்தனைகளுடன் மீண்டும் திரிபோஷா பயன்படுத்த அனுமதிக்கப்படும் என சுகாதார சேவைகள் பணிப்பாளர் நாயகம் வைத்தியர் அசேல குணவர்தன தெரிவித்துள்ளார். R
+Dr. Asela Gunawardena allows children aged 6 months to 3 years to reuse Triposha under certain conditions.
+
+🟩
+
+Director General of Health Services Dr. Asela Gunawardena said that children between the ages of six months to 3 years will be allowed to re -use Triposha with conditions.. Remble
 
 ◼️
 
 [Data](articles/a2b08d7a.json)
+
+[Extended Data](ext_articles/a2b08d7a.ext.json)
 
 ---
 
@@ -106,21 +136,27 @@ Meanwhile, Shehani Navodya of Ginigathhena Central College has obtained island�
 
 ---
 
-### அகில இலங்கை ரீதியில் முதலிடத்தை பிடித்த மாணவர்கள்
+### All Ceylon Students
 
 *2024-05-31 18:31:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அகில-இலங்கை-ரீதியில்-முதலிடத்தை-பிடித்த-மாணவர்கள்/175-338203) · `ta`
 
-2023 (2024) ஆண்டுக்கான கல்விப் பொதுத் தராதர உயர்தரப் பரீட்சை பெறுபேறுகள் இன்று பிற்பகல் வௌியிடப்பட்டன.
+In 2023, Bahanma Upani Lenora from Balika Vidyalaya topped the Science course, while W.A. Sirath Nirodha from Ananda College led in Physical Sciences among all Ceylon students. Results are available at doenets.lk.
 
-பெறுபேறுகளுக்கு அமைய அறிவியல் பாடத்தில் அகில இலங்கை ரீதியில் முதலிடத்தை காலி சங்கமித்த பாலிகா வித்தியாலயத்தைச் சேர்ந்த பஹன்மா உபனி லெனோரா பெற்றுள்ளார்.
+🟩
 
-அதேபோல், பௌதீக விஞ்ஞான பிரிவில் கொழும்பு ஆனந்தா கல்லூரியை சேர்ந்த W.A சிரத் நிரோதா முதலிடத்தை பெற்றுள்ளார்.
+2023 (2024) The GCE Advanced Level Examination for the Education General Level Examination was passed this afternoon.
 
-இதேவேளை, பரீட்சை திணைக்களத்தின் https://www.doenets.lk/ என்ற இணையதளத்தின் ஊடாக பெபேறுகளை அறிந்து கொள்ள முடியும். R
+Bahanma Upani Lenora of the Balika Vidyalaya, which is the number one Sri Lanka Sangam, is the first in Sri Lanka in the science course.
+
+Similarly, W.A. Sirath Nirodha of Ananda College, Colombo is the number one place in the Physical Sciences.
+
+Meanwhile, you can find out the pelvis through the website of the Department of Examinations at https://www.doenets.lk/.R
 
 ◼️
 
 [Data](articles/0af8b41e.json)
+
+[Extended Data](ext_articles/0af8b41e.ext.json)
 
 ---
 
@@ -144,19 +180,25 @@ It is said that before the commencement of study in January 2025, it is said tha
 
 ---
 
-### மறைந்த பிரான்ஸ் தூதுவருக்கு கொழும்பில் அஞ்சலி நிகழ்வு
+### Anjali event in Colombo for the late France Ambassador
 
 *2024-05-31 18:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/184984) · `ta`
 
-இலங்கைக்கான பிரான்ஸ் தூதுவர் ஜீன் பிராங்கோயிஸ் பேக்டெட் (Jean-Francois Pactet) மறைவையொட்டி கொழும்பு, கொள்ளுப்பிட்டியில் அமைந்துள்ள சென்.மேரிஸ் தேவாலயத்தில் இன்று வெள்ளிக்கிழமை (31) காலை அஞ்சலி நிகழ்வு நடைபெற்றது.
+Jean-Francois Pactet, France's Ambassador to Sri Lanka, was honored at a ceremony in Colombo, presided over by Sri Lanka's Ambassador Brahin Udayakwa, with External Affairs Minister Ali Sabri and other diplomats in attendance.
 
-இலங்கையின் அப்போஸ்தலிக்க தூதுவர் பேரருட்திரு பிரையன் உதய்க்வே ஆண்டகை இந்த அஞ்சலி நிகழ்வுக்கு தலைமைதாங்கினார்.
+🟩
 
-வெளிவிவகார அமைச்சர் அலி சப்ரி, தூதுவர்கள் மற்றும் உயர்ஸ்தானிகர்கள் இந்த நிகழ்வில் கலந்துகொண்டனர்.
+Jean-Francois Pactet, France Ambassador to Sri Lanka, was held at St. Mary's Church in Kalupitiya, Colombo, this morning.
+
+The Ambassador of Sri Lanka, Brahin Udayakwa, presided over the event.
+
+External Affairs Minister Ali Sabri, Ambassadors and High Commissioners were present at the event.
 
 ◼️
 
 [Data](articles/98c38249.json)
+
+[Extended Data](ext_articles/98c38249.ext.json)
 
 ---
 
@@ -212,71 +254,101 @@ The decision was taken in order to make pre-arrangements for the University of M
 
 ---
 
-### புலம்பெயர் தமிழர்கள் அரசியல் நிகழ்ச்சி நிரலை பின்பற்றுவதை தவிர்க்கவேண்டும் - அலி சப்ரி
+### Diaspora Tamils ​​should avoid following political agenda - Ali Sabri
 
 *2024-05-31 17:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/184976) · `ta`
 
-புலம்பெயர் தமிழர்கள் அரசியல்நிகழ்ச்சிநிரலை பின்பற்றுவதை தவிர்க்கவேண்டும் என வெளிவிவகார அமைச்சர் அலிசப்ரி வேண்டுகோள் விடுத்துள்ளார்.
+Ali Sabri, External Affairs Minister, advises Diaspora Tamils to steer clear from politics, highlighting Western negligence towards Gaza and urging UN action on international law. He calls for immediate resolution of Israeli-Hamas conflict based on 1965 borders, supports Palestine's recognition by 143 countries, and emphasizes the establishment of a Palestinian government within five years. Sabri addresses human rights concerns in Sri Lanka, acknowledging the pain of families affected by disappearances and advocating for improved rights and development in the country's northeast.
 
-காசா நெருக்கடி குறித்து மேற்குலக நாடுகள் அலட்சியமாக உள்ளன என தெரிவித்துள்ள அவர் சர்வதேச ஜனநாயகத்தை பாதுகாப்பதற்காக ஐக்கியநாடுகள் சபை எவ்வாறு செயற்படவேண்டும் என்பது தொடர்பில் சர்வதேச சட்டங்களில் தீவிர மாற்றங்களை மேற்கொள்ளவேண்டும் எனவும் தெரிவித்துள்ளார்.
+🟩
 
-இஸ்ரேல் ஹமாஸ் மோதல் உடனடியாக முடிவிற்கு கொண்டுவரப்படவேண்டு;ம் என்பதே இலங்கையின் நிலைப்பாடு என தெரிவித்துள்ள அலிசப்ரி 1965 ம்ஆண்டின் அறிவிப்பில் எல்லைகள் குறித்து தெரிவிக்கப்பட்டுள்ளதமைக்கு ஏற்ப இருநாடுகளும் காணப்படவேண்டும் எனவும் அவர் குறிப்பிட்டுள்ளார்.
+External Affairs Minister Alisabri has requested that the diaspora Tamils ​​avoid following the political event.
 
-பாலஸ்தீனத்திற்கு அங்கீகாரம் வழங்கும் விதத்தில் 143 நாடுகள் வாக்களித்துள்ளன என தெரிவித்துள்ள அவர் பாலஸ்தீனத்திற்கும் இஸ்ரேலிற்கும்இடையில் சகாவாழ்வை வலியுறுத்தியுள்ளதுடன் அடுத்த ஐந்து வருடங்களிற்குள் பாலஸ்தீன அரசாங்கத்தை ஏற்படுத்தவேண்டிய தேவையையும் வலியுறுத்தியுள்ளார்.
+He said that the Western countries are negligent on the Gaza crisis and that the United Nations should take serious changes to international law on how to act to protect international democracy.
+
+He said that the Israeli Hamas conflict should be immediately concluded and that the two countries should be found in accordance with the boundaries of the 1965 announcement.
+
+He said 143 countries voted to recognize Palestine and urged Palestine and Israel to emphasize the need for the Palestinian government to establish the Palestinian government within the next five years.
+
+Commenting on human rights allegations against Sri Lanka, Foreign Minister has reiterated the country's commitment to improving human rights of citizens.
+
+Accepting the agony of 6700 people who have said that their loved ones have disappeared, he has also emphasized the need to create a suitable situation in Sri Lanka.
 
 ...
 
 [Data](articles/e05c54b2.json)
 
+[Extended Data](ext_articles/e05c54b2.ext.json)
+
 ---
 
-### 'லட்சுமியை காணவில்லை' என புகார் கொடுத்த 'மகாராஜா' விஜய் சேதுபதி
+### 'Maharaja' Vijay Sethupathi complained that 'Lakshmi is missing'
 
 *2024-05-31 17:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/184978) · `ta`
 
-'மக்கள் செல்வன்' விஜய் சேதுபதி நடிப்பில் தயாராகி இருக்கும் 'மகாராஜா' எனும் திரைப்படத்தின் முன்னோட்டம் வெளியிடப்பட்டிருக்கிறது.‌
+In the preview of "Maharaja," Vijay Sethupathi stars as a hairdresser whose client, Lakshmi, goes missing from his salon. This scene has garnered over a million views, showcasing Sethupathi's unique portrayal. The film also features Anurag Kashyap, Mamta Mohandas, and others, directed by Bharathiraja, with music by B. Ajaneesh Loknath. It's Vijay Sethupathi's 50th film, receiving positive feedback for his performance.
 
-சிகை அலங்கார நிபுணரான 'மகாராஜா' தன் முடி திருத்தும் நிலையத்திலிருந்து லட்சுமி காணவில்லை என காவல்துறையில் புகார் தருகிறார்.
+🟩
 
-இந்தக் காட்சி மகாராஜா படத்தின் முன்னோட்டத்தில் இடம் பிடித்திருப்பதாலும், ரசிகர்களை வெகுவாக கவர்ந்திருப்பதாலும்.. இந்த முன்னோட்டம் வெளியான குறுகிய கால அவகாசத்திற்குள் ஒரு மில்லியனுக்கும் மேற்பட்ட பார்வையாளர்களால் பார்வையிடப்பட்டு சாதனை படைத்து வருகிறது.
+The preview of 'Maharaja' starring Vijay Sethupathi has been released.
+
+The hairdresser, 'Maharaja', complains to the police that Lakshmi is missing from her hair correction center.
+
+The scene is in the preview of the Maharaja film and is very impressed with the fans.. Within a short time of this preview, more than a million viewers have been visited and achieved.
+
+Vijay Sethupathi, Bolivud actor Anurag Kashyap, Mamta Mohantas, Naty alias Natraj, 'Director' Bharathiraja 'Bharathiraja, Abhirami, Muniskantha,' Monkey Doll 'Vinod Sagar has played many others. Dinesh Purushothaman has recorded the cinematography by B.. Ajanish Loknath has composed the music. The film was co -produced by producers Sudan Sundaram and Jagadish Palanisamy on behalf of Fesan Studios and The Root.
 
 ...
 
 [Data](articles/c75435e8.json)
 
+[Extended Data](ext_articles/c75435e8.ext.json)
+
 ---
 
-### இலங்கைக்கு விஜயம் செய்யவுள்ளார் மாலைதீவு வெளிவிவகார அமைச்சர்
+### Maldives Foreign Minister to visit Sri Lanka
 
 *2024-05-31 17:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/184983) · `ta`
 
-ஜூன் 03 ஆம் திகதி முதல் 06 ஆம் திகதி வரை இலங்கைக்கான உத்தியோகபூர்வ விஜயத்தை மேற்கொள்ளவுள்ளதாக வெளிவிவகார அமைச்சு தெரிவித்துள்ளது.
+Maldives' Foreign Minister will visit Sri Lanka from June 3rd to 6th for official talks, including meetings with President Ranil Wickremesinghe and Prime Minister Dinesh Gunawardena, as well as bilateral discussions with Ali Sabri.
 
-இந்த விஜயத்தின் போது அவர் ஜனாதிபதி ரணில் விக்ரமசிங்க மற்றும் பிரதமர் தினேஷ் குணவர்தன ஆகியோரை சந்தித்து கலந்துரையாடவுள்ளார்.
+🟩
 
-இதன்போது, மாலைதீவு வெளிவிவகார அமைச்சர் மற்றும் அவரது தூதுக்குழுவினர் து வெளிவிவகார அமைச்சர் அலி சப்ரியுடனும் உத்தியோகபூர்வ இருதரப்பு கலந்துரையாடல்களையும் மேற்கொள்வார்கள்.
+The Ministry of External Affairs has announced that it will make an official visit to Sri Lanka from June 03 to 6.
+
+During the visit, he will meet President Ranil Wickremesinghe and Prime Minister Dinesh Gunawardena.
+
+Meanwhile, the Maldivian Foreign Minister and his delegation will hold official bilateral discussions with Ali Sabri.
 
 ◼️
 
 [Data](articles/bed657c9.json)
 
+[Extended Data](ext_articles/bed657c9.ext.json)
+
 ---
 
-### டயலொக் பாடசாலைகள் றக்பி லீக் 2024: முதலாம் பிரிவில் 42 அணிகள், இரண்டாம் பிரிவில் 12 அணிகள், மூன்றாம் பிரிவில் 29 அணிகள்
+### Dialog Schools Rugby League 2024: 42 teams in the first category, 12 teams in the second category and 29 teams in the third category
 
 *2024-05-31 17:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/184991) · `ta`
 
-இளம் விளையாட்டு வீரர்களின் திறமைகளை ஊக்குவிப்பதிலும் எதிர்கால சம்பியன்களை உருவாக்குவதிலும் அர்ப்பணிப்புடனும் பொறுப்புணர்வுடனும் செயற்பட்டு வரும் இலங்கையின் முதன்மை இணைப்பு வழங்குநரான டயலொக் ஆசிஆட்டா பிஎல்சி, இந்த வருடமும் டயலொக் பாடசாலகள் றக்பி லீக் போட்டிக்கு அனுசரணை வழங்குகிறது.
+The Dialog Schools Rugby League 2024, sponsored by Dialog Acida PLC, features 83 school teams across three categories, marking the first participation of Sri Lankan schools in rugby history. The competition begins on June 14, with St. Susiapper College facing Kandy Vidyartha College. Each team plays seven matches in the first round over seven weeks, ending on July 18. The top two teams from each group advance to the Super Round, where the eventual winner is crowned the Rugby League Champion.
 
-2024ஆம் ஆண்டுக்கான டயலொக் பாடசாலைகள் றக்பி லீக்கில் மூன்று பிரிவுகளில் 83 பாடசாலை அணிகள் பங்குபற்றுகின்றன. இலங்கை பாடசாலைகள் றக்பி வரலாற்றில் அதிகளவிலான அணிகள் பங்குபற்றுவது இதுவே முதல் தடவையாகும்.
+🟩
 
-நடப்பு லீக் மற்றும் நொக் அவுட் சம்பியனான புனித பேதுருவானவர் கல்லூரி உட்பட 16 பாடசாலை அணிகள் முதலாம் பிரிவில் இரண்டு அடுக்குகளில் பங்குபற்றுகின்றன. இந்த வருட முற்பகுதியில் நடைபெற்ற அணிக்கு எழுவர் றக்பி போட்டியிலும் புனித பேதுருவானவர் கல்லூரி சம்பியனாகியிருந்தது.
+Sri Lanka's primary affiliate provider, Dialog Acida PLC, who is committed to promoting the talents of young athletes and creating future champions, sponsors the Dialog Schools Rugby League competition this year.
 
-முன்னாள் லீக் சம்பியன் புனித சூசையப்பர் கல்லூரிக்கும் கண்டி வித்யார்த்த கல்லூரிக்கும் இடையில் ஹெவ்லொக் பார்க் மைதானத்தில் ஜூன் 14ஆம் திகதி நடைபெறவுள்ள போட்டியுடன் இந்த வருட டயலொக் பாடசாலைகள் றக்பி லீக் ஆரம்பமாகவுள்ளது.
+83 school teams participate in three categories of Dialog Schools for 2024. This is the first time Sri Lankan schools have participated in the history of Rugby history.
+
+16 school teams, including the current league and knock -out champion, participate in two layers in the first category, including St. Peter's College. St. Peter was also a college champion in the Ezhuvar Rugby Tournament for the team that was held earlier this year.
+
+This year's Dialog Schools Rugby League will commence this year with a competition to be held on June 14 at the Hewlok Park Ground between St. Susiapper College and Kandy Vidyartha College.
 
 ...
 
 [Data](articles/ed91b46e.json)
+
+[Extended Data](ext_articles/ed91b46e.ext.json)
 
 ---
 
@@ -308,23 +380,29 @@ WWW.SLBFE to find out if a company or a person has a valid job agency to recruit
 
 ---
 
-### தொடர் தியானத்தில் ஈடுபட்டிருக்கும் இந்திய பிரதமர் நரேந்திர மோடி
+### Indian Prime Minister Narendra Modi
 
 *2024-05-31 17:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/184982) · `ta`
 
-கன்னியாகுமரியில் அமையப் பெற்றுள்ள விவேகானந்தர் நினைவிடத்தில் இந்திய பிரதமர் நரேந்திர மோடி தொடர்ந்து தியானத்தில் ஈடுபட்டிருக்கும் காணொளி வெளியாகி இணையத்தில் வைரலாகி வருகிறது.
+Indian PM Narendra Modi meditates at Vivekananda's memorial in Kanyakumari, sparking online discussions. Despite criticism, no BJP leaders greeted him due to advice against politicizing the visit. His actions, especially during election season, are closely watched.
 
-தமிழகத்தின் தென்கோடி பகுதியான கன்னியாகுமரிக்கு வருகை தந்த இந்திய பிரதமர் நரேந்திர மோடி, விவேகானந்தர் பாறைக்கு தனி படகுமூலம் சென்று, அங்குள்ள விவேகானந்தர் நினைவு மண்டபத்தில் தொடர் தியானத்தில் ஈடுபட்டுள்ளார்.
+🟩
 
-நேற்று இரவு ஏழு மணி அளவில் தனது தியானத்தை தொடங்கிய அவர் இன்று காலை தியானத்தில் ஈடுபட்டிருக்கும் காணொளிகளும், புகைப்படங்களும் ஊடகங்களில் வெளியாகி பகிரப்பட்டு வருகிறது.
+Indian Prime Minister Narendra Modi continues to meditate at Vivekananda's memorial in Kanyakumari and is going viral on the internet.
 
-ஊடகத்தில் வெளியான காணொளி குறித்து இணையம் முழுவதும் பல்வேறு எதிர்மறையான விமர்சனங்கள் முன்வைக்கப்பட்டு வருகின்றன.‌
+Indian Prime Minister Narendra Modi, who visits Kanyakumari, the southern part of Tamil Nadu, has gone through a separate boat to the Vivekananda rock and engaged in a series of meditation at the Vivekananda Memorial Hall.
 
-இந்நிலையில் கன்னியாகுமரிக்கு சென்ற இந்திய பிரதமர் நரேந்திர மோடியை வரவேற்பு அளிக்க பாஜக தலைவர்கள் யாரும் செல்லவில்லை. இதனை அரசியல் சார்ந்த நிகழ்வாக மாற்ற வேண்டாம் என அக்கட்சியின் தலைமை அறிவுறுத்தி இருந்ததால் பாஜக தலைவர்கள் யாரும் பிரதமரை வரவேற்கும் நிகழ்வில் பங்குபற்றவில்லை என அக்கட்சியின் முன்னணி நிர்வாகிகள் தெரிவித்திருக்கிறார்கள்.
+He started his meditation last night at seven o'clock last night.
+
+Various negative criticism has been posted throughout the Internet about the media released.
+
+None of the BJP leaders went to welcome Indian Prime Minister Narendra Modi to Kanyakumari. Leading executives of the party have said that none of the BJP leaders have participated in the gathering of the Prime Minister as the party's leadership advised not to turn it into a political event.
 
 ...
 
 [Data](articles/a81d694f.json)
+
+[Extended Data](ext_articles/a81d694f.ext.json)
 
 ---
 
@@ -416,17 +494,25 @@ Minor Hotels has over 550 hotels and resorts and serves customers in 56 countrie
 
 ---
 
-### நடிகை சஞ்சனா சிங் நடித்திருக்கும் 'வேட்டைக்காரி' இசை வெளியீடு
+### 'Vettaikari' starring actress Sanjana Singh
 
 *2024-05-31 17:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/184979) · `ta`
 
-தமிழ் சினிமாவில் கவர்ச்சியாக நடித்து வரும் நடிகைகளின் ஒருவரான சஞ்சனா சிங் கதையின் நாயகியாக முதன்மையான வேடத்தில் நடித்திருக்கும் 'வேட்டைக்காரி' எனும் திரைப்படத்தின் இசை மற்றும் முன்னோட்டம் வெளியிடப்பட்டிருக்கிறது. சென்னையில் நடைபெற்ற பிரத்யேக விழாவில் இசை மற்றும் முன்னோட்டத்தை பாடலாசிரியர் கவிப்பேரரசு வைரமுத்து வெளியிட, தமிழக கூட்டுறவு துறை அமைச்சர் பெரிய கருப்பன் பெற்றுக் கொண்டார்.
+"Sanjana Singh stars in 'Vettaikari,' directed by Kalimuthu Kathamuthu, alongside Rahul, Vincent Selva, and others. The film, produced by Mrs. Vishnupriya Veluchami, features music by Ramji. Post-production is underway after filming concludes. A special screening in Chennai was attended by Tamil Nadu Cooperative Minister Periyar Karupan and Director Empire. Kavipparasu Vairamuthu highlighted the importance of integrating songs into screenplays effectively for cinematic success."
 
-இயக்குநர் காளிமுத்து காத்தமுத்து இயக்கத்தில் உருவாகி இருக்கும் 'வேட்டைக்காரி' எனும் திரைப்படத்தில் சஞ்சனா சிங், ராகுல், வின்சென்ட் செல்வா, வேலுச்சாமி, கஞ்சா கருப்பு உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.  ராம்ஜி இசையமைத்திருக்கும் இந்த திரைப்படத்தை ஸ்ரீ கருப்பர் பிலிம்ஸ் நிறுவனம் சார்பில் தயாரிப்பாளர் திருமதி விஷ்ணுபிரியா வேலுச்சாமி தயாரித்திருக்கிறார்.
+🟩
+
+Sanjana Singh, one of the actresses in Tamil cinema, has been released as the hero of the story of 'Vettaikari', which has been released as the hero of the story.. Tamil Nadu Cooperative Minister Periyar Karupan received the music and preview of the music and preview at the special ceremony in Chennai.
+
+Sanjana Singh, Rahul, Vincent Selva, Veluchami, Kanja Kalu and many others have starred in the film 'Vettaikari' directed by director Kalimuthu Kathamuthu.The film is composed by Ramji and produced by Mrs. Vishnupriya Veluchami on behalf of Sri Karupar Films.
+
+The shooting of the film is over and the post -shooting work is going on. The music and preview of the film was held in Chennai. Tamil Nadu Co -operative Minister Periyar Karupan and Director Empire participated in the event.
 
 ...
 
 [Data](articles/68bf864b.json)
+
+[Extended Data](ext_articles/68bf864b.ext.json)
 
 ---
 
@@ -454,35 +540,53 @@ This is stated by the latest report issued by the Department of Census and Stati
 
 ---
 
-### சுராஜ் வெஞ்சாரமூடு நடிக்கும் 'நாகேந்திரனின் ஹனிமூன்ஸ்' இணைய தொடரின் ஃபர்ஸ்ட் லுக் போஸ்டர் வெளியீடு
+### The first look poster of the 'Nagendran Honeymoon' Internet series starring Suraj Venjaramudu
 
 *2024-05-31 16:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/184977) · `ta`
 
-மலையாள திரையுலகில் முன்னணி நட்சத்திரமாக வலம் வரும் நடிகர் சுராஜ் வெஞ்சாரமூடு முதன்மையான கதாபாத்திரத்தில் நடித்திருக்கும் 'நாகேந்திரனின் ஹனிமூன்ஸ்' எனும் புதிய அசல் இணைய தொடரின் முதல் பார்வை வெளியிடப்பட்டிருக்கிறது. இந்த இணைய தொடர் முன்னணி டிஜிட்டல் தளமான டிஸ்னி பிளஸ் ஹாட் ஸ்டாரில் விரைவில் வெளியாகவிருக்கிறது.
+The first look of "Nagendran's Honeymoon," a new internet series featuring Suraj Venjaramudu, has been unveiled. Directed by Nithin Ranji Municipality, it also stars Grace Antony, Shivata Menon, Kani Kusruti, among others. The series, combining comedy and action, is set to premiere on Disney Plus Hot Star.
 
-இயக்குநர் நித்தின் ரஞ்சி பணிக்கர் இயக்கத்தில் உருவாகி இருக்கும் 'நாகேந்திரனின் ஹனிமூன்ஸ்' எனும் இணைய தொடரில் சுராஜ் வெஞ்சரமூடு, கிரேஸ் அண்டனி, ஷிவதா மேனன், கனி குஸ்ருதி, அல்பி பஞ்சிகரன், நிரஞ்சனா அனூப், பிரசாந்த் அலெக்சாண்டர், அம்மு அபிராமி, ஜனார்த்தனன், கலாபவன் ஷாஜோன், ரமேஷ் பிஷாரடி உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். நிகில் எஸ். பிரவீண் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு ரெஞ்சின் ராஜ் இசையமைத்திருக்கிறார். இந்த இணையத் தொடரை டிஸ்னி பிளஸ் ஹாட்ஸ்டார் எனும் டிஜிட்டல் தளத்திற்காக எம் ஜி சி பிரைவேட் லிமிடெட் மற்றும் நித்தின் ரஞ்சி பணிக்கர் புரொடக்ஷன்ஸ் ஆகிய நிறுவனங்கள் இணைந்து தயாரித்திருக்கிறது.
+🟩
 
-...
+The first look of the new original internet series 'Nagendran's Honeymune', which plays the lead role in the lead role in the Malayalam film industry, has been released.. The Internet series will soon be released at the leading digital site Disney Plus Hot Star.
+
+Directed by director Nithin Ranji Municipality, 'Nagendran's Honeymune', Suraj Venjaramudu, Grace Antony, Shivata Menon, Kani Kusruti, Albi Pancharan, Niranjana Anoop, Prashant Alexander, Ammu Abirami, Ramesh Pishajan. Nikhil S.. Renjin Raj has composed the film, which has been recorded by Praveen. The web series is co -produced by MGC Private Limited and Nithin Ranji Machikar Productions for Disney Plus Hotstar.
+
+The Internet series, which is combined with stomach shaking comedy + action turns, will soon be released on a digital site, Disney Plus Hot Star.
+
+◼️
 
 [Data](articles/df93c611.json)
 
+[Extended Data](ext_articles/df93c611.ext.json)
+
 ---
 
-### அல்லு அர்ஜுனுடன் மோதும் கீர்த்தி சுரேஷ்
+### Keerthi Suresh clashes with Allu Arjun
 
 *2024-05-31 16:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/184973) · `ta`
 
-சிறந்த நடிப்பிற்காக தேசிய விருதினை வென்ற நடிகை கீர்த்தி சுரேஷ் கதையின் நாயகியாக முதன்மையான வேடத்தில் நடித்திருக்கும் 'ரகு தாத்தா' எனும் திரைப்படத்தின் வெளியீட்டு திகதி அதிகாரப்பூர்வமாக அறிவிக்கப்பட்டிருக்கிறது.
+Keerthi Suresh and Allu Arjun, both National Award winners, have their films releasing on August 15. Keerthi's 'Raghu Grandpa' and Allu's 'Pushpa 2-The Rule' mark their return to the big screen, with both actors receiving recognition for their performances.
 
-இயக்குநர் சுமன் குமார் இயக்கத்தில் உருவாகி இருக்கும் 'ரகு தாத்தா' எனும் திரைப்படத்தில் கீர்த்தி சுரேஷ், எம். எஸ். பாஸ்கர், ரவீந்திர விஜய், தேவதர்ஷினி, ஜெயக்குமார், ஆனந்த் சாமி, ராஜேஷ் பாலச்சந்திரன், இஸ்மத் பானு, ஆதிரா பாண்டி லக்ஷ்மி, முகேஷ் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+🟩
 
-யாமினி மற்றும் சிவக்குமார் இணைந்து ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு ஷான் ரோல்டன் இசையமைத்திருக்கிறார். இந்தத் திரைப்படத்தை ஹோம்பாலே பிலிம்ஸ் நிறுவனம் சார்பில் பிரபல தயாரிப்பாளர் விஜய் கிரகந்தூர் தயாரித்திருக்கிறார்.
+Actress Keerthi Suresh, who won the National Award for Best Award, has been officially announced on the release date of the film 'Raghu Grandpa' which plays the lead role.
 
-அனைத்து பணிகளும் நிறைவடைந்து வெளியீட்டிற்காக காத்திருந்த இந்த திரைப்படத்தின் வெளியீட்டு திகதி அதிகாரப்பூர்வமாக அறிவிக்கப்பட்டிருக்கிறது.
+Keerthi Suresh, M.. S.. Bhaskar, Ravindra Vijay, Devadarshini, Jayakumar, Anand Sami, Rajesh Balachandran, Ismat Banu, Adira Pandi Lakshmi, Mukesh and many others.
+
+Shawn Roldan has composed the film, which is being recorded by Yamini and Sivakumar.. The film was produced by famous producer Vijay Grakandur on behalf of Hombale Films.
+
+The film's release date has been officially announced.
+
+The film will be released on August 15 in the film mansions worldwide. For this purpose, the film crew has published a special photo and enthusiastically announced.
+
+Meanwhile, on August 15, the film 'Pushpa 2-The Rule' will be released, starring Telugu star actor Allu Arjun worldwide.
 
 ...
 
 [Data](articles/69313c21.json)
+
+[Extended Data](ext_articles/69313c21.ext.json)
 
 ---
 
@@ -644,33 +748,49 @@ The remaining 65,531 are private applicants, the Examinations Department said.
 
 ---
 
-### தேர்தல்ஆணைக்குழுவிற்கு அமெரிக்க தூதுவர் விஜயம் - கரிசனைக்குரிய விடயமல்ல - தேர்தல் ஆணையாளர்
+### US Ambassador to the Election Committee
 
 *2024-05-31 15:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/184967) · `ta`
 
-இலங்கைக்கான அமெரிக்க தூதுவர் ஜூலிசங்  இலங்கையின் தேர்தல்கள் ஆணைக்குழுவின் தலைமை அலுவலகத்திற்கு விஜயம் மேற்கொண்டு ஆணையாளர்களை சந்தித்துள்ளமை குறித்து பொதுமக்கள் கவலையடைய தேவையில்லை என தேர்தல் ஆணையகத்தின் அதிகாரிகள் தெரிவித்துள்ளனர்.
+The US Ambassador's visit to Sri Lanka's Election Commission has sparked no public concern. The Chairman, Saman Sriratnayake, confirmed this lack of concern. If the visit were secret, no photos would be shared. The Ambassador requested a visit to India's Election Commission and inquired about parliamentary election preparations, post-presidential dissolution. This visit preceded a meeting with EU representatives.
 
-சுயாதீன ஆணைக்குழுவின் உயர் அதிகாரியை அமெரிக்க தூதுவர் சந்திப்பது  குறித்து பொதுமக்கள் கவலையடையதேவையில்லை என தேர்தல்கள் ஆணைக்குழுவின் தலைவர் சமன் ஸ்ரீரத்நாயக்க தெரிவித்துள்ளார்.
+🟩
 
-அது இரகசிய விஜயமாகயிருந்தால் அமெரிக்க தூதுவர் தான் தேர்தல் ஆணைக்குழு அதிகாரிகளுடன் எடுத்துக்கொண்ட படங்களை பகிர்ந்துகொண்டிருக்கமாட்டார் என சமன்ஸ்ரீரத்நாயக்க தெரிவித்துள்ளார்.
+Officials of the Election Commission have said that the public has not been concerned about the US Ambassador to Sri Lanka, Julisung visiting the Headquarters of the Elections Commission of Sri Lanka.
 
-இந்த வருடம் செப்டம்பர் ஒக்டோபர் மாதத்தில் இடம்பெறவுள்ள ஜனாதிபதி தேர்தலிற்கான ஏற்பாடுகள் குறித்து  அமெரிக்க தூதுவர் கேட்டறிந்தார்என தெரிவித்துள்ள சமன்ஸ்ரீரத்நாயக்க தேர்தல்கள் ஆணையகத்திற்கு மேலும் பல வெளிநாட்டு பிரதிநிதிகள் விஜயம் மேற்கொண்டுள்ளனர் என தெரிவித்துள்ளார்.
+Elections Commission Chairman Saman Sriratnayake says the public is not concerned about the US Ambassador to meet the top official of the Independent Commission.
 
-...
+If it is a secret visit, the US Ambassador will not share the pictures taken with the Election Commission officials, ”said Samanasreratnayake.
+
+The US Ambassador has said that the US Ambassador has asked the Elections Commission to visit the Elections Commission of India.
+
+"Foreign representatives have also been asked about our preparations for holding parliamentary elections before the presidential election, said that the presidential parliament was dissolved.
+
+He said that after the visit of the US Ambassador, representatives of the EU had come to meet us.
+
+◼️
 
 [Data](articles/a5cda17a.json)
 
+[Extended Data](ext_articles/a5cda17a.ext.json)
+
 ---
 
-### வெளியானது க.பொ.த. உயர்தரப் பரீட்சை பெறுபேறுகள் !
+### Released. High Quality Examination Grades!
 
 *2024-05-31 15:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/184966) · `ta`
 
-தற்போது வெளியாகியுள்ள பரீட்சை பெறுபேறுகளை www.doenets.lk என்ற இணையத்தளத்தில் பார்வையிட முடியுமென பரீட்சைகள் திணைக்களம் தெரிவித்துள்ளது.
+Examination results are out Check them on www.doenets.lk.
+
+🟩
+
+The Examinations Department said that the results of the examination can be viewed on the website www.doenets.lk.
 
 ◼️
 
 [Data](articles/c94a9dd3.json)
+
+[Extended Data](ext_articles/c94a9dd3.ext.json)
 
 ---
 
@@ -734,19 +854,25 @@ The robbery had taken place when the bus was landed at the Bastian bus station a
 
 ---
 
-### ரயில் மோதி உயிரிழந்த யானையின் உடலால் துர்நாற்றம்
+### Elephant body
 
 *2024-05-31 15:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/184961) · `ta`
 
-ரயில் மோதி உயிரிழந்த யானையின் உடலால் துர்நாற்றம் வீசுவதாகவும், அதனை முறையாக புதைக்காமை தொடர்பில் கவலை வெளியிடப்படுகிறது.
+A tragic accident occurred when an elephant was hit by a train, leading to its death. The incident sparked concerns over the improper disposal of elephant remains in the area. This event took place on Saturday, the 25th of the month, where both a mother elephant and her calf lost their lives.
 
-யாழில் இருந்து வவுனியா நோக்கி பயணித்த ரயில் மோதி தாய் யானையும் குட்டியும் கடந்த 25ம் திகதி சனிக்கிழமை பலியாகியிருந்தது.
+🟩
 
-உயிரிழந்த குறித்த யானைகள் முறையாக அப்புறப்படுத்தப்படாமையால் அப்பகுதியில் துர்நாற்றம் வீசுவதுடன், அகாதார பாதிப்புகள் ஏற்படுகின்றமை குறிப்பிடத்தக்கது.
+The body of the elephant who died of the train collided with the body of the body, and the concern about the lack of proper burial.
+
+The mother elephant and cub were killed on Saturday, the 25th of this month.
+
+It is noteworthy that the elephants in the area are not properly disposed of.
 
 ◼️
 
 [Data](articles/3e0f0ed6.json)
+
+[Extended Data](ext_articles/3e0f0ed6.ext.json)
 
 ---
 
@@ -2159,27 +2285,5 @@ He was taken to the Katunayake airport with strong security and taken to the Col
 [Data](articles/053d36a9.json)
 
 [Extended Data](ext_articles/053d36a9.ext.json)
-
----
-
-### Brought from Dubai "Mithigama Ruwan"
-
-*2024-05-31 09:17:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டுபாயிலிருந்து-அழைத்து-வரப்பட்டார்-மிதிகம-ருவன்/175-338190) · `ta`
-
-"Mithigama Ruwan, the underworld leader and key drug network suspect, has been extradited from Dubai to Sri Lanka by a team of CID special officials. It's alleged he was plotting to free Harak Kata/Nadun Chintaka from the CID."
-
-🟩
-
-Mithigama Ruwan, the head of the underworld and the main suspect in the international drug network, has been brought to Sri Lanka from Dubai.
-
-It is reported that a team of special officials of the Criminal Investigation Department has brought Mithigama Ruwan from Dubai.
-
-It is also suspected that he was planning to release 'Harak Kata' or Nadun Chintaka from the Criminal Investigation Department recently.. Remble
-
-◼️
-
-[Data](articles/1ba9f624.json)
-
-[Extended Data](ext_articles/1ba9f624.ext.json)
 
 ---

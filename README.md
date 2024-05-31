@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-31 22:18:42**
+As of **2024-05-31 22:34:00**
 
 ## Newspaper Stats
 
@@ -123,6 +123,8 @@ The Ceylon Petroleum Corporation (Ceypetco) has revised its fuel prices with eff
 Accordingly, the price of Petrol Octane 92 will be reduced by Rs. 13 to Rs. 355 per litre while Auto Diesel is to be reduced by Rs. 16 to Rs. 317 per litre. Kerosene has been reduced by Rs. 13 to Rs. 202.
 
 Meanwhile, the prices of Petrol 95 Octane and Super diesel will remain unchanged, according to the Ceypetco.
+
+UPDATE: Lanka Indian Oil Corporation (LIOC) too has decided to revise its fuel prices, mirroring the state-owned oil company’s move.
 
 ◼️
 
@@ -556,7 +558,7 @@ In the Commerce stream, Shehara Sithumini of Panadura Balika Vidyalaya has obtai
 
 Shehani Navodya of Ginigathhena Central College is the island’s first in the Engineering Technology stream.
 
-Meanwhile, Thasun Rithmika of Richmond College, Galle has obtained island’s best results in Arts stream.
+Meanwhile, Thasun Rithmika of Richmond College, Galle has obtained island’s best results in Arts stream while Kirulu Sihildiya Palliyaguru of Eheliyagoda Central College is the island’s first in the Bio Systems Technology.
 
 ◼️
 

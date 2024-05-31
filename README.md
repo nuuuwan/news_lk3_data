@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-31 18:23:46**
+As of **2024-05-31 18:35:12**
 
 ## Newspaper Stats
 
-*Scraped **27,554** Articles*
+*Scraped **27,556** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,46 @@ adalk | 2,353
 adaderanalk | 3,138
 tamilmirrorlk | 3,231
 virakesarilk | 4,244
-dailymirrorlk | 4,363
-adaderanasinhalalk | 4,399
+dailymirrorlk | 4,364
+adaderanasinhalalk | 4,400
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,553 (100.0%) of 27,554 articles have been extended.
+27,554 (100.0%) of 27,556 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-31 (Friday)
+
+### උසස් පෙළ විශිෂ්ඨයෝ මෙන්න
+
+*2024-05-31 18:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197219) · `si`
+
+උසස් පෙළ විභාග ප්‍රතිඵලවලට අදාළව එක් එක් විෂය ධාරාවන් අනුව දිවයිනේ ප්‍රථම ස්ථාන ලබාගත් සිසුන් ප්‍රකාශයට පත් කර තිබේ.
+
+ඒ අනුව ජීව විද්‍යා අංශයේ ප්‍රථම ස්ථානය ගාල්ල සංඝමිත්තා විද්‍යාලයේ පහන්මා උපනි ලෙනෝරා හිමිකර ගෙන ඇති අතර කොළඹ ආනන්ද විද්‍යාලයේ ඩව්. ඒ. චිරාත් නිරෝධ ගණිත අංශයෙන් පළමු ස්ථානය දිනාගෙන ඇත.
+
+◼️
+
+[Data](articles/7813bfde.json)
+
+---
+
+### SAITM, Neville Fernando Hospital to be integrated into Moratuwa University
+
+*2024-05-31 18:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SAITM-Neville-Fernando-Hospital-to-be-integrated-into-Moratuwa-University/108-283815) · `en`
+
+Colombo, May 31 - The South Asian Institute of Technology and Medicine (SAITM) along with the Neville Fernando Teaching Hospital (NFTH) will be officially transferred to the Faculty of Medicine at the University of Moratuwa in August 2024.
+
+The announcement was made by the President’s Media Division (PMD).
+
+◼️
+
+[Data](articles/ab491820.json)
+
+---
 
 ### SAITM and NFTH to be handed over to Moratuwa Uni. in August
 
@@ -43,6 +71,8 @@ The decision was taken in order to make pre-arrangements for the University of M
 ◼️
 
 [Data](articles/eadd8f5e.json)
+
+[Extended Data](ext_articles/eadd8f5e.ext.json)
 
 ---
 
@@ -135,6 +165,30 @@ The police also seized 500g of Ice, 50 gms of Heroin, 500 gms of Ganja, about 2,
 [Data](articles/ba9b6300.json)
 
 [Extended Data](ext_articles/ba9b6300.ext.json)
+
+---
+
+### Softlogic Colombo hotel under Minor group’s NH Collection brand from June
+
+*2024-05-31 17:01:00* · [`economynextcom`](https://economynext.com/softlogic-colombo-hotel-under-minor-groups-nh-collection-brand-from-june-165543/) · `en`
+
+ECONOMYNEXT – Softlogic Holdings said its Colombo city hotel will be operated by Thailand-based Minor leisure group under its upmarket NH Collection brand from June 1.
+
+“The debut of the NH Collection Hotels & Resorts brand in Sri Lanka is an indication of the untapped potential and opportunity for tourism in Sri Lanka, particularly in the city of Colombo,” Softlogic said in a stock exchange filing.
+
+The hotel has 219 rooms and has so far been operated by Movenpick, hotels and resorts.
+
+Minor Hotels has three other properties in Sri Lanka – Anantara Kalutara Resort, Anantara Peace Haven Tangalle Resort and Avani Kalutara Resort.
+
+The Softlogic hotel property, which consists of 219 rooms and suites providing an expansive view of the Indian ocean and Colombo city, will be branded as the “NH Collection Colombo Hotel”.
+
+Minor Hotels has over 550 hotels and resorts and serves customers in 56 countries, the statement said. (Colombo/May31/2024)
+
+◼️
+
+[Data](articles/1debd9be.json)
+
+[Extended Data](ext_articles/1debd9be.ext.json)
 
 ---
 
@@ -482,7 +536,7 @@ Puttalam police said that steps are being taken to bring the seized beedi leaves
 
 *2024-05-31 14:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Lankadeepa-wins-seven-awards/110-283808) · `en`
 
-Our sister paper Daily Lankadeepa won seven awards at Miracle award ceremony held at Waters Edge Hotel last night.
+Our sister paper Daily Lankadeepa won seven awards at Miracle award ceremony held at Waters Edge Hotel last night. Among the individual accolades, Sujith Hewajulige was named Best News Editor and Journalist, Lionel Perera won Best Poet, Niroshan Godellage was awarded Best Provincial News Editor, Dasa Hapuwalana took home Best Cartoonist, and Nimal Jayarathne was recognized as Best Provincial Correspondent. In addition, Daily Lankadeepa received the award for Best Website of the Year.
 
 ◼️
 
@@ -794,7 +848,7 @@ Investigations revealed that the tourist, a YouTuber had arrived in Sri Lanka to
 
 ---
 
-### Sri Lanka moves to ban ‘Happy Hour’ leaves hotels staggered
+### Sri Lanka moves to ban ‘Happy Hour’ leave hotels staggered
 
 *2024-05-31 13:34:00* · [`economynextcom`](https://economynext.com/sri-lanka-moves-to-ban-happy-hour-leaves-hotels-staggered-165586/) · `en`
 
@@ -1383,30 +1437,6 @@ However, the Minister instructed the Agriculture Ministry Livestock Division to 
 [Data](articles/ce2917b0.json)
 
 [Extended Data](ext_articles/ce2917b0.ext.json)
-
----
-
-### Softlogic Colombo hotel under Minor group’s NH Collection brand from June
-
-*2024-05-31 10:39:00* · [`economynextcom`](https://economynext.com/softlogic-colombo-hotel-under-minor-groups-nh-collection-brand-from-june-165543/) · `en`
-
-ECONOMYNEXT – Softlogic Holdings said its Colombo city hotel will be operated by Thailand-based Minor leisure group under its upmarket NH Collection brand from June 1.
-
-“The debut of the NH Collection Hotels & Resorts brand in Sri Lanka is an indication of the untapped potential and opportunity for tourism in Sri Lanka, particularly in the city of Colombo,” Softlogic said in a stock exchange filing.
-
-The hotel has 219 rooms and has so far been operated by Movenpick, hotels and resorts.
-
-Minor Hotels has three other properties in Sri Lanka – Anantara Kalutara Resort, Anantara Peace Haven Tangalle Resort and Avani Kalutara Resort.
-
-The Softlogic hotel property, which consists of 219 rooms and suites providing an expansive view of the Indian ocean and Colombo city, will be branded as the “NH Collection Colombo Hotel”.
-
-Minor Hotels has over 550 hotels and resorts and serves customers in 56 countries, the statement said. (Colombo/May31/2024)
-
-◼️
-
-[Data](articles/1debd9be.json)
-
-[Extended Data](ext_articles/1debd9be.ext.json)
 
 ---
 
@@ -2221,47 +2251,5 @@ The Dubai police arrested Midigama Ruwan following a clash in a night club in Du
 [Data](articles/285862a6.json)
 
 [Extended Data](ext_articles/285862a6.ext.json)
-
----
-
-### Trump becomes first former U.S. president to be convicted of felony crimes
-
-*2024-05-31 06:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/99553/trump-becomes-first-former-us-president-to-be-convicted-of-felony-crimes) · `en`
-
-(AP) — Donald Trump became the first former American president to be convicted of felony crimes Thursday as a New York jury found him guilty of all 34 charges in a scheme to illegally influence the 2016 election through a hush money payment to a porn actor who said the two had sex.
-
-Trump sat stone-faced while the verdict was read as cheering from the street below could be heard in the hallway on the courthouse’s 15th floor where the decision was revealed after more than nine hours of deliberations.
-
-“This was a rigged, disgraceful trial,” an angry Trump told reporters after leaving the courtroom. “The real verdict is going to be Nov. 5 by the people. They know what happened, and everyone knows what happened here.”
-
-Judge Juan Merchan set sentencing for July 11, just days before the Republican National Convention in Milwaukee, where GOP leaders, who remained resolute in their support in the aftermath of the verdict, are expected to formally make him their nominee.
-
-...
-
-[Data](articles/323ce64a.json)
-
-[Extended Data](ext_articles/323ce64a.ext.json)
-
----
-
-### Fairly heavy showers expected in parts of the island
-
-*2024-05-31 06:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/99552/fairly-heavy-showers-expected-in-parts-of-the-island) · `en`
-
-The prevailing showery and windy conditions over the island are expected to continue further, due to the active Southwest Monsoonal condition, says the Met. Department.
-
-Showers will occur at times in Western, Sabaragamuwa, Central and Southern provinces. Several spells of showers will occur in North-western province.
-
-Fairly heavy showers above 50 mm are likely at some places in Western and Sabaragamuwa provinces and in Nuwara-Eliya district.
-
-Showers or thundershowers will occur at a few places in Uva, North-central and Eastern provinces in the evening or night, it said.
-
-Strong winds of about 40-50 kmph can be expected at times over Western slopes of the central hills and in North-central, Western, Southern and North-western provinces and in Trincomalee and Monaragala districts.
-
-...
-
-[Data](articles/cb74ddb7.json)
-
-[Extended Data](ext_articles/cb74ddb7.ext.json)
 
 ---

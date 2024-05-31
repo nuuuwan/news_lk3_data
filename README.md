@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-31 09:04:06**
+As of **2024-05-31 09:34:17**
 
 ## Newspaper Stats
 
-*Scraped **27,454** Articles*
+*Scraped **27,458** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,105 @@ islandlk | 1,488
 economynextcom | 1,568
 dailyftlk | 1,612
 adalk | 2,342
-adaderanalk | 3,125
+adaderanalk | 3,126
 tamilmirrorlk | 3,218
-virakesarilk | 4,232
+virakesarilk | 4,234
 dailymirrorlk | 4,340
-adaderanasinhalalk | 4,383
+adaderanasinhalalk | 4,384
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,454 (100.0%) of 27,454 articles have been extended.
+27,455 (100.0%) of 27,458 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-31 (Friday)
+
+### மிதிகம ருவன் துபாயிலிருந்து இலங்கைக்கு அழைத்துவரப்பட்டார்
+
+*2024-05-31 09:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/184921) · `ta`
+
+பாதாள உலக கும்பலின் தலைவரும் சர்வதேச போதைப்பொருள் வலையமைப்புடன் தொடர்புடைய கடத்தல்காரருமான விதானகே ருவன் சாமர என்றழைக்கப்படும் "மிதிகம ருவன்" துபாயிலிருந்து கொழும்பு குற்றப்புலனாய்வு பிரிவின் அதிகாரிகளால் நாட்டிற்கு அழைத்து வரப்பட்டுள்ளார்.
+
+துபாய் களியாட்ட விடுதியொன்றில் இடம்பெற்ற மோதல் சம்பவம் தொடர்பில் மிதிகம ருவன் அந்நாட்டு பொலிஸாரினால் கடந்த இரு மாதங்களுக்கு முன்னர் கைதுசெய்யப்பட்டிருந்தார். சர்வதேச பொலிஸாரின் சிவப்பு பட்டியலில் அவரது பெயர் இருந்தது.
+
+கட்டுநாயக்க விமான நிலையத்தில் பலத்த பாதுகாப்புடன் அவர் அழைத்துச் செல்லப்பட்டு மேலதிக விசாரணைகளுக்காக கொழும்பு குற்றப்புலனாய்வு பிரிவிற்கு அழைத்துச் செல்லப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/053d36a9.json)
+
+---
+
+### දුම්වැටි පානය ගැන සමීක්ෂණයක්
+
+*2024-05-31 09:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197202) · `si`
+
+‘දුම්කොළ කර්මාන්තයේ මැදිහත්වීම්වලින් අපේ දරුවන් ආරක්ෂා කරගනිමු’යන්න මෙවර ලෝක දුම්වැටි නිවාරණ දිනයේ තේමාව වෙයි.
+
+මෙරට දුම්වැටි භාවිතය සියයට 9.1කින් අඩුවී ඇති අතර තරුණ පිරිස් අතර දුම්වැටි භාවිතය ඝීග්‍රයෙන් අඩුවෙමින් පවතින බව මද්‍යසාර හා මත්ද්‍රව්‍ය තොරතුරු මධ්‍යස්ථානය පවසයි.
+
+දුම්කොළ සමාගම් වාර්තාවලට අනුව පසුගිය වසර තුළ දුම්වැටි නිෂ්පාදනය සියයට 19කින් පමණ අඩු වී තිබේ.
+
+ලෝකයේ දුම්වැටි භාවිතය අඩුවෙමින් පවතින රටවල් අතර ශ්‍රී ලංකාව තුළ ද හොඳ ප්‍රවණාතාවක් පැවතුණ ද තවදුරටත් මිලියන 1.5ක පමණ පිරිසක් දුම්වැටි භාවිතය සිදුකරන බව මධ්‍යසාර හා මත්ද්‍රව්‍ය තොරතුරු මධ්‍යස්ථානය පෙන්වාදෙයි.
+
+පවතින තත්ත්වය හමුවේ තරුණයින් සහ ළමුන් දුම්වැටි භාවිතයට යොමුකරවීම සඳහා බහුජාතික දුම්කොළ සමාගම් කූට උපක්‍රම ගණනාවක් දියත් කරමින් සිටින බවද සඳහන් ය.
+
+දුම්වැටි භාවිතය හේතුවෙන් දෛනිකව මෙරට පුද්ගලයින් පනහකට ආසන්න පිරිසක් මරණයට පත් වන බවද මද්‍යසාර හා මත්ද්‍රව්‍ය තොරතුරු මධ්‍යස්ථානය පෙන්වාදෙයි.
+
+කෙසේවුවද පාසල් සිසුන්ගෙන් සියයට 5.7ක් දුම්වැටි පානය කරන බවට නවතම සමීක්ෂණයකින් හෙළිවී තිබේ.
+
+◼️
+
+[Data](articles/c3c5045b.json)
+
+---
+
+### Person found murdered inside a liquor store
+
+*2024-05-31 09:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/99555/person-found-murdered-inside-a-liquor-store) · `en`
+
+The body of a man has been reportedly found inside a liquor store by Bibila Police last morning (30).
+
+The deceased is a 37-year-old resident of Hali – Ela, Bogahamadiththa.
+
+Investigations have revealed that the deceased runs a liquor store and after an argument with an employee, the employee has attacked him with an iron rod and committed the murder.
+
+The 34-year-old suspect involved in the incident has been arrested by the police.
+
+◼️
+
+[Data](articles/f3cf9d65.json)
+
+---
+
+### Vino MP who made a funding demand to the president
+
+*2024-05-31 08:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/184920) · `ta`
+
+Vino Nogarathalingam, a Vanni district parliamentarian, criticized President Ranil Wickremesinghe for not distributing the diversified budget allocation for 2024 equally among all Vanni district representatives, both from the ruling and opposition parties. During a visit to Mullaitivu Pudukkudiyiruppu, the President was urged by Nogarathalingam to approve funding requests for the Mannar and Vavuniya districts, similar to permissions granted by other MPs for these areas. The President's Assistant Secretary was also questioned about the lack of funding allocation and instructed to arrange it promptly. This year's budget provides MPs with 50 million rupees for financial development projects.
+
+🟩
+
+Vanni district parliamentarian Vino Nogarathalingam said that President Ranil Wickremesinghe has requested President Ranil Wickremesinghe to allocate the diversified budget allocation for this year.
+
+He said that the diversified fund allocation for 2024 was not given to all the ruling and opposition parliamentarians representing the Vanni district.
+
+On Sunday, the President, who was present at the Mullaitivu Pudukkudiyiruppu, had asked the President to grant him permission to the Mannar and Vavuniya districts as other MPs had given permission for the proposals for the Mannar and Vavuniya districts.
+
+He summoned the President's Assistant Secretary who was present at the event and asked why the funds were not allocated and advised him to arrange for funding.
+
+It is noteworthy that this year's budget has been allocated to MPs for fifty million rupees for financial development projects.
+
+◼️
+
+[Data](articles/643c97b1.json)
+
+[Extended Data](ext_articles/643c97b1.ext.json)
+
+---
 
 ### Trump is convicted by changing American history
 
@@ -2121,95 +2205,5 @@ There was a net foreign outflow of 105 million. (Colombo/May30/2024)
 [Data](articles/6ad6d716.json)
 
 [Extended Data](ext_articles/6ad6d716.ext.json)
-
----
-
-### Israel extends control of Gaza’s entire land border
-
-*2024-05-30 16:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/99546/israel-extends-control-of-gazas-entire-land-border) · `en`
-
-Israel’s military has said it has taken control of the strategically important buffer zone along the Gaza-Egypt border known as the Philadelphi Corridor, meaning it now controls Gaza’s entire land border.
-
-A spokesman for the Israel Defense Forces (IDF) said about 20 tunnels used by Hamas to smuggle weapons into Gaza had been found within the zone.
-
-Egyptian TV quoted sources denying this, and said Israel was trying to justify its military operation in the southern Gaza city of Rafah.
-
-The announcement comes during a period of heightened tensions with Egypt.
-
-“In recent days, IDF troops established operational control on the Philadelphi Corridor, on the border between Egypt and Rafah,” IDF spokesman Rear Admiral Daniel Hagari said on Wednesday.
-
-He described the corridor as a “lifeline” for Hamas, through which the group “regularly smuggled weapons into the Gaza Strip”.
-
-He said troops were “investigating.. and neutralizing” tunnels found in the area.
-
-...
-
-[Data](articles/7d5d1395.json)
-
-[Extended Data](ext_articles/7d5d1395.ext.json)
-
----
-
-### Dry food grant of Malwathu Mass
-
-*2024-05-30 16:40:52* · [`adalk`](https://www.ada.lk/breaking_news/මල්වතු-මහනාහිමියන්ගේ-වියළි-ආහාර-ප්‍රදානයක්/11-409920) · `si`
-
-Today, a program distributed dry food bags to 500 children at Malwathu Maha Viharaya, funded by donations from the Gadenpasar Temple in China.
-
-🟩
-
-A program to provide a dry food bag of 500 children was held at the Malwathu Maha Viharaya today (30) at the Malwathu Maha Viharaya today (30).
-
-The Genades of the Afu Viharaya in China's Afu Viharaya had contributed to the assistance of the temple.
-
-◼️
-
-[Data](articles/b3d3752e.json)
-
-[Extended Data](ext_articles/b3d3752e.ext.json)
-
----
-
-### Negotiations on boycotting against the plantation officer
-
-*2024-05-30 16:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/184890) · `ta`
-
-Plantation workers in Nanuoya protested against the plantation administration, accusing them of damaging tea trees and manipulating the plantation. They demanded better conditions and normal operations without interference. Negotiations involving local officials aimed to resolve the dispute, emphasizing the need for peaceful solutions and the importance of maintaining tea exports from key regions.
-
-🟩
-
-The plantation workers, which are under the Nanuoya Estate Division, which are under the Nanuoya Plantation Management Institute in Nanuoya, staged a protest in Nanuoya main city on the 16th as they have been working on the plantation management against the plantation administration since April 29.
-
-The plantation workers have not been involved in the manipulation of the garden, and the destruction of well -developed tea trees and arranged before planting the calves before the planting of the plantation officers in this regard by the opposing plantation officer of the Nanuoya Police Station by the opposite plantation officer.They are protesting against the plantation administration.
-
-Jeevan Thondaman, Minister of Water Supply and Estate Infrastructure Development, National Organizer of the Ceylon Workers Congress and former Central Provincial Council member AP SakthivelThe negotiations were held.
-
-...
-
-[Data](articles/e04458b0.json)
-
-[Extended Data](ext_articles/e04458b0.ext.json)
-
----
-
-### Red notice from the Department of Meteorology
-
-*2024-05-30 16:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197185) · `si`
-
-The Department of Meteorology has issued a red alert for strong winds and rough seas in the Arabian Sea and Bay of Bengal due to enabled Southwestern monsoon conditions. This warning is specifically directed towards the fisheries and naval communities, advising them of heavy showers and extremely rough sea conditions.
-
-🟩
-
-The Department of Meteorology has issued a red notice of strong winds and sea floor.
-
-The announcement has been issued for the fisheries and naval community who acts in the Arabian Sea and Bay of Bengal.
-
-Enable Southwestern monsoon weather is also highly strong winds in the Bay of Bay of Bay of Bay of Bay of Bay of Bay Bay Sea. 60-70) Heavy showers may be informed with rain, and the sea can be very rough.
-
-◼️
-
-[Data](articles/39ed426e.json)
-
-[Extended Data](ext_articles/39ed426e.ext.json)
 
 ---

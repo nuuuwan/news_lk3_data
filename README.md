@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-31 08:52:53**
+As of **2024-05-31 09:04:06**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,383
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,453 (100.0%) of 27,454 articles have been extended.
+27,454 (100.0%) of 27,454 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -770,21 +770,27 @@ Speaking at the event, Dialog Acida PLC Group Chief Minister Asanka Priyadarshan
 
 ---
 
-### ’சம்பள முரண்பாடுகளை நிவர்த்திக்க நடவடிக்கை’
+### Action to address the telecommunication contradictions
 
 *2024-05-31 02:20:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சம்பள-முரண்பாடுகளை-நிவர்த்திக்க-நடவடிக்கை/175-338187) · `ta`
 
-அரசாங்கத்தின் அனைத்து துறைகளிலும் காணப்படும் சம்பள முரண்பாடுகளை நிவர்த்திப்பதற்கு நடவடிக்கை எடுக்கப்படும் என  ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்துள்ளார்.
+President Wickremesinghe announced measures to resolve salary disputes across government sectors, marking the 60th anniversary of Leslie Devendra's trade union work. He highlighted economic progress and promised Rs. 10,000 for public servants this year, with efforts to boost private sector wages. Acknowledging the impact of the last economic crisis, he pledged to form a committee to address salary issues nationwide, emphasizing collective effort in recovery.
 
-தேசபந்து லெஸ்லி தேவேந்திரவின் தொழிற்சங்க பணிகளுக்கு 60 ஆண்டுகள் நிறைவடைவதை முன்னிட்டு கொழும்பு பண்டாரநாயக்க ஞாபகார்த்த சர்வதேச மாநாட்டு மண்டபத்தில் நேற்று முன்தினம் இடம்பெற்ற நிகழ்வில் உரையாற்றும் போதே ஜனாதிபதி இவ்வாறு குறிப்பிட்டார். அவர் மேலும் உரையாற்றுகையில்,
+🟩
 
-பொருளாதார ரீதியில் இப்போது நாம் எழுந்து நிற்க ஆரம்பித்துள்ளோம். நாம் நடக்க வேண்டும். இந்த ஆண்டு அரச ஊழியர்களுக்கு 10,000 ரூபாய் கொடுப்பனவு வழங்க ஏற்பாடு செய்யப்பட்டது. அதே நேரத்தில், தனியார் துறையிலும் சம்பளத்தை அதிகரிக்க முயற்சிகள் மேற்கொள்ளப்பட்டுள்ளன.
+President Ranil Wickremesinghe says steps will be taken to address salary conflicts in all sectors of the government.
 
-இவ்வருடம் அதிக நிவாரணங்களை வழங்குவதற்கான பொருளாதார பலம் எம்மிடம் இல்லாவிட்டாலும் அடுத்த வருடம் அரச ஊழியர்களுக்கு சில சலுகைகளை வழங்க வேண்டும். இதற்காக அரச துறையின் அனைத்து துறைகளிலும் நிலவும் சம்பள முரண்பாடுகளை தீர்க்க குழுவொன்றை நியமிக்க தீர்மானித்துள்ளோம்.
+The President was speaking at a function held at the Bandaranaike Memorial International Conference Hall in Colombo yesterday to mark the 60 years of the trade union work of Leslie Devendra.. When he further addresses,
+
+Economically we are starting to stand up. We have to walk. Arrangements were made to pay Rs. 10,000 for public servants this year. At the same time, efforts have been made to increase salaries in the private sector.
+
+Even if we do not have the economic strength to provide more relief this year, we will have to make some concessions to civil servants next year.. For this purpose, we have decided to appoint a committee to resolve the salary conflicts in all sectors of the state sector.
 
 ...
 
 [Data](articles/3800e729.json)
+
+[Extended Data](ext_articles/3800e729.ext.json)
 
 ---
 

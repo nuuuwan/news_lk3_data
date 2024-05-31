@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-31 13:53:42**
+As of **2024-05-31 14:05:10**
 
 ## Newspaper Stats
 
@@ -26,39 +26,55 @@ adaderanasinhalalk | 4,390
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,502 (100.0%) of 27,509 articles have been extended.
+27,509 (100.0%) of 27,509 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-31 (Friday)
 
-### ලංකා හොස්පිටල් අයිතිය ගැන තීරණයක්
+### Decision on Lanka Hospital rights
 
 *2024-05-31 13:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197208) · `si`
 
-මෙරට ලැයිස්තුගත සෞඛ්‍ය සේවා සැපයුම් සමාගමක් වන ලංකා හොස්පිටලස් කෝපරේෂන් පීඑල්සී හි බහුතර කොටස් හිමිකාරීත්වය සම්බන්ධයෙන් තීරණයක් ගැනීමට මුදල් අමාත්‍යාංශය පියවර ගෙන තිබේ.
+The Ministry of Finance in Sri Lanka is deciding the majority shareholder of Lanka Hospitals Corporation PLC, a healthcare provider. The Sri Lanka Insurance Corporation (SLIC), a key partner, plans to transfer its shares to the Treasury. Lanka Hospitals PLC confirms receiving notice from the Government Enterprise Department about this change. SLIC holds 58,781,308 shares out of 58,781,648 total, representing 51.34% ownership of Lanka Hospitals Corporation PLC.
 
-ඒ අනුව ලංකා හොස්පිටල්ස් පීඑල්සී හි ප්‍රමුඛ කොටස්කරුවා වන ශ්‍රී ලංකා ඉන්ෂුවරන්ස් කෝපරේෂන් ලිමිටඩ් විසින් සිය කොටස් හිමිකාරීත්වය මහා භාණ්ඩාගාරය වෙත පැවරීමට තීරණය කර ඇති බව වාර්තා වෙයි.
+🟩
 
-මේ සම්බන්ධයෙන් ලංකා හොස්පිටල්ස් සමාගම පවසන්නේ අදාළ තීරණය පිළිබඳව මුදල් අමාත්‍යාංශයේ රාජ්‍ය ව්‍යවසාය දෙපාර්තමේන්තුව විසින් තමන් වෙත දැනුම් දීමක් සිදුකර ඇති බවය.
+The Ministry of Finance has taken steps to decide on the mainstream owner of Lanka Hospitalus Corporation PLC, a list of health care supply company in Sri Lanka.
 
-මෙම කොටස් පැවරීම සම්බන්ධයෙන් අවශ්‍ය කෙරෙන පහසුකම් සැලසීම සඳහා ශ්‍රී ලංකා සුරැකුම්පත් හා විනිමය කොමිෂන් සභාවේ සභාපතිවරයා වෙත ඉල්ලීමක් සිදුකර ඇති බව තමන් වෙත දැනුම් දී ඇති බව ද ලංකා හොස්පිටල්ස් පීඑල්සී වැඩිදුරටත් සඳහන් කරයි.
+Sri Lanka Insurance Corporation (SLC) the main partner of Lanka Hospitals PLC has decided to hand over its share ownership to the Treasury.
 
-...
+Lanka Hospitals said that the Government Enterprise Department had informed him regarding the matter.
+
+Lanka Hospitals PLC added that he has asked the Chairman of the Securities and Exchange Commission of Sri Lanka has been asked to facilitate the transfer of these parts.
+
+Sri Lanka Insurance Corporation Limulances (Life Fund) has 58,781,308 sections of Sri Lanka Hospitals, 58,781,648 shares.There is also available.
+
+Sri Lanka Insurance Corporation Limited is 51.34% of Lanka Hospitals Corporation PLC.
+
+◼️
 
 [Data](articles/6c43cefc.json)
 
+[Extended Data](ext_articles/6c43cefc.ext.json)
+
 ---
 
-### இன்றைய நாணய மாற்று விகிதம்
+### Today's currency exchange rate
 
 *2024-05-31 13:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/184949) · `ta`
 
-இன்று வெள்ளிக்கிழமை (மே 31) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் விற்பனை விலை ரூபா 296.9774 ஆகவும் கொள்வனவு விலை ரூபா 306.5863 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+The US dollar's selling price is Rs 296.9774, while its buying price is Rs 306.5863 as per the Central Bank update on May 31.
+
+🟩
+
+The US dollar sales price was Rs 296.9774 and the purchase price was Rs 306.5863 based on the Central Bank released today (May 31).
 
 ◼️
 
 [Data](articles/e9748679.json)
+
+[Extended Data](ext_articles/e9748679.ext.json)
 
 ---
 
@@ -180,21 +196,29 @@ It was reported that in some areas without a permit, the limestone was excavated
 
 ---
 
-### கொழும்பில் 11 இளைஞர்கள் கடத்தப்பட்டு காணாமலாக்கப்பட்ட விவகாரம் - முன்னாள் கடற்படைதளபதியை குற்றச்சாட்டிலிருந்து விடுவிப்பதற்கு  எதிராக காணாமல்போனவர்களின் உறவினர்கள் போராட்டம்
+### Relatives of those who have disappeared against the release of former Naval Commander in Colombo
 
 *2024-05-31 12:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/184944) · `ta`
 
-கொழும்பில் 11  இளைஞர்கள் கடற்படையினரால் கடத்தப்பட்டு  காணாமலாக்கப்ட்டமை தொடர்பில் டிரையல் அட்பார் விசாரணையிலிருந்து முன்னாள் கடற்படை தளபதி வசந்தகரணாகொடவை விடுவிப்பதற்கான  முயற்சிகளிற்கு எதிராக காணாமல்போனவர்களின் உறவினர்கள் ஆர்ப்பாட்டம் செய்தனர்.
+Relatives and human rights groups protested the release of former Navy Commander Vasanthakaranagoda, linked to the abduction and murder of 11 youths in Colombo. The commander had filed charges against 14 individuals, including himself, but sought an injunction to halt the trial pending psychological evaluations. Critics, including the head of the Missing Families Organization, accuse the Attorney General of attempting to withdraw charges due to the commander's political influence, labeling the move suspicious.
 
-முன்னாள் கடற்படை தளபதியால் தாக்கல் செய்யப்பட்ட ரிட்மனுவின் மீதான விசாரணை எதிர்வரும் மூன்றாம் திகதி மேன்முறையீட்டு நீதிமன்றத்தினால் விசாரணைக்கு எடுத்துக்கொள்ளப்படவுள்ள நிலையில் உயர்நீதிமன்றத்திற்கு முன்பாக காணாமல்போனவர்களின் உறவினர்கள் மனித உரிமை அமைப்புகளை சேர்ந்தவர்கள் ஆர்ப்பாட்டத்தில் ஈடுபட்டனர்.
+🟩
 
-2008-2009 இல் 11 இளைஞர்களை கடத்தியமை கப்பம் கோரியமை மற்றும் கொலைசதி தொடர்பில் 2019ம் ஆண்டு சட்டமாஅதிபர் வசந்த கரணாகொட உட்பட 14 பேருக்கு எதிரான குற்றச்சாட்டுகள் அடங்கிய குற்றப்பத்திரிகையை தாக்கல் செய்திருந்தார்.
+Relatives of the missing persons protested against the release of former Navy Commander Vasanthakaranagoda from the Trial Adbar inquiry into the abduction of 11 youths in Colombo.
 
-இந்த குற்றங்களின் பாரதூரதன்மை காரணமாக உயர்நீதிமன்ற நீதிபதிகனை உள்ளடக்கிய டிரையல் பார் விசாரணைக்காக நியமிக்கப்பட்டது.
+Relatives of human rights organizations staged a demonstration as the inquiry into the Ritman, filed by the former Navy Commander, is due to be taken up by the Court of Appeal on the third day.
+
+In 2008-2009, in the 2019 lawmaker, Vasantha Karanakoda, in connection with the abduction and murder of 11 youths, he filed a charge sheet against 14 persons, including Vasantha Karanagoda.
+
+Due to the seriousness of these crimes, the trial bar, which includes the High Court Judge, was appointed for trial.
+
+In March 2020, the former Navy Commander Ritman had filed a request for an interim injunction to suspend the trial of the trail Adbhar against himself and others until his psychological inquiries were held.
 
 ...
 
 [Data](articles/6418e0d9.json)
+
+[Extended Data](ext_articles/6418e0d9.ext.json)
 
 ---
 
@@ -234,17 +258,23 @@ The National Authority on Tobacco and Alcohol has directed the hotel to comply w
 
 ---
 
-### மருதானை - கோட்டை ரயில் நிலையங்களுக்கு இடையில் ரயில் தடம்புரள்வு
+### Railway Station between Maradana - Fort Railway Stations
 
 *2024-05-31 12:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/184941) · `ta`
 
-கொழும்பு கோட்டை  மற்றும் மருதானை ரயில் நிலையங்களுக்கு இடையில் இன்று வெள்ளிக்கிழமை (31) காலை ரயில் ஒன்று தடம்புரண்டுள்ளது.
+A train blockage between Colombo Fort and Maradana stations caused delays in train services today. The Railway Department announced further delays are expected.
 
-இதன் காரணமாக குறித்த மார்க்கத்தில் ரயில் சேவைகள் தாமதமாகியுள்ளதோடு, ரயில் சேவைகள் சிறிது காலதாமதமாகி இயக்கப்படும் என ரயில் திணைக்களம் தெரிவித்துள்ளது.
+🟩
+
+A train was blocked between Colombo Fort and Maradana railway stations this morning.
+
+Due to this, the train services have been delayed and the train services will be delayed shortly, the Railway Department said.
 
 ◼️
 
 [Data](articles/12b694c9.json)
+
+[Extended Data](ext_articles/12b694c9.ext.json)
 
 ---
 
@@ -286,61 +316,81 @@ He added that discussions with State Minister Ranjith Siyambalapitiya indicated 
 
 ---
 
-### நாட்டில் நாளாந்தம் முட்டை நுகர்வு அதிகரிப்பு
+### Increase in daily egg consumption in the country
 
 *2024-05-31 11:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/184938) · `ta`
 
-நாட்டில் முட்டை நுகர்வு அதிகரித்துள்ளதாக விலங்கு உற்பத்தி மற்றும் சுகாதாரத்துறை  திணைக்களம் தெரிவித்துள்ளது.
+Egg consumption in the country has risen significantly, surpassing 70 lakh to 80 lakh eggs daily over the past few months. This surge is partly due to the influx of foreign tourists and the affordability and nutritional value of eggs compared to other foods like meat and fish.
 
-அதாவது,  கடந்த சில மாதங்களில் முட்டையின் நாளாந்த நுகர்வு 70 இலட்சமாகவும், பின்னர் 80 இலட்சத்தையும் கடந்துள்ளது. அதன்படி, நாளாந்தம் முட்டையின்  நாளாந்த நுகர்வு 10 இலட்சத்தால் அதிகரித்துள்ளதாக திணைக்களம் தெரிவித்துள்ளது.
+🟩
 
-வெளிநாட்டு சுற்றுலாப் பயணிகளின் வருகை அதிகரிப்பு மற்றும் அதிக சத்தான மற்றும் மலிவாக கிடைக்ககூடிய உணவுகளான இறைச்சி, மீன் மற்றும் முட்டை விலைகள் அதிகரித்ததே நுகர்வு அதிகரிப்புக்குக் காரணம் எனக் குறிப்பிடப்பட்டுள்ளது.
+Egg consumption in the country has increased, the Department of Animal Production and Health said.
+
+That is, the daily consumption of the egg in the last few months has crossed 70 lakhs and then 80 lakhs. Accordingly, the daily consumption of the egg daily has increased by 10 lakhs, the department said.
+
+Increase in the advent of foreign tourists and high nutritious and cheap foods such as meat, fish and egg prices have been attributed to the increase in consumption.
 
 ◼️
 
 [Data](articles/6d7fd173.json)
 
+[Extended Data](ext_articles/6d7fd173.ext.json)
+
 ---
 
-### இலங்கையில் மேலதிகமாக உள்ளவெடிமருந்துகளை போலந்து ஊடாக உக்ரைனிற்கு விற்க முயற்சியா? பாதுகாப்பு அமைச்சு தெரிவிப்பது என்ன?
+### Trying to sell additional drugs in Sri Lanka to Ukraine through Polish?What does the Ministry of Defense report?
 
 *2024-05-31 11:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/184937) · `ta`
 
-இலங்கையில் மேலதிகமாக உள்ளவெடிமருந்துகளை உக்ரைனிற்கு விற்பனை செய்வதற்கு போலந்து இடைத்தரகர்களை பயன்படுத்துகின்றது என வெளியாகியுள்ள தகவல்களை பாதுகாப்பு அமைச்சு நிராகரித்துள்ளது.
+The Ministry of Defense denies claims that Polish intermediaries are facilitating drug sales from Sri Lanka to Ukraine. Spokesman Nalin Herath confirms no truth to these allegations. He also mentions that while ammunition is stored in army camps, it's not owned by the MoD and will be removed due to security reasons. Security sources reveal that explosives, previously intended for Poland by a Chinese company, have been stopped due to international intervention.
 
-இவ்வாறான தகவல்களில் எந்த உண்மையிலும் இல்லை ஆதாரங்களும் இல்லை என பாதுகாப்பு அமைச்சின் பேச்சாளர் நளின் ஹேரத் தெரிவித்துள்ளார்.
+🟩
 
-எனினும் காலவதியான வெடிமருந்துகள் இராணுவத்தின் முகாம்களில் சேமித்து வைக்கப்பட்டுள்ளன என்பதை அவர் ஏற்றுக்கொண்டுள்ளார்.
+The Ministry of Defense has rejected information that Polish intermediaries are being used to sell more and more drugs in Sri Lanka to Ukraine.
 
-எனினும் இந்த வெடிமருந்துகள் பாதுகாப்பு அமைச்சிற்கு சொந்தமானவை இல்லை தனியாருக்கு சொந்தமானவை என தெரிவித்துள்ள அவர் பாதுகாப்பு கரிசனைகள் காரணமாக இவற்றை அகற்றுமாறு அந்த நிறுவனத்தை கேட்டுக்கொண்டுள்ளதாக குறிப்பிட்டுள்ளார்.
+Nalin Herath, a spokesman for the Ministry of Defense, said there was no truth in such information.
 
-இதேவேளை இந்த மேலதிக வெடிபொருட்கள் சீன நிறுவனமொன்றிற்கு சொந்தமானவை என பாதுகாப்பு வட்டாரங்கள் தெரிவித்துள்ளதாக செய்தி வெளியிட்டுள்ள டெய்லிமிரர் கொஸ்மிக் டெக்னோலஜிஸ் என்ற தனியார் நிறுவனம் மூலம் சீன நிறுவனம் கடந்த வருடம் இந்த வெடிபொருட்களை போலந்திற்கு அனுப்ப முயன்றது எனினும் சர்வதேச அழுத்தங்களால் இது நிறுத்தப்பட்டது என குறிப்பிட்டுள்ளன என தெரிவித்துள்ளது.
+However, he acknowledged that timely ammunition was stored in the army camps.
+
+However, the ammunition is not owned by the Ministry of Defense, he said, adding that the company has asked the company to remove them due to security concerns.
+
+Meanwhile, security sources said that the further explosives were owned by a Chinese company, according to reports that the Chinese company tried to send these explosives to Poland last year, but it was halted by international pressure.
 
 ◼️
 
 [Data](articles/be58ac61.json)
 
+[Extended Data](ext_articles/be58ac61.ext.json)
+
 ---
 
-### சுயநிர்ணய உரிமையே அவசியமான தீர்வு - இலங்கையில் இனப்படுகொலை இடம்பெற்றமைக்கான  ஆதாரங்கள் உள்ளன - ஒபமா கூட தனது நூலில் குறிப்பிட்டுள்ளார்- அமெரிக்க காங்கிரஸ் உறுப்பினர் விலே நிக்கெல்
+### The solution is the solution to the right to self -determination - evidence of genocide in Sri Lanka
 
 *2024-05-31 11:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/184934) · `ta`
 
-சுயநிர்ணய உரிமையே அவசியமான முக்கியமான தீர்வு என தெரிவித்துள்ள அமெரிக்க சனப்பிரதிநிதிகள் சபையின்  உறுப்பினர் விலே நிக்கெல் இதற்கான சர்வஜனவாக்கெடுப்பு இடம்பெறுவது அவசியம் என குறிப்பிட்டுள்ளார்.
+The discussion revolves around the importance of recognizing the genocide in Sri Lanka and advocating for self-determination as a solution. It highlights the U.S.'s acknowledgment of the genocide, the need for international support, and the potential for peaceful resolution through self-determination. The conversation also touches on the historical significance of self-determination rights and the role of the U.S. in supporting such causes globally.
 
-இலங்கையில் இனப்படுகொலை இடம்பெற்றது என்பதை அமெரிக்கா  அங்கீகரிக்க செய்வது மிகவும் அவசியமான நடவடிக்கை ஆனால் அதற்கான ஆதாரங்கள் உள்ளன  பராக் ஒபாமா தனது நூலில் இது குறித்து பேசியுள்ளார் எனவும் அவர் தெரிவித்துள்ளார்
+🟩
 
-அமெரிக்க காங்கிரஸில் வரலாற்றுமுக்கியத்துவம் வாய்ந்த தீர்மானத்தை சமர்ப்பித்தமைக்கு நன்றி - அதுபற்றி மேலும் தெரிவிக்க முடியுமா உங்களை இதனை செய்ய தூண்டியது என்ன என குறிப்பிடமுடியுமா?
+He said that self -determination is an essential solution, and that the Member of the US House of Representatives Wile Nikel said that it is necessary to take place.
 
-இலங்கை நிலவரம் தமிழ் மக்களிற்கு எதிரான ஒடுக்குமுறை மற்றும் சுயநிர்ணய உரிமை ஆகிய விடயங்கள் குறித்து அமெரிக்காவில் எங்கள் குரல்கள் செவிமடுக்கபடுவதை நோக்கிய மிகவும் முக்கியமான ஆரம்பகட்ட நடவடிக்கை இது என நான் கருதுகின்றேன்.
+He said that the US recognizes that the genocide took place in Sri Lanka, but there is evidence that Barack Obama has spoken in his book.
 
-சுயநிர்ணய உரிமையே அவசியமான தீர்வு  அதனை அமைதியான வழியில் அடையலாம் என நான் கருதுகின்றேன்.
+Thank you for submitting a historic resolution in the US Congress - Can you tell me more about it?
 
-உலகின் ஏனைய முக்கியமான நாடுகள் இது குறித்து ஆராய்ந்துள்ளன அமெரிக்காவும் இது குறித்து ஆராயவேண்டும் .
+I think this is the most important step towards the hearing of our voices in the United States on the issue of repression and self -determination against the Tamil people.
+
+I think the solution to the right of self -determination can reach it in a peaceful way.
+
+The rest of the world's most important countries have examined the United States.
+
+This is the first step in the first phase of the Congress and the other members of the Congress have received great support and I am very confident that we are heading towards.
 
 ...
 
 [Data](articles/5ef410b2.json)
+
+[Extended Data](ext_articles/5ef410b2.ext.json)
 
 ---
 

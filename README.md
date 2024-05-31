@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-31 18:53:00**
+As of **2024-05-31 19:03:51**
 
 ## Newspaper Stats
 
-*Scraped **27,558** Articles*
+*Scraped **27,560** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,40 @@ adalk | 2,354
 adaderanalk | 3,139
 tamilmirrorlk | 3,231
 virakesarilk | 4,244
-dailymirrorlk | 4,364
-adaderanasinhalalk | 4,400
+dailymirrorlk | 4,365
+adaderanasinhalalk | 4,401
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,556 (100.0%) of 27,558 articles have been extended.
+27,558 (100.0%) of 27,560 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-31 (Friday)
+
+### Over 150,000 qualify for university entrance
+
+*2024-05-31 18:37:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Over-150-000-qualify-for-university-entrance/108-283816) · `en`
+
+Colombo, May31 (Daily Mirror) - A total of 173,444 students have qualified to apply for university admission this year following the 2023 (2024) GCE Advanced Level (A/L) examinations.
+
+Addressing the media, the Examinations Department Commissioner General said the qualified percentage was 64.33.
+
+Accordingly, a total of 269,613 applicants including 229,057 school applicants and 40,556 private applicants sat for the examinations.
+
+A total of 173,444 candidates including 151,343 school applicants and 22,101 private applicants qualified for university entrance.
+
+Meanwhile, a total of 190 candidates including 146 school applicants and 44 private applicants' results were suspended.
+
+Candidates can visit the Education Department’s official websites www.doenets.lk and www.results.exams.gov.lk
+
+◼️
+
+[Data](articles/ab5839ab.json)
+
+---
 
 ### Island’s best results of 2023 A/L exam
 
@@ -43,6 +65,22 @@ Accordingly, Pahanma Upani Lenora of Sangamitta Balika Vidyalaya in Galle has pl
 ◼️
 
 [Data](articles/c05f05b2.json)
+
+[Extended Data](ext_articles/c05f05b2.ext.json)
+
+---
+
+### SAITM සහ නෙවිල් ප්‍රනාන්දු රෝහල් ගැන තීරණයක්
+
+*2024-05-31 18:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197220) · `si`
+
+දකුණු ආසියානු තාක්ෂණ ආයතනය (SAITM) සහ නෙවිල් ප්‍රනාන්දු ශික්ෂණ රෝහල (NFTH) මොරටුව විශ්වවිද්‍යාලයේ වෛද්‍ය පීඨයට භාරදෙන බව ජනාධිපති මාධ්‍ය අංශය පවසයි.
+
+2025 ජනවාරි මාසයේ අධ්‍යයන කටයුතු ආරම්භ කිරීමට පෙර ඒ සඳහා අවශ්‍ය පූර්ව කටයුතු සිදුකිරීමට අගෝස්තු මාසයේ දී මොරටුව විශ්වවිද්‍යාලයේ වෛද්‍ය පීඨයට භාර දෙන බව සඳහන් වේ.
+
+◼️
+
+[Data](articles/b26ddcd8.json)
 
 ---
 
@@ -190,7 +228,7 @@ The police also seized 500g of Ice, 50 gms of Heroin, 500 gms of Ganja, about 2,
 
 ---
 
-### Softlogic Colombo hotel under Minor group’s NH Collection brand from June
+### NH Collection brand enters Sri Lanka replacing Mövenpick at Softlogic hotel
 
 *2024-05-31 17:01:00* · [`economynextcom`](https://economynext.com/softlogic-colombo-hotel-under-minor-groups-nh-collection-brand-from-june-165543/) · `en`
 
@@ -316,27 +354,35 @@ A total of 269,613 examiners, 229,057 school examiners and 40,556 individual exa
 
 ---
 
-### ජාත්‍යන්තර මූල්‍ය අරමුදල සමඟ සිදු කරන සාකච්ඡා  අවසාන අදියරේ
+### In the final stage of discussions with the International Monetary Fund
 
 *2024-05-31 16:15:59* · [`adalk`](https://www.ada.lk/breaking_news/ජාත්‍යන්තර-මූල්‍ය-අරමුදල-සමඟ-සිදු-කරන-සාකච්ඡා--අවසාන-අදියරේ/11-409943) · `si`
 
-ඉදිරි සමාජ හා ආර්ථික ඉලක්ක සපුරා ගැනීමට නම් කෘත්‍රීම බුද්ධිය වැනි නවීන තාක්ෂණය රට තුළ ප්‍රවර්ධනය කළ යුතුයි
+President Ranil Wickremesinghe emphasizes the importance of promoting artificial intelligence (AI) in Sri Lanka to meet future social and economic goals, prevent past mistakes in the IT industry, and transform the economy from import-dependent to export-oriented. He outlines plans for AI integration across sectors, including education and agriculture, aiming for a digital economy by leveraging partnerships with the private sector and international institutions like the IMF.
 
-ඉදිරි වසර 05 තුළ කෘත්‍රීම බුද්ධිය මෙරට සෑම ක්ෂේත්‍රයකටම ව්‍යාප්ත කිරීම අරමුණයි.
+🟩
 
-රටේ ආර්ථිකය රැක ගැනීමට නම් අපනයන ආර්ථිකයක් කරා කඩිනමින් පරිවර්තනය විය යුතුයි.
+Modern technology should be promoted in the country, to meet future social and economic goals
 
-එදා තොරතුරු තාක්ෂණ ක්ෂේත්‍රයේ සිදු කළ වැරැද්ද නැවත සිදු කරන්න එපා- ජනපති.
+The objective of the extension of English intelligence in the next five years is to expand its own field.
 
-ඉදිරි සමාජ හා ආර්ථික ඉලක්ක සපුරා ගැනීමට නම් කෘත්‍රීම බුද්ධිය වැනි නවීන තාක්ෂණය රට තුළ ප්‍රවර්ධනය කළ යුතු බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+To preserve the economy of the country, it must be transformed into an export economy.
 
-එම වැඩපිළිවෙළ ඉදිරි වසරේදී ආරම්භ කරන බවත් වසර 05ක් තුළ කෘත්‍රීම බුද්ධිය මෙරට සෑම ක්ෂේත්‍රයකටම ප්‍රවර්ධනය කිරීම අරමුණ බවත් පැවසූ ජනාධිපතිවරයා එහිදී විශ්වවිද්‍යාල පද්ධතියට පුළුල් වගකීමක් පැවරෙන බවද සඳහන් කළේය.
+Do not repeat the mistake of the IT industry in the IT industry - President.
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ AI තාක්ෂණය හෙවත් කෘත්‍රීම බුද්ධිය මෙරටට හඳුන්වාදීම පිළිබඳව විශ්වවිද්‍යාල විද්‍යාර්ථයන් සමඟ ඊයේ (30) පස්වරුවේ ජනාධිපති කාර්යාලයේ පැවති සාකච්ඡාවේදීය.
+President Ranil Wickremesinghe said that the artisted intelligence should be promoted in the country to meet future social and economic goals.
+
+The President said that the program would be commenced in the next year and to promote such intelligence in five years.
+
+President Ranil Wickremesinghe made this statement at the Presidential Secretariat yesterday (30) with the introduction of AI technology to Sri Lanka.
+
+Speaking at the meeting, President Ranil Wickremesinghe further pointed out that to protect the economy of the country, we must translate from importing economy to an export economy.
 
 ...
 
 [Data](articles/3654d02f.json)
+
+[Extended Data](ext_articles/3654d02f.ext.json)
 
 ---
 
@@ -2211,47 +2257,5 @@ In 2019, the Attorney General filed indictments with over 667 charges against th
 [Data](articles/4ae1cb8c.json)
 
 [Extended Data](ext_articles/4ae1cb8c.ext.json)
-
----
-
-### Midigama brings Ruwan to Sri Lanka
-
-*2024-05-31 06:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197197) · `si`
-
-Major suspect Midigama Ruwan, linked to an underworld and international drug network, is extradited from Dubai to Sri Lanka by a CID special team.
-
-🟩
-
-Midigama Ruwan, a major suspect in an underworld and international drug network, has been brought to Sri Lanka from Dubai.
-
-The suspect was brought by a team of special officers of the CID.
-
-Midigama, Ruwan suspects to redeem the Criminal Investigation Department (CID) recently.
-
-◼️
-
-[Data](articles/ffbbfdcc.json)
-
-[Extended Data](ext_articles/ffbbfdcc.ext.json)
-
----
-
-### Sufficient water is to hydro-power plants, irrigation tanks fill over 80%
-
-*2024-05-31 06:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sufficient-water-is-to-hydro-power-plants-irrigation-tanks-fill-over-80/108-283760) · `en`
-
-Colombo, May 31 (Daily Mirror) - With the increased rainfall in the catchment areas of the central hills, the hydro-power plants are receiving sufficient capacity of water, the Irrigation Department’s Irrigation (Hydrology) Director, Eng. S.P.C. Sugeeshwara Bandara said.
-
-He also said that this is a positive sign for continuous hydroelectricity generation and mentioned that the total water capacity of the country's irrigation tanks has reached 80 percent.
-
-Certain irrigation tanks are spilling water at a considerable rate, and the release capacity is expected to increase with the higher rainfall anticipated in the catchment areas tonight, he added.
-
-Therefore, people in low-lying areas are urged to remain vigilant over possible sudden floods.
-
-◼️
-
-[Data](articles/44460b77.json)
-
-[Extended Data](ext_articles/44460b77.ext.json)
 
 ---

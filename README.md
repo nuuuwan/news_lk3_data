@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-31 18:35:12**
+As of **2024-05-31 18:53:00**
 
 ## Newspaper Stats
 
-*Scraped **27,556** Articles*
+*Scraped **27,558** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 363
 islandlk | 1,488
 economynextcom | 1,575
 dailyftlk | 1,612
-adalk | 2,353
-adaderanalk | 3,138
+adalk | 2,354
+adaderanalk | 3,139
 tamilmirrorlk | 3,231
 virakesarilk | 4,244
 dailymirrorlk | 4,364
@@ -26,23 +26,43 @@ adaderanasinhalalk | 4,400
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,554 (100.0%) of 27,556 articles have been extended.
+27,556 (100.0%) of 27,558 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-31 (Friday)
 
-### උසස් පෙළ විශිෂ්ඨයෝ මෙන්න
+### Island’s best results of 2023 A/L exam
+
+*2024-05-31 18:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/99568/islands-best-results-of-2023-al-exam) · `en`
+
+The names of the students who have obtained the best results in the island at the 2023 (2024) G.C.E. Advanced Level examination from each stream have been released.
+
+Accordingly, Pahanma Upani Lenora of Sangamitta Balika Vidyalaya in Galle has placed first in the island in the Biological Science stream while W.A Chirath Nirodha of Ananda College, Colombo is the island’s first in the Physical Science stream.
+
+◼️
+
+[Data](articles/c05f05b2.json)
+
+---
+
+### Here is the A / L excellence
 
 *2024-05-31 18:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197219) · `si`
 
-උසස් පෙළ විභාග ප්‍රතිඵලවලට අදාළව එක් එක් විෂය ධාරාවන් අනුව දිවයිනේ ප්‍රථම ස්ථාන ලබාගත් සිසුන් ප්‍රකාශයට පත් කර තිබේ.
+Lanora and Lenora from Galle and Ananda College, Colombo, topped Biology and Math sections respectively in the A/L exams.
 
-ඒ අනුව ජීව විද්‍යා අංශයේ ප්‍රථම ස්ථානය ගාල්ල සංඝමිත්තා විද්‍යාලයේ පහන්මා උපනි ලෙනෝරා හිමිකර ගෙන ඇති අතර කොළඹ ආනන්ද විද්‍යාලයේ ඩව්. ඒ. චිරාත් නිරෝධ ගණිත අංශයෙන් පළමු ස්ථානය දිනාගෙන ඇත.
+🟩
+
+Students who obtained the first places in the island have been published according to each subject strength of the A / L examination results.
+
+Accordingly, Lanora, Lenora, holding the first place in Biology Division, Galle and Ananda College, Colombo. it. The chirath was won first place from the whistious math section.
 
 ◼️
 
 [Data](articles/7813bfde.json)
+
+[Extended Data](ext_articles/7813bfde.ext.json)
 
 ---
 
@@ -57,6 +77,8 @@ The announcement was made by the President’s Media Division (PMD).
 ◼️
 
 [Data](articles/ab491820.json)
+
+[Extended Data](ext_articles/ab491820.ext.json)
 
 ---
 
@@ -291,6 +313,30 @@ A total of 269,613 examiners, 229,057 school examiners and 40,556 individual exa
 [Data](articles/6d9d10b7.json)
 
 [Extended Data](ext_articles/6d9d10b7.ext.json)
+
+---
+
+### ජාත්‍යන්තර මූල්‍ය අරමුදල සමඟ සිදු කරන සාකච්ඡා  අවසාන අදියරේ
+
+*2024-05-31 16:15:59* · [`adalk`](https://www.ada.lk/breaking_news/ජාත්‍යන්තර-මූල්‍ය-අරමුදල-සමඟ-සිදු-කරන-සාකච්ඡා--අවසාන-අදියරේ/11-409943) · `si`
+
+ඉදිරි සමාජ හා ආර්ථික ඉලක්ක සපුරා ගැනීමට නම් කෘත්‍රීම බුද්ධිය වැනි නවීන තාක්ෂණය රට තුළ ප්‍රවර්ධනය කළ යුතුයි
+
+ඉදිරි වසර 05 තුළ කෘත්‍රීම බුද්ධිය මෙරට සෑම ක්ෂේත්‍රයකටම ව්‍යාප්ත කිරීම අරමුණයි.
+
+රටේ ආර්ථිකය රැක ගැනීමට නම් අපනයන ආර්ථිකයක් කරා කඩිනමින් පරිවර්තනය විය යුතුයි.
+
+එදා තොරතුරු තාක්ෂණ ක්ෂේත්‍රයේ සිදු කළ වැරැද්ද නැවත සිදු කරන්න එපා- ජනපති.
+
+ඉදිරි සමාජ හා ආර්ථික ඉලක්ක සපුරා ගැනීමට නම් කෘත්‍රීම බුද්ධිය වැනි නවීන තාක්ෂණය රට තුළ ප්‍රවර්ධනය කළ යුතු බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+
+එම වැඩපිළිවෙළ ඉදිරි වසරේදී ආරම්භ කරන බවත් වසර 05ක් තුළ කෘත්‍රීම බුද්ධිය මෙරට සෑම ක්ෂේත්‍රයකටම ප්‍රවර්ධනය කිරීම අරමුණ බවත් පැවසූ ජනාධිපතිවරයා එහිදී විශ්වවිද්‍යාල පද්ධතියට පුළුල් වගකීමක් පැවරෙන බවද සඳහන් කළේය.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ AI තාක්ෂණය හෙවත් කෘත්‍රීම බුද්ධිය මෙරටට හඳුන්වාදීම පිළිබඳව විශ්වවිද්‍යාල විද්‍යාර්ථයන් සමඟ ඊයේ (30) පස්වරුවේ ජනාධිපති කාර්යාලයේ පැවති සාකච්ඡාවේදීය.
+
+...
+
+[Data](articles/3654d02f.json)
 
 ---
 
@@ -2207,49 +2253,5 @@ Therefore, people in low-lying areas are urged to remain vigilant over possible 
 [Data](articles/44460b77.json)
 
 [Extended Data](ext_articles/44460b77.ext.json)
-
----
-
-### Heavy rains today
-
-*2024-05-31 06:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197196) · `si`
-
-Expect heavy rainfall across the Western, Sabaragamuwa, Central, and Southern provinces, with intense showers reported in some areas exceeding 50mm. The North Western Province will also see showers. Strong winds are expected, particularly in the North Central, West, Western, Southern, and Northwestern provinces, with gusts reaching 40-50km/h.
-
-🟩
-
-The existing rain and winds in the country are still expected today (31) due to active southwest monsoon.
-
-Thus will experience showers in the Western, Sabaragamuwa, Central and Southern provinces. Showers will occur in the North Western Province.
-
-In some places in the Western and Sabaragamuwa Province, MM. Heavy rains experience more than 50.
-
-Showers or thundershowers will occur at a few night or night in the Uva, North-central areas.
-
-At times, the North Central, West, Western, Southern and Northwestern provinces are held in Trincomalee and North Western Provinces and in Trincomalee and Moneragala Districts.. 40-50. There will be about strong winds.
-
-◼️
-
-[Data](articles/d7a30c39.json)
-
-[Extended Data](ext_articles/d7a30c39.ext.json)
-
----
-
-### Underworld figure Midigama Ruwan brought to Sri Lanka
-
-*2024-05-31 06:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Underworld-figure-Midigama-Ruwan-brought-to-Sri-Lanka/108-283759) · `en`
-
-Colombo, May 31 (Daily Mirror) - Ruwan Jayasekara, alias Midigama Ruwan, a notorious underworld figure allegedly involved in planning an attack on the Criminal Investigation Department (CID) headquarters in Colombo to free drug trafficker Nadun Chinthaka alias 'Harak Kata', brought to Sri Lanka from Dubai by a CID team.
-
-Midigama Ruwan, who is also the brother-in-law of Nadun Chinthaka, was reportedly arrested by Dubai Police in March. Harak Kata himself was arrested by Dubai authorities last year and subsequently deported to Sri Lanka.
-
-The Dubai police arrested Midigama Ruwan following a clash in a night club in Dubai.
-
-◼️
-
-[Data](articles/285862a6.json)
-
-[Extended Data](ext_articles/285862a6.ext.json)
 
 ---

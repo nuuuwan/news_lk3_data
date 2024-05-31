@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-05-31 05:36:15**
+As of **2024-05-31 05:58:40**
 
 ## Newspaper Stats
 
-*Scraped **27,417** Articles*
+*Scraped **27,428** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,9 +12,9 @@ colombotelegraphcom | 244
 dbsjeyarajcom | 267
 bbccomsinhala | 272
 newsfirstlk | 363
-islandlk | 1,478
+islandlk | 1,483
 economynextcom | 1,568
-dailyftlk | 1,605
+dailyftlk | 1,611
 adalk | 2,340
 adaderanalk | 3,122
 tamilmirrorlk | 3,215
@@ -26,11 +26,103 @@ adaderanasinhalalk | 4,379
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,413 (100.0%) of 27,417 articles have been extended.
+27,417 (100.0%) of 27,428 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-05-31 (Friday)
+
+### Vesak at the United Nations: Still not a UN holiday?
+
+*2024-05-31 05:46:44* · [`dailyftlk`](https://www.ft.lk/columns/Vesak-at-the-United-Nations-Still-not-a-UN-holiday/4-762403) · `en`
+
+Vesak Day almsgiving hosted at Permanent Mission of Sri Lanka in New York
+
+IDN-InDepthNews: Sri Lanka celebrated Vesak Day 2024 last week with much pomp and ceremony in historic Matale where the Buddha’s teachings were first formally documented in the first century B.C. at the Aluviharaya Rock Temple and religious observances took place in almost every temple in the country. Prior to that, the Master’s teachings had been transmitted orally from teacher to pupil.
+
+Vesak is the premier religious festival in Sri Lanka, commemorating the birth, enlightenment and the passing of the Buddha, with colourful electrically lit decorations illuminating private homes and main streets and alms being offered to all passers-by along main roads.
+
+In New York, the Permanent Mission of Sri Lanka co-hosted an impressive event at the United Nations with Thailand to observe the United Nations Day of Vesak. Many other Sri Lankan missions around the world did the same.
+
+...
+
+[Data](articles/40ff7e05.json)
+
+---
+
+### Governance all the way down
+
+*2024-05-31 05:42:12* · [`dailyftlk`](https://www.ft.lk/columns/Governance-all-the-way-down/4-762402) · `en`
+
+Multiple modalities of State intervention—from regulation to planning, stimulus to welfare—have all been collapsed into each other and displaced by the insipid term of governance
+
+...
+
+[Data](articles/e66e540f.json)
+
+---
+
+### “VFS” the whole lot
+
+*2024-05-31 05:37:50* · [`dailyftlk`](https://www.ft.lk/columns/VFS-the-whole-lot/4-762401) · `en`
+
+“Yes, real tragedy is never resolved. It goes on hopelessly for ever. Conventional tragedy is too easy. The hero dies and we feel a purging of emotions. A real tragedy takes place in a corner, in an untidy spot …” – No Longer at Ease (Chinua Achebe)
+
+In the common usage, VFS has come to represent the concept of outsourcing, when the State or a private sector organisation decides that one of its functions is better performed by an outside agency, and more economically. As far as we are aware, VFS, the organisation in issue is in the business of providing visa support services, acting on behalf of certain States, which will make the final decision on who goes in or out of that country. The function of the VFS is purely administrative, collecting documents from visa applicants which are then sent to the respective embassies for decision.
+
+...
+
+[Data](articles/307167e4.json)
+
+---
+
+### Quo Vadis (Where are you going) Sri Lanka?
+
+*2024-05-31 05:33:45* · [`dailyftlk`](https://www.ft.lk/columns/Quo-Vadis-Where-are-you-going-Sri-Lanka/4-762400) · `en`
+
+Whichever way Sri Lanka chooses to go, will ultimately be determined by its core values
+
+Sri Lanka, since independence has been on a road that was not quite destined to reach a destination. Then, after almost 30 years of independence, with light to moderate progress, the economy underwent a radical change in 1977. We were told that this would make Sri Lanka a developed country in a short time span.
+
+Things did not work out as expected and the next four and a half decades brought us to bankruptcy. There is not much purpose in blaming others, when we ourselves were to blame.
+
+What is clear is that there was a huge thinking deficit on our part, as we believed all the West was saying and advising about development and how we should be getting about it.
+
+...
+
+[Data](articles/48e6ccff.json)
+
+---
+
+### Sunshine Holdings delivers record FY24 results propelled by healthcare and consumer sectors
+
+*2024-05-31 05:22:40* · [`dailyftlk`](https://www.ft.lk/business/Sunshine-Holdings-delivers-record-FY24-results-propelled-by-healthcare-and-consumer-sectors/34-762398) · `en`
+
+Healthcare sector revenue growth of 16.1% YoY to Rs. 27.7 billion
+
+Diversified Sri Lankan conglomerate Sunshine Holdings PLC has recorded resilient revenue growth amidst the backdrop of a moderately stable macroeconomic conditions, reporting notable top-line and bottom-line growth during the year ended 31 March 2024.
+
+Group’s Healthcare and Consumer sectors led growth while healthcare segment remained the major contributor to total Group revenue in FY24. Sunshine recorded a consolidated Group revenue of Rs. 55.5 billion for the year ended 31 March, a 7% Year-on-Year (YoY) growth. Profit after tax (PAT) for the period in review increased by 66.4% to Rs. 6 billion. The gross profit also increased by Rs. 3.7 billion, representing a robust 27.6% YoY growth, primarily driven by the margin expansion in both the healthcare and consumer segments. The gross profit margin for the period stood at 31%, marking a significant improvement of 500 basis points compared to the previous year.
+
+...
+
+[Data](articles/311768de.json)
+
+---
+
+### Watawala Plantations appoints Reyaz Mihular as Chairman; bids farewell to Sunil G. Wijesinha
+
+*2024-05-31 05:20:22* · [`dailyftlk`](https://www.ft.lk/business/Watawala-Plantations-appoints-Reyaz-Mihular-as-Chairman-bids-farewell-to-Sunil-G-Wijesinha/34-762397) · `en`
+
+Watawala Plantations PLC has announced the appointment of Reyaz Mihular as Chairman, succeeding Sunil G. Wijesinha, who is stepping down after completing a long tenure of 12 years with the company.
+
+Mihular is an accomplished professional in the financial and corporate sectors, having held various significant senior management roles throughout his career. He served as Managing Partner of KPMG Sri Lanka & Maldives from 2012 to 2022 and chaired KPMG’s Middle East and South Asia Regional Cluster, where he also acted as Chief Operating Officer. Mihular’s expertise spans both in accounting and management, as reflected in his presidency and fellowship at the Institute of Chartered Accountants of Sri Lanka.
+
+...
+
+[Data](articles/0f19fbd5.json)
+
+---
 
 ### UN addresses concern over deployment of HR violators in peacekeeping missions
 
@@ -47,6 +139,8 @@ In a recent UN news briefing, questions were raised about a recent investigative
 ...
 
 [Data](articles/f44751cd.json)
+
+[Extended Data](ext_articles/f44751cd.ext.json)
 
 ---
 
@@ -68,6 +162,8 @@ The petitioner has alleged that Sirisena has committed contempt of Court through
 
 [Data](articles/2f987303.json)
 
+[Extended Data](ext_articles/2f987303.ext.json)
+
 ---
 
 ### Memorial service today in remembrance of late French envoy
@@ -79,6 +175,8 @@ A memorial service in remembrance of the late Ambassador Jean-François Pactet o
 ◼️
 
 [Data](articles/ce37ea90.json)
+
+[Extended Data](ext_articles/ce37ea90.ext.json)
 
 ---
 
@@ -93,6 +191,20 @@ Among those who crossed over are former SLPP Polonnaruwa District Deputy Ministe
 ◼️
 
 [Data](articles/9e0bfca3.json)
+
+[Extended Data](ext_articles/9e0bfca3.ext.json)
+
+---
+
+### Durdans Hospital elevates healthcare connectivity with Dialog Enterprise’s SDWAN Solution
+
+*2024-05-31 04:45:00* · [`islandlk`](http://island.lk/durdans-hospital-elevates-healthcare-connectivity-with-dialog-enterprises-sdwan-solution/) · `en`
+
+Durdans Hospital, a pioneering institution in Sri Lanka’s healthcare landscape, has forged a strategic alliance with Dialog Enterprise, the corporate ICT solutions arm of Dialog Axiata PLC., to introduce a cutting-edge Software Defined Wide Area Network (SDWAN) solution. This collaboration marks a significant leap forward in revolutionizing healthcare connectivity and operational efficiency.
+
+...
+
+[Data](articles/ca7b2bb1.json)
 
 ---
 
@@ -143,6 +255,20 @@ ABC Neuz has issued a news report that the World Cup and its associated events i
 [Data](articles/8b18c56e.json)
 
 [Extended Data](ext_articles/8b18c56e.ext.json)
+
+---
+
+### Demystifying supply chain management
+
+*2024-05-31 03:38:00* · [`islandlk`](http://island.lk/demystifying-supply-chain-management/) · `en`
+
+Supply chain management has been in vogue for many decades and has raised the interest of both academics and practitioners. The concept is more popular within international business and yet it is important to demystify it further for adapting to current practices.
+
+As we know theories are updating fast amid the technological revolution. The current practices in many disciplines of industry undergo integration, such as, human resources, marketing, quality management, project management and operation management. The Industrial Revolution has made a tremendous contribution to the integration of many concepts, including supply chain management.
+
+...
+
+[Data](articles/697ac052.json)
 
 ---
 
@@ -2091,193 +2217,5 @@ The Election Commission, which has expressed fierce opposition to any moves afte
 [Data](articles/78907142.json)
 
 [Extended Data](ext_articles/78907142.ext.json)
-
----
-
-### Second reading debate on ‘Sri Lanka Electricity Bill’ on June 06
-
-*2024-05-30 14:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/99538/second-reading-debate-on-sri-lanka-electricity-bill-on-june-06) · `en`
-
-The Secretary General of Parliament, Mrs. Kushani Rohanadeera, has announced that the Parliament is scheduled to convene from the 4th to the 7th of June.
-
-This schedule was confirmed during the Committee on Parliamentary Business meeting held on Tuesday (28), chaired by Speaker Mahinda Yapa Abeywardena, according to the Parliamentary Communications Department.
-
-On Tuesday, June 04, Parliament will begin with Questions for Oral Answers from 9:30 a.m. to 10:30 a.m. Following this, the debate on the second reading of the Women Empowerment Bill will take place from 10:30 a.m. to 5:00 p.m. Afterward, the Private Members’ Bills of Institute of Chartered Ship Brokers of Sri Lanka (Incorporation) and Dadigama Sri Maithri Pragnartha Bouddha Educational Dhaham Sabhawa (Incorporation) will be considered.
-
-The day will conclude with a Motion at the Adjournment Time (Government) from 5:00 p.m. to 5:30 p.m.
-
-...
-
-[Data](articles/b41605fa.json)
-
-[Extended Data](ext_articles/b41605fa.ext.json)
-
----
-
-### Several roads in Ratnapura inundated as Kalu River rises
-
-*2024-05-30 14:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/99537/several-roads-in-ratnapura-inundated-as-kalu-river-rises) · `en`
-
-A flood situation has been reported in certain areas of Ratnapura due to the rapid rise in the water level of the Kalu River, Ada Derana reporter said.
-
-The water level of the Kalu River has reportedly neared the 07m level at the Pulungupitiya Gauging Station.
-
-As a result of this, the Alupotha, Ratnapura main bus route has been flooded again from the Athoya area, disrupting traffic movement on the road.
-
-It is reported that many byroads that area connected to the main roads are also reportedly inundated with houses in the vicinity at risk.
-
-Residents fear that if the water level reaches the 07 limit of the gauge, a severe flood situation will occur in the area.
-
-◼️
-
-[Data](articles/edd28bb4.json)
-
-[Extended Data](ext_articles/edd28bb4.ext.json)
-
----
-
-### A delegation to Russia to seek former Sri Lankan soldiers
-
-*2024-05-30 14:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197182) · `si`
-
-A Sri Lankan delegation will visit Russia from June 5-7 to assist former Sri Lankan soldiers involved in the Russian-Ukrainian conflict. The delegation aims to address the concerns of 455 such soldiers, with 16 already repatriated and efforts underway to bring back more.
-
-🟩
-
-Russian-Ukrainian soldiers are to visit Russia on behalf of the former Sri Lankan soldiers involved in the war.
-
-Special Minister of External Affairs, Minister of Foreign Affairs, said that.
-
-He said that the local delegation is due to visit Russia during the period between June 5 and 7.
-
-Tharaka Balasuriya said that 455 complaints have been received from the former Sri Lankan soldiers who are involved in the Russian - Ukrainian military soldiers.
-
-According to the information received, 16 Sri Lankans have been able to repatriate 16 Sri Lankans have been able to repatriate 26 Sri Lankans to bring back to Sri Lanka.
-
-◼️
-
-[Data](articles/2dd2c1a2.json)
-
-[Extended Data](ext_articles/2dd2c1a2.ext.json)
-
----
-
-### Parliament meets from 4th to 7th
-
-*2024-05-30 14:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/184862) · `ta`
-
-The Parliament will convene from June 4th to 7th, with various sessions scheduled for debates and question-and-answer periods. Key topics include the Women's Reinforcement Bill, Sri Lanka Chartered Shipping Brokers Bill, Buddhist Education Sabha Bill, and several others. The schedule also includes time for oral answers, debates on motions, and questions to the Prime Minister and other officials.
-
-🟩
-
-Parliamentary Secretary General Kushani Rohanadeera has said that the Parliament will be held from the 4th to the 7th.
-
-The decision was taken at a meeting of Parliamentary Affairs on Tuesday (28) chaired by Speaker Mahinda Yapa Abeywardena.
-
-Accordingly, the time will be reserved for the oral answer from 9.30 am to 10.30 pm on Tuesday, June 4 and a second assessment debate on the women's reinforcement Bill will be held from 10.30 pm to 5.00 pm.
-
-Subsequently, the Sri Lanka Chartered Shipping Brokers Bill and the Buddhist Education Sabha (Consultation) Bill of the Sri Maithri Pragnanarta, Thektikama, will be taken up for consideration.
-
-On Wednesday, June 5th, from 9.30 am to 10.00 pm, the Prime Minister is asked for questions (04 questions).. Subsequently, from 10.00 am to 10.30 pm, the time has been allocated for the source of the source (05 questions).
-
-...
-
-[Data](articles/57beb020.json)
-
-[Extended Data](ext_articles/57beb020.ext.json)
-
----
-
-### A speedy increase in the water level of Kaluganga!
-
-*2024-05-30 14:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/184865) · `ta`
-
-Rapidly rising water levels in Kaluganga lead to severe flooding along the main bus route in Ratnapura's Oya area, disrupting traffic. Concerns mount as predictions suggest a major flood if the water surpasses the critical mark of 7 meters.
-
-🟩
-
-As a result, flooding from Oya area on the main bus route of Ratnapura has caused disruption to traffic.
-
-People have said that if the water level exceeds the border of 07, there will be a heavy flood.
-
-◼️
-
-[Data](articles/f28bc547.json)
-
-[Extended Data](ext_articles/f28bc547.ext.json)
-
----
-
-### SL diplomats to meet Russian Defence Ministry today
-
-*2024-05-30 14:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SL-diplomats-to-meet-Russian-Defence-Ministry-today/108-283706) · `en`
-
-Colombo, May 30 (Daily Mirror) Sri Lankan diplomats in Russia will engage with officials of the Russian Defence Ministry this evening, in "first steps" towards repatriating Sri Lankans in Russia, who have been thrust into the battlefront of its war against Ukraine.
-
-The Foreign Ministry has received up to 455 complaints of Sri Lankans who are part of Russia's military efforts, willingly or unwillingly, but this number could be much higher, State Minister of Foreign Affairs Tharaka Balasuriya said.
-
-While some of them had travelled as mercenaries, the State Minister said that others were duped into fighting for Russia at the battle front.
-
-“The people who have gone to Russia, have gone through different means. Most have gone through visit visas, and they have gone through India or the Middle East, and they have been duped by various nefarious agents, some of whom have been arrested,” State Minister Balasuriya said.
-
-...
-
-[Data](articles/44166a08.json)
-
-[Extended Data](ext_articles/44166a08.ext.json)
-
----
-
-### A woman who was returning home from a hospital in Jaffna
-
-*2024-05-30 14:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/184867) · `ta`
-
-In Jaffna, Sarojini Devi Albert William, 61, was fatally hit by a speeding car while cycling back from a hospital visit with her husband. The couple, unwell for days, sought treatment but were involved in an accident upon return. Devi was critically injured and rushed to Tellippallai Hospital before being transferred to Jaffna Bodhana Hospital. The car's driver was apprehended by Ilavalai police for further investigation.
-
-🟩
-
-A family woman who was returning home from her husband to hospital with her husband for medical treatment in Jaffna
-
-Sarojini Devi Albert William, a 61 -year -old from the area, died in the incident
-
-The family had been sick for the past few days and went to a nearby hospital yesterday with her husband in a bicycle.
-
-While receiving treatment and returning home in a bicycle with her husband, the fast -paced car collided with them.
-
-The family woman who was traveling in a bicycle was thrown and injured in the Tellippallai Hospital and was transferred to the Jaffna Bodhana Hospital for further treatment.
-
-Ilavalai police have arrested the driver of the car and carried out further investigations into the incident.
-
-◼️
-
-[Data](articles/dc66975f.json)
-
-[Extended Data](ext_articles/dc66975f.ext.json)
-
----
-
-### Hut
-
-*2024-05-30 14:22:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுழிபுரத்தில்-காணி-சுவீகரிப்பு-தடுத்து-நிறுத்தம்/175-338154) · `ta`
-
-Land acquisition for a naval camp near Chiripuram was halted due to landowner opposition. The Department of Land Survey blocked the land, leading to protests from Sivagnanam Sreedharan of the Sri Lanka Tamil National Alliance (TNA). After receiving an owners' opposition letter via lawyer Sukas, the department withdrew from the land.
-
-🟩
-
-The land acquisition representatives and the public, which was to be carried out for the naval camp at Chiripuram Thiruvadiyadam Kattupulam, was abandoned following the opposition of the land owner.
-
-The land of the land in the Chiripuram Wild Field area was blocked by the Department of Land Survey, Navy's land.. In this case, they should notify the superintendent about his return.
-
-Sivagnanam Sreedharan, a member of the Sri Lanka Tamil National Alliance (TNA), then spoke to the public and protested the public.. In this case, the superintendent was ordered to return.
-
-Owners' Opposition letter was handed over by lawyer Sukas. The department then left the land and left.
-
-Sri Lanka Tamil National Alliance (TNA) parliamentarian Sivagnanam Sreedharan, General Secretary of the Tamil National People's Front Gajendran, Media Spokesperson Kanagaratnam Sukash and many others were present.
-
-◼️
-
-[Data](articles/3b0a40f7.json)
-
-[Extended Data](ext_articles/3b0a40f7.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-01 14:53:02**
+As of **2024-06-01 15:03:46**
 
 ## Newspaper Stats
 
-*Scraped **27,712** Articles*
+*Scraped **27,713** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,30 +19,56 @@ adalk | 2,363
 adaderanalk | 3,148
 tamilmirrorlk | 3,246
 virakesarilk | 4,277
-dailymirrorlk | 4,388
+dailymirrorlk | 4,389
 adaderanasinhalalk | 4,423
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,711 (100.0%) of 27,712 articles have been extended.
+27,712 (100.0%) of 27,713 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-01 (Saturday)
 
-### සැකකරුවෙක් අත්අඩංගුවට ගැනීමට පොලීසිය මහජන සහාය ඉල්ලයි
+### Earliest and most distant galaxy ever observed
+
+*2024-06-01 14:38:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Earliest-and-most-distant-galaxy-ever-observed/108-283881) · `en`
+
+(BBC) - The James Webb Space Telescope has smashed its own record for detecting the most distant known galaxy. Called JADES-GS-z14-0, the collection of stars was spied as it was a mere 290 million years after the Big Bang.
+
+Put another way - if the Universe is 13.8 billion years old, it means we're observing the galaxy when the cosmos was only 2% of its current age.
+
+Webb used its huge 6.5m-wide primary mirror and sensitive infrared instruments to make the discovery.
+
+The telescope's previous record holder was a galaxy seen at 325 million years after the Big Bang.
+
+Astronomers say the most interesting aspect of the latest observation is not so much the great distance involved - as amazing as that is - but rather the size and brightness of JADES-GS-z14-0.
+
+...
+
+[Data](articles/5a520df9.json)
+
+---
+
+### Police call for public assistance to arrest a suspect
 
 *2024-06-01 14:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197244) · `si`
 
-බන්ධනාගාර නිලධාරීන්ගෙන් මිදී පළා ගිය සැකකරුවෙක් අත්අඩංගුවට ගැනීම සඳහා පොලීසිය මහජන සහාය අපේක්ෂා කරයි.
+Police need public help to capture a suspect linked to the rape and murder of a nine-year-old girl in the Talahaigamanana division. The suspect had previously been released from prison custody.
 
-අදාළ සැකකරු 2024.02.15 වනදා තලෛමන්නාරම පොලිස් වසමේදී අවුරුදු 09ක දැරියක් දූෂණය කර ඝාතනය කිරීමේ සිද්ධිය සම්බන්ධයෙන් අත්අඩංගුවට ගෙන රක්ෂිත බන්ධනාගාරගතව සිටි පුද්ගලයෙකි.
+🟩
+
+Police seek public assistance to arrest a suspect who lived from prison officials.
+
+The suspect was arrested in connection with the rape and murder of a nine-year-old girl in Talahaigamanana Police Division.
 
 ◼️
 
 [Data](articles/9120f61b.json)
+
+[Extended Data](ext_articles/9120f61b.ext.json)
 
 ---
 
@@ -2179,23 +2205,5 @@ Accordingly, a liter of Otto diesel will be sold for 317 rupees from midnight to
 [Data](articles/efd319e9.json)
 
 [Extended Data](ext_articles/efd319e9.ext.json)
-
----
-
-### Swami Vipulanandar in Colombo
-
-*2024-05-31 21:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/185002) · `ta`
-
-Swami Vipulanandar's monastery in Colombo, led by Raghubaran, hosted an event featuring his statue transfer. The ceremony included the participation of the Ramakrishna Mission's Srimad Swami Aksharatmananthaji, who joined the Gnanashekaran and Gnanalakshmi couple in honoring the statue.
-
-🟩
-
-Swami Vipulanandar Monastery Garlic. Was held under the leadership of Raghubaran. Swami Vipulanandar statue is being taken from the Saiva Mangayar Vidyalaya, followed by the Ramakrishna Mission leader Srimad Swami Aksharatmananthaji after the garland of Gnanashekaran and Gnanalakshmi couple.
-
-◼️
-
-[Data](articles/cfc871b4.json)
-
-[Extended Data](ext_articles/cfc871b4.ext.json)
 
 ---

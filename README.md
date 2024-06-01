@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-02 00:18:56**
+As of **2024-06-02 00:34:15**
 
 ## Newspaper Stats
 
-*Scraped **27,766** Articles*
+*Scraped **27,767** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 268
 bbccomsinhala | 273
 newsfirstlk | 363
 islandlk | 1,495
-economynextcom | 1,584
+economynextcom | 1,585
 dailyftlk | 1,635
 adalk | 2,365
 adaderanalk | 3,158
@@ -26,25 +26,31 @@ adaderanasinhalalk | 4,439
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,765 (100.0%) of 27,766 articles have been extended.
+27,766 (100.0%) of 27,767 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-01 (Saturday)
 
-### ஆப்கானிஸ்தானில் படகு விபத்து: 20 பேர் பலி
+### Boat accident in Afghanistan: 20 killed
 
 *2024-06-01 23:59:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஆப்கானிஸ்தானில்-படகு-விபத்து-20-பேர்-பலி/50-338252) · `ta`
 
-ஆப்கானிஸ்தானின் கிழக்கு பகுதியில் நங்கர்ஹார் மாகாணத்திலுள்ள ஆற்றில் படகொன்று கவிழ்ந்து விபத்திற்குள்ளானதில் 20 பேர் உயிரிழந்துள்ளனர்.
+In Afghanistan's Nangarhar province, a boat crash in a river resulted in the deaths of 20 individuals, including women and children. Rescue efforts are underway after recovering five bodies from the scene where 26 were initially aboard.
 
-உயிரிழந்தவர்களில் பெண்கள் மற்றும் சிறுவர்கள் அடங்குகின்றனர் என சர்வதேச ஊடகங்கள் தெரிவிக்கின்றன. ஒரு ஆண், ஒரு பெண், 2 சிறுவர்கள் உட்பட 5 உடல்கள் இதுவரை மீட்கப்பட்டுள்ளன என குறிப்பிடப்பட்டுள்ளது.
+🟩
 
-இந்தப் படகில் 26 பேர் பயணித்திருந்தனர் என தெரிவிக்கப்பட்டுள்ளது. மீட்புப் பணிகள் தொடர்ந்தும் முன்னெடுக்கப்பட்டு வருகின்றன என குறிப்பிடப்பட்டுள்ளது. (a)
+In the eastern part of Afghanistan, 20 people were killed when a boat crashed into a river in Nangarhar province.
+
+International media reports that the dead include women and boys. Five bodies, including a male, a woman and 2 boys, have been recovered so far.
+
+It was reported that 26 people were traveling in the boat. It has been stated that rescue operations are ongoing. (A)
 
 ◼️
 
 [Data](articles/ac8443dd.json)
+
+[Extended Data](ext_articles/ac8443dd.ext.json)
 
 ---
 
@@ -1530,6 +1536,26 @@ The resources sovere the resources were obtained in the General Assembly Test Ex
 
 ---
 
+### Sri Lanka coconut prices soar 20-pct at auction over May
+
+*2024-06-01 13:01:00* · [`economynextcom`](https://economynext.com/sri-lanka-coconut-prices-soar-20-pct-at-auction-over-may-165740/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s average coconut prices rose 6.6 percent to 75,784 for 1,000 nuts over at an auction on May 30, data from the Coconut Development Authority shows.
+
+Auction prices have gone up 20 percent from 62,958 on May 02.
+
+The highest price was 79,900 rupees for 1,000 nuts at the May 30 auction, down from 80,100 rupees a week ago, while the lowest was 65,000 up from 62,500.
+
+A total of 316,756 coconuts were offered at the auction and 248,938 nuts were sold.
+
+Wholesale prices were 95 to 110 rupees for large nuts and 85 to 90 rupees for small nuts in the week
+
+◼️
+
+[Data](articles/4a227387.json)
+
+---
+
 ### T20 World Cup Warm-up: Dasun Shanaka stars as Sri Lanka beat Ireland
 
 *2024-06-01 12:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/99576/t20-world-cup-warm-up-dasun-shanaka-stars-as-sri-lanka-beat-ireland) · `en`
@@ -2307,27 +2333,5 @@ Turnover stood at Rs 1.16 billion with four crossings. Those crossings were repo
 [Data](articles/f116116e.json)
 
 [Extended Data](ext_articles/f116116e.ext.json)
-
----
-
-### Handover Sirikotha to SJB: SJB tells Ranil
-
-*2024-06-01 06:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Handover-Sirikotha-to-SJB-SJB-tells-Ranil/108-283828) · `en`
-
-Samagi Jana Balawegaya (SJB) yesterday demanded President Ranil Wickremesinghe to hand over the UNP headquarters Sirikotha to the SJB.
-
-Addressing the media, the party’s election manager Sujeewa Senasinghe said that SJB has a right to claim Sirikotha.
-
-“We have a right to claim Sirikotha as we are former UNPers,” he said.
-
-Expressing concerns about UNP’s current plight, Senasinghe also said “We hope that UNP leader will work according to his conscience and handover the Sirikotha to us. He should do so, for the sake of the remaining UNPers. Some of his sins would be forgiven if he hands over Sirikotha to us,” he said.
-
-“We were compelled to form SJB as we were not able to remove Wickremesinghe from the UNP leadership,” he added.
-
-...
-
-[Data](articles/efaba211.json)
-
-[Extended Data](ext_articles/efaba211.ext.json)
 
 ---

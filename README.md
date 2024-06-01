@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-01 14:19:05**
+As of **2024-06-01 14:34:16**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,422
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,703 (100.0%) of 27,711 articles have been extended.
+27,711 (100.0%) of 27,711 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ Central to the scheme was the use of minors as shooters. The plan aimed to strik
 ...
 
 [Data](articles/7b6f8775.json)
+
+[Extended Data](ext_articles/7b6f8775.ext.json)
 
 ---
 
@@ -124,6 +126,8 @@ Unfortunately, due to the recent fuel price revision and the bus fare revision p
 
 [Data](articles/e6043ace.json)
 
+[Extended Data](ext_articles/e6043ace.ext.json)
+
 ---
 
 ### Michelle Obama’s mother, Marian Robinson, dies at 86
@@ -149,6 +153,8 @@ In a separate tweet, Mr Obama said that “there was and will be only one Marian
 ...
 
 [Data](articles/df3b48e8.json)
+
+[Extended Data](ext_articles/df3b48e8.ext.json)
 
 ---
 
@@ -258,19 +264,27 @@ The Criminal Investigation Department Sandolign Sandals Mr. Rohan Premaratne, Se
 
 ---
 
-### மலையகத்தில் கடும் பனிமூட்டம் ; சாரதிகளுக்கு விடுக்கப்பட்டுள்ள அறிவித்தல்
+### Heavy snowfall in the hill country;Notification issued to drivers
 
 *2024-06-01 12:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/185040) · `ta`
 
-மலையகத்தில் பல பகுதிகளில் அதிக பனிமூட்டம் சூழ்ந்து காணப்படுகிறது. இதனால் சாரதிகள் அவதானமாக வாகனங்களை செலுத்துமாறு பொலிஸார் எச்சரிக்கை விடுத்துள்ளனர்.
+Heavy snowfall in hill areas has led to warnings for drivers due to difficult driving conditions. Roads like Nuwara Eliya-Hatton Main Road and others are covered in snow, causing visibility issues. Drivers are advised to keep their vehicles close together and use headlights to avoid accidents, especially during weekends when more visitors travel to Nuwara Eliya.
 
-நுவரெலியா – ஹட்டன் பிரதான வீதியில் பிலக்பூல் சந்தி , வெண்டிகோனர் , பங்களாஹத்த , நானுஓயா , ரதல்ல குறுக்கு வீதி, அதேபோன்று நுவரெலியா - கண்டி வீதியில் பம்பரக்கலை, டொப்பாஸ், குடாஓயா,லபுக்கலை, கொண்டக்கலை பாதை நுவரெலியா -உடபுசல்லாவ வீதியில் ஆவேலியா, பொரலந்த, கந்தப்பளை,  இராகலை பாதை , நுவரெலியா -பதுளை- வீதியில் தர்மபால சந்தி, மாகாஸ்தோட்ட,கட்டுமான, சீத்தாஎலிய, ஹக்கலை மற்றும் பொரகாஸ் உட்பட அம்பேவல,மீப்பிலிமான ,பட்டிபொல மற்றும் உலக முடிவு வீதி போன்ற இடங்களில் வழமைக்கு மாறாக அதிகளவான பனி மூட்டம் காணப்படுகின்றது.  இதனால் சாரதிகள் வாகனங்களை செலுத்துவதில் பெரும் சிரமங்களை சந்தித்து வருகின்றனர்.
+🟩
 
-நுவரெலியா – ஹட்டன் ஏ7 பிரதான வீதியில் சென்ற வாகனங்கள் அதிக ஒலி எழுப்பியவாறும், வாகன விளக்குகளை ஒளிரவிட்டும் செல்வதை அவதானிக்க முடிந்தது .
+In many parts of the hill country, there is a high snow.The drivers have warned the drivers to pay their vehicles.
+
+Nuwara Eliya -Hatton Main Road, Vendikonner, Bangladesh, Bangladesh, Nanuoya, Ratalla Cross Road, as well as Nuwara Eliya -Kandy Road, BambarakkalOn the road, there is a large number of snowfall in places like Dharmapala Junction, Mahastota, Construction, Sita Eliya, Hakkali and Borakas, including Ambewala, Meebilima, Pattipola and World End Road.Drivers are facing great difficulties in driving vehicles.
+
+Vehicles on the Nuwara Eliya - Hatton A7 main road were able to observe the sound and the lighting of the vehicle lights.
+
+Especially on Saturdays and Sunday holidays, a large number of people from the outer district visit Nuwara Eliya in vehicles.
 
 ...
 
 [Data](articles/6a210ed6.json)
+
+[Extended Data](ext_articles/6a210ed6.ext.json)
 
 ---
 
@@ -324,19 +338,27 @@ Lanka IOC also reduced fuel prices as the price of Sipetco.
 
 ---
 
-### Factum Perspective: இந்தியாவின் வெளியுறவுக் கொள்கையில் இலங்கையின் இருப்பு
+### Factum Perspective: Sri Lanka's existence in India's foreign policy
 
 *2024-06-01 12:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/185037) · `ta`
 
-தேசிய மக்கள் சக்தி (NPP) கட்சியின் இலங்கை பாராளுமன்ற உறுப்பினரான அனுரகுமார திஸாநாயக்கவின் சமீபத்திய இந்திய விஜயம் ஊடகங்களில் தலைப்புச் செய்தியாக காணப்பட்டது. இந்தியா இந்த ஆண்டு இறுதியில் இலங்கை ஜனாதிபதி தேர்தலில் போட்டியிடும் மற்ற கட்சிகளின் தலைவர்களை அழைக்கும் என்ற சந்தேகம் பரவியது.
+India's engagement with Sri Lanka's National People's Power (NPP), a significant third party challenging the traditional two-party system, indicates India's strategic interest in expanding its influence in the region, particularly as a counter to China. This move comes amid concerns about Sri Lanka's domestic issues, including the treatment of the Tamil community, which has historically impacted bilateral relations. Despite geopolitical complexities, India's foreign policy has consistently prioritized maintaining a strong presence in Sri Lanka, leveraging economic cooperation and political alliances to safeguard its interests and counterbalance Chinese influence.
 
-எவ்வாறாயினும், NPP க்கான அதனது ஆரம்ப அழைப்பின் அடிப்படையில், வெளிநாட்டு தரப்பினர்கள் இப்போது இலங்கை அரசியலின் நிலையை சரியாக அளவிடுகிறார்கள் என்பதை நாம் ஊகிக்கலாம்.
+🟩
 
-ஜனரஞ்சகத்தின் மீதான அதனது வெற்றி மற்றும் வலிமையான மூன்றாம் தரப்பாக முக்கியத்துவம் பெற்றதன் மூலம், NPP இலங்கையின் பாரம்பரிய இரு கட்சி முறைமையை தீர்க்கமாக முறித்துக் கொண்டது. எதிர்காலத்தை நோக்கிய ஓர் பார்வையுடன், இந்தியா தனது முக்கிய போட்டியாளரான சீனாவிற்கு முன்னராக NPP உடனான தனது உறவுகளைக் குறிக்க முன்னணியில் உள்ளது.
+The latest Indian visit to Sri Lanka's Sri Lankan parliamentarian Anura Kumara Dissanayake, the National People's Power (NPP) party, was founded in the media in the media. There was suspicion that India would invite the leaders of other parties contesting the Sri Lankan presidential election by the end of this year.
+
+However, on its initial call for NPP, we can speculate that foreign parties are now properly measuring the status of Sri Lankan politics.
+
+With its success and strong third party on populism, the NPP broke the NPP system of Sri Lanka's traditional two -party system. With a glimpse of the future, India is at the forefront to mark its relations with NPP ahead of its prominent contestant, China.
+
+Sri Lanka has a strategic position in the Indian Ocean. India is the largest business partner in Sri Lanka. Even during the latest visit to the NPP group, there were constructive discussions on economic cooperation to expand India's hegemony in the region.
 
 ...
 
 [Data](articles/57598801.json)
+
+[Extended Data](ext_articles/57598801.ext.json)
 
 ---
 
@@ -408,23 +430,31 @@ More than 100 million people are registered to vote across eight states and fede
 
 ---
 
-### மட்டு. வெல்லாவெளியில் உயிரை மாய்த்துக் கொள்ள முயன்ற யுவதி சிகிச்சை பலனின்றி உயிரிழப்பு
+### Bore. Woman's treatment in Wellaveli
 
 *2024-06-01 11:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/185027) · `ta`
 
-மட்டக்களப்பு மாவட்டம் வெல்லாவெளி பொலிஸ் பிரிவிற்குட்பட்ட மண்டூர் தெற்கு பகுதியில் காதல் தொடர்பை நிறுத்த கோரியதால் உயிரைமாய்த்துக் கொள்ள முயன்ற யுவதி சிகிச்சை பலனளிக்காமையினால் உயிரிழந்துள்ளார்.
+In Wellaveli, an 18-year-old woman died from untreated poisoning, despite being rushed to Kalmunai Resource Hospital. Her mother, living abroad and in a local rehab, criticized the man involved in what she believed was a romantic relationship. The case is under investigation by the Wellaveli police and the court, with organ samples sent for analysis.
 
-18 வயது மதிக்கத்தக்க யுவதியே கல்முனை ஆதார வைத்தியசாலைக்கு சிகிச்சைக்காக வியாழக்கிழமை (30) இரவு அனுமதிக்கப்பட்டு மறுநாள் வெள்ளிக்கிழமை (31) அதிகாலை 2.45 மணியளவில் உயிரிழந்துள்ளார்.
+🟩
 
-குறித்த உயிரிழந்த யுவதியின் தாயார் வெளிநாடு ஒன்றில் பணிபுரிந்த நிலையில் இலங்கைக்கு வந்து 3 மாதங்கள் சென்றுள்ளதாகவும், யுவதி 2 வருடங்களாக மட்டக்களப்பு மாவட்டத்தில் உள்ள புனர்வாழ்வு நிலையம் ஒன்றில் தங்கி இருந்த நிலையில் களுவாஞ்சிக்குடி நீதிவான் நீதிமன்ற உத்தரவிற்கமைய  யுவதியின் தாய் வீட்டிற்கு அழைத்துச் சென்றதாகவும் தெரிவிக்கப்படுகின்றது.
+Mandur, belonging to the Wellaveli police division in the Batticaloa district, has died due to the lack of treatment for a life -threatening woman.
 
-இந்நிலையில். ஏலவே யுவதியுடன் காதல் தொடர்பில் இருந்த இளைஞன் வீட்டிற்கு வந்த யுவதியை மீண்டும் காதல் தொடர்புகளை மேற்கொண்ட நிலையில் யுவதியின் தாயார் கண்டித்துள்ளார்.
+The 18 -year -old girl was admitted to the Kalmunai Resource Hospital for treatment on Thursday night and died at around 2.45 am the next day.
 
-இதனை  அடுத்து வீட்டை விட்டு வெளியேறி சென்ற யுவதி மீண்டும் 15 நிமிடம் மீண்டும் தனது வீட்டிற்கு வந்துள்ளார்.
+It is reported that the mother of the deceased woman has been working abroad for three months and has been staying at a rehabilitation center in the Batticaloa district for two years.
+
+in this situation. The young woman's mother has condemned the young man who had come home with a love affair with a woman.
+
+After leaving the house, the young woman returned to her home for 15 minutes.
+
+The woman who came to the house after cleaning the house and conveyed with her mother a little after he said that he had consumed the toxic seed.. He was immediately admitted to the Kalmunai Resource Hospital for treatment.
 
 ...
 
 [Data](articles/295d44ba.json)
+
+[Extended Data](ext_articles/295d44ba.ext.json)
 
 ---
 
@@ -500,21 +530,27 @@ Sri Lanka is scheduled to be held against South Africa on Monday, the first matc
 
 ---
 
-### குஜராத் விமானநிலையத்தில் கைதுசெய்யப்பட்டவர்கள் மததீவிரவாதிகள் இல்லை- கமால் குணரட்ண
+### There are no religious extremists arrested at Gujarat Airport- Kamal Gunaratne
 
 *2024-06-01 10:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/185025) · `ta`
 
-இந்தியாவின் குஜராத் மாநிலத்தில் பயங்கரவாதிகளுடன் தொடர்புடையவர்கள் என்ற சந்தேகத்தின் பேரில் கைதுசெய்யப்பட்ட இலங்கையர்கள் நால்வரும்; போதைப்பொருளுக்கு அடிமையானவர்கள்  மததீவிரவாதிகள் இல்லை என பாதுகாப்பு அமைச்சின் கமால் குணரட்ண தெரிவித்துள்ளார்.
+Four Sri Lankans arrested in Gujarat, India, suspected of terrorist links, not religious extremists, according to Kamal Gunaratne from the Ministry of Defense. He assures the public that intelligence agencies are vigilant regarding security issues.
 
-இந்த விடயம் குறித்து எங்களின் புலனாய்வு பிரிவினர் எச்சரிக்கையுடன் உள்ளனர் என தெரிவித்துள்ள அவர் இந்தியாவிற்கு சென்ற நான்கு இலங்கையர்கள் குறித்து முழுமையான விசாரணைகள் இடம்பெறுகின்றன அவர்களின் சகாக்கள் கூட விசாரிக்கப்பட்டுள்ளனர் என குறிப்பிட்டுள்ளார்.
+🟩
 
-தொடரும் விசாரணைகள் குறித்து என்னால் கருத்து தெரிவிக்க முடியாது ஆனால் இந்தியாவில் கைதுசெய்யப்பட்டுள்ள நால்வரும் மததீவிரவாதிகள் இல்லை அவர்கள் போதைப்பொருளிற்கு அடிமையானவர்கள் என தெரிவித்துள்ளார்.
+Four Sri Lankans arrested on suspicion of being associated with terrorists in Gujarat, India;Kamal Gunaratne of the Ministry of Defense said that there are no religious people who are addicted to drugs.
 
-பாதுகாப்பு செயலாளர் என்ற அடிப்படையில் உயிர்த்த ஞாயிறு தாக்குதல் போன்ற சம்பவங்கள் மீண்டும் இடம்பெறாது நாங்கள் எங்கள் பாதுகாப்பு குறித்து விழிப்புணர்வுடன் உள்ளோம் என்பதை பொதுமக்களிற்கு உறுதியாக தெரிவிக்க முடியும் என அவர் தெரிவித்துள்ளார்.
+"Our intelligence agencies are cautious about the issue," he said.
+
+I cannot comment on the ongoing investigations but the four arrested in India are not religious extremists, they said they were addicted to drugs.
+
+He said the public can be sure that we are aware of our security.
 
 ◼️
 
 [Data](articles/42f00db1.json)
+
+[Extended Data](ext_articles/42f00db1.ext.json)
 
 ---
 
@@ -562,19 +598,25 @@ The final results are to be released on weekends and after the first democratic 
 
 ---
 
-### ஆறுவார கால யுத்த நிறுத்தம்- காசாவில் மக்கள் வாழும் பகுதிகளில் இருந்து இஸ்ரேலிய படையினரை விலக்கல் - இஸ்ரேலின் திட்டத்தை அறிவித்தார் பைடன்
+### Six -week ceasefire - excluding Israeli soldiers from people living in Gaza
 
 *2024-06-01 10:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/185024) · `ta`
 
-யுத்தத்தை முடிவிற்கு கொண்டுவருவதற்கான இஸ்ரேலின் யோசனையை வெளியிட்டுள்ள அமெரிக்க ஜனாதிபதி ஜோ பைடன் ஹமாஸ் அதனை ஏற்றுக்கொள்ளவேண்டும் என வேண்டுகோள் விடுத்துள்ளார்.
+US President Joe Biden announced a six-week ceasefire between Israel and Hamas, excluding Israeli soldiers from Gaza. He urged acceptance of Israel's proposal to end the conflict, which includes releasing some hostages and increasing humanitarian aid. The ceasefire's first phase involves a full withdrawal of Israeli forces.
 
-மனிதாபிமான உதவிகள் அதிகரிக்கப்படும் பணயக்கைதிகள் சிலர் விடுதலை செய்யப்படுவார்கள் என ஜோபைடன்  முன்வைத்துள்ள திட்டத்தில் தெரிவி;க்கப்பட்டுள்ளமை  குறிப்பிடத்தக்கது.
+🟩
 
-வெள்ளை மாளிகையில் இடம்பெற்ற செய்தியாளர் மாநாட்டில் கருத்து தெரிவி;த்துள்ள அமெரிக்க ஜனாதிபதி யுத்த நிறுத்த திட்டத்தின் முதல் கட்டத்தில் முழுமையான யுத்தநிறுத்தம் நடைமுறைக்கு வரும் என தெரிவித்துள்ளதுடன் இஸ்ரேலிய இராணுவத்தினர் விலக்கிக்கொள்ளப்படுவார்கள் பாலஸ்தீனிய சிறைக்கைதிகள் விடுதலையும் காசாவின் மக்கள் அதிகமாக வாழும் பகுதிகளில் இருந்து இஸ்ரேலிய படையினர் விலக்கிக்கொள்ளப்படுவதும் இடம்பெறும் என தெரிவித்துள்ளார்.
+US President Joe Bidan Hamas has appealed to the acceptance of Israel's proposal to end the war.
+
+It is noteworthy that Jobitin's plan stated that some of the hostages that increase humanitarian assistance will be released.
+
+Speaking at a press conference held at the White House, the US President said that a complete ceasefire would be implemented in the first phase of the ceasefire, and Israeli would be withdrawn.
 
 ◼️
 
 [Data](articles/ddc2a274.json)
+
+[Extended Data](ext_articles/ddc2a274.ext.json)
 
 ---
 

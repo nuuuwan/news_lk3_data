@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-01 16:52:11**
+As of **2024-06-01 17:04:44**
 
 ## Newspaper Stats
 
@@ -26,35 +26,47 @@ adaderanasinhalalk | 4,429
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,723 (100.0%) of 27,729 articles have been extended.
+27,729 (100.0%) of 27,729 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-01 (Saturday)
 
-### මිලිමීටර් 100ට වැඩි වැස්සක්
+### A rain over 100 mm
 
 *2024-06-01 16:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197251) · `si`
 
-ඉදිරි පැය 36 සඳහා අද (01) පස්වරු 4ට නිකුත් කළ කාලගුණ නිවේදනයේ තද වැස්සක් පිළිබඳ අනතුරු අඟවා තිබේ.
+Heavy rainfall exceeding 100mm expected in Western, Sabaragamuwa, and Matara districts over the next 36 hours due to a heatwave warning.
 
-එහි දැක්වෙන්නේ බස්නාහිර සහ සබරගමුව පළාත්වලත්, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවලට මිලිමීටර් 100ට වැඩි තද වැසි ඇතිවිය හැකි බවය.
+🟩
+
+The weather notification issued for the next 36 hours (01) was warned about a heated rain.
+
+It is said that there will be heavy showers at more than 100 millimeters in the Western and Sabaragamuwa and Matara districts.
 
 ◼️
 
 [Data](articles/4570e0ef.json)
 
+[Extended Data](ext_articles/4570e0ef.ext.json)
+
 ---
 
-### වැලිපැන්න අන්තර් හුවමාරුව යළි දැනුම්දෙන තුරු වසා දැමේ
+### Welipenna interchange will be closed until it is again
 
 *2024-06-01 16:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197250) · `si`
 
-දක්ෂිණ අධිවේගී මාර්ගයේ වැලිපැන්න අන්තර් හුවමාරුව යළි දැනුම්දෙන තුරු වසා දමා තිබේ.
+The Welipenna interchange on the Southern Expressway remains closed indefinitely until further notice.
+
+🟩
+
+The Welipenna interchange on the Southern Expressway has been closed until it was again notified.
 
 ◼️
 
 [Data](articles/2778b749.json)
+
+[Extended Data](ext_articles/2778b749.ext.json)
 
 ---
 
@@ -67,6 +79,8 @@ The Welipenna Interchange of the Southern Expressway has been closed until furth
 ◼️
 
 [Data](articles/c8c1e1d1.json)
+
+[Extended Data](ext_articles/c8c1e1d1.ext.json)
 
 ---
 
@@ -102,27 +116,35 @@ He said that 452,979 candidates sat for the examination this year, including 387
 
 [Data](articles/5eb1c035.json)
 
+[Extended Data](ext_articles/5eb1c035.ext.json)
+
 ---
 
-### සුපිරි නළු සල්මන් ඛාන් ඝාතනය කර ශ්‍රී ලංකාවට පනින්න හැදූ කල්ලිය හසුවෙයි
+### The gang falls into Sri Lanka to kill the super-actor Salman Khan
 
 *2024-06-01 15:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197249) · `si`
 
-බොලිවුඩ් නළු සල්මන් ඛාන් ඝාතනය කිරීමේ කුමන්ත්‍රණයක් පිළිබඳ සියලු තොරතුරු අනාවරණය කර ගැනීමට ඉන්දීය පොලීසිය සමත්වී තිබේ.
+A gang led by Lawrence Bishoni plotted to assassinate Bollywood star Salman Khan in Maharashtra, enlisting 60-70 supporters for the attack. The plan involved escaping to Kanyakumari, then sailing to Sri Lanka to evade capture. However, the Indian police uncovered the plot and were preparing to ensure their safe passage to another country.
 
-Lawrence Bishnoi නම් කල්ලිය පාකිස්තාන අවි සැපයුම්කරුවෙකුගෙන් ලබාගත් ආයුධවලින් සන්නද්ධව මහාරාෂ්ට්‍රයේ පන්වෙල් හිදී සල්මන් ඛාන්ගේ මෝටර් රථයට පහර දීමට කුමන්ත්‍රණය කර ඇත.
+🟩
 
-කල්ලිය පුද්ගලයන් 60 සිට 70 දක්වා පිරිසකගේ සහාය ලබාගෙන ඇති අතර මුම්බායි පොලිස් මූලාශ්‍රවලට අනුව අදාළ කල්ලිය විසින් සකස් කරන ලද සංකීර්ණ සැලැස්මට අනුව ඒ සෑම පුද්ගලයෙකුට නිශ්චිත භූමිකාවක් පවරා තිබේ.
+The Indian police have revealed all the information about the assassination of Bollywood actor Salman Khan.
 
-ප්‍රහාරය ක්‍රියාත්මක කිරීමෙන් පසු, ප්‍රහාරකයින්ට තමිල්නාඩුවේ කන්‍යාකුමාරි වෙත පළා යන ලෙස උපදෙස් දී ඇති බවද අනාවරණය වෙයි.
+The gang named Lawrence Bishoni has conspired to attack the car of Salman Khan's car at Maharashtra.
 
-එහිදී ඔවුන් මුහුදු මාර්ගයෙන් ශ්‍රී ලංකාවට පළායෑමට නියමිතව සිට තිබේ.
+The gang has obtained the support of 60 to 70 people, according to the Mumbai police sources, each individual has been entrusted with a specific role in accordance with the mumbai police sources.
 
-එතැන් සිට පහසුකම් සපයන ලද වෙනත් රටකට ඔවුන් ආරක්ෂිතව ගමන් කිරීම සඳහා විධිවිධාන ක්‍රියාත්මක වී තිබූ බවද ඉන්දීය පොලීසිය අනාවරණය කරගෙන ඇත.
+It is also revealed that the attackers have been instructed to flee to Kanyakumari in Tamil Nadu.
+
+There they have been to be jailed to Sri Lanka through the sea.
+
+The Indian police have revealed that they had been working to travel safely for another country that provided facilities provided.
 
 ◼️
 
 [Data](articles/294604d4.json)
+
+[Extended Data](ext_articles/294604d4.ext.json)
 
 ---
 
@@ -197,6 +219,8 @@ Residents in the area regularly cross the river using boats often in poor condit
 ◼️
 
 [Data](articles/7ede8a46.json)
+
+[Extended Data](ext_articles/7ede8a46.ext.json)
 
 ---
 

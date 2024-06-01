@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-01 14:34:16**
+As of **2024-06-01 14:53:02**
 
 ## Newspaper Stats
 
-*Scraped **27,711** Articles*
+*Scraped **27,712** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,31 @@ adaderanalk | 3,148
 tamilmirrorlk | 3,246
 virakesarilk | 4,277
 dailymirrorlk | 4,388
-adaderanasinhalalk | 4,422
+adaderanasinhalalk | 4,423
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,711 (100.0%) of 27,711 articles have been extended.
+27,711 (100.0%) of 27,712 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-01 (Saturday)
+
+### සැකකරුවෙක් අත්අඩංගුවට ගැනීමට පොලීසිය මහජන සහාය ඉල්ලයි
+
+*2024-06-01 14:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197244) · `si`
+
+බන්ධනාගාර නිලධාරීන්ගෙන් මිදී පළා ගිය සැකකරුවෙක් අත්අඩංගුවට ගැනීම සඳහා පොලීසිය මහජන සහාය අපේක්ෂා කරයි.
+
+අදාළ සැකකරු 2024.02.15 වනදා තලෛමන්නාරම පොලිස් වසමේදී අවුරුදු 09ක දැරියක් දූෂණය කර ඝාතනය කිරීමේ සිද්ධිය සම්බන්ධයෙන් අත්අඩංගුවට ගෙන රක්ෂිත බන්ධනාගාරගතව සිටි පුද්ගලයෙකි.
+
+◼️
+
+[Data](articles/9120f61b.json)
+
+---
 
 ### Indian police uncover plot to murder Salman Khan and escape to Sri Lanka
 
@@ -2183,37 +2197,5 @@ Swami Vipulanandar Monastery Garlic. Was held under the leadership of Raghubaran
 [Data](articles/cfc871b4.json)
 
 [Extended Data](ext_articles/cfc871b4.ext.json)
-
----
-
-### How Trump was convicted
-
-*2024-05-31 21:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197224) · `si`
-
-The New York Court convicted former President Donald Trump on 34 criminal charges related to a $130,000 payment made during the 2016 presidential election, which was deemed illegal due to falsified business records. This marks a historic moment as Trump becomes the first U.S. president found guilty of criminal charges post-presidency. The verdict was reached unanimously by a jury of 12, setting a precedent for future elections. The sentencing, expected before the 2024 Republican primary, could result in a maximum of four years imprisonment or a fine.
-
-🟩
-
-The New York Court has decided that he was guilty of 34 criminal charges against former American President Donald Trump.
-
-Blue Film Active Stem Daniel to pay a relationship with the 2016 presidential election
-
-The provision of such cash is nothing wrong with law, but the preparing forged business documents is a violation of election laws according to the somari law.
-
-Former President Trump has decided to be guilty of the former President after the three-week trial in the New York court.
-
-According to the unanimous decision, according to the decision of 12 jury.
-
-The trump is one of the first major presidential candidate who is the first US President who is found guilty of criminal charges as a criminal US president.
-
-The punishment is to be announced 4 days before the official Republican Party candidate of the 2024 presidential election on July 11.
-
-The maximum punishment for the maximum of four years in such a case, the former President Trum can only a fine.
-
-◼️
-
-[Data](articles/2bcec82e.json)
-
-[Extended Data](ext_articles/2bcec82e.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-01 08:23:20**
+As of **2024-06-01 08:34:08**
 
 ## Newspaper Stats
 
-*Scraped **27,663** Articles*
+*Scraped **27,665** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,53 @@ adaderanalk | 3,143
 tamilmirrorlk | 3,237
 virakesarilk | 4,272
 dailymirrorlk | 4,378
-adaderanasinhalalk | 4,410
+adaderanasinhalalk | 4,412
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,662 (100.0%) of 27,663 articles have been extended.
+27,663 (100.0%) of 27,665 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-01 (Saturday)
+
+### ජර්මනියේ පිහි ඇනුමක් - 6කට තුවාල
+
+*2024-06-01 08:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197231) · `si`
+
+නිරිතදිග ජර්මනියේ මැන්හයිම් නගරයේ වෙළෙඳපොළ  චතුරශ්‍රයකදී පුද්ගලයෙකු විසින් පොලිස් නිලධාරියෙකු ඇතුළු හය දෙනෙකුට පිහියකින් පහර දී තුවාල සිදුකර තිබේ.
+
+විදෙස් වාර්තා සඳහන් කළේ තුවාල ලැබූවන්ගෙන් එක් අයෙකු ඉස්ලාම් විරෝධී ක්‍රියාකාරිකයෙකු වන මයිකල් ස්ටර්සන්බර්ග් වන බවත් ඔහු චතුරශ්‍රයේ රැලියක් පැවැත්වීමට සූදානම්ව සිට ඇති බවත් ය.
+
+මෙම සිදුවීම යූ ටියුබ් නාලිකාවක සජීවීව විකාශය වී ඇති අතර ප්‍රහාරකයා පුද්ගලයෙකුට පිහියෙන් ඇන ඇති අතර පසුව උදව් කිරීමට ගිය පොලිස් නිලධාරියෙකුට ද ප්‍රහාරයක් එල්ල කර ඇත.
+
+එම අවස්තාවේදී ප්‍රහාරකයාට තවත් පොලිස් නිලධාරියෙකු විසින් වෙඩි තබා ඇති බව විදෙස් වාර්තා සඳහන් කළේය.
+
+ප්‍රහාරය එල්ල කර ඇත්තේ ඇෆ්ගනිස්තානයේ උපත ලබා ජර්මනියේ ජීවත් වන 25 හැවිරිදි තරුණයෙකු බව සඳහන් වේ.
+
+◼️
+
+[Data](articles/e5af3bf2.json)
+
+---
+
+### අනධ්‍යයන කාර්ය මණ්ඩල ගැටලුව මැද මාවතකින් විසඳාගත යුතුයි  - රාජ්‍ය ඇමති සුරේන් රාඝවන්
+
+*2024-06-01 07:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197230) · `si`
+
+ඉල්ලීම් කිහිපයක් මුල් කර ගනිමින් වර්ජනයේ යෙදී සිටින විශ්වවිද්‍යාල අනධ්‍යයන කාර්ය මණ්ඩල වෘත්තීය සමිති සමඟ එළඹෙන සඳුදා දිනයේ සාකච්ඡා කරන බව ආචාර්ය සුරේන් රාඝවන් රාජ්‍ය අමාත්‍යවරයා පවසයි.
+
+ඔහු සඳහන් කළේ මේ සම්බන්ධයෙන් හොඳම විසඳුම ලබා දීමට ආණ්ඩුව බලාපොරොත්තු වන බවය.
+
+"විශ්වවිද්‍යාල අනධ්‍යයන කාර්ය මණ්ඩලය මේ වනවිට දවස් 28ක වැඩ වර්ජනයක් තියෙනවා. ‍මේක අවාසනාවන්ත වැඩ වර්ජනයක්. පාඩුව ලබන්නේ අනාගත පුරවැසියන්. සෘජු පාඩුව දවසකට මිලියන 150ක්. රජයට අවශ්‍ය නෑ මේක මේ ආකාරයට දික්කර ගන්න. වෘත්තීය සමිති වලටත් මේක මෙහෙම ‍ගෙනියන්න අවශ්‍ය නෑ. අපි මේ ප්‍රශ්නය ගැන සාකච්ඡා කරනවා ‍කෙසේ ද මේක විසඳගන්නේ කියලා. වෘත්තීය සමිති නායකයින් දෙදෙ‍ෙනක් සමග මම දුරකථනයෙන් සාකච්ඡා කළා. සඳුදාත් සාකච්ඡා කරනවා. මගේ බලාපොරොත්තුව නම් අපි මේක මැද මාවතකින් විසඳාගත යුතුයි.,"
+
+◼️
+
+[Data](articles/9dd30f4a.json)
+
+---
 
 ### MM in several areas. Heavy rains over 100
 
@@ -2133,53 +2169,5 @@ The police also seized 500g of Ice, 50 gms of Heroin, 500 gms of Ganja, about 2,
 [Data](articles/ba9b6300.json)
 
 [Extended Data](ext_articles/ba9b6300.ext.json)
-
----
-
-### NH Collection brand enters Sri Lanka replacing Mövenpick at Softlogic hotel
-
-*2024-05-31 17:01:00* · [`economynextcom`](https://economynext.com/softlogic-colombo-hotel-under-minor-groups-nh-collection-brand-from-june-165543/) · `en`
-
-ECONOMYNEXT – Softlogic Holdings said its Colombo city hotel will be operated by Thailand-based Minor leisure group under its upmarket NH Collection brand from June 1.
-
-“The debut of the NH Collection Hotels & Resorts brand in Sri Lanka is an indication of the untapped potential and opportunity for tourism in Sri Lanka, particularly in the city of Colombo,” Softlogic said in a stock exchange filing.
-
-The hotel has 219 rooms and has so far been operated by Movenpick, hotels and resorts.
-
-Minor Hotels has three other properties in Sri Lanka – Anantara Kalutara Resort, Anantara Peace Haven Tangalle Resort and Avani Kalutara Resort.
-
-The Softlogic hotel property, which consists of 219 rooms and suites providing an expansive view of the Indian ocean and Colombo city, will be branded as the “NH Collection Colombo Hotel”.
-
-Minor Hotels has over 550 hotels and resorts and serves customers in 56 countries, the statement said. (Colombo/May31/2024)
-
-◼️
-
-[Data](articles/1debd9be.json)
-
-[Extended Data](ext_articles/1debd9be.ext.json)
-
----
-
-### NH Collection brand enters Sri Lanka replacing Mövenpick at Softlogic hotel
-
-*2024-05-31 17:01:00* · [`economynextcom`](https://economynext.com/nh-collection-brand-enters-sri-lanka-replacing-movenpick-at-softlogic-hotel-165543/) · `en`
-
-ECONOMYNEXT – Softlogic Holdings said its Colombo city hotel will be operated by Thailand-based Minor leisure group under its upmarket NH Collection brand from June 1.
-
-“The debut of the NH Collection Hotels & Resorts brand in Sri Lanka is an indication of the untapped potential and opportunity for tourism in Sri Lanka, particularly in the city of Colombo,” Softlogic said in a stock exchange filing.
-
-The hotel has 219 rooms and has so far been operated by Movenpick, hotels and resorts.
-
-Minor Hotels has three other properties in Sri Lanka – Anantara Kalutara Resort, Anantara Peace Haven Tangalle Resort and Avani Kalutara Resort.
-
-The Softlogic hotel property, which consists of 219 rooms and suites providing an expansive view of the Indian ocean and Colombo city, will be branded as the “NH Collection Colombo Hotel”.
-
-Minor Hotels has over 550 hotels and resorts and serves customers in 56 countries, the statement said. (Colombo/May31/2024)
-
-◼️
-
-[Data](articles/33482fa1.json)
-
-[Extended Data](ext_articles/33482fa1.ext.json)
 
 ---

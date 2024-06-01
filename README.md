@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-01 20:03:51**
+As of **2024-06-01 20:18:55**
 
 ## Newspaper Stats
 
-*Scraped **27,747** Articles*
+*Scraped **27,750** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,64 @@ newsfirstlk | 363
 islandlk | 1,495
 economynextcom | 1,584
 dailyftlk | 1,635
-adalk | 2,363
+adalk | 2,364
 adaderanalk | 3,155
-tamilmirrorlk | 3,250
+tamilmirrorlk | 3,251
 virakesarilk | 4,282
 dailymirrorlk | 4,398
-adaderanasinhalalk | 4,432
+adaderanasinhalalk | 4,433
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,747 (100.0%) of 27,747 articles have been extended.
+27,747 (100.0%) of 27,750 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-01 (Saturday)
+
+### ISIS සිද්ධියට ඇල්ලූ පුෂ්පරාජ් ගෙන් හෙළිවූ රහස්
+
+*2024-06-01 19:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197256) · `si`
+
+ISIS සිද්ධිය සම්බන්ධයෙන් මෙරටදී අත්අඩංගුවට ගත් තිදෙනෙකුගේ මෙරට බැංකු ගිණුම් පිළිබඳව සහ ඔවුන්ට විදේශ රටවලින් මුදල් ලැබුණේද යන්න පිළිබඳව විමර්ශන සිදුකිරීම සඳහා ත්‍රස්ත විමර්ශන කොට්ඨාසය අද (01) කොටුව මහෙස්ත්‍රාත් අධිකරණයෙන් අවසර ලබා ගත්තේය.
+
+ඒ, ISIS ත්‍රස්ත සංවිධානය සමග සබඳතා පැවැත් වූ බවට චෝදනා ලබා ඉන්දියාවේදී අත්අඩංගුවට ගත් ලාංකිකයන් සිව්දෙනා සමග සබඳතා පැවැත්වූවායැයි සැකපිට මෙරටදී අත්අඩංගුවට ගත් තිදෙනෙකු සම්බන්ධයෙනි.
+
+එමෙන්ම අන්තර්ජාල හරහා ගනුදෙනු කර ඇත්නම් ඒ් පිළිබඳව හා ඊට අදාළ CCTV දර්ශන ද ලබාගැනීමට කොටුව මහෙස්ත්‍රාත් අධිකරණය අද නියෝග කළේය.
+
+මේ අතර ISIS ත්‍රස්ත සංවිධානය සමග සබඳතා පැවැත් වූ බවට චෝදනා ලබා ඉන්දියාවේදී අත්අඩංගුවට පත් ශ්‍රී ලාංකිකයින් සිවුදෙනාව මෙහෙයවූ ප්‍රධානියා ලෙස සැලකෙන ඔස්මන් ජෙරාඩ් නමැත්තා ඊයේ (31) රාත්‍රියේ කොළඹදී අත්අඩංගුවට ගෙන තිබුණි.
+
+ඒ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව හා ත්‍රස්ත විමර්ශන කොට්ඨාසය එක්ව සිදුකළ මෙහෙයුමකදීය.
+
+...
+
+[Data](articles/1022e54b.json)
+
+---
+
+### நுவரெலிய பொலிஸ் நிலையத்திற்கு வந்த ஜீவன் தொண்டமான்; நடந்தது என்ன?
+
+*2024-06-01 19:07:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/நுவரெலிய-பொலிஸ்-நிலையத்திற்கு-வந்த-ஜீவன்-தொண்டமான்-நடந்தது-என்ன/76-338248) · `ta`
+
+இலங்கை தொழிலாளர் காங்கிரஸின் பொதுச் செயலாளரும், அமைச்சருமான ஜீவன் தொண்டமான் மற்றும் இலங்கை தொழிலாளர் காங்கிரஸின் ஆதரவாளர்கள் இன்று மாலை நுவரெலிய பொலிஸ் நிலையத்திற்கு வருகைத் தந்த நிலையில் அமைதியின்மை ஏற்பட்டுள்ளது.
+
+நுவரெலியா – உடரதெல்ல – பீட்றூ பெருந்தோட்ட நிறுவனத்தில் பணியாற்றிய தொழிலாளர்களை, தோட்ட நிர்வாகம் அண்மையில் பணிநீக்கம் செய்திருந்தது.
+
+இதையடுத்து, அமைச்சர் ஜீவன் தொண்டமான் தலைமையிலான இலங்கை தொழிலாளர் காங்கிரஸின் உறுப்பினர்கள் மற்றும் ஆதரவாளர்கள் சென்று களனிவெளி தோட்டத்திற்கு சொந்தமான தொழிற்சாலையின் பணிகளை இடைநிறுத்தி போராட்டம் நடாத்தியிருந்தனர்.
+
+இதையடுத்து, பணி நீக்கம் செய்யப்பட்ட தொழிலாளர்களை மீண்டும் பணிக்கு அமர்த்துவதாக தோட்ட நிர்வாகம் உறுதி வழங்கியதை அடுத்து, போராட்டம் கைவிடப்பட்டது.
+
+இந்த சம்பவம் தொடர்பில் தோட்ட நிர்வாகம் நுவரெலிய பொலிஸ் நிலையத்தில் முறைப்பாடு செய்துள்ளது.
+
+தமது பணிக்கு இடையூறு விளைவித்ததாக தெரிவித்து, அமைச்சர் ஜீவன் தொண்டமான், முன்னாள் மாகாண சபை உறுப்பினர் சக்திவேல் உள்ளிட்டோருக்கு எதிராக தோட்ட நிர்வாகம் முறைப்பாடு செய்துள்ளது.
+
+...
+
+[Data](articles/2e92491c.json)
+
+---
 
 ### 20 drown in boat accident in eastern Afghanistan
 
@@ -1083,6 +1125,26 @@ The Criminal Investigation Department Sandolign Sandals Mr. Rohan Premaratne, Se
 [Data](articles/4db31720.json)
 
 [Extended Data](ext_articles/4db31720.ext.json)
+
+---
+
+### නිවුන් සොහොයුරෝ උසස්පෙළට A සාමාර්ථ තුන බැගින් ලබා ගනිති
+
+*2024-06-01 13:01:44* · [`adalk`](https://www.ada.lk/breaking_news/නිවුන්-සොහොයුරෝ-උසස්පෙළට-A-සාමාර්ථ-තුන-බැගින්-ලබා-ගනිති/11-409950) · `si`
+
+අම්බලන්ගොඩ මාදම්පා ජාතික පාසලේ නිවුන් සොහොයුරන් දෙදෙනෙකු මෙවර උසස් පෙළ විභාගයෙන් වාණිජ විෂය ධාරාවෙන් මුහුණදුන් විෂයන් තුනටම ඒ සාමාර්ථ ලබාගැනීම විශේෂයෙන්ම කැපී පෙනේ.
+
+පැතුන් සම්පත් හා මිතුන් සම්පත් මේ දස්කම් දැක්වූ නිවුන් සොහොයුරෝය.
+
+මේ දෙදෙනාම මාදම්පා ජාතික පාසලේ ප්‍රධාන ශිෂය  උප ප්‍රධාන ශිෂය නායකයෝද වෙති.
+
+පැතුම් සම්පත්  සිය විදුහලේ පධාන ශිෂය නායකයා වන අතර මිතුන් සම්පත් උප පධාන ශිෂනායකයාය.
+
+මොවුන් දෙදෙනාගෙන් පැතුන් සම්පත්  සාමානය පෙළ විභාගයේදී   A සාමාර්ථ 8 ක් ලබාගත් අතර මිතුන් සම්පත් A  සාමාර්ථ 7ක් සමගින් එම විභාගයද  අති විශිෂ්ඨ ලෙස සමත්ව තිබේ.
+
+◼️
+
+[Data](articles/9d38da16.json)
 
 ---
 
@@ -2265,59 +2327,5 @@ He said the move is seen as a crucial step in addressing visa issues and smoothe
 [Data](articles/42d58f8e.json)
 
 [Extended Data](ext_articles/42d58f8e.ext.json)
-
----
-
-### Siyambalapitiya says Cabinet approves Rs. 5 b to settle statutory allowance arrears to plantation workers
-
-*2024-06-01 01:01:30* · [`dailyftlk`](https://www.ft.lk/business/Siyambalapitiya-says-Cabinet-approves-Rs-5-b-to-settle-statutory-allowance-arrears-to-plantation-workers/34-762476) · `en`
-
-State Minister of Finance Ranjith Siyambalapitiya has announced that the Cabinet on Monday approved a proposal to settle Rs. 5 billion in arrears of provident funds and employees’ trust funds, including interest, for State-run estate employees.
-
-He said the decision follows guidance and instructions from President Ranil Wickremesinghe.
-
-“This comprehensive settlement aims to rectify the financial neglect experienced by estate workers and their families,” he added.
-
-...
-
-[Data](articles/40ee6eb8.json)
-
-[Extended Data](ext_articles/40ee6eb8.ext.json)
-
----
-
-### Foreign Minister inaugurates IORA Business Conclave
-
-*2024-06-01 01:00:08* · [`dailyftlk`](https://www.ft.lk/business/Foreign-Minister-inaugurates-IORA-Business-Conclave/34-762475) · `en`
-
-Foreign Affairs Minister M.U.M. Ali Sabry in his capacity as the current Chair of the Indian Ocean Rim Association (IORA) inaugurated the “IORA Business Conclave” on 28 May at the Shangri-La Hotel in Colombo.
-
-The Business Conclave under the theme “Sustaining Growth – Bridging Horizons” was organised by the Ceylon Chamber of Commerce as the current Chair of the IORA Business Forum (IORBF) in collaboration with the Ministry of Foreign Affairs from 28-29 May. Over 80 participants from the business fraternity across the IORA region participated in the Conclave. This is the highest number of participants recorded at an IORA Business Conclave.
-
-...
-
-[Data](articles/ea2af0c8.json)
-
-[Extended Data](ext_articles/ea2af0c8.ext.json)
-
----
-
-### Business opportunities with credit facilities for new female entrepreneurs
-
-*2024-06-01 00:59:18* · [`dailyftlk`](https://www.ft.lk/business/Business-opportunities-with-credit-facilities-for-new-female-entrepreneurs/34-762474) · `en`
-
-Measures to increase total egg production of the country by increasing poultry farming industry at rural level
-
-5,000 people in Seethawaka area benefit from program for distribution of incubators
-
-Another phase of the program for the distribution of incubators aimed at strengthening the rural economy and uplifting the small-scale poultry farm owners was held this week at Seethawaka Pradeshiya Sabha under the patronage of Prime Minister Dinesh Gunawardena.
-
-Through an incubator, which is provided under the assistance of the Chinese Government, direct income sources will be opened for five families and many families in the villages related to those families will get its indirect benefits. The objective of this program is to improve income generation, improve nutrition intake of families, improve general egg production in the country, and create a self-sufficient home garden at the household level. 5,000 people will benefit from this program which was started at Seethawaka.
-
-...
-
-[Data](articles/f66d970c.json)
-
-[Extended Data](ext_articles/f66d970c.ext.json)
 
 ---

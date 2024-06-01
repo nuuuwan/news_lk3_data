@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-01 21:53:04**
+As of **2024-06-01 22:05:05**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,436
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,756 (100.0%) of 27,758 articles have been extended.
+27,758 (100.0%) of 27,758 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,23 +46,31 @@ The institutions said it is happening through an enhanced framework to help coun
 
 [Data](articles/9eb09490.json)
 
+[Extended Data](ext_articles/9eb09490.ext.json)
+
 ---
 
-### ක්‍රිකට්වලින් සහ උසස් පෙළින් නාලන්දා සැරසුව සජිත
+### Nalanda prepared from cricket and Advanced A / L
 
 *2024-06-01 21:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197259) · `si`
 
-කොළඹ නාලන්දා ක්‍රිකට් කණ්ඩායමේ නායක සජිත විතානගේ ක්‍රීඩාව මෙන්ම අධ්‍යාපනයටත් එකසේ දක්ෂතා දැක්වූ සිසුවෙකි.
+Sagathi Vithana, leading Colombo Nalanda's cricket team, excels both in sports and academics, achieving three passes in biology for his Advanced Level Examination. His contributions to the Nalanda Cricket team were significant during the recent Ananda-Nalanda match.
 
-ඔහු ක්‍රීඩාවට මෙන්ම අධ්‍යාපනයට දක්ෂයෙකු බව ඔප්පු කරනු ලැබුවේ ඊයේ පස්වරුවේ නිකුත් කළ උසස් පෙළ විභාගයේ ප්‍රතිඵල අනුවය.
+🟩
 
-ඔහු එම විභාගයට ජීවවිද්‍යා විෂය ධාරාවේන් මුහුණ දී A සාමාර්ථ 03ක් ලබාගැනීමට සමත් විය.
+Colombo Nalanda Cricket team leader Sagathi Vithana's sport as well as the sports student.
 
-මේ අතර සජිත විතානගේ පසුගියදා පැවැති කොළඹ ආනන්ද - නාලන්ද සුලෝහිත සංග්‍රාමයේදී නාලන්දා ක්‍රිකට් කණ්ඩායමේ නායක ලෙස ශතයක් පවා රැස්කළේය.
+He was proved to be a good manner to sport and education as per the Advanced Level Examination issued at the afternoon.
+
+He was able to get three passes in the stream of biology.
+
+Meanwhile, Ananda - Nalanda Zlorica was held at the Nalanda Cricket team at the time of the recent past.
 
 ◼️
 
 [Data](articles/c6152742.json)
+
+[Extended Data](ext_articles/c6152742.ext.json)
 
 ---
 

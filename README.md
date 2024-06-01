@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-01 22:34:25**
+As of **2024-06-01 22:51:36**
 
 ## Newspaper Stats
 
-*Scraped **27,761** Articles*
+*Scraped **27,762** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,35 +20,65 @@ adaderanalk | 3,157
 tamilmirrorlk | 3,252
 virakesarilk | 4,282
 dailymirrorlk | 4,400
-adaderanasinhalalk | 4,438
+adaderanasinhalalk | 4,439
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,759 (100.0%) of 27,761 articles have been extended.
+27,761 (100.0%) of 27,762 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-01 (Saturday)
 
-### ඕනෑම රජයක් බෞද්ධාගමට ප්‍රමුඛත්වය ලබාදිය යුතුයි - ජනපති
+### ක්‍රිකට් වසන්තය හෙටින් ඇරඹෙයි
+
+*2024-06-01 22:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197262) · `si`
+
+20යි 20 ලෝක කුසලාන ක්‍රිකට් තරගාවලිය බටහිර ඉන්දිය කොදෙව් සහ අමෙරිකාවේ සම සත්කාරකත්වයෙන් හෙට (02) ආරම්භ වේ.
+
+අමෙරිකාව ක්‍රිකට් ලෝක කුසලානයක් සඳහා සම සත්කාරකත්වය දරන පළමු අවස්ථාවද මෙය වේ.
+
+මෙවර තරගාවලිය සඳහා රටවල් 20ක් කාණ්ඩ 4ක් යටතේ තරග වදින අතර A කාණ්ඩයට ක්‍රිකට් ලොව පස මිතුරන් ලෙස ප්‍රචලිත පාකිස්තානය සහ ඉන්දියාව ඇතුළත් අතර කැනඩාව, අයර්ලන්තය සහ අමෙරිකාවද එම කාණ්ඩයට ඇතුළත්ය.
+
+B කාණ්ඩයෙන් වත්මන් ශූරයින් වන එංගලන්තය, ඔස්ට්‍රේලියාව, නැමීබියාව, ස්කොට්ලන්තය සහ ඕමානය තරග වදියි.
+
+C කාණ්ඩයෙන් තරග වදින්නේ නවසීලන්තය, බටහිර ඉන්දිය කොදෙව්, ඇෆ්ගනිස්තානය, පැපුවා නිව්ගිනියාව සහ උගන්ඩාව ය.
+
+D කාණ්ඩයෙන් දකුණු අප්‍රිකාව, ශ්‍රී ලංකාව, බංග්ලාදේශය, නේපාලය සහ නෙදර්ලන්තය තරග වදියි.
+
+20යි 20 ලෝක කුසලාන තරගාවලිය ආරම්භ කරමින් හෙට දිනයේදී මූලික වටයේ තරග දෙකක් පැවැත්වීමට නියමිත අතර ඒ අනුව අමෙරිකාව කැනඩාව සමගින්ද,  බටහිර ඉන්දීය කොදෙව් කණ්ඩායම පැපුවා නිව්ගිනියාව සමගින්ද හෙට තරග වැදීමට නියමිතය.
+
+...
+
+[Data](articles/f2f11b7d.json)
+
+---
+
+### Any government should be given priority to Buddhism - President
 
 *2024-06-01 22:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197261) · `si`
 
-රටේ ව්‍යවස්ථාදායකය, විධායකය සහ අධිකරණය යන අංශ තුනම බුදු දහම ආරක්ෂා කිරීමට ප්‍රමුඛස්ථානය ලබාදිය යුතු බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අවධාරණය කරයි.
+President Ranil Wickremesinghe highlighted the importance of preserving Buddhism in Sri Lanka's governance, emphasizing that the legislative, executive, and judicial branches should prioritize Buddhist principles. He spoke at the opening of the Guru Pathanda Cure Center in Kiriwatu, Homagama, noting the separation between government and religion while affirming the constitutional mandate to uphold Buddhism.
 
-හෝමාගම කිරිවත්තුඩුවේ ඉදිකෙරුණු ගුරු දෙව් සුව අරණ ගිලන් භික්ෂු මධ්‍යස්ථානය විවෘත කිරීමේ අවස්ථාවට එක් වෙමින් ජනාධිපතිවරයා ඒ බව සඳහන් කළේය.
+🟩
 
-හෝමාගම ගුරු දෙව් සුව අරණ ගිලන් භික්ෂු මධ්‍යස්ථානය විවෘත කිරීම අද පස්වරුවේ සිදුකෙරුණේ ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙනි.
+President Ranil Wickremesinghe emphasizes that the country's legislature, the executive and the judiciary should be preserved to protect Buddhism.
 
-පස් මහල් හා තෙමහල් ගොඩනැගිලි දෙකකින් සමන්විත එම භික්ෂු මධ්‍යස්ථානයේ එකවර භික්ෂුන් වහන්සේ පනස් නමකට ප්‍රතිකාර ලබා ගත හැකිය.
+The President made this observation at the opening ceremony of the Guru Pathanda Cure Center, which was built in Kiriwatu, Homagama.
 
-"ආණ්ඩුවයි, බුද්ධාගමයි වෙන් කිරීමට අවශ්‍යයි කියා දැන් එක් තර්කයක් ඉදිරිපත් වී තිබෙනවා. එහි නීතිමය තත්ත්වය පිළිබඳව සඳහන් කළහොත් අපේ රටේ සෑම පුරවැසියෙකුටම තමන් කැමති ආගමක් ඇදහීමට අයිතිය තිබෙනවා. ඒ වගේම ආගමක් අදහන්නේ නැතිව සිටීමටත් අයිතිය තිබෙනවා."
+President Ranil Wickremesinghe was the opening of President Ranil Wickremesinghe this afternoon.
+
+Fifty-storey bhikkus center can be treated at the same time at the Bhikku Center with two floors and three storied buildings.
+
+"The government and Buddhism wants to be separated. If the legal status mentioned, each citizen in our country has the right to practice a religion they like. There is also the right to persuade religion. "
 
 ...
 
 [Data](articles/149802f9.json)
+
+[Extended Data](ext_articles/149802f9.ext.json)
 
 ---
 
@@ -72,21 +102,27 @@ Following the formal customs inquiry, the gemstones were ordered confiscation an
 
 ---
 
-### ව්‍යාපාරිකයෙක් මැණික් සමග කටුනායකදී අත්අඩංගුවට
+### Businessman arrested with gem
 
 *2024-06-01 22:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197260) · `si`
 
-නීතිවිරෝධීව මැණික් තොගයක් තායිලන්තය බලා රැගෙන යාමට තැත් කළ ව්‍යාපාරිකයෙකු කටුනායක ගුවන්තොටුපොළේදී අත්අඩංගුවට ගෙන තිබේ.
+A businessman was arrested at Katunayake airport for attempting to smuggle gems worth 80 lakhs illegally. The arrest was made by the Customs Drug Administration Unit, which discovered the contraband in his luggage.
 
-එම මැණික් තොගයේ වටිනාකම රුපියල් ලක්ෂ 80ක් පමණ වන බව වාර්තා වෙයි.
+🟩
 
-ඊයේ (31) එම සැකකරු අත්අඩංගුවට ගෙන තිබුණේ රේගු මත්ද්‍රව්‍ය පාලන අංශයේ නිලධාරීන් පිරිසක් විසිනි.
+A businessman who attempted to take a stock of gems illegal has been arrested at the Katunayake airport.
 
-සැකකරු රැගෙන ආ ගමන් මල්ල තුළ සූක්ෂම ලෙස සඟවා ගෙන තිබූ එම මැණික් තොගය රේගු මත්ද්‍රව්‍ය පාලන අංශයේ නිලධාරීන් විසින් සොයාගෙන තිබුණි.
+The value of the gem is about 80 lakhs.
+
+The suspect was arrested yesterday by a group of Customs Drug Administration Unit.
+
+The Customs Dark Control Unit had been found in the bag of the suspect's bag.
 
 ◼️
 
 [Data](articles/b2b3d0bb.json)
+
+[Extended Data](ext_articles/b2b3d0bb.ext.json)
 
 ---
 
@@ -2305,33 +2341,5 @@ It is noteworthy that Nadesan was shot dead in Batticaloa on May 31, 2004.
 [Data](articles/c05769b1.json)
 
 [Extended Data](ext_articles/c05769b1.ext.json)
-
----
-
-### President Meeting with Young Representatives
-
-*2024-06-01 02:15:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இளம்-பிரதிநிதிகளுடன்-ஜனாதிபதி-சந்திப்பு/175-338226) · `ta`
-
-President Ranil Wickremesinghe met with young leaders in Sri Lanka, discussing economic reforms and emphasizing youth's crucial role in the nation's future. He praised their efforts and urged officials to listen to their ideas for national development.
-
-🟩
-
-A meeting between President Ranil Wickremesinghe and the young representatives was held yesterday at the President's official residence.
-
-The event was organized under the theme 'Youth Discussion - Young Leaders of Sri Lanka tomorrow' as part of the events of the youths being organized by the Presidential Secretariat.
-
-Here was a discussion on the new economic restructuring and reform efforts being carried out by the government.
-
-President Ranil Wickremesinghe emphasized that the participation of the youth is very important for Sri Lanka's successful future journey.
-
-The President, who gave answers to questions raised by the youth, congratulated the youth's efforts to build Sri Lanka.
-
-At this time, the President advised the authorities to implement a mechanism to obtain the ideas and recommendations of the younger people for the future of the country.. (A)
-
-◼️
-
-[Data](articles/0f619338.json)
-
-[Extended Data](ext_articles/0f619338.ext.json)
 
 ---

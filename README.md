@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-01 22:05:05**
+As of **2024-06-01 22:18:35**
 
 ## Newspaper Stats
 
-*Scraped **27,758** Articles*
+*Scraped **27,759** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,495
 economynextcom | 1,584
 dailyftlk | 1,635
 adalk | 2,365
-adaderanalk | 3,156
+adaderanalk | 3,157
 tamilmirrorlk | 3,252
 virakesarilk | 4,282
 dailymirrorlk | 4,400
@@ -26,11 +26,29 @@ adaderanasinhalalk | 4,436
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,758 (100.0%) of 27,758 articles have been extended.
+27,758 (100.0%) of 27,759 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-01 (Saturday)
+
+### Businessman arrested with gemstones worth Rs. 8 million at BIA
+
+*2024-06-01 22:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/99585/businessman-arrested-with-gemstones-worth-rs-8-million-at-bia) · `en`
+
+A passenger who attempted to smuggle undeclared gemstones worth around Rs. 08 million out fo the country has been arrested by officers of the Sri Lanka Customs’ Narcotics Control Unit at the departure terminal of Bandaranaike International Airport (BIA) in Katunayake.
+
+The arrested passenger, a 53-year-old businessman from Galle, had arrived at the airport last night to board a flight to Bangkok, Thailand
+
+The gemstones worth around Rs. 08 million were found carefully concealed in the luggage of the suspect.
+
+Following the formal customs inquiry, the gemstones were ordered confiscation and the businessman was also ordered to pay a fine of Rs. 01 million.
+
+◼️
+
+[Data](articles/714a3a41.json)
+
+---
 
 ### World Bank, IMF deepen effort to scale up climate action
 
@@ -2321,29 +2339,5 @@ If we progress with artificial intelligence, we can use other technologies. Arti
 [Data](articles/3b69377f.json)
 
 [Extended Data](ext_articles/3b69377f.ext.json)
-
----
-
-### Food inflation is low by 0.0 percent - the department of summary and statistics
-
-*2024-06-01 02:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/185007) · `ta`
-
-Food inflation in Colombo dropped from 2.9% in April to 0.0% in May, while non-food inflation increased to 1.3%. The Consumer Price Index for May remained unchanged at 100.
-
-🟩
-
-Food inflation has fallen by 0.0 per cent to 1.3 per cent, according to the monthly consumers of Colombo.
-
-The Department of Consumer Price of Colombo has released the Consumer Price Index for May 2021 - 100 with the Monthly Consumer Inflation of the Colombo City areas.
-
-Inflation in Colombo city areas, which was found in Colombo (April), fell to 0.9 per cent last May, and food inflation fell by 0.0 per cent. Food inflation was 2.9 per cent last April.
-
-Non -food inflation rose to 1.3 per cent last May.
-
-◼️
-
-[Data](articles/2e912bda.json)
-
-[Extended Data](ext_articles/2e912bda.ext.json)
 
 ---

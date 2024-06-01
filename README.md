@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-01 22:51:36**
+As of **2024-06-01 23:03:51**
 
 ## Newspaper Stats
 
-*Scraped **27,762** Articles*
+*Scraped **27,763** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,495
 economynextcom | 1,584
 dailyftlk | 1,635
 adalk | 2,365
-adaderanalk | 3,157
+adaderanalk | 3,158
 tamilmirrorlk | 3,252
 virakesarilk | 4,282
 dailymirrorlk | 4,400
@@ -26,33 +26,61 @@ adaderanasinhalalk | 4,439
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,761 (100.0%) of 27,762 articles have been extended.
+27,762 (100.0%) of 27,763 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-01 (Saturday)
 
-### ක්‍රිකට් වසන්තය හෙටින් ඇරඹෙයි
+### Constitution mandates that any govt should accord priority to Buddhism – President
 
-*2024-06-01 22:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197262) · `si`
+*2024-06-01 22:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/99586/constitution-mandates-that-any-govt-should-accord-priority-to-buddhism-president) · `en`
 
-20යි 20 ලෝක කුසලාන ක්‍රිකට් තරගාවලිය බටහිර ඉන්දිය කොදෙව් සහ අමෙරිකාවේ සම සත්කාරකත්වයෙන් හෙට (02) ආරම්භ වේ.
+President Ranil Wickremesinghe underscored that according to the constitution, prioritizing Buddhism is imperative. He emphasized that the responsibility of upholding this principle is vested in the executive, legislature and judiciary.
 
-අමෙරිකාව ක්‍රිකට් ලෝක කුසලානයක් සඳහා සම සත්කාරකත්වය දරන පළමු අවස්ථාවද මෙය වේ.
+Emphasizing the indisputability of this matter, the President further stated that if anyone seeks to alter this principle, they should endeavour to amend the constitution accordingly.
 
-මෙවර තරගාවලිය සඳහා රටවල් 20ක් කාණ්ඩ 4ක් යටතේ තරග වදින අතර A කාණ්ඩයට ක්‍රිකට් ලොව පස මිතුරන් ලෙස ප්‍රචලිත පාකිස්තානය සහ ඉන්දියාව ඇතුළත් අතර කැනඩාව, අයර්ලන්තය සහ අමෙරිකාවද එම කාණ්ඩයට ඇතුළත්ය.
+President Ranil Wickremesinghe made these remarks today (01) during his participation in the inauguration ceremony of the “Gurudev Suva Arana Gilan Bhikshu Centre,” constructed in Kiriwatthuduwa, Homagama.
 
-B කාණ්ඩයෙන් වත්මන් ශූරයින් වන එංගලන්තය, ඔස්ට්‍රේලියාව, නැමීබියාව, ස්කොට්ලන්තය සහ ඕමානය තරග වදියි.
-
-C කාණ්ඩයෙන් තරග වදින්නේ නවසීලන්තය, බටහිර ඉන්දිය කොදෙව්, ඇෆ්ගනිස්තානය, පැපුවා නිව්ගිනියාව සහ උගන්ඩාව ය.
-
-D කාණ්ඩයෙන් දකුණු අප්‍රිකාව, ශ්‍රී ලංකාව, බංග්ලාදේශය, නේපාලය සහ නෙදර්ලන්තය තරග වදියි.
-
-20යි 20 ලෝක කුසලාන තරගාවලිය ආරම්භ කරමින් හෙට දිනයේදී මූලික වටයේ තරග දෙකක් පැවැත්වීමට නියමිත අතර ඒ අනුව අමෙරිකාව කැනඩාව සමගින්ද,  බටහිර ඉන්දීය කොදෙව් කණ්ඩායම පැපුවා නිව්ගිනියාව සමගින්ද හෙට තරග වැදීමට නියමිතය.
+The President emphasized the need for acknowledgment that the executive, the constitution and the judiciary, as the three branches of government, should prioritize the Buddhist doctrine within the country. He emphasized that failure to support this principle constitutes a violation of the constitution, emphasizing the obligation of all Members of Parliament to protect it.
 
 ...
 
+[Data](articles/7085855c.json)
+
+---
+
+### Cricket spring begins tomorrow
+
+*2024-06-01 22:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197262) · `si`
+
+Tomorrow marks the start of the Cricket Spring, with the World Cup beginning for the first time in the US. This year, 20 nations across four categories, including traditional powerhouses like Pakistan and India, will compete. The defending champions of Series B are England, Australia, Namibia, Scotland, and Oman. Other notable teams include New Zealand, West Indies, Afghanistan, Papua New Guinea, South Africa, Sri Lanka, Bangladesh, Nepal, and the Netherlands. The tournament kicks off with preliminary rounds featuring Canada, the West Indies, and Papua New Guinea, followed by matches involving Sri Lanka, starting in New York at 8 pm local time.
+
+🟩
+
+20 The World Cup cricket team begins tomorrow (02)
+
+This is the first time that the US is hosted for a cricket world cup.
+
+This year, 20 countries compete in 4 categories and includes Pakistan and India as Pakistan and India in category, including Pakistan, Ireland, and America.
+
+The current champions of the series B England, Australia, Namibia, Scotland and Oman.
+
+The category of c category New Zealand, West Indian West Indies, Afghanistan, Papua New Guinea and Uganda.
+
+South Africa, Sri Lanka, Bangladesh, Nepal, Nepal and Netherlands.
+
+The 20th World Cup will commence two preliminary rounds tomorrow, with Canada, and the West Indies, the West Indies, with Papua New Guinea tomorrow.
+
+Sri Lanka, who contested from Kalanai, is held in New Yorkheart, will commence in New Yorkheart and starts at 8 pm in Sri Lanka.
+
+June 8 against Bangladesh and the fourth match against Bangladesh will be held against Bangladesh, the second match of Sri Lanka.
+
+◼️
+
 [Data](articles/f2f11b7d.json)
+
+[Extended Data](ext_articles/f2f11b7d.ext.json)
 
 ---
 
@@ -2315,31 +2343,5 @@ He advised the concerned parties to take steps to change the contaminated enviro
 [Data](articles/84d903ca.json)
 
 [Extended Data](ext_articles/84d903ca.ext.json)
-
----
-
-### The 20th anniversary of journalist Iyathurai Nadesan, who was assassinated in Jaffna
-
-*2024-06-01 02:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/185008) · `ta`
-
-On the 20th anniversary of journalist Iyathurai Nadesan's assassination, a commemorative event was held at the Jaffna Media Center, chaired by K. Selvakumar. It remembered Nadesan, a Udayan Group Chairman and former MP, killed in Batticaloa on May 31, 2004. Journalists and students from Jaffna University attended, marking the tragic loss with flowers and tributes.
-
-🟩
-
-The 20th anniversary of the murdered journalist Iyathurai Nadesan was held on Friday 31st of the Jaffna Media Center.
-
-This commemorative event was held at the General Memorial for Jaffna Main Street and Court Building in front of the court building.. The media was chaired by K. Selvakumar.
-
-At the event, the massacre of journalist Iyathurai Nadesan, Udayan Group Chairman and former Member of Parliament, Ishwarapadam, was worn by a flower, and was subsequently paid to the public.. Subsequently, the memorial of journalist Iyathurai Nadasen was also held.
-
-The event was attended by journalists working in Jaffna and Jaffna University Media Students.
-
-It is noteworthy that Nadesan was shot dead in Batticaloa on May 31, 2004.
-
-◼️
-
-[Data](articles/c05769b1.json)
-
-[Extended Data](ext_articles/c05769b1.ext.json)
 
 ---

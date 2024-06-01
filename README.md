@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-01 16:05:29**
+As of **2024-06-01 16:18:59**
 
 ## Newspaper Stats
 
-*Scraped **27,719** Articles*
+*Scraped **27,720** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,584
 dailyftlk | 1,635
 adalk | 2,363
 adaderanalk | 3,150
-tamilmirrorlk | 3,246
+tamilmirrorlk | 3,247
 virakesarilk | 4,277
 dailymirrorlk | 4,390
 adaderanasinhalalk | 4,426
@@ -26,11 +26,31 @@ adaderanasinhalalk | 4,426
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,719 (100.0%) of 27,719 articles have been extended.
+27,719 (100.0%) of 27,720 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-01 (Saturday)
+
+### பஸ், முச்சக்கரவண்டி கட்டணங்களில் மாற்றம்?
+
+*2024-06-01 15:43:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பஸ்-முச்சக்கரவண்டி-கட்டணங்களில்-மாற்றம்/175-338233) · `ta`
+
+இலங்கை பெற்றோலிய கூட்டுத்தாபனம் நேற்று (31) நள்ளிரவு முதல் அமுலுக்கு வரும் வகையில் தமது எரிபொருட்கள் சிலவற்றின் விலைகளை குறைத்துள்ளது.
+
+குறித்த விலை திருத்தத்துடன், லங்கா ஐஓசி நிறுவனமும் அதன் விலைகளை திருத்திய நிலையில், சினோபெக் நிறுவனமும் அதன் எரிபொருள் விலைகளை திருத்தியுள்ளது.
+
+எனினும், சினோபெக் நிறுவனம் விற்பனை செய்யும் ஒரு லீற்றர் ஒட்டோ டீசலின் விலை சிபெட்கோ மற்றும் ஐஓசி எரிபொருளின் விலையை விட 3 ரூபாய் குறைவாக உள்ளது.
+
+எரிபொருள் விலை குறைக்கப்பட்டாலும் பேருந்து கட்டணத்தை குறைப்பதற்கான எந்தவித சாத்தியம் இல்லை என தனியார் பேருந்து சங்கங்கள் சுட்டிக்காட்டுகின்றன.
+
+இதேவேளை, குறைக்கப்பட்ட எரிபொருள் விலைச் சலுகை தமது சேவைகளுக்கு கிடைக்காத காரணத்தினால் கட்டணத்தை குறைக்கப் போவதில்லை என இலங்கை முச்சக்கரவண்டி சங்கம் தெரிவித்துள்ளது. R
+
+◼️
+
+[Data](articles/13da248f.json)
+
+---
 
 ### 20 disappeared in Boat Crash of Afghanistan
 
@@ -2213,27 +2233,5 @@ Hadunnetti said a publicity stunt is being operated through a separate company b
 [Data](articles/006c2f3a.json)
 
 [Extended Data](ext_articles/006c2f3a.ext.json)
-
----
-
-### The first look poster of the 'Nagendran Honeymoon' Internet series starring Suraj Venjaramudu
-
-*2024-05-31 22:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/184977) · `ta`
-
-The first look of "Nagendran's Honeymoon," a new internet series featuring Suraj Venjaramudu, has been unveiled. Directed by Nithin Ranji Municipality, it also stars Grace Antony, Shivata Menon, Kani Kusruti, among others. The series, combining comedy and action, is set to premiere on Disney Plus Hot Star.
-
-🟩
-
-The first look of the new original internet series 'Nagendran's Honeymune', which plays the lead role in the lead role in the Malayalam film industry, has been released.. The Internet series will soon be released at the leading digital site Disney Plus Hot Star.
-
-Directed by director Nithin Ranji Municipality, 'Nagendran's Honeymune', Suraj Venjaramudu, Grace Antony, Shivata Menon, Kani Kusruti, Albi Pancharan, Niranjana Anoop, Prashant Alexander, Ammu Abirami, Ramesh Pishajan. Nikhil S.. Renjin Raj has composed the film, which has been recorded by Praveen. The web series is co -produced by MGC Private Limited and Nithin Ranji Machikar Productions for Disney Plus Hotstar.
-
-The Internet series, which is combined with stomach shaking comedy + action turns, will soon be released on a digital site, Disney Plus Hot Star.
-
-◼️
-
-[Data](articles/df93c611.json)
-
-[Extended Data](ext_articles/df93c611.ext.json)
 
 ---

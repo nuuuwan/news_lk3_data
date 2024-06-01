@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-02 00:04:51**
+As of **2024-06-02 00:18:56**
 
 ## Newspaper Stats
 
-*Scraped **27,765** Articles*
+*Scraped **27,766** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,584
 dailyftlk | 1,635
 adalk | 2,365
 adaderanalk | 3,158
-tamilmirrorlk | 3,253
+tamilmirrorlk | 3,254
 virakesarilk | 4,282
 dailymirrorlk | 4,401
 adaderanasinhalalk | 4,439
@@ -26,11 +26,27 @@ adaderanasinhalalk | 4,439
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,765 (100.0%) of 27,765 articles have been extended.
+27,765 (100.0%) of 27,766 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-01 (Saturday)
+
+### ஆப்கானிஸ்தானில் படகு விபத்து: 20 பேர் பலி
+
+*2024-06-01 23:59:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஆப்கானிஸ்தானில்-படகு-விபத்து-20-பேர்-பலி/50-338252) · `ta`
+
+ஆப்கானிஸ்தானின் கிழக்கு பகுதியில் நங்கர்ஹார் மாகாணத்திலுள்ள ஆற்றில் படகொன்று கவிழ்ந்து விபத்திற்குள்ளானதில் 20 பேர் உயிரிழந்துள்ளனர்.
+
+உயிரிழந்தவர்களில் பெண்கள் மற்றும் சிறுவர்கள் அடங்குகின்றனர் என சர்வதேச ஊடகங்கள் தெரிவிக்கின்றன. ஒரு ஆண், ஒரு பெண், 2 சிறுவர்கள் உட்பட 5 உடல்கள் இதுவரை மீட்கப்பட்டுள்ளன என குறிப்பிடப்பட்டுள்ளது.
+
+இந்தப் படகில் 26 பேர் பயணித்திருந்தனர் என தெரிவிக்கப்பட்டுள்ளது. மீட்புப் பணிகள் தொடர்ந்தும் முன்னெடுக்கப்பட்டு வருகின்றன என குறிப்பிடப்பட்டுள்ளது. (a)
+
+◼️
+
+[Data](articles/ac8443dd.json)
+
+---
 
 ### Hadunnetti apologises to Elon Musk
 
@@ -2313,29 +2329,5 @@ Expressing concerns about UNP’s current plight, Senasinghe also said “We hop
 [Data](articles/efaba211.json)
 
 [Extended Data](ext_articles/efaba211.ext.json)
-
----
-
-### Yall. 56 students from Hindu College 3A Siddhi
-
-*2024-06-01 02:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/185011) · `ta`
-
-In the GCE Advanced Level Examination, 56 students from Jaffna Hindu College achieved 3A Siddhi, while 24 students got A2B Siddhi. Vembadi Girls' High School also saw 30 students achieve 3A Siddhi. Additionally, there were 29 students each with 2 AC and AS Siddhi, one with A2B Siddhi, 12 with ABC Siddhi, and 19 with 3A Siddhi at Chavakachcheri Hindu College.
-
-🟩
-
-56 students from Jaffna Hindu College have obtained 3A Siddhi based on the results of the GCE Advanced Level Examination.
-
-30 students and A2B Siddhi have been received by 24 students at Jaffna Hindu College.
-
-30 students have received 3A Siddhi at the Vembadi Girls' High School in Jaffna.
-
-Also, 29 students, 29 students, 2 AC Siddhi, 2 AS Siddhi One student, A2B Siddhi 12 students and ABC Siddhi 16 students. 19 students at Chavakachcheri Hindu College have received 3A siddhi.
-
-◼️
-
-[Data](articles/8954b729.json)
-
-[Extended Data](ext_articles/8954b729.ext.json)
 
 ---

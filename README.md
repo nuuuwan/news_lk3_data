@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-01 14:04:23**
+As of **2024-06-01 14:19:05**
 
 ## Newspaper Stats
 
-*Scraped **27,703** Articles*
+*Scraped **27,711** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,93 +16,191 @@ islandlk | 1,495
 economynextcom | 1,584
 dailyftlk | 1,635
 adalk | 2,363
-adaderanalk | 3,147
+adaderanalk | 3,148
 tamilmirrorlk | 3,246
-virakesarilk | 4,272
-dailymirrorlk | 4,386
+virakesarilk | 4,277
+dailymirrorlk | 4,388
 adaderanasinhalalk | 4,422
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,699 (100.0%) of 27,703 articles have been extended.
+27,703 (100.0%) of 27,711 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-01 (Saturday)
 
-### හීලෑ අලි ඇතුන් ගැන අලුත් තීරණයක්
+### Indian police uncover plot to murder Salman Khan and escape to Sri Lanka
+
+*2024-06-01 13:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/99577/indian-police-uncover-plot-to-murder-salman-khan-and-escape-to-sri-lanka) · `en`
+
+AK-47 and M-16 rifles from Pakistan, minor sharpshooters and an escape plan to Sri Lanka - Indian police have uncovered chilling details of an assassination plot to kill Bollywood actor Salman Khan.
+
+The Lawrence Bishnoi gang had allegedly conspired to strike Mr Khan’s car in Maharashtra’s Panvel, armed with weapons sourced from a Pakistani arms supplier.
+
+The intricate plan, allegedly hatched by the Lawrence Bishnoi gang, involved a sophisticated network of operatives and a cache of high-powered weapons. According to Navi Mumbai police sources, the gang enlisted the help of 60 to 70 individuals, each assigned specific roles in the execution of the diabolical plot.
+
+Central to the scheme was the use of minors as shooters. The plan aimed to strike at Mr Khan’s vehicle in Panvel or target his secluded farmhouse.
+
+...
+
+[Data](articles/7b6f8775.json)
+
+---
+
+### New decision about tame elephants
 
 *2024-06-01 13:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197243) · `si`
 
-නිසි ලියාපදිංචියකින් තොරව හීලෑ අලි ඇතුන් සන්තකයේ තබාගෙන සිටින පුද්ගලයින්ට එරෙහිව නීතිමය ක්‍රියාමාර්ග ගැනීමට පියවර ගන්නා ලෙස අභියාචනාධිකරණය නියෝග කර තිබේ.
+The Court of Appeal has mandated legal action against individuals keeping unregistered tame elephants, directing the Attorney General and Criminal Investigation Department to enforce this. This decision follows a petition by several environmental and cultural organizations, advocating for the release of registered wildlife. The court also prohibited the release of elephants held by the Department of Wildlife, emphasizing the importance of proper licensing and registration.
 
-අභියාචනාධිකරණය හමුවේ ගොනුකර තිබු රිට් පෙත්සමක තීන්දුව ප්‍රකාශයට පත්කරමින් වනජීවී අධ්‍යක්ෂ ජෙනරාල්වරයා, නීතිපතිවරයා සහ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව වෙත මෙම නියෝගය නිකුත් කර ඇත.
+🟩
 
-වනජීවී දෙපාර්තමේන්තුව භාරයට ගනු ලැබූ අලි ඇතුන් 15 දෙනකු ඔවුන්ගේ අයිතිකරුවන් වන හිටපු ජනාධිපති ගෝඨාභය රාජපක්ෂ ඇතුළු මුල් අයිතිකරුවන් පිරිසක් වෙත මුදාහැරීමට අදාළව නිකුත් කර තිබෙන ගැසට් නිවේදනය බල රහිත කිරීමේ නියෝගයක් නිකුත් කරන ලෙස ඉල්ලා පාරිසරික හා සංස්කෘතික අධ්‍යයන ආයතනය ඇතුළු සංවිධාන කිහිපයක් අභියාචනාධිකරණය හමුවේ රිට් පෙත්සමක් ගොනුකර තිබුණි.
+The Court of Appeal has ordered to take legal action against people who hold the tame elephants without proper registration.
 
-ඒ අනුව අදාළ රිට් පෙත්සම සෝභිත රාජකරුණා සහ ධම්මික ගනේපොල යන විනිසුරු මඩුල්ල ඉදිරියේ සලකා බැලූ අතර පෙත්සම්කාර පාර්ශ්වය වෙනුවෙන් ජනාධිපති නීතිඥ සංජීව ජයවර්ධන මහතා ඇතුළු නීතිඥ මණ්ඩලයක් කරුණු ඉදිරිපත් කරනු ලැබීය.
+The Director General of Wildlife Director General has issued the order to the Attorney General and the Criminal Investigation Department, announcing the verdict of the Rit petition filed by the Court of Appeal.
+
+Several organizations including the Environment and Cultural Studies of the Environmental Gotabhaya, including the release of the Wildlife to release the gazette notification of the Wildlife to release the gazette notification to release the gazette notice to the release of their ownership..
+
+Accordingly, the Rit petition was considered before the panel of judges and President's Counsel Sanjeewa Jayawardena for the petitioner party.
+
+The lack of bipolar panel license has been taken to release the elephants of the wildlife to re-release the elephants who have returned to their owners.
 
 ...
 
 [Data](articles/efdd034a.json)
 
+[Extended Data](ext_articles/efdd034a.ext.json)
+
 ---
 
-### 2024 පැරිස් ඔලිම්පික් ක්‍රීඩා උළලේදී ප්‍රහාරයක් සැලසුම් කළ සැකකරුවෙක් අත්අඩංගුවට
+### Suspect arrested at Paris Olympic Games
 
 *2024-06-01 13:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197242) · `si`
 
-2024 පැරිස් ඔලිම්පික් ක්‍රීඩා උළලේ පාපන්දු තරග පැවැත්වෙන ක්‍රීඩාංගණයකට ත්‍රස්ත ප්‍රහාරයක් එල්ල කිරීමට සැලසුම් කළ තරුණයෙකු, ප්‍රංශ ආරක්ෂ අංශ අත්අඩංගුවට ගෙන තිබේ.
+French authorities arrested an 18-year-old suspected of plotting a terrorist attack on the Paris Olympic Games. The suspect, of Chechen origin, had photos and videos of the stadium on his devices. His target was the Jopua Gssha of Sonth Eitan event. Security measures include 20,000 army soldiers and 40,000 police officers from France and abroad.
 
-තවත් සති කිහිපයකින් ආරම්භ වීමට නියමිත 2024 පැරිස් ඔලිම්පික් ක්‍රීඩා උළෙල ඉලක්ක කර ප්‍රහාරයක් දියත් කිරීමට සැලසුම් කළ 18 හැවිරිදි තරුණයෙකු එලෙස අත්අඩංගුවට ගැනීමට ප්‍රංශ ආරක්ෂක අංශ කටයුතු කර ඇත.
+🟩
 
-ඉස්ලාම් දැඩි මතධාරීන් සමග සංකේතාත්මක පණිවුඩ හුවමාරු කරගෙන ඇති සැකකාර තරුණයාගේ දුරකථනයේ සහ පරිගණකයේ තිබී ක්‍රීඩාංගණයේ ඡායාරූප සහ වීඩියෝ සොයාගත් බව ප්‍රංශ මාධ්‍ය වාර්තා කර ඇත.
+A young man who was planning to carry a terrorist attack on a stadium in the Paris Olympic Games.
 
-පැරිස් ඔලිම්පික් උළෙලේ පාපන්දු තරග කිහිපයක්ම පැවැත්වීමට නියමිතව ඇති සොන්ත් එතියැන්හි ජෝෆුආ ගිෂා පාපන්දු ක්‍රීඩාංගණය ඉලක්ක කරමින් ප්‍රහාරයක් එල්ල කිරීම සැකකරුගේ සැලසුම වී තිබූ බව සඳහන් වෙයි.
+The French security forces have arrest an 18-year-old youth who planned to launch an attack targeting the 2024 Paris Olympic Games, which will begin in another few weeks.
 
-ප්‍රංශයේ අභ්‍යාන්තර කටයුතු අමාත්‍යවරයා උපුටා දක්වමින් විදෙස් මාධ්‍ය වාර්තා කරන්නේ, ප්‍රේක්ෂකයින් සහ ආරක්ෂක අංශ සාමාජිකයින්ද ඉලක්ක කරමින් මරාගෙන මැරෙන ප්‍රහාරයක් එල්ල කිරීමට සැකකාර තරුණයා සූදානමින් සිටි බවය.
+The French media has reported that photos and videos in the stadium have been found on the travelers of the suspect's phone and computer.
 
-...
+The suspect's plan was targeting the Jopua Gssha of Sonth Eitan, which will be held at the Paris Olympic Games.
+
+Minister of External Affairs of France
+
+The identity of the Chechenian origin, which is said to be an extreme Islamic ideologist, has not yet been detected.
+
+The Paris Olympic Games, 20,000 army soldiers and 40,000 policemen and the army and police officers in foreign countries have been marked.
+
+◼️
 
 [Data](articles/7564780a.json)
 
+[Extended Data](ext_articles/7564780a.ext.json)
+
 ---
 
-### ඉන්ධන ගන්න පෝලිම්
+### Bus fares can be revised only if diesel drops to Rs. 307 per litre: NTC, bus associations
+
+*2024-06-01 13:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Bus-fares-can-be-revised-only-if-diesel-drops-to-Rs-307-per-litre-NTC-bus-associations/108-283880) · `en`
+
+Colombo, June 1 (Daily Mirror) - The National Transport Commission (NTC) and private bus associations announced today that bus fares could be revised only if diesel prices drop to Rs. 307 per litre.
+
+NTC Chairman Shashi Welgama told the Daily Mirror that a bus fare revision can only occur if there is a 4% reduction in diesel prices, as stipulated by the national bus fare revision policy.
+
+However, the recent reduction in diesel prices was only 2.8%. With the recent fuel price adjustment, Auto Diesel decreased Rs. 16, bringing its current selling price to Rs. 317 per litre.
+
+Meanwhile, the Lanka Private Bus Owners' Association (LPBOA) chairman Gemunu Wijerathne said said that people are expecting a bus fare reduction following the recent diesel price adjustment.
+
+Unfortunately, due to the recent fuel price revision and the bus fare revision policy stipulations, a bus fare reduction is currently not possible, Wijerathne said.
+
+...
+
+[Data](articles/e6043ace.json)
+
+---
+
+### Michelle Obama’s mother, Marian Robinson, dies at 86
+
+*2024-06-01 13:38:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Michelle-Obamas-mother-Marian-Robinson-dies-at-86/108-283879) · `en`
+
+(BBC) - Marian Robinson, the mother of former US First Lady Michelle Obama, has died at 86.
+
+In a statement, her family said that Robinson had died "peacefully" on Friday morning.
+
+Robinson was a well-known fixture at the White House during the eight years of Barack Obama's administration between 2009-17.
+
+She spent much of that time taking care of her two granddaughters, Malia and Sasha, daughters to Michelle and Barack Obama.
+
+In a statement posted on X, formerly Twitter, Mrs Obama called her mother her "rock, always there for whatever I needed".
+
+"She was the same steady backstop for our entire family, and we are heartbroken to share she passed away today," she wrote.
+
+In a separate tweet, Mr Obama said that “there was and will be only one Marian Robinson”.
+
+“In our sadness, we are lifted up by the extraordinary gift of her life,” he added. “And we will spend the rest of ours trying to live up to her example.”
+
+...
+
+[Data](articles/df3b48e8.json)
+
+---
+
+### Queue to take fuel
 
 *2024-06-01 13:35:53* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්ධන-ගන්න-පෝලිම්/11-409951) · `si`
 
-මාසිකව සිදු වන මිළ සංශෝධන සූත්‍රයට අනුව ඊයේ (31) මධ්‍යම රාත්‍රිය‌ේ සිට ඉන්ධන මිළ ගණන් පහළ දැමූවද එප්පාවල නගරයේ පිහිටි ඉන්ධනහල් දෙකෙහිම මිළ ගණන් අඩු වූ,  ඔක්ටේන් 92 පෙට්‍රල්, සුදු ඩීසල් හා භූමිතෙල්  තොග නොමැති බව දැක ගතහැකි විය.
+Fuel prices dropped from midnight, except for octane, white diesel, and kerosene. Only 95 Octane and Super Diesel were available, leading to confusion among customers who bought fuel unaware of the price drop.
 
-එක් ඉන්ධනහලක පමණක් මිළ නොවෙනස් වූ  ඔක්ටේන් 95 පෙට්‍රල් හා  සුපර් ඩීසල් නිකුත් කිරීම සිදු කරන අයුරු දැක ගත හැකි විය.එම ඉන්ධන ලබා ගැනීමට ජනතාව දිගු පෝලිම් වල රැදී සිටින අයුරුද දැක ගත හැකි විය..
+🟩
 
-ඉන්ධන මිළ පහළ යන බව දැනගත් ඉන්ධනහල් හිමියන් ඊයේ (31) ඉන්ධන තොග ඉන්ධනහල්වෙත මිලදී නොගැනීම හේතුවෙන් මෙම තත්වය ඇති වූ බව පාරිභෝගිකයෝ පවසති.
+According to the monthly Pricing amendment formula, the fuel prices were decreased from midnight yesterday (31), but there were no prices of octan, white diesel, white diesel, white diesel and kerosene.
+
+One fuel was only available on the issuance of 95 Octane and Super Diesel.
+
+Customers say the fuel owners who learned that fuel prices were released yesterday due to the purchase of fuel fuel at the time.
 
 ◼️
 
 [Data](articles/81ba497f.json)
 
+[Extended Data](ext_articles/81ba497f.ext.json)
+
 ---
 
-### திடீரென புகுந்து மக்களை சரமாரியக வெட்டிய கும்பல்
+### Suddenly, the gang of people
 
 *2024-06-01 13:30:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/திடீரென-புகுந்து-மக்களை-சரமாரியக-வெட்டிய-கும்பல்/73-338232) · `ta`
 
-அக்கரைப்பற்று பொலிஸ் பிரிவிற்குட்பட்ட ஆலையடிவேம்பு பிரதேச செயலாளர் பிரிவில் வாச்சிக்குடா பகுதியில் நேற்றிரவு (31) இடம்பெற்ற வாள் வெட்டுச்சம்பவத்தில் 7 பேர் பலத்த காயங்களுடன் அக்கரைப்பற்று ஆதார வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+In the Alayadivembu Division, seven seriously injured individuals were rushed to the Akkaraipattu Base Hospital after a violent attack involving a group wielding swords. Homes were destroyed, and vehicles were damaged. The community, particularly in the Vachikuda region, is terrified and concerned about their safety. The attackers, armed with swords, targeted both houses and passersby, causing chaos that lasted approximately 30 minutes. Following the incident, the Akkaraipattu police arrived to investigate the situation.
 
-இன்னும் சில பொதுமக்கள் தாக்குதலுக்குள்ளானதுடன் வீடொன்றில் இருந்த பொருட்கள் சிலவும் அடித்து நொறுக்கப்பட்டுள்ளதுடன் வீதியால் சென்ற மோட்டார் சைக்கிள்களும் சேதத்திற்குள்ளாகியது.
+🟩
 
-வாள்கள் தாங்கிய சிறு குழுவொன்றின் தாக்குதல் காரணமாகவே இவ்வாறு சேதம் ஏற்பட்டுள்ளதாக மக்கள் தெரிவிக்கின்றனர்.
+Seven persons have been admitted to the Akkaraipattu Base Hospital with serious injuries at the Alayadivembu Divisional Secretariat Division of the Akkaraipattu Police Division.
 
-இதனால் வாச்சிக்குடா பகுதியில் வாழும் மக்கள் பெரும் அச்சத்திற்குள்ளாகியுள்ளதுடன் தங்களது பாதுகாப்பு கேள்விக்குறியாகியுள்ளதாகவும் கூறுகின்றனர்.
+Some of the civilians were attacked and some of the house were smashed and the motorcycles that went by the street were damaged.
 
-வாள்கள் தாங்கிய சிறு குழுவானது ஒருவரை விரட்டி வந்த நிலையில் விரட்டப்பட்டு வந்தவர் அவரது சகோதரி வீட்டில் தஞ்சம் புகுந்துள்ளார். இதன் காரணமாக அவ்வீட்டினுள் நுழைந்து வாள் தாங்கிய குழுவானது அங்கிருந்தவர்கள் மீதும் தாக்குதல் நடாத்தியுள்ளது.
+People say that the damage was caused by the attack of a small group of swords.
+
+The people living in the Vachikuda region are in great fear and their security is in question.
+
+A small group of swords bearing a man chased asylum. As a result, a group of sword -bearing group has been attacked.
+
+At the time, the people in the house were targeted for the sword and some neighbors who entered the house were attacked.. Meanwhile, the group attacked the people on the road and the motorcycle on the road was also attacked.
+
+Some of the civilians who stumbled upon the attack are running to save their lives. Eyewitnesses say that the area was shocked by the incident, which lasted for about 30 minutes.
 
 ...
 
 [Data](articles/b2ac30ba.json)
+
+[Extended Data](ext_articles/b2ac30ba.ext.json)
 
 ---
 
@@ -160,6 +258,22 @@ The Criminal Investigation Department Sandolign Sandals Mr. Rohan Premaratne, Se
 
 ---
 
+### மலையகத்தில் கடும் பனிமூட்டம் ; சாரதிகளுக்கு விடுக்கப்பட்டுள்ள அறிவித்தல்
+
+*2024-06-01 12:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/185040) · `ta`
+
+மலையகத்தில் பல பகுதிகளில் அதிக பனிமூட்டம் சூழ்ந்து காணப்படுகிறது. இதனால் சாரதிகள் அவதானமாக வாகனங்களை செலுத்துமாறு பொலிஸார் எச்சரிக்கை விடுத்துள்ளனர்.
+
+நுவரெலியா – ஹட்டன் பிரதான வீதியில் பிலக்பூல் சந்தி , வெண்டிகோனர் , பங்களாஹத்த , நானுஓயா , ரதல்ல குறுக்கு வீதி, அதேபோன்று நுவரெலியா - கண்டி வீதியில் பம்பரக்கலை, டொப்பாஸ், குடாஓயா,லபுக்கலை, கொண்டக்கலை பாதை நுவரெலியா -உடபுசல்லாவ வீதியில் ஆவேலியா, பொரலந்த, கந்தப்பளை,  இராகலை பாதை , நுவரெலியா -பதுளை- வீதியில் தர்மபால சந்தி, மாகாஸ்தோட்ட,கட்டுமான, சீத்தாஎலிய, ஹக்கலை மற்றும் பொரகாஸ் உட்பட அம்பேவல,மீப்பிலிமான ,பட்டிபொல மற்றும் உலக முடிவு வீதி போன்ற இடங்களில் வழமைக்கு மாறாக அதிகளவான பனி மூட்டம் காணப்படுகின்றது.  இதனால் சாரதிகள் வாகனங்களை செலுத்துவதில் பெரும் சிரமங்களை சந்தித்து வருகின்றனர்.
+
+நுவரெலியா – ஹட்டன் ஏ7 பிரதான வீதியில் சென்ற வாகனங்கள் அதிக ஒலி எழுப்பியவாறும், வாகன விளக்குகளை ஒளிரவிட்டும் செல்வதை அவதானிக்க முடிந்தது .
+
+...
+
+[Data](articles/6a210ed6.json)
+
+---
+
 ### T20 World Cup Warm-up: Dasun Shanaka stars as Sri Lanka beat Ireland
 
 *2024-06-01 12:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/99576/t20-world-cup-warm-up-dasun-shanaka-stars-as-sri-lanka-beat-ireland) · `en`
@@ -207,6 +321,22 @@ Lanka IOC also reduced fuel prices as the price of Sipetco.
 [Data](articles/c4adfe60.json)
 
 [Extended Data](ext_articles/c4adfe60.ext.json)
+
+---
+
+### Factum Perspective: இந்தியாவின் வெளியுறவுக் கொள்கையில் இலங்கையின் இருப்பு
+
+*2024-06-01 12:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/185037) · `ta`
+
+தேசிய மக்கள் சக்தி (NPP) கட்சியின் இலங்கை பாராளுமன்ற உறுப்பினரான அனுரகுமார திஸாநாயக்கவின் சமீபத்திய இந்திய விஜயம் ஊடகங்களில் தலைப்புச் செய்தியாக காணப்பட்டது. இந்தியா இந்த ஆண்டு இறுதியில் இலங்கை ஜனாதிபதி தேர்தலில் போட்டியிடும் மற்ற கட்சிகளின் தலைவர்களை அழைக்கும் என்ற சந்தேகம் பரவியது.
+
+எவ்வாறாயினும், NPP க்கான அதனது ஆரம்ப அழைப்பின் அடிப்படையில், வெளிநாட்டு தரப்பினர்கள் இப்போது இலங்கை அரசியலின் நிலையை சரியாக அளவிடுகிறார்கள் என்பதை நாம் ஊகிக்கலாம்.
+
+ஜனரஞ்சகத்தின் மீதான அதனது வெற்றி மற்றும் வலிமையான மூன்றாம் தரப்பாக முக்கியத்துவம் பெற்றதன் மூலம், NPP இலங்கையின் பாரம்பரிய இரு கட்சி முறைமையை தீர்க்கமாக முறித்துக் கொண்டது. எதிர்காலத்தை நோக்கிய ஓர் பார்வையுடன், இந்தியா தனது முக்கிய போட்டியாளரான சீனாவிற்கு முன்னராக NPP உடனான தனது உறவுகளைக் குறிக்க முன்னணியில் உள்ளது.
+
+...
+
+[Data](articles/57598801.json)
 
 ---
 
@@ -275,6 +405,26 @@ More than 100 million people are registered to vote across eight states and fede
 [Data](articles/75d0d3be.json)
 
 [Extended Data](ext_articles/75d0d3be.ext.json)
+
+---
+
+### மட்டு. வெல்லாவெளியில் உயிரை மாய்த்துக் கொள்ள முயன்ற யுவதி சிகிச்சை பலனின்றி உயிரிழப்பு
+
+*2024-06-01 11:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/185027) · `ta`
+
+மட்டக்களப்பு மாவட்டம் வெல்லாவெளி பொலிஸ் பிரிவிற்குட்பட்ட மண்டூர் தெற்கு பகுதியில் காதல் தொடர்பை நிறுத்த கோரியதால் உயிரைமாய்த்துக் கொள்ள முயன்ற யுவதி சிகிச்சை பலனளிக்காமையினால் உயிரிழந்துள்ளார்.
+
+18 வயது மதிக்கத்தக்க யுவதியே கல்முனை ஆதார வைத்தியசாலைக்கு சிகிச்சைக்காக வியாழக்கிழமை (30) இரவு அனுமதிக்கப்பட்டு மறுநாள் வெள்ளிக்கிழமை (31) அதிகாலை 2.45 மணியளவில் உயிரிழந்துள்ளார்.
+
+குறித்த உயிரிழந்த யுவதியின் தாயார் வெளிநாடு ஒன்றில் பணிபுரிந்த நிலையில் இலங்கைக்கு வந்து 3 மாதங்கள் சென்றுள்ளதாகவும், யுவதி 2 வருடங்களாக மட்டக்களப்பு மாவட்டத்தில் உள்ள புனர்வாழ்வு நிலையம் ஒன்றில் தங்கி இருந்த நிலையில் களுவாஞ்சிக்குடி நீதிவான் நீதிமன்ற உத்தரவிற்கமைய  யுவதியின் தாய் வீட்டிற்கு அழைத்துச் சென்றதாகவும் தெரிவிக்கப்படுகின்றது.
+
+இந்நிலையில். ஏலவே யுவதியுடன் காதல் தொடர்பில் இருந்த இளைஞன் வீட்டிற்கு வந்த யுவதியை மீண்டும் காதல் தொடர்புகளை மேற்கொண்ட நிலையில் யுவதியின் தாயார் கண்டித்துள்ளார்.
+
+இதனை  அடுத்து வீட்டை விட்டு வெளியேறி சென்ற யுவதி மீண்டும் 15 நிமிடம் மீண்டும் தனது வீட்டிற்கு வந்துள்ளார்.
+
+...
+
+[Data](articles/295d44ba.json)
 
 ---
 
@@ -350,6 +500,24 @@ Sri Lanka is scheduled to be held against South Africa on Monday, the first matc
 
 ---
 
+### குஜராத் விமானநிலையத்தில் கைதுசெய்யப்பட்டவர்கள் மததீவிரவாதிகள் இல்லை- கமால் குணரட்ண
+
+*2024-06-01 10:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/185025) · `ta`
+
+இந்தியாவின் குஜராத் மாநிலத்தில் பயங்கரவாதிகளுடன் தொடர்புடையவர்கள் என்ற சந்தேகத்தின் பேரில் கைதுசெய்யப்பட்ட இலங்கையர்கள் நால்வரும்; போதைப்பொருளுக்கு அடிமையானவர்கள்  மததீவிரவாதிகள் இல்லை என பாதுகாப்பு அமைச்சின் கமால் குணரட்ண தெரிவித்துள்ளார்.
+
+இந்த விடயம் குறித்து எங்களின் புலனாய்வு பிரிவினர் எச்சரிக்கையுடன் உள்ளனர் என தெரிவித்துள்ள அவர் இந்தியாவிற்கு சென்ற நான்கு இலங்கையர்கள் குறித்து முழுமையான விசாரணைகள் இடம்பெறுகின்றன அவர்களின் சகாக்கள் கூட விசாரிக்கப்பட்டுள்ளனர் என குறிப்பிட்டுள்ளார்.
+
+தொடரும் விசாரணைகள் குறித்து என்னால் கருத்து தெரிவிக்க முடியாது ஆனால் இந்தியாவில் கைதுசெய்யப்பட்டுள்ள நால்வரும் மததீவிரவாதிகள் இல்லை அவர்கள் போதைப்பொருளிற்கு அடிமையானவர்கள் என தெரிவித்துள்ளார்.
+
+பாதுகாப்பு செயலாளர் என்ற அடிப்படையில் உயிர்த்த ஞாயிறு தாக்குதல் போன்ற சம்பவங்கள் மீண்டும் இடம்பெறாது நாங்கள் எங்கள் பாதுகாப்பு குறித்து விழிப்புணர்வுடன் உள்ளோம் என்பதை பொதுமக்களிற்கு உறுதியாக தெரிவிக்க முடியும் என அவர் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/42f00db1.json)
+
+---
+
 ### Sri Lankan monks, Minister explore rich Buddhist heritage in Pakistan
 
 *2024-06-01 10:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankan-monks-Minister-explore-rich-Buddhist-heritage-in-Pakistan/108-283876) · `en`
@@ -391,6 +559,22 @@ The final results are to be released on weekends and after the first democratic 
 [Data](articles/d26fc48d.json)
 
 [Extended Data](ext_articles/d26fc48d.ext.json)
+
+---
+
+### ஆறுவார கால யுத்த நிறுத்தம்- காசாவில் மக்கள் வாழும் பகுதிகளில் இருந்து இஸ்ரேலிய படையினரை விலக்கல் - இஸ்ரேலின் திட்டத்தை அறிவித்தார் பைடன்
+
+*2024-06-01 10:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/185024) · `ta`
+
+யுத்தத்தை முடிவிற்கு கொண்டுவருவதற்கான இஸ்ரேலின் யோசனையை வெளியிட்டுள்ள அமெரிக்க ஜனாதிபதி ஜோ பைடன் ஹமாஸ் அதனை ஏற்றுக்கொள்ளவேண்டும் என வேண்டுகோள் விடுத்துள்ளார்.
+
+மனிதாபிமான உதவிகள் அதிகரிக்கப்படும் பணயக்கைதிகள் சிலர் விடுதலை செய்யப்படுவார்கள் என ஜோபைடன்  முன்வைத்துள்ள திட்டத்தில் தெரிவி;க்கப்பட்டுள்ளமை  குறிப்பிடத்தக்கது.
+
+வெள்ளை மாளிகையில் இடம்பெற்ற செய்தியாளர் மாநாட்டில் கருத்து தெரிவி;த்துள்ள அமெரிக்க ஜனாதிபதி யுத்த நிறுத்த திட்டத்தின் முதல் கட்டத்தில் முழுமையான யுத்தநிறுத்தம் நடைமுறைக்கு வரும் என தெரிவித்துள்ளதுடன் இஸ்ரேலிய இராணுவத்தினர் விலக்கிக்கொள்ளப்படுவார்கள் பாலஸ்தீனிய சிறைக்கைதிகள் விடுதலையும் காசாவின் மக்கள் அதிகமாக வாழும் பகுதிகளில் இருந்து இஸ்ரேலிய படையினர் விலக்கிக்கொள்ளப்படுவதும் இடம்பெறும் என தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/ddc2a274.json)
 
 ---
 
@@ -1989,207 +2173,5 @@ The maximum punishment for the maximum of four years in such a case, the former 
 [Data](articles/2bcec82e.json)
 
 [Extended Data](ext_articles/2bcec82e.ext.json)
-
----
-
-### Change in fuel prices from midnight today
-
-*2024-05-31 21:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/185001) · `ta`
-
-From midnight Friday 31st, Ceylon Petroleum Corporation adjusted fuel prices: Octane 92 petrol now costs 355 rupees (down 13), Octane 95 remains 420 rupees, Otto diesel is 317 rupees (down 16), diesel per liter is 377 rupees unchanged, and kerosene is 202 rupees (down 13).
-
-🟩
-
-The Ceylon Petroleum Corporation has decided to revise the fuel prices with effect from midnight on Friday 31st.
-
-Under these amendments, the prices of three types of fuels have been reduced, while the prices of the two are not changed.
-
-Accordingly, the price of an Octane 92 petrol has been reduced by 13 rupees and its new price is 355 rupees.
-
-The price of Octane 95 will be sold for 420 rupees without change.
-
-The price of an Otto diesel will be reduced by 16 rupees and its new price is 317 rupees.
-
-In addition, the price of a liter of diesel will continue to be sold at 377 rupees.
-
-The price of kerosene will be reduced by 13 rupees and its new price is 202 rupees.
-
-◼️
-
-[Data](articles/f3888dd3.json)
-
-[Extended Data](ext_articles/f3888dd3.ext.json)
-
----
-
-### CPC announces fuel price revisions
-
-*2024-05-31 21:18:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/CPC-announces-fuel-price-revisions/108-283823) · `en`
-
-Colombo, May 31 (Daily Mirror) - The Ceylon Petroleum Corporation (CPC) announced a revision of fuel prices, which will take effect from midnight today.
-
-Under the new pricing scheme, the cost of Petrol 92 Octane has been reduced by Rs. 13, bringing the price down to Rs. 355 per litre. The price of Petrol 95 Octane remains unchanged at Rs. 420 per litre.
-
-In the diesel category, Auto Diesel sees a reduction of Rs. 16, now priced at Rs. 317 per litre. The price for Super Diesel remains steady at Rs. 377 per litre.
-
-Further, the price of Kerosene has been lowered by Rs. 13, setting the new rate at Rs. 202 per litre.
-
-◼️
-
-[Data](articles/847a8ab1.json)
-
-[Extended Data](ext_articles/847a8ab1.ext.json)
-
----
-
-### Here are the A / L excellence
-
-*2024-05-31 21:14:09* · [`adalk`](https://www.ada.lk/breaking_news/උසස්-පෙළ-විශිෂ්‍ඨයන්-මෙන්න/11-409948) · `si`
-
-Top students from across Sri Lanka excelled in various subjects in the A/L exams. Notable achievements include Lenora Lenora of Sanmammitta Balika Vidyalaya, Galle, for her performance in Mathematics; Chirath Wijesinghe from the University of Ananda College, Colombo, for Arts; Shane Navodya from Ginigathena Central College, Colombo, for Engineering Technology; Punchihewa from Panadura Girls' Maha Vidyalaya for Commerce; and Ceria from Eheliyagoda Central College for Biology Technology.
-
-🟩
-
-Students who obtained the first places in the island have been published according to each subject strength of the A / L examination results.
-
-Lights in Sanmemamitta Balika Vidyalaya, Galle - Lenora Lenora
-
-First Place of Mathematics - University of Ananda College, Colombo. it. Chirath wipe
-
-Prior to the Arts Department Tasun at Richmond College, Galle Restains
-
-Engineering Technology Stream is the first place - Ginigathena Central College, Shane Navodya, Colombo
-
-First Place of commercial currency - Panadura Girls Maha Vidyalaya Punchihewa
-
-Biology Technology Technology First Place - Eheliyagoda Central College Ceremony
-
-◼️
-
-[Data](articles/3c073206.json)
-
-[Extended Data](ext_articles/3c073206.ext.json)
-
----
-
-### Fuel prices revised
-
-*2024-05-31 21:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/99571/fuel-prices-revised) · `en`
-
-The Ceylon Petroleum Corporation (Ceypetco) has revised its fuel prices with effect from midnight today (May 31).
-
-Accordingly, the price of Petrol Octane 92 will be reduced by Rs. 13 to Rs. 355 per litre while Auto Diesel is to be reduced by Rs. 16 to Rs. 317 per litre. Kerosene has been reduced by Rs. 13 to Rs. 202.
-
-Meanwhile, the prices of Petrol 95 Octane and Super diesel will remain unchanged, according to the Ceypetco.
-
-UPDATE: Lanka Indian Oil Corporation (LIOC) too has decided to revise its fuel prices, mirroring the state-owned oil company’s move.
-
-◼️
-
-[Data](articles/f392809a.json)
-
-[Extended Data](ext_articles/f392809a.ext.json)
-
----
-
-### Fuel prices vary
-
-*2024-05-31 21:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197223) · `si`
-
-Fuel prices adjusted midnight 31st; three types cheaper, two remain same: Octane 92 down 13 to 355, Octane 95 stays 420, white diesel drops 16 to 317, SL Super Diesel unchanged at 377, kerosene falls 13 to 202.
-
-🟩
-
-Sipette fuel prices have been amended from midnight today (31).
-
-Under these amendments, the prices of three types of fuel have been reduced, and two are unchanged.
-
-Accordingly, the price of a liter of octan 92 petrol has been reduced by 13 rupees and its price is Rs. 355.
-
-The price of an Octane 95 petrol is unchanged, and its price is Rs. 420.
-
-The price of a liter of white diesel has fallen by Rs.16 rupees and its new price is Rs. 317.
-
-Also, the price of a liter of Sri Lanka Super Diesel is unchanged, and its price is Rs. 377.
-
-The price of kerosene has been reduced by 13 rupees and its price is Rs. 202.
-
-◼️
-
-[Data](articles/4a29dec1.json)
-
-[Extended Data](ext_articles/4a29dec1.ext.json)
-
----
-
-### Contempt of court application against Diana fixed for support
-
-*2024-05-31 20:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Contempt-of-court-application-against-Diana-fixed-for-support/108-283822) · `en`
-
-Colombo, May 31 (Daily Mirror) -  A contempt of court application filed against former State Minister Diana Gamage was today fixed for support on June 26 by the Supreme Court.
-
-An application filed before the Supreme Court alleged that Diana Gamage has committed the offence of contempt of court through her statements at a media conference held on May 9 this year.
-
-The Supreme Court today directed the petitioner to serve notices on Diana Gamage and fixed the matter for support on June 26.
-
-Former Chairman of the Weligama Urban Council, Rehan Jayawickrema filed this application alleging that Diana Gamage had made a statement with the intent of bringing the authority of the Supreme Court to disrespect as provided in Section 3(1) (a) of the Contempt of a Court, Tribunal or Institution Act No: 8 of 2024.
-
-...
-
-[Data](articles/c0419665.json)
-
-[Extended Data](ext_articles/c0419665.ext.json)
-
----
-
-### Supermarcors in Sri Lanka
-
-*2024-05-31 20:47:41* · [`adalk`](https://www.ada.lk/breaking_news/උපෙළ-වාණිජ-අංශයේ-ලංකාවෙන්ම-විශිෂ්‍‍ඨයා-පානදුර-බාලිකාවේ-ශෙහාරා/11-409947) · `si`
-
-Hehara Sadumini Punchihewa, a student from Panadura Balika Vidyalaya, secured the top spot in Sri Lanka's commercial sector. The daughter of Jayanath Punchi Hewa and Anusha Vicuseasiri, she excelled academically, entering the Girls' Vidyalaya after passing the GCE O/L exam. Her siblings attend Benthara, Induruwa, and Holy Family Convent, Kalutara. Despite her parents being entrepreneurs, Hehara dedicated herself to her studies, attending extra classes daily, which contributed to her success.
-
-🟩
-
-Hehara Sadumini Punchihewa has obtained the first place in Sri Lanka from the commercial sector Panadura Balika Vidyalaya.
-
-It is also said that the Seed of the three girls with three girls with three girls of Jayanath Punchi Hewa and Anusha Vicuseasiri.
-
-Benthara, Induruwa, is a second year in the North-Western University, a resident of Gunangala area.
-
-He had entered the 5 Scholarship Examination of the Year 5 scholarship examination and entered the Girls' Vidyalaya from the GCE O / L examination.
-
-The two parents are engaged in business, and her younger daughter learns 11 year in the Holy Family Convent, Kalutara.
-
-Commenting on the skill of the Hehara, her mother, Anusha Vicuseasiri, said:. "The daughter ended every morning work on the day. Attended extra classes, she did not think she was first known from Sri Lanka despite the confidence she was confident, but it was confident. "
-
-◼️
-
-[Data](articles/8fc10575.json)
-
-[Extended Data](ext_articles/8fc10575.ext.json)
-
----
-
-### Top Island ranks in GCE A/L
-
-*2024-05-31 20:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Top-Island-ranks-in-GCE-AL/110-283821) · `en`
-
-The Examinations Department has announced the top island rankings for various streams.
-
-- Chirath Nirodha of Ananda College, Colombo, who excelled in the Physical Science (Mathematics) stream
-
-- Shehani Navodya of Ginigathhena Central College, who topped the Engineering Technology stream
-
-- Upani Lenora of Sanghamitta Balika Vidyalaya in Galle, who achieved the highest rank in the Science stream
-
-- Thasun Rithmika of Richmond College, Galle, who secured the island first in the Arts stream
-
-- Shehara Sithumini of Panadura Balika Vidyalaya, who achieved the highest rank in the Commerce stream
-
-◼️
-
-[Data](articles/7cfdd11c.json)
-
-[Extended Data](ext_articles/7cfdd11c.ext.json)
 
 ---

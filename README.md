@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-01 10:04:29**
+As of **2024-06-01 10:18:54**
 
 ## Newspaper Stats
 
-*Scraped **27,678** Articles*
+*Scraped **27,680** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 248
-dbsjeyarajcom | 267
+dbsjeyarajcom | 268
 bbccomsinhala | 273
 newsfirstlk | 363
 islandlk | 1,495
@@ -20,17 +20,35 @@ adaderanalk | 3,143
 tamilmirrorlk | 3,245
 virakesarilk | 4,272
 dailymirrorlk | 4,381
-adaderanasinhalalk | 4,413
+adaderanasinhalalk | 4,414
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,678 (100.0%) of 27,678 articles have been extended.
+27,678 (100.0%) of 27,680 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-01 (Saturday)
+
+### නීතිවිරෝධීව ගෙන ආ දුම්වැටි තොගයක් සමග ව්‍යාපාරිකයෙක් අත්අඩංගුවට
+
+*2024-06-01 10:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197233) · `si`
+
+විදේශීය නිෂ්පාදිත නීතිවිරෝධී දුම්වැටි තොගයක් සමග ව්‍යාපාරිකයෙකු පොලිස් මත්ද්‍රව්‍ය නාශක අංශයේ නිලධාරීන් පිරිසක් විසින් කටුනායක ගුවන්තොටුපොළේ දී අත්අඩංගුවට ගෙන තිබේ.
+
+මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ මීගමුව ප්‍රදේශයේ පදිංචි 38 හැවිරිදි ව්‍යාපාරිකයෙකු බව ගුවන්තොටුපොළ රේගුව සඳහන් කළේය.
+
+මෙම ව්‍යාපාරිකයා ඊයේ (31) දින රාත්‍රී 10ට ඩුබායි සිට එමිරේට්ස් ගුවන් සේවයේ ඊ.කේ.- 648 දරන ගුවන් යානයෙන් කටුනායක ගුවන්තොටුපොළ වෙත පැමිණ තිබේ.
+
+ඔහු විසින් රැගෙන ආ ගමන් මලු තුළ දුම්වැටි 38,400ක් අඩංගු දුම්වැටි ඇසුරුම් 192ක් සඟවා ගෙන තිබියදී සොයා ගැනීමට හැකි වූ බව පොලිස් මත්ද්‍රව්‍ය නාශක අංශය පැවසුවේය.
+
+◼️
+
+[Data](articles/9cd5be4a.json)
+
+---
 
 ### Fatal accidents that have been killed
 
@@ -915,6 +933,20 @@ On 31 May, Dr. Lightman delivered an inspiring lecture at the American Centre Co
 [Data](articles/fdd8e42b.json)
 
 [Extended Data](ext_articles/fdd8e42b.ext.json)
+
+---
+
+### The Six Face(t)s of  CWC Chief Arumugan “Thamby” Thondaman
+
+*2024-06-01 00:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84119) · `en`
+
+Former  Cabinet  Minister,Nuwara Eliya district Parliamentarian and Ceylon Workers Congress (CWC)  leader Arumugan Thondaman would have celebrated his 60th  birthday on 29 May,if he were alive today. Thondaman passed away  due to a cardiac arrest four days before his 56th birthday four years ago on 26 May 2020. He was serving as a  Minister  in the cabinet of President Gotabaya  Rajapaksa at the time of his death. This week’s “political pulse” – with the aid of my previous writings –  focuses on Arumugan Thondaman to denote his 60th birth anniversary.
+
+Let me begin with two points about his name and pet name.  Thondaman’s first name Arumugan is spelled  with an N at the end. However  it  is frequently misspelled by the media  as Arumugam with an M instead of N. I too have been guilty of this error at times. I remember his illustrious grandfather Saumiyamoorthy Thondaman gently admonishing me once “ He is Arumugan not Arumugam”.
+
+...
+
+[Data](articles/0c50f8f1.json)
 
 ---
 
@@ -2141,41 +2173,5 @@ The announcement was made by the President’s Media Division (PMD).
 [Data](articles/ab491820.json)
 
 [Extended Data](ext_articles/ab491820.ext.json)
-
----
-
-### Sri Lanka renewables, power lines without tender to be legalized in new law: IESL
-
-*2024-05-31 18:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-renewables-power-lines-without-tender-to-be-legalized-in-new-law-iesl-165658/) · `en`
-
-ECONOMYNEXT – Procurement of renewable energy as well as transmission lines without competitive tenders will be legalized in a planned electricity reform law, the Institution of Engineers of Sri Lanka has warned.
-
-“Despite declaring the objects of the proposed Act to be “allowing open competitive procurement of new generation capacity including renewable energy”, the body of this Act states the complete opposite,” the IESL said.
-
-“The present practice of procuring renewable energy projects at higher prices through negotiated deals and at feed-in-tariffs that never decrease, has been further strengthened by incorporating it into the main electricity legislation in the country, when most countries have given up such practices long ago to make way for competition.
-
-“The proposed Act does not have clauses that bring any relief to Sri Lanka’s electricity customer, burdened with prices almost double that of competitor countries in the region.
-
-...
-
-[Data](articles/71872dc2.json)
-
-[Extended Data](ext_articles/71872dc2.ext.json)
-
----
-
-### SAITM and NFTH to be handed over to Moratuwa Uni. in August
-
-*2024-05-31 18:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/99567/saitm-and-nfth-to-be-handed-over-to-moratuwa-uni-in-august) · `en`
-
-The South Asian Institute of Technology (SAITM) and the Neville Fernando Teaching Hospital (NFTH) will be handed over to the Faculty of Medicine, University of Moratuwa in August, the President’s Media Division (PMD) reported.
-
-The decision was taken in order to make pre-arrangements for the University of Moratuwa before commencing academic studies in January 2025, according to the PMD.
-
-◼️
-
-[Data](articles/eadd8f5e.json)
-
-[Extended Data](ext_articles/eadd8f5e.ext.json)
 
 ---

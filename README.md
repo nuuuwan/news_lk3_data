@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-01 11:04:40**
+As of **2024-06-01 11:18:48**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 4,416
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,684 (100.0%) of 27,685 articles have been extended.
+27,685 (100.0%) of 27,685 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-01 (Saturday)
 
-### දිගු කලකට පසු දකුණු අප්‍රිකාවේ පාලනය බලය වෙනස් වෙන ලකුණු
+### Signs of the control of South Africa after a long time
 
 *2024-06-01 10:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197235) · `si`
 
-දකුණු අප්‍රිකාවේ මැතිවරණයේ දැනට නිකුත් වී ඇති ප්‍රතිඵල අනුව දිගු කලක් පාලනය කළ අප්‍රිකානු ජාතික කොංග්‍රසයට සිය පාර්ලිමේන්තු බහුතරය අහිමි වීමේ අවදානමක් මතුව තිබේ.
+After years of dominance, South Africa's African National Congress faces potential loss of its parliamentary majority, with 40.98% of the vote counted so far. The Democratic Alliance trails closely behind with 13.81%, and FF at 9.49%. Final results due soon, marking a shift from the ANC's post-1994 election dominance.
 
-විදෙස් වාර්තා සඳහන් කළේ ඡන්දය ප්‍රකාශ කරන දිස්ත්‍රික්කවලින් 91.62% කට වැඩි ප්‍රමාණයක, ගණන් කිරීම අවසන් වී ඇති අතර ඒ අනුව අප්‍රිකානු ජාතික කොංග්‍රසයට ලැබී ඇති ඡන්ද ප්‍රතිශතය දැනට 40.98% ක් බවය.
+🟩
 
-ප්‍රජාතන්ත්‍රවාදී සන්ධානය 21.65%කින් ද, හිටපු ජනාධිපති ජේකබ් සූමාගේ නායකත්වයෙන් යුත් එම් කේ පක්ෂය 13.81%කින් ද, එෆ් එෆ් 9.49%කින් ද පසුපසින් සිටින බව වාර්තා වේ.
+According to the results of South Africa, the long-ruled African National Congress, a long-ruled African National Congress, has a risk of loss of his parliamentary majority.
 
-අවසාන ප්‍රතිඵල සති අන්තයේ නිකුත් කිරීමට නියමිත අතර නෙල්සන් මැන්ඩෙලා ජනාධිපති බවට පත් වූ 1994 දී රටේ පළමු ප්‍රජාතන්ත්‍රවාදී මැතිවරණයෙන් පසු අප්‍රිකානු ජාතික කොංග්‍රසය සෑම මැතිවරණයකින්ම  50% ට වඩා වැඩි ඡන්ද ප්‍රමාණයක් ලබාගෙන තිබුණි.
+The counting has been completed in over 91.62% of the voters vote and the number of votes received by the African National Congress is 40.98%.
+
+It is reported that the Democratic Alliance (SLFP), led by former President Jacob Sukuma, has been following 13.81% and FF 9.49%.
+
+The final results are to be released on weekends and after the first democratic elections in 1994, the African National Congress had received more than 50% of every election after the first democratic elections in 1994.
 
 ◼️
 
 [Data](articles/d26fc48d.json)
+
+[Extended Data](ext_articles/d26fc48d.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-01 16:18:59**
+As of **2024-06-01 16:35:13**
 
 ## Newspaper Stats
 
-*Scraped **27,720** Articles*
+*Scraped **27,723** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,584
 dailyftlk | 1,635
 adalk | 2,363
 adaderanalk | 3,150
-tamilmirrorlk | 3,247
+tamilmirrorlk | 3,250
 virakesarilk | 4,277
 dailymirrorlk | 4,390
 adaderanasinhalalk | 4,426
@@ -26,15 +26,55 @@ adaderanasinhalalk | 4,426
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,719 (100.0%) of 27,720 articles have been extended.
+27,720 (100.0%) of 27,723 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-01 (Saturday)
 
-### பஸ், முச்சக்கரவண்டி கட்டணங்களில் மாற்றம்?
+### சா/த பெறுபேறு செப்டம்பர் வெளிவரும்
+
+*2024-06-01 16:14:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சா-த-பெறுபேறு-செப்டம்பர்-வெளிவரும்/175-338234) · `ta`
+
+2023 ஆம் ஆண்டுக்கான க.பொ.த சாதாரண தர பரீட்சை பெறுபேறுகள் செப்டெம்பர் மாதத்திற்குள் வெளியிடப்படும் என பரீட்சைகள் ஆணையாளர் அமித் ஜயசுந்தர தெரிவித்துள்ளார்.
+
+387,648 பாடசாலை பரீட்சார்த்திகளும் 65,331 தனியார் விண்ணப்பதாரர்களும் அடங்கலாக 452,979 பரீட்சார்த்திகள் இவ்வருடம் பரீட்சைக்குத் தோற்றியதாக அவர் கூறினார்.
+
+◼️
+
+[Data](articles/1f9dcbb6.json)
+
+---
+
+### Change on bus, three -wheeler fees?
 
 *2024-06-01 15:43:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பஸ்-முச்சக்கரவண்டி-கட்டணங்களில்-மாற்றம்/175-338233) · `ta`
+
+Ceylon Petroleum Corporation reduced fuel prices, affecting Sri Lanka IOC and Sinopac. Despite lower costs, private bus fares won't decrease due to operational constraints. The Sri Lanka Three Wheeler Association also stated that reduced fuel prices wouldn't lead to fare reductions for their services.
+
+🟩
+
+The Ceylon Petroleum Corporation has reduced the prices of some of its fuels with effect from midnight yesterday.
+
+With the revision of the price, the Sri Lanka IOC and its prices have been revised, and Sinopac has revised its fuel prices.
+
+However, the price of a liter of Otto Diesel selling Sinopac is 3 rupees lower than the Ciptco and IOC fuel.
+
+Private bus associations point out that there is no possibility of reduction in bus fares despite fuel prices.
+
+Meanwhile, the Sri Lanka Three Wheeler Association has said that the reduced fuel prices will not be reduced as they are not available to their services.. Remble
+
+◼️
+
+[Data](articles/13da248f.json)
+
+[Extended Data](ext_articles/13da248f.ext.json)
+
+---
+
+### பஸ், ஓட்டோ கட்டணங்களில் மாற்றம்?
+
+*2024-06-01 15:43:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பஸ்-ஓட்டோ-கட்டணங்களில்-மாற்றம்/175-338233) · `ta`
 
 இலங்கை பெற்றோலிய கூட்டுத்தாபனம் நேற்று (31) நள்ளிரவு முதல் அமுலுக்கு வரும் வகையில் தமது எரிபொருட்கள் சிலவற்றின் விலைகளை குறைத்துள்ளது.
 
@@ -48,7 +88,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ◼️
 
-[Data](articles/13da248f.json)
+[Data](articles/3f5afc03.json)
 
 ---
 
@@ -399,6 +439,26 @@ Customers say the fuel owners who learned that fuel prices were released yesterd
 [Data](articles/81ba497f.json)
 
 [Extended Data](ext_articles/81ba497f.ext.json)
+
+---
+
+### திடீரென புகுந்து  சரமாரியாக வெட்டிய கும்பல்
+
+*2024-06-01 13:30:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/திடீரென-புகுந்து-சரமாரியாக-வெட்டிய-கும்பல்/73-338232) · `ta`
+
+அக்கரைப்பற்று பொலிஸ் பிரிவிற்குட்பட்ட ஆலையடிவேம்பு பிரதேச செயலாளர் பிரிவில் வாச்சிக்குடா பகுதியில் நேற்றிரவு (31) இடம்பெற்ற வாள் வெட்டுச்சம்பவத்தில் 7 பேர் பலத்த காயங்களுடன் அக்கரைப்பற்று ஆதார வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+
+இன்னும் சில பொதுமக்கள் தாக்குதலுக்குள்ளானதுடன் வீடொன்றில் இருந்த பொருட்கள் சிலவும் அடித்து நொறுக்கப்பட்டுள்ளதுடன் வீதியால் சென்ற மோட்டார் சைக்கிள்களும் சேதத்திற்குள்ளாகியது.
+
+வாள்கள் தாங்கிய சிறு குழுவொன்றின் தாக்குதல் காரணமாகவே இவ்வாறு சேதம் ஏற்பட்டுள்ளதாக மக்கள் தெரிவிக்கின்றனர்.
+
+இதனால் வாச்சிக்குடா பகுதியில் வாழும் மக்கள் பெரும் அச்சத்திற்குள்ளாகியுள்ளதுடன் தங்களது பாதுகாப்பு கேள்விக்குறியாகியுள்ளதாகவும் கூறுகின்றனர்.
+
+வாள்கள் தாங்கிய சிறு குழுவானது ஒருவரை விரட்டி வந்த நிலையில் விரட்டப்பட்டு வந்தவர் அவரது சகோதரி வீட்டில் தஞ்சம் புகுந்துள்ளார். இதன் காரணமாக அவ்வீட்டினுள் நுழைந்து வாள் தாங்கிய குழுவானது அங்கிருந்தவர்கள் மீதும் தாக்குதல் நடாத்தியுள்ளது.
+
+...
+
+[Data](articles/77e25672.json)
 
 ---
 
@@ -2173,65 +2233,5 @@ Police Media Spokesperson DIG, Attorney -at -Law Mr. Nihal Talduwa said that the
 [Data](articles/38626c75.json)
 
 [Extended Data](ext_articles/38626c75.ext.json)
-
----
-
-### CA orders authorities to prosecute individuals who illegally kept elephants
-
-*2024-05-31 23:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/CA-orders-authorities-to-prosecute-individuals-who-illegally-kept-elephants/108-283818) · `en`
-
-Colombo, May 31 (Daily Mirror) -  The Court of Appeal today issued a Writ of Mandamus directing the Director General of Wildlife Conservation, CID, IGP and the Attorney General to take necessary steps to prosecute all individuals who illegally kept the elephants referred to the Colombo Chief Magistrate’s Court and Matale Magistrate’s Court, who have not been lawfully registered in terms of the law.
-
-The Court of Appeal Justices Sobhitha Rajakaruna and Justice Dhammika Ganepola delivered this judgement pursuant to four writ petitions filed by the Centre for Eco-Cultural Studies, Justice for Animals Sri Lanka and Centre for Environmental Justice challenging the registration of elephants in terms of the new regulations issued by the government.
-
-The Court further issued a Writ of Certiorari quashing the decision of the Chief Magistrate’s Court of Colombo and Magistrate’s Court in Matale, releasing elephants back to the perpetrators.
-
-...
-
-[Data](articles/256834a1.json)
-
-[Extended Data](ext_articles/256834a1.ext.json)
-
----
-
-### Sinapek changes the price
-
-*2024-05-31 23:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197228) · `si`
-
-Sinapek reduces petrol by Rs.10 to Rs.355/liter and diesel by Rs.13 to Rs.314/liter.
-
-🟩
-
-Accordingly, a liter of octan 92 petrol has been reduced by Rs.10 and its new price is Rs. 355.
-
-A liter of auto diesel has been reduced by Rs.13 and its new price is Rs. 314.
-
-◼️
-
-[Data](articles/667a699d.json)
-
-[Extended Data](ext_articles/667a699d.ext.json)
-
----
-
-### Ranil trying to open doors to economic hitmen like Elon Musk: Hadunnetti
-
-*2024-05-31 22:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ranil-trying-to-open-doors-to-economic-hitmen-like-Elon-Musk-Hadunnetti/108-283841) · `en`
-
-Colombo, May 31 (Daily Mirror)- President Ranil Wickremesinghe is trying to open doors to economic hitmen like billionaire Elon Musk, George Soros and James Packer by introducing the Economic Transformation Bill, NPP Economic Council member Sunil Hadunnetti said.
-
-Addressing a meeting with the business community in Badulla recently, he said President Ranil Wickremesinghe claimed that Elon Musk is coming to Sri Lanka to provide WIFI.
-
-"Ranil said in 2015 that free WIFI will be made available to all. He has now dropped the word 'free' and says WIFI will be given in 2024. Elon Musk will never give free WIFI," he said.
-
-He said Ranil Wickremesinghe claimed earlier that James Packer is coming to invest in Sri Lanka. But he never came with any investments.
-
-Hadunnetti said a publicity stunt is being operated through a separate company by using government funds to show that foreign investors are coming to the country.
-
-...
-
-[Data](articles/006c2f3a.json)
-
-[Extended Data](ext_articles/006c2f3a.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-01 15:03:46**
+As of **2024-06-01 15:18:42**
 
 ## Newspaper Stats
 
-*Scraped **27,713** Articles*
+*Scraped **27,715** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,67 @@ adaderanalk | 3,148
 tamilmirrorlk | 3,246
 virakesarilk | 4,277
 dailymirrorlk | 4,389
-adaderanasinhalalk | 4,423
+adaderanasinhalalk | 4,425
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,712 (100.0%) of 27,713 articles have been extended.
+27,713 (100.0%) of 27,715 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-01 (Saturday)
+
+### 13 හැවිරිදි සිසුන් දෙදෙනෙක් රු ලක්ෂ 2ක් සොරකම් කරයි
+
+*2024-06-01 15:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197246) · `si`
+
+වටවල හයිඩ්‍රි වතුයායේ නිවසක රුපියල් ලක්ෂ 02ක මුදලක් සොරකම් කිරීමේ සිද්ධියක් සම්බන්ධයෙන් සැකපිට 13 හැවිරිදි පාසල් සිසුන් දෙදෙනකු පොලීසිය භාරයට ගෙන තිබුණි.
+
+අද (01) එම සිසුන් දෙදෙනා සිය භාරයට ගත් බව වටවල පොලීසියේ වැඩබලන පොලිස් ස්ථානාධිපති පොලිස් පරීක්ෂක නුවන් මධුසංඛ මහතා පැවසීය.
+
+පසුගිය 28 වනදා සැකකාර පාසල් සිසුන් දෙදෙනා ඔවුන් පදිංචි නිවාස ආසන්නයේ පිහිටි තවත් නිවසක දොරගුළු විවෘත කර නිවස තුළට ඇතුළුවී එම මුදල සොරාගෙන ඇති බව වාර්තා වෙයි.
+
+සොරකම් කර එම මුදල්වලින් ජංගම දුරකථනයක්, ක්‍රිකට් පිත්තක් සහ බෝලයක්, පරවියන් 08 දෙනෙකු, විසිතුරු මසුන් ඇති කරන විදුරු ටැංකි දෙකක් මිලදී ගෙන ඇති බව පොලීසිය කියයි.
+
+මුදල් අස්ථානගතවීම සම්බන්ධයෙන් වටවල පොලීසියට ලද පැමිණිල්ලක් මත සිදුකළ විමර්ශනයකින් පසු සැකකාර පාසල් සිසුන් දෙදෙනා පොලිස් භාරයට ගෙන ප්‍රශ්න කිරිමේදී සොරකමේ තොරතුරු අනාවරණය වී ඇත.
+
+සොරාගන්නා මුදලින් රුපියල් 12,000ක මුදලක් සැකකාර පාසල් සිසුන් දෙදෙනා සන්තකයේ තිබූ බවත්, එම සිසුන් දෙදෙනා මිතුරන් බවත්, පොලීසිය පැවසීය.
+
+...
+
+[Data](articles/be34c9cd.json)
+
+---
+
+### බස් සහ ත්‍රීවිල් ගාස්තු අඩු කරන්න බැහැ කියයි
+
+*2024-06-01 15:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197245) · `si`
+
+ලංකා ඛනිජ තෙල් නීතිගත සංස්ථාව ඊයේ (31) මධ්‍යම රාත්‍රියේ සිට ක්‍රියාත්මක වන පරිදි ඉන්ධන වර්ග කිහිපයක මිල ගණන් අඩු කළේය.
+
+එම මිල සංශෝධනයට සමගාමීව ලංකා IOC සමාගම සිය මිල ගණන්ද සංශෝධනය කර ඇති අතර සයිනොපෙක් සමාගමද සිය ඉන්ධන මිල ගණන් සංශෝධනය කර තිබුණි.
+
+ඒ අනුව ඔක්ටේන් 92 පෙට්‍රල් ලීටරයක මිල රුපියල් 13කින් පහළ දමා ඇති අතර එහි නව මිල රුපියල් 355කි.
+
+සුදු ඩීසල් ලීටරයක මිල රුපියල් 16කින් අඩු කෙරුණු අතර එහි නව මිල රුපියල් 317ක් වෙයි.
+
+භූමිතෙල් මිල රුපියල් 13කින් පහළ දමා ඇති අතර එහි නව මිල රුපියල් 202කි.
+
+ඔක්ටේන් 95 පෙට්‍රල් සහ ලංකා සුපිරි ඩීසල් මිලෙහි වෙනසක් සිදු නොවන බව ඛනිජ තෙල් නීතිගත සංස්ථාව පැවසීය.
+
+කෙසේවෙතත් සයිනොපෙක් අලෙවි කරන  ඔටෝ ඩීසල් ලීටරයක මිල පවතින්නේ සිපෙට්කෝ සහ IOC ඉන්ධන මිලට වඩා රුපියල් 3ක් අඩුවෙනි.
+
+ඉන්ධන මිල පහත දැමුවද බස් ගාස්තු අඩු කිරීමට කිසිදු හැකියාවක් නොමැති බව පෞද්ගලික බස් සංගම් පෙන්වා දෙයි.
+
+ලංකා ත්‍රීරෝද රථ සංගමය පවසන්නේ අඩු කළ ඉන්ධන මිල සහනය තම සේවාවන් සඳහා නොලැබීම හේතුවෙන් ගාස්තු අඩු නොකරන බවය.
+
+◼️
+
+[Data](articles/71cc0722.json)
+
+---
 
 ### Earliest and most distant galaxy ever observed
 
@@ -49,6 +99,8 @@ Astronomers say the most interesting aspect of the latest observation is not so 
 ...
 
 [Data](articles/5a520df9.json)
+
+[Extended Data](ext_articles/5a520df9.ext.json)
 
 ---
 
@@ -2159,51 +2211,5 @@ In this backdrop, there was a broader conversation with the President Ranil Wick
 [Data](articles/dd177be5.json)
 
 [Extended Data](ext_articles/dd177be5.ext.json)
-
----
-
-### AI technology should be promoted to meet targets - President
-
-*2024-05-31 22:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197225) · `si`
-
-President Ranil Wickremesinghe advocates for the promotion of AI technology in Sri Lanka to boost future social and economic development. He emphasizes the need to avoid past mistakes in IT, focusing more on practical applications rather than just projects. By integrating AI, Sri Lanka aims to leverage technology for economic growth, moving towards a digital transformation that extends beyond mere projects to encompass socioeconomic change. This shift is crucial as the country transitions from an import to an export economy, with AI playing a pivotal role in this transformation.
-
-🟩
-
-President Ranil Wickremesinghe says he should promote modern techniques such as artificial intelligence to meet future social and economic goals.
-
-The President made these comments participating in a discussion with the introduction of AI technology to Sri Lanka.
-
-The President and the university students, lecturers, were held yesterday (30), a special discussion on introduction of artificial intellect.
-
-At the discussion held at the Presidential Secretariat, university students and lecturers expressed their views on artificial intelligence.
-
-Sri Lanka wants to jump a huge leap when considering technology. The technique is a lot of technology, and technical knowledge has not been used for economic benefits. New field is ai or artificial intelligence. We can't retain from AI section If we are proceeding with AI, the other technical knowledge will be able to improve. The main measure of the future is how we use AI.
-
-...
-
-[Data](articles/3c3b9725.json)
-
-[Extended Data](ext_articles/3c3b9725.ext.json)
-
----
-
-### எரிபொருட்களின் விலையில் அதிரடி திருத்தம்
-
-*2024-05-31 22:09:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எரிபொருட்களின்-விலையில்-அதிரடி-திருத்தம்/175-338209) · `ta`
-
-Petrol (Octane 92) price drops by 13 rupees to 355 per liter; diesel (Otto) now sells for 317 per liter from tonight.
-
-🟩
-
-Accordingly, the price of a liter of petrol by Octane 92 will be reduced by 13 rupees and the new price will be fixed at 355 rupees.
-
-Accordingly, a liter of Otto diesel will be sold for 317 rupees from midnight today.
-
-◼️
-
-[Data](articles/efd319e9.json)
-
-[Extended Data](ext_articles/efd319e9.ext.json)
 
 ---

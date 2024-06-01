@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-01 15:18:42**
+As of **2024-06-01 15:34:02**
 
 ## Newspaper Stats
 
-*Scraped **27,715** Articles*
+*Scraped **27,716** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,495
 economynextcom | 1,584
 dailyftlk | 1,635
 adalk | 2,363
-adaderanalk | 3,148
+adaderanalk | 3,149
 tamilmirrorlk | 3,246
 virakesarilk | 4,277
 dailymirrorlk | 4,389
@@ -26,59 +26,97 @@ adaderanasinhalalk | 4,425
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,713 (100.0%) of 27,715 articles have been extended.
+27,715 (100.0%) of 27,716 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-01 (Saturday)
 
-### 13 හැවිරිදි සිසුන් දෙදෙනෙක් රු ලක්ෂ 2ක් සොරකම් කරයි
+### Police arrest wanted ‘handler’ of 4 ISIS terrorists nabbed in India
+
+*2024-06-01 15:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/99578/police-arrest-wanted-handler-of-4-isis-terrorists-nabbed-in-india) · `en`
+
+Sri Lanka Police on Friday arrested the alleged ‘handler’ of four Sri Lankan suspected ISIS terrorists, who were taken into custody in Gujarat’s Ahmedabad Airport.
+
+The 46-year-old suspect, Osman Pushparaja Gerard, was arrested following a joint operation by the Criminal Investigation Department (CID) and the Terrorist Investigation Division (TID) in Colombo.
+
+After the arrests of four suspects by the Gujarat Anti-Terrorist Squad (ATS) for having links with terrorist outfit ISIS, Sri Lanka launched a high-level investigation with the participation of two main intelligence branches of the police, the CID and the Terrorist Investigation Division (TID) and other military intelligence services.
+
+In the hunt for Osman or the coordinator of four ISIS suspects, earlier Sri Lanka Police offered a cash reward of Rs. 02 million to any informant.
+
+However, he was subsequently arrested last night (May 31) based on information received that the suspect was in hiding in Colombo.
+
+...
+
+[Data](articles/d5c4b06e.json)
+
+---
+
+### Two 13-year-old students steal Rs
 
 *2024-06-01 15:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197246) · `si`
 
-වටවල හයිඩ්‍රි වතුයායේ නිවසක රුපියල් ලක්ෂ 02ක මුදලක් සොරකම් කිරීමේ සිද්ධියක් සම්බන්ධයෙන් සැකපිට 13 හැවිරිදි පාසල් සිසුන් දෙදෙනකු පොලීසිය භාරයට ගෙන තිබුණි.
+Two 13-year-old girls were arrested for allegedly stealing Rs. 12,000. They spent the money on a mobile phone, cricket gear, and birds. The theft was reported missing, leading to their arrest.
 
-අද (01) එම සිසුන් දෙදෙනා සිය භාරයට ගත් බව වටවල පොලීසියේ වැඩබලන පොලිස් ස්ථානාධිපති පොලිස් පරීක්ෂක නුවන් මධුසංඛ මහතා පැවසීය.
+🟩
 
-පසුගිය 28 වනදා සැකකාර පාසල් සිසුන් දෙදෙනා ඔවුන් පදිංචි නිවාස ආසන්නයේ පිහිටි තවත් නිවසක දොරගුළු විවෘත කර නිවස තුළට ඇතුළුවී එම මුදල සොරාගෙන ඇති බව වාර්තා වෙයි.
+Two-year-old schoolgirls were taken into custody in connection with the suspection of stealing Rs.
 
-සොරකම් කර එම මුදල්වලින් ජංගම දුරකථනයක්, ක්‍රිකට් පිත්තක් සහ බෝලයක්, පරවියන් 08 දෙනෙකු, විසිතුරු මසුන් ඇති කරන විදුරු ටැංකි දෙකක් මිලදී ගෙන ඇති බව පොලීසිය කියයි.
+Acting OIC of the Watawala Police Inspector Nuwan Madusukha said that the two students were taken into custody today.
 
-මුදල් අස්ථානගතවීම සම්බන්ධයෙන් වටවල පොලීසියට ලද පැමිණිල්ලක් මත සිදුකළ විමර්ශනයකින් පසු සැකකාර පාසල් සිසුන් දෙදෙනා පොලිස් භාරයට ගෙන ප්‍රශ්න කිරිමේදී සොරකමේ තොරතුරු අනාවරණය වී ඇත.
+The two suspects were opened in another house near their homes on the 28th.
 
-සොරාගන්නා මුදලින් රුපියල් 12,000ක මුදලක් සැකකාර පාසල් සිසුන් දෙදෙනා සන්තකයේ තිබූ බවත්, එම සිසුන් දෙදෙනා මිතුරන් බවත්, පොලීසිය පැවසීය.
+The suspects have been purchased by a mobile phone, cricket bind and ball, eight pigeons, and eight pigeons tanks.
+
+The suspects revealed theft after a complaint lodged with a complaint lodged with a complaint lodged in the Warewala Police regarding the misplace of the money.
+
+The two students were in possession of Rs. 12,000 and the two students were friends.
+
+Meanwhile, they have gone to a mobile phone outlet in Hatton and bought a phone from the money made.
+
+The owner of the telephone marketing has been sold to a mobile phone of Rs.
+
+The two school children have been arrested by the Hatton, a resident of Hatton who sold the mobile phone call for heavy price.
 
 ...
 
 [Data](articles/be34c9cd.json)
 
+[Extended Data](ext_articles/be34c9cd.ext.json)
+
 ---
 
-### බස් සහ ත්‍රීවිල් ගාස්තු අඩු කරන්න බැහැ කියයි
+### Tims and three-wheelers cannot reduce
 
 *2024-06-01 15:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197245) · `si`
 
-ලංකා ඛනිජ තෙල් නීතිගත සංස්ථාව ඊයේ (31) මධ්‍යම රාත්‍රියේ සිට ක්‍රියාත්මක වන පරිදි ඉන්ධන වර්ග කිහිපයක මිල ගණන් අඩු කළේය.
+Ceylon Petroleum Corporation and Lanka IOC have reduced fuel prices as of midnight on January 31. Octane 92 petrol now costs Rs. 355 per liter, down from Rs. 368, while white diesel is Rs. 317 less at Rs. 1,634 per liter. Kerosene is priced at Rs. 202, a decrease of Rs. 13. However, prices for 95 petrol and diesel remain unchanged. The reduction does not affect private bus fares or the operations of the Lanka Three-Wheeler Association, citing service continuity despite lower fuel costs.
 
-එම මිල සංශෝධනයට සමගාමීව ලංකා IOC සමාගම සිය මිල ගණන්ද සංශෝධනය කර ඇති අතර සයිනොපෙක් සමාගමද සිය ඉන්ධන මිල ගණන් සංශෝධනය කර තිබුණි.
+🟩
 
-ඒ අනුව ඔක්ටේන් 92 පෙට්‍රල් ලීටරයක මිල රුපියල් 13කින් පහළ දමා ඇති අතර එහි නව මිල රුපියල් 355කි.
+The Ceylon Petroleum Corporation reduced the prices of several fuel from midnight yesterday (31).
 
-සුදු ඩීසල් ලීටරයක මිල රුපියල් 16කින් අඩු කෙරුණු අතර එහි නව මිල රුපියල් 317ක් වෙයි.
+Lanka IOC has revised its prices and the company has been amended by the company.
 
-භූමිතෙල් මිල රුපියල් 13කින් පහළ දමා ඇති අතර එහි නව මිල රුපියල් 202කි.
+Accordingly, the price of a liter of octan 92 petrol has been reduced by 13 rupees and its price is Rs. 355.
 
-ඔක්ටේන් 95 පෙට්‍රල් සහ ලංකා සුපිරි ඩීසල් මිලෙහි වෙනසක් සිදු නොවන බව ඛනිජ තෙල් නීතිගත සංස්ථාව පැවසීය.
+The price of a liter of white diesel was reduced by Rs. 317.
 
-කෙසේවෙතත් සයිනොපෙක් අලෙවි කරන  ඔටෝ ඩීසල් ලීටරයක මිල පවතින්නේ සිපෙට්කෝ සහ IOC ඉන්ධන මිලට වඩා රුපියල් 3ක් අඩුවෙනි.
+Kerosene has dropped to Rs 13 rupees and its price is Rs. 202.
 
-ඉන්ධන මිල පහත දැමුවද බස් ගාස්තු අඩු කිරීමට කිසිදු හැකියාවක් නොමැති බව පෞද්ගලික බස් සංගම් පෙන්වා දෙයි.
+The Petroleum Corporation said that the 95 petrol and Sri Lanka's prices would not change.
 
-ලංකා ත්‍රීරෝද රථ සංගමය පවසන්නේ අඩු කළ ඉන්ධන මිල සහනය තම සේවාවන් සඳහා නොලැබීම හේතුවෙන් ගාස්තු අඩු නොකරන බවය.
+However, the price of a litto diesel selling a Sinaperic, however, lasts a liter of nipetco and IOC fuel.
+
+Private buses point out that the fuel prices are downloaded but no availability of bus fares.
+
+The Lanka Three-wheeler Association says that reduced fuel prices will not be reduced due to the lack of services.
 
 ◼️
 
 [Data](articles/71cc0722.json)
+
+[Extended Data](ext_articles/71cc0722.ext.json)
 
 ---
 
@@ -2181,35 +2219,5 @@ Police Media Spokesperson DIG, Attorney Nihal Thali, said that the Trophy Invest
 [Data](articles/d8938f7b.json)
 
 [Extended Data](ext_articles/d8938f7b.ext.json)
-
----
-
-### Last decision on Starlink next week
-
-*2024-05-31 22:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197226) · `si`
-
-The final decision on Starlink's implementation in Sri Lanka will be announced next week. The service, facilitated by SpaceX CEO Elon Musk, aims to provide internet access to remote areas via satellite technology, bypassing the need for fiber optic cables. This initiative is part of a broader discussion involving President Ranil Wickremesinghe and concerns about cybersecurity. Sri Lanka is among the top 20 countries eligible for Starlink's affordable internet services.
-
-🟩
-
-State Minister Kanaka Herath says that the final verdict on the implementation of the License on the implementation of the License on the Sri Lankan service.
-
-The State Minister further stated that such a request has been made for internet facilitation services through the satellite technology and the necessary legal drafts are being implemented.
-
-Starlink Internet service was launched through the world's richest and Supreme Technology entrepreneur, an entrepreneur of technology, Eocer.
-
-Instead of using Fiber Optic Cables through the Starlink project, the exchange of data transferred through a satellite traveling at nearly 27,000 kilometers per hour.
-
-Starlink opens online users to access Internet users who live in remote areas.
-
-By 2024, 6,874 satellites were ordenting that 5,800 satellites are in operation.
-
-In this backdrop, there was a broader conversation with the President Ranil Wickremesinghe and Ecom between President Ranil Wickremesinghe and Elon meal was found in the Indanician.
-
-...
-
-[Data](articles/dd177be5.json)
-
-[Extended Data](ext_articles/dd177be5.ext.json)
 
 ---

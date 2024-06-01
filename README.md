@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-01 09:05:19**
+As of **2024-06-01 09:18:38**
 
 ## Newspaper Stats
 
-*Scraped **27,669** Articles*
+*Scraped **27,673** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,583
 dailyftlk | 1,635
 adalk | 2,360
 adaderanalk | 3,143
-tamilmirrorlk | 3,240
+tamilmirrorlk | 3,244
 virakesarilk | 4,272
 dailymirrorlk | 4,378
 adaderanasinhalalk | 4,412
@@ -26,11 +26,65 @@ adaderanasinhalalk | 4,412
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,668 (100.0%) of 27,669 articles have been extended.
+27,669 (100.0%) of 27,673 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-01 (Saturday)
+
+### உள்நாட்டு துப்பாக்கியுடன் ஒருவர் கைது
+
+*2024-06-01 09:04:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/உள்நாட்டு-துப்பாக்கியுடன்-ஒருவர்-கைது/76-338230) · `ta`
+
+அம்பேவல பகுதியில் உள்ள வீடொன்றில் இருந்து உள்ளூரில் தயாரிக்கப்பட்ட துப்பாக்கியுடன் நபரொருவரை நேற்று  (31) கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர் .
+
+நுவரெலியா அம்பேவல 7 ஆம் கட்டை பகுதியைச் சேர்ந்த 33 வயதுடைய ஒருவரே இவ்வாறு கைது செய்யப்பட்டுள்ளார்.
+
+குறித்த நபரின் வீட்டில் துப்பாக்கி இருப்பதாக நுவரெலியா பொலிஸாருக்கு கிடைக்கப்பெற்ற இரகசிய தகவலுக்கு அமைய பொலிஸார் குறித்த வீட்டை சுற்றி வளைத்து சோதனை நடவடிக்கையினை மேற்கொண்டு  வீட்டில் மறைத்து வைக்கப்பட்டிருந்த துப்பாக்கியை பொலிஸார் கண்டுபிடித்து மீட்டுள்ளனர்.
+
+மேலும் கைது செய்யப்பட்ட சந்தேகநபரை மேலதிக விசாரணையின் பின்னர்  நுவரெலியா மாவட்ட  நீதவான் நீதிமன்றில் ஆஜர் படுத்துவதற்கான நடவடிக்கைகளை மேற்கொண்டு வருவதாக நுவரெலியா பொலிஸார் தெரிவித்துள்ளனர். R
+
+◼️
+
+[Data](articles/3c61eef3.json)
+
+---
+
+### தமிழரசு கட்சி விவகாரம் வழக்கு ஒத்திவைப்பு
+
+*2024-06-01 08:55:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/தமிழரசு-கட்சி-விவகாரம்-வழக்கு-ஒத்திவைப்பு/75-338228) · `ta`
+
+இலங்கைத் தமிழரசுக் கட்சியின் புதிய நிர்வாகிகள் தெரிவிற்கு எதிராக,திருகோணமலை மாவட்ட நீதிமன்றம் ஏற்கனவே விதித்திருந்த கட்டாணை உத்தரவு, மீண்டும் ஜூலை19 ந் திகதி வரை நீடிக்கப்பட்டுள்ளது.
+
+வழக்கு மே 31ஆம் திகதி மீண்டும் மன்றில் எடுத்துக்கொள்ளப்பட்ட வழக்கில்,எதிராளிகள் மற்றும் வழக்காளி ஆகியோருக்கிடையில் வழக்கை,சமரசமாக இருதரப்பு உடன்பாட்டுடன் முடிவுக்கு கொண்டுவர இணக்கம் காணப்பட்ட போதும்,அனைத்து எதிராளிகள் மற்றும் வழக்காளியின் உடன்பாட்டிற்கான,எழுத்து பூர்வ சமர்ப்பணங்களை மன்றிற்கு முன் வைப்பதற்கு கால அவகாசம் இரு தரப்பாலும் கோரப்பட்டது.
+
+◼️
+
+[Data](articles/43471594.json)
+
+---
+
+### A/L பெறுபேறுகள் இடைநிறுத்தியமை இனப் பாகுபாட்டின் வெளிப்பாடு
+
+*2024-06-01 08:54:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/A-L-பெறுபேறுகள்-இடைநிறுத்தியமை-இனப்-பாகுபாட்டின்-வெளிப்பாடு/75-338227) · `ta`
+
+திருகோணமலை - சாஹிரா கல்லூரி மாணவிகளின் பெறுபேறுகள் இடைநிறுத்தம் இனப் பாகுபாட்டின் வெளிப்பாடு என ஐக்கிய மக்கள் சக்தியின் திருகோணமலை மாவட்ட பாராளுமன்ற உறுப்பினர் இம்ரான் மகரூப் தெரிவித்துள்ளார்.
+
+“பரீட்சை மண்டபத்தில் தமது காதுகளை மூடி பரீட்சை எழுதினார்கள் என்ற குற்றச் சாட்டின் பேரிலேயே இந்த இடைநிறுத்தம் இடம்பெற்றுள்ளது.
+
+காதுகளை மூடி பரீட்சை எழுதியமை பரீட்சை மண்டபத்தில் கவனித்திருக்க வேண்டிய விடயம். அது ஏனைய பரீட்சார்த்திகளை பாதிக்கின்ற விடயமும் அல்ல.
+
+இந்த விடயங்களை சகல தரப்பினருக்கும் தெளிவு படுத்திய பின்னரும் பெறுபேறு இடைநிறுத்தப்பட்டுள்ளமை பாரிய சந்தேகத்தை ஏற்படுத்துகின்றது.
+
+சாஹிரா கல்லூரியின் வளர்ச்சியை சகிக்க முடியாதவர்களின் இனப் பாகுபாட்டின் வெளிப்பாடு இதுவென்பது மிகத் தெளிவாகத் தெரிகின்றது.
+
+பரீட்சை மண்டபத்தில் தீர்க்கப் பட்டிருக்க வேண்டிய இந்த விடயத்தை பெறுபேற்றை இடைநிறுத்தும் அளவுக்கு கொண்டு சென்ற பரீட்சை மேற்பார்வையாளரின் மனநிலையை இதன் மூலம் புரிந்து கொள்ள முடிகின்றது.
+
+...
+
+[Data](articles/208bc614.json)
+
+---
 
 ### Knives in Germany - 6 injured
 
@@ -267,6 +321,28 @@ It is noteworthy that Nadesan was shot dead in Batticaloa on May 31, 2004.
 [Data](articles/c05769b1.json)
 
 [Extended Data](ext_articles/c05769b1.ext.json)
+
+---
+
+### இளம் பிரதிநிதிகளுடன் ஜனாதிபதி சந்திப்பு
+
+*2024-06-01 02:15:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இளம்-பிரதிநிதிகளுடன்-ஜனாதிபதி-சந்திப்பு/175-338226) · `ta`
+
+ஜனாதிபதி ரணில் விக்கிரமசிங்க மற்றும் இளம் பிரதிநிதிகளுக்கு இடையிலான சந்திப்பொன்று நேற்று முன்தினம் ஜனாதிபதியின் உத்தியோகபூர்வ வாசஸ்தலத்தில் நடைபெற்றது.
+
+ஜனாதிபதி செயலகத்தின் ஏற்பாட்டில் முன்னெடுக்கப்பட்டு வரும் இளையோரின் பங்கேற்புடனான நிகழ்வுகளின் ஒரு அங்கமாக 'இளையோர் கலந்துரையாடல் – நாளை இலங்கையின் இளம் தலைவர்கள்' என்ற தொனிப்பொருளின் கீழ் இந்த நிகழ்வு ஏற்பாடு செய்யப்பட்டிருந்தது.
+
+அரசாங்கத்தினால் முன்னெடுக்கப்பட்டு வரும் புதிய பொருளாதார மறுசீரமைப்பு மற்றும் சீர்த்திருத்த முயற்சிகள் தொடர்பில் இங்கு கலந்துரையாடப்பட்டது.
+
+இலங்கையின் வெற்றிகரமான எதிர்கால பயணத்திற்கு இளையோரின் பங்களிப்பு மிக முக்கியமானது என்றும் ஜனாதிபதி ரணில் விக்கிரமசிங்க இதன்போது வலியுறுத்தினார்.
+
+இளையோர் எழுப்பிய கேள்விகளுக்கு பதில்களை வழங்கிய ஜனாதிபதி, எதிர்கால இலங்கையைக் கட்டியெழுப்புவதற்கான இளைஞர்களின் முயற்சிக்கும் பாராட்டு தெரிவித்தார்.
+
+இதன்போது நாட்டின் எதிர்காலத்திற்கான முயற்சிகளுக்கான இளையோரின் யோசனைகளையும், பரிந்துரைகளையும் பெற்றுக்கொள்வதற்கான பொறிமுறை ஒன்றை செயற்படுத்துமாறு ஜனாதிபதி அதிகாரிகளுக்கு அறிவுறுத்தினார். (a)
+
+◼️
+
+[Data](articles/0f619338.json)
 
 ---
 
@@ -2089,103 +2165,5 @@ Educations, recreation and culture, while food, clothing and also transport seem
 [Data](articles/57b8fb82.json)
 
 [Extended Data](ext_articles/57b8fb82.ext.json)
-
----
-
-### Dilshan Rodrigo made Chief Executive of Sri Lanka’s Union Bank
-
-*2024-05-31 17:30:00* · [`economynextcom`](https://economynext.com/dilshan-rodrigo-made-chief-executive-of-sri-lankas-union-bank-165634/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Union Bank of Colombo Plc said Dilshan Rodrigo, an experienced banker, has been appointed Director/CEO, succeeding Indrajit Wickramasinghe who held the position for 9 years.
-
-Rodrigo is a banker with a track record of senior leadership roles across multiple industries and previously served as executive director/chief operating officer at Hatton National Bank.
-
-He is the current Deputy CEO, and will assume the role of Director/CEO of Union Bank on August 16, subject to regulatory approvals. Rodrigo will spearhead the organization’s next phase of growth.
-
-Wickramasinghe is an accomplished professional with a successful management career spanning over 35 years across local and multinational organizations in the FMCG and financial services sectors.
-
-He has held numerous non-executive board appointments in sectors such as insurance, wealth management, stock brokering, property management, finance companies, and commercial banking.
-
-...
-
-[Data](articles/324a3af4.json)
-
-[Extended Data](ext_articles/324a3af4.ext.json)
-
----
-
-### Work on Kurunegala Foreign Employment Agency
-
-*2024-05-31 17:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197218) · `si`
-
-The Sri Lanka Bureau of Foreign Employment (SLBFE) arrested officials from the Kurunegala Foreign Employment Agency, accused of illegal operations. The agency, located on Suretississa Mawatha, MMB, Kurunegala, allegedly recruited workers for Saudi Arabia, Oman, Kuwait, and other Middle Eastern countries. Authorities seized 110 passports and employment applications during the arrest. The suspects were presented in court. SLBFE advises checking www.slbfe.gov.lk or calling 1989 for verification of job agencies.
-
-🟩
-
-The Sri Lanka Bureau of Foreign Employment (SLBFE) has been arrested by the Sri Lanka Bureau of Foreign Employment today.
-
-The illegal employment institute has been operated by MMB, Kurunegala, Suretississa Mawatha.
-
-It has been revealed that the recruitment of Saudi Arabia, Oman, Kuwait and the Middle East countries.
-
-Officers have been taken into custody, including 110 passports and employment applications.
-
-The suspect was produced before the Kurunegala Magistrate's Court today.
-
-WWW.SLBFE to find out if a company or a person has a valid job agency to recruit a foreign employment or a valid job agency to get a foreign employment for foreign employment.The Bureau urges foreign employment seekers to obtain information by visiting the LK website or the 1989 instant call number.
-
-◼️
-
-[Data](articles/0895e3c9.json)
-
-[Extended Data](ext_articles/0895e3c9.ext.json)
-
----
-
-### Indian Prime Minister Narendra Modi
-
-*2024-05-31 17:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/184982) · `ta`
-
-Indian PM Narendra Modi meditates at Vivekananda's memorial in Kanyakumari, sparking online discussions. Despite criticism, no BJP leaders greeted him due to advice against politicizing the visit. His actions, especially during election season, are closely watched.
-
-🟩
-
-Indian Prime Minister Narendra Modi continues to meditate at Vivekananda's memorial in Kanyakumari and is going viral on the internet.
-
-Indian Prime Minister Narendra Modi, who visits Kanyakumari, the southern part of Tamil Nadu, has gone through a separate boat to the Vivekananda rock and engaged in a series of meditation at the Vivekananda Memorial Hall.
-
-He started his meditation last night at seven o'clock last night.
-
-Various negative criticism has been posted throughout the Internet about the media released.
-
-None of the BJP leaders went to welcome Indian Prime Minister Narendra Modi to Kanyakumari. Leading executives of the party have said that none of the BJP leaders have participated in the gathering of the Prime Minister as the party's leadership advised not to turn it into a political event.
-
-...
-
-[Data](articles/a81d694f.json)
-
-[Extended Data](ext_articles/a81d694f.ext.json)
-
----
-
-### Maldives FM to discuss enhancing support for citizens in Sri Lanka during upcoming visit
-
-*2024-05-31 17:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/99566/maldives-fm-to-discuss-enhancing-support-for-citizens-in-sri-lanka-during-upcoming-visit) · `en`
-
-The Minister of Foreign Affairs of Maldives Moosa Zameer is scheduled to travel to Sri Lanka for an official visit from June 03 to 06, Maldivian media reported.
-
-The visit is being undertaken on the invitation of his Sri Lankan counterpart, Foreign Minister Ali Sabry, it said.
-
-During the visit, Minister Zameer will have a courtesy visit with the President of Sri Lanka Ranil Wickremesinghe and Prime Minister of Sri Lanka Dinesh Gunawardena, a statement released by the Foreign Ministry of Maldives said.
-
-Zameer will also hold bilateral discussions with Foreign Minister Sabry, which will include deliberations on provision of further conveniences to Maldivians residing in Sri Lanka.
-
-Maldives Minister of State for Foreign Affairs Sheryna Abdul Samad, Additional Secretary Shiruzimath Sameer and Director General Aishath Fareena will be accompanying the Minister on this trip.
-
-...
-
-[Data](articles/d167149d.json)
-
-[Extended Data](ext_articles/d167149d.ext.json)
 
 ---

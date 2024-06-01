@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-01 19:03:39**
+As of **2024-06-01 19:19:01**
 
 ## Newspaper Stats
 
-*Scraped **27,739** Articles*
+*Scraped **27,745** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 1,495
 economynextcom | 1,584
 dailyftlk | 1,635
 adalk | 2,363
-adaderanalk | 3,154
+adaderanalk | 3,155
 tamilmirrorlk | 3,250
-virakesarilk | 4,277
+virakesarilk | 4,282
 dailymirrorlk | 4,396
 adaderanasinhalalk | 4,432
 
@@ -26,11 +26,29 @@ adaderanasinhalalk | 4,432
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,739 (100.0%) of 27,739 articles have been extended.
+27,739 (100.0%) of 27,745 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-01 (Saturday)
+
+### Tharushi and Aruna clinch gold at Taiwan Athletics Open
+
+*2024-06-01 18:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/99583/tharushi-and-aruna-clinch-gold-at-taiwan-athletics-open) · `en`
+
+Sri Lankan sprinter Aruna Dharshana won gold in the Men’s 400m event at the Taiwan Athletics Open 2024.
+
+Dharshana claimed first place in the final on Saturday (01) with a timing of 45.82 seconds.
+
+Meanwhile, Sri Lanka’s Tharushi Karunarathne also won gold in the Women’s 400m event with a timing of 52.48 seconds at the Taiwan Athletics Open – 2024.
+
+Taiwan Athletics Open is a bronze-level tournament on the World Athletics Continental Tour with crucial ranking points.
+
+◼️
+
+[Data](articles/01756023.json)
+
+---
 
 ### Aruna and Tharushi first place in 400m events
 
@@ -302,6 +320,32 @@ The Welipenna Interchange of the Southern Expressway has been closed until furth
 
 ---
 
+### 2024 லோக்சபா தேர்தல் பிரசாரங்களில் ஈடுபட்டவர் முன்னர் கண்டிராத மோடி
+
+*2024-06-01 16:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/185045) · `ta`
+
+இந்திய லோக்சபா தேர்தல் முடிவடைந்து முடிவுகளும் வெளியாக விருக்கின்றன.  இந்த தடவை பொதுத்தேர்தல் பிரசாரங்கள் எவ்வாறு நடைபெற்றன. நாம் நினைத்துப் பார்த்ததற்கு முற்றிலும் வேறுபட்ட முறையிலேயே அவை நடந்துமுடிந்தன.
+
+இந்த தேர்தலில் வெற்றிபெறுவது பாரதிய ஜனதா கட்சிக்கு வெகு  சுலபமான காரியம் என்றும் பிரதமர் நரேந்திர தாமோதரதாஸ் மோடியைப் பொறுத்தவரை தனது  மூன்றாவது முடிசூட்டு  வைபவத்துக்கு முன்னதாக ஒரு சிறிய பணியாவே பிரசாரங்களை அவர் கருதுவார் என்றும் பெரும்பாலான மக்கள்  நினைத்தார்கள். எதிர்க்கட்சிகளை அலட்சியம் செய்து தனது பத்து வருடகால ஆட்சியின் சாதனைகளை மக்களுக்கு எடுத்துக்கூறி அவர்களிடமிருந்து ஆரவாரமான வரவேற்பை அவர் பெற்று மீண்டும் பெருமையுடன் பிரதமராவார் என்றே நாம் நினைத்தோம்.
+
+...
+
+[Data](articles/d0b83fb1.json)
+
+---
+
+### பூகோள பெறுமதி சங்கிலி உற்பத்தியில் இலங்கை எப்போது இணைந்துகொள்ளும்?
+
+*2024-06-01 16:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/185055) · `ta`
+
+தற்போதைய சூழலில் ஒரு அப்பிள் கையடக்கத் தொலைபேசியை உற்பத்தி செய்வதில் 43 நாடுகள் சம்பந்தப்படுவதாக தெரிவிக்கப்படுகின்றது.  அப்படியானால் உற்பத்திகள் பூகோளமயமாகிவருகின்றன. உற்பத்தியில் சகல நாடுகளும் பங்கேற்கின்றன. இந்நிலையில் இந்த பூகோள பெறுமதி சங்கிலி உற்பத்தி கட்டமைப்பில் இலங்கை எப்போது இணைந்துகொள்ளும் என்பதே முக்கிய கேள்வியாகவுள்ளது.
+
+◼️
+
+[Data](articles/a691a439.json)
+
+---
+
 ### The results of the results will be released September
 
 *2024-06-01 16:14:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சா-த-பெறுபேறு-செப்டம்பர்-வெளிவரும்/175-338234) · `ta`
@@ -322,6 +366,24 @@ He said that 452,979 candidates appeared for the exam this year, including 387,6
 
 ---
 
+### அடுத்த 50ஆண்டுகளில் மட்டக்களப்பு மாவட்டத்தில் கண்டுபிடிப்புகளும் ஆராய்ச்சியாளர்களையும் உருவாக்கும் இடமாக பொதுநூலகம் விளங்கும் - சிவநேசதுரை சந்திரகாந்தன்
+
+*2024-06-01 16:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/185057) · `ta`
+
+அடுத்த 50ஆண்டுகளில் மட்டக்களப்பு மாவட்டத்தில் கண்டுபிடிப்புகளும் ஆராய்ச்சியாளர்களையும் உருவாக்கும் இடமாக பொதுநூலகம் விளங்கும் என இராஜாங்க அமைச்சர் சிவநேசதுரை சந்திரகாந்தன் தெரிவித்தார்.
+
+மட்டக்களப்பில் அமைக்கப்பட்டுவரும் ஆசியாவின் பிரமாண்ட நூலகத்திற்காக நூல்களை சேகரிக்கும் வகையில் புத்தக திருவிழா என்னும் நிகழ்வின் ஊடாக புத்தகங்களை சேகரிக்கும் பணிகள் இன்று சனிக்கிழமை ஆரம்பித்துவைக்கப்பட்டுள்ளன.
+
+இராஜாங்க அமைச்சர் சந்திரகாந்தனின் முயற்சியினால் மட்டக்களப்பில் இந்த பிரமாண்ட நூலகம் அமைக்கப்பட்டுவரும் நிலையில் அதன் நிர்மாண பணிகள் பூர்த்தியாக்கப்பட்டு விரைவில் திறப்பு விழா காணவுள்ள நிலையில் இந்த நூல் சேகரிக்கும் பணிகள் ஆரம்பித்துவைக்கப்பட்டுள்ளது.
+
+மட்டக்களப்பு நூலக புத்தக வள ஒருங்கிணைப்புக்குழுவின் ஏற்பாட்டில் அதன் தலைவர் மு.பவளகாந்தன் தலைமையில் நடைபெற்ற இந்த நிகழ்வில் பிரதம அதிதியாக இராஜாங்க அமைச்சர் சிவநேசதுரை சந்திரகாந்தன் கலந்துகொண்டார்.
+
+...
+
+[Data](articles/5cc60390.json)
+
+---
+
 ### GCE (O/L) 2023 results to be released by September
 
 *2024-06-01 15:58:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/GCE-OL-2023-results-to-be-released-by-September/108-283884) · `en`
@@ -335,6 +397,22 @@ He said that 452,979 candidates sat for the examination this year, including 387
 [Data](articles/5eb1c035.json)
 
 [Extended Data](ext_articles/5eb1c035.ext.json)
+
+---
+
+### பாடசாலையின் 102 வருட கால வரலாற்றை மாற்றி அமைத்த அல் இக்பால் மகாவித்தியாலய மாணவிகள்
+
+*2024-06-01 15:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/185056) · `ta`
+
+பாடசாலையின் 102 வருட கால வரலாற்றை வவுனியா அல் இக்பால் மகாவித்தியாலய மாணவிகள் இருவர் மாற்றி அமைத்து சாதனை படைத்துள்ளனர்.
+
+வவுனியா தெற்கு வலயத்திற்குட்பட்ட சூடுவெந்தபுலவு அல் இக்பால் மகாவித்தியாலயம் ஆரம்பிக்கப்பட்டு 102 ஆண்டுகள் நிறைவடைந்துள்ள நிலையில் வெளியாகிய உயர்தரப் பரீட்சைப் பெறுபேற்றில் முதன் முறையாக பாடசாலை அதிபர் ஏ.கே.உபைத் அவர்களின் வழிகாட்டலில் இப் பாடசாலையில் இரு மாணவிகள் கலைப் பிரிவில் 3ஏ சித்திகளைப் பெற்று சாதனை படைத்துள்ளனர்.
+
+அந்தவகையில் நஹார் பாத்திமா சுஹா என்ற மாணவி தமிழ், புவியியல், வரலாறு ஆகிய பாடங்களை கற்று 3ஏ சித்தியைப் பெற்று மாவட்ட மட்டத்தில் 12 ஆவது நிலையைப் பெற்றுள்ளார்.
+
+...
+
+[Data](articles/8a5c56db.json)
 
 ---
 
@@ -568,6 +646,30 @@ The two school children have been arrested by the Hatton, a resident of Hatton w
 
 ---
 
+### மிச்செல் ஒபாமாவின் தாயார் மரியன் ரொபின்சன் காலமானார்
+
+*2024-06-01 15:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/185043) · `ta`
+
+அமெரிக்காவின் முன்னாள் முதல் பெண்மணி மிச்செல் ஒபாமாவின் தாயார் மரியன் ரொபின்சன் 86 வயதில் காலமானார்.
+
+தனது தாயின்  இறப்பு செய்தி குறித்து  மிச்செல் ஒபாமா எக்ஸ் தளத்தில் வெளியிட்டுள்ள அறிக்கையில்,
+
+"எங்கள் முழு குடும்பத்திற்கும் அவர் உறுதுணையாக இருந்தார். இன்று அவர் உயிரிழந்தது விட்டார் என்பதை பகிர்ந்து கொள்வதில் நாங்கள் மனம் உடைந்துள்ளோம்" என தெரிவித்துள்ளார்.
+
+பாராக் ஒபாமா மனைவியின் தாயாரின் உயிரிழப்பு குறித்து, ஒரு மரியன் ரொபின்சன் மட்டுமே இருந்தார்  இருப்பார் என குறிப்பிட்டுள்ளார்.
+
+"அவளுடைய அற்புதமான வாழ்க்கை என்ற பரிசால் நாங்கள் உயர்த்தப்பட்டுள்ளோம், ". "நாங்கள் எங்கள் வாழ்நாள் முழுவதையும் அவளுடைய முன்மாதிரியாக வாழ முயற்சிப்போம்.
+
+அமெரிக்காவில் சிக்காகோவில் ஏழு பிள்ளை கொண்ட குடும்பத்தில் இவரும்  ஒருவராக 1937 ஆம்அண்டு பிறந்துள்ளார்.
+
+செயலாளராக பணிபுரிவதற்கு முன்பு ஆசிரியராக பணிபுரிந்துள்ளார். அவர் சிகாகோவின் தெற்குப் பகுதியில் தனது கணவர் ப்ரேசியர் ரொபின்சனுடன் மிச்செல் மற்றும் அவரது மற்றைய பிள்ளை கிரேக் ஆகியோருடன் வாழ்ந்துள்ளார்.
+
+◼️
+
+[Data](articles/ca2df885.json)
+
+---
+
 ### Tims and three-wheelers cannot reduce
 
 *2024-06-01 15:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197245) · `si`
@@ -641,6 +743,30 @@ The suspect was arrested in connection with the rape and murder of a nine-year-o
 [Data](articles/9120f61b.json)
 
 [Extended Data](ext_articles/9120f61b.ext.json)
+
+---
+
+### Heavy snowfall in the hill country;Notification issued to drivers
+
+*2024-06-01 14:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/185040) · `ta`
+
+Heavy snowfall in hill areas has led to warnings for drivers due to difficult driving conditions. Roads like Nuwara Eliya-Hatton Main Road and others are covered in snow, causing visibility issues. Drivers are advised to keep their vehicles close together and use headlights to avoid accidents, especially during weekends when more visitors travel to Nuwara Eliya.
+
+🟩
+
+In many parts of the hill country, there is a high snow.The drivers have warned the drivers to pay their vehicles.
+
+Nuwara Eliya -Hatton Main Road, Vendikonner, Bangladesh, Bangladesh, Nanuoya, Ratalla Cross Road, as well as Nuwara Eliya -Kandy Road, BambarakkalOn the road, there is a large number of snowfall in places like Dharmapala Junction, Mahastota, Construction, Sita Eliya, Hakkali and Borakas, including Ambewala, Meebilima, Pattipola and World End Road.Drivers are facing great difficulties in driving vehicles.
+
+Vehicles on the Nuwara Eliya - Hatton A7 main road were able to observe the sound and the lighting of the vehicle lights.
+
+Especially on Saturdays and Sunday holidays, a large number of people from the outer district visit Nuwara Eliya in vehicles.
+
+...
+
+[Data](articles/6a210ed6.json)
+
+[Extended Data](ext_articles/6a210ed6.ext.json)
 
 ---
 
@@ -903,30 +1029,6 @@ The Criminal Investigation Department Sandolign Sandals Mr. Rohan Premaratne, Se
 [Data](articles/4db31720.json)
 
 [Extended Data](ext_articles/4db31720.ext.json)
-
----
-
-### Heavy snowfall in the hill country;Notification issued to drivers
-
-*2024-06-01 12:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/185040) · `ta`
-
-Heavy snowfall in hill areas has led to warnings for drivers due to difficult driving conditions. Roads like Nuwara Eliya-Hatton Main Road and others are covered in snow, causing visibility issues. Drivers are advised to keep their vehicles close together and use headlights to avoid accidents, especially during weekends when more visitors travel to Nuwara Eliya.
-
-🟩
-
-In many parts of the hill country, there is a high snow.The drivers have warned the drivers to pay their vehicles.
-
-Nuwara Eliya -Hatton Main Road, Vendikonner, Bangladesh, Bangladesh, Nanuoya, Ratalla Cross Road, as well as Nuwara Eliya -Kandy Road, BambarakkalOn the road, there is a large number of snowfall in places like Dharmapala Junction, Mahastota, Construction, Sita Eliya, Hakkali and Borakas, including Ambewala, Meebilima, Pattipola and World End Road.Drivers are facing great difficulties in driving vehicles.
-
-Vehicles on the Nuwara Eliya - Hatton A7 main road were able to observe the sound and the lighting of the vehicle lights.
-
-Especially on Saturdays and Sunday holidays, a large number of people from the outer district visit Nuwara Eliya in vehicles.
-
-...
-
-[Data](articles/6a210ed6.json)
-
-[Extended Data](ext_articles/6a210ed6.ext.json)
 
 ---
 
@@ -2181,103 +2283,5 @@ Honorary Consul for Sri Lanka in the Mediterranean Region, Adana, Beşir Uğur f
 [Data](articles/55f4c9cf.json)
 
 [Extended Data](ext_articles/55f4c9cf.ext.json)
-
----
-
-### SLASSCOM champions awareness, education, and industry collaboration to combat WhatsApp scams
-
-*2024-06-01 00:57:16* · [`dailyftlk`](https://www.ft.lk/business/SLASSCOM-champions-awareness-education-and-industry-collaboration-to-combat-WhatsApp-scams/34-762472) · `en`
-
-As the digital landscape evolves and cybercriminals adapt their tactics to exploit individuals and businesses, WhatsApp has become a prime target for scammers using deceptive technique to defraud users. In response, SLASSCOM, Sri Lanka’s leading IT/BPM industry body, has taken a lead role in championing awareness, education and Industry collaboration to combat these scams.
-
-CSCx Forum at SLASSCOM Head Sithira Wanniarachchi, said that common tactics scammers deploy include the impersonation of renowned brands or individuals, and in manufacturing fake emergencies to induce immediate responses, tempting users with unbelievable offers or prizes and utilising links to pilfer personal information. He explained that while WhatsApp scams can target any sector, industries such as financial services, online shopping, and tech support are particularly vulnerable due to the potential for financial gain.
-
-...
-
-[Data](articles/9711de51.json)
-
-[Extended Data](ext_articles/9711de51.ext.json)
-
----
-
-### Sabry meets Russian envoy to discuss Sri Lankans in Ukraine conflict
-
-*2024-06-01 00:24:05* · [`dailyftlk`](https://www.ft.lk/news/Sabry-meets-Russian-envoy-to-discuss-Sri-Lankans-in-Ukraine-conflict/56-762469) · `en`
-
-Foreign Minister Ali Sabry this week held a follow up discussion with Russian Ambassador Levan S. Dzhagaryan relating to the urgent situation regarding the Sri Lankans engaged in the Russia-Ukraine conflict. This meeting was subsequent to the previous meeting held with the Russian Ambassador on 7 May.
-
-...
-
-[Data](articles/2ab15a12.json)
-
-[Extended Data](ext_articles/2ab15a12.ext.json)
-
----
-
-### Ambassador Chandana Weerasena presents credentials to European Council President
-
-*2024-06-01 00:21:52* · [`dailyftlk`](https://www.ft.lk/news/Ambassador-Chandana-Weerasena-presents-credentials-to-European-Council-President/56-762468) · `en`
-
-Ambassador of Sri Lanka in Belgium Chandana Weerasena presented his Letters of Credence to European Council President Charles Michel as the Ambassador of Sri Lanka to the European Union at the Europa Building of the European Council in Brussels on 22 May.
-
-The presentation of credentials was followed by a meeting with the President of the European Council. President Michel recalled EU’s important relations with Sri Lanka and inquired on the recent challenging economic situation of the country.
-
-...
-
-[Data](articles/9672a6ef.json)
-
-[Extended Data](ext_articles/9672a6ef.ext.json)
-
----
-
-### South Korean Anti-Corruption and Civil Rights Commission Vice Chair calls on Speaker
-
-*2024-06-01 00:20:46* · [`dailyftlk`](https://www.ft.lk/news/South-Korean-Anti-Corruption-and-Civil-Rights-Commission-Vice-Chair-calls-on-Speaker/56-762467) · `en`
-
-A delegation led by South Korea’s Anti-Corruption and Civil Rights Commission (ACRC) Vice Chairperson and Secretary General Chung Seung-yun met with the Speaker of the House Mahinda Yapa Abeywardena at Parliament recently.
-
-During the discussion, Seung-Yun said that the Anti-Corruption Act passed in Sri Lanka last year is a very strong legislation. Meanwhile, Seung-Yun added that he is ready to support the introduction of the Integrity Assessment System for Government institutions in Sri Lanka which is currently operating in South Korea to prevent bribery and corruption.
-
-Speaker Abeywardena pointed out that the Anti-Corruption Act passed in Sri Lanka is completely independent and that, accordingly, the Commission to Investigate Allegations of Bribery or Corruption will be able to work independently. The Speaker also mentioned that he hopes to work together with other supporting countries to curb corruption.
-
-...
-
-[Data](articles/cd5249da.json)
-
-[Extended Data](ext_articles/cd5249da.ext.json)
-
----
-
-### Foreign Secretary meets Canadian Deputy Minister for International Development
-
-*2024-06-01 00:20:14* · [`dailyftlk`](https://www.ft.lk/news/Foreign-Secretary-meets-Canadian-Deputy-Minister-for-International-Development/56-762466) · `en`
-
-Foreign Secretary Aruni Wijewardane met the Canadian Deputy Minister for International Development Christopher MacLennan at the Ministry of Foreign Affairs on Thursday.
-
-Foreign Secretary Wijewardane briefed Deputy Minister MacLennan on the significant progress made by Sri Lanka on economic stabilisation and the high priority placed by the Government on economic diplomacy as the country moves towards revenue generation and growth. These efforts run parallel to the Government’s efforts at promoting peace and reconciliation. On the political front, the Foreign Secretary expressed Sri Lanka’s deep concern regarding high-level pronouncements made in Canada in recent years representing a false narrative of genocide in connection with the conflict that took place in Sri Lanka. The Foreign Secretary requested Canada to engage with Sri Lanka in a constructive manner and facilitate dialogue and reconciliation.
-
-...
-
-[Data](articles/a697946b.json)
-
-[Extended Data](ext_articles/a697946b.ext.json)
-
----
-
-### Ambassador – Designate to Kingdom of Saudi Arabia Ameer Ajwad assumes duties
-
-*2024-06-01 00:19:19* · [`dailyftlk`](https://www.ft.lk/news/Ambassador-Designate-to-Kingdom-of-Saudi-Arabia-Ameer-Ajwad-assumes-duties/56-762465) · `en`
-
-Ambassador – Designate of Sri Lanka to the Kingdom of Saudi Arabia Omar Lebbe Ameer Ajwad officially assumed duties on 24 May 2024. The occasion was marked by a simple ceremony organised by the staff of the Embassy at the Sri Lankan Embassy premises in Riyadh.
-
-Addressing the staff Ambassador Ameer Ajwad emphasised the need for elevating the existing relations between Sri Lanka and Saudi Arabia to new heights while highlighting the 50th anniversary of the establishment of diplomatic relations between the two countries that falls this year.
-
-Ambassador Ameer Ajwad is a career diplomat with 26 years of experience in the Sri Lanka Foreign Service. Prior to his appointment he served as the Additional Secretary of the Ministry of Foreign Affairs of Sri Lanka in charge of Planning, Implementation, and Performance Review including Bilateral Treaties; Political Affairs (Africa Region); Consular Affairs; as well as Emergency Response Unit of the Ministry of Foreign Affairs.
-
-...
-
-[Data](articles/52b0ea6c.json)
-
-[Extended Data](ext_articles/52b0ea6c.ext.json)
 
 ---

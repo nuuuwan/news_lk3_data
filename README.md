@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-01 12:18:42**
+As of **2024-06-01 12:33:58**
 
 ## Newspaper Stats
 
-*Scraped **27,688** Articles*
+*Scraped **27,691** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,60 @@ dbsjeyarajcom | 268
 bbccomsinhala | 273
 newsfirstlk | 363
 islandlk | 1,495
-economynextcom | 1,583
+economynextcom | 1,584
 dailyftlk | 1,635
 adalk | 2,360
 adaderanalk | 3,145
 tamilmirrorlk | 3,245
 virakesarilk | 4,272
-dailymirrorlk | 4,384
+dailymirrorlk | 4,386
 adaderanasinhalalk | 4,417
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,688 (100.0%) of 27,688 articles have been extended.
+27,688 (100.0%) of 27,691 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-01 (Saturday)
+
+### India votes in final phase of elections as both Modi and Rahul Gandhi eye victory
+
+*2024-06-01 12:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/India-votes-in-final-phase-of-elections-as-both-Modi-and-Rahul-Gandhi-eye-victory/108-283878) · `en`
+
+FIROZPUR/KOLKATA, June 1 (Reuters) - India voted on Saturday in the final phase of a long-drawn general election, held in record summer heat in many parts, as both Prime Minister Narendra Modi and his challengers said they would win the polls centred mostly on inequality and religion.
+
+The seven-phase vote, in which nearly a billion people were eligible to cast their ballots, began on April 19 and will end with polling in the last 57 seats - including in Modi's constituency in the Hindu holy city of Varanasi.
+
+More than 100 million people are registered to vote across eight states and federal territories on Saturday, including in the northern state of Punjab and the eastern states of Bihar, West Bengal and Odisha.
+
+"Calling upon the voters to turnout in large numbers and vote," Modi said as polls opened. "Together, let's make our democracy more vibrant and participative."
+
+...
+
+[Data](articles/75d0d3be.json)
+
+---
+
+### Colombo inflation cools to 0.9% in May
+
+*2024-06-01 11:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Colombo-inflation-cools-to-0-9-in-May/108-283870) · `en`
+
+The Colombo district inflation eased further to 0.9 percent in May, from 1.5 percent in April, as both food and non-food prices continued their months-long streak of declines, although the prices could firm up slightly in the coming months, due to somewhat higher prices for staples, as a result of the current weather and revving up of economic activities with the lower interest rates.
+
+Measured on a monthly basis, the prices fell 0.6 percent in the month, adding to the 1.9 percent and 0.8 percent falls in the prices in both March and April, respectively.
+
+After a sharp rise in prices in the nearly last two years, the prices came back to better balance from 2023 onwards, due to the easing of global energy prices and other commodities prices.
+
+Meanwhile, the availability of foreign currency in the country, due to the normalising tourism and remittances, also helped the prices to come back to the acceptable level, as the imported goods could be made in sufficient supply.
+
+...
+
+[Data](articles/4ea57f0d.json)
+
+---
 
 ### Increased tobacco use among schoolchildren: Expert
 
@@ -88,7 +124,7 @@ Sri Lanka is scheduled to be held against South Africa on Monday, the first matc
 
 *2024-06-01 10:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankan-monks-Minister-explore-rich-Buddhist-heritage-in-Pakistan/108-283876) · `en`
 
-Peshawar, June 1 (Daily Mirror) - A Sri Lankan delegation of Sri Lankan Buddhist monks and State Minister for Buddhasasana, Religious and Cultural Affairs, Vidura Wickramanayake called on the Governor of Khyber Pakhtunkhwa, Faisal Karim Kundi at the Governor’s House in Peshawar, Pakistan on Friday.
+Peshawar, June 1 (Daily Mirror) - A Sri Lankan delegation of Sri Lankan Buddhist monks and Minister for Buddhasasana, Religious and Cultural Affairs, Vidura Wickramanayake called on the Governor of Khyber Pakhtunkhwa, Faisal Karim Kundi at the Governor’s House in Peshawar, Pakistan on Friday.
 
 The meeting was part of their visit to Pakistan to participate in the symposium and exhibition titled “Gandhara to the World,” organized by the Ministry of Foreign Affairs.
 
@@ -235,6 +271,30 @@ The Police Narcotics Department said that the baggage he had brought in a large 
 [Data](articles/9cd5be4a.json)
 
 [Extended Data](ext_articles/9cd5be4a.ext.json)
+
+---
+
+### Sri Lanka foreign exchange earnings exceed imports by $579mn in April
+
+*2024-06-01 09:37:00* · [`economynextcom`](https://economynext.com/sri-lanka-foreign-exchange-earnings-exceed-imports-by-579mn-in-april-165699/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s current dollar earnings from merchandise exports, remittances, tourism and other services exceeded imports by 579 million US dollars in April 2024, official data shows.
+
+Sri Lanka’s hard goods exports were 877.6 million US dollars in April, up from 848.6 million US dollars a year ago, in a holiday month which usually has a 20 percent downturn.
+
+Remittances were 543.8 million US dollars, up from 454 million last year.
+
+Net services income was 367.7 million US dollars up from 290 million US dollars last year.
+
+Foreign exchange earned by Sri Lankans from exports, remittances and net services were 1,789 million US dollars in April 2024.
+
+Imports were only 1,435 million US dollars, leaving a surplus of 353 million dollars.
+
+Tourism income was estimated at 225.7 million US dollars for April, which is from a survey and may not be as reliable as import export data from customs or remittances data from banks.
+
+...
+
+[Data](articles/735f85aa.json)
 
 ---
 
@@ -2129,73 +2189,5 @@ While China may still see lower demand compared with its record breaking shipmen
 [Data](articles/6ddac846.json)
 
 [Extended Data](ext_articles/6ddac846.ext.json)
-
----
-
-### Chinese breastfeeding public athletics competition: Five participates from Sri Lanka
-
-*2024-05-31 19:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/184996) · `ta`
-
-Sri Lanka sends five athletes to the Chinese Breastfeeding Athletics Competition in Taiwan: Aruna Darshana (men's 400m), Nadisha Ramanayake and Tarushi Karunaratne (women's 800m), Gayantika Abeyratne (unknown event), and Tilhani Lakekamke (javelin throw).
-
-🟩
-
-Five will participate on behalf of Sri Lanka in the Chinese Breasty Athletics Competition to be held in Taiwan.
-
-Aruna Darshana in the men's 400m race, Nadisha Ramanayake, Nadisha Ramanayake, Tarushi Karunaratne and Gayantika Abeyratne in the 800m race and Tilhani Lakekamke will participate in the javelin throwing competition.
-
-◼️
-
-[Data](articles/bb3d01e3.json)
-
-[Extended Data](ext_articles/bb3d01e3.ext.json)
-
----
-
-### Maldives Foreign Minister visits Sri Lanka
-
-*2024-05-31 19:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197221) · `si`
-
-Maldives' Foreign Minister Moses Same will visit Sri Lanka from June 3rd to 6th, meeting President Ranil Wickremesinghe, Prime Minister Dinesh Gunawardena, and Foreign Minister Ali Sabri. The visit includes bilateral discussions and participation from senior officers.
-
-🟩
-
-Maldives External Affairs Minister Moses Same is due to visit four four days.
-
-The Maldives Foreign Minister is scheduled to visit the country from June 3 to 6th to the 6th.
-
-The Maldives Foreign Minister will hold talks with President Ranil Wickremesinghe and Prime Minister Dinesh Gunawardena.
-
-In addition, the Maldivian Foreign Minister and his delegation are also scheduled to hold bilateral discussions with Foreign Minister Ali Sabri.
-
-A group of Senior Officers of the Maldives External Affairs Sameer is also participating in the visit.
-
-◼️
-
-[Data](articles/03e4d265.json)
-
-[Extended Data](ext_articles/03e4d265.ext.json)
-
----
-
-### A young man who showed the handwriting to the UK woman
-
-*2024-05-31 19:18:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இங்கிலாந்து-பெண்ணிடம்-கைவரிசையை-காட்டிய-இளைஞன்/175-338205) · `ta`
-
-A man was arrested for stealing from a UK woman at a Pettah bus station. He sold stolen items like a laptop and camera on the 25th. The police will present him to court and aim to apprehend buyers of these goods.
-
-🟩
-
-A man has been arrested for stealing a UK woman in the bus station in Pettah.
-
-Police said the suspect had sold valuable items, including laptop and camera, which was stolen on the 25th.
-
-Steps have been taken to present the suspect to the Pudukkadai Magistrate's Court and the police have taken steps to arrest the persons who have purchased the goods.. Remble
-
-◼️
-
-[Data](articles/003f5ca6.json)
-
-[Extended Data](ext_articles/003f5ca6.ext.json)
 
 ---

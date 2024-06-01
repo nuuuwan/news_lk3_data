@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-01 15:52:54**
+As of **2024-06-01 16:05:29**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 4,426
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,716 (100.0%) of 27,719 articles have been extended.
+27,719 (100.0%) of 27,719 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-01 (Saturday)
 
-### ඇෆ්ගනිස්තානයේ බෝට්ටු අනතුරකින් 20ක් අතුරුදන්
+### 20 disappeared in Boat Crash of Afghanistan
 
 *2024-06-01 15:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197248) · `si`
 
-නැගෙනහිර ඇෆ්ගනිස්තානයේදී සිදුවූ බෝට්ටු අනතුරකින් පුද්ගලයින් 20 දෙනෙකු දියේ ගිලී අතුරුදන්වී ඇතැයි විදෙස් මාධ්‍ය වාර්තා කරයි.
+In a tragic boat crash in eastern Afghanistan, 20 individuals went missing. The incident occurred as the boat was navigating a river. In response, authorities initiated a special operation to locate them.
 
-එරට ගංගාවක් හරහා ගමන් කරමින් තිබු බෝට්ටුවක් මෙලෙස අනතුරට පත්වී ඇති බව වාර්තා වෙයි.
+🟩
 
-ඔවුන් සොයා එරට මුදාගැනීමේ අංශ විශේෂ මෙහෙයුමක් ආරම්භ කර තිබේ.
+According to foreign media reports, 20 people have been disappeared in a boat accident in eastern Afghanistan.
+
+It is reported that a boat that was traveling through a river was crashed.
+
+A special operation has launched a special operation in the country.
 
 ◼️
 
 [Data](articles/0681ec7f.json)
+
+[Extended Data](ext_articles/0681ec7f.ext.json)
 
 ---
 
@@ -70,6 +76,8 @@ When the body was found, the girl was wearing a dress and her lower body was nak
 
 [Data](articles/97759096.json)
 
+[Extended Data](ext_articles/97759096.ext.json)
+
 ---
 
 ### How police arrested wanted ‘handler’ of 4 ISIS terrorists nabbed in India
@@ -89,6 +97,8 @@ However, he was subsequently arrested last night (May 31) based on information r
 ...
 
 [Data](articles/9e40b271.json)
+
+[Extended Data](ext_articles/9e40b271.ext.json)
 
 ---
 

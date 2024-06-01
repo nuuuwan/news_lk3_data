@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-01 16:35:13**
+As of **2024-06-01 16:52:11**
 
 ## Newspaper Stats
 
-*Scraped **27,723** Articles*
+*Scraped **27,729** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,33 +16,113 @@ islandlk | 1,495
 economynextcom | 1,584
 dailyftlk | 1,635
 adalk | 2,363
-adaderanalk | 3,150
+adaderanalk | 3,152
 tamilmirrorlk | 3,250
 virakesarilk | 4,277
-dailymirrorlk | 4,390
-adaderanasinhalalk | 4,426
+dailymirrorlk | 4,391
+adaderanasinhalalk | 4,429
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,720 (100.0%) of 27,723 articles have been extended.
+27,723 (100.0%) of 27,729 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-01 (Saturday)
 
-### சா/த பெறுபேறு செப்டம்பர் வெளிவரும்
+### මිලිමීටර් 100ට වැඩි වැස්සක්
+
+*2024-06-01 16:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197251) · `si`
+
+ඉදිරි පැය 36 සඳහා අද (01) පස්වරු 4ට නිකුත් කළ කාලගුණ නිවේදනයේ තද වැස්සක් පිළිබඳ අනතුරු අඟවා තිබේ.
+
+එහි දැක්වෙන්නේ බස්නාහිර සහ සබරගමුව පළාත්වලත්, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවලට මිලිමීටර් 100ට වැඩි තද වැසි ඇතිවිය හැකි බවය.
+
+◼️
+
+[Data](articles/4570e0ef.json)
+
+---
+
+### වැලිපැන්න අන්තර් හුවමාරුව යළි දැනුම්දෙන තුරු වසා දැමේ
+
+*2024-06-01 16:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197250) · `si`
+
+දක්ෂිණ අධිවේගී මාර්ගයේ වැලිපැන්න අන්තර් හුවමාරුව යළි දැනුම්දෙන තුරු වසා දමා තිබේ.
+
+◼️
+
+[Data](articles/2778b749.json)
+
+---
+
+### Southern Expressway’s Welipenna Interchange closed until further notice
+
+*2024-06-01 16:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/99580/southern-expressways-welipenna-interchange-closed-until-further-notice) · `en`
+
+The Welipenna Interchange of the Southern Expressway has been closed until further notice due to a section of the road being flooded, the Director of the Road Development Authority (RDA) said.
+
+◼️
+
+[Data](articles/c8c1e1d1.json)
+
+---
+
+### The results of the results will be released September
 
 *2024-06-01 16:14:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சா-த-பெறுபேறு-செப்டம்பர்-வெளிவரும்/175-338234) · `ta`
 
-2023 ஆம் ஆண்டுக்கான க.பொ.த சாதாரண தர பரீட்சை பெறுபேறுகள் செப்டெம்பர் மாதத்திற்குள் வெளியிடப்படும் என பரீட்சைகள் ஆணையாளர் அமித் ஜயசுந்தர தெரிவித்துள்ளார்.
+The GCE Ordinary Level Examination results for 2023 will be out by September. Commissioner Amit Jayasundara announced that 452,979 candidates took the exam, including 387,648 school students and 65,331 private candidates.
 
-387,648 பாடசாலை பரீட்சார்த்திகளும் 65,331 தனியார் விண்ணப்பதாரர்களும் அடங்கலாக 452,979 பரீட்சார்த்திகள் இவ்வருடம் பரீட்சைக்குத் தோற்றியதாக அவர் கூறினார்.
+🟩
+
+Commissioner of Examinations Amit Jayasundara said the GCE Ordinary Level Examination for 2023 will be released by September.
+
+He said that 452,979 candidates appeared for the exam this year, including 387,648 school examiners and 65,331 private applicants.
 
 ◼️
 
 [Data](articles/1f9dcbb6.json)
+
+[Extended Data](ext_articles/1f9dcbb6.ext.json)
+
+---
+
+### GCE (O/L) 2023 results to be released by September
+
+*2024-06-01 15:58:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/GCE-OL-2023-results-to-be-released-by-September/108-283884) · `en`
+
+Colombo, June 1 (Daily Mirror) - The results of the GCE Ordinary Level (O/L) examinations for the year 2023 is scheduled to be released by September, Examinations Commissioner Amit Jayasundara said.
+
+He said that 452,979 candidates sat for the examination this year, including 387,648 school candidates and 65,331 as private applicants.
+
+◼️
+
+[Data](articles/5eb1c035.json)
+
+---
+
+### සුපිරි නළු සල්මන් ඛාන් ඝාතනය කර ශ්‍රී ලංකාවට පනින්න හැදූ කල්ලිය හසුවෙයි
+
+*2024-06-01 15:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197249) · `si`
+
+බොලිවුඩ් නළු සල්මන් ඛාන් ඝාතනය කිරීමේ කුමන්ත්‍රණයක් පිළිබඳ සියලු තොරතුරු අනාවරණය කර ගැනීමට ඉන්දීය පොලීසිය සමත්වී තිබේ.
+
+Lawrence Bishnoi නම් කල්ලිය පාකිස්තාන අවි සැපයුම්කරුවෙකුගෙන් ලබාගත් ආයුධවලින් සන්නද්ධව මහාරාෂ්ට්‍රයේ පන්වෙල් හිදී සල්මන් ඛාන්ගේ මෝටර් රථයට පහර දීමට කුමන්ත්‍රණය කර ඇත.
+
+කල්ලිය පුද්ගලයන් 60 සිට 70 දක්වා පිරිසකගේ සහාය ලබාගෙන ඇති අතර මුම්බායි පොලිස් මූලාශ්‍රවලට අනුව අදාළ කල්ලිය විසින් සකස් කරන ලද සංකීර්ණ සැලැස්මට අනුව ඒ සෑම පුද්ගලයෙකුට නිශ්චිත භූමිකාවක් පවරා තිබේ.
+
+ප්‍රහාරය ක්‍රියාත්මක කිරීමෙන් පසු, ප්‍රහාරකයින්ට තමිල්නාඩුවේ කන්‍යාකුමාරි වෙත පළා යන ලෙස උපදෙස් දී ඇති බවද අනාවරණය වෙයි.
+
+එහිදී ඔවුන් මුහුදු මාර්ගයෙන් ශ්‍රී ලංකාවට පළායෑමට නියමිතව සිට තිබේ.
+
+එතැන් සිට පහසුකම් සපයන ලද වෙනත් රටකට ඔවුන් ආරක්ෂිතව ගමන් කිරීම සඳහා විධිවිධාන ක්‍රියාත්මක වී තිබූ බවද ඉන්දීය පොලීසිය අනාවරණය කරගෙන ඇත.
+
+◼️
+
+[Data](articles/294604d4.json)
 
 ---
 
@@ -72,23 +152,51 @@ Meanwhile, the Sri Lanka Three Wheeler Association has said that the reduced fue
 
 ---
 
-### பஸ், ஓட்டோ கட்டணங்களில் மாற்றம்?
+### Change on bus, Otto charges?
 
 *2024-06-01 15:43:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பஸ்-ஓட்டோ-கட்டணங்களில்-மாற்றம்/175-338233) · `ta`
 
-இலங்கை பெற்றோலிய கூட்டுத்தாபனம் நேற்று (31) நள்ளிரவு முதல் அமுலுக்கு வரும் வகையில் தமது எரிபொருட்கள் சிலவற்றின் விலைகளை குறைத்துள்ளது.
+Ceylon Petroleum Corporation lowered fuel prices, affecting Sri Lanka IOC and Sinopac. Sinopac's Otto Diesel is now cheaper by 3 rupees compared to Ciptco and IOC. Despite this, private bus associations and the Sri Lanka Three Wheeler Association have decided against reducing fares, citing no possibility of fare reduction due to operational costs.
 
-குறித்த விலை திருத்தத்துடன், லங்கா ஐஓசி நிறுவனமும் அதன் விலைகளை திருத்திய நிலையில், சினோபெக் நிறுவனமும் அதன் எரிபொருள் விலைகளை திருத்தியுள்ளது.
+🟩
 
-எனினும், சினோபெக் நிறுவனம் விற்பனை செய்யும் ஒரு லீற்றர் ஒட்டோ டீசலின் விலை சிபெட்கோ மற்றும் ஐஓசி எரிபொருளின் விலையை விட 3 ரூபாய் குறைவாக உள்ளது.
+The Ceylon Petroleum Corporation has reduced the prices of some of its fuels with effect from midnight yesterday.
 
-எரிபொருள் விலை குறைக்கப்பட்டாலும் பேருந்து கட்டணத்தை குறைப்பதற்கான எந்தவித சாத்தியம் இல்லை என தனியார் பேருந்து சங்கங்கள் சுட்டிக்காட்டுகின்றன.
+With the revision of the price, the Sri Lanka IOC and its prices have been revised, and Sinopac has revised its fuel prices.
 
-இதேவேளை, குறைக்கப்பட்ட எரிபொருள் விலைச் சலுகை தமது சேவைகளுக்கு கிடைக்காத காரணத்தினால் கட்டணத்தை குறைக்கப் போவதில்லை என இலங்கை முச்சக்கரவண்டி சங்கம் தெரிவித்துள்ளது. R
+However, the price of a liter of Otto Diesel selling Sinopac is 3 rupees lower than the Ciptco and IOC fuel.
+
+Private bus associations point out that there is no possibility of reduction in bus fares despite fuel prices.
+
+Meanwhile, the reduced fuel price concession will not be reduced due to the lack of service, the Sri Lanka Three Wheeler Association said it would not reduce the tariffs.. Remble
 
 ◼️
 
 [Data](articles/3f5afc03.json)
+
+[Extended Data](ext_articles/3f5afc03.ext.json)
+
+---
+
+### 20 drown in boat accident in eastern Afghanistan
+
+*2024-06-01 15:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/99579/20-drown-in-boat-accident-in-eastern-afghanistan) · `en`
+
+Twenty people, including children, drowned when a boat sank during a river crossing in Afghanistan’s eastern Nangarhar province on Saturday, a provincial official said.
+
+“A boat with women and children on board sank on Saturday morning at 7 am (0230 GMT) in the river in the Basawul area of Momand Dara district” of eastern Nangarhar, said Quraishi Badloon, the head of the province’s information department, in a post on social media platform X.
+
+He said five people survived the accident, the cause of which was being investigated.
+
+The Nangarhar Information and Culture Department said the authorities had sent a medical team and ambulances to the area, in a message shared with media.
+
+At least five bodies had been recovered and efforts were underway to find the others, provincial government officials said.
+
+Residents in the area regularly cross the river using boats often in poor condition, as there is no nearby bridge, local media reported.
+
+◼️
+
+[Data](articles/7ede8a46.json)
 
 ---
 
@@ -442,23 +550,33 @@ Customers say the fuel owners who learned that fuel prices were released yesterd
 
 ---
 
-### திடீரென புகுந்து  சரமாரியாக வெட்டிய கும்பல்
+### Gang
 
 *2024-06-01 13:30:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/திடீரென-புகுந்து-சரமாரியாக-வெட்டிய-கும்பல்/73-338232) · `ta`
 
-அக்கரைப்பற்று பொலிஸ் பிரிவிற்குட்பட்ட ஆலையடிவேம்பு பிரதேச செயலாளர் பிரிவில் வாச்சிக்குடா பகுதியில் நேற்றிரவு (31) இடம்பெற்ற வாள் வெட்டுச்சம்பவத்தில் 7 பேர் பலத்த காயங்களுடன் அக்கரைப்பற்று ஆதார வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+In Akkaraipattu, seven seriously injured individuals were rushed to the hospital after a violent attack involving a group wielding swords. Homes were destroyed, and vehicles were damaged. The community, particularly in the Vachikuda region, is terrified and concerned about their safety. The attackers, armed with swords, targeted both residents and passersby, including those trying to seek refuge. The incident, which lasted approximately 30 minutes, has left the area in shock. The local police have initiated an investigation into the matter.
 
-இன்னும் சில பொதுமக்கள் தாக்குதலுக்குள்ளானதுடன் வீடொன்றில் இருந்த பொருட்கள் சிலவும் அடித்து நொறுக்கப்பட்டுள்ளதுடன் வீதியால் சென்ற மோட்டார் சைக்கிள்களும் சேதத்திற்குள்ளாகியது.
+🟩
 
-வாள்கள் தாங்கிய சிறு குழுவொன்றின் தாக்குதல் காரணமாகவே இவ்வாறு சேதம் ஏற்பட்டுள்ளதாக மக்கள் தெரிவிக்கின்றனர்.
+Seven persons have been admitted to the Akkaraipattu Base Hospital with serious injuries at the Alayadivembu Divisional Secretariat Division of the Akkaraipattu Police Division.
 
-இதனால் வாச்சிக்குடா பகுதியில் வாழும் மக்கள் பெரும் அச்சத்திற்குள்ளாகியுள்ளதுடன் தங்களது பாதுகாப்பு கேள்விக்குறியாகியுள்ளதாகவும் கூறுகின்றனர்.
+Some of the civilians were attacked and some of the house were smashed and the motorcycles that went by the street were damaged.
 
-வாள்கள் தாங்கிய சிறு குழுவானது ஒருவரை விரட்டி வந்த நிலையில் விரட்டப்பட்டு வந்தவர் அவரது சகோதரி வீட்டில் தஞ்சம் புகுந்துள்ளார். இதன் காரணமாக அவ்வீட்டினுள் நுழைந்து வாள் தாங்கிய குழுவானது அங்கிருந்தவர்கள் மீதும் தாக்குதல் நடாத்தியுள்ளது.
+People say that the damage was caused by the attack of a small group of swords.
+
+The people living in the Vachikuda region are in great fear and their security is in question.
+
+A small group of swords bearing a man chased asylum. As a result, a group of sword -bearing group has been attacked.
+
+At the time, the people in the house were targeted for the sword and some neighbors who entered the house were attacked.. Meanwhile, the crew attacked the people on the road and the motorcycle on the road was attacked.
+
+Some of the civilians who stumbled upon the attack are running to save their lives. Eyewitnesses say that the area was shocked by the incident, which lasted for about 30 minutes.
 
 ...
 
 [Data](articles/77e25672.json)
+
+[Extended Data](ext_articles/77e25672.ext.json)
 
 ---
 
@@ -2117,121 +2235,5 @@ Obtain grants from UNDP, Save the Children, and other donor organisations for th
 [Data](articles/1f3dd00c.json)
 
 [Extended Data](ext_articles/1f3dd00c.ext.json)
-
----
-
-### Red herrings, referendums, poverty and postponing elections
-
-*2024-06-01 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Red-herrings-referendums-poverty-and-postponing-elections/172-283850) · `en`
-
-Even though an election has not been officially announced by the Commissioner of Elections, election fever has hit our political parties. The Secretary of the United National Party (UNP) suggested a possible postponement of elections. Was he drawing a red herring to test the political waters?
-
-The ordinary man on the street though, has not been drawn into this conversation. They are looking for ways and means to keep the wolf from the door. But this does not mean they are disinterested.
-
-On 29 May, nearly all news media carried the pathetic tale of a mother of four living in Padaviya, having had electricity and water supply to her house being disconnected. Four months ago her husband-the sole breadwinner of the family died in a tragic accident. She has been unable to make ends meet since then.
-
-The youngest child is 40 days old! The two elder children study in the fourth and second grades at their school, while the third child is a two-year-old.
-
-...
-
-[Data](articles/056ad4d3.json)
-
-[Extended Data](ext_articles/056ad4d3.ext.json)
-
----
-
-### Referendum to extend President’s term: Is it ploy to avoid election defeat?
-
-*2024-06-01 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Referendum-to-extend-Presidents-term-Is-it-ploy-to-avoid-election-defeat/172-283853) · `en`
-
-It is undoubtedly election phobia of the United National Party (UNP) headed by President Ranil Wickremesinghe that prompted Palitha Range Bandara, the General Secretary of the Party to suggest on Tuesday to hold a referendum to extend the term of the President and Parliament for two more years.
-
-“This is the best option at this moment to save the nation. The Government has reached agreements with the IMF, World Bank and other donors on economic reforms and it is essential to extend the terms of the President and Parliament to make this exercise a success,” Range Bandara told the media.
-
-Although Wickremesinghe and several other UNP leaders have disowned their General Secretary’s statement, the general perception is that this is not his personal opinion but a collective decision of the top most few inner circle leaders of the party to test the waters – to feel the response of the people and the Opposition.
-
-...
-
-[Data](articles/bb22cd5b.json)
-
-[Extended Data](ext_articles/bb22cd5b.ext.json)
-
----
-
-### Range Bandara’s   “Loud Thinking” and Ranil’s election campaign
-
-*2024-06-01 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Range-Bandaras-Loud-Thinking-and-Ranils-election-campaign/172-283848) · `en`
-
-President Ranil Wickremesinghe (centre), UNP General Secretray Palitha Range Bandara and  UNP Chairman Vajira Abeywardena greet crowds at an election rally
-
-When some UNP seniors and party office-bearers met to discuss the situation  Range Bandara in his capacity as Gen Secy was also present. Some of those present began to criticise Range and blame him  for bringing the Government into disrepute. Ranil Wickremesinghe however intervened  and put a stop to “Bandara baiting”
-
-Even though Range Bandara’s proposal was his personal point of view and only a suggestion, it was not perceived as such. Sections of the media and social media along with Opposition political parties treated it as an official Government announcement
-
-The essence of what Palitha Range Bandara proposed was this -. Ranil Wickremesinghe took over the country’s leadership at a time of a great economic crisis
-
-...
-
-[Data](articles/d8f8c7cb.json)
-
-[Extended Data](ext_articles/d8f8c7cb.ext.json)
-
----
-
-### 2024-05-31 (Friday)
-
-### Trudeau’s “genocide”, JVP’s “separatist war” and Netanyahu’s Israel
-
-*2024-05-31 23:51:33* · [`dailyftlk`](https://www.ft.lk/columns/Trudeau-s-genocide-JVP-s-separatist-war-and-Netanyahu-s-Israel/4-762446) · `en`
-
-What does “genocide” mean to Justin Trudeau, Prime Minister of Canada? His special statement issued on 18 May last introduced as “Statement by the Prime Minister on Tamil Genocide Remembrance Day” begins with the sentence, “Fifteen years ago, the quarter-century-long armed conflict in Sri Lanka came to an end.” So, he knows it. Yes, it came to an end 15 years ago with the LTTE proscribed in 33 countries as a “terrorist organisation” including in Canada, was completely annihilated.
-
-...
-
-[Data](articles/aa728302.json)
-
-[Extended Data](ext_articles/aa728302.ext.json)
-
----
-
-### Four Sri Lankans arrested in India for smuggling; here Rohan Gunaratne accuses Muslims of radicalisation
-
-*2024-05-31 23:49:14* · [`dailyftlk`](https://www.ft.lk/columns/Four-Sri-Lankans-arrested-in-India-for-smuggling-here-Rohan-Gunaratne-accuses-Muslims-of-radicalisation/4-762445) · `en`
-
-Four Sri Lankans were arrested on Monday, 20 May 2024 at the Ahmadabad Airport in India for smuggling of gold and drugs.
-
-According to Daily Mirror of 23 May 2024 Sri Lanka’s state intelligence has asked for further information from India’s state intelligence to verify the background of these alleged suspects, as well as to probe if they are actually linked to the ISIS network.
-
-Thus so far there was no report of their involvement in any organisation promoting violence. One should not forget the government in power in India is extremely hostile to Muslims. They demonise and unleash violence against Muslims. On the other hand it is ridiculous to state that they went to India to commit crime for a mere Rs. 100,000 each.
-
-...
-
-[Data](articles/05b73772.json)
-
-[Extended Data](ext_articles/05b73772.ext.json)
-
----
-
-### The head of the ISIS terrorist organization arrested in Colombo in Colombo
-
-*2024-05-31 23:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/185003) · `ta`
-
-Osman Pushparaj, suspected of links to four Sri Lankans arrested in India for alleged ISIS ties, was detained in Colombo. A joint operation led to his arrest, with further investigations underway against him.
-
-🟩
-
-Osman Pushparaj has been arrested for suspected of having close ties with four Sri Lankans arrested in India on suspicion of ISIS.
-
-Gerat Pusparajah Osman Jerata has maintained close ties with 4 Sri Lankans arrested at Ahmedabad airport in India.
-
-At this juncture, special inquiries have been launched to arrest Jerat Pusparajah Osman Gerath.
-
-Police Media Spokesperson DIG, Attorney -at -Law Mr. Nihal Talduwa said that the Criminal Investigation Department has been arrested in Colombo during a joint operation of the Criminal Investigation Department.
-
-◼️
-
-[Data](articles/38626c75.json)
-
-[Extended Data](ext_articles/38626c75.ext.json)
 
 ---

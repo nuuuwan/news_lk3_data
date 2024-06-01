@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-01 23:18:49**
+As of **2024-06-01 23:34:06**
 
 ## Newspaper Stats
 
-*Scraped **27,763** Articles*
+*Scraped **27,764** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,584
 dailyftlk | 1,635
 adalk | 2,365
 adaderanalk | 3,158
-tamilmirrorlk | 3,252
+tamilmirrorlk | 3,253
 virakesarilk | 4,282
 dailymirrorlk | 4,400
 adaderanasinhalalk | 4,439
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,439
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,763 (100.0%) of 27,763 articles have been extended.
+27,763 (100.0%) of 27,764 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -83,6 +83,24 @@ June 8 against Bangladesh and the fourth match against Bangladesh will be held a
 [Data](articles/f2f11b7d.json)
 
 [Extended Data](ext_articles/f2f11b7d.ext.json)
+
+---
+
+### அடுத்த 36 மணித்தியாலங்கள் குறித்து எச்சரிக்கை
+
+*2024-06-01 22:28:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அடுத்த-36-மணித்தியாலங்கள்-குறித்து-எச்சரிக்கை/175-338251) · `ta`
+
+அடுத்த 36 மணி நேரத்திற்கு கனமழை பெய்யக்கூடும் என வளிமண்டலவியல் திணைக்களம் இன்று மாலை வெளியிட்ட புதிய வானிலை முன்னறிவித்தலில் எச்சரிக்கை விடுத்துள்ளது.
+
+மேல், சப்ரகமுவ மாகாணங்களிலும், காலி மற்றும் மாத்தறை மாவட்டங்களிலும் சில இடங்களில் 100 மில்லிமீற்றருக்கும் அதிகளவான கனமழை பெய்யக்கூடும் என அதில் சுட்டிக்காட்டப்பட்டுள்ளது.
+
+நாட்டின் ஏனைய பிரதேசங்களில் மாலை அல்லது இரவு வேளையில் இடைக்கிடையில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும்.
+
+இடியுடன் கூடிய மழையுடன் தற்காலிக பலத்த காற்று மற்றும் மின்னலினால் ஏற்படக்கூடிய ஆபத்தை குறைப்பதற்கு தேவையான நடவடிக்கைகளை எடுக்குமாறு வளிமண்டலவியல் திணைக்களம், பொது மக்களிடம் கோரியுள்ளது. R
+
+◼️
+
+[Data](articles/4adb0c4f.json)
 
 ---
 
@@ -2325,25 +2343,5 @@ Arrange the public to rehabilitate the Papanasam Tirthakara, the holy tirtha, th
 [Data](articles/69368c53.json)
 
 [Extended Data](ext_articles/69368c53.ext.json)
-
----
-
-### Minister Douglas visits Jaffna Central Bus Stand
-
-*2024-06-01 02:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/185009) · `ta`
-
-Minister Douglas Devananda visited Jaffna Central Bus Stand to address public concerns about unpermitted trade centers causing inconvenience. He urged authorities to improve the situation and meet with the Regional Director of the Sri Lanka Transport Board.
-
-🟩
-
-Minister Douglas Devananda, who made a sudden visit to the public on Friday evening, visited the states on Friday evening following complaints made by the public to eliminate the inconveniences caused by trade centers constructed without proper permission.
-
-He advised the concerned parties to take steps to change the contaminated environment and the Regional Director of the Sri Lanka Transport Board.
-
-◼️
-
-[Data](articles/84d903ca.json)
-
-[Extended Data](ext_articles/84d903ca.ext.json)
 
 ---

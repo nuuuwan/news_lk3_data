@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-01 19:34:09**
+As of **2024-06-01 19:52:09**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,432
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,745 (100.0%) of 27,747 articles have been extended.
+27,747 (100.0%) of 27,747 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -41,6 +41,8 @@ ISLAMABAD— At least 20 people were killed when a boat sank while crossing a ri
 ◼️
 
 [Data](articles/a0e411dc.json)
+
+[Extended Data](ext_articles/a0e411dc.ext.json)
 
 ---
 

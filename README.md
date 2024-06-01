@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-01 09:34:17**
+As of **2024-06-01 09:53:11**
 
 ## Newspaper Stats
 
@@ -26,43 +26,55 @@ adaderanasinhalalk | 4,413
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,673 (100.0%) of 27,678 articles have been extended.
+27,678 (100.0%) of 27,678 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-01 (Saturday)
 
-### ජීවිත බිලිගත් මාරක අනතුරු
+### Fatal accidents that have been killed
 
 *2024-06-01 09:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197232) · `si`
 
-හොරණ සහ තෙලිකඩ දොඩංගොඩ ප්‍රදේශවල ඊයේ (31) දියේ සිදු වූ රිය අනතුරු දෙකකින් කාන්තාවක් සහ පිරිමි පුද්ගලයෙකු මියගොස් තිබේ.
+Two fatal accidents in Dodangoda, Horana resulted in the deaths of a 38-year-old woman and a 76-year-old man. The first involved a bus veering off the road, while the second saw a motorcyclist fatally injured en route from Wakwella to Dodangoda.
 
-මෙලෙස මියගොස් ඇත්තේ 76 හැවිරිදි මානාන බුලත්සිංහල ප්‍රදේශයේ පදිංචි ව සිටි කාන්තාවක් සහ හැගොඩ බූස්ස ප්‍රදේශයේ පදිංචිව සිටි 38 හැවිරිදි පුද්ගලයෙකි.
+🟩
 
-හොරණ බුලත්සිංහල මාර්ගයේ බැල්ලපිටිය හන්දිය අසලදී හොරණ දෙස සිට මතුගම දෙසට ධාවයනය වූ පුද්ගලික බස්රථයක් මාර්ගයේ මගීන් බස්සවා නැවත ඉදිරියට ධාවනය කිරීමේ දී එම බස් රථයෙන්ම බැස්ස මෙම වායෝවෘධ කාන්තාව බස් රථයට ඉදිරියෙන් මාර්ගය හරහා මාරුවීමට යාමේ දී මෙම අනතුර සිදුව ඇත.
+A woman and a man died in two accidents in Dodangoda, Horana yesterday (31).
 
-අනෙක් අනතුර සිදුව ඇත්තේ දොඩංගොඩ වැක්වැල්ල මාර්ගයේ තෙලිකඩ ප්‍රදේශයේ දී වක්වැල්ල දෙස සිට දොඩංගොඩ දෙසට ධාවනය වූ යුද හමුදාවට අයත් ට්‍රක් රථයක් ඉදිරියෙන් පැමිණි යතුරු පැදියක ගැටීමෙනි.
+The deceased has been identified as a 38 year old resident of Boossanhala, 76 year old.
 
-අනතුරෙන් මෙම පුද්ගලයා බරපතළ තුවාල ලබා කරාපිටිය රෝහලට ඇතුළත් කිරීමේන් පසු මියගොස් ඇති බව පොලීසිය පවසයි.
+The accident had taken place when the bus was driven by the bus to be shifted by the bus towards the juntah road in Horana road.
+
+The other accident was hit by a motorbike from Wakwella to Dodangoda, Wakwella to Dodangoda.
+
+The victim was seriously injured and has died after admission to the Karapitiya hospital.
 
 ◼️
 
 [Data](articles/c094428c.json)
 
+[Extended Data](ext_articles/c094428c.ext.json)
+
 ---
 
-### ISIS உடன் நெருங்கிய தொடர்பிலிருந்தவர் கைது
+### Arrested in close contact with ISIS
 
 *2024-06-01 09:08:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ISIS-உடன்-நெருங்கிய-தொடர்பிலிருந்தவர்-கைது/175-338231) · `ta`
 
-ஐ.எஸ்.ஐ.எஸ் அமைப்புடன் உடன் தொடர்பு கொண்டிருந்த சந்தேகத்தின் பேரில்  இந்தியாவில் கைது செய்யப்பட்ட 4 இலங்கையர்களுடன் நெருங்கிய தொடர்புகளை பேணி உதவியதாக நம்பப்படும்  முக்கிய சந்தேக நபரான ஒஸ்மான் புஷ்பராஜ் கைது செய்யப்பட்டுள்ளார்.
+Osman Pushparaj, suspected of aiding 4 Sri Lankans linked to ISIS, was arrested in Colombo during a joint operation by the CIT and DIT.
 
-சிஐடி மற்றும் டிஐடியின் கூட்டு நடவடிக்கையில் கொழும்பில் வைத்து அவர் கைது செய்யப்பட்டுள்ளதாக பொலிஸ் ஊடகப் பேச்சாளர்  பிரதி பொலிஸ் மா அதிபர் நிஹால் தல்துவ தெரிவித்தார். R
+🟩
+
+Osman Pushparaj, a prominent suspect, believed to have helped with close ties with 4 Sri Lankans arrested in India on suspicion of association with ISIS.
+
+Police Media Spokesperson Deputy Inspector General of Police Nihal Talduwa said he was arrested in Colombo during a joint operation of the CIT and DIT.. Remble
 
 ◼️
 
 [Data](articles/dd4111b1.json)
+
+[Extended Data](ext_articles/dd4111b1.ext.json)
 
 ---
 
@@ -81,6 +93,8 @@ Angelo Mathews called on all his experience with an unbeaten 32 to steer his sid
 ...
 
 [Data](articles/11d2a4d1.json)
+
+[Extended Data](ext_articles/11d2a4d1.ext.json)
 
 ---
 
@@ -198,6 +212,8 @@ The letter dated on May 28th and undersigned by the Chairman NATA Dr. Alan Ludow
 
 [Data](articles/2942534d.json)
 
+[Extended Data](ext_articles/2942534d.ext.json)
+
 ---
 
 ### State Minister should be resolved in a middle path - State Minister Suren
@@ -239,6 +255,8 @@ Woakes, who helped England win the 2019 50-over World Cup, added: "I will be bac
 ...
 
 [Data](articles/7e886251.json)
+
+[Extended Data](ext_articles/7e886251.ext.json)
 
 ---
 

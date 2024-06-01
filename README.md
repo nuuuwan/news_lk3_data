@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-01 12:51:19**
+As of **2024-06-01 13:03:59**
 
 ## Newspaper Stats
 
-*Scraped **27,692** Articles*
+*Scraped **27,694** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,41 @@ islandlk | 1,495
 economynextcom | 1,584
 dailyftlk | 1,635
 adalk | 2,360
-adaderanalk | 3,146
+adaderanalk | 3,147
 tamilmirrorlk | 3,245
 virakesarilk | 4,272
 dailymirrorlk | 4,386
-adaderanasinhalalk | 4,417
+adaderanasinhalalk | 4,418
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,691 (100.0%) of 27,692 articles have been extended.
+27,692 (100.0%) of 27,694 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-01 (Saturday)
+
+### T20 World Cup Warm-up: Dasun Shanaka stars as Sri Lanka beat Ireland
+
+*2024-06-01 12:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/99576/t20-world-cup-warm-up-dasun-shanaka-stars-as-sri-lanka-beat-ireland) · `en`
+
+Dasun Shanaka produced a solid all-round performance, including bowling figures of 4/23, as former champions Sri Lanka overcame some jittery moments to down Ireland by 41 runs in their T20 World Cup warm-up game.
+
+Put in to bat at the Central Broward Regional Park Stadium Turf Ground here on Friday, Sri Lanka saw their batting misfire in the initial phases of the game.
+
+They lost half of their side for 82 runs in 11 overs before managing to post a respectable 163/8.
+
+All-rounders Wanindu Hasaranga (26), Angelo Mathews (32), and Shanaka (23) fired up the proceedings down the order to take them to a competitive total.
+
+In reply, quick-fire knocks from Paul Stirling (21) and George Dockrell (17) were the bright spots in the initial stages of the Irish chase, but former skipper Shanaka swung the momentum with his medium pace bowling as Ireland were bowled out for 122 in 18.2 overs.
+
+...
+
+[Data](articles/4243bf1d.json)
+
+---
 
 ### Mannheim attack: Several people hurt in stabbing in German city
 
@@ -49,6 +69,28 @@ Another officer fired a shot at the assailant, bringing an end to the attack. Th
 ...
 
 [Data](articles/fa0278ba.json)
+
+[Extended Data](ext_articles/fa0278ba.ext.json)
+
+---
+
+### වගකීම ගාම්බීර් ට
+
+*2024-06-01 12:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197237) · `si`
+
+ඉන්දීය හිටපු ක්‍රීඩක ගෞතම් ගාම්භීර් ඉන්දීය ක්‍රිකට් කණ්ඩායමේ ප්‍රධාන පුහුණුකරු ධුරයට පත් කිරීමේ සුදානමක් පවතින බව වාර්තා වෙයි.
+
+වත්මන් පුහුණුකරු ලෙස කටයුතු කරන රාහුල් ඩ්‍රාවිඩ්ගේ ධුර කාලය අවසන් වීම හේතුවෙන් නව පුහුණුකරුවෙකු තෝරා පත් කරගැනීම සඳහා ඉන්දීය ක්‍රිකට් පාලක මණ්ඩලය කටයුතු කරමින් සිටින අතර එහිදී ගාම්භීර් සම්බන්ධයෙන් වැඩි අවධානයක් යොමුව ඇති බව ඉන්දීය මාධ්‍ය වාර්තා කළේය.
+
+නිමාවූ ඉන්දීය ප්‍රීමියර් ලීග් තරගාවලියේ ශූරතාව හිමිකරගත් කොල්කටා නයිට්රයිඩර්ස් කණ්ඩායමේ උපදේශකයෙකු ලෙස ගෞතම් ගාම්භීර් කටයුතු කර තිබුණි.
+
+එම කණ්ඩායමේ ජයග්‍රහණය වෙනුවෙන් ගෞතම් ගාම්භීර් දැක්වු දායකත්වය පිළිබඳ ඉන්දීය ක්‍රිකට් පාලක මණ්ඩලයේ විශේෂ අවධානය යොමුවී ඇති බව වාර්තා වෙයි.
+
+ඉන්දීය ක්‍රිකට් කණ්ඩායමේ ප්‍රධාන පුහුණුකරු ධුරය සඳහා අයදුම්පත් කැඳවීම පසුගිය මස 27වනදායින් අවසන් වු අතර ඒ සඳහා අයදුම් පත් 3,000 ඉක්මවූ සංඛ්‍යාවක් ලැබී තිබූ බව සඳහන් වෙයි.
+
+◼️
+
+[Data](articles/d3e1d5fc.json)
 
 ---
 
@@ -2151,49 +2193,5 @@ However, after coming under criticism, Jeevan took to his X account defending hi
 [Data](articles/588c5125.json)
 
 [Extended Data](ext_articles/588c5125.ext.json)
-
----
-
-### Information that the Payments for the Elderly will be stopped
-
-*2024-05-31 19:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/184998) · `ta`
-
-The Aswezum Welfare Program, which provides allowances to the elderly, faces delays due to technical issues but aims to resume payments post-second week of June. The program, set to discontinue, had allocated 1518 million rupees for May allowances, ensuring support for those over 70 from welfare-receiving families.
-
-🟩
-
-The Welfare Benefits Council has announced that the information that the Aswezum Welfare Program is being implemented will be discontinued.
-
-In May 2024, about 1518 million rupees required to provide allowances has been sent to the District Secretariats.
-
-The Welfare Benefits Council has advised that even though there is a delay in the payment of allowances due to technical reasons, the benefits of the elderly will be given to the elderly in the Divisional Secretariats after the second week of June.
-
-Similarly, the June allowance will be issued in the month and that the payment of money in the relevant bank accounts under the Assembly Payment Structure has begun.
-
-Meanwhile, the Welfare Benefits Council has announced that the allowance will be issued to the elderly over 70 years of age from families who are currently receiving welfare.
-
-◼️
-
-[Data](articles/f2b0eb37.json)
-
-[Extended Data](ext_articles/f2b0eb37.ext.json)
-
----
-
-### The protest is to stop the genocide on Palestine in Colombo
-
-*2024-05-31 19:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/184997) · `ta`
-
-In Colombo, civil groups protested outside the UN Headquarters, calling for an end to the genocide in Palestine.
-
-🟩
-
-Civil organizations staged a protest in front of the United Nations Headquarters in Colombo, demanding the halt of the genocide on Palestine.
-
-◼️
-
-[Data](articles/5fab65f7.json)
-
-[Extended Data](ext_articles/5fab65f7.ext.json)
 
 ---

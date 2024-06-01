@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-01 10:52:49**
+As of **2024-06-01 11:04:40**
 
 ## Newspaper Stats
 
-*Scraped **27,684** Articles*
+*Scraped **27,685** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adaderanalk | 3,145
 tamilmirrorlk | 3,245
 virakesarilk | 4,272
 dailymirrorlk | 4,382
-adaderanasinhalalk | 4,415
+adaderanasinhalalk | 4,416
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,681 (100.0%) of 27,684 articles have been extended.
+27,684 (100.0%) of 27,685 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-01 (Saturday)
+
+### දිගු කලකට පසු දකුණු අප්‍රිකාවේ පාලනය බලය වෙනස් වෙන ලකුණු
+
+*2024-06-01 10:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197235) · `si`
+
+දකුණු අප්‍රිකාවේ මැතිවරණයේ දැනට නිකුත් වී ඇති ප්‍රතිඵල අනුව දිගු කලක් පාලනය කළ අප්‍රිකානු ජාතික කොංග්‍රසයට සිය පාර්ලිමේන්තු බහුතරය අහිමි වීමේ අවදානමක් මතුව තිබේ.
+
+විදෙස් වාර්තා සඳහන් කළේ ඡන්දය ප්‍රකාශ කරන දිස්ත්‍රික්කවලින් 91.62% කට වැඩි ප්‍රමාණයක, ගණන් කිරීම අවසන් වී ඇති අතර ඒ අනුව අප්‍රිකානු ජාතික කොංග්‍රසයට ලැබී ඇති ඡන්ද ප්‍රතිශතය දැනට 40.98% ක් බවය.
+
+ප්‍රජාතන්ත්‍රවාදී සන්ධානය 21.65%කින් ද, හිටපු ජනාධිපති ජේකබ් සූමාගේ නායකත්වයෙන් යුත් එම් කේ පක්ෂය 13.81%කින් ද, එෆ් එෆ් 9.49%කින් ද පසුපසින් සිටින බව වාර්තා වේ.
+
+අවසාන ප්‍රතිඵල සති අන්තයේ නිකුත් කිරීමට නියමිත අතර නෙල්සන් මැන්ඩෙලා ජනාධිපති බවට පත් වූ 1994 දී රටේ පළමු ප්‍රජාතන්ත්‍රවාදී මැතිවරණයෙන් පසු අප්‍රිකානු ජාතික කොංග්‍රසය සෑම මැතිවරණයකින්ම  50% ට වඩා වැඩි ඡන්ද ප්‍රමාණයක් ලබාගෙන තිබුණි.
+
+◼️
+
+[Data](articles/d26fc48d.json)
+
+---
 
 ### 85 die of heat stress in India as mercury soars
 
@@ -48,23 +66,31 @@ According to officials, five deaths were reported in Rourkela town of Sundargarh
 
 [Data](articles/33835a3f.json)
 
+[Extended Data](ext_articles/33835a3f.ext.json)
+
 ---
 
-### කුඹුක් ගසක සිට වැවට පැන්න පුද්ගලයා දියේ ගිලී මරුට
+### Person drowns from the Kumbuk tree
 
 *2024-06-01 10:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197234) · `si`
 
-පොල්පිතිගම අලුත් වැවේ දිය නෑමට ගිය පුද්ගලයෙකු දියේ ගිලී මියගොස් තිබේ.
+A 37-year-old man drowned in a tank in Polpithigama after falling from a Kumbuk tree. The incident occurred with two friends present.
 
-මෙම පුද්ගලයා ඊයේ (31) සවස ඔහුගේ මිතුරන් දෙදෙනෙකු සමග අලුත් වැවේ දියනෑමට ගොස් සිටිය දී මෙලෙස දියේ ගිලී ඇති බව පොලීසිය පවසයි.
+🟩
 
-පොලීස් විමර්ශනවලදී හෙළි ඇත්තේ මෙම පුද්ගලයා වැව අසල තිබූ කුඹුක් ගසකට නැඟ එහි අත්තක් මත සිට වැවට පැනීමේ දී මෙලෙස දියේ ගිලී ඇති බවය.
+A person drowned in the new tyrank of Polpithigama.
 
-මෙලෙස මිය ගොස් ඇත්තේ 37 හැවිරිදි කිරිබමුණේගම පොල්පිතිගම ප්‍රදේශයේ පදිංචිකරුවෙකි.
+The suspect had drowning in the new tank with two of his friends yesterday evening.
+
+Investigations revealed that the man had dropped to a Kumbuk tree near the tank and drowned in a branch.
+
+The victim is a 37 year old resident of Polpithigama Polpithigama.
 
 ◼️
 
 [Data](articles/28a6654b.json)
+
+[Extended Data](ext_articles/28a6654b.ext.json)
 
 ---
 
@@ -83,6 +109,8 @@ The minister stressed upon the importance of a consistent tourism policy, increa
 ...
 
 [Data](articles/a119f12b.json)
+
+[Extended Data](ext_articles/a119f12b.ext.json)
 
 ---
 
@@ -2155,29 +2183,5 @@ Meanwhile, Thasun Rithmika of Richmond College, Galle has obtained island’s be
 [Data](articles/c05f05b2.json)
 
 [Extended Data](ext_articles/c05f05b2.ext.json)
-
----
-
-### All Ceylon Students
-
-*2024-05-31 18:31:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அகில-இலங்கை-ரீதியில்-முதலிடத்தை-பிடித்த-மாணவர்கள்/175-338203) · `ta`
-
-In 2023, Bahanma Upani Lenora from Balika Vidyalaya topped the Science course, while W.A. Sirath Nirodha from Ananda College led in Physical Sciences among all Ceylon students. Results are available at doenets.lk.
-
-🟩
-
-2023 (2024) The GCE Advanced Level Examination for the Education General Level Examination was passed this afternoon.
-
-Bahanma Upani Lenora of the Balika Vidyalaya, which is the number one Sri Lanka Sangam, is the first in Sri Lanka in the science course.
-
-Similarly, W.A. Sirath Nirodha of Ananda College, Colombo is the number one place in the Physical Sciences.
-
-Meanwhile, you can find out the pelvis through the website of the Department of Examinations at https://www.doenets.lk/.R
-
-◼️
-
-[Data](articles/0af8b41e.json)
-
-[Extended Data](ext_articles/0af8b41e.ext.json)
 
 ---

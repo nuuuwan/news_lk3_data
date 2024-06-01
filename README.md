@@ -1,21 +1,21 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-01 13:03:59**
+As of **2024-06-01 13:18:34**
 
 ## Newspaper Stats
 
-*Scraped **27,694** Articles*
+*Scraped **27,697** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 248
+colombotelegraphcom | 249
 dbsjeyarajcom | 268
 bbccomsinhala | 273
 newsfirstlk | 363
 islandlk | 1,495
 economynextcom | 1,584
 dailyftlk | 1,635
-adalk | 2,360
+adalk | 2,362
 adaderanalk | 3,147
 tamilmirrorlk | 3,245
 virakesarilk | 4,272
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,418
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,692 (100.0%) of 27,694 articles have been extended.
+27,694 (100.0%) of 27,697 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,30 @@ In reply, quick-fire knocks from Paul Stirling (21) and George Dockrell (17) wer
 ...
 
 [Data](articles/4243bf1d.json)
+
+[Extended Data](ext_articles/4243bf1d.ext.json)
+
+---
+
+### ඉන්ධන මිල අඩුවෙයි
+
+*2024-06-01 12:50:31* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්ධන-මිල-අඩුවෙයි/11-409949) · `si`
+
+ඉන්ධන මිල සූත්‍රයට අනුව ඊයේ මධ්‍යම රාත්‍රයේ සිට ඉන්ධන මිල පහළ දැමීමට කටයුුතු කර තිබේ.
+
+ඔක්ටේන් 92 පෙට්‍රල් ලීටරයක මිල රුපියල් 13කින් අඩුකර ඇති අතර නව මිල රුපියල් 355කි
+
+ලංකා සුදු ඩීසල් ලීටරයක් රුපියල් 16කින් අඩුකර ඇති අතර නව මිල රුපියල් 317කි.
+
+භූමිතෙල් ලීටරයක් රුපියල් 13කින් පහළ දමා ඇති අතර නව මිල රුපියල් 202කි.
+
+කෙසේ වෙතත්  ඔකටේන් 95 පෙට්‍රල් සහ සුපර් ඩිසල් මිල සංශෝධනය කර නොමැත.
+
+ලංකා අයි.ඕ.සී සමාගමද සිපෙට්කෝ මිලට සමාන අයුරින් ඉන්ධන මිල අඩු කර ඇත.
+
+◼️
+
+[Data](articles/c4adfe60.json)
 
 ---
 
@@ -74,23 +98,29 @@ Another officer fired a shot at the assailant, bringing an end to the attack. Th
 
 ---
 
-### වගකීම ගාම්බීර් ට
+### Responsibility to Garmboir
 
 *2024-06-01 12:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197237) · `si`
 
-ඉන්දීය හිටපු ක්‍රීඩක ගෞතම් ගාම්භීර් ඉන්දීය ක්‍රිකට් කණ්ඩායමේ ප්‍රධාන පුහුණුකරු ධුරයට පත් කිරීමේ සුදානමක් පවතින බව වාර්තා වෙයි.
+Gautam Gambhir, former IPL champion with Kolkata Knight Riders, is set to become India's new cricket team chief trainer after Rahul Dravid's tenure ends. The Indian Cricket Board (BCCI) has recognized Gambhir's contributions and leadership skills, making him a strong candidate for the role.
 
-වත්මන් පුහුණුකරු ලෙස කටයුතු කරන රාහුල් ඩ්‍රාවිඩ්ගේ ධුර කාලය අවසන් වීම හේතුවෙන් නව පුහුණුකරුවෙකු තෝරා පත් කරගැනීම සඳහා ඉන්දීය ක්‍රිකට් පාලක මණ්ඩලය කටයුතු කරමින් සිටින අතර එහිදී ගාම්භීර් සම්බන්ධයෙන් වැඩි අවධානයක් යොමුව ඇති බව ඉන්දීය මාධ්‍ය වාර්තා කළේය.
+🟩
 
-නිමාවූ ඉන්දීය ප්‍රීමියර් ලීග් තරගාවලියේ ශූරතාව හිමිකරගත් කොල්කටා නයිට්රයිඩර්ස් කණ්ඩායමේ උපදේශකයෙකු ලෙස ගෞතම් ගාම්භීර් කටයුතු කර තිබුණි.
+It is reported that the Indian sportsman Gambam Gambhir is a prepared to be appointed as the Chief Trainer of the Indian Cricket Team.
 
-එම කණ්ඩායමේ ජයග්‍රහණය වෙනුවෙන් ගෞතම් ගාම්භීර් දැක්වු දායකත්වය පිළිබඳ ඉන්දීය ක්‍රිකට් පාලක මණ්ඩලයේ විශේෂ අවධානය යොමුවී ඇති බව වාර්තා වෙයි.
+The Indian Cricket Board (CC) has been involved in selecting a new focus on the Gambin due to the end of Rahul Dravid's term of the current coach.
 
-ඉන්දීය ක්‍රිකට් කණ්ඩායමේ ප්‍රධාන පුහුණුකරු ධුරය සඳහා අයදුම්පත් කැඳවීම පසුගිය මස 27වනදායින් අවසන් වු අතර ඒ සඳහා අයදුම් පත් 3,000 ඉක්මවූ සංඛ්‍යාවක් ලැබී තිබූ බව සඳහන් වෙයි.
+Gautam Gambhir acted as a tribe of the Gail Nightdreaders group, which won the championship in the Indian Premier League.
+
+The Indian Cricket Board (SLC) has focused on the contribution of Gautam Gambhir to achieve the group.
+
+The call for the post of Indian cricket team has concluded on the 27st of the 27st of the year.
 
 ◼️
 
 [Data](articles/d3e1d5fc.json)
+
+[Extended Data](ext_articles/d3e1d5fc.ext.json)
 
 ---
 
@@ -591,6 +621,18 @@ Woakes, who helped England win the 2019 50-over World Cup, added: "I will be bac
 [Data](articles/7e886251.json)
 
 [Extended Data](ext_articles/7e886251.ext.json)
+
+---
+
+### Politics Of Paranoia
+
+*2024-06-01 07:26:17* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/politics-of-paranoia/) · `en`
+
+The rise of NPP from the ashes of Aragalaya and led by a new generation of JVP leadership, which has distanced itself from that party’s insurrectionary past, and NPP’s tireless campaign to convince the voting public that Sri Lanka’s economic malaise is not an isolated phenomenon, but part of an overall systemic paralysis that had been sapping for decades the vitality of a once peaceful and prosperous nation, and that it cannot be rectified unless there is a radical transformation of its political culture, economic management and socio-cultural ethnonationalism has created an atmosphere of political paranoia amongst the old guards who are now driven to a state of panic looking for a way out to avoid confronting the NPP at the ballot box. It is that paranoia and panic which has provoked the General Secretary of UNP to call for the postponement of elections for two years.  Although that call has drawn criticisms from several corners it did not come out of a vacuum.
+
+...
+
+[Data](articles/931acbbe.json)
 
 ---
 
@@ -2153,45 +2195,5 @@ Minister of Higher Education Suren Raghavan made this statement at a media brief
 [Data](articles/c91cb4f4.json)
 
 [Extended Data](ext_articles/c91cb4f4.ext.json)
-
----
-
-### Followan Intelligence Officer Lieutenant K Colonel Muthalif 19
-
-*2024-05-31 19:46:23* · [`adalk`](https://www.ada.lk/opinion/ක‍ිර්තිමත්-බුද්ධි-අංශ-නිලධාරී-ලුතිනන්-කර්නල්-මුතාලිෆ්-ඝාතනයට-වසර-19/2-409946) · `si`
-
-Intelligence officers like Lt. Col. Muthalif play a crucial role in national security, protecting both the leadership and the populace. Muthalif, a key figure in military intelligence, faced threats due to his efforts against the LTTE. Despite these dangers, he continued his service, contributing significantly to weakening the LTTE. His dedication and bravery were recognized nationally, highlighting his importance in the fight against terrorism and his impact on national unity.
-
-🟩
-
-Since all war heroes who have committed to the nation's warfare to protect the country, the intelligence of such war soldiers, or angrout, is a great deal of national security in the country.A military intelligence in a country is working on the state ruler and the entire masses.. They have been sworn in not only to protect the leadership but also to protect their homeland with the overall people.
-
-Evaniasaya, a major link of such intelligence, was to go to the war heroair to go to the war heroair to be able to go to the brumy three years. At that time, the highest officer in the Army was a shocked by the highest officer in the Army and the international army, violating the terms of the government and LTTE.. Major Muthalif, who served as the commander of the Sri Lanka Army's First Brigade, was on his way to the car in the car.The demise of such strategic intelligence was an incident that caused everyone in this country.
-
-...
-
-[Data](articles/31e5c0bf.json)
-
-[Extended Data](ext_articles/31e5c0bf.ext.json)
-
----
-
-### Jeevan criticized for thuggish behavior; takes law into own hands
-
-*2024-05-31 19:42:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Jeevan-criticized-for-thuggish-behavior-takes-law-into-own-hands/108-283819) · `en`
-
-May 31 - In a country where Ministers often believe they can get away by taking the law into their own hands, Water Supply Minister Jeevan Thondaman was the latest to be ridiculed for his thuggish behavior when he threatened police officers and the management of a Nuwara Eliya tea estate.
-
-In a social media video, likely to have been filmed by someone closely following the Minister, Jeevan was seen turning into an 'angry rowdy' while entering the tea estate by force and threatening the management.
-
-He was also seen arguing with the police and later blocking the roads, in a manner not suitable for a Cabinet Minister.
-
-However, after coming under criticism, Jeevan took to his X account defending his actions.
-
-...
-
-[Data](articles/588c5125.json)
-
-[Extended Data](ext_articles/588c5125.ext.json)
 
 ---

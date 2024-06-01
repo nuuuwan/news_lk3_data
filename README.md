@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-01 21:18:57**
+As of **2024-06-01 21:34:13**
 
 ## Newspaper Stats
 
-*Scraped **27,755** Articles*
+*Scraped **27,756** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,34 +19,64 @@ adalk | 2,365
 adaderanalk | 3,155
 tamilmirrorlk | 3,252
 virakesarilk | 4,282
-dailymirrorlk | 4,399
+dailymirrorlk | 4,400
 adaderanasinhalalk | 4,435
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,753 (100.0%) of 27,755 articles have been extended.
+27,755 (100.0%) of 27,756 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-01 (Saturday)
 
-### උසස් පෙළ අසමත් දරුවන්ට යන්න පුළුවන් පාර පෙන්වයි
+### Showing road to children who have failed children
 
 *2024-06-01 21:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197258) · `si`
 
-මේ වනවිට නිකුත් කර තිබෙන උසස් පෙළ විභායේ ප්‍රතිඵලවලට අනුව කිසිම දරුවෙක් සමත් වුවත් අසමත් වුවත් ඔහු පරාජිතයෙකු නොවන බව විශ්වවිද්‍යාල ප්‍රතිපාදන කොමිෂන් සභාවේ සභාපති ජ්‍යේෂ්ඨ මහාචාර්ය සම්පත් අමරතුංග මහතා පවසයි.
+Amaratunga, Chairman of the University Grants Commission, reassures students who failed their A/L exams that they are not losers. He encourages them to retake the exams or pursue vocational training, emphasizing that failure does not define one's potential or worth.
 
-අද (01) මාධ්‍ය වෙත අදහස් දක්වමින් විශ්වවිද්‍යාල ප්‍රතිපාදන කොමිෂන් සභාවේ සභාපතිවරයා ඒ බව සඳහන් කළේය.
+🟩
 
-"ඊයේ ආපු උසස් පෙළ විභාග ප්‍රතිඵල අනුව කිසිම දරුවෙක් සමත් වුණත් අසමත් වුණත් ඔහු පරාජිතයෙකු නොවේ. දරුවන්ට අවශ්‍යනම් නැවත වරක් උසස් පෙළ හදාරලා බලන්න පුළුවන්. ඊට අමතරව දුවලා පුතාලට නිපුනතා සහ කුසලතා අනුව කටයුතු කරන්න පුළුවන් වෘත්තීමය ආයතන තියෙනවා.
+The Chairman of the University Grants Amaratunga says he is not a loser, but he is not a loser, but he is not a loser.
 
-දරුවෙකුට වැඩ තුනම අසමත් කියලා... ඒ වැඩ තුනම අසමත් දරුවන්නට උසස් පෙළ වෙනුවට ඩිප්ලෝමා පාඨමාලාවක් කරන්න පුළුවන්. ඒ ඩිප්ලෝමාවේ ප්‍රතිඵල පදනම් කරගෙන උපාදියක් ගන්න පුළුවන්. අද ලෝකයේ රටේ එවැනි අද්වීතිය පුද්ගලයෝ ඕනේ තරම් ඉන්නවා. අතීතය කොතරම් අසමත් වුණත් ඒවා ඔහුට උරුමයක් නොවේ."
+The Chairman of the University Grants Commission was speaking at the media this morning.
+
+"The A / L examination results of yesterday failed to pass, but he is not a loser. If children want to study the A / L again. In addition, there are professional institutions that can work with skills and skills to the same son.
+
+The child fails all three work.. You can make a Diploma in Inspiration to fail all three. You can take a redash based on the results of that Diploma. Such experience in the country today is plenty of people. Though the past, it is no matter how fare past. "
 
 ◼️
 
 [Data](articles/ca7bc020.json)
+
+[Extended Data](ext_articles/ca7bc020.ext.json)
+
+---
+
+### India’s Modi could win third term, polls predict
+
+*2024-06-01 20:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Indias-Modi-could-win-third-term-polls-predict/107-283891) · `en`
+
+India, June 1 (BBC) - India's Prime Minister Narendra Modi is likely to win a third consecutive term in office, exit polls suggest.
+
+Analysts warn the polls, released by various news agencies, have often been wrong in the past and are not impartial.
+
+However, they have placed Mr Modi's Bharatiya Janata Party (BJP) as the frontrunner in the general election.
+
+The BJP, the main opposition Congress party and regional rivals battled it out in a fierce campaign over seven phases of polling.
+
+A party or coalition needs 272 seats in parliament to form a government.
+
+The BJP led-coalition, the National Democratic Alliance (NDA), will cross this target - according to exit polls.
+
+If Mr Modi wins, he will be only the second prime minister in India to hold office for three consecutive terms. The first to do so was Jawaharlal Nehru, India's first PM.
+
+...
+
+[Data](articles/cfe98362.json)
 
 ---
 
@@ -92,17 +122,23 @@ The Gratiaen event was held in association with the John Keells Foundation and s
 
 ---
 
-### ගංවතුර ගැන දැනුම්දීමක්
+### A Notification of Floods
 
 *2024-06-01 20:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197257) · `si`
 
-සුළු ගංවතුර තත්ත්වයක් පිළිබඳ අනතුරු ඇඟවීමේ නිවේදයක් වාර්මාර්ග දෙපාර්තමේන්තුව විසින් නිකුත් කර තිබේ.
+The Department of IMP has warned of minor flooding in specific areas around the Small River and Roadgrounds in Bulathsinhala, Madurawala, and Palindawala Divisional Secretariats over the next 48 hours.
 
-ඒ අනුව ඉදිරි පැය 48ක් දක්වා වූ කාලය තුළ බුලත්සිංහල, මදුරාවල හා පාලින්ද නුවර යන ප්‍රාදේශීය ලේකම් කොට්ඨාසවල කුඩා ගඟ සහ මගුර ගඟ අයත් පහත් බිම් ප්‍රදේශවල සුළු ගංවතුර තත්ත්වයක් ඇතිවිය හැකි බවට අනතුරු අඟවයි.
+🟩
+
+The Department of IMP has issued a warning statement regarding a small flooding.
+
+Accordingly, up to the next 48 hours, it warns that minor floods belonging to the small areas of the small area of ​​the Small River and the Roadgrounds in Bulathsinhala, Madurawala and Palindawala Divisional Secretariats.
 
 ◼️
 
 [Data](articles/5d887e44.json)
+
+[Extended Data](ext_articles/5d887e44.ext.json)
 
 ---
 
@@ -2313,29 +2349,5 @@ The Rajapaksas do not have the elections after the elections.
 [Data](articles/458156c0.json)
 
 [Extended Data](ext_articles/458156c0.ext.json)
-
----
-
-### Meeting with young representatives of the president;New mechanism to strongly engage young generation on the country's future journey
-
-*2024-06-01 02:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/185005) · `ta`
-
-President Ranil Wickremesinghe met with young leaders to discuss Sri Lanka's future, emphasizing youth involvement in governance. They discussed economic reforms and how to incorporate youth ideas for the country's development.
-
-🟩
-
-A meeting between President Ranil Wickremesinghe and the Young Representatives was held on Thursday 30th at the President's official residence.
-
-The event was organized under the theme "Youth Discussion - Young Heads of Sri Lanka tomorrow" as part of the participation of the youth in the Presidential Secretariat.
-
-Here was a discussion on the new economic restructuring and reform efforts being carried out by the government.President Ranil Wickremesinghe emphasized that the participation of the youth for the successful future journey of Sri Lanka is very important.
-
-The President gave answers to questions raised by the youth and congratulated the youth's efforts to build Sri Lanka future. The President advised the authorities to implement a mechanism to obtain the ideas and recommendations of the youth for the future of the country.
-
-...
-
-[Data](articles/38e4eec1.json)
-
-[Extended Data](ext_articles/38e4eec1.ext.json)
 
 ---

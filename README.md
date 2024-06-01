@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-01 23:34:06**
+As of **2024-06-01 23:53:25**
 
 ## Newspaper Stats
 
-*Scraped **27,764** Articles*
+*Scraped **27,765** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,32 @@ adalk | 2,365
 adaderanalk | 3,158
 tamilmirrorlk | 3,253
 virakesarilk | 4,282
-dailymirrorlk | 4,400
+dailymirrorlk | 4,401
 adaderanasinhalalk | 4,439
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,763 (100.0%) of 27,764 articles have been extended.
+27,764 (100.0%) of 27,765 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-01 (Saturday)
+
+### Hadunnetti apologises to Elon Musk
+
+*2024-06-01 23:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Hadunnetti-apologises-to-Elon-Musk/108-283892) · `en`
+
+Colombo, June 1 (Daily Mirror) Claiming that he never meant to call billionaire businessman Elon Musk an economic hit-man, NPP Economic Council member Sunil Hadunnetti said today he expresses his regrets to Elon Musk.
+
+Speaking during a Business Forum, Hadunnetti said his reference to economic hit-men was to James Packer and George Soros who were brought into the country during the previous Ranil Wickremesinghe government.
+
+...
+
+[Data](articles/f5dbacd3.json)
+
+---
 
 ### Constitution mandates that any govt should accord priority to Buddhism – President
 
@@ -86,21 +100,27 @@ June 8 against Bangladesh and the fourth match against Bangladesh will be held a
 
 ---
 
-### அடுத்த 36 மணித்தியாலங்கள் குறித்து எச்சரிக்கை
+### Warning on the next 36 hours
 
 *2024-06-01 22:28:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அடுத்த-36-மணித்தியாலங்கள்-குறித்து-எச்சரிக்கை/175-338251) · `ta`
 
-அடுத்த 36 மணி நேரத்திற்கு கனமழை பெய்யக்கூடும் என வளிமண்டலவியல் திணைக்களம் இன்று மாலை வெளியிட்ட புதிய வானிலை முன்னறிவித்தலில் எச்சரிக்கை விடுத்துள்ளது.
+Heavy rains predicted for the next 36 hours across the Western, Sabaragamuwa provinces, Galle, and Matara districts, with over 100mm expected in some areas. Thunderstorms may also affect other regions during evenings or nights. The Department of Meteorology advises the public to prepare for potential heavy winds and lightning, urging caution.
 
-மேல், சப்ரகமுவ மாகாணங்களிலும், காலி மற்றும் மாத்தறை மாவட்டங்களிலும் சில இடங்களில் 100 மில்லிமீற்றருக்கும் அதிகளவான கனமழை பெய்யக்கூடும் என அதில் சுட்டிக்காட்டப்பட்டுள்ளது.
+🟩
 
-நாட்டின் ஏனைய பிரதேசங்களில் மாலை அல்லது இரவு வேளையில் இடைக்கிடையில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும்.
+The Department of Meteorology has issued a warning of the new weather forecast this evening that heavy rains are expected for the next 36 hours.
 
-இடியுடன் கூடிய மழையுடன் தற்காலிக பலத்த காற்று மற்றும் மின்னலினால் ஏற்படக்கூடிய ஆபத்தை குறைப்பதற்கு தேவையான நடவடிக்கைகளை எடுக்குமாறு வளிமண்டலவியல் திணைக்களம், பொது மக்களிடம் கோரியுள்ளது. R
+It has indicated that more than 100 millimeters of heavy rainfall is expected in some places in the Western, Sabaragamuwa provinces, Galle and Matara districts.
+
+Rainfall or thunderstorms can occur in the evening or night in the rest of the country.
+
+The Department of Meteorology has requested the general public to take necessary steps to reduce the risk of temporary heavy winds and lightning with thunderstorms.. Remble
 
 ◼️
 
 [Data](articles/4adb0c4f.json)
+
+[Extended Data](ext_articles/4adb0c4f.ext.json)
 
 ---
 
@@ -2315,33 +2335,5 @@ Also, 29 students, 29 students, 2 AC Siddhi, 2 AS Siddhi One student, A2B Siddhi
 [Data](articles/8954b729.json)
 
 [Extended Data](ext_articles/8954b729.ext.json)
-
----
-
-### Action should be taken with the Governor of the Eastern Province to maintain the sanctity and the development of Thirukonachara
-
-*2024-06-01 02:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/185010) · `ta`
-
-Dr. Sarudirumurugan urges the Eastern Province Governor to preserve and enhance Thirukonachara's sanctity and development. Immediate actions include removing nearby box stores, addressing archaeological disturbances, repairing Trincomalee, rehabilitating Papanasam Tirthakara, and seeking Indian government support for temple beautification. Swift action is thanked and requested.
-
-🟩
-
-All Ceylon Hindu Vice President Dr. Sarudirumurugan has requested that the Governor of the Eastern Province take action to maintain the sanctity and development of Thirukonachara.. The bite written to the Governor of the Eastern Province
-
-The Governor of the Eastern Province should be concerned about maintaining sanctity and development.
-
-Governor of the Eastern Province Senthil Thondaman should take immediate action to protect the Thirukkonachara, the main temple of the Saivite Tamils.
-
-Remove the box stores set up on both sides on the road to Trincomalee.
-
-The Department of Archeology has done a variety of disturbances. Stop the intercourse and arrange to carry out the massive repairs of the Trincomalee.
-
-Arrange the public to rehabilitate the Papanasam Tirthakara, the holy tirtha, the holy tirtha.
-
-...
-
-[Data](articles/69368c53.json)
-
-[Extended Data](ext_articles/69368c53.ext.json)
 
 ---

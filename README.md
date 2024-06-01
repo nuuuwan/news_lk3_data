@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-01 21:03:48**
+As of **2024-06-01 21:18:57**
 
 ## Newspaper Stats
 
-*Scraped **27,750** Articles*
+*Scraped **27,755** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,96 @@ newsfirstlk | 363
 islandlk | 1,495
 economynextcom | 1,584
 dailyftlk | 1,635
-adalk | 2,364
+adalk | 2,365
 adaderanalk | 3,155
-tamilmirrorlk | 3,251
+tamilmirrorlk | 3,252
 virakesarilk | 4,282
-dailymirrorlk | 4,398
-adaderanasinhalalk | 4,433
+dailymirrorlk | 4,399
+adaderanasinhalalk | 4,435
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,750 (100.0%) of 27,750 articles have been extended.
+27,753 (100.0%) of 27,755 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-01 (Saturday)
+
+### උසස් පෙළ අසමත් දරුවන්ට යන්න පුළුවන් පාර පෙන්වයි
+
+*2024-06-01 21:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197258) · `si`
+
+මේ වනවිට නිකුත් කර තිබෙන උසස් පෙළ විභායේ ප්‍රතිඵලවලට අනුව කිසිම දරුවෙක් සමත් වුවත් අසමත් වුවත් ඔහු පරාජිතයෙකු නොවන බව විශ්වවිද්‍යාල ප්‍රතිපාදන කොමිෂන් සභාවේ සභාපති ජ්‍යේෂ්ඨ මහාචාර්ය සම්පත් අමරතුංග මහතා පවසයි.
+
+අද (01) මාධ්‍ය වෙත අදහස් දක්වමින් විශ්වවිද්‍යාල ප්‍රතිපාදන කොමිෂන් සභාවේ සභාපතිවරයා ඒ බව සඳහන් කළේය.
+
+"ඊයේ ආපු උසස් පෙළ විභාග ප්‍රතිඵල අනුව කිසිම දරුවෙක් සමත් වුණත් අසමත් වුණත් ඔහු පරාජිතයෙකු නොවේ. දරුවන්ට අවශ්‍යනම් නැවත වරක් උසස් පෙළ හදාරලා බලන්න පුළුවන්. ඊට අමතරව දුවලා පුතාලට නිපුනතා සහ කුසලතා අනුව කටයුතු කරන්න පුළුවන් වෘත්තීමය ආයතන තියෙනවා.
+
+දරුවෙකුට වැඩ තුනම අසමත් කියලා... ඒ වැඩ තුනම අසමත් දරුවන්නට උසස් පෙළ වෙනුවට ඩිප්ලෝමා පාඨමාලාවක් කරන්න පුළුවන්. ඒ ඩිප්ලෝමාවේ ප්‍රතිඵල පදනම් කරගෙන උපාදියක් ගන්න පුළුවන්. අද ලෝකයේ රටේ එවැනි අද්වීතිය පුද්ගලයෝ ඕනේ තරම් ඉන්නවා. අතීතය කොතරම් අසමත් වුණත් ඒවා ඔහුට උරුමයක් නොවේ."
+
+◼️
+
+[Data](articles/ca7bc020.json)
+
+---
+
+### 2024 Lok Sabha election;BJP to rule again ???
+
+*2024-06-01 20:45:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/2024-லோக்சபா-தேர்தல்-மீண்டும்-ஆட்சி-அமைக்கும்-பாஜக/175-338250) · `ta`
+
+The 2024 Lok Sabha elections are underway in seven phases nationwide, showing a decline in voter turnout compared to 2019. Despite this, predictions suggest the BJP may retain power.
+
+🟩
+
+Most of the Lok Sabha elections have reported that the BJP will rule again in the 2024 Lok Sabha elections.
+
+The Lok Sabha elections are going on in 7 stages across the country. 66.1, 66.7 and 61 per cent votes were cast in the first three -stage election held on April 19, April 26 and May 7, respectively.. Voting has declined over the 2019 election so far. The 4th phase of the election was held in 9 states, 1 union territory. Elections were held in 25 seats in Andhra Pradesh. Of this, 67.25 percent of the votes were cast.
+
+The 5th phase of the election was held in 6 states. Of this, 60.48% of the votes were cast. A total of 889 candidates contested in the sixth phase of the sixth phase of the election. The last phase of the election was held today.
+
+It is at this juncture that the BJP will rule the BJP in the 2024 Lok Sabha elections. Remble
+
+◼️
+
+[Data](articles/f41a275b.json)
+
+[Extended Data](ext_articles/f41a275b.ext.json)
+
+---
+
+### Sri Lankan author Ramya Jirasinghe bags Gratiaen Prize
+
+*2024-06-01 20:29:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankan-author-Ramya-Jirasinghe-bags-Gratiaen-Prize/108-283890) · `en`
+
+June 1 , (Daily Mirror) - Renowned Sri Lankan author Ramya Jirasinghe's 'Father Cabraal's recipe for love cake' bagged the coveted Gratiean Prize at the 31st Gratiaen Awards ceremony held at The Stables at the Mews.
+
+Addressing the gathering after receiving her award Jirasinghe said that she never expected to win the award. "This year had one of the strongest shortlists of authors for the Gratiaen Prize. There were two previous winners and accomplished writers amongst the shortlist of authors. I thank the judges for the recognition they have given me."
+
+The Gratiaen event was held in association with the John Keells Foundation and supported by British Council Sri Lanka.
+
+◼️
+
+[Data](articles/f67deefb.json)
+
+[Extended Data](ext_articles/f67deefb.ext.json)
+
+---
+
+### ගංවතුර ගැන දැනුම්දීමක්
+
+*2024-06-01 20:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197257) · `si`
+
+සුළු ගංවතුර තත්ත්වයක් පිළිබඳ අනතුරු ඇඟවීමේ නිවේදයක් වාර්මාර්ග දෙපාර්තමේන්තුව විසින් නිකුත් කර තිබේ.
+
+ඒ අනුව ඉදිරි පැය 48ක් දක්වා වූ කාලය තුළ බුලත්සිංහල, මදුරාවල හා පාලින්ද නුවර යන ප්‍රාදේශීය ලේකම් කොට්ඨාසවල කුඩා ගඟ සහ මගුර ගඟ අයත් පහත් බිම් ප්‍රදේශවල සුළු ගංවතුර තත්ත්වයක් ඇතිවිය හැකි බවට අනතුරු අඟවයි.
+
+◼️
+
+[Data](articles/5d887e44.json)
+
+---
 
 ### ISIS CEBS CONTENTS HEVER SHIPLED IN PUMBERA
 
@@ -61,6 +135,30 @@ Meanwhile, he was arrested last night accordingly the suspect is hiding in Colom
 [Data](articles/1022e54b.json)
 
 [Extended Data](ext_articles/1022e54b.ext.json)
+
+---
+
+### Minister Jivan Thondaman delegates in front of the Nuwara Eliya Police
+
+*2024-06-01 19:55:35* · [`adalk`](https://www.ada.lk/breaking_news/ඇමති-ජිවන්-තොණ්ඩමන්-නුවරඑලිය-පොලිසිය-ඉදිරිපිට-යකා-නටයි/11-409953) · `si`
+
+Minister Jivan Thondaman and the General Secretary of the Ceylon Workers Congress were summoned to the Nuwara Eliya police regarding a dispute involving party supporters and tea factory employees. After discussions, it was decided to withdraw the complaint against them, leading to a peaceful resolution.
+
+🟩
+
+The General Secretary of the Ceylon Workers Congress (General Secretary of the Ceylon) and Minister Jivan Thondaman (01) had been summoned to the Nuwara Eliya police force.
+
+The estate authority has taken a group of supporters of the party and removed the employees of the Tea Factories, including the CEO of the Tea Factories and the CEO of Kelani Vidyalaya.) The supporters of the party Jivan Thondaman and the party supporters protest against the Nuwara Eliya Police.
+
+Minister Jivan Thondaman was asked to visit the police in several parts of the Nuwara Eliya Police, but the Minister Jivan Thondaman was later rejected and discussed with high police officers.It was agreed to withdraw the complaint against him and his supporters.
+
+The supporters were scattered in front of the police after making the statement. He said that a senior official from Nuwara Eliya police said that the party's highlights were taken against the complaint against Minister Jivendandance and the supporters of the party.
+
+◼️
+
+[Data](articles/5e0adfaa.json)
+
+[Extended Data](ext_articles/5e0adfaa.ext.json)
 
 ---
 
@@ -2239,117 +2337,5 @@ The President gave answers to questions raised by the youth and congratulated th
 [Data](articles/38e4eec1.json)
 
 [Extended Data](ext_articles/38e4eec1.ext.json)
-
----
-
-### Israeli attack on Palestine
-
-*2024-06-01 01:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/185004) · `ta`
-
-Protesters gathered outside Colombo Thevadakaha School, calling for an end to Israel's assault on Palestine.
-
-🟩
-
-Civil organizations engaged in a protest in front of the Colombo Thevadakaha School, demanding the halt of the Israeli attack on Palestine.
-
-◼️
-
-[Data](articles/1705bf62.json)
-
-[Extended Data](ext_articles/1705bf62.ext.json)
-
----
-
-### Two bodies recovery in Victoria reservoir
-
-*2024-06-01 01:45:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விக்டோரியா-நீர்த்தேக்கத்தில்-இரு-சடலங்கள்-மீட்பு/175-338221) · `ta`
-
-In Victoria Reservoir, two decomposed bodies were discovered in Digana and Ambakotte, making identification challenging. A magistrate visited the site and the hospital where the bodies were taken for autopsy. Further inquiries are being conducted by Teldeniya police.
-
-🟩
-
-According to the information available, two bodies have been found from Digana and Ambakotte area. They have been rotten so that they are unidentified, police said.
-
-The Teldeniya reply magistrate visited the scene and visited the bodies. The bodies have been taken to the Kandy National Hospital for autopsy.
-
-Teldeniya police are conducting further investigations into the incident. (A)
-
-◼️
-
-[Data](articles/971643f2.json)
-
-[Extended Data](ext_articles/971643f2.ext.json)
-
----
-
-### SJB vows to thwart President’s election delay tactics
-
-*2024-06-01 01:07:42* · [`dailyftlk`](https://www.ft.lk/news/SJB-vows-to-thwart-President-s-election-delay-tactics/56-762479) · `en`
-
-SJB’s Sujeewa Senasinghe accuses President Ranil Wickremesinghe of resorting to political tricks and manipulations to delay polls
-
-Claims Palitha Range Bandara’s proposal to delay elections is strategic manoeuvre orchestrated by Wickremesinghe
-
-Assures SJB will vigorously oppose any attempts to delay Presidential Election
-
-Dismisses rumours of potential collaboration between SJB and UNP ahead of polls
-
-Samagi Jana Balawegaya (SJB) Head of Presidential Election Operations Sujeewa Senasinghe asserted yesterday that the party would firmly resist any attempts by President Ranil Wickremesinghe to manipulate the electoral process.
-
-Speaking at a press briefing in Colombo, Senasinghe accused Wickremesinghe of relying heavily on political manoeuvres and deceptive tactics throughout his three-decade-long political career.
-
-...
-
-[Data](articles/2c5d4bae.json)
-
-[Extended Data](ext_articles/2c5d4bae.ext.json)
-
----
-
-### Lawyers Collective condemns Range Bandara’s proposal to postpone polls
-
-*2024-06-01 01:06:46* · [`dailyftlk`](https://www.ft.lk/news/Lawyers-Collective-condemns-Range-Bandara-s-proposal-to-postpone-polls/56-762478) · `en`
-
-Highlights “democracy deficit” in SL referencing 2022 Aragalaya uprising, which indicated lack of public confidence in Govt.
-
-Argues President Ranil Wickremesinghe elected amid public discontent, should uphold democratic principles and respect people’s sovereignty
-
-Says Bandara’s proposal is dangerous, made in bad faith, and disregards SL’s Constitution while abusing the rejected Parliamentary majority’s power
-
-Stresses regular elections are essential for democracy and condemns any attempt to interfere with the process as an authoritarian move
-
-The Lawyers Collective yesterday strongly condemned a recent statement made by the United National Party (UNP) General Secretary Palitha Range Bandara proposing a public referendum to extend the terms of the current President and Parliament by two years.
-
-...
-
-[Data](articles/483ae8a1.json)
-
-[Extended Data](ext_articles/483ae8a1.ext.json)
-
----
-
-### Iraq encourages re-establishment of Lankan embassy to boost diplomatic and economic ties
-
-*2024-06-01 01:02:16* · [`dailyftlk`](https://www.ft.lk/business/Iraq-encourages-re-establishment-of-Lankan-embassy-to-boost-diplomatic-and-economic-ties/34-762477) · `en`
-
-Chargé d’Affairs of Embassy Mohammed Obaid Jabur Zahir Al-Masoudi says reopening embassy helps to address visa issues, improve trade relations
-
-Encourages Sri Lankan investors to explore business opportunities in Baghdad and Kurdistan
-
-Praises Sri Lanka’s progress towards economic stability, reaffirms Iraq’s commitment to supporting economic development
-
-Trade Minister Nalin Fernando outlines economic situation, stresses need for international support across various sectors
-
-Highlights importance of international partnerships in fostering economic recovery and growth
-
-Chargé d’Affairs of the Embassy of the Republic of Iraq in Sri Lanka Mohammed Obaid Jabur Zahir Al-Masoudi encouraged the re-establishment of a Sri Lankan embassy in Iraq, to strengthen diplomatic and economic engagement between the two countries.
-
-He said the move is seen as a crucial step in addressing visa issues and smoother trade relations.
-
-...
-
-[Data](articles/42d58f8e.json)
-
-[Extended Data](ext_articles/42d58f8e.ext.json)
 
 ---

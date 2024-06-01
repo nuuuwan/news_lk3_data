@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-01 11:34:14**
+As of **2024-06-01 11:53:43**
 
 ## Newspaper Stats
 
-*Scraped **27,685** Articles*
+*Scraped **27,688** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,80 @@ adalk | 2,360
 adaderanalk | 3,145
 tamilmirrorlk | 3,245
 virakesarilk | 4,272
-dailymirrorlk | 4,382
-adaderanasinhalalk | 4,416
+dailymirrorlk | 4,384
+adaderanasinhalalk | 4,417
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,685 (100.0%) of 27,685 articles have been extended.
+27,685 (100.0%) of 27,688 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-01 (Saturday)
+
+### Increased tobacco use among schoolchildren: Expert
+
+*2024-06-01 11:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Increased-tobacco-use-among-schoolchildren-Expert/108-283830) · `en`
+
+Health experts have raised concerns about the rising use of tobacco products among schoolchildren in Sri Lanka.
+
+Speaking on World No-Tobacco Day which fell yesterday (31), Dr. Shakya Nanayakkara, Chairman of the National Dangerous Drugs Control Board, highlighted that tobacco products are becoming increasingly common in schools.
+
+Dr. Nanayakkara emphasized that children who become addicted to these products are likely to progress to smoking cigarettes.
+
+He also noted the growing popularity of e-cigarettes globally, cautioning that individuals who develop a nicotine habit through e-cigarettes are at a high risk of transitioning to smoking traditional cigarettes.
+
+Further, he warned that the ingestion of nicotine can lead to adverse effects such as dizziness, vomiting, and general physical discomfort.
+
+As such, Dr. Nanayakkara urged parents and teachers to educate children about the dangers of nicotine and the reasons for its use.
+
+◼️
+
+[Data](articles/2fc32f2b.json)
+
+---
+
+### දෙවන පුහුණු තරගයේ ජය ශ්‍රී ලංකාවට
+
+*2024-06-01 11:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197236) · `si`
+
+20 -20 ලෝක කුසලානය වෙනුවෙන් පැවැත්වුණු දෙවන පුහුණු තරගයෙන් ලකුණු 41ක ජයක් වාර්තා කිරීමට ශ්‍රී ලංකා කණ්ඩායම සමත් වුණි.
+
+තරගයේ කාසියේ වාසිය දිනු අයර්ලන්තය පළමුව පන්දුවට පහර දීමට ශ්‍රී ලංකාවට ආරාධනා කළේය.
+
+ඒ අනුව පිටියට පිවිසි ශ්‍රී ලංකාව නියමිත පන්දුවාර 20 අවසානයේදී කඩුලු 8ක් දැවි ලකුණු 163ක් රැස්කර ගත්තේය.
+
+ඇන්ජලෝ මැතිව්ස් නොදැවී ලකුණු 32ක් රැස්කළ අතර වනිඳු හසරංග ලකුණු 26යි.
+
+ලකුණු 164ක ජයග්‍රාහි ඉලක්කයක් හඹා යෑමට පිටියට පිවිසි අයර්ලන්ත කණ්ඩායමට පන්දුවාර 18යි පන්දු 2කදී සියලුදෙනා දැවි රැස්කරගත හැකිවූයේ ලකුණු 122ක් පමණයි.
+
+ශ්‍රී ලංකාව ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ ක්‍රීඩා කරන පළමු තරගය එළැඹෙන සඳුදා දකුණු අප්‍රිකාවට එරෙහිව පැවැත්වීමට නියමිතය.
+
+◼️
+
+[Data](articles/790e3c73.json)
+
+---
+
+### Sri Lankan monks, Minister explore rich Buddhist heritage in Pakistan
+
+*2024-06-01 10:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankan-monks-Minister-explore-rich-Buddhist-heritage-in-Pakistan/108-283876) · `en`
+
+Peshawar, June 1 (Daily Mirror) - A Sri Lankan delegation of Sri Lankan Buddhist monks and State Minister for Buddhasasana, Religious and Cultural Affairs, Vidura Wickramanayake called on the Governor of Khyber Pakhtunkhwa, Faisal Karim Kundi at the Governor’s House in Peshawar, Pakistan on Friday.
+
+The meeting was part of their visit to Pakistan to participate in the symposium and exhibition titled “Gandhara to the World,” organized by the Ministry of Foreign Affairs.
+
+During their visit, the delegation had the opportunity to explore the historic Governor’s House in Peshawar.
+
+Governor Karimkundi briefed the delegation on the deep-rooted history and cultural significance of Khyber Pakhtunkhwa, particularly highlighting its ancient Buddhist heritage. Emphasizing the province’s commitment to preserving this legacy, Governor Karimkundi discussed efforts to promote tourism between Pakistan and Sri Lanka, citing the region’s allure to Buddhist religious leaders from around the world.
+
+...
+
+[Data](articles/4688e16f.json)
+
+---
 
 ### Signs of the control of South Africa after a long time
 
@@ -2125,69 +2187,5 @@ Steps have been taken to present the suspect to the Pudukkadai Magistrate's Cour
 [Data](articles/003f5ca6.json)
 
 [Extended Data](ext_articles/003f5ca6.ext.json)
-
----
-
-### Allow the Triposha production again
-
-*2024-05-31 18:38:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திரிபோஷா-உற்பத்திக்கு-மீண்டும்-அனுமதி/175-338204) · `ta`
-
-Dr. Asela Gunawardena allows children aged 6 months to 3 years to reuse Triposha under certain conditions.
-
-🟩
-
-Director General of Health Services Dr. Asela Gunawardena said that children between the ages of six months to 3 years will be allowed to re -use Triposha with conditions.. Remble
-
-◼️
-
-[Data](articles/a2b08d7a.json)
-
-[Extended Data](ext_articles/a2b08d7a.ext.json)
-
----
-
-### Over 150,000 qualify for university entrance
-
-*2024-05-31 18:37:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Over-150-000-qualify-for-university-entrance/108-283816) · `en`
-
-Colombo, May31 (Daily Mirror) - A total of 173,444 students have been qualified to apply for university admission this year following the 2023 (2024) GCE Advanced Level (A/L) examinations.
-
-Addressing the media, the Examinations Department Commissioner General said the qualified percentage was 64.33.
-
-Accordingly, a total of 269,613 applicants including 229,057 school applicants and 40,556 private applicants sat for the examinations.
-
-A total of 173,444 candidates including 151,343 school applicants and 22,101 private applicants qualified for university entrance.
-
-Meanwhile, a total of 190 candidates including 146 school applicants and 44 private applicants' results were suspended.
-
-Candidates can visit the Education Department’s official websites www.doenets.lk and www.results.exams.gov.lk
-
-◼️
-
-[Data](articles/ab5839ab.json)
-
-[Extended Data](ext_articles/ab5839ab.ext.json)
-
----
-
-### Island’s best results of 2023 A/L exam
-
-*2024-05-31 18:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/99568/islands-best-results-of-2023-al-exam) · `en`
-
-The names of the students who have obtained the best results in the island at the 2023 (2024) G.C.E. Advanced Level examination from each stream have been released.
-
-Accordingly, Pahanma Upani Lenora of Sangamitta Balika Vidyalaya in Galle has placed first in the island in the Biological Science stream while W.A Chirath Nirodha of Ananda College, Colombo is the island’s first in the Physical Science stream.
-
-In the Commerce stream, Shehara Sithumini of Panadura Balika Vidyalaya has obtained the best results in the island.
-
-Shehani Navodya of Ginigathhena Central College is the island’s first in the Engineering Technology stream.
-
-Meanwhile, Thasun Rithmika of Richmond College, Galle has obtained island’s best results in Arts stream while Kirulu Sihildiya Palliyaguru of Eheliyagoda Central College is the island’s first in the Bio Systems Technology.
-
-◼️
-
-[Data](articles/c05f05b2.json)
-
-[Extended Data](ext_articles/c05f05b2.ext.json)
 
 ---

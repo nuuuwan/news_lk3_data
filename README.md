@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-01 10:34:07**
+As of **2024-06-01 10:52:49**
 
 ## Newspaper Stats
 
-*Scraped **27,681** Articles*
+*Scraped **27,684** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,75 @@ islandlk | 1,495
 economynextcom | 1,583
 dailyftlk | 1,635
 adalk | 2,360
-adaderanalk | 3,144
+adaderanalk | 3,145
 tamilmirrorlk | 3,245
 virakesarilk | 4,272
-dailymirrorlk | 4,381
-adaderanasinhalalk | 4,414
+dailymirrorlk | 4,382
+adaderanasinhalalk | 4,415
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,680 (100.0%) of 27,681 articles have been extended.
+27,681 (100.0%) of 27,684 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-01 (Saturday)
+
+### 85 die of heat stress in India as mercury soars
+
+*2024-06-01 10:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/99574/85-die-of-heat-stress-in-india-as-mercury-soars) · `en`
+
+At least 85 people died of suspected heat stress and related issues in Odisha, Bihar, Jharkhand, Rajasthan and Uttar Pradesh in 24 hours, senior officials in these regions said on Friday, amid an unforgiving heat spell in India that has pushed temperatures to unprecedented levels in many of these regions.
+
+The maximum number of casualties was reported in Odisha, which has been reeling under intense heatwave conditions for the past few days, exacerbated further by high humidity that pushed the index to north of 50°C.
+
+In the eastern state, a total of 46 people died of suspected heat stress in a span of 24 hours, prompting the state government to call for an inquiry by senior officials in the health department.
+
+According to officials, five deaths were reported in Rourkela town of Sundargarh, Sambalpur and Bolangir districts on Friday.
+
+...
+
+[Data](articles/33835a3f.json)
+
+---
+
+### කුඹුක් ගසක සිට වැවට පැන්න පුද්ගලයා දියේ ගිලී මරුට
+
+*2024-06-01 10:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197234) · `si`
+
+පොල්පිතිගම අලුත් වැවේ දිය නෑමට ගිය පුද්ගලයෙකු දියේ ගිලී මියගොස් තිබේ.
+
+මෙම පුද්ගලයා ඊයේ (31) සවස ඔහුගේ මිතුරන් දෙදෙනෙකු සමග අලුත් වැවේ දියනෑමට ගොස් සිටිය දී මෙලෙස දියේ ගිලී ඇති බව පොලීසිය පවසයි.
+
+පොලීස් විමර්ශනවලදී හෙළි ඇත්තේ මෙම පුද්ගලයා වැව අසල තිබූ කුඹුක් ගසකට නැඟ එහි අත්තක් මත සිට වැවට පැනීමේ දී මෙලෙස දියේ ගිලී ඇති බවය.
+
+මෙලෙස මිය ගොස් ඇත්තේ 37 හැවිරිදි කිරිබමුණේගම පොල්පිතිගම ප්‍රදේශයේ පදිංචිකරුවෙකි.
+
+◼️
+
+[Data](articles/28a6654b.json)
+
+---
+
+### Tourism sector still reeling from economic crisis
+
+*2024-06-01 10:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Tourism-sector-still-reeling-from-economic-crisis/108-283874) · `en`
+
+Colombo, June 1 (Daily Mirror) - Despite the signs of recovery, the tourism sector is still struggling with the aftershocks of the economic and political crisis, Tourism Minister Harin Fernando said.
+
+Addressing a UN event, Fernando reflected upon the current state of the industry in his speech.
+
+“Many people in the tourism industry, even top-end hotels, are still facing an issue with their moratoriums, having to pay back the loans that they took because of the hit that we had from Covid as well as the economic crisis and the political crisis. People are still coming out of it. We are not far from the woods. We have lot more to go, a lot more to do,” Fernando said.
+
+The minister stressed upon the importance of a consistent tourism policy, increased government support and the urgent need of the sector to commit towards green initiatives.
+
+...
+
+[Data](articles/a119f12b.json)
+
+---
 
 ### Heavy showers expected in parts of the island
 
@@ -49,6 +103,8 @@ The sea areas off the coasts extending from Matara to Pottuvil via Hambantota ca
 ...
 
 [Data](articles/8ba4c7aa.json)
+
+[Extended Data](ext_articles/8ba4c7aa.ext.json)
 
 ---
 
@@ -2123,67 +2179,5 @@ Meanwhile, you can find out the pelvis through the website of the Department of 
 [Data](articles/0af8b41e.json)
 
 [Extended Data](ext_articles/0af8b41e.ext.json)
-
----
-
-### Decision about SAITM and Neville Fernando hospitals
-
-*2024-05-31 18:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197220) · `si`
-
-The Presidential Media Unit, SAITM, and NFTH will be managed by the University of Moratuwa's Medical Faculty. Preparations for this transition are set to begin in August, with studies starting in January 2025.
-
-🟩
-
-The Presidential Media Unit, the South Asian Institute of Technology (SAITM) and the Neville Fernando Teaching Hospital (NFTh) will be handed over to the Medical Faculty of the University of Moratuwa.
-
-It is said that before the commencement of study in January 2025, it is said that the necessary pre-action will be taken to the Medical Faculty of the University of Moratuwa in August.
-
-◼️
-
-[Data](articles/b26ddcd8.json)
-
-[Extended Data](ext_articles/b26ddcd8.ext.json)
-
----
-
-### Anjali event in Colombo for the late France Ambassador
-
-*2024-05-31 18:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/184984) · `ta`
-
-Jean-Francois Pactet, France's Ambassador to Sri Lanka, was honored at a ceremony in Colombo, presided over by Sri Lanka's Ambassador Brahin Udayakwa, with External Affairs Minister Ali Sabri and other diplomats in attendance.
-
-🟩
-
-Jean-Francois Pactet, France Ambassador to Sri Lanka, was held at St. Mary's Church in Kalupitiya, Colombo, this morning.
-
-The Ambassador of Sri Lanka, Brahin Udayakwa, presided over the event.
-
-External Affairs Minister Ali Sabri, Ambassadors and High Commissioners were present at the event.
-
-◼️
-
-[Data](articles/98c38249.json)
-
-[Extended Data](ext_articles/98c38249.ext.json)
-
----
-
-### Here is the A / L excellence
-
-*2024-05-31 18:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197219) · `si`
-
-Lanora and Lenora from Galle and Ananda College, Colombo, topped Biology and Math sections respectively in the A/L exams.
-
-🟩
-
-Students who obtained the first places in the island have been published according to each subject strength of the A / L examination results.
-
-Accordingly, Lanora, Lenora, holding the first place in Biology Division, Galle and Ananda College, Colombo. it. The chirath was won first place from the whistious math section.
-
-◼️
-
-[Data](articles/7813bfde.json)
-
-[Extended Data](ext_articles/7813bfde.ext.json)
 
 ---

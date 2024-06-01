@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-01 07:24:44**
+As of **2024-06-01 07:46:39**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 4,410
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,656 (100.0%) of 27,662 articles have been extended.
+27,662 (100.0%) of 27,662 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-01 (Saturday)
 
-### අදත් ප්‍රදේශ කිහිපයකට මි.මී. 100 ට වැඩි තද වැසි
+### MM in several areas. Heavy rains over 100
 
 *2024-06-01 06:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197229) · `si`
 
-බස්නාහිර, සබරගමුව, මධ්‍යම සහ දකුණු පළාත්වල විටින් විට වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවන බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Heavy rains exceeding 100mm are expected in the Western, Sabaragamuwa, Central, and Southern provinces, particularly in Galle, Matara, and Nuwara Eliya districts. Showers or thundershowers will also affect the Mullaitivu district in the evenings or nights. The Meteorology Department advises caution against strong winds and lightning due to thunderstorms.
 
-බස්නාහිර සහ සබරගමුව පළාත්වලත්, ගාල්ල, මාතර සහ නුවරඑළිය දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල මි.මී. 100 ට වැඩි තද වැසි ඇතිවිය හැකි බව සඳහන් වේ.
+🟩
 
-ඌව, උතුරු-මැද සහ නැගෙනහිර පළාත්වලත් මුලතිව් දිස්ත්‍රික්කයෙත් සවස් කාලයේ හෝ රාත්‍රි කාලයේ ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බව දැනුම් දී තිබේ.
+Showers or thundershowers will occur at times in the Western, Sabaragamuwa, Central and Southern provinces.
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළං වලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවට පවසයි.
+In some places in the Western and Sabaragamuwa Provincial, Galle, Matara and Nuwara Eliya districts. Heavy rains can occur at over 100.
+
+Showers or thundershowers will occur at several places in the Mullaitivu district or evening in the Mullaitivu district or night or night.
+
+The Department of Meteorology tells the public to take necessary steps to reduce temporary strong winds and lightning accidents due to thunderstorms.
 
 ◼️
 
 [Data](articles/65a7957e.json)
+
+[Extended Data](ext_articles/65a7957e.ext.json)
 
 ---
 
@@ -59,6 +65,8 @@ Union Bank has achieved a significant milestone by obtaining the Payment Card In
 ...
 
 [Data](articles/4c28aa36.json)
+
+[Extended Data](ext_articles/4c28aa36.ext.json)
 
 ---
 
@@ -74,6 +82,8 @@ Today, Crocodile stands as one of the most respected and well-known brands in th
 
 [Data](articles/ac2fd444.json)
 
+[Extended Data](ext_articles/ac2fd444.ext.json)
+
 ---
 
 ### Political uncertainty continues to cast pall of gloom on bourse
@@ -87,6 +97,8 @@ Turnover stood at Rs 1.16 billion with four crossings. Those crossings were repo
 ...
 
 [Data](articles/f116116e.json)
+
+[Extended Data](ext_articles/f116116e.ext.json)
 
 ---
 

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-01 11:53:43**
+As of **2024-06-01 12:05:34**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,417
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,685 (100.0%) of 27,688 articles have been extended.
+27,688 (100.0%) of 27,688 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -52,27 +52,35 @@ As such, Dr. Nanayakkara urged parents and teachers to educate children about th
 
 [Data](articles/2fc32f2b.json)
 
+[Extended Data](ext_articles/2fc32f2b.ext.json)
+
 ---
 
-### දෙවන පුහුණු තරගයේ ජය ශ්‍රී ලංකාවට
+### Sri Lanka wins second training match
 
 *2024-06-01 11:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197236) · `si`
 
-20 -20 ලෝක කුසලානය වෙනුවෙන් පැවැත්වුණු දෙවන පුහුණු තරගයෙන් ලකුණු 41ක ජයක් වාර්තා කිරීමට ශ්‍රී ලංකා කණ්ඩායම සමත් වුණි.
+In the second training match for the 20-20 World Cup, Sri Lanka triumphed by 41 runs over Ireland. Batting first after winning the toss, Sri Lanka made 163/8 in 20 overs, with Angelo Mathews contributing 32 and Wanuma Hasaranga 26. Ireland fell short, making just 122 all out in 18 overs. The next match sees Sri Lanka face South Africa on Monday.
 
-තරගයේ කාසියේ වාසිය දිනු අයර්ලන්තය පළමුව පන්දුවට පහර දීමට ශ්‍රී ලංකාවට ආරාධනා කළේය.
+🟩
 
-ඒ අනුව පිටියට පිවිසි ශ්‍රී ලංකාව නියමිත පන්දුවාර 20 අවසානයේදී කඩුලු 8ක් දැවි ලකුණු 163ක් රැස්කර ගත්තේය.
+Sri Lanka wins 41 runs in the second training match for the 20 -20 World Cup.
 
-ඇන්ජලෝ මැතිව්ස් නොදැවී ලකුණු 32ක් රැස්කළ අතර වනිඳු හසරංග ලකුණු 26යි.
+Ireland won the toss and elected to bat first.
 
-ලකුණු 164ක ජයග්‍රාහි ඉලක්කයක් හඹා යෑමට පිටියට පිවිසි අයර්ලන්ත කණ්ඩායමට පන්දුවාර 18යි පන්දු 2කදී සියලුදෙනා දැවි රැස්කරගත හැකිවූයේ ලකුණු 122ක් පමණයි.
+Accordingly, Sri Lanka entered the field and scored 163 runs for the loss of 8 wickets at the end of 20 overs.
 
-ශ්‍රී ලංකාව ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ ක්‍රීඩා කරන පළමු තරගය එළැඹෙන සඳුදා දකුණු අප්‍රිකාවට එරෙහිව පැවැත්වීමට නියමිතය.
+Angelo Mathews scored 32 runs while Fanuma Hasaranga scored 26 runs.
+
+The Irish team to reach a target of 164 runs, only 122 runs for the loss of 18 overs.
+
+Sri Lanka is scheduled to be held against South Africa on Monday, the first match played in the World Cup.
 
 ◼️
 
 [Data](articles/790e3c73.json)
+
+[Extended Data](ext_articles/790e3c73.ext.json)
 
 ---
 
@@ -91,6 +99,8 @@ Governor Karimkundi briefed the delegation on the deep-rooted history and cultur
 ...
 
 [Data](articles/4688e16f.json)
+
+[Extended Data](ext_articles/4688e16f.ext.json)
 
 ---
 

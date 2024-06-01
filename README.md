@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-01 13:53:12**
+As of **2024-06-01 14:04:23**
 
 ## Newspaper Stats
 
-*Scraped **27,699** Articles*
+*Scraped **27,703** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,40 +15,120 @@ newsfirstlk | 363
 islandlk | 1,495
 economynextcom | 1,584
 dailyftlk | 1,635
-adalk | 2,362
+adalk | 2,363
 adaderanalk | 3,147
-tamilmirrorlk | 3,245
+tamilmirrorlk | 3,246
 virakesarilk | 4,272
 dailymirrorlk | 4,386
-adaderanasinhalalk | 4,420
+adaderanasinhalalk | 4,422
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,698 (100.0%) of 27,699 articles have been extended.
+27,699 (100.0%) of 27,703 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-01 (Saturday)
 
-### ඉන්දියාවේ සිට හොරෙන් ගෙනආ බඩු
+### හීලෑ අලි ඇතුන් ගැන අලුත් තීරණයක්
+
+*2024-06-01 13:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197243) · `si`
+
+නිසි ලියාපදිංචියකින් තොරව හීලෑ අලි ඇතුන් සන්තකයේ තබාගෙන සිටින පුද්ගලයින්ට එරෙහිව නීතිමය ක්‍රියාමාර්ග ගැනීමට පියවර ගන්නා ලෙස අභියාචනාධිකරණය නියෝග කර තිබේ.
+
+අභියාචනාධිකරණය හමුවේ ගොනුකර තිබු රිට් පෙත්සමක තීන්දුව ප්‍රකාශයට පත්කරමින් වනජීවී අධ්‍යක්ෂ ජෙනරාල්වරයා, නීතිපතිවරයා සහ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව වෙත මෙම නියෝගය නිකුත් කර ඇත.
+
+වනජීවී දෙපාර්තමේන්තුව භාරයට ගනු ලැබූ අලි ඇතුන් 15 දෙනකු ඔවුන්ගේ අයිතිකරුවන් වන හිටපු ජනාධිපති ගෝඨාභය රාජපක්ෂ ඇතුළු මුල් අයිතිකරුවන් පිරිසක් වෙත මුදාහැරීමට අදාළව නිකුත් කර තිබෙන ගැසට් නිවේදනය බල රහිත කිරීමේ නියෝගයක් නිකුත් කරන ලෙස ඉල්ලා පාරිසරික හා සංස්කෘතික අධ්‍යයන ආයතනය ඇතුළු සංවිධාන කිහිපයක් අභියාචනාධිකරණය හමුවේ රිට් පෙත්සමක් ගොනුකර තිබුණි.
+
+ඒ අනුව අදාළ රිට් පෙත්සම සෝභිත රාජකරුණා සහ ධම්මික ගනේපොල යන විනිසුරු මඩුල්ල ඉදිරියේ සලකා බැලූ අතර පෙත්සම්කාර පාර්ශ්වය වෙනුවෙන් ජනාධිපති නීතිඥ සංජීව ජයවර්ධන මහතා ඇතුළු නීතිඥ මණ්ඩලයක් කරුණු ඉදිරිපත් කරනු ලැබීය.
+
+...
+
+[Data](articles/efdd034a.json)
+
+---
+
+### 2024 පැරිස් ඔලිම්පික් ක්‍රීඩා උළලේදී ප්‍රහාරයක් සැලසුම් කළ සැකකරුවෙක් අත්අඩංගුවට
+
+*2024-06-01 13:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197242) · `si`
+
+2024 පැරිස් ඔලිම්පික් ක්‍රීඩා උළලේ පාපන්දු තරග පැවැත්වෙන ක්‍රීඩාංගණයකට ත්‍රස්ත ප්‍රහාරයක් එල්ල කිරීමට සැලසුම් කළ තරුණයෙකු, ප්‍රංශ ආරක්ෂ අංශ අත්අඩංගුවට ගෙන තිබේ.
+
+තවත් සති කිහිපයකින් ආරම්භ වීමට නියමිත 2024 පැරිස් ඔලිම්පික් ක්‍රීඩා උළෙල ඉලක්ක කර ප්‍රහාරයක් දියත් කිරීමට සැලසුම් කළ 18 හැවිරිදි තරුණයෙකු එලෙස අත්අඩංගුවට ගැනීමට ප්‍රංශ ආරක්ෂක අංශ කටයුතු කර ඇත.
+
+ඉස්ලාම් දැඩි මතධාරීන් සමග සංකේතාත්මක පණිවුඩ හුවමාරු කරගෙන ඇති සැකකාර තරුණයාගේ දුරකථනයේ සහ පරිගණකයේ තිබී ක්‍රීඩාංගණයේ ඡායාරූප සහ වීඩියෝ සොයාගත් බව ප්‍රංශ මාධ්‍ය වාර්තා කර ඇත.
+
+පැරිස් ඔලිම්පික් උළෙලේ පාපන්දු තරග කිහිපයක්ම පැවැත්වීමට නියමිතව ඇති සොන්ත් එතියැන්හි ජෝෆුආ ගිෂා පාපන්දු ක්‍රීඩාංගණය ඉලක්ක කරමින් ප්‍රහාරයක් එල්ල කිරීම සැකකරුගේ සැලසුම වී තිබූ බව සඳහන් වෙයි.
+
+ප්‍රංශයේ අභ්‍යාන්තර කටයුතු අමාත්‍යවරයා උපුටා දක්වමින් විදෙස් මාධ්‍ය වාර්තා කරන්නේ, ප්‍රේක්ෂකයින් සහ ආරක්ෂක අංශ සාමාජිකයින්ද ඉලක්ක කරමින් මරාගෙන මැරෙන ප්‍රහාරයක් එල්ල කිරීමට සැකකාර තරුණයා සූදානමින් සිටි බවය.
+
+...
+
+[Data](articles/7564780a.json)
+
+---
+
+### ඉන්ධන ගන්න පෝලිම්
+
+*2024-06-01 13:35:53* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්ධන-ගන්න-පෝලිම්/11-409951) · `si`
+
+මාසිකව සිදු වන මිළ සංශෝධන සූත්‍රයට අනුව ඊයේ (31) මධ්‍යම රාත්‍රිය‌ේ සිට ඉන්ධන මිළ ගණන් පහළ දැමූවද එප්පාවල නගරයේ පිහිටි ඉන්ධනහල් දෙකෙහිම මිළ ගණන් අඩු වූ,  ඔක්ටේන් 92 පෙට්‍රල්, සුදු ඩීසල් හා භූමිතෙල්  තොග නොමැති බව දැක ගතහැකි විය.
+
+එක් ඉන්ධනහලක පමණක් මිළ නොවෙනස් වූ  ඔක්ටේන් 95 පෙට්‍රල් හා  සුපර් ඩීසල් නිකුත් කිරීම සිදු කරන අයුරු දැක ගත හැකි විය.එම ඉන්ධන ලබා ගැනීමට ජනතාව දිගු පෝලිම් වල රැදී සිටින අයුරුද දැක ගත හැකි විය..
+
+ඉන්ධන මිළ පහළ යන බව දැනගත් ඉන්ධනහල් හිමියන් ඊයේ (31) ඉන්ධන තොග ඉන්ධනහල්වෙත මිලදී නොගැනීම හේතුවෙන් මෙම තත්වය ඇති වූ බව පාරිභෝගිකයෝ පවසති.
+
+◼️
+
+[Data](articles/81ba497f.json)
+
+---
+
+### திடீரென புகுந்து மக்களை சரமாரியக வெட்டிய கும்பல்
+
+*2024-06-01 13:30:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/திடீரென-புகுந்து-மக்களை-சரமாரியக-வெட்டிய-கும்பல்/73-338232) · `ta`
+
+அக்கரைப்பற்று பொலிஸ் பிரிவிற்குட்பட்ட ஆலையடிவேம்பு பிரதேச செயலாளர் பிரிவில் வாச்சிக்குடா பகுதியில் நேற்றிரவு (31) இடம்பெற்ற வாள் வெட்டுச்சம்பவத்தில் 7 பேர் பலத்த காயங்களுடன் அக்கரைப்பற்று ஆதார வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+
+இன்னும் சில பொதுமக்கள் தாக்குதலுக்குள்ளானதுடன் வீடொன்றில் இருந்த பொருட்கள் சிலவும் அடித்து நொறுக்கப்பட்டுள்ளதுடன் வீதியால் சென்ற மோட்டார் சைக்கிள்களும் சேதத்திற்குள்ளாகியது.
+
+வாள்கள் தாங்கிய சிறு குழுவொன்றின் தாக்குதல் காரணமாகவே இவ்வாறு சேதம் ஏற்பட்டுள்ளதாக மக்கள் தெரிவிக்கின்றனர்.
+
+இதனால் வாச்சிக்குடா பகுதியில் வாழும் மக்கள் பெரும் அச்சத்திற்குள்ளாகியுள்ளதுடன் தங்களது பாதுகாப்பு கேள்விக்குறியாகியுள்ளதாகவும் கூறுகின்றனர்.
+
+வாள்கள் தாங்கிய சிறு குழுவானது ஒருவரை விரட்டி வந்த நிலையில் விரட்டப்பட்டு வந்தவர் அவரது சகோதரி வீட்டில் தஞ்சம் புகுந்துள்ளார். இதன் காரணமாக அவ்வீட்டினுள் நுழைந்து வாள் தாங்கிய குழுவானது அங்கிருந்தவர்கள் மீதும் தாக்குதல் நடாத்தியுள்ளது.
+
+...
+
+[Data](articles/b2ac30ba.json)
+
+---
+
+### Freedom from India
 
 *2024-06-01 13:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197241) · `si`
 
-නීති විරෝධීව මෙරටට ගෙනආ විදෙස් මත්පැන් බෝතල් සහ එනසාල් තොගයක් සමග පුද්ගලයෙකු අත්අඩංගුවට ගෙන තිබේ.
+A man was arrested upon arrival in India today, carrying 61 foreign liquor bottles and 22 kg of gold worth approximately Rs. 12,000 per kilogram. The Criminal Investigations Department (CID) is handling the case, and the suspect, a resident of Wattala, will be presented in court.
 
-මෙම සැකකරු අද (01) උදෑසන ඉන්දියාවේ සිට ‍මෙරටට පැමිණි අවස්ථාවේදී අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ ගුවන්තොටුපොළ ඒකකයේ නිලධාරීන් විසින් අත්අඩංගුවට ගෙන ඇත.
+🟩
 
-පොලීසිය පැවසුවේ සැකකරු සතුව විදෙස් මත්පැන් බෝතල් 61ක් තිබූ බවය.
+A person has been arrested with foreign alcohol bottles and a consignment of foreign alcohol bottles and izar to the country.
 
-එමෙන්ම එනසාල් කිලෝග්‍රෑම් 21ක් ඔහු සතුව තිබූ බවත් එක් කිලෝවක වටිනාකම රුපියල් 12,000 ක් බවත් පොලීසිය වැඩිදුරටත් සඳහන් කළේය.
+The Criminal Investigations Unit of the Criminal Investigations Department (CID) has been arrested by the CID when he arrived in India this morning.
 
-සැකකරු වත්තල ප්‍රදේශයේ පදිංචිකරුවෙකු බව අනාවරණය වී ඇති අතර අධිකරණයට ඉදිරිපත් කිරීමට නියමිත බව වාර්තා වෙයි.
+Police said that the suspect had 61 foreign liquor bottles.
+
+He also said that he had 21 kg that he had 21 kg that he had 21 kg and one kilogram was Rs. 12,000.
+
+It is reported that the suspect is a resident of Wattala and is to be produced in court.
 
 ◼️
 
 [Data](articles/9b3b47c6.json)
+
+[Extended Data](ext_articles/9b3b47c6.ext.json)
 
 ---
 
@@ -2111,103 +2191,5 @@ The Examinations Department has announced the top island rankings for various st
 [Data](articles/7cfdd11c.json)
 
 [Extended Data](ext_articles/7cfdd11c.ext.json)
-
----
-
-### SAITM to be handed over to University of Moratuwa
-
-*2024-05-31 20:32:00* · [`economynextcom`](https://economynext.com/saitm-to-be-handed-over-to-university-of-moratuwa-165694/) · `en`
-
-ECONOMYNEXT – The South Asian Institute of Technology (SAITM) and the Neville Fernando Teaching Hospital (NFTH) will be handed over to the University of Moratuwa Faculty of Medicine in August, the president’s media division said.
-
-This is for the University to make pre-arrangements before commencing academic studies in January 2025.
-
-Successive governments’ efforts to open private medical faculties have ended with strong protests from leftists and Marxists.
-
-SAITM and before it the North Colombo University in Ragama were forced to close after such protests.
-
-Later, the North Colombo University was incorporated as the medical faculty of state-run University of Kelaniya. (Colombo/May31/2024)
-
-◼️
-
-[Data](articles/50eb6516.json)
-
-[Extended Data](ext_articles/50eb6516.ext.json)
-
----
-
-### National Athletics Competition: Application Date
-
-*2024-05-31 20:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/185000) · `ta`
-
-The 102nd National Athletics Competition in Sri Lanka, set for June 25-27 at the Mahinda Rajapaksa Stadium, invites applications from athletes, corporations, schools, and district associations. Forms for both men and women participants are available online.
-
-🟩
-
-The 102nd National Athletics Competition organized by Sri Lanka Athletics (Sri Lanka Athletic Institute) will be held on the 25th, 26th and 27th of June at the Mahinda Rajapaksa Mahinda Rajapaksa Stadium.
-
-Applications are requested from the athletes who wish to participate in this competition or from the corporations, schools and district associations on their behalf.
-
-Applicants are requested to download and complete the application form for men and women provided here.
-
-◼️
-
-[Data](articles/1fac5eef.json)
-
-[Extended Data](ext_articles/1fac5eef.ext.json)
-
----
-
-### Departments held by Deleales with heated
-
-*2024-05-31 20:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197222) · `si`
-
-Ruwan Chamara, a key narcotics figure linked to organized crime, was arrested in Sri Lanka after being extradited from Dubai. He faces charges including terrorism and is implicated in several high-profile cases, including a shooting incident in Mount Lavinia. The Criminal Investigation Department has issued red notices for his arrest internationally.
-
-🟩
-
-Ruwan Chamara alias Ruwan Chamara alias Mandara Ruwan, a narcotic member of an organized criminal criminal, was brought to the island today (31).
-
-He was taken by a group of terrorist officers who left Dubai yesterday (30).
-
-The suspect has been detained in a short time and interrogated the Criminal Investigation Department (CID at the Katunayake airport.
-
-He was brought to the Colombo Terrorism Prevention Division and is now being questioned by him.
-
-Midigama Ruwan was arrested by police for a clash at Duthiwaha and Duthuwatha.
-
-The international police issued red announcements against him.
-
-The suspect was named the main planner of the shooting case in Mount Lavinia Magistrate on August 4, 2022 and the Criminal Investigation Department has called for red announcements against him.
-
-When he was arrested in Dubai, the criminal named Kosgoda Ziv has been with him.
-
-Ruwan, Chinthaka, or the brother of the beef, has also been the wife of the many crimes committed on his advice, police said.
-
-...
-
-[Data](articles/0afbeca5.json)
-
-[Extended Data](ext_articles/0afbeca5.ext.json)
-
----
-
-### Sri Lanka moves closer to ‘Starlink’ implementation: TRCSL prepares for crucial talks
-
-*2024-05-31 20:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/99570/sri-lanka-moves-closer-to-starlink-implementation-trcsl-prepares-for-crucial-talks) · `en`
-
-The Telecommunication Regulatory Commission of Sri Lanka (TRCSL) is expected to meet next week for further discussions pertaining to the formal authorization and implementation of the “Starlink” service in Sri Lanka, the State Minister of Technology Kanaka Herath says.
-
-Speaking to Ada Derana, the State Minister who stated that no company of this nature operates in Sri Lanka so far, also highlighted that steps are being taken to explore the regulations and the legal framework required to facilitate its operations.
-
-The State Minister further said: “We will be looking at the nature of the license that will be granted to Starlink. The Telecommunication Regulatory Commission will be meeting next week.”
-
-“The commission’s final decision will be presented to the president”, he added.
-
-...
-
-[Data](articles/4698a2f6.json)
-
-[Extended Data](ext_articles/4698a2f6.ext.json)
 
 ---

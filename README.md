@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-02 00:34:15**
+As of **2024-06-02 00:51:31**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,439
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,766 (100.0%) of 27,767 articles have been extended.
+27,767 (100.0%) of 27,767 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1553,6 +1553,8 @@ Wholesale prices were 95 to 110 rupees for large nuts and 85 to 90 rupees for sm
 ◼️
 
 [Data](articles/4a227387.json)
+
+[Extended Data](ext_articles/4a227387.ext.json)
 
 ---
 

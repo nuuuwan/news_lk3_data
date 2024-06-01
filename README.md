@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-01 18:22:37**
+As of **2024-06-01 18:35:06**
 
 ## Newspaper Stats
 
-*Scraped **27,734** Articles*
+*Scraped **27,737** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,79 @@ islandlk | 1,495
 economynextcom | 1,584
 dailyftlk | 1,635
 adalk | 2,363
-adaderanalk | 3,152
+adaderanalk | 3,154
 tamilmirrorlk | 3,250
 virakesarilk | 4,277
-dailymirrorlk | 4,395
+dailymirrorlk | 4,396
 adaderanasinhalalk | 4,430
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,734 (100.0%) of 27,734 articles have been extended.
+27,734 (100.0%) of 27,737 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-01 (Saturday)
+
+### Govt to hold talks with striking university non-academic staff
+
+*2024-06-01 18:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/99582/govt-to-hold-talks-with-striking-university-non-academic-staff) · `en`
+
+State Minister of Higher Education Dr. Suren Raghavan says that the government intends to engage in discussions with the university non-academic staff trade unions currently on strike over various demands.
+
+“Discussions with the union leaders currently on strike are scheduled for next Monday. We hope to reach a mutually agreeable solution,” he said.
+
+Addressing a press briefing held at the Presidential Media Centre (PMC) on Friday (31), State Minister Raghavan emphasized that the government, including President Ranil Wickremesinghe, is committed to finding the best possible resolution.
+
+He stressed that the ongoing strike is causing a direct financial loss of around Rs. 150 million and wasting 1.8 million man-hours. “Therefore, our government must not waste any more time.”
+
+The state minister also explained that in order to meet the demands of the trade unions, including a salary increase, around Rs. 1.1 billion will be needed for the next six months.
+
+...
+
+[Data](articles/90373ef4.json)
+
+---
+
+### Those who don’t like development call Elon Musk an economic hitman: Manusha
+
+*2024-06-01 17:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Those-who-dont-like-development-call-Elon-Musk-an-economic-hitman-Manusha/108-283886) · `en`
+
+Colombo, June 1 (Daily Mirror) - Those who dislike seeing progress achieved by the underprivileged have labelled entrepreneurs like Elon Musk as "economic hitmen", Labour and Foreign Employment Minister Manusha Nanayakkara said at a meeting held in Badulla.
+
+"Elon Musk is the number one billionaire in the world. Tesla, SpaceX, eBay, Bitcoin and Starlink Satellite are all under his leadership. He has informed the President that he will start a Tesla branch in Sri Lanka.
+
+"Elon Musk is a powerful entrepreneur who brought technology to the world and is someone from whom we can learn about life. Despite not having a university education, his actions have made a significant impact globally," he said.
+
+Yesterday, I saw NPP Economic Council member Sunil Hadunnetti call Elon Musk an 'economic hitman.' This is not true. Elon Musk is a man who changed the world economy and propelled it forward.
+
+...
+
+[Data](articles/f460d2fa.json)
+
+---
+
+### Heavy showers above 100mm expected in several districts
+
+*2024-06-01 17:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/99581/heavy-showers-above-100mm-expected-in-several-districts) · `en`
+
+The Department of Meteorology says cloudy skies are expected over the South-western parts of the island.
+
+Showers or thundershowers will occur at times in Western, Sabaragamuwa, Central and Southern provinces while several spells of showers may occur in North-western province.
+
+Heavy showers above 100mm are likely at some places in Western and Sabaragamuwa provinces and in Galle and Matara districts.
+
+Showers or thundershowers may occur at several places elsewhere of the island, the department said in its forecast for the next 36 hours.
+
+The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers
+
+◼️
+
+[Data](articles/da735d71.json)
+
+---
 
 ### Jeevan Thondaman returned with a group
 
@@ -2201,63 +2259,5 @@ Let me begin with two points about his name and pet name.  Thondaman’s first n
 [Data](articles/0c50f8f1.json)
 
 [Extended Data](ext_articles/0c50f8f1.ext.json)
-
----
-
-### Delegation of visiting Buddhist leaders calls on Pakistani Prime Minister
-
-*2024-06-01 00:17:23* · [`dailyftlk`](https://www.ft.lk/news/Delegation-of-visiting-Buddhist-leaders-calls-on-Pakistani-Prime-Minister/56-762463) · `en`
-
-A delegation of esteemed Buddhist leaders called on Prime Minister Muhammad Shehbaz Sharif in Islamabad recently.
-
-The delegation is visiting Pakistan to attend a symposium and an exhibition titled “From Gandhara to the World,” organised by the Ministry of Foreign Affairs Pakistan.
-
-The delegation included Sri Lanka’s Minister for Buddhasasana, Religious and Cultural Affairs Vidura Wikramanayaka, Most Venerable Thich Duc Tuan from Vietnam, Most Venerable Anil Sakya from Thailand and Dr. Keshabman Shakya from Nepal.
-
-...
-
-[Data](articles/ce300f98.json)
-
-[Extended Data](ext_articles/ce300f98.ext.json)
-
----
-
-### Supreme Court complex begins renovations with Chinese assistance
-
-*2024-06-01 00:16:20* · [`dailyftlk`](https://www.ft.lk/news/Supreme-Court-complex-begins-renovations-with-Chinese-assistance/56-762462) · `en`
-
-With the assistance of the Chinese Government, the renovation work of the Supreme Court complex is currently underway.
-
-The signing of the total value estimation financial agreement was done in the Ministry of Justice auditorium on Thursday under the chairmanship of Minister of Justice, Prison Affairs and Constitutional Reforms, President’s Counsel Dr. Wijeyadasa Rajapakshe and Chinese Ambassador to Sri Lanka Qi Zhenhong.
-
-Ministry of Justice, Prison Affairs and Constitutional Reform Secretary Nihal Ranasinghe, and Chinese Embassy in Sri Lanka Counsellor Tang Yandi signed the relevant agreement.
-
-Although the contract was signed on 23 April for the renovation of the Supreme Court complex with the assistance of the Chinese Government for an amount of 240 million Yuan, the estimated amount to be spent on the project is 229 million Yuan. Accordingly, the agreement was signed for the amount of 229 million yuan to be spent.
-
-...
-
-[Data](articles/6d2d15b5.json)
-
-[Extended Data](ext_articles/6d2d15b5.ext.json)
-
----
-
-### India launches BIMSTEC-India Marine Research Network
-
-*2024-06-01 00:15:43* · [`dailyftlk`](https://www.ft.lk/news/India-launches-BIMSTEC-India-Marine-Research-Network/56-762461) · `en`
-
-Initiative aimed at enabling PhD students from BIMSTEC countries to conduct doctoral research in India
-
-The Government of India has launched BIMReN (BIMSTEC-India Marine Research Network), a joint-initiative of MEA and the Bay of Bengal Programme-Inter Governmental Organisation (BOBP-IGO), to facilitate sustainable development of blue economy by networking researchers and research institutions in BIMSTEC countries.
-
-BIMReN aims to enable PhD students from BIMSTEC countries to conduct doctoral research in India and facilitate collaborative research among scientists/academicians from BIMSTEC countries through:
-
-i. BIMReN Split-Site Doctoral Fellowships, which offers doctoral candidates in BIMSTEC member countries a Research Grant of up to INR 1 million and the opportunity to pursue studies at Indian research labs for 6-12 months.
-
-...
-
-[Data](articles/0b912374.json)
-
-[Extended Data](ext_articles/0b912374.ext.json)
 
 ---

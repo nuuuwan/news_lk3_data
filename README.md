@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-01 18:52:20**
+As of **2024-06-01 19:03:39**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 4,432
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,734 (100.0%) of 27,739 articles have been extended.
+27,739 (100.0%) of 27,739 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-01 (Saturday)
 
-### අරුණ සහ තරුෂි ට මීටර් 400 ඉසව්වලින් පළමු තැන
+### Aruna and Tharushi first place in 400m events
 
 *2024-06-01 18:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197255) · `si`
 
-තායිවාන විවෘත මලල ක්‍රීඩා උළෙලේදී ශ්‍රී ලංකා ක්‍රීඩකයෙකු සහ ක්‍රීඩිකාවක් මීටර් 400 පිරිමි සහ කන්තා ඉසව් දෙකෙන් පළමු ස්ථාන හිමි කරගෙන තිබේ.
+Sri Lankans Aruna and Tharushi won the 400m events at the Taiwane Open Athletic Festival, finishing in 45.82 and 52.48 seconds respectively.
 
-එලෙස පළමු ස්ථානය හිමිකර ගෙන ඇත්තේ, අරුණ දර්ශන සහ තරුෂි කරුණාරත්නය.
+🟩
 
-අරුණ දර්ශන මීටර් 400 පිරිමි ඉසව්ව තත්පර 45.82කින් නිම කරමින් පළමු ස්ථානයට පත් වූ අතර තරුෂි කරුණාරත්න කාන්තා මීටර් 400 ඉසව්ව තත්පර 52.48කින් නිම කරමින් පළමු ස්ථානය දිනා ගත්තාය.
+A Sri Lankan player and a player have won the first places in the Taiwane Open Athletic Festival.
+
+The first place has been held, Aruna and Tharushi Knowing.
+
+Aruna showed 400m events were completed by 45.82 seconds, and Tharushi Karunaratne won the first place in 52.48 seconds.
 
 ◼️
 
 [Data](articles/c19520d0.json)
+
+[Extended Data](ext_articles/c19520d0.ext.json)
 
 ---
 
@@ -66,6 +72,8 @@ The state minister also explained that in order to meet the demands of the trade
 
 [Data](articles/90373ef4.json)
 
+[Extended Data](ext_articles/90373ef4.ext.json)
+
 ---
 
 ### Those who don’t like development call Elon Musk an economic hitman: Manusha
@@ -83,6 +91,8 @@ Yesterday, I saw NPP Economic Council member Sunil Hadunnetti call Elon Musk an 
 ...
 
 [Data](articles/f460d2fa.json)
+
+[Extended Data](ext_articles/f460d2fa.ext.json)
 
 ---
 
@@ -104,23 +114,31 @@ The general public is kindly requested to take adequate precautions to minimize 
 
 [Data](articles/da735d71.json)
 
+[Extended Data](ext_articles/da735d71.ext.json)
+
 ---
 
-### පුස්ඇලි ඔය පිටාර ගලයි
+### Pussoli Oya is the overflow
 
 *2024-06-01 17:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197253) · `si`
 
-පවතින වැසි තත්ත්වය නිසා පාදුක්ක නගරය හරහා ගලා බසින පුස්ඇලි ඔය පිටාර ගැලීම හේතුවෙන් පාදුක්ක නගරයට පිවිසෙන මාර්ග දෙකක් ජලයෙන් යටවී තිබේ.
+Heavy rains caused flooding on two roads leading into Padukka, disrupting traffic. The overflowing Pushali Oya river affected Padukka Hanwella Road and Padukka Ingiriya Road, flooding numerous homes in the area.
 
-ඒ හේතුවෙන් ගමනාගමන කටයුතුවලට බාධා එල්ලවී ඇති බව පොලීසිය පවසයි.
+🟩
 
-පාදුක්ක හංවැල්ල පාර සහ පාදුක්ක ඉංගිරිය පාර මෙලෙස ජලයෙන් යට වී ඇත.
+Due to the prevailing rainy, two roads entering Padukka town have been flooded due to the outbreak of Pushali Oya.
 
-මේ නිසා පාදුක්ක නගරයේ පහත්බිම්වල තිබූ නිවාස රැසක් ද ජලයෙන් යටවී ඇති බව වාර්තා වෙයි.
+As a result, traffic has been interrupted, police said.
+
+Padukka Hanwella Road and Padukka Ingiriya Road were flooded.
+
+Therefore, there are many houses in the city of Padukka have been flooded.
 
 ◼️
 
 [Data](articles/b42321d6.json)
+
+[Extended Data](ext_articles/b42321d6.ext.json)
 
 ---
 

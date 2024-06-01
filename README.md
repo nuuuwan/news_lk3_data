@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-01 08:53:34**
+As of **2024-06-01 09:05:19**
 
 ## Newspaper Stats
 
-*Scraped **27,668** Articles*
+*Scraped **27,669** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 248
 dbsjeyarajcom | 267
 bbccomsinhala | 273
 newsfirstlk | 363
-islandlk | 1,494
+islandlk | 1,495
 economynextcom | 1,583
 dailyftlk | 1,635
 adalk | 2,360
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,412
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,665 (100.0%) of 27,668 articles have been extended.
+27,668 (100.0%) of 27,669 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -270,35 +270,49 @@ It is noteworthy that Nadesan was shot dead in Batticaloa on May 31, 2004.
 
 ---
 
-### முதியவர் கொடுப்பனவு நிறுத்தப்படமாட்டாது
+### Older Payment will not be stopped
 
 *2024-06-01 02:12:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முதியவர்-கொடுப்பனவு-நிறுத்தப்படமாட்டாது/175-338225) · `ta`
 
-அஸ்வெசும நலன்புரித் திட்டம் நடைமுறைப்படுத்தப்பட்டு வரும் நிலையில் இதுவரையில் வழங்கப்பட்டு வந்த முதியர்களுக்கான கொடுப்பனவு நிறுத்தப்படுமென வெளியாகும் தகவல்கள் உண்மைக்கு புறம்பானவை என நலன்புரி நன்மைகள் சபை அறிவித்துள்ளது.
+The Ashemu welfare program rumors are false; actual payments totaling 1518 million rupees were dispatched in May 2024. Despite technical delays, elderly benefits will commence in Divisional Secretariats from mid-June.
 
-2024 மே மாதம் கொடுப்பனவுகளை வழங்குவதற்குத் தேவையான சுமார் 1518 மில்லியன் ரூபா நிதி மாவட்டச் செயலகங்களுக்கு அனுப்பி வைக்கப்பட்டுள்ளது.
+🟩
 
-தொழில்நுட்ப காரணங்களினால் கொடுப்பனவுகளை வழங்குவதில் தாமதம் ஏற்பட்டிருந்தாலும், ஜூன் மாதம் இரண்டாம் வாரத்தின் பின்னர் பிரதேச செயலகங்களில் வழமையான முறையில் முதியவர்களுக்கான கொடுப்பனவு வழங்கப்படுமெனவும் நலன்புரி நன்மைகள் சபை அறிவுறுத்தியுள்ளது. (a)
+The Welfare Benefits Board has announced that the information that the Ashemu welfare program is being implemented is untrue.
+
+In May 2024, about 1518 million rupees required to provide allowances has been sent to the District Secretariats.
+
+The Welfare Benefits Council has advised that even though there is a delay in the payment of allowances due to technical reasons, the benefits of the elderly will be made in the Divisional Secretariats after the second week of June.. (A)
 
 ◼️
 
 [Data](articles/bb64eddc.json)
 
+[Extended Data](ext_articles/bb64eddc.ext.json)
+
 ---
 
-### ’நவீன தொழில்நுட்பங்களை ஊக்குவிக்க வேண்டும்’
+### The model should be promoted modern technologies
 
 *2024-06-01 02:10:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நவீன-தொழில்நுட்பங்களை-ஊக்குவிக்க-வேண்டும்/175-338224) · `ta`
 
-நாட்டில் சமூக மற்றும் பொருளாதார மாற்றத்தை ஏற்படுத்த அரசாங்கம் ஆரம்பித்துள்ள வேலைத்திட்டத்தை துரிதப்படுத்த செயற்கை நுண்ணறிவு போன்ற நவீன தொழில்நுட்பங்களை நாட்டில் ஊக்குவிக்க வேண்டும் என ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+President Ranil Wickremesinghe emphasized the importance of adopting modern technologies like AI to drive social and economic transformation in Sri Lanka. He highlighted the need for technical advancement and warned against repeating past mistakes in IT, urging a shift from project use to application focus to catch up with global IT standards.
 
-இலங்கையில் AI தொழில்நுட்பம் அல்லது செயற்கை நுண்ணறிவை அறிமுகப்படுத்துவது தொடர்பில் பல்கலைக்கழக கல்வியலாளர்களுடன் நேற்று முன்தினம் ஜனாதிபதி அலுவலகத்தில் இடம்பெற்ற கலந்துரையாடலின் போதே ஜனாதிபதி ரணில் விக்கிரமசிங்க இவ்வாறு குறிப்பிட்டார். அவர் மேலும் தெரிவிக்கையில்,
+🟩
 
-"“இலங்கை தொழில்நுட்ப முன்னேற்றத்தை அடைய வேண்டும். நவீன தொழில்நுட்பத்தைப் பொறுத்தவரை, நாம் மிகவும் பின்தங்கியுள்ளோம். பொருளாதார நன்மைகளை அடைய தொழில்நுட்ப அறிவு போதுமான அளவு பயன்படுத்தப்படவில்லை. அண்மைக்காலமாக செயற்கை நுண்ணறிவு AI தொழில்நுட்பம் ஆதிக்கம் செலுத்துகிறது. அதிலும் நாம் பின்தங்கியிருக்க முடியாது.
+President Ranil Wickremesinghe said the country should promote modern technologies such as artificial intelligence to accelerate the government's program to create social and economic change in the country.
+
+President Ranil Wickremesinghe made this statement during a discussion held at the Presidential Office yesterday with university academics on the introduction of AI technology or artificial intelligence in Sri Lanka. As he further stated,
+
+““ Sri Lanka must achieve technical progress. As for modern technology, we are very backward. Technical knowledge is not used enough to achieve economic benefits. Recently artificial intelligence AI technology dominates. And we cannot be backward.
+
+If we progress with artificial intelligence, we can use other technologies. Artificial intelligence includes many technologies. As a country we can use it, we can achieve progress. The mistake we made in the field of information technology could not be repeated.
 
 ...
 
 [Data](articles/3b69377f.json)
+
+[Extended Data](ext_articles/3b69377f.ext.json)
 
 ---
 
@@ -326,19 +340,27 @@ Non -food inflation rose to 1.3 per cent last May.
 
 ---
 
-### பல்கலை கல்விசாரா ஊழியர்களுடன் பேச்சு
+### Talk with university non -academic staff
 
 *2024-06-01 02:08:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல்கலை-கல்விசாரா-ஊழியர்களுடன்-பேச்சு/175-338223) · `ta`
 
-பல்வேறு கோரிக்கைகளை முன்வைத்து வேலை நிறுத்தத்தில் ஈடுபட்டுள்ள பல்கலைக்கழக கல்விசாரா ஊழியர் சங்கங்களுடன் நாளை மறுதினம் பேச்சுவார்த்தை நடத்தப்படும் என உயர்கல்வி இராஜாங்க அமைச்சர் கலாநிதி சுரேன் ராகவன் தெரிவித்தார்.
+Dr. Suren Raghavan, the Higher Education Minister, announced that the university will engage in discussions with non-academic staff unions on strike tomorrow. He expressed concern over the strike's impact on students and the financial loss, estimating it at around 150 million rupees daily. The minister highlighted the urgency to resolve the strike, which includes salary increases costing approximately 1.1 billion rupees for the next six months. He plans to meet with union leaders next Monday to find a solution.
 
-ஜனாதிபதி ஊடக மையத்தில் நேற்று நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே உயர்கல்வி இராஜாங்க அமைச்சர் சுரேன் ராகவன் இவ்வாறு தெரிவித்தார். அவர் மேலும் தெரிவிக்கையில்,
+🟩
 
-“தற்போது பல்கலைக்கழக கல்வி சாரா ஊழியர்கள் வேலைநிறுத்தத்தில் ஈடுபட்டுள்ளனர். இது ஒரு துரதிஷ்டவசமான விடயமாகும். ஏனென்றால் இதன் ஊடாக எதிர்கால சந்த்தியினரான மாணவர்களே பாதிக்கப்படுகின்றனர். இதன் மூலம் நாளாந்தம் சுமார் 150 மில்லியன் ரூபா நேரடியான நட்டம் ஏற்படுகின்றது. இது நிதி ரீதியிலான நட்டம் மாத்திரமே. மனித நேரமும் இதன்மூலம் வீணடிக்கப்படுகிறது.
+Higher Education Minister Dr. Suren Raghavan said that the university will hold talks tomorrow with the university non -academic staff unions who have been on strike on various demands.
+
+Minister of Higher Education Suren Raghavan said this at a media briefing held at the Presidential Media Center yesterday. As he further stated,
+
+“Currently non -academic staff are on strike. This is an unfortunate thing. This is because the students of the future are affected by this. This results in a direct loss of about 150 million rupees a day. This is only a financial loss. Human times are wasted there.
+
+So the government does not need to waste more than one more hour. I think the strike as a parent is also impact. So they do not want to follow this. Now we need to see how to find the right solution.
 
 ...
 
 [Data](articles/0cfc6507.json)
+
+[Extended Data](ext_articles/0cfc6507.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-01 17:34:21**
+As of **2024-06-01 17:54:35**
 
 ## Newspaper Stats
 
-*Scraped **27,729** Articles*
+*Scraped **27,734** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,110 @@ adalk | 2,363
 adaderanalk | 3,152
 tamilmirrorlk | 3,250
 virakesarilk | 4,277
-dailymirrorlk | 4,391
-adaderanasinhalalk | 4,429
+dailymirrorlk | 4,395
+adaderanasinhalalk | 4,430
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,729 (100.0%) of 27,729 articles have been extended.
+27,729 (100.0%) of 27,734 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-01 (Saturday)
+
+### ජීවන් තොණ්ඩමන් යළිත් පිරිසක් සමග ඇවිත්
+
+*2024-06-01 17:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197252) · `si`
+
+අමාත්‍ය ජීවන් තොණ්ඩමන් මහතා සහ ලංකා කම්කරු කොංග්‍රසයේ  පිරිසක් අද (01) නුවරඑළිය පොලිස් ස්ථානය අසල විරෝධතාවයක නිරත විය.
+
+මෙම විරෝධතාවය හේතුවෙන් නුවරඑළිය අවට පොලිස් ස්ථානවලින් අමතර පොලිස් බලඇණි නුවරඑළියට කැඳවා තිබූ බව අද දෙරණ වාර්තාකරු පැවසීය.
+
+අමාත්‍ය ජීවන් තොණ්ඩමන් නුවරඑළිය, පිඩෘ වතුයායේ තේ කර්මාන්ත ශාලාවට පසුගියදා සිය ආධාරකරුවන් පිරිසක් සමග ගොස් එහි පාලනාධිකාරිය කාර්යාල අඩස්සියට ගෙන තිබුණි.
+
+ඒ, එම තේ කර්මාන්ත ශාලාවේ වැඩ කරමින් සිටි සේවකයින්ව ඉවත් කිරීමේ සිද්ධියක් සම්බන්ධයෙනි.
+
+ඊට එරෙහිව එම වතුයායේ පාලනාධිකාරිය විසින් අද නුවරඑළිය පොලීසියට කළ පැමිණිල්ලකට විරෝධය පළ කරමින් අමාත්‍ය ජීවන් තොණ්ඩමන් මහතා ඇතුළු එම පක්ෂයේ ආධාරකරුවන් පිරිස නුවරඑළිය පොලීසිය ඉදිරිපිට විරෝධතාවයක නිරතවුණි.
+
+විරෝධතාවයේ නියැලී සිටි අමාත්‍ය ජීවන් තොණ්ඩමන් මහතාට ඒ සම්බන්ධයෙන් සාකච්ඡා කිරිමට පොලීසිය තුළට පැමිණෙන ලෙසට නුවරඑළිය පොලීසියේ නිලධාරින් අවස්ථා කිහිපයකදී ඉල්ලිම් කළත්, එම ඉල්ලිම් අමාත්‍යවරයා විසින් ප්‍රතික්ෂේප කර තිබුණි.
+
+...
+
+[Data](articles/56aeefa7.json)
+
+---
+
+### Shortage of 5,000 buses hampers private passenger transport services
+
+*2024-06-01 17:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Shortage-of-5-000-buses-hampers-private-passenger-transport-services/108-283883) · `en`
+
+Colombo, June 1 (Daily Mirror) - A shortage of 5,000 private buses is making it difficult to provide adequate passenger transport services, Lanka Private Bus Owners' Association (LPBOA) chairman Gemunu Wijerathne claimed.
+
+He told the Daily Mirror that 70% of buses with valid route permits are running in the country, while the remaining buses are not operating properly.
+
+He noted that buses with valid route permits cannot provide proper services because some are undergoing major repairs or are engaged in other services.
+
+As a result, the existing private bus fleet has been reduced to 13,000, and even these buses sometimes do not operate properly, Wijerathne said.
+
+"As a result, people have to pay Rs. 100 for three-wheeler fares to travel a minimum distance of one kilometre. The shortage of private buses has severely impacted the transport sector, with people suffering the most when relying on public transport," he said.
+
+...
+
+[Data](articles/a3899bcd.json)
+
+---
+
+### Smuggling attempt through BIA ‘green channel’ reveals Rs.7Mn worth phones, cigarettes
+
+*2024-06-01 17:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Smuggling-attempt-through-BIA-green-channel-reveals-Rs-7Mn-worth-phones-cigarettes/108-283888) · `en`
+
+Colombo, June 1 (Daily Mirror) - A special surveillance operation conducted by the Sri Lanka Customs today led to the arrest of three passengers returning from Dubai trying to use the airport green channel with a stock of cigarettes and mobile phones worth over Rs. 7 million in their possession.
+
+The Customs Narcotic Control Unit officials who were on duty at the Bandaranaike International Airport Arrival Terminal were ordered to stop three passengers trying to exit the airport through ‘nothing to declare’ Custom Green Channel.
+
+The three passengers, including a woman accompanying a child had arrived in the country this morning on SriLankan Airlines flight UL226 from Dubai.
+
+Customs spokesman Additional Director General Seevali Arukgoda told the Daily Mirror that the officials found 77 brand new smartphones valued at over Rs. 3 million from the baggage of the two passengers.
+
+...
+
+[Data](articles/b6c77dec.json)
+
+---
+
+### Welipenna Interchange closed until further notice
+
+*2024-06-01 17:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Welipenna-Interchange-closed-until-further-notice/108-283887) · `en`
+
+Colombo, June 1 (Daily Mirror) - The Welipenna Interchange on the Southern Expressway (E-01) will remain closed until further notice due to sudden floods, the Expressway Operation Maintenance and Management Division of the Road Development Authority (RDA) said.
+
+They said motorists are advised to use the Kurundugahahetekma Toll Booth and Dodangoda Interchange as exits and entrances to the E-01.
+
+◼️
+
+[Data](articles/9a4a2ce1.json)
+
+---
+
+### Apple iPhone is now an obsolete product
+
+*2024-06-01 16:38:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Apple-iPhone-is-now-an-obsolete-product/108-283885) · `en`
+
+TIMESOFINDIA, Jun 1 - Apple has added iPhone 5s, iPhone 6s, iPod touch, and 2015 iMac to its list of obsolete products, following the 7-year distribution cutoff. These devices won't receive updates or service from Apple.
+
+Apple has added three new devices to its list of obsolete products. Launched back in 2013, Apple iPhone 5s is now obsolete worldwide. Along with iPhone 5s, the Cupertino-based company has also added sixth-generation iPod touch and 2015 edition of the 21.5-inch iMac to the list.
+
+Apple explains that “Products are considered obsolete when Apple stopped distributing them for sale more than 7 years ago.” In other words, the device tagged as obsolete will not be eligible for any updates.
+
+In addition, Apple will not repair or service them at all. In fact, service providers cannot order parts for obsolete products.
+
+...
+
+[Data](articles/3cb891af.json)
+
+---
 
 ### A rain over 100 mm
 
@@ -2151,113 +2243,5 @@ i. BIMReN Split-Site Doctoral Fellowships, which offers doctoral candidates in B
 [Data](articles/0b912374.json)
 
 [Extended Data](ext_articles/0b912374.ext.json)
-
----
-
-### Sri Lanka and Turkmenistan hold inaugural Foreign Office Consultations
-
-*2024-06-01 00:15:15* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-and-Turkmenistan-hold-inaugural-Foreign-Office-Consultations/56-762460) · `en`
-
-The inaugural session of the Foreign Office Consultations between Sri Lanka and Turkmenistan was held on 30 May.
-
-This virtual event saw representatives from both nations engage in fruitful discussions aimed at strengthening ties across various domains.
-
-Key highlights included the exploration of avenues for cooperation in the political and diplomatic spheres, parliamentary engagements, economic sectors, energy, transport, education, and culture. Both sides acknowledged the potential for mutual benefit and emphasised the importance of sustained high-level visits to foster increased cooperation.
-
-...
-
-[Data](articles/f71a4600.json)
-
-[Extended Data](ext_articles/f71a4600.ext.json)
-
----
-
-### White House celebrates Vesak in honour of Buddhists around the world
-
-*2024-06-01 00:14:26* · [`dailyftlk`](https://www.ft.lk/news/White-House-celebrates-Vesak-in-honour-of-Buddhists-around-the-world/56-762459) · `en`
-
-Honouring the global Buddhist community, the White House, led by Second Gentleman Douglas Emhoff, celebrated Vesak with a formal ceremony on 23 May.
-
-The event took place at the White House in Washington DC, marking the day of Vesak, which is observed by millions of Buddhists in the US and worldwide. The ceremony emphasised the relevance of Buddhist teachings in promoting peace, tolerance, and compassion and offering sustained solutions to global challenges.
-
-The ceremony was a testament to the diversity and unity within the Buddhist community. Buddhist priests from various traditions came together, lighting lamps and chanting prayers in front of a specially set-up platform. The platform featured a large Buddha statue, donated to the White House by the Sri Lanka Embassy last year, and was adorned with decorations ranging from flowers to Buddhist flags and lamps.
-
-...
-
-[Data](articles/23d0387b.json)
-
-[Extended Data](ext_articles/23d0387b.ext.json)
-
----
-
-### Trump is guilty: verdict in criminal case
-
-*2024-06-01 00:09:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ட்ரம்ப்-குற்றவாளி-குற்றவியல்-வழக்கில்-தீர்ப்பு/50-338220) · `ta`
-
-Donald Trump has been found guilty in a fraud case involving false financial statements, making him the first ex-president convicted in a criminal case. The trial, held at Manhattan Criminal Court, included testimonies from 22 witnesses over two weeks, with Trump convicted on all 34 charges.
-
-🟩
-
-He has been convicted in a case of fraudulent financial statements against former US President Donald Trump.
-
-The case was heard at the Manhattan Criminal Court in New York and the testimony of 22 people.
-
-The 12 referees discussed the verdict of the case for two weeks.
-
-Former President Trump has been guilty of all 34 allegations regarding the case.
-
-Donald Trump has been named the first former president to be convicted in a criminal case in American history.
-
-Former US President Trump has been accused of giving her about $ 1.3 lakh from Porn Stommy Daniels from the 2016 election campaign fund to cover up her sexual intercourse.. (A)
-
-◼️
-
-[Data](articles/7824421e.json)
-
-[Extended Data](ext_articles/7824421e.ext.json)
-
----
-
-### Climate change and human health
-
-*2024-06-01 00:06:55* · [`dailyftlk`](https://www.ft.lk/columns/Climate-change-and-human-health/4-762451) · `en`
-
-Climate change impacts human health in a multitude of ways, but climate action also has the potential to address these issues through holistic and cross-cutting approaches
-
-The nexus between climate change and human health is increasingly entering national and global climate processes and conversations. Climate change is not just an environmental and economic issue but also poses an important challenge for public health that affects millions of people worldwide in multi-faceted ways.
-
-...
-
-[Data](articles/8a802af5.json)
-
-[Extended Data](ext_articles/8a802af5.ext.json)
-
----
-
-### 700,000 houses for low income households and financing plan
-
-*2024-06-01 00:03:01* · [`dailyftlk`](https://www.ft.lk/columns/700-000-houses-for-low-income-households-and-financing-plan/4-762450) · `en`
-
-Total houses required – 700,000 (slums + temp structures + homeless)
-
-Above statistics may not be 100% accurate, but it is indicative.
-
-700,000 houses at Rs. 2 million/unit ($ 7,000) = $ 5 billion
-
-Stop investing money on a new Hingurakgoda Airport. Sri Lanka (SL) already has six airports. SL does not need another airport;
-
-Stop taking new loans for roads, irrigation. Maintenance of roads and irrigation tanks could continue. Work already started on roads, irrigation projects could continue;
-
-Obtain new grants from India to construct houses in the north and the estate sector. Obtain grants without conditions from the Middle East countries to construct houses in the Eastern Province;
-
-Obtain grants from China and Japan to construct houses in the South and the Western Provinces;
-
-Obtain grants from UNDP, Save the Children, and other donor organisations for the low income housing program which is to minimise poverty;
-
-...
-
-[Data](articles/1f3dd00c.json)
-
-[Extended Data](ext_articles/1f3dd00c.ext.json)
 
 ---

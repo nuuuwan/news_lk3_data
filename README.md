@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-01 13:34:13**
+As of **2024-06-01 13:53:12**
 
 ## Newspaper Stats
 
-*Scraped **27,698** Articles*
+*Scraped **27,699** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,37 +20,63 @@ adaderanalk | 3,147
 tamilmirrorlk | 3,245
 virakesarilk | 4,272
 dailymirrorlk | 4,386
-adaderanasinhalalk | 4,419
+adaderanasinhalalk | 4,420
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,697 (100.0%) of 27,698 articles have been extended.
+27,698 (100.0%) of 27,699 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-01 (Saturday)
 
-### IS සබඳතා පැවැත්වූ සැකකරු අල්ලන්න කොළඹදී කළ මෙහෙයුම
+### ඉන්දියාවේ සිට හොරෙන් ගෙනආ බඩු
+
+*2024-06-01 13:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197241) · `si`
+
+නීති විරෝධීව මෙරටට ගෙනආ විදෙස් මත්පැන් බෝතල් සහ එනසාල් තොගයක් සමග පුද්ගලයෙකු අත්අඩංගුවට ගෙන තිබේ.
+
+මෙම සැකකරු අද (01) උදෑසන ඉන්දියාවේ සිට ‍මෙරටට පැමිණි අවස්ථාවේදී අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ ගුවන්තොටුපොළ ඒකකයේ නිලධාරීන් විසින් අත්අඩංගුවට ගෙන ඇත.
+
+පොලීසිය පැවසුවේ සැකකරු සතුව විදෙස් මත්පැන් බෝතල් 61ක් තිබූ බවය.
+
+එමෙන්ම එනසාල් කිලෝග්‍රෑම් 21ක් ඔහු සතුව තිබූ බවත් එක් කිලෝවක වටිනාකම රුපියල් 12,000 ක් බවත් පොලීසිය වැඩිදුරටත් සඳහන් කළේය.
+
+සැකකරු වත්තල ප්‍රදේශයේ පදිංචිකරුවෙකු බව අනාවරණය වී ඇති අතර අධිකරණයට ඉදිරිපත් කිරීමට නියමිත බව වාර්තා වෙයි.
+
+◼️
+
+[Data](articles/9b3b47c6.json)
+
+---
+
+### Operational operation in Colombo to catch the suspect suspect
 
 *2024-06-01 13:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197239) · `si`
 
-ISIS ත්‍රස්ත සංවිධානය සමග සබඳතා පැවැත් වූ බවට චෝදනා ලබා ඉන්දියාවේදී අත්අඩංගුවට පත් ශ්‍රී ලාංකිකයින් සිවුදෙනාව මෙහෙයවූ  ප්‍රධානියා ලෙස සැලකෙන ඔස්මන් ජෙරාඩ් නමැත්තා ඊයේ (31) රාත්‍රියේ කොළඹදී අත්අඩංගුවට ගෙන තිබුණි.
+Osman Gerard, a 46-year-old from Dematagoda, Colombo, was arrested last night in connection with a case involving four other Sri Lankans detained in India. The Criminal Investigation Department and the Terrorist Investigation Division collaborated in this operation, which was initiated after a public appeal for help last Saturday.
 
-ඒ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව හා ත්‍රස්ත විමර්ශන කොට්ඨාසය එක්ව සිදුකළ මෙහෙයුමකදීය.
+🟩
 
-ISIS සංවිධානය සමග සම්බන්ධ බවට චෝදනා ලබා ඉන්දියාවේදී අත්අඩංගුවට ගත් ශ්‍රී ලාංකිකයන් සිව්දෙනා සමග සමීප සබඳතා පැවැත් වූ සහ ඔවුන්ට සහාය දැක් වූ බවට සැක කෙරන පුද්ගලයෙකු අත්අඩංගුවට ගැනීම සඳහා පොලීසිය පසුගිය සෙනසුරාදා මහජන සහාය ඉල්ලා තිබුණි.
+Osman Gerard was arrested in Colombo last night as the Head of Sri Lankans who were arrested in India.
 
-පොලීසිය පැවසුවේ, ඔහු 46 හැවිරිදි ජෙරාඩ් පුෂ්පරාජා ඔස්මන් ජෙරාඩ් නම් දෙමටගොඩ ප්‍රදේශයේ පදිංචිකරුවෙක් බවය.
+That Criminal Investigation Department and the Terrorist Investigation Division participated.
 
-ඒ අතරතුර සැකකරු කොළඹ ප්‍රදේශයේ සැඟව සිටින බවට ලද තොරතුරකට අනුව ඊයේ රාත්‍රියේ ඔහු අත්අඩංගුවට ගැනීමට කටයුතු කර තිබුණි.
+The police had requested public assistance last Saturday to arrest a person who was arrested and supported by the four Sri Lankans who were arrested in India.
 
-ඒ් අපරාධ පරීක්ෂණ දෙපාතර්මේන්තුව භාර නියෝජ්‍ය පොලිස්පති රොහාන් ප්‍රේමරත්න මහතාගේ සෘජු අධීක්ෂණය යටතේ ත්‍රස්ත විමර්ශන කොට්ඨාසය හා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව එක්ව සිදුකළ ඒ්කාබද්ධ මෙහෙයුමකදීය.
+According to the police, he is a resident of the 46-year-old Gerard Pushraja Ozman, Gerad, Dematagoda, Dematagoda.
+
+Meanwhile, he was arrested last night accordingly the suspect is hiding in Colombo.
+
+The Criminal Investigation Department Sandolign Sandals Mr. Rohan Premaratne, Secretary of the Terrorism Investigation Division and the Criminal Investigations Department participated in a joint venture.
 
 ◼️
 
 [Data](articles/4db31720.json)
+
+[Extended Data](ext_articles/4db31720.ext.json)
 
 ---
 
@@ -2183,23 +2209,5 @@ The State Minister further said: “We will be looking at the nature of the lice
 [Data](articles/4698a2f6.json)
 
 [Extended Data](ext_articles/4698a2f6.ext.json)
-
----
-
-### Young Sri Lankan golfer Kaya triumphs at Nepal Open Golf Tourney
-
-*2024-05-31 19:58:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Young-Sri-Lankan-golfer-Kaya-triumphs-at-Nepal-Open-Golf-Tourney/108-283820) · `en`
-
-May 31 - Young Sri Lankan golfer, Kaya Daluwatte claimed the top position at the 10th Nepal Amateur Open Golf Championship 2024, which concluded in Kathmandu, Nepal today.
-
-Kaya was in sparkling form, displaying her exceptional skills throughout the tournament, finishing with a final day score of four under par with a score of 68. First day, she was one under with a score of 71 while on day two also she repeated the same score. Her impressive performance was highlighted by five birdies and one eagle, showcasing her accuracy and precision on the course.
-
-Daluwatte maintained consistency across all three days, carding scores of 71, 71, and 68 and claiming her lead over the other competitors. Meanwhile, Indian golfers secured the second and third positions.
-
-◼️
-
-[Data](articles/0ca8aa1f.json)
-
-[Extended Data](ext_articles/0ca8aa1f.ext.json)
 
 ---

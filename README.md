@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-01 18:35:06**
+As of **2024-06-01 18:52:20**
 
 ## Newspaper Stats
 
-*Scraped **27,737** Articles*
+*Scraped **27,739** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ adaderanalk | 3,154
 tamilmirrorlk | 3,250
 virakesarilk | 4,277
 dailymirrorlk | 4,396
-adaderanasinhalalk | 4,430
+adaderanasinhalalk | 4,432
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,734 (100.0%) of 27,737 articles have been extended.
+27,734 (100.0%) of 27,739 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-01 (Saturday)
+
+### අරුණ සහ තරුෂි ට මීටර් 400 ඉසව්වලින් පළමු තැන
+
+*2024-06-01 18:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197255) · `si`
+
+තායිවාන විවෘත මලල ක්‍රීඩා උළෙලේදී ශ්‍රී ලංකා ක්‍රීඩකයෙකු සහ ක්‍රීඩිකාවක් මීටර් 400 පිරිමි සහ කන්තා ඉසව් දෙකෙන් පළමු ස්ථාන හිමි කරගෙන තිබේ.
+
+එලෙස පළමු ස්ථානය හිමිකර ගෙන ඇත්තේ, අරුණ දර්ශන සහ තරුෂි කරුණාරත්නය.
+
+අරුණ දර්ශන මීටර් 400 පිරිමි ඉසව්ව තත්පර 45.82කින් නිම කරමින් පළමු ස්ථානයට පත් වූ අතර තරුෂි කරුණාරත්න කාන්තා මීටර් 400 ඉසව්ව තත්පර 52.48කින් නිම කරමින් පළමු ස්ථානය දිනා ගත්තාය.
+
+◼️
+
+[Data](articles/c19520d0.json)
+
+---
 
 ### Govt to hold talks with striking university non-academic staff
 
@@ -87,6 +103,24 @@ The general public is kindly requested to take adequate precautions to minimize 
 ◼️
 
 [Data](articles/da735d71.json)
+
+---
+
+### පුස්ඇලි ඔය පිටාර ගලයි
+
+*2024-06-01 17:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197253) · `si`
+
+පවතින වැසි තත්ත්වය නිසා පාදුක්ක නගරය හරහා ගලා බසින පුස්ඇලි ඔය පිටාර ගැලීම හේතුවෙන් පාදුක්ක නගරයට පිවිසෙන මාර්ග දෙකක් ජලයෙන් යටවී තිබේ.
+
+ඒ හේතුවෙන් ගමනාගමන කටයුතුවලට බාධා එල්ලවී ඇති බව පොලීසිය පවසයි.
+
+පාදුක්ක හංවැල්ල පාර සහ පාදුක්ක ඉංගිරිය පාර මෙලෙස ජලයෙන් යට වී ඇත.
+
+මේ නිසා පාදුක්ක නගරයේ පහත්බිම්වල තිබූ නිවාස රැසක් ද ජලයෙන් යටවී ඇති බව වාර්තා වෙයි.
+
+◼️
+
+[Data](articles/b42321d6.json)
 
 ---
 
@@ -2227,37 +2261,5 @@ Ambassador Ameer Ajwad is a career diplomat with 26 years of experience in the S
 [Data](articles/52b0ea6c.json)
 
 [Extended Data](ext_articles/52b0ea6c.ext.json)
-
----
-
-### Dr. Alan Lightman highlights US-Sri Lanka people-to-people ties
-
-*2024-06-01 00:18:28* · [`dailyftlk`](https://www.ft.lk/news/Dr-Alan-Lightman-highlights-US-Sri-Lanka-people-to-people-ties/56-762464) · `en`
-
-The US Embassy said yesterday it was proud to support the visit of acclaimed American physicist and best-selling author, MIT professor Dr. Alan Lightman, to Sri Lanka.
-
-On 31 May, Dr. Lightman delivered an inspiring lecture at the American Centre Colombo, attended by members of Sri Lanka’s academic, arts and sciences community and First Lady Professor Maithree Wickremesinghe. Dr. Lightman’s lecture focused on spiritual materialism, our feelings of connection to nature and other people, reflecting on our cosmic insignificance, as well as the immense significance of our unique position as observers of, and in, the universe. The American Centre event fostered a vibrant exchange of ideas and highlighted the enduring cultural ties between the two nations.
-
-...
-
-[Data](articles/fdd8e42b.json)
-
-[Extended Data](ext_articles/fdd8e42b.ext.json)
-
----
-
-### The Six Face(t)s of  CWC Chief Arumugan “Thamby” Thondaman
-
-*2024-06-01 00:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84119) · `en`
-
-Former  Cabinet  Minister,Nuwara Eliya district Parliamentarian and Ceylon Workers Congress (CWC)  leader Arumugan Thondaman would have celebrated his 60th  birthday on 29 May,if he were alive today. Thondaman passed away  due to a cardiac arrest four days before his 56th birthday four years ago on 26 May 2020. He was serving as a  Minister  in the cabinet of President Gotabaya  Rajapaksa at the time of his death. This week’s “political pulse” – with the aid of my previous writings –  focuses on Arumugan Thondaman to denote his 60th birth anniversary.
-
-Let me begin with two points about his name and pet name.  Thondaman’s first name Arumugan is spelled  with an N at the end. However  it  is frequently misspelled by the media  as Arumugam with an M instead of N. I too have been guilty of this error at times. I remember his illustrious grandfather Saumiyamoorthy Thondaman gently admonishing me once “ He is Arumugan not Arumugam”.
-
-...
-
-[Data](articles/0c50f8f1.json)
-
-[Extended Data](ext_articles/0c50f8f1.ext.json)
 
 ---

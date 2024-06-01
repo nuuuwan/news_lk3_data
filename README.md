@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-01 17:54:35**
+As of **2024-06-01 18:11:05**
 
 ## Newspaper Stats
 
@@ -26,31 +26,39 @@ adaderanasinhalalk | 4,430
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,729 (100.0%) of 27,734 articles have been extended.
+27,734 (100.0%) of 27,734 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-01 (Saturday)
 
-### ජීවන් තොණ්ඩමන් යළිත් පිරිසක් සමග ඇවිත්
+### Jeevan Thondaman returned with a group
 
 *2024-06-01 17:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197252) · `si`
 
-අමාත්‍ය ජීවන් තොණ්ඩමන් මහතා සහ ලංකා කම්කරු කොංග්‍රසයේ  පිරිසක් අද (01) නුවරඑළිය පොලිස් ස්ථානය අසල විරෝධතාවයක නිරත විය.
+Minister Jeevan Thondaman led a protest against the Gampaha Police Station, which prompted additional police deployment in Nuwara Eliya. The protest was related to the dismissal of workers from a local tea factory. After discussions with high-ranking police officers, the minister announced that the estate administration would withdraw the complaint against him and his supporters, leading to the peaceful dispersal of the protest.
 
-මෙම විරෝධතාවය හේතුවෙන් නුවරඑළිය අවට පොලිස් ස්ථානවලින් අමතර පොලිස් බලඇණි නුවරඑළියට කැඳවා තිබූ බව අද දෙරණ වාර්තාකරු පැවසීය.
+🟩
 
-අමාත්‍ය ජීවන් තොණ්ඩමන් නුවරඑළිය, පිඩෘ වතුයායේ තේ කර්මාන්ත ශාලාවට පසුගියදා සිය ආධාරකරුවන් පිරිසක් සමග ගොස් එහි පාලනාධිකාරිය කාර්යාල අඩස්සියට ගෙන තිබුණි.
+Minister Jeevan Thondaman and a Ceylon Workers Congress protest against the Gampaha Police Station this morning.
 
-ඒ, එම තේ කර්මාන්ත ශාලාවේ වැඩ කරමින් සිටි සේවකයින්ව ඉවත් කිරීමේ සිද්ධියක් සම්බන්ධයෙනි.
+The additional police bodies were summoned to Nuwara Eliya due to the protest, Ada Derana reporter said.
 
-ඊට එරෙහිව එම වතුයායේ පාලනාධිකාරිය විසින් අද නුවරඑළිය පොලීසියට කළ පැමිණිල්ලකට විරෝධය පළ කරමින් අමාත්‍ය ජීවන් තොණ්ඩමන් මහතා ඇතුළු එම පක්ෂයේ ආධාරකරුවන් පිරිස නුවරඑළිය පොලීසිය ඉදිරිපිට විරෝධතාවයක නිරතවුණි.
+Minister Jeevan Thondaman has recently visited the tea factory in Nuwara Eliya and the administration of the administration.
 
-විරෝධතාවයේ නියැලී සිටි අමාත්‍ය ජීවන් තොණ්ඩමන් මහතාට ඒ සම්බන්ධයෙන් සාකච්ඡා කිරිමට පොලීසිය තුළට පැමිණෙන ලෙසට නුවරඑළිය පොලීසියේ නිලධාරින් අවස්ථා කිහිපයකදී ඉල්ලිම් කළත්, එම ඉල්ලිම් අමාත්‍යවරයා විසින් ප්‍රතික්ෂේප කර තිබුණි.
+It is in connection with the removal of employees who were working in the tea factory.
+
+The Secretary General of the estate manman, Minister Jeevan Thondaman and the supporters of the party were protesting in front of the Nuwara Eliya Police today.
+
+The officials of Nuwara Eliya had requested several occasions when the Minister Jeevan Thondaman was involved in the incident.
+
+Later, the Minister went into the police and discussed with high police officers and told the supporters that the estate administration had agreed to withdraw the complaint against him and his supporters.
 
 ...
 
 [Data](articles/56aeefa7.json)
+
+[Extended Data](ext_articles/56aeefa7.ext.json)
 
 ---
 
@@ -72,6 +80,8 @@ As a result, the existing private bus fleet has been reduced to 13,000, and even
 
 [Data](articles/a3899bcd.json)
 
+[Extended Data](ext_articles/a3899bcd.ext.json)
+
 ---
 
 ### Smuggling attempt through BIA ‘green channel’ reveals Rs.7Mn worth phones, cigarettes
@@ -90,6 +100,8 @@ Customs spokesman Additional Director General Seevali Arukgoda told the Daily Mi
 
 [Data](articles/b6c77dec.json)
 
+[Extended Data](ext_articles/b6c77dec.ext.json)
+
 ---
 
 ### Welipenna Interchange closed until further notice
@@ -103,6 +115,8 @@ They said motorists are advised to use the Kurundugahahetekma Toll Booth and Dod
 ◼️
 
 [Data](articles/9a4a2ce1.json)
+
+[Extended Data](ext_articles/9a4a2ce1.ext.json)
 
 ---
 
@@ -121,6 +135,8 @@ In addition, Apple will not repair or service them at all. In fact, service prov
 ...
 
 [Data](articles/3cb891af.json)
+
+[Extended Data](ext_articles/3cb891af.ext.json)
 
 ---
 

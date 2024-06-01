@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-01 13:18:34**
+As of **2024-06-01 13:34:13**
 
 ## Newspaper Stats
 
-*Scraped **27,697** Articles*
+*Scraped **27,698** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ adaderanalk | 3,147
 tamilmirrorlk | 3,245
 virakesarilk | 4,272
 dailymirrorlk | 4,386
-adaderanasinhalalk | 4,418
+adaderanasinhalalk | 4,419
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,694 (100.0%) of 27,697 articles have been extended.
+27,697 (100.0%) of 27,698 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-01 (Saturday)
+
+### IS සබඳතා පැවැත්වූ සැකකරු අල්ලන්න කොළඹදී කළ මෙහෙයුම
+
+*2024-06-01 13:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197239) · `si`
+
+ISIS ත්‍රස්ත සංවිධානය සමග සබඳතා පැවැත් වූ බවට චෝදනා ලබා ඉන්දියාවේදී අත්අඩංගුවට පත් ශ්‍රී ලාංකිකයින් සිවුදෙනාව මෙහෙයවූ  ප්‍රධානියා ලෙස සැලකෙන ඔස්මන් ජෙරාඩ් නමැත්තා ඊයේ (31) රාත්‍රියේ කොළඹදී අත්අඩංගුවට ගෙන තිබුණි.
+
+ඒ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව හා ත්‍රස්ත විමර්ශන කොට්ඨාසය එක්ව සිදුකළ මෙහෙයුමකදීය.
+
+ISIS සංවිධානය සමග සම්බන්ධ බවට චෝදනා ලබා ඉන්දියාවේදී අත්අඩංගුවට ගත් ශ්‍රී ලාංකිකයන් සිව්දෙනා සමග සමීප සබඳතා පැවැත් වූ සහ ඔවුන්ට සහාය දැක් වූ බවට සැක කෙරන පුද්ගලයෙකු අත්අඩංගුවට ගැනීම සඳහා පොලීසිය පසුගිය සෙනසුරාදා මහජන සහාය ඉල්ලා තිබුණි.
+
+පොලීසිය පැවසුවේ, ඔහු 46 හැවිරිදි ජෙරාඩ් පුෂ්පරාජා ඔස්මන් ජෙරාඩ් නම් දෙමටගොඩ ප්‍රදේශයේ පදිංචිකරුවෙක් බවය.
+
+ඒ අතරතුර සැකකරු කොළඹ ප්‍රදේශයේ සැඟව සිටින බවට ලද තොරතුරකට අනුව ඊයේ රාත්‍රියේ ඔහු අත්අඩංගුවට ගැනීමට කටයුතු කර තිබුණි.
+
+ඒ් අපරාධ පරීක්ෂණ දෙපාතර්මේන්තුව භාර නියෝජ්‍ය පොලිස්පති රොහාන් ප්‍රේමරත්න මහතාගේ සෘජු අධීක්ෂණය යටතේ ත්‍රස්ත විමර්ශන කොට්ඨාසය හා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව එක්ව සිදුකළ ඒ්කාබද්ධ මෙහෙයුමකදීය.
+
+◼️
+
+[Data](articles/4db31720.json)
+
+---
 
 ### T20 World Cup Warm-up: Dasun Shanaka stars as Sri Lanka beat Ireland
 
@@ -54,25 +76,31 @@ In reply, quick-fire knocks from Paul Stirling (21) and George Dockrell (17) wer
 
 ---
 
-### ඉන්ධන මිල අඩුවෙයි
+### Fuel prices will fall
 
 *2024-06-01 12:50:31* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්ධන-මිල-අඩුවෙයි/11-409949) · `si`
 
-ඉන්ධන මිල සූත්‍රයට අනුව ඊයේ මධ්‍යම රාත්‍රයේ සිට ඉන්ධන මිල පහළ දැමීමට කටයුුතු කර තිබේ.
+Fuel prices have decreased across various types: Octane 92 petrol now costs Rs. 355 (down from Rs. 368), diesel by Rs. 137 per liter, and kerosene by Rs. 13 per liter. However, prices for 95 petrol and Super Diesel remain unchanged. Both Lanka IOC and Sipetco have followed suit in reducing fuel prices.
 
-ඔක්ටේන් 92 පෙට්‍රල් ලීටරයක මිල රුපියල් 13කින් අඩුකර ඇති අතර නව මිල රුපියල් 355කි
+🟩
 
-ලංකා සුදු ඩීසල් ලීටරයක් රුපියල් 16කින් අඩුකර ඇති අතර නව මිල රුපියල් 317කි.
+According to the fuel price formula, fuel prices have been taken to download from the central rat.
 
-භූමිතෙල් ලීටරයක් රුපියල් 13කින් පහළ දමා ඇති අතර නව මිල රුපියල් 202කි.
+The price of an Octane 92 petrol has been reduced by 13 rupees and the new price is Rs. 355
 
-කෙසේ වෙතත්  ඔකටේන් 95 පෙට්‍රල් සහ සුපර් ඩිසල් මිල සංශෝධනය කර නොමැත.
+A liter of Sri Lanka has been reduced by Rs.137 rupees.
 
-ලංකා අයි.ඕ.සී සමාගමද සිපෙට්කෝ මිලට සමාන අයුරින් ඉන්ධන මිල අඩු කර ඇත.
+A liter of kerosene has been reduced by Rs 13 per Rs. 202.
+
+However, the price of 95 petrol and Super Disel is not revised.
+
+Lanka IOC also reduced fuel prices as the price of Sipetco.
 
 ◼️
 
 [Data](articles/c4adfe60.json)
+
+[Extended Data](ext_articles/c4adfe60.ext.json)
 
 ---
 
@@ -633,6 +661,8 @@ The rise of NPP from the ashes of Aragalaya and led by a new generation of JVP l
 ...
 
 [Data](articles/931acbbe.json)
+
+[Extended Data](ext_articles/931acbbe.ext.json)
 
 ---
 
@@ -2171,29 +2201,5 @@ Daluwatte maintained consistency across all three days, carding scores of 71, 71
 [Data](articles/0ca8aa1f.json)
 
 [Extended Data](ext_articles/0ca8aa1f.ext.json)
-
----
-
-### Minister of State for Higher Education Dr. Suren Raghavan
-
-*2024-05-31 19:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/184999) · `ta`
-
-Dr. Suren Raghavan, Higher Education Minister, announced plans to meet with striking non-academic staff unions to address their demands, emphasizing the government's readiness to offer a solution. The strike, affecting student learning and costing around 150 million rupees daily, highlights the urgency for resolution. Discussions with finance officials aim to cover the estimated 1.1 billion rupee requirement for salary increases over six months. Raghavan stresses the importance of finding a suitable solution amidst economic challenges and the need for higher education reform aligning with global trends.
-
-🟩
-
-Higher Education Minister Dr. Suren Raghavan said that he will hold talks with the university non -academic staff unions who have been on strike on various demands.
-
-He added that the government, including President Ranil Wickremesinghe, is ready to provide a better solution.
-
-Minister of Higher Education Suren Raghavan made this statement at a media briefing held at the Presidential Media Center on Friday.
-
-“Currently non -academic staff are on strike. This is an unfortunate thing. This is because the students of the future are affected by this. This results in a direct loss of about 150 million rupees a day. This is only a financial loss. Human Time is also wasted. So the government does not need to waste more than one more hour. I think the strike as a parent is also impact. So they do not want to follow this. Now we need to see how to find the right solution.
-
-...
-
-[Data](articles/c91cb4f4.json)
-
-[Extended Data](ext_articles/c91cb4f4.ext.json)
 
 ---

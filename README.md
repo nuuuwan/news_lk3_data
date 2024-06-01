@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-01 20:18:55**
+As of **2024-06-01 20:34:15**
 
 ## Newspaper Stats
 
@@ -26,51 +26,69 @@ adaderanasinhalalk | 4,433
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,747 (100.0%) of 27,750 articles have been extended.
+27,750 (100.0%) of 27,750 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-01 (Saturday)
 
-### ISIS සිද්ධියට ඇල්ලූ පුෂ්පරාජ් ගෙන් හෙළිවූ රහස්
+### ISIS CEBS CONTENTS HEVER SHIPLED IN PUMBERA
 
 *2024-06-01 19:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197256) · `si`
 
-ISIS සිද්ධිය සම්බන්ධයෙන් මෙරටදී අත්අඩංගුවට ගත් තිදෙනෙකුගේ මෙරට බැංකු ගිණුම් පිළිබඳව සහ ඔවුන්ට විදේශ රටවලින් මුදල් ලැබුණේද යන්න පිළිබඳව විමර්ශන සිදුකිරීම සඳහා ත්‍රස්ත විමර්ශන කොට්ඨාසය අද (01) කොටුව මහෙස්ත්‍රාත් අධිකරණයෙන් අවසර ලබා ගත්තේය.
+The LTTE was granted permission by the Wiki Magistrate Court to investigate bank accounts in Sri Lanka and India related to three Sri Lankans arrested for alleged ties to ISIS. The Fort Magistrate's Court also ordered CCTV footage. Osman Gerard, a 46-year-old resident of Colombo, was arrested for suspected involvement with the four Sri Lankans arrested in India. The Criminal Investigation Department and the Terrorist Investigation Division are involved in the case.
 
-ඒ, ISIS ත්‍රස්ත සංවිධානය සමග සබඳතා පැවැත් වූ බවට චෝදනා ලබා ඉන්දියාවේදී අත්අඩංගුවට ගත් ලාංකිකයන් සිව්දෙනා සමග සබඳතා පැවැත්වූවායැයි සැකපිට මෙරටදී අත්අඩංගුවට ගත් තිදෙනෙකු සම්බන්ධයෙනි.
+🟩
 
-එමෙන්ම අන්තර්ජාල හරහා ගනුදෙනු කර ඇත්නම් ඒ් පිළිබඳව හා ඊට අදාළ CCTV දර්ශන ද ලබාගැනීමට කොටුව මහෙස්ත්‍රාත් අධිකරණය අද නියෝග කළේය.
+The Territory Investigation Division (LTTE) was permitted by the Wiki Magistrate Court today to investigate the bank accounts in Sri Lanka and the bank accounts of the country.
 
-මේ අතර ISIS ත්‍රස්ත සංවිධානය සමග සබඳතා පැවැත් වූ බවට චෝදනා ලබා ඉන්දියාවේදී අත්අඩංගුවට පත් ශ්‍රී ලාංකිකයින් සිවුදෙනාව මෙහෙයවූ ප්‍රධානියා ලෙස සැලකෙන ඔස්මන් ජෙරාඩ් නමැත්තා ඊයේ (31) රාත්‍රියේ කොළඹදී අත්අඩංගුවට ගෙන තිබුණි.
+It was in connection with three Sri Lankans who were arrested in Sri Lanka with the four Sri Lankans who were arrested in India with regard to the ISIS terrorist organization.
 
-ඒ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව හා ත්‍රස්ත විමර්ශන කොට්ඨාසය එක්ව සිදුකළ මෙහෙයුමකදීය.
+The Fort Magistrate's Court today ordered the CCTV footage of and the relevant CCTV footage.
+
+Meanwhile, Osman Gerard was arrested in Colombo last night
+
+That Criminal Investigation Department and the Terrorist Investigation Division participated.
+
+The police had requested public assistance last Saturday to arrest a person who was arrested and supported by the four Sri Lankans who were arrested in India.
+
+According to the police, he is a resident of the 46-year-old Gerard Pushraja Ozman, Gerad, Dematagoda, Dematagoda.
+
+Meanwhile, he was arrested last night accordingly the suspect is hiding in Colombo.
 
 ...
 
 [Data](articles/1022e54b.json)
 
+[Extended Data](ext_articles/1022e54b.ext.json)
+
 ---
 
-### நுவரெலிய பொலிஸ் நிலையத்திற்கு வந்த ஜீவன் தொண்டமான்; நடந்தது என்ன?
+### Jeevan Thondaman who came to the Nuwara Eliya Police Station;what happened?
 
 *2024-06-01 19:07:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/நுவரெலிய-பொலிஸ்-நிலையத்திற்கு-வந்த-ஜீவன்-தொண்டமான்-நடந்தது-என்ன/76-338248) · `ta`
 
-இலங்கை தொழிலாளர் காங்கிரஸின் பொதுச் செயலாளரும், அமைச்சருமான ஜீவன் தொண்டமான் மற்றும் இலங்கை தொழிலாளர் காங்கிரஸின் ஆதரவாளர்கள் இன்று மாலை நுவரெலிய பொலிஸ் நிலையத்திற்கு வருகைத் தந்த நிலையில் அமைதியின்மை ஏற்பட்டுள்ளது.
+Minister Jeevan Thondaman and his supporters from the Ceylon Workers Congress protested at the Nuwara Eliya Police Station over worker dismissals at a plantation company. The protest led to a temporary halt in operations but ended peacefully after the administration agreed to rehire the workers and ensure their rights.
 
-நுவரெலியா – உடரதெல்ல – பீட்றூ பெருந்தோட்ட நிறுவனத்தில் பணியாற்றிய தொழிலாளர்களை, தோட்ட நிர்வாகம் அண்மையில் பணிநீக்கம் செய்திருந்தது.
+🟩
 
-இதையடுத்து, அமைச்சர் ஜீவன் தொண்டமான் தலைமையிலான இலங்கை தொழிலாளர் காங்கிரஸின் உறுப்பினர்கள் மற்றும் ஆதரவாளர்கள் சென்று களனிவெளி தோட்டத்திற்கு சொந்தமான தொழிற்சாலையின் பணிகளை இடைநிறுத்தி போராட்டம் நடாத்தியிருந்தனர்.
+Jeevan Thondaman, the General Secretary and Minister of the Ceylon Workers Congress and the supporters of the Ceylon Workers Congress, visited the Nuwara Eliya Police Station this evening.
 
-இதையடுத்து, பணி நீக்கம் செய்யப்பட்ட தொழிலாளர்களை மீண்டும் பணிக்கு அமர்த்துவதாக தோட்ட நிர்வாகம் உறுதி வழங்கியதை அடுத்து, போராட்டம் கைவிடப்பட்டது.
+The plantation administration has recently fired workers at the Nuwara Eliya - Udarattala - Beetru Plantation Company.
 
-இந்த சம்பவம் தொடர்பில் தோட்ட நிர்வாகம் நுவரெலிய பொலிஸ் நிலையத்தில் முறைப்பாடு செய்துள்ளது.
+Subsequently, members and supporters of the Ceylon Workers Congress led by Minister Jeevan Thondaman went to the protest and suspended the work of the factory owned by the Kelaniweli estate.
 
-தமது பணிக்கு இடையூறு விளைவித்ததாக தெரிவித்து, அமைச்சர் ஜீவன் தொண்டமான், முன்னாள் மாகாண சபை உறுப்பினர் சக்திவேல் உள்ளிட்டோருக்கு எதிராக தோட்ட நிர்வாகம் முறைப்பாடு செய்துள்ளது.
+Following this, the protest was called off after the estate administration promised to recruit the dismissed workers.
+
+The plantation administration has lodged a complaint at the Nuwara Eliya Police Station regarding the incident.
+
+The plantation administration has lodged a complaint against Minister Jeevan Thondaman and former provincial council member Sakthivel, who has been disrupted by his work.
 
 ...
 
 [Data](articles/2e92491c.json)
+
+[Extended Data](ext_articles/2e92491c.ext.json)
 
 ---
 
@@ -1128,23 +1146,29 @@ The Criminal Investigation Department Sandolign Sandals Mr. Rohan Premaratne, Se
 
 ---
 
-### නිවුන් සොහොයුරෝ උසස්පෙළට A සාමාර්ථ තුන බැගින් ලබා ගනිති
+### Twin to receive three passes to Advanced Level
 
 *2024-06-01 13:01:44* · [`adalk`](https://www.ada.lk/breaking_news/නිවුන්-සොහොයුරෝ-උසස්පෙළට-A-සාමාර්ථ-තුන-බැගින්-ලබා-ගනිති/11-409950) · `si`
 
-අම්බලන්ගොඩ මාදම්පා ජාතික පාසලේ නිවුන් සොහොයුරන් දෙදෙනෙකු මෙවර උසස් පෙළ විභාගයෙන් වාණිජ විෂය ධාරාවෙන් මුහුණදුන් විෂයන් තුනටම ඒ සාමාර්ථ ලබාගැනීම විශේෂයෙන්ම කැපී පෙනේ.
+Twins from Ambalangoda National School excelled in all three subjects in the national exam, securing top ranks. They are prominent figures at Madampa National School, leading academically and through extracurricular activities. Their achievements highlight their dedication and potential.
 
-පැතුන් සම්පත් හා මිතුන් සම්පත් මේ දස්කම් දැක්වූ නිවුන් සොහොයුරෝය.
+🟩
 
-මේ දෙදෙනාම මාදම්පා ජාතික පාසලේ ප්‍රධාන ශිෂය  උප ප්‍රධාන ශිෂය නායකයෝද වෙති.
+It is especially significant to all three subjects in the Ambalangoda National School in Ambalangoda National Examination.
 
-පැතුම් සම්පත්  සිය විදුහලේ පධාන ශිෂය නායකයා වන අතර මිතුන් සම්පත් උප පධාන ශිෂනායකයාය.
+Thousands of resources and midun resources were the twins.
 
-මොවුන් දෙදෙනාගෙන් පැතුන් සම්පත්  සාමානය පෙළ විභාගයේදී   A සාමාර්ථ 8 ක් ලබාගත් අතර මිතුන් සම්පත් A  සාමාර්ථ 7ක් සමගින් එම විභාගයද  අති විශිෂ්ඨ ලෙස සමත්ව තිබේ.
+Both of them are Madampa National School, the main student legal leaders.
+
+Pathum Resources is the mainfront of his school and Mithun Resources Sub-Organization.
+
+The resources sovere the resources were obtained in the General Assembly Test Examination and the examination has been excellent with seven miden resources.
 
 ◼️
 
 [Data](articles/9d38da16.json)
+
+[Extended Data](ext_articles/9d38da16.ext.json)
 
 ---
 

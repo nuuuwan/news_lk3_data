@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-01 21:34:13**
+As of **2024-06-01 21:53:04**
 
 ## Newspaper Stats
 
-*Scraped **27,756** Articles*
+*Scraped **27,758** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,55 @@ islandlk | 1,495
 economynextcom | 1,584
 dailyftlk | 1,635
 adalk | 2,365
-adaderanalk | 3,155
+adaderanalk | 3,156
 tamilmirrorlk | 3,252
 virakesarilk | 4,282
 dailymirrorlk | 4,400
-adaderanasinhalalk | 4,435
+adaderanasinhalalk | 4,436
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,755 (100.0%) of 27,756 articles have been extended.
+27,756 (100.0%) of 27,758 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-01 (Saturday)
+
+### World Bank, IMF deepen effort to scale up climate action
+
+*2024-06-01 21:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/99584/world-bank-imf-deepen-effort-to-scale-up-climate-action) · `en`
+
+The International Monetary Fund (IMF) and the World Bank Group said Friday they deepened joint efforts to bolster climate action.
+
+The institutions said it is happening through an enhanced framework to help countries scale up action to confront the threat of climate change.
+
+“The collaboration will provide critical support for countries’ climate strategies—through an integrated, country-led approach to policy reforms and climate investments,” they said in a statement. “Within their respective mandates, the World Bank Group and the IMF will leverage their analytics, technical assistance, financing, and policy expertise to enhance country-driven reform programs.”
+
+...
+
+[Data](articles/9eb09490.json)
+
+---
+
+### ක්‍රිකට්වලින් සහ උසස් පෙළින් නාලන්දා සැරසුව සජිත
+
+*2024-06-01 21:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197259) · `si`
+
+කොළඹ නාලන්දා ක්‍රිකට් කණ්ඩායමේ නායක සජිත විතානගේ ක්‍රීඩාව මෙන්ම අධ්‍යාපනයටත් එකසේ දක්ෂතා දැක්වූ සිසුවෙකි.
+
+ඔහු ක්‍රීඩාවට මෙන්ම අධ්‍යාපනයට දක්ෂයෙකු බව ඔප්පු කරනු ලැබුවේ ඊයේ පස්වරුවේ නිකුත් කළ උසස් පෙළ විභාගයේ ප්‍රතිඵල අනුවය.
+
+ඔහු එම විභාගයට ජීවවිද්‍යා විෂය ධාරාවේන් මුහුණ දී A සාමාර්ථ 03ක් ලබාගැනීමට සමත් විය.
+
+මේ අතර සජිත විතානගේ පසුගියදා පැවැති කොළඹ ආනන්ද - නාලන්ද සුලෝහිත සංග්‍රාමයේදී නාලන්දා ක්‍රිකට් කණ්ඩායමේ නායක ලෙස ශතයක් පවා රැස්කළේය.
+
+◼️
+
+[Data](articles/c6152742.json)
+
+---
 
 ### Showing road to children who have failed children
 
@@ -77,6 +111,8 @@ If Mr Modi wins, he will be only the second prime minister in India to hold offi
 ...
 
 [Data](articles/cfe98362.json)
+
+[Extended Data](ext_articles/cfe98362.ext.json)
 
 ---
 
@@ -2301,53 +2337,5 @@ Non -food inflation rose to 1.3 per cent last May.
 [Data](articles/2e912bda.json)
 
 [Extended Data](ext_articles/2e912bda.ext.json)
-
----
-
-### Talk with university non -academic staff
-
-*2024-06-01 02:08:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல்கலை-கல்விசாரா-ஊழியர்களுடன்-பேச்சு/175-338223) · `ta`
-
-Dr. Suren Raghavan, the Higher Education Minister, announced that the university will engage in discussions with non-academic staff unions on strike tomorrow. He expressed concern over the strike's impact on students and the financial loss, estimating it at around 150 million rupees daily. The minister highlighted the urgency to resolve the strike, which includes salary increases costing approximately 1.1 billion rupees for the next six months. He plans to meet with union leaders next Monday to find a solution.
-
-🟩
-
-Higher Education Minister Dr. Suren Raghavan said that the university will hold talks tomorrow with the university non -academic staff unions who have been on strike on various demands.
-
-Minister of Higher Education Suren Raghavan said this at a media briefing held at the Presidential Media Center yesterday. As he further stated,
-
-“Currently non -academic staff are on strike. This is an unfortunate thing. This is because the students of the future are affected by this. This results in a direct loss of about 150 million rupees a day. This is only a financial loss. Human times are wasted there.
-
-So the government does not need to waste more than one more hour. I think the strike as a parent is also impact. So they do not want to follow this. Now we need to see how to find the right solution.
-
-...
-
-[Data](articles/0cfc6507.json)
-
-[Extended Data](ext_articles/0cfc6507.ext.json)
-
----
-
-### If the president acts against the country, we will quit the government - PA
-
-*2024-06-01 02:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/185006) · `ta`
-
-Ranil Wickremesinghe denies leading a government against the country, stating that without parliamentary support, the president's actions would be ineffective. The PA's Sakara Kariyawasam emphasizes the untruthfulness of claims linking the Rajapaksas to the PA. They suggest holding the general election before the presidential election for a better political climate but comply with the constitutional order. The PA is preparing to announce a candidate for the upcoming presidential election, highlighting readiness for any election.
-
-🟩
-
-United National Party (UNP) leader Ranil Wickremesinghe has not created a government headed by UNP leader to carry out anti -country activities.. In the event of such a situation, the president will not get the support of Parliament. PA's general secretary Sakara Kariyawasam said that the government cannot be carried out.
-
-He was speaking at a media briefing held at the Sri Lanka PA's office on Friday (31).
-
-It is completely untrue to say that Rajapakse is in the backdrop of PA, the United National Party (UNP) general secretary Range Bandara, that the presidential election and the general election should be re -given by President Ranil Wickremesinghe.
-
-The Rajapaksas do not have the elections after the elections.
-
-...
-
-[Data](articles/458156c0.json)
-
-[Extended Data](ext_articles/458156c0.ext.json)
 
 ---

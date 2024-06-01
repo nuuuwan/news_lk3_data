@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-01 12:33:58**
+As of **2024-06-01 12:51:19**
 
 ## Newspaper Stats
 
-*Scraped **27,691** Articles*
+*Scraped **27,692** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,495
 economynextcom | 1,584
 dailyftlk | 1,635
 adalk | 2,360
-adaderanalk | 3,145
+adaderanalk | 3,146
 tamilmirrorlk | 3,245
 virakesarilk | 4,272
 dailymirrorlk | 4,386
@@ -26,11 +26,31 @@ adaderanasinhalalk | 4,417
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,688 (100.0%) of 27,691 articles have been extended.
+27,691 (100.0%) of 27,692 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-01 (Saturday)
+
+### Mannheim attack: Several people hurt in stabbing in German city
+
+*2024-06-01 12:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/99575/mannheim-attack-several-people-hurt-in-stabbing-in-german-city) · `en`
+
+A man stabbed several members of a group that describes itself as opposing “political Islam” on a central square in the German city of Mannheim on Friday, authorities said. Six people were wounded, including a police officer who intervened.
+
+Police quickly put an end to the attack by shooting the assailant, who also was wounded.
+
+The attack happened shortly after 11:30 a.m. (0930 GMT) on the Marktplatz, a downtown square in the southwestern city of Mannheim.
+
+The assailant stabbed participants in an event organized by the Pax Europa group, wounding five members of the organization, police and prosecutors said in a statement. The police officer was stabbed several times from behind in the head, they added.
+
+Another officer fired a shot at the assailant, bringing an end to the attack. The wounded were taken to various hospitals, where some of them underwent operations.
+
+...
+
+[Data](articles/fa0278ba.json)
+
+---
 
 ### India votes in final phase of elections as both Modi and Rahul Gandhi eye victory
 
@@ -47,6 +67,8 @@ More than 100 million people are registered to vote across eight states and fede
 ...
 
 [Data](articles/75d0d3be.json)
+
+[Extended Data](ext_articles/75d0d3be.ext.json)
 
 ---
 
@@ -65,6 +87,8 @@ Meanwhile, the availability of foreign currency in the country, due to the norma
 ...
 
 [Data](articles/4ea57f0d.json)
+
+[Extended Data](ext_articles/4ea57f0d.ext.json)
 
 ---
 
@@ -295,6 +319,8 @@ Tourism income was estimated at 225.7 million US dollars for April, which is fro
 ...
 
 [Data](articles/735f85aa.json)
+
+[Extended Data](ext_articles/735f85aa.ext.json)
 
 ---
 
@@ -2169,25 +2195,5 @@ Civil organizations staged a protest in front of the United Nations Headquarters
 [Data](articles/5fab65f7.json)
 
 [Extended Data](ext_articles/5fab65f7.ext.json)
-
----
-
-### Extreme Asian heat spurs LNG demand ahead of summer months
-
-*2024-05-31 19:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/99569/extreme-asian-heat-spurs-lng-demand-ahead-of-summer-months) · `en`
-
-Extreme temperatures across Asia are driving up liquefied natural gas (LNG) demand in the region as importers seek cargoes ahead of summer, with imports in South Asia hitting records.
-
-This could tighten available supply and further lift Asian spot prices that have already gained a third since April, with heatwaves across South and Southeast Asia boosting air-conditioner use and other cooling demand. Prices are now at a near six-month peak at $12 per million British thermal units (mmBtu) and are expected to remain elevated.
-
-“Spot prices are now driven by Asian demand. Temperatures in South Asia are rising due to a heatwave, increasing power demand,” said Siamak Adibi, principal consultant at energy consultancy FGE.
-
-While China may still see lower demand compared with its record breaking shipments in 2021, demand from India and the rest of Asia has compensated for any drop-off, Adibi said.
-
-...
-
-[Data](articles/6ddac846.json)
-
-[Extended Data](ext_articles/6ddac846.ext.json)
 
 ---

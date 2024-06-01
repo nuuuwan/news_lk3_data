@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-01 22:18:35**
+As of **2024-06-01 22:34:25**
 
 ## Newspaper Stats
 
-*Scraped **27,759** Articles*
+*Scraped **27,761** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ adaderanalk | 3,157
 tamilmirrorlk | 3,252
 virakesarilk | 4,282
 dailymirrorlk | 4,400
-adaderanasinhalalk | 4,436
+adaderanasinhalalk | 4,438
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,758 (100.0%) of 27,759 articles have been extended.
+27,759 (100.0%) of 27,761 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-01 (Saturday)
+
+### ඕනෑම රජයක් බෞද්ධාගමට ප්‍රමුඛත්වය ලබාදිය යුතුයි - ජනපති
+
+*2024-06-01 22:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197261) · `si`
+
+රටේ ව්‍යවස්ථාදායකය, විධායකය සහ අධිකරණය යන අංශ තුනම බුදු දහම ආරක්ෂා කිරීමට ප්‍රමුඛස්ථානය ලබාදිය යුතු බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අවධාරණය කරයි.
+
+හෝමාගම කිරිවත්තුඩුවේ ඉදිකෙරුණු ගුරු දෙව් සුව අරණ ගිලන් භික්ෂු මධ්‍යස්ථානය විවෘත කිරීමේ අවස්ථාවට එක් වෙමින් ජනාධිපතිවරයා ඒ බව සඳහන් කළේය.
+
+හෝමාගම ගුරු දෙව් සුව අරණ ගිලන් භික්ෂු මධ්‍යස්ථානය විවෘත කිරීම අද පස්වරුවේ සිදුකෙරුණේ ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙනි.
+
+පස් මහල් හා තෙමහල් ගොඩනැගිලි දෙකකින් සමන්විත එම භික්ෂු මධ්‍යස්ථානයේ එකවර භික්ෂුන් වහන්සේ පනස් නමකට ප්‍රතිකාර ලබා ගත හැකිය.
+
+"ආණ්ඩුවයි, බුද්ධාගමයි වෙන් කිරීමට අවශ්‍යයි කියා දැන් එක් තර්කයක් ඉදිරිපත් වී තිබෙනවා. එහි නීතිමය තත්ත්වය පිළිබඳව සඳහන් කළහොත් අපේ රටේ සෑම පුරවැසියෙකුටම තමන් කැමති ආගමක් ඇදහීමට අයිතිය තිබෙනවා. ඒ වගේම ආගමක් අදහන්නේ නැතිව සිටීමටත් අයිතිය තිබෙනවා."
+
+...
+
+[Data](articles/149802f9.json)
+
+---
 
 ### Businessman arrested with gemstones worth Rs. 8 million at BIA
 
@@ -47,6 +67,26 @@ Following the formal customs inquiry, the gemstones were ordered confiscation an
 ◼️
 
 [Data](articles/714a3a41.json)
+
+[Extended Data](ext_articles/714a3a41.ext.json)
+
+---
+
+### ව්‍යාපාරිකයෙක් මැණික් සමග කටුනායකදී අත්අඩංගුවට
+
+*2024-06-01 22:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197260) · `si`
+
+නීතිවිරෝධීව මැණික් තොගයක් තායිලන්තය බලා රැගෙන යාමට තැත් කළ ව්‍යාපාරිකයෙකු කටුනායක ගුවන්තොටුපොළේදී අත්අඩංගුවට ගෙන තිබේ.
+
+එම මැණික් තොගයේ වටිනාකම රුපියල් ලක්ෂ 80ක් පමණ වන බව වාර්තා වෙයි.
+
+ඊයේ (31) එම සැකකරු අත්අඩංගුවට ගෙන තිබුණේ රේගු මත්ද්‍රව්‍ය පාලන අංශයේ නිලධාරීන් පිරිසක් විසිනි.
+
+සැකකරු රැගෙන ආ ගමන් මල්ල තුළ සූක්ෂම ලෙස සඟවා ගෙන තිබූ එම මැණික් තොගය රේගු මත්ද්‍රව්‍ය පාලන අංශයේ නිලධාරීන් විසින් සොයාගෙන තිබුණි.
+
+◼️
+
+[Data](articles/b2b3d0bb.json)
 
 ---
 
@@ -2293,51 +2333,5 @@ At this time, the President advised the authorities to implement a mechanism to 
 [Data](articles/0f619338.json)
 
 [Extended Data](ext_articles/0f619338.ext.json)
-
----
-
-### Older Payment will not be stopped
-
-*2024-06-01 02:12:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முதியவர்-கொடுப்பனவு-நிறுத்தப்படமாட்டாது/175-338225) · `ta`
-
-The Ashemu welfare program rumors are false; actual payments totaling 1518 million rupees were dispatched in May 2024. Despite technical delays, elderly benefits will commence in Divisional Secretariats from mid-June.
-
-🟩
-
-The Welfare Benefits Board has announced that the information that the Ashemu welfare program is being implemented is untrue.
-
-In May 2024, about 1518 million rupees required to provide allowances has been sent to the District Secretariats.
-
-The Welfare Benefits Council has advised that even though there is a delay in the payment of allowances due to technical reasons, the benefits of the elderly will be made in the Divisional Secretariats after the second week of June.. (A)
-
-◼️
-
-[Data](articles/bb64eddc.json)
-
-[Extended Data](ext_articles/bb64eddc.ext.json)
-
----
-
-### The model should be promoted modern technologies
-
-*2024-06-01 02:10:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நவீன-தொழில்நுட்பங்களை-ஊக்குவிக்க-வேண்டும்/175-338224) · `ta`
-
-President Ranil Wickremesinghe emphasized the importance of adopting modern technologies like AI to drive social and economic transformation in Sri Lanka. He highlighted the need for technical advancement and warned against repeating past mistakes in IT, urging a shift from project use to application focus to catch up with global IT standards.
-
-🟩
-
-President Ranil Wickremesinghe said the country should promote modern technologies such as artificial intelligence to accelerate the government's program to create social and economic change in the country.
-
-President Ranil Wickremesinghe made this statement during a discussion held at the Presidential Office yesterday with university academics on the introduction of AI technology or artificial intelligence in Sri Lanka. As he further stated,
-
-““ Sri Lanka must achieve technical progress. As for modern technology, we are very backward. Technical knowledge is not used enough to achieve economic benefits. Recently artificial intelligence AI technology dominates. And we cannot be backward.
-
-If we progress with artificial intelligence, we can use other technologies. Artificial intelligence includes many technologies. As a country we can use it, we can achieve progress. The mistake we made in the field of information technology could not be repeated.
-
-...
-
-[Data](articles/3b69377f.json)
-
-[Extended Data](ext_articles/3b69377f.ext.json)
 
 ---

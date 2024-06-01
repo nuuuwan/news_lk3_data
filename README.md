@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-01 10:18:54**
+As of **2024-06-01 10:34:07**
 
 ## Newspaper Stats
 
-*Scraped **27,680** Articles*
+*Scraped **27,681** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,495
 economynextcom | 1,583
 dailyftlk | 1,635
 adalk | 2,360
-adaderanalk | 3,143
+adaderanalk | 3,144
 tamilmirrorlk | 3,245
 virakesarilk | 4,272
 dailymirrorlk | 4,381
@@ -26,27 +26,53 @@ adaderanasinhalalk | 4,414
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,678 (100.0%) of 27,680 articles have been extended.
+27,680 (100.0%) of 27,681 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-01 (Saturday)
 
-### නීතිවිරෝධීව ගෙන ආ දුම්වැටි තොගයක් සමග ව්‍යාපාරිකයෙක් අත්අඩංගුවට
+### Heavy showers expected in parts of the island
+
+*2024-06-01 10:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/99573/heavy-showers-expected-in-parts-of-the-island) · `en`
+
+The Meteorology Department says showers or thundershowers will occur at times in Western, Sabaragamuwa, Central and Southern provinces. Several spells of showers may occur in North-western province.
+
+Heavy showers above 100 mm are likely at some places in Western and Sabaragamuwa provinces and in Galle, Matara and Nuwara-Eliya districts.
+
+Showers or thundershowers may occur at a few places in Uva, North-central and Eastern provinces and in Mullaitivu district in the evening or night.
+
+General public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+The sea areas off the coasts extending from Matara to Pottuvil via Hambantota can be very rough at times. The sea areas off the coasts extending from Kankasanthurai to Matara via Mannar, Puttalam, Colombo and Galle can be rough at times.
+
+...
+
+[Data](articles/8ba4c7aa.json)
+
+---
+
+### Businessman arrested with cigarettes brought by illegal
 
 *2024-06-01 10:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197233) · `si`
 
-විදේශීය නිෂ්පාදිත නීතිවිරෝධී දුම්වැටි තොගයක් සමග ව්‍යාපාරිකයෙකු පොලිස් මත්ද්‍රව්‍ය නාශක අංශයේ නිලධාරීන් පිරිසක් විසින් කටුනායක ගුවන්තොටුපොළේ දී අත්අඩංගුවට ගෙන තිබේ.
+A businessman was arrested at Katunayake airport for smuggling a large quantity of foreign-manufactured cigarettes. The 38-year-old, who resides in Negombo, arrived from Dubai. Customs officials discovered the contraband in his luggage.
 
-මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ මීගමුව ප්‍රදේශයේ පදිංචි 38 හැවිරිදි ව්‍යාපාරිකයෙකු බව ගුවන්තොටුපොළ රේගුව සඳහන් කළේය.
+🟩
 
-මෙම ව්‍යාපාරිකයා ඊයේ (31) දින රාත්‍රී 10ට ඩුබායි සිට එමිරේට්ස් ගුවන් සේවයේ ඊ.කේ.- 648 දරන ගුවන් යානයෙන් කටුනායක ගුවන්තොටුපොළ වෙත පැමිණ තිබේ.
+A businessman arrested a businessman with a group of foreign manufactured cigarettes at the Katunayake airport.
 
-ඔහු විසින් රැගෙන ආ ගමන් මලු තුළ දුම්වැටි 38,400ක් අඩංගු දුම්වැටි ඇසුරුම් 192ක් සඟවා ගෙන තිබියදී සොයා ගැනීමට හැකි වූ බව පොලිස් මත්ද්‍රව්‍ය නාශක අංශය පැවසුවේය.
+The airport Customs stated that a 38-year-old business resident of Negombo is a resident of Negombo.
+
+The businessman from Dubai to 10 pm yesterday (31) to the Emirates Airport, the airplane has arrived at the Katunayake Airport on the 648.
+
+The Police Narcotics Department said that the baggage he had brought in a large number of cigarettes of cigarettes were hidden.
 
 ◼️
 
 [Data](articles/9cd5be4a.json)
+
+[Extended Data](ext_articles/9cd5be4a.ext.json)
 
 ---
 
@@ -947,6 +973,8 @@ Let me begin with two points about his name and pet name.  Thondaman’s first n
 ...
 
 [Data](articles/0c50f8f1.json)
+
+[Extended Data](ext_articles/0c50f8f1.ext.json)
 
 ---
 
@@ -2157,21 +2185,5 @@ Accordingly, Lanora, Lenora, holding the first place in Biology Division, Galle 
 [Data](articles/7813bfde.json)
 
 [Extended Data](ext_articles/7813bfde.ext.json)
-
----
-
-### SAITM, Neville Fernando Hospital to be integrated into Moratuwa University
-
-*2024-05-31 18:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SAITM-Neville-Fernando-Hospital-to-be-integrated-into-Moratuwa-University/108-283815) · `en`
-
-Colombo, May 31 - The South Asian Institute of Technology and Medicine (SAITM) along with the Neville Fernando Teaching Hospital (NFTH) will be officially transferred to the Faculty of Medicine at the University of Moratuwa in August 2024.
-
-The announcement was made by the President’s Media Division (PMD).
-
-◼️
-
-[Data](articles/ab491820.json)
-
-[Extended Data](ext_articles/ab491820.ext.json)
 
 ---

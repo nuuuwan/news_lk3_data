@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-01 07:00:26**
+As of **2024-06-01 07:24:44**
 
 ## Newspaper Stats
 
-*Scraped **27,656** Articles*
+*Scraped **27,662** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 248
 dbsjeyarajcom | 267
 bbccomsinhala | 273
 newsfirstlk | 363
-islandlk | 1,488
+islandlk | 1,493
 economynextcom | 1,583
 dailyftlk | 1,635
 adalk | 2,360
@@ -20,17 +20,75 @@ adaderanalk | 3,143
 tamilmirrorlk | 3,237
 virakesarilk | 4,272
 dailymirrorlk | 4,378
-adaderanasinhalalk | 4,409
+adaderanasinhalalk | 4,410
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,654 (100.0%) of 27,656 articles have been extended.
+27,656 (100.0%) of 27,662 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-01 (Saturday)
+
+### අදත් ප්‍රදේශ කිහිපයකට මි.මී. 100 ට වැඩි තද වැසි
+
+*2024-06-01 06:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197229) · `si`
+
+බස්නාහිර, සබරගමුව, මධ්‍යම සහ දකුණු පළාත්වල විටින් විට වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවන බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+බස්නාහිර සහ සබරගමුව පළාත්වලත්, ගාල්ල, මාතර සහ නුවරඑළිය දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල මි.මී. 100 ට වැඩි තද වැසි ඇතිවිය හැකි බව සඳහන් වේ.
+
+ඌව, උතුරු-මැද සහ නැගෙනහිර පළාත්වලත් මුලතිව් දිස්ත්‍රික්කයෙත් සවස් කාලයේ හෝ රාත්‍රි කාලයේ ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බව දැනුම් දී තිබේ.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළං වලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවට පවසයි.
+
+◼️
+
+[Data](articles/65a7957e.json)
+
+---
+
+### Union Bank becomes first local bank to achieve PCI DSS Version 4 certification
+
+*2024-06-01 06:18:00* · [`islandlk`](http://island.lk/union-bank-becomes-first-local-bank-to-achieve-pci-dss-version-4-certification/) · `en`
+
+Union Bank has achieved a significant milestone by obtaining the Payment Card Industry Data Security Standard (PCI DSS) version 4 certification, as the first local bank to receive this level of recognition. This accomplishment underscores the Bank’s continuous commitment to maintaining the highest standards of customer information security, as evidenced by its consistent attainment of the PCI DSS certification over the past five years.
+
+...
+
+[Data](articles/4c28aa36.json)
+
+---
+
+### Crocodile ranked among LMD’s Top 10 Most Loved Retail Lifestyle Brands
+
+*2024-06-01 06:18:00* · [`islandlk`](http://island.lk/crocodile-ranked-among-lmds-top-10-most-loved-retail-lifestyle-brands/) · `en`
+
+Crocodile, a leading lifestyle brand renowned for its international acclaim, has been honoured as one of the top 10 most loved brands in the Retail Lifestyle category by LMD readers. This prestigious recognition comes from LMD’s Brands Annual Ranking 2024, via a survey conducted by prominent business magazine LMD in partnership with Brand Finance Lanka, a brand valuation and ratings firm of global repute.
+
+Today, Crocodile stands as one of the most respected and well-known brands in the global fashion industry, with an extensive product line that spans the entire spectrum of men’s, women’s, and kids’ fashion. For over 70 years, Crocodile has been a leader in the fashion world. Since its inception in Sri Lanka, the brand has evolved as a forerunner in premium men’s fashion, synonymous with timeless comfort and elegance. In 2021, Crocodile expanded into the women’s fashion category and further expanded into kids’ fashion, specifically boys’ fashion, in 2024.
+
+...
+
+[Data](articles/ac2fd444.json)
+
+---
+
+### Political uncertainty continues to cast pall of gloom on bourse
+
+*2024-06-01 06:12:00* · [`islandlk`](http://island.lk/political-uncertainty-continues-to-cast-pall-of-gloom-on-bourse/) · `en`
+
+The stock market yesterday kicked off on a positive note but in the middle of the session, selling pressure was noted due to political uncertainty and delays in the external debt restructuring exercise, market analysts said.Both indices moved upwards. The All Share Price Index went up by 49.05 points while S and P SL20 rose by 10.35 points.
+
+Turnover stood at Rs 1.16 billion with four crossings. Those crossings were reported in Melstacope, which crossed 841,000 shares to the tune of Rs 74 million; its shares traded at Rs 88, NTB 500,000 shares crossed for Rs 60 million; its shares traded at Rs 120, NDB 300,000 shares crossed for Rs 23.4 million; its shares traded at Rs 78 and TJLanka 565,000 shares crossed for Rs 22 million; its shares sold at Rs 39.
+
+...
+
+[Data](articles/f116116e.json)
+
+---
 
 ### Handover Sirikotha to SJB: SJB tells Ranil
 
@@ -49,6 +107,8 @@ Expressing concerns about UNP’s current plight, Senasinghe also said “We hop
 ...
 
 [Data](articles/efaba211.json)
+
+[Extended Data](ext_articles/efaba211.ext.json)
 
 ---
 
@@ -240,19 +300,25 @@ Civil organizations engaged in a protest in front of the Colombo Thevadakaha Sch
 
 ---
 
-### விக்டோரியா நீர்த்தேக்கத்தில் இரு சடலங்கள் மீட்பு
+### Two bodies recovery in Victoria reservoir
 
 *2024-06-01 01:45:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விக்டோரியா-நீர்த்தேக்கத்தில்-இரு-சடலங்கள்-மீட்பு/175-338221) · `ta`
 
-கிடைத்த தகவலுக்கமைய திகன, அம்பகோட்டே பகுதியில் இருந்து இரு சடலங்களும் கண்டெடுக்கப்பட்டுள்ளன. அவை அடையாளம் காண முடியாத அளவிற்கு அழுகிப் போயுள்ளன என பொலிஸார் தெரிவித்துள்ளனர்.
+In Victoria Reservoir, two decomposed bodies were discovered in Digana and Ambakotte, making identification challenging. A magistrate visited the site and the hospital where the bodies were taken for autopsy. Further inquiries are being conducted by Teldeniya police.
 
-தெல்தெனிய பதில் நீதவான் சம்பவ இடத்திற்கு சென்று சடலங்களை பார்வையிட்டுள்ளார். பிரேத பரிசோதனைகளுக்காக சடலங்கள் கண்டி தேசிய வைத்தியசாலைக்கு கொண்டு செல்லப்பட்டுள்ளன.
+🟩
 
-இந்த சம்பவம் தொடர்பில், தெல்தெனிய பொலிஸார் மேலதிக விசாரணைகளை முன்னெடுத்து வருகின்றனர். (a)
+According to the information available, two bodies have been found from Digana and Ambakotte area. They have been rotten so that they are unidentified, police said.
+
+The Teldeniya reply magistrate visited the scene and visited the bodies. The bodies have been taken to the Kandy National Hospital for autopsy.
+
+Teldeniya police are conducting further investigations into the incident. (A)
 
 ◼️
 
 [Data](articles/971643f2.json)
+
+[Extended Data](ext_articles/971643f2.ext.json)
 
 ---
 
@@ -2103,97 +2169,5 @@ Minor Hotels has over 550 hotels and resorts and serves customers in 56 countrie
 [Data](articles/33482fa1.json)
 
 [Extended Data](ext_articles/33482fa1.ext.json)
-
----
-
-### Sri Lanka stocks close down, mixed sentiments on banks
-
-*2024-05-31 17:01:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-mixed-sentiments-on-banks-165626/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed down on Friday, data on its site showed.
-
-The broader All Share Index closed down 0.52 percent, or 63.64 points, at 12,106; while the S&P SL20 Index closed down 0.47 percent, or 16.77 points, at 3,569.
-
-Turnover was 1.1 billion. Most of this came from the food, beverage and tobacco stocks (Rs287mn) and capital goods stocks (Rs251mn).
-
-Melstacorp Plc saw the most active volumes traded in the day. The share closed down at 88.00.
-
-Selling pressure was seen on some banking stocks. Sampath Bank Plc closed down at 78.40, Commercial Bank of Ceylon Plc closed down at 105.75, and DFCC Bank Plc closed down at 77.40.
-
-However, Hatton National Bank Plc closed up at 195.25, and National Development Bank Plc closed up at 78.80.
-
-There was a net foreign inflow of 121 million. (Colombo/May31/2024)
-
-◼️
-
-[Data](articles/808698a1.json)
-
-[Extended Data](ext_articles/808698a1.ext.json)
-
----
-
-### 'Vettaikari' starring actress Sanjana Singh
-
-*2024-05-31 17:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/184979) · `ta`
-
-"Sanjana Singh stars in 'Vettaikari,' directed by Kalimuthu Kathamuthu, alongside Rahul, Vincent Selva, and others. The film, produced by Mrs. Vishnupriya Veluchami, features music by Ramji. Post-production is underway after filming concludes. A special screening in Chennai was attended by Tamil Nadu Cooperative Minister Periyar Karupan and Director Empire. Kavipparasu Vairamuthu highlighted the importance of integrating songs into screenplays effectively for cinematic success."
-
-🟩
-
-Sanjana Singh, one of the actresses in Tamil cinema, has been released as the hero of the story of 'Vettaikari', which has been released as the hero of the story.. Tamil Nadu Cooperative Minister Periyar Karupan received the music and preview of the music and preview at the special ceremony in Chennai.
-
-Sanjana Singh, Rahul, Vincent Selva, Veluchami, Kanja Kalu and many others have starred in the film 'Vettaikari' directed by director Kalimuthu Kathamuthu.The film is composed by Ramji and produced by Mrs. Vishnupriya Veluchami on behalf of Sri Karupar Films.
-
-The shooting of the film is over and the post -shooting work is going on. The music and preview of the film was held in Chennai. Tamil Nadu Co -operative Minister Periyar Karupan and Director Empire participated in the event.
-
-...
-
-[Data](articles/68bf864b.json)
-
-[Extended Data](ext_articles/68bf864b.ext.json)
-
----
-
-### Food inflation in May in May
-
-*2024-05-31 16:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197217) · `si`
-
-In May, Colombo's CPI annual growth fell to 0.9%, with food inflation dropping from 2.9% to 0.0%. Non-food inflation rose to 1.3%. This data comes from the Department of Census and Statistics' latest report.
-
-🟩
-
-The annual point difference in the Colombo Consumer Price Index has fallen to 0.9% in May.
-
-The food group inflation drops from 2.9 percent to 0.0 percent in April to 0.0 percent in April.
-
-The non-food category inflation increased to 1.3 percent in May.
-
-This is stated by the latest report issued by the Department of Census and Statistics.
-
-◼️
-
-[Data](articles/ff2154b0.json)
-
-[Extended Data](ext_articles/ff2154b0.ext.json)
-
----
-
-### Chinese economic growth forecast up again
-
-*2024-05-31 16:40:01* · [`adalk`](https://www.ada.lk/breaking_news/චීන-ආර්ථික-වර්ධන-පුරෝකථනය-යළිත්-ඉහළට/11-409945) · `si`
-
-The IMF forecasts China's economic growth at 5% for 2024 and 4.5% for 2025, a slight increase from its April report. This positive outlook follows rapid GDP growth and effective measures taken in Q1.
-
-🟩
-
-The International Monetary Fund says Chinese economic growth rates will be 5% and 4.5% in 2024 and 2025. It is an increase of 0.4% compared to the report on world economic expectations issued in April.
-
-Mrs. Vice Competition of the International Monetary Fund (IMF) was speaking at a media briefing held in the capital of Beijing Palai on the 29th. She said that the Chinese GDP was rapidly growing and effective measures adopted in the first quarter of the year.
-
-◼️
-
-[Data](articles/e8b1664d.json)
-
-[Extended Data](ext_articles/e8b1664d.ext.json)
 
 ---

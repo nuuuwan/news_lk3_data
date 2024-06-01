@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-01 19:19:01**
+As of **2024-06-01 19:34:09**
 
 ## Newspaper Stats
 
-*Scraped **27,745** Articles*
+*Scraped **27,747** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,30 @@ adalk | 2,363
 adaderanalk | 3,155
 tamilmirrorlk | 3,250
 virakesarilk | 4,282
-dailymirrorlk | 4,396
+dailymirrorlk | 4,398
 adaderanasinhalalk | 4,432
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,739 (100.0%) of 27,745 articles have been extended.
+27,745 (100.0%) of 27,747 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-01 (Saturday)
+
+### 20 drown in boat accident in eastern Afghanistan
+
+*2024-06-01 18:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/20-drown-in-boat-accident-in-eastern-Afghanistan/108-283889) · `en`
+
+ISLAMABAD— At least 20 people were killed when a boat sank while crossing a river in eastern Afghanistan Saturday morning, a Taliban official said. Quraishi Badlon, provincial director of the information and culture department in Nangarhar province, said that the boat sank while crossing a river in Mohmand Dara district, killing 20 people including women and children. Badlon said that the boat was carrying 25 people, according to village residents, of whom five survived. So far five bodies have been retrieved including a man, a woman, two boys and a girl, said the Nangarhar health department in a statement. It added that a medical team and ambulances were sent to the area. The officials didn’t provide details on the cause of the accident and said that rescuers are still searching for other bodies. Residents of the area frequently use locally made boats to travel between villages and local markets.
+
+◼️
+
+[Data](articles/a0e411dc.json)
+
+---
 
 ### Tharushi and Aruna clinch gold at Taiwan Athletics Open
 
@@ -47,6 +59,8 @@ Taiwan Athletics Open is a bronze-level tournament on the World Athletics Contin
 ◼️
 
 [Data](articles/01756023.json)
+
+[Extended Data](ext_articles/01756023.ext.json)
 
 ---
 
@@ -320,29 +334,43 @@ The Welipenna Interchange of the Southern Expressway has been closed until furth
 
 ---
 
-### 2024 லோக்சபா தேர்தல் பிரசாரங்களில் ஈடுபட்டவர் முன்னர் கண்டிராத மோடி
+### 2024 Lok Sabha election campaigns Modi
 
 *2024-06-01 16:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/185045) · `ta`
 
-இந்திய லோக்சபா தேர்தல் முடிவடைந்து முடிவுகளும் வெளியாக விருக்கின்றன.  இந்த தடவை பொதுத்தேர்தல் பிரசாரங்கள் எவ்வாறு நடைபெற்றன. நாம் நினைத்துப் பார்த்ததற்கு முற்றிலும் வேறுபட்ட முறையிலேயே அவை நடந்துமுடிந்தன.
+In the 2024 Lok Sabha elections, the Bharatiya Janata Party (BJP), led by Prime Minister Narendra Modi, faced unexpected challenges and criticism. Despite initial predictions of an easy win, the BJP engaged in aggressive tactics against opponents, including disabling Congress party bank accounts and arresting two chief ministers. The Election Commission's handling of the elections, especially regarding electronic voting machines, drew controversy and accusations of bias. Modi's campaign focused heavily on his leadership, with less emphasis on Hindu-Muslim politics until late in the game, where he addressed concerns directly. The Congress party responded with a focus on caste and class issues, criticizing the BJP's alleged favoritism towards wealthy capitalists. The unpredictable nature of the campaign highlighted the complexities and potential flaws in India's electoral system, raising concerns about democracy and fairness.
 
-இந்த தேர்தலில் வெற்றிபெறுவது பாரதிய ஜனதா கட்சிக்கு வெகு  சுலபமான காரியம் என்றும் பிரதமர் நரேந்திர தாமோதரதாஸ் மோடியைப் பொறுத்தவரை தனது  மூன்றாவது முடிசூட்டு  வைபவத்துக்கு முன்னதாக ஒரு சிறிய பணியாவே பிரசாரங்களை அவர் கருதுவார் என்றும் பெரும்பாலான மக்கள்  நினைத்தார்கள். எதிர்க்கட்சிகளை அலட்சியம் செய்து தனது பத்து வருடகால ஆட்சியின் சாதனைகளை மக்களுக்கு எடுத்துக்கூறி அவர்களிடமிருந்து ஆரவாரமான வரவேற்பை அவர் பெற்று மீண்டும் பெருமையுடன் பிரதமராவார் என்றே நாம் நினைத்தோம்.
+🟩
+
+The Indian Lok Sabha elections are over and the results are being released.This time the general election campaigns were held. They were completely different for what we thought.
+
+Most people thought that winning this election was an easy task for the Bharatiya Janata Party and that Prime Minister Narendra Damodaradas would consider himself a small work ahead of his third coronation.. We thought that he would be proudly proudly proudly, ignoring the opposition parties and taking the achievements of his ten -year regime to the people.
+
+But most of us do not have campaigns as expected. The Bharatiya Janata Party (BJP) falsely lied to all expectations and carried out attacks against its enemies with self -esteem and behaved in a defensive style. Congress party bank accounts disabled. Two chief ministers in office were arrested and jailed. Non -Bharatiya Janata Party of India was afraid that they could be arrested in their homes.
 
 ...
 
 [Data](articles/d0b83fb1.json)
 
+[Extended Data](ext_articles/d0b83fb1.ext.json)
+
 ---
 
-### பூகோள பெறுமதி சங்கிலி உற்பத்தியில் இலங்கை எப்போது இணைந்துகொள்ளும்?
+### When will Sri Lanka join the global value chain?
 
 *2024-06-01 16:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/185055) · `ta`
 
-தற்போதைய சூழலில் ஒரு அப்பிள் கையடக்கத் தொலைபேசியை உற்பத்தி செய்வதில் 43 நாடுகள் சம்பந்தப்படுவதாக தெரிவிக்கப்படுகின்றது.  அப்படியானால் உற்பத்திகள் பூகோளமயமாகிவருகின்றன. உற்பத்தியில் சகல நாடுகளும் பங்கேற்கின்றன. இந்நிலையில் இந்த பூகோள பெறுமதி சங்கிலி உற்பத்தி கட்டமைப்பில் இலங்கை எப்போது இணைந்துகொள்ளும் என்பதே முக்கிய கேள்வியாகவுள்ளது.
+Sri Lanka's entry into the global value chain, like Apple's iPhone production involving 43 countries, hinges on its ability to attract investment, develop skilled labor, and enhance infrastructure. The timeline depends on these factors' progress and international market opportunities.
+
+🟩
+
+It is reported that 43 countries are involved in producing an apple mobile phone in the current environment. If so, the products are globalized. All countries participate in production. The main question is when Sri Lanka will join the global value chain production structure.
 
 ◼️
 
 [Data](articles/a691a439.json)
+
+[Extended Data](ext_articles/a691a439.ext.json)
 
 ---
 
@@ -366,21 +394,29 @@ He said that 452,979 candidates appeared for the exam this year, including 387,6
 
 ---
 
-### அடுத்த 50ஆண்டுகளில் மட்டக்களப்பு மாவட்டத்தில் கண்டுபிடிப்புகளும் ஆராய்ச்சியாளர்களையும் உருவாக்கும் இடமாக பொதுநூலகம் விளங்கும் - சிவநேசதுரை சந்திரகாந்தன்
+### In the next 50 years, the Public Library will be the site of inventions and researchers in the Batticaloa district - Sivanesathurai Chandrakanthan
 
 *2024-06-01 16:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/185057) · `ta`
 
-அடுத்த 50ஆண்டுகளில் மட்டக்களப்பு மாவட்டத்தில் கண்டுபிடிப்புகளும் ஆராய்ச்சியாளர்களையும் உருவாக்கும் இடமாக பொதுநூலகம் விளங்கும் என இராஜாங்க அமைச்சர் சிவநேசதுரை சந்திரகாந்தன் தெரிவித்தார்.
+Over the next 50 years, Batticaloa's public library will emerge as a hub for invention and research, thanks to the efforts of Minister Sivanesathurai Chandrakanthan. The library's construction is complete, and a book collection drive has commenced, aiming to make it a significant Asian library. This initiative is part of broader efforts to enhance education and innovation in the region, supported by various local and international figures.
 
-மட்டக்களப்பில் அமைக்கப்பட்டுவரும் ஆசியாவின் பிரமாண்ட நூலகத்திற்காக நூல்களை சேகரிக்கும் வகையில் புத்தக திருவிழா என்னும் நிகழ்வின் ஊடாக புத்தகங்களை சேகரிக்கும் பணிகள் இன்று சனிக்கிழமை ஆரம்பித்துவைக்கப்பட்டுள்ளன.
+🟩
 
-இராஜாங்க அமைச்சர் சந்திரகாந்தனின் முயற்சியினால் மட்டக்களப்பில் இந்த பிரமாண்ட நூலகம் அமைக்கப்பட்டுவரும் நிலையில் அதன் நிர்மாண பணிகள் பூர்த்தியாக்கப்பட்டு விரைவில் திறப்பு விழா காணவுள்ள நிலையில் இந்த நூல் சேகரிக்கும் பணிகள் ஆரம்பித்துவைக்கப்பட்டுள்ளது.
+The Minister of State for the next 50 years will be a place of inventions and researchers in the Batticaloa district, said Minister of State Sivanesathurai Chandrakanthan.
 
-மட்டக்களப்பு நூலக புத்தக வள ஒருங்கிணைப்புக்குழுவின் ஏற்பாட்டில் அதன் தலைவர் மு.பவளகாந்தன் தலைமையில் நடைபெற்ற இந்த நிகழ்வில் பிரதம அதிதியாக இராஜாங்க அமைச்சர் சிவநேசதுரை சந்திரகாந்தன் கலந்துகொண்டார்.
+The work of collecting books has been started on Saturday through the Book Festival event to collect books for the great library of Asia in Batticaloa.
+
+With the efforts of the Minister of State Chandrakanthan, the massive library is being set up in Batticaloa and its construction work has been completed and the collection work has begun.
+
+The event was chaired by the Chairman of the Batticaloa Library Book Resources Coordinating Committee and the Chief Guest of the event was the chief guest at the event.
+
+Batticaloa District Government Agent JJ ​​Muralitharan, Batticaloa Municipal Council Commissioner Andri Sivalingam, Director of Vavuniya Teaching Hospital Dr. Sukunan and Ananda Swamis from India were present.
 
 ...
 
 [Data](articles/5cc60390.json)
+
+[Extended Data](ext_articles/5cc60390.ext.json)
 
 ---
 
@@ -400,19 +436,29 @@ He said that 452,979 candidates sat for the examination this year, including 387
 
 ---
 
-### பாடசாலையின் 102 வருட கால வரலாற்றை மாற்றி அமைத்த அல் இக்பால் மகாவித்தியாலய மாணவிகள்
+### Al -Iqbal Maha Vidyalaya students who changed the 102 -year history of the school
 
 *2024-06-01 15:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/185056) · `ta`
 
-பாடசாலையின் 102 வருட கால வரலாற்றை வவுனியா அல் இக்பால் மகாவித்தியாலய மாணவிகள் இருவர் மாற்றி அமைத்து சாதனை படைத்துள்ளனர்.
+In a historic achievement for Vavuniya Al-Iqbal Maha Vidyalaya, two students secured 3As in the GCE Advanced Level Examination, marking the first such feat in the school's 102-year history. Nahar Fatima Suha excelled in Tamil, Geography, and History, ranking top at the district level. Manas Fatima Apna also shone in these subjects, securing 3A Siddhi and placing 31st in the district. Additionally, Tajeedin Mohamed Safiq and Mustafa Fatima performed well, contributing to the school's best-ever results.
 
-வவுனியா தெற்கு வலயத்திற்குட்பட்ட சூடுவெந்தபுலவு அல் இக்பால் மகாவித்தியாலயம் ஆரம்பிக்கப்பட்டு 102 ஆண்டுகள் நிறைவடைந்துள்ள நிலையில் வெளியாகிய உயர்தரப் பரீட்சைப் பெறுபேற்றில் முதன் முறையாக பாடசாலை அதிபர் ஏ.கே.உபைத் அவர்களின் வழிகாட்டலில் இப் பாடசாலையில் இரு மாணவிகள் கலைப் பிரிவில் 3ஏ சித்திகளைப் பெற்று சாதனை படைத்துள்ளனர்.
+🟩
 
-அந்தவகையில் நஹார் பாத்திமா சுஹா என்ற மாணவி தமிழ், புவியியல், வரலாறு ஆகிய பாடங்களை கற்று 3ஏ சித்தியைப் பெற்று மாவட்ட மட்டத்தில் 12 ஆவது நிலையைப் பெற்றுள்ளார்.
+Two students of the Vavuniya Al Iqbal Maha Vidyalaya have set the record for the 102 -year history of the school.
 
-...
+The two students in the school have achieved 3As in the school under the guidance of school principal AK Ubaid for the first time in the GCE Advanced Level Examination.
+
+Nahar Fatima Suha, a student, has learned the subjects of Tamil, Geography and History and got 3A Siddhi at the district level.
+
+Manas Fatima Apna, a student of Tamil, Geography and History, has achieved 3A Siddhi in the district with a record of 31st place in the district.. Along with them, Tajeedin Mohamed Safiq A, B, C, C, is the 94th level, Mustafa Fatima 2A, C.
+
+It is also worth noting that all the students who have passed the exam have been able to do all the subjects and this is the first best result of the school in the 102 -year history of the school.
+
+◼️
 
 [Data](articles/8a5c56db.json)
+
+[Extended Data](ext_articles/8a5c56db.ext.json)
 
 ---
 
@@ -646,27 +692,33 @@ The two school children have been arrested by the Hatton, a resident of Hatton w
 
 ---
 
-### மிச்செல் ஒபாமாவின் தாயார் மரியன் ரொபின்சன் காலமானார்
+### Michelle Obama's mother Marian Robinson has passed away
 
 *2024-06-01 15:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/185043) · `ta`
 
-அமெரிக்காவின் முன்னாள் முதல் பெண்மணி மிச்செல் ஒபாமாவின் தாயார் மரியன் ரொபின்சன் 86 வயதில் காலமானார்.
+Marian Robinson, mother of former First Lady Michelle Obama, has passed away at 86. Known for her dedication to her family, she leaves behind a legacy of love and strength. Barack Obama remembered her as "the glue" that held their family together, emphasizing her impact on their upbringing. The family is deeply saddened by her loss but cherishes the memories and lessons she imparted.
 
-தனது தாயின்  இறப்பு செய்தி குறித்து  மிச்செல் ஒபாமா எக்ஸ் தளத்தில் வெளியிட்டுள்ள அறிக்கையில்,
+🟩
 
-"எங்கள் முழு குடும்பத்திற்கும் அவர் உறுதுணையாக இருந்தார். இன்று அவர் உயிரிழந்தது விட்டார் என்பதை பகிர்ந்து கொள்வதில் நாங்கள் மனம் உடைந்துள்ளோம்" என தெரிவித்துள்ளார்.
+Marian Robinson, the mother of Michelle Obama, the first woman in the United States, passed away at the age of 86.
 
-பாராக் ஒபாமா மனைவியின் தாயாரின் உயிரிழப்பு குறித்து, ஒரு மரியன் ரொபின்சன் மட்டுமே இருந்தார்  இருப்பார் என குறிப்பிட்டுள்ளார்.
+Michelle Obama's report on her mother's death news
 
-"அவளுடைய அற்புதமான வாழ்க்கை என்ற பரிசால் நாங்கள் உயர்த்தப்பட்டுள்ளோம், ". "நாங்கள் எங்கள் வாழ்நாள் முழுவதையும் அவளுடைய முன்மாதிரியாக வாழ முயற்சிப்போம்.
+“He was committed to our entire family. We are heartbroken in sharing that he has died today. ”
 
-அமெரிக்காவில் சிக்காகோவில் ஏழு பிள்ளை கொண்ட குடும்பத்தில் இவரும்  ஒருவராக 1937 ஆம்அண்டு பிறந்துள்ளார்.
+Barack Obama mentioned that there was only one Marian Robinson on the death of his wife's mother.
 
-செயலாளராக பணிபுரிவதற்கு முன்பு ஆசிரியராக பணிபுரிந்துள்ளார். அவர் சிகாகோவின் தெற்குப் பகுதியில் தனது கணவர் ப்ரேசியர் ரொபின்சனுடன் மிச்செல் மற்றும் அவரது மற்றைய பிள்ளை கிரேக் ஆகியோருடன் வாழ்ந்துள்ளார்.
+"We have been raised by the gift of her wonderful life,". “We will try to live the rest of our life as her role model.
+
+He was one of the seven -year -old family in Chicago, USA.
+
+Worked as a teacher before working as secretary. She lives with her husband Brassier Robinson in the south of Chicago with Michelle and her other child Craig.
 
 ◼️
 
 [Data](articles/ca2df885.json)
+
+[Extended Data](ext_articles/ca2df885.ext.json)
 
 ---
 
@@ -2265,23 +2317,5 @@ Through an incubator, which is provided under the assistance of the Chinese Gove
 [Data](articles/f66d970c.json)
 
 [Extended Data](ext_articles/f66d970c.ext.json)
-
----
-
-### Celebration of International Tea Day in Istanbul
-
-*2024-06-01 00:58:17* · [`dailyftlk`](https://www.ft.lk/business/Celebration-of-International-Tea-Day-in-Istanbul/34-762473) · `en`
-
-Beta Tea, claimed to be the 12th largest tea company in the world, in collaboration with the Embassy of Sri Lanka in Ankara, hosted the “Beta International Tea and Culture Festival from 21-24 May at Beta Yeni Han in Istanbul, Türkiye. This was the first time that Beta Tea organised such a cultural festival in Türkiye.
-
-The event was organised to celebrate the inclusion of Turkiye’s tea culture to the list of UNESCO intangible cultural heritages in 2022 and to mark the 100th anniversary of the commencement of tea cultivation in Türkiye.
-
-Honorary Consul for Sri Lanka in the Mediterranean Region, Adana, Beşir Uğur founded the Beta Tea in 1987 with bulk tea importation from Sri Lanka and packaging, and reselling in Türkiye as well as abroad.
-
-...
-
-[Data](articles/55f4c9cf.json)
-
-[Extended Data](ext_articles/55f4c9cf.ext.json)
 
 ---

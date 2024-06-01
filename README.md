@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-01 06:22:55**
+As of **2024-06-01 07:00:26**
 
 ## Newspaper Stats
 
-*Scraped **27,654** Articles*
+*Scraped **27,656** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,40 @@ economynextcom | 1,583
 dailyftlk | 1,635
 adalk | 2,360
 adaderanalk | 3,143
-tamilmirrorlk | 3,236
+tamilmirrorlk | 3,237
 virakesarilk | 4,272
-dailymirrorlk | 4,377
+dailymirrorlk | 4,378
 adaderanasinhalalk | 4,409
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,654 (100.0%) of 27,654 articles have been extended.
+27,654 (100.0%) of 27,656 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-01 (Saturday)
+
+### Handover Sirikotha to SJB: SJB tells Ranil
+
+*2024-06-01 06:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Handover-Sirikotha-to-SJB-SJB-tells-Ranil/108-283828) · `en`
+
+Samagi Jana Balawegaya (SJB) yesterday demanded President Ranil Wickremesinghe to hand over the UNP headquarters Sirikotha to the SJB.
+
+Addressing the media, the party’s election manager Sujeewa Senasinghe said that SJB has a right to claim Sirikotha.
+
+“We have a right to claim Sirikotha as we are former UNPers,” he said.
+
+Expressing concerns about UNP’s current plight, Senasinghe also said “We hope that UNP leader will work according to his conscience and handover the Sirikotha to us. He should do so, for the sake of the remaining UNPers. Some of his sins would be forgiven if he hands over Sirikotha to us,” he said.
+
+“We were compelled to form SJB as we were not able to remove Wickremesinghe from the UNP leadership,” he added.
+
+...
+
+[Data](articles/efaba211.json)
+
+---
 
 ### Yall. 56 students from Hindu College 3A Siddhi
 
@@ -217,6 +237,22 @@ Civil organizations engaged in a protest in front of the Colombo Thevadakaha Sch
 [Data](articles/1705bf62.json)
 
 [Extended Data](ext_articles/1705bf62.ext.json)
+
+---
+
+### விக்டோரியா நீர்த்தேக்கத்தில் இரு சடலங்கள் மீட்பு
+
+*2024-06-01 01:45:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விக்டோரியா-நீர்த்தேக்கத்தில்-இரு-சடலங்கள்-மீட்பு/175-338221) · `ta`
+
+கிடைத்த தகவலுக்கமைய திகன, அம்பகோட்டே பகுதியில் இருந்து இரு சடலங்களும் கண்டெடுக்கப்பட்டுள்ளன. அவை அடையாளம் காண முடியாத அளவிற்கு அழுகிப் போயுள்ளன என பொலிஸார் தெரிவித்துள்ளனர்.
+
+தெல்தெனிய பதில் நீதவான் சம்பவ இடத்திற்கு சென்று சடலங்களை பார்வையிட்டுள்ளார். பிரேத பரிசோதனைகளுக்காக சடலங்கள் கண்டி தேசிய வைத்தியசாலைக்கு கொண்டு செல்லப்பட்டுள்ளன.
+
+இந்த சம்பவம் தொடர்பில், தெல்தெனிய பொலிஸார் மேலதிக விசாரணைகளை முன்னெடுத்து வருகின்றனர். (a)
+
+◼️
+
+[Data](articles/971643f2.json)
 
 ---
 
@@ -862,11 +898,11 @@ Police Media Spokesman DIG Nihal Thalduwa said the arrested suspect has been ide
 
 *2024-05-31 22:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/CID-arrests-suspected-ISIS-terrorist-coordinator/108-283832) · `en`
 
-Colombo, May 31 (Daily Mirror) - The Criminal Investigation Department arrested a wanted suspect, Gerard Pushparaja Osman Gerard, suspected to be a close relative of the person who co-ordinated the sending of the four alleged ISIS terrorists from Sri Lanka to India and who were arrested in India.
+Colombo, May 31 (Daily Mirror) - The Criminal Investigation Department arrested a wanted suspect, Gerard Pushparaja Osman Gerard, suspected to be the person who co-ordinated the sending of the four alleged ISIS terrorists from Sri Lanka to India and who were arrested in India.
 
 Earlier, the CID announced a reward of Rs. 2 million for information leading to the arrest of the suspect.
 
-The suspect was arrested in a join ooperaion conducted by the police in Colombo.
+The suspect was arrested in a joint operaion conducted by the police in Colombo.
 
 Sri Lankan security forces suspect that the 46-year-old suspect acted as a handler of the four Sri Lankan nationals who were arrested at Ahmedabad airport in India last week for suspected links with the banned Islamic State (ISIS) outfit.
 
@@ -2159,53 +2195,5 @@ Mrs. Vice Competition of the International Monetary Fund (IMF) was speaking at a
 [Data](articles/e8b1664d.json)
 
 [Extended Data](ext_articles/e8b1664d.ext.json)
-
----
-
-### Keerthi Suresh clashes with Allu Arjun
-
-*2024-05-31 16:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/184973) · `ta`
-
-Keerthi Suresh and Allu Arjun, both National Award winners, have their films releasing on August 15. Keerthi's 'Raghu Grandpa' and Allu's 'Pushpa 2-The Rule' mark their return to the big screen, with both actors receiving recognition for their performances.
-
-🟩
-
-Actress Keerthi Suresh, who won the National Award for Best Award, has been officially announced on the release date of the film 'Raghu Grandpa' which plays the lead role.
-
-Keerthi Suresh, M.. S.. Bhaskar, Ravindra Vijay, Devadarshini, Jayakumar, Anand Sami, Rajesh Balachandran, Ismat Banu, Adira Pandi Lakshmi, Mukesh and many others.
-
-Shawn Roldan has composed the film, which is being recorded by Yamini and Sivakumar.. The film was produced by famous producer Vijay Grakandur on behalf of Hombale Films.
-
-The film's release date has been officially announced.
-
-The film will be released on August 15 in the film mansions worldwide. For this purpose, the film crew has published a special photo and enthusiastically announced.
-
-Meanwhile, on August 15, the film 'Pushpa 2-The Rule' will be released, starring Telugu star actor Allu Arjun worldwide.
-
-...
-
-[Data](articles/69313c21.json)
-
-[Extended Data](ext_articles/69313c21.ext.json)
-
----
-
-### The boash issues
-
-*2024-05-31 16:31:54* · [`adalk`](https://www.ada.lk/breaking_news/උපෙළ-ප්‍රති‍ඵල-නිකුත්-කරයි/11-409944) · `si`
-
-The GCE Advanced Level 2023 (2024) exam results are out, accessible via https://www.doees.lk/examresults.
-
-🟩
-
-The results of the examination of the GCE Advanced Level 2023 (2024) have been released by the Department of Examinations.
-
-The links available to https://www.doees.lk/examresults have the opportunity to get these results.
-
-◼️
-
-[Data](articles/22792aa0.json)
-
-[Extended Data](ext_articles/22792aa0.ext.json)
 
 ---

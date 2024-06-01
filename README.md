@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-01 15:34:02**
+As of **2024-06-01 15:52:54**
 
 ## Newspaper Stats
 
-*Scraped **27,716** Articles*
+*Scraped **27,719** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,81 @@ islandlk | 1,495
 economynextcom | 1,584
 dailyftlk | 1,635
 adalk | 2,363
-adaderanalk | 3,149
+adaderanalk | 3,150
 tamilmirrorlk | 3,246
 virakesarilk | 4,277
-dailymirrorlk | 4,389
-adaderanasinhalalk | 4,425
+dailymirrorlk | 4,390
+adaderanasinhalalk | 4,426
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,715 (100.0%) of 27,716 articles have been extended.
+27,716 (100.0%) of 27,719 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-01 (Saturday)
+
+### ඇෆ්ගනිස්තානයේ බෝට්ටු අනතුරකින් 20ක් අතුරුදන්
+
+*2024-06-01 15:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197248) · `si`
+
+නැගෙනහිර ඇෆ්ගනිස්තානයේදී සිදුවූ බෝට්ටු අනතුරකින් පුද්ගලයින් 20 දෙනෙකු දියේ ගිලී අතුරුදන්වී ඇතැයි විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+එරට ගංගාවක් හරහා ගමන් කරමින් තිබු බෝට්ටුවක් මෙලෙස අනතුරට පත්වී ඇති බව වාර්තා වෙයි.
+
+ඔවුන් සොයා එරට මුදාගැනීමේ අංශ විශේෂ මෙහෙයුමක් ආරම්භ කර තිබේ.
+
+◼️
+
+[Data](articles/0681ec7f.json)
+
+---
+
+### Public support sought to apprehend suspect at large
+
+*2024-06-01 15:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Public-support-sought-to-apprehend-suspect-at-large/108-283882) · `en`
+
+June 01 - Police have sought the assistance of the public to apprehend a suspect who escaped from police custody after being arrested over the alleged rape of a nine-year-old girl in Talaimannar on February 15.
+
+The suspect had escaped from police custody after he was transferred to the General Hospital Vavuniya.
+
+The suspect is Kandaiah Vijayan alias Abdul Rahman, a resident of Kuchchaveli, Trincomalee
+
+Police Superintendent Talaimannar - 0718591364, Talaimannar Police OIC - 0718591370.
+
+The suspect was arrested after the girl's grandmother lodged a complaint with the Talaimannar Police, reporting that her granddaughter had gone missing from their village.
+
+Subsequently, police found the body of the missing girl approximately 300 metres away from her home.
+
+When the body was found, the girl was wearing a dress and her lower body was naked. Police suspect that the girl has been raped.
+
+◼️
+
+[Data](articles/97759096.json)
+
+---
+
+### How police arrested wanted ‘handler’ of 4 ISIS terrorists nabbed in India
+
+*2024-06-01 15:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/99578/how-police-arrested-wanted-handler-of-4-isis-terrorists-nabbed-in-india) · `en`
+
+Sri Lanka Police on Friday arrested the alleged ‘handler’ of four Sri Lankan suspected ISIS terrorists, who were taken into custody in Gujarat’s Ahmedabad Airport.
+
+The 46-year-old suspect, Osman Pushparaja Gerard, was arrested following a joint operation by the Criminal Investigation Department (CID) and the Terrorist Investigation Division (TID) in Colombo.
+
+After the arrests of four suspects by the Gujarat Anti-Terrorist Squad (ATS) for having links with terrorist outfit ISIS, Sri Lanka launched a high-level investigation with the participation of two main intelligence branches of the police, the CID and the Terrorist Investigation Division (TID) and other military intelligence services.
+
+In the hunt for Osman or the coordinator of four ISIS suspects, earlier Sri Lanka Police offered a cash reward of Rs. 02 million to any informant.
+
+However, he was subsequently arrested last night (May 31) based on information received that the suspect was in hiding in Colombo.
+
+...
+
+[Data](articles/9e40b271.json)
+
+---
 
 ### Police arrest wanted ‘handler’ of 4 ISIS terrorists nabbed in India
 
@@ -49,6 +109,8 @@ However, he was subsequently arrested last night (May 31) based on information r
 ...
 
 [Data](articles/d5c4b06e.json)
+
+[Extended Data](ext_articles/d5c4b06e.ext.json)
 
 ---
 
@@ -2163,61 +2225,5 @@ The Internet series, which is combined with stomach shaking comedy + action turn
 [Data](articles/df93c611.json)
 
 [Extended Data](ext_articles/df93c611.ext.json)
-
----
-
-### Police arrest most wanted suspect who assisted ISIS-linked Sri Lankans arrested in India
-
-*2024-05-31 22:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/99572/police-arrest-most-wanted-suspect-who-assisted-isis-linked-sri-lankans-arrested-in-india) · `en`
-
-A most wanted suspect believed to have maintained close links with and assisted the 04 Sri Lankans arrested in India over suspected links with ISIS has been arrested in Colombo in a joint operation by the Criminal Investigations Department (CID) and the Terrorism Investigation Division (TID) of Sri Lanka Police.
-
-Police Media Spokesman DIG Nihal Thalduwa said the arrested suspect has been identified as Osman Pushparaj.
-
-◼️
-
-[Data](articles/55daf9d7.json)
-
-[Extended Data](ext_articles/55daf9d7.ext.json)
-
----
-
-### CID arrests suspected ISIS terrorist coordinator
-
-*2024-05-31 22:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/CID-arrests-suspected-ISIS-terrorist-coordinator/108-283832) · `en`
-
-Colombo, May 31 (Daily Mirror) - The Criminal Investigation Department arrested a wanted suspect, Gerard Pushparaja Osman Gerard, suspected to be the person who co-ordinated the sending of the four alleged ISIS terrorists from Sri Lanka to India and who were arrested in India.
-
-Earlier, the CID announced a reward of Rs. 2 million for information leading to the arrest of the suspect.
-
-The suspect was arrested in a joint operaion conducted by the police in Colombo.
-
-Sri Lankan security forces suspect that the 46-year-old suspect acted as a handler of the four Sri Lankan nationals who were arrested at Ahmedabad airport in India last week for suspected links with the banned Islamic State (ISIS) outfit.
-
-...
-
-[Data](articles/8c03c52b.json)
-
-[Extended Data](ext_articles/8c03c52b.ext.json)
-
----
-
-### ISIS arrested with a desi
-
-*2024-05-31 22:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197227) · `si`
-
-Osman Pushraj, linked to the arrest of four Sri Lankans in India, was detained in Colombo by the Trophy Investigation Department under the guidance of Police Media Spokesperson DIG Nihal Thali.
-
-🟩
-
-Osman Pushraj has been arrested in connection with the four Sri Lankans who were arrested in India, who was arrested in India.
-
-Police Media Spokesperson DIG, Attorney Nihal Thali, said that the Trophy Investigation Department was arrested in Colombo.
-
-◼️
-
-[Data](articles/d8938f7b.json)
-
-[Extended Data](ext_articles/d8938f7b.ext.json)
 
 ---

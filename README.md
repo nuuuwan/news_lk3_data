@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-01 09:18:38**
+As of **2024-06-01 09:34:17**
 
 ## Newspaper Stats
 
-*Scraped **27,673** Articles*
+*Scraped **27,678** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,72 +17,144 @@ economynextcom | 1,583
 dailyftlk | 1,635
 adalk | 2,360
 adaderanalk | 3,143
-tamilmirrorlk | 3,244
+tamilmirrorlk | 3,245
 virakesarilk | 4,272
-dailymirrorlk | 4,378
-adaderanasinhalalk | 4,412
+dailymirrorlk | 4,381
+adaderanasinhalalk | 4,413
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,669 (100.0%) of 27,673 articles have been extended.
+27,673 (100.0%) of 27,678 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-01 (Saturday)
 
-### உள்நாட்டு துப்பாக்கியுடன் ஒருவர் கைது
+### ජීවිත බිලිගත් මාරක අනතුරු
+
+*2024-06-01 09:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197232) · `si`
+
+හොරණ සහ තෙලිකඩ දොඩංගොඩ ප්‍රදේශවල ඊයේ (31) දියේ සිදු වූ රිය අනතුරු දෙකකින් කාන්තාවක් සහ පිරිමි පුද්ගලයෙකු මියගොස් තිබේ.
+
+මෙලෙස මියගොස් ඇත්තේ 76 හැවිරිදි මානාන බුලත්සිංහල ප්‍රදේශයේ පදිංචි ව සිටි කාන්තාවක් සහ හැගොඩ බූස්ස ප්‍රදේශයේ පදිංචිව සිටි 38 හැවිරිදි පුද්ගලයෙකි.
+
+හොරණ බුලත්සිංහල මාර්ගයේ බැල්ලපිටිය හන්දිය අසලදී හොරණ දෙස සිට මතුගම දෙසට ධාවයනය වූ පුද්ගලික බස්රථයක් මාර්ගයේ මගීන් බස්සවා නැවත ඉදිරියට ධාවනය කිරීමේ දී එම බස් රථයෙන්ම බැස්ස මෙම වායෝවෘධ කාන්තාව බස් රථයට ඉදිරියෙන් මාර්ගය හරහා මාරුවීමට යාමේ දී මෙම අනතුර සිදුව ඇත.
+
+අනෙක් අනතුර සිදුව ඇත්තේ දොඩංගොඩ වැක්වැල්ල මාර්ගයේ තෙලිකඩ ප්‍රදේශයේ දී වක්වැල්ල දෙස සිට දොඩංගොඩ දෙසට ධාවනය වූ යුද හමුදාවට අයත් ට්‍රක් රථයක් ඉදිරියෙන් පැමිණි යතුරු පැදියක ගැටීමෙනි.
+
+අනතුරෙන් මෙම පුද්ගලයා බරපතළ තුවාල ලබා කරාපිටිය රෝහලට ඇතුළත් කිරීමේන් පසු මියගොස් ඇති බව පොලීසිය පවසයි.
+
+◼️
+
+[Data](articles/c094428c.json)
+
+---
+
+### ISIS உடன் நெருங்கிய தொடர்பிலிருந்தவர் கைது
+
+*2024-06-01 09:08:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ISIS-உடன்-நெருங்கிய-தொடர்பிலிருந்தவர்-கைது/175-338231) · `ta`
+
+ஐ.எஸ்.ஐ.எஸ் அமைப்புடன் உடன் தொடர்பு கொண்டிருந்த சந்தேகத்தின் பேரில்  இந்தியாவில் கைது செய்யப்பட்ட 4 இலங்கையர்களுடன் நெருங்கிய தொடர்புகளை பேணி உதவியதாக நம்பப்படும்  முக்கிய சந்தேக நபரான ஒஸ்மான் புஷ்பராஜ் கைது செய்யப்பட்டுள்ளார்.
+
+சிஐடி மற்றும் டிஐடியின் கூட்டு நடவடிக்கையில் கொழும்பில் வைத்து அவர் கைது செய்யப்பட்டுள்ளதாக பொலிஸ் ஊடகப் பேச்சாளர்  பிரதி பொலிஸ் மா அதிபர் நிஹால் தல்துவ தெரிவித்தார். R
+
+◼️
+
+[Data](articles/dd4111b1.json)
+
+---
+
+### Shanaka takes 4 as Sri Lanka ease past Ireland
+
+*2024-06-01 09:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Shanaka-takes-4-as-Sri-Lanka-ease-past-Ireland/108-283873) · `en`
+
+Former captain Dasun Shanaka bagged a four-wicket haul as Sri Lanka avoided a scare to win comprehensively against Ireland in their T20 World Cup warm-up match played at Lauderhill, Florida, yesterday.
+
+After being invited to bat first, Sri Lanka made a steady start but lost two wickets in the fourth over as Josh Little claimed a quickfire double breakthrough, with Kusal Mendis followed back to the pavilion by namesake Kamindu.
+
+Captain Wanindu Hasaranga (26) and Shanaka (23) made starts, but Ireland’s attack remained disciplined, and Sri Lanka were wobbling on 125 for seven when the latter fell to Barry McCarthy (2/31).
+
+Angelo Mathews called on all his experience with an unbeaten 32 to steer his side to a competitive total of 163/8 in their 20 overs. Barry McCarthy (2/31) and Josh Little (2/45) claimed two wickets each.
+
+...
+
+[Data](articles/11d2a4d1.json)
+
+---
+
+### Arrest by someone with domestic rifle
 
 *2024-06-01 09:04:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/உள்நாட்டு-துப்பாக்கியுடன்-ஒருவர்-கைது/76-338230) · `ta`
 
-அம்பேவல பகுதியில் உள்ள வீடொன்றில் இருந்து உள்ளூரில் தயாரிக்கப்பட்ட துப்பாக்கியுடன் நபரொருவரை நேற்று  (31) கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர் .
+A 33-year-old man was arrested in Nuwara Eliya's Ambewala for possessing a domestically made gun found during a police raid. He will be presented at the Nuwara Eliya District Magistrate's Court for further proceedings.
 
-நுவரெலியா அம்பேவல 7 ஆம் கட்டை பகுதியைச் சேர்ந்த 33 வயதுடைய ஒருவரே இவ்வாறு கைது செய்யப்பட்டுள்ளார்.
+🟩
 
-குறித்த நபரின் வீட்டில் துப்பாக்கி இருப்பதாக நுவரெலியா பொலிஸாருக்கு கிடைக்கப்பெற்ற இரகசிய தகவலுக்கு அமைய பொலிஸார் குறித்த வீட்டை சுற்றி வளைத்து சோதனை நடவடிக்கையினை மேற்கொண்டு  வீட்டில் மறைத்து வைக்கப்பட்டிருந்த துப்பாக்கியை பொலிஸார் கண்டுபிடித்து மீட்டுள்ளனர்.
+A man has been arrested yesterday (31) with a locally manufactured gun from a house in Ambewela area, police said.
 
-மேலும் கைது செய்யப்பட்ட சந்தேகநபரை மேலதிக விசாரணையின் பின்னர்  நுவரெலியா மாவட்ட  நீதவான் நீதிமன்றில் ஆஜர் படுத்துவதற்கான நடவடிக்கைகளை மேற்கொண்டு வருவதாக நுவரெலியா பொலிஸார் தெரிவித்துள்ளனர். R
+A 33 -year -old man from Nuwara Eliya Ambewala has been arrested.
+
+According to confidential information available to the Nuwara Eliya police, the police have recovered a gun that had been hidden in the house after a raid on the house.
+
+The Nuwara Eliya police said that the suspect is being produced at the Nuwara Eliya District Magistrate's Court after further inquiries.. Remble
 
 ◼️
 
 [Data](articles/3c61eef3.json)
 
+[Extended Data](ext_articles/3c61eef3.ext.json)
+
 ---
 
-### தமிழரசு கட்சி விவகாரம் வழக்கு ஒத்திவைப்பு
+### TNA issue adjournment
 
 *2024-06-01 08:55:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/தமிழரசு-கட்சி-விவகாரம்-வழக்கு-ஒத்திவைப்பு/75-338228) · `ta`
 
-இலங்கைத் தமிழரசுக் கட்சியின் புதிய நிர்வாகிகள் தெரிவிற்கு எதிராக,திருகோணமலை மாவட்ட நீதிமன்றம் ஏற்கனவே விதித்திருந்த கட்டாணை உத்தரவு, மீண்டும் ஜூலை19 ந் திகதி வரை நீடிக்கப்பட்டுள்ளது.
+The Trincomalee District Court has issued a directive regarding the election of new executives for the Sri Lanka Tamil National Party (TNA). A case filed on May 31st ended with a compromise agreement between the opposing parties and the prosecutor, resolving the dispute.
 
-வழக்கு மே 31ஆம் திகதி மீண்டும் மன்றில் எடுத்துக்கொள்ளப்பட்ட வழக்கில்,எதிராளிகள் மற்றும் வழக்காளி ஆகியோருக்கிடையில் வழக்கை,சமரசமாக இருதரப்பு உடன்பாட்டுடன் முடிவுக்கு கொண்டுவர இணக்கம் காணப்பட்ட போதும்,அனைத்து எதிராளிகள் மற்றும் வழக்காளியின் உடன்பாட்டிற்கான,எழுத்து பூர்வ சமர்ப்பணங்களை மன்றிற்கு முன் வைப்பதற்கு கால அவகாசம் இரு தரப்பாலும் கோரப்பட்டது.
+🟩
+
+The Trincomalee District Court has already issued a directive issued by the Trincomalee District Court against the election of new executives of the Sri Lanka Tamil National Party (TNA).
+
+In the case of the case on May 31, the case was filed between the opponents and the prosecutor, which was agreed to end the case with a compromised bilateral agreement, but for all the opponents and the prosecutor's agreement.
 
 ◼️
 
 [Data](articles/43471594.json)
 
+[Extended Data](ext_articles/43471594.ext.json)
+
 ---
 
-### A/L பெறுபேறுகள் இடைநிறுத்தியமை இனப் பாகுபாட்டின் வெளிப்பாடு
+### A/L Gallery Published
 
 *2024-06-01 08:54:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/A-L-பெறுபேறுகள்-இடைநிறுத்தியமை-இனப்-பாகுபாட்டின்-வெளிப்பாடு/75-338227) · `ta`
 
-திருகோணமலை - சாஹிரா கல்லூரி மாணவிகளின் பெறுபேறுகள் இடைநிறுத்தம் இனப் பாகுபாட்டின் வெளிப்பாடு என ஐக்கிய மக்கள் சக்தியின் திருகோணமலை மாவட்ட பாராளுமன்ற உறுப்பினர் இம்ரான் மகரூப் தெரிவித்துள்ளார்.
+Imran Makarub, a United People's Power Trincomalee District Parliamentarian, accuses the suspension of Trincomalee-Zahira College student results as ethnic discrimination. He argues the suspension, due to alleged exam misconduct, is suspicious and linked to intolerance towards Zahira College's growth. Makarub calls for Muslim political leaders to address this "social issue" as part of broader anti-Muslim activities in the Eastern Province.
 
-“பரீட்சை மண்டபத்தில் தமது காதுகளை மூடி பரீட்சை எழுதினார்கள் என்ற குற்றச் சாட்டின் பேரிலேயே இந்த இடைநிறுத்தம் இடம்பெற்றுள்ளது.
+🟩
 
-காதுகளை மூடி பரீட்சை எழுதியமை பரீட்சை மண்டபத்தில் கவனித்திருக்க வேண்டிய விடயம். அது ஏனைய பரீட்சார்த்திகளை பாதிக்கின்ற விடயமும் அல்ல.
+United People's Power Trincomalee District Parliamentarian Imran Makarub says the suspension of the results of the Trincomalee - Zahira College students is an expression of ethnic discrimination.
 
-இந்த விடயங்களை சகல தரப்பினருக்கும் தெளிவு படுத்திய பின்னரும் பெறுபேறு இடைநிறுத்தப்பட்டுள்ளமை பாரிய சந்தேகத்தை ஏற்படுத்துகின்றது.
+“The suspension was based on the accusation that they closed their ears in the exam hall.
 
-சாஹிரா கல்லூரியின் வளர்ச்சியை சகிக்க முடியாதவர்களின் இனப் பாகுபாட்டின் வெளிப்பாடு இதுவென்பது மிகத் தெளிவாகத் தெரிகின்றது.
+Writing the examination of the examination should be noticed in the exam hall. It is not a matter of affecting other examiners.
 
-பரீட்சை மண்டபத்தில் தீர்க்கப் பட்டிருக்க வேண்டிய இந்த விடயத்தை பெறுபேற்றை இடைநிறுத்தும் அளவுக்கு கொண்டு சென்ற பரீட்சை மேற்பார்வையாளரின் மனநிலையை இதன் மூலம் புரிந்து கொள்ள முடிகின்றது.
+It is immensely suspicious that the results have been suspended even after all sides have made it clear to all sides.
+
+It is very clear that this is the manifestation of the ethnic discrimination of those who cannot tolerate the development of Zahira College.
+
+This can be understood by the mood of the exam supervisor who brought this issue to be resolved in the exam hall.
+
+It is not healthy that we speak the same language. Those who are concerned about the sad state of today's sad state of children and children must understand.
 
 ...
 
 [Data](articles/208bc614.json)
+
+[Extended Data](ext_articles/208bc614.ext.json)
 
 ---
 
@@ -112,6 +184,22 @@ It is said that the attack is said to be born in Afghanistan and a 25-year-old y
 
 ---
 
+### Industry stakeholders up in arms against moves to scrap ‘Happy Hour’
+
+*2024-06-01 08:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Industry-stakeholders-up-in-arms-against-moves-to-scrap-Happy-Hour/155-283829) · `en`
+
+Industry stakeholders including hoteliers, tourism authorities and even law enforcement agencies have shown their utter dismay over an abrupt decision taken by the National Authority on Alcohol and Tobacco (NATA) to scrap the ‘Happy Hour’ in hotels, which was termed as an ‘absurd’ move to discourage already ailing tourism sector and consumers.
+
+A letter circulating on social media addressed to the Chairman of a leading five-star hotel in Colombo by the NATA states that the latter is issuing a directive to all hotels to refrain from granting any discounts on the purchase of alcohol products during their ‘Happy Hour’.
+
+The letter dated on May 28th and undersigned by the Chairman NATA Dr. Alan Ludowyke had directed the hoteliers to comply with the NATA Act No.27 of 2006 (as amended). The letter has been copied to Commissioner General of Excise M. J. Gunasiri and a senior Excise official who is the Board Director to NATA from the Excise Department.
+
+...
+
+[Data](articles/2942534d.json)
+
+---
+
 ### State Minister should be resolved in a middle path - State Minister Suren
 
 *2024-06-01 07:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197230) · `si`
@@ -131,6 +219,26 @@ He stated that the government is looking to provide the best solution in this re
 [Data](articles/9dd30f4a.json)
 
 [Extended Data](ext_articles/9dd30f4a.ext.json)
+
+---
+
+### England all-rounder Woakes taking time out from cricket after father’s death
+
+*2024-06-01 07:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/England-all-rounder-Woakes-taking-time-out-from-cricket-after-fathers-death/108-283872) · `en`
+
+London - England all-rounder Chris Woakes revealed Friday he was mourning the death of his father as he explained his recent absence from cricket.
+
+The 35-year-old did not feature for the Punjab Kings in the Indian Premier League and, at the end of April was left out of reigning champions England's squad for the upcoming T20 World Cup.
+
+Warwickshire favourite Woakes, in a social media post, wrote: "The last month has been the most challenging of my life when unfortunately my dad passed away at the beginning of May.
+
+"I've spent the last few weeks with the people most important to me, my family. We're all obviously grieving and trying to get through what is undoubtedly the hardest moment in our lives. It's times like this that perspective is at its greatest."
+
+Woakes, who helped England win the 2019 50-over World Cup, added: "I will be back playing cricket for Warwickshire, who my dad loved dearly, when the time is right for me and my family.
+
+...
+
+[Data](articles/7e886251.json)
 
 ---
 
@@ -324,25 +432,31 @@ It is noteworthy that Nadesan was shot dead in Batticaloa on May 31, 2004.
 
 ---
 
-### இளம் பிரதிநிதிகளுடன் ஜனாதிபதி சந்திப்பு
+### President Meeting with Young Representatives
 
 *2024-06-01 02:15:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இளம்-பிரதிநிதிகளுடன்-ஜனாதிபதி-சந்திப்பு/175-338226) · `ta`
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்க மற்றும் இளம் பிரதிநிதிகளுக்கு இடையிலான சந்திப்பொன்று நேற்று முன்தினம் ஜனாதிபதியின் உத்தியோகபூர்வ வாசஸ்தலத்தில் நடைபெற்றது.
+President Ranil Wickremesinghe met with young leaders in Sri Lanka, discussing economic reforms and emphasizing youth's crucial role in the nation's future. He praised their efforts and urged officials to listen to their ideas for national development.
 
-ஜனாதிபதி செயலகத்தின் ஏற்பாட்டில் முன்னெடுக்கப்பட்டு வரும் இளையோரின் பங்கேற்புடனான நிகழ்வுகளின் ஒரு அங்கமாக 'இளையோர் கலந்துரையாடல் – நாளை இலங்கையின் இளம் தலைவர்கள்' என்ற தொனிப்பொருளின் கீழ் இந்த நிகழ்வு ஏற்பாடு செய்யப்பட்டிருந்தது.
+🟩
 
-அரசாங்கத்தினால் முன்னெடுக்கப்பட்டு வரும் புதிய பொருளாதார மறுசீரமைப்பு மற்றும் சீர்த்திருத்த முயற்சிகள் தொடர்பில் இங்கு கலந்துரையாடப்பட்டது.
+A meeting between President Ranil Wickremesinghe and the young representatives was held yesterday at the President's official residence.
 
-இலங்கையின் வெற்றிகரமான எதிர்கால பயணத்திற்கு இளையோரின் பங்களிப்பு மிக முக்கியமானது என்றும் ஜனாதிபதி ரணில் விக்கிரமசிங்க இதன்போது வலியுறுத்தினார்.
+The event was organized under the theme 'Youth Discussion - Young Leaders of Sri Lanka tomorrow' as part of the events of the youths being organized by the Presidential Secretariat.
 
-இளையோர் எழுப்பிய கேள்விகளுக்கு பதில்களை வழங்கிய ஜனாதிபதி, எதிர்கால இலங்கையைக் கட்டியெழுப்புவதற்கான இளைஞர்களின் முயற்சிக்கும் பாராட்டு தெரிவித்தார்.
+Here was a discussion on the new economic restructuring and reform efforts being carried out by the government.
 
-இதன்போது நாட்டின் எதிர்காலத்திற்கான முயற்சிகளுக்கான இளையோரின் யோசனைகளையும், பரிந்துரைகளையும் பெற்றுக்கொள்வதற்கான பொறிமுறை ஒன்றை செயற்படுத்துமாறு ஜனாதிபதி அதிகாரிகளுக்கு அறிவுறுத்தினார். (a)
+President Ranil Wickremesinghe emphasized that the participation of the youth is very important for Sri Lanka's successful future journey.
+
+The President, who gave answers to questions raised by the youth, congratulated the youth's efforts to build Sri Lanka.
+
+At this time, the President advised the authorities to implement a mechanism to obtain the ideas and recommendations of the younger people for the future of the country.. (A)
 
 ◼️
 
 [Data](articles/0f619338.json)
+
+[Extended Data](ext_articles/0f619338.ext.json)
 
 ---
 
@@ -2045,125 +2159,5 @@ The decision was taken in order to make pre-arrangements for the University of M
 [Data](articles/eadd8f5e.json)
 
 [Extended Data](ext_articles/eadd8f5e.ext.json)
-
----
-
-### Diaspora Tamils ​​should avoid following political agenda - Ali Sabri
-
-*2024-05-31 17:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/184976) · `ta`
-
-Ali Sabri, External Affairs Minister, advises Diaspora Tamils to steer clear from politics, highlighting Western negligence towards Gaza and urging UN action on international law. He calls for immediate resolution of Israeli-Hamas conflict based on 1965 borders, supports Palestine's recognition by 143 countries, and emphasizes the establishment of a Palestinian government within five years. Sabri addresses human rights concerns in Sri Lanka, acknowledging the pain of families affected by disappearances and advocating for improved rights and development in the country's northeast.
-
-🟩
-
-External Affairs Minister Alisabri has requested that the diaspora Tamils ​​avoid following the political event.
-
-He said that the Western countries are negligent on the Gaza crisis and that the United Nations should take serious changes to international law on how to act to protect international democracy.
-
-He said that the Israeli Hamas conflict should be immediately concluded and that the two countries should be found in accordance with the boundaries of the 1965 announcement.
-
-He said 143 countries voted to recognize Palestine and urged Palestine and Israel to emphasize the need for the Palestinian government to establish the Palestinian government within the next five years.
-
-Commenting on human rights allegations against Sri Lanka, Foreign Minister has reiterated the country's commitment to improving human rights of citizens.
-
-Accepting the agony of 6700 people who have said that their loved ones have disappeared, he has also emphasized the need to create a suitable situation in Sri Lanka.
-
-...
-
-[Data](articles/e05c54b2.json)
-
-[Extended Data](ext_articles/e05c54b2.ext.json)
-
----
-
-### 'Maharaja' Vijay Sethupathi complained that 'Lakshmi is missing'
-
-*2024-05-31 17:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/184978) · `ta`
-
-In the preview of "Maharaja," Vijay Sethupathi stars as a hairdresser whose client, Lakshmi, goes missing from his salon. This scene has garnered over a million views, showcasing Sethupathi's unique portrayal. The film also features Anurag Kashyap, Mamta Mohandas, and others, directed by Bharathiraja, with music by B. Ajaneesh Loknath. It's Vijay Sethupathi's 50th film, receiving positive feedback for his performance.
-
-🟩
-
-The preview of 'Maharaja' starring Vijay Sethupathi has been released.
-
-The hairdresser, 'Maharaja', complains to the police that Lakshmi is missing from her hair correction center.
-
-The scene is in the preview of the Maharaja film and is very impressed with the fans.. Within a short time of this preview, more than a million viewers have been visited and achieved.
-
-Vijay Sethupathi, Bolivud actor Anurag Kashyap, Mamta Mohantas, Naty alias Natraj, 'Director' Bharathiraja 'Bharathiraja, Abhirami, Muniskantha,' Monkey Doll 'Vinod Sagar has played many others. Dinesh Purushothaman has recorded the cinematography by B.. Ajanish Loknath has composed the music. The film was co -produced by producers Sudan Sundaram and Jagadish Palanisamy on behalf of Fesan Studios and The Root.
-
-...
-
-[Data](articles/c75435e8.json)
-
-[Extended Data](ext_articles/c75435e8.ext.json)
-
----
-
-### Maldives Foreign Minister to visit Sri Lanka
-
-*2024-05-31 17:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/184983) · `ta`
-
-Maldives' Foreign Minister will visit Sri Lanka from June 3rd to 6th for official talks, including meetings with President Ranil Wickremesinghe and Prime Minister Dinesh Gunawardena, as well as bilateral discussions with Ali Sabri.
-
-🟩
-
-The Ministry of External Affairs has announced that it will make an official visit to Sri Lanka from June 03 to 6.
-
-During the visit, he will meet President Ranil Wickremesinghe and Prime Minister Dinesh Gunawardena.
-
-Meanwhile, the Maldivian Foreign Minister and his delegation will hold official bilateral discussions with Ali Sabri.
-
-◼️
-
-[Data](articles/bed657c9.json)
-
-[Extended Data](ext_articles/bed657c9.ext.json)
-
----
-
-### Dialog Schools Rugby League 2024: 42 teams in the first category, 12 teams in the second category and 29 teams in the third category
-
-*2024-05-31 17:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/184991) · `ta`
-
-The Dialog Schools Rugby League 2024, sponsored by Dialog Acida PLC, features 83 school teams across three categories, marking the first participation of Sri Lankan schools in rugby history. The competition begins on June 14, with St. Susiapper College facing Kandy Vidyartha College. Each team plays seven matches in the first round over seven weeks, ending on July 18. The top two teams from each group advance to the Super Round, where the eventual winner is crowned the Rugby League Champion.
-
-🟩
-
-Sri Lanka's primary affiliate provider, Dialog Acida PLC, who is committed to promoting the talents of young athletes and creating future champions, sponsors the Dialog Schools Rugby League competition this year.
-
-83 school teams participate in three categories of Dialog Schools for 2024. This is the first time Sri Lankan schools have participated in the history of Rugby history.
-
-16 school teams, including the current league and knock -out champion, participate in two layers in the first category, including St. Peter's College. St. Peter was also a college champion in the Ezhuvar Rugby Tournament for the team that was held earlier this year.
-
-This year's Dialog Schools Rugby League will commence this year with a competition to be held on June 14 at the Hewlok Park Ground between St. Susiapper College and Kandy Vidyartha College.
-
-...
-
-[Data](articles/ed91b46e.json)
-
-[Extended Data](ext_articles/ed91b46e.ext.json)
-
----
-
-### Sri Lanka inflation 2.5-pct in 20-months to May 2024, food deflates 5.7-pct
-
-*2024-05-31 17:34:00* · [`economynextcom`](https://economynext.com/sri-lanka-inflation-2-5-pct-in-20-months-to-may-2024-food-deflates-5-7-pct-165647/) · `en`
-
-ECONOMYEXT – Sri Lanka’s inflation over the 12-months to May 2024 was 0.9 percent with the central bank only generating 2.5 percent inflation since September 2022 when its deflationary policy started to show up in the balance of payments as a surplus, official data shows.
-
-Prices measured by the widely-watched Colombo Consumer Price Index fell 0.6 percent in the month of May. The index fell from 195.2 points to 194.1.
-
-The food and non-alcoholic price index fell 1.2 percent to 232.6 points from 235.4 a month earlier.
-
-Sri Lanka’s central bank has been operating deflationary policy and also allowing the rupee to appreciate over the past year bringing down traded price in particular which some non-traded items continued to go up as the price structure adjusted to a collapse of the currency in 2022.
-
-Educations, recreation and culture, while food, clothing and also transport seems to have finished inflating in response to the currency collapse.
-
-...
-
-[Data](articles/57b8fb82.json)
-
-[Extended Data](ext_articles/57b8fb82.ext.json)
 
 ---

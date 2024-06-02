@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-02 05:36:35**
+As of **2024-06-02 06:01:27**
 
 ## Newspaper Stats
 
-*Scraped **27,767** Articles*
+*Scraped **27,772** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 249
 dbsjeyarajcom | 268
 bbccomsinhala | 273
 newsfirstlk | 363
-islandlk | 1,495
+islandlk | 1,500
 economynextcom | 1,585
 dailyftlk | 1,635
 adalk | 2,365
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,439
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,767 (100.0%) of 27,767 articles have been extended.
+27,767 (100.0%) of 27,772 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -817,6 +817,20 @@ He said that 452,979 candidates appeared for the exam this year, including 387,6
 [Data](articles/1f9dcbb6.json)
 
 [Extended Data](ext_articles/1f9dcbb6.ext.json)
+
+---
+
+### SL’s first film  commissioning company set up by young Lankan
+
+*2024-06-01 16:12:00* · [`islandlk`](http://island.lk/sls-first-film-commissioning-company-set-up-by-young-lankan/) · `en`
+
+In what could be an unexpected boost to Sri Lanka’s ailing film industry, young Harindu Gunawardena has established the first ever film commissioning body, Rogue Element Limited — a first for a Sri Lankan.Gunawardena, the company’s Executive Producer, has set his sights on intertwining original global narratives with local culture while targeting foreign film productions within Sri Lanka.
+
+With a mission to elevate local storytelling to international standards, Rogue Element is dedicated to nurturing local talent and amplifying their voices on a global stage, Harindu told the Sunday Island. By collaborating with both the Sri Lankan government and local production houses, the company aims to create a conducive environment for cinematic excellence to flourish, he said.
+
+...
+
+[Data](articles/ccef37c6.json)
 
 ---
 
@@ -2292,6 +2306,20 @@ The Department of Meteorology tells the public to take necessary steps to reduce
 
 ---
 
+### Seylan Bank to disburse ADB’s Working Capital and Long-Term Loans for SMEs
+
+*2024-06-01 06:21:00* · [`islandlk`](http://island.lk/seylan-bank-to-disburse-adbs-working-capital-and-long-term-loans-for-smes/) · `en`
+
+Seylan Bank PLC, in collaboration with the Asian Development Bank (ADB) and the Government of Sri Lanka (GoSL), will disburse Working Capital and Long-Term Loans from the ADB, aimed at bolstering the Small and Medium Enterprise (SME) sector in the country.
+
+In an effort to stimulate economic growth and support local businesses, Seylan Bank will offer financial assistance to SMEs engaged in various industries, including Agriculture, Fisheries, Ornamental Fisheries, Aquaculture, Livestock, Animal Husbandry, Poultry, Tourism, and Export-Oriented Businesses. Seylan Bank has been a consistent partner in regard to ADB funding in Sri Lanka. Through ADB’s credit lines, the Bank has disbursed loans to the SME sector and Tea Smallholders in the past.
+
+...
+
+[Data](articles/27e81bf1.json)
+
+---
+
 ### Union Bank becomes first local bank to achieve PCI DSS Version 4 certification
 
 *2024-06-01 06:18:00* · [`islandlk`](http://island.lk/union-bank-becomes-first-local-bank-to-achieve-pci-dss-version-4-certification/) · `en`
@@ -2303,37 +2331,5 @@ Union Bank has achieved a significant milestone by obtaining the Payment Card In
 [Data](articles/4c28aa36.json)
 
 [Extended Data](ext_articles/4c28aa36.ext.json)
-
----
-
-### Crocodile ranked among LMD’s Top 10 Most Loved Retail Lifestyle Brands
-
-*2024-06-01 06:18:00* · [`islandlk`](http://island.lk/crocodile-ranked-among-lmds-top-10-most-loved-retail-lifestyle-brands/) · `en`
-
-Crocodile, a leading lifestyle brand renowned for its international acclaim, has been honoured as one of the top 10 most loved brands in the Retail Lifestyle category by LMD readers. This prestigious recognition comes from LMD’s Brands Annual Ranking 2024, via a survey conducted by prominent business magazine LMD in partnership with Brand Finance Lanka, a brand valuation and ratings firm of global repute.
-
-Today, Crocodile stands as one of the most respected and well-known brands in the global fashion industry, with an extensive product line that spans the entire spectrum of men’s, women’s, and kids’ fashion. For over 70 years, Crocodile has been a leader in the fashion world. Since its inception in Sri Lanka, the brand has evolved as a forerunner in premium men’s fashion, synonymous with timeless comfort and elegance. In 2021, Crocodile expanded into the women’s fashion category and further expanded into kids’ fashion, specifically boys’ fashion, in 2024.
-
-...
-
-[Data](articles/ac2fd444.json)
-
-[Extended Data](ext_articles/ac2fd444.ext.json)
-
----
-
-### Political uncertainty continues to cast pall of gloom on bourse
-
-*2024-06-01 06:12:00* · [`islandlk`](http://island.lk/political-uncertainty-continues-to-cast-pall-of-gloom-on-bourse/) · `en`
-
-The stock market yesterday kicked off on a positive note but in the middle of the session, selling pressure was noted due to political uncertainty and delays in the external debt restructuring exercise, market analysts said.Both indices moved upwards. The All Share Price Index went up by 49.05 points while S and P SL20 rose by 10.35 points.
-
-Turnover stood at Rs 1.16 billion with four crossings. Those crossings were reported in Melstacope, which crossed 841,000 shares to the tune of Rs 74 million; its shares traded at Rs 88, NTB 500,000 shares crossed for Rs 60 million; its shares traded at Rs 120, NDB 300,000 shares crossed for Rs 23.4 million; its shares traded at Rs 78 and TJLanka 565,000 shares crossed for Rs 22 million; its shares sold at Rs 39.
-
-...
-
-[Data](articles/f116116e.json)
-
-[Extended Data](ext_articles/f116116e.ext.json)
 
 ---

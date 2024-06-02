@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-02 11:03:52**
+As of **2024-06-02 11:18:53**
 
 ## Newspaper Stats
 
-*Scraped **27,810** Articles*
+*Scraped **27,811** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,507
 economynextcom | 1,585
 dailyftlk | 1,635
 adalk | 2,368
-adaderanalk | 3,161
+adaderanalk | 3,162
 tamilmirrorlk | 3,259
 virakesarilk | 4,282
 dailymirrorlk | 4,406
@@ -26,11 +26,23 @@ adaderanasinhalalk | 4,449
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,804 (100.0%) of 27,810 articles have been extended.
+27,810 (100.0%) of 27,811 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-02 (Sunday)
+
+### Major flood situation in Millakanda and Pitabeddara
+
+*2024-06-02 11:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/99590/major-flood-situation-in-millakanda-and-pitabeddara) · `en`
+
+Major flood situations have been reported in Millakanda area of Kalu River and Pitabeddara area of Nilwala River, the Department of Irrigation said.
+
+◼️
+
+[Data](articles/a9c20d5a.json)
+
+---
 
 ### China lands on Moon’s far side in historic sample-retrieval mission
 
@@ -52,6 +64,8 @@ The lander component of the mission then separated from the orbiter to touch dow
 
 [Data](articles/21409d9d.json)
 
+[Extended Data](ext_articles/21409d9d.ext.json)
+
 ---
 
 ### Two Sri Lankans held in fake passport scam in Hyderabad
@@ -70,6 +84,8 @@ So far, police has arrested 26 persons — 16 agents, 6 policemen, an employee o
 
 [Data](articles/60f6f8f1.json)
 
+[Extended Data](ext_articles/60f6f8f1.ext.json)
+
 ---
 
 ### Three members in same family swept away in floods
@@ -85,6 +101,8 @@ The flooding occurred in an inundated canal close to their residence, triggered 
 ◼️
 
 [Data](articles/84d69032.json)
+
+[Extended Data](ext_articles/84d69032.ext.json)
 
 ---
 
@@ -138,6 +156,8 @@ It proved decisive as the 29-year-old pummelled the US to victory with 14 balls 
 
 [Data](articles/d69b07f7.json)
 
+[Extended Data](ext_articles/d69b07f7.ext.json)
+
 ---
 
 ### Superior to America
@@ -164,19 +184,25 @@ At the bowling kaleem sana, Dillon HEYLIGER and NIKHIL DUTTA took one wicket.
 
 ---
 
-### සීතාවකට මහ වැස්සක් - හතරක් මරුට - වාහන ගසාගෙන යයි
+### Seethawater is a rain - four killed - vehicles
 
 *2024-06-02 09:29:27* · [`adalk`](https://www.ada.lk/breaking_news/සීතාවකට-මහ-වැස්සක්---හතරක්-මරුට---වාහන-ගසාගෙන-යයි/11-409955) · `si`
 
-සීතාවක ප්‍රාදේශීය ලේකම් බල ප්‍රදේශයට අනපේක්ෂිත ලෙස ඇද හැලුණු වර්ෂාව නිසාවෙන් පුද්ගලයන් සිව් දෙනකු මියගොස් ග්‍රාම නිළධාරී කිහිපයක්ම ජලයෙන් යට වී ජනතාව පීඩාවට පත්ව ඇත.
+Seethawaka rains kill four, flood areas; disrupt transport.
 
-පුවක්පිටිය දකුණ ග්‍රාම නිළධාරී වසමේ එකම පවුලේ තිදෙනකු ජලයෙන් යට වී මියගොස් ඇති අතර තවත් අයකු පස් කන්දක් කඩා වැටීම නිසා එයට යටවී මියගොස් තිබේ.
+🟩
 
-ජල ගැලීම් නිසාවෙන් හයිලෙවල් මාර්ගයේ රථ වාහන ධාවනය ද කොස්ගම සිට අවිස්සාවේල්ල දක්වා නතර වී ඇති අතර පුවක්පිටිය දුම්රිය ස්ථානය අසල දී රථ වාහන ජලයේ ගසා ගෙන ගොස් ඇතැයි ද එම ප්‍රදේශයේ ජනතාව පවසති.
+Four persons have been killed and several Grama Niladhari subsidiaries have been affected by the rains of the Seethawaka Divisional Secretariat area.
+
+Three members of the Puwakpitiya South Grama Niladhari division have been subjected to water and another due to a mountain of mound.
+
+The hylide traffic train from Kosgama to Avissawella has stopped due to floods.
 
 ◼️
 
 [Data](articles/3828ede8.json)
+
+[Extended Data](ext_articles/3828ede8.ext.json)
 
 ---
 
@@ -684,6 +710,8 @@ Speaking during a Business Forum, Hadunnetti said his reference to economic hit-
 
 [Data](articles/5d14773e.json)
 
+[Extended Data](ext_articles/5d14773e.ext.json)
+
 ---
 
 ### Hadunnetti apologises to Elon Musk
@@ -1174,11 +1202,13 @@ Taiwan Athletics Open is a bronze-level tournament on the World Athletics Contin
 
 ---
 
-### 
+### ரங்க பண்டாரவின் உரத்த சிந்தனையும் ரணிலின் தேர்தல் பிரசாரமும்
 
 *2024-06-01 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84126) · `en`
 
-ஐக்கிய தேசிய கட்சியின் பொதுச்செயலாளர் பாலித ரங்க பண்டாரவின் ஓரங்க நாடகத்தினால் இலங்கை அரசியல் அரங்கு கடந்தவாரம்  சுறுசுறுப்படைந்தது. பொலிஸ்காரராக இருந்து அரசியல்வாதியாக மாறிய அவர் மே 28 கொழும்பில் செய்தியாளர்கள் மகாநாடொன்றில் உரையாற்றியபோது இவ்வருடம் நடைபெறவிருக்கும் ஜனாதிபதி தேர்தலும்  அடுத்த வருடம் நடத்தப்பட வேண்டியிருக்கும் பாராளுமன்ற தேர்தலும் ஒத்திவைக்கப்படவேண்டும் என்கிற அதேவேளை  ஜனாதிபதியினதும் பாராளுமன்றத்தினதும் பதவிக்காலங்கள் இரு வருடங்களினால் நீடிக்கப்படவேண்டும் என்று யோசனையை முன்வைத்தார். அதற்காக பாராளுமன்றத்தில் தீர்மானம் ஒன்று நிறைவேற்றப்படவேண்டும் என்றும் மக்களின் அங்கீகாரத்தைப் பெறுவதற்கு சர்வஜன வாக்கெடுப்பு ஒன்று நடத்தப்படவேண்டும் என்றும் முன்னாள் புத்தளம் மாவட்ட பாராளுமன்ற உறுப்பினரும் இராஜாங்க அமைச்சருமான அவர் கூறினார்.
+ஐக்கிய தேசிய கட்சியின் பொதுச்செயலாளர் பாலித ரங்க பண்டாரவின் ஓரங்க நாடகத்தினால் இலங்கை அரசியல் அரங்கு கடந்தவாரம்  சுறுசுறுப்படைந்தது. பொலிஸ்காரராக இருந்து அரசியல்வாதியாக மாறிய அவர் மே 28 கொழும்பில்
+
+செய்தியாளர்கள் மகாநாடொன்றில் உரையாற்றியபோது இவ்வருடம் நடைபெறவிருக்கும் ஜனாதிபதி தேர்தலும்  அடுத்த வருடம் நடத்தப்பட வேண்டியிருக்கும் பாராளுமன்ற தேர்தலும் ஒத்திவைக்கப்படவேண்டும் என்கிற அதேவேளை  ஜனாதிபதியினதும் பாராளுமன்றத்தினதும் பதவிக்காலங்கள் இரு வருடங்களினால் நீடிக்கப்படவேண்டும் என்று யோசனையை முன்வைத்தார். அதற்காக பாராளுமன்றத்தில் தீர்மானம் ஒன்று நிறைவேற்றப்படவேண்டும் என்றும் மக்களின் அங்கீகாரத்தைப் பெறுவதற்கு சர்வஜன வாக்கெடுப்பு ஒன்று நடத்தப்படவேண்டும் என்றும் முன்னாள் புத்தளம் மாவட்ட பாராளுமன்ற உறுப்பினரும் இராஜாங்க அமைச்சருமான அவர் கூறினார்.
 
 ...
 
@@ -2219,35 +2249,5 @@ Some of the civilians who stumbled upon the attack are running to save their liv
 [Data](articles/77e25672.json)
 
 [Extended Data](ext_articles/77e25672.ext.json)
-
----
-
-### Suddenly, the gang of people
-
-*2024-06-01 13:30:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/திடீரென-புகுந்து-மக்களை-சரமாரியக-வெட்டிய-கும்பல்/73-338232) · `ta`
-
-In the Alayadivembu Division, seven seriously injured individuals were rushed to the Akkaraipattu Base Hospital after a violent attack involving a group wielding swords. Homes were destroyed, and vehicles were damaged. The community, particularly in the Vachikuda region, is terrified and concerned about their safety. The attackers, armed with swords, targeted both houses and passersby, causing chaos that lasted approximately 30 minutes. Following the incident, the Akkaraipattu police arrived to investigate the situation.
-
-🟩
-
-Seven persons have been admitted to the Akkaraipattu Base Hospital with serious injuries at the Alayadivembu Divisional Secretariat Division of the Akkaraipattu Police Division.
-
-Some of the civilians were attacked and some of the house were smashed and the motorcycles that went by the street were damaged.
-
-People say that the damage was caused by the attack of a small group of swords.
-
-The people living in the Vachikuda region are in great fear and their security is in question.
-
-A small group of swords bearing a man chased asylum. As a result, a group of sword -bearing group has been attacked.
-
-At the time, the people in the house were targeted for the sword and some neighbors who entered the house were attacked.. Meanwhile, the group attacked the people on the road and the motorcycle on the road was also attacked.
-
-Some of the civilians who stumbled upon the attack are running to save their lives. Eyewitnesses say that the area was shocked by the incident, which lasted for about 30 minutes.
-
-...
-
-[Data](articles/b2ac30ba.json)
-
-[Extended Data](ext_articles/b2ac30ba.ext.json)
 
 ---

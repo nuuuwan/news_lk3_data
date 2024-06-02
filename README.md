@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-03 02:34:27**
+As of **2024-06-03 02:51:40**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,482
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,971 (100.0%) of 27,974 articles have been extended.
+27,974 (100.0%) of 27,974 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -74,19 +74,25 @@ The former MP said he had never intended to call Musk an “Economic Hitman”.
 
 ---
 
-### தனிப்பட்ட தகராறு காரணமாக இரண்டு பிள்ளைகளின் தாய் வாள்வெட்டுச் சம்பவத்தில் பலி!
+### Mother of two children killed in a sword
 
 *2024-06-03 01:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/185157) · `ta`
 
-கண்டி, மஹியாவ பகுதியைச் சேர்ந்த நாற்பத்தெட்டு வயதுடைய இரண்டு பிள்ளைகளின் தாய் ஒருவர் தனிப்பட்ட தகராறு காரணமாக வாள்வெட்டுச் சம்பவத்தில் படுகாயமடைந்த தாய், ஸ்தலத்திலே உயிரிழந்துள்ளார்.
+In Kandy, a 48-year-old mother of two was fatally stabbed in a personal dispute. Velankani Eshrani passed away on Saturday night. A 38-year-old suspect from the T Division has been detained.
 
-கண்டி மஹய்யாவ MT பிரிவில் வசித்து வந்த வேளாங்கனி எஷிராணி என்ற நபரே இவ்வாறு சனிக்கிழமை (1) இரவு  உயிரிழந்துள்ளார்.
+🟩
 
-இக்கொலை தொடர்பாக மஹியாவ எம்.  டி பிரிவில் வசிக்கும் முப்பத்தெட்டு வயதுடைய ஒருவரே இவ்வாறு கைது செய்யப்பட்டதாக கண்டி பொலிஸார் தெரிவித்தனர்.
+A mother of two children aged forty -eight in Kandy, Kandy, has died in a sword incident due to a personal dispute.
+
+Velankani Eshrani, who lived in the Kandy Mahayawa MT category, died on Saturday night.
+
+Mahiyawa M.The Kandy police said that a thirty -eight -year -old man who lives in the T Division has been arrested.
 
 ◼️
 
 [Data](articles/ae835254.json)
+
+[Extended Data](ext_articles/ae835254.ext.json)
 
 ---
 
@@ -156,25 +162,33 @@ In a pioneering move towards sustainability, BNI Sri Lanka, the leading business
 
 ---
 
-### 48ஆவது தேசிய விளையாட்டுப் போட்டிக்கான கடற்கரை கரப்பந்தாட்டம்: தென் மாகாணம், வட மேல் மாகாணம் தங்கம் வென்றன
+### Southern Province and North Western Province won gold for 48th National Games
 
 *2024-06-03 01:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/185156) · `ta`
 
-நீர்கொழும்பு ப்றவுண்ஸ் கடற்கரையில் கடந்த 3 தினங்களாக நடைபெற்ற 48ஆவது தேசிய விளையாட்டுப் போட்டியில் ஓர் அம்சமான கடற்கரை கரப்பந்தாட்டத்தில் ஆண்கள் பிரிவில் தென் மாகாணம் தங்கப் பதக்கத்தை சுவீகரித்தது.
+The Southern Province clinched gold in the men's category of the 48th National Sports Competition, defeating the North Western Province 2-1. The North Western Province secured silver, while the Sabaragamuwa province took bronze. In the women's division, the North Western Province emerged victorious against the Eastern Province, with the Southern Province securing bronze. The North Western Province's Prasadani was named the best player in both categories.
 
-ஞாயிற்றுக்கிழமை (02) பிற்பகல் நடைபெற்ற தங்கப் பதக்கத்துக்கான இறுதிப் போட்டியில் வட மேல் மாகாணத்தை எதிர்த்தாடிய தென் மாகாணம் 2 - 1 என்ற செட்கள் (17 - 21, 21 - 17, 15 - 11) வித்தியாசத்தில் வெற்றிபெற்று தங்கப் பதக்கத்தை சுவீகரித்தது.
+🟩
 
-தங்கப் பதக்கம் வென்ற தென் மாகாண அணியில் டி. சில்வா, பி குமார ஆகியோர் இடம்பெற்றனர்.
+The Southern Province won the gold medal in the men's category at a feature of the 48th National Sports Competition held for the last 3 days at the Negombo Brauns Beach.
 
-வெள்ளிப் பதக்கம் வென்ற வட மேல் மாகாண அணி சார்பாக என். லக்ஷான், டிலிப்ப சாமிக்க ஆகியோர் விளையாடினர்.
+In the final of the gold medal held on Sunday (02), the Southern Province, which opposed the North Western Province 2 - 1, won the gold medal by 2 - 1 (17 - 21, 21 - 17, 15 - 11).
 
-வட மத்திய மாகாணத்தை  2 - 1 என்ற செட்கள் வித்தியாசத்தில்  வெற்றிகொண்டு வெண்கலப் பதக்கம் வென்ற சப்ரகமுவ மாகாண அணி சார்பாக என். பேரேரா, எம். விக்ரமசிங்க ஆகியோர் விளையாடினர்.
+Gold Medalist Southern Province team. Silva and P Kumara were present.
 
-ஆண்களுக்கான கடற்கரை கரப்பந்தாட்டத்தில் அதிசிறந்த வீரராக பி. குமார (தென் மாகாணம்) தெரிவானார்.
+North Western Provincial Team on Silver Medal. Lakshan and Dilipa Samika played.
+
+On behalf of the Sabaragamuwa provincial team winning the bronze medal by winning the North Central Province by 2 - 1. Perera, M. Wickremasinghe played.
+
+B, as the best player in men's beach. Kumara (Southern Province) was chosen.
+
+In the final of the women's category, the North Western Province won the gold medal by winning the Eastern Province 2 - 1 (17 - 21, 21 - 19, 15 - 12).
 
 ...
 
 [Data](articles/520efbbe.json)
+
+[Extended Data](ext_articles/520efbbe.ext.json)
 
 ---
 
@@ -266,23 +280,37 @@ This refers to the article written by Ms Nirmala Kannangara which appeared under
 
 ### 2024-06-02 (Sunday)
 
-### பப்புவா நியூ கினியின் சவாலை முறியடித்து வெற்றி பெற்றது மேற்கிந்தியத் தீவுகள்
+### Papua New Guinea's challenge is won by West Indies
 
 *2024-06-02 23:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/185155) · `ta`
 
-கயானா ப்ரொவிடன்ஸ் விளையாட்டரங்கில் ஞாயிற்றுக்கிழமை (02) நடைபெற்ற சி குழுவுக்கான முதலாவது  ரி20 உலகக் கிண்ண  போட்டியில் பப்புவா நியூ கினியை 5 விக்கெட்களால் முன்னாள் உலக சம்பியன் மேற்கிந்தியத் தீவுகள் வெற்றிகொண்டது.
+West Indies clinched the inaugural T20 World Cup for the C team against Papua New Guinea, overcoming challenges and securing victory through experienced players like Roston Chase and Russell. Despite initial struggles, including a game delay due to a wicket loss early on, West Indies recovered to score 137 runs in 19 overs. Papua New Guinea, making its second appearance after debuting in Oman and the UAE, managed 136 runs but fell short. Key performances included Chase's 42 runs off 27 balls and Russell's 15 runs, alongside notable bowling efforts from Assad Wala and Andre Russell.
 
-ஆனால், இந்த வெற்றி மேற்கிந்தியத் தீவுகளுக்கு இலகுவாக அமையவில்லை. 16ஆவது ஓவர் வரை பப்புவா நியூ கினியிடம் கடும் சவாலை எதிர்கொண்ட மேற்கிந்தியத் தீவுகள் அணி, அனுபவசாலிகளான ரொஸ்டன் சேஸ், அண்ட்ரே ரசல் ஆகியோரின் திறமையான துடுப்பாட்டங்கள் மூலம் வெற்றியை ஈட்டிக்கொண்டது.
+🟩
 
-137 ஓட்டங்களை வெற்றி இலக்காகக் கொண்டு பதிலுக்கு துடுப்பெடுத்தாடிய மேற்கிந்தியத் தீவுகள் 19 ஓவர்களில் 5 விக்கெட்களை இழந்து 137 ஓட்டங்களைப் பெற்று வெற்றியீட்டியது.
+Former World Champion West Indies won the first T20 World Cup for the C team at the Guyana Provisions Stadium on Sunday (02).
 
-மேற்கிந்தியத் தீவுகள் 1.4 ஓவர்களில் ஒரு விக்கெட்டை இழந்து 8 ஓட்டங்களைப் பெற்றிருந்த போது மழை குறுக்கிட்டதால் ஆட்டம் 20 நிமிடங்களுக்கு தடைப்பட்டது.
+But this victory is not easy for the West Indies. The West Indies team, which faced a tough challenge to the Papua New Guinea up to the 16th over, won the success of the experienced by the experienced Roston Chase and and Russell.
 
-ஆனால், ஆட்டம் மீணடும் தொடர்ந்தபோது ஓவர்கள் குறைக்கப்படவில்லை. வெற்றி இலக்கும் அப்படியே இருந்தது.
+The West Indies scored 137 runs for the loss of 5 wickets in 19 overs.
+
+The game was blocked for 20 minutes as the West Indies lost one wicket in 1.4 overs and scored 8 runs.
+
+But, when the game continues to recover, the overs are not reduced. The success remained intact.
+
+The West Indies, who followed their batsmen, feared that the rain could be blocked by rain and lost 2 wickets by 2 runs. (63 - 3 wig.)
+
+Nicholas Poorun and Brendon King lost 53 runs in the 2nd wicket.
+
+Nicholas Poran lost 27 runs and Brendon King 34 runs.
+
+Following the team captain Roveman Powell (15) and Sharefan Radarfart (2) lost the game. (97 - 5 wig.)
 
 ...
 
 [Data](articles/3a6afbb2.json)
+
+[Extended Data](ext_articles/3a6afbb2.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-02 21:53:22**
+As of **2024-06-02 22:05:31**
 
 ## Newspaper Stats
 
-*Scraped **27,933** Articles*
+*Scraped **27,938** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,84 @@ newsfirstlk | 363
 islandlk | 1,507
 economynextcom | 1,587
 dailyftlk | 1,635
-adalk | 2,384
+adalk | 2,385
 adaderanalk | 3,177
-tamilmirrorlk | 3,274
+tamilmirrorlk | 3,276
 virakesarilk | 4,302
-dailymirrorlk | 4,430
-adaderanasinhalalk | 4,477
+dailymirrorlk | 4,431
+adaderanasinhalalk | 4,478
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,933 (100.0%) of 27,933 articles have been extended.
+27,933 (100.0%) of 27,938 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-02 (Sunday)
+
+### ප්‍රධාන මාර්ගයක් වසා දමයි
+
+*2024-06-02 21:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197302) · `si`
+
+පැලවත්ත නෙළුව ප්‍රධාන මාර්ගය නායයාමේ අවදානමක් හේතුවෙන් තාවකාලිකව වසා දමා තිබේ.
+
+මේ හේතුවෙන් එම මාර්ගය භාවිත කරන රියදුරන්ට හැකිතාක් විකල්ප මාර්ග භාවිත කරන ලෙස පොලීසිය ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/fd9aad25.json)
+
+---
+
+### Politicians who backed away after ’Aragalaya’ raising their heads again: Anura Kumara
+
+*2024-06-02 21:37:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Politicians-who-backed-away-after-Aragalaya-raising-their-heads-again-Anura-Kumara/108-283926) · `en`
+
+Kurunegala, June 2 (Daily Mirror)- Claiming that corrupt and rowdy politicians who backed away after the 'Aragalaya' have started to raise their heads again, NPP leader Anura Kumara Dissanayake said today that if the true aspirations of the Aragalaya are to be fulfilled, a government which maintains the true objective of the people's uprising should be established.
+
+Speaking at the NPP youth rally in Kurunegala, he said the National People's Power (NPP) is the only political force and the government which could uphold the true aspirations of the people's uprising in 2022.
+
+He said politicians have not learnt any lessons from the Argalaya and said that instead they are humiliating the people's uprising, claiming it an uprising of drug addicts.
+
+Dissanayake said the people, especially the youth took to the streets for common aspirations without allegiance to any political force and added that however, they had aspirations for a good political situation.
+
+...
+
+[Data](articles/8b7f7029.json)
+
+---
+
+### ஜனாதிபதி அதிரடி உத்தரவு
+
+*2024-06-02 21:02:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-அதிரடி-உத்தரவு/175-338310) · `ta`
+
+சீரற்ற காலநிலையினால் பாதிக்கப்பட்டவர்களுக்கு உடனடி உதவிகளை வழங்குமாறு ஜனாதிபதி ரணில் விக்ரமசிங்க நிதி அமைச்சின் செயலாளருக்கு பணிப்புரை விடுத்துள்ளார்.
+
+அதன்படி மாவட்ட செயலாளர்களுக்கு நிதியை உடனடியாக ஒதுக்குமாறும் நிதி அமைச்சின் செயலாளருக்கு ஜனாதிபதி பணிப்புரை விடுத்துள்ளதாக ஜனாதிபதி ஊடகப் பிரிவு தெரிவித்துள்ளது. R
+
+◼️
+
+[Data](articles/3be9a7c5.json)
+
+---
+
+### அடுத்த 24 மணிநேரத்திற்கு சிவப்பு எச்சரிக்கை
+
+*2024-06-02 20:59:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அடுத்த-24-மணிநேரத்திற்கு-சிவப்பு-எச்சரிக்கை/175-338309) · `ta`
+
+அடுத்த 24 மணிநேரத்திற்கு செல்லுபடியாகும் வகையில், நாட்டின் தென்மேற்குப் பகுதியில் தொடர்ந்தும் மழை பெய்யும் என எதிர்பார்க்கப்படுவதாக வளிமண்டலவியல் திணைக்களம் சிவப்பு அறிவித்தல் விடுத்துள்ளது.
+
+மேல், சப்ரகமுவ மற்றும் வடமேற்கு மாகாணங்களிலும், காலி மற்றும் மாத்தறை மாவட்டங்களிலும் சில இடங்களில் 150 மி.மீ.க்கு மேல் பலத்த மழை பெய்யக்கூடும் என தெரிவிக்கப்பட்டுள்ளது.
+
+இடி, மழையுடன் கூடிய பலத்த காற்று மற்றும் மின்னல் தாக்கங்களினால் ஏற்படக்கூடிய ஆபத்துக்களை குறைப்பதற்கு தேவையான நடவடிக்கைகளை எடுக்குமாறு மக்கள் கேட்டுக்கொள்ளப்பட்டனர். R
+
+◼️
+
+[Data](articles/0072c3f8.json)
+
+---
 
 ### The most disturbance of the turbulent weather
 
@@ -92,15 +154,13 @@ President Ranil Wickremesinghe has instructed the Secretary of the Finance Minis
 
 President Ranil Wickremesinghe has directed the Secretary of the Ministry of Finance to promptly allocate funds to the District Secretaries to provide urgent assistance to those impacted by the adverse weather conditions, the President’s Media Division said.
 
+President Wickremesinghe has also instructed relevant officials to collaborate with the tri-forces and police to reconstruct all houses completely destroyed due to adverse weather, utilizing government funds, within the next two months.
+
 At least 14 people were killed and more than 19,000 others from over 5,000 families were affected over the weekend as severe monsoonal downpours inflicted widespread devastation in Sri Lanka, authorities said on Sunday.
 
 The Disaster Management Center (DMC) said 20 out of the country’s 25 districts were affected by heavy rain and issued warnings to people living on the banks of main rivers to move to higher ground.
 
-Flights arriving at Colombo’s main international airport were diverted to a smaller airport, and some key highways were flooded at several exits.
-
-The government also ordered all schools to remain shut on Monday after the weekend holiday, as more rain was forecast.
-
-◼️
+...
 
 [Data](articles/67282c76.json)
 
@@ -325,6 +385,22 @@ Therefore, the consumers' cooperation and understanding are highly valuable for 
 [Data](articles/a38e0d64.json)
 
 [Extended Data](ext_articles/a38e0d64.ext.json)
+
+---
+
+### පොලිස් අණ නොතකා ධාවනය කළ යතුරු පැදිකරුවෙකුට වෙඩි
+
+*2024-06-02 18:51:26* · [`adalk`](https://www.ada.lk/breaking_news/පොලිස්-අණ-නොතකා-ධාවනය-කළ-යතුරු-පැදිකරුවෙකුට-වෙඩි/11-409970) · `si`
+
+තංගල්ල  කොට්ටාශයේ පොලිස්  ක්ෂණික  විහිදුම්  බලකායේ නිළධාරින් කණ්ඩායමක්  විසින් පසුගිය 01 දා සවස සූරියවැව  හත්පහ හංදියේ සිදුකළ  සෝදිසි  මොහොයුමක් අතර    අණ නෙතකා  ධාවනය කරනු ලැබූ සැක සහිත  යතුරු පැදි කරුවෙකුට  හඹාගොස් වෙඩි තැබීමට පොලිසිය කටයුතුකර තිබේ.
+
+කෙසේ නමුත් අදාළ යතුරු පැදිකරු එම ස්ථානයෙන් පලාගොස් තම පාදයේ කම්බියක් ඇනුණු බව පවසමින් සූරියවැව රෝහලේ  ප්‍රතිකාර ගැනීමට නැවතී ඇති අතර පසුව රාත්‍රියේදී වැඩි දුර ප්‍රතිකාර ගැනීමට හම්බන්තොට මහ රෝහලට යන බව පවසමින් සිය කැමැත්තෙන් රෝහලෙන් පිටව  නිවසට ගොස් තිබේ.
+
+පසුව 02දා  අලුයම තම මව සමඟ සූරියවැව පොලිසිය වෙත පැමිනීමෙන් පසු පොලිසිය විසින් අදාල සැකකරු අත්අඩංගුවට ගෙන පොලිස් අණ නොතකා ධාවනය කිරීම, ආරක්ෂක හිස් වැසුම් නොමැතිව ධාවනය කිරීම,අධික ශබිදය සහිත සයිලන්සර භාවිතය යන චෝදනා යටතේ හම්බන්තොට මහේස්ත්‍රාත් අධිකරණයට ඉදිරිපත්කිරිමෙන් අනතුරුව රුපියල් ලක්ෂ 05ක ශරීර ඇප මත නිදහස් කර තිබේ.
+
+◼️
+
+[Data](articles/7972dac4.json)
 
 ---
 
@@ -1999,113 +2075,5 @@ The Father said: "The father of his beloved daughter. Daughter's earliest school
 [Data](articles/b330f42b.json)
 
 [Extended Data](ext_articles/b330f42b.ext.json)
-
----
-
-### Compulsory Military Service in Britain: Is Rishi Tsunac's election strategy?
-
-*2024-06-02 11:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/185104) · `ta`
-
-Rishi Sunak's election strategy may involve highlighting compulsory military service as a way to strengthen national unity and security, drawing parallels with other nations' mandatory military obligations during wartime.
-
-🟩
-
-There is a compulsory task to serve the military for a short time in different countries in the world. Especially during the war, such law is mandatory and why it is forcible recruitment. It is worth noting here that it is mandatory to serve the military in such countries. In such countries, laws have been enacted for that.
-
-◼️
-
-[Data](articles/fa395f8a.json)
-
-[Extended Data](ext_articles/fa395f8a.ext.json)
-
----
-
-### Accepting applications for admission of students to national schools ends tomorrow
-
-*2024-06-02 11:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/99591/accepting-applications-for-admission-of-students-to-national-schools-ends-tomorrow) · `en`
-
-The acceptance of applications for the admission of students into the intermediate grades of national schools will conclude tomorrow (June 02), the Ministry of Education says.
-
-Accordingly, the ministry has advised that no applications should be sent to schools or the Education Ministry after this deadline.
-
-Applications for admission to intermediate grades of national schools for the year 2024 were allowed by the Ministry of Education.
-
-The admission process will be carried out by holding interviews through school principals as per the circular issued in this regard. Subsequently, the schools will forward the relevant name lists of qualified students to the ministry for approval, according to the Education Ministry.
-
-◼️
-
-[Data](articles/6d092734.json)
-
-[Extended Data](ext_articles/6d092734.ext.json)
-
----
-
-### Rainfall in Eheliyagoda
-
-*2024-06-02 11:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197276) · `si`
-
-Eheliyagoda recorded the highest rainfall at 427.5 million mm, surpassing Halwatura Watta's 348.5 million mm and Akuressa's 283.5 mm. Heavy rains were also forecasted in Western, Sabaragamuwa, and Matara districts.
-
-🟩
-
-The highest rainfall was reported from the Eheliyagoda.
-
-The Meteorology announces that rainfall in Eheliyagoda was 427.5 million mm.
-
-The Halwatura Watta (Ingiriya) has received a rainfall of 348.5 million and the precipitation of Akuressa area is mm.. 283.5 km.
-
-Meanwhile, in some places in the Western and Sabaragamuwa Provincial and Sabaragamuwa and Matara districts, the Department of Science has announced heavy rains.
-
-◼️
-
-[Data](articles/9065e7f4.json)
-
-[Extended Data](ext_articles/9065e7f4.ext.json)
-
----
-
-### Jeevan's bodyguards handed over the weapons
-
-*2024-06-02 11:51:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஜீவனின்-மெய்பாதுகாவலர்கள்-ஆயுதங்களை-ஒப்படைத்து-மீளப்-பெற்றனர்/76-338271) · `ta`
-
-Bodyguards of Jeevan Thondaman, a political figure, turned in their weapons to the Talawakelle police after receiving orders. They were later retrieved. This incident followed Thondaman's visit to a police station seeking justice for his party's supporters.
-
-🟩
-
-The three police officers who were assigned to the protection of Jeevan Thondaman, the General Secretary of the Ceylon Workers Congress and Water Supply and Estate Infrastructure, handed over their guns to the Talawakelle police and recovered a few hours later, police said.
-
-Just a few days ago, Minister Jeevan Thondaman took the supporters of the party and went to the Nuwara Eliya police station and asked for justice.
-
-The Talawakelle police have received a telephone message to seize the guns of the minister's security unit.
-
-In addition, the Talawakelle police have handed over the guns to the Talawakelle police to hand over the guns handed over to the police.
-
-Officers of the Minister's Security Department arrived at the Talawakelle police station at around 11 pm yesterday (01).
-
-◼️
-
-[Data](articles/f0036cfa.json)
-
-[Extended Data](ext_articles/f0036cfa.ext.json)
-
----
-
-### Heavy rainfall raises major flood concerns in Kelani, Nilwala and Gin River basins
-
-*2024-06-02 11:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Heavy-rainfall-raises-major-flood-concerns-in-Kelani-Nilwala-and-Gin-River-basins/108-283899) · `en`
-
-Colombo, June 2 (Daily Mirror) - A potential major flood situation has been reported as heavy rainfall has been recorded across the majority of upstream and middle reach catchment areas within the Kelani, Nilwala and Gin river basins, the Department of Irrigation said.
-
-The department warned that there is a possibility of occurring a major flood situation in lowline areas of Kuda Ganga and Maguru Ganga valleys situated in Bulathsinhala, Madurawala and Palinda Nuwara D/S Divisions.
-
-Areas including Dehiovita, Ruwanwella, Seethawaka, Dompe, Homagama, Kaduwela, Biyagama, Kolonnawa, and Wattala D/S Divisions of the Kalu River are at risk of experiencing flood situations.
-
-Additionally, there is a possibility of a flood situation occurring in low-lying areas of the Gin Ganga valley situated in Neluwa, Thawalama, Nagoda, Niyagama, Welivitiya-Divithura, Elpitiya, Akmeemana, Baddegama, and Bope-Poddala D/S Divisions.
-
-...
-
-[Data](articles/55bf1698.json)
-
-[Extended Data](ext_articles/55bf1698.ext.json)
 
 ---

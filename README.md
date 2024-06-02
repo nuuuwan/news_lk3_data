@@ -1,36 +1,54 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-02 09:53:40**
+As of **2024-06-02 10:05:27**
 
 ## Newspaper Stats
 
-*Scraped **27,793** Articles*
+*Scraped **27,799** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 249
 dbsjeyarajcom | 268
-bbccomsinhala | 273
+bbccomsinhala | 274
 newsfirstlk | 363
 islandlk | 1,507
 economynextcom | 1,585
 dailyftlk | 1,635
-adalk | 2,365
+adalk | 2,367
 adaderanalk | 3,161
-tamilmirrorlk | 3,258
+tamilmirrorlk | 3,259
 virakesarilk | 4,282
 dailymirrorlk | 4,401
-adaderanasinhalalk | 4,446
+adaderanasinhalalk | 4,448
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,793 (100.0%) of 27,793 articles have been extended.
+27,793 (100.0%) of 27,799 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-02 (Sunday)
+
+### අමෙරිකාවට සුපිරි ජයක්
+
+*2024-06-02 09:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197272) · `si`
+
+20යි 20 ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ කැනඩා කණ්ඩායමට එරෙහිව අද (02) පැවති තරගය කඩුලු 7කින් ජයගැනීමට අමෙරිකානු කණ්ඩායම සමත්විය.
+
+ලකුණු 194ක ජයග්‍රාහී ඉලක්කය හඹාගිය අමෙරිකාව පන්දුවාර 17යි පන්දු 4කදී කඩුලු 3ක් දැවී ලකුණු 197ක් රැස්කරමින් තරගයේ ජය හිමිකරගත්තේය.
+
+එහිදී අගනා ඉනිමක් ක්‍රීඩා කළ Aaron Jones පන්දු 40කදී හයේ පහර 10ක් සහ හතරේ පහර 4ක් සමග නොදැවී ලකුණු 94ක් රැස්කළේය.
+
+පන්දු යැවීමේදී කැනඩාව වෙනුවෙන් Kaleem Sana, Dilon Heyliger සහ Nikhil Dutta එක් කඩුල්ල බැගින් දවාගැනීමට සමත්විය.
+
+◼️
+
+[Data](articles/755478be.json)
+
+---
 
 ### A special meeting of the SLFP is today
 
@@ -51,6 +69,54 @@ However, former Sri Lanka Freedom Party (SLFP) former President of the Sri Lanka
 [Data](articles/b7ccd1c9.json)
 
 [Extended Data](ext_articles/b7ccd1c9.ext.json)
+
+---
+
+### அவிசாவளையில் நால்வர் பலி
+
+*2024-06-02 09:16:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அவிசாவளையில்-நால்வர்-பலி/175-338259) · `ta`
+
+எதிர்பாராத மழையினால் சீதாவக்க பிரதேச செயலகப் பிரிவில் நால்வர் உயிரிழந்துள்ளதுடன் 11 கிராம உத்தியோகத்தர் பிரதேசங்களில் மக்கள் வெள்ளத்தில் மூழ்கி பாதிக்கப்பட்டுள்ளதாக கொழும்பு மாவட்ட அனர்த்த முகாமைத்துவ பிரிவு தெரிவித்துள்ளது.
+
+அவிசாவளை புவக்பிட்டிய தெற்கு கிராம உத்தியோகத்தர் களத்தில் ஒரே குடும்பத்தைச் சேர்ந்த மூவர் நீரில் மூழ்கி உயிரிழந்துள்ளதாகவும் மேலும் ஒருவர் மண்மேடு சரிந்து விழுந்ததில் உயிரிழந்துள்ளதாகவும் அதே பிரிவு தெரிவித்துள்ளது
+
+◼️
+
+[Data](articles/cd42b6ce.json)
+
+---
+
+### සරසවි අනධ්‍යන වැටුප් ගැටලුව විසඳන්න මාස 6ට රු.මි. 1100ක් අවශ්‍යයි
+
+*2024-06-02 09:12:41* · [`adalk`](https://www.ada.lk/breaking_news/සරසවි-අනධ්‍යන-වැටුප්-ගැටලුව-විසඳන්න-මාස-6ට-රු-මි--1100ක්-අවශ්‍යයි/11-409954) · `si`
+
+ඉල්ලීම් කිහිපයක් මුල් කර ගනිමින් වර්ජනයේ යෙදී සිටින විශ්වවිද්‍යාල අනධ්‍යන කාර්ය මණ්ඩල වෘත්තීය සමිති සමඟ එළඹෙන සඳුදා දිනයේ සාකච්ඡා කරන බව උසස් අධ්‍යාපන රාජ්‍ය අමාත්‍ය ආචාර්ය සුරේන් රාඝවන් මහතා පැවසීය.
+
+මේ සම්බන්ධයෙන් හොඳම විසඳුම ලබා දීමට ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ඇතුළු රජය බලාරොත්තු වන බව ද ඒ මහතා සඳහන් කළේය.
+
+උසස් අධ්‍යාපන රාජ්‍ය අමාත්‍ය ආචාර්ය සුරේන් රාඝවන් මහතා මේ බව සඳහන් කර සිටියේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන්ජ‍ෙනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමිනි.
+
+විශ්වවිද්‍යාල අනධ්‍යන කාර්ය මණ්ඩල මේ වන විට වර්ජනයක නිරතව සිටිනවා. මෙය අවාසනාවන්ත කරුණක් බව කිව යුතුයි. මෙමඟින් පීඩාවට පත්වන්නේ අනාගත ශිෂ්‍ය පරම්පරාවයි. මෙම වෘත්තීය ක්‍රියාමාර්ග නිසා රුපියල් මිලියන 150 ක පමණ සෘජු මූල්‍ය පාඩුවක් සිදු වනවා. එය මිනිස් කාලය අනුව මිලියන 1.8ක අපතේයාමක් බව පැවසිය යුතුයි. ඒ නිසා අප රජයට තව පැයක්වත් නාස්ති කිරීමට අවශ්‍ය නැහැ.
+
+...
+
+[Data](articles/3a1e8271.json)
+
+---
+
+### පස් කන්දකට යටවී කුඩා දැරියක් මරුට
+
+*2024-06-02 08:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197270) · `si`
+
+අවිස්සාවේල්ල, හේවාහින්න ප්‍රදේශයේදී පස් කන්දකට යට වී කුඩා දැරියක් මියගොස් තිබේ.
+
+එසේ මියගොස් ඇත්තේ, වයස අවුරුදු 11ක දැරියක් බව පොලීසිය පවසයි.
+
+අයහපත් කාලගුණය හේතුවෙන් ගතවූ පැය 24  පුද්ගලයින් 06 දෙනෙකු මියගොස් තිබේ.
+
+◼️
+
+[Data](articles/a960916b.json)
 
 ---
 
@@ -275,6 +341,28 @@ Accordingly, they decided to give Canada to the chance of batting first.
 [Data](articles/a8126972.json)
 
 [Extended Data](ext_articles/a8126972.ext.json)
+
+---
+
+### ශ්‍රී ලාංකීය සමාජයේ 'සිංගල් අම්මා' කෙනෙක් වීම කෙතරම් අභියෝගාත්මක ද?
+
+*2024-06-02 03:57:08* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cjkkr8d88zzo) · `si`
+
+ශ්‍රී ලාංකීය සමාජයේ 'සිංගල් අම්මා' කෙනෙක් වීම කෙතරම් අභියෝගාත්මක ද?
+
+2012 වසරේදී එක්සත් ජාතීන්ගේ සංවිධානයේ මහා මණ්ඩලය විසින් ප්‍රකාශයට පත් කරන ලද ගෝලීය දෙමාපිය දිනය, සියලු දෙමාපියන් "දරුවන් වෙනුවෙන් කරන පරාර්ථකාමී කැපවීම සහ මාපිය දූදරු සම්බන්ධතාව පෝෂණය කිරීමට ඔවුන් තම ජීවිත කාලය පුරාවට ම සිදු කරන කැප කිරීම" ඇගයීම සඳහා අවස්ථාව සලසා දෙයි.
+
+මෙවර එහි තේමාව 'The Promise of Playful Parenting' (කෙළිදෙලින් යුත් මාපිය රැකවරණය සඳහා වන පොරොන්දුව) ලෙස එකසත් ජාතීන්ගේ සංවිධානය විසින් හඳුන්වා දෙනු ලැබ ඇත.
+
+එක්සත් ජාතීන්ගේ සංවිධානය පවසන පරිදි, දරුවන්ගේ යහපැවැත්ම සහ සංවර්ධනය සඳහා පවුල, දෙමාපියන් සහ ඔවුන් රැකබලා ගන්නන්ගෙන් ප්‍රධාන කාර්යභාරයක් ඉටු වේ.
+
+ඔවුහු දරුවන්ට සහ නව යොවුන් වියේ පසුවන දරුවන්ට අනන්‍යතාවය, ආදරය, රැකවරණය, ආහාර පාන, ඇඳුම් පැළඳුම් හා ජීවත් වීමට නිවහනක්, ආරක්ෂාව, ආර්ථික සුරක්ෂිතභාවය සහ ස්ථාවරත්වය ලබා දෙති.
+
+නමුත් ඇතමෙකු පවසන්නේ, ඔවුන්ගේ එම කැපකිරීම් ඇගයීම සඳහා වෙන්ව ඇති මෙම දිනය තවමත් ශ්‍රී ලාංකියින්ට එතරම් හුරුපුරුදු දිනයක් නොවන බව ය.
+
+...
+
+[Data](articles/4df23534.json)
 
 ---
 
@@ -777,6 +865,20 @@ The supporters were scattered in front of the police after making the statement.
 [Data](articles/5e0adfaa.json)
 
 [Extended Data](ext_articles/5e0adfaa.ext.json)
+
+---
+
+### බටපොළ කල්‍යාණ තිස්ස විදුහලේ අමාෂා ලංකාවට ජාත්‍යන්තර කරාතේ ජය දෙකක් ගෙනයි
+
+*2024-06-01 19:47:08* · [`adalk`](https://www.ada.lk/sports/බටපොළ-කල්‍යාණ-තිස්ස-විදුහලේ-අමාෂා-ලංකාවට-ජාත්‍යන්තර-කරාතේ-ජය-දෙකක්-ගෙනයි/9-409952) · `si`
+
+ශ්‍රී ලංකා පාසල් කරාතේ දෝ සංගමයේ පාසල් කරාතේ කණ්ඩායම් නියෝජනය කරමින්  මැලේසියාවේ පැවැති කරාතේ තරගාවලියේ දී අම්බලන්ගොඩ  ගා/බටපොළ  ශ්‍රී කල්‍යාණ තිස්ස විද්‍යාලයේ 9 වන ශ්‍රේණියේ ඉගෙනුම ලබන ඒ.පී.එන්.එස්. අමාෂා වාස්ගුණවර්ධන සිසුවිය ජාත්‍යන්තර මට්ටමේ තරග දෙකක ජයග්‍රහණ ලබාගෙන තිබේ.
+
+ඇය එහිදී  කාටා අංශයේ දෙවන ස්ථානයත් කුම්තේ අංශයේ තුන්වන ස්ථානයක් දිනා ගනු ලැබීය. මෙම තරගාවලිය පසුගිය මැයි 26 වැනි දින මැලේසියාවේ ක්වාලාම්පුර් නුවර පැවැත්විය.
+
+◼️
+
+[Data](articles/ff8306b5.json)
 
 ---
 
@@ -2175,145 +2277,5 @@ The woman who came to the house after cleaning the house and conveyed with her m
 [Data](articles/295d44ba.json)
 
 [Extended Data](ext_articles/295d44ba.ext.json)
-
----
-
-### Colombo inflation cools to 0.9% in May
-
-*2024-06-01 11:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Colombo-inflation-cools-to-0-9-in-May/108-283870) · `en`
-
-The Colombo district inflation eased further to 0.9 percent in May, from 1.5 percent in April, as both food and non-food prices continued their months-long streak of declines, although the prices could firm up slightly in the coming months, due to somewhat higher prices for staples, as a result of the current weather and revving up of economic activities with the lower interest rates.
-
-Measured on a monthly basis, the prices fell 0.6 percent in the month, adding to the 1.9 percent and 0.8 percent falls in the prices in both March and April, respectively.
-
-After a sharp rise in prices in the nearly last two years, the prices came back to better balance from 2023 onwards, due to the easing of global energy prices and other commodities prices.
-
-Meanwhile, the availability of foreign currency in the country, due to the normalising tourism and remittances, also helped the prices to come back to the acceptable level, as the imported goods could be made in sufficient supply.
-
-...
-
-[Data](articles/4ea57f0d.json)
-
-[Extended Data](ext_articles/4ea57f0d.ext.json)
-
----
-
-### Increased tobacco use among schoolchildren: Expert
-
-*2024-06-01 11:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Increased-tobacco-use-among-schoolchildren-Expert/108-283830) · `en`
-
-Health experts have raised concerns about the rising use of tobacco products among schoolchildren in Sri Lanka.
-
-Speaking on World No-Tobacco Day which fell yesterday (31), Dr. Shakya Nanayakkara, Chairman of the National Dangerous Drugs Control Board, highlighted that tobacco products are becoming increasingly common in schools.
-
-Dr. Nanayakkara emphasized that children who become addicted to these products are likely to progress to smoking cigarettes.
-
-He also noted the growing popularity of e-cigarettes globally, cautioning that individuals who develop a nicotine habit through e-cigarettes are at a high risk of transitioning to smoking traditional cigarettes.
-
-Further, he warned that the ingestion of nicotine can lead to adverse effects such as dizziness, vomiting, and general physical discomfort.
-
-As such, Dr. Nanayakkara urged parents and teachers to educate children about the dangers of nicotine and the reasons for its use.
-
-◼️
-
-[Data](articles/2fc32f2b.json)
-
-[Extended Data](ext_articles/2fc32f2b.ext.json)
-
----
-
-### Sri Lanka wins second training match
-
-*2024-06-01 11:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197236) · `si`
-
-In the second training match for the 20-20 World Cup, Sri Lanka triumphed by 41 runs over Ireland. Batting first after winning the toss, Sri Lanka made 163/8 in 20 overs, with Angelo Mathews contributing 32 and Wanuma Hasaranga 26. Ireland fell short, making just 122 all out in 18 overs. The next match sees Sri Lanka face South Africa on Monday.
-
-🟩
-
-Sri Lanka wins 41 runs in the second training match for the 20 -20 World Cup.
-
-Ireland won the toss and elected to bat first.
-
-Accordingly, Sri Lanka entered the field and scored 163 runs for the loss of 8 wickets at the end of 20 overs.
-
-Angelo Mathews scored 32 runs while Fanuma Hasaranga scored 26 runs.
-
-The Irish team to reach a target of 164 runs, only 122 runs for the loss of 18 overs.
-
-Sri Lanka is scheduled to be held against South Africa on Monday, the first match played in the World Cup.
-
-◼️
-
-[Data](articles/790e3c73.json)
-
-[Extended Data](ext_articles/790e3c73.ext.json)
-
----
-
-### There are no religious extremists arrested at Gujarat Airport- Kamal Gunaratne
-
-*2024-06-01 10:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/185025) · `ta`
-
-Four Sri Lankans arrested in Gujarat, India, suspected of terrorist links, not religious extremists, according to Kamal Gunaratne from the Ministry of Defense. He assures the public that intelligence agencies are vigilant regarding security issues.
-
-🟩
-
-Four Sri Lankans arrested on suspicion of being associated with terrorists in Gujarat, India;Kamal Gunaratne of the Ministry of Defense said that there are no religious people who are addicted to drugs.
-
-"Our intelligence agencies are cautious about the issue," he said.
-
-I cannot comment on the ongoing investigations but the four arrested in India are not religious extremists, they said they were addicted to drugs.
-
-He said the public can be sure that we are aware of our security.
-
-◼️
-
-[Data](articles/42f00db1.json)
-
-[Extended Data](ext_articles/42f00db1.ext.json)
-
----
-
-### Sri Lankan monks, Minister explore rich Buddhist heritage in Pakistan
-
-*2024-06-01 10:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankan-monks-Minister-explore-rich-Buddhist-heritage-in-Pakistan/108-283876) · `en`
-
-Peshawar, June 1 (Daily Mirror) - A Sri Lankan delegation of Sri Lankan Buddhist monks and Minister for Buddhasasana, Religious and Cultural Affairs, Vidura Wickramanayake called on the Governor of Khyber Pakhtunkhwa, Faisal Karim Kundi at the Governor’s House in Peshawar, Pakistan on Friday.
-
-The meeting was part of their visit to Pakistan to participate in the symposium and exhibition titled “Gandhara to the World,” organized by the Ministry of Foreign Affairs.
-
-During their visit, the delegation had the opportunity to explore the historic Governor’s House in Peshawar.
-
-Governor Karimkundi briefed the delegation on the deep-rooted history and cultural significance of Khyber Pakhtunkhwa, particularly highlighting its ancient Buddhist heritage. Emphasizing the province’s commitment to preserving this legacy, Governor Karimkundi discussed efforts to promote tourism between Pakistan and Sri Lanka, citing the region’s allure to Buddhist religious leaders from around the world.
-
-...
-
-[Data](articles/4688e16f.json)
-
-[Extended Data](ext_articles/4688e16f.ext.json)
-
----
-
-### Signs of the control of South Africa after a long time
-
-*2024-06-01 10:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197235) · `si`
-
-After years of dominance, South Africa's African National Congress faces potential loss of its parliamentary majority, with 40.98% of the vote counted so far. The Democratic Alliance trails closely behind with 13.81%, and FF at 9.49%. Final results due soon, marking a shift from the ANC's post-1994 election dominance.
-
-🟩
-
-According to the results of South Africa, the long-ruled African National Congress, a long-ruled African National Congress, has a risk of loss of his parliamentary majority.
-
-The counting has been completed in over 91.62% of the voters vote and the number of votes received by the African National Congress is 40.98%.
-
-It is reported that the Democratic Alliance (SLFP), led by former President Jacob Sukuma, has been following 13.81% and FF 9.49%.
-
-The final results are to be released on weekends and after the first democratic elections in 1994, the African National Congress had received more than 50% of every election after the first democratic elections in 1994.
-
-◼️
-
-[Data](articles/d26fc48d.json)
-
-[Extended Data](ext_articles/d26fc48d.ext.json)
 
 ---

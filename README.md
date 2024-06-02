@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-02 14:52:56**
+As of **2024-06-02 15:03:51**
 
 ## Newspaper Stats
 
-*Scraped **27,856** Articles*
+*Scraped **27,863** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,60 +15,130 @@ newsfirstlk | 363
 islandlk | 1,507
 economynextcom | 1,587
 dailyftlk | 1,635
-adalk | 2,372
-adaderanalk | 3,168
-tamilmirrorlk | 3,268
+adalk | 2,374
+adaderanalk | 3,169
+tamilmirrorlk | 3,269
 virakesarilk | 4,286
-dailymirrorlk | 4,413
-adaderanasinhalalk | 4,461
+dailymirrorlk | 4,415
+adaderanasinhalalk | 4,462
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,853 (100.0%) of 27,856 articles have been extended.
+27,856 (100.0%) of 27,863 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-02 (Sunday)
 
-### கர்ப்பிணிகள் ஹெலியில் மீட்பு
+### ගසක් කඩාවැටීමෙන් කොළඹ-නුවර මාර්ගය වැසෙයි
+
+*2024-06-02 14:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197286) · `si`
+
+කොළඹ නුවර ප්‍රධාන මාර්ගය වරකාපොල ප්‍රදේශයෙන් මුළුමනින්ම අවහිර වී තිබේ.
+
+ප්‍රධාන මාර්ගයට ගසක් කඩාවැටීම හේතුවෙන් මෙලෙස එම මාර්ගය අවහිර වී ඇත.
+
+පොලීසිය කොළඹ නුවර මාර්ගය භාවිත කරන රියදුරන්ගෙන් ඉල්ලා සිටින්නේ මේ හේතුවෙන් විකල්ප මාර්ග භාවිත කරන ලෙසටය.
+
+◼️
+
+[Data](articles/e18ba4a2.json)
+
+---
+
+### மின்சாரம் துண்டிப்பு
+
+*2024-06-02 14:37:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்சாரம்-துண்டிப்பு/175-338290) · `ta`
+
+மழையுடனான சீரற்ற வானிலை காரணமாக ஏற்பட்டுள்ள கடும் வெள்ளம் மற்றும் மண்சரிவை அடுத்து, நாட்டின் பல பகுதிகளில் மின்சாரம் தடைப்படுத்தப்பட்டுள்ளதாக மின்சக்தி மற்றும் எரிசக்தி அமைச்சு தெரிவிக்கின்றது.
+
+பாதுகாப்பு காரணங்களை முன்னிலைப்படுத்தி மின்சாரம் தடைப்படுத்தப்பட்டுள்ளதாக அமைச்சு கூறியுள்ளது. அத்துடன், பல பகுதிகளில் மின்சாரம் தடைப்பட்டுள்ளது
+
+◼️
+
+[Data](articles/9e2da008.json)
+
+---
+
+### Two missing in Thawalama due to floods
+
+*2024-06-02 14:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/99597/two-missing-in-thawalama-due-to-floods) · `en`
+
+At least two persons have been reported missing in the Thawalama area in Galle due to floods, the Disaster Management Centre (DMC) reported.
+
+The DMC also stated that an operation has been launched in search of the two missing individuals.
+
+◼️
+
+[Data](articles/0fe7c29f.json)
+
+---
+
+### හෙට සියලු පාසල් නිවාඩු
+
+*2024-06-02 14:26:24* · [`adalk`](https://www.ada.lk/breaking_news/හෙට-සියලු-පාසල්-නිවාඩු/11-409962) · `si`
+
+පවතින අයහපත් කාළගුණ තත්ත්වය හේතුවෙන් දිවයිනේ සියලු පාසල් හෙට (3) දින නොපැවත්වෙන බව අධ්‍යාපන අමාත්‍යාංශය පැවසීය.
+
+ඉදිරියේදී පාසල් පැවැත්වීම පිළිබඳව කාළගුණික නිරීක්ෂණ අනුව දැනුම් දෙන බවද අධ්‍යාපන අමාත්‍යාංශය නිවේදනය කරයි.
+
+◼️
+
+[Data](articles/17556c55.json)
+
+---
+
+### Recovery at Pregnant Helly
 
 *2024-06-02 14:25:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/தென்-மாகாணம்/கர்ப்பிணிகள்-ஹெலியில்-மீட்பு/93-338289) · `ta`
 
-வைத்தியசாலைக்கு செல்லும் வீதிகள் அனைத்தும் வெள்ளத்தில் மூழ்கியுள்ளதாகவும், அந்த வைத்தியசாலையிலுள்ள கர்ப்பிணித் தாய்மார்கள் மற்றும் அவசர நோயாளிகள் அனைவரும் ஹெலிகொப்டர்கள் மூலம் உடுகம வைத்தியசாலைக்கு மாற்றப்பட்டுள்ளதாக காலி மாவட்ட சமூக சுகாதார வைத்திய அதிகாரி  அமில சந்திரசிறி தெரிவித்தார்.
+Due to flooding, pregnant women and emergency patients from a hospital were airlifted to Udugama Hospital. Two individuals are missing in the Tavalama area. Army and Navy relief teams equipped with boats and safety gear are assisting in rescues across several regions.
 
-நெலுவ வைத்தியசாலைக்கு நோயாளர் காவு வண்டிகள் செல்ல முடியாத காரணத்தினால் தாய்மார்கள் மற்றும் நோயாளிகள் ஹெலிகொப்டரில் அழைத்து வரப்படுவதாகவும் அவர் கூறினார்.
+🟩
 
-இதேவேளை, கடும் மழையுடன் கூடிய ஜிங்கங்கை பெருக்கெடுத்துள்ளதால் தவலம பிரதேசத்தில் இருவர் காணாமல் போயுள்ளதாக காலி மாவட்ட பதில் மாவட்ட ஆணையாளர் சாமி ராஜகருணா தெரிவித்தார்.
+All the roads going to the hospital have been flooded and all pregnant mothers and emergency patients in the hospital have been transferred to the Udugama Hospital by helicopters, said Galle District Community Health Medical Officer Aila Chandrasiri.
 
-தவலம, நெலுவ, உடுகம, ஹினிதும முதலான பகுதிகளில் பாதிக்கப்பட்ட மக்களை காப்பாற்றுவதற்காக இராணுவம் மற்றும் கடற்படையின் நிவாரண சேவைக் குழுக்கள் படகுகள் மற்றும் பாதுகாப்பு உபகரணங்களுடன்  அந்தப் பகுதிகளுக்கு அனுப்பி வைக்கப்பட்டுள்ளனர்.
+He also said that mothers and patients were brought in a helicopter because the patient could not go to the Neluwa Hospital.
 
-அதன்படி, நிவாரணப் பணிக்குழுவினர் வெள்ளம் சூழ்ந்த பகுதிகளுக்குச் சென்று பாதிக்கப்பட்ட மக்களை மீட்டு பாதுகாப்பான இடங்களுக்கு அழைத்துச் செல்ல நடவடிக்கை எடுத்தனர்.
+Meanwhile, Galle District Commissioner Sami Rajakaruna said that two persons have disappeared in the Tavalama area due to heavy rains.
+
+Army and Navy Relief Service Committees have been sent to those areas with boats and safety equipment to save the affected people in the areas of Tawalama, Neluwa, Udugama and Hiniduma.
+
+Accordingly, the Relief Task Force went to the flooded areas and took steps to rescue the victims and take them to safe places.
 
 ◼️
 
 [Data](articles/da36a55d.json)
 
+[Extended Data](ext_articles/da36a55d.ext.json)
+
 ---
 
-### කාලගුණවිද්‍යා දෙපාර්තමේන්තුවෙන් රතු අනතුරු ඇඟවීමක්
+### Red warning from the Department of Meteorological Department
 
 *2024-06-02 14:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197285) · `si`
 
-කාලගුණවිද්‍යා දෙපාර්තමේන්තුව විසින් තද වැසි පිළිබඳව රතු අනතුරු ඇඟවීමේ නිවේදනයක් නිකුත් කර තිබේ.
+The Department of Meteorology has issued a red warning due to heavy showers expected in the Western, Sabaragamuwa, and North Western provinces, including the Galle and Matara districts. The public is advised to prepare for strong winds, lightning, and thunderstorms. Significant rainfall amounts have been recorded in areas like Kirindiwela (152mm), Wathupitiwala (138.5mm), and Avissawella (98.5mm).
 
-එම නිවේදනයේ දැක්වෙන්නේ බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත්, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල මිලිමීටර් 150ට වැඩි ඉතා තද වැසි ඇතිවිය හැකි බවය.
+🟩
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළං සහ අකුණු මගින් සිදුවිය හැකි අනතුරු අවම කරගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස ජනතාවගෙන් ඉල්ලා සිටී.
+The Department of Meteorology has issued a red warning statement on heavy showers.
 
-අද උදෑසන 8.30 සිට පස්වරු 2.00 දක්වා කාලය තුළ වැඩිම වර්ෂාපතනය වන මිලිමීටර් 152ක වර්ෂාවක් ලැබී ඇත්තේ කිරිඳිවැල ප්‍රදේශයටය.
+In some places in the Western, Sabaragamuwa and North Western provinces, the Galle and Matara districts can also be ranked.
 
-එම කාලසීමාව තුළ වරකාපොළ ප්‍රදේශයට මිලිමීටර් 138.5ක වර්ෂාපතනයක්, වතුපිටිවල ප්‍රදේශයට මිලිමීටර් 122.5ක වර්ෂාපතනයක්, අවිස්සාවේල්ල ප්‍රදේශයට මිලිමීටර් 98.5ක වර්ෂාපතනයක්, රත්නපුර ප්‍රදේශයට මිලිමීටර් 96.2ක් වර්ෂාපතනයක් ලැබී තිබේ.
+People call on the public to take necessary arbitrary winds and lightning with thunderstorms.
+
+The Kirindiwela area has received 152 millimeters from 152 mm of rain this morning to 2.00 am.
+
+During the time period, 138.5 mm of rainfall in Wathupitiwala, Vathupitiwala area has reached a total of 98.5 mm of rainfall in the Avissawella area.
 
 ◼️
 
 [Data](articles/165436e8.json)
+
+[Extended Data](ext_articles/165436e8.ext.json)
 
 ---
 
@@ -85,6 +155,22 @@ Accordingly, the power supply has been disconnected in several areas in the Gall
 [Data](articles/b78f6f7d.json)
 
 [Extended Data](ext_articles/b78f6f7d.ext.json)
+
+---
+
+### Power interruptions in multiple districts amid torrential rains
+
+*2024-06-02 14:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Power-interruptions-in-multiple-districts-amid-torrential-rains/108-283903) · `en`
+
+The Ministry of Power and Energy announced the disconnection of power supply to several areas in the Galle, Kalutara, Ratnapura, Colombo and Kegalle districts.
+
+The Secretary to the Ministry of Power & Energy stated that this decision was taken as a precautionary measure to ensure public safety and maintain the integrity of the power infrastructure.
+
+Residents in the affected districts are advised to remain calm and follow any further instructions from local authorities.
+
+◼️
+
+[Data](articles/0c690994.json)
 
 ---
 
@@ -496,21 +582,29 @@ The clash between Robert and fellow inmates in jail on the 19th of last month. M
 
 ---
 
-### 49 பெண்களை கொன்று  பன்றிகளுக்கு இரையாக்கியவர்  அடித்துக்கொலை
+### 49 killing and killing women
 
 *2024-06-02 12:03:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/49-பெண்களை-கொன்று-பன்றிகளுக்கு-இரையாக்கியவர்-அடித்துக்கொலை/50-338273) · `ta`
 
-1990-2000 காலகட்டத்தில் தொடர்ச்சியாக இளம்பெண்கள் பலர்   கொல்லப்பட்டனர். இதுகுறித்து பொலிஸார் வழக்குப்பதிவு செய்து விசாரணை நடத்தி வந்தனர்.  இந்த சம்பவம் கனடாவின் வான்கூவர் நகரிலேயே இடம்பெற்றுள்ளது.
+Between 1990 and 2000, Vancouver saw a series of murders where 49 women were killed by Robert Bigton, a pig farmer from Port Cocwidlam. Bigton was accused of smuggling weapons and cutting up his victims' bodies to feed his pigs. His crimes shocked the nation, leading to a life sentence in 2006. Recently, he clashed with fellow inmates, resulting in his death.
 
-இந்நிலையில் போர்ட் கோக்விட்லாம் பகுதியில் பன்றி பண்ணை நடத்திய ராபர்ட் பிக்டன் (வயது 71) சட்ட விரோதமாக ஆயுதங்களை பதுக்கி வைத்திருந்ததாக பொலிஸூக்கு புகார்கள் சென்றன.
+🟩
 
-இது குறித்து விசாரணை நடத்துவதற்காக சென்றபோது அவரது வீட்டில் உள்ள பிரிட்ஜில் ஒரு பெண்ணின் உடல் துண்டு, துண்டாக வெட்டி வைக்கப்பட்டு இருந்தது. இதனையடுத்து பொலிஸார் அவரை கைது செய்து விசாரணை நடத்தினர். அப்போது 49 பெண்களை அவர் வெட்டிக்கொன்றதும், பின்னர் அவர்களது உடலை துண்டு, துண்டாக வெட்டி தனது பண்ணையில் உள்ள பன்றிகளுக்கு இரையாக போட்டதும் தெரிய வந்துள்ளது. இந்த சம்பவம் நாட்டையே உலுக்கியது.
+In the period 1990-2000, many young women were killed. The police have registered a case and are investigating.The incident took place in Vancouver, Canada.
 
-இதுதொடர்பான வழக்கில் கடந்த 2006-ம் ஆண்டு நீதிமன்றம் அவருக்கு ஆயுள் தண்டனை வழங்கியது. இதனையடுத்து அவர் வான்கூவரில் உள்ள சிறையில் அடைக்கப்பட்டார்.
+In this case, the police complained that Robert Bigton (71 years old), who had a pig farm in the Port Cocwidlam area, had illegally smuggled weapons.
 
-...
+When a woman's body was cut in a bridges in her home when he went to investigate the matter. Subsequently, the police arrested him and investigated. It was then revealed that she had cut down 49 women and then cut off their bodies, cut them into pieces and fell prey to pigs on their farm.. The incident rocked the country.
+
+In 2006, he was sentenced to life imprisonment. He was subsequently jailed in Vancouver.
+
+The clash between Robert and fellow inmates in jail on the 19th of last month. Many prisoners then attacked him. He was subsequently admitted to the hospital for treatment. But he died without treatment.
+
+◼️
 
 [Data](articles/b3b8c03f.json)
+
+[Extended Data](ext_articles/b3b8c03f.ext.json)
 
 ---
 
@@ -647,6 +741,26 @@ As per the instructions of the Army Commander, Security Forces Commanders have b
 [Data](articles/85e0c321.json)
 
 [Extended Data](ext_articles/85e0c321.ext.json)
+
+---
+
+### Live updates : Adverse weather
+
+*2024-06-02 11:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Live-updates-Adverse-weather/155-283899) · `en`
+
+2.15 PM - The Ministry of Power & Energy has announced the disconnection of power supply to several areas in Galle, Kalutara, Ratnapura, Colombo, and Kegalle districts.
+
+01.20 PM - Army troops have been deployed in various areas to conduct rescue operations and provide relief to those affected by severe flooding in low-lying regions around the rivers, caused by adverse weather conditions across the island.
+
+Troops have been deployed to Kiriella, Dehiowita, Moravaka, Thawalama, Thihagoda, and Neluwa areas.
+
+Additionally, the Army has established cooking facilities in the Malimbada and Salawa areas to provide meals for displaced individuals.
+
+As per the instructions of the Army Commander, Security Forces Commanders have been directed to ensure that troops maintain a state of readiness to respond promptly to any emergency situations and continue rescue operations as needed.
+
+...
+
+[Data](articles/e17945ba.json)
 
 ---
 
@@ -787,6 +901,18 @@ Police have investigated the incident and arrested the suspect and detained the 
 [Data](articles/91f81917.json)
 
 [Extended Data](ext_articles/91f81917.ext.json)
+
+---
+
+### අධ්‍යාපන අමාත්‍යාංශයෙන් විශේෂ නිවේදනයක්
+
+*2024-06-02 11:10:35* · [`adalk`](https://www.ada.lk/breaking_news/අධ්‍යාපන-අමාත්‍යාංශයෙන්-විශේෂ-නිවේදනයක්/11-409958) · `si`
+
+ජාතික පාසල්වල අතරමැදි ශ්‍රේණි සඳහා 2024 වර්ෂයට අදාල අයදුම්පත් ජූනි 3වැනි දා සිට භාර ගනු නොලබන බව අධ්‍යාපන අමාත්‍යාංශය නිවේදනය කරයි. ඒ අනුව අධ්‍යාපන අමාත්‍යංශයට හෝ පාසල්වලට අයදුම්පත් යොමු කිරීමෙන් වලකින ලෙස අධ්‍යාපන අමාත්‍යාංශය වැඩිදුරටත් පවසයි.
+
+◼️
+
+[Data](articles/ef560afa.json)
 
 ---
 
@@ -2081,147 +2207,5 @@ The supporters were scattered in front of the police after making the statement.
 [Data](articles/5e0adfaa.json)
 
 [Extended Data](ext_articles/5e0adfaa.ext.json)
-
----
-
-### Sri Lanka wins two International Karanayake in Battaa Tissa Vidyalaya
-
-*2024-06-01 19:47:08* · [`adalk`](https://www.ada.lk/sports/බටපොළ-කල්‍යාණ-තිස්ස-විදුහලේ-අමාෂා-ලංකාවට-ජාත්‍යන්තර-කරාතේ-ජය-දෙකක්-ගෙනයි/9-409952) · `si`
-
-Sri Lanka's school karate team won two medals in Malaysia, including a second place in Kata Section 3. This success comes under the Sri Lanka School Karata Do Society, supported by the Ministry of Homes.
-
-🟩
-
-At the Karate Tournament in Malaysia's Karate Tournament representing teachers in the Sri Lanka School Karatra Do Society of Sri Lanka.. The Ministry of Hosmas has achieved two international competitions.
-
-She was a third location of the Catta Section 2nd. The tournament was held on May 26, May 26, Kulampper in Malaysia.
-
-◼️
-
-[Data](articles/ff8306b5.json)
-
-[Extended Data](ext_articles/ff8306b5.ext.json)
-
----
-
-### Jeevan Thondaman who came to the Nuwara Eliya Police Station;what happened?
-
-*2024-06-01 19:07:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/நுவரெலிய-பொலிஸ்-நிலையத்திற்கு-வந்த-ஜீவன்-தொண்டமான்-நடந்தது-என்ன/76-338248) · `ta`
-
-Minister Jeevan Thondaman and his supporters from the Ceylon Workers Congress protested at the Nuwara Eliya Police Station over worker dismissals at a plantation company. The protest led to a temporary halt in operations but ended peacefully after the administration agreed to rehire the workers and ensure their rights.
-
-🟩
-
-Jeevan Thondaman, the General Secretary and Minister of the Ceylon Workers Congress and the supporters of the Ceylon Workers Congress, visited the Nuwara Eliya Police Station this evening.
-
-The plantation administration has recently fired workers at the Nuwara Eliya - Udarattala - Beetru Plantation Company.
-
-Subsequently, members and supporters of the Ceylon Workers Congress led by Minister Jeevan Thondaman went to the protest and suspended the work of the factory owned by the Kelaniweli estate.
-
-Following this, the protest was called off after the estate administration promised to recruit the dismissed workers.
-
-The plantation administration has lodged a complaint at the Nuwara Eliya Police Station regarding the incident.
-
-The plantation administration has lodged a complaint against Minister Jeevan Thondaman and former provincial council member Sakthivel, who has been disrupted by his work.
-
-...
-
-[Data](articles/2e92491c.json)
-
-[Extended Data](ext_articles/2e92491c.ext.json)
-
----
-
-### 20 drown in boat accident in eastern Afghanistan
-
-*2024-06-01 18:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/20-drown-in-boat-accident-in-eastern-Afghanistan/108-283889) · `en`
-
-ISLAMABAD— At least 20 people were killed when a boat sank while crossing a river in eastern Afghanistan Saturday morning, a Taliban official said. Quraishi Badlon, provincial director of the information and culture department in Nangarhar province, said that the boat sank while crossing a river in Mohmand Dara district, killing 20 people including women and children. Badlon said that the boat was carrying 25 people, according to village residents, of whom five survived. So far five bodies have been retrieved including a man, a woman, two boys and a girl, said the Nangarhar health department in a statement. It added that a medical team and ambulances were sent to the area. The officials didn’t provide details on the cause of the accident and said that rescuers are still searching for other bodies. Residents of the area frequently use locally made boats to travel between villages and local markets.
-
-◼️
-
-[Data](articles/a0e411dc.json)
-
-[Extended Data](ext_articles/a0e411dc.ext.json)
-
----
-
-### Tharushi and Aruna clinch gold at Taiwan Athletics Open
-
-*2024-06-01 18:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/99583/tharushi-and-aruna-clinch-gold-at-taiwan-athletics-open) · `en`
-
-Sri Lankan sprinter Aruna Dharshana won gold in the Men’s 400m event at the Taiwan Athletics Open 2024.
-
-Dharshana claimed first place in the final on Saturday (01) with a timing of 45.82 seconds.
-
-Meanwhile, Sri Lanka’s Tharushi Karunarathne also won gold in the Women’s 400m event with a timing of 52.48 seconds at the Taiwan Athletics Open – 2024.
-
-Taiwan Athletics Open is a bronze-level tournament on the World Athletics Continental Tour with crucial ranking points.
-
-◼️
-
-[Data](articles/01756023.json)
-
-[Extended Data](ext_articles/01756023.ext.json)
-
----
-
-### ரங்க பண்டாரவின் உரத்த சிந்தனையும் ரணிலின் தேர்தல் பிரசாரமும்
-
-*2024-06-01 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84126) · `en`
-
-ஐக்கிய தேசிய கட்சியின் பொதுச்செயலாளர் பாலித ரங்க பண்டாரவின் ஓரங்க நாடகத்தினால் இலங்கை அரசியல் அரங்கு கடந்தவாரம்  சுறுசுறுப்படைந்தது. பொலிஸ்காரராக இருந்து அரசியல்வாதியாக மாறிய அவர் மே 28 கொழும்பில்
-
-செய்தியாளர்கள் மகாநாடொன்றில் உரையாற்றியபோது இவ்வருடம் நடைபெறவிருக்கும் ஜனாதிபதி தேர்தலும்  அடுத்த வருடம் நடத்தப்பட வேண்டியிருக்கும் பாராளுமன்ற தேர்தலும் ஒத்திவைக்கப்படவேண்டும் என்கிற அதேவேளை  ஜனாதிபதியினதும் பாராளுமன்றத்தினதும் பதவிக்காலங்கள் இரு வருடங்களினால் நீடிக்கப்படவேண்டும் என்று யோசனையை முன்வைத்தார். அதற்காக பாராளுமன்றத்தில் தீர்மானம் ஒன்று நிறைவேற்றப்படவேண்டும் என்றும் மக்களின் அங்கீகாரத்தைப் பெறுவதற்கு சர்வஜன வாக்கெடுப்பு ஒன்று நடத்தப்படவேண்டும் என்றும் முன்னாள் புத்தளம் மாவட்ட பாராளுமன்ற உறுப்பினரும் இராஜாங்க அமைச்சருமான அவர் கூறினார்.
-
-...
-
-[Data](articles/27fade72.json)
-
-[Extended Data](ext_articles/27fade72.ext.json)
-
----
-
-### Aruna and Tharushi first place in 400m events
-
-*2024-06-01 18:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197255) · `si`
-
-Sri Lankans Aruna and Tharushi won the 400m events at the Taiwane Open Athletic Festival, finishing in 45.82 and 52.48 seconds respectively.
-
-🟩
-
-A Sri Lankan player and a player have won the first places in the Taiwane Open Athletic Festival.
-
-The first place has been held, Aruna and Tharushi Knowing.
-
-Aruna showed 400m events were completed by 45.82 seconds, and Tharushi Karunaratne won the first place in 52.48 seconds.
-
-◼️
-
-[Data](articles/c19520d0.json)
-
-[Extended Data](ext_articles/c19520d0.ext.json)
-
----
-
-### Govt to hold talks with striking university non-academic staff
-
-*2024-06-01 18:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/99582/govt-to-hold-talks-with-striking-university-non-academic-staff) · `en`
-
-State Minister of Higher Education Dr. Suren Raghavan says that the government intends to engage in discussions with the university non-academic staff trade unions currently on strike over various demands.
-
-“Discussions with the union leaders currently on strike are scheduled for next Monday. We hope to reach a mutually agreeable solution,” he said.
-
-Addressing a press briefing held at the Presidential Media Centre (PMC) on Friday (31), State Minister Raghavan emphasized that the government, including President Ranil Wickremesinghe, is committed to finding the best possible resolution.
-
-He stressed that the ongoing strike is causing a direct financial loss of around Rs. 150 million and wasting 1.8 million man-hours. “Therefore, our government must not waste any more time.”
-
-The state minister also explained that in order to meet the demands of the trade unions, including a salary increase, around Rs. 1.1 billion will be needed for the next six months.
-
-...
-
-[Data](articles/90373ef4.json)
-
-[Extended Data](ext_articles/90373ef4.ext.json)
 
 ---

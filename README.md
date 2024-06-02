@@ -1,36 +1,56 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-02 11:18:53**
+As of **2024-06-02 11:34:27**
 
 ## Newspaper Stats
 
-*Scraped **27,811** Articles*
+*Scraped **27,818** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 252
+colombotelegraphcom | 253
 dbsjeyarajcom | 269
 bbccomsinhala | 274
 newsfirstlk | 363
 islandlk | 1,507
 economynextcom | 1,585
 dailyftlk | 1,635
-adalk | 2,368
+adalk | 2,369
 adaderanalk | 3,162
 tamilmirrorlk | 3,259
-virakesarilk | 4,282
-dailymirrorlk | 4,406
+virakesarilk | 4,286
+dailymirrorlk | 4,407
 adaderanasinhalalk | 4,449
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,810 (100.0%) of 27,811 articles have been extended.
+27,811 (100.0%) of 27,818 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-02 (Sunday)
+
+### Sri Lankan High Commissioner invites King Charles III to visit Sri Lanka
+
+*2024-06-02 11:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankan-High-Commissioner-invites-King-Charles-III-to-visit-Sri-Lanka/108-283897) · `en`
+
+London, June 2 (Daily Mirror) - Sri Lanka's High Commissioner to the United Kingdom, Rohitha Bogollagama, extended an invitation to King Charles III to visit Sri Lanka, while presenting his Letter of Credence at Buckingham Palace.
+
+Accompanied by his spouse, Deepthi Bogollagama, they arrived at the palace in traditional horse carriages from the Royal Mews.
+
+The Sri Lankan High Commission said that Bogollagama is the first Sri Lankan envoy to present credentials to King Charles III.
+
+On behalf of President Ranil Wickremesinghe, High Commissioner extended an invitation to the King to undertake a visit to Sri Lanka.
+
+Discussions during the audience centered on the enduring relations between the two countries, Sri Lanka's role in the Commonwealth, and the upcoming Commonwealth Heads of Government meeting in Samoa.
+
+...
+
+[Data](articles/c3b20b81.json)
+
+---
 
 ### Major flood situation in Millakanda and Pitabeddara
 
@@ -41,6 +61,8 @@ Major flood situations have been reported in Millakanda area of Kalu River and P
 ◼️
 
 [Data](articles/a9c20d5a.json)
+
+[Extended Data](ext_articles/a9c20d5a.ext.json)
 
 ---
 
@@ -136,6 +158,54 @@ Police say the murder had been carried out with a dispute with a resident of a r
 
 ---
 
+### ஜனாதிபதி தேர்தல் தொடர்பாக இவ்வாரம் முக்கிய அறிவிப்பு : ரணில் - மஹிந்த புதன்கிழமை சந்திப்பு
+
+*2024-06-02 09:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/185092) · `ta`
+
+2024ஆம் ஆண்டு ஜனாதிபதி தேர்தல் தொடர்பில் அரசாங்கத்திடமிருந்து இந்த வாரம் முக்கிய அறிவிப்பு வெளியிடப்படவுள்ள நிலையில், ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கும் ஸ்ரீலங்கா பொதுஜன பெரமுனவின் தலைவர் மஹிந்த ராஜபக்ஷ உள்ளிட்டவர்களுக்கும் இடையிலான விசேட கலந்துரையடல் 5ஆம் திகதி புதன்கிழமை இடம்பெறவுள்ளது.
+
+இதேவேளை,  ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கு ஆதரவாக ஐக்கிய மக்கள் சக்தி உட்பட ஏனைய எதிர்க்கட்சிகளின் உறுப்பினர்கள் சிலர் ஐக்கிய தேசிய கட்சியுடன் ஒன்றிணைவார்கள் என்று கூறப்படுவதுடன், அந்த வகையில், பாராளுமன்ற உறுப்பினர் ராஜித சேனாரத்ன முதலில் இணைவார் என்று எதிர்பார்க்கப்படுகின்றது.
+
+ஆளும் ஸ்ரீலங்கா பொதுஜன பெரமுனவுக்கும் ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கும் இடையில் ஜனாதிபதி தேர்தலை மையப்படுத்திய பேச்சுவார்த்தைகள் மிக நீண்டகாலமாக இடம்பெற்று வருகின்றது. அந்த பேச்சுவார்த்தைகள் தற்போது இறுதிக்கட்டத்தை அடைந்துள்ளன. பொதுஜன பெரமுனவின் தலைவர் மஹிந்த ராஜபக்ஷ எதிர்வரும் 17ஆம் திகதி ஜனாதிபதி தேர்தல் தொடர்பிலான கட்சியின் நிலைப்பாட்டை அறிவிக்கவுள்ளார்.
+
+...
+
+[Data](articles/808bd5ed.json)
+
+---
+
+### உயிர்த்த ஞாயிறு தாக்குதல் விசாரணைகளை துரிதப்படுத்தவே  சட்டமா அதிபரின் பதவிக்காலத்தை நீடித்தேன் - ஜனாதிபதி
+
+*2024-06-02 09:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/185091) · `ta`
+
+இஸ்லாமிய அடிப்படைவாதிகளினால் மேற்கொள்ளப்பட்ட உயிர்த்த ஞாயிறு தற்கொலை குண்டு தாக்குதல் தொடர்பான விசாரணைகளில் பேராயர் இல்லத்துடனான தொடரபாடல் குழுவில் சட்டமாதிபர் முக்கிய பங்கை வகிப்பதனால் அவரின் சேவை காலத்தை நீடிக்க தீர்மானித்ததாக ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்துள்ளார்.
+
+சட்டமா அதிபர் சஞ்சய் ராஜரட்ணத்தின் பதவிக்காலம் நீடிக்கப்பட்டமை தொடர்பில் ஜனாதிபதி அலுவலகத்தில் கடந்த வியாழக்கிழமை இடம்பெற்ற கலந்துரையாடலின்போது கேள்வியெழுப்பப்பட்டது. இதற்கு பதிலளிக்கையிலேயே ஜனாதிபதி மேற்கண்டவாறு கூறினார்.
+
+2019ஆம் ஆண்டில் இஸ்லாமிய அடிப்படைவாதிகளினால் மேற்கொள்ளப்பட்ட உயிர்த்த ஞாயிறு தற்கொலை குண்டு தாக்குதல் தொடர்பான ஜனாதிபதி விசாரணை ஆணைக்குழுவின் அறிக்கையை இலங்கை ஆயர்கள் பேரவையிடம்  கையளிக்கப்பட்டுள்ளது. இந்த பேரவையின் தலைவர் வணக்கத்துக்குரிய ஹெரல்ட் என்டனி பெரேரா மற்றும் குருநாகல் ஆயர் ஆகியோருடன் தொடர்புகொள்வதற்காக ஜனாதிபதி செயலாளர் சமன் ஏக்கநாயக்க, தேசிய பாதுகாப்பு ஆலோசகர் சாகல ரத்நாயக்க மற்றும் சட்டமா அதிபர் சஞ்சய் ராஜரட்ணம் ஆகிய மூவர்கொண்ட குழு நியமிக்கப்பட்டது.
+
+...
+
+[Data](articles/885f891c.json)
+
+---
+
+### ගිං ගඟ සැරවෙයි
+
+*2024-06-02 09:49:26* · [`adalk`](https://www.ada.lk/breaking_news/ගිං-ගඟ-සැරවෙයි/11-409956) · `si`
+
+අද (2) උදෑසන වන විට ගිංගඟ ද්‍රෝණියේ ධාරා ප්‍රදේශවලට සැලකිය යුතු ලෙස අධික වර්ෂාවක් ලැබී ඇති හෙයින් ගාල්ල දිස්ත්‍රික්කයේ නෙළුව ,තවලම,නාගොඩ, නියාගම,වැලිවිටිය දිවිතුර ,ඇල්පිටිය ,අක්මීමන ,බද්දේගම සහ බෝපේ පෝද්දල ප්‍රාදේශීය ලේකම් කොට්ටාසවලට අයත් ගිංගඟ නිම්නයේ පහත්බිම් ප්‍රදේශවලට ගංවතුර  තත්වයක් ඇතිවිය හැකි බවට මේ මොහොතේ සිට  වාරිමාර්ග දෙපාර්තමේන්තුව අනතුරු අඟවයි.
+
+මේ පිළිබඳව දැඩි සැලකිල්ලකින් කටයුතු කරන ලෙස එම ප්‍රදේශවල පදිංචිකරුවන්ගෙන් හා එම  ප්‍රදේශ හරහා ගමන් ගන්නා වාහන පදවන්නන්ගෙන් වාරිමාර්ග  දෙපාර්තමේන්තුව ඉල්ලා සිටි.
+
+මෙම ගංවතුර ඇඟවීමේ නිවේදනය අනිද්දා (4) දින පෙරවරු 3.00 දක්වා වලංගු බව  වාරිමාර්ග අධ්‍යක්ෂ ( ජල විද්‍යා  හා ආපදා කළමනාකරණය) ඉංජිනේරු එස්.පී .සී .සුගීශ්වර මහතා පැවසිය .
+
+◼️
+
+[Data](articles/873cf1c3.json)
+
+---
+
 ### Co-hosts USA beat Canada in T20 World Cup opener
 
 *2024-06-02 09:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Co-hosts-USA-beat-Canada-in-T20-World-Cup-opener/108-283893) · `en`
@@ -181,6 +251,22 @@ At the bowling kaleem sana, Dillon HEYLIGER and NIKHIL DUTTA took one wicket.
 [Data](articles/755478be.json)
 
 [Extended Data](ext_articles/755478be.ext.json)
+
+---
+
+### அவிசாவளையில் வெள்ளத்தில் சிக்கி ஒரே குடும்பத்தைச் சேர்ந்த மூவர் உயிரிழப்பு!
+
+*2024-06-02 09:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/185088) · `ta`
+
+அவிசாவளை, புவக்பிட்டிய, எலிஸ்டன்வத்தை , கெகில்ல பிரதேசத்தில் வெள்ளத்தில் சிக்கி ஒரே குடும்பத்தைச் சேர்ந்த மூவர் உயிரிழந்துள்ளனர்.
+
+உயிரிழந்தவர்களுள் 36 வயதான தாய், 7 வயதான மகள் மற்றும் 78 வயதான பாட்டன்  ஆகியோர்  அடங்குவர்.
+
+இன்று ஞாயிற்றுக்கிழமை (02) காலை 2 மணிக்கும் 3 மணிக்கும் இடைப்பட்ட நேரத்தில்  வீட்டின் அருகில் உள்ள ஆற்றில் ஏற்பட்ட வெள்ளப்பெருக்கு காரணமாக இவர்கள் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/95cd750c.json)
 
 ---
 
@@ -269,6 +355,24 @@ University allegations engage in strike. It is unfortunate that this is unfortun
 [Data](articles/3a1e8271.json)
 
 [Extended Data](ext_articles/3a1e8271.ext.json)
+
+---
+
+### முட்டுக்கொடுத்து நாட்டை கட்டியெழுப்ப முடியாது - அநுரகுமார
+
+*2024-06-02 09:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/185085) · `ta`
+
+முழுமையாக சீர்குலைந்த நாட்டிற்கு ஒருபக்கத்தில்மட்டும் முட்டுக்கொடுத்து கட்டியெழுப்ப முடியாது என்று தேசிய மக்கள் சக்தியின் தலைவரும் கொழும்பு மாவட்ட பாராளுமன்ற உறுப்பினருமான அநுரகுமார திசாநாயக்க தெரிவித்தார்.
+
+கொழும்பில் நேற்று சனிக்கிழமை (1) நடைபெற்ற துறைசார் பொறியியலாளர்களின் மாநாட்டில் கலந்துகொண்டு உரையாற்றும்போதே அவர் மேற்கண்டவாறு தெரிவித்தார்.
+
+நாட்டில் உள்ளதுறை சார்ந்த நிபுணர்களில் பொறியிலாளர்களின் பங்கு மிகவும் முக்கியமானது. குறிப்பாக, வெவ்வேறு துறைசார்ந்த பொறியியலாளர்கள் சாதனையாளர்களாக இருக்கின்றார்கள். அவர்களின் திறமைகளை நாடு முழுமையாக உள்வாங்கவில்லை. அவ்வாறு உள்வாங்கியிருந்தால் நாட்டில் தற்போதைய நிலைமைகள் ஏற்பட்டிருக்காது.
+
+நாடு முழுமையாக சீர்குலைந்து விட்டது. நாட்டை மீண்டும் கட்டியெழுப்புவதாக இருந்தால் ஒருபக்கத்தில் மட்டும் முட்டுக்கொடுத்து நிமிர்த்திவிட முடியாது. ஆனால் தற்போது நாட்டில் இருக்கின்ற சிலர் அவ்வாறு தான் நாட்டைக்கட்டியெழுப்புவதற்கு முனைகின்றார்கள். அது நீண்டகாலத்திற்கு சாத்தியமானவிடயமாகஅமையப்போவதில்லை.
+
+...
+
+[Data](articles/ab38709d.json)
 
 ---
 
@@ -515,6 +619,18 @@ Accordingly, they decided to give Canada to the chance of batting first.
 [Data](articles/a8126972.json)
 
 [Extended Data](ext_articles/a8126972.ext.json)
+
+---
+
+### How Does Voters’ Thinking Shape The Policy Interventions Of The Government?
+
+*2024-06-02 05:28:05* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/how-does-voters-thinking-shape-the-policy-interventions-of-the-government/) · `en`
+
+In any unfavourable circumstances, it is easy for us to blame others without critically examining the issue. Similarly, politicians are often blamed for the short-term oriented, popular policy interventions of governments, which are considered unhealthy for the long-term of the economy. However, we need to see this issue from multiple perspectives for a better understanding.
+
+...
+
+[Data](articles/4b1b8c4b.json)
 
 ---
 
@@ -2071,183 +2187,5 @@ Especially on Saturdays and Sunday holidays, a large number of people from the o
 [Data](articles/6a210ed6.json)
 
 [Extended Data](ext_articles/6a210ed6.ext.json)
-
----
-
-### Indian police uncover plot to murder Salman Khan and escape to Sri Lanka
-
-*2024-06-01 13:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/99577/indian-police-uncover-plot-to-murder-salman-khan-and-escape-to-sri-lanka) · `en`
-
-AK-47 and M-16 rifles from Pakistan, minor sharpshooters and an escape plan to Sri Lanka - Indian police have uncovered chilling details of an assassination plot to kill Bollywood actor Salman Khan.
-
-The Lawrence Bishnoi gang had allegedly conspired to strike Mr Khan’s car in Maharashtra’s Panvel, armed with weapons sourced from a Pakistani arms supplier.
-
-The intricate plan, allegedly hatched by the Lawrence Bishnoi gang, involved a sophisticated network of operatives and a cache of high-powered weapons. According to Navi Mumbai police sources, the gang enlisted the help of 60 to 70 individuals, each assigned specific roles in the execution of the diabolical plot.
-
-Central to the scheme was the use of minors as shooters. The plan aimed to strike at Mr Khan’s vehicle in Panvel or target his secluded farmhouse.
-
-...
-
-[Data](articles/7b6f8775.json)
-
-[Extended Data](ext_articles/7b6f8775.ext.json)
-
----
-
-### New decision about tame elephants
-
-*2024-06-01 13:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197243) · `si`
-
-The Court of Appeal has mandated legal action against individuals keeping unregistered tame elephants, directing the Attorney General and Criminal Investigation Department to enforce this. This decision follows a petition by several environmental and cultural organizations, advocating for the release of registered wildlife. The court also prohibited the release of elephants held by the Department of Wildlife, emphasizing the importance of proper licensing and registration.
-
-🟩
-
-The Court of Appeal has ordered to take legal action against people who hold the tame elephants without proper registration.
-
-The Director General of Wildlife Director General has issued the order to the Attorney General and the Criminal Investigation Department, announcing the verdict of the Rit petition filed by the Court of Appeal.
-
-Several organizations including the Environment and Cultural Studies of the Environmental Gotabhaya, including the release of the Wildlife to release the gazette notification of the Wildlife to release the gazette notification to release the gazette notice to the release of their ownership..
-
-Accordingly, the Rit petition was considered before the panel of judges and President's Counsel Sanjeewa Jayawardena for the petitioner party.
-
-The lack of bipolar panel license has been taken to release the elephants of the wildlife to re-release the elephants who have returned to their owners.
-
-...
-
-[Data](articles/efdd034a.json)
-
-[Extended Data](ext_articles/efdd034a.ext.json)
-
----
-
-### Suspect arrested at Paris Olympic Games
-
-*2024-06-01 13:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197242) · `si`
-
-French authorities arrested an 18-year-old suspected of plotting a terrorist attack on the Paris Olympic Games. The suspect, of Chechen origin, had photos and videos of the stadium on his devices. His target was the Jopua Gssha of Sonth Eitan event. Security measures include 20,000 army soldiers and 40,000 police officers from France and abroad.
-
-🟩
-
-A young man who was planning to carry a terrorist attack on a stadium in the Paris Olympic Games.
-
-The French security forces have arrest an 18-year-old youth who planned to launch an attack targeting the 2024 Paris Olympic Games, which will begin in another few weeks.
-
-The French media has reported that photos and videos in the stadium have been found on the travelers of the suspect's phone and computer.
-
-The suspect's plan was targeting the Jopua Gssha of Sonth Eitan, which will be held at the Paris Olympic Games.
-
-Minister of External Affairs of France
-
-The identity of the Chechenian origin, which is said to be an extreme Islamic ideologist, has not yet been detected.
-
-The Paris Olympic Games, 20,000 army soldiers and 40,000 policemen and the army and police officers in foreign countries have been marked.
-
-◼️
-
-[Data](articles/7564780a.json)
-
-[Extended Data](ext_articles/7564780a.ext.json)
-
----
-
-### Bus fares can be revised only if diesel drops to Rs. 307 per litre: NTC, bus associations
-
-*2024-06-01 13:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Bus-fares-can-be-revised-only-if-diesel-drops-to-Rs-307-per-litre-NTC-bus-associations/108-283880) · `en`
-
-Colombo, June 1 (Daily Mirror) - The National Transport Commission (NTC) and private bus associations announced today that bus fares could be revised only if diesel prices drop to Rs. 307 per litre.
-
-NTC Chairman Shashi Welgama told the Daily Mirror that a bus fare revision can only occur if there is a 4% reduction in diesel prices, as stipulated by the national bus fare revision policy.
-
-However, the recent reduction in diesel prices was only 2.8%. With the recent fuel price adjustment, Auto Diesel decreased Rs. 16, bringing its current selling price to Rs. 317 per litre.
-
-Meanwhile, the Lanka Private Bus Owners' Association (LPBOA) chairman Gemunu Wijerathne said said that people are expecting a bus fare reduction following the recent diesel price adjustment.
-
-Unfortunately, due to the recent fuel price revision and the bus fare revision policy stipulations, a bus fare reduction is currently not possible, Wijerathne said.
-
-...
-
-[Data](articles/e6043ace.json)
-
-[Extended Data](ext_articles/e6043ace.ext.json)
-
----
-
-### Michelle Obama’s mother, Marian Robinson, dies at 86
-
-*2024-06-01 13:38:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Michelle-Obamas-mother-Marian-Robinson-dies-at-86/108-283879) · `en`
-
-(BBC) - Marian Robinson, the mother of former US First Lady Michelle Obama, has died at 86.
-
-In a statement, her family said that Robinson had died "peacefully" on Friday morning.
-
-Robinson was a well-known fixture at the White House during the eight years of Barack Obama's administration between 2009-17.
-
-She spent much of that time taking care of her two granddaughters, Malia and Sasha, daughters to Michelle and Barack Obama.
-
-In a statement posted on X, formerly Twitter, Mrs Obama called her mother her "rock, always there for whatever I needed".
-
-"She was the same steady backstop for our entire family, and we are heartbroken to share she passed away today," she wrote.
-
-In a separate tweet, Mr Obama said that “there was and will be only one Marian Robinson”.
-
-“In our sadness, we are lifted up by the extraordinary gift of her life,” he added. “And we will spend the rest of ours trying to live up to her example.”
-
-...
-
-[Data](articles/df3b48e8.json)
-
-[Extended Data](ext_articles/df3b48e8.ext.json)
-
----
-
-### Queue to take fuel
-
-*2024-06-01 13:35:53* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්ධන-ගන්න-පෝලිම්/11-409951) · `si`
-
-Fuel prices dropped from midnight, except for octane, white diesel, and kerosene. Only 95 Octane and Super Diesel were available, leading to confusion among customers who bought fuel unaware of the price drop.
-
-🟩
-
-According to the monthly Pricing amendment formula, the fuel prices were decreased from midnight yesterday (31), but there were no prices of octan, white diesel, white diesel, white diesel and kerosene.
-
-One fuel was only available on the issuance of 95 Octane and Super Diesel.
-
-Customers say the fuel owners who learned that fuel prices were released yesterday due to the purchase of fuel fuel at the time.
-
-◼️
-
-[Data](articles/81ba497f.json)
-
-[Extended Data](ext_articles/81ba497f.ext.json)
-
----
-
-### Gang
-
-*2024-06-01 13:30:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/திடீரென-புகுந்து-சரமாரியாக-வெட்டிய-கும்பல்/73-338232) · `ta`
-
-In Akkaraipattu, seven seriously injured individuals were rushed to the hospital after a violent attack involving a group wielding swords. Homes were destroyed, and vehicles were damaged. The community, particularly in the Vachikuda region, is terrified and concerned about their safety. The attackers, armed with swords, targeted both residents and passersby, including those trying to seek refuge. The incident, which lasted approximately 30 minutes, has left the area in shock. The local police have initiated an investigation into the matter.
-
-🟩
-
-Seven persons have been admitted to the Akkaraipattu Base Hospital with serious injuries at the Alayadivembu Divisional Secretariat Division of the Akkaraipattu Police Division.
-
-Some of the civilians were attacked and some of the house were smashed and the motorcycles that went by the street were damaged.
-
-People say that the damage was caused by the attack of a small group of swords.
-
-The people living in the Vachikuda region are in great fear and their security is in question.
-
-A small group of swords bearing a man chased asylum. As a result, a group of sword -bearing group has been attacked.
-
-At the time, the people in the house were targeted for the sword and some neighbors who entered the house were attacked.. Meanwhile, the crew attacked the people on the road and the motorcycle on the road was attacked.
-
-Some of the civilians who stumbled upon the attack are running to save their lives. Eyewitnesses say that the area was shocked by the incident, which lasted for about 30 minutes.
-
-...
-
-[Data](articles/77e25672.json)
-
-[Extended Data](ext_articles/77e25672.ext.json)
 
 ---

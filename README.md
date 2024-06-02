@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-03 01:04:03**
+As of **2024-06-03 01:19:09**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,482
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,962 (100.0%) of 27,965 articles have been extended.
+27,965 (100.0%) of 27,965 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -44,6 +44,8 @@ Golfers may remember how, at the turn of the century, Tiger Woods dominated the 
 
 [Data](articles/86dde91f.json)
 
+[Extended Data](ext_articles/86dde91f.ext.json)
+
 ---
 
 ### Can any candidate achieve 50%+1 at presidential polls - EDITORIAL
@@ -59,6 +61,8 @@ The 1988 election saw several election violence-related actions. That election w
 ...
 
 [Data](articles/46ccb47e.json)
+
+[Extended Data](ext_articles/46ccb47e.ext.json)
 
 ---
 
@@ -167,6 +171,8 @@ The Government has gazetted an economic transformation bill (available at: http:
 ...
 
 [Data](articles/f207cae6.json)
+
+[Extended Data](ext_articles/f207cae6.ext.json)
 
 ---
 

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-02 23:03:49**
+As of **2024-06-02 23:18:50**
 
 ## Newspaper Stats
 
@@ -26,31 +26,41 @@ adaderanasinhalalk | 4,482
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,954 (100.0%) of 27,955 articles have been extended.
+27,955 (100.0%) of 27,955 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-02 (Sunday)
 
-### ශ්‍රී ලංකා ක්‍රිකට් කණ්ඩායම ලොකු අවුලක
+### Sri Lankan cricket team in a big mess
 
 *2024-06-02 22:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197306) · `si`
 
-අමෙරිකාවේ ෆ්ලොරීඩා නුවර සිට නිව්යෝර්ක් දක්වා පැමිණි විශේෂ ගුවන් යානය ප්‍රමාද වීම හේතුවෙන් ශ්‍රී ලංකා, අයර්ලන්ත සහ දකුණු අප්‍රිකා ක්‍රීඩකයින් දැඩි අපහසුතාවට පත්ව තිබේ.
+The Sri Lankan cricket team faced significant delays from Florida to New York, causing them to miss their scheduled arrival and training sessions ahead of the World Cup final. The special plane was delayed by over 7 hours, forcing the team to cancel their initial training session and adjust their schedule upon reaching New York on June 1st, a day late. This incident led to complaints to the International Cricket Council about the airline's delay and tournament organization. Despite the setbacks, Sri Lanka is set to compete in the first match of the 20-20 World Cup against South Africa tomorrow.
 
-අදාළ විශේෂ ගුවන් යානය ෆ්ලෝරීඩා නුවරින් පිටත්වීමට නියමිතව තිබූ වේලාවට වඩා පැය 7කට වැඩි කාලයක් ප්‍රමාද වූ බව වාර්තා වේ.
+🟩
 
-ශ්‍රී ලංකා, අයර්ලන්ත සහ දකුණු අප්‍රිකා කණ්ඩායම් ෆ්ලොරීඩා හිදී පැවති පුහුණු තරගවලින් අනතුරුව ලෝක කුසලාන මූලික වටයේ තරගවලට සහභාගීවීම සඳහා නිව්‍යෝර්ක් වෙත පැමිණීමට නියමිතව තිබුණි.
+Sri Lanka, Ireland and South Africa players have been severely embarrassed due to the delay from Florida from Florida from Florida.
 
-ඔවුන්ට නිව්යෝර්ක් වෙත පැමිණීම සඳහා විශේෂ ගුවන් යානයක් වෙන්කර තිබූ අතර එම ගුවන් යානය මෙලෙස පැය 7කට වැඩි කාලයක් ප්‍රමාද වීම හේතුවෙන් ක්‍රීඩකයින් දැඩි අපහසුතාවකට පත්ව තිබේ.
+It is reported that the special plane was delayed more than 7 hours than the time of Florida.
 
-එම සම්පූර්ණ කාලයම ක්‍රීඩකයින් රැඳී සිට තිබෙන්නේ ෆ්ලොරීඩා ගුවන් තොටුපොළ තුළය.
+Sri Lanka, Ireland and South Africa were due to arrive in New York to attend the World Cup final.
 
-ඒ අනුව මැයි 31 වන සිකුරාදා රාත්‍රී 8ට නිව්යෝර්ක් වෙත ලඟාවීමට නියමිතව සිටි ක්‍රීඩකයින් නිව්යෝර්ක් වෙත ලඟාවී ඇත්තේ ජුනි 1 වන සෙනසුරාදා අලුයම 5ටය.
+A special plane has been allocated to arrive in New York and the aircraft has been deeply embarrassing due to the delay in this flight for more than 7 hours.
+
+The players have been staying at the Floraida airport.
+
+Accordingly, players who were to reach New York on Friday, 31st May have reached New York Saturday, June 1st.
+
+As a result, the Sri Lankan team canceled the training session on Saturday morning at New York Saturday morning, the session had to be held on Saturday evening.
+
+There they were able to participate instead of the batting session they planted in the morning.
 
 ...
 
 [Data](articles/c1f47491.json)
+
+[Extended Data](ext_articles/c1f47491.ext.json)
 
 ---
 

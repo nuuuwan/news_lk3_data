@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-02 08:21:17**
+As of **2024-06-02 08:34:04**
 
 ## Newspaper Stats
 
-*Scraped **27,789** Articles*
+*Scraped **27,791** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 1,507
 economynextcom | 1,585
 dailyftlk | 1,635
 adalk | 2,365
-adaderanalk | 3,160
-tamilmirrorlk | 3,256
+adaderanalk | 3,161
+tamilmirrorlk | 3,257
 virakesarilk | 4,282
 dailymirrorlk | 4,401
 adaderanasinhalalk | 4,445
@@ -26,11 +26,29 @@ adaderanasinhalalk | 4,445
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,780 (100.0%) of 27,789 articles have been extended.
+27,784 (100.0%) of 27,791 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-02 (Sunday)
+
+### Flooding kills 03 members of same family in Puwakpitiya
+
+*2024-06-02 08:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/99589/flooding-kills-03-members-of-same-family-in-puwakpitiya) · `en`
+
+Three persons from the same family including a seven-year-old girl are reported dead after drowning in flood waters at Puwakpitiya.
+
+Ada Derana reporter said a 36-year-old woman, her 78-year-old father and 07-year-old daughter have died in the floods in the Kekilla area in Puwakpitiya.
+
+Police said that that a flood situation had occurred between 2.00 and 3.00 a.m. today (02) in the canal located near their house which had been inundated, resulting in the deaths.
+
+Meanwhile another person has also died after being buried by a collapsing mound of earth at Puwakpitiya, Avissawella.
+
+◼️
+
+[Data](articles/837dc38c.json)
+
+---
 
 ### Two youths dead after earth mound collapses on house
 
@@ -81,6 +99,8 @@ General public is kindly requested to take adequate precautions to minimize dama
 ◼️
 
 [Data](articles/65a69429.json)
+
+[Extended Data](ext_articles/65a69429.ext.json)
 
 ---
 
@@ -205,6 +225,26 @@ Kayts police are conducting further investigations into the incident. (A)
 [Data](articles/25e2be5a.json)
 
 [Extended Data](ext_articles/25e2be5a.ext.json)
+
+---
+
+### ’தேர்தல்களைத் தடுப்பவர்கள் ஜனநாயக விரோதிகள்’
+
+*2024-06-02 00:23:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்களைத்-தடுப்பவர்கள்-ஜனநாயக-விரோதிகள்/175-338254) · `ta`
+
+ஒரு ஜனநாயக நாட்டில் குறிப்பிட்ட காலத்திற்குப் பின்பு தேர்தல்களை நடத்தி மக்களின் ஆணையை பெற வேண்டும். அவ்வாறு நடைபெறாமல் விட்டால் அவர்கள் ஜனநாயக - மக்கள் விரோதிகள் ஆவர் என மட்டக்களப்பு மாவட்ட பாராளுமன்ற உறுப்பினர் கோவிந்தன் கருணாகரம் தெரிவித்தார்.
+
+தனது கட்சி அலுவலகத்தில் நேற்று இடம்பெற்ற ஊடக சந்திப்பில் கலந்து கொண்டு உரையாற்றுகையிலேயே அவர் இவ்வாறு குறிப்பிட்டார். அவர் மேலும் தெரிவிக்கையில்,
+
+அரசமைப்பின் பிரகாரம் ஜனாதிபதித் தேர்தலை ஒத்தி வைக்க முடியாது என்பது எல்லோருக்கும் தெரியும். பாராளுமன்றம், நீதிமன்றம் ஊடாக அனுமதிகளைப் பெற்று, மக்கள் ஆணையின் மூலம்தான் தேர்தல்களைப் பிற்போட முடியும்.
+
+ஐக்கிய தேசியக் கட்சியின் மாறுபட்ட கருத்துகளுக்கு ஜனாதிபதி உரிய பதில்களை வழங்காது உள்ளபோது தேர்தல்கள் எவ்வாறு நடக்கும் என பொதுமக்களும் குழம்பிப் போய் உள்ளனர்.
+
+இந்த நிலையில் ஒரு ஜனநாயக நாட்டில் குறிப்பிட்ட காலத்திற்குப் பின்பு தேர்தல்களை நடத்தி மக்களின் ஆணையை பெற வேண்டும். அவ்வாறு நடைபெறாமல் விட்டால் அவர்கள் ஜனநாயக மக்கள் விரோதிகள் ஆவார் என்றார். (a)
+
+◼️
+
+[Data](articles/b6408372.json)
 
 ---
 
@@ -876,6 +916,8 @@ During our schooldays, schools used to start at 8.00 am and go on till 3.00 pm w
 
 [Data](articles/1ace6af7.json)
 
+[Extended Data](ext_articles/1ace6af7.ext.json)
+
 ---
 
 ### Jeevan Thondaman returned with a group
@@ -976,6 +1018,8 @@ The whole of this island [Mannar] is low ground, exhibiting a mixture of shells 
 
 [Data](articles/540871d7.json)
 
+[Extended Data](ext_articles/540871d7.ext.json)
+
 ---
 
 ### Apple iPhone is now an obsolete product
@@ -1033,6 +1077,8 @@ Sri Lanka’s rural landscape is dotted with as many as 14,000 such large and sm
 ...
 
 [Data](articles/aac22a80.json)
+
+[Extended Data](ext_articles/aac22a80.ext.json)
 
 ---
 
@@ -2231,49 +2277,5 @@ According to officials, five deaths were reported in Rourkela town of Sundargarh
 [Data](articles/33835a3f.json)
 
 [Extended Data](ext_articles/33835a3f.ext.json)
-
----
-
-### Person drowns from the Kumbuk tree
-
-*2024-06-01 10:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197234) · `si`
-
-A 37-year-old man drowned in a tank in Polpithigama after falling from a Kumbuk tree. The incident occurred with two friends present.
-
-🟩
-
-A person drowned in the new tyrank of Polpithigama.
-
-The suspect had drowning in the new tank with two of his friends yesterday evening.
-
-Investigations revealed that the man had dropped to a Kumbuk tree near the tank and drowned in a branch.
-
-The victim is a 37 year old resident of Polpithigama Polpithigama.
-
-◼️
-
-[Data](articles/28a6654b.json)
-
-[Extended Data](ext_articles/28a6654b.ext.json)
-
----
-
-### Tourism sector still reeling from economic crisis
-
-*2024-06-01 10:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Tourism-sector-still-reeling-from-economic-crisis/108-283874) · `en`
-
-Colombo, June 1 (Daily Mirror) - Despite the signs of recovery, the tourism sector is still struggling with the aftershocks of the economic and political crisis, Tourism Minister Harin Fernando said.
-
-Addressing a UN event, Fernando reflected upon the current state of the industry in his speech.
-
-“Many people in the tourism industry, even top-end hotels, are still facing an issue with their moratoriums, having to pay back the loans that they took because of the hit that we had from Covid as well as the economic crisis and the political crisis. People are still coming out of it. We are not far from the woods. We have lot more to go, a lot more to do,” Fernando said.
-
-The minister stressed upon the importance of a consistent tourism policy, increased government support and the urgent need of the sector to commit towards green initiatives.
-
-...
-
-[Data](articles/a119f12b.json)
-
-[Extended Data](ext_articles/a119f12b.ext.json)
 
 ---

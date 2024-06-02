@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-02 14:18:51**
+As of **2024-06-02 14:34:05**
 
 ## Newspaper Stats
 
-*Scraped **27,851** Articles*
+*Scraped **27,853** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,49 @@ islandlk | 1,507
 economynextcom | 1,587
 dailyftlk | 1,635
 adalk | 2,372
-adaderanalk | 3,167
+adaderanalk | 3,168
 tamilmirrorlk | 3,266
 virakesarilk | 4,286
 dailymirrorlk | 4,413
-adaderanasinhalalk | 4,459
+adaderanasinhalalk | 4,460
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,845 (100.0%) of 27,851 articles have been extended.
+27,851 (100.0%) of 27,853 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-02 (Sunday)
+
+### Power supply disconnected in several areas
+
+*2024-06-02 14:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/99596/power-supply-disconnected-in-several-areas-) · `en`
+
+The power supply has been disconnected to several areas as a precautionary measure due to the prevailing adverse weather conditions and floods, the Secretary of the Ministry of Power and Energy said.
+
+Accordingly, the power supply has been disconnected in several areas in the Galle, Kalutara, Ratnapura, Colombo and Kegalle districts owing to this.
+
+◼️
+
+[Data](articles/b78f6f7d.json)
+
+---
+
+### ගංවතුරට හසුවී දෙදෙනෙක් අතුරුදන්
+
+*2024-06-02 14:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197284) · `si`
+
+ගාල්ල තවලම ප්‍රදේශයේදී ගංවතුරට හසුවීමෙන් දෙදෙනෙකු අතුරුදන්ව ඇති බව දිස්ත්‍රික් ආපදා කළමනාකරණ ඒකකය පවසයි.
+
+දිස්ත්‍රික් ආපදා කළමනාකරණ ඒකකය පවසන්නේ අතුරුදන් පුද්ගලයින් සොයා මේ වනවිට විශේෂ මෙහෙයුමක් ආරම්භ කර ඇති බවය.
+
+◼️
+
+[Data](articles/05922360.json)
+
+---
 
 ### Flights diverted to Mattala due to bad weather at BIA
 
@@ -48,57 +76,77 @@ This replacement was necessary because the original crew’s shift had expired a
 
 [Data](articles/d03dbecb.json)
 
+[Extended Data](ext_articles/d03dbecb.ext.json)
+
 ---
 
-### හදිසියේම ප්‍රදේශ රැසක විදුලිය විසන්ධි කරයි
+### Suddenly the electricity of several areas
 
 *2024-06-02 14:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197283) · `si`
 
-පවතින අයහපත් කාලගුණ තත්ත්වය හා ජලගැලීම් සැළකිල්ලට ගනිමින් ප්‍රදේශ කිහිපයක විදුලි සැපයුම අත්හිටුවීමට පියවර ගෙන ඇති බව විදුලි බල හා බලශක්ති අමාත්‍යාංශය පවසයි.
+In response to severe weather and flooding, the Ministry of Power and Energy has suspended power outages in Kalutara, Ratnapura, and Kegalle districts, aiming to protect residents from further disruptions.
 
-අමාත්‍යාංශ ලේකම් සුලක්ෂණ ජයවර්ධන මහතා පැවසුවේ ගාල්ල, කළුතර, රත්නපුර, කොළඹ සහ කෑගල්ල යන දිස්ත්‍රික්කවල බලපෑමට ලක්ව ඇති ප්‍රදේශවල විදුලිය විසන්ධි කිරිමට පියවර ගෙන ඇති බවය.
+🟩
 
-ගංවතුර තත්වයත් සමඟ ජනතාවගේ ආරක්ෂාව තහවුරු කිරිමේ අරමුණින් මෙලෙස එම ප්‍රදේශ වල විදුලිය විසන්ධි කර ඇති බව  අමාත්‍යංශ ලේකම්වරයා කියා සිටියේය.
+The Ministry of Power and Energy stated that steps have been taken to suspend the power cut in several areas, taking the prevailing inclement weather and floods.
+
+The Secretary to the Ministry has said that steps have been taken to disconnect the power outage in the affected areas affected areas affected areas in Kalutara, Kalutara, Ratnapura and Kegalle districts.
+
+The Secretary to the Ministry stated that the power cuts have been disconnected in these areas with the objective of providing the protection of the people with the floods.
 
 ◼️
 
 [Data](articles/c18a67b0.json)
 
+[Extended Data](ext_articles/c18a67b0.ext.json)
+
 ---
 
-### மொட்டுவின் கூட்டம் ஒத்திவைப்பு
+### Composition of the bud
 
 *2024-06-02 13:59:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மொட்டுவின்-கூட்டம்-ஒத்திவைப்பு/175-338288) · `ta`
 
-தாமரை மொட்டை சின்னமாகக் கொண்ட ஸ்ரீ லங்கா பொதுஜன பெரமுன, பியகமவில் ஞாயிற்றுக்கிழமை (02) நடத்தவிருந்த கூட்டம் ஒத்திவைக்கப்பட்டது.
+The scheduled meeting in Biyagama, known as the "lotus symbol," was postponed due to bad weather. Namal Rajapaksa, the National Organizer and MP, announced the delay of the Biyagama constituency conference and revealed the party's decision to allocate one million rupees for flood relief in the area.
 
-பியகம தொகுதி மாநாடு மோசமான வானிலை காரணமாக பிற்போடப்பட்டுள்ளதாக அக்கட்சியின் தேசிய அமைப்பாளரும் பாராளுமன்ற உறுப்பினருமான நாமல் ராஜபக்ஷ தெரிவித்துள்ளார்.
+🟩
 
-பியகம வெள்ள நிவாரணத் திட்டத்திற்கு ஒரு மில்லியன் ரூபாவை வழங்குவதற்கு கட்சி தீர்மானித்துள்ளதாகவும்  நாமல் ராஜபக்ஷ தெரிவித்தார்.
+The meeting to be held on Sunday (02) in Biyagama, Sri Lanka PA, which is a lotus symbol, was postponed.
+
+The National Organizer and Member of Parliament Namal Rajapaksa has said that the Biyagama constituency conference has been delayed due to bad weather.
+
+Namal Rajapaksa said the party had decided to provide one million rupees for the Biyagama flood relief project.
 
 ◼️
 
 [Data](articles/b0d64088.json)
 
+[Extended Data](ext_articles/b0d64088.ext.json)
+
 ---
 
-### විපතට පත් ජනතාව මුදාගැනීම සඳහා යුද හමුදාවෙන් කණ්ඩායම් 7ක්
+### 7 teams from the Army to rescue the affected people
 
 *2024-06-02 13:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197282) · `si`
 
-ගංවතුර හේතුවෙන් විපතට පත්වූ ජනතාව බේරාගැනීම සඳහා කණ්ඩායම් 7ක් යොදවා ඇති බව යුද්ධ හමුදාව පවසයි.
+Seven military teams are dispatched to flood-hit regions including Kiriella, Dehiowita, Halawela Oya, Morawa, Thawalama Oya, Thawalama, Thawhagoda, and Neluwa. Soldiers are setting up cooking stations in Malimbada and Sale to feed the displaced. The Army Commander has tasked the Security Forces Ordinance with assisting the affected.
 
-නිවේදනයක් නිකුත් කරමින් යුද්ධ හමුදාව වැඩිදුරටත් පවසන්නේ එක් බෝට්ටුවක් සමග කිරිඇල්ල, දෙහිඕවිට, ගලතුරු ඔය, මොරවක, තවලම සහ තිහගොඩ ප්‍රදේශ සඳහා යුද හමුදා කණ්ඩායම් 6ක් යොමුකර ඇති බවය.
+🟩
 
-එසේම නෙළුව ප්‍රදේශයට බෝට්ටු 2ක් සමග යුද හමුදා කණ්ඩායමක් යොමුකර ඇති බව එම නිවේදනයේ වැඩිදුරටත් දැක්වෙයි.
+The army says seven teams have been deployed to rescue the people affected by floods.
 
-මේ අතර මාලිම්බඩ සහ සාලාව ප්‍රදේශයන්හි අවතැන් වූ පිරිස් සඳහා ආහාරපාන සැපයීමට යුද්ධ හමුදා භටපිරිස් විසින් ආහාර පිසීමේ ස්ථානයන් මේ වනවිට ආරම්භ කර තිබේ.
+The army has issued an announcement, Kiriella, Dehiowita, Halawela Oya, Morawa, Thawalama Oya, Thawalama and Thawhagoda areas have been sent.
 
-මේ අතර විපතට පත් ජනතාව මුදාගැනීම සඳහා අවශ්‍යතාවයක් ඇතිවුවහොත් ඒ සඳහා භටපිරිස් සූදානම් කර තබන ලෙසට යුද්ධ හමුදාපති ලුතිනන් ජෙනරල් විකුම් ලියනගේ මහතා විසින් ආරක්ෂක සේනා ආඥාපතිවරුන් වෙත උපදෙස් ලබාදී ඇත.
+A group of soldiers has also been sent to Neluwa area.
+
+Meanwhile, troops have commenced cooking stations to provide food for displaced persons in the Malimbada and Sale.
+
+Meanwhile, Army Commander Lieutenant General Visulent Vikiage has instructed the Security Forces Ordinance to prepare the resulted people.
 
 ◼️
 
 [Data](articles/91032510.json)
+
+[Extended Data](ext_articles/91032510.ext.json)
 
 ---
 
@@ -244,19 +292,27 @@ When contacted, State Minister Aravinda Kumar said this when contacted inquiry m
 
 ---
 
-### ‛‛மாதவிடாயால் முதலிரவுக்கு மறுப்பு’’: 12 ஆவது நாளில் சிக்கல்
+### ‛‛ ‛Menopause Refusal
 
 *2024-06-02 12:46:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/விநோத-உலகம்/மாதவிடாயால்-முதலிரவுக்கு-மறுப்பு-12-ஆவது-நாளில்-சிக்கல்/53-338277) · `ta`
 
-சமூக வலைதளத்தில் பழக்கமானவரை உருகி உருகி காதலித்து கரம்பிடித்த இளைஞருக்கு திருமணம் முடிந்த 12வது நாளில் பேரதிர்ச்சி காத்திருந்தது. அதாவது அவர் காதலித்து திருமணம் செய்தது பெண்ணை அல்ல ஒரு ஆண் என்பதை அறிந்து அவர் அதிர்ச்சியில் உறைந்து போனார். இது எப்படி என்ன நடந்தது? வாங்க பார்க்கலாம்.
+A man, AK, from Indonesia, fell in love with and married Antinda Kansa, whom he met on social media, believing her to be a woman. However, it was later revealed that Antinda Kansa is actually a man. This deception led to their marriage, which was kept secret from AK's family. The situation escalated when Antinda Kansa attempted to extort AK's assets, revealing a fake identity on social media. The truth came out on their 12th day of marriage, leading to legal action against Antinda Kansa, who could face up to 4 years in prison under Indonesian law for fraudulent marriage.
 
-இன்றைய காலத்தில் காதல் திருமணங்கள் அதிகரித்து வருகின்றன. பள்ளி, கல்லூரியில் ஒன்றாக படித்தவர்கள், ஒரே ஊரை சேர்ந்தவர்கள், அலுவலகத்தில் பணியாற்றுவோரை ஒவ்வொருவரும் காதலித்து கரம் பிடித்து வருகின்றனர். மேலும் மாமா, அத்தை வழி உறவுகளையும் பலரும் காதல் திருமணம் செய்கின்றனர்.
+🟩
 
-இவை எல்லாவற்றுக்கும் மேலாக சமூக வலைதளங்களில் நண்பர்களாகி காதலர்களாக மாறியும் பலரும் இல்லற வாழ்க்கையில் அடியெடுத்து வைக்கின்றனர். இந்நிலையில் தான் சமூக வலைதள காதல் ஒருவரின் வாழ்க்கையையே புரட்டிப்போட்டுள்ளது. இந்த சம்பவம் இந்தோனேசியாவில் நடந்துள்ளது.
+On the 12th day of the marriage of a young man who fell in love with a familiar man on social network. That is, he was shocked to know that he was not a woman who fell in love and married. How did this happen?Let's see.
+
+Romantic marriages are increasing today. School, college, people from the same town, in the office, each is in love. And many uncle and aunty relationships are married.
+
+Above all, many people have become friends on social networks and become lovers. It is in this case that the social network has flipped the life of someone. The incident took place in Indonesia.
+
+AK belongs to Indonesia. He is 26 years old. He was a friend of Antinda Kansa through the social network. Andinda Kansa introduced himself as a woman. He also said that he belonged to Islam and that his parents were dead and living alone.. After this, 2 people often spoke on social networks. This intimacy became love within them.
 
 ...
 
 [Data](articles/2dd1451c.json)
+
+[Extended Data](ext_articles/2dd1451c.ext.json)
 
 ---
 
@@ -528,21 +584,31 @@ As per the instructions of the Army Commander, Security Forces Commanders have b
 
 ---
 
-### කටුනායකට ආපු ගුවන් යානා මත්තලට යවයි
+### The aircraft sent to Katunayake sends to Mattala
 
 *2024-06-02 11:44:38* · [`adalk`](https://www.ada.lk/breaking_news/කටුනායකට-ආපු-ගුවන්-යානා-මත්තලට-යවයි/11-409959) · `si`
 
-කටුනායක බණ්ඩාරනායක ජාත්‍යන්තර ගුවන් තොටුපොළ සහ ඒ අවට ප්‍රදේශයේ 06/02 දින අලුයම් කාළයේ පැවති අකුණු ගැසීම් සහිත තද වැසි තත්වය නිසා කටුනායක ගුවන් තොටුපොළ වෙත ගොඩ බැස්සවීමට පැමිණි ගුවන් යානා දෙකක් මත්තල ගුවන් තොටුපොළ වෙත හරවා යැවීමට පියවර ගත් බව කටුනායක  ගුවන් තොටුපොළ කාර්යය භාර නිලධාරීවරයා සනාථ කළේය .
+Due to heavy rain, flights were diverted from Katunayake to Mattala Airport. An aircraft from Abu Dhabi landed at Mattala on March 5th, and another flight from Changi Airport also moved to Mattala. Passengers from Abu Dhabi couldn't disembark initially but were later allowed off. The same aircraft returned to Katunayake at 6:02 am after landing there at 10:50 pm from Singapore.
 
-ඒ අනුව අබුඩාබි නුවර සිට 06/02 දින අලුයම 03.25 ට ගොඩ බැස්සවීමට පැමිණි ඉටිහාඩ් ගුවන් සේවයේ ඊ.වයි.- 394 ගුවන් යානය මත්තල ගුවන් තොටුපොළ වෙත යොමු කිරීමට පියවර ගෙන තිබුණි .
+🟩
 
-මීට අමතරව සිංගප්පූරුවේ චැංගි ගුවන් තොටුපොළේ සිට 06/02 දින අලුයම 04.00 ට පමණ කටුනායක ගුවන් තොටුපොළ වෙත ගොඩ බැස්සවීමට පැමිණි ශ්‍රී ලන්කන් ගුවන් සේවයේ යූ.එල්.- 309 දරන ගුවන් යානය ද මත්තල ගුවන් තොටුපොළ වෙත යොමු කිරීමට පියවර ගෙන තිබුණි .
+Bandaranaike International Airplanes were convinced that the Katunayake Airport was taken to the Mattala Airport due to heavy rains in the early hours of the early lightning area in the morning of Katunayake..
 
-ඒ වනවිටත් හම්බන්තොට මත්තල ගුවන් තොටුපොළ සහ ඒ අවට ප්‍රදේශය තුළත් වැසි තත්වය පැවති බව සදහන් කළ මත්තල ගුවන් තොටුපොළ කාර්යය භාර නිලධාරීවරයා , එම ගුවන් යානා 06/02 දින අලුයම 04.15 පමණ වනවිට තම ගුවන් තොටුපොළ වෙත පැමිණි බව ද සදහන් කළේය .
+Accordingly, Abu Dhadi to landed at Abby 3/05 on 02 days.
 
-...
+In addition to this month at Changi Airport at Changi Airport from Changi Airport, SriLankan Airlines UL, arrived at the Katunayake airport at Katunayake Airport - 309-309-owned airport to the Mattala airport.
+
+The event was said to the officer in charge of the Mattala Airport and the surrounding area in Hambantota.
+
+The passengers from Abu Dhadi were not able to be out of the plane, and the plane was returned to the Katunayake airport at 06/02 am.
+
+However, the aircraft had come to the Katunayake Airport at 10.50 am on 06/02 night from Singapore.
+
+◼️
 
 [Data](articles/d7e7a800.json)
+
+[Extended Data](ext_articles/d7e7a800.ext.json)
 
 ---
 
@@ -2149,45 +2215,5 @@ The general public is kindly requested to take adequate precautions to minimize 
 [Data](articles/da735d71.json)
 
 [Extended Data](ext_articles/da735d71.ext.json)
-
----
-
-### Pussoli Oya is the overflow
-
-*2024-06-01 17:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197253) · `si`
-
-Heavy rains caused flooding on two roads leading into Padukka, disrupting traffic. The overflowing Pushali Oya river affected Padukka Hanwella Road and Padukka Ingiriya Road, flooding numerous homes in the area.
-
-🟩
-
-Due to the prevailing rainy, two roads entering Padukka town have been flooded due to the outbreak of Pushali Oya.
-
-As a result, traffic has been interrupted, police said.
-
-Padukka Hanwella Road and Padukka Ingiriya Road were flooded.
-
-Therefore, there are many houses in the city of Padukka have been flooded.
-
-◼️
-
-[Data](articles/b42321d6.json)
-
-[Extended Data](ext_articles/b42321d6.ext.json)
-
----
-
-### Adolescent guilt at a Catholic school
-
-*2024-06-01 17:29:00* · [`islandlk`](http://island.lk/adolescent-guilt-at-a-catholic-school/) · `en`
-
-I joined St Anthony’s College at Wattala when I was seven years-old. It was a private college run by the La Salle Christian Brothers. The cover page of my ‘Report Card’ said that the College leads young boys in the Christian faith, helping them to become god-fearing, diligent, honest, and good citizens.
-
-Each school day started with a standard set of prayers. A 90-minute catechism class followed morning prayers. After that, students learned other subjects. At the beginning of each study period, students got up, acknowledged that they were in God’s presence, and prayed for his help. Each study period ended with a prayer of gratitude. A day at the College ended at 3.15pm with another standard prayer, which took about 10 minutes.
-
-...
-
-[Data](articles/ad161b9a.json)
-
-[Extended Data](ext_articles/ad161b9a.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-02 18:52:21**
+As of **2024-06-02 19:03:53**
 
 ## Newspaper Stats
 
-*Scraped **27,909** Articles*
+*Scraped **27,915** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,82 @@ newsfirstlk | 363
 islandlk | 1,507
 economynextcom | 1,587
 dailyftlk | 1,635
-adalk | 2,379
+adalk | 2,381
 adaderanalk | 3,175
-tamilmirrorlk | 3,273
-virakesarilk | 4,300
+tamilmirrorlk | 3,274
+virakesarilk | 4,302
 dailymirrorlk | 4,423
-adaderanasinhalalk | 4,470
+adaderanasinhalalk | 4,471
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,908 (100.0%) of 27,909 articles have been extended.
+27,909 (100.0%) of 27,915 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-02 (Sunday)
+
+### தண்டவாளத்தில் பஸ்ஸை செலுத்திய சாரதி கைது
+
+*2024-06-02 18:43:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தண்டவாளத்தில்-பஸ்ஸை-செலுத்திய-சாரதி-கைது/175-338308) · `ta`
+
+அவிசாவளை – புவக்பிட்டிய பகுதியிலுள்ள ரயில் தண்டவாளத்தில் பஸ் ஒன்றை செலுத்திய சாரதி கைது செய்யப்பட்டுள்ளார்.
+
+இந்த சாரதி எம்பிலிபிட்டிய பகுதியில் வைத்து கைது செய்யப்பட்டதாக பொலிஸ் ஊடகப் பேச்சாளர், பிரதி பொலிஸ் மாஅதிபர் நிஹால் தல்துவ தெரிவிக்கின்றார்.
+
+கொழும்பிலிருந்து எம்பிலிபிட்டிய நோக்கி பயணித்த தனியார் பஸ் ஒன்றின் சாரதியே, இவ்வாறு ரயில் தண்டவாளத்தில் பஸ்ஸை செலுத்தியுள்ளார்.
+
+புவக்பிட்டிய பகுதியில் ஏற்பட்ட வெள்ளப் பெருக்கு காரணமாக, குறித்த பகுதியில் கடும் வாகன நெரிசல் ஏற்பட்டிருந்தது.
+
+போக்குவரத்து நெரிசலை தவிர்த்து செல்லும் நோக்கில், பஸ்ஸின் சாரதி, பஸ் ரயில் தண்டவாளத்தில் செலுத்தியுள்ளார்.
+
+இந்த நிலையில், பஸ்ஸின் சாரதி கைது செய்யப்பட்டுள்ளதுடன், பஸ்ஸை பொலிஸார் தமது பொறுப்பிற்கு எடுத்துள்ளனர்.
+
+◼️
+
+[Data](articles/31cf8e35.json)
+
+---
+
+### சீரற்ற காலநிலையால் பல வீதிகள் வெள்ளத்தால் மூழ்கின; ரயில்கள் தாமதம்
+
+*2024-06-02 18:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/185144) · `ta`
+
+சீரற்ற காலநிலை காரணமாகப்  பிரதான வீதி, கரையோர வீதி மற்றும் புத்தளம் வீதி என்பன வெள்ளத்தில் மூழ்கியுள்ளது.
+
+சமிக்ஞையில் ஏற்பட்ட கோளாறு காரணமாக சில ரயில்கள் தாமதமாகச் செல்வதாக ரயில்வே திணைக்களம் தெரிவித்துள்ளது.
+
+பல நிலையங்களில் புகையிரத பாதையில் மரங்கள் முறிந்து வீழ்ந்துள்ளதால் புகையிரத போக்குவரத்து தடைப்பட்டுள்ளதாகப் புகையிரத பொது முகாமையாளர் இண்டிபோலகே தெரிவித்துள்ளார்.
+
+வாக மற்றும் கொஸ்கம புகையிரத நிலையங்களுக்கு இடையிலான பாலம் ஒன்று வெள்ளத்தில் அடித்துச் செல்லப்பட்டுள்ளதால் களனிவெளி பாதையில் பயணிக்கும் புகையிரதம் வாக புகையிரத நிலையம் வரை மட்டுப்படுத்தப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/066391a8.json)
+
+---
+
+### දුම්රිය මාර්ගයේ ගිය බස් රථයේ රියදුරු අත්අඩංගුවට
+
+*2024-06-02 18:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197295) · `si`
+
+දුම්රිය මාර්ගයේ බස් රථයක් ධාවනය කළ සිද්ධියට අදාළව එම බස් රථයේ රියදුරු පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති නීතිඥ නිහාල් තල්දූව මහතා සඳහන් කළේ සැකකාර බස් රියදුරු ඇඹිලිපිටිය ප්‍රදේශයේදී අත්අඩංගුවට ගෙන ඇති බවය.
+
+මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ ඇඹිලිපිටිය කොළඹ පෞද්ගලික බස් රථයක රියදුරෙකි.
+
+එම රියදුරු සිය බස් රථය අද පුවක්පිටිය ප්‍රදේශයේදී කැලණිවැලි දුම්රිය මාර්ගයේ ධාවනය කරන අයුරු දැක්වෙන වීඩියෝ කිහිපයක් සමාජ මාධ්‍ය ඔස්සේ හුවමාරු විය.
+
+සැකකාර බස් රියදුරු සමග අදාළ බස් රථය ද පොලිස් භාරයට ගෙන තිබේ.
+
+◼️
+
+[Data](articles/c32010a0.json)
+
+---
 
 ### Driver of private bus driven along railway tracks in Puwakpitiya arrested
 
@@ -45,6 +105,8 @@ A video of a private passenger bus being driven along the railway tracks paralle
 ◼️
 
 [Data](articles/fab2a835.json)
+
+[Extended Data](ext_articles/fab2a835.ext.json)
 
 ---
 
@@ -126,6 +188,22 @@ A bridge between Kosgama railway stations, the Kelaniweli road has been restrict
 
 ---
 
+### அரசியல் தீர்மானம் எடுக்க ஜனாதிபதியிடம் ஆலோசனை பெறுவதில்லை - நாமல் ராஜபக்ஷ
+
+*2024-06-02 17:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/185139) · `ta`
+
+ஜனாதிபதி ரணில் விக்கிரமசிங்கவை பதவியில் வைத்துக் கொண்டு நாங்கள் எமது ஜனாதிபதி வேட்பாளரை அறிவித்தால் அரசாங்கம் நெருக்கடிக்குள்ளாகும்.ஜனாதிபதி தேர்தல் குறித்து தனது நிலைப்பாட்டை ஜனாதிபதி அறிவிக்க வேண்டும். ஜனாதிபதியிடம் ஆலோசனை பெற்று நாங்கள் அரசியல் தீர்மானத்தை எடுப்பதில்லை என பொதுஜன பெரமுனவின் தேசிய அமைப்பாளர் நாமல் ராஜபக்ஷ தெரிவித்தார்.
+
+கொழும்பில் ஞாயிற்றுக்கிழமை (2) இடம்பெற்ற நிகழ்வின் பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+ஐக்கிய மக்கள் சக்தியின் உறுப்பினர்கள் ஜனாதிபதியுடன் ஒன்றிணைந்தால் நாங்கள் எமது அரசியல் தீர்மானத்தை அறிவிப்பதாகக் குறிப்பிடுவது முறையற்றது.ஏனெனில் எதிர்க்கட்சியின் உறுப்பினர்கள் ஜனாதிபதியுடன் ஒன்றிணைவதால் எமக்கு அரசியலில் எவ்வித பயனும் கிடைப்பதில்லை அதேபோல்  எவ்வித பாதிப்பும் ஏற்படாது.
+
+...
+
+[Data](articles/7029bc34.json)
+
+---
+
 ### South Africa’s ANC rejects demand for Ramaphosa to step down for coalition talks
 
 *2024-06-02 17:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/99601/south-africas-anc-rejects-demand-for-ramaphosa-to-step-down-for-coalition-talks) · `en`
@@ -188,7 +266,7 @@ Meanwhile, the reputation issues the third level of red warnings for Peluvenala,
 
 *2024-06-02 17:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Several-areas-in-Colombo-inundated/110-283913) · `en`
 
-Several areas around Colombo came under water due to heavy rains experienced in Colombo. Pix by Nisal Baduge
+Several areas around Colombo went under water due to heavy rains experienced in the city. Pix by Nisal Baduge
 
 ◼️
 
@@ -767,6 +845,18 @@ The DMC also stated that an operation has been launched in search of the two mis
 [Data](articles/0fe7c29f.json)
 
 [Extended Data](ext_articles/0fe7c29f.ext.json)
+
+---
+
+### කාලගුණය කැළඹෙයි
+
+*2024-06-02 14:29:54* · [`adalk`](https://www.ada.lk/breaking_news/කාලගුණය-කැළඹෙයි/11-409963) · `si`
+
+ඊයේ රාත්‍රී සිට දිවයිනේ බොහෝ ප දේශයන්ට ඇඳ හැළෙන අධික වැසි සහිත කාලගුණ තත්ත්වය හේතුවෙන් ජනතාව දැඩි ලෙස පීඩාවට පත්ව තිබේ.
+
+◼️
+
+[Data](articles/2e8b6413.json)
 
 ---
 
@@ -1363,6 +1453,24 @@ Minister of Education Aravinda, Kumar stated that this decision was taken with t
 [Data](articles/32c10376.json)
 
 [Extended Data](ext_articles/32c10376.ext.json)
+
+---
+
+### නිදහස් පක්ෂය අනෙක් පක්ෂ සමග සාකච්‍ඡා
+
+*2024-06-02 12:12:30* · [`adalk`](https://www.ada.lk/breaking_news/නිදහස්-පක්ෂය-අනෙක්-පක්ෂ සමග-සාකච්‍ඡා/11-409961) · `si`
+
+වාමවාදි දේප්‍රේමී, ජාතිවාදි පක්ෂ සමඟ මේ වන විට සාකච්ඡා ආරම්භ කර තිබෙන බවත්,  එම සාකච්ඡා යම් ඵලදායි ගුණාතමක අයුරින් ඉදිරියට ගමන් කර තිබෙන බවත් ශ්‍රී ලංකා නිදහස් පක්ෂයේ ජ්‍යෙෂ්ඨ උප සභාපති රෝහණ ලක්ෂමන් පියදාස මහතා පැවසීය.
+
+මහනුවර දී මාධ්‍ය හමුවේ අදහස් දක්වමින් ඒ මහතා ශ්‍රී ලංකා නිදහස් පක්ෂයේ ප්‍රතිපත්ති වැඩසටහන්, සැලසුම් කරගෙන, සක්‍රියව ක්‍රියාත්මක කරගෙන යන බවත්, පක්ෂය තුළ අනුබද්ධ සංවිධාන ‍ගොඩනැගිනීමේ කටයුතු ද මේ වන විට සිදු කෙරෙන බව කීවේය.
+
+ශ්‍රී ලංකා නිදහස් පක්ෂයේ සංවිධායකවරුන් විසින් දිස්ත්‍රික් මටට්මේ රැස්වීම්, සහහෝදර දේශපාලන පක්ෂ සමග සාකච්ඡා මේ වන විට ආරම්භ වී තිබෙනවා, මේ මාසයේ සිට ආසන මට්ටමේ රැස්වීම් හා ප්‍රචාරක කටයුතු ආරම්භ කරන බවත් හෙතෙම කීය.
+
+අධිකරණමය කාරණා එලෙසින් සිදුවන බවත්, එතෙක් අනෙකුත් දේශපාලන පක්ෂ විසින් කටයුතු කරන අයුරින්, තම පක්ෂය ද දේශපාලන කටයුතු ද  සිදු කරන බවත් ඒ මහතා සඳහන් කළේය.
+
+◼️
+
+[Data](articles/15f24576.json)
 
 ---
 
@@ -1981,145 +2089,5 @@ The landslide warnings will be effective from 4am to 4am to 4 am tomorrow (03) a
 [Data](articles/616521e3.json)
 
 [Extended Data](ext_articles/616521e3.ext.json)
-
----
-
-### Sri Lanka balance of payments surplus US$1.3bn by April 2024
-
-*2024-06-02 10:04:00* · [`economynextcom`](https://economynext.com/sri-lanka-balance-of-payments-surplus-us1-3bn-by-april-2024-165783/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s current dollar earnings from merchandise exports, remittances, tourism and other services exceeded imports by 542 million US dollars in April 2024, official data shows.
-
-Sri Lanka’s hard goods exports were 877.6 million US dollars in April, up from 848.6 million US dollars a year ago, in a holiday month which usually has a 20 percent downturn.
-
-Remittances were 543.8 million US dollars, up from 454 million last year.
-
-Tourism income was estimated at 225.7 million US dollars for April, which is from a survey and may not be as reliable as import export data from customs or remittances data from banks.
-
-Gross services which include tourism was 558 million US dollars.
-
-Foreign exchange earned by Sri Lankans from exports, remittances and gross services were 1,977 million US dollars in April 2024.
-
-Merchandise imports were only 1,435 million US dollars, leaving a surplus of 542 million dollars.
-
-...
-
-[Data](articles/9dd24d20.json)
-
-[Extended Data](ext_articles/9dd24d20.ext.json)
-
----
-
-### Ranil - Mahinda meets Wednesday
-
-*2024-06-02 09:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/185092) · `ta`
-
-President Ranil Wickremesinghe and former President Mahinda Rajapaksa will meet on Wednesday to discuss the upcoming 2024 presidential election. This comes after prolonged negotiations with the ruling Sri Lanka PA, which have reached a critical stage. Support from various opposition parties, including the United People's Power and the United National Party, is anticipated for Wickremesinghe. Meanwhile, Rajapaksa plans to announce the PA's stance on the election on the 17th.
-
-🟩
-
-A special discussion between President Ranil Wickremesinghe and President Mahinda Rajapaksa, President Mahinda Rajapaksa, will be held on Wednesday, 5th as the key announcement from the government is to be announced from the government on the 2024 presidential election.
-
-Meanwhile, some members of other opposition parties, including the United People's Power, are said to be united with the United National Party in support of President Ranil Wickremesinghe and that MP Rajitha Senaratne is expected to join the first.
-
-Negotiations focusing on the presidential election between the ruling Sri Lanka PA and President Ranil Wickremesinghe have been going on for a long time.. Those negotiations have now reached the final stage. PA President Mahinda Rajapaksa will announce the party's position on the presidential election on the 17th.
-
-...
-
-[Data](articles/808bd5ed.json)
-
-[Extended Data](ext_articles/808bd5ed.ext.json)
-
----
-
-### I extended the term of the Attorney General to expedite the investigation of the survival Sunday attack
-
-*2024-06-02 09:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/185091) · `ta`
-
-President Wickremesinghe extended the term of Attorney General Sanjay Rajaratnam to expedite the investigation into the 2019 Easter Sunday bombings by Islamic extremists. The AG's role in Archbishop investigations was praised, and his continued involvement is crucial for ongoing discussions and the completion of the probe.
-
-🟩
-
-President Ranil Wickremesinghe has said that the Attorney General has played an important role in the proceedings of the Archbishop in the Business of the Archbishop in investigations into the survival Sunday bomb attack by Islamic fundamentalists.
-
-During a discussion held at the President's Office last Thursday, the Attorney General Sanjay Rajaratnam's term was extended. In response, the President said the above.
-
-The Sri Lanka Bishop has handed over the report of the Presidential Investigation Commission on the Sunday Suicide Bombing carried out by Islamic fundamentalists in 2019.. The committee was appointed by President Saman Ekanayake, National Security Advisor Sagala Ratnayake and Attorney General Sanjay Rajaratnam to communicate with the Chairman of the Convention Herald Entony Perera and Kurunegala Bishop.
-
-...
-
-[Data](articles/885f891c.json)
-
-[Extended Data](ext_articles/885f891c.ext.json)
-
----
-
-### Ging River Susu
-
-*2024-06-02 09:49:26* · [`adalk`](https://www.ada.lk/breaking_news/ගිං-ගඟ-සැරවෙයි/11-409956) · `si`
-
-Flooding warnings issued for Colombo, Thawalama, Niyamaka, Baddegama, Elpitiya, Poddama, and Bope Poddala areas due to potential river overflow. Residents urged to take precautions by the Irrigation Department.
-
-🟩
-
-Floods in Colombo, Thawalama, Niyamaka, Baddegama, Elpitiya, Poddama and Bope Poddala Divisional SecretariatsThe Irrigation Department warns that from this point that can occur.
-
-The Irrigation Department demanded the Irrigation Department from residents of the area and the regions passing through the areas of this area.
-
-Irrigation Director (Hydrology and Disaster Management) Engineer (Hydrology & Disaster Management) Engineer (Hydrology & Disaster Management) Engineer (Hydrology & Disaster).
-
-◼️
-
-[Data](articles/873cf1c3.json)
-
-[Extended Data](ext_articles/873cf1c3.ext.json)
-
----
-
-### Co-hosts USA beat Canada in T20 World Cup opener
-
-*2024-06-02 09:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Co-hosts-USA-beat-Canada-in-T20-World-Cup-opener/108-283893) · `en`
-
-June 2 - Aaron Jones clubbed a brutal unbeaten 94 as T20 World Cup co-hosts USA beat Canada by seven wickets in a pulsating and colourful tournament opener in Texas.
-
-The USA came into the match on the back of a 2-1 series win over Bangladesh and thrashed the Canadians 4-0 when the sides last met in April.
-
-The match was in the balance before Jones - born in Queens, New York to Barbadian parents – swung the match the way of the home side with a stellar knock off 40 balls as they chased down Canada’s 194-5.
-
-Jones targeted the short boundaries on this former baseball ground, previously home to the Texas Air Hogs, launching a majestic 10 sixes into the night sky and whipping the jubilant fans into a frenzy.
-
-With the US requiring 36 off 35 balls Jones sliced the ball to short third, but Nikhil Dutta clumsily spilled a simple catch.
-
-It proved decisive as the 29-year-old pummelled the US to victory with 14 balls to spare after support from Andries Gous, who hit 65 off 46 balls.
-
-...
-
-[Data](articles/d69b07f7.json)
-
-[Extended Data](ext_articles/d69b07f7.ext.json)
-
----
-
-### Superior to America
-
-*2024-06-02 09:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197272) · `si`
-
-In the 20th World Cup, the US team outperformed Canada, winning by 7 wickets. Aaron Jones led the charge with a remarkable 94 runs off 40 balls. The US secured victory in just 17 overs after losing 3 wickets, showcasing their superior skills.
-
-🟩
-
-The US team won the match against Canada by 7 wickets in the 20th World Cup.
-
-Chapter 194, America won the match for 197 overs and scored 19 runs for the loss of 3 wickets in 17 overs.
-
-Aaron jones played a premier innings scored 94 runs in 40 balls with 10 fours and four fours.
-
-At the bowling kaleem sana, Dillon HEYLIGER and NIKHIL DUTTA took one wicket.
-
-◼️
-
-[Data](articles/755478be.json)
-
-[Extended Data](ext_articles/755478be.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-02 12:18:55**
+As of **2024-06-02 12:34:08**
 
 ## Newspaper Stats
 
-*Scraped **27,829** Articles*
+*Scraped **27,831** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,38 +15,64 @@ newsfirstlk | 363
 islandlk | 1,507
 economynextcom | 1,587
 dailyftlk | 1,635
-adalk | 2,369
+adalk | 2,370
 adaderanalk | 3,163
 tamilmirrorlk | 3,262
 virakesarilk | 4,286
 dailymirrorlk | 4,409
-adaderanasinhalalk | 4,452
+adaderanasinhalalk | 4,453
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,825 (100.0%) of 27,829 articles have been extended.
+27,829 (100.0%) of 27,831 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-02 (Sunday)
 
-### 49 பெண்களை  பன்றிகளுக்கு இரையாக்கியவர்  அடித்துக்கொலை
+### පොලිස් සැරයන්වරයෙක් අත්අඩංගුවට
+
+*2024-06-02 12:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197277) · `si`
+
+කාන්තාවකගේ ගෙල බැඳි රන්මාලය කොල්ලකෑ පොලිස් සැරයන්වරයෙකු අත්අඩංගුවට ගත්බව වාද්දුව පොලීසිය පවසයි.
+
+එසේ අත්අඩංගුවට ගෙන ඇත්තේ වාද්දුව පොලිස් ස්ථානයට අනුයුක්ත සැරයන්වරයෙකු බව සඳහන් වෙයි.
+
+අද (02) අලුයම 5.45ට පමණ වාද්දුව දේවස්ථානය ආසන්නයේ ගමන් කරමින් සිටි කාන්තාවකගේ ගෙල බැඳි රන්මාලයක් මෙම සැකකරු විසින් මෙසේ කොල්ලකා ඇති බව සඳහන් වේ.
+
+වාද්දුව පොලීසියේ ස්ථානාධිපති ගයාන් කහටපිටිය මහතාගේ ප්‍රධානත්වයෙන් වැඩිදුර පරීක්ෂණ පවත්වයි.
+
+◼️
+
+[Data](articles/798fb508.json)
+
+---
+
+### 49 Women are beaten to the pigs for pigs
 
 *2024-06-02 12:03:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/49-பெண்களை-பன்றிகளுக்கு-இரையாக்கியவர்-அடித்துக்கொலை/50-338273) · `ta`
 
-1990-2000 காலகட்டத்தில் தொடர்ச்சியாக இளம்பெண்கள் பலர்   கொல்லப்பட்டனர். இதுகுறித்து பொலிஸார் வழக்குப்பதிவு செய்து விசாரணை நடத்தி வந்தனர்.  இந்த சம்பவம் கனடாவின் வான்கூவர் நகரிலேயே இடம்பெற்றுள்ளது.
+Between 1990 and 2000, in Vancouver, Canada, Robert Bigton, a pig farmer, was accused of killing 49 young women, dismembering their bodies, and feeding them to his pigs. Arrested and convicted in 2006, he served time until his death in prison after a violent altercation with fellow inmates.
 
-இந்நிலையில் போர்ட் கோக்விட்லாம் பகுதியில் பன்றி பண்ணை நடத்திய ராபர்ட் பிக்டன் (வயது 71) சட்ட விரோதமாக ஆயுதங்களை பதுக்கி வைத்திருந்ததாக பொலிஸூக்கு புகார்கள் சென்றன.
+🟩
 
-இது குறித்து விசாரணை நடத்துவதற்காக சென்றபோது அவரது வீட்டில் உள்ள பிரிட்ஜில் ஒரு பெண்ணின் உடல் துண்டு, துண்டாக வெட்டி வைக்கப்பட்டு இருந்தது. இதனையடுத்து பொலிஸார் அவரை கைது செய்து விசாரணை நடத்தினர். அப்போது 49 பெண்களை அவர் வெட்டிக்கொன்றதும், பின்னர் அவர்களது உடலை துண்டு, துண்டாக வெட்டி தனது பண்ணையில் உள்ள பன்றிகளுக்கு இரையாக போட்டதும் தெரிய வந்துள்ளது. இந்த சம்பவம் நாட்டையே உலுக்கியது.
+In 1990-2000, many young women were killed. The police have registered a case and are investigating.The incident took place in Vancouver, Canada.
 
-இதுதொடர்பான வழக்கில் கடந்த 2006-ம் ஆண்டு நீதிமன்றம் அவருக்கு ஆயுள் தண்டனை வழங்கியது. இதனையடுத்து அவர் வான்கூவரில் உள்ள சிறையில் அடைக்கப்பட்டார்.
+In this case, the police complained that Robert Bigton (71 years old), who had a pig farm in the Port Cocwidlam area, had illegally smuggled weapons.
 
-...
+When a woman's body was cut in a bridges in her home when he went to investigate the matter. Subsequently, the police arrested him and investigated. It was then revealed that she had cut down 49 women and then cut their bodies, cut them into pieces and fell prey to pigs on their farm. The incident rocked the country.
+
+In 2006, he was sentenced to life imprisonment. He was subsequently jailed in Vancouver.
+
+The clash between Robert and fellow inmates in jail on the 19th of last month. Many prisoners then attacked him. He was subsequently admitted to the hospital for treatment. But he died without treatment.
+
+◼️
 
 [Data](articles/b0869826.json)
+
+[Extended Data](ext_articles/b0869826.ext.json)
 
 ---
 
@@ -70,39 +96,53 @@ The admission process will be carried out by holding interviews through school p
 
 ---
 
-### ඇහැළියගොඩ ට වාර්තාගත වර්ෂාපතනයක්
+### Rainfall in Eheliyagoda
 
 *2024-06-02 11:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197276) · `si`
 
-ගෙවී ගිය පැය 24ක කාලය තුළ වැඩිම වර්ෂාපතනය වාර්තා වී ඇත්තේ, ඇහැළියගොඩ ප්‍රදේශයෙනි.
+Eheliyagoda recorded the highest rainfall at 427.5 million mm, surpassing Halwatura Watta's 348.5 million mm and Akuressa's 283.5 mm. Heavy rains were also forecasted in Western, Sabaragamuwa, and Matara districts.
 
-ඇහැළියගොඩ ප්‍රදේශට ඇදහැලී ඇති වර්ෂාපතනය මි.මී 427.5ක් බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+🟩
 
-එමෙන්ම හල්වතුර වත්ත (ඉංගිරිය) ප්‍රදේශයට මි.මී 348.5 වර්ෂාපතනයක් ලැබී ඇති අතර අකුරැස්ස ප්‍රදේශයට ලැබී ඇති වර්ෂාපතනය මි.මී. 283.5කි.
+The highest rainfall was reported from the Eheliyagoda.
 
-මේ අතර බස්නාහිර සහ සබරගමුව පළාත්වලත්, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල මි.මී 150 වැඩි ඉතා තද වැසි ඇති විය හැකි බව කාගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+The Meteorology announces that rainfall in Eheliyagoda was 427.5 million mm.
+
+The Halwatura Watta (Ingiriya) has received a rainfall of 348.5 million and the precipitation of Akuressa area is mm.. 283.5 km.
+
+Meanwhile, in some places in the Western and Sabaragamuwa Provincial and Sabaragamuwa and Matara districts, the Department of Science has announced heavy rains.
 
 ◼️
 
 [Data](articles/9065e7f4.json)
 
+[Extended Data](ext_articles/9065e7f4.ext.json)
+
 ---
 
-### ஜீவனின் மெய்பாதுகாவலர்கள் ஆயுதங்களை ஒப்படைத்து மீளப் பெற்றனர்
+### Jeevan's bodyguards handed over the weapons
 
 *2024-06-02 11:51:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஜீவனின்-மெய்பாதுகாவலர்கள்-ஆயுதங்களை-ஒப்படைத்து-மீளப்-பெற்றனர்/76-338271) · `ta`
 
-இலங்கை தொழிலாளர் காங்கிரஸின் பொதுச் செயலாளரும், நீர் வழங்கல் மற்றும் தோட்ட உட்கட்டமைப்பு அமைச்சருமான ஜீவன் தொண்டமானின் பாதுகாப்பிற்கு நியமிக்கப்பட்டிருந்த மூன்று பொலிஸ் உத்தியோகத்தர்கள் தமது துப்பாக்கிகளை தலவாக்கலை பொலிஸாரிடம் ஒப்படைத்துவிட்டு சில மணித்தியாலங்களின் பின்னர் மீளப்பெற்றுக்கொண்டனர் எனபொலிஸார் தெரிவித்தனர்.
+Bodyguards of Jeevan Thondaman, a political figure, turned in their weapons to the Talawakelle police after receiving orders. They were later retrieved. This incident followed Thondaman's visit to a police station seeking justice for his party's supporters.
 
-கடந்த சில தினங்களுக்கு முன்னர் அமைச்சர் ஜீவன் தொண்டமான் அக்கட்சியின் ஆதரவாளர்களை அழைத்துக்கொண்டு நுவரெலியா பொலிஸ் நிலையத்துக்குச் சென்று நியாயம் கேட்டார்..
+🟩
 
-அமைச்சரின் பாதுகாப்பு பிரிவினரின் துப்பாக்கிகளை கைப்பற்றுமாறு தலவாக்கலை பொலிஸாருக்கு பொலிஸாருக்கு தொலைபேசி செய்தியும் கிடைத்துள்ளது.
+The three police officers who were assigned to the protection of Jeevan Thondaman, the General Secretary of the Ceylon Workers Congress and Water Supply and Estate Infrastructure, handed over their guns to the Talawakelle police and recovered a few hours later, police said.
 
-அத்துடன், பொலிஸாரிடம் ஒப்படைக்கப்பட்ட துப்பாக்கிகளை அதே அதிகாரிகளிடம் ஒப்படைக்குமாறு தலவாக்கலை பொலிஸாருக்கு சில மணித்தியாலங்களின் பின்னர்  கிடைத்த தொலைபேசி செய்தியின் அடிப்படையில் அமைச்சரின் பாதுகாப்பு பிரிவு அதிகாரிகளிடம் துப்பாக்கிகள் கையளிக்கப்பட்டன.
+Just a few days ago, Minister Jeevan Thondaman took the supporters of the party and went to the Nuwara Eliya police station and asked for justice.
 
-...
+The Talawakelle police have received a telephone message to seize the guns of the minister's security unit.
+
+In addition, the Talawakelle police have handed over the guns to the Talawakelle police to hand over the guns handed over to the police.
+
+Officers of the Minister's Security Department arrived at the Talawakelle police station at around 11 pm yesterday (01).
+
+◼️
 
 [Data](articles/f0036cfa.json)
+
+[Extended Data](ext_articles/f0036cfa.ext.json)
 
 ---
 
@@ -121,6 +161,8 @@ Additionally, there is a possibility of a flood situation occurring in low-lying
 ...
 
 [Data](articles/55bf1698.json)
+
+[Extended Data](ext_articles/55bf1698.ext.json)
 
 ---
 
@@ -345,6 +387,24 @@ Police say the murder had been carried out with a dispute with a resident of a r
 [Data](articles/32b8d5bf.json)
 
 [Extended Data](ext_articles/32b8d5bf.ext.json)
+
+---
+
+### දිස්ත්‍රික්ක 10කට නාය යෑමේ අනතුරු ඇගවීම්
+
+*2024-06-02 10:04:49* · [`adalk`](https://www.ada.lk/breaking_news/දිස්ත්‍රික්ක-10කට-නාය-යෑමේ-අනතුරු-ඇගවීම්/11-409957) · `si`
+
+පවතින අයහපත් කාලගුණයත් සමග දිස්ත්‍රික්ක 10ක් සඳහා නායයෑමේ අනතුරු ඇඟවීම් නිකුත් කර තිබේ.
+
+ඒ අනුව කොළඹ දිස්ත්‍රික්කයේ පාදුක්ක ප්‍රාදේශීය ලේකම් කොට්ඨාසයට මෙන්ම කළුතර දිස්ත්‍රික්කයේ සහ රත්නපුර දිස්ත්‍රික්කයේ ප්‍රාදේශීය ලේකම් කොට්ඨාස 12ක් සඳහා නායයෑම් අනතුරු ඇඟවීමේ රතු නිවේදන නිකුත් කර ඇති බව ජාතික ගොඩනැගිලි පර්යේෂණ සංවිධානය පවසයි.
+
+එමෙන්ම මහනුවර, නුවරඑළිය, රත්නපුර, ගාල්ල, කෑගල්ල, හම්බන්තොට, මාතර සහ කුරුණෑගල යන දිස්ත්‍රික්කවල ප්‍රාදේශීය ලේකම් කොට්ඨාස 41ක් සඳහා එම නායයෑමේ අනතුරු ඇඟවීම් නිකුත් කර තිබේ.
+
+එම නායයෑම් අනතුරු ඇඟවීම් අද (02) අලුයම 04 සිට හෙට (03) අලුයම 04 දක්වා බලපැවැත්වෙන බව ජාතික ගොඩනැගිලි පර්යේෂණ සංවිධානයේ ජ්‍යෙෂ්ඨ භූ විද්‍යාඥ වසන්ත සේනාධීර මහතා සඳහන් කළේය.
+
+◼️
+
+[Data](articles/616521e3.json)
 
 ---
 
@@ -2131,55 +2191,5 @@ Meanwhile, the Sri Lanka Three Wheeler Association has said that the reduced fue
 [Data](articles/13da248f.json)
 
 [Extended Data](ext_articles/13da248f.ext.json)
-
----
-
-### Change on bus, Otto charges?
-
-*2024-06-01 15:43:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பஸ்-ஓட்டோ-கட்டணங்களில்-மாற்றம்/175-338233) · `ta`
-
-Ceylon Petroleum Corporation lowered fuel prices, affecting Sri Lanka IOC and Sinopac. Sinopac's Otto Diesel is now cheaper by 3 rupees compared to Ciptco and IOC. Despite this, private bus associations and the Sri Lanka Three Wheeler Association have decided against reducing fares, citing no possibility of fare reduction due to operational costs.
-
-🟩
-
-The Ceylon Petroleum Corporation has reduced the prices of some of its fuels with effect from midnight yesterday.
-
-With the revision of the price, the Sri Lanka IOC and its prices have been revised, and Sinopac has revised its fuel prices.
-
-However, the price of a liter of Otto Diesel selling Sinopac is 3 rupees lower than the Ciptco and IOC fuel.
-
-Private bus associations point out that there is no possibility of reduction in bus fares despite fuel prices.
-
-Meanwhile, the reduced fuel price concession will not be reduced due to the lack of service, the Sri Lanka Three Wheeler Association said it would not reduce the tariffs.. Remble
-
-◼️
-
-[Data](articles/3f5afc03.json)
-
-[Extended Data](ext_articles/3f5afc03.ext.json)
-
----
-
-### 20 drown in boat accident in eastern Afghanistan
-
-*2024-06-01 15:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/99579/20-drown-in-boat-accident-in-eastern-afghanistan) · `en`
-
-Twenty people, including children, drowned when a boat sank during a river crossing in Afghanistan’s eastern Nangarhar province on Saturday, a provincial official said.
-
-“A boat with women and children on board sank on Saturday morning at 7 am (0230 GMT) in the river in the Basawul area of Momand Dara district” of eastern Nangarhar, said Quraishi Badloon, the head of the province’s information department, in a post on social media platform X.
-
-He said five people survived the accident, the cause of which was being investigated.
-
-The Nangarhar Information and Culture Department said the authorities had sent a medical team and ambulances to the area, in a message shared with media.
-
-At least five bodies had been recovered and efforts were underway to find the others, provincial government officials said.
-
-Residents in the area regularly cross the river using boats often in poor condition, as there is no nearby bridge, local media reported.
-
-◼️
-
-[Data](articles/7ede8a46.json)
-
-[Extended Data](ext_articles/7ede8a46.ext.json)
 
 ---

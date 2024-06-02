@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-02 19:03:53**
+As of **2024-06-02 19:18:51**
 
 ## Newspaper Stats
 
-*Scraped **27,915** Articles*
+*Scraped **27,916** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,76 +19,114 @@ adalk | 2,381
 adaderanalk | 3,175
 tamilmirrorlk | 3,274
 virakesarilk | 4,302
-dailymirrorlk | 4,423
+dailymirrorlk | 4,424
 adaderanasinhalalk | 4,471
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,909 (100.0%) of 27,915 articles have been extended.
+27,915 (100.0%) of 27,916 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-02 (Sunday)
 
-### தண்டவாளத்தில் பஸ்ஸை செலுத்திய சாரதி கைது
+### Potential power suspensions due to inclement weather
+
+*2024-06-02 19:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Potential-power-suspensions-due-to-inclement-weather/108-283915) · `en`
+
+Colombo, June 1 (Daily Mirror) - The Ceylon Electricity Board (CEB) issued a public advisory over the suspending of power supply to several areas from time to time to avoid risking valuable lives.
+
+They said the decision was taken due to inclement weather conditions and over critical breakdowns and that life threatening situations will be given priority.
+
+However, the staff of the CEB will take every effort to restore power at the next possible instance to minimise the inconvenience to the public.
+
+Therefore, the public is urged not to make unnecessary calls to the Call Centers of the CEB to reserve the facilities for important life saving and critical breakdown complaints.
+
+Therefore, the consumers' cooperation and understanding are highly valuable for the CEB to optimally use its resources at this time of calamities.
+
+◼️
+
+[Data](articles/a38e0d64.json)
+
+---
+
+### Driver arrested for driving buses on the railway
 
 *2024-06-02 18:43:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தண்டவாளத்தில்-பஸ்ஸை-செலுத்திய-சாரதி-கைது/175-338308) · `ta`
 
-அவிசாவளை – புவக்பிட்டிய பகுதியிலுள்ள ரயில் தண்டவாளத்தில் பஸ் ஒன்றை செலுத்திய சாரதி கைது செய்யப்பட்டுள்ளார்.
+A driver was arrested in Sri Lanka for driving a bus onto a railway track near Avissawella-Bhuvakpitiya due to heavy traffic caused by floods. The incident occurred while the driver was trying to bypass traffic congestion.
 
-இந்த சாரதி எம்பிலிபிட்டிய பகுதியில் வைத்து கைது செய்யப்பட்டதாக பொலிஸ் ஊடகப் பேச்சாளர், பிரதி பொலிஸ் மாஅதிபர் நிஹால் தல்துவ தெரிவிக்கின்றார்.
+🟩
 
-கொழும்பிலிருந்து எம்பிலிபிட்டிய நோக்கி பயணித்த தனியார் பஸ் ஒன்றின் சாரதியே, இவ்வாறு ரயில் தண்டவாளத்தில் பஸ்ஸை செலுத்தியுள்ளார்.
+A driver has been arrested for driving a bus on a railway track in Avissawella - Bhuvakpitiya.
 
-புவக்பிட்டிய பகுதியில் ஏற்பட்ட வெள்ளப் பெருக்கு காரணமாக, குறித்த பகுதியில் கடும் வாகன நெரிசல் ஏற்பட்டிருந்தது.
+Police Media Spokesperson, Deputy Inspector General of Police Nihal Talduwa says the driver was arrested in the Embilipitiya area.
 
-போக்குவரத்து நெரிசலை தவிர்த்து செல்லும் நோக்கில், பஸ்ஸின் சாரதி, பஸ் ரயில் தண்டவாளத்தில் செலுத்தியுள்ளார்.
+The driver of a private bus traveling from Colombo to Embilipitiya has thus poured the bus on the railway track.
 
-இந்த நிலையில், பஸ்ஸின் சாரதி கைது செய்யப்பட்டுள்ளதுடன், பஸ்ஸை பொலிஸார் தமது பொறுப்பிற்கு எடுத்துள்ளனர்.
+Due to floods in the Bhuvakpitiya area, there was heavy traffic congestion in the area.
+
+The driver of the bus, in order to avoid traffic congestion, has driven the bus railway track.
+
+In this case, the driver of the bus has been arrested and the bus has been taken to their responsibility.
 
 ◼️
 
 [Data](articles/31cf8e35.json)
 
+[Extended Data](ext_articles/31cf8e35.ext.json)
+
 ---
 
-### சீரற்ற காலநிலையால் பல வீதிகள் வெள்ளத்தால் மூழ்கின; ரயில்கள் தாமதம்
+### Many streets were flooded due to inclement weather;The trains are delayed
 
 *2024-06-02 18:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/185144) · `ta`
 
-சீரற்ற காலநிலை காரணமாகப்  பிரதான வீதி, கரையோர வீதி மற்றும் புத்தளம் வீதி என்பன வெள்ளத்தில் மூழ்கியுள்ளது.
+Heavy rain caused flooding on major roads and disrupted train services due to signal issues and fallen trees blocking the tracks. A bridge between two stations was also flooded, restricting train movement.
 
-சமிக்ஞையில் ஏற்பட்ட கோளாறு காரணமாக சில ரயில்கள் தாமதமாகச் செல்வதாக ரயில்வே திணைக்களம் தெரிவித்துள்ளது.
+🟩
 
-பல நிலையங்களில் புகையிரத பாதையில் மரங்கள் முறிந்து வீழ்ந்துள்ளதால் புகையிரத போக்குவரத்து தடைப்பட்டுள்ளதாகப் புகையிரத பொது முகாமையாளர் இண்டிபோலகே தெரிவித்துள்ளார்.
+Due to inclement weather, the main road, coastal road and Puttalam road have been flooded.
 
-வாக மற்றும் கொஸ்கம புகையிரத நிலையங்களுக்கு இடையிலான பாலம் ஒன்று வெள்ளத்தில் அடித்துச் செல்லப்பட்டுள்ளதால் களனிவெளி பாதையில் பயணிக்கும் புகையிரதம் வாக புகையிரத நிலையம் வரை மட்டுப்படுத்தப்பட்டுள்ளது.
+The Railway Department said some trains are delayed due to a signal problem.
+
+Railway General Manager Indipolake said that railway traffic has been blocked as trees have fallen on the railway line at several stations.
+
+A bridge between Vara and Koskama railway stations has been flooded and the train traveling on the Kelaniweli road has been restricted to the railway station.
 
 ◼️
 
 [Data](articles/066391a8.json)
 
+[Extended Data](ext_articles/066391a8.ext.json)
+
 ---
 
-### දුම්රිය මාර්ගයේ ගිය බස් රථයේ රියදුරු අත්අඩංගුවට
+### The driver of the bus to be arrested
 
 *2024-06-02 18:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197295) · `si`
 
-දුම්රිය මාර්ගයේ බස් රථයක් ධාවනය කළ සිද්ධියට අදාළව එම බස් රථයේ රියදුරු පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+A bus driver from Colombo was arrested after his vehicle was found on a railway track in the Embilipitiya area, leading to a fatal accident involving a police DIG mentioned by Minister Nihal Talduwa. The incident occurred near the Clanawyi railway line in Puwakpitiya, where the driver had previously shared videos.
 
-පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති නීතිඥ නිහාල් තල්දූව මහතා සඳහන් කළේ සැකකාර බස් රියදුරු ඇඹිලිපිටිය ප්‍රදේශයේදී අත්අඩංගුවට ගෙන ඇති බවය.
+🟩
 
-මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ ඇඹිලිපිටිය කොළඹ පෞද්ගලික බස් රථයක රියදුරෙකි.
+The bus has been arrested by the police in connection with the driving bus on the railway line.
 
-එම රියදුරු සිය බස් රථය අද පුවක්පිටිය ප්‍රදේශයේදී කැලණිවැලි දුම්රිය මාර්ගයේ ධාවනය කරන අයුරු දැක්වෙන වීඩියෝ කිහිපයක් සමාජ මාධ්‍ය ඔස්සේ හුවමාරු විය.
+The police spokesman DIG's deceased was said at the DIG's Minister Nihal Talduuwa in the Embilipitiya area in the Embilipitiya area.
 
-සැකකාර බස් රියදුරු සමග අදාළ බස් රථය ද පොලිස් භාරයට ගෙන තිබේ.
+The driver of a private bus in Colombo in Embilipitiya has been arrested.
+
+The driver was exchanged videos in the Clanawyi railway line in the Puwakpitiya area today.
+
+The bus has also seized the bus driver.
 
 ◼️
 
 [Data](articles/c32010a0.json)
+
+[Extended Data](ext_articles/c32010a0.ext.json)
 
 ---
 
@@ -188,19 +226,31 @@ A bridge between Kosgama railway stations, the Kelaniweli road has been restrict
 
 ---
 
-### அரசியல் தீர்மானம் எடுக்க ஜனாதிபதியிடம் ஆலோசனை பெறுவதில்லை - நாமல் ராஜபக்ஷ
+### Namal Rajapaksa does not consult the president to make a political decision
 
 *2024-06-02 17:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/185139) · `ta`
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்கவை பதவியில் வைத்துக் கொண்டு நாங்கள் எமது ஜனாதிபதி வேட்பாளரை அறிவித்தால் அரசாங்கம் நெருக்கடிக்குள்ளாகும்.ஜனாதிபதி தேர்தல் குறித்து தனது நிலைப்பாட்டை ஜனாதிபதி அறிவிக்க வேண்டும். ஜனாதிபதியிடம் ஆலோசனை பெற்று நாங்கள் அரசியல் தீர்மானத்தை எடுப்பதில்லை என பொதுஜன பெரமுனவின் தேசிய அமைப்பாளர் நாமல் ராஜபக்ஷ தெரிவித்தார்.
+Namal Rajapaksa, the National Organizer of the PA, stated that political decisions are made without consulting the president. This stance was highlighted during an event in Colombo, where it was also mentioned that the PA has chosen Ranil Wickremesinghe as the interim president. Despite being in discussions with a presidential candidate, Rajapaksa emphasized the importance of adhering to the PA's policies, indicating no compromise on their political stance.
 
-கொழும்பில் ஞாயிற்றுக்கிழமை (2) இடம்பெற்ற நிகழ்வின் பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+🟩
 
-ஐக்கிய மக்கள் சக்தியின் உறுப்பினர்கள் ஜனாதிபதியுடன் ஒன்றிணைந்தால் நாங்கள் எமது அரசியல் தீர்மானத்தை அறிவிப்பதாகக் குறிப்பிடுவது முறையற்றது.ஏனெனில் எதிர்க்கட்சியின் உறுப்பினர்கள் ஜனாதிபதியுடன் ஒன்றிணைவதால் எமக்கு அரசியலில் எவ்வித பயனும் கிடைப்பதில்லை அதேபோல்  எவ்வித பாதிப்பும் ஏற்படாது.
+If we announce our presidential candidate by holding the post of President Ranil Wickremesinghe, the government is in crisis. The President must announce his position on the presidential election.. The National Organizer of the PA, Namal Rajapaksa, said that we do not take a political decision with consultation with the president.
 
-...
+He was speaking to the media after the event held in Colombo on Sunday (2).
+
+It is improper to say that if the members of the United People's Power are united with the president, it is improper to announce our political decision.
+
+We have elected United National Party (UNP) leader Ranil Wickremesinghe as the interim president.
+
+We are in talks with the presidential candidate.
+
+We have paid special attention to political decisions by highlighting the policies of the Sri Lanka PA. He said he would not give up the party's policies for any reason.
+
+◼️
 
 [Data](articles/7029bc34.json)
+
+[Extended Data](ext_articles/7029bc34.ext.json)
 
 ---
 
@@ -848,15 +898,21 @@ The DMC also stated that an operation has been launched in search of the two mis
 
 ---
 
-### කාලගුණය කැළඹෙයි
+### The weather is convinced
 
 *2024-06-02 14:29:54* · [`adalk`](https://www.ada.lk/breaking_news/කාලගුණය-කැළඹෙයි/11-409963) · `si`
 
-ඊයේ රාත්‍රී සිට දිවයිනේ බොහෝ ප දේශයන්ට ඇඳ හැළෙන අධික වැසි සහිත කාලගුණ තත්ත්වය හේතුවෙන් ජනතාව දැඩි ලෙස පීඩාවට පත්ව තිබේ.
+Heavy rains caused severe damage to properties on the island last night, affecting many residents.
+
+🟩
+
+The masses have been severely affected by the heavy rains that cause in the island's land in the island last night.
 
 ◼️
 
 [Data](articles/2e8b6413.json)
+
+[Extended Data](ext_articles/2e8b6413.ext.json)
 
 ---
 
@@ -1456,21 +1512,27 @@ Minister of Education Aravinda, Kumar stated that this decision was taken with t
 
 ---
 
-### නිදහස් පක්ෂය අනෙක් පක්ෂ සමග සාකච්‍ඡා
+### Free Party discusses with other parties
 
 *2024-06-02 12:12:30* · [`adalk`](https://www.ada.lk/breaking_news/නිදහස්-පක්ෂය-අනෙක්-පක්ෂ සමග-සාකච්‍ඡා/11-409961) · `si`
 
-වාමවාදි දේප්‍රේමී, ජාතිවාදි පක්ෂ සමඟ මේ වන විට සාකච්ඡා ආරම්භ කර තිබෙන බවත්,  එම සාකච්ඡා යම් ඵලදායි ගුණාතමක අයුරින් ඉදිරියට ගමන් කර තිබෙන බවත් ශ්‍රී ලංකා නිදහස් පක්ෂයේ ජ්‍යෙෂ්ඨ උප සභාපති රෝහණ ලක්ෂමන් පියදාස මහතා පැවසීය.
+SLFP VP Rohana Lakshman Piyadasa announced discussions with Commonwealth and a racist party, focusing on implementing party policies. He mentioned starting dialogues with district merchants, collaborators, and conducting several meetings and propaganda activities from this month.
 
-මහනුවර දී මාධ්‍ය හමුවේ අදහස් දක්වමින් ඒ මහතා ශ්‍රී ලංකා නිදහස් පක්ෂයේ ප්‍රතිපත්ති වැඩසටහන්, සැලසුම් කරගෙන, සක්‍රියව ක්‍රියාත්මක කරගෙන යන බවත්, පක්ෂය තුළ අනුබද්ධ සංවිධාන ‍ගොඩනැගිනීමේ කටයුතු ද මේ වන විට සිදු කෙරෙන බව කීවේය.
+🟩
 
-ශ්‍රී ලංකා නිදහස් පක්ෂයේ සංවිධායකවරුන් විසින් දිස්ත්‍රික් මටට්මේ රැස්වීම්, සහහෝදර දේශපාලන පක්ෂ සමග සාකච්ඡා මේ වන විට ආරම්භ වී තිබෙනවා, මේ මාසයේ සිට ආසන මට්ටමේ රැස්වීම් හා ප්‍රචාරක කටයුතු ආරම්භ කරන බවත් හෙතෙම කීය.
+The SLFP Vice President Rohana Lakshman Piyadasa said that the discussions have been started with the Commonwealth and the racist party.
 
-අධිකරණමය කාරණා එලෙසින් සිදුවන බවත්, එතෙක් අනෙකුත් දේශපාලන පක්ෂ විසින් කටයුතු කරන අයුරින්, තම පක්ෂය ද දේශපාලන කටයුතු ද  සිදු කරන බවත් ඒ මහතා සඳහන් කළේය.
+He told the media in Kandy, planning and actively implementing the Sri Lanka Freedom Party Policy Programs, organizations in the party.
+
+The SLFP organizers have begun talks with District Merchant Meetings, collaboratives, and the number of seat level meetings and propaganda from this month.
+
+He added that the party matters take place and his party will also carry out political parties.
 
 ◼️
 
 [Data](articles/15f24576.json)
+
+[Extended Data](ext_articles/15f24576.ext.json)
 
 ---
 
@@ -2065,29 +2127,5 @@ Police say the murder had been carried out with a dispute with a resident of a r
 [Data](articles/32b8d5bf.json)
 
 [Extended Data](ext_articles/32b8d5bf.ext.json)
-
----
-
-### Landsay Acquisitions of Lands to 10 Districts
-
-*2024-06-02 10:04:49* · [`adalk`](https://www.ada.lk/breaking_news/දිස්ත්‍රික්ක-10කට-නාය-යෑමේ-අනතුරු-ඇගවීම්/11-409957) · `si`
-
-Landslide warnings cover 10 districts including areas in Colombo, Kandy, Nuwara Eliya, Ratnapura, Kegalle, Matara, and Kurunegala. Issued by NBRO, effective from 4 am today until 4 am tomorrow.
-
-🟩
-
-Landslide warnings have been issued for 10 districts with the inclement weather.
-
-According to the National Building Research Organization (NBRO) has issued the landslide warning for the Padukka Divisional Secretariat Division in Colombo as well as the Padukka Divisional Secretariat Division in Colombo.
-
-The landslide warnings have been issued for 41 Divisional Secretariat Divisions in Kandy, Nuwara Eliya, Ratnapura, Ratnapura, Kegalle, Matara and Kurunegala districts.
-
-The landslide warnings will be effective from 4am to 4am to 4 am tomorrow (03) at the Senior Geologist Wasantha Senadheera.
-
-◼️
-
-[Data](articles/616521e3.json)
-
-[Extended Data](ext_articles/616521e3.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-02 15:18:45**
+As of **2024-06-02 15:34:20**
 
 ## Newspaper Stats
 
-*Scraped **27,864** Articles*
+*Scraped **27,867** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,507
 economynextcom | 1,587
 dailyftlk | 1,635
-adalk | 2,374
+adalk | 2,377
 adaderanalk | 3,169
 tamilmirrorlk | 3,269
 virakesarilk | 4,286
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,462
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,863 (100.0%) of 27,864 articles have been extended.
+27,864 (100.0%) of 27,867 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,22 @@ No injuries have been reported, and the cause of the tree fall is under investig
 ◼️
 
 [Data](articles/ef5633c1.json)
+
+[Extended Data](ext_articles/ef5633c1.ext.json)
+
+---
+
+### වරකාපොළට දැඩි වර්ෂාවක් ගසක් කඩා වැටී කොළඹ - නුවර මාර්ගයේ වාහන ගමනාගමන ඇණහිටියි
+
+*2024-06-02 14:56:13* · [`adalk`](https://www.ada.lk/picture_story/වරකාපොළට-දැඩි-වර්ෂාවක්-ගසක්-කඩා-වැටී-කොළඹ---නුවර-මාර්ගයේ-වාහන-ගමනාගමන-ඇණහිටියි/10-409964) · `si`
+
+අද පෙරවරුවේ පටන් ඇඳ හැලෙන අධික වර්ෂාව හේතුවෙන් වරකාපොළ නගරයෙන් කොළඹ - නුවර ප්‍රධාන මාර්ගය ජලයෙන් යටවී තිබේ. එසේම වරකාපොළ නගරයට ආසන්නව හැලගලදී කොළඹ  -  නුවර මාර්ගයට විශාල ගසක් කඩා වැටිම හේතුවෙන් වාහන ගමනාගමනය ඇණහිට තිබේ.
+
+ගස ඉවත් කිරීමේ කටයුුතු ආරම්භ කර තිබේ. විකල්ප මාර්ග භාවිත කරන ලෙසට රියදුරන්ට දන්වා සිටින අතර වරකාපොල නගරයේ මිරිගම හංදියෙන් මිරිගම නගරයට පිවිස එතැනින් පස්යාල හංදියට පැමිණ කොළඹ නුවර මාර්ගයට පිවිසීමට හැකිවෙයි.
+
+◼️
+
+[Data](articles/5d8e6154.json)
 
 ---
 
@@ -107,6 +123,18 @@ The DMC also stated that an operation has been launched in search of the two mis
 [Data](articles/0fe7c29f.json)
 
 [Extended Data](ext_articles/0fe7c29f.ext.json)
+
+---
+
+### කාලගුණය කැළඹෙයි - ගම් නගර ජලයෙන් යටවෙයි
+
+*2024-06-02 14:29:54* · [`adalk`](https://www.ada.lk/breaking_news/කාලගුණය-කැළඹෙයි---ගම්-නගර-ජලයෙන්-යටවෙයි/11-409963) · `si`
+
+ඊයේ රාත්‍රී සිට දිවයිනේ බොහෝ ප දේශයන්ට ඇඳ හැළෙන අධික වැසි සහිත කාලගුණ තත්ත්වය හේතුවෙන් ජනතාව දැඩි ලෙස පීඩාවට පත්ව තිබේ.
+
+◼️
+
+[Data](articles/95c30fda.json)
 
 ---
 
@@ -2181,57 +2209,5 @@ The Gratiaen event was held in association with the John Keells Foundation and s
 [Data](articles/f67deefb.json)
 
 [Extended Data](ext_articles/f67deefb.ext.json)
-
----
-
-### A Notification of Floods
-
-*2024-06-01 20:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197257) · `si`
-
-The Department of IMP has warned of minor flooding in specific areas around the Small River and Roadgrounds in Bulathsinhala, Madurawala, and Palindawala Divisional Secretariats over the next 48 hours.
-
-🟩
-
-The Department of IMP has issued a warning statement regarding a small flooding.
-
-Accordingly, up to the next 48 hours, it warns that minor floods belonging to the small areas of the small area of ​​the Small River and the Roadgrounds in Bulathsinhala, Madurawala and Palindawala Divisional Secretariats.
-
-◼️
-
-[Data](articles/5d887e44.json)
-
-[Extended Data](ext_articles/5d887e44.ext.json)
-
----
-
-### ISIS CEBS CONTENTS HEVER SHIPLED IN PUMBERA
-
-*2024-06-01 19:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197256) · `si`
-
-The LTTE was granted permission by the Wiki Magistrate Court to investigate bank accounts in Sri Lanka and India related to three Sri Lankans arrested for alleged ties to ISIS. The Fort Magistrate's Court also ordered CCTV footage. Osman Gerard, a 46-year-old resident of Colombo, was arrested for suspected involvement with the four Sri Lankans arrested in India. The Criminal Investigation Department and the Terrorist Investigation Division are involved in the case.
-
-🟩
-
-The Territory Investigation Division (LTTE) was permitted by the Wiki Magistrate Court today to investigate the bank accounts in Sri Lanka and the bank accounts of the country.
-
-It was in connection with three Sri Lankans who were arrested in Sri Lanka with the four Sri Lankans who were arrested in India with regard to the ISIS terrorist organization.
-
-The Fort Magistrate's Court today ordered the CCTV footage of and the relevant CCTV footage.
-
-Meanwhile, Osman Gerard was arrested in Colombo last night
-
-That Criminal Investigation Department and the Terrorist Investigation Division participated.
-
-The police had requested public assistance last Saturday to arrest a person who was arrested and supported by the four Sri Lankans who were arrested in India.
-
-According to the police, he is a resident of the 46-year-old Gerard Pushraja Ozman, Gerad, Dematagoda, Dematagoda.
-
-Meanwhile, he was arrested last night accordingly the suspect is hiding in Colombo.
-
-...
-
-[Data](articles/1022e54b.json)
-
-[Extended Data](ext_articles/1022e54b.ext.json)
 
 ---

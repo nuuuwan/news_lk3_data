@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-02 21:03:50**
+As of **2024-06-02 21:18:41**
 
 ## Newspaper Stats
 
-*Scraped **27,930** Articles*
+*Scraped **27,933** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,507
 economynextcom | 1,587
 dailyftlk | 1,635
-adalk | 2,381
+adalk | 2,384
 adaderanalk | 3,177
 tamilmirrorlk | 3,274
 virakesarilk | 4,302
@@ -26,47 +26,63 @@ adaderanasinhalalk | 4,477
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,927 (100.0%) of 27,930 articles have been extended.
+27,930 (100.0%) of 27,933 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-02 (Sunday)
 
-### කැලඹුණු කාලගුණය ඇසිල්ලකින් සිදුකළ මහා විනාශය
+### The most disturbance of the turbulent weather
 
 *2024-06-02 20:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197301) · `si`
 
-දිවයිනේ නිරිතදිග කොටසට නොනවත්වා ඇදහැලෙන ධාරාණිපාත වර්ෂාවත් සමඟ සිදුවූ ආපදා හේතුවෙන් ගතවූ පැය 24 දී පමණක් කුඩා දරුවන් ඇතුළු පුද්ගලයින් 8 දෙනෙකුට දිවි අහිමිව ඇති බව ආපදා කළමනාකරණ මධ්‍යස්ථානය පවසයි.
+Heavy rains due to the southwest monsoon have caused widespread flooding and landslides across the island, resulting in numerous casualties and displacements. Key incidents include fatalities from being trapped in homes during floods and landslides, with victims ranging from small children to elderly individuals. Infrastructure damage is extensive, affecting roads, shops, and houses, while electricity outages and disruptions to public transportation have been reported. The situation is further complicated by the overflow of major rivers and the issuance of flood risks. In response, rescue operations are underway, and schools will be closed tomorrow due to safety concerns.
 
-නිරිතදිග මෝසම් තත්ත්වය ස්ථාපිත වීමෙන් මේ වනවිට බොහෝ ප්‍රදේශවලට ඉතා තද වැසි සමඟ දැඩි බලපෑම් එල්ල වෙමින් පවතී.
+🟩
 
-අද අලුයම 1ට පමණ අවිස්සාවේල්ල ඇස්වතු ඔය හදිසියේ පිටාර ගැලීමෙන් පුවක්පිටිය, කැකිල්ල ප්‍රදේශයේ දී ගංවතුරට හසුවී එකම පවුලේ තිදෙනෙකු මියගොස් තිබුණි.
+The Disaster Management Center (DMC) stated that eight persons including small children have been reduced to the 24 hours of disasters in the island.
 
-ගලා ආ සැඩපහරත් සමඟ නිවසේ දොර විවෘත කර ගැනීමට නොහැකිවීමෙන් ඔවුන් නිවස තුළම මියගොස් තිබුණි.
+The establishment of the southwest monsoon is very impacted by heavy rains in many areas.
 
-පොලීසිය පැවසුවේ, මෙලෙස මියගොස් ඇත්තේ 78 හැවිරිදි පුද්ගලයෙක්, 36 හැවිරිදි ඔහුගේ දියණිය හා ඇයගේ 7 හැවිරිදි දියණිය බවය.
+Avissawella Sudathi Oya at around 1 am
 
-එමෙන්ම, අවිස්සාවේල්ල - හේවාඉන්න ප්‍රදේශයේදී අද අලුයම සිදුවූ නායයාමකින් 11 හැවිරිදි දැරියක් ද මියගියාය.
+They had died in the house, from unable to open home door with the flesh, which came.
 
-වර්ෂාවත් සමඟ දෙයියන්දර - දෙනගම ප්‍රදේශයේ පිහිටි නිවසක පිටුපස කොටසට පස් කන්දක් කඩාවැටීමෙන් කුරුඳු තලමින් සිටි පුද්ගලයින් දෙදෙනෙකු ඊට යටවී මියගොස් තිබුණි.
+The deceased has been identified as a 78-year-old man, 36-year-old daughter and her 7-year-old daughter.
 
-මියගිය දෙදෙනා අවුරුදු 20 සහ 27 වයස්වල පසුවන අතර තවත් අයෙක් තුවාල ලබා රෝහල්ගත කර ඇත.
+Also, a 11-year-old girl was killed by a landslide in Avissawella.
+
+Two persons who had been crashed into the back of the house in Diyandara - Diyandara - Diyandara - Diyandara - Diyaragama area have been killed.
+
+The deceased have been 20 and 27 years old and another injured and hospitalized.
+
+Meanwhile, a number of rivers including black, forest, Kelani, Gin, Nilwala and Nilwala is currently underway along with heavy rains.
+
+The Irrigation Department issued a flood risk for 48 am today with heavy rains in the Kelani River.
 
 ...
 
 [Data](articles/457d13bf.json)
 
+[Extended Data](ext_articles/457d13bf.ext.json)
+
 ---
 
-### අයහපත් කාලගුණය සමග ජනපතිගෙන් විශේෂ දැනුම්දීමක්
+### President receives special notice with inclement weather
 
 *2024-06-02 20:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197300) · `si`
 
-අයහපත් කාලගුණයෙන් විපතට පත් ජනතාවට කඩිනම් සහන සැලසීම සඳහා දිස්ත්‍රික් ලේකම්වරුන් වෙත කඩිනමින් මුදල් වෙන්කරන ලෙසට ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මුදල් අමාත්‍යාංශ ලේකම්වරයාට උපදෙස් දී තිබේ.
+President Ranil Wickremesinghe directs Finance Ministry to allocate funds for immediate relief to those affected by bad weather.
+
+🟩
+
+President Ranil Wickremesinghe has instructed the Secretary of the Finance Ministry to allocate funds to the District Secretaries to provide immediate relief to the people affected by the inclement weather.
 
 ◼️
 
 [Data](articles/58cda635.json)
+
+[Extended Data](ext_articles/58cda635.ext.json)
 
 ---
 
@@ -110,15 +126,21 @@ The President’s Media Division announced this directive a short while ago, emp
 
 ---
 
-### මහා ගංවතුර ගැන නවතම නිවේදනය නිකුත් කෙරේ
+### Latest announcement released on floods
 
 *2024-06-02 20:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197299) · `si`
 
-අධික වැසි සමග ඇතිවූ ගංවතුර තත්ත්වය ගැන වාරිමාර්ග දෙපාර්තමේන්තුව විසින් නවතම නිවේදනයක් නිකුත් කර තිබේ.
+The Department of Irrigation has announced severe flooding due to heavy rains, advising residents to stay safe and follow local authorities' instructions.
+
+🟩
+
+The Department of Irrigation has issued a latest announcement on the flooding with heavy rains.
 
 ◼️
 
 [Data](articles/a2c53a64.json)
+
+[Extended Data](ext_articles/a2c53a64.ext.json)
 
 ---
 
@@ -306,6 +328,24 @@ Therefore, the consumers' cooperation and understanding are highly valuable for 
 
 ---
 
+### ආපදා මරණ 15ක් දක්වා ඉහළට
+
+*2024-06-02 18:45:40* · [`adalk`](https://www.ada.lk/breaking_news/ආපදා-මරණ-15ක්-දක්වා-ඉහළට/11-409969) · `si`
+
+ස්වාභාවික ආපදා සක්‍රීය වීම හේතුවෙන් අද පෙරවරුව දක්වා  පසුගිය සති තුනකට ආසන්න කාලයක් තිස්සේ ඇතිවූ ආපදාවලින් දිවයිනේ පවුල් 3727 ක පුද්ගලයින් 11864 ක පිරිසක් පීඩාවට පත්වූ බව ආපදා කළමනාකරණ මධ්‍යස්ථානය පවසයි.
+
+මෙම ආපදාවලින් පුද්ගල මරණ 15 ක් තුවාල සිදුවූ පුද්ගලයන් 23 ක් පූර්ණ නිවාස හානි 17 ක් අර්ධ නිවාස හානි 3304  ක් ව්‍යාපාරික ස්ථාන හානිවීම්  54 ක් මෙන්ම ආරක්ෂිත ස්ථාන ගතකළ  පුද්ගලයන් 2611 ක් වශයෙන් වාර්තාවූ බව එම මධ්‍යස්ථානය කියයි.
+
+පළාත් වශයෙන් වැඩිම ආපදා ප්‍රමාණයක් දකුණු පළාතෙන් වාර්තා වී තිබේ.එහි පවුල් 1982 ක පුද්ගලයන් 6840 ක් පීඩාවට පත්ව නිවාස හානි 3005 වාර්තාවූ බවද ආපදා කළමනාකරණ මධ්‍යස්ථානය සඳහන් කරයි.වැඩිම පිරිසක් අවතැන්ව ඇත්තේ සබරගමුව පළාතේ වන අතර එම සංඛ්‍යාව 2219 කි.
+
+ගංවතුර ,දැඩි සුළං ,නාය යෑම් ,ගස් සහ පස් කන්ඩි කඩා වැටීම්  ,තද වැසි ආදිය  හේතුවෙන් මේ ආපදා සිදුව ඇතැයි ආපදා කළමනාකරණ මධ්‍යස්ථානය මගින් අද  නිකුත් කළ වාර්තාවක සඳහන් කරයි.
+
+◼️
+
+[Data](articles/8d646d0f.json)
+
+---
+
 ### Driver arrested for driving buses on the railway
 
 *2024-06-02 18:43:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தண்டவாளத்தில்-பஸ்ஸை-செலுத்திய-சாரதி-கைது/175-338308) · `ta`
@@ -384,6 +424,26 @@ The bus has also seized the bus driver.
 
 ---
 
+### ප්‍රධාන ගංඟා පිටාර මට්ටමේ
+
+*2024-06-02 18:37:03* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රධාන-ගංඟා-පිටාර-මට්ටමේ/11-409968) · `si`
+
+පවතින අයහපත් කාලගුණික තත්ත්වය හේතුවෙන් අද (2දා) වන විට කළු ,කැලණි, ගිං, නිල්වලා ගංගා හතර පිටාර ගලන මට්ටමක පැවතින බව ජල හා වාරිමාර්ග දෙපාර්තමේන්තුව සඳහන් කරයි. ගිං ගඟේ මට්ටම ඊයේ දහවල් 12 වනවිට තවලම ප්‍රදේශයෙන් මීටර 8.35ක් ලෙස වර්ධනයවී මහා ගංවතුර තත්ත්වයක් දක්වා පත්ව තිබේ. එහි ජල මට්ටම ද තවදුරටත් වැඩිවෙමින් පවතී.
+
+කළු ගඟේ අතු ගංගාවක් වන කුඩා ගඟ ද මේ වනවිට මිල්ලකන්ද ප්‍රදේශයේ මීටර් 9.05ක් දක්වා වර්ධනයවී මහා ගංවතුර තත්ත්වයක් දක්වා වැඩිවෙමින් පවතී
+
+කළු ගඟ පුටුපාවුල, ඇල්ලගාව, රත්නපුර, ප්‍රදේශවලින් සහ කළු ගඟේ අතු ගංගාවක් වන මගුරු ගඟ මගුර ප්‍රදේශයෙන් මේ වනවිට සුළු ගංවතුර තත්ත්වයක් දක්වා වර්ධනය වී තිබේ. එහි ජල මට්ටම ද තවදුරටත් වැඩිවෙමින් පවතී.
+
+නිල්වලා ගඟ ද පිටබැද්දර ප්‍රදේශයෙන් මීටර් 6.84ක් දක්වා වර්ධනයවී මහා ගංවතුර තත්ත්වයක් දක්වා මතුවී ඇත.
+
+කැලණි ගඟ නාගලගම්වීදිය අඩි 5.30, හංවැල්ල මීටර් 8.68 සහ ග්ලේන්කෝස් මීටර් 16.65 ලෙස ජල මට්ටම වර්ධනයවී එම ප්‍රදේශවලින් සුළු ගංවතුර තත්ත්වයක් දක්වා වර්ධනය වී ඇත.
+
+◼️
+
+[Data](articles/a6e76746.json)
+
+---
+
 ### Driver of private bus driven along railway tracks in Puwakpitiya arrested
 
 *2024-06-02 18:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/99603/driver-of-private-bus-driven-along-railway-tracks-in-puwakpitiya-arrested) · `en`
@@ -399,6 +459,20 @@ A video of a private passenger bus being driven along the railway tracks paralle
 [Data](articles/fab2a835.json)
 
 [Extended Data](ext_articles/fab2a835.ext.json)
+
+---
+
+### රත්නපුර 4ක් මරුට
+
+*2024-06-02 18:25:36* · [`adalk`](https://www.ada.lk/breaking_news/රත්නපුර-4ක්-මරුට/11-409967) · `si`
+
+රත්නපුර දිස්ත්‍රික්කයට ඊයේ (01) වනදා සවස් කාලයේ සිට  ඇදහැලෙන අධික වර්ෂාවත් සමඟ ඇතිවූ ගංවතුර ඇතුළු විවිධ ආපදා තත්ත්වයන් හේතුවෙන් අද (.02) දින  වනවිට රත්නපුර දිස්ත්‍රික්කයේ පවුල් 2575 ක, පුද්ගලයින් 9398 දෙනෙකු වෙත ආපදා තත්ත්වයන් බලපා ඇති බව රත්නපුර දිස්ත්‍රික් ලේකම් රත්නපුර ආපදා කළමනාකරණ කමිටුවේ සභාපති වසන්ත ගුණරත්න මහතා පැවසීය.
+
+මේ පිළිබඳ වැඩිදුරටත් කරුණු පැහැදිලි කළ රත්නපුර දිසාපති වසන්ත ගුණරත්න මහතා, මෙම ආපදා තත්ත්වය රත්නපුර දිස්ත්‍රික්කයේ ප්‍රාදේශීය ලේකම් කොට්ඨාස 08 ක් සඳහා බලපෑම් ඇති කරනු ලැබූවා. එම ප්‍රාදේශීය ලේකම් කොට්ඨාස නම් රත්නපුර, කුරුවිට, ඇලපාත, ඇහැලියගොඩ, නිවිතිගල, අයගම, කිරිඇල්ල හා පැල්මඩුල්ලයි.
+
+...
+
+[Data](articles/bf9d6f36.json)
 
 ---
 
@@ -2011,79 +2085,5 @@ Additionally, there is a possibility of a flood situation occurring in low-lying
 [Data](articles/55bf1698.json)
 
 [Extended Data](ext_articles/55bf1698.ext.json)
-
----
-
-### Update: Heavy rainfall raises major flood concerns
-
-*2024-06-02 11:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Update-Heavy-rainfall-raises-major-flood-concerns/155-283899) · `en`
-
-01.20 PM - Army troops have been deployed in various areas to conduct rescue operations and provide relief to those affected by severe flooding in low-lying regions around the rivers, caused by adverse weather conditions across the island.
-
-Troops have been deployed to Kiriella, Dehiowita, Moravaka, Thawalama, Thihagoda, and Neluwa areas.
-
-Additionally, the Army has established cooking facilities in the Malimbada and Salawa areas to provide meals for displaced individuals.
-
-As per the instructions of the Army Commander, Security Forces Commanders have been directed to ensure that troops maintain a state of readiness to respond promptly to any emergency situations and continue rescue operations as needed.
-
-01.10 PM - The National Building Research Organization (NBRO) today issued early warnings for landslides in the Colombo, Hambantota, Kalutara, Kandy Matara, Nuwara Eliya, Galle, Ratnapura and Kegalle districts.
-
-...
-
-[Data](articles/85e0c321.json)
-
-[Extended Data](ext_articles/85e0c321.ext.json)
-
----
-
-### Live updates : Adverse weather
-
-*2024-06-02 11:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Live-updates-Adverse-weather/155-283899) · `en`
-
-8.04 PM - The death toll from the extreme weather conditions in the country has climbed to 10 in the past 24 hours as confirmed by State Defence Minister Premitha Bandara Tennakoon.
-
-7.31 PM - Police have set up two dedicated lines, 0112 421 820 and 0112 421 111, for individuals to contact for urgent assistance.
-
-6.01 PM - The Disaster Management Center reported seven fatalities due to the ongoing adverse weather conditions in the past 24 hours.
-
-3.58 PM - The Kaduwela-Biyagama interchange on the Southern Expressway has been closed for traffic to and from Kadawatha until further notice.
-
-3.01 PM - Train services on the Kelani Valley line have been severely disrupted following the collapse of a bridge between Waga and Kosgama.
-
-2.58 PM - Traffic on the Colombo-Kandy main road came to a standstill following a tree collapse near Warakapola town.
-
-...
-
-[Data](articles/e17945ba.json)
-
-[Extended Data](ext_articles/e17945ba.ext.json)
-
----
-
-### The aircraft sent to Katunayake sends to Mattala
-
-*2024-06-02 11:44:38* · [`adalk`](https://www.ada.lk/breaking_news/කටුනායකට-ආපු-ගුවන්-යානා-මත්තලට-යවයි/11-409959) · `si`
-
-Due to heavy rain, flights were diverted from Katunayake to Mattala Airport. An aircraft from Abu Dhabi landed at Mattala on March 5th, and another flight from Changi Airport also moved to Mattala. Passengers from Abu Dhabi couldn't disembark initially but were later allowed off. The same aircraft returned to Katunayake at 6:02 am after landing there at 10:50 pm from Singapore.
-
-🟩
-
-Bandaranaike International Airplanes were convinced that the Katunayake Airport was taken to the Mattala Airport due to heavy rains in the early hours of the early lightning area in the morning of Katunayake..
-
-Accordingly, Abu Dhadi to landed at Abby 3/05 on 02 days.
-
-In addition to this month at Changi Airport at Changi Airport from Changi Airport, SriLankan Airlines UL, arrived at the Katunayake airport at Katunayake Airport - 309-309-owned airport to the Mattala airport.
-
-The event was said to the officer in charge of the Mattala Airport and the surrounding area in Hambantota.
-
-The passengers from Abu Dhadi were not able to be out of the plane, and the plane was returned to the Katunayake airport at 06/02 am.
-
-However, the aircraft had come to the Katunayake Airport at 10.50 am on 06/02 night from Singapore.
-
-◼️
-
-[Data](articles/d7e7a800.json)
-
-[Extended Data](ext_articles/d7e7a800.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-02 18:22:39**
+As of **2024-06-02 18:34:15**
 
 ## Newspaper Stats
 
-*Scraped **27,907** Articles*
+*Scraped **27,908** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,507
 economynextcom | 1,587
 dailyftlk | 1,635
 adalk | 2,379
-adaderanalk | 3,173
+adaderanalk | 3,174
 tamilmirrorlk | 3,273
 virakesarilk | 4,300
 dailymirrorlk | 4,423
@@ -26,49 +26,85 @@ adaderanasinhalalk | 4,470
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,902 (100.0%) of 27,907 articles have been extended.
+27,907 (100.0%) of 27,908 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-02 (Sunday)
 
-### கடுவெல - பியகம இடைமாற்றம் மூடப்பட்டது
+### Kaduwela - Piyagama
 
 *2024-06-02 18:12:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடுவெல-பியகம-இடைமாற்றம்-மூடப்பட்டது/175-338307) · `ta`
 
-தெற்கு அதிவேக நெடுஞ்சாலையில் கடுவெல - பியகம இடைமாற்றம் பிரதேசம் மறு அறிவித்தல் மூடப்பட்டுள்ளது.
+The re-notification regarding the closure of the Kaduwela-Biyagama interpreter on the southern highway has been issued.
+
+🟩
+
+Re -notification of Kaduwela - Biyagama interpreter on the southern highway has been closed.
 
 ◼️
 
 [Data](articles/786137d7.json)
 
+[Extended Data](ext_articles/786137d7.ext.json)
+
 ---
 
-### අපේ තරුෂිට සුපිරි ජයක්
+### Sri Lanka’s Tharushi wins another gold at Taiwan Athletics Open
+
+*2024-06-02 18:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/99602/sri-lankas-tharushi-wins-another-gold-at-taiwan-athletics-open) · `en`
+
+Sri Lankan athlete Tharushi Karunarathna won gold in the Women’s 800 meters event, at the Taiwan Athletics Open 2024 on Sunday (02).
+
+Karunarathna claimed first place in the final with a timing of 2.05.74 minutes.
+
+Meanwhile, she also won gold in the Women’s 400m event with a timing of 52.48 seconds on Saturday (01).
+
+The Taiwan Athletics Open 2024, which was upgraded this year to a leg of the World Athletics Continental Tour, is being held at the Taipei Stadium, Taiwan.
+
+◼️
+
+[Data](articles/9331ec57.json)
+
+---
+
+### Our Talki is a superb
 
 *2024-06-02 18:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197294) · `si`
 
-තායිවාන විවෘත මලල ක්‍රීඩා තරගාවලියේ කාන්තා මීටර් 800 ඉසව්වේ ප්‍රථම ස්ථානය ශ්‍රී ලංකාවේ තරුෂි කරුණාරත්න හිමිකරගෙන තිබේ.
+Talki Karunaratne triumphed in the Women's 800m race at the Taiwane Open Athletics Championships, securing the top spot.
+
+🟩
+
+Talki Karunaratne has won the first place in the Women's 800m event at Taiwane Open Athletics Championships.
 
 ◼️
 
 [Data](articles/6757de3e.json)
 
+[Extended Data](ext_articles/6757de3e.ext.json)
+
 ---
 
-### දුම්රිය ගමන්වාර රැසකට බාධා
+### Interrupting a number of train travel
 
 *2024-06-02 17:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197293) · `si`
 
-අයහපත් කාලගුණික තත්ත්වය සමග ප්‍රධාන මාර්ගය, මුහුදුබඩ මාර්ගය සහ පුත්තලම මාර්ගය ස්ථාන කිහිපයක් ජලයෙන් යටවීම නිසා සංඥා පද්ධතියේ දෝෂ ඇතිවීම හේතුවෙන් දුම්රිය ප්‍රමාදයන් කිහිපයක් දක්නට ලැබෙන බව දුම්රිය දෙපාර්තමේන්තුව පවසයි.
+Delays in train travel are caused by disruptions on the main, coastal, and Puttalam roads due to flooding. Additionally, tree falls have interrupted the railway line near stations, and a bridge connecting Kosgama railway stations is restricted.
 
-දුම්රිය සාමාන්‍යාධිකාරී ඉඳිපොලගේ මහතා පැවසුවේ බොහෝ දුම්රිය ස්ථානවල දුම්රිය මාර්ගයට ගස් කඩාවැටීම හේතුවෙන් දුම්රිය ධාවනයට බාධා එල්ලවී ඇති බවය.
+🟩
 
-වග සහ කොස්ගම දුම්රිය ස්ථාන අතර පාලමක් ජලයෙන් ගසාගෙන යාම හේතුවෙන් මේ වනවිට කැලණිවැලි මාර්ගයේ දුම්රිය ධාවනය වග දුම්රිය ස්ථානය දක්වා සීමා කර ඇත.
+The Railway Department says that there are several delays due to the main road, the main road, coastal road and Puttalam road from the water, the coastal road and Puttalam road.
+
+The General Manager of Railways said that the railway line at the railway stations had been interrupted due to the fall of the trees.
+
+A bridge between Kosgama railway stations, the Kelaniweli road has been restricted to the train station.
 
 ◼️
 
 [Data](articles/073f5375.json)
+
+[Extended Data](ext_articles/073f5375.ext.json)
 
 ---
 
@@ -140,6 +176,8 @@ Several areas around Colombo came under water due to heavy rains experienced in 
 
 [Data](articles/cf6f82a6.json)
 
+[Extended Data](ext_articles/cf6f82a6.ext.json)
+
 ---
 
 ### Will Tamil parties retaliate?
@@ -195,6 +233,8 @@ He also advised general public not to visit places which have been affected by t
 ◼️
 
 [Data](articles/2d42a98d.json)
+
+[Extended Data](ext_articles/2d42a98d.ext.json)
 
 ---
 
@@ -2085,27 +2125,5 @@ They have died due to floods in the nearby river at 2 am and 3 pm today (02), po
 [Data](articles/95cd750c.json)
 
 [Extended Data](ext_articles/95cd750c.ext.json)
-
----
-
-### Seethawater is a rain - four killed - vehicles
-
-*2024-06-02 09:29:27* · [`adalk`](https://www.ada.lk/breaking_news/සීතාවකට-මහ-වැස්සක්---හතරක්-මරුට---වාහන-ගසාගෙන-යයි/11-409955) · `si`
-
-Seethawaka rains kill four, flood areas; disrupt transport.
-
-🟩
-
-Four persons have been killed and several Grama Niladhari subsidiaries have been affected by the rains of the Seethawaka Divisional Secretariat area.
-
-Three members of the Puwakpitiya South Grama Niladhari division have been subjected to water and another due to a mountain of mound.
-
-The hylide traffic train from Kosgama to Avissawella has stopped due to floods.
-
-◼️
-
-[Data](articles/3828ede8.json)
-
-[Extended Data](ext_articles/3828ede8.ext.json)
 
 ---

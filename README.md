@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-02 10:18:52**
+As of **2024-06-02 10:34:13**
 
 ## Newspaper Stats
 
-*Scraped **27,799** Articles*
+*Scraped **27,804** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 249
-dbsjeyarajcom | 268
+colombotelegraphcom | 252
+dbsjeyarajcom | 269
 bbccomsinhala | 274
 newsfirstlk | 363
 islandlk | 1,507
@@ -20,17 +20,41 @@ adaderanalk | 3,161
 tamilmirrorlk | 3,259
 virakesarilk | 4,282
 dailymirrorlk | 4,401
-adaderanasinhalalk | 4,448
+adaderanasinhalalk | 4,449
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,798 (100.0%) of 27,799 articles have been extended.
+27,799 (100.0%) of 27,804 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-02 (Sunday)
+
+### තැන තැන සිදුවන මනුෂ්‍ය ඝාතන
+
+*2024-06-02 10:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197273) · `si`
+
+යාපනය සහ මහනුවර යන ප්‍රදේශවල දී පුද්ගල ඝාතන 02ක් සිදුකර තිබේ.
+
+පොලීසිය ප්‍රකාශ කළේ යාපනය ගුරුනගර් ප්‍රදේශයේදී කාන්තාවක් ව ගිනිතබා ඝාතනය කර ඇති බවය.
+
+අදාළ කාන්තාව යාපනය ප්‍රදේශයේ පුද්ගලයෙකු සමග අනියම් සම්බන්ධතාවක් පවත්වාගෙන ගොස් ඇති අතර දෙදෙනා සමග ඇතිවූ ආරවුලක් දුරදිග යාමෙන් අනියම් සැමියා විසින් එලෙස ගිනිතබා මෙම ඝාතනය සිදුකර ඇත.
+
+අදාළ කාන්තාව සැකකරු සමග ඔහුගේ මවගේ සුසාන භූමියට පහන් දැල්වීම සඳහා ගිය අවස්ථාවේ එම ඝාතනය සිදුකර ඇති බව පොලීසිය පවසයි.
+
+ඝාතනයට සම්බන්ධ 40 හැවිරිදි සැකකරු අත්අඩංගුවට ගෙන ඇති බව පොලීසිය පැවසීය.
+
+මේ අතර මහනුවර මහයියාව ප්‍රදේශයේ දී තියුණු ආයුධයකින් පහර දී කාන්තාවක්ව ඝාතනය කර තිබේ.
+
+නිවස අසල පදිංචි පුද්ගලයෙකු සමග ඇතිවූ ආරවුලක් දුරදිග යාමෙන් එම ඝාතනය සිදුකර ඇති බව පොලීසිය පවසයි.
+
+◼️
+
+[Data](articles/32b8d5bf.json)
+
+---
 
 ### Superior to America
 
@@ -368,6 +392,38 @@ Accordingly, they decided to give Canada to the chance of batting first.
 
 ---
 
+### A Global Tropical Coral Bank: Responding To The Increasing Frequencies Of Coral Bleaching & Loss
+
+*2024-06-02 04:31:25* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/a-global-tropical-coral-bank-responding-to-the-increasing-frequencies-of-coral-bleaching-loss/) · `en`
+
+Coral reefs comprise some of the most biologically diverse and valuable ecosystems on the planet. although reefs occupy only 0.2 percent of the ocean’s area worldwide, they are home to one-third of all sea life. and support more species per unit area than any other marine environment, including about 4,000 species of fish, 800 species of hard corals. It is estimated that there are 8 million (8,000,000) undiscovered plants and animals that may live in or near coral reefs. While he optimum temperature for coral growth is around 25 °C, although some species can survive temperature up to 35 0 C. However once corals are established in a stable environment, a temperature increase of just one degree Celsius for only four weeks can trigger bleaching.
+
+...
+
+[Data](articles/93ab5faf.json)
+
+---
+
+### Ministry Of Finance, Economic Stabilization & National Policies
+
+*2024-06-02 04:12:46* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/ministry-of-finance-economic-stabilization-national-policies/) · `en`
+
+Recent press statement issued by the Ministry dated 27/05/2024 ,appears to be a belated focus possibly due to an intervention initiated by an external Authority. It pronounces a scheme designed for the implementation of reforms for state owned banks. The diagnosed defects to be addressed are in summary form as follows;
+
+* SOBs have faced significant stress during the recent economic crisis,
+
+* SOB lending practices have deteriorated due to inadequate risk mitigation &weak governance
+
+* SOB balance sheets have absorbed losses of SOEs and help large fiscal deficits of those SOEs
+
+* These have led to delays in reforms which contributed to the Economic Crisis
+
+...
+
+[Data](articles/8c0dda27.json)
+
+---
+
 ### How challenging to be a "Single Mom" ​​in Sri Lankan society?
 
 *2024-06-02 03:57:08* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cjkkr8d88zzo) · `si`
@@ -399,6 +455,18 @@ The purpose of this article is not just to pay attention to the global parent's 
 [Data](articles/4df23534.json)
 
 [Extended Data](ext_articles/4df23534.ext.json)
+
+---
+
+### Is President Wickremesinghe Following In The Footsteps Of His Uncle, President Jayewardene, In 1982?
+
+*2024-06-02 03:51:08* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/is-president-wickremesinghe-following-in-the-footsteps-of-his-uncle-president-jayewardene-in-1982/) · `en`
+
+President Ranil Wickremesinghe, unlike his predecessors, was not elected by the people of Sri Lanka. He was appointed by SLPP MPs to replace the ousted President Gotabaya Rajapaksa. Mr Wickremesinghe is working to build a popular base, asserting that he alone stabilised the economy through an agreement with the International Monetary Fund (IMF), which led to a USD 2.9 billion loan to help the country recover from its severe socio-economic crisis. Despite pro-regime claims of economic recovery, Sri Lanka’s prospects remain grim.
+
+...
+
+[Data](articles/df9eea3f.json)
 
 ---
 
@@ -904,17 +972,23 @@ The supporters were scattered in front of the police after making the statement.
 
 ---
 
-### බටපොළ කල්‍යාණ තිස්ස විදුහලේ අමාෂා ලංකාවට ජාත්‍යන්තර කරාතේ ජය දෙකක් ගෙනයි
+### Sri Lanka wins two International Karanayake in Battaa Tissa Vidyalaya
 
 *2024-06-01 19:47:08* · [`adalk`](https://www.ada.lk/sports/බටපොළ-කල්‍යාණ-තිස්ස-විදුහලේ-අමාෂා-ලංකාවට-ජාත්‍යන්තර-කරාතේ-ජය-දෙකක්-ගෙනයි/9-409952) · `si`
 
-ශ්‍රී ලංකා පාසල් කරාතේ දෝ සංගමයේ පාසල් කරාතේ කණ්ඩායම් නියෝජනය කරමින්  මැලේසියාවේ පැවැති කරාතේ තරගාවලියේ දී අම්බලන්ගොඩ  ගා/බටපොළ  ශ්‍රී කල්‍යාණ තිස්ස විද්‍යාලයේ 9 වන ශ්‍රේණියේ ඉගෙනුම ලබන ඒ.පී.එන්.එස්. අමාෂා වාස්ගුණවර්ධන සිසුවිය ජාත්‍යන්තර මට්ටමේ තරග දෙකක ජයග්‍රහණ ලබාගෙන තිබේ.
+Sri Lanka's school karate team won two medals in Malaysia, including a second place in Kata Section 3. This success comes under the Sri Lanka School Karata Do Society, supported by the Ministry of Homes.
 
-ඇය එහිදී  කාටා අංශයේ දෙවන ස්ථානයත් කුම්තේ අංශයේ තුන්වන ස්ථානයක් දිනා ගනු ලැබීය. මෙම තරගාවලිය පසුගිය මැයි 26 වැනි දින මැලේසියාවේ ක්වාලාම්පුර් නුවර පැවැත්විය.
+🟩
+
+At the Karate Tournament in Malaysia's Karate Tournament representing teachers in the Sri Lanka School Karatra Do Society of Sri Lanka.. The Ministry of Hosmas has achieved two international competitions.
+
+She was a third location of the Catta Section 2nd. The tournament was held on May 26, May 26, Kulampper in Malaysia.
 
 ◼️
 
 [Data](articles/ff8306b5.json)
+
+[Extended Data](ext_articles/ff8306b5.ext.json)
 
 ---
 
@@ -977,6 +1051,18 @@ Taiwan Athletics Open is a bronze-level tournament on the World Athletics Contin
 [Data](articles/01756023.json)
 
 [Extended Data](ext_articles/01756023.ext.json)
+
+---
+
+### 
+
+*2024-06-01 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84126) · `en`
+
+ஐக்கிய தேசிய கட்சியின் பொதுச்செயலாளர் பாலித ரங்க பண்டாரவின் ஓரங்க நாடகத்தினால் இலங்கை அரசியல் அரங்கு கடந்தவாரம்  சுறுசுறுப்படைந்தது. பொலிஸ்காரராக இருந்து அரசியல்வாதியாக மாறிய அவர் மே 28 கொழும்பில் செய்தியாளர்கள் மகாநாடொன்றில் உரையாற்றியபோது இவ்வருடம் நடைபெறவிருக்கும் ஜனாதிபதி தேர்தலும்  அடுத்த வருடம் நடத்தப்பட வேண்டியிருக்கும் பாராளுமன்ற தேர்தலும் ஒத்திவைக்கப்படவேண்டும் என்கிற அதேவேளை  ஜனாதிபதியினதும் பாராளுமன்றத்தினதும் பதவிக்காலங்கள் இரு வருடங்களினால் நீடிக்கப்படவேண்டும் என்று யோசனையை முன்வைத்தார். அதற்காக பாராளுமன்றத்தில் தீர்மானம் ஒன்று நிறைவேற்றப்படவேண்டும் என்றும் மக்களின் அங்கீகாரத்தைப் பெறுவதற்கு சர்வஜன வாக்கெடுப்பு ஒன்று நடத்தப்படவேண்டும் என்றும் முன்னாள் புத்தளம் மாவட்ட பாராளுமன்ற உறுப்பினரும் இராஜாங்க அமைச்சருமான அவர் கூறினார்.
+
+...
+
+[Data](articles/27fade72.json)
 
 ---
 
@@ -2193,125 +2279,5 @@ Lanka IOC also reduced fuel prices as the price of Sipetco.
 [Data](articles/c4adfe60.json)
 
 [Extended Data](ext_articles/c4adfe60.ext.json)
-
----
-
-### Factum Perspective: Sri Lanka's existence in India's foreign policy
-
-*2024-06-01 12:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/185037) · `ta`
-
-India's engagement with Sri Lanka's National People's Power (NPP), a significant third party challenging the traditional two-party system, indicates India's strategic interest in expanding its influence in the region, particularly as a counter to China. This move comes amid concerns about Sri Lanka's domestic issues, including the treatment of the Tamil community, which has historically impacted bilateral relations. Despite geopolitical complexities, India's foreign policy has consistently prioritized maintaining a strong presence in Sri Lanka, leveraging economic cooperation and political alliances to safeguard its interests and counterbalance Chinese influence.
-
-🟩
-
-The latest Indian visit to Sri Lanka's Sri Lankan parliamentarian Anura Kumara Dissanayake, the National People's Power (NPP) party, was founded in the media in the media. There was suspicion that India would invite the leaders of other parties contesting the Sri Lankan presidential election by the end of this year.
-
-However, on its initial call for NPP, we can speculate that foreign parties are now properly measuring the status of Sri Lankan politics.
-
-With its success and strong third party on populism, the NPP broke the NPP system of Sri Lanka's traditional two -party system. With a glimpse of the future, India is at the forefront to mark its relations with NPP ahead of its prominent contestant, China.
-
-Sri Lanka has a strategic position in the Indian Ocean. India is the largest business partner in Sri Lanka. Even during the latest visit to the NPP group, there were constructive discussions on economic cooperation to expand India's hegemony in the region.
-
-...
-
-[Data](articles/57598801.json)
-
-[Extended Data](ext_articles/57598801.ext.json)
-
----
-
-### Mannheim attack: Several people hurt in stabbing in German city
-
-*2024-06-01 12:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/99575/mannheim-attack-several-people-hurt-in-stabbing-in-german-city) · `en`
-
-A man stabbed several members of a group that describes itself as opposing “political Islam” on a central square in the German city of Mannheim on Friday, authorities said. Six people were wounded, including a police officer who intervened.
-
-Police quickly put an end to the attack by shooting the assailant, who also was wounded.
-
-The attack happened shortly after 11:30 a.m. (0930 GMT) on the Marktplatz, a downtown square in the southwestern city of Mannheim.
-
-The assailant stabbed participants in an event organized by the Pax Europa group, wounding five members of the organization, police and prosecutors said in a statement. The police officer was stabbed several times from behind in the head, they added.
-
-Another officer fired a shot at the assailant, bringing an end to the attack. The wounded were taken to various hospitals, where some of them underwent operations.
-
-...
-
-[Data](articles/fa0278ba.json)
-
-[Extended Data](ext_articles/fa0278ba.ext.json)
-
----
-
-### Responsibility to Garmboir
-
-*2024-06-01 12:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197237) · `si`
-
-Gautam Gambhir, former IPL champion with Kolkata Knight Riders, is set to become India's new cricket team chief trainer after Rahul Dravid's tenure ends. The Indian Cricket Board (BCCI) has recognized Gambhir's contributions and leadership skills, making him a strong candidate for the role.
-
-🟩
-
-It is reported that the Indian sportsman Gambam Gambhir is a prepared to be appointed as the Chief Trainer of the Indian Cricket Team.
-
-The Indian Cricket Board (CC) has been involved in selecting a new focus on the Gambin due to the end of Rahul Dravid's term of the current coach.
-
-Gautam Gambhir acted as a tribe of the Gail Nightdreaders group, which won the championship in the Indian Premier League.
-
-The Indian Cricket Board (SLC) has focused on the contribution of Gautam Gambhir to achieve the group.
-
-The call for the post of Indian cricket team has concluded on the 27st of the 27st of the year.
-
-◼️
-
-[Data](articles/d3e1d5fc.json)
-
-[Extended Data](ext_articles/d3e1d5fc.ext.json)
-
----
-
-### India votes in final phase of elections as both Modi and Rahul Gandhi eye victory
-
-*2024-06-01 12:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/India-votes-in-final-phase-of-elections-as-both-Modi-and-Rahul-Gandhi-eye-victory/108-283878) · `en`
-
-FIROZPUR/KOLKATA, June 1 (Reuters) - India voted on Saturday in the final phase of a long-drawn general election, held in record summer heat in many parts, as both Prime Minister Narendra Modi and his challengers said they would win the polls centred mostly on inequality and religion.
-
-The seven-phase vote, in which nearly a billion people were eligible to cast their ballots, began on April 19 and will end with polling in the last 57 seats - including in Modi's constituency in the Hindu holy city of Varanasi.
-
-More than 100 million people are registered to vote across eight states and federal territories on Saturday, including in the northern state of Punjab and the eastern states of Bihar, West Bengal and Odisha.
-
-"Calling upon the voters to turnout in large numbers and vote," Modi said as polls opened. "Together, let's make our democracy more vibrant and participative."
-
-...
-
-[Data](articles/75d0d3be.json)
-
-[Extended Data](ext_articles/75d0d3be.ext.json)
-
----
-
-### Bore. Woman's treatment in Wellaveli
-
-*2024-06-01 11:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/185027) · `ta`
-
-In Wellaveli, an 18-year-old woman died from untreated poisoning, despite being rushed to Kalmunai Resource Hospital. Her mother, living abroad and in a local rehab, criticized the man involved in what she believed was a romantic relationship. The case is under investigation by the Wellaveli police and the court, with organ samples sent for analysis.
-
-🟩
-
-Mandur, belonging to the Wellaveli police division in the Batticaloa district, has died due to the lack of treatment for a life -threatening woman.
-
-The 18 -year -old girl was admitted to the Kalmunai Resource Hospital for treatment on Thursday night and died at around 2.45 am the next day.
-
-It is reported that the mother of the deceased woman has been working abroad for three months and has been staying at a rehabilitation center in the Batticaloa district for two years.
-
-in this situation. The young woman's mother has condemned the young man who had come home with a love affair with a woman.
-
-After leaving the house, the young woman returned to her home for 15 minutes.
-
-The woman who came to the house after cleaning the house and conveyed with her mother a little after he said that he had consumed the toxic seed.. He was immediately admitted to the Kalmunai Resource Hospital for treatment.
-
-...
-
-[Data](articles/295d44ba.json)
-
-[Extended Data](ext_articles/295d44ba.ext.json)
 
 ---

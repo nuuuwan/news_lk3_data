@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-02 18:34:15**
+As of **2024-06-02 18:52:21**
 
 ## Newspaper Stats
 
-*Scraped **27,908** Articles*
+*Scraped **27,909** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,507
 economynextcom | 1,587
 dailyftlk | 1,635
 adalk | 2,379
-adaderanalk | 3,174
+adaderanalk | 3,175
 tamilmirrorlk | 3,273
 virakesarilk | 4,300
 dailymirrorlk | 4,423
@@ -26,11 +26,27 @@ adaderanasinhalalk | 4,470
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,907 (100.0%) of 27,908 articles have been extended.
+27,908 (100.0%) of 27,909 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-02 (Sunday)
+
+### Driver of private bus driven along railway tracks in Puwakpitiya arrested
+
+*2024-06-02 18:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/99603/driver-of-private-bus-driven-along-railway-tracks-in-puwakpitiya-arrested) · `en`
+
+The driver of the private bus that was driven along the railway tracks in the Puwakpitiya area has been arrested at Embilipitiya, police said.
+
+Meanwhile, the bus in question has also been taken into police custody, Police Spokesman DIG Nihal Thalduwa said.
+
+A video of a private passenger bus being driven along the railway tracks parallel to a congested main road had sparked controversy across social media on Sunday (02).
+
+◼️
+
+[Data](articles/fab2a835.json)
+
+---
 
 ### Kaduwela - Piyagama
 
@@ -65,6 +81,8 @@ The Taiwan Athletics Open 2024, which was upgraded this year to a leg of the Wor
 ◼️
 
 [Data](articles/9331ec57.json)
+
+[Extended Data](ext_articles/9331ec57.ext.json)
 
 ---
 
@@ -2103,27 +2121,5 @@ At the bowling kaleem sana, Dillon HEYLIGER and NIKHIL DUTTA took one wicket.
 [Data](articles/755478be.json)
 
 [Extended Data](ext_articles/755478be.ext.json)
-
----
-
-### Three of the same family killed in floods in Avissawella
-
-*2024-06-02 09:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/185088) · `ta`
-
-In Avissawella, three family members—a 36-year-old woman, her 7-year-old daughter, and a 78-year-old man—died in floods near a river at 2 am and 3 pm yesterday.
-
-🟩
-
-Three people have died in a flood in Kekilla, Elistonwatte, Avissawella, Bhuvakpitiya, Avissawella.
-
-The deceased included a 36 -year -old mother, 7 -year -old daughter and 78 -year -old Patton.
-
-They have died due to floods in the nearby river at 2 am and 3 pm today (02), police said.
-
-◼️
-
-[Data](articles/95cd750c.json)
-
-[Extended Data](ext_articles/95cd750c.ext.json)
 
 ---

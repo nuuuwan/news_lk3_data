@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-02 20:03:46**
+As of **2024-06-02 20:18:57**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,474
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,920 (100.0%) of 27,924 articles have been extended.
+27,924 (100.0%) of 27,924 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,6 +46,8 @@ Many communities are experiencing flooding, power outages and dangerous road con
 
 [Data](articles/878a177a.json)
 
+[Extended Data](ext_articles/878a177a.ext.json)
+
 ---
 
 ### Driver arrested for driving bus along railway track
@@ -59,6 +61,8 @@ He was arrested following a video circulated on social media, which showed a pri
 ◼️
 
 [Data](articles/d6ef401c.json)
+
+[Extended Data](ext_articles/d6ef401c.ext.json)
 
 ---
 
@@ -81,6 +85,8 @@ Since a bridge between Waga and Kosgama railway stations was swept away by flood
 ◼️
 
 [Data](articles/c9e36781.json)
+
+[Extended Data](ext_articles/c9e36781.ext.json)
 
 ---
 
@@ -333,6 +339,8 @@ President Ranil Wickremesinghe handed over the letters of appointment to United 
 ◼️
 
 [Data](articles/60bf8a89.json)
+
+[Extended Data](ext_articles/60bf8a89.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-02 22:18:56**
+As of **2024-06-02 22:33:59**
 
 ## Newspaper Stats
 
-*Scraped **27,940** Articles*
+*Scraped **27,953** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,38 +15,74 @@ newsfirstlk | 363
 islandlk | 1,507
 economynextcom | 1,587
 dailyftlk | 1,635
-adalk | 2,385
+adalk | 2,386
 adaderanalk | 3,178
 tamilmirrorlk | 3,276
-virakesarilk | 4,302
+virakesarilk | 4,312
 dailymirrorlk | 4,431
-adaderanasinhalalk | 4,479
+adaderanasinhalalk | 4,481
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,938 (100.0%) of 27,940 articles have been extended.
+27,940 (100.0%) of 27,953 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-02 (Sunday)
 
-### ජනපති සියලු පක්ෂවලින් කළ ඉල්ලීම
+### විනාශ වූ නිවාස ගැන රජයෙන් තීරණයක්
+
+*2024-06-02 22:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197305) · `si`
+
+අයහපත් කාලගුණය හේතුවෙන් සම්පූර්ණයෙන්ම විනාශ වූ සියලු නිවාස ඉදිරි මාස දෙක තුළ රජයේ මුදල් යොදවා ප්‍රතිසංස්කරණය කිරීමට කටයුතු කරන ලෙසට ජනාධිපති රනිල් වික්‍රමසිංහ මහතා දැනුම් දී තිබේ.
+
+එම කටයුතු සඳහා ත්‍රිවිධ හමුදාව සහ පොලීසිය සමඟ සහයෝගයෙන් කටයුතු කරන ලෙසට ද ජනාධිපතිවරයා අදාළ නිලධාරීන්ට වැඩිදුරටත් උපදෙස් ලබා දී ඇති බව ජනාධිපති මාධ්‍ය අංශය නිවේදනය කළේය.
+
+◼️
+
+[Data](articles/b1708455.json)
+
+---
+
+### දූෂණ චෝදනාවක් හේතුවෙන් නීතිඥ සංගමය ඇවිළෙයි
+
+*2024-06-02 22:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197304) · `si`
+
+දූෂණ මර්දනය සඳහා දුන් ජයිකා අරමුදල පාරදෘෂ්‍ය භාවයෙන් තොරව භාවිත කිරීම සම්බන්ධයෙන් චෝදනා එල්ල වී සිටින ශ්‍රී ලංකා නීතිඥ සංගමයේ ඉහළ නිලධාරින් දින 10ක කාලයක් තුළ ස්වකීය ධුරවලින් ඉවත්විය යුතු බවට කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් අධිකරණ නීතිඥ සංගමය සහ කොළඹ නීතිඥ සංගමය යෝජනා සම්මත කරගෙන තිබේ.
+
+ජපානයේ ජාත්‍යන්තර සහයෝගිතා නියෝජිතායතනය හෙවත් "ජයිකා" (JICA) ආයතනය දූෂණ මර්දන ව්‍යාපෘතියක් සඳහා 2023 වසරේ අවසන් භාගයේ ලංසු කැඳවා තිබූ අතර ඊට ශ්‍රී ලංකා නීතිඥ සංගමය ඉදිරිපත් වීමෙන් පසු රුපියල් මිලියන 24ක අරමුදලක් එම සංගමයට ලැබී තිබුණි.
+
+කෙසේ වෙතත් අදාළ ලංසු තැබීමේදී හා ගිවිසුම්වලට එළැඹීමේදී පාරදෘෂ්‍යභාවයෙන් හා විනිවිදභාවයෙන් යුතුව කටයුතු නොකිරීම පිළිබඳ ශ්‍රී ලංකා නීතිඥ සංගමයේ සභාපති ජනාධිපති නීතිඥ කෞශල්‍ය නවරත්න, උප සභාපති නලින්ද ඉන්දතිස්ස, ජනාධිපති නීතිඥ ශවින්ද්‍ර ප්‍රනාන්දු, නීතිඥ නුවන් ඩි අල්විස් සහ නීතිඥ රෂ්මිනි ඉන්දතිස්ස යන මහත්ම මහත්මීන්ට චෝදනා එල්ල වී තිබේ.
+
+◼️
+
+[Data](articles/fe8b9540.json)
+
+---
+
+### President's request from all parties
 
 *2024-06-02 22:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197303) · `si`
 
-මෙරට ආර්ථික අර්බුදය විසඳීමට පවතින එකම විසඳුම සේ සළකා යෝජිත ආර්ථික පරිවර්තන පනත් කෙටුම්පතට සහාය දෙන්නැයි ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සියලු පක්ෂවලින් ඉල්ලීමක් කරයි.
+President Ranil Wickremesinghe urges all political parties to back the Economic Translation Bill as crucial for addressing Sri Lanka's economic crisis. He emphasizes the urgency and lack of viable alternatives, hinting at negotiations with the IMF and the need for debt restructuring. The bill aims to stabilize the economy, but opposition parties have been silent on presenting alternative solutions.
 
-ඔහු මේ බව සඳහන් කළේ එක්සත් ජාතික පක්ෂ මූලස්ථානයේ අද (02) පැවති උත්සවයකට එක්වෙමිනි.
+🟩
 
-"පරණ ටෙලිෆෝන් මේ යුගයට වැඩක් නැහැ. කරකවන කාලේ ඉවරයි දැන් ඔබන කාලේ තියෙන්නේ. ගෝඨාභය කිව්වා සජිත්ට අගමැතිකම ගන්න කියලා. මොකක්ද කළේ? ජනපති ප්‍රේමදාස හිටියානම් ඕක අත්හරිනවද? ජේ.ආර්.ජයවර්ධන හිටියානම් ඕක අත්හරිනවද? ඒකයි යූඑන්පී හැටි. ජවිපෙ පැනලා ගියා.  විසඳුමක් තිබුණේ නැහැ.මම භාරගත්තේ විසඳුමක් තියෙන නිසා. අලුත් අවුරුද්ද කොහොමද? වෙසක් කොහොමද?
+President Ranil Wickremesinghe requests all parties to support the proposed Economic Translation Bill as the only solution to resolve the economic crisis in the country.
 
-දැන් පොසොන් අනුරාධපුරයේ හාල් තියෙනවා. අපි තාම මේකෙන් ගොඩඇවිත් නැහැ. එක පක්ෂයක්වත් වැඩපිළි‍වෙළක් ඉදිරිපත් කර නැහැ. ඉදිරිපත් කරන්න බැහැ. රට ගොඩගන්න ඇතිකරගත් එකඟතාව අපි පාර්ලිමේන්තුවට දානවා. ආර්ථික පරිවර්තන නීතිය.  සමහරු IMF සමඟ යළි කතාකරනවා කියනවා. කඩේ ගිහින් ණය ඉල්ලනවා වගේ ඒවා කරන්න බැහැ. ආර්ථික පරිවර්තන නීතියට සැවොම ඡන්දය දෙන්න."
+He was speaking at a function held at the UNP headquarters today (02).
+
+"Old Telephone This era is not worth it. Resome time is now out of time now. Gotabhaya said that Sajith takes the Prime Minister. What did you doWill President Premadasa give up?Do you give up on JR Jayewardene?That's why the UNP. JVP ran away.  විසඳුමක් තිබුණේ නැහැ.මම භාරගත්තේ විසඳුමක් තියෙන නිසා. How is the New Year?How is Vesak?
+
+Now there are rice in Anuradhapura in Anuradhapura. We haven't got out of this yet. Not one party has presented a program. Cannot be submitted. We put the agreement to build the country into Parliament. Economic translation law.  සමහරු IMF සමඟ යළි කතාකරනවා කියනවා. They cannot do them asking for debt. Vote for economic translation law. "
 
 ◼️
 
 [Data](articles/23712204.json)
+
+[Extended Data](ext_articles/23712204.ext.json)
 
 ---
 
@@ -69,6 +105,84 @@ In 2018, in rare criticism directed at Khamenei, Ahmadinejad wrote to him callin
 ...
 
 [Data](articles/5a1a6ea4.json)
+
+[Extended Data](ext_articles/5a1a6ea4.ext.json)
+
+---
+
+### சீரற்ற காலநிலையால் பாதிக்கப்பட்டவர்களுக்கு உதவி வழங்குமாறு ஜனாதிபதி பணிப்பு !
+
+*2024-06-02 21:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/185153) · `ta`
+
+தற்போதைய அனர்த்த நிலைமையினால் முற்றாக சேதமடைந்த அனைத்து வீடுகளையும் அரசாங்க செலவில் முப்படை மற்றும் பொலிஸாரின் உதவியுடன் இரு மாதங்களுக்குள் நிர்மாணிப்பதற்கு நடவடிக்கை எடுக்குமாறு ஜனாதிபதி ரணில் விக்ரமசிங்க சம்பந்தப்பட்ட தரப்பினருக்கு பணிப்புரை விடுத்தார்.
+
+◼️
+
+[Data](articles/02424736.json)
+
+---
+
+### தென்னாபிரிக்க கட்டமைப்பில் நம்பிக்கை இழந்த இளையோர்
+
+*2024-06-02 21:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/185136) · `ta`
+
+சர்வதேச அரங்கில் பலம் வாய்ந்ததாக காணப்பட்டாலும் உள்ளக கட்டமைப்புக்களில் தென்னாபிரிக்கா மிகவும் சீர்குலைந்த நிலையை கண்டிருக்கிறது. தேர்தலுக்கு முன்பாக தொலைகாட்சிப்பேட்டி ஒன்றில் இளைஞன் ஒருவன் கூறிய கருத்துக்கள் முக்கியமானவை.  “தற்போதைய அரசியல் நிலைமை குறித்து  கூறுகையில் 1994ஆம் ஆண்டு நெல்சன் மண்டேலாவால் உருவாக்கப்பட்ட கனவுகள் எல்லாம் மறந்து போய்விட்ட நிலையை தற்போழுது உணர்கிறோம்.
+
+◼️
+
+[Data](articles/42cfafa2.json)
+
+---
+
+### தனிமைப்படும் இஸ்ரேல்
+
+*2024-06-02 21:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/185137) · `ta`
+
+கரீம் கான் ஹமாஸின் காஸா பிரிவு தலைவர் யஹ்யா சின்வார், கஸ்ஸாம் படையணி தலைவர் மொஹம்மத் டெய்ப், அரசியல் பணியக பிரதானி இஸ்மாயில் ஹானியா ஆகியோர் மீதும் யுத்தக் குற்றம் மற்றும் மனிதகுலத்துக்கு எதிரான குற்றங்கள் என்பனவற்றுக்காக பிடியாணை பிறப்பித்துள்ளார். ஹமாஸின் சிரேஷ்ட உறுப்பினர் சானி அபூ சுஹரி இந்த முடிவு பற்றிக் கூறுகையில் பாதிக்கப்பட்டவர்களை, கொலையாளிகளோடு சமப்படுத்துவதாகவும், காஸாவில் யுத்த முனைப்பை நோக்கி இஸ்ரேலை மேலும் தூண்டுவதாகவும் அமைந்துள்ளது என்றார்.
+
+◼️
+
+[Data](articles/04b779e0.json)
+
+---
+
+### விமர்சனம் செய்வது எளிதானது; தீர்வு காண்பது கடினமானது - ஜனாதிபதி
+
+*2024-06-02 21:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/185152) · `ta`
+
+நாட்டின் பொருளாதாரம் ஸ்திரத்தன்மை அடைந்துள்ள நிலையில், மீண்டும் பழைமையான அரசியலில் ஈடுபடலாம் என எவரும் எண்ணிவிடக் கூடாது எனவும், முறையான திட்டத்தினூடாகவே நாட்டை முன்னோக்கிக் கொண்டு செல்ல முடியும் எனவும் ஜனாதிபதி ரணில் விக்ரமசிங்க வலியுறுத்தினார்.
+
+எனவே, விமர்சனம் செய்து கொண்டிராமல் அரசாங்கத்தின் வேலைத்திட்டத்திற்கு அனைவரும் ஆதரவளிக்குமாறு கேட்டுக் கொண்ட ஜனாதிபதி, விமர்சனம் செய்வது இலகுவானது எனினும் தீர்வு வழங்குவது கடினமானது எனவும் தெரிவித்தார்.
+
+ஐக்கிய தேசியக் கட்சியின் பிரதேச அமைப்பாளர்களுக்கான நியமனக் கடிதங்கள் வழங்கும் நிகழ்வு 02 ஆம் திகதி ஞாயிற்றுக்கிழமை  பிற்பகல் சிறிகொத்த கட்சித் தலைமையகத்தில் இடம்பெற்றது. இதில் கலந்து கொண்டு உரையாற்றும்போதே ஜனாதிபதி ரணில் விக்ரமசிங்க இதனைக் குறிப்பிட்டார்.
+
+நாட்டை முன்னோக்கிக் கொண்டு செல்லும் திட்டம் எந்தவொரு அரசியல் கட்சியிடமும் இல்லை என சுட்டிக்காட்டிய ஜனாதிபதி, அத்தகைய திட்டம் இருந்தால் அதனை முன்வைக்குமாறும், இல்லை என்றால் நாட்டின் எதிர்காலத்திற்காக பொருளாதாரப் பரிமாற்ற சட்டத்திற்கு ஆதரவளிக்குமாறும் சகலரிடமும் ஜனாதிபதி கோரிக்கை விடுத்தார்.
+
+...
+
+[Data](articles/0af52468.json)
+
+---
+
+### தாய்வானில் தருஷிக்கு இரட்டை வெற்றி; 400 மீற்றரைத் தொடர்ந்து 800 மீற்றரிலும் முதலிடம்
+
+*2024-06-02 21:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/185151) · `ta`
+
+தாய்வானில் நடைபெற்றுவரும் சைனீஸ் தாய்ப்பே பகிரங்க மெய்வல்லுநர் சம்பியன்ஷிப்பில் தருஷி கருணாரட்ன சனிக்கிழமை (01) இரட்டை வெற்றியைப் பூர்த்தி செய்தார்.
+
+சனிக்கிழமை நடைபெற்ற பெண்களுக்கான 400  மீற்றர்   ஓட்டப் போட்டியை 52.48 செக்கன்களில் நிறைவு செய்து வெற்றி பெற்ற தருஷி கருணாரட்ன, பெண்களுக்கான 800 மீற்றர் ஓட்டப் போட்டியிலும் வெற்றி பெற்று அசத்தினார்.
+
+800 மீற்றர் ஓட்டப் போட்டியை அவர் 2 நிமிடங்கள் 05.74 செக்கன்களில் நிறைவு செய்து வெற்றி பெற்றார்.
+
+அடுத்து நடைபெறவுள்ள போட்டியில் 800 மீற்றரை 2 நிமிடங்கள் 01.00 செக்கன்களில்  தருஷி  ஓடி முடித்தால் பாரிஸ் 2024 ஒலிம்பிக் விளையாட்டு விழாவில் பங்குபற்ற தகுதிபெறுவார்.
+
+இதேவேளை, பெண்களுக்கான ஈட்டி எறிதலில் டில்ஹானி லேக்கம்கே இரண்டாம் இடத்தைப் பெற்றார். அவர் ஈட்டியை 52.79 மீற்றர் தூரத்திற்கு எறிந்து இரண்டாம் இடத்தைப் பெற்றார்.
+
+ஆண்களுக்கான 200 மீற்றர் ஓட்டப் போட்டியில் பங்குபற்றிய அருண தர்ஷன 5ஆம் இடத்தைப் பெற்றார்.
+
+◼️
+
+[Data](articles/d782c9e5.json)
 
 ---
 
@@ -154,6 +268,28 @@ People were asked to take necessary steps to reduce the dangers of heavy winds a
 
 ---
 
+### ආර්ථික පරිවර්තන පනතට සහාය දෙන්න
+
+*2024-06-02 20:53:07* · [`adalk`](https://www.ada.lk/breaking_news/ආර්ථික-පරිවර්තන-පනතට-සහාය-දෙන්න/11-409971) · `si`
+
+රට ඉදිරියට ගෙන යාමේ නිසි සැලැස්මක් මේ රටේ කිසිදු දේශපාලන පක්ෂයකට නැහැ.
+
+ආර්ථිකය ඉදිරියට ගෙන යාමට විකල්ප සැලැස්මක් තිබේ නම් ඉදිරිපත් කරන්න.
+
+නැතිනම් ආර්ථික පරිවර්තන නීතියට සහාය දෙන්න – ජනපති එක්සත් ජාතික පක්ෂ කලාප සංවිධායකවරුන්ට පත්වීම් ලිපි ලබා දීමේ අවස්ථාවේ දී කියයි.
+
+රටේ ආර්ථිකය ස්ථාවර වී ඇති බැවින් නැවත පුරුදු සාම්ප්‍රදායික දේශපාලනයේ නිරතවීමට හැකි බව කිසිවෙකු නොසිතිය යුතු බවත්, රට ඉදිරියට ගෙන යා හැක්කේ විධිමත් සැලැස්මක් ඔස්සේ පමණක් බවත් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අවධාරණය කළේය.
+
+එබැවින් විවේචන සිදු කරමින් නොසිට රජයේ වැඩපිළිවෙළට සහාය ලබාදෙන ලෙස සියලුදෙනාගෙන් ඉල්ලා සිටි ජනාධිපතිවරයා විවේචන පහසු වුවත් විසඳුම් අසීරු බවද කියා සිටියේය.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ අද (02) පස්වරුවේ සිරිකොත පක්ෂ මූලස්ථානයේ පැවති එක්සත් ජාතික පක්ෂ කලාප සංවිධායකවරුන්ට පත්වීම් ලිපි ලබාදීමේ වැඩසටහනට එක් වෙමිනි.
+
+...
+
+[Data](articles/ec0ab704.json)
+
+---
+
 ### The most disturbance of the turbulent weather
 
 *2024-06-02 20:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197301) · `si`
@@ -187,6 +323,32 @@ The Irrigation Department issued a flood risk for 48 am today with heavy rains i
 [Data](articles/457d13bf.json)
 
 [Extended Data](ext_articles/457d13bf.ext.json)
+
+---
+
+### Sri Lanka balance of payments surplus US$1.3bn by April 2024
+
+*2024-06-02 20:28:00* · [`economynextcom`](https://economynext.com/sri-lanka-balance-of-payments-surplus-us1-3bn-by-april-2024-165783/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s current dollar earnings from merchandise exports, remittances, tourism and other services exceeded imports by 542 million US dollars in April 2024, official data shows.
+
+Sri Lanka’s hard goods exports were 877.6 million US dollars in April, up from 848.6 million US dollars a year ago, in a holiday month which usually has a 20 percent downturn.
+
+Remittances were 543.8 million US dollars, up from 454 million last year.
+
+Tourism income was estimated at 225.7 million US dollars for April, which is from a survey and may not be as reliable as import export data from customs or remittances data from banks.
+
+Gross services which include tourism was 558 million US dollars.
+
+Foreign exchange earned by Sri Lankans from exports, remittances and gross services were 1,977 million US dollars in April 2024.
+
+Merchandise imports were only 1,435 million US dollars, leaving a surplus of 542 million dollars.
+
+...
+
+[Data](articles/9dd24d20.json)
+
+[Extended Data](ext_articles/9dd24d20.ext.json)
 
 ---
 
@@ -246,6 +408,20 @@ The President’s Media Division announced this directive a short while ago, emp
 
 ---
 
+### சீரற்ற காலநிலையால் கடந்த 24 மணி நேரத்தில் 10 பேர் பலி! 05 பேர் காணாமல் போயுள்ளனர்
+
+*2024-06-02 20:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/185150) · `ta`
+
+சீரற்ற காலநிலையால் காரணமாக கடந்த 24 மணி நேரத்தில் 10 பேர் உயிரிழந்துள்ளனர்.
+
+இதேவேளை, மேலும் 05 பேர் காணாமல் போயுள்ளதாக பாதுகாப்பு இராஜாங்க அமைச்சர் பிரமித பண்டார தென்னகோன் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/e03d20a3.json)
+
+---
+
 ### Latest announcement released on floods
 
 *2024-06-02 20:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197299) · `si`
@@ -261,6 +437,20 @@ The Department of Irrigation has issued a latest announcement on the flooding wi
 [Data](articles/a2c53a64.json)
 
 [Extended Data](ext_articles/a2c53a64.ext.json)
+
+---
+
+### பொது மக்களுக்கான பொலிஸார் விசேட அறிவிப்பு
+
+*2024-06-02 20:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/185149) · `ta`
+
+சீரற்ற காலநிலையினால் பாதிக்கப்பட்ட மக்களுக்கு நிவாரணம் வழங்குவதற்காக பொலிஸ், விசேட அனர்த்த நிவாரணப் பிரிவை நிறுவியுள்ளது.
+
+011-242 1820 மற்றும் 011-242 1111 ஆகிய தொலைபேசி இலக்கங்களின் ஊடாக மக்கள் அனர்த்த நிவாரண தேவைகளுக்காக அழைக்க முடியும் என பொலிஸார் மேலும் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/d8eeeff6.json)
 
 ---
 
@@ -281,6 +471,20 @@ The severe weather, characterized by relentless rainfall has triggered widesprea
 [Data](articles/308d1017.json)
 
 [Extended Data](ext_articles/308d1017.ext.json)
+
+---
+
+### சரிந்து விழுந்த மண்மேட்டில் சிக்கிய சிறுமி பலி! அவிசாவளையில் சோகம்
+
+*2024-06-02 19:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/185148) · `ta`
+
+அவிசாவளை, ஹேவாஹின்ன பிரதேசத்தில் சரிந்து விழுந்த மண்மேட்டில் சிக்கி சிறுமி ஒருவர் உயிரிழந்துள்ளார்.
+
+மோசமான வானிலை காரணமாக கடந்த 24 மணித்தியாலங்களில் 06 பேர் உயிரிழந்துள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/09bffdae.json)
 
 ---
 
@@ -339,6 +543,20 @@ Since a bridge between Waga and Kosgama railway stations was swept away by flood
 [Data](articles/c9e36781.json)
 
 [Extended Data](ext_articles/c9e36781.ext.json)
+
+---
+
+### பேரூந்தை ரயில் பாதையில் செலுத்திச் சென்ற சாரதி கைது!
+
+*2024-06-02 19:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/185146) · `ta`
+
+ரயில் தண்டவாளத்தில் பேரூந்து செலுத்திச் சம்பவம் தொடர்பில் பேரூந்து சாரதி பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
+
+சந்தேகத்திற்குரிய பஸ் சாரதி எம்பிலிபிட்டிய பிரதேசத்தில் வைத்து கைது செய்யப்பட்டதாக பொலிஸ் ஊடகப் பேச்சாளர் பிரதி பொலிஸ் மா அதிபர் நிஹால் தல்துவ தெரிவித்தார்.
+
+◼️
+
+[Data](articles/e3ab65d8.json)
 
 ---
 
@@ -410,6 +628,30 @@ The army has launched a special operation to provide medical care and drinking w
 
 ---
 
+### Many streets were flooded due to inclement weather;The trains are delayed
+
+*2024-06-02 19:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/185144) · `ta`
+
+Heavy rain caused flooding on major roads and disrupted train services due to signal issues and fallen trees blocking the tracks. A bridge between two stations was also flooded, restricting train movement.
+
+🟩
+
+Due to inclement weather, the main road, coastal road and Puttalam road have been flooded.
+
+The Railway Department said some trains are delayed due to a signal problem.
+
+Railway General Manager Indipolake said that railway traffic has been blocked as trees have fallen on the railway line at several stations.
+
+A bridge between Vara and Koskama railway stations has been flooded and the train traveling on the Kelaniweli road has been restricted to the railway station.
+
+◼️
+
+[Data](articles/066391a8.json)
+
+[Extended Data](ext_articles/066391a8.ext.json)
+
+---
+
 ### Sri Lanka Police establish emergency hotline for disaster relief operations
 
 *2024-06-02 19:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/99604/sri-lanka-police-establish-emergency-hotline-for-disaster-relief-operations-) · `en`
@@ -423,6 +665,18 @@ The general public can accordingly seek assistance and coordinate with other dis
 [Data](articles/44bbd7aa.json)
 
 [Extended Data](ext_articles/44bbd7aa.ext.json)
+
+---
+
+### காலத்தை வீணடிக்கும்    இரண்டு தவறுகள்
+
+*2024-06-02 19:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/185133) · `ta`
+
+முஸ்லிம் அரசியல் தலைவர்கள் மற்றும் எம்.பி.க்கள், இன்னும் நான்கு மாதங்களில் குறைந்தபட்சம் ஒருதேர்தலாவது நடைபெறப் போகின்றது என்பதை தெட்டத் தெளிவாக அறிந்திருந்தும் மீதமாக இருக்கின்ற காலத்தையாவது தமது சமூகத்திற்காக உருப்படியாகப் பயன்படுத்தாமல் வீணடித்துக் கொண்டிருக்கின்றனர்.  முஸ்லிம் கட்சிகளோ அல்லது தனிப்பட்ட முஸ்லிம் எம்.பி.க்களோ தாங்கள் செய்த சேவையை, இந்த சமூகத்திற்கு பெற்றுக் கொடுத்த உரிமைகளை, தீர்த்து வைத்த பிரச்சினைகளைச் சொல்லி வாக்குக் கேட்க முடியாத பெரும் கையறு நிலைக்குள் இருக்கின்றார்கள். எப்படியான வேடத்தை தரித்தால், என்ன செய்தால் மக்களை மயக்கலாம் என்று தலையைக் குடைந்து கொண்டிருக்கின்றார்கள்.
+
+◼️
+
+[Data](articles/8d06ce6a.json)
 
 ---
 
@@ -519,30 +773,6 @@ In this case, the driver of the bus has been arrested and the bus has been taken
 [Data](articles/31cf8e35.json)
 
 [Extended Data](ext_articles/31cf8e35.ext.json)
-
----
-
-### Many streets were flooded due to inclement weather;The trains are delayed
-
-*2024-06-02 18:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/185144) · `ta`
-
-Heavy rain caused flooding on major roads and disrupted train services due to signal issues and fallen trees blocking the tracks. A bridge between two stations was also flooded, restricting train movement.
-
-🟩
-
-Due to inclement weather, the main road, coastal road and Puttalam road have been flooded.
-
-The Railway Department said some trains are delayed due to a signal problem.
-
-Railway General Manager Indipolake said that railway traffic has been blocked as trees have fallen on the railway line at several stations.
-
-A bridge between Vara and Koskama railway stations has been flooded and the train traveling on the Kelaniweli road has been restricted to the railway station.
-
-◼️
-
-[Data](articles/066391a8.json)
-
-[Extended Data](ext_articles/066391a8.ext.json)
 
 ---
 
@@ -1791,305 +2021,5 @@ Accordingly, the general public living in the area are advised to remain cautiou
 [Data](articles/b0104044.json)
 
 [Extended Data](ext_articles/b0104044.ext.json)
-
----
-
-### What is the solution to Ranil?
-
-*2024-06-02 13:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/185106) · `ta`
-
-Critics argue President Ranil Wickremesinghe overlooks Tamil issues, suggesting his awareness of pre-war problems but insufficient action post-war.
-
-🟩
-
-“President Ranil only forgets the East when it comes to the Tamil people's problem. The problems of the Tamil people are not created after the war.. Ranil Wickremesinghe is not unaware of those issues that have created war. ”
-
-◼️
-
-[Data](articles/545aa2e2.json)
-
-[Extended Data](ext_articles/545aa2e2.ext.json)
-
----
-
-### Woman killed in floods in Ratnapura
-
-*2024-06-02 12:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/185114) · `ta`
-
-A woman died in floods in Ratnapura's Elapatha. The National Building Research Institute warns of landslides nationwide, advising residents in risky areas to prepare for potential relocation.
-
-🟩
-
-A woman has been killed in floods in Elapatha, Elapatha, Ratnapura.
-
-The National Building Research Institute has advised people living in unsafe areas due to heavy rainfall in the country.
-
-The National Building Research Institute has been instructed by the National Building Research Institute that there is a risk of landslides in many parts of the country, which will be very observant and will be prepared to dispose of the need for the need to be relocated.
-
-◼️
-
-[Data](articles/368597bb.json)
-
-[Extended Data](ext_articles/368597bb.ext.json)
-
----
-
-### The instruction has been issued to the people!
-
-*2024-06-02 12:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/185111) · `ta`
-
-Due to heavy rainfall, the National Building Research Institute warns of landslide risks in several regions. It advises residents in unsafe zones to stay alert and ready to relocate as instructed.
-
-🟩
-
-The National Building Research Institute has issued an important instruction for people living in unsafe areas due to heavy rainfall in the country.
-
-The National Building Research Institute has been advised to make a risk of landslides in many areas following rainfall and that people living in unsafe areas will be very observant and will be prepared to migrate in accordance with instructions.
-
-◼️
-
-[Data](articles/ed6aadc3.json)
-
-[Extended Data](ext_articles/ed6aadc3.ext.json)
-
----
-
-### Tomorrow holidays for schools
-
-*2024-06-02 12:53:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாடசாலைகளுக்கு-நாளை-விடுமுறை/175-338278) · `ta`
-
-Due to severe weather conditions causing floods and disrupting travel, schools will be closed starting tomorrow as per the Ministry of Education's directive.
-
-🟩
-
-The Ministry of Education has said that the provincial education authorities have been given the power to close schools from tomorrow (03) due to the prevailing floods and worse climate.
-
-The Ministry of Education further stated that the decision has been taken due to heavy rains, the rivers flowed down, the low -lying areas were flooded and the travel operations were interrupted.
-
-◼️
-
-[Data](articles/5761e770.json)
-
-[Extended Data](ext_articles/5761e770.ext.json)
-
----
-
-### All schools closed tomorrow
-
-*2024-06-02 12:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/99593/all-schools-closed-tomorrow) · `en`
-
-The Ministry of Education has decided that all schools across the island will remain closed tomorrow, according to State Minister of Education Aravind Kumar.
-
-He said the decision has been reached in consideration of the prevailing adverse weather conditions across Sri Lanka.
-
-It was previously announced that the Provincial Education Secretaries and Directors have been authorised to make a decision on whether or not to hold schools tomorrow (June 03).
-
-However, it has now been decided to close all government schools islandwide due to the prevailing inclement weather conditions.
-
-◼️
-
-[Data](articles/63b9af07.json)
-
-[Extended Data](ext_articles/63b9af07.ext.json)
-
----
-
-### All schools will be closed tomorrow
-
-*2024-06-02 12:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197280) · `si`
-
-Due to severe weather, all schools will close tomorrow. State Minister Aravinda Kumar confirmed this decision.
-
-🟩
-
-The decision was taken due to the inclement weather conditions that exist.
-
-When contacted, State Minister Aravinda Kumar said this when contacted inquiry made.
-
-◼️
-
-[Data](articles/bae08d51.json)
-
-[Extended Data](ext_articles/bae08d51.ext.json)
-
----
-
-### ‛‛ ‛Menopause Refusal
-
-*2024-06-02 12:46:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/விநோத-உலகம்/மாதவிடாயால்-முதலிரவுக்கு-மறுப்பு-12-ஆவது-நாளில்-சிக்கல்/53-338277) · `ta`
-
-A man, AK, from Indonesia, fell in love with and married Antinda Kansa, whom he met on social media, believing her to be a woman. However, it was later revealed that Antinda Kansa is actually a man. This deception led to their marriage, which was kept secret from AK's family. The situation escalated when Antinda Kansa attempted to extort AK's assets, revealing a fake identity on social media. The truth came out on their 12th day of marriage, leading to legal action against Antinda Kansa, who could face up to 4 years in prison under Indonesian law for fraudulent marriage.
-
-🟩
-
-On the 12th day of the marriage of a young man who fell in love with a familiar man on social network. That is, he was shocked to know that he was not a woman who fell in love and married. How did this happen?Let's see.
-
-Romantic marriages are increasing today. School, college, people from the same town, in the office, each is in love. And many uncle and aunty relationships are married.
-
-Above all, many people have become friends on social networks and become lovers. It is in this case that the social network has flipped the life of someone. The incident took place in Indonesia.
-
-AK belongs to Indonesia. He is 26 years old. He was a friend of Antinda Kansa through the social network. Andinda Kansa introduced himself as a woman. He also said that he belonged to Islam and that his parents were dead and living alone.. After this, 2 people often spoke on social networks. This intimacy became love within them.
-
-...
-
-[Data](articles/2dd1451c.json)
-
-[Extended Data](ext_articles/2dd1451c.ext.json)
-
----
-
-### Conduals killed in two buses
-
-*2024-06-02 12:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197279) · `si`
-
-In a tragic accident at Panadura bus stand, a conductor from the SLTB bus died, while four passengers were injured after a collision between a private bus and an SLTB bus. The incident happened when the SLTB bus was turning towards Panadura. The private bus driver escaped, and police are investigating to find him.
-
-🟩
-
-A private bus and a SLTB bus collided with an accident in Panadura bus stand today (02).
-
-A conductor who was traveling on the SLTB bus was killed and four others were injured and taken injured.
-
-The deceased has been identified as a conductor attached to the Panadura depot.
-
-The accident had occurred when the SLTB bus was to turn the Panadura bus stabbed to Panadura.
-
-The driver of the private bus had fled the area with the accident and the police have commenced investigations to arrest him.
-
-◼️
-
-[Data](articles/f2401409.json)
-
-[Extended Data](ext_articles/f2401409.ext.json)
-
----
-
-### Women Abuse: Web to escape
-
-*2024-06-02 12:26:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறுமி-துஷ்பிரயோகம்-தப்பியோடியவருக்கு-வலை/175-338275) · `ta`
-
-Talaimannar police seek public help to locate a fugitive prisoner accused of sexually abusing and killing a girl. The suspect, arrested on February 15, had previously faced charges for sexually assaulting a 9-year-old in the same area. Anyone with information is urged to call 0718591364 or 0718591370.
-
-🟩
-
-The Talaimannar police have asked the public regarding a prisoner who fled the Vavuniya Hospital as he was arrested on charges of sexually abusing and murdering a girl.
-
-He was arrested after being produced before the Mannar Court on charges of sexually abusing a 9 -year -old girl in the Talaimannar police division on February 15.
-
-They have been asked to contact 0718591364 or 0718591370 if you get information regarding this person in the photo.
-
-◼️
-
-[Data](articles/95e958a3.json)
-
-[Extended Data](ext_articles/95e958a3.ext.json)
-
----
-
-### Notice issued on functioning of schools tomorrow
-
-*2024-06-02 12:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/99592/notice-issued-on-functioning-of-schools-tomorrow) · `en`
-
-The Provincial Education Secretaries and Directors have been authorised to make a decision on whether or not to hold schools tomorrow (June 03) due to the prevailing adverse weather conditions across the island, State Minister of Education Aravindh Kumar said.
-
-◼️
-
-[Data](articles/b2c975fc.json)
-
-[Extended Data](ext_articles/b2c975fc.ext.json)
-
----
-
-### Government notification for conducting schools
-
-*2024-06-02 12:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197278) · `si`
-
-School closures due to bad weather: The decision rests with the Provincial Director of Education and Secretaries. Minister Aravinda Kumar announced this, citing adverse weather conditions.
-
-🟩
-
-Decision of schools across the country is vested with the Provincial Director of Education and Secretaries.
-
-Minister of Education Aravinda, Kumar stated that this decision was taken with the inclement weather conditions.
-
-◼️
-
-[Data](articles/32c10376.json)
-
-[Extended Data](ext_articles/32c10376.ext.json)
-
----
-
-### Free Party discusses with other parties
-
-*2024-06-02 12:12:30* · [`adalk`](https://www.ada.lk/breaking_news/නිදහස්-පක්ෂය-අනෙක්-පක්ෂ සමග-සාකච්‍ඡා/11-409961) · `si`
-
-SLFP VP Rohana Lakshman Piyadasa announced discussions with Commonwealth and a racist party, focusing on implementing party policies. He mentioned starting dialogues with district merchants, collaborators, and conducting several meetings and propaganda activities from this month.
-
-🟩
-
-The SLFP Vice President Rohana Lakshman Piyadasa said that the discussions have been started with the Commonwealth and the racist party.
-
-He told the media in Kandy, planning and actively implementing the Sri Lanka Freedom Party Policy Programs, organizations in the party.
-
-The SLFP organizers have begun talks with District Merchant Meetings, collaboratives, and the number of seat level meetings and propaganda from this month.
-
-He added that the party matters take place and his party will also carry out political parties.
-
-◼️
-
-[Data](articles/15f24576.json)
-
-[Extended Data](ext_articles/15f24576.ext.json)
-
----
-
-### Police sergeant arrested
-
-*2024-06-02 12:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197277) · `si`
-
-A police sergeant named Ranm, accused of robbing a woman's necklace, was arrested. The incident occurred near Wadduwa Church. Investigations are ongoing under the leadership of Wadduwa Police OIC Gayan Kahatapitiya.
-
-🟩
-
-The police sergeant who robbed a woman's necklacement Ranm was arrested.
-
-It is said that the arrest was a sergeant attached to the Wadduwa police station.
-
-The suspect had a golden riding in a woman who was traveling near the Wadduwa Church today (02).
-
-Wadduwa Police OIC Gayan Kahatapitiya are conducting further investigations.
-
-◼️
-
-[Data](articles/798fb508.json)
-
-[Extended Data](ext_articles/798fb508.ext.json)
-
----
-
-### 49 Women are beaten to the pigs for pigs
-
-*2024-06-02 12:03:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/49-பெண்களை-பன்றிகளுக்கு-இரையாக்கியவர்-அடித்துக்கொலை/50-338273) · `ta`
-
-Between 1990 and 2000, in Vancouver, Canada, Robert Bigton, a pig farmer, was accused of killing 49 young women, dismembering their bodies, and feeding them to his pigs. Arrested and convicted in 2006, he served time until his death in prison after a violent altercation with fellow inmates.
-
-🟩
-
-In 1990-2000, many young women were killed. The police have registered a case and are investigating.The incident took place in Vancouver, Canada.
-
-In this case, the police complained that Robert Bigton (71 years old), who had a pig farm in the Port Cocwidlam area, had illegally smuggled weapons.
-
-When a woman's body was cut in a bridges in her home when he went to investigate the matter. Subsequently, the police arrested him and investigated. It was then revealed that she had cut down 49 women and then cut their bodies, cut them into pieces and fell prey to pigs on their farm. The incident rocked the country.
-
-In 2006, he was sentenced to life imprisonment. He was subsequently jailed in Vancouver.
-
-The clash between Robert and fellow inmates in jail on the 19th of last month. Many prisoners then attacked him. He was subsequently admitted to the hospital for treatment. But he died without treatment.
-
-◼️
-
-[Data](articles/b0869826.json)
-
-[Extended Data](ext_articles/b0869826.ext.json)
 
 ---

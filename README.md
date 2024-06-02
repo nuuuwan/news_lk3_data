@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-02 11:34:27**
+As of **2024-06-02 11:53:48**
 
 ## Newspaper Stats
 
-*Scraped **27,818** Articles*
+*Scraped **27,821** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,68 @@ adalk | 2,369
 adaderanalk | 3,162
 tamilmirrorlk | 3,259
 virakesarilk | 4,286
-dailymirrorlk | 4,407
-adaderanasinhalalk | 4,449
+dailymirrorlk | 4,408
+adaderanasinhalalk | 4,451
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,811 (100.0%) of 27,818 articles have been extended.
+27,818 (100.0%) of 27,821 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-02 (Sunday)
+
+### ජාතික පාසල්වලට ළමුන් ඇතුළු කිරීම ගැන නිවේදනයක්
+
+*2024-06-02 11:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197275) · `si`
+
+‍ජාතික පාසල්වල අතරමැදි ශ්‍රේණි සඳහා 2024 වර්ෂයට අදාළ අයදුම්පත් හෙට (02) දිනෙන් පසු බාර නොගන්නා බව අධ්‍යාපන අමාත්‍යංශය පවසයි.
+
+ඒ අනුව අදාළ අයදුම්පත් අධ්‍යාපන අමාත්‍යංශයට හෝ පාසල්වලට හෙට දිනෙන් පසු යොමු කිරිමෙන් වළකින ලෙස අධ්‍යාපන අමාත්‍යංශය දැනුම් දෙයි.
+
+ජාතික පාසල්වලට 2024 වර්ෂයේ අතරමැදි ශ්‍රේණි සඳහා සිසුන් ඇතුළත් කිරිමට අදාළ අයදුම්පත් පාසල් වෙත යොමු කිරිමට මීට පෙර අවස්ථාව සලසා දී තිබුණි.
+
+පුරප්පාඩු පවතින පාසල්වල අතරමැදි ශ්‍රේණි සදහා වු අයදුම්පත්වලට අනුව  චක්‍රලේඛ ප්‍රකාරව අදාළ විදුහල්පතිවරුන් සම්මුඛ පරික්ෂණ පවත්වා  තෝරාගත් සිසුන්ගේ නාම ලේඛනය අනුමැතිය සඳහා අධ්‍යාපන අමාත්‍යාංශයට යොමුකිරිමට නියමිය.
+
+◼️
+
+[Data](articles/4b409b1e.json)
+
+---
+
+### SriLankan flight to Singapore delayed for 5 hours
+
+*2024-06-02 11:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SriLankan-flight-to-Singapore-delayed-for-5-hours/108-283898) · `en`
+
+Mattala, June 2 (Daily Mirror) - SriLankan Airlines said that flight UL 309 from Singapore to Colombo, carrying 204 passengers, was diverted to Mattala Rajapaksa International Airport this morning (2 June) due to adverse weather conditions at Bandaranaike International Airport (BIA).
+
+In response, the airline said that they prioritized the safety and well-being of passengers onboard, offering them the option to disembark in Mattala or remain onboard to fly to BIA.
+
+The aircraft remained grounded at Mattala as the operating crew had exceeded their flight duty time limit per civil aviation regulations. Additionally, the flight's departure from Singapore was delayed by approximately five hours due to technical issues. The flight departed for BIA at 10:00hrs this morning with a new crew, they said.
+
+...
+
+[Data](articles/d72f4f10.json)
+
+---
+
+### මහා ගංවතුර තත්ත්වයක්
+
+*2024-06-02 11:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197274) · `si`
+
+කළු ගඟේ කුඩා ගඟ ද්‍රෝණියෙහි මිල්ලකන්ද ප්‍රදේශයට මිලිමීටර් 149.8ක වර්ෂාවක් ලැබීමත් සමඟ අද පෙරවරු 9 වනවිට මහා ගංවතුර තත්ත්වයකට පත්ව ඇතැයි වාරිමාර්ග දෙපාර්තමේන්තුව පවසයි.
+
+ඒ අනුව කළු ගඟ පිටාර ගැලීමෙන් බුලත්සිංහල - කළුතර මාර්ගය ඇතුළු ප්‍රධාන මාර්ග කිහිපයක් සහ නිවාස 300ක් පමණ ජලයෙන් යටවී ඇතැයි අප වාර්තාකරු පැවසීය.
+
+මේ අතර නිල්වලා ගඟෙහි සියලු ජලමාපක ද සාමාන්‍ය ජල මට්ටම ඉක්මවා ගොස් ඇති අතර එහි පිටබැද්දර ප්‍රදේශය මහා ගංවතුර මට්ටමකට පත්ව තිබේ.
+
+◼️
+
+[Data](articles/e48448b3.json)
+
+---
 
 ### Sri Lankan High Commissioner invites King Charles III to visit Sri Lanka
 
@@ -49,6 +99,8 @@ Discussions during the audience centered on the enduring relations between the t
 ...
 
 [Data](articles/c3b20b81.json)
+
+[Extended Data](ext_articles/c3b20b81.ext.json)
 
 ---
 
@@ -158,51 +210,69 @@ Police say the murder had been carried out with a dispute with a resident of a r
 
 ---
 
-### ஜனாதிபதி தேர்தல் தொடர்பாக இவ்வாரம் முக்கிய அறிவிப்பு : ரணில் - மஹிந்த புதன்கிழமை சந்திப்பு
+### Ranil - Mahinda meets Wednesday
 
 *2024-06-02 09:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/185092) · `ta`
 
-2024ஆம் ஆண்டு ஜனாதிபதி தேர்தல் தொடர்பில் அரசாங்கத்திடமிருந்து இந்த வாரம் முக்கிய அறிவிப்பு வெளியிடப்படவுள்ள நிலையில், ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கும் ஸ்ரீலங்கா பொதுஜன பெரமுனவின் தலைவர் மஹிந்த ராஜபக்ஷ உள்ளிட்டவர்களுக்கும் இடையிலான விசேட கலந்துரையடல் 5ஆம் திகதி புதன்கிழமை இடம்பெறவுள்ளது.
+President Ranil Wickremesinghe and former President Mahinda Rajapaksa will meet on Wednesday to discuss the upcoming 2024 presidential election. This comes after prolonged negotiations with the ruling Sri Lanka PA, which have reached a critical stage. Support from various opposition parties, including the United People's Power and the United National Party, is anticipated for Wickremesinghe. Meanwhile, Rajapaksa plans to announce the PA's stance on the election on the 17th.
 
-இதேவேளை,  ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கு ஆதரவாக ஐக்கிய மக்கள் சக்தி உட்பட ஏனைய எதிர்க்கட்சிகளின் உறுப்பினர்கள் சிலர் ஐக்கிய தேசிய கட்சியுடன் ஒன்றிணைவார்கள் என்று கூறப்படுவதுடன், அந்த வகையில், பாராளுமன்ற உறுப்பினர் ராஜித சேனாரத்ன முதலில் இணைவார் என்று எதிர்பார்க்கப்படுகின்றது.
+🟩
 
-ஆளும் ஸ்ரீலங்கா பொதுஜன பெரமுனவுக்கும் ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கும் இடையில் ஜனாதிபதி தேர்தலை மையப்படுத்திய பேச்சுவார்த்தைகள் மிக நீண்டகாலமாக இடம்பெற்று வருகின்றது. அந்த பேச்சுவார்த்தைகள் தற்போது இறுதிக்கட்டத்தை அடைந்துள்ளன. பொதுஜன பெரமுனவின் தலைவர் மஹிந்த ராஜபக்ஷ எதிர்வரும் 17ஆம் திகதி ஜனாதிபதி தேர்தல் தொடர்பிலான கட்சியின் நிலைப்பாட்டை அறிவிக்கவுள்ளார்.
+A special discussion between President Ranil Wickremesinghe and President Mahinda Rajapaksa, President Mahinda Rajapaksa, will be held on Wednesday, 5th as the key announcement from the government is to be announced from the government on the 2024 presidential election.
+
+Meanwhile, some members of other opposition parties, including the United People's Power, are said to be united with the United National Party in support of President Ranil Wickremesinghe and that MP Rajitha Senaratne is expected to join the first.
+
+Negotiations focusing on the presidential election between the ruling Sri Lanka PA and President Ranil Wickremesinghe have been going on for a long time.. Those negotiations have now reached the final stage. PA President Mahinda Rajapaksa will announce the party's position on the presidential election on the 17th.
 
 ...
 
 [Data](articles/808bd5ed.json)
 
+[Extended Data](ext_articles/808bd5ed.ext.json)
+
 ---
 
-### உயிர்த்த ஞாயிறு தாக்குதல் விசாரணைகளை துரிதப்படுத்தவே  சட்டமா அதிபரின் பதவிக்காலத்தை நீடித்தேன் - ஜனாதிபதி
+### I extended the term of the Attorney General to expedite the investigation of the survival Sunday attack
 
 *2024-06-02 09:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/185091) · `ta`
 
-இஸ்லாமிய அடிப்படைவாதிகளினால் மேற்கொள்ளப்பட்ட உயிர்த்த ஞாயிறு தற்கொலை குண்டு தாக்குதல் தொடர்பான விசாரணைகளில் பேராயர் இல்லத்துடனான தொடரபாடல் குழுவில் சட்டமாதிபர் முக்கிய பங்கை வகிப்பதனால் அவரின் சேவை காலத்தை நீடிக்க தீர்மானித்ததாக ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்துள்ளார்.
+President Wickremesinghe extended the term of Attorney General Sanjay Rajaratnam to expedite the investigation into the 2019 Easter Sunday bombings by Islamic extremists. The AG's role in Archbishop investigations was praised, and his continued involvement is crucial for ongoing discussions and the completion of the probe.
 
-சட்டமா அதிபர் சஞ்சய் ராஜரட்ணத்தின் பதவிக்காலம் நீடிக்கப்பட்டமை தொடர்பில் ஜனாதிபதி அலுவலகத்தில் கடந்த வியாழக்கிழமை இடம்பெற்ற கலந்துரையாடலின்போது கேள்வியெழுப்பப்பட்டது. இதற்கு பதிலளிக்கையிலேயே ஜனாதிபதி மேற்கண்டவாறு கூறினார்.
+🟩
 
-2019ஆம் ஆண்டில் இஸ்லாமிய அடிப்படைவாதிகளினால் மேற்கொள்ளப்பட்ட உயிர்த்த ஞாயிறு தற்கொலை குண்டு தாக்குதல் தொடர்பான ஜனாதிபதி விசாரணை ஆணைக்குழுவின் அறிக்கையை இலங்கை ஆயர்கள் பேரவையிடம்  கையளிக்கப்பட்டுள்ளது. இந்த பேரவையின் தலைவர் வணக்கத்துக்குரிய ஹெரல்ட் என்டனி பெரேரா மற்றும் குருநாகல் ஆயர் ஆகியோருடன் தொடர்புகொள்வதற்காக ஜனாதிபதி செயலாளர் சமன் ஏக்கநாயக்க, தேசிய பாதுகாப்பு ஆலோசகர் சாகல ரத்நாயக்க மற்றும் சட்டமா அதிபர் சஞ்சய் ராஜரட்ணம் ஆகிய மூவர்கொண்ட குழு நியமிக்கப்பட்டது.
+President Ranil Wickremesinghe has said that the Attorney General has played an important role in the proceedings of the Archbishop in the Business of the Archbishop in investigations into the survival Sunday bomb attack by Islamic fundamentalists.
+
+During a discussion held at the President's Office last Thursday, the Attorney General Sanjay Rajaratnam's term was extended. In response, the President said the above.
+
+The Sri Lanka Bishop has handed over the report of the Presidential Investigation Commission on the Sunday Suicide Bombing carried out by Islamic fundamentalists in 2019.. The committee was appointed by President Saman Ekanayake, National Security Advisor Sagala Ratnayake and Attorney General Sanjay Rajaratnam to communicate with the Chairman of the Convention Herald Entony Perera and Kurunegala Bishop.
 
 ...
 
 [Data](articles/885f891c.json)
 
+[Extended Data](ext_articles/885f891c.ext.json)
+
 ---
 
-### ගිං ගඟ සැරවෙයි
+### Ging River Susu
 
 *2024-06-02 09:49:26* · [`adalk`](https://www.ada.lk/breaking_news/ගිං-ගඟ-සැරවෙයි/11-409956) · `si`
 
-අද (2) උදෑසන වන විට ගිංගඟ ද්‍රෝණියේ ධාරා ප්‍රදේශවලට සැලකිය යුතු ලෙස අධික වර්ෂාවක් ලැබී ඇති හෙයින් ගාල්ල දිස්ත්‍රික්කයේ නෙළුව ,තවලම,නාගොඩ, නියාගම,වැලිවිටිය දිවිතුර ,ඇල්පිටිය ,අක්මීමන ,බද්දේගම සහ බෝපේ පෝද්දල ප්‍රාදේශීය ලේකම් කොට්ටාසවලට අයත් ගිංගඟ නිම්නයේ පහත්බිම් ප්‍රදේශවලට ගංවතුර  තත්වයක් ඇතිවිය හැකි බවට මේ මොහොතේ සිට  වාරිමාර්ග දෙපාර්තමේන්තුව අනතුරු අඟවයි.
+Flooding warnings issued for Colombo, Thawalama, Niyamaka, Baddegama, Elpitiya, Poddama, and Bope Poddala areas due to potential river overflow. Residents urged to take precautions by the Irrigation Department.
 
-මේ පිළිබඳව දැඩි සැලකිල්ලකින් කටයුතු කරන ලෙස එම ප්‍රදේශවල පදිංචිකරුවන්ගෙන් හා එම  ප්‍රදේශ හරහා ගමන් ගන්නා වාහන පදවන්නන්ගෙන් වාරිමාර්ග  දෙපාර්තමේන්තුව ඉල්ලා සිටි.
+🟩
 
-මෙම ගංවතුර ඇඟවීමේ නිවේදනය අනිද්දා (4) දින පෙරවරු 3.00 දක්වා වලංගු බව  වාරිමාර්ග අධ්‍යක්ෂ ( ජල විද්‍යා  හා ආපදා කළමනාකරණය) ඉංජිනේරු එස්.පී .සී .සුගීශ්වර මහතා පැවසිය .
+Floods in Colombo, Thawalama, Niyamaka, Baddegama, Elpitiya, Poddama and Bope Poddala Divisional SecretariatsThe Irrigation Department warns that from this point that can occur.
+
+The Irrigation Department demanded the Irrigation Department from residents of the area and the regions passing through the areas of this area.
+
+Irrigation Director (Hydrology and Disaster Management) Engineer (Hydrology & Disaster Management) Engineer (Hydrology & Disaster Management) Engineer (Hydrology & Disaster).
 
 ◼️
 
 [Data](articles/873cf1c3.json)
+
+[Extended Data](ext_articles/873cf1c3.ext.json)
 
 ---
 
@@ -254,19 +324,25 @@ At the bowling kaleem sana, Dillon HEYLIGER and NIKHIL DUTTA took one wicket.
 
 ---
 
-### அவிசாவளையில் வெள்ளத்தில் சிக்கி ஒரே குடும்பத்தைச் சேர்ந்த மூவர் உயிரிழப்பு!
+### Three of the same family killed in floods in Avissawella
 
 *2024-06-02 09:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/185088) · `ta`
 
-அவிசாவளை, புவக்பிட்டிய, எலிஸ்டன்வத்தை , கெகில்ல பிரதேசத்தில் வெள்ளத்தில் சிக்கி ஒரே குடும்பத்தைச் சேர்ந்த மூவர் உயிரிழந்துள்ளனர்.
+In Avissawella, three family members—a 36-year-old woman, her 7-year-old daughter, and a 78-year-old man—died in floods near a river at 2 am and 3 pm yesterday.
 
-உயிரிழந்தவர்களுள் 36 வயதான தாய், 7 வயதான மகள் மற்றும் 78 வயதான பாட்டன்  ஆகியோர்  அடங்குவர்.
+🟩
 
-இன்று ஞாயிற்றுக்கிழமை (02) காலை 2 மணிக்கும் 3 மணிக்கும் இடைப்பட்ட நேரத்தில்  வீட்டின் அருகில் உள்ள ஆற்றில் ஏற்பட்ட வெள்ளப்பெருக்கு காரணமாக இவர்கள் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+Three people have died in a flood in Kekilla, Elistonwatte, Avissawella, Bhuvakpitiya, Avissawella.
+
+The deceased included a 36 -year -old mother, 7 -year -old daughter and 78 -year -old Patton.
+
+They have died due to floods in the nearby river at 2 am and 3 pm today (02), police said.
 
 ◼️
 
 [Data](articles/95cd750c.json)
+
+[Extended Data](ext_articles/95cd750c.ext.json)
 
 ---
 
@@ -358,21 +434,29 @@ University allegations engage in strike. It is unfortunate that this is unfortun
 
 ---
 
-### முட்டுக்கொடுத்து நாட்டை கட்டியெழுப்ப முடியாது - அநுரகுமார
+### The country cannot be built - Anuragumara
 
 *2024-06-02 09:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/185085) · `ta`
 
-முழுமையாக சீர்குலைந்த நாட்டிற்கு ஒருபக்கத்தில்மட்டும் முட்டுக்கொடுத்து கட்டியெழுப்ப முடியாது என்று தேசிய மக்கள் சக்தியின் தலைவரும் கொழும்பு மாவட்ட பாராளுமன்ற உறுப்பினருமான அநுரகுமார திசாநாயக்க தெரிவித்தார்.
+Anurakumara Dissanayake, leader of the National People's Power and Colombo District Parliamentarian, addressed engineers, highlighting their crucial role in rebuilding the disrupted nation. He emphasized the underutilization of engineers' skills, suggesting that if fully harnessed, it could prevent the current state of chaos. He called for a long-term transformation effort, inviting all, including those who've left the country, to contribute to this change.
 
-கொழும்பில் நேற்று சனிக்கிழமை (1) நடைபெற்ற துறைசார் பொறியியலாளர்களின் மாநாட்டில் கலந்துகொண்டு உரையாற்றும்போதே அவர் மேற்கண்டவாறு தெரிவித்தார்.
+🟩
 
-நாட்டில் உள்ளதுறை சார்ந்த நிபுணர்களில் பொறியிலாளர்களின் பங்கு மிகவும் முக்கியமானது. குறிப்பாக, வெவ்வேறு துறைசார்ந்த பொறியியலாளர்கள் சாதனையாளர்களாக இருக்கின்றார்கள். அவர்களின் திறமைகளை நாடு முழுமையாக உள்வாங்கவில்லை. அவ்வாறு உள்வாங்கியிருந்தால் நாட்டில் தற்போதைய நிலைமைகள் ஏற்பட்டிருக்காது.
+The leader of the National People's Power and the Colombo District Parliamentarian Anurakumara Dissanayake said that the completely disrupted country cannot be built on the one hand.
 
-நாடு முழுமையாக சீர்குலைந்து விட்டது. நாட்டை மீண்டும் கட்டியெழுப்புவதாக இருந்தால் ஒருபக்கத்தில் மட்டும் முட்டுக்கொடுத்து நிமிர்த்திவிட முடியாது. ஆனால் தற்போது நாட்டில் இருக்கின்ற சிலர் அவ்வாறு தான் நாட்டைக்கட்டியெழுப்புவதற்கு முனைகின்றார்கள். அது நீண்டகாலத்திற்கு சாத்தியமானவிடயமாகஅமையப்போவதில்லை.
+He said this while addressing the conference of the Department of Department of Department of Department of Department of Department of Personal Engineers on Saturday (1) in Colombo.
 
-...
+The role of engineers is very important in the country -based experts. In particular, different departmental engineers are achievers. The country does not fully embrace their skills. If so, the current conditions in the country would not have occurred.
+
+The country has completely disrupted. If the country is rebuilt. But some people in the country are seeking to make the country. It is not going to be possible for a long time.
+
+Therefore, if a long -standing transformation is to create a change from the basis. I invite everyone to take part in that change. I am also calling for the departments who have left the country.
+
+◼️
 
 [Data](articles/ab38709d.json)
+
+[Extended Data](ext_articles/ab38709d.ext.json)
 
 ---
 
@@ -631,6 +715,8 @@ In any unfavourable circumstances, it is easy for us to blame others without cri
 ...
 
 [Data](articles/4b1b8c4b.json)
+
+[Extended Data](ext_articles/4b1b8c4b.ext.json)
 
 ---
 
@@ -2121,71 +2207,5 @@ The Lanka Three-wheeler Association says that reduced fuel prices will not be re
 [Data](articles/71cc0722.json)
 
 [Extended Data](ext_articles/71cc0722.ext.json)
-
----
-
-### Earliest and most distant galaxy ever observed
-
-*2024-06-01 14:38:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Earliest-and-most-distant-galaxy-ever-observed/108-283881) · `en`
-
-(BBC) - The James Webb Space Telescope has smashed its own record for detecting the most distant known galaxy. Called JADES-GS-z14-0, the collection of stars was spied as it was a mere 290 million years after the Big Bang.
-
-Put another way - if the Universe is 13.8 billion years old, it means we're observing the galaxy when the cosmos was only 2% of its current age.
-
-Webb used its huge 6.5m-wide primary mirror and sensitive infrared instruments to make the discovery.
-
-The telescope's previous record holder was a galaxy seen at 325 million years after the Big Bang.
-
-Astronomers say the most interesting aspect of the latest observation is not so much the great distance involved - as amazing as that is - but rather the size and brightness of JADES-GS-z14-0.
-
-...
-
-[Data](articles/5a520df9.json)
-
-[Extended Data](ext_articles/5a520df9.ext.json)
-
----
-
-### Police call for public assistance to arrest a suspect
-
-*2024-06-01 14:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197244) · `si`
-
-Police need public help to capture a suspect linked to the rape and murder of a nine-year-old girl in the Talahaigamanana division. The suspect had previously been released from prison custody.
-
-🟩
-
-Police seek public assistance to arrest a suspect who lived from prison officials.
-
-The suspect was arrested in connection with the rape and murder of a nine-year-old girl in Talahaigamanana Police Division.
-
-◼️
-
-[Data](articles/9120f61b.json)
-
-[Extended Data](ext_articles/9120f61b.ext.json)
-
----
-
-### Heavy snowfall in the hill country;Notification issued to drivers
-
-*2024-06-01 14:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/185040) · `ta`
-
-Heavy snowfall in hill areas has led to warnings for drivers due to difficult driving conditions. Roads like Nuwara Eliya-Hatton Main Road and others are covered in snow, causing visibility issues. Drivers are advised to keep their vehicles close together and use headlights to avoid accidents, especially during weekends when more visitors travel to Nuwara Eliya.
-
-🟩
-
-In many parts of the hill country, there is a high snow.The drivers have warned the drivers to pay their vehicles.
-
-Nuwara Eliya -Hatton Main Road, Vendikonner, Bangladesh, Bangladesh, Nanuoya, Ratalla Cross Road, as well as Nuwara Eliya -Kandy Road, BambarakkalOn the road, there is a large number of snowfall in places like Dharmapala Junction, Mahastota, Construction, Sita Eliya, Hakkali and Borakas, including Ambewala, Meebilima, Pattipola and World End Road.Drivers are facing great difficulties in driving vehicles.
-
-Vehicles on the Nuwara Eliya - Hatton A7 main road were able to observe the sound and the lighting of the vehicle lights.
-
-Especially on Saturdays and Sunday holidays, a large number of people from the outer district visit Nuwara Eliya in vehicles.
-
-...
-
-[Data](articles/6a210ed6.json)
-
-[Extended Data](ext_articles/6a210ed6.ext.json)
 
 ---

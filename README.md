@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-02 12:34:08**
+As of **2024-06-02 12:51:17**
 
 ## Newspaper Stats
 
-*Scraped **27,831** Articles*
+*Scraped **27,832** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,34 +19,40 @@ adalk | 2,370
 adaderanalk | 3,163
 tamilmirrorlk | 3,262
 virakesarilk | 4,286
-dailymirrorlk | 4,409
+dailymirrorlk | 4,410
 adaderanasinhalalk | 4,453
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,829 (100.0%) of 27,831 articles have been extended.
+27,831 (100.0%) of 27,832 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-02 (Sunday)
 
-### පොලිස් සැරයන්වරයෙක් අත්අඩංගුවට
+### Police sergeant arrested
 
 *2024-06-02 12:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197277) · `si`
 
-කාන්තාවකගේ ගෙල බැඳි රන්මාලය කොල්ලකෑ පොලිස් සැරයන්වරයෙකු අත්අඩංගුවට ගත්බව වාද්දුව පොලීසිය පවසයි.
+A police sergeant named Ranm, accused of robbing a woman's necklace, was arrested. The incident occurred near Wadduwa Church. Investigations are ongoing under the leadership of Wadduwa Police OIC Gayan Kahatapitiya.
 
-එසේ අත්අඩංගුවට ගෙන ඇත්තේ වාද්දුව පොලිස් ස්ථානයට අනුයුක්ත සැරයන්වරයෙකු බව සඳහන් වෙයි.
+🟩
 
-අද (02) අලුයම 5.45ට පමණ වාද්දුව දේවස්ථානය ආසන්නයේ ගමන් කරමින් සිටි කාන්තාවකගේ ගෙල බැඳි රන්මාලයක් මෙම සැකකරු විසින් මෙසේ කොල්ලකා ඇති බව සඳහන් වේ.
+The police sergeant who robbed a woman's necklacement Ranm was arrested.
 
-වාද්දුව පොලීසියේ ස්ථානාධිපති ගයාන් කහටපිටිය මහතාගේ ප්‍රධානත්වයෙන් වැඩිදුර පරීක්ෂණ පවත්වයි.
+It is said that the arrest was a sergeant attached to the Wadduwa police station.
+
+The suspect had a golden riding in a woman who was traveling near the Wadduwa Church today (02).
+
+Wadduwa Police OIC Gayan Kahatapitiya are conducting further investigations.
 
 ◼️
 
 [Data](articles/798fb508.json)
+
+[Extended Data](ext_articles/798fb508.ext.json)
 
 ---
 
@@ -187,6 +193,24 @@ According to the intermediate grades of vacancies, the relevant principals in te
 [Data](articles/4b409b1e.json)
 
 [Extended Data](ext_articles/4b409b1e.ext.json)
+
+---
+
+### Ambassador Kananathan meets Guinea-Bissau President on investment talks
+
+*2024-06-02 11:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ambassador-Kananathan-meets-Guinea-Bissau-President-on-investment-talks/108-283900) · `en`
+
+Nairobi, Kenya  – Sri Lankan Ambassador to Kenya, Kananathan, met with the President of Guinea-Bissau, Umaro Sissoco Embaló on the sidelines of the investiture ceremony of Chad's President.
+
+The meeting, held in an atmosphere of mutual respect and collaboration, centered on advancing the proposed progress on private investments by our businessman from Sri Lanka in Guinea-Bissau.
+
+Ambassador Kananathan highlighted Sri Lanka's commitment to expanding its economic footprint in Africa through strategic partnerships and investments.
+
+The discussions with President Embaló were highly productive," said Ambassador Kananathan. "We are keen on leveraging Sri Lanka's expertise and resources to contribute to Guinea-Bissau for the mutual befit of both nations.  These partnerships will not only foster economic development but also strengthen the bonds between our two nations."
+
+...
+
+[Data](articles/8e10f4cd.json)
 
 ---
 
@@ -390,21 +414,27 @@ Police say the murder had been carried out with a dispute with a resident of a r
 
 ---
 
-### දිස්ත්‍රික්ක 10කට නාය යෑමේ අනතුරු ඇගවීම්
+### Landsay Acquisitions of Lands to 10 Districts
 
 *2024-06-02 10:04:49* · [`adalk`](https://www.ada.lk/breaking_news/දිස්ත්‍රික්ක-10කට-නාය-යෑමේ-අනතුරු-ඇගවීම්/11-409957) · `si`
 
-පවතින අයහපත් කාලගුණයත් සමග දිස්ත්‍රික්ක 10ක් සඳහා නායයෑමේ අනතුරු ඇඟවීම් නිකුත් කර තිබේ.
+Landslide warnings cover 10 districts including areas in Colombo, Kandy, Nuwara Eliya, Ratnapura, Kegalle, Matara, and Kurunegala. Issued by NBRO, effective from 4 am today until 4 am tomorrow.
 
-ඒ අනුව කොළඹ දිස්ත්‍රික්කයේ පාදුක්ක ප්‍රාදේශීය ලේකම් කොට්ඨාසයට මෙන්ම කළුතර දිස්ත්‍රික්කයේ සහ රත්නපුර දිස්ත්‍රික්කයේ ප්‍රාදේශීය ලේකම් කොට්ඨාස 12ක් සඳහා නායයෑම් අනතුරු ඇඟවීමේ රතු නිවේදන නිකුත් කර ඇති බව ජාතික ගොඩනැගිලි පර්යේෂණ සංවිධානය පවසයි.
+🟩
 
-එමෙන්ම මහනුවර, නුවරඑළිය, රත්නපුර, ගාල්ල, කෑගල්ල, හම්බන්තොට, මාතර සහ කුරුණෑගල යන දිස්ත්‍රික්කවල ප්‍රාදේශීය ලේකම් කොට්ඨාස 41ක් සඳහා එම නායයෑමේ අනතුරු ඇඟවීම් නිකුත් කර තිබේ.
+Landslide warnings have been issued for 10 districts with the inclement weather.
 
-එම නායයෑම් අනතුරු ඇඟවීම් අද (02) අලුයම 04 සිට හෙට (03) අලුයම 04 දක්වා බලපැවැත්වෙන බව ජාතික ගොඩනැගිලි පර්යේෂණ සංවිධානයේ ජ්‍යෙෂ්ඨ භූ විද්‍යාඥ වසන්ත සේනාධීර මහතා සඳහන් කළේය.
+According to the National Building Research Organization (NBRO) has issued the landslide warning for the Padukka Divisional Secretariat Division in Colombo as well as the Padukka Divisional Secretariat Division in Colombo.
+
+The landslide warnings have been issued for 41 Divisional Secretariat Divisions in Kandy, Nuwara Eliya, Ratnapura, Ratnapura, Kegalle, Matara and Kurunegala districts.
+
+The landslide warnings will be effective from 4am to 4am to 4 am tomorrow (03) at the Senior Geologist Wasantha Senadheera.
 
 ◼️
 
 [Data](articles/616521e3.json)
+
+[Extended Data](ext_articles/616521e3.ext.json)
 
 ---
 
@@ -2165,31 +2195,5 @@ The Indian police have revealed that they had been working to travel safely for 
 [Data](articles/294604d4.json)
 
 [Extended Data](ext_articles/294604d4.ext.json)
-
----
-
-### Change on bus, three -wheeler fees?
-
-*2024-06-01 15:43:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பஸ்-முச்சக்கரவண்டி-கட்டணங்களில்-மாற்றம்/175-338233) · `ta`
-
-Ceylon Petroleum Corporation reduced fuel prices, affecting Sri Lanka IOC and Sinopac. Despite lower costs, private bus fares won't decrease due to operational constraints. The Sri Lanka Three Wheeler Association also stated that reduced fuel prices wouldn't lead to fare reductions for their services.
-
-🟩
-
-The Ceylon Petroleum Corporation has reduced the prices of some of its fuels with effect from midnight yesterday.
-
-With the revision of the price, the Sri Lanka IOC and its prices have been revised, and Sinopac has revised its fuel prices.
-
-However, the price of a liter of Otto Diesel selling Sinopac is 3 rupees lower than the Ciptco and IOC fuel.
-
-Private bus associations point out that there is no possibility of reduction in bus fares despite fuel prices.
-
-Meanwhile, the Sri Lanka Three Wheeler Association has said that the reduced fuel prices will not be reduced as they are not available to their services.. Remble
-
-◼️
-
-[Data](articles/13da248f.json)
-
-[Extended Data](ext_articles/13da248f.ext.json)
 
 ---

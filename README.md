@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-03 04:04:00**
+As of **2024-06-03 04:18:45**
 
 ## Newspaper Stats
 
-*Scraped **27,981** Articles*
+*Scraped **27,982** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 255
+colombotelegraphcom | 256
 dbsjeyarajcom | 269
 bbccomsinhala | 275
 newsfirstlk | 363
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,482
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,979 (100.0%) of 27,981 articles have been extended.
+27,981 (100.0%) of 27,982 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -574,6 +574,16 @@ The Army Commander has issued a directive to the Security Forces Headquarters Co
 
 ---
 
+### Historic Crimes Of The Chauvinistic Left: Horror Of Indian Military & JVP
+
+*2024-06-02 22:28:19* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/historic-crimes-of-the-chauvinistic-left-horror-of-indian-military-jvp/) · `en`
+
+...
+
+[Data](articles/2dc76499.json)
+
+---
+
 ### Government Decision on Destructured Houses
 
 *2024-06-02 22:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197305) · `si`
@@ -604,6 +614,8 @@ The new National Education Policy Framework (NEPF) was prepared by a cabinet com
 
 [Data](articles/a2859139.json)
 
+[Extended Data](ext_articles/a2859139.ext.json)
+
 ---
 
 ### Are We There Yet?: The Quest For The Cure For Diabetes
@@ -613,6 +625,8 @@ The new National Education Policy Framework (NEPF) was prepared by a cabinet com
 ...
 
 [Data](articles/73899aad.json)
+
+[Extended Data](ext_articles/73899aad.ext.json)
 
 ---
 
@@ -2117,23 +2131,5 @@ Due to the overflowing of Mawak Oya, they face an unexpected problem in the hote
 [Data](articles/62e6f262.json)
 
 [Extended Data](ext_articles/62e6f262.ext.json)
-
----
-
-### ’SJB will have to decide whether it wants me or not’:Hirunika
-
-*2024-06-02 15:29:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SJB-will-have-to-decide-whether-it-wants-me-or-notHirunika/108-283906) · `en`
-
-Colombo, June 2 (Daily Mirror) Former MP Hirunika Premachandra said today that the Samagi Jana Balawegaya (SJB) will have to decide whether it wants her or not if it gets into a deal to grant a pardon to Duminda Silva.
-
-"I trust that SJB leader Sajith Premadasa will not agree to grant a Presidential pardon to Duminda Silva. However, others around him may convince him to get into a deal with the relevant people. The party will have to decide if it wants me or others in such an eventuality," Ms. Premachandra told the media.
-
-"I was able to reverse the pardon granted to Duminda Silva by former President Gotabaya Rajapaksa as he had granted it without following the procedure," she recalled.
-
-◼️
-
-[Data](articles/595c1dc5.json)
-
-[Extended Data](ext_articles/595c1dc5.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-02 13:18:54**
+As of **2024-06-02 13:34:26**
 
 ## Newspaper Stats
 
-*Scraped **27,837** Articles*
+*Scraped **27,840** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,38 @@ newsfirstlk | 363
 islandlk | 1,507
 economynextcom | 1,587
 dailyftlk | 1,635
-adalk | 2,370
+adalk | 2,371
 adaderanalk | 3,166
 tamilmirrorlk | 3,264
 virakesarilk | 4,286
-dailymirrorlk | 4,410
+dailymirrorlk | 4,412
 adaderanasinhalalk | 4,453
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,832 (100.0%) of 27,837 articles have been extended.
+27,837 (100.0%) of 27,840 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-02 (Sunday)
+
+### Landslide warning for nine areas; public urged to be precautious
+
+*2024-06-02 13:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Landslide-warning-for-nine-areas-public-urged-to-be-precautious/108-283901) · `en`
+
+The National Building Research Organization (NBRO) today issued early warnings for landslides in Colombo, Hambantota, Kalutara, Kandy, Matara, Nuwara Eliya, Galle, Ratnapura and Kegalle districts.
+
+Those in these areas are to be watchful for sudden appearance of water sprouts, cracks on walls and on the soil as these may be signs of impending landslides.
+
+According to the Department of Meteorology, heavy showers about 100mm are on the cards at some places in Western and Sabaragamuwa provinces
+
+◼️
+
+[Data](articles/53b673c3.json)
+
+---
 
 ### Kelani River reaches flood level
 
@@ -44,19 +60,27 @@ Accordingly, the general public living in the area are advised to remain cautiou
 
 [Data](articles/b0104044.json)
 
+[Extended Data](ext_articles/b0104044.ext.json)
+
 ---
 
-### பாடசாலைகளுக்கு நாளை விடுமுறை
+### Tomorrow holidays for schools
 
 *2024-06-02 12:53:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாடசாலைகளுக்கு-நாளை-விடுமுறை/175-338278) · `ta`
 
-தற்போது நிலவும் வெள்ளம் மற்றும் மோசமான காலநிலை காரணமாக நாளை (03) முதல் பாடசாலைகளை மூடும் அதிகாரம் மாகாண கல்வி அதிகாரிகளுக்கு வழங்கப்பட்டுள்ளதாக கல்வி அமைச்சு தெரிவித்துள்ளது.
+Due to severe weather conditions causing floods and disrupting travel, schools will be closed starting tomorrow as per the Ministry of Education's directive.
 
-கனமழையுடன் ஆறுகள் பெருக்கெடுத்து ஓடியதாலும் தாழ்வான பகுதிகள் வெள்ளத்தில் மூழ்கியதாலும் பயண நடவடிக்கைகள் தடைபட்டதாலும் இந்த முடிவு எடுக்கப்பட்டுள்ளதாக கல்வி அமைச்சு மேலும் தெரிவித்துள்ளது.
+🟩
+
+The Ministry of Education has said that the provincial education authorities have been given the power to close schools from tomorrow (03) due to the prevailing floods and worse climate.
+
+The Ministry of Education further stated that the decision has been taken due to heavy rains, the rivers flowed down, the low -lying areas were flooded and the travel operations were interrupted.
 
 ◼️
 
 [Data](articles/5761e770.json)
+
+[Extended Data](ext_articles/5761e770.ext.json)
 
 ---
 
@@ -76,21 +100,29 @@ However, it has now been decided to close all government schools islandwide due 
 
 [Data](articles/63b9af07.json)
 
+[Extended Data](ext_articles/63b9af07.ext.json)
+
 ---
 
-### சிறுமி துஷ்பிரயோகம்: தப்பியோடியவருக்கு வலை
+### Women Abuse: Web to escape
 
 *2024-06-02 12:26:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறுமி-துஷ்பிரயோகம்-தப்பியோடியவருக்கு-வலை/175-338275) · `ta`
 
-சிறுமி ஒருவரை பாலியல் துஷ்பிரயோகத்துக்கு உட்படுத்தி அவரை படுகொலைச் செய்தார் என்றக் குற்றச்சாட்டில் கைது செய்யப்பட்டு, நீதிமன்ற உத்தரவின் பிரகாரம்  வவுனியா வைத்தியசாலையில் ​அனுமதிக்கப்பட்டிருந்த நிலையில், தப்பியோடிய சிறைச்சாலை கைதி ஒருவர் தொடர்பில் தலைமன்னார் பொலிஸார், பொதுமக்களிடம் உதவி கோரியுள்ளனர்.
+Talaimannar police seek public help to locate a fugitive prisoner accused of sexually abusing and killing a girl. The suspect, arrested on February 15, had previously faced charges for sexually assaulting a 9-year-old in the same area. Anyone with information is urged to call 0718591364 or 0718591370.
 
-இவர், தலைமன்னார் பொலிஸ் பிரிவுக்குட்பட்ட பகுதியில் 9 வயது சிறுமியை  பெப்ரவரி மாதம் 15ஆம் திகதி பாலியல் துஷ்பிரயோகம் செய்தார் என்ற குற்றச்சாட்டில் கைது  செய்யப்ட்டு மன்னார் நீதிமன்றில் ஆஜர்படுத்தப்பட்ட பின்னர் விளக்கமறியலில் வைக்கப்பட்டிருந்தார்.
+🟩
 
-புகைப்படத்தில் காணப்படும் இந்த நபர் தொடர்பில் தகவல்கள் கிடைத்தால் 0718591364 அல்லது 0718591370 ஆகிய இலக்கங்களுடன் தொடர்புகொண்டு அறிவிக்குமாறு கேட்டுக்கொண்டுள்ளனர்.
+The Talaimannar police have asked the public regarding a prisoner who fled the Vavuniya Hospital as he was arrested on charges of sexually abusing and murdering a girl.
+
+He was arrested after being produced before the Mannar Court on charges of sexually abusing a 9 -year -old girl in the Talaimannar police division on February 15.
+
+They have been asked to contact 0718591364 or 0718591370 if you get information regarding this person in the photo.
 
 ◼️
 
 [Data](articles/95e958a3.json)
+
+[Extended Data](ext_articles/95e958a3.ext.json)
 
 ---
 
@@ -103,6 +135,8 @@ The Provincial Education Secretaries and Directors have been authorised to make 
 ◼️
 
 [Data](articles/b2c975fc.json)
+
+[Extended Data](ext_articles/b2c975fc.ext.json)
 
 ---
 
@@ -153,6 +187,24 @@ The clash between Robert and fellow inmates in jail on the 19th of last month. M
 [Data](articles/b0869826.json)
 
 [Extended Data](ext_articles/b0869826.ext.json)
+
+---
+
+### 15 හැවැරිදි සිසුවිය ගණිත අංශයෙන් උපෙළ කරලා පුත්තමෙන් 16 තැනට
+
+*2024-06-02 12:02:31* · [`adalk`](https://www.ada.lk/breaking_news/15-හැවැරිදි-සිසුවිය-ගණිත-අංශයෙන්-උපෙළ-කරලා-පුත්තමෙන්-16-තැනට/11-409960) · `si`
+
+ආරච්චිකට්ටුව විජයකටුපත ප්‍රදේශයේ  දියණියක් වයස අවුරුදු 15දී ගණිත අංශයෙන් අධ්‍යාපන පොදු සහතික පත්‍ර උසස් පෙළට මුහුණ දී ඒ සමාරථ 3ක් ලබාගන පුත්තලම දිස්ත්‍රික්කයෙන් 16වන ස්ථානයට පත්වීමේ සිද්ධියක් ආරච්චිකට්ටුව විජය කටුපත් ප්‍ර දේශයෙන් වාරතා වේ.
+
+මෙසේ එම විශිෂ්ඨ ජයග්‍රහණය ලබාගන ඇත්තේ ආරච්චිකට්ටුව විජයකටුපත පදිංචි මංචනායක මුදියන්සේලාගේ අවීෂා නෙත්සරණි මංචනායක නැමති 15 හැවිරිදි දියණියකි.
+
+ඇයගේ පියා තාක්ෂණික නිළධාරියෙකු ලෙස පුද්ගලික ආයතනයක සේවය කර ඇති අතර ඔහු කුමාර මංචනායකයි. ඔහුගේ දයාබර බිරිඳ උදේනි ප්‍රියංගාට සහ ඔහුට සිටින ඒකම දරුවා අවීෂා නෙත්සරණි බව මව ආඩම්බරයෙන් පවසයි.
+
+තම ආදරණීය දියණියගේ කුඩාකාලය පිළිබඳව පියාණන් මෙසේ පැවසුවේය. දුවගේ මුල්ම පාසල හලා /ආර /විජය කටුපත මහා විදුහලයි. එයා පෙරපාසල් යන්න පටන් අරගෙන වැඩිකාලයක් ගියේ නෑ අවුරුදු 3දි විතර ඉදලම ස්කොලේ යන්න ආශාවෙන් අපිට ඇවිටිලි කළා. ඒත් පාසලට ඇතුලත් කර ගන්න නියම වයසක් තියනවානේ අපි අවුරුදු 6න් දුවව ගමේ පාසලට ඇතුලත් කළා.
+
+...
+
+[Data](articles/b330f42b.json)
 
 ---
 
@@ -243,6 +295,28 @@ Additionally, there is a possibility of a flood situation occurring in low-lying
 [Data](articles/55bf1698.json)
 
 [Extended Data](ext_articles/55bf1698.ext.json)
+
+---
+
+### Update: Heavy rainfall raises major flood concerns
+
+*2024-06-02 11:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Update-Heavy-rainfall-raises-major-flood-concerns/155-283899) · `en`
+
+01.10 PM - The National Building Research Organization (NBRO) today issued early warnings for landslides in the Colombo, Hambantota, Kalutara, Kandy Matara, Nuwara Eliya, Galle, Ratnapura and Kegalle districts.
+
+01.05 PM - The Education Ministry has announced tomorrow as a school holiday due to the prevailing heavy rainy weather.
+
+Further days of holding schools will be announced by the Education Ministry following announcements by the Meteorology Department.
+
+01.04 PM - The Department of Irrigation announced that the water level of the Kelani River has reached flood level in the Kelanimulla area.
+
+Accordingly, the general public residing in the area is advised to exercise caution, the department said.
+
+A potential major flood situation has been reported as heavy rainfall has been recorded across the majority of upstream and middle reach catchment areas within the Kelani, Nilwala and Gin river basins, the Department of Irrigation said.
+
+...
+
+[Data](articles/85e0c321.json)
 
 ---
 
@@ -2099,65 +2173,5 @@ The Welipenna Interchange of the Southern Expressway has been closed until furth
 [Data](articles/c8c1e1d1.json)
 
 [Extended Data](ext_articles/c8c1e1d1.ext.json)
-
----
-
-### 2024 Lok Sabha election campaigns Modi
-
-*2024-06-01 16:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/185045) · `ta`
-
-In the 2024 Lok Sabha elections, the Bharatiya Janata Party (BJP), led by Prime Minister Narendra Modi, faced unexpected challenges and criticism. Despite initial predictions of an easy win, the BJP engaged in aggressive tactics against opponents, including disabling Congress party bank accounts and arresting two chief ministers. The Election Commission's handling of the elections, especially regarding electronic voting machines, drew controversy and accusations of bias. Modi's campaign focused heavily on his leadership, with less emphasis on Hindu-Muslim politics until late in the game, where he addressed concerns directly. The Congress party responded with a focus on caste and class issues, criticizing the BJP's alleged favoritism towards wealthy capitalists. The unpredictable nature of the campaign highlighted the complexities and potential flaws in India's electoral system, raising concerns about democracy and fairness.
-
-🟩
-
-The Indian Lok Sabha elections are over and the results are being released.This time the general election campaigns were held. They were completely different for what we thought.
-
-Most people thought that winning this election was an easy task for the Bharatiya Janata Party and that Prime Minister Narendra Damodaradas would consider himself a small work ahead of his third coronation.. We thought that he would be proudly proudly proudly, ignoring the opposition parties and taking the achievements of his ten -year regime to the people.
-
-But most of us do not have campaigns as expected. The Bharatiya Janata Party (BJP) falsely lied to all expectations and carried out attacks against its enemies with self -esteem and behaved in a defensive style. Congress party bank accounts disabled. Two chief ministers in office were arrested and jailed. Non -Bharatiya Janata Party of India was afraid that they could be arrested in their homes.
-
-...
-
-[Data](articles/d0b83fb1.json)
-
-[Extended Data](ext_articles/d0b83fb1.ext.json)
-
----
-
-### When will Sri Lanka join the global value chain?
-
-*2024-06-01 16:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/185055) · `ta`
-
-Sri Lanka's entry into the global value chain, like Apple's iPhone production involving 43 countries, hinges on its ability to attract investment, develop skilled labor, and enhance infrastructure. The timeline depends on these factors' progress and international market opportunities.
-
-🟩
-
-It is reported that 43 countries are involved in producing an apple mobile phone in the current environment. If so, the products are globalized. All countries participate in production. The main question is when Sri Lanka will join the global value chain production structure.
-
-◼️
-
-[Data](articles/a691a439.json)
-
-[Extended Data](ext_articles/a691a439.ext.json)
-
----
-
-### The results of the results will be released September
-
-*2024-06-01 16:14:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சா-த-பெறுபேறு-செப்டம்பர்-வெளிவரும்/175-338234) · `ta`
-
-The GCE Ordinary Level Examination results for 2023 will be out by September. Commissioner Amit Jayasundara announced that 452,979 candidates took the exam, including 387,648 school students and 65,331 private candidates.
-
-🟩
-
-Commissioner of Examinations Amit Jayasundara said the GCE Ordinary Level Examination for 2023 will be released by September.
-
-He said that 452,979 candidates appeared for the exam this year, including 387,648 school examiners and 65,331 private applicants.
-
-◼️
-
-[Data](articles/1f9dcbb6.json)
-
-[Extended Data](ext_articles/1f9dcbb6.ext.json)
 
 ---

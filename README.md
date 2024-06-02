@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-02 16:19:55**
+As of **2024-06-02 16:34:23**
 
 ## Newspaper Stats
 
-*Scraped **27,875** Articles*
+*Scraped **27,876** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,31 +20,53 @@ adaderanalk | 3,171
 tamilmirrorlk | 3,271
 virakesarilk | 4,286
 dailymirrorlk | 4,418
-adaderanasinhalalk | 4,464
+adaderanasinhalalk | 4,465
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,873 (100.0%) of 27,875 articles have been extended.
+27,875 (100.0%) of 27,876 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-02 (Sunday)
 
-### අත්තනගලු ඔය ආශ්‍රිත පහත්බිම්වල ජනතාවට විශේෂ නිවේදනයක්
+### අධිවේගී මාර්ග පිවිසුමක් ජලයෙන් යටවෙයි
+
+*2024-06-02 16:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197289) · `si`
+
+අධිවේගී පිටත වටරවුම් මාර්ගයේ කඩුවෙල පිවිසුමේ බියගම මාර්ග පිවිසුම වසා දමා තිබේ.
+
+ඒ අනුව කඩුවෙල පිවිසුම භාවිත කර කඩවත දෙසට ගමන්කිරීමට හෝ කඩවත දෙස සිට පැමිණෙන රථවාහන කඩුවෙල පිවිසුම භාවිත කර පිටවීමට නොහැකි බව අප වාර්තාකරු සඳහන් කර සිටී.
+
+අධික වැසි තත්ත්වය සමග බියගම මාර්ගය ආශ්‍රිත පිවිසුම ජලයෙන් යටවීම හේතුවෙන් මෙම තීරණය ගෙන ඇත.
+
+◼️
+
+[Data](articles/3aa7a4db.json)
+
+---
+
+### A special announcement to the people in Attanagalu Oya
 
 *2024-06-02 16:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197288) · `si`
 
-අත්තනගලු ඔය ආශ්‍රිත පහත්බිම් සඳහා ඇම්බර් වර්ණයෙන් යුතු අනතුරු ඇඟවීමේ නිවේදනයක් නිකුත් කර තිබේ.
+Amber warns of flood risks in Divulapitiya, Mirigama, Attanagalla, Gampaha, Minuwangoda, Thola, and Wattala. Low-lying areas and travelers are advised to take precautions.
 
-එහි දැක්වෙන්නේ ඉදිරි පැය 48ක කාලය තුළ දිවුලපිටිය, මීරිගම, අත්තනගල්ල, මහර, ගම්පහ, මිනුවන්ගොඩ, ජාඇල, කටාන සහ වත්තල ප්‍රදේශවලට ගංවතුර තත්ත්වයක් ඇතිවීමේ අවදානමක් පවතින බවය.
+🟩
 
-ඒ අනුව එම පහත්බිම් හරහා වැටී ඇති ඇතැම් මාර්ග ජලයෙන් යටවීමේ අවදානමක් පැවතීම හේතුවෙන් එම ප්‍රදේශ ආශ්‍රිත මාර්ගවල ගමන්ගන්නා පුද්ගලයින් මේ සම්බන්ධයෙන් අවධානයෙන් ගමන්කළ යුතු වෙයි.
+Amber has issued a monmber warning announcement for the Attanagalu Oya.
+
+It states that there is a risk of floods in Divulapitiya, Mirigama, Attanagalla, Gampaha, Minuwangoda, Minuwangoda, Gampaha, Thola and Wattala.
+
+Accordingly, some of the risks of the lowlands of the lowland and the people traveling in the road should be noted.
 
 ◼️
 
 [Data](articles/03f542cc.json)
+
+[Extended Data](ext_articles/03f542cc.ext.json)
 
 ---
 
@@ -59,6 +81,8 @@ Police spokesman DIG Nihal Thalduwa said that therefore, the motorists are urged
 ◼️
 
 [Data](articles/027cc355.json)
+
+[Extended Data](ext_articles/027cc355.ext.json)
 
 ---
 
@@ -2173,29 +2197,5 @@ Following the formal customs inquiry, the gemstones were ordered confiscation an
 [Data](articles/714a3a41.json)
 
 [Extended Data](ext_articles/714a3a41.ext.json)
-
----
-
-### Businessman arrested with gem
-
-*2024-06-01 22:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197260) · `si`
-
-A businessman was arrested at Katunayake airport for attempting to smuggle gems worth 80 lakhs illegally. The arrest was made by the Customs Drug Administration Unit, which discovered the contraband in his luggage.
-
-🟩
-
-A businessman who attempted to take a stock of gems illegal has been arrested at the Katunayake airport.
-
-The value of the gem is about 80 lakhs.
-
-The suspect was arrested yesterday by a group of Customs Drug Administration Unit.
-
-The Customs Dark Control Unit had been found in the bag of the suspect's bag.
-
-◼️
-
-[Data](articles/b2b3d0bb.json)
-
-[Extended Data](ext_articles/b2b3d0bb.ext.json)
 
 ---

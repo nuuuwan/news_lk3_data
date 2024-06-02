@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-02 21:18:41**
+As of **2024-06-02 21:34:04**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,477
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,930 (100.0%) of 27,933 articles have been extended.
+27,933 (100.0%) of 27,933 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -296,7 +296,7 @@ The army has launched a special operation to provide medical care and drinking w
 
 Sri Lanka Police have established a Special Operations Room for the assistance of the people affected by the current inclement weather conditions and to coordinate relief measures, Police Media Spokesman DIG Nihal Thalduwa said.
 
-The general public can accordingly seek assistance and coordinate with other disaster relief groups by contacting the relevant Special Operations Room through hotline numbers 0112421820 or 0112421111.
+The general public can accordingly seek assistance and coordinate with other disaster relief groups by contacting the relevant Special Operations Room through the following hotline numbers:
 
 ◼️
 
@@ -328,21 +328,27 @@ Therefore, the consumers' cooperation and understanding are highly valuable for 
 
 ---
 
-### ආපදා මරණ 15ක් දක්වා ඉහළට
+### Disaster has risen to 15 deaths
 
 *2024-06-02 18:45:40* · [`adalk`](https://www.ada.lk/breaking_news/ආපදා-මරණ-15ක්-දක්වා-ඉහළට/11-409969) · `si`
 
-ස්වාභාවික ආපදා සක්‍රීය වීම හේතුවෙන් අද පෙරවරුව දක්වා  පසුගිය සති තුනකට ආසන්න කාලයක් තිස්සේ ඇතිවූ ආපදාවලින් දිවයිනේ පවුල් 3727 ක පුද්ගලයින් 11864 ක පිරිසක් පීඩාවට පත්වූ බව ආපදා කළමනාකරණ මධ්‍යස්ථානය පවසයි.
+In the past three weeks, disasters have affected 11,864 individuals from 3,727 families, causing 15 deaths and significant damage to 10,304 businesses and 544 homes. The Southern Province reports the highest number of affected families at 6,840. Disasters include floods, heavy winds, landslides, and soil collapses.
 
-මෙම ආපදාවලින් පුද්ගල මරණ 15 ක් තුවාල සිදුවූ පුද්ගලයන් 23 ක් පූර්ණ නිවාස හානි 17 ක් අර්ධ නිවාස හානි 3304  ක් ව්‍යාපාරික ස්ථාන හානිවීම්  54 ක් මෙන්ම ආරක්ෂිත ස්ථාන ගතකළ  පුද්ගලයන් 2611 ක් වශයෙන් වාර්තාවූ බව එම මධ්‍යස්ථානය කියයි.
+🟩
 
-පළාත් වශයෙන් වැඩිම ආපදා ප්‍රමාණයක් දකුණු පළාතෙන් වාර්තා වී තිබේ.එහි පවුල් 1982 ක පුද්ගලයන් 6840 ක් පීඩාවට පත්ව නිවාස හානි 3005 වාර්තාවූ බවද ආපදා කළමනාකරණ මධ්‍යස්ථානය සඳහන් කරයි.වැඩිම පිරිසක් අවතැන්ව ඇත්තේ සබරගමුව පළාතේ වන අතර එම සංඛ්‍යාව 2219 කි.
+The Disaster Management Center (DMC) says that 11864 persons from 3727 families have been affected by disasters for nearly three weeks due to the enabled disaster.
 
-ගංවතුර ,දැඩි සුළං ,නාය යෑම් ,ගස් සහ පස් කන්ඩි කඩා වැටීම්  ,තද වැසි ආදිය  හේතුවෙන් මේ ආපදා සිදුව ඇතැයි ආපදා කළමනාකරණ මධ්‍යස්ථානය මගින් අද  නිකුත් කළ වාර්තාවක සඳහන් කරයි.
+According to the Center, 17 deaths were reported to be 10304 business places, including 544 business places, including 15 major housing damages in these disasters.
+
+The Disaster Management Center states that the highest number of disasters in the Southern Province has been reported from the province of 6840 families.
+
+The Disaster Management Center (DMC) stated that these disasters have been reported due to floods, heavy winds, landslides, trees, trees and soil collapses.
 
 ◼️
 
 [Data](articles/8d646d0f.json)
+
+[Extended Data](ext_articles/8d646d0f.ext.json)
 
 ---
 
@@ -424,23 +430,29 @@ The bus has also seized the bus driver.
 
 ---
 
-### ප්‍රධාන ගංඟා පිටාර මට්ටමේ
+### Main river-out level
 
 *2024-06-02 18:37:03* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රධාන-ගංඟා-පිටාර-මට්ටමේ/11-409968) · `si`
 
-පවතින අයහපත් කාලගුණික තත්ත්වය හේතුවෙන් අද (2දා) වන විට කළු ,කැලණි, ගිං, නිල්වලා ගංගා හතර පිටාර ගලන මට්ටමක පැවතින බව ජල හා වාරිමාර්ග දෙපාර්තමේන්තුව සඳහන් කරයි. ගිං ගඟේ මට්ටම ඊයේ දහවල් 12 වනවිට තවලම ප්‍රදේශයෙන් මීටර 8.35ක් ලෙස වර්ධනයවී මහා ගංවතුර තත්ත්වයක් දක්වා පත්ව තිබේ. එහි ජල මට්ටම ද තවදුරටත් වැඩිවෙමින් පවතී.
+Due to adverse weather, several rivers including the Ging, Ku, Black Ganga, Nilwala, and Kelani have experienced rising water levels, leading to flooding in certain areas.
 
-කළු ගඟේ අතු ගංගාවක් වන කුඩා ගඟ ද මේ වනවිට මිල්ලකන්ද ප්‍රදේශයේ මීටර් 9.05ක් දක්වා වර්ධනයවී මහා ගංවතුර තත්ත්වයක් දක්වා වැඩිවෙමින් පවතී
+🟩
 
-කළු ගඟ පුටුපාවුල, ඇල්ලගාව, රත්නපුර, ප්‍රදේශවලින් සහ කළු ගඟේ අතු ගංගාවක් වන මගුරු ගඟ මගුර ප්‍රදේශයෙන් මේ වනවිට සුළු ගංවතුර තත්ත්වයක් දක්වා වර්ධනය වී තිබේ. එහි ජල මට්ටම ද තවදුරටත් වැඩිවෙමින් පවතී.
+The Department of Water and Irrigation states that when the existing adverse weather conditions today (2nd), the four rivers were exhausted today (2nd).. Ging River has grown to 8.35 meters from Thawalama by 12 pm yesterday.. Its water levels are also increasing.
 
-නිල්වලා ගඟ ද පිටබැද්දර ප්‍රදේශයෙන් මීටර් 6.84ක් දක්වා වර්ධනයවී මහා ගංවතුර තත්ත්වයක් දක්වා මතුවී ඇත.
+The Ku River, a tributary in the Kalu River, grows up to 9.05m from Milkanda area and has increased to 9.05 meters in Milkanda.
 
-කැලණි ගඟ නාගලගම්වීදිය අඩි 5.30, හංවැල්ල මීටර් 8.68 සහ ග්ලේන්කෝස් මීටර් 16.65 ලෙස ජල මට්ටම වර්ධනයවී එම ප්‍රදේශවලින් සුළු ගංවතුර තත්ත්වයක් දක්වා වර්ධනය වී ඇත.
+Black Ganga Puwatha, Ellagamuwa, Ratnapura, Area and Kalu River, has grown to a small flood from the coast of the Kalu River. Its water levels are also increasing.
+
+The Nilwala River grew to 6.84 meters from Pitabeddara area and has been flooded.
+
+Kelani Ganga Nagalagammi Velagalagami Velagalagami Velagalagami Velagalagami Velagagalagampedia has increased the water level and increased the water levels from 16.65 meters.
 
 ◼️
 
 [Data](articles/a6e76746.json)
+
+[Extended Data](ext_articles/a6e76746.ext.json)
 
 ---
 
@@ -462,17 +474,27 @@ A video of a private passenger bus being driven along the railway tracks paralle
 
 ---
 
-### රත්නපුර 4ක් මරුට
+### 4 killed in Ratnapura
 
 *2024-06-02 18:25:36* · [`adalk`](https://www.ada.lk/breaking_news/රත්නපුර-4ක්-මරුට/11-409967) · `si`
 
-රත්නපුර දිස්ත්‍රික්කයට ඊයේ (01) වනදා සවස් කාලයේ සිට  ඇදහැලෙන අධික වර්ෂාවත් සමඟ ඇතිවූ ගංවතුර ඇතුළු විවිධ ආපදා තත්ත්වයන් හේතුවෙන් අද (.02) දින  වනවිට රත්නපුර දිස්ත්‍රික්කයේ පවුල් 2575 ක, පුද්ගලයින් 9398 දෙනෙකු වෙත ආපදා තත්ත්වයන් බලපා ඇති බව රත්නපුර දිස්ත්‍රික් ලේකම් රත්නපුර ආපදා කළමනාකරණ කමිටුවේ සභාපති වසන්ත ගුණරත්න මහතා පැවසීය.
+Floods in Ratnapura's districts have affected 9398 people across 2575 families, causing four deaths and damaging 88 houses. Relief efforts are underway.
 
-මේ පිළිබඳ වැඩිදුරටත් කරුණු පැහැදිලි කළ රත්නපුර දිසාපති වසන්ත ගුණරත්න මහතා, මෙම ආපදා තත්ත්වය රත්නපුර දිස්ත්‍රික්කයේ ප්‍රාදේශීය ලේකම් කොට්ඨාස 08 ක් සඳහා බලපෑම් ඇති කරනු ලැබූවා. එම ප්‍රාදේශීය ලේකම් කොට්ඨාස නම් රත්නපුර, කුරුවිට, ඇලපාත, ඇහැලියගොඩ, නිවිතිගල, අයගම, කිරිඇල්ල හා පැල්මඩුල්ලයි.
+🟩
+
+Ratnapura District Secretary Ratnapura has affected 9398 people from 2575 families, including the floods, which have been caused by the Ratnapura district today (01).Chairman Wasantha Gunaratne said.
+
+The Ratnapura Government Agent Assistant has also enabled eight Divisional Secretariat Divisions in the Ratnapura District.. The Divisional Secretariat Division is Ratnapura, Kuruwita, Apatha, Eheliyagoda, Nivithigala, Ayagama, Kiriella and Pelmadulla.
+
+Four deaths have been reported in the Ratnapura district, a 21-year-old girl in Kiriella Division (a tree is a 11-year-old girl at the Eheliyagoda Division (heavy rain)The District Secretary stated that a man of the Ayagama Division has been reportedly reported as a male in the Ayagama Division (the landslides).
+
+There are 2219 members of 5 239 secured centers in the Ratnapura, Eheliyagoda and Kuruwita due to disasters.
 
 ...
 
 [Data](articles/bf9d6f36.json)
+
+[Extended Data](ext_articles/bf9d6f36.ext.json)
 
 ---
 

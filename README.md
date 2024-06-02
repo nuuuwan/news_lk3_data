@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-02 13:53:15**
+As of **2024-06-02 14:04:17**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,457
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,840 (100.0%) of 27,845 articles have been extended.
+27,845 (100.0%) of 27,845 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -44,29 +44,39 @@ Further days of holding schools will be announced by the Education Ministry foll
 
 [Data](articles/25773927.json)
 
+[Extended Data](ext_articles/25773927.ext.json)
+
 ---
 
-### කළු, නිල්වලා, ගිං, මහා ගංවතුර තත්ත්වයේ නවතම තොරතුරු මෙන්න
+### Here are the latest information in black, Nilwala, Gin, Great Flood
 
 *2024-06-02 13:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197281) · `si`
 
-ගිං ගඟ තවලම ප්‍රදේශයෙන් මහා ගංවතුර තත්ත්වයක් දක්වා වර්ධනය වී තිබේ.
+Flood warnings have been issued for several rivers including Gin, Kalu Ganga, Black River, and Nilwala due to rising water levels caused by heavy rainfall. The Gin River near Thalowama and the Kalu River have seen significant increases, while the Nilwala River has reached a large flood level from Pitabeddara. Additionally, the Kelani Ganga has experienced a small flood in the Hanwella and Glencos areas.
 
-අද දහවල් 12ට වාරිමාර්ග දෙපාර්තමේන්තුව නිකුත් කළ නිවේදනයේ දැක්වෙන්නේ තවලම ප්‍රදේශයෙන් ගිං ගඟේ ජල මට්ටම මීටර් 8.35ක අගයක් ගෙන ඇති බවය.
+🟩
 
-එම වාර්තාවේ වැඩිදුරටත් දැක්වෙන්නේ ගිං ගඟේ ජල මට්ටම ද තවදුරටත් වැඩිවෙමින් පවතින බවය.
+Ging Ganga has grown to a large flood from Thawalama area.
 
-එසේම ගිං ගඟේ ජල මට්ටම අද දහවල් 12 වනවිට බද්දේගම ප්‍රදේශයෙන් සුළු ගංවතුර තත්ත්වයක් දක්වා වර්ධනය වී ඇති අතර එහි ජල මට්ටම ද තවදුරටත් වැඩිවෙමින් පවතී.
+The Irrigation Department released from 12 noon this afternoon is the water level of the Gin River from Thalowama area.
 
-එසේම එම වාර්තාවට අනුව කළු ගඟේ අතු ගංගාවක් වන කුඩා ගඟ ද මේ වනවිට මහා ගංවතුර තත්ත්වයක් දක්වා වර්ධනය වී ඇති අතර එහි ජල මට්ටම තවදුරටත් වැඩිවෙමින් පවතී.
+The report further states that the water level of the Gin River is also increasing.
 
-එසේම කළු ගඟ පුටුපාවුල, ඇල්ලගාව, රත්නපුර, ප්‍රදේශවලින් සහ කළු ගඟේ අතු ගංගාවක් වන මගුරු ගඟ මගුර ප්‍රදේශයෙන් මේ වනවිට සුළු ගංවතුර තත්ත්වයක් දක්වා වර්ධනය වී ඇති අතර එහි ජල මට්ටම ද තවදුරටත් වැඩිවෙමින් පවතින බව එහි දැක්වෙයි.
+The water level of the Gin River has increased to a small flood from Baddegama by 12, and its water level is still increasing.
 
-එසේම නිල්වලා ගඟ ද පිටබැද්දර ප්‍රදේශයෙන් මහා ගංවතුර තත්ත්වයක් දක්වා වර්ධනය වී තිබේ.
+According to the report, the small river of the Kalu River Kalu River has also increased to a large flood and its water level is still increasing.
 
-...
+The Kalu Ganga, Eliyawa, Ratnapura, Region and Kalu Ganga, and the Black River, has increased to a small flood.
+
+The Nilwala River has also increased to a large flood from Pitabeddara.
+
+With heavy rain weather conditions, Kelani Ganga has grown to a small flood from the Hanwella and Glancos areas and the water level is further developed.
+
+◼️
 
 [Data](articles/e4570e74.json)
+
+[Extended Data](ext_articles/e4570e74.ext.json)
 
 ---
 
@@ -144,37 +154,49 @@ However, it has now been decided to close all government schools islandwide due 
 
 ---
 
-### හෙට දිනයේ සියලු පාසල් වැසේ
+### All schools will be closed tomorrow
 
 *2024-06-02 12:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197280) · `si`
 
-පවතින අයහපත් කාලගුණික තත්ත්වය හේතුවෙන් මෙම තීරණය ගත් බව අධ්‍යාපන අමාත්‍යාංශය පවසයි.
+Due to severe weather, all schools will close tomorrow. State Minister Aravinda Kumar confirmed this decision.
 
-අද දෙරණ කළ විමසීමකදී අධ්‍යාපන රාජ්‍ය අමාත්‍ය අරවින්ද කුමාර් මේ බව පැවසීය.
+🟩
+
+The decision was taken due to the inclement weather conditions that exist.
+
+When contacted, State Minister Aravinda Kumar said this when contacted inquiry made.
 
 ◼️
 
 [Data](articles/bae08d51.json)
 
+[Extended Data](ext_articles/bae08d51.ext.json)
+
 ---
 
-### බස් රථ දෙකක් ගැටී කොන්දොස්තර මරුට
+### Conduals killed in two buses
 
 *2024-06-02 12:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197279) · `si`
 
-පෞද්ගලික බස් රථයක් සහ ලංගම  බස් රථයක් එකිනෙක ගැටීමෙන් පානදුර බස් නැවතුම ආසන්නයේදී අද (02) උදෑසන අනතුරක් සිදුවී තිබේ.
+In a tragic accident at Panadura bus stand, a conductor from the SLTB bus died, while four passengers were injured after a collision between a private bus and an SLTB bus. The incident happened when the SLTB bus was turning towards Panadura. The private bus driver escaped, and police are investigating to find him.
 
-එම අනතුරෙන් ලංගම බස්රථයේ ගමන් කරමින් සිටි කොන්දොස්තරවරයෙකු මියගොස් ඇති අතර තවත් සිව්දෙනෙකු තුවාල ලබා රෝහල්ගතකර ඇත.
+🟩
 
-මෙලෙස මියගොස් ඇත්තේ පානදුර ඩිපෝවට අනුයුක්තව සේවය කරන කොන්දොස්තරවරයෙකු බවට අනාවරණය වී තිබේ.
+A private bus and a SLTB bus collided with an accident in Panadura bus stand today (02).
 
-ලංගම බස් රථය පානදුර බස්නැවතුම්පොළ දෙසට හැරවීමට යාමේදී කොළඹ සිට පානදුර දක්වා ධාවනය වූ පෞද්ගලික බස් රථයක ගැටීමෙන් අනතුර සිදුව තිබුණි.
+A conductor who was traveling on the SLTB bus was killed and four others were injured and taken injured.
 
-අනතුර සිදුවීමත් සමග පෞද්ගලික බස් රථයේ රියදුරු එම ස්ථානයෙන් පළාගොස් ඇති අතර ඔහුව අත්අඩංගුවට ගැනීම සඳහා පොලීසිය විමර්ශන ආරම්භ කර තිබේ.
+The deceased has been identified as a conductor attached to the Panadura depot.
+
+The accident had occurred when the SLTB bus was to turn the Panadura bus stabbed to Panadura.
+
+The driver of the private bus had fled the area with the accident and the police have commenced investigations to arrest him.
 
 ◼️
 
 [Data](articles/f2401409.json)
+
+[Extended Data](ext_articles/f2401409.ext.json)
 
 ---
 
@@ -214,17 +236,23 @@ The Provincial Education Secretaries and Directors have been authorised to make 
 
 ---
 
-### පාසල් පැවැත්වීම ගැන රජයෙන් දැනුම්දීමක්
+### Government notification for conducting schools
 
 *2024-06-02 12:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197278) · `si`
 
-හෙට (03) දිනයේ දිවයින පුරා පාසල් පැවැත්වීම පිළිබඳව තීරණ ගැනීම බලය පළාත් අධ්‍යාපන අධ්‍යක්ෂවරුන් සහ ලේකම්වරුන් වෙත පවරා තිබේ.
+School closures due to bad weather: The decision rests with the Provincial Director of Education and Secretaries. Minister Aravinda Kumar announced this, citing adverse weather conditions.
 
-අධ්‍යාපන රාජ්‍ය අමාත්‍ය අරවින්ද් කුමාර් සඳහන් කළේ පවතින අයහපත් කාලගුණික තත්ත්වය සමග මෙම තීරණය ගත් බවය.
+🟩
+
+Decision of schools across the country is vested with the Provincial Director of Education and Secretaries.
+
+Minister of Education Aravinda, Kumar stated that this decision was taken with the inclement weather conditions.
 
 ◼️
 
 [Data](articles/32c10376.json)
+
+[Extended Data](ext_articles/32c10376.ext.json)
 
 ---
 

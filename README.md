@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-02 07:00:18**
+As of **2024-06-02 07:24:59**
 
 ## Newspaper Stats
 
-*Scraped **27,775** Articles*
+*Scraped **27,782** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 249
 dbsjeyarajcom | 268
 bbccomsinhala | 273
 newsfirstlk | 363
-islandlk | 1,500
+islandlk | 1,507
 economynextcom | 1,585
 dailyftlk | 1,635
 adalk | 2,365
@@ -26,61 +26,79 @@ adaderanasinhalalk | 4,441
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,772 (100.0%) of 27,775 articles have been extended.
+27,775 (100.0%) of 27,782 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-02 (Sunday)
 
-### ප්‍රදේශ කිහිපයකට මි.මී 150 ඉක්මවු වැසි
+### Showers over 150mm
 
 *2024-06-02 06:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197264) · `si`
 
-දිවයිනේ නිරිත දිග කොටසේ පවතින වැසි තත්ත්වය අද (02) දිනයේත් බලාපොරොත්තු විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Heavy rainfall exceeding 150mm is forecasted for the Western, Sabaragamuwa, Central, and Southern provinces of the island today, with potential for thunderstorms. The Meteorological Department advises caution against wind and lightning risks, urging the public to prepare accordingly.
 
-එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, බස්නාහිර, සබරගමුව, මධ්‍යම සහ දකුණු පළාත්වල විටින් විට වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බවය.
+🟩
 
-බස්නාහිර සහ සබරගමුව පළාත්වලත්, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල මි.මී. 150ට වැඩි ඉතා තද වැසි ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+The Meteorological Department says that the rainy section of the island is also expected today (02).
 
-දිවයිනේ සෙසු ප්‍රදේශවල සවස් කාලයේ හෝ රාත්‍රී කාලයේ තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවේ.
+Showers or thundershowers will occur at times in the Western, Sabaragamuwa, Central and Southern provinces.
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+In some places in the Western and Sabaragamuwa Province, Galle and Matara districts. The Department of Meteorology announces heavy showers more than 150.
+
+Showers or thundershowers will occur at the evening or night in the rest of the island.
+
+The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
 
 ◼️
 
 [Data](articles/3de7f73b.json)
 
+[Extended Data](ext_articles/3de7f73b.ext.json)
+
 ---
 
-### කාසියේ වාසිය අමෙරිකාවට
+### America to advantage of the coin
 
 *2024-06-02 05:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197263) · `si`
 
-20යි 20 ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ පළමු තරගය අමෙරිකාව සහ කැනඩාව අතර අද (02) පැවැත්වෙයි.
+In the World Cup, America chose to bat first in the inaugural match, giving Canada the opportunity to field first.
 
-ඒ අනුව ඔවුන් තීරණය කළේ පළමුවෙන් පන්දුවට පහරදීමේ අවස්ථාව කැනඩාවට ලබාදීමටය.
+🟩
+
+The first match of the World Cup will be held today (2).
+
+Accordingly, they decided to give Canada to the chance of batting first.
 
 ◼️
 
 [Data](articles/a8126972.json)
 
+[Extended Data](ext_articles/a8126972.ext.json)
+
 ---
 
-### இரு சிறுமிகள் சடலங்களாக மீட்பு
+### Recovery as bodies of two girls
 
 *2024-06-02 00:28:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரு-சிறுமிகள்-சடலங்களாக-மீட்பு/175-338255) · `ta`
 
-யாழ்ப்பாணம், ஊர்காவற்றுறை பொலிஸ் பிரிவுக்குட்பட்ட சின்னமடு பகுதியில் வீதிக்கு அருகேயுள்ள சிறிய நீர்நிலை ஒன்றில் இருந்து இரண்டு சிறுமிகளின் சடலங்கள் மீட்கப்பட்டுள்ளன.
+Two young girls, 11-year-old Nirosan Vidusa and 5-year-old Niranjan Anushka, were found dead near a small body of water off the road to Chinnamadu in the Jaffna and Kayts police division. Their families discovered their bodies after searching for them when they didn't return from a trip to the shop. A bicycle was also found at the scene. Investigations are ongoing by the Kayts police.
 
-11 வயதுடைய நிரோசன் விதுசா, 5 வயதுடைய நிரஞ்சன் அனுஷ்கா என்பவர்களே நேற்று இரவு 8 மணியளவில் சடலங்களாக மீட்கப்பட்டுள்ளனர்.
+🟩
 
-இந்நிலையில், கடைக்குச் சென்ற சிறுமிகளைக் காணவில்லை எனத் தேடிய உறவினர்கள், வீதிக்கு அருகேயுள்ள சிறிய நீர்நிலையில் அவர்களது சடலங்கள் காணப்பட்டதை அவதானித்தனர். அவர்கள் பயணித்த சைக்கிளும் அங்கு காணப்பட்டது.
+The bodies of two girls have been recovered from a small water level near the road to Chinnamadu area in the Jaffna and Kayts police division.
 
-இந்தச் சம்பவம் தொடர்பில் மேலதிக விசாரணைகளை ஊர்காவற்றுறைப் பொலிஸார் மேற்கொண்டு வருகின்றனர். (a)
+11 -year -old Nirosan Vidusa and 5 -year -old Niranjan Anushka were recovered at 8 pm last night.
+
+In this case, relatives searched for the girls who went to the shop and observed their bodies in a small water near the street.. The bicycle they traveled was found there.
+
+Kayts police are conducting further investigations into the incident. (A)
 
 ◼️
 
 [Data](articles/25e2be5a.json)
+
+[Extended Data](ext_articles/25e2be5a.ext.json)
 
 ---
 
@@ -272,6 +290,22 @@ The Customs Dark Control Unit had been found in the bag of the suspect's bag.
 
 ---
 
+### Quo Vadis?
+
+*2024-06-01 21:47:00* · [`islandlk`](http://island.lk/quo-vadis/) · `en`
+
+This has been the most rainy and squally Vesak that I can recall in my eight decades on this planet and it has made me grumpy. The depression in the Bay of Bengal has prepared all of for the couch of some psycho-quack conning folks with fictious talk of depressions.
+
+This essay is in two separate parts unconnected with each other; a) Feeding the 225 and b) people taking the initiative into their hands and not relying on the state.
+
+Jesus fed 5,000 with two fishes and five loaves (Mathew 14:13-21) and you may reckon that to be a great achievement but he did it only once. Our people in Sri Lanka have to keep feeding the 225 day-in-day-out every day of their lives. And where does it all go? Into political pockets! Import permits for luxury cars, insurance cover for wives, mistresses and sons and of course plain rip-off.
+
+...
+
+[Data](articles/e1b6a692.json)
+
+---
+
 ### World Bank, IMF deepen effort to scale up climate action
 
 *2024-06-01 21:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/99584/world-bank-imf-deepen-effort-to-scale-up-climate-action) · `en`
@@ -311,6 +345,18 @@ Meanwhile, Ananda - Nalanda Zlorica was held at the Nalanda Cricket team at the 
 [Data](articles/c6152742.json)
 
 [Extended Data](ext_articles/c6152742.ext.json)
+
+---
+
+### Old Bottles, Spent Wine
+
+*2024-06-01 21:21:00* · [`islandlk`](http://island.lk/old-bottles-spent-wine/) · `en`
+
+With elections coming up in a few months’ time – notwithstanding Palitha Range Bandara’s outrageous remarks, to which Saliya Pieris, the former President of the Bar Association, responded thoughtfully – new coalitions and alliances are cropping up. These have pulled together the unlikeliest MPs and ideologues, who you’d never put together in the same room but who have, in the aftermath of the 2022 crisis, have unified around certain issues. Outside of the government, the consensus seems to be that we have yet to see a proper Opposition. This is the selling promise of these new coalitions: they tout themselves as that proper Opposition, the only political groups that matter.
+
+...
+
+[Data](articles/16cf1021.json)
 
 ---
 
@@ -588,6 +634,20 @@ The state minister also explained that in order to meet the demands of the trade
 
 ---
 
+### Sir Aldo Castellani (1877-1971), a great medical scientist
+
+*2024-06-01 17:58:00* · [`islandlk`](http://island.lk/sir-aldo-castellani-1877-1971-a-great-medical-scientist/) · `en`
+
+The Twentieth Century Impressions of Ceylon, that massive volume of Ceylonians published in 1910, records that the man who came to be known as Marchese Sir Aldo Castellani, KCMG, was born on the September 8, 1874, or just a 100 years ago (as this is being written). But who, a reader of the younger generation may well inquire, was this man, and why should we take note of this centenary of his birth? Well, he was a versatile character who had a distinguished career in Ceylon for 12 years as a physician and medical scientist. Thereafter in a long life, he continued to hit the headlines in many foreign fields.
+
+Castellani’s name appeared in such reference books as “Who’s Who”, the “International Who’s Who” and the “Authors and Artists Who’s Who”, but in each case with a different year of birth. I am inclined to accept the date of birth given in “Twentieth Century Impressions of Ceylon” because the information would have been furnished when he was a comparatively young man.
+
+...
+
+[Data](articles/7b65ee67.json)
+
+---
+
 ### Those who don’t like development call Elon Musk an economic hitman: Manusha
 
 *2024-06-01 17:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Those-who-dont-like-development-call-Elon-Musk-an-economic-hitman-Manusha/108-283886) · `en`
@@ -651,6 +711,34 @@ Therefore, there are many houses in the city of Padukka have been flooded.
 [Data](articles/b42321d6.json)
 
 [Extended Data](ext_articles/b42321d6.ext.json)
+
+---
+
+### Adolescent guilt at a Catholic school
+
+*2024-06-01 17:29:00* · [`islandlk`](http://island.lk/adolescent-guilt-at-a-catholic-school/) · `en`
+
+I joined St Anthony’s College at Wattala when I was seven years-old. It was a private college run by the La Salle Christian Brothers. The cover page of my ‘Report Card’ said that the College leads young boys in the Christian faith, helping them to become god-fearing, diligent, honest, and good citizens.
+
+Each school day started with a standard set of prayers. A 90-minute catechism class followed morning prayers. After that, students learned other subjects. At the beginning of each study period, students got up, acknowledged that they were in God’s presence, and prayed for his help. Each study period ended with a prayer of gratitude. A day at the College ended at 3.15pm with another standard prayer, which took about 10 minutes.
+
+...
+
+[Data](articles/ad161b9a.json)
+
+---
+
+### Lunch at work during my time
+
+*2024-06-01 17:28:00* · [`islandlk`](http://island.lk/lunch-at-work-during-my-time/) · `en`
+
+Lunch time for working people in Sri Lanka differ in various places and offices. Those bringing lunch from home sit together in the canteen or an alotted lunch room while others lunch at their own desks. Those lunching in office travel to work from far so that they cannot go home for their meal and return within the stipulated hour.
+
+During our schooldays, schools used to start at 8.00 am and go on till 3.00 pm with an hour long lunch interval. The day scholars who travelled from far brought their lunch from home. They used to eat either in the tuck shop or in a separate room allotted for the purpose. Those living close to the school went home for lunch and returned in time for classes. The hostelers would go to the boarding for lunch and return for the afternoon session.
+
+...
+
+[Data](articles/1ace6af7.json)
 
 ---
 
@@ -742,6 +830,18 @@ They said motorists are advised to use the Kurundugahahetekma Toll Booth and Dod
 
 ---
 
+### The Chay root
+
+*2024-06-01 16:41:00* · [`islandlk`](http://island.lk/the-chay-root/) · `en`
+
+The whole of this island [Mannar] is low ground, exhibiting a mixture of shells and sand…the soil being hardly susceptible of any sort of culture and the water generally impregnated with salt… In the most wild and uncultivated part of the sandy tracts the best chaya root is produced.
+
+...
+
+[Data](articles/540871d7.json)
+
+---
+
 ### Apple iPhone is now an obsolete product
 
 *2024-06-01 16:38:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Apple-iPhone-is-now-an-obsolete-product/108-283885) · `en`
@@ -779,6 +879,24 @@ It is said that there will be heavy showers at more than 100 millimeters in the 
 [Data](articles/4570e0ef.json)
 
 [Extended Data](ext_articles/4570e0ef.ext.json)
+
+---
+
+### Hope, wisdom and cynicism: Voices from rural Sri Lanka
+
+*2024-06-01 16:22:00* · [`islandlk`](http://island.lk/hope-wisdom-and-cynicism-voices-from-rural-sri-lanka/) · `en`
+
+The lakes, paddy fields and forests of the ancient village of Dutuwewa are a world away from Colombo’s high-rises and colonial buildings. As elsewhere, decisions taken by ‘old men’ in the corridors of power impact life here, just as these rural voters will impact politics nationally
+
+Times are tough and it’s hard to make ends meet. A refrain heard from just about anyone in my home country Pakistan where the rupee has dropped to around 300 to the dollar. This is now comparable to the rupee in Sri Lanka, recovering from the biggest economic crash in its history.
+
+Stories of hardship echo from the island nation’s largest city Colombo to the farming heartlands around Anuradhapura district, a little over 200 km to the north-east. At the core of Anuradhapura lies the irrigation tank called Dutuwewa which sustains several villages.
+
+Sri Lanka’s rural landscape is dotted with as many as 14,000 such large and small irrigation lakes, known as wewas, built by kings thousands of years ago.
+
+...
+
+[Data](articles/aac22a80.json)
 
 ---
 
@@ -2183,157 +2301,5 @@ The Nuwara Eliya police said that the suspect is being produced at the Nuwara El
 [Data](articles/3c61eef3.json)
 
 [Extended Data](ext_articles/3c61eef3.ext.json)
-
----
-
-### TNA issue adjournment
-
-*2024-06-01 08:55:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/தமிழரசு-கட்சி-விவகாரம்-வழக்கு-ஒத்திவைப்பு/75-338228) · `ta`
-
-The Trincomalee District Court has issued a directive regarding the election of new executives for the Sri Lanka Tamil National Party (TNA). A case filed on May 31st ended with a compromise agreement between the opposing parties and the prosecutor, resolving the dispute.
-
-🟩
-
-The Trincomalee District Court has already issued a directive issued by the Trincomalee District Court against the election of new executives of the Sri Lanka Tamil National Party (TNA).
-
-In the case of the case on May 31, the case was filed between the opponents and the prosecutor, which was agreed to end the case with a compromised bilateral agreement, but for all the opponents and the prosecutor's agreement.
-
-◼️
-
-[Data](articles/43471594.json)
-
-[Extended Data](ext_articles/43471594.ext.json)
-
----
-
-### A/L Gallery Published
-
-*2024-06-01 08:54:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/A-L-பெறுபேறுகள்-இடைநிறுத்தியமை-இனப்-பாகுபாட்டின்-வெளிப்பாடு/75-338227) · `ta`
-
-Imran Makarub, a United People's Power Trincomalee District Parliamentarian, accuses the suspension of Trincomalee-Zahira College student results as ethnic discrimination. He argues the suspension, due to alleged exam misconduct, is suspicious and linked to intolerance towards Zahira College's growth. Makarub calls for Muslim political leaders to address this "social issue" as part of broader anti-Muslim activities in the Eastern Province.
-
-🟩
-
-United People's Power Trincomalee District Parliamentarian Imran Makarub says the suspension of the results of the Trincomalee - Zahira College students is an expression of ethnic discrimination.
-
-“The suspension was based on the accusation that they closed their ears in the exam hall.
-
-Writing the examination of the examination should be noticed in the exam hall. It is not a matter of affecting other examiners.
-
-It is immensely suspicious that the results have been suspended even after all sides have made it clear to all sides.
-
-It is very clear that this is the manifestation of the ethnic discrimination of those who cannot tolerate the development of Zahira College.
-
-This can be understood by the mood of the exam supervisor who brought this issue to be resolved in the exam hall.
-
-It is not healthy that we speak the same language. Those who are concerned about the sad state of today's sad state of children and children must understand.
-
-...
-
-[Data](articles/208bc614.json)
-
-[Extended Data](ext_articles/208bc614.ext.json)
-
----
-
-### Knives in Germany - 6 injured
-
-*2024-06-01 08:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197231) · `si`
-
-In Southwest Germany, a rally turned violent when an Afghan-born, 25-year-old man attacked attendees, including a police officer, injuring seven. The suspect was later shot and killed by another officer.
-
-🟩
-
-A police officer and six others were injured in a police officer in Southwest Germany, Southwest.
-
-According to foreign reports, one of the injured was Michael Sterrg, a rally, a rally of the square.
-
-The event is aimed at a person a person with a man, and thereafter attacked a police officer who went to help later.
-
-At that time, the attacker was shot dead by another police officer.
-
-It is said that the attack is said to be born in Afghanistan and a 25-year-old youth living in Germany.
-
-◼️
-
-[Data](articles/e5af3bf2.json)
-
-[Extended Data](ext_articles/e5af3bf2.ext.json)
-
----
-
-### Industry stakeholders up in arms against moves to scrap ‘Happy Hour’
-
-*2024-06-01 08:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Industry-stakeholders-up-in-arms-against-moves-to-scrap-Happy-Hour/155-283829) · `en`
-
-Industry stakeholders including hoteliers, tourism authorities and even law enforcement agencies have shown their utter dismay over an abrupt decision taken by the National Authority on Alcohol and Tobacco (NATA) to scrap the ‘Happy Hour’ in hotels, which was termed as an ‘absurd’ move to discourage already ailing tourism sector and consumers.
-
-A letter circulating on social media addressed to the Chairman of a leading five-star hotel in Colombo by the NATA states that the latter is issuing a directive to all hotels to refrain from granting any discounts on the purchase of alcohol products during their ‘Happy Hour’.
-
-The letter dated on May 28th and undersigned by the Chairman NATA Dr. Alan Ludowyke had directed the hoteliers to comply with the NATA Act No.27 of 2006 (as amended). The letter has been copied to Commissioner General of Excise M. J. Gunasiri and a senior Excise official who is the Board Director to NATA from the Excise Department.
-
-...
-
-[Data](articles/2942534d.json)
-
-[Extended Data](ext_articles/2942534d.ext.json)
-
----
-
-### State Minister should be resolved in a middle path - State Minister Suren
-
-*2024-06-01 07:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197230) · `si`
-
-The Public Minister of the State Ministry, addressing the ongoing 28-day strike by university non-academic staff, expressed regret over the situation, highlighting its impact on the economy, amounting to a daily loss of 150 million. He emphasized the importance of finding a middle ground through discussions with trade union leaders, aiming for a resolution soon.
-
-🟩
-
-According to the Public Minister of the State Minister of Dr. Surean, the public minister said.
-
-He stated that the government is looking to provide the best solution in this regard.
-
-"University non-academic staff have a 28-day strike. This is an unfortunate strike. Poor citizens of losses. The direct loss is 150 million a day. The government does not need to extend this to this way. The trade unions, this does not have to take this way. We discuss this issue, how this will solve this. I discussed with two trade union leaders on the phone. Monday discusses. If my hope must we must be resolved with this in the middle of this. "
-
-◼️
-
-[Data](articles/9dd30f4a.json)
-
-[Extended Data](ext_articles/9dd30f4a.ext.json)
-
----
-
-### England all-rounder Woakes taking time out from cricket after father’s death
-
-*2024-06-01 07:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/England-all-rounder-Woakes-taking-time-out-from-cricket-after-fathers-death/108-283872) · `en`
-
-London - England all-rounder Chris Woakes revealed Friday he was mourning the death of his father as he explained his recent absence from cricket.
-
-The 35-year-old did not feature for the Punjab Kings in the Indian Premier League and, at the end of April was left out of reigning champions England's squad for the upcoming T20 World Cup.
-
-Warwickshire favourite Woakes, in a social media post, wrote: "The last month has been the most challenging of my life when unfortunately my dad passed away at the beginning of May.
-
-"I've spent the last few weeks with the people most important to me, my family. We're all obviously grieving and trying to get through what is undoubtedly the hardest moment in our lives. It's times like this that perspective is at its greatest."
-
-Woakes, who helped England win the 2019 50-over World Cup, added: "I will be back playing cricket for Warwickshire, who my dad loved dearly, when the time is right for me and my family.
-
-...
-
-[Data](articles/7e886251.json)
-
-[Extended Data](ext_articles/7e886251.ext.json)
-
----
-
-### Politics Of Paranoia
-
-*2024-06-01 07:26:17* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/politics-of-paranoia/) · `en`
-
-The rise of NPP from the ashes of Aragalaya and led by a new generation of JVP leadership, which has distanced itself from that party’s insurrectionary past, and NPP’s tireless campaign to convince the voting public that Sri Lanka’s economic malaise is not an isolated phenomenon, but part of an overall systemic paralysis that had been sapping for decades the vitality of a once peaceful and prosperous nation, and that it cannot be rectified unless there is a radical transformation of its political culture, economic management and socio-cultural ethnonationalism has created an atmosphere of political paranoia amongst the old guards who are now driven to a state of panic looking for a way out to avoid confronting the NPP at the ballot box. It is that paranoia and panic which has provoked the General Secretary of UNP to call for the postponement of elections for two years.  Although that call has drawn criticisms from several corners it did not come out of a vacuum.
-
-...
-
-[Data](articles/931acbbe.json)
-
-[Extended Data](ext_articles/931acbbe.ext.json)
 
 ---

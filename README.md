@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-02 11:53:48**
+As of **2024-06-02 12:06:22**
 
 ## Newspaper Stats
 
-*Scraped **27,821** Articles*
+*Scraped **27,825** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,11 +13,11 @@ dbsjeyarajcom | 269
 bbccomsinhala | 274
 newsfirstlk | 363
 islandlk | 1,507
-economynextcom | 1,585
+economynextcom | 1,587
 dailyftlk | 1,635
 adalk | 2,369
-adaderanalk | 3,162
-tamilmirrorlk | 3,259
+adaderanalk | 3,163
+tamilmirrorlk | 3,260
 virakesarilk | 4,286
 dailymirrorlk | 4,408
 adaderanasinhalalk | 4,451
@@ -26,27 +26,51 @@ adaderanasinhalalk | 4,451
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,818 (100.0%) of 27,821 articles have been extended.
+27,821 (100.0%) of 27,825 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-02 (Sunday)
 
-### ජාතික පාසල්වලට ළමුන් ඇතුළු කිරීම ගැන නිවේදනයක්
+### Accepting applications for admission of students to national schools ends tomorrow
+
+*2024-06-02 11:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/99591/accepting-applications-for-admission-of-students-to-national-schools-ends-tomorrow) · `en`
+
+The acceptance of applications for the admission of students into the intermediate grades of national schools will conclude tomorrow (June 02), the Ministry of Education says.
+
+Accordingly, the ministry has advised that no applications should be sent to schools or the Education Ministry after this deadline.
+
+Applications for admission to intermediate grades of national schools for the year 2024 were allowed by the Ministry of Education.
+
+The admission process will be carried out by holding interviews through school principals as per the circular issued in this regard. Subsequently, the schools will forward the relevant name lists of qualified students to the ministry for approval, according to the Education Ministry.
+
+◼️
+
+[Data](articles/6d092734.json)
+
+---
+
+### Announcement inserted into national schools
 
 *2024-06-02 11:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197275) · `si`
 
-‍ජාතික පාසල්වල අතරමැදි ශ්‍රේණි සඳහා 2024 වර්ෂයට අදාළ අයදුම්පත් හෙට (02) දිනෙන් පසු බාර නොගන්නා බව අධ්‍යාපන අමාත්‍යංශය පවසයි.
+Deadline extended: Applications for the 2024 Intermediate series in national schools must be submitted today. Principals are being interviewed for approval based on vacancy rates.
 
-ඒ අනුව අදාළ අයදුම්පත් අධ්‍යාපන අමාත්‍යංශයට හෝ පාසල්වලට හෙට දිනෙන් පසු යොමු කිරිමෙන් වළකින ලෙස අධ්‍යාපන අමාත්‍යංශය දැනුම් දෙයි.
+🟩
 
-ජාතික පාසල්වලට 2024 වර්ෂයේ අතරමැදි ශ්‍රේණි සඳහා සිසුන් ඇතුළත් කිරිමට අදාළ අයදුම්පත් පාසල් වෙත යොමු කිරිමට මීට පෙර අවස්ථාව සලසා දී තිබුණි.
+Applications related to the Intermediate series of national schools will not be handed over to 2024 after tomorrow (02).
 
-පුරප්පාඩු පවතින පාසල්වල අතරමැදි ශ්‍රේණි සදහා වු අයදුම්පත්වලට අනුව  චක්‍රලේඛ ප්‍රකාරව අදාළ විදුහල්පතිවරුන් සම්මුඛ පරික්ෂණ පවත්වා  තෝරාගත් සිසුන්ගේ නාම ලේඛනය අනුමැතිය සඳහා අධ්‍යාපන අමාත්‍යාංශයට යොමුකිරිමට නියමිය.
+Accordingly, the Ministry of Education is informed to prevent applications to the Ministry of Education or schools tomorrow.
+
+The applications had been given the previous opportunity to refer to the applications to the schools for the inclusion of the students in 2024.
+
+According to the intermediate grades of vacancies, the relevant principals in terms of the intermediary grades of vacancies have been interviewed by the Ministry of Education for approval.
 
 ◼️
 
 [Data](articles/4b409b1e.json)
+
+[Extended Data](ext_articles/4b409b1e.ext.json)
 
 ---
 
@@ -64,21 +88,51 @@ The aircraft remained grounded at Mattala as the operating crew had exceeded the
 
 [Data](articles/d72f4f10.json)
 
+[Extended Data](ext_articles/d72f4f10.ext.json)
+
 ---
 
-### මහා ගංවතුර තත්ත්වයක්
+### Great flooding
 
 *2024-06-02 11:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197274) · `si`
 
-කළු ගඟේ කුඩා ගඟ ද්‍රෝණියෙහි මිල්ලකන්ද ප්‍රදේශයට මිලිමීටර් 149.8ක වර්ෂාවක් ලැබීමත් සමඟ අද පෙරවරු 9 වනවිට මහා ගංවතුර තත්ත්වයකට පත්ව ඇතැයි වාරිමාර්ග දෙපාර්තමේන්තුව පවසයි.
+Heavy rainfall caused significant flooding in Sri Lanka, affecting areas like Milkanda along the Kalu River and the Pitabeddara region of the N. Nilwala River. Major roads and around 300 houses near the Black River were also inundated.
 
-ඒ අනුව කළු ගඟ පිටාර ගැලීමෙන් බුලත්සිංහල - කළුතර මාර්ගය ඇතුළු ප්‍රධාන මාර්ග කිහිපයක් සහ නිවාස 300ක් පමණ ජලයෙන් යටවී ඇතැයි අප වාර්තාකරු පැවසීය.
+🟩
 
-මේ අතර නිල්වලා ගඟෙහි සියලු ජලමාපක ද සාමාන්‍ය ජල මට්ටම ඉක්මවා ගොස් ඇති අතර එහි පිටබැද්දර ප්‍රදේශය මහා ගංවතුර මට්ටමකට පත්ව තිබේ.
+The Irrigation Department says that the Ki Ranga's 149.8 millimeters in the Milkanda area of ​​the Kalu River has been reported in the Milkanda area.
+
+According to our correspondent, several major roads including the Bulathsinhala-Kalutara road and about 300 houses were flooded by the Black River.
+
+Meanwhile, all hydrologicals in the N. Nilwala River have exceeded the general water and its Pitabeddara area has been flooded.
 
 ◼️
 
 [Data](articles/e48448b3.json)
+
+[Extended Data](ext_articles/e48448b3.ext.json)
+
+---
+
+### சேமக்காலையில் பெண் தீக்கிரை ; இளைஞன் கைது
+
+*2024-06-02 11:13:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/சேமக்காலையில்-பெண்-தீக்கிரை-இளைஞன்-கைது/71-338264) · `ta`
+
+சேமக்காலைக்கு பெண்ணொருவரை அழைத்து சென்ற இளைஞன் , பெண் மீது பெற்றோல் ஊற்றி எரித்து படுகொலை செய்துள்ள சம்பவம் சனிக்கிழமை (01) இடம்பெற்றுள்ளது .
+
+சாவகச்சேரி - மட்டுவில் பகுதியை சேர்ந்த 45 வயதுடைய இரத்தினவடிவேல் பவானி எனும் பெண்ணே இவ்வாறு கொலை செய்யப்பட்டுள்ளார் .
+
+யாழ்ப்பாணம் கொஞ்சேஞ்சிமாதா சேமக்காலைக்கு குறித்த பெண்ணை மோட்டார் சைக்கிளில் அழைத்து சென்ற இளைஞன் , பெண்ணுடன் கல்லறை ஒன்றின் மீது அமர்ந்து பேசிக்கொண்டு இருந்துள்ளனர் .
+
+திடீரென இருவருக்கும் இடையில் வாய்த்தர்க்கம் ஏற்பட்ட போது , இளைஞன் மறைத்து வைத்திருந்த பெற்றோல் போத்தலை எடுத்து பெண்ணின் மீது ஊற்றி தீ வைத்துள்ளார்.
+
+அதனை அவதானித்த அயலவர்கள் ஓடி சென்று தீயினை அனைத்து , பெண்ணை நோயாளர் காவு வண்டி மூலம் யாழ்.போதனா வைத்தியசாலைக்கு அனுப்பி வைத்த்துள்ளனர் .
+
+சம்பவம் தொடர்பில் விசாரணைகளை முன்னெடுத்த பொலிஸார் சந்தேக நபரை கைது செய்து பொலிஸ் நிலையத்தில் தடுத்து வைத்து விசாரணைகளை முன்னெடுத்துள்ளனர்.
+
+◼️
+
+[Data](articles/91f81917.json)
 
 ---
 
@@ -109,6 +163,10 @@ Discussions during the audience centered on the enduring relations between the t
 *2024-06-02 11:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/99590/major-flood-situation-in-millakanda-and-pitabeddara) · `en`
 
 Major flood situations have been reported in Millakanda area of Kalu River and Pitabeddara area of Nilwala River, the Department of Irrigation said.
+
+The department stated that several main roads Bulathsinhala – Kalutara road remain inundated as a result of the situation.
+
+The situation was caused by the torrential rainfall of 149.8mm received by the Millakanda area of Kuda Ganga basin of the Kalu River, according to the Irrigation Department.
 
 ◼️
 
@@ -207,6 +265,30 @@ Police say the murder had been carried out with a dispute with a resident of a r
 [Data](articles/32b8d5bf.json)
 
 [Extended Data](ext_articles/32b8d5bf.ext.json)
+
+---
+
+### Sri Lanka balance of payments surplus US$1.3bn by April 2024
+
+*2024-06-02 10:04:00* · [`economynextcom`](https://economynext.com/sri-lanka-balance-of-payments-surplus-us1-3bn-by-april-2024-165783/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s current dollar earnings from merchandise exports, remittances, tourism and other services exceeded imports by 542 million US dollars in April 2024, official data shows.
+
+Sri Lanka’s hard goods exports were 877.6 million US dollars in April, up from 848.6 million US dollars a year ago, in a holiday month which usually has a 20 percent downturn.
+
+Remittances were 543.8 million US dollars, up from 454 million last year.
+
+Tourism income was estimated at 225.7 million US dollars for April, which is from a survey and may not be as reliable as import export data from customs or remittances data from banks.
+
+Gross services which include tourism was 558 million US dollars.
+
+Foreign exchange earned by Sri Lankans from exports, remittances and gross services were 1,977 million US dollars in April 2024.
+
+Merchandise imports were only 1,435 million US dollars, leaving a surplus of 542 million dollars.
+
+...
+
+[Data](articles/9dd24d20.json)
 
 ---
 
@@ -2109,103 +2191,5 @@ However, he was subsequently arrested last night (May 31) based on information r
 [Data](articles/d5c4b06e.json)
 
 [Extended Data](ext_articles/d5c4b06e.ext.json)
-
----
-
-### Two 13-year-old students steal Rs
-
-*2024-06-01 15:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197246) · `si`
-
-Two 13-year-old girls were arrested for allegedly stealing Rs. 12,000. They spent the money on a mobile phone, cricket gear, and birds. The theft was reported missing, leading to their arrest.
-
-🟩
-
-Two-year-old schoolgirls were taken into custody in connection with the suspection of stealing Rs.
-
-Acting OIC of the Watawala Police Inspector Nuwan Madusukha said that the two students were taken into custody today.
-
-The two suspects were opened in another house near their homes on the 28th.
-
-The suspects have been purchased by a mobile phone, cricket bind and ball, eight pigeons, and eight pigeons tanks.
-
-The suspects revealed theft after a complaint lodged with a complaint lodged with a complaint lodged in the Warewala Police regarding the misplace of the money.
-
-The two students were in possession of Rs. 12,000 and the two students were friends.
-
-Meanwhile, they have gone to a mobile phone outlet in Hatton and bought a phone from the money made.
-
-The owner of the telephone marketing has been sold to a mobile phone of Rs.
-
-The two school children have been arrested by the Hatton, a resident of Hatton who sold the mobile phone call for heavy price.
-
-...
-
-[Data](articles/be34c9cd.json)
-
-[Extended Data](ext_articles/be34c9cd.ext.json)
-
----
-
-### Michelle Obama's mother Marian Robinson has passed away
-
-*2024-06-01 15:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/185043) · `ta`
-
-Marian Robinson, mother of former First Lady Michelle Obama, has passed away at 86. Known for her dedication to her family, she leaves behind a legacy of love and strength. Barack Obama remembered her as "the glue" that held their family together, emphasizing her impact on their upbringing. The family is deeply saddened by her loss but cherishes the memories and lessons she imparted.
-
-🟩
-
-Marian Robinson, the mother of Michelle Obama, the first woman in the United States, passed away at the age of 86.
-
-Michelle Obama's report on her mother's death news
-
-“He was committed to our entire family. We are heartbroken in sharing that he has died today. ”
-
-Barack Obama mentioned that there was only one Marian Robinson on the death of his wife's mother.
-
-"We have been raised by the gift of her wonderful life,". “We will try to live the rest of our life as her role model.
-
-He was one of the seven -year -old family in Chicago, USA.
-
-Worked as a teacher before working as secretary. She lives with her husband Brassier Robinson in the south of Chicago with Michelle and her other child Craig.
-
-◼️
-
-[Data](articles/ca2df885.json)
-
-[Extended Data](ext_articles/ca2df885.ext.json)
-
----
-
-### Tims and three-wheelers cannot reduce
-
-*2024-06-01 15:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197245) · `si`
-
-Ceylon Petroleum Corporation and Lanka IOC have reduced fuel prices as of midnight on January 31. Octane 92 petrol now costs Rs. 355 per liter, down from Rs. 368, while white diesel is Rs. 317 less at Rs. 1,634 per liter. Kerosene is priced at Rs. 202, a decrease of Rs. 13. However, prices for 95 petrol and diesel remain unchanged. The reduction does not affect private bus fares or the operations of the Lanka Three-Wheeler Association, citing service continuity despite lower fuel costs.
-
-🟩
-
-The Ceylon Petroleum Corporation reduced the prices of several fuel from midnight yesterday (31).
-
-Lanka IOC has revised its prices and the company has been amended by the company.
-
-Accordingly, the price of a liter of octan 92 petrol has been reduced by 13 rupees and its price is Rs. 355.
-
-The price of a liter of white diesel was reduced by Rs. 317.
-
-Kerosene has dropped to Rs 13 rupees and its price is Rs. 202.
-
-The Petroleum Corporation said that the 95 petrol and Sri Lanka's prices would not change.
-
-However, the price of a litto diesel selling a Sinaperic, however, lasts a liter of nipetco and IOC fuel.
-
-Private buses point out that the fuel prices are downloaded but no availability of bus fares.
-
-The Lanka Three-wheeler Association says that reduced fuel prices will not be reduced due to the lack of services.
-
-◼️
-
-[Data](articles/71cc0722.json)
-
-[Extended Data](ext_articles/71cc0722.ext.json)
 
 ---

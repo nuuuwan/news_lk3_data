@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-03 00:18:49**
+As of **2024-06-03 00:34:12**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,482
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,956 (100.0%) of 27,959 articles have been extended.
+27,959 (100.0%) of 27,959 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ Earlier, the visitors managed 136/8, with Sese Bau scoring 50. Alzarri Joseph an
 ◼️
 
 [Data](articles/f7a99039.json)
+
+[Extended Data](ext_articles/f7a99039.ext.json)
 
 ---
 
@@ -378,6 +380,8 @@ A controversy has also blown up between Sri Lanka and Maldives after VFS Global 
 
 [Data](articles/cba8852d.json)
 
+[Extended Data](ext_articles/cba8852d.ext.json)
+
 ---
 
 ### President
@@ -557,6 +561,8 @@ The monastery conducts English classes and Vietnamese classes for children and a
 ...
 
 [Data](articles/dc8b4bab.json)
+
+[Extended Data](ext_articles/dc8b4bab.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-02 22:05:31**
+As of **2024-06-02 22:18:56**
 
 ## Newspaper Stats
 
-*Scraped **27,938** Articles*
+*Scraped **27,940** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,33 +16,79 @@ islandlk | 1,507
 economynextcom | 1,587
 dailyftlk | 1,635
 adalk | 2,385
-adaderanalk | 3,177
+adaderanalk | 3,178
 tamilmirrorlk | 3,276
 virakesarilk | 4,302
 dailymirrorlk | 4,431
-adaderanasinhalalk | 4,478
+adaderanasinhalalk | 4,479
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,933 (100.0%) of 27,938 articles have been extended.
+27,938 (100.0%) of 27,940 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-02 (Sunday)
 
-### ප්‍රධාන මාර්ගයක් වසා දමයි
+### ජනපති සියලු පක්ෂවලින් කළ ඉල්ලීම
+
+*2024-06-02 22:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197303) · `si`
+
+මෙරට ආර්ථික අර්බුදය විසඳීමට පවතින එකම විසඳුම සේ සළකා යෝජිත ආර්ථික පරිවර්තන පනත් කෙටුම්පතට සහාය දෙන්නැයි ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සියලු පක්ෂවලින් ඉල්ලීමක් කරයි.
+
+ඔහු මේ බව සඳහන් කළේ එක්සත් ජාතික පක්ෂ මූලස්ථානයේ අද (02) පැවති උත්සවයකට එක්වෙමිනි.
+
+"පරණ ටෙලිෆෝන් මේ යුගයට වැඩක් නැහැ. කරකවන කාලේ ඉවරයි දැන් ඔබන කාලේ තියෙන්නේ. ගෝඨාභය කිව්වා සජිත්ට අගමැතිකම ගන්න කියලා. මොකක්ද කළේ? ජනපති ප්‍රේමදාස හිටියානම් ඕක අත්හරිනවද? ජේ.ආර්.ජයවර්ධන හිටියානම් ඕක අත්හරිනවද? ඒකයි යූඑන්පී හැටි. ජවිපෙ පැනලා ගියා.  විසඳුමක් තිබුණේ නැහැ.මම භාරගත්තේ විසඳුමක් තියෙන නිසා. අලුත් අවුරුද්ද කොහොමද? වෙසක් කොහොමද?
+
+දැන් පොසොන් අනුරාධපුරයේ හාල් තියෙනවා. අපි තාම මේකෙන් ගොඩඇවිත් නැහැ. එක පක්ෂයක්වත් වැඩපිළි‍වෙළක් ඉදිරිපත් කර නැහැ. ඉදිරිපත් කරන්න බැහැ. රට ගොඩගන්න ඇතිකරගත් එකඟතාව අපි පාර්ලිමේන්තුවට දානවා. ආර්ථික පරිවර්තන නීතිය.  සමහරු IMF සමඟ යළි කතාකරනවා කියනවා. කඩේ ගිහින් ණය ඉල්ලනවා වගේ ඒවා කරන්න බැහැ. ආර්ථික පරිවර්තන නීතියට සැවොම ඡන්දය දෙන්න."
+
+◼️
+
+[Data](articles/23712204.json)
+
+---
+
+### Iran’s ex-President Ahmadinejad to run again: state TV
+
+*2024-06-02 22:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/99606/irans-ex-president-ahmadinejad-to-run-again-state-tv) · `en`
+
+(Reuters) - Iran’s hardline former President Mahmoud Ahmadinejad has registered to run for president in the country’s June 28 election, organized after the death of Ebrahim Raisi in a helicopter crash last month, Iran’s state television reported on Sunday.
+
+However he could be barred from the race: the country’s cleric-led Guardian Council will vet candidates, and publish the list of qualified ones on June 11.
+
+Ahmadinejad, a former member of Iran’s elite Revolutionary Guards, was first elected as Iran’s president in 2005 and stepped down because of term limits in 2013.
+
+He was barred from standing in the 2017 election by the Guardian Council, a year after Supreme Leader Ayatollah Ali Khamenei warned him that entering was “not in his interest and that of the country”.
+
+A rift developed between the two after Ahmadinejad explicitly advocated checks on Khamenei’s ultimate authority.
+
+In 2018, in rare criticism directed at Khamenei, Ahmadinejad wrote to him calling for “free” elections.
+
+...
+
+[Data](articles/5a1a6ea4.json)
+
+---
+
+### Closes a main road
 
 *2024-06-02 21:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197302) · `si`
 
-පැලවත්ත නෙළුව ප්‍රධාන මාර්ගය නායයාමේ අවදානමක් හේතුවෙන් තාවකාලිකව වසා දමා තිබේ.
+Pelawatta's main road is temporarily closed due to landslide risk. Drivers are advised to take alternative routes.
 
-මේ හේතුවෙන් එම මාර්ගය භාවිත කරන රියදුරන්ට හැකිතාක් විකල්ප මාර්ග භාවිත කරන ලෙස පොලීසිය ඉල්ලා සිටී.
+🟩
+
+The main road in Pelawatta has been temporarily closed due to landslide risk.
+
+As a result, the police call for the drivers using the road to use alternative routes as much as possible.
 
 ◼️
 
 [Data](articles/fd9aad25.json)
+
+[Extended Data](ext_articles/fd9aad25.ext.json)
 
 ---
 
@@ -62,35 +108,49 @@ Dissanayake said the people, especially the youth took to the streets for common
 
 [Data](articles/8b7f7029.json)
 
+[Extended Data](ext_articles/8b7f7029.ext.json)
+
 ---
 
-### ஜனாதிபதி அதிரடி உத்தரவு
+### President
 
 *2024-06-02 21:02:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-அதிரடி-உத்தரவு/175-338310) · `ta`
 
-சீரற்ற காலநிலையினால் பாதிக்கப்பட்டவர்களுக்கு உடனடி உதவிகளை வழங்குமாறு ஜனாதிபதி ரணில் விக்ரமசிங்க நிதி அமைச்சின் செயலாளருக்கு பணிப்புரை விடுத்துள்ளார்.
+President Ranil Wickremesinghe has ordered the Finance Ministry to aid weather disaster victims by allocating funds to District Secretaries.
 
-அதன்படி மாவட்ட செயலாளர்களுக்கு நிதியை உடனடியாக ஒதுக்குமாறும் நிதி அமைச்சின் செயலாளருக்கு ஜனாதிபதி பணிப்புரை விடுத்துள்ளதாக ஜனாதிபதி ஊடகப் பிரிவு தெரிவித்துள்ளது. R
+🟩
+
+President Ranil Wickremesinghe has directed the Secretary of the Ministry of Finance to provide immediate assistance to the victims of inclement weather.
+
+According to the Presidential Media Unit, the President has issued a directive to the Secretary of the Ministry of Finance to allocate funds to the District Secretaries.. Remble
 
 ◼️
 
 [Data](articles/3be9a7c5.json)
 
+[Extended Data](ext_articles/3be9a7c5.ext.json)
+
 ---
 
-### அடுத்த 24 மணிநேரத்திற்கு சிவப்பு எச்சரிக்கை
+### Red alert for the next 24 hours
 
 *2024-06-02 20:59:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அடுத்த-24-மணிநேரத்திற்கு-சிவப்பு-எச்சரிக்கை/175-338309) · `ta`
 
-அடுத்த 24 மணிநேரத்திற்கு செல்லுபடியாகும் வகையில், நாட்டின் தென்மேற்குப் பகுதியில் தொடர்ந்தும் மழை பெய்யும் என எதிர்பார்க்கப்படுவதாக வளிமண்டலவியல் திணைக்களம் சிவப்பு அறிவித்தல் விடுத்துள்ளது.
+A red alert is issued for the southwestern region of the country, lasting 24 hours due to heavy rains forecasted in the Western, Sabaragamuwa, Northwestern provinces, and Galle and Matara districts. Residents are advised to prepare for potential hazards from heavy winds, lightning, thunder, and rainfall.
 
-மேல், சப்ரகமுவ மற்றும் வடமேற்கு மாகாணங்களிலும், காலி மற்றும் மாத்தறை மாவட்டங்களிலும் சில இடங்களில் 150 மி.மீ.க்கு மேல் பலத்த மழை பெய்யக்கூடும் என தெரிவிக்கப்பட்டுள்ளது.
+🟩
 
-இடி, மழையுடன் கூடிய பலத்த காற்று மற்றும் மின்னல் தாக்கங்களினால் ஏற்படக்கூடிய ஆபத்துக்களை குறைப்பதற்கு தேவையான நடவடிக்கைகளை எடுக்குமாறு மக்கள் கேட்டுக்கொள்ளப்பட்டனர். R
+The Department of Meteorology has announced a red that it is expected to continue in the southwestern part of the country for the next 24 hours.
+
+Heavy rains are expected in some places in the Western, Sabaragamuwa and Northwestern provinces and Galle and Matara districts.
+
+People were asked to take necessary steps to reduce the dangers of heavy winds and lightning impacts with thunder and rainfall. Remble
 
 ◼️
 
 [Data](articles/0072c3f8.json)
+
+[Extended Data](ext_articles/0072c3f8.ext.json)
 
 ---
 
@@ -388,19 +448,25 @@ Therefore, the consumers' cooperation and understanding are highly valuable for 
 
 ---
 
-### පොලිස් අණ නොතකා ධාවනය කළ යතුරු පැදිකරුවෙකුට වෙඩි
+### Shots a motorcyclist who did not ignore police orders
 
 *2024-06-02 18:51:26* · [`adalk`](https://www.ada.lk/breaking_news/පොලිස්-අණ-නොතකා-ධාවනය-කළ-යතුරු-පැදිකරුවෙකුට-වෙඩි/11-409970) · `si`
 
-තංගල්ල  කොට්ටාශයේ පොලිස්  ක්ෂණික  විහිදුම්  බලකායේ නිළධාරින් කණ්ඩායමක්  විසින් පසුගිය 01 දා සවස සූරියවැව  හත්පහ හංදියේ සිදුකළ  සෝදිසි  මොහොයුමක් අතර    අණ නෙතකා  ධාවනය කරනු ලැබූ සැක සහිත  යතුරු පැදි කරුවෙකුට  හඹාගොස් වෙඩි තැබීමට පොලිසිය කටයුතුකර තිබේ.
+Tangalle Police arrested a motorcyclist suspected of suspicious activity. The man claimed he was injured, with a foot like a wire, and sought treatment at Sooriyawewa and Hambantota hospitals. Despite this, he allegedly ignored police orders, leading to his arrest.
 
-කෙසේ නමුත් අදාළ යතුරු පැදිකරු එම ස්ථානයෙන් පලාගොස් තම පාදයේ කම්බියක් ඇනුණු බව පවසමින් සූරියවැව රෝහලේ  ප්‍රතිකාර ගැනීමට නැවතී ඇති අතර පසුව රාත්‍රියේදී වැඩි දුර ප්‍රතිකාර ගැනීමට හම්බන්තොට මහ රෝහලට යන බව පවසමින් සිය කැමැත්තෙන් රෝහලෙන් පිටව  නිවසට ගොස් තිබේ.
+🟩
 
-පසුව 02දා  අලුයම තම මව සමඟ සූරියවැව පොලිසිය වෙත පැමිනීමෙන් පසු පොලිසිය විසින් අදාල සැකකරු අත්අඩංගුවට ගෙන පොලිස් අණ නොතකා ධාවනය කිරීම, ආරක්ෂක හිස් වැසුම් නොමැතිව ධාවනය කිරීම,අධික ශබිදය සහිත සයිලන්සර භාවිතය යන චෝදනා යටතේ හම්බන්තොට මහේස්ත්‍රාත් අධිකරණයට ඉදිරිපත්කිරිමෙන් අනතුරුව රුපියල් ලක්ෂ 05ක ශරීර ඇප මත නිදහස් කර තිබේ.
+A team of Tangalle Police Static Corps (Police Static Corps) officials of the Tangalle Police Station was a suspect alerted to a suspicious motorcycle.
+
+However, the motorcyclist had been staying at the Sooriyawewa Hospital, claiming that his foot was a wire and was later go to the Hambantota hospital.
+
+The suspect was arrested by the police under the arrest of police orders and operating the police orders, running to the Suriyawewa Police on the morning of the morning of the morning and running police brands.Has been done.
 
 ◼️
 
 [Data](articles/7972dac4.json)
+
+[Extended Data](ext_articles/7972dac4.ext.json)
 
 ---
 
@@ -2025,55 +2091,5 @@ The clash between Robert and fellow inmates in jail on the 19th of last month. M
 [Data](articles/b0869826.json)
 
 [Extended Data](ext_articles/b0869826.ext.json)
-
----
-
-### 49 killing and killing women
-
-*2024-06-02 12:03:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/49-பெண்களை-கொன்று-பன்றிகளுக்கு-இரையாக்கியவர்-அடித்துக்கொலை/50-338273) · `ta`
-
-Between 1990 and 2000, Vancouver saw a series of murders where 49 women were killed by Robert Bigton, a pig farmer from Port Cocwidlam. Bigton was accused of smuggling weapons and cutting up his victims' bodies to feed his pigs. His crimes shocked the nation, leading to a life sentence in 2006. Recently, he clashed with fellow inmates, resulting in his death.
-
-🟩
-
-In the period 1990-2000, many young women were killed. The police have registered a case and are investigating.The incident took place in Vancouver, Canada.
-
-In this case, the police complained that Robert Bigton (71 years old), who had a pig farm in the Port Cocwidlam area, had illegally smuggled weapons.
-
-When a woman's body was cut in a bridges in her home when he went to investigate the matter. Subsequently, the police arrested him and investigated. It was then revealed that she had cut down 49 women and then cut off their bodies, cut them into pieces and fell prey to pigs on their farm.. The incident rocked the country.
-
-In 2006, he was sentenced to life imprisonment. He was subsequently jailed in Vancouver.
-
-The clash between Robert and fellow inmates in jail on the 19th of last month. Many prisoners then attacked him. He was subsequently admitted to the hospital for treatment. But he died without treatment.
-
-◼️
-
-[Data](articles/b3b8c03f.json)
-
-[Extended Data](ext_articles/b3b8c03f.ext.json)
-
----
-
-### 15 In the math seat, the student was born in the Mathematics 16
-
-*2024-06-02 12:02:31* · [`adalk`](https://www.ada.lk/breaking_news/15-හැවැරිදි-සිසුවිය-ගණිත-අංශයෙන්-උපෙළ-කරලා-පුත්තමෙන්-16-තැනට/11-409960) · `si`
-
-Avisha Nethshi Nathisara, a 15-year-old from the Jaffna district, excelled academically despite challenges. Born in Arachchikattuwa, she demonstrated exceptional talent early on, skipping several grades. Her family moved to Gampaha due to job needs, where she continued to excel, scoring over 90 in each subject. Despite facing difficulties during the COVID-19 pandemic, Avisha managed to pass her Ordinary Level exams with flying colors. Her mother, Usyni Priyganika, emphasized Avisha's self-motivation and reliance on online resources for her studies. Avisha attributes her success to her strong belief in herself, dedication to learning, and the support of her parents, who she considers her best teachers.
-
-🟩
-
-A daughter in the Jaffna Vijayawa, a daughter of the Jaffna district, is in caste in the area of ​​the Arachchikattuwa.
-
-The Superintendent of Mudana Mudiyanselage Avisha Nethshi Nathisara has been a 15-year-old resident of the Arachchikatta.
-
-Her father has served as a Technical Officer and he is at Kumara Manchname. His dear wife proudly says that the child is Avisha Nethshisy.
-
-The Father said: "The father of his beloved daughter. Daughter's earliest school Hala / A / Vijaya Katupitiya Great College. He did not start to go to the prepahasal and did not go to the 3 years, eagerly to go to Square. But there is a real age to the school, we were included in the village of the village of 6 years.
-
-...
-
-[Data](articles/b330f42b.json)
-
-[Extended Data](ext_articles/b330f42b.ext.json)
 
 ---

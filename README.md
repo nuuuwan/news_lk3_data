@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-02 12:06:22**
+As of **2024-06-02 12:18:55**
 
 ## Newspaper Stats
 
-*Scraped **27,825** Articles*
+*Scraped **27,829** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,38 @@ economynextcom | 1,587
 dailyftlk | 1,635
 adalk | 2,369
 adaderanalk | 3,163
-tamilmirrorlk | 3,260
+tamilmirrorlk | 3,262
 virakesarilk | 4,286
-dailymirrorlk | 4,408
-adaderanasinhalalk | 4,451
+dailymirrorlk | 4,409
+adaderanasinhalalk | 4,452
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,821 (100.0%) of 27,825 articles have been extended.
+27,825 (100.0%) of 27,829 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-02 (Sunday)
+
+### 49 பெண்களை  பன்றிகளுக்கு இரையாக்கியவர்  அடித்துக்கொலை
+
+*2024-06-02 12:03:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/49-பெண்களை-பன்றிகளுக்கு-இரையாக்கியவர்-அடித்துக்கொலை/50-338273) · `ta`
+
+1990-2000 காலகட்டத்தில் தொடர்ச்சியாக இளம்பெண்கள் பலர்   கொல்லப்பட்டனர். இதுகுறித்து பொலிஸார் வழக்குப்பதிவு செய்து விசாரணை நடத்தி வந்தனர்.  இந்த சம்பவம் கனடாவின் வான்கூவர் நகரிலேயே இடம்பெற்றுள்ளது.
+
+இந்நிலையில் போர்ட் கோக்விட்லாம் பகுதியில் பன்றி பண்ணை நடத்திய ராபர்ட் பிக்டன் (வயது 71) சட்ட விரோதமாக ஆயுதங்களை பதுக்கி வைத்திருந்ததாக பொலிஸூக்கு புகார்கள் சென்றன.
+
+இது குறித்து விசாரணை நடத்துவதற்காக சென்றபோது அவரது வீட்டில் உள்ள பிரிட்ஜில் ஒரு பெண்ணின் உடல் துண்டு, துண்டாக வெட்டி வைக்கப்பட்டு இருந்தது. இதனையடுத்து பொலிஸார் அவரை கைது செய்து விசாரணை நடத்தினர். அப்போது 49 பெண்களை அவர் வெட்டிக்கொன்றதும், பின்னர் அவர்களது உடலை துண்டு, துண்டாக வெட்டி தனது பண்ணையில் உள்ள பன்றிகளுக்கு இரையாக போட்டதும் தெரிய வந்துள்ளது. இந்த சம்பவம் நாட்டையே உலுக்கியது.
+
+இதுதொடர்பான வழக்கில் கடந்த 2006-ம் ஆண்டு நீதிமன்றம் அவருக்கு ஆயுள் தண்டனை வழங்கியது. இதனையடுத்து அவர் வான்கூவரில் உள்ள சிறையில் அடைக்கப்பட்டார்.
+
+...
+
+[Data](articles/b0869826.json)
+
+---
 
 ### Accepting applications for admission of students to national schools ends tomorrow
 
@@ -47,6 +65,62 @@ The admission process will be carried out by holding interviews through school p
 ◼️
 
 [Data](articles/6d092734.json)
+
+[Extended Data](ext_articles/6d092734.ext.json)
+
+---
+
+### ඇහැළියගොඩ ට වාර්තාගත වර්ෂාපතනයක්
+
+*2024-06-02 11:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197276) · `si`
+
+ගෙවී ගිය පැය 24ක කාලය තුළ වැඩිම වර්ෂාපතනය වාර්තා වී ඇත්තේ, ඇහැළියගොඩ ප්‍රදේශයෙනි.
+
+ඇහැළියගොඩ ප්‍රදේශට ඇදහැලී ඇති වර්ෂාපතනය මි.මී 427.5ක් බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+
+එමෙන්ම හල්වතුර වත්ත (ඉංගිරිය) ප්‍රදේශයට මි.මී 348.5 වර්ෂාපතනයක් ලැබී ඇති අතර අකුරැස්ස ප්‍රදේශයට ලැබී ඇති වර්ෂාපතනය මි.මී. 283.5කි.
+
+මේ අතර බස්නාහිර සහ සබරගමුව පළාත්වලත්, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල මි.මී 150 වැඩි ඉතා තද වැසි ඇති විය හැකි බව කාගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+
+◼️
+
+[Data](articles/9065e7f4.json)
+
+---
+
+### ஜீவனின் மெய்பாதுகாவலர்கள் ஆயுதங்களை ஒப்படைத்து மீளப் பெற்றனர்
+
+*2024-06-02 11:51:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஜீவனின்-மெய்பாதுகாவலர்கள்-ஆயுதங்களை-ஒப்படைத்து-மீளப்-பெற்றனர்/76-338271) · `ta`
+
+இலங்கை தொழிலாளர் காங்கிரஸின் பொதுச் செயலாளரும், நீர் வழங்கல் மற்றும் தோட்ட உட்கட்டமைப்பு அமைச்சருமான ஜீவன் தொண்டமானின் பாதுகாப்பிற்கு நியமிக்கப்பட்டிருந்த மூன்று பொலிஸ் உத்தியோகத்தர்கள் தமது துப்பாக்கிகளை தலவாக்கலை பொலிஸாரிடம் ஒப்படைத்துவிட்டு சில மணித்தியாலங்களின் பின்னர் மீளப்பெற்றுக்கொண்டனர் எனபொலிஸார் தெரிவித்தனர்.
+
+கடந்த சில தினங்களுக்கு முன்னர் அமைச்சர் ஜீவன் தொண்டமான் அக்கட்சியின் ஆதரவாளர்களை அழைத்துக்கொண்டு நுவரெலியா பொலிஸ் நிலையத்துக்குச் சென்று நியாயம் கேட்டார்..
+
+அமைச்சரின் பாதுகாப்பு பிரிவினரின் துப்பாக்கிகளை கைப்பற்றுமாறு தலவாக்கலை பொலிஸாருக்கு பொலிஸாருக்கு தொலைபேசி செய்தியும் கிடைத்துள்ளது.
+
+அத்துடன், பொலிஸாரிடம் ஒப்படைக்கப்பட்ட துப்பாக்கிகளை அதே அதிகாரிகளிடம் ஒப்படைக்குமாறு தலவாக்கலை பொலிஸாருக்கு சில மணித்தியாலங்களின் பின்னர்  கிடைத்த தொலைபேசி செய்தியின் அடிப்படையில் அமைச்சரின் பாதுகாப்பு பிரிவு அதிகாரிகளிடம் துப்பாக்கிகள் கையளிக்கப்பட்டன.
+
+...
+
+[Data](articles/f0036cfa.json)
+
+---
+
+### Heavy rainfall raises major flood concerns in Kelani, Nilwala and Gin River basins
+
+*2024-06-02 11:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Heavy-rainfall-raises-major-flood-concerns-in-Kelani-Nilwala-and-Gin-River-basins/108-283899) · `en`
+
+Colombo, June 2 (Daily Mirror) - A potential major flood situation has been reported as heavy rainfall has been recorded across the majority of upstream and middle reach catchment areas within the Kelani, Nilwala and Gin river basins, the Department of Irrigation said.
+
+The department warned that there is a possibility of occurring a major flood situation in lowline areas of Kuda Ganga and Maguru Ganga valleys situated in Bulathsinhala, Madurawala and Palinda Nuwara D/S Divisions.
+
+Areas including Dehiovita, Ruwanwella, Seethawaka, Dompe, Homagama, Kaduwela, Biyagama, Kolonnawa, and Wattala D/S Divisions of the Kalu River are at risk of experiencing flood situations.
+
+Additionally, there is a possibility of a flood situation occurring in low-lying areas of the Gin Ganga valley situated in Neluwa, Thawalama, Nagoda, Niyagama, Welivitiya-Divithura, Elpitiya, Akmeemana, Baddegama, and Bope-Poddala D/S Divisions.
+
+...
+
+[Data](articles/55bf1698.json)
 
 ---
 
@@ -114,25 +188,31 @@ Meanwhile, all hydrologicals in the N. Nilwala River have exceeded the general w
 
 ---
 
-### சேமக்காலையில் பெண் தீக்கிரை ; இளைஞன் கைது
+### Female FireYoung man arrested
 
 *2024-06-02 11:13:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/சேமக்காலையில்-பெண்-தீக்கிரை-இளைஞன்-கைது/71-338264) · `ta`
 
-சேமக்காலைக்கு பெண்ணொருவரை அழைத்து சென்ற இளைஞன் , பெண் மீது பெற்றோல் ஊற்றி எரித்து படுகொலை செய்துள்ள சம்பவம் சனிக்கிழமை (01) இடம்பெற்றுள்ளது .
+A young man was arrested after setting a woman on fire in Jaffna, Sri Lanka. The victim, 45-year-old Gallavadivel Bhavani, died from her injuries. The incident occurred on Saturday when the suspect, who had taken the woman on his motorcycle, poured petrol on her and set her alight near a tomb. Neighbors rushed her to the hospital, but she succumbed to her burns. Police have launched an investigation and apprehended the suspect.
 
-சாவகச்சேரி - மட்டுவில் பகுதியை சேர்ந்த 45 வயதுடைய இரத்தினவடிவேல் பவானி எனும் பெண்ணே இவ்வாறு கொலை செய்யப்பட்டுள்ளார் .
+🟩
 
-யாழ்ப்பாணம் கொஞ்சேஞ்சிமாதா சேமக்காலைக்கு குறித்த பெண்ணை மோட்டார் சைக்கிளில் அழைத்து சென்ற இளைஞன் , பெண்ணுடன் கல்லறை ஒன்றின் மீது அமர்ந்து பேசிக்கொண்டு இருந்துள்ளனர் .
+The incident took place on Saturday (01) that the young man who took a woman to the shelter and burned petrol on the woman.
 
-திடீரென இருவருக்கும் இடையில் வாய்த்தர்க்கம் ஏற்பட்ட போது , இளைஞன் மறைத்து வைத்திருந்த பெற்றோல் போத்தலை எடுத்து பெண்ணின் மீது ஊற்றி தீ வைத்துள்ளார்.
+The 45 -year -old Gallavadivel Bhavani, a 45 -year -old woman from Chavakachcheri - Matuvil area, has been murdered.
 
-அதனை அவதானித்த அயலவர்கள் ஓடி சென்று தீயினை அனைத்து , பெண்ணை நோயாளர் காவு வண்டி மூலம் யாழ்.போதனா வைத்தியசாலைக்கு அனுப்பி வைத்த்துள்ளனர் .
+The young man who took the woman on a motorbike in Jaffna, Konjenjimada, was sitting on a tomb with a woman.
 
-சம்பவம் தொடர்பில் விசாரணைகளை முன்னெடுத்த பொலிஸார் சந்தேக நபரை கைது செய்து பொலிஸ் நிலையத்தில் தடுத்து வைத்து விசாரணைகளை முன்னெடுத்துள்ளனர்.
+Suddenly, when there was a rhetoric between the two, the young man took a hidden petrol bottle and set fire to the woman.
+
+Neighbors who observed it went and sent the fire to the Jaffna Bodhana Hospital with all the fire.
+
+Police have investigated the incident and arrested the suspect and detained the suspect.
 
 ◼️
 
 [Data](articles/91f81917.json)
+
+[Extended Data](ext_articles/91f81917.ext.json)
 
 ---
 
@@ -289,6 +369,8 @@ Merchandise imports were only 1,435 million US dollars, leaving a surplus of 542
 ...
 
 [Data](articles/9dd24d20.json)
+
+[Extended Data](ext_articles/9dd24d20.ext.json)
 
 ---
 
@@ -2099,97 +2181,5 @@ Residents in the area regularly cross the river using boats often in poor condit
 [Data](articles/7ede8a46.json)
 
 [Extended Data](ext_articles/7ede8a46.ext.json)
-
----
-
-### 20 disappeared in Boat Crash of Afghanistan
-
-*2024-06-01 15:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197248) · `si`
-
-In a tragic boat crash in eastern Afghanistan, 20 individuals went missing. The incident occurred as the boat was navigating a river. In response, authorities initiated a special operation to locate them.
-
-🟩
-
-According to foreign media reports, 20 people have been disappeared in a boat accident in eastern Afghanistan.
-
-It is reported that a boat that was traveling through a river was crashed.
-
-A special operation has launched a special operation in the country.
-
-◼️
-
-[Data](articles/0681ec7f.json)
-
-[Extended Data](ext_articles/0681ec7f.ext.json)
-
----
-
-### Public support sought to apprehend suspect at large
-
-*2024-06-01 15:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Public-support-sought-to-apprehend-suspect-at-large/108-283882) · `en`
-
-June 01 - Police have sought the assistance of the public to apprehend a suspect who escaped from police custody after being arrested over the alleged rape of a nine-year-old girl in Talaimannar on February 15.
-
-The suspect had escaped from police custody after he was transferred to the General Hospital Vavuniya.
-
-The suspect is Kandaiah Vijayan alias Abdul Rahman, a resident of Kuchchaveli, Trincomalee
-
-Police Superintendent Talaimannar - 0718591364, Talaimannar Police OIC - 0718591370.
-
-The suspect was arrested after the girl's grandmother lodged a complaint with the Talaimannar Police, reporting that her granddaughter had gone missing from their village.
-
-Subsequently, police found the body of the missing girl approximately 300 metres away from her home.
-
-When the body was found, the girl was wearing a dress and her lower body was naked. Police suspect that the girl has been raped.
-
-◼️
-
-[Data](articles/97759096.json)
-
-[Extended Data](ext_articles/97759096.ext.json)
-
----
-
-### How police arrested wanted ‘handler’ of 4 ISIS terrorists nabbed in India
-
-*2024-06-01 15:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/99578/how-police-arrested-wanted-handler-of-4-isis-terrorists-nabbed-in-india) · `en`
-
-Sri Lanka Police on Friday arrested the alleged ‘handler’ of four Sri Lankan suspected ISIS terrorists, who were taken into custody in Gujarat’s Ahmedabad Airport.
-
-The 46-year-old suspect, Osman Pushparaja Gerard, was arrested following a joint operation by the Criminal Investigation Department (CID) and the Terrorist Investigation Division (TID) in Colombo.
-
-After the arrests of four suspects by the Gujarat Anti-Terrorist Squad (ATS) for having links with terrorist outfit ISIS, Sri Lanka launched a high-level investigation with the participation of two main intelligence branches of the police, the CID and the Terrorist Investigation Division (TID) and other military intelligence services.
-
-In the hunt for Osman or the coordinator of four ISIS suspects, earlier Sri Lanka Police offered a cash reward of Rs. 02 million to any informant.
-
-However, he was subsequently arrested last night (May 31) based on information received that the suspect was in hiding in Colombo.
-
-...
-
-[Data](articles/9e40b271.json)
-
-[Extended Data](ext_articles/9e40b271.ext.json)
-
----
-
-### Police arrest wanted ‘handler’ of 4 ISIS terrorists nabbed in India
-
-*2024-06-01 15:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/99578/police-arrest-wanted-handler-of-4-isis-terrorists-nabbed-in-india) · `en`
-
-Sri Lanka Police on Friday arrested the alleged ‘handler’ of four Sri Lankan suspected ISIS terrorists, who were taken into custody in Gujarat’s Ahmedabad Airport.
-
-The 46-year-old suspect, Osman Pushparaja Gerard, was arrested following a joint operation by the Criminal Investigation Department (CID) and the Terrorist Investigation Division (TID) in Colombo.
-
-After the arrests of four suspects by the Gujarat Anti-Terrorist Squad (ATS) for having links with terrorist outfit ISIS, Sri Lanka launched a high-level investigation with the participation of two main intelligence branches of the police, the CID and the Terrorist Investigation Division (TID) and other military intelligence services.
-
-In the hunt for Osman or the coordinator of four ISIS suspects, earlier Sri Lanka Police offered a cash reward of Rs. 02 million to any informant.
-
-However, he was subsequently arrested last night (May 31) based on information received that the suspect was in hiding in Colombo.
-
-...
-
-[Data](articles/d5c4b06e.json)
-
-[Extended Data](ext_articles/d5c4b06e.ext.json)
 
 ---

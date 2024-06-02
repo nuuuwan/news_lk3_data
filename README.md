@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-02 13:34:26**
+As of **2024-06-02 13:53:15**
 
 ## Newspaper Stats
 
-*Scraped **27,840** Articles*
+*Scraped **27,845** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,56 @@ adalk | 2,371
 adaderanalk | 3,166
 tamilmirrorlk | 3,264
 virakesarilk | 4,286
-dailymirrorlk | 4,412
-adaderanasinhalalk | 4,453
+dailymirrorlk | 4,413
+adaderanasinhalalk | 4,457
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,837 (100.0%) of 27,840 articles have been extended.
+27,840 (100.0%) of 27,845 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-02 (Sunday)
+
+### Holiday for schools tomorrow
+
+*2024-06-02 13:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Holiday-for-schools-tomorrow/108-283902) · `en`
+
+Colombo, June 2 (Daily Mirror) - The Education Ministry has announced tomorrow as a school holiday due to the prevailing heavy rainy weather.
+
+Further days of holding schools will be announced by the Education Ministry following announcements by the Meteorology Department.
+
+◼️
+
+[Data](articles/25773927.json)
+
+---
+
+### කළු, නිල්වලා, ගිං, මහා ගංවතුර තත්ත්වයේ නවතම තොරතුරු මෙන්න
+
+*2024-06-02 13:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197281) · `si`
+
+ගිං ගඟ තවලම ප්‍රදේශයෙන් මහා ගංවතුර තත්ත්වයක් දක්වා වර්ධනය වී තිබේ.
+
+අද දහවල් 12ට වාරිමාර්ග දෙපාර්තමේන්තුව නිකුත් කළ නිවේදනයේ දැක්වෙන්නේ තවලම ප්‍රදේශයෙන් ගිං ගඟේ ජල මට්ටම මීටර් 8.35ක අගයක් ගෙන ඇති බවය.
+
+එම වාර්තාවේ වැඩිදුරටත් දැක්වෙන්නේ ගිං ගඟේ ජල මට්ටම ද තවදුරටත් වැඩිවෙමින් පවතින බවය.
+
+එසේම ගිං ගඟේ ජල මට්ටම අද දහවල් 12 වනවිට බද්දේගම ප්‍රදේශයෙන් සුළු ගංවතුර තත්ත්වයක් දක්වා වර්ධනය වී ඇති අතර එහි ජල මට්ටම ද තවදුරටත් වැඩිවෙමින් පවතී.
+
+එසේම එම වාර්තාවට අනුව කළු ගඟේ අතු ගංගාවක් වන කුඩා ගඟ ද මේ වනවිට මහා ගංවතුර තත්ත්වයක් දක්වා වර්ධනය වී ඇති අතර එහි ජල මට්ටම තවදුරටත් වැඩිවෙමින් පවතී.
+
+එසේම කළු ගඟ පුටුපාවුල, ඇල්ලගාව, රත්නපුර, ප්‍රදේශවලින් සහ කළු ගඟේ අතු ගංගාවක් වන මගුරු ගඟ මගුර ප්‍රදේශයෙන් මේ වනවිට සුළු ගංවතුර තත්ත්වයක් දක්වා වර්ධනය වී ඇති අතර එහි ජල මට්ටම ද තවදුරටත් වැඩිවෙමින් පවතින බව එහි දැක්වෙයි.
+
+එසේම නිල්වලා ගඟ ද පිටබැද්දර ප්‍රදේශයෙන් මහා ගංවතුර තත්ත්වයක් දක්වා වර්ධනය වී තිබේ.
+
+...
+
+[Data](articles/e4570e74.json)
+
+---
 
 ### Landslide warning for nine areas; public urged to be precautious
 
@@ -45,6 +83,8 @@ According to the Department of Meteorology, heavy showers about 100mm are on the
 ◼️
 
 [Data](articles/53b673c3.json)
+
+[Extended Data](ext_articles/53b673c3.ext.json)
 
 ---
 
@@ -104,6 +144,40 @@ However, it has now been decided to close all government schools islandwide due 
 
 ---
 
+### හෙට දිනයේ සියලු පාසල් වැසේ
+
+*2024-06-02 12:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197280) · `si`
+
+පවතින අයහපත් කාලගුණික තත්ත්වය හේතුවෙන් මෙම තීරණය ගත් බව අධ්‍යාපන අමාත්‍යාංශය පවසයි.
+
+අද දෙරණ කළ විමසීමකදී අධ්‍යාපන රාජ්‍ය අමාත්‍ය අරවින්ද කුමාර් මේ බව පැවසීය.
+
+◼️
+
+[Data](articles/bae08d51.json)
+
+---
+
+### බස් රථ දෙකක් ගැටී කොන්දොස්තර මරුට
+
+*2024-06-02 12:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197279) · `si`
+
+පෞද්ගලික බස් රථයක් සහ ලංගම  බස් රථයක් එකිනෙක ගැටීමෙන් පානදුර බස් නැවතුම ආසන්නයේදී අද (02) උදෑසන අනතුරක් සිදුවී තිබේ.
+
+එම අනතුරෙන් ලංගම බස්රථයේ ගමන් කරමින් සිටි කොන්දොස්තරවරයෙකු මියගොස් ඇති අතර තවත් සිව්දෙනෙකු තුවාල ලබා රෝහල්ගතකර ඇත.
+
+මෙලෙස මියගොස් ඇත්තේ පානදුර ඩිපෝවට අනුයුක්තව සේවය කරන කොන්දොස්තරවරයෙකු බවට අනාවරණය වී තිබේ.
+
+ලංගම බස් රථය පානදුර බස්නැවතුම්පොළ දෙසට හැරවීමට යාමේදී කොළඹ සිට පානදුර දක්වා ධාවනය වූ පෞද්ගලික බස් රථයක ගැටීමෙන් අනතුර සිදුව තිබුණි.
+
+අනතුර සිදුවීමත් සමග පෞද්ගලික බස් රථයේ රියදුරු එම ස්ථානයෙන් පළාගොස් ඇති අතර ඔහුව අත්අඩංගුවට ගැනීම සඳහා පොලීසිය විමර්ශන ආරම්භ කර තිබේ.
+
+◼️
+
+[Data](articles/f2401409.json)
+
+---
+
 ### Women Abuse: Web to escape
 
 *2024-06-02 12:26:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறுமி-துஷ்பிரயோகம்-தப்பியோடியவருக்கு-வலை/175-338275) · `ta`
@@ -137,6 +211,20 @@ The Provincial Education Secretaries and Directors have been authorised to make 
 [Data](articles/b2c975fc.json)
 
 [Extended Data](ext_articles/b2c975fc.ext.json)
+
+---
+
+### පාසල් පැවැත්වීම ගැන රජයෙන් දැනුම්දීමක්
+
+*2024-06-02 12:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197278) · `si`
+
+හෙට (03) දිනයේ දිවයින පුරා පාසල් පැවැත්වීම පිළිබඳව තීරණ ගැනීම බලය පළාත් අධ්‍යාපන අධ්‍යක්ෂවරුන් සහ ලේකම්වරුන් වෙත පවරා තිබේ.
+
+අධ්‍යාපන රාජ්‍ය අමාත්‍ය අරවින්ද් කුමාර් සඳහන් කළේ පවතින අයහපත් කාලගුණික තත්ත්වය සමග මෙම තීරණය ගත් බවය.
+
+◼️
+
+[Data](articles/32c10376.json)
 
 ---
 
@@ -190,21 +278,27 @@ The clash between Robert and fellow inmates in jail on the 19th of last month. M
 
 ---
 
-### 15 හැවැරිදි සිසුවිය ගණිත අංශයෙන් උපෙළ කරලා පුත්තමෙන් 16 තැනට
+### 15 In the math seat, the student was born in the Mathematics 16
 
 *2024-06-02 12:02:31* · [`adalk`](https://www.ada.lk/breaking_news/15-හැවැරිදි-සිසුවිය-ගණිත-අංශයෙන්-උපෙළ-කරලා-පුත්තමෙන්-16-තැනට/11-409960) · `si`
 
-ආරච්චිකට්ටුව විජයකටුපත ප්‍රදේශයේ  දියණියක් වයස අවුරුදු 15දී ගණිත අංශයෙන් අධ්‍යාපන පොදු සහතික පත්‍ර උසස් පෙළට මුහුණ දී ඒ සමාරථ 3ක් ලබාගන පුත්තලම දිස්ත්‍රික්කයෙන් 16වන ස්ථානයට පත්වීමේ සිද්ධියක් ආරච්චිකට්ටුව විජය කටුපත් ප්‍ර දේශයෙන් වාරතා වේ.
+Avisha Nethshi Nathisara, a 15-year-old from the Jaffna district, excelled academically despite challenges. Born in Arachchikattuwa, she demonstrated exceptional talent early on, skipping several grades. Her family moved to Gampaha due to job needs, where she continued to excel, scoring over 90 in each subject. Despite facing difficulties during the COVID-19 pandemic, Avisha managed to pass her Ordinary Level exams with flying colors. Her mother, Usyni Priyganika, emphasized Avisha's self-motivation and reliance on online resources for her studies. Avisha attributes her success to her strong belief in herself, dedication to learning, and the support of her parents, who she considers her best teachers.
 
-මෙසේ එම විශිෂ්ඨ ජයග්‍රහණය ලබාගන ඇත්තේ ආරච්චිකට්ටුව විජයකටුපත පදිංචි මංචනායක මුදියන්සේලාගේ අවීෂා නෙත්සරණි මංචනායක නැමති 15 හැවිරිදි දියණියකි.
+🟩
 
-ඇයගේ පියා තාක්ෂණික නිළධාරියෙකු ලෙස පුද්ගලික ආයතනයක සේවය කර ඇති අතර ඔහු කුමාර මංචනායකයි. ඔහුගේ දයාබර බිරිඳ උදේනි ප්‍රියංගාට සහ ඔහුට සිටින ඒකම දරුවා අවීෂා නෙත්සරණි බව මව ආඩම්බරයෙන් පවසයි.
+A daughter in the Jaffna Vijayawa, a daughter of the Jaffna district, is in caste in the area of ​​the Arachchikattuwa.
 
-තම ආදරණීය දියණියගේ කුඩාකාලය පිළිබඳව පියාණන් මෙසේ පැවසුවේය. දුවගේ මුල්ම පාසල හලා /ආර /විජය කටුපත මහා විදුහලයි. එයා පෙරපාසල් යන්න පටන් අරගෙන වැඩිකාලයක් ගියේ නෑ අවුරුදු 3දි විතර ඉදලම ස්කොලේ යන්න ආශාවෙන් අපිට ඇවිටිලි කළා. ඒත් පාසලට ඇතුලත් කර ගන්න නියම වයසක් තියනවානේ අපි අවුරුදු 6න් දුවව ගමේ පාසලට ඇතුලත් කළා.
+The Superintendent of Mudana Mudiyanselage Avisha Nethshi Nathisara has been a 15-year-old resident of the Arachchikatta.
+
+Her father has served as a Technical Officer and he is at Kumara Manchname. His dear wife proudly says that the child is Avisha Nethshisy.
+
+The Father said: "The father of his beloved daughter. Daughter's earliest school Hala / A / Vijaya Katupitiya Great College. He did not start to go to the prepahasal and did not go to the 3 years, eagerly to go to Square. But there is a real age to the school, we were included in the village of the village of 6 years.
 
 ...
 
 [Data](articles/b330f42b.json)
+
+[Extended Data](ext_articles/b330f42b.ext.json)
 
 ---
 
@@ -317,6 +411,8 @@ A potential major flood situation has been reported as heavy rainfall has been r
 ...
 
 [Data](articles/85e0c321.json)
+
+[Extended Data](ext_articles/85e0c321.ext.json)
 
 ---
 
@@ -2081,97 +2177,5 @@ The whole of this island [Mannar] is low ground, exhibiting a mixture of shells 
 [Data](articles/540871d7.json)
 
 [Extended Data](ext_articles/540871d7.ext.json)
-
----
-
-### Apple iPhone is now an obsolete product
-
-*2024-06-01 16:38:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Apple-iPhone-is-now-an-obsolete-product/108-283885) · `en`
-
-TIMESOFINDIA, Jun 1 - Apple has added iPhone 5s, iPhone 6s, iPod touch, and 2015 iMac to its list of obsolete products, following the 7-year distribution cutoff. These devices won't receive updates or service from Apple.
-
-Apple has added three new devices to its list of obsolete products. Launched back in 2013, Apple iPhone 5s is now obsolete worldwide. Along with iPhone 5s, the Cupertino-based company has also added sixth-generation iPod touch and 2015 edition of the 21.5-inch iMac to the list.
-
-Apple explains that “Products are considered obsolete when Apple stopped distributing them for sale more than 7 years ago.” In other words, the device tagged as obsolete will not be eligible for any updates.
-
-In addition, Apple will not repair or service them at all. In fact, service providers cannot order parts for obsolete products.
-
-...
-
-[Data](articles/3cb891af.json)
-
-[Extended Data](ext_articles/3cb891af.ext.json)
-
----
-
-### A rain over 100 mm
-
-*2024-06-01 16:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197251) · `si`
-
-Heavy rainfall exceeding 100mm expected in Western, Sabaragamuwa, and Matara districts over the next 36 hours due to a heatwave warning.
-
-🟩
-
-The weather notification issued for the next 36 hours (01) was warned about a heated rain.
-
-It is said that there will be heavy showers at more than 100 millimeters in the Western and Sabaragamuwa and Matara districts.
-
-◼️
-
-[Data](articles/4570e0ef.json)
-
-[Extended Data](ext_articles/4570e0ef.ext.json)
-
----
-
-### Hope, wisdom and cynicism: Voices from rural Sri Lanka
-
-*2024-06-01 16:22:00* · [`islandlk`](http://island.lk/hope-wisdom-and-cynicism-voices-from-rural-sri-lanka/) · `en`
-
-The lakes, paddy fields and forests of the ancient village of Dutuwewa are a world away from Colombo’s high-rises and colonial buildings. As elsewhere, decisions taken by ‘old men’ in the corridors of power impact life here, just as these rural voters will impact politics nationally
-
-Times are tough and it’s hard to make ends meet. A refrain heard from just about anyone in my home country Pakistan where the rupee has dropped to around 300 to the dollar. This is now comparable to the rupee in Sri Lanka, recovering from the biggest economic crash in its history.
-
-Stories of hardship echo from the island nation’s largest city Colombo to the farming heartlands around Anuradhapura district, a little over 200 km to the north-east. At the core of Anuradhapura lies the irrigation tank called Dutuwewa which sustains several villages.
-
-Sri Lanka’s rural landscape is dotted with as many as 14,000 such large and small irrigation lakes, known as wewas, built by kings thousands of years ago.
-
-...
-
-[Data](articles/aac22a80.json)
-
-[Extended Data](ext_articles/aac22a80.ext.json)
-
----
-
-### Welipenna interchange will be closed until it is again
-
-*2024-06-01 16:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197250) · `si`
-
-The Welipenna interchange on the Southern Expressway remains closed indefinitely until further notice.
-
-🟩
-
-The Welipenna interchange on the Southern Expressway has been closed until it was again notified.
-
-◼️
-
-[Data](articles/2778b749.json)
-
-[Extended Data](ext_articles/2778b749.ext.json)
-
----
-
-### Southern Expressway’s Welipenna Interchange closed until further notice
-
-*2024-06-01 16:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/99580/southern-expressways-welipenna-interchange-closed-until-further-notice) · `en`
-
-The Welipenna Interchange of the Southern Expressway has been closed until further notice due to a section of the road being flooded, the Director of the Road Development Authority (RDA) said.
-
-◼️
-
-[Data](articles/c8c1e1d1.json)
-
-[Extended Data](ext_articles/c8c1e1d1.ext.json)
 
 ---

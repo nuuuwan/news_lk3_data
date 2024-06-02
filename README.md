@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-03 00:49:30**
+As of **2024-06-03 01:04:03**
 
 ## Newspaper Stats
 
-*Scraped **27,962** Articles*
+*Scraped **27,965** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,53 @@ bbccomsinhala | 275
 newsfirstlk | 363
 islandlk | 1,507
 economynextcom | 1,589
-dailyftlk | 1,635
+dailyftlk | 1,637
 adalk | 2,386
 adaderanalk | 3,179
 tamilmirrorlk | 3,277
 virakesarilk | 4,312
-dailymirrorlk | 4,435
+dailymirrorlk | 4,436
 adaderanasinhalalk | 4,482
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,959 (100.0%) of 27,962 articles have been extended.
+27,962 (100.0%) of 27,965 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-03 (Monday)
+
+### Donald Trump’s conviction and what’s next
+
+*2024-06-03 00:39:35* · [`dailyftlk`](https://www.ft.lk/opinion/Donald-Trump-s-conviction-and-what-s-next/14-762508) · `en`
+
+Trump will be tried, found guilty of crimes of inciting an insurrection, election interference and espionage, which will see him in prison with the key thrown away. And the Trump years will be just a bad dream
+
+Golfers may remember how, at the turn of the century, Tiger Woods dominated the game of golf to such a degree that the organisations responsible for administering the rules of golf, the Royal & Ancient Golf Club of St. Andrews and the United States Golf Association, were forced to change the rules and conditions of the international courses where major professional golf tournaments were played.
+
+...
+
+[Data](articles/86dde91f.json)
+
+---
+
+### Can any candidate achieve 50%+1 at presidential polls - EDITORIAL
+
+*2024-06-03 00:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Can-any-candidate-achieve-50-1-at-presidential-polls-EDITORIAL/172-283932) · `en`
+
+All political parties are in election mode. Presidential elections are scheduled to be held between September and October this year. However, reaching the magical 50%+1 seems like a distant dream for the candidates in the running.
+
+In the first presidential election in October 1982, President Jayewardene’s main rival Mrs.Sirimavo Bandaranaike was banned from contesting. Jayewardene was able to collect only 52.91 percent of the votes.
+
+The 1988 election saw several election violence-related actions. That election was won by Ranasinghe Premadasa who received 50.4 percent of the votes. Voter turnout was low-around 55.3 percent, the lowest for a presidential election.
+
+...
+
+[Data](articles/46ccb47e.json)
+
+---
 
 ### McDonald’s secret: Shares rise while food sales decline
 
@@ -48,6 +78,8 @@ Those earning $45,000 or less are less and less able to eat out, and McDonald’
 
 [Data](articles/c5f58cd5.json)
 
+[Extended Data](ext_articles/c5f58cd5.ext.json)
+
 ---
 
 ### When IMF targets become  Sri Lankan law
@@ -62,6 +94,8 @@ Even as Sri Lanka prepares for elections, laws are being rushed through a parlia
 
 [Data](articles/4c69ce7f.json)
 
+[Extended Data](ext_articles/4c69ce7f.ext.json)
+
 ---
 
 ### Right of Reply: Rividhanavi (Private) Ltd responds to CEB’s solar project article
@@ -75,6 +109,8 @@ This refers to the article written by Ms Nirmala Kannangara which appeared under
 ...
 
 [Data](articles/8b3a8ad8.json)
+
+[Extended Data](ext_articles/8b3a8ad8.ext.json)
 
 ---
 
@@ -115,6 +151,22 @@ Consequently, he encouraged anyone with such a plan to present it, and if not, t
 [Data](articles/ef782a67.json)
 
 [Extended Data](ext_articles/ef782a67.ext.json)
+
+---
+
+### Plan for transforming the economy: Lacking democratic policy governance, will it be another failure?
+
+*2024-06-02 23:07:47* · [`dailyftlk`](https://www.ft.lk/columns/Plan-for-transforming-the-economy-Lacking-democratic-policy-governance-will-it-be-another-failure/4-762495) · `en`
+
+People will be continuously engaged in the implementation of the national transformation plan as announced by the President
+
+The timeline fixed by the President is that the lab will be assembled in the third quarter of 2023, the report of the lab will be presented to the people for their review in the fourth quarter, and by the end of the year, a ‘national transformation plan’ will be unveiled after incorporating the views of the people into the plan
+
+The Government has gazetted an economic transformation bill (available at: http://www.documents.gov.lk/files/bill/2024/5/487-2024_E.pdf) to be taken up in Parliament soon. According to State Minister of Finance Shehan Semasinghe, the objective of the bill is to prevent future economic collapses, an ambitious target by any standard (available at: https://www.news.lk/news/political-current-affairs/item/36414-economic-transformation-bill-and-public-financial-management-bill-to-parliament-on-may-22).
+
+...
+
+[Data](articles/f207cae6.json)
 
 ---
 
@@ -2049,61 +2101,5 @@ Sumanthiran - Sumanthiran has taken up the weapon of the Oslo Agreement to defea
 [Data](articles/18afec15.json)
 
 [Extended Data](ext_articles/18afec15.ext.json)
-
----
-
-### Power interruptions in multiple districts amid torrential rains
-
-*2024-06-02 14:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Power-interruptions-in-multiple-districts-amid-torrential-rains/108-283903) · `en`
-
-The Ministry of Power and Energy announced the disconnection of power supply to several areas in the Galle, Kalutara, Ratnapura, Colombo and Kegalle districts.
-
-The Secretary to the Ministry of Power & Energy stated that this decision was taken as a precautionary measure to ensure public safety and maintain the integrity of the power infrastructure.
-
-Residents in the affected districts are advised to remain calm and follow any further instructions from local authorities.
-
-◼️
-
-[Data](articles/0c690994.json)
-
-[Extended Data](ext_articles/0c690994.ext.json)
-
----
-
-### Who was the death of the TNA?- Part 01
-
-*2024-06-02 14:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/185101) · `ta`
-
-The Tamil National Alliance (TNA), a key player in Tamil politics for over two decades, represents the democratic aspirations of the Tamil people. Despite facing challenges, it remains a significant force in advocating for Tamil political rights.
-
-🟩
-
-The political partnership of the Tamil National Alliance (TNA) has been the main force that has been involved in the political journey and democratic struggles of the Tamil people for over 22 years.. While the Tamil people have been fighting for their political rights since independence, the Confederacy has been seen as a democratic symbol of the Tamil people as a powerful force in the historical flow of the Tamil people.
-
-◼️
-
-[Data](articles/c721ec6e.json)
-
-[Extended Data](ext_articles/c721ec6e.ext.json)
-
----
-
-### Two suffered from floods
-
-*2024-06-02 14:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197284) · `si`
-
-In Galle's Thawalama area, two individuals are missing due to floods. A special search operation has been initiated by the District Disaster Management Unit.
-
-🟩
-
-Two people have gone missing in the Thawalama area in Galle.
-
-The District Disaster Management Unit states that a special operation has been launched in search of the missing persons.
-
-◼️
-
-[Data](articles/05922360.json)
-
-[Extended Data](ext_articles/05922360.ext.json)
 
 ---

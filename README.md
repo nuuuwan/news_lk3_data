@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-02 19:34:15**
+As of **2024-06-02 19:51:26**
 
 ## Newspaper Stats
 
-*Scraped **27,916** Articles*
+*Scraped **27,920** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,85 @@ islandlk | 1,507
 economynextcom | 1,587
 dailyftlk | 1,635
 adalk | 2,381
-adaderanalk | 3,175
+adaderanalk | 3,176
 tamilmirrorlk | 3,274
 virakesarilk | 4,302
 dailymirrorlk | 4,424
-adaderanasinhalalk | 4,471
+adaderanasinhalalk | 4,474
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,916 (100.0%) of 27,916 articles have been extended.
+27,916 (100.0%) of 27,920 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-02 (Sunday)
+
+### කඩා වැටුණු ගස ඉවත් කෙරේ
+
+*2024-06-02 19:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197298) · `si`
+
+කොළඹ - නුවර මාර්ගය අවහිර කරමින් වරකාපොළ ප්‍රදේශයේ දී කඩා වැටී තිබූ ගස කපා ඉවත්කර තිබේ.
+
+එබැවින් එම මාර්ගය රථ වාහන ගමනාගමනය සඳහා භාවිත කළ හැකි බව පොලීසිය පවසයි.
+
+◼️
+
+[Data](articles/54e414ef.json)
+
+---
+
+### පොලීසියෙන් ජනතාවට හදිසි දැනුම්දීමක්
+
+*2024-06-02 19:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197297) · `si`
+
+අයහපත් කාලගුණික තත්ත්වයෙන් පීඩාවට පත් ජනතාවට සහන සැලසීම සඳහා පොලීසිය විශේෂ ආපදා සහන ඒකකයක් ස්ථාපිත කර තිබේ.
+
+ඒ අනුව 011- 242 1820 සහ 011- 242 1111 යන දුරකථන අංක ඔස්සේ ආපදා සහන අවශ්‍යතා වෙනුවෙන් ජනතාවට ඇමතුම් ලබාදිය හැකි බව පොලීසිය පවසයි.
+
+◼️
+
+[Data](articles/80350a9f.json)
+
+---
+
+### අපේම මිනිස්සු වෙනුවෙන් යුද්ධ හමුදාවෙන් හදිසි මෙහෙයුමක්
+
+*2024-06-02 19:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197296) · `si`
+
+අයහපත් කාලගුණ තත්ත්වය සමග පීඩාවට පත් ජනතාවට වෙනුවෙන් සහන සැපයීම සඳහා සන්නද්ධ රථ 6ක් සහ යුනිකෝන් රථ 10ක් මේ වනවිට යුද්ධ හමුදාව විසින් යොමුකර තිබේ.
+
+යුද්ධ හමුදා මූලස්ථානය විසින් නිවේදනයක් නිකුත් කරමින් සඳහන් කළේ කළුතර, මාතර සහ ගාල්ල දිස්ත්‍රික්ක සඳහා එම රථ යොදවා ඇති බවය.
+
+ඊට අමතරව මුදාගැනීමේ මෙහෙයුම් සඳහා අයගම, ගලතුරු ඔය, දෙහිඕවිට, මොරවක, තවලම, තිහගොඩ, නෙළුව, බද්දේගම සහ දිවිතුරාව ප්‍රදේශ සඳහා බෝට්ටු සමග යුද හමුදා කණ්ඩායම් යොමුකර තිබේ.
+
+මේ අතර කැලණි ගඟේ ගං ඉවුරේ ආරක්ෂාව සඳහා වැලි කොට්ට ඇතිරීම සඳහා යුද්ධ හමුදා කණ්ඩායමක් කැලණිමුල්ල ප්‍රදේශය සඳහා යොමුකර ඇත.
+
+එසේම යුද්ධ හමුදාව විසින් මේ වනවිට අකුරැස්ස, මාලිම්බඩ, නෙළුව සහ සාලාව ප්‍රදේශවල අවතැන් වූ පිරිස් සඳහා ආහාර සැපයීම සඳහා අවශ්‍ය කටයුතු සිදුකරමින් පවතින බව එම නිවේදනයේ දැක්වෙයි.
+
+එම ප්‍රදේශවල අවතැන් වූ ජනතාව සඳහා අවශ්‍ය වෛද්‍ය පහසුකම් සහ පානීය ජලය සැපයීමට ද ප්‍රදේශවාසීන්ගේ ද සහාය ඇතුව යුද්ධ හමුදාව විශේෂ මෙහෙයුමක් දියත් කර ඇත.
+
+◼️
+
+[Data](articles/e5aeaec1.json)
+
+---
+
+### Sri Lanka Police establish emergency hotline for disaster relief operations
+
+*2024-06-02 19:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/99604/sri-lanka-police-establish-emergency-hotline-for-disaster-relief-operations-) · `en`
+
+Sri Lanka Police have established a Special Operations Room for the assistance of the people affected by the current inclement weather conditions and to coordinate relief measures, Police Media Spokesman DIG Nihal Thalduwa said.
+
+The general public can accordingly seek assistance and coordinate with other disaster relief groups by contacting the relevant Special Operations Room through hotline numbers 0112421820 or 0112421111.
+
+◼️
+
+[Data](articles/44bbd7aa.json)
+
+---
 
 ### Potential power suspensions due to inclement weather
 
@@ -659,6 +723,8 @@ Accordingly, some of the risks of the lowlands of the lowland and the people tra
 ### Fallen tree disrupts traffic on Colombo-Kandy main road
 
 *2024-06-02 15:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/99599/fallen-tree-disrupts-traffic-on-colombo-kandy-main-road) · `en`
+
+UPDATE 07.10 p.m. : The Colombo-Kandy main road has been restored for traffic as the fallen tree at Warakapola has been cleared, the Police Spokesman DIG Nihal Thalduwa said.
 
 The vehicular movement on Colombo-Kandy main road has been disrupted due to a tree fallen across the road near the Warakapola town, the police said.
 
@@ -2037,97 +2103,5 @@ Meanwhile, two youths have also killed a 11 year old girl in the Hewahwarala are
 [Data](articles/b0a31001.json)
 
 [Extended Data](ext_articles/b0a31001.ext.json)
-
----
-
-### China lands on Moon’s far side in historic sample-retrieval mission
-
-*2024-06-02 10:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/China-lands-on-Moons-far-side-in-historic-sample-retrieval-mission/107-283896) · `en`
-
-China, June 2 (BBC) - The Chang'e 6 touched down in the South Pole-Aitken Basin at 06:23 Beijing time on Sunday morning (22:23 GMT Saturday), the China National Space Administration (CNSA) said.
-
-Launched on 3 May, the mission aims to collect precious rock and soil from this region for the first time in history.
-
-The probe could extract some of the Moon's oldest rocks from a huge crater on its South Pole.
-
-The landing was fraught with risks, because it is very difficult to communicate with spacecraft once they reach the far side of the Moon. China is the only country to have achieved the feat before, landing its Chang'e-4 in 2019.
-
-After launching from Wenchang Space Launch Center, the Chang'e 6 spacecraft had been orbiting the Moon waiting to land.
-
-The lander component of the mission then separated from the orbiter to touch down on the side of the Moon that faces permanently away from Earth.
-
-...
-
-[Data](articles/21409d9d.json)
-
-[Extended Data](ext_articles/21409d9d.ext.json)
-
----
-
-### Two Sri Lankans held in fake passport scam in Hyderabad
-
-*2024-06-02 10:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Two-Sri-Lankans-held-in-fake-passport-scam-in-Hyderabad/108-283895) · `en`
-
-Hyderabad, June 2 (TOI) : During the ongoing probe into Sri Lankan refugees illegally obtaining Indian passports, the Crime Investigation Department (CID) officials on Saturday arrested two Sri Lankan nationals and an Indian agent who provided the passports.
-
-CID officials said that the foreign nationals — Varuniya Thiruvanavukkarasu and Sanjika — were arrested along with Priya Dharmalingam from Tamil Nadu.
-
-“Priya acted as a mediator and facilitated 21 Sri Lankan nationals in obtaining Indian passports in connivance with passport agents,” police said.
-
-So far, police has arrested 26 persons — 16 agents, 6 policemen, an employee of passport seva kendra and three Sri Lankan nationals.
-
-◼️
-
-[Data](articles/60f6f8f1.json)
-
-[Extended Data](ext_articles/60f6f8f1.ext.json)
-
----
-
-### Three members in same family swept away in floods
-
-*2024-06-02 10:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Three-members-in-same-family-swept-away-in-floods/108-283894) · `en`
-
-Avissawella, June 2 ( Daily Mirror) - Three members of a same family, including a seven-year-old girl, lost their lives after being swept away by floodwaters in Puwakpitiya, Avissawella.
-
-Police said the victims, a 36-year-old woman, her daughter and her 78-year-old father, were caught in the floodwaters during the early hours of the morning.
-
-The flooding occurred in an inundated canal close to their residence, triggered by heavy rainfall in the area.
-
-◼️
-
-[Data](articles/84d69032.json)
-
-[Extended Data](ext_articles/84d69032.ext.json)
-
----
-
-### Murderous killings in place
-
-*2024-06-02 10:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197273) · `si`
-
-In Jaffna, a woman was murdered and burned in Gurunagar due to an illicit affair. The suspect, a 40-year-old man, was arrested. In Kandy, a woman was killed in Mahaiyawa over a dispute with a resident.
-
-🟩
-
-Two murders were conducted in Jaffna and Kandy.
-
-The police stated that a woman has been burned in Gurunagar area in Jaffna.
-
-The woman had maintained an illicit affair with a person in Jaffna and the casual husband has done so in their fire.
-
-The victim had committed the murder when the woman went to his mother's cemetery with the suspect, police said.
-
-The 40-year-old suspect was arrested in connection with the murder.
-
-Meanwhile, in Mahaiyawa, Kandy has been assaulted and killed a woman.
-
-Police say the murder had been carried out with a dispute with a resident of a resident of the house.
-
-◼️
-
-[Data](articles/32b8d5bf.json)
-
-[Extended Data](ext_articles/32b8d5bf.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-02 15:52:48**
+As of **2024-06-02 16:04:57**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,463
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,867 (100.0%) of 27,873 articles have been extended.
+27,873 (100.0%) of 27,873 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -42,19 +42,27 @@ The train services on the Kelani Valley line has been limited to Waga railway st
 
 [Data](articles/f50948ab.json)
 
+[Extended Data](ext_articles/f50948ab.ext.json)
+
 ---
 
-### ஹோட்டலில் சிக்கிய 85 பேர் மீட்பு
+### 85 people trapped in the hotel rescue
 
 *2024-06-02 15:29:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹோட்டலில்-சிக்கிய-85-பேர்-மீட்பு/175-338294) · `ta`
 
-களுத்துறை- ஹொரண ஸ்வக்வத்த பிரதேசத்தில் உள்ள ஹோட்டலில் சிக்கிக்கொண்ட பல்வேறு வயதுடைய சுமார் 85 பேர் பத்திரமாக மீட்கப்பட்டுள்ளனர்.
+85 people were rescued from a flooded hotel in Kalutara-Horana due to the overflow of Mawak Oya.
 
-மாவக் ஓயா நிரம்பி வழிவதால், ஹோட்டலில் சிக்கி எதிர்பாராத பிரச்சினைக்கு அவர்கள் முகம் கொடுத்துள்ளனர்.
+🟩
+
+About 85 people of various ages have been safely rescued at a hotel in the Kalutara-Horana Swakwatta area.
+
+Due to the overflowing of Mawak Oya, they face an unexpected problem in the hotel.
 
 ◼️
 
 [Data](articles/62e6f262.json)
+
+[Extended Data](ext_articles/62e6f262.ext.json)
 
 ---
 
@@ -72,35 +80,49 @@ Colombo, June 2 (Daily Mirror) Former MP Hirunika Premachandra said today that t
 
 [Data](articles/595c1dc5.json)
 
+[Extended Data](ext_articles/595c1dc5.ext.json)
+
 ---
 
-### கொழும்பு – கண்டி வீதியில் வாகன நெரிசல்
+### Traffic on Colombo - Kandy Road
 
 *2024-06-02 15:28:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பு-கண்டி-வீதியில்-வாகன-நெரிசல்/175-338293) · `ta`
 
-கொழும்பு - கண்டி பிரதான வீதியின் வரக்காபொல நகருக்கு அருகில் மரம் முறிந்து வீழ்ந்ததையடுத்து அந்த வீதியின் போக்குவரத்து ஸ்தம்பிதமடைந்துள்ளது.
+A tree collapse near Varakapola on the Colombo-Kandy road caused traffic delays and congestion. Motorists are advised to take alternative routes while cleanup efforts aim to restore normal traffic flow.
 
-விழுந்த மரம் இரு பாதைகளிலும் இடையூறு ஏற்படுத்தியதால், அப்பகுதியில் குறிப்பிடத்தக்க தாமதம் மற்றும் நெரிசல் ஏற்பட்டது.
+🟩
 
-வீதியின் பாதிக்கப்பட்ட பகுதியைத் தவிர்ப்பதற்கு மாற்று வழிகளைப் பயன்படுத்துமாறு வாகன சாரதிகளுக்கு பொலிஸ் ஊடகப் பேச்சாளர் நிஹால் தல்துவ அறிவுறுத்தியுள்ளார்.
+The traffic of the road has been disrupted as a tree collapsed near the Varakapola town of Colombo -Kandy main road.
 
-“பணியாளர்கள் குப்பைகளை அகற்றி வழக்கமான போக்குவரத்தை மீட்டெடுக்கும் பணியில் ஈடுபட்டுள்ளனர்,” என்று அவர் மேலும் கூறினார்.
+The fallen tree caused a significant delay and congestion in the area as it caused disruption on both paths.
+
+Police Media Spokesperson Nihal Talduwa has advised motorists to use alternatives to avoid the affected area of ​​the road.
+
+“Employees are working to remove garbage and restore regular traffic,” he added.
 
 ◼️
 
 [Data](articles/4a07a9fd.json)
 
+[Extended Data](ext_articles/4a07a9fd.ext.json)
+
 ---
 
-### කැලණිවැලි දුම්රිය මාර්ගයේ පාලමක් කඩා වැටෙයි
+### Bridge collapses on Kelaniyawali railway line
 
 *2024-06-02 15:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197287) · `si`
 
-වග සහ කොස්ගම දුම්රිය ස්ථාන අතර පාලමක් කඩාවැටීම හේතුවෙන් කැලණිවැලි මාර්ගයේ දුම්රිය ගමනාගමනය වග දුම්රිය ස්ථානය තෙක් සීමා කර ඇත.
+A bridge collapse on the Kelaniyawali railway line has halted all traffic beyond Kosgama stations, restricting trains to the station area only.
+
+🟩
+
+The railway traffic is restricted to the train station due to the collapse of a bridge between Kosgama railway stations.
 
 ◼️
 
 [Data](articles/4647efcc.json)
+
+[Extended Data](ext_articles/4647efcc.ext.json)
 
 ---
 
@@ -115,6 +137,8 @@ Acting District Secretary of Galle said relief teams from the Sri Lanka Navy and
 ◼️
 
 [Data](articles/6d045af2.json)
+
+[Extended Data](ext_articles/6d045af2.ext.json)
 
 ---
 

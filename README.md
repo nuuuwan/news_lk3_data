@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-02 19:51:26**
+As of **2024-06-02 20:03:46**
 
 ## Newspaper Stats
 
-*Scraped **27,920** Articles*
+*Scraped **27,924** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,66 +19,136 @@ adalk | 2,381
 adaderanalk | 3,176
 tamilmirrorlk | 3,274
 virakesarilk | 4,302
-dailymirrorlk | 4,424
+dailymirrorlk | 4,428
 adaderanasinhalalk | 4,474
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,916 (100.0%) of 27,920 articles have been extended.
+27,920 (100.0%) of 27,924 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-02 (Sunday)
 
-### කඩා වැටුණු ගස ඉවත් කෙරේ
+### Police emergency hotlines amidst adverse weather conditions
+
+*2024-06-02 19:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Police-emergency-hotlines-amidst-adverse-weather-conditions/108-283919) · `en`
+
+Colombo, June 02 (Daily Mirror) -  In response to the ongoing adverse weather conditions affecting most region, Police have set up two dedicated lines, 0112 421 820 and 0112 421 111, for individuals to contact for urgent assistance.
+
+The decision to establish these hotlines comes as heavy rains and severe storms continue to batter the areas, causing widespread disruptions.
+
+Many communities are experiencing flooding, power outages and dangerous road conditions, prompting an urgent need for accessible support and timely intervention, police said.
+
+◼️
+
+[Data](articles/878a177a.json)
+
+---
+
+### Driver arrested for driving bus along railway track
+
+*2024-06-02 19:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Driver-arrested-for-driving-bus-along-railway-track/108-283917) · `en`
+
+Colombo, June 2 (Daily Mirror)- The driver who drove a private bus along the Kelani Valley railway track at Puwakpitiya has been arrested in Embilipitiya, Police said.
+
+He was arrested following a video circulated on social media, which showed a private bus plying between Embilipitiya and Colombo being driven along the railway track apparently to avoid the traffic congestion on the road.
+
+◼️
+
+[Data](articles/d6ef401c.json)
+
+---
+
+### Floods malfunction railway signal system
+
+*2024-06-02 19:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Floods-malfunction-railway-signal-system/108-283918) · `en`
+
+Colombo, June 2 (Daily Mirror) - Railway services have been disrupted due to the inundation of several stations, the Railways Department said.
+
+They said the signaling system has been affected due to sudden floods.
+
+Accordingly, errors in the signaling system were recorded at several places on the main, the coastal and the Puttalam lines.
+
+It is reported that some trains may be delayed due to this situation.
+
+Meanwhile, Sri Lanka Railways General Manager N.J. Indipolage said that train services have been disrupted due to trees falling on the track at many locations.
+
+Since a bridge between Waga and Kosgama railway stations was swept away by flood waters, steps have been taken to limit the trains running on the Kelani Valley line only up to the Waga railway station.
+
+◼️
+
+[Data](articles/c9e36781.json)
+
+---
+
+### The collapse tree is removed
 
 *2024-06-02 19:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197298) · `si`
 
-කොළඹ - නුවර මාර්ගය අවහිර කරමින් වරකාපොළ ප්‍රදේශයේ දී කඩා වැටී තිබූ ගස කපා ඉවත්කර තිබේ.
+The tree obstructing the Colombo-Kandy road in Warakapola has been cleared, allowing traffic to flow normally.
 
-එබැවින් එම මාර්ගය රථ වාහන ගමනාගමනය සඳහා භාවිත කළ හැකි බව පොලීසිය පවසයි.
+🟩
+
+The tree that was collapsed in Warakapola area has been cut off in blocking the Colombo-Kandy road.
+
+Therefore, the road can be used for traffic on traffic.
 
 ◼️
 
 [Data](articles/54e414ef.json)
 
+[Extended Data](ext_articles/54e414ef.ext.json)
+
 ---
 
-### පොලීසියෙන් ජනතාවට හදිසි දැනුම්දීමක්
+### Emergency notice to the people
 
 *2024-06-02 19:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197297) · `si`
 
-අයහපත් කාලගුණික තත්ත්වයෙන් පීඩාවට පත් ජනතාවට සහන සැලසීම සඳහා පොලීසිය විශේෂ ආපදා සහන ඒකකයක් ස්ථාපිත කර තිබේ.
+"Police have set up a disaster relief unit for those hit by severe weather. Call 011-242 1820 or 011-242 111 111 111 for assistance."
 
-ඒ අනුව 011- 242 1820 සහ 011- 242 1111 යන දුරකථන අංක ඔස්සේ ආපදා සහන අවශ්‍යතා වෙනුවෙන් ජනතාවට ඇමතුම් ලබාදිය හැකි බව පොලීසිය පවසයි.
+🟩
+
+Police have established a special disaster relief unit to provide relief to the people affected by adverse weather conditions.
+
+Accordingly, the people can call for disaster concessions on 011- 242 1820 and 011- 242 111 111 111 111 111 111 111.
 
 ◼️
 
 [Data](articles/80350a9f.json)
 
+[Extended Data](ext_articles/80350a9f.ext.json)
+
 ---
 
-### අපේම මිනිස්සු වෙනුවෙන් යුද්ධ හමුදාවෙන් හදිසි මෙහෙයුමක්
+### Army operations for our own people
 
 *2024-06-02 19:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197296) · `si`
 
-අයහපත් කාලගුණ තත්ත්වය සමග පීඩාවට පත් ජනතාවට වෙනුවෙන් සහන සැපයීම සඳහා සන්නද්ධ රථ 6ක් සහ යුනිකෝන් රථ 10ක් මේ වනවිට යුද්ධ හමුදාව විසින් යොමුකර තිබේ.
+The military has dispatched armored vehicles and "unicorn" vehicles to assist in disaster relief efforts in Kalutara, Matara, and Galle districts due to adverse weather conditions. Additionally, boats have been sent to various locations including Bohawala, Neluwa, and others for rescue operations. A military contingent has been stationed near the Kelani River for security purposes. The army is also providing essential supplies like food and launching medical and water supply operations for displaced individuals in Akuressa, Malimbada, Neluwa, and Ekala.
 
-යුද්ධ හමුදා මූලස්ථානය විසින් නිවේදනයක් නිකුත් කරමින් සඳහන් කළේ කළුතර, මාතර සහ ගාල්ල දිස්ත්‍රික්ක සඳහා එම රථ යොදවා ඇති බවය.
+🟩
 
-ඊට අමතරව මුදාගැනීමේ මෙහෙයුම් සඳහා අයගම, ගලතුරු ඔය, දෙහිඕවිට, මොරවක, තවලම, තිහගොඩ, නෙළුව, බද්දේගම සහ දිවිතුරාව ප්‍රදේශ සඳහා බෝට්ටු සමග යුද හමුදා කණ්ඩායම් යොමුකර තිබේ.
+The armored vehicles and 10 unicorn vehicles have been sent by the military to provide relief to the affected people with bad weather conditions.
 
-මේ අතර කැලණි ගඟේ ගං ඉවුරේ ආරක්ෂාව සඳහා වැලි කොට්ට ඇතිරීම සඳහා යුද්ධ හමුදා කණ්ඩායමක් කැලණිමුල්ල ප්‍රදේශය සඳහා යොමුකර ඇත.
+The army headquarters issued a statement that the vehicles were deployed for Kalutara, Matara and Galle districts.
 
-එසේම යුද්ධ හමුදාව විසින් මේ වනවිට අකුරැස්ස, මාලිම්බඩ, නෙළුව සහ සාලාව ප්‍රදේශවල අවතැන් වූ පිරිස් සඳහා ආහාර සැපයීම සඳහා අවශ්‍ය කටයුතු සිදුකරමින් පවතින බව එම නිවේදනයේ දැක්වෙයි.
+In addition, army teams have been directed with Boat for Bohawala, Neluwa, Neluwa, Neluwa, Neluwa, Neluwa, Neluwa, Neluwa, Neluwa, Neluwa, Neluwa, Neluwa, Neluwa, Neluwa, Neluwa, Neluwa, Neluwa, Leele, Baddegama and Neluwa.
 
-එම ප්‍රදේශවල අවතැන් වූ ජනතාව සඳහා අවශ්‍ය වෛද්‍ය පහසුකම් සහ පානීය ජලය සැපයීමට ද ප්‍රදේශවාසීන්ගේ ද සහාය ඇතුව යුද්ධ හමුදාව විශේෂ මෙහෙයුමක් දියත් කර ඇත.
+Meanwhile, a military batch of military person has been directed to Kelanimalulla area for security of the Kelani River River.
+
+The Army has also taken necessary food to provide food for displaced persons in Akuressa, Malimbada, Neluwa and Ekala areas.
+
+The army has launched a special operation to provide medical care and drinking water required for the displaced people in those areas.
 
 ◼️
 
 [Data](articles/e5aeaec1.json)
+
+[Extended Data](ext_articles/e5aeaec1.ext.json)
 
 ---
 
@@ -94,13 +164,15 @@ The general public can accordingly seek assistance and coordinate with other dis
 
 [Data](articles/44bbd7aa.json)
 
+[Extended Data](ext_articles/44bbd7aa.ext.json)
+
 ---
 
 ### Potential power suspensions due to inclement weather
 
 *2024-06-02 19:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Potential-power-suspensions-due-to-inclement-weather/108-283915) · `en`
 
-Colombo, June 1 (Daily Mirror) - The Ceylon Electricity Board (CEB) issued a public advisory over the suspending of power supply to several areas from time to time to avoid risking valuable lives.
+Colombo, June 02 (Daily Mirror) - The Ceylon Electricity Board (CEB) issued a public advisory over the suspending of power supply to several areas from time to time to avoid risking valuable lives.
 
 They said the decision was taken due to inclement weather conditions and over critical breakdowns and that life threatening situations will be given priority.
 
@@ -249,6 +321,18 @@ The Taiwan Athletics Open 2024, which was upgraded this year to a leg of the Wor
 [Data](articles/9331ec57.json)
 
 [Extended Data](ext_articles/9331ec57.ext.json)
+
+---
+
+### Appointment letters to UNP zonal organizers
+
+*2024-06-02 18:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Appointment-letters-to-UNP-zonal-organizers/110-283914) · `en`
+
+President Ranil Wickremesinghe handed over the letters of appointment to United National Party (UNP) zonal organizers at the party headquarters Sirikotha today. Pix by Kithsiri De Mel
+
+◼️
+
+[Data](articles/60bf8a89.json)
 
 ---
 
@@ -1838,6 +1922,8 @@ As per the instructions of the Army Commander, Security Forces Commanders have b
 
 *2024-06-02 11:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Live-updates-Adverse-weather/155-283899) · `en`
 
+7.31 PM - Police have set up two dedicated lines, 0112 421 820 and 0112 421 111, for individuals to contact for urgent assistance.
+
 6.01 PM - The Disaster Management Center reported seven fatalities due to the ongoing adverse weather conditions in the past 24 hours.
 
 3.58 PM - The Kaduwela-Biyagama interchange on the Southern Expressway has been closed for traffic to and from Kadawatha until further notice.
@@ -1847,8 +1933,6 @@ As per the instructions of the Army Commander, Security Forces Commanders have b
 2.58 PM - Traffic on the Colombo-Kandy main road came to a standstill following a tree collapse near Warakapola town.
 
 2.15 PM - The Ministry of Power & Energy has announced the disconnection of power supply to several areas in Galle, Kalutara, Ratnapura, Colombo, and Kegalle districts.
-
-01.20 PM - Army troops have been deployed in various areas to conduct rescue operations and provide relief to those affected by severe flooding in low-lying regions around the rivers, caused by adverse weather conditions across the island.
 
 ...
 
@@ -2013,95 +2097,5 @@ Police have investigated the incident and arrested the suspect and detained the 
 [Data](articles/91f81917.json)
 
 [Extended Data](ext_articles/91f81917.ext.json)
-
----
-
-### Special announcement from the Ministry of Education
-
-*2024-06-02 11:10:35* · [`adalk`](https://www.ada.lk/breaking_news/අධ්‍යාපන-අමාත්‍යාංශයෙන්-විශේෂ-නිවේදනයක්/11-409958) · `si`
-
-The Ministry of Education has stopped accepting applications for the 2024 intermediary series starting June 3. No further announcements were made regarding alternative application methods.
-
-🟩
-
-The Ministry of Education announced that the applications for the year 2024 would not be taken up from June 3 for the intermediary series of national schools. Accordingly, the Ministry of Education further states that the Ministry of Education or schools will be introduced.
-
-◼️
-
-[Data](articles/ef560afa.json)
-
-[Extended Data](ext_articles/ef560afa.ext.json)
-
----
-
-### Sri Lankan High Commissioner invites King Charles III to visit Sri Lanka
-
-*2024-06-02 11:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankan-High-Commissioner-invites-King-Charles-III-to-visit-Sri-Lanka/108-283897) · `en`
-
-London, June 2 (Daily Mirror) - Sri Lanka's High Commissioner to the United Kingdom, Rohitha Bogollagama, extended an invitation to King Charles III to visit Sri Lanka, while presenting his Letter of Credence at Buckingham Palace.
-
-Accompanied by his spouse, Deepthi Bogollagama, they arrived at the palace in traditional horse carriages from the Royal Mews.
-
-The Sri Lankan High Commission said that Bogollagama is the first Sri Lankan envoy to present credentials to King Charles III.
-
-On behalf of President Ranil Wickremesinghe, High Commissioner extended an invitation to the King to undertake a visit to Sri Lanka.
-
-Discussions during the audience centered on the enduring relations between the two countries, Sri Lanka's role in the Commonwealth, and the upcoming Commonwealth Heads of Government meeting in Samoa.
-
-...
-
-[Data](articles/c3b20b81.json)
-
-[Extended Data](ext_articles/c3b20b81.ext.json)
-
----
-
-### Major flood situation in Millakanda and Pitabeddara
-
-*2024-06-02 11:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/99590/major-flood-situation-in-millakanda-and-pitabeddara) · `en`
-
-Major flood situations have been reported in Millakanda area of Kalu River and Pitabeddara area of Nilwala River, the Department of Irrigation said.
-
-The department stated that several main roads Bulathsinhala – Kalutara road remain inundated as a result of the situation.
-
-The situation was caused by the torrential rainfall of 149.8mm received by the Millakanda area of Kuda Ganga basin of the Kalu River, according to the Irrigation Department.
-
-◼️
-
-[Data](articles/a9c20d5a.json)
-
-[Extended Data](ext_articles/a9c20d5a.ext.json)
-
----
-
-### Heavy Rain: 7 people die in 24 hours
-
-*2024-06-02 10:49:11* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cw88g2ndzg2o) · `si`
-
-In Sri Lankan society, being a single mom can be challenging due to cultural expectations, financial hardships, and lack of support systems. The Israeli-Gaza War involved intense conflict between Israel and Gaza, with significant casualties and destruction, particularly affecting civilians. The pearl mink refers to a unique breed of pig known for its valuable fur, which has been controversial due to ethical concerns surrounding animal farming practices.
-
-🟩
-
-The Disaster Management Center (DMC) states that seven persons have died during the 24-hour period due to the heavy rain weather.
-
-With the active of the southwest monsoon, the islanders are being raised to the Western, Sabaragamuwa Provinces as well as the Galle and Matara districts.
-
-The Disaster Management Center (DMC) said that the warnings of floods and landslides have been issued.
-
-The Ministry of Education has informed all government schools in the island tomorrow (June 3) due to the tight weather conditions.
-
-The Disaster Management Center (DMC) has announced that three people have been killed in the flood in Puwakpitiya area with heavy rain weather.
-
-The deceased has been identified as a 29 year old mother, her seven-year-old daughter and 78 years.
-
-The house was flooded by floods on the road near the house near the house today (02) in early morning.
-
-Meanwhile, two youths have also killed a 11 year old girl in the Hewahwarala area in Avissawella.
-
-...
-
-[Data](articles/b0a31001.json)
-
-[Extended Data](ext_articles/b0a31001.ext.json)
 
 ---

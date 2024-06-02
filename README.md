@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-02 23:53:36**
+As of **2024-06-03 00:18:49**
 
 ## Newspaper Stats
 
-*Scraped **27,956** Articles*
+*Scraped **27,959** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,40 @@ dbsjeyarajcom | 269
 bbccomsinhala | 275
 newsfirstlk | 363
 islandlk | 1,507
-economynextcom | 1,587
+economynextcom | 1,589
 dailyftlk | 1,635
 adalk | 2,386
 adaderanalk | 3,179
 tamilmirrorlk | 3,277
 virakesarilk | 4,312
-dailymirrorlk | 4,431
+dailymirrorlk | 4,432
 adaderanasinhalalk | 4,482
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,955 (100.0%) of 27,956 articles have been extended.
+27,956 (100.0%) of 27,959 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-02 (Sunday)
+
+### West Indies survive scare in tense win over Papua New Guinea in ICC T20 World Cup
+
+*2024-06-02 23:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/West-Indies-survive-scare-in-tense-win-over-Papua-New-Guinea-in-ICC-T20-World-Cup/108-283928) · `en`
+
+June 02 - West Indies were on the back foot against Papua New Guinea but Rostan Chase and Andre Russell added important runs to win the game for the co-hosts. Rovman Powell’s team was on the brink of a defeat before the two experienced batters took their team to a victory by five wickets.
+
+Windies completed the chase of 137 in 19 overs. For Papua New Guinea, Assad Vala took two wickets.
+
+Earlier, the visitors managed 136/8, with Sese Bau scoring 50. Alzarri Joseph and Russell took two scalps each.
+
+◼️
+
+[Data](articles/f7a99039.json)
+
+---
 
 ### President challenges opposition to put forward any alternate plan to advance Sri Lanka’s economy
 
@@ -47,6 +63,8 @@ Consequently, he encouraged anyone with such a plan to present it, and if not, t
 ...
 
 [Data](articles/ef782a67.json)
+
+[Extended Data](ext_articles/ef782a67.ext.json)
 
 ---
 
@@ -342,6 +360,26 @@ Dissanayake said the people, especially the youth took to the streets for common
 
 ---
 
+### Maldives overtakes UK as second largest tourist source amid VFS Global visa controversy
+
+*2024-06-02 21:26:00* · [`economynextcom`](https://economynext.com/maldives-overtakes-uk-as-second-largest-tourist-source-amid-vfs-global-visa-controversy-165812/) · `en`
+
+ECONOMYNEXT – The Maldives became the second largest source of tourists to Sri Lanka in May amid concerns that a bilateral visa exemption deal may be in violated after VFS Global, a private outsourcing contractor started charging fees.
+
+In the first 30 days of May Sri Lanka has welcomed 108,656 tourists up 30 percent from 83,309 a year earlier but down from 148,867 in April.
+
+A controversial deal with VFS Global which led foreigners and outsourced workers manning immigration point at the main airport, also resulted in a user-unfriendly website, as well as visas rising to 107 dollars from 51.
+
+Though a fight back by Tourism Minister Harin Fernando against the deal led to a 50-dollar visa being re-introduced, the problems with a user-unfriendly website remains with complaints continuing in online forums.
+
+A controversy has also blown up between Sri Lanka and Maldives after VFS Global started charging fees from Maldives visitors.
+
+...
+
+[Data](articles/cba8852d.json)
+
+---
+
 ### President
 
 *2024-06-02 21:02:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-அதிரடி-உத்தரவு/175-338310) · `ta`
@@ -493,6 +531,32 @@ President Ranil Wickremesinghe has instructed the Secretary of the Finance Minis
 [Data](articles/58cda635.json)
 
 [Extended Data](ext_articles/58cda635.ext.json)
+
+---
+
+### Vietnam Truc Lam Monastery in Sri Lanka takes meditation to all communities
+
+*2024-06-02 20:26:00* · [`economynextcom`](https://economynext.com/vietnam-truc-lam-monastery-in-sri-lanka-takes-meditation-to-all-communities-165803/) · `en`
+
+ECONOMYNEXT – Vietnam Truc Lam monastery in Kandy’s Ambakote area in Digana is promoting meditation and is attracting interest from Sri Lanka’s Sinhalese and Tamil communities as well as foreigners.
+
+On Vesak Day a newly built Danasala (refectory) and kuti (lodging) for monks were opened adding to the other buildings including the Main Hall, which were build earlier.
+
+Villagers were associated in the opening ceremony officiated by the Vietnam Ambassador to Sri Lanka Ho Thi Thanh Truc.
+
+Young people in the area and students are also closely involved with the temple.
+
+“When we first started the monastery, it was the children who came to see what this was about,” Venerable Dhammaloka Thero said.
+
+“They helped me plant trees. The parents came later and got involved in temple activities.”
+
+The monastery conducts English classes and Vietnamese classes for children and adults.
+
+“We had a 70 year old lady who came to study Vietnamese as well,” he says.
+
+...
+
+[Data](articles/dc8b4bab.json)
 
 ---
 
@@ -2051,65 +2115,5 @@ Namal Rajapaksa said the party had decided to provide one million rupees for the
 [Data](articles/b0d64088.json)
 
 [Extended Data](ext_articles/b0d64088.ext.json)
-
----
-
-### Complete conflicts in the Muslim Congress
-
-*2024-06-02 13:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/185118) · `ta`
-
-Conflict within the Sri Lanka Muslim Congress intensifies between two factions: one led by Ampara District Parliamentarians and another supporting Rauf Hakeem. The division threatens unity among Muslims in the region.
-
-🟩
-
-The conflict between the leader of the Sri Lanka Muslim Congress and the Ampara District Parliamentarians is strengthening. Ampara district parliamentarians in the Muslim Congress and their pro -local leaders are acting as a group. On the other hand, the high -ranking party members who have close and faith with Rauf Hakeem are acting as another group of local leaders.
-
-◼️
-
-[Data](articles/ebeac43f.json)
-
-[Extended Data](ext_articles/ebeac43f.ext.json)
-
----
-
-### 7 teams from the Army to rescue the affected people
-
-*2024-06-02 13:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197282) · `si`
-
-Seven military teams are dispatched to flood-hit regions including Kiriella, Dehiowita, Halawela Oya, Morawa, Thawalama Oya, Thawalama, Thawhagoda, and Neluwa. Soldiers are setting up cooking stations in Malimbada and Sale to feed the displaced. The Army Commander has tasked the Security Forces Ordinance with assisting the affected.
-
-🟩
-
-The army says seven teams have been deployed to rescue the people affected by floods.
-
-The army has issued an announcement, Kiriella, Dehiowita, Halawela Oya, Morawa, Thawalama Oya, Thawalama and Thawhagoda areas have been sent.
-
-A group of soldiers has also been sent to Neluwa area.
-
-Meanwhile, troops have commenced cooking stations to provide food for displaced persons in the Malimbada and Sale.
-
-Meanwhile, Army Commander Lieutenant General Visulent Vikiage has instructed the Security Forces Ordinance to prepare the resulted people.
-
-◼️
-
-[Data](articles/91032510.json)
-
-[Extended Data](ext_articles/91032510.ext.json)
-
----
-
-### Holiday for schools tomorrow
-
-*2024-06-02 13:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Holiday-for-schools-tomorrow/108-283902) · `en`
-
-Colombo, June 2 (Daily Mirror) - The Education Ministry has announced tomorrow as a school holiday due to the prevailing heavy rainy weather.
-
-Further days of holding schools will be announced by the Education Ministry following announcements by the Meteorology Department.
-
-◼️
-
-[Data](articles/25773927.json)
-
-[Extended Data](ext_articles/25773927.ext.json)
 
 ---

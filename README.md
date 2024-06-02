@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-02 17:54:44**
+As of **2024-06-02 18:22:39**
 
 ## Newspaper Stats
 
-*Scraped **27,902** Articles*
+*Scraped **27,907** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,60 @@ economynextcom | 1,587
 dailyftlk | 1,635
 adalk | 2,379
 adaderanalk | 3,173
-tamilmirrorlk | 3,272
+tamilmirrorlk | 3,273
 virakesarilk | 4,300
-dailymirrorlk | 4,421
-adaderanasinhalalk | 4,468
+dailymirrorlk | 4,423
+adaderanasinhalalk | 4,470
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,897 (100.0%) of 27,902 articles have been extended.
+27,902 (100.0%) of 27,907 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-02 (Sunday)
+
+### கடுவெல - பியகம இடைமாற்றம் மூடப்பட்டது
+
+*2024-06-02 18:12:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடுவெல-பியகம-இடைமாற்றம்-மூடப்பட்டது/175-338307) · `ta`
+
+தெற்கு அதிவேக நெடுஞ்சாலையில் கடுவெல - பியகம இடைமாற்றம் பிரதேசம் மறு அறிவித்தல் மூடப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/786137d7.json)
+
+---
+
+### අපේ තරුෂිට සුපිරි ජයක්
+
+*2024-06-02 18:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197294) · `si`
+
+තායිවාන විවෘත මලල ක්‍රීඩා තරගාවලියේ කාන්තා මීටර් 800 ඉසව්වේ ප්‍රථම ස්ථානය ශ්‍රී ලංකාවේ තරුෂි කරුණාරත්න හිමිකරගෙන තිබේ.
+
+◼️
+
+[Data](articles/6757de3e.json)
+
+---
+
+### දුම්රිය ගමන්වාර රැසකට බාධා
+
+*2024-06-02 17:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197293) · `si`
+
+අයහපත් කාලගුණික තත්ත්වය සමග ප්‍රධාන මාර්ගය, මුහුදුබඩ මාර්ගය සහ පුත්තලම මාර්ගය ස්ථාන කිහිපයක් ජලයෙන් යටවීම නිසා සංඥා පද්ධතියේ දෝෂ ඇතිවීම හේතුවෙන් දුම්රිය ප්‍රමාදයන් කිහිපයක් දක්නට ලැබෙන බව දුම්රිය දෙපාර්තමේන්තුව පවසයි.
+
+දුම්රිය සාමාන්‍යාධිකාරී ඉඳිපොලගේ මහතා පැවසුවේ බොහෝ දුම්රිය ස්ථානවල දුම්රිය මාර්ගයට ගස් කඩාවැටීම හේතුවෙන් දුම්රිය ධාවනයට බාධා එල්ලවී ඇති බවය.
+
+වග සහ කොස්ගම දුම්රිය ස්ථාන අතර පාලමක් ජලයෙන් ගසාගෙන යාම හේතුවෙන් මේ වනවිට කැලණිවැලි මාර්ගයේ දුම්රිය ධාවනය වග දුම්රිය ස්ථානය දක්වා සීමා කර ඇත.
+
+◼️
+
+[Data](articles/073f5375.json)
+
+---
 
 ### South Africa’s ANC rejects demand for Ramaphosa to step down for coalition talks
 
@@ -45,6 +85,8 @@ As South Africa heads for a series of complex talks to form a national coalition
 ...
 
 [Data](articles/6d067dfa.json)
+
+[Extended Data](ext_articles/6d067dfa.ext.json)
 
 ---
 
@@ -66,19 +108,37 @@ Boris Johnson, who won the conservative party, was forced to rule over. He was t
 
 ---
 
-### නවතම නායයාමේ අනතුරු ඇඟවීම නිකුත් කරයි
+### Latest landslide warning issued
 
 *2024-06-02 17:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197292) · `si`
 
-ජාතික ගොඩනැගිලි පර්යේෂණ සංවිධානය විසින් නවතම නායයාමේ අනතුරු ඇඟවීමේ නිවේදනය නිකුත් කර තිබේ.
+The National Building Research Organization has issued landslide warnings for several districts including Ratnapura, Matara, Kurunegala, Kalutara, Hambantota, and Colombo, with specific areas like Peluvenala, Inlanda, Warakahala, Kaluwela, and Kalawana receiving the highest level of red warnings.
 
-එම නිවේදනයට අනුව රත්නපුර, නුවරඑළිය, මාතර, කුරුණෑගල, කෑගල්ල, නුවර, කළුතර, හම්බන්තොට, ගාල්ල, සහ කොළඹ දිස්ත්‍රික්ක සඳහා අනතුරු ඇඟවීම සිදුකර ඇත.
+🟩
 
-මේ අතර එම නිවෙදනය හරහා පාදුක්ක, පාලින්දනුවර, මතුගම, බුලත්සිංහල, ඉංගිරිය, රුවන්වැල්ල, දෙහිඕවිට, දැරණියගල, වරකාපොල, යටියන්තොට, රත්නපුර, අයගම, පැල්මඩුල්ල, කුරුවිට, ඇලපාත, නිවිතිගල, කලවාන, කිරිඇල්ල සහ ඇහැළියගොඩ ප්‍රදේශ සඳහා තුන්වන මට්ටමේ රතු අනතුරු ඇඟවීම් නිකුත් කර තිබේ.
+The National Building Research Organization has issued the latest landslide warning announcement.
+
+According to the announcement, Ratnapura, Matara, Matara, Kurunegala, Kurunegala, Kalutara, Hambantota, Hambantota, Hambantota, Hambantota, Hambantota and Colombo districts have been warned.
+
+Meanwhile, the reputation issues the third level of red warnings for Peluvenala, Inlanda, Warakahala, Warakahala, Kaluwela, Ratnapura, Kalawana, Kalawana, Kalawana, Kalawana, Kalawana, Kalawana, Kalawana, Kalalla and EhewanaellaHas been done.
 
 ◼️
 
 [Data](articles/b3ff240d.json)
+
+[Extended Data](ext_articles/b3ff240d.ext.json)
+
+---
+
+### Several areas in Colombo inundated...
+
+*2024-06-02 17:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Several-areas-in-Colombo-inundated/110-283913) · `en`
+
+Several areas around Colombo came under water due to heavy rains experienced in Colombo. Pix by Nisal Baduge
+
+◼️
+
+[Data](articles/cf6f82a6.json)
 
 ---
 
@@ -115,6 +175,26 @@ The government has been forced to intensify efforts to recover and bring former 
 [Data](articles/b22e8667.json)
 
 [Extended Data](ext_articles/b22e8667.ext.json)
+
+---
+
+### Extreme weather claims seven lives in past 24 hours
+
+*2024-06-02 16:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Extreme-weather-claims-seven-lives-in-past-24-hours/108-283911) · `en`
+
+Colombo, June 02 (Daily Mirror) -  The Disaster Management Center reported seven fatalities due to the ongoing adverse weather conditions in the past 24 hours.
+
+Meanwhile, the Health Ministry has directed all provincial health directors to remain alert and make necessary directive to ensure the safety of people and the smooth function of the hospitals.
+
+Health Ministry Secretary Dr Palitha Mahipala said he is currently on an inspection tour in the Matara area given the severity of the weather condition in the Southern district.
+
+“All arrangements have been made to airlift patients in critical conditions for further treatment,” he said.
+
+He also advised general public not to visit places which have been affected by the bad weather conditions.
+
+◼️
+
+[Data](articles/2d42a98d.json)
 
 ---
 
@@ -212,21 +292,27 @@ Therefore, the Matara District Disaster Committee met yesterday evening yesterda
 
 ---
 
-### ரஞ்சித்துக்கு ஐ.தே.க உறுப்புரிமை
+### UNP membership for Ranjith
 
 *2024-06-02 16:41:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரஞ்சித்துக்கு-ஐ-தே-க-உறுப்புரிமை/175-338302) · `ta`
 
-எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாஸ தலைமையிலான ஐக்கிய மக்கள் சக்தியின் பொதுச் செயலாளரும், பாராளுமன்ற உறுப்பினருமான ரஞ்சித் மத்தும பண்டாரவுக்கு கட்சியின் உறுப்புரிமை​யை வழங்கி,
+After being suspended in 2020, Ranjith Mathuma Bandara, General Secretary of the United People's Power under Opposition Leader Sajith Premadasa, rejoined the United National Party (UNP). This decision was made during a UNP Executive Committee meeting chaired by President Ranil Wickremesinghe at the party's headquarters.
 
-கட்சியில் மீள இணைத்துக் கொள்ள ஐக்கிய தேசியக் கட்சியின் செயற்குழு ஞாயிற்றுக்கிழமை (02) தீர்மானித்துள்ளது.
+🟩
 
-ரஞ்சித் மத்தும பண்டாரவின் கட்சி உறுப்புரிமையை ஐக்கிய தேசியக் கட்சி   2020 இல் இடைநிறுத்தியது.
+Ranjith Mathuma Bandara, the General Secretary of the United People's Power, led by Opposition Leader Sajith Premadasa, gave the party membership.
 
-ஐக்கிய தேசியக் கட்சியின் தலைவரும் ஜனாதிபதியுமான ரணில் விக்கிரமசிங்க தலைமையில்   கட்சியின் தலைமையகமான சிறிகொத்தாவில், ஞாயிற்றுக்கிழமை (02) கூடிய  செயற்குழுக் கூட்டத்திலேயே இந்தத் தீர்மானம் எட்டப்பட்டுள்ளது.
+The United National Party (UNP) Executive Committee has decided on Sunday (02) to join the party.
+
+The United National Party (UNP) suspended the party membership of Ranjith Mathuma Bandara in 2020.
+
+The resolution was reached at a meeting of the party headed by United National Party (UNP) leader and president Ranil Wickremesinghe at the party headquarters in Sirikotha on Sunday (02).
 
 ◼️
 
 [Data](articles/90d5f352.json)
+
+[Extended Data](ext_articles/90d5f352.ext.json)
 
 ---
 
@@ -321,6 +407,8 @@ The Kaduwela-Biyagama interchange of the Southern Expressway has been closed to 
 ◼️
 
 [Data](articles/07f22d14.json)
+
+[Extended Data](ext_articles/07f22d14.ext.json)
 
 ---
 
@@ -1454,6 +1542,8 @@ As per the instructions of the Army Commander, Security Forces Commanders have b
 
 *2024-06-02 11:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Live-updates-Adverse-weather/155-283899) · `en`
 
+6.01 PM - The Disaster Management Center reported seven fatalities due to the ongoing adverse weather conditions in the past 24 hours.
+
 3.58 PM - The Kaduwela-Biyagama interchange on the Southern Expressway has been closed for traffic to and from Kadawatha until further notice.
 
 3.01 PM - Train services on the Kelani Valley line have been severely disrupted following the collapse of a bridge between Waga and Kosgama.
@@ -1463,8 +1553,6 @@ As per the instructions of the Army Commander, Security Forces Commanders have b
 2.15 PM - The Ministry of Power & Energy has announced the disconnection of power supply to several areas in Galle, Kalutara, Ratnapura, Colombo, and Kegalle districts.
 
 01.20 PM - Army troops have been deployed in various areas to conduct rescue operations and provide relief to those affected by severe flooding in low-lying regions around the rivers, caused by adverse weather conditions across the island.
-
-Troops have been deployed to Kiriella, Dehiowita, Moravaka, Thawalama, Thihagoda, and Neluwa areas.
 
 ...
 
@@ -1690,27 +1778,35 @@ The situation was caused by the torrential rainfall of 149.8mm received by the M
 
 ---
 
-### අධික වැසි: ගත වූ පැය 24 තුළ පුද්ගලයින් 7 දෙනෙකු මියයයි
+### Heavy Rain: 7 people die in 24 hours
 
 *2024-06-02 10:49:11* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cw88g2ndzg2o) · `si`
 
-අධික වැසි සහිත කාලගුණය සමග ඇතිවු ආපදා හේතුවෙන් ගතවූ පැය 24ක කාලය තුලදී පුද්ගලයින් 07 දෙනෙකු ජීවිතක්ෂයට පත්ව ඇති බව ආපදා කළමනාකරණ මධ්‍යස්ථානය සඳහන් කර සිටියි.
+In Sri Lankan society, being a single mom can be challenging due to cultural expectations, financial hardships, and lack of support systems. The Israeli-Gaza War involved intense conflict between Israel and Gaza, with significant casualties and destruction, particularly affecting civilians. The pearl mink refers to a unique breed of pig known for its valuable fur, which has been controversial due to ethical concerns surrounding animal farming practices.
 
-නිරිත දිග මෝසම් වර්ෂාව සක්‍රීය වීමත් සමග දිවයිනේ බස්නාහිර, සබරගමුව පළාත් වලට මෙන්ම ගාල්ල සහ මාතර දිස්ත්‍රික්ක වෙත මේවන විටත් ධාරාණිපාත වැසි ලැබෙමින් පවතී.
+🟩
 
-පවතින තත්ත්වය මත ගංවතුර මෙන්ම නාය යාමේ අවදානම් පිළිබඳව අනතුරු ඇඟවීම් නිකුත් කර ඇති බව  ආපදා කළමනාකරණ මධ්‍යස්ථානය පැවසීය.
+The Disaster Management Center (DMC) states that seven persons have died during the 24-hour period due to the heavy rain weather.
 
-මේ අතර පවතින තදවැසි සහිත කාලගුණ තත්ත්වය හේතුවෙන්  හෙට (ජුනි මස 03 වෙනිදා) දිවයිනේ සියලුම රජයේ පාසල් වසා තැබෙන බව අධ්‍යාපන අමාත්‍යාංශය නිවේදනයක් නිකුත් කරමින් දැනුම් දී සිටියි.
+With the active of the southwest monsoon, the islanders are being raised to the Western, Sabaragamuwa Provinces as well as the Galle and Matara districts.
 
-අධික වැසි සහිත කාලගුණය සමග සීතාවක, පුවක්පිටිය ප්‍රදේශයේදී ගංවතුරට හසුවී එකම පවුලේ තිදෙනෙකු මියගොස් ඇති බව අපදා කළමනාකරණ මධ්‍යස්ථානය නිවේදනය කර සිටියි.
+The Disaster Management Center (DMC) said that the warnings of floods and landslides have been issued.
 
-එලෙස මියගොස් ඇත්තේ, වයස අවුරුදු 29ක මවක්, ඇයගේ සත් හැවිරිදි දියණිය සහ 78 හැවිරිදි මුත්තනුවන්ය.
+The Ministry of Education has informed all government schools in the island tomorrow (June 3) due to the tight weather conditions.
 
-අද ( ජුනි මස 02 වෙනිදා) අලුයම් කාලයේ දී අදාළ නිවස ආසන්නයේ ඇති ඇළ මාර්ගයේ ගංවතුර තත්ත්වයක් ඇතිවීමෙන් නිවස ජලයෙන් යටවී ඔවුන් මියගොස් තිබේ.
+The Disaster Management Center (DMC) has announced that three people have been killed in the flood in Puwakpitiya area with heavy rain weather.
+
+The deceased has been identified as a 29 year old mother, her seven-year-old daughter and 78 years.
+
+The house was flooded by floods on the road near the house near the house today (02) in early morning.
+
+Meanwhile, two youths have also killed a 11 year old girl in the Hewahwarala area in Avissawella.
 
 ...
 
 [Data](articles/b0a31001.json)
+
+[Extended Data](ext_articles/b0a31001.ext.json)
 
 ---
 
@@ -2011,119 +2107,5 @@ The hylide traffic train from Kosgama to Avissawella has stopped due to floods.
 [Data](articles/3828ede8.json)
 
 [Extended Data](ext_articles/3828ede8.ext.json)
-
----
-
-### A special meeting of the SLFP is today
-
-*2024-06-02 09:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197271) · `si`
-
-A special meeting of the Sri Lanka Freedom Party (SLFP), including its central committee, is set for today at 2 pm at the party's headquarters in Colombo. However, former SLFP Chairman Maithripala Sirisena claims the meetings are illegal and undisciplined.
-
-🟩
-
-A special central committee meeting and a meeting of the Sri Lanka Freedom Party (SLFP) is scheduled to be held today (02).
-
-The Treasurer Minister of Treasurer Lasantha Alagiyawanna stated that the meetings will be held at the Sri Lanka Freedom Party headquarters at Dali Road, Colombo at 2 pm.
-
-However, former Sri Lanka Freedom Party (SLFP) former President of the Sri Lanka Freedom Chairman Maithripala Sirisena stated that the meetings held today is illegal and discipline.
-
-◼️
-
-[Data](articles/b7ccd1c9.json)
-
-[Extended Data](ext_articles/b7ccd1c9.ext.json)
-
----
-
-### Four killed in Avissawella
-
-*2024-06-02 09:16:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அவிசாவளையில்-நால்வர்-பலி/175-338259) · `ta`
-
-In Sitawaka, four deaths occurred due to heavy rains flooding 11 areas. A family of three drowned in Avissawella, and another died from a soil collapse.
-
-🟩
-
-Four people have been killed in the Sitawaka Divisional Secretariat Division due to unexpected rains and people have been flooded with 11 Grama Niladhari areas, the Colombo District Disaster Management Unit said.
-
-The same division said that three members of the same family were drowned in the southern village officer of Avissawella, and one person died in the collapse of a soil
-
-◼️
-
-[Data](articles/cd42b6ce.json)
-
-[Extended Data](ext_articles/cd42b6ce.ext.json)
-
----
-
-### 6 months to resolve the university non-academic salary issue. 1100 needs
-
-*2024-06-02 09:12:41* · [`adalk`](https://www.ada.lk/breaking_news/සරසවි-අනධ්‍යන-වැටුප්-ගැටලුව-විසඳන්න-මාස-6ට-රු-මි--1100ක්-අවශ්‍යයි/11-409954) · `si`
-
-Dr. Suren Sanghavan, State Minister of Higher Education, announced that the government will discuss the demands of university staff, including salary increases, which are expected to cost around 1.1 billion rupees over six months. He expressed concern over the financial impact and the need for a swift resolution, emphasizing the importance of finding a middle ground. The matter will be discussed further on Monday, involving President Ranil Wickremesinghe and relevant ministries.
-
-🟩
-
-State Minister of Higher Education Dr. Suren Sanghavan said that the prospect of the university members of the university organizations on several demands will be discussed on Monday.
-
-He added that President Ranil Wickremesinghe and the government will bow the best solution in this regard.
-
-State Minister of Higher Education Dr. Suren Sanghajeew made this statement participating at a press conference held at the Head of Measures.
-
-University allegations engage in strike. It is unfortunate that this is unfortunate. The future student generation is stressed by this. This is a direct financial loss for about 150 million rupees due to this trade union action. It must be said that it was a waste of 1.8 million in human days. Therefore, we do not need to waste the government to waste another hour.
-
-...
-
-[Data](articles/3a1e8271.json)
-
-[Extended Data](ext_articles/3a1e8271.ext.json)
-
----
-
-### The country cannot be built - Anuragumara
-
-*2024-06-02 09:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/185085) · `ta`
-
-Anurakumara Dissanayake, leader of the National People's Power and Colombo District Parliamentarian, addressed engineers, highlighting their crucial role in rebuilding the disrupted nation. He emphasized the underutilization of engineers' skills, suggesting that if fully harnessed, it could prevent the current state of chaos. He called for a long-term transformation effort, inviting all, including those who've left the country, to contribute to this change.
-
-🟩
-
-The leader of the National People's Power and the Colombo District Parliamentarian Anurakumara Dissanayake said that the completely disrupted country cannot be built on the one hand.
-
-He said this while addressing the conference of the Department of Department of Department of Department of Department of Department of Personal Engineers on Saturday (1) in Colombo.
-
-The role of engineers is very important in the country -based experts. In particular, different departmental engineers are achievers. The country does not fully embrace their skills. If so, the current conditions in the country would not have occurred.
-
-The country has completely disrupted. If the country is rebuilt. But some people in the country are seeking to make the country. It is not going to be possible for a long time.
-
-Therefore, if a long -standing transformation is to create a change from the basis. I invite everyone to take part in that change. I am also calling for the departments who have left the country.
-
-◼️
-
-[Data](articles/ab38709d.json)
-
-[Extended Data](ext_articles/ab38709d.ext.json)
-
----
-
-### Youth killed in mound
-
-*2024-06-02 08:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197270) · `si`
-
-In Avissawella, a 11-year-old girl was tragically killed in Hewahinna. Additionally, six individuals perished within 24 hours due to severe weather conditions.
-
-🟩
-
-A small girl was killed and a small girl was killed in the Hewahinna area in Avissawella.
-
-The deceased has been identified as a 11 year old girl.
-
-Six people 24 of the 24 hours have died due to inclement weather.
-
-◼️
-
-[Data](articles/a960916b.json)
-
-[Extended Data](ext_articles/a960916b.ext.json)
 
 ---

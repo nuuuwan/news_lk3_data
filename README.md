@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-02 07:24:59**
+As of **2024-06-02 08:15:58**
 
 ## Newspaper Stats
 
-*Scraped **27,782** Articles*
+*Scraped **27,784** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 1,507
 economynextcom | 1,585
 dailyftlk | 1,635
 adalk | 2,365
-adaderanalk | 3,158
-tamilmirrorlk | 3,255
+adaderanalk | 3,159
+tamilmirrorlk | 3,256
 virakesarilk | 4,282
 dailymirrorlk | 4,401
 adaderanasinhalalk | 4,441
@@ -26,11 +26,31 @@ adaderanasinhalalk | 4,441
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,775 (100.0%) of 27,782 articles have been extended.
+27,780 (100.0%) of 27,784 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-02 (Sunday)
+
+### Very heavy showers above 150mm expected - Met. Dept.
+
+*2024-06-02 07:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/99587/very-heavy-showers-above-150mm-expected-met-dept) · `en`
+
+The Department of Meteorology says prevailing showery conditions are expected to continue in the south-western part of the island today.
+
+Showers or thundershowers will occur at times in Western, Sabaragamuwa, Central and Southern provinces while several spells of showers may occur in North-western province.
+
+Very heavy showers above 150 mm are likely at some places in Western and Sabaragamuwa provinces and in Galle and Matara districts, it warned.
+
+Showers or thundershowers may occur at several places elsewhere of the island.
+
+General public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/65a69429.json)
+
+---
 
 ### Showers over 150mm
 
@@ -99,6 +119,28 @@ Kayts police are conducting further investigations into the incident. (A)
 [Data](articles/25e2be5a.json)
 
 [Extended Data](ext_articles/25e2be5a.ext.json)
+
+---
+
+### 108,665 tourists visit
+
+*2024-06-02 00:04:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/108-665-சுற்றுலாப்-பயணிகள்-வருகை/175-338253) · `ta`
+
+Last month, the country saw a record 1,086,665 tourists, including 31,225 from India, 7,984 from the Maldives, 7,374 from Germany, and 7,848 from Britain.
+
+🟩
+
+One million 8 thousand 665 tourists arrived in the country last month alone
+
+According to a statement issued by the council, the number of tourists from India continues to increase.
+
+31 thousand 225 from India, 7 thousand 984 from the Maldives, 7 thousand 374 from Germany and 7 thousand 848 from Britain.. (A)
+
+◼️
+
+[Data](articles/0088d90b.json)
+
+[Extended Data](ext_articles/0088d90b.ext.json)
 
 ---
 
@@ -304,6 +346,8 @@ Jesus fed 5,000 with two fishes and five loaves (Mathew 14:13-21) and you may re
 
 [Data](articles/e1b6a692.json)
 
+[Extended Data](ext_articles/e1b6a692.ext.json)
+
 ---
 
 ### World Bank, IMF deepen effort to scale up climate action
@@ -357,6 +401,8 @@ With elections coming up in a few months’ time – notwithstanding Palitha Ran
 ...
 
 [Data](articles/16cf1021.json)
+
+[Extended Data](ext_articles/16cf1021.ext.json)
 
 ---
 
@@ -646,6 +692,8 @@ Castellani’s name appeared in such reference books as “Who’s Who”, the �
 
 [Data](articles/7b65ee67.json)
 
+[Extended Data](ext_articles/7b65ee67.ext.json)
+
 ---
 
 ### Those who don’t like development call Elon Musk an economic hitman: Manusha
@@ -725,6 +773,8 @@ Each school day started with a standard set of prayers. A 90-minute catechism cl
 ...
 
 [Data](articles/ad161b9a.json)
+
+[Extended Data](ext_articles/ad161b9a.ext.json)
 
 ---
 
@@ -2257,49 +2307,5 @@ Police Media Spokesperson Deputy Inspector General of Police Nihal Talduwa said 
 [Data](articles/dd4111b1.json)
 
 [Extended Data](ext_articles/dd4111b1.ext.json)
-
----
-
-### Shanaka takes 4 as Sri Lanka ease past Ireland
-
-*2024-06-01 09:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Shanaka-takes-4-as-Sri-Lanka-ease-past-Ireland/108-283873) · `en`
-
-Former captain Dasun Shanaka bagged a four-wicket haul as Sri Lanka avoided a scare to win comprehensively against Ireland in their T20 World Cup warm-up match played at Lauderhill, Florida, yesterday.
-
-After being invited to bat first, Sri Lanka made a steady start but lost two wickets in the fourth over as Josh Little claimed a quickfire double breakthrough, with Kusal Mendis followed back to the pavilion by namesake Kamindu.
-
-Captain Wanindu Hasaranga (26) and Shanaka (23) made starts, but Ireland’s attack remained disciplined, and Sri Lanka were wobbling on 125 for seven when the latter fell to Barry McCarthy (2/31).
-
-Angelo Mathews called on all his experience with an unbeaten 32 to steer his side to a competitive total of 163/8 in their 20 overs. Barry McCarthy (2/31) and Josh Little (2/45) claimed two wickets each.
-
-...
-
-[Data](articles/11d2a4d1.json)
-
-[Extended Data](ext_articles/11d2a4d1.ext.json)
-
----
-
-### Arrest by someone with domestic rifle
-
-*2024-06-01 09:04:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/உள்நாட்டு-துப்பாக்கியுடன்-ஒருவர்-கைது/76-338230) · `ta`
-
-A 33-year-old man was arrested in Nuwara Eliya's Ambewala for possessing a domestically made gun found during a police raid. He will be presented at the Nuwara Eliya District Magistrate's Court for further proceedings.
-
-🟩
-
-A man has been arrested yesterday (31) with a locally manufactured gun from a house in Ambewela area, police said.
-
-A 33 -year -old man from Nuwara Eliya Ambewala has been arrested.
-
-According to confidential information available to the Nuwara Eliya police, the police have recovered a gun that had been hidden in the house after a raid on the house.
-
-The Nuwara Eliya police said that the suspect is being produced at the Nuwara Eliya District Magistrate's Court after further inquiries.. Remble
-
-◼️
-
-[Data](articles/3c61eef3.json)
-
-[Extended Data](ext_articles/3c61eef3.ext.json)
 
 ---

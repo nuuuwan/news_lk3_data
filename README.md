@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-02 13:04:05**
+As of **2024-06-02 13:18:54**
 
 ## Newspaper Stats
 
-*Scraped **27,832** Articles*
+*Scraped **27,837** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 1,507
 economynextcom | 1,587
 dailyftlk | 1,635
 adalk | 2,370
-adaderanalk | 3,163
-tamilmirrorlk | 3,262
+adaderanalk | 3,166
+tamilmirrorlk | 3,264
 virakesarilk | 4,286
 dailymirrorlk | 4,410
 adaderanasinhalalk | 4,453
@@ -26,11 +26,85 @@ adaderanasinhalalk | 4,453
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,832 (100.0%) of 27,832 articles have been extended.
+27,832 (100.0%) of 27,837 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-02 (Sunday)
+
+### Kelani River reaches flood level
+
+*2024-06-02 13:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/99594/kelani-river-reaches-flood-level) · `en`
+
+The water level of the Kelani River has reached flood level in the Kelanimulla area, the Department of Irrigation announced.
+
+Accordingly, the general public living in the area are advised to remain cautious, the department said.
+
+◼️
+
+[Data](articles/b0104044.json)
+
+---
+
+### பாடசாலைகளுக்கு நாளை விடுமுறை
+
+*2024-06-02 12:53:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாடசாலைகளுக்கு-நாளை-விடுமுறை/175-338278) · `ta`
+
+தற்போது நிலவும் வெள்ளம் மற்றும் மோசமான காலநிலை காரணமாக நாளை (03) முதல் பாடசாலைகளை மூடும் அதிகாரம் மாகாண கல்வி அதிகாரிகளுக்கு வழங்கப்பட்டுள்ளதாக கல்வி அமைச்சு தெரிவித்துள்ளது.
+
+கனமழையுடன் ஆறுகள் பெருக்கெடுத்து ஓடியதாலும் தாழ்வான பகுதிகள் வெள்ளத்தில் மூழ்கியதாலும் பயண நடவடிக்கைகள் தடைபட்டதாலும் இந்த முடிவு எடுக்கப்பட்டுள்ளதாக கல்வி அமைச்சு மேலும் தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/5761e770.json)
+
+---
+
+### All schools closed tomorrow
+
+*2024-06-02 12:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/99593/all-schools-closed-tomorrow) · `en`
+
+The Ministry of Education has decided that all schools across the island will remain closed tomorrow, according to State Minister of Education Aravind Kumar.
+
+He said the decision has been reached in consideration of the prevailing adverse weather conditions across Sri Lanka.
+
+It was previously announced that the Provincial Education Secretaries and Directors have been authorised to make a decision on whether or not to hold schools tomorrow (June 03).
+
+However, it has now been decided to close all government schools islandwide due to the prevailing inclement weather conditions.
+
+◼️
+
+[Data](articles/63b9af07.json)
+
+---
+
+### சிறுமி துஷ்பிரயோகம்: தப்பியோடியவருக்கு வலை
+
+*2024-06-02 12:26:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறுமி-துஷ்பிரயோகம்-தப்பியோடியவருக்கு-வலை/175-338275) · `ta`
+
+சிறுமி ஒருவரை பாலியல் துஷ்பிரயோகத்துக்கு உட்படுத்தி அவரை படுகொலைச் செய்தார் என்றக் குற்றச்சாட்டில் கைது செய்யப்பட்டு, நீதிமன்ற உத்தரவின் பிரகாரம்  வவுனியா வைத்தியசாலையில் ​அனுமதிக்கப்பட்டிருந்த நிலையில், தப்பியோடிய சிறைச்சாலை கைதி ஒருவர் தொடர்பில் தலைமன்னார் பொலிஸார், பொதுமக்களிடம் உதவி கோரியுள்ளனர்.
+
+இவர், தலைமன்னார் பொலிஸ் பிரிவுக்குட்பட்ட பகுதியில் 9 வயது சிறுமியை  பெப்ரவரி மாதம் 15ஆம் திகதி பாலியல் துஷ்பிரயோகம் செய்தார் என்ற குற்றச்சாட்டில் கைது  செய்யப்ட்டு மன்னார் நீதிமன்றில் ஆஜர்படுத்தப்பட்ட பின்னர் விளக்கமறியலில் வைக்கப்பட்டிருந்தார்.
+
+புகைப்படத்தில் காணப்படும் இந்த நபர் தொடர்பில் தகவல்கள் கிடைத்தால் 0718591364 அல்லது 0718591370 ஆகிய இலக்கங்களுடன் தொடர்புகொண்டு அறிவிக்குமாறு கேட்டுக்கொண்டுள்ளனர்.
+
+◼️
+
+[Data](articles/95e958a3.json)
+
+---
+
+### Notice issued on functioning of schools tomorrow
+
+*2024-06-02 12:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/99592/notice-issued-on-functioning-of-schools-tomorrow) · `en`
+
+The Provincial Education Secretaries and Directors have been authorised to make a decision on whether or not to hold schools tomorrow (June 03) due to the prevailing adverse weather conditions across the island, State Minister of Education Aravindh Kumar said.
+
+◼️
+
+[Data](articles/b2c975fc.json)
+
+---
 
 ### Police sergeant arrested
 
@@ -2085,117 +2159,5 @@ He said that 452,979 candidates appeared for the exam this year, including 387,6
 [Data](articles/1f9dcbb6.json)
 
 [Extended Data](ext_articles/1f9dcbb6.ext.json)
-
----
-
-### SL’s first film  commissioning company set up by young Lankan
-
-*2024-06-01 16:12:00* · [`islandlk`](http://island.lk/sls-first-film-commissioning-company-set-up-by-young-lankan/) · `en`
-
-In what could be an unexpected boost to Sri Lanka’s ailing film industry, young Harindu Gunawardena has established the first ever film commissioning body, Rogue Element Limited — a first for a Sri Lankan.Gunawardena, the company’s Executive Producer, has set his sights on intertwining original global narratives with local culture while targeting foreign film productions within Sri Lanka.
-
-With a mission to elevate local storytelling to international standards, Rogue Element is dedicated to nurturing local talent and amplifying their voices on a global stage, Harindu told the Sunday Island. By collaborating with both the Sri Lankan government and local production houses, the company aims to create a conducive environment for cinematic excellence to flourish, he said.
-
-...
-
-[Data](articles/ccef37c6.json)
-
-[Extended Data](ext_articles/ccef37c6.ext.json)
-
----
-
-### In the next 50 years, the Public Library will be the site of inventions and researchers in the Batticaloa district - Sivanesathurai Chandrakanthan
-
-*2024-06-01 16:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/185057) · `ta`
-
-Over the next 50 years, Batticaloa's public library will emerge as a hub for invention and research, thanks to the efforts of Minister Sivanesathurai Chandrakanthan. The library's construction is complete, and a book collection drive has commenced, aiming to make it a significant Asian library. This initiative is part of broader efforts to enhance education and innovation in the region, supported by various local and international figures.
-
-🟩
-
-The Minister of State for the next 50 years will be a place of inventions and researchers in the Batticaloa district, said Minister of State Sivanesathurai Chandrakanthan.
-
-The work of collecting books has been started on Saturday through the Book Festival event to collect books for the great library of Asia in Batticaloa.
-
-With the efforts of the Minister of State Chandrakanthan, the massive library is being set up in Batticaloa and its construction work has been completed and the collection work has begun.
-
-The event was chaired by the Chairman of the Batticaloa Library Book Resources Coordinating Committee and the Chief Guest of the event was the chief guest at the event.
-
-Batticaloa District Government Agent JJ ​​Muralitharan, Batticaloa Municipal Council Commissioner Andri Sivalingam, Director of Vavuniya Teaching Hospital Dr. Sukunan and Ananda Swamis from India were present.
-
-...
-
-[Data](articles/5cc60390.json)
-
-[Extended Data](ext_articles/5cc60390.ext.json)
-
----
-
-### GCE (O/L) 2023 results to be released by September
-
-*2024-06-01 15:58:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/GCE-OL-2023-results-to-be-released-by-September/108-283884) · `en`
-
-Colombo, June 1 (Daily Mirror) - The results of the GCE Ordinary Level (O/L) examinations for the year 2023 is scheduled to be released by September, Examinations Commissioner Amit Jayasundara said.
-
-He said that 452,979 candidates sat for the examination this year, including 387,648 school candidates and 65,331 as private applicants.
-
-◼️
-
-[Data](articles/5eb1c035.json)
-
-[Extended Data](ext_articles/5eb1c035.ext.json)
-
----
-
-### Al -Iqbal Maha Vidyalaya students who changed the 102 -year history of the school
-
-*2024-06-01 15:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/185056) · `ta`
-
-In a historic achievement for Vavuniya Al-Iqbal Maha Vidyalaya, two students secured 3As in the GCE Advanced Level Examination, marking the first such feat in the school's 102-year history. Nahar Fatima Suha excelled in Tamil, Geography, and History, ranking top at the district level. Manas Fatima Apna also shone in these subjects, securing 3A Siddhi and placing 31st in the district. Additionally, Tajeedin Mohamed Safiq and Mustafa Fatima performed well, contributing to the school's best-ever results.
-
-🟩
-
-Two students of the Vavuniya Al Iqbal Maha Vidyalaya have set the record for the 102 -year history of the school.
-
-The two students in the school have achieved 3As in the school under the guidance of school principal AK Ubaid for the first time in the GCE Advanced Level Examination.
-
-Nahar Fatima Suha, a student, has learned the subjects of Tamil, Geography and History and got 3A Siddhi at the district level.
-
-Manas Fatima Apna, a student of Tamil, Geography and History, has achieved 3A Siddhi in the district with a record of 31st place in the district.. Along with them, Tajeedin Mohamed Safiq A, B, C, C, is the 94th level, Mustafa Fatima 2A, C.
-
-It is also worth noting that all the students who have passed the exam have been able to do all the subjects and this is the first best result of the school in the 102 -year history of the school.
-
-◼️
-
-[Data](articles/8a5c56db.json)
-
-[Extended Data](ext_articles/8a5c56db.ext.json)
-
----
-
-### The gang falls into Sri Lanka to kill the super-actor Salman Khan
-
-*2024-06-01 15:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197249) · `si`
-
-A gang led by Lawrence Bishoni plotted to assassinate Bollywood star Salman Khan in Maharashtra, enlisting 60-70 supporters for the attack. The plan involved escaping to Kanyakumari, then sailing to Sri Lanka to evade capture. However, the Indian police uncovered the plot and were preparing to ensure their safe passage to another country.
-
-🟩
-
-The Indian police have revealed all the information about the assassination of Bollywood actor Salman Khan.
-
-The gang named Lawrence Bishoni has conspired to attack the car of Salman Khan's car at Maharashtra.
-
-The gang has obtained the support of 60 to 70 people, according to the Mumbai police sources, each individual has been entrusted with a specific role in accordance with the mumbai police sources.
-
-It is also revealed that the attackers have been instructed to flee to Kanyakumari in Tamil Nadu.
-
-There they have been to be jailed to Sri Lanka through the sea.
-
-The Indian police have revealed that they had been working to travel safely for another country that provided facilities provided.
-
-◼️
-
-[Data](articles/294604d4.json)
-
-[Extended Data](ext_articles/294604d4.ext.json)
 
 ---

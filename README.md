@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-02 20:34:22**
+As of **2024-06-02 20:52:04**
 
 ## Newspaper Stats
 
-*Scraped **27,924** Articles*
+*Scraped **27,927** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,75 @@ islandlk | 1,507
 economynextcom | 1,587
 dailyftlk | 1,635
 adalk | 2,381
-adaderanalk | 3,176
+adaderanalk | 3,177
 tamilmirrorlk | 3,274
 virakesarilk | 4,302
-dailymirrorlk | 4,428
+dailymirrorlk | 4,430
 adaderanasinhalalk | 4,474
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,924 (100.0%) of 27,924 articles have been extended.
+27,924 (100.0%) of 27,927 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-02 (Sunday)
+
+### President directs prompt fund allocations to help people affected by adverse weather
+
+*2024-06-02 20:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/99605/president-directs-prompt-fund-allocations-to-help-people-affected-by-adverse-weather) · `en`
+
+President Ranil Wickremesinghe has directed the Secretary of the Ministry of Finance to promptly allocate funds to the District Secretaries to provide urgent assistance to those impacted by the adverse weather conditions, the President’s Media Division said.
+
+At least 14 people were killed and more than 19,000 others from over 5,000 families were affected over the weekend as severe monsoonal downpours inflicted widespread devastation in Sri Lanka, authorities said on Sunday.
+
+The Disaster Management Center (DMC) said 20 out of the country’s 25 districts were affected by heavy rain and issued warnings to people living on the banks of main rivers to move to higher ground.
+
+Flights arriving at Colombo’s main international airport were diverted to a smaller airport, and some key highways were flooded at several exits.
+
+The government also ordered all schools to remain shut on Monday after the weekend holiday, as more rain was forecast.
+
+◼️
+
+[Data](articles/67282c76.json)
+
+---
+
+### President orders emergency funds for weather relief
+
+*2024-06-02 20:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/President-orders-emergency-funds-for-weather-relief/108-283922) · `en`
+
+Colombo, June 02 -  President Ranil Wickremesinghe issued a directive for immediate financial support to be distributed to the impacted regions in light of the severe weather conditions affecting several parts of the country.
+
+The President has instructed the Secretary to the Ministry of Finance to promptly allocate necessary funds to the District Secretaries, ensuring swift and efficient assistance to those in need.
+
+The President’s Media Division announced this directive a short while ago, emphasizing the urgency of the situation.
+
+◼️
+
+[Data](articles/3271ba32.json)
+
+---
+
+### Death toll due to extreme weather rises to 10
+
+*2024-06-02 20:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Death-toll-due-to-extreme-weather-rises-to-10/108-283920) · `en`
+
+Colombo, June 02 (Daily Mirror) -  The death toll from the extreme weather conditions in the country has climbed to 10 in the past 24 hours as confirmed by State Defence Minister Premitha Bandara Tennakoon.
+
+According to the State Minister, five individuals have been reported missing.
+
+Minister Tennakoon said operations are underway in search of the missing individuals.
+
+The severe weather, characterized by relentless rainfall has triggered widespread flooding and landslides, wreaking havoc across multiple regions.
+
+◼️
+
+[Data](articles/308d1017.json)
+
+---
 
 ### Police emergency hotlines amidst adverse weather conditions
 
@@ -1930,6 +1984,8 @@ As per the instructions of the Army Commander, Security Forces Commanders have b
 
 *2024-06-02 11:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Live-updates-Adverse-weather/155-283899) · `en`
 
+8.04 PM - The death toll from the extreme weather conditions in the country has climbed to 10 in the past 24 hours as confirmed by State Defence Minister Premitha Bandara Tennakoon.
+
 7.31 PM - Police have set up two dedicated lines, 0112 421 820 and 0112 421 111, for individuals to contact for urgent assistance.
 
 6.01 PM - The Disaster Management Center reported seven fatalities due to the ongoing adverse weather conditions in the past 24 hours.
@@ -1939,8 +1995,6 @@ As per the instructions of the Army Commander, Security Forces Commanders have b
 3.01 PM - Train services on the Kelani Valley line have been severely disrupted following the collapse of a bridge between Waga and Kosgama.
 
 2.58 PM - Traffic on the Colombo-Kandy main road came to a standstill following a tree collapse near Warakapola town.
-
-2.15 PM - The Ministry of Power & Energy has announced the disconnection of power supply to several areas in Galle, Kalutara, Ratnapura, Colombo, and Kegalle districts.
 
 ...
 
@@ -2037,73 +2091,5 @@ The discussions with President Embaló were highly productive," said Ambassador 
 [Data](articles/8e10f4cd.json)
 
 [Extended Data](ext_articles/8e10f4cd.ext.json)
-
----
-
-### SriLankan flight to Singapore delayed for 5 hours
-
-*2024-06-02 11:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SriLankan-flight-to-Singapore-delayed-for-5-hours/108-283898) · `en`
-
-Mattala, June 2 (Daily Mirror) - SriLankan Airlines said that flight UL 309 from Singapore to Colombo, carrying 204 passengers, was diverted to Mattala Rajapaksa International Airport this morning (2 June) due to adverse weather conditions at Bandaranaike International Airport (BIA).
-
-In response, the airline said that they prioritized the safety and well-being of passengers onboard, offering them the option to disembark in Mattala or remain onboard to fly to BIA.
-
-The aircraft remained grounded at Mattala as the operating crew had exceeded their flight duty time limit per civil aviation regulations. Additionally, the flight's departure from Singapore was delayed by approximately five hours due to technical issues. The flight departed for BIA at 10:00hrs this morning with a new crew, they said.
-
-...
-
-[Data](articles/d72f4f10.json)
-
-[Extended Data](ext_articles/d72f4f10.ext.json)
-
----
-
-### Great flooding
-
-*2024-06-02 11:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197274) · `si`
-
-Heavy rainfall caused significant flooding in Sri Lanka, affecting areas like Milkanda along the Kalu River and the Pitabeddara region of the N. Nilwala River. Major roads and around 300 houses near the Black River were also inundated.
-
-🟩
-
-The Irrigation Department says that the Ki Ranga's 149.8 millimeters in the Milkanda area of ​​the Kalu River has been reported in the Milkanda area.
-
-According to our correspondent, several major roads including the Bulathsinhala-Kalutara road and about 300 houses were flooded by the Black River.
-
-Meanwhile, all hydrologicals in the N. Nilwala River have exceeded the general water and its Pitabeddara area has been flooded.
-
-◼️
-
-[Data](articles/e48448b3.json)
-
-[Extended Data](ext_articles/e48448b3.ext.json)
-
----
-
-### Female FireYoung man arrested
-
-*2024-06-02 11:13:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/சேமக்காலையில்-பெண்-தீக்கிரை-இளைஞன்-கைது/71-338264) · `ta`
-
-A young man was arrested after setting a woman on fire in Jaffna, Sri Lanka. The victim, 45-year-old Gallavadivel Bhavani, died from her injuries. The incident occurred on Saturday when the suspect, who had taken the woman on his motorcycle, poured petrol on her and set her alight near a tomb. Neighbors rushed her to the hospital, but she succumbed to her burns. Police have launched an investigation and apprehended the suspect.
-
-🟩
-
-The incident took place on Saturday (01) that the young man who took a woman to the shelter and burned petrol on the woman.
-
-The 45 -year -old Gallavadivel Bhavani, a 45 -year -old woman from Chavakachcheri - Matuvil area, has been murdered.
-
-The young man who took the woman on a motorbike in Jaffna, Konjenjimada, was sitting on a tomb with a woman.
-
-Suddenly, when there was a rhetoric between the two, the young man took a hidden petrol bottle and set fire to the woman.
-
-Neighbors who observed it went and sent the fire to the Jaffna Bodhana Hospital with all the fire.
-
-Police have investigated the incident and arrested the suspect and detained the suspect.
-
-◼️
-
-[Data](articles/91f81917.json)
-
-[Extended Data](ext_articles/91f81917.ext.json)
 
 ---

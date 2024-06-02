@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-02 09:18:48**
+As of **2024-06-02 09:34:16**
 
 ## Newspaper Stats
 
-*Scraped **27,792** Articles*
+*Scraped **27,793** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,27 +20,49 @@ adaderanalk | 3,161
 tamilmirrorlk | 3,258
 virakesarilk | 4,282
 dailymirrorlk | 4,401
-adaderanasinhalalk | 4,445
+adaderanasinhalalk | 4,446
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,791 (100.0%) of 27,792 articles have been extended.
+27,792 (100.0%) of 27,793 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-02 (Sunday)
 
-### எஹலியகொடவில் அதிக மழை வீழ்ச்சி
+### නිදහස් පක්ෂයේ විශේෂ රැස්වීමක් අද
+
+*2024-06-02 09:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197271) · `si`
+
+ශ්‍රී ලංකා නිදහස් පක්ෂයේ විශේෂ මධ්‍යම කාරක සභා රැස්වීමක් සහ ආසන සහ දිස්ත්‍රික් සංවිධායකවරුන්ගේ රැස්වීමක් අද (02) පැවැත්වීමට නියමිතව තිබේ.
+
+පක්ෂයේ වැඩබලන සභාපති අමාත්‍ය නිමල් සිරිපාල ද සිල්වා මහතාගේ ප්‍රධානත්වයෙන් අද පස්වරු 02ට කොළඹ ඩාලි පාරේ පිහිටි ශ්‍රී ලංකා නිදහස් පක්ෂ මූලස්ථානයේ දී එම රැස්වීම් පැවැත්වෙන බව පක්ෂයේ භාණ්ඩාගාරික රාජ්‍ය අමාත්‍ය ලසන්ත අලගියවන්න මහතා පැවසීය.
+
+කෙසේවෙතත් අද පවත්වනු ලබන රැස්වීම් නීතිවිරෝධී සහ විනයවිරෝධී බව ශ්‍රී ලංකා නිදහස් පක්ෂයේ හිටපු සභාපති හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා සඳහන් කළේය.
+
+◼️
+
+[Data](articles/b7ccd1c9.json)
+
+---
+
+### High rainfall in Ehaliyagoda
 
 *2024-06-02 08:35:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எஹலியகொடவில்-அதிக-மழை-வீழ்ச்சி/175-338258) · `ta`
 
-இன்று(02) காலை 7 மணியுடன் முடிவடைந்த  24 மணித்தியாலத்தில் 427.5 மில்லிமீட்டர் மழை வீழ்ச்சி எஹலியகொட
+Ehaliyagoda experienced heavy rainfall, recording 427.5mm in just 24 hours until 7 am today, causing significant waterlogging and disruptions.
+
+🟩
+
+427.5 millimeters of rainfall in 24 hours ended today (02) at 7 am
 
 ◼️
 
 [Data](articles/d30ad013.json)
+
+[Extended Data](ext_articles/d30ad013.ext.json)
 
 ---
 
@@ -2287,27 +2309,5 @@ The final results are to be released on weekends and after the first democratic 
 [Data](articles/d26fc48d.json)
 
 [Extended Data](ext_articles/d26fc48d.ext.json)
-
----
-
-### Six -week ceasefire - excluding Israeli soldiers from people living in Gaza
-
-*2024-06-01 10:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/185024) · `ta`
-
-US President Joe Biden announced a six-week ceasefire between Israel and Hamas, excluding Israeli soldiers from Gaza. He urged acceptance of Israel's proposal to end the conflict, which includes releasing some hostages and increasing humanitarian aid. The ceasefire's first phase involves a full withdrawal of Israeli forces.
-
-🟩
-
-US President Joe Bidan Hamas has appealed to the acceptance of Israel's proposal to end the war.
-
-It is noteworthy that Jobitin's plan stated that some of the hostages that increase humanitarian assistance will be released.
-
-Speaking at a press conference held at the White House, the US President said that a complete ceasefire would be implemented in the first phase of the ceasefire, and Israeli would be withdrawn.
-
-◼️
-
-[Data](articles/ddc2a274.json)
-
-[Extended Data](ext_articles/ddc2a274.ext.json)
 
 ---

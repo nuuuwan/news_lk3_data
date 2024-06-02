@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-02 10:05:27**
+As of **2024-06-02 10:18:52**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 4,448
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,793 (100.0%) of 27,799 articles have been extended.
+27,798 (100.0%) of 27,799 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-02 (Sunday)
 
-### අමෙරිකාවට සුපිරි ජයක්
+### Superior to America
 
 *2024-06-02 09:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197272) · `si`
 
-20යි 20 ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ කැනඩා කණ්ඩායමට එරෙහිව අද (02) පැවති තරගය කඩුලු 7කින් ජයගැනීමට අමෙරිකානු කණ්ඩායම සමත්විය.
+In the 20th World Cup, the US team outperformed Canada, winning by 7 wickets. Aaron Jones led the charge with a remarkable 94 runs off 40 balls. The US secured victory in just 17 overs after losing 3 wickets, showcasing their superior skills.
 
-ලකුණු 194ක ජයග්‍රාහී ඉලක්කය හඹාගිය අමෙරිකාව පන්දුවාර 17යි පන්දු 4කදී කඩුලු 3ක් දැවී ලකුණු 197ක් රැස්කරමින් තරගයේ ජය හිමිකරගත්තේය.
+🟩
 
-එහිදී අගනා ඉනිමක් ක්‍රීඩා කළ Aaron Jones පන්දු 40කදී හයේ පහර 10ක් සහ හතරේ පහර 4ක් සමග නොදැවී ලකුණු 94ක් රැස්කළේය.
+The US team won the match against Canada by 7 wickets in the 20th World Cup.
 
-පන්දු යැවීමේදී කැනඩාව වෙනුවෙන් Kaleem Sana, Dilon Heyliger සහ Nikhil Dutta එක් කඩුල්ල බැගින් දවාගැනීමට සමත්විය.
+Chapter 194, America won the match for 197 overs and scored 19 runs for the loss of 3 wickets in 17 overs.
+
+Aaron jones played a premier innings scored 94 runs in 40 balls with 10 fours and four fours.
+
+At the bowling kaleem sana, Dillon HEYLIGER and NIKHIL DUTTA took one wicket.
 
 ◼️
 
 [Data](articles/755478be.json)
+
+[Extended Data](ext_articles/755478be.ext.json)
 
 ---
 
@@ -72,51 +78,69 @@ However, former Sri Lanka Freedom Party (SLFP) former President of the Sri Lanka
 
 ---
 
-### அவிசாவளையில் நால்வர் பலி
+### Four killed in Avissawella
 
 *2024-06-02 09:16:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அவிசாவளையில்-நால்வர்-பலி/175-338259) · `ta`
 
-எதிர்பாராத மழையினால் சீதாவக்க பிரதேச செயலகப் பிரிவில் நால்வர் உயிரிழந்துள்ளதுடன் 11 கிராம உத்தியோகத்தர் பிரதேசங்களில் மக்கள் வெள்ளத்தில் மூழ்கி பாதிக்கப்பட்டுள்ளதாக கொழும்பு மாவட்ட அனர்த்த முகாமைத்துவ பிரிவு தெரிவித்துள்ளது.
+In Sitawaka, four deaths occurred due to heavy rains flooding 11 areas. A family of three drowned in Avissawella, and another died from a soil collapse.
 
-அவிசாவளை புவக்பிட்டிய தெற்கு கிராம உத்தியோகத்தர் களத்தில் ஒரே குடும்பத்தைச் சேர்ந்த மூவர் நீரில் மூழ்கி உயிரிழந்துள்ளதாகவும் மேலும் ஒருவர் மண்மேடு சரிந்து விழுந்ததில் உயிரிழந்துள்ளதாகவும் அதே பிரிவு தெரிவித்துள்ளது
+🟩
+
+Four people have been killed in the Sitawaka Divisional Secretariat Division due to unexpected rains and people have been flooded with 11 Grama Niladhari areas, the Colombo District Disaster Management Unit said.
+
+The same division said that three members of the same family were drowned in the southern village officer of Avissawella, and one person died in the collapse of a soil
 
 ◼️
 
 [Data](articles/cd42b6ce.json)
 
+[Extended Data](ext_articles/cd42b6ce.ext.json)
+
 ---
 
-### සරසවි අනධ්‍යන වැටුප් ගැටලුව විසඳන්න මාස 6ට රු.මි. 1100ක් අවශ්‍යයි
+### 6 months to resolve the university non-academic salary issue. 1100 needs
 
 *2024-06-02 09:12:41* · [`adalk`](https://www.ada.lk/breaking_news/සරසවි-අනධ්‍යන-වැටුප්-ගැටලුව-විසඳන්න-මාස-6ට-රු-මි--1100ක්-අවශ්‍යයි/11-409954) · `si`
 
-ඉල්ලීම් කිහිපයක් මුල් කර ගනිමින් වර්ජනයේ යෙදී සිටින විශ්වවිද්‍යාල අනධ්‍යන කාර්ය මණ්ඩල වෘත්තීය සමිති සමඟ එළඹෙන සඳුදා දිනයේ සාකච්ඡා කරන බව උසස් අධ්‍යාපන රාජ්‍ය අමාත්‍ය ආචාර්ය සුරේන් රාඝවන් මහතා පැවසීය.
+Dr. Suren Sanghavan, State Minister of Higher Education, announced that the government will discuss the demands of university staff, including salary increases, which are expected to cost around 1.1 billion rupees over six months. He expressed concern over the financial impact and the need for a swift resolution, emphasizing the importance of finding a middle ground. The matter will be discussed further on Monday, involving President Ranil Wickremesinghe and relevant ministries.
 
-මේ සම්බන්ධයෙන් හොඳම විසඳුම ලබා දීමට ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ඇතුළු රජය බලාරොත්තු වන බව ද ඒ මහතා සඳහන් කළේය.
+🟩
 
-උසස් අධ්‍යාපන රාජ්‍ය අමාත්‍ය ආචාර්ය සුරේන් රාඝවන් මහතා මේ බව සඳහන් කර සිටියේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන්ජ‍ෙනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමිනි.
+State Minister of Higher Education Dr. Suren Sanghavan said that the prospect of the university members of the university organizations on several demands will be discussed on Monday.
 
-විශ්වවිද්‍යාල අනධ්‍යන කාර්ය මණ්ඩල මේ වන විට වර්ජනයක නිරතව සිටිනවා. මෙය අවාසනාවන්ත කරුණක් බව කිව යුතුයි. මෙමඟින් පීඩාවට පත්වන්නේ අනාගත ශිෂ්‍ය පරම්පරාවයි. මෙම වෘත්තීය ක්‍රියාමාර්ග නිසා රුපියල් මිලියන 150 ක පමණ සෘජු මූල්‍ය පාඩුවක් සිදු වනවා. එය මිනිස් කාලය අනුව මිලියන 1.8ක අපතේයාමක් බව පැවසිය යුතුයි. ඒ නිසා අප රජයට තව පැයක්වත් නාස්ති කිරීමට අවශ්‍ය නැහැ.
+He added that President Ranil Wickremesinghe and the government will bow the best solution in this regard.
+
+State Minister of Higher Education Dr. Suren Sanghajeew made this statement participating at a press conference held at the Head of Measures.
+
+University allegations engage in strike. It is unfortunate that this is unfortunate. The future student generation is stressed by this. This is a direct financial loss for about 150 million rupees due to this trade union action. It must be said that it was a waste of 1.8 million in human days. Therefore, we do not need to waste the government to waste another hour.
 
 ...
 
 [Data](articles/3a1e8271.json)
 
+[Extended Data](ext_articles/3a1e8271.ext.json)
+
 ---
 
-### පස් කන්දකට යටවී කුඩා දැරියක් මරුට
+### Youth killed in mound
 
 *2024-06-02 08:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197270) · `si`
 
-අවිස්සාවේල්ල, හේවාහින්න ප්‍රදේශයේදී පස් කන්දකට යට වී කුඩා දැරියක් මියගොස් තිබේ.
+In Avissawella, a 11-year-old girl was tragically killed in Hewahinna. Additionally, six individuals perished within 24 hours due to severe weather conditions.
 
-එසේ මියගොස් ඇත්තේ, වයස අවුරුදු 11ක දැරියක් බව පොලීසිය පවසයි.
+🟩
 
-අයහපත් කාලගුණය හේතුවෙන් ගතවූ පැය 24  පුද්ගලයින් 06 දෙනෙකු මියගොස් තිබේ.
+A small girl was killed and a small girl was killed in the Hewahinna area in Avissawella.
+
+The deceased has been identified as a 11 year old girl.
+
+Six people 24 of the 24 hours have died due to inclement weather.
 
 ◼️
 
 [Data](articles/a960916b.json)
+
+[Extended Data](ext_articles/a960916b.ext.json)
 
 ---
 
@@ -344,25 +368,37 @@ Accordingly, they decided to give Canada to the chance of batting first.
 
 ---
 
-### ශ්‍රී ලාංකීය සමාජයේ 'සිංගල් අම්මා' කෙනෙක් වීම කෙතරම් අභියෝගාත්මක ද?
+### How challenging to be a "Single Mom" ​​in Sri Lankan society?
 
 *2024-06-02 03:57:08* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cjkkr8d88zzo) · `si`
 
-ශ්‍රී ලාංකීය සමාජයේ 'සිංගල් අම්මා' කෙනෙක් වීම කෙතරම් අභියෝගාත්මක ද?
+It seems like you've shared a detailed narrative about the challenges and experiences of single parents, particularly focusing on societal perceptions and personal struggles. However, your query ends abruptly without specifying a question or request for assistance related to the content you've shared.
 
-2012 වසරේදී එක්සත් ජාතීන්ගේ සංවිධානයේ මහා මණ්ඩලය විසින් ප්‍රකාශයට පත් කරන ලද ගෝලීය දෙමාපිය දිනය, සියලු දෙමාපියන් "දරුවන් වෙනුවෙන් කරන පරාර්ථකාමී කැපවීම සහ මාපිය දූදරු සම්බන්ධතාව පෝෂණය කිරීමට ඔවුන් තම ජීවිත කාලය පුරාවට ම සිදු කරන කැප කිරීම" ඇගයීම සඳහා අවස්ථාව සලසා දෙයි.
 
-මෙවර එහි තේමාව 'The Promise of Playful Parenting' (කෙළිදෙලින් යුත් මාපිය රැකවරණය සඳහා වන පොරොන්දුව) ලෙස එකසත් ජාතීන්ගේ සංවිධානය විසින් හඳුන්වා දෙනු ලැබ ඇත.
 
-එක්සත් ජාතීන්ගේ සංවිධානය පවසන පරිදි, දරුවන්ගේ යහපැවැත්ම සහ සංවර්ධනය සඳහා පවුල, දෙමාපියන් සහ ඔවුන් රැකබලා ගන්නන්ගෙන් ප්‍රධාන කාර්යභාරයක් ඉටු වේ.
+Could you please clarify what specific information or assistance you need regarding the narrative about single parents? Are you looking for analysis, advice on handling similar situations, or information on related topics such as societal attitudes towards single parents, legal support for single parents, or strategies for coping with the challenges they face? Please provide more details so I can assist you effectively.
 
-ඔවුහු දරුවන්ට සහ නව යොවුන් වියේ පසුවන දරුවන්ට අනන්‍යතාවය, ආදරය, රැකවරණය, ආහාර පාන, ඇඳුම් පැළඳුම් හා ජීවත් වීමට නිවහනක්, ආරක්ෂාව, ආර්ථික සුරක්ෂිතභාවය සහ ස්ථාවරත්වය ලබා දෙති.
+🟩
 
-නමුත් ඇතමෙකු පවසන්නේ, ඔවුන්ගේ එම කැපකිරීම් ඇගයීම සඳහා වෙන්ව ඇති මෙම දිනය තවමත් ශ්‍රී ලාංකියින්ට එතරම් හුරුපුරුදු දිනයක් නොවන බව ය.
+How challenging to be a "Single Mom" ​​in Sri Lankan society?
+
+In 2012, the Global Parent Date, the General Assembly issued by the United Nations General Assembly, all parents "allows them to" evaluate their lives to feed their lives for children. "
+
+This year, its theme has been introduced by the United Nations as 'The Prome of Playful Parenting' (Promise for Strange Parent Protection).
+
+According to the United Nations, the family, parents and their caregives play a key role in the well-being and development of children.
+
+They serve children and adolescent children identification, love, care, food, clothing, clothing, clothing, clothing, and resistance.
+
+But some say that this day, which is separate to evaluating their sacrifices, is still not a very familiar day for Sri Lankans.
+
+The purpose of this article is not just to pay attention to the global parent's day but also how the extent is that the extent that is challenging to be "a single mother" in Sri Lanka.Inquiry into the investigation.
 
 ...
 
 [Data](articles/4df23534.json)
+
+[Extended Data](ext_articles/4df23534.ext.json)
 
 ---
 

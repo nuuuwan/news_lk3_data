@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-02 07:24:59**
+As of **2024-06-02 08:21:17**
 
 ## Newspaper Stats
 
-*Scraped **27,782** Articles*
+*Scraped **27,789** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,127 @@ islandlk | 1,507
 economynextcom | 1,585
 dailyftlk | 1,635
 adalk | 2,365
-adaderanalk | 3,158
-tamilmirrorlk | 3,255
+adaderanalk | 3,160
+tamilmirrorlk | 3,256
 virakesarilk | 4,282
 dailymirrorlk | 4,401
-adaderanasinhalalk | 4,441
+adaderanasinhalalk | 4,445
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,775 (100.0%) of 27,782 articles have been extended.
+27,780 (100.0%) of 27,789 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-02 (Sunday)
+
+### Two youths dead after earth mound collapses on house
+
+*2024-06-02 08:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/99588/two-youths-dead-after-earth-mound-collapses-on-house) · `en`
+
+Two persons have been reported dead after a mound of earth collapsed on a house at Deiyandara, Pallewela.
+
+Police said two youths, both males aged 20 and 27, have died in the incident.
+
+◼️
+
+[Data](articles/961d2c75.json)
+
+---
+
+### දිස්ත්‍රික්ක 10කට නායයෑම් අනතුරු ඇඟවීමක්
+
+*2024-06-02 08:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197269) · `si`
+
+පවතින අයහපත් කාලගුණයත් සමග දිස්ත්‍රික්ක 10ක් සඳහා නායයෑමේ අනතුරු ඇඟවීම් නිකුත් කර තිබේ.
+
+ඒ අනුව කොළඹ දිස්ත්‍රික්කයේ පාදුක්ක ප්‍රාදේශීය ලේකම් කොට්ඨාසයට මෙන්ම කළුතර දිස්ත්‍රික්කයේ සහ රත්නපුර දිස්ත්‍රික්කයේ ප්‍රාදේශීය ලේකම් කොට්ඨාස 12ක් සඳහා නායයෑම් අනතුරු ඇඟවීමේ රතු නිවේදන නිකුත් කර ඇති බව ජාතික ගොඩනැගිලි පර්යේෂණ සංවිධානය පවසයි.
+
+එමෙන්ම මහනුවර, නුවරඑළිය, රත්නපුර, ගාල්ල, කෑගල්ල, හම්බන්තොට, මාතර සහ කුරුණෑගල යන දිස්ත්‍රික්කවල ප්‍රාදේශීය ලේකම් කොට්ඨාස 41ක් සඳහා එම නායයෑමේ අනතුරු ඇඟවීම් නිකුත් කර තිබේ.
+
+එම නායයෑම් අනතුරු ඇඟවීම් අද (02) අලුයම 04 සිට හෙට (03) අලුයම 04 දක්වා බලපැවැත්වෙන බව ජාතික ගොඩනැගිලි පර්යේෂණ සංවිධානයේ ජ්‍යෙෂ්ඨ භූ විද්‍යාඥ වසන්ත සේනාධීර මහතා සඳහන් කළේය.
+
+◼️
+
+[Data](articles/69689caa.json)
+
+---
+
+### Very heavy showers above 150mm expected - Met. Dept.
+
+*2024-06-02 07:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/99587/very-heavy-showers-above-150mm-expected-met-dept) · `en`
+
+The Department of Meteorology says prevailing showery conditions are expected to continue in the south-western part of the island today.
+
+Showers or thundershowers will occur at times in Western, Sabaragamuwa, Central and Southern provinces while several spells of showers may occur in North-western province.
+
+Very heavy showers above 150 mm are likely at some places in Western and Sabaragamuwa provinces and in Galle and Matara districts, it warned.
+
+Showers or thundershowers may occur at several places elsewhere of the island.
+
+General public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/65a69429.json)
+
+---
+
+### එකම පවුලේ 3ක් ගංවතුර ට බිලි
+
+*2024-06-02 07:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197268) · `si`
+
+පුවක්පිටිය, එළිස්ටන්වත්ත, කැකිල්ල ප්‍රදේශයේදී ගංවතුරට හසුවී එකම පවුලේ තිදෙනෙකු මියගොස් තිබේ.
+
+එලෙස මියගොස් ඇත්තේ, වයස අවුරුදු 36ක මව,  අවුදුරු 07ක දියණිය සහ වයස අවුරුදු 78ක සීයා ය.
+
+අද අලුයම 2ත් 3ත් අතර කාලය තුළ අදාළ නිවස ආසන්නයේ ඇති ඇළ මාර්ගයේ ගංවතුර තත්ත්වයක් ඇතිවීමෙන් නිවස ජලයෙන් යටවී ඔවුන් මියගොස් ඇති බව පොලිසිය සඳහන් කළේය.
+
+◼️
+
+[Data](articles/f3ef84a3.json)
+
+---
+
+### ගංවතුර අවදානම සහිත ප්‍රදේශ මෙන්න
+
+*2024-06-02 07:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197267) · `si`
+
+පවතින අයහපත් කාලගුණය හේතුවෙන්  කැලණි, කළු, ගිං සහ නිල්වලා යන ගංගා අවට පහත්බිම් ප්‍රදේශවලට ගංවතුර අනතුරු ඇගවීමේ නිවේදන නිකුත් කර තිබේ.
+
+ඒ අනුව, කළු ගඟේ ඉහළ ධාරා ප්‍රදේශවලට සැලකිය යුතු වර්ෂාපතනයක් ලැබී ඇති අතර මේ හේතුවෙන් ඉදිරි පැය 48ක කාලය තුළ රත්නපුර දිස්ත්‍රික්කයේ පැල්මඩුල්ල, නිවිතිගල, කුරුවිට, අයගම, ඇලපාත සහ රත්නපුර යන ප්‍රාදේශීය ලේකම් කොට්ඨාසවල පහත්බිම් ප්‍රදේශවලට ගංවතුර තත්ත්වයක් ඇතිවිය හැකි බව සඳහන්ය.
+
+එමෙන්ම කළුතර දිස්ත්‍රික්කයේ ඉංගිරිය, හොරණ, දොඩංගොඩ සහ මිල්ලනිය යන ප්‍රාදේශීය ලේකම් කොට්ඨාසවල පහත්බිම් ආශ්‍රිතව ද ගංවතුර තත්ත්වයක් ඇතිවිය හැකි බව වාරිමාර්ග දෙපාර්තමේන්තුව පැවසීය.
+
+නිල්වලා ගඟේ ඉහළ ධාරා ප්‍රදේශවලට ඊයේ (01) රාත්‍රී සිට සැලකියයුතු වර්ෂාපතනයක් ලැබීම හේතුවෙන් පස්ගොඩ, කොටපොළ, පිටබැද්දර, අකුරැස්ස, අතුරලිය, මාලිම්බඩ, කඹුරුපිටිය, තිහගොඩ, මාතර සහ දෙවිනුවර යන ප්‍රාදේශීය ලේකම් කොට්ඨාසවල පහත්බිම්වල ගංවතුර තත්ත්වයක් ඇතිවිය හැකි බව සඳහන්ය.
+
+...
+
+[Data](articles/7041d7ab.json)
+
+---
+
+### පස් කන්දක් කඩා වැටී තරුණ ජීවිත දෙකක් අහිමිවෙයි
+
+*2024-06-02 06:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197265) · `si`
+
+දෙයියන්දර, පල්ලේවෙල ප්‍රදේශයේ නිවසකට පස් කන්දක් කඩා වැටී තරුණයින් දෙදෙනෙකු මියගොස් තිබේ.
+
+මීට අමතරව තවත් පුද්ගලයෙකු  තුවාල ලබා ඇල්ලේවෙල රෝහලට ඇතුළත් කර තිබේ
+
+ඊයේ (01) රාත්‍රී කාලයේදී එම සිදුවීම වාර්තා වූ බව පොලීසිය පවසයි.
+
+එලෙස මියගොස් ඇත්තේ, වයස අවුරුදු 20 හා 27 යන වයස්වල පසුවන දෙනගම ප්‍රදේශයේ පදිංචිකරුවන් දෙදෙනෙකි.
+
+මෘත ශරීර ඇල්ලේවෙල රෝහලේ තැන්පත් කර ඇති අතර දෙයියන්දර පොලීසිය වැඩිදුර විමර්ශ සිදුකරයි.
+
+◼️
+
+[Data](articles/b92f422e.json)
+
+---
 
 ### Showers over 150mm
 
@@ -99,6 +205,28 @@ Kayts police are conducting further investigations into the incident. (A)
 [Data](articles/25e2be5a.json)
 
 [Extended Data](ext_articles/25e2be5a.ext.json)
+
+---
+
+### 108,665 tourists visit
+
+*2024-06-02 00:04:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/108-665-சுற்றுலாப்-பயணிகள்-வருகை/175-338253) · `ta`
+
+Last month, the country saw a record 1,086,665 tourists, including 31,225 from India, 7,984 from the Maldives, 7,374 from Germany, and 7,848 from Britain.
+
+🟩
+
+One million 8 thousand 665 tourists arrived in the country last month alone
+
+According to a statement issued by the council, the number of tourists from India continues to increase.
+
+31 thousand 225 from India, 7 thousand 984 from the Maldives, 7 thousand 374 from Germany and 7 thousand 848 from Britain.. (A)
+
+◼️
+
+[Data](articles/0088d90b.json)
+
+[Extended Data](ext_articles/0088d90b.ext.json)
 
 ---
 
@@ -304,6 +432,8 @@ Jesus fed 5,000 with two fishes and five loaves (Mathew 14:13-21) and you may re
 
 [Data](articles/e1b6a692.json)
 
+[Extended Data](ext_articles/e1b6a692.ext.json)
+
 ---
 
 ### World Bank, IMF deepen effort to scale up climate action
@@ -357,6 +487,8 @@ With elections coming up in a few months’ time – notwithstanding Palitha Ran
 ...
 
 [Data](articles/16cf1021.json)
+
+[Extended Data](ext_articles/16cf1021.ext.json)
 
 ---
 
@@ -646,6 +778,8 @@ Castellani’s name appeared in such reference books as “Who’s Who”, the �
 
 [Data](articles/7b65ee67.json)
 
+[Extended Data](ext_articles/7b65ee67.ext.json)
+
 ---
 
 ### Those who don’t like development call Elon Musk an economic hitman: Manusha
@@ -725,6 +859,8 @@ Each school day started with a standard set of prayers. A 90-minute catechism cl
 ...
 
 [Data](articles/ad161b9a.json)
+
+[Extended Data](ext_articles/ad161b9a.ext.json)
 
 ---
 
@@ -2139,167 +2275,5 @@ The minister stressed upon the importance of a consistent tourism policy, increa
 [Data](articles/a119f12b.json)
 
 [Extended Data](ext_articles/a119f12b.ext.json)
-
----
-
-### Heavy showers expected in parts of the island
-
-*2024-06-01 10:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/99573/heavy-showers-expected-in-parts-of-the-island) · `en`
-
-The Meteorology Department says showers or thundershowers will occur at times in Western, Sabaragamuwa, Central and Southern provinces. Several spells of showers may occur in North-western province.
-
-Heavy showers above 100 mm are likely at some places in Western and Sabaragamuwa provinces and in Galle, Matara and Nuwara-Eliya districts.
-
-Showers or thundershowers may occur at a few places in Uva, North-central and Eastern provinces and in Mullaitivu district in the evening or night.
-
-General public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-The sea areas off the coasts extending from Matara to Pottuvil via Hambantota can be very rough at times. The sea areas off the coasts extending from Kankasanthurai to Matara via Mannar, Puttalam, Colombo and Galle can be rough at times.
-
-...
-
-[Data](articles/8ba4c7aa.json)
-
-[Extended Data](ext_articles/8ba4c7aa.ext.json)
-
----
-
-### Businessman arrested with cigarettes brought by illegal
-
-*2024-06-01 10:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197233) · `si`
-
-A businessman was arrested at Katunayake airport for smuggling a large quantity of foreign-manufactured cigarettes. The 38-year-old, who resides in Negombo, arrived from Dubai. Customs officials discovered the contraband in his luggage.
-
-🟩
-
-A businessman arrested a businessman with a group of foreign manufactured cigarettes at the Katunayake airport.
-
-The airport Customs stated that a 38-year-old business resident of Negombo is a resident of Negombo.
-
-The businessman from Dubai to 10 pm yesterday (31) to the Emirates Airport, the airplane has arrived at the Katunayake Airport on the 648.
-
-The Police Narcotics Department said that the baggage he had brought in a large number of cigarettes of cigarettes were hidden.
-
-◼️
-
-[Data](articles/9cd5be4a.json)
-
-[Extended Data](ext_articles/9cd5be4a.ext.json)
-
----
-
-### Sri Lanka foreign exchange earnings exceed imports by $579mn in April
-
-*2024-06-01 09:37:00* · [`economynextcom`](https://economynext.com/sri-lanka-foreign-exchange-earnings-exceed-imports-by-579mn-in-april-165699/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s current dollar earnings from merchandise exports, remittances, tourism and other services exceeded imports by 579 million US dollars in April 2024, official data shows.
-
-Sri Lanka’s hard goods exports were 877.6 million US dollars in April, up from 848.6 million US dollars a year ago, in a holiday month which usually has a 20 percent downturn.
-
-Remittances were 543.8 million US dollars, up from 454 million last year.
-
-Net services income was 367.7 million US dollars up from 290 million US dollars last year.
-
-Foreign exchange earned by Sri Lankans from exports, remittances and net services were 1,789 million US dollars in April 2024.
-
-Imports were only 1,435 million US dollars, leaving a surplus of 353 million dollars.
-
-Tourism income was estimated at 225.7 million US dollars for April, which is from a survey and may not be as reliable as import export data from customs or remittances data from banks.
-
-...
-
-[Data](articles/735f85aa.json)
-
-[Extended Data](ext_articles/735f85aa.ext.json)
-
----
-
-### Fatal accidents that have been killed
-
-*2024-06-01 09:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197232) · `si`
-
-Two fatal accidents in Dodangoda, Horana resulted in the deaths of a 38-year-old woman and a 76-year-old man. The first involved a bus veering off the road, while the second saw a motorcyclist fatally injured en route from Wakwella to Dodangoda.
-
-🟩
-
-A woman and a man died in two accidents in Dodangoda, Horana yesterday (31).
-
-The deceased has been identified as a 38 year old resident of Boossanhala, 76 year old.
-
-The accident had taken place when the bus was driven by the bus to be shifted by the bus towards the juntah road in Horana road.
-
-The other accident was hit by a motorbike from Wakwella to Dodangoda, Wakwella to Dodangoda.
-
-The victim was seriously injured and has died after admission to the Karapitiya hospital.
-
-◼️
-
-[Data](articles/c094428c.json)
-
-[Extended Data](ext_articles/c094428c.ext.json)
-
----
-
-### Arrested in close contact with ISIS
-
-*2024-06-01 09:08:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ISIS-உடன்-நெருங்கிய-தொடர்பிலிருந்தவர்-கைது/175-338231) · `ta`
-
-Osman Pushparaj, suspected of aiding 4 Sri Lankans linked to ISIS, was arrested in Colombo during a joint operation by the CIT and DIT.
-
-🟩
-
-Osman Pushparaj, a prominent suspect, believed to have helped with close ties with 4 Sri Lankans arrested in India on suspicion of association with ISIS.
-
-Police Media Spokesperson Deputy Inspector General of Police Nihal Talduwa said he was arrested in Colombo during a joint operation of the CIT and DIT.. Remble
-
-◼️
-
-[Data](articles/dd4111b1.json)
-
-[Extended Data](ext_articles/dd4111b1.ext.json)
-
----
-
-### Shanaka takes 4 as Sri Lanka ease past Ireland
-
-*2024-06-01 09:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Shanaka-takes-4-as-Sri-Lanka-ease-past-Ireland/108-283873) · `en`
-
-Former captain Dasun Shanaka bagged a four-wicket haul as Sri Lanka avoided a scare to win comprehensively against Ireland in their T20 World Cup warm-up match played at Lauderhill, Florida, yesterday.
-
-After being invited to bat first, Sri Lanka made a steady start but lost two wickets in the fourth over as Josh Little claimed a quickfire double breakthrough, with Kusal Mendis followed back to the pavilion by namesake Kamindu.
-
-Captain Wanindu Hasaranga (26) and Shanaka (23) made starts, but Ireland’s attack remained disciplined, and Sri Lanka were wobbling on 125 for seven when the latter fell to Barry McCarthy (2/31).
-
-Angelo Mathews called on all his experience with an unbeaten 32 to steer his side to a competitive total of 163/8 in their 20 overs. Barry McCarthy (2/31) and Josh Little (2/45) claimed two wickets each.
-
-...
-
-[Data](articles/11d2a4d1.json)
-
-[Extended Data](ext_articles/11d2a4d1.ext.json)
-
----
-
-### Arrest by someone with domestic rifle
-
-*2024-06-01 09:04:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/உள்நாட்டு-துப்பாக்கியுடன்-ஒருவர்-கைது/76-338230) · `ta`
-
-A 33-year-old man was arrested in Nuwara Eliya's Ambewala for possessing a domestically made gun found during a police raid. He will be presented at the Nuwara Eliya District Magistrate's Court for further proceedings.
-
-🟩
-
-A man has been arrested yesterday (31) with a locally manufactured gun from a house in Ambewela area, police said.
-
-A 33 -year -old man from Nuwara Eliya Ambewala has been arrested.
-
-According to confidential information available to the Nuwara Eliya police, the police have recovered a gun that had been hidden in the house after a raid on the house.
-
-The Nuwara Eliya police said that the suspect is being produced at the Nuwara Eliya District Magistrate's Court after further inquiries.. Remble
-
-◼️
-
-[Data](articles/3c61eef3.json)
-
-[Extended Data](ext_articles/3c61eef3.ext.json)
 
 ---

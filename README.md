@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-02 10:34:13**
+As of **2024-06-02 10:52:06**
 
 ## Newspaper Stats
 
@@ -26,33 +26,39 @@ adaderanasinhalalk | 4,449
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,799 (100.0%) of 27,804 articles have been extended.
+27,803 (100.0%) of 27,804 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-02 (Sunday)
 
-### තැන තැන සිදුවන මනුෂ්‍ය ඝාතන
+### Murderous killings in place
 
 *2024-06-02 10:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197273) · `si`
 
-යාපනය සහ මහනුවර යන ප්‍රදේශවල දී පුද්ගල ඝාතන 02ක් සිදුකර තිබේ.
+In Jaffna, a woman was murdered and burned in Gurunagar due to an illicit affair. The suspect, a 40-year-old man, was arrested. In Kandy, a woman was killed in Mahaiyawa over a dispute with a resident.
 
-පොලීසිය ප්‍රකාශ කළේ යාපනය ගුරුනගර් ප්‍රදේශයේදී කාන්තාවක් ව ගිනිතබා ඝාතනය කර ඇති බවය.
+🟩
 
-අදාළ කාන්තාව යාපනය ප්‍රදේශයේ පුද්ගලයෙකු සමග අනියම් සම්බන්ධතාවක් පවත්වාගෙන ගොස් ඇති අතර දෙදෙනා සමග ඇතිවූ ආරවුලක් දුරදිග යාමෙන් අනියම් සැමියා විසින් එලෙස ගිනිතබා මෙම ඝාතනය සිදුකර ඇත.
+Two murders were conducted in Jaffna and Kandy.
 
-අදාළ කාන්තාව සැකකරු සමග ඔහුගේ මවගේ සුසාන භූමියට පහන් දැල්වීම සඳහා ගිය අවස්ථාවේ එම ඝාතනය සිදුකර ඇති බව පොලීසිය පවසයි.
+The police stated that a woman has been burned in Gurunagar area in Jaffna.
 
-ඝාතනයට සම්බන්ධ 40 හැවිරිදි සැකකරු අත්අඩංගුවට ගෙන ඇති බව පොලීසිය පැවසීය.
+The woman had maintained an illicit affair with a person in Jaffna and the casual husband has done so in their fire.
 
-මේ අතර මහනුවර මහයියාව ප්‍රදේශයේ දී තියුණු ආයුධයකින් පහර දී කාන්තාවක්ව ඝාතනය කර තිබේ.
+The victim had committed the murder when the woman went to his mother's cemetery with the suspect, police said.
 
-නිවස අසල පදිංචි පුද්ගලයෙකු සමග ඇතිවූ ආරවුලක් දුරදිග යාමෙන් එම ඝාතනය සිදුකර ඇති බව පොලීසිය පවසයි.
+The 40-year-old suspect was arrested in connection with the murder.
+
+Meanwhile, in Mahaiyawa, Kandy has been assaulted and killed a woman.
+
+Police say the murder had been carried out with a dispute with a resident of a resident of the house.
 
 ◼️
 
 [Data](articles/32b8d5bf.json)
+
+[Extended Data](ext_articles/32b8d5bf.ext.json)
 
 ---
 
@@ -402,6 +408,8 @@ Coral reefs comprise some of the most biologically diverse and valuable ecosyste
 
 [Data](articles/93ab5faf.json)
 
+[Extended Data](ext_articles/93ab5faf.ext.json)
+
 ---
 
 ### Ministry Of Finance, Economic Stabilization & National Policies
@@ -421,6 +429,8 @@ Recent press statement issued by the Ministry dated 27/05/2024 ,appears to be a 
 ...
 
 [Data](articles/8c0dda27.json)
+
+[Extended Data](ext_articles/8c0dda27.ext.json)
 
 ---
 
@@ -467,6 +477,8 @@ President Ranil Wickremesinghe, unlike his predecessors, was not elected by the 
 ...
 
 [Data](articles/df9eea3f.json)
+
+[Extended Data](ext_articles/df9eea3f.ext.json)
 
 ---
 

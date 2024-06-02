@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-03 01:52:10**
+As of **2024-06-03 02:04:02**
 
 ## Newspaper Stats
 
-*Scraped **27,965** Articles*
+*Scraped **27,969** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 275
 newsfirstlk | 363
 islandlk | 1,507
 economynextcom | 1,589
-dailyftlk | 1,637
+dailyftlk | 1,641
 adalk | 2,386
 adaderanalk | 3,179
 tamilmirrorlk | 3,277
@@ -26,11 +26,69 @@ adaderanasinhalalk | 4,482
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,965 (100.0%) of 27,965 articles have been extended.
+27,965 (100.0%) of 27,969 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-03 (Monday)
+
+### JAT records 43% Q4 PAT growth and 53% YOY revenue increase in Bangladesh
+
+*2024-06-03 01:21:30* · [`dailyftlk`](https://www.ft.lk/business/JAT-records-43-Q4-PAT-growth-and-53-YOY-revenue-increase-in-Bangladesh/34-762517) · `en`
+
+Emerging regional conglomerate and Sri Lanka’s market leader in wood coatings and brushes, JAT Holdings PLC recently released its financials for the fiscal year ended 31 March 2024.
+
+The results demonstrated the Group’s robust financial position and resilient growth, with a profitability of 43% over the 4th quarter of the previous year, to Rs. 447 million. Meanwhile, year-on-year (YoY) turnover increased by 14% to Rs. 11.5 billion to record the highest turnover ever achieved by JAT Holdings PLC. Overall Export Sector growth also rose by a healthy 53%, while local revenues grew by 14%.
+
+...
+
+[Data](articles/1748f40c.json)
+
+---
+
+### Fisheries Ministry and Regen Renewables sign agreement to power Peliyagoda Fish Market with solar
+
+*2024-06-03 01:17:30* · [`dailyftlk`](https://www.ft.lk/business/Fisheries-Ministry-and-Regen-Renewables-sign-agreement-to-power-Peliyagoda-Fish-Market-with-solar/34-762516) · `en`
+
+Fisheries Ministry Secretary K.N. Kumari Somarathna and Regen Renewables Managing Director and CEO Dr. Lakmal Fernado
+
+In a significant step towards sustainable energy solutions, Regen Solar, specialists in the solar PV sector, has inaugurated a ground-breaking project.
+
+The installation consisting of 1893 Nos. DAS Solar 570Wp solar panels is projected to yield 1,425 MWh of solar energy annually into the national grid.
+
+...
+
+[Data](articles/7b74dcc3.json)
+
+---
+
+### McLarens Lubricants wins Silver at ExxonMobil Distributor Excellence Awards
+
+*2024-06-03 01:15:07* · [`dailyftlk`](https://www.ft.lk/business/McLarens-Lubricants-wins-Silver-at-ExxonMobil-Distributor-Excellence-Awards/34-762515) · `en`
+
+McLarens Lubricants, a fully owned subsidiary of the esteemed McLarens Group, has been honoured with the Silver award in the ‘Total Excellence Award category’ by ExxonMobil Asia Pacific Ltd. The accolade was presented at the prestigious South East Asia, Alliance and Oceania (SAO) Distributor Conference held on 8 May in Hong Kong.
+
+This award recognises McLarens Lubricants’ exceptional performance in several key areas, including business planning, sell-in and sell-out business performance, investment in business growth, sales excellence, and brand execution. The evaluation process encompassed all ExxonMobil distributors in SAO market, highlighting those who excelled across these critical business dimensions.
+
+◼️
+
+[Data](articles/6e2bf052.json)
+
+---
+
+### BNI Sri Lanka to host first ever carbon-neutral BNI conference on 6 June
+
+*2024-06-03 01:13:06* · [`dailyftlk`](https://www.ft.lk/business/BNI-Sri-Lanka-to-host-first-ever-carbon-neutral-BNI-conference-on-6-June/34-762514) · `en`
+
+BNI Sri Lanka Area Director Glenn Lord with Planetary Carbon Standard Founder Imran Ali and Operations Manager Kumudini Bandara at the MOU signing
+
+In a pioneering move towards sustainability, BNI Sri Lanka, the leading business networking organisation dedicated to helping businesses grow through mutual support and collaboration, is proud to announce that its upcoming annual conference scheduled for the 6 June at the Shangri La Hotel, will be the first ever carbon-neutral BNI conference in history. This ground-breaking initiative highlights BNI’s commitment to environmental responsibility and sets a new benchmark for its future events across the world.
+
+...
+
+[Data](articles/c29650c5.json)
+
+---
 
 ### Donald Trump’s conviction and what’s next
 
@@ -2021,91 +2079,5 @@ The Ministry of Education announced that the climatic observations of the conduc
 [Data](articles/17556c55.json)
 
 [Extended Data](ext_articles/17556c55.ext.json)
-
----
-
-### Recovery at Pregnant Helly
-
-*2024-06-02 14:25:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/தென்-மாகாணம்/கர்ப்பிணிகள்-ஹெலியில்-மீட்பு/93-338289) · `ta`
-
-Due to flooding, pregnant women and emergency patients from a hospital were airlifted to Udugama Hospital. Two individuals are missing in the Tavalama area. Army and Navy relief teams equipped with boats and safety gear are assisting in rescues across several regions.
-
-🟩
-
-All the roads going to the hospital have been flooded and all pregnant mothers and emergency patients in the hospital have been transferred to the Udugama Hospital by helicopters, said Galle District Community Health Medical Officer Aila Chandrasiri.
-
-He also said that mothers and patients were brought in a helicopter because the patient could not go to the Neluwa Hospital.
-
-Meanwhile, Galle District Commissioner Sami Rajakaruna said that two persons have disappeared in the Tavalama area due to heavy rains.
-
-Army and Navy Relief Service Committees have been sent to those areas with boats and safety equipment to save the affected people in the areas of Tawalama, Neluwa, Udugama and Hiniduma.
-
-Accordingly, the Relief Task Force went to the flooded areas and took steps to rescue the victims and take them to safe places.
-
-◼️
-
-[Data](articles/da36a55d.json)
-
-[Extended Data](ext_articles/da36a55d.ext.json)
-
----
-
-### Red warning from the Department of Meteorological Department
-
-*2024-06-02 14:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197285) · `si`
-
-The Department of Meteorology has issued a red warning due to heavy showers expected in the Western, Sabaragamuwa, and North Western provinces, including the Galle and Matara districts. The public is advised to prepare for strong winds, lightning, and thunderstorms. Significant rainfall amounts have been recorded in areas like Kirindiwela (152mm), Wathupitiwala (138.5mm), and Avissawella (98.5mm).
-
-🟩
-
-The Department of Meteorology has issued a red warning statement on heavy showers.
-
-In some places in the Western, Sabaragamuwa and North Western provinces, the Galle and Matara districts can also be ranked.
-
-People call on the public to take necessary arbitrary winds and lightning with thunderstorms.
-
-The Kirindiwela area has received 152 millimeters from 152 mm of rain this morning to 2.00 am.
-
-During the time period, 138.5 mm of rainfall in Wathupitiwala, Vathupitiwala area has reached a total of 98.5 mm of rainfall in the Avissawella area.
-
-◼️
-
-[Data](articles/165436e8.json)
-
-[Extended Data](ext_articles/165436e8.ext.json)
-
----
-
-### Power supply disconnected in several areas
-
-*2024-06-02 14:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/99596/power-supply-disconnected-in-several-areas-) · `en`
-
-The power supply has been disconnected to several areas as a precautionary measure due to the prevailing adverse weather conditions and floods, the Secretary of the Ministry of Power and Energy said.
-
-Accordingly, the power supply has been disconnected in several areas in the Galle, Kalutara, Ratnapura, Colombo and Kegalle districts owing to this.
-
-◼️
-
-[Data](articles/b78f6f7d.json)
-
-[Extended Data](ext_articles/b78f6f7d.ext.json)
-
----
-
-### Sumanthiran's trap is the civil society
-
-*2024-06-02 14:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/185110) · `ta`
-
-Sumanthiran uses the Oslo Agreement as a tool against the Tamil government party's opponent, employing 'Public Information' to influence the presidential election. His actions, along with those of certain Tamil parties and civil society groups, have sparked fear and tension among many voters.
-
-🟩
-
-Sumanthiran - Sumanthiran has taken up the weapon of the Oslo Agreement to defeat the general candidate's plan to defeat the Tamil government party, and has taken a new weapon called 'Public Information'. The efforts of some Tamil parties and the civil society on the presidential candidate in the presidential election have created fear or tension for many.
-
-◼️
-
-[Data](articles/18afec15.json)
-
-[Extended Data](ext_articles/18afec15.ext.json)
 
 ---

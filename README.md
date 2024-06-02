@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-03 00:34:12**
+As of **2024-06-03 00:49:30**
 
 ## Newspaper Stats
 
-*Scraped **27,959** Articles*
+*Scraped **27,962** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,16 +19,64 @@ adalk | 2,386
 adaderanalk | 3,179
 tamilmirrorlk | 3,277
 virakesarilk | 4,312
-dailymirrorlk | 4,432
+dailymirrorlk | 4,435
 adaderanasinhalalk | 4,482
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,959 (100.0%) of 27,959 articles have been extended.
+27,959 (100.0%) of 27,962 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-06-03 (Monday)
+
+### McDonald’s secret: Shares rise while food sales decline
+
+*2024-06-03 00:27:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/McDonalds-secret-Shares-rise-while-food-sales-decline/172-283931) · `en`
+
+The  Official Poverty Measure, according to which the official US  poverty rate in 2022 was 11.5 percent, with 37.9 million people in  poverty
+
+It’s hard to believe, but McDonald’s is losing customers in the US because they can no longer afford McDonald’s prices.
+
+Americans spend eleven per cent of their earnings on food. Eating out is a major pastime. But, those in the median income groups (including sections of the middle class) are feeling squeezed as they need to spend more on almost everything, including rents, mortgages, cars and transport. Unemployment is on the rise, with Silicon Valley and Amazon among the earliest to begin layoffs.
+
+Those earning $45,000 or less are less and less able to eat out, and McDonald’s outlets are favourite havens for that.
+
+...
+
+[Data](articles/c5f58cd5.json)
+
+---
+
+### When IMF targets become  Sri Lankan law
+
+*2024-06-03 00:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/When-IMF-targets-become-Sri-Lankan-law/172-283930) · `en`
+
+A meeting between President Ranil Wickremesinghe and the IMF team at the Finance Ministry in March 2024
+
+Even as Sri Lanka prepares for elections, laws are being rushed through a parliament without legitimacy. Among those many draft laws– the President in his Budget Speech in November 2023 said he wants to create or amend sixty new laws–one of the most notorious so far is the Economic Transformation Bill. If the citizenry is being devastated by the severe austerity measures imposed by the International Monetary Fund (IMF), this new bill seeks to legislate the very conditionalities and targets set by the IMF.
+
+...
+
+[Data](articles/4c69ce7f.json)
+
+---
+
+### Right of Reply: Rividhanavi (Private) Ltd responds to CEB’s solar project article
+
+*2024-06-03 00:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Right-of-Reply-Rividhanavi-Private-Ltd-responds-to-CEBs-solar-project-article/172-283929) · `en`
+
+The following is a right of reply sent by Rividhanavi (Private) Limited to the Daily Mirror in response to the article titled ‘CEB’s solar project awarding procedure raises eyebrows’ and published on May 9.
+
+This refers to the article written by Ms Nirmala Kannangara which appeared under the subject heading on page A4 of Daily Mirror on 9th May 2024. There were many allegations levelled against awarding the project to us (i.e. consortium of Lakdhanavi Limited, the Blue Circle Limited and Wind Force PLC). Most of the information presented in the article was either misrepresented and/or misinterpreted. Our consortium has now formed the SPV (special purpose vehicle) company, Rividhanavi (Pvt) Limited, for the development of the project and this answer is sent by the SPV company. We categorically deny all the allegations levelled against our company/consortium. We are pleased to clarify and answer our position as follows.
+
+...
+
+[Data](articles/8b3a8ad8.json)
+
+---
 
 ### 2024-06-02 (Sunday)
 
@@ -2057,69 +2105,5 @@ The District Disaster Management Unit states that a special operation has been l
 [Data](articles/05922360.json)
 
 [Extended Data](ext_articles/05922360.ext.json)
-
----
-
-### Flights diverted to Mattala due to bad weather at BIA
-
-*2024-06-02 14:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/99595/flights-diverted-to-mattala-due-to-bad-weather-at-bia) · `en`
-
-Two flights arriving at Bandaranaike International Airport (BIA) in Katunayake have been diverted to Mattala Rajapaksa International Airport as a result of extreme weather conditions.
-
-SriLankan Airlines flight, UL 309 from Singapore, and an Etihad Airways flight, EY 394 from Abu Dhabi, were redirected to Mattala because adverse weather around Katunayake prevented them from landing at BIA, airport authorities said.
-
-Meanwhile, SriLankan Airlines has sent a new crew from Colombo to Mattala for the UL 309 SriLankan Airlines flight from Singapore, which was landed at Mattala International Airport, in order to bring the flight back to the BIA.
-
-This replacement was necessary because the original crew’s shift had expired after a five-hour delay caused by a technical fault, the authorities said.
-
-◼️
-
-[Data](articles/d03dbecb.json)
-
-[Extended Data](ext_articles/d03dbecb.ext.json)
-
----
-
-### Suddenly the electricity of several areas
-
-*2024-06-02 14:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197283) · `si`
-
-In response to severe weather and flooding, the Ministry of Power and Energy has suspended power outages in Kalutara, Ratnapura, and Kegalle districts, aiming to protect residents from further disruptions.
-
-🟩
-
-The Ministry of Power and Energy stated that steps have been taken to suspend the power cut in several areas, taking the prevailing inclement weather and floods.
-
-The Secretary to the Ministry has said that steps have been taken to disconnect the power outage in the affected areas affected areas affected areas in Kalutara, Kalutara, Ratnapura and Kegalle districts.
-
-The Secretary to the Ministry stated that the power cuts have been disconnected in these areas with the objective of providing the protection of the people with the floods.
-
-◼️
-
-[Data](articles/c18a67b0.json)
-
-[Extended Data](ext_articles/c18a67b0.ext.json)
-
----
-
-### Composition of the bud
-
-*2024-06-02 13:59:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மொட்டுவின்-கூட்டம்-ஒத்திவைப்பு/175-338288) · `ta`
-
-The scheduled meeting in Biyagama, known as the "lotus symbol," was postponed due to bad weather. Namal Rajapaksa, the National Organizer and MP, announced the delay of the Biyagama constituency conference and revealed the party's decision to allocate one million rupees for flood relief in the area.
-
-🟩
-
-The meeting to be held on Sunday (02) in Biyagama, Sri Lanka PA, which is a lotus symbol, was postponed.
-
-The National Organizer and Member of Parliament Namal Rajapaksa has said that the Biyagama constituency conference has been delayed due to bad weather.
-
-Namal Rajapaksa said the party had decided to provide one million rupees for the Biyagama flood relief project.
-
-◼️
-
-[Data](articles/b0d64088.json)
-
-[Extended Data](ext_articles/b0d64088.ext.json)
 
 ---

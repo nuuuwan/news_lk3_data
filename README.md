@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-02 22:52:02**
+As of **2024-06-02 23:03:49**
 
 ## Newspaper Stats
 
-*Scraped **27,954** Articles*
+*Scraped **27,955** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,33 +20,61 @@ adaderanalk | 3,178
 tamilmirrorlk | 3,277
 virakesarilk | 4,312
 dailymirrorlk | 4,431
-adaderanasinhalalk | 4,481
+adaderanasinhalalk | 4,482
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,946 (100.0%) of 27,954 articles have been extended.
+27,954 (100.0%) of 27,955 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-02 (Sunday)
 
-### இராணுவத்தினர் கடமையில் ஈடுபடுத்தப்பட்டனர்
+### ශ්‍රී ලංකා ක්‍රිකට් කණ්ඩායම ලොකු අවුලක
+
+*2024-06-02 22:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197306) · `si`
+
+අමෙරිකාවේ ෆ්ලොරීඩා නුවර සිට නිව්යෝර්ක් දක්වා පැමිණි විශේෂ ගුවන් යානය ප්‍රමාද වීම හේතුවෙන් ශ්‍රී ලංකා, අයර්ලන්ත සහ දකුණු අප්‍රිකා ක්‍රීඩකයින් දැඩි අපහසුතාවට පත්ව තිබේ.
+
+අදාළ විශේෂ ගුවන් යානය ෆ්ලෝරීඩා නුවරින් පිටත්වීමට නියමිතව තිබූ වේලාවට වඩා පැය 7කට වැඩි කාලයක් ප්‍රමාද වූ බව වාර්තා වේ.
+
+ශ්‍රී ලංකා, අයර්ලන්ත සහ දකුණු අප්‍රිකා කණ්ඩායම් ෆ්ලොරීඩා හිදී පැවති පුහුණු තරගවලින් අනතුරුව ලෝක කුසලාන මූලික වටයේ තරගවලට සහභාගීවීම සඳහා නිව්‍යෝර්ක් වෙත පැමිණීමට නියමිතව තිබුණි.
+
+ඔවුන්ට නිව්යෝර්ක් වෙත පැමිණීම සඳහා විශේෂ ගුවන් යානයක් වෙන්කර තිබූ අතර එම ගුවන් යානය මෙලෙස පැය 7කට වැඩි කාලයක් ප්‍රමාද වීම හේතුවෙන් ක්‍රීඩකයින් දැඩි අපහසුතාවකට පත්ව තිබේ.
+
+එම සම්පූර්ණ කාලයම ක්‍රීඩකයින් රැඳී සිට තිබෙන්නේ ෆ්ලොරීඩා ගුවන් තොටුපොළ තුළය.
+
+ඒ අනුව මැයි 31 වන සිකුරාදා රාත්‍රී 8ට නිව්යෝර්ක් වෙත ලඟාවීමට නියමිතව සිටි ක්‍රීඩකයින් නිව්යෝර්ක් වෙත ලඟාවී ඇත්තේ ජුනි 1 වන සෙනසුරාදා අලුයම 5ටය.
+
+...
+
+[Data](articles/c1f47491.json)
+
+---
+
+### Soldiers were deployed on duty
 
 *2024-06-02 22:35:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இராணுவத்தினர்-கடமையில்-ஈடுபடுத்தப்பட்டனர்/175-338311) · `ta`
 
-நாடளாவிய ரீதியில் நிலவும் சீரற்ற காலநிலையினால் ஆறுகளை அண்டிய தாழ்நிலப்பகுதிகள் வெள்ளத்தில் மூழ்கியுள்ளதன் காரணமாக பாதிக்கப்பட்டுள்ள மக்களை மீட்டு அவர்களுக்கான நிவாரண சேவைகளை வழங்குவதற்காக இராணுவத்தினர் கடமைகளில் ஈடுபடுத்தப்பட்டுள்ளனர்.
+Troops have been dispatched nationwide to assist flood victims, operating under the Ministry of Defense and the Army Commander. They're equipped with boats in key areas like Tehiyovita-Talduwa, Kaladuru Oya-Kiriella, Morawaka, Tawalama, Tihagoda, and Neluwa. The Army Commander has directed the Security Forces Headquarters to prioritize rescues and maintain readiness for emergencies.
 
-பாதுகாப்பு அமைச்சு மற்றும் இராணுவத் தளபதியின் பணிப்புரைக்கு அமைய அவர்கள் பணிகளில் ஈடுபடுத்தப்பட்டுள்ளனர்.
+🟩
 
-தெஹியோவிட்ட - தல்துவ பகுதியிலும், கலதுரு ஓயா - கிரியெல்ல பகுதியிலும், மொரவக, தவலம, திஹகொட மற்றும் நெலுவ பகுதிகளிலும் இராணுவக் குழுக்கள் படகுகளுடன் சேவையில் ஈடுபடுத்தப்பட்டுள்ளன.
+The military has been deployed to provide relief services to the people affected by the flooding of rivers due to inclement weather throughout the country.
 
-பாதிக்கப்பட்ட மக்களை மீட்பதற்காகவும் அவசரநிலை ஏற்பட்டால் இராணுவத்தினரை தயார் நிலையில் வைத்திருக்குமாறும் பாதுகாப்பு படை தலைமையக தளபதிகளுக்கு இராணுவத் தளபதி பணிப்புரை விடுத்துள்ளார். (a)
+They are involved in the work of the Ministry of Defense and the Commander of the Army.
+
+Military groups have been deployed with boats in the Tehiyovita - Talduwa area, Kaladuru Oya - Kiriella area, Morawaka, Tawalama, Tihagoda and Neluwa areas.
+
+The Army Commander has issued a directive to the Security Forces Headquarters Commander to rescue the affected people and to keep the army in the event of an emergency.. (A)
 
 ◼️
 
 [Data](articles/5c16cc82.json)
+
+[Extended Data](ext_articles/5c16cc82.ext.json)
 
 ---
 
@@ -218,25 +246,31 @@ Pointing out that there is no political party to lead the country, the president
 
 ---
 
-### தாய்வானில் தருஷிக்கு இரட்டை வெற்றி; 400 மீற்றரைத் தொடர்ந்து 800 மீற்றரிலும் முதலிடம்
+### Twin win for Tarushi in Taiwan;400 meters followed by 800 meters
 
 *2024-06-02 21:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/185151) · `ta`
 
-தாய்வானில் நடைபெற்றுவரும் சைனீஸ் தாய்ப்பே பகிரங்க மெய்வல்லுநர் சம்பியன்ஷிப்பில் தருஷி கருணாரட்ன சனிக்கிழமை (01) இரட்டை வெற்றியைப் பூர்த்தி செய்தார்.
+Tarushi Karunaratne triumphed in both the 400m and 800m races at the Chinese Taipei Athletics Championships, setting herself up for potential Olympic qualification with her impressive times. Meanwhile, Dilhani Lakemke secured silver in the javelin throw, and Aruna Darshana placed fifth in the men's 200m race.
 
-சனிக்கிழமை நடைபெற்ற பெண்களுக்கான 400  மீற்றர்   ஓட்டப் போட்டியை 52.48 செக்கன்களில் நிறைவு செய்து வெற்றி பெற்ற தருஷி கருணாரட்ன, பெண்களுக்கான 800 மீற்றர் ஓட்டப் போட்டியிலும் வெற்றி பெற்று அசத்தினார்.
+🟩
 
-800 மீற்றர் ஓட்டப் போட்டியை அவர் 2 நிமிடங்கள் 05.74 செக்கன்களில் நிறைவு செய்து வெற்றி பெற்றார்.
+Tarushi Karunaratne completed his double victory on Saturday (01) at the Chinese Breasty Breasty Athletics Championships in Taiwan.
 
-அடுத்து நடைபெறவுள்ள போட்டியில் 800 மீற்றரை 2 நிமிடங்கள் 01.00 செக்கன்களில்  தருஷி  ஓடி முடித்தால் பாரிஸ் 2024 ஒலிம்பிக் விளையாட்டு விழாவில் பங்குபற்ற தகுதிபெறுவார்.
+Tarushi Karunaratne, who won the 400m race for the women's 400m race on Saturday in 52.48 seconds, won the women's 800m race.
 
-இதேவேளை, பெண்களுக்கான ஈட்டி எறிதலில் டில்ஹானி லேக்கம்கே இரண்டாம் இடத்தைப் பெற்றார். அவர் ஈட்டியை 52.79 மீற்றர் தூரத்திற்கு எறிந்து இரண்டாம் இடத்தைப் பெற்றார்.
+He won the 800m race in 2 minutes in 05.74 seconds.
 
-ஆண்களுக்கான 200 மீற்றர் ஓட்டப் போட்டியில் பங்குபற்றிய அருண தர்ஷன 5ஆம் இடத்தைப் பெற்றார்.
+If Tarushi runs 800 meters to 2 minutes 01.00 seconds in the next match, Paris will qualify for the 2024 Olympic Games.
+
+Meanwhile, Dilhani Lakemke came second in women's javelin throw. He threw a spear of 52.79 meters and finished second.
+
+Aruna Darshana was ranked 5th in the men's 200m race.
 
 ◼️
 
 [Data](articles/d782c9e5.json)
+
+[Extended Data](ext_articles/d782c9e5.ext.json)
 
 ---
 
@@ -322,25 +356,35 @@ People were asked to take necessary steps to reduce the dangers of heavy winds a
 
 ---
 
-### ආර්ථික පරිවර්තන පනතට සහාය දෙන්න
+### Support the Economic Translation Act
 
 *2024-06-02 20:53:07* · [`adalk`](https://www.ada.lk/breaking_news/ආර්ථික-පරිවර්තන-පනතට-සහාය-දෙන්න/11-409971) · `si`
 
-රට ඉදිරියට ගෙන යාමේ නිසි සැලැස්මක් මේ රටේ කිසිදු දේශපාලන පක්ෂයකට නැහැ.
+President Ranil Wickremesinghe emphasizes the importance of a structured plan for economic growth, highlighting the United National Party's efforts to stabilize the economy and reduce debt. He criticizes the lack of viable alternatives from opposing parties and urges support for the Economic Translation Act aimed at transforming Sri Lanka's economy from import-based to export-oriented.
 
-ආර්ථිකය ඉදිරියට ගෙන යාමට විකල්ප සැලැස්මක් තිබේ නම් ඉදිරිපත් කරන්න.
+🟩
 
-නැතිනම් ආර්ථික පරිවර්තන නීතියට සහාය දෙන්න – ජනපති එක්සත් ජාතික පක්ෂ කලාප සංවිධායකවරුන්ට පත්වීම් ලිපි ලබා දීමේ අවස්ථාවේ දී කියයි.
+No political party in this country has no proper plan to advance the country.
 
-රටේ ආර්ථිකය ස්ථාවර වී ඇති බැවින් නැවත පුරුදු සාම්ප්‍රදායික දේශපාලනයේ නිරතවීමට හැකි බව කිසිවෙකු නොසිතිය යුතු බවත්, රට ඉදිරියට ගෙන යා හැක්කේ විධිමත් සැලැස්මක් ඔස්සේ පමණක් බවත් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අවධාරණය කළේය.
+If there is an alternative plan to advance the economy, submit.
 
-එබැවින් විවේචන සිදු කරමින් නොසිට රජයේ වැඩපිළිවෙළට සහාය ලබාදෙන ලෙස සියලුදෙනාගෙන් ඉල්ලා සිටි ජනාධිපතිවරයා විවේචන පහසු වුවත් විසඳුම් අසීරු බවද කියා සිටියේය.
+Otherwise, the President's United National Party (President) says UNP organizers are given letters to the appointment letters.
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ අද (02) පස්වරුවේ සිරිකොත පක්ෂ මූලස්ථානයේ පැවති එක්සත් ජාතික පක්ෂ කලාප සංවිධායකවරුන්ට පත්වීම් ලිපි ලබාදීමේ වැඩසටහනට එක් වෙමිනි.
+President Ranil Wickremesinghe stressed that the country's economy is stabilized and that the country can be carried out only through a proper plan.
+
+Therefore, the President who askeddays the government's program not to support the government program, he said that it was easy to address.
+
+President Ranil Wickremesinghe was speaking to the provision of appointment letters to the United National Party Zone Organizer for the United National Party (UNP) at Sirikotha party headquarters this afternoon.
+
+The President also requested that if the President had no plan to take the country to any political party, it would be submitted to the future of the economy.
+
+President Ranil Wickremesinghe said,
 
 ...
 
 [Data](articles/ec0ab704.json)
+
+[Extended Data](ext_articles/ec0ab704.ext.json)
 
 ---
 
@@ -462,17 +506,23 @@ The President’s Media Division announced this directive a short while ago, emp
 
 ---
 
-### சீரற்ற காலநிலையால் கடந்த 24 மணி நேரத்தில் 10 பேர் பலி! 05 பேர் காணாமல் போயுள்ளனர்
+### 10 people killed in the last 24 hours due to inclement weather05 people are missing
 
 *2024-06-02 20:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/185150) · `ta`
 
-சீரற்ற காலநிலையால் காரணமாக கடந்த 24 மணி நேரத்தில் 10 பேர் உயிரிழந்துள்ளனர்.
+In the past 24 hours, severe weather conditions have claimed the lives of 10 individuals and left another 5 missing.
 
-இதேவேளை, மேலும் 05 பேர் காணாமல் போயுள்ளதாக பாதுகாப்பு இராஜாங்க அமைச்சர் பிரமித பண்டார தென்னகோன் தெரிவித்துள்ளார்.
+🟩
+
+Due to inclement weather, 10 people have died in the last 24 hours.
+
+Meanwhile, Defense Minister Pramitha Bandara Tennakoon has said that five more people have disappeared.
 
 ◼️
 
 [Data](articles/e03d20a3.json)
+
+[Extended Data](ext_articles/e03d20a3.ext.json)
 
 ---
 
@@ -494,17 +544,23 @@ The Department of Irrigation has issued a latest announcement on the flooding wi
 
 ---
 
-### பொது மக்களுக்கான பொலிஸார் விசேட அறிவிப்பு
+### Special notice of police for the public
 
 *2024-06-02 20:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/185149) · `ta`
 
-சீரற்ற காலநிலையினால் பாதிக்கப்பட்ட மக்களுக்கு நிவாரணம் வழங்குவதற்காக பொலிஸ், விசேட அனர்த்த நிவாரணப் பிரிவை நிறுவியுள்ளது.
+The police have set up a Special Disaster Relief Unit to assist those impacted by severe weather. For emergency aid, dial 011-242 1820 or 011-242 1111.
 
-011-242 1820 மற்றும் 011-242 1111 ஆகிய தொலைபேசி இலக்கங்களின் ஊடாக மக்கள் அனர்த்த நிவாரண தேவைகளுக்காக அழைக்க முடியும் என பொலிஸார் மேலும் தெரிவித்துள்ளனர்.
+🟩
+
+The police have established a Special Disaster Relief Unit to provide relief to the people affected by the inclement weather.
+
+People can call for disaster relief needs through telephone numbers 011-242 1820 and 011-242 1111, police said.
 
 ◼️
 
 [Data](articles/d8eeeff6.json)
+
+[Extended Data](ext_articles/d8eeeff6.ext.json)
 
 ---
 
@@ -528,17 +584,23 @@ The severe weather, characterized by relentless rainfall has triggered widesprea
 
 ---
 
-### சரிந்து விழுந்த மண்மேட்டில் சிக்கிய சிறுமி பலி! அவிசாவளையில் சோகம்
+### Girl killed in collapsed mudTragedy
 
 *2024-06-02 19:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/185148) · `ta`
 
-அவிசாவளை, ஹேவாஹின்ன பிரதேசத்தில் சரிந்து விழுந்த மண்மேட்டில் சிக்கி சிறுமி ஒருவர் உயிரிழந்துள்ளார்.
+In Hewahinna, Avissawella, a girl perished when soil collapsed, part of six fatalities in 24 hours from adverse weather conditions.
 
-மோசமான வானிலை காரணமாக கடந்த 24 மணித்தியாலங்களில் 06 பேர் உயிரிழந்துள்ளமை குறிப்பிடத்தக்கது.
+🟩
+
+A girl dies after being trapped in a collapsed soil in Hewahinna area in Avissawella.
+
+Six people have died in the last 24 hours due to bad weather.
 
 ◼️
 
 [Data](articles/09bffdae.json)
+
+[Extended Data](ext_articles/09bffdae.ext.json)
 
 ---
 
@@ -600,17 +662,23 @@ Since a bridge between Waga and Kosgama railway stations was swept away by flood
 
 ---
 
-### பேரூந்தை ரயில் பாதையில் செலுத்திச் சென்ற சாரதி கைது!
+### Driver arrested for driving
 
 *2024-06-02 19:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/185146) · `ta`
 
-ரயில் தண்டவாளத்தில் பேரூந்து செலுத்திச் சம்பவம் தொடர்பில் பேரூந்து சாரதி பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
+Bus driver arrested in Embilipitiya for unspecified reasons.
 
-சந்தேகத்திற்குரிய பஸ் சாரதி எம்பிலிபிட்டிய பிரதேசத்தில் வைத்து கைது செய்யப்பட்டதாக பொலிஸ் ஊடகப் பேச்சாளர் பிரதி பொலிஸ் மா அதிபர் நிஹால் தல்துவ தெரிவித்தார்.
+🟩
+
+The driver of the bus has been arrested by the driver of the bus in connection with the bus.
+
+Police Media Spokesperson Deputy Inspector General of Police Nihal Talduwa said that the suspected bus driver was arrested in Embilipitiya area.
 
 ◼️
 
 [Data](articles/e3ab65d8.json)
+
+[Extended Data](ext_articles/e3ab65d8.ext.json)
 
 ---
 
@@ -722,15 +790,21 @@ The general public can accordingly seek assistance and coordinate with other dis
 
 ---
 
-### காலத்தை வீணடிக்கும்    இரண்டு தவறுகள்
+### Two mistakes that waste time
 
 *2024-06-02 19:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/185133) · `ta`
 
-முஸ்லிம் அரசியல் தலைவர்கள் மற்றும் எம்.பி.க்கள், இன்னும் நான்கு மாதங்களில் குறைந்தபட்சம் ஒருதேர்தலாவது நடைபெறப் போகின்றது என்பதை தெட்டத் தெளிவாக அறிந்திருந்தும் மீதமாக இருக்கின்ற காலத்தையாவது தமது சமூகத்திற்காக உருப்படியாகப் பயன்படுத்தாமல் வீணடித்துக் கொண்டிருக்கின்றனர்.  முஸ்லிம் கட்சிகளோ அல்லது தனிப்பட்ட முஸ்லிம் எம்.பி.க்களோ தாங்கள் செய்த சேவையை, இந்த சமூகத்திற்கு பெற்றுக் கொடுத்த உரிமைகளை, தீர்த்து வைத்த பிரச்சினைகளைச் சொல்லி வாக்குக் கேட்க முடியாத பெரும் கையறு நிலைக்குள் இருக்கின்றார்கள். எப்படியான வேடத்தை தரித்தால், என்ன செய்தால் மக்களை மயக்கலாம் என்று தலையைக் குடைந்து கொண்டிருக்கின்றார்கள்.
+Muslim political leaders and MPs are criticized for not addressing community issues despite upcoming elections. Their lack of action on rights and solutions is seen as neglecting their responsibilities to the community.
+
+🟩
+
+Muslim political leaders and MPs have been wasting it for their community, even though they are clearly aware that at least one election is going to be held in four months.. Muslim parties or individual Muslim MPs are in a huge manner that cannot vote for the problems they have done, the rights given to this community, and the problems they have solved.. What kind of role is that they are heading to the head that people do it.
 
 ◼️
 
 [Data](articles/8d06ce6a.json)
+
+[Extended Data](ext_articles/8d06ce6a.ext.json)
 
 ---
 
@@ -2041,23 +2115,5 @@ With heavy rain weather conditions, Kelani Ganga has grown to a small flood from
 [Data](articles/e4570e74.json)
 
 [Extended Data](ext_articles/e4570e74.ext.json)
-
----
-
-### Landslide warning for nine areas; public urged to be precautious
-
-*2024-06-02 13:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Landslide-warning-for-nine-areas-public-urged-to-be-precautious/108-283901) · `en`
-
-The National Building Research Organization (NBRO) today issued early warnings for landslides in Colombo, Hambantota, Kalutara, Kandy, Matara, Nuwara Eliya, Galle, Ratnapura and Kegalle districts.
-
-Those in these areas are to be watchful for sudden appearance of water sprouts, cracks on walls and on the soil as these may be signs of impending landslides.
-
-According to the Department of Meteorology, heavy showers about 100mm are on the cards at some places in Western and Sabaragamuwa provinces
-
-◼️
-
-[Data](articles/53b673c3.json)
-
-[Extended Data](ext_articles/53b673c3.ext.json)
 
 ---

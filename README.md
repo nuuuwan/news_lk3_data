@@ -1,46 +1,84 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-02 17:34:20**
+As of **2024-06-02 17:54:44**
 
 ## Newspaper Stats
 
-*Scraped **27,897** Articles*
+*Scraped **27,902** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 253
 dbsjeyarajcom | 269
-bbccomsinhala | 274
+bbccomsinhala | 275
 newsfirstlk | 363
 islandlk | 1,507
 economynextcom | 1,587
 dailyftlk | 1,635
 adalk | 2,379
-adaderanalk | 3,171
-tamilmirrorlk | 3,271
+adaderanalk | 3,173
+tamilmirrorlk | 3,272
 virakesarilk | 4,300
 dailymirrorlk | 4,421
-adaderanasinhalalk | 4,467
+adaderanasinhalalk | 4,468
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,895 (100.0%) of 27,897 articles have been extended.
+27,897 (100.0%) of 27,902 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-02 (Sunday)
 
-### திடீர் தேர்தல் காணும் பிரித்தானியா
+### South Africa’s ANC rejects demand for Ramaphosa to step down for coalition talks
+
+*2024-06-02 17:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/99601/south-africas-anc-rejects-demand-for-ramaphosa-to-step-down-for-coalition-talks) · `en`
+
+South Africa’s African National Congress party will not consider any demands from possible coalition partners that President Cyril Ramaphosa step down, a top official said Sunday, as the ANC attempted to present a united front after a stinging election result ended its 30-year majority.
+
+As South Africa heads for a series of complex talks to form a national coalition government for the first time and establish stability, ANC secretary-general Fikile Mbalula said Ramaphosa would remain as party leader and any demands from others that he resign for talks to go ahead was “a no-go area.”
+
+“President Ramaphosa is the president of the ANC,” Mbalula said in the ANC leadership’s first public comments since the landmark election results. “And if you come to us with that demand that Ramaphosa is going to step down as the president, that is not going to happen.”
+
+...
+
+[Data](articles/6d067dfa.json)
+
+---
+
+### Britain
 
 *2024-06-02 17:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/185130) · `ta`
 
-பழமைவாதக் கட்சியின் சார்பில் வெற்றிபெற்று பதவியேற்ற போரிஸ் ஜோன்சன் கொரோனாப் பெருந்தொற்றுக் காலத்தில் ஆட்சிபுரிய வேண்டிய நிலை ஏற்பட்டது. உக்ரேன் மீதான ரஷ்யப் படையெடுப்பு ஆரம்பமான போதில் அவரே தலைமை அமைச்சராக விளங்கினார்.  2019 ஜுலை 24இல் பதவியேற்ற இவர் 2022 செப்டெம்பர் 5ஆம் திகதி பதவி விலகினார். நேட்டோ அமைப்பில் அமெரிக்காவுக்கு அடுத்து படைபலம் மிக்க பாராக விளங்கும் பிரித்தானியா உக்ரேன் போர் ஆரம்பமான நாள் முதலாக உக்ரேனுக்குத் தேவையான படைத்தளபாட உதவிகளை வழங்குவது மாத்திரமன்றி ஆயிரக்கணக்கான உக்ரேன் படையினருக்குப் பயிற்சிகளையும் வழங்கி வருகின்றமை குறிப்பிடத்தக்கது....
+Boris Johnson led Britain as Conservative PM from 2019 until his resignation in 2022. He took office just before Russia invaded Ukraine, playing a key role in supporting Ukraine through NATO.
+
+🟩
+
+Boris Johnson, who won the conservative party, was forced to rule over. He was the chief minister when the Russian invasion of Ukraine began. He was sworn in on July 24, 2019 and resigned on September 5, 2022. It is noteworthy that the British Ukraine war, which is the most popular of the United States in the NATO system, has been providing Ukraine to the Ukrainian troops to provide the necessary force to Ukraine.
 
 ◼️
 
 [Data](articles/1eadf056.json)
+
+[Extended Data](ext_articles/1eadf056.ext.json)
+
+---
+
+### නවතම නායයාමේ අනතුරු ඇඟවීම නිකුත් කරයි
+
+*2024-06-02 17:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197292) · `si`
+
+ජාතික ගොඩනැගිලි පර්යේෂණ සංවිධානය විසින් නවතම නායයාමේ අනතුරු ඇඟවීමේ නිවේදනය නිකුත් කර තිබේ.
+
+එම නිවේදනයට අනුව රත්නපුර, නුවරඑළිය, මාතර, කුරුණෑගල, කෑගල්ල, නුවර, කළුතර, හම්බන්තොට, ගාල්ල, සහ කොළඹ දිස්ත්‍රික්ක සඳහා අනතුරු ඇඟවීම සිදුකර ඇත.
+
+මේ අතර එම නිවෙදනය හරහා පාදුක්ක, පාලින්දනුවර, මතුගම, බුලත්සිංහල, ඉංගිරිය, රුවන්වැල්ල, දෙහිඕවිට, දැරණියගල, වරකාපොල, යටියන්තොට, රත්නපුර, අයගම, පැල්මඩුල්ල, කුරුවිට, ඇලපාත, නිවිතිගල, කලවාන, කිරිඇල්ල සහ ඇහැළියගොඩ ප්‍රදේශ සඳහා තුන්වන මට්ටමේ රතු අනතුරු ඇඟවීම් නිකුත් කර තිබේ.
+
+◼️
+
+[Data](articles/b3ff240d.json)
 
 ---
 
@@ -142,25 +180,53 @@ The officers of the police and the Pradeshiya Sabha were also released to releas
 
 ---
 
-### මාතර යටවෙයි  - තරුණයින් දෙදෙනෙක් ජීවිතක්ෂයට
+### Two youths killed in Matara
 
 *2024-06-02 16:43:43* · [`adalk`](https://www.ada.lk/breaking_news/මාතර-යටවෙයි----තරුණයින්-දෙදෙනෙක්-ජීවිතක්ෂයට/11-409966) · `si`
 
-නොකඩවා ඇද හැලෙන ධාරානිපාත වර්ෂාවත් සමග පස් කඩා වැටීමෙන් මාතර දිස්ත්‍රික්කයේ පුද්ගලයින් දෙදෙනෙකු ජීවිතක්ෂයට පත්ව පස් දෙනකු තුවාල ලබා ඇති බව මාතර දිස්ත්‍රික් ආපදා කළමනාකරණ මධ්‍යස්ථානයේ අධ්‍යක්ෂ ලුතිනන් කර්නල් ආරියවංශ කණ්ඩම්බි මහතා පැවසීය.
+Heavy rains in Matara led to the death of two youths and injuries to five others. The district disaster committee convened to address flooding issues, affecting various regions and roads.
 
-එසේ මරුමුවට පත්ව ඇත්තේ මුලටියන දෙනගම පල්ලාවල ප්‍රදේශයේ දී පස් කන්දකට යට වීමෙන් සමරප්පුලි හේවලාගේ කසුන් සදමල් (27) හා පිටවල්ගමුව වංචාවල හේවා හකුරුගේ නුවන් සමීර (20) නැමැති තරුණයින් දෙදෙනෙකි.
+🟩
 
-එම අනතුරින් තවත් තරුණයෙකු තුවාල ලබා ඇත.මීට අමතරව අකුරැස්ස ප්‍රාදේශීය ලේකම් කොට්ඨාසයේ ද නිවසක් මතට පස් කන්දක් කඩා වැටී එකම පවුලේ මව,පියා හා දරුවන් දෙදෙනෙකු තුවාල ලබා ඇත.
+Director of the Matara District, five persons were killed and five injured in the collapse of heavy rains.
 
-අනතුරු දෙකෙන් තුවාල ලැබු එම පස් දෙනාම වෛද්‍ය ප්‍රතිකාර සදහා කරාපිටිය මහ රෝහල වෙත පිටත් කල බව ලුතිනන් කර්නල් ආරියවංශ මහතා කීය.
+The two youths named Nuwan Sugar (27) and Petewage Sakamuwa (20), Palvagam Salamwala (27) and Palvagamuwa suspension was identified.
 
-මේ අතර නිල්වලා ගගේ ඉහල කොටසට ඇදහැළුණු ධාරාණිපාත වර්ෂාවට හේතුවෙන් මේ වන විට මහ ගංවතුර මට්ටමක් ඇති වීමේ අවධානමක් ඇති වී තිබේ.
+Another youth was injured in the accident.
 
-පිටබැද්දර ජල මාපකයේ මහ ගංවතුර මට්ටම මීටර් 6.00 ක් වුවද ඊයේ (02) උදෑසන 10.00;වන විට ජල ප්‍රමාණය මීටර් 7.27 ක් දක්වා සීමාව ඉහල ගොස් තිබුණි.
+Lieutenant Colonel Arivawansa said that the five accidents were injured in the hospital.
+
+In the meantime, heavy rains have risen to the rising rainfall of the Nilwala River.
+
+The amount of water increased to 7.200 meters yesterday morning, but the amount of water increased by 7.00 meters yesterday.
+
+The small flood level of the Akuressagama Draudagama Water Tribute is 6.00 meters and the great floods is 7.50 meters and 7.50 meters.
+
+Therefore, the Matara District Disaster Committee met yesterday evening yesterday (02) under the patronage of Dadduni Provincial Governor Lakshman Yapa Abeywardena.
 
 ...
 
 [Data](articles/60c26697.json)
+
+[Extended Data](ext_articles/60c26697.ext.json)
+
+---
+
+### ரஞ்சித்துக்கு ஐ.தே.க உறுப்புரிமை
+
+*2024-06-02 16:41:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரஞ்சித்துக்கு-ஐ-தே-க-உறுப்புரிமை/175-338302) · `ta`
+
+எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாஸ தலைமையிலான ஐக்கிய மக்கள் சக்தியின் பொதுச் செயலாளரும், பாராளுமன்ற உறுப்பினருமான ரஞ்சித் மத்தும பண்டாரவுக்கு கட்சியின் உறுப்புரிமை​யை வழங்கி,
+
+கட்சியில் மீள இணைத்துக் கொள்ள ஐக்கிய தேசியக் கட்சியின் செயற்குழு ஞாயிற்றுக்கிழமை (02) தீர்மானித்துள்ளது.
+
+ரஞ்சித் மத்தும பண்டாரவின் கட்சி உறுப்புரிமையை ஐக்கிய தேசியக் கட்சி   2020 இல் இடைநிறுத்தியது.
+
+ஐக்கிய தேசியக் கட்சியின் தலைவரும் ஜனாதிபதியுமான ரணில் விக்கிரமசிங்க தலைமையில்   கட்சியின் தலைமையகமான சிறிகொத்தாவில், ஞாயிற்றுக்கிழமை (02) கூடிய  செயற்குழுக் கூட்டத்திலேயே இந்தத் தீர்மானம் எட்டப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/90d5f352.json)
 
 ---
 
@@ -243,6 +309,18 @@ The decision was taken due to the collapse of the Biyagama road along with heavy
 [Data](articles/3aa7a4db.json)
 
 [Extended Data](ext_articles/3aa7a4db.ext.json)
+
+---
+
+### Kaduwela-Biyagama interchange of Southern Expressway temporarily closed
+
+*2024-06-02 16:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/99600/kaduwela-biyagama-interchange-of-southern-expressway-temporarily-closed) · `en`
+
+The Kaduwela-Biyagama interchange of the Southern Expressway has been closed to and from Kadawatha until further notice, Ada Derana reporter said.
+
+◼️
+
+[Data](articles/07f22d14.json)
 
 ---
 
@@ -1612,6 +1690,30 @@ The situation was caused by the torrential rainfall of 149.8mm received by the M
 
 ---
 
+### අධික වැසි: ගත වූ පැය 24 තුළ පුද්ගලයින් 7 දෙනෙකු මියයයි
+
+*2024-06-02 10:49:11* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cw88g2ndzg2o) · `si`
+
+අධික වැසි සහිත කාලගුණය සමග ඇතිවු ආපදා හේතුවෙන් ගතවූ පැය 24ක කාලය තුලදී පුද්ගලයින් 07 දෙනෙකු ජීවිතක්ෂයට පත්ව ඇති බව ආපදා කළමනාකරණ මධ්‍යස්ථානය සඳහන් කර සිටියි.
+
+නිරිත දිග මෝසම් වර්ෂාව සක්‍රීය වීමත් සමග දිවයිනේ බස්නාහිර, සබරගමුව පළාත් වලට මෙන්ම ගාල්ල සහ මාතර දිස්ත්‍රික්ක වෙත මේවන විටත් ධාරාණිපාත වැසි ලැබෙමින් පවතී.
+
+පවතින තත්ත්වය මත ගංවතුර මෙන්ම නාය යාමේ අවදානම් පිළිබඳව අනතුරු ඇඟවීම් නිකුත් කර ඇති බව  ආපදා කළමනාකරණ මධ්‍යස්ථානය පැවසීය.
+
+මේ අතර පවතින තදවැසි සහිත කාලගුණ තත්ත්වය හේතුවෙන්  හෙට (ජුනි මස 03 වෙනිදා) දිවයිනේ සියලුම රජයේ පාසල් වසා තැබෙන බව අධ්‍යාපන අමාත්‍යාංශය නිවේදනයක් නිකුත් කරමින් දැනුම් දී සිටියි.
+
+අධික වැසි සහිත කාලගුණය සමග සීතාවක, පුවක්පිටිය ප්‍රදේශයේදී ගංවතුරට හසුවී එකම පවුලේ තිදෙනෙකු මියගොස් ඇති බව අපදා කළමනාකරණ මධ්‍යස්ථානය නිවේදනය කර සිටියි.
+
+එලෙස මියගොස් ඇත්තේ, වයස අවුරුදු 29ක මවක්, ඇයගේ සත් හැවිරිදි දියණිය සහ 78 හැවිරිදි මුත්තනුවන්ය.
+
+අද ( ජුනි මස 02 වෙනිදා) අලුයම් කාලයේ දී අදාළ නිවස ආසන්නයේ ඇති ඇළ මාර්ගයේ ගංවතුර තත්ත්වයක් ඇතිවීමෙන් නිවස ජලයෙන් යටවී ඔවුන් මියගොස් තිබේ.
+
+...
+
+[Data](articles/b0a31001.json)
+
+---
+
 ### China lands on Moon’s far side in historic sample-retrieval mission
 
 *2024-06-02 10:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/China-lands-on-Moons-far-side-in-historic-sample-retrieval-mission/107-283896) · `en`
@@ -2023,109 +2125,5 @@ Six people 24 of the 24 hours have died due to inclement weather.
 [Data](articles/a960916b.json)
 
 [Extended Data](ext_articles/a960916b.ext.json)
-
----
-
-### High rainfall in Ehaliyagoda
-
-*2024-06-02 08:35:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எஹலியகொடவில்-அதிக-மழை-வீழ்ச்சி/175-338258) · `ta`
-
-Ehaliyagoda experienced heavy rainfall, recording 427.5mm in just 24 hours until 7 am today, causing significant waterlogging and disruptions.
-
-🟩
-
-427.5 millimeters of rainfall in 24 hours ended today (02) at 7 am
-
-◼️
-
-[Data](articles/d30ad013.json)
-
-[Extended Data](ext_articles/d30ad013.ext.json)
-
----
-
-### Flooding kills 03 members of same family in Puwakpitiya
-
-*2024-06-02 08:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/99589/flooding-kills-03-members-of-same-family-in-puwakpitiya) · `en`
-
-Three persons from the same family including a seven-year-old girl are reported dead after drowning in flood waters at Puwakpitiya.
-
-Ada Derana reporter said a 36-year-old woman, her 78-year-old father and 07-year-old daughter have died in the floods in the Kekilla area in Puwakpitiya.
-
-Police said that that a flood situation had occurred between 2.00 and 3.00 a.m. today (02) in the canal located near their house which had been inundated, resulting in the deaths.
-
-Meanwhile another person has also died after being buried by a collapsing mound of earth at Puwakpitiya, Avissawella.
-
-◼️
-
-[Data](articles/837dc38c.json)
-
-[Extended Data](ext_articles/837dc38c.ext.json)
-
----
-
-### Two youths dead after earth mound collapses on house
-
-*2024-06-02 08:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/99588/two-youths-dead-after-earth-mound-collapses-on-house) · `en`
-
-Two persons have been reported dead after a mound of earth collapsed on a house at Deiyandara, Pallewela.
-
-Police said two youths, both males aged 20 and 27 who are residents of Denagama, have died in the incident.
-
-Meanwhile, another persons has been injured in the incident which had occurred last night (01) and has been admitted to the Ellewela Hospital.
-
-The bodies of the victims have been placed at the Ellewela Hospital while Deiyandara Police is conducting investigations.
-
-◼️
-
-[Data](articles/961d2c75.json)
-
-[Extended Data](ext_articles/961d2c75.ext.json)
-
----
-
-### Landslide warning for 10 districts
-
-*2024-06-02 08:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197269) · `si`
-
-Landslide warnings cover 10 districts including areas around Colombo, Kandy, Nuwara Eliya, Ratnapura, Kegalle, Matara, and Kurunegala. Issued by NBRO, effective from 4 am today until 4 am tomorrow.
-
-🟩
-
-Landslide warnings have been issued for 10 districts with the inclement weather.
-
-According to the National Building Research Organization (NBRO) has issued the landslide warning for the Padukka Divisional Secretariat Division in Colombo as well as the Padukka Divisional Secretariat Division in Colombo.
-
-The landslide warnings have been issued for 41 Divisional Secretariat Divisions in Kandy, Nuwara Eliya, Ratnapura, Ratnapura, Kegalle, Matara and Kurunegala districts.
-
-The landslide warnings will be effective from 4am to 4am to 4 am tomorrow (03) at the Senior Geologist Wasantha Senadheera.
-
-◼️
-
-[Data](articles/69689caa.json)
-
-[Extended Data](ext_articles/69689caa.ext.json)
-
----
-
-### Very heavy showers above 150mm expected - Met. Dept.
-
-*2024-06-02 07:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/99587/very-heavy-showers-above-150mm-expected-met-dept) · `en`
-
-The Department of Meteorology says prevailing showery conditions are expected to continue in the south-western part of the island today.
-
-Showers or thundershowers will occur at times in Western, Sabaragamuwa, Central and Southern provinces while several spells of showers may occur in North-western province.
-
-Very heavy showers above 150 mm are likely at some places in Western and Sabaragamuwa provinces and in Galle and Matara districts, it warned.
-
-Showers or thundershowers may occur at several places elsewhere of the island.
-
-General public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/65a69429.json)
-
-[Extended Data](ext_articles/65a69429.ext.json)
 
 ---

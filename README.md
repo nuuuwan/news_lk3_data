@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-02 07:24:59**
+As of **2024-06-02 08:01:34**
 
 ## Newspaper Stats
 
-*Scraped **27,782** Articles*
+*Scraped **27,783** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,585
 dailyftlk | 1,635
 adalk | 2,365
 adaderanalk | 3,158
-tamilmirrorlk | 3,255
+tamilmirrorlk | 3,256
 virakesarilk | 4,282
 dailymirrorlk | 4,401
 adaderanasinhalalk | 4,441
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,441
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,775 (100.0%) of 27,782 articles have been extended.
+27,778 (100.0%) of 27,783 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -99,6 +99,22 @@ Kayts police are conducting further investigations into the incident. (A)
 [Data](articles/25e2be5a.json)
 
 [Extended Data](ext_articles/25e2be5a.ext.json)
+
+---
+
+### 108,665 சுற்றுலாப் பயணிகள் வருகை
+
+*2024-06-02 00:04:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/108-665-சுற்றுலாப்-பயணிகள்-வருகை/175-338253) · `ta`
+
+கடந்த மாதத்தில் மாத்திரம் ஒரு லட்சத்து 8 ஆயிரத்து 665 சுற்றுலாப் பயணிகள் நாட்டை வந்தடைந்துள்ளனர்
+
+இதன்படி, தொடர்ந்தும் இந்தியாவிலிருந்து வருகைதரும் சுற்றுலாப் பயணிகளின் எண்ணிக்கை அதிகரித்து வருவதாக அந்த சபை வெளியிட்டுள்ள அறிக்கையில் குறிப்பிடப்பட்டுள்ளது.
+
+இந்தியாவிலிருந்து 31 ஆயிரத்து 225 பேரும், மாலைத்தீவிலிருந்து 7 ஆயிரத்து 984 பேரும், ஜேர்மனியில் இருந்து 7 ஆயிரத்து 374 பேரும், பிரித்தானியாவில் இருந்து 7 ஆயிரத்து 848 பேரும் நாட்டுக்கு வருகைதந்துள்ளனர். (a)
+
+◼️
+
+[Data](articles/0088d90b.json)
 
 ---
 
@@ -304,6 +320,8 @@ Jesus fed 5,000 with two fishes and five loaves (Mathew 14:13-21) and you may re
 
 [Data](articles/e1b6a692.json)
 
+[Extended Data](ext_articles/e1b6a692.ext.json)
+
 ---
 
 ### World Bank, IMF deepen effort to scale up climate action
@@ -357,6 +375,8 @@ With elections coming up in a few months’ time – notwithstanding Palitha Ran
 ...
 
 [Data](articles/16cf1021.json)
+
+[Extended Data](ext_articles/16cf1021.ext.json)
 
 ---
 
@@ -645,6 +665,8 @@ Castellani’s name appeared in such reference books as “Who’s Who”, the �
 ...
 
 [Data](articles/7b65ee67.json)
+
+[Extended Data](ext_articles/7b65ee67.ext.json)
 
 ---
 
@@ -2277,29 +2299,5 @@ Angelo Mathews called on all his experience with an unbeaten 32 to steer his sid
 [Data](articles/11d2a4d1.json)
 
 [Extended Data](ext_articles/11d2a4d1.ext.json)
-
----
-
-### Arrest by someone with domestic rifle
-
-*2024-06-01 09:04:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/உள்நாட்டு-துப்பாக்கியுடன்-ஒருவர்-கைது/76-338230) · `ta`
-
-A 33-year-old man was arrested in Nuwara Eliya's Ambewala for possessing a domestically made gun found during a police raid. He will be presented at the Nuwara Eliya District Magistrate's Court for further proceedings.
-
-🟩
-
-A man has been arrested yesterday (31) with a locally manufactured gun from a house in Ambewela area, police said.
-
-A 33 -year -old man from Nuwara Eliya Ambewala has been arrested.
-
-According to confidential information available to the Nuwara Eliya police, the police have recovered a gun that had been hidden in the house after a raid on the house.
-
-The Nuwara Eliya police said that the suspect is being produced at the Nuwara Eliya District Magistrate's Court after further inquiries.. Remble
-
-◼️
-
-[Data](articles/3c61eef3.json)
-
-[Extended Data](ext_articles/3c61eef3.ext.json)
 
 ---

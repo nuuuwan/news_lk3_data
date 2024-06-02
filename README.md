@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-02 23:34:25**
+As of **2024-06-02 23:53:36**
 
 ## Newspaper Stats
 
-*Scraped **27,955** Articles*
+*Scraped **27,956** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,507
 economynextcom | 1,587
 dailyftlk | 1,635
 adalk | 2,386
-adaderanalk | 3,178
+adaderanalk | 3,179
 tamilmirrorlk | 3,277
 virakesarilk | 4,312
 dailymirrorlk | 4,431
@@ -26,11 +26,29 @@ adaderanasinhalalk | 4,482
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,955 (100.0%) of 27,955 articles have been extended.
+27,955 (100.0%) of 27,956 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-02 (Sunday)
+
+### President challenges opposition to put forward any alternate plan to advance Sri Lanka’s economy
+
+*2024-06-02 23:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/99607/president-challenges-opposition-to-put-forward-any-alternate-plan-to-advance-sri-lankas-economy) · `en`
+
+President Ranil Wickremesinghe stressed that with the stabilization of the country’s economy; there should be no inclination towards traditional politics. He underscored that the country can only be moved forward through a structured plan.
+
+Hence, the President urged everyone to endorse the government’s program without resorting to criticism. He remarked that while criticizing is effortless, finding solutions is challenging.
+
+Addressing the gathering at the distribution of appointment letters for United National Party (UNP) seat organizers held at Sirikotha party headquarters today (02), he highlighted that no political party currently possesses a viable plan for bringing the country forward.
+
+Consequently, he encouraged anyone with such a plan to present it, and if not, to endorse the Economic Transformation Bill for the future of the country.
+
+...
+
+[Data](articles/ef782a67.json)
+
+---
 
 ### Sri Lankan cricket team in a big mess
 
@@ -2093,37 +2111,5 @@ Further days of holding schools will be announced by the Education Ministry foll
 [Data](articles/25773927.json)
 
 [Extended Data](ext_articles/25773927.ext.json)
-
----
-
-### Here are the latest information in black, Nilwala, Gin, Great Flood
-
-*2024-06-02 13:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197281) · `si`
-
-Flood warnings have been issued for several rivers including Gin, Kalu Ganga, Black River, and Nilwala due to rising water levels caused by heavy rainfall. The Gin River near Thalowama and the Kalu River have seen significant increases, while the Nilwala River has reached a large flood level from Pitabeddara. Additionally, the Kelani Ganga has experienced a small flood in the Hanwella and Glencos areas.
-
-🟩
-
-Ging Ganga has grown to a large flood from Thawalama area.
-
-The Irrigation Department released from 12 noon this afternoon is the water level of the Gin River from Thalowama area.
-
-The report further states that the water level of the Gin River is also increasing.
-
-The water level of the Gin River has increased to a small flood from Baddegama by 12, and its water level is still increasing.
-
-According to the report, the small river of the Kalu River Kalu River has also increased to a large flood and its water level is still increasing.
-
-The Kalu Ganga, Eliyawa, Ratnapura, Region and Kalu Ganga, and the Black River, has increased to a small flood.
-
-The Nilwala River has also increased to a large flood from Pitabeddara.
-
-With heavy rain weather conditions, Kelani Ganga has grown to a small flood from the Hanwella and Glancos areas and the water level is further developed.
-
-◼️
-
-[Data](articles/e4570e74.json)
-
-[Extended Data](ext_articles/e4570e74.ext.json)
 
 ---

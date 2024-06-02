@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-03 02:04:02**
+As of **2024-06-03 02:19:00**
 
 ## Newspaper Stats
 
-*Scraped **27,969** Articles*
+*Scraped **27,971** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 275
 newsfirstlk | 363
 islandlk | 1,507
 economynextcom | 1,589
-dailyftlk | 1,641
+dailyftlk | 1,643
 adalk | 2,386
 adaderanalk | 3,179
 tamilmirrorlk | 3,277
@@ -26,11 +26,49 @@ adaderanasinhalalk | 4,482
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,965 (100.0%) of 27,969 articles have been extended.
+27,969 (100.0%) of 27,971 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-03 (Monday)
+
+### Patali advocates for new presidency, parliament, and republic
+
+*2024-06-03 02:04:25* · [`dailyftlk`](https://www.ft.lk/news/Patali-advocates-for-new-presidency-parliament-and-republic/56-762526) · `en`
+
+Criticises current political surveys for lacking scientific credibility and emphasises need for a movement representing SL’s silent majority
+
+Highlights importance of stable political decisions for economic sovereignty, irrespective of future leadership
+
+Cautions against simplistic solutions offered by populist leaders and warns against political experimentation
+
+Extends an invitation to all political and social activists to collaborate on a national economic program
+
+As part of the ‘One Step for the Country’ initiative aimed at alleviating the hardships faced by the nation due to economic challenges, United Republic Front Leader Patali Champika Ranawaka on Saturday expressed his readiness for a fresh presidency, a new parliament, and an establishment of a new republic, in collaboration with like-minded parties.
+
+...
+
+[Data](articles/791b287b.json)
+
+---
+
+### Handunnetti apologises to Elon Musk over misquoted remarks
+
+*2024-06-03 02:02:24* · [`dailyftlk`](https://www.ft.lk/news/Handunnetti-apologises-to-Elon-Musk-over-misquoted-remarks/56-762525) · `en`
+
+National People’s Power (NPP) Economic Council member Sunil Handunnetti apologised to South African businessman and investor Elon Musk over the weekend, clarifying that his remarks about Musk were misquoted on social media platforms.
+
+At a business forum organised by the party, Handunnetti refuted claims that he labelled Musk as an Economic Hitman, emphasising that his comments at a previous event in Badulla were misconstrued and disseminated, particularly on social media platforms.
+
+The former MP said he had never intended to call Musk an “Economic Hitman”.
+
+“What I meant was that due to the lack of law, discipline, and rampant political interference in businesses, world-renowned and recognised investors and businessmen will not come to Sri Lanka. It doesn’t matter if President Ranil Wickremesinghe or anyone else invites them; they simply won’t come,” he explained.
+
+...
+
+[Data](articles/257fc8e7.json)
+
+---
 
 ### JAT records 43% Q4 PAT growth and 53% YOY revenue increase in Bangladesh
 
@@ -43,6 +81,8 @@ The results demonstrated the Group’s robust financial position and resilient g
 ...
 
 [Data](articles/1748f40c.json)
+
+[Extended Data](ext_articles/1748f40c.ext.json)
 
 ---
 
@@ -60,6 +100,8 @@ The installation consisting of 1893 Nos. DAS Solar 570Wp solar panels is project
 
 [Data](articles/7b74dcc3.json)
 
+[Extended Data](ext_articles/7b74dcc3.ext.json)
+
 ---
 
 ### McLarens Lubricants wins Silver at ExxonMobil Distributor Excellence Awards
@@ -74,6 +116,8 @@ This award recognises McLarens Lubricants’ exceptional performance in several 
 
 [Data](articles/6e2bf052.json)
 
+[Extended Data](ext_articles/6e2bf052.ext.json)
+
 ---
 
 ### BNI Sri Lanka to host first ever carbon-neutral BNI conference on 6 June
@@ -87,6 +131,8 @@ In a pioneering move towards sustainability, BNI Sri Lanka, the leading business
 ...
 
 [Data](articles/c29650c5.json)
+
+[Extended Data](ext_articles/c29650c5.ext.json)
 
 ---
 
@@ -2041,43 +2087,5 @@ The masses have been severely affected by the heavy rains that cause in the isla
 [Data](articles/2e8b6413.json)
 
 [Extended Data](ext_articles/2e8b6413.ext.json)
-
----
-
-### Weather is converted in trouble
-
-*2024-06-02 14:29:54* · [`adalk`](https://www.ada.lk/breaking_news/කාලගුණය-කැළඹෙයි---ගම්-නගර-ජලයෙන්-යටවෙයි/11-409963) · `si`
-
-Heavy rains caused severe damage to properties on the island last night, affecting many residents.
-
-🟩
-
-The masses have been severely affected by the heavy rains that cause in the island's land in the island last night.
-
-◼️
-
-[Data](articles/95c30fda.json)
-
-[Extended Data](ext_articles/95c30fda.ext.json)
-
----
-
-### All school holidays tomorrow
-
-*2024-06-02 14:26:24* · [`adalk`](https://www.ada.lk/breaking_news/හෙට-සියලු-පාසල්-නිවාඩු/11-409962) · `si`
-
-Due to poor weather, all schools nationwide are closed tomorrow. The Ministry of Education will update on school activities based on climate observations.
-
-🟩
-
-The Ministry of Education stated that all schools in the country will not be held tomorrow (3) due to the prevailing bad weather conditions.
-
-The Ministry of Education announced that the climatic observations of the conduct of school will be informed on the conduct of schools.
-
-◼️
-
-[Data](articles/17556c55.json)
-
-[Extended Data](ext_articles/17556c55.ext.json)
 
 ---

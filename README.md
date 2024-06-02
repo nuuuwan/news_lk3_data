@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-02 16:34:23**
+As of **2024-06-02 16:50:52**
 
 ## Newspaper Stats
 
-*Scraped **27,876** Articles*
+*Scraped **27,878** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,32 +19,66 @@ adalk | 2,377
 adaderanalk | 3,171
 tamilmirrorlk | 3,271
 virakesarilk | 4,286
-dailymirrorlk | 4,418
+dailymirrorlk | 4,420
 adaderanasinhalalk | 4,465
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,875 (100.0%) of 27,876 articles have been extended.
+27,876 (100.0%) of 27,878 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-02 (Sunday)
 
-### අධිවේගී මාර්ග පිවිසුමක් ජලයෙන් යටවෙයි
+### Kaduwela-Biyagama interchange closed on Southern Expressway
+
+*2024-06-02 16:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Kaduwela-Biyagama-interchange-closed-on-Southern-Expressway/108-283909) · `en`
+
+Colombo, June 2 (Daily Mirror)- The Kaduwela-Biyagama interchange on the Southern Expressway has been closed for traffic to and from Kadawatha until further notice.
+
+Motorists are advised to use alternate routes and stay updated through traffic advisories.
+
+◼️
+
+[Data](articles/a17e43b8.json)
+
+---
+
+### Expressway login is inundated
 
 *2024-06-02 16:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197289) · `si`
 
-අධිවේගී පිටත වටරවුම් මාර්ගයේ කඩුවෙල පිවිසුමේ බියගම මාර්ග පිවිසුම වසා දමා තිබේ.
+Due to heavy rains causing the collapse of the Biyagama road, the Express Outline Route between Kaduwela and Kadawatha is closed. Visitors cannot enter or exit through the Kaduwela entrance, leading to traffic congestion.
 
-ඒ අනුව කඩුවෙල පිවිසුම භාවිත කර කඩවත දෙසට ගමන්කිරීමට හෝ කඩවත දෙස සිට පැමිණෙන රථවාහන කඩුවෙල පිවිසුම භාවිත කර පිටවීමට නොහැකි බව අප වාර්තාකරු සඳහන් කර සිටී.
+🟩
 
-අධික වැසි තත්ත්වය සමග බියගම මාර්ගය ආශ්‍රිත පිවිසුම ජලයෙන් යටවීම හේතුවෙන් මෙම තීරණය ගෙන ඇත.
+The Biyagama Road visit to Kaduwela on the Express Outline Route has been closed down.
+
+According to our correspondent, we cannot exit the Kaduwela entrance or to leave the traffic in the Kaduwela entrance from Kadawatha.
+
+The decision was taken due to the collapse of the Biyagama road along with heavy rains.
 
 ◼️
 
 [Data](articles/3aa7a4db.json)
+
+[Extended Data](ext_articles/3aa7a4db.ext.json)
+
+---
+
+### Bridge collapse disrupts Kelani Valley railway services
+
+*2024-06-02 16:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Bridge-collapse-disrupts-Kelani-Valley-railway-services/108-283908) · `en`
+
+Colombo, June 2 (Daily Mirror)- Train services on the Kelani Valley line have been severely disrupted following the collapse of a bridge between Waga and Kosgama.
+
+The collapse has forced Sri Lanka Railways to limit train operations on the line to Waga station.
+
+◼️
+
+[Data](articles/c0c3a1b2.json)
 
 ---
 
@@ -994,6 +1028,10 @@ As per the instructions of the Army Commander, Security Forces Commanders have b
 
 *2024-06-02 11:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Live-updates-Adverse-weather/155-283899) · `en`
 
+3.58 PM - The Kaduwela-Biyagama interchange on the Southern Expressway has been closed for traffic to and from Kadawatha until further notice.
+
+3.01 PM - Train services on the Kelani Valley line have been severely disrupted following the collapse of a bridge between Waga and Kosgama.
+
 2.58 PM - Traffic on the Colombo-Kandy main road came to a standstill following a tree collapse near Warakapola town.
 
 2.15 PM - The Ministry of Power & Energy has announced the disconnection of power supply to several areas in Galle, Kalutara, Ratnapura, Colombo, and Kegalle districts.
@@ -1001,10 +1039,6 @@ As per the instructions of the Army Commander, Security Forces Commanders have b
 01.20 PM - Army troops have been deployed in various areas to conduct rescue operations and provide relief to those affected by severe flooding in low-lying regions around the rivers, caused by adverse weather conditions across the island.
 
 Troops have been deployed to Kiriella, Dehiowita, Moravaka, Thawalama, Thihagoda, and Neluwa areas.
-
-Additionally, the Army has established cooking facilities in the Malimbada and Salawa areas to provide meals for displaced individuals.
-
-As per the instructions of the Army Commander, Security Forces Commanders have been directed to ensure that troops maintain a state of readiness to respond promptly to any emergency situations and continue rescue operations as needed.
 
 ...
 
@@ -2151,51 +2185,5 @@ The Department of Meteorology has requested the general public to take necessary
 [Data](articles/4adb0c4f.json)
 
 [Extended Data](ext_articles/4adb0c4f.ext.json)
-
----
-
-### Any government should be given priority to Buddhism - President
-
-*2024-06-01 22:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197261) · `si`
-
-President Ranil Wickremesinghe highlighted the importance of preserving Buddhism in Sri Lanka's governance, emphasizing that the legislative, executive, and judicial branches should prioritize Buddhist principles. He spoke at the opening of the Guru Pathanda Cure Center in Kiriwatu, Homagama, noting the separation between government and religion while affirming the constitutional mandate to uphold Buddhism.
-
-🟩
-
-President Ranil Wickremesinghe emphasizes that the country's legislature, the executive and the judiciary should be preserved to protect Buddhism.
-
-The President made this observation at the opening ceremony of the Guru Pathanda Cure Center, which was built in Kiriwatu, Homagama.
-
-President Ranil Wickremesinghe was the opening of President Ranil Wickremesinghe this afternoon.
-
-Fifty-storey bhikkus center can be treated at the same time at the Bhikku Center with two floors and three storied buildings.
-
-"The government and Buddhism wants to be separated. If the legal status mentioned, each citizen in our country has the right to practice a religion they like. There is also the right to persuade religion. "
-
-...
-
-[Data](articles/149802f9.json)
-
-[Extended Data](ext_articles/149802f9.ext.json)
-
----
-
-### Businessman arrested with gemstones worth Rs. 8 million at BIA
-
-*2024-06-01 22:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/99585/businessman-arrested-with-gemstones-worth-rs-8-million-at-bia) · `en`
-
-A passenger who attempted to smuggle undeclared gemstones worth around Rs. 08 million out fo the country has been arrested by officers of the Sri Lanka Customs’ Narcotics Control Unit at the departure terminal of Bandaranaike International Airport (BIA) in Katunayake.
-
-The arrested passenger, a 53-year-old businessman from Galle, had arrived at the airport last night to board a flight to Bangkok, Thailand
-
-The gemstones worth around Rs. 08 million were found carefully concealed in the luggage of the suspect.
-
-Following the formal customs inquiry, the gemstones were ordered confiscation and the businessman was also ordered to pay a fine of Rs. 01 million.
-
-◼️
-
-[Data](articles/714a3a41.json)
-
-[Extended Data](ext_articles/714a3a41.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-02 10:52:06**
+As of **2024-06-02 11:03:52**
 
 ## Newspaper Stats
 
-*Scraped **27,804** Articles*
+*Scraped **27,810** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,78 @@ newsfirstlk | 363
 islandlk | 1,507
 economynextcom | 1,585
 dailyftlk | 1,635
-adalk | 2,367
+adalk | 2,368
 adaderanalk | 3,161
 tamilmirrorlk | 3,259
 virakesarilk | 4,282
-dailymirrorlk | 4,401
+dailymirrorlk | 4,406
 adaderanasinhalalk | 4,449
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,803 (100.0%) of 27,804 articles have been extended.
+27,804 (100.0%) of 27,810 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-02 (Sunday)
+
+### China lands on Moon’s far side in historic sample-retrieval mission
+
+*2024-06-02 10:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/China-lands-on-Moons-far-side-in-historic-sample-retrieval-mission/107-283896) · `en`
+
+China, June 2 (BBC) - The Chang'e 6 touched down in the South Pole-Aitken Basin at 06:23 Beijing time on Sunday morning (22:23 GMT Saturday), the China National Space Administration (CNSA) said.
+
+Launched on 3 May, the mission aims to collect precious rock and soil from this region for the first time in history.
+
+The probe could extract some of the Moon's oldest rocks from a huge crater on its South Pole.
+
+The landing was fraught with risks, because it is very difficult to communicate with spacecraft once they reach the far side of the Moon. China is the only country to have achieved the feat before, landing its Chang'e-4 in 2019.
+
+After launching from Wenchang Space Launch Center, the Chang'e 6 spacecraft had been orbiting the Moon waiting to land.
+
+The lander component of the mission then separated from the orbiter to touch down on the side of the Moon that faces permanently away from Earth.
+
+...
+
+[Data](articles/21409d9d.json)
+
+---
+
+### Two Sri Lankans held in fake passport scam in Hyderabad
+
+*2024-06-02 10:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Two-Sri-Lankans-held-in-fake-passport-scam-in-Hyderabad/108-283895) · `en`
+
+Hyderabad, June 2 (TOI) : During the ongoing probe into Sri Lankan refugees illegally obtaining Indian passports, the Crime Investigation Department (CID) officials on Saturday arrested two Sri Lankan nationals and an Indian agent who provided the passports.
+
+CID officials said that the foreign nationals — Varuniya Thiruvanavukkarasu and Sanjika — were arrested along with Priya Dharmalingam from Tamil Nadu.
+
+“Priya acted as a mediator and facilitated 21 Sri Lankan nationals in obtaining Indian passports in connivance with passport agents,” police said.
+
+So far, police has arrested 26 persons — 16 agents, 6 policemen, an employee of passport seva kendra and three Sri Lankan nationals.
+
+◼️
+
+[Data](articles/60f6f8f1.json)
+
+---
+
+### Three members in same family swept away in floods
+
+*2024-06-02 10:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Three-members-in-same-family-swept-away-in-floods/108-283894) · `en`
+
+Avissawella, June 2 ( Daily Mirror) - Three members of a same family, including a seven-year-old girl, lost their lives after being swept away by floodwaters in Puwakpitiya, Avissawella.
+
+Police said the victims, a 36-year-old woman, her daughter and her 78-year-old father, were caught in the floodwaters during the early hours of the morning.
+
+The flooding occurred in an inundated canal close to their residence, triggered by heavy rainfall in the area.
+
+◼️
+
+[Data](articles/84d69032.json)
+
+---
 
 ### Murderous killings in place
 
@@ -62,6 +118,28 @@ Police say the murder had been carried out with a dispute with a resident of a r
 
 ---
 
+### Co-hosts USA beat Canada in T20 World Cup opener
+
+*2024-06-02 09:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Co-hosts-USA-beat-Canada-in-T20-World-Cup-opener/108-283893) · `en`
+
+June 2 - Aaron Jones clubbed a brutal unbeaten 94 as T20 World Cup co-hosts USA beat Canada by seven wickets in a pulsating and colourful tournament opener in Texas.
+
+The USA came into the match on the back of a 2-1 series win over Bangladesh and thrashed the Canadians 4-0 when the sides last met in April.
+
+The match was in the balance before Jones - born in Queens, New York to Barbadian parents – swung the match the way of the home side with a stellar knock off 40 balls as they chased down Canada’s 194-5.
+
+Jones targeted the short boundaries on this former baseball ground, previously home to the Texas Air Hogs, launching a majestic 10 sixes into the night sky and whipping the jubilant fans into a frenzy.
+
+With the US requiring 36 off 35 balls Jones sliced the ball to short third, but Nikhil Dutta clumsily spilled a simple catch.
+
+It proved decisive as the 29-year-old pummelled the US to victory with 14 balls to spare after support from Andries Gous, who hit 65 off 46 balls.
+
+...
+
+[Data](articles/d69b07f7.json)
+
+---
+
 ### Superior to America
 
 *2024-06-02 09:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197272) · `si`
@@ -83,6 +161,22 @@ At the bowling kaleem sana, Dillon HEYLIGER and NIKHIL DUTTA took one wicket.
 [Data](articles/755478be.json)
 
 [Extended Data](ext_articles/755478be.ext.json)
+
+---
+
+### සීතාවකට මහ වැස්සක් - හතරක් මරුට - වාහන ගසාගෙන යයි
+
+*2024-06-02 09:29:27* · [`adalk`](https://www.ada.lk/breaking_news/සීතාවකට-මහ-වැස්සක්---හතරක්-මරුට---වාහන-ගසාගෙන-යයි/11-409955) · `si`
+
+සීතාවක ප්‍රාදේශීය ලේකම් බල ප්‍රදේශයට අනපේක්ෂිත ලෙස ඇද හැලුණු වර්ෂාව නිසාවෙන් පුද්ගලයන් සිව් දෙනකු මියගොස් ග්‍රාම නිළධාරී කිහිපයක්ම ජලයෙන් යට වී ජනතාව පීඩාවට පත්ව ඇත.
+
+පුවක්පිටිය දකුණ ග්‍රාම නිළධාරී වසමේ එකම පවුලේ තිදෙනකු ජලයෙන් යට වී මියගොස් ඇති අතර තවත් අයකු පස් කන්දක් කඩා වැටීම නිසා එයට යටවී මියගොස් තිබේ.
+
+ජල ගැලීම් නිසාවෙන් හයිලෙවල් මාර්ගයේ රථ වාහන ධාවනය ද කොස්ගම සිට අවිස්සාවේල්ල දක්වා නතර වී ඇති අතර පුවක්පිටිය දුම්රිය ස්ථානය අසල දී රථ වාහන ජලයේ ගසා ගෙන ගොස් ඇතැයි ද එම ප්‍රදේශයේ ජනතාව පවසති.
+
+◼️
+
+[Data](articles/3828ede8.json)
 
 ---
 
@@ -575,6 +669,20 @@ It was reported that 26 people were traveling in the boat. It has been stated th
 [Data](articles/ac8443dd.json)
 
 [Extended Data](ext_articles/ac8443dd.ext.json)
+
+---
+
+### Hadunnetti apologises to Elon Musk
+
+*2024-06-01 23:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Hadunnetti-apologises-to-Elon-Musk/155-283892) · `en`
+
+Colombo, June 1 (Daily Mirror) Claiming that he never meant to call billionaire businessman Elon Musk an economic hit-man, NPP Economic Council member Sunil Hadunnetti said today he expresses his regrets to Elon Musk.
+
+Speaking during a Business Forum, Hadunnetti said his reference to economic hit-men was to James Packer and George Soros who were brought into the country during the previous Ranil Wickremesinghe government.
+
+...
+
+[Data](articles/5d14773e.json)
 
 ---
 
@@ -1075,6 +1183,8 @@ Taiwan Athletics Open is a bronze-level tournament on the World Athletics Contin
 ...
 
 [Data](articles/27fade72.json)
+
+[Extended Data](ext_articles/27fade72.ext.json)
 
 ---
 
@@ -2139,157 +2249,5 @@ Some of the civilians who stumbled upon the attack are running to save their liv
 [Data](articles/b2ac30ba.json)
 
 [Extended Data](ext_articles/b2ac30ba.ext.json)
-
----
-
-### Freedom from India
-
-*2024-06-01 13:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197241) · `si`
-
-A man was arrested upon arrival in India today, carrying 61 foreign liquor bottles and 22 kg of gold worth approximately Rs. 12,000 per kilogram. The Criminal Investigations Department (CID) is handling the case, and the suspect, a resident of Wattala, will be presented in court.
-
-🟩
-
-A person has been arrested with foreign alcohol bottles and a consignment of foreign alcohol bottles and izar to the country.
-
-The Criminal Investigations Unit of the Criminal Investigations Department (CID) has been arrested by the CID when he arrived in India this morning.
-
-Police said that the suspect had 61 foreign liquor bottles.
-
-He also said that he had 21 kg that he had 21 kg that he had 21 kg and one kilogram was Rs. 12,000.
-
-It is reported that the suspect is a resident of Wattala and is to be produced in court.
-
-◼️
-
-[Data](articles/9b3b47c6.json)
-
-[Extended Data](ext_articles/9b3b47c6.ext.json)
-
----
-
-### Operational operation in Colombo to catch the suspect suspect
-
-*2024-06-01 13:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197239) · `si`
-
-Osman Gerard, a 46-year-old from Dematagoda, Colombo, was arrested last night in connection with a case involving four other Sri Lankans detained in India. The Criminal Investigation Department and the Terrorist Investigation Division collaborated in this operation, which was initiated after a public appeal for help last Saturday.
-
-🟩
-
-Osman Gerard was arrested in Colombo last night as the Head of Sri Lankans who were arrested in India.
-
-That Criminal Investigation Department and the Terrorist Investigation Division participated.
-
-The police had requested public assistance last Saturday to arrest a person who was arrested and supported by the four Sri Lankans who were arrested in India.
-
-According to the police, he is a resident of the 46-year-old Gerard Pushraja Ozman, Gerad, Dematagoda, Dematagoda.
-
-Meanwhile, he was arrested last night accordingly the suspect is hiding in Colombo.
-
-The Criminal Investigation Department Sandolign Sandals Mr. Rohan Premaratne, Secretary of the Terrorism Investigation Division and the Criminal Investigations Department participated in a joint venture.
-
-◼️
-
-[Data](articles/4db31720.json)
-
-[Extended Data](ext_articles/4db31720.ext.json)
-
----
-
-### Twin to receive three passes to Advanced Level
-
-*2024-06-01 13:01:44* · [`adalk`](https://www.ada.lk/breaking_news/නිවුන්-සොහොයුරෝ-උසස්පෙළට-A-සාමාර්ථ-තුන-බැගින්-ලබා-ගනිති/11-409950) · `si`
-
-Twins from Ambalangoda National School excelled in all three subjects in the national exam, securing top ranks. They are prominent figures at Madampa National School, leading academically and through extracurricular activities. Their achievements highlight their dedication and potential.
-
-🟩
-
-It is especially significant to all three subjects in the Ambalangoda National School in Ambalangoda National Examination.
-
-Thousands of resources and midun resources were the twins.
-
-Both of them are Madampa National School, the main student legal leaders.
-
-Pathum Resources is the mainfront of his school and Mithun Resources Sub-Organization.
-
-The resources sovere the resources were obtained in the General Assembly Test Examination and the examination has been excellent with seven miden resources.
-
-◼️
-
-[Data](articles/9d38da16.json)
-
-[Extended Data](ext_articles/9d38da16.ext.json)
-
----
-
-### Sri Lanka coconut prices soar 20-pct at auction over May
-
-*2024-06-01 13:01:00* · [`economynextcom`](https://economynext.com/sri-lanka-coconut-prices-soar-20-pct-at-auction-over-may-165740/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s average coconut prices rose 6.6 percent to 75,784 for 1,000 nuts over at an auction on May 30, data from the Coconut Development Authority shows.
-
-Auction prices have gone up 20 percent from 62,958 on May 02.
-
-The highest price was 79,900 rupees for 1,000 nuts at the May 30 auction, down from 80,100 rupees a week ago, while the lowest was 65,000 up from 62,500.
-
-A total of 316,756 coconuts were offered at the auction and 248,938 nuts were sold.
-
-Wholesale prices were 95 to 110 rupees for large nuts and 85 to 90 rupees for small nuts in the week
-
-◼️
-
-[Data](articles/4a227387.json)
-
-[Extended Data](ext_articles/4a227387.ext.json)
-
----
-
-### T20 World Cup Warm-up: Dasun Shanaka stars as Sri Lanka beat Ireland
-
-*2024-06-01 12:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/99576/t20-world-cup-warm-up-dasun-shanaka-stars-as-sri-lanka-beat-ireland) · `en`
-
-Dasun Shanaka produced a solid all-round performance, including bowling figures of 4/23, as former champions Sri Lanka overcame some jittery moments to down Ireland by 41 runs in their T20 World Cup warm-up game.
-
-Put in to bat at the Central Broward Regional Park Stadium Turf Ground here on Friday, Sri Lanka saw their batting misfire in the initial phases of the game.
-
-They lost half of their side for 82 runs in 11 overs before managing to post a respectable 163/8.
-
-All-rounders Wanindu Hasaranga (26), Angelo Mathews (32), and Shanaka (23) fired up the proceedings down the order to take them to a competitive total.
-
-In reply, quick-fire knocks from Paul Stirling (21) and George Dockrell (17) were the bright spots in the initial stages of the Irish chase, but former skipper Shanaka swung the momentum with his medium pace bowling as Ireland were bowled out for 122 in 18.2 overs.
-
-...
-
-[Data](articles/4243bf1d.json)
-
-[Extended Data](ext_articles/4243bf1d.ext.json)
-
----
-
-### Fuel prices will fall
-
-*2024-06-01 12:50:31* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්ධන-මිල-අඩුවෙයි/11-409949) · `si`
-
-Fuel prices have decreased across various types: Octane 92 petrol now costs Rs. 355 (down from Rs. 368), diesel by Rs. 137 per liter, and kerosene by Rs. 13 per liter. However, prices for 95 petrol and Super Diesel remain unchanged. Both Lanka IOC and Sipetco have followed suit in reducing fuel prices.
-
-🟩
-
-According to the fuel price formula, fuel prices have been taken to download from the central rat.
-
-The price of an Octane 92 petrol has been reduced by 13 rupees and the new price is Rs. 355
-
-A liter of Sri Lanka has been reduced by Rs.137 rupees.
-
-A liter of kerosene has been reduced by Rs 13 per Rs. 202.
-
-However, the price of 95 petrol and Super Disel is not revised.
-
-Lanka IOC also reduced fuel prices as the price of Sipetco.
-
-◼️
-
-[Data](articles/c4adfe60.json)
-
-[Extended Data](ext_articles/c4adfe60.ext.json)
 
 ---

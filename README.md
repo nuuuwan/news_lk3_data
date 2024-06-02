@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-03 04:18:45**
+As of **2024-06-03 04:33:57**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,482
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,981 (100.0%) of 27,982 articles have been extended.
+27,982 (100.0%) of 27,982 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -581,6 +581,8 @@ The Army Commander has issued a directive to the Security Forces Headquarters Co
 ...
 
 [Data](articles/2dc76499.json)
+
+[Extended Data](ext_articles/2dc76499.ext.json)
 
 ---
 

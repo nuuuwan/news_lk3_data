@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-02 20:52:04**
+As of **2024-06-02 21:03:50**
 
 ## Newspaper Stats
 
-*Scraped **27,927** Articles*
+*Scraped **27,930** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,55 @@ adaderanalk | 3,177
 tamilmirrorlk | 3,274
 virakesarilk | 4,302
 dailymirrorlk | 4,430
-adaderanasinhalalk | 4,474
+adaderanasinhalalk | 4,477
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,924 (100.0%) of 27,927 articles have been extended.
+27,927 (100.0%) of 27,930 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-02 (Sunday)
+
+### කැලඹුණු කාලගුණය ඇසිල්ලකින් සිදුකළ මහා විනාශය
+
+*2024-06-02 20:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197301) · `si`
+
+දිවයිනේ නිරිතදිග කොටසට නොනවත්වා ඇදහැලෙන ධාරාණිපාත වර්ෂාවත් සමඟ සිදුවූ ආපදා හේතුවෙන් ගතවූ පැය 24 දී පමණක් කුඩා දරුවන් ඇතුළු පුද්ගලයින් 8 දෙනෙකුට දිවි අහිමිව ඇති බව ආපදා කළමනාකරණ මධ්‍යස්ථානය පවසයි.
+
+නිරිතදිග මෝසම් තත්ත්වය ස්ථාපිත වීමෙන් මේ වනවිට බොහෝ ප්‍රදේශවලට ඉතා තද වැසි සමඟ දැඩි බලපෑම් එල්ල වෙමින් පවතී.
+
+අද අලුයම 1ට පමණ අවිස්සාවේල්ල ඇස්වතු ඔය හදිසියේ පිටාර ගැලීමෙන් පුවක්පිටිය, කැකිල්ල ප්‍රදේශයේ දී ගංවතුරට හසුවී එකම පවුලේ තිදෙනෙකු මියගොස් තිබුණි.
+
+ගලා ආ සැඩපහරත් සමඟ නිවසේ දොර විවෘත කර ගැනීමට නොහැකිවීමෙන් ඔවුන් නිවස තුළම මියගොස් තිබුණි.
+
+පොලීසිය පැවසුවේ, මෙලෙස මියගොස් ඇත්තේ 78 හැවිරිදි පුද්ගලයෙක්, 36 හැවිරිදි ඔහුගේ දියණිය හා ඇයගේ 7 හැවිරිදි දියණිය බවය.
+
+එමෙන්ම, අවිස්සාවේල්ල - හේවාඉන්න ප්‍රදේශයේදී අද අලුයම සිදුවූ නායයාමකින් 11 හැවිරිදි දැරියක් ද මියගියාය.
+
+වර්ෂාවත් සමඟ දෙයියන්දර - දෙනගම ප්‍රදේශයේ පිහිටි නිවසක පිටුපස කොටසට පස් කන්දක් කඩාවැටීමෙන් කුරුඳු තලමින් සිටි පුද්ගලයින් දෙදෙනෙකු ඊට යටවී මියගොස් තිබුණි.
+
+මියගිය දෙදෙනා අවුරුදු 20 සහ 27 වයස්වල පසුවන අතර තවත් අයෙක් තුවාල ලබා රෝහල්ගත කර ඇත.
+
+...
+
+[Data](articles/457d13bf.json)
+
+---
+
+### අයහපත් කාලගුණය සමග ජනපතිගෙන් විශේෂ දැනුම්දීමක්
+
+*2024-06-02 20:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197300) · `si`
+
+අයහපත් කාලගුණයෙන් විපතට පත් ජනතාවට කඩිනම් සහන සැලසීම සඳහා දිස්ත්‍රික් ලේකම්වරුන් වෙත කඩිනමින් මුදල් වෙන්කරන ලෙසට ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මුදල් අමාත්‍යාංශ ලේකම්වරයාට උපදෙස් දී තිබේ.
+
+◼️
+
+[Data](articles/58cda635.json)
+
+---
 
 ### President directs prompt fund allocations to help people affected by adverse weather
 
@@ -50,6 +88,8 @@ The government also ordered all schools to remain shut on Monday after the weeke
 
 [Data](articles/67282c76.json)
 
+[Extended Data](ext_articles/67282c76.ext.json)
+
 ---
 
 ### President orders emergency funds for weather relief
@@ -65,6 +105,20 @@ The President’s Media Division announced this directive a short while ago, emp
 ◼️
 
 [Data](articles/3271ba32.json)
+
+[Extended Data](ext_articles/3271ba32.ext.json)
+
+---
+
+### මහා ගංවතුර ගැන නවතම නිවේදනය නිකුත් කෙරේ
+
+*2024-06-02 20:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197299) · `si`
+
+අධික වැසි සමග ඇතිවූ ගංවතුර තත්ත්වය ගැන වාරිමාර්ග දෙපාර්තමේන්තුව විසින් නවතම නිවේදනයක් නිකුත් කර තිබේ.
+
+◼️
+
+[Data](articles/a2c53a64.json)
 
 ---
 
@@ -83,6 +137,8 @@ The severe weather, characterized by relentless rainfall has triggered widesprea
 ◼️
 
 [Data](articles/308d1017.json)
+
+[Extended Data](ext_articles/308d1017.ext.json)
 
 ---
 
@@ -2029,67 +2085,5 @@ However, the aircraft had come to the Katunayake Airport at 10.50 am on 06/02 ni
 [Data](articles/d7e7a800.json)
 
 [Extended Data](ext_articles/d7e7a800.ext.json)
-
----
-
-### Announcement inserted into national schools
-
-*2024-06-02 11:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197275) · `si`
-
-Deadline extended: Applications for the 2024 Intermediate series in national schools must be submitted today. Principals are being interviewed for approval based on vacancy rates.
-
-🟩
-
-Applications related to the Intermediate series of national schools will not be handed over to 2024 after tomorrow (02).
-
-Accordingly, the Ministry of Education is informed to prevent applications to the Ministry of Education or schools tomorrow.
-
-The applications had been given the previous opportunity to refer to the applications to the schools for the inclusion of the students in 2024.
-
-According to the intermediate grades of vacancies, the relevant principals in terms of the intermediary grades of vacancies have been interviewed by the Ministry of Education for approval.
-
-◼️
-
-[Data](articles/4b409b1e.json)
-
-[Extended Data](ext_articles/4b409b1e.ext.json)
-
----
-
-### Drinking
-
-*2024-06-02 11:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/185100) · `ta`
-
-The number of Sinhalese members in the Vavuniya North Pradeshiya Sabha has risen due to changes in the divisional secretariat division, affecting political representation.
-
-🟩
-
-The number of Sinhalese members of the Vavuniya North (Nedungeni) Pradeshiya Sabha has increased due to the systematic change in the Vavuniya North (Nedungeni) Divisional Secretariat Division of the Vavuniya North (Nedungeni) Divisional Secretariat Division....
-
-◼️
-
-[Data](articles/a34e826c.json)
-
-[Extended Data](ext_articles/a34e826c.ext.json)
-
----
-
-### Ambassador Kananathan meets Guinea-Bissau President on investment talks
-
-*2024-06-02 11:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ambassador-Kananathan-meets-Guinea-Bissau-President-on-investment-talks/108-283900) · `en`
-
-Nairobi, Kenya  – Sri Lankan Ambassador to Kenya, Kananathan, met with the President of Guinea-Bissau, Umaro Sissoco Embaló on the sidelines of the investiture ceremony of Chad's President.
-
-The meeting, held in an atmosphere of mutual respect and collaboration, centered on advancing the proposed progress on private investments by our businessman from Sri Lanka in Guinea-Bissau.
-
-Ambassador Kananathan highlighted Sri Lanka's commitment to expanding its economic footprint in Africa through strategic partnerships and investments.
-
-The discussions with President Embaló were highly productive," said Ambassador Kananathan. "We are keen on leveraging Sri Lanka's expertise and resources to contribute to Guinea-Bissau for the mutual befit of both nations.  These partnerships will not only foster economic development but also strengthen the bonds between our two nations."
-
-...
-
-[Data](articles/8e10f4cd.json)
-
-[Extended Data](ext_articles/8e10f4cd.ext.json)
 
 ---

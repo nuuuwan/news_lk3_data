@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-02 08:52:58**
+As of **2024-06-02 09:03:57**
 
 ## Newspaper Stats
 
@@ -58,7 +58,11 @@ Meanwhile another person has also died after being buried by a collapsing mound 
 
 Two persons have been reported dead after a mound of earth collapsed on a house at Deiyandara, Pallewela.
 
-Police said two youths, both males aged 20 and 27, have died in the incident.
+Police said two youths, both males aged 20 and 27 who are residents of Denagama, have died in the incident.
+
+Meanwhile, another persons has been injured in the incident which had occurred last night (01) and has been admitted to the Ellewela Hospital.
+
+The bodies of the victims have been placed at the Ellewela Hospital while Deiyandara Police is conducting investigations.
 
 ◼️
 

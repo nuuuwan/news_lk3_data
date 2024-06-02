@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-02 09:03:57**
+As of **2024-06-02 09:18:48**
 
 ## Newspaper Stats
 
-*Scraped **27,791** Articles*
+*Scraped **27,792** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,585
 dailyftlk | 1,635
 adalk | 2,365
 adaderanalk | 3,161
-tamilmirrorlk | 3,257
+tamilmirrorlk | 3,258
 virakesarilk | 4,282
 dailymirrorlk | 4,401
 adaderanasinhalalk | 4,445
@@ -26,11 +26,23 @@ adaderanasinhalalk | 4,445
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,791 (100.0%) of 27,791 articles have been extended.
+27,791 (100.0%) of 27,792 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-02 (Sunday)
+
+### எஹலியகொடவில் அதிக மழை வீழ்ச்சி
+
+*2024-06-02 08:35:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எஹலியகொடவில்-அதிக-மழை-வீழ்ச்சி/175-338258) · `ta`
+
+இன்று(02) காலை 7 மணியுடன் முடிவடைந்த  24 மணித்தியாலத்தில் 427.5 மில்லிமீட்டர் மழை வீழ்ச்சி எஹலியகொட
+
+◼️
+
+[Data](articles/d30ad013.json)
+
+---
 
 ### Flooding kills 03 members of same family in Puwakpitiya
 
@@ -2297,25 +2309,5 @@ Speaking at a press conference held at the White House, the US President said th
 [Data](articles/ddc2a274.json)
 
 [Extended Data](ext_articles/ddc2a274.ext.json)
-
----
-
-### 85 die of heat stress in India as mercury soars
-
-*2024-06-01 10:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/99574/85-die-of-heat-stress-in-india-as-mercury-soars) · `en`
-
-At least 85 people died of suspected heat stress and related issues in Odisha, Bihar, Jharkhand, Rajasthan and Uttar Pradesh in 24 hours, senior officials in these regions said on Friday, amid an unforgiving heat spell in India that has pushed temperatures to unprecedented levels in many of these regions.
-
-The maximum number of casualties was reported in Odisha, which has been reeling under intense heatwave conditions for the past few days, exacerbated further by high humidity that pushed the index to north of 50°C.
-
-In the eastern state, a total of 46 people died of suspected heat stress in a span of 24 hours, prompting the state government to call for an inquiry by senior officials in the health department.
-
-According to officials, five deaths were reported in Rourkela town of Sundargarh, Sambalpur and Bolangir districts on Friday.
-
-...
-
-[Data](articles/33835a3f.json)
-
-[Extended Data](ext_articles/33835a3f.ext.json)
 
 ---

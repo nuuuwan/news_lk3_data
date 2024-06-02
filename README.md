@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-03 02:19:00**
+As of **2024-06-03 02:34:27**
 
 ## Newspaper Stats
 
-*Scraped **27,971** Articles*
+*Scraped **27,974** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 1,643
 adalk | 2,386
 adaderanalk | 3,179
 tamilmirrorlk | 3,277
-virakesarilk | 4,312
+virakesarilk | 4,315
 dailymirrorlk | 4,436
 adaderanasinhalalk | 4,482
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,482
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,969 (100.0%) of 27,971 articles have been extended.
+27,971 (100.0%) of 27,974 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,6 +50,8 @@ As part of the ‘One Step for the Country’ initiative aimed at alleviating th
 
 [Data](articles/791b287b.json)
 
+[Extended Data](ext_articles/791b287b.ext.json)
+
 ---
 
 ### Handunnetti apologises to Elon Musk over misquoted remarks
@@ -67,6 +69,24 @@ The former MP said he had never intended to call Musk an “Economic Hitman”.
 ...
 
 [Data](articles/257fc8e7.json)
+
+[Extended Data](ext_articles/257fc8e7.ext.json)
+
+---
+
+### தனிப்பட்ட தகராறு காரணமாக இரண்டு பிள்ளைகளின் தாய் வாள்வெட்டுச் சம்பவத்தில் பலி!
+
+*2024-06-03 01:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/185157) · `ta`
+
+கண்டி, மஹியாவ பகுதியைச் சேர்ந்த நாற்பத்தெட்டு வயதுடைய இரண்டு பிள்ளைகளின் தாய் ஒருவர் தனிப்பட்ட தகராறு காரணமாக வாள்வெட்டுச் சம்பவத்தில் படுகாயமடைந்த தாய், ஸ்தலத்திலே உயிரிழந்துள்ளார்.
+
+கண்டி மஹய்யாவ MT பிரிவில் வசித்து வந்த வேளாங்கனி எஷிராணி என்ற நபரே இவ்வாறு சனிக்கிழமை (1) இரவு  உயிரிழந்துள்ளார்.
+
+இக்கொலை தொடர்பாக மஹியாவ எம்.  டி பிரிவில் வசிக்கும் முப்பத்தெட்டு வயதுடைய ஒருவரே இவ்வாறு கைது செய்யப்பட்டதாக கண்டி பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/ae835254.json)
 
 ---
 
@@ -133,6 +153,28 @@ In a pioneering move towards sustainability, BNI Sri Lanka, the leading business
 [Data](articles/c29650c5.json)
 
 [Extended Data](ext_articles/c29650c5.ext.json)
+
+---
+
+### 48ஆவது தேசிய விளையாட்டுப் போட்டிக்கான கடற்கரை கரப்பந்தாட்டம்: தென் மாகாணம், வட மேல் மாகாணம் தங்கம் வென்றன
+
+*2024-06-03 01:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/185156) · `ta`
+
+நீர்கொழும்பு ப்றவுண்ஸ் கடற்கரையில் கடந்த 3 தினங்களாக நடைபெற்ற 48ஆவது தேசிய விளையாட்டுப் போட்டியில் ஓர் அம்சமான கடற்கரை கரப்பந்தாட்டத்தில் ஆண்கள் பிரிவில் தென் மாகாணம் தங்கப் பதக்கத்தை சுவீகரித்தது.
+
+ஞாயிற்றுக்கிழமை (02) பிற்பகல் நடைபெற்ற தங்கப் பதக்கத்துக்கான இறுதிப் போட்டியில் வட மேல் மாகாணத்தை எதிர்த்தாடிய தென் மாகாணம் 2 - 1 என்ற செட்கள் (17 - 21, 21 - 17, 15 - 11) வித்தியாசத்தில் வெற்றிபெற்று தங்கப் பதக்கத்தை சுவீகரித்தது.
+
+தங்கப் பதக்கம் வென்ற தென் மாகாண அணியில் டி. சில்வா, பி குமார ஆகியோர் இடம்பெற்றனர்.
+
+வெள்ளிப் பதக்கம் வென்ற வட மேல் மாகாண அணி சார்பாக என். லக்ஷான், டிலிப்ப சாமிக்க ஆகியோர் விளையாடினர்.
+
+வட மத்திய மாகாணத்தை  2 - 1 என்ற செட்கள் வித்தியாசத்தில்  வெற்றிகொண்டு வெண்கலப் பதக்கம் வென்ற சப்ரகமுவ மாகாண அணி சார்பாக என். பேரேரா, எம். விக்ரமசிங்க ஆகியோர் விளையாடினர்.
+
+ஆண்களுக்கான கடற்கரை கரப்பந்தாட்டத்தில் அதிசிறந்த வீரராக பி. குமார (தென் மாகாணம்) தெரிவானார்.
+
+...
+
+[Data](articles/520efbbe.json)
 
 ---
 
@@ -223,6 +265,44 @@ This refers to the article written by Ms Nirmala Kannangara which appeared under
 ---
 
 ### 2024-06-02 (Sunday)
+
+### பப்புவா நியூ கினியின் சவாலை முறியடித்து வெற்றி பெற்றது மேற்கிந்தியத் தீவுகள்
+
+*2024-06-02 23:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/185155) · `ta`
+
+கயானா ப்ரொவிடன்ஸ் விளையாட்டரங்கில் ஞாயிற்றுக்கிழமை (02) நடைபெற்ற சி குழுவுக்கான முதலாவது  ரி20 உலகக் கிண்ண  போட்டியில் பப்புவா நியூ கினியை 5 விக்கெட்களால் முன்னாள் உலக சம்பியன் மேற்கிந்தியத் தீவுகள் வெற்றிகொண்டது.
+
+ஆனால், இந்த வெற்றி மேற்கிந்தியத் தீவுகளுக்கு இலகுவாக அமையவில்லை. 16ஆவது ஓவர் வரை பப்புவா நியூ கினியிடம் கடும் சவாலை எதிர்கொண்ட மேற்கிந்தியத் தீவுகள் அணி, அனுபவசாலிகளான ரொஸ்டன் சேஸ், அண்ட்ரே ரசல் ஆகியோரின் திறமையான துடுப்பாட்டங்கள் மூலம் வெற்றியை ஈட்டிக்கொண்டது.
+
+137 ஓட்டங்களை வெற்றி இலக்காகக் கொண்டு பதிலுக்கு துடுப்பெடுத்தாடிய மேற்கிந்தியத் தீவுகள் 19 ஓவர்களில் 5 விக்கெட்களை இழந்து 137 ஓட்டங்களைப் பெற்று வெற்றியீட்டியது.
+
+மேற்கிந்தியத் தீவுகள் 1.4 ஓவர்களில் ஒரு விக்கெட்டை இழந்து 8 ஓட்டங்களைப் பெற்றிருந்த போது மழை குறுக்கிட்டதால் ஆட்டம் 20 நிமிடங்களுக்கு தடைப்பட்டது.
+
+ஆனால், ஆட்டம் மீணடும் தொடர்ந்தபோது ஓவர்கள் குறைக்கப்படவில்லை. வெற்றி இலக்கும் அப்படியே இருந்தது.
+
+...
+
+[Data](articles/3a6afbb2.json)
+
+---
+
+### President's Work to provide assistance to victims of inclement weather
+
+*2024-06-02 23:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/185153) · `ta`
+
+President Ranil Wickremesinghe has ordered the reconstruction of homes destroyed by the disaster, with the military and police assisting under government funding.
+
+🟩
+
+President Ranil Wickremesinghe has issued a directive to the relevant parties to take steps to construct all the houses that have been completely damaged by the current disaster, with the help of the Army and the police at the expense of the government.
+
+◼️
+
+[Data](articles/02424736.json)
+
+[Extended Data](ext_articles/02424736.ext.json)
+
+---
 
 ### West Indies survive scare in tense win over Papua New Guinea in ICC T20 World Cup
 
@@ -423,24 +503,6 @@ In 2018, in rare criticism directed at Khamenei, Ahmadinejad wrote to him callin
 [Data](articles/5a1a6ea4.json)
 
 [Extended Data](ext_articles/5a1a6ea4.ext.json)
-
----
-
-### President's Work to provide assistance to victims of inclement weather
-
-*2024-06-02 21:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/185153) · `ta`
-
-President Ranil Wickremesinghe has ordered the reconstruction of homes destroyed by the disaster, with the military and police assisting under government funding.
-
-🟩
-
-President Ranil Wickremesinghe has issued a directive to the relevant parties to take steps to construct all the houses that have been completely damaged by the current disaster, with the help of the Army and the police at the expense of the government.
-
-◼️
-
-[Data](articles/02424736.json)
-
-[Extended Data](ext_articles/02424736.ext.json)
 
 ---
 
@@ -2033,59 +2095,5 @@ The police urge the Colombo Kandy road to use alternative routes.
 [Data](articles/e18ba4a2.json)
 
 [Extended Data](ext_articles/e18ba4a2.ext.json)
-
----
-
-### Electrical disconnection
-
-*2024-06-02 14:37:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்சாரம்-துண்டிப்பு/175-338290) · `ta`
-
-Heavy floods and landslides have caused widespread electrical disconnections across the country, affecting power supply in numerous regions due to safety concerns highlighted by the Ministry of Power and Energy.
-
-🟩
-
-The Ministry of Power and Energy said that many parts of the country have been blocked due to heavy floods and landslides caused by rains.
-
-The Ministry has said that electricity has been blocked by highlighting security causes. As well as power supply in many areas
-
-◼️
-
-[Data](articles/9e2da008.json)
-
-[Extended Data](ext_articles/9e2da008.ext.json)
-
----
-
-### Two missing in Thawalama due to floods
-
-*2024-06-02 14:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/99597/two-missing-in-thawalama-due-to-floods) · `en`
-
-At least two persons have been reported missing in the Thawalama area in Galle due to floods, the Disaster Management Centre (DMC) reported.
-
-The DMC also stated that an operation has been launched in search of the two missing individuals.
-
-◼️
-
-[Data](articles/0fe7c29f.json)
-
-[Extended Data](ext_articles/0fe7c29f.ext.json)
-
----
-
-### The weather is convinced
-
-*2024-06-02 14:29:54* · [`adalk`](https://www.ada.lk/breaking_news/කාලගුණය-කැළඹෙයි/11-409963) · `si`
-
-Heavy rains caused severe damage to properties on the island last night, affecting many residents.
-
-🟩
-
-The masses have been severely affected by the heavy rains that cause in the island's land in the island last night.
-
-◼️
-
-[Data](articles/2e8b6413.json)
-
-[Extended Data](ext_articles/2e8b6413.ext.json)
 
 ---

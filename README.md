@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-02 18:12:23**
+As of **2024-06-02 17:54:44**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,468
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,902 (100.0%) of 27,902 articles have been extended.
+27,897 (100.0%) of 27,902 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,8 +45,6 @@ As South Africa heads for a series of complex talks to form a national coalition
 ...
 
 [Data](articles/6d067dfa.json)
-
-[Extended Data](ext_articles/6d067dfa.ext.json)
 
 ---
 
@@ -68,25 +66,19 @@ Boris Johnson, who won the conservative party, was forced to rule over. He was t
 
 ---
 
-### Latest landslide warning issued
+### නවතම නායයාමේ අනතුරු ඇඟවීම නිකුත් කරයි
 
 *2024-06-02 17:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197292) · `si`
 
-The National Building Research Organization has issued landslide warnings for several districts including Ratnapura, Matara, Kurunegala, Kalutara, Hambantota, and Colombo, with specific areas like Peluvenala, Inlanda, Warakahala, Kaluwela, and Kalawana receiving the highest level of red warnings.
+ජාතික ගොඩනැගිලි පර්යේෂණ සංවිධානය විසින් නවතම නායයාමේ අනතුරු ඇඟවීමේ නිවේදනය නිකුත් කර තිබේ.
 
-🟩
+එම නිවේදනයට අනුව රත්නපුර, නුවරඑළිය, මාතර, කුරුණෑගල, කෑගල්ල, නුවර, කළුතර, හම්බන්තොට, ගාල්ල, සහ කොළඹ දිස්ත්‍රික්ක සඳහා අනතුරු ඇඟවීම සිදුකර ඇත.
 
-The National Building Research Organization has issued the latest landslide warning announcement.
-
-According to the announcement, Ratnapura, Matara, Matara, Kurunegala, Kurunegala, Kalutara, Hambantota, Hambantota, Hambantota, Hambantota, Hambantota and Colombo districts have been warned.
-
-Meanwhile, the reputation issues the third level of red warnings for Peluvenala, Inlanda, Warakahala, Warakahala, Kaluwela, Ratnapura, Kalawana, Kalawana, Kalawana, Kalawana, Kalawana, Kalawana, Kalawana, Kalalla and EhewanaellaHas been done.
+මේ අතර එම නිවෙදනය හරහා පාදුක්ක, පාලින්දනුවර, මතුගම, බුලත්සිංහල, ඉංගිරිය, රුවන්වැල්ල, දෙහිඕවිට, දැරණියගල, වරකාපොල, යටියන්තොට, රත්නපුර, අයගම, පැල්මඩුල්ල, කුරුවිට, ඇලපාත, නිවිතිගල, කලවාන, කිරිඇල්ල සහ ඇහැළියගොඩ ප්‍රදේශ සඳහා තුන්වන මට්ටමේ රතු අනතුරු ඇඟවීම් නිකුත් කර තිබේ.
 
 ◼️
 
 [Data](articles/b3ff240d.json)
-
-[Extended Data](ext_articles/b3ff240d.ext.json)
 
 ---
 
@@ -220,27 +212,21 @@ Therefore, the Matara District Disaster Committee met yesterday evening yesterda
 
 ---
 
-### UNP membership for Ranjith
+### ரஞ்சித்துக்கு ஐ.தே.க உறுப்புரிமை
 
 *2024-06-02 16:41:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரஞ்சித்துக்கு-ஐ-தே-க-உறுப்புரிமை/175-338302) · `ta`
 
-After being suspended in 2020, Ranjith Mathuma Bandara, General Secretary of the United People's Power under Opposition Leader Sajith Premadasa, rejoined the United National Party (UNP). This decision was made during a UNP Executive Committee meeting chaired by President Ranil Wickremesinghe at the party's headquarters.
+எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாஸ தலைமையிலான ஐக்கிய மக்கள் சக்தியின் பொதுச் செயலாளரும், பாராளுமன்ற உறுப்பினருமான ரஞ்சித் மத்தும பண்டாரவுக்கு கட்சியின் உறுப்புரிமை​யை வழங்கி,
 
-🟩
+கட்சியில் மீள இணைத்துக் கொள்ள ஐக்கிய தேசியக் கட்சியின் செயற்குழு ஞாயிற்றுக்கிழமை (02) தீர்மானித்துள்ளது.
 
-Ranjith Mathuma Bandara, the General Secretary of the United People's Power, led by Opposition Leader Sajith Premadasa, gave the party membership.
+ரஞ்சித் மத்தும பண்டாரவின் கட்சி உறுப்புரிமையை ஐக்கிய தேசியக் கட்சி   2020 இல் இடைநிறுத்தியது.
 
-The United National Party (UNP) Executive Committee has decided on Sunday (02) to join the party.
-
-The United National Party (UNP) suspended the party membership of Ranjith Mathuma Bandara in 2020.
-
-The resolution was reached at a meeting of the party headed by United National Party (UNP) leader and president Ranil Wickremesinghe at the party headquarters in Sirikotha on Sunday (02).
+ஐக்கிய தேசியக் கட்சியின் தலைவரும் ஜனாதிபதியுமான ரணில் விக்கிரமசிங்க தலைமையில்   கட்சியின் தலைமையகமான சிறிகொத்தாவில், ஞாயிற்றுக்கிழமை (02) கூடிய  செயற்குழுக் கூட்டத்திலேயே இந்தத் தீர்மானம் எட்டப்பட்டுள்ளது.
 
 ◼️
 
 [Data](articles/90d5f352.json)
-
-[Extended Data](ext_articles/90d5f352.ext.json)
 
 ---
 
@@ -335,8 +321,6 @@ The Kaduwela-Biyagama interchange of the Southern Expressway has been closed to 
 ◼️
 
 [Data](articles/07f22d14.json)
-
-[Extended Data](ext_articles/07f22d14.ext.json)
 
 ---
 
@@ -1706,35 +1690,27 @@ The situation was caused by the torrential rainfall of 149.8mm received by the M
 
 ---
 
-### Heavy Rain: 7 people die in 24 hours
+### අධික වැසි: ගත වූ පැය 24 තුළ පුද්ගලයින් 7 දෙනෙකු මියයයි
 
 *2024-06-02 10:49:11* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cw88g2ndzg2o) · `si`
 
-In Sri Lankan society, being a single mom can be challenging due to cultural expectations, financial hardships, and lack of support systems. The Israeli-Gaza War involved intense conflict between Israel and Gaza, with significant casualties and destruction, particularly affecting civilians. The pearl mink refers to a unique breed of pig known for its valuable fur, which has been controversial due to ethical concerns surrounding animal farming practices.
+අධික වැසි සහිත කාලගුණය සමග ඇතිවු ආපදා හේතුවෙන් ගතවූ පැය 24ක කාලය තුලදී පුද්ගලයින් 07 දෙනෙකු ජීවිතක්ෂයට පත්ව ඇති බව ආපදා කළමනාකරණ මධ්‍යස්ථානය සඳහන් කර සිටියි.
 
-🟩
+නිරිත දිග මෝසම් වර්ෂාව සක්‍රීය වීමත් සමග දිවයිනේ බස්නාහිර, සබරගමුව පළාත් වලට මෙන්ම ගාල්ල සහ මාතර දිස්ත්‍රික්ක වෙත මේවන විටත් ධාරාණිපාත වැසි ලැබෙමින් පවතී.
 
-The Disaster Management Center (DMC) states that seven persons have died during the 24-hour period due to the heavy rain weather.
+පවතින තත්ත්වය මත ගංවතුර මෙන්ම නාය යාමේ අවදානම් පිළිබඳව අනතුරු ඇඟවීම් නිකුත් කර ඇති බව  ආපදා කළමනාකරණ මධ්‍යස්ථානය පැවසීය.
 
-With the active of the southwest monsoon, the islanders are being raised to the Western, Sabaragamuwa Provinces as well as the Galle and Matara districts.
+මේ අතර පවතින තදවැසි සහිත කාලගුණ තත්ත්වය හේතුවෙන්  හෙට (ජුනි මස 03 වෙනිදා) දිවයිනේ සියලුම රජයේ පාසල් වසා තැබෙන බව අධ්‍යාපන අමාත්‍යාංශය නිවේදනයක් නිකුත් කරමින් දැනුම් දී සිටියි.
 
-The Disaster Management Center (DMC) said that the warnings of floods and landslides have been issued.
+අධික වැසි සහිත කාලගුණය සමග සීතාවක, පුවක්පිටිය ප්‍රදේශයේදී ගංවතුරට හසුවී එකම පවුලේ තිදෙනෙකු මියගොස් ඇති බව අපදා කළමනාකරණ මධ්‍යස්ථානය නිවේදනය කර සිටියි.
 
-The Ministry of Education has informed all government schools in the island tomorrow (June 3) due to the tight weather conditions.
+එලෙස මියගොස් ඇත්තේ, වයස අවුරුදු 29ක මවක්, ඇයගේ සත් හැවිරිදි දියණිය සහ 78 හැවිරිදි මුත්තනුවන්ය.
 
-The Disaster Management Center (DMC) has announced that three people have been killed in the flood in Puwakpitiya area with heavy rain weather.
-
-The deceased has been identified as a 29 year old mother, her seven-year-old daughter and 78 years.
-
-The house was flooded by floods on the road near the house near the house today (02) in early morning.
-
-Meanwhile, two youths have also killed a 11 year old girl in the Hewahwarala area in Avissawella.
+අද ( ජුනි මස 02 වෙනිදා) අලුයම් කාලයේ දී අදාළ නිවස ආසන්නයේ ඇති ඇළ මාර්ගයේ ගංවතුර තත්ත්වයක් ඇතිවීමෙන් නිවස ජලයෙන් යටවී ඔවුන් මියගොස් තිබේ.
 
 ...
 
 [Data](articles/b0a31001.json)
-
-[Extended Data](ext_articles/b0a31001.ext.json)
 
 ---
 

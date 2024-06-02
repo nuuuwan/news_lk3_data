@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-02 17:18:58**
+As of **2024-06-02 17:34:20**
 
 ## Newspaper Stats
 
-*Scraped **27,895** Articles*
+*Scraped **27,897** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ newsfirstlk | 363
 islandlk | 1,507
 economynextcom | 1,587
 dailyftlk | 1,635
-adalk | 2,378
+adalk | 2,379
 adaderanalk | 3,171
 tamilmirrorlk | 3,271
-virakesarilk | 4,299
+virakesarilk | 4,300
 dailymirrorlk | 4,421
 adaderanasinhalalk | 4,467
 
@@ -26,33 +26,57 @@ adaderanasinhalalk | 4,467
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,881 (99.9%) of 27,895 articles have been extended.
+27,895 (100.0%) of 27,897 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-02 (Sunday)
 
-### தமிழர் தரப்புக்கள் பதிலடி வழங்குமா?
+### திடீர் தேர்தல் காணும் பிரித்தானியா
+
+*2024-06-02 17:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/185130) · `ta`
+
+பழமைவாதக் கட்சியின் சார்பில் வெற்றிபெற்று பதவியேற்ற போரிஸ் ஜோன்சன் கொரோனாப் பெருந்தொற்றுக் காலத்தில் ஆட்சிபுரிய வேண்டிய நிலை ஏற்பட்டது. உக்ரேன் மீதான ரஷ்யப் படையெடுப்பு ஆரம்பமான போதில் அவரே தலைமை அமைச்சராக விளங்கினார்.  2019 ஜுலை 24இல் பதவியேற்ற இவர் 2022 செப்டெம்பர் 5ஆம் திகதி பதவி விலகினார். நேட்டோ அமைப்பில் அமெரிக்காவுக்கு அடுத்து படைபலம் மிக்க பாராக விளங்கும் பிரித்தானியா உக்ரேன் போர் ஆரம்பமான நாள் முதலாக உக்ரேனுக்குத் தேவையான படைத்தளபாட உதவிகளை வழங்குவது மாத்திரமன்றி ஆயிரக்கணக்கான உக்ரேன் படையினருக்குப் பயிற்சிகளையும் வழங்கி வருகின்றமை குறிப்பிடத்தக்கது....
+
+◼️
+
+[Data](articles/1eadf056.json)
+
+---
+
+### Will Tamil parties retaliate?
 
 *2024-06-02 17:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/185129) · `ta`
 
-“தமிழர்கள் மத்தியில் இருந்த ஒற்றுமையின்மையை சிங்களத் தலைவர்கள் ஒவ்வொருவரும் தங்களின் தேவைகளுக்காக பயன்படுத்தி, பிளவுபடுத்தி அவர்கள் குளிர்காய்ந்திருக்கிறார்கள்”
+Tamil political parties' reaction remains uncertain due to historical use of Tamil unity by Sinhalese leaders for personal gain, indicating a complex dynamic rather than immediate retaliation.
+
+🟩
+
+“The unity among the Tamils ​​has been used for each of the Sinhalese leaders for their needs, and they are cool.”
 
 ◼️
 
 [Data](articles/be2f6462.json)
 
+[Extended Data](ext_articles/be2f6462.ext.json)
+
 ---
 
-### கழுத்தை நெரிக்கும் கூலிப்படை விவகாரம்
+### Bossary
 
 *2024-06-02 17:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/185126) · `ta`
 
-ரஷ்யாவில் கூலிப்படையினராக போரிடச் சென்ற முன்னாள் இராணுவத்தினரை மீளவும், அழைத்து வருவதற்கான முயற்சிகளைத் தீவிரப்படுத்த வேண்டிய நிலைக்குத் தள்ளப்பட்டிருக்கிறது அரசாங்கம். புறச்சக்திகளின் தலையீடுகள், அழுத்தங்களை அடுத்தே, இந்த நடவடிக்கையை தீவிரப்படுத்த வேண்டிய நிலை ஏற்பட்டுள்ளது.
+Under pressure from public outcry, the government is stepping up efforts to repatriate former soldiers who fought as mercenaries in Russia. This comes after increased attention due to recent events.
+
+🟩
+
+The government has been forced to intensify efforts to recover and bring former soldiers who went to fight as mercenaries in Russia. Following the interventions and pressures of the outbreak, the need to intensify the move.
 
 ◼️
 
 [Data](articles/b22e8667.json)
+
+[Extended Data](ext_articles/b22e8667.ext.json)
 
 ---
 
@@ -74,17 +98,25 @@ Meanwhile, the Disaster Management Center announced the deaths of nine individua
 
 [Data](articles/b85f1721.json)
 
+[Extended Data](ext_articles/b85f1721.ext.json)
+
 ---
 
-### ராஜபக்ஷவினரை வளைக்கும் இந்தியா
+### India is bending Rajapaksa
 
 *2024-06-02 16:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/185120) · `ta`
 
-இலங்கையர்கள் தெரிவு செய்யப்போகும் ஜனாதிபதி அடுத்த ஐந்து ஆண்டுகள், இலங்கையை வழிநடத்துபவராக மாத்திரம் இருக்கப் போவதில்லை. அதற்கு அப்பால் இந்திய பெருங்கடலில் - பிராந்திய மற்றும் சர்வதேச அரசியல் சக்திகளுடனான உறவுகள் மற்றும் நகர்வுகளை தீர்மானிப்பவராகவும் இருக்கப் போகிறார்...
+India's influence over Sri Lanka's politics, particularly with President Rajapaksa, is significant. He'll shape Sri Lanka's relationships with regional and international powers in the Indian Ocean for the next five years.
+
+🟩
+
+The President of Sri Lanka will not be the only leading Sri Lanka for the next five years. Beyond that, he is going to determine the relations and moves with regional and international political forces in the Indian Ocean ...
 
 ◼️
 
 [Data](articles/51a57a50.json)
+
+[Extended Data](ext_articles/51a57a50.ext.json)
 
 ---
 
@@ -107,6 +139,28 @@ The officers of the police and the Pradeshiya Sabha were also released to releas
 [Data](articles/a70fb7a7.json)
 
 [Extended Data](ext_articles/a70fb7a7.ext.json)
+
+---
+
+### මාතර යටවෙයි  - තරුණයින් දෙදෙනෙක් ජීවිතක්ෂයට
+
+*2024-06-02 16:43:43* · [`adalk`](https://www.ada.lk/breaking_news/මාතර-යටවෙයි----තරුණයින්-දෙදෙනෙක්-ජීවිතක්ෂයට/11-409966) · `si`
+
+නොකඩවා ඇද හැලෙන ධාරානිපාත වර්ෂාවත් සමග පස් කඩා වැටීමෙන් මාතර දිස්ත්‍රික්කයේ පුද්ගලයින් දෙදෙනෙකු ජීවිතක්ෂයට පත්ව පස් දෙනකු තුවාල ලබා ඇති බව මාතර දිස්ත්‍රික් ආපදා කළමනාකරණ මධ්‍යස්ථානයේ අධ්‍යක්ෂ ලුතිනන් කර්නල් ආරියවංශ කණ්ඩම්බි මහතා පැවසීය.
+
+එසේ මරුමුවට පත්ව ඇත්තේ මුලටියන දෙනගම පල්ලාවල ප්‍රදේශයේ දී පස් කන්දකට යට වීමෙන් සමරප්පුලි හේවලාගේ කසුන් සදමල් (27) හා පිටවල්ගමුව වංචාවල හේවා හකුරුගේ නුවන් සමීර (20) නැමැති තරුණයින් දෙදෙනෙකි.
+
+එම අනතුරින් තවත් තරුණයෙකු තුවාල ලබා ඇත.මීට අමතරව අකුරැස්ස ප්‍රාදේශීය ලේකම් කොට්ඨාසයේ ද නිවසක් මතට පස් කන්දක් කඩා වැටී එකම පවුලේ මව,පියා හා දරුවන් දෙදෙනෙකු තුවාල ලබා ඇත.
+
+අනතුරු දෙකෙන් තුවාල ලැබු එම පස් දෙනාම වෛද්‍ය ප්‍රතිකාර සදහා කරාපිටිය මහ රෝහල වෙත පිටත් කල බව ලුතිනන් කර්නල් ආරියවංශ මහතා කීය.
+
+මේ අතර නිල්වලා ගගේ ඉහල කොටසට ඇදහැළුණු ධාරාණිපාත වර්ෂාවට හේතුවෙන් මේ වන විට මහ ගංවතුර මට්ටමක් ඇති වීමේ අවධානමක් ඇති වී තිබේ.
+
+පිටබැද්දර ජල මාපකයේ මහ ගංවතුර මට්ටම මීටර් 6.00 ක් වුවද ඊයේ (02) උදෑසන 10.00;වන විට ජල ප්‍රමාණය මීටර් 7.27 ක් දක්වා සීමාව ඉහල ගොස් තිබුණි.
+
+...
+
+[Data](articles/60c26697.json)
 
 ---
 
@@ -208,15 +262,21 @@ The collapse has forced Sri Lanka Railways to limit train operations on the line
 
 ---
 
-### ஐ.தே.க செயலாளரின் கூற்று தோல்வி அச்சத்தின் வெளிப்பாடா?
+### Is the UNP secretary's claim expression of fear?
 
 *2024-06-02 16:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/185127) · `ta`
 
-ஜனாதிபதி தேர்தல் இடம்பெற்றால்  அதில் தான் வெற்றியடைவதில் நிச்சயமற்ற தன்மை ஒன்று நிலவி வருவதை ரணில் நன்கறிந்துள்ளார். அதற்காக ரணில் தேர்தலை ஒத்தி வைக்க முயற்சிக்கின்றாரா என்பது ஒரு விடயம். அடுத்தது  தனது மாமனார் ஜே.ஆர். ஜெயவர்த்தன வழியில் அவர் ஜனாதிபதித் தேர்தலை நடத்தாமலேயே சர்வஜன வாக்கெடுப்பு ஒன்றை நடத்துவதற்கு யோசிக்கின்றாரா என்பது இரண்டாவது விடயம்...
+Ranil's concerns about the uncertain presidential election suggest he might be considering postponing it or even holding a referendum before conducting the election, possibly influenced by his father-in-law JR's stance.
+
+🟩
+
+Ranil knows that there is uncertainty in the presidential election.. Whether Ranil is trying to postpone the election is one thing. Next up is his father -in -law JR. The second issue is whether he is wondering to hold a referendum without holding the presidential election in Jayawardene ...
 
 ◼️
 
 [Data](articles/d7fe2aa8.json)
+
+[Extended Data](ext_articles/d7fe2aa8.ext.json)
 
 ---
 
@@ -410,15 +470,21 @@ The tree has begun to remove the tree. Drivers are informed to use alternative r
 
 ---
 
-### சர்வஜன வாக்கெடுப்பு நடக்குமா?
+### Will the referendum take place?
 
 *2024-06-02 14:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/185122) · `ta`
 
-“ரணில் விக்கிரமசிங்க ஜனாதிபதி தேர்தலை  எதிர்கொள்வதற்கு தயக்கம் இல்லாமல் இருந்திருந்தால்- இரண்டு ஆண்டுகளுக்கு  ஜனாதிபதி, பொதுத்தேர்தல் ஆகியவற்றை  ஒத்திவைக்குமொரு யோசனை அவரது கட்சியிடம் இருந்து வெளிப்பட்டிருக்காது”
+If Ranil Wickremesinghe had contested the presidency without hesitation, his party wouldn't have proposed postponing the election for two years.
+
+🟩
+
+“If Ranil Wickremesinghe had not hesitated to face the presidential election- the idea of ​​postponing the presidential election for two years would not have emerged from his party"
 
 ◼️
 
 [Data](articles/856c9fdf.json)
+
+[Extended Data](ext_articles/856c9fdf.ext.json)
 
 ---
 
@@ -586,15 +652,21 @@ Accordingly, the power supply has been disconnected in several areas in the Gall
 
 ---
 
-### சுமந்திரனின் பொறியில் சிக்கியது சிவில் சமூகம்
+### Sumanthiran's trap is the civil society
 
 *2024-06-02 14:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/185110) · `ta`
 
-பொதுவேட்பாளர் திட்டத்தை தமிழ் அரசு கட்சிக்குள் தோற்கடிக்க ‘ஒஸ்லோ உடன்பாடு’ என்ற ஆயுதத்தை கையில் எடுத்த சுமந்திரன் – வெளியேற உள்ள தரப்புகளை மடக்குவதற்கு, ‘பொதுக்கலந்துரையாடல்’ எனும்  புதிய ஆயுதத்தை கையில் எடுத்திருக்கிறார். ஜனாதிபதி தேர்தலில் தமிழ் பொது வேட்பாளரை நிறுத்துவது தொடர்பாக, சில தமிழ் கட்சிகளும் சிவில் சமூகமும் முன்னெடுத்து வந்த முயற்சிகள், பலருக்கு  அச்சத்தை அல்லது பதற்றத்தை உருவாக்கியிருக்கிறது.
+Sumanthiran uses the Oslo Agreement as a tool against the Tamil government party's opponent, employing 'Public Information' to influence the presidential election. His actions, along with those of certain Tamil parties and civil society groups, have sparked fear and tension among many voters.
+
+🟩
+
+Sumanthiran - Sumanthiran has taken up the weapon of the Oslo Agreement to defeat the general candidate's plan to defeat the Tamil government party, and has taken a new weapon called 'Public Information'. The efforts of some Tamil parties and the civil society on the presidential candidate in the presidential election have created fear or tension for many.
 
 ◼️
 
 [Data](articles/18afec15.json)
+
+[Extended Data](ext_articles/18afec15.ext.json)
 
 ---
 
@@ -616,15 +688,21 @@ Residents in the affected districts are advised to remain calm and follow any fu
 
 ---
 
-### தமிழ் தேசிய கூட்டமைப்புக்கு சாவுமணி அடித்தது யார்? -  பாகம் 01
+### Who was the death of the TNA?- Part 01
 
 *2024-06-02 14:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/185101) · `ta`
 
-தமிழ் மக்களின் அரசியல் பயணத்திலும் ஜனநாயகப் போராட்டங்களிலும்  கடந்த 22 வருடங்களுக்கு மேலாக பங்கெடுத்துக்கொண்ட  பிரதான சக்தியாக விளங்கியது, தமிழ்த் தேசியக் கூட்டமைப்பு என்ற அரசியல் கூட்டாகும். சுதந்திர காலத்திலிருந்து தமிழ் மக்கள் தமது அரசியல் உரிமைகளுக்காக போராடி வந்தபோதும், தமிழ் மக்களின்  வரலாற்று ஓட்டத்தில் பலமுள்ள சக்தியாக மக்கள் ஆணையை  பெற்றுவந்த ஜனநாயக குறியீடாக 2001ஆம் ஆண்டுக்குப் பின் சர்வதேச அரங்கிலும் உள்நாட்டுப் பரப்பிலும் விளங்கிய அரசியல் கூட்டாக கூட்டமைப்பு காணப்பட்டு வந்திருக்கிறது....
+The Tamil National Alliance (TNA), a key player in Tamil politics for over two decades, represents the democratic aspirations of the Tamil people. Despite facing challenges, it remains a significant force in advocating for Tamil political rights.
+
+🟩
+
+The political partnership of the Tamil National Alliance (TNA) has been the main force that has been involved in the political journey and democratic struggles of the Tamil people for over 22 years.. While the Tamil people have been fighting for their political rights since independence, the Confederacy has been seen as a democratic symbol of the Tamil people as a powerful force in the historical flow of the Tamil people.
 
 ◼️
 
 [Data](articles/c721ec6e.json)
+
+[Extended Data](ext_articles/c721ec6e.ext.json)
 
 ---
 
@@ -712,15 +790,21 @@ Namal Rajapaksa said the party had decided to provide one million rupees for the
 
 ---
 
-### முஸ்லிம் காங்கிரஸில்    முற்றும் முரண்பாடுகள்
+### Complete conflicts in the Muslim Congress
 
 *2024-06-02 13:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/185118) · `ta`
 
-ஸ்ரீலங்கா முஸ்லிம் காங்கிரஸின் தலைவருக்கும் அம்பாறை மாவட்ட பாராளுமன்ற உறுப்பினர்களுக்கும் இடையிலான முரண்பாடு வலுவடைந்து வருகிறது.  முஸ்லிம் காங்கிரஸில் அம்பாறை மாவட்ட பாராளுமன்ற உறுப்பினர்களும், அவர்களுக்கு சார்பான உள்ளுர் முக்கியஸ்தர்களும் ஒருகுழுவினராக செயற்பட்டுக் கொண்டிருக்கின்றனர். மறுபுறத்தில் ரவூப் ஹக்கீமுடன் நெருக்கத்தையும், விசுவாசத்தையும் வைத்துள்ள கட்சியின் உயர்பீட உறுப்பினர்களும், உள்ளுர் முக்கியஸ்தர்களில் ஒருசிலரும் பிறிதொரு குழுவினராக செயற்பட்டுக் கொண்டிருக்கின்றார்கள்.
+Conflict within the Sri Lanka Muslim Congress intensifies between two factions: one led by Ampara District Parliamentarians and another supporting Rauf Hakeem. The division threatens unity among Muslims in the region.
+
+🟩
+
+The conflict between the leader of the Sri Lanka Muslim Congress and the Ampara District Parliamentarians is strengthening. Ampara district parliamentarians in the Muslim Congress and their pro -local leaders are acting as a group. On the other hand, the high -ranking party members who have close and faith with Rauf Hakeem are acting as another group of local leaders.
 
 ◼️
 
 [Data](articles/ebeac43f.json)
+
+[Extended Data](ext_articles/ebeac43f.ext.json)
 
 ---
 
@@ -832,45 +916,63 @@ Accordingly, the general public living in the area are advised to remain cautiou
 
 ---
 
-### ரணில் கூறும் தீர்வு என்ன?
+### What is the solution to Ranil?
 
 *2024-06-02 13:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/185106) · `ta`
 
-“ஜனாதிபதி ரணில்  தமிழ் மக்களின் பிரச்சினை என்று வரும்போது மட்டும்,  கிழக்கை மறந்து விடுகிறார். அதனை வடக்கும் மக்களின் பிரச்சினை என்று மாத்திரம் வரையறுத்துக் கொள்ள முற்படுகிறார்” தமிழ் மக்களின் பிரச்சினைகள், போருக்குப் பின்னர் உருவானவை அல்ல. அந்தப் பிரச்சினைகள் தான் போரையே உருவாக்கியவை என்பது  ரணில் விக்கிரமசிங்கவுக்கு தெரியாத விடயமும் அல்ல.”
+Critics argue President Ranil Wickremesinghe overlooks Tamil issues, suggesting his awareness of pre-war problems but insufficient action post-war.
+
+🟩
+
+“President Ranil only forgets the East when it comes to the Tamil people's problem. The problems of the Tamil people are not created after the war.. Ranil Wickremesinghe is not unaware of those issues that have created war. ”
 
 ◼️
 
 [Data](articles/545aa2e2.json)
 
+[Extended Data](ext_articles/545aa2e2.ext.json)
+
 ---
 
-### இரத்தினபுரியில் வெள்ளத்தில் அடித்துச்செல்லப்பட்டு பெண் பலி !
+### Woman killed in floods in Ratnapura
 
 *2024-06-02 12:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/185114) · `ta`
 
-நிலவும் சீரற்ற காலநிலை காரணமாக ஏற்பட்ட வெள்ளப்பெருக்கில் இரத்தினபுரி, எலபாத்த பகுதியில் வெள்ள நீரில் அடித்துச்செல்லப்பட்டு பெண்ணொருவர்  உயிரிழந்துள்ளார்.
+A woman died in floods in Ratnapura's Elapatha. The National Building Research Institute warns of landslides nationwide, advising residents in risky areas to prepare for potential relocation.
 
-நாட்டில் அதிக மழையுடனான வானிலை நிலவுவதனால் பாதுகாப்பற்ற பகுதிகளில் வசிக்கும் மக்களுக்கு தேசிய கட்டிட ஆராய்ச்சி நிறுவனம் அறிவுறுத்தலொன்றை விடுத்துள்ளது.
+🟩
 
-மழையுடனான வானிலையையடுத்து பல பகுதிகளில் மண்சரிவு அபாயம் ஏற்படும் எனவும் இதனால் பாதுகாப்பற்ற பகுதிகளில் வசிக்கும் மக்கள் மிகவும் அவதானமாக இருக்குமாறும் அறிவுறுத்தல்களுக்கு அமைய தேவையேற்படின் இடம்பெயரத் தயாராக இருக்குமாறும் தேசிய கட்டிட ஆராய்ச்சி நிறுவனத்தால் அறிவுறுத்தல் விடுக்கப்பட்டுள்ளது.
+A woman has been killed in floods in Elapatha, Elapatha, Ratnapura.
+
+The National Building Research Institute has advised people living in unsafe areas due to heavy rainfall in the country.
+
+The National Building Research Institute has been instructed by the National Building Research Institute that there is a risk of landslides in many parts of the country, which will be very observant and will be prepared to dispose of the need for the need to be relocated.
 
 ◼️
 
 [Data](articles/368597bb.json)
 
+[Extended Data](ext_articles/368597bb.ext.json)
+
 ---
 
-### மக்களுக்கு விடுக்கப்பட்டுள்ள அறிவுறுத்தல் !
+### The instruction has been issued to the people!
 
 *2024-06-02 12:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/185111) · `ta`
 
-நாட்டில் அதிக மழையுடனான வானிலை நிலவுவதனால் பாதுகாப்பற்ற பகுதிகளில் வசிக்கும் மக்களுக்கு தேசிய கட்டட ஆராய்ச்சி நிறுவனம் முக்கிய அறிவுறுத்தலொன்றை விடுத்துள்ளது.
+Due to heavy rainfall, the National Building Research Institute warns of landslide risks in several regions. It advises residents in unsafe zones to stay alert and ready to relocate as instructed.
 
-மழையுடனான வானிலையையடுத்து பல பகுதிகளில் மண்சரிவு அபாயம் ஏற்படும் எனவும் இதனால் பாதுகாப்பற்ற பகுதிகளில் வசிக்கும் மக்கள் மிகவும் அவதானமாக இருக்குமாறும், அறிவுறுத்தல்களுக்கு அமைய தேவையேற்படின் இடம்பெயரத் தயாராக இருக்குமாறும் தேசிய கட்டட ஆராய்ச்சி நிறுவனத்தால் அறிவுறுத்தல் விடுக்கப்பட்டுள்ளது.
+🟩
+
+The National Building Research Institute has issued an important instruction for people living in unsafe areas due to heavy rainfall in the country.
+
+The National Building Research Institute has been advised to make a risk of landslides in many areas following rainfall and that people living in unsafe areas will be very observant and will be prepared to migrate in accordance with instructions.
 
 ◼️
 
 [Data](articles/ed6aadc3.json)
+
+[Extended Data](ext_articles/ed6aadc3.ext.json)
 
 ---
 
@@ -1140,15 +1242,21 @@ The Father said: "The father of his beloved daughter. Daughter's earliest school
 
 ---
 
-### பிரித்தானியாவில் மீண்டும் கட்டாய இராணுவ சேவை : ரிஷி சுனாக்கின் தேர்தல் மூலோபாயமா?
+### Compulsory Military Service in Britain: Is Rishi Tsunac's election strategy?
 
 *2024-06-02 11:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/185104) · `ta`
 
-உலகில் பல்வேறு நாடுகளில் குறுகிய காலத்திற்கு இராணுவத்தில் சேவை செய்ய வேண்டும் என்ற கட்டாய பணி உள்ளது. குறிப்பாக போர்க்காலங்களில் இத்தகைய சட்டம் கட்டாய, ஏன் வலுக்கட்டாய ஆட்சேர்ப்பு என்றே கருதுவதற்கு இடமுண்டு. இத்தகைய நாடுகளில் இராணுவத்திற்கு சேவை செய்வது கட்டாயம் என்பது இங்கே கவனிக்க வேண்டியதொன்று. இத்தகைய நாடுகளில், அதற்காக அரசியல் யாப்பு மூலம் சட்டங்களும் இயற்றப்பட்டுள்ளது.
+Rishi Sunak's election strategy may involve highlighting compulsory military service as a way to strengthen national unity and security, drawing parallels with other nations' mandatory military obligations during wartime.
+
+🟩
+
+There is a compulsory task to serve the military for a short time in different countries in the world. Especially during the war, such law is mandatory and why it is forcible recruitment. It is worth noting here that it is mandatory to serve the military in such countries. In such countries, laws have been enacted for that.
 
 ◼️
 
 [Data](articles/fa395f8a.json)
+
+[Extended Data](ext_articles/fa395f8a.ext.json)
 
 ---
 
@@ -1340,15 +1448,21 @@ According to the intermediate grades of vacancies, the relevant principals in te
 
 ---
 
-### வவுனியா வடக்கில் மாற்றப்படும் குடிப்பரம்பல்
+### Drinking
 
 *2024-06-02 11:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/185100) · `ta`
 
-“உள்ளூராட்சி மன்றத்தின் ஆட்சி அதிகாரம் பறிபோகும் பரிதாப நிலை: வன்னி  மாவட்ட தமிழ் பேசும் பிரதிநிதித்துவத்துக்கும் ஆபத்து” வவுனியா வடக்கு (நெடுங்கேணி) பிரதேச செயலாளர் பிரிவில் திட்டமிட்டு முன்னெடுக்கப்பட்டு வரும் குடிப்பரம்பல் மாற்றம் காரணமாக வவுனியா வடக்கு (நெடுங்கேணி) பிரதேச சபையின் பெரும்பான்மை சிங்கள உறுப்பினர்களின் எண்ணிக்கை அதிகரித்துள்ளதோடு, ஆட்சி அதிகாரத்தை இழக்கும் ஆபத்தான நிலைமையும் ஏற்பட்டுள்ளது....
+The number of Sinhalese members in the Vavuniya North Pradeshiya Sabha has risen due to changes in the divisional secretariat division, affecting political representation.
+
+🟩
+
+The number of Sinhalese members of the Vavuniya North (Nedungeni) Pradeshiya Sabha has increased due to the systematic change in the Vavuniya North (Nedungeni) Divisional Secretariat Division of the Vavuniya North (Nedungeni) Divisional Secretariat Division....
 
 ◼️
 
 [Data](articles/a34e826c.json)
+
+[Extended Data](ext_articles/a34e826c.ext.json)
 
 ---
 
@@ -2013,53 +2127,5 @@ General public is kindly requested to take adequate precautions to minimize dama
 [Data](articles/65a69429.json)
 
 [Extended Data](ext_articles/65a69429.ext.json)
-
----
-
-### Floods for 3 floods in the same family
-
-*2024-06-02 07:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197268) · `si`
-
-In a tragic incident, three members of the same family perished due to flooding in the Elissanwatta, Elissenpitiya, Kekilla region. The victims were a 36-year-old woman and her 78-year-old mother, who drowned when their home was inundated by floodwaters around 2 to 3 pm today.
-
-🟩
-
-Three people have died in the same family in the flood, Elissanwatta, Elissenpitiya, Kekilla area.
-
-The deceased has been identified as 36-year-old mother, daughter of age and 78 years old.
-
-The house had been subjected to water and the house was flooded by floods in the near future between 2 and 3 pm today.
-
-◼️
-
-[Data](articles/f3ef84a3.json)
-
-[Extended Data](ext_articles/f3ef84a3.ext.json)
-
----
-
-### Here are areas with flood risk
-
-*2024-06-02 07:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197267) · `si`
-
-Areas around the Kalu and Kelani Rivers, including Ratnapura, Ayagama, Akapatha, Ingiriya, Horana, Dodangoda, Millaniya, Colombo, Kamburupitiya, Akuressa, Thihagoda, Matara, Devinuwara, Neluwa, Thawalama, Niyagama, Elpitiya, Baddegama, and Bope Poddala, are at risk of flooding due to heavy rainfall. The Department of Irrigation warns of potential flooding in these regions within the next 48 hours.
-
-🟩
-
-Floods have been issued to the floods in lowland areas around the prevailing inclement weather.
-
-Accordingly, the Kalhare areas of the Kalu River have received significant rainfall and in the next 48 hours of flooding in the Ratnapura District, the lowland areas of the Ratnapura district, Ayagama, Akapatha and Ratnapura.
-
-The Department of Irrigation said that there is a flood in Ingiriya, Horana, Dodangoda and Millaniya Divisional Secretariat Divisions.
-
-Floods in Colombo, Kamburupitiya, Kamburupitiya, Akuressa, Thihagoda, Thihagoda, Kamburupitiya, Kamburupitiya, Kamburupitiya, Kamburupitiya, Kamburupitiya, Kamburupitiya, Thihagoda, Matara and Devinuwara Divisional Secretariat areas can occur.
-
-In addition, there is a flood in Neluwa, Thawalama, Niyagama Divisions in the GN River, Neluwa, Thawalama, Niyagama, Elpitiya, Baddegama and Bope Poddala..
-
-...
-
-[Data](articles/7041d7ab.json)
-
-[Extended Data](ext_articles/7041d7ab.ext.json)
 
 ---

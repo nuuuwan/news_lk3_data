@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-02 16:50:52**
+As of **2024-06-02 17:03:53**
 
 ## Newspaper Stats
 
-*Scraped **27,878** Articles*
+*Scraped **27,881** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,70 @@ newsfirstlk | 363
 islandlk | 1,507
 economynextcom | 1,587
 dailyftlk | 1,635
-adalk | 2,377
+adalk | 2,378
 adaderanalk | 3,171
 tamilmirrorlk | 3,271
 virakesarilk | 4,286
 dailymirrorlk | 4,420
-adaderanasinhalalk | 4,465
+adaderanasinhalalk | 4,467
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,876 (100.0%) of 27,878 articles have been extended.
+27,878 (100.0%) of 27,881 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-02 (Sunday)
+
+### හෝටලයක ගංවතුරට කොටුවූ පිරිසක් මුදාගනී
+
+*2024-06-02 16:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197291) · `si`
+
+හොරණ වගවත්ත ප්‍රදේශයේ හෝටලයක් වෙත පැමිණ සිරවී සිටි පිරිසක් හොරණ පොලීසිය එක්ව මුදාගෙන තිබේ.
+
+මාවක් ඔය පිටාර ගැලීම හේතුවෙන් එම පිරිස මෙලෙස හෝටලය තුළ සිරවී ඇත.
+
+එහිදී පොලීසිය සහ ප්‍රාදේශීය සභාවේ නිලධාරීන් එක්ව කළ මෙහෙයුමකදී පුද්ගලයින් 85 දෙනෙකුට ආසන්න පිරිසක් මුදාගැනීමට සමත්ව තිබේ.
+
+◼️
+
+[Data](articles/a70fb7a7.json)
+
+---
+
+### කළු ගඟේ මීටර් 12.38ක් උස මහා ජල කඳක්
+
+*2024-06-02 16:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197290) · `si`
+
+කළු ගඟේ ජල මට්ටම ඇල්ලගාව ප්‍රදේශයෙන් මීටර් 12.38ක් දක්වා ඉහළගොස් මහා ගංවතුර තත්ත්වයක් දක්වා වර්ධනය වී ඇති බව වාරිමාර්ග දෙපාර්තමේන්තුව පවසයි.
+
+එම දෙපාර්තමේන්තුව පවසන අන්දමට තවදුරටත් එම ජල මට්ටම ඉහළ යමින් පවතී.
+
+කළු ගඟේ අතු ගංගාවක් වන කුඩා ගඟ මිල්ලකන්ද ප්‍රදේශයේ තවදුරටත් මහා ගංවතුර තත්ත්වය පවතී.
+
+එම දෙපාර්තමේන්තුව අද පස්වරු 3.30ට නිකුත් කර තිබූ ගංවතුර මට්ටම පිළිබඳ නිවේදනය පහතින්,
+
+◼️
+
+[Data](articles/eb048b98.json)
+
+---
+
+### ඇහැ‍ළියගොඩට වැහැපු වැස්ස
+
+*2024-06-02 16:29:31* · [`adalk`](https://www.ada.lk/breaking_news/ඇහැ‍ළියගොඩට-වැහැපු-වැස්ස/11-409965) · `si`
+
+ඊයේ (02දා) උදේ 7.00 අවසන් වූ පැය 24ක කාලය සැලකීමේදී වැඩිම වර්ෂාපතනය ඇහැළියගොඩින් වාර්තා වී තිබෙන අතර, එම ප්‍රදේශයට මිලිමීටර් 427.5ක වාර්ෂාපතනයක් ඇති වී තිබේ.
+
+එමෙන්ම ඉංගිරිය, හල්වතුර ප්‍රදේශයට මිලිමීටර් 348.5ක්, අකුරැස්ස ප්‍රදේශයට මිලිමීටර් 283.5ක්, සාලාව ප්‍රදේශයට මිලීමිටර් 280.5ක්, පාලින්ද නුවර ප්‍රදේශයට මිලිමීටර් 276ක් හා දෙරණගල ප්‍රදේශයට මිලිමීටර් 267ක වර්ෂාපතනයක් ඇති වී තිබෙන බවද කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+◼️
+
+[Data](articles/c1e5d4c9.json)
+
+---
 
 ### Kaduwela-Biyagama interchange closed on Southern Expressway
 
@@ -43,6 +91,8 @@ Motorists are advised to use alternate routes and stay updated through traffic a
 ◼️
 
 [Data](articles/a17e43b8.json)
+
+[Extended Data](ext_articles/a17e43b8.ext.json)
 
 ---
 
@@ -79,6 +129,8 @@ The collapse has forced Sri Lanka Railways to limit train operations on the line
 ◼️
 
 [Data](articles/c0c3a1b2.json)
+
+[Extended Data](ext_articles/c0c3a1b2.ext.json)
 
 ---
 
@@ -2107,83 +2159,5 @@ Speaking during a Business Forum, Hadunnetti said his reference to economic hit-
 [Data](articles/f5dbacd3.json)
 
 [Extended Data](ext_articles/f5dbacd3.ext.json)
-
----
-
-### Constitution mandates that any govt should accord priority to Buddhism – President
-
-*2024-06-01 22:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/99586/constitution-mandates-that-any-govt-should-accord-priority-to-buddhism-president) · `en`
-
-President Ranil Wickremesinghe underscored that according to the constitution, prioritizing Buddhism is imperative. He emphasized that the responsibility of upholding this principle is vested in the executive, legislature and judiciary.
-
-Emphasizing the indisputability of this matter, the President further stated that if anyone seeks to alter this principle, they should endeavour to amend the constitution accordingly.
-
-President Ranil Wickremesinghe made these remarks today (01) during his participation in the inauguration ceremony of the “Gurudev Suva Arana Gilan Bhikshu Centre,” constructed in Kiriwatthuduwa, Homagama.
-
-The President emphasized the need for acknowledgment that the executive, the constitution and the judiciary, as the three branches of government, should prioritize the Buddhist doctrine within the country. He emphasized that failure to support this principle constitutes a violation of the constitution, emphasizing the obligation of all Members of Parliament to protect it.
-
-...
-
-[Data](articles/7085855c.json)
-
-[Extended Data](ext_articles/7085855c.ext.json)
-
----
-
-### Cricket spring begins tomorrow
-
-*2024-06-01 22:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197262) · `si`
-
-Tomorrow marks the start of the Cricket Spring, with the World Cup beginning for the first time in the US. This year, 20 nations across four categories, including traditional powerhouses like Pakistan and India, will compete. The defending champions of Series B are England, Australia, Namibia, Scotland, and Oman. Other notable teams include New Zealand, West Indies, Afghanistan, Papua New Guinea, South Africa, Sri Lanka, Bangladesh, Nepal, and the Netherlands. The tournament kicks off with preliminary rounds featuring Canada, the West Indies, and Papua New Guinea, followed by matches involving Sri Lanka, starting in New York at 8 pm local time.
-
-🟩
-
-20 The World Cup cricket team begins tomorrow (02)
-
-This is the first time that the US is hosted for a cricket world cup.
-
-This year, 20 countries compete in 4 categories and includes Pakistan and India as Pakistan and India in category, including Pakistan, Ireland, and America.
-
-The current champions of the series B England, Australia, Namibia, Scotland and Oman.
-
-The category of c category New Zealand, West Indian West Indies, Afghanistan, Papua New Guinea and Uganda.
-
-South Africa, Sri Lanka, Bangladesh, Nepal, Nepal and Netherlands.
-
-The 20th World Cup will commence two preliminary rounds tomorrow, with Canada, and the West Indies, the West Indies, with Papua New Guinea tomorrow.
-
-Sri Lanka, who contested from Kalanai, is held in New Yorkheart, will commence in New Yorkheart and starts at 8 pm in Sri Lanka.
-
-June 8 against Bangladesh and the fourth match against Bangladesh will be held against Bangladesh, the second match of Sri Lanka.
-
-◼️
-
-[Data](articles/f2f11b7d.json)
-
-[Extended Data](ext_articles/f2f11b7d.ext.json)
-
----
-
-### Warning on the next 36 hours
-
-*2024-06-01 22:28:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அடுத்த-36-மணித்தியாலங்கள்-குறித்து-எச்சரிக்கை/175-338251) · `ta`
-
-Heavy rains predicted for the next 36 hours across the Western, Sabaragamuwa provinces, Galle, and Matara districts, with over 100mm expected in some areas. Thunderstorms may also affect other regions during evenings or nights. The Department of Meteorology advises the public to prepare for potential heavy winds and lightning, urging caution.
-
-🟩
-
-The Department of Meteorology has issued a warning of the new weather forecast this evening that heavy rains are expected for the next 36 hours.
-
-It has indicated that more than 100 millimeters of heavy rainfall is expected in some places in the Western, Sabaragamuwa provinces, Galle and Matara districts.
-
-Rainfall or thunderstorms can occur in the evening or night in the rest of the country.
-
-The Department of Meteorology has requested the general public to take necessary steps to reduce the risk of temporary heavy winds and lightning with thunderstorms.. Remble
-
-◼️
-
-[Data](articles/4adb0c4f.json)
-
-[Extended Data](ext_articles/4adb0c4f.ext.json)
 
 ---

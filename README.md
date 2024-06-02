@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-02 15:34:20**
+As of **2024-06-02 15:52:48**
 
 ## Newspaper Stats
 
-*Scraped **27,867** Articles*
+*Scraped **27,873** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,27 +16,113 @@ islandlk | 1,507
 economynextcom | 1,587
 dailyftlk | 1,635
 adalk | 2,377
-adaderanalk | 3,169
-tamilmirrorlk | 3,269
+adaderanalk | 3,170
+tamilmirrorlk | 3,271
 virakesarilk | 4,286
-dailymirrorlk | 4,416
-adaderanasinhalalk | 4,462
+dailymirrorlk | 4,418
+adaderanasinhalalk | 4,463
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,864 (100.0%) of 27,867 articles have been extended.
+27,867 (100.0%) of 27,873 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-02 (Sunday)
 
+### Trains on Kelani Valley line limited to Waga
+
+*2024-06-02 15:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/99598/trains-on-kelani-valley-line-limited-to-waga) · `en`
+
+The train services on the Kelani Valley line has been limited to Waga railway station as a bridge on the railway line between Waga and Kosgama has collapsed, Sri Lanka Railways announced.
+
+◼️
+
+[Data](articles/f50948ab.json)
+
+---
+
+### ஹோட்டலில் சிக்கிய 85 பேர் மீட்பு
+
+*2024-06-02 15:29:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹோட்டலில்-சிக்கிய-85-பேர்-மீட்பு/175-338294) · `ta`
+
+களுத்துறை- ஹொரண ஸ்வக்வத்த பிரதேசத்தில் உள்ள ஹோட்டலில் சிக்கிக்கொண்ட பல்வேறு வயதுடைய சுமார் 85 பேர் பத்திரமாக மீட்கப்பட்டுள்ளனர்.
+
+மாவக் ஓயா நிரம்பி வழிவதால், ஹோட்டலில் சிக்கி எதிர்பாராத பிரச்சினைக்கு அவர்கள் முகம் கொடுத்துள்ளனர்.
+
+◼️
+
+[Data](articles/62e6f262.json)
+
+---
+
+### ’SJB will have to decide whether it wants me or not’:Hirunika
+
+*2024-06-02 15:29:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SJB-will-have-to-decide-whether-it-wants-me-or-notHirunika/108-283906) · `en`
+
+Colombo, June 2 (Daily Mirror) Former MP Hirunika Premachandra said today that the Samagi Jana Balawegaya (SJB) will have to decide whether it wants her or not if it gets into a deal to grant a pardon to Duminda Silva.
+
+"I trust that SJB leader Sajith Premadasa will not agree to grant a Presidential pardon to Duminda Silva. However, others around him may convince him to get into a deal with the relevant people. The party will have to decide if it wants me or others in such an eventuality," Ms. Premachandra told the media.
+
+"I was able to reverse the pardon granted to Duminda Silva by former President Gotabaya Rajapaksa as he had granted it without following the procedure," she recalled.
+
+◼️
+
+[Data](articles/595c1dc5.json)
+
+---
+
+### கொழும்பு – கண்டி வீதியில் வாகன நெரிசல்
+
+*2024-06-02 15:28:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பு-கண்டி-வீதியில்-வாகன-நெரிசல்/175-338293) · `ta`
+
+கொழும்பு - கண்டி பிரதான வீதியின் வரக்காபொல நகருக்கு அருகில் மரம் முறிந்து வீழ்ந்ததையடுத்து அந்த வீதியின் போக்குவரத்து ஸ்தம்பிதமடைந்துள்ளது.
+
+விழுந்த மரம் இரு பாதைகளிலும் இடையூறு ஏற்படுத்தியதால், அப்பகுதியில் குறிப்பிடத்தக்க தாமதம் மற்றும் நெரிசல் ஏற்பட்டது.
+
+வீதியின் பாதிக்கப்பட்ட பகுதியைத் தவிர்ப்பதற்கு மாற்று வழிகளைப் பயன்படுத்துமாறு வாகன சாரதிகளுக்கு பொலிஸ் ஊடகப் பேச்சாளர் நிஹால் தல்துவ அறிவுறுத்தியுள்ளார்.
+
+“பணியாளர்கள் குப்பைகளை அகற்றி வழக்கமான போக்குவரத்தை மீட்டெடுக்கும் பணியில் ஈடுபட்டுள்ளனர்,” என்று அவர் மேலும் கூறினார்.
+
+◼️
+
+[Data](articles/4a07a9fd.json)
+
+---
+
+### කැලණිවැලි දුම්රිය මාර්ගයේ පාලමක් කඩා වැටෙයි
+
+*2024-06-02 15:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197287) · `si`
+
+වග සහ කොස්ගම දුම්රිය ස්ථාන අතර පාලමක් කඩාවැටීම හේතුවෙන් කැලණිවැලි මාර්ගයේ දුම්රිය ගමනාගමනය වග දුම්රිය ස්ථානය තෙක් සීමා කර ඇත.
+
+◼️
+
+[Data](articles/4647efcc.json)
+
+---
+
+### Patients at Neluwa Hospital to be airlifted due to floods
+
+*2024-06-02 15:27:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Patients-at-Neluwa-Hospital-to-be-airlifted-due-to-floods/108-283905) · `en`
+
+Galle, June 2 (Daily Mirror)- Steps have been taken to airlift all pregnant mothers and patients who need emergency care at Neluwa Hospital, Galle to the Udugama Hospital, as all entry roads to the Neluwa Hospital have gone under water, Galle District Community Specialist Dr. Amila Chandrasiri said.
+
+Acting District Secretary of Galle said relief teams from the Sri Lanka Navy and Army have been deployed with boats and safety gear in the Thawalama, Neluwa, Udugama and Hiniduma areas to rescue the affected people.
+
+◼️
+
+[Data](articles/6d045af2.json)
+
+---
+
 ### Traffic disruption on Colombo-Kandy main road
 
 *2024-06-02 15:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Traffic-disruption-on-Colombo-Kandy-main-road/108-283904) · `en`
 
-Traffic on the Colombo-Kandy main road came to a standstill this morning after a tree collapsed near the Warakapola town.
+Traffic on the Colombo-Kandy main road came to a standstill after a tree collapsed near the Warakapola town.
 
 The fallen tree obstructed both lanes, causing significant delays and congestion in the area.
 
@@ -54,17 +140,23 @@ No injuries have been reported, and the cause of the tree fall is under investig
 
 ---
 
-### වරකාපොළට දැඩි වර්ෂාවක් ගසක් කඩා වැටී කොළඹ - නුවර මාර්ගයේ වාහන ගමනාගමන ඇණහිටියි
+### Heavy rain falls to Warakapola declines and traffic on Colombo-Kandy road
 
 *2024-06-02 14:56:13* · [`adalk`](https://www.ada.lk/picture_story/වරකාපොළට-දැඩි-වර්ෂාවක්-ගසක්-කඩා-වැටී-කොළඹ---නුවර-මාර්ගයේ-වාහන-ගමනාගමන-ඇණහිටියි/10-409964) · `si`
 
-අද පෙරවරුවේ පටන් ඇඳ හැලෙන අධික වර්ෂාව හේතුවෙන් වරකාපොළ නගරයෙන් කොළඹ - නුවර ප්‍රධාන මාර්ගය ජලයෙන් යටවී තිබේ. එසේම වරකාපොළ නගරයට ආසන්නව හැලගලදී කොළඹ  -  නුවර මාර්ගයට විශාල ගසක් කඩා වැටිම හේතුවෙන් වාහන ගමනාගමනය ඇණහිට තිබේ.
+Heavy rain caused flooding and a tree fall on the Colombo-Kandy road near Warakapola, disrupting traffic. Authorities are clearing the debris; drivers are advised to take alternate routes via Mirigama Junction.
 
-ගස ඉවත් කිරීමේ කටයුුතු ආරම්භ කර තිබේ. විකල්ප මාර්ග භාවිත කරන ලෙසට රියදුරන්ට දන්වා සිටින අතර වරකාපොල නගරයේ මිරිගම හංදියෙන් මිරිගම නගරයට පිවිස එතැනින් පස්යාල හංදියට පැමිණ කොළඹ නුවර මාර්ගයට පිවිසීමට හැකිවෙයි.
+🟩
+
+The Colombo-Kandy main road from Warakapola has been flooded by Warakapola due to heavy rains this morning. Vehicle traffic has been stalled due to the collapse of a large tree to the Colombo-Kandy road near Warakapola.
+
+The tree has begun to remove the tree. Drivers are informed to use alternative routes and reach the Mirigama Junction in Warakapola, Warakama.
 
 ◼️
 
 [Data](articles/5d8e6154.json)
+
+[Extended Data](ext_articles/5d8e6154.ext.json)
 
 ---
 
@@ -126,15 +218,21 @@ The DMC also stated that an operation has been launched in search of the two mis
 
 ---
 
-### කාලගුණය කැළඹෙයි - ගම් නගර ජලයෙන් යටවෙයි
+### Weather is converted in trouble
 
 *2024-06-02 14:29:54* · [`adalk`](https://www.ada.lk/breaking_news/කාලගුණය-කැළඹෙයි---ගම්-නගර-ජලයෙන්-යටවෙයි/11-409963) · `si`
 
-ඊයේ රාත්‍රී සිට දිවයිනේ බොහෝ ප දේශයන්ට ඇඳ හැළෙන අධික වැසි සහිත කාලගුණ තත්ත්වය හේතුවෙන් ජනතාව දැඩි ලෙස පීඩාවට පත්ව තිබේ.
+Heavy rains caused severe damage to properties on the island last night, affecting many residents.
+
+🟩
+
+The masses have been severely affected by the heavy rains that cause in the island's land in the island last night.
 
 ◼️
 
 [Data](articles/95c30fda.json)
+
+[Extended Data](ext_articles/95c30fda.ext.json)
 
 ---
 
@@ -817,6 +915,8 @@ As per the instructions of the Army Commander, Security Forces Commanders have b
 ### Live updates : Adverse weather
 
 *2024-06-02 11:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Live-updates-Adverse-weather/155-283899) · `en`
+
+2.58 PM - Traffic on the Colombo-Kandy main road came to a standstill following a tree collapse near Warakapola town.
 
 2.15 PM - The Ministry of Power & Energy has announced the disconnection of power supply to several areas in Galle, Kalutara, Ratnapura, Colombo, and Kegalle districts.
 
@@ -2079,135 +2179,5 @@ The institutions said it is happening through an enhanced framework to help coun
 [Data](articles/9eb09490.json)
 
 [Extended Data](ext_articles/9eb09490.ext.json)
-
----
-
-### Nalanda prepared from cricket and Advanced A / L
-
-*2024-06-01 21:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197259) · `si`
-
-Sagathi Vithana, leading Colombo Nalanda's cricket team, excels both in sports and academics, achieving three passes in biology for his Advanced Level Examination. His contributions to the Nalanda Cricket team were significant during the recent Ananda-Nalanda match.
-
-🟩
-
-Colombo Nalanda Cricket team leader Sagathi Vithana's sport as well as the sports student.
-
-He was proved to be a good manner to sport and education as per the Advanced Level Examination issued at the afternoon.
-
-He was able to get three passes in the stream of biology.
-
-Meanwhile, Ananda - Nalanda Zlorica was held at the Nalanda Cricket team at the time of the recent past.
-
-◼️
-
-[Data](articles/c6152742.json)
-
-[Extended Data](ext_articles/c6152742.ext.json)
-
----
-
-### Old Bottles, Spent Wine
-
-*2024-06-01 21:21:00* · [`islandlk`](http://island.lk/old-bottles-spent-wine/) · `en`
-
-With elections coming up in a few months’ time – notwithstanding Palitha Range Bandara’s outrageous remarks, to which Saliya Pieris, the former President of the Bar Association, responded thoughtfully – new coalitions and alliances are cropping up. These have pulled together the unlikeliest MPs and ideologues, who you’d never put together in the same room but who have, in the aftermath of the 2022 crisis, have unified around certain issues. Outside of the government, the consensus seems to be that we have yet to see a proper Opposition. This is the selling promise of these new coalitions: they tout themselves as that proper Opposition, the only political groups that matter.
-
-...
-
-[Data](articles/16cf1021.json)
-
-[Extended Data](ext_articles/16cf1021.ext.json)
-
----
-
-### Showing road to children who have failed children
-
-*2024-06-01 21:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197258) · `si`
-
-Amaratunga, Chairman of the University Grants Commission, reassures students who failed their A/L exams that they are not losers. He encourages them to retake the exams or pursue vocational training, emphasizing that failure does not define one's potential or worth.
-
-🟩
-
-The Chairman of the University Grants Amaratunga says he is not a loser, but he is not a loser, but he is not a loser.
-
-The Chairman of the University Grants Commission was speaking at the media this morning.
-
-"The A / L examination results of yesterday failed to pass, but he is not a loser. If children want to study the A / L again. In addition, there are professional institutions that can work with skills and skills to the same son.
-
-The child fails all three work.. You can make a Diploma in Inspiration to fail all three. You can take a redash based on the results of that Diploma. Such experience in the country today is plenty of people. Though the past, it is no matter how fare past. "
-
-◼️
-
-[Data](articles/ca7bc020.json)
-
-[Extended Data](ext_articles/ca7bc020.ext.json)
-
----
-
-### India’s Modi could win third term, polls predict
-
-*2024-06-01 20:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Indias-Modi-could-win-third-term-polls-predict/107-283891) · `en`
-
-India, June 1 (BBC) - India's Prime Minister Narendra Modi is likely to win a third consecutive term in office, exit polls suggest.
-
-Analysts warn the polls, released by various news agencies, have often been wrong in the past and are not impartial.
-
-However, they have placed Mr Modi's Bharatiya Janata Party (BJP) as the frontrunner in the general election.
-
-The BJP, the main opposition Congress party and regional rivals battled it out in a fierce campaign over seven phases of polling.
-
-A party or coalition needs 272 seats in parliament to form a government.
-
-The BJP led-coalition, the National Democratic Alliance (NDA), will cross this target - according to exit polls.
-
-If Mr Modi wins, he will be only the second prime minister in India to hold office for three consecutive terms. The first to do so was Jawaharlal Nehru, India's first PM.
-
-...
-
-[Data](articles/cfe98362.json)
-
-[Extended Data](ext_articles/cfe98362.ext.json)
-
----
-
-### 2024 Lok Sabha election;BJP to rule again ???
-
-*2024-06-01 20:45:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/2024-லோக்சபா-தேர்தல்-மீண்டும்-ஆட்சி-அமைக்கும்-பாஜக/175-338250) · `ta`
-
-The 2024 Lok Sabha elections are underway in seven phases nationwide, showing a decline in voter turnout compared to 2019. Despite this, predictions suggest the BJP may retain power.
-
-🟩
-
-Most of the Lok Sabha elections have reported that the BJP will rule again in the 2024 Lok Sabha elections.
-
-The Lok Sabha elections are going on in 7 stages across the country. 66.1, 66.7 and 61 per cent votes were cast in the first three -stage election held on April 19, April 26 and May 7, respectively.. Voting has declined over the 2019 election so far. The 4th phase of the election was held in 9 states, 1 union territory. Elections were held in 25 seats in Andhra Pradesh. Of this, 67.25 percent of the votes were cast.
-
-The 5th phase of the election was held in 6 states. Of this, 60.48% of the votes were cast. A total of 889 candidates contested in the sixth phase of the sixth phase of the election. The last phase of the election was held today.
-
-It is at this juncture that the BJP will rule the BJP in the 2024 Lok Sabha elections. Remble
-
-◼️
-
-[Data](articles/f41a275b.json)
-
-[Extended Data](ext_articles/f41a275b.ext.json)
-
----
-
-### Sri Lankan author Ramya Jirasinghe bags Gratiaen Prize
-
-*2024-06-01 20:29:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankan-author-Ramya-Jirasinghe-bags-Gratiaen-Prize/108-283890) · `en`
-
-June 1 , (Daily Mirror) - Renowned Sri Lankan author Ramya Jirasinghe's 'Father Cabraal's recipe for love cake' bagged the coveted Gratiean Prize at the 31st Gratiaen Awards ceremony held at The Stables at the Mews.
-
-Addressing the gathering after receiving her award Jirasinghe said that she never expected to win the award. "This year had one of the strongest shortlists of authors for the Gratiaen Prize. There were two previous winners and accomplished writers amongst the shortlist of authors. I thank the judges for the recognition they have given me."
-
-The Gratiaen event was held in association with the John Keells Foundation and supported by British Council Sri Lanka.
-
-◼️
-
-[Data](articles/f67deefb.json)
-
-[Extended Data](ext_articles/f67deefb.ext.json)
 
 ---

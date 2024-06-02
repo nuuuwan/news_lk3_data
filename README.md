@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-03 03:51:46**
+As of **2024-06-03 04:04:00**
 
 ## Newspaper Stats
 
-*Scraped **27,979** Articles*
+*Scraped **27,981** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 253
+colombotelegraphcom | 255
 dbsjeyarajcom | 269
 bbccomsinhala | 275
 newsfirstlk | 363
@@ -26,27 +26,33 @@ adaderanasinhalalk | 4,482
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,977 (100.0%) of 27,979 articles have been extended.
+27,979 (100.0%) of 27,981 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-03 (Monday)
 
-### யாழ் அச்சுவேலியில் வீடு ஒன்றின் மீது பொற்றோல் குண்டு தாக்குதல் வீடு பலத்த சேதம்
+### Potal bomb attack on a house in Jaffna Achuveli
 
 *2024-06-03 03:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/185162) · `ta`
 
-யாழ் அச்சுவேலி பிரதேசத்தில் வீடு ஒன்றின் மீது இனம் தெரியாத குழு ஒன்று பெற்றோல் குண்டு தாக்குதலில் வீடு பலத்த சேதமடைந்த சம்பவம் ஞாயிற்றுக்கிழமை (02) இரவு 8 மணிக்கு இடம்பெற்றுள்ளதாக அச்சுவேலி பொலிசார் தெரிவித்தனர்.
+An unidentified group attacked a house in Jaffna's Achchuveli area, targeting the residence of Balasingham Sadanandan, who runs a farm. The incident occurred around 8 pm on Sunday, causing significant damage to the kitchen but leaving no casualties. The motive behind the attack is linked to a dispute involving Sadanandan's sister and her relative.
 
-அச்சுவேலி மேற்கு கருமந்திரதுறை வீதியிலுள்ள பாலசிங்கம் சதானந்தன் என்பவரது வீட்டின் மீதே இந்த தாக்குதல் இடம்பெற்றுள்ளது. இவர் பண்ணை ஒன்றை நடாத்திவருவதாகவும் இவரின் சகோதரிக்கும் இவருக்கும் இடையே சொத்து சம்மந்தமான பிரச்சனை இடம்பெற்று வந்துள்ளது.
+🟩
 
-இந்த நிலையில் சம்பவதினமான ஞாயிற்றுக்கிழமை (02) சதானந்தன் சகோதரியின் உறவினர் ஒருவரை தாக்கியதில் அவரின் கை முறிந்துள்ளது  இவ்வாறான நிலையில் இரவு 8 மணிக்கு 6 மோட்டார் சைக்கிளிலும்,  ஒரு முச்சக்கர வண்டியிலும் சென்ற குழு ஒன்று குறித்த வீட்டின் மீது இரண்டு பெற்றோல் குண்டுகளை வீசி எறிந்துவிட்டு  தப்பி ஓடியுள்ளனர்.
+Achuveli police said that an unidentified group on a house in Achchuveli area in Jaffna had taken place at 8 pm on Sunday (02) at 8 pm.
 
-இதில்  ஒரு குண்டு மட்டும் வெடித்து தீப்பற்றியதையடுத்து வீட்டின் சமையலறை பகுதி பலத்த சேதமடைந்துள்ளதுடன் வீட்டில் இருந்த எவருக்கும் எதுவிதமான சேதமும் ஏற்படவில்லை என பொலிசாரின் ஆரம்பகட்ட விசாரணையில் தெரியவந்துள்ளது என பொலிசார் தெரிவித்தனர்.
+The attack took place on the residence of Balasingham Sadanandan on the Achchuveli West Karumanthurai road.. He is running a farm and his sister and her sister have a dispute.
+
+On Sunday (02), Sadanandan's sister was attacked by a relative of a sister.
+
+Initial investigations by the police revealed that only one bomb exploded and the kitchen area of ​​the house was severely damaged and no one in the house was damaged.
 
 ◼️
 
 [Data](articles/d4c8b7a0.json)
+
+[Extended Data](ext_articles/d4c8b7a0.ext.json)
 
 ---
 
@@ -78,19 +84,29 @@ He stressed that every 6 seconds of a vehicle enters the hospital gate and that 
 
 ---
 
-### மட்டக்களப்பு மட்டிக்கழி அம்மன் பீடம் உள்ள காணியை அபகரித்து மீன்வாடி அமைப்பது இந்து மதத்தை இழிவுபடுத்தும் திட்டமிட்ட செயல் பொது அமைப்புக்கள் கண்டனம்
+### Public organizations condemning the plan to discredit Hinduism to take the land at the Amman Faculty of Batticaloa
 
 *2024-06-03 03:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/185161) · `ta`
 
-மட்டக்களப்பு மட்டிக்கழி கடற்கரைப்பகுதியில் ஆலைய தீ மிதிப்பின் போது மஞ்சல் குளிப்பதற்காக அமைக்கப்பட்ட  அம்மன் பீடத்தைச்  சுற்றியுள்ள காணியை மீன் வியாபாரி ஒருவர் சட்டவிரோதமாக அபகரித்து வாடி அமைத்து இந்து மதத்தை இழிவுபடுத்தும் செயலில் ஈடுபட்டுவருகின்றார் அதற்கு அதிகாரிகளும் உடந்தையாகச் செயற்படுவதை வன்மையாகக் கண்டிப்பதுடன் அதனை அகற்றாவிடில்  மாநகர சபையை இந்து மக்கள் முற்றுகையிட்டு போராடப் போவதாக அந்த பிரதேச பொது அமைப்புக்கள் எச்சரிக்கை விடுத்துள்ளனர்.
+Public bodies criticize plans to lease land near the Amman shrine in Batticaloa for commercial fishing, accusing it of discrediting Hinduism. A local fish dealer is allegedly misusing the land for personal gain, sparking outrage. The Public Administration Council and other public organizations have voiced their concerns, highlighting the importance of preserving the sacred site. Despite efforts to address the issue, including formal complaints and letters to authorities, solutions remain elusive. The community threatens to protest and halt operations if the unauthorized fishing continues, emphasizing the need for respect and protection of religious sites.
 
-மட்டிக்கழி அறநெறிபொடசாலை கட்டிடத்தில் ஆலைய பரிபாலன சபை மற்றம் பொது அமைப்புக்கள் ஒன்றிணைந்து ஞாயிற்றுக்கிழமை (02) இடம்பெற்ற ஊடக மாநாடில் இவ்வாறு எச்சரிக்கை விடுத்தனர்.
+🟩
 
-மட்டிக்கழி ஸ்ரீ திரௌபதாதேவி ஆலய தீ மிதிப்பின் போது மஞ்சல் குளிப்பதற்காக பார்வீதியிலுள்ள கடற்கரை பகுதியில் சட்ட ரீதியாக அம்மன் பீடம் அமைக்கப்பட்டு காலம் காலமாக அந்த பகுதியில் மீனவர்கள் கூட மீன்படி படகுகளை நிறுத்தாது மாசடைய செய்யாது மீனவர்களும் ஆலைய பரிபாலனசபையினர் புனித பகுதியாக பராமரித்து வருகின்றனார்.
+A fish dealer is engaged in illegally abusing the land around the Amman pedestal for bathing during the fire at the beach in Batticaloa.
+
+The Public Administration Council and the Public Organizations at the Matikkali Charity School building were combined at a press conference held on Sunday (02).
+
+The fishermen are not polluting the boats for a long time, and the fishermen have been maintaining the sacred part of the plant.
+
+In this case, the land of the Municipal Council Commissioner of the Municipal Council of the Municipal Council has been approved by a fisheries dealer to lease a Rs.
+
+In this regard, the Mathrubhumi Association of Mathrubhumi Association, Fishermen's Associations, Sports Clubs, the Arangana Chancellor, Divisional Secretary and Municipal Commissioner, have been directly in letter to the Arangana Chancellor, Divisional Secretary and Municipal Commissioner.
 
 ...
 
 [Data](articles/dd0b40c9.json)
+
+[Extended Data](ext_articles/dd0b40c9.ext.json)
 
 ---
 
@@ -575,6 +591,28 @@ The President also announced that the President had instructed the relevant offi
 [Data](articles/b1708455.json)
 
 [Extended Data](ext_articles/b1708455.ext.json)
+
+---
+
+### Scrutinizing The Newly Proposed NEPF: Education Reform Or Hidden Agenda?
+
+*2024-06-02 22:19:05* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/scrutinizing-the-newly-proposed-nepf-education-reform-or-hidden-agenda/) · `en`
+
+The new National Education Policy Framework (NEPF) was prepared by a cabinet committee chaired by the President and assisted by a cabinet-appointed committee of experts. Having been submitted to the Parliamentary Sectoral Oversight Committee (SOC) on Education, it is already in the implementation phase following the SOC’s recommendations. Unfortunately, public debate and dialogue generated regarding such an important and impactful set of policy proposals has been entirely inadequate. Therefore, this article is thus written with the intention to stimulate such a discussion.
+
+...
+
+[Data](articles/a2859139.json)
+
+---
+
+### Are We There Yet?: The Quest For The Cure For Diabetes
+
+*2024-06-02 22:08:46* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/are-we-there-yet-the-quest-for-the-cure-for-diabetes/) · `en`
+
+...
+
+[Data](articles/73899aad.json)
 
 ---
 
@@ -2097,47 +2135,5 @@ Colombo, June 2 (Daily Mirror) Former MP Hirunika Premachandra said today that t
 [Data](articles/595c1dc5.json)
 
 [Extended Data](ext_articles/595c1dc5.ext.json)
-
----
-
-### Traffic on Colombo - Kandy Road
-
-*2024-06-02 15:28:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பு-கண்டி-வீதியில்-வாகன-நெரிசல்/175-338293) · `ta`
-
-A tree collapse near Varakapola on the Colombo-Kandy road caused traffic delays and congestion. Motorists are advised to take alternative routes while cleanup efforts aim to restore normal traffic flow.
-
-🟩
-
-The traffic of the road has been disrupted as a tree collapsed near the Varakapola town of Colombo -Kandy main road.
-
-The fallen tree caused a significant delay and congestion in the area as it caused disruption on both paths.
-
-Police Media Spokesperson Nihal Talduwa has advised motorists to use alternatives to avoid the affected area of ​​the road.
-
-“Employees are working to remove garbage and restore regular traffic,” he added.
-
-◼️
-
-[Data](articles/4a07a9fd.json)
-
-[Extended Data](ext_articles/4a07a9fd.ext.json)
-
----
-
-### Bridge collapses on Kelaniyawali railway line
-
-*2024-06-02 15:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197287) · `si`
-
-A bridge collapse on the Kelaniyawali railway line has halted all traffic beyond Kosgama stations, restricting trains to the station area only.
-
-🟩
-
-The railway traffic is restricted to the train station due to the collapse of a bridge between Kosgama railway stations.
-
-◼️
-
-[Data](articles/4647efcc.json)
-
-[Extended Data](ext_articles/4647efcc.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-02 16:04:57**
+As of **2024-06-02 16:19:55**
 
 ## Newspaper Stats
 
-*Scraped **27,873** Articles*
+*Scraped **27,875** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,51 @@ islandlk | 1,507
 economynextcom | 1,587
 dailyftlk | 1,635
 adalk | 2,377
-adaderanalk | 3,170
+adaderanalk | 3,171
 tamilmirrorlk | 3,271
 virakesarilk | 4,286
 dailymirrorlk | 4,418
-adaderanasinhalalk | 4,463
+adaderanasinhalalk | 4,464
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,873 (100.0%) of 27,873 articles have been extended.
+27,873 (100.0%) of 27,875 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-02 (Sunday)
+
+### අත්තනගලු ඔය ආශ්‍රිත පහත්බිම්වල ජනතාවට විශේෂ නිවේදනයක්
+
+*2024-06-02 16:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197288) · `si`
+
+අත්තනගලු ඔය ආශ්‍රිත පහත්බිම් සඳහා ඇම්බර් වර්ණයෙන් යුතු අනතුරු ඇඟවීමේ නිවේදනයක් නිකුත් කර තිබේ.
+
+එහි දැක්වෙන්නේ ඉදිරි පැය 48ක කාලය තුළ දිවුලපිටිය, මීරිගම, අත්තනගල්ල, මහර, ගම්පහ, මිනුවන්ගොඩ, ජාඇල, කටාන සහ වත්තල ප්‍රදේශවලට ගංවතුර තත්ත්වයක් ඇතිවීමේ අවදානමක් පවතින බවය.
+
+ඒ අනුව එම පහත්බිම් හරහා වැටී ඇති ඇතැම් මාර්ග ජලයෙන් යටවීමේ අවදානමක් පැවතීම හේතුවෙන් එම ප්‍රදේශ ආශ්‍රිත මාර්ගවල ගමන්ගන්නා පුද්ගලයින් මේ සම්බන්ධයෙන් අවධානයෙන් ගමන්කළ යුතු වෙයි.
+
+◼️
+
+[Data](articles/03f542cc.json)
+
+---
+
+### Fallen tree disrupts traffic on Colombo-Kandy main road
+
+*2024-06-02 15:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/99599/fallen-tree-disrupts-traffic-on-colombo-kandy-main-road) · `en`
+
+The vehicular movement on Colombo-Kandy main road has been disrupted due to a tree fallen across the road near the Warakapola town, the police said.
+
+Police spokesman DIG Nihal Thalduwa said that therefore, the motorists are urged to use alternate routes.
+
+◼️
+
+[Data](articles/027cc355.json)
+
+---
 
 ### Trains on Kelani Valley line limited to Waga
 
@@ -2167,41 +2197,5 @@ The Customs Dark Control Unit had been found in the bag of the suspect's bag.
 [Data](articles/b2b3d0bb.json)
 
 [Extended Data](ext_articles/b2b3d0bb.ext.json)
-
----
-
-### Quo Vadis?
-
-*2024-06-01 21:47:00* · [`islandlk`](http://island.lk/quo-vadis/) · `en`
-
-This has been the most rainy and squally Vesak that I can recall in my eight decades on this planet and it has made me grumpy. The depression in the Bay of Bengal has prepared all of for the couch of some psycho-quack conning folks with fictious talk of depressions.
-
-This essay is in two separate parts unconnected with each other; a) Feeding the 225 and b) people taking the initiative into their hands and not relying on the state.
-
-Jesus fed 5,000 with two fishes and five loaves (Mathew 14:13-21) and you may reckon that to be a great achievement but he did it only once. Our people in Sri Lanka have to keep feeding the 225 day-in-day-out every day of their lives. And where does it all go? Into political pockets! Import permits for luxury cars, insurance cover for wives, mistresses and sons and of course plain rip-off.
-
-...
-
-[Data](articles/e1b6a692.json)
-
-[Extended Data](ext_articles/e1b6a692.ext.json)
-
----
-
-### World Bank, IMF deepen effort to scale up climate action
-
-*2024-06-01 21:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/99584/world-bank-imf-deepen-effort-to-scale-up-climate-action) · `en`
-
-The International Monetary Fund (IMF) and the World Bank Group said Friday they deepened joint efforts to bolster climate action.
-
-The institutions said it is happening through an enhanced framework to help countries scale up action to confront the threat of climate change.
-
-“The collaboration will provide critical support for countries’ climate strategies—through an integrated, country-led approach to policy reforms and climate investments,” they said in a statement. “Within their respective mandates, the World Bank Group and the IMF will leverage their analytics, technical assistance, financing, and policy expertise to enhance country-driven reform programs.”
-
-...
-
-[Data](articles/9eb09490.json)
-
-[Extended Data](ext_articles/9eb09490.ext.json)
 
 ---

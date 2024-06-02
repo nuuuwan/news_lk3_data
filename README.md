@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-02 15:03:51**
+As of **2024-06-02 15:18:45**
 
 ## Newspaper Stats
 
-*Scraped **27,863** Articles*
+*Scraped **27,864** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,46 +19,78 @@ adalk | 2,374
 adaderanalk | 3,169
 tamilmirrorlk | 3,269
 virakesarilk | 4,286
-dailymirrorlk | 4,415
+dailymirrorlk | 4,416
 adaderanasinhalalk | 4,462
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,856 (100.0%) of 27,863 articles have been extended.
+27,863 (100.0%) of 27,864 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-02 (Sunday)
 
-### ගසක් කඩාවැටීමෙන් කොළඹ-නුවර මාර්ගය වැසෙයි
+### Traffic disruption on Colombo-Kandy main road
+
+*2024-06-02 15:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Traffic-disruption-on-Colombo-Kandy-main-road/108-283904) · `en`
+
+Traffic on the Colombo-Kandy main road came to a standstill this morning after a tree collapsed near the Warakapola town.
+
+The fallen tree obstructed both lanes, causing significant delays and congestion in the area.
+
+Police spokesman Nihal Thalduwa advised motorists to use alternate routes to avoid the affected section of the road.
+
+“The authorities are working to clear the debris and restore normal traffic flow," he added
+
+No injuries have been reported, and the cause of the tree fall is under investigation.
+
+◼️
+
+[Data](articles/ef5633c1.json)
+
+---
+
+### Colombo-Kandy road closed by a tree collapse
 
 *2024-06-02 14:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197286) · `si`
 
-කොළඹ නුවර ප්‍රධාන මාර්ගය වරකාපොල ප්‍රදේශයෙන් මුළුමනින්ම අවහිර වී තිබේ.
+Colombo-Kandy road closure due to tree collapse; authorities advise using alternative routes.
 
-ප්‍රධාන මාර්ගයට ගසක් කඩාවැටීම හේතුවෙන් මෙලෙස එම මාර්ගය අවහිර වී ඇත.
+🟩
 
-පොලීසිය කොළඹ නුවර මාර්ගය භාවිත කරන රියදුරන්ගෙන් ඉල්ලා සිටින්නේ මේ හේතුවෙන් විකල්ප මාර්ග භාවිත කරන ලෙසටය.
+Colombo Kandy main road is completely bloom from Warakapola.
+
+The road has been blocked due to a tree collapse.
+
+The police urge the Colombo Kandy road to use alternative routes.
 
 ◼️
 
 [Data](articles/e18ba4a2.json)
 
+[Extended Data](ext_articles/e18ba4a2.ext.json)
+
 ---
 
-### மின்சாரம் துண்டிப்பு
+### Electrical disconnection
 
 *2024-06-02 14:37:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்சாரம்-துண்டிப்பு/175-338290) · `ta`
 
-மழையுடனான சீரற்ற வானிலை காரணமாக ஏற்பட்டுள்ள கடும் வெள்ளம் மற்றும் மண்சரிவை அடுத்து, நாட்டின் பல பகுதிகளில் மின்சாரம் தடைப்படுத்தப்பட்டுள்ளதாக மின்சக்தி மற்றும் எரிசக்தி அமைச்சு தெரிவிக்கின்றது.
+Heavy floods and landslides have caused widespread electrical disconnections across the country, affecting power supply in numerous regions due to safety concerns highlighted by the Ministry of Power and Energy.
 
-பாதுகாப்பு காரணங்களை முன்னிலைப்படுத்தி மின்சாரம் தடைப்படுத்தப்பட்டுள்ளதாக அமைச்சு கூறியுள்ளது. அத்துடன், பல பகுதிகளில் மின்சாரம் தடைப்பட்டுள்ளது
+🟩
+
+The Ministry of Power and Energy said that many parts of the country have been blocked due to heavy floods and landslides caused by rains.
+
+The Ministry has said that electricity has been blocked by highlighting security causes. As well as power supply in many areas
 
 ◼️
 
 [Data](articles/9e2da008.json)
+
+[Extended Data](ext_articles/9e2da008.ext.json)
 
 ---
 
@@ -74,19 +106,27 @@ The DMC also stated that an operation has been launched in search of the two mis
 
 [Data](articles/0fe7c29f.json)
 
+[Extended Data](ext_articles/0fe7c29f.ext.json)
+
 ---
 
-### හෙට සියලු පාසල් නිවාඩු
+### All school holidays tomorrow
 
 *2024-06-02 14:26:24* · [`adalk`](https://www.ada.lk/breaking_news/හෙට-සියලු-පාසල්-නිවාඩු/11-409962) · `si`
 
-පවතින අයහපත් කාළගුණ තත්ත්වය හේතුවෙන් දිවයිනේ සියලු පාසල් හෙට (3) දින නොපැවත්වෙන බව අධ්‍යාපන අමාත්‍යාංශය පැවසීය.
+Due to poor weather, all schools nationwide are closed tomorrow. The Ministry of Education will update on school activities based on climate observations.
 
-ඉදිරියේදී පාසල් පැවැත්වීම පිළිබඳව කාළගුණික නිරීක්ෂණ අනුව දැනුම් දෙන බවද අධ්‍යාපන අමාත්‍යාංශය නිවේදනය කරයි.
+🟩
+
+The Ministry of Education stated that all schools in the country will not be held tomorrow (3) due to the prevailing bad weather conditions.
+
+The Ministry of Education announced that the climatic observations of the conduct of school will be informed on the conduct of schools.
 
 ◼️
 
 [Data](articles/17556c55.json)
+
+[Extended Data](ext_articles/17556c55.ext.json)
 
 ---
 
@@ -171,6 +211,8 @@ Residents in the affected districts are advised to remain calm and follow any fu
 ◼️
 
 [Data](articles/0c690994.json)
+
+[Extended Data](ext_articles/0c690994.ext.json)
 
 ---
 
@@ -762,6 +804,8 @@ As per the instructions of the Army Commander, Security Forces Commanders have b
 
 [Data](articles/e17945ba.json)
 
+[Extended Data](ext_articles/e17945ba.ext.json)
+
 ---
 
 ### The aircraft sent to Katunayake sends to Mattala
@@ -904,15 +948,21 @@ Police have investigated the incident and arrested the suspect and detained the 
 
 ---
 
-### අධ්‍යාපන අමාත්‍යාංශයෙන් විශේෂ නිවේදනයක්
+### Special announcement from the Ministry of Education
 
 *2024-06-02 11:10:35* · [`adalk`](https://www.ada.lk/breaking_news/අධ්‍යාපන-අමාත්‍යාංශයෙන්-විශේෂ-නිවේදනයක්/11-409958) · `si`
 
-ජාතික පාසල්වල අතරමැදි ශ්‍රේණි සඳහා 2024 වර්ෂයට අදාල අයදුම්පත් ජූනි 3වැනි දා සිට භාර ගනු නොලබන බව අධ්‍යාපන අමාත්‍යාංශය නිවේදනය කරයි. ඒ අනුව අධ්‍යාපන අමාත්‍යංශයට හෝ පාසල්වලට අයදුම්පත් යොමු කිරීමෙන් වලකින ලෙස අධ්‍යාපන අමාත්‍යාංශය වැඩිදුරටත් පවසයි.
+The Ministry of Education has stopped accepting applications for the 2024 intermediary series starting June 3. No further announcements were made regarding alternative application methods.
+
+🟩
+
+The Ministry of Education announced that the applications for the year 2024 would not be taken up from June 3 for the intermediary series of national schools. Accordingly, the Ministry of Education further states that the Ministry of Education or schools will be introduced.
 
 ◼️
 
 [Data](articles/ef560afa.json)
+
+[Extended Data](ext_articles/ef560afa.ext.json)
 
 ---
 
@@ -2183,29 +2233,5 @@ Meanwhile, he was arrested last night accordingly the suspect is hiding in Colom
 [Data](articles/1022e54b.json)
 
 [Extended Data](ext_articles/1022e54b.ext.json)
-
----
-
-### Minister Jivan Thondaman delegates in front of the Nuwara Eliya Police
-
-*2024-06-01 19:55:35* · [`adalk`](https://www.ada.lk/breaking_news/ඇමති-ජිවන්-තොණ්ඩමන්-නුවරඑලිය-පොලිසිය-ඉදිරිපිට-යකා-නටයි/11-409953) · `si`
-
-Minister Jivan Thondaman and the General Secretary of the Ceylon Workers Congress were summoned to the Nuwara Eliya police regarding a dispute involving party supporters and tea factory employees. After discussions, it was decided to withdraw the complaint against them, leading to a peaceful resolution.
-
-🟩
-
-The General Secretary of the Ceylon Workers Congress (General Secretary of the Ceylon) and Minister Jivan Thondaman (01) had been summoned to the Nuwara Eliya police force.
-
-The estate authority has taken a group of supporters of the party and removed the employees of the Tea Factories, including the CEO of the Tea Factories and the CEO of Kelani Vidyalaya.) The supporters of the party Jivan Thondaman and the party supporters protest against the Nuwara Eliya Police.
-
-Minister Jivan Thondaman was asked to visit the police in several parts of the Nuwara Eliya Police, but the Minister Jivan Thondaman was later rejected and discussed with high police officers.It was agreed to withdraw the complaint against him and his supporters.
-
-The supporters were scattered in front of the police after making the statement. He said that a senior official from Nuwara Eliya police said that the party's highlights were taken against the complaint against Minister Jivendandance and the supporters of the party.
-
-◼️
-
-[Data](articles/5e0adfaa.json)
-
-[Extended Data](ext_articles/5e0adfaa.ext.json)
 
 ---

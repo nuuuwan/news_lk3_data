@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-02 08:34:04**
+As of **2024-06-02 08:52:58**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,445
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,784 (100.0%) of 27,791 articles have been extended.
+27,791 (100.0%) of 27,791 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,6 +48,8 @@ Meanwhile another person has also died after being buried by a collapsing mound 
 
 [Data](articles/837dc38c.json)
 
+[Extended Data](ext_articles/837dc38c.ext.json)
+
 ---
 
 ### Two youths dead after earth mound collapses on house
@@ -62,23 +64,31 @@ Police said two youths, both males aged 20 and 27, have died in the incident.
 
 [Data](articles/961d2c75.json)
 
+[Extended Data](ext_articles/961d2c75.ext.json)
+
 ---
 
-### දිස්ත්‍රික්ක 10කට නායයෑම් අනතුරු ඇඟවීමක්
+### Landslide warning for 10 districts
 
 *2024-06-02 08:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197269) · `si`
 
-පවතින අයහපත් කාලගුණයත් සමග දිස්ත්‍රික්ක 10ක් සඳහා නායයෑමේ අනතුරු ඇඟවීම් නිකුත් කර තිබේ.
+Landslide warnings cover 10 districts including areas around Colombo, Kandy, Nuwara Eliya, Ratnapura, Kegalle, Matara, and Kurunegala. Issued by NBRO, effective from 4 am today until 4 am tomorrow.
 
-ඒ අනුව කොළඹ දිස්ත්‍රික්කයේ පාදුක්ක ප්‍රාදේශීය ලේකම් කොට්ඨාසයට මෙන්ම කළුතර දිස්ත්‍රික්කයේ සහ රත්නපුර දිස්ත්‍රික්කයේ ප්‍රාදේශීය ලේකම් කොට්ඨාස 12ක් සඳහා නායයෑම් අනතුරු ඇඟවීමේ රතු නිවේදන නිකුත් කර ඇති බව ජාතික ගොඩනැගිලි පර්යේෂණ සංවිධානය පවසයි.
+🟩
 
-එමෙන්ම මහනුවර, නුවරඑළිය, රත්නපුර, ගාල්ල, කෑගල්ල, හම්බන්තොට, මාතර සහ කුරුණෑගල යන දිස්ත්‍රික්කවල ප්‍රාදේශීය ලේකම් කොට්ඨාස 41ක් සඳහා එම නායයෑමේ අනතුරු ඇඟවීම් නිකුත් කර තිබේ.
+Landslide warnings have been issued for 10 districts with the inclement weather.
 
-එම නායයෑම් අනතුරු ඇඟවීම් අද (02) අලුයම 04 සිට හෙට (03) අලුයම 04 දක්වා බලපැවැත්වෙන බව ජාතික ගොඩනැගිලි පර්යේෂණ සංවිධානයේ ජ්‍යෙෂ්ඨ භූ විද්‍යාඥ වසන්ත සේනාධීර මහතා සඳහන් කළේය.
+According to the National Building Research Organization (NBRO) has issued the landslide warning for the Padukka Divisional Secretariat Division in Colombo as well as the Padukka Divisional Secretariat Division in Colombo.
+
+The landslide warnings have been issued for 41 Divisional Secretariat Divisions in Kandy, Nuwara Eliya, Ratnapura, Ratnapura, Kegalle, Matara and Kurunegala districts.
+
+The landslide warnings will be effective from 4am to 4am to 4 am tomorrow (03) at the Senior Geologist Wasantha Senadheera.
 
 ◼️
 
 [Data](articles/69689caa.json)
+
+[Extended Data](ext_articles/69689caa.ext.json)
 
 ---
 
@@ -104,57 +114,77 @@ General public is kindly requested to take adequate precautions to minimize dama
 
 ---
 
-### එකම පවුලේ 3ක් ගංවතුර ට බිලි
+### Floods for 3 floods in the same family
 
 *2024-06-02 07:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197268) · `si`
 
-පුවක්පිටිය, එළිස්ටන්වත්ත, කැකිල්ල ප්‍රදේශයේදී ගංවතුරට හසුවී එකම පවුලේ තිදෙනෙකු මියගොස් තිබේ.
+In a tragic incident, three members of the same family perished due to flooding in the Elissanwatta, Elissenpitiya, Kekilla region. The victims were a 36-year-old woman and her 78-year-old mother, who drowned when their home was inundated by floodwaters around 2 to 3 pm today.
 
-එලෙස මියගොස් ඇත්තේ, වයස අවුරුදු 36ක මව,  අවුදුරු 07ක දියණිය සහ වයස අවුරුදු 78ක සීයා ය.
+🟩
 
-අද අලුයම 2ත් 3ත් අතර කාලය තුළ අදාළ නිවස ආසන්නයේ ඇති ඇළ මාර්ගයේ ගංවතුර තත්ත්වයක් ඇතිවීමෙන් නිවස ජලයෙන් යටවී ඔවුන් මියගොස් ඇති බව පොලිසිය සඳහන් කළේය.
+Three people have died in the same family in the flood, Elissanwatta, Elissenpitiya, Kekilla area.
+
+The deceased has been identified as 36-year-old mother, daughter of age and 78 years old.
+
+The house had been subjected to water and the house was flooded by floods in the near future between 2 and 3 pm today.
 
 ◼️
 
 [Data](articles/f3ef84a3.json)
 
+[Extended Data](ext_articles/f3ef84a3.ext.json)
+
 ---
 
-### ගංවතුර අවදානම සහිත ප්‍රදේශ මෙන්න
+### Here are areas with flood risk
 
 *2024-06-02 07:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197267) · `si`
 
-පවතින අයහපත් කාලගුණය හේතුවෙන්  කැලණි, කළු, ගිං සහ නිල්වලා යන ගංගා අවට පහත්බිම් ප්‍රදේශවලට ගංවතුර අනතුරු ඇගවීමේ නිවේදන නිකුත් කර තිබේ.
+Areas around the Kalu and Kelani Rivers, including Ratnapura, Ayagama, Akapatha, Ingiriya, Horana, Dodangoda, Millaniya, Colombo, Kamburupitiya, Akuressa, Thihagoda, Matara, Devinuwara, Neluwa, Thawalama, Niyagama, Elpitiya, Baddegama, and Bope Poddala, are at risk of flooding due to heavy rainfall. The Department of Irrigation warns of potential flooding in these regions within the next 48 hours.
 
-ඒ අනුව, කළු ගඟේ ඉහළ ධාරා ප්‍රදේශවලට සැලකිය යුතු වර්ෂාපතනයක් ලැබී ඇති අතර මේ හේතුවෙන් ඉදිරි පැය 48ක කාලය තුළ රත්නපුර දිස්ත්‍රික්කයේ පැල්මඩුල්ල, නිවිතිගල, කුරුවිට, අයගම, ඇලපාත සහ රත්නපුර යන ප්‍රාදේශීය ලේකම් කොට්ඨාසවල පහත්බිම් ප්‍රදේශවලට ගංවතුර තත්ත්වයක් ඇතිවිය හැකි බව සඳහන්ය.
+🟩
 
-එමෙන්ම කළුතර දිස්ත්‍රික්කයේ ඉංගිරිය, හොරණ, දොඩංගොඩ සහ මිල්ලනිය යන ප්‍රාදේශීය ලේකම් කොට්ඨාසවල පහත්බිම් ආශ්‍රිතව ද ගංවතුර තත්ත්වයක් ඇතිවිය හැකි බව වාරිමාර්ග දෙපාර්තමේන්තුව පැවසීය.
+Floods have been issued to the floods in lowland areas around the prevailing inclement weather.
 
-නිල්වලා ගඟේ ඉහළ ධාරා ප්‍රදේශවලට ඊයේ (01) රාත්‍රී සිට සැලකියයුතු වර්ෂාපතනයක් ලැබීම හේතුවෙන් පස්ගොඩ, කොටපොළ, පිටබැද්දර, අකුරැස්ස, අතුරලිය, මාලිම්බඩ, කඹුරුපිටිය, තිහගොඩ, මාතර සහ දෙවිනුවර යන ප්‍රාදේශීය ලේකම් කොට්ඨාසවල පහත්බිම්වල ගංවතුර තත්ත්වයක් ඇතිවිය හැකි බව සඳහන්ය.
+Accordingly, the Kalhare areas of the Kalu River have received significant rainfall and in the next 48 hours of flooding in the Ratnapura District, the lowland areas of the Ratnapura district, Ayagama, Akapatha and Ratnapura.
+
+The Department of Irrigation said that there is a flood in Ingiriya, Horana, Dodangoda and Millaniya Divisional Secretariat Divisions.
+
+Floods in Colombo, Kamburupitiya, Kamburupitiya, Akuressa, Thihagoda, Thihagoda, Kamburupitiya, Kamburupitiya, Kamburupitiya, Kamburupitiya, Kamburupitiya, Kamburupitiya, Thihagoda, Matara and Devinuwara Divisional Secretariat areas can occur.
+
+In addition, there is a flood in Neluwa, Thawalama, Niyagama Divisions in the GN River, Neluwa, Thawalama, Niyagama, Elpitiya, Baddegama and Bope Poddala..
 
 ...
 
 [Data](articles/7041d7ab.json)
 
+[Extended Data](ext_articles/7041d7ab.ext.json)
+
 ---
 
-### පස් කන්දක් කඩා වැටී තරුණ ජීවිත දෙකක් අහිමිවෙයි
+### Money falls down and lose two young lives
 
 *2024-06-02 06:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197265) · `si`
 
-දෙයියන්දර, පල්ලේවෙල ප්‍රදේශයේ නිවසකට පස් කන්දක් කඩා වැටී තරුණයින් දෙදෙනෙකු මියගොස් තිබේ.
+In Pallewela, Deiyandara, two youths aged 20 and 27 were killed. Another was hospitalized. The incident occurred yesterday, under investigation by the Deiyandara Police.
 
-මීට අමතරව තවත් පුද්ගලයෙකු  තුවාල ලබා ඇල්ලේවෙල රෝහලට ඇතුළත් කර තිබේ
+🟩
 
-ඊයේ (01) රාත්‍රී කාලයේදී එම සිදුවීම වාර්තා වූ බව පොලීසිය පවසයි.
+Two youths killed two youths in the Pallewela area in Pallewela, Deiyandara.
 
-එලෙස මියගොස් ඇත්තේ, වයස අවුරුදු 20 හා 27 යන වයස්වල පසුවන දෙනගම ප්‍රදේශයේ පදිංචිකරුවන් දෙදෙනෙකි.
+Another person was admitted to the Laboratory Hospital in the Ellewala Hospital
 
-මෘත ශරීර ඇල්ලේවෙල රෝහලේ තැන්පත් කර ඇති අතර දෙයියන්දර පොලීසිය වැඩිදුර විමර්ශ සිදුකරයි.
+The incident was reported yesterday (01), police said.
+
+The deceased have been identified as 20 and 27 years of age.
+
+Deposit was placed at the Funeralwela Hospital while Deiyandara Police are conducting further investigations.
 
 ◼️
 
 [Data](articles/b92f422e.json)
+
+[Extended Data](ext_articles/b92f422e.ext.json)
 
 ---
 
@@ -228,23 +258,29 @@ Kayts police are conducting further investigations into the incident. (A)
 
 ---
 
-### ’தேர்தல்களைத் தடுப்பவர்கள் ஜனநாயக விரோதிகள்’
+### Democrats are anti -democratic
 
 *2024-06-02 00:23:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்களைத்-தடுப்பவர்கள்-ஜனநாயக-விரோதிகள்/175-338254) · `ta`
 
-ஒரு ஜனநாயக நாட்டில் குறிப்பிட்ட காலத்திற்குப் பின்பு தேர்தல்களை நடத்தி மக்களின் ஆணையை பெற வேண்டும். அவ்வாறு நடைபெறாமல் விட்டால் அவர்கள் ஜனநாயக - மக்கள் விரோதிகள் ஆவர் என மட்டக்களப்பு மாவட்ட பாராளுமன்ற உறுப்பினர் கோவிந்தன் கருணாகரம் தெரிவித்தார்.
+Govindan Karunagaram argues that holding timely elections is crucial for democracy, stating that any delay is anti-people and undemocratic. He emphasizes the constitutional requirement for elections, which must be approved by the people, Parliament, and courts. Public confusion over election procedures without clear leadership adds to the urgency of ensuring democratic processes are followed.
 
-தனது கட்சி அலுவலகத்தில் நேற்று இடம்பெற்ற ஊடக சந்திப்பில் கலந்து கொண்டு உரையாற்றுகையிலேயே அவர் இவ்வாறு குறிப்பிட்டார். அவர் மேலும் தெரிவிக்கையில்,
+🟩
 
-அரசமைப்பின் பிரகாரம் ஜனாதிபதித் தேர்தலை ஒத்தி வைக்க முடியாது என்பது எல்லோருக்கும் தெரியும். பாராளுமன்றம், நீதிமன்றம் ஊடாக அனுமதிகளைப் பெற்று, மக்கள் ஆணையின் மூலம்தான் தேர்தல்களைப் பிற்போட முடியும்.
+To hold elections in a democratic country after a certain period of time to obtain the decree of the people. Batticaloa district parliamentarian Govindan Karunagaram said that if this is not done, they are democratic and anti -people.
 
-ஐக்கிய தேசியக் கட்சியின் மாறுபட்ட கருத்துகளுக்கு ஜனாதிபதி உரிய பதில்களை வழங்காது உள்ளபோது தேர்தல்கள் எவ்வாறு நடக்கும் என பொதுமக்களும் குழம்பிப் போய் உள்ளனர்.
+He was speaking at a media briefing held at his party office yesterday. As he further stated,
 
-இந்த நிலையில் ஒரு ஜனநாயக நாட்டில் குறிப்பிட்ட காலத்திற்குப் பின்பு தேர்தல்களை நடத்தி மக்களின் ஆணையை பெற வேண்டும். அவ்வாறு நடைபெறாமல் விட்டால் அவர்கள் ஜனநாயக மக்கள் விரோதிகள் ஆவார் என்றார். (a)
+Everyone knows that the presidential election cannot be postponed according to the constitution. The elections can be objected only by the people's mandate and obtaining permission from the Parliament and the court.
+
+The public is also confused as to how the elections will take place when the president does not provide appropriate answers to the UNP.
+
+In this case, in a democratic country, after a certain period of elections, the people should get the decree of the people. If that does not happen, they are anti -democratic people. (A)
 
 ◼️
 
 [Data](articles/b6408372.json)
+
+[Extended Data](ext_articles/b6408372.ext.json)
 
 ---
 

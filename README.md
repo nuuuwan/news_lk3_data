@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-02 17:03:53**
+As of **2024-06-02 17:18:58**
 
 ## Newspaper Stats
 
-*Scraped **27,881** Articles*
+*Scraped **27,895** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,65 +18,139 @@ dailyftlk | 1,635
 adalk | 2,378
 adaderanalk | 3,171
 tamilmirrorlk | 3,271
-virakesarilk | 4,286
-dailymirrorlk | 4,420
+virakesarilk | 4,299
+dailymirrorlk | 4,421
 adaderanasinhalalk | 4,467
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,878 (100.0%) of 27,881 articles have been extended.
+27,881 (99.9%) of 27,895 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-02 (Sunday)
 
-### හෝටලයක ගංවතුරට කොටුවූ පිරිසක් මුදාගනී
+### தமிழர் தரப்புக்கள் பதிலடி வழங்குமா?
+
+*2024-06-02 17:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/185129) · `ta`
+
+“தமிழர்கள் மத்தியில் இருந்த ஒற்றுமையின்மையை சிங்களத் தலைவர்கள் ஒவ்வொருவரும் தங்களின் தேவைகளுக்காக பயன்படுத்தி, பிளவுபடுத்தி அவர்கள் குளிர்காய்ந்திருக்கிறார்கள்”
+
+◼️
+
+[Data](articles/be2f6462.json)
+
+---
+
+### கழுத்தை நெரிக்கும் கூலிப்படை விவகாரம்
+
+*2024-06-02 17:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/185126) · `ta`
+
+ரஷ்யாவில் கூலிப்படையினராக போரிடச் சென்ற முன்னாள் இராணுவத்தினரை மீளவும், அழைத்து வருவதற்கான முயற்சிகளைத் தீவிரப்படுத்த வேண்டிய நிலைக்குத் தள்ளப்பட்டிருக்கிறது அரசாங்கம். புறச்சக்திகளின் தலையீடுகள், அழுத்தங்களை அடுத்தே, இந்த நடவடிக்கையை தீவிரப்படுத்த வேண்டிய நிலை ஏற்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/b22e8667.json)
+
+---
+
+### Health officials on alert as extreme weather worsens; nine deaths reported
+
+*2024-06-02 16:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Health-officials-on-alert-as-extreme-weather-worsens-nine-deaths-reported/108-283911) · `en`
+
+Colombo, June 02 (Daily Mirror) -  The Health Ministry has directed all provincial health directors to remain alert and make necessary directive to ensure the safety of people and the smooth function of the hospitals.
+
+Health Ministry Secretary Dr Palitha Mahipala said he is currently on an inspection tour in the Matara area given the severity of the weather condition in the Southern district.
+
+“All arrangements have been made to airlift patients in critical conditions for further treatment,” he said.
+
+He also advised general public not to visit places which have been affected by the bad weather conditions.
+
+Meanwhile, the Disaster Management Center announced the deaths of nine individuals due to the prevailing adverse weather conditions.
+
+◼️
+
+[Data](articles/b85f1721.json)
+
+---
+
+### ராஜபக்ஷவினரை வளைக்கும் இந்தியா
+
+*2024-06-02 16:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/185120) · `ta`
+
+இலங்கையர்கள் தெரிவு செய்யப்போகும் ஜனாதிபதி அடுத்த ஐந்து ஆண்டுகள், இலங்கையை வழிநடத்துபவராக மாத்திரம் இருக்கப் போவதில்லை. அதற்கு அப்பால் இந்திய பெருங்கடலில் - பிராந்திய மற்றும் சர்வதேச அரசியல் சக்திகளுடனான உறவுகள் மற்றும் நகர்வுகளை தீர்மானிப்பவராகவும் இருக்கப் போகிறார்...
+
+◼️
+
+[Data](articles/51a57a50.json)
+
+---
+
+### Rescue from a hotel floods
 
 *2024-06-02 16:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197291) · `si`
 
-හොරණ වගවත්ත ප්‍රදේශයේ හෝටලයක් වෙත පැමිණ සිරවී සිටි පිරිසක් හොරණ පොලීසිය එක්ව මුදාගෙන තිබේ.
+Horana police rescued 85 people trapped in a hotel due to Maga Oya flood, assisted by local council officers.
 
-මාවක් ඔය පිටාර ගැලීම හේතුවෙන් එම පිරිස මෙලෙස හෝටලය තුළ සිරවී ඇත.
+🟩
 
-එහිදී පොලීසිය සහ ප්‍රාදේශීය සභාවේ නිලධාරීන් එක්ව කළ මෙහෙයුමකදී පුද්ගලයින් 85 දෙනෙකුට ආසන්න පිරිසක් මුදාගැනීමට සමත්ව තිබේ.
+The Horana police have rescued a group of people who had returned to a hotel in Horana.
+
+The group was stuck in the hotel due to Maga Oya.
+
+The officers of the police and the Pradeshiya Sabha were also released to release nearly 85 people in a mission.
 
 ◼️
 
 [Data](articles/a70fb7a7.json)
 
+[Extended Data](ext_articles/a70fb7a7.ext.json)
+
 ---
 
-### කළු ගඟේ මීටර් 12.38ක් උස මහා ජල කඳක්
+### 12.38 meters in the Black River
 
 *2024-06-02 16:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197290) · `si`
 
-කළු ගඟේ ජල මට්ටම ඇල්ලගාව ප්‍රදේශයෙන් මීටර් 12.38ක් දක්වා ඉහළගොස් මහා ගංවතුර තත්ත්වයක් දක්වා වර්ධනය වී ඇති බව වාරිමාර්ග දෙපාර්තමේන්තුව පවසයි.
+Kalu River's water level rose to 12.38 meters, but it's not flooding in the Milkanda area anymore. The situation remains unchanged according to the Department.
 
-එම දෙපාර්තමේන්තුව පවසන අන්දමට තවදුරටත් එම ජල මට්ටම ඉහළ යමින් පවතී.
+🟩
 
-කළු ගඟේ අතු ගංගාවක් වන කුඩා ගඟ මිල්ලකන්ද ප්‍රදේශයේ තවදුරටත් මහා ගංවතුර තත්ත්වය පවතී.
+The Kalu River water levels have increased to 12.38 meters to 12.38 meters to 12.38 meters.
 
-එම දෙපාර්තමේන්තුව අද පස්වරු 3.30ට නිකුත් කර තිබූ ගංවතුර මට්ටම පිළිබඳ නිවේදනය පහතින්,
+According to the Department, the water level continues.
+
+The small river of the Kalu River is no longer flooding in the Milkanda area.
+
+The department is below the flood level issued by the Department at 3.30 pm today,
 
 ◼️
 
 [Data](articles/eb048b98.json)
 
+[Extended Data](ext_articles/eb048b98.ext.json)
+
 ---
 
-### ඇහැ‍ළියගොඩට වැහැපු වැස්ස
+### Rain to Eheliyagoda
 
 *2024-06-02 16:29:31* · [`adalk`](https://www.ada.lk/breaking_news/ඇහැ‍ළියගොඩට-වැහැපු-වැස්ස/11-409965) · `si`
 
-ඊයේ (02දා) උදේ 7.00 අවසන් වූ පැය 24ක කාලය සැලකීමේදී වැඩිම වර්ෂාපතනය ඇහැළියගොඩින් වාර්තා වී තිබෙන අතර, එම ප්‍රදේශයට මිලිමීටර් 427.5ක වාර්ෂාපතනයක් ඇති වී තිබේ.
+Eheliyagoda experienced the highest 24-hour rainfall of 283 millimeters at 7 AM on New Year's Eve, surpassing Ingiriya's 276 millimeters and Saleca's 287 millimeters.
 
-එමෙන්ම ඉංගිරිය, හල්වතුර ප්‍රදේශයට මිලිමීටර් 348.5ක්, අකුරැස්ස ප්‍රදේශයට මිලිමීටර් 283.5ක්, සාලාව ප්‍රදේශයට මිලීමිටර් 280.5ක්, පාලින්ද නුවර ප්‍රදේශයට මිලිමීටර් 276ක් හා දෙරණගල ප්‍රදේශයට මිලිමීටර් 267ක වර්ෂාපතනයක් ඇති වී තිබෙන බවද කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+🟩
+
+Eheliyagoda, the highest rainfall was reported in Eheliyagoda, which is the highest rainfall of 24 hours the end of the year 7.00 am.
+
+The Meteorological Department says that 283 milligates from the Halvara area of ​​Ingiriya and 28,76 millimeters in the Saleca area area.
 
 ◼️
 
 [Data](articles/c1e5d4c9.json)
+
+[Extended Data](ext_articles/c1e5d4c9.ext.json)
 
 ---
 
@@ -131,6 +205,18 @@ The collapse has forced Sri Lanka Railways to limit train operations on the line
 [Data](articles/c0c3a1b2.json)
 
 [Extended Data](ext_articles/c0c3a1b2.ext.json)
+
+---
+
+### ஐ.தே.க செயலாளரின் கூற்று தோல்வி அச்சத்தின் வெளிப்பாடா?
+
+*2024-06-02 16:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/185127) · `ta`
+
+ஜனாதிபதி தேர்தல் இடம்பெற்றால்  அதில் தான் வெற்றியடைவதில் நிச்சயமற்ற தன்மை ஒன்று நிலவி வருவதை ரணில் நன்கறிந்துள்ளார். அதற்காக ரணில் தேர்தலை ஒத்தி வைக்க முயற்சிக்கின்றாரா என்பது ஒரு விடயம். அடுத்தது  தனது மாமனார் ஜே.ஆர். ஜெயவர்த்தன வழியில் அவர் ஜனாதிபதித் தேர்தலை நடத்தாமலேயே சர்வஜன வாக்கெடுப்பு ஒன்றை நடத்துவதற்கு யோசிக்கின்றாரா என்பது இரண்டாவது விடயம்...
+
+◼️
+
+[Data](articles/d7fe2aa8.json)
 
 ---
 
@@ -324,6 +410,18 @@ The tree has begun to remove the tree. Drivers are informed to use alternative r
 
 ---
 
+### சர்வஜன வாக்கெடுப்பு நடக்குமா?
+
+*2024-06-02 14:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/185122) · `ta`
+
+“ரணில் விக்கிரமசிங்க ஜனாதிபதி தேர்தலை  எதிர்கொள்வதற்கு தயக்கம் இல்லாமல் இருந்திருந்தால்- இரண்டு ஆண்டுகளுக்கு  ஜனாதிபதி, பொதுத்தேர்தல் ஆகியவற்றை  ஒத்திவைக்குமொரு யோசனை அவரது கட்சியிடம் இருந்து வெளிப்பட்டிருக்காது”
+
+◼️
+
+[Data](articles/856c9fdf.json)
+
+---
+
 ### Colombo-Kandy road closed by a tree collapse
 
 *2024-06-02 14:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197286) · `si`
@@ -488,6 +586,18 @@ Accordingly, the power supply has been disconnected in several areas in the Gall
 
 ---
 
+### சுமந்திரனின் பொறியில் சிக்கியது சிவில் சமூகம்
+
+*2024-06-02 14:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/185110) · `ta`
+
+பொதுவேட்பாளர் திட்டத்தை தமிழ் அரசு கட்சிக்குள் தோற்கடிக்க ‘ஒஸ்லோ உடன்பாடு’ என்ற ஆயுதத்தை கையில் எடுத்த சுமந்திரன் – வெளியேற உள்ள தரப்புகளை மடக்குவதற்கு, ‘பொதுக்கலந்துரையாடல்’ எனும்  புதிய ஆயுதத்தை கையில் எடுத்திருக்கிறார். ஜனாதிபதி தேர்தலில் தமிழ் பொது வேட்பாளரை நிறுத்துவது தொடர்பாக, சில தமிழ் கட்சிகளும் சிவில் சமூகமும் முன்னெடுத்து வந்த முயற்சிகள், பலருக்கு  அச்சத்தை அல்லது பதற்றத்தை உருவாக்கியிருக்கிறது.
+
+◼️
+
+[Data](articles/18afec15.json)
+
+---
+
 ### Power interruptions in multiple districts amid torrential rains
 
 *2024-06-02 14:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Power-interruptions-in-multiple-districts-amid-torrential-rains/108-283903) · `en`
@@ -503,6 +613,18 @@ Residents in the affected districts are advised to remain calm and follow any fu
 [Data](articles/0c690994.json)
 
 [Extended Data](ext_articles/0c690994.ext.json)
+
+---
+
+### தமிழ் தேசிய கூட்டமைப்புக்கு சாவுமணி அடித்தது யார்? -  பாகம் 01
+
+*2024-06-02 14:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/185101) · `ta`
+
+தமிழ் மக்களின் அரசியல் பயணத்திலும் ஜனநாயகப் போராட்டங்களிலும்  கடந்த 22 வருடங்களுக்கு மேலாக பங்கெடுத்துக்கொண்ட  பிரதான சக்தியாக விளங்கியது, தமிழ்த் தேசியக் கூட்டமைப்பு என்ற அரசியல் கூட்டாகும். சுதந்திர காலத்திலிருந்து தமிழ் மக்கள் தமது அரசியல் உரிமைகளுக்காக போராடி வந்தபோதும், தமிழ் மக்களின்  வரலாற்று ஓட்டத்தில் பலமுள்ள சக்தியாக மக்கள் ஆணையை  பெற்றுவந்த ஜனநாயக குறியீடாக 2001ஆம் ஆண்டுக்குப் பின் சர்வதேச அரங்கிலும் உள்நாட்டுப் பரப்பிலும் விளங்கிய அரசியல் கூட்டாக கூட்டமைப்பு காணப்பட்டு வந்திருக்கிறது....
+
+◼️
+
+[Data](articles/c721ec6e.json)
 
 ---
 
@@ -587,6 +709,18 @@ Namal Rajapaksa said the party had decided to provide one million rupees for the
 [Data](articles/b0d64088.json)
 
 [Extended Data](ext_articles/b0d64088.ext.json)
+
+---
+
+### முஸ்லிம் காங்கிரஸில்    முற்றும் முரண்பாடுகள்
+
+*2024-06-02 13:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/185118) · `ta`
+
+ஸ்ரீலங்கா முஸ்லிம் காங்கிரஸின் தலைவருக்கும் அம்பாறை மாவட்ட பாராளுமன்ற உறுப்பினர்களுக்கும் இடையிலான முரண்பாடு வலுவடைந்து வருகிறது.  முஸ்லிம் காங்கிரஸில் அம்பாறை மாவட்ட பாராளுமன்ற உறுப்பினர்களும், அவர்களுக்கு சார்பான உள்ளுர் முக்கியஸ்தர்களும் ஒருகுழுவினராக செயற்பட்டுக் கொண்டிருக்கின்றனர். மறுபுறத்தில் ரவூப் ஹக்கீமுடன் நெருக்கத்தையும், விசுவாசத்தையும் வைத்துள்ள கட்சியின் உயர்பீட உறுப்பினர்களும், உள்ளுர் முக்கியஸ்தர்களில் ஒருசிலரும் பிறிதொரு குழுவினராக செயற்பட்டுக் கொண்டிருக்கின்றார்கள்.
+
+◼️
+
+[Data](articles/ebeac43f.json)
 
 ---
 
@@ -695,6 +829,48 @@ Accordingly, the general public living in the area are advised to remain cautiou
 [Data](articles/b0104044.json)
 
 [Extended Data](ext_articles/b0104044.ext.json)
+
+---
+
+### ரணில் கூறும் தீர்வு என்ன?
+
+*2024-06-02 13:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/185106) · `ta`
+
+“ஜனாதிபதி ரணில்  தமிழ் மக்களின் பிரச்சினை என்று வரும்போது மட்டும்,  கிழக்கை மறந்து விடுகிறார். அதனை வடக்கும் மக்களின் பிரச்சினை என்று மாத்திரம் வரையறுத்துக் கொள்ள முற்படுகிறார்” தமிழ் மக்களின் பிரச்சினைகள், போருக்குப் பின்னர் உருவானவை அல்ல. அந்தப் பிரச்சினைகள் தான் போரையே உருவாக்கியவை என்பது  ரணில் விக்கிரமசிங்கவுக்கு தெரியாத விடயமும் அல்ல.”
+
+◼️
+
+[Data](articles/545aa2e2.json)
+
+---
+
+### இரத்தினபுரியில் வெள்ளத்தில் அடித்துச்செல்லப்பட்டு பெண் பலி !
+
+*2024-06-02 12:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/185114) · `ta`
+
+நிலவும் சீரற்ற காலநிலை காரணமாக ஏற்பட்ட வெள்ளப்பெருக்கில் இரத்தினபுரி, எலபாத்த பகுதியில் வெள்ள நீரில் அடித்துச்செல்லப்பட்டு பெண்ணொருவர்  உயிரிழந்துள்ளார்.
+
+நாட்டில் அதிக மழையுடனான வானிலை நிலவுவதனால் பாதுகாப்பற்ற பகுதிகளில் வசிக்கும் மக்களுக்கு தேசிய கட்டிட ஆராய்ச்சி நிறுவனம் அறிவுறுத்தலொன்றை விடுத்துள்ளது.
+
+மழையுடனான வானிலையையடுத்து பல பகுதிகளில் மண்சரிவு அபாயம் ஏற்படும் எனவும் இதனால் பாதுகாப்பற்ற பகுதிகளில் வசிக்கும் மக்கள் மிகவும் அவதானமாக இருக்குமாறும் அறிவுறுத்தல்களுக்கு அமைய தேவையேற்படின் இடம்பெயரத் தயாராக இருக்குமாறும் தேசிய கட்டிட ஆராய்ச்சி நிறுவனத்தால் அறிவுறுத்தல் விடுக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/368597bb.json)
+
+---
+
+### மக்களுக்கு விடுக்கப்பட்டுள்ள அறிவுறுத்தல் !
+
+*2024-06-02 12:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/185111) · `ta`
+
+நாட்டில் அதிக மழையுடனான வானிலை நிலவுவதனால் பாதுகாப்பற்ற பகுதிகளில் வசிக்கும் மக்களுக்கு தேசிய கட்டட ஆராய்ச்சி நிறுவனம் முக்கிய அறிவுறுத்தலொன்றை விடுத்துள்ளது.
+
+மழையுடனான வானிலையையடுத்து பல பகுதிகளில் மண்சரிவு அபாயம் ஏற்படும் எனவும் இதனால் பாதுகாப்பற்ற பகுதிகளில் வசிக்கும் மக்கள் மிகவும் அவதானமாக இருக்குமாறும், அறிவுறுத்தல்களுக்கு அமைய தேவையேற்படின் இடம்பெயரத் தயாராக இருக்குமாறும் தேசிய கட்டட ஆராய்ச்சி நிறுவனத்தால் அறிவுறுத்தல் விடுக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/ed6aadc3.json)
 
 ---
 
@@ -964,6 +1140,18 @@ The Father said: "The father of his beloved daughter. Daughter's earliest school
 
 ---
 
+### பிரித்தானியாவில் மீண்டும் கட்டாய இராணுவ சேவை : ரிஷி சுனாக்கின் தேர்தல் மூலோபாயமா?
+
+*2024-06-02 11:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/185104) · `ta`
+
+உலகில் பல்வேறு நாடுகளில் குறுகிய காலத்திற்கு இராணுவத்தில் சேவை செய்ய வேண்டும் என்ற கட்டாய பணி உள்ளது. குறிப்பாக போர்க்காலங்களில் இத்தகைய சட்டம் கட்டாய, ஏன் வலுக்கட்டாய ஆட்சேர்ப்பு என்றே கருதுவதற்கு இடமுண்டு. இத்தகைய நாடுகளில் இராணுவத்திற்கு சேவை செய்வது கட்டாயம் என்பது இங்கே கவனிக்க வேண்டியதொன்று. இத்தகைய நாடுகளில், அதற்காக அரசியல் யாப்பு மூலம் சட்டங்களும் இயற்றப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/fa395f8a.json)
+
+---
+
 ### Accepting applications for admission of students to national schools ends tomorrow
 
 *2024-06-02 11:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/99591/accepting-applications-for-admission-of-students-to-national-schools-ends-tomorrow) · `en`
@@ -1149,6 +1337,18 @@ According to the intermediate grades of vacancies, the relevant principals in te
 [Data](articles/4b409b1e.json)
 
 [Extended Data](ext_articles/4b409b1e.ext.json)
+
+---
+
+### வவுனியா வடக்கில் மாற்றப்படும் குடிப்பரம்பல்
+
+*2024-06-02 11:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/185100) · `ta`
+
+“உள்ளூராட்சி மன்றத்தின் ஆட்சி அதிகாரம் பறிபோகும் பரிதாப நிலை: வன்னி  மாவட்ட தமிழ் பேசும் பிரதிநிதித்துவத்துக்கும் ஆபத்து” வவுனியா வடக்கு (நெடுங்கேணி) பிரதேச செயலாளர் பிரிவில் திட்டமிட்டு முன்னெடுக்கப்பட்டு வரும் குடிப்பரம்பல் மாற்றம் காரணமாக வவுனியா வடக்கு (நெடுங்கேணி) பிரதேச சபையின் பெரும்பான்மை சிங்கள உறுப்பினர்களின் எண்ணிக்கை அதிகரித்துள்ளதோடு, ஆட்சி அதிகாரத்தை இழக்கும் ஆபத்தான நிலைமையும் ஏற்பட்டுள்ளது....
+
+◼️
+
+[Data](articles/a34e826c.json)
 
 ---
 
@@ -1861,303 +2061,5 @@ In addition, there is a flood in Neluwa, Thawalama, Niyagama Divisions in the GN
 [Data](articles/7041d7ab.json)
 
 [Extended Data](ext_articles/7041d7ab.ext.json)
-
----
-
-### Money falls down and lose two young lives
-
-*2024-06-02 06:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197265) · `si`
-
-In Pallewela, Deiyandara, two youths aged 20 and 27 were killed. Another was hospitalized. The incident occurred yesterday, under investigation by the Deiyandara Police.
-
-🟩
-
-Two youths killed two youths in the Pallewela area in Pallewela, Deiyandara.
-
-Another person was admitted to the Laboratory Hospital in the Ellewala Hospital
-
-The incident was reported yesterday (01), police said.
-
-The deceased have been identified as 20 and 27 years of age.
-
-Deposit was placed at the Funeralwela Hospital while Deiyandara Police are conducting further investigations.
-
-◼️
-
-[Data](articles/b92f422e.json)
-
-[Extended Data](ext_articles/b92f422e.ext.json)
-
----
-
-### Showers over 150mm
-
-*2024-06-02 06:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197264) · `si`
-
-Heavy rainfall exceeding 150mm is forecasted for the Western, Sabaragamuwa, Central, and Southern provinces of the island today, with potential for thunderstorms. The Meteorological Department advises caution against wind and lightning risks, urging the public to prepare accordingly.
-
-🟩
-
-The Meteorological Department says that the rainy section of the island is also expected today (02).
-
-Showers or thundershowers will occur at times in the Western, Sabaragamuwa, Central and Southern provinces.
-
-In some places in the Western and Sabaragamuwa Province, Galle and Matara districts. The Department of Meteorology announces heavy showers more than 150.
-
-Showers or thundershowers will occur at the evening or night in the rest of the island.
-
-The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/3de7f73b.json)
-
-[Extended Data](ext_articles/3de7f73b.ext.json)
-
----
-
-### America to advantage of the coin
-
-*2024-06-02 05:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197263) · `si`
-
-In the World Cup, America chose to bat first in the inaugural match, giving Canada the opportunity to field first.
-
-🟩
-
-The first match of the World Cup will be held today (2).
-
-Accordingly, they decided to give Canada to the chance of batting first.
-
-◼️
-
-[Data](articles/a8126972.json)
-
-[Extended Data](ext_articles/a8126972.ext.json)
-
----
-
-### How Does Voters’ Thinking Shape The Policy Interventions Of The Government?
-
-*2024-06-02 05:28:05* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/how-does-voters-thinking-shape-the-policy-interventions-of-the-government/) · `en`
-
-In any unfavourable circumstances, it is easy for us to blame others without critically examining the issue. Similarly, politicians are often blamed for the short-term oriented, popular policy interventions of governments, which are considered unhealthy for the long-term of the economy. However, we need to see this issue from multiple perspectives for a better understanding.
-
-...
-
-[Data](articles/4b1b8c4b.json)
-
-[Extended Data](ext_articles/4b1b8c4b.ext.json)
-
----
-
-### A Global Tropical Coral Bank: Responding To The Increasing Frequencies Of Coral Bleaching & Loss
-
-*2024-06-02 04:31:25* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/a-global-tropical-coral-bank-responding-to-the-increasing-frequencies-of-coral-bleaching-loss/) · `en`
-
-Coral reefs comprise some of the most biologically diverse and valuable ecosystems on the planet. although reefs occupy only 0.2 percent of the ocean’s area worldwide, they are home to one-third of all sea life. and support more species per unit area than any other marine environment, including about 4,000 species of fish, 800 species of hard corals. It is estimated that there are 8 million (8,000,000) undiscovered plants and animals that may live in or near coral reefs. While he optimum temperature for coral growth is around 25 °C, although some species can survive temperature up to 35 0 C. However once corals are established in a stable environment, a temperature increase of just one degree Celsius for only four weeks can trigger bleaching.
-
-...
-
-[Data](articles/93ab5faf.json)
-
-[Extended Data](ext_articles/93ab5faf.ext.json)
-
----
-
-### Ministry Of Finance, Economic Stabilization & National Policies
-
-*2024-06-02 04:12:46* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/ministry-of-finance-economic-stabilization-national-policies/) · `en`
-
-Recent press statement issued by the Ministry dated 27/05/2024 ,appears to be a belated focus possibly due to an intervention initiated by an external Authority. It pronounces a scheme designed for the implementation of reforms for state owned banks. The diagnosed defects to be addressed are in summary form as follows;
-
-* SOBs have faced significant stress during the recent economic crisis,
-
-* SOB lending practices have deteriorated due to inadequate risk mitigation &weak governance
-
-* SOB balance sheets have absorbed losses of SOEs and help large fiscal deficits of those SOEs
-
-* These have led to delays in reforms which contributed to the Economic Crisis
-
-...
-
-[Data](articles/8c0dda27.json)
-
-[Extended Data](ext_articles/8c0dda27.ext.json)
-
----
-
-### How challenging to be a "Single Mom" ​​in Sri Lankan society?
-
-*2024-06-02 03:57:08* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cjkkr8d88zzo) · `si`
-
-It seems like you've shared a detailed narrative about the challenges and experiences of single parents, particularly focusing on societal perceptions and personal struggles. However, your query ends abruptly without specifying a question or request for assistance related to the content you've shared.
-
-
-
-Could you please clarify what specific information or assistance you need regarding the narrative about single parents? Are you looking for analysis, advice on handling similar situations, or information on related topics such as societal attitudes towards single parents, legal support for single parents, or strategies for coping with the challenges they face? Please provide more details so I can assist you effectively.
-
-🟩
-
-How challenging to be a "Single Mom" ​​in Sri Lankan society?
-
-In 2012, the Global Parent Date, the General Assembly issued by the United Nations General Assembly, all parents "allows them to" evaluate their lives to feed their lives for children. "
-
-This year, its theme has been introduced by the United Nations as 'The Prome of Playful Parenting' (Promise for Strange Parent Protection).
-
-According to the United Nations, the family, parents and their caregives play a key role in the well-being and development of children.
-
-They serve children and adolescent children identification, love, care, food, clothing, clothing, clothing, clothing, and resistance.
-
-But some say that this day, which is separate to evaluating their sacrifices, is still not a very familiar day for Sri Lankans.
-
-The purpose of this article is not just to pay attention to the global parent's day but also how the extent is that the extent that is challenging to be "a single mother" in Sri Lanka.Inquiry into the investigation.
-
-...
-
-[Data](articles/4df23534.json)
-
-[Extended Data](ext_articles/4df23534.ext.json)
-
----
-
-### Is President Wickremesinghe Following In The Footsteps Of His Uncle, President Jayewardene, In 1982?
-
-*2024-06-02 03:51:08* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/is-president-wickremesinghe-following-in-the-footsteps-of-his-uncle-president-jayewardene-in-1982/) · `en`
-
-President Ranil Wickremesinghe, unlike his predecessors, was not elected by the people of Sri Lanka. He was appointed by SLPP MPs to replace the ousted President Gotabaya Rajapaksa. Mr Wickremesinghe is working to build a popular base, asserting that he alone stabilised the economy through an agreement with the International Monetary Fund (IMF), which led to a USD 2.9 billion loan to help the country recover from its severe socio-economic crisis. Despite pro-regime claims of economic recovery, Sri Lanka’s prospects remain grim.
-
-...
-
-[Data](articles/df9eea3f.json)
-
-[Extended Data](ext_articles/df9eea3f.ext.json)
-
----
-
-### Recovery as bodies of two girls
-
-*2024-06-02 00:28:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரு-சிறுமிகள்-சடலங்களாக-மீட்பு/175-338255) · `ta`
-
-Two young girls, 11-year-old Nirosan Vidusa and 5-year-old Niranjan Anushka, were found dead near a small body of water off the road to Chinnamadu in the Jaffna and Kayts police division. Their families discovered their bodies after searching for them when they didn't return from a trip to the shop. A bicycle was also found at the scene. Investigations are ongoing by the Kayts police.
-
-🟩
-
-The bodies of two girls have been recovered from a small water level near the road to Chinnamadu area in the Jaffna and Kayts police division.
-
-11 -year -old Nirosan Vidusa and 5 -year -old Niranjan Anushka were recovered at 8 pm last night.
-
-In this case, relatives searched for the girls who went to the shop and observed their bodies in a small water near the street.. The bicycle they traveled was found there.
-
-Kayts police are conducting further investigations into the incident. (A)
-
-◼️
-
-[Data](articles/25e2be5a.json)
-
-[Extended Data](ext_articles/25e2be5a.ext.json)
-
----
-
-### Democrats are anti -democratic
-
-*2024-06-02 00:23:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்களைத்-தடுப்பவர்கள்-ஜனநாயக-விரோதிகள்/175-338254) · `ta`
-
-Govindan Karunagaram argues that holding timely elections is crucial for democracy, stating that any delay is anti-people and undemocratic. He emphasizes the constitutional requirement for elections, which must be approved by the people, Parliament, and courts. Public confusion over election procedures without clear leadership adds to the urgency of ensuring democratic processes are followed.
-
-🟩
-
-To hold elections in a democratic country after a certain period of time to obtain the decree of the people. Batticaloa district parliamentarian Govindan Karunagaram said that if this is not done, they are democratic and anti -people.
-
-He was speaking at a media briefing held at his party office yesterday. As he further stated,
-
-Everyone knows that the presidential election cannot be postponed according to the constitution. The elections can be objected only by the people's mandate and obtaining permission from the Parliament and the court.
-
-The public is also confused as to how the elections will take place when the president does not provide appropriate answers to the UNP.
-
-In this case, in a democratic country, after a certain period of elections, the people should get the decree of the people. If that does not happen, they are anti -democratic people. (A)
-
-◼️
-
-[Data](articles/b6408372.json)
-
-[Extended Data](ext_articles/b6408372.ext.json)
-
----
-
-### 108,665 tourists visit
-
-*2024-06-02 00:04:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/108-665-சுற்றுலாப்-பயணிகள்-வருகை/175-338253) · `ta`
-
-Last month, the country saw a record 1,086,665 tourists, including 31,225 from India, 7,984 from the Maldives, 7,374 from Germany, and 7,848 from Britain.
-
-🟩
-
-One million 8 thousand 665 tourists arrived in the country last month alone
-
-According to a statement issued by the council, the number of tourists from India continues to increase.
-
-31 thousand 225 from India, 7 thousand 984 from the Maldives, 7 thousand 374 from Germany and 7 thousand 848 from Britain.. (A)
-
-◼️
-
-[Data](articles/0088d90b.json)
-
-[Extended Data](ext_articles/0088d90b.ext.json)
-
----
-
-### 2024-06-01 (Saturday)
-
-### Boat accident in Afghanistan: 20 killed
-
-*2024-06-01 23:59:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஆப்கானிஸ்தானில்-படகு-விபத்து-20-பேர்-பலி/50-338252) · `ta`
-
-In Afghanistan's Nangarhar province, a boat crash in a river resulted in the deaths of 20 individuals, including women and children. Rescue efforts are underway after recovering five bodies from the scene where 26 were initially aboard.
-
-🟩
-
-In the eastern part of Afghanistan, 20 people were killed when a boat crashed into a river in Nangarhar province.
-
-International media reports that the dead include women and boys. Five bodies, including a male, a woman and 2 boys, have been recovered so far.
-
-It was reported that 26 people were traveling in the boat. It has been stated that rescue operations are ongoing. (A)
-
-◼️
-
-[Data](articles/ac8443dd.json)
-
-[Extended Data](ext_articles/ac8443dd.ext.json)
-
----
-
-### Hadunnetti apologises to Elon Musk
-
-*2024-06-01 23:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Hadunnetti-apologises-to-Elon-Musk/155-283892) · `en`
-
-Colombo, June 1 (Daily Mirror) Claiming that he never meant to call billionaire businessman Elon Musk an economic hit-man, NPP Economic Council member Sunil Hadunnetti said today he expresses his regrets to Elon Musk.
-
-Speaking during a Business Forum, Hadunnetti said his reference to economic hit-men was to James Packer and George Soros who were brought into the country during the previous Ranil Wickremesinghe government.
-
-...
-
-[Data](articles/5d14773e.json)
-
-[Extended Data](ext_articles/5d14773e.ext.json)
-
----
-
-### Hadunnetti apologises to Elon Musk
-
-*2024-06-01 23:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Hadunnetti-apologises-to-Elon-Musk/108-283892) · `en`
-
-Colombo, June 1 (Daily Mirror) Claiming that he never meant to call billionaire businessman Elon Musk an economic hit-man, NPP Economic Council member Sunil Hadunnetti said today he expresses his regrets to Elon Musk.
-
-Speaking during a Business Forum, Hadunnetti said his reference to economic hit-men was to James Packer and George Soros who were brought into the country during the previous Ranil Wickremesinghe government.
-
-...
-
-[Data](articles/f5dbacd3.json)
-
-[Extended Data](ext_articles/f5dbacd3.ext.json)
 
 ---

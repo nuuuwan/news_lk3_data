@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-02 14:04:17**
+As of **2024-06-02 14:18:51**
 
 ## Newspaper Stats
 
-*Scraped **27,845** Articles*
+*Scraped **27,851** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,92 @@ newsfirstlk | 363
 islandlk | 1,507
 economynextcom | 1,587
 dailyftlk | 1,635
-adalk | 2,371
-adaderanalk | 3,166
-tamilmirrorlk | 3,264
+adalk | 2,372
+adaderanalk | 3,167
+tamilmirrorlk | 3,266
 virakesarilk | 4,286
 dailymirrorlk | 4,413
-adaderanasinhalalk | 4,457
+adaderanasinhalalk | 4,459
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,845 (100.0%) of 27,845 articles have been extended.
+27,845 (100.0%) of 27,851 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-02 (Sunday)
+
+### Flights diverted to Mattala due to bad weather at BIA
+
+*2024-06-02 14:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/99595/flights-diverted-to-mattala-due-to-bad-weather-at-bia) · `en`
+
+Two flights arriving at Bandaranaike International Airport (BIA) in Katunayake have been diverted to Mattala Rajapaksa International Airport as a result of extreme weather conditions.
+
+SriLankan Airlines flight, UL 309 from Singapore, and an Etihad Airways flight, EY 394 from Abu Dhabi, were redirected to Mattala because adverse weather around Katunayake prevented them from landing at BIA, airport authorities said.
+
+Meanwhile, SriLankan Airlines has sent a new crew from Colombo to Mattala for the UL 309 SriLankan Airlines flight from Singapore, which was landed at Mattala International Airport, in order to bring the flight back to the BIA.
+
+This replacement was necessary because the original crew’s shift had expired after a five-hour delay caused by a technical fault, the authorities said.
+
+◼️
+
+[Data](articles/d03dbecb.json)
+
+---
+
+### හදිසියේම ප්‍රදේශ රැසක විදුලිය විසන්ධි කරයි
+
+*2024-06-02 14:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197283) · `si`
+
+පවතින අයහපත් කාලගුණ තත්ත්වය හා ජලගැලීම් සැළකිල්ලට ගනිමින් ප්‍රදේශ කිහිපයක විදුලි සැපයුම අත්හිටුවීමට පියවර ගෙන ඇති බව විදුලි බල හා බලශක්ති අමාත්‍යාංශය පවසයි.
+
+අමාත්‍යාංශ ලේකම් සුලක්ෂණ ජයවර්ධන මහතා පැවසුවේ ගාල්ල, කළුතර, රත්නපුර, කොළඹ සහ කෑගල්ල යන දිස්ත්‍රික්කවල බලපෑමට ලක්ව ඇති ප්‍රදේශවල විදුලිය විසන්ධි කිරිමට පියවර ගෙන ඇති බවය.
+
+ගංවතුර තත්වයත් සමඟ ජනතාවගේ ආරක්ෂාව තහවුරු කිරිමේ අරමුණින් මෙලෙස එම ප්‍රදේශ වල විදුලිය විසන්ධි කර ඇති බව  අමාත්‍යංශ ලේකම්වරයා කියා සිටියේය.
+
+◼️
+
+[Data](articles/c18a67b0.json)
+
+---
+
+### மொட்டுவின் கூட்டம் ஒத்திவைப்பு
+
+*2024-06-02 13:59:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மொட்டுவின்-கூட்டம்-ஒத்திவைப்பு/175-338288) · `ta`
+
+தாமரை மொட்டை சின்னமாகக் கொண்ட ஸ்ரீ லங்கா பொதுஜன பெரமுன, பியகமவில் ஞாயிற்றுக்கிழமை (02) நடத்தவிருந்த கூட்டம் ஒத்திவைக்கப்பட்டது.
+
+பியகம தொகுதி மாநாடு மோசமான வானிலை காரணமாக பிற்போடப்பட்டுள்ளதாக அக்கட்சியின் தேசிய அமைப்பாளரும் பாராளுமன்ற உறுப்பினருமான நாமல் ராஜபக்ஷ தெரிவித்துள்ளார்.
+
+பியகம வெள்ள நிவாரணத் திட்டத்திற்கு ஒரு மில்லியன் ரூபாவை வழங்குவதற்கு கட்சி தீர்மானித்துள்ளதாகவும்  நாமல் ராஜபக்ஷ தெரிவித்தார்.
+
+◼️
+
+[Data](articles/b0d64088.json)
+
+---
+
+### විපතට පත් ජනතාව මුදාගැනීම සඳහා යුද හමුදාවෙන් කණ්ඩායම් 7ක්
+
+*2024-06-02 13:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197282) · `si`
+
+ගංවතුර හේතුවෙන් විපතට පත්වූ ජනතාව බේරාගැනීම සඳහා කණ්ඩායම් 7ක් යොදවා ඇති බව යුද්ධ හමුදාව පවසයි.
+
+නිවේදනයක් නිකුත් කරමින් යුද්ධ හමුදාව වැඩිදුරටත් පවසන්නේ එක් බෝට්ටුවක් සමග කිරිඇල්ල, දෙහිඕවිට, ගලතුරු ඔය, මොරවක, තවලම සහ තිහගොඩ ප්‍රදේශ සඳහා යුද හමුදා කණ්ඩායම් 6ක් යොමුකර ඇති බවය.
+
+එසේම නෙළුව ප්‍රදේශයට බෝට්ටු 2ක් සමග යුද හමුදා කණ්ඩායමක් යොමුකර ඇති බව එම නිවේදනයේ වැඩිදුරටත් දැක්වෙයි.
+
+මේ අතර මාලිම්බඩ සහ සාලාව ප්‍රදේශයන්හි අවතැන් වූ පිරිස් සඳහා ආහාරපාන සැපයීමට යුද්ධ හමුදා භටපිරිස් විසින් ආහාර පිසීමේ ස්ථානයන් මේ වනවිට ආරම්භ කර තිබේ.
+
+මේ අතර විපතට පත් ජනතාව මුදාගැනීම සඳහා අවශ්‍යතාවයක් ඇතිවුවහොත් ඒ සඳහා භටපිරිස් සූදානම් කර තබන ලෙසට යුද්ධ හමුදාපති ලුතිනන් ජෙනරල් විකුම් ලියනගේ මහතා විසින් ආරක්ෂක සේනා ආඥාපතිවරුන් වෙත උපදෙස් ලබාදී ඇත.
+
+◼️
+
+[Data](articles/91032510.json)
+
+---
 
 ### Holiday for schools tomorrow
 
@@ -171,6 +241,22 @@ When contacted, State Minister Aravinda Kumar said this when contacted inquiry m
 [Data](articles/bae08d51.json)
 
 [Extended Data](ext_articles/bae08d51.ext.json)
+
+---
+
+### ‛‛மாதவிடாயால் முதலிரவுக்கு மறுப்பு’’: 12 ஆவது நாளில் சிக்கல்
+
+*2024-06-02 12:46:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/விநோத-உலகம்/மாதவிடாயால்-முதலிரவுக்கு-மறுப்பு-12-ஆவது-நாளில்-சிக்கல்/53-338277) · `ta`
+
+சமூக வலைதளத்தில் பழக்கமானவரை உருகி உருகி காதலித்து கரம்பிடித்த இளைஞருக்கு திருமணம் முடிந்த 12வது நாளில் பேரதிர்ச்சி காத்திருந்தது. அதாவது அவர் காதலித்து திருமணம் செய்தது பெண்ணை அல்ல ஒரு ஆண் என்பதை அறிந்து அவர் அதிர்ச்சியில் உறைந்து போனார். இது எப்படி என்ன நடந்தது? வாங்க பார்க்கலாம்.
+
+இன்றைய காலத்தில் காதல் திருமணங்கள் அதிகரித்து வருகின்றன. பள்ளி, கல்லூரியில் ஒன்றாக படித்தவர்கள், ஒரே ஊரை சேர்ந்தவர்கள், அலுவலகத்தில் பணியாற்றுவோரை ஒவ்வொருவரும் காதலித்து கரம் பிடித்து வருகின்றனர். மேலும் மாமா, அத்தை வழி உறவுகளையும் பலரும் காதல் திருமணம் செய்கின்றனர்.
+
+இவை எல்லாவற்றுக்கும் மேலாக சமூக வலைதளங்களில் நண்பர்களாகி காதலர்களாக மாறியும் பலரும் இல்லற வாழ்க்கையில் அடியெடுத்து வைக்கின்றனர். இந்நிலையில் தான் சமூக வலைதள காதல் ஒருவரின் வாழ்க்கையையே புரட்டிப்போட்டுள்ளது. இந்த சம்பவம் இந்தோனேசியாவில் நடந்துள்ளது.
+
+...
+
+[Data](articles/2dd1451c.json)
 
 ---
 
@@ -424,23 +510,39 @@ Additionally, there is a possibility of a flood situation occurring in low-lying
 
 *2024-06-02 11:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Update-Heavy-rainfall-raises-major-flood-concerns/155-283899) · `en`
 
+01.20 PM - Army troops have been deployed in various areas to conduct rescue operations and provide relief to those affected by severe flooding in low-lying regions around the rivers, caused by adverse weather conditions across the island.
+
+Troops have been deployed to Kiriella, Dehiowita, Moravaka, Thawalama, Thihagoda, and Neluwa areas.
+
+Additionally, the Army has established cooking facilities in the Malimbada and Salawa areas to provide meals for displaced individuals.
+
+As per the instructions of the Army Commander, Security Forces Commanders have been directed to ensure that troops maintain a state of readiness to respond promptly to any emergency situations and continue rescue operations as needed.
+
 01.10 PM - The National Building Research Organization (NBRO) today issued early warnings for landslides in the Colombo, Hambantota, Kalutara, Kandy Matara, Nuwara Eliya, Galle, Ratnapura and Kegalle districts.
-
-01.05 PM - The Education Ministry has announced tomorrow as a school holiday due to the prevailing heavy rainy weather.
-
-Further days of holding schools will be announced by the Education Ministry following announcements by the Meteorology Department.
-
-01.04 PM - The Department of Irrigation announced that the water level of the Kelani River has reached flood level in the Kelanimulla area.
-
-Accordingly, the general public residing in the area is advised to exercise caution, the department said.
-
-A potential major flood situation has been reported as heavy rainfall has been recorded across the majority of upstream and middle reach catchment areas within the Kelani, Nilwala and Gin river basins, the Department of Irrigation said.
 
 ...
 
 [Data](articles/85e0c321.json)
 
 [Extended Data](ext_articles/85e0c321.ext.json)
+
+---
+
+### කටුනායකට ආපු ගුවන් යානා මත්තලට යවයි
+
+*2024-06-02 11:44:38* · [`adalk`](https://www.ada.lk/breaking_news/කටුනායකට-ආපු-ගුවන්-යානා-මත්තලට-යවයි/11-409959) · `si`
+
+කටුනායක බණ්ඩාරනායක ජාත්‍යන්තර ගුවන් තොටුපොළ සහ ඒ අවට ප්‍රදේශයේ 06/02 දින අලුයම් කාළයේ පැවති අකුණු ගැසීම් සහිත තද වැසි තත්වය නිසා කටුනායක ගුවන් තොටුපොළ වෙත ගොඩ බැස්සවීමට පැමිණි ගුවන් යානා දෙකක් මත්තල ගුවන් තොටුපොළ වෙත හරවා යැවීමට පියවර ගත් බව කටුනායක  ගුවන් තොටුපොළ කාර්යය භාර නිලධාරීවරයා සනාථ කළේය .
+
+ඒ අනුව අබුඩාබි නුවර සිට 06/02 දින අලුයම 03.25 ට ගොඩ බැස්සවීමට පැමිණි ඉටිහාඩ් ගුවන් සේවයේ ඊ.වයි.- 394 ගුවන් යානය මත්තල ගුවන් තොටුපොළ වෙත යොමු කිරීමට පියවර ගෙන තිබුණි .
+
+මීට අමතරව සිංගප්පූරුවේ චැංගි ගුවන් තොටුපොළේ සිට 06/02 දින අලුයම 04.00 ට පමණ කටුනායක ගුවන් තොටුපොළ වෙත ගොඩ බැස්සවීමට පැමිණි ශ්‍රී ලන්කන් ගුවන් සේවයේ යූ.එල්.- 309 දරන ගුවන් යානය ද මත්තල ගුවන් තොටුපොළ වෙත යොමු කිරීමට පියවර ගෙන තිබුණි .
+
+ඒ වනවිටත් හම්බන්තොට මත්තල ගුවන් තොටුපොළ සහ ඒ අවට ප්‍රදේශය තුළත් වැසි තත්වය පැවති බව සදහන් කළ මත්තල ගුවන් තොටුපොළ කාර්යය භාර නිලධාරීවරයා , එම ගුවන් යානා 06/02 දින අලුයම 04.15 පමණ වනවිට තම ගුවන් තොටුපොළ වෙත පැමිණි බව ද සදහන් කළේය .
+
+...
+
+[Data](articles/d7e7a800.json)
 
 ---
 
@@ -2087,123 +2189,5 @@ Each school day started with a standard set of prayers. A 90-minute catechism cl
 [Data](articles/ad161b9a.json)
 
 [Extended Data](ext_articles/ad161b9a.ext.json)
-
----
-
-### Lunch at work during my time
-
-*2024-06-01 17:28:00* · [`islandlk`](http://island.lk/lunch-at-work-during-my-time/) · `en`
-
-Lunch time for working people in Sri Lanka differ in various places and offices. Those bringing lunch from home sit together in the canteen or an alotted lunch room while others lunch at their own desks. Those lunching in office travel to work from far so that they cannot go home for their meal and return within the stipulated hour.
-
-During our schooldays, schools used to start at 8.00 am and go on till 3.00 pm with an hour long lunch interval. The day scholars who travelled from far brought their lunch from home. They used to eat either in the tuck shop or in a separate room allotted for the purpose. Those living close to the school went home for lunch and returned in time for classes. The hostelers would go to the boarding for lunch and return for the afternoon session.
-
-...
-
-[Data](articles/1ace6af7.json)
-
-[Extended Data](ext_articles/1ace6af7.ext.json)
-
----
-
-### Jeevan Thondaman returned with a group
-
-*2024-06-01 17:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197252) · `si`
-
-Minister Jeevan Thondaman led a protest against the Gampaha Police Station, which prompted additional police deployment in Nuwara Eliya. The protest was related to the dismissal of workers from a local tea factory. After discussions with high-ranking police officers, the minister announced that the estate administration would withdraw the complaint against him and his supporters, leading to the peaceful dispersal of the protest.
-
-🟩
-
-Minister Jeevan Thondaman and a Ceylon Workers Congress protest against the Gampaha Police Station this morning.
-
-The additional police bodies were summoned to Nuwara Eliya due to the protest, Ada Derana reporter said.
-
-Minister Jeevan Thondaman has recently visited the tea factory in Nuwara Eliya and the administration of the administration.
-
-It is in connection with the removal of employees who were working in the tea factory.
-
-The Secretary General of the estate manman, Minister Jeevan Thondaman and the supporters of the party were protesting in front of the Nuwara Eliya Police today.
-
-The officials of Nuwara Eliya had requested several occasions when the Minister Jeevan Thondaman was involved in the incident.
-
-Later, the Minister went into the police and discussed with high police officers and told the supporters that the estate administration had agreed to withdraw the complaint against him and his supporters.
-
-...
-
-[Data](articles/56aeefa7.json)
-
-[Extended Data](ext_articles/56aeefa7.ext.json)
-
----
-
-### Shortage of 5,000 buses hampers private passenger transport services
-
-*2024-06-01 17:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Shortage-of-5-000-buses-hampers-private-passenger-transport-services/108-283883) · `en`
-
-Colombo, June 1 (Daily Mirror) - A shortage of 5,000 private buses is making it difficult to provide adequate passenger transport services, Lanka Private Bus Owners' Association (LPBOA) chairman Gemunu Wijerathne claimed.
-
-He told the Daily Mirror that 70% of buses with valid route permits are running in the country, while the remaining buses are not operating properly.
-
-He noted that buses with valid route permits cannot provide proper services because some are undergoing major repairs or are engaged in other services.
-
-As a result, the existing private bus fleet has been reduced to 13,000, and even these buses sometimes do not operate properly, Wijerathne said.
-
-"As a result, people have to pay Rs. 100 for three-wheeler fares to travel a minimum distance of one kilometre. The shortage of private buses has severely impacted the transport sector, with people suffering the most when relying on public transport," he said.
-
-...
-
-[Data](articles/a3899bcd.json)
-
-[Extended Data](ext_articles/a3899bcd.ext.json)
-
----
-
-### Smuggling attempt through BIA ‘green channel’ reveals Rs.7Mn worth phones, cigarettes
-
-*2024-06-01 17:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Smuggling-attempt-through-BIA-green-channel-reveals-Rs-7Mn-worth-phones-cigarettes/108-283888) · `en`
-
-Colombo, June 1 (Daily Mirror) - A special surveillance operation conducted by the Sri Lanka Customs today led to the arrest of three passengers returning from Dubai trying to use the airport green channel with a stock of cigarettes and mobile phones worth over Rs. 7 million in their possession.
-
-The Customs Narcotic Control Unit officials who were on duty at the Bandaranaike International Airport Arrival Terminal were ordered to stop three passengers trying to exit the airport through ‘nothing to declare’ Custom Green Channel.
-
-The three passengers, including a woman accompanying a child had arrived in the country this morning on SriLankan Airlines flight UL226 from Dubai.
-
-Customs spokesman Additional Director General Seevali Arukgoda told the Daily Mirror that the officials found 77 brand new smartphones valued at over Rs. 3 million from the baggage of the two passengers.
-
-...
-
-[Data](articles/b6c77dec.json)
-
-[Extended Data](ext_articles/b6c77dec.ext.json)
-
----
-
-### Welipenna Interchange closed until further notice
-
-*2024-06-01 17:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Welipenna-Interchange-closed-until-further-notice/108-283887) · `en`
-
-Colombo, June 1 (Daily Mirror) - The Welipenna Interchange on the Southern Expressway (E-01) will remain closed until further notice due to sudden floods, the Expressway Operation Maintenance and Management Division of the Road Development Authority (RDA) said.
-
-They said motorists are advised to use the Kurundugahahetekma Toll Booth and Dodangoda Interchange as exits and entrances to the E-01.
-
-◼️
-
-[Data](articles/9a4a2ce1.json)
-
-[Extended Data](ext_articles/9a4a2ce1.ext.json)
-
----
-
-### The Chay root
-
-*2024-06-01 16:41:00* · [`islandlk`](http://island.lk/the-chay-root/) · `en`
-
-The whole of this island [Mannar] is low ground, exhibiting a mixture of shells and sand…the soil being hardly susceptible of any sort of culture and the water generally impregnated with salt… In the most wild and uncultivated part of the sandy tracts the best chaya root is produced.
-
-...
-
-[Data](articles/540871d7.json)
-
-[Extended Data](ext_articles/540871d7.ext.json)
 
 ---

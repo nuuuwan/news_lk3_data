@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-02 06:01:27**
+As of **2024-06-02 07:00:18**
 
 ## Newspaper Stats
 
-*Scraped **27,772** Articles*
+*Scraped **27,775** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,18 +17,72 @@ economynextcom | 1,585
 dailyftlk | 1,635
 adalk | 2,365
 adaderanalk | 3,158
-tamilmirrorlk | 3,254
+tamilmirrorlk | 3,255
 virakesarilk | 4,282
 dailymirrorlk | 4,401
-adaderanasinhalalk | 4,439
+adaderanasinhalalk | 4,441
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,767 (100.0%) of 27,772 articles have been extended.
+27,772 (100.0%) of 27,775 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-06-02 (Sunday)
+
+### ප්‍රදේශ කිහිපයකට මි.මී 150 ඉක්මවු වැසි
+
+*2024-06-02 06:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197264) · `si`
+
+දිවයිනේ නිරිත දිග කොටසේ පවතින වැසි තත්ත්වය අද (02) දිනයේත් බලාපොරොත්තු විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, බස්නාහිර, සබරගමුව, මධ්‍යම සහ දකුණු පළාත්වල විටින් විට වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බවය.
+
+බස්නාහිර සහ සබරගමුව පළාත්වලත්, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල මි.මී. 150ට වැඩි ඉතා තද වැසි ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+
+දිවයිනේ සෙසු ප්‍රදේශවල සවස් කාලයේ හෝ රාත්‍රී කාලයේ තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවේ.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/3de7f73b.json)
+
+---
+
+### කාසියේ වාසිය අමෙරිකාවට
+
+*2024-06-02 05:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197263) · `si`
+
+20යි 20 ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ පළමු තරගය අමෙරිකාව සහ කැනඩාව අතර අද (02) පැවැත්වෙයි.
+
+ඒ අනුව ඔවුන් තීරණය කළේ පළමුවෙන් පන්දුවට පහරදීමේ අවස්ථාව කැනඩාවට ලබාදීමටය.
+
+◼️
+
+[Data](articles/a8126972.json)
+
+---
+
+### இரு சிறுமிகள் சடலங்களாக மீட்பு
+
+*2024-06-02 00:28:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரு-சிறுமிகள்-சடலங்களாக-மீட்பு/175-338255) · `ta`
+
+யாழ்ப்பாணம், ஊர்காவற்றுறை பொலிஸ் பிரிவுக்குட்பட்ட சின்னமடு பகுதியில் வீதிக்கு அருகேயுள்ள சிறிய நீர்நிலை ஒன்றில் இருந்து இரண்டு சிறுமிகளின் சடலங்கள் மீட்கப்பட்டுள்ளன.
+
+11 வயதுடைய நிரோசன் விதுசா, 5 வயதுடைய நிரஞ்சன் அனுஷ்கா என்பவர்களே நேற்று இரவு 8 மணியளவில் சடலங்களாக மீட்கப்பட்டுள்ளனர்.
+
+இந்நிலையில், கடைக்குச் சென்ற சிறுமிகளைக் காணவில்லை எனத் தேடிய உறவினர்கள், வீதிக்கு அருகேயுள்ள சிறிய நீர்நிலையில் அவர்களது சடலங்கள் காணப்பட்டதை அவதானித்தனர். அவர்கள் பயணித்த சைக்கிளும் அங்கு காணப்பட்டது.
+
+இந்தச் சம்பவம் தொடர்பில் மேலதிக விசாரணைகளை ஊர்காவற்றுறைப் பொலிஸார் மேற்கொண்டு வருகின்றனர். (a)
+
+◼️
+
+[Data](articles/25e2be5a.json)
+
+---
 
 ### 2024-06-01 (Saturday)
 
@@ -831,6 +885,8 @@ With a mission to elevate local storytelling to international standards, Rogue E
 ...
 
 [Data](articles/ccef37c6.json)
+
+[Extended Data](ext_articles/ccef37c6.ext.json)
 
 ---
 
@@ -2279,57 +2335,5 @@ The rise of NPP from the ashes of Aragalaya and led by a new generation of JVP l
 [Data](articles/931acbbe.json)
 
 [Extended Data](ext_articles/931acbbe.ext.json)
-
----
-
-### MM in several areas. Heavy rains over 100
-
-*2024-06-01 06:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197229) · `si`
-
-Heavy rains exceeding 100mm are expected in the Western, Sabaragamuwa, Central, and Southern provinces, particularly in Galle, Matara, and Nuwara Eliya districts. Showers or thundershowers will also affect the Mullaitivu district in the evenings or nights. The Meteorology Department advises caution against strong winds and lightning due to thunderstorms.
-
-🟩
-
-Showers or thundershowers will occur at times in the Western, Sabaragamuwa, Central and Southern provinces.
-
-In some places in the Western and Sabaragamuwa Provincial, Galle, Matara and Nuwara Eliya districts. Heavy rains can occur at over 100.
-
-Showers or thundershowers will occur at several places in the Mullaitivu district or evening in the Mullaitivu district or night or night.
-
-The Department of Meteorology tells the public to take necessary steps to reduce temporary strong winds and lightning accidents due to thunderstorms.
-
-◼️
-
-[Data](articles/65a7957e.json)
-
-[Extended Data](ext_articles/65a7957e.ext.json)
-
----
-
-### Seylan Bank to disburse ADB’s Working Capital and Long-Term Loans for SMEs
-
-*2024-06-01 06:21:00* · [`islandlk`](http://island.lk/seylan-bank-to-disburse-adbs-working-capital-and-long-term-loans-for-smes/) · `en`
-
-Seylan Bank PLC, in collaboration with the Asian Development Bank (ADB) and the Government of Sri Lanka (GoSL), will disburse Working Capital and Long-Term Loans from the ADB, aimed at bolstering the Small and Medium Enterprise (SME) sector in the country.
-
-In an effort to stimulate economic growth and support local businesses, Seylan Bank will offer financial assistance to SMEs engaged in various industries, including Agriculture, Fisheries, Ornamental Fisheries, Aquaculture, Livestock, Animal Husbandry, Poultry, Tourism, and Export-Oriented Businesses. Seylan Bank has been a consistent partner in regard to ADB funding in Sri Lanka. Through ADB’s credit lines, the Bank has disbursed loans to the SME sector and Tea Smallholders in the past.
-
-...
-
-[Data](articles/27e81bf1.json)
-
----
-
-### Union Bank becomes first local bank to achieve PCI DSS Version 4 certification
-
-*2024-06-01 06:18:00* · [`islandlk`](http://island.lk/union-bank-becomes-first-local-bank-to-achieve-pci-dss-version-4-certification/) · `en`
-
-Union Bank has achieved a significant milestone by obtaining the Payment Card Industry Data Security Standard (PCI DSS) version 4 certification, as the first local bank to receive this level of recognition. This accomplishment underscores the Bank’s continuous commitment to maintaining the highest standards of customer information security, as evidenced by its consistent attainment of the PCI DSS certification over the past five years.
-
-...
-
-[Data](articles/4c28aa36.json)
-
-[Extended Data](ext_articles/4c28aa36.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-02 09:34:16**
+As of **2024-06-02 09:53:40**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 4,446
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,792 (100.0%) of 27,793 articles have been extended.
+27,793 (100.0%) of 27,793 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-02 (Sunday)
 
-### නිදහස් පක්ෂයේ විශේෂ රැස්වීමක් අද
+### A special meeting of the SLFP is today
 
 *2024-06-02 09:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197271) · `si`
 
-ශ්‍රී ලංකා නිදහස් පක්ෂයේ විශේෂ මධ්‍යම කාරක සභා රැස්වීමක් සහ ආසන සහ දිස්ත්‍රික් සංවිධායකවරුන්ගේ රැස්වීමක් අද (02) පැවැත්වීමට නියමිතව තිබේ.
+A special meeting of the Sri Lanka Freedom Party (SLFP), including its central committee, is set for today at 2 pm at the party's headquarters in Colombo. However, former SLFP Chairman Maithripala Sirisena claims the meetings are illegal and undisciplined.
 
-පක්ෂයේ වැඩබලන සභාපති අමාත්‍ය නිමල් සිරිපාල ද සිල්වා මහතාගේ ප්‍රධානත්වයෙන් අද පස්වරු 02ට කොළඹ ඩාලි පාරේ පිහිටි ශ්‍රී ලංකා නිදහස් පක්ෂ මූලස්ථානයේ දී එම රැස්වීම් පැවැත්වෙන බව පක්ෂයේ භාණ්ඩාගාරික රාජ්‍ය අමාත්‍ය ලසන්ත අලගියවන්න මහතා පැවසීය.
+🟩
 
-කෙසේවෙතත් අද පවත්වනු ලබන රැස්වීම් නීතිවිරෝධී සහ විනයවිරෝධී බව ශ්‍රී ලංකා නිදහස් පක්ෂයේ හිටපු සභාපති හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා සඳහන් කළේය.
+A special central committee meeting and a meeting of the Sri Lanka Freedom Party (SLFP) is scheduled to be held today (02).
+
+The Treasurer Minister of Treasurer Lasantha Alagiyawanna stated that the meetings will be held at the Sri Lanka Freedom Party headquarters at Dali Road, Colombo at 2 pm.
+
+However, former Sri Lanka Freedom Party (SLFP) former President of the Sri Lanka Freedom Chairman Maithripala Sirisena stated that the meetings held today is illegal and discipline.
 
 ◼️
 
 [Data](articles/b7ccd1c9.json)
+
+[Extended Data](ext_articles/b7ccd1c9.ext.json)
 
 ---
 

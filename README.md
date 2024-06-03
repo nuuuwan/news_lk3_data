@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-03 19:34:17**
+As of **2024-06-03 19:52:56**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 4,522
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,153 (100.0%) of 28,158 articles have been extended.
+28,158 (100.0%) of 28,158 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-03 (Monday)
 
-### තවත් කලාප කිහිපයක පාසල් සඳහා හෙට නිවාඩු
+### Tom Tom Tom Tomorrow for several other regions
 
 *2024-06-03 19:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197348) · `si`
 
-ගම්පහ, කැලණිය අධ්‍යාපන කලාපවල සහ කඩුවෙල අධ්‍යාපන කොට්ඨාශයේ සියලුම පාසල් සඳහා හෙට දිනයේ නිවාඩු ලබාදී ඇත.
+Due to adverse weather conditions, schools across various regions including Gampaha, Kelaniya, Kaduwela, Ratnapura, Kagalla, Galle, Matara, Kalutara, and Homagama in the Colombo District have been closed tomorrow. The Provincial Director of Education made this decision.
 
-පවතින අයහපත් කාලගුණික තත්ත්වයත් සමග පළාත් අධ්‍යාපන අධ්‍යක්ෂවරයා විසින් මෙම තීරණය ගෙන තිබේ.
+🟩
 
-මේ අතර අධ්‍යාපන අමාත්‍යංශය පැවසුවේ රත්නපුරය, කැගල්ල, ගාල්ල, මාතර සහ කළුතර යන දිස්ත්‍රික්කවල සියලුම පාසල් හෙට දිනයේ වසා තැබෙන බවය.
+All schools in the Gampaha, Kelaniya Education Zone and Kaduwela Education Division have been granted leave tomorrow.
 
-කොළඹ දිස්ත්‍රික්කයේ හෝමාගම කලාපයට අයත් පාසල් සඳහා ද හෙට දිනයේ නිවාඩු ලබාදී තිබේ.
+The decision was taken by the Provincial Director of Education with adverse weather conditions.
+
+Meanwhile, the Ministry of Education said all schools will be closed tomorrow morning in Ratnapura, Kagalla, Galle, Matara and Kalutara districts.
+
+The schools belonging to the Homagama in the Colombo District have also been granted leave tomorrow.
 
 ◼️
 
 [Data](articles/e7b3ab03.json)
+
+[Extended Data](ext_articles/e7b3ab03.ext.json)
 
 ---
 
@@ -70,27 +76,35 @@ Furthermore, the Ministry of Education also highlighted that all schools across 
 
 [Data](articles/0e1ff5f4.json)
 
+[Extended Data](ext_articles/0e1ff5f4.ext.json)
+
 ---
 
-### ICCයෙන් දිනන කණ්ඩායමට ලැබෙන ඇදහිය නොහැකි මුදල මෙන්න
+### Here is the incredible amount for the ICC winning team
 
 *2024-06-03 19:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197347) · `si`
 
-ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලය විසින් මෙවර විස්සයි විස්ස ලෝක කුසලාන ක්‍රිකට් තරගාවලිය ජයගන්නා කණ්ඩායමට ලබාදෙන මුදල් ත්‍යාගය පිළිබඳව ප්‍රකාශයට පත්කර තිබේ.
+The ICC announced a record-breaking total prize pool of US $11.25 million for the World Twenty20 Cup, including $2.45 million for the winners, $1.28 million for runners-up, and $787,500 for semi-final losers.
 
-ඒ අනුව ජයග්‍රාහී කණ්ඩායමට අමෙරිකානු ඩොලර් මිලියන 2.45ක මුදලක් ලබාදීමට තීරණය කර තිබේ.
+🟩
 
-එසේම අනුශූරයින් සඳහා ලබාදීමට අපේක්ෂිත මුදල අමෙරිකානු ඩොලර් මිලියන 1.28ක් ලබාදීමට තීරණය කර ඇත.
+The International Cricket Council has published the cash prize to the World Twenty20 World Cup.
 
-මේ අතර අවසන් පූර්ව වටයේ පරාජිත කණ්ඩායම් සඳහා අමෙරිකානු ඩොලර් 787,500ක මුදලක් ලබාදීමට තීරණය කර තිබේ.
+Accordingly, the winning team has decided to provide US $ 2.45 million.
 
-ඒ අනුව මෙවර සමස්ත තරගාවලියේ කණ්ඩායම් සඳහා වෙන්කර ඇති ත්‍යාග මුදල අමෙරිකානු ඩොලර් මිලියන 11.25ක් බවද ICCය පවසයි.
+It has also been decided to provide US $ 1.28 million to provide the proceedings for runners.
 
-එය විස්සයි විස්ස ලෝක කුසලාන තරගාවලියක් සඳහා මේ දක්වා වෙන්කර ඇති වැඩිම ත්‍යාග මුදල වන්නේ මෙයයි.
+Meanwhile, it has been decided to provide US $ 787,500 for the semi-semi-ending defeated groups.
+
+Accordingly, the rewards for teams in the entire tournament is US $ 11.25 million.
+
+This is the highest prize money allocated for a Twenty20 World Cup.
 
 ◼️
 
 [Data](articles/948676e8.json)
+
+[Extended Data](ext_articles/948676e8.ext.json)
 
 ---
 
@@ -111,6 +125,8 @@ The tournament will start with 40 matches in the first round, leading to the Sup
 ...
 
 [Data](articles/2645a614.json)
+
+[Extended Data](ext_articles/2645a614.ext.json)
 
 ---
 
@@ -686,21 +702,29 @@ Chairman of Litro Gas, Muditha Peiris said that the revised prices will be annou
 
 ---
 
-### ඉතාලි රැකියා සිහින පෙන්වා මුදල් ගැරූ සැකකරු මහනුවරදී කොටුවෙයි
+### Suspect arrested in Kandy
 
 *2024-06-03 16:02:56* · [`adalk`](https://www.ada.lk/breaking_news/ඉතාලි-රැකියා-සිහින-පෙන්වා-මුදල්-ගැරූ-සැකකරු-මහනුවරදී-කොටුවෙයි/11-409984) · `si`
 
-ඉතාලියේ රැකියා ලබාදෙන බව පවසා මුදල් වංචාකළ පුද්ගලයෙකු ශ්‍රි ලංකා විදේශ සේවා නියුක්ති කාර්යාංශයේ විශේෂ විමර්ශන ඒකකයේ නිළධාරීන් විසින් 2024.06.01 වන දින අත්අඩංගුවට ගෙන තිබේ.
+A suspect involved in cheating Italian nationals was arrested by Sri Lanka's Special Investigation Unit on June 1, 2013. The 40-year-old from Peradeniya was accused of defrauding Italians through a job agency scam. Following a complaint lodged with the SLBFE Bureau, investigators raided the suspect's home and took them into custody. The suspect was later presented before the Kandy Magistrate's Court and remanded until June 6. The arrest was facilitated by a team from the Bureau's Special Investigation Division, including Kapila Karunaratne, Plannille Pushpakumara, Ravindra Aberaya, Amila Perera, Madushan Wijewardena, and H. Jayanthi. The SLBFE advises potential foreign workers to verify job agencies' legitimacy via its website or hotline.
 
-මහනුවර, පේරාදෙණිය ප්‍රදේශයේ පදිංචි 40 හැවිරිදි පුද්ගලයෙකු විසින් ඉතාලියේ වැඩිහිටියන් බලාගැනීමේ රැකියාවක් ලබාදෙන බව පවසා රු.1,250,000.00 ක මුදලක් ලබාගෙන පොරොන්දු වූ පරිදි රැකියාව ලබා නොදුන් බවට පුද්ගලයෙකු විසින් කාර්යාංශයේ විශේෂ විමර්ශන අංශයට පැමිණිලි කර තිබේ.
+🟩
 
-ඒ අනුව කාර්යාංශයේ විමර්ශන නිළධාරීන් සැකකරු අත්අඩංගුවට ගැනීම සඳහා පේරාදෙණිය ප්‍රදේශයේ අදාල සැකකරුගේ නිවෙස වෙත ගියද, සැකකරු නිවෙසේ සිට නොමැති හෙයින් කාර්යාංශයේ මහනුවර පළාත් කාර්යාලය වෙත කැඳවා ප්‍රකාශ සටහන් කර ගැනීමෙන් අනතුරුව අත්අඩංගුවට ගන්නා ලදී.
+A person who cheated on Italy was arrested by the Special Investigation Unit on 01.06.2013 by the SLBFE Bureau.
 
-අත්අඩංගුවට ගත් සැකකරු ඊයේ දින (6/2) මහනුවර මහේස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමෙන් අනතුරුව ජූනි මස 6 තෙක් රක්ෂිත බන්ධනාගාර ගත කිරීමට මහේස්ත්‍රාත්වරයා නියෝග කරන ලදී.
+A 40-year-old resident of Peradeniya has complained to the Special Investigation Division of the Bureau as promised.
+
+Accordingly, the Bureau's investigation officials were taken to the suspect's residence in the Peradeniya to arrest the suspect, called the Bureau to the Provincial Office of the Bureau and was arrested following state office.
+
+The suspect was produced before the Kandy Magistrate's Court yesterday and remanded until June 6.
+
+Manager of the Bureau's Special Investigation Division (Special Investigation Division) for the arrest Kapila Karunaratne, Plannille Pushpakumara, Ravindra Aberaya, Amila Perera, Madushan Wijewardena and H. Jayanthi was also present.
 
 ...
 
 [Data](articles/89399f7c.json)
+
+[Extended Data](ext_articles/89399f7c.ext.json)
 
 ---
 

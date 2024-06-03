@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-03 08:34:12**
+As of **2024-06-03 08:53:15**
 
 ## Newspaper Stats
 
-*Scraped **28,005** Articles*
+*Scraped **28,006** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,517
 economynextcom | 1,589
 dailyftlk | 1,644
 adalk | 2,388
-adaderanalk | 3,181
+adaderanalk | 3,182
 tamilmirrorlk | 3,279
 virakesarilk | 4,320
 dailymirrorlk | 4,436
@@ -26,11 +26,29 @@ adaderanasinhalalk | 4,487
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,003 (100.0%) of 28,005 articles have been extended.
+28,005 (100.0%) of 28,006 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-03 (Monday)
+
+### IMF executive board to meet on June 12 for Sri Lanka’s second review
+
+*2024-06-03 08:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/99610/imf-executive-board-to-meet-on-june-12-for-sri-lankas-second-review-) · `en`
+
+The Article IV Consultation and second review under the Extended Fund Facility (EFF) for Sri Lanka are on the International Monetary Fund’s (IMF) Executive Board meeting agenda for June 12, says State Minister of Finance Shehan Semasinghe.
+
+“The session will evaluate Sri Lanka’s economic policies and reform progress,” he said, in a post on ‘X’ (formerly Twitter).
+
+He also said Sri Lanka looks forward for continued support of all countries for a successful review to unlock the third tranche, which will further enhance economic stability, growth, and reform efforts.
+
+IMF staff and the Sri Lankan authorities have reached a staff-level agreement on economic policies to conclude the second review of the four-year EFF-supported program and the 2024 Article IV Consultation, the Director of IMF Communications Julie Kozack said last month.
+
+...
+
+[Data](articles/3306b690.json)
+
+---
 
 ### Sri Lanka faces Sri Lanka in the 20th World Cup today
 
@@ -974,25 +992,31 @@ The new National Education Policy Framework (NEPF) was prepared by a cabinet com
 
 ---
 
-### දුම්රිය මාර්ගයේ බස් රිය ධාවනය කළ රියදුරු අල්ලයි
+### The driver of the railway line seized
 
 *2024-06-02 22:18:24* · [`adalk`](https://www.ada.lk/breaking_news/දුම්රිය-මාර්ගයේ-බස්-රිය-ධාවනය-කළ-රියදුරු-අල්ලයි/11-409972) · `si`
 
-අද දින උදෑසන කාලයේදී අන්තරාදායක ලෙස පුද්ගලික බස් රථයක් දුේිය මාර්ගයක ධාවනය කළ බස් රථයේ රියදුරු අත්අඩංගුවට ගත් බව පොලිස් මාධ්‍ය ප්‍රකාශක කාර්යාලය පවසයි.
+A private bus driver, who drove on a railway track in Colombo, was arrested after a video surfaced online. The incident caused traffic near Thummodara. The 45-year-old driver, whose license was suspended for 4 months, faces charges.
 
-බස් රිය මද දුරක් දුම්රිය මාර්ගයේ ධාවනය කරන අයුරු දැක්වෙන වීඩියෝ පටයක් සමාජ මාධ්‍ය තුළ වේගයෙන් සංසරණය විය.
+🟩
 
-කොළඹ  - රත්නපුර මාර්ගපේ තුම්මෝදර ප්‍ර දේශයේදී රථවාහන තදබදයක් පැවැති අවස්ථාවක මෙසේ බස්රිය මාර්ගයෙන් පිටතට ගෙන දුම්රිය මාර්ගයේ ධාවනය කරවා තිබුණි.
+The driver of the bus operated by a private bus in a beautiful bus today morning, the police spokesman's office said.
 
-ඇඹිලිපිටිය පොලිස් ස්ථානයේ නිලධාින් විසින් එම බස් රථය හා රියදුරු අත්අඩංගුවට ගෙන තිබේ.
+The video of bus driver driving a distance of the railway route circulated in social media.
 
-කොළඹ සිට සූරියවැව දක්වා ධාවනය වූ පුද්ගලික බස් රථයක් මෙසේ අත්අඩංගුවට ගෙන ඇති අතර රියදුරු 45 වැනි වියේ පසුවන මොරකැටිය පදිංචිකරුවෙකි.දක්ො ධාෙනය වු පුද්ගලික බස් රථයකි.සැකකරු වයස අවුරුදු 45 ක් වන ලමාරකැටිය, ඇඹිලිපිටිය ප්‍රලේශලේ දංචිකරුවෙකි.
+In the Thummodara area of ​​the Thummodara area of ​​Colombo-Ratnapura Roadpattaya, traffic congestion was launched out of the bus.
 
-එසේම ඔහුගේ රියදුරු බලපත්‍රය මිට පෙර අවස්ථාවක බීමත්ව රිය  පැදවීමේ වරදට අධිකරණය විසින් මාස 4ක කාලයක් සඳහා අත්හිටුවා තිබියදී රියදුරු විසින් බස් රථය ධාවනය කර ඇත
+The bus and the driver have been arrested by officials of the Embilipitiya Police Station.
+
+A private bus traveling from Colombo to Sooriyawewa has been a 45-year-old Morakeliya resignation.
+
+Also, his driver's license has been driven by the driver, while the judiciary was suspended for a period of 4 months
 
 ◼️
 
 [Data](articles/7e6ef3b7.json)
+
+[Extended Data](ext_articles/7e6ef3b7.ext.json)
 
 ---
 
@@ -2131,19 +2155,5 @@ Meanwhile, the reputation issues the third level of red warnings for Peluvenala,
 [Data](articles/b3ff240d.json)
 
 [Extended Data](ext_articles/b3ff240d.ext.json)
-
----
-
-### Several areas in Colombo inundated...
-
-*2024-06-02 17:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Several-areas-in-Colombo-inundated/110-283913) · `en`
-
-Several areas around Colombo went under water due to heavy rains experienced in the city. Pix by Nisal Baduge
-
-◼️
-
-[Data](articles/cf6f82a6.json)
-
-[Extended Data](ext_articles/cf6f82a6.ext.json)
 
 ---

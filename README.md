@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-03 20:34:10**
+As of **2024-06-03 20:53:22**
 
 ## Newspaper Stats
 
-*Scraped **28,177** Articles*
+*Scraped **28,178** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,604
 dailyftlk | 1,644
 adalk | 2,403
 adaderanalk | 3,208
-tamilmirrorlk | 3,302
+tamilmirrorlk | 3,303
 virakesarilk | 4,342
 dailymirrorlk | 4,463
 adaderanasinhalalk | 4,525
@@ -26,11 +26,27 @@ adaderanasinhalalk | 4,525
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,168 (100.0%) of 28,177 articles have been extended.
+28,177 (100.0%) of 28,178 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-03 (Monday)
+
+### களம் இறங்கினார் ஜனாதிபதி ; அதிகாரிகளுக்கு அதிரடி உத்தரவு
+
+*2024-06-03 20:29:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/களம்-இறங்கினார்-ஜனாதிபதி-அதிகாரிகளுக்கு-அதிரடி-உத்தரவு/175-338375) · `ta`
+
+களனி ஆற்றுப் பள்ளத்தாக்கில் வெள்ளத்தை ஏற்படுத்தும் வகையிலும், மழை நீர் வழிந்தோடுவதைத் தடுக்கும் வகையிலும் மேற்கொள்ளப்படும் புதிய நிர்மாணங்களுக்கு இடமளிக்க வேண்டாம் என ஜனாதிபதி ரணில் விக்ரமசிங்க அதிகாரிகளுக்கு பணிப்புரை விடுத்துள்ளார்.
+
+குறித்த பிரதேசங்களில் சட்டவிரோதமான முறையில் நிலம் நிரப்பப்படுவதை உடனடியாக நிறுத்துவதற்கும் முல்லேரியா மற்றும் IDH வைத்தியசாலைகளை வேறு இடத்திற்கு மாற்றுவதற்கும் நடவடிக்கை எடுக்குமாறு அதிகாரிகளுக்கு ஜனாதிபதி பணிப்புரை விடுத்தார்.
+
+சீரற்ற காலநிலையினால் ஏற்பட்ட வெள்ளம் மற்றும்  அனர்த்தங்களினால் பாதிக்கப்பட்ட மக்களின் நிலைமைகளைக் கண்டறிவதற்காக ஜனாதிபதி ரணில் விக்ரமசிங்க 03 ஆம் திகதி திங்கட்கிழமை கொலன்னாவ, களனி, அம்பத்தளை ஆகிய பிரதேசங்களுக்கு மேற்பார்வை விஜயம் மேற்கொண்டார். கொலன்னாவை சேதாவத்த வெஹெரகொட ரஜமஹா விகாரையில் நடைபெற்ற  கலந்துரையாடலில்  ஜனாதிபதி இந்த அறிவுறுத்தல்களை வழங்கினார்.
+
+...
+
+[Data](articles/b275dc4d.json)
+
+---
 
 ### Foreign train passenger dies after being hit by a tunnel wall
 
@@ -54,19 +70,27 @@ He said that there have been fatal accidents reported earlier when visitors have
 
 [Data](articles/0893b4da.json)
 
+[Extended Data](ext_articles/0893b4da.ext.json)
+
 ---
 
-### මේ දක්වා ආපදා මරණ 16ක්
+### 16 disaster deaths
 
 *2024-06-03 20:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197351) · `si`
 
-දිවයිනට බලපා ඇති අයහපත් කාලගුණික තත්ත්වය හේතුවෙන් මේ වනවිට පුද්ගල මරණ 16ක් වාර්තා වී ඇති බව ආපදා කළමනාකරණ මධ්‍යස්ථානය පවසයි.
+Adverse weather conditions caused 16 deaths and affected 84,749 individuals from 21,353 families, according to the Disaster Management Center.
 
-එම මධ්‍යස්ථානය වැඩිදුරටත් වාර්තා කරන්නේ මේ වනවිට පවුල් 21,353ක පුද්ගලයින් 84,749ක් පීඩාවට පත්ව ඇති බවය.
+🟩
+
+The Disaster Management Center (DMC) says that 16 deaths have been reported due to adverse weather conditions that have affected the island.
+
+The center further reports that 84,749 persons were affected by 21,353 families.
 
 ◼️
 
 [Data](articles/407ab352.json)
+
+[Extended Data](ext_articles/407ab352.ext.json)
 
 ---
 
@@ -84,33 +108,45 @@ The Disaster Management Centre (DMC) confirmed that 16 deaths have been reported
 
 ---
 
-### பாதிக்கப்பட்டோரை நேரில் சென்று பார்வையிட்டார் பிரதமர்
+### The Prime Minister visited the victims
 
 *2024-06-03 20:06:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாதிக்கப்பட்டோரை-நேரில்-சென்று-பார்வையிட்டார்-பிரதமர்/175-338374) · `ta`
 
-கடும் மழை மற்றும் வெள்ளம் காரணமாக பாதிக்கப்பட்ட பல பகுதிகளை பிரதமர் தினேஷ் குணவர்தன இன்று நேரில் சென்று பார்வையிட்டார்.
+Prime Minister Dinesh Gunawardena toured flood-hit regions like Avissawella and Bhuvakpitiya, meeting victims of the heavy rains.
 
-அவிசாவளை, புவக்பிட்டிய உள்ளிட்ட பிரதேசங்களில் மழையினால் பாதிக்கப்பட்ட மக்களை அவர் சந்தித்தார். R
+🟩
+
+Prime Minister Dinesh Gunawardena visited many areas affected by heavy rains and floods today.
+
+He met people affected by rain in areas including Avissawella and Bhuvakpitiya. Remble
 
 ◼️
 
 [Data](articles/bb6f8883.json)
 
+[Extended Data](ext_articles/bb6f8883.ext.json)
+
 ---
 
-### தென்னாபிரிக்காவுக்கெதிராக முதலில் துடுப்பெடுத்தாடும் இலங்கை
+### Sri Lanka is the first to bat first against South Africa
 
 *2024-06-03 20:00:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/தென்னாபிரிக்காவுக்கெதிராக-முதலில்-துடுப்பெடுத்தாடும்-இலங்கை/44-338373) · `ta`
 
-சர்வதேச கிரிக்கெட் சபையின் இருபதுக்கு – 20 உலகக் கிண்ணத் தொடரில், நியு யோர்க்கில் இடம்பெற்ற தென்னாபிரிக்காவுக்கெதிரான குழு டி போட்டியின் நாணயச் சுழற்சியில் வென்ற இலங்கையணித் தலைவர் வனிடு ஹசரங்க, தமதணி முதலில் துடுப்பெடுத்தாடும் என அறிவித்தார்.
+In the ICC T20 World Cup, Sri Lanka, led by Wanindu Hasaranga, chose to bat first against South Africa. The lineup includes notable players like Nissanka, Gunathilaka, and Chamika Mendis among others. South Africa's team features Quinton de Kock, Rassie van der Dussen, and Kagiso Rabada.
 
-இலங்கை: 1. பதும் நிஸங்க, 2. குசல் மென்டிஸ் (விக்கெட் காப்பாளர்), 3. கமிந்து மென்டிஸ், 4. சதீர சமரவிக்கிரம, 5. சரித் அசலங்க, 6. அஞ்சலோ மத்தியூஸ், 7. வனிடு ஹசரங்க (அணித்தலைவர்), 8. தசுன் ஷானக, 9. மகேஷ் தீக்‌ஷன, 10. மதீஷ பத்திரண, 11. நுவான் துஷார.
+🟩
 
-தென்னாபிரிக்கா: 1. குயின்டன் டி கொக் (விக்கெட் காப்பாளர்), 2. றீஸா ஹென்ட்றிக்ஸ், 3. ஏய்டன் மார்க்ரம் (அணித்தலைவர்), 4. ஹென்றிச் கிளாசென், 5. டேவிட் மில்லர், 6. ட்ரிஸ்டன் ஸ்டப்ஸ், 7. மார்கோ ஜன்சன், 8. கேஹவ் மஹராஜ், 9. ககிஸோ றபாடா, 10. அன்றிச் நொர்கியா, 11. ஒட்டெய்ல் பார்ட்மன்.
+In the Twenty20 World Cup series of the International Cricket Board, Sri Lanka's leader Vanidu Hasaranga, who won the Currency cycle of the South Africa team in New York, announced that Damathani would bat first.
+
+Sri Lanka: 1. Nisanga, 2. Gusal Mendis (wicketkeeper), 3. Camundu Mendis, 4. Sadeera Samarawickrama, 5. Sarit Asalanga, 6. Angelo Madus, 7. Vanidu Hasaranga (Team Leader), 8. Dasun Shanaka, 9. Mahesh Deekshana, 10. Madisha Pathrana, 11. Nuwan Dushara.
+
+South Africa: 1. Quinton de Kock (wicketkeeper), 2. Risa Hendrix, 3. Aiden Markram (Team Leader), 4. Henrych Clausen, 5. David Miller, 6. Triston Stubs, 7. Marco Janon, 8. Kahav Maharaj, 9. Kagiso Rabada, 10. Norgia, 11. Ottail Partman.
 
 ◼️
 
 [Data](articles/3c1be61a.json)
+
+[Extended Data](ext_articles/3c1be61a.ext.json)
 
 ---
 
@@ -171,6 +207,8 @@ The runners-up will earn at least $1.28 million, while the losing semi-finalists
 ...
 
 [Data](articles/6a15c895.json)
+
+[Extended Data](ext_articles/6a15c895.ext.json)
 
 ---
 
@@ -466,6 +504,8 @@ A total of six houses were damaged completely and 1,214 houses were partially da
 
 [Data](articles/ff551434.json)
 
+[Extended Data](ext_articles/ff551434.ext.json)
+
 ---
 
 ### People affected by floods
@@ -477,6 +517,8 @@ People in the Biyagama and Gampaha areas were affected due to the ongoing advers
 ◼️
 
 [Data](articles/f789ab3f.json)
+
+[Extended Data](ext_articles/f789ab3f.ext.json)
 
 ---
 
@@ -1008,19 +1050,25 @@ The flooded three-wheeler has been severely damaged, and if the owners have owne
 
 ---
 
-### හෙට සිට වැස්ස අඩුවෙයි
+### Rain falls from tomorrow
 
 *2024-06-03 16:13:17* · [`adalk`](https://www.ada.lk/breaking_news/හෙට-සිට-වැස්ස-අඩුවෙයි/11-409985) · `si`
 
-දිවයිනේ නිරිත දිග කොටසේ පවතින තද වැසි තත්ත්වයේ තාවකාලික අඩුවීමක් හෙට (04දා) දින සිට බලාපොරොත්තුවන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Tomorrow, expect a drop in heavy showers in the southwest but increased activity in the west, central, south, and northwest regions. The rest of the island may see showers or thunderstorms in the evening or night.
 
-කෙසේ වෙතත් බස්නාහිර, සබරගමුව, මධ්‍යම, දකුණු හා වයඹ පළාත්වල වැසි වාර කිහිපයක් ඇති වන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+🟩
 
-දිවයිනේ සෙසු ප්‍රදේශවල සවස් කාලයේ හෝ රාත්‍රී කාලයේ තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+The Department of Meteorology states that a temporary decrease in heavy showers in the southwest part of the island will be held tomorrow (04).
+
+However, the Meteorological Department says that several showers will occur in the Western, Sabaragamuwa, Central, Southern and Northwestern provinces.
+
+Showers or thundershowers will occur at the evening or night in the rest of the island.
 
 ◼️
 
 [Data](articles/6201661a.json)
+
+[Extended Data](ext_articles/6201661a.ext.json)
 
 ---
 
@@ -2159,25 +2207,5 @@ The OIC of the Welikada OIC has obtained a court order against the protesters ag
 [Data](articles/c15cb78c.json)
 
 [Extended Data](ext_articles/c15cb78c.ext.json)
-
----
-
-### Extending school holidays
-
-*2024-06-03 12:30:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாடசாலை-விடுமுறை-நீடிப்பு/175-338347) · `ta`
-
-School holidays in Galle and Matara districts have been extended to Wednesday due to a decision made by the Governor of the Southern Province, Lakshman Yapa Abeywardena, following discussions with educational authorities.
-
-🟩
-
-Holidays for schools have been extended until Wednesday (5). The holidays have been extended for schools in Galle and Matara districts.
-
-The decision was taken during a discussion with the educational authorities by the Governor of the Southern Province Lakshman Yapa Abeywardena.
-
-◼️
-
-[Data](articles/47ef24d3.json)
-
-[Extended Data](ext_articles/47ef24d3.ext.json)
 
 ---

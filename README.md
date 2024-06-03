@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-03 23:18:52**
+As of **2024-06-03 23:35:09**
 
 ## Newspaper Stats
 
-*Scraped **28,188** Articles*
+*Scraped **28,190** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,65 @@ adaderanalk | 3,209
 tamilmirrorlk | 3,304
 virakesarilk | 4,344
 dailymirrorlk | 4,464
-adaderanasinhalalk | 4,527
+adaderanasinhalalk | 4,529
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,188 (100.0%) of 28,188 articles have been extended.
+28,188 (100.0%) of 28,190 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-03 (Monday)
+
+### දකුණු අප්‍රිකාවට සුපිරි ජයක්
+
+*2024-06-03 23:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197355) · `si`
+
+20යි 20 ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ ශ්‍රී ලංකාව සහ දකුණු අප්‍රිකාව  අතර අද (03) පැවැති තරගය කඩුලු 6කින් ජය ගැනීමට දකුණු අප්‍රිකානු කණ්ඩායම සමත් විය.
+
+නිව්යෝක් හි නසාවු ක්‍රීඩාංගණයේ පැවැති එම තරගයේ කාසියේ වාසිය දිනු ශ්‍රී ලංකා නායකයා පළමුවෙන් පන්දුවට පහරදීමට තීරණය කළේය.
+
+ඒ අනුව පිටියට පිවිසි ශ්‍රී ලංකා පිලේ මුල් කඩුලු 6ම ලකුණු 45ක් තුළ දවා ගැනීමට දකුණු අප්‍රිකා පන්දු යවන්නන් සමත්විය.
+
+පැතුම් නිස්සංක ලකුණු 3කට දැවී ගිය අතර කමිඳු මෙන්ඩිස් රැස් කළේ ලකුණු 11ක් පමණි.
+
+නායක වනිඳු හසරංග සහ සදීර සමරවික්‍රම ලකුණු නොලබාම යළි හරවා යවන්නට දකුණු අප්‍රිකානු පන්දු යවන්නන් සමත් විය.
+
+ඇන්ජලෝ මැතිව්ස් සහ දසුන් ශානක 7 වැනි කඩුල්ලට ලකුණු 23ක සබඳතාවක් ගොඩනැගූ අතර මැතිව්ස් ලකුණු 16ක් සහ දසුන් ශානක ලකුණු 9ක් රැස් කළේය.
+
+පිතිකරුවන්ගේ වගකීම් විරහිත පිතිකරණය හේතුවෙන් ශ්‍රී ලංකා කණ්ඩායමට පන්දුවාර 19යි එක් පන්දුවක් අවසානයේ සියලුදෙනා දැවී රැස් කර ගැනීමට හැකි වූයේ ලකුණු 77ක් පමණි.
+
+මෙම ලකුණු සංඛ්‍යාව ශ්‍රී ලංකාව ජාත්‍යන්තර 20යි 20 පිටියේ වාර්තා කළ අඩුම ලකුණු සංඛ්‍යාව ලෙසද වාර්තා අතරට එක් වුණි.
+
+...
+
+[Data](articles/0377448e.json)
+
+---
+
+### ගුණතිලක රාජපක්ෂ රෝහල්ගත කෙරේ
+
+*2024-06-03 22:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197354) · `si`
+
+ආණ්ඩුපක්ෂයේ මන්ත්‍රී කණ්ඩායම් රැස්වීමේදී ඇතිවූ ආරවුලක් හේතුවෙන් පාර්ලිමේන්තු මන්ත්‍රී ගුණතිලක රාජපක්ෂ මහතා තුවාල ලබා රෝහල්ගතකර තිබේ.
+
+අද (03) පස්වරුවේ ජානාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් ආණ්ඩු පක්ෂ මන්ත්‍රී කණ්ඩායම් රැස්වීම ජනාධිපති ලේකම් කාර්යාලයේදී පැවැත්වුණි.
+
+එහිදී මහනුවර දිස්ත්‍රික්කයේ සංවර්ධන වැඩසටහන් සඳහා මුදල් ප්‍රතිපාදන ගැටලුවක් මුලකර ගනිමින් ගුණතිලක රාජපක්ෂ මන්ත්‍රීවරයා සහ මහින්දානන්ද අලුත්ගමගේ මන්ත්‍රීවරයා අතර උණුසුම් වචන හුවමාරුවක් සිදුව තිබේ.
+
+එහිදී පොළොන්නරුව දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී ජගත් සමරවික්‍රම මහතා මැදිහත් වී එම සිදුවීම සමථයකට පත් කර ඇති බව වාර්තා වෙයි.
+
+කෙසේවෙතත් මන්ත්‍රී කණ්ඩාම් රැස්වීම අවසන් වී නික්ම යන අවස්ථාවේ පඩිපෙළ මතදී මහින්දානන්ද අලුත්ගමගේ මන්ත්‍රීවරයා සහ ගුණතිලක රාජපක්ෂ මන්ත්‍රීවරයා අතර යළිත්වරක් බහින් බස්වීමක් සිදුව තිබේ.
+
+එහිදී මහින්දානන්ද අලුත්ගමගේ මන්ත්‍රීවරයා විසින් තල්ලු කිරීමට යාමේදී ගුණතිලක රාජපක්ෂ මන්ත්‍රීවරයා පඩිපෙළේ ඇදවැටී ඇති බව ආරංචි මාර්ග සඳහන් කරයි.
+
+...
+
+[Data](articles/75bebd59.json)
+
+---
 
 ### World Environment Day celebrations in Ratnapura tomorrow cancelled due to disaster situation
 
@@ -2217,53 +2265,5 @@ The five suspects are currently being investigated at the Talaimannar police sta
 [Data](articles/d625a07c.json)
 
 [Extended Data](ext_articles/d625a07c.ext.json)
-
----
-
-### Sri Lanka watching 300 ‘high risk’ trees in the capital Colombo
-
-*2024-06-03 13:05:00* · [`economynextcom`](https://economynext.com/300-of-100000-trees-in-colombo-considered-high-risk-state-minister-165860/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s military and the Civil Defence Force, city authorities are monitoring 300 trees in the capital Colombo, as pouring rain and gusting winds brings down large trees, State Minister for Defense Premitha Bandara Tennakoon said.
-
-Colombo, sometimes known as the Garden City of Asia has beautiful trees, some dating back to the British period and brought from around the world.
-
-“Within the Colombo Municipal Council city limits, there are 100,000 trees. Of these, around 300 are considered high risk,” Tennakoon told reporters at a media conference to raise awareness about the current disaster management situation.
-
-Not all trees required to be cut down he said. “We can trim some of the branches and retain them.”
-
-The problem was that buildings in the vicinity of the tree had cut branches on one side, causing it to become unbalanced, the minister said.
-
-New laws would be brought in so provincial/municipal institutions could strengthen enforcement of building codes.
-
-...
-
-[Data](articles/00a4ad18.json)
-
-[Extended Data](ext_articles/00a4ad18.ext.json)
-
----
-
-### Sri Lanka watching 300 ‘high risk’ trees in the capital Colombo
-
-*2024-06-03 13:05:00* · [`economynextcom`](https://economynext.com/sri-lanka-watching-300-high-risk-trees-in-the-capital-colombo-165860/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s military and the Civil Defence Force, city authorities are monitoring 300 trees in the capital Colombo, as pouring rain and gusting winds brings down large trees, State Minister for Defense Premitha Bandara Tennakoon said.
-
-Colombo, sometimes known as the Garden City of Asia has beautiful trees, some dating back to the British period and brought from around the world.
-
-“Within the Colombo Municipal Council city limits, there are 100,000 trees. Of these, around 300 are considered high risk,” Tennakoon told reporters at a media conference to raise awareness about the current disaster management situation.
-
-Not all trees required to be cut down he said. “We can trim some of the branches and retain them.”
-
-The problem was that buildings in the vicinity of the tree had cut branches on one side, causing it to become unbalanced, the minister said.
-
-New laws would be brought in so provincial/municipal institutions could strengthen enforcement of building codes.
-
-...
-
-[Data](articles/efcb148a.json)
-
-[Extended Data](ext_articles/efcb148a.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-03 12:51:52**
+As of **2024-06-03 13:03:57**
 
 ## Newspaper Stats
 
@@ -26,73 +26,97 @@ adaderanasinhalalk | 4,502
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,053 (99.9%) of 28,068 articles have been extended.
+28,068 (100.0%) of 28,068 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-03 (Monday)
 
-### විරෝධතාකරුවන්ට අධිකරණ නියෝගයක්
+### Court order to protesters
 
 *2024-06-03 12:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197327) · `si`
 
-ජුනි 03 වනදා (අද) සිට ජුනි 06 වනදා දක්වා විරෝධතාකරුවන් පිරිසක් විසින් පොල්දූව වටරවුම අසල විරෝධතා ව්‍යාපාරයක් සහ සත්‍යග්‍රහයක් පැවැත්වීමට ඇති සැලසුමක් සම්බන්ධයෙන් එම විරෝධතාකරුවන්ට එරෙහිව වැලිකඩ පොලිස් ස්ථානාධිපතිවරයා විසින් අධිකරණ නියෝගයක් ලබාගෙන ඇත.
+The OIC of Welikada has secured a court order against protesters planning a demonstration near the 3rd June event site.
+
+🟩
+
+The OIC of the Welikada OIC has obtained a court order against the protesters against the plan to hold a protest in a collaboration and a Sathyagraha by the protesters near the 3 June.
 
 ◼️
 
 [Data](articles/c15cb78c.json)
 
+[Extended Data](ext_articles/c15cb78c.ext.json)
+
 ---
 
-### பாடசாலை விடுமுறை நீடிப்பு
+### Extending school holidays
 
 *2024-06-03 12:30:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாடசாலை-விடுமுறை-நீடிப்பு/175-338347) · `ta`
 
-பாடசாலைகளுக்கான விடுமுறை புதன்கிழமை (5) வரை நீடிக்கப்பட்டுள்ளது. காலி மற்றும் மாத்தறை மாவட்டங்களில் உள்ள பாடசாலைகளுக்கு இவ்வாறு விடுமுறை நீடிக்கப்பட்டுள்ளது.
+School holidays in Galle and Matara districts have been extended to Wednesday due to a decision made by the Governor of the Southern Province, Lakshman Yapa Abeywardena, following discussions with educational authorities.
 
-தென் மாகாண ஆளுநர் லக்ஷ்மன் யாப்பா அபேவர்தனவினால் கல்வி அதிகாரிகளுடனான கலந்துரையாடலின் போதே இந்த தீர்மானம் எடுக்கப்பட்டுள்ளதாகவும் தெரிவிக்கப்படுகின்றது.
+🟩
+
+Holidays for schools have been extended until Wednesday (5). The holidays have been extended for schools in Galle and Matara districts.
+
+The decision was taken during a discussion with the educational authorities by the Governor of the Southern Province Lakshman Yapa Abeywardena.
 
 ◼️
 
 [Data](articles/47ef24d3.json)
 
+[Extended Data](ext_articles/47ef24d3.ext.json)
+
 ---
 
-### පළාත් පාලන ඡන්ද විමසීම කල්දැමීමට එරෙහි පෙත්සම් ගැන දුන් නියෝගය
+### The order to be taken about the petitions against delay in the local government election
 
 *2024-06-03 12:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197326) · `si`
 
-ඉකුත් වසරේ මාර්තු මස 09 වනදා පැවැත්වීමට නියමිතව තිබූ පළාත් පාලන ඡන්ද විමසීම කල්දැමීම තුළින් මහජනතාවගේ මූලික මිනිස් අයිතිවාසිකම් උල්ලංඝනය වී ඇති බවට තීන්දුවක් ලබාදෙන ලෙස ඉල්ලා ගොනුකර තිබෙන පෙත්සම් පිළිබඳ වැඩිදුර විභාගය මේ මස 05 වනදා දක්වා කල්තැබීමට ශ්‍රේෂ්ඨාධිකරණය නියම කළේය.
+The Supreme Court scheduled another hearing for petitions challenging the delay in local government elections, which were initially set for March 9 last year. The case will be heard on February 5, after being postponed from its original date. Petitions were submitted by the United Nations Force, National Zealous Forces, CPA, and PAFFRAL, arguing that the delay violates public basic human rights.
 
-මෙම නඩුව අද (02) විභාගය සඳහා කැඳවනු ලැබූව ද පංච පුද්ගල විනිසුරු මඩුල්ලේ සාමාජික විනිසුරුවරියක් අද දින නිවාඩු ලබා සිටීම හේතුවෙන් එම පෙත්සමේ විභාගය මේ මස 05 වනදා දක්වා කල් තබන බව විනිසුරු මඩුල්ල නියෝග කළේය.
+🟩
 
-සමගි ජන බලවේගය, ජාතික ජන බලවේගය, විකල්ප ප්‍රතිපත්ති කේන්ද්‍රය සහ පැෆ්රල් සංවිධානය විසින් මෙම පෙත්සම් ඉදිරිපත් කර තිබුණි.
+The Supreme Court prescribed the further hearing of the petitions filed by the demanding demanding of the local government election that the public's basic human rights violated to be held on March 9 last year.
 
-පෙත්සම්කරුවන් කියා සිටින්නේ ඉකුත් වසරේ මාර්තු 9 වනදා පැවැත්වීමට නියමිතව තිබූ පළාත් පාලන ඡන්ද විමසීම නියමිත පරිදි එදින නොපැවැත්වීම තුළින් මහජනතාවගේ මූලික මිනිස් අයිතිවාසිකම් උල්ලංඝනය වී ඇති බවට තීන්දුවක් ලබාදෙන ලෙස ඉල්ලා මෙම පෙත්සම් ගොනුකර තිබේ.
+The case was called today (02), the panel of judges to be adjourned on the 5th of this month.
+
+These petitions were presented by the United Nations Force, National Zealous Forces, CPA and PAFFRAL.
+
+The petitioners claim that the local government ballot to be held on March 9 last year, these petitions have been filed by the due date.
 
 ◼️
 
 [Data](articles/2d86b61b.json)
 
+[Extended Data](ext_articles/2d86b61b.ext.json)
+
 ---
 
-### நாய் கோப்பையில் பேத்திக்கு உணவு: பாட்டி கைது
+### Food for granddaughter in dog trophy: Grandma arrested
 
 *2024-06-03 12:25:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாய்-கோப்பையில்-பேத்திக்கு-உணவு-பாட்டி-கைது/175-338346) · `ta`
 
-தனது வீட்டில் வளர்க்கும் செல்லப்பிராணிகளில் ஒன்றான நாய்க்கு உணவு வைக்கும் கோப்பையில் தன்னுடைய பேத்திக்கு, உணவு கொடுத்தார் என்றக் குற்றச்சாட்டின் கீழ், அந்த பேத்தியின் பாட்டி கைது செய்யப்பட்டுள்ளார்.
+A 73-year-old grandmother was arrested for allegedly serving her 14-year-old granddaughter dog food instead of human food. The girl, raised without her parents at a Child Development Center, was visiting her grandmother when the incident occurred. The grandmother also reportedly disturbed the dust and asked the girl to leave the house immediately.
 
-பெற்றோர் இன்மையால் சிறு வயதுமுதல் சிறுவர் அபிவிருத்தி மத்திய நிலையத்தில் வளர்ந்து தற்போது 14 வயது சிறுமியானதன் பின்னர், தன்னுடைய வயோதிப பாட்டியை பார்ப்பதற்காக அச்சிறுமி பாட்டியின் வீட்டுக்கு அண்மையில் சென்றுள்ளார்.
+🟩
 
-வீட்டுக்குச் சென்ற சிறுமிக்கு, தன்னுடைய வீட்டில் வளர்க்கும் நாய்க்கு உணவளிக்கும் கோப்பையில் உணவை போட்டுக்கொடுத்து, சாப்பிடுமாறு அச்சுறுத்தியது மட்டுமன்றி, தூசணத்தால் பாட்டி தூற்றியுள்ளார். அத்துடன் வீட்டை விட்டு உடனடியாக வெளியேறுமாறும் கத்தியுள்ளார்.
+The granddaughter's grandmother has been arrested on charges of feeding her granddaughter in a cup of food for a dog, one of his home -grown pets.
 
-இந்நிலையில், தன்னுடைய 14 வயதான பேத்தியை மானப்பங்கம் படுத்தும் வகையில் செயற்பட்டார் என்றக் குற்றச்சாட்டின் கீழ் 73 வயதான வ​யோதிப பெண்ணை கைது செய்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+Due to the lack of parents, she has grown up at the Child Development Center since she is now 14 -year -old, and has recently visited her grandmother's house to see her elderly grandmother.
 
-இந்த சிறுமிக்கு மூத்த சகோதரி ஒருவர் இருக்கிறார். எனினும், தன்னுடைய பெற்​றோர் தொடர்பில் இவ்விருவருக்கும் எவ்விதமான ஞாபகமும் இல்லை என்பது குறிப்பிடத்தக்கது.
+The girl who went home, not only threatened to eat and eat in the cup of feeding her home -grown dog, but also the Grandmother disrupted the dust.. He also shouted to leave the house immediately.
+
+In this case, police said that a 73 -year -old woman has been arrested on charges of acting as a 14 -year -old granddaughter.
+
+This little girl has a older sister. However, it is noteworthy that the two have no memory of their own people.
 
 ◼️
 
 [Data](articles/ae14c60b.json)
+
+[Extended Data](ext_articles/ae14c60b.ext.json)
 
 ---
 
@@ -108,21 +132,29 @@ Rajapakshe is a physician, who served in the Sri Lanka Army Medical Corps, and a
 
 [Data](articles/9d114093.json)
 
+[Extended Data](ext_articles/9d114093.ext.json)
+
 ---
 
-### පොහොට්ටුවේ ප්‍රබලයෙක් සජබය ට
+### A profit of the pointer
 
 *2024-06-03 12:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197325) · `si`
 
-ශ්‍රී ලංකා පොදුජන පෙරමුණේ අම්පාර දිස්ත්‍රික් මන්ත්‍රී වෛද්‍ය තිලක් රාජපක්ෂ මහතා සමගි ජන බලවේගය සමග එක්වී තිබේ.
+Dr. Thilak Rajapaksa, Ampara District MP, contributes to reconciliation efforts. With a background in the Sri Lanka Army Medical Corps and leadership roles in health services, he aims to bridge divides through his work.
 
-ඒ මහතා සිය උසස් අධ්‍යාපනයෙන් අනතුරුව ශ්‍රී ලංකා යුද හමුදා වෛද්‍ය බළකායේ සේවය කර ඇත.
+🟩
 
-ඔහු අඹගහවැල්ල ප්‍රාදේශීය රෝහලේ සහ අම්පාර සෞඛ්‍ය නිලධාරී කාර්යාලයේ ප්‍රධානියා සහ අම්පාර ප්‍රාදේශීය සෞඛ්‍ය සේවා කාර්යාලයේ අධ්‍යක්ෂවරයා ලෙස ද සේවය කර තිබේ.
+The Ampara District MP Thilak Rajapaksa has joined the reconciliation of the Ampara District MP Dr. Thilak Rajapaksa.
+
+He served in the Sri Lanka Army Medical Corps after his higher education.
+
+He has also served as the Director of Ambagahawella Regional Hospital and the Director of the Office of the Ampara Health Officer of Ampara and the Director of Ampara Regional Health Services Office.
 
 ◼️
 
 [Data](articles/eee924b7.json)
+
+[Extended Data](ext_articles/eee924b7.ext.json)
 
 ---
 
@@ -142,33 +174,47 @@ Accordingly, the case was ordered to be recalled on July 13, granting time for t
 
 [Data](articles/df144d00.json)
 
+[Extended Data](ext_articles/df144d00.ext.json)
+
 ---
 
-### வரலாறு
+### History
 
 *2024-06-03 12:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/185186) · `ta`
 
-பூமியிலிருந்து நாம் சூரிய உதயம், சந்திர உதயத்தை காண்கிறோம். ஆனால், 1969ஆம் ஆண்டில் அமெரிக்க விண்வெளி வீரர்கள் அப்பலோ 10 விண்கலத்தின் மூலம் சந்திரனுக்கு அருகில் சென்று, அங்கிருந்தவாறு பூமி உதயமாகும் காட்சியை கண்டு, அதை புகைப்படம் எடுத்திருக்கிறார்கள்.
+In 1969, American astronauts aboard the Apollo spacecraft witnessed Earth rise from the moon, capturing its beauty. This historic event coincided with June 3, the same day the Weerakesari magazine featured articles about space exploration, highlighting the connection between humanity's achievements in space and our appreciation of Earth's beauty.
 
-1969ஆம் ஆண்டில் இதே திகதியில் (ஜூன் 3) வெளியான வீரகேசரி பத்திரிகையை இந்த ரம்மியமான பூமி உதயக் காட்சி அலங்கரித்திருப்பதை இங்கே காணலாம்.
+🟩
+
+From the earth we see the sunrise, the lunar dawn. But in 1969, American astronauts went to the moon through the Apollo spacecraft and saw the earth rising and photographed it.
+
+Here you can see that this rustic earth is decorated with the Weerakesari magazine published on the same date (June 3) in 1969.
 
 ◼️
 
 [Data](articles/ae6b092c.json)
 
+[Extended Data](ext_articles/ae6b092c.ext.json)
+
 ---
 
-### දිස්ත්‍රික්ක දෙකක පාසල් හෙට සහ අනිද්දා නිවාඩු
+### Two districts of two districts tomorrow and tomorrow
 
 *2024-06-03 12:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197324) · `si`
 
-පවතින ආපදා තත්ත්වය හේතුවෙන් හෙට (04) සහ අනිද්දා (05) යන දෙදින ගාල්ල හා මාතර දිස්ත්‍රික්කවල සියලු පාසල් නිවාඩු ලබාදීමට තීරණය කර තිබේ.
+Governor Lakshman Yapa Abeywardena, after a meeting with Educational Authorities, announced that due to ongoing disasters, schools in Galle and Matara Districts will be closed tomorrow (04).
 
-දකුණු පළාත් ආණ්ඩුකාර ලක්ෂ්මන් යාපා අබේවර්ධන මහතා විසින් අධ්‍යාපන බලධාරීන් සමග පැවති සාකච්ඡාවක දී මෙම තීරණය ගෙන ඇත.
+🟩
+
+Due to the prevailing disaster, he has decided to grant all school leave in the Galle and Matara Districts tomorrow (04) and tomorrow.
+
+The decision was taken at a meeting with the Educational Authorities by Governor Lakshman Yapa Abeywardena.
 
 ◼️
 
 [Data](articles/00aa8c10.json)
+
+[Extended Data](ext_articles/00aa8c10.ext.json)
 
 ---
 
@@ -358,25 +404,31 @@ The judge also ordered the extension of the invisory order.
 
 ---
 
-### நாட்டின் வெவ்வேறு பகுதிகளில் இடம்பெற்ற விபத்துகளில் 4 பேர் பலி
+### Four people killed in accidents in different parts of the country
 
 *2024-06-03 11:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/185168) · `ta`
 
-நாட்டின் வெவ்வேறு பகுதிகளில் நேற்று ஞாயிற்றுக்கிழமை (03) இடம்பெற்ற வாகன விபத்துக்களில் 19 வயதுடைய இளைஞர் உள்ளிட்ட நால்வர் உயிரிழந்துள்ளதாக பொலிஸ் ஊடகப்பிரிவு தெரிவித்துள்ளது.
+In separate incidents across the country, four fatalities occurred: a 19-year-old among them. Two three-wheelers collided with walls and cars, while a motorcycle hit pedestrians. Victims ranged in age from 42 to 54.
 
-அதன்படி, நேற்றைய தினம் (2 ) காலை மஹாபாகே 20ஆம் கட்டை கிளை வீதியில் தப்பஹெனாவத்தை நோக்கிச் சென்ற முச்சக்கரவண்டி ஒன்று வீதியை விட்டு விலகி சுவரில் மோதி விபத்துக்குள்ளானது.
+🟩
 
-இதேவேளை, நேற்று மாலை கொட்டாவ - அத்துருகிரிய வீதியில் மெண்டிஸ் வளைவுக்கு அருகில் அத்துருகிரியவில் இருந்து கொட்டாவ நோக்கிப் பயணித்த முச்சக்கரவண்டி ஒன்று, எதிர்த்திசையில் வந்த காருடன் மோதி விபத்துக்குள்ளானது.
+Four people, including a 19 -year -old youth, died in vehicle accidents that occurred on Sunday (03) in different parts of the country, police said.
 
-இதன்போது, காயமடைந்த முச்சக்கரவண்டியின் சாரதியும், அதில் பயணித்த மூவரும், காரின் சாரதியும்  ஹோமாகம வைத்தியசாலையில் அனுமதிக்கப்பட்டனர்.
+Accordingly, yesterday morning (2), a three -wheeler crashed into the wall and crashed into the wall of Mahabhake 20th Branch Road.
 
-உயிரிழந்தவர்கள் 42 மற்றும் 54 வயதுடைய ஹிக்கடுவ மற்றும் ஹப்புத்தளை பிரதேசத்தைச் சேர்ந்தவர்களாவார்.
+Meanwhile, a three -wheeler traveling from Kottawa to Kottawa near the Mendis curve on the Kottawa -Athurugiriya road yesterday evening crashed into a car in the opposite direction.
 
-மேலும், கொழும்பு - கண்டி வீதியில் நிட்டம்புவ முருதாவெல சந்திக்கு அருகில் கொழும்பில் இருந்து கண்டி நோக்கி பயணித்த மோட்டார் சைக்கிள் ஒன்று நேற்று இரவு பாதசாரிகள் மீது மோதியுள்ளது.
+The driver of the wounded three -wheeler, the trio and the driver of the car were admitted to the Homagama Hospital.
+
+The victims are from Hikkaduwa and Haputale, aged 42 and 54.
+
+Also, a motorcycle traveling from Colombo to Kandy near the Nitambuwa Murudaveli junction on the Colombo -Kandy road has crashed into pedestrians last night.
 
 ◼️
 
 [Data](articles/49aa8ac0.json)
+
+[Extended Data](ext_articles/49aa8ac0.ext.json)
 
 ---
 
@@ -444,35 +496,47 @@ There are six children at Australia born in Australia.
 
 ---
 
-### தெற்கு அதிவேக வீதியின் கடுவலை - பியகம இடைமாற்றம் தற்காலிகமாக மூடல்
+### Southern Expressway
 
 *2024-06-03 11:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/185165) · `ta`
 
-தெற்கு அதிவேக வீதியில் கடுவலை - பியகம இடைமாற்றத்தின் கடவத்தை வரையான பகுதி மறு அறிவித்தல் வரை மூடப்பட்டுள்ளதாக வீதி அபிவிருத்தி அதிகார சபை தெரிவித்துள்ளது.
+The Southern Expressway's Kaduwela-Biyagama section is closed due to rising Kelani River waters, blocking entry and exit for vehicles between Kadawatha and Matara. The Road Development Authority will provide further updates.
 
-களனி ஆற்றின் நீர் மட்டம் அதிகரிப்பதன் காரணமாக இந்த இடமாற்றப் பாதை முற்றாக மூடப்பட்டுள்ளதாக வீதி அபிவிருத்தி அதிகார சபை மேலும் தெரிவித்துள்ளது.
+🟩
 
-இதன் காரணமாக கடுவலையிலிருந்து மாத்தறை நோக்கி வாகனங்கள் உட்செல்லவும் வெளியேறவும் முடியாத நிலை காணப்படுகின்றது.
+The Road Development Authority has said that the area of ​​Kaduwela - Biyagama intermediate on the Southern Expressway has been closed until the re -notification.
 
-மேலும், கடவத்தையிலிருந்து கடுவலை நோக்கி வாகனங்கள் உட்செல்லவும் வெளியேறவும் முடியாத நிலை காணப்படுவதாக வீதி அபிவிருத்தி அதிகார சபை தெரிவித்துள்ளது.
+The Road Development Authority further stated that the relocation route has been completely closed due to the increase in the water level of the Kelani River.
+
+As a result, vehicles are unable to get and exit from Kaduwa to Matara.
+
+The Road Development Authority has said that vehicles are unable to get out and exit from Kadawatha.
 
 ◼️
 
 [Data](articles/bd37b244.json)
 
+[Extended Data](ext_articles/bd37b244.ext.json)
+
 ---
 
-### இழுத்தடிக்கப்படும் கண்டி பல்வகை போக்குவரத்து  முனைய திட்டம் : அசௌகரியத்தில் பொது மக்கள்
+### Pulling Kandy Multi -Traffic Terminal Project: People in discomfort
 
 *2024-06-03 11:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/185175) · `ta`
 
-இலங்கையில் மலைநாட்டின் தலைநகரான கண்டி, போக்குவரத்து நெரிசல் மிகுந்த நகரமாக அடையாளம் காணப்பட்டுள்ளது. கடுமையான போக்குவரத்து நெரிசல் காரணமாக மாலையில் நகரத்திற்குள் நுழைவதற்கும் வெளியேறுவதற்கும் ஒரு மணி நேரத்திற்கும் மேலாகிறது என்று ஆய்வுகள் சுட்டிக்காட்டுகின்றன. இலங்கையில் உள்நாட்டு யுத்தம் நிலவிய கால கட்டத்தில் இந்த பிரச்சினைக்கு தீர்வு காண்பதில் கவனம் செலுத்துவது மட்டுப்படுத்தப்பட்டிருக்கலாம்.
+Kandy, Sri Lanka's capital, faces significant traffic congestion, with studies showing over 50% of its population relying on public transport. A multimodal transport terminal project, aimed at easing this issue, began in 2015 with World Bank funding. However, delays due to political and economic crises have hindered progress, causing inconvenience for locals and tourists alike. Despite initial promises of completion by early 2022, as of May 2023, only 25% of the work has been done, with no clear end date. The project, expected to cost around $300 million, aims to improve public transportation coordination and reduce vehicle regulations in Kandy, but ongoing delays have led to widespread discontent among the affected population.
 
-ஆனாலும் 2011இல், மொரட்டுவ மற்றும் பேராதனைப் பல்கலைக்கழகங்களினால் முன்னெடுக்கப்பட்ட ஆய்வொன்றில் கண்டி நகரத்துக்கு சராசரியாக வார நாட்களில் சுமார் 365 000 பயணிகள் (ரயில் பயணிகள் தவிர்த்து) வருகை தருவதும் மற்றும் வெளியேறுவதும் இனங்காணப்பட்டுள்ளது. இவர்களில் 55 சதவீதமானோர் பொதுப் போக்குவரத்து சேவைகளையே பெருமளவில் பயன்படுத்துகின்றனர்.
+🟩
+
+Kandy, the capital of the hill country in Sri Lanka, has been identified as a crowded city. Studies indicate that it takes more than an hour to enter and leave the city in the evening due to heavy traffic congestion. It may be limited to focusing on solving this problem during the period of civil war in Sri Lanka.
+
+However, in 2011, a study conducted by the Universities of Moratuwa and Peradeniya revealed that about 365 000 passengers (excluding train passengers) on an average week of Kandy city on an average of 365 000 passengers.. 55 percent of them use public transport services.
 
 ...
 
 [Data](articles/ebd4f29f.json)
+
+[Extended Data](ext_articles/ebd4f29f.ext.json)
 
 ---
 
@@ -496,21 +560,29 @@ Indian media reports that the Criminal Investigation Department has arrested the
 
 ---
 
-### தேர்தல்களை பிற்போடுவதற்கான முயற்சிகள் - எதிர்ப்பு தெரிவித்து ஐநா அலுவலகத்திடம் சிவில் சமூகம் கடிதம்
+### Civil community letter to UN Office
 
 *2024-06-03 10:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/185179) · `ta`
 
-தேர்தல்களை பிற்போடுவதற்கான அரசாங்கத்தின் முயற்சிகளுக்கு எதிர்ப்பு தெரிவித்து சிவில் சமூகத்தை சேர்ந்தவர்கள் கொழும்பிலுள்ள ஐக்கிய நாடுகள் அலுவலகத்திடம் கடிதமொன்றை கையளித்துள்ளனர்.
+Civil society groups, including the United National Party, delivered a letter to the UN Office in Colombo protesting the government's electoral regulations. The letter criticizes the postponement of parliamentary presidential elections as undemocratic, expressing widespread dissatisfaction among Sri Lankans. They urge international bodies like the UN and foreign embassies to pressure the UNP's general secretary to safeguard democracy and prevent future crises.
 
-நாடாளுமன்ற ஜனாதிபதி தேர்தலை ஒத்திவைப்பது தொடர்பில் சர்வஜனவாக்கெடுப்பை நடத்துவது குறித்து ஐக்கிய தேசிய கட்சியின் பொதுச்செயலாளர் பாலித ரங்க பண்டார தெரிவித்துள்ளதை தங்கள் கடிதத்தில் சுட்டிக்காட்டியுள்ள சிவில்சமூக பிரதிநிதிகள் பாலித ரங்க பண்டாரவின் கருத்தினை  ஜனநாயக விரோத கருத்து என குறிப்பிட்டுள்ளனர்.
+🟩
 
-மக்கள் போராட்ட பிரஜைகள் அமைப்பு தேசிய சிவில் அமைப்புகளின் முன்னணி மின்சார பாவனையாளர்கள் சங்கம் உட்பட பல அமைப்புகள் இணைந்து இந்த கடிதத்தை இலங்கைக்கான ஐக்கியநாடுகளின் அலுவலகத்திடம் கையளித்துள்ளனர்.
+Civil community members have handed over a letter to the United Nations Office in Colombo to protest the government's efforts to regulate the elections.
 
-மே 28ம் திகதி ஐக்கிய தேசிய கட்சியின் பொதுச்செயலாளர் வெளியிட்டுள்ள கருத்துக்கள் இலங்கை மக்களின் மத்தியில் கடும் அதிருப்தியை ஏற்படுத்தியுள்ளதாக தங்கள் கடிதத்தில் தெரிவித்துள்ள சிவில் சமூக பிரதிநிதிகள் இதன் காரணமாக சமூகத்தில் மிகவும் முரணாண நிலை தோன்றியுள்ளது எனவும் குறிப்பிட்டுள்ளனர்.
+In their letter, the United National Party (UNP) general secretary Palitha Ranga Bandara has stated that Palitha Ranga Bandara's view of Palitha Ranga Bandara is an anti -democratic opinion on the postponement of the parliamentary presidential election.
+
+The letter has been handed over to the United Nations Office of Sri Lanka, including a number of organizations, including the National Civil Organization's Leading Electricity Consumer Association of the National Civil Organization.
+
+In their letter, civil society representatives said that the comments made by the General Secretary of the United National Party on May 28 have caused great dissatisfaction among the people of Sri Lanka.
+
+They have stated that the UNP secretary's secretary is very serious to the people waiting for elections.
 
 ...
 
 [Data](articles/6d052c1a.json)
+
+[Extended Data](ext_articles/6d052c1a.ext.json)
 
 ---
 
@@ -688,37 +760,51 @@ So far, police has arrested 26 persons — 16 agents, 6 policemen, an employee o
 
 ---
 
-### வெலிபென்ன இடைமாறும் பகுதி வழமைக்கு திரும்பியது
+### Welibenna interrupted area turned to usual
 
 *2024-06-03 10:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/185173) · `ta`
 
-தெற்கு அதிவேக வீதியில் வெள்ளம் காரணமாக மூடப்பட்டிருந்த மூடப்பட்டிருந்த வெலிபென்ன  இடைமாறும் பகுதி மீண்டும்திறக்கப்பட்டுள்ளதாக வீதி அபிவிருத்தி அதிகாரசபை தெரிவித்துள்ளது.
+The Welipenna section of the Southern Expressway, previously closed due to flooding, has been reopened.
+
+🟩
+
+The Road Development Authority said that the Welipenna interruption area, which had been closed due to floods on the Southern Expressway, has been restored.
 
 ◼️
 
 [Data](articles/97739ed7.json)
 
+[Extended Data](ext_articles/97739ed7.ext.json)
+
 ---
 
-### அரகலயவின் போது பின்வாங்கிய அரசியல்வாதிகள் மீண்டும் தலைதூக்குகின்றனர் - அனுரகுமார
+### Politicians retreated during the Arakalaya - Anuragumara
 
 *2024-06-03 10:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/185170) · `ta`
 
-அரகலயவின் போது பின்வாங்கிய அரசியல்வாதிகள் தற்போது மீண்டும் தலைதூக்குகின்றனர் என ஜேவிபியின் தலைவர் அனுரகுமாரதிசநாயக்க தெரிவித்துள்ளார்.
+During the Arakalaya, politicians retreated but have since returned, according to JVP leader Anuragumaratisanayake. He criticized them for not learning from the event and instead insulting it. He highlighted the importance of a government that meets the aspirations of the people, emphasizing the need for a country free from corruption and fraud.
 
-குருநாகலில் இடம்பெற்ற தேசிய மக்கள் சக்தியின் மாநாட்டில் உரையாற்றுகையில் அவர் இதனை தெரிவித்துள்ளார்.
+🟩
 
-அரகலயவின் பின்னர்  பின்வாங்கிய ஊழல் ரவுடி அரசியல்வாதிகள் மீண்டும் தலைதூக்க தொடங்கியுள்ளனர் என தெரிவித்துள்ள அவர் அரகலயவின் உண்மையான அபிலாசைகள் நிiவேற்றப்படவேண்டும் என்றால் மக்கள் எழுச்சியின் உண்மையான நோக்கங்களை நிறைவேற்றும் அரசாங்கத்தினை ஏற்படுத்தவேண்டும் என குறிப்பிட்டுள்ளார்.
+JVP leader Anuragumaratisanayake said that politicians who retreated during the Arakalaya are now backing up.
 
-2022 மக்கள் எழுச்சியின் உண்மையான அபிலாசைகளை உறுதிசெய்யக்கூடிய அரசாங்கம் தேசிய மக்கள் சக்தி அரசாங்கமே எனவும் அவர் தெரிவித்துள்ளார்.
+He was speaking at the National People's Power Conference held in Kurunegala.
 
-அரசியல்வாதிகள் இன்னமும் அரகலயவிலிருந்து பாடங்களை கற்கவில்லை மாறாக அதனை அவமானப்படுத்தும் நோக்கத்துடன் செயற்படுகின்றனர் எனவும் ஜேவிபி தலைவர் குறிப்பிட்டுள்ளார்.
+He said that the Rowdy politicians who retreated after the Arakalaya had begun to reappear, "he said.
 
-மக்கள் குறிப்பாக இளைஞர்கள் எந்தவொரு அரசியல்கட்சியுடனும் தங்களை அடையாளப்படுத்தாமல் பொதுவான அபிலாசைகளிற்காக வீதியில் இறங்கினார்கள் எனவும் அனுரகுமாரதிசநாயக்க தெரிவித்துள்ளார்.
+He said the government that could ensure the true aspirations of the 2022 people's uprising is the national people's power government.
 
-...
+The JVP leader noted that politicians still do not learn the lessons from the Arakalaya but also insult it.
+
+Anurakumaratisanayake said that the people, especially the youth, took to the streets for common aspirations without identifying themselves with any political party.
+
+He said that people are expecting a country where corruption and fraudulent morality and fraud.
+
+◼️
 
 [Data](articles/c022d3db.json)
+
+[Extended Data](ext_articles/c022d3db.ext.json)
 
 ---
 

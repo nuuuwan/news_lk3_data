@@ -1,36 +1,50 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-03 17:55:02**
+As of **2024-06-03 18:13:51**
 
 ## Newspaper Stats
 
-*Scraped **28,136** Articles*
+*Scraped **28,140** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 256
 dbsjeyarajcom | 270
-bbccomsinhala | 276
+bbccomsinhala | 277
 newsfirstlk | 363
-islandlk | 1,519
+islandlk | 1,520
 economynextcom | 1,597
 dailyftlk | 1,644
-adalk | 2,399
+adalk | 2,400
 adaderanalk | 3,204
 tamilmirrorlk | 3,298
 virakesarilk | 4,335
-dailymirrorlk | 4,458
+dailymirrorlk | 4,459
 adaderanasinhalalk | 4,517
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,119 (99.9%) of 28,136 articles have been extended.
+28,136 (100.0%) of 28,140 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-03 (Monday)
+
+### Two more missing persons found; total deaths increase to 16
+
+*2024-06-03 17:37:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Two-more-missing-persons-found-total-deaths-increase-to-16/108-284002) · `en`
+
+Colombo, June 3 (Daily Mirror) - The recovery of two bodies of persons reported missing from the Tawalama area in Galle yesterday (03) due to floods, brings the total casualties from the ongoing adverse weather conditions across the island to 16, the Disaster Management Centre (DMC) said.
+
+The DMC has identified the two deceased as males, aged 53 and 23 years.
+
+◼️
+
+[Data](articles/0bb05997.json)
+
+---
 
 ### Two more missing persons found; total deaths increase to 14
 
@@ -43,6 +57,8 @@ The DMC has identified the two deceased as males, aged 53 and 23 years.
 ◼️
 
 [Data](articles/8eafa50d.json)
+
+[Extended Data](ext_articles/8eafa50d.ext.json)
 
 ---
 
@@ -61,6 +77,8 @@ Therefore, a decision has been taken to provide drinking water from the Kalatuwa
 ◼️
 
 [Data](articles/6025e316.json)
+
+[Extended Data](ext_articles/6025e316.ext.json)
 
 ---
 
@@ -84,27 +102,35 @@ Budapest, which staged last year’s World Championship, will host the inaugural
 
 [Data](articles/5eff0c1e.json)
 
+[Extended Data](ext_articles/5eff0c1e.ext.json)
+
 ---
 
-### වැඩිවන මහා ගංවතුරේ නවතම නිවේදනය එළියට
+### Outstanding the latest announcement of the rise
 
 *2024-06-03 17:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197343) · `si`
 
-ගංවතුර තත්ත්වය පිළිබඳව නවතම නිවේදනය වාරිමාර්ග දෙපාර්තමේන්තුව විසින් නිකුත් කර තිබේ.
+The Department of Irrigation announced significant flooding in the Kalu Ganga Puwatha, Ellagawa, and Milkanda areas, with further growth expected. The Nilawa River also experienced increased flooding in Talgahagoda. However, there was a slight decrease in the Attanagalu Oya levels.
 
-එහි දැක්වෙන්නේ කළු ගඟ පුටුපාවුල සහ ඇල්ලගාව ප්‍රදේශයෙනුත් කුඩා ගඟ මිල්ලකන්ද ප්‍රදේශයෙනුත් තවදුරටත් මහා ගංවතුර තත්ත්වයක් පවතින බවය.
+🟩
 
-එසේම මෙම ගංවතුර තත්ත්වයේ වර්ධනයක් තවදුරටත් සිදුවන බව එම නිවේදනයේ දැක්වෙයි.
+The Department of Irrigation has issued the latest statement on flooding.
 
-මේ අතර නිලවලා ගඟ තල්ගහගොඩ ප්‍රදේශයෙන් තවදුරටත් මහා ගංවතුර තත්ත්වයක් පවතින අතර එයද වර්ධනය වෙමින් පවතින බව එහි දැක්වෙයි.
+It states that the Kalu Ganga Puwatha and Ellagawa is a large flood further in the Milkanda area.
 
-එසේම අත්තනගලු ඔය තවදුරටත් මහා ගංවතුර තත්ත්වයක් පැවතිය ද එහි සුළු අඩුවීමක් පෙන්නුම් කරන බව වාරිමාර්ග දෙපාර්තමේන්තුව පවසයි.
+The announcement also states that this flood grow will be further.
 
-අද පස්වරු 3.30ට වාරිමාර්ග දෙපාර්තමේන්තුව නිකුත් කළ කැලණි, කළු, ගිං, නිල්වලා, මහඔය. අත්තනගලු ඔය ආශ්‍රිත ගංවතුර තත්ත්වයේ නවතම නිවේදනය පහතින්.
+Meanwhile, the Nilawa River has further floods in Talgahagoda and it is also growing.
+
+The Department of Irrigation says that the Attanagalu Oya continues to show a small decrease.
+
+The Department of Irrigation, Kalu, Gin, Nilwala, Mahaoya, released at 3.30 this pm. The latest announcement is the latest announcement of the floods in the Attanagalu Oya.
 
 ◼️
 
 [Data](articles/7bd74e09.json)
+
+[Extended Data](ext_articles/7bd74e09.ext.json)
 
 ---
 
@@ -122,23 +148,31 @@ This brings the tally of casualties reported due to the prevailing adverse weath
 
 [Data](articles/7a6d284f.json)
 
+[Extended Data](ext_articles/7a6d284f.ext.json)
+
 ---
 
-### මහ වැස්ස ගැන අලුත්ම ආරංචියක්
+### Latest news on Maha rains
 
 *2024-06-03 17:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197342) · `si`
 
-දිවයිනේ නිරිතදිග කොටසේ පවතින තද වැසි තත්ත්වයේ තාවකාලික අඩුවීමක් හෙට (04) සිට බලාපොරොත්තු වනබව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Expect a temporary reduction in heavy rains in the southwest of Sri Lanka tomorrow, with showers forecasted for several provinces. The Department of Meteorology advises caution against wind and lightning risks during thunderstorms.
 
-එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, බස්නාහිර, සබරගමුව, මධ්‍යම, දකුණ සහ වයඹ පළාත්වල වැසි වාර කිහිපයක් ඇතිවිය හැකි බවය.
+🟩
 
-දිවයිනේ සෙසු ප්‍රදේශවල සවස් කාලයේ හෝ රාත්‍රී කාලයේ තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැක.
+The Department of Meteorology says that a temporary decrease in the heavy rains of the island's southwestern part of the island is expected tomorrow (04).
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවට දැනුම් දී තිබේ.
+Several spells of showers in the Western, Sabaragamuwa, Central, Southern and Northwestern provinces.
+
+Showers or thundershowers will occur at the evening or night in the rest of the island.
+
+The Department of Meteorology has informed the people to take necessary steps to reduce temporary winds and lightning accidents due to thunderstorms.
 
 ◼️
 
 [Data](articles/10f30483.json)
+
+[Extended Data](ext_articles/10f30483.ext.json)
 
 ---
 
@@ -156,65 +190,91 @@ Originally scheduled to begin on June 06, evaluation activities of G.C.E. Ordina
 
 [Data](articles/e14c792b.json)
 
+[Extended Data](ext_articles/e14c792b.ext.json)
+
 ---
 
-### පොහොට්ටුවේ තිලක් රාජපක්ෂ සජිත්ගේ වේදිකාවට
+### Thilak Rajapakse's stage on Pohon
 
 *2024-06-03 16:58:10* · [`adalk`](https://www.ada.lk/breaking_news/පොහොට්ටුවේ-තිලක්-රාජපක්ෂ-සජිත්ගේ-වේදිකාවට/11-409991) · `si`
 
-දිගාමඩුල්ල දිස්ත්‍රික් ශ්‍රී ලංකා පොදුජන පෙරමුණුු පාර්ලිමේන්තු මන්ත්‍රී තිලක් රාජපක්ෂ අද  (03)උදේ අම්පාර මහඔය බොරපොල විද්‍යාලයේ  පැවැති විපක්ෂ නායක සජිත් ප්‍රේමදාසගේ සක්වල වැඩසටහන වේදිකාවට ගොඩ වී ඇත.
+Thilak Rajapakse, an opposition leader from Sri Lanka, spoke about the importance of reconciliation and unity during his visit to Padiyathala College in the Ampara District. He emphasized the need for understanding and healing among different communities, highlighting the significance of education in fostering this process.
 
-වේදිකාවට ගොඩ වී කතා කරත් නිල හෝ නොනිල වශයෙන් සමගි ජන බලවේගය සමග එක්වූ බවක් ඔහු ප්‍රකාශ කර නොතිබිනි.
+🟩
 
-පහල ඡයාරූපයේ දැක් වෙන්නේ විපක්ෂ නායක සජිත් පෙු්මදාස  සමග  අම්පාර දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී තිලක් රාජපක්ෂ  පදියතලාවේ  ගල්ඕඩේ විද්‍යාලයේ අද (03) පැවති සක්වල වැඩසටහනට පෙරහැරින් පැමි⁣ණෙන ආකාරයයි.
+Sri Lanka Knowledge of the Sri Lanka Pubaitu Sarage of Maha Bopola
+
+He had not said that he had to board and talked to the platform and joined the reconciliation of unhealth.
+
+Powers Picture The opposition leader Sajith Pasathalawa Padiyathala College, Ampara District MP Thilak Rajapakse was published in Padiyatuge, Padiyathala College.
 
 ◼️
 
 [Data](articles/15fd1615.json)
 
+[Extended Data](ext_articles/15fd1615.ext.json)
+
 ---
 
-### තවලමදී සැඩපහරට හසුවූ දෙදෙනාගේ සිරුරු හමුවෙයි
+### Bodies found in the Harmal
 
 *2024-06-03 16:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197341) · `si`
 
-තවලම ප්‍රදේශයේ ගංවතුරට හසුවී අතුරුදන් ව සිටි පුද්ගලයින් දෙදෙනාගේ සිරුරු හමුවී තිබේ.
+Two missing individuals, aged 23 and 53, were discovered in the Thawalama region.
 
-මෙලෙස මියගොස් ඇත්තේ වයස අවුරුදු 23ක සහ 53 හැවිරිදි වියේ පසුවන පුද්ගලයෙකි.
+🟩
+
+The bodies of the two persons who were disappeared have been found in the Thawalama area.
+
+The victim was a 23 year old and 53 year old.
 
 ◼️
 
 [Data](articles/5521ac25.json)
 
+[Extended Data](ext_articles/5521ac25.ext.json)
+
 ---
 
-### උඩරට දුම්රියක් පීලි පනියි
+### Upcountry train derails
 
 *2024-06-03 16:44:50* · [`adalk`](https://www.ada.lk/breaking_news/උඩරට-දුම්රියක්-පීලි-පනියි/11-409989) · `si`
 
-අද  (03) සවස පීලි  පැණීමට ලක්ව ඇති  බව නාවලපිටිය දුම්රිය පාලක මැදිරිය පවසයි.කොළඹ කොටුවේ   සිට බදුල්ල   බලා ධාවනය වු අංක හත දරණ මගී දුම්රිය මෙසේ  පීලි පැනීමට ලක්ව ඇතැයි දුම්රිය පාලක මැදිරිය සඳහන් කරයි.
+A train derailment occurred on the Colombo Fort to Badulla route, stopping services between Kotagala and Colombo Fort. Railway employees are handling the situation.
 
-මේ හේතුවෙන් උඩරට දුම්රිය මාර්ගයේ  දුම්රිය ධාවනයට බාධා එල්ල වී පැවැතිණි.බදුල්ලේ සිට කොළඹ කොටුව බලා ධාවනය වු අංක අට දරණ මගී දුම්රිය පීලි පැනීමට ලක් වු දුම්රි මැදිරි  පීලි  ගත කිරීමේ කටයුතු සිදු කොට අවසන් වන තෙක්  කොටගල දුම්රිය ස්ථානයේ නවතා තැබීමට පියවර ගෙන ඇති බවත්,  පීලි පැනීමට ලක් වු දුම්රිය මැදිරි පීලි ගත කිරීමේ කටයුතු දුම්රිය සේවකයන් විසින් සිදු කිරීමට පියවර ගෙන ඇති   බවද  නාවලපිටිය දුම්රිය පාලක මැදිරිය වැඩිදුරටත් සඳහන් කරයි.
+🟩
+
+The Railway Control Room states that the delegation of number seven runs from the Colombo Fort to Badulla has been derailed since the evening.
+
+As a result, the tracks have been stopped at the Kotagala station to the Colombo Fort to the Colombo Fort to Colombo Fort.The Railway Control Room added that the railway carriages have been carried out by the Railway Employees.
 
 ◼️
 
 [Data](articles/82ba6ca0.json)
 
+[Extended Data](ext_articles/82ba6ca0.ext.json)
+
 ---
 
-### දුම්රියක් පීලි පනී
+### A train jumps derails
 
 *2024-06-03 16:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197340) · `si`
 
-දුම්රියක් පීලි පැනීමෙන් උඩරට දුම්රිය මාර්ගයේ ධාවන කටයුතුවලට බාධා එල්ලවී තිබේ.
+A train derailment near Hatton and Kotagala stations disrupts the upcountry railway line, affecting a semi-rapid service from Colombo Fort to Badulla.
 
-වැඩිදුරටත් තොරතුරු වාර්තාවන්නේ හැටන් සහ කොටගල දුම්රිය ස්ථාන අතර මෙලෙස දුම්රියක් පීලි පැන ඇති බවටය.
+🟩
 
-කොළඹ කොටුව සිට බදුල්ල බලා ධාවනය වෙමින් තිබූ අර්ධ සීඝ්‍රගාමි දුම්රියක් මෙලෙස පීලි පැනීමකට ලක්ව තිබේ.
+The upcountry railway line has been interrupted by a train derailment.
+
+Speaking further the train has been derailed among Hatton and Kotagala railway stations.
+
+A semi-rapid train traveling from Colombo Fort to Badulla has been detected.
 
 ◼️
 
 [Data](articles/14791c52.json)
+
+[Extended Data](ext_articles/14791c52.ext.json)
 
 ---
 
@@ -236,21 +296,29 @@ All access roads to Neluwa hospital had gone under water bringing transport of p
 
 [Data](articles/5fbea57c.json)
 
+[Extended Data](ext_articles/5fbea57c.ext.json)
+
 ---
 
-### ප්‍රචණ්ඩ සැඩ පහර අවසන් වූ පසු රංවල දේවාලය අසළින් මතුවූ දේ
+### What happened to Ranwala Devalaya after the violence was over
 
 *2024-06-03 16:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197339) · `si`
 
-ජුනි මස 01 වනදා අවිස්සාවේල්ල පුවක්පිටිය ප්‍රදේශයට පතිත වූ අධික වර්ෂාව සමග ඇතිවූ හදිසි ගංවතුර තත්ත්වය සමග සැඩ පහරට හසුවී ගසාගෙන ගිය  ත්‍රිරෝද රථයක් රංවල දේවාලය අසළින් හමුවී තිබේ.
+After the violence, Ranwala Devalaya was discovered submerged in floodwaters due to heavy rains on June 1st. The temple suffered severe damage, and its condition remains unknown as locals could not reach the site.
 
-මෙතෙක් එහි හිමිකරුවන් එම ස්ථානයට පැමිණ නොමැති අතර ප්‍රදේශවාසීන් පවසන්නේ තරුණයින් දෙදෙනෙකු එම සිදුවීම වූ අවස්ථාවේ සිය ත්‍රිරෝද රථය අනතුරට ලක්වූ බවට ඔවුන් වෙත පැවසූ බවය.
+🟩
 
-ගංවතුරට හසුවූ ත්‍රිරෝද රථයට දැඩිලෙස අලාභහානි සිදුව ඇති අතර එහි හිමිකරුවන් සිටී නම් අවිස්සාවේල්ල රංවල දේවාලය අසළට පැමිණෙන ලෙස ඉල්ලා සිටී.
+On June 1, a three-wheeler with the floods that were hit with the heavy rain fell to the Puwakpitiya area, Ranwala Temple was found.
+
+The residents so far have not yet arrived in the area, two youths told them that their three-wheeler was crashed when two youths occurred.
+
+The flooded three-wheeler has been severely damaged, and if the owners have owners, calls for the Avissawella Devalaya.
 
 ◼️
 
 [Data](articles/6faf493a.json)
+
+[Extended Data](ext_articles/6faf493a.ext.json)
 
 ---
 
@@ -270,19 +338,25 @@ The new prices will be announced tomorrow morning, Mr. Peiris added.
 
 ---
 
-### ගෑස් මිල පහළට
+### Gas prices down
 
 *2024-06-03 16:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197338) · `si`
 
-ගෘහස්ථ ගෑස් සිලින්ඩරයක මිල පහළ දැමීමට ලිට්‍රෝ සමාගම තීරණය කර තිබේ.
+Litro Gas to revise domestic cylinder prices from midnight, announcement by Chairman Muditha Peiris.
 
-හෙට මධ්‍යම රාත්‍රියේ සිට ක්‍රියාත්මක වන පරිදි මෙම නව මිල සංශෝධනය සිදුකිරීමට නියමිතව ඇත.
+🟩
 
-ලිට්‍රෝ ගෑස් සමාගමේ සභාපති මුදිත පීරිස් මහතා පැවසුවේ සංශෝධිත මිල ගණන් හෙට දිනයේ ප්‍රකාශයට පත්කරන බවය.
+Litro has decided to download the prices of a domestic gas cylinder.
+
+The new price is due to be revised from midnight tomorrow.
+
+Chairman of Litro Gas, Muditha Peiris said that the revised prices will be announced tomorrow.
 
 ◼️
 
 [Data](articles/f17a8207.json)
+
+[Extended Data](ext_articles/f17a8207.ext.json)
 
 ---
 
@@ -416,6 +490,20 @@ The relevant petitions have been filed by the Samagi Jana Balawegaya (SJB), Cent
 
 ---
 
+### සිමෙන්ති මිල අඩුකරයි
+
+*2024-06-03 15:33:40* · [`adalk`](https://www.ada.lk/breaking_news/සිමෙන්ති-මිල-අඩුකරයි/11-409983) · `si`
+
+මේ මස පළමුවැනිදා සිට සිමෙන්ති කිලෝග්‍රෑම් 50 බෑගයක මිල රුපියල් 150 කින් අඩු කළ බව සිමෙන්ති සමාගම් පැවසීය.
+
+ඒ අනුව කිලෝග්‍රෑම් 50 බෑගයක උපරිම සිල්ලර මිල රුපියල් 2250 ක් බවත් සිමෙන්ති සමාගම් වැඩි දුරටත් සඳහන් කරයි.
+
+◼️
+
+[Data](articles/0ac972ea.json)
+
+---
+
 ### 'Indian 2' in the alliance of magnitude
 
 *2024-06-03 15:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/185196) · `ta`
@@ -502,19 +590,25 @@ Officials of the Commission to investigate bribery or corruption were brought to
 
 ---
 
-### தமிழ் அதிபருக்கு விளக்கமறியல்
+### Explanation for the Tamil Chancellor
 
 *2024-06-03 15:26:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழ்-அதிபருக்கு-விளக்கமறியல்/175-338364) · `ta`
 
-மதிய உணவுக்கான விலைமனு கோரலை பெற்றுக்கொடுப்பதற்காக, 30 ஆயிரம் ரூபாய் பணத்தை இலஞ்சமாக பெற்றதாக சந்தேகத்தின் பேரில் கைது செய்யப்பட்ட எலியகொட (தமிழ் வித்தியாலயம்) பாடசாலை ஒன்றின் அதிபரை எதிர்வரும் 11ஆம் திகதி வரை விளக்கமறியலில் வைக்குமாறு கொழும்பு பிரதான நீதவான் திலின கமகே திங்கட்கிழமை (03) உத்தரவிட்டுள்ளார்.
+Colombo Chief Magistrate Tilina Kamage ordered the arrest of a Tamil Vidyalaya principal suspected of accepting a 30,000 rupee bribe for lunch. The principal, previously arrested on January 21, was remanded by the Avissawella court after officials reported receiving partial payment.
 
-கடந்த 21 ஆம் திகதி கைது செய்யப்பட்டு அவிசாவளை நீதிமன்றத்தினால் விளக்கமறியலில் வைக்கப்பட்டிருந்த அதிபரின்  விளக்கமறியலே இவ்வாறு நீடிக்கப்பட்டுள்ளது.
+🟩
 
-விலைமனு கோரலை அனுமதிப்பதற்காக சந்தேகநபர் 30,000 ரூபாவை கேட்டதாகவும், ஆரம்பத்தில் 10 ஆயிரம் ரூபாவை பெற்றுக்கொண்டதாகவும், மீதி 20 ஆயிரம் ரூபாவை பெற்றுக்கொண்ட போதே கைது செய்யப்பட்டதாகவும் இலஞ்சம் அல்லது ஊழல் பற்றிய சார்த்துதல்களைப் புலனாய்வு செய்வதற்கான ஆணைக்குழுவின் அதிகாரிகள் நீதிமன்றத்தின் கவனத்துக்கு கொண்டுவந்தனர்.
+Colombo Chief Magistrate Tilina Kamage on Monday (03) has ordered the principal of a school in Eliyagoda (Tamil Vidyalaya), who was arrested on suspicion of bribing 30 thousand rupees for lunch.
+
+This has been extended by the Chancellor's arrest on the 21st of this month and detained by the Avissawella court.
+
+Officials of the Commission to investigate bribery or corruption were brought to the court's notice that the suspect had asked for 30,000 rupees and had initially received 10 thousand rupees and the remaining 20 thousand rupees.
 
 ◼️
 
 [Data](articles/d78fd196.json)
+
+[Extended Data](ext_articles/d78fd196.ext.json)
 
 ---
 
@@ -568,23 +662,31 @@ Accordingly, a group of people who were nominated as respondents in the petition
 
 ---
 
-### අපුර මූල්‍ය ආයතනයක මහා කොල්ලයක්
+### A great robber in a heavy financial institution
 
 *2024-06-03 15:05:56* · [`adalk`](https://www.ada.lk/breaking_news/අපුර-මූල්‍ය-ආයතනයක-මහා-කොල්ලයක්/11-409982) · `si`
 
-අනුරාධපුර නගරයේ,  බැංකු පෙදෙසේ මෛත්‍රීපාල සේනානායක මාවතේ  පිහිටා ඇති පෞද්ගලික මූල්‍ය ආයතනයක සේප්පුව කඩා දමා එහි තිබූ මුදල් හා රන් භාණ්ඩ තොගයක් සොරකම් කර රැගෙන යාමේ සිද්ධියක් සම්බන්ධයෙන් අද  (3 දා) උදෑසන විමර්ශන ආරම්භ කල බව අනුරාධපුර මූලස්ථාන පොලිසිය පවසයි.
+In Anuradhapura, a major heist occurred at a banking institution on Maithripala Senanayake Mawatha. The robbers targeted the vault, making off with a significant amount of gold and cash. Authorities, including Deputy Inspector General Laksiri Wijesana, are investigating to apprehend the culprits.
 
-මෙම පෞද්ගලික මූල්‍ය  ආයතනයේ පිටුපස දොර කඩා දමා ඇතුළු වී ඇති  සොරකු හෝ පිරිසක් එහි තිබූ සේප්පුව කපා දමා මෙම සොරකම සිදු කර ඇති බව පොලිසිය කියයි.
+🟩
 
-මෙම සේප්පුව තුල රුපියල් කෝටියකට වැඩි රන් භාණ්ඩ සහ ලක්ෂ 25 කට ආසන්න මුදලක් තිබූ බවට අප කල විමසීමකදී නිල නොවන ආරංචි මාර්ග සඳහන් කළේය.
+Anuradhapura headquarters (3) launched an incident in Anuradhapura, the Banking Institution located at Maithripala Senanayake Mawatha in Anuradhapura, the Anuradhapura headquarters said.
 
-කඩා දමා තිබූ සේප්පුවේ රන් භාණ්ඩ සියල්ල සොරුන් විසින් රැගෙන ගොස් නොතිබූ බවත්  ඉන් කොටසක් සේප්පුව  තුලම දමා ගොස් ඇති අතර, සොරකම් කර රැගෙන ගිය   මුදල් හා රන්  මිල අද  (3දා) දහවල් වන විටත් ගණනය කර නොතිබූ බව අප කල විමසීමකදී උසස් පොලිස් නිලධාරියෙකු පැවසීය.
+Police say the robbery has been reduced and cut into the safety of the roof or a group of sources of the private financial institution.
 
-සිද්ධියට සම්බන්ධ සැකකරුවෙකු හෝ පිරිසක් අත්අඩංගුවට ගැනීම සඳහා පොලිස් කණ්ඩායම් කිහිපයක් යොදවා අංශ කීපයක් ඔස්සේ විමර්ශන ක්‍රියාත්මක බව පොලිසිය වැඩි දුරටත් සඳහන් කළේය.
+According to unofficial sources, more than Rs.
 
-...
+A high-ranking police officer said that all golden items were taken by thieves had been taken by thieves and the gold and gold was not calculated today (3).
+
+The police further stated that investigations are conducting further investigations to arrest a suspect involved in the incident.
+
+Deputy Inspector General of Police, Laksiri Wijesana, Anuradhapura Divisional Inspection Division of the Anuradhapura Division, Anuradhapura Divisional Investigation Division and other officials including the criminal inquiry department and commenced investigations into the incident.
+
+◼️
 
 [Data](articles/5953831d.json)
+
+[Extended Data](ext_articles/5953831d.ext.json)
 
 ---
 
@@ -634,21 +736,27 @@ The four suspects have been released on two lakhs of bail and a cash bail of Rs.
 
 ---
 
-### මෙවර ශ්‍රීපාද වන්දනා සමයේදී කැළි කසල කිලෝ ලක්ෂයක් ඉවත් කරයි
+### This year's Sri Pada pilgrimage removes the garbage of garbage
 
 *2024-06-03 14:51:50* · [`adalk`](https://www.ada.lk/breaking_news/මෙවර-ශ්‍රීපාද-වන්දනා-සමයේදී-කැළි-කසල-කිලෝ-ලක්ෂයක්-ඉවත්-කරයි/11-409981) · `si`
 
-මෙවර අවසන් වූ ශ්‍රීපාද වන්දනා සමයේ මාස 06 ක කාලය තුළ ශ්‍රීපාද වන්දනා කරුවන් විසින් නල්ලතන්නිය-ශ්‍රීපාද මාර්ගයේ පරිසරයට හා ශ්‍රීපාද රක්ෂිතයට බැහැර කර තිබූ දිරා නොයන ඝණ අපද්‍රව්‍ය ඇතුළු කැළි කසල කිලෝ ලක්ෂයකට ආසන්න ප්‍රමාණයක් මස්කෙළිය ප්‍රාදේශිය සභාවේ පරිසර අංශය මගින් ඉවත් කළ බව එම ප්‍රාදේශිය සභාවේ පරිසර නිලධාරිණී රසිකා සමරණායක මහත්මිය පැවසුවාය.
+In 2023, the annual Sri Pada pilgrimage saw significant environmental efforts. The Maskeliya Pradeshiya Sabha, under the guidance of Environmental Officer Mrs. Sacra Karrana, successfully removed over 60,000 kg of waste and 3,000 kg of plastic bottles during the event, which took place from December to Vesak Piyem Piya Poya day. This initiative not only enhanced the pilgrimage experience but also contributed to preserving the natural beauty of Nallataniya, now managed by the Maskeliya Pradeshiya Sabha in the Ricotican area.
 
-ගෙවුණු වන්දනා සමය 2023 දෙසැම්බර් මාසයේ සිට 2024 මැයි මස වෙසක් පුන් පෝය දින දක්වා පැවැත්විණි.
+🟩
 
-ඉවත් කරන ලද කැළි කසල තොගයට දිරණ කසල කිලෝ 60,000 ක්, නොදිරණ කසල කිලෝ 36,000 ක් හා ප්ලාස්ටික් බෝතල් කිලෝ 3000 ක් අයත් වූ බව පරිසර නිලධාරිණී රසිකා සමරණායක සහත්මිය පැවසුවාය.
+Sri Pradeshiya Sabha Samali Department of Environmental Council has been removed by the Maskeliya Pradeshiya SabhaThe officer said Mrs. Sacra Karrana.
 
-නල්ලතන්නිය රිකාටන් ප්‍රදේශයේ පිහිටි මස්කෙළිය ප්‍රාදේශිය සභාවට යටතේ ඇති කසල ප්‍රතිචක්‍රීයකරණ මධ්‍යස්ථානය වෙත මෙම දිරණ හා නොදිරණ කසල තොගය ගෙනවිත් එම ස්ථානයේදී ප්‍රතිචක්‍රීයකරණ ක්‍රියාවලිය සිදු කරන බවමස්කෙළිය ප්‍රාදේශිය සභාවේ ලේකම් ආර්.රාජවීරන් මහතා පැවසීය.
+The daily pilgrimage was held from December 2023 to the Vesak Piyem Piya Poya day.
+
+The Environmental Officers said that 60,000 kilos of removed garbage and 3000 kilograms of plastic bottles were included in the non-decaying garbage.
+
+Nallataniya has been brought to the Maskeliya Pradeshiya Sabha in Ricotican area.
 
 ◼️
 
 [Data](articles/92c1762e.json)
+
+[Extended Data](ext_articles/92c1762e.ext.json)
 
 ---
 
@@ -1668,6 +1776,30 @@ The judge also ordered the extension of the invisory order.
 
 ---
 
+### වැසි සහිත කාලගුණය : ආපදාවන් නිසා පුද්ගල මරණ 12ක්. 5ක් අතුරුදන්
+
+*2024-06-03 11:21:42* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c3ggz58181wo) · `si`
+
+වැසි සහිත කාලගුණය : ආපදාවන් නිසා පුද්ගල මරණ 12ක්. 5ක් අතුරුදන්
+
+මෙහි කිසිවක් අඩංගු නැත.Play video, "''පැයක් විතර කෑ ගැහුවා. වැස්ස නිසා කාටවත් ඇහුණේ නෑ.''", ධාවන කාලය 2,1402:14වීඩියෝ ශීර්ෂ වැකිය, ''පැයක් විතර කෑ ගැහුවා. වැස්ස නිසා කාටවත් ඇහුණේ නෑ.''
+
+අධික වැසි සහිත කාලගුණය හේතුවෙන් ජුනි මස පළමු වෙනිදා සිට අද (ජුනි මස 03 වෙනිදා) දක්වා පුද්ගලයින් 12 දෙනෙකු ජීවිතක්ෂයට පත්ව තවත් 5 දෙනෙකු අතුරුදන්ව ඇති බව ආපදා කළමනාකරණ මධ්‍යස්ථාන සඳහන් කළේය.
+
+රත්නපුර, කොළඹ සහ මාතර යන දිස්ත්‍රික්කවල ජල ගැලීම් හේතුවෙන් මරණ 08ක්, පස් කණ්ඩි කඩා වැටීමෙන් මරණ 03ක් සහ ගස් කඩා වැටීමෙන් එක් මරණයක් වාර්තා වී තිබේ.
+
+මීට අමතරව ගාල්ල සහ මාතර යන දිස්ත්‍රික්කවල පුද්ගලයින් පස් දෙනෙකු අතුරුදන්වී ඇති බව ආපදා කළමනාකරණ මධ්‍යස්ථානය පැවසීය.
+
+අධික වැසි සහිත කාලගුණික තත්ත්වය හේතුවෙන් දිස්ත්‍රික්ක 06ක ජනතාව පීඩාවට පත්ව ඇති බව ආපදා කළමනාකරණ මධස්ථානය සඳහන් කළේය.
+
+නුවරඑළිය, කොළඹ, කළුතර, ගාල්ල, මාතර සහ ගම්පහ යන දිස්ත්‍රික්කවල පවුල් 1,489කට අයත් පුද්ගලයින් 5575 දෙනෙකු සුරක්ෂිත මධ්‍යස්ථානවල සිටින බව ආපදා කළමනාකරණ මධස්ථානය නිකුත් කළ නිවේදනයේ දැක්වෙයි.
+
+...
+
+[Data](articles/a3be3a6e.json)
+
+---
+
 ### Four people killed in accidents in different parts of the country
 
 *2024-06-03 11:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/185168) · `ta`
@@ -2005,71 +2137,5 @@ The Ministry of Education has issued before the provisions of the GCE Ordinary L
 [Data](articles/142c9825.json)
 
 [Extended Data](ext_articles/142c9825.ext.json)
-
----
-
-### Two killed in car three-wheeler accident
-
-*2024-06-03 10:30:57* · [`adalk`](https://www.ada.lk/breaking_news/කාර්-ත්‍රිරෝද-අනතුරින්-දෙදෙනෙක්-මරුට/11-409977) · `si`
-
-In a tragic accident involving a three-wheeler near Kottawa Vidyalaya Junction, two individuals died, including Ponnia Ashook Kumara (54) and Hikkaduwa Nakanda Nakanda Nakanda Paper (42). Three others were seriously injured and rushed to Homagama Hospital. The incident occurred when the vehicle was speeding towards Rukmalgama. Two passengers perished, and two more are critically injured.
-
-🟩
-
-The Kottawa Police states that two persons were killed and three others were seriously injured and admitted to the Homagama Hospital.
-
-The deceased has been identified as Ponnia Ashook Kumara (54) and Hikkaduwa Nakanda Nakanda Nakanda Paper (42).
-
-Kottawa Vidyalaya Junction, while he was traveling to a wound of the Kottawa Vidyalaya, the three-wheeler was taken to the Kottawa, the Kottawa rolled in the Kottawa to Rukmalgama.The evening was the accident.
-
-Two traversed in the three-wheeler were killed and two others and the car of the car were seriously injured and admitted to the Homagama Base Hospital.
-
-The police suspect that the three-wheeler had been rapidly driving at the time of the accident.
-
-Two of the three persons who were hospitalized with serious injuries are in critical condition.
-
-Emergency Death Examination at Homagama Hospital, Sudden Death Superintendent of the Homagama Hospital was due to be held by the Emergency Death Superintendent of the Homagama Hospital.
-
-◼️
-
-[Data](articles/813a9086.json)
-
-[Extended Data](ext_articles/813a9086.ext.json)
-
----
-
-### IMF Board to review Sri Lanka’s economic progress on June 12
-
-*2024-06-03 10:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/IMF-Board-to-review-Sri-Lankas-economic-progress-on-June-12/108-283974) · `en`
-
-Colombo, June 3 (Daily Mirror) - The Article IV consultation and second review under the Extended Fund Facility (EFF) for Sri Lanka are on the IMF Board meeting agenda for June 12.
-
-State Minister of Finance Shehan Semasinghe said the session will evaluate Sri Lanka's economic policies and reform progress.
-
-"We look forward for continued support of all countries for a successful review to unlock the third tranche, which will further enhance economic stability, growth, and reform efforts. The IMF Executive Board will take up Sri Lanka's EFF second review on 12th June," he said.
-
-◼️
-
-[Data](articles/0a524258.json)
-
-[Extended Data](ext_articles/0a524258.ext.json)
-
----
-
-### IMF Board to review Sri Lanka’s economic progress on June 12
-
-*2024-06-03 10:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/IMF-Board-to-review-Sri-Lankas-economic-progress-on-June-12/155-283974) · `en`
-
-Colombo, June 3 (Daily Mirror) - The Article IV consultation and second review under the Extended Fund Facility (EFF) for Sri Lanka are on the IMF Board meeting agenda for June 12.
-
-State Minister of Finance Shehan Semasinghe said the session will evaluate Sri Lanka's economic policies and reform progress.
-
-"We look forward for continued support of all countries for a successful review to unlock the third tranche, which will further enhance economic stability, growth, and reform efforts. The IMF Executive Board will take up Sri Lanka's EFF second review on 12th June," he said.
-
-◼️
-
-[Data](articles/d2d86543.json)
-
-[Extended Data](ext_articles/d2d86543.ext.json)
 
 ---

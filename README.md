@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-04 02:34:17**
+As of **2024-06-04 02:52:27**
 
 ## Newspaper Stats
 
-*Scraped **28,214** Articles*
+*Scraped **28,223** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,10 +14,10 @@ bbccomsinhala | 277
 newsfirstlk | 363
 islandlk | 1,520
 economynextcom | 1,604
-dailyftlk | 1,658
+dailyftlk | 1,666
 adalk | 2,408
 adaderanalk | 3,209
-tamilmirrorlk | 3,306
+tamilmirrorlk | 3,307
 virakesarilk | 4,346
 dailymirrorlk | 4,468
 adaderanasinhalalk | 4,529
@@ -26,25 +26,175 @@ adaderanasinhalalk | 4,529
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,207 (100.0%) of 28,214 articles have been extended.
+28,214 (100.0%) of 28,223 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-04 (Tuesday)
 
-### தேர்தல்களை பிற்போடு முயற்சிகளுக்கு எதிர்ப்பு
+### Range Bandara defends proposal to postpone Presidential Election
+
+*2024-06-04 02:32:56* · [`dailyftlk`](https://www.ft.lk/news/Range-Bandara-defends-proposal-to-postpone-Presidential-Election/56-762588) · `en`
+
+UNP General Secretary argues his proposal aims to address SL’s economic challenges and ensure continuity in ongoing economic program
+
+Cites constitutional provisions which allows President to submit matters of national importance to referendum
+
+Notes Opposition leaders Sajith Premadasa and Anura Kumara Dissanayake have not opposed his proposal
+
+Reiterates UNP’s readiness for Presidential Election and urges political parties to engage in constructive dialogue
+
+United National Party (UNP) General Secretary Palitha Range Bandara, yesterday defended his recent proposal to postpone Sri Lanka’s Presidential Election by two years, citing constitutional provisions and the need for national stability.
+
+...
+
+[Data](articles/8bc2ec11.json)
+
+---
+
+### Substandard IVIG case: Keheliya and 7 others further remanded, one released on bail
+
+*2024-06-04 02:32:20* · [`dailyftlk`](https://www.ft.lk/news/Substandard-IVIG-case-Keheliya-and-7-others-further-remanded-one-released-on-bail/56-762587) · `en`
+
+Former Health Minister Keheliya Rambukwella and seven others were yesterday further remanded till 14 June by the Maligakanda Magistrate’s Court in connection with the substandard human intravenous immunoglobulin (IVIG) procurement.
+
+The Court also ordered the release of the fourth suspect of the case under a monetary bail of Rs. 100,000 and two surety bails of each worth Rs. 500,000.
+
+Meanwhile, the Health Ministry Medical Supplies Division former Deputy Director Dr. Thusitha Sudarshana has been released on bail.
+
+The Criminal Investigation Department (CID) commenced an investigation into allegations that a pharmaceutical company had imported 22,500 vials of substandard Immune Globulin vaccines by creating forged documents with the assistance of the two senior State officials.
+
+Investigations revealed that financial fraud of Rs. 130 million had occurred via the imports of the said substandard medicine.
+
+...
+
+[Data](articles/b3c0e9d6.json)
+
+---
+
+### Harin, Ravi, Ronald to spearhead UNP’s election campaign
+
+*2024-06-04 02:30:34* · [`dailyftlk`](https://www.ft.lk/news/Harin-Ravi-Ronald-to-spearhead-UNP-s-election-campaign/56-762586) · `en`
+
+The United National Party (UNP) made key appointments for its upcoming election campaign at a meeting held at Sirikotha on Sunday.
+
+At the meeting chaired by Party Leader Ranil Wickremesinghe, several key positions were filled to strengthen the party’s election strategy.
+
+Harin Fernando was appointed as the National Election organiser while Ravi Karunanayake was named the National Secretary, and Ronald Perera will serve as the Deputy General Secretary of elections. In other notable appointments, Firdouse Farook was made the party’s Treasurer Misbah Sattar was appointed Deputy Chairman, and Krishan Theodore was named Deputy General Secretary. The working committee also confirmed that several senior members will continue in their current roles. Deputy Leader Ruwan Wijayawardena, General Secretary Palitha Range Bandara, Chairman Wajira Abeywardena, National Organiser Sagala Ratnayaka, and Deputy Leader Akila Viraj Kariyawasam will maintain their existing positions within the party.
+
+...
+
+[Data](articles/3e899eed.json)
+
+---
+
+### SLPP MP crosses over to SJB
+
+*2024-06-04 02:29:20* · [`dailyftlk`](https://www.ft.lk/news/SLPP-MP-crosses-over-to-SJB/56-762585) · `en`
+
+Sri Lanka Podujana Peramuna (SLPP) MP Dr. Thilak Rajapakshe extended his support to the Samagi Jana Balawegaya (SJB) yesterday.
+
+The MP representing the Padiyathalawa electorate officially joined the SJB during the party’s latest Sakwala program held at a school in Ampara. The event was also attended by SJB leader Sajith Premadasa.
+
+Veteran politician and former Sri Lanka Freedom Party (SLFP) Anuradhapura district MP Tissa Karaliyadda also officially joined the SJB recently.
+
+SJB leader and Opposition leader Sajith Premadasa appointed Karalliyadde as the co-organiser for the SJB’s Medawachchiya electorate.
+
+...
+
+[Data](articles/ecacebd9.json)
+
+---
+
+### Stop being source of political jokes – Madduma Bandara tells UNP
+
+*2024-06-04 02:27:17* · [`dailyftlk`](https://www.ft.lk/news/Stop-being-source-of-political-jokes-Madduma-Bandara-tells-UNP/56-762584) · `en`
+
+...
+
+[Data](articles/2817a742.json)
+
+---
+
+### ’தேர்தலை புறக்கணியுங்கள்’
+
+*2024-06-04 02:25:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தலை-புறக்கணியுங்கள்/175-338391) · `ta`
+
+ஜனாதிபதித் தேர்தலை புறக்கணிக்க கோரி கஜேந்திரகுமார் பொன்னம்பலம் எம்.பி தலைமையிலான  தமிழ் தேசிய மக்கள் முன்னணி  யாழ்ப்பாணத்தில் சனிக்கிழமை(01) பிரசாரத்தில் ஈடுபட்டனர்.
+
+ஒற்றையாட்சி அரசமைப்பு நீக்கப்பட்டு சமஷ்டி அரசமைப்பு முறைமை உருவாக்கத்துக்கான உத்தரவாதம் வழங்கப்படும்வரை ஜனாதிபதித் தேர்தலை பகிஷ்கரிக்க வேண்டும் என்றும் அவர்கள் விநியோகித்த துண்டுப்பிரசுரத்தில் தெரிவிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/6bead92b.json)
+
+---
+
+### EFC delegation meets Northern Province Chief Secretary
+
+*2024-06-04 02:23:56* · [`dailyftlk`](https://www.ft.lk/business/EFC-delegation-meets-Northern-Province-Chief-Secretary/34-762583) · `en`
+
+A delegation representing 14 leading private sector companies together with Employers’ Federation of Ceylon (EFC) engaged in a high-level visit to explore strategic investment, trade, and growth opportunities in key sectors in the Northern Province.
+
+Organised by the Intern-ational Labour Organisation (ILO) in partnership with EFC, among the key objectives of the visit were to showcase the investment potential of northern province, foster dialogue, and collaboration among key stakeholders, and facilitate partnerships that benefit both businesses and communities.
+
+...
+
+[Data](articles/c6150100.json)
+
+---
+
+### BOI unions rebuffs Mangala Yapa on Economic Transformation Act
+
+*2024-06-04 02:22:29* · [`dailyftlk`](https://www.ft.lk/business/BOI-unions-rebuffs-Mangala-Yapa-on-Economic-Transformation-Act/34-762582) · `en`
+
+The All Union Alliance of the Board of Investment of Sri Lanka (BOI) yesterday expressed its strong displeasure with the points mentioned in the online webinar on the proposed Economic Transformation Act, by Mangala Yapa on 31 May and firmly rejects those statements.
+
+In a statement the All Union Alliance of BOI said the following.
+
+1. We disdainfully reject the highly inaccurate claim made by Mangala Yapa at the said Webinar that the Unions of the Board of Investment of Sri Lanka have expressed agreement with the contents of this Act. The submission of such false statements by an individual disrespects all parties who contributed to the creation of this Act.
+
+...
+
+[Data](articles/ad3cf294.json)
+
+---
+
+### Construction, Power and Energy Expo 2024 from 5-7 July
+
+*2024-06-04 02:22:07* · [`dailyftlk`](https://www.ft.lk/business/Construction-Power-and-Energy-Expo-2024-from-5-7-July/34-762581) · `en`
+
+Lanka Exhibition and Conference Services (LECS) is proud to announce the return of Sri Lanka’s most focused construction, interior products, lighting, power and energy exhibition - Construction Power and Energy Expo 2024. Scheduled to take place from 5-7 July 2024 at the BMICH, Colombo, Sri Lanka.
+
+The Construction Power and Energy Expo is Sri Lanka’s premier exhibition in the construction, interior products, power, and energy-related sectors. With its eighth successive year, the expo provides a comprehensive platform for industry stakeholders, service providers, and exhibitors to showcase their products and services, forge valuable connections, and drive industry innovation. The power and energy industry plays a critical role in Sri Lanka’s economic well-being. The exhibition will have a strong focus on this sector, highlighting advances in renewable energy and energy efficiency.
+
+...
+
+[Data](articles/89d3c3bc.json)
+
+---
+
+### Opposition to efforts
 
 *2024-06-04 02:18:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்களை-பிற்போடு-முயற்சிகளுக்கு-எதிர்ப்பு/175-338390) · `ta`
 
-தேர்தல்களை பிற்போடுவதற்கான அரசாங்கத்தின் முயற்சிகளுக்கு எதிர்ப்பு தெரிவித்து சிவில் சமூகத்தை சேர்ந்தவர்கள் கொழும்பிலுள்ள ஐக்கிய நாடுகள் அலுவலகத்திடம் கடிதமொன்றை கையளித்துள்ளனர்.
+Civil society groups, including the United National Party (UNP), have protested the Sri Lankan government's election regulation efforts, calling them anti-democratic. The UNP's general secretary criticized the postponement of elections. A letter was submitted to the United Nations Office in Colombo, urging international intervention to safeguard democracy and prevent future crises.
 
-பொது, ஜனாதிபதி தேர்தலை ஒத்திவைப்பது தொடர்பில் சர்வஜனவாக்கெடுப்பை நடத்துவது குறித்து ஐக்கிய தேசிய கட்சியின் பொதுச்செயலாளர் பாலித ரங்க பண்டார தெரிவித்துள்ளதை தங்கள் கடிதத்தில் சுட்டிக்காட்டியுள்ள சிவில்சமூக பிரதிநிதிகள் அக்கருத்தினை  ஜனநாயக விரோத கருத்து என குறிப்பிட்டுள்ளனர்.
+🟩
 
-மக்கள் போராட்ட பிரஜைகள் அமைப்பு தேசிய சிவில் அமைப்புகளின் முன்னணி மின்சார பாவனையாளர்கள் சங்கம் உட்பட பல அமைப்புகள் இணைந்து இந்த கடிதத்தை இலங்கைக்கான ஐக்கிய நாடுகளின் அலுவலகத்திடம் கையளித்துள்ளனர்.
+Civil community members have handed over a letter to the United Nations Office in Colombo to protest the government's efforts to regulate the elections.
+
+In their letter, the United National Party (UNP) general secretary Palitha Ranga Bandara has stated that the general secretary of the United National Party, Palitha Ranga Bandara has stated on the postponement of the general and presidential election as an anti -democratic view.
+
+The letter has been handed over to the United Nations Office for Sri Lanka, including the National Citizens Organization of the National Civil Organization, including the National Civil Organization's Association.
+
+In their letter, the UNP general secretary's general secretary said in their letter to the people of the Sri Lankan people that the civil society representatives have said that this is the most contradictory in the community.
 
 ...
 
 [Data](articles/73c5a15c.json)
+
+[Extended Data](ext_articles/73c5a15c.ext.json)
 
 ---
 
@@ -63,6 +213,8 @@ World No Tobacco Day was celebrated in many parts of the world over the weekend,
 ...
 
 [Data](articles/e8927ca9.json)
+
+[Extended Data](ext_articles/e8927ca9.ext.json)
 
 ---
 
@@ -90,6 +242,8 @@ Meteorology Department Director-General Athula Karunanayake says JICA to gift Do
 
 [Data](articles/f28afc28.json)
 
+[Extended Data](ext_articles/f28afc28.ext.json)
+
 ---
 
 ### Schools in five districts to remain close amid adverse weather
@@ -107,6 +261,8 @@ The decision follows a special holiday declared for all schools yesterday (3) in
 ...
 
 [Data](articles/fb338feb.json)
+
+[Extended Data](ext_articles/fb338feb.ext.json)
 
 ---
 
@@ -128,6 +284,8 @@ Addressing a special media briefing organised by the Government Information Depa
 
 [Data](articles/7284e333.json)
 
+[Extended Data](ext_articles/7284e333.ext.json)
+
 ---
 
 ### High Commissioner Rohitha Bogollagama presents credentials to King Charles III
@@ -139,6 +297,8 @@ High Commissioner of Sri Lanka to the United Kingdom Rohitha Bogollagama present
 ...
 
 [Data](articles/353b84ab.json)
+
+[Extended Data](ext_articles/353b84ab.ext.json)
 
 ---
 
@@ -153,6 +313,8 @@ Deputy Minister Abdul Majeed extended a warm welcome to Ambassador Ameer Ajwad a
 ...
 
 [Data](articles/682252ea.json)
+
+[Extended Data](ext_articles/682252ea.ext.json)
 
 ---
 
@@ -2031,203 +2193,5 @@ However, the judge bench, which fixed the petition for hearing, ordered that not
 [Data](articles/3c133e84.json)
 
 [Extended Data](ext_articles/3c133e84.ext.json)
-
----
-
-### Powder Menie's train's engine suddenly caught fire
-
-*2024-06-03 15:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/185199) · `ta`
-
-On Monday, the Powder Menikku Kadukathi train en route from Badulla to Colombo Fort unexpectedly caught fire. Local Haputale railway staff, police, and residents quickly extinguished the blaze.
-
-🟩
-
-The Powder Menikku Kadukathi train, which was traveling from Badulla to Colombo Fort, was set on fire on Monday (03).
-
-Haputale railway staff and police have extinguished the fire with the help of the residents of the area.
-
-◼️
-
-[Data](articles/38a54fc1.json)
-
-[Extended Data](ext_articles/38a54fc1.ext.json)
-
----
-
-### Following a disorder
-
-*2024-06-03 15:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197335) · `si`
-
-Despite initial disappointment due to a disorder in the 100m final of the Stockholm "Diamond League", Sri Lanka's Park Abeykan bounced back with a time of 10.22 seconds in his second race. This performance comes as he gears up for the 2024 Paris Olympics, which start in over 8 weeks.
-
-🟩
-
-In the 100m final of the Stockholm "Diamond League", Sweden, was disappointed with an unexpected disorder.
-
-However, he was able to overcome 10.22 seconds in the second match match yesterday (02).
-
-The beginning of the 2024 Paris Olympics has more than 8 weeks.
-
-Sri Lanka's Park Abeykan participated in the Paris Olympics
-
-Euups won the 100-meter-major event in Sweden's Stockholm Diamond League, which won the match.
-
-◼️
-
-[Data](articles/f1eba727.json)
-
-[Extended Data](ext_articles/f1eba727.ext.json)
-
----
-
-### SC postpones petitions filed over deferral of 2023 LG polls
-
-*2024-06-03 15:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/99631/sc-postpones-petitions-filed-over-deferral-of-2023-lg-polls) · `en`
-
-The Supreme Court has adjourned further hearings on the Fundamental Rights (FR) petitions filed against the postponement of the 2023 Local Government elections, which was initially scheduled to be held on March 09, 2023.
-
-The bench, noting the absence of one of its members today (June 03), ordered the adjournment of the petitions’ hearing until June 05.
-
-The relevant petitions have been filed by the Samagi Jana Balawegaya (SJB), Centre for Policy Alternatives (CPA), and People’s Action for Free and Fair Elections (PAFFREL), seeking an order declaring that the fundamental human rights of the people have been violated by the failure to hold the 2023 LG elections, as previously scheduled.
-
-◼️
-
-[Data](articles/8cac6344.json)
-
-[Extended Data](ext_articles/8cac6344.ext.json)
-
----
-
-### Cement is reduced
-
-*2024-06-03 15:33:40* · [`adalk`](https://www.ada.lk/breaking_news/සිමෙන්ති-මිල-අඩුකරයි/11-409983) · `si`
-
-Cement prices have been reduced; 50 kg now costs a maximum of Rs. 2250.
-
-🟩
-
-Cement companies said the price of 50 kilograms of cement from 1st of this month was reduced by Rs.
-
-Accordingly, the maximum retail price of 50 kilograms is Rs. 2250 and the maximum retail price of Rs 2250.
-
-◼️
-
-[Data](articles/0ac972ea.json)
-
-[Extended Data](ext_articles/0ac972ea.ext.json)
-
----
-
-### The emergency cabinet bond comes
-
-*2024-06-03 15:29:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அவசர-அமைச்சரவை-பத்திரம்-வருகிறது/175-338366) · `ta`
-
-Today, an Emergency Cabinet paper will be submitted to rebuild homes destroyed by bad weather, with military aid, aiming to provide relief to affected individuals. This decision was made after discussions between President Ranil Wickremesinghe and Prime Minister Dinesh Gunawardena.
-
-🟩
-
-An Emergency Cabinet paper is to be submitted today to carry out the work of constructing the houses that have been completely damaged due to bad weather, with the help of the armed forces, to provide new construction and relieve the affected people.
-
-This was decided during a discussion between President Ranil Wickremesinghe and Prime Minister Dinesh Gunawardena.
-
-◼️
-
-[Data](articles/6e65c9af.json)
-
-[Extended Data](ext_articles/6e65c9af.ext.json)
-
----
-
-### Plantation workers' salary increase;Action Judgment of the Court
-
-*2024-06-03 15:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/185212) · `ta`
-
-The Court of Appeal allowed the Ministry of Labor's Gazette increasing plantation workers' salaries to Rs. 1,700 per day, rejecting the Plantation Company's Federation claim that the hike was unfeasible.
-
-🟩
-
-The Court of Appeal on Monday (Monday) ruled that the Ministry of Labor could not issue an interim injunction against the Gazette released by the Ministry of Labor.
-
-On April 30, the Gazette was issued by the Commissioner of Labor at a daily salary of Rs. 1,700 for plantation workers.
-
-However, the verdict has been issued as the Plantation Company's Federation has sought the court, claiming that the salary increase is impossible.
-
-◼️
-
-[Data](articles/b91851fc.json)
-
-[Extended Data](ext_articles/b91851fc.ext.json)
-
----
-
-### Bribery
-
-*2024-06-03 15:26:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலஞ்சம்-வாங்கிய-தமிழ்-அதிபருக்கு-விளக்கமறியல்/175-338364) · `ta`
-
-Colombo Chief Magistrate Tilina Kamage ordered the arrest of a Tamil Vidyalaya school principal suspected of accepting a 30,000 rupee bribe for lunch. The principal, also implicated in a separate bribery case on January 21, remains in custody after allegedly receiving partial payment.
-
-🟩
-
-Colombo Chief Magistrate Tilina Kamage on Monday (03) has ordered the principal of a school in Eliyagoda (Tamil Vidyalaya), who was arrested on suspicion of bribing 30 thousand rupees for lunch.
-
-This has been extended by the Chancellor's arrest on the 21st of this month and detained by the Avissawella court.
-
-Officials of the Commission to investigate bribery or corruption were brought to the court's notice that the suspect had asked for 30,000 rupees and had initially received 10 thousand rupees and the remaining 20 thousand rupees.
-
-◼️
-
-[Data](articles/b9d8d21d.json)
-
-[Extended Data](ext_articles/b9d8d21d.ext.json)
-
----
-
-### Explanation for the Tamil Chancellor
-
-*2024-06-03 15:26:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழ்-அதிபருக்கு-விளக்கமறியல்/175-338364) · `ta`
-
-Colombo Chief Magistrate Tilina Kamage ordered the arrest of a Tamil Vidyalaya principal suspected of accepting a 30,000 rupee bribe for lunch. The principal, previously arrested on January 21, was remanded by the Avissawella court after officials reported receiving partial payment.
-
-🟩
-
-Colombo Chief Magistrate Tilina Kamage on Monday (03) has ordered the principal of a school in Eliyagoda (Tamil Vidyalaya), who was arrested on suspicion of bribing 30 thousand rupees for lunch.
-
-This has been extended by the Chancellor's arrest on the 21st of this month and detained by the Avissawella court.
-
-Officials of the Commission to investigate bribery or corruption were brought to the court's notice that the suspect had asked for 30,000 rupees and had initially received 10 thousand rupees and the remaining 20 thousand rupees.
-
-◼️
-
-[Data](articles/d78fd196.json)
-
-[Extended Data](ext_articles/d78fd196.ext.json)
-
----
-
-### Will Justice Power for Reconciliation Mechanism - Will a Special Court be established?What does the Director of the Interim Secretariat of the Truth Reconciliation Commission report?
-
-*2024-06-03 15:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/185211) · `ta`
-
-Dr. Asanga Gunawansa, Director of the Interim Secretariat of the Truth and Reconciliation Mechanism, suggests a special court could address reconciliation needs, echoing the President's call for judicial powers in the reconciliation mechanism. He emphasizes the importance of parliamentary approval and constitutional considerations for establishing such a court. The goal is to compensate victims, ensure human rights, and rebuild society post-violence, requiring consensus among stakeholders.
-
-🟩
-
-Director of the Interim Secretariat of the Truth and Reconciliation Mechanism, Dr. Asanga Gunawansa, said that the Commission to provide the Commission to the Commission to provide the Truth Unity Reconciliation Commission.
-
-Otherwise, a special court can be made to find solutions to the needs, he said.
-
-He was responding to the question of the Island newspaper that the President recently stated in Jaffna that the real reconciliation mechanism should have judicial powers or that his government is investigating a special court on its basis.
-
-However, the government can decide on setting up a special court to grant judicial powers, ”he said.
-
-He said that the parliament's need to implement any law, and the proposed law should have a judicial authority or a special court.
-
-He said that if a special court is to be established, the laws of the constitution should be carefully considered and the law of the judiciary.
-
-...
-
-[Data](articles/cfafa2e5.json)
-
-[Extended Data](ext_articles/cfafa2e5.ext.json)
 
 ---

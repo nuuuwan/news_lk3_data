@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-03 10:34:28**
+As of **2024-06-03 10:52:49**
 
 ## Newspaper Stats
 
-*Scraped **28,025** Articles*
+*Scraped **28,030** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,79 @@ islandlk | 1,517
 economynextcom | 1,589
 dailyftlk | 1,644
 adalk | 2,390
-adaderanalk | 3,183
+adaderanalk | 3,186
 tamilmirrorlk | 3,282
 virakesarilk | 4,322
-dailymirrorlk | 4,441
+dailymirrorlk | 4,443
 adaderanasinhalalk | 4,493
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,024 (100.0%) of 28,025 articles have been extended.
+28,025 (100.0%) of 28,030 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-03 (Monday)
+
+### IMF Board to review Sri Lanka’s economic progress on June 12
+
+*2024-06-03 10:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/IMF-Board-to-review-Sri-Lankas-economic-progress-on-June-12/108-283974) · `en`
+
+Colombo, June 3 (Daily Mirror) - The Article IV consultation and second review under the Extended Fund Facility (EFF) for Sri Lanka are on the IMF Board meeting agenda for June 12.
+
+State Minister of Finance Shehan Semasinghe said the session will evaluate Sri Lanka's economic policies and reform progress.
+
+"We look forward for continued support of all countries for a successful review to unlock the third tranche, which will further enhance economic stability, growth, and reform efforts. The IMF Executive Board will take up Sri Lanka's EFF second review on 12th June," he said.
+
+◼️
+
+[Data](articles/0a524258.json)
+
+---
+
+### Welipenna interchange reopened
+
+*2024-06-03 10:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Welipenna-interchange-reopened/108-283973) · `en`
+
+Colombo, June 3 (Daily Mirror) - The Welipenna interchange on the Southern Expressway, which was closed due to floods, has now been reopened for traffic, the Expressway Operation Maintenance and Management Division of the Road Development Authority (RDA) said.
+
+◼️
+
+[Data](articles/cc70b5de.json)
+
+---
+
+### Three Sri Lankans, 1 Indian held in fake passport scam
+
+*2024-06-03 10:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/99614/three-sri-lankans-1-indian-held-in-fake-passport-scam) · `en`
+
+During the ongoing probe into Sri Lankan refugees illegally obtaining Indian passports, India’s Crime Investigation Department (CID) officials on Saturday arrested two Sri Lankan nationals and an Indian agent who provided the passports.
+
+CID officials said that the foreign nationals — Varuniya Thiruvanavukkarasu and Sanjika — were arrested along with Priya Dharmalingam from Tamil Nadu.
+
+“Priya acted as a mediator and facilitated 21 Sri Lankan nationals in obtaining Indian passports in connivance with passport agents,” police said.
+
+So far, police has arrested 26 persons — 16 agents, 6 policemen, an employee of passport seva kendra and three Sri Lankan nationals.
+
+◼️
+
+[Data](articles/35312401.json)
+
+---
+
+### Welipenna Interchange on Expressway reopens for traffic
+
+*2024-06-03 09:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/99613/welipenna-interchange-on-expressway-reopens-for-traffic) · `en`
+
+The Welipenna Interchange on the Southern Expressway, which was closed due to flooding, has now reopened for traffic, according to the Road Development Authority (RDA).
+
+◼️
+
+[Data](articles/1498ca75.json)
+
+---
 
 ### Welipenna exchange opens on Southern Expressway
 
@@ -47,6 +105,30 @@ The Welipenna exchange of the Southern Expressway has been reopened for traffic 
 [Data](articles/15e7f6a8.json)
 
 [Extended Data](ext_articles/15e7f6a8.ext.json)
+
+---
+
+### 10 dead and 5 still missing due to bad weather in Sri Lanka
+
+*2024-06-03 09:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/99612/10-dead-and-5-still-missing-due-to-bad-weather-in-sri-lanka) · `en`
+
+The Disaster Management Centre has reported that at least 10 persons have died due to the prevailing adverse weather conditions across the island.
+
+It has further been reported that 5 persons are still missing and 20 persons are injured due to the multiple incidents caused by the bad weather.
+
+It is also mentioned that persons from 177 Divisional Secretariat divisions in 20 districts are affected by the adverse weather.
+
+Accordingly, the Disaster Management Centre reported that a total of 36,504 persons belonging to 9,764 families have been affected by the inclement weather and 5,174 persons have been sent to the 38 safe shelters.
+
+Furthermore, 28 complete property damages and 4,119 partial damages to houses, have been reported.
+
+The highest rainfall within the past 24 hours ending from 06.00 p.m. was 377 mm, recorded in the Pallewela area in Rathnapura district.
+
+The Department of Meteorology further stated that many areas in the country may receive more than 150 mm of rain showers today.
+
+...
+
+[Data](articles/e96a3366.json)
 
 ---
 
@@ -184,27 +266,35 @@ Further investigations are under the leadership of Chief Inspector of Police Sar
 
 ---
 
-### පූර්ණ හානියට පත් සියලු නිවාස රජයේ මුදලින් ඉදිකිරීමට පියවර.
+### Steps to build all the full damaged housing money from the government.
 
 *2024-06-03 09:21:26* · [`adalk`](https://www.ada.lk/breaking_news/පූර්ණ-හානියට-පත්-සියලු-නිවාස-රජයේ-මුදලින්-ඉදිකිරීමට-පියවර-/11-409975) · `si`
 
-අයහපත් කාළගුණයෙන් ආපදාවට පත්වූවන්ට කඩිනම් සහන සැලසීම සඳහා අවශ්‍ය මුදල් ප්‍රතිපාදන දිස්ත්‍රික් ලේකම්වරු වෙත වහාම නිකුත් කරන්න – ජනපතිගෙන් මුදල් ලේකම්ට උපදෙස්
+In response to widespread damage, the President directs the Finance Secretary to allocate funds for immediate relief, including food and health services. The government, military, and police commit to rebuilding homes within two months through a comprehensive plan led by the Presidential Advisor. The Disaster Management Center coordinates efforts, emphasizing public safety and rapid response.
 
-සහන සැලසීම සඳහා ආරක්ෂක අංශයේ සහ රාජ්‍ය නිලධාරීන්ගේ පූර්ණ මැදිහත්වීම.
+🟩
 
-ආරක්ෂිත මධ්‍යස්ථානවල රැදී සිටින සියලුදෙනාගේ ආහාර සහ සෞඛ්‍ය පහසුකම් අඛණ්ඩව සැපයීමට වැඩපිළිවෙළ සැකසේ.
+President instructs the Secretary to the Memorandum of Financial Secretary
 
-හදිසි ආපදා තත්ත්වයන් දැනුම් දීමට සහ සහන ලබා ගැනීමට 117 හදිසි ඇමතුම පැය 24 පුරා.
+Support of security and government officials to provide relief
 
-ගංවතුර හෝ ආපදා තත්ත්වය හේතුවෙන් විනාශයට පත්ව ඇති ස්ථාන නැරඹීමෙන් වැළකී සිටින ලෙසට මහජනතාවට උපදෙස්.
+It is necessary to continue to provide the food and health facilities of all the protection centers.
 
-ගංවතුර හෝ මාර්ගවල වතුර පිරි ඇති ස්ථානවල ජල ක්‍රීඩාවල නොයෙදෙන ලෙසත් ජනතාවට දැනුම් දෙයි.
+Emergency call 24 hours to inform and get relief to inform and obtain emergency disasters.
 
-මේ වසරේ නිරිත දිග මෝසම් තත්ත්වය ආරම්භ වීමෙන් පසු මේ වන විට රටේ උද්ගත වී ඇති අයහපත් කාළගුණ තත්ත්වය හේතුවෙන් ආපදාවට ලක්වූවන්ට කඩිනම් සහන සැලසීම සඳහා අවශ්‍ය මුදල් ප්‍රතිපාදන අදාළ දිස්ත්‍රික් ලේකම්වරු වෙත වහාම නිකුත් කරන ලෙස ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මුදල් අමාත්‍යාංශයේ ලේකම්වරයා වෙත උපදෙස් ලබා දුන්නේය.
+Advice the public to avoid being destroyed by the flood or disaster.
+
+The masses also informed the people to do not go in flooding places in flooding or roads.
+
+President Ranil Wickremesinghe instructed the Secretary to the Ministry of Finance to immediately issue the necessary funds to the District Secretaries to provide immediate necessary relief to the affected by the country.
+
+The President also instructed the parties to take steps to be built in the next two months with the contribution of all the houses that were completely damaged by the government, the armed forces and police.
 
 ...
 
 [Data](articles/7d1d1f0f.json)
+
+[Extended Data](ext_articles/7d1d1f0f.ext.json)
 
 ---
 
@@ -2097,111 +2187,5 @@ Therefore, the road can be used for traffic on traffic.
 [Data](articles/54e414ef.json)
 
 [Extended Data](ext_articles/54e414ef.ext.json)
-
----
-
-### Emergency notice to the people
-
-*2024-06-02 19:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197297) · `si`
-
-"Police have set up a disaster relief unit for those hit by severe weather. Call 011-242 1820 or 011-242 111 111 111 for assistance."
-
-🟩
-
-Police have established a special disaster relief unit to provide relief to the people affected by adverse weather conditions.
-
-Accordingly, the people can call for disaster concessions on 011- 242 1820 and 011- 242 111 111 111 111 111 111 111.
-
-◼️
-
-[Data](articles/80350a9f.json)
-
-[Extended Data](ext_articles/80350a9f.ext.json)
-
----
-
-### Army operations for our own people
-
-*2024-06-02 19:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197296) · `si`
-
-The military has dispatched armored vehicles and "unicorn" vehicles to assist in disaster relief efforts in Kalutara, Matara, and Galle districts due to adverse weather conditions. Additionally, boats have been sent to various locations including Bohawala, Neluwa, and others for rescue operations. A military contingent has been stationed near the Kelani River for security purposes. The army is also providing essential supplies like food and launching medical and water supply operations for displaced individuals in Akuressa, Malimbada, Neluwa, and Ekala.
-
-🟩
-
-The armored vehicles and 10 unicorn vehicles have been sent by the military to provide relief to the affected people with bad weather conditions.
-
-The army headquarters issued a statement that the vehicles were deployed for Kalutara, Matara and Galle districts.
-
-In addition, army teams have been directed with Boat for Bohawala, Neluwa, Neluwa, Neluwa, Neluwa, Neluwa, Neluwa, Neluwa, Neluwa, Neluwa, Neluwa, Neluwa, Neluwa, Neluwa, Neluwa, Neluwa, Neluwa, Leele, Baddegama and Neluwa.
-
-Meanwhile, a military batch of military person has been directed to Kelanimalulla area for security of the Kelani River River.
-
-The Army has also taken necessary food to provide food for displaced persons in Akuressa, Malimbada, Neluwa and Ekala areas.
-
-The army has launched a special operation to provide medical care and drinking water required for the displaced people in those areas.
-
-◼️
-
-[Data](articles/e5aeaec1.json)
-
-[Extended Data](ext_articles/e5aeaec1.ext.json)
-
----
-
-### Many streets were flooded due to inclement weather;The trains are delayed
-
-*2024-06-02 19:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/185144) · `ta`
-
-Heavy rain caused flooding on major roads and disrupted train services due to signal issues and fallen trees blocking the tracks. A bridge between two stations was also flooded, restricting train movement.
-
-🟩
-
-Due to inclement weather, the main road, coastal road and Puttalam road have been flooded.
-
-The Railway Department said some trains are delayed due to a signal problem.
-
-Railway General Manager Indipolake said that railway traffic has been blocked as trees have fallen on the railway line at several stations.
-
-A bridge between Vara and Koskama railway stations has been flooded and the train traveling on the Kelaniweli road has been restricted to the railway station.
-
-◼️
-
-[Data](articles/066391a8.json)
-
-[Extended Data](ext_articles/066391a8.ext.json)
-
----
-
-### Sri Lanka Police establish emergency hotline for disaster relief operations
-
-*2024-06-02 19:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/99604/sri-lanka-police-establish-emergency-hotline-for-disaster-relief-operations-) · `en`
-
-Sri Lanka Police have established a Special Operations Room for the assistance of the people affected by the current inclement weather conditions and to coordinate relief measures, Police Media Spokesman DIG Nihal Thalduwa said.
-
-The general public can accordingly seek assistance and coordinate with other disaster relief groups by contacting the relevant Special Operations Room through the following hotline numbers:
-
-◼️
-
-[Data](articles/44bbd7aa.json)
-
-[Extended Data](ext_articles/44bbd7aa.ext.json)
-
----
-
-### Two mistakes that waste time
-
-*2024-06-02 19:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/185133) · `ta`
-
-Muslim political leaders and MPs are criticized for not addressing community issues despite upcoming elections. Their lack of action on rights and solutions is seen as neglecting their responsibilities to the community.
-
-🟩
-
-Muslim political leaders and MPs have been wasting it for their community, even though they are clearly aware that at least one election is going to be held in four months.. Muslim parties or individual Muslim MPs are in a huge manner that cannot vote for the problems they have done, the rights given to this community, and the problems they have solved.. What kind of role is that they are heading to the head that people do it.
-
-◼️
-
-[Data](articles/8d06ce6a.json)
-
-[Extended Data](ext_articles/8d06ce6a.ext.json)
 
 ---

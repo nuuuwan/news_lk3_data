@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-03 11:34:23**
+As of **2024-06-03 11:54:16**
 
 ## Newspaper Stats
 
@@ -26,55 +26,73 @@ adaderanasinhalalk | 4,496
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,033 (100.0%) of 28,037 articles have been extended.
+28,037 (100.0%) of 28,037 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-03 (Monday)
 
-### 93 හැවිරිදි රූපට් මර්ඩොක් නැවතත් විවාහ වෙයි
+### 93 year old Rupert Murdoch gets married again
 
 *2024-06-03 11:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197321) · `si`
 
-ජාත්‍යන්තර මාධ්‍ය ක්ෂේත්‍රයේ ප්‍රබලයෙක් ලෙස සැලකෙන රූපට් මර්ඩොක් 5 වැනි වරටත් විවාහ වී ඇති බව වාර්තා වෙයි.
+Rupert Murdoch, 93, marries 67-year-old retired Russian biologist Wendi Deng for the fifth time. They have six children from Australia.
 
-93 හැවිරිදි රූපට් මර්ඩොක් ගේ මනාලිය වන්නේ 67 හැවිරිදි එලීනා ශුකොවා ය. ඇය විශ්‍රාමික රුසියානු ජීව විද්‍යාඥවරියකි.
+🟩
 
-ඔස්ට්‍රේලියාවේ උපත ලැබු රූපට් මර්ඩොක් ට දරුවන් 6 දෙනෙක් සිටියි.
+It is reported that Rupit Murdoch, who is considered an international media field, has been married for the 5th consecutive year.
+
+93 year old is Rupet Murdoch's bride, 67-year-old Eliy. She is a retired Russian biologist.
+
+There are six children at Australia born in Australia.
 
 ◼️
 
 [Data](articles/fffe3d50.json)
 
+[Extended Data](ext_articles/fffe3d50.ext.json)
+
 ---
 
-### போலி இந்திய கடவுச்சீட்டு:  இலங்கையர் இருவர் கைது
+### Fake Indian Passport: Two Sri Lankans arrested
 
 *2024-06-03 11:00:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போலி-இந்திய-கடவுச்சீட்டு-இலங்கையர்-இருவர்-கைது/175-338338) · `ta`
 
-இலங்கை அகதிகளுக்கான இந்திய கடவுச்சீட்டுகளை சட்டவிரோதமான முறையில் தயாரித்த இரண்டு இலங்கையர்கள் உட்பட மூவரை இந்திய அதிகாரிகள் கைது செய்துள்ளனர்.
+Indian authorities arrested three individuals, including two Sri Lankans, for producing fake Indian passports for refugees. The arrests were made in Tamil Nadu by the Criminal Investigation Department.
 
-குற்றப் புலனாய்வுப் பிரிவினர் இந்த சந்தேக நபர்களை தமிழகத்தில் வைத்து கைது செய்துள்ளதாக இந்திய ஊடகங்கள் செய்தி வெளியிட்டுள்ளன.
+🟩
+
+Indian authorities have arrested three persons, including two Sri Lankans who illegally produced Indian passports for Sri Lankan refugees.
+
+Indian media reports that the Criminal Investigation Department has arrested the suspects in Tamil Nadu.
 
 ◼️
 
 [Data](articles/f00690fd.json)
 
+[Extended Data](ext_articles/f00690fd.ext.json)
+
 ---
 
-### 13 பேர் மரணம்: ஐவர் மாயம்
+### 13 Death: Ivar magic
 
 *2024-06-03 10:51:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/13-பேர்-மரணம்-ஐவர்-மாயம்/175-338334) · `ta`
 
-கனமழையினால் ஏற்பட்ட வெள்ளப்பெருக்கு மற்றும் காற்றினால் ஏற்பட்ட அனர்த்தங்கள் காரணமாக  இரண்டு நாட்களில் 13 மரணங்கள் பதிவாகியுள்ளன.
+Heavy rains caused 13 deaths and affected 177 Divisional Secretariats across 20 districts, with 5 missing and 20 injured.
 
-விபத்துக்களால் ஐந்து பேர் காணவில்லை என்றும் 20 பேர் காயமடைந்துள்ளனர் என்றும் அனர்த்த நிவாரண மத்திய நிலையம் அறிவித்துள்ளது.
+🟩
 
-இந்த காலநிலை காரணமாக 20 மாவட்டங்களின் 177 பிரதேச செயலகப் பிரிவுகளைச் சேர்ந்த மக்கள் பாதிக்கப்பட்டுள்ளனர்.
+Thirteen deaths have been reported in two days due to floods and winds caused by heavy rains.
+
+The Disaster Relief Center said five people were missing and 20 were injured.
+
+Due to this weather, people from 177 Divisional Secretariats of 20 districts have been affected.
 
 ◼️
 
 [Data](articles/6dbafd1c.json)
+
+[Extended Data](ext_articles/6dbafd1c.ext.json)
 
 ---
 
@@ -100,15 +118,21 @@ Opposition Leader Sajith Premadasa has been appointed as the co-organizer of the
 
 ---
 
-### வெலிபென்ன இடைமாறல் மீண்டும் திறக்கப்பட்டது
+### Welibenna interrupt reopened
 
 *2024-06-03 10:46:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெலிபென்ன-இடைமாறல்-மீண்டும்-திறக்கப்பட்டது/175-338332) · `ta`
 
-வெள்ளம் காரணமாக மூடப்பட்டிருந்த தெற்கு அதிவேக நெடுஞ்சாலையின் வெலிபென்ன இடைமாறல் தற்போது மீண்டும் போக்குவரத்துக்காக திறக்கப்பட்டுள்ளதாக வீதி அபிவிருத்தி அதிகாரசபையின் (RDA) அதிவேக நெடுஞ்சாலை நடவடிக்கை பராமரிப்பு மற்றும் முகாமைத்துவ பிரிவு தெரிவித்துள்ளது.
+The Southern Highway, previously closed due to floods, has reopened for transport, according to the Road Development Authority's Highway Care and Management Division.
+
+🟩
+
+The Welipenna interference of the Southern Highway, which was closed due to floods, has now opened for transport, the Road Development Authority (RDA) Highway Highway Care and Management Division said.
 
 ◼️
 
 [Data](articles/5bac3af3.json)
+
+[Extended Data](ext_articles/5bac3af3.ext.json)
 
 ---
 

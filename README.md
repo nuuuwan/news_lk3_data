@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-03 20:04:58**
+As of **2024-06-03 20:19:00**
 
 ## Newspaper Stats
 
-*Scraped **28,167** Articles*
+*Scraped **28,168** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,520
 economynextcom | 1,604
 dailyftlk | 1,644
 adalk | 2,402
-adaderanalk | 3,207
+adaderanalk | 3,208
 tamilmirrorlk | 3,299
 virakesarilk | 4,342
 dailymirrorlk | 4,459
@@ -26,109 +26,165 @@ adaderanasinhalalk | 4,524
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,158 (100.0%) of 28,167 articles have been extended.
+28,167 (100.0%) of 28,168 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-03 (Monday)
 
-### களனி, கடுவெல, கம்பஹா கல்வி வலய பாடசாலைகளுக்கு பூட்டு!
+### Extreme weather: Death toll rises to 16, nearly 85,000 affected
+
+*2024-06-03 20:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/99640/extreme-weather-death-toll-rises-to-16-nearly-85000-affected) · `en`
+
+The Disaster Management Centre (DMC) confirmed that 16 deaths have been reported so far from across the island with a total of 84,749 persons from 21,353 families affected due to the prevailing adverse weather conditions.
+
+◼️
+
+[Data](articles/e504a689.json)
+
+---
+
+### Kelaniya, Kaduwela, Gampaha Educational Zone Schools
 
 *2024-06-03 19:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/185245) · `ta`
 
-கம்பஹா மாவட்டத்தின் கம்பஹா கல்வி வலயத்திற்கு உட்பட்ட பாடசாலைகள் அனைத்தும் 04ஆம் திகதி செவ்வாய்க்கிழமை  மூடப்படும் என வலய கல்வி பணிமனை அறிவித்துள்ளது.
+All schools in Gampaha, Kelaniya, Kaduwela, and Homagama educational zones will be closed on April 4th due to a zonal education workshop announcement.
 
-அத்துடன், களனி மற்றும் கடுவெல கல்வி வலய பாடசாலைகளுக்கும் நாளை விடுமுறை வழங்க தீர்மானிக்கப்பட்டுள்ளது.
+🟩
 
-இரத்தினபுரி, கேகாலை, களுத்துறை, காலி மற்றும் மாத்தறை மாவட்ட பாடசாலைகளுக்கும், ஹோமாகம கல்வி வலயத்திற்கு உட்பட்ட அனைத்து பாடசாலைகளும் 04ஆம் திகதி  விடுமுறை வழங்கப்பட்டுள்ளதாக கல்வி அமைச்சு அறிவித்துள்ளது.
+The Zonal Education Workshop has announced that all schools under the Gampaha Education Zone of Gampaha District will be closed on Tuesday, 04.
+
+In addition, the Kelaniya and Kaduwela Educational Zone schools have decided to grant holidays tomorrow.
+
+The Ministry of Education has announced that all schools belonging to the Homagama Education Zone have been granted holidays on the 04th.
 
 ◼️
 
 [Data](articles/1f7bbc6b.json)
 
+[Extended Data](ext_articles/1f7bbc6b.ext.json)
+
 ---
 
-### කාසියේ වාසිය ශ්‍රී ලංකාවට
+### Sri Lanka to benefit the coin
 
 *2024-06-03 19:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197350) · `si`
 
-20යි 20 ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ ශ්‍රී ලංකා කණ්ඩායම මුහුණ දෙන පළමු තරගය අද (03) දකුණු අප්‍රිකානු කණ්ඩායම සමග පැවැත්වෙයි.
+In the World Cup, Sri Lanka faces South Africa in its first match, gaining an early advantage.
 
-එම තරගයේ කාසියේ වාසිය දිනාගැනීමට ශ්‍රී ලංකා කණ්ඩායම කණ්ඩායම සමත්විය.
+🟩
+
+The first match faced by the Sri Lankan team in the World Cup will be with South African group today.
+
+Sri Lanka team won the advantage of the match.
 
 ◼️
 
 [Data](articles/c6e51374.json)
 
+[Extended Data](ext_articles/c6e51374.ext.json)
+
 ---
 
-### அனர்த்தத்தினால் பாதிக்கப்பட்ட மக்களின் நிலைமையை நேரில் கண்டறிவதற்காக கொலன்னாவ, களனி மற்றும் அம்பத்தளை பிரதேசங்களுக்கு ஜனாதிபதி மேற்பார்வை விஜயம்
+### President's oversight visit to Kolonnawa, Kelaniya and Ambattala areas to find the condition of the people affected by the disaster
 
 *2024-06-03 19:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/185244) · `ta`
 
-களனி ஆற்றுப் பள்ளத்தாக்கில் வெள்ளத்தை ஏற்படுத்தும் வகையிலும், மழை நீர் வழிந்தோடுவதைத் தடுக்கும் வகையிலும் மேற்கொள்ளப்படும் புதிய நிர்மாணங்களுக்கு இடமளிக்க வேண்டாம் என ஜனாதிபதி ரணில் விக்ரமசிங்க அதிகாரிகளுக்கு பணிப்புரை விடுத்துள்ளார்.
+President Ranil Wickremesinghe visited Kolonnawa, Kelaniya, and Ambattala to assess flood damage, directing against new constructions in flood-prone areas and illegal land filling. He urged relocation of hospitals and immediate aid for victims, emphasizing health and safety. Wickremesinghe called for a comprehensive flood control plan involving Urban Development, Disaster Management, and Irrigation Departments. Sagala Ratnayake highlighted the need for a special program to protect properties and suggested military involvement in providing relief, including setting up temporary centers and combating diseases like dengue and flu.
 
-குறித்த பிரதேசங்களில் சட்டவிரோதமான முறையில் நிலம் நிரப்பப்படுவதை உடனடியாக நிறுத்துவதற்கும் முல்லேரியா மற்றும் IDH வைத்தியசாலைகளை வேறு இடத்திற்கு மாற்றுவதற்கும் நடவடிக்கை எடுக்குமாறு அதிகாரிகளுக்கு ஜனாதிபதி பணிப்புரை விடுத்தார்.
+🟩
 
-சீரற்ற காலநிலையினால் ஏற்பட்ட வெள்ளம் மற்றும்  அனர்த்தங்களினால் பாதிக்கப்பட்ட மக்களின் நிலைமைகளைக் கண்டறிவதற்காக ஜனாதிபதி ரணில் விக்ரமசிங்க 03 ஆம் திகதி திங்கட்கிழமை கொலன்னாவ, களனி, அம்பத்தளை ஆகிய பிரதேசங்களுக்கு மேற்பார்வை விஜயம் மேற்கொண்டார். கொலன்னாவை சேதாவத்த வெஹெரகொட ரஜமஹா விகாரையில் நடைபெற்ற  கலந்துரையாடலில்  ஜனாதிபதி இந்த அறிவுறுத்தல்களை வழங்கினார்.
+President Ranil Wickremesinghe has directed the authorities not to allow new constructions to be flooded in the Kelani River Valley and to prevent rain water from flowing.
+
+The President has directed the authorities to take immediate steps to stop the illegal filling of land in these areas and to relocate the Mulleria and IDH hospitals elsewhere.
+
+President Ranil Wickremesinghe made a visit to Kolonnawa, Kelaniya and Ambattale on Monday, 3rd, to detect the conditions of the people affected by the floods and disasters due to inclement weather conditions.. The President gave these instructions during a discussion held at the Rajamaha Viharaya in Kolonnawa.
+
+The victims are staying in Ambattalai. The President went to the Silva Vidyalaya and the Wellampitiya Gamini Vidyalaya Security Center, heard the welfare of the people and instructed the authorities to carry out their needs and carry out continuous work.
 
 ...
 
 [Data](articles/d665b5f1.json)
 
+[Extended Data](ext_articles/d665b5f1.ext.json)
+
 ---
 
-### එජාප ය මැතිවරණය ඉලක්ක කර නව නිලධාරී මණ්ඩලයක් පත්කරයි
+### UNP appoints a new staff to target election
 
 *2024-06-03 19:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197349) · `si`
 
-එක්සත් ජාතික පක්ෂ කෘත්‍යාධිකාරී මණ්ඩලය ඉදිරි මැතිවරණ ඉලක්ක කර ගනිමින් නව නිලධාරී මණ්ඩලයක් පත් කරගනු ලැබීය.
+The UNP Working Committee appointed a new office committee for its election campaign, including Minister Harin Fernando as the National Electoral Organizer, former Minister Ravi Karunanayake as the National Secretary, and President's Counsel Ronal Perera as the Deputy Secretary General of the Elections. Additionally, changes were made in the UNP Treasurer position, with Mr. Firos Shabbadean appointed as the Vice President and Krishan Theodore as Deputy Secretary General.
 
-එක්සත් ජාතික පක්ෂ නායක ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් පිටකෝට්ටේ සිරිකොත පක්ෂ මූලස්ථානයේ දී කෘත්‍යාධිකාරී මණ්ඩලය ඊයේ රැස්විය.
+🟩
 
-එහිදී ජාතික මැතිවරණ සංවිධායක ලෙස අමාත්‍ය හරීන් ප්‍රනාන්දු මහතා පත්කර ගනු ලැබූ අතර ජාතික ලේකම් වශයෙන් හිටපු අමාත්‍ය රවී කරුණානායක මහතා පත්විය.
+The UNP Working Committee appointed a new office committee targeting the election campaign.
 
-ජනාධිපති නීතීඥ රොනල්ඩ් පෙරේරා මහතා මැතිවරණ නියෝජ්‍ය මහ ලේකම් ධුරයට පත් කෙරිණි.
+The Working Committee met yesterday at Pitakotte Sirikotha Sirikotha Sirikotha Sirikotha Sirikotha Sirikotha Sirikotha Sirikotha.
 
-මීට අමතරව එක්සත් ජාතික පක්ෂ නිලධාරී මණ්ඩලයේ ද සුළු වෙනසක් සිදු කෙරුණු අතර එක්සත් ජාතික පක්ෂයේ භාණ්ඩාගාරික ලෙස ෆිරෝස් ශාබ්දීන් මහතාද භාණ්ඩාගාරික ලෙස කටයුතු කළ මිස්බා සතාර් මහතා උප සභාපති ලෙසද , ක්‍රිෂාන් තියඩෝර් මහතා නියෝජ්‍ය මහලේකම් ලෙසද පත් කෙරිණි.
+Minister Harin Fernando was appointed by Minister Harin Fernando as the National Electoral Organizer and former Minister Ravi Karunanayake was appointed as the National Secretary.
 
-මේ අතර එක්සත් ජාතික පක්ෂයේ නියෝජ්‍ය නායක රුවන් විජයවර්ධන, මහලේකම්  පාලිත රංගෙ බණ්ඩාර, සභාපති  වජිර අබේවර්ධන, ජාතික සංවිධායක සාගල රත්නායක, උපනායක අකිල අකිල විරාජ් කාරියවසම් මහත්වරුන් ප්‍රමුඛ සෙසු නිලධාරීන්ගේ තනතුරු වෙනස් නොවී පවත්වා ගෙන යාමටද කෘත්‍යාධිකාරි මණ්ඩලයේදී  තීරණය කෙරිණි.
+President's Counsel Ronal Perera was appointed as the Deputy Secretary General of the Elections.
+
+In addition, the UNP office staff also made a slight change in the UNP Treasurer and Mr. Firos Shabbadean was also appointed as the Vice President and Krishan Theodore as Deputy Secretary General.
+
+Meanwhile Deputy Leader Ruwan Wijewardena, Chairman Vajira Ratmana Bandara, Chairman Vajira Ratnayake, Wajela Ratnayake, Ven.
 
 ◼️
 
 [Data](articles/0d5a8707.json)
 
+[Extended Data](ext_articles/0d5a8707.ext.json)
+
 ---
 
-### ஜெயம் ரவி நடிக்கும் 'காதலிக்க நேரமில்லை' பட பிரத்யேக காணொளி வெளியீடு
+### Jaime Ravi's 'Love Time'
 
 *2024-06-03 19:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/185202) · `ta`
 
-தமிழ் திரையுலகின் முன்னணி நட்சத்திர நடிகரான ஜெயம் ரவி கதையின் நாயகனாகவும், கதாநாயகனாகவும் நடித்திருக்கும் 'காதலிக்க நேரமில்லை' எனும் திரைப்படத்தின் பாடல்கள் விரைவில் வெளியாகவிருக்கிறது. இந்நிலையில் இதற்காக பிரத்யேக காணொளி ஒன்றை படக்குழுவினர் வெளியிட்டு, படத்தின் பாடல்களைப் பற்றிய எதிர்பார்ப்பை ஏற்படுத்தியிருக்கிறார்கள்.
+"Jayam Ravi stars in 'Kadikaikkam,' directed by Krithika Udayanidhi, featuring Nithya Menon, Yogi Babu, and others. Music by R. Rahman. The film's shooting is complete, and its songs are anticipated. A special video promoting the release has excited fans."
 
-இயக்குநர் கிருத்திகா உதயநிதி இயக்கத்தில் உருவாகி இருக்கும் 'காதலிக்க நேரமில்லை' எனும் திரைப்படத்தில் ஜெயம் ரவி, நித்யா மேனன், யோகி பாபு, வினய் ராய், டி ஜே பானு, ஜான் கொக்கன், லால், லக்ஷ்மி ராமகிருஷ்ணன், பாடகர் மனோ, வினோதினி வைத்தியநாதன் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். கேவ்மிக் ஆரி ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு 'இசை புயல்' ஏ. ஆர். ரஹ்மான் இசையமைத்திருக்கிறார்.  காதலை மையப்படுத்தி தயாராகி இருக்கும் இந்த திரைப்படத்தை ரெட் ஜெயன்ட் மூவிஸ் பிரைவேட் லிமிடெட் நிறுவனம் தயாரித்திருக்கிறது.
+🟩
 
-...
+The songs of the film 'Kadikaikkam', which plays the hero and hero of the Tamil film industry, Jayam Ravi, will be released soon.. In this case, the film crew has released a special video for this and has been expecting the songs of the film.
+
+Directed by director Krithika Udayanidhi, Jaime Ravi, Nithya Menon, Yogi Babu, Vinay Roy, D Jan Kokan, Lakshmi Ramakrishnan, singer Mano, Vinodhini Vaidyanathan. The film, which has recorded the cinematography by Cavemik Arya. R. Rahman has composed the music.The film is being produced by Red Giant Movies Private Limited.
+
+The shooting of the film is completed and the post -shooting is going on. The single track featured in the film is expected to be released soon. In this case, the film crew has posted a special video on the Internet to increase the expectations of the film's song. It has impressed the fans.
+
+◼️
 
 [Data](articles/48a4b103.json)
 
+[Extended Data](ext_articles/48a4b103.ext.json)
+
 ---
 
-### சீரற்ற வானிலையால் இரண்டு வாரங்களில் 24 மரணங்கள் - அனர்த்த முகாமைத்துவ மத்திய நிலையம்
+### 24 deaths in two weeks due to random weather - Disaster Management Center
 
 *2024-06-03 19:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/185240) · `ta`
 
-நாட்டில் கடந்த சில தினங்களாக நிலவும் சீரற்ற காலநிலை காரணமாக சுமார் பல மாவட்டங்கள் கடுமையாகப் பாதிக்கப்பட்டுள்ளன. குறிப்பாக இரத்தினபுரி மற்றும் மாத்தறை மாவட்டங்களில் அதிகளவான மரணங்களும் பதிவாகியுள்ளன.
+In the past two weeks, severe weather caused 24 deaths across several districts, with the highest tolls in Ratnapura and Matara. The Disaster Management Center reports 16 fatalities occurred within the first two days alone, including five in Ratnapura, three in Colombo, six in Matara, and two in Galle. This period saw a significant increase from the previous two weeks, which had only eight fatalities.
 
-முதலாம் மற்றும் இரண்டாம் திகதிகளில் 9 மரணங்கள் பதிவாகியிருந்த நிலையில் திங்கட்கிழமை (3) காலை 6 மணி வரை அந்த எண்ணிக்கை 16ஆக உயர்வடைந்துள்ளதாக அனர்த்த முகாமைத்துவ மத்திய நிலையம் தெரிவித்துள்ளது.
+🟩
 
-அதற்கமைய 3 தினங்களில் இரத்தினபுரி மாவட்டத்தில் 5 மரணங்களும், கொழும்பில் 3 மரணங்களும், மாத்தறையில் 6 மரணங்களும், காலியில் இரு மரணங்களும்  பதிவாகியுள்ளதாக அனர்த்த முகாமைத்துவ மத்திய நிலையம் தெரிவித்துள்ளது.
+Many districts have been severely affected by the inclement weather in the country for the past few days. Most of the deaths have been reported in the districts of Ratnapura and Matara, especially in the districts.
 
-மேலும் மே மாதம் 15ஆம் திகதி முதல் கடந்த முதலாம் திகதி வரையான இரண்டு வாரங்களில் மாத்திரம் மரம் முறிந்து விழுந்தமையால் காலி, இரத்தினபுரி, புத்தளம், நுவரெலியா மற்றும் பதுளை மாவட்டங்களில் 8 பேர் உயிரிழந்துள்ளனர்.
+The number of deaths on the first and second day of the deaths have risen to 16 am on Monday (3), the Disaster Management Center said.
+
+According to the Disaster Management Center, 5 deaths in Ratnapura district, 3 deaths in Colombo, 6 deaths in Matara and two deaths in Galle.
+
+In the two weeks from May 15 to the first day, only eight people have died in the Galle, Ratnapura, Puttalam, Nuwara Eliya and Badulla districts due to the fall.
+
+A 40 -year -old man on May 21 in Galle, Galle, a 40 -year -old in Balangoda on the 22nd and a 50 -year -old man in Kodagawala area on the 28th of May.
+
+Similarly, a 39 -year -old woman in Nathantia area, a 36 -year -old woman in Nathantia area on May 22, and a 22 -year -old woman in Arachikattuwa area on the 23rd, died.
 
 ...
 
 [Data](articles/913e6313.json)
+
+[Extended Data](ext_articles/913e6313.ext.json)
 
 ---
 
@@ -654,25 +710,31 @@ The film will be released in Tamil, Telugu, Malayalam, Kannada and Hindi on the 
 
 ---
 
-### இந்திய அரசியலில் மாற்றத்தை ஏற்படுத்தியவர் கலைஞர் கருணாநிதி : ராகுல் காந்தி
+### Artist Karunanidhi: Rahul Gandhi
 
 *2024-06-03 16:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/185223) · `ta`
 
-''இந்திய அரசியலில் மாற்றத்தை ஏற்படுத்தியவர் முன்னாள் தமிழக முதல்வர் கலைஞர் கருணாநிதி'' என காங்கிரஸ் கட்சியின் முன்னாள் தலைவரும், முன்னணி தலைவருமான ராகுல் காந்தி புகழாரம் சூட்டியுள்ளார்.
+Rahul Gandhi, a former Congress leader, praised the late Tamil Nadu Chief Minister Karunanidhi for his significant contributions to Indian politics, focusing on social justice, economic equality, and Tamil culture. On Karunanidhi's 101st birthday, tributes were held in New Delhi, attended by several political leaders, including Senia Gandhi, Sitaram Yechury, and D Raja. Rahul Gandhi also shared photos and expressed his admiration for Karunanidhi's impact on countless people across India.
 
-மறைந்த தமிழக முன்னாள் முதல்வர் கலைஞர் கருணாநிதியின் 101 வது பிறந்தநாள் இன்று தமிழகம் முழுவதும்  சிறப்பாக கொண்டாடப்படுகிறது.
+🟩
 
-இதன் ஒரு பகுதியாக புது தில்லியில் உள்ள திமுக அலுவலகத்தில் கலைஞர் கருணாநிதிக்கு அஞ்சலி செலுத்தும் நிகழ்வு நடைபெற்றது.
+Former Congress leader and leading leader Rahul Gandhi has praised the "former Tamil Nadu Chief Minister Karunanidhi, the one who made a change in Indian politics."
 
-இதன் போது காங்கிரஸ் கட்சியின் மூத்த தலைவரான சோனியா காந்தி, ராகுல் காந்தி, மார்க்சிஸ்ட் கம்யூனிஸ்ட் கட்சியின் பொதுச்செயலாளர் சீதாராம் யெச்சூரி, இந்திய கம்யூனிஸ்ட் கட்சியின் பொதுச்செயலாளர் டி ராஜா, திமுக கட்சியின் முன்னணி மற்றும் மூத்த நிர்வாகிகளான திருச்சி சிவா, டி. ஆர். பாலு உள்ளிட்ட பலர் பங்குபற்றினர்.
+The 101st birthday of the late former Chief Minister Karunanidhi is celebrated all over Tamil Nadu today.
 
-கலைஞர் கருணாநிதியின் புகைப்படத்திற்கு மலர் தூவி மரியாதை செலுத்திய புகைப்படங்களை தன்னுடைய எக்ஸ் தளத்தில் ராகுல் காந்தி பதிவிட்டிருக்கிறார். அதனுடன்
+As part of this, the DMK office in New Delhi held a tribute to artist Karunanidhi.
 
-'' தமிழகத்தின் முன்னாள் முதல்வர் கலைஞர் மு கருணாநிதியின் பிறந்த நாளில் அவருக்கு நெஞ்சார்ந்த அஞ்சலிகள்.
+Senia Gandhi, senior leader of the Congress party, Rahul Gandhi, Sitaram Yechury, General Secretary of the Marxist Communist Party, D Raja, General Secretary of the Communist Party of India, the leading and senior executives of the DMK party, Trichy Siva. R. Many people, including Balu, participated.
+
+Rahul Gandhi has posted photos of artist Karunanidhi's photo on his X site. There with
+
+“He has a heartfelt tributes on the birthday of former Chief Minister of Tamil Nadu Mu Karunanidhi.
 
 ...
 
 [Data](articles/3ca7e04a.json)
+
+[Extended Data](ext_articles/3ca7e04a.ext.json)
 
 ---
 
@@ -786,15 +848,21 @@ All access roads to Neluwa hospital had gone under water bringing transport of p
 
 ---
 
-### இந்தியாவின் அடுத்த பிரதமர் யார்? ; கருத்து கணிப்பு கூறுவது என்ன ?
+### Who is the next Prime Minister of India?;What does the poll say?
 
 *2024-06-03 16:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/185221) · `ta`
 
-உலகின் பல முன்னணி ஊடகங்களின் நாளைய தலைப்புச்  செய்தியாக அமைய போவது,  இந்திய தேர்தல் மற்றும் பிரதமர் யார் ? என்பது தொடர்பான முக்கிய செய்திகள் என்று கூறலாம்.
+The next Prime Minister of India is yet to be determined as per current polls, with various candidates vying for the position. Leading media worldwide will likely focus on this significant event, highlighting key messages from the Indian elections.
+
+🟩
+
+Who is the headline of the tomorrow of many leading media in the world, who is the Indian election and the Prime Minister?The key messages can be said.
 
 ◼️
 
 [Data](articles/94809f5b.json)
+
+[Extended Data](ext_articles/94809f5b.ext.json)
 
 ---
 
@@ -884,25 +952,33 @@ Manager of the Bureau's Special Investigation Division (Special Investigation Di
 
 ---
 
-### பாலித ரங்கே பண்டாரவின் கருத்துக்கள் குறுகிய அரசியல் நோக்கங்களுக்காக திரிபுபடுத்தப்பட்டுள்ளன - ஜானக வக்கும்பர
+### Palitha Range Bandara's comments have been distorted for short political purposes - Janaka Wakumbara
 
 *2024-06-03 16:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/185213) · `ta`
 
-ஐக்கிய தேசிய கட்சியின் பொதுச் செயலாளர் பாலித ரங்கே பண்டார தெரிவித்த கருத்தினை சில கட்சிகள் தமது குறுகிய அரசியல் நோக்கங்களுக்காக திரிபுபடுத்தியுள்ளன.
+Janaka Wakumbara accuses political parties of distorting Palitha Range Bandara's statements for electoral gains. Despite claims, both the president and government intend to hold elections as per constitutional requirements.
 
-அவை குறிப்பிடுவதைப் போன்று ஜனாதிபதியோ, அரசாங்கமோ தேர்தலை நடத்தாமலிருப்பதற்கு திட்டமிடவில்லை என்று உள்ளுராட்சி மற்றும் மாகாணசபைகள் இராஜாங்க அமைச்சர் ஜானக வக்கும்பர தெரிவித்தார்.
+🟩
 
-ஜனாதிபதி ஊடக மையத்தில் திங்கட்கிழமை (3)  இடம்பெற்ற ஊடகவியலாளர் மாநாட்டில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+Some parties have distorted their narrow political purposes of the UNP general secretary Palitha Range Bandara.
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கு மேலும் 2 வருடங்கள் காலத்தை வழங்கினால் சிறந்தது என்றே பாலித ரங்கே பண்டார தெரிவித்தார்.
+Local Government and Provincial Councils Minister of State for Local Government and Provincial Councils Janaka Wakumbara said that neither the president nor the government would hold elections.
 
-அடுத்த ஆண்டு ஆகஸ்ட் வரை பாராளுமன்றத்துக்கு பதவி காலம் உள்ளது. ஜனாதிபதியால் கலைக்கப்படாவிட்டால் அடுத்த வருடம் வரை பாராளுமன்றம் இயங்கும்.
+He further stated at a press conference held at the Presidential Media Center on Monday (3).
 
-இவ்வாண்டு ஒக்டோபர் 17ஆம் திகதிக்கு முன்னர் ஜனாதிபதித் தேர்தல் நடத்தப்பட வேண்டும். அரசியலமைப்பில் அவ்வாறே கூறப்பட்டுள்ளது. அதற்கமையவே நாம் செயற்பட வேண்டும். ஜனாதிபதியும் அதனை பல சந்தர்ப்பங்களில் உறுதிபட கூறியுள்ளார்.
+Palitha Range Bandara said that it would be best to give President Ranil Wickremesinghe for a further 2 years.
+
+There is a term for parliament until August next year. Parliament will run until next year if the president is not dissolved.
+
+The presidential election must be held before October 17 this year. The same has been stated in the Constitution. We must act accordingly. The president has also stated it on several occasions.
+
+But some political parties are distorting what he said for their narrow political purposes. The parties have also noted that the president is trying to prevent the election.
 
 ...
 
 [Data](articles/34f857d6.json)
+
+[Extended Data](ext_articles/34f857d6.ext.json)
 
 ---
 
@@ -2123,25 +2199,5 @@ Accordingly, the case was ordered to be recalled on July 13, granting time for t
 [Data](articles/df144d00.json)
 
 [Extended Data](ext_articles/df144d00.ext.json)
-
----
-
-### History
-
-*2024-06-03 12:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/185186) · `ta`
-
-In 1969, American astronauts aboard the Apollo spacecraft witnessed Earth rise from the moon, capturing its beauty. This historic event coincided with June 3, the same day the Weerakesari magazine featured articles about space exploration, highlighting the connection between humanity's achievements in space and our appreciation of Earth's beauty.
-
-🟩
-
-From the earth we see the sunrise, the lunar dawn. But in 1969, American astronauts went to the moon through the Apollo spacecraft and saw the earth rising and photographed it.
-
-Here you can see that this rustic earth is decorated with the Weerakesari magazine published on the same date (June 3) in 1969.
-
-◼️
-
-[Data](articles/ae6b092c.json)
-
-[Extended Data](ext_articles/ae6b092c.ext.json)
 
 ---

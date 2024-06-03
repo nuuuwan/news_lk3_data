@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-03 23:54:06**
+As of **2024-06-04 00:06:57**
 
 ## Newspaper Stats
 
-*Scraped **28,192** Articles*
+*Scraped **28,193** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,36 +19,60 @@ adalk | 2,407
 adaderanalk | 3,209
 tamilmirrorlk | 3,305
 virakesarilk | 4,344
-dailymirrorlk | 4,464
+dailymirrorlk | 4,465
 adaderanasinhalalk | 4,529
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,190 (100.0%) of 28,192 articles have been extended.
+28,192 (100.0%) of 28,193 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-03 (Monday)
 
-### நாளை மூடப்படும் பாடசாலைகளின் முழு விபரங்கள் வெளியானது
+### Nortje takes 4-7 as South Africa beat Sri Lanka in T20 World Cup
+
+*2024-06-03 23:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Nortje-takes-4-7-as-South-Africa-beat-Sri-Lanka-in-T20-World-Cup/108-284036) · `en`
+
+(New York) - South Africa's Anrich Nortje took a remarkable four wickets for just seven runs as the Proteas dismissed Sri Lanka for a record low 77 on their way to a six-wicket win in the teams' T20 World Cup opener in New York on Monday.
+
+Sri Lanka's total was their lowest in all T20 cricket, with fast bowler Nortje's figures the best by a South African at a T20 World Cup, surpassing his own 4-10 against Bangladesh in Sydney two years ago.
+
+Kagiso Rabada (2-21) and left-arm spinner Keshav Maharaj, who took two wickets in two balls on his way to 2-22, also damaged Sri Lanka's cause.
+
+Opener Kusal Mendis (19) and veteran all-rounder Angelo Mathews (16) were the only Sri Lanka batsmen to pass 15 after their captain, Wanindu Hasaranga, seemingly misread conditions by opting to bat first after winning the toss in what was the first match at a Long Island ground built specially for this tournament.
+
+...
+
+[Data](articles/777a90f7.json)
+
+---
+
+### Full details of schools that will be closed tomorrow
 
 *2024-06-03 23:23:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாளை-மூடப்படும்-பாடசாலைகளின்-முழு-விபரங்கள்-வெளியானது/175-338389) · `ta`
 
-தற்போதைய மோசமான வானிலை காரணமாக, பின்வரும் மாகாணங்கள், மாவட்டங்கள் மற்றும் பிராந்தியங்களில் உள்ள அரச பாடசாலைகளுக்கு நாளை (06/04/2024) விசேட விடுமுறை வழங்க தீர்மானிக்கப்பட்டுள்ளது.
+Due to poor weather, state schools in Gampaha, Kelaniya, and Kaduwela zones will close tomorrow. Other areas remain open. Further closures may depend on post-weather assessments by Provincial Zone Directors.
 
-ஏனைய மாகாணங்கள் மற்றும் பிராந்தியங்களில் உள்ள பாடசாலைகளுக்கு விடுமுறை  வழங்கப்படாது என தீர்மானிக்கப்பட்டுள்ளது. அந்த மாகாணங்களில் வழக்கம் போல் பாடசாலை நடைபெறும்.
+🟩
 
-இங்கு குறிப்பிடப்படாத அனைத்து மாகாணங்களிலும் மாவட்டங்களிலும் பிராந்தியங்களிலும் பாடசாலைகள் 06/04/2024 அன்று வழக்கம் போல் நடைபெறும்.
+Due to the current bad weather, it has been decided to grant special holidays to state schools in the following provinces, districts and regions tomorrow (06/04/2024).
 
-06/04/2024 க்குப் பிறகு நிலவும் வானிலையின் அடிப்படையில், மாகாண வலய பணிப்பாளர்களினால் பாடசாலைகளை நடத்துவது தொடர்பில் முடிவுகள் எடுக்கப்படும் என்றும் கல்வியமைச்சு அறிவித்துள்ளது.
+It has been decided that holidays will not be given to schools in other provinces and regions. The school will be held in those provinces as usual.
 
-இதேலேளை, மேல்மாகாண கல்விப் பணிப்பாளர் நாயகத்தின் தீர்மானத்திற்கு அமைய கம்பஹா மற்றும் களனி கல்வி வலயங்களிலும் கடுவெல கல்வி கோட்டத்திலும் உள்ள அனைத்து அரச பாடசாலைகளும் நாளை (04) மூடப்படும். R
+Schools will be held on 06/04/2024 as usual in all provinces, districts and regions.
+
+The Ministry of Education has announced that decisions will be taken on the conduct of schools by the Provincial Zone Directors on the basis of the weather after 06/04/2024.
+
+All state schools in the Gampaha and Kelaniya Education Zones and Kaduwela Education Division will be closed tomorrow. Remble
 
 ◼️
 
 [Data](articles/980be800.json)
+
+[Extended Data](ext_articles/980be800.ext.json)
 
 ---
 
@@ -886,17 +910,25 @@ Ancient Rajamaha Viharaya, Sedawatta, Sedawatta, Sedawatta, Sedawatta, is Kolonn
 
 ---
 
-### ජනමත විචාරණය ව්‍යවස්ථානුකූලව හා ප්‍රජාතන්ත්‍රවාදීව කළ හැකියි
+### Referendum can be done constitutional and democratic
 
 *2024-06-03 17:41:05* · [`adalk`](https://www.ada.lk/breaking_news/ජනමත-විචාරණය-ව්‍යවස්ථානුකූලව-හා-ප්‍රජාතන්ත්‍රවාදීව-කළ-හැකියි/11-409995) · `si`
 
-තමන් ආණ්ඩුක්‍රම ව්‍යවස්ථාවට පටහැණි කිසිදු ප්‍රකාශයක් සිදු කර නොමැති බවත්,ජනාධිපතිවරයා විසින් ගෙන යන වැඩපිළිවෙළට බහුතර ජනතා විශ්වාසය හිමිව තිබෙන බවත්, ඒ අනුව ජනමත විචාරණය ව්‍යවස්ථානුකූලව හා ප්‍රජාතන්ත්‍රවාදීව කළ හැකි දෙයක් බවත්  එක්සත් ජාතික පක්ෂයේ මහලේකම් පාලිත රංගේ බණ්ඩාර මහතා පැවසීය. මේ මොහොතේ ආණ්ඩුක්‍රම ව්‍යවස්ථාව අනුව ප්‍රමුඛස්ථානය දිය යුත්තේ ජනතාවගේ ජීවත්වීමේ අයිතිය තහවුරු කිරීමට බව ද හෙතෙම ප්‍රකාශ කළේය.
+UNP General Secretary Palitha Range Bandara supports extending President Ranil Wickremesinghe's term through a constitutional and democratic referendum, emphasizing its alignment with the constitution and people's trust. He highlights the cost-effectiveness of referendums over general elections and urges unity among political parties to advance the nation's economic agenda.
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ධුර කාලය තවත් වසර දෙකකින් දීර්ඝ කළ යුතු බවට මීට පෙර තමා විසින් කළ ප්‍රකාශය සම්බන්ධයෙන් විශේෂ ප්‍රකාශයක් සිදු කරමින් අද (03දා) සිරිකොත පක්ෂ මූලස්ථානයේදී පැවැත් වූ විශේෂ මාධ්‍ය සාකච්ඡාවේ දී රංගෙ බණ්ඩාර මහතා මෙම අදහස් පළ කළේය.
+🟩
+
+UNP General Secretary Palitha Range Bandara said that the president's arrangement has been made to the Constitution and that the president is constitutional and democratically done.. He said that the constitution should be given the priority of the people to ensure the ownership of the people.
+
+Range Bandara made these comments at a special press conference held at the party headquarters by Sirikotha today (3) that President Ranil Wickremesinghe's term of office should be extended in two years.
+
+"I mean the role of Parliament in a referendum. Both of these matters are not contrary to the constitution. Not an anti-democratic. The fact that the Constitution is to mention. I was talking about a provision of the Constitution. The majority of people in the country have had the trust in the president after the struggle. That is what the people are in the people.
 
 ...
 
 [Data](articles/de2c0e05.json)
+
+[Extended Data](ext_articles/de2c0e05.ext.json)
 
 ---
 
@@ -2243,29 +2275,5 @@ Staff at the Haputale Railway Station and the police managed to douse the fire w
 [Data](articles/e3cbd30b.json)
 
 [Extended Data](ext_articles/e3cbd30b.ext.json)
-
----
-
-### Details of schools that will be closed tomorrow
-
-*2024-06-03 13:27:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாளை-மூடப்படும்-பாடசாலைகளின்-விபரம்/175-338355) · `ta`
-
-State schools in certain provinces, districts, and regions will close tomorrow due to bad weather, while others will remain open. The Ministry of Education will decide post-06/04/2024 based on weather conditions.
-
-🟩
-
-Due to the current bad weather, it has been decided to provide special holidays for tomorrow (06/04/2024) for state schools in the following provinces, districts and regions.
-
-It has been decided not to be given a special holiday for schools in other provinces and regions. The school will be held in those provinces as usual.
-
-Schools will be held on 06/04/2024 as usual in all provinces, districts and regions.
-
-The Ministry of Education has announced that decisions will be taken on the conduct of schools by the Provincial Zone Directors on the basis of the weather after 06/04/2024.
-
-◼️
-
-[Data](articles/6235c806.json)
-
-[Extended Data](ext_articles/6235c806.ext.json)
 
 ---

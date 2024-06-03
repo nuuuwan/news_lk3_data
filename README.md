@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-03 17:35:40**
+As of **2024-06-03 17:55:02**
 
 ## Newspaper Stats
 
-*Scraped **28,119** Articles*
+*Scraped **28,136** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,244 @@ newsfirstlk | 363
 islandlk | 1,519
 economynextcom | 1,597
 dailyftlk | 1,644
-adalk | 2,395
-adaderanalk | 3,202
-tamilmirrorlk | 3,297
+adalk | 2,399
+adaderanalk | 3,204
+tamilmirrorlk | 3,298
 virakesarilk | 4,335
-dailymirrorlk | 4,454
-adaderanasinhalalk | 4,511
+dailymirrorlk | 4,458
+adaderanasinhalalk | 4,517
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,119 (100.0%) of 28,119 articles have been extended.
+28,119 (99.9%) of 28,136 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-03 (Monday)
+
+### Two more missing persons found; total deaths increase to 14
+
+*2024-06-03 17:37:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Two-more-missing-persons-found-total-deaths-increase-to-14/108-284002) · `en`
+
+Colombo, June 3 (Daily Mirror) - The recovery of two bodies of persons reported missing from the Tawalama area in Galle yesterday (03) due to floods, brings the total casualties from the ongoing adverse weather conditions across the island to 14, the Disaster Management Centre (DMC) said.
+
+The DMC has identified the two deceased as males, aged 53 and 23 years.
+
+◼️
+
+[Data](articles/8eafa50d.json)
+
+---
+
+### Adverse weather reduces water pressure in several areas in Colombo
+
+*2024-06-03 17:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Adverse-weather-reduces-water-pressure-in-several-areas-in-Colombo/108-284001) · `en`
+
+Colombo, June 3 (Daily Mirror) - Due to adverse weather conditions, the water pressure will decrease during peak hours due to the disconnection of the main water supply line near the Thummodara bridge, the National Water Supply and Drainage Board (NWSDB) said.
+
+They said the main water line from the Kalatuwawa water purification plant has been disconnected and the pressure of the water supply will be low between 6 a.m. and 9 a.m. and 5 p.m. and 9 p.m.
+
+Accordingly, the Galagedara, Padukka, Godagama, Homagama, Pannipitiya, Rukmalgama, Pelenwatta, Mattegoda, Maharagama, Borelesgamuwa and Pepiliyana areas will be affected by the low-pressure water supply.
+
+Therefore, a decision has been taken to provide drinking water from the Kalatuwawa water purification plant till further notice.
+
+◼️
+
+[Data](articles/6025e316.json)
+
+---
+
+### World Athletics announces new global competition with record prize fund
+
+*2024-06-03 17:28:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/World-Athletics-announces-new-global-competition-with-record-prize-fund/108-284000) · `en`
+
+June 3 (BBC) - World Athletics has announced a new global championship to start in 2026 which will feature the biggest prize fund in the sport’s history.
+
+The World Athletics Ultimate Championship will see world champions, Olympic champions, Diamond League winners and the year’s leading athletes go up against each other while representing their national teams.
+
+The event will have a $10m (£7.87m) kitty with gold medallists receiving $150,000 (£118,000).
+
+Competition will take place over three evening sessions and will include sprints, middle and long-distance races, relays, jumps and throws.
+
+World Athletics says it will be "the ultimate season finale" and will be a "thrilling and fast-moving new format for athletics".
+
+Budapest, which staged last year’s World Championship, will host the inaugural event from 11-13 September 2026 - and it will be held every two years after that with host cities to be decided.
+
+...
+
+[Data](articles/5eff0c1e.json)
+
+---
+
+### වැඩිවන මහා ගංවතුරේ නවතම නිවේදනය එළියට
+
+*2024-06-03 17:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197343) · `si`
+
+ගංවතුර තත්ත්වය පිළිබඳව නවතම නිවේදනය වාරිමාර්ග දෙපාර්තමේන්තුව විසින් නිකුත් කර තිබේ.
+
+එහි දැක්වෙන්නේ කළු ගඟ පුටුපාවුල සහ ඇල්ලගාව ප්‍රදේශයෙනුත් කුඩා ගඟ මිල්ලකන්ද ප්‍රදේශයෙනුත් තවදුරටත් මහා ගංවතුර තත්ත්වයක් පවතින බවය.
+
+එසේම මෙම ගංවතුර තත්ත්වයේ වර්ධනයක් තවදුරටත් සිදුවන බව එම නිවේදනයේ දැක්වෙයි.
+
+මේ අතර නිලවලා ගඟ තල්ගහගොඩ ප්‍රදේශයෙන් තවදුරටත් මහා ගංවතුර තත්ත්වයක් පවතින අතර එයද වර්ධනය වෙමින් පවතින බව එහි දැක්වෙයි.
+
+එසේම අත්තනගලු ඔය තවදුරටත් මහා ගංවතුර තත්ත්වයක් පැවතිය ද එහි සුළු අඩුවීමක් පෙන්නුම් කරන බව වාරිමාර්ග දෙපාර්තමේන්තුව පවසයි.
+
+අද පස්වරු 3.30ට වාරිමාර්ග දෙපාර්තමේන්තුව නිකුත් කළ කැලණි, කළු, ගිං, නිල්වලා, මහඔය. අත්තනගලු ඔය ආශ්‍රිත ගංවතුර තත්ත්වයේ නවතම නිවේදනය පහතින්.
+
+◼️
+
+[Data](articles/7bd74e09.json)
+
+---
+
+### Bodies of two persons reported missing in Tawalama floods recovered
+
+*2024-06-03 17:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/99636/bodies-of-two-persons-reported-missing-in-tawalama-floods-recovered) · `en`
+
+The bodies of the two persons reported missing yesterday (03) due to floods in the Tawalama area in Galle have been recovered, the Disaster Management Centre (DMC) said.
+
+The two deceased persons have been identified to be males aged 53 and 23 years, according to the DMC.
+
+This brings the tally of casualties reported due to the prevailing adverse weather conditions across the island to 14.
+
+◼️
+
+[Data](articles/7a6d284f.json)
+
+---
+
+### මහ වැස්ස ගැන අලුත්ම ආරංචියක්
+
+*2024-06-03 17:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197342) · `si`
+
+දිවයිනේ නිරිතදිග කොටසේ පවතින තද වැසි තත්ත්වයේ තාවකාලික අඩුවීමක් හෙට (04) සිට බලාපොරොත්තු වනබව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, බස්නාහිර, සබරගමුව, මධ්‍යම, දකුණ සහ වයඹ පළාත්වල වැසි වාර කිහිපයක් ඇතිවිය හැකි බවය.
+
+දිවයිනේ සෙසු ප්‍රදේශවල සවස් කාලයේ හෝ රාත්‍රී කාලයේ තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැක.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවට දැනුම් දී තිබේ.
+
+◼️
+
+[Data](articles/10f30483.json)
+
+---
+
+### Evaluation of 2023 O/L answer sheets postponed
+
+*2024-06-03 17:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/99635/-evaluation-of-2023-ol-answer-sheets-postponed) · `en`
+
+The Department of Examinations announced that the commencement of the evaluation activities of 2023 (2024) G.C.E. Ordinary Level Examination’s answer sheets has been postponed until June 08, 2024.
+
+Issuing a statement, Commissioner General of Exams Amith Jayasundara stated that this decision was reached taking into account the difficulties that examiners might experience in reaching the evaluation centres amid adverse weather conditions.
+
+Originally scheduled to begin on June 06, evaluation activities of G.C.E. Ordinary Level Examination’s answer sheets will now take place from June 08 to June 17 at 101 centers established across the island.
+
+◼️
+
+[Data](articles/e14c792b.json)
+
+---
+
+### පොහොට්ටුවේ තිලක් රාජපක්ෂ සජිත්ගේ වේදිකාවට
+
+*2024-06-03 16:58:10* · [`adalk`](https://www.ada.lk/breaking_news/පොහොට්ටුවේ-තිලක්-රාජපක්ෂ-සජිත්ගේ-වේදිකාවට/11-409991) · `si`
+
+දිගාමඩුල්ල දිස්ත්‍රික් ශ්‍රී ලංකා පොදුජන පෙරමුණුු පාර්ලිමේන්තු මන්ත්‍රී තිලක් රාජපක්ෂ අද  (03)උදේ අම්පාර මහඔය බොරපොල විද්‍යාලයේ  පැවැති විපක්ෂ නායක සජිත් ප්‍රේමදාසගේ සක්වල වැඩසටහන වේදිකාවට ගොඩ වී ඇත.
+
+වේදිකාවට ගොඩ වී කතා කරත් නිල හෝ නොනිල වශයෙන් සමගි ජන බලවේගය සමග එක්වූ බවක් ඔහු ප්‍රකාශ කර නොතිබිනි.
+
+පහල ඡයාරූපයේ දැක් වෙන්නේ විපක්ෂ නායක සජිත් පෙු්මදාස  සමග  අම්පාර දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී තිලක් රාජපක්ෂ  පදියතලාවේ  ගල්ඕඩේ විද්‍යාලයේ අද (03) පැවති සක්වල වැඩසටහනට පෙරහැරින් පැමි⁣ණෙන ආකාරයයි.
+
+◼️
+
+[Data](articles/15fd1615.json)
+
+---
+
+### තවලමදී සැඩපහරට හසුවූ දෙදෙනාගේ සිරුරු හමුවෙයි
+
+*2024-06-03 16:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197341) · `si`
+
+තවලම ප්‍රදේශයේ ගංවතුරට හසුවී අතුරුදන් ව සිටි පුද්ගලයින් දෙදෙනාගේ සිරුරු හමුවී තිබේ.
+
+මෙලෙස මියගොස් ඇත්තේ වයස අවුරුදු 23ක සහ 53 හැවිරිදි වියේ පසුවන පුද්ගලයෙකි.
+
+◼️
+
+[Data](articles/5521ac25.json)
+
+---
+
+### උඩරට දුම්රියක් පීලි පනියි
+
+*2024-06-03 16:44:50* · [`adalk`](https://www.ada.lk/breaking_news/උඩරට-දුම්රියක්-පීලි-පනියි/11-409989) · `si`
+
+අද  (03) සවස පීලි  පැණීමට ලක්ව ඇති  බව නාවලපිටිය දුම්රිය පාලක මැදිරිය පවසයි.කොළඹ කොටුවේ   සිට බදුල්ල   බලා ධාවනය වු අංක හත දරණ මගී දුම්රිය මෙසේ  පීලි පැනීමට ලක්ව ඇතැයි දුම්රිය පාලක මැදිරිය සඳහන් කරයි.
+
+මේ හේතුවෙන් උඩරට දුම්රිය මාර්ගයේ  දුම්රිය ධාවනයට බාධා එල්ල වී පැවැතිණි.බදුල්ලේ සිට කොළඹ කොටුව බලා ධාවනය වු අංක අට දරණ මගී දුම්රිය පීලි පැනීමට ලක් වු දුම්රි මැදිරි  පීලි  ගත කිරීමේ කටයුතු සිදු කොට අවසන් වන තෙක්  කොටගල දුම්රිය ස්ථානයේ නවතා තැබීමට පියවර ගෙන ඇති බවත්,  පීලි පැනීමට ලක් වු දුම්රිය මැදිරි පීලි ගත කිරීමේ කටයුතු දුම්රිය සේවකයන් විසින් සිදු කිරීමට පියවර ගෙන ඇති   බවද  නාවලපිටිය දුම්රිය පාලක මැදිරිය වැඩිදුරටත් සඳහන් කරයි.
+
+◼️
+
+[Data](articles/82ba6ca0.json)
+
+---
+
+### දුම්රියක් පීලි පනී
+
+*2024-06-03 16:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197340) · `si`
+
+දුම්රියක් පීලි පැනීමෙන් උඩරට දුම්රිය මාර්ගයේ ධාවන කටයුතුවලට බාධා එල්ලවී තිබේ.
+
+වැඩිදුරටත් තොරතුරු වාර්තාවන්නේ හැටන් සහ කොටගල දුම්රිය ස්ථාන අතර මෙලෙස දුම්රියක් පීලි පැන ඇති බවටය.
+
+කොළඹ කොටුව සිට බදුල්ල බලා ධාවනය වෙමින් තිබූ අර්ධ සීඝ්‍රගාමි දුම්රියක් මෙලෙස පීලි පැනීමකට ලක්ව තිබේ.
+
+◼️
+
+[Data](articles/14791c52.json)
+
+---
+
+### Multiple disasters reported around the country
+
+*2024-06-03 16:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Multiple-disasters-reported-around-the-country/108-283998) · `en`
+
+June 3 (Daily Mirror) - Provincial Disaster Management Centers (DMC) have reported multiple disasters across various regions, with heavy rains over the past few days causing widespread flooding and inundating numerous roads throughout the country.
+
+Accordingly, traffic on the Badulla-Spring Valley road came to a standstill due to the fall of trees obstructing the road. The Badulla Disaster Management Unit has taken steps to clear the obstructions.
+
+In Galle seveal roads in Neluwa, Thawalama, Udugama and Mapalagama areas went under water causing obstructions to transport due to the flooding of the Gin Ganga.
+
+Traffic on the Neluwa-Lankagama road too came to a standstill due to a massive eathslip in the Ratnadola area on the borders of the Sinharaja forest.
+
+All access roads to Neluwa hospital had gone under water bringing transport of patients and the hospital staff to a standstill. The expectant mothes and patients liable in need of emergency treatments were flown to the Udugama Base Hospital.
+
+...
+
+[Data](articles/5fbea57c.json)
+
+---
+
+### ප්‍රචණ්ඩ සැඩ පහර අවසන් වූ පසු රංවල දේවාලය අසළින් මතුවූ දේ
+
+*2024-06-03 16:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197339) · `si`
+
+ජුනි මස 01 වනදා අවිස්සාවේල්ල පුවක්පිටිය ප්‍රදේශයට පතිත වූ අධික වර්ෂාව සමග ඇතිවූ හදිසි ගංවතුර තත්ත්වය සමග සැඩ පහරට හසුවී ගසාගෙන ගිය  ත්‍රිරෝද රථයක් රංවල දේවාලය අසළින් හමුවී තිබේ.
+
+මෙතෙක් එහි හිමිකරුවන් එම ස්ථානයට පැමිණ නොමැති අතර ප්‍රදේශවාසීන් පවසන්නේ තරුණයින් දෙදෙනෙකු එම සිදුවීම වූ අවස්ථාවේ සිය ත්‍රිරෝද රථය අනතුරට ලක්වූ බවට ඔවුන් වෙත පැවසූ බවය.
+
+ගංවතුරට හසුවූ ත්‍රිරෝද රථයට දැඩිලෙස අලාභහානි සිදුව ඇති අතර එහි හිමිකරුවන් සිටී නම් අවිස්සාවේල්ල රංවල දේවාලය අසළට පැමිණෙන ලෙස ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/6faf493a.json)
+
+---
 
 ### Litro Gas to reduce prices again
 
@@ -45,6 +267,22 @@ The new prices will be announced tomorrow morning, Mr. Peiris added.
 [Data](articles/e0ee19e9.json)
 
 [Extended Data](ext_articles/e0ee19e9.ext.json)
+
+---
+
+### ගෑස් මිල පහළට
+
+*2024-06-03 16:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197338) · `si`
+
+ගෘහස්ථ ගෑස් සිලින්ඩරයක මිල පහළ දැමීමට ලිට්‍රෝ සමාගම තීරණය කර තිබේ.
+
+හෙට මධ්‍යම රාත්‍රියේ සිට ක්‍රියාත්මක වන පරිදි මෙම නව මිල සංශෝධනය සිදුකිරීමට නියමිතව ඇත.
+
+ලිට්‍රෝ ගෑස් සමාගමේ සභාපති මුදිත පීරිස් මහතා පැවසුවේ සංශෝධිත මිල ගණන් හෙට දිනයේ ප්‍රකාශයට පත්කරන බවය.
+
+◼️
+
+[Data](articles/f17a8207.json)
 
 ---
 
@@ -264,6 +502,22 @@ Officials of the Commission to investigate bribery or corruption were brought to
 
 ---
 
+### தமிழ் அதிபருக்கு விளக்கமறியல்
+
+*2024-06-03 15:26:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழ்-அதிபருக்கு-விளக்கமறியல்/175-338364) · `ta`
+
+மதிய உணவுக்கான விலைமனு கோரலை பெற்றுக்கொடுப்பதற்காக, 30 ஆயிரம் ரூபாய் பணத்தை இலஞ்சமாக பெற்றதாக சந்தேகத்தின் பேரில் கைது செய்யப்பட்ட எலியகொட (தமிழ் வித்தியாலயம்) பாடசாலை ஒன்றின் அதிபரை எதிர்வரும் 11ஆம் திகதி வரை விளக்கமறியலில் வைக்குமாறு கொழும்பு பிரதான நீதவான் திலின கமகே திங்கட்கிழமை (03) உத்தரவிட்டுள்ளார்.
+
+கடந்த 21 ஆம் திகதி கைது செய்யப்பட்டு அவிசாவளை நீதிமன்றத்தினால் விளக்கமறியலில் வைக்கப்பட்டிருந்த அதிபரின்  விளக்கமறியலே இவ்வாறு நீடிக்கப்பட்டுள்ளது.
+
+விலைமனு கோரலை அனுமதிப்பதற்காக சந்தேகநபர் 30,000 ரூபாவை கேட்டதாகவும், ஆரம்பத்தில் 10 ஆயிரம் ரூபாவை பெற்றுக்கொண்டதாகவும், மீதி 20 ஆயிரம் ரூபாவை பெற்றுக்கொண்ட போதே கைது செய்யப்பட்டதாகவும் இலஞ்சம் அல்லது ஊழல் பற்றிய சார்த்துதல்களைப் புலனாய்வு செய்வதற்கான ஆணைக்குழுவின் அதிகாரிகள் நீதிமன்றத்தின் கவனத்துக்கு கொண்டுவந்தனர்.
+
+◼️
+
+[Data](articles/d78fd196.json)
+
+---
+
 ### Will Justice Power for Reconciliation Mechanism - Will a Special Court be established?What does the Director of the Interim Secretariat of the Truth Reconciliation Commission report?
 
 *2024-06-03 15:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/185211) · `ta`
@@ -314,6 +568,26 @@ Accordingly, a group of people who were nominated as respondents in the petition
 
 ---
 
+### අපුර මූල්‍ය ආයතනයක මහා කොල්ලයක්
+
+*2024-06-03 15:05:56* · [`adalk`](https://www.ada.lk/breaking_news/අපුර-මූල්‍ය-ආයතනයක-මහා-කොල්ලයක්/11-409982) · `si`
+
+අනුරාධපුර නගරයේ,  බැංකු පෙදෙසේ මෛත්‍රීපාල සේනානායක මාවතේ  පිහිටා ඇති පෞද්ගලික මූල්‍ය ආයතනයක සේප්පුව කඩා දමා එහි තිබූ මුදල් හා රන් භාණ්ඩ තොගයක් සොරකම් කර රැගෙන යාමේ සිද්ධියක් සම්බන්ධයෙන් අද  (3 දා) උදෑසන විමර්ශන ආරම්භ කල බව අනුරාධපුර මූලස්ථාන පොලිසිය පවසයි.
+
+මෙම පෞද්ගලික මූල්‍ය  ආයතනයේ පිටුපස දොර කඩා දමා ඇතුළු වී ඇති  සොරකු හෝ පිරිසක් එහි තිබූ සේප්පුව කපා දමා මෙම සොරකම සිදු කර ඇති බව පොලිසිය කියයි.
+
+මෙම සේප්පුව තුල රුපියල් කෝටියකට වැඩි රන් භාණ්ඩ සහ ලක්ෂ 25 කට ආසන්න මුදලක් තිබූ බවට අප කල විමසීමකදී නිල නොවන ආරංචි මාර්ග සඳහන් කළේය.
+
+කඩා දමා තිබූ සේප්පුවේ රන් භාණ්ඩ සියල්ල සොරුන් විසින් රැගෙන ගොස් නොතිබූ බවත්  ඉන් කොටසක් සේප්පුව  තුලම දමා ගොස් ඇති අතර, සොරකම් කර රැගෙන ගිය   මුදල් හා රන්  මිල අද  (3දා) දහවල් වන විටත් ගණනය කර නොතිබූ බව අප කල විමසීමකදී උසස් පොලිස් නිලධාරියෙකු පැවසීය.
+
+සිද්ධියට සම්බන්ධ සැකකරුවෙකු හෝ පිරිසක් අත්අඩංගුවට ගැනීම සඳහා පොලිස් කණ්ඩායම් කිහිපයක් යොදවා අංශ කීපයක් ඔස්සේ විමර්ශන ක්‍රියාත්මක බව පොලිසිය වැඩි දුරටත් සඳහන් කළේය.
+
+...
+
+[Data](articles/5953831d.json)
+
+---
+
 ### Keheliya and 7 others further remanded, one granted bail
 
 *2024-06-03 15:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/99630/keheliya-and-7-others-further-remanded-one-granted-bail) · `en`
@@ -357,6 +631,24 @@ The four suspects have been released on two lakhs of bail and a cash bail of Rs.
 [Data](articles/ed9f1582.json)
 
 [Extended Data](ext_articles/ed9f1582.ext.json)
+
+---
+
+### මෙවර ශ්‍රීපාද වන්දනා සමයේදී කැළි කසල කිලෝ ලක්ෂයක් ඉවත් කරයි
+
+*2024-06-03 14:51:50* · [`adalk`](https://www.ada.lk/breaking_news/මෙවර-ශ්‍රීපාද-වන්දනා-සමයේදී-කැළි-කසල-කිලෝ-ලක්ෂයක්-ඉවත්-කරයි/11-409981) · `si`
+
+මෙවර අවසන් වූ ශ්‍රීපාද වන්දනා සමයේ මාස 06 ක කාලය තුළ ශ්‍රීපාද වන්දනා කරුවන් විසින් නල්ලතන්නිය-ශ්‍රීපාද මාර්ගයේ පරිසරයට හා ශ්‍රීපාද රක්ෂිතයට බැහැර කර තිබූ දිරා නොයන ඝණ අපද්‍රව්‍ය ඇතුළු කැළි කසල කිලෝ ලක්ෂයකට ආසන්න ප්‍රමාණයක් මස්කෙළිය ප්‍රාදේශිය සභාවේ පරිසර අංශය මගින් ඉවත් කළ බව එම ප්‍රාදේශිය සභාවේ පරිසර නිලධාරිණී රසිකා සමරණායක මහත්මිය පැවසුවාය.
+
+ගෙවුණු වන්දනා සමය 2023 දෙසැම්බර් මාසයේ සිට 2024 මැයි මස වෙසක් පුන් පෝය දින දක්වා පැවැත්විණි.
+
+ඉවත් කරන ලද කැළි කසල තොගයට දිරණ කසල කිලෝ 60,000 ක්, නොදිරණ කසල කිලෝ 36,000 ක් හා ප්ලාස්ටික් බෝතල් කිලෝ 3000 ක් අයත් වූ බව පරිසර නිලධාරිණී රසිකා සමරණායක සහත්මිය පැවසුවාය.
+
+නල්ලතන්නිය රිකාටන් ප්‍රදේශයේ පිහිටි මස්කෙළිය ප්‍රාදේශිය සභාවට යටතේ ඇති කසල ප්‍රතිචක්‍රීයකරණ මධ්‍යස්ථානය වෙත මෙම දිරණ හා නොදිරණ කසල තොගය ගෙනවිත් එම ස්ථානයේදී ප්‍රතිචක්‍රීයකරණ ක්‍රියාවලිය සිදු කරන බවමස්කෙළිය ප්‍රාදේශිය සභාවේ ලේකම් ආර්.රාජවීරන් මහතා පැවසීය.
+
+◼️
+
+[Data](articles/92c1762e.json)
 
 ---
 
@@ -428,11 +720,11 @@ ECONOMYNEXT – Torrential monsoon rains have killed 15 people in Sri Lanka and 
 
 Water levels in the Kalu and Nilwala rivers, and the Attanagalu Oya were in ‘major flood’ level, while the Gin and Kelani rivers were in ‘minor flood’ level, Sri Lanka’s Department of Irrigation said in a public warning.
 
+The Department of Meteorology has said heavy rain, strong winds and rough seas conditions will continue until tomorrow morning.
+
 The island’s Disaster Management said 3,727 families were hit by floods and landslides. 641 families have been evacuated.
 
 “The Army, Navy, Air Force, Police, and the Civil Defense Force are aiding in rescue operations,” state minister for Defense Premitha Bandara Tennakoon told reporters.
-
-The Army said it has deployed 20 rescue teams with 17 boats. 25 battalions are on stand-by in several districts, “That’s a force of 8,000 personnel,” spokesman Major General K A N Rasika Kumara said.
 
 ...
 
@@ -734,11 +1026,13 @@ The five suspects are currently being investigated at the Talaimannar police sta
 
 ---
 
-### 300 of 100,000 trees in Colombo considered high risk: state minister
+### Sri Lanka watching 300 ‘high risk’ trees in the capital Colombo
 
 *2024-06-03 13:05:00* · [`economynextcom`](https://economynext.com/300-of-100000-trees-in-colombo-considered-high-risk-state-minister-165860/) · `en`
 
-ECONOMYNEXT – Trees in Sri Lanka’s capital Colombo are being monitored by the municipal council, Army and Civil Defense Force as the severe weather conditions continue, State Minister for Defense Premitha Bandara Tennakoon said.
+ECONOMYNEXT – Sri Lanka’s military and the Civil Defence Force, city authorities are monitoring 300 trees in the capital Colombo, as pouring rain and gusting winds brings down large trees, State Minister for Defense Premitha Bandara Tennakoon said.
+
+Colombo, sometimes known as the Garden City of Asia has beautiful trees, some dating back to the British period and brought from around the world.
 
 “Within the Colombo Municipal Council city limits, there are 100,000 trees. Of these, around 300 are considered high risk,” Tennakoon told reporters at a media conference to raise awareness about the current disaster management situation.
 
@@ -747,8 +1041,6 @@ Not all trees required to be cut down he said. “We can trim some of the branch
 The problem was that buildings in the vicinity of the tree had cut branches on one side, causing it to become unbalanced, the minister said.
 
 New laws would be brought in so provincial/municipal institutions could strengthen enforcement of building codes.
-
-“We don’t have a single institution that can issue a warning about a tree. Not one to tell us what trees can or cannot be planted near a road.
 
 ...
 
@@ -1779,409 +2071,5 @@ State Minister of Finance Shehan Semasinghe said the session will evaluate Sri L
 [Data](articles/d2d86543.json)
 
 [Extended Data](ext_articles/d2d86543.ext.json)
-
----
-
-### Welipenna interchange reopened
-
-*2024-06-03 10:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Welipenna-interchange-reopened/108-283973) · `en`
-
-Colombo, June 3 (Daily Mirror) - The Welipenna interchange on the Southern Expressway, which was closed due to floods, has now been reopened for traffic, the Expressway Operation Maintenance and Management Division of the Road Development Authority (RDA) said.
-
-◼️
-
-[Data](articles/cc70b5de.json)
-
-[Extended Data](ext_articles/cc70b5de.ext.json)
-
----
-
-### Three Sri Lankans, 1 Indian held in fake passport scam
-
-*2024-06-03 10:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/99614/three-sri-lankans-1-indian-held-in-fake-passport-scam) · `en`
-
-During the ongoing probe into Sri Lankan refugees illegally obtaining Indian passports, India’s Crime Investigation Department (CID) officials on Saturday arrested two Sri Lankan nationals and an Indian agent who provided the passports.
-
-CID officials said that the foreign nationals — Varuniya Thiruvanavukkarasu and Sanjika — were arrested along with Priya Dharmalingam from Tamil Nadu.
-
-“Priya acted as a mediator and facilitated 21 Sri Lankan nationals in obtaining Indian passports in connivance with passport agents,” police said.
-
-So far, police has arrested 26 persons — 16 agents, 6 policemen, an employee of passport seva kendra and three Sri Lankan nationals.
-
-◼️
-
-[Data](articles/35312401.json)
-
-[Extended Data](ext_articles/35312401.ext.json)
-
----
-
-### Welibenna interrupted area turned to usual
-
-*2024-06-03 10:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/185173) · `ta`
-
-The Welipenna section of the Southern Expressway, previously closed due to flooding, has been reopened.
-
-🟩
-
-The Road Development Authority said that the Welipenna interruption area, which had been closed due to floods on the Southern Expressway, has been restored.
-
-◼️
-
-[Data](articles/97739ed7.json)
-
-[Extended Data](ext_articles/97739ed7.ext.json)
-
----
-
-### Politicians retreated during the Arakalaya - Anuragumara
-
-*2024-06-03 10:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/185170) · `ta`
-
-During the Arakalaya, politicians retreated but have since returned, according to JVP leader Anuragumaratisanayake. He criticized them for not learning from the event and instead insulting it. He highlighted the importance of a government that meets the aspirations of the people, emphasizing the need for a country free from corruption and fraud.
-
-🟩
-
-JVP leader Anuragumaratisanayake said that politicians who retreated during the Arakalaya are now backing up.
-
-He was speaking at the National People's Power Conference held in Kurunegala.
-
-He said that the Rowdy politicians who retreated after the Arakalaya had begun to reappear, "he said.
-
-He said the government that could ensure the true aspirations of the 2022 people's uprising is the national people's power government.
-
-The JVP leader noted that politicians still do not learn the lessons from the Arakalaya but also insult it.
-
-Anurakumaratisanayake said that the people, especially the youth, took to the streets for common aspirations without identifying themselves with any political party.
-
-He said that people are expecting a country where corruption and fraudulent morality and fraud.
-
-◼️
-
-[Data](articles/c022d3db.json)
-
-[Extended Data](ext_articles/c022d3db.ext.json)
-
----
-
-### Decisive Day to Sri Lanka 12
-
-*2024-06-03 10:08:07* · [`adalk`](https://www.ada.lk/breaking_news/ජූනි-12-ලංකාවට-තීරණාත්මක-දිනයක්/11-409976) · `si`
-
-Sri Lanka expects continued financial support for its economic stability, development, and reforms. The fourth counseling and second review of Sri Lanka's comprehensive debt facility were discussed, with key staff present.
-
-🟩
-
-Fourth Counseling and Second Review of Sri Lanka on Sri Lanka's Comprehensive Debt Facility on Sri Lanka. Staff included at the Order Paper.
-
-Financial Minister Shehan Semasinghe says Sri Lanka is expecting continuous support for the release of the third installment of the country's economic stability, development and reform efforts.
-
-◼️
-
-[Data](articles/865c06d2.json)
-
-[Extended Data](ext_articles/865c06d2.ext.json)
-
----
-
-### Welipenna Interchange on Expressway reopens for traffic
-
-*2024-06-03 09:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/99613/welipenna-interchange-on-expressway-reopens-for-traffic) · `en`
-
-The Welipenna Interchange on the Southern Expressway, which was closed due to flooding, has now reopened for traffic, according to the Road Development Authority (RDA).
-
-◼️
-
-[Data](articles/1498ca75.json)
-
-[Extended Data](ext_articles/1498ca75.ext.json)
-
----
-
-### Welipenna exchange opens on Southern Expressway
-
-*2024-06-03 09:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197318) · `si`
-
-The Welipenna exchange on the Southern Expressway has reopened, allowing traffic to flow through once again.
-
-🟩
-
-The Welipenna exchange of the Southern Expressway has been reopened for traffic on the Southern Expressway.
-
-◼️
-
-[Data](articles/15e7f6a8.json)
-
-[Extended Data](ext_articles/15e7f6a8.ext.json)
-
----
-
-### 10 dead and 5 still missing due to bad weather in Sri Lanka
-
-*2024-06-03 09:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/99612/10-dead-and-5-still-missing-due-to-bad-weather-in-sri-lanka) · `en`
-
-The Disaster Management Centre has reported that at least 10 persons have died due to the prevailing adverse weather conditions across the island.
-
-It has further been reported that 5 persons are still missing and 20 persons are injured due to the multiple incidents caused by the bad weather.
-
-It is also mentioned that persons from 177 Divisional Secretariat divisions in 20 districts are affected by the adverse weather.
-
-Accordingly, the Disaster Management Centre reported that a total of 36,504 persons belonging to 9,764 families have been affected by the inclement weather and 5,174 persons have been sent to the 38 safe shelters.
-
-Furthermore, 28 complete property damages and 4,119 partial damages to houses, have been reported.
-
-The highest rainfall within the past 24 hours ending from 06.00 p.m. was 377 mm, recorded in the Pallewela area in Rathnapura district.
-
-The Department of Meteorology further stated that many areas in the country may receive more than 150 mm of rain showers today.
-
-...
-
-[Data](articles/e96a3366.json)
-
-[Extended Data](ext_articles/e96a3366.ext.json)
-
----
-
-### Sri Lanka rupee opens stable at 301.85/302.00 to US dollar
-
-*2024-06-03 09:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stable-at-301-85-302-00-to-us-dollar-165843/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened stable at 301.85/302.00 to the US dollar on Monday, from 301.90/302.00 the previous week, dealers said. Bond yields were steady.
-
-A bond maturing on 15.12.2026 was quoted up at 9.75/85 percent from 9.80/95 percent.
-
-A bond maturing on 15.09.2027 was quoted at 10.40/50 percent from 10.40/55 percent.
-
-A bond maturing on 01.07.2028 was quoted stable at 10.80/90 percent.
-
-The Colombo Stock Exchange opened down. The All Share Price Index was down 0.03 percent at 12,103, the S&P SL20 was down 0.14 percent at 3,563. (Colombo/June3/2024)
-
-◼️
-
-[Data](articles/3062fab9.json)
-
-[Extended Data](ext_articles/3062fab9.ext.json)
-
----
-
-### Sri Lankans crossed Indian Passport in India
-
-*2024-06-03 09:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197317) · `si`
-
-In India, authorities arrested three individuals, including two Sri Lankans, for allegedly forging Indian passports for Sri Lankan refugees. The arrests were made in Tamil Nadu by the Criminal Investigation Department. An Indian woman was also arrested, believed to be involved in the passport fraud. The CID launched an investigation into the case, leading to the arrest of 26 people, including three Sri Lankans and six police officers, suspected to be part of the racket.
-
-🟩
-
-Indian authorities have arrested three persons including two and two Sri Lankans to prepare Indian passports to Sri Lankan refugees.
-
-The suspects have been arrested in Tamil Nadu in Tamil Nadu by the Criminal Investigation Department.
-
-A Indian woman has been arrested with the two Sri Lankans, and she is assured that she is passport.
-
-The Indian police stated that they have provided 24 Sri Lankans to obtain Indian passports.
-
-However, the Indian Criminal Investigations Department (CID) has commenced investigations into the information on the racket this year.
-
-Accordingly, 26 persons have been arrested in connection with the racket, Indian media said.
-
-The Indian police say that there are three Sri Lankans in the group, 6 police officers have been arrested in connection with the racket.
-
-◼️
-
-[Data](articles/5aebe857.json)
-
-[Extended Data](ext_articles/5aebe857.ext.json)
-
----
-
-### Win to Namabia
-
-*2024-06-03 09:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197316) · `si`
-
-Namibia won against Oman in the 20th World Cup match, scoring 109 runs in 19.4 balls. In the Super Over, Namibia scored 21 runs. Meanwhile, West Indies beat Papua New Guinea by 5 wickets.
-
-🟩
-
-Namabia was able to win the 20th World Cup match against Oman and Namabia.
-
-Oube's group scored only 109 runs in 19.4 balls.
-
-In reply Namibia was only 109 runs in their 20 overs. There were six wickets of their six wickets.
-
-The Super Over used the match decision. The Namibia group scored 21 runs in the opening.
-
-Meanwhile, West Indies won the match between the Co-Host West Indies and the Papua New Guinea team by 5 wickets.
-
-◼️
-
-[Data](articles/d3c64e4b.json)
-
-[Extended Data](ext_articles/d3c64e4b.ext.json)
-
----
-
-### The number of casualties due to inclement weather has increased to 10
-
-*2024-06-03 09:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/185166) · `ta`
-
-Casualties from inclement weather now total 10, with 5 missing. Minister Tennakoon confirms damage from floods and landslides across the country.
-
-🟩
-
-Minister of State for Defense Premit Bandara Tennakoon has confirmed that the number of casualties in the country has increased to 10.
-
-At the same time, five people have disappeared and the search for them is being carried out, he said.
-
-Natural disasters such as floods and landslides have been destroyed in many areas due to continuous rainfall due to inclement weather.
-
-◼️
-
-[Data](articles/75f488d2.json)
-
-[Extended Data](ext_articles/75f488d2.ext.json)
-
----
-
-### Immediate to pass an interim account when the presidential ended
-
-*2024-06-03 09:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197315) · `si`
-
-To address the immediate need after the presidential term ends, the government plans to establish an interim account. This decision was influenced by the President's previous guidance on International Monetary Fund (IMF) policies and the upcoming parliamentary elections, which would prevent budget passage. A meeting with Finance Ministry officials agreed on the interim account's necessity. The President is also making arrangements to meet IMF program requirements during the election period, with adjustments to be discussed in December and payments due in the first quarter of next year.
-
-🟩
-
-The government has been drawn to preparing an interim account when the presidential ended.
-
-The Ministry of Finance Officers have received advice regarding this.
-
-It is reported that the President has previously advised the International Monetary Fund policies and goals.
-
-However, if the presidential election is held, the parliamentary election will then be held and there is no provision to pass a budget during that time.
-
-Therefore, it has been exchanged at a meeting with Finance Ministry officials that it is best to prepare an interim account.
-
-Meanwhile, the President has arrangements to reach the goals needed to ensure that the International Monetary Fund Program during the election period.
-
-These goals have been adjusted with the next staff level agreement with the International Monetary Fund.
-
-The next staff visit is to be made in December, and the next premium will be given to the first quarter of next year.
-
-◼️
-
-[Data](articles/5969a668.json)
-
-[Extended Data](ext_articles/5969a668.ext.json)
-
----
-
-### What happens in Sri Ramayan Trails: What is happening in Seetha Eli?
-
-*2024-06-03 09:29:59* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/czqq01y9jj9o) · `si`
-
-The Sri Ramayan Trails project aims to develop nine historical sites in Sri Lanka linked to the Ramayana epic, enhancing tourism and cultural exchange between India and Sri Lanka. This initiative includes sites significant to the stories of Rama, Sita, and Ravana, with the goal of promoting religious and cultural harmony. Despite skepticism over the historical accuracy of the Ramayana's portrayal of Ravana, the project is seen as a way to boost tourism and foster cultural understanding.
-
-🟩
-
-Valkikari, a Indian terrorist. The Ramayana, which is composed in the 7th century, is considered one of the longest epitome poetry of world literature.
-
-Rama, Seetha and Ravana are built through the book. The book with 24,000 mastore has been prepared under seven groups.
-
-Ramah, a son of the King of India's Ayodheya, is married to Seetha, and rescued the son of the king's wife.
-
-The Ravayana Stories, Ravana, has fought against Ramana, who is against Ruja tribes.
-
-Later, the story of the story also shows that Ramah was able to take back with Hanuman.
-
-A project to develop Nine historical sites in Sri Lanka, which is considered to be connected to the above legend.
-
-"The Indo-Sri Lanka Religious and Cultivation of Religious and Cultural Liability to promote the country's tourism promotion and promote the tourism industry," Sri Ramayana Path to (Sri Rama Ramyana) project project was officially launched.
-
-...
-
-[Data](articles/d450f8ec.json)
-
-[Extended Data](ext_articles/d450f8ec.ext.json)
-
----
-
-### 6 lakhs 25 thousand rupees generator and grinder theft
-
-*2024-06-03 09:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/185158) · `ta`
-
-In Nawalapitiya-Kurunduwatta, four youths were arrested for stealing a generator and grinder worth 6 lakh 25 thousand rupees. They sold these items to a fish dealer for 75,000 rupees. The suspects are from Lantonhilpattu, and further inquiries are led by Chief Inspector Sarath Wijesinghe.
-
-🟩
-
-Kurunduwatte police have arrested four youths who entered a house in Nawalapitiya - Kurunduwatta and stole 6 lakhs 25 thousand (625,000) generator and grinder.
-
-The suspects were found by the police who sold the generator and grinder to a leading fish dealer in the carpet for Rs 75,000.
-
-The four youths arrested on suspicion are from the Lantonhilpattu area.
-
-Further investigations are under the leadership of Chief Inspector of Police Sarath Wijesinghe, the Gurudwatte Police Station.
-
-◼️
-
-[Data](articles/d34b0e9f.json)
-
-[Extended Data](ext_articles/d34b0e9f.ext.json)
-
----
-
-### Steps to build all the full damaged housing money from the government.
-
-*2024-06-03 09:21:26* · [`adalk`](https://www.ada.lk/breaking_news/පූර්ණ-හානියට-පත්-සියලු-නිවාස-රජයේ-මුදලින්-ඉදිකිරීමට-පියවර-/11-409975) · `si`
-
-In response to widespread damage, the President directs the Finance Secretary to allocate funds for immediate relief, including food and health services. The government, military, and police commit to rebuilding homes within two months through a comprehensive plan led by the Presidential Advisor. The Disaster Management Center coordinates efforts, emphasizing public safety and rapid response.
-
-🟩
-
-President instructs the Secretary to the Memorandum of Financial Secretary
-
-Support of security and government officials to provide relief
-
-It is necessary to continue to provide the food and health facilities of all the protection centers.
-
-Emergency call 24 hours to inform and get relief to inform and obtain emergency disasters.
-
-Advice the public to avoid being destroyed by the flood or disaster.
-
-The masses also informed the people to do not go in flooding places in flooding or roads.
-
-President Ranil Wickremesinghe instructed the Secretary to the Ministry of Finance to immediately issue the necessary funds to the District Secretaries to provide immediate necessary relief to the affected by the country.
-
-The President also instructed the parties to take steps to be built in the next two months with the contribution of all the houses that were completely damaged by the government, the armed forces and police.
-
-...
-
-[Data](articles/7d1d1f0f.json)
-
-[Extended Data](ext_articles/7d1d1f0f.ext.json)
-
----
-
-### Four killed in road accidents in several parts of the island
-
-*2024-06-03 09:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/99611/four-killed-in-road-accidents-in-several-parts-of-the-island) · `en`
-
-Four people have died in separate road accidents in several parts of the island yesterday (02).
-
-Accordingly, a three-wheeler heading towards Tappahenawatta on Mahabage’s 20-foot byroad veered off the road and crashed in to a wall last morning (02).
-
-The driver succumbed to his injuries after being admitted to Ragama Hospital.
-
-Meanwhile, a three-wheeler traveling from Athurugiriya towards Kottawa overturned and collided with an oncoming car near Mendis Bend on the Kottawa-Athurugiriya road last evening (2).
-
-The driver of the three-wheeler, three passengers, and the driver of the car died were admitted to Homagama Hospital. However, two passengers of the three-wheeler had succumbed to injuries.
-
-The deceased were residents of Hikkaduwa and Haputale, aged 42 and 54.
-
-Additionally, near the Muruthawela Junction in  Nittambuwa on the Colombo-Kandy road, a motorcycle traveling from Colombo towards Kandy has collided with a pedestrian last night.
-
-...
-
-[Data](articles/a5f99dc5.json)
-
-[Extended Data](ext_articles/a5f99dc5.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-03 09:04:39**
+As of **2024-06-03 09:18:55**
 
 ## Newspaper Stats
 
-*Scraped **28,006** Articles*
+*Scraped **28,013** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,66 @@ economynextcom | 1,589
 dailyftlk | 1,644
 adalk | 2,388
 adaderanalk | 3,182
-tamilmirrorlk | 3,279
-virakesarilk | 4,320
-dailymirrorlk | 4,436
-adaderanasinhalalk | 4,487
+tamilmirrorlk | 3,280
+virakesarilk | 4,321
+dailymirrorlk | 4,440
+adaderanasinhalalk | 4,488
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,006 (100.0%) of 28,006 articles have been extended.
+28,006 (100.0%) of 28,013 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-03 (Monday)
+
+### ආපදා මරණ 10ක් - 05ක් අතුරුදන්
+
+*2024-06-03 08:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197314) · `si`
+
+පවතින අයහපත් කාලගුණ තත්ත්වයත් සමග සිදුවු ආපදා හේතුවෙන් පුද්ගලයින් 10 දෙනෙකු මේ වන විට ජීවිතක්ෂයට පත්ව ඇති බව ආපදා කළමනාකරණ මධ්‍යස්ථානය පවසයි.
+
+◼️
+
+[Data](articles/a7ffbec6.json)
+
+---
+
+### சமிக்ஞை கோளாறு ; பிரதான மார்க்கத்தில் ரயில் சேவை தாமதம்
+
+*2024-06-03 08:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/185164) · `ta`
+
+பல்லேவெல மற்றும் கணேகொட  ரயில் நிலையங்களுக்கும், வெயங்கொட மற்றும் கம்பஹா ரயில் நிலையங்களுக்கும் இடையில் ஏற்பட்டுள்ள சமிக்ஞை கோளாறு காரணமாக பிரதான ரயில் மார்க்கத்தில் ரயில் சேவை தாமதம் ஏற்பட்டுள்ளதாக ரயில் திணைக்கள இணை முகாமையாளர் ஜெ. என். இந்திபொலகே தெரிவித்துள்ளார்.
+
+நிலவும் சீரற்ற காலநிலையால் பிரதான மார்க்கம், கரையோர மார்க்கம் மற்றும் புத்தளம் மார்க்கம் மற்றும்  பல இடங்களில் வெள்ளப் பெருக்கு ஏற்பட்டுள்ள நிலையில், சமிக்ஞை அமைப்பில் கோளாறு ஏற்பட்டுள்ளதால் சில ரயில்கள் தாமதமாக வருவதாகவும் அவர் தெரிவித்துள்ளார்.
+
+மேலும், வாக மற்றும் கொஸ்கம ரயில் நிலையங்களுக்கு இடையிலான பாலம் ஒன்று வெள்ளத்தில் இடிந்து வீழ்ந்துள்ளதால் களனிவெளி மார்க்கத்தில் பயணிக்கும் ரயில் வாக ரயில் நிலையம் வரை மட்டுப்படுத்தப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/057d04b8.json)
+
+---
+
+### Sri Lanka struggles with surge in international drug smuggling
+
+*2024-06-03 08:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-struggles-with-surge-in-international-drug-smuggling/108-283952) · `en`
+
+Colombo, June 3 (Daily Mirror) - Containment of the trafficking of drugs, originating from Afghanistan and transported by sea in Iranian dhows from the Makran Coast, had become increasingly challenging for the Sri Lankan authorities given the modus-operandi of drug cartels, a top source here said yesterday.
+
+Heroin, and increasingly methamphetamine, are trafficked along with what is known as the ‘Southern Route’ originating from Afghanistan and being transported by sea from the Makran Coast to Eastern and Southern Africa despite Navy continuing to seize large hauls of drugs running into hundreds of kilos at times.
+
+A delegation of top Navy officers was in Islamabad, Pakistan recently as part of their engagement with the rest of the world for collaborative efforts to curb the menace.
+
+According to the 2023 UNODC World Drug Report, the threefold increase in methamphetamine seizures worldwide between 2015 and 2021 is giving early signs of a future increase in consumption across continents.
+
+...
+
+[Data](articles/1b32946f.json)
+
+---
 
 ### IMF executive board to meet on June 12 for Sri Lanka’s second review
 
@@ -516,6 +562,48 @@ The former MP said he had never intended to call Musk an “Economic Hitman”.
 
 ---
 
+### Exports continue to do well in April narrowing trade deficit
+
+*2024-06-03 01:37:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Exports-continue-to-do-well-in-April-narrowing-trade-deficit/108-283951) · `en`
+
+The growth in merchandise exports outstripped the growth in imports to help narrow the trade deficit in April compared to a year ago levels, but the cumulative four months deficit stands higher compared to the corresponding period of last year signalling an expanding economy.
+
+Sri Lanka earned US$ 877.6 million from merchandise exports in April, up 3.4 percent from a year ago.
+
+However, the figure was down from US$ 1,139 million earned in March, which was the highest since August 2022.
+
+Imports recorded US$ 1,435.2 million, up just 0.3 percent from a year ago.
+
+This together resulted in a trade deficit of US$ 557.7 million, eased from US$ 582.6 million a year ago. For the four months, the deficit was recorded at US$ 1,777.1 million, up from US$ 1,479.0 million in the corresponding period in 2023.
+
+The rising trade deficit wasn’t something to be alarmed of as it reflects that the economy was expanding after a prolonged contraction caused by ultra-tight monetary and fiscal policies.
+
+...
+
+[Data](articles/b44fcfdd.json)
+
+---
+
+### Construction sector upbeat over rising activities
+
+*2024-06-03 01:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Construction-sector-upbeat-over-rising-activities/108-283949) · `en`
+
+Participants in the construction sector said they remain buoyant over the rising opportunities for tenders for new development projects in the country as the economy is now equipped with both foreign currency and rupee liquidity.
+
+However, they cited the breakneck competition in the market and also the easing prices for construction sector materials which could reactivate more activities in the sector which was in a prolonged decline for two years.
+
+“Most respondents were confident that the increasing trend in tender opportunities will continue in the upcoming months,” said the construction sector Purchasing Managers’ Index (PMI) for April.
+
+“Moreover, the participatory firms widely highlighted the intense competition in the market”, the statement released by the Central Bank added.
+
+The PMI dedicated for construction sector activities unsurprisingly contracted due to the seasonality as the long holidays for the New Year temporarily closed construction sites for extended periods.
+
+...
+
+[Data](articles/8cee5163.json)
+
+---
+
 ### Mother of two children killed in a sword
 
 *2024-06-03 01:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/185157) · `ta`
@@ -805,6 +893,22 @@ Earlier, the visitors managed 136/8, with Sese Bau scoring 50. Alzarri Joseph an
 [Data](articles/f7a99039.json)
 
 [Extended Data](ext_articles/f7a99039.ext.json)
+
+---
+
+### ’விமர்சனம் எளிது, தீர்வு காண்பது கடினமானது’
+
+*2024-06-02 23:27:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விமர்சனம்-எளிது-தீர்வு-காண்பது-கடினமானது/175-338315) · `ta`
+
+நாட்டின் பொருளாதாரம் ஸ்திரத்தன்மை அடைந்துள்ள நிலையில், மீண்டும் பழைமையான அரசியலில் ஈடுபடலாம் என எவரும் எண்ணிவிடக் கூடாது. முறையான திட்டத்தினூடாகவே நாட்டை முன்னோக்கிக் கொண்டு செல்ல முடியும் என்று ஜனாதிபதி ரணில் விக்கிரமசிங்க வலியுறுத்தினார்.
+
+ஐக்கிய தேசியக் கட்சியின் பிரதேச அமைப்பாளர்களுக்கான நியமனக் கடிதங்கள் வழங்கும் நிகழ்வு நேற்று பிற்பகல் சிறிகொத்த கட்சித் தலைமையகத்தில் இடம்பெற்றது. இதில் கலந்து கொண்டு உரையாற்றும்போதே ஜனாதிபதி இவ்வாறு குறிப்பிட்டார். அவர் மேலும் தெரிவிக்கையில்,
+
+சர்வதேச நாணய நிதியம் இன்றி பணம் பெற வேறு வழியில்லை. எதையாவது பேசலாம். ஆனால் தீர்வு இல்லை. சர்வதேச நாணய நிதியத்துடன் மீண்டும் பேச்சுவார்த்தை நடத்தப் போவதாக சிலர் கூறுகின்றனர். கடைக்குச் சென்று இன்னும் ஒரு மாதம் கடன் தருமாறு முதலாளியிடம் கேட்பதைப் போன்று இவற்றைச் செய்ய முடியாது. இதைப் புரிந்து கொள்ளாதவர்கள் இதைப் பற்றி பேசுகிறார்கள். இரண்டு வருடங்கள் இதைப் பற்றி பேச்சுவார்த்தை நடத்த வேண்டியிருந்தது.
+
+...
+
+[Data](articles/8d5ec70a.json)
 
 ---
 
@@ -2031,131 +2135,5 @@ President Ranil Wickremesinghe handed over the letters of appointment to United 
 [Data](articles/60bf8a89.json)
 
 [Extended Data](ext_articles/60bf8a89.ext.json)
-
----
-
-### Our Talki is a superb
-
-*2024-06-02 18:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197294) · `si`
-
-Talki Karunaratne triumphed in the Women's 800m race at the Taiwane Open Athletics Championships, securing the top spot.
-
-🟩
-
-Talki Karunaratne has won the first place in the Women's 800m event at Taiwane Open Athletics Championships.
-
-◼️
-
-[Data](articles/6757de3e.json)
-
-[Extended Data](ext_articles/6757de3e.ext.json)
-
----
-
-### Interrupting a number of train travel
-
-*2024-06-02 17:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197293) · `si`
-
-Delays in train travel are caused by disruptions on the main, coastal, and Puttalam roads due to flooding. Additionally, tree falls have interrupted the railway line near stations, and a bridge connecting Kosgama railway stations is restricted.
-
-🟩
-
-The Railway Department says that there are several delays due to the main road, the main road, coastal road and Puttalam road from the water, the coastal road and Puttalam road.
-
-The General Manager of Railways said that the railway line at the railway stations had been interrupted due to the fall of the trees.
-
-A bridge between Kosgama railway stations, the Kelaniweli road has been restricted to the train station.
-
-◼️
-
-[Data](articles/073f5375.json)
-
-[Extended Data](ext_articles/073f5375.ext.json)
-
----
-
-### Namal Rajapaksa does not consult the president to make a political decision
-
-*2024-06-02 17:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/185139) · `ta`
-
-Namal Rajapaksa, the National Organizer of the PA, stated that political decisions are made without consulting the president. This stance was highlighted during an event in Colombo, where it was also mentioned that the PA has chosen Ranil Wickremesinghe as the interim president. Despite being in discussions with a presidential candidate, Rajapaksa emphasized the importance of adhering to the PA's policies, indicating no compromise on their political stance.
-
-🟩
-
-If we announce our presidential candidate by holding the post of President Ranil Wickremesinghe, the government is in crisis. The President must announce his position on the presidential election.. The National Organizer of the PA, Namal Rajapaksa, said that we do not take a political decision with consultation with the president.
-
-He was speaking to the media after the event held in Colombo on Sunday (2).
-
-It is improper to say that if the members of the United People's Power are united with the president, it is improper to announce our political decision.
-
-We have elected United National Party (UNP) leader Ranil Wickremesinghe as the interim president.
-
-We are in talks with the presidential candidate.
-
-We have paid special attention to political decisions by highlighting the policies of the Sri Lanka PA. He said he would not give up the party's policies for any reason.
-
-◼️
-
-[Data](articles/7029bc34.json)
-
-[Extended Data](ext_articles/7029bc34.ext.json)
-
----
-
-### South Africa’s ANC rejects demand for Ramaphosa to step down for coalition talks
-
-*2024-06-02 17:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/99601/south-africas-anc-rejects-demand-for-ramaphosa-to-step-down-for-coalition-talks) · `en`
-
-South Africa’s African National Congress party will not consider any demands from possible coalition partners that President Cyril Ramaphosa step down, a top official said Sunday, as the ANC attempted to present a united front after a stinging election result ended its 30-year majority.
-
-As South Africa heads for a series of complex talks to form a national coalition government for the first time and establish stability, ANC secretary-general Fikile Mbalula said Ramaphosa would remain as party leader and any demands from others that he resign for talks to go ahead was “a no-go area.”
-
-“President Ramaphosa is the president of the ANC,” Mbalula said in the ANC leadership’s first public comments since the landmark election results. “And if you come to us with that demand that Ramaphosa is going to step down as the president, that is not going to happen.”
-
-...
-
-[Data](articles/6d067dfa.json)
-
-[Extended Data](ext_articles/6d067dfa.ext.json)
-
----
-
-### Britain
-
-*2024-06-02 17:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/185130) · `ta`
-
-Boris Johnson led Britain as Conservative PM from 2019 until his resignation in 2022. He took office just before Russia invaded Ukraine, playing a key role in supporting Ukraine through NATO.
-
-🟩
-
-Boris Johnson, who won the conservative party, was forced to rule over. He was the chief minister when the Russian invasion of Ukraine began. He was sworn in on July 24, 2019 and resigned on September 5, 2022. It is noteworthy that the British Ukraine war, which is the most popular of the United States in the NATO system, has been providing Ukraine to the Ukrainian troops to provide the necessary force to Ukraine.
-
-◼️
-
-[Data](articles/1eadf056.json)
-
-[Extended Data](ext_articles/1eadf056.ext.json)
-
----
-
-### Latest landslide warning issued
-
-*2024-06-02 17:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197292) · `si`
-
-The National Building Research Organization has issued landslide warnings for several districts including Ratnapura, Matara, Kurunegala, Kalutara, Hambantota, and Colombo, with specific areas like Peluvenala, Inlanda, Warakahala, Kaluwela, and Kalawana receiving the highest level of red warnings.
-
-🟩
-
-The National Building Research Organization has issued the latest landslide warning announcement.
-
-According to the announcement, Ratnapura, Matara, Matara, Kurunegala, Kurunegala, Kalutara, Hambantota, Hambantota, Hambantota, Hambantota, Hambantota and Colombo districts have been warned.
-
-Meanwhile, the reputation issues the third level of red warnings for Peluvenala, Inlanda, Warakahala, Warakahala, Kaluwela, Ratnapura, Kalawana, Kalawana, Kalawana, Kalawana, Kalawana, Kalawana, Kalawana, Kalalla and EhewanaellaHas been done.
-
-◼️
-
-[Data](articles/b3ff240d.json)
-
-[Extended Data](ext_articles/b3ff240d.ext.json)
 
 ---

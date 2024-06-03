@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-03 14:34:40**
+As of **2024-06-03 14:52:59**
 
 ## Newspaper Stats
 
-*Scraped **28,089** Articles*
+*Scraped **28,091** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,591
 dailyftlk | 1,644
 adalk | 2,393
 adaderanalk | 3,197
-tamilmirrorlk | 3,293
+tamilmirrorlk | 3,295
 virakesarilk | 4,329
 dailymirrorlk | 4,453
 adaderanasinhalalk | 4,506
@@ -26,11 +26,37 @@ adaderanasinhalalk | 4,506
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,089 (100.0%) of 28,089 articles have been extended.
+28,089 (100.0%) of 28,091 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-03 (Monday)
+
+### பெல் 412 ஹெலி  தயார்
+
+*2024-06-03 14:34:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெல்-412-ஹெலி-தயார்/175-338358) · `ta`
+
+எந்தவொரு பேரிடர் அழைப்புக்கும் உடனடியாக களத்துக்கு செல்வதற்காக, இ லங்கை விமானப்படையின் பெல் 412 ஹெலிகொப்டர் காலி, நெலுவ பொது மைதானத்தில் தயார் நிலையில் வைக்கப்பட்டுள்ளது என இலங்கை
+
+◼️
+
+[Data](articles/5eb04847.json)
+
+---
+
+### சிறிகொத்தா முன்பாக ஆர்ப்பாட்டம்
+
+*2024-06-03 14:10:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறிகொத்தா-முன்பாக-ஆர்ப்பாட்டம்/175-338357) · `ta`
+
+ஐக்கிய தேசியக் கட்சியின் தலைமையகமான கோட்டே சிறிகொத்தவுக்கு  முன்பாக திங்கட்கிழமை (3) காலை மக்கள் போராட்ட பிரஜைகள் அமைப்பின் உறுப்பினர்கள் சிலர் ஆர்ப்பாட்டத்தில் ஈடுபட்டனர்.
+
+'இரண்டு கோடியே இருபது இலட்சம் மக்களின் ஜனநாயகத்திற்காக' என்ற தொனிப்பொருளில் இந்தப் போராட்டம் நடத்தப்பட்டது.
+
+◼️
+
+[Data](articles/96b6eb84.json)
+
+---
 
 ### Mexico elects Claudia Sheinbaum as its first woman president
 
@@ -2167,47 +2193,5 @@ Currently, the people should be directed by the country. He said democracy is to
 [Data](articles/88c58754.json)
 
 [Extended Data](ext_articles/88c58754.ext.json)
-
----
-
-### Patali advocates for new presidency, parliament, and republic
-
-*2024-06-03 02:04:25* · [`dailyftlk`](https://www.ft.lk/news/Patali-advocates-for-new-presidency-parliament-and-republic/56-762526) · `en`
-
-Criticises current political surveys for lacking scientific credibility and emphasises need for a movement representing SL’s silent majority
-
-Highlights importance of stable political decisions for economic sovereignty, irrespective of future leadership
-
-Cautions against simplistic solutions offered by populist leaders and warns against political experimentation
-
-Extends an invitation to all political and social activists to collaborate on a national economic program
-
-As part of the ‘One Step for the Country’ initiative aimed at alleviating the hardships faced by the nation due to economic challenges, United Republic Front Leader Patali Champika Ranawaka on Saturday expressed his readiness for a fresh presidency, a new parliament, and an establishment of a new republic, in collaboration with like-minded parties.
-
-...
-
-[Data](articles/791b287b.json)
-
-[Extended Data](ext_articles/791b287b.ext.json)
-
----
-
-### Handunnetti apologises to Elon Musk over misquoted remarks
-
-*2024-06-03 02:02:24* · [`dailyftlk`](https://www.ft.lk/news/Handunnetti-apologises-to-Elon-Musk-over-misquoted-remarks/56-762525) · `en`
-
-National People’s Power (NPP) Economic Council member Sunil Handunnetti apologised to South African businessman and investor Elon Musk over the weekend, clarifying that his remarks about Musk were misquoted on social media platforms.
-
-At a business forum organised by the party, Handunnetti refuted claims that he labelled Musk as an Economic Hitman, emphasising that his comments at a previous event in Badulla were misconstrued and disseminated, particularly on social media platforms.
-
-The former MP said he had never intended to call Musk an “Economic Hitman”.
-
-“What I meant was that due to the lack of law, discipline, and rampant political interference in businesses, world-renowned and recognised investors and businessmen will not come to Sri Lanka. It doesn’t matter if President Ranil Wickremesinghe or anyone else invites them; they simply won’t come,” he explained.
-
-...
-
-[Data](articles/257fc8e7.json)
-
-[Extended Data](ext_articles/257fc8e7.ext.json)
 
 ---

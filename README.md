@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-03 13:18:48**
+As of **2024-06-03 13:34:25**
 
 ## Newspaper Stats
 
-*Scraped **28,076** Articles*
+*Scraped **28,079** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,519
 economynextcom | 1,591
 dailyftlk | 1,644
 adalk | 2,392
-adaderanalk | 3,193
+adaderanalk | 3,196
 tamilmirrorlk | 3,291
 virakesarilk | 4,329
 dailymirrorlk | 4,449
@@ -26,89 +26,169 @@ adaderanasinhalalk | 4,504
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,068 (100.0%) of 28,076 articles have been extended.
+28,076 (100.0%) of 28,079 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-03 (Monday)
 
-### நாடு திரும்பிய  5 ஆண்கள் கைது
+### 5 men arrested to return to country
 
 *2024-06-03 13:08:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/நாடு-திரும்பிய-5-ஆண்கள்-கைது/72-338353) · `ta`
 
-தலைமன்னார் ஊர்மனை பகுதிக்கு வருகை தந்த இலங்கையைச் சேர்ந்த 5 பேர் திங்கட்கிழமை(3)காலை தலைமன்னார் ஊர்மனை கடற்கரை பகுதியில் வைத்து கைது செய்துள்ளனர். இந்தியாவில் இருந்து சட்ட விரோதமான முறையில் படகில் இவர்கள் ஊர்மனைக்கு வந்துள்ளனர்.
+Five Sri Lankans, aged 37, 39, 24, 26, and 38, were arrested by the Navy near Talaimannar for illegal entry from India. They were later handed over to the local police for further investigation. The group, originally from Mannar Thalawapadu, Thalawapadu, Talaimannar, Vavuniya, and Kilinochchi, had been residing in India for several years before their arrest.
 
-கடற்படையினரால் கைது செய்யப்பட்ட குறித்த 5 நபர்கள், கடற்படையினரால் விசாரணைக்கு உற்படுத்திய பின்னர் தலைமன்னார் பொலிஸாரிடம் ஒப்படைக்கப்பட்டுள்ளனர்.
+🟩
 
-கைது செய்யப்பட்டவர்கள் மன்னார் தாழ்வுபாடு, தலைமன்னார், வவுனியா, கிளிநொச்சி ஆகிய பகுதிகளைச் சேர்ந்த 37,39,24,26 மற்றும் 38 வயதுடைய ஆண்கள் என தெரிய வந்துள்ளது.
+Five Sri Lankan persons who visited the Talaimannar Urmana area were arrested on Monday morning (3). They have come to the city on a boat illegally from India.
 
-குறித்த 5 பேரும் இலங்கையில் இருந்து  இந்தியாவிற்கு கடந்த சில வருடங்களுக்கு முன் சென்றுள்ள நிலையில் இந்தியாவின்  பல்வேறு இடங்களில் வசித்து வந்துள்ளனர்.
+Five persons arrested by the Navy have been handed over to the Talaimannar police after the Navy has produced an investigation.
 
-இந்நிலையிலே குறித்த 5 பேரும் படகு மூலம் இந்தியாவில் இருந்து சட்ட விரோதமான முறையில் தலைமன்னார் ஊர்மனை பகுதிக்கு வருகை தந்த நிலையில் திங்கட்கிழமை(3) காலை தலைமன்னார் கடற்படையினரால் கைது செய்யப்பட்டனர்.
+The arrested persons were 37,39,24,26 and 38 men aged from Mannar Thalawapadu, Thalawapadu, Talaimannar, Vavuniya and Kilinochchi.
 
-...
+All five have been living in various parts of India as they have gone from Sri Lanka to India a few years ago.
+
+In the meantime, five persons were arrested by the Talaimannar Navy on Monday morning (3) as they visited the Talaimannar Urmana area by boat.
+
+The five suspects are currently being investigated at the Talaimannar police station and the persons are to be produced before the Mannar Court after investigations.
+
+◼️
 
 [Data](articles/d625a07c.json)
 
+[Extended Data](ext_articles/d625a07c.ext.json)
+
 ---
 
-### සිමෙන්ති මිල පහළට
+### Cement price further reduced
+
+*2024-06-03 13:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/99627/cement-price-further-reduced) · `en`
+
+The maximum retail price of a 50kg bag of cement has been reduced by Rs. 150 to Rs. 2,250 with effect from June 01.
+
+This was communicated in an industry media announcement issued this morning (03).
+
+◼️
+
+[Data](articles/d57717dc.json)
+
+---
+
+### Schools closed in several districts tomorrow
+
+*2024-06-03 12:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/99626/schools-closed-in-several-districts-tomorrow) · `en`
+
+The Ministry of Education has announced that schools in several districts in the Western, Southern and Sabaragamuwa provinces will remain closed on Tuesday (04) due to the prevailing disaster situation.
+
+Accordingly, the schools in the following districts and one education zone will be closed tomorrow;
+
+Furthermore, the Ministry of Education also highlighted that all schools across the island other than the schools in the aforementioned areas will be held as usual tomorrow (04).
+
+◼️
+
+[Data](articles/8a7c793d.json)
+
+---
+
+### Cement prices down
 
 *2024-06-03 12:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197329) · `si`
 
-ජූනි 1 වනදා සිට ක්‍රියාත්මක වන පරිදි කිලෝග්‍රෑම් 50ක සිමෙන්ති කොට්ටයක මිල රුපියල් 150කින් පහළ දමා තිබේ.
+Cement prices have decreased; 50 kg now costs Rs. 250, as per a company announcement.
 
-ඒ අනුව එහි උපරිම සිල්ලර මිල රු 2,250ක් වනු ඇති බව සිමෙන්ති සමාගම් නිවේදනයක් නිකුත් කරමින් සඳහන් කරයි.
+🟩
+
+The price of 50 kilograms has been reduced by Rs.
+
+Accordingly, the maximum retail price will be Rs. 250 and a cement companies said.
 
 ◼️
 
 [Data](articles/fdff84da.json)
 
+[Extended Data](ext_articles/fdff84da.ext.json)
+
 ---
 
-### சீமெந்து விலை குறைப்பு
+### Cement price
 
 *2024-06-03 12:55:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சீமெந்து-விலை-குறைப்பு/175-338352) · `ta`
 
-50 கிலோ எடையுள்ள சீமெந்து மூட்டையின் விலை 150 ரூபாவால் குறைக்கப்பட்டுள்ளதாக சீமெந்து நிறுவனங்கள் தெரிவித்துள்ளன.
+Cement prices have dropped by 150 rupees per 50 kg bag effective from the 1st of this month, with the new maximum retail price set at 2250 rupees.
 
-இந்த விலை குறைப்பு இம்மாதம் முதலாம் திகதி முதல் அமுலுக்கு வரும் எனவும், இதன்படி 50 கிலோகிராம் மூட்டையின் அதிகபட்ச சில்லறை விலை 2250 ரூபாவாகும் எனவும் சீமெந்து நிறுவனங்கள் மேலும் குறிப்பிடுகின்றன.
+🟩
+
+Cement companies have reported that the price of the cement weighing 50 kg has been reduced by 150 rupees.
+
+The reduction in the price will come into effect from the 1st of this month and the maximum retail price of 50 kilograms is 2250 rupees, cement companies further stated.
 
 ◼️
 
 [Data](articles/7457f14d.json)
 
+[Extended Data](ext_articles/7457f14d.ext.json)
+
 ---
 
-### ரயில் எஞ்ஜின் தீப்பிடித்தது
+### The train engine was on fire
 
 *2024-06-03 12:46:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ரயில்-எஞ்ஜின்-தீப்பிடித்தது/76-338350) · `ta`
 
-கொழும்பு, கோட்டை ரயில் நிலையத்தில் இருந்து பதுளையை நோக்கி பயணித்த பொடிமெனிக்கே ரயிலின் எஞ்சின், ஹப்புத்தளை ரயில் நிலையத்தில் வைத்து தீப்பிடித்தது.
+A fire broke out on the Podimenige train near Haputale, forcing it to halt its journey from Colombo to Badulla. The Railway Department and fire brigade are responding to extinguish the flames.
 
-தீயைக் கட்டுப்பாட்டுக்குள் கொண்டுவரும் நடவடிக்கையினை, ரயில்வே திணைக்களத்தினர், தீயணைப்பு பிரிவினர் மேற்கொண்டு வருகின்றனர்.
+🟩
+
+The engine of the Podimenige train, which was traveling from Fort Railway Station in Colombo, Badulla, caught fire at the Haputale railway station.
+
+The Railway Department and the fire brigade are taking action to bring the fire under control.
 
 ◼️
 
 [Data](articles/187717e6.json)
 
+[Extended Data](ext_articles/187717e6.ext.json)
+
 ---
 
-### හෙට වැසෙන පාසල් ගැන විශේෂ දැනුම්දීමක්
+### Special notice of schools closing tomorrow
 
 *2024-06-03 12:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197328) · `si`
 
-පවතින අයහපත් කාලගුණික තත්ත්වය මත දිස්ත්‍රික්ක කිහිපයක සහ කලාප කිහිපයක රජයේ පාසල් හෙට (04) විශේෂ නිවාඩු දිනයක් ලෙස ප්‍රකාශයට පත්කර තිබේ.
+Due to poor weather, government schools across various districts and regions are closed tomorrow. A decision has also been made to suspend classes in other provinces. The Ministry of Education's Media Secretary, Mr. Kushan Sameera, announced this. School opening decisions for the rest of the day will be based on weather updates.
 
-සෙසු පළාත්වල හා කලාපවල හෙට දින සිට සාමාන්‍ය පරිදි පාසල් පැවැත්වීමටත් තීරණය කර ඇත.
+🟩
 
-ඉහත සඳහන් කර නොමැති සියලු පළාත්වල සහ දිස්ත්‍රික්කවල පාසල් සාමාන්‍ය පරිදි හෙට දින පැවැත්වෙන බව ද අධ්‍යාපන අමාත්‍යාංශයේ මාධ්‍ය ලේකම්, එච්. ටී. කුෂාන් සමීර මහතා නිවේදනයක් නිකුත් කරමින් සඳහන් කරයි.
+Government schools in several districts and several regions have been declared as a special holiday tomorrow (04) on the prevailing bad weather conditions.
 
-හෙටින් පසු ව ඇති වන කාලගුණ තත්ත්වය මත පළාත් බලධාරීන් විසින් කලාප අධ්‍යක්ෂවරුන් දැනුම්වත් කර පාසල් පැවැත්වීමට අදාළ තීරණ ගනු ඇත.
+It has also been decided to hold schools from tomorrow in other provinces and regions.
+
+Media Secretary to the Ministry of Education, the Ministry of Education, which is not held tomorrow. T. Mr. Kushan Sameera issued a statement.
+
+Depending on the weather conditions, the provincial authorities will make decisions relating to school directors to hold schools.
 
 ◼️
 
 [Data](articles/44765e50.json)
+
+[Extended Data](ext_articles/44765e50.ext.json)
+
+---
+
+### Temporary decrease in heavy rains expected
+
+*2024-06-03 12:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/99625/temporary-decrease-in-heavy-rains-expected) · `en`
+
+A temporary decrease in the prevailing heavy rain conditions in the southwestern part of the island is expected from tomorrow (04), the Department of Meteorology says.
+
+In its latest forecast, the department said that the showers or thundershowers will occur at times in Western, Sabaragamuwa, Central, Southern and North-western provinces.
+
+Showers or thundershowers will occur at several places elsewhere of the island during the evening or night, it added.
+
+Thus, the general public is advised to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/168d4f64.json)
 
 ---
 
@@ -212,6 +292,8 @@ It is also said that this decision was taken by Southern Province Governor Laksh
 
 [Data](articles/0173bd69.json)
 
+[Extended Data](ext_articles/0173bd69.ext.json)
+
 ---
 
 ### SLPP MP Thilak Rajapakshe joins SJB
@@ -263,6 +345,8 @@ Colombo, June 3 (Daily Mirror)- Justifying his call for a referendum to extend t
 ...
 
 [Data](articles/adbec865.json)
+
+[Extended Data](ext_articles/adbec865.ext.json)
 
 ---
 
@@ -333,6 +417,8 @@ The decision was taken at a meeting with the Educational Authorities by Governor
 It has been decided to close all the schools in the Galle and Matara districts on Tuesday (June 04) and Wednesday (June 05) due to the prevailing adverse weather conditions, Governor of the Southern Province Lakshman Yapa Abeywardena said.
 
 The decision was communicated during a press conference being held in Colombo regarding the prevailing disaster situation across the island.
+
+He added that the decision was taken after discussions with the Education Ministry.
 
 ◼️
 
@@ -798,21 +884,33 @@ Australian consumer price inflation rose at an annual pace of 3.6% in April, the
 
 ---
 
-### කාර් ත්‍රිරෝද අනතුරින් දෙදෙනෙක් මරුට
+### Two killed in car three-wheeler accident
 
 *2024-06-03 10:30:57* · [`adalk`](https://www.ada.lk/breaking_news/කාර්-ත්‍රිරෝද-අනතුරින්-දෙදෙනෙක්-මරුට/11-409977) · `si`
 
-ධාරානිපාත වර්ෂාව මධ්‍යයේ බීමතින් පැදවූ ත්‍රීරෝද රථයක් මාර්ගයේ ගමන් ගත් මෝටර් රථයක මුහුණට මුහුණ ගැටී සිදු වූ අනතුරින් පුද්ගලයින් දෙදෙනෙකු එම ස්ථානයේම මියගොස් තවත් තිදෙනෙකු බරපතල තුවාල ලබා හෝමාගම මූලික රෝහලට ඇතුළත් කළ බව කොට්ටාව පොලිසිය පවසයි.
+In a tragic accident involving a three-wheeler near Kottawa Vidyalaya Junction, two individuals died, including Ponnia Ashook Kumara (54) and Hikkaduwa Nakanda Nakanda Nakanda Paper (42). Three others were seriously injured and rushed to Homagama Hospital. The incident occurred when the vehicle was speeding towards Rukmalgama. Two passengers perished, and two more are critically injured.
 
-මෙසේ මියගොස් ඇත්තේ හපුතලේ බ්‍රෑටූඩ් මැද කොටස පදිංචි පොන්නයියා අශෝක් කුමාර (54) සහ හික්කඩුව නාකන්ද පදිංචි පෙන්ත තන්ත්‍රිගේ සුජීව ඉන්දික (42) විවාහකයින් දෙදෙනෙකු බව පොලිසිය කියයි.
+🟩
 
-කොට්ටාව විද්‍යාල හන්දිය ප්‍රදේශයේ ඉදිකිරීම් වැඩබිමක සේවයේ නිරත මෙසේ මියගිය  පුද්ගලයෙකුගේ අතෙහි සිදුව තිබූ තුවාලයකට ප්‍රතිකාර ලබා යලි වැඩබිමට යමින් සිටියදී ඔවුන් ගමන් ගත්  ත්‍රී රෝද රථය  කොට්ටාව රුක්මල්ගම මෙන්ඩිස් හන්දියේදී මාර්ගයෙන් මැද පෙරළී ගොස්  කොට්ටාව දෙස සිට රුක්මල්ගම දෙසට ධාවනය වෙමින් තිබූ මෝටර් රථයක මුහුණට මුහුණ ගැටී 02 දා සවස අනතුර සිදුව තිබු බව පොලිසිය පවසයි.
+The Kottawa Police states that two persons were killed and three others were seriously injured and admitted to the Homagama Hospital.
 
-අනතුරින් ත්‍රී රෝද රථයේ පිටුපස ගමන් ගත් දෙදෙනෙකු එම ස්ථානයේදීම මියගොස් තිබූ අතර තවත් දෙදෙනෙකු හා මෝටර් රථයේ රියදුරු බරපතල තුවාල ලබා හෝමාගම මූලික රෝහලට ඇතුළත් කර තිබේ.
+The deceased has been identified as Ponnia Ashook Kumara (54) and Hikkaduwa Nakanda Nakanda Nakanda Paper (42).
 
-...
+Kottawa Vidyalaya Junction, while he was traveling to a wound of the Kottawa Vidyalaya, the three-wheeler was taken to the Kottawa, the Kottawa rolled in the Kottawa to Rukmalgama.The evening was the accident.
+
+Two traversed in the three-wheeler were killed and two others and the car of the car were seriously injured and admitted to the Homagama Base Hospital.
+
+The police suspect that the three-wheeler had been rapidly driving at the time of the accident.
+
+Two of the three persons who were hospitalized with serious injuries are in critical condition.
+
+Emergency Death Examination at Homagama Hospital, Sudden Death Superintendent of the Homagama Hospital was due to be held by the Emergency Death Superintendent of the Homagama Hospital.
+
+◼️
 
 [Data](articles/813a9086.json)
+
+[Extended Data](ext_articles/813a9086.ext.json)
 
 ---
 
@@ -2087,59 +2185,5 @@ Golfers may remember how, at the turn of the century, Tiger Woods dominated the 
 [Data](articles/8b1d837c.json)
 
 [Extended Data](ext_articles/8b1d837c.ext.json)
-
----
-
-### Can any candidate achieve 50%+1 at presidential polls - EDITORIAL
-
-*2024-06-03 00:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Can-any-candidate-achieve-50-1-at-presidential-polls-EDITORIAL/172-283932) · `en`
-
-All political parties are in election mode. Presidential elections are scheduled to be held between September and October this year. However, reaching the magical 50%+1 seems like a distant dream for the candidates in the running.
-
-In the first presidential election in October 1982, President Jayewardene’s main rival Mrs.Sirimavo Bandaranaike was banned from contesting. Jayewardene was able to collect only 52.91 percent of the votes.
-
-The 1988 election saw several election violence-related actions. That election was won by Ranasinghe Premadasa who received 50.4 percent of the votes. Voter turnout was low-around 55.3 percent, the lowest for a presidential election.
-
-...
-
-[Data](articles/46ccb47e.json)
-
-[Extended Data](ext_articles/46ccb47e.ext.json)
-
----
-
-### McDonald’s secret: Shares rise while food sales decline
-
-*2024-06-03 00:27:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/McDonalds-secret-Shares-rise-while-food-sales-decline/172-283931) · `en`
-
-The  Official Poverty Measure, according to which the official US  poverty rate in 2022 was 11.5 percent, with 37.9 million people in  poverty
-
-It’s hard to believe, but McDonald’s is losing customers in the US because they can no longer afford McDonald’s prices.
-
-Americans spend eleven per cent of their earnings on food. Eating out is a major pastime. But, those in the median income groups (including sections of the middle class) are feeling squeezed as they need to spend more on almost everything, including rents, mortgages, cars and transport. Unemployment is on the rise, with Silicon Valley and Amazon among the earliest to begin layoffs.
-
-Those earning $45,000 or less are less and less able to eat out, and McDonald’s outlets are favourite havens for that.
-
-...
-
-[Data](articles/c5f58cd5.json)
-
-[Extended Data](ext_articles/c5f58cd5.ext.json)
-
----
-
-### When IMF targets become  Sri Lankan law
-
-*2024-06-03 00:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/When-IMF-targets-become-Sri-Lankan-law/172-283930) · `en`
-
-A meeting between President Ranil Wickremesinghe and the IMF team at the Finance Ministry in March 2024
-
-Even as Sri Lanka prepares for elections, laws are being rushed through a parliament without legitimacy. Among those many draft laws– the President in his Budget Speech in November 2023 said he wants to create or amend sixty new laws–one of the most notorious so far is the Economic Transformation Bill. If the citizenry is being devastated by the severe austerity measures imposed by the International Monetary Fund (IMF), this new bill seeks to legislate the very conditionalities and targets set by the IMF.
-
-...
-
-[Data](articles/4c69ce7f.json)
-
-[Extended Data](ext_articles/4c69ce7f.ext.json)
 
 ---

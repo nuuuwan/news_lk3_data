@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-04 03:18:58**
+As of **2024-06-04 03:34:14**
 
 ## Newspaper Stats
 
-*Scraped **28,223** Articles*
+*Scraped **28,224** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,604
 dailyftlk | 1,666
 adalk | 2,408
 adaderanalk | 3,209
-tamilmirrorlk | 3,307
+tamilmirrorlk | 3,308
 virakesarilk | 4,346
 dailymirrorlk | 4,468
 adaderanasinhalalk | 4,529
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,529
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,223 (100.0%) of 28,223 articles have been extended.
+28,223 (100.0%) of 28,224 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -73,6 +73,26 @@ Investigations revealed that financial fraud of Rs. 130 million had occurred via
 [Data](articles/b3c0e9d6.json)
 
 [Extended Data](ext_articles/b3c0e9d6.ext.json)
+
+---
+
+### 3 பாடங்களிலும் 27,000 பேர் சித்தியடையவில்லை
+
+*2024-06-04 02:30:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/3-பாடங்களிலும்-27-000-பேர்-சித்தியடையவில்லை/175-338392) · `ta`
+
+இந்த வருடம் உயர்தரப் பரீட்சைக்கு தோற்றியவர்களில் 10.04 வீதமானவர்கள் சகல பாடங்களிலும் சித்தியடைந்துள்ளதாக பரீட்சை ஆணையாளர் நாயகம் அமித் ஜயசுந்தர தெரிவித்துள்ளார்.
+
+அதேவேளை பரீட்சைக்கு தோற்றிய 269,613 விண்ணப்பதாரர்களில் 27,970 பேர் சகல பாடங்களிலும் சித்தியடையவில்லை என்றும் பரீட்சை ஆணையாளர் குறிப்பிட்டுள்ளார்.
+
+இவ்வருட பரீட்சை பெறுபேறுகள் சாதனை அதிகரிப்பை காட்டுவதாக தெரிவித்த அவர், விண்ணப்பித்தவர்களில் 173,444 பேர் பல்கலைக்கழக அனுமதிக்கு தகுதி பெற்றுள்ளதாகவும் இது 64.33 வீதமாகும் எனவும் தெரிவித்தார்.
+
+மூன்று பாடங்களிலும் 10,484 பரீட்சார்த்திகள் சித்தியடைந்துள்ளதாகவும், இது 3.9 வீதமாகும் எனவும் ஜெயசுந்தர தெரிவித்தார்.
+
+இவ்வருடம் பரீட்சைக்குத் தோற்றிய 190 விண்ணப்பதாரர்களின் பெறுபேறுகள் நிறுத்தி வைக்கப்பட்டுள்ளதாகவும் அவர்களில் 146 தனியார் விண்ணப்பதாரர்களும் 44 பாடசாலை விண்ணப்பதாரர்களும் உள்ளதாகவும் ஆணையாளர் நாயகம் மேலும் தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/b5a94dcd.json)
 
 ---
 
@@ -2197,23 +2217,5 @@ Also, the Water Supply Council requests the public to use water from the latter 
 [Data](articles/6dc1297b.json)
 
 [Extended Data](ext_articles/6dc1297b.ext.json)
-
----
-
-### Court refuses injunction against Gazette on plantation workers’ minimum wage
-
-*2024-06-03 15:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/99633/court-refuses-injunction-against-gazette-on-plantation-workers-minimum-wage) · `en`
-
-The Court of Appeal has refused to grant an interim injunction preventing the implementation of the gazette notification issued by the Minister of Labour, which stipulates a minimum daily wage for plantation workers.
-
-This order was issued when a petition filed by plantation companies seeking a writ order invalidating the relevant gazette notification was taken up for consideration today (03).
-
-However, the judge bench, which fixed the petition for hearing, ordered that notice be issued to Minister of Labor Manusha Nanayakkara and other respondents of the petition, notifying them to appear before the court on June 26.
-
-◼️
-
-[Data](articles/3c133e84.json)
-
-[Extended Data](ext_articles/3c133e84.ext.json)
 
 ---

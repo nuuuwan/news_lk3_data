@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-03 13:34:25**
+As of **2024-06-03 13:53:37**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,504
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,076 (100.0%) of 28,079 articles have been extended.
+28,079 (100.0%) of 28,079 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -72,6 +72,8 @@ This was communicated in an industry media announcement issued this morning (03)
 
 [Data](articles/d57717dc.json)
 
+[Extended Data](ext_articles/d57717dc.ext.json)
+
 ---
 
 ### Schools closed in several districts tomorrow
@@ -87,6 +89,8 @@ Furthermore, the Ministry of Education also highlighted that all schools across 
 ◼️
 
 [Data](articles/8a7c793d.json)
+
+[Extended Data](ext_articles/8a7c793d.ext.json)
 
 ---
 
@@ -189,6 +193,8 @@ Thus, the general public is advised to take adequate precautions to minimize dam
 ◼️
 
 [Data](articles/168d4f64.json)
+
+[Extended Data](ext_articles/168d4f64.ext.json)
 
 ---
 

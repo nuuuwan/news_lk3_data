@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-03 22:51:49**
+As of **2024-06-03 23:03:59**
 
 ## Newspaper Stats
 
-*Scraped **28,186** Articles*
+*Scraped **28,188** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,38 @@ newsfirstlk | 363
 islandlk | 1,520
 economynextcom | 1,604
 dailyftlk | 1,644
-adalk | 2,405
+adalk | 2,406
 adaderanalk | 3,209
 tamilmirrorlk | 3,304
 virakesarilk | 4,344
-dailymirrorlk | 4,463
+dailymirrorlk | 4,464
 adaderanasinhalalk | 4,527
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,186 (100.0%) of 28,186 articles have been extended.
+28,186 (100.0%) of 28,188 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-03 (Monday)
+
+### World Environment Day celebrations in Ratnapura tomorrow cancelled due to disaster situation
+
+*2024-06-03 22:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/World-Environment-Day-celebrations-in-Ratnapura-tomorrow-cancelled-due-to-disaster-situation/108-284009) · `en`
+
+Colombo, June 3 (Daily Mirror) - The national ceremony to mark the World Environment Day, which was scheduled to take place tomorrow (5) in Ratnapura under the auspices of President Ranil Wickremesinghe, will be held in a low key due to the prevailing disaster situation, the Daily Mirror learns.
+
+The event which was to be held at the Sinharaja Forest Reserve’s Ratnapura entrance at Kudawa under the patronage of the President has been decided to be shift from there to the Presidential Secretariat owing to the adverse weather conditions.
+
+Meanwhile, the President has instructed that the money to be spent on the celebrations of the state event of the World Environment Day on June 5 be used for disaster management operations and to compensate the victims of the natural calamity, State Minister of Environment Janaka Wakkumbura told a media briefing.
+
+...
+
+[Data](articles/c4b9925b.json)
+
+---
 
 ### Water supply disruptions in several areas due to damaged pipe lines
 
@@ -831,6 +847,22 @@ Therefore, a decision has been taken to provide drinking water from the Kalatuwa
 [Data](articles/6025e316.json)
 
 [Extended Data](ext_articles/6025e316.ext.json)
+
+---
+
+### මැතිවරණ කල් දැමීමට රජය පිඹුරුපත් හදනවා
+
+*2024-06-03 17:30:38* · [`adalk`](https://www.ada.lk/breaking_news/මැතිවරණ-කල්-දැමීමට-රජය-පිඹුරුපත්-හදනවා/11-409994) · `si`
+
+නොයෙකුත් උපක්‍රම යොදමින් මැතිවරණ කල් දැමීමට රජය පිඹුරුපත් සකසමින් සිටින බවත්, ඒ අනුව එය පරාජය කිරීමට විපක්ෂය එකා මෙන් සටන් කරන බවත් ශ්‍රී ලංකා පොදුජන පෙරමුණෙහි හිටපු සභාපති, පාර්ලිමේන්තු මන්ත්‍රී, මහාචාර්ය ජී.එල්. පීරිස් මහතා අවධාරණය කළේය.
+
+නිදහස ජනතා සභාව විසින් කොළඹදී අද (03දා) පවත්වන ලද මාධ්‍ය හමුවකට එක්වෙමින් ඔහු පෙන්වා දුන්නේ නියමිත කාලයට මැතිවරණ පැවැත්වීම සමාජ ස්ථාවරභාවයෙහි මූලිකාංගයක් වන බවයි.
+
+එසේම රජය පාර්ශ්වය මගින් ඉදිරිපත් කරන ජනමත විචාරණයක් පැවැත්වීම නීත්‍යනුකූල හා සදාචාරාත්මක නොවන බවද සඳහන් කළ මන්ත්‍රීවරයා, ජනාධිපතිවරණය පැවැත්වීම සම්බන්ධ දිනවකවානු ඉදිරිපත් කිරීමට ජනාධිපතිවරයාට කිසිදු බලයක් හිමි නොවන බවත්, එහි මූලික කාර්යභාරය ව්‍යවස්ථාවෙන් මැතිවරණ කොමිෂන් සභාවට හිමිවන බවත් පැවසීය.
+
+◼️
+
+[Data](articles/1a6ab712.json)
 
 ---
 
@@ -2225,39 +2257,5 @@ New laws would be brought in so provincial/municipal institutions could strength
 [Data](articles/efcb148a.json)
 
 [Extended Data](ext_articles/efcb148a.ext.json)
-
----
-
-### Cement price further reduced
-
-*2024-06-03 13:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/99627/cement-price-further-reduced) · `en`
-
-The maximum retail price of a 50kg bag of cement has been reduced by Rs. 150 to Rs. 2,250 with effect from June 01.
-
-This was communicated in an industry media announcement issued this morning (03).
-
-◼️
-
-[Data](articles/d57717dc.json)
-
-[Extended Data](ext_articles/d57717dc.ext.json)
-
----
-
-### Schools closed in several districts tomorrow
-
-*2024-06-03 12:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/99626/schools-closed-in-several-districts-tomorrow) · `en`
-
-The Ministry of Education has announced that schools in several districts in the Western, Southern and Sabaragamuwa provinces will remain closed on Tuesday (04) due to the prevailing disaster situation.
-
-Accordingly, the schools in the following districts and one education zone will be closed tomorrow;
-
-Furthermore, the Ministry of Education also highlighted that all schools across the island other than the schools in the aforementioned areas will be held as usual tomorrow (04).
-
-◼️
-
-[Data](articles/8a7c793d.json)
-
-[Extended Data](ext_articles/8a7c793d.ext.json)
 
 ---

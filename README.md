@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-04 00:34:29**
+As of **2024-06-04 00:50:53**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,529
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,194 (100.0%) of 28,201 articles have been extended.
+28,198 (100.0%) of 28,201 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ Examinations in the Open University have been indefinitely postponed. Those who 
 ...
 
 [Data](articles/869d92eb.json)
+
+[Extended Data](ext_articles/869d92eb.ext.json)
 
 ---
 
@@ -77,6 +79,8 @@ My mind is filled with so many experiences and emotions... I feel a boundless fl
 ...
 
 [Data](articles/f25e32d6.json)
+
+[Extended Data](ext_articles/f25e32d6.ext.json)
 
 ---
 
@@ -128,21 +132,27 @@ All state schools in the Gampaha and Kelaniya Education Zones and Kaduwela Educa
 
 ---
 
-### පළමු තරගයෙන් ලංකාවට දරුණු පරාජයක්
+### Sri Lanka's defeat in Sri Lanka
 
 *2024-06-03 23:16:40* · [`adalk`](https://www.ada.lk/sports/පළමු-තරගයෙන්-ලංකාවට-දරුණු-පරාජයක්/9-409999) · `si`
 
-විස්සයි20 ලෝක කුසලාන තරගාවලිය ආරම්භ කරමින් ශ්‍ර‍ි ලංකා කණ්ඩායම මුහුණ දුන් පළමු තරගයෙන් දකුණු අප්‍රිකාව හමුවේ කඩුලු 6ක පරාජයක් ලැබිය.
+In the T20 World Cup, South Africa triumphed over Sri Lanka. Sri Lanka, batting first after winning the toss, could only manage 77 runs, with Anrnnjay taking 4 wickets. Kusal Mendis top-scored with 19 runs. South Africa reached their target in 16.2 overs, losing 4 wickets.
 
-තරගයේ කාසියේ වාසිය දිනා මුලින්ම පන්දුවට පහරදුන් ශ්‍රී ලංකා කණ්ඩායම ලකුණු 77කට සිමා කිරිමට දකුණු අප්‍රිකානු පන්දු යවන්නෝ සමත් වූහ.
+🟩
 
-එහිදි ඇන්රි් නොට්ජේ පන්දුවාර 4කදි ලකුණු 7ට කඩුලු 4ක් දවා ගැනීමට සමත්විය. ශ්‍රී ලංකා ඉනිමේ ඉහළම ලකුණු ලාභියා වූ කුසල් මෙන්ඩිස් ලකුණු 19ක් රැස් කළේය.
+South Africa defeated the Twenty20 World Cup and defeated the South Africa.
 
-ලකුණු 78ක ඉලක්කයක් හඹා යාමට පිටියට පිවිසි දකුණු අප්‍රිකානුවන් පන්දුවාර 16.2කදී කඩුලු 4ක් දැවි ඉලක්කය පසුකර ගියේය.
+Sri Lanka won the toss and elected to bat where Sri Lanka were bowled out for 77 runs.
+
+Anrnnjay was elected to 4 wickets for 7 overs. Kusal Mendis, the highest scorer of Sri Lankan innings scored 19 runs.
+
+South Africans crossed the loss of 4 wickets in 16.2 overs.
 
 ◼️
 
 [Data](articles/4233c3c3.json)
+
+[Extended Data](ext_articles/4233c3c3.ext.json)
 
 ---
 
@@ -343,6 +353,8 @@ My previous article titled “Parate execution: The last option and ‘not’ th
 ...
 
 [Data](articles/4e709599.json)
+
+[Extended Data](ext_articles/4e709599.ext.json)
 
 ---
 

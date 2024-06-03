@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-04 01:03:46**
+As of **2024-06-04 01:18:56**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,529
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,201 (100.0%) of 28,204 articles have been extended.
+28,204 (100.0%) of 28,204 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,6 +46,8 @@ The new collaboration between the two will further enhance the distribution, ava
 
 [Data](articles/20268969.json)
 
+[Extended Data](ext_articles/20268969.ext.json)
+
 ---
 
 ### Colombo City Holdings appoints new directors to Board
@@ -62,6 +64,8 @@ Concurrently, Y. Kanagasabai has resigned from his position on the Board with ef
 
 [Data](articles/9a07c209.json)
 
+[Extended Data](ext_articles/9a07c209.ext.json)
+
 ---
 
 ### Trade Promoters celebrates five years in Maldives
@@ -77,6 +81,8 @@ Since its inception, Electrify Maldives has continuously set the standard for ex
 ...
 
 [Data](articles/fa3e5743.json)
+
+[Extended Data](ext_articles/fa3e5743.ext.json)
 
 ---
 

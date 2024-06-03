@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-03 12:06:43**
+As of **2024-06-03 12:18:55**
 
 ## Newspaper Stats
 
-*Scraped **28,041** Articles*
+*Scraped **28,047** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 islandlk | 1,519
 economynextcom | 1,589
 dailyftlk | 1,644
-adalk | 2,390
-adaderanalk | 3,187
-tamilmirrorlk | 3,285
+adalk | 2,391
+adaderanalk | 3,191
+tamilmirrorlk | 3,286
 virakesarilk | 4,322
 dailymirrorlk | 4,443
 adaderanasinhalalk | 4,498
@@ -26,47 +26,155 @@ adaderanasinhalalk | 4,498
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,037 (100.0%) of 28,041 articles have been extended.
+28,041 (100.0%) of 28,047 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-03 (Monday)
 
-### ආපදා මරණ තවත් ඉහළට
+### Schools closed in Galle and Matara districts
+
+*2024-06-03 11:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/99622/schools-closed-in-galle-and-matara-districts) · `en`
+
+It has been decided to close all the schools in the Galle and Matara districts on Tuesday (June 04) and Wednesday (June 05) due to the prevailing adverse weather conditions, Governor of the Southern Province Lakshman Yapa Abeywardena said.
+
+The decision was communicated during a press conference being held in Colombo regarding the prevailing disaster situation across the island.
+
+◼️
+
+[Data](articles/b6c1fba9.json)
+
+---
+
+### Death toll from adverse weather climbs to 12; thousands displaced
+
+*2024-06-03 11:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/99621/death-toll-from-adverse-weather-climbs-to-12-thousands-displaced) · `en`
+
+The number of casualties reported due to the prevailing adverse weather conditions across the island has climbed to 12, as of today (June 03), State Minister of Defence, Pramitha Bandara Tennakoon said.
+
+Meanwhile, 05 persons are still reported missing due to various incidents caused by the extreme weather including floods and mudslides.
+
+Additionally, the State Minister also mentioned that 23,707 persons from 2,313 affected families are currently in relief centres established across the island.
+
+◼️
+
+[Data](articles/545ed7fd.json)
+
+---
+
+### Disaster deaths up
 
 *2024-06-03 11:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197323) · `si`
 
-පවතින අයහපත් කාලගුණ තත්ත්වයත් සමග සිදුවු ආපදා හේතුවෙන් පුද්ගලයින් 12 දෙනෙකු මේ වනවිට ජීවිතක්ෂයට පත්ව ඇති බව ආරක්ෂක රාජ්‍ය අමාත්‍ය ප්‍රමිත බණ්ඩාර තෙන්නකෝන් මහතා පවසයි.
+Due to severe weather, 12 deaths and 5 missing cases were reported. Additionally, 23,707 individuals from 2,313 families are housed in temporary shelters.
 
-තවත් පුද්ගලයින් 05 දෙනෙකු අතුරුදන්ව ඇති බව ද ඒ මහතා සඳහන් කළේය.
+🟩
 
-මේ අතර අයහපත් කාලගුණ තත්ත්වය හේතුවෙන් පවුල් 2,313කට අයත් පුද්ගලයින් 23,707 දෙනෙකුට බලපෑම් එල්ල වී ඇති බවත් ඔවුන් මේ වනවිට තාවකාලික රැඳවුම් මධ්‍යස්ථානවල නවතා ඇති බවත් රාජ්‍ය අමාත්‍යවරයා පැවසීය.
+According to state Minister Pipain Bandara Tennakoon, US Pindical Minister Pipain Bandara Tennakoon said that 12 persons have died due to the inclement weather.
+
+He added that five other people have gone missing.
+
+In the meantime, 23,707 persons belonging to 2,313 persons belonging to 2,313 families have been affected and they have been parked in temporary detention centers.
 
 ◼️
 
 [Data](articles/01d0dc2c.json)
 
+[Extended Data](ext_articles/01d0dc2c.ext.json)
+
 ---
 
-### විජයදාසට එරෙහි වාරණ නියෝගය දීර්ඝ කෙරේ
+### Old Bottles, Spent Wine
+
+*2024-06-03 11:41:00* · [`islandlk`](http://island.lk/old-bottles-spent-wine/) · `en`
+
+With elections coming up in a few months’ time – notwithstanding Palitha Range Bandara’s outrageous remarks, to which Saliya Pieris, the former President of the Bar Association, responded thoughtfully – new coalitions and alliances are cropping up. These have pulled together the unlikeliest MPs and ideologues, who you’d never put together in the same room but who have, in the aftermath of the 2022 crisis, have unified around certain issues. Outside of the government, the consensus seems to be that we have yet to see a proper Opposition. This is the selling promise of these new coalitions: they tout themselves as that proper Opposition, the only political groups that matter.
+
+...
+
+[Data](articles/16cf1021.json)
+
+[Extended Data](ext_articles/16cf1021.ext.json)
+
+---
+
+### Pakistan committed to enhance cooperation in economy and tourism with Sri Lanka - Punjab Governor
+
+*2024-06-03 11:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/99619/pakistan-committed-to-enhance-cooperation-in-economy-and-tourism-with-sri-lanka-punjab-governor) · `en`
+
+The Punjab Governor of Pakistan Sardar Saleem Haider Khan has assured that Pakistan is committed to extending cultural ties with Sri Lanka, the Pakistani media reported.
+
+The Punjab Governor made this remark during a bilateral meeting that took place between a Sri Lankan delegation led by Minister of Buddhadasna Religious and Cultural Affairs Vidura Wickramanayaka who is currently on an official visit to Pakistan.
+
+The delegation called on Punjab Governor Haider Khan at his official residence in Lahore, Pakistan on Sunday (02), the foreign media reports added.
+
+During the meeting, both parties have discussed the issues of mutual interest, and ways to enhance cooperation in economic, tourism and other sectors between the two countries.
+
+The Punjab Governor has expressed that Pakistan and Sri Lanka have cordial relations, while underscoring the need to enhance existing bilateral cooperation between the two countries.
+
+...
+
+[Data](articles/cdbffd9a.json)
+
+---
+
+### “மோடி பிரதமரானால் மொட்டை அடிப்பேன்”
+
+*2024-06-03 11:29:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மோடி-பிரதமரானால்-மொட்டை-அடிப்பேன்/175-338341) · `ta`
+
+‘‘தேர்தலுக்கு பிந்தைய கருத்து கணிப்பு முடிவுகள் தவறு என நிருபணம் ஆகும். நரேந்திர மோடி மீண்டும் பிரதமரானால், நான் மொட்டை அடிப்பேன்’’ என ஆம் ஆத்மி கட்சியின் புது டெல்லி வேட்பாளர் சோம்நாத் பாரதி தெரிவித்துள்ளார்.
+
+இது குறித்து எக்ஸ் தளத்தில் அவர் கூறியிருப்பதாவது: தேர்தலுக்கு பிந்தைய கருத்து கணிப்பு முடிவுகள் எல்லாம் தவறு என நிருபணமாகும். 4-ம் திகதி வாக்குகள் எண்ணப்பட்ட பின்பு இண்டியா கூட்டணி ஆட்சி அமைக்கும். மோடி 3-வது முறையாக பிரதமராகமாட்டார். அப்படி அவர் பிரதமரானால், நான் மொட்டை அடிப்பேன்.
+
+டெல்லியில் 7 தொகுதிகளிலும் இண்டியா கூட்டணி வெற்றி பெறும். மக்கள் பாரதிய ஜனதா கட்சிக்கு எதிராக அதிகளவில் வாக்களித்துள்ளனர். மோடி மீதான அச்சம் காரணமாக, கருத்து கணிப்பு முடிவில் தவறான தகவல் தெரிவிக்கப்பட்டுள்ளது. அதனால் நாம் 4 ஆம் திகதி வரை உண்மையான முடிவுகளுக்காக காத்திருக்க வேண்டும்.
+
+◼️
+
+[Data](articles/7cef6367.json)
+
+---
+
+### Enjoining order against Wijayaka is extended
 
 *2024-06-03 11:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197322) · `si`
 
-ශ්‍රී ලංකා නිදහස් පක්ෂයේ සභාපති ධුරයේ අධිකරණ අමාත්‍ය විජයදාස රාජපක්ෂ මහතා කටයුතු කිරීම වළක්වාලමින් පනවා තිබෙන වාරණ නියෝගය තව දුරටත් දීර්ඝ ලෙස කොළඹ දිසා අධිකරණය අද නියෝග කළේය.
+The Colombo District Court extended an injunction against Environmental Minister Wijayadasa Rajapakse, SLFP Chairman, due to ongoing legal proceedings. The case will be examined further by Colombo Additional District Judge Chamari Weerasuriya, after which another hearing is scheduled for the 14th of this month.
 
-පැමිණිල්ල අද (03) කොළඹ දිසාව විනිසුරු සඳුන් විතාන මහතා ඉදිරියේ කැඳවනු ලැබීය.
+🟩
 
-එහිදී දිසා විනිසුරුවරයා ප්‍රකාශ කළේ, මෙම පැමිණිල්ලේ විභාගය කොළඹ අතිරේක දිසාව විනිසුරු චමරි වීරසුරිය මහත්මිය හමුවට යොමු කරන බවය.
+The Colombo District Court today ordered the injunction of the Environmental Minister Wijayadasa Rajapakse, the SLFP's Chairman of Sri Lanka Freedom.
 
-එම අවස්ථාවේදී වග උත්තරකරුවන් වෙනුවෙන් පෙනී සිටි නීතීඥ ජයමුදිතා ජයසූරිය මහත්මිය අධිකරණය හමුවේ ඉල්ලීමක් කරමින් මෙම නඩුවට අදාළ විරෝධතා ගොනුකිරීම සඳහා කල් ලබාදෙන ලෙස ඉල්ලා සිටියේය.
+The complaint was called before Colombo District Judge Sandun Withana today.
 
-ඒ අනුව විරෝධතා ගොනුකිරීමට කල් ලබාදුන් විනිසුරුවරිය නඩුව නැවතත් ලබන 14 වනදා කැඳවන ලෙස නියෝග කළේය.
+The District Judge said that the examination would be referred to the Colombo Additional District Judge Chamari Weerasuriya.
 
-දැනට නිකුත් කර තිබෙන වාරණ නියෝගය එදින දක්වා දීර්ඝ කරන ලෙසත් විනිසුරු වරිය විසින් වැඩිදුරටත් නියෝග කරනු ලැබීය.
+Attorney-at-Law Jayatitha Jayasuriya appearing on behalf of the respondents, he requested to pay the protests related to the case.
+
+Accordingly, the judge to be summoned to the 14th again on the 14th of this month.
+
+The judge also ordered the extension of the invisory order.
 
 ◼️
 
 [Data](articles/6f093a75.json)
+
+[Extended Data](ext_articles/6f093a75.ext.json)
+
+---
+
+### Former Minister Tissa Karaliyadde joins SJB
+
+*2024-06-03 11:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/99617/former-minister-tissa-karaliyadde-joins-sjb) · `en`
+
+The former Medawachchiya Constituency Organizer of the Sri Lanka Freedom Party (SLFP), former minister Tissa Karalliyadde has joined the Samagi Jana Balawegaya (SJB).
+
+Karalliyadde was Sri Lanka’s former Cabinet Minister of Child Development and Women’s Affairs and a Member of Parliament representing the Anuradhapura District. He is an Agriculturist by profession.
+
+Subsequently, Opposition Leader Sajith Premadasa has appointed Karalliyadde as the co-organizer of SJB’s Medawachchiya Constituency.
+
+◼️
+
+[Data](articles/2cc109e2.json)
 
 ---
 
@@ -265,6 +373,20 @@ So far, police has arrested 26 persons — 16 agents, 6 policemen, an employee o
 [Data](articles/35312401.json)
 
 [Extended Data](ext_articles/35312401.ext.json)
+
+---
+
+### ජූනි 12 ලංකාවට තීරණාත්මක දිනයක්
+
+*2024-06-03 10:08:07* · [`adalk`](https://www.ada.lk/breaking_news/ජූනි-12-ලංකාවට-තීරණාත්මක-දිනයක්/11-409976) · `si`
+
+ජාත්‍යන්තර මූල්‍ය අරමුදල විසින් ශ්‍රී ලංකාව සම්බන්ධයෙන් ක්‍රියාත්මක කරන විස්තීර්ණ ණය පහසුකමට අදාළව ශ්‍රී ලංකාව සම්බන්ධයෙන් වන සිව්වන උපදේශනය හා දෙවැනි සමාලෝනය ජූනි 12 දිනට යෙදී තිබෙන අයි.එම්.එෆ්. කාර්ය මණ්ඩල රැස්වීම් න්‍යාය පත්‍රයට ඇතුළත් කර තිබේ.
+
+මේ පිළිබඳව සිය එක්ස් ගිණුමේ සටහක් තබමින් මුදල් රාජ්‍ය අමාත්‍ය ෂෙහාන් සේමසිංහ මහතා පවසන්නේ රටේ ආර්ථික ස්ථාවරත්වය, වර්ධනය සහ ප්‍රතිසංස්කරණ ප්‍රයත්නයන් තවදුරටත් ඉහළ නංවන තුන්වන වාරිකය මුදාහැරීම සඳහා සාර්ථක සමාලෝචනයකට සියලුම රටවල අඛණ්ඩ සහයෝගය ශ්‍රී ලංකාව බලාපොරොත්තු වන බවයි.
+
+◼️
+
+[Data](articles/865c06d2.json)
 
 ---
 
@@ -2039,171 +2161,5 @@ President Ranil Wickremesinghe said,
 [Data](articles/ec0ab704.json)
 
 [Extended Data](ext_articles/ec0ab704.ext.json)
-
----
-
-### The most disturbance of the turbulent weather
-
-*2024-06-02 20:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197301) · `si`
-
-Heavy rains due to the southwest monsoon have caused widespread flooding and landslides across the island, resulting in numerous casualties and displacements. Key incidents include fatalities from being trapped in homes during floods and landslides, with victims ranging from small children to elderly individuals. Infrastructure damage is extensive, affecting roads, shops, and houses, while electricity outages and disruptions to public transportation have been reported. The situation is further complicated by the overflow of major rivers and the issuance of flood risks. In response, rescue operations are underway, and schools will be closed tomorrow due to safety concerns.
-
-🟩
-
-The Disaster Management Center (DMC) stated that eight persons including small children have been reduced to the 24 hours of disasters in the island.
-
-The establishment of the southwest monsoon is very impacted by heavy rains in many areas.
-
-Avissawella Sudathi Oya at around 1 am
-
-They had died in the house, from unable to open home door with the flesh, which came.
-
-The deceased has been identified as a 78-year-old man, 36-year-old daughter and her 7-year-old daughter.
-
-Also, a 11-year-old girl was killed by a landslide in Avissawella.
-
-Two persons who had been crashed into the back of the house in Diyandara - Diyandara - Diyandara - Diyandara - Diyaragama area have been killed.
-
-The deceased have been 20 and 27 years old and another injured and hospitalized.
-
-Meanwhile, a number of rivers including black, forest, Kelani, Gin, Nilwala and Nilwala is currently underway along with heavy rains.
-
-The Irrigation Department issued a flood risk for 48 am today with heavy rains in the Kelani River.
-
-...
-
-[Data](articles/457d13bf.json)
-
-[Extended Data](ext_articles/457d13bf.ext.json)
-
----
-
-### Sri Lanka balance of payments surplus US$1.3bn by April 2024
-
-*2024-06-02 20:28:00* · [`economynextcom`](https://economynext.com/sri-lanka-balance-of-payments-surplus-us1-3bn-by-april-2024-165783/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s current dollar earnings from merchandise exports, remittances, tourism and other services exceeded imports by 542 million US dollars in April 2024, official data shows.
-
-Sri Lanka’s hard goods exports were 877.6 million US dollars in April, up from 848.6 million US dollars a year ago, in a holiday month which usually has a 20 percent downturn.
-
-Remittances were 543.8 million US dollars, up from 454 million last year.
-
-Tourism income was estimated at 225.7 million US dollars for April, which is from a survey and may not be as reliable as import export data from customs or remittances data from banks.
-
-Gross services which include tourism was 558 million US dollars.
-
-Foreign exchange earned by Sri Lankans from exports, remittances and gross services were 1,977 million US dollars in April 2024.
-
-Merchandise imports were only 1,435 million US dollars, leaving a surplus of 542 million dollars.
-
-...
-
-[Data](articles/9dd24d20.json)
-
-[Extended Data](ext_articles/9dd24d20.ext.json)
-
----
-
-### President receives special notice with inclement weather
-
-*2024-06-02 20:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197300) · `si`
-
-President Ranil Wickremesinghe directs Finance Ministry to allocate funds for immediate relief to those affected by bad weather.
-
-🟩
-
-President Ranil Wickremesinghe has instructed the Secretary of the Finance Ministry to allocate funds to the District Secretaries to provide immediate relief to the people affected by the inclement weather.
-
-◼️
-
-[Data](articles/58cda635.json)
-
-[Extended Data](ext_articles/58cda635.ext.json)
-
----
-
-### Vietnam Truc Lam Monastery in Sri Lanka takes meditation to all communities
-
-*2024-06-02 20:26:00* · [`economynextcom`](https://economynext.com/vietnam-truc-lam-monastery-in-sri-lanka-takes-meditation-to-all-communities-165803/) · `en`
-
-ECONOMYNEXT – Vietnam Truc Lam monastery in Kandy’s Ambakote area in Digana is promoting meditation and is attracting interest from Sri Lanka’s Sinhalese and Tamil communities as well as foreigners.
-
-On Vesak Day a newly built Danasala (refectory) and kuti (lodging) for monks were opened adding to the other buildings including the Main Hall, which were build earlier.
-
-Villagers were associated in the opening ceremony officiated by the Vietnam Ambassador to Sri Lanka Ho Thi Thanh Truc.
-
-Young people in the area and students are also closely involved with the temple.
-
-“When we first started the monastery, it was the children who came to see what this was about,” Venerable Dhammaloka Thero said.
-
-“They helped me plant trees. The parents came later and got involved in temple activities.”
-
-The monastery conducts English classes and Vietnamese classes for children and adults.
-
-“We had a 70 year old lady who came to study Vietnamese as well,” he says.
-
-...
-
-[Data](articles/dc8b4bab.json)
-
-[Extended Data](ext_articles/dc8b4bab.ext.json)
-
----
-
-### President directs prompt fund allocations to help people affected by adverse weather
-
-*2024-06-02 20:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/99605/president-directs-prompt-fund-allocations-to-help-people-affected-by-adverse-weather) · `en`
-
-President Ranil Wickremesinghe has directed the Secretary of the Ministry of Finance to promptly allocate funds to the District Secretaries to provide urgent assistance to those impacted by the adverse weather conditions, the President’s Media Division said.
-
-President Wickremesinghe has also instructed relevant officials to collaborate with the tri-forces and police to reconstruct all houses completely destroyed due to adverse weather, utilizing government funds, within the next two months.
-
-At least 14 people were killed and more than 19,000 others from over 5,000 families were affected over the weekend as severe monsoonal downpours inflicted widespread devastation in Sri Lanka, authorities said on Sunday.
-
-The Disaster Management Center (DMC) said 20 out of the country’s 25 districts were affected by heavy rain and issued warnings to people living on the banks of main rivers to move to higher ground.
-
-...
-
-[Data](articles/67282c76.json)
-
-[Extended Data](ext_articles/67282c76.ext.json)
-
----
-
-### President orders emergency funds for weather relief
-
-*2024-06-02 20:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/President-orders-emergency-funds-for-weather-relief/108-283922) · `en`
-
-Colombo, June 02 -  President Ranil Wickremesinghe issued a directive for immediate financial support to be distributed to the impacted regions in light of the severe weather conditions affecting several parts of the country.
-
-The President has instructed the Secretary to the Ministry of Finance to promptly allocate necessary funds to the District Secretaries, ensuring swift and efficient assistance to those in need.
-
-The President’s Media Division announced this directive a short while ago, emphasizing the urgency of the situation.
-
-◼️
-
-[Data](articles/3271ba32.json)
-
-[Extended Data](ext_articles/3271ba32.ext.json)
-
----
-
-### 10 people killed in the last 24 hours due to inclement weather05 people are missing
-
-*2024-06-02 20:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/185150) · `ta`
-
-In the past 24 hours, severe weather conditions have claimed the lives of 10 individuals and left another 5 missing.
-
-🟩
-
-Due to inclement weather, 10 people have died in the last 24 hours.
-
-Meanwhile, Defense Minister Pramitha Bandara Tennakoon has said that five more people have disappeared.
-
-◼️
-
-[Data](articles/e03d20a3.json)
-
-[Extended Data](ext_articles/e03d20a3.ext.json)
 
 ---

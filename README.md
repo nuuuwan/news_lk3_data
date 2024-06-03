@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-03 18:24:55**
+As of **2024-06-03 18:36:15**
 
 ## Newspaper Stats
 
-*Scraped **28,141** Articles*
+*Scraped **28,148** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 270
 bbccomsinhala | 277
 newsfirstlk | 363
 islandlk | 1,520
-economynextcom | 1,597
+economynextcom | 1,604
 dailyftlk | 1,644
 adalk | 2,400
 adaderanalk | 3,204
@@ -26,31 +26,57 @@ adaderanasinhalalk | 4,518
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,136 (100.0%) of 28,141 articles have been extended.
+28,141 (100.0%) of 28,148 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-03 (Monday)
 
-### රේල් පාරේ බස් පැද්ද රියදුරුට චෝදනා ගොන්නක්
+### Bus swing driver accused of railroad
 
 *2024-06-03 18:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197344) · `si`
 
-කොළඹ රත්නපුර ප්‍රධාන මාර්ගයේ පුවක්පිටිය ප්‍රදේශයේදී අනතුරුදායක ලෙස දුම්රිය මාර්ගයේ බස් රථය ධාවනය කළ රියදුරු ජුනි මස 14 වනදා දක්වා රිමාන්ඩ් බන්ධනාගාරගතකර තිබේ.
+A bus swing driver was arrested by Embilipitiya police for damaging railway lines and government property during bad weather. The driver was remanded until June 14th after appearing before the Avissawella Magistrate's Court.
 
-පොලීසිය විසින් සැකකාර රියදුරු අවිස්සාවේල්ල මහෙස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමෙන් අනතුරුව මෙම නියෝගය ලබාදී තිබේ.
+🟩
 
-සැකකාර රියදුරු ඇඹිලිපිටිය පොලීසිය විසින් අත්අඩංගුවට ගෙන අවිස්සාවේල්ල පොලීසියට භාරදී තිබුණි.
+The driver of the railway line was remanded until June 14 on June 14.
 
-මෙහිදී පොලීසිය විසින් සැකකාර රියදුරුට එරෙහිව චෝදනා රැසක් ගොනුකර තිබේ.
+The injunction has been issued after the suspect was produced before the Avissawella Magistrate's Court.
 
-මිනී මැරීමට තැත්කිරීම, රියදුරු බලපත්‍රය අත්හිටුවා තිබියදී රිය ධාවනය කිරීම, විෂ මත්ද්‍රව්‍ය භාවිත කර රිය ධාවනය කිරීම, රජයේ දේපොළවලට අලාභහානි සිදුකිරීම ඔහුට එරෙහිව එල්ලකර ඇති චෝදනා වෙයි.
+The suspect driver was arrested by Embilipitiya police and handed over to Avissawella police.
 
-පසුගිය 02 වනදා පැවති අයහපත් කාලගුණික තත්ත්වය සමග සැකකාර රියදුරු පුවක්පිටිය ප්‍රදේශයේදී පෞද්ගලික මගී ප්‍රවාහන බස් රථයක් දුම්රිය මාර්ගය ඔස්සේ ධාවනය කරන අයුරු දැක්වෙන දර්ශන පෙළක් සමාජ මාධ්‍ය ඔස්සේ හුවමාරු වීමත් සමග පොලීසිය පරීක්ෂණ සිදුකර සැකකාර බස් රියදුරු අත්අඩංගුවට ගෙන තිබුණි.
+The police have filed a number of accusations against the suspect.
+
+The attempted attempt to kill the driver's license, driving, driving drives and drivers have been severely damaged by the loss of government property.
+
+With the adverse weather conditions that were running along the railway line with the inclement weather, the suspect was conducted in the railway line, the suspect was arrested by the police.
 
 ◼️
 
 [Data](articles/9709890a.json)
+
+[Extended Data](ext_articles/9709890a.ext.json)
+
+---
+
+### Sri Lanka to plant a tree to replace a tree: state minister
+
+*2024-06-03 18:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-plant-a-tree-to-replace-a-tree-state-minister-166002/) · `en`
+
+ECONOMYNEXT – Sri Lanka will plant 10 lakhs of saplings to substitute for falling trees, state minister for provincial councils and local government Janaka Wakkumbura said.
+
+“On June 5 [world environment day], we plan to implement a program to plant 10 lakhs of plants around the country,” Wakkumbura told reporters on Monday.
+
+This announcement follows State Minister of Defense, Pramitha Bandara Tennakoon’s announcement the same day that 300 trees in Colombo are considered high risk. “Now Environment Day is coming up, and anyone can go plant a tree by the road. We have to take a decision about this. Trees should be suitable for the area. Some trees have roots that spread and damage roads, buildings. When the roots can’t go deep, they tend to topple over.”
+
+300 of 100,000 trees in Colombo considered high risk: state minister
+
+Strong winds and heavy rains have brought down trees across power lines and transformers resulting in over 300,000 outages.
+
+...
+
+[Data](articles/3eaa4d59.json)
 
 ---
 
@@ -65,6 +91,8 @@ The DMC has identified the two deceased as males, aged 53 and 23 years.
 ◼️
 
 [Data](articles/0bb05997.json)
+
+[Extended Data](ext_articles/0bb05997.ext.json)
 
 ---
 
@@ -238,6 +266,40 @@ Powers Picture The opposition leader Sajith Pasathalawa Padiyathala College, Amp
 
 ---
 
+### Sri Lanka Government awaits Supreme Court ruling to cancel LG polls: State Minister
+
+*2024-06-03 16:55:00* · [`economynextcom`](https://economynext.com/sri-lanka-government-awaits-supreme-court-ruling-to-cancel-lg-polls-state-minister-165984/) · `en`
+
+ECONOMYNEXT – The Sri Lankan government will not enact the necessary legislation to cancel already declared Local Government (LG) polls, a State Minister said, amid growing concerns over potential violations of election laws through various development projects and a poverty alleviation program.
+
+The island’s Election Commission initially scheduled the LG polls for March 9, 2023, later postponing them to April 25, 2023. However, the elections were not held after President Ranil Wickremesinghe’s administration cited a lack of funds due to the country’s recovery from an unprecedented economic crisis.
+
+Despite the postponement, the LG polls have not been officially canceled, meaning that standard election laws, including restrictions on political parties engaging in development projects or distributing funds, remain in effect.
+
+...
+
+[Data](articles/1e7593ec.json)
+
+---
+
+### Sri Lanka rupee closes flat at 301.90/302.00 to US dollar
+
+*2024-06-03 16:54:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-flat-at-301-90-302-00-to-us-dollar-165992/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed flat at 301.90/302.00 to the US dollar on Monday, dealers said. Bond yields were broadly steady.
+
+A bond maturing on 15.12.2026 closed at 9.70/80 percent down from 9.80/95 percent.
+
+A bond maturing on 15.09.2027 closed at 10.30/45 percent down from 10.40/55 percent.
+
+A bond maturing on 01.07.2028 closed stable at 10.80/90 percent.
+
+◼️
+
+[Data](articles/a077f319.json)
+
+---
+
 ### Bodies found in the Harmal
 
 *2024-06-03 16:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197341) · `si`
@@ -275,6 +337,30 @@ As a result, the tracks have been stopped at the Kotagala station to the Colombo
 [Data](articles/82ba6ca0.json)
 
 [Extended Data](ext_articles/82ba6ca0.ext.json)
+
+---
+
+### Sri Lanka stocks close down, turnover low
+
+*2024-06-03 16:44:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-turnover-low-165988/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed down on Monday, data on its site showed.
+
+The broader All Share Index closed down 0.46 percent, or 56.05 points, at 12,050; while the S&P SL20 Index closed down 0.42 percent, or 15.08 points, at 3,553.
+
+Turnover was 686 million. Most of this came from the food, beverage and tobacco stocks (Rs144mn).
+
+Browns Investments Plc saw the most active volumes (Rs73mn) traded in the day. The share closed down at 5.90.
+
+United Motors Lanka Plc, which announced a cash dividend, closed down at 70.90.
+
+R I L Property Plc, which announced a cash dividend on Friday, closed up at 7.60.
+
+Banks saw mixed sentiments: Sampath Bank Plc closed down at 77.80, Commercial Bank of Ceylon Plc closed up at 106.25, DFCC Bank Plc closed up at 77.50, Hatton National Bank Plc closed flat at 195.25, and National Development Bank Plc closed down at 78.00.
+
+...
+
+[Data](articles/ad7e64ba.json)
 
 ---
 
@@ -402,6 +488,30 @@ He was instructed to provide immediate relief to the people affected people.
 
 ---
 
+### Sri Lanka foreign debt slightly down in March quarter, rupee debt up
+
+*2024-06-03 15:51:00* · [`economynextcom`](https://economynext.com/sri-lanka-foreign-debt-slightly-down-in-march-quarter-rupee-debt-up-165951/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s foreign debt, including sovereign bonds held by domestic investors were marginally down to 37,040 million dollars by March 2023, from 37,334.5 million US dollars in December, official data showed.
+
+The number was only about 500 million dollars up from 36,435 million US dollars released in a debt update last March, despite the World Bank, ADB and the International Monetary Fund giving budget support loans since then.
+
+Multilateral debt was 11,716 million dollars in March, compared to 11,783 in December.
+
+There were no arrears as debt to multilaterals continue to be serviced and the are providing budget support loans on an on-going basis.
+
+Bilateral debt was 10,588.6 million US dollars, with 2,167.5 million dollars in arrears.
+
+The largest creditor was Exim Bank of China with 3,993 million dollars of which 903 million was in arrears.
+
+Japan was owed 2,359 million dollars of which 291.2 million was in arrears.
+
+...
+
+[Data](articles/374ff6d3.json)
+
+---
+
 ### A major tube of the black oil in Colombo
 
 *2024-06-03 15:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197336) · `si`
@@ -512,17 +622,23 @@ The relevant petitions have been filed by the Samagi Jana Balawegaya (SJB), Cent
 
 ---
 
-### සිමෙන්ති මිල අඩුකරයි
+### Cement is reduced
 
 *2024-06-03 15:33:40* · [`adalk`](https://www.ada.lk/breaking_news/සිමෙන්ති-මිල-අඩුකරයි/11-409983) · `si`
 
-මේ මස පළමුවැනිදා සිට සිමෙන්ති කිලෝග්‍රෑම් 50 බෑගයක මිල රුපියල් 150 කින් අඩු කළ බව සිමෙන්ති සමාගම් පැවසීය.
+Cement prices have been reduced; 50 kg now costs a maximum of Rs. 2250.
 
-ඒ අනුව කිලෝග්‍රෑම් 50 බෑගයක උපරිම සිල්ලර මිල රුපියල් 2250 ක් බවත් සිමෙන්ති සමාගම් වැඩි දුරටත් සඳහන් කරයි.
+🟩
+
+Cement companies said the price of 50 kilograms of cement from 1st of this month was reduced by Rs.
+
+Accordingly, the maximum retail price of 50 kilograms is Rs. 2250 and the maximum retail price of Rs 2250.
 
 ◼️
 
 [Data](articles/0ac972ea.json)
+
+[Extended Data](ext_articles/0ac972ea.ext.json)
 
 ---
 
@@ -864,6 +980,26 @@ The island’s Disaster Management said 3,727 families were hit by floods and la
 
 ---
 
+### Sri Lanka floods kill 15, four rivers still rising
+
+*2024-06-03 14:17:00* · [`economynextcom`](https://economynext.com/sri-lanka-floods-kill-15-four-rivers-still-rising-165849/) · `en`
+
+ECONOMYNEXT – Torrential monsoon rains have killed 15 people in Sri Lanka and left thousands homeless; authorities warn that water levels were still rising in four major rivers.
+
+Water levels in the Kalu and Nilwala rivers, and the Attanagalu Oya were in ‘major flood’ level, while the Gin and Kelani rivers were in ‘minor flood’ level, Sri Lanka’s Department of Irrigation said in a public warning.
+
+The Department of Meteorology has said heavy rain, strong winds and rough seas conditions will continue until tomorrow morning.
+
+The island’s Disaster Management said 3,727 families were hit by floods and landslides. 641 families have been evacuated.
+
+“The Army, Navy, Air Force, Police, and the Civil Defense Force are aiding in rescue operations,” state minister for Defense Premitha Bandara Tennakoon told reporters.
+
+...
+
+[Data](articles/ca86f223.json)
+
+---
+
 ### All schools in five districts and educational zone
 
 *2024-06-03 14:15:45* · [`adalk`](https://www.ada.lk/breaking_news/දිස්ත්‍රික්ක-පහක-හා-අධ්‍යාපන-කලාපයක-සියලු-පාසල්/11-409980) · `si`
@@ -1177,6 +1313,28 @@ New laws would be brought in so provincial/municipal institutions could strength
 [Data](articles/00a4ad18.json)
 
 [Extended Data](ext_articles/00a4ad18.ext.json)
+
+---
+
+### Sri Lanka watching 300 ‘high risk’ trees in the capital Colombo
+
+*2024-06-03 13:05:00* · [`economynextcom`](https://economynext.com/sri-lanka-watching-300-high-risk-trees-in-the-capital-colombo-165860/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s military and the Civil Defence Force, city authorities are monitoring 300 trees in the capital Colombo, as pouring rain and gusting winds brings down large trees, State Minister for Defense Premitha Bandara Tennakoon said.
+
+Colombo, sometimes known as the Garden City of Asia has beautiful trees, some dating back to the British period and brought from around the world.
+
+“Within the Colombo Municipal Council city limits, there are 100,000 trees. Of these, around 300 are considered high risk,” Tennakoon told reporters at a media conference to raise awareness about the current disaster management situation.
+
+Not all trees required to be cut down he said. “We can trim some of the branches and retain them.”
+
+The problem was that buildings in the vicinity of the tree had cut branches on one side, causing it to become unbalanced, the minister said.
+
+New laws would be brought in so provincial/municipal institutions could strengthen enforcement of building codes.
+
+...
+
+[Data](articles/efcb148a.json)
 
 ---
 
@@ -1798,27 +1956,35 @@ The judge also ordered the extension of the invisory order.
 
 ---
 
-### වැසි සහිත කාලගුණය : ආපදාවන් නිසා පුද්ගල මරණ 12ක්. 5ක් අතුරුදන්
+### Rainy weather: 12 deaths due to disasters. 5 disappeared
 
 *2024-06-03 11:21:42* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c3ggz58181wo) · `si`
 
-වැසි සහිත කාලගුණය : ආපදාවන් නිසා පුද්ගල මරණ 12ක්. 5ක් අතුරුදන්
+Heavy rainfall in Sri Lanka led to 12 deaths and 5 disappearances due to various disasters like floods. The Disaster Management Center reported widespread damage across several districts, affecting over 41,000 individuals. Schools were closed, and the government mobilized resources for relief efforts, including setting up emergency hotlines.
 
-මෙහි කිසිවක් අඩංගු නැත.Play video, "''පැයක් විතර කෑ ගැහුවා. වැස්ස නිසා කාටවත් ඇහුණේ නෑ.''", ධාවන කාලය 2,1402:14වීඩියෝ ශීර්ෂ වැකිය, ''පැයක් විතර කෑ ගැහුවා. වැස්ස නිසා කාටවත් ඇහුණේ නෑ.''
+🟩
 
-අධික වැසි සහිත කාලගුණය හේතුවෙන් ජුනි මස පළමු වෙනිදා සිට අද (ජුනි මස 03 වෙනිදා) දක්වා පුද්ගලයින් 12 දෙනෙකු ජීවිතක්ෂයට පත්ව තවත් 5 දෙනෙකු අතුරුදන්ව ඇති බව ආපදා කළමනාකරණ මධ්‍යස්ථාන සඳහන් කළේය.
+Rainy weather: 12 deaths due to disasters. 5 disappeared
 
-රත්නපුර, කොළඹ සහ මාතර යන දිස්ත්‍රික්කවල ජල ගැලීම් හේතුවෙන් මරණ 08ක්, පස් කණ්ඩි කඩා වැටීමෙන් මරණ 03ක් සහ ගස් කඩා වැටීමෙන් එක් මරණයක් වාර්තා වී තිබේ.
+It contains nothing here. Play Video, "". No one listens due to rain. "" The Running Time 2,1402: 14 Video Head, ". Nobody listens to rain. "
 
-මීට අමතරව ගාල්ල සහ මාතර යන දිස්ත්‍රික්කවල පුද්ගලයින් පස් දෙනෙකු අතුරුදන්වී ඇති බව ආපදා කළමනාකරණ මධ්‍යස්ථානය පැවසීය.
+The Disaster Management Center (DMC) stated that 12 persons have died on the first rain weather this morning (June 3).
 
-අධික වැසි සහිත කාලගුණික තත්ත්වය හේතුවෙන් දිස්ත්‍රික්ක 06ක ජනතාව පීඩාවට පත්ව ඇති බව ආපදා කළමනාකරණ මධස්ථානය සඳහන් කළේය.
+Due to floods, 8 deaths and the centers of the trees and trees have been reported by floods due to floods, 8 deaths and mortality due to floods in Ratnapura, Colombo and Matara.
 
-නුවරඑළිය, කොළඹ, කළුතර, ගාල්ල, මාතර සහ ගම්පහ යන දිස්ත්‍රික්කවල පවුල් 1,489කට අයත් පුද්ගලයින් 5575 දෙනෙකු සුරක්ෂිත මධ්‍යස්ථානවල සිටින බව ආපදා කළමනාකරණ මධස්ථානය නිකුත් කළ නිවේදනයේ දැක්වෙයි.
+The Disaster Management Center (DMC) stated that five persons have gone missing in the Galle and Matara districts.
+
+Due to heavy rains weather conditions, the Disaster Management Center stated that the people of six districts have been affected.
+
+The Disaster Management Center announced that 5575 persons belonging to 1,489 families in 1,489 families in the Nuwara Eliya, Colombo, Kalutara, Galle, Galle and Gampaha districts.
+
+41,852 persons belonging to 10,975 families have been affected by inclement weather.
 
 ...
 
 [Data](articles/a3be3a6e.json)
+
+[Extended Data](ext_articles/a3be3a6e.ext.json)
 
 ---
 
@@ -1983,155 +2149,5 @@ However, in 2011, a study conducted by the Universities of Moratuwa and Peradeni
 [Data](articles/ebd4f29f.json)
 
 [Extended Data](ext_articles/ebd4f29f.ext.json)
-
----
-
-### Fake Indian Passport: Two Sri Lankans arrested
-
-*2024-06-03 11:00:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போலி-இந்திய-கடவுச்சீட்டு-இலங்கையர்-இருவர்-கைது/175-338338) · `ta`
-
-Indian authorities arrested three individuals, including two Sri Lankans, for producing fake Indian passports for refugees. The arrests were made in Tamil Nadu by the Criminal Investigation Department.
-
-🟩
-
-Indian authorities have arrested three persons, including two Sri Lankans who illegally produced Indian passports for Sri Lankan refugees.
-
-Indian media reports that the Criminal Investigation Department has arrested the suspects in Tamil Nadu.
-
-◼️
-
-[Data](articles/f00690fd.json)
-
-[Extended Data](ext_articles/f00690fd.ext.json)
-
----
-
-### Civil community letter to UN Office
-
-*2024-06-03 10:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/185179) · `ta`
-
-Civil society groups, including the United National Party, delivered a letter to the UN Office in Colombo protesting the government's electoral regulations. The letter criticizes the postponement of parliamentary presidential elections as undemocratic, expressing widespread dissatisfaction among Sri Lankans. They urge international bodies like the UN and foreign embassies to pressure the UNP's general secretary to safeguard democracy and prevent future crises.
-
-🟩
-
-Civil community members have handed over a letter to the United Nations Office in Colombo to protest the government's efforts to regulate the elections.
-
-In their letter, the United National Party (UNP) general secretary Palitha Ranga Bandara has stated that Palitha Ranga Bandara's view of Palitha Ranga Bandara is an anti -democratic opinion on the postponement of the parliamentary presidential election.
-
-The letter has been handed over to the United Nations Office of Sri Lanka, including a number of organizations, including the National Civil Organization's Leading Electricity Consumer Association of the National Civil Organization.
-
-In their letter, civil society representatives said that the comments made by the General Secretary of the United National Party on May 28 have caused great dissatisfaction among the people of Sri Lanka.
-
-They have stated that the UNP secretary's secretary is very serious to the people waiting for elections.
-
-...
-
-[Data](articles/6d052c1a.json)
-
-[Extended Data](ext_articles/6d052c1a.ext.json)
-
----
-
-### 13 Death: Ivar magic
-
-*2024-06-03 10:51:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/13-பேர்-மரணம்-ஐவர்-மாயம்/175-338334) · `ta`
-
-Heavy rains caused 13 deaths and affected 177 Divisional Secretariats across 20 districts, with 5 missing and 20 injured.
-
-🟩
-
-Thirteen deaths have been reported in two days due to floods and winds caused by heavy rains.
-
-The Disaster Relief Center said five people were missing and 20 were injured.
-
-Due to this weather, people from 177 Divisional Secretariats of 20 districts have been affected.
-
-◼️
-
-[Data](articles/6dbafd1c.json)
-
-[Extended Data](ext_articles/6dbafd1c.ext.json)
-
----
-
-### Tuesday to be gone to the rich
-
-*2024-06-03 10:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197320) · `si`
-
-Tissa Karaliyadda, ex-SLFP organizer and minister, joins reconciliation efforts and enters Parliament for Anuradhapura District, taking charge of Child Development and Women's Affairs. Sajith Premadasa is named co-organizer of Medawachchiya.
-
-🟩
-
-Former Sri Lanka Freedom Party (SLFP) organizer and former minister Tissa Karaliyadda, the Opposition Leader of the Opposition, has joined the reconciliation force.
-
-He also entered the Parliament representing the Anuradhapura District and was also the Minister of Cabinet of Child Development and Women's Affairs.
-
-Opposition Leader Sajith Premadasa has been appointed as the co-organizer of the Medawachchiya, Medawachchiya, Medawachchiya.
-
-◼️
-
-[Data](articles/6dfd8955.json)
-
-[Extended Data](ext_articles/6dfd8955.ext.json)
-
----
-
-### Welibenna interrupt reopened
-
-*2024-06-03 10:46:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெலிபென்ன-இடைமாறல்-மீண்டும்-திறக்கப்பட்டது/175-338332) · `ta`
-
-The Southern Highway, previously closed due to floods, has reopened for transport, according to the Road Development Authority's Highway Care and Management Division.
-
-🟩
-
-The Welipenna interference of the Southern Highway, which was closed due to floods, has now opened for transport, the Road Development Authority (RDA) Highway Highway Care and Management Division said.
-
-◼️
-
-[Data](articles/5bac3af3.json)
-
-[Extended Data](ext_articles/5bac3af3.ext.json)
-
----
-
-### Police officer killed in knives
-
-*2024-06-03 10:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197319) · `si`
-
-A police officer, aged 29, was fatally stabbed in Manheim while trying to apprehend a 25-year-old suspect. The incident occurred last Friday and has garnered international media attention.
-
-🟩
-
-International media reports that the police officer who had been killed in Manheim in Manheim last Friday.
-
-The 29-year-old police officer was attacked when attempting to control the 25-year-old suspect.
-
-◼️
-
-[Data](articles/7d57c8f4.json)
-
-[Extended Data](ext_articles/7d57c8f4.ext.json)
-
----
-
-### Australia lifts minimum wage as families grapple with higher living costs
-
-*2024-06-03 10:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/99615/australia-lifts-minimum-wage-as-families-grapple-with-higher-living-costs) · `en`
-
-Australia’s independent wage-setting body on Monday raised the national minimum wage by 3.75%, largely in line with inflation, as families tackle soaring living costs.
-
-The minimum rate will rise to A$24.10 ($16.05) per hour from July 1, resulting in an extra A$33 per week for about a fifth of the Australian workforce or about 2.6 million employees.
-
-In its annual review, the Fair Work Commission said cost-of-living pressures have hit low-income employees the most, though inflation is considerably lower now than it was at this time last year, when it awarded an increase of 5.75%.
-
-But the report said it was not “appropriate at this time to increase award wages by any amount significantly above the inflation rate principally because labour productivity is no higher than it was four years ago.”
-
-Australian consumer price inflation rose at an annual pace of 3.6% in April, the highest level in five months, adding to risks the next move in interest rates might be upward.
-
-◼️
-
-[Data](articles/acb485c7.json)
-
-[Extended Data](ext_articles/acb485c7.ext.json)
 
 ---

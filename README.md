@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-04 01:34:09**
+As of **2024-06-04 01:52:41**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,529
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,204 (100.0%) of 28,205 articles have been extended.
+28,205 (100.0%) of 28,205 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -160,25 +160,35 @@ Opener Kusal Mendis (19) and veteran all-rounder Angelo Mathews (16) were the on
 
 ---
 
-### சர்வதேச ரி20யில் இலங்கையை குறைந்த மொத்த எண்ணிக்கைக்கு சுருட்டிய தென் ஆபிரிக்காவுக்கு இலகுவான வெற்றி
+### South Africa is a lighter victory in the international T20
 
 *2024-06-03 23:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/185248) · `ta`
 
-நியூயோர்க் நசவ் விளையாட்டரங்கில் இன்று நடைபெற்ற 9ஆவது ரி20 உலகக் கிண்ண அத்தியாயத்தின் டி குழுவுக்கான ஆரம்ப போட்டியில் இலங்கையை 77 ஓட்டங்களுக்கு சுருட்டிய தென் ஆபிரிக்கா 6 விக்கெட்களால் மிக இலகுவாக வெற்றிபெற்றது.
+South Africa secured a 6-wicket victory over Sri Lanka in the opening match of the 9th T20 World Cup, with Nokia taking 4 key wickets. Sri Lanka's 77 runs were their lowest in an international T20, largely due to South Africa's accurate bowling. The match highlighted challenges faced by both teams on Nasav's artificial pitch, showcasing a battle between bowling strength and batting prowess.
 
-அன்றிச் நோக்கியாவின் 4 விக்கெட் குவியலுடனான துல்லியமான பந்துவீச்சு தென் ஆபிரிக்காவின் வெற்றியை இலகுவாக்கியது.
+🟩
 
-இந்தப் போட்டியில் இலங்கை பெற்ற 77 ஓட்டங்கள் சர்வதேச ரி20 கிரிக்கெட் போட்டி ஒன்றில் இலங்கையினால் பெறப்பட்ட மிகக் குறைந்த மொத்த எண்ணிக்கை ஆகும்.
+South Africa won by 6 wickets for 77 runs in the opening match of the 9th T20 World Cup chapter's T team held at the New York Nasav Stadium today.
 
-நசவ் செயற்கை ஆடுகளத்தில் முதல் தடவையாக விளையாடப்பட்ட இந்த சர்வதேச கிரிக்கெட் போட்டியில் இரண்டு அணிகளினதும் வீரர்கள் துடுப்பெடுத்தாடுவதில் சிரமத்தை எதிர்கொண்டனர்.
+The accurate bowling with Nokia's 4 wickets has made South Africa's victory easier.
 
-இந்தப் போட்டி இலங்கையின் பந்துவீச்சுக்கும் தென் ஆபிரிக்காவின் துடுப்பாட்டத்துக்கும் இடையிலான போட்டியாக அமையும் என எதிர்வுகூறப்பட்டது.
+Sri Lanka's 77 runs in this match are the lowest total number of Sri Lanka in an international T20 cricket match.
 
-ஆனால் இரண்டு அணிகளினதும் பந்துவீச்சாளர்களுக்கும் துடுப்பாட்ட வீரர்களுக்கும் இடையிலான போட்டியாக இது அமைந்திருந்தது.
+The players of the two teams faced the difficulty in the international cricket match, which was the first time Nasav, who played on the artificial pitch.
+
+The match is expected to be a match between Sri Lanka's bowling and South Africa's batting.
+
+But it was a match between the two teams and the bowlers and the batsmen.
+
+Sri Lanka decided to bat first and lost all wickets in 19.1 overs and scored only 77 runs.
+
+The Sri Lankan team, who was unable to face the South African bowlers properly, scored only double -digit numbers and both of them lost the match in the middle of the row.
 
 ...
 
 [Data](articles/4a7437d2.json)
+
+[Extended Data](ext_articles/4a7437d2.ext.json)
 
 ---
 

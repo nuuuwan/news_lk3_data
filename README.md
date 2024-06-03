@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-04 02:52:27**
+As of **2024-06-04 03:03:58**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,529
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,214 (100.0%) of 28,223 articles have been extended.
+28,223 (100.0%) of 28,223 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,6 +50,8 @@ United National Party (UNP) General Secretary Palitha Range Bandara, yesterday d
 
 [Data](articles/8bc2ec11.json)
 
+[Extended Data](ext_articles/8bc2ec11.ext.json)
+
 ---
 
 ### Substandard IVIG case: Keheliya and 7 others further remanded, one released on bail
@@ -70,6 +72,8 @@ Investigations revealed that financial fraud of Rs. 130 million had occurred via
 
 [Data](articles/b3c0e9d6.json)
 
+[Extended Data](ext_articles/b3c0e9d6.ext.json)
+
 ---
 
 ### Harin, Ravi, Ronald to spearhead UNP’s election campaign
@@ -85,6 +89,8 @@ Harin Fernando was appointed as the National Election organiser while Ravi Karun
 ...
 
 [Data](articles/3e899eed.json)
+
+[Extended Data](ext_articles/3e899eed.ext.json)
 
 ---
 
@@ -104,6 +110,8 @@ SJB leader and Opposition leader Sajith Premadasa appointed Karalliyadde as the 
 
 [Data](articles/ecacebd9.json)
 
+[Extended Data](ext_articles/ecacebd9.ext.json)
+
 ---
 
 ### Stop being source of political jokes – Madduma Bandara tells UNP
@@ -114,19 +122,27 @@ SJB leader and Opposition leader Sajith Premadasa appointed Karalliyadde as the 
 
 [Data](articles/2817a742.json)
 
+[Extended Data](ext_articles/2817a742.ext.json)
+
 ---
 
-### ’தேர்தலை புறக்கணியுங்கள்’
+### Ignore election election
 
 *2024-06-04 02:25:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தலை-புறக்கணியுங்கள்/175-338391) · `ta`
 
-ஜனாதிபதித் தேர்தலை புறக்கணிக்க கோரி கஜேந்திரகுமார் பொன்னம்பலம் எம்.பி தலைமையிலான  தமிழ் தேசிய மக்கள் முன்னணி  யாழ்ப்பாணத்தில் சனிக்கிழமை(01) பிரசாரத்தில் ஈடுபட்டனர்.
+The Tamil National People's Front, led by Gajendrakumar Ponnambalam MP, called for a boycott of Sri Lanka's presidential election on January 1st. They distributed pamphlets urging citizens to abstain from voting until the unilateral constitution is repealed and a federal system is established.
 
-ஒற்றையாட்சி அரசமைப்பு நீக்கப்பட்டு சமஷ்டி அரசமைப்பு முறைமை உருவாக்கத்துக்கான உத்தரவாதம் வழங்கப்படும்வரை ஜனாதிபதித் தேர்தலை பகிஷ்கரிக்க வேண்டும் என்றும் அவர்கள் விநியோகித்த துண்டுப்பிரசுரத்தில் தெரிவிக்கப்பட்டுள்ளது.
+🟩
+
+The Tamil National People's Front led by Gajendrakumar Ponnambalam MP demanded a boycott of the presidential election on Saturday (01).
+
+The pamphlets they distributed should be boycotted the presidential election until the unilateral constitution was abolished and the federal constitutional system was guaranteed.
 
 ◼️
 
 [Data](articles/6bead92b.json)
+
+[Extended Data](ext_articles/6bead92b.ext.json)
 
 ---
 
@@ -141,6 +157,8 @@ Organised by the Intern-ational Labour Organisation (ILO) in partnership with EF
 ...
 
 [Data](articles/c6150100.json)
+
+[Extended Data](ext_articles/c6150100.ext.json)
 
 ---
 
@@ -158,6 +176,8 @@ In a statement the All Union Alliance of BOI said the following.
 
 [Data](articles/ad3cf294.json)
 
+[Extended Data](ext_articles/ad3cf294.ext.json)
+
 ---
 
 ### Construction, Power and Energy Expo 2024 from 5-7 July
@@ -171,6 +191,8 @@ The Construction Power and Energy Expo is Sri Lanka’s premier exhibition in th
 ...
 
 [Data](articles/89d3c3bc.json)
+
+[Extended Data](ext_articles/89d3c3bc.ext.json)
 
 ---
 

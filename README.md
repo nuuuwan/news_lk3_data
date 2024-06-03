@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-03 15:34:13**
+As of **2024-06-03 15:53:36**
 
 ## Newspaper Stats
 
-*Scraped **28,104** Articles*
+*Scraped **28,105** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,519
 economynextcom | 1,597
 dailyftlk | 1,644
-adalk | 2,393
+adalk | 2,394
 adaderanalk | 3,199
 tamilmirrorlk | 3,295
 virakesarilk | 4,332
@@ -26,25 +26,31 @@ adaderanasinhalalk | 4,508
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,097 (100.0%) of 28,104 articles have been extended.
+28,104 (100.0%) of 28,105 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-03 (Monday)
 
-### වතු සේවකයින්ගේ දෛනික වැටුප සම්බන්ධ ගැසට්ටුව ගැන අධිකරණය දුන් තීන්දුව
+### Court's decision on the daily wage gazette of estate workers
 
 *2024-06-03 15:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197333) · `si`
 
-වතු සේවකයින් සඳහා අවම දෛනික වැටුපක් නියම කරමින් කම්කරු අමාත්‍යවරයා විසින් නිකුත් කර තිබෙන ගැසට් නිවේදනයක් ක්‍රියාත්මක කිරීම වළක්වමින් මෙම අවස්ථාවේදී අතුරු තහනම් නියෝගයක් නිකුත් නොකරන බව අභියාචනාධිකරණය තීන්දු කළේය.
+The Court of Appeal declined to halt the gazette notification increasing estate workers' daily wages, favoring the Labor Department's decision over plantation companies' objections. The court set June 26 for further hearings, requiring notified parties to attend.
 
-අදාළ ගැසට් නිවේදනය බලරහිත කිරීමේ රිට් ආඥාවක් නිකුත් කරන ලෙස ඉල්ලා වැවිලි සමාගම් විසින් ගොනුකර ඇති පෙත්සම විභාගයට ගැනීමට තින්දු කරමින් අධිකරණය විසින් මෙම නියෝගය නිකුත් කරනු ලැබීය.
+🟩
 
-ඒ අනුව අදාළ පෙත්සමේ වගඋත්තරකරුවන් වශයෙන් නම්කර සිටි කම්කරු අමාත්‍ය මනුෂ නානායක්කාර ඇතුළු පිරිසක් වෙත ජූනි මස 26 වනදා අධිකරණය හමුවේ කරුණු දක්වන ලෙස දන්වා නොතිසි නිකුත් කරන ලෙසත් මිනිසුරු මඩුල්ල නියම කළේය.
+The Court of Appeal decided not to issue an interim injunction from implementing a gazette notification issued by the Labor Employees at the implementation of a gazette notification issued by the Labor Employees.
+
+The court issued the order to the petition filed by plantation companies to issue a rapid help companies to issue a Ritter Command of the Gazette.
+
+Accordingly, a group of people who were nominated as respondents in the petition as respondents and other people to be held informed to appear in the court on June 26.
 
 ◼️
 
 [Data](articles/f68d86c9.json)
+
+[Extended Data](ext_articles/f68d86c9.ext.json)
 
 ---
 
@@ -192,6 +198,8 @@ ECONOMYNEXT – Sri Lanka’s Irrigation Department has issued warnings that wat
 
 [Data](articles/861aaba5.json)
 
+[Extended Data](ext_articles/861aaba5.ext.json)
+
 ---
 
 ### Demonstration
@@ -265,6 +273,8 @@ Sections 87.1, 87.2 also elaborates on the matter and describes the parliament�
 ...
 
 [Data](articles/b4d34250.json)
+
+[Extended Data](ext_articles/b4d34250.ext.json)
 
 ---
 
@@ -466,6 +476,8 @@ New laws would be brought in so provincial/municipal institutions could strength
 
 [Data](articles/00a4ad18.json)
 
+[Extended Data](ext_articles/00a4ad18.ext.json)
+
 ---
 
 ### Cement price further reduced
@@ -571,6 +583,8 @@ The Sri Lanka Opinion Tracker Survey (SLOTS) conducted by the Institute for Heal
 ...
 
 [Data](articles/8582b29c.json)
+
+[Extended Data](ext_articles/8582b29c.ext.json)
 
 ---
 
@@ -808,6 +822,8 @@ The report, supported by the Women in Work programme, a partnership between IFC 
 
 [Data](articles/935e7ee5.json)
 
+[Extended Data](ext_articles/935e7ee5.ext.json)
+
 ---
 
 ### Injunction against Minister Wijeyadasa extended further
@@ -889,6 +905,8 @@ Some minority shareholders have filed a case challenging the delisting of Expola
 ◼️
 
 [Data](articles/97209172.json)
+
+[Extended Data](ext_articles/97209172.ext.json)
 
 ---
 
@@ -1193,6 +1211,22 @@ The Road Development Authority has said that vehicles are unable to get out and 
 [Data](articles/bd37b244.json)
 
 [Extended Data](ext_articles/bd37b244.ext.json)
+
+---
+
+### විශේෂ අවශ්‍යතා ඇති සිසුවා දිනක්වත් පාසල් නොගොස් උපෙළ සමත් වෙයි
+
+*2024-06-03 11:04:55* · [`adalk`](https://www.ada.lk/picture_story/විශේෂ-අවශ්‍යතා-ඇති-සිසුවා-දිනක්වත්-පාසල්-නොගොස්-උපෙළ-සමත්-වෙයි/10-409979) · `si`
+
+කොඳු  ඇට පෙළ  ඇදවීමේ අසාමාන්‍ය රෝගයකින් පෙළෙන සිසුවෙකු උසස් පෙළ විෂයන් හැදෑරීමට එක් දිනක් හෝ පාසල් නොගොස් නිවසේ සිට තනිව පාඩම් කටයුතු සිදු කරමින්  උසස් පෙළ විභාගය සමත්වීමට සමත්වකම් දැක්වීමේ පුවතක් ගිනිගත්හේන ප්‍රදේශයෙන් වාර්තාවේ.
+
+ගිනිගත්හේන, පිටවල, කැළණිගම  ප්‍රදේශයේ පදිංචිව සිටින එම්. කීර්ති චන්ද්‍රසිරි නැමැති මෙම සිසුවා මෙරව උසස් පෙළ විභාගයට මුහුණ  දී ඉදිරිපත් වු විෂයන් තුනට එස් සාමාර්ථයන් ලබා ගැනීමට හැකියාව ලැබී තිබේ.
+
+කොඳු  ඇට පේළියේ අසාමාන්‍ය වෙනස්වීමත්, මස් පිඩු දියවීම යන රෝගවලින් පෙළෙන මෙම සිසුවාට ඇවිදයාමට නොහැකි අතර, සාමාන්‍ය පෙළ විභාගයට මුහුණදීමට ඔවු ගොස් ඇත්තේ සිය සහෝදරයාගේ කර මතිනි. මෙම සිසුවා පදිංචි නිවස ඇත්තේද පඩි වලින් බැස යන ආකාරයේ දුෂ්කර භූමි භාගයක වන අතර, එසේ සාමාන්‍ය පෙළ විභාගයට සහෝදරයාගේ කර මතින් ගොස් මුහුණ  දී ඉන් සමත්ව උසස් පෙළ විභාගයට මෙසේ තනිව නිවසේ සිට මුහුණ දීමට පියවර ගෙන ඇත්තේ පාසල් යාමට දිනකට අධික මුදලක් වැයවීම හේතුවෙනි.
+
+...
+
+[Data](articles/9a26775d.json)
 
 ---
 
@@ -2159,31 +2193,5 @@ In addition, the operating room can also provide information on 011 2 43 9, 011 
 [Data](articles/b51a8648.json)
 
 [Extended Data](ext_articles/b51a8648.ext.json)
-
----
-
-### Train delay
-
-*2024-06-03 07:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197309) · `si`
-
-Train delays reported on the Pallewela-Ganegoda route and Veyangoda-Gampaha signal system, influenced by signal bugs and poor weather. Tree falls have disrupted rail lines at many stations, and a bridge near Kosgama is closed, impacting travel.
-
-🟩
-
-It is reported that train delay in the main road between Pallewela and Ganegoda railway stations and a signal system between Veyangoda and Gampaha railway stations.
-
-Inquiry, the Deputy General Manager of Railways J. N. Mr. Yamapola said this.
-
-Meanwhile, the Railway Department says that there are several delays due to the influence of the signal bugs, the main road with bad weather conditions.
-
-Venerable Mr. Yathpower said that the railway line at most railway stations had been interrupted due to the fall of trees.
-
-A bridge between Kosgama railway stations, the Kelaniweli road has been restricted to the train station.
-
-◼️
-
-[Data](articles/1dac583a.json)
-
-[Extended Data](ext_articles/1dac583a.ext.json)
 
 ---

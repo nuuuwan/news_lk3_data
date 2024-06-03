@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-03 19:18:58**
+As of **2024-06-03 19:34:17**
 
 ## Newspaper Stats
 
-*Scraped **28,153** Articles*
+*Scraped **28,158** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,104 @@ newsfirstlk | 363
 islandlk | 1,520
 economynextcom | 1,604
 dailyftlk | 1,644
-adalk | 2,401
-adaderanalk | 3,205
+adalk | 2,402
+adaderanalk | 3,207
 tamilmirrorlk | 3,299
 virakesarilk | 4,335
 dailymirrorlk | 4,459
-adaderanasinhalalk | 4,520
+adaderanasinhalalk | 4,522
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,153 (100.0%) of 28,153 articles have been extended.
+28,153 (100.0%) of 28,158 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-03 (Monday)
+
+### තවත් කලාප කිහිපයක පාසල් සඳහා හෙට නිවාඩු
+
+*2024-06-03 19:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197348) · `si`
+
+ගම්පහ, කැලණිය අධ්‍යාපන කලාපවල සහ කඩුවෙල අධ්‍යාපන කොට්ඨාශයේ සියලුම පාසල් සඳහා හෙට දිනයේ නිවාඩු ලබාදී ඇත.
+
+පවතින අයහපත් කාලගුණික තත්ත්වයත් සමග පළාත් අධ්‍යාපන අධ්‍යක්ෂවරයා විසින් මෙම තීරණය ගෙන තිබේ.
+
+මේ අතර අධ්‍යාපන අමාත්‍යංශය පැවසුවේ රත්නපුරය, කැගල්ල, ගාල්ල, මාතර සහ කළුතර යන දිස්ත්‍රික්කවල සියලුම පාසල් හෙට දිනයේ වසා තැබෙන බවය.
+
+කොළඹ දිස්ත්‍රික්කයේ හෝමාගම කලාපයට අයත් පාසල් සඳහා ද හෙට දිනයේ නිවාඩු ලබාදී තිබේ.
+
+◼️
+
+[Data](articles/e7b3ab03.json)
+
+---
+
+### Schools closed in several zones in Western Province
+
+*2024-06-03 19:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/99639/schools-closed-in-several-zones-in-western-province) · `en`
+
+It has been decided to close all schools in the Gampaha and Kelaniya Educational Zones and Kaduwela Education Division tomorrow (04).
+
+The decision has been reached by the Provincial Education Director of Western Province, in view of the current adverse weather conditions.
+
+Earlier, the Ministry of Education announced that schools in several districts in the Western, Southern and Sabaragamuwa provinces will remain closed on Tuesday (04) due to the prevailing disaster situation.
+
+Accordingly, the schools in the following districts and one education zone will be closed tomorrow;
+
+Meanwhile, all the schools in the Galle and Matara districts on Tuesday (June 04) and Wednesday (June 05) due to the prevailing adverse weather conditions, Governor of the Southern Province Lakshman Yapa Abeywardena said.
+
+Furthermore, the Ministry of Education also highlighted that all schools across the island other than the schools in the aforementioned areas will be held as usual tomorrow (04).
+
+...
+
+[Data](articles/0e1ff5f4.json)
+
+---
+
+### ICCයෙන් දිනන කණ්ඩායමට ලැබෙන ඇදහිය නොහැකි මුදල මෙන්න
+
+*2024-06-03 19:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197347) · `si`
+
+ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලය විසින් මෙවර විස්සයි විස්ස ලෝක කුසලාන ක්‍රිකට් තරගාවලිය ජයගන්නා කණ්ඩායමට ලබාදෙන මුදල් ත්‍යාගය පිළිබඳව ප්‍රකාශයට පත්කර තිබේ.
+
+ඒ අනුව ජයග්‍රාහී කණ්ඩායමට අමෙරිකානු ඩොලර් මිලියන 2.45ක මුදලක් ලබාදීමට තීරණය කර තිබේ.
+
+එසේම අනුශූරයින් සඳහා ලබාදීමට අපේක්ෂිත මුදල අමෙරිකානු ඩොලර් මිලියන 1.28ක් ලබාදීමට තීරණය කර ඇත.
+
+මේ අතර අවසන් පූර්ව වටයේ පරාජිත කණ්ඩායම් සඳහා අමෙරිකානු ඩොලර් 787,500ක මුදලක් ලබාදීමට තීරණය කර තිබේ.
+
+ඒ අනුව මෙවර සමස්ත තරගාවලියේ කණ්ඩායම් සඳහා වෙන්කර ඇති ත්‍යාග මුදල අමෙරිකානු ඩොලර් මිලියන 11.25ක් බවද ICCය පවසයි.
+
+එය විස්සයි විස්ස ලෝක කුසලාන තරගාවලියක් සඳහා මේ දක්වා වෙන්කර ඇති වැඩිම ත්‍යාග මුදල වන්නේ මෙයයි.
+
+◼️
+
+[Data](articles/948676e8.json)
+
+---
+
+### Record prize money declared for T20 World Cup 2024
+
+*2024-06-03 18:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/99638/record-prize-money-declared-for-t20-world-cup-2024) · `en`
+
+The ICC Men’s T20 World Cup 2024 winners will receive the highest amount in the tournament’s history.
+
+This ninth edition will see 20 teams competing over 28 days across nine venues in the West Indies and USA, making it the largest event of its kind.
+
+The runners-up will earn at least $1.28 million, while the losing semi-finalists will take home $787,500 each. Teams that do not advance past the second round will receive $382,500 each, and those finishing between ninth and 12th place will get $247,500 each.
+
+Teams ranking from 13th to 20th place will each earn $225,000. Additionally, every team will receive an extra $31,154 for each match won, excluding the semi-finals and finals.
+
+The tournament will start with 40 matches in the first round, leading to the Super 8s, followed by the semi-finals in Trinidad and Tobago and Guyana. The final match will take place at the Kensington Oval in Barbados, where the 2024 men’s champions will be crowned.
+
+...
+
+[Data](articles/2645a614.json)
+
+---
 
 ### The person who lied to 119 was the punishment
 
@@ -601,6 +683,24 @@ Chairman of Litro Gas, Muditha Peiris said that the revised prices will be annou
 [Data](articles/f17a8207.json)
 
 [Extended Data](ext_articles/f17a8207.ext.json)
+
+---
+
+### ඉතාලි රැකියා සිහින පෙන්වා මුදල් ගැරූ සැකකරු මහනුවරදී කොටුවෙයි
+
+*2024-06-03 16:02:56* · [`adalk`](https://www.ada.lk/breaking_news/ඉතාලි-රැකියා-සිහින-පෙන්වා-මුදල්-ගැරූ-සැකකරු-මහනුවරදී-කොටුවෙයි/11-409984) · `si`
+
+ඉතාලියේ රැකියා ලබාදෙන බව පවසා මුදල් වංචාකළ පුද්ගලයෙකු ශ්‍රි ලංකා විදේශ සේවා නියුක්ති කාර්යාංශයේ විශේෂ විමර්ශන ඒකකයේ නිළධාරීන් විසින් 2024.06.01 වන දින අත්අඩංගුවට ගෙන තිබේ.
+
+මහනුවර, පේරාදෙණිය ප්‍රදේශයේ පදිංචි 40 හැවිරිදි පුද්ගලයෙකු විසින් ඉතාලියේ වැඩිහිටියන් බලාගැනීමේ රැකියාවක් ලබාදෙන බව පවසා රු.1,250,000.00 ක මුදලක් ලබාගෙන පොරොන්දු වූ පරිදි රැකියාව ලබා නොදුන් බවට පුද්ගලයෙකු විසින් කාර්යාංශයේ විශේෂ විමර්ශන අංශයට පැමිණිලි කර තිබේ.
+
+ඒ අනුව කාර්යාංශයේ විමර්ශන නිළධාරීන් සැකකරු අත්අඩංගුවට ගැනීම සඳහා පේරාදෙණිය ප්‍රදේශයේ අදාල සැකකරුගේ නිවෙස වෙත ගියද, සැකකරු නිවෙසේ සිට නොමැති හෙයින් කාර්යාංශයේ මහනුවර පළාත් කාර්යාලය වෙත කැඳවා ප්‍රකාශ සටහන් කර ගැනීමෙන් අනතුරුව අත්අඩංගුවට ගන්නා ලදී.
+
+අත්අඩංගුවට ගත් සැකකරු ඊයේ දින (6/2) මහනුවර මහේස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමෙන් අනතුරුව ජූනි මස 6 තෙක් රක්ෂිත බන්ධනාගාර ගත කිරීමට මහේස්ත්‍රාත්වරයා නියෝග කරන ලදී.
+
+...
+
+[Data](articles/89399f7c.json)
 
 ---
 
@@ -2045,139 +2145,5 @@ The Punjab Governor has expressed that Pakistan and Sri Lanka have cordial relat
 [Data](articles/cdbffd9a.json)
 
 [Extended Data](ext_articles/cdbffd9a.ext.json)
-
----
-
-### "If Modi becomes Prime Minister"
-
-*2024-06-03 11:29:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மோடி-பிரதமரானால்-மொட்டை-அடிப்பேன்/175-338341) · `ta`
-
-Somnath Bharati, AAP's New Delhi candidate, claims he'll shave if Modi becomes PM again, criticizing post-election polls as inaccurate and suggesting a BJP victory due to voter fear, despite expected real results on April 4th showing an India alliance win in Delhi.
-
-🟩
-
-The post -election poll results are wrong. If Narendra Modi is the Prime Minister again, I will be shaved, Aam Aadmi Party's new Delhi candidate Somnath Bharati said.
-
-On this, he said: "The post -election poll results are wrong.. The Indian coalition will rule after the votes are counted on the 4th. Modi will not become prime minister for the 3rd time. If he becomes Prime Minister, I will shave.
-
-India alliance will win 7 seats in Delhi. People have voted on the Bharatiya Janata Party. Due to the fear of Modi, the false information has been made at the end of the poll. So we have to wait for real results until the 4th.
-
-◼️
-
-[Data](articles/7cef6367.json)
-
-[Extended Data](ext_articles/7cef6367.ext.json)
-
----
-
-### Enjoining order against Wijayaka is extended
-
-*2024-06-03 11:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197322) · `si`
-
-The Colombo District Court extended an injunction against Environmental Minister Wijayadasa Rajapakse, SLFP Chairman, due to ongoing legal proceedings. The case will be examined further by Colombo Additional District Judge Chamari Weerasuriya, after which another hearing is scheduled for the 14th of this month.
-
-🟩
-
-The Colombo District Court today ordered the injunction of the Environmental Minister Wijayadasa Rajapakse, the SLFP's Chairman of Sri Lanka Freedom.
-
-The complaint was called before Colombo District Judge Sandun Withana today.
-
-The District Judge said that the examination would be referred to the Colombo Additional District Judge Chamari Weerasuriya.
-
-Attorney-at-Law Jayatitha Jayasuriya appearing on behalf of the respondents, he requested to pay the protests related to the case.
-
-Accordingly, the judge to be summoned to the 14th again on the 14th of this month.
-
-The judge also ordered the extension of the invisory order.
-
-◼️
-
-[Data](articles/6f093a75.json)
-
-[Extended Data](ext_articles/6f093a75.ext.json)
-
----
-
-### Rainy weather: 12 deaths due to disasters. 5 disappeared
-
-*2024-06-03 11:21:42* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c3ggz58181wo) · `si`
-
-Heavy rainfall in Sri Lanka led to 12 deaths and 5 disappearances due to various disasters like floods. The Disaster Management Center reported widespread damage across several districts, affecting over 41,000 individuals. Schools were closed, and the government mobilized resources for relief efforts, including setting up emergency hotlines.
-
-🟩
-
-Rainy weather: 12 deaths due to disasters. 5 disappeared
-
-It contains nothing here. Play Video, "". No one listens due to rain. "" The Running Time 2,1402: 14 Video Head, ". Nobody listens to rain. "
-
-The Disaster Management Center (DMC) stated that 12 persons have died on the first rain weather this morning (June 3).
-
-Due to floods, 8 deaths and the centers of the trees and trees have been reported by floods due to floods, 8 deaths and mortality due to floods in Ratnapura, Colombo and Matara.
-
-The Disaster Management Center (DMC) stated that five persons have gone missing in the Galle and Matara districts.
-
-Due to heavy rains weather conditions, the Disaster Management Center stated that the people of six districts have been affected.
-
-The Disaster Management Center announced that 5575 persons belonging to 1,489 families in 1,489 families in the Nuwara Eliya, Colombo, Kalutara, Galle, Galle and Gampaha districts.
-
-41,852 persons belonging to 10,975 families have been affected by inclement weather.
-
-...
-
-[Data](articles/a3be3a6e.json)
-
-[Extended Data](ext_articles/a3be3a6e.ext.json)
-
----
-
-### Four people killed in accidents in different parts of the country
-
-*2024-06-03 11:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/185168) · `ta`
-
-In separate incidents across the country, four fatalities occurred: a 19-year-old among them. Two three-wheelers collided with walls and cars, while a motorcycle hit pedestrians. Victims ranged in age from 42 to 54.
-
-🟩
-
-Four people, including a 19 -year -old youth, died in vehicle accidents that occurred on Sunday (03) in different parts of the country, police said.
-
-Accordingly, yesterday morning (2), a three -wheeler crashed into the wall and crashed into the wall of Mahabhake 20th Branch Road.
-
-Meanwhile, a three -wheeler traveling from Kottawa to Kottawa near the Mendis curve on the Kottawa -Athurugiriya road yesterday evening crashed into a car in the opposite direction.
-
-The driver of the wounded three -wheeler, the trio and the driver of the car were admitted to the Homagama Hospital.
-
-The victims are from Hikkaduwa and Haputale, aged 42 and 54.
-
-Also, a motorcycle traveling from Colombo to Kandy near the Nitambuwa Murudaveli junction on the Colombo -Kandy road has crashed into pedestrians last night.
-
-◼️
-
-[Data](articles/49aa8ac0.json)
-
-[Extended Data](ext_articles/49aa8ac0.ext.json)
-
----
-
-### Namibia defeat Oman in T20 World Cup after super over thriller
-
-*2024-06-03 11:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Namibia-defeat-Oman-in-T20-World-Cup-after-super-over-thriller/108-283976) · `en`
-
-June 3 (Bridgetown) - Namibia scored a nerve-shredding victory over Oman in their T20 World Cup Group B clash in Barbados on Sunday after a low-scoring thriller was decided by a super over.
-
-David Wiese was the hero for Namibia, contributing 13 runs in the Africans' super over total of 21 before then restricting Oman to 10 runs with the ball in hand to seal a crucial win at Kensington Oval.
-
-The match had gone to a decisive extra over after a tense duel saw both teams finish with 109 runs from their allotted 20 overs.
-
-Oman had looked to be heading for defeat after a superb four-wicket bowling display from Ruben Trumpelmann saw them all out for 109 off 19.4 overs.
-
-But Oman's bowlers responded with a disciplined performance to contain Namibia's bats, with Mehran Khan conjuring a superb spell to leave the match on a knife edge.
-
-Khan finished with figures of three wickets for seven runs off three overs.
-
-...
-
-[Data](articles/477708c7.json)
-
-[Extended Data](ext_articles/477708c7.ext.json)
 
 ---

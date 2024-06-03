@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-03 10:18:54**
+As of **2024-06-03 10:34:28**
 
 ## Newspaper Stats
 
-*Scraped **28,024** Articles*
+*Scraped **28,025** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,517
 economynextcom | 1,589
 dailyftlk | 1,644
-adalk | 2,389
+adalk | 2,390
 adaderanalk | 3,183
 tamilmirrorlk | 3,282
 virakesarilk | 4,322
@@ -26,65 +26,83 @@ adaderanasinhalalk | 4,493
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,020 (100.0%) of 28,024 articles have been extended.
+28,024 (100.0%) of 28,025 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-03 (Monday)
 
-### දක්ෂිණ අධිවේගයේ වැලිපැන්න හුවමාරුව විවෘත කෙරේ
+### Welipenna exchange opens on Southern Expressway
 
 *2024-06-03 09:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197318) · `si`
 
-ගංවතුර හේතුවෙන් වසා දැමුණු දක්ෂිණ අධිවේගී මාර්ගයේ වැලිපැන්න හුවමාරුව මේ වනවිට ගමනාගමනය සඳහා යළි විවෘත කර තිබේ.
+The Welipenna exchange on the Southern Expressway has reopened, allowing traffic to flow through once again.
+
+🟩
+
+The Welipenna exchange of the Southern Expressway has been reopened for traffic on the Southern Expressway.
 
 ◼️
 
 [Data](articles/15e7f6a8.json)
 
+[Extended Data](ext_articles/15e7f6a8.ext.json)
+
 ---
 
-### හොර ඉන්දීය පාස්පෝට් හැදූ ලාංකිකයින් ඉන්දියාවේ දීම කොටුවෙයි
+### Sri Lankans crossed Indian Passport in India
 
 *2024-06-03 09:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197317) · `si`
 
-ශ්‍රී ලාංකික සරණාගතයින්ට නීතිවිරෝධී ලෙස ඉන්දීය විදේශ ගමන් බලපත්‍ර සකස් කරදීම සම්බන්ධයෙන් ශ්‍රී ලාංකිකයින් දෙදෙනෙකු ඇතුළු තිදෙනෙකු ඉන්දීය බලධාරීන් විසින් අත්අඩංගුවට ගෙන තිබේ.
+In India, authorities arrested three individuals, including two Sri Lankans, for allegedly forging Indian passports for Sri Lankan refugees. The arrests were made in Tamil Nadu by the Criminal Investigation Department. An Indian woman was also arrested, believed to be involved in the passport fraud. The CID launched an investigation into the case, leading to the arrest of 26 people, including three Sri Lankans and six police officers, suspected to be part of the racket.
 
-අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව මඟින් මෙම සැකකරුවන් පිරිස තමිල්නාඩුවේ දී අත්අඩංගුවට ගෙන ඇති බව ඉන්දීය මාධ්‍ය වාර්තා කළේය.
+🟩
 
-ශ්‍රී ලාංකිකයින් දෙදෙනා සමග ඉන්දීය ජාතික කාන්තාවක් ද අත්අඩංගුවට ගෙන ඇති අතර, ඇය විදේශ ගමන් බලපත්‍ර සැපයු තැනැත්තිය බවට සැකපළ කරයි.
+Indian authorities have arrested three persons including two and two Sri Lankans to prepare Indian passports to Sri Lankan refugees.
 
-මොවුන් විසින් ශ්‍රී ලාංකිකයින් 21 දෙනෙකුට ඉන්දියානු විදේශ ගමන් බලපත්‍ර ලබාගැනීමට පහසුකම් සපයා ඇති බව ඉන්දීය පොලීසිය සඳහන් කර ඇත.
+The suspects have been arrested in Tamil Nadu in Tamil Nadu by the Criminal Investigation Department.
 
-කෙසේවෙතත් ඉන්දීය අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව මෙම ජාවාරම සම්බන්ධයෙන් ලද තොරතුරු මත සිය පරීක්ෂණ කටයුතු මෙම වසරේ ජනවාරි මාසයේ දී ආරම්භ කර තිබේ.
+A Indian woman has been arrested with the two Sri Lankans, and she is assured that she is passport.
 
-ඒ අනුව මේ වන විට ජාවාරම සම්බන්ධයෙන් පුද්ගලයින් 26 දෙනෙකු අත්අඩංගුවට ගෙන ඇති බව ඉන්දීය මාධ්‍ය වාර්තා කළේය.
+The Indian police stated that they have provided 24 Sri Lankans to obtain Indian passports.
 
-එම පිරිස අතර ද ශ්‍රී ලාංකිකයින් තිදෙනෙකු සිටින බව වාර්තා කරන ඉන්දීය පොලීසිය පෙන්වා දෙන්නේ, ජාවාරම සම්බන්ධයෙන් පොලිස් නිලධාරීන් 06 දෙනෙකු ද අත්අඩංගුවට ගෙන ඇති බවය.
+However, the Indian Criminal Investigations Department (CID) has commenced investigations into the information on the racket this year.
+
+Accordingly, 26 persons have been arrested in connection with the racket, Indian media said.
+
+The Indian police say that there are three Sri Lankans in the group, 6 police officers have been arrested in connection with the racket.
 
 ◼️
 
 [Data](articles/5aebe857.json)
 
+[Extended Data](ext_articles/5aebe857.ext.json)
+
 ---
 
-### නැමේබියාවට ජය
+### Win to Namabia
 
 *2024-06-03 09:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197316) · `si`
 
-ඕමානය සහ නැමේබියාව අතර පැවති 20යි 20 ලෝක කුසලාන තරගයෙන් ජය ගැනීමට නැමේබියාව සමත්විය.
+Namibia won against Oman in the 20th World Cup match, scoring 109 runs in 19.4 balls. In the Super Over, Namibia scored 21 runs. Meanwhile, West Indies beat Papua New Guinea by 5 wickets.
 
-එහිදී පළමුව පන්දුවට පහරදුන් ඕමාන කණ්ඩායම රැස්කළේ පන්දු ඕවර 19.4කදී ලකුණු 109ක් පමණි.
+🟩
 
-පිළිතුරු ඉනිම ක්‍රීඩාකළ නැමීබියා කණ්ඩායම ට සිය පන්දුවාර 20දී රැස්කරගත හැකි වූයේ ලකුණු 109ක් පමණි. එහිදී ඔවුන්ගේ කඩුලු 6ක් දැවී ගියේය.
+Namabia was able to win the 20th World Cup match against Oman and Namabia.
 
-ඒ අනුව තරගයේ තීරණයක් ලබා ගැනීම සඳහා සුපර් ඕවරය භාවිත විය. එහිදී පළමුව පන්දුවට පහරදුන් නැමීබියා කණ්ඩායම එම ඕවරයේ දී ලකුණු 21ක් රැස්‌ කළේය.
+Oube's group scored only 109 runs in 19.4 balls.
 
-මේ අතර සම-සත්කාරක බටහිර ඉන්දීය කොදෙව් කණ්ඩායම සහ පැපුවා නිව්ගිනියා කණ්ඩායම අතර ගයනා, ප්‍රොවිඩන්ස් ක්‍රීඩාංගණයේ පැවති තරගය කඩුලු 5කින් ජය ගැනීමට කොදෙව් ක්‍රීඩකයෝ සමත් වූහ.
+In reply Namibia was only 109 runs in their 20 overs. There were six wickets of their six wickets.
+
+The Super Over used the match decision. The Namibia group scored 21 runs in the opening.
+
+Meanwhile, West Indies won the match between the Co-Host West Indies and the Papua New Guinea team by 5 wickets.
 
 ◼️
 
 [Data](articles/d3c64e4b.json)
+
+[Extended Data](ext_articles/d3c64e4b.ext.json)
 
 ---
 
@@ -110,27 +128,35 @@ Natural disasters such as floods and landslides have been destroyed in many area
 
 ---
 
-### ජනාධිපතිවරණය අවසන් වු වහාම අතුරු සම්මත ගිණුමක් සම්මත කිරීමේ සුදානමක්‍
+### Immediate to pass an interim account when the presidential ended
 
 *2024-06-03 09:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197315) · `si`
 
-ජනාධිපතිවරණය අවසන් වු වහාම අතුරු සම්මත ගිණුමක් සකස් කිරීමට රජයේ අවධානය යොමුවී ඇති බව වාර්තා වේ.
+To address the immediate need after the presidential term ends, the government plans to establish an interim account. This decision was influenced by the President's previous guidance on International Monetary Fund (IMF) policies and the upcoming parliamentary elections, which would prevent budget passage. A meeting with Finance Ministry officials agreed on the interim account's necessity. The President is also making arrangements to meet IMF program requirements during the election period, with adjustments to be discussed in December and payments due in the first quarter of next year.
 
-මේ සම්බන්ධයෙන් මුදල් අමාත්‍යංශ නිලධාරීන්ට අදාළ උපදෙස් ලැබී ඇති බවද සඳහන්ය.
+🟩
 
-ජාත්‍යන්තර මුල්‍ය අරමුදලේ ප්‍රතිපත්ති සහ ඉලක්කවලට අනුකූලව අතුරු සම්මත ගිණුමක් සකස්විය යුතු බවට ජනාධිපතිවරයා විසින් මීට පෙර උපදෙස් ලබා දී ඇති බව වාර්තා වේ.
+The government has been drawn to preparing an interim account when the presidential ended.
 
-කෙසේවෙතත් ප්‍රථමයෙන් ජනාධිපතිවරණය පැවැත්වුවහොත් ඉන් අනතුරුව පාර්ලිමේන්තු මැතිවරණය ද පැවැත්වෙන අතර එම කාලය තුළ අයවැයක් සම්මත කිරීමට ප්‍රතිපාදන නොමැති බව සඳහන්ය.
+The Ministry of Finance Officers have received advice regarding this.
 
-එම නිසා අතුරු සම්මත ගිණුමක් සකස් කිරීම වඩාත් සුදුසු බව මුදල් අමාත්‍යංශ නිලධාරීන් සමඟ පැවති සාකච්ඡාවක දී කරුණු හුවමාරු වී තිබේ.
+It is reported that the President has previously advised the International Monetary Fund policies and goals.
 
-මේ අතර මැතිවරණ කාල සීමාව තුළ ජාත්‍යන්තර මුල්‍ය අරමුදලේ වැඩසටහනේ තිරසර බව තහවුරු කිරීමට අවශ්‍ය ඉලක්ක වෙත ළඟාවීමට අවශ්‍ය කටයුතු ජනාධිපතිවරයා විසින් සම්පාදනය කර ඇති බව සඳහන්ය.
+However, if the presidential election is held, the parliamentary election will then be held and there is no provision to pass a budget during that time.
 
-අන්තර්ජාතික මුල්‍ය අරමුදල සමඟ පවතින මීළඟ කාර්ය මණ්ඩල මට්ටමේ ගිවිසුම ගැටලුවලින් තොරව ළඟාකර ගැනීමට හැකිවන පරිදි එම ඉලක්ක සකස්කර තිබේ.
+Therefore, it has been exchanged at a meeting with Finance Ministry officials that it is best to prepare an interim account.
 
-...
+Meanwhile, the President has arrangements to reach the goals needed to ensure that the International Monetary Fund Program during the election period.
+
+These goals have been adjusted with the next staff level agreement with the International Monetary Fund.
+
+The next staff visit is to be made in December, and the next premium will be given to the first quarter of next year.
+
+◼️
 
 [Data](articles/5969a668.json)
+
+[Extended Data](ext_articles/5969a668.ext.json)
 
 ---
 
@@ -155,6 +181,30 @@ Further investigations are under the leadership of Chief Inspector of Police Sar
 [Data](articles/d34b0e9f.json)
 
 [Extended Data](ext_articles/d34b0e9f.ext.json)
+
+---
+
+### පූර්ණ හානියට පත් සියලු නිවාස රජයේ මුදලින් ඉදිකිරීමට පියවර.
+
+*2024-06-03 09:21:26* · [`adalk`](https://www.ada.lk/breaking_news/පූර්ණ-හානියට-පත්-සියලු-නිවාස-රජයේ-මුදලින්-ඉදිකිරීමට-පියවර-/11-409975) · `si`
+
+අයහපත් කාළගුණයෙන් ආපදාවට පත්වූවන්ට කඩිනම් සහන සැලසීම සඳහා අවශ්‍ය මුදල් ප්‍රතිපාදන දිස්ත්‍රික් ලේකම්වරු වෙත වහාම නිකුත් කරන්න – ජනපතිගෙන් මුදල් ලේකම්ට උපදෙස්
+
+සහන සැලසීම සඳහා ආරක්ෂක අංශයේ සහ රාජ්‍ය නිලධාරීන්ගේ පූර්ණ මැදිහත්වීම.
+
+ආරක්ෂිත මධ්‍යස්ථානවල රැදී සිටින සියලුදෙනාගේ ආහාර සහ සෞඛ්‍ය පහසුකම් අඛණ්ඩව සැපයීමට වැඩපිළිවෙළ සැකසේ.
+
+හදිසි ආපදා තත්ත්වයන් දැනුම් දීමට සහ සහන ලබා ගැනීමට 117 හදිසි ඇමතුම පැය 24 පුරා.
+
+ගංවතුර හෝ ආපදා තත්ත්වය හේතුවෙන් විනාශයට පත්ව ඇති ස්ථාන නැරඹීමෙන් වැළකී සිටින ලෙසට මහජනතාවට උපදෙස්.
+
+ගංවතුර හෝ මාර්ගවල වතුර පිරි ඇති ස්ථානවල ජල ක්‍රීඩාවල නොයෙදෙන ලෙසත් ජනතාවට දැනුම් දෙයි.
+
+මේ වසරේ නිරිත දිග මෝසම් තත්ත්වය ආරම්භ වීමෙන් පසු මේ වන විට රටේ උද්ගත වී ඇති අයහපත් කාළගුණ තත්ත්වය හේතුවෙන් ආපදාවට ලක්වූවන්ට කඩිනම් සහන සැලසීම සඳහා අවශ්‍ය මුදල් ප්‍රතිපාදන අදාළ දිස්ත්‍රික් ලේකම්වරු වෙත වහාම නිකුත් කරන ලෙස ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මුදල් අමාත්‍යාංශයේ ලේකම්වරයා වෙත උපදෙස් ලබා දුන්නේය.
+
+...
+
+[Data](articles/7d1d1f0f.json)
 
 ---
 
@@ -2153,27 +2203,5 @@ Muslim political leaders and MPs have been wasting it for their community, even 
 [Data](articles/8d06ce6a.json)
 
 [Extended Data](ext_articles/8d06ce6a.ext.json)
-
----
-
-### Potential power suspensions due to inclement weather
-
-*2024-06-02 19:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Potential-power-suspensions-due-to-inclement-weather/108-283915) · `en`
-
-Colombo, June 02 (Daily Mirror) - The Ceylon Electricity Board (CEB) issued a public advisory over the suspending of power supply to several areas from time to time to avoid risking valuable lives.
-
-They said the decision was taken due to inclement weather conditions and over critical breakdowns and that life threatening situations will be given priority.
-
-However, the staff of the CEB will take every effort to restore power at the next possible instance to minimise the inconvenience to the public.
-
-Therefore, the public is urged not to make unnecessary calls to the Call Centers of the CEB to reserve the facilities for important life saving and critical breakdown complaints.
-
-Therefore, the consumers' cooperation and understanding are highly valuable for the CEB to optimally use its resources at this time of calamities.
-
-◼️
-
-[Data](articles/a38e0d64.json)
-
-[Extended Data](ext_articles/a38e0d64.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-03 19:03:51**
+As of **2024-06-03 19:18:58**
 
 ## Newspaper Stats
 
@@ -26,31 +26,37 @@ adaderanasinhalalk | 4,520
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,151 (100.0%) of 28,153 articles have been extended.
+28,153 (100.0%) of 28,153 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-03 (Monday)
 
-### 119ට බොරු කී පුද්ගලයාට ලැබුණු දඬුවම මෙන්න
+### The person who lied to 119 was the punishment
 
 *2024-06-03 18:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197346) · `si`
 
-119 පොලිස් හදිසි ඇමතුම් අංකයට ව්‍යාජ තොරතුරු සඳහන් ඇමතුමක් ලබාදුන් පුද්ගලයෙකුට වසර 5ක අත්හිටවූ සිරදඬුවම් නියම කර තිබේ.
+A man sentenced to 5 years' suspended jail time for lying about the 119 emergency number was brought before the Hatton Magistrate's Court. The case unfolded when he falsely claimed to have contacted the police through this number. Following an investigation, he was found guilty and sentenced to death, later commuted to suspension due to his false accusation against a police officer.
 
-සැකකරු අද හැටන් මහෙස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමෙන් අනතුරුව දිසා විනිසුරු එම් ෆරුක්ඩීන් මහතා මහතා මෙම නියෝගය ලබාදී ඇත.
+🟩
 
-පසුගිය වසරේ නොවැම්බර් මස 06 වනදා සැකකරු විසින් 119 පොලිස් හදිසි ඇමතුම් අංකය වෙත ඇමතුමක් ලබාදෙමින් සඳහන් කර ඇත්තේ ගිනිගත්හේන පොලිස් ස්ථානයේ නිලධාරීන් මත්පැන් සාදයක් පවත්වන බවය.
+119 The Police Emergency Calling Circulars sentenced to 5 years suspended.
 
-එම තොරතුර මත හැටන් සහකාර පොලිස් අධිකාරී එම් ෆාරුක් මහතා ගිනිගත්හේන පොලිස් ස්ථානය වෙත ගොස් හදිසි පරීක්ෂා කිරීමක් සිදුකර ඇති අතර එහිදී අදාළ තොරතුර ව්‍යාජ තොරතුරක් බවට අනාවරණය වී තිබුණි.
+The suspect was produced before the Hatton Magistrate's Court today, Mr. District Judge M. Fearine has issued the order.
 
-ඒ අනුව සැකකාර ඇමතුම ලබාදුන් පුද්ගලයා සම්බන්ධයෙන් පරීක්ෂණයක් සිදුකර සැකකරු වරද පිළිගැනීමෙන් අනතුරුව ඔහුට මෙලෙස අත්හිටවූ සිර දඬුවම් නියම කර තිබුණි.
+On November 6, the suspect was referring to the 119 Police Emergency Calling Number of Police.
 
-අධිකරණය එහිදී සැකකරුට වැඩිදුරටත් නියෝග කර ඇත්තේ විමර්ශනය සිදුකළ පොලිස් නිලධාරියා වෙත රුපියල් 10,000ක මුදලක් ද ගෙවන ලෙසටය.
+Hatton Assistant Superintendent Mr Faroook has gone to the Ginigathena police station and the relevant information had been revealed to be false information.
+
+Accordingly, a investigation was conducted by the suspect and was sentenced to death after the suspect was accepted by the suspect.
+
+The suspect had further ordered the suspect, the police officer who investigated 10,000 rupees.
 
 ◼️
 
 [Data](articles/394d6469.json)
+
+[Extended Data](ext_articles/394d6469.ext.json)
 
 ---
 
@@ -71,6 +77,8 @@ A video of a private passenger bus being driven along the railway tracks paralle
 ◼️
 
 [Data](articles/f051cfce.json)
+
+[Extended Data](ext_articles/f051cfce.ext.json)
 
 ---
 

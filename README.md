@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-03 12:18:55**
+As of **2024-06-03 12:34:24**
 
 ## Newspaper Stats
 
-*Scraped **28,047** Articles*
+*Scraped **28,053** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,20 +13,20 @@ dbsjeyarajcom | 270
 bbccomsinhala | 275
 newsfirstlk | 363
 islandlk | 1,519
-economynextcom | 1,589
+economynextcom | 1,591
 dailyftlk | 1,644
 adalk | 2,391
 adaderanalk | 3,191
 tamilmirrorlk | 3,286
 virakesarilk | 4,322
-dailymirrorlk | 4,443
+dailymirrorlk | 4,447
 adaderanasinhalalk | 4,498
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,041 (100.0%) of 28,047 articles have been extended.
+28,047 (100.0%) of 28,053 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -44,6 +44,8 @@ The decision was communicated during a press conference being held in Colombo re
 
 [Data](articles/b6c1fba9.json)
 
+[Extended Data](ext_articles/b6c1fba9.ext.json)
+
 ---
 
 ### Death toll from adverse weather climbs to 12; thousands displaced
@@ -59,6 +61,48 @@ Additionally, the State Minister also mentioned that 23,707 persons from 2,313 a
 ◼️
 
 [Data](articles/545ed7fd.json)
+
+[Extended Data](ext_articles/545ed7fd.ext.json)
+
+---
+
+### UGC begins issuing university admissions students’ handbooks
+
+*2024-06-03 11:50:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/UGC-begins-issuing-university-admissions-students-handbooks/108-283979) · `en`
+
+Colombo, June 3 (Daily Mirror) - The University Grants Commission (UGC) has begun issuing the university admissions students' handbook for the students who are eligible for university entrance. UGC Chairman Senior Professor Sampath Amaratunga said.
+
+Accordingly, 269,613 candidates sat for the GCE (A/L) examinations, and 173,444 students have fulfilled the basic eligibility requirements for university entrance for 2024.
+
+The 2023 (2024) GCE Advanced Level (A/L) examination was held on January 4, 2024, and the results were issued on May 31, 2024.
+
+The students can log on to the UGC official website, www.ugc.ac.lk, and download the application available in three languages.
+
+There is no way to obtain the students' handbooks from book shops except online.
+
+It is said that the university admission handbooks valid for the academic year 2023-2024 is protected under the copyright laws of Sri Lanka.
+
+...
+
+[Data](articles/22c8d355.json)
+
+---
+
+### T20 World Cup 2024: Sri Lanka start campaign against South Africa today
+
+*2024-06-03 11:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/T20-World-Cup-2024-Sri-Lanka-start-campaign-against-South-Africa-today/108-283978) · `en`
+
+June 3 - One of the most exciting matches in the T20 World Cup is that of Sri Lanka vs South Africa that will take place at the Nassau County International Stadium in New York.
+
+Daily Mirror partners with BETSS for live coverage of today's match, starting at 08:00 PM Sri Lanka time.
+
+Both Sri Lanka and South Africa have stars who shone in the recently concluded IPL. Matheesha Pathirana, who took 13 wickets for Chennai Super Kings at an economy rate of 7.68, will be a force to be reckoned with, as will be South Africa’s Heinrich Klaasen, who scored 479 runs for Sunrisers Hyderabad as they secured a runners-up finish in the IPL final.
+
+It’s not just Pathirana who brings express pace for Sri Lanka. Dishan Madushanka and Dushmantha Chameera can also bowl express pace. Nuwan Thushara, meanwhile, has had his highs and lows but his figures of 5/20 against Bangladesh in a T20I n March will act as an inspiration of sorts to do better.
+
+...
+
+[Data](articles/25eb5df8.json)
 
 ---
 
@@ -116,21 +160,29 @@ The Punjab Governor has expressed that Pakistan and Sri Lanka have cordial relat
 
 [Data](articles/cdbffd9a.json)
 
+[Extended Data](ext_articles/cdbffd9a.ext.json)
+
 ---
 
-### “மோடி பிரதமரானால் மொட்டை அடிப்பேன்”
+### "If Modi becomes Prime Minister"
 
 *2024-06-03 11:29:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மோடி-பிரதமரானால்-மொட்டை-அடிப்பேன்/175-338341) · `ta`
 
-‘‘தேர்தலுக்கு பிந்தைய கருத்து கணிப்பு முடிவுகள் தவறு என நிருபணம் ஆகும். நரேந்திர மோடி மீண்டும் பிரதமரானால், நான் மொட்டை அடிப்பேன்’’ என ஆம் ஆத்மி கட்சியின் புது டெல்லி வேட்பாளர் சோம்நாத் பாரதி தெரிவித்துள்ளார்.
+Somnath Bharati, AAP's New Delhi candidate, claims he'll shave if Modi becomes PM again, criticizing post-election polls as inaccurate and suggesting a BJP victory due to voter fear, despite expected real results on April 4th showing an India alliance win in Delhi.
 
-இது குறித்து எக்ஸ் தளத்தில் அவர் கூறியிருப்பதாவது: தேர்தலுக்கு பிந்தைய கருத்து கணிப்பு முடிவுகள் எல்லாம் தவறு என நிருபணமாகும். 4-ம் திகதி வாக்குகள் எண்ணப்பட்ட பின்பு இண்டியா கூட்டணி ஆட்சி அமைக்கும். மோடி 3-வது முறையாக பிரதமராகமாட்டார். அப்படி அவர் பிரதமரானால், நான் மொட்டை அடிப்பேன்.
+🟩
 
-டெல்லியில் 7 தொகுதிகளிலும் இண்டியா கூட்டணி வெற்றி பெறும். மக்கள் பாரதிய ஜனதா கட்சிக்கு எதிராக அதிகளவில் வாக்களித்துள்ளனர். மோடி மீதான அச்சம் காரணமாக, கருத்து கணிப்பு முடிவில் தவறான தகவல் தெரிவிக்கப்பட்டுள்ளது. அதனால் நாம் 4 ஆம் திகதி வரை உண்மையான முடிவுகளுக்காக காத்திருக்க வேண்டும்.
+The post -election poll results are wrong. If Narendra Modi is the Prime Minister again, I will be shaved, Aam Aadmi Party's new Delhi candidate Somnath Bharati said.
+
+On this, he said: "The post -election poll results are wrong.. The Indian coalition will rule after the votes are counted on the 4th. Modi will not become prime minister for the 3rd time. If he becomes Prime Minister, I will shave.
+
+India alliance will win 7 seats in Delhi. People have voted on the Bharatiya Janata Party. Due to the fear of Modi, the false information has been made at the end of the poll. So we have to wait for real results until the 4th.
 
 ◼️
 
 [Data](articles/7cef6367.json)
+
+[Extended Data](ext_articles/7cef6367.ext.json)
 
 ---
 
@@ -162,6 +214,28 @@ The judge also ordered the extension of the invisory order.
 
 ---
 
+### Namibia defeat Oman in T20 World Cup after super over thriller
+
+*2024-06-03 11:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Namibia-defeat-Oman-in-T20-World-Cup-after-super-over-thriller/108-283976) · `en`
+
+June 3 (Bridgetown) - Namibia scored a nerve-shredding victory over Oman in their T20 World Cup Group B clash in Barbados on Sunday after a low-scoring thriller was decided by a super over.
+
+David Wiese was the hero for Namibia, contributing 13 runs in the Africans' super over total of 21 before then restricting Oman to 10 runs with the ball in hand to seal a crucial win at Kensington Oval.
+
+The match had gone to a decisive extra over after a tense duel saw both teams finish with 109 runs from their allotted 20 overs.
+
+Oman had looked to be heading for defeat after a superb four-wicket bowling display from Ruben Trumpelmann saw them all out for 109 off 19.4 overs.
+
+But Oman's bowlers responded with a disciplined performance to contain Namibia's bats, with Mehran Khan conjuring a superb spell to leave the match on a knife edge.
+
+Khan finished with figures of three wickets for seven runs off three overs.
+
+...
+
+[Data](articles/477708c7.json)
+
+---
+
 ### Former Minister Tissa Karaliyadde joins SJB
 
 *2024-06-03 11:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/99617/former-minister-tissa-karaliyadde-joins-sjb) · `en`
@@ -175,6 +249,8 @@ Subsequently, Opposition Leader Sajith Premadasa has appointed Karalliyadde as t
 ◼️
 
 [Data](articles/2cc109e2.json)
+
+[Extended Data](ext_articles/2cc109e2.ext.json)
 
 ---
 
@@ -342,6 +418,22 @@ State Minister of Finance Shehan Semasinghe said the session will evaluate Sri L
 
 ---
 
+### IMF Board to review Sri Lanka’s economic progress on June 12
+
+*2024-06-03 10:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/IMF-Board-to-review-Sri-Lankas-economic-progress-on-June-12/155-283974) · `en`
+
+Colombo, June 3 (Daily Mirror) - The Article IV consultation and second review under the Extended Fund Facility (EFF) for Sri Lanka are on the IMF Board meeting agenda for June 12.
+
+State Minister of Finance Shehan Semasinghe said the session will evaluate Sri Lanka's economic policies and reform progress.
+
+"We look forward for continued support of all countries for a successful review to unlock the third tranche, which will further enhance economic stability, growth, and reform efforts. The IMF Executive Board will take up Sri Lanka's EFF second review on 12th June," he said.
+
+◼️
+
+[Data](articles/d2d86543.json)
+
+---
+
 ### Welipenna interchange reopened
 
 *2024-06-03 10:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Welipenna-interchange-reopened/108-283973) · `en`
@@ -376,17 +468,23 @@ So far, police has arrested 26 persons — 16 agents, 6 policemen, an employee o
 
 ---
 
-### ජූනි 12 ලංකාවට තීරණාත්මක දිනයක්
+### Decisive Day to Sri Lanka 12
 
 *2024-06-03 10:08:07* · [`adalk`](https://www.ada.lk/breaking_news/ජූනි-12-ලංකාවට-තීරණාත්මක-දිනයක්/11-409976) · `si`
 
-ජාත්‍යන්තර මූල්‍ය අරමුදල විසින් ශ්‍රී ලංකාව සම්බන්ධයෙන් ක්‍රියාත්මක කරන විස්තීර්ණ ණය පහසුකමට අදාළව ශ්‍රී ලංකාව සම්බන්ධයෙන් වන සිව්වන උපදේශනය හා දෙවැනි සමාලෝනය ජූනි 12 දිනට යෙදී තිබෙන අයි.එම්.එෆ්. කාර්ය මණ්ඩල රැස්වීම් න්‍යාය පත්‍රයට ඇතුළත් කර තිබේ.
+Sri Lanka expects continued financial support for its economic stability, development, and reforms. The fourth counseling and second review of Sri Lanka's comprehensive debt facility were discussed, with key staff present.
 
-මේ පිළිබඳව සිය එක්ස් ගිණුමේ සටහක් තබමින් මුදල් රාජ්‍ය අමාත්‍ය ෂෙහාන් සේමසිංහ මහතා පවසන්නේ රටේ ආර්ථික ස්ථාවරත්වය, වර්ධනය සහ ප්‍රතිසංස්කරණ ප්‍රයත්නයන් තවදුරටත් ඉහළ නංවන තුන්වන වාරිකය මුදාහැරීම සඳහා සාර්ථක සමාලෝචනයකට සියලුම රටවල අඛණ්ඩ සහයෝගය ශ්‍රී ලංකාව බලාපොරොත්තු වන බවයි.
+🟩
+
+Fourth Counseling and Second Review of Sri Lanka on Sri Lanka's Comprehensive Debt Facility on Sri Lanka. Staff included at the Order Paper.
+
+Financial Minister Shehan Semasinghe says Sri Lanka is expecting continuous support for the release of the third installment of the country's economic stability, development and reform efforts.
 
 ◼️
 
 [Data](articles/865c06d2.json)
+
+[Extended Data](ext_articles/865c06d2.ext.json)
 
 ---
 
@@ -445,6 +543,26 @@ The Department of Meteorology further stated that many areas in the country may 
 [Data](articles/e96a3366.json)
 
 [Extended Data](ext_articles/e96a3366.ext.json)
+
+---
+
+### Sri Lanka rupee opens stable at 301.85/302.00 to US dollar
+
+*2024-06-03 09:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stable-at-301-85-302-00-to-us-dollar-165843/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened stable at 301.85/302.00 to the US dollar on Monday, from 301.90/302.00 the previous week, dealers said. Bond yields were steady.
+
+A bond maturing on 15.12.2026 was quoted up at 9.75/85 percent from 9.80/95 percent.
+
+A bond maturing on 15.09.2027 was quoted at 10.40/50 percent from 10.40/55 percent.
+
+A bond maturing on 01.07.2028 was quoted stable at 10.80/90 percent.
+
+The Colombo Stock Exchange opened down. The All Share Price Index was down 0.03 percent at 12,103, the S&P SL20 was down 0.14 percent at 3,563. (Colombo/June3/2024)
+
+◼️
+
+[Data](articles/3062fab9.json)
 
 ---
 
@@ -841,6 +959,28 @@ Meanwhile, the Namibian team and the Oube team will be held today.
 [Data](articles/28740c29.json)
 
 [Extended Data](ext_articles/28740c29.ext.json)
+
+---
+
+### IMF Board to take up Sri Lanka program review on June 12
+
+*2024-06-03 08:01:00* · [`economynextcom`](https://economynext.com/imf-board-to-take-up-sri-lanka-program-review-on-june-12-165836/) · `en`
+
+ECONOMYNEXT – The International Monetary Fund has has scheduled June 12 for its Executive Board to take up Sri Lanka’s program review.
+
+“The session will evaluate Sri Lanka’s economic policies and reform progress,” State Minister for Finance Shehan Semasinghe said.
+
+“We look forward for continued support of all countries for a successful review to unlock the third tranche, which will further enhance economic stability, growth, and reform efforts.”
+
+The Article IV consultation and second review under the Extended Fund Facility (EFF) for Sri Lanka are on the IMF Board meeting agenda for June 12. The session will evaluate Sri Lanka's economic policies and reform progress. We look forward for continued support of all countries… pic.twitter.com/EGE4UfWgcO
+
+Sri Lanka is currently finalizing MOUs with official creditors and are also in talks with the IMF.
+
+The Executive Board will consider both the program review and Article IV consultation. (Colombo/June04/2024)
+
+◼️
+
+[Data](articles/f11293e4.json)
 
 ---
 
@@ -2025,141 +2165,5 @@ Aruna Darshana was ranked 5th in the men's 200m race.
 [Data](articles/d782c9e5.json)
 
 [Extended Data](ext_articles/d782c9e5.ext.json)
-
----
-
-### Closes a main road
-
-*2024-06-02 21:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197302) · `si`
-
-Pelawatta's main road is temporarily closed due to landslide risk. Drivers are advised to take alternative routes.
-
-🟩
-
-The main road in Pelawatta has been temporarily closed due to landslide risk.
-
-As a result, the police call for the drivers using the road to use alternative routes as much as possible.
-
-◼️
-
-[Data](articles/fd9aad25.json)
-
-[Extended Data](ext_articles/fd9aad25.ext.json)
-
----
-
-### Politicians who backed away after ’Aragalaya’ raising their heads again: Anura Kumara
-
-*2024-06-02 21:37:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Politicians-who-backed-away-after-Aragalaya-raising-their-heads-again-Anura-Kumara/108-283926) · `en`
-
-Kurunegala, June 2 (Daily Mirror)- Claiming that corrupt and rowdy politicians who backed away after the 'Aragalaya' have started to raise their heads again, NPP leader Anura Kumara Dissanayake said today that if the true aspirations of the Aragalaya are to be fulfilled, a government which maintains the true objective of the people's uprising should be established.
-
-Speaking at the NPP youth rally in Kurunegala, he said the National People's Power (NPP) is the only political force and the government which could uphold the true aspirations of the people's uprising in 2022.
-
-He said politicians have not learnt any lessons from the Argalaya and said that instead they are humiliating the people's uprising, claiming it an uprising of drug addicts.
-
-Dissanayake said the people, especially the youth took to the streets for common aspirations without allegiance to any political force and added that however, they had aspirations for a good political situation.
-
-...
-
-[Data](articles/8b7f7029.json)
-
-[Extended Data](ext_articles/8b7f7029.ext.json)
-
----
-
-### Maldives overtakes UK as second largest tourist source amid VFS Global visa controversy
-
-*2024-06-02 21:26:00* · [`economynextcom`](https://economynext.com/maldives-overtakes-uk-as-second-largest-tourist-source-amid-vfs-global-visa-controversy-165812/) · `en`
-
-ECONOMYNEXT – The Maldives became the second largest source of tourists to Sri Lanka in May amid concerns that a bilateral visa exemption deal may be in violated after VFS Global, a private outsourcing contractor started charging fees.
-
-In the first 30 days of May Sri Lanka has welcomed 108,656 tourists up 30 percent from 83,309 a year earlier but down from 148,867 in April.
-
-A controversial deal with VFS Global which led foreigners and outsourced workers manning immigration point at the main airport, also resulted in a user-unfriendly website, as well as visas rising to 107 dollars from 51.
-
-Though a fight back by Tourism Minister Harin Fernando against the deal led to a 50-dollar visa being re-introduced, the problems with a user-unfriendly website compared to the earlier easy-to-us one remain, with complaints continuing in online forums.
-
-A controversy has also blown up between Sri Lanka and Maldives after VFS Global started charging fees from Maldives visitors.
-
-...
-
-[Data](articles/cba8852d.json)
-
-[Extended Data](ext_articles/cba8852d.ext.json)
-
----
-
-### President
-
-*2024-06-02 21:02:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-அதிரடி-உத்தரவு/175-338310) · `ta`
-
-President Ranil Wickremesinghe has ordered the Finance Ministry to aid weather disaster victims by allocating funds to District Secretaries.
-
-🟩
-
-President Ranil Wickremesinghe has directed the Secretary of the Ministry of Finance to provide immediate assistance to the victims of inclement weather.
-
-According to the Presidential Media Unit, the President has issued a directive to the Secretary of the Ministry of Finance to allocate funds to the District Secretaries.. Remble
-
-◼️
-
-[Data](articles/3be9a7c5.json)
-
-[Extended Data](ext_articles/3be9a7c5.ext.json)
-
----
-
-### Red alert for the next 24 hours
-
-*2024-06-02 20:59:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அடுத்த-24-மணிநேரத்திற்கு-சிவப்பு-எச்சரிக்கை/175-338309) · `ta`
-
-A red alert is issued for the southwestern region of the country, lasting 24 hours due to heavy rains forecasted in the Western, Sabaragamuwa, Northwestern provinces, and Galle and Matara districts. Residents are advised to prepare for potential hazards from heavy winds, lightning, thunder, and rainfall.
-
-🟩
-
-The Department of Meteorology has announced a red that it is expected to continue in the southwestern part of the country for the next 24 hours.
-
-Heavy rains are expected in some places in the Western, Sabaragamuwa and Northwestern provinces and Galle and Matara districts.
-
-People were asked to take necessary steps to reduce the dangers of heavy winds and lightning impacts with thunder and rainfall. Remble
-
-◼️
-
-[Data](articles/0072c3f8.json)
-
-[Extended Data](ext_articles/0072c3f8.ext.json)
-
----
-
-### Support the Economic Translation Act
-
-*2024-06-02 20:53:07* · [`adalk`](https://www.ada.lk/breaking_news/ආර්ථික-පරිවර්තන-පනතට-සහාය-දෙන්න/11-409971) · `si`
-
-President Ranil Wickremesinghe emphasizes the importance of a structured plan for economic growth, highlighting the United National Party's efforts to stabilize the economy and reduce debt. He criticizes the lack of viable alternatives from opposing parties and urges support for the Economic Translation Act aimed at transforming Sri Lanka's economy from import-based to export-oriented.
-
-🟩
-
-No political party in this country has no proper plan to advance the country.
-
-If there is an alternative plan to advance the economy, submit.
-
-Otherwise, the President's United National Party (President) says UNP organizers are given letters to the appointment letters.
-
-President Ranil Wickremesinghe stressed that the country's economy is stabilized and that the country can be carried out only through a proper plan.
-
-Therefore, the President who askeddays the government's program not to support the government program, he said that it was easy to address.
-
-President Ranil Wickremesinghe was speaking to the provision of appointment letters to the United National Party Zone Organizer for the United National Party (UNP) at Sirikotha party headquarters this afternoon.
-
-The President also requested that if the President had no plan to take the country to any political party, it would be submitted to the future of the economy.
-
-President Ranil Wickremesinghe said,
-
-...
-
-[Data](articles/ec0ab704.json)
-
-[Extended Data](ext_articles/ec0ab704.ext.json)
 
 ---

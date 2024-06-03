@@ -1,18 +1,18 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-03 07:00:17**
+As of **2024-06-03 07:23:45**
 
 ## Newspaper Stats
 
-*Scraped **27,983** Articles*
+*Scraped **27,994** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 256
-dbsjeyarajcom | 269
+dbsjeyarajcom | 270
 bbccomsinhala | 275
 newsfirstlk | 363
-islandlk | 1,508
+islandlk | 1,517
 economynextcom | 1,589
 dailyftlk | 1,643
 adalk | 2,386
@@ -20,17 +20,139 @@ adaderanalk | 3,179
 tamilmirrorlk | 3,277
 virakesarilk | 4,320
 dailymirrorlk | 4,436
-adaderanasinhalalk | 4,482
+adaderanasinhalalk | 4,483
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,983 (100.0%) of 27,983 articles have been extended.
+27,983 (100.0%) of 27,994 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-03 (Monday)
+
+### අලුත්ම කාලගුණ නිවේදනය - විමසිලිමත් වන්න
+
+*2024-06-03 06:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197307) · `si`
+
+දිවයිනේ නිරිත දිග කොටසේ පවතින වැසි තත්ත්වය අද (03) දිනයේත් බලාපොරොත්තු වන බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+බස්නාහිර, සබරගමුව, මධ්‍යම, දකුණු සහ වයඹ පළාත්වල විටින් විට වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවේ.
+
+බස්නාහිර සහ සබරගමුව පළාත්වලත්, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල මි.මී. 100 පමණ තද වැසි ඇතිවිය හැකිය.
+
+දිවයිනේ සෙසු ප්‍රදේශවල සවස් කාලයේ හෝ රාත්‍රී කාලයේ තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකිය.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවට දැනුම් දී තිබේ.
+
+◼️
+
+[Data](articles/5b5ac331.json)
+
+---
+
+### CFA Society Sri Lanka to celebrate capital markets excellence on June 18
+
+*2024-06-03 05:14:00* · [`islandlk`](http://island.lk/cfa-society-sri-lanka-to-celebrate-capital-markets-excellence-on-june-18/) · `en`
+
+Now marking its 11th year, the much-anticipated annual CFA Society Sri Lanka Capital Market Awards is scheduled to be held on Tuesday, 18 June 2024, at the Oak Room, Cinnamon Grand, Colombo. A signature event in the CFA Society Sri Lanka calendar since its inception in 2012, CFA Society Sri Lanka Capital Market Awards is among the most sought-after accolades that recognizes and rewards excellence in the local capital markets.
+
+Held under the theme of ‘The Power of Public-Private Partnerships’, this year’s event will focus on the current status of Public-Private Partnerships (PPPs) in Sri Lanka and their future potential.
+
+The discussion on the theme will also draw from the country’s past experiences in handling PPPs, and the role of the private sector, as well as learnings from a regional perspective.
+
+...
+
+[Data](articles/2b0d45ac.json)
+
+---
+
+### Edith Cowan University Sri Lanka Campus launches Bachelor of Science in Nursing Studies
+
+*2024-06-03 05:14:00* · [`islandlk`](http://island.lk/edith-cowan-university-sri-lanka-campus-launches-bachelor-of-science-in-nursing-studies/) · `en`
+
+Edith Cowan University (ECU) Sri Lanka Campus, the fourth campus of Edith Cowan University Australia, is the only international university in Sri Lanka offering identical Australian degree qualifications, expert teaching, and modern facilities.
+
+ECU last week announced the launch of the Bachelor of Science in Nursing Studies, the sole Australian Nursing Degree available in Sri Lanka, at ECU Sri Lanka Campus.
+
+As the healthcare sector in Sri Lanka advances with enhanced facilities and services, there is a growing demand for professional nurses to elevate their education and caregiving skills. ECU provides an innovative and comprehensive educational experience, preparing nurses to excel in this critical and expanding field.
+
+...
+
+[Data](articles/a266f45c.json)
+
+---
+
+### MullenLowe Sri Lanka appoints Lakshika Gunatilake to head LowePublic
+
+*2024-06-03 05:08:00* · [`islandlk`](http://island.lk/mullenlowe-sri-lanka-appoints-lakshika-gunatilake-to-head-lowepublic/) · `en`
+
+The MullenLowe Group Sri Lanka (MLG), the largest multidisciplinary brand communications group has appointed Lakshika Gunatilake, as the head of its Public Relations arm – LowePublic. Gunatilake joins the group after serving at Sri Lankan Airlines for the past 23 years.
+
+Her last position prior to taking up the role with MLG being – SriLankan Airline’s Digital Communications and Social Media Manager where she oversaw the deployment and strategizing of Digital Marketing and Social Media Communication and Social PR programs across local and international markets. Gunatilake brings a wealth of experience having served in a range of dynamic roles in the airline such as, but not limited to, Advertising, Procurement, and Passenger Operations. She has been tasked to oversee the rapid growth and expansion of LowePublic over the next 3 years and bring it on par with all of the group’s other 9 business verticals.
+
+MullenLowe Sri Lanka named ‘Most Effective Agency of the Year 2022/23’
+
+...
+
+[Data](articles/22e6e44d.json)
+
+---
+
+### Sanasa Life Insurance launches new child insurance policy with additional benefits
+
+*2024-06-03 05:08:00* · [`islandlk`](http://island.lk/sanasa-life-insurance-launches-new-child-insurance-policy-with-additional-benefits/) · `en`
+
+Sanasa Life Insurance recently launched a new plan that builds upon the success of their existing child insurance policy, Senehasa.
+
+Senehasa is a popular choice for parents due to its high returns and low monthly premiums, which aligns perfectly with Sanasa Life Insurance’s core values of affordability and accessibility.” Mahesh Wickramatunga, Head of Marketing stated.
+
+“The new theme ‘Promise of a Mother’s Love’ includes all the benefits of the existing Senehasa insurance scheme as well as additional benefits for a child’s future. Here are some of these innovative inclusions: If the child passes the Grade 5 scholarship examination, he/she will be entitled to future educational scholarships based on their scholarly performance at the GCE Ordinary Level and Advanced Level examinations.
+
+...
+
+[Data](articles/6449ccad.json)
+
+---
+
+### Watawala Plantations PLC appoints Reyaz Mihular as chairman
+
+*2024-06-03 05:08:00* · [`islandlk`](http://island.lk/watawala-plantations-plc-appoints-reyaz-mihular-as-chairman/) · `en`
+
+Watawala Plantations PLC announced the appointment of Reyaz Mihular as the Chairman, succeeding Sunil G. Wijesinha, who is stepping down after completing a long tenure of 12 years with the company.
+
+Reyaz Mihular is an accomplished professional in the financial and corporate sectors, having held various significant senior management roles throughout his career. He served as Managing Partner of KPMG Sri Lanka & Maldives from 2012 to 2022 and chaired KPMG’s Middle East & South Asia Regional Cluster, where he also acted as Chief Operating Officer. Mihular’s expertise spans both in accounting and management, as reflected in his presidency and fellowship at the Institute of Chartered Accountants of Sri Lanka.
+
+Presently, Mihular, holds directorships at various PLCs, including Watawala Plantations PLC and Sunshine Holdings PLC. He is a Commissioner at the Colombo Port City Economic Commission and a member of the Stakeholder Engagement Committee of the Central Bank of Sri Lanka.
+
+...
+
+[Data](articles/6c972ef5.json)
+
+---
+
+### ‘Rajagiri’ Hospital launches its international patient connect platform
+
+*2024-06-03 05:08:00* · [`islandlk`](http://island.lk/rajagiri-hospital-launches-its-international-patient-connect-platform/) · `en`
+
+...
+
+[Data](articles/b0b0df77.json)
+
+---
+
+### TVS launches TVS iQube electric scooter in Sri Lanka
+
+*2024-06-03 05:07:00* · [`islandlk`](http://island.lk/tvs-launches-tvs-iqube-electric-scooter-in-sri-lanka/) · `en`
+
+TVS Motor Company (TVSM) – a leading global automaker operating in the two and three-wheeler segments – recently launched its premium electric scooter, TVS iQube in Sri Lanka. Backed by steadfast and trusted engineering capabilities of TVSM, the TVS iQube delivers class leading reliability, performance, comfort, build quality and safety. The product offering is complemented by the well-established after-sales network of TVS Lanka Pvt. Ltd. developed over a successful and strong presence of 2 decades in Sri Lanka.
+
+...
+
+[Data](articles/61c83dd9.json)
+
+---
 
 ### Potal bomb attack on a house in Jaffna Achuveli
 
@@ -840,7 +962,7 @@ In the first 30 days of May Sri Lanka has welcomed 108,656 tourists up 30 percen
 
 A controversial deal with VFS Global which led foreigners and outsourced workers manning immigration point at the main airport, also resulted in a user-unfriendly website, as well as visas rising to 107 dollars from 51.
 
-Though a fight back by Tourism Minister Harin Fernando against the deal led to a 50-dollar visa being re-introduced, the problems with a user-unfriendly website remains with complaints continuing in online forums.
+Though a fight back by Tourism Minister Harin Fernando against the deal led to a 50-dollar visa being re-introduced, the problems with a user-unfriendly website compared to the earlier easy-to-us one remain, with complaints continuing in online forums.
 
 A controversy has also blown up between Sri Lanka and Maldives after VFS Global started charging fees from Maldives visitors.
 
@@ -1564,6 +1686,20 @@ There are 2219 members of 5 239 secured centers in the Ratnapura, Eheliyagoda an
 
 ---
 
+### Range Bandara’s  “Loud Thinking” about Election Postponement Damages   Ranil’s Election Campaign in the Short Term.
+
+*2024-06-02 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84130) · `en`
+
+Sri Lanka’s political stage was enlivened last week by the solo performance of  United National Party (UNP) general -secretary Palitha Range Bandara. Addressing a media briefing on 28 May, the policeman turned politician came out with a suggestion that the presidential election due this year and the Parliamentary election scheduled for next year should be postponed while the terms of office for both should be extended by two more years. The former Puttalam district and ex-state minister wanted a resolution passed by Parliament to that effect and ratified by the people at a referendum.
+
+The essence of what Palitha Range Bandara proposed was this -. Ranil Wickremesinghe took over the country’s leadership at a time of a great economic crisis. Considerable progress  has been achieved by the  Wickremesinghe Govt to remedy the situation. A degree of economic stability has been established but more time is needed to ensure greater economic stability.
+
+...
+
+[Data](articles/3cbabeda.json)
+
+---
+
 ### Kaduwela - Piyagama
 
 *2024-06-02 18:12:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடுவெல-பியகம-இடைமாற்றம்-மூடப்பட்டது/175-338307) · `ta`
@@ -1973,165 +2109,5 @@ The Meteorological Department says that 283 milligates from the Halvara area of 
 [Data](articles/c1e5d4c9.json)
 
 [Extended Data](ext_articles/c1e5d4c9.ext.json)
-
----
-
-### Kaduwela-Biyagama interchange closed on Southern Expressway
-
-*2024-06-02 16:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Kaduwela-Biyagama-interchange-closed-on-Southern-Expressway/108-283909) · `en`
-
-Colombo, June 2 (Daily Mirror)- The Kaduwela-Biyagama interchange on the Southern Expressway has been closed for traffic to and from Kadawatha until further notice.
-
-Motorists are advised to use alternate routes and stay updated through traffic advisories.
-
-◼️
-
-[Data](articles/a17e43b8.json)
-
-[Extended Data](ext_articles/a17e43b8.ext.json)
-
----
-
-### Expressway login is inundated
-
-*2024-06-02 16:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197289) · `si`
-
-Due to heavy rains causing the collapse of the Biyagama road, the Express Outline Route between Kaduwela and Kadawatha is closed. Visitors cannot enter or exit through the Kaduwela entrance, leading to traffic congestion.
-
-🟩
-
-The Biyagama Road visit to Kaduwela on the Express Outline Route has been closed down.
-
-According to our correspondent, we cannot exit the Kaduwela entrance or to leave the traffic in the Kaduwela entrance from Kadawatha.
-
-The decision was taken due to the collapse of the Biyagama road along with heavy rains.
-
-◼️
-
-[Data](articles/3aa7a4db.json)
-
-[Extended Data](ext_articles/3aa7a4db.ext.json)
-
----
-
-### Kaduwela-Biyagama interchange of Southern Expressway temporarily closed
-
-*2024-06-02 16:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/99600/kaduwela-biyagama-interchange-of-southern-expressway-temporarily-closed) · `en`
-
-The Kaduwela-Biyagama interchange of the Southern Expressway has been closed to and from Kadawatha until further notice, Ada Derana reporter said.
-
-◼️
-
-[Data](articles/07f22d14.json)
-
-[Extended Data](ext_articles/07f22d14.ext.json)
-
----
-
-### Bridge collapse disrupts Kelani Valley railway services
-
-*2024-06-02 16:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Bridge-collapse-disrupts-Kelani-Valley-railway-services/108-283908) · `en`
-
-Colombo, June 2 (Daily Mirror)- Train services on the Kelani Valley line have been severely disrupted following the collapse of a bridge between Waga and Kosgama.
-
-The collapse has forced Sri Lanka Railways to limit train operations on the line to Waga station.
-
-◼️
-
-[Data](articles/c0c3a1b2.json)
-
-[Extended Data](ext_articles/c0c3a1b2.ext.json)
-
----
-
-### Is the UNP secretary's claim expression of fear?
-
-*2024-06-02 16:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/185127) · `ta`
-
-Ranil's concerns about the uncertain presidential election suggest he might be considering postponing it or even holding a referendum before conducting the election, possibly influenced by his father-in-law JR's stance.
-
-🟩
-
-Ranil knows that there is uncertainty in the presidential election.. Whether Ranil is trying to postpone the election is one thing. Next up is his father -in -law JR. The second issue is whether he is wondering to hold a referendum without holding the presidential election in Jayawardene ...
-
-◼️
-
-[Data](articles/d7fe2aa8.json)
-
-[Extended Data](ext_articles/d7fe2aa8.ext.json)
-
----
-
-### A special announcement to the people in Attanagalu Oya
-
-*2024-06-02 16:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197288) · `si`
-
-Amber warns of flood risks in Divulapitiya, Mirigama, Attanagalla, Gampaha, Minuwangoda, Thola, and Wattala. Low-lying areas and travelers are advised to take precautions.
-
-🟩
-
-Amber has issued a monmber warning announcement for the Attanagalu Oya.
-
-It states that there is a risk of floods in Divulapitiya, Mirigama, Attanagalla, Gampaha, Minuwangoda, Minuwangoda, Gampaha, Thola and Wattala.
-
-Accordingly, some of the risks of the lowlands of the lowland and the people traveling in the road should be noted.
-
-◼️
-
-[Data](articles/03f542cc.json)
-
-[Extended Data](ext_articles/03f542cc.ext.json)
-
----
-
-### Fallen tree disrupts traffic on Colombo-Kandy main road
-
-*2024-06-02 15:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/99599/fallen-tree-disrupts-traffic-on-colombo-kandy-main-road) · `en`
-
-UPDATE 07.10 p.m. : The Colombo-Kandy main road has been restored for traffic as the fallen tree at Warakapola has been cleared, the Police Spokesman DIG Nihal Thalduwa said.
-
-The vehicular movement on Colombo-Kandy main road has been disrupted due to a tree fallen across the road near the Warakapola town, the police said.
-
-Police spokesman DIG Nihal Thalduwa said that therefore, the motorists are urged to use alternate routes.
-
-◼️
-
-[Data](articles/027cc355.json)
-
-[Extended Data](ext_articles/027cc355.ext.json)
-
----
-
-### Trains on Kelani Valley line limited to Waga
-
-*2024-06-02 15:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/99598/trains-on-kelani-valley-line-limited-to-waga) · `en`
-
-The train services on the Kelani Valley line has been limited to Waga railway station as a bridge on the railway line between Waga and Kosgama has collapsed, Sri Lanka Railways announced.
-
-◼️
-
-[Data](articles/f50948ab.json)
-
-[Extended Data](ext_articles/f50948ab.ext.json)
-
----
-
-### 85 people trapped in the hotel rescue
-
-*2024-06-02 15:29:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹோட்டலில்-சிக்கிய-85-பேர்-மீட்பு/175-338294) · `ta`
-
-85 people were rescued from a flooded hotel in Kalutara-Horana due to the overflow of Mawak Oya.
-
-🟩
-
-About 85 people of various ages have been safely rescued at a hotel in the Kalutara-Horana Swakwatta area.
-
-Due to the overflowing of Mawak Oya, they face an unexpected problem in the hotel.
-
-◼️
-
-[Data](articles/62e6f262.json)
-
-[Extended Data](ext_articles/62e6f262.ext.json)
 
 ---

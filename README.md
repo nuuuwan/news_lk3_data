@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-04 04:04:48**
+As of **2024-06-04 04:18:56**
 
 ## Newspaper Stats
 
@@ -26,29 +26,37 @@ adaderanasinhalalk | 4,529
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,224 (100.0%) of 28,225 articles have been extended.
+28,225 (100.0%) of 28,225 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-04 (Tuesday)
 
-### இந்திய தேர்தல் இன்று முடிவு
+### Indian election today
 
 *2024-06-04 02:43:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்திய-தேர்தல்-இன்று-முடிவு/175-338393) · `ta`
 
-இந்தியாவில் ஏழாவது கட்ட மக்களவைத் தேர்தல் முடிவடைந்ததையடுத்து வெளியான கருத்துக் கணிப்புகளில், ஆளும் பாரதிய ஜனதா கட்சி பெரும்பான்மை பெறும் என கணிக்கப்பட்டுள்ளது.
+In the seventh phase of India's Lok Sabha elections, the ruling BJP is anticipated to triumph, potentially securing 370 seats for the National Democratic Alliance and 400 overall. Opposition parties, including the Congress led by Rahul Gandhi, predict a victory for the India coalition with over 295 seats, based on strategies discussed post-campaign. Amidst the political banter, Rahul Gandhi humorously referred to a song by Sidhu Muswala titled '295', suggesting it as a prediction for the coalition's seat count.
 
-பா.ஜ.க. தலைமையிலான தேசிய ஜனநாயகக் கூட்டணி மற்றும் எதிர்க்கட்சியான இந்தியா கூட்டணியின் தலைவர்கள் இதற்கு எதிர்வினையாற்றியுள்ளனர்.
+🟩
 
-கடைசிக் கட்ட தேர்தல் பிரசாரம் முடிந்ததும், பிரதமர் நரேந்திர மோதி கன்னியாகுமரிக்குச் சென்று சுமார் 45 மணிநேரம் தியானம் செய்தார். மூன்றாவது பதவிக் காலத்திற்கு தேர்ந்தெடுக்கப்பட்டால் செயல்படுத்த வேண்டியவை தொடர்பான '100 நாள் நிகழ்ச்சி நிரல்' கூட்டத்தை பிரதமர்  (ஞாயிற்றுக்கிழமை) நடத்தினார்.
+The ruling Bharatiya Janata Party (BJP) is predicted to win the seventh phase of the Lok Sabha elections in India.
 
-பாஜக தனித்து 370 இடங்களிலும், தேசிய ஜனநாயகக் கூட்டணி 400 இடங்களிலும் வெற்றி பெறும் என்று பாஜக தேசியத் தலைவர் ஜேபி நட்டா கூறினார்.
+BJP. Leaders of the National Democratic Alliance and the opposition India coalition have reacted to this.
 
-இதற்கிடையில், சனிக்கிழமை எதிர்க்கட்சிகள் கூடி எதிர்கால வியூகம் குறித்து ஆலோசித்தன. இந்தியா கூட்டணி 295 இடங்களுக்கு மேல் வெற்றி பெறும் என காங்கிரஸ் தலைவர் மல்லிகார்ஜுன கார்கே தெரிவித்துள்ளார்.
+After the last election campaign, Prime Minister Narendra Moti went to Kanyakumari and meditated for about 45 hours. The Prime Minister (Sunday) held a '100 -day agenda' meeting on what to be implemented if elected for the third term.
+
+BJP national leader JP Natta said the BJP would win 370 seats and the National Democratic Alliance 400 seats.
+
+In the meantime, the opposition parties gathered on Saturday and discussed the future strategy. Congress leader Mallikarjuna Karke said the India coalition would win over 295 seats.
+
+Speaking on the polls, Congress leader Rahul Gandhi said, "This is a poll of the media."
 
 ...
 
 [Data](articles/14a17c4a.json)
+
+[Extended Data](ext_articles/14a17c4a.ext.json)
 
 ---
 

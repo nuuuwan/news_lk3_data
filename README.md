@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-03 13:53:37**
+As of **2024-06-03 14:05:40**
 
 ## Newspaper Stats
 
-*Scraped **28,079** Articles*
+*Scraped **28,088** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,140 @@ newsfirstlk | 363
 islandlk | 1,519
 economynextcom | 1,591
 dailyftlk | 1,644
-adalk | 2,392
+adalk | 2,393
 adaderanalk | 3,196
-tamilmirrorlk | 3,291
+tamilmirrorlk | 3,293
 virakesarilk | 4,329
-dailymirrorlk | 4,449
-adaderanasinhalalk | 4,504
+dailymirrorlk | 4,453
+adaderanasinhalalk | 4,506
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,079 (100.0%) of 28,079 articles have been extended.
+28,079 (100.0%) of 28,088 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-03 (Monday)
+
+### Legal action taken against 981 mosquito breeding places
+
+*2024-06-03 13:50:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Legal-action-taken-against-981-mosquito-breeding-places/108-283990) · `en`
+
+Colombo, June 03 (Daily Mirror) -  Legal action will be taken against 981 establishments where mosquito breeding places were detected during the National Mosquito Control Week held from May 26 to June 01, Epidemiology Unit of the Health Ministry said.
+
+According to the statistics, during the past seven days, 93,874 premises had been inspected by special teams and had found 4,890 places which had mosquito larvae.
+
+Furthermore, 25,372 houses were identified as possible mosquito breeding sites.
+
+Accordingly, legal action will be taken against the owners of 981 premises. Notices had been issued for 3,121 premises.
+
+According to the Epidemiology Unit, 25,095 dengue cases have been reported from all over the island as of June 03.
+
+◼️
+
+[Data](articles/5b1a1b65.json)
+
+---
+
+### මෙක්සිකෝවේ ජනාධිපතිවරණයේ දී සිදුවු පෙරළිය
+
+*2024-06-03 13:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197331) · `si`
+
+සියයට 56කට වැඩි බහුතරයක් දිනාගනිමින් මෙක්සිකෝ ජනාධිපතිවරණය ජයගැනීමට අපේක්ෂිකා ක්ලෝඩියා ෂයින්බවුම් සමත්ව තිබේ.
+
+61 හැවිරිදි ක්ලෝඩියා ෂයින්බවුම් මෙක්සිකෝ සිටී අගනුවර හිටපු නගරාධිපතිනිය වන අතර හිටපු ජනාධිපති ඇන්ද්‍රේස් මැනුවෙල් ලෝපේස්ගේ සමීපතමයෙක් ද වේ.
+
+විපක්ෂ අපේක්ෂිකා සෝචිත්ල් ගල්වේස් ද සිය ජයග්‍රහණය ප්‍රකාශයට පත් කළත්, ෂයින්බවුම් ඇයට වඩා කැපී පෙනෙන ඡන්ද ප්‍රතිශතයක් ලබා ඉදිරියෙන් පසුවන බව වාර්තා වේ.
+
+◼️
+
+[Data](articles/a0b806ef.json)
+
+---
+
+### අපරාධ චෝදනා එල්ල වූ කල්ලියක් කොටුකර ගත් මෙහෙයුම
+
+*2024-06-03 13:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197330) · `si`
+
+සංවිධානාත්මක අපරාධ චෝදනා සහිත කාන්තාවක් ඇතුළු තිදෙනෙක් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ මනුෂ්‍ය ඝාතන හා සංවිධානාත්මක අපරාධ විමර්ශන අංශය මඟින් වැල්ලම්පිටිය ප්‍රදේශයේ දී අත්අඩංගුවට ගෙන තිබේ.
+
+ඔවුන් අත්අඩංගුවට ගැනුණේ විදෙස්ගතව සිට මෙරට අපරාධ ජාලය හා මත්ද්‍රව්‍ය ජාවාරම මෙහෙයවන බවට හඳුනාගත් අපරාධකරුවන් වන අලන්ගෝරන් ජෝතිරූබන් හා ඉෂාර ලක්මාල් නොහොත් සේදවත්ත කසුන් නමැත්තන් පිළිබඳ කළ දීර්ඝ විමර්ශනයකින් පසුවය.
+
+එම සැකකරුවන් සහ සැකකාරිය සතුව තිබී ටී 56 ගිනිඅවි 2ක්, මැගසින් 2ක්, ජීව උණ්ඩ 26ක්, හෙරොයින් මත්ද්‍රව්‍ය ග්‍රෑම් 149ක් පොලීසිය සිය භාරයට ගෙන තිබේ.
+
+මොවුන් අපරාධ සඳහා අවි ආයුධ කුලියට දුන් පිරිසක් බව පොලීසිය පවසයි.
+
+ඔවුන් එම අවිවල අංක මකා ඇති අතර මෙම අවි විවිධ අපරාධ සඳහා ප්‍රවාහනය කිරීමට අත්අඩංගුවට ගත් සැකකාරිය සහාය දක්වා ඇති බව පොලීසිය පෙන්වාදෙයි.
+
+...
+
+[Data](articles/37905882.json)
+
+---
+
+### Cement prices drop by Rs.150
+
+*2024-06-03 13:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Cement-prices-drop-by-Rs-150/108-283989) · `en`
+
+Colombo, June 3 (Daily Mirror) - The maximum retail price of a 50 kg bag of cement has been reduced by Rs. 150 with effect from June 1, a cement company said.
+
+Accordingly, the maximum retail price will be Rs 2,250 per 50kg bag.
+
+◼️
+
+[Data](articles/234aef1f.json)
+
+---
+
+### Udarata Menike engine catches fire at Haputale Railway Station
+
+*2024-06-03 13:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Udarata-Menike-engine-catches-fire-at-Haputale-Railway-Station/108-283988) · `en`
+
+Haputale, June 3 (Daily Mirror)- The rear engine of the Udarata Menike train bound to Badulla from Colombo caught fire at the Haputale Railway Station this afternoon.
+
+Staff at the Haputale Railway Station and the police managed to douse the fire with assistance of the  residents.
+
+◼️
+
+[Data](articles/e3cbd30b.json)
+
+---
+
+### நாளை மூடப்படும் பாடசாலைகளின் விபரம்
+
+*2024-06-03 13:27:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாளை-மூடப்படும்-பாடசாலைகளின்-விபரம்/175-338355) · `ta`
+
+தற்போதைய மோசமான வானிலை காரணமாக, பின்வரும் மாகாணங்கள், மாவட்டங்கள் மற்றும் பிராந்தியங்களில் உள்ள அரச பாடசாலைகளுக்கும் நாளை (06/04/2024) விசேட விடுமுறை வழங்க தீர்மானிக்கப்பட்டுள்ளது.
+
+ஏனைய மாகாணங்கள் மற்றும் பிராந்தியங்களில் உள்ள பாடசாலைகளுக்கும் விசேட விடுமுறை தினமாக வழங்கப்படாது என தீர்மானிக்கப்பட்டுள்ளது. அந்த மாகாணங்களில் வழக்கம் போல் பாடசாலை நடைபெறும்.
+
+இங்கு குறிப்பிடப்படாத அனைத்து மாகாணங்களிலும் மாவட்டங்களிலும் பிராந்தியங்களிலும் பாடசாலைகள் 06/04/2024 அன்று வழக்கம் போல் நடைபெறும்.
+
+06/04/2024 க்குப் பிறகு நிலவும் வானிலையின் அடிப்படையில், மாகாண வலய பணிப்பாளர்களினால் பாடசாலைகளை நடத்துவது தொடர்பில் முடிவுகள் எடுக்கப்படும் என்றும் கல்வியமைச்சு அறிவித்துள்ளது.
+
+◼️
+
+[Data](articles/6235c806.json)
+
+---
+
+### வௌ்ளத்தில் மூழ்கிய கப்: போராடி மீட்ட இளைஞர்கள்
+
+*2024-06-03 13:17:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வௌ்ளத்தில்-மூழ்கிய-கப்-போராடி-மீட்ட-இளைஞர்கள்/175-338354) · `ta`
+
+வௌ்ளநீர் அலையில் சிக்குண்ட கப் ரக வாகனத்தை அவ்விடத்தில் இருந்த இளைஞர்கள் இணைந்து​ பெரும் முயற்சிக்குப் பின்னர் மீட்டெடுத்துள்ளனர். இந்த சம்பவம், பெலும்மஹர சந்தியில், கொடகெத பாலத்துக்கு அருகில் இடம்பெற்றுள்ளது.
+
+அந்த கப் ரக வாகனம், அலையில் சிக்குண்டு அள்ளிச்சென்றபோது, பெரும் போராட்டத்துக்கு மத்தியில் இளைஞர்கள் தடுத்து நிறுத்தினர்.
+
+அந்த சந்தியில் பல அடிக்கு மேல் வெள்ளநீர் நிரம்பியிருந்தது. அந்த வௌ்ளநீர் அலையில் சிக்குண்ட கப் ரக வாகனம், சாரதியின் கட்டுப்பாட்டை மீறி, இழுத்துச் செல்லப்பட்ட போதே, அங்கிருந்த இளைஞர்கள் ஒன்றுக்கூடி, கப் வாகனத்தை மீட்டதுடன், சாரதியை​யும் காப்பாற்றியுள்ளனர்.
+
+◼️
+
+[Data](articles/305c708d.json)
+
+---
 
 ### 5 men arrested to return to country
 
@@ -131,6 +249,22 @@ The reduction in the price will come into effect from the 1st of this month and 
 [Data](articles/7457f14d.json)
 
 [Extended Data](ext_articles/7457f14d.ext.json)
+
+---
+
+### Schools in multiple districts closed tomorrow due to bad weather
+
+*2024-06-03 12:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Schools-in-multiple-districts-closed-tomorrow-due-to-bad-weather/108-283983) · `en`
+
+Colombo, June 3 (Daily Mirror) - The Education Ministry announced that all schools in the Galle, Matara, Kalutara districts, and in the Sabaragamuwa Province will be closed tomorrow due to prevailing adverse weather.
+
+In addition, schools in the Homagama Zonal Education will also be closed.
+
+The ministry said that all other schools will be opened again tomorrow.
+
+◼️
+
+[Data](articles/a48906f3.json)
 
 ---
 
@@ -887,6 +1021,22 @@ Australian consumer price inflation rose at an annual pace of 3.6% in April, the
 [Data](articles/acb485c7.json)
 
 [Extended Data](ext_articles/acb485c7.ext.json)
+
+---
+
+### උසස් පෙළට යන්න ඉන්න සිසුන්ට කොන්දේසි කීපයක් පනවයි
+
+*2024-06-03 10:38:50* · [`adalk`](https://www.ada.lk/breaking_news/උසස්-පෙළට-යන්න-ඉන්න-සිසුන්ට-කොන්දේසි-කීපයක්-පනවයි/11-409978) · `si`
+
+අ.පො.ස.සාමාන්‍ය පෙළ 2023/2024 විභාගයට පෙනී සිටි සිසුන්  ඉදිරියේදී පාසල්වල  ආරම්භ කිරීමට නියමිත උසස් පෙළ තාවකාලික පන්තිවලට අනුයුක්තව සිටින කාලය තුළ පැමිණි දින ගණනද උසස් පෙළ විභාගයට පෙනී සිටීමේදී අවශ්‍ය සියයට 80 පැමිණීමේ ප්‍රතිශතය සඳහා සලකා බැලීමට අධ්‍යාපන අමාත්‍යාංශය තීරණය කර තිබේ.
+
+එමෙන්ම එම  සිසුන් සාමාන්‍ය පෙළ ප්‍රතිඵල මත වෙනත්  පාසලක උසස් පෙළ හැදෑරීමට යාමේදී  එලෙස  තාවකාලිකව යම් පාසලකට ඇතුළත්ව ඉගෙනුම ලබා තිබීම ප්‍රමුඛතාවයක් ලෙස සලකන  බවද අධ්‍යාපන අමාත්‍යාංශය කියයි.
+
+ඒ අනුව සිසුන්   සාමාන්‍ය පෙළ ප්‍රතිඵල මත වෙනත් පාසලකට ඇතුළත් වීමට ඉල්ලුම් කිරීමේදී තාවකාලිකව අනුයුක්තව සිටි කාලසීමාව තුළ පාසල් පැමිණීම හා  විෂය සමගාමී ක්‍රියාකාරකම් පිළිබඳව වාර්තාවක් තාවකාලිකව  අනුයුක්තව සිටි පාසලේ විදුහල්පති විසින් නිකුත් කළ යුතු අතර එය නව පාසලට ඇතුළත් කර ගැනීමට අමතර සුදුසුකමක් සේ සැලකෙන බවද අධ්‍යාපන අමාත්‍යාංශය සඳහන් කරයි.
+
+...
+
+[Data](articles/142c9825.json)
 
 ---
 
@@ -2019,177 +2169,5 @@ The rising trade deficit wasn’t something to be alarmed of as it reflects that
 [Data](articles/b44fcfdd.json)
 
 [Extended Data](ext_articles/b44fcfdd.ext.json)
-
----
-
-### Construction sector upbeat over rising activities
-
-*2024-06-03 01:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Construction-sector-upbeat-over-rising-activities/108-283949) · `en`
-
-Participants in the construction sector said they remain buoyant over the rising opportunities for tenders for new development projects in the country as the economy is now equipped with both foreign currency and rupee liquidity.
-
-However, they cited the breakneck competition in the market and also the easing prices for construction sector materials which could reactivate more activities in the sector which was in a prolonged decline for two years.
-
-“Most respondents were confident that the increasing trend in tender opportunities will continue in the upcoming months,” said the construction sector Purchasing Managers’ Index (PMI) for April.
-
-“Moreover, the participatory firms widely highlighted the intense competition in the market”, the statement released by the Central Bank added.
-
-The PMI dedicated for construction sector activities unsurprisingly contracted due to the seasonality as the long holidays for the New Year temporarily closed construction sites for extended periods.
-
-...
-
-[Data](articles/8cee5163.json)
-
-[Extended Data](ext_articles/8cee5163.ext.json)
-
----
-
-### Mother of two children killed in a sword
-
-*2024-06-03 01:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/185157) · `ta`
-
-In Kandy, a 48-year-old mother of two was fatally stabbed in a personal dispute. Velankani Eshrani passed away on Saturday night. A 38-year-old suspect from the T Division has been detained.
-
-🟩
-
-A mother of two children aged forty -eight in Kandy, Kandy, has died in a sword incident due to a personal dispute.
-
-Velankani Eshrani, who lived in the Kandy Mahayawa MT category, died on Saturday night.
-
-Mahiyawa M.The Kandy police said that a thirty -eight -year -old man who lives in the T Division has been arrested.
-
-◼️
-
-[Data](articles/ae835254.json)
-
-[Extended Data](ext_articles/ae835254.ext.json)
-
----
-
-### JAT records 43% Q4 PAT growth and 53% YOY revenue increase in Bangladesh
-
-*2024-06-03 01:21:30* · [`dailyftlk`](https://www.ft.lk/business/JAT-records-43-Q4-PAT-growth-and-53-YOY-revenue-increase-in-Bangladesh/34-762517) · `en`
-
-Emerging regional conglomerate and Sri Lanka’s market leader in wood coatings and brushes, JAT Holdings PLC recently released its financials for the fiscal year ended 31 March 2024.
-
-The results demonstrated the Group’s robust financial position and resilient growth, with a profitability of 43% over the 4th quarter of the previous year, to Rs. 447 million. Meanwhile, year-on-year (YoY) turnover increased by 14% to Rs. 11.5 billion to record the highest turnover ever achieved by JAT Holdings PLC. Overall Export Sector growth also rose by a healthy 53%, while local revenues grew by 14%.
-
-...
-
-[Data](articles/1748f40c.json)
-
-[Extended Data](ext_articles/1748f40c.ext.json)
-
----
-
-### Fisheries Ministry and Regen Renewables sign agreement to power Peliyagoda Fish Market with solar
-
-*2024-06-03 01:17:30* · [`dailyftlk`](https://www.ft.lk/business/Fisheries-Ministry-and-Regen-Renewables-sign-agreement-to-power-Peliyagoda-Fish-Market-with-solar/34-762516) · `en`
-
-Fisheries Ministry Secretary K.N. Kumari Somarathna and Regen Renewables Managing Director and CEO Dr. Lakmal Fernado
-
-In a significant step towards sustainable energy solutions, Regen Solar, specialists in the solar PV sector, has inaugurated a ground-breaking project.
-
-The installation consisting of 1893 Nos. DAS Solar 570Wp solar panels is projected to yield 1,425 MWh of solar energy annually into the national grid.
-
-...
-
-[Data](articles/7b74dcc3.json)
-
-[Extended Data](ext_articles/7b74dcc3.ext.json)
-
----
-
-### McLarens Lubricants wins Silver at ExxonMobil Distributor Excellence Awards
-
-*2024-06-03 01:15:07* · [`dailyftlk`](https://www.ft.lk/business/McLarens-Lubricants-wins-Silver-at-ExxonMobil-Distributor-Excellence-Awards/34-762515) · `en`
-
-McLarens Lubricants, a fully owned subsidiary of the esteemed McLarens Group, has been honoured with the Silver award in the ‘Total Excellence Award category’ by ExxonMobil Asia Pacific Ltd. The accolade was presented at the prestigious South East Asia, Alliance and Oceania (SAO) Distributor Conference held on 8 May in Hong Kong.
-
-This award recognises McLarens Lubricants’ exceptional performance in several key areas, including business planning, sell-in and sell-out business performance, investment in business growth, sales excellence, and brand execution. The evaluation process encompassed all ExxonMobil distributors in SAO market, highlighting those who excelled across these critical business dimensions.
-
-◼️
-
-[Data](articles/6e2bf052.json)
-
-[Extended Data](ext_articles/6e2bf052.ext.json)
-
----
-
-### BNI Sri Lanka to host first ever carbon-neutral BNI conference on 6 June
-
-*2024-06-03 01:13:06* · [`dailyftlk`](https://www.ft.lk/business/BNI-Sri-Lanka-to-host-first-ever-carbon-neutral-BNI-conference-on-6-June/34-762514) · `en`
-
-BNI Sri Lanka Area Director Glenn Lord with Planetary Carbon Standard Founder Imran Ali and Operations Manager Kumudini Bandara at the MOU signing
-
-In a pioneering move towards sustainability, BNI Sri Lanka, the leading business networking organisation dedicated to helping businesses grow through mutual support and collaboration, is proud to announce that its upcoming annual conference scheduled for the 6 June at the Shangri La Hotel, will be the first ever carbon-neutral BNI conference in history. This ground-breaking initiative highlights BNI’s commitment to environmental responsibility and sets a new benchmark for its future events across the world.
-
-...
-
-[Data](articles/c29650c5.json)
-
-[Extended Data](ext_articles/c29650c5.ext.json)
-
----
-
-### Southern Province and North Western Province won gold for 48th National Games
-
-*2024-06-03 01:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/185156) · `ta`
-
-The Southern Province clinched gold in the men's category of the 48th National Sports Competition, defeating the North Western Province 2-1. The North Western Province secured silver, while the Sabaragamuwa province took bronze. In the women's division, the North Western Province emerged victorious against the Eastern Province, with the Southern Province securing bronze. The North Western Province's Prasadani was named the best player in both categories.
-
-🟩
-
-The Southern Province won the gold medal in the men's category at a feature of the 48th National Sports Competition held for the last 3 days at the Negombo Brauns Beach.
-
-In the final of the gold medal held on Sunday (02), the Southern Province, which opposed the North Western Province 2 - 1, won the gold medal by 2 - 1 (17 - 21, 21 - 17, 15 - 11).
-
-Gold Medalist Southern Province team. Silva and P Kumara were present.
-
-North Western Provincial Team on Silver Medal. Lakshan and Dilipa Samika played.
-
-On behalf of the Sabaragamuwa provincial team winning the bronze medal by winning the North Central Province by 2 - 1. Perera, M. Wickremasinghe played.
-
-B, as the best player in men's beach. Kumara (Southern Province) was chosen.
-
-In the final of the women's category, the North Western Province won the gold medal by winning the Eastern Province 2 - 1 (17 - 21, 21 - 19, 15 - 12).
-
-...
-
-[Data](articles/520efbbe.json)
-
-[Extended Data](ext_articles/520efbbe.ext.json)
-
----
-
-### Donald Trump’s conviction and what’s next
-
-*2024-06-03 00:39:35* · [`dailyftlk`](https://www.ft.lk/opinion/Donald-Trump-s-conviction-and-what-s-next/14-762508) · `en`
-
-Trump will be tried, found guilty of crimes of inciting an insurrection, election interference and espionage, which will see him in prison with the key thrown away. And the Trump years will be just a bad dream
-
-Golfers may remember how, at the turn of the century, Tiger Woods dominated the game of golf to such a degree that the organisations responsible for administering the rules of golf, the Royal & Ancient Golf Club of St. Andrews and the United States Golf Association, were forced to change the rules and conditions of the international courses where major professional golf tournaments were played.
-
-...
-
-[Data](articles/86dde91f.json)
-
-[Extended Data](ext_articles/86dde91f.ext.json)
-
----
-
-### Donald Trump’s conviction and what’s next
-
-*2024-06-03 00:39:35* · [`dailyftlk`](https://www.ft.lk/columns/Donald-Trump-s-conviction-and-what-s-next/4-762508) · `en`
-
-Trump will be tried, found guilty of crimes of inciting an insurrection, election interference and espionage, which will see him in prison with the key thrown away. And the Trump years will be just a bad dream
-
-Golfers may remember how, at the turn of the century, Tiger Woods dominated the game of golf to such a degree that the organisations responsible for administering the rules of golf, the Royal & Ancient Golf Club of St. Andrews and the United States Golf Association, were forced to change the rules and conditions of the international courses where major professional golf tournaments were played.
-
-...
-
-[Data](articles/8b1d837c.json)
-
-[Extended Data](ext_articles/8b1d837c.ext.json)
 
 ---

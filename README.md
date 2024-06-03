@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-03 16:33:59**
+As of **2024-06-03 16:50:42**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,511
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,117 (100.0%) of 28,119 articles have been extended.
+28,119 (100.0%) of 28,119 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -43,6 +43,8 @@ The new prices will be announced tomorrow morning, Mr. Peiris added.
 ◼️
 
 [Data](articles/e0ee19e9.json)
+
+[Extended Data](ext_articles/e0ee19e9.ext.json)
 
 ---
 
@@ -2072,25 +2074,33 @@ The next staff visit is to be made in December, and the next premium will be giv
 
 ---
 
-### ශ්‍රී රාමායන් ට්‍රේල්ස්: සීතාඑළියේ සිදුවන්නේ කුමක් ද?
+### What happens in Sri Ramayan Trails: What is happening in Seetha Eli?
 
 *2024-06-03 09:29:59* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/czqq01y9jj9o) · `si`
 
-වාල්මිකී නමැති ඉන්දීය ඍෂිවරයෙකු විසින් ක්‍රි.පූ. 7 වන සියවසේ පමණ රචනා කරන ලදැයි සැලකෙන රාමායණය ලෝක සාහිත්‍යයේ දීර්ඝතම පුරාණ වීර කාව්‍යයන්ගෙන් එකක් ලෙස සැලකේ.
+The Sri Ramayan Trails project aims to develop nine historical sites in Sri Lanka linked to the Ramayana epic, enhancing tourism and cultural exchange between India and Sri Lanka. This initiative includes sites significant to the stories of Rama, Sita, and Ravana, with the goal of promoting religious and cultural harmony. Despite skepticism over the historical accuracy of the Ramayana's portrayal of Ravana, the project is seen as a way to boost tourism and foster cultural understanding.
 
-රාමා, සීතා සහ රාවණා යන චරිත ගොඩනැගී ඇත්තේ, එම කෘතිය හරහා ය. ශ්ලෝක 24,000ක් සහිත එම කෘතිය කාණ්ඩ 7ක් යටතේ සකස් කර තිබේ.
+🟩
 
-ඉන්දියාවේ අයෝධ්‍යා රාජ්‍යයේ දශරථ රජුගේ පුත්‍රයෙකු වූ රාමා, සීතා සමග විවාහ වන අතර, රජුගේ වෙනත් බිරිඳකගේ පුත්‍රයෙකු වූ භාරතට රජකම භාර දී වනයට ගොස් වාසය කළ බව එහි කියැවේ.
+Valkikari, a Indian terrorist. The Ramayana, which is composed in the 7th century, is considered one of the longest epitome poetry of world literature.
 
-එහිදී, යක්ෂ ගෝත්‍රිකයින්ට එරෙහිව ක්‍රියා කරන රාමාට එරෙහිව ශ්‍රී ලංකාවේ යක්ෂ අධිපතියෙකු වන රාවණා සටන් කර ඇති බවත්, පළිගැනීමක් වශයෙන් රාමාගේ බිරිඳ වූ සීතා පැහැරගෙන ලංකාද්වීපයට පැමිණ සිර කරගෙන සිටි බවත් රාමායණ කතා පුවතේ සඳහන් වේ.
+Rama, Seetha and Ravana are built through the book. The book with 24,000 mastore has been prepared under seven groups.
 
-පසුව, හනුමාන් සමග එක්ව සීතා යළි රැගෙන යාමට රාමා සමත්වූ බව ද එම කතා පුවතේ දැක්වේ.
+Ramah, a son of the King of India's Ayodheya, is married to Seetha, and rescued the son of the king's wife.
 
-ඉහත කී පුරවෘත්තය සමග සම්බන්ධ වී ඇති බවට සැලකෙන ශ්‍රී ලංකාවේ ඓතිහාසික ස්ථාන 9ක් 'ශ්‍රී රාමායන් ට්‍රේල්ස්' නමින් සංවර්ධනය කිරීමේ ව්‍යාපෘතියක් පසුගිය අප්‍රේල් 21 වන දා කොළඹදී ආරම්භ කෙරිණි.
+The Ravayana Stories, Ravana, has fought against Ramana, who is against Ruja tribes.
+
+Later, the story of the story also shows that Ramah was able to take back with Hanuman.
+
+A project to develop Nine historical sites in Sri Lanka, which is considered to be connected to the above legend.
+
+"The Indo-Sri Lanka Religious and Cultivation of Religious and Cultural Liability to promote the country's tourism promotion and promote the tourism industry," Sri Ramayana Path to (Sri Rama Ramyana) project project was officially launched.
 
 ...
 
 [Data](articles/d450f8ec.json)
+
+[Extended Data](ext_articles/d450f8ec.ext.json)
 
 ---
 

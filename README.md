@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-04 02:18:51**
+As of **2024-06-04 02:34:17**
 
 ## Newspaper Stats
 
-*Scraped **28,207** Articles*
+*Scraped **28,214** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,10 +14,10 @@ bbccomsinhala | 277
 newsfirstlk | 363
 islandlk | 1,520
 economynextcom | 1,604
-dailyftlk | 1,652
+dailyftlk | 1,658
 adalk | 2,408
 adaderanalk | 3,209
-tamilmirrorlk | 3,305
+tamilmirrorlk | 3,306
 virakesarilk | 4,346
 dailymirrorlk | 4,468
 adaderanasinhalalk | 4,529
@@ -26,25 +26,157 @@ adaderanasinhalalk | 4,529
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,206 (100.0%) of 28,207 articles have been extended.
+28,207 (100.0%) of 28,214 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-04 (Tuesday)
 
-### நாடு முழுவதும் 250 புதிய பாலங்கள் நிர்மாணிக்கத் திட்டம் - ஜனாதிபதி
+### தேர்தல்களை பிற்போடு முயற்சிகளுக்கு எதிர்ப்பு
+
+*2024-06-04 02:18:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்களை-பிற்போடு-முயற்சிகளுக்கு-எதிர்ப்பு/175-338390) · `ta`
+
+தேர்தல்களை பிற்போடுவதற்கான அரசாங்கத்தின் முயற்சிகளுக்கு எதிர்ப்பு தெரிவித்து சிவில் சமூகத்தை சேர்ந்தவர்கள் கொழும்பிலுள்ள ஐக்கிய நாடுகள் அலுவலகத்திடம் கடிதமொன்றை கையளித்துள்ளனர்.
+
+பொது, ஜனாதிபதி தேர்தலை ஒத்திவைப்பது தொடர்பில் சர்வஜனவாக்கெடுப்பை நடத்துவது குறித்து ஐக்கிய தேசிய கட்சியின் பொதுச்செயலாளர் பாலித ரங்க பண்டார தெரிவித்துள்ளதை தங்கள் கடிதத்தில் சுட்டிக்காட்டியுள்ள சிவில்சமூக பிரதிநிதிகள் அக்கருத்தினை  ஜனநாயக விரோத கருத்து என குறிப்பிட்டுள்ளனர்.
+
+மக்கள் போராட்ட பிரஜைகள் அமைப்பு தேசிய சிவில் அமைப்புகளின் முன்னணி மின்சார பாவனையாளர்கள் சங்கம் உட்பட பல அமைப்புகள் இணைந்து இந்த கடிதத்தை இலங்கைக்கான ஐக்கிய நாடுகளின் அலுவலகத்திடம் கையளித்துள்ளனர்.
+
+...
+
+[Data](articles/73c5a15c.json)
+
+---
+
+### Switch in policy needed: Tobacco control in Sri Lanka a failed experiment
+
+*2024-06-04 02:18:28* · [`dailyftlk`](https://www.ft.lk/opinion/Switch-in-policy-needed-Tobacco-control-in-Sri-Lanka-a-failed-experiment/14-762579) · `en`
+
+Authorities and lobbyists continue to focus solely on the legitimate cigarette market, completely overlooking the illicit segment
+
+Need arising to protect public and children from regressive policy and inaction
+
+Sri Lanka cannot prosper in the backdrop of vested policies and exhibitionism
+
+World No Tobacco Day was celebrated in many parts of the world over the weekend, and despite some lip service to the cause here in Sri Lanka, the actualities have it all up in smoke. On paper, the country espouses to have its tobacco control policy right, but it is its practice that ultimately determines success and here it has failed.
+
+...
+
+[Data](articles/e8927ca9.json)
+
+---
+
+### Stringent laws to mitigate impacts from natural disasters
+
+*2024-06-04 02:15:45* · [`dailyftlk`](https://www.ft.lk/news/Stringent-laws-to-mitigate-impacts-from-natural-disasters/56-762577) · `en`
+
+State Minister of Defence Premitha Bandara Tennakoon outlines plans to introduce dry dam solution, new building code, policy for tree planting along roadsides
+
+Highlights rules and regulations in place for public safety, mitigate adverse impacts on economy
+
+Stresses on importance of necessary permits from National Building Research Organisation for hill country housing and buildings to ensure safety
+
+Asserts neglect of safety regulations lead to rising costs in relief efforts during natural disasters
+
+Insists on introducing Building Code to ensure quality, safety of high-rise housing
+
+Proposes policy for planting trees along roadsides to mitigate risks from severe weather
+
+Announces modernisation of Meteorology Department is on with funds by World Bank and technical support by JICA
+
+Meteorology Department Director-General Athula Karunanayake says JICA to gift Doppler weather radar soon
+
+...
+
+[Data](articles/f28afc28.json)
+
+---
+
+### Schools in five districts to remain close amid adverse weather
+
+*2024-06-04 02:11:01* · [`dailyftlk`](https://www.ft.lk/news/Schools-in-five-districts-to-remain-close-amid-adverse-weather/56-762576) · `en`
+
+Examination Department postpones G.C.E. O/L paper marking till 8 June
+
+The Education Ministry has announced that all schools in five districts, along with those in the Homagama, Kelaniya and Kaduwela Educational Zone, will remain closed today (4) due to severe weather conditions.
+
+All schools in affected districts of Ratnapura, Kegalle, Kalutara, Matara and Galle will be closed today. The closure aims to ensure the safety of students and staff as the country continues to experience heavy rainfall and potential flooding, landslide warnings and evacuation.  Schools in other districts and educational zones will reopen today as scheduled.
+
+The decision follows a special holiday declared for all schools yesterday (3) in response to the adverse weather.
+
+...
+
+[Data](articles/fb338feb.json)
+
+---
+
+### NBRO warns landslide threats may persist despite reduced rainfall
+
+*2024-06-04 02:10:24* · [`dailyftlk`](https://www.ft.lk/news/NBRO-warns-landslide-threats-may-persist-despite-reduced-rainfall/56-762575) · `en`
+
+NBRO Director-General Eng. (Dr.) Asiri Karunawardena says 10 districts still under threat, 14,500 families identified as living in high-risk areas
+
+Urges public to remain vigilant, not to return to homes till NBRO officially changes warnings
+
+Says early public awareness helped to reduce number of deaths, casualties
+
+National Building Research Organisation (NBRO) Director-General Engineer (Dr.) Asiri Karunawardena yesterday said that the “red alert” warning for landslide-prone areas might be extended, even if rainfall decreases today (4).
+
+Addressing a special media briefing organised by the Government Information Department, he said 10 districts are still under threat with around 14,500 families having been identified as living in high-risk areas. Karunawardena requested residents in these areas to remain vigilant and heed landslide warnings.
+
+...
+
+[Data](articles/7284e333.json)
+
+---
+
+### High Commissioner Rohitha Bogollagama presents credentials to King Charles III
+
+*2024-06-04 02:07:13* · [`dailyftlk`](https://www.ft.lk/news/High-Commissioner-Rohitha-Bogollagama-presents-credentials-to-King-Charles-III/56-762574) · `en`
+
+High Commissioner of Sri Lanka to the United Kingdom Rohitha Bogollagama presented his Letter of Credence to King Charles III on 30 May at a ceremonial event held at the Buckingham Palace. High Commissioner Bogollagama and his spouse Deepthi Bogollagama, were escorted to the Buckingham Palace by traditional horse carriages of the Royal Mews.
+
+...
+
+[Data](articles/353b84ab.json)
+
+---
+
+### Ambassador to Saudi Arabia Ameer Ajwad presents open copies of Credentials
+
+*2024-06-04 02:05:04* · [`dailyftlk`](https://www.ft.lk/news/Ambassador-to-Saudi-Arabia-Ameer-Ajwad-presents-open-copies-of-Credentials/56-762573) · `en`
+
+Ambassador of Sri Lanka to the Kingdom of Saudi Arabia Omar Lebbe Ameer Ajwad presented open copies of his Credentials to the Deputy Minister of Protocol of the Ministry of Foreign Affairs of the Kingdom of Saudi Arabia Abdul Majeed bin Rashed Al Samary, at the Saudi Foreign Ministry headquarters in Riyadh on 2 June.
+
+Deputy Minister Abdul Majeed extended a warm welcome to Ambassador Ameer Ajwad and wished him a fruitful assignment in the Kingdom. In response, while expressing his greetings Ambassador Ameer Ajwad underlined the growing momentum in the bilateral relations between Sri Lanka and Saudi Arabia and highlighted the achievement of 50 years of diplomatic relations between the two countries that falls this year.
+
+...
+
+[Data](articles/682252ea.json)
+
+---
+
+### 250 new bridges across the country -President
 
 *2024-06-04 01:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/185249) · `ta`
 
-தேசிய மட்ட அபிவிருத்தித் திட்டங்களின் பயனை கிராமப்புற மக்களுக்குப் பெற்றுக்கொடுக்கும் வகையில் வீதி கட்டமைப்பை மேம்படுத்தி நாடு முழுவதும் 250 புதிய பாலங்களை அமைக்கத் திட்டமிட்டுள்ளதாக ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+President Ranil Wickremesinghe announced plans to construct 250 new bridges nationwide to enhance rural connectivity and support national development projects. This initiative follows the successful completion of 750 rural bridges by the Netherlands' Jensen Brijing Company from 2014-2024, aimed at improving the quality of life in rural areas. The government aims to reduce poverty by focusing on rural infrastructure development, expecting a 10% reduction in multidimensional poverty by 2032. The projects, including bridge construction and hospital expansions, are part of efforts to bolster Sri Lanka's rural communities and ensure economic growth benefits low-income individuals.
 
-2014-2024 காலப்பகுதியில் நெதர்லாந்து ஜென்சன் பிரிஜிங் நிறுவனத்தினால் இலங்கையின் பல்வேறு பகுதிகளில் 750 கிராமிய பாலங்களை வெற்றிகரமாக நிர்மாணித்து நிறைவு செய்ததை முன்னிட்டு 03 ஆம் திகதி திங்கட்கிழமை முற்பகல் கொழும்பு ஷங்ரிலா ஹோட்டலில் இடம்பெற்ற நிகழ்வில் கலந்து கொண்டு உரையாற்றும் போதே ஜனாதிபதி ரணில் விக்ரமசிங்க இதனைக் குறிப்பிட்டார்.
+🟩
 
-இந்தப் பாலங்கள் ஊடாக இணைக்கப்பட்டுள்ள பிரதேச மக்களின் வாழ்க்கைத் தரத்தை மேம்படுத்துவதற்கு அரசாங்கம் அர்ப்பணிப்புடன் செயற்படுவதாகத் தெரிவித்த ஜனாதிபதி, நாட்டின் பொருளாதாரம் வளர்ச்சியடையும் போது, குறைந்த வருமானம் பெறும் மக்களும் அதன் மூலம் பயனடைவதை உறுதி செய்ய வேண்டும் என்றும் வலியுறுத்தினார்.
+President Ranil Wickremesinghe said that it is planning to build 250 new bridges across the country to improve the road structure to provide the benefit of national level development projects to the rural people.
+
+President Ranil Wickremesinghe said this while addressing a function held at the Shankrila Hotel in Colombo on Monday, the 03rd of Monday, ahead of the success of 750 rural bridges in various parts of Sri Lanka by the Netherlands Jenson Brijing Company during the period 2014-2024.
+
+The president said the government was dedicated to improve the quality of life of the people who were linked to these bridges and urged the lower income people to benefit from the country's economy.
+
+The President pointed out that the government's expectation is that the government's expectation is to reduce multi -dimensional poverty by focusing on the people in the countryside, and that such plans to improve the infrastructure in rural areas are very important to achieve that goal.
 
 ...
 
 [Data](articles/942b9dc2.json)
+
+[Extended Data](ext_articles/942b9dc2.ext.json)
 
 ---
 
@@ -2097,161 +2229,5 @@ He said that if a special court is to be established, the laws of the constituti
 [Data](articles/cfafa2e5.json)
 
 [Extended Data](ext_articles/cfafa2e5.ext.json)
-
----
-
-### Court's decision on the daily wage gazette of estate workers
-
-*2024-06-03 15:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197333) · `si`
-
-The Court of Appeal declined to halt the gazette notification increasing estate workers' daily wages, favoring the Labor Department's decision over plantation companies' objections. The court set June 26 for further hearings, requiring notified parties to attend.
-
-🟩
-
-The Court of Appeal decided not to issue an interim injunction from implementing a gazette notification issued by the Labor Employees at the implementation of a gazette notification issued by the Labor Employees.
-
-The court issued the order to the petition filed by plantation companies to issue a rapid help companies to issue a Ritter Command of the Gazette.
-
-Accordingly, a group of people who were nominated as respondents in the petition as respondents and other people to be held informed to appear in the court on June 26.
-
-◼️
-
-[Data](articles/f68d86c9.json)
-
-[Extended Data](ext_articles/f68d86c9.ext.json)
-
----
-
-### A great robber in a heavy financial institution
-
-*2024-06-03 15:05:56* · [`adalk`](https://www.ada.lk/breaking_news/අපුර-මූල්‍ය-ආයතනයක-මහා-කොල්ලයක්/11-409982) · `si`
-
-In Anuradhapura, a major heist occurred at a banking institution on Maithripala Senanayake Mawatha. The robbers targeted the vault, making off with a significant amount of gold and cash. Authorities, including Deputy Inspector General Laksiri Wijesana, are investigating to apprehend the culprits.
-
-🟩
-
-Anuradhapura headquarters (3) launched an incident in Anuradhapura, the Banking Institution located at Maithripala Senanayake Mawatha in Anuradhapura, the Anuradhapura headquarters said.
-
-Police say the robbery has been reduced and cut into the safety of the roof or a group of sources of the private financial institution.
-
-According to unofficial sources, more than Rs.
-
-A high-ranking police officer said that all golden items were taken by thieves had been taken by thieves and the gold and gold was not calculated today (3).
-
-The police further stated that investigations are conducting further investigations to arrest a suspect involved in the incident.
-
-Deputy Inspector General of Police, Laksiri Wijesana, Anuradhapura Divisional Inspection Division of the Anuradhapura Division, Anuradhapura Divisional Investigation Division and other officials including the criminal inquiry department and commenced investigations into the incident.
-
-◼️
-
-[Data](articles/5953831d.json)
-
-[Extended Data](ext_articles/5953831d.ext.json)
-
----
-
-### Keheliya and 7 others further remanded, one granted bail
-
-*2024-06-03 15:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/99630/keheliya-and-7-others-further-remanded-one-granted-bail) · `en`
-
-Former Health Minister Keheliya Rambukwella and seven others have been further remanded until June 14 by the Maligakanda Magistrate’s Court.
-
-They are facing charges related to the import of substandard human immunoglobulin vials.
-
-Meanwhile, the court also ordered the release of the fourth suspect of the case under a monetary bail of Rs. 100,000 and two surety bails of each worth Rs. 500,000.
-
-This order was issued when the relevant case was taken up before the Maligakanda Magistrate’s Court today (03).
-
-The Criminal Investigation Department (CID) arrested Rambukwella on 02 February in connection with the procurement of substandard human intravenous immunoglobulin (IVIG), when he arrived there, complying with a court order. He had been grilled for nearly 10 hours before being arrested.
-
-The arrest came hot on the heels of pressure from civil society activists and health sector trade unionists, who called for the immediate apprehension of the lawmaker.
-
-...
-
-[Data](articles/d31e7228.json)
-
-[Extended Data](ext_articles/d31e7228.ext.json)
-
----
-
-### Keheliya and eight remanded again
-
-*2024-06-03 14:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197332) · `si`
-
-Former Minister Keheliya Rambukwella and seven others were remanded until June 14th after appearing before the Maligakanda Magistrate's Court. Four suspects were released on bail.
-
-🟩
-
-Eight suspects including former Minister Keheliya Rambukwella and eight suspects have been remanded until June 14.
-
-The suspects were produced before the Maligakanda Magistrate's Court.
-
-The four suspects have been released on two lakhs of bail and a cash bail of Rs.
-
-◼️
-
-[Data](articles/ed9f1582.json)
-
-[Extended Data](ext_articles/ed9f1582.ext.json)
-
----
-
-### This year's Sri Pada pilgrimage removes the garbage of garbage
-
-*2024-06-03 14:51:50* · [`adalk`](https://www.ada.lk/breaking_news/මෙවර-ශ්‍රීපාද-වන්දනා-සමයේදී-කැළි-කසල-කිලෝ-ලක්ෂයක්-ඉවත්-කරයි/11-409981) · `si`
-
-In 2023, the annual Sri Pada pilgrimage saw significant environmental efforts. The Maskeliya Pradeshiya Sabha, under the guidance of Environmental Officer Mrs. Sacra Karrana, successfully removed over 60,000 kg of waste and 3,000 kg of plastic bottles during the event, which took place from December to Vesak Piyem Piya Poya day. This initiative not only enhanced the pilgrimage experience but also contributed to preserving the natural beauty of Nallataniya, now managed by the Maskeliya Pradeshiya Sabha in the Ricotican area.
-
-🟩
-
-Sri Pradeshiya Sabha Samali Department of Environmental Council has been removed by the Maskeliya Pradeshiya SabhaThe officer said Mrs. Sacra Karrana.
-
-The daily pilgrimage was held from December 2023 to the Vesak Piyem Piya Poya day.
-
-The Environmental Officers said that 60,000 kilos of removed garbage and 3000 kilograms of plastic bottles were included in the non-decaying garbage.
-
-Nallataniya has been brought to the Maskeliya Pradeshiya Sabha in Ricotican area.
-
-◼️
-
-[Data](articles/92c1762e.json)
-
-[Extended Data](ext_articles/92c1762e.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-06-03 14:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/185205) · `ta`
-
-On June 3rd, the US dollar sold for Rs 297.0726 and bought back for Rs 306.6700.
-
-🟩
-
-The US dollar sales price was Rs 297.0726 and the purchase price was 306.6700 on Monday (June 03).
-
-◼️
-
-[Data](articles/edbaab3d.json)
-
-[Extended Data](ext_articles/edbaab3d.ext.json)
-
----
-
-### Bell 412 Heli ready
-
-*2024-06-03 14:34:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெல்-412-ஹெலி-தயார்/175-338358) · `ta`
-
-The Bell 412 helicopter in Sri Lanka's Galle is stationed at Neluwa Public Ground, ready for immediate deployment in disaster responses.
-
-🟩
-
-Sri Lanka's Bell 412 Helicopter Galle has been placed at the Neluwa Public Ground to immediately go to the field for any disaster call
-
-◼️
-
-[Data](articles/5eb04847.json)
-
-[Extended Data](ext_articles/5eb04847.ext.json)
 
 ---

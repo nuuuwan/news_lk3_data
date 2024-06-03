@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-03 08:00:16**
+As of **2024-06-03 07:48:35**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,484
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,992 (100.0%) of 27,995 articles have been extended.
+27,983 (100.0%) of 27,995 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -52,29 +52,23 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
-### The latest weather notification - inquisze
+### අලුත්ම කාලගුණ නිවේදනය - විමසිලිමත් වන්න
 
 *2024-06-03 06:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197307) · `si`
 
-Expect heavy showers across Western, Sabaragamuwa, Central, Southern, and Northwestern provinces today, especially around Galle and Matara districts. Thunderstorms may cause temporary power outages and lightning accidents. The Department advises caution.
+දිවයිනේ නිරිත දිග කොටසේ පවතින වැසි තත්ත්වය අද (03) දිනයේත් බලාපොරොත්තු වන බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
 
-🟩
+බස්නාහිර, සබරගමුව, මධ්‍යම, දකුණු සහ වයඹ පළාත්වල විටින් විට වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවේ.
 
-The rainy section of the island is also expected today (03).
+බස්නාහිර සහ සබරගමුව පළාත්වලත්, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල මි.මී. 100 පමණ තද වැසි ඇතිවිය හැකිය.
 
-Showers or thundershowers will occur at times in the Western, Sabaragamuwa, Central, Southern and Northwestern provinces.
+දිවයිනේ සෙසු ප්‍රදේශවල සවස් කාලයේ හෝ රාත්‍රී කාලයේ තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකිය.
 
-In some places in the Western and Sabaragamuwa Province, Galle and Matara districts. Heavy showers can occur about 100.
-
-Showers or thundershowers at night or night in the rest of the island.
-
-The Department of Meteorology has informed the people to take necessary steps to reduce temporary winds and lightning accidents due to thunderstorms.
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවට දැනුම් දී තිබේ.
 
 ◼️
 
 [Data](articles/5b5ac331.json)
-
-[Extended Data](ext_articles/5b5ac331.ext.json)
 
 ---
 
@@ -92,8 +86,6 @@ The discussion on the theme will also draw from the country’s past experiences
 
 [Data](articles/2b0d45ac.json)
 
-[Extended Data](ext_articles/2b0d45ac.ext.json)
-
 ---
 
 ### Edith Cowan University Sri Lanka Campus launches Bachelor of Science in Nursing Studies
@@ -109,8 +101,6 @@ As the healthcare sector in Sri Lanka advances with enhanced facilities and serv
 ...
 
 [Data](articles/a266f45c.json)
-
-[Extended Data](ext_articles/a266f45c.ext.json)
 
 ---
 
@@ -128,8 +118,6 @@ MullenLowe Sri Lanka named ‘Most Effective Agency of the Year 2022/23’
 
 [Data](articles/22e6e44d.json)
 
-[Extended Data](ext_articles/22e6e44d.ext.json)
-
 ---
 
 ### Sanasa Life Insurance launches new child insurance policy with additional benefits
@@ -145,8 +133,6 @@ Senehasa is a popular choice for parents due to its high returns and low monthly
 ...
 
 [Data](articles/6449ccad.json)
-
-[Extended Data](ext_articles/6449ccad.ext.json)
 
 ---
 
@@ -164,8 +150,6 @@ Presently, Mihular, holds directorships at various PLCs, including Watawala Plan
 
 [Data](articles/6c972ef5.json)
 
-[Extended Data](ext_articles/6c972ef5.ext.json)
-
 ---
 
 ### ‘Rajagiri’ Hospital launches its international patient connect platform
@@ -175,8 +159,6 @@ Presently, Mihular, holds directorships at various PLCs, including Watawala Plan
 ...
 
 [Data](articles/b0b0df77.json)
-
-[Extended Data](ext_articles/b0b0df77.ext.json)
 
 ---
 
@@ -189,8 +171,6 @@ TVS Motor Company (TVSM) – a leading global automaker operating in the two and
 ...
 
 [Data](articles/61c83dd9.json)
-
-[Extended Data](ext_articles/61c83dd9.ext.json)
 
 ---
 
@@ -1737,8 +1717,6 @@ The essence of what Palitha Range Bandara proposed was this -. Ranil Wickremesin
 ...
 
 [Data](articles/3cbabeda.json)
-
-[Extended Data](ext_articles/3cbabeda.ext.json)
 
 ---
 

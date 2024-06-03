@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-03 20:19:00**
+As of **2024-06-03 20:34:10**
 
 ## Newspaper Stats
 
-*Scraped **28,168** Articles*
+*Scraped **28,177** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,60 @@ newsfirstlk | 363
 islandlk | 1,520
 economynextcom | 1,604
 dailyftlk | 1,644
-adalk | 2,402
+adalk | 2,403
 adaderanalk | 3,208
-tamilmirrorlk | 3,299
+tamilmirrorlk | 3,302
 virakesarilk | 4,342
-dailymirrorlk | 4,459
-adaderanasinhalalk | 4,524
+dailymirrorlk | 4,463
+adaderanasinhalalk | 4,525
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,167 (100.0%) of 28,168 articles have been extended.
+28,168 (100.0%) of 28,177 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-03 (Monday)
+
+### Foreign train passenger dies after being hit by a tunnel wall
+
+*2024-06-03 20:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Foreign-train-passenger-dies-after-being-hit-by-a-tunnel-wall/108-284007) · `en`
+
+Colombo, June 1 (Daily Mirror) - A foreign train passenger died this evening after being hit by a tunnel wall while hanging out of the open doorway of a compartment, Sri Lanka Railways General Manager N.J. Indipolage said.
+
+He said the foreign passenger was travelling to Ella by train from Colombo Fort to Badulla.
+
+The accident happened at around 4 p.m. today, Indipolage said.
+
+He said the foreigner died after being hit by tunnel No. 19 between the Nanuoya and Idalgashinna railway stations.
+
+The Railway Department has requested a report regarding the accident.
+
+According to the Railways Act., commuters are advised to stay within the train carriage while the train is moving.
+
+He said that there have been fatal accidents reported earlier when visitors have hung out of the open doorways or windows of trains.
+
+◼️
+
+[Data](articles/0893b4da.json)
+
+---
+
+### මේ දක්වා ආපදා මරණ 16ක්
+
+*2024-06-03 20:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197351) · `si`
+
+දිවයිනට බලපා ඇති අයහපත් කාලගුණික තත්ත්වය හේතුවෙන් මේ වනවිට පුද්ගල මරණ 16ක් වාර්තා වී ඇති බව ආපදා කළමනාකරණ මධ්‍යස්ථානය පවසයි.
+
+එම මධ්‍යස්ථානය වැඩිදුරටත් වාර්තා කරන්නේ මේ වනවිට පවුල් 21,353ක පුද්ගලයින් 84,749ක් පීඩාවට පත්ව ඇති බවය.
+
+◼️
+
+[Data](articles/407ab352.json)
+
+---
 
 ### Extreme weather: Death toll rises to 16, nearly 85,000 affected
 
@@ -41,6 +79,38 @@ The Disaster Management Centre (DMC) confirmed that 16 deaths have been reported
 ◼️
 
 [Data](articles/e504a689.json)
+
+[Extended Data](ext_articles/e504a689.ext.json)
+
+---
+
+### பாதிக்கப்பட்டோரை நேரில் சென்று பார்வையிட்டார் பிரதமர்
+
+*2024-06-03 20:06:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாதிக்கப்பட்டோரை-நேரில்-சென்று-பார்வையிட்டார்-பிரதமர்/175-338374) · `ta`
+
+கடும் மழை மற்றும் வெள்ளம் காரணமாக பாதிக்கப்பட்ட பல பகுதிகளை பிரதமர் தினேஷ் குணவர்தன இன்று நேரில் சென்று பார்வையிட்டார்.
+
+அவிசாவளை, புவக்பிட்டிய உள்ளிட்ட பிரதேசங்களில் மழையினால் பாதிக்கப்பட்ட மக்களை அவர் சந்தித்தார். R
+
+◼️
+
+[Data](articles/bb6f8883.json)
+
+---
+
+### தென்னாபிரிக்காவுக்கெதிராக முதலில் துடுப்பெடுத்தாடும் இலங்கை
+
+*2024-06-03 20:00:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/தென்னாபிரிக்காவுக்கெதிராக-முதலில்-துடுப்பெடுத்தாடும்-இலங்கை/44-338373) · `ta`
+
+சர்வதேச கிரிக்கெட் சபையின் இருபதுக்கு – 20 உலகக் கிண்ணத் தொடரில், நியு யோர்க்கில் இடம்பெற்ற தென்னாபிரிக்காவுக்கெதிரான குழு டி போட்டியின் நாணயச் சுழற்சியில் வென்ற இலங்கையணித் தலைவர் வனிடு ஹசரங்க, தமதணி முதலில் துடுப்பெடுத்தாடும் என அறிவித்தார்.
+
+இலங்கை: 1. பதும் நிஸங்க, 2. குசல் மென்டிஸ் (விக்கெட் காப்பாளர்), 3. கமிந்து மென்டிஸ், 4. சதீர சமரவிக்கிரம, 5. சரித் அசலங்க, 6. அஞ்சலோ மத்தியூஸ், 7. வனிடு ஹசரங்க (அணித்தலைவர்), 8. தசுன் ஷானக, 9. மகேஷ் தீக்‌ஷன, 10. மதீஷ பத்திரண, 11. நுவான் துஷார.
+
+தென்னாபிரிக்கா: 1. குயின்டன் டி கொக் (விக்கெட் காப்பாளர்), 2. றீஸா ஹென்ட்றிக்ஸ், 3. ஏய்டன் மார்க்ரம் (அணித்தலைவர்), 4. ஹென்றிச் கிளாசென், 5. டேவிட் மில்லர், 6. ட்ரிஸ்டன் ஸ்டப்ஸ், 7. மார்கோ ஜன்சன், 8. கேஹவ் மஹராஜ், 9. ககிஸோ றபாடா, 10. அன்றிச் நொர்கியா, 11. ஒட்டெய்ல் பார்ட்மன்.
+
+◼️
+
+[Data](articles/3c1be61a.json)
 
 ---
 
@@ -83,6 +153,24 @@ Sri Lanka team won the advantage of the match.
 [Data](articles/c6e51374.json)
 
 [Extended Data](ext_articles/c6e51374.ext.json)
+
+---
+
+### Record prize money declared for T20 World Cup 2024
+
+*2024-06-03 19:33:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Record-prize-money-declared-for-T20-World-Cup-2024/108-284006) · `en`
+
+(ICC) - ICC have announced a record-breaking prize fund of $11.25 million USD for the Men’s T20 World Cup 2024, with the winners set to receive at least $2.45 million.
+
+The ICC Men's T20 World Cup 2024 winners will receive the highest amount in the tournament's history.
+
+This ninth edition will see 20 teams competing over 28 days across nine venues in the West Indies and USA, making it the largest event of its kind.
+
+The runners-up will earn at least $1.28 million, while the losing semi-finalists will take home $787,500 each. Teams that do not advance past the second round will receive $382,500 each, and those finishing between ninth and 12th place will get $247,500 each.
+
+...
+
+[Data](articles/6a15c895.json)
 
 ---
 
@@ -357,6 +445,38 @@ The body of the foreigner was brought to the Haputale Railway Station.
 [Data](articles/91a9f4cb.json)
 
 [Extended Data](ext_articles/91a9f4cb.ext.json)
+
+---
+
+### More than 84,000 persons affected, death toll rises to 16
+
+*2024-06-03 18:27:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/More-than-84-000-persons-affected-death-toll-rises-to-16/108-284004) · `en`
+
+Colombo, June 3 (Daily Mirror) - More than 84,000 people from 21,353 families have been affected by the ongoing adverse weather conditions, bringing the total number of deaths to 16, Disaster Management Centre (DMC) Director Pradeep Kodippili said.
+
+He said only six people were reported to have been injured during the situation and five persons had gone missing.
+
+The deaths were reported from Ratnapura (5), Colombo (3), Matara (6) and Galle (2) districts from June 1.
+
+Accordingly, people within eight districts have been affected and among them 77 have been sent to 77 safe locations.
+
+A total of six houses were damaged completely and 1,214 houses were partially damaged.
+
+◼️
+
+[Data](articles/ff551434.json)
+
+---
+
+### People affected by floods
+
+*2024-06-03 18:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/People-affected-by-floods/110-284003) · `en`
+
+People in the Biyagama and Gampaha areas were affected due to the ongoing adverse weather conditions. Those in the Gampaha area were affected due to the overflow of the Attanagalu Oya. Pix by Kushan Pathiraja and Nimalsiri Edirisinghe
+
+◼️
+
+[Data](articles/f789ab3f.json)
 
 ---
 
@@ -885,6 +1005,22 @@ The flooded three-wheeler has been severely damaged, and if the owners have owne
 [Data](articles/6faf493a.json)
 
 [Extended Data](ext_articles/6faf493a.ext.json)
+
+---
+
+### හෙට සිට වැස්ස අඩුවෙයි
+
+*2024-06-03 16:13:17* · [`adalk`](https://www.ada.lk/breaking_news/හෙට-සිට-වැස්ස-අඩුවෙයි/11-409985) · `si`
+
+දිවයිනේ නිරිත දිග කොටසේ පවතින තද වැසි තත්ත්වයේ තාවකාලික අඩුවීමක් හෙට (04දා) දින සිට බලාපොරොත්තුවන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+කෙසේ වෙතත් බස්නාහිර, සබරගමුව, මධ්‍යම, දකුණු හා වයඹ පළාත්වල වැසි වාර කිහිපයක් ඇති වන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+දිවයිනේ සෙසු ප්‍රදේශවල සවස් කාලයේ හෝ රාත්‍රී කාලයේ තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+◼️
+
+[Data](articles/6201661a.json)
 
 ---
 
@@ -2043,161 +2179,5 @@ The decision was taken during a discussion with the educational authorities by t
 [Data](articles/47ef24d3.json)
 
 [Extended Data](ext_articles/47ef24d3.ext.json)
-
----
-
-### The order to be taken about the petitions against delay in the local government election
-
-*2024-06-03 12:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197326) · `si`
-
-The Supreme Court scheduled another hearing for petitions challenging the delay in local government elections, which were initially set for March 9 last year. The case will be heard on February 5, after being postponed from its original date. Petitions were submitted by the United Nations Force, National Zealous Forces, CPA, and PAFFRAL, arguing that the delay violates public basic human rights.
-
-🟩
-
-The Supreme Court prescribed the further hearing of the petitions filed by the demanding demanding of the local government election that the public's basic human rights violated to be held on March 9 last year.
-
-The case was called today (02), the panel of judges to be adjourned on the 5th of this month.
-
-These petitions were presented by the United Nations Force, National Zealous Forces, CPA and PAFFRAL.
-
-The petitioners claim that the local government ballot to be held on March 9 last year, these petitions have been filed by the due date.
-
-◼️
-
-[Data](articles/2d86b61b.json)
-
-[Extended Data](ext_articles/2d86b61b.ext.json)
-
----
-
-### Food for granddaughter in dog trophy: Grandma arrested
-
-*2024-06-03 12:25:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாய்-கோப்பையில்-பேத்திக்கு-உணவு-பாட்டி-கைது/175-338346) · `ta`
-
-A 73-year-old grandmother was arrested for allegedly serving her 14-year-old granddaughter dog food instead of human food. The girl, raised without her parents at a Child Development Center, was visiting her grandmother when the incident occurred. The grandmother also reportedly disturbed the dust and asked the girl to leave the house immediately.
-
-🟩
-
-The granddaughter's grandmother has been arrested on charges of feeding her granddaughter in a cup of food for a dog, one of his home -grown pets.
-
-Due to the lack of parents, she has grown up at the Child Development Center since she is now 14 -year -old, and has recently visited her grandmother's house to see her elderly grandmother.
-
-The girl who went home, not only threatened to eat and eat in the cup of feeding her home -grown dog, but also the Grandmother disrupted the dust.. He also shouted to leave the house immediately.
-
-In this case, police said that a 73 -year -old woman has been arrested on charges of acting as a 14 -year -old granddaughter.
-
-This little girl has a older sister. However, it is noteworthy that the two have no memory of their own people.
-
-◼️
-
-[Data](articles/ae14c60b.json)
-
-[Extended Data](ext_articles/ae14c60b.ext.json)
-
----
-
-### School holidays in Galle, Matara extended till Wednesday
-
-*2024-06-03 12:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/School-holidays-in-Galle-Matara-extended-till-Wednesday/108-283983) · `en`
-
-Colombo, June 3 (Daily Mirror) - The holiday for schools in the Galle and Matara districts have been extended till Wednesday (5).
-
-It is also said that this decision was taken by Southern Province Governor Lakshman Yapa Abeywardena during a discussion with the education authorities.
-
-◼️
-
-[Data](articles/0173bd69.json)
-
-[Extended Data](ext_articles/0173bd69.ext.json)
-
----
-
-### SLPP MP Thilak Rajapakshe joins SJB
-
-*2024-06-03 12:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/99624/slpp-mp-thilak-rajapakshe-joins-sjb) · `en`
-
-The Ampara District MP of Sri Lanka Podujana Peramuna (SLPP) Dr. Thilak Rajapakshe has joined the Samagi Jana Balawegaya (SJB).
-
-Rajapakshe is a physician, who served in the Sri Lanka Army Medical Corps, and a member of ‘Viyathmaga’.
-
-◼️
-
-[Data](articles/9d114093.json)
-
-[Extended Data](ext_articles/9d114093.ext.json)
-
----
-
-### A profit of the pointer
-
-*2024-06-03 12:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197325) · `si`
-
-Dr. Thilak Rajapaksa, Ampara District MP, contributes to reconciliation efforts. With a background in the Sri Lanka Army Medical Corps and leadership roles in health services, he aims to bridge divides through his work.
-
-🟩
-
-The Ampara District MP Thilak Rajapaksa has joined the reconciliation of the Ampara District MP Dr. Thilak Rajapaksa.
-
-He served in the Sri Lanka Army Medical Corps after his higher education.
-
-He has also served as the Director of Ambagahawella Regional Hospital and the Director of the Office of the Ampara Health Officer of Ampara and the Director of Ampara Regional Health Services Office.
-
-◼️
-
-[Data](articles/eee924b7.json)
-
-[Extended Data](ext_articles/eee924b7.ext.json)
-
----
-
-### Range Bandara justifies his call for referendum to extend President’s term
-
-*2024-06-03 12:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Range-Bandara-justifies-his-call-for-referendum-to-extend-Presidents-term/108-283982) · `en`
-
-Colombo, June 3 (Daily Mirror)- Justifying his call for a referendum to extend the terms of Parliament and the President, United National Party (UNP) General Secretary Palitha Range Bandara today requested other political parties to come up with their stand on this matter.
-
-“I only talked of a Constitutional provision for a referendum as per the Constitution. I only referred to Article 86 and 87 of the Constitution which provides the President the power to submit to the people by referendum any matter which, in his opinion is of national importance. The referendum has to be conducted by the Commission of Elections while Parliament shall provide for all matters for the same,” Range Bandara said reading out the Constitutional provision.
-
-...
-
-[Data](articles/adbec865.json)
-
-[Extended Data](ext_articles/adbec865.ext.json)
-
----
-
-### Sri Lanka leads region in recruiting more women in banking but barriers remain: IFC
-
-*2024-06-03 12:16:00* · [`economynextcom`](https://economynext.com/sri-lanka-leads-region-in-recruiting-more-women-in-banking-but-barriers-remain-ifc-165856/) · `en`
-
-ECONOMYNEXT — Sri Lanka surpasses regional counterparts in recruiting women at the entry-level in the banking sector, with women comprising 46 percent of new recruits, though barriers, remain, a new International Finance Corporation (IFC) study has found.
-
-The report, supported by the Women in Work programme, a partnership between IFC and the Australian government, also highlights Sri Lanka’s leadership in board-level gender diversity, with women holding 27 percent of board positions, compared to 20 percent in Nepal and 14 percent in Bangladesh.
-
-...
-
-[Data](articles/935e7ee5.json)
-
-[Extended Data](ext_articles/935e7ee5.ext.json)
-
----
-
-### Injunction against Minister Wijeyadasa extended further
-
-*2024-06-03 12:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/99623/injunction-against-minister-wijeyadasa-extended-further) · `en`
-
-The Colombo District Court has further extended the interim order issued preventing Justice Minister Wijeyadasa Rajapakshe from functioning as Chairman of the Sri Lanka Freedom Party (SLFP).
-
-This order was issued when the relevant plaint was called before Colombo District Judge Sandun Withana this morning (03), who directed the plaint to Colombo Additional District Judge Chamari Weerasuriya.
-
-Appearing for the respondents of the case, Attorney-at-Law Jayamuditha Jayasooriya requested additional time to file objections related to the case.
-
-Accordingly, the case was ordered to be recalled on July 13, granting time for the relevant objections to be filed.
-
-◼️
-
-[Data](articles/df144d00.json)
-
-[Extended Data](ext_articles/df144d00.ext.json)
 
 ---

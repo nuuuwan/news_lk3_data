@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-03 22:18:37**
+As of **2024-06-03 22:34:25**
 
 ## Newspaper Stats
 
-*Scraped **28,185** Articles*
+*Scraped **28,186** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,520
 economynextcom | 1,604
 dailyftlk | 1,644
 adalk | 2,405
-adaderanalk | 3,208
+adaderanalk | 3,209
 tamilmirrorlk | 3,304
 virakesarilk | 4,344
 dailymirrorlk | 4,463
@@ -26,37 +26,59 @@ adaderanasinhalalk | 4,527
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,182 (100.0%) of 28,185 articles have been extended.
+28,185 (100.0%) of 28,186 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-03 (Monday)
 
-### අපි ගැනත් ටිකක් හිතන්න
+### Water supply disruptions in several areas due to damaged pipe lines
+
+*2024-06-03 22:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/99641/water-supply-disruptions-in-several-areas-due-to-damaged-pipe-lines) · `en`
+
+The National Water Supply and Drainage Board (NWSDB) has announced that water supply will be under low pressure during peak hours in several areas due to the damaged supply line.
+
+The areas impacted include Padukka, Godagama, Homagama, Pannipitiya, Maharagama, Rukmalgama, Pelenwaththa, Mattegoda, Boralasgamuwa, Pepiliyana, and Galagedara.
+
+Accordingly, the water supply to the relevant areas will be under low pressure from 6 a.m. to 9 a.m. and 5 p.m. to 9 p.m., according to the NWSDB.
+
+◼️
+
+[Data](articles/da5afd2e.json)
+
+---
+
+### Just think about us
 
 *2024-06-03 21:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197353) · `si`
 
-මහා ජල කඳක් බවට පත්වී මිනිස් ජීවිත සැණෙකින් කණපිට හරවන්නට තරම් කුරිරු විය.
+A powerful entity transforms into a vast, harsh body of water, capable of devastating human lives. Despite its cruelty, it embodies the essence of life: breath, birth, emotions, protection, and warmth. Amidst the rain, individuals reflect on their achievements while the innocent, sheltered within the water, remain oblivious to their fate. As time passes, memories of these innocents fade, yet reminders of their existence persist, urging for their release from this oppressive force.
 
-හුස්ම වැටෙන, පණ ගැහෙන, හැඟීම් දැනෙන, රැකවරණය සහ උණුහුමක් හොයන ජීවිත.
+🟩
 
-අනෝරා වැසි මැද කවුරුත් බලන්නේ තමන් හරි හම්බකරගත් දේත් රැකගෙන තමන්ගේ ජීවිතය පරිස්සම්කරගන්නටය.
+He became a great body of water and cruel enough to turn human lives in the earliest.
 
-ඒ අතරේ ඔබට මඟහැරෙන මොවුන් තම ස්වාමියා ගැන දිවි හිමියෙන් විශ්වාසය තබන අහිංසකයින්ය.
+Lives of breathing, emergence, feelings, protection, and warm.
 
-ටිකෙන් ටික වැඩිවන ජල කඳත්, ගැලවෙන්නට නොහැකි ලෙස බැඳුණු යදම් නිසාත් ඔවුන් වැහි දිය අතරේ සැඟව යයි.
+In the middle of the rains, everyone looks at what they have earned and carefully carefully.
 
-එහෙම ජීවිතයෙන් වන්දි ගෙවන අහිංසකයින් ගැන තොරතුරු ඕනෑතරම් දැකිය හැකිය.
+In the meantime, they are the innocent people who believe in the life of their master about their master.
 
-මහ වැහි දිය ටිකෙන් ටික පිරෙද්දී, මේ ආදරණීය සුරතලුන් ඔබට අමතක විය හැකිය.
+They are hiding among the waters of the waters of the water and the increasing weight of the water.
 
-තමන් සන්තක හැමදේම දෑතින් එකතුකරගනිද්දි මේ අහිංසකයින්වත් අමතක කරන්න එපා යන්න අපේ ඉල්ලීමයි.
+There is plenty of information about the innocent innocent.
 
-අපි ඔබෙන් ඉල්ලන්නේ අඩුම තරමේ අරන් යන්න බැරිනම් යදමින් නිදහස් කරලාවත් යන ලෙසටය.
+As the Maha Vanage is gradually, you can forget these dear pets.
+
+Whenever you have all of their belongings, we also do not forget these innocent.
+
+We ask you to be released as you can't take the least.
 
 ◼️
 
 [Data](articles/1a8b801c.json)
+
+[Extended Data](ext_articles/1a8b801c.ext.json)
 
 ---
 
@@ -88,17 +110,25 @@ Accordingly, South African team has 77 runs for winning the competition.
 
 ---
 
-### எதிர்கால பாலஸ்தீன அரசு ஒன்று சாத்தியமா?
+### Is the future Palestinian government possible?
 
 *2024-06-03 21:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/185247) · `ta`
 
-இஸ்ரேல் மீது ஹமாஸ் இயக்கம் 2023 அக்டோபர் 7 ஆம் திகதி மேற்கொண்ட தாக்குதலும் காசா மீது இஸ்ரேல் தொடர்ந்து நடத்திவருகின்ற போரும்  பாலஸ்தீனப் பிரச்சினையை மேற்காசியாவில் மீண்டும் முன்னரங்கத்துக்கு கொண்டு வந்திருக்கின்றன. போர் காசாவின் பெரும் பகுதியை நிர்மூலம்  செய்ததுடன் அதன் மக்களில் 36 ஆயிரத்துக்கும் அதிகமானவர்களை கொன்றொழித்திருக்கும் நிலையில்,எதிர்காலப் பாலஸ்தீன அரசு ஒன்றுக்கான உறுதியான ஆதரவுக்குரலை கூடுதலான நாடுகள் கொடுப்பதை உலகம் காண்கிறது.
+The possibility of a future Palestinian government hinges on resolving longstanding conflicts, including border disputes, the status of Jerusalem, and the right of return for refugees. Recent international support, exemplified by European countries recognizing the Palestinian state, underscores the global desire for a peaceful resolution. However, challenges such as Israel's expansion beyond UN-defined borders, the presence of Jewish settlements, and the political implications of evacuating settlers complicate the path to a two-state solution.
 
-அண்மையில் மூன்று ஐரோப்பிய நாடுகளான ஸ்பெயின்,நோர்வே மற்றும் அயர்லாந்து ஆகியவை பாலஸ்தீன அரசை அங்கீகரித்திருக்கினறன. பாலஸ்தீனப் பிரச்சினை தீர்த்துவைக்கப்படாவிட்டால் பிராந்தியத்தில் நிலையான அமைதி ஒருபோதும் ஏற்படப்போவதில்லை என்று சவூதி அரேபியா,ஜோர்தான் உட்பட அரபு நாடுகள் கூறுகின்றன. நெருக்கடிக்கு சர்வதேச அங்கீகாரத்துடனான ஒரு தீர்வு என்றால் அது இரு அரசு தீர்வேயாகும்.
+🟩
+
+The Hamas Movement on Israel on October 7, 2023 and the war on Israel's continuing war on Gaza has brought back the Palestinian issue in West Asia.. The world sees more countries to give a firm support for a future Palestinian state, with the destruction of a large part of the war Gaza and killed more than 36 thousand of its people.
+
+Recently, three European countries, Spain, Norway and Ireland have recognized the Palestinian state. Arab countries, including Saudi Arabia and Jordan, say that if the Palestinian issue is not resolved, there will never be strict peace in the region. If the crisis is a solution with international recognition, it is a two -state solution.
+
+The brief answer to this question is easy. The two state solution is to divide the land between the historical Balasatinam, the Jordan River to the east and the Mediterranean Sea to the West of the Mediterranean.. But the long answer is complicated.
 
 ...
 
 [Data](articles/5abbe2fc.json)
+
+[Extended Data](ext_articles/5abbe2fc.ext.json)
 
 ---
 
@@ -124,21 +154,27 @@ In addition, 84,749 persons belonging to 21,353 families have been affected, the
 
 ---
 
-### ரி-20 உலகக் கிண்ண போட்டித்தொடருக்கான பரிசுத்தொகை அறிவிப்பு
+### R-20 World Cup Competition
 
 *2024-06-03 20:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/185246) · `ta`
 
-ஐக்கிய அமெரிக்கா மற்றும் மேற்கிந்தியத் தீவுகளில் இடம்பெற்றுவரும் ரி-20 உலகக் கிண்ணம் (2024) கிரிக்கெட் போட்டிக்கான பரிசுத்தொகை ஐ.சி.சி. அறிவித்துள்ளது.
+The ICC announced a record-breaking $2.45 million prize for the 2024 Men's T20 World Cup winners, hosted in the U.S. and West Indies, doubling from the previous $5.6 million. This surpasses the 2022 Australia tournament's $1.6 million top prize, marking a significant increase in overall prize money to $11.25 million across 20 teams.
 
-ஆடவருக்கான ரி-20 உலகக் கிண்ண கிரிக்கெட் போட்டியில் (2024) வெற்றி பெறுபவர்களுக்கு ஒரு மிளிரும் கோப்பையையும் மொத்தப் பரிசுத் தொகையான குறைந்தபட்சம் 2.45 மில்லியன் அமெரிக்க டொலர்களையும் பெறுவார்கள்.
+🟩
 
-இது போட்டியின் வரலாற்றிலேயே அதிகபட்சமாகும். கடந்த 2022 ஆம் ஆண்டு ஆஸ்திரேலியாவில் நடந்த ரி-20 உலகக் கோப்பையை விட, இது 850,000 டொலர் அதிகமாகும், அங்கு வெற்றி பெற்ற இங்கிலாந்து 1.6 மில்லியன் டொலர் பெற்றது.
+The ICC is a prize for the T-20 World Cup (2024) in the United States and the West Indies. Has been announced.
 
-போட்டிக்கான மொத்த பரிசுத் தொகை இரட்டிப்பாகியுள்ளது. 2022 இல் 5.6 மில்லியனில் டொலர் இருந்த பரிசுத்தொகை இந்த ஆண்டு 20 அணிகள் கொண்ட போட்டியில் 11.25 மில்லியன் டொலர்கள் அதிகரித்துள்ளது. அதாவது மற்ற அணிகளுக்கும் பரிசுத் தொகை அதிகரிக்கும் என்பது குறிப்பிடத்தக்கது.
+The winners of the men's T20 World Cup (2024) will receive a trophy and a total prize of $ 2.45 million in total.
+
+This is the highest in the history of the competition. It was $ 850,000 more than the T20 World Cup in Australia in 2022, and England won $ 1.6 million.
+
+Total prize money for the competition has doubled. In 2022, the $ 5.6 million prize has increased by $ 11.25 million in a 20 teams this year.. It is worth noting that the prize money will increase for other teams.
 
 ◼️
 
 [Data](articles/09ede0c6.json)
+
+[Extended Data](ext_articles/09ede0c6.ext.json)
 
 ---
 
@@ -2221,25 +2257,5 @@ Furthermore, the Ministry of Education also highlighted that all schools across 
 [Data](articles/8a7c793d.json)
 
 [Extended Data](ext_articles/8a7c793d.ext.json)
-
----
-
-### Cement prices down
-
-*2024-06-03 12:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197329) · `si`
-
-Cement prices have decreased; 50 kg now costs Rs. 250, as per a company announcement.
-
-🟩
-
-The price of 50 kilograms has been reduced by Rs.
-
-Accordingly, the maximum retail price will be Rs. 250 and a cement companies said.
-
-◼️
-
-[Data](articles/fdff84da.json)
-
-[Extended Data](ext_articles/fdff84da.ext.json)
 
 ---

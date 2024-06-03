@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-03 13:03:57**
+As of **2024-06-03 13:18:48**
 
 ## Newspaper Stats
 
-*Scraped **28,068** Articles*
+*Scraped **28,076** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,102 @@ newsfirstlk | 363
 islandlk | 1,519
 economynextcom | 1,591
 dailyftlk | 1,644
-adalk | 2,391
+adalk | 2,392
 adaderanalk | 3,193
-tamilmirrorlk | 3,288
+tamilmirrorlk | 3,291
 virakesarilk | 4,329
-dailymirrorlk | 4,447
-adaderanasinhalalk | 4,502
+dailymirrorlk | 4,449
+adaderanasinhalalk | 4,504
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,068 (100.0%) of 28,068 articles have been extended.
+28,068 (100.0%) of 28,076 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-03 (Monday)
+
+### நாடு திரும்பிய  5 ஆண்கள் கைது
+
+*2024-06-03 13:08:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/நாடு-திரும்பிய-5-ஆண்கள்-கைது/72-338353) · `ta`
+
+தலைமன்னார் ஊர்மனை பகுதிக்கு வருகை தந்த இலங்கையைச் சேர்ந்த 5 பேர் திங்கட்கிழமை(3)காலை தலைமன்னார் ஊர்மனை கடற்கரை பகுதியில் வைத்து கைது செய்துள்ளனர். இந்தியாவில் இருந்து சட்ட விரோதமான முறையில் படகில் இவர்கள் ஊர்மனைக்கு வந்துள்ளனர்.
+
+கடற்படையினரால் கைது செய்யப்பட்ட குறித்த 5 நபர்கள், கடற்படையினரால் விசாரணைக்கு உற்படுத்திய பின்னர் தலைமன்னார் பொலிஸாரிடம் ஒப்படைக்கப்பட்டுள்ளனர்.
+
+கைது செய்யப்பட்டவர்கள் மன்னார் தாழ்வுபாடு, தலைமன்னார், வவுனியா, கிளிநொச்சி ஆகிய பகுதிகளைச் சேர்ந்த 37,39,24,26 மற்றும் 38 வயதுடைய ஆண்கள் என தெரிய வந்துள்ளது.
+
+குறித்த 5 பேரும் இலங்கையில் இருந்து  இந்தியாவிற்கு கடந்த சில வருடங்களுக்கு முன் சென்றுள்ள நிலையில் இந்தியாவின்  பல்வேறு இடங்களில் வசித்து வந்துள்ளனர்.
+
+இந்நிலையிலே குறித்த 5 பேரும் படகு மூலம் இந்தியாவில் இருந்து சட்ட விரோதமான முறையில் தலைமன்னார் ஊர்மனை பகுதிக்கு வருகை தந்த நிலையில் திங்கட்கிழமை(3) காலை தலைமன்னார் கடற்படையினரால் கைது செய்யப்பட்டனர்.
+
+...
+
+[Data](articles/d625a07c.json)
+
+---
+
+### සිමෙන්ති මිල පහළට
+
+*2024-06-03 12:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197329) · `si`
+
+ජූනි 1 වනදා සිට ක්‍රියාත්මක වන පරිදි කිලෝග්‍රෑම් 50ක සිමෙන්ති කොට්ටයක මිල රුපියල් 150කින් පහළ දමා තිබේ.
+
+ඒ අනුව එහි උපරිම සිල්ලර මිල රු 2,250ක් වනු ඇති බව සිමෙන්ති සමාගම් නිවේදනයක් නිකුත් කරමින් සඳහන් කරයි.
+
+◼️
+
+[Data](articles/fdff84da.json)
+
+---
+
+### சீமெந்து விலை குறைப்பு
+
+*2024-06-03 12:55:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சீமெந்து-விலை-குறைப்பு/175-338352) · `ta`
+
+50 கிலோ எடையுள்ள சீமெந்து மூட்டையின் விலை 150 ரூபாவால் குறைக்கப்பட்டுள்ளதாக சீமெந்து நிறுவனங்கள் தெரிவித்துள்ளன.
+
+இந்த விலை குறைப்பு இம்மாதம் முதலாம் திகதி முதல் அமுலுக்கு வரும் எனவும், இதன்படி 50 கிலோகிராம் மூட்டையின் அதிகபட்ச சில்லறை விலை 2250 ரூபாவாகும் எனவும் சீமெந்து நிறுவனங்கள் மேலும் குறிப்பிடுகின்றன.
+
+◼️
+
+[Data](articles/7457f14d.json)
+
+---
+
+### ரயில் எஞ்ஜின் தீப்பிடித்தது
+
+*2024-06-03 12:46:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ரயில்-எஞ்ஜின்-தீப்பிடித்தது/76-338350) · `ta`
+
+கொழும்பு, கோட்டை ரயில் நிலையத்தில் இருந்து பதுளையை நோக்கி பயணித்த பொடிமெனிக்கே ரயிலின் எஞ்சின், ஹப்புத்தளை ரயில் நிலையத்தில் வைத்து தீப்பிடித்தது.
+
+தீயைக் கட்டுப்பாட்டுக்குள் கொண்டுவரும் நடவடிக்கையினை, ரயில்வே திணைக்களத்தினர், தீயணைப்பு பிரிவினர் மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/187717e6.json)
+
+---
+
+### හෙට වැසෙන පාසල් ගැන විශේෂ දැනුම්දීමක්
+
+*2024-06-03 12:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197328) · `si`
+
+පවතින අයහපත් කාලගුණික තත්ත්වය මත දිස්ත්‍රික්ක කිහිපයක සහ කලාප කිහිපයක රජයේ පාසල් හෙට (04) විශේෂ නිවාඩු දිනයක් ලෙස ප්‍රකාශයට පත්කර තිබේ.
+
+සෙසු පළාත්වල හා කලාපවල හෙට දින සිට සාමාන්‍ය පරිදි පාසල් පැවැත්වීමටත් තීරණය කර ඇත.
+
+ඉහත සඳහන් කර නොමැති සියලු පළාත්වල සහ දිස්ත්‍රික්කවල පාසල් සාමාන්‍ය පරිදි හෙට දින පැවැත්වෙන බව ද අධ්‍යාපන අමාත්‍යාංශයේ මාධ්‍ය ලේකම්, එච්. ටී. කුෂාන් සමීර මහතා නිවේදනයක් නිකුත් කරමින් සඳහන් කරයි.
+
+හෙටින් පසු ව ඇති වන කාලගුණ තත්ත්වය මත පළාත් බලධාරීන් විසින් කලාප අධ්‍යක්ෂවරුන් දැනුම්වත් කර පාසල් පැවැත්වීමට අදාළ තීරණ ගනු ඇත.
+
+◼️
+
+[Data](articles/44765e50.json)
+
+---
 
 ### Court order to protesters
 
@@ -120,6 +200,20 @@ This little girl has a older sister. However, it is noteworthy that the two have
 
 ---
 
+### School holidays in Galle, Matara extended till Wednesday
+
+*2024-06-03 12:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/School-holidays-in-Galle-Matara-extended-till-Wednesday/108-283983) · `en`
+
+Colombo, June 3 (Daily Mirror) - The holiday for schools in the Galle and Matara districts have been extended till Wednesday (5).
+
+It is also said that this decision was taken by Southern Province Governor Lakshman Yapa Abeywardena during a discussion with the education authorities.
+
+◼️
+
+[Data](articles/0173bd69.json)
+
+---
+
 ### SLPP MP Thilak Rajapakshe joins SJB
 
 *2024-06-03 12:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/99624/slpp-mp-thilak-rajapakshe-joins-sjb) · `en`
@@ -155,6 +249,20 @@ He has also served as the Director of Ambagahawella Regional Hospital and the Di
 [Data](articles/eee924b7.json)
 
 [Extended Data](ext_articles/eee924b7.ext.json)
+
+---
+
+### Range Bandara justifies his call for referendum to extend President’s term
+
+*2024-06-03 12:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Range-Bandara-justifies-his-call-for-referendum-to-extend-Presidents-term/108-283982) · `en`
+
+Colombo, June 3 (Daily Mirror)- Justifying his call for a referendum to extend the terms of Parliament and the President, United National Party (UNP) General Secretary Palitha Range Bandara today requested other political parties to come up with their stand on this matter.
+
+“I only talked of a Constitutional provision for a referendum as per the Constitution. I only referred to Article 86 and 87 of the Constitution which provides the President the power to submit to the people by referendum any matter which, in his opinion is of national importance. The referendum has to be conducted by the Commission of Elections while Parliament shall provide for all matters for the same,” Range Bandara said reading out the Constitutional provision.
+
+...
+
+[Data](articles/adbec865.json)
 
 ---
 
@@ -687,6 +795,24 @@ Australian consumer price inflation rose at an annual pace of 3.6% in April, the
 [Data](articles/acb485c7.json)
 
 [Extended Data](ext_articles/acb485c7.ext.json)
+
+---
+
+### කාර් ත්‍රිරෝද අනතුරින් දෙදෙනෙක් මරුට
+
+*2024-06-03 10:30:57* · [`adalk`](https://www.ada.lk/breaking_news/කාර්-ත්‍රිරෝද-අනතුරින්-දෙදෙනෙක්-මරුට/11-409977) · `si`
+
+ධාරානිපාත වර්ෂාව මධ්‍යයේ බීමතින් පැදවූ ත්‍රීරෝද රථයක් මාර්ගයේ ගමන් ගත් මෝටර් රථයක මුහුණට මුහුණ ගැටී සිදු වූ අනතුරින් පුද්ගලයින් දෙදෙනෙකු එම ස්ථානයේම මියගොස් තවත් තිදෙනෙකු බරපතල තුවාල ලබා හෝමාගම මූලික රෝහලට ඇතුළත් කළ බව කොට්ටාව පොලිසිය පවසයි.
+
+මෙසේ මියගොස් ඇත්තේ හපුතලේ බ්‍රෑටූඩ් මැද කොටස පදිංචි පොන්නයියා අශෝක් කුමාර (54) සහ හික්කඩුව නාකන්ද පදිංචි පෙන්ත තන්ත්‍රිගේ සුජීව ඉන්දික (42) විවාහකයින් දෙදෙනෙකු බව පොලිසිය කියයි.
+
+කොට්ටාව විද්‍යාල හන්දිය ප්‍රදේශයේ ඉදිකිරීම් වැඩබිමක සේවයේ නිරත මෙසේ මියගිය  පුද්ගලයෙකුගේ අතෙහි සිදුව තිබූ තුවාලයකට ප්‍රතිකාර ලබා යලි වැඩබිමට යමින් සිටියදී ඔවුන් ගමන් ගත්  ත්‍රී රෝද රථය  කොට්ටාව රුක්මල්ගම මෙන්ඩිස් හන්දියේදී මාර්ගයෙන් මැද පෙරළී ගොස්  කොට්ටාව දෙස සිට රුක්මල්ගම දෙසට ධාවනය වෙමින් තිබූ මෝටර් රථයක මුහුණට මුහුණ ගැටී 02 දා සවස අනතුර සිදුව තිබු බව පොලිසිය පවසයි.
+
+අනතුරින් ත්‍රී රෝද රථයේ පිටුපස ගමන් ගත් දෙදෙනෙකු එම ස්ථානයේදීම මියගොස් තිබූ අතර තවත් දෙදෙනෙකු හා මෝටර් රථයේ රියදුරු බරපතල තුවාල ලබා හෝමාගම මූලික රෝහලට ඇතුළත් කර තිබේ.
+
+...
+
+[Data](articles/813a9086.json)
 
 ---
 
@@ -2015,177 +2141,5 @@ Even as Sri Lanka prepares for elections, laws are being rushed through a parlia
 [Data](articles/4c69ce7f.json)
 
 [Extended Data](ext_articles/4c69ce7f.ext.json)
-
----
-
-### Right of Reply: Rividhanavi (Private) Ltd responds to CEB’s solar project article
-
-*2024-06-03 00:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Right-of-Reply-Rividhanavi-Private-Ltd-responds-to-CEBs-solar-project-article/172-283929) · `en`
-
-The following is a right of reply sent by Rividhanavi (Private) Limited to the Daily Mirror in response to the article titled ‘CEB’s solar project awarding procedure raises eyebrows’ and published on May 9.
-
-This refers to the article written by Ms Nirmala Kannangara which appeared under the subject heading on page A4 of Daily Mirror on 9th May 2024. There were many allegations levelled against awarding the project to us (i.e. consortium of Lakdhanavi Limited, the Blue Circle Limited and Wind Force PLC). Most of the information presented in the article was either misrepresented and/or misinterpreted. Our consortium has now formed the SPV (special purpose vehicle) company, Rividhanavi (Pvt) Limited, for the development of the project and this answer is sent by the SPV company. We categorically deny all the allegations levelled against our company/consortium. We are pleased to clarify and answer our position as follows.
-
-...
-
-[Data](articles/8b3a8ad8.json)
-
-[Extended Data](ext_articles/8b3a8ad8.ext.json)
-
----
-
-### 2024-06-02 (Sunday)
-
-### Papua New Guinea's challenge is won by West Indies
-
-*2024-06-02 23:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/185155) · `ta`
-
-West Indies clinched the inaugural T20 World Cup for the C team against Papua New Guinea, overcoming challenges and securing victory through experienced players like Roston Chase and Russell. Despite initial struggles, including a game delay due to a wicket loss early on, West Indies recovered to score 137 runs in 19 overs. Papua New Guinea, making its second appearance after debuting in Oman and the UAE, managed 136 runs but fell short. Key performances included Chase's 42 runs off 27 balls and Russell's 15 runs, alongside notable bowling efforts from Assad Wala and Andre Russell.
-
-🟩
-
-Former World Champion West Indies won the first T20 World Cup for the C team at the Guyana Provisions Stadium on Sunday (02).
-
-But this victory is not easy for the West Indies. The West Indies team, which faced a tough challenge to the Papua New Guinea up to the 16th over, won the success of the experienced by the experienced Roston Chase and and Russell.
-
-The West Indies scored 137 runs for the loss of 5 wickets in 19 overs.
-
-The game was blocked for 20 minutes as the West Indies lost one wicket in 1.4 overs and scored 8 runs.
-
-But, when the game continues to recover, the overs are not reduced. The success remained intact.
-
-The West Indies, who followed their batsmen, feared that the rain could be blocked by rain and lost 2 wickets by 2 runs. (63 - 3 wig.)
-
-Nicholas Poorun and Brendon King lost 53 runs in the 2nd wicket.
-
-Nicholas Poran lost 27 runs and Brendon King 34 runs.
-
-Following the team captain Roveman Powell (15) and Sharefan Radarfart (2) lost the game. (97 - 5 wig.)
-
-...
-
-[Data](articles/3a6afbb2.json)
-
-[Extended Data](ext_articles/3a6afbb2.ext.json)
-
----
-
-### President's Work to provide assistance to victims of inclement weather
-
-*2024-06-02 23:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/185153) · `ta`
-
-President Ranil Wickremesinghe has ordered the reconstruction of homes destroyed by the disaster, with the military and police assisting under government funding.
-
-🟩
-
-President Ranil Wickremesinghe has issued a directive to the relevant parties to take steps to construct all the houses that have been completely damaged by the current disaster, with the help of the Army and the police at the expense of the government.
-
-◼️
-
-[Data](articles/02424736.json)
-
-[Extended Data](ext_articles/02424736.ext.json)
-
----
-
-### West Indies survive scare in tense win over Papua New Guinea in ICC T20 World Cup
-
-*2024-06-02 23:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/West-Indies-survive-scare-in-tense-win-over-Papua-New-Guinea-in-ICC-T20-World-Cup/108-283928) · `en`
-
-June 02 - West Indies were on the back foot against Papua New Guinea but Rostan Chase and Andre Russell added important runs to win the game for the co-hosts. Rovman Powell’s team was on the brink of a defeat before the two experienced batters took their team to a victory by five wickets.
-
-Windies completed the chase of 137 in 19 overs. For Papua New Guinea, Assad Vala took two wickets.
-
-Earlier, the visitors managed 136/8, with Sese Bau scoring 50. Alzarri Joseph and Russell took two scalps each.
-
-◼️
-
-[Data](articles/f7a99039.json)
-
-[Extended Data](ext_articles/f7a99039.ext.json)
-
----
-
-### The telephone review is simple, the solution is difficult to find
-
-*2024-06-02 23:27:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விமர்சனம்-எளிது-தீர்வு-காண்பது-கடினமானது/175-338315) · `ta`
-
-President Ranil Wickremesinghe emphasized the need for a solid economic recovery plan during a UNP meeting, highlighting the difficulty of securing funds outside IMF assistance. He criticized those proposing negotiations with the IMF without understanding the complexities, urging support for his proposed economic exchange law to avoid further economic decline.
-
-🟩
-
-While the country's economy is stability, no one should think that he can get involved in the oldest politics again. President Ranil Wickremesinghe urged the country to move forward with a proper plan.
-
-The event was held yesterday afternoon at the party headquarters of the United National Party (UNP). The President said this while addressing the gathering. As he further stated,
-
-There is no other option to get money without the IMF. Can talk about something. But there is no solution. Some say they are going to negotiate with the IMF. Can't do these as the employer asks the shop to go to the shop and give a loan one more month. Those who don't understand this are talking about this. I had to negotiate this for two years.
-
-...
-
-[Data](articles/8d5ec70a.json)
-
-[Extended Data](ext_articles/8d5ec70a.ext.json)
-
----
-
-### President challenges opposition to put forward any alternate plan to advance Sri Lanka’s economy
-
-*2024-06-02 23:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/99607/president-challenges-opposition-to-put-forward-any-alternate-plan-to-advance-sri-lankas-economy) · `en`
-
-President Ranil Wickremesinghe stressed that with the stabilization of the country’s economy; there should be no inclination towards traditional politics. He underscored that the country can only be moved forward through a structured plan.
-
-Hence, the President urged everyone to endorse the government’s program without resorting to criticism. He remarked that while criticizing is effortless, finding solutions is challenging.
-
-Addressing the gathering at the distribution of appointment letters for United National Party (UNP) seat organizers held at Sirikotha party headquarters today (02), he highlighted that no political party currently possesses a viable plan for bringing the country forward.
-
-Consequently, he encouraged anyone with such a plan to present it, and if not, to endorse the Economic Transformation Bill for the future of the country.
-
-...
-
-[Data](articles/ef782a67.json)
-
-[Extended Data](ext_articles/ef782a67.ext.json)
-
----
-
-### Priority to Buddhism
-
-*2024-06-02 23:19:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பௌத்தத்திற்கு-முன்னுரிமை-வழங்க-வேண்டும்/175-338314) · `ta`
-
-President Ranil Wickremesinghe emphasized the importance of prioritizing Buddhism as per the Constitution, highlighting a new facility for monks named 'Gurudeva Wall' Plant. This initiative, aimed at treating 50 monks simultaneously across various services, underscores the government's commitment to supporting Buddhist doctrines alongside the Executive, Legislative, and Judicial branches.
-
-🟩
-
-President Ranil Wickremesinghe said Buddhism should be given priority in accordance with the Constitution.
-
-ஹோமாகம, கிரிவத்துடுவவில் நிர்மாணிக்கப்பட்ட 'குருதேவ சுவ அரண' பிக்குகளுக்கான நிலையத்தை நேற்று முன்தினம் திறந்து வைத்து உரையாற்றும்போதே ஜனாதிபதி இவ்வாறு தெரிவித்தார்.
-
-The late Vikrama and the Chief Registrar of the Ramanya Nikaya, Sri Lanka. The 'Gurudeva Wall' Plant has been set up for Sri Lanka and foreign monks on the concept of the Mabalagama Siri Somiszara Nayaka Thera.
-
-Fifty monks can be treated simultaneously at a 3 -storey medical center. There are facilities, including office rooms, ward, amusement, pharmacy, doctors' shelter and emergency care unit.
-
-...
-
-[Data](articles/dce02e46.json)
-
-[Extended Data](ext_articles/dce02e46.ext.json)
-
----
-
-### Plan for transforming the economy: Lacking democratic policy governance, will it be another failure?
-
-*2024-06-02 23:07:47* · [`dailyftlk`](https://www.ft.lk/columns/Plan-for-transforming-the-economy-Lacking-democratic-policy-governance-will-it-be-another-failure/4-762495) · `en`
-
-People will be continuously engaged in the implementation of the national transformation plan as announced by the President
-
-The timeline fixed by the President is that the lab will be assembled in the third quarter of 2023, the report of the lab will be presented to the people for their review in the fourth quarter, and by the end of the year, a ‘national transformation plan’ will be unveiled after incorporating the views of the people into the plan
-
-The Government has gazetted an economic transformation bill (available at: http://www.documents.gov.lk/files/bill/2024/5/487-2024_E.pdf) to be taken up in Parliament soon. According to State Minister of Finance Shehan Semasinghe, the objective of the bill is to prevent future economic collapses, an ambitious target by any standard (available at: https://www.news.lk/news/political-current-affairs/item/36414-economic-transformation-bill-and-public-financial-management-bill-to-parliament-on-may-22).
-
-...
-
-[Data](articles/f207cae6.json)
-
-[Extended Data](ext_articles/f207cae6.ext.json)
 
 ---

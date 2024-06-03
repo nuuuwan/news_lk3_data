@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-04 03:52:36**
+As of **2024-06-04 04:04:48**
 
 ## Newspaper Stats
 
-*Scraped **28,224** Articles*
+*Scraped **28,225** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,604
 dailyftlk | 1,666
 adalk | 2,408
 adaderanalk | 3,209
-tamilmirrorlk | 3,308
+tamilmirrorlk | 3,309
 virakesarilk | 4,346
 dailymirrorlk | 4,468
 adaderanasinhalalk | 4,529
@@ -26,11 +26,31 @@ adaderanasinhalalk | 4,529
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,224 (100.0%) of 28,224 articles have been extended.
+28,224 (100.0%) of 28,225 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-04 (Tuesday)
+
+### இந்திய தேர்தல் இன்று முடிவு
+
+*2024-06-04 02:43:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்திய-தேர்தல்-இன்று-முடிவு/175-338393) · `ta`
+
+இந்தியாவில் ஏழாவது கட்ட மக்களவைத் தேர்தல் முடிவடைந்ததையடுத்து வெளியான கருத்துக் கணிப்புகளில், ஆளும் பாரதிய ஜனதா கட்சி பெரும்பான்மை பெறும் என கணிக்கப்பட்டுள்ளது.
+
+பா.ஜ.க. தலைமையிலான தேசிய ஜனநாயகக் கூட்டணி மற்றும் எதிர்க்கட்சியான இந்தியா கூட்டணியின் தலைவர்கள் இதற்கு எதிர்வினையாற்றியுள்ளனர்.
+
+கடைசிக் கட்ட தேர்தல் பிரசாரம் முடிந்ததும், பிரதமர் நரேந்திர மோதி கன்னியாகுமரிக்குச் சென்று சுமார் 45 மணிநேரம் தியானம் செய்தார். மூன்றாவது பதவிக் காலத்திற்கு தேர்ந்தெடுக்கப்பட்டால் செயல்படுத்த வேண்டியவை தொடர்பான '100 நாள் நிகழ்ச்சி நிரல்' கூட்டத்தை பிரதமர்  (ஞாயிற்றுக்கிழமை) நடத்தினார்.
+
+பாஜக தனித்து 370 இடங்களிலும், தேசிய ஜனநாயகக் கூட்டணி 400 இடங்களிலும் வெற்றி பெறும் என்று பாஜக தேசியத் தலைவர் ஜேபி நட்டா கூறினார்.
+
+இதற்கிடையில், சனிக்கிழமை எதிர்க்கட்சிகள் கூடி எதிர்கால வியூகம் குறித்து ஆலோசித்தன. இந்தியா கூட்டணி 295 இடங்களுக்கு மேல் வெற்றி பெறும் என காங்கிரஸ் தலைவர் மல்லிகார்ஜுன கார்கே தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/14a17c4a.json)
+
+---
 
 ### Range Bandara defends proposal to postpone Presidential Election
 
@@ -2197,33 +2217,5 @@ Japan was owed 2,359 million dollars of which 291.2 million was in arrears.
 [Data](articles/374ff6d3.json)
 
 [Extended Data](ext_articles/374ff6d3.ext.json)
-
----
-
-### A major tube of the black oil in Colombo
-
-*2024-06-03 15:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197336) · `si`
-
-In Colombo, a major pipeline of the Kithawa Network Treatment Plant was repaired after facing issues due to inclement weather. The National Water Supply and Drainage Board announced that water supply would resume from 6 am to 9 am and again at 10 am. Affected areas include Galagedara, Padukka, Godagama, Homagama, Pannipitiya, Pelanuwa, Boragoda, Maharagama, Boralesgamuwa, Pepiligama, and Pepiliyana. The board requested the public to conserve water during these periods.
-
-🟩
-
-The section of a major pipeline of the Kithawa Network Treatment Plant with inclement weather has been rescued.
-
-The National Water Supply and Drainage Board issued a statement.
-
-According to the Water Supply, the Water Supply Board says that the water supply is being carried out from 6 am to 9 am and 10 o'clock in the morning.
-
-Water will provide water in Galagedara, Padukka, Godagama, Homagama, Pannipitiya, Pelanuwa, Boragoda, Maharagama, Boralesgamuwa, Pepiligama, and Pepiliyana areas.
-
-The statement further states that the main soil pipe is already incurred to recover the main stubulation in the security forces and other parties.
-
-Also, the Water Supply Council requests the public to use water from the latter and use water from the moment.
-
-◼️
-
-[Data](articles/6dc1297b.json)
-
-[Extended Data](ext_articles/6dc1297b.ext.json)
 
 ---

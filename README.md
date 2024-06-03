@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-03 15:53:36**
+As of **2024-06-03 16:08:13**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,508
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,104 (100.0%) of 28,105 articles have been extended.
+28,105 (100.0%) of 28,105 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1214,19 +1214,31 @@ The Road Development Authority has said that vehicles are unable to get out and 
 
 ---
 
-### විශේෂ අවශ්‍යතා ඇති සිසුවා දිනක්වත් පාසල් නොගොස් උපෙළ සමත් වෙයි
+### Student with special needs pass the school for a day
 
 *2024-06-03 11:04:55* · [`adalk`](https://www.ada.lk/picture_story/විශේෂ-අවශ්‍යතා-ඇති-සිසුවා-දිනක්වත්-පාසල්-නොගොස්-උපෙළ-සමත්-වෙයි/10-409979) · `si`
 
-කොඳු  ඇට පෙළ  ඇදවීමේ අසාමාන්‍ය රෝගයකින් පෙළෙන සිසුවෙකු උසස් පෙළ විෂයන් හැදෑරීමට එක් දිනක් හෝ පාසල් නොගොස් නිවසේ සිට තනිව පාඩම් කටයුතු සිදු කරමින්  උසස් පෙළ විභාගය සමත්වීමට සමත්වකම් දැක්වීමේ පුවතක් ගිනිගත්හේන ප්‍රදේශයෙන් වාර්තාවේ.
+Keerthi Chandrasiri, a student with a rare spinal condition, successfully passed his GCE A/L exams from home, showcasing resilience despite financial challenges and health limitations. His journey involved overcoming significant obstacles, including high transportation costs and the need for specialized care, but with support from his school and family, he achieved academic success, setting an inspiring example for others facing similar circumstances.
 
-ගිනිගත්හේන, පිටවල, කැළණිගම  ප්‍රදේශයේ පදිංචිව සිටින එම්. කීර්ති චන්ද්‍රසිරි නැමැති මෙම සිසුවා මෙරව උසස් පෙළ විභාගයට මුහුණ  දී ඉදිරිපත් වු විෂයන් තුනට එස් සාමාර්ථයන් ලබා ගැනීමට හැකියාව ලැබී තිබේ.
+🟩
 
-කොඳු  ඇට පේළියේ අසාමාන්‍ය වෙනස්වීමත්, මස් පිඩු දියවීම යන රෝගවලින් පෙළෙන මෙම සිසුවාට ඇවිදයාමට නොහැකි අතර, සාමාන්‍ය පෙළ විභාගයට මුහුණදීමට ඔවු ගොස් ඇත්තේ සිය සහෝදරයාගේ කර මතිනි. මෙම සිසුවා පදිංචි නිවස ඇත්තේද පඩි වලින් බැස යන ආකාරයේ දුෂ්කර භූමි භාගයක වන අතර, එසේ සාමාන්‍ය පෙළ විභාගයට සහෝදරයාගේ කර මතින් ගොස් මුහුණ  දී ඉන් සමත්ව උසස් පෙළ විභාගයට මෙසේ තනිව නිවසේ සිට මුහුණ දීමට පියවර ගෙන ඇත්තේ පාසල් යාමට දිනකට අධික මුදලක් වැයවීම හේතුවෙනි.
+A student with an unusual illness to pull the spine to study the GCE A / L examination from home, reports from Ginigathhena.
+
+A residing in Ginigathena, Pitawala, Kelanigama. The two subjects that Keerthi Chandrasiri had been able to face the 3 subject of subjects.
+
+This student cannot walk with the abnormal changing of the spine and melting in the spline melting disease.. The student residents in the resident of the resident of the house is due to the arrival of the GCE Advanced Level Examination due to a week's money to go to school.
+
+The Smithira has taken place for the subject of teachers of Ginigathena Central College.
+
+The mother of Keerthi Chandrasiri student named Keerthi Chandrasiri student. G. Mrs. Gunawardee said:
+
+"My child didn't go to the GCE A / L examination. Because he costs a lot of money to take schools. But at home, I went to Mount Mount and went to the mountain and took my baby from the pitched road from outside to Ginigathena Central College.
 
 ...
 
 [Data](articles/9a26775d.json)
+
+[Extended Data](ext_articles/9a26775d.ext.json)
 
 ---
 

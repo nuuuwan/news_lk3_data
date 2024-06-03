@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-04 00:18:53**
+As of **2024-06-04 00:34:29**
 
 ## Newspaper Stats
 
-*Scraped **28,194** Articles*
+*Scraped **28,201** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,39 @@ bbccomsinhala | 277
 newsfirstlk | 363
 islandlk | 1,520
 economynextcom | 1,604
-dailyftlk | 1,644
-adalk | 2,407
+dailyftlk | 1,648
+adalk | 2,408
 adaderanalk | 3,209
 tamilmirrorlk | 3,305
 virakesarilk | 4,344
-dailymirrorlk | 4,466
+dailymirrorlk | 4,468
 adaderanasinhalalk | 4,529
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,193 (100.0%) of 28,194 articles have been extended.
+28,194 (100.0%) of 28,201 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-04 (Tuesday)
+
+### Trade unions must realise their limits - EDITORIAL
+
+*2024-06-04 00:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Trade-unions-must-realise-their-limits-EDITORIAL/172-284035) · `en`
+
+University students in the country have been severely inconvenienced due to administrative functions at state universities continuing to be crippled as a result of the month-long strike by university non-academic staff over their salary anomaly issue and several other demands.
+
+Lectures at the state universities have been forced to be conducted online and many university examinations, international conferences and university convocations have also been indefinitely postponed. University administrations are not in a position to inform students when these can be rescheduled.
+
+Examinations in the Open University have been indefinitely postponed. Those who aspire overseas post-graduate studies are in a fix due to delays in the verification process of degrees and academic transcripts. Those who have completed their degrees are awaiting the end of the strike to obtain their degree certificates and
+
+...
+
+[Data](articles/869d92eb.json)
+
+---
 
 ### O/L Exam mess puts Department of Examinations in soup!
 
@@ -45,6 +61,22 @@ The experience of sitting for an exam is competitive for a child. Having dedicat
 ...
 
 [Data](articles/da92e34b.json)
+
+[Extended Data](ext_articles/da92e34b.ext.json)
+
+---
+
+### “We need to dream new dreams”
+
+*2024-06-04 00:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/We-need-to-dream-new-dreams/172-284034) · `en`
+
+The biggest festival of democracy, the 2024 Lok Sabha Elections is concluding today in our nation, the Mother of Democracy. After a three-day spiritual journey in Kanniyakumari, I have just boarded the plane for Delhi. Through the day, Kashi and numerous other seats have been in the midst of voting.
+
+My mind is filled with so many experiences and emotions... I feel a boundless flow of energy within myself. The 2024 Lok Sabha elections are the first in the Amrit Kaal. I began my campaign a few months ago from Meerut, the land of the First War of Independence of 1857. Since then, I have traversed across the length and breadth of our great nation. The final rally of these elections took me to Hoshiarpur in Punjab, the land of the great Gurus and a land associated with Sant Ravidas Ji. After that, I came to Kanniyakumari, at the feet of Maa Bharti.
+
+...
+
+[Data](articles/f25e32d6.json)
 
 ---
 
@@ -93,6 +125,24 @@ All state schools in the Gampaha and Kelaniya Education Zones and Kaduwela Educa
 [Data](articles/980be800.json)
 
 [Extended Data](ext_articles/980be800.ext.json)
+
+---
+
+### පළමු තරගයෙන් ලංකාවට දරුණු පරාජයක්
+
+*2024-06-03 23:16:40* · [`adalk`](https://www.ada.lk/sports/පළමු-තරගයෙන්-ලංකාවට-දරුණු-පරාජයක්/9-409999) · `si`
+
+විස්සයි20 ලෝක කුසලාන තරගාවලිය ආරම්භ කරමින් ශ්‍ර‍ි ලංකා කණ්ඩායම මුහුණ දුන් පළමු තරගයෙන් දකුණු අප්‍රිකාව හමුවේ කඩුලු 6ක පරාජයක් ලැබිය.
+
+තරගයේ කාසියේ වාසිය දිනා මුලින්ම පන්දුවට පහරදුන් ශ්‍රී ලංකා කණ්ඩායම ලකුණු 77කට සිමා කිරිමට දකුණු අප්‍රිකානු පන්දු යවන්නෝ සමත් වූහ.
+
+එහිදි ඇන්රි් නොට්ජේ පන්දුවාර 4කදි ලකුණු 7ට කඩුලු 4ක් දවා ගැනීමට සමත්විය. ශ්‍රී ලංකා ඉනිමේ ඉහළම ලකුණු ලාභියා වූ කුසල් මෙන්ඩිස් ලකුණු 19ක් රැස් කළේය.
+
+ලකුණු 78ක ඉලක්කයක් හඹා යාමට පිටියට පිවිසි දකුණු අප්‍රිකානුවන් පන්දුවාර 16.2කදී කඩුලු 4ක් දැවි ඉලක්කය පසුකර ගියේය.
+
+◼️
+
+[Data](articles/4233c3c3.json)
 
 ---
 
@@ -279,6 +329,60 @@ The brief answer to this question is easy. The two state solution is to divide t
 [Data](articles/5abbe2fc.json)
 
 [Extended Data](ext_articles/5abbe2fc.ext.json)
+
+---
+
+### Suspension of parate action: An overview
+
+*2024-06-03 21:14:42* · [`dailyftlk`](https://www.ft.lk/columns/Suspension-of-parate-action-An-overview/4-762545) · `en`
+
+The suspension of the parate action which is currently in force will have serious implications to the banks apart from the liquidity crisis which will affect and restrict their ability to lend
+
+My previous article titled “Parate execution: The last option and ‘not’ the first option” was published in the “Daily FT” on 1 January 2024 (https://www.ft.lk/columns/Parate-execution-The-last-option-and-not-the-first-option/4-756888). Considerable interest was expressed by many especially the banking community on this article since I have shared my personal experience for the benefit of all stakeholders.
+
+...
+
+[Data](articles/4e709599.json)
+
+---
+
+### Inflation on what horizon?
+
+*2024-06-03 21:06:56* · [`dailyftlk`](https://www.ft.lk/opinion/Inflation-on-what-horizon/14-762544) · `en`
+
+The Central Bank should be urged to unwind its large Treasury bill holdings, depreciate the currency aggressively, and cut the statutory reserve ratio to encourage risk-taking by banks
+
+Many of us were puzzled by the recent monetary policy announcement where the monetary board chose not to lower interest rates, despite inflation being below 5%. When a journalist questioned the Governor about this, asking if they expected inflation to exceed 5% in the latter half of the year, it was like asking if the emperor had any clothes on. The governor’s response was unclear, referencing a dynamic model before deferring to Dr. S. Jegajeevan, head of the Economic Research Department. Dr. Jegajeevan clarified that they do not foresee inflation approaching 5% later this year.
+
+...
+
+[Data](articles/81c601b4.json)
+
+---
+
+### Postponing elections: Are there limits to popular sovereignty?
+
+*2024-06-03 21:00:28* · [`dailyftlk`](https://www.ft.lk/opinion/Postponing-elections-Are-there-limits-to-popular-sovereignty/14-762543) · `en`
+
+As long as a two-thirds majority in Parliament passes a constitutional amendment or a new constitution and a majority of the People approves the same, are there no limitations to what can be done?
+
+United National Party Secretary Range Bandara’s statement at a media briefing at UNP Headquarters that the terms of the current President and current Parliament should be extended by two years ‘to save the Nation’ has drawn the ire of the people at large, with even the UNP’s ally (for the moment?), the Sri Lanka Podujana Peramuna distancing itself from the proposal. The essence of the people’s response is that the present Parliament has lost its legitimacy, and President Wickremesinghe has been elected not by the People directly but by that very Parliament for the remainder of the term of President Gotabaya Rajapaksa, who was forced to resign.
+
+...
+
+[Data](articles/1cdab102.json)
+
+---
+
+### Sajith Premadasa’s leadership qualities: A critique
+
+*2024-06-03 20:55:57* · [`dailyftlk`](https://www.ft.lk/columns/Sajith-Premadasa-s-leadership-qualities-A-critique/4-762542) · `en`
+
+In the realm of politics, leadership is not just about holding a title; it’s about inspiring, unifying, and driving a collective vision forward. Sajith Premadasa, the leader of the Samagi Jana Balawegaya (SJB), has been a prominent figure in Sri Lankan politics. However, his leadership style raises significant concerns, particularly his consistent use of the pronoun “I.” This individual-centric approach starkly contrasts with the essential qualities of effective leadership, highlighting a critical shortfall in his ability to lead.
+
+...
+
+[Data](articles/1b2b0dcc.json)
 
 ---
 
@@ -2133,151 +2237,5 @@ The Sri Lanka Air Force (SLAF) has kept an SLAF Bell 412 helicopter on standby a
 [Data](articles/8c956371.json)
 
 [Extended Data](ext_articles/8c956371.ext.json)
-
----
-
-### Mexico elects Claudia Sheinbaum as its first woman president
-
-*2024-06-03 14:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/99628/mexico-elects-claudia-sheinbaum-as-its-first-woman-president) · `en`
-
-Mexico’s projected presidential winner Claudia Sheinbaum will become the first woman president in the country’s 200-year history.
-
-“I will become the first woman president of Mexico,” Sheinbaum said with a smile, speaking at a downtown hotel shortly after electoral authorities announced a statistical sample showed she held an irreversible lead. “I don’t make it alone. We’ve all made it, with our heroines who gave us our homeland, with our mothers, our daughters and our granddaughters.”
-
-“We have demonstrated that Mexico is a democratic country with peaceful elections,” she said.
-
-The National Electoral Institute’s president said Sheinbaum had between 58.3% and 60.7% of the vote, according to a statistical sample. Opposition candidate Xóchitl Gálvez had between 26.6% and 28.6% of the vote and Jorge Álvarez Máynez had between 9.9% and 10.8% of the vote. Sheinbaum’s Morena party was also projected to hold majorities in both chambers of Congress.
-
-...
-
-[Data](articles/243b4776.json)
-
-[Extended Data](ext_articles/243b4776.ext.json)
-
----
-
-### UNP gen secy defends call for postponing Sri Lanka poll, claims opposition silent
-
-*2024-06-03 13:59:00* · [`economynextcom`](https://economynext.com/unp-gen-secy-defends-call-for-postponing-sri-lanka-poll-claims-opposition-silent-165871/) · `en`
-
-ECONOMYNEXT — United National Party (UNP) General Secretary Palitha Range Bandara has defended his call for postponing Sri Lanka’s presidential election by two years, claiming that his proposal was not undemocratic nor unconstitutional.
-
-Speaking to reporters at the UNP headquarters Monday June 03 morning, Bandara also claimed that neither opposition leader Sajith Premadasa nor National People’s Power (NPP) leader Anura Kumara Dissanayake have spoken against his proposal.
-
-“I have made no statement that’s undemocratic. My statement was in line with provisions of the constitution,” the former UNP parliamentarian said.
-
-He quoted Section 86 of Chapter XIII of the constitution which says: “The President may, subject to the provisions of Article 85, submit to the People by Referendum any matter which in the opinion of the President is of national importance.”
-
-Sections 87.1, 87.2 also elaborates on the matter and describes the parliament’s role, said Bandara.
-
-...
-
-[Data](articles/b4d34250.json)
-
-[Extended Data](ext_articles/b4d34250.ext.json)
-
----
-
-### Legal action taken against 981 mosquito breeding places
-
-*2024-06-03 13:50:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Legal-action-taken-against-981-mosquito-breeding-places/108-283990) · `en`
-
-Colombo, June 03 (Daily Mirror) -  Legal action will be taken against 981 establishments where mosquito breeding places were detected during the National Mosquito Control Week held from May 26 to June 01, Epidemiology Unit of the Health Ministry said.
-
-According to the statistics, during the past seven days, 93,874 premises had been inspected by special teams and had found 4,890 places which had mosquito larvae.
-
-Furthermore, 25,372 houses were identified as possible mosquito breeding sites.
-
-Accordingly, legal action will be taken against the owners of 981 premises. Notices had been issued for 3,121 premises.
-
-According to the Epidemiology Unit, 25,095 dengue cases have been reported from all over the island as of June 03.
-
-◼️
-
-[Data](articles/5b1a1b65.json)
-
-[Extended Data](ext_articles/5b1a1b65.ext.json)
-
----
-
-### In Mexico's presidential election proceeded
-
-*2024-06-03 13:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197331) · `si`
-
-Claudia Shalobomy, a close ally of ex-President Andrés Manuel López Obrador, leads in Mexico's presidential race with over 56% of the vote, despite opposition from Suchlal Galuses.
-
-🟩
-
-Moreover, Criteria Claologues shadow to win the Mexico presidential election by winning more than 56 percent.
-
-The 61-year-old Cladia Shalobomy Mexico is a close friend of former President Andandraz Manuel Lopez.
-
-It is reported that opposition candidate Suchlal Galuses is announced, but the shinbear is a leading percentage of the votes.
-
-◼️
-
-[Data](articles/a0b806ef.json)
-
-[Extended Data](ext_articles/a0b806ef.ext.json)
-
----
-
-### The operation enclosed a gang of criminal charges
-
-*2024-06-03 13:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197330) · `si`
-
-In the Wellampitiya area, three individuals, including a woman, were arrested on organized criminal charges following a detailed investigation into a criminal network involved in drug trafficking. Seized from them were two T-56 rifles, 4 magazines, 26 live bullets, and 149 grams of heroin. The police claim the suspects rented these weapons for criminal activities and were transporting them for various crimes. This arrest was carried out under the orders of the Criminal Inspector General of Police (IGP) of the Criminal Investigation Department.
-
-🟩
-
-Three persons including a woman with organized criminal charges have been arrested in the Wellampitiya area in the Wellampitiya area.
-
-They were arrested after a lengthy investigation into the names of the criminal network and the criminal network and the criminal network and the criminal network and the drug trafficking.
-
-Two T-56 riffles, 2 magazines, 2 magazines, 26 live bullets and 149 grams of heroin were taken into custody.
-
-Police say they have rented weapons for crime, police said.
-
-They have deleted numbers of these weapons and the suspect arrested for transportation for various crimes.
-
-The suspects were arrested on the instructions of the Criminal Inspector General of Police (IGP) of the Criminal Investigation Department, the Criminal Investigation Department.
-
-◼️
-
-[Data](articles/37905882.json)
-
-[Extended Data](ext_articles/37905882.ext.json)
-
----
-
-### Cement prices drop by Rs.150
-
-*2024-06-03 13:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Cement-prices-drop-by-Rs-150/108-283989) · `en`
-
-Colombo, June 3 (Daily Mirror) - The maximum retail price of a 50 kg bag of cement has been reduced by Rs. 150 with effect from June 1, a cement company said.
-
-Accordingly, the maximum retail price will be Rs 2,250 per 50kg bag.
-
-◼️
-
-[Data](articles/234aef1f.json)
-
-[Extended Data](ext_articles/234aef1f.ext.json)
-
----
-
-### Podimenike engine catches fire at Haputale Railway Station
-
-*2024-06-03 13:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Podimenike-engine-catches-fire-at-Haputale-Railway-Station/108-283988) · `en`
-
-Haputale, June 3 (Daily Mirror)- A fire broke out in the rear engine in Colombo bound Podimenike express from Badulla this afternoon.
-
-Staff at the Haputale Railway Station and the police managed to douse the fire with assistance of the  residents.
-
-◼️
-
-[Data](articles/5da4a23d.json)
-
-[Extended Data](ext_articles/5da4a23d.ext.json)
 
 ---

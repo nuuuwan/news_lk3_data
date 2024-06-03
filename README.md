@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-04 01:52:41**
+As of **2024-06-04 02:04:01**
 
 ## Newspaper Stats
 
-*Scraped **28,205** Articles*
+*Scraped **28,206** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 277
 newsfirstlk | 363
 islandlk | 1,520
 economynextcom | 1,604
-dailyftlk | 1,651
+dailyftlk | 1,652
 adalk | 2,408
 adaderanalk | 3,209
 tamilmirrorlk | 3,305
@@ -26,11 +26,29 @@ adaderanasinhalalk | 4,529
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,205 (100.0%) of 28,205 articles have been extended.
+28,205 (100.0%) of 28,206 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-04 (Tuesday)
+
+### Sinopec opens first renovated filling station with new image, facilities
+
+*2024-06-04 00:51:45* · [`dailyftlk`](https://www.ft.lk/business/Sinopec-opens-first-renovated-filling-station-with-new-image-facilities/34-762566) · `en`
+
+Plans to renovate remaining 149 filling stations over the next three years and explore opportunities for 50 brand new stations
+
+Sinopec Lanka Energy Ltd., yesterday inaugurated its first renovated filling station at a grand re-opening ceremony in Trans Lanka Filling Station, Nawagamuwa, witnessing a major milestone on the company’s first anniversary since entering into Sri Lanka.
+
+After seven months of smooth operation of all 150 stations, this new completion highlights Sinopec’s long-term commitment in revitalising the country’s energy sector. With continuous investments in renovation projects, facilities upgrading, and health, safety and environmental improvements, Sinopec empowers the sustained growth of dealers and partners.
+
+Sinopec’s renovation principles encompass the exterior image and facilities upgrade, the unseen safety measurements that significantly improve safety and environmental protection standards and the training and development of the human resources.
+
+...
+
+[Data](articles/e93d7470.json)
+
+---
 
 ### Sierra Cables expands to Maldives in strategic partnership with ASK Holdings
 
@@ -2241,27 +2259,5 @@ In the new poster of the film, the musician Ilayaraja, the music of the musician
 [Data](articles/94bbe016.json)
 
 [Extended Data](ext_articles/94bbe016.ext.json)
-
----
-
-### Sri Lanka floods kill 15, four rivers still rising
-
-*2024-06-03 14:17:00* · [`economynextcom`](https://economynext.com/water-levels-rising-in-sri-lanka-kalu-nilwala-river-basins-irrigation-department-165849/) · `en`
-
-ECONOMYNEXT – Torrential monsoon rains have killed 15 people in Sri Lanka and left thousands homeless; authorities warn that water levels were still rising in four major rivers.
-
-Water levels in the Kalu and Nilwala rivers, and the Attanagalu Oya were in ‘major flood’ level, while the Gin and Kelani rivers were in ‘minor flood’ level, Sri Lanka’s Department of Irrigation said in a public warning.
-
-The Department of Meteorology has said heavy rain, strong winds and rough seas conditions will continue until tomorrow morning.
-
-The island’s Disaster Management said 3,727 families were hit by floods and landslides. 641 families have been evacuated.
-
-“The Army, Navy, Air Force, Police, and the Civil Defense Force are aiding in rescue operations,” state minister for Defense Premitha Bandara Tennakoon told reporters.
-
-...
-
-[Data](articles/861aaba5.json)
-
-[Extended Data](ext_articles/861aaba5.ext.json)
 
 ---

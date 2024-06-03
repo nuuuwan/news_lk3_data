@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-03 08:12:13**
+As of **2024-06-03 08:20:07**
 
 ## Newspaper Stats
 
-*Scraped **27,995** Articles*
+*Scraped **28,003** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,137 @@ bbccomsinhala | 275
 newsfirstlk | 363
 islandlk | 1,517
 economynextcom | 1,589
-dailyftlk | 1,643
+dailyftlk | 1,644
 adalk | 2,386
-adaderanalk | 3,179
-tamilmirrorlk | 3,277
+adaderanalk | 3,181
+tamilmirrorlk | 3,279
 virakesarilk | 4,320
 dailymirrorlk | 4,436
-adaderanasinhalalk | 4,484
+adaderanasinhalalk | 4,487
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-27,995 (100.0%) of 27,995 articles have been extended.
+27,997 (100.0%) of 28,003 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-03 (Monday)
+
+### 20යි 20 ලෝක කුසලානයේ ශ්‍රී ලංකාව මුහුණ දෙන පළමු තරගය අද
+
+*2024-06-03 08:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197312) · `si`
+
+20යි 20 ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ ශ්‍රී ලංකා කණ්ඩයම සහභාගී වන පළමු තරගය අද (03) පැවැත් වේ.
+
+තරගය නිව්යෝක් හී දී මෙරට වේලාවෙන් අද පස්වරු 08ට ආරම්භ වීමට නියමිතය.
+
+මේ අතර ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ නැමීබියා කණ්ඩායම සහ ඕමාන කණ්ඩායම අතර තරගයත් අද පැවැත් වේ.
+
+◼️
+
+[Data](articles/28740c29.json)
+
+---
+
+### Trains delayed on main line due to signal failures
+
+*2024-06-03 07:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/99609/trains-delayed-on-main-line-due-to-signal-failures) · `en`
+
+The Railway Department announced that signal failures between Pallewela and Ganegoda stations and Veyangoda and Gampaha stations has delayed train services on the main line.
+
+Meanwhile, trains on the Kelani Valley line will terminate at Waga due to the collapse of a bridge, according to Sri Lanka Railways.
+
+◼️
+
+[Data](articles/bda6fe94.json)
+
+---
+
+### Heavy showers expected in parts of the island
+
+*2024-06-03 07:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/99608/heavy-showers-expected-in-parts-of-the-island) · `en`
+
+The Meteorology Department says the prevailing showery conditions are expected to continue in the south-western part of the island today (03).
+
+Showers or thundershowers will occur at times in Western, Sabaragamuwa, Central, Southern and North-western provinces.
+
+Heavy showers of about 100mm are likely at some places in Western and Sabaragamuwa provinces and in Galle and Matara districts, it said.
+
+Showers or thundershowers may occur at several places elsewhere of the island in the evening or night.
+
+General public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/5def28c1.json)
+
+---
+
+### Several fatal accidents - 4 killed
+
+*2024-06-03 07:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197310) · `si`
+
+In separate incidents across the island, four fatalities occurred involving three-wheelers and a motorcyclist. A collision between two three-wheelers near the Wildlife in Mahabage resulted in one fatality and serious injury to another. Another accident involved a three-wheeler heading towards Kottawa, where two passengers died. The victims ranged in age from 19 to 44 years. Additionally, a motorcyclist was killed on the Colombo-Kandy road near Nittambuwa.
+
+🟩
+
+Four persons were killed in terminated in several parts of the island yesterday.
+
+A three-wheeler and a three-wheeler, which was traveling towards the Wildlife in the Wildlife, has collided with a three-wheeler in the Wildlife in the Wildlife in Mahabage.
+
+The driver is seriously injured and rushed to the Ragama hospital.
+
+The deceased is a 19 year old resident of the Ragama area.
+
+Meanwhile, a three-wheeler towards Kottawa, a three-wheeler towards Kottawa, was not controlled by a three-wheeler near the Kottawa area.
+
+Two traversed the three-wheeler driver, three traversed and the driver of the car were rushed to the three car.
+
+The victims were residents of Hikkaduwa and Haputale, the 44 ages.
+
+A motorcycle on the road from Colombo to Mauruthwala Junction on the Nittambuwa, Colombo-Kandy road, has been reported from Colombo to Kandy.
+
+The victim was killed in ruling at Vathupitiwala Hospital.
+
+◼️
+
+[Data](articles/3374449f.json)
+
+[Extended Data](ext_articles/3374449f.ext.json)
+
+---
+
+### Notice from Disaster Management Center
+
+*2024-06-03 07:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197311) · `si`
+
+The Disaster Management Center activated its emergency hotline for the 11th time to address disasters and aid victims. Government agencies are being coordinated to assist, and the police have updated their phone numbers for reporting island-wide disaster situations. The Special Operations Room, supervised by the DIG at the Police Headquarters, can be reached at several numbers for emergency coordination. President Ranil Wickremesinghe has directed the Ministry of Finance to release funds for immediate relief efforts, instructing the construction of temporary shelters within two months through a comprehensive plan led by senior advisors. The Ministries of Public Administration and Defense, along with civil defense organizations, are involved in providing relief to affected areas. The President appreciates the efforts of all officers and assures continued government support for disaster management.
+
+🟩
+
+The 117 Emergency Title Number of the Disaster Management Center has operated the 11th hours of the Disaster Management Center to inform the disaster disasters and provide relief to victims.
+
+The Disaster Management Center stated that action will be taken to connect and facilitate all government agencies and officers who need to directly contribute to the services.
+
+Meanwhile, the police operating number of telephone numbers have been updated by the police to notify disaster situation in the island.
+
+He was established at the Police Headquarters from 6 pm yesterday (02).
+
+The Special Operations Room operates under the supervision of the DIG in charge of the Police Headquarters and to report the necessary coordination and coordinating the emergency situations.
+
+Accordingly, 011 2 42 18 20 can contact the Special Operations Cards on 011 2 42 18.
+
+In addition, the operating room can also provide information on 011 2 43 9, 011 20, 30 30 or 011 20 130 39.
+
+...
+
+[Data](articles/b51a8648.json)
+
+[Extended Data](ext_articles/b51a8648.ext.json)
+
+---
 
 ### Train delay
 
@@ -506,6 +620,20 @@ Golfers may remember how, at the turn of the century, Tiger Woods dominated the 
 
 ---
 
+### Donald Trump’s conviction and what’s next
+
+*2024-06-03 00:39:35* · [`dailyftlk`](https://www.ft.lk/columns/Donald-Trump-s-conviction-and-what-s-next/4-762508) · `en`
+
+Trump will be tried, found guilty of crimes of inciting an insurrection, election interference and espionage, which will see him in prison with the key thrown away. And the Trump years will be just a bad dream
+
+Golfers may remember how, at the turn of the century, Tiger Woods dominated the game of golf to such a degree that the organisations responsible for administering the rules of golf, the Royal & Ancient Golf Club of St. Andrews and the United States Golf Association, were forced to change the rules and conditions of the international courses where major professional golf tournaments were played.
+
+...
+
+[Data](articles/8b1d837c.json)
+
+---
+
 ### Can any candidate achieve 50%+1 at presidential polls - EDITORIAL
 
 *2024-06-03 00:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Can-any-candidate-achieve-50-1-at-presidential-polls-EDITORIAL/172-283932) · `en`
@@ -668,6 +796,24 @@ Consequently, he encouraged anyone with such a plan to present it, and if not, t
 
 ---
 
+### ’பௌத்தத்திற்கு முன்னுரிமை வழங்க வேண்டும்’’
+
+*2024-06-02 23:19:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பௌத்தத்திற்கு-முன்னுரிமை-வழங்க-வேண்டும்/175-338314) · `ta`
+
+அரசியலமைப்பிற்கு அமைவாக பௌத்த மதத்திற்கு முன்னுரிமை வழங்கப்பட வேண்டும் என்று ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+
+ஹோமாகம, கிரிவத்துடுவவில் நிர்மாணிக்கப்பட்ட 'குருதேவ சுவ அரண' பிக்குகளுக்கான நிலையத்தை நேற்று முன்தினம் திறந்து வைத்து உரையாற்றும்போதே ஜனாதிபதி இவ்வாறு தெரிவித்தார்.
+
+கொஹுவளை விகாரையின் விகாராதிபதியாகவும், இலங்கை ரமண்ய நிக்காயாவின் தலைமைப் பதிவாளராவும் இருந்த, மறைந்த வண. மாபாலகம சிறி சோமிஸ்ஸர நாயக்க தேரரின் எண்ணக்கருவுக்கு அமைய இலங்கை மற்றும் வெளிநாட்டு பிக்குகளுக்காக இந்த 'குருதேவ சுவ அரண' நிலையம் அமைக்கப்பட்டுள்ளது.
+
+ஐந்து மாடிக் கட்டடம் கொண்ட இந்த நிலையத்தில், 3 மாடிகளில் அமைக்கப்பட்டுள்ள மருத்துவ நிலையத்தில் ஒரே நேரத்தில் ஐம்பது பிக்குகள் சிகிச்சை பெறலாம். அலுவலக அறைகள், வார்டு, அம்யூலன்ஸ், மருந்தகம், மருத்துவர்களுக்கான தங்குமிடங்கள், அவசர சிகிச்சை பிரிவு உள்ளிட்ட வசதிகள் இங்கு உள்ளன.
+
+...
+
+[Data](articles/dce02e46.json)
+
+---
+
 ### Plan for transforming the economy: Lacking democratic policy governance, will it be another failure?
 
 *2024-06-02 23:07:47* · [`dailyftlk`](https://www.ft.lk/columns/Plan-for-transforming-the-economy-Lacking-democratic-policy-governance-will-it-be-another-failure/4-762495) · `en`
@@ -683,6 +829,22 @@ The Government has gazetted an economic transformation bill (available at: http:
 [Data](articles/f207cae6.json)
 
 [Extended Data](ext_articles/f207cae6.ext.json)
+
+---
+
+### ரயில் சேவைகள் இரத்து
+
+*2024-06-02 22:58:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயில்-சேவைகள்-இரத்து/175-338312) · `ta`
+
+களனிவெளி ரயில் மார்க்கத்தில் அவிசாவளை முதல் கொழும்பு வரை இடம்பெறும், சகல ரயில் சேவைகளும் நேற்று இரத்துச் செய்யப்பட்டன.
+
+கொஸ்கம மற்றும் வக ஆகிய பகுதிகளுக்கு இடையில் உள்ள பாலமொன்று சேதமடைந்துள்ளதாக தெரிவிக்கப்படுகிறது.
+
+இந்த ரயில் மார்க்கத்தில் மொத்தமாக 3 ரயில் சேவைகள் நேற்று  இரத்துச் செய்யப்பட்டன என ரயில்வே திணைக்களத்தின் பிரதி பொது முகாமையாளர் என்.ஜே.இந்திபொலகே தெரிவித்துள்ளார். (a)
+
+◼️
+
+[Data](articles/3e81cee2.json)
 
 ---
 
@@ -1955,187 +2117,5 @@ Tamil political parties' reaction remains uncertain due to historical use of Tam
 [Data](articles/be2f6462.json)
 
 [Extended Data](ext_articles/be2f6462.ext.json)
-
----
-
-### Bossary
-
-*2024-06-02 17:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/185126) · `ta`
-
-Under pressure from public outcry, the government is stepping up efforts to repatriate former soldiers who fought as mercenaries in Russia. This comes after increased attention due to recent events.
-
-🟩
-
-The government has been forced to intensify efforts to recover and bring former soldiers who went to fight as mercenaries in Russia. Following the interventions and pressures of the outbreak, the need to intensify the move.
-
-◼️
-
-[Data](articles/b22e8667.json)
-
-[Extended Data](ext_articles/b22e8667.ext.json)
-
----
-
-### Extreme weather claims seven lives in past 24 hours
-
-*2024-06-02 16:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Extreme-weather-claims-seven-lives-in-past-24-hours/108-283911) · `en`
-
-Colombo, June 02 (Daily Mirror) -  The Disaster Management Center reported seven fatalities due to the ongoing adverse weather conditions in the past 24 hours.
-
-Meanwhile, the Health Ministry has directed all provincial health directors to remain alert and make necessary directive to ensure the safety of people and the smooth function of the hospitals.
-
-Health Ministry Secretary Dr Palitha Mahipala said he is currently on an inspection tour in the Matara area given the severity of the weather condition in the Southern district.
-
-“All arrangements have been made to airlift patients in critical conditions for further treatment,” he said.
-
-He also advised general public not to visit places which have been affected by the bad weather conditions.
-
-◼️
-
-[Data](articles/2d42a98d.json)
-
-[Extended Data](ext_articles/2d42a98d.ext.json)
-
----
-
-### Health officials on alert as extreme weather worsens; nine deaths reported
-
-*2024-06-02 16:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Health-officials-on-alert-as-extreme-weather-worsens-nine-deaths-reported/108-283911) · `en`
-
-Colombo, June 02 (Daily Mirror) -  The Health Ministry has directed all provincial health directors to remain alert and make necessary directive to ensure the safety of people and the smooth function of the hospitals.
-
-Health Ministry Secretary Dr Palitha Mahipala said he is currently on an inspection tour in the Matara area given the severity of the weather condition in the Southern district.
-
-“All arrangements have been made to airlift patients in critical conditions for further treatment,” he said.
-
-He also advised general public not to visit places which have been affected by the bad weather conditions.
-
-Meanwhile, the Disaster Management Center announced the deaths of nine individuals due to the prevailing adverse weather conditions.
-
-◼️
-
-[Data](articles/b85f1721.json)
-
-[Extended Data](ext_articles/b85f1721.ext.json)
-
----
-
-### India is bending Rajapaksa
-
-*2024-06-02 16:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/185120) · `ta`
-
-India's influence over Sri Lanka's politics, particularly with President Rajapaksa, is significant. He'll shape Sri Lanka's relationships with regional and international powers in the Indian Ocean for the next five years.
-
-🟩
-
-The President of Sri Lanka will not be the only leading Sri Lanka for the next five years. Beyond that, he is going to determine the relations and moves with regional and international political forces in the Indian Ocean ...
-
-◼️
-
-[Data](articles/51a57a50.json)
-
-[Extended Data](ext_articles/51a57a50.ext.json)
-
----
-
-### Rescue from a hotel floods
-
-*2024-06-02 16:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197291) · `si`
-
-Horana police rescued 85 people trapped in a hotel due to Maga Oya flood, assisted by local council officers.
-
-🟩
-
-The Horana police have rescued a group of people who had returned to a hotel in Horana.
-
-The group was stuck in the hotel due to Maga Oya.
-
-The officers of the police and the Pradeshiya Sabha were also released to release nearly 85 people in a mission.
-
-◼️
-
-[Data](articles/a70fb7a7.json)
-
-[Extended Data](ext_articles/a70fb7a7.ext.json)
-
----
-
-### Two youths killed in Matara
-
-*2024-06-02 16:43:43* · [`adalk`](https://www.ada.lk/breaking_news/මාතර-යටවෙයි----තරුණයින්-දෙදෙනෙක්-ජීවිතක්ෂයට/11-409966) · `si`
-
-Heavy rains in Matara led to the death of two youths and injuries to five others. The district disaster committee convened to address flooding issues, affecting various regions and roads.
-
-🟩
-
-Director of the Matara District, five persons were killed and five injured in the collapse of heavy rains.
-
-The two youths named Nuwan Sugar (27) and Petewage Sakamuwa (20), Palvagam Salamwala (27) and Palvagamuwa suspension was identified.
-
-Another youth was injured in the accident.
-
-Lieutenant Colonel Arivawansa said that the five accidents were injured in the hospital.
-
-In the meantime, heavy rains have risen to the rising rainfall of the Nilwala River.
-
-The amount of water increased to 7.200 meters yesterday morning, but the amount of water increased by 7.00 meters yesterday.
-
-The small flood level of the Akuressagama Draudagama Water Tribute is 6.00 meters and the great floods is 7.50 meters and 7.50 meters.
-
-Therefore, the Matara District Disaster Committee met yesterday evening yesterday (02) under the patronage of Dadduni Provincial Governor Lakshman Yapa Abeywardena.
-
-...
-
-[Data](articles/60c26697.json)
-
-[Extended Data](ext_articles/60c26697.ext.json)
-
----
-
-### UNP membership for Ranjith
-
-*2024-06-02 16:41:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரஞ்சித்துக்கு-ஐ-தே-க-உறுப்புரிமை/175-338302) · `ta`
-
-After being suspended in 2020, Ranjith Mathuma Bandara, General Secretary of the United People's Power under Opposition Leader Sajith Premadasa, rejoined the United National Party (UNP). This decision was made during a UNP Executive Committee meeting chaired by President Ranil Wickremesinghe at the party's headquarters.
-
-🟩
-
-Ranjith Mathuma Bandara, the General Secretary of the United People's Power, led by Opposition Leader Sajith Premadasa, gave the party membership.
-
-The United National Party (UNP) Executive Committee has decided on Sunday (02) to join the party.
-
-The United National Party (UNP) suspended the party membership of Ranjith Mathuma Bandara in 2020.
-
-The resolution was reached at a meeting of the party headed by United National Party (UNP) leader and president Ranil Wickremesinghe at the party headquarters in Sirikotha on Sunday (02).
-
-◼️
-
-[Data](articles/90d5f352.json)
-
-[Extended Data](ext_articles/90d5f352.ext.json)
-
----
-
-### 12.38 meters in the Black River
-
-*2024-06-02 16:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197290) · `si`
-
-Kalu River's water level rose to 12.38 meters, but it's not flooding in the Milkanda area anymore. The situation remains unchanged according to the Department.
-
-🟩
-
-The Kalu River water levels have increased to 12.38 meters to 12.38 meters to 12.38 meters.
-
-According to the Department, the water level continues.
-
-The small river of the Kalu River is no longer flooding in the Milkanda area.
-
-The department is below the flood level issued by the Department at 3.30 pm today,
-
-◼️
-
-[Data](articles/eb048b98.json)
-
-[Extended Data](ext_articles/eb048b98.ext.json)
 
 ---

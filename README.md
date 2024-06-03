@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-04 00:50:53**
+As of **2024-06-04 01:03:46**
 
 ## Newspaper Stats
 
-*Scraped **28,201** Articles*
+*Scraped **28,204** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 277
 newsfirstlk | 363
 islandlk | 1,520
 economynextcom | 1,604
-dailyftlk | 1,648
+dailyftlk | 1,651
 adalk | 2,408
 adaderanalk | 3,209
 tamilmirrorlk | 3,305
@@ -26,11 +26,59 @@ adaderanasinhalalk | 4,529
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,198 (100.0%) of 28,201 articles have been extended.
+28,201 (100.0%) of 28,204 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-04 (Tuesday)
+
+### Sierra Cables expands to Maldives in strategic partnership with ASK Holdings
+
+*2024-06-04 00:48:42* · [`dailyftlk`](https://www.ft.lk/business/Sierra-Cables-expands-to-Maldives-in-strategic-partnership-with-ASK-Holdings/34-762565) · `en`
+
+From left: Sierra Cables Executive Director and Browns Investments CEO Panduka Weerasingha, Executive Director Shamendra Panditha, Non - Executive Director and LOLC Holdings Group Chief Financial Officer Sunjeevani Kotakadeniya, Sierra Cables CEO Harsha Jayatunga, Maldives’ ASK Holdings Managing Director Zain Hassan, Senior Executive Asim Mohammed, LOLC Group Chief Legal Officer Wasantha Batagoda and Legal Manager Nadeesha Koggalahewa
+
+Sierra Cables PLC, one of Sri Lanka’s pioneering cable manufacturers, recently entered into a strategic partnership with ASK Holdings, a key supplier of hardware, construction and electrical engineering products and services in the Maldives.
+
+The new collaboration between the two will further enhance the distribution, availability of high-quality products and market presence of Sierra Cables in Maldives while contributing to the ongoing development and growth of the region’s infrastructure in keeping with the company’s growing global footprint.
+
+...
+
+[Data](articles/20268969.json)
+
+---
+
+### Colombo City Holdings appoints new directors to Board
+
+*2024-06-04 00:46:11* · [`dailyftlk`](https://www.ft.lk/business/Colombo-City-Holdings-appoints-new-directors-to-Board/34-762564) · `en`
+
+Colombo City Holdings PLC, a subsidiary of Ambeon Holdings PLC, has announced the appointment of three distinguished professionals to its Board of Directors, marking a significant value addition to the company’s governance and strategic direction.
+
+Samresh Kumar and Sharad Sridharan have been appointed as Independent Non-Executive Directors, effective from 29 May 2024. Additionally, Revantha Thashan Devasurendra has joined the Board as a Non-Independent Non-Executive Director, also effective from 29 May 2024.
+
+Concurrently, Y. Kanagasabai has resigned from his position on the Board with effect from 29 May 2024.
+
+...
+
+[Data](articles/9a07c209.json)
+
+---
+
+### Trade Promoters celebrates five years in Maldives
+
+*2024-06-04 00:40:22* · [`dailyftlk`](https://www.ft.lk/business/Trade-Promoters-celebrates-five-years-in-Maldives/34-762563) · `en`
+
+Trade Promoters Ltd. proudly celebrates its five-year milestone of revolutionising Maldives’ energy sector through its appointed dealer Electrify Maldives.
+
+Electrify Maldives representing Cummins in the Maldives, has been at the forefront of providing cutting-edge power solutions backed by a team of over 60 dedicated staff members.
+
+Since its inception, Electrify Maldives has continuously set the standard for excellence in the industry. With its sales office and parts warehouse strategically located in Hulhumale, the company has ensured swift and efficient service to customers across the Maldives archipelago. Currently, Electrify Maldives supports over 115, of the 186 Cummins – populated resorts in the Maldives, with more than 70 resorts as steadfast, long-term clients.
+
+...
+
+[Data](articles/fa3e5743.json)
+
+---
 
 ### Trade unions must realise their limits - EDITORIAL
 
@@ -370,6 +418,8 @@ Many of us were puzzled by the recent monetary policy announcement where the mon
 
 [Data](articles/81c601b4.json)
 
+[Extended Data](ext_articles/81c601b4.ext.json)
+
 ---
 
 ### Postponing elections: Are there limits to popular sovereignty?
@@ -384,6 +434,8 @@ United National Party Secretary Range Bandara’s statement at a media briefing 
 
 [Data](articles/1cdab102.json)
 
+[Extended Data](ext_articles/1cdab102.ext.json)
+
 ---
 
 ### Sajith Premadasa’s leadership qualities: A critique
@@ -395,6 +447,8 @@ In the realm of politics, leadership is not just about holding a title; it’s a
 ...
 
 [Data](articles/1b2b0dcc.json)
+
+[Extended Data](ext_articles/1b2b0dcc.ext.json)
 
 ---
 
@@ -2193,61 +2247,5 @@ The island’s Disaster Management said 3,727 families were hit by floods and la
 [Data](articles/ca86f223.json)
 
 [Extended Data](ext_articles/ca86f223.ext.json)
-
----
-
-### All schools in five districts and educational zone
-
-*2024-06-03 14:15:45* · [`adalk`](https://www.ada.lk/breaking_news/දිස්ත්‍රික්ක-පහක-හා-අධ්‍යාපන-කලාපයක-සියලු-පාසල්/11-409980) · `si`
-
-The Ministry of Education announced a special holiday for all schools in five districts: Kalutara, Hambantota, Sabaragamuwa, and Matara, due to unforeseen circumstances. However, schools in other regions will operate as usual, with local education officials deciding based on advice from zonal directors.
-
-🟩
-
-According to the Ministry of Education, all schools will be given a special vacation tomorrow (4) a special vacation for all three districts in three provinces.
-
-According to the Ministry of Education, all schools in the Kalutara districts of the Hambantota district of the Sabaragamuwa and Matara districts will not be held tomorrow.
-
-The Ministry of Education stated that all other schools in the country will be held tomorrow, except schools in the country, will be held tomorrow, the provincial authorities will make decisions on the basis of the zonal directors.
-
-◼️
-
-[Data](articles/6ec61104.json)
-
-[Extended Data](ext_articles/6ec61104.ext.json)
-
----
-
-### Demonstration
-
-*2024-06-03 14:10:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறிகொத்தா-முன்பாக-ஆர்ப்பாட்டம்/175-338357) · `ta`
-
-Members of the People's Struggle Citizens Organization protested outside the UNP headquarters in Kotte Sirikotha on Monday morning, advocating for 'two crore to the democracy of the people.'
-
-🟩
-
-Some members of the People's Struggle Citizens Organization staged a protest on Monday morning before the UNP headquarters, Kotte Sirikotha.
-
-The struggle was carried out on the theme of 'two crore to the democracy of the people.'
-
-◼️
-
-[Data](articles/96b6eb84.json)
-
-[Extended Data](ext_articles/96b6eb84.ext.json)
-
----
-
-### SLAF helicopter on standby for urgent disaster response
-
-*2024-06-03 14:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/99629/slaf-helicopter-on-standby-for-urgent-disaster-response) · `en`
-
-The Sri Lanka Air Force (SLAF) has kept an SLAF Bell 412 helicopter on standby at the Neluwa Public Grounds to respond immediately to any disaster calls, the SLAF media unit said.
-
-◼️
-
-[Data](articles/8c956371.json)
-
-[Extended Data](ext_articles/8c956371.ext.json)
 
 ---

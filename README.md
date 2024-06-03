@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-04 03:34:14**
+As of **2024-06-04 03:52:36**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,529
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,223 (100.0%) of 28,224 articles have been extended.
+28,224 (100.0%) of 28,224 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -76,23 +76,31 @@ Investigations revealed that financial fraud of Rs. 130 million had occurred via
 
 ---
 
-### 3 பாடங்களிலும் 27,000 பேர் சித்தியடையவில்லை
+### 27,000 in 3 subjects did not pass
 
 *2024-06-04 02:30:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/3-பாடங்களிலும்-27-000-பேர்-சித்தியடையவில்லை/175-338392) · `ta`
 
-இந்த வருடம் உயர்தரப் பரீட்சைக்கு தோற்றியவர்களில் 10.04 வீதமானவர்கள் சகல பாடங்களிலும் சித்தியடைந்துள்ளதாக பரீட்சை ஆணையாளர் நாயகம் அமித் ஜயசுந்தர தெரிவித்துள்ளார்.
+This year, 10.04% of students passed all subjects in the GCE Advanced Level Examination out of 269,613 applicants, with 173,444 eligible for university admission (64.33%). 10,484 passed all three subjects (3.9%), while 27,000 failed in all subjects. The results of 190 applicants were suspended, and gender breakdowns for examiners will be available in 2023.
 
-அதேவேளை பரீட்சைக்கு தோற்றிய 269,613 விண்ணப்பதாரர்களில் 27,970 பேர் சகல பாடங்களிலும் சித்தியடையவில்லை என்றும் பரீட்சை ஆணையாளர் குறிப்பிட்டுள்ளார்.
+🟩
 
-இவ்வருட பரீட்சை பெறுபேறுகள் சாதனை அதிகரிப்பை காட்டுவதாக தெரிவித்த அவர், விண்ணப்பித்தவர்களில் 173,444 பேர் பல்கலைக்கழக அனுமதிக்கு தகுதி பெற்றுள்ளதாகவும் இது 64.33 வீதமாகும் எனவும் தெரிவித்தார்.
+The Commissioner General of Examination Amit Jayasundara said that 10.04 percent of those who have passed the GCE Advanced Level Examination this year have passed all subjects.
 
-மூன்று பாடங்களிலும் 10,484 பரீட்சார்த்திகள் சித்தியடைந்துள்ளதாகவும், இது 3.9 வீதமாகும் எனவும் ஜெயசுந்தர தெரிவித்தார்.
+At the same time, the 269,613 applicants who appeared for the exam did not pass all subjects, the Commissioner of Examinations said.
 
-இவ்வருடம் பரீட்சைக்குத் தோற்றிய 190 விண்ணப்பதாரர்களின் பெறுபேறுகள் நிறுத்தி வைக்கப்பட்டுள்ளதாகவும் அவர்களில் 146 தனியார் விண்ணப்பதாரர்களும் 44 பாடசாலை விண்ணப்பதாரர்களும் உள்ளதாகவும் ஆணையாளர் நாயகம் மேலும் தெரிவித்துள்ளார்.
+He said that this year's exam results show that 173,444 of the applicants were eligible for university admission and it was 64.33 percent.
+
+Jayasundara said that 10,484 candidates have passed in all three subjects and this is 3.9 percent.
+
+The Commissioner General added that the results of the 190 applicants who appeared for the exam this year have been suspended, of which 146 private applicants and 44 school applicants have been suspended.
+
+The Commissioner General of Examinations Amit Jayasundera said that the number of male examiners and the number of female examiners will be shown in the 2023 GCE Advanced Level Examination.
 
 ...
 
 [Data](articles/b5a94dcd.json)
+
+[Extended Data](ext_articles/b5a94dcd.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-04 04:18:56**
+As of **2024-06-04 04:34:29**
 
 ## Newspaper Stats
 
-*Scraped **28,225** Articles*
+*Scraped **28,226** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,604
 dailyftlk | 1,666
 adalk | 2,408
 adaderanalk | 3,209
-tamilmirrorlk | 3,309
+tamilmirrorlk | 3,310
 virakesarilk | 4,346
 dailymirrorlk | 4,468
 adaderanasinhalalk | 4,529
@@ -26,11 +26,25 @@ adaderanasinhalalk | 4,529
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,225 (100.0%) of 28,225 articles have been extended.
+28,225 (100.0%) of 28,226 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-04 (Tuesday)
+
+### ’கோழி கிடைத்தால் புரியாணி போடுங்கள்’
+
+*2024-06-04 03:29:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோழி-கிடைத்தால்-புரியாணி-போடுங்கள்/175-338394) · `ta`
+
+இரத்தினபுரி மாவட்டத்தில் தொடர்ந்து கை தவறி போகும் தமிழ் பாராளுமன்ற பிரதிநிதித்துவத்தை இம்முறை  பெற்றே தீருவோம். ஒன்றேகால் இலட்சம் தமிழர் வாழும், எழுபத்தி ஐயாயிரம் தமிழ் வாக்காளர் வாழும் இரத்தினபுரியில் எம்பி பதவியை பெறுவது எமது உரிமை. அது ஒரு சலுகை அல்ல. ஆகவே அடுத்த முறை எங்கள் வேட்பாளர் சந்திர குமார் இரத்தினபுரி மாவட்டத்தின் எம்பியாக வெற்றி பெற்று வருவார் என்று தமிழ் முற்போக்கு கூட்டணி தலைவர் மனோ கணேசன் கூறியுள்ளார்..
+
+இப்படி எமது கடும் உழைப்பினால் தமிழ் பிரதிநிதித்துவங்களை நமது இனம் பெறுகின்ற சூழல் கூடி வரும் போது, நாய், நரி, பூனை, யானை, காகம், குருவி, கோழி சின்னங்களை தூக்கி கொண்டு வந்து தமிழ் வாக்குகளை சிதறடிக்க இப்போதே சிலர் திட்டம் போடுகிறார்கள். துரோகிகளான இவர்கள் தலைகளில் இடிதான் விழ வேண்டும்.  நாய், நரி, பூனை, காகம், குருவி வந்தால் விரட்டி விடுங்கள். கோழி கிடைத்தால் பிடித்து புரியாணி போடுங்கள் என்றார்.
+
+...
+
+[Data](articles/91436e61.json)
+
+---
 
 ### Indian election today
 
@@ -2199,31 +2213,5 @@ He was instructed to provide immediate relief to the people affected people.
 [Data](articles/6b95bc9b.json)
 
 [Extended Data](ext_articles/6b95bc9b.ext.json)
-
----
-
-### Sri Lanka foreign debt slightly down in March quarter, rupee debt up
-
-*2024-06-03 15:51:00* · [`economynextcom`](https://economynext.com/sri-lanka-foreign-debt-slightly-down-in-march-quarter-rupee-debt-up-165951/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s foreign debt, including sovereign bonds held by domestic investors were marginally down to 37,040 million dollars by March 2023, from 37,334.5 million US dollars in December, official data showed.
-
-The number was only about 500 million dollars up from 36,435 million US dollars released in a debt update last March, despite the World Bank, ADB and the International Monetary Fund giving budget support loans since then.
-
-Multilateral debt was 11,716 million dollars in March, compared to 11,783 in December.
-
-There were no arrears as debt to multilaterals continue to be serviced and the are providing budget support loans on an on-going basis.
-
-Bilateral debt was 10,588.6 million US dollars, with 2,167.5 million dollars in arrears.
-
-The largest creditor was Exim Bank of China with 3,993 million dollars of which 903 million was in arrears.
-
-Japan was owed 2,359 million dollars of which 291.2 million was in arrears.
-
-...
-
-[Data](articles/374ff6d3.json)
-
-[Extended Data](ext_articles/374ff6d3.ext.json)
 
 ---

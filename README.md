@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-04 01:18:56**
+As of **2024-06-04 01:34:09**
 
 ## Newspaper Stats
 
-*Scraped **28,204** Articles*
+*Scraped **28,205** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 1,651
 adalk | 2,408
 adaderanalk | 3,209
 tamilmirrorlk | 3,305
-virakesarilk | 4,344
+virakesarilk | 4,345
 dailymirrorlk | 4,468
 adaderanasinhalalk | 4,529
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,529
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,204 (100.0%) of 28,204 articles have been extended.
+28,204 (100.0%) of 28,205 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -157,6 +157,28 @@ Opener Kusal Mendis (19) and veteran all-rounder Angelo Mathews (16) were the on
 [Data](articles/777a90f7.json)
 
 [Extended Data](ext_articles/777a90f7.ext.json)
+
+---
+
+### சர்வதேச ரி20யில் இலங்கையை குறைந்த மொத்த எண்ணிக்கைக்கு சுருட்டிய தென் ஆபிரிக்காவுக்கு இலகுவான வெற்றி
+
+*2024-06-03 23:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/185248) · `ta`
+
+நியூயோர்க் நசவ் விளையாட்டரங்கில் இன்று நடைபெற்ற 9ஆவது ரி20 உலகக் கிண்ண அத்தியாயத்தின் டி குழுவுக்கான ஆரம்ப போட்டியில் இலங்கையை 77 ஓட்டங்களுக்கு சுருட்டிய தென் ஆபிரிக்கா 6 விக்கெட்களால் மிக இலகுவாக வெற்றிபெற்றது.
+
+அன்றிச் நோக்கியாவின் 4 விக்கெட் குவியலுடனான துல்லியமான பந்துவீச்சு தென் ஆபிரிக்காவின் வெற்றியை இலகுவாக்கியது.
+
+இந்தப் போட்டியில் இலங்கை பெற்ற 77 ஓட்டங்கள் சர்வதேச ரி20 கிரிக்கெட் போட்டி ஒன்றில் இலங்கையினால் பெறப்பட்ட மிகக் குறைந்த மொத்த எண்ணிக்கை ஆகும்.
+
+நசவ் செயற்கை ஆடுகளத்தில் முதல் தடவையாக விளையாடப்பட்ட இந்த சர்வதேச கிரிக்கெட் போட்டியில் இரண்டு அணிகளினதும் வீரர்கள் துடுப்பெடுத்தாடுவதில் சிரமத்தை எதிர்கொண்டனர்.
+
+இந்தப் போட்டி இலங்கையின் பந்துவீச்சுக்கும் தென் ஆபிரிக்காவின் துடுப்பாட்டத்துக்கும் இடையிலான போட்டியாக அமையும் என எதிர்வுகூறப்பட்டது.
+
+ஆனால் இரண்டு அணிகளினதும் பந்துவீச்சாளர்களுக்கும் துடுப்பாட்ட வீரர்களுக்கும் இடையிலான போட்டியாக இது அமைந்திருந்தது.
+
+...
+
+[Data](articles/4a7437d2.json)
 
 ---
 
@@ -2231,27 +2253,5 @@ The island’s Disaster Management said 3,727 families were hit by floods and la
 [Data](articles/861aaba5.json)
 
 [Extended Data](ext_articles/861aaba5.ext.json)
-
----
-
-### Sri Lanka floods kill 15, four rivers still rising
-
-*2024-06-03 14:17:00* · [`economynextcom`](https://economynext.com/sri-lanka-floods-kill-15-four-rivers-still-rising-165849/) · `en`
-
-ECONOMYNEXT – Torrential monsoon rains have killed 15 people in Sri Lanka and left thousands homeless; authorities warn that water levels were still rising in four major rivers.
-
-Water levels in the Kalu and Nilwala rivers, and the Attanagalu Oya were in ‘major flood’ level, while the Gin and Kelani rivers were in ‘minor flood’ level, Sri Lanka’s Department of Irrigation said in a public warning.
-
-The Department of Meteorology has said heavy rain, strong winds and rough seas conditions will continue until tomorrow morning.
-
-The island’s Disaster Management said 3,727 families were hit by floods and landslides. 641 families have been evacuated.
-
-“The Army, Navy, Air Force, Police, and the Civil Defense Force are aiding in rescue operations,” state minister for Defense Premitha Bandara Tennakoon told reporters.
-
-...
-
-[Data](articles/ca86f223.json)
-
-[Extended Data](ext_articles/ca86f223.ext.json)
 
 ---

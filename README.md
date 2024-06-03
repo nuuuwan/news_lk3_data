@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-03 11:04:48**
+As of **2024-06-03 11:19:13**
 
 ## Newspaper Stats
 
-*Scraped **28,031** Articles*
+*Scraped **28,033** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,47 @@ adaderanalk | 3,187
 tamilmirrorlk | 3,282
 virakesarilk | 4,322
 dailymirrorlk | 4,443
-adaderanasinhalalk | 4,493
+adaderanasinhalalk | 4,495
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,030 (100.0%) of 28,031 articles have been extended.
+28,031 (100.0%) of 28,033 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-03 (Monday)
+
+### තිස්සත් සජබයට යයි
+
+*2024-06-03 10:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197320) · `si`
+
+ශ්‍රී ලංකා නිදහස් පක්ෂයේ හිටපු මැදවච්චිය ආසන සංවිධායක මෙන්ම හිටපු අමාත්‍යවරයකු වන තිස්ස කරලියද්ද මහතා විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතාගේ රට ගොඩනගන වැඩපිළිවෙළට සහාය දැක්වීමේ අරමුණින්න සමගි ජන බලවේගය හා එක්ව තිබේ.
+
+අනුරාධපුර දිස්ත්‍රික්කය නියෝජනය කරමින් පාර්ලිමේන්තුවට පිවිසි ඒ මහතා ළමා සංවර්ධන හා කාන්තා කටයුතු පිළිබඳ කැබිනට් අමාත්‍යධුරයේ ද දේශීය වෛද්‍ය අමාත්‍යවරයා ලෙස ද කටයුතු කර තිබේ.
+
+එතුමා සමගි ජන බලවේගයේ මැදවච්චිය ප්‍රදේශයේ සම සංවිධායකවරයා ලෙස පත් කිරීමට විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා කටයුතු කර ඇත.
+
+◼️
+
+[Data](articles/6dfd8955.json)
+
+---
+
+### පිහි පහර කෑ පොලිස් නිලධාරියා මරුට
+
+*2024-06-03 10:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197319) · `si`
+
+පසුගිය සිකුරාදා ජර්මනියේ මෑන්හයිම් ප්‍රදේශයේදී පිහි ප්‍රහාරයකට ලක්වූ පොලිස් නිලධාරියා මියගොස් ඇති බව ජාත්‍යන්තර මාධ්‍ය වාර්තා කරයි.
+
+එම 29 හැවිරිදි පොලිස් පොලිස් නිලධාරියා 25 හැවිරිදි සැකකරුව පාලනය කිරීමට උත්සාහ දැරීමේදී පිහි ප්‍රහාරයට ලක්විය.
+
+◼️
+
+[Data](articles/7d57c8f4.json)
+
+---
 
 ### Australia lifts minimum wage as families grapple with higher living costs
 
@@ -49,6 +79,8 @@ Australian consumer price inflation rose at an annual pace of 3.6% in April, the
 ◼️
 
 [Data](articles/acb485c7.json)
+
+[Extended Data](ext_articles/acb485c7.ext.json)
 
 ---
 
@@ -2153,49 +2185,5 @@ He was arrested following a video circulated on social media, which showed a pri
 [Data](articles/d6ef401c.json)
 
 [Extended Data](ext_articles/d6ef401c.ext.json)
-
----
-
-### Floods malfunction railway signal system
-
-*2024-06-02 19:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Floods-malfunction-railway-signal-system/108-283918) · `en`
-
-Colombo, June 2 (Daily Mirror) - Railway services have been disrupted due to the inundation of several stations, the Railways Department said.
-
-They said the signaling system has been affected due to sudden floods.
-
-Accordingly, errors in the signaling system were recorded at several places on the main, the coastal and the Puttalam lines.
-
-It is reported that some trains may be delayed due to this situation.
-
-Meanwhile, Sri Lanka Railways General Manager N.J. Indipolage said that train services have been disrupted due to trees falling on the track at many locations.
-
-Since a bridge between Waga and Kosgama railway stations was swept away by flood waters, steps have been taken to limit the trains running on the Kelani Valley line only up to the Waga railway station.
-
-◼️
-
-[Data](articles/c9e36781.json)
-
-[Extended Data](ext_articles/c9e36781.ext.json)
-
----
-
-### Driver arrested for driving
-
-*2024-06-02 19:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/185146) · `ta`
-
-Bus driver arrested in Embilipitiya for unspecified reasons.
-
-🟩
-
-The driver of the bus has been arrested by the driver of the bus in connection with the bus.
-
-Police Media Spokesperson Deputy Inspector General of Police Nihal Talduwa said that the suspected bus driver was arrested in Embilipitiya area.
-
-◼️
-
-[Data](articles/e3ab65d8.json)
-
-[Extended Data](ext_articles/e3ab65d8.ext.json)
 
 ---

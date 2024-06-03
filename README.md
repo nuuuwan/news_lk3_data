@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-04 02:04:01**
+As of **2024-06-04 02:18:51**
 
 ## Newspaper Stats
 
-*Scraped **28,206** Articles*
+*Scraped **28,207** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 1,652
 adalk | 2,408
 adaderanalk | 3,209
 tamilmirrorlk | 3,305
-virakesarilk | 4,345
+virakesarilk | 4,346
 dailymirrorlk | 4,468
 adaderanasinhalalk | 4,529
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 4,529
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,205 (100.0%) of 28,206 articles have been extended.
+28,206 (100.0%) of 28,207 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-04 (Tuesday)
+
+### நாடு முழுவதும் 250 புதிய பாலங்கள் நிர்மாணிக்கத் திட்டம் - ஜனாதிபதி
+
+*2024-06-04 01:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/185249) · `ta`
+
+தேசிய மட்ட அபிவிருத்தித் திட்டங்களின் பயனை கிராமப்புற மக்களுக்குப் பெற்றுக்கொடுக்கும் வகையில் வீதி கட்டமைப்பை மேம்படுத்தி நாடு முழுவதும் 250 புதிய பாலங்களை அமைக்கத் திட்டமிட்டுள்ளதாக ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+
+2014-2024 காலப்பகுதியில் நெதர்லாந்து ஜென்சன் பிரிஜிங் நிறுவனத்தினால் இலங்கையின் பல்வேறு பகுதிகளில் 750 கிராமிய பாலங்களை வெற்றிகரமாக நிர்மாணித்து நிறைவு செய்ததை முன்னிட்டு 03 ஆம் திகதி திங்கட்கிழமை முற்பகல் கொழும்பு ஷங்ரிலா ஹோட்டலில் இடம்பெற்ற நிகழ்வில் கலந்து கொண்டு உரையாற்றும் போதே ஜனாதிபதி ரணில் விக்ரமசிங்க இதனைக் குறிப்பிட்டார்.
+
+இந்தப் பாலங்கள் ஊடாக இணைக்கப்பட்டுள்ள பிரதேச மக்களின் வாழ்க்கைத் தரத்தை மேம்படுத்துவதற்கு அரசாங்கம் அர்ப்பணிப்புடன் செயற்படுவதாகத் தெரிவித்த ஜனாதிபதி, நாட்டின் பொருளாதாரம் வளர்ச்சியடையும் போது, குறைந்த வருமானம் பெறும் மக்களும் அதன் மூலம் பயனடைவதை உறுதி செய்ய வேண்டும் என்றும் வலியுறுத்தினார்.
+
+...
+
+[Data](articles/942b9dc2.json)
+
+---
 
 ### Sinopec opens first renovated filling station with new image, facilities
 
@@ -47,6 +63,8 @@ Sinopec’s renovation principles encompass the exterior image and facilities up
 ...
 
 [Data](articles/e93d7470.json)
+
+[Extended Data](ext_articles/e93d7470.ext.json)
 
 ---
 
@@ -2235,29 +2253,5 @@ Sri Lanka's Bell 412 Helicopter Galle has been placed at the Neluwa Public Groun
 [Data](articles/5eb04847.json)
 
 [Extended Data](ext_articles/5eb04847.ext.json)
-
----
-
-### Dhanush starrer 'Ilayaraja' update
-
-*2024-06-03 14:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/185200) · `ta`
-
-Dhanush stars in 'Ilayaraja', a biopic about the legendary composer Ilayaraja, directed by Arun Mateeswaran. The film, set to release on Ilayaraja's birthday, features Dhanush as the lead. Other cast details are pending official announcement. The soundtrack is by Ilayaraja himself, with K. Padma Kumar, Varun Mathur, and Saurab Mishra as co-producers. A new poster was unveiled, showcasing Ilayaraja on stage, stirring excitement among fans. Further updates are promised soon.
-
-🟩
-
-The film crew has released a new poster of 'Ilayaraja', which is ready to embrace the biography of 'Ilayaraja'. Dhanush, the hero of the film and the leading star actor of Tamil cinema, has been released on the birthday of musician Ilayaraja.
-
-Dhanush plays the hero of the film 'Ilayaraja' directed by director Arun Mateeswaran. Details of other actors and actresses who are starring in the film are expected to be officially released soon.
-
-The film is composed by musician Ilayaraja.. K. Padma Kumar, Varun Mathur and Saurab Mishra are co -produced.
-
-In the new poster of the film, the musician Ilayaraja, the music of the musician Ilayaraja is standing on the stage where the people are gathered and the word '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' ''.. In the seventies, the inadequate form of writing has been encouraged by fans. The film crew has said that new information about the film will be released soon.
-
-◼️
-
-[Data](articles/94bbe016.json)
-
-[Extended Data](ext_articles/94bbe016.ext.json)
 
 ---

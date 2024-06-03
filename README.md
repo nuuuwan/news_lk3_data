@@ -1,22 +1,22 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-03 16:18:51**
+As of **2024-06-03 16:33:59**
 
 ## Newspaper Stats
 
-*Scraped **28,117** Articles*
+*Scraped **28,119** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 256
 dbsjeyarajcom | 270
-bbccomsinhala | 275
+bbccomsinhala | 276
 newsfirstlk | 363
 islandlk | 1,519
 economynextcom | 1,597
 dailyftlk | 1,644
 adalk | 2,395
-adaderanalk | 3,201
+adaderanalk | 3,202
 tamilmirrorlk | 3,297
 virakesarilk | 4,335
 dailymirrorlk | 4,454
@@ -26,45 +26,71 @@ adaderanasinhalalk | 4,511
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,105 (100.0%) of 28,117 articles have been extended.
+28,117 (100.0%) of 28,119 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-03 (Monday)
 
-### ජනපති කොළොන්නාවට
+### Litro Gas to reduce prices again
+
+*2024-06-03 16:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/99634/litro-gas-to-reduce-prices-again) · `en`
+
+The prices of Litro domestic LP gas cylinders will be reduced with effect from midnight tomorrow (June 04), Chairman of Litro Gas PLC Muditha Peiris said.
+
+The new prices will be announced tomorrow morning, Mr. Peiris added.
+
+◼️
+
+[Data](articles/e0ee19e9.json)
+
+---
+
+### President to Korena
 
 *2024-06-03 15:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197337) · `si`
 
-අයහපත් කාලගුණය හේතුවෙන් ඇතිව තිබෙන ගංවතුර ඇතුළු ආපදාවන්ගෙන් විපතට පත් ජනතාවගේ සුවදුක් සොයා බැලීම සඳහා ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ වනවිට කොළඹ, කොළොන්නාව ප්‍රදේශයේ නිරීක්ෂණ චාරිකාවක නිරත වී සිටින බව වාර්තා විය.
+President Ranil Wickremesinghe toured Kolonnawa to assess the impact of bad weather on locals' health. He was tasked with providing urgent aid to those affected.
 
-විපතට පත් ජනතාවට කඩිනම් සහන සලසන ලෙස එහිදී ඔහු නිලධාරීන්ට උපදෙස් දෙනු ලැබීය.
+🟩
+
+President Ranil Wickremesinghe has been conducting a tour of the Kolonnawa area in order to look into the health of the affected people, including the inclement weather.
+
+He was instructed to provide immediate relief to the people affected people.
 
 ◼️
 
 [Data](articles/6b95bc9b.json)
 
+[Extended Data](ext_articles/6b95bc9b.ext.json)
+
 ---
 
-### කොළඹට ජලය ගේන කලටුවාවේ ප්‍රධාන නලයක් ගැලවීයයි
+### A major tube of the black oil in Colombo
 
 *2024-06-03 15:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197336) · `si`
 
-අයහපත් කාලගුණික තත්ත්වය සමග කලටුවාව ජාල පවිත්‍රාගාරයේ සිට ක්‍රියාත්මක වන ප්‍රධාන ජල නල සැපයුම් මාර්ගයක කොටසක් ගැලවී ගොස් තිබේ.
+In Colombo, a major pipeline of the Kithawa Network Treatment Plant was repaired after facing issues due to inclement weather. The National Water Supply and Drainage Board announced that water supply would resume from 6 am to 9 am and again at 10 am. Affected areas include Galagedara, Padukka, Godagama, Homagama, Pannipitiya, Pelanuwa, Boragoda, Maharagama, Boralesgamuwa, Pepiligama, and Pepiliyana. The board requested the public to conserve water during these periods.
 
-ජාතික ජල සම්පාදන හා ජලාපවහන මණ්ඩලය නිවේදනයක් නිකුත් කරමින් මේ බව සඳහන් කර ඇත.
+🟩
 
-ඒ අනුව උදෑසන 6 සිට 9 දක්වාත්, සවස 5 සිට රාත්‍රී 9 දක්වාත් ප්‍රදේශ කිහිපයකට අඩු පීඩන තත්ත්වය යටතේ ජල සැපයුම සිදුකරන බව ජල සම්පාදන මණ්ඩලය වැඩිදුරටත් පවසයි.
+The section of a major pipeline of the Kithawa Network Treatment Plant with inclement weather has been rescued.
 
-ගලගෙදර, පාදුක්ක, ගොඩගම, හෝමාගම, පන්නිපිටිය, රුක්මල්ගම, පැලැන්වත්ත මත්තෙගොඩ, මහරගම, බොරලැස්ගමුව සහ පැපිලියාන ප්‍රදේශවලට මෙලෙස අඩු පීඩන තත්ත්වයක් යටතේ ජලය සැපයෙනු ඇත.
+The National Water Supply and Drainage Board issued a statement.
 
-එම නිවේදනයේ වැඩිදුරටත් දැක්වෙන්නේ ආරක්ෂක අංශ සහ අනෙකුත් පාර්ශ්වවල සහායෙන් බිඳ වැටී ඇති ප්‍රධාන ජල නළය කඩිනමින් යථාතත්ත්වයට පත්කිරීමට සමග මේ වනවිටත් පියවර ගෙන ඇති බවය.
+According to the Water Supply, the Water Supply Board says that the water supply is being carried out from 6 am to 9 am and 10 o'clock in the morning.
 
-එසේම මේ මොහොතේ අනවශ්‍ය ලෙස ජලය රැස්කර තබානොගෙන ජලය අරපිරිමැස්මෙන් භාවිත කරන ලෙස ජල සම්පාදන මණ්ඩලය ජනතාවගෙන් ඉල්ලා සිටී.
+Water will provide water in Galagedara, Padukka, Godagama, Homagama, Pannipitiya, Pelanuwa, Boragoda, Maharagama, Boralesgamuwa, Pepiligama, and Pepiliyana areas.
+
+The statement further states that the main soil pipe is already incurred to recover the main stubulation in the security forces and other parties.
+
+Also, the Water Supply Council requests the public to use water from the latter and use water from the moment.
 
 ◼️
 
 [Data](articles/6dc1297b.json)
+
+[Extended Data](ext_articles/6dc1297b.ext.json)
 
 ---
 
@@ -81,6 +107,8 @@ However, the judge bench, which fixed the petition for hearing, ordered that not
 ◼️
 
 [Data](articles/3c133e84.json)
+
+[Extended Data](ext_articles/3c133e84.ext.json)
 
 ---
 
@@ -104,23 +132,29 @@ Haputale railway staff and police have extinguished the fire with the help of th
 
 ---
 
-### යුපුන් ආබාධයකට ලක්වෙයි
+### Following a disorder
 
 *2024-06-03 15:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197335) · `si`
 
-ස්වීඩනයේ ස්ටොක්හෝම් "ඩයමන්ඩ් ලීග්" තරගාවලියේ මීටර් 100 අවසන් තරගයේදී යුපුන් අබේකෝන් බලාපොරොත්තු නොවූ ආබාධයකට ලක්විය.
+Despite initial disappointment due to a disorder in the 100m final of the Stockholm "Diamond League", Sri Lanka's Park Abeykan bounced back with a time of 10.22 seconds in his second race. This performance comes as he gears up for the 2024 Paris Olympics, which start in over 8 weeks.
 
-කෙසේ වෙතත් ඔහු ඊයේ (02) පැවති දෙවැනි කාණ්ඩයේ තරගයේදී තත්පර 10.22ක දක්ෂතාවක් දක්වමින් එම ඉසව්ව ජය ගැනීමට සමත්වුණි.
+🟩
 
-2024 පැරිස් ඔලිම්පික් උළෙලට ආරම්භයට තවත් ඇත්තේ සති 8ක කාලයක් පමණි.
+In the 100m final of the Stockholm "Diamond League", Sweden, was disappointed with an unexpected disorder.
 
-පැරිස් ඔලිම්පික් උළෙලට සුදුසුකම් ලබාගැනීම සඳහා ශ්‍රී ලංකා කෙටිදුර ධාවන ශූර යුපුන් අබේකොන් මේ දිනවල පැවැත්වෙන ස්වීඩනයේ ස්ටොක්හෝම් ඩයමන්ඩ් ලීග් තරගාවලියට එක්වුණි.
+However, he was able to overcome 10.22 seconds in the second match match yesterday (02).
 
-එම කාණ්ඩයේ තරගය ජයගත් යුපුන්ට ස්වීඩනයේ ස්ටොක්හෝම් ඩයමන්ඩ් ලීග් තරගාවලියේ මීටර් 100 ප්‍රධාන ඉසව්ව සඳහා සුදුසුකම් ලබාගැනීමට හැකිවිය.
+The beginning of the 2024 Paris Olympics has more than 8 weeks.
+
+Sri Lanka's Park Abeykan participated in the Paris Olympics
+
+Euups won the 100-meter-major event in Sweden's Stockholm Diamond League, which won the match.
 
 ◼️
 
 [Data](articles/f1eba727.json)
+
+[Extended Data](ext_articles/f1eba727.ext.json)
 
 ---
 
@@ -138,83 +172,121 @@ The relevant petitions have been filed by the Samagi Jana Balawegaya (SJB), Cent
 
 [Data](articles/8cac6344.json)
 
+[Extended Data](ext_articles/8cac6344.ext.json)
+
 ---
 
-### பிரம்மாண்டங்களின் கூட்டணியில் உருவாகி இருக்கும் 'இந்தியன் 2'
+### 'Indian 2' in the alliance of magnitude
 
 *2024-06-03 15:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/185196) · `ta`
 
-''தமிழ் சினிமாவில் இயங்கி வரும் பிரம்மாண்டங்களின் கூட்டணியில் 'இந்தியன் 2' திரைப்படம் உருவாகி இருக்கிறது'' என லைக்கா புரொடக்ஷன்ஸ் நிறுவனத்தின் தலைமை நிர்வாக அதிகாரி ஜி கே எம் தமிழ்குமரன் தெரிவித்திருக்கிறார்.‌
+"Indian 2," a highly anticipated Tamil film, reunites Kamal Haasan with director Shankar, six years after "Enthiran 2.0." Featuring a star-studded cast including Siddharth, Kajal Agarwal, Rakul Preet Singh, Surya, and more, it's set for release in five languages on July 12. The film's music launch at Chennai's Nehru Indoor Stadium saw participation from actors like Silambarasan and directors Lokesh Kanakaraj and Nelson Dileep Kumar. Despite a setback during filming due to an accident, the team persevered, completing the project with support from Red Giant Movies.
 
-இயக்குநர் ஷங்கர் இயக்கத்தில் உருவாகி இருக்கும் 'இந்தியன் 2' திரைப்படத்தில் கமல்ஹாசன், சித்தார்த், காஜல் அகர்வால், ரகுல் ப்ரீத் சிங், எஸ். ஜே. சூர்யா, பாபி சிம்ஹா, பிரியா பவானி சங்கர், பிரம்மானந்தம், சமுத்திரக்கனி, குல்ஷன் குரோவர் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். ரவிவர்மன் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு அனிருத் இசையமைத்திருக்கிறார். இந்த திரைப்படத்தை லைக்கா புரொடக்ஷன்ஸ் மற்றும் ரெட் ஜெயன்ட் மூவிஸ் ஆகிய நிறுவனங்கள் இணைந்து தயாரித்திருக்கிறது.
+🟩
+
+"Indian 2 'has been formed in the alliance of Tamil cinema," said GKM Thamilkumaran, CEO of Leica Productions.
+
+Kamal Haasan, Siddharth, Kajal Agarwal, Rakul Preet Singh, Shankar, directed by director Shankar. J.. Surya, Bobby Simha, Priya Bhavani Shankar, Brahmanandam, Samudrakani, Gulshan Grover and many others have played. Anirudh has composed the film, which is being recorded by Ravi Varman. The film was co -produced by Laika Productions and Red Giant Movies.
+
+The film will be released in Tamil, Telugu, Malayalam, Kannada and Hindi on the 12th of July.. The music release of the film was held at the Nehru Indoor Stadium in Chennai on the first day of June. Actor Silambarasan, directors Lokesh Kanakaraj and Nelson Dileep Kumar participated as special guests.
 
 ...
 
 [Data](articles/6f6c4eac.json)
 
+[Extended Data](ext_articles/6f6c4eac.ext.json)
+
 ---
 
-### அவசர அமைச்சரவை பத்திரம் வருகிறது
+### The emergency cabinet bond comes
 
 *2024-06-03 15:29:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அவசர-அமைச்சரவை-பத்திரம்-வருகிறது/175-338366) · `ta`
 
-மோசமான காலநிலையால் முழுமையாக சேதமடைந்த வீடுகளை முப்படையினரின் உதவியுடன், அரசாங்கத்தின் செலவில் புதிதாக நிர்மாணிப்பதற்கும், பாதிக்கப்பட்ட மக்களுக்கு நிவாரணம் வழங்குவதற்குமான பணிகளை முன்னெடுப்பதற்குத் தேவையான அவசர அமைச்சரவைப் பத்திரமொன்று இன்று சமர்ப்பிக்கப்படவுள்ளது.
+Today, an Emergency Cabinet paper will be submitted to rebuild homes destroyed by bad weather, with military aid, aiming to provide relief to affected individuals. This decision was made after discussions between President Ranil Wickremesinghe and Prime Minister Dinesh Gunawardena.
 
-ஜனாதிபதி ரணில் விக்ரமசிங்கவிற்கும், பிரதமர் தினேஷ் குணவர்தனவுக்கும் இடையில் நடைபெற்ற கலந்துரையாடலின் போது  இந்த விடயம் தீர்மானிக்கப்பட்டது
+🟩
+
+An Emergency Cabinet paper is to be submitted today to carry out the work of constructing the houses that have been completely damaged due to bad weather, with the help of the armed forces, to provide new construction and relieve the affected people.
+
+This was decided during a discussion between President Ranil Wickremesinghe and Prime Minister Dinesh Gunawardena.
 
 ◼️
 
 [Data](articles/6e65c9af.json)
 
+[Extended Data](ext_articles/6e65c9af.ext.json)
+
 ---
 
-### பெருந்தோட்ட தொழிலாளர்களின் சம்பள அதிகரிப்பு வர்தமானி ; நீதிமன்றம் அதிரடி தீர்ப்பு
+### Plantation workers' salary increase;Action Judgment of the Court
 
 *2024-06-03 15:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/185212) · `ta`
 
-பெருந்தோட்ட தொழிலாளர்களின் சம்பளத்தை அதிகரித்து தொழில் அமைச்சு வெளியிட்ட வர்த்தமானிக்கு எதிராக இடைக்கால தடையுத்தரவை வழங்க முடியாதென மேன்முறையீட்டு நீதிமன்றம் இன்று திங்கட்கிழமை (03) தீர்ப்பளித்துள்ளது.
+The Court of Appeal allowed the Ministry of Labor's Gazette increasing plantation workers' salaries to Rs. 1,700 per day, rejecting the Plantation Company's Federation claim that the hike was unfeasible.
 
-ஏப்ரல் மாதம் 30 ஆம் திகதி பெருந்தோட்டத் தொழிலாளர்களுக்கான நாளாந்த சம்பளமாக 1,700 ரூபாவை நிர்ணயித்து தொழில் ஆணையாளரால் வர்த்தமானி வெளியிடப்பட்டிருந்தது.
+🟩
 
-எவ்வாறாயினும், இந்த சம்பள அதிகரிப்பு நடைமுறைச் சாத்தியமற்றது என தெரிவித்து பெருந்தோட்ட நிறுவனங்களின் சம்மேளனம் நீதிமன்றத்தை நாடி இருந்த நிலையில் இந்த தீர்ப்பு வழங்கப்பட்டுள்ளது.
+The Court of Appeal on Monday (Monday) ruled that the Ministry of Labor could not issue an interim injunction against the Gazette released by the Ministry of Labor.
+
+On April 30, the Gazette was issued by the Commissioner of Labor at a daily salary of Rs. 1,700 for plantation workers.
+
+However, the verdict has been issued as the Plantation Company's Federation has sought the court, claiming that the salary increase is impossible.
 
 ◼️
 
 [Data](articles/b91851fc.json)
 
+[Extended Data](ext_articles/b91851fc.ext.json)
+
 ---
 
-### இலஞ்சம் வாங்கிய தமிழ் அதிபருக்கு விளக்கமறியல்
+### Bribery
 
 *2024-06-03 15:26:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலஞ்சம்-வாங்கிய-தமிழ்-அதிபருக்கு-விளக்கமறியல்/175-338364) · `ta`
 
-மதிய உணவுக்கான விலைமனு கோரலை பெற்றுக்கொடுப்பதற்காக, 30 ஆயிரம் ரூபாய் பணத்தை இலஞ்சமாக பெற்றதாக சந்தேகத்தின் பேரில் கைது செய்யப்பட்ட எலியகொட (தமிழ் வித்தியாலயம்) பாடசாலை ஒன்றின் அதிபரை எதிர்வரும் 11ஆம் திகதி வரை விளக்கமறியலில் வைக்குமாறு கொழும்பு பிரதான நீதவான் திலின கமகே திங்கட்கிழமை (03) உத்தரவிட்டுள்ளார்.
+Colombo Chief Magistrate Tilina Kamage ordered the arrest of a Tamil Vidyalaya school principal suspected of accepting a 30,000 rupee bribe for lunch. The principal, also implicated in a separate bribery case on January 21, remains in custody after allegedly receiving partial payment.
 
-கடந்த 21 ஆம் திகதி கைது செய்யப்பட்டு அவிசாவளை நீதிமன்றத்தினால் விளக்கமறியலில் வைக்கப்பட்டிருந்த அதிபரின்  விளக்கமறியலே இவ்வாறு நீடிக்கப்பட்டுள்ளது.
+🟩
 
-விலைமனு கோரலை அனுமதிப்பதற்காக சந்தேகநபர் 30,000 ரூபாவை கேட்டதாகவும், ஆரம்பத்தில் 10 ஆயிரம் ரூபாவை பெற்றுக்கொண்டதாகவும், மீதி 20 ஆயிரம் ரூபாவை பெற்றுக்கொண்ட போதே கைது செய்யப்பட்டதாகவும் இலஞ்சம் அல்லது ஊழல் பற்றிய சார்த்துதல்களைப் புலனாய்வு செய்வதற்கான ஆணைக்குழுவின் அதிகாரிகள் நீதிமன்றத்தின் கவனத்துக்கு கொண்டுவந்தனர்.
+Colombo Chief Magistrate Tilina Kamage on Monday (03) has ordered the principal of a school in Eliyagoda (Tamil Vidyalaya), who was arrested on suspicion of bribing 30 thousand rupees for lunch.
+
+This has been extended by the Chancellor's arrest on the 21st of this month and detained by the Avissawella court.
+
+Officials of the Commission to investigate bribery or corruption were brought to the court's notice that the suspect had asked for 30,000 rupees and had initially received 10 thousand rupees and the remaining 20 thousand rupees.
 
 ◼️
 
 [Data](articles/b9d8d21d.json)
 
+[Extended Data](ext_articles/b9d8d21d.ext.json)
+
 ---
 
-### நல்லிணக்க பொறிமுறைக்கு நீதி அதிகாரம் வழங்கப்படுமா - விசேட நீதிமன்றம் ஸ்தாபிக்கப்படுமா? உண்மை நல்லிணக்க ஆணைக்குழுவின் இடைக்கால செயலகத்தின் பணிப்பாளர் தெரிவிப்பது என்ன?
+### Will Justice Power for Reconciliation Mechanism - Will a Special Court be established?What does the Director of the Interim Secretariat of the Truth Reconciliation Commission report?
 
 *2024-06-03 15:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/185211) · `ta`
 
-உண்மை ஐக்கியம் நல்லிணக்க ஆணைக்குழுவை உருவாக்குவதற்கான சட்டத்தின் நகல்வரைபில் ஆணைக்குழுவிற்கு வழக்குரைஞர் அல்லது நீதித்துறை அதிகாரங்களை வழங்கும் விதத்தில் மாற்றங்களை மேற்கொள்ளலாம் என உண்மை மற்றும் நல்லிணக்க பொறிமுறையின் இடைக்கால செயலகத்தின் பணிப்பாளர் கலாநிதி அசங்க குணவன்ச தெரிவித்துள்ளார்.
+Dr. Asanga Gunawansa, Director of the Interim Secretariat of the Truth and Reconciliation Mechanism, suggests a special court could address reconciliation needs, echoing the President's call for judicial powers in the reconciliation mechanism. He emphasizes the importance of parliamentary approval and constitutional considerations for establishing such a court. The goal is to compensate victims, ensure human rights, and rebuild society post-violence, requiring consensus among stakeholders.
 
-இல்லாவிட்டால் தேவைகளிற்கு தீர்வை காண்பதற்காக விசேட நீதிமன்றத்தை உருவாக்க முடியும் எனவும் அவர் தெரிவித்துள்ளார்.
+🟩
 
-உண்மை நல்லிணக்க பொறிமுறை நீதித்துறை அதிகாரங்களை கொண்டிருக்கவேண்டுமா அல்லது அதன் பரி;ந்துரைகளை அடிப்படையாகவைத்து விசேட நீதிமன்றமொன்றை உருவாக்கவேண்டுமா என தனதுஅரசாங்கம்  ஆராய்ந்து வருவதாக ஜனாதிபதி சமீபத்தில் யாழ்ப்பாணத்தில் தெரிவித்தமை குறித்த ஐலன்ட் நாளிதழின் கேள்விக்கு பதிலளிக்கையில் அவர் இதனை தெரிவித்துள்ளார்.
+Director of the Interim Secretariat of the Truth and Reconciliation Mechanism, Dr. Asanga Gunawansa, said that the Commission to provide the Commission to the Commission to provide the Truth Unity Reconciliation Commission.
 
-எனினும் நீதித்துறை அதிகாரங்களை வழங்குவது விசேட நீதிமன்றத்தை அமைப்பது குறித்து அரசாங்கமே தீர்மானிக்க முடியும்என  அசங்க குணவன்ச தெரிவித்துள்ளார்.
+Otherwise, a special court can be made to find solutions to the needs, he said.
+
+He was responding to the question of the Island newspaper that the President recently stated in Jaffna that the real reconciliation mechanism should have judicial powers or that his government is investigating a special court on its basis.
+
+However, the government can decide on setting up a special court to grant judicial powers, ”he said.
+
+He said that the parliament's need to implement any law, and the proposed law should have a judicial authority or a special court.
+
+He said that if a special court is to be established, the laws of the constitution should be carefully considered and the law of the judiciary.
 
 ...
 
 [Data](articles/cfafa2e5.json)
+
+[Extended Data](ext_articles/cfafa2e5.ext.json)
 
 ---
 
@@ -368,19 +440,25 @@ The Army said it has deployed 20 rescue teams with 17 boats. 25 battalions are o
 
 ---
 
-### දිස්ත්‍රික්ක පහක හා අධ්‍යාපන කලාපයක සියලු පාසල්
+### All schools in five districts and educational zone
 
 *2024-06-03 14:15:45* · [`adalk`](https://www.ada.lk/breaking_news/දිස්ත්‍රික්ක-පහක-හා-අධ්‍යාපන-කලාපයක-සියලු-පාසල්/11-409980) · `si`
 
-පවතින  අයහපත්  කාළගුණික තත්වය මත පළාත් තුනකට අයත් දිස්ත්‍රික්ක පහක හා එක් අධ්‍යාපන කලාපයක සියලු පාසල් සඳහා  හෙට( 4) දින විශේෂ නිවාඩුවක් ලබාදී ඇතැයි අධ්‍යාපන අමාත්‍යාංශය පවසයි.
+The Ministry of Education announced a special holiday for all schools in five districts: Kalutara, Hambantota, Sabaragamuwa, and Matara, due to unforeseen circumstances. However, schools in other regions will operate as usual, with local education officials deciding based on advice from zonal directors.
 
-ඒ අනුව සබරගමුව පළාතේ රත්නපුරය සහ කෑගල්ල දකුණු පළාතේ ගාල්ල සහ මාතර බස්නාහිර පළාතේ කලුතර යන දිස්ත්‍රික්කවල සියලු පාසල් සහ කොළඹ දිස්ත්‍රික්කයේ හෝමාගම අධ්‍යාපන කලාපයේ සියලු පාසල් හෙට දින නොපැවැත්වෙන බව අධ්‍යාපන අමාත්‍යාංශය නිවේදනය කරයි.
+🟩
 
-මෙසේ නොපැවැත්වෙන පාසල් හැර දිවයිනේ අනෙකුත් සියලුම පාසල් සාමාන්‍ය පරිදි හෙට දින පැවැත්වෙන බවත් හෙටින් පසු ඇතිවන කාළගුණික තත්වයන් මත ඒ ඒ පළාත් බලධාරින් විසින් කලාප අධ්‍යක්ෂවරුන් දැනුවත් කර පාසල් පැවැත්වීම පිළිබඳව තීරණ ගන්නා බවද අධ්‍යාපන අමාත්‍යාංශය පැවසීය.
+According to the Ministry of Education, all schools will be given a special vacation tomorrow (4) a special vacation for all three districts in three provinces.
+
+According to the Ministry of Education, all schools in the Kalutara districts of the Hambantota district of the Sabaragamuwa and Matara districts will not be held tomorrow.
+
+The Ministry of Education stated that all other schools in the country will be held tomorrow, except schools in the country, will be held tomorrow, the provincial authorities will make decisions on the basis of the zonal directors.
 
 ◼️
 
 [Data](articles/6ec61104.json)
+
+[Extended Data](ext_articles/6ec61104.ext.json)
 
 ---
 
@@ -559,6 +637,8 @@ Staff at the Haputale Railway Station and the police managed to douse the fire w
 ◼️
 
 [Data](articles/5da4a23d.json)
+
+[Extended Data](ext_articles/5da4a23d.ext.json)
 
 ---
 
@@ -1992,6 +2072,28 @@ The next staff visit is to be made in December, and the next premium will be giv
 
 ---
 
+### ශ්‍රී රාමායන් ට්‍රේල්ස්: සීතාඑළියේ සිදුවන්නේ කුමක් ද?
+
+*2024-06-03 09:29:59* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/czqq01y9jj9o) · `si`
+
+වාල්මිකී නමැති ඉන්දීය ඍෂිවරයෙකු විසින් ක්‍රි.පූ. 7 වන සියවසේ පමණ රචනා කරන ලදැයි සැලකෙන රාමායණය ලෝක සාහිත්‍යයේ දීර්ඝතම පුරාණ වීර කාව්‍යයන්ගෙන් එකක් ලෙස සැලකේ.
+
+රාමා, සීතා සහ රාවණා යන චරිත ගොඩනැගී ඇත්තේ, එම කෘතිය හරහා ය. ශ්ලෝක 24,000ක් සහිත එම කෘතිය කාණ්ඩ 7ක් යටතේ සකස් කර තිබේ.
+
+ඉන්දියාවේ අයෝධ්‍යා රාජ්‍යයේ දශරථ රජුගේ පුත්‍රයෙකු වූ රාමා, සීතා සමග විවාහ වන අතර, රජුගේ වෙනත් බිරිඳකගේ පුත්‍රයෙකු වූ භාරතට රජකම භාර දී වනයට ගොස් වාසය කළ බව එහි කියැවේ.
+
+එහිදී, යක්ෂ ගෝත්‍රිකයින්ට එරෙහිව ක්‍රියා කරන රාමාට එරෙහිව ශ්‍රී ලංකාවේ යක්ෂ අධිපතියෙකු වන රාවණා සටන් කර ඇති බවත්, පළිගැනීමක් වශයෙන් රාමාගේ බිරිඳ වූ සීතා පැහැරගෙන ලංකාද්වීපයට පැමිණ සිර කරගෙන සිටි බවත් රාමායණ කතා පුවතේ සඳහන් වේ.
+
+පසුව, හනුමාන් සමග එක්ව සීතා යළි රැගෙන යාමට රාමා සමත්වූ බව ද එම කතා පුවතේ දැක්වේ.
+
+ඉහත කී පුරවෘත්තය සමග සම්බන්ධ වී ඇති බවට සැලකෙන ශ්‍රී ලංකාවේ ඓතිහාසික ස්ථාන 9ක් 'ශ්‍රී රාමායන් ට්‍රේල්ස්' නමින් සංවර්ධනය කිරීමේ ව්‍යාපෘතියක් පසුගිය අප්‍රේල් 21 වන දා කොළඹදී ආරම්භ කෙරිණි.
+
+...
+
+[Data](articles/d450f8ec.json)
+
+---
+
 ### 6 lakhs 25 thousand rupees generator and grinder theft
 
 *2024-06-03 09:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/185158) · `ta`
@@ -2071,61 +2173,5 @@ Additionally, near the Muruthawela Junction in  Nittambuwa on the Colombo-Kandy
 [Data](articles/a5f99dc5.json)
 
 [Extended Data](ext_articles/a5f99dc5.ext.json)
-
----
-
-### Emergency notice to all people in Sri Lanka
-
-*2024-06-03 09:13:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையிலுள்ள-அனைத்து-மக்களுக்கும்-அவசர-அறிவிப்பு/175-338329) · `ta`
-
-Sri Lanka's Disaster Management Center and police have activated emergency lines (117, 011 2 42 18 20) for round-the-clock assistance during adverse weather conditions. The centers aim to connect affected individuals with necessary services and provide relief.
-
-🟩
-
-The Emergency Telephone number 117 of the Disaster Management Center has been operated for 24 hours.
-
-The action has been taken to announce the emergency conditions and provide relief to the affected people.
-
-The Disaster Management Center said that this would facilitate the connection and facilities of all state institutions and officials that would contribute directly to services.
-
-Meanwhile, the telephone numbers of the Special Operational Room launched by the police have been renewed to announce the emergency conditions in the country due to inclement weather.
-
-Steps have been taken to establish a special section of 24 hours at the police headquarters from 06:00 pm yesterday (02).
-
-Accordingly, the Special Operational Room can be contacted through an emergency telephone number 011 2 42 18 20, the Police Media Unit said.
-
-Also, you can provide information by calling 011 2 43 92 12, 011 20 130 36 or 011 20 130 39.
-
-...
-
-[Data](articles/2e84474a.json)
-
-[Extended Data](ext_articles/2e84474a.ext.json)
-
----
-
-### Special notification on today's weather
-
-*2024-06-03 09:09:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்றைய-வானிலை-குறித்து-விசேட-அறிவிப்பு/175-338328) · `ta`
-
-Today's weather forecast indicates rainfall across several provinces, including the western, central, and southern regions, with potential for heavy rainfall exceeding 100mm in some areas. The Department of Meteorology advises caution against heavy winds and lightning during thunderstorms.
-
-🟩
-
-The Department of Meteorology has said that rainfall is expected to occur in the southwest of the country today (03).
-
-The weather forecast has stated that rainfall or thunderstorms will occur in the Western, Sabaragamuwa, Central, South and North Western provinces.
-
-Heavy rainfall is likely to experience up to 100 millimeters in some places in the Western and Sabaragamuwa Provinces and Galle and Matara districts.
-
-Other parts of the country are likely to experience widespread rain or thunderstorms in the evening or night.
-
-The Department of Meteorology has advised the public to take necessary steps to reduce the dangers of temporary heavy winds and lightning impacts with thunderstorms.. Remble
-
-◼️
-
-[Data](articles/82dd7614.json)
-
-[Extended Data](ext_articles/82dd7614.ext.json)
 
 ---

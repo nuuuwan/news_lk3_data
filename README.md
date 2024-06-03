@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-03 18:53:34**
+As of **2024-06-03 19:03:51**
 
 ## Newspaper Stats
 
-*Scraped **28,151** Articles*
+*Scraped **28,153** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,37 +16,85 @@ islandlk | 1,520
 economynextcom | 1,604
 dailyftlk | 1,644
 adalk | 2,401
-adaderanalk | 3,204
+adaderanalk | 3,205
 tamilmirrorlk | 3,299
 virakesarilk | 4,335
 dailymirrorlk | 4,459
-adaderanasinhalalk | 4,519
+adaderanasinhalalk | 4,520
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,148 (100.0%) of 28,151 articles have been extended.
+28,151 (100.0%) of 28,153 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-03 (Monday)
 
-### දුම්රියේ ගමන්කළ විදේශිකයෙකුට අත්වූ අවාසනාවන්ත ඉරණම
+### 119ට බොරු කී පුද්ගලයාට ලැබුණු දඬුවම මෙන්න
+
+*2024-06-03 18:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197346) · `si`
+
+119 පොලිස් හදිසි ඇමතුම් අංකයට ව්‍යාජ තොරතුරු සඳහන් ඇමතුමක් ලබාදුන් පුද්ගලයෙකුට වසර 5ක අත්හිටවූ සිරදඬුවම් නියම කර තිබේ.
+
+සැකකරු අද හැටන් මහෙස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමෙන් අනතුරුව දිසා විනිසුරු එම් ෆරුක්ඩීන් මහතා මහතා මෙම නියෝගය ලබාදී ඇත.
+
+පසුගිය වසරේ නොවැම්බර් මස 06 වනදා සැකකරු විසින් 119 පොලිස් හදිසි ඇමතුම් අංකය වෙත ඇමතුමක් ලබාදෙමින් සඳහන් කර ඇත්තේ ගිනිගත්හේන පොලිස් ස්ථානයේ නිලධාරීන් මත්පැන් සාදයක් පවත්වන බවය.
+
+එම තොරතුර මත හැටන් සහකාර පොලිස් අධිකාරී එම් ෆාරුක් මහතා ගිනිගත්හේන පොලිස් ස්ථානය වෙත ගොස් හදිසි පරීක්ෂා කිරීමක් සිදුකර ඇති අතර එහිදී අදාළ තොරතුර ව්‍යාජ තොරතුරක් බවට අනාවරණය වී තිබුණි.
+
+ඒ අනුව සැකකාර ඇමතුම ලබාදුන් පුද්ගලයා සම්බන්ධයෙන් පරීක්ෂණයක් සිදුකර සැකකරු වරද පිළිගැනීමෙන් අනතුරුව ඔහුට මෙලෙස අත්හිටවූ සිර දඬුවම් නියම කර තිබුණි.
+
+අධිකරණය එහිදී සැකකරුට වැඩිදුරටත් නියෝග කර ඇත්තේ විමර්ශනය සිදුකළ පොලිස් නිලධාරියා වෙත රුපියල් 10,000ක මුදලක් ද ගෙවන ලෙසටය.
+
+◼️
+
+[Data](articles/394d6469.json)
+
+---
+
+### Multiple charges against bus driver arrested for driving along railway track
+
+*2024-06-03 18:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/99637/multiple-charges-against-bus-driver-arrested-for-driving-along-railway-track) · `en`
+
+The Avissawella Magistrate’s Court has ordered for the driver of the private bus that was driven along the railway track in the Puwakpitiya area, to be remanded in custody until June 14.
+
+The bus driver, who was arrested in the Embilipitiya area yesterday (02), was produced before the court today (03).
+
+Police have filed several charges against the driver including attempted murder, driving while his driving license has been suspended, driving under the influence of intoxicating drugs and causing damage to government property.
+
+Meanwhile, the bus in question has also been taken into police custody.
+
+A video of a private passenger bus being driven along the railway tracks parallel to a congested main road had sparked controversy across social media on Sunday (02).
+
+◼️
+
+[Data](articles/f051cfce.json)
+
+---
+
+### The unhappy fate of a foreigner traveled on the train
 
 *2024-06-03 18:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197345) · `si`
 
-දුම්රියේ ගමන්ගත් විදේශිකයෙකු දුම්රිය උමගක ගැටීමෙන් අවාසනාවන්ත ලෙස ජීවිතක්ෂයට පත්ව තිබේ.
+A foreigner died in a train crash between Nanu Oya and Idalgasinnna stations while traveling from Colombo Fort to Badulla. The body was taken to Haputale Railway Station.
 
-කොළඹ කොටුව සිට බදුල්ල බලා ධාවනය වූ දුම්රියෙන් ඇල්ල බලා ගමන්කරමින් සිටි විදේශිකයෙකු මෙලෙස මියගොස් ඇත.
+🟩
 
-අප වාර්තාකරු සඳහන් කළේ නානුඔය සහ ඉදල්ගස්හින්න දුම්රිය ස්ථාන අතර ඇති අංක 19 දුම්රිය උමගේ ගැටීමෙන් මෙම විදේශිකයා මියගොස් ඇති බවය.
+A foreigner traveling on the train was dies after collision with the train tunnel.
 
-විදේශිකයාගේ සිරුර එම දුම්රියෙන්ම හපුතලේ දුම්රිය ස්ථානය වෙත රැගෙනවිත් තිබුණි.
+The deceased has been identified as a train traveling from Colombo Fort to Badulla.
+
+Our correspondent stated that the foreigner was killed when the number 19 trains collided between Nanu Oya and Idalgagasinna railway stations.
+
+The body of the foreigner was brought to the Haputale Railway Station.
 
 ◼️
 
 [Data](articles/91a9f4cb.json)
+
+[Extended Data](ext_articles/91a9f4cb.ext.json)
 
 ---
 
@@ -78,19 +126,25 @@ With the adverse weather conditions that were running along the railway line wit
 
 ---
 
-### சுரங்கத்தில் மோதுண்டவர் மரணம்
+### Death
 
 *2024-06-03 18:04:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/சுரங்கத்தில்-மோதுண்டவர்-மரணம்/76-338372) · `ta`
 
-கொழும்பு கோட்டையிலிருந்து பதுளை நோக்கி பயணித்த உடரட்ட மெனிகே ரயிலில் பயணித்த வெளிநாட்டவர் சுரங்கத்தில் மோதியதில்   உயிரிழந்துள்ளதாக நானுஓயா புகையிரத நிலைய அதிகாரி ஒருவர் தெரிவித்தார்.
+A foreign tourist traveling from Colombo Fort to Badulla died after colliding with a mine near the 19th railway tunnel between Nanuoya and I Italkashinna stations. The body was found and transported to Haputtala railway station by railway security officers.
 
-கொழும்பு கோட்டையிலிருந்து பதுளைக்கு பயணத்த ரயிலில் எல்ல புகையிரத நிலையத்திற்கு பயணித்த வெளிநாட்டவர் புகையிரத சுரங்கப்பாதையில் திங்கட்கிழமை (03) மோதுண்டு மாலை 4 மணியளவில் உயிரிழந்துள்ளார்.
+🟩
 
-நானுஓயா மற்றும் இதல்கஸ்ஹின்ன புகையிரத நிலையங்களுக்கு இடையிலான 19வது புகையிரத சுரங்கப்பாதைக்கு அருகில் குறித்த வெளிநாட்டவர் சடலமாக மீட்கப்பட்டார், உயிரிழந்த வெளிநாட்டவரின் சடலம் புகையிரத பாதுகாப்பு உத்தியோகத்தர்களால் ஹப்புத்தளை புகையிரத நிலையத்திற்கு எடுத்துச் செல்லப்பட்டதாகவும் அதிகாரி தெரிவித்தார்.
+A Nanuoya Railway Station official said that a foreigner who was traveling from the Fort to Badulla to Badulla was killed when a foreigner collided with a mine.
+
+A foreigner who was traveling to Ella Railway Station on a train from Colombo Fort to Badulla died at 4 pm on Monday (03).
+
+The official said that the body of a foreigner was recovered near the 19th railway tunnel between Nanuoya and I Italkashinna railway stations, and the body of the deceased was taken to the Haputtala railway station by railway security officers.
 
 ◼️
 
 [Data](articles/a7d74fe5.json)
+
+[Extended Data](ext_articles/a7d74fe5.ext.json)
 
 ---
 
@@ -116,25 +170,35 @@ Strong winds and heavy rains have brought down trees across power lines and tran
 
 ---
 
-### මුල්ලේරියාව සහ IDH රෝහල වෙනත් ස්ථාන‍යකට
+### Mulleriyawa and IDH hospital to another location
 
 *2024-06-03 17:55:04* · [`adalk`](https://www.ada.lk/breaking_news/මුල්ලේරියාව-සහ-IDH-රෝහල-වෙනත්-ස්ථාන‍යකට/11-409996) · `si`
 
-ආපදා තත්ත්වයෙන් විපතට පත් ජනතාවගේ සුව දුක් විමසීමට ජනපති කොළොන්නාව, කැලණිය සහ අඹතලේ ප්‍රදේශවල නිරීක්ෂණ චාරිකාවක
+President Ranil Wickremesinghe visited flood-hit areas, instructing against new constructions in the Kelani River Valley to prevent future flooding. He emphasized the importance of protecting properties in shelters and ensuring clean drinking water. The government is also focusing on immediate relief efforts and long-term solutions to mitigate the impact of disasters.
 
-ගං වතුර පාලනය කිරීම සඳහා කැලණි ගං මිටියාවතේ නව ඉදිකිරීම් සඳහා අවසර නොදෙන ලෙස නිලධාරීන්ට උපදෙස්.
+🟩
 
-ආරක්ෂිත මධ්‍යස්ථානවල රැඳී සිටින ජනතාවගේ නිවාස සහ දේපළ ආරක්ෂා කිරීම වෙනුවෙන් විශේෂ වැඩපිළිවෙළක්.
+President visits Kolonnawa, Kelaniya and Ambatale areas to consult the victims of disaster
 
-ආපදා තත්ත්වය පහව යන තුරු ජනතාවට අවශ්‍ය සහන සැලසීමට ත්‍රිවිධ හමුදා නිලධාරින්ගෙන් සමන්විත තාවකාලික මධ්‍යස්ථානයක්.
+Officers instructed to not allow new construction of Kelani River Valley to control flooding water.
 
-ගං වතුර පාලනය කිරීම සඳහා කැලණි ගං මිටියාවතේ නව ඉදිකිරීම් සඳහා අවසර නොදෙන ලෙස ජනාධිපති රනිල් වික්‍රමසිංහ මහතා නිලධාරීන්ට උපදෙස් ලබා දුන්නේය.
+A special program to protect the homes and property of the people who are staying in the safe centers.
 
-එම ප්‍රදේශ ආශ්‍රිතව අනවසර ගොඩකිරීම් ද වහාම නැවැත්වීමට පියවර ගන්නා ලෙසත්, මුල්ලේරියාව සහ IDHරෝහල වෙනත් ස්ථාන‍යකට ගෙන යාමටත් ජනාධිපතිවරයා නිලධාරීන්ට උපදෙස් දුන්නේය.
+Until the disaster situation, the people is a temporary hub for the armed forces to provide relief to the masses.
+
+President Ranil Wickremesinghe instructed the officials not to allow the new construction of Kelani River Valley to control flooding.
+
+The President instructed the officials to take immediate steps to stop the unauthorized reclamation in the area.
+
+President Ranil Wickremesinghe visited the discussion in Kolonnawa, Kelaniya and Ambatale, Konannawa today (03)..
+
+Ancient Rajamaha Viharaya, Sedawatta, Sedawatta, Sedawatta, Sedawatta, is Kolonnawa Terrence .S. The President informed the officials of the people who came to the Safety Centers of Silva College and Wellampitiya.
 
 ...
 
 [Data](articles/e1de9a36.json)
+
+[Extended Data](ext_articles/e1de9a36.ext.json)
 
 ---
 
@@ -2107,45 +2171,5 @@ Khan finished with figures of three wickets for seven runs off three overs.
 [Data](articles/477708c7.json)
 
 [Extended Data](ext_articles/477708c7.ext.json)
-
----
-
-### Former Minister Tissa Karaliyadde joins SJB
-
-*2024-06-03 11:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/99617/former-minister-tissa-karaliyadde-joins-sjb) · `en`
-
-The former Medawachchiya Constituency Organizer of the Sri Lanka Freedom Party (SLFP), former minister Tissa Karalliyadde has joined the Samagi Jana Balawegaya (SJB).
-
-Karalliyadde was Sri Lanka’s former Cabinet Minister of Child Development and Women’s Affairs and a Member of Parliament representing the Anuradhapura District. He is an Agriculturist by profession.
-
-Subsequently, Opposition Leader Sajith Premadasa has appointed Karalliyadde as the co-organizer of SJB’s Medawachchiya Constituency.
-
-◼️
-
-[Data](articles/2cc109e2.json)
-
-[Extended Data](ext_articles/2cc109e2.ext.json)
-
----
-
-### 93 year old Rupert Murdoch gets married again
-
-*2024-06-03 11:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197321) · `si`
-
-Rupert Murdoch, 93, marries 67-year-old retired Russian biologist Wendi Deng for the fifth time. They have six children from Australia.
-
-🟩
-
-It is reported that Rupit Murdoch, who is considered an international media field, has been married for the 5th consecutive year.
-
-93 year old is Rupet Murdoch's bride, 67-year-old Eliy. She is a retired Russian biologist.
-
-There are six children at Australia born in Australia.
-
-◼️
-
-[Data](articles/fffe3d50.json)
-
-[Extended Data](ext_articles/fffe3d50.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-03 23:03:59**
+As of **2024-06-03 23:18:52**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,527
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,186 (100.0%) of 28,188 articles have been extended.
+28,188 (100.0%) of 28,188 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ Meanwhile, the President has instructed that the money to be spent on the celebr
 ...
 
 [Data](articles/c4b9925b.json)
+
+[Extended Data](ext_articles/c4b9925b.ext.json)
 
 ---
 
@@ -850,19 +852,25 @@ Therefore, a decision has been taken to provide drinking water from the Kalatuwa
 
 ---
 
-### මැතිවරණ කල් දැමීමට රජය පිඹුරුපත් හදනවා
+### The government is making plans to postpone the elections
 
 *2024-06-03 17:30:38* · [`adalk`](https://www.ada.lk/breaking_news/මැතිවරණ-කල්-දැමීමට-රජය-පිඹුරුපත්-හදනවා/11-409994) · `si`
 
-නොයෙකුත් උපක්‍රම යොදමින් මැතිවරණ කල් දැමීමට රජය පිඹුරුපත් සකසමින් සිටින බවත්, ඒ අනුව එය පරාජය කිරීමට විපක්ෂය එකා මෙන් සටන් කරන බවත් ශ්‍රී ලංකා පොදුජන පෙරමුණෙහි හිටපු සභාපති, පාර්ලිමේන්තු මන්ත්‍රී, මහාචාර්ය ජී.එල්. පීරිස් මහතා අවධාරණය කළේය.
+Sri Lanka's government, led by Professor G.L., is planning to delay elections amidst opposition resistance. Mr. Peiris highlighted the illegitimacy of the current presidency for holding a referendum, asserting the electoral commission's constitutional authority over such matters.
 
-නිදහස ජනතා සභාව විසින් කොළඹදී අද (03දා) පවත්වන ලද මාධ්‍ය හමුවකට එක්වෙමින් ඔහු පෙන්වා දුන්නේ නියමිත කාලයට මැතිවරණ පැවැත්වීම සමාජ ස්ථාවරභාවයෙහි මූලිකාංගයක් වන බවයි.
+🟩
 
-එසේම රජය පාර්ශ්වය මගින් ඉදිරිපත් කරන ජනමත විචාරණයක් පැවැත්වීම නීත්‍යනුකූල හා සදාචාරාත්මක නොවන බවද සඳහන් කළ මන්ත්‍රීවරයා, ජනාධිපතිවරණය පැවැත්වීම සම්බන්ධ දිනවකවානු ඉදිරිපත් කිරීමට ජනාධිපතිවරයාට කිසිදු බලයක් හිමි නොවන බවත්, එහි මූලික කාර්යභාරය ව්‍යවස්ථාවෙන් මැතිවරණ කොමිෂන් සභාවට හිමිවන බවත් පැවසීය.
+The Government of Sri Lanka, Professor G.L, is being prepared to postpone the election using various tactics and that the opposition is fighting like one.. Mr. Peiris emphasized.
+
+Speaking at a media briefing held at a media briefing held in Colombo today (03), he said that the election of the elections would be a key element in due time.
+
+He also said that the president was not legitimate and ethical to preside a referendum on the party's referendum and that the President would not have the power to hold the presidential election and the electoral commission will receive the basic role of the constitution.
 
 ◼️
 
 [Data](articles/1a6ab712.json)
+
+[Extended Data](ext_articles/1a6ab712.ext.json)
 
 ---
 

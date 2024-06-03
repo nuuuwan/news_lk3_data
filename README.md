@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-03 09:18:55**
+As of **2024-06-03 09:34:20**
 
 ## Newspaper Stats
 
-*Scraped **28,013** Articles*
+*Scraped **28,020** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,48 +15,142 @@ newsfirstlk | 363
 islandlk | 1,517
 economynextcom | 1,589
 dailyftlk | 1,644
-adalk | 2,388
-adaderanalk | 3,182
-tamilmirrorlk | 3,280
-virakesarilk | 4,321
-dailymirrorlk | 4,440
-adaderanasinhalalk | 4,488
+adalk | 2,389
+adaderanalk | 3,183
+tamilmirrorlk | 3,282
+virakesarilk | 4,322
+dailymirrorlk | 4,441
+adaderanasinhalalk | 4,489
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,006 (100.0%) of 28,013 articles have been extended.
+28,013 (100.0%) of 28,020 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-03 (Monday)
 
-### ආපදා මරණ 10ක් - 05ක් අතුරුදන්
+### சீரற்ற வானிலையால் உயிரிழந்தவர்களின் எண்ணிக்கை 10 ஆக அதிகரிப்பு
+
+*2024-06-03 09:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/185166) · `ta`
+
+நாட்டில் நிலவும் சீரற்ற வானிலையால் உயிரிழந்தவர்களின் எண்ணிக்கை 10 ஆக அதிகரித்துள்ளதாகபாதுகாப்பு இராஜாங்க அமைச்சர் பிரேமித பண்டார தென்னகோன் உறுதிப்படுத்தியுள்ளார்.
+
+அதேவேளை, ஐந்து பேர் காணமால் போயுள்ளதாகவும், அவர்களை தேடும் நடவடிக்கைகள் முன்னெடுக்கப்பட்டு வருவதாகவும் அவர் தெரிவித்துள்ளார்.
+
+சீரற்ற வானிலையால் தொடர்ச்சியாக மழை பெய்ந்தமையால்  வெள்ளம் மற்றும் நிலச்சரிவு போன்ற இயற்கை அனர்த்தங்கள் பல பிரதேசங்களில் அழிவை ஏற்படுத்தியுள்ளது.
+
+◼️
+
+[Data](articles/75f488d2.json)
+
+---
+
+### Four killed in road accidents in several parts of the island
+
+*2024-06-03 09:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/99611/four-killed-in-road-accidents-in-several-parts-of-the-island) · `en`
+
+Four people have died in separate road accidents in several parts of the island yesterday (02).
+
+Accordingly, a three-wheeler heading towards Tappahenawatta on Mahabage’s 20-foot byroad veered off the road and crashed in to a wall last morning (02).
+
+The driver succumbed to his injuries after being admitted to Ragama Hospital.
+
+Meanwhile, a three-wheeler traveling from Athurugiriya towards Kottawa overturned and collided with an oncoming car near Mendis Bend on the Kottawa-Athurugiriya road last evening (2).
+
+The driver of the three-wheeler, three passengers, and the driver of the car died were admitted to Homagama Hospital. However, two passengers of the three-wheeler had succumbed to injuries.
+
+The deceased were residents of Hikkaduwa and Haputale, aged 42 and 54.
+
+Additionally, near the Muruthawela Junction in  Nittambuwa on the Colombo-Kandy road, a motorcycle traveling from Colombo towards Kandy has collided with a pedestrian last night.
+
+...
+
+[Data](articles/a5f99dc5.json)
+
+---
+
+### இலங்கையிலுள்ள அனைத்து மக்களுக்கும் அவசர அறிவிப்பு
+
+*2024-06-03 09:13:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையிலுள்ள-அனைத்து-மக்களுக்கும்-அவசர-அறிவிப்பு/175-338329) · `ta`
+
+அனர்த்த முகாமைத்துவ மத்திய நிலையத்தின் 117 என்ற அவசர தொலைபேசி இலக்கமானது 24 மணித்தியாலங்களும் செயற்படுத்தப்பட்டுள்ளது.
+
+அவசர நிலமைகள் தொடர்பில் அறிவிக்கவும் பாதிக்கப்பட்ட மக்களுக்கு நிவாரணம் வழங்குவதற்காகவும் இந்த நடவடிக்கை எடுக்கப்பட்டுள்ளது.
+
+சேவைகளுக்கு நேரடியாக பங்களிக்க வேண்டிய அனைத்து அரச நிறுவனங்கள் மற்றும் அதிகாரிகளின் இணைப்பு மற்றும் வசதிகளை இது எளிதாக்கும் என்று அனர்த்த முகாமைத்துவ மத்திய நிலையம் தெரிவித்துள்ளது.
+
+இதற்கிடையில், சீரற்ற வானிலை காரணமாக நாட்டில் ஏற்பட்டுள்ள அவசர நிலைமைகள் குறித்து அறிவிப்பதற்காக பொலிஸாரால் ஆரம்பிக்கப்பட்ட விசேட செயற்பாட்டு அறையின் தொலைபேசி இலக்கங்கள் புதுப்பிக்கப்பட்டுள்ளன.
+
+நேற்று (02) மாலை 06:00 மணி முதல் பொலிஸ் தலைமையகத்தில் 24 மணித்தியாலங்களும் செயற்படுத்தப்படும் விசேட பிரிவை நிறுவுவதற்கு நடவடிக்கை எடுக்கப்பட்டது.
+
+இதன்படி, 011 2 42 18 20 என்ற அவசர தொலைபேசி இலக்கத்தின் ஊடாக விசேட செயற்பாட்டு அறைக்கு தொடர்பு கொள்ள முடியும் என பொலிஸ் ஊடகப் பிரிவு தெரிவித்துள்ளது.
+
+...
+
+[Data](articles/2e84474a.json)
+
+---
+
+### இன்றைய வானிலை குறித்து விசேட அறிவிப்பு
+
+*2024-06-03 09:09:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்றைய-வானிலை-குறித்து-விசேட-அறிவிப்பு/175-338328) · `ta`
+
+நாட்டின் தென்மேற்குப் பகுதியில் இன்றும் (03) மழை பெய்யும் என எதிர்பார்க்கப்படுவதாக வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+
+மேல், சப்ரகமுவ, மத்திய, தெற்கு மற்றும் வடமேல் மாகாணங்களில் அவ்வப்போது மழை அல்லது இடியுடன் கூடிய மழை பெய்யுக்கூடும் என அந்த திணைக்களம் வௌியிட்டுள்ள வானிலை முன்னறிவிப்பில் குறிப்பிடப்பட்டுள்ளது.
+
+மேல் மற்றும் சப்ரகமுவ மாகாணங்களிலும், காலி மற்றும் மாத்தறை மாவட்டங்களிலும் சில இடங்களில் 100 மில்லி மீற்றர் வரை பலத்த மழை பெய்ய வாய்ப்புள்ளது.
+
+நாட்டின் ஏனைய பகுதிகளில் மாலை அல்லது இரவு வேளைகளில் பரவலாக மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும்.
+
+இடியுடன் கூடிய மழையுடன் தற்காலிக பலத்த காற்று மற்றும் மின்னல் தாக்கங்களினால் ஏற்படக்கூடிய ஆபத்துக்களை குறைப்பதற்கு தேவையான நடவடிக்கைகளை மேற்கொள்ளுமாறு வளிமண்டலவியல் திணைக்களம், பொது மக்களை அறிவுறுத்தியுள்ளது. R
+
+◼️
+
+[Data](articles/82dd7614.json)
+
+---
+
+### Disaster deaths - 05 missing
 
 *2024-06-03 08:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197314) · `si`
 
-පවතින අයහපත් කාලගුණ තත්ත්වයත් සමග සිදුවු ආපදා හේතුවෙන් පුද්ගලයින් 10 දෙනෙකු මේ වන විට ජීවිතක්ෂයට පත්ව ඇති බව ආපදා කළමනාකරණ මධ්‍යස්ථානය පවසයි.
+The Disaster Management Center reports 10 fatalities from recent disasters, with 5 individuals still missing.
+
+🟩
+
+The Disaster Management Center (DMC) says that 10 people have been killed in disasters due to the inclement weather.
 
 ◼️
 
 [Data](articles/a7ffbec6.json)
 
+[Extended Data](ext_articles/a7ffbec6.ext.json)
+
 ---
 
-### சமிக்ஞை கோளாறு ; பிரதான மார்க்கத்தில் ரயில் சேவை தாமதம்
+### Signal disorder;Rail service delay in main route
 
 *2024-06-03 08:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/185164) · `ta`
 
-பல்லேவெல மற்றும் கணேகொட  ரயில் நிலையங்களுக்கும், வெயங்கொட மற்றும் கம்பஹா ரயில் நிலையங்களுக்கும் இடையில் ஏற்பட்டுள்ள சமிக்ஞை கோளாறு காரணமாக பிரதான ரயில் மார்க்கத்தில் ரயில் சேவை தாமதம் ஏற்பட்டுள்ளதாக ரயில் திணைக்கள இணை முகாமையாளர் ஜெ. என். இந்திபொலகே தெரிவித்துள்ளார்.
+Due to inclement weather and flooding, several trains are delayed across various routes, including the main route. Additionally, a bridge between Vaikkam and Koskama stations on the Kelaniweli route is temporarily closed, affecting rail services.
 
-நிலவும் சீரற்ற காலநிலையால் பிரதான மார்க்கம், கரையோர மார்க்கம் மற்றும் புத்தளம் மார்க்கம் மற்றும்  பல இடங்களில் வெள்ளப் பெருக்கு ஏற்பட்டுள்ள நிலையில், சமிக்ஞை அமைப்பில் கோளாறு ஏற்பட்டுள்ளதால் சில ரயில்கள் தாமதமாக வருவதாகவும் அவர் தெரிவித்துள்ளார்.
+🟩
 
-மேலும், வாக மற்றும் கொஸ்கம ரயில் நிலையங்களுக்கு இடையிலான பாலம் ஒன்று வெள்ளத்தில் இடிந்து வீழ்ந்துள்ளதால் களனிவெளி மார்க்கத்தில் பயணிக்கும் ரயில் வாக ரயில் நிலையம் வரை மட்டுப்படுத்தப்பட்டுள்ளது.
+Joint Manager of the Railway Department, J.. My. Said IndiPollake.
+
+He said that some trains are delayed due to the inclement weather, the main religion, the coastal religion and the floods and many other places and many other areas.
+
+In addition, a bridge between Vaikkam and Koskama railway stations has been restricted to the railway station on the Kelaniweli route.
 
 ◼️
 
 [Data](articles/057d04b8.json)
+
+[Extended Data](ext_articles/057d04b8.ext.json)
 
 ---
 
@@ -75,6 +169,24 @@ According to the 2023 UNODC World Drug Report, the threefold increase in methamp
 ...
 
 [Data](articles/1b32946f.json)
+
+[Extended Data](ext_articles/1b32946f.ext.json)
+
+---
+
+### මූල්‍ය අරමුදලෙන් දුන් සහතිකය
+
+*2024-06-03 08:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197313) · `si`
+
+ජාත්‍යන්තර මූල්‍ය අරමුදලේ ජූනි 12 දිනට යෙදී තිබෙන කාර්ය මණ්ඩල රැස්වීම් න්‍යාය පත්‍රයේ විස්තීරණ ණය පහසුකම (EFF) යටතේ ශ්‍රී ලංකාව සඳහා වන IV  වන උපදේශනය සහ දෙවන සමාලෝචනය සිදුකරන බව මුදල් රාජ්‍ය අමාත්‍ය ශෙහාන් සේමසිංහ මහතා පවසයි.
+
+සිය X ගිණුමේ සටහනක් තබමින් අමාත්‍යවරයා පවසන්නේ, මෙම සැසියේ දී ශ්‍රී ලංකාවේ ආර්ථික ප්‍රතිපත්ති සහ ප්‍රතිසංස්කරණ ප්‍රගතිය ඇගයීමට ලක්කරනු ඇති බවය.
+
+ආර්ථික ස්ථාවරත්වය, වර්ධනය සහ ප්‍රතිසංස්කරණ ප්‍රයත්නයන් තවදුරටත් ඉහළ නංවන තුන්වන වාරිකය මුදාහැරීම සඳහා සාර්ථක සමාලෝචනයකට සියලුම රටවල අඛණ්ඩ සහයෝගය ශ්‍රී ලංකාව බලාපොරොත්තු වෙන බවද අමාත්‍යවරයා එහි වැඩිදුරටත් සඳහන් කර තිබේ.
+
+◼️
+
+[Data](articles/6d6bc666.json)
 
 ---
 
@@ -95,6 +207,24 @@ IMF staff and the Sri Lankan authorities have reached a staff-level agreement on
 [Data](articles/3306b690.json)
 
 [Extended Data](ext_articles/3306b690.ext.json)
+
+---
+
+### වරකාපොල නිවසක් නාය යයි - සුන්බුන් අතර සිරව‍ සිටි තිදෙනෙක් බේරා ගැනෙති
+
+*2024-06-03 08:09:51* · [`adalk`](https://www.ada.lk/picture_story/වරකාපොල-නිවසක්-නාය-යයි---සුන්බුන්-අතර-සිරව‍-සිටි-තිදෙනෙක්-බේරා-ගැනෙති/10-409973) · `si`
+
+ඊයේ පටන් වරකාපොලට නොකඩවා ඇඳ හැලෙන වර්ෂාව හමුවේ වරකාපොල, මෙනේරිපිටිය නිවසක් මතට පස් කන්දක් නාය යාමෙන් එම නිවස සම්පූර්ණයෙන්ම විනාශ වී තිබේ.
+
+එහි සුන්බුන් අතර සිරවි සිටි තිදෙනෙකු ප්‍ර දේශවාසීන් විසින් අද අලුයම් කාලයේදී බේරා ගෙන වරකාපොල රෝහලට ඇතුළත් කරනු ලැබිය.
+
+නිවසේ සිව් දෙනෙකු සිට ඇති අතර මව මුලින්ම සුන් බුන් අතරින් පිටතට විසින් අසල්වාසීන් දැනුවත් කර පියා, දියණිය හා දියණියගේ යෙහෙළියක් බේරා ගැනීමට සමත්ව තිබේ.
+
+එ ්වන විටත් වරකාපොල නගරය ජලයෙන් යටවී තිබූ හෙයින් 1990 සුව සැරිය ගිලන් රථයද ලබා ගැනිමට නොහැකි වූ අතර පසුව වරකාපොල පොලිසියේ ජිප් රථයක් පැමිණ තුවාලකරුවන් කඩිනමින් රෝහල් ගත කිරිමට පියවර ගත්තේය.
+
+◼️
+
+[Data](articles/b7fef806.json)
 
 ---
 
@@ -468,6 +598,26 @@ In this regard, the Mathrubhumi Association of Mathrubhumi Association, Fisherme
 
 ---
 
+### Colombo Port’s transshipment growth slows to single digits in April
+
+*2024-06-03 03:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Colombo-Ports-transshipment-growth-slows-to-single-digits-in-April/108-283945) · `en`
+
+In April, the Port of Colombo saw its transshipment volume growth slowing down to single digits, after experiencing double-digit growth rates in the past four months, backed by the disruptions in the Red Sea, caused by Yemen’s Houthi rebels.
+
+In the month, the transshipment volumes handled by the port grew by 8.1 percent year-on-year (YoY) to 525,936 twenty-foot equivalent units (TEUs), recording the lowest growth rate since November
+
+However, the overall container throughput at the Port of Colombo grew by 10.2 percent YoY to 626,926 TEUs, with rising imports.
+
+In April, the import container (laden) volumes were up by 22.7 percent YoY to 36,457 TEUs, while the export container (laden) volumes rose by 6.6 percent YoY to 21,816 TEUs.
+
+Meanwhile, the restowing volumes at the port jumped by 60.9 percent YoY to 19,957 TEUs in
+
+...
+
+[Data](articles/e7b44690.json)
+
+---
+
 ### If the democratic rule of the people is to be held in the country, the election should be held - Charles MP
 
 *2024-06-03 03:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/185160) · `ta`
@@ -582,6 +732,8 @@ The rising trade deficit wasn’t something to be alarmed of as it reflects that
 
 [Data](articles/b44fcfdd.json)
 
+[Extended Data](ext_articles/b44fcfdd.ext.json)
+
 ---
 
 ### Construction sector upbeat over rising activities
@@ -601,6 +753,8 @@ The PMI dedicated for construction sector activities unsurprisingly contracted d
 ...
 
 [Data](articles/8cee5163.json)
+
+[Extended Data](ext_articles/8cee5163.ext.json)
 
 ---
 
@@ -896,19 +1050,25 @@ Earlier, the visitors managed 136/8, with Sese Bau scoring 50. Alzarri Joseph an
 
 ---
 
-### ’விமர்சனம் எளிது, தீர்வு காண்பது கடினமானது’
+### The telephone review is simple, the solution is difficult to find
 
 *2024-06-02 23:27:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விமர்சனம்-எளிது-தீர்வு-காண்பது-கடினமானது/175-338315) · `ta`
 
-நாட்டின் பொருளாதாரம் ஸ்திரத்தன்மை அடைந்துள்ள நிலையில், மீண்டும் பழைமையான அரசியலில் ஈடுபடலாம் என எவரும் எண்ணிவிடக் கூடாது. முறையான திட்டத்தினூடாகவே நாட்டை முன்னோக்கிக் கொண்டு செல்ல முடியும் என்று ஜனாதிபதி ரணில் விக்கிரமசிங்க வலியுறுத்தினார்.
+President Ranil Wickremesinghe emphasized the need for a solid economic recovery plan during a UNP meeting, highlighting the difficulty of securing funds outside IMF assistance. He criticized those proposing negotiations with the IMF without understanding the complexities, urging support for his proposed economic exchange law to avoid further economic decline.
 
-ஐக்கிய தேசியக் கட்சியின் பிரதேச அமைப்பாளர்களுக்கான நியமனக் கடிதங்கள் வழங்கும் நிகழ்வு நேற்று பிற்பகல் சிறிகொத்த கட்சித் தலைமையகத்தில் இடம்பெற்றது. இதில் கலந்து கொண்டு உரையாற்றும்போதே ஜனாதிபதி இவ்வாறு குறிப்பிட்டார். அவர் மேலும் தெரிவிக்கையில்,
+🟩
 
-சர்வதேச நாணய நிதியம் இன்றி பணம் பெற வேறு வழியில்லை. எதையாவது பேசலாம். ஆனால் தீர்வு இல்லை. சர்வதேச நாணய நிதியத்துடன் மீண்டும் பேச்சுவார்த்தை நடத்தப் போவதாக சிலர் கூறுகின்றனர். கடைக்குச் சென்று இன்னும் ஒரு மாதம் கடன் தருமாறு முதலாளியிடம் கேட்பதைப் போன்று இவற்றைச் செய்ய முடியாது. இதைப் புரிந்து கொள்ளாதவர்கள் இதைப் பற்றி பேசுகிறார்கள். இரண்டு வருடங்கள் இதைப் பற்றி பேச்சுவார்த்தை நடத்த வேண்டியிருந்தது.
+While the country's economy is stability, no one should think that he can get involved in the oldest politics again. President Ranil Wickremesinghe urged the country to move forward with a proper plan.
+
+The event was held yesterday afternoon at the party headquarters of the United National Party (UNP). The President said this while addressing the gathering. As he further stated,
+
+There is no other option to get money without the IMF. Can talk about something. But there is no solution. Some say they are going to negotiate with the IMF. Can't do these as the employer asks the shop to go to the shop and give a loan one more month. Those who don't understand this are talking about this. I had to negotiate this for two years.
 
 ...
 
 [Data](articles/8d5ec70a.json)
+
+[Extended Data](ext_articles/8d5ec70a.ext.json)
 
 ---
 
@@ -1999,141 +2159,5 @@ The bus has also seized the bus driver.
 [Data](articles/c32010a0.json)
 
 [Extended Data](ext_articles/c32010a0.ext.json)
-
----
-
-### Main river-out level
-
-*2024-06-02 18:37:03* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රධාන-ගංඟා-පිටාර-මට්ටමේ/11-409968) · `si`
-
-Due to adverse weather, several rivers including the Ging, Ku, Black Ganga, Nilwala, and Kelani have experienced rising water levels, leading to flooding in certain areas.
-
-🟩
-
-The Department of Water and Irrigation states that when the existing adverse weather conditions today (2nd), the four rivers were exhausted today (2nd).. Ging River has grown to 8.35 meters from Thawalama by 12 pm yesterday.. Its water levels are also increasing.
-
-The Ku River, a tributary in the Kalu River, grows up to 9.05m from Milkanda area and has increased to 9.05 meters in Milkanda.
-
-Black Ganga Puwatha, Ellagamuwa, Ratnapura, Area and Kalu River, has grown to a small flood from the coast of the Kalu River. Its water levels are also increasing.
-
-The Nilwala River grew to 6.84 meters from Pitabeddara area and has been flooded.
-
-Kelani Ganga Nagalagammi Velagalagami Velagalagami Velagalagami Velagalagami Velagagalagampedia has increased the water level and increased the water levels from 16.65 meters.
-
-◼️
-
-[Data](articles/a6e76746.json)
-
-[Extended Data](ext_articles/a6e76746.ext.json)
-
----
-
-### Driver of private bus driven along railway tracks in Puwakpitiya arrested
-
-*2024-06-02 18:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/99603/driver-of-private-bus-driven-along-railway-tracks-in-puwakpitiya-arrested) · `en`
-
-The driver of the private bus that was driven along the railway tracks in the Puwakpitiya area has been arrested at Embilipitiya, police said.
-
-Meanwhile, the bus in question has also been taken into police custody, Police Spokesman DIG Nihal Thalduwa said.
-
-A video of a private passenger bus being driven along the railway tracks parallel to a congested main road had sparked controversy across social media on Sunday (02).
-
-◼️
-
-[Data](articles/fab2a835.json)
-
-[Extended Data](ext_articles/fab2a835.ext.json)
-
----
-
-### 4 killed in Ratnapura
-
-*2024-06-02 18:25:36* · [`adalk`](https://www.ada.lk/breaking_news/රත්නපුර-4ක්-මරුට/11-409967) · `si`
-
-Floods in Ratnapura's districts have affected 9398 people across 2575 families, causing four deaths and damaging 88 houses. Relief efforts are underway.
-
-🟩
-
-Ratnapura District Secretary Ratnapura has affected 9398 people from 2575 families, including the floods, which have been caused by the Ratnapura district today (01).Chairman Wasantha Gunaratne said.
-
-The Ratnapura Government Agent Assistant has also enabled eight Divisional Secretariat Divisions in the Ratnapura District.. The Divisional Secretariat Division is Ratnapura, Kuruwita, Apatha, Eheliyagoda, Nivithigala, Ayagama, Kiriella and Pelmadulla.
-
-Four deaths have been reported in the Ratnapura district, a 21-year-old girl in Kiriella Division (a tree is a 11-year-old girl at the Eheliyagoda Division (heavy rain)The District Secretary stated that a man of the Ayagama Division has been reportedly reported as a male in the Ayagama Division (the landslides).
-
-There are 2219 members of 5 239 secured centers in the Ratnapura, Eheliyagoda and Kuruwita due to disasters.
-
-...
-
-[Data](articles/bf9d6f36.json)
-
-[Extended Data](ext_articles/bf9d6f36.ext.json)
-
----
-
-### Range Bandara’s  “Loud Thinking” about Election Postponement Damages   Ranil’s Election Campaign in the Short Term.
-
-*2024-06-02 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84130) · `en`
-
-Sri Lanka’s political stage was enlivened last week by the solo performance of  United National Party (UNP) general -secretary Palitha Range Bandara. Addressing a media briefing on 28 May, the policeman turned politician came out with a suggestion that the presidential election due this year and the Parliamentary election scheduled for next year should be postponed while the terms of office for both should be extended by two more years. The former Puttalam district and ex-state minister wanted a resolution passed by Parliament to that effect and ratified by the people at a referendum.
-
-The essence of what Palitha Range Bandara proposed was this -. Ranil Wickremesinghe took over the country’s leadership at a time of a great economic crisis. Considerable progress  has been achieved by the  Wickremesinghe Govt to remedy the situation. A degree of economic stability has been established but more time is needed to ensure greater economic stability.
-
-...
-
-[Data](articles/3cbabeda.json)
-
-[Extended Data](ext_articles/3cbabeda.ext.json)
-
----
-
-### Kaduwela - Piyagama
-
-*2024-06-02 18:12:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடுவெல-பியகம-இடைமாற்றம்-மூடப்பட்டது/175-338307) · `ta`
-
-The re-notification regarding the closure of the Kaduwela-Biyagama interpreter on the southern highway has been issued.
-
-🟩
-
-Re -notification of Kaduwela - Biyagama interpreter on the southern highway has been closed.
-
-◼️
-
-[Data](articles/786137d7.json)
-
-[Extended Data](ext_articles/786137d7.ext.json)
-
----
-
-### Sri Lanka’s Tharushi wins another gold at Taiwan Athletics Open
-
-*2024-06-02 18:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/99602/sri-lankas-tharushi-wins-another-gold-at-taiwan-athletics-open) · `en`
-
-Sri Lankan athlete Tharushi Karunarathna won gold in the Women’s 800 meters event, at the Taiwan Athletics Open 2024 on Sunday (02).
-
-Karunarathna claimed first place in the final with a timing of 2.05.74 minutes.
-
-Meanwhile, she also won gold in the Women’s 400m event with a timing of 52.48 seconds on Saturday (01).
-
-The Taiwan Athletics Open 2024, which was upgraded this year to a leg of the World Athletics Continental Tour, is being held at the Taipei Stadium, Taiwan.
-
-◼️
-
-[Data](articles/9331ec57.json)
-
-[Extended Data](ext_articles/9331ec57.ext.json)
-
----
-
-### Appointment letters to UNP zonal organizers
-
-*2024-06-02 18:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Appointment-letters-to-UNP-zonal-organizers/110-283914) · `en`
-
-President Ranil Wickremesinghe handed over the letters of appointment to United National Party (UNP) zonal organizers at the party headquarters Sirikotha today. Pix by Kithsiri De Mel
-
-◼️
-
-[Data](articles/60bf8a89.json)
-
-[Extended Data](ext_articles/60bf8a89.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-03 15:18:43**
+As of **2024-06-03 15:34:13**
 
 ## Newspaper Stats
 
-*Scraped **28,097** Articles*
+*Scraped **28,104** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,40 @@ dbsjeyarajcom | 270
 bbccomsinhala | 275
 newsfirstlk | 363
 islandlk | 1,519
-economynextcom | 1,591
+economynextcom | 1,597
 dailyftlk | 1,644
 adalk | 2,393
 adaderanalk | 3,199
 tamilmirrorlk | 3,295
 virakesarilk | 4,332
 dailymirrorlk | 4,453
-adaderanasinhalalk | 4,507
+adaderanasinhalalk | 4,508
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,092 (100.0%) of 28,097 articles have been extended.
+28,097 (100.0%) of 28,104 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-03 (Monday)
+
+### වතු සේවකයින්ගේ දෛනික වැටුප සම්බන්ධ ගැසට්ටුව ගැන අධිකරණය දුන් තීන්දුව
+
+*2024-06-03 15:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197333) · `si`
+
+වතු සේවකයින් සඳහා අවම දෛනික වැටුපක් නියම කරමින් කම්කරු අමාත්‍යවරයා විසින් නිකුත් කර තිබෙන ගැසට් නිවේදනයක් ක්‍රියාත්මක කිරීම වළක්වමින් මෙම අවස්ථාවේදී අතුරු තහනම් නියෝගයක් නිකුත් නොකරන බව අභියාචනාධිකරණය තීන්දු කළේය.
+
+අදාළ ගැසට් නිවේදනය බලරහිත කිරීමේ රිට් ආඥාවක් නිකුත් කරන ලෙස ඉල්ලා වැවිලි සමාගම් විසින් ගොනුකර ඇති පෙත්සම විභාගයට ගැනීමට තින්දු කරමින් අධිකරණය විසින් මෙම නියෝගය නිකුත් කරනු ලැබීය.
+
+ඒ අනුව අදාළ පෙත්සමේ වගඋත්තරකරුවන් වශයෙන් නම්කර සිටි කම්කරු අමාත්‍ය මනුෂ නානායක්කාර ඇතුළු පිරිසක් වෙත ජූනි මස 26 වනදා අධිකරණය හමුවේ කරුණු දක්වන ලෙස දන්වා නොතිසි නිකුත් කරන ලෙසත් මිනිසුරු මඩුල්ල නියම කළේය.
+
+◼️
+
+[Data](articles/f68d86c9.json)
+
+---
 
 ### Keheliya and 7 others further remanded, one granted bail
 
@@ -52,47 +68,67 @@ The arrest came hot on the heels of pressure from civil society activists and he
 
 [Data](articles/d31e7228.json)
 
+[Extended Data](ext_articles/d31e7228.ext.json)
+
 ---
 
-### කෙහෙළිය ඇතුළු 8ක් යළි රිමාන්ඩ්
+### Keheliya and eight remanded again
 
 *2024-06-03 14:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197332) · `si`
 
-හිටපු අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල ඇතුළු සැකකරුවන් 08 දෙනෙකු ජුනි මස 14 වනදා දක්වා රක්ෂිත බන්ධනගාරගතකර තිබේ.
+Former Minister Keheliya Rambukwella and seven others were remanded until June 14th after appearing before the Maligakanda Magistrate's Court. Four suspects were released on bail.
 
-සැකකරුවන් මාලිගාකන්ද මහෙස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමෙන් අනතුරුව මෙම නියෝගය ලබාදී ඇත.
+🟩
 
-එම සිද්ධියේ 04 වන සැකකරු ලක්ෂ 05ක ශරීර ඇප දෙකක් සහ ලක්ෂයක මුදල් ඇපයක් මත මුදාහැර තිබේ.
+Eight suspects including former Minister Keheliya Rambukwella and eight suspects have been remanded until June 14.
+
+The suspects were produced before the Maligakanda Magistrate's Court.
+
+The four suspects have been released on two lakhs of bail and a cash bail of Rs.
 
 ◼️
 
 [Data](articles/ed9f1582.json)
 
+[Extended Data](ext_articles/ed9f1582.ext.json)
+
 ---
 
-### இன்றைய நாணய மாற்று விகிதம்
+### Today's currency exchange rate
 
 *2024-06-03 14:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/185205) · `ta`
 
-இன்று திங்கட்கிழமை (ஜூன் 03) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் விற்பனை விலை ரூபா 297.0726 ஆகவும் கொள்வனவு விலை ரூபா 306.6700 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+On June 3rd, the US dollar sold for Rs 297.0726 and bought back for Rs 306.6700.
+
+🟩
+
+The US dollar sales price was Rs 297.0726 and the purchase price was 306.6700 on Monday (June 03).
 
 ◼️
 
 [Data](articles/edbaab3d.json)
 
+[Extended Data](ext_articles/edbaab3d.ext.json)
+
 ---
 
-### பொடி மெனிக்கே ரயிலின் இயந்திரம் திடீரென தீப்பிடித்தது
+### Powder Menie's train's engine suddenly caught fire
 
 *2024-06-03 14:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/185199) · `ta`
 
-பதுளையில் இருந்து கொழும்பு கோட்டை நோக்கி பயணித்த பொடி மெனிக்கே கடுகதி ரயிலின் இயந்திரத்தில் இன்று திங்கட்கிழமை (03) பகல் வேளையில் திடீரென தீப்பிடித்துள்ளது.
+On Monday, the Powder Menikku Kadukathi train en route from Badulla to Colombo Fort unexpectedly caught fire. Local Haputale railway staff, police, and residents quickly extinguished the blaze.
 
-ஹப்புத்தளை ரயில் நிலைய ஊழியர்கள் மற்றும் பொலிஸார் பிரதேசவாசிகளின் உதவியுடன் தீயை அணைத்துள்ளனர்.
+🟩
+
+The Powder Menikku Kadukathi train, which was traveling from Badulla to Colombo Fort, was set on fire on Monday (03).
+
+Haputale railway staff and police have extinguished the fire with the help of the residents of the area.
 
 ◼️
 
 [Data](articles/38a54fc1.json)
+
+[Extended Data](ext_articles/38a54fc1.ext.json)
 
 ---
 
@@ -114,19 +150,47 @@ Sri Lanka's Bell 412 Helicopter Galle has been placed at the Neluwa Public Groun
 
 ---
 
-### தனுஷ் நடிக்கும் 'இளையராஜா' படத்தின் அப்டேட்
+### Dhanush starrer 'Ilayaraja' update
 
 *2024-06-03 14:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/185200) · `ta`
 
-'இசைஞானி' இளையராஜாவின் வாழ்க்கை வரலாற்றை தழுவி தயாராகும் 'இளையராஜா' எனும் திரைப்படத்தின் புதிய போஸ்டரை படக் குழுவினர் வெளியிட்டுள்ளனர். இசைஞானி இளையராஜாவின் பிறந்த நாளை முன்னிட்டு வெளியிடப்பட்டுள்ள இந்த புதிய போஸ்டரை அப்படத்தின் நாயகனும், தமிழ் சினிமாவின் முன்னணி நட்சத்திர நடிகருமான தனுஷ் வெளியிட்டார்.
+Dhanush stars in 'Ilayaraja', a biopic about the legendary composer Ilayaraja, directed by Arun Mateeswaran. The film, set to release on Ilayaraja's birthday, features Dhanush as the lead. Other cast details are pending official announcement. The soundtrack is by Ilayaraja himself, with K. Padma Kumar, Varun Mathur, and Saurab Mishra as co-producers. A new poster was unveiled, showcasing Ilayaraja on stage, stirring excitement among fans. Further updates are promised soon.
 
-இயக்குநர் அருண் மாதேஸ்வரன் இயக்கத்தில் உருவாகவிருக்கும் 'இளையராஜா' எனும் திரைப்படத்தில் தனுஷ் கதையின் நாயகனாக நடிக்கிறார். இந்தத் திரைப்படத்தில் தனுசுடன் நடிக்கும் ஏனைய நடிகர்கள், நடிகைகள் பற்றிய விவரங்கள் விரைவில் அதிகாரப்பூர்வமாக வெளியிடப்படும் என எதிர்பார்க்கப்படுகிறது.
+🟩
 
-நீரவ் ஷா ஒளிப்பதிவு செய்யும் இந்த திரைப்படத்திற்கு இசை ஞானி இளையராஜா இசையமைக்கிறார்.‌ இந்தத் திரைப்படத்தை தயாரிப்பாளர்கள் ஸ்ரீராம் பக்தசரண், இளம்பரிதி கஜேந்திரன், சி. கே. பத்ம குமார், வருண் மாத்தூர், சௌரப் மிஸ்ரா ஆகியோர் இணைந்து தயாரிக்கிறார்கள்.
+The film crew has released a new poster of 'Ilayaraja', which is ready to embrace the biography of 'Ilayaraja'. Dhanush, the hero of the film and the leading star actor of Tamil cinema, has been released on the birthday of musician Ilayaraja.
+
+Dhanush plays the hero of the film 'Ilayaraja' directed by director Arun Mateeswaran. Details of other actors and actresses who are starring in the film are expected to be officially released soon.
+
+The film is composed by musician Ilayaraja.. K. Padma Kumar, Varun Mathur and Saurab Mishra are co -produced.
+
+In the new poster of the film, the musician Ilayaraja, the music of the musician Ilayaraja is standing on the stage where the people are gathered and the word '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' ''.. In the seventies, the inadequate form of writing has been encouraged by fans. The film crew has said that new information about the film will be released soon.
+
+◼️
+
+[Data](articles/94bbe016.json)
+
+[Extended Data](ext_articles/94bbe016.ext.json)
+
+---
+
+### Water levels rising in Sri Lanka Kalu, Nilwala river basins: Irrigation Department
+
+*2024-06-03 14:17:00* · [`economynextcom`](https://economynext.com/water-levels-rising-in-sri-lanka-kalu-nilwala-river-basins-irrigation-department-165849/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Irrigation Department has issued warnings that water levels in the Kalu and Nilwala river basins are rising and major flooding is possible due to the continuous rain. People living in close proximity are advised to take precautions.
+
+“There is a high possibility of slowly increasing prevailing flood lowline areas of Kiriella, Millaniya, Ingiriya, Horana, Dodangoda, Bulathsinhala, Palinda Nuwara and Madurawala D/S divisions of Ratnapura and Kalutara Districts, up to next 48 hours,” it said issuing a warning.
+
+“In addition, flood situation prevailing at upstream lowline areas of Ratnapura district will further be prevailing with a slight decrease.
+
+“The residents and vehicle drivers running through those area are requested to pay high attention in this regard.
+
+“Disaster Management Authorities are requested to take adequate precautions in this regard.”
 
 ...
 
-[Data](articles/94bbe016.json)
+[Data](articles/861aaba5.json)
 
 ---
 
@@ -181,6 +245,26 @@ The National Electoral Institute’s president said Sheinbaum had between 58.3% 
 [Data](articles/243b4776.json)
 
 [Extended Data](ext_articles/243b4776.ext.json)
+
+---
+
+### UNP gen secy defends call for postponing Sri Lanka poll, claims opposition silent
+
+*2024-06-03 13:59:00* · [`economynextcom`](https://economynext.com/unp-gen-secy-defends-call-for-postponing-sri-lanka-poll-claims-opposition-silent-165871/) · `en`
+
+ECONOMYNEXT — United National Party (UNP) General Secretary Palitha Range Bandara has defended his call for postponing Sri Lanka’s presidential election by two years, claiming that his proposal was not undemocratic nor unconstitutional.
+
+Speaking to reporters at the UNP headquarters Monday June 03 morning, Bandara also claimed that neither opposition leader Sajith Premadasa nor National People’s Power (NPP) leader Anura Kumara Dissanayake have spoken against his proposal.
+
+“I have made no statement that’s undemocratic. My statement was in line with provisions of the constitution,” the former UNP parliamentarian said.
+
+He quoted Section 86 of Chapter XIII of the constitution which says: “The President may, subject to the provisions of Article 85, submit to the People by Referendum any matter which in the opinion of the President is of national importance.”
+
+Sections 87.1, 87.2 also elaborates on the matter and describes the parliament’s role, said Bandara.
+
+...
+
+[Data](articles/b4d34250.json)
 
 ---
 
@@ -362,6 +446,28 @@ The five suspects are currently being investigated at the Talaimannar police sta
 
 ---
 
+### 300 of 100,000 trees in Colombo considered high risk: state minister
+
+*2024-06-03 13:05:00* · [`economynextcom`](https://economynext.com/300-of-100000-trees-in-colombo-considered-high-risk-state-minister-165860/) · `en`
+
+ECONOMYNEXT – Trees in Sri Lanka’s capital Colombo are being monitored by the municipal council, Army and Civil Defense Force as the severe weather conditions continue, State Minister for Defense Premitha Bandara Tennakoon said.
+
+“Within the Colombo Municipal Council city limits, there are 100,000 trees. Of these, around 300 are considered high risk,” Tennakoon told reporters at a media conference to raise awareness about the current disaster management situation.
+
+Not all trees required to be cut down he said. “We can trim some of the branches and retain them.”
+
+The problem was that buildings in the vicinity of the tree had cut branches on one side, causing it to become unbalanced, the minister said.
+
+New laws would be brought in so provincial/municipal institutions could strengthen enforcement of building codes.
+
+“We don’t have a single institution that can issue a warning about a tree. Not one to tell us what trees can or cannot be planted near a road.
+
+...
+
+[Data](articles/00a4ad18.json)
+
+---
+
 ### Cement price further reduced
 
 *2024-06-03 13:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/99627/cement-price-further-reduced) · `en`
@@ -451,6 +557,20 @@ The ministry said that all other schools will be opened again tomorrow.
 [Data](articles/a48906f3.json)
 
 [Extended Data](ext_articles/a48906f3.ext.json)
+
+---
+
+### Support for AKD drops to SP’s level while RW makes gains, Sri Lanka poll shows
+
+*2024-06-03 12:47:00* · [`economynextcom`](https://economynext.com/support-for-akd-drops-to-sps-level-while-rw-makes-gains-sri-lanka-poll-shows-165859/) · `en`
+
+ECONOMYNEXT — Support for leftist candidate Anura Kumara Dissanayake dropped six percentage points to 39 percent in April, levelling with opposition leader Sajith Premadasa, while support for President Ranil Wickremesinghe increased three points to 13 percent in a presidential election voting intent poll.
+
+The Sri Lanka Opinion Tracker Survey (SLOTS) conducted by the Institute for Health Policy showed that, according to its Multilevel Regression and Poststratification (MRP) provisional estimates of presidential election voting intent, National People’s Power (NPP) leader Dissanayake and main opposition Samagi Jana Balawegaya (SJB) lader Premadasa were now neck and neck while United National Party (UNP) leader Wickremesinghe had made some gains. A generic candidate for the ruling Sri Lanka Podujana Peramuna (SLPP) had the support of 9 percent of the people surveyed, up 1 percentage point from March.
+
+...
+
+[Data](articles/8582b29c.json)
 
 ---
 
@@ -676,6 +796,20 @@ Colombo, June 3 (Daily Mirror)- Justifying his call for a referendum to extend t
 
 ---
 
+### Sri Lanka leads region in recruiting more women in banking but barriers remain: IFC
+
+*2024-06-03 12:16:00* · [`economynextcom`](https://economynext.com/sri-lanka-leads-region-in-recruiting-more-women-in-banking-but-barriers-remain-ifc-165856/) · `en`
+
+ECONOMYNEXT — Sri Lanka surpasses regional counterparts in recruiting women at the entry-level in the banking sector, with women comprising 46 percent of new recruits, though barriers, remain, a new International Finance Corporation (IFC) study has found.
+
+The report, supported by the Women in Work programme, a partnership between IFC and the Australian government, also highlights Sri Lanka’s leadership in board-level gender diversity, with women holding 27 percent of board positions, compared to 20 percent in Nepal and 14 percent in Bangladesh.
+
+...
+
+[Data](articles/935e7ee5.json)
+
+---
+
 ### Injunction against Minister Wijeyadasa extended further
 
 *2024-06-03 12:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/99623/injunction-against-minister-wijeyadasa-extended-further) · `en`
@@ -733,6 +867,28 @@ The decision was taken at a meeting with the Educational Authorities by Governor
 [Data](articles/00aa8c10.json)
 
 [Extended Data](ext_articles/00aa8c10.ext.json)
+
+---
+
+### Sri Lanka’s Expolanka Holdings PLC extends exit offer
+
+*2024-06-03 11:58:00* · [`economynextcom`](https://economynext.com/sri-lankas-expolanka-holdings-plc-extends-exit-offer-165852/) · `en`
+
+ECONOMYNEXT – Expolanka Holdings PLC has said it is extending its Exit Offer till 4.30 PM on Monday, 10th June 2024.
+
+SG Holdings, the parent company of Expolanka Holdings Plc, announced on March 1 it was delisting the company from the Colombo Stock Exchange.
+
+Some minority shareholders have filed a case challenging the delisting of Expolanka Holdings PLC before the Court of Appeal of Sri Lanka.
+
+“By reason of the aforesaid and by reason of the many requests received by Foreign shareholders and representatives of deceased shareholders requesting additional time, the Company has taken the decision to extend the Exit Offer till 4.30 PM on Monday, 10th June 2024,” Expolanka said in a stock exchange filing.
+
+“The Payments for the Offer received from 4th June 2024 to 10th June 2024 hall be made on or before, 28th June 2024.
+
+“The timelines as set out in the original Exit Offer too shall continue to remain.” (Colombo/June3/2024)
+
+◼️
+
+[Data](articles/97209172.json)
 
 ---
 
@@ -2029,133 +2185,5 @@ A bridge between Kosgama railway stations, the Kelaniweli road has been restrict
 [Data](articles/1dac583a.json)
 
 [Extended Data](ext_articles/1dac583a.ext.json)
-
----
-
-### The latest weather notification - inquisze
-
-*2024-06-03 06:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197307) · `si`
-
-Expect heavy showers across Western, Sabaragamuwa, Central, Southern, and Northwestern provinces today, especially around Galle and Matara districts. Thunderstorms may cause temporary power outages and lightning accidents. The Department advises caution.
-
-🟩
-
-The rainy section of the island is also expected today (03).
-
-Showers or thundershowers will occur at times in the Western, Sabaragamuwa, Central, Southern and Northwestern provinces.
-
-In some places in the Western and Sabaragamuwa Province, Galle and Matara districts. Heavy showers can occur about 100.
-
-Showers or thundershowers at night or night in the rest of the island.
-
-The Department of Meteorology has informed the people to take necessary steps to reduce temporary winds and lightning accidents due to thunderstorms.
-
-◼️
-
-[Data](articles/5b5ac331.json)
-
-[Extended Data](ext_articles/5b5ac331.ext.json)
-
----
-
-### CFA Society Sri Lanka to celebrate capital markets excellence on June 18
-
-*2024-06-03 05:14:00* · [`islandlk`](http://island.lk/cfa-society-sri-lanka-to-celebrate-capital-markets-excellence-on-june-18/) · `en`
-
-Now marking its 11th year, the much-anticipated annual CFA Society Sri Lanka Capital Market Awards is scheduled to be held on Tuesday, 18 June 2024, at the Oak Room, Cinnamon Grand, Colombo. A signature event in the CFA Society Sri Lanka calendar since its inception in 2012, CFA Society Sri Lanka Capital Market Awards is among the most sought-after accolades that recognizes and rewards excellence in the local capital markets.
-
-Held under the theme of ‘The Power of Public-Private Partnerships’, this year’s event will focus on the current status of Public-Private Partnerships (PPPs) in Sri Lanka and their future potential.
-
-The discussion on the theme will also draw from the country’s past experiences in handling PPPs, and the role of the private sector, as well as learnings from a regional perspective.
-
-...
-
-[Data](articles/2b0d45ac.json)
-
-[Extended Data](ext_articles/2b0d45ac.ext.json)
-
----
-
-### Edith Cowan University Sri Lanka Campus launches Bachelor of Science in Nursing Studies
-
-*2024-06-03 05:14:00* · [`islandlk`](http://island.lk/edith-cowan-university-sri-lanka-campus-launches-bachelor-of-science-in-nursing-studies/) · `en`
-
-Edith Cowan University (ECU) Sri Lanka Campus, the fourth campus of Edith Cowan University Australia, is the only international university in Sri Lanka offering identical Australian degree qualifications, expert teaching, and modern facilities.
-
-ECU last week announced the launch of the Bachelor of Science in Nursing Studies, the sole Australian Nursing Degree available in Sri Lanka, at ECU Sri Lanka Campus.
-
-As the healthcare sector in Sri Lanka advances with enhanced facilities and services, there is a growing demand for professional nurses to elevate their education and caregiving skills. ECU provides an innovative and comprehensive educational experience, preparing nurses to excel in this critical and expanding field.
-
-...
-
-[Data](articles/a266f45c.json)
-
-[Extended Data](ext_articles/a266f45c.ext.json)
-
----
-
-### MullenLowe Sri Lanka appoints Lakshika Gunatilake to head LowePublic
-
-*2024-06-03 05:08:00* · [`islandlk`](http://island.lk/mullenlowe-sri-lanka-appoints-lakshika-gunatilake-to-head-lowepublic/) · `en`
-
-The MullenLowe Group Sri Lanka (MLG), the largest multidisciplinary brand communications group has appointed Lakshika Gunatilake, as the head of its Public Relations arm – LowePublic. Gunatilake joins the group after serving at Sri Lankan Airlines for the past 23 years.
-
-Her last position prior to taking up the role with MLG being – SriLankan Airline’s Digital Communications and Social Media Manager where she oversaw the deployment and strategizing of Digital Marketing and Social Media Communication and Social PR programs across local and international markets. Gunatilake brings a wealth of experience having served in a range of dynamic roles in the airline such as, but not limited to, Advertising, Procurement, and Passenger Operations. She has been tasked to oversee the rapid growth and expansion of LowePublic over the next 3 years and bring it on par with all of the group’s other 9 business verticals.
-
-MullenLowe Sri Lanka named ‘Most Effective Agency of the Year 2022/23’
-
-...
-
-[Data](articles/22e6e44d.json)
-
-[Extended Data](ext_articles/22e6e44d.ext.json)
-
----
-
-### Sanasa Life Insurance launches new child insurance policy with additional benefits
-
-*2024-06-03 05:08:00* · [`islandlk`](http://island.lk/sanasa-life-insurance-launches-new-child-insurance-policy-with-additional-benefits/) · `en`
-
-Sanasa Life Insurance recently launched a new plan that builds upon the success of their existing child insurance policy, Senehasa.
-
-Senehasa is a popular choice for parents due to its high returns and low monthly premiums, which aligns perfectly with Sanasa Life Insurance’s core values of affordability and accessibility.” Mahesh Wickramatunga, Head of Marketing stated.
-
-“The new theme ‘Promise of a Mother’s Love’ includes all the benefits of the existing Senehasa insurance scheme as well as additional benefits for a child’s future. Here are some of these innovative inclusions: If the child passes the Grade 5 scholarship examination, he/she will be entitled to future educational scholarships based on their scholarly performance at the GCE Ordinary Level and Advanced Level examinations.
-
-...
-
-[Data](articles/6449ccad.json)
-
-[Extended Data](ext_articles/6449ccad.ext.json)
-
----
-
-### Watawala Plantations PLC appoints Reyaz Mihular as chairman
-
-*2024-06-03 05:08:00* · [`islandlk`](http://island.lk/watawala-plantations-plc-appoints-reyaz-mihular-as-chairman/) · `en`
-
-Watawala Plantations PLC announced the appointment of Reyaz Mihular as the Chairman, succeeding Sunil G. Wijesinha, who is stepping down after completing a long tenure of 12 years with the company.
-
-Reyaz Mihular is an accomplished professional in the financial and corporate sectors, having held various significant senior management roles throughout his career. He served as Managing Partner of KPMG Sri Lanka & Maldives from 2012 to 2022 and chaired KPMG’s Middle East & South Asia Regional Cluster, where he also acted as Chief Operating Officer. Mihular’s expertise spans both in accounting and management, as reflected in his presidency and fellowship at the Institute of Chartered Accountants of Sri Lanka.
-
-Presently, Mihular, holds directorships at various PLCs, including Watawala Plantations PLC and Sunshine Holdings PLC. He is a Commissioner at the Colombo Port City Economic Commission and a member of the Stakeholder Engagement Committee of the Central Bank of Sri Lanka.
-
-...
-
-[Data](articles/6c972ef5.json)
-
-[Extended Data](ext_articles/6c972ef5.ext.json)
-
----
-
-### ‘Rajagiri’ Hospital launches its international patient connect platform
-
-*2024-06-03 05:08:00* · [`islandlk`](http://island.lk/rajagiri-hospital-launches-its-international-patient-connect-platform/) · `en`
-
-...
-
-[Data](articles/b0b0df77.json)
-
-[Extended Data](ext_articles/b0b0df77.ext.json)
 
 ---

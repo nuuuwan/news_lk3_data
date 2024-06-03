@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-03 15:03:59**
+As of **2024-06-03 15:18:43**
 
 ## Newspaper Stats
 
-*Scraped **28,092** Articles*
+*Scraped **28,097** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,85 @@ islandlk | 1,519
 economynextcom | 1,591
 dailyftlk | 1,644
 adalk | 2,393
-adaderanalk | 3,198
+adaderanalk | 3,199
 tamilmirrorlk | 3,295
-virakesarilk | 4,329
+virakesarilk | 4,332
 dailymirrorlk | 4,453
-adaderanasinhalalk | 4,506
+adaderanasinhalalk | 4,507
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,091 (100.0%) of 28,092 articles have been extended.
+28,092 (100.0%) of 28,097 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-03 (Monday)
+
+### Keheliya and 7 others further remanded, one granted bail
+
+*2024-06-03 15:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/99630/keheliya-and-7-others-further-remanded-one-granted-bail) · `en`
+
+Former Health Minister Keheliya Rambukwella and seven others have been further remanded until June 14 by the Maligakanda Magistrate’s Court.
+
+They are facing charges related to the import of substandard human immunoglobulin vials.
+
+Meanwhile, the court also ordered the release of the fourth suspect of the case under a monetary bail of Rs. 100,000 and two surety bails of each worth Rs. 500,000.
+
+This order was issued when the relevant case was taken up before the Maligakanda Magistrate’s Court today (03).
+
+The Criminal Investigation Department (CID) arrested Rambukwella on 02 February in connection with the procurement of substandard human intravenous immunoglobulin (IVIG), when he arrived there, complying with a court order. He had been grilled for nearly 10 hours before being arrested.
+
+The arrest came hot on the heels of pressure from civil society activists and health sector trade unionists, who called for the immediate apprehension of the lawmaker.
+
+...
+
+[Data](articles/d31e7228.json)
+
+---
+
+### කෙහෙළිය ඇතුළු 8ක් යළි රිමාන්ඩ්
+
+*2024-06-03 14:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197332) · `si`
+
+හිටපු අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල ඇතුළු සැකකරුවන් 08 දෙනෙකු ජුනි මස 14 වනදා දක්වා රක්ෂිත බන්ධනගාරගතකර තිබේ.
+
+සැකකරුවන් මාලිගාකන්ද මහෙස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමෙන් අනතුරුව මෙම නියෝගය ලබාදී ඇත.
+
+එම සිද්ධියේ 04 වන සැකකරු ලක්ෂ 05ක ශරීර ඇප දෙකක් සහ ලක්ෂයක මුදල් ඇපයක් මත මුදාහැර තිබේ.
+
+◼️
+
+[Data](articles/ed9f1582.json)
+
+---
+
+### இன்றைய நாணய மாற்று விகிதம்
+
+*2024-06-03 14:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/185205) · `ta`
+
+இன்று திங்கட்கிழமை (ஜூன் 03) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் விற்பனை விலை ரூபா 297.0726 ஆகவும் கொள்வனவு விலை ரூபா 306.6700 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/edbaab3d.json)
+
+---
+
+### பொடி மெனிக்கே ரயிலின் இயந்திரம் திடீரென தீப்பிடித்தது
+
+*2024-06-03 14:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/185199) · `ta`
+
+பதுளையில் இருந்து கொழும்பு கோட்டை நோக்கி பயணித்த பொடி மெனிக்கே கடுகதி ரயிலின் இயந்திரத்தில் இன்று திங்கட்கிழமை (03) பகல் வேளையில் திடீரென தீப்பிடித்துள்ளது.
+
+ஹப்புத்தளை ரயில் நிலைய ஊழியர்கள் மற்றும் பொலிஸார் பிரதேசவாசிகளின் உதவியுடன் தீயை அணைத்துள்ளனர்.
+
+◼️
+
+[Data](articles/38a54fc1.json)
+
+---
 
 ### Bell 412 Heli ready
 
@@ -47,6 +111,22 @@ Sri Lanka's Bell 412 Helicopter Galle has been placed at the Neluwa Public Groun
 [Data](articles/5eb04847.json)
 
 [Extended Data](ext_articles/5eb04847.ext.json)
+
+---
+
+### தனுஷ் நடிக்கும் 'இளையராஜா' படத்தின் அப்டேட்
+
+*2024-06-03 14:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/185200) · `ta`
+
+'இசைஞானி' இளையராஜாவின் வாழ்க்கை வரலாற்றை தழுவி தயாராகும் 'இளையராஜா' எனும் திரைப்படத்தின் புதிய போஸ்டரை படக் குழுவினர் வெளியிட்டுள்ளனர். இசைஞானி இளையராஜாவின் பிறந்த நாளை முன்னிட்டு வெளியிடப்பட்டுள்ள இந்த புதிய போஸ்டரை அப்படத்தின் நாயகனும், தமிழ் சினிமாவின் முன்னணி நட்சத்திர நடிகருமான தனுஷ் வெளியிட்டார்.
+
+இயக்குநர் அருண் மாதேஸ்வரன் இயக்கத்தில் உருவாகவிருக்கும் 'இளையராஜா' எனும் திரைப்படத்தில் தனுஷ் கதையின் நாயகனாக நடிக்கிறார். இந்தத் திரைப்படத்தில் தனுசுடன் நடிக்கும் ஏனைய நடிகர்கள், நடிகைகள் பற்றிய விவரங்கள் விரைவில் அதிகாரப்பூர்வமாக வெளியிடப்படும் என எதிர்பார்க்கப்படுகிறது.
+
+நீரவ் ஷா ஒளிப்பதிவு செய்யும் இந்த திரைப்படத்திற்கு இசை ஞானி இளையராஜா இசையமைக்கிறார்.‌ இந்தத் திரைப்படத்தை தயாரிப்பாளர்கள் ஸ்ரீராம் பக்தசரண், இளம்பரிதி கஜேந்திரன், சி. கே. பத்ம குமார், வருண் மாத்தூர், சௌரப் மிஸ்ரா ஆகியோர் இணைந்து தயாரிக்கிறார்கள்.
+
+...
+
+[Data](articles/94bbe016.json)
 
 ---
 
@@ -79,6 +159,8 @@ The Sri Lanka Air Force (SLAF) has kept an SLAF Bell 412 helicopter on standby a
 ◼️
 
 [Data](articles/8c956371.json)
+
+[Extended Data](ext_articles/8c956371.ext.json)
 
 ---
 
@@ -2075,119 +2157,5 @@ Presently, Mihular, holds directorships at various PLCs, including Watawala Plan
 [Data](articles/b0b0df77.json)
 
 [Extended Data](ext_articles/b0b0df77.ext.json)
-
----
-
-### TVS launches TVS iQube electric scooter in Sri Lanka
-
-*2024-06-03 05:07:00* · [`islandlk`](http://island.lk/tvs-launches-tvs-iqube-electric-scooter-in-sri-lanka/) · `en`
-
-TVS Motor Company (TVSM) – a leading global automaker operating in the two and three-wheeler segments – recently launched its premium electric scooter, TVS iQube in Sri Lanka. Backed by steadfast and trusted engineering capabilities of TVSM, the TVS iQube delivers class leading reliability, performance, comfort, build quality and safety. The product offering is complemented by the well-established after-sales network of TVS Lanka Pvt. Ltd. developed over a successful and strong presence of 2 decades in Sri Lanka.
-
-...
-
-[Data](articles/61c83dd9.json)
-
-[Extended Data](ext_articles/61c83dd9.ext.json)
-
----
-
-### Potal bomb attack on a house in Jaffna Achuveli
-
-*2024-06-03 03:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/185162) · `ta`
-
-An unidentified group attacked a house in Jaffna's Achchuveli area, targeting the residence of Balasingham Sadanandan, who runs a farm. The incident occurred around 8 pm on Sunday, causing significant damage to the kitchen but leaving no casualties. The motive behind the attack is linked to a dispute involving Sadanandan's sister and her relative.
-
-🟩
-
-Achuveli police said that an unidentified group on a house in Achchuveli area in Jaffna had taken place at 8 pm on Sunday (02) at 8 pm.
-
-The attack took place on the residence of Balasingham Sadanandan on the Achchuveli West Karumanthurai road.. He is running a farm and his sister and her sister have a dispute.
-
-On Sunday (02), Sadanandan's sister was attacked by a relative of a sister.
-
-Initial investigations by the police revealed that only one bomb exploded and the kitchen area of ​​the house was severely damaged and no one in the house was damaged.
-
-◼️
-
-[Data](articles/d4c8b7a0.json)
-
-[Extended Data](ext_articles/d4c8b7a0.ext.json)
-
----
-
-### Of the 6000 vehicles that enter the Kandy National Hospital daily, only 2000 vehicles
-
-*2024-06-03 03:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/185159) · `ta`
-
-Daily, around 6,000 vehicles enter the Kandy National Hospital area, causing significant traffic congestion, especially during peak hours. A survey shows that while 2,000 vehicles are directly related to hospital needs, the rest use the route primarily to bypass traffic. This congestion hampers hospital operations and delays emergency services. The hospital director has called for measures to manage this issue effectively.
-
-🟩
-
-The survey revealed that only 2000 vehicles arrive in the Kandy National Hospital daily for the needs of the hospital and the patients.
-
-A study by hospital staff revealed that only four thousand vehicles pass through the hospital to avoid traffic congestion.
-
-He was addressing the Kandy District Coordinating Committee meeting held at the District Secretariat last Thursday at the Kandy District Secretariat, Director of the Kandy National Hospital.
-
-According to a survey of hospital staff, about 700 vehicles are traveling at 6.00-7.00 am and the road is increasing at 7.00-8.00 am, the Director said.
-
-Mrs. Iresha Fernando said that such a traffic congestion is occurring in the afternoon when schools and offices are closed and that about 6,000 vehicles per day on the road passing through the Kandy National Hospital.
-
-He stressed that every 6 seconds of a vehicle enters the hospital gate and that the majority of them are three -wheelers.
-
-...
-
-[Data](articles/7d9c1ad1.json)
-
-[Extended Data](ext_articles/7d9c1ad1.ext.json)
-
----
-
-### Public organizations condemning the plan to discredit Hinduism to take the land at the Amman Faculty of Batticaloa
-
-*2024-06-03 03:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/185161) · `ta`
-
-Public bodies criticize plans to lease land near the Amman shrine in Batticaloa for commercial fishing, accusing it of discrediting Hinduism. A local fish dealer is allegedly misusing the land for personal gain, sparking outrage. The Public Administration Council and other public organizations have voiced their concerns, highlighting the importance of preserving the sacred site. Despite efforts to address the issue, including formal complaints and letters to authorities, solutions remain elusive. The community threatens to protest and halt operations if the unauthorized fishing continues, emphasizing the need for respect and protection of religious sites.
-
-🟩
-
-A fish dealer is engaged in illegally abusing the land around the Amman pedestal for bathing during the fire at the beach in Batticaloa.
-
-The Public Administration Council and the Public Organizations at the Matikkali Charity School building were combined at a press conference held on Sunday (02).
-
-The fishermen are not polluting the boats for a long time, and the fishermen have been maintaining the sacred part of the plant.
-
-In this case, the land of the Municipal Council Commissioner of the Municipal Council of the Municipal Council has been approved by a fisheries dealer to lease a Rs.
-
-In this regard, the Mathrubhumi Association of Mathrubhumi Association, Fishermen's Associations, Sports Clubs, the Arangana Chancellor, Divisional Secretary and Municipal Commissioner, have been directly in letter to the Arangana Chancellor, Divisional Secretary and Municipal Commissioner.
-
-...
-
-[Data](articles/dd0b40c9.json)
-
-[Extended Data](ext_articles/dd0b40c9.ext.json)
-
----
-
-### Colombo Port’s transshipment growth slows to single digits in April
-
-*2024-06-03 03:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Colombo-Ports-transshipment-growth-slows-to-single-digits-in-April/108-283945) · `en`
-
-In April, the Port of Colombo saw its transshipment volume growth slowing down to single digits, after experiencing double-digit growth rates in the past four months, backed by the disruptions in the Red Sea, caused by Yemen’s Houthi rebels.
-
-In the month, the transshipment volumes handled by the port grew by 8.1 percent year-on-year (YoY) to 525,936 twenty-foot equivalent units (TEUs), recording the lowest growth rate since November
-
-However, the overall container throughput at the Port of Colombo grew by 10.2 percent YoY to 626,926 TEUs, with rising imports.
-
-In April, the import container (laden) volumes were up by 22.7 percent YoY to 36,457 TEUs, while the export container (laden) volumes rose by 6.6 percent YoY to 21,816 TEUs.
-
-Meanwhile, the restowing volumes at the port jumped by 60.9 percent YoY to 19,957 TEUs in
-
-...
-
-[Data](articles/e7b44690.json)
-
-[Extended Data](ext_articles/e7b44690.ext.json)
 
 ---

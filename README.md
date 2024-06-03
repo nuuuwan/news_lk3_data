@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-03 21:18:49**
+As of **2024-06-03 21:34:35**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 4,525
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,178 (100.0%) of 28,180 articles have been extended.
+28,180 (100.0%) of 28,180 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-03 (Monday)
 
-### அனர்த்த நிலை ; உயிரிழந்தவர்களின் எண்ணிக்கை அதிகரிப்பு
+### Disaster statusIncrease
 
 *2024-06-03 20:54:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அனர்த்த-நிலை-உயிரிழந்தவர்களின்-எண்ணிக்கை-அதிகரிப்பு/175-338376) · `ta`
 
-நாட்டில் நிலவும் சீரற்ற வானிலை காரணமாக உயிரிழந்தவர்களின் எண்ணிக்கை மேலும் அதிகரித்துள்ளதாக தெரிவிக்கப்படுகின்றது.
+Due to severe weather, 16 deaths and displacement of 84,749 individuals from 21,353 families have been reported.
 
-அதன்படி இதுவரை 16 பேர் உயிரிழந்துள்ளதாக அனர்த்த முகாமைத்துவ மத்திய நிலையம் தெரிவித்துள்ளது.
+🟩
 
-மேலும், 21,353 குடும்பங்களை சேர்ந்த 84,749 பேர் பாதிக்கப்பட்டுள்ளதாக  அனர்த்த முகாமைத்துவ மத்திய நிலையம் மேலும் தெரிவிக்கிறது. R
+The number of casualties in the country has increased due to inclement weather.
+
+According to the Disaster Management Center, 16 people have died so far.
+
+In addition, 84,749 persons belonging to 21,353 families have been affected, the Disaster Management Center further states that. Remble
 
 ◼️
 
 [Data](articles/6d93ba9f.json)
+
+[Extended Data](ext_articles/6d93ba9f.ext.json)
 
 ---
 
@@ -1052,21 +1058,29 @@ Who is the headline of the tomorrow of many leading media in the world, who is t
 
 ---
 
-### ආගමන හා විගමන දෙපාර්තමේන්තුව මුද්‍රාව වෙනස් කරයි
+### Department of Immigration and Emigration changes the seal
 
 *2024-06-03 16:25:36* · [`adalk`](https://www.ada.lk/breaking_news/ආගමන-හා-විගමන-දෙපාර්තමේන්තුව-මුද්‍රාව-වෙනස්-කරයි/11-409986) · `si`
 
-ආගමන විගමන දෙපාර්තමේන්තුව ජාත්‍යන්තර ප්‍රමිතීන්ට අනුකූලව , අනුකරණය කළ නොහැකි වන පරිදි ආරක්ෂිත උපක්‍රම භාවිතා කරමින් සහ සංචාරක ආකර්ෂණය ඇති වන පරිදි නව මුද්‍රාවක් මෙම ජූනි මස 01 දින අලුයම 00.00 පැයේ සිට මුළින්ම කටුනායක බණ්ඩාරනායක ජාත්‍යන්තර ගුවන් තොටුපොළ තුළ  හදුන්වා දෙමින් ක්‍රියාත්මක කළ බව ආගමන විගමන පාළක ජනරාල් හර්ෂ ඉලුක්පිටිය මහතා පැවසීය.
+The Department of Immigration and Emigration introduces a new seal at the Bandaranaike International Airport, aiming to enhance security against fraud. Designed with input from immigration officials, it features three categories for airports, ports, and passenger vessels. This modernization replaces an old seal that had been vulnerable to misuse.
 
-1948 සිට මෙතෙක් භාවිතා කළ පැරණි මුද්‍රාව බොහෝ වංචනික පුද්ගලයන් අනුකරණය කරමින් ව්‍යාජ මුද්‍රා සකස් කර භාවිතා කර තිබූ අවස්ථාවන් පිළිබඳව තමන් වෙත කරුණු වාර්තා වී තිබූ බව ද ඒ මහතා වැඩිදුරටත් පැවසීය.
+🟩
 
-මෙම නව මුද්‍රාව ශ්‍රී ලංකාවේ ජාත්‍යන්තර ගුවන් තොටුපොළ , වරාය සහ මගී නෞකා සදහා භාවිතා කිරීම සදහා කාණ්ඩ තුනක් ලෙස වෙනවෙනම මුද්‍රා තුනක් ලෙස නිර්මාණය කර තිබේ.
+Immigration of Immigration and Emigration General Harsha is introduced to the Bandaranaike International Airport in the Bandaranaike International Airport, which is incorporated by the Department of Immigration and Travel attracting to international standards.Said Mr. Ilukpitiya.
 
-ආගමන විගමන  නිලධාරීන්ගේ සංකල්ප මත නිර්මාණය කර ඇති මෙම නව මුද්‍රාව , වසර ගනනාවක සිට ප්‍රමාද වෙමින් පැවති අතර  ආගමන විගමන පාළක ජනරාල් හර්ෂ ඉලුක්පිටිය මහතාගේ  මග පෙන්වීම මත මෙම මුද්‍රාව කඩිනමින්  එළි දැක්වීමට හැකි වී තිබේ.
+He added that the ancient seal since 1948, he had reportedly reportedly on the occasional sealing of fake sealing, using many fraudulent people.
 
-...
+The new seal is designed as three seals as three categories for the Sri Lankan international airport, port and passenger vessels.
+
+The new seal designed with the concepts of immigration officials, the new seal was delayed since the guidance of immigrationary general Harsha Iluupitiya.
+
+The new seal has also been used at the other international airport in Sri Lanka with the use of this new seal on June 01 on June 01 on June 01 on June on June 01 at the Bandaranaike International Airport. The immigration seal is used in blue and the immediate seal.
+
+◼️
 
 [Data](articles/c012ff32.json)
+
+[Extended Data](ext_articles/c012ff32.ext.json)
 
 ---
 

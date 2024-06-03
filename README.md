@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-03 18:36:15**
+As of **2024-06-03 18:53:34**
 
 ## Newspaper Stats
 
-*Scraped **28,148** Articles*
+*Scraped **28,151** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,40 @@ newsfirstlk | 363
 islandlk | 1,520
 economynextcom | 1,604
 dailyftlk | 1,644
-adalk | 2,400
+adalk | 2,401
 adaderanalk | 3,204
-tamilmirrorlk | 3,298
+tamilmirrorlk | 3,299
 virakesarilk | 4,335
 dailymirrorlk | 4,459
-adaderanasinhalalk | 4,518
+adaderanasinhalalk | 4,519
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,141 (100.0%) of 28,148 articles have been extended.
+28,148 (100.0%) of 28,151 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-03 (Monday)
+
+### දුම්රියේ ගමන්කළ විදේශිකයෙකුට අත්වූ අවාසනාවන්ත ඉරණම
+
+*2024-06-03 18:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197345) · `si`
+
+දුම්රියේ ගමන්ගත් විදේශිකයෙකු දුම්රිය උමගක ගැටීමෙන් අවාසනාවන්ත ලෙස ජීවිතක්ෂයට පත්ව තිබේ.
+
+කොළඹ කොටුව සිට බදුල්ල බලා ධාවනය වූ දුම්රියෙන් ඇල්ල බලා ගමන්කරමින් සිටි විදේශිකයෙකු මෙලෙස මියගොස් ඇත.
+
+අප වාර්තාකරු සඳහන් කළේ නානුඔය සහ ඉදල්ගස්හින්න දුම්රිය ස්ථාන අතර ඇති අංක 19 දුම්රිය උමගේ ගැටීමෙන් මෙම විදේශිකයා මියගොස් ඇති බවය.
+
+විදේශිකයාගේ සිරුර එම දුම්රියෙන්ම හපුතලේ දුම්රිය ස්ථානය වෙත රැගෙනවිත් තිබුණි.
+
+◼️
+
+[Data](articles/91a9f4cb.json)
+
+---
 
 ### Bus swing driver accused of railroad
 
@@ -60,6 +78,22 @@ With the adverse weather conditions that were running along the railway line wit
 
 ---
 
+### சுரங்கத்தில் மோதுண்டவர் மரணம்
+
+*2024-06-03 18:04:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/சுரங்கத்தில்-மோதுண்டவர்-மரணம்/76-338372) · `ta`
+
+கொழும்பு கோட்டையிலிருந்து பதுளை நோக்கி பயணித்த உடரட்ட மெனிகே ரயிலில் பயணித்த வெளிநாட்டவர் சுரங்கத்தில் மோதியதில்   உயிரிழந்துள்ளதாக நானுஓயா புகையிரத நிலைய அதிகாரி ஒருவர் தெரிவித்தார்.
+
+கொழும்பு கோட்டையிலிருந்து பதுளைக்கு பயணத்த ரயிலில் எல்ல புகையிரத நிலையத்திற்கு பயணித்த வெளிநாட்டவர் புகையிரத சுரங்கப்பாதையில் திங்கட்கிழமை (03) மோதுண்டு மாலை 4 மணியளவில் உயிரிழந்துள்ளார்.
+
+நானுஓயா மற்றும் இதல்கஸ்ஹின்ன புகையிரத நிலையங்களுக்கு இடையிலான 19வது புகையிரத சுரங்கப்பாதைக்கு அருகில் குறித்த வெளிநாட்டவர் சடலமாக மீட்கப்பட்டார், உயிரிழந்த வெளிநாட்டவரின் சடலம் புகையிரத பாதுகாப்பு உத்தியோகத்தர்களால் ஹப்புத்தளை புகையிரத நிலையத்திற்கு எடுத்துச் செல்லப்பட்டதாகவும் அதிகாரி தெரிவித்தார்.
+
+◼️
+
+[Data](articles/a7d74fe5.json)
+
+---
+
 ### Sri Lanka to plant a tree to replace a tree: state minister
 
 *2024-06-03 18:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-plant-a-tree-to-replace-a-tree-state-minister-166002/) · `en`
@@ -77,6 +111,30 @@ Strong winds and heavy rains have brought down trees across power lines and tran
 ...
 
 [Data](articles/3eaa4d59.json)
+
+[Extended Data](ext_articles/3eaa4d59.ext.json)
+
+---
+
+### මුල්ලේරියාව සහ IDH රෝහල වෙනත් ස්ථාන‍යකට
+
+*2024-06-03 17:55:04* · [`adalk`](https://www.ada.lk/breaking_news/මුල්ලේරියාව-සහ-IDH-රෝහල-වෙනත්-ස්ථාන‍යකට/11-409996) · `si`
+
+ආපදා තත්ත්වයෙන් විපතට පත් ජනතාවගේ සුව දුක් විමසීමට ජනපති කොළොන්නාව, කැලණිය සහ අඹතලේ ප්‍රදේශවල නිරීක්ෂණ චාරිකාවක
+
+ගං වතුර පාලනය කිරීම සඳහා කැලණි ගං මිටියාවතේ නව ඉදිකිරීම් සඳහා අවසර නොදෙන ලෙස නිලධාරීන්ට උපදෙස්.
+
+ආරක්ෂිත මධ්‍යස්ථානවල රැඳී සිටින ජනතාවගේ නිවාස සහ දේපළ ආරක්ෂා කිරීම වෙනුවෙන් විශේෂ වැඩපිළිවෙළක්.
+
+ආපදා තත්ත්වය පහව යන තුරු ජනතාවට අවශ්‍ය සහන සැලසීමට ත්‍රිවිධ හමුදා නිලධාරින්ගෙන් සමන්විත තාවකාලික මධ්‍යස්ථානයක්.
+
+ගං වතුර පාලනය කිරීම සඳහා කැලණි ගං මිටියාවතේ නව ඉදිකිරීම් සඳහා අවසර නොදෙන ලෙස ජනාධිපති රනිල් වික්‍රමසිංහ මහතා නිලධාරීන්ට උපදෙස් ලබා දුන්නේය.
+
+එම ප්‍රදේශ ආශ්‍රිතව අනවසර ගොඩකිරීම් ද වහාම නැවැත්වීමට පියවර ගන්නා ලෙසත්, මුල්ලේරියාව සහ IDHරෝහල වෙනත් ස්ථාන‍යකට ගෙන යාමටත් ජනාධිපතිවරයා නිලධාරීන්ට උපදෙස් දුන්නේය.
+
+...
+
+[Data](articles/e1de9a36.json)
 
 ---
 
@@ -280,6 +338,8 @@ Despite the postponement, the LG polls have not been officially canceled, meanin
 
 [Data](articles/1e7593ec.json)
 
+[Extended Data](ext_articles/1e7593ec.ext.json)
+
 ---
 
 ### Sri Lanka rupee closes flat at 301.90/302.00 to US dollar
@@ -297,6 +357,8 @@ A bond maturing on 01.07.2028 closed stable at 10.80/90 percent.
 ◼️
 
 [Data](articles/a077f319.json)
+
+[Extended Data](ext_articles/a077f319.ext.json)
 
 ---
 
@@ -361,6 +423,8 @@ Banks saw mixed sentiments: Sampath Bank Plc closed down at 77.80, Commercial Ba
 ...
 
 [Data](articles/ad7e64ba.json)
+
+[Extended Data](ext_articles/ad7e64ba.ext.json)
 
 ---
 
@@ -509,6 +573,8 @@ Japan was owed 2,359 million dollars of which 291.2 million was in arrears.
 ...
 
 [Data](articles/374ff6d3.json)
+
+[Extended Data](ext_articles/374ff6d3.ext.json)
 
 ---
 
@@ -998,6 +1064,8 @@ The island’s Disaster Management said 3,727 families were hit by floods and la
 
 [Data](articles/ca86f223.json)
 
+[Extended Data](ext_articles/ca86f223.ext.json)
+
 ---
 
 ### All schools in five districts and educational zone
@@ -1335,6 +1403,8 @@ New laws would be brought in so provincial/municipal institutions could strength
 ...
 
 [Data](articles/efcb148a.json)
+
+[Extended Data](ext_articles/efcb148a.ext.json)
 
 ---
 
@@ -2077,77 +2147,5 @@ There are six children at Australia born in Australia.
 [Data](articles/fffe3d50.json)
 
 [Extended Data](ext_articles/fffe3d50.ext.json)
-
----
-
-### Southern Expressway
-
-*2024-06-03 11:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/185165) · `ta`
-
-The Southern Expressway's Kaduwela-Biyagama section is closed due to rising Kelani River waters, blocking entry and exit for vehicles between Kadawatha and Matara. The Road Development Authority will provide further updates.
-
-🟩
-
-The Road Development Authority has said that the area of ​​Kaduwela - Biyagama intermediate on the Southern Expressway has been closed until the re -notification.
-
-The Road Development Authority further stated that the relocation route has been completely closed due to the increase in the water level of the Kelani River.
-
-As a result, vehicles are unable to get and exit from Kaduwa to Matara.
-
-The Road Development Authority has said that vehicles are unable to get out and exit from Kadawatha.
-
-◼️
-
-[Data](articles/bd37b244.json)
-
-[Extended Data](ext_articles/bd37b244.ext.json)
-
----
-
-### Student with special needs pass the school for a day
-
-*2024-06-03 11:04:55* · [`adalk`](https://www.ada.lk/picture_story/විශේෂ-අවශ්‍යතා-ඇති-සිසුවා-දිනක්වත්-පාසල්-නොගොස්-උපෙළ-සමත්-වෙයි/10-409979) · `si`
-
-Keerthi Chandrasiri, a student with a rare spinal condition, successfully passed his GCE A/L exams from home, showcasing resilience despite financial challenges and health limitations. His journey involved overcoming significant obstacles, including high transportation costs and the need for specialized care, but with support from his school and family, he achieved academic success, setting an inspiring example for others facing similar circumstances.
-
-🟩
-
-A student with an unusual illness to pull the spine to study the GCE A / L examination from home, reports from Ginigathhena.
-
-A residing in Ginigathena, Pitawala, Kelanigama. The two subjects that Keerthi Chandrasiri had been able to face the 3 subject of subjects.
-
-This student cannot walk with the abnormal changing of the spine and melting in the spline melting disease.. The student residents in the resident of the resident of the house is due to the arrival of the GCE Advanced Level Examination due to a week's money to go to school.
-
-The Smithira has taken place for the subject of teachers of Ginigathena Central College.
-
-The mother of Keerthi Chandrasiri student named Keerthi Chandrasiri student. G. Mrs. Gunawardee said:
-
-"My child didn't go to the GCE A / L examination. Because he costs a lot of money to take schools. But at home, I went to Mount Mount and went to the mountain and took my baby from the pitched road from outside to Ginigathena Central College.
-
-...
-
-[Data](articles/9a26775d.json)
-
-[Extended Data](ext_articles/9a26775d.ext.json)
-
----
-
-### Pulling Kandy Multi -Traffic Terminal Project: People in discomfort
-
-*2024-06-03 11:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/185175) · `ta`
-
-Kandy, Sri Lanka's capital, faces significant traffic congestion, with studies showing over 50% of its population relying on public transport. A multimodal transport terminal project, aimed at easing this issue, began in 2015 with World Bank funding. However, delays due to political and economic crises have hindered progress, causing inconvenience for locals and tourists alike. Despite initial promises of completion by early 2022, as of May 2023, only 25% of the work has been done, with no clear end date. The project, expected to cost around $300 million, aims to improve public transportation coordination and reduce vehicle regulations in Kandy, but ongoing delays have led to widespread discontent among the affected population.
-
-🟩
-
-Kandy, the capital of the hill country in Sri Lanka, has been identified as a crowded city. Studies indicate that it takes more than an hour to enter and leave the city in the evening due to heavy traffic congestion. It may be limited to focusing on solving this problem during the period of civil war in Sri Lanka.
-
-However, in 2011, a study conducted by the Universities of Moratuwa and Peradeniya revealed that about 365 000 passengers (excluding train passengers) on an average week of Kandy city on an average of 365 000 passengers.. 55 percent of them use public transport services.
-
-...
-
-[Data](articles/ebd4f29f.json)
-
-[Extended Data](ext_articles/ebd4f29f.ext.json)
 
 ---

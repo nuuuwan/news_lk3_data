@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-03 23:35:09**
+As of **2024-06-03 23:54:06**
 
 ## Newspaper Stats
 
-*Scraped **28,190** Articles*
+*Scraped **28,192** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 islandlk | 1,520
 economynextcom | 1,604
 dailyftlk | 1,644
-adalk | 2,406
+adalk | 2,407
 adaderanalk | 3,209
-tamilmirrorlk | 3,304
+tamilmirrorlk | 3,305
 virakesarilk | 4,344
 dailymirrorlk | 4,464
 adaderanasinhalalk | 4,529
@@ -26,57 +26,95 @@ adaderanasinhalalk | 4,529
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,188 (100.0%) of 28,190 articles have been extended.
+28,190 (100.0%) of 28,192 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-03 (Monday)
 
-### දකුණු අප්‍රිකාවට සුපිරි ජයක්
+### நாளை மூடப்படும் பாடசாலைகளின் முழு விபரங்கள் வெளியானது
 
-*2024-06-03 23:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197355) · `si`
+*2024-06-03 23:23:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாளை-மூடப்படும்-பாடசாலைகளின்-முழு-விபரங்கள்-வெளியானது/175-338389) · `ta`
 
-20යි 20 ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ ශ්‍රී ලංකාව සහ දකුණු අප්‍රිකාව  අතර අද (03) පැවැති තරගය කඩුලු 6කින් ජය ගැනීමට දකුණු අප්‍රිකානු කණ්ඩායම සමත් විය.
+தற்போதைய மோசமான வானிலை காரணமாக, பின்வரும் மாகாணங்கள், மாவட்டங்கள் மற்றும் பிராந்தியங்களில் உள்ள அரச பாடசாலைகளுக்கு நாளை (06/04/2024) விசேட விடுமுறை வழங்க தீர்மானிக்கப்பட்டுள்ளது.
 
-නිව්යෝක් හි නසාවු ක්‍රීඩාංගණයේ පැවැති එම තරගයේ කාසියේ වාසිය දිනු ශ්‍රී ලංකා නායකයා පළමුවෙන් පන්දුවට පහරදීමට තීරණය කළේය.
+ஏனைய மாகாணங்கள் மற்றும் பிராந்தியங்களில் உள்ள பாடசாலைகளுக்கு விடுமுறை  வழங்கப்படாது என தீர்மானிக்கப்பட்டுள்ளது. அந்த மாகாணங்களில் வழக்கம் போல் பாடசாலை நடைபெறும்.
 
-ඒ අනුව පිටියට පිවිසි ශ්‍රී ලංකා පිලේ මුල් කඩුලු 6ම ලකුණු 45ක් තුළ දවා ගැනීමට දකුණු අප්‍රිකා පන්දු යවන්නන් සමත්විය.
+இங்கு குறிப்பிடப்படாத அனைத்து மாகாணங்களிலும் மாவட்டங்களிலும் பிராந்தியங்களிலும் பாடசாலைகள் 06/04/2024 அன்று வழக்கம் போல் நடைபெறும்.
 
-පැතුම් නිස්සංක ලකුණු 3කට දැවී ගිය අතර කමිඳු මෙන්ඩිස් රැස් කළේ ලකුණු 11ක් පමණි.
+06/04/2024 க்குப் பிறகு நிலவும் வானிலையின் அடிப்படையில், மாகாண வலய பணிப்பாளர்களினால் பாடசாலைகளை நடத்துவது தொடர்பில் முடிவுகள் எடுக்கப்படும் என்றும் கல்வியமைச்சு அறிவித்துள்ளது.
 
-නායක වනිඳු හසරංග සහ සදීර සමරවික්‍රම ලකුණු නොලබාම යළි හරවා යවන්නට දකුණු අප්‍රිකානු පන්දු යවන්නන් සමත් විය.
+இதேலேளை, மேல்மாகாண கல்விப் பணிப்பாளர் நாயகத்தின் தீர்மானத்திற்கு அமைய கம்பஹா மற்றும் களனி கல்வி வலயங்களிலும் கடுவெல கல்வி கோட்டத்திலும் உள்ள அனைத்து அரச பாடசாலைகளும் நாளை (04) மூடப்படும். R
 
-ඇන්ජලෝ මැතිව්ස් සහ දසුන් ශානක 7 වැනි කඩුල්ලට ලකුණු 23ක සබඳතාවක් ගොඩනැගූ අතර මැතිව්ස් ලකුණු 16ක් සහ දසුන් ශානක ලකුණු 9ක් රැස් කළේය.
+◼️
 
-පිතිකරුවන්ගේ වගකීම් විරහිත පිතිකරණය හේතුවෙන් ශ්‍රී ලංකා කණ්ඩායමට පන්දුවාර 19යි එක් පන්දුවක් අවසානයේ සියලුදෙනා දැවී රැස් කර ගැනීමට හැකි වූයේ ලකුණු 77ක් පමණි.
-
-මෙම ලකුණු සංඛ්‍යාව ශ්‍රී ලංකාව ජාත්‍යන්තර 20යි 20 පිටියේ වාර්තා කළ අඩුම ලකුණු සංඛ්‍යාව ලෙසද වාර්තා අතරට එක් වුණි.
-
-...
-
-[Data](articles/0377448e.json)
+[Data](articles/980be800.json)
 
 ---
 
-### ගුණතිලක රාජපක්ෂ රෝහල්ගත කෙරේ
+### Superssed to South Africa
+
+*2024-06-03 23:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197355) · `si`
+
+In the World Cup match against Sri Lanka, South Africa emerged victorious with a six-wicket win. The Sri Lankan captain chose to bat first but was dismissed for 77 runs, their lowest score in 20 internationals. South Africa chased down the target of 78 runs in 16 overs, losing 4 wickets. Key contributors included Wishing Nissanka with 3 runs and Angelo Mathews with 16 runs for Sri Lanka, while South Africa's bowlers restricted the opposition.
+
+🟩
+
+South Africa won the match between Sri Lanka and South Africa in the World Cup match today (03).
+
+The Sri Lankan captain, won the toss and elected to the tournament in the Nassawu Stadium in New York, decided to bat first.
+
+Accordingly, South Africa won the six-wicket six runs in 45 runs.
+
+Wishing Nissanka tied 3 runs while Kumindic Mendis scored only 11 points.
+
+South Africa bowlers were able to redirect the leader of the leader Fanu and Sardera Samarawickrema.
+
+Angelo Mathews and Views Shanated a 23rd wicket while Mathews scored 16 runs and 9 runs.
+
+The Sri Lankan team was only 77 runs for the loss of 77 due to the irresponsible batting batting of batsmen.
+
+The number of these points was also present at the lowest mark of Sri Lanka in 20 international.
+
+Chasing a target of 78, South Africa wins 4 wickets in 16 overs and 4 overs.
+
+◼️
+
+[Data](articles/0377448e.json)
+
+[Extended Data](ext_articles/0377448e.ext.json)
+
+---
+
+### Gunatilleke Rajapaksa hospitalized
 
 *2024-06-03 22:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197354) · `si`
 
-ආණ්ඩුපක්ෂයේ මන්ත්‍රී කණ්ඩායම් රැස්වීමේදී ඇතිවූ ආරවුලක් හේතුවෙන් පාර්ලිමේන්තු මන්ත්‍රී ගුණතිලක රාජපක්ෂ මහතා තුවාල ලබා රෝහල්ගතකර තිබේ.
+In a dispute at the Presidential Secretariat, MP Gunatilleke Rajapaksa was injured and hospitalized after a fall caused by MP Mahindananda Aluthgamage during a disagreement over funds for Kandy District development programs. UNP MP Jagath Samarawickrema intervened to resolve the situation. Doctors confirmed Rajapaksa suffered a leg fracture and he was treated at the Army Hospital.
 
-අද (03) පස්වරුවේ ජානාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් ආණ්ඩු පක්ෂ මන්ත්‍රී කණ්ඩායම් රැස්වීම ජනාධිපති ලේකම් කාර්යාලයේදී පැවැත්වුණි.
+🟩
 
-එහිදී මහනුවර දිස්ත්‍රික්කයේ සංවර්ධන වැඩසටහන් සඳහා මුදල් ප්‍රතිපාදන ගැටලුවක් මුලකර ගනිමින් ගුණතිලක රාජපක්ෂ මන්ත්‍රීවරයා සහ මහින්දානන්ද අලුත්ගමගේ මන්ත්‍රීවරයා අතර උණුසුම් වචන හුවමාරුවක් සිදුව තිබේ.
+MP Gunatilleke Rajapaksa was injured and hospitalized due to a dispute at the Members of the Government.
 
-එහිදී පොළොන්නරුව දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී ජගත් සමරවික්‍රම මහතා මැදිහත් වී එම සිදුවීම සමථයකට පත් කර ඇති බව වාර්තා වෙයි.
+The Government Member of Parliament was held at the Presidential Secretariat under the patronage of Janan Bandraya Ranil Wickremesinghe this afternoon.
 
-කෙසේවෙතත් මන්ත්‍රී කණ්ඩාම් රැස්වීම අවසන් වී නික්ම යන අවස්ථාවේ පඩිපෙළ මතදී මහින්දානන්ද අලුත්ගමගේ මන්ත්‍රීවරයා සහ ගුණතිලක රාජපක්ෂ මන්ත්‍රීවරයා අතර යළිත්වරක් බහින් බස්වීමක් සිදුව තිබේ.
+A heated exchange of words have been made between MP and Mahindananda Aluthgamage to take up a funds for development programs in the Kandy District.
 
-එහිදී මහින්දානන්ද අලුත්ගමගේ මන්ත්‍රීවරයා විසින් තල්ලු කිරීමට යාමේදී ගුණතිලක රාජපක්ෂ මන්ත්‍රීවරයා පඩිපෙළේ ඇදවැටී ඇති බව ආරංචි මාර්ග සඳහන් කරයි.
+UNP MP Jagath Samarawickrema has intervened and has settled the incident.
+
+However, between MP Mahindananda Aluthgamage, Member of the Mahindananda Aluthgamage, has been restored by MP Mahindananda Aluthgamage and MP Mahindananda Aluthgamage on the staff.
+
+According to sources, MP Gunatilleke Rajapaksa has fallen in the staircase when he was pushing by the Mahindananda Aluthgamage.
+
+The injured MP has been admitted to the Army Hospital for treatment.
+
+Doctors have revealed that a fracture of MP Gunatilleke Rajapaksa had taken place on the leg of MP.
 
 ...
 
 [Data](articles/75bebd59.json)
+
+[Extended Data](ext_articles/75bebd59.ext.json)
 
 ---
 
@@ -845,6 +883,20 @@ Ancient Rajamaha Viharaya, Sedawatta, Sedawatta, Sedawatta, Sedawatta, is Kolonn
 [Data](articles/e1de9a36.json)
 
 [Extended Data](ext_articles/e1de9a36.ext.json)
+
+---
+
+### ජනමත විචාරණය ව්‍යවස්ථානුකූලව හා ප්‍රජාතන්ත්‍රවාදීව කළ හැකියි
+
+*2024-06-03 17:41:05* · [`adalk`](https://www.ada.lk/breaking_news/ජනමත-විචාරණය-ව්‍යවස්ථානුකූලව-හා-ප්‍රජාතන්ත්‍රවාදීව-කළ-හැකියි/11-409995) · `si`
+
+තමන් ආණ්ඩුක්‍රම ව්‍යවස්ථාවට පටහැණි කිසිදු ප්‍රකාශයක් සිදු කර නොමැති බවත්,ජනාධිපතිවරයා විසින් ගෙන යන වැඩපිළිවෙළට බහුතර ජනතා විශ්වාසය හිමිව තිබෙන බවත්, ඒ අනුව ජනමත විචාරණය ව්‍යවස්ථානුකූලව හා ප්‍රජාතන්ත්‍රවාදීව කළ හැකි දෙයක් බවත්  එක්සත් ජාතික පක්ෂයේ මහලේකම් පාලිත රංගේ බණ්ඩාර මහතා පැවසීය. මේ මොහොතේ ආණ්ඩුක්‍රම ව්‍යවස්ථාව අනුව ප්‍රමුඛස්ථානය දිය යුත්තේ ජනතාවගේ ජීවත්වීමේ අයිතිය තහවුරු කිරීමට බව ද හෙතෙම ප්‍රකාශ කළේය.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ධුර කාලය තවත් වසර දෙකකින් දීර්ඝ කළ යුතු බවට මීට පෙර තමා විසින් කළ ප්‍රකාශය සම්බන්ධයෙන් විශේෂ ප්‍රකාශයක් සිදු කරමින් අද (03දා) සිරිකොත පක්ෂ මූලස්ථානයේදී පැවැත් වූ විශේෂ මාධ්‍ය සාකච්ඡාවේ දී රංගෙ බණ්ඩාර මහතා මෙම අදහස් පළ කළේය.
+
+...
+
+[Data](articles/de2c0e05.json)
 
 ---
 
@@ -2215,55 +2267,5 @@ The Ministry of Education has announced that decisions will be taken on the cond
 [Data](articles/6235c806.json)
 
 [Extended Data](ext_articles/6235c806.ext.json)
-
----
-
-### Cup drowned in Vaul: Youth rescued
-
-*2024-06-03 13:17:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வௌ்ளத்தில்-மூழ்கிய-கப்-போராடி-மீட்ட-இளைஞர்கள்/175-338354) · `ta`
-
-In a daring rescue, local youths saved both a cup and its owner from floodwaters at the Belum Mahara junction near Kodagetha Bridge. After a struggle, they managed to retrieve the cup and the driver from the deep waters.
-
-🟩
-
-The youths in the area have recovered a cup of water in the warehouse after a great effort. The incident took place at the Belum Mahara junction near the Kodagetha Bridge.
-
-When the cup was thrown into the wave, the youth stopped in the midst of a great struggle.
-
-The junction was flooded over several feet. As the driver, the driver, was dragged, the young men gathered together, rescued the cup and rescued the driver.
-
-◼️
-
-[Data](articles/305c708d.json)
-
-[Extended Data](ext_articles/305c708d.ext.json)
-
----
-
-### 5 men arrested to return to country
-
-*2024-06-03 13:08:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/நாடு-திரும்பிய-5-ஆண்கள்-கைது/72-338353) · `ta`
-
-Five Sri Lankans, aged 37, 39, 24, 26, and 38, were arrested by the Navy near Talaimannar for illegal entry from India. They were later handed over to the local police for further investigation. The group, originally from Mannar Thalawapadu, Thalawapadu, Talaimannar, Vavuniya, and Kilinochchi, had been residing in India for several years before their arrest.
-
-🟩
-
-Five Sri Lankan persons who visited the Talaimannar Urmana area were arrested on Monday morning (3). They have come to the city on a boat illegally from India.
-
-Five persons arrested by the Navy have been handed over to the Talaimannar police after the Navy has produced an investigation.
-
-The arrested persons were 37,39,24,26 and 38 men aged from Mannar Thalawapadu, Thalawapadu, Talaimannar, Vavuniya and Kilinochchi.
-
-All five have been living in various parts of India as they have gone from Sri Lanka to India a few years ago.
-
-In the meantime, five persons were arrested by the Talaimannar Navy on Monday morning (3) as they visited the Talaimannar Urmana area by boat.
-
-The five suspects are currently being investigated at the Talaimannar police station and the persons are to be produced before the Mannar Court after investigations.
-
-◼️
-
-[Data](articles/d625a07c.json)
-
-[Extended Data](ext_articles/d625a07c.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-03 10:52:49**
+As of **2024-06-03 11:04:48**
 
 ## Newspaper Stats
 
-*Scraped **28,030** Articles*
+*Scraped **28,031** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,517
 economynextcom | 1,589
 dailyftlk | 1,644
 adalk | 2,390
-adaderanalk | 3,186
+adaderanalk | 3,187
 tamilmirrorlk | 3,282
 virakesarilk | 4,322
 dailymirrorlk | 4,443
@@ -26,11 +26,31 @@ adaderanasinhalalk | 4,493
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,025 (100.0%) of 28,030 articles have been extended.
+28,030 (100.0%) of 28,031 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-03 (Monday)
+
+### Australia lifts minimum wage as families grapple with higher living costs
+
+*2024-06-03 10:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/99615/australia-lifts-minimum-wage-as-families-grapple-with-higher-living-costs) · `en`
+
+Australia’s independent wage-setting body on Monday raised the national minimum wage by 3.75%, largely in line with inflation, as families tackle soaring living costs.
+
+The minimum rate will rise to A$24.10 ($16.05) per hour from July 1, resulting in an extra A$33 per week for about a fifth of the Australian workforce or about 2.6 million employees.
+
+In its annual review, the Fair Work Commission said cost-of-living pressures have hit low-income employees the most, though inflation is considerably lower now than it was at this time last year, when it awarded an increase of 5.75%.
+
+But the report said it was not “appropriate at this time to increase award wages by any amount significantly above the inflation rate principally because labour productivity is no higher than it was four years ago.”
+
+Australian consumer price inflation rose at an annual pace of 3.6% in April, the highest level in five months, adding to risks the next move in interest rates might be upward.
+
+◼️
+
+[Data](articles/acb485c7.json)
+
+---
 
 ### IMF Board to review Sri Lanka’s economic progress on June 12
 
@@ -46,6 +66,8 @@ State Minister of Finance Shehan Semasinghe said the session will evaluate Sri L
 
 [Data](articles/0a524258.json)
 
+[Extended Data](ext_articles/0a524258.ext.json)
+
 ---
 
 ### Welipenna interchange reopened
@@ -57,6 +79,8 @@ Colombo, June 3 (Daily Mirror) - The Welipenna interchange on the Southern Expre
 ◼️
 
 [Data](articles/cc70b5de.json)
+
+[Extended Data](ext_articles/cc70b5de.ext.json)
 
 ---
 
@@ -76,6 +100,8 @@ So far, police has arrested 26 persons — 16 agents, 6 policemen, an employee o
 
 [Data](articles/35312401.json)
 
+[Extended Data](ext_articles/35312401.ext.json)
+
 ---
 
 ### Welipenna Interchange on Expressway reopens for traffic
@@ -87,6 +113,8 @@ The Welipenna Interchange on the Southern Expressway, which was closed due to fl
 ◼️
 
 [Data](articles/1498ca75.json)
+
+[Extended Data](ext_articles/1498ca75.ext.json)
 
 ---
 
@@ -129,6 +157,8 @@ The Department of Meteorology further stated that many areas in the country may 
 ...
 
 [Data](articles/e96a3366.json)
+
+[Extended Data](ext_articles/e96a3366.ext.json)
 
 ---
 
@@ -2167,25 +2197,5 @@ Police Media Spokesperson Deputy Inspector General of Police Nihal Talduwa said 
 [Data](articles/e3ab65d8.json)
 
 [Extended Data](ext_articles/e3ab65d8.ext.json)
-
----
-
-### The collapse tree is removed
-
-*2024-06-02 19:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197298) · `si`
-
-The tree obstructing the Colombo-Kandy road in Warakapola has been cleared, allowing traffic to flow normally.
-
-🟩
-
-The tree that was collapsed in Warakapola area has been cut off in blocking the Colombo-Kandy road.
-
-Therefore, the road can be used for traffic on traffic.
-
-◼️
-
-[Data](articles/54e414ef.json)
-
-[Extended Data](ext_articles/54e414ef.ext.json)
 
 ---

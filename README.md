@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-03 14:52:59**
+As of **2024-06-03 15:03:59**
 
 ## Newspaper Stats
 
-*Scraped **28,091** Articles*
+*Scraped **28,092** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,519
 economynextcom | 1,591
 dailyftlk | 1,644
 adalk | 2,393
-adaderanalk | 3,197
+adaderanalk | 3,198
 tamilmirrorlk | 3,295
 virakesarilk | 4,329
 dailymirrorlk | 4,453
@@ -26,35 +26,59 @@ adaderanasinhalalk | 4,506
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,089 (100.0%) of 28,091 articles have been extended.
+28,091 (100.0%) of 28,092 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-03 (Monday)
 
-### பெல் 412 ஹெலி  தயார்
+### Bell 412 Heli ready
 
 *2024-06-03 14:34:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெல்-412-ஹெலி-தயார்/175-338358) · `ta`
 
-எந்தவொரு பேரிடர் அழைப்புக்கும் உடனடியாக களத்துக்கு செல்வதற்காக, இ லங்கை விமானப்படையின் பெல் 412 ஹெலிகொப்டர் காலி, நெலுவ பொது மைதானத்தில் தயார் நிலையில் வைக்கப்பட்டுள்ளது என இலங்கை
+The Bell 412 helicopter in Sri Lanka's Galle is stationed at Neluwa Public Ground, ready for immediate deployment in disaster responses.
+
+🟩
+
+Sri Lanka's Bell 412 Helicopter Galle has been placed at the Neluwa Public Ground to immediately go to the field for any disaster call
 
 ◼️
 
 [Data](articles/5eb04847.json)
 
+[Extended Data](ext_articles/5eb04847.ext.json)
+
 ---
 
-### சிறிகொத்தா முன்பாக ஆர்ப்பாட்டம்
+### Demonstration
 
 *2024-06-03 14:10:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறிகொத்தா-முன்பாக-ஆர்ப்பாட்டம்/175-338357) · `ta`
 
-ஐக்கிய தேசியக் கட்சியின் தலைமையகமான கோட்டே சிறிகொத்தவுக்கு  முன்பாக திங்கட்கிழமை (3) காலை மக்கள் போராட்ட பிரஜைகள் அமைப்பின் உறுப்பினர்கள் சிலர் ஆர்ப்பாட்டத்தில் ஈடுபட்டனர்.
+Members of the People's Struggle Citizens Organization protested outside the UNP headquarters in Kotte Sirikotha on Monday morning, advocating for 'two crore to the democracy of the people.'
 
-'இரண்டு கோடியே இருபது இலட்சம் மக்களின் ஜனநாயகத்திற்காக' என்ற தொனிப்பொருளில் இந்தப் போராட்டம் நடத்தப்பட்டது.
+🟩
+
+Some members of the People's Struggle Citizens Organization staged a protest on Monday morning before the UNP headquarters, Kotte Sirikotha.
+
+The struggle was carried out on the theme of 'two crore to the democracy of the people.'
 
 ◼️
 
 [Data](articles/96b6eb84.json)
+
+[Extended Data](ext_articles/96b6eb84.ext.json)
+
+---
+
+### SLAF helicopter on standby for urgent disaster response
+
+*2024-06-03 14:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/99629/slaf-helicopter-on-standby-for-urgent-disaster-response) · `en`
+
+The Sri Lanka Air Force (SLAF) has kept an SLAF Bell 412 helicopter on standby at the Neluwa Public Grounds to respond immediately to any disaster calls, the SLAF media unit said.
+
+◼️
+
+[Data](articles/8c956371.json)
 
 ---
 
@@ -2165,33 +2189,5 @@ Meanwhile, the restowing volumes at the port jumped by 60.9 percent YoY to 19,95
 [Data](articles/e7b44690.json)
 
 [Extended Data](ext_articles/e7b44690.ext.json)
-
----
-
-### If the democratic rule of the people is to be held in the country, the election should be held - Charles MP
-
-*2024-06-03 03:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/185160) · `ta`
-
-Charles Nirmalanathan, a parliamentarian from Mullaitivu District's Viswamadu area, emphasizes the importance of holding elections to maintain democratic governance in the country. Highlighting the need for both presidential and parliamentary elections due to significant political changes, he stresses that democracy is about the people's mandate guiding the nation.
-
-🟩
-
-Parliamentarian Charles Nirmalanathan has said that the election should be held if the democratic regime is to be held in the country.
-
-Mullaitivu District - Viswamadu area parliamentarian Charles Nirmalanathan's contribution and meeting was handed over to public organizations on Sunday afternoon.
-
-In response to a question raised by journalists after attending the event, he made the matter.
-
-Following this, the presidential election was held in the country in 2019. According to the Constitution, a president must take office by October this year.
-
-The presidential election and parliamentary elections should also be held. The reason is that there have been many political changes in the country.
-
-Currently, the people should be directed by the country. He said democracy is to bring it through the people's mandate.
-
-◼️
-
-[Data](articles/88c58754.json)
-
-[Extended Data](ext_articles/88c58754.ext.json)
 
 ---

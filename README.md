@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-04 00:06:57**
+As of **2024-06-04 00:18:53**
 
 ## Newspaper Stats
 
-*Scraped **28,193** Articles*
+*Scraped **28,194** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,16 +19,34 @@ adalk | 2,407
 adaderanalk | 3,209
 tamilmirrorlk | 3,305
 virakesarilk | 4,344
-dailymirrorlk | 4,465
+dailymirrorlk | 4,466
 adaderanasinhalalk | 4,529
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,192 (100.0%) of 28,193 articles have been extended.
+28,193 (100.0%) of 28,194 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-06-04 (Tuesday)
+
+### O/L Exam mess puts Department of Examinations in soup!
+
+*2024-06-04 00:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/OL-Exam-mess-puts-Department-of-Examinations-in-soup/172-284038) · `en`
+
+The Department of Examinations has failed to properly monitor even such a preliminary exam like the GCE O’ Levels
+
+There has been significant discussions surrounding the leaking of school term papers in the Western and Central Provinces as well
+
+The experience of sitting for an exam is competitive for a child. Having dedicated countless hours to studying, they approach the question paper provided by the Department of Examinations Sri Lanka with a multitude of hopes. Habouring for examinations and the attempts taken to clear hurdles like the Scholarship Exam, GCE Ordinary Level Exam and the GCE Advanced Level Exam are crucial in a child’s life. In this country, the Department of Examinations has failed to properly monitor even these preliminary exams, critics point out.
+
+...
+
+[Data](articles/da92e34b.json)
+
+---
 
 ### 2024-06-03 (Monday)
 
@@ -47,6 +65,8 @@ Opener Kusal Mendis (19) and veteran all-rounder Angelo Mathews (16) were the on
 ...
 
 [Data](articles/777a90f7.json)
+
+[Extended Data](ext_articles/777a90f7.ext.json)
 
 ---
 
@@ -2259,21 +2279,5 @@ Staff at the Haputale Railway Station and the police managed to douse the fire w
 [Data](articles/5da4a23d.json)
 
 [Extended Data](ext_articles/5da4a23d.ext.json)
-
----
-
-### Udarata Menike engine catches fire at Haputale Railway Station
-
-*2024-06-03 13:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Udarata-Menike-engine-catches-fire-at-Haputale-Railway-Station/108-283988) · `en`
-
-Haputale, June 3 (Daily Mirror)- The rear engine of the Udarata Menike train bound to Badulla from Colombo caught fire at the Haputale Railway Station this afternoon.
-
-Staff at the Haputale Railway Station and the police managed to douse the fire with assistance of the  residents.
-
-◼️
-
-[Data](articles/e3cbd30b.json)
-
-[Extended Data](ext_articles/e3cbd30b.ext.json)
 
 ---

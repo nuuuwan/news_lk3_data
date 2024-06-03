@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-03 18:13:51**
+As of **2024-06-03 18:24:55**
 
 ## Newspaper Stats
 
-*Scraped **28,140** Articles*
+*Scraped **28,141** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ adaderanalk | 3,204
 tamilmirrorlk | 3,298
 virakesarilk | 4,335
 dailymirrorlk | 4,459
-adaderanasinhalalk | 4,517
+adaderanasinhalalk | 4,518
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,136 (100.0%) of 28,140 articles have been extended.
+28,136 (100.0%) of 28,141 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-03 (Monday)
+
+### රේල් පාරේ බස් පැද්ද රියදුරුට චෝදනා ගොන්නක්
+
+*2024-06-03 18:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197344) · `si`
+
+කොළඹ රත්නපුර ප්‍රධාන මාර්ගයේ පුවක්පිටිය ප්‍රදේශයේදී අනතුරුදායක ලෙස දුම්රිය මාර්ගයේ බස් රථය ධාවනය කළ රියදුරු ජුනි මස 14 වනදා දක්වා රිමාන්ඩ් බන්ධනාගාරගතකර තිබේ.
+
+පොලීසිය විසින් සැකකාර රියදුරු අවිස්සාවේල්ල මහෙස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමෙන් අනතුරුව මෙම නියෝගය ලබාදී තිබේ.
+
+සැකකාර රියදුරු ඇඹිලිපිටිය පොලීසිය විසින් අත්අඩංගුවට ගෙන අවිස්සාවේල්ල පොලීසියට භාරදී තිබුණි.
+
+මෙහිදී පොලීසිය විසින් සැකකාර රියදුරුට එරෙහිව චෝදනා රැසක් ගොනුකර තිබේ.
+
+මිනී මැරීමට තැත්කිරීම, රියදුරු බලපත්‍රය අත්හිටුවා තිබියදී රිය ධාවනය කිරීම, විෂ මත්ද්‍රව්‍ය භාවිත කර රිය ධාවනය කිරීම, රජයේ දේපොළවලට අලාභහානි සිදුකිරීම ඔහුට එරෙහිව එල්ලකර ඇති චෝදනා වෙයි.
+
+පසුගිය 02 වනදා පැවති අයහපත් කාලගුණික තත්ත්වය සමග සැකකාර රියදුරු පුවක්පිටිය ප්‍රදේශයේදී පෞද්ගලික මගී ප්‍රවාහන බස් රථයක් දුම්රිය මාර්ගය ඔස්සේ ධාවනය කරන අයුරු දැක්වෙන දර්ශන පෙළක් සමාජ මාධ්‍ය ඔස්සේ හුවමාරු වීමත් සමග පොලීසිය පරීක්ෂණ සිදුකර සැකකාර බස් රියදුරු අත්අඩංගුවට ගෙන තිබුණි.
+
+◼️
+
+[Data](articles/9709890a.json)
+
+---
 
 ### Two more missing persons found; total deaths increase to 16
 
@@ -2111,31 +2133,5 @@ Australian consumer price inflation rose at an annual pace of 3.6% in April, the
 [Data](articles/acb485c7.json)
 
 [Extended Data](ext_articles/acb485c7.ext.json)
-
----
-
-### Students to go to A / L students released several conditions
-
-*2024-06-03 10:38:50* · [`adalk`](https://www.ada.lk/breaking_news/උසස්-පෙළට-යන්න-ඉන්න-සිසුන්ට-කොන්දේසි-කීපයක්-පනවයි/11-409978) · `si`
-
-The Ministry of Education plans to conduct 80% of the A/L exams based on student attendance and subjects studied. It prioritizes temporary schools for A/L students, ensuring principals focus on attendance and subjects during this period. The Director of Education, Thilaka Jayasundara, has advised principals and education heads accordingly. This decision follows previous provisions for GCE Ordinary Level 2023/2024 exams.
-
-🟩
-
-The Ministry of Education has decided to consider the number of 80 percent arrival of 80 percent of the day at the time of the A / L examination.
-
-The Ministry of Education says that it is a priority to learn a temporary school when they go to study Advanced Level on the average school.
-
-According to the Ministry of Education, the school principal attached to the school attendance and subject matter during the period is temporarily attached to the school attendance and subject matter.Does.
-
-The Director of Education The Ministry of Education Thilaka Jayasundara has instructed the Minister of Education Thilaka Jayasundara to advise the Principals and Education Heads of Education.
-
-The Ministry of Education has issued before the provisions of the GCE Ordinary Level 2023/2024 students who sat for the students who sat for the end of 2023/2024.The circular was informed by a circular.
-
-◼️
-
-[Data](articles/142c9825.json)
-
-[Extended Data](ext_articles/142c9825.ext.json)
 
 ---

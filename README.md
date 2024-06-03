@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-03 16:08:13**
+As of **2024-06-03 16:18:51**
 
 ## Newspaper Stats
 
-*Scraped **28,105** Articles*
+*Scraped **28,117** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,208 @@ newsfirstlk | 363
 islandlk | 1,519
 economynextcom | 1,597
 dailyftlk | 1,644
-adalk | 2,394
-adaderanalk | 3,199
-tamilmirrorlk | 3,295
-virakesarilk | 4,332
-dailymirrorlk | 4,453
-adaderanasinhalalk | 4,508
+adalk | 2,395
+adaderanalk | 3,201
+tamilmirrorlk | 3,297
+virakesarilk | 4,335
+dailymirrorlk | 4,454
+adaderanasinhalalk | 4,511
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,105 (100.0%) of 28,105 articles have been extended.
+28,105 (100.0%) of 28,117 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-03 (Monday)
+
+### ජනපති කොළොන්නාවට
+
+*2024-06-03 15:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197337) · `si`
+
+අයහපත් කාලගුණය හේතුවෙන් ඇතිව තිබෙන ගංවතුර ඇතුළු ආපදාවන්ගෙන් විපතට පත් ජනතාවගේ සුවදුක් සොයා බැලීම සඳහා ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ වනවිට කොළඹ, කොළොන්නාව ප්‍රදේශයේ නිරීක්ෂණ චාරිකාවක නිරත වී සිටින බව වාර්තා විය.
+
+විපතට පත් ජනතාවට කඩිනම් සහන සලසන ලෙස එහිදී ඔහු නිලධාරීන්ට උපදෙස් දෙනු ලැබීය.
+
+◼️
+
+[Data](articles/6b95bc9b.json)
+
+---
+
+### කොළඹට ජලය ගේන කලටුවාවේ ප්‍රධාන නලයක් ගැලවීයයි
+
+*2024-06-03 15:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197336) · `si`
+
+අයහපත් කාලගුණික තත්ත්වය සමග කලටුවාව ජාල පවිත්‍රාගාරයේ සිට ක්‍රියාත්මක වන ප්‍රධාන ජල නල සැපයුම් මාර්ගයක කොටසක් ගැලවී ගොස් තිබේ.
+
+ජාතික ජල සම්පාදන හා ජලාපවහන මණ්ඩලය නිවේදනයක් නිකුත් කරමින් මේ බව සඳහන් කර ඇත.
+
+ඒ අනුව උදෑසන 6 සිට 9 දක්වාත්, සවස 5 සිට රාත්‍රී 9 දක්වාත් ප්‍රදේශ කිහිපයකට අඩු පීඩන තත්ත්වය යටතේ ජල සැපයුම සිදුකරන බව ජල සම්පාදන මණ්ඩලය වැඩිදුරටත් පවසයි.
+
+ගලගෙදර, පාදුක්ක, ගොඩගම, හෝමාගම, පන්නිපිටිය, රුක්මල්ගම, පැලැන්වත්ත මත්තෙගොඩ, මහරගම, බොරලැස්ගමුව සහ පැපිලියාන ප්‍රදේශවලට මෙලෙස අඩු පීඩන තත්ත්වයක් යටතේ ජලය සැපයෙනු ඇත.
+
+එම නිවේදනයේ වැඩිදුරටත් දැක්වෙන්නේ ආරක්ෂක අංශ සහ අනෙකුත් පාර්ශ්වවල සහායෙන් බිඳ වැටී ඇති ප්‍රධාන ජල නළය කඩිනමින් යථාතත්ත්වයට පත්කිරීමට සමග මේ වනවිටත් පියවර ගෙන ඇති බවය.
+
+එසේම මේ මොහොතේ අනවශ්‍ය ලෙස ජලය රැස්කර තබානොගෙන ජලය අරපිරිමැස්මෙන් භාවිත කරන ලෙස ජල සම්පාදන මණ්ඩලය ජනතාවගෙන් ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/6dc1297b.json)
+
+---
+
+### Court refuses injunction against Gazette on plantation workers’ minimum wage
+
+*2024-06-03 15:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/99633/court-refuses-injunction-against-gazette-on-plantation-workers-minimum-wage) · `en`
+
+The Court of Appeal has refused to grant an interim injunction preventing the implementation of the gazette notification issued by the Minister of Labour, which stipulates a minimum daily wage for plantation workers.
+
+This order was issued when a petition filed by plantation companies seeking a writ order invalidating the relevant gazette notification was taken up for consideration today (03).
+
+However, the judge bench, which fixed the petition for hearing, ordered that notice be issued to Minister of Labor Manusha Nanayakkara and other respondents of the petition, notifying them to appear before the court on June 26.
+
+◼️
+
+[Data](articles/3c133e84.json)
+
+---
+
+### Powder Menie's train's engine suddenly caught fire
+
+*2024-06-03 15:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/185199) · `ta`
+
+On Monday, the Powder Menikku Kadukathi train en route from Badulla to Colombo Fort unexpectedly caught fire. Local Haputale railway staff, police, and residents quickly extinguished the blaze.
+
+🟩
+
+The Powder Menikku Kadukathi train, which was traveling from Badulla to Colombo Fort, was set on fire on Monday (03).
+
+Haputale railway staff and police have extinguished the fire with the help of the residents of the area.
+
+◼️
+
+[Data](articles/38a54fc1.json)
+
+[Extended Data](ext_articles/38a54fc1.ext.json)
+
+---
+
+### යුපුන් ආබාධයකට ලක්වෙයි
+
+*2024-06-03 15:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197335) · `si`
+
+ස්වීඩනයේ ස්ටොක්හෝම් "ඩයමන්ඩ් ලීග්" තරගාවලියේ මීටර් 100 අවසන් තරගයේදී යුපුන් අබේකෝන් බලාපොරොත්තු නොවූ ආබාධයකට ලක්විය.
+
+කෙසේ වෙතත් ඔහු ඊයේ (02) පැවති දෙවැනි කාණ්ඩයේ තරගයේදී තත්පර 10.22ක දක්ෂතාවක් දක්වමින් එම ඉසව්ව ජය ගැනීමට සමත්වුණි.
+
+2024 පැරිස් ඔලිම්පික් උළෙලට ආරම්භයට තවත් ඇත්තේ සති 8ක කාලයක් පමණි.
+
+පැරිස් ඔලිම්පික් උළෙලට සුදුසුකම් ලබාගැනීම සඳහා ශ්‍රී ලංකා කෙටිදුර ධාවන ශූර යුපුන් අබේකොන් මේ දිනවල පැවැත්වෙන ස්වීඩනයේ ස්ටොක්හෝම් ඩයමන්ඩ් ලීග් තරගාවලියට එක්වුණි.
+
+එම කාණ්ඩයේ තරගය ජයගත් යුපුන්ට ස්වීඩනයේ ස්ටොක්හෝම් ඩයමන්ඩ් ලීග් තරගාවලියේ මීටර් 100 ප්‍රධාන ඉසව්ව සඳහා සුදුසුකම් ලබාගැනීමට හැකිවිය.
+
+◼️
+
+[Data](articles/f1eba727.json)
+
+---
+
+### SC postpones petitions filed over deferral of 2023 LG polls
+
+*2024-06-03 15:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/99631/sc-postpones-petitions-filed-over-deferral-of-2023-lg-polls) · `en`
+
+The Supreme Court has adjourned further hearings on the Fundamental Rights (FR) petitions filed against the postponement of the 2023 Local Government elections, which was initially scheduled to be held on March 09, 2023.
+
+The bench, noting the absence of one of its members today (June 03), ordered the adjournment of the petitions’ hearing until June 05.
+
+The relevant petitions have been filed by the Samagi Jana Balawegaya (SJB), Centre for Policy Alternatives (CPA), and People’s Action for Free and Fair Elections (PAFFREL), seeking an order declaring that the fundamental human rights of the people have been violated by the failure to hold the 2023 LG elections, as previously scheduled.
+
+◼️
+
+[Data](articles/8cac6344.json)
+
+---
+
+### பிரம்மாண்டங்களின் கூட்டணியில் உருவாகி இருக்கும் 'இந்தியன் 2'
+
+*2024-06-03 15:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/185196) · `ta`
+
+''தமிழ் சினிமாவில் இயங்கி வரும் பிரம்மாண்டங்களின் கூட்டணியில் 'இந்தியன் 2' திரைப்படம் உருவாகி இருக்கிறது'' என லைக்கா புரொடக்ஷன்ஸ் நிறுவனத்தின் தலைமை நிர்வாக அதிகாரி ஜி கே எம் தமிழ்குமரன் தெரிவித்திருக்கிறார்.‌
+
+இயக்குநர் ஷங்கர் இயக்கத்தில் உருவாகி இருக்கும் 'இந்தியன் 2' திரைப்படத்தில் கமல்ஹாசன், சித்தார்த், காஜல் அகர்வால், ரகுல் ப்ரீத் சிங், எஸ். ஜே. சூர்யா, பாபி சிம்ஹா, பிரியா பவானி சங்கர், பிரம்மானந்தம், சமுத்திரக்கனி, குல்ஷன் குரோவர் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். ரவிவர்மன் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு அனிருத் இசையமைத்திருக்கிறார். இந்த திரைப்படத்தை லைக்கா புரொடக்ஷன்ஸ் மற்றும் ரெட் ஜெயன்ட் மூவிஸ் ஆகிய நிறுவனங்கள் இணைந்து தயாரித்திருக்கிறது.
+
+...
+
+[Data](articles/6f6c4eac.json)
+
+---
+
+### அவசர அமைச்சரவை பத்திரம் வருகிறது
+
+*2024-06-03 15:29:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அவசர-அமைச்சரவை-பத்திரம்-வருகிறது/175-338366) · `ta`
+
+மோசமான காலநிலையால் முழுமையாக சேதமடைந்த வீடுகளை முப்படையினரின் உதவியுடன், அரசாங்கத்தின் செலவில் புதிதாக நிர்மாணிப்பதற்கும், பாதிக்கப்பட்ட மக்களுக்கு நிவாரணம் வழங்குவதற்குமான பணிகளை முன்னெடுப்பதற்குத் தேவையான அவசர அமைச்சரவைப் பத்திரமொன்று இன்று சமர்ப்பிக்கப்படவுள்ளது.
+
+ஜனாதிபதி ரணில் விக்ரமசிங்கவிற்கும், பிரதமர் தினேஷ் குணவர்தனவுக்கும் இடையில் நடைபெற்ற கலந்துரையாடலின் போது  இந்த விடயம் தீர்மானிக்கப்பட்டது
+
+◼️
+
+[Data](articles/6e65c9af.json)
+
+---
+
+### பெருந்தோட்ட தொழிலாளர்களின் சம்பள அதிகரிப்பு வர்தமானி ; நீதிமன்றம் அதிரடி தீர்ப்பு
+
+*2024-06-03 15:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/185212) · `ta`
+
+பெருந்தோட்ட தொழிலாளர்களின் சம்பளத்தை அதிகரித்து தொழில் அமைச்சு வெளியிட்ட வர்த்தமானிக்கு எதிராக இடைக்கால தடையுத்தரவை வழங்க முடியாதென மேன்முறையீட்டு நீதிமன்றம் இன்று திங்கட்கிழமை (03) தீர்ப்பளித்துள்ளது.
+
+ஏப்ரல் மாதம் 30 ஆம் திகதி பெருந்தோட்டத் தொழிலாளர்களுக்கான நாளாந்த சம்பளமாக 1,700 ரூபாவை நிர்ணயித்து தொழில் ஆணையாளரால் வர்த்தமானி வெளியிடப்பட்டிருந்தது.
+
+எவ்வாறாயினும், இந்த சம்பள அதிகரிப்பு நடைமுறைச் சாத்தியமற்றது என தெரிவித்து பெருந்தோட்ட நிறுவனங்களின் சம்மேளனம் நீதிமன்றத்தை நாடி இருந்த நிலையில் இந்த தீர்ப்பு வழங்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/b91851fc.json)
+
+---
+
+### இலஞ்சம் வாங்கிய தமிழ் அதிபருக்கு விளக்கமறியல்
+
+*2024-06-03 15:26:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலஞ்சம்-வாங்கிய-தமிழ்-அதிபருக்கு-விளக்கமறியல்/175-338364) · `ta`
+
+மதிய உணவுக்கான விலைமனு கோரலை பெற்றுக்கொடுப்பதற்காக, 30 ஆயிரம் ரூபாய் பணத்தை இலஞ்சமாக பெற்றதாக சந்தேகத்தின் பேரில் கைது செய்யப்பட்ட எலியகொட (தமிழ் வித்தியாலயம்) பாடசாலை ஒன்றின் அதிபரை எதிர்வரும் 11ஆம் திகதி வரை விளக்கமறியலில் வைக்குமாறு கொழும்பு பிரதான நீதவான் திலின கமகே திங்கட்கிழமை (03) உத்தரவிட்டுள்ளார்.
+
+கடந்த 21 ஆம் திகதி கைது செய்யப்பட்டு அவிசாவளை நீதிமன்றத்தினால் விளக்கமறியலில் வைக்கப்பட்டிருந்த அதிபரின்  விளக்கமறியலே இவ்வாறு நீடிக்கப்பட்டுள்ளது.
+
+விலைமனு கோரலை அனுமதிப்பதற்காக சந்தேகநபர் 30,000 ரூபாவை கேட்டதாகவும், ஆரம்பத்தில் 10 ஆயிரம் ரூபாவை பெற்றுக்கொண்டதாகவும், மீதி 20 ஆயிரம் ரூபாவை பெற்றுக்கொண்ட போதே கைது செய்யப்பட்டதாகவும் இலஞ்சம் அல்லது ஊழல் பற்றிய சார்த்துதல்களைப் புலனாய்வு செய்வதற்கான ஆணைக்குழுவின் அதிகாரிகள் நீதிமன்றத்தின் கவனத்துக்கு கொண்டுவந்தனர்.
+
+◼️
+
+[Data](articles/b9d8d21d.json)
+
+---
+
+### நல்லிணக்க பொறிமுறைக்கு நீதி அதிகாரம் வழங்கப்படுமா - விசேட நீதிமன்றம் ஸ்தாபிக்கப்படுமா? உண்மை நல்லிணக்க ஆணைக்குழுவின் இடைக்கால செயலகத்தின் பணிப்பாளர் தெரிவிப்பது என்ன?
+
+*2024-06-03 15:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/185211) · `ta`
+
+உண்மை ஐக்கியம் நல்லிணக்க ஆணைக்குழுவை உருவாக்குவதற்கான சட்டத்தின் நகல்வரைபில் ஆணைக்குழுவிற்கு வழக்குரைஞர் அல்லது நீதித்துறை அதிகாரங்களை வழங்கும் விதத்தில் மாற்றங்களை மேற்கொள்ளலாம் என உண்மை மற்றும் நல்லிணக்க பொறிமுறையின் இடைக்கால செயலகத்தின் பணிப்பாளர் கலாநிதி அசங்க குணவன்ச தெரிவித்துள்ளார்.
+
+இல்லாவிட்டால் தேவைகளிற்கு தீர்வை காண்பதற்காக விசேட நீதிமன்றத்தை உருவாக்க முடியும் எனவும் அவர் தெரிவித்துள்ளார்.
+
+உண்மை நல்லிணக்க பொறிமுறை நீதித்துறை அதிகாரங்களை கொண்டிருக்கவேண்டுமா அல்லது அதன் பரி;ந்துரைகளை அடிப்படையாகவைத்து விசேட நீதிமன்றமொன்றை உருவாக்கவேண்டுமா என தனதுஅரசாங்கம்  ஆராய்ந்து வருவதாக ஜனாதிபதி சமீபத்தில் யாழ்ப்பாணத்தில் தெரிவித்தமை குறித்த ஐலன்ட் நாளிதழின் கேள்விக்கு பதிலளிக்கையில் அவர் இதனை தெரிவித்துள்ளார்.
+
+எனினும் நீதித்துறை அதிகாரங்களை வழங்குவது விசேட நீதிமன்றத்தை அமைப்பது குறித்து அரசாங்கமே தீர்மானிக்க முடியும்என  அசங்க குணவன்ச தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/cfafa2e5.json)
+
+---
 
 ### Court's decision on the daily wage gazette of estate workers
 
@@ -118,26 +304,6 @@ The US dollar sales price was Rs 297.0726 and the purchase price was 306.6700 on
 
 ---
 
-### Powder Menie's train's engine suddenly caught fire
-
-*2024-06-03 14:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/185199) · `ta`
-
-On Monday, the Powder Menikku Kadukathi train en route from Badulla to Colombo Fort unexpectedly caught fire. Local Haputale railway staff, police, and residents quickly extinguished the blaze.
-
-🟩
-
-The Powder Menikku Kadukathi train, which was traveling from Badulla to Colombo Fort, was set on fire on Monday (03).
-
-Haputale railway staff and police have extinguished the fire with the help of the residents of the area.
-
-◼️
-
-[Data](articles/38a54fc1.json)
-
-[Extended Data](ext_articles/38a54fc1.ext.json)
-
----
-
 ### Bell 412 Heli ready
 
 *2024-06-03 14:34:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெல்-412-ஹெலி-தயார்/175-338358) · `ta`
@@ -180,25 +346,41 @@ In the new poster of the film, the musician Ilayaraja, the music of the musician
 
 ---
 
-### Water levels rising in Sri Lanka Kalu, Nilwala river basins: Irrigation Department
+### Sri Lanka floods kill 15, four rivers still rising
 
 *2024-06-03 14:17:00* · [`economynextcom`](https://economynext.com/water-levels-rising-in-sri-lanka-kalu-nilwala-river-basins-irrigation-department-165849/) · `en`
 
-ECONOMYNEXT – Sri Lanka’s Irrigation Department has issued warnings that water levels in the Kalu and Nilwala river basins are rising and major flooding is possible due to the continuous rain. People living in close proximity are advised to take precautions.
+ECONOMYNEXT – Torrential monsoon rains have killed 15 people in Sri Lanka and left thousands homeless; authorities warn that water levels were still rising in four major rivers.
 
-“There is a high possibility of slowly increasing prevailing flood lowline areas of Kiriella, Millaniya, Ingiriya, Horana, Dodangoda, Bulathsinhala, Palinda Nuwara and Madurawala D/S divisions of Ratnapura and Kalutara Districts, up to next 48 hours,” it said issuing a warning.
+Water levels in the Kalu and Nilwala rivers, and the Attanagalu Oya were in ‘major flood’ level, while the Gin and Kelani rivers were in ‘minor flood’ level, Sri Lanka’s Department of Irrigation said in a public warning.
 
-“In addition, flood situation prevailing at upstream lowline areas of Ratnapura district will further be prevailing with a slight decrease.
+The island’s Disaster Management said 3,727 families were hit by floods and landslides. 641 families have been evacuated.
 
-“The residents and vehicle drivers running through those area are requested to pay high attention in this regard.
+“The Army, Navy, Air Force, Police, and the Civil Defense Force are aiding in rescue operations,” state minister for Defense Premitha Bandara Tennakoon told reporters.
 
-“Disaster Management Authorities are requested to take adequate precautions in this regard.”
+The Army said it has deployed 20 rescue teams with 17 boats. 25 battalions are on stand-by in several districts, “That’s a force of 8,000 personnel,” spokesman Major General K A N Rasika Kumara said.
 
 ...
 
 [Data](articles/861aaba5.json)
 
 [Extended Data](ext_articles/861aaba5.ext.json)
+
+---
+
+### දිස්ත්‍රික්ක පහක හා අධ්‍යාපන කලාපයක සියලු පාසල්
+
+*2024-06-03 14:15:45* · [`adalk`](https://www.ada.lk/breaking_news/දිස්ත්‍රික්ක-පහක-හා-අධ්‍යාපන-කලාපයක-සියලු-පාසල්/11-409980) · `si`
+
+පවතින  අයහපත්  කාළගුණික තත්වය මත පළාත් තුනකට අයත් දිස්ත්‍රික්ක පහක හා එක් අධ්‍යාපන කලාපයක සියලු පාසල් සඳහා  හෙට( 4) දින විශේෂ නිවාඩුවක් ලබාදී ඇතැයි අධ්‍යාපන අමාත්‍යාංශය පවසයි.
+
+ඒ අනුව සබරගමුව පළාතේ රත්නපුරය සහ කෑගල්ල දකුණු පළාතේ ගාල්ල සහ මාතර බස්නාහිර පළාතේ කලුතර යන දිස්ත්‍රික්කවල සියලු පාසල් සහ කොළඹ දිස්ත්‍රික්කයේ හෝමාගම අධ්‍යාපන කලාපයේ සියලු පාසල් හෙට දින නොපැවැත්වෙන බව අධ්‍යාපන අමාත්‍යාංශය නිවේදනය කරයි.
+
+මෙසේ නොපැවැත්වෙන පාසල් හැර දිවයිනේ අනෙකුත් සියලුම පාසල් සාමාන්‍ය පරිදි හෙට දින පැවැත්වෙන බවත් හෙටින් පසු ඇතිවන කාළගුණික තත්වයන් මත ඒ ඒ පළාත් බලධාරින් විසින් කලාප අධ්‍යක්ෂවරුන් දැනුවත් කර පාසල් පැවැත්වීම පිළිබඳව තීරණ ගන්නා බවද අධ්‍යාපන අමාත්‍යාංශය පැවසීය.
+
+◼️
+
+[Data](articles/6ec61104.json)
 
 ---
 
@@ -363,6 +545,20 @@ Accordingly, the maximum retail price will be Rs 2,250 per 50kg bag.
 [Data](articles/234aef1f.json)
 
 [Extended Data](ext_articles/234aef1f.ext.json)
+
+---
+
+### Podimenike engine catches fire at Haputale Railway Station
+
+*2024-06-03 13:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Podimenike-engine-catches-fire-at-Haputale-Railway-Station/108-283988) · `en`
+
+Haputale, June 3 (Daily Mirror)- A fire broke out in the rear engine in Colombo bound Podimenike express from Badulla this afternoon.
+
+Staff at the Haputale Railway Station and the police managed to douse the fire with assistance of the  residents.
+
+◼️
+
+[Data](articles/5da4a23d.json)
 
 ---
 
@@ -1931,279 +2127,5 @@ The Department of Meteorology has advised the public to take necessary steps to 
 [Data](articles/82dd7614.json)
 
 [Extended Data](ext_articles/82dd7614.ext.json)
-
----
-
-### Disaster deaths - 05 missing
-
-*2024-06-03 08:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197314) · `si`
-
-The Disaster Management Center reports 10 fatalities from recent disasters, with 5 individuals still missing.
-
-🟩
-
-The Disaster Management Center (DMC) says that 10 people have been killed in disasters due to the inclement weather.
-
-◼️
-
-[Data](articles/a7ffbec6.json)
-
-[Extended Data](ext_articles/a7ffbec6.ext.json)
-
----
-
-### Signal disorder;Rail service delay in main route
-
-*2024-06-03 08:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/185164) · `ta`
-
-Due to inclement weather and flooding, several trains are delayed across various routes, including the main route. Additionally, a bridge between Vaikkam and Koskama stations on the Kelaniweli route is temporarily closed, affecting rail services.
-
-🟩
-
-Joint Manager of the Railway Department, J.. My. Said IndiPollake.
-
-He said that some trains are delayed due to the inclement weather, the main religion, the coastal religion and the floods and many other places and many other areas.
-
-In addition, a bridge between Vaikkam and Koskama railway stations has been restricted to the railway station on the Kelaniweli route.
-
-◼️
-
-[Data](articles/057d04b8.json)
-
-[Extended Data](ext_articles/057d04b8.ext.json)
-
----
-
-### Sri Lanka struggles with surge in international drug smuggling
-
-*2024-06-03 08:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-struggles-with-surge-in-international-drug-smuggling/108-283952) · `en`
-
-Colombo, June 3 (Daily Mirror) - Containment of the trafficking of drugs, originating from Afghanistan and transported by sea in Iranian dhows from the Makran Coast, had become increasingly challenging for the Sri Lankan authorities given the modus-operandi of drug cartels, a top source here said yesterday.
-
-Heroin, and increasingly methamphetamine, are trafficked along with what is known as the ‘Southern Route’ originating from Afghanistan and being transported by sea from the Makran Coast to Eastern and Southern Africa despite Navy continuing to seize large hauls of drugs running into hundreds of kilos at times.
-
-A delegation of top Navy officers was in Islamabad, Pakistan recently as part of their engagement with the rest of the world for collaborative efforts to curb the menace.
-
-According to the 2023 UNODC World Drug Report, the threefold increase in methamphetamine seizures worldwide between 2015 and 2021 is giving early signs of a future increase in consumption across continents.
-
-...
-
-[Data](articles/1b32946f.json)
-
-[Extended Data](ext_articles/1b32946f.ext.json)
-
----
-
-### Certificate given by the Monetary Fund
-
-*2024-06-03 08:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197313) · `si`
-
-State Minister Shehan Semasinghe will lead discussions on evaluating Sri Lanka's economic policies and reforms during the IMF's EFF meeting. He emphasized Sri Lanka's support for releasing the third economic aid installment to boost stability, growth, and reform efforts.
-
-🟩
-
-The International Monetary Fund (IMF) will be conducted by State Minister Shehan Semasinghe under the EFF's meeting agenda (EFF).
-
-He said that he would evaluate the progress of Sri Lanka's economic policies and reforms in this session.
-
-The Minister further stated that Sri Lanka is expected to be supportive of all countries to release the third installment to release the third installment that will further enhance economic stability, growth and reform efforts.
-
-◼️
-
-[Data](articles/6d6bc666.json)
-
-[Extended Data](ext_articles/6d6bc666.ext.json)
-
----
-
-### IMF executive board to meet on June 12 for Sri Lanka’s second review
-
-*2024-06-03 08:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/99610/imf-executive-board-to-meet-on-june-12-for-sri-lankas-second-review-) · `en`
-
-The Article IV Consultation and second review under the Extended Fund Facility (EFF) for Sri Lanka are on the International Monetary Fund’s (IMF) Executive Board meeting agenda for June 12, says State Minister of Finance Shehan Semasinghe.
-
-“The session will evaluate Sri Lanka’s economic policies and reform progress,” he said, in a post on ‘X’ (formerly Twitter).
-
-He also said Sri Lanka looks forward for continued support of all countries for a successful review to unlock the third tranche, which will further enhance economic stability, growth, and reform efforts.
-
-IMF staff and the Sri Lankan authorities have reached a staff-level agreement on economic policies to conclude the second review of the four-year EFF-supported program and the 2024 Article IV Consultation, the Director of IMF Communications Julie Kozack said last month.
-
-...
-
-[Data](articles/3306b690.json)
-
-[Extended Data](ext_articles/3306b690.ext.json)
-
----
-
-### House in Warakapola destroys landslides
-
-*2024-06-03 08:09:51* · [`adalk`](https://www.ada.lk/picture_story/වරකාපොල-නිවසක්-නාය-යයි---සුන්බුන්-අතර-සිරව‍-සිටි-තිදෙනෙක්-බේරා-ගැනෙති/10-409973) · `si`
-
-A landslide in Meneripitiya devastated a house, killing seven occupants. The survivors, including a mother rescued by her family, were among the injured treated at Warakapola Hospital after the town flooded.
-
-🟩
-
-The house has been completely destroyed by landslides in Meneripitiya.
-
-Seven persons were prisoners between the wreckage and was rushed to the Warakapola Hospital.
-
-The mother had been in the house and the mother was first rescued by the father, daughter and daughter.
-
-When the city of Warakapola was inundated, Warakapola town was inundated, and he was later able to get a jeep at the Warakapola Police and was later taken to hospital with the injured hospitalized.
-
-◼️
-
-[Data](articles/b7fef806.json)
-
-[Extended Data](ext_articles/b7fef806.ext.json)
-
----
-
-### Sri Lanka faces Sri Lanka in the 20th World Cup today
-
-*2024-06-03 08:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197312) · `si`
-
-Today marks the start of the 20th World Cup, with Sri Lanka facing off against another Sri Lanka team. The inaugural match begins at 8 pm in New York, while the Namibian and Oube teams also compete today.
-
-🟩
-
-The first match will be held today (03) at the Sri Lanka Belief in the World Cup.
-
-The competition will commence at 8 pm today at New York.
-
-Meanwhile, the Namibian team and the Oube team will be held today.
-
-◼️
-
-[Data](articles/28740c29.json)
-
-[Extended Data](ext_articles/28740c29.ext.json)
-
----
-
-### IMF Board to take up Sri Lanka program review on June 12
-
-*2024-06-03 08:01:00* · [`economynextcom`](https://economynext.com/imf-board-to-take-up-sri-lanka-program-review-on-june-12-165836/) · `en`
-
-ECONOMYNEXT – The International Monetary Fund has has scheduled June 12 for its Executive Board to take up Sri Lanka’s program review.
-
-“The session will evaluate Sri Lanka’s economic policies and reform progress,” State Minister for Finance Shehan Semasinghe said.
-
-“We look forward for continued support of all countries for a successful review to unlock the third tranche, which will further enhance economic stability, growth, and reform efforts.”
-
-The Article IV consultation and second review under the Extended Fund Facility (EFF) for Sri Lanka are on the IMF Board meeting agenda for June 12. The session will evaluate Sri Lanka's economic policies and reform progress. We look forward for continued support of all countries… pic.twitter.com/EGE4UfWgcO
-
-Sri Lanka is currently finalizing MOUs with official creditors and are also in talks with the IMF.
-
-The Executive Board will consider both the program review and Article IV consultation. (Colombo/June04/2024)
-
-◼️
-
-[Data](articles/f11293e4.json)
-
-[Extended Data](ext_articles/f11293e4.ext.json)
-
----
-
-### Trains delayed on main line due to signal failures
-
-*2024-06-03 07:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/99609/trains-delayed-on-main-line-due-to-signal-failures) · `en`
-
-The Railway Department announced that signal failures between Pallewela and Ganegoda stations and Veyangoda and Gampaha stations has delayed train services on the main line.
-
-Meanwhile, trains on the Kelani Valley line will terminate at Waga due to the collapse of a bridge, according to Sri Lanka Railways.
-
-◼️
-
-[Data](articles/bda6fe94.json)
-
-[Extended Data](ext_articles/bda6fe94.ext.json)
-
----
-
-### Heavy showers expected in parts of the island
-
-*2024-06-03 07:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/99608/heavy-showers-expected-in-parts-of-the-island) · `en`
-
-The Meteorology Department says the prevailing showery conditions are expected to continue in the south-western part of the island today (03).
-
-Showers or thundershowers will occur at times in Western, Sabaragamuwa, Central, Southern and North-western provinces.
-
-Heavy showers of about 100mm are likely at some places in Western and Sabaragamuwa provinces and in Galle and Matara districts, it said.
-
-Showers or thundershowers may occur at several places elsewhere of the island in the evening or night.
-
-General public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/5def28c1.json)
-
-[Extended Data](ext_articles/5def28c1.ext.json)
-
----
-
-### Several fatal accidents - 4 killed
-
-*2024-06-03 07:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197310) · `si`
-
-In separate incidents across the island, four fatalities occurred involving three-wheelers and a motorcyclist. A collision between two three-wheelers near the Wildlife in Mahabage resulted in one fatality and serious injury to another. Another accident involved a three-wheeler heading towards Kottawa, where two passengers died. The victims ranged in age from 19 to 44 years. Additionally, a motorcyclist was killed on the Colombo-Kandy road near Nittambuwa.
-
-🟩
-
-Four persons were killed in terminated in several parts of the island yesterday.
-
-A three-wheeler and a three-wheeler, which was traveling towards the Wildlife in the Wildlife, has collided with a three-wheeler in the Wildlife in the Wildlife in Mahabage.
-
-The driver is seriously injured and rushed to the Ragama hospital.
-
-The deceased is a 19 year old resident of the Ragama area.
-
-Meanwhile, a three-wheeler towards Kottawa, a three-wheeler towards Kottawa, was not controlled by a three-wheeler near the Kottawa area.
-
-Two traversed the three-wheeler driver, three traversed and the driver of the car were rushed to the three car.
-
-The victims were residents of Hikkaduwa and Haputale, the 44 ages.
-
-A motorcycle on the road from Colombo to Mauruthwala Junction on the Nittambuwa, Colombo-Kandy road, has been reported from Colombo to Kandy.
-
-The victim was killed in ruling at Vathupitiwala Hospital.
-
-◼️
-
-[Data](articles/3374449f.json)
-
-[Extended Data](ext_articles/3374449f.ext.json)
-
----
-
-### Notice from Disaster Management Center
-
-*2024-06-03 07:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197311) · `si`
-
-The Disaster Management Center activated its emergency hotline for the 11th time to address disasters and aid victims. Government agencies are being coordinated to assist, and the police have updated their phone numbers for reporting island-wide disaster situations. The Special Operations Room, supervised by the DIG at the Police Headquarters, can be reached at several numbers for emergency coordination. President Ranil Wickremesinghe has directed the Ministry of Finance to release funds for immediate relief efforts, instructing the construction of temporary shelters within two months through a comprehensive plan led by senior advisors. The Ministries of Public Administration and Defense, along with civil defense organizations, are involved in providing relief to affected areas. The President appreciates the efforts of all officers and assures continued government support for disaster management.
-
-🟩
-
-The 117 Emergency Title Number of the Disaster Management Center has operated the 11th hours of the Disaster Management Center to inform the disaster disasters and provide relief to victims.
-
-The Disaster Management Center stated that action will be taken to connect and facilitate all government agencies and officers who need to directly contribute to the services.
-
-Meanwhile, the police operating number of telephone numbers have been updated by the police to notify disaster situation in the island.
-
-He was established at the Police Headquarters from 6 pm yesterday (02).
-
-The Special Operations Room operates under the supervision of the DIG in charge of the Police Headquarters and to report the necessary coordination and coordinating the emergency situations.
-
-Accordingly, 011 2 42 18 20 can contact the Special Operations Cards on 011 2 42 18.
-
-In addition, the operating room can also provide information on 011 2 43 9, 011 20, 30 30 or 011 20 130 39.
-
-...
-
-[Data](articles/b51a8648.json)
-
-[Extended Data](ext_articles/b51a8648.ext.json)
 
 ---

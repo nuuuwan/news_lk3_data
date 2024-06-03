@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-03 11:19:13**
+As of **2024-06-03 11:34:23**
 
 ## Newspaper Stats
 
-*Scraped **28,033** Articles*
+*Scraped **28,037** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,48 +17,118 @@ economynextcom | 1,589
 dailyftlk | 1,644
 adalk | 2,390
 adaderanalk | 3,187
-tamilmirrorlk | 3,282
+tamilmirrorlk | 3,285
 virakesarilk | 4,322
 dailymirrorlk | 4,443
-adaderanasinhalalk | 4,495
+adaderanasinhalalk | 4,496
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,031 (100.0%) of 28,033 articles have been extended.
+28,033 (100.0%) of 28,037 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-03 (Monday)
 
-### තිස්සත් සජබයට යයි
+### 93 හැවිරිදි රූපට් මර්ඩොක් නැවතත් විවාහ වෙයි
+
+*2024-06-03 11:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197321) · `si`
+
+ජාත්‍යන්තර මාධ්‍ය ක්ෂේත්‍රයේ ප්‍රබලයෙක් ලෙස සැලකෙන රූපට් මර්ඩොක් 5 වැනි වරටත් විවාහ වී ඇති බව වාර්තා වෙයි.
+
+93 හැවිරිදි රූපට් මර්ඩොක් ගේ මනාලිය වන්නේ 67 හැවිරිදි එලීනා ශුකොවා ය. ඇය විශ්‍රාමික රුසියානු ජීව විද්‍යාඥවරියකි.
+
+ඔස්ට්‍රේලියාවේ උපත ලැබු රූපට් මර්ඩොක් ට දරුවන් 6 දෙනෙක් සිටියි.
+
+◼️
+
+[Data](articles/fffe3d50.json)
+
+---
+
+### போலி இந்திய கடவுச்சீட்டு:  இலங்கையர் இருவர் கைது
+
+*2024-06-03 11:00:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போலி-இந்திய-கடவுச்சீட்டு-இலங்கையர்-இருவர்-கைது/175-338338) · `ta`
+
+இலங்கை அகதிகளுக்கான இந்திய கடவுச்சீட்டுகளை சட்டவிரோதமான முறையில் தயாரித்த இரண்டு இலங்கையர்கள் உட்பட மூவரை இந்திய அதிகாரிகள் கைது செய்துள்ளனர்.
+
+குற்றப் புலனாய்வுப் பிரிவினர் இந்த சந்தேக நபர்களை தமிழகத்தில் வைத்து கைது செய்துள்ளதாக இந்திய ஊடகங்கள் செய்தி வெளியிட்டுள்ளன.
+
+◼️
+
+[Data](articles/f00690fd.json)
+
+---
+
+### 13 பேர் மரணம்: ஐவர் மாயம்
+
+*2024-06-03 10:51:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/13-பேர்-மரணம்-ஐவர்-மாயம்/175-338334) · `ta`
+
+கனமழையினால் ஏற்பட்ட வெள்ளப்பெருக்கு மற்றும் காற்றினால் ஏற்பட்ட அனர்த்தங்கள் காரணமாக  இரண்டு நாட்களில் 13 மரணங்கள் பதிவாகியுள்ளன.
+
+விபத்துக்களால் ஐந்து பேர் காணவில்லை என்றும் 20 பேர் காயமடைந்துள்ளனர் என்றும் அனர்த்த நிவாரண மத்திய நிலையம் அறிவித்துள்ளது.
+
+இந்த காலநிலை காரணமாக 20 மாவட்டங்களின் 177 பிரதேச செயலகப் பிரிவுகளைச் சேர்ந்த மக்கள் பாதிக்கப்பட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/6dbafd1c.json)
+
+---
+
+### Tuesday to be gone to the rich
 
 *2024-06-03 10:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197320) · `si`
 
-ශ්‍රී ලංකා නිදහස් පක්ෂයේ හිටපු මැදවච්චිය ආසන සංවිධායක මෙන්ම හිටපු අමාත්‍යවරයකු වන තිස්ස කරලියද්ද මහතා විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතාගේ රට ගොඩනගන වැඩපිළිවෙළට සහාය දැක්වීමේ අරමුණින්න සමගි ජන බලවේගය හා එක්ව තිබේ.
+Tissa Karaliyadda, ex-SLFP organizer and minister, joins reconciliation efforts and enters Parliament for Anuradhapura District, taking charge of Child Development and Women's Affairs. Sajith Premadasa is named co-organizer of Medawachchiya.
 
-අනුරාධපුර දිස්ත්‍රික්කය නියෝජනය කරමින් පාර්ලිමේන්තුවට පිවිසි ඒ මහතා ළමා සංවර්ධන හා කාන්තා කටයුතු පිළිබඳ කැබිනට් අමාත්‍යධුරයේ ද දේශීය වෛද්‍ය අමාත්‍යවරයා ලෙස ද කටයුතු කර තිබේ.
+🟩
 
-එතුමා සමගි ජන බලවේගයේ මැදවච්චිය ප්‍රදේශයේ සම සංවිධායකවරයා ලෙස පත් කිරීමට විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා කටයුතු කර ඇත.
+Former Sri Lanka Freedom Party (SLFP) organizer and former minister Tissa Karaliyadda, the Opposition Leader of the Opposition, has joined the reconciliation force.
+
+He also entered the Parliament representing the Anuradhapura District and was also the Minister of Cabinet of Child Development and Women's Affairs.
+
+Opposition Leader Sajith Premadasa has been appointed as the co-organizer of the Medawachchiya, Medawachchiya, Medawachchiya.
 
 ◼️
 
 [Data](articles/6dfd8955.json)
 
+[Extended Data](ext_articles/6dfd8955.ext.json)
+
 ---
 
-### පිහි පහර කෑ පොලිස් නිලධාරියා මරුට
+### வெலிபென்ன இடைமாறல் மீண்டும் திறக்கப்பட்டது
+
+*2024-06-03 10:46:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெலிபென்ன-இடைமாறல்-மீண்டும்-திறக்கப்பட்டது/175-338332) · `ta`
+
+வெள்ளம் காரணமாக மூடப்பட்டிருந்த தெற்கு அதிவேக நெடுஞ்சாலையின் வெலிபென்ன இடைமாறல் தற்போது மீண்டும் போக்குவரத்துக்காக திறக்கப்பட்டுள்ளதாக வீதி அபிவிருத்தி அதிகாரசபையின் (RDA) அதிவேக நெடுஞ்சாலை நடவடிக்கை பராமரிப்பு மற்றும் முகாமைத்துவ பிரிவு தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/5bac3af3.json)
+
+---
+
+### Police officer killed in knives
 
 *2024-06-03 10:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197319) · `si`
 
-පසුගිය සිකුරාදා ජර්මනියේ මෑන්හයිම් ප්‍රදේශයේදී පිහි ප්‍රහාරයකට ලක්වූ පොලිස් නිලධාරියා මියගොස් ඇති බව ජාත්‍යන්තර මාධ්‍ය වාර්තා කරයි.
+A police officer, aged 29, was fatally stabbed in Manheim while trying to apprehend a 25-year-old suspect. The incident occurred last Friday and has garnered international media attention.
 
-එම 29 හැවිරිදි පොලිස් පොලිස් නිලධාරියා 25 හැවිරිදි සැකකරුව පාලනය කිරීමට උත්සාහ දැරීමේදී පිහි ප්‍රහාරයට ලක්විය.
+🟩
+
+International media reports that the police officer who had been killed in Manheim in Manheim last Friday.
+
+The 29-year-old police officer was attacked when attempting to control the 25-year-old suspect.
 
 ◼️
 
 [Data](articles/7d57c8f4.json)
+
+[Extended Data](ext_articles/7d57c8f4.ext.json)
 
 ---
 
@@ -2111,79 +2181,5 @@ People can call for disaster relief needs through telephone numbers 011-242 1820
 [Data](articles/d8eeeff6.json)
 
 [Extended Data](ext_articles/d8eeeff6.ext.json)
-
----
-
-### Death toll due to extreme weather rises to 10
-
-*2024-06-02 20:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Death-toll-due-to-extreme-weather-rises-to-10/108-283920) · `en`
-
-Colombo, June 02 (Daily Mirror) -  The death toll from the extreme weather conditions in the country has climbed to 10 in the past 24 hours as confirmed by State Defence Minister Premitha Bandara Tennakoon.
-
-According to the State Minister, five individuals have been reported missing.
-
-Minister Tennakoon said operations are underway in search of the missing individuals.
-
-The severe weather, characterized by relentless rainfall has triggered widespread flooding and landslides, wreaking havoc across multiple regions.
-
-◼️
-
-[Data](articles/308d1017.json)
-
-[Extended Data](ext_articles/308d1017.ext.json)
-
----
-
-### Girl killed in collapsed mudTragedy
-
-*2024-06-02 19:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/185148) · `ta`
-
-In Hewahinna, Avissawella, a girl perished when soil collapsed, part of six fatalities in 24 hours from adverse weather conditions.
-
-🟩
-
-A girl dies after being trapped in a collapsed soil in Hewahinna area in Avissawella.
-
-Six people have died in the last 24 hours due to bad weather.
-
-◼️
-
-[Data](articles/09bffdae.json)
-
-[Extended Data](ext_articles/09bffdae.ext.json)
-
----
-
-### Police emergency hotlines amidst adverse weather conditions
-
-*2024-06-02 19:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Police-emergency-hotlines-amidst-adverse-weather-conditions/108-283919) · `en`
-
-Colombo, June 02 (Daily Mirror) -  In response to the ongoing adverse weather conditions affecting most region, Police have set up two dedicated lines, 0112 421 820 and 0112 421 111, for individuals to contact for urgent assistance.
-
-The decision to establish these hotlines comes as heavy rains and severe storms continue to batter the areas, causing widespread disruptions.
-
-Many communities are experiencing flooding, power outages and dangerous road conditions, prompting an urgent need for accessible support and timely intervention, police said.
-
-◼️
-
-[Data](articles/878a177a.json)
-
-[Extended Data](ext_articles/878a177a.ext.json)
-
----
-
-### Driver arrested for driving bus along railway track
-
-*2024-06-02 19:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Driver-arrested-for-driving-bus-along-railway-track/108-283917) · `en`
-
-Colombo, June 2 (Daily Mirror)- The driver who drove a private bus along the Kelani Valley railway track at Puwakpitiya has been arrested in Embilipitiya, Police said.
-
-He was arrested following a video circulated on social media, which showed a private bus plying between Embilipitiya and Colombo being driven along the railway track apparently to avoid the traffic congestion on the road.
-
-◼️
-
-[Data](articles/d6ef401c.json)
-
-[Extended Data](ext_articles/d6ef401c.ext.json)
 
 ---

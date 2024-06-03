@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-03 14:18:42**
+As of **2024-06-03 14:34:40**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,506
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,088 (100.0%) of 28,089 articles have been extended.
+28,089 (100.0%) of 28,089 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ The National Electoral Institute’s president said Sheinbaum had between 58.3% 
 ...
 
 [Data](articles/243b4776.json)
+
+[Extended Data](ext_articles/243b4776.ext.json)
 
 ---
 

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-03 22:34:25**
+As of **2024-06-03 22:51:49**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,527
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,185 (100.0%) of 28,186 articles have been extended.
+28,186 (100.0%) of 28,186 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ Accordingly, the water supply to the relevant areas will be under low pressure f
 ◼️
 
 [Data](articles/da5afd2e.json)
+
+[Extended Data](ext_articles/da5afd2e.ext.json)
 
 ---
 

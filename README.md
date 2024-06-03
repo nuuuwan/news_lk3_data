@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-03 20:53:22**
+As of **2024-06-03 21:03:57**
 
 ## Newspaper Stats
 
@@ -26,25 +26,33 @@ adaderanasinhalalk | 4,525
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,177 (100.0%) of 28,178 articles have been extended.
+28,178 (100.0%) of 28,178 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-03 (Monday)
 
-### களம் இறங்கினார் ஜனாதிபதி ; அதிகாரிகளுக்கு அதிரடி உத்தரவு
+### The President landed;Action order to the authorities
 
 *2024-06-03 20:29:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/களம்-இறங்கினார்-ஜனாதிபதி-அதிகாரிகளுக்கு-அதிரடி-உத்தரவு/175-338375) · `ta`
 
-களனி ஆற்றுப் பள்ளத்தாக்கில் வெள்ளத்தை ஏற்படுத்தும் வகையிலும், மழை நீர் வழிந்தோடுவதைத் தடுக்கும் வகையிலும் மேற்கொள்ளப்படும் புதிய நிர்மாணங்களுக்கு இடமளிக்க வேண்டாம் என ஜனாதிபதி ரணில் விக்ரமசிங்க அதிகாரிகளுக்கு பணிப்புரை விடுத்துள்ளார்.
+President Ranil Wickremesinghe visited flood-hit areas, directing authorities to halt new constructions prone to flooding, prevent rainwater overflow, and relocate hospitals. He emphasized immediate action against illegal land filling and urged for the preparation of a comprehensive flood control program involving relevant departments. Highlighting the need for addressing victims' needs, especially regarding food, health, and safety, he also stressed the importance of clean drinking water and disease prevention measures.
 
-குறித்த பிரதேசங்களில் சட்டவிரோதமான முறையில் நிலம் நிரப்பப்படுவதை உடனடியாக நிறுத்துவதற்கும் முல்லேரியா மற்றும் IDH வைத்தியசாலைகளை வேறு இடத்திற்கு மாற்றுவதற்கும் நடவடிக்கை எடுக்குமாறு அதிகாரிகளுக்கு ஜனாதிபதி பணிப்புரை விடுத்தார்.
+🟩
 
-சீரற்ற காலநிலையினால் ஏற்பட்ட வெள்ளம் மற்றும்  அனர்த்தங்களினால் பாதிக்கப்பட்ட மக்களின் நிலைமைகளைக் கண்டறிவதற்காக ஜனாதிபதி ரணில் விக்ரமசிங்க 03 ஆம் திகதி திங்கட்கிழமை கொலன்னாவ, களனி, அம்பத்தளை ஆகிய பிரதேசங்களுக்கு மேற்பார்வை விஜயம் மேற்கொண்டார். கொலன்னாவை சேதாவத்த வெஹெரகொட ரஜமஹா விகாரையில் நடைபெற்ற  கலந்துரையாடலில்  ஜனாதிபதி இந்த அறிவுறுத்தல்களை வழங்கினார்.
+President Ranil Wickremesinghe has directed the authorities not to allow new constructions to be flooded in the Kelani River Valley and to prevent rain water from flowing.
+
+The President has directed the authorities to take immediate steps to stop the illegal filling of land in these areas and to relocate the Mulleria and IDH hospitals elsewhere.
+
+President Ranil Wickremesinghe made a visit to Kolonnawa, Kelaniya and Ambattale on Monday, 3rd, to detect the conditions of the people affected by the floods and disasters due to inclement weather conditions.. The President gave these instructions during a discussion held at the Rajamaha Viharaya in Kolonnawa.
+
+The victims are staying in Ambattalai. The President went to the Silva Vidyalaya and the Wellampitiya Gamini Vidyalaya Security Center and asked the authorities to listen to the interests of the people and carry out their needs and carry out continuous work.
 
 ...
 
 [Data](articles/b275dc4d.json)
+
+[Extended Data](ext_articles/b275dc4d.ext.json)
 
 ---
 

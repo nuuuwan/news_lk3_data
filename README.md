@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-03 14:05:40**
+As of **2024-06-03 14:18:42**
 
 ## Newspaper Stats
 
-*Scraped **28,088** Articles*
+*Scraped **28,089** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,519
 economynextcom | 1,591
 dailyftlk | 1,644
 adalk | 2,393
-adaderanalk | 3,196
+adaderanalk | 3,197
 tamilmirrorlk | 3,293
 virakesarilk | 4,329
 dailymirrorlk | 4,453
@@ -26,11 +26,29 @@ adaderanasinhalalk | 4,506
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,079 (100.0%) of 28,088 articles have been extended.
+28,088 (100.0%) of 28,089 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-03 (Monday)
+
+### Mexico elects Claudia Sheinbaum as its first woman president
+
+*2024-06-03 14:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/99628/mexico-elects-claudia-sheinbaum-as-its-first-woman-president) · `en`
+
+Mexico’s projected presidential winner Claudia Sheinbaum will become the first woman president in the country’s 200-year history.
+
+“I will become the first woman president of Mexico,” Sheinbaum said with a smile, speaking at a downtown hotel shortly after electoral authorities announced a statistical sample showed she held an irreversible lead. “I don’t make it alone. We’ve all made it, with our heroines who gave us our homeland, with our mothers, our daughters and our granddaughters.”
+
+“We have demonstrated that Mexico is a democratic country with peaceful elections,” she said.
+
+The National Electoral Institute’s president said Sheinbaum had between 58.3% and 60.7% of the vote, according to a statistical sample. Opposition candidate Xóchitl Gálvez had between 26.6% and 28.6% of the vote and Jorge Álvarez Máynez had between 9.9% and 10.8% of the vote. Sheinbaum’s Morena party was also projected to hold majorities in both chambers of Congress.
+
+...
+
+[Data](articles/243b4776.json)
+
+---
 
 ### Legal action taken against 981 mosquito breeding places
 
@@ -50,41 +68,57 @@ According to the Epidemiology Unit, 25,095 dengue cases have been reported from 
 
 [Data](articles/5b1a1b65.json)
 
+[Extended Data](ext_articles/5b1a1b65.ext.json)
+
 ---
 
-### මෙක්සිකෝවේ ජනාධිපතිවරණයේ දී සිදුවු පෙරළිය
+### In Mexico's presidential election proceeded
 
 *2024-06-03 13:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197331) · `si`
 
-සියයට 56කට වැඩි බහුතරයක් දිනාගනිමින් මෙක්සිකෝ ජනාධිපතිවරණය ජයගැනීමට අපේක්ෂිකා ක්ලෝඩියා ෂයින්බවුම් සමත්ව තිබේ.
+Claudia Shalobomy, a close ally of ex-President Andrés Manuel López Obrador, leads in Mexico's presidential race with over 56% of the vote, despite opposition from Suchlal Galuses.
 
-61 හැවිරිදි ක්ලෝඩියා ෂයින්බවුම් මෙක්සිකෝ සිටී අගනුවර හිටපු නගරාධිපතිනිය වන අතර හිටපු ජනාධිපති ඇන්ද්‍රේස් මැනුවෙල් ලෝපේස්ගේ සමීපතමයෙක් ද වේ.
+🟩
 
-විපක්ෂ අපේක්ෂිකා සෝචිත්ල් ගල්වේස් ද සිය ජයග්‍රහණය ප්‍රකාශයට පත් කළත්, ෂයින්බවුම් ඇයට වඩා කැපී පෙනෙන ඡන්ද ප්‍රතිශතයක් ලබා ඉදිරියෙන් පසුවන බව වාර්තා වේ.
+Moreover, Criteria Claologues shadow to win the Mexico presidential election by winning more than 56 percent.
+
+The 61-year-old Cladia Shalobomy Mexico is a close friend of former President Andandraz Manuel Lopez.
+
+It is reported that opposition candidate Suchlal Galuses is announced, but the shinbear is a leading percentage of the votes.
 
 ◼️
 
 [Data](articles/a0b806ef.json)
 
+[Extended Data](ext_articles/a0b806ef.ext.json)
+
 ---
 
-### අපරාධ චෝදනා එල්ල වූ කල්ලියක් කොටුකර ගත් මෙහෙයුම
+### The operation enclosed a gang of criminal charges
 
 *2024-06-03 13:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197330) · `si`
 
-සංවිධානාත්මක අපරාධ චෝදනා සහිත කාන්තාවක් ඇතුළු තිදෙනෙක් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ මනුෂ්‍ය ඝාතන හා සංවිධානාත්මක අපරාධ විමර්ශන අංශය මඟින් වැල්ලම්පිටිය ප්‍රදේශයේ දී අත්අඩංගුවට ගෙන තිබේ.
+In the Wellampitiya area, three individuals, including a woman, were arrested on organized criminal charges following a detailed investigation into a criminal network involved in drug trafficking. Seized from them were two T-56 rifles, 4 magazines, 26 live bullets, and 149 grams of heroin. The police claim the suspects rented these weapons for criminal activities and were transporting them for various crimes. This arrest was carried out under the orders of the Criminal Inspector General of Police (IGP) of the Criminal Investigation Department.
 
-ඔවුන් අත්අඩංගුවට ගැනුණේ විදෙස්ගතව සිට මෙරට අපරාධ ජාලය හා මත්ද්‍රව්‍ය ජාවාරම මෙහෙයවන බවට හඳුනාගත් අපරාධකරුවන් වන අලන්ගෝරන් ජෝතිරූබන් හා ඉෂාර ලක්මාල් නොහොත් සේදවත්ත කසුන් නමැත්තන් පිළිබඳ කළ දීර්ඝ විමර්ශනයකින් පසුවය.
+🟩
 
-එම සැකකරුවන් සහ සැකකාරිය සතුව තිබී ටී 56 ගිනිඅවි 2ක්, මැගසින් 2ක්, ජීව උණ්ඩ 26ක්, හෙරොයින් මත්ද්‍රව්‍ය ග්‍රෑම් 149ක් පොලීසිය සිය භාරයට ගෙන තිබේ.
+Three persons including a woman with organized criminal charges have been arrested in the Wellampitiya area in the Wellampitiya area.
 
-මොවුන් අපරාධ සඳහා අවි ආයුධ කුලියට දුන් පිරිසක් බව පොලීසිය පවසයි.
+They were arrested after a lengthy investigation into the names of the criminal network and the criminal network and the criminal network and the criminal network and the drug trafficking.
 
-ඔවුන් එම අවිවල අංක මකා ඇති අතර මෙම අවි විවිධ අපරාධ සඳහා ප්‍රවාහනය කිරීමට අත්අඩංගුවට ගත් සැකකාරිය සහාය දක්වා ඇති බව පොලීසිය පෙන්වාදෙයි.
+Two T-56 riffles, 2 magazines, 2 magazines, 26 live bullets and 149 grams of heroin were taken into custody.
 
-...
+Police say they have rented weapons for crime, police said.
+
+They have deleted numbers of these weapons and the suspect arrested for transportation for various crimes.
+
+The suspects were arrested on the instructions of the Criminal Inspector General of Police (IGP) of the Criminal Investigation Department, the Criminal Investigation Department.
+
+◼️
 
 [Data](articles/37905882.json)
+
+[Extended Data](ext_articles/37905882.ext.json)
 
 ---
 
@@ -100,6 +134,8 @@ Accordingly, the maximum retail price will be Rs 2,250 per 50kg bag.
 
 [Data](articles/234aef1f.json)
 
+[Extended Data](ext_articles/234aef1f.ext.json)
+
 ---
 
 ### Udarata Menike engine catches fire at Haputale Railway Station
@@ -114,39 +150,53 @@ Staff at the Haputale Railway Station and the police managed to douse the fire w
 
 [Data](articles/e3cbd30b.json)
 
+[Extended Data](ext_articles/e3cbd30b.ext.json)
+
 ---
 
-### நாளை மூடப்படும் பாடசாலைகளின் விபரம்
+### Details of schools that will be closed tomorrow
 
 *2024-06-03 13:27:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாளை-மூடப்படும்-பாடசாலைகளின்-விபரம்/175-338355) · `ta`
 
-தற்போதைய மோசமான வானிலை காரணமாக, பின்வரும் மாகாணங்கள், மாவட்டங்கள் மற்றும் பிராந்தியங்களில் உள்ள அரச பாடசாலைகளுக்கும் நாளை (06/04/2024) விசேட விடுமுறை வழங்க தீர்மானிக்கப்பட்டுள்ளது.
+State schools in certain provinces, districts, and regions will close tomorrow due to bad weather, while others will remain open. The Ministry of Education will decide post-06/04/2024 based on weather conditions.
 
-ஏனைய மாகாணங்கள் மற்றும் பிராந்தியங்களில் உள்ள பாடசாலைகளுக்கும் விசேட விடுமுறை தினமாக வழங்கப்படாது என தீர்மானிக்கப்பட்டுள்ளது. அந்த மாகாணங்களில் வழக்கம் போல் பாடசாலை நடைபெறும்.
+🟩
 
-இங்கு குறிப்பிடப்படாத அனைத்து மாகாணங்களிலும் மாவட்டங்களிலும் பிராந்தியங்களிலும் பாடசாலைகள் 06/04/2024 அன்று வழக்கம் போல் நடைபெறும்.
+Due to the current bad weather, it has been decided to provide special holidays for tomorrow (06/04/2024) for state schools in the following provinces, districts and regions.
 
-06/04/2024 க்குப் பிறகு நிலவும் வானிலையின் அடிப்படையில், மாகாண வலய பணிப்பாளர்களினால் பாடசாலைகளை நடத்துவது தொடர்பில் முடிவுகள் எடுக்கப்படும் என்றும் கல்வியமைச்சு அறிவித்துள்ளது.
+It has been decided not to be given a special holiday for schools in other provinces and regions. The school will be held in those provinces as usual.
+
+Schools will be held on 06/04/2024 as usual in all provinces, districts and regions.
+
+The Ministry of Education has announced that decisions will be taken on the conduct of schools by the Provincial Zone Directors on the basis of the weather after 06/04/2024.
 
 ◼️
 
 [Data](articles/6235c806.json)
 
+[Extended Data](ext_articles/6235c806.ext.json)
+
 ---
 
-### வௌ்ளத்தில் மூழ்கிய கப்: போராடி மீட்ட இளைஞர்கள்
+### Cup drowned in Vaul: Youth rescued
 
 *2024-06-03 13:17:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வௌ்ளத்தில்-மூழ்கிய-கப்-போராடி-மீட்ட-இளைஞர்கள்/175-338354) · `ta`
 
-வௌ்ளநீர் அலையில் சிக்குண்ட கப் ரக வாகனத்தை அவ்விடத்தில் இருந்த இளைஞர்கள் இணைந்து​ பெரும் முயற்சிக்குப் பின்னர் மீட்டெடுத்துள்ளனர். இந்த சம்பவம், பெலும்மஹர சந்தியில், கொடகெத பாலத்துக்கு அருகில் இடம்பெற்றுள்ளது.
+In a daring rescue, local youths saved both a cup and its owner from floodwaters at the Belum Mahara junction near Kodagetha Bridge. After a struggle, they managed to retrieve the cup and the driver from the deep waters.
 
-அந்த கப் ரக வாகனம், அலையில் சிக்குண்டு அள்ளிச்சென்றபோது, பெரும் போராட்டத்துக்கு மத்தியில் இளைஞர்கள் தடுத்து நிறுத்தினர்.
+🟩
 
-அந்த சந்தியில் பல அடிக்கு மேல் வெள்ளநீர் நிரம்பியிருந்தது. அந்த வௌ்ளநீர் அலையில் சிக்குண்ட கப் ரக வாகனம், சாரதியின் கட்டுப்பாட்டை மீறி, இழுத்துச் செல்லப்பட்ட போதே, அங்கிருந்த இளைஞர்கள் ஒன்றுக்கூடி, கப் வாகனத்தை மீட்டதுடன், சாரதியை​யும் காப்பாற்றியுள்ளனர்.
+The youths in the area have recovered a cup of water in the warehouse after a great effort. The incident took place at the Belum Mahara junction near the Kodagetha Bridge.
+
+When the cup was thrown into the wave, the youth stopped in the midst of a great struggle.
+
+The junction was flooded over several feet. As the driver, the driver, was dragged, the young men gathered together, rescued the cup and rescued the driver.
 
 ◼️
 
 [Data](articles/305c708d.json)
+
+[Extended Data](ext_articles/305c708d.ext.json)
 
 ---
 
@@ -265,6 +315,8 @@ The ministry said that all other schools will be opened again tomorrow.
 ◼️
 
 [Data](articles/a48906f3.json)
+
+[Extended Data](ext_articles/a48906f3.ext.json)
 
 ---
 
@@ -1024,19 +1076,29 @@ Australian consumer price inflation rose at an annual pace of 3.6% in April, the
 
 ---
 
-### උසස් පෙළට යන්න ඉන්න සිසුන්ට කොන්දේසි කීපයක් පනවයි
+### Students to go to A / L students released several conditions
 
 *2024-06-03 10:38:50* · [`adalk`](https://www.ada.lk/breaking_news/උසස්-පෙළට-යන්න-ඉන්න-සිසුන්ට-කොන්දේසි-කීපයක්-පනවයි/11-409978) · `si`
 
-අ.පො.ස.සාමාන්‍ය පෙළ 2023/2024 විභාගයට පෙනී සිටි සිසුන්  ඉදිරියේදී පාසල්වල  ආරම්භ කිරීමට නියමිත උසස් පෙළ තාවකාලික පන්තිවලට අනුයුක්තව සිටින කාලය තුළ පැමිණි දින ගණනද උසස් පෙළ විභාගයට පෙනී සිටීමේදී අවශ්‍ය සියයට 80 පැමිණීමේ ප්‍රතිශතය සඳහා සලකා බැලීමට අධ්‍යාපන අමාත්‍යාංශය තීරණය කර තිබේ.
+The Ministry of Education plans to conduct 80% of the A/L exams based on student attendance and subjects studied. It prioritizes temporary schools for A/L students, ensuring principals focus on attendance and subjects during this period. The Director of Education, Thilaka Jayasundara, has advised principals and education heads accordingly. This decision follows previous provisions for GCE Ordinary Level 2023/2024 exams.
 
-එමෙන්ම එම  සිසුන් සාමාන්‍ය පෙළ ප්‍රතිඵල මත වෙනත්  පාසලක උසස් පෙළ හැදෑරීමට යාමේදී  එලෙස  තාවකාලිකව යම් පාසලකට ඇතුළත්ව ඉගෙනුම ලබා තිබීම ප්‍රමුඛතාවයක් ලෙස සලකන  බවද අධ්‍යාපන අමාත්‍යාංශය කියයි.
+🟩
 
-ඒ අනුව සිසුන්   සාමාන්‍ය පෙළ ප්‍රතිඵල මත වෙනත් පාසලකට ඇතුළත් වීමට ඉල්ලුම් කිරීමේදී තාවකාලිකව අනුයුක්තව සිටි කාලසීමාව තුළ පාසල් පැමිණීම හා  විෂය සමගාමී ක්‍රියාකාරකම් පිළිබඳව වාර්තාවක් තාවකාලිකව  අනුයුක්තව සිටි පාසලේ විදුහල්පති විසින් නිකුත් කළ යුතු අතර එය නව පාසලට ඇතුළත් කර ගැනීමට අමතර සුදුසුකමක් සේ සැලකෙන බවද අධ්‍යාපන අමාත්‍යාංශය සඳහන් කරයි.
+The Ministry of Education has decided to consider the number of 80 percent arrival of 80 percent of the day at the time of the A / L examination.
 
-...
+The Ministry of Education says that it is a priority to learn a temporary school when they go to study Advanced Level on the average school.
+
+According to the Ministry of Education, the school principal attached to the school attendance and subject matter during the period is temporarily attached to the school attendance and subject matter.Does.
+
+The Director of Education The Ministry of Education Thilaka Jayasundara has instructed the Minister of Education Thilaka Jayasundara to advise the Principals and Education Heads of Education.
+
+The Ministry of Education has issued before the provisions of the GCE Ordinary Level 2023/2024 students who sat for the students who sat for the end of 2023/2024.The circular was informed by a circular.
+
+◼️
 
 [Data](articles/142c9825.json)
+
+[Extended Data](ext_articles/142c9825.ext.json)
 
 ---
 
@@ -2145,29 +2207,5 @@ The former MP said he had never intended to call Musk an “Economic Hitman”.
 [Data](articles/257fc8e7.json)
 
 [Extended Data](ext_articles/257fc8e7.ext.json)
-
----
-
-### Exports continue to do well in April narrowing trade deficit
-
-*2024-06-03 01:37:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Exports-continue-to-do-well-in-April-narrowing-trade-deficit/108-283951) · `en`
-
-The growth in merchandise exports outstripped the growth in imports to help narrow the trade deficit in April compared to a year ago levels, but the cumulative four months deficit stands higher compared to the corresponding period of last year signalling an expanding economy.
-
-Sri Lanka earned US$ 877.6 million from merchandise exports in April, up 3.4 percent from a year ago.
-
-However, the figure was down from US$ 1,139 million earned in March, which was the highest since August 2022.
-
-Imports recorded US$ 1,435.2 million, up just 0.3 percent from a year ago.
-
-This together resulted in a trade deficit of US$ 557.7 million, eased from US$ 582.6 million a year ago. For the four months, the deficit was recorded at US$ 1,777.1 million, up from US$ 1,479.0 million in the corresponding period in 2023.
-
-The rising trade deficit wasn’t something to be alarmed of as it reflects that the economy was expanding after a prolonged contraction caused by ultra-tight monetary and fiscal policies.
-
-...
-
-[Data](articles/b44fcfdd.json)
-
-[Extended Data](ext_articles/b44fcfdd.ext.json)
 
 ---

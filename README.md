@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-03 19:52:56**
+As of **2024-06-03 20:04:58**
 
 ## Newspaper Stats
 
-*Scraped **28,158** Articles*
+*Scraped **28,167** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,119 @@ dailyftlk | 1,644
 adalk | 2,402
 adaderanalk | 3,207
 tamilmirrorlk | 3,299
-virakesarilk | 4,335
+virakesarilk | 4,342
 dailymirrorlk | 4,459
-adaderanasinhalalk | 4,522
+adaderanasinhalalk | 4,524
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,158 (100.0%) of 28,158 articles have been extended.
+28,158 (100.0%) of 28,167 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-03 (Monday)
+
+### களனி, கடுவெல, கம்பஹா கல்வி வலய பாடசாலைகளுக்கு பூட்டு!
+
+*2024-06-03 19:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/185245) · `ta`
+
+கம்பஹா மாவட்டத்தின் கம்பஹா கல்வி வலயத்திற்கு உட்பட்ட பாடசாலைகள் அனைத்தும் 04ஆம் திகதி செவ்வாய்க்கிழமை  மூடப்படும் என வலய கல்வி பணிமனை அறிவித்துள்ளது.
+
+அத்துடன், களனி மற்றும் கடுவெல கல்வி வலய பாடசாலைகளுக்கும் நாளை விடுமுறை வழங்க தீர்மானிக்கப்பட்டுள்ளது.
+
+இரத்தினபுரி, கேகாலை, களுத்துறை, காலி மற்றும் மாத்தறை மாவட்ட பாடசாலைகளுக்கும், ஹோமாகம கல்வி வலயத்திற்கு உட்பட்ட அனைத்து பாடசாலைகளும் 04ஆம் திகதி  விடுமுறை வழங்கப்பட்டுள்ளதாக கல்வி அமைச்சு அறிவித்துள்ளது.
+
+◼️
+
+[Data](articles/1f7bbc6b.json)
+
+---
+
+### කාසියේ වාසිය ශ්‍රී ලංකාවට
+
+*2024-06-03 19:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197350) · `si`
+
+20යි 20 ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ ශ්‍රී ලංකා කණ්ඩායම මුහුණ දෙන පළමු තරගය අද (03) දකුණු අප්‍රිකානු කණ්ඩායම සමග පැවැත්වෙයි.
+
+එම තරගයේ කාසියේ වාසිය දිනාගැනීමට ශ්‍රී ලංකා කණ්ඩායම කණ්ඩායම සමත්විය.
+
+◼️
+
+[Data](articles/c6e51374.json)
+
+---
+
+### அனர்த்தத்தினால் பாதிக்கப்பட்ட மக்களின் நிலைமையை நேரில் கண்டறிவதற்காக கொலன்னாவ, களனி மற்றும் அம்பத்தளை பிரதேசங்களுக்கு ஜனாதிபதி மேற்பார்வை விஜயம்
+
+*2024-06-03 19:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/185244) · `ta`
+
+களனி ஆற்றுப் பள்ளத்தாக்கில் வெள்ளத்தை ஏற்படுத்தும் வகையிலும், மழை நீர் வழிந்தோடுவதைத் தடுக்கும் வகையிலும் மேற்கொள்ளப்படும் புதிய நிர்மாணங்களுக்கு இடமளிக்க வேண்டாம் என ஜனாதிபதி ரணில் விக்ரமசிங்க அதிகாரிகளுக்கு பணிப்புரை விடுத்துள்ளார்.
+
+குறித்த பிரதேசங்களில் சட்டவிரோதமான முறையில் நிலம் நிரப்பப்படுவதை உடனடியாக நிறுத்துவதற்கும் முல்லேரியா மற்றும் IDH வைத்தியசாலைகளை வேறு இடத்திற்கு மாற்றுவதற்கும் நடவடிக்கை எடுக்குமாறு அதிகாரிகளுக்கு ஜனாதிபதி பணிப்புரை விடுத்தார்.
+
+சீரற்ற காலநிலையினால் ஏற்பட்ட வெள்ளம் மற்றும்  அனர்த்தங்களினால் பாதிக்கப்பட்ட மக்களின் நிலைமைகளைக் கண்டறிவதற்காக ஜனாதிபதி ரணில் விக்ரமசிங்க 03 ஆம் திகதி திங்கட்கிழமை கொலன்னாவ, களனி, அம்பத்தளை ஆகிய பிரதேசங்களுக்கு மேற்பார்வை விஜயம் மேற்கொண்டார். கொலன்னாவை சேதாவத்த வெஹெரகொட ரஜமஹா விகாரையில் நடைபெற்ற  கலந்துரையாடலில்  ஜனாதிபதி இந்த அறிவுறுத்தல்களை வழங்கினார்.
+
+...
+
+[Data](articles/d665b5f1.json)
+
+---
+
+### එජාප ය මැතිවරණය ඉලක්ක කර නව නිලධාරී මණ්ඩලයක් පත්කරයි
+
+*2024-06-03 19:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197349) · `si`
+
+එක්සත් ජාතික පක්ෂ කෘත්‍යාධිකාරී මණ්ඩලය ඉදිරි මැතිවරණ ඉලක්ක කර ගනිමින් නව නිලධාරී මණ්ඩලයක් පත් කරගනු ලැබීය.
+
+එක්සත් ජාතික පක්ෂ නායක ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් පිටකෝට්ටේ සිරිකොත පක්ෂ මූලස්ථානයේ දී කෘත්‍යාධිකාරී මණ්ඩලය ඊයේ රැස්විය.
+
+එහිදී ජාතික මැතිවරණ සංවිධායක ලෙස අමාත්‍ය හරීන් ප්‍රනාන්දු මහතා පත්කර ගනු ලැබූ අතර ජාතික ලේකම් වශයෙන් හිටපු අමාත්‍ය රවී කරුණානායක මහතා පත්විය.
+
+ජනාධිපති නීතීඥ රොනල්ඩ් පෙරේරා මහතා මැතිවරණ නියෝජ්‍ය මහ ලේකම් ධුරයට පත් කෙරිණි.
+
+මීට අමතරව එක්සත් ජාතික පක්ෂ නිලධාරී මණ්ඩලයේ ද සුළු වෙනසක් සිදු කෙරුණු අතර එක්සත් ජාතික පක්ෂයේ භාණ්ඩාගාරික ලෙස ෆිරෝස් ශාබ්දීන් මහතාද භාණ්ඩාගාරික ලෙස කටයුතු කළ මිස්බා සතාර් මහතා උප සභාපති ලෙසද , ක්‍රිෂාන් තියඩෝර් මහතා නියෝජ්‍ය මහලේකම් ලෙසද පත් කෙරිණි.
+
+මේ අතර එක්සත් ජාතික පක්ෂයේ නියෝජ්‍ය නායක රුවන් විජයවර්ධන, මහලේකම්  පාලිත රංගෙ බණ්ඩාර, සභාපති  වජිර අබේවර්ධන, ජාතික සංවිධායක සාගල රත්නායක, උපනායක අකිල අකිල විරාජ් කාරියවසම් මහත්වරුන් ප්‍රමුඛ සෙසු නිලධාරීන්ගේ තනතුරු වෙනස් නොවී පවත්වා ගෙන යාමටද කෘත්‍යාධිකාරි මණ්ඩලයේදී  තීරණය කෙරිණි.
+
+◼️
+
+[Data](articles/0d5a8707.json)
+
+---
+
+### ஜெயம் ரவி நடிக்கும் 'காதலிக்க நேரமில்லை' பட பிரத்யேக காணொளி வெளியீடு
+
+*2024-06-03 19:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/185202) · `ta`
+
+தமிழ் திரையுலகின் முன்னணி நட்சத்திர நடிகரான ஜெயம் ரவி கதையின் நாயகனாகவும், கதாநாயகனாகவும் நடித்திருக்கும் 'காதலிக்க நேரமில்லை' எனும் திரைப்படத்தின் பாடல்கள் விரைவில் வெளியாகவிருக்கிறது. இந்நிலையில் இதற்காக பிரத்யேக காணொளி ஒன்றை படக்குழுவினர் வெளியிட்டு, படத்தின் பாடல்களைப் பற்றிய எதிர்பார்ப்பை ஏற்படுத்தியிருக்கிறார்கள்.
+
+இயக்குநர் கிருத்திகா உதயநிதி இயக்கத்தில் உருவாகி இருக்கும் 'காதலிக்க நேரமில்லை' எனும் திரைப்படத்தில் ஜெயம் ரவி, நித்யா மேனன், யோகி பாபு, வினய் ராய், டி ஜே பானு, ஜான் கொக்கன், லால், லக்ஷ்மி ராமகிருஷ்ணன், பாடகர் மனோ, வினோதினி வைத்தியநாதன் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். கேவ்மிக் ஆரி ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு 'இசை புயல்' ஏ. ஆர். ரஹ்மான் இசையமைத்திருக்கிறார்.  காதலை மையப்படுத்தி தயாராகி இருக்கும் இந்த திரைப்படத்தை ரெட் ஜெயன்ட் மூவிஸ் பிரைவேட் லிமிடெட் நிறுவனம் தயாரித்திருக்கிறது.
+
+...
+
+[Data](articles/48a4b103.json)
+
+---
+
+### சீரற்ற வானிலையால் இரண்டு வாரங்களில் 24 மரணங்கள் - அனர்த்த முகாமைத்துவ மத்திய நிலையம்
+
+*2024-06-03 19:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/185240) · `ta`
+
+நாட்டில் கடந்த சில தினங்களாக நிலவும் சீரற்ற காலநிலை காரணமாக சுமார் பல மாவட்டங்கள் கடுமையாகப் பாதிக்கப்பட்டுள்ளன. குறிப்பாக இரத்தினபுரி மற்றும் மாத்தறை மாவட்டங்களில் அதிகளவான மரணங்களும் பதிவாகியுள்ளன.
+
+முதலாம் மற்றும் இரண்டாம் திகதிகளில் 9 மரணங்கள் பதிவாகியிருந்த நிலையில் திங்கட்கிழமை (3) காலை 6 மணி வரை அந்த எண்ணிக்கை 16ஆக உயர்வடைந்துள்ளதாக அனர்த்த முகாமைத்துவ மத்திய நிலையம் தெரிவித்துள்ளது.
+
+அதற்கமைய 3 தினங்களில் இரத்தினபுரி மாவட்டத்தில் 5 மரணங்களும், கொழும்பில் 3 மரணங்களும், மாத்தறையில் 6 மரணங்களும், காலியில் இரு மரணங்களும்  பதிவாகியுள்ளதாக அனர்த்த முகாமைத்துவ மத்திய நிலையம் தெரிவித்துள்ளது.
+
+மேலும் மே மாதம் 15ஆம் திகதி முதல் கடந்த முதலாம் திகதி வரையான இரண்டு வாரங்களில் மாத்திரம் மரம் முறிந்து விழுந்தமையால் காலி, இரத்தினபுரி, புத்தளம், நுவரெலியா மற்றும் பதுளை மாவட்டங்களில் 8 பேர் உயிரிழந்துள்ளனர்.
+
+...
+
+[Data](articles/913e6313.json)
+
+---
 
 ### Tom Tom Tom Tomorrow for several other regions
 
@@ -532,6 +632,50 @@ A bond maturing on 01.07.2028 closed stable at 10.80/90 percent.
 
 ---
 
+### 'Indian 2' in the alliance of magnitude
+
+*2024-06-03 16:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/185196) · `ta`
+
+"Indian 2," a highly anticipated Tamil film, reunites Kamal Haasan with director Shankar, six years after "Enthiran 2.0." Featuring a star-studded cast including Siddharth, Kajal Agarwal, Rakul Preet Singh, Surya, and more, it's set for release in five languages on July 12. The film's music launch at Chennai's Nehru Indoor Stadium saw participation from actors like Silambarasan and directors Lokesh Kanakaraj and Nelson Dileep Kumar. Despite a setback during filming due to an accident, the team persevered, completing the project with support from Red Giant Movies.
+
+🟩
+
+"Indian 2 'has been formed in the alliance of Tamil cinema," said GKM Thamilkumaran, CEO of Leica Productions.
+
+Kamal Haasan, Siddharth, Kajal Agarwal, Rakul Preet Singh, Shankar, directed by director Shankar. J.. Surya, Bobby Simha, Priya Bhavani Shankar, Brahmanandam, Samudrakani, Gulshan Grover and many others have played. Anirudh has composed the film, which is being recorded by Ravi Varman. The film was co -produced by Laika Productions and Red Giant Movies.
+
+The film will be released in Tamil, Telugu, Malayalam, Kannada and Hindi on the 12th of July.. The music release of the film was held at the Nehru Indoor Stadium in Chennai on the first day of June. Actor Silambarasan, directors Lokesh Kanakaraj and Nelson Dileep Kumar participated as special guests.
+
+...
+
+[Data](articles/6f6c4eac.json)
+
+[Extended Data](ext_articles/6f6c4eac.ext.json)
+
+---
+
+### இந்திய அரசியலில் மாற்றத்தை ஏற்படுத்தியவர் கலைஞர் கருணாநிதி : ராகுல் காந்தி
+
+*2024-06-03 16:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/185223) · `ta`
+
+''இந்திய அரசியலில் மாற்றத்தை ஏற்படுத்தியவர் முன்னாள் தமிழக முதல்வர் கலைஞர் கருணாநிதி'' என காங்கிரஸ் கட்சியின் முன்னாள் தலைவரும், முன்னணி தலைவருமான ராகுல் காந்தி புகழாரம் சூட்டியுள்ளார்.
+
+மறைந்த தமிழக முன்னாள் முதல்வர் கலைஞர் கருணாநிதியின் 101 வது பிறந்தநாள் இன்று தமிழகம் முழுவதும்  சிறப்பாக கொண்டாடப்படுகிறது.
+
+இதன் ஒரு பகுதியாக புது தில்லியில் உள்ள திமுக அலுவலகத்தில் கலைஞர் கருணாநிதிக்கு அஞ்சலி செலுத்தும் நிகழ்வு நடைபெற்றது.
+
+இதன் போது காங்கிரஸ் கட்சியின் மூத்த தலைவரான சோனியா காந்தி, ராகுல் காந்தி, மார்க்சிஸ்ட் கம்யூனிஸ்ட் கட்சியின் பொதுச்செயலாளர் சீதாராம் யெச்சூரி, இந்திய கம்யூனிஸ்ட் கட்சியின் பொதுச்செயலாளர் டி ராஜா, திமுக கட்சியின் முன்னணி மற்றும் மூத்த நிர்வாகிகளான திருச்சி சிவா, டி. ஆர். பாலு உள்ளிட்ட பலர் பங்குபற்றினர்.
+
+கலைஞர் கருணாநிதியின் புகைப்படத்திற்கு மலர் தூவி மரியாதை செலுத்திய புகைப்படங்களை தன்னுடைய எக்ஸ் தளத்தில் ராகுல் காந்தி பதிவிட்டிருக்கிறார். அதனுடன்
+
+'' தமிழகத்தின் முன்னாள் முதல்வர் கலைஞர் மு கருணாநிதியின் பிறந்த நாளில் அவருக்கு நெஞ்சார்ந்த அஞ்சலிகள்.
+
+...
+
+[Data](articles/3ca7e04a.json)
+
+---
+
 ### Bodies found in the Harmal
 
 *2024-06-03 16:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197341) · `si`
@@ -642,6 +786,18 @@ All access roads to Neluwa hospital had gone under water bringing transport of p
 
 ---
 
+### இந்தியாவின் அடுத்த பிரதமர் யார்? ; கருத்து கணிப்பு கூறுவது என்ன ?
+
+*2024-06-03 16:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/185221) · `ta`
+
+உலகின் பல முன்னணி ஊடகங்களின் நாளைய தலைப்புச்  செய்தியாக அமைய போவது,  இந்திய தேர்தல் மற்றும் பிரதமர் யார் ? என்பது தொடர்பான முக்கிய செய்திகள் என்று கூறலாம்.
+
+◼️
+
+[Data](articles/94809f5b.json)
+
+---
+
 ### What happened to Ranwala Devalaya after the violence was over
 
 *2024-06-03 16:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197339) · `si`
@@ -725,6 +881,28 @@ Manager of the Bureau's Special Investigation Division (Special Investigation Di
 [Data](articles/89399f7c.json)
 
 [Extended Data](ext_articles/89399f7c.ext.json)
+
+---
+
+### பாலித ரங்கே பண்டாரவின் கருத்துக்கள் குறுகிய அரசியல் நோக்கங்களுக்காக திரிபுபடுத்தப்பட்டுள்ளன - ஜானக வக்கும்பர
+
+*2024-06-03 16:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/185213) · `ta`
+
+ஐக்கிய தேசிய கட்சியின் பொதுச் செயலாளர் பாலித ரங்கே பண்டார தெரிவித்த கருத்தினை சில கட்சிகள் தமது குறுகிய அரசியல் நோக்கங்களுக்காக திரிபுபடுத்தியுள்ளன.
+
+அவை குறிப்பிடுவதைப் போன்று ஜனாதிபதியோ, அரசாங்கமோ தேர்தலை நடத்தாமலிருப்பதற்கு திட்டமிடவில்லை என்று உள்ளுராட்சி மற்றும் மாகாணசபைகள் இராஜாங்க அமைச்சர் ஜானக வக்கும்பர தெரிவித்தார்.
+
+ஜனாதிபதி ஊடக மையத்தில் திங்கட்கிழமை (3)  இடம்பெற்ற ஊடகவியலாளர் மாநாட்டில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+
+ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கு மேலும் 2 வருடங்கள் காலத்தை வழங்கினால் சிறந்தது என்றே பாலித ரங்கே பண்டார தெரிவித்தார்.
+
+அடுத்த ஆண்டு ஆகஸ்ட் வரை பாராளுமன்றத்துக்கு பதவி காலம் உள்ளது. ஜனாதிபதியால் கலைக்கப்படாவிட்டால் அடுத்த வருடம் வரை பாராளுமன்றம் இயங்கும்.
+
+இவ்வாண்டு ஒக்டோபர் 17ஆம் திகதிக்கு முன்னர் ஜனாதிபதித் தேர்தல் நடத்தப்பட வேண்டும். அரசியலமைப்பில் அவ்வாறே கூறப்பட்டுள்ளது. அதற்கமையவே நாம் செயற்பட வேண்டும். ஜனாதிபதியும் அதனை பல சந்தர்ப்பங்களில் உறுதிபட கூறியுள்ளார்.
+
+...
+
+[Data](articles/34f857d6.json)
 
 ---
 
@@ -901,28 +1079,6 @@ Accordingly, the maximum retail price of 50 kilograms is Rs. 2250 and the maximu
 [Data](articles/0ac972ea.json)
 
 [Extended Data](ext_articles/0ac972ea.ext.json)
-
----
-
-### 'Indian 2' in the alliance of magnitude
-
-*2024-06-03 15:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/185196) · `ta`
-
-"Indian 2," a highly anticipated Tamil film, reunites Kamal Haasan with director Shankar, six years after "Enthiran 2.0." Featuring a star-studded cast including Siddharth, Kajal Agarwal, Rakul Preet Singh, Surya, and more, it's set for release in five languages on July 12. The film's music launch at Chennai's Nehru Indoor Stadium saw participation from actors like Silambarasan and directors Lokesh Kanakaraj and Nelson Dileep Kumar. Despite a setback during filming due to an accident, the team persevered, completing the project with support from Red Giant Movies.
-
-🟩
-
-"Indian 2 'has been formed in the alliance of Tamil cinema," said GKM Thamilkumaran, CEO of Leica Productions.
-
-Kamal Haasan, Siddharth, Kajal Agarwal, Rakul Preet Singh, Shankar, directed by director Shankar. J.. Surya, Bobby Simha, Priya Bhavani Shankar, Brahmanandam, Samudrakani, Gulshan Grover and many others have played. Anirudh has composed the film, which is being recorded by Ravi Varman. The film was co -produced by Laika Productions and Red Giant Movies.
-
-The film will be released in Tamil, Telugu, Malayalam, Kannada and Hindi on the 12th of July.. The music release of the film was held at the Nehru Indoor Stadium in Chennai on the first day of June. Actor Silambarasan, directors Lokesh Kanakaraj and Nelson Dileep Kumar participated as special guests.
-
-...
-
-[Data](articles/6f6c4eac.json)
-
-[Extended Data](ext_articles/6f6c4eac.ext.json)
 
 ---
 
@@ -1987,187 +2143,5 @@ Here you can see that this rustic earth is decorated with the Weerakesari magazi
 [Data](articles/ae6b092c.json)
 
 [Extended Data](ext_articles/ae6b092c.ext.json)
-
----
-
-### Two districts of two districts tomorrow and tomorrow
-
-*2024-06-03 12:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197324) · `si`
-
-Governor Lakshman Yapa Abeywardena, after a meeting with Educational Authorities, announced that due to ongoing disasters, schools in Galle and Matara Districts will be closed tomorrow (04).
-
-🟩
-
-Due to the prevailing disaster, he has decided to grant all school leave in the Galle and Matara Districts tomorrow (04) and tomorrow.
-
-The decision was taken at a meeting with the Educational Authorities by Governor Lakshman Yapa Abeywardena.
-
-◼️
-
-[Data](articles/00aa8c10.json)
-
-[Extended Data](ext_articles/00aa8c10.ext.json)
-
----
-
-### Sri Lanka’s Expolanka Holdings PLC extends exit offer
-
-*2024-06-03 11:58:00* · [`economynextcom`](https://economynext.com/sri-lankas-expolanka-holdings-plc-extends-exit-offer-165852/) · `en`
-
-ECONOMYNEXT – Expolanka Holdings PLC has said it is extending its Exit Offer till 4.30 PM on Monday, 10th June 2024.
-
-SG Holdings, the parent company of Expolanka Holdings Plc, announced on March 1 it was delisting the company from the Colombo Stock Exchange.
-
-Some minority shareholders have filed a case challenging the delisting of Expolanka Holdings PLC before the Court of Appeal of Sri Lanka.
-
-“By reason of the aforesaid and by reason of the many requests received by Foreign shareholders and representatives of deceased shareholders requesting additional time, the Company has taken the decision to extend the Exit Offer till 4.30 PM on Monday, 10th June 2024,” Expolanka said in a stock exchange filing.
-
-“The Payments for the Offer received from 4th June 2024 to 10th June 2024 hall be made on or before, 28th June 2024.
-
-“The timelines as set out in the original Exit Offer too shall continue to remain.” (Colombo/June3/2024)
-
-◼️
-
-[Data](articles/97209172.json)
-
-[Extended Data](ext_articles/97209172.ext.json)
-
----
-
-### Schools closed in Galle and Matara districts
-
-*2024-06-03 11:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/99622/schools-closed-in-galle-and-matara-districts) · `en`
-
-It has been decided to close all the schools in the Galle and Matara districts on Tuesday (June 04) and Wednesday (June 05) due to the prevailing adverse weather conditions, Governor of the Southern Province Lakshman Yapa Abeywardena said.
-
-The decision was communicated during a press conference being held in Colombo regarding the prevailing disaster situation across the island.
-
-He added that the decision was taken after discussions with the Education Ministry.
-
-◼️
-
-[Data](articles/b6c1fba9.json)
-
-[Extended Data](ext_articles/b6c1fba9.ext.json)
-
----
-
-### Death toll from adverse weather climbs to 12; thousands displaced
-
-*2024-06-03 11:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/99621/death-toll-from-adverse-weather-climbs-to-12-thousands-displaced) · `en`
-
-The number of casualties reported due to the prevailing adverse weather conditions across the island has climbed to 12, as of today (June 03), State Minister of Defence, Pramitha Bandara Tennakoon said.
-
-Meanwhile, 05 persons are still reported missing due to various incidents caused by the extreme weather including floods and mudslides.
-
-Additionally, the State Minister also mentioned that 23,707 persons from 2,313 affected families are currently in relief centres established across the island.
-
-◼️
-
-[Data](articles/545ed7fd.json)
-
-[Extended Data](ext_articles/545ed7fd.ext.json)
-
----
-
-### UGC begins issuing university admissions students’ handbooks
-
-*2024-06-03 11:50:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/UGC-begins-issuing-university-admissions-students-handbooks/108-283979) · `en`
-
-Colombo, June 3 (Daily Mirror) - The University Grants Commission (UGC) has begun issuing the university admissions students' handbook for the students who are eligible for university entrance. UGC Chairman Senior Professor Sampath Amaratunga said.
-
-Accordingly, 269,613 candidates sat for the GCE (A/L) examinations, and 173,444 students have fulfilled the basic eligibility requirements for university entrance for 2024.
-
-The 2023 (2024) GCE Advanced Level (A/L) examination was held on January 4, 2024, and the results were issued on May 31, 2024.
-
-The students can log on to the UGC official website, www.ugc.ac.lk, and download the application available in three languages.
-
-There is no way to obtain the students' handbooks from book shops except online.
-
-It is said that the university admission handbooks valid for the academic year 2023-2024 is protected under the copyright laws of Sri Lanka.
-
-...
-
-[Data](articles/22c8d355.json)
-
-[Extended Data](ext_articles/22c8d355.ext.json)
-
----
-
-### T20 World Cup 2024: Sri Lanka start campaign against South Africa today
-
-*2024-06-03 11:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/T20-World-Cup-2024-Sri-Lanka-start-campaign-against-South-Africa-today/108-283978) · `en`
-
-June 3 - One of the most exciting matches in the T20 World Cup is that of Sri Lanka vs South Africa that will take place at the Nassau County International Stadium in New York.
-
-Daily Mirror partners with BETSS for live coverage of today's match, starting at 08:00 PM Sri Lanka time.
-
-Both Sri Lanka and South Africa have stars who shone in the recently concluded IPL. Matheesha Pathirana, who took 13 wickets for Chennai Super Kings at an economy rate of 7.68, will be a force to be reckoned with, as will be South Africa’s Heinrich Klaasen, who scored 479 runs for Sunrisers Hyderabad as they secured a runners-up finish in the IPL final.
-
-It’s not just Pathirana who brings express pace for Sri Lanka. Dishan Madushanka and Dushmantha Chameera can also bowl express pace. Nuwan Thushara, meanwhile, has had his highs and lows but his figures of 5/20 against Bangladesh in a T20I n March will act as an inspiration of sorts to do better.
-
-...
-
-[Data](articles/25eb5df8.json)
-
-[Extended Data](ext_articles/25eb5df8.ext.json)
-
----
-
-### Disaster deaths up
-
-*2024-06-03 11:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197323) · `si`
-
-Due to severe weather, 12 deaths and 5 missing cases were reported. Additionally, 23,707 individuals from 2,313 families are housed in temporary shelters.
-
-🟩
-
-According to state Minister Pipain Bandara Tennakoon, US Pindical Minister Pipain Bandara Tennakoon said that 12 persons have died due to the inclement weather.
-
-He added that five other people have gone missing.
-
-In the meantime, 23,707 persons belonging to 2,313 persons belonging to 2,313 families have been affected and they have been parked in temporary detention centers.
-
-◼️
-
-[Data](articles/01d0dc2c.json)
-
-[Extended Data](ext_articles/01d0dc2c.ext.json)
-
----
-
-### Old Bottles, Spent Wine
-
-*2024-06-03 11:41:00* · [`islandlk`](http://island.lk/old-bottles-spent-wine/) · `en`
-
-With elections coming up in a few months’ time – notwithstanding Palitha Range Bandara’s outrageous remarks, to which Saliya Pieris, the former President of the Bar Association, responded thoughtfully – new coalitions and alliances are cropping up. These have pulled together the unlikeliest MPs and ideologues, who you’d never put together in the same room but who have, in the aftermath of the 2022 crisis, have unified around certain issues. Outside of the government, the consensus seems to be that we have yet to see a proper Opposition. This is the selling promise of these new coalitions: they tout themselves as that proper Opposition, the only political groups that matter.
-
-...
-
-[Data](articles/16cf1021.json)
-
-[Extended Data](ext_articles/16cf1021.ext.json)
-
----
-
-### Pakistan committed to enhance cooperation in economy and tourism with Sri Lanka - Punjab Governor
-
-*2024-06-03 11:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/99619/pakistan-committed-to-enhance-cooperation-in-economy-and-tourism-with-sri-lanka-punjab-governor) · `en`
-
-The Punjab Governor of Pakistan Sardar Saleem Haider Khan has assured that Pakistan is committed to extending cultural ties with Sri Lanka, the Pakistani media reported.
-
-The Punjab Governor made this remark during a bilateral meeting that took place between a Sri Lankan delegation led by Minister of Buddhadasna Religious and Cultural Affairs Vidura Wickramanayaka who is currently on an official visit to Pakistan.
-
-The delegation called on Punjab Governor Haider Khan at his official residence in Lahore, Pakistan on Sunday (02), the foreign media reports added.
-
-During the meeting, both parties have discussed the issues of mutual interest, and ways to enhance cooperation in economic, tourism and other sectors between the two countries.
-
-The Punjab Governor has expressed that Pakistan and Sri Lanka have cordial relations, while underscoring the need to enhance existing bilateral cooperation between the two countries.
-
-...
-
-[Data](articles/cdbffd9a.json)
-
-[Extended Data](ext_articles/cdbffd9a.ext.json)
 
 ---

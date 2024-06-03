@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-04 04:34:29**
+As of **2024-06-04 04:52:52**
 
 ## Newspaper Stats
 
@@ -26,23 +26,31 @@ adaderanasinhalalk | 4,529
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,225 (100.0%) of 28,226 articles have been extended.
+28,226 (100.0%) of 28,226 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-04 (Tuesday)
 
-### ’கோழி கிடைத்தால் புரியாணி போடுங்கள்’
+### If you get a chicken chicken
 
 *2024-06-04 03:29:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோழி-கிடைத்தால்-புரியாணி-போடுங்கள்/175-338394) · `ta`
 
-இரத்தினபுரி மாவட்டத்தில் தொடர்ந்து கை தவறி போகும் தமிழ் பாராளுமன்ற பிரதிநிதித்துவத்தை இம்முறை  பெற்றே தீருவோம். ஒன்றேகால் இலட்சம் தமிழர் வாழும், எழுபத்தி ஐயாயிரம் தமிழ் வாக்காளர் வாழும் இரத்தினபுரியில் எம்பி பதவியை பெறுவது எமது உரிமை. அது ஒரு சலுகை அல்ல. ஆகவே அடுத்த முறை எங்கள் வேட்பாளர் சந்திர குமார் இரத்தினபுரி மாவட்டத்தின் எம்பியாக வெற்றி பெற்று வருவார் என்று தமிழ் முற்போக்கு கூட்டணி தலைவர் மனோ கணேசன் கூறியுள்ளார்..
+Mano Ganesan, leader of the Tamil Progressive Alliance, asserts the right of Tamils in Ratnapura to have their own MP, highlighting the significant Tamil population there. He promises victory for their candidate, Chandra Kumar, in the upcoming elections. Ganesan warns against vote splitting among Tamil voters by rival parties using animal symbols, emphasizing the importance of unity. The conference aimed to address challenges faced by Tamils in districts like Kegalle, Ratnapura, Kandy, Gampaha, and Colombo, where they are minorities, and stressed the need for their representatives to advocate for their rights and concerns.
 
-இப்படி எமது கடும் உழைப்பினால் தமிழ் பிரதிநிதித்துவங்களை நமது இனம் பெறுகின்ற சூழல் கூடி வரும் போது, நாய், நரி, பூனை, யானை, காகம், குருவி, கோழி சின்னங்களை தூக்கி கொண்டு வந்து தமிழ் வாக்குகளை சிதறடிக்க இப்போதே சிலர் திட்டம் போடுகிறார்கள். துரோகிகளான இவர்கள் தலைகளில் இடிதான் விழ வேண்டும்.  நாய், நரி, பூனை, காகம், குருவி வந்தால் விரட்டி விடுங்கள். கோழி கிடைத்தால் பிடித்து புரியாணி போடுங்கள் என்றார்.
+🟩
+
+This time we will get the representation of the Tamil parliamentary representation in the Ratnapura district.. It is our right to obtain MP post in Ratnapura, where one million Tamils ​​live, seventy -five thousand Tamil voters. That is not a offer. So the next time our candidate Chandra Kumar will win the MP of the Ratnapura District, Tamil Progressive Alliance leader Mano Ganesan said.
+
+When our race comes to our race, we are planning to raise the Tamil votes, while the dog, fox, cat, elephant, crow, sparrows, poultry symbols are being scattered.. Those who are traitors must fall on their heads.Dog, fox, cat, crow, sparrow. If you get the chicken, take it and put it.
+
+The Ratnapura District Conference of the Democratic People's Front, a partner of the Tamil Progressive Alliance, was organized by District Organizer Chandrakumar at the Ratnapura Municipal Council chaired by Mano Ganesan, who delivered the chief speech.
 
 ...
 
 [Data](articles/91436e61.json)
+
+[Extended Data](ext_articles/91436e61.ext.json)
 
 ---
 

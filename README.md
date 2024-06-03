@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-03 10:06:01**
+As of **2024-06-03 10:18:54**
 
 ## Newspaper Stats
 
-*Scraped **28,020** Articles*
+*Scraped **28,024** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,21 +20,77 @@ adaderanalk | 3,183
 tamilmirrorlk | 3,282
 virakesarilk | 4,322
 dailymirrorlk | 4,441
-adaderanasinhalalk | 4,489
+adaderanasinhalalk | 4,493
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,020 (100.0%) of 28,020 articles have been extended.
+28,020 (100.0%) of 28,024 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-03 (Monday)
 
+### දක්ෂිණ අධිවේගයේ වැලිපැන්න හුවමාරුව විවෘත කෙරේ
+
+*2024-06-03 09:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197318) · `si`
+
+ගංවතුර හේතුවෙන් වසා දැමුණු දක්ෂිණ අධිවේගී මාර්ගයේ වැලිපැන්න හුවමාරුව මේ වනවිට ගමනාගමනය සඳහා යළි විවෘත කර තිබේ.
+
+◼️
+
+[Data](articles/15e7f6a8.json)
+
+---
+
+### හොර ඉන්දීය පාස්පෝට් හැදූ ලාංකිකයින් ඉන්දියාවේ දීම කොටුවෙයි
+
+*2024-06-03 09:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197317) · `si`
+
+ශ්‍රී ලාංකික සරණාගතයින්ට නීතිවිරෝධී ලෙස ඉන්දීය විදේශ ගමන් බලපත්‍ර සකස් කරදීම සම්බන්ධයෙන් ශ්‍රී ලාංකිකයින් දෙදෙනෙකු ඇතුළු තිදෙනෙකු ඉන්දීය බලධාරීන් විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව මඟින් මෙම සැකකරුවන් පිරිස තමිල්නාඩුවේ දී අත්අඩංගුවට ගෙන ඇති බව ඉන්දීය මාධ්‍ය වාර්තා කළේය.
+
+ශ්‍රී ලාංකිකයින් දෙදෙනා සමග ඉන්දීය ජාතික කාන්තාවක් ද අත්අඩංගුවට ගෙන ඇති අතර, ඇය විදේශ ගමන් බලපත්‍ර සැපයු තැනැත්තිය බවට සැකපළ කරයි.
+
+මොවුන් විසින් ශ්‍රී ලාංකිකයින් 21 දෙනෙකුට ඉන්දියානු විදේශ ගමන් බලපත්‍ර ලබාගැනීමට පහසුකම් සපයා ඇති බව ඉන්දීය පොලීසිය සඳහන් කර ඇත.
+
+කෙසේවෙතත් ඉන්දීය අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව මෙම ජාවාරම සම්බන්ධයෙන් ලද තොරතුරු මත සිය පරීක්ෂණ කටයුතු මෙම වසරේ ජනවාරි මාසයේ දී ආරම්භ කර තිබේ.
+
+ඒ අනුව මේ වන විට ජාවාරම සම්බන්ධයෙන් පුද්ගලයින් 26 දෙනෙකු අත්අඩංගුවට ගෙන ඇති බව ඉන්දීය මාධ්‍ය වාර්තා කළේය.
+
+එම පිරිස අතර ද ශ්‍රී ලාංකිකයින් තිදෙනෙකු සිටින බව වාර්තා කරන ඉන්දීය පොලීසිය පෙන්වා දෙන්නේ, ජාවාරම සම්බන්ධයෙන් පොලිස් නිලධාරීන් 06 දෙනෙකු ද අත්අඩංගුවට ගෙන ඇති බවය.
+
+◼️
+
+[Data](articles/5aebe857.json)
+
+---
+
+### නැමේබියාවට ජය
+
+*2024-06-03 09:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197316) · `si`
+
+ඕමානය සහ නැමේබියාව අතර පැවති 20යි 20 ලෝක කුසලාන තරගයෙන් ජය ගැනීමට නැමේබියාව සමත්විය.
+
+එහිදී පළමුව පන්දුවට පහරදුන් ඕමාන කණ්ඩායම රැස්කළේ පන්දු ඕවර 19.4කදී ලකුණු 109ක් පමණි.
+
+පිළිතුරු ඉනිම ක්‍රීඩාකළ නැමීබියා කණ්ඩායම ට සිය පන්දුවාර 20දී රැස්කරගත හැකි වූයේ ලකුණු 109ක් පමණි. එහිදී ඔවුන්ගේ කඩුලු 6ක් දැවී ගියේය.
+
+ඒ අනුව තරගයේ තීරණයක් ලබා ගැනීම සඳහා සුපර් ඕවරය භාවිත විය. එහිදී පළමුව පන්දුවට පහරදුන් නැමීබියා කණ්ඩායම එම ඕවරයේ දී ලකුණු 21ක් රැස්‌ කළේය.
+
+මේ අතර සම-සත්කාරක බටහිර ඉන්දීය කොදෙව් කණ්ඩායම සහ පැපුවා නිව්ගිනියා කණ්ඩායම අතර ගයනා, ප්‍රොවිඩන්ස් ක්‍රීඩාංගණයේ පැවති තරගය කඩුලු 5කින් ජය ගැනීමට කොදෙව් ක්‍රීඩකයෝ සමත් වූහ.
+
+◼️
+
+[Data](articles/d3c64e4b.json)
+
+---
+
 ### The number of casualties due to inclement weather has increased to 10
 
-*2024-06-03 09:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/185166) · `ta`
+*2024-06-03 09:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/185166) · `ta`
 
 Casualties from inclement weather now total 10, with 5 missing. Minister Tennakoon confirms damage from floods and landslides across the country.
 
@@ -51,6 +107,54 @@ Natural disasters such as floods and landslides have been destroyed in many area
 [Data](articles/75f488d2.json)
 
 [Extended Data](ext_articles/75f488d2.ext.json)
+
+---
+
+### ජනාධිපතිවරණය අවසන් වු වහාම අතුරු සම්මත ගිණුමක් සම්මත කිරීමේ සුදානමක්‍
+
+*2024-06-03 09:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197315) · `si`
+
+ජනාධිපතිවරණය අවසන් වු වහාම අතුරු සම්මත ගිණුමක් සකස් කිරීමට රජයේ අවධානය යොමුවී ඇති බව වාර්තා වේ.
+
+මේ සම්බන්ධයෙන් මුදල් අමාත්‍යංශ නිලධාරීන්ට අදාළ උපදෙස් ලැබී ඇති බවද සඳහන්ය.
+
+ජාත්‍යන්තර මුල්‍ය අරමුදලේ ප්‍රතිපත්ති සහ ඉලක්කවලට අනුකූලව අතුරු සම්මත ගිණුමක් සකස්විය යුතු බවට ජනාධිපතිවරයා විසින් මීට පෙර උපදෙස් ලබා දී ඇති බව වාර්තා වේ.
+
+කෙසේවෙතත් ප්‍රථමයෙන් ජනාධිපතිවරණය පැවැත්වුවහොත් ඉන් අනතුරුව පාර්ලිමේන්තු මැතිවරණය ද පැවැත්වෙන අතර එම කාලය තුළ අයවැයක් සම්මත කිරීමට ප්‍රතිපාදන නොමැති බව සඳහන්ය.
+
+එම නිසා අතුරු සම්මත ගිණුමක් සකස් කිරීම වඩාත් සුදුසු බව මුදල් අමාත්‍යංශ නිලධාරීන් සමඟ පැවති සාකච්ඡාවක දී කරුණු හුවමාරු වී තිබේ.
+
+මේ අතර මැතිවරණ කාල සීමාව තුළ ජාත්‍යන්තර මුල්‍ය අරමුදලේ වැඩසටහනේ තිරසර බව තහවුරු කිරීමට අවශ්‍ය ඉලක්ක වෙත ළඟාවීමට අවශ්‍ය කටයුතු ජනාධිපතිවරයා විසින් සම්පාදනය කර ඇති බව සඳහන්ය.
+
+අන්තර්ජාතික මුල්‍ය අරමුදල සමඟ පවතින මීළඟ කාර්ය මණ්ඩල මට්ටමේ ගිවිසුම ගැටලුවලින් තොරව ළඟාකර ගැනීමට හැකිවන පරිදි එම ඉලක්ක සකස්කර තිබේ.
+
+...
+
+[Data](articles/5969a668.json)
+
+---
+
+### 6 lakhs 25 thousand rupees generator and grinder theft
+
+*2024-06-03 09:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/185158) · `ta`
+
+In Nawalapitiya-Kurunduwatta, four youths were arrested for stealing a generator and grinder worth 6 lakh 25 thousand rupees. They sold these items to a fish dealer for 75,000 rupees. The suspects are from Lantonhilpattu, and further inquiries are led by Chief Inspector Sarath Wijesinghe.
+
+🟩
+
+Kurunduwatte police have arrested four youths who entered a house in Nawalapitiya - Kurunduwatta and stole 6 lakhs 25 thousand (625,000) generator and grinder.
+
+The suspects were found by the police who sold the generator and grinder to a leading fish dealer in the carpet for Rs 75,000.
+
+The four youths arrested on suspicion are from the Lantonhilpattu area.
+
+Further investigations are under the leadership of Chief Inspector of Police Sarath Wijesinghe, the Gurudwatte Police Station.
+
+◼️
+
+[Data](articles/d34b0e9f.json)
+
+[Extended Data](ext_articles/d34b0e9f.ext.json)
 
 ---
 
@@ -679,30 +783,6 @@ Currently, the people should be directed by the country. He said democracy is to
 [Data](articles/88c58754.json)
 
 [Extended Data](ext_articles/88c58754.ext.json)
-
----
-
-### 6 lakhs 25 thousand rupees generator and grinder theft
-
-*2024-06-03 02:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/185158) · `ta`
-
-In Nawalapitiya-Kurunduwatta, four youths were arrested for stealing a generator and grinder worth 6 lakh 25 thousand rupees. They sold these items to a fish dealer for 75,000 rupees. The suspects are from Lantonhilpattu, and further inquiries are led by Chief Inspector Sarath Wijesinghe.
-
-🟩
-
-Kurunduwatte police have arrested four youths who entered a house in Nawalapitiya - Kurunduwatta and stole 6 lakhs 25 thousand (625,000) generator and grinder.
-
-The suspects were found by the police who sold the generator and grinder to a leading fish dealer in the carpet for Rs 75,000.
-
-The four youths arrested on suspicion are from the Lantonhilpattu area.
-
-Further investigations are under the leadership of Chief Inspector of Police Sarath Wijesinghe, the Gurudwatte Police Station.
-
-◼️
-
-[Data](articles/d34b0e9f.json)
-
-[Extended Data](ext_articles/d34b0e9f.ext.json)
 
 ---
 
@@ -2095,105 +2175,5 @@ Therefore, the consumers' cooperation and understanding are highly valuable for 
 [Data](articles/a38e0d64.json)
 
 [Extended Data](ext_articles/a38e0d64.ext.json)
-
----
-
-### Shots a motorcyclist who did not ignore police orders
-
-*2024-06-02 18:51:26* · [`adalk`](https://www.ada.lk/breaking_news/පොලිස්-අණ-නොතකා-ධාවනය-කළ-යතුරු-පැදිකරුවෙකුට-වෙඩි/11-409970) · `si`
-
-Tangalle Police arrested a motorcyclist suspected of suspicious activity. The man claimed he was injured, with a foot like a wire, and sought treatment at Sooriyawewa and Hambantota hospitals. Despite this, he allegedly ignored police orders, leading to his arrest.
-
-🟩
-
-A team of Tangalle Police Static Corps (Police Static Corps) officials of the Tangalle Police Station was a suspect alerted to a suspicious motorcycle.
-
-However, the motorcyclist had been staying at the Sooriyawewa Hospital, claiming that his foot was a wire and was later go to the Hambantota hospital.
-
-The suspect was arrested by the police under the arrest of police orders and operating the police orders, running to the Suriyawewa Police on the morning of the morning of the morning and running police brands.Has been done.
-
-◼️
-
-[Data](articles/7972dac4.json)
-
-[Extended Data](ext_articles/7972dac4.ext.json)
-
----
-
-### Disaster has risen to 15 deaths
-
-*2024-06-02 18:45:40* · [`adalk`](https://www.ada.lk/breaking_news/ආපදා-මරණ-15ක්-දක්වා-ඉහළට/11-409969) · `si`
-
-In the past three weeks, disasters have affected 11,864 individuals from 3,727 families, causing 15 deaths and significant damage to 10,304 businesses and 544 homes. The Southern Province reports the highest number of affected families at 6,840. Disasters include floods, heavy winds, landslides, and soil collapses.
-
-🟩
-
-The Disaster Management Center (DMC) says that 11864 persons from 3727 families have been affected by disasters for nearly three weeks due to the enabled disaster.
-
-According to the Center, 17 deaths were reported to be 10304 business places, including 544 business places, including 15 major housing damages in these disasters.
-
-The Disaster Management Center states that the highest number of disasters in the Southern Province has been reported from the province of 6840 families.
-
-The Disaster Management Center (DMC) stated that these disasters have been reported due to floods, heavy winds, landslides, trees, trees and soil collapses.
-
-◼️
-
-[Data](articles/8d646d0f.json)
-
-[Extended Data](ext_articles/8d646d0f.ext.json)
-
----
-
-### Driver arrested for driving buses on the railway
-
-*2024-06-02 18:43:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தண்டவாளத்தில்-பஸ்ஸை-செலுத்திய-சாரதி-கைது/175-338308) · `ta`
-
-A driver was arrested in Sri Lanka for driving a bus onto a railway track near Avissawella-Bhuvakpitiya due to heavy traffic caused by floods. The incident occurred while the driver was trying to bypass traffic congestion.
-
-🟩
-
-A driver has been arrested for driving a bus on a railway track in Avissawella - Bhuvakpitiya.
-
-Police Media Spokesperson, Deputy Inspector General of Police Nihal Talduwa says the driver was arrested in the Embilipitiya area.
-
-The driver of a private bus traveling from Colombo to Embilipitiya has thus poured the bus on the railway track.
-
-Due to floods in the Bhuvakpitiya area, there was heavy traffic congestion in the area.
-
-The driver of the bus, in order to avoid traffic congestion, has driven the bus railway track.
-
-In this case, the driver of the bus has been arrested and the bus has been taken to their responsibility.
-
-◼️
-
-[Data](articles/31cf8e35.json)
-
-[Extended Data](ext_articles/31cf8e35.ext.json)
-
----
-
-### The driver of the bus to be arrested
-
-*2024-06-02 18:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197295) · `si`
-
-A bus driver from Colombo was arrested after his vehicle was found on a railway track in the Embilipitiya area, leading to a fatal accident involving a police DIG mentioned by Minister Nihal Talduwa. The incident occurred near the Clanawyi railway line in Puwakpitiya, where the driver had previously shared videos.
-
-🟩
-
-The bus has been arrested by the police in connection with the driving bus on the railway line.
-
-The police spokesman DIG's deceased was said at the DIG's Minister Nihal Talduuwa in the Embilipitiya area in the Embilipitiya area.
-
-The driver of a private bus in Colombo in Embilipitiya has been arrested.
-
-The driver was exchanged videos in the Clanawyi railway line in the Puwakpitiya area today.
-
-The bus has also seized the bus driver.
-
-◼️
-
-[Data](articles/c32010a0.json)
-
-[Extended Data](ext_articles/c32010a0.ext.json)
 
 ---

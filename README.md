@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-04 05:18:49**
+As of **2024-06-04 05:36:42**
 
 ## Newspaper Stats
 
-*Scraped **28,230** Articles*
+*Scraped **28,231** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,604
 dailyftlk | 1,666
 adalk | 2,408
 adaderanalk | 3,209
-tamilmirrorlk | 3,311
+tamilmirrorlk | 3,312
 virakesarilk | 4,349
 dailymirrorlk | 4,468
 adaderanasinhalalk | 4,529
@@ -26,23 +26,49 @@ adaderanasinhalalk | 4,529
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,226 (100.0%) of 28,230 articles have been extended.
+28,230 (100.0%) of 28,231 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-04 (Tuesday)
 
-### தீமைக்கு வழிவகுக்கும் ’அரசாங்கமே ஆள்கிறது’
+### தீர்ப்புக்கு நன்றி
+
+*2024-06-04 03:35:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தீர்ப்புக்கு-நன்றி/175-338396) · `ta`
+
+தோட்ட தொழிலாளர்களின் 1,700 ரூபாய் சம்பள விடயத்தில் நீதித்துறை வழங்கிய தீர்ப்புக்கு, இலங்கை தொழிலாளர் காங்கிரஸின் தலைவர் செந்தில் தொண்டமான் நன்றி தெரிவித்துள்ளார்.
+
+தோட்ட தொழிலாளர்களின் சம்பள விடயத்தில் இ.தொ.காவின்,மறைந்த தலைவர்களான சௌமியமூர்த்தி தொண்டமான், ஆறுமுகன் தொண்டமான் காலம் முதல் இன்றுவரை தொடர்ந்தும் போராட்டங்கள் ஊடாகவே சம்பள உயர்வை பெற்றுக் கொடுத்துள்ளது.
+
+தோட்ட தொழிலாளர்களின் சம்பள விடயத்தில் இ.தொ.கா மீது முன்வைக்கப்பட்ட விமர்சனங்கள், குற்றச்சாட்டுக்களை  இ.தொ.கா  தவிடுபொடியாக்கியுள்ளது. நீதி துறையின் இச்செயற்பாடானது மக்கள் மத்தியில் பெரும் நம்பிக்கையை ஏற்படுத்தியுள்ளது என்றும் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/99aa7cc2.json)
+
+---
+
+### The government rules for evil
 
 *2024-06-04 03:33:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தீமைக்கு-வழிவகுக்கும்-அரசாங்கமே-ஆள்கிறது/175-338395) · `ta`
 
-எமது நாடு தற்போது வங்குரோத்தடைந்தொரு நாடாகும். இந்த வங்குரோத்து நிலையில் இருந்து மீள்வதற்கு வெளிப்படையான, நேர்மையான மற்றும் திருட்டு இல்லாத திட்டம் செயல்படுத்தப்பட வேண்டும். என்றாலும் அவ்வாறானதொரு எந்த திட்டமும் இதுவரையில் ஆரம்பிக்கப்படவில்லை என்று எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாஸ தெரிவித்தார்.
+The government faces criticism for its handling of the country's financial recovery and vaccine procurement. Despite claims of purchasing 450,000 Meropenem vaccines to prevent bacterial infections, an audit revealed a loss of 36 crore 89 lakh 50 thousand rupees due to alleged mismanagement. The opposition highlights corruption in vaccine acquisition and misuse of funds for smart classrooms instead of addressing the country's bankruptcy.
 
-பாக்டீரியா தொற்றுகளைத் தடுக்கும் Meropenem என்ற தடுப்பூசி 2022 நவம்பரில் நாட்டில் கையிருப்பில் இல்லை எனக் கூறி, அவரச கொள்முதல் முறையின் மூலம் 450,000 தடுப்பூசி குப்பிகளை கொள்வனவு செய்யப்பட்டது. இதன் மூலம் நாட்டுக்கு முப்பத்தாறு கோடி எண்பத்தி ஒன்பது இலட்சத்து ஐம்பதாயிரம் ரூபா நஷ்டம் ஏற்பட்டுள்ளதாக கணக்காய்வாளர் நாயகத்தின் அறிக்கை கூறுகிறது. இது நாட்டின் வளங்களை பட்டப்பகலில் திருடும் செயலாகும் என்றார்.
+🟩
+
+Our country is now a bankrupt country. To recover from this bankruptcy, to be implemented in a manner that is an outstanding, honest and non -theft -free program. Opposition leader Sajith Premadasa, however, said that no such project has been launched yet.
+
+Meropenem vaccine, which prevents bacterial infections, claimed that 450,000 vaccines were purchased by the purchase system, claiming that the country was not in stock in November 2022.. According to a report by the Auditor General, the country has caused a loss of thirty -six crores eighty -nine lakhs fifty thousand rupees.. He said this was a stealing of the country's resources.
+
+Under the Universal Information Technology Program, smart classroom equipment worth Rs.. Opposition Leader Sajith Premadasa said this while addressing the event.
+
+488,590 vaccines were on stock on that day. The new participation has been obtained by the purchase. The Opposition Leader said that a bottle of Rs 1,075 was purchased for Rs 1,895.
 
 ...
 
 [Data](articles/369236d3.json)
+
+[Extended Data](ext_articles/369236d3.ext.json)
 
 ---
 
@@ -68,57 +94,85 @@ The Ratnapura District Conference of the Democratic People's Front, a partner of
 
 ---
 
-### புலம்பெயர் நாடுகளில் வசிப்பவர்களை இலக்கு வைத்து பல கோடி ரூபாய் மோசடி - யாழில் கைதான போலி வைத்தியர்
+### Fake doctor in Jaffna
 
 *2024-06-04 03:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/185253) · `ta`
 
-யாழ்ப்பாணத்தை சேர்ந்த போலி மருத்துவர் ஒருவர் புலம்பெயர் நாடுகளில் வசிக்கும் தமிழர்களை இலக்கு வைத்து பல கோடி ரூபாய் மோசடி செய்துள்ள நிலையில் யாழ்ப்பாண பொலிஸாரினால் கைது செய்யப்பட்டுள்ளார்.
+A fake doctor in Jaffna, who claimed to be a legitimate physician and conducted free medical camps, was arrested for fraudulently selling land documents to Tamils in the diaspora. The arrest came after it was discovered that the documents were forged, leading to an investigation by the Jaffna police.
 
-குறித்த நபர், சுமார் ஒரு கோடியே 50 இலட்ச ரூபாய் பெறுமதியான அதிசொகுசு காரில் யாழ்.நகர் பகுதியில் பயணித்த போதே பொலிஸாரினால் கைது செய்யப்பட்டதுடன் , கைது செய்யப்பட்ட வேளை ,காரினுள் இருந்து 15 பவுண் தங்க நகைகள் , 05 இலட்ச ரூபாய் பணம் மற்றும் இலட்ச ரூபாய்க்கள் பெறுமதியான அதிநவீன கையடக்க தொலைபேசிகள் 05 என்பவற்றை பொலிஸார் மீட்டுள்ளனர்.
+🟩
 
-யாழ்ப்பாணம் சுன்னாகம் பகுதியை சேர்ந்த இளைஞன் ஒருவர் ,போலியான வைத்தியர்களுக்கான அடையாள அட்டை உள்ளிட்ட ஆவணங்களை தயாரித்து  தன்னை வைத்தியராக அறிமுகப்படுத்தி, ஏழை மக்களுக்கு இலவச மருத்துவ முகாம்களை நடத்தி வருவதாக கூறி புலம்பெயர் நாடுகளில் வசித்து வரும் தமிழர்களை ஏமாற்றி, பெரும் தொகையான பணத்தினை பெற்று யாழ்ப்பாணத்தில் சொகுசு வாழ்க்கை வாழ்ந்து வந்துள்ளார்.
+A fake doctor from Jaffna has been arrested by the Jaffna police for allegedly defrauding Tamils ​​living in diaspora.
+
+The man was arrested by the police while traveling in the Jaffna Nagar area in a car worth about Rs.
+
+A young man from Chunnakam, Jaffna, has produced himself as a doctor and introduced himself as a doctor and is conducting free medical camps for the poor.
+
+In this case, he has sent a fake documents, including fake documents, including fake confirmation, claiming that his land in Jaffna Nagar area is selling one crore 42 lakh rupees illegally.
+
+It is only a few days later that the documents given to him are fake.
+
+He then lodged a complaint at the Jaffna Police Station. According to the complaint, the police are investigating the complaint, and that many people living in the diaspora have been involved in a number of rupees for free medical camps for many years.
 
 ...
 
 [Data](articles/b5557d82.json)
 
+[Extended Data](ext_articles/b5557d82.ext.json)
+
 ---
 
-### இந்திய தேர்தல்களில் 64 கோடி மக்கள் வாக்களித்தனர் :  இந்திய தேர்தல் ஆணையம்
+### 64 crore people voted in Indian elections: the Election Commission of India
 
 *2024-06-04 02:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/185252) · `ta`
 
-இந்தியா முழுவதும் ஏழு கட்டங்களாக நடைபெற்று நிறைவடைந்த 18 வது மக்களவை தேர்தலில் 64.2 கோடி மக்கள் வாக்களித்ததாக இந்திய தலைமை தேர்தல் ஆணையர் ராஜ்குமார் தெரிவித்துள்ளார்.
+In the 18th Lok Sabha elections, 64.2 crore voters participated, marking a significant increase from previous years. The election spanned seven phases across India, with a notable focus on inclusivity, as evidenced by the high number of female voters. Special arrangements like dedicated railway carriages facilitated voting, while stringent measures against electoral violations led to substantial seizures. International observers monitored the process, underscoring its transparency.
 
-மக்களவைத் தேர்தல் வாக்குப்பதிவு நிறைவடைந்தவுடன் இந்திய தேர்தல் ஆணையர்கள் செய்தியாளர்களை சந்தித்தனர். இதன் போது இந்திய தலைமை தேர்தல் ஆணையர் ராஜீவ் குமார் தெரிவித்ததாவது.
+🟩
 
-இந்தியாவில் நிறைவடைந்த ஜனநாயக திருவிழாவில் 31.2 கோடி பெண்கள் உள்பட மொத்தம் 64.2 கோடி மக்கள் வாக்களித்துள்ளனர்.
+Indian Chief Election Commissioner Rajkumar said that 64.2 crore people voted in the 18th Lok Sabha elections, which were completed in seven phases across India.
 
-தேர்தலில் வாக்களிப்பதற்காகவும், தேர்தல் பணியை மேற்கொள்வதற்காகவும் நாடு முழுவதும் 135 சிறப்பு புகையிரத வண்டிகள் இயக்கப்பட்டன.
+Indian Election Commissioners met with reporters after the Lok Sabha polling was over. Indian Chief Election Commissioner Rajiv Kumar said.
 
-கடந்த 2019 ஆம் ஆண்டு நடைபெற்ற மக்களவைத் தேர்தலில் இந்தியா முழுவதும் 540 இடங்களில் மறுப்பாக்குப்பதிவு நடைபெற்றது. ஆனால் 2024 ஆம் ஆண்டில் 39 இடங்களில் மட்டுமே மறுவாக்குப் பதிவு நடைபெற்றது. எனவே இந்தியாவில் மக்களவைத் தேர்தல் அமைதியாக நிறைவடைந்திருக்கிறது. இது உலக சாதனை.
+A total of 64.2 crore people, including 31.2 crore women, have voted at the democratic festival in India.
 
-அரசியல் கட்சித் தலைவர்கள் பயன்படுத்திய ஹெலிகொப்டர்கள் மற்றும் வாகனங்கள் என அனைத்தும் தேர்தல் அதிகாரிகளால் சோதனைக்கு உட்படுத்தப்பட்டன.
+135 special railway carriages were operated across the country to vote in the election and to carry out election work.
+
+In the 2019 Lok Sabha elections, 540 seats across India. But in 2024, only 39 places were re -registered. So the Lok Sabha elections in India have been quietly completed. This is a world record.
+
+All the helicopters and vehicles used by political party leaders were raided by election officials.
+
+There were 4.5 lakh complaints across India over the election. Of these, 98 percent of complaints were found.
 
 ...
 
 [Data](articles/70e5f3ba.json)
 
+[Extended Data](ext_articles/70e5f3ba.ext.json)
+
 ---
 
-### தொழிலாளர்களின் உழைப்பை சுரண்டி முதலாளிமார்கள் மாத்திரம் செல்வந்தர்களாகும் முறையை  மாற்றியமைப்போம் - தொழில் அமைச்சர் மனுஷ நாணயக்கார
+### We will transform the system of employers to exploit the labor of workers - the Minister of Labor
 
 *2024-06-04 02:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/185251) · `ta`
 
-முதலாளிமார்களுக்கு தோட்டங்களை முறையாக பராமரித்து முன்னேற்ற முடியாது என்றால், அந்த தோட்டங்களை மீண்டும் அரசாங்கம் பெற்றுக்கொண்டு, முறையாக பராமறிக்க முடியுமானவர்களுக்கு வழங்க நடவடிக்கை எடு்போம். பெருந்தோட்டத் தொழிலாளர்களின் உழைப்பை சுரண்டி முதலாளிமார்கள் மாத்திரம் செல்வந்தர்களாகும் முறையை நாங்கள் மாற்றியமைப்போம் என தொழில் அமைச்சர் மனுஷ நாணயக்கார தெரிவித்தார்.
+Minister Manusha Nanayakkara announced plans to reform the plantation worker exploitation issue in Sri Lanka, emphasizing the importance of protecting plantations and improving worker wages. He highlighted the need for a daily minimum wage increase from 1000 to 1700 rupees and the adoption of modern technologies to boost productivity. The government is also considering providing land rights to plantation communities and implementing programs to support them, especially in the Badulla district.
 
-பதுளையில் 2ஆம் திகதி ஞாயிற்றுக்கிழமை இடம்பெற்ற நிகழ்வொன்றில் கலந்துகொண்டு உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்தார்.
+🟩
 
-இலங்கையின் பொருளாதாரத்திற்கு பெருந்தோட்டங்கள் பாரிய பங்களிப்பை  வழங்குகின்றன. பெருந்தோட்டங்களையும் அரசாங்கத்தின் கீழ் காணப்படும் தோட்டங்களையும் நாம் பாதுகாக்க வேண்டும். பாரம்பரியமாக இத்தொழிற்துறையில் ஈடுபட்டுவரும் எமது தொழிலாளர்களை சுரண்டி உழைப்பு நடத்துகிறார்கள். இருக்கின்ற பழைய தேயிலைப் செடியை வைத்துக்கொண்டு பெருந்தோட்ட தொழிலாளர்களுக்கு 1000 ரூபாய் மாத்திரமே வேதனம் வழங்கப்படுகிறது. முதலாளிகள் மாத்திரமே பணக்காரர்களாகும் முறையை நாம் மாற்றியமைக்க வேண்டியுள்ளது.
+If the employers cannot maintain and improve the gardens, we will take steps to provide the government back and provide them with proper maintenance of the gardens.. Minister of Labor Manusha Nanayakkara said that we will change the way the plantation workers exploit the labor of the plantation workers.
+
+He was speaking at an event held on Sunday, the 2nd of Badulla.
+
+Plantations contribute massively to Sri Lanka's economy. We need to protect plantations and gardens found under the government. Traditionally, our workers who are engaged in this industry are exploiting and working. Plantation workers are only paid 1000 rupees with the old tea plant. We have to change the way the employers are the only rich.
+
+The daily minimum salary of plantation workers should be paid 1700 rupees. Gardens that produce more tea fat using new techniques should be created.Programs to increase the production of modern technology have been launched.
 
 ...
 
 [Data](articles/a37d4585.json)
+
+[Extended Data](ext_articles/a37d4585.ext.json)
 
 ---
 
@@ -2175,21 +2229,5 @@ Showers or thundershowers will occur at the evening or night in the rest of the 
 [Data](articles/6201661a.json)
 
 [Extended Data](ext_articles/6201661a.ext.json)
-
----
-
-### Litro Gas to reduce prices again
-
-*2024-06-03 16:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/99634/litro-gas-to-reduce-prices-again) · `en`
-
-The prices of Litro domestic LP gas cylinders will be reduced with effect from midnight tomorrow (June 04), Chairman of Litro Gas PLC Muditha Peiris said.
-
-The new prices will be announced tomorrow morning, Mr. Peiris added.
-
-◼️
-
-[Data](articles/e0ee19e9.json)
-
-[Extended Data](ext_articles/e0ee19e9.ext.json)
 
 ---

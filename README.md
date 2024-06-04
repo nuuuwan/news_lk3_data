@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-04 08:53:24**
+As of **2024-06-04 09:04:34**
 
 ## Newspaper Stats
 
-*Scraped **28,261** Articles*
+*Scraped **28,263** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,61 +16,91 @@ islandlk | 1,533
 economynextcom | 1,604
 dailyftlk | 1,666
 adalk | 2,409
-adaderanalk | 3,209
+adaderanalk | 3,210
 tamilmirrorlk | 3,316
 virakesarilk | 4,350
-dailymirrorlk | 4,470
+dailymirrorlk | 4,471
 adaderanasinhalalk | 4,538
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,259 (100.0%) of 28,261 articles have been extended.
+28,261 (100.0%) of 28,263 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-04 (Tuesday)
 
-### ආපදා මරණ ගණන 17 දක්වා ඉහළට
+### Temporary decrease in heavy rains expected from today
+
+*2024-06-04 08:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/99642/temporary-decrease-in-heavy-rains-expected-from-today) · `en`
+
+A temporary decrease in the heavy rain conditions in the south-western part of the island is expected from today (04), according to the Meteorology Department.
+
+Several spells of showers will occur in Western, Sabaragamuwa, Central, Southern and North-western provinces.
+
+Showers or thundershowers may occur at a few places elsewhere of the island in the evening or night, it said.
+
+General public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/ffe8a9b7.json)
+
+---
+
+### Disaster deaths up to 17
 
 *2024-06-04 08:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197365) · `si`
 
-ජූනි මස පළමුවන දින සිට ඊයේ (03) පස්වරුව දක්වා කාලය තුළ දිවයිනට බලපෑ අයහපත් කාලගුණ තත්ත්වය හේතුවෙන් සිදුවූ විවිධ අනතුරුවලින් පුද්ගල මරණ 17ක් වාර්තා වී තිබේ.
+Severe weather has caused 17 deaths across several districts, affecting over 8,000 individuals. The Meteorology Department predicts a temporary rain reduction, but flooding remains a concern in multiple provinces. Villages near Malimbada, Thihagoda, and Matara are particularly vulnerable, with major rivers still overflowing.
 
-ආපදා කළමනාකරණ මධ්‍යස්ථානය සඳහන් කළේ, මාතර දිස්ත්‍රික්කයෙන් මරණ 06ක්, රත්නපුර දිස්ත්‍රික්කයෙන් මරණ 05ක්, කොළඹ දිස්ත්‍රික්කයෙන් මරණ 03ක්, ගාල්ල දිස්ත්‍රිකයෙන් මරණ 02ක් සහ ගම්පහ දිස්ත්‍රික්කයෙන් එක් මරණයක් වාර්තා වූ බවය.
+🟩
 
-ඊයේ දිනය වන විට දිස්ත්‍රික්ක 08ක පවුල් 21,353කට අයත් පුද්ගලයින් 84,749 දෙනෙකු අයහපත් කාලගුණ තත්ත්වය හේතුවෙන් පීඩාවට පත්ව සිටින බව ආපදා කළමනාකරණ මධ්‍යස්ථානය සඳහන් කළේය.
+In the early days of the early days of the inclement weather, 17 deaths have been reported from various centers affected by yesterday (03).
 
-මේ අතර දිවයිනේ නිරිත දිග කොටසේ පැවති වැසි තත්ත්වයේ තාවකාලික අඩුවීමක් අද දිනයේ සිට බලාපොරොත්තු වන බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+The Disaster Management Center (DMC) stated that three deaths in the Ratnapura district and three deaths in the Gampaha District and one death in the Gampaha District.
 
-ඔවුන් පෙන්වා දෙන්නේ බස්නාහිර, සබරගමුව, මධ්‍යම, දකුණු සහ වයඹ පළාත්වල වැසිවාර කිහිපයක් ඇතිවිය හැකි බවය.
+The Disaster Management Center (DMC) stated that 8,353 persons belonging to 21,353 families in 8 districts have been affected by the inclement weather.
 
-නිල්වලා ගඟ ද්‍රෝණියේ මාලිම්බඩ ප්‍රාදේශීය ලේකම් කොට්ඨාශය තුළ පවතින ගංවතුර ආරක්ෂණ බැම්ම උතුරා යමින් පවතින බව වාරිමාර්ග දෙපාර්තමේන්තුව පවසයි.
+The Meteorology Department says that a temporary decrease in the rainy section of the island is expected today.
+
+They point out that several goasures can be found in the Western, Sabaragamuwa, Central, Southern and Northwestern provinces.
+
+The Department of Irrigation says that the flood protection boundar in the Malimbada Divisional Secretariat of the Malimbada Divisional Secretariat of the Malimbada Divisional Secretariat of the Malimbada Divisional Secretariat of the Malimbada Divisional Secretariat of Nilwala Ganga.
 
 ...
 
 [Data](articles/0ded34e7.json)
 
+[Extended Data](ext_articles/0ded34e7.ext.json)
+
 ---
 
-### පාසල් පැවැත්වීම ගැන තීරණය කලාප අධ්‍යාපන අධ්‍යක්ෂවරුන් අතට
+### Decision on Conducting Schools
 
 *2024-06-04 08:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197364) · `si`
 
-පවතින අයහපත් කාලගුණ තත්ත්වය හේතුවෙන් අද (04) දිනයේ දිවයිනේ දිස්ත්‍රික්ක කිහිපයක පාසල් සඳහා නිවාඩු ලබාදීමට තීරණය කර තිබේ.
+Due to severe weather, schools across various districts including Galle, Matara, Kalutara, Ratnapura, Kegalle, Homagama, Gampaha, Kelaniya, and Kaduwela Division have been closed today and possibly tomorrow. The decision was made by the Ministry of Education based on current weather conditions.
 
-දකුණු පළාතේ ගාල්ල සහ මාතර දිස්ත්‍රික්කවල සියලු පාසල්වලට අද සහ හෙට (05) යන දෙදින නිවාඩු ලබාදෙන බව අධ්‍යාපන අමාත්‍යංශය සඳහන් කළේය.
+🟩
 
-කළුතර, රත්නපුර, කෑගල්ල යන දිස්ත්‍රික්කවල සියලු පාසල් සඳහා ද අද දිනයේ නිවාඩු ලබාදී තිබේ.
+Due to existing inclement weather, the schools have been granted leave to schools in several districts today (04).
 
-ඊට අමතරව හෝමාගම, ගම්පහ සහ කැලණිය යන අධ්‍යාපන කලාපවල පාසල්වලට ද කඩුවෙල කොට්ඨාසයේ පාසල්වලට ද අද දිනයේ නිවාඩු ලබා දී ඇති බව වාර්තා වේ.
+The Ministry of Education stated that all schools in the Galle and Matara districts of the Southern Province will be given holidays and tomorrow (05).
 
-පවතින කාලගුණ තත්ත්වය පිළිබඳ සැලකිල්ලට ගනිමින් පළාත් බලධාරීන් විසින් කලාප අධ්‍යාපන අධ්‍යක්ෂවරුන් දැනුවත් කර ඉදිරි දිනවල පාසල් පැවැත්වීමට අදාළ තීරණ ගන්නා ලෙස අධ්‍යාපන අමාත්‍යංශය දැනුම් දී තිබේ.
+All schools in Kalutara, Ratnapura and Kegalle districts have also been given leave today.
+
+It is reported that the schools in Homagama, Gampaha and Kelaniya education zones have been granted to schools in the Kaduwela Division.
+
+The Ministry of Education has informed the Zonal Directors of the Provincial Authorities by considering the existing weather conditions.
 
 ◼️
 
 [Data](articles/bb8260d6.json)
+
+[Extended Data](ext_articles/bb8260d6.ext.json)
 
 ---
 
@@ -219,6 +249,30 @@ According to the Epidemiology unit, 25,095 dengue cases have been reported from 
 [Data](articles/0036e58b.json)
 
 [Extended Data](ext_articles/0036e58b.ext.json)
+
+---
+
+### Private firms under scrutiny for negligence in mosquito control
+
+*2024-06-04 06:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Private-firms-under-scrutiny-for-negligence-in-mosquito-control/155-284039) · `en`
+
+Colombo, June 4 (Daily Mirror) - Private institutions are facing the heat as over 1,200 premises are flagged for mosquito breeding, sparking legal action and raising concerns over public health negligence.
+
+This was revealed during the National Mosquito Control Week conducted by the Epidemiology unit of the Health Ministry from May 26 to June 1.
+
+Out of 4,599 private companies inspected, a staggering 1,220 were identified as breeding grounds for mosquitoes.
+
+This negligence has sparked outrage, prompting legal action against 981 of these establishments and 3,121 notices.
+
+Meanwhile, out of 93,874 premises inspected nationwide, nearly 5,000 were found with mosquito larvae. Over 25,000 houses were flagged as potential breeding sites.
+
+The week covered 15 districts in Sri Lanka including Colombo, Kalutara, Kandy, Gampaha, Jaffna and Ratnapura.
+
+According to the Epidemiology unit, 25,095 dengue cases have been reported from all over the island as of June 3.
+
+◼️
+
+[Data](articles/814063a4.json)
 
 ---
 
@@ -2201,63 +2255,5 @@ Strong winds and heavy rains have brought down trees across power lines and tran
 [Data](articles/3eaa4d59.json)
 
 [Extended Data](ext_articles/3eaa4d59.ext.json)
-
----
-
-### People affected for the celebration of global environmental celebrations
-
-*2024-06-03 17:59:37* · [`adalk`](https://www.ada.lk/breaking_news/ජගත්-පරිසර-දින-සැමරුම්-සඳහා-වෙන්කළ-මුදල්-විපතට-පත්-ජනතාවට/11-409997) · `si`
-
-In response to adverse weather conditions affecting many, the President has directed officials to prioritize disaster relief over global environmental celebrations. State Minister Johnson highlights the government's efforts to assist displaced individuals, clean flood-hit areas, and prevent disease outbreaks. He urges cooperation instead of criticism during this critical period, emphasizing the importance of supporting those affected. Additionally, interviews for permanent local government positions will proceed despite attempts to disrupt them. The World Environment Day festival has been canceled to focus on aiding victims, with ongoing commitments to national celebrations.
-
-🟩
-
-President instructs to deployed persons for the censorship of the global environmental celebrations - Provincial Councils, Local Government and Environment Janaka Wakkumbura
-
-State Minister of Provincial Councils, Local Government and Environment, Johnson, Hon.said.
-
-He said that the people are trying to get political gains at the time of difficulty at the time of their difficulties.
-
-He was speaking at a press conference held at the press conference held at the Presidential Media Center today (03) at the Presidential Media Center for PC, Local Government and Environment.
-
-"A large number of people are displaced due to the inclement weather. We have begun to provide relief to them as a government. The program of displaced persons in all parts of the island has also been implemented.
-
-...
-
-[Data](articles/347fb799.json)
-
-[Extended Data](ext_articles/347fb799.ext.json)
-
----
-
-### Mulleriyawa and IDH hospital to another location
-
-*2024-06-03 17:55:04* · [`adalk`](https://www.ada.lk/breaking_news/මුල්ලේරියාව-සහ-IDH-රෝහල-වෙනත්-ස්ථාන‍යකට/11-409996) · `si`
-
-President Ranil Wickremesinghe visited flood-hit areas, instructing against new constructions in the Kelani River Valley to prevent future flooding. He emphasized the importance of protecting properties in shelters and ensuring clean drinking water. The government is also focusing on immediate relief efforts and long-term solutions to mitigate the impact of disasters.
-
-🟩
-
-President visits Kolonnawa, Kelaniya and Ambatale areas to consult the victims of disaster
-
-Officers instructed to not allow new construction of Kelani River Valley to control flooding water.
-
-A special program to protect the homes and property of the people who are staying in the safe centers.
-
-Until the disaster situation, the people is a temporary hub for the armed forces to provide relief to the masses.
-
-President Ranil Wickremesinghe instructed the officials not to allow the new construction of Kelani River Valley to control flooding.
-
-The President instructed the officials to take immediate steps to stop the unauthorized reclamation in the area.
-
-President Ranil Wickremesinghe visited the discussion in Kolonnawa, Kelaniya and Ambatale, Konannawa today (03)..
-
-Ancient Rajamaha Viharaya, Sedawatta, Sedawatta, Sedawatta, Sedawatta, is Kolonnawa Terrence .S. The President informed the officials of the people who came to the Safety Centers of Silva College and Wellampitiya.
-
-...
-
-[Data](articles/e1de9a36.json)
-
-[Extended Data](ext_articles/e1de9a36.ext.json)
 
 ---

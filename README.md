@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-04 15:04:04**
+As of **2024-06-04 15:18:57**
 
 ## Newspaper Stats
 
-*Scraped **28,345** Articles*
+*Scraped **28,348** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,35 +16,77 @@ islandlk | 1,533
 economynextcom | 1,611
 dailyftlk | 1,669
 adalk | 2,415
-adaderanalk | 3,223
+adaderanalk | 3,225
 tamilmirrorlk | 3,329
 virakesarilk | 4,358
-dailymirrorlk | 4,485
+dailymirrorlk | 4,486
 adaderanasinhalalk | 4,555
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,344 (100.0%) of 28,345 articles have been extended.
+28,345 (100.0%) of 28,348 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-04 (Tuesday)
 
-### දවස් 07ක් සුරාසැල් වැසෙන තැන් මෙන්න
+### Death toll from adverse weather rises to 26 in Sri Lanka
+
+*2024-06-04 15:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/99657/death-toll-from-adverse-weather-rises-to-26-in-sri-lanka) · `en`
+
+The total number of fatalities reported due to the prevailing adverse weather conditions across the island has increased to 26, according to State Minister of Defence, Pramitha Bandara Tennakoon.
+
+Meanwhile, 41 persons have been injured due to various incidents caused by the extreme weather, the minister told the Parliament on Tuesday (4).
+
+Additionally, the State Minister revealed that total of 130,021 persons from 33,422 families within 262 Divisional Secretariat divisions of 23 districts in the island have been affected by the prevailing disaster situation.
+
+The State Minister has further stated that 9,248 people belonging to 2,368 families have been moved to 116 regional relief centres established across the island.
+
+◼️
+
+[Data](articles/d6bfa71f.json)
+
+---
+
+### Dr. Hemali Kothalawala appointed Vice President of WOAH Asia-Pacific Regional Commission
+
+*2024-06-04 14:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/99656/dr-hemali-kothalawala-appointed-vice-president-of-woah-asia-pacific-regional-commission) · `en`
+
+Sri Lanka’s Director General of the Department of Animal Production and Health, Dr. Hemali Kothalawala, has been appointed as the World Organisation for Animal Health (WOAH) Regional Commission for Asia and the Pacific.
+
+She recently represented Sri Lanka in the 90th Annual General Session of the World Assembly of Delegates of the WOAH which recently took place in Paris, France.
+
+A delegation led by Sri Lanka’s Minister of Agriculture and Plantation Industries, Mahinda Amaraweera participated in the conference, during which the minister also delivered a speech at the general session on the work implemented related to animal products and health promotion in Sri Lanka.
+
+The Department of Animal Production and Health comes under the purview of the Ministry of Agriculture and Plantation Industries.
+
+...
+
+[Data](articles/e3ecf5ca.json)
+
+---
+
+### Here are seven days closed places
 
 *2024-06-04 14:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197383) · `si`
 
-ජුනි මස 18 වනදා සිට 24 වනදා දක්වා කාලය තුළ ප්‍රාදේශීය ලේකම් කොට්ඨාශ කිහිපයක සුරාසැල් වසා තැබීමට තීරණය කර තිබේ.
+Liquor shops across several divisions including Central Nuwaragam, East Nuwaragam, and Mihintale Divisional Secretariat areas will be closed from the 18th to the 24th due to the National Poson Festival celebrations as per the Department of Excise's announcement.
 
-නිවේදනයක් නිකුත් කරමින් ශ්‍රී ලංකා සුරාබදු දෙපාර්තමේන්තුව සඳහන් කරන්නේ ජාතික පොසොන් උත්සවය නිමිතිකරගනිමින් මෙම දිනවල සුරාසැල් වසා තැබෙන බවය.
+🟩
 
-ඒ අනුව මධ්‍යම නුවරගම් පළාත, නැගෙනහිර නුවරගම් පළාත සහ මිහින්තලේ යන ප්‍රාදේශීය ලේකම් කොට්ඨාශ 03හි එම කාලසීමාව තුළ සියලුම සුරාසැල් වසා තැබෙනු ඇත.
+Several liquor shops in several Divisional Secretariats have been closed from the 18th to the 24th.
+
+Issuing an announcement, the Department of Excise is said to have been closed down by celebrating the National Poson Festival.
+
+Accordingly, all liquor shops will be closed during that period of the Central Nuwaragam province, East Number of Nuwaragam province and Mihintale Divisional Secretariat Divisions.
 
 ◼️
 
 [Data](articles/c144df6c.json)
+
+[Extended Data](ext_articles/c144df6c.ext.json)
 
 ---
 
@@ -811,6 +853,30 @@ Despite the lower-than-expected numbers for the BJP, the party is still confiden
 [Data](articles/54af9f34.json)
 
 [Extended Data](ext_articles/54af9f34.ext.json)
+
+---
+
+### Modi’s BJP may fall short of majority
+
+*2024-06-04 11:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Modis-BJP-may-fall-short-of-majority/155-284059) · `en`
+
+Congress leader Manish Tewari is leading in Chandigarh parliamentary constituency against  BJP's Sanjay Tandon with a margin of over 8,450 votes.
+
+One of the BJP’s strongest hopes, K Annamalai, is trailing in Tamil Nadu's Coimbatore seat by more than 23,000 votes.
+
+The party had high hopes that the former police officer would help them gain in a state that has traditionally rejected it.
+
+PM Narendra Modi has a comfortable lead of over 98,000 votes in Uttar Pradesh's Varanasi seat, where he is the incumbent MP.
+
+Prominent regional Samajwadi Party and the Congress have fielded Ajay Rai as their joint candidate.
+
+Mr Modi won with a vote share of more than 63% here in 2019.
+
+Despite the lower-than-expected numbers for the BJP, the party is still confident of forming the next government — and under Prime Minister Narendra Modi, who has ruled for the past decade, and under whom the party fought this campaign.
+
+...
+
+[Data](articles/e4375df4.json)
 
 ---
 
@@ -2269,77 +2335,5 @@ Speaking on the polls, Congress leader Rahul Gandhi said, "This is a poll of the
 [Data](articles/14a17c4a.json)
 
 [Extended Data](ext_articles/14a17c4a.ext.json)
-
----
-
-### Range Bandara defends proposal to postpone Presidential Election
-
-*2024-06-04 02:32:56* · [`dailyftlk`](https://www.ft.lk/news/Range-Bandara-defends-proposal-to-postpone-Presidential-Election/56-762588) · `en`
-
-UNP General Secretary argues his proposal aims to address SL’s economic challenges and ensure continuity in ongoing economic program
-
-Cites constitutional provisions which allows President to submit matters of national importance to referendum
-
-Notes Opposition leaders Sajith Premadasa and Anura Kumara Dissanayake have not opposed his proposal
-
-Reiterates UNP’s readiness for Presidential Election and urges political parties to engage in constructive dialogue
-
-United National Party (UNP) General Secretary Palitha Range Bandara, yesterday defended his recent proposal to postpone Sri Lanka’s Presidential Election by two years, citing constitutional provisions and the need for national stability.
-
-...
-
-[Data](articles/8bc2ec11.json)
-
-[Extended Data](ext_articles/8bc2ec11.ext.json)
-
----
-
-### Substandard IVIG case: Keheliya and 7 others further remanded, one released on bail
-
-*2024-06-04 02:32:20* · [`dailyftlk`](https://www.ft.lk/news/Substandard-IVIG-case-Keheliya-and-7-others-further-remanded-one-released-on-bail/56-762587) · `en`
-
-Former Health Minister Keheliya Rambukwella and seven others were yesterday further remanded till 14 June by the Maligakanda Magistrate’s Court in connection with the substandard human intravenous immunoglobulin (IVIG) procurement.
-
-The Court also ordered the release of the fourth suspect of the case under a monetary bail of Rs. 100,000 and two surety bails of each worth Rs. 500,000.
-
-Meanwhile, the Health Ministry Medical Supplies Division former Deputy Director Dr. Thusitha Sudarshana has been released on bail.
-
-The Criminal Investigation Department (CID) commenced an investigation into allegations that a pharmaceutical company had imported 22,500 vials of substandard Immune Globulin vaccines by creating forged documents with the assistance of the two senior State officials.
-
-Investigations revealed that financial fraud of Rs. 130 million had occurred via the imports of the said substandard medicine.
-
-...
-
-[Data](articles/b3c0e9d6.json)
-
-[Extended Data](ext_articles/b3c0e9d6.ext.json)
-
----
-
-### 27,000 in 3 subjects did not pass
-
-*2024-06-04 02:30:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/3-பாடங்களிலும்-27-000-பேர்-சித்தியடையவில்லை/175-338392) · `ta`
-
-This year, 10.04% of students passed all subjects in the GCE Advanced Level Examination out of 269,613 applicants, with 173,444 eligible for university admission (64.33%). 10,484 passed all three subjects (3.9%), while 27,000 failed in all subjects. The results of 190 applicants were suspended, and gender breakdowns for examiners will be available in 2023.
-
-🟩
-
-The Commissioner General of Examination Amit Jayasundara said that 10.04 percent of those who have passed the GCE Advanced Level Examination this year have passed all subjects.
-
-At the same time, the 269,613 applicants who appeared for the exam did not pass all subjects, the Commissioner of Examinations said.
-
-He said that this year's exam results show that 173,444 of the applicants were eligible for university admission and it was 64.33 percent.
-
-Jayasundara said that 10,484 candidates have passed in all three subjects and this is 3.9 percent.
-
-The Commissioner General added that the results of the 190 applicants who appeared for the exam this year have been suspended, of which 146 private applicants and 44 school applicants have been suspended.
-
-The Commissioner General of Examinations Amit Jayasundera said that the number of male examiners and the number of female examiners will be shown in the 2023 GCE Advanced Level Examination.
-
-...
-
-[Data](articles/b5a94dcd.json)
-
-[Extended Data](ext_articles/b5a94dcd.ext.json)
 
 ---

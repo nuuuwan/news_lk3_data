@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-04 22:51:54**
+As of **2024-06-04 23:03:55**
 
 ## Newspaper Stats
 
-*Scraped **28,417** Articles*
+*Scraped **28,418** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ adaderanalk | 3,234
 tamilmirrorlk | 3,338
 virakesarilk | 4,373
 dailymirrorlk | 4,500
-adaderanasinhalalk | 4,568
+adaderanasinhalalk | 4,569
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,416 (100.0%) of 28,417 articles have been extended.
+28,417 (100.0%) of 28,418 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-04 (Tuesday)
+
+### හංවැල්ල පාලම යට සිරවූ මිලියන 30ක වස්තුව ගොඩගනී
+
+*2024-06-04 22:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197397) · `si`
+
+හංවැල්ල පාලම යට සිරවී තිබූ වාරිමාර්ග දෙපාර්තමේන්තුවට අයත් මිල අධික ජල මාපකයක් සොයාගැනීමට නාවික හමුදා කිමිදුම් කණ්ඩායමක් සමත්ව තිබේ.
+
+එය වාරිමාර්ග දෙපාර්තමේන්තුව මඟින් කැළණි ගඟේ ජලයේ මට්ටම, වේගය සහ දිශාව වැනි දත්ත රැස්කිරීම සඳහා හංවැල්ල පාලම යට ජලයේ මතුපිට තබනු ලබන ජල මාපකයෙහි GPS යන්ත්‍රයකි.
+
+ජලය සමඟ ගසාගෙන පැමිණි එය උණ පඳුරු සහ කැලිකසල තුළ පැටලී, ප්‍රධාන යන්ත්‍රයෙන් ගැලවී ගොස් ඇති බවත්, එම GPS යන්ත්‍රය සොයාගැනීම සඳහා නාවික හමුදා කිමිදුම් සහාය ලබාදෙන ලෙසත් වාරිමාර්ග දෙපාර්තමේන්තුව මඟින් නාවික හමුදා මූලස්ථානයෙන් ඉල්ලීමක් සිදුකර තිබුණි.
+
+එම ඉල්ලීමට වහාම ප්‍රතිචාර දැක්වූ නාවික හමුදාව, බටහිර නාවික විධානයට අයත් විශේෂ කිමිදුම් කණ්ඩායමක් 2024 ජුනි මස 04 වන දින අළුයම කිමිදුම් සහය ලබාදීම සඳහා හංවැල්ල ප්‍රදේශයට යොමු කර තිබුණි.
+
+ඒ අනුව පවත්නා අධික වාර්ෂාපතනය හමුවේ කැලණි ග‍ඟේ ජලය පිටාර මට්ටමට පැමිණ ඇති අවදානම් තත්වය මත වුවද, නාවික හමුදා කිමිදුම් කණ්ඩායම මහත් පරිශ්‍රමයක් දරා දිය යට කැලි කසළ තුළ සිරවී තිබූ GPS යන්ත්‍රය සොයා ගැනීමෙන් අනතුරුව, වාරිමාර්ග දෙපාර්තමේන්තුව වෙත මෙලෙස භාරදීමට කටයුතු කර තිබුණි.
+
+◼️
+
+[Data](articles/5d80b8e7.json)
+
+---
 
 ### President Ranil congratulates Modi on election win
 
@@ -49,6 +69,8 @@ Modi, 73, is only the second Indian prime minister to win a third straight term.
 ...
 
 [Data](articles/46c307f6.json)
+
+[Extended Data](ext_articles/46c307f6.ext.json)
 
 ---
 
@@ -2293,33 +2315,5 @@ This will help his soldiers to save the Karkiv region, he said.
 [Data](articles/9714bd34.json)
 
 [Extended Data](ext_articles/9714bd34.ext.json)
-
----
-
-### International position at Dr. Hemali Kotalawala
-
-*2024-06-04 11:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197373) · `si`
-
-Dr. Hemali Kotalawala, Director General of the Department of Animal Production and Health, has been named Vice President of the World Animal Health Organization. A veterinary science graduate from the University of Peradeniya, he also holds degrees from the Veterinary Research Institute of India and Japan. Recently, he spoke at the World Estate Organization's annual conference in Paris, where he delivered a lecture alongside Sri Lanka's Minister of Agriculture and Plantation Industries, Hon. Mahinda Amaraweera.
-
-🟩
-
-The Director General of the Department of Animal Production and Health Dr. Dr. Heali Kotalawala has been appointed as the Vice President of the World Animal Health Organization.
-
-He was speaking at Sri Lanka at the Annual Conference of the World Estate Organization (World Estate Organization) held in Paris, France.
-
-The Minister also presented a lecture at the conference, led by Hon. Mahinda Amaraweera, Minister of Agriculture and Plantation Industries and the program on the program of lives and health in Sri Lanka.
-
-Department of Animal Production and Health under the Ministry of Agriculture and Plantation Industries.
-
-Dr. Hemali Kotalawala is a graduate of Veterinary Science at the University of Peradeniya.
-
-Similarly, a Scigning Degree has been obtained from the Veterinary Research Institute of India and the Degree of Degree in Japan.
-
-◼️
-
-[Data](articles/99cd933c.json)
-
-[Extended Data](ext_articles/99cd933c.ext.json)
 
 ---

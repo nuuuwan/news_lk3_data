@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-04 11:34:21**
+As of **2024-06-04 11:53:50**
 
 ## Newspaper Stats
 
-*Scraped **28,302** Articles*
+*Scraped **28,307** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,42 +15,84 @@ newsfirstlk | 363
 islandlk | 1,533
 economynextcom | 1,609
 dailyftlk | 1,669
-adalk | 2,413
+adalk | 2,414
 adaderanalk | 3,217
-tamilmirrorlk | 3,324
+tamilmirrorlk | 3,325
 virakesarilk | 4,350
-dailymirrorlk | 4,475
+dailymirrorlk | 4,478
 adaderanasinhalalk | 4,546
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,297 (100.0%) of 28,302 articles have been extended.
+28,302 (100.0%) of 28,307 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-04 (Tuesday)
 
-### ආචාර්ය හේමාලි කොතලාවලට ජාත්‍යන්තර තනතුරක්
+### පොහොට්ටු රුස්වීමක මන්ත්‍රී  මහින්දානන්ද අතර ඇතිවූ ගැටුමකදී මන්ත්‍රී රාජපක්ෂට තුවාල
+
+*2024-06-04 11:27:10* · [`adalk`](https://www.ada.lk/breaking_news/පොහොට්ටු-රුස්වීමක-මන්ත්‍රී--මහින්දානන්ද-අතර-ඇතිවූ-ගැටුමකදී-මන්ත්‍රී-රාජපක්ෂට-තුවාල/11-410001) · `si`
+
+ශ්‍රී ලංකා පොදු ජන පෙරමුණ ආණ්ඩු පක්ෂ මන්ත්‍රී කණ්ඩායම් රැස්වීමේදී  ඇතිවූ බහින්බස්වීමක් දුරදිග යාමෙන් මහනුවර දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී මහින්දානන්ද අලුත්ගමගේ මහතා සහ එම දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී ගුණතිලක රාජපක්ෂ මහතා  අතර ඇතිවූ ගැටුමකදී මන්ත්‍රී ගුණතිලක රාජපක්ෂ මහතගේ පාදයකට තුවාල සිදුවී කොළඹ යුද හමුදා රෝහලට ඇතුළත් කර ඇත.
+
+මහනුවර ප්‍රදේශයේ ගැටලුවක් සම්බන්ධයෙන් ආණ්ඩු පක්ෂ මන්ත්‍රී කණ්ඩායම් රැස්වීමේදී සාකච්ඡා කෙරුණු අවස්ථාවේදී මෙම බහින්බස්වීම සිදුවී ඇතැයි පැවසේ.
+
+ගුණතිලක රාජපක්ෂ මහතා ආණ්ඩු පක්ෂ කණ්ඩායම් රැස්වීමෙන් එළියට එන විට මහින්දානන්ද අලුත්ගමගේ මහතා ඔහුගේ කොළරයෙන් අල්ලාගෙන " උඹ මට කිව්වේ මොකක්ද" යැයි ඇසූ විට ජගත් සමරවික්‍රම මහතා පැමිණ "ගහන්න එපා" යැයි කියා ගුණතිලක රාජපක්ෂ මහතා පසුපසට අදින විට ඒ දෙදෙනාම  ඇද වැටුණු බව අලුත්ගමගේ මහතා පවසයි.
+
+තමා ඔහුට අතක්වත් නොතැබූ බවත් කමීස කොළරයෙන් පමණක් ඇල්ලූ බවත් තමාගේ හැසිරීම් සියල්ල CCTV දර්ශන වල ඇතැයි  පහරදීමක් සිදුවී නම් එම දර්ශනවලින්  ඔප්පු කර ගැනීමට හැකියාව ඇති බවද මහින්දානන්ද අලුත්ගමගේ මහතා සඳහන් කරයි.
+
+...
+
+[Data](articles/75761ac8.json)
+
+---
+
+### Supreme Court determination on Electricity Amendment Bill causes uproar in Parliament
+
+*2024-06-04 11:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Supreme-Court-determination-on-Electricity-Amendment-Bill-causes-uproar-in-Parliament/108-284063) · `en`
+
+The Supreme Court's determination that the Electricity Amendment Bill is inconsistent with the Constitution as a whole, caused a showdown in Parliament with the Opposition calling for the postponement of the debate while the ruling party insisted that it should go ahead as scheduled on Thursday with the necessary amendments.
+
+Leader of the Opposition Sajith Premadasa called for a postponement of the debate while Chief Opposition Whip Lakshman Kiriella called for a delay in submitting the Bill to the Sectoral Oversight Committee.
+
+“We need to conduct a broad study on the Bill and the Supreme Court determination and therefore we call for a postponement of the debate set for Thursday,” Premadasa said.
+
+Minister of Power and Energy Kanchana Wijesekera who responded, assured that the Bill would be amended as per the Supreme Court determination.
+
+...
+
+[Data](articles/9cd298f0.json)
+
+---
+
+### International position at Dr. Hemali Kotalawala
 
 *2024-06-04 11:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197373) · `si`
 
-සත්ත්ව නිෂ්පාදන හා සෞඛ්‍ය දෙපාර්තමේන්තුවේ අධ්‍යක්ෂ ජනරාල් ආචාර්ය හේමාලි කොතලාවල මහත්මිය ලෝක සත්ව සෞඛ්‍ය සංවිධානයේ (World Organization for Animal Health)ආසියා පැසිෆික් කලාපීය කාර්යාංශයේ උප සභාපති ධුරයට පත් කර තිබේ.
+Dr. Hemali Kotalawala, Director General of the Department of Animal Production and Health, has been named Vice President of the World Animal Health Organization. A veterinary science graduate from the University of Peradeniya, he also holds degrees from the Veterinary Research Institute of India and Japan. Recently, he spoke at the World Estate Organization's annual conference in Paris, where he delivered a lecture alongside Sri Lanka's Minister of Agriculture and Plantation Industries, Hon. Mahinda Amaraweera.
 
-පසුගියදා ප්‍රංශයේ පැරිස් නුවර දී පැවැති ලෝක සත්ත්ව සෞඛ්‍ය සංවිධානයේ  වාර්ෂික මහා සමුළුවේ දී ශ්‍රී ලංකාව නියෝජනය කරමින් එම මහත්මිය සහභාගී වුවාය.
+🟩
 
-කෘෂිකර්ම හා වැවිලි කර්මාන්ත අමාත්‍ය මහින්ද අමරවීර මහතා ප්‍රමුඛ නියෝජිත පිරිසක් මෙම සමුළුවට සහභාගි වූ අතර ශ්‍රී ලංකාවේ සත්ත්ව නිෂ්පාදන හා සෞඛ්‍ය ප්‍රවර්ධනය සම්බන්ධව ගෙන ඇති වැඩ පිළිවෙළ පිළිබඳව එම සමුළුවේ දී අමාත්‍යවරයා දේශනයක් ද ඉදිරිපත් කළේය.
+The Director General of the Department of Animal Production and Health Dr. Dr. Heali Kotalawala has been appointed as the Vice President of the World Animal Health Organization.
 
-සත්ත්ව නිෂ්පාදන හා සෞඛ්‍ය දෙපාර්තමේන්තුව කෘෂිකර්ම හා වැවිලි කර්මාන්ත අමාත්‍යාංශය යටතේ ඇති දෙපාර්තමේන්තුවකි.
+He was speaking at Sri Lanka at the Annual Conference of the World Estate Organization (World Estate Organization) held in Paris, France.
 
-ආචාර්ය හේමාලි කොතලාවල මහත්මිය පේරාදෙණිය විශ්වවිද්‍යාලයේ පශු වෛද්‍ය විද්‍යාව පිළිබඳ උපාධිධාරිනියකි.
+The Minister also presented a lecture at the conference, led by Hon. Mahinda Amaraweera, Minister of Agriculture and Plantation Industries and the program on the program of lives and health in Sri Lanka.
 
-එමෙන්ම විද්‍යාපති උපාධිය ඉන්දියාවේ පශු වෛද්‍ය පර්යේෂණ ආයතනයෙන් ද, ආචාර්ය උපාධිය ජපානයේ ඔබිහිරෝ විශ්වවිද්‍යාලයෙන් ද ලබා ගෙන ඇත.
+Department of Animal Production and Health under the Ministry of Agriculture and Plantation Industries.
+
+Dr. Hemali Kotalawala is a graduate of Veterinary Science at the University of Peradeniya.
+
+Similarly, a Scigning Degree has been obtained from the Veterinary Research Institute of India and the Degree of Degree in Japan.
 
 ◼️
 
 [Data](articles/99cd933c.json)
+
+[Extended Data](ext_articles/99cd933c.ext.json)
 
 ---
 
@@ -69,6 +111,30 @@ However, the country’s apex court has stated that these clauses could be passe
 [Data](articles/e198df58.json)
 
 [Extended Data](ext_articles/e198df58.ext.json)
+
+---
+
+### India election results 2024: BJP alliance leads, opposition fights on
+
+*2024-06-04 11:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/India-election-results-2024-BJP-alliance-leads-opposition-fights-on/155-284059) · `en`
+
+11.32 AM - As early trends show the INDIA alliance crossing 200 seats, the mood at the BJP office appears to have become distinctly guarded.
+
+Party spokespersons, however, are maintaining that the NDA alliance is comfortably placed to form the next government.
+
+The opposition alliance's performance in early trends appears to have come as a surprise to many party workers here.
+
+However, some party spokespersons say it's still too early to comment and things will only be clear by noon.
+
+11.24 AM - The election commission has released the current leads in 541 out 543 Lok Sabha seats.
+
+The BJP-led NDA alliance is now leading on 282 seats, while the Congress and its allies are ahead in 219 constituencies.
+
+The BJP is leading is leading on 237 seats, while the Congress is ahead on 97. In the previous election, the BJP won a total of 303 seats.
+
+...
+
+[Data](articles/e55888a8.json)
 
 ---
 
@@ -94,21 +160,27 @@ Last year, the Netherlands returned six Kandyan artifacts, including gold and si
 
 ---
 
-### ලිට්‍රෝ ගෑස් මිල බස්සයි
+### Litrow gas prices down
 
 *2024-06-04 10:57:07* · [`adalk`](https://www.ada.lk/breaking_news/ලිට්‍රෝ-ගෑස්-මිල-බස්සයි/11-410000) · `si`
 
-අද (04) මධ්‍යම රාත්‍රියේ සිට ගෑස් මිල ගණන්  අඩු කිරීමට පියවර ගත් බව ලිට්‍රෝ ගෑස් සමාගමේ සභාපති මුදිත පීරිස් මහතා අද  පෙරවරුවේ පැවසීය.
+Litro Gas Lanka announced a reduction in gas prices effective from midnight. A 12.5 kg cylinder now costs less, as do 5kg and 2.3 kg cylinders.
 
-ඒ අනුව කිලෝග්‍රෑම් 12.5ක ගෑස් සිලින්ඩරයක් රුපියල් 150කින් අඩු කර ඇති අතර එහි නව මිල රුපියල් 3,790කි.
+🟩
 
-කිලෝග්‍රෑම් 5ක ගෑස් සිලින්ඩරයක මිල රුපියල් 60කින් අඩු කර ඇති අතර එහි නව මිල රුපියල් 1,525කි.
+Chairman of Litro Gas Chairman (04) to reduce gas prices from midnight, Litro Gas Chairman said this morning.
 
-කිලෝග්‍රෑම් 2.3ක ගෑස් සිලින්ඩරයක් මිල රුපියල් 28කින් අඩු කර ඇති අතර එහි නව මිල රුපියල් 712කි.
+Accordingly, a 12.5 kilogram gas cylinder has been reduced by Rs.
+
+The price of a 5kg gas cylinder has been reduced by Rs. 1,525 million.
+
+A 2.3 kilogram gas cylinder has been reduced by Rs.
 
 ◼️
 
 [Data](articles/91ca8da0.json)
+
+[Extended Data](ext_articles/91ca8da0.ext.json)
 
 ---
 
@@ -430,21 +502,27 @@ The Ministry of Education has announced to the Zonal Education Officers to hold 
 
 ---
 
-### பாடசாலை விடுமுறை: மீண்டும் விஷேட அறிவிப்பு
+### School Holidays: Special Notification again
 
 *2024-06-04 09:37:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாடசாலை-விடுமுறை-மீண்டும்-விஷேட-அறிவிப்பு/175-338406) · `ta`
 
-நாட்டில் நிலவும் மழையுடனான சீரற்ற வானிலையை அடுத்து, இன்று பல பாடசாலைகளுக்கு விடுமுறை வழங்கப்பட்டுள்ளது.
+Due to unpredictable weather, schools in Galle and Matara districts are closed today. Future school closures will be decided by Zonal Education Officers after consulting with Provincial Education Officers.
 
-தென் பகுதியில் நிலவும் அதிக மழையுடனான வானிலையை அடுத்து, காலி மற்றும் மாத்தறை ஆகிய மாவட்டங்களிலுள்ள அனைத்து  பாடசாலைகளுக்கு நாளையும் (05) விடுமுறை வழங்கப்பட்டுள்ளது.
+🟩
 
-வானிலை நிலைமையை கருத்தில் கொண்டு, எதிர்வரும் நாட்களில் பாடசாலைகளை நடத்துவது தொடர்பான தீர்மானத்தை எடுக்கும் பொறுப்பு, வலய கல்வி அதிகாரிகளுக்கு வழங்கப்பட்டுள்ளது.
+In the wake of the random weather in the country, many schools have been given holidays today.
 
-மாகாண கல்வி அதிகாரிகளுடன் கலந்துரையாடல்களை நடாத்தி, தீர்மானத்தை எடுக்குமாறு வலய கல்வி அதிகாரிகளுக்கு கல்வி அமைச்சு அறிவித்துள்ளது. R
+All schools in Galle and Matara districts have been granted holidays (05) in the wake of heavy rainfall in the south.
+
+Considering the weather conditions, the responsibility of taking a decision on conducting schools in the coming days has been given to the Zonal Education Officers.
+
+The Ministry of Education has announced to the Zonal Education Officers to hold discussions with Provincial Education Officers. Remble
 
 ◼️
 
 [Data](articles/fd73f570.json)
+
+[Extended Data](ext_articles/fd73f570.ext.json)
 
 ---
 
@@ -496,19 +574,25 @@ According to the Disaster Management Center, 84,749 people from 21,353 families 
 
 ---
 
-### சீரற்ற வானிலை:  பலியானோர் எண்ணிக்கை   உயர்வு
+### Random weather: The number of victims of victims
 
 *2024-06-04 09:28:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சீரற்ற-வானிலை-பலியானோர்-எண்ணிக்கை-உயர்வு/175-338405) · `ta`
 
-கடந்த முதலாம் திகதி தொடக்கம் நேற்று (03) பிற்பகல் வரையான காலப்பகுதியில் நாட்டில் நிலவிய சீரற்ற காலநிலை காரணமாக ஏற்பட்ட பல்வேறு அனர்த்தங்களில் 17 பேர் உயிரிழந்துள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
+In the past two days, severe weather caused 17 deaths across five districts in Sri Lanka, including Matara (6), Ratnapura (5), Colombo (3), Galle (2), and Gampaha (1). Additionally, 84,749 individuals from 21,353 families in eight districts were impacted.
 
-மாத்தறை மாவட்டத்தில் 06 பேரும், இரத்தினபுரி மாவட்டத்தில் 05 பேரும், கொழும்பு மாவட்டத்தில் 03 பேரும், காலி மாவட்டத்தில் 02 பேரும், கம்பஹா மாவட்டத்தில் ஒரு மரணமும் பதிவாகியுள்ளதாக அனர்த்த முகாமைத்துவ நிலையம் தெரிவித்துள்ளது.
+🟩
 
-நேற்றைய நிலவரப்படி 08 மாவட்டங்களில் 21,353 குடும்பங்களைச் சேர்ந்த 84,749 பேர் மோசமான காலநிலையால் பாதிக்கப்பட்டுள்ளதாக அனர்த்த முகாமைத்துவ நிலையம் கூறியுள்ளது.
+Seven people have been killed in various disasters due to inclement weather conditions in the country from the first day to the afternoon.
+
+The Disaster Management Center said that there were 06 people in Matara district, 05 in Ratnapura district, 03 in Colombo district, 02 in Galle district and one death in Gampaha district.
+
+According to the Disaster Management Center, 84,749 people from 21,353 families in 08 districts have been affected by bad weather.
 
 ◼️
 
 [Data](articles/c26e3015.json)
+
+[Extended Data](ext_articles/c26e3015.ext.json)
 
 ---
 
@@ -741,6 +825,30 @@ The Ministry of Education has informed the Zonal Directors of the Provincial Aut
 [Data](articles/bb8260d6.json)
 
 [Extended Data](ext_articles/bb8260d6.ext.json)
+
+---
+
+### Sri Lanka leads South Asia in recruiting women for banking industry: IFC
+
+*2024-06-04 08:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-leads-South-Asia-in-recruiting-women-for-banking-industry-IFC/108-284032) · `en`
+
+Women comprise 46% of new recruits and 27% of board positions
+
+However, progression of women in sector does not match their career aspirations or progression compared to men
+
+Women representation drops from 40% at entry level to 27% in middle management and further to 20% in senior management roles
+
+Sri Lanka surpasses all its South Asian counterparts in recruiting women at entry level in the banking sector, a recent report by the International Finance Corporation (IFC) highlighted.
+
+Women comprised 46 percent of new recruits and 27 percent of board positions, making Sri Lanka the leader in board level gender diversity, according to the report.
+
+Titled ‘Women’s Advancement in Banking in Emerging South Asian Countries’, the IFC, in collaboration with the Australian government, had assessed the private sector commercial banks in Bangladesh, Nepal and Sri Lanka.
+
+...
+
+[Data](articles/1c6ef846.json)
+
+[Extended Data](ext_articles/1c6ef846.ext.json)
 
 ---
 
@@ -1008,30 +1116,6 @@ Accordingly, they decided to give the Afghanistan team to bat first.
 
 ---
 
-### Sri Lanka leads South Asia in recruiting women for banking industry: IFC
-
-*2024-06-04 04:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-leads-South-Asia-in-recruiting-women-for-banking-industry-IFC/108-284032) · `en`
-
-Women comprise 46% of new recruits and 27% of board positions
-
-However, progression of women in sector does not match their career aspirations or progression compared to men
-
-Women representation drops from 40% at entry level to 27% in middle management and further to 20% in senior management roles
-
-Sri Lanka surpasses all its South Asian counterparts in recruiting women at entry level in the banking sector, a recent report by the International Finance Corporation (IFC) highlighted.
-
-Women comprised 46 percent of new recruits and 27 percent of board positions, making Sri Lanka the leader in board level gender diversity, according to the report.
-
-Titled ‘Women’s Advancement in Banking in Emerging South Asian Countries’, the IFC, in collaboration with the Australian government, had assessed the private sector commercial banks in Bangladesh, Nepal and Sri Lanka.
-
-...
-
-[Data](articles/1c6ef846.json)
-
-[Extended Data](ext_articles/1c6ef846.ext.json)
-
----
-
 ### Workshop to use environmental day money
 
 *2024-06-04 03:54:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுற்றாடல்-தின-பணத்தை-பயன்படுத்தப்-பணிப்புரை/175-338400) · `ta`
@@ -1128,19 +1212,25 @@ At the meeting held at Chavakachcheri and Kondavil, the representatives of these
 
 ---
 
-### 1,700 ரூபாய் சம்பள விடயம்: தீர்ப்புக்கு நன்றி சொன்னார் செந்தில்
+### 1,700 rupees salary: Senthil thanked the judgment
 
 *2024-06-04 03:35:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/1-700-ரூபாய்-சம்பள-விடயம்-தீர்ப்புக்கு-நன்றி-சொன்னார்-செந்தில்/175-338396) · `ta`
 
-தோட்ட தொழிலாளர்களின் 1,700 ரூபாய் சம்பள விடயத்தில் நீதித்துறை வழங்கிய தீர்ப்புக்கு, இலங்கை தொழிலாளர் காங்கிரஸின் தலைவர் செந்தில் தொண்டமான் நன்றி தெரிவித்துள்ளார்.
+Senthil Thondaman, president of Sri Lanka's Workers Congress, expressed gratitude towards the judiciary for its decision regarding plantation worker salaries. This follows the efforts of his predecessors, Chaumiyamoorthy and Arumugan Thondaman, who persisted in advocating for wage increases despite criticism. The judgment has reportedly boosted public confidence.
 
-தோட்ட தொழிலாளர்களின் சம்பள விடயத்தில் இ.தொ.காவின்,மறைந்த தலைவர்களான சௌமியமூர்த்தி தொண்டமான், ஆறுமுகன் தொண்டமான் காலம் முதல் இன்றுவரை தொடர்ந்தும் போராட்டங்கள் ஊடாகவே சம்பள உயர்வை பெற்றுக் கொடுத்துள்ளது.
+🟩
 
-தோட்ட தொழிலாளர்களின் சம்பள விடயத்தில் இ.தொ.கா மீது முன்வைக்கப்பட்ட விமர்சனங்கள், குற்றச்சாட்டுக்களை  இ.தொ.கா  தவிடுபொடியாக்கியுள்ளது. நீதி துறையின் இச்செயற்பாடானது மக்கள் மத்தியில் பெரும் நம்பிக்கையை ஏற்படுத்தியுள்ளது என்றும் தெரிவித்துள்ளார்.
+Sri Lanka Workers Congress President Senthil Thondaman has thanked the judiciary's verdict on the issue of Rs.
+
+On the salary of plantation workers, the CWC's late leaders Chaumiyamoorthy Thondaman and Arumugan Thondaman have continued to pay a pay rise through the continuing struggles.
+
+The CWC has made criticism and allegations made against the CWC over the wage of plantation workers.. He said that the judiciary's action has created great confidence among the people.
 
 ◼️
 
 [Data](articles/35ccd0f7.json)
+
+[Extended Data](ext_articles/35ccd0f7.ext.json)
 
 ---
 
@@ -2155,85 +2245,5 @@ Meanwhile, the President has instructed that the money to be spent on the celebr
 [Data](articles/c4b9925b.json)
 
 [Extended Data](ext_articles/c4b9925b.ext.json)
-
----
-
-### Water supply disruptions in several areas due to damaged pipe lines
-
-*2024-06-03 22:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/99641/water-supply-disruptions-in-several-areas-due-to-damaged-pipe-lines) · `en`
-
-The National Water Supply and Drainage Board (NWSDB) has announced that water supply will be under low pressure during peak hours in several areas due to the damaged supply line.
-
-The areas impacted include Padukka, Godagama, Homagama, Pannipitiya, Maharagama, Rukmalgama, Pelenwaththa, Mattegoda, Boralasgamuwa, Pepiliyana, and Galagedara.
-
-Accordingly, the water supply to the relevant areas will be under low pressure from 6 a.m. to 9 a.m. and 5 p.m. to 9 p.m., according to the NWSDB.
-
-◼️
-
-[Data](articles/da5afd2e.json)
-
-[Extended Data](ext_articles/da5afd2e.ext.json)
-
----
-
-### Just think about us
-
-*2024-06-03 21:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197353) · `si`
-
-A powerful entity transforms into a vast, harsh body of water, capable of devastating human lives. Despite its cruelty, it embodies the essence of life: breath, birth, emotions, protection, and warmth. Amidst the rain, individuals reflect on their achievements while the innocent, sheltered within the water, remain oblivious to their fate. As time passes, memories of these innocents fade, yet reminders of their existence persist, urging for their release from this oppressive force.
-
-🟩
-
-He became a great body of water and cruel enough to turn human lives in the earliest.
-
-Lives of breathing, emergence, feelings, protection, and warm.
-
-In the middle of the rains, everyone looks at what they have earned and carefully carefully.
-
-In the meantime, they are the innocent people who believe in the life of their master about their master.
-
-They are hiding among the waters of the waters of the water and the increasing weight of the water.
-
-There is plenty of information about the innocent innocent.
-
-As the Maha Vanage is gradually, you can forget these dear pets.
-
-Whenever you have all of their belongings, we also do not forget these innocent.
-
-We ask you to be released as you can't take the least.
-
-◼️
-
-[Data](articles/1a8b801c.json)
-
-[Extended Data](ext_articles/1a8b801c.ext.json)
-
----
-
-### Credit bowlers in Sri Lanka
-
-*2024-06-03 21:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197352) · `si`
-
-In the World Cup match between Sri Lanka and South Africa, Sri Lanka batted first after winning the toss. Notably, South African bowlers restricted all players under 20 runs, with Kusal Mendis scoring 19. Anrich Nortje stood out with 4 wickets for 4 runs, leaving South Africa needing 77 runs to win.
-
-🟩
-
-The first match facing the Sri Lankan team in the World Cup will be held today (03) with South African team in New York.
-
-The Sri Lankan team won the toss and elected to bat first.
-
-It is noteworthy that South African bowlers do not allow any player to cross 20 marks.
-
-Kusal Mendis scored 19 runs off Sri Lanka.
-
-Anrich nortje took 4 runs for 4 runs.
-
-Accordingly, South African team has 77 runs for winning the competition.
-
-◼️
-
-[Data](articles/046e2512.json)
-
-[Extended Data](ext_articles/046e2512.ext.json)
 
 ---

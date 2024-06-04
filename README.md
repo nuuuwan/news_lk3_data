@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-04 18:24:18**
+As of **2024-06-04 18:35:49**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,563
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,377 (100.0%) of 28,382 articles have been extended.
+28,382 (100.0%) of 28,382 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -42,23 +42,31 @@ The Secretary of Education of Sabaragamuwa Province stated that all schools in R
 
 [Data](articles/907732f4.json)
 
+[Extended Data](ext_articles/907732f4.ext.json)
+
 ---
 
-### ප්‍රධාන මාර්ගයේ දුම්රිය ප්‍රමාදයක්
+### Railway delay on the main road
 
 *2024-06-04 18:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197391) · `si`
 
-අද පස්වරුවේ ප්‍රධාන මාර්ගයේ ධාවනය වන කාර්යාල දුම්රිය කිහිපයක් ප්‍රමාදවිය හැකි බව දුම්රිය නියෝජ්‍ය සාමාන්‍යාධිකාරී ජේ. එන්. ඉඳිපොලගේ මහතා පවසයි.
+Due to flooding between Gampaha and Veyangoda, several trains including those from Rambukkana, Polgahawela, Kandy, Kurunegala, and Mahawa are delayed today. The Deputy General Manager, Jayaratne, attributes the issue to inundated railway lines and signal delays.
 
-ප්‍රධාන මාර්ගයේ ගම්පහ සහ වේයන්ගොඩ අතර දුම්රිය මාර්ගය ජලයෙන් යටවී පැවතීම හේතුවෙන් දුම්රිය ප්‍රමාද වී ධාවනය කිරීමට සිදුවූ බව ඒ මහතා වැඩිදුරටත් සඳහන් කළේය.
+🟩
 
-මෙලෙස ජලය දුම්රිය මාර්ගයේ රැඳී පැවතීම හේතුවෙන් දුම්රිය සංඥා නිකුත් කිරීමට බාධා එල්ලවීම එළෙස දුම්රිය ප්‍රමාදයන්ට හේතුවී තිබේ.
+Deputy General Manager of Railways Jayaratne said several office trains will be delayed this afternoon.. N. Says Mr. Yadapola.
 
-ඒ අනුව රඹුක්කන, පොල්ගහවෙල, මහනුවර, කුරුණෑගල සහ මහව වැනි ප්‍රදේශ දක්වා ධාවනය වන දුම්රිය ද ප්‍රමාද විය හැකි බව ඒ මහතා එහිදී වැඩිදුරටත් සඳහන් කළේය.
+The railway line between Gampaha and Veyangoda were inundated, he added.
+
+The delays of the train signals have been caused by the delays of the railway signal.
+
+He added that the train traveling from Rambukkana, Polgahawela, Kandy, Kurunegala and Mahawa said he could delay.
 
 ◼️
 
 [Data](articles/3a853846.json)
+
+[Extended Data](ext_articles/3a853846.ext.json)
 
 ---
 
@@ -75,6 +83,8 @@ The Supreme Court bench comprising justices Yasantha Kodagoda, A.H.M.D. Nawaz an
 ...
 
 [Data](articles/f973741f.json)
+
+[Extended Data](ext_articles/f973741f.ext.json)
 
 ---
 
@@ -100,23 +110,31 @@ They have not won any global tournament since the 2013 Champions Trophy.
 
 [Data](articles/f11197a7.json)
 
+[Extended Data](ext_articles/f11197a7.ext.json)
+
 ---
 
-### பொதுமக்களின் உதவியை  நாடும் பொலிஸார்
+### Police seeking public assistance
 
 *2024-06-04 17:59:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொதுமக்களின்-உதவியை-நாடும்-பொலிஸார்/175-338433) · `ta`
 
-கடந்த மே மாதம் 29 ஆம்  திகதியிலிருந்து காணாமல் போயுள்ள பெண்ணொருவர் மற்றும் அவரது மகளை கண்டுபிடிக்க, பொலிஸார் பொதுமக்களின் உதவியை நாடியுள்ளனர்.
+Since May 29, police have been seeking public help to locate Yasoda Hansani Kahaduduwa Arachchi, 26, and her 44-year-old daughter, Sadurya Doshni Liyanage Fernando, who went missing. The case was reported by the husband to the Katunayake police, who are now investigating. Anyone with information is urged to contact the Katunayake OIC at 071-8591639 or the Katunayake Police Station at 011-22522222.
 
-காணாமல் போயுள்ள பெண்ணின் கணவரால் கட்டுநாயக்க பொலிஸில் பதிவு செய்யப்பட்ட முறைபாட்டிற்கமையவே பொலிஸார் விசாரணைகளை மேற்கொண்டுள்ளனர் .
+🟩
 
-26 வயதுடைய  யசோதா ஹன்சனி கஹதுடுவ ஆராச்சி மற்றும்  04 வயதுடைய மகள், சாதுர்யா தோஷ்னி லியனகே பெர்ணாண்டோ ஆகிய இருவருமே இவ்வாறு காணாமல் போயுள்ளனர் .
+The police have sought the help of the public to find the missing woman and her daughter since May 29.
 
-குறித்த இருவர் தொடர்பில் தகவல் அறிந்தோர் கட்டுநாயக்க OIC - 071-8591639 மற்றும் கட்டுநாயக்க பொலிஸ் நிலையம் - 011-2252222 க்கு தெரிவிக்குமாறு பொலிஸார் குறிப்பிட்டுள்ளனர் .
+Police are investigating the complaint lodged by the Katunayake police by the husband of the missing woman.
+
+26 -year -old Yasoda Hansani Kahaduduwa Arachchi and 44 -year -old daughter and Sadurya Doshni Liyanage Fernando have disappeared.
+
+The police have stated that the two men should be informed of the Katunayake OIC - 071-8591639 and the Katunayake Police Station - 011-22522222.
 
 ◼️
 
 [Data](articles/323711fb.json)
+
+[Extended Data](ext_articles/323711fb.ext.json)
 
 ---
 

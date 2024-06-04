@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-04 08:00:02**
+As of **2024-06-04 08:12:07**
 
 ## Newspaper Stats
 
@@ -26,25 +26,35 @@ adaderanasinhalalk | 4,531
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,240 (100.0%) of 28,250 articles have been extended.
+28,247 (100.0%) of 28,250 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-04 (Tuesday)
 
-### மதிப்புமிகு ஸொன்டா சர்வதேச விருதை வென்றெடுத்தார் தெஹிவளை கேட்வே மாணவத் தலைவி வைஷாலினி
+### Dehiwala Gateway student Vaishalini won the International Award
 
 *2024-06-04 06:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/185184) · `ta`
 
-இலங்கை, இந்தியா, பங்களாதேஷ், நேபாளம் ஆகிய நாடுகளைச் சேர்ந்த மாணவிகளுடன் மாவட்டம் 25இல் போட்டியிட்டு  பொது விடயங்களுக்கான  மதிப்புமிகு ஸொன்டா சர்வதேச இளம் பெண் விருதை தெஹிவளை கேட்வே கல்லூரியின் அதிசிறந்த மாணவி வைஷாலினி ராஜேந்திரன் வென்று பெருமை சேர்த்துக் கொண்டுள்ளார்.
+Vaishalini Rajendran, a standout student from Dehiwala Gateway College, has been honored with the Valuable Sonta International Young Female Award for Public Issues. Recognized for her leadership, academic excellence, and commitment to public service, Vaishalini, aged 18, is a role model for young women in Sri Lanka. She excels in education, winning numerous awards, and is actively involved in various extracurricular activities showcasing her leadership and dedication to social causes.
 
-அவரது தலைமைத்துவ திறன்கள், கல்வித்துறையில் அதி உயரிய திறமை மற்றும் பொது சேவைக்கான அர்ப்பணிப்பு ஆகியவற்றை இந்த விருது அங்கீகரிப்பதுடன் இலங்கையிலுள்ள இளம் பெண்களுக்கு குறிப்பிடத்தக்க ஒரு முன்மாதிரியாகவும் அமைகிறது.
+🟩
 
-பொதுக் கொள்கை, அரச மற்றும் தொண்டு நிறுவனங்களில் தலைமைத்துவத்தில் உறுதியான அர்ப்பணிப்பை வெளிப்படுத்தும் 16 வயதுக்கும் 19 வயதுக்கும் இடைப்பட்ட இளம் பெண்களுக்கு பொது விடயங்களில் இளம் பெண்கள் விருதை ( YWPA Award  ),சேவை மற்றும் ஆதரவு ஆகியவற்றினூடாக பெண்களுக்கு அதிகாரம் அளிப்பதில் அர்ப்பணிப்புடன் இயங்கிவரும் உலக நிறுவனமான ஸொன்டா இன்டர்நெஷனல் வழங்குகிறது.
+Vaishalini Rajendran, the best student of Dehiwala Gateway College, has won the Valuable Sonta International Young Female Award for Public Issues in the 25th of Sri Lanka, India, Bangladesh and Nepal.
+
+The award recognizes her leadership skills, the highest talent in the field of education and the commitment to public service and is a significant role model for young women in Sri Lanka.
+
+Sonta International, a world firm, provides a dedicated dedication to women through the YWPA Award, Service and Support for young women between the age of 16 and 19 years of age, who are firmly committed to leadership in public and charities.
+
+Although about 40 percent of the world's workers are women, only 25.7 percent of all national parliamentarians were women as of September 1, 2021, according to the data of the Union of Parliament.
+
+Sonta International believes that young women play an important role in the advancement of women in the public sector.
 
 ...
 
 [Data](articles/3ab02422.json)
+
+[Extended Data](ext_articles/3ab02422.ext.json)
 
 ---
 
@@ -926,6 +936,8 @@ A great GM, friend and a humble person. I call him ‘The Singing GM.’ He star
 
 [Data](articles/09df0189.json)
 
+[Extended Data](ext_articles/09df0189.ext.json)
+
 ---
 
 ### Full details of schools that will be closed tomorrow
@@ -1026,6 +1038,8 @@ Full’r Burgers’ Epic Gojira x Kong Burger Challenge Finale at Crescat Boulev
 
 [Data](articles/fc42fc1b.json)
 
+[Extended Data](ext_articles/fc42fc1b.ext.json)
+
 ---
 
 ### A growing global footprint: Sierra Cables expands to Maldives
@@ -1039,6 +1053,8 @@ Sierra Cables currently fulfils orders from Sri Lanka for client projects and re
 ...
 
 [Data](articles/e8cf1141.json)
+
+[Extended Data](ext_articles/e8cf1141.ext.json)
 
 ---
 
@@ -1092,6 +1108,8 @@ Both indices moved downwards. The All Share Price Index went down by 44.46 point
 
 [Data](articles/b4c38d8c.json)
 
+[Extended Data](ext_articles/b4c38d8c.ext.json)
+
 ---
 
 ### Stakeholders urge SLPA to ensure minimum safety standards at Colombo Port
@@ -1108,6 +1126,8 @@ X-Press Pearl, which was carrying several containers of epoxy resin plastics, ca
 
 [Data](articles/1ffa4f3b.json)
 
+[Extended Data](ext_articles/1ffa4f3b.ext.json)
+
 ---
 
 ### Full’r Burgers’ Epic Gojira x Kong Burger Challenge Finale at Crescat Boulevard
@@ -1123,6 +1143,8 @@ With seven thriving outlets across the western province, Full’r Burgers remain
 ...
 
 [Data](articles/b8af536e.json)
+
+[Extended Data](ext_articles/b8af536e.ext.json)
 
 ---
 

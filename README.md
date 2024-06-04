@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-05 04:18:54**
+As of **2024-06-05 04:35:22**
 
 ## Newspaper Stats
 
-*Scraped **28,448** Articles*
+*Scraped **28,449** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,620
 dailyftlk | 1,669
 adalk | 2,423
 adaderanalk | 3,234
-tamilmirrorlk | 3,345
+tamilmirrorlk | 3,346
 virakesarilk | 4,381
 dailymirrorlk | 4,504
 adaderanasinhalalk | 4,570
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,570
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,448 (100.0%) of 28,448 articles have been extended.
+28,448 (100.0%) of 28,449 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -79,6 +79,22 @@ After attending several events in Ruwanwella, the President attended the meeting
 [Data](articles/2a29f315.json)
 
 [Extended Data](ext_articles/2a29f315.ext.json)
+
+---
+
+### ’இந்திய ஆசிரியர்களுக்கு அனுமதி இல்லை’
+
+*2024-06-05 01:46:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்திய-ஆசிரியர்களுக்கு-அனுமதி-இல்லை/175-338456) · `ta`
+
+தோட்டப்புற பாடசாலைகளில் இந்திய ஆசிரியர்கள் பணியாற்றுவதற்காக தனது காலத்தில் எவ்வித அனுமதியும் வழங்கப்படவில்லை என்று கல்வி அமைச்சர் சுசில் பிரேமஜயந்த தெரிவித்துள்ளார்.
+
+நான் இந்த அமைச்சுப் பதவியை பொறுப்பேற்ற பின்னர். இந்தியாவில் இருந்து இரண்டாயிரம் ஆசிரியர்களுக்கு தன்னார்வ அடிப்படையில் தோட்டப்புறங்களில் சேவையில் ஈடுபட அனுமதி வழங்கப்படவில்லை. அதற்கு முன்னர் நடந்திருக்கலாம் என்றார்.
+
+ஆனால், இரண்டு வாரங்களுக்கு முன்னர் ஆசிரியர்களை பயிற்றுவிப்பதற்காக பயிற்றுவிப்பாளர்கள் குழுவொன்று குறிப்பாக ஆங்கில மொழி, விஞ்ஞானம், கணிதம் போன்ற பாடங்கள் தொடர்பில் 40 - 50 பேர் வரையிலான மட்டுப்படுத்தப்பட்ட அளவில் பயிற்றுவிப்பாளர்கள் குழுவொன்றுக்கு அனுமதியை பெறும் வகையில் இந்திய உயர்ஸ்தானிகராலயம் ஊடாக பட்டியல் தயாரிக்கப்பட்டுள்ளது அது மட்டுமே தனக்குத் தெரியும் என்றார்.
+
+◼️
+
+[Data](articles/3fe734f4.json)
 
 ---
 
@@ -2259,23 +2275,5 @@ To foster a robust capital market ecosystem, in 2023, the SEC introduced a compr
 [Data](articles/732bd9c7.json)
 
 [Extended Data](ext_articles/732bd9c7.ext.json)
-
----
-
-### Senthil Thondaman who gave the UN's permanent resident representative
-
-*2024-06-04 14:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/185287) · `ta`
-
-Senthil Thondaman, Eastern Province Governor of Sri Lanka, presented the first commemoration of the plantation community's 200th anniversary to Himali Arunathilaka, the country's UN envoy in Geneva during his official visit.
-
-🟩
-
-Eastern Province Governor Senthil Thondaman, who has made an official visit to Geneva, has handed over the first commemoration of the 200th anniversary of the Plantation Community to Himali Arunathilaka, Sri Lanka's permanent representative of the United Nations in Geneva.
-
-◼️
-
-[Data](articles/55921f59.json)
-
-[Extended Data](ext_articles/55921f59.ext.json)
 
 ---

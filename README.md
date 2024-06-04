@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-04 09:04:34**
+As of **2024-06-04 09:18:58**
 
 ## Newspaper Stats
 
-*Scraped **28,263** Articles*
+*Scraped **28,265** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 363
 islandlk | 1,533
 economynextcom | 1,604
 dailyftlk | 1,666
-adalk | 2,409
-adaderanalk | 3,210
+adalk | 2,410
+adaderanalk | 3,211
 tamilmirrorlk | 3,316
 virakesarilk | 4,350
 dailymirrorlk | 4,471
@@ -26,11 +26,27 @@ adaderanasinhalalk | 4,538
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,261 (100.0%) of 28,263 articles have been extended.
+28,263 (100.0%) of 28,265 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-04 (Tuesday)
+
+### Person stabbed to death with a sharp weapon in Madampe
+
+*2024-06-04 09:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/99643/person-stabbed-to-death-with-a-sharp-weapon-in-madampe) · `en`
+
+A person has been stabbed to death with a sharp weapon due to an argument that had stemmed from a previous dispute.
+
+Police said that the incident has reportedly taken place in the Henyaya area of Madampe police division last morning (03).
+
+The 36-year-old suspect has been arrested after surrendering himself to the police station and Madampe Police are conducting further investigations into this.
+
+◼️
+
+[Data](articles/ec7d941b.json)
+
+---
 
 ### Temporary decrease in heavy rains expected from today
 
@@ -47,6 +63,8 @@ General public is kindly requested to take adequate precautions to minimize dama
 ◼️
 
 [Data](articles/ffe8a9b7.json)
+
+[Extended Data](ext_articles/ffe8a9b7.ext.json)
 
 ---
 
@@ -273,6 +291,8 @@ According to the Epidemiology unit, 25,095 dengue cases have been reported from 
 ◼️
 
 [Data](articles/814063a4.json)
+
+[Extended Data](ext_articles/814063a4.ext.json)
 
 ---
 
@@ -2233,27 +2253,5 @@ During his address, the  President emphasized the government’s commitment to 
 [Data](articles/406f5307.json)
 
 [Extended Data](ext_articles/406f5307.ext.json)
-
----
-
-### Sri Lanka to plant a tree to replace a tree: state minister
-
-*2024-06-03 18:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-plant-a-tree-to-replace-a-tree-state-minister-166002/) · `en`
-
-ECONOMYNEXT – Sri Lanka will plant 10 lakhs of saplings to substitute for falling trees, state minister for provincial councils and local government Janaka Wakkumbura said.
-
-“On June 5 [world environment day], we plan to implement a program to plant 10 lakhs of plants around the country,” Wakkumbura told reporters on Monday.
-
-This announcement follows State Minister of Defense, Pramitha Bandara Tennakoon’s announcement the same day that 300 trees in Colombo are considered high risk. “Now Environment Day is coming up, and anyone can go plant a tree by the road. We have to take a decision about this. Trees should be suitable for the area. Some trees have roots that spread and damage roads, buildings. When the roots can’t go deep, they tend to topple over.”
-
-300 of 100,000 trees in Colombo considered high risk: state minister
-
-Strong winds and heavy rains have brought down trees across power lines and transformers resulting in over 300,000 outages.
-
-...
-
-[Data](articles/3eaa4d59.json)
-
-[Extended Data](ext_articles/3eaa4d59.ext.json)
 
 ---

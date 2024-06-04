@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-05 03:52:48**
+As of **2024-06-05 04:05:17**
 
 ## Newspaper Stats
 
-*Scraped **28,447** Articles*
+*Scraped **28,448** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,620
 dailyftlk | 1,669
 adalk | 2,423
 adaderanalk | 3,234
-tamilmirrorlk | 3,344
+tamilmirrorlk | 3,345
 virakesarilk | 4,381
 dailymirrorlk | 4,504
 adaderanasinhalalk | 4,570
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,570
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,446 (100.0%) of 28,447 articles have been extended.
+28,447 (100.0%) of 28,448 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -82,23 +82,43 @@ After attending several events in Ruwanwella, the President attended the meeting
 
 ---
 
-### ’அஸ்வெசுமவை மாற்றியுள்ளோம்’
+### ஐ. நாவில் மலையகம் 200 முத்திரை...
+
+*2024-06-05 01:41:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐ-நாவில்-மலையகம்-200-முத்திரை/175-338455) · `ta`
+
+ஜெனிவாவுக்கு உத்தியோகபூர்வ விஜயம் மேற்கொண்டுள்ள கிழக்கு மாகாண ஆளுநரும் இலங்கை தொழிலாளர் காங்கிரஸின் தலைவருமான செந்தில் தொண்டமான், பெருந்தோட்ட சமூகத்தின் 200வது வருடத்தின் முதல்  நினைவு முத்திரையை தொழில் அமைச்சின் செயலாளருடன் இணைந்து ஜெனிவாவில் உள்ள ஐக்கிய நாடுகள் சபைக்கான இலங்கையின் நிரந்தரப் பிரதிநிதி ஹிமாலி அருணதிலகவுக்கு வழங்கி வைத்தார்.
+
+◼️
+
+[Data](articles/0e959749.json)
+
+---
+
+### We have changed the telephone
 
 *2024-06-05 01:29:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அஸ்வெசுமவை-மாற்றியுள்ளோம்/175-338454) · `ta`
 
-அஸ்வெசும கொடுப்பனவு நடவடிக்கைகளில் நடைமுறையில் இருந்த முறைமையை  நாம் மாற்றியுள்ளோம் அதில் குறைபாடுகள் காணப்பட்டால் அதனை நிவர்த்தி செய்வோம். எனினும், அந்த முறைமையை முழுமையாக நீக்கமுடியாது என நிதி இராஜாங்க அமைச்சர் செஹான் சேமசிங்க தெரிவித்தார்.
+The Ashemu Payment Act system has undergone changes after being practiced for three decades, but the Minister of Finance noted its partial persistence due to complexities. Opposition MP Harsha de Silva highlighted the importance of confirming the second phase by the 15th of the current month. The transition has faced resistance, with some preferring the outdated system despite acknowledging its flaws. Steps have been taken to improve the system through negotiations with all stakeholders. Beneficiaries awaiting refunds since December 31st are expected to receive updates soon, with plans to present details to the Government Finance Committee this week for parliamentary approval and implementation.
 
-பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (04) எதிர்க்கட்சி எம்.பி. ஹர்ச டி சில்வா எழுப்பிய கேள்விக்கு பதிலளிக்கும் போதே  இவ்வாறு தெரிவித்தார்.
+🟩
 
-அஸ்வெசும இரண்டாம் கட்டத்தை உறுதிப்படுத்துவது மிக முக்கியம். இம்தம் 15 ஆம் திகதியளவில் உறுதிப்படுத்தப்படும் இந்த இரண்டாம் கட்ட விடயங்கள் முக்கியமானவை.
+We have changed the system that was practiced in the Ashemu Payment Act.. However, the Minister of Finance Sehan Semasinghe said the system could not be completely eliminated.
 
-மூன்று தசாப்தங்களாக பின்பற்றப்பட்டு வந்த நடைமுறையையே நாம் தற்போது மாற்றியுள்ளோம். இந்த மாற்றத்தை ஏற்றுக் கொள்ளாத அல்லது அதனை விரும்பாத தரப்பினரும் உள்ளனர்.
+Opposition MP on Tuesday (04) in Parliament. Harsha de Silva said this while responding to a question raised.
 
-பழைய முறைமையையே முன்னெடுத்து அதிலுள்ள தவறுகள், அது தொடர்பான குற்றச்சாட்டுக்களுடன் தொடர்ந்து பயணிக்க வேண்டும் என சிந்திக்கும் தரப்பினரும் உள்ளனர்.
+It is very important to confirm the second phase of Aswesuma. These second phases are important, which will be confirmed by the 15th of this month.
+
+We have now changed the practice that has been practiced for three decades. There are also parties who do not accept this change or like it.
+
+There are also parties who think that the old system should continue to travel with the mistakes and the accusations.
+
+However, we accept that there are some flaws in these activities. We have taken steps to bring about changes in the system that we have negotiated with all parties and all parties involved in this regard.
 
 ...
 
 [Data](articles/e2ac54d4.json)
+
+[Extended Data](ext_articles/e2ac54d4.ext.json)
 
 ---
 
@@ -2251,29 +2271,5 @@ Eastern Province Governor Senthil Thondaman, who has made an official visit to G
 [Data](articles/55921f59.json)
 
 [Extended Data](ext_articles/55921f59.ext.json)
-
----
-
-### Assets of 15 extremist organizations frozen
-
-*2024-06-04 14:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Assets-of-15-extremist-organizations-frozen/108-284070) · `en`
-
-Colombo, June 4 (Daily Mirror) - A gazette notification has been issued announcing the freezing of all funds and assets of 15 organizations and 210 individuals in the country involved in terrorist and extremist activities.
-
-The related gazette notification has been issued by Defense Ministry Secretary Major General (Retired) Kamal Gunaratne.
-
-Action has been taken to disable all funds, other financial assets and economic resources of 15 terrorist and extremist organizations and 210 persons associated with them.
-
-It is reported that this step has been taken according to the UN directives No. 01 of 2012.
-
-All funds and assets of 15 organizations including the LTTE, the Tamil Rehabilitation Organization or TRO, National Thowheed Jamaat or NTJ, Jamaate Milate Ibrahim or JMI have been disabled.
-
-Apart from these, all the money and assets of 113 persons who are accused of terrorist activities and financing of terrorism have also been disabled.
-
-◼️
-
-[Data](articles/156deddd.json)
-
-[Extended Data](ext_articles/156deddd.ext.json)
 
 ---

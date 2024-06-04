@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-04 09:18:58**
+As of **2024-06-04 09:34:22**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,538
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,263 (100.0%) of 28,265 articles have been extended.
+28,265 (100.0%) of 28,265 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ The 36-year-old suspect has been arrested after surrendering himself to the poli
 ◼️
 
 [Data](articles/ec7d941b.json)
+
+[Extended Data](ext_articles/ec7d941b.ext.json)
 
 ---
 

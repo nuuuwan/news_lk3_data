@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-04 17:34:34**
+As of **2024-06-04 17:54:58**
 
 ## Newspaper Stats
 
-*Scraped **28,372** Articles*
+*Scraped **28,375** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 363
 islandlk | 1,533
 economynextcom | 1,611
 dailyftlk | 1,669
-adalk | 2,416
-adaderanalk | 3,228
+adalk | 2,418
+adaderanalk | 3,229
 tamilmirrorlk | 3,333
 virakesarilk | 4,364
 dailymirrorlk | 4,490
@@ -26,27 +26,53 @@ adaderanasinhalalk | 4,560
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,367 (100.0%) of 28,372 articles have been extended.
+28,372 (100.0%) of 28,375 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-04 (Tuesday)
 
-### තුර්කියේ බිහිසුණු ගුවන් අනතුරක්
+### Two pilots killed in Turkey military training plane crash
+
+*2024-06-04 17:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/99661/two-pilots-killed-in-turkey-military-training-plane-crash) · `en`
+
+A military training plane has crashed in central Turkey, killing the two pilots aboard, the defence ministry said on Tuesday.
+
+The plane took off from a military base in Kayseri on a training flight and later crashed for as yet unknown reasons, the ministry said.
+
+Images on Turkish media showed black smoke billowing from a charred, half destroyed carcass of a plane in an agricultural field.
+
+Firefighters, rescuers and police were working at the site, according to images by the state Anadalu agency.
+
+“I express my condolences to our martyrs’ families, to our heroic army and to our nation,” Interior Minister Ali Yerlikaya wrote on X, formerly Twitter.
+
+◼️
+
+[Data](articles/3c01e415.json)
+
+---
+
+### Turkey is a terrible air accident
 
 *2024-06-04 17:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197388) · `si`
 
-මධ්‍යම තුර්කියේ සැහැල්ලු ගුවන් යානයක් කඩා වැටීමෙන් සිදුවු අනතුරකින් පුද්ගලයින් දෙදෙනෙකු මියගොස් තිබේ.
+In central Turkey, two died in a light plane crash, possibly a military training aircraft. The cause remains unknown.
 
-හමුදා පුහුණු ගුවන් යානයක් මෙලෙස අනතුරට ලක්ව ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+🟩
 
-කෙසේවෙතත් අදාළ ගුවන් යානය කඩාවැටීමට හේතුව මෙතෙක් තහවුරු වී නොමැති බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+Two persons were killed in a crash of a light flight of a light plane in the Central Turkey.
 
-ගුවන් යානය අනතුරට ලක්වූ අවස්ථාවේ බව සඳහන් දර්ශන පෙළක් විදෙස් මාධ්‍ය මෙලෙස වාර්තා කර තිබුණි.
+According to foreign media reports, a military training aircraft has been reported.
+
+However, the cause of the aircraft breakdown has not yet been established, foreign media reports say.
+
+Foreign media reports that the plane was crashed.
 
 ◼️
 
 [Data](articles/fc2990fe.json)
+
+[Extended Data](ext_articles/fc2990fe.ext.json)
 
 ---
 
@@ -64,6 +90,8 @@ In a high profile tournament such as the World Cup, in addition to getting used 
 
 [Data](articles/95b0e145.json)
 
+[Extended Data](ext_articles/95b0e145.ext.json)
+
 ---
 
 ### Flood warning extended for low-lying areas of Attanagalu Oya
@@ -79,6 +107,26 @@ Residents and vehicle drivers in these areas are requested to pay high attention
 ◼️
 
 [Data](articles/74c857cb.json)
+
+[Extended Data](ext_articles/74c857cb.ext.json)
+
+---
+
+### පස් කන්දට යට වෙන්නට ගිය ජීවිත හතරක් බේරාගත් සුනඛයා
+
+*2024-06-04 17:01:58* · [`adalk`](https://www.ada.lk/breaking_news/පස්-කන්දට-යට-වෙන්නට-ගිය-ජීවිත-හතරක්-බේරාගත්-සුනඛයා/11-410004) · `si`
+
+අයහපත් කාලගුණයෙන් ඊයේ (03) දින පැවති මහා වර්ෂාව හේතුවෙන් අගලවත්ත බෙල්ලන ආඳා දොළ ප්‍රදේශයේ නිවසක් පිටුපස තිබූ පස් කන්දක් නාය ගොස් නිවස සම්පූර්ණම යටවෙයි,   නාය යාමට විනාඩි 15 කට පෙර නිවසේ ඇතිකල කළු නම් සුනඛයා විසින් කුඩා දරුවෙකු ඇතුළු ජීවිත හතරක් නූලෙන් බේරා ගනියි,
+
+මෙසේ  ජීවිත බේරී ඇත්තේ අගලවත්ත බෙල්ලන ආඳා දොළ ප්‍රදේශයේ පදිංචි බෙල්ලන විදානලාගේ සෝමසිරි නැමැති පුද්ගලයා සහ ඔහුගේ දරු පවුලයි.
+
+දැනට මේ දරු පවුල ඔවුන්ගේ ඥාති නිවසක රැඳී සිටින බව දැන ගැනීමෙන් පසු අප ඔවුන් සොයා අගලවත්තේ බෙල්ලනට ගියෙමු. එහිදී සෝමසිරි මහතාගේ පුත්‍රයා වූ බෙල්ලන විදානලාගේ ශාන්ත කුමාර (33) මහතා මේ පිළිබඳව මෙසේ පැවසීය,
+
+මමයි මගේ බිරිඳ හර්ෂණී අනුෂ්කා සමග අම්මා ශාන්ති ජයසිංහත්  තාත්තා බී.වී සෝමසිරි සහ මගේ දිහැවිරිදි දියණිය සෙත්මි අකීෂා ඇතුළු  පස්දෙනාම මේ නිවසේ එකට ජීවත් වෙනවා,
+
+...
+
+[Data](articles/06cd6145.json)
 
 ---
 
@@ -108,19 +156,25 @@ The drivers who drive traffic drivers are also asking for this regard.
 
 ---
 
-### TIK TOK இல் களமிறங்கிய டொனால்ட் ட்ரம்ப்
+### Donald Trump on the field at Tik Tok
 
 *2024-06-04 16:47:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/TIK-TOK-இல்-களமிறங்கிய-டொனால்ட்-ட்ரம்ப்/50-338430) · `ta`
 
-அமெரிக்காவின் குடியரசு கட்சி தலைவரான முன்னாள் ஜனாதிபதி டொனால்ட் ட்ரம்ப் இந்த ஆண்டு நடைபெறும் தேர்தலிலும் ஜனாதிபதி வேட்பாளராக களமிறங்கி உள்ளார். இதனை முன்னிட்டு நாடு முழுவதும் தீவிர தேர்தல் பிரசாரத்தில் அவர் ஈடுபட்டு வருகிறார்.
+Donald Trump, a former U.S. president and current presidential candidate, recently opened a TikTok account, despite previously attempting to ban the platform due to national security concerns. His move comes amid controversy over a court ruling related to payments to adult film star Stormy Daniels. Critics suggest his TikTok engagement is part of his election strategy, leveraging his large following of over 4 million users.
 
-இதற்கிடையே கடந்த வாரம் ஆபாச நடிகை ஸ்டார்மி டேனியல்சுக்கு பணம் கொடுத்த விவகாரத்தில் அவர் குற்றவாளி என நீதிமன்றம் தீர்ப்பளித்துள்ளது. இந்த நிலையில் சீன செயலியான TIK TOK இல் ட்ரம்ப் புதிய கணக்கு துவங்கினார். அவரை TIK TOK இல் 4 மில்லியனுக்கும் அதிகமானோர் பின்தொடர்கின்றனர். இவர் ஜனாதிபதியாக இருந்தபோது தேசிய பாதுகாப்புக்கு அச்சுறுத்தலாக உள்ளது என கூறி TIK TOK செயலிக்கு தடை விதிக்க பல்வேறு முயற்சிகளை எடுத்தார்.
+🟩
 
-இந்தநிலையில் தற்போது அவரே TIK TOK இல் இணைந்துள்ளது விமர்சனத்தை ஏற்படுத்தி உள்ளது. அவர் தேர்தல் பிரசார உத்திக்காக TIK TOK இல் இணைந்து இருப்பதாக அரசியல் விமர்சகர்கள் கூறுகின்றனர்.
+Former President Donald Trump, the president of the United States, is also the presidential candidate in this year's election. He is engaged in a vigorous election campaign across the country.
+
+Meanwhile, the court ruled that she was guilty of paying for Porn actress Stormy Daniels last week.. Trump opened a new account at Chinese processor Tik Tok. He has over 4 million people in Tik tok. When he was president, he made various attempts to ban the TIK tok processor claiming that it was a threat to national security.
+
+At this juncture, he is currently joining Tik Tok. Political critics say that he joined Tik Tok for the election campaign.
 
 ◼️
 
 [Data](articles/d2e9eb7d.json)
+
+[Extended Data](ext_articles/d2e9eb7d.ext.json)
 
 ---
 
@@ -155,6 +209,8 @@ Information regarding the duo can be conveyed to Katunayake OIC - 071-8591639 an
 ◼️
 
 [Data](articles/7696dc34.json)
+
+[Extended Data](ext_articles/7696dc34.ext.json)
 
 ---
 
@@ -349,6 +405,20 @@ Former US President Donald Trump has joined Dictok active. When Donald Trump hel
 [Data](articles/d78d10f8.json)
 
 [Extended Data](ext_articles/d78d10f8.ext.json)
+
+---
+
+### ලාෆ් ගෑස් සමාගමත් මිල බස්සයි
+
+*2024-06-04 15:16:33* · [`adalk`](https://www.ada.lk/breaking_news/ලාෆ්-ගෑස්-සමාගමත්-මිල-බස්සයි/11-410003) · `si`
+
+අද (4) මාධ්‍යම රාත්‍රීයේ සිට ලාෆ් ගෑස් සමාගම ගෘහස්ථ ගෑස් කිලෝග්‍රෑම් 12.5 ක සිලින්ඩරයක මිල රුපියල් 160 කින් අඩු කිරීමට තීරණය කළ බව  නිවේදනය කරයි.
+
+ඒ අනුව  කිලෝග්‍රෑම් 12.5 ක සිලින්ඩරයක නව මිල රුපියල් 3,680ක්ද  , කිලෝග්‍රෑම් 5 ක සිලින්ඩරයක මිල රුපියල් 65 කින් ද එම සිලින්ඩරයක මිල රුපියල් 1,477 ක්  බවත් එම සමාගම සඳහන් කළේය.
+
+◼️
+
+[Data](articles/925cc719.json)
 
 ---
 
@@ -2225,81 +2295,5 @@ General public is kindly requested to take adequate precautions to minimize dama
 [Data](articles/ffe8a9b7.json)
 
 [Extended Data](ext_articles/ffe8a9b7.ext.json)
-
----
-
-### Sri Lanka electricity tariff revision proposal to regulator this week: Minister
-
-*2024-06-04 08:37:00* · [`economynextcom`](https://economynext.com/sri-lanka-electricity-tariff-revision-proposal-to-regulator-this-week-minister-166105/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Ceylon Electricity Board will make the proposal to revise tariffs to the regulator this week, Energy Minister Kanchana Wijesekera said.
-
-“A discussion was held with the CEB tariff division yesterday to finalize the electricity consumer tariff revision proposal,” Minister Wijesekera said in an x.com post.
-
-“The Government made a policy decision last year to implement a cost reflective tariff mechanism and that the tariffs will be revised quarterly every year.
-
-“Accordingly the July tariff proposal will be submitted to the PUCSL this week.
-
-Sri Lanka’s central bank has maintained monetary stability by not printing money and running deflationary policy, allowing the currency to remain strong, while global coal prices are also muted amid better Fed policy.
-
-◼️
-
-[Data](articles/f17a3347.json)
-
-[Extended Data](ext_articles/f17a3347.ext.json)
-
----
-
-### Disaster deaths up to 17
-
-*2024-06-04 08:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197365) · `si`
-
-Severe weather has caused 17 deaths across several districts, affecting over 8,000 individuals. The Meteorology Department predicts a temporary rain reduction, but flooding remains a concern in multiple provinces. Villages near Malimbada, Thihagoda, and Matara are particularly vulnerable, with major rivers still overflowing.
-
-🟩
-
-In the early days of the early days of the inclement weather, 17 deaths have been reported from various centers affected by yesterday (03).
-
-The Disaster Management Center (DMC) stated that three deaths in the Ratnapura district and three deaths in the Gampaha District and one death in the Gampaha District.
-
-The Disaster Management Center (DMC) stated that 8,353 persons belonging to 21,353 families in 8 districts have been affected by the inclement weather.
-
-The Meteorology Department says that a temporary decrease in the rainy section of the island is expected today.
-
-They point out that several goasures can be found in the Western, Sabaragamuwa, Central, Southern and Northwestern provinces.
-
-The Department of Irrigation says that the flood protection boundar in the Malimbada Divisional Secretariat of the Malimbada Divisional Secretariat of the Malimbada Divisional Secretariat of the Malimbada Divisional Secretariat of the Malimbada Divisional Secretariat of Nilwala Ganga.
-
-...
-
-[Data](articles/0ded34e7.json)
-
-[Extended Data](ext_articles/0ded34e7.ext.json)
-
----
-
-### Decision on Conducting Schools
-
-*2024-06-04 08:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197364) · `si`
-
-Due to severe weather, schools across various districts including Galle, Matara, Kalutara, Ratnapura, Kegalle, Homagama, Gampaha, Kelaniya, and Kaduwela Division have been closed today and possibly tomorrow. The decision was made by the Ministry of Education based on current weather conditions.
-
-🟩
-
-Due to existing inclement weather, the schools have been granted leave to schools in several districts today (04).
-
-The Ministry of Education stated that all schools in the Galle and Matara districts of the Southern Province will be given holidays and tomorrow (05).
-
-All schools in Kalutara, Ratnapura and Kegalle districts have also been given leave today.
-
-It is reported that the schools in Homagama, Gampaha and Kelaniya education zones have been granted to schools in the Kaduwela Division.
-
-The Ministry of Education has informed the Zonal Directors of the Provincial Authorities by considering the existing weather conditions.
-
-◼️
-
-[Data](articles/bb8260d6.json)
-
-[Extended Data](ext_articles/bb8260d6.ext.json)
 
 ---

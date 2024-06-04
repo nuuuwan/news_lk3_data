@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-04 12:06:17**
+As of **2024-06-04 12:19:08**
 
 ## Newspaper Stats
 
-*Scraped **28,318** Articles*
+*Scraped **28,324** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,58 +13,134 @@ dbsjeyarajcom | 270
 bbccomsinhala | 277
 newsfirstlk | 363
 islandlk | 1,533
-economynextcom | 1,609
+economynextcom | 1,611
 dailyftlk | 1,669
 adalk | 2,414
-adaderanalk | 3,217
-tamilmirrorlk | 3,326
+adaderanalk | 3,218
+tamilmirrorlk | 3,327
 virakesarilk | 4,358
 dailymirrorlk | 4,480
-adaderanasinhalalk | 4,546
+adaderanasinhalalk | 4,548
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,307 (100.0%) of 28,318 articles have been extended.
+28,318 (100.0%) of 28,324 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-04 (Tuesday)
 
-### யாழ். மாநகர ஆணையாளருக்கு எதிரான நீதிமன்ற அவமதிப்பு வழக்கு தள்ளுபடி !
+### குழந்தையை தாக்கிய சந்தேகநபருக்கு வலை
+
+*2024-06-04 12:05:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குழந்தையை-தாக்கிய-சந்தேகநபருக்கு-வலை/175-338415) · `ta`
+
+வீட்டில் சாப்பிட்டுக் கொண்டிருந்த 4 வயது குழந்தையை ஒருவர் கொடூரமான முறையில் தாக்கும் வீடியோ சமூக வலைதளங்களில் பரவி வருவது குறித்து பொலிஸார் விசாரணையை ஆரம்பித்துள்ளனர்.
+
+பிபிலே சமிந்த எனப்படும் குகுல் சமிந்த என அடையாளம் காணப்பட்ட சந்தேக நபர் பதவிய சம்பதனுவர பகுதியைச் சேர்ந்தவர்.
+
+குறிப்பிட்ட சந்தேகநபர் தனது வீட்டில் உணவருந்திக் கொண்டிருந்த குழந்தையை கொடூரமாக தாக்கும் வீடியோவை பக்கத்து வீட்டுக்காரர் பதிவு செய்திருந்தார், இது சமூக ஊடகங்களில் வெளியிடப்பட்டது.
+
+இதற்கு முன்னரும் பல தடவைகள் இந்தக் குழந்தையை சந்தேக நபர் தாக்கியிருந்த போதிலும் அவருக்குப் பயந்து எவரும் பொலிஸாருக்கு அறிவிக்கவில்லை எனத் தகவல்கள் தெரிவிக்கின்றன.
+
+இதேவேளை,  பொலிஸ் நிலைய பொறுப்பதிகாரி உட்பட அதிகாரிகள் குழுவொன்று குறித்த வீட்டை சோதனையிட்டுள்ளனர். சந்தேக நபர் வீட்டை விட்டு தப்பிச் சென்றுள்ளதுடன், அவரைக் கண்டுபிடிக்க பொலிஸார் தேடுதல் நடவடிக்கையில் ஈடுபட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/c7862d3b.json)
+
+---
+
+### Sri Lanka to halt illegal landfills, relocate hospitals in flood-prone areas: President
+
+*2024-06-04 12:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-halt-illegal-landfills-relocate-hospitals-in-flood-prone-areas-president-166135/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s President Ranil Wickremesinghe has instructed officials to halt illegal landfills in flood-prone areas and to relocate the Mulleriyawa and IDH hospitals to alternative locations.
+
+“Officials have been directed to be vigilant about illegal landfills and any new construction in the Kelani River valley that could contribute to increased flooding risks,” Wickremesinghe said on X platform (twitter).
+
+“I ordered the relocation of the Mulleriyawa and IDH hospitals to alternative locations.”
+
+Wickremesinghe visited Kolonnawa, Kelaniya, and Ambatale to assess the welfare of those affected by the floods.
+
+He recommended swift relocation from flood-prone areas and the use of aqueducts to divert floodwaters.
+
+Funding will be allocated for relief efforts, cleaning operations, epidemic prevention measures (such as dengue, rat fever, and diarrhea), and the repair of damaged infrastructure including bridges, bays, and roads, the president said.
+
+...
+
+[Data](articles/84251e2e.json)
+
+---
+
+### Yall. Municipal commissioner dismissed court contempt
 
 *2024-06-04 11:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/185276) · `ta`
 
-யாழ்ப்பாணம் மாநகர ஆணையாளருக்கு எதிராக சட்டத்தரணி வி.மணிவண்ணன் தொடுத்த நீதிமன்ற அவமதிப்பு வழக்கு யாழ். மாவட்ட நீதிமன்றால் தள்ளுபடி செய்யப்பட்டது.
+A case against the Jaffna Municipal Commissioner by attorney V. Manivannan was dismissed by the district court due to it being filed in the wrong court. The attorney argued for filing in the Small Court, which the judge accepted, leading to the dismissal of the contempt of court case.
 
-இந்த ஆண்டு அறிமுகமான நீதிமன்றங்கள், நியாய சபைகள் மற்றும் நிறுவனங்களை அவமதிக்கும் சட்ட ஏற்பாட்டின் கீழ் நீதிமன்றை அவமதித்தார் என்ற அடிப்படையில் யாழ்ப்பாணம் மாநகர ஆணையாளருக்கு எதிராக சட்டத்தரணி  வி.மணிவண்ணன் தொடுத்த வழக்கே தள்ளுபடி செய்யப்பட்டுள்ளது.
+🟩
 
-நீதிமன்ற அவமதிப்பு வழக்கில், மாநகர ஆணையாளர் சார்பில் கடந்த மாதம் 22ஆம் திகதி முன்னிலையான ஜனாதிபதி சட்டத்தரணி எம்.ஏ.சுமந்திரன், சிறுகோரிக்கை நீதிமன்ற அவமதிப்பு வழக்கை சிறுகோரிக்கை நீதிமன்றத்திலேயே தாக்கல் செய்ய வேண்டும் என்ற வாதத்தை முன் வைத்திருந்தார்.
+Attorney -at -Law V. Manivannan against Jaffna Municipal Commissioner. Dismissed by the district court.
 
-அந்நிலையில் குறித்த வழக்கு நேற்று (03) கட்டளைக்காக எடுத்து கொள்ளப்பட்ட போது, வழக்கு உரிய மன்றில் தாக்கல் செய்யப்படவில்லை என்ற ஜனாதிபதி சட்டத்தரணியின் வாதத்தை மன்று ஏற்றுக்கொண்டு, வழக்கினை தள்ளுபடி செய்வதாக மாவட்ட  நீதிபதி சி.சதீஸ்தரன் கூறி வழக்கை தள்ளுபடி செய்தார்.
+Attorney V. Manivannan's case against the Jaffna Municipal Commissioner has been dismissed on the basis of contempt of court under the law of contempt of courts, judicial councils and institutions this year.
+
+In a contempt of court case, President's Attorney MA Sumanthiran, who appeared on behalf of the Municipal Commissioner on behalf of the Municipal Commissioner, had argued that the case should be filed in the Small Court.
+
+When the case was taken up for an order yesterday (03), District Judge C. Sadeesharan dismissed the case by accepting the lawyer's argument that the case was not filed in the court.
 
 ◼️
 
 [Data](articles/dccf64c2.json)
 
+[Extended Data](ext_articles/dccf64c2.ext.json)
+
 ---
 
-### இன்று நள்ளிரவு முதல் சமையல் எரிவாயு விலை குறைப்பு
+### ත්‍රස්තවාදී සහ අන්තවාදී සංවිධානවල 210කගේ සියලු වත්කම් අත්හිටුවයි
+
+*2024-06-04 11:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197376) · `si`
+
+ත්‍රස්තවාදී සහ අන්තවාදී ක්‍රියාවලට සම්බන්ධ සංවිධාන 15ක සහ පුද්ගලයින් 210කගේ සියලු අරමුදල් සහ වත්කම් අත්හිටුවීමට රජය පියවර ගෙන තිබේ.
+
+ආරක්ෂක අමාත්‍යංශ ලේකම් විශ්‍රාමික මේජර් ජනරාල් කමල් ගුණරත්න මහතා විසින් ඊට අදාළ ගැසට් නිවේදනය ඊයේ (03)දිනයේ නිකුත් කර ඇති බව වාර්තා වේ.
+
+ත්‍රස්තවාදී සහ අන්තවාදී සංවිධාන 15ක් සහ ඒවාට සම්බන්ධ 210කගේ සියලු අරමුදල් වෙනත් මූල්‍ය වත්කම් සහ ආර්ථික සම්පත් ඒ අනුව අක්‍රීය කිරීමට පියවර ගෙන තිබේ.
+
+2012 අංක 01 දරණ එක්සත් ජාතීන්ගේ නියෝගවලට අනුව මෙම පියවර ගෙන ඇති බව වාර්තා වේ.
+
+ද්‍රවිඩ ඊලාම් විමුක්ති කොටි හෙවත් එල්.ටී.ටී.ඊ සංවිධානය, දෙමළ පුනරුත්ථාපන සංවිධානය හෙවත් ටී.ආර්.ඕ සංවිධානය, ජාතික තව්දිහ් ජමාත් හෙවත් එන්.ටී.ජේ සංවිධානය, ජමාතේ මිලාතේ ඊබ්‍රහිම් හෙවත් ජේ.එම්.අයි සංවිධානය ඇතුළු සංවිධාන 15ක සියලු අරමුදල් සහ වත්කම් අක්‍රීය කර තිබේ.
+
+ඊට අමතරව ත්‍රස්තවාදී ක්‍රියාකාරකම් සහ ත්‍රස්තවාදය සඳහා මුදල් සැපයීම සම්බන්ධයෙන් චෝදනා එල්ල වී සිටින පුද්ගලයින් 113 දෙනෙකුගේ සියලු මුදල් හා වත්කම් ද අක්‍රීය කර ඇති බව වාර්තා වේ.
+
+◼️
+
+[Data](articles/b0e2dbe1.json)
+
+---
+
+### Cooking gas price reduction from midnight today
 
 *2024-06-04 11:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/185272) · `ta`
 
-லிட்ரோ சமையல் எரிவாயு விலை இன்று செவ்வாய்க்கிழமை (04) நள்ளிரவு முதல் குறைக்கப்படவுள்ளது.
+From midnight, Litro gas prices drop: 12.5kg cylinder now Rs. 3,790 (-150), 5kg Rs. 1,522 (-60), 2.3kg Rs. 712 (-28).
 
-12.5 கிலோகிராம் எரிவாயு சிலிண்டரின் விலை 150 ரூபாவினால் குறைக்கப்படவுள்ளது. இதற்கிணங்க,  3940 ரூபாவாக விற்பனை செய்யப்படும் 12.5 கிலோகிராம் எரிவாயு சிலிண்டரின் புதிய விலை 3,790 ரூபாவாகும்.
+🟩
 
-5 கிலோகிராம் சிலிண்டரின் விலை 60 ரூபாவினால் குறைக்கப்படவுள்ளதுடன்,  அதன் புதிய விலை 1,522  ரூபா என லிட்ரோ நிறுவனம் தெரிவித்துள்ளது.
+Litro cooking gas prices will be reduced from midnight on Tuesday (04).
 
-2.3 கிலோகிராம் சமையல் எரிவாயு சிலிண்டரின் விலை  28 ரூபாவினால் குறைக்கப்படவுள்ளது. இதற்கிணங்க, அதன் புதிய விலை  712  ரூபாவாகும்.
+The price of a 12.5 kilogram gas cylinder will be reduced by 150 rupees. Accordingly, the new price of 12.5 kilograms of gas cylinder, which is sold at 3940 rupees, is 3,790 rupees.
+
+The price of 5 kilograms of cylinder will be reduced by 60 rupees and its new price is 1,522 rupees, Litro said.
+
+The price of 2.3 kilograms of cooking gas will be reduced by 28 rupees. Accordingly, its new price is 712 rupees.
 
 ◼️
 
 [Data](articles/46ce32f6.json)
+
+[Extended Data](ext_articles/46ce32f6.ext.json)
 
 ---
 
@@ -85,6 +161,46 @@ Meanwhile, a group of officers, including the Sampathanuwara police station OIC,
 ◼️
 
 [Data](articles/4668fe68.json)
+
+[Extended Data](ext_articles/4668fe68.ext.json)
+
+---
+
+### Youth electrocuted by illegal electric fence in Badulla
+
+*2024-06-04 11:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/99650/youth-electrocuted-by-illegal-electric-fence-in-badulla) · `en`
+
+A person has reportedly died by electrocution after coming into contact with an unauthorized electric fence erected in a field near the playground at Nuge Junction area in Badulla.
+
+Police stated that the relevant incident was reported last night (03) and that the deceased was identified to be a 23-year-old youth from the Hindagoda area in Hambawela.
+
+Police further reported that the cause of death was due to entanglement with an electricity wire that was illegally utilized to keep away wild animals from damaging crops.
+
+Further investigations related to the incident are carried out by Badulla Police.
+
+◼️
+
+[Data](articles/b9e3a025.json)
+
+---
+
+### බටහිර ඉන්දීය කාන්තා ක්‍රිකට් කණ්ඩායම දිවයිනට
+
+*2024-06-04 11:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197375) · `si`
+
+බටහිර ඉන්දීය කොදෙව් කාන්තා ක්‍රිකට් කණ්ඩායම ශ්‍රී ලංකාවේ තරගාවලි සංචාරයක් සඳහා අද (04) දින උදෑසන කටුනායක ගුවන්තොටුපොළ වෙත පැමිණ තිබේ.
+
+මෙම කණ්ඩායමට ක්‍රීඩිකාවන් 15 දෙනෙකු සහ පුහුණුකරුවන් 07 දෙනෙකු ඇතුළත්ය.
+
+ඔවුන් එළැඹෙන 15, 18 සහ 21 දින පැවැත්වෙන එක් දින සීමිත ඕවර් තරග තුනක් සඳහා සහභාගී වීමට නියමිත අතර එම තරග ගාල්ල ජාත්‍යන්තර ක්‍රීඩාංගණයේදී පැවැත්වීමට නියමිතය.
+
+මීට අමතරව හම්බන්තොට ජාත්‍යන්තර ක්‍රිකට් ක්‍රීඩාංගණයේදී තවත් විස්සයි විස්ස තරග 03ක් එළැඹෙන 24, 26 සහ 28 දිනවල පැවැත්වීමට නියමිත අතර ඒ සඳහා ද මෙම බටහිර ඉන්දීය කොදෙව් කාන්තා ක්‍රිකට් කණ්ඩායම සහභාගී වීමට නියමිතය.
+
+මෙම ක්‍රිකට් කණ්ඩායම උදෑසන 08.40ට ඩුබායි සිට එමිරේට්ස් ගුවන් සේවයේ ඊ.කේ.- 650 දරන ගුවන් යානයෙන් කටුනායක ගුවන්තොටුපොළ වෙත පැමිණ තිබූ අතර ඔවුන් පිළිගැනීම සඳහා ශ්‍රී ලංකා ක්‍රිකට් ආයතනයේ නිලධාරීන් පිරිසක් ද ගුවන්තොටුපොළ වෙත පැමිණ සිටියහ.
+
+◼️
+
+[Data](articles/3699a07f.json)
 
 ---
 
@@ -134,25 +250,55 @@ Minister of Power and Energy Kanchana Wijesekera who responded, assured that the
 
 ---
 
-### மேற்குலக நாடுகள் வழங்கிய ஆயுதங்களை பயன்படுத்தி தாக்குதல் - ரஸ்யாவிற்குள் இலக்கை அழித்ததாக உக்ரைன் தெரிவிப்பு
+### Sri Lanka’s new Electricity Bill ruled unconstitutional by top Court
+
+*2024-06-04 11:15:00* · [`economynextcom`](https://economynext.com/sri-lankas-new-electricity-bill-ruled-unconstitutional-by-top-court-166124/) · `en`
+
+ECONOMYNEXT – A bill to reform Sri Lanka’s Electricity law was ruled inconsistent “as a whole” with article 12 (1) of the Constitution by the Supreme Court, Speaker Mahinda Abeywardana said.
+
+Several other articles of the bill were also ruled inconsistent with the constitution, he said.
+
+However, the Supreme Court has suggested several amendments to enable the bill to be passed with a simple majority.
+
+Opposition Chief Whip, Lakshman Kiriella requested that the bill be referred to the relevant committee and debate delayed to make sure the appropriate changes are made.
+
+Sri Lanka’s opposition has charged that the government has amended bills in the past in ways which were not in line with the Supreme Court’s suggestion, and unconstitutional bills are in force.
+
+Power Minister Kanchana Wijesekera said the bill can be debated on June 06 as scheduled, with the appropriate changes.
+
+Other legislators also asked for more time to study the changes.
+
+...
+
+[Data](articles/0326a30e.json)
+
+---
+
+### Ukraine has reportedly destroyed the target within Russia using the weapons provided by the West
 
 *2024-06-04 11:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/185274) · `ta`
 
-மேற்குலக நாடுகள் வழங்கிய ஆயுதங்களை பயன்படுத்தி ரஸ்யாவிற்குள் உள்ள இலக்கொன்றின் மீது தாக்குதலை மேற்கொண்டதாக உக்ரைன் தெரிவித்துள்ளது.
+Ukraine, with Western-supplied weapons, reportedly targeted and destroyed a site within Russia, specifically mentioning the use of S300 missiles. This action follows the US President's approval for such operations near Gargivi, with the West easing restrictions on weapon usage. The move aims to support Ukraine in defending the Karkiv region.
 
-ரஸ்யாவிற்குள் எஸ் 300 ஏவுகணை அழகா எரிந்தது என தெரிவித்துள்ள உக்ரைன் அமைச்சர் தாக்குதல் இடம்பெறுவதை காண்பிக்கும் படத்தை முகநூலில் பதிவிட்டுள்ளார்.
+🟩
 
-ரஸ்யாவிற்குள் தாக்குதலை மேற்கொள்வதற்கு மேற்குலகம் அனுமதிவழங்கியதை தொடர்ந்து இந்த தாக்குதலை மேற்கொண்டுள்ளதாக அவர் தெரிவித்துள்ளார்.
+Ukraine said it used the weapons provided by the West and attacked a target inside Russia.
 
-கார்க்கிவ்விற்கு அருகில் உள்ள ரஸ்ய பிரதேசங்கள் மீது உக்ரைன் தாக்குதலை மேற்கொள்வதற்கு அமெரிக்க ஜனாதிபதி அனுமதியளித்திருந்தமை குறிப்பிடத்தக்கது.
+The Ukrainian minister has said that the S300 missile has been burnt inside Russia.
 
-உக்ரைன் தாங்கள் வழங்கிய ஆயுதங்களை எவ்வாறு பயன்படுத்தலாம் என்பது குறித்த கட்டுப்பாடுகளை மேற்குலக நாடுகள் தளர்த்தியுள்ளன.
+He said the attack was followed by the West's permission to carry out the attack inside Russia.
 
-இது தன்னுடைய படையினர் கார்கிவ் பிராந்தியத்தை காப்பாற்றுவதற்கு உதவும் என அவர் தெரிவித்துள்ளார்.
+It is noteworthy that the US president had allowed Ukraine to attack the Russian territories near Gargivi.
+
+The West has relaxed the restrictions on how Ukraine can use the weapons they provided.
+
+This will help his soldiers to save the Karkiv region, he said.
 
 ◼️
 
 [Data](articles/9714bd34.json)
+
+[Extended Data](ext_articles/9714bd34.ext.json)
 
 ---
 
@@ -250,19 +396,25 @@ Last year, the Netherlands returned six Kandyan artifacts, including gold and si
 
 ---
 
-### பதுளையில் மின்சாரம் தாக்கி இளைஞர் பலி!
+### Youth killed in electricity
 
 *2024-06-04 11:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/185255) · `ta`
 
-பதுளை, நுகே சந்தி பகுதியில் விளையாட்டு மைதானத்திற்கு அருகில் உள்ள காணியொன்றில் மின்சாரம் தாக்கி  ஒருவர் உயிரிழந்துள்ளதாக பதுளை பொலிஸார் தெரிவித்தனர்.
+A youth died near a playground in Badulla due to electrocution from illegally installed power lines meant to guard vegetables from wildlife. The Badulla police are investigating this tragic incident.
 
-வன விலங்குகளிடமிருந்து மரக்கறிகளைப் பாதுகாப்பதற்காக சட்டவிரோதமாக பொருத்தப்பட்டிருந்த மின்சார கம்பிகளில் சிக்கியதில் இந்த மரணம் இடம்பெற்றுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+🟩
 
-மேலும், சம்பவம் தொடர்பான மேலதிக விசாரணைகளை பதுளை பொலிஸார் மேற்கொண்டு வருவதாக தெரிவித்துள்ளனர்.
+Badulla police said that a man was killed in a land near the playground in Nikke junction in Badulla, Badulla.
+
+Police said the death was caught in the illegal power wires that were illegally fitted to protect the vegetables from wildlife.
+
+Further investigations into the incident are being carried out by the Badulla police.
 
 ◼️
 
 [Data](articles/aa96fd1f.json)
+
+[Extended Data](ext_articles/aa96fd1f.ext.json)
 
 ---
 
@@ -290,33 +442,45 @@ A 2.3 kilogram gas cylinder has been reduced by Rs.
 
 ---
 
-### லிட்ரோ எரிவாயு விலை குறைப்பு
+### Litro gas prices cut
 
 *2024-06-04 10:49:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/லிட்ரோ-எரிவாயு-விலை-குறைப்பு/150-338410) · `ta`
 
-இன்று (04) நள்ளிரவு முதல் சமையல் எரிவாயு சிலிண்டரின் விலையை குறைக்க நடவடிக்கை எடுத்துள்ளதாக லிட்ரோ எரிவாறு நிறுவனம் தெரிவித்துள்ளது.
+Litro gas has reduced prices: 12.5 kg cylinder now Rs. 3,790 (down from Rs. 3,940), 5 kg cylinder Rs. 1,525 (from Rs. 1,585), and 2.3 kg cylinder Rs. 712 (from Rs. 740).
 
-இதன்படி, 12.5 கிலோ கிராம் எரிவாயு சிலிண்டர்  150 ரூபாவினால் குறைக்கப்படவுள்ள நிலையில், அதன் புதிய விலை 3,790 ரூபாவாகும்.
+🟩
 
-5 கிலோ கிராம் எடையுள்ள எரிவாயு சிலிண்டரின் விலை 60 ரூபாவால் குறைக்கப்படவுள்ளதுடன், அதன் புதிய விலை 1,525 ரூபாவாகும்.
+Litro gas has said that steps have been taken to reduce the price of cooking gas cylinder from midnight today.
 
-2.3 கிலோ கிராம் எடையுள்ள எரிவாயு சிலிண்டரின் விலை 28 ரூபாவால் குறைக்கப்படவுள்ளதுடன், அதன் புதிய விலை 712 ரூபாவாகும்.
+Accordingly, the new price of 12.5 kg of gas cylinder will be reduced by 150 rupees, and its new price is 3,790 rupees.
+
+The price of a gas cylinder weighing 5 kg will be reduced by 60 rupees and its new price is 1,525 rupees.
+
+The price of a gas cylinder weighing 2.3 kg will be reduced by 28 rupees and its new price is 712 rupees.
 
 ◼️
 
 [Data](articles/5d4c2bc0.json)
 
+[Extended Data](ext_articles/5d4c2bc0.ext.json)
+
 ---
 
-### உத்தேச மின்சார சபை மறுசீரமைப்பு சட்டமூலம் தொடர்பான தீர்ப்பு வெளியானது
+### The verdict on the proposed Electricity Board Reorganization Bill
 
 *2024-06-04 10:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/185270) · `ta`
 
-உத்தேச மின்சார சபை மறுசீரமைப்பு சட்டமூலத்தின் ஒரு சில ஏற்பாடுகளை நிறைவேற்ற வேண்டுமாயின் மூன்றில் இரண்டு விசேட பெரும்பான்மை ஆதரவுடன், சர்வஜன வாக்கெடுப்புக்கும் செல்ல வேண்டும் என உயர் நீதிமன்றம் தீர்ப்பு அளித்துள்ளது.
+The Supreme Court mandates that for the proposed Electricity Board Reorganization Bill to proceed, it must receive a two-thirds special majority support, which will then be subject to a public referendum.
+
+🟩
+
+The Supreme Court has ruled that if the proposed Electricity Board is to pass a few arrangements, two -thirds of the special majority support should go to the referendum.
 
 ◼️
 
 [Data](articles/4512599f.json)
+
+[Extended Data](ext_articles/4512599f.ext.json)
 
 ---
 
@@ -486,19 +650,27 @@ The retail price of a 2.3 kg cylinder of gas will be reduced by Rs. 28, and its 
 
 [Data](articles/49f3825d.json)
 
+[Extended Data](ext_articles/49f3825d.ext.json)
+
 ---
 
-### இந்தியாவின் புதிய பிரதமருக்கு வாழ்த்து கூற ஜனாதிபதி ரணில் ஞாயிறு டெல்லி செல்கிறார்
+### President Ranil goes to Delhi on Sunday to congratulate India's new Prime Minister
 
 *2024-06-04 10:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/185265) · `ta`
 
-இருநாள் உத்தியோகப்பூர்வ விஜயத்தை மேற்கொண்டு ஜனாதிபதி ரணில் விக்கிரமசிங்க எதிர்வரும் ஞாயிற்றுக்கிழமை இந்தியாவுக்கு செல்கின்றார். இந்திய தேர்தல் முடிவுகள் இன்று செவ்வாய்க்கிழமை வெளிவரவுள்ள நிலையில், இந்தியாவின் புதிய பிரதமருக்கு நேரடியாக சென்று வாழ்த்து கூறும் வகையில் ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் டெல்லி விஜயம் ஏற்பாடு செய்யப்பட்டுள்ளது.
+President Ranil Wickremesinghe visits India to congratulate its new PM and strengthen bilateral ties, highlighting India's crucial support during Sri Lanka's economic crisis. The trip underscores the importance of India-Sri Lanka relations for mutual economic growth and cooperation.
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் இந்த விஜயமானது இருநாடுகளின் உறவுகளின் வலுவான நிலையையும் இலங்கையின் பொருளாதார மீட்சியில் இந்தியாவின் ஒத்துழைப்புகள் இன்றியமையாத ஒன்று என்பதையும் எடுத்துக்;காட்டும் வகையில் அமைந்துள்ளது. எனவே தான் இந்திய தேர்தல் முடிவுகள் வெளிவரவுள்ள நிலையில் யார் ஆட்சி அமைத்தாலும் அந்த அரசாங்கத்துடன் ஒன்றித்து இருதரப்பு உறவுகளை வலுப்படுத்தல் மற்றும் புதிய பொருளாதார இணைப்புகளை துரிதப்படுத்தல் போன்றவற்றில் இலங்கையின் ஆர்வத்தை வெளிப்படுத்தும் வகையில் ஜனாதிபதி ரணில் டெல்லி செல்கின்றார்.
+🟩
+
+President Ranil Wickremesinghe is on a two -day official visit to India on Sunday. President Ranil Wickremesinghe's Delhi visit to Delhi has been organized to congratulate India's new Prime Minister, as the results of the Indian election are coming out on Tuesday.
+
+This visit by President Ranil Wickremesinghe shows that India's cooperation in Sri Lanka's economic recovery is essential for the relatives of the two countries.. That is why President Ranil is going to Delhi to express Sri Lanka's interest in strengthening bilateral relations and expedition with new economic connections, no matter who ruled the Indian election results.
 
 ...
 
 [Data](articles/076b11e7.json)
+
+[Extended Data](ext_articles/076b11e7.ext.json)
 
 ---
 
@@ -602,15 +774,21 @@ He mentioned that they will discuss with the trade union representatives regardi
 
 ---
 
-### வெள்ளம் ; பிரதான மார்க்கத்தில் ரயில் சேவைகள் தாமதம்
+### Flood;Rail services delay in main route
 
 *2024-06-04 09:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/185256) · `ta`
 
-கம்பஹா மற்றும் வெயாங்கொடை ரயில் நிலையங்களுக்கு இடையில் வெள்ளம் ஏற்பட்டுள்ளமையாலேயே பிரதான  மார்க்கத்தில் ரயில் சேவைகள் தாமதமடைந்துள்ளதாக ரயில் திணைக்களம் தெரிவித்துள்ளது.
+Flooding between Gampaha and Wayankoda stations caused rail delays, as announced by the Railway Department.
+
+🟩
+
+Railway services have been delayed due to flooding between the Gampaha and the Wayankoda railway stations, the Railway Department said.
 
 ◼️
 
 [Data](articles/a0b2cba1.json)
+
+[Extended Data](ext_articles/a0b2cba1.ext.json)
 
 ---
 
@@ -846,19 +1024,25 @@ Chasing a target of 184, the Uganda team scored only 58 runs in 16 overs.
 
 ---
 
-### குழாய்கள் சேதம் ; பல பகுதிகளுக்கு குறைந்த அழுத்தத்தில் நீர் விநியோகம்
+### Damage to pipes;Water supply at low pressure to several areas
 
 *2024-06-04 09:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/185257) · `ta`
 
-நாட்டில் நிலவும் சீரற்ற வானிலை காரணமாக நீர் விநியோக குழாய்கள் சேதமடைந்துள்ளதால் இன்று செவ்வாய்க்கிழமை பல பகுதிகளில் குறைந்த அழுத்தத்தில் நீர் விநியோகிக்கப்படும் என தேசிய நீர் வழங்கல் மற்றும் வடிகாலமைப்பு சபை அறிவித்துள்ளது.
+Due to bad weather, the National Water Supply and Drainage Board will provide water at low pressure to several regions including Padukkai, Kodagama, Homagama, etc., from specific times today.
 
-அதன்படி, காலை 6 மணி முதல் 9 மணி வரையிலும் மாலை 5 மணி முதல் இரவு 9 மணி வரையிலும் சில பிரதேசங்களுக்கு குறைந்த அழுத்தத்தில் நீர் விநியோகம் செய்யப்படும் என அந்த சபை மேலும் தெரிவித்துள்ளது.
+🟩
 
-மேலும், பாதுக்கை, கொடகம, ஹோமாகம, பன்னிபிட்டிய, மஹரகம, ருக்மல்கம, பெலன்வத்த, மத்தேகொட, பொரலஸ்கமுவ, பெபிலியான, கலகெதர ஆகிய பகுதிகளில் குறைந்த அழுத்தத்தில் நீர் விநியோகிக்கப்படவுள்ளது.
+The National Water Supply and Drainage Board has announced that water supply pipes will be supplied at several areas today due to the inclement weather in the country.
+
+Accordingly, the water will be supplied to some areas under low pressure from 6 am to 9 pm and from 5 pm to 9 pm.
+
+In addition, water will be supplied at low pressure areas in Padukkai, Kodagama, Homagama, Pannipitiya, Maharagama, Rukmalgama, Belanwatta, Mattegoda, Boraleskamuwa, Pepiliya and Galagadera.
 
 ◼️
 
 [Data](articles/887fcde2.json)
+
+[Extended Data](ext_articles/887fcde2.ext.json)
 
 ---
 
@@ -2061,135 +2245,5 @@ Since its inception, Electrify Maldives has continuously set the standard for ex
 [Data](articles/fa3e5743.json)
 
 [Extended Data](ext_articles/fa3e5743.ext.json)
-
----
-
-### Trade unions must realise their limits - EDITORIAL
-
-*2024-06-04 00:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Trade-unions-must-realise-their-limits-EDITORIAL/172-284035) · `en`
-
-University students in the country have been severely inconvenienced due to administrative functions at state universities continuing to be crippled as a result of the month-long strike by university non-academic staff over their salary anomaly issue and several other demands.
-
-Lectures at the state universities have been forced to be conducted online and many university examinations, international conferences and university convocations have also been indefinitely postponed. University administrations are not in a position to inform students when these can be rescheduled.
-
-Examinations in the Open University have been indefinitely postponed. Those who aspire overseas post-graduate studies are in a fix due to delays in the verification process of degrees and academic transcripts. Those who have completed their degrees are awaiting the end of the strike to obtain their degree certificates and
-
-...
-
-[Data](articles/869d92eb.json)
-
-[Extended Data](ext_articles/869d92eb.ext.json)
-
----
-
-### O/L Exam mess puts Department of Examinations in soup!
-
-*2024-06-04 00:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/OL-Exam-mess-puts-Department-of-Examinations-in-soup/172-284038) · `en`
-
-The Department of Examinations has failed to properly monitor even such a preliminary exam like the GCE O’ Levels
-
-There has been significant discussions surrounding the leaking of school term papers in the Western and Central Provinces as well
-
-The experience of sitting for an exam is competitive for a child. Having dedicated countless hours to studying, they approach the question paper provided by the Department of Examinations Sri Lanka with a multitude of hopes. Habouring for examinations and the attempts taken to clear hurdles like the Scholarship Exam, GCE Ordinary Level Exam and the GCE Advanced Level Exam are crucial in a child’s life. In this country, the Department of Examinations has failed to properly monitor even these preliminary exams, critics point out.
-
-...
-
-[Data](articles/da92e34b.json)
-
-[Extended Data](ext_articles/da92e34b.ext.json)
-
----
-
-### “We need to dream new dreams”
-
-*2024-06-04 00:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/We-need-to-dream-new-dreams/172-284034) · `en`
-
-The biggest festival of democracy, the 2024 Lok Sabha Elections is concluding today in our nation, the Mother of Democracy. After a three-day spiritual journey in Kanniyakumari, I have just boarded the plane for Delhi. Through the day, Kashi and numerous other seats have been in the midst of voting.
-
-My mind is filled with so many experiences and emotions... I feel a boundless flow of energy within myself. The 2024 Lok Sabha elections are the first in the Amrit Kaal. I began my campaign a few months ago from Meerut, the land of the First War of Independence of 1857. Since then, I have traversed across the length and breadth of our great nation. The final rally of these elections took me to Hoshiarpur in Punjab, the land of the great Gurus and a land associated with Sant Ravidas Ji. After that, I came to Kanniyakumari, at the feet of Maa Bharti.
-
-...
-
-[Data](articles/f25e32d6.json)
-
-[Extended Data](ext_articles/f25e32d6.ext.json)
-
----
-
-### 2024-06-03 (Monday)
-
-### Nortje takes 4-7 as South Africa beat Sri Lanka in T20 World Cup
-
-*2024-06-03 23:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Nortje-takes-4-7-as-South-Africa-beat-Sri-Lanka-in-T20-World-Cup/108-284036) · `en`
-
-(New York) - South Africa's Anrich Nortje took a remarkable four wickets for just seven runs as the Proteas dismissed Sri Lanka for a record low 77 on their way to a six-wicket win in the teams' T20 World Cup opener in New York on Monday.
-
-Sri Lanka's total was their lowest in all T20 cricket, with fast bowler Nortje's figures the best by a South African at a T20 World Cup, surpassing his own 4-10 against Bangladesh in Sydney two years ago.
-
-Kagiso Rabada (2-21) and left-arm spinner Keshav Maharaj, who took two wickets in two balls on his way to 2-22, also damaged Sri Lanka's cause.
-
-Opener Kusal Mendis (19) and veteran all-rounder Angelo Mathews (16) were the only Sri Lanka batsmen to pass 15 after their captain, Wanindu Hasaranga, seemingly misread conditions by opting to bat first after winning the toss in what was the first match at a Long Island ground built specially for this tournament.
-
-...
-
-[Data](articles/777a90f7.json)
-
-[Extended Data](ext_articles/777a90f7.ext.json)
-
----
-
-### South Africa is a lighter victory in the international T20
-
-*2024-06-03 23:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/185248) · `ta`
-
-South Africa secured a 6-wicket victory over Sri Lanka in the opening match of the 9th T20 World Cup, with Nokia taking 4 key wickets. Sri Lanka's 77 runs were their lowest in an international T20, largely due to South Africa's accurate bowling. The match highlighted challenges faced by both teams on Nasav's artificial pitch, showcasing a battle between bowling strength and batting prowess.
-
-🟩
-
-South Africa won by 6 wickets for 77 runs in the opening match of the 9th T20 World Cup chapter's T team held at the New York Nasav Stadium today.
-
-The accurate bowling with Nokia's 4 wickets has made South Africa's victory easier.
-
-Sri Lanka's 77 runs in this match are the lowest total number of Sri Lanka in an international T20 cricket match.
-
-The players of the two teams faced the difficulty in the international cricket match, which was the first time Nasav, who played on the artificial pitch.
-
-The match is expected to be a match between Sri Lanka's bowling and South Africa's batting.
-
-But it was a match between the two teams and the bowlers and the batsmen.
-
-Sri Lanka decided to bat first and lost all wickets in 19.1 overs and scored only 77 runs.
-
-The Sri Lankan team, who was unable to face the South African bowlers properly, scored only double -digit numbers and both of them lost the match in the middle of the row.
-
-...
-
-[Data](articles/4a7437d2.json)
-
-[Extended Data](ext_articles/4a7437d2.ext.json)
-
----
-
-### Hot Chocolate …heating up the scene
-
-*2024-06-03 23:29:00* · [`islandlk`](http://island.lk/hot-chocolate-heating-up-the-scene/) · `en`
-
-Whenever I think of Hot Chocolate, I’m reminded of the British soul band Hot Chocolate who had several hits, including ‘Everyone’s a Winner,’ ‘You Sexy Thing’ and ‘It Started With a Kiss.’
-
-Well, guess what! We, too, have in our midst Hot Chocolate…yes, of course, the drink, and a music group, as well.
-
-In fact, Hot Chocolate has been around, in our scene, for over five years.
-
-They describe themselves as a driving force in Sri Lanka’s music scene…with a string of hit songs and electrifying live performances, that has captivated audiences with a unique blend of multiple genres of music.
-
-The name Hot Chocolate, they say, originated from their lead vocalist, Tehan Perera’s unyielding love for the warm, comforting beverage.
-
-Their journey began in 2016, when they started jamming together, crafting original songs that captured the Sri Lankan spirit.
-
-...
-
-[Data](articles/dd3a7e24.json)
-
-[Extended Data](ext_articles/dd3a7e24.ext.json)
 
 ---

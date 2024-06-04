@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-05 01:34:14**
+As of **2024-06-05 01:52:41**
 
 ## Newspaper Stats
 
@@ -26,45 +26,63 @@ adaderanasinhalalk | 4,570
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,440 (100.0%) of 28,442 articles have been extended.
+28,442 (100.0%) of 28,442 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-05 (Wednesday)
 
-### ’அஸ்வெசும குறித்து கவனம் செலுத்தவும்’
+### Focus on the telephone Aswesum
 
 *2024-06-05 00:52:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அஸ்வெசும-குறித்து-கவனம்-செலுத்தவும்/175-338451) · `ta`
 
-தகுதி இல்லாத இலட்சக்கணக்கானோருக்கு  அஸ்வெசும கொடுப்பனவு வழங்கப்பட்டு வருகின்றமை தொடர்பில் அரசாங்கம் உரிய கவனம் செலுத்த வேண்டுமென பொதுஜன பெரமுன எம்.பி. ஜகத்குமார வலியுறுத்தினார்
+In a parliamentary address, Jagadkumara highlighted the issue of millions receiving unqualified payments under the Assembly Payments scheme aimed at aiding the poor. He emphasized the need for the government to address this inefficiency, stating that the project's effectiveness hinges on accurate targeting. Despite spending billions, the scheme fails to reach those genuinely in need due to inadequate data collection and enforcement issues. Jagadkumara proposed temporary suspension of certain laws and closer collaboration with local officials to ensure benefits reach the intended recipients effectively.
 
-பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (04) விசேட கூற்றொன்றை முன்வைத்து உரையாற்றும் போதே மேற்கண்டவாறு தெரிவித்தார்.
+🟩
 
-வறுமை நிலைக்கு உள்ளாகியுள்ள மக்களுக்கு அஸ்வெசும  கொடுப்பனவுகள் வழங்கும் திட்டம் ஆரம்பித்த காலத்தில் அநீதி இழைக்கப்பட்டுள்ளது. இந்தப் பிரச்சினையை நிவர்த்தி செய்யாமல் அரசாங்கம் எத்தனை பில்லியன்களை அதற்காக செலவிட்டாலும் கிடைக்க வேண்டியவர்களுக்கு அது கிடைக்காமையால் இத்திட்டம் பயனற்றதாகி விடும்
+The PA MP has called for the government to pay attention to the fact that millions of unqualified millions are being paid. Jagadkumara stressed
 
-நாட்டில் இலட்சக்கணக்கான மக்கள் அந்த கொடுப்பனவை பெற்றுக் கொள்ள தகுதி இருந்தும்  அந்த கொடுப்பனவு கிடைக்காமையால், வாழ்க்கையை கொண்டு நடத்த முடியாமல் பெரும் கஷ்டங்களை அனுபவிக்கின்றனர். ஆனால் அஸ்வெசும கொடுப்பனவு  தகுதி இல்லாத இலட்சக்கணக்கானோருக்கு  அது வழங்கப்பட்டு வருகின்றது.இது தொடர்பில் நிதி இராஜாங்க அமைச்சர் உரிய கவனம் செலுத்தி உடனடி நடவடிக்கை எடுக்க வேண்டும் எனக் கேட்டுக்கொண்டார்.
+He said this while addressing a special statement in Parliament on Tuesday (04).
+
+During the commencement of a program of providing Assembly Payments to the Poverty -Served people. The scheme will be ineffective if the government does not get the problem, no matter how many billion it has spent on it
+
+Hundreds of thousands of people in the country are eligible to receive that allowance despite the lack of allowance, but they are unable to live life.. But it is being paid to millions of people who are not eligible for the allowance of Aswezum.
+
+There are massive shortcomings in the projects that provide Ashemu Payment Project. Since this is a plan for the grassroots people in the poverty -stricken people, it is necessary to obtain the data with the cooperation of the departmental authorities.
 
 ...
 
 [Data](articles/62a9db3b.json)
 
+[Extended Data](ext_articles/62a9db3b.ext.json)
+
 ---
 
-### 26 பேர் மரணம்: 130,021 பேர் பாதிப்பு
+### 26 deaths: 130,021 victims
 
 *2024-06-05 00:24:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/26-பேர்-மரணம்-130-021-பேர்-பாதிப்பு/175-338450) · `ta`
 
-நாட்டில் நிலவும் சீரற்ற காலநிலையால் இதுவரையில்  26 பேர் உயிரிழந்துள்ளனர். 130,021 பேர் பாதிக்கப்பட்டுள்ளனர் என பாதுகாப்பு இராஜாங்க அமைச்சர்  பிரமித்த பண்டார தென்னக்கோன் தெரிவித்தார்.
+In a parliamentary address, Defense Minister Bandara Tennakoon reported 26 fatalities and 130,021 affected individuals due to severe weather conditions. This includes 41 injuries and temporary housing for 9,248 people in 116 camps. The government is actively managing the situation, with opposition criticism dismissed as routine. A dedicated hotline, 117, has been set up for disaster inquiries.
 
-பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (06) விசேட கூற்றொன்றை முன்வைத்து உரையாற்றும் போதே மேற்கண்டவாறு தெரிவித்தார்.
+🟩
 
-நாட்டில் கடந்த சில தினங்களில் நிலவிய சீரற்ற காலநிலையால் கடந்த  திங்கட்கிழமை வரை  23 மாவட்டங்களில்   33 ஆயிரத்து 622 குடும்பங்களைச் சேர்ந்த 130,021 பேர் பாதிக்கப்பட்டுள்ளனர். 26 பேர் உயிரிழந்துள்ளனர். 41 பேர் காயமடைந்துள்ளனர்.
+26 people have died due to inclement weather in the country. Defense Minister Bandara Tennakoon said 130,021 people were affected.
 
-மண்சரிவு, வெள்ள அபாயங்களைக் கருத்திற் கொண்டு  116 தற்காலிக பாதுகாப்பு மத்திய முகாம்களில் 2,369 குடும்பங்களைச் சேர்ந்த 9,248 பேர் தங்கவைக்கப்பட்டுள்ளனர். இவர்களுக்குத் தேவையான வசதிகள் பிரதேச செயலக பிரிவுகள் ஊடாக ஏற்படுத்திக் கொடுக்கப்பட்டுள்ளன.
+He said this while addressing a special statement in Parliament on Tuesday (06).
 
-...
+Over the past few days, 130,021 people from 33 thousand 622 families have been affected by the inclement weather in the country last Monday.. 26 people have died. 41 people were injured.
+
+9,248 people from 2,369 families have been housed in 116 temporary security central camps in view of landslides and flood hazards.. The facilities for them have been provided through the Divisional Secretariat Divisions.
+
+Armed forces are working to protect people from disasters. Opposition parties cannot accept the accusation that appropriate measures have not been taken to manage the natural disaster. He said that it is customary to oppose anything.
+
+The Disaster Management Center has introduced a special telephone number 117 to learn about disasters.
+
+◼️
 
 [Data](articles/b8a4dee9.json)
+
+[Extended Data](ext_articles/b8a4dee9.ext.json)
 
 ---
 

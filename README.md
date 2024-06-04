@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-04 07:22:11**
+As of **2024-06-04 07:46:08**
 
 ## Newspaper Stats
 
-*Scraped **28,236** Articles*
+*Scraped **28,240** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,12 +12,12 @@ colombotelegraphcom | 256
 dbsjeyarajcom | 270
 bbccomsinhala | 277
 newsfirstlk | 363
-islandlk | 1,521
+islandlk | 1,524
 economynextcom | 1,604
 dailyftlk | 1,666
 adalk | 2,408
 adaderanalk | 3,209
-tamilmirrorlk | 3,314
+tamilmirrorlk | 3,315
 virakesarilk | 4,349
 dailymirrorlk | 4,468
 adaderanasinhalalk | 4,531
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,531
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,235 (100.0%) of 28,236 articles have been extended.
+28,235 (100.0%) of 28,240 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -67,6 +67,22 @@ Accordingly, they decided to give the Afghanistan team to bat first.
 [Data](articles/dcf30152.json)
 
 [Extended Data](ext_articles/dcf30152.ext.json)
+
+---
+
+### ’250 புதிய பாலங்கள் நிர்மாணிப்பதற்கு திட்டம்’
+
+*2024-06-04 03:49:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/250-புதிய-பாலங்கள்-நிர்மாணிப்பதற்கு-திட்டம்/175-338399) · `ta`
+
+தேசிய மட்ட அபிவிருத்தித் திட்டங்களின் பயனை கிராமப்புற மக்களுக்குப் பெற்றுக்கொடுக்கும் வகையில் வீதி கட்டமைப்பை மேம்படுத்தி நாடு முழுவதும் 250 புதிய பாலங்களை அமைக்கத் திட்டமிட்டுள்ளது என்று ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+
+2014-2024 காலப்பகுதியில் நெதர்லாந்து ஜென்சன் பிரிஜிங் நிறுவனத்தினால் இலங்கையின் பல்வேறு பகுதிகளில் 750 கிராமிய பாலங்களை வெற்றிகரமாக நிர்மாணித்து நிறைவு செய்ததை முன்னிட்டு நேற்று முற்பகல் கொழும்பு ஷங்ரிலா ஹோட்டலில் இடம்பெற்ற நிகழ்வில் கலந்து கொண்டு உரையாற்றும் போதே ஜனாதிபதி மேற்கண்டவாறு குறிப்பிட்டார். அவர் மேலும் தெரிவிக்கையில்,
+
+இலங்கையில் ஜென்சன் பிரிஜிங் நிறுவனத்தால் நிர்மாணிக்கப்பட்ட 750 பாலங்களின் பணிகள் நிறைவடைந்ததை இன்று நாங்கள் ஒன்றிணைந்து கொண்டாடுகிறோம். இது அந்த நிறுவனம் வெற்றிகரமாக நிறைவேற்றிய மாபெரும் பணி என்பதைக் கூற வேண்டும். இந்த கிராமப்புறப் பாலங்கள் நிர்மாணிக்கப்பட்ட பிரதேசங்கள் பற்றி எனக்குத் தெரியும். அவை மிகவும் பின்தங்கிய பகுதிகளில் நிர்மாணிக்கப்பட்டுள்ளன.
+
+...
+
+[Data](articles/ed17987c.json)
 
 ---
 
@@ -831,6 +847,28 @@ The Sri Lankan team, who was unable to face the South African bowlers properly, 
 [Data](articles/4a7437d2.json)
 
 [Extended Data](ext_articles/4a7437d2.ext.json)
+
+---
+
+### Hot Chocolate …heating up the scene
+
+*2024-06-03 23:29:00* · [`islandlk`](http://island.lk/hot-chocolate-heating-up-the-scene/) · `en`
+
+Whenever I think of Hot Chocolate, I’m reminded of the British soul band Hot Chocolate who had several hits, including ‘Everyone’s a Winner,’ ‘You Sexy Thing’ and ‘It Started With a Kiss.’
+
+Well, guess what! We, too, have in our midst Hot Chocolate…yes, of course, the drink, and a music group, as well.
+
+In fact, Hot Chocolate has been around, in our scene, for over five years.
+
+They describe themselves as a driving force in Sri Lanka’s music scene…with a string of hit songs and electrifying live performances, that has captivated audiences with a unique blend of multiple genres of music.
+
+The name Hot Chocolate, they say, originated from their lead vocalist, Tehan Perera’s unyielding love for the warm, comforting beverage.
+
+Their journey began in 2016, when they started jamming together, crafting original songs that captured the Sri Lankan spirit.
+
+...
+
+[Data](articles/dd3a7e24.json)
 
 ---
 
@@ -2183,53 +2221,5 @@ A semi-rapid train traveling from Colombo Fort to Badulla has been detected.
 [Data](articles/14791c52.json)
 
 [Extended Data](ext_articles/14791c52.ext.json)
-
----
-
-### Multiple disasters reported around the country
-
-*2024-06-03 16:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Multiple-disasters-reported-around-the-country/108-283998) · `en`
-
-June 3 (Daily Mirror) - Provincial Disaster Management Centers (DMC) have reported multiple disasters across various regions, with heavy rains over the past few days causing widespread flooding and inundating numerous roads throughout the country.
-
-Accordingly, traffic on the Badulla-Spring Valley road came to a standstill due to the fall of trees obstructing the road. The Badulla Disaster Management Unit has taken steps to clear the obstructions.
-
-In Galle seveal roads in Neluwa, Thawalama, Udugama and Mapalagama areas went under water causing obstructions to transport due to the flooding of the Gin Ganga.
-
-Traffic on the Neluwa-Lankagama road too came to a standstill due to a massive eathslip in the Ratnadola area on the borders of the Sinharaja forest.
-
-All access roads to Neluwa hospital had gone under water bringing transport of patients and the hospital staff to a standstill. The expectant mothes and patients liable in need of emergency treatments were flown to the Udugama Base Hospital.
-
-...
-
-[Data](articles/5fbea57c.json)
-
-[Extended Data](ext_articles/5fbea57c.ext.json)
-
----
-
-### Court of Appeal rejects the sension of estate companies demanding the increase in plantation employees
-
-*2024-06-03 16:37:31* · [`adalk`](https://www.ada.lk/breaking_news/වතු-සේවක-වැටුප්-වැඩි-කිරීම-වලක්වමින්--වතු-සමාගම්-ඉල්ලූ-වාරණය-අභියාචනාධිකරණ-ප්‍රතික්ෂේප-කරයි/11-409988) · `si`
-
-The Court of Appeal denied estate companies' request to challenge a labor ministry gazette notification aimed at increasing plantation workers' salaries. The decision was made without issuing an interim order, as the court found no legal basis for the companies' petition.
-
-🟩
-
-The Court of Appeal today refused to issue 21 estimated order to issue 21 estate companies to issue the gazette notification issued by the Ministry of Labor and the Ministry of Labor.
-
-The panel of judges chaired by the Court of Appeal Judge Sobhitha Rajakarana today, the Court of Appeal refused the invisory order.
-
-President's Counsel Faizer Mustafa appeared for the Minister on behalf of the Minister of Labor and Foreign Employment and Additional Solicitor General Secretary General for the Commissioner of Labor and the Secretary General of the Board of Staff.
-
-The State Counselore said that the legal action was taken to increase the salary by the Labor of Labor, according to the Labor Commissioner of Labor on the powers of the Labor.
-
-The President's Counsel Faizzer Mustafa filed the Court of Parliament that the petition filed by estate companies had not signed a legal power.
-
-◼️
-
-[Data](articles/975023f7.json)
-
-[Extended Data](ext_articles/975023f7.ext.json)
 
 ---

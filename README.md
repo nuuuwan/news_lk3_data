@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-05 04:05:17**
+As of **2024-06-05 04:18:54**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,570
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,447 (100.0%) of 28,448 articles have been extended.
+28,448 (100.0%) of 28,448 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -82,15 +82,21 @@ After attending several events in Ruwanwella, the President attended the meeting
 
 ---
 
-### ஐ. நாவில் மலையகம் 200 முத்திரை...
+### I. The hilltop 200 stamp in the tongue ...
 
 *2024-06-05 01:41:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐ-நாவில்-மலையகம்-200-முத்திரை/175-338455) · `ta`
 
-ஜெனிவாவுக்கு உத்தியோகபூர்வ விஜயம் மேற்கொண்டுள்ள கிழக்கு மாகாண ஆளுநரும் இலங்கை தொழிலாளர் காங்கிரஸின் தலைவருமான செந்தில் தொண்டமான், பெருந்தோட்ட சமூகத்தின் 200வது வருடத்தின் முதல்  நினைவு முத்திரையை தொழில் அமைச்சின் செயலாளருடன் இணைந்து ஜெனிவாவில் உள்ள ஐக்கிய நாடுகள் சபைக்கான இலங்கையின் நிரந்தரப் பிரதிநிதி ஹிமாலி அருணதிலகவுக்கு வழங்கி வைத்தார்.
+During his Geneva trip, Senthil Thondaman, Eastern Province Governor and Ceylon Workers Congress President, presented the first commemoration of the Plantation Community's 200th anniversary to Himali Arunathilakha, UN's Geneva envoy.
+
+🟩
+
+Senthil Thondaman, the Governor of the Eastern Province and the President of the Ceylon Workers Congress, who is on an official visit to Geneva, has handed over the first commemoration of the 200th anniversary of the Plantation Community to Himali Arunathilakha, the United Nations' Permanent Representative of the United Nations in Geneva.
 
 ◼️
 
 [Data](articles/0e959749.json)
+
+[Extended Data](ext_articles/0e959749.ext.json)
 
 ---
 

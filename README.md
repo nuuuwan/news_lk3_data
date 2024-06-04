@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-04 20:20:46**
+As of **2024-06-04 20:34:29**
 
 ## Newspaper Stats
 
-*Scraped **28,403** Articles*
+*Scraped **28,404** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adaderanalk | 3,231
 tamilmirrorlk | 3,335
 virakesarilk | 4,373
 dailymirrorlk | 4,495
-adaderanasinhalalk | 4,566
+adaderanasinhalalk | 4,567
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,400 (100.0%) of 28,403 articles have been extended.
+28,403 (100.0%) of 28,404 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-04 (Tuesday)
+
+### පස් කන්දකට යටවූ පුංචි පැටියා
+
+*2024-06-04 20:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197395) · `si`
+
+කෑගල්ල ප්‍රදේශයේදී පස් කන්දකට යටවී කුඩා දරුවෙකු අවාසනාවන්ත ලෙස මියගොස් තිබේ.
+
+එම දරුවාගේ නිවසේ පසුපස ආරක්‍ෂිත පැතිබැම්මක් ඉදිකිරීම සඳහා අද උදෑසන කාණුවක් කපා තිබී ඇත.
+
+කුඩා දරුවා එම කාණුව තුළ සිටි අවස්ථාවේ ඊට ඉහළින් පිහිටි පස් තට්ටුවක් කුඩා දරුවා මතට කඩා වැටී ඇති බව ප්‍රදේශවාසීන් පවසයි.
+
+අනතුරුව එහි පැමිණි පිරිස දරුවා මතට වැටී තිබූ පස් ඉවත්කර කඩිනමින් කෑගල්ල ශික්ෂණ රෝහල වෙත ගෙනගොස් තිබුණි.
+
+◼️
+
+[Data](articles/e366a54f.json)
+
+---
 
 ### And some more school holidays
 
@@ -50,33 +68,49 @@ The Ministry of Education has announced that all schools in Galle and Matara dis
 
 ---
 
-### කාසියේ වාසිය ස්කොට්ලන්තය ට
+### To the toss of the coin Scotland
 
 *2024-06-04 19:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197394) · `si`
 
-ලෝක කුසලාන 20යි 20 තරගාවලියේ එංගලන්තය සහ ස්කොට්ලන්තය අතර තරගය තව සුළු මොහොතකින් ආරම්භ වෙයි.
+Scotland won the toss and chose to bat first against England in their upcoming match.
 
-එහි කාසියේ වාසිය දිනාගත් ස්කොට්ලන්ත කණ්ඩායම පළමුව පන්දුවට පහරදීමට තීරණය කළේය.
+🟩
+
+The match between England and Scotland will begin at a moment.
+
+The Scottish team won the toss and decided to bat first.
 
 ◼️
 
 [Data](articles/6f7cd895.json)
 
+[Extended Data](ext_articles/6f7cd895.ext.json)
+
 ---
 
-### ඉඩම් කොමසාරිස් ට එරෙහි චෝදනා සම්බන්ධයෙන් ශ්‍රේෂ්ඨාධිකරණයෙන් නියෝගයක්
+### Supreme Court orders allegations against Lands Commissioner
 
 *2024-06-04 19:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197393) · `si`
 
-ඉඩම් කොමසාරිස් බන්දුල ජයසිංහ මහතාට එරෙහිව අල්ලස් කොමිසම විසින් කොළඹ මහාධිකරණය හමුවේ ගොනුකර ඇති අධිචෝදනා පත්‍රය විභාග කිරීම වළක්වාලමින් ශ්‍රේෂ්ඨාධිකරණය විසින් තහනම් නියෝගයක් නිකුත් කළේය.
+The Supreme Court temporarily halted bribery allegations against Land Commissioner Bandula Jayasinghe, allowing him to challenge the case. A three-judge panel directed the Bribery Commission to respond to his petition by August 8th. This decision came after the appointment of a new Director General under the Anti-Corruption Act, leading to a request for a stay order due to potential discrepancies in charging procedures.
 
-ඉඩම් කොමසාරිස්වරයා විසින් ඉදිරිපත් කළ පෙත්සමක් විභාගයට ගැනීමට අවසර දෙමින් යසන්ත කෝදාගොඩ,  ඒ. එච්. එම්. ඩී. නවාස් සහ අචල වෙංගප්පූලි යන මහත්වරුන්ගෙන් සමන්විත ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ලක් විසින් මෙම නියෝගය නිකුත් කරනු ලැබීය.
+🟩
 
-එමෙන්ම අදාළ පෙත්සම සම්බන්ධයෙන් අගෝස්තු 8 වනදා අධිකරණ හමුවේ කරුණු දක්වන ලෙස දන්වා අල්ලස් කොමිසමේ සාමාජිකයන් වෙත නොතීසි යැවීමට පියවර ගන්නා ලෙසත් ත්‍රිපුද්ගල විනිසුරු මඩුල්ල විසින් නියෝග කළ අතර අදාළ අතුරු තහනම් නියෝගය  පෙත්සම් විභාගය  අවසන් වනතෙක් බලපැවැත්වෙන බවත් නියෝග කෙරිණි.
+The Supreme Court issued a prohibition to prevent the Exhibition filed by the Bribery Commission against Land Commissioner Bandula Jayasinghe.
+
+Yasantha Kodagoda, permission to take on a petition filed by the Land Commissioner. H. M. D. The order was issued by a three-member Supreme Court judge with Nawaz and Achala VingPholi.
+
+The three-judge panel was ordered to send notice to the Bribery Commission of Bribery Commission regarding the petition in the petition on August 8.
+
+The petitioner appeared before the Petitioner had filed a loss to the Petitioner by the Petitioner as the Commissioner of the Petitioner as the Commissioner of the Petitioner as the Commissioner of the Petitioner as the Commissioner of the Petitioner was accused of acting as the Commissioner of Motor Traffic.Attorney-at-Law Hafal Faris said.
+
+The new Director General was appointed to the Bribery Commission under the Anti-Corruption Act last April.
 
 ...
 
 [Data](articles/3000d498.json)
+
+[Extended Data](ext_articles/3000d498.ext.json)
 
 ---
 
@@ -2116,6 +2150,8 @@ That was on display last year when Biden hosted Modi for a state visit – the h
 
 [Data](articles/5cba51f7.json)
 
+[Extended Data](ext_articles/5cba51f7.ext.json)
+
 ---
 
 ### Modi’s BJP may fall short of majority
@@ -2317,27 +2353,5 @@ The aims of the FTA were to strengthen economic relations between the two nation
 [Data](articles/1d917cf5.json)
 
 [Extended Data](ext_articles/1d917cf5.ext.json)
-
----
-
-### India begins counting votes in marathon election expected to bring Prime Minister Modi a third term
-
-*2024-06-04 10:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/99648/india-begins-counting-votes-in-marathon-election-expected-to-bring-prime-minister-modi-a-third-term) · `en`
-
-India began counting more than 640 million votes Tuesday in the world’s largest democratic exercise, which was widely expected to return Prime Minister Narendra Modi to a third term after a decade in power.
-
-The six-week election was seen as a referendum on Modi. If the 73-year-old wins, it will only be the second time an Indian leader has retained power for a third term after Jawaharlal Nehru, the country’s first prime minister.
-
-Exit polls on Saturday by major television channels projected a comfortable win for Modi’s Hindu nationalist Bharatiya Janata Party and its allies over a broad opposition alliance led by the Congress party and its main campaign leader, Rahul Gandhi.
-
-Indian television channels have had a mixed record in the past in predicting election results.
-
-Nearly 970 million people, more than 10% of the world’s population, were eligible to vote. Turnout was around 66% on average across the seven phases, according to official data.
-
-...
-
-[Data](articles/9cde077a.json)
-
-[Extended Data](ext_articles/9cde077a.ext.json)
 
 ---

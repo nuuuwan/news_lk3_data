@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-04 17:04:06**
+As of **2024-06-04 17:19:00**
 
 ## Newspaper Stats
 
-*Scraped **28,366** Articles*
+*Scraped **28,367** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ adaderanalk | 3,227
 tamilmirrorlk | 3,332
 virakesarilk | 4,364
 dailymirrorlk | 4,488
-adaderanasinhalalk | 4,558
+adaderanasinhalalk | 4,559
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,364 (100.0%) of 28,366 articles have been extended.
+28,366 (100.0%) of 28,367 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-04 (Tuesday)
+
+### අත්තනගලු ඔයේ රතු අනතුරු ඇඟවීම දීර්ඝ කරයි
+
+*2024-06-04 16:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197387) · `si`
+
+අත්තනගලු ඔය ආශ්‍රිත පහත් බිම්වල ගංවතුර සඳහා නිකුත් කර තිබූ රතු අනතුරු ඇඟවීමේ නිවේදනය ඉදිරි පැය 48 සඳහා දීර්ඝ කර තිබේ.
+
+වාරිමාර්ග දෙපාර්තමේන්තුව විසින් අද පස්වරු 4ට නිවේදනයක් නිකුත් කරමින් මේ බව සඳහන් කර සිටී.
+
+එම නිවේදනයේ වැඩිදුරටත් දැක්වෙන්නේ දැනට අත්තනගලු ඔය ද්‍රෝණිය තුළ පවතින ගංවතුර තත්ත්වය පහළ ප්‍රදේශවලදී තවදුරටත් ක්‍රමයෙන් වර්ධනය වෙමින් පවතින බවය.
+
+ඒ අනුව ගම්පහ, ජාඇල, කටාන, වත්තල සහ මිනුවන්ගොඩ යන ප්‍රාදේශීය ලේකම් කොට්ඨාශවලට අයත් පහත් බිම් ප්‍රදේශවල ජනතාව මේ සම්බන්ධයෙන් දැඩි සැළකිල්ලකින් කටයුතු කරන ලෙසට වාරිමාර්ග දෙපාර්තමේන්තුව ඉල්ලා සිටී.
+
+එසේම එම ප්‍රදේශ ආශ්‍රිත මාර්ගවල රථවාහන ධාවනය කරන රියදුරන්ගෙන්ද මේ සම්බන්ධයෙන් විමසිලිමත් ලෙස කටයුතු කරන ලෙසට ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/dac544f5.json)
+
+---
 
 ### Liquor shops in several DS devisions closed for 7 days
 
@@ -43,6 +63,8 @@ Accordingly, all the liquor shops in Nuwaragam Palatha Central, Nuwaragam Palath
 ◼️
 
 [Data](articles/1a2f7646.json)
+
+[Extended Data](ext_articles/1a2f7646.ext.json)
 
 ---
 
@@ -1226,25 +1248,37 @@ Additional Solicitor General Viveka Siriwardena, representing the Attorney Gener
 
 ---
 
-### ගංවතුර පවතින අවස්ථාවලදී ඔබ නොකළ යුතු දෑ මොනවා ද?
+### What should you not do when floods?
 
 *2024-06-04 11:02:46* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c199zdlrky4o) · `si`
 
-පසුගිය දිනවල පැවති අධික වර්ෂාව සමඟ කළු, කැළණි, ගිං, නිල්වලා සහ අත්තනගළු ඔය පිටාර ගලමින් තිබේ.
+During floods, avoid ignoring disaster warnings, watching floods from unsafe locations, swimming in floodwaters, touching electrical equipment, driving through flooded roads without knowing water levels, and using contaminated water. Stay informed and safe.
 
-මේ හේතුවෙන් කොළඹ, කළුතර, ගාල්ල සහ මාතර ඇතුළු දිස්ත්‍රික්ක වල පහත් බිම් ආශ්‍රිතව මේ වන විටත් ගංවතුර තත්ත්වය පවතින බව වාරිමාර්ග දෙපාර්තමේන්තුව නිවේදනය කර සිටියි.
+🟩
 
-ගංවතුර තත්ත්වයක් පවතින අවස්ථාවකදී මහජනතාව සිදු නොකළ යුතු දෑ මොනවාදැයි බීබීසී සිංහල සේවය ආපදා කළමනාකරණ මධ්‍යස්ථානයේ අධ්‍යක්ෂක ප්‍රදීප් කොඩිප්පිලි ගෙන විමසීමක් කළේය.
+Black, Kelani, Ginny, Nilwala and Attnangali are flowing with heavy rains.
 
-ඔහු සඳහන් කළේ මේවන විටත් ගංවතුර ඇති ස්ථාන නැරඹීමට යාමෙන් සහ ඒ ආශ්‍රිත  ක්‍රියාකාරකම් හේතුවෙන් පුද්ගල මරණ 10ක් වාර්තා වී ඇති බව ය.
+The Department of Irrigation has announced that floods are already flooded in Colombo, Kalutara, Galle and Matara.
 
-'එල් නිනෝ' සහ 'ලා නිනා' තත්ත්වයන් කාලගුණය වෙනස් කරන්නේ කෙසේ ද?
+The BBC Sinhala service was an inquired of the Director of the Disaster Management Center (DMC).
 
-අධික වැසි සහිත කාලගුණය හේතුවෙන් ජුනි මස පළමු වෙනිදා සිට අද (ජුනි මස 04 වෙනිදා) උදෑසන 6.00වන විට පුද්ගලයින් 17 දෙනෙකු ජීවිතක්ෂයට පත්ව තවත් අයෙක් අතුරුදන්ව ඇති බව ආපදා කළමනාකරණ මධ්‍යස්ථාන සඳහන් කළේය.
+He said that 10 deaths due to the activities of floods and related activities have been reported.
+
+How to change the weather in 'El Ni'o' and 'La Nina'
+
+Due to heavy rains, 17 persons have died on the first rainy weather this morning (June 4).
+
+The Disaster Management Center has reported that five deaths in the Ratnapura district, two deaths in the Colombo district and one death in the Gampaha District and one death in the Gampaha District.
+
+The Disaster Management Center announced that 159,728 persons belonging to 40,728 families have been affected due to heavy rains.
+
+1. Avoid ignoring announcements about disasters
 
 ...
 
 [Data](articles/0678b600.json)
+
+[Extended Data](ext_articles/0678b600.ext.json)
 
 ---
 
@@ -2289,31 +2323,5 @@ Dhammika Priyantha said that today's trade union representatives will be informe
 [Data](articles/cc5f3518.json)
 
 [Extended Data](ext_articles/cc5f3518.ext.json)
-
----
-
-### Four entertainment of floods swim in the sudden
-
-*2024-06-04 07:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197360) · `si`
-
-In Udaravila, four people were swept away by floods. Three were rescued by locals, but a 17-year-old from Newittle Estate remains missing. Residents and police are searching for the missing person.
-
-🟩
-
-Four people who have been in flooding have been caught up into a blown blow.
-
-Police say that three of them have been rescued by the residents and have been found.
-
-At the evening yesterday, the incident reported yesterday in Udaravila, Udurala, Uduwara, Uduwara, Uduwara.
-
-The disappeared is a 17 year old resident of the Newittle Estate, Nobada, Nobada.
-
-Residents and Amarashtota Police have launched a search operation in search of missing persons.
-
-◼️
-
-[Data](articles/8d21c468.json)
-
-[Extended Data](ext_articles/8d21c468.ext.json)
 
 ---

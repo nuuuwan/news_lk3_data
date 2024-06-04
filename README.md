@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-04 15:18:57**
+As of **2024-06-04 15:34:13**
 
 ## Newspaper Stats
 
-*Scraped **28,348** Articles*
+*Scraped **28,349** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,611
 dailyftlk | 1,669
 adalk | 2,415
 adaderanalk | 3,225
-tamilmirrorlk | 3,329
+tamilmirrorlk | 3,330
 virakesarilk | 4,358
 dailymirrorlk | 4,486
 adaderanasinhalalk | 4,555
@@ -26,11 +26,27 @@ adaderanasinhalalk | 4,555
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,345 (100.0%) of 28,348 articles have been extended.
+28,348 (100.0%) of 28,349 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-04 (Tuesday)
+
+### 7 நாட்கள் பூட்டப்படும் மதுபான நிலையங்கள்
+
+*2024-06-04 15:04:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/7-நாட்கள்-பூட்டப்படும்-மதுபான-நிலையங்கள்/175-338425) · `ta`
+
+எதிர்வரும் ஜூன் மாதம் 18ஆம் திகதி முதல் 24ஆம் திகதி வரை  இவ்வாறு மதுபான நிலையங்கள் மூடப்படவுள்ளன.
+
+தேசிய பொசன் பண்டிகையை முன்னிட்டு இந்த நாட்களில் மதுபான நிலையங்கள் மூடப்படும் என இலங்கை கலால் திணைக்களம் விடுத்துள்ள அறிக்கையில் தெரிவிக்கப்பட்டுள்ளது.
+
+இதன்படி, மத்திய நுவரகம், கிழக்கு நுவரகம்  மற்றும் மிஹிந்தலை பிரிவு 03 ஆகிய பகுதிகளில் உள்ள அனைத்து மதுபானசாலைகளும் அக்காலப்பகுதியில் மூடப்படவுள்ளன.
+
+◼️
+
+[Data](articles/61ec1009.json)
+
+---
 
 ### Death toll from adverse weather rises to 26 in Sri Lanka
 
@@ -48,13 +64,15 @@ The State Minister has further stated that 9,248 people belonging to 2,368 famil
 
 [Data](articles/d6bfa71f.json)
 
+[Extended Data](ext_articles/d6bfa71f.ext.json)
+
 ---
 
 ### Dr. Hemali Kothalawala appointed Vice President of WOAH Asia-Pacific Regional Commission
 
 *2024-06-04 14:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/99656/dr-hemali-kothalawala-appointed-vice-president-of-woah-asia-pacific-regional-commission) · `en`
 
-Sri Lanka’s Director General of the Department of Animal Production and Health, Dr. Hemali Kothalawala, has been appointed as the World Organisation for Animal Health (WOAH) Regional Commission for Asia and the Pacific.
+Sri Lanka’s Director General of the Department of Animal Production and Health, Dr. Hemali Kothalawala, has been appointed as the Vice President of the World Organisation for Animal Health (WOAH) Regional Commission for Asia and the Pacific.
 
 She recently represented Sri Lanka in the 90th Annual General Session of the World Assembly of Delegates of the WOAH which recently took place in Paris, France.
 
@@ -65,6 +83,8 @@ The Department of Animal Production and Health comes under the purview of the Mi
 ...
 
 [Data](articles/e3ecf5ca.json)
+
+[Extended Data](ext_articles/e3ecf5ca.ext.json)
 
 ---
 
@@ -860,6 +880,10 @@ Despite the lower-than-expected numbers for the BJP, the party is still confiden
 
 *2024-06-04 11:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Modis-BJP-may-fall-short-of-majority/155-284059) · `en`
 
+03.12 PM-  The BJP-led NDA alliance is currently ahead in 280 seats while the Congress coalition defies exit polls by leading in 222.
+
+So far, official results have been declared on three of 543 seats, with the NDA winning two of them.
+
 Congress leader Manish Tewari is leading in Chandigarh parliamentary constituency against  BJP's Sanjay Tandon with a margin of over 8,450 votes.
 
 One of the BJP’s strongest hopes, K Annamalai, is trailing in Tamil Nadu's Coimbatore seat by more than 23,000 votes.
@@ -872,11 +896,11 @@ Prominent regional Samajwadi Party and the Congress have fielded Ajay Rai as the
 
 Mr Modi won with a vote share of more than 63% here in 2019.
 
-Despite the lower-than-expected numbers for the BJP, the party is still confident of forming the next government — and under Prime Minister Narendra Modi, who has ruled for the past decade, and under whom the party fought this campaign.
-
 ...
 
 [Data](articles/e4375df4.json)
+
+[Extended Data](ext_articles/e4375df4.ext.json)
 
 ---
 
@@ -2307,33 +2331,5 @@ The daily minimum salary of plantation workers should be paid 1700 rupees. Garde
 [Data](articles/a37d4585.json)
 
 [Extended Data](ext_articles/a37d4585.ext.json)
-
----
-
-### Indian election today
-
-*2024-06-04 02:43:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்திய-தேர்தல்-இன்று-முடிவு/175-338393) · `ta`
-
-In the seventh phase of India's Lok Sabha elections, the ruling BJP is anticipated to triumph, potentially securing 370 seats for the National Democratic Alliance and 400 overall. Opposition parties, including the Congress led by Rahul Gandhi, predict a victory for the India coalition with over 295 seats, based on strategies discussed post-campaign. Amidst the political banter, Rahul Gandhi humorously referred to a song by Sidhu Muswala titled '295', suggesting it as a prediction for the coalition's seat count.
-
-🟩
-
-The ruling Bharatiya Janata Party (BJP) is predicted to win the seventh phase of the Lok Sabha elections in India.
-
-BJP. Leaders of the National Democratic Alliance and the opposition India coalition have reacted to this.
-
-After the last election campaign, Prime Minister Narendra Moti went to Kanyakumari and meditated for about 45 hours. The Prime Minister (Sunday) held a '100 -day agenda' meeting on what to be implemented if elected for the third term.
-
-BJP national leader JP Natta said the BJP would win 370 seats and the National Democratic Alliance 400 seats.
-
-In the meantime, the opposition parties gathered on Saturday and discussed the future strategy. Congress leader Mallikarjuna Karke said the India coalition would win over 295 seats.
-
-Speaking on the polls, Congress leader Rahul Gandhi said, "This is a poll of the media."
-
-...
-
-[Data](articles/14a17c4a.json)
-
-[Extended Data](ext_articles/14a17c4a.ext.json)
 
 ---

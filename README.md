@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-04 12:19:08**
+As of **2024-06-04 12:34:05**
 
 ## Newspaper Stats
 
-*Scraped **28,324** Articles*
+*Scraped **28,327** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,39 +16,103 @@ islandlk | 1,533
 economynextcom | 1,611
 dailyftlk | 1,669
 adalk | 2,414
-adaderanalk | 3,218
+adaderanalk | 3,220
 tamilmirrorlk | 3,327
 virakesarilk | 4,358
 dailymirrorlk | 4,480
-adaderanasinhalalk | 4,548
+adaderanasinhalalk | 4,549
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,318 (100.0%) of 28,324 articles have been extended.
+28,324 (100.0%) of 28,327 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-04 (Tuesday)
 
-### குழந்தையை தாக்கிய சந்தேகநபருக்கு வலை
+### Education Directors authorized to decide on school closures due to bad weather
+
+*2024-06-04 12:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/99652/education-directors-authorized-to-decide-on-school-closures-due-to-bad-weather) · `en`
+
+Due to the prevailing adverse weather conditions, it has been decided to close schools in several districts of the island today (04).
+
+The Ministry of Education stated that all schools in the Galle and Matara districts of the Southern Province will be given a two-day holiday today (4) and tomorrow (05).
+
+All schools in Kalutara, Ratnapura and Kegalle districts have been given a holiday today (4).
+
+In addition, it is reported that school holiday has also been given to schools in Homagama, Gampaha and Kelaniya education zones and schools in Kaduwela division today (4).
+
+Taking into account the prevailing weather conditions, the Ministry of Education (MoE) has informed that the authority to make decisions based on the existing situation lies with the Provincial Education Secretaries and Provincial Education Directors.
+
+◼️
+
+[Data](articles/23c38288.json)
+
+---
+
+### මෙහෙමත් අත්අඩංගුවට ගැනිල්ලක්
+
+*2024-06-04 12:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197377) · `si`
+
+ව්‍යාපාරිකයින් කිහිප දෙනෙකුට අඟරු චෙක්පත් දුන් කාන්තාවක් අම්පාර පොලිසියේ අපරාධ විමර්ශන අංශයේ නිලධාරිනියන් විසින් අත්අඩංගුවට ගැනීමට ගිය අවස්ථාවේ දී එම කාන්තාවගේ මව පොලීසියට බාධා කරන අයුරු ජංගම දුරකථනයක සටහන් වී තිබිණි.
+
+අදාළ මවව සාපරාධී බලහත්කාරය පෑම, සැකකරුවෙකුට පැනයෑමට උදව් කිරීම හා කාන්තා පොලිස් නිලධාරිනියන්ගේ නිල ඇඳුමට හානි කිරීම යන චෝදනා මත අදාළ සැකකාරියගේ මවව අත්අඩංගුවට ගෙන අම්පාර මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කර තිබේ.
+
+පසුව අම්පාර මහෙස්ත්‍රාත් නයෝමි වික්‍රමරත්න මහත්මිය විසින් ලක්ෂයක ශරීර ඇප දෙකක් මත ඇයව නිදහස් කර තිබේ.
+
+කෙසේවෙතත් මෙම සිදුවීම වූ අවස්ථාවේදී සැකකාර දියණිය එම ස්ථානයෙන් පළා ගොස් ඇති අතර ඇයව සොයා විමර්ශන ක්‍රියාත්මකයි.
+
+◼️
+
+[Data](articles/d13c6e69.json)
+
+---
+
+### Public warned over spread of diseases in flood-affected areas
+
+*2024-06-04 12:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/99651/public-warned-over-spread-of-diseases-in-flood-affected-areas) · `en`
+
+The general public has been cautioned over the increased spread of infectious diseases across the island due to prevailing inclement weather conditions.
+
+Consultant Paediatrician Dr. Deepal Perera warns that there is a greater risk of diseases such as diarrhea, dysentery, Typhoid fever and influenza spreading during such periods.
+
+Speaking further in this regard, Dr. Perera emphasized that diarrhea, dysentery, influenza and Typhoid fever have a greater chance of spreading mainly due to contaminated water and food.
+
+“Most likely this is a viral flu. The symptoms here are fever along with vomiting, indigestion, stomach ache. Secondly, if there is blood stool in addition to diarrhea, this can be dysentery. In addition, influenza is still spreading these days. Therefore, if a cough, cold, or flu spreads quickly in a family, it can also be influenza,” he warned.
+
+He also states that children who have asthma should receive respective treatments properly and as immediately as possible.
+
+...
+
+[Data](articles/135075d7.json)
+
+---
+
+### Web to the suspect who assaulted the child
 
 *2024-06-04 12:05:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குழந்தையை-தாக்கிய-சந்தேகநபருக்கு-வலை/175-338415) · `ta`
 
-வீட்டில் சாப்பிட்டுக் கொண்டிருந்த 4 வயது குழந்தையை ஒருவர் கொடூரமான முறையில் தாக்கும் வீடியோ சமூக வலைதளங்களில் பரவி வருவது குறித்து பொலிஸார் விசாரணையை ஆரம்பித்துள்ளனர்.
+Police investigate assault on 4-year-old boy; suspect Kukul Saminda flees after brutal attack caught on video.
 
-பிபிலே சமிந்த எனப்படும் குகுல் சமிந்த என அடையாளம் காணப்பட்ட சந்தேக நபர் பதவிய சம்பதனுவர பகுதியைச் சேர்ந்தவர்.
+🟩
 
-குறிப்பிட்ட சந்தேகநபர் தனது வீட்டில் உணவருந்திக் கொண்டிருந்த குழந்தையை கொடூரமாக தாக்கும் வீடியோவை பக்கத்து வீட்டுக்காரர் பதிவு செய்திருந்தார், இது சமூக ஊடகங்களில் வெளியிடப்பட்டது.
+Police have launched an investigation into the spread of a 4 -year -old child who was eating at home.
 
-இதற்கு முன்னரும் பல தடவைகள் இந்தக் குழந்தையை சந்தேக நபர் தாக்கியிருந்த போதிலும் அவருக்குப் பயந்து எவரும் பொலிஸாருக்கு அறிவிக்கவில்லை எனத் தகவல்கள் தெரிவிக்கின்றன.
+The suspect, who was identified as Kukul Saminda (Bibil Saminda), belongs to the post of Sambadanura.
 
-இதேவேளை,  பொலிஸ் நிலைய பொறுப்பதிகாரி உட்பட அதிகாரிகள் குழுவொன்று குறித்த வீட்டை சோதனையிட்டுள்ளனர். சந்தேக நபர் வீட்டை விட்டு தப்பிச் சென்றுள்ளதுடன், அவரைக் கண்டுபிடிக்க பொலிஸார் தேடுதல் நடவடிக்கையில் ஈடுபட்டுள்ளனர்.
+The neighbor recorded a video of a brutal attack on a child who was eating at his home, which was posted on social media.
+
+Although the suspect had been assaulted several times before, no one was afraid of him, reports say.
+
+Meanwhile, a team of officers, including the Superintendent of Police, searched the house.. The suspect has fled the house and the police are searching for him to find him.
 
 ◼️
 
 [Data](articles/c7862d3b.json)
+
+[Extended Data](ext_articles/c7862d3b.ext.json)
 
 ---
 
@@ -71,6 +135,8 @@ Funding will be allocated for relief efforts, cleaning operations, epidemic prev
 ...
 
 [Data](articles/84251e2e.json)
+
+[Extended Data](ext_articles/84251e2e.ext.json)
 
 ---
 
@@ -98,25 +164,31 @@ When the case was taken up for an order yesterday (03), District Judge C. Sadees
 
 ---
 
-### ත්‍රස්තවාදී සහ අන්තවාදී සංවිධානවල 210කගේ සියලු වත්කම් අත්හිටුවයි
+### All 210 assets of terrorists and extremist organizations suspended
 
 *2024-06-04 11:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197376) · `si`
 
-ත්‍රස්තවාදී සහ අන්තවාදී ක්‍රියාවලට සම්බන්ධ සංවිධාන 15ක සහ පුද්ගලයින් 210කගේ සියලු අරමුදල් සහ වත්කම් අත්හිටුවීමට රජය පියවර ගෙන තිබේ.
+The government has suspended 15 terrorist and extremist organizations and 210 individuals' assets as per UN regulation No. 01 of 2012. This includes disabling funds and assets linked to groups like the Tamil Rehabilitation Organization and individuals involved in terrorism financing.
 
-ආරක්ෂක අමාත්‍යංශ ලේකම් විශ්‍රාමික මේජර් ජනරාල් කමල් ගුණරත්න මහතා විසින් ඊට අදාළ ගැසට් නිවේදනය ඊයේ (03)දිනයේ නිකුත් කර ඇති බව වාර්තා වේ.
+🟩
 
-ත්‍රස්තවාදී සහ අන්තවාදී සංවිධාන 15ක් සහ ඒවාට සම්බන්ධ 210කගේ සියලු අරමුදල් වෙනත් මූල්‍ය වත්කම් සහ ආර්ථික සම්පත් ඒ අනුව අක්‍රීය කිරීමට පියවර ගෙන තිබේ.
+The government has taken steps to suspend all 15 organizations related to terrorists and extremist measures and 210 persons.
 
-2012 අංක 01 දරණ එක්සත් ජාතීන්ගේ නියෝගවලට අනුව මෙම පියවර ගෙන ඇති බව වාර්තා වේ.
+Defense Ministry Secretary Retired Major General Kamal Gunaratne has issued the gazette notification yesterday (03).
 
-ද්‍රවිඩ ඊලාම් විමුක්ති කොටි හෙවත් එල්.ටී.ටී.ඊ සංවිධානය, දෙමළ පුනරුත්ථාපන සංවිධානය හෙවත් ටී.ආර්.ඕ සංවිධානය, ජාතික තව්දිහ් ජමාත් හෙවත් එන්.ටී.ජේ සංවිධානය, ජමාතේ මිලාතේ ඊබ්‍රහිම් හෙවත් ජේ.එම්.අයි සංවිධානය ඇතුළු සංවිධාන 15ක සියලු අරමුදල් සහ වත්කම් අක්‍රීය කර තිබේ.
+Steps have been taken to disable 15 terrorists and 15 extremist organizations and all 210 funds have to be disabled accordingly.
 
-ඊට අමතරව ත්‍රස්තවාදී ක්‍රියාකාරකම් සහ ත්‍රස්තවාදය සඳහා මුදල් සැපයීම සම්බන්ධයෙන් චෝදනා එල්ල වී සිටින පුද්ගලයින් 113 දෙනෙකුගේ සියලු මුදල් හා වත්කම් ද අක්‍රීය කර ඇති බව වාර්තා වේ.
+It is reported that the steps have been taken in accordance with the United Nations regulations No. 01 of 2012.
+
+All of 15 organizations including the Tamil Rehabilitation Organization, Tamil Rehabilitation Organization, or TRO organization, National Rehabilitation Organization (TRO), or JMI, or JMI of JMIFunds and assets are disabled.
+
+In addition, all 113 persons and assets have been disabled in addition to terrorism and providing money for terrorism.
 
 ◼️
 
 [Data](articles/b0e2dbe1.json)
+
+[Extended Data](ext_articles/b0e2dbe1.ext.json)
 
 ---
 
@@ -182,25 +254,33 @@ Further investigations related to the incident are carried out by Badulla Police
 
 [Data](articles/b9e3a025.json)
 
+[Extended Data](ext_articles/b9e3a025.ext.json)
+
 ---
 
-### බටහිර ඉන්දීය කාන්තා ක්‍රිකට් කණ්ඩායම දිවයිනට
+### West Indian women's cricket team to arrive
 
 *2024-06-04 11:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197375) · `si`
 
-බටහිර ඉන්දීය කොදෙව් කාන්තා ක්‍රිකට් කණ්ඩායම ශ්‍රී ලංකාවේ තරගාවලි සංචාරයක් සඳහා අද (04) දින උදෑසන කටුනායක ගුවන්තොටුපොළ වෙත පැමිණ තිබේ.
+The West Indies women's cricket team landed in Sri Lanka today for a tournament, including matches at the Galle and Hambantota International Cricket Stadiums. The squad consists of 15 players and 7 coaches, set to compete over several days.
 
-මෙම කණ්ඩායමට ක්‍රීඩිකාවන් 15 දෙනෙකු සහ පුහුණුකරුවන් 07 දෙනෙකු ඇතුළත්ය.
+🟩
 
-ඔවුන් එළැඹෙන 15, 18 සහ 21 දින පැවැත්වෙන එක් දින සීමිත ඕවර් තරග තුනක් සඳහා සහභාගී වීමට නියමිත අතර එම තරග ගාල්ල ජාත්‍යන්තර ක්‍රීඩාංගණයේදී පැවැත්වීමට නියමිතය.
+The West Indies women's cricket team has arrived at the Katunayake Airport this morning for a tournament tour of Sri Lanka today (04).
 
-මීට අමතරව හම්බන්තොට ජාත්‍යන්තර ක්‍රිකට් ක්‍රීඩාංගණයේදී තවත් විස්සයි විස්ස තරග 03ක් එළැඹෙන 24, 26 සහ 28 දිනවල පැවැත්වීමට නියමිත අතර ඒ සඳහා ද මෙම බටහිර ඉන්දීය කොදෙව් කාන්තා ක්‍රිකට් කණ්ඩායම සහභාගී වීමට නියමිතය.
+The group includes 15 athletes and seven coaches.
 
-මෙම ක්‍රිකට් කණ්ඩායම උදෑසන 08.40ට ඩුබායි සිට එමිරේට්ස් ගුවන් සේවයේ ඊ.කේ.- 650 දරන ගුවන් යානයෙන් කටුනායක ගුවන්තොටුපොළ වෙත පැමිණ තිබූ අතර ඔවුන් පිළිගැනීම සඳහා ශ්‍රී ලංකා ක්‍රිකට් ආයතනයේ නිලධාරීන් පිරිසක් ද ගුවන්තොටුපොළ වෙත පැමිණ සිටියහ.
+They will attend three days of 15th and 21 and 21 days, which will be held at the Galle International Stadium.
+
+In addition, the West Indies women's cricket team will be held on 24th and 28th of the Hambantota International Cricket Stadium.
+
+The cricket team from Dubai to Emirates from Dubai to Emirates Airlines was reached at Katunayake Airport and a group of SLC officials were also present at the airport.
 
 ◼️
 
 [Data](articles/3699a07f.json)
+
+[Extended Data](ext_articles/3699a07f.ext.json)
 
 ---
 
@@ -272,6 +352,8 @@ Other legislators also asked for more time to study the changes.
 
 [Data](articles/0326a30e.json)
 
+[Extended Data](ext_articles/0326a30e.ext.json)
+
 ---
 
 ### Ukraine has reportedly destroyed the target within Russia using the weapons provided by the West
@@ -340,7 +422,11 @@ The Supreme Court determination states that these clauses shall only be passed b
 
 However, the country’s apex court has stated that these clauses could be passed with a simple majority if amended as specified in the Supreme Court’s determination.
 
-◼️
+The hearing of the petitions challenging the bill commenced on the 9th of May before a three-member Supreme Court bench consisting of Justices Vijith Malalgoda, Shiran Gunaratne, and Arjuna Obeysekera.
+
+Additional Solicitor General Viveka Siriwardena, representing the Attorney General, emphasized that the bill aims to improve the efficiency of electricity generation, distribution, and sale while providing a convenient service to consumers.
+
+...
 
 [Data](articles/e198df58.json)
 
@@ -352,19 +438,15 @@ However, the country’s apex court has stated that these clauses could be passe
 
 *2024-06-04 11:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/India-election-results-2024-BJP-alliance-leads-opposition-fights-on/155-284059) · `en`
 
-11.32 AM - As early trends show the INDIA alliance crossing 200 seats, the mood at the BJP office appears to have become distinctly guarded.
+12.05 PM - Veteran actor Raj Babbar is leading in Gurgaon seat on Congress ticket by over 30,000 seats
 
-Party spokespersons, however, are maintaining that the NDA alliance is comfortably placed to form the next government.
+11.58 AM -Indian Prime Minister Narendra Modi's alliance raced to a majority in early vote counting trends in the general election, but the numbers were well short of the landslide predicted in exit polls. Opposition gains are higher than expected.
 
-The opposition alliance's performance in early trends appears to have come as a surprise to many party workers here.
+11.48 AM - When Narendra Modi launched his campaign with the slogan “Ab ki baar, 400 paar,” he aimed for more than 400 seats for his BJP-led NDA alliance. The most optimistic exit polls even predicted a clear 400 seats for them.
 
-However, some party spokespersons say it's still too early to comment and things will only be clear by noon.
+However, early trends indicate a much tighter contest with the Congress-led INDIA alliance, a centre-left coalition. Speculation is already rife about whether the BJP alone will reach the 272 seats needed for a majority in the 543-seat parliament.
 
-11.24 AM - The election commission has released the current leads in 541 out 543 Lok Sabha seats.
-
-The BJP-led NDA alliance is now leading on 282 seats, while the Congress and its allies are ahead in 219 constituencies.
-
-The BJP is leading is leading on 237 seats, while the Congress is ahead on 97. In the previous election, the BJP won a total of 303 seats.
+The lead between the two coalitions appears narrower than expected, with early trends showing a difference of only 60 to 70 seats.
 
 ...
 
@@ -2191,59 +2273,5 @@ Sinopec’s renovation principles encompass the exterior image and facilities up
 [Data](articles/e93d7470.json)
 
 [Extended Data](ext_articles/e93d7470.ext.json)
-
----
-
-### Sierra Cables expands to Maldives in strategic partnership with ASK Holdings
-
-*2024-06-04 00:48:42* · [`dailyftlk`](https://www.ft.lk/business/Sierra-Cables-expands-to-Maldives-in-strategic-partnership-with-ASK-Holdings/34-762565) · `en`
-
-From left: Sierra Cables Executive Director and Browns Investments CEO Panduka Weerasingha, Executive Director Shamendra Panditha, Non - Executive Director and LOLC Holdings Group Chief Financial Officer Sunjeevani Kotakadeniya, Sierra Cables CEO Harsha Jayatunga, Maldives’ ASK Holdings Managing Director Zain Hassan, Senior Executive Asim Mohammed, LOLC Group Chief Legal Officer Wasantha Batagoda and Legal Manager Nadeesha Koggalahewa
-
-Sierra Cables PLC, one of Sri Lanka’s pioneering cable manufacturers, recently entered into a strategic partnership with ASK Holdings, a key supplier of hardware, construction and electrical engineering products and services in the Maldives.
-
-The new collaboration between the two will further enhance the distribution, availability of high-quality products and market presence of Sierra Cables in Maldives while contributing to the ongoing development and growth of the region’s infrastructure in keeping with the company’s growing global footprint.
-
-...
-
-[Data](articles/20268969.json)
-
-[Extended Data](ext_articles/20268969.ext.json)
-
----
-
-### Colombo City Holdings appoints new directors to Board
-
-*2024-06-04 00:46:11* · [`dailyftlk`](https://www.ft.lk/business/Colombo-City-Holdings-appoints-new-directors-to-Board/34-762564) · `en`
-
-Colombo City Holdings PLC, a subsidiary of Ambeon Holdings PLC, has announced the appointment of three distinguished professionals to its Board of Directors, marking a significant value addition to the company’s governance and strategic direction.
-
-Samresh Kumar and Sharad Sridharan have been appointed as Independent Non-Executive Directors, effective from 29 May 2024. Additionally, Revantha Thashan Devasurendra has joined the Board as a Non-Independent Non-Executive Director, also effective from 29 May 2024.
-
-Concurrently, Y. Kanagasabai has resigned from his position on the Board with effect from 29 May 2024.
-
-...
-
-[Data](articles/9a07c209.json)
-
-[Extended Data](ext_articles/9a07c209.ext.json)
-
----
-
-### Trade Promoters celebrates five years in Maldives
-
-*2024-06-04 00:40:22* · [`dailyftlk`](https://www.ft.lk/business/Trade-Promoters-celebrates-five-years-in-Maldives/34-762563) · `en`
-
-Trade Promoters Ltd. proudly celebrates its five-year milestone of revolutionising Maldives’ energy sector through its appointed dealer Electrify Maldives.
-
-Electrify Maldives representing Cummins in the Maldives, has been at the forefront of providing cutting-edge power solutions backed by a team of over 60 dedicated staff members.
-
-Since its inception, Electrify Maldives has continuously set the standard for excellence in the industry. With its sales office and parts warehouse strategically located in Hulhumale, the company has ensured swift and efficient service to customers across the Maldives archipelago. Currently, Electrify Maldives supports over 115, of the 186 Cummins – populated resorts in the Maldives, with more than 70 resorts as steadfast, long-term clients.
-
-...
-
-[Data](articles/fa3e5743.json)
-
-[Extended Data](ext_articles/fa3e5743.ext.json)
 
 ---

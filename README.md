@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-04 15:53:18**
+As of **2024-06-04 16:06:09**
 
 ## Newspaper Stats
 
-*Scraped **28,350** Articles*
+*Scraped **28,355** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,105 @@ islandlk | 1,533
 economynextcom | 1,611
 dailyftlk | 1,669
 adalk | 2,416
-adaderanalk | 3,225
-tamilmirrorlk | 3,330
+adaderanalk | 3,226
+tamilmirrorlk | 3,331
 virakesarilk | 4,358
-dailymirrorlk | 4,486
-adaderanasinhalalk | 4,555
+dailymirrorlk | 4,487
+adaderanasinhalalk | 4,557
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,349 (100.0%) of 28,350 articles have been extended.
+28,350 (100.0%) of 28,355 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-04 (Tuesday)
+
+### ගංවතුර ගැන සෞඛ්‍ය අංශ වෙතින් අනතුරු ඇඟවීමක්
+
+*2024-06-04 15:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197385) · `si`
+
+ගංවතුර තත්ත්වයන් පවතින ප්‍රදේශවල ජනතාව සඳහා සෞඛ්‍ය ප්‍රවර්ධන කාර්යාංශයෙන් මාර්ගෝපදේශ මාලාවක් නිකුත් කර තිබේ.
+
+එහිද දැක්වෙන්නේ හානිකර බැක්ටීරියා සහ තුවාල ඇති කළ හැකි සුන්බුන් අඩංගු විය හැකි බවින් හැකිතාක් ගංවතුර ජලයේ ඇවිදීම හෝ පිහිනීම නොකළ යුතු බවය.
+
+එසේම ගංවතුර හරහා ගමන් කරනවිට ලෙප්ටෝස්පයිරෝසිස් හෙවත් මී උණ වැනි ආසාදන වැලැක්වීම සඳහා හැකි සෑම අවස්ථාවකදීම රබර් බූට් සහ අත්වැසුම් පැළඳීමට හැකිතාක් උත්සාහ කරන ලෙසට ද සෞඛ්‍ය ප්‍රවර්ධන කාර්යාංශය දැනුම්දී තිබේ.
+
+1. ගංවතුර ජලයෙන් හැකිතාක් වළකින්න: ගංවතුර ජලයේ ඇවිදීම හෝ පිහිනීම නොකළ යුතුය. එහි හානිකර බැක්ටීරියා සහ තුවාල ඇති කළ හැකි සුන්බුන් අඩංගු විය හැක.
+
+2. ගංවතුරෙන් හානියට පත් ආහාර අනුභව නොකරන්න: ගංවතුරෙන් යටවුණු ්‍රදේශවල ඇති පලා වර්ග අනුභවය සහ ගංවතුරෙන් යටවූ ආහාර ඉවත දමන්න.
+
+3. දරුවන් ගංවතුරට නිරාවරණය වීම හැකිතාක් වලක්වන්න: රෝග වැළැක්වීම සඳහා දරුවන් සහ සුරතල් සතුන් දූෂිත ජලයෙන් ඈත් කරන්න.
+
+4. රෝග ලක්ෂණ නොසලකා හරින්න එපා: ඔබට අසනීප බවක් දැනේ නම්, වෛද්‍ය ප්‍රතිකාර ලබා ගැනීම ප්‍රමාද නොකරන්න.
+
+...
+
+[Data](articles/a4380b59.json)
+
+---
+
+### Sri Lanka freezes assets of 15 groups, 210 individuals over terrorist and extremist activities
+
+*2024-06-04 15:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/99658/sri-lanka-freezes-assets-of-15-groups-210-individuals-over-terrorist-and-extremist-activities) · `en`
+
+The Sri Lankan government has taken steps to freeze all funds, other financial assets and economic resources belonging to 15 entities and 210 individuals allegedly involved in terrorist and extremist activities.
+
+It is reported that the relevant gazette notification was issued yesterday (03) by Sri Lanka’s Secretary of Defence General (Retd.) Kamal Gunaratne, acting in terms of the powers vested in him by the United Nations Regulations No. 1 of 2012.
+
+Accordingly, the order has been issued to freeze all funds, other financial assets and economic resources belonging to or owned or held by any natural or legal person, group or entity designated and listed under regulation 4 of the above Regulations.
+
+The 15 designated entities include the Liberation Tigers of Tamil Eelam (LTTE), the National Thowheeth Jama’ath (NTJ) and the Jamathei Millathu Ibraheem (JMI).
+
+...
+
+[Data](articles/2f7caf93.json)
+
+---
+
+### ලොවම බලා සිටින ඉන්දීය මැතිවරණයෙන් නොසිතූ ප්‍රතිඵලයක්
+
+*2024-06-04 15:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197384) · `si`
+
+මිලියන 969 ක පිරිසක් ඡන්දය භාවිත කිරීමට සුදුසුකම් ලැබූ ලොව විශාලතම ප්‍රජාතන්ත්‍රවාදී මැතිවරණය ලෙස ද සැලකෙන ඉන්දීය මහ මැතිවරණය ආරම්භ වුණේ පසුගිය අප්‍රේල් මස 19 වැනිදාය.
+
+දින 44ක් පුරා අදියර 7ක් යටතේ පැවති ඉන්දීය මහ මැතිවරණය පසුගිය සෙනසුරාදා අවසන් වුණි.
+
+මිලියන 642 දෙනෙක් ඡන්දය භාවිත කළ මහ මැතිවරණය පැවැත්වුණේ පාර්ලිමේන්තුවේ පහළ මන්ත්‍රී මණ්ඩලය එනම් ලෝක් සභාව ආසන 543කට මන්ත්‍රිවරුන් පත්කරගැනීම සඳහාය.
+
+ඡන්දය ගණනය කිරීම මේ වනවිටත් ක්‍රියාත්මක වන අතර එහි ප්‍රතිඵල ද නිකුත් වෙමින් පවතියි.
+
+බොහෝදෙනා අපේක්ෂා කළ ආකාරයෙන්ම මෙවර මැතිවරණයෙන් ද පෙරමුණ ගෙන ඇත්තේ අගමැති නරේන්ද්‍ර මෝදිගේ භාරතීය ජනතා පක්ෂය ප්‍රමුඛ ජාතික ප්‍රජාතන්ත්‍රවාදී සන්ධානයයි.
+
+කෙසේ නමුත් මැතිවරණ කොමිසම නිකුත් කළ නිල නොවන ප්‍රතිඵලවලට අනුව මෝදිගේ සන්ධානය දිනාගෙන ඇත්තේ ආසන 291ක සුළු බහුතරයක් පමණයි.
+
+දැනට වාර්තා වන නොනිල ප්‍රතිඵලවලට අනුව මෙවර මැතිවරණයෙන් මෝදිගේ සන්ධානයට තුනෙන් දෙකක අහිමිවනු ඇති බවට මේ වනවිටත් පුරෝකථනය කර තිබේ.
+
+භාරතීය ජනතා පක්ෂය 2019 මැතිවරණයේදී තනිව ආසන 303ක් ලබාගත් අතර සන්ධානය යටතේ ආසන 400ක් දිනාගැනීම මෝදිගේ සැලසුම වුණි.
+
+...
+
+[Data](articles/3419cd16.json)
+
+---
+
+### ’Sajith playing childish game’: Anura says in Parliament
+
+*2024-06-04 15:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sajith-playing-childish-game-Anura-says-in-Parliament/108-284074) · `en`
+
+Parliament, June 4 (Daily Mirror)- NPP leader Anura Kumara Dissanayake raised concerns in Parliament saying that Opposition Leader Sajith Premadasa had raised the same question he was to raise in Parliament over the University non-academic staff, calling it a childish act by the Opposition Leader.
+
+MP Dissanayake inquired from the Speaker as to how the same question he had submitted to the Opposition Leader's Office to be raised in parliament under Standing Order 27/2 was raised before him by the Opposition Leader.
+
+Speaker Mahinda Yapa Abeywardhane clarified the matter saying that two questions had been submitted to the Secretary General's Office by the Opposition Leader's Office, one question was handed over at 11.40 am to be raised by the Opposition Leader and another question was handed over at 12.10 pm to be raised by NPP MP Anura Kumara Dissanayake.
+
+...
+
+[Data](articles/d40cb3bd.json)
+
+---
 
 ### 7 days locked liquor stations
 
@@ -91,6 +175,20 @@ The Department of Animal Production and Health comes under the purview of the Mi
 [Data](articles/e3ecf5ca.json)
 
 [Extended Data](ext_articles/e3ecf5ca.ext.json)
+
+---
+
+### 5 பன்னீர்செல்வங்களின் நிலை என்ன?
+
+*2024-06-04 14:40:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/5-பன்னீர்செல்வங்களின்-நிலை-என்ன/175-338424) · `ta`
+
+இராமநாதபுரம் லோக்சபா தொகுதியில் முன்னாள் முதல்வர் பன்னீர்செல்வம் உட்பட அதே பெயரில் மொத்தம் 5 பேர் களமிறங்கினர். அவர்களின் ஓட்டு நிலவரம் வெளியாகியதில், இவர்கள் ஐவரின் ஓட்டுகளை சேர்த்தாலும் ஓபிஎஸ் வெற்றிக்கு உதவாது என்பது கவனிக்கத்தது.
+
+இராமநாதபுரம் லோக்சபா தொகுதியில் பா.ஜ., கூட்டணி சார்பில் முன்னாள் முதல்வர் ஓ.பன்னீர்செல்வம் 'பலாப்பழம்' சின்னத்தில் சுயேட்சையாக போட்டியிட்டார். இதில் தனது பலத்தை நிரூபித்து அதிமுக.,வினரை ஒன்றிணைத்து கட்சியை கைப்பற்றிவிடலாம் என எண்ணி இருந்தார். ஆனால், அவருக்கு போட்டியாக அதே பன்னீர்செல்வம் பெயரில் மேலும் 4 பேர் சுயேட்சையாக மனுத்தாக்கல் செய்தனர். இதனால் அதிர்ச்சியடைந்த ஓ.பன்னீர்செல்வம், இடைஞ்சல்கள் வந்தாலும் வெற்றி பெறுவோம் என களப்பணியாற்றினார்.
+
+...
+
+[Data](articles/d9af24c4.json)
 
 ---
 
@@ -514,21 +612,29 @@ He also states that children who have asthma should receive respective treatment
 
 ---
 
-### කුඩා දරුවෙකුට අමානුෂිකව පහරදෙන පුද්ගලයෙකු පොලීසියෙන් සොයයි
+### A person who brushes a child inhumane child is looking for police
 
 *2024-06-04 12:08:44* · [`adalk`](https://www.ada.lk/breaking_news/කුඩා-දරුවෙකුට-අමානුෂිකව-පහරදෙන-පුද්ගලයෙකු-පොලීසියෙන්-සොයයි/11-410002) · `si`
 
-පදවිය, වැලිඔය සම්පත් නුවර පොලිස් වසමේ පදිංචි පුද්ගලයෙකු විසින් අවුරුදු 4 ක් පමණ වයසැති කුඩා දරුවෙකුට අමනුෂිකව පහරදෙන වීඩියෝවක් පසුගිය දිනවල සමාජ මාධ්‍ය ඔස්සේ ප්‍රචාරය වීමෙන් පසුව ඒ පිළිබඳව පොලීසිය විසින් පරික්ෂණයක් අරඹා ඇත.
+An investigation has started into a 2018 video showing abuse against a child in Sri Lanka's Vidaviya Sampath Kandy police division. The incident was recorded by a neighbor and shared on social media. Following a raid on the suspect's home in the Welioya Sampath area, which was then abandoned, authorities are searching for the suspect, known for past incidents unreported to the police. Neighbors had previously warned the police about the suspect's behavior, leading to a wider search for him.
 
-සම්පත්නුවර ප්‍රදේශයේ පදිංචි අදාල සැකකරු විසින් ඔහුගේ නිවසේදී කුඩ දරුවෙකු කෑම කමින් සිටින අතරතුරදී අමානුෂිකව පහරදෙන අයුරු දැක්වෙන වීඩියෝවක් අසල්වැසියෙකු විසින් වීඩියෝ කොට සමාජ මාධ්‍ය වෙත මුදාහැර තිබුණි.
+🟩
 
-එම අවස්ථාවේම ක්‍රියාත්මක වූ වැලිඔය සම්පත්නුවර පොලීස් ස්ථානධිපති වරුය ඇතුලු නිලධාරීන් පිරිසක් විසින් සැකකරුගේ නිවස වැටලීමක් කොට ඇතත් ඒ වන විටත් සැකකරු ප්‍රදේශයෙන් පලාගොස් සැඟව සිටින බවට පොලීසිය පැවසීය.
+The police have commenced an investigation into a 4-year-old video of a small child who was residing in the Vidaviya Sampath Kandy police division of the Padaviya.
 
-සැකකරු ප්‍රදේශයේ කුකුල් චමින්ද නොහොත් බිබිලේ චමින්ද නමින් ප්‍රදේශයේ ප්‍රසිද්ධියට පත්ව ඇති බවටත් මොහු මීට පෙර අවස්ථ කිහිපයකදීම මෙම දරුවාට අමානුෂිකව පහරදෙන අතරම ඔහුට ඇති බිය නිසා කිසිවෙකු පොලීසියට මේ පිළිබඳව දැනුම් දී නොමැති බවටද අසල්වාසීන් පොලීසියට පවසා ඇත.
+A video of the resident of Sampathnuwara area has been videoed by a neighbor to the Social Media.
 
-...
+The suspect's house, including the Welioya Sampath Sampath Sampantu, has been raided and has fled the area but the suspect has already fled the area.
+
+Neighbors have also told the police that the suspect was famous in the area, the suspect was famous in the area, and in several previous occasions, the neighbors had told the police that he had not told the police.
+
+Sampath Campaign added that the suspect has begun a broader searched in search of the fugitive search and inform the police or immediate police officer.
+
+◼️
 
 [Data](articles/fef701db.json)
+
+[Extended Data](ext_articles/fef701db.ext.json)
 
 ---
 
@@ -904,21 +1010,19 @@ Despite the lower-than-expected numbers for the BJP, the party is still confiden
 
 *2024-06-04 11:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Modis-BJP-may-fall-short-of-majority/155-284059) · `en`
 
-03.12 PM-  The BJP-led NDA alliance is currently ahead in 280 seats while the Congress coalition defies exit polls by leading in 222.
+Home Minister Amit Shah is leading in the Gandhinagar constituency in Gujarat with a huge margin of over 6.15 lakh votes.
+
+03.24 PM - Rahul Gandhi currently in large lead in Kerela seat.
+
+Aside from running in Rae Bareli in Uttar Pradesh, Congress’ Rahul Gandhi is also seeking re-election from southern Kerala state’s Wayanad.
+
+So far, Gandhi is leading by a whopping 350,000, with his current vote tally at 623,539. Annie Raja of the Communist Party of India, a fellow member of the Congress-led INDIA bloc, is in a distant second with 273,509 votes casted for her so far.
+
+India allows candidates to contest multiple constituencies but they can represent only one.
+
+3.12 PM-  The BJP-led NDA alliance is currently ahead in 280 seats while the Congress coalition defies exit polls by leading in 222.
 
 So far, official results have been declared on three of 543 seats, with the NDA winning two of them.
-
-Congress leader Manish Tewari is leading in Chandigarh parliamentary constituency against  BJP's Sanjay Tandon with a margin of over 8,450 votes.
-
-One of the BJP’s strongest hopes, K Annamalai, is trailing in Tamil Nadu's Coimbatore seat by more than 23,000 votes.
-
-The party had high hopes that the former police officer would help them gain in a state that has traditionally rejected it.
-
-PM Narendra Modi has a comfortable lead of over 98,000 votes in Uttar Pradesh's Varanasi seat, where he is the incumbent MP.
-
-Prominent regional Samajwadi Party and the Congress have fielded Ajay Rai as their joint candidate.
-
-Mr Modi won with a vote share of more than 63% here in 2019.
 
 ...
 
@@ -2205,131 +2309,5 @@ The CWC has made criticism and allegations made against the CWC over the wage of
 [Data](articles/35ccd0f7.json)
 
 [Extended Data](ext_articles/35ccd0f7.ext.json)
-
----
-
-### Thank you for the judgment
-
-*2024-06-04 03:35:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தீர்ப்புக்கு-நன்றி/175-338396) · `ta`
-
-Sri Lanka's Workers Congress President Senthil Thondaman expressed gratitude towards the judiciary for its decision on plantation workers' wages, highlighting the ongoing efforts of his predecessors to secure a pay raise despite challenges. The move has reportedly boosted public confidence.
-
-🟩
-
-Sri Lanka Workers Congress President Senthil Thondaman has thanked the judiciary's verdict on the salary of 1,700 rupees of plantation workers.
-
-On the salary of plantation workers, the CWC's late leaders Chaumiyamoorthy Thondaman and Arumugan Thondaman have continued to pay a pay rise through the continuing struggles.
-
-The CWC has made criticism and allegations made against the CWC over the wage of plantation workers.. He said that the judiciary's action has created great confidence among the people.
-
-◼️
-
-[Data](articles/99aa7cc2.json)
-
-[Extended Data](ext_articles/99aa7cc2.ext.json)
-
----
-
-### The government rules for evil
-
-*2024-06-04 03:33:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தீமைக்கு-வழிவகுக்கும்-அரசாங்கமே-ஆள்கிறது/175-338395) · `ta`
-
-The government faces criticism for its handling of the country's financial recovery and vaccine procurement. Despite claims of purchasing 450,000 Meropenem vaccines to prevent bacterial infections, an audit revealed a loss of 36 crore 89 lakh 50 thousand rupees due to alleged mismanagement. The opposition highlights corruption in vaccine acquisition and misuse of funds for smart classrooms instead of addressing the country's bankruptcy.
-
-🟩
-
-Our country is now a bankrupt country. To recover from this bankruptcy, to be implemented in a manner that is an outstanding, honest and non -theft -free program. Opposition leader Sajith Premadasa, however, said that no such project has been launched yet.
-
-Meropenem vaccine, which prevents bacterial infections, claimed that 450,000 vaccines were purchased by the purchase system, claiming that the country was not in stock in November 2022.. According to a report by the Auditor General, the country has caused a loss of thirty -six crores eighty -nine lakhs fifty thousand rupees.. He said this was a stealing of the country's resources.
-
-Under the Universal Information Technology Program, smart classroom equipment worth Rs.. Opposition Leader Sajith Premadasa said this while addressing the event.
-
-488,590 vaccines were on stock on that day. The new participation has been obtained by the purchase. The Opposition Leader said that a bottle of Rs 1,075 was purchased for Rs 1,895.
-
-...
-
-[Data](articles/369236d3.json)
-
-[Extended Data](ext_articles/369236d3.ext.json)
-
----
-
-### If you get a chicken chicken
-
-*2024-06-04 03:29:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோழி-கிடைத்தால்-புரியாணி-போடுங்கள்/175-338394) · `ta`
-
-Mano Ganesan, leader of the Tamil Progressive Alliance, asserts the right of Tamils in Ratnapura to have their own MP, highlighting the significant Tamil population there. He promises victory for their candidate, Chandra Kumar, in the upcoming elections. Ganesan warns against vote splitting among Tamil voters by rival parties using animal symbols, emphasizing the importance of unity. The conference aimed to address challenges faced by Tamils in districts like Kegalle, Ratnapura, Kandy, Gampaha, and Colombo, where they are minorities, and stressed the need for their representatives to advocate for their rights and concerns.
-
-🟩
-
-This time we will get the representation of the Tamil parliamentary representation in the Ratnapura district.. It is our right to obtain MP post in Ratnapura, where one million Tamils ​​live, seventy -five thousand Tamil voters. That is not a offer. So the next time our candidate Chandra Kumar will win the MP of the Ratnapura District, Tamil Progressive Alliance leader Mano Ganesan said.
-
-When our race comes to our race, we are planning to raise the Tamil votes, while the dog, fox, cat, elephant, crow, sparrows, poultry symbols are being scattered.. Those who are traitors must fall on their heads.Dog, fox, cat, crow, sparrow. If you get the chicken, take it and put it.
-
-The Ratnapura District Conference of the Democratic People's Front, a partner of the Tamil Progressive Alliance, was organized by District Organizer Chandrakumar at the Ratnapura Municipal Council chaired by Mano Ganesan, who delivered the chief speech.
-
-...
-
-[Data](articles/91436e61.json)
-
-[Extended Data](ext_articles/91436e61.ext.json)
-
----
-
-### Fake doctor in Jaffna
-
-*2024-06-04 03:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/185253) · `ta`
-
-A fake doctor in Jaffna, who claimed to be a legitimate physician and conducted free medical camps, was arrested for fraudulently selling land documents to Tamils in the diaspora. The arrest came after it was discovered that the documents were forged, leading to an investigation by the Jaffna police.
-
-🟩
-
-A fake doctor from Jaffna has been arrested by the Jaffna police for allegedly defrauding Tamils ​​living in diaspora.
-
-The man was arrested by the police while traveling in the Jaffna Nagar area in a car worth about Rs.
-
-A young man from Chunnakam, Jaffna, has produced himself as a doctor and introduced himself as a doctor and is conducting free medical camps for the poor.
-
-In this case, he has sent a fake documents, including fake documents, including fake confirmation, claiming that his land in Jaffna Nagar area is selling one crore 42 lakh rupees illegally.
-
-It is only a few days later that the documents given to him are fake.
-
-He then lodged a complaint at the Jaffna Police Station. According to the complaint, the police are investigating the complaint, and that many people living in the diaspora have been involved in a number of rupees for free medical camps for many years.
-
-...
-
-[Data](articles/b5557d82.json)
-
-[Extended Data](ext_articles/b5557d82.ext.json)
-
----
-
-### 64 crore people voted in Indian elections: the Election Commission of India
-
-*2024-06-04 02:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/185252) · `ta`
-
-In the 18th Lok Sabha elections, 64.2 crore voters participated, marking a significant increase from previous years. The election spanned seven phases across India, with a notable focus on inclusivity, as evidenced by the high number of female voters. Special arrangements like dedicated railway carriages facilitated voting, while stringent measures against electoral violations led to substantial seizures. International observers monitored the process, underscoring its transparency.
-
-🟩
-
-Indian Chief Election Commissioner Rajkumar said that 64.2 crore people voted in the 18th Lok Sabha elections, which were completed in seven phases across India.
-
-Indian Election Commissioners met with reporters after the Lok Sabha polling was over. Indian Chief Election Commissioner Rajiv Kumar said.
-
-A total of 64.2 crore people, including 31.2 crore women, have voted at the democratic festival in India.
-
-135 special railway carriages were operated across the country to vote in the election and to carry out election work.
-
-In the 2019 Lok Sabha elections, 540 seats across India. But in 2024, only 39 places were re -registered. So the Lok Sabha elections in India have been quietly completed. This is a world record.
-
-All the helicopters and vehicles used by political party leaders were raided by election officials.
-
-There were 4.5 lakh complaints across India over the election. Of these, 98 percent of complaints were found.
-
-...
-
-[Data](articles/70e5f3ba.json)
-
-[Extended Data](ext_articles/70e5f3ba.ext.json)
 
 ---

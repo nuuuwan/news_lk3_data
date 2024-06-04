@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-04 17:19:00**
+As of **2024-06-04 17:34:34**
 
 ## Newspaper Stats
 
-*Scraped **28,367** Articles*
+*Scraped **28,372** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,39 +16,111 @@ islandlk | 1,533
 economynextcom | 1,611
 dailyftlk | 1,669
 adalk | 2,416
-adaderanalk | 3,227
-tamilmirrorlk | 3,332
+adaderanalk | 3,228
+tamilmirrorlk | 3,333
 virakesarilk | 4,364
-dailymirrorlk | 4,488
-adaderanasinhalalk | 4,559
+dailymirrorlk | 4,490
+adaderanasinhalalk | 4,560
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,366 (100.0%) of 28,367 articles have been extended.
+28,367 (100.0%) of 28,372 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-04 (Tuesday)
 
-### අත්තනගලු ඔයේ රතු අනතුරු ඇඟවීම දීර්ඝ කරයි
+### තුර්කියේ බිහිසුණු ගුවන් අනතුරක්
+
+*2024-06-04 17:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197388) · `si`
+
+මධ්‍යම තුර්කියේ සැහැල්ලු ගුවන් යානයක් කඩා වැටීමෙන් සිදුවු අනතුරකින් පුද්ගලයින් දෙදෙනෙකු මියගොස් තිබේ.
+
+හමුදා පුහුණු ගුවන් යානයක් මෙලෙස අනතුරට ලක්ව ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+
+කෙසේවෙතත් අදාළ ගුවන් යානය කඩාවැටීමට හේතුව මෙතෙක් තහවුරු වී නොමැති බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+ගුවන් යානය අනතුරට ලක්වූ අවස්ථාවේ බව සඳහන් දර්ශන පෙළක් විදෙස් මාධ්‍ය මෙලෙස වාර්තා කර තිබුණි.
+
+◼️
+
+[Data](articles/fc2990fe.json)
+
+---
+
+### Sri Lanka’s lack of preparation exposed in T20 World Cup
+
+*2024-06-04 17:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankas-lack-of-preparation-exposed-in-T20-World-Cup/108-284079) · `en`
+
+(Daily Mirror) - Sri Lanka's embarrassing defeat to South Africa in their opening match of the T20 World Cup 2024 in USA and West Indies exposed their lack of preparation ahead of the tournament.
+
+Most of the players had left to the USA weeks before the tournament in an attempt to get used to the conditions, but their batting display on Monday (3) against South Africa clearly shows that they are well short of proper preparation.
+
+In a high profile tournament such as the World Cup, in addition to getting used to the conditions, it is very important to study the opponent. However, the Sri Lanka batsmen looked absolutely clueless against the South African pace attack.
+
+...
+
+[Data](articles/95b0e145.json)
+
+---
+
+### Flood warning extended for low-lying areas of Attanagalu Oya
+
+*2024-06-04 17:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/99660/flood-warning-extended-for-low-lying-areas-of-attanagalu-oya) · `en`
+
+The Irrigation Department has extended the early flood warning issued for the lower valley of the downstream areas of Attanagalu Oya basin, for the next 48 hours.
+
+Accordingly, the low-lying regions in the Gampaha, Ja-ela, Katana, Wattala, and Minuwangoda Divisional Secretariat divisions are particularly impacted, the department warned.
+
+Residents and vehicle drivers in these areas are requested to pay high attention in this regard while Disaster Management Authorities are requested to take adequate precautions.
+
+◼️
+
+[Data](articles/74c857cb.json)
+
+---
+
+### Attanagalu Oya extends red warning
 
 *2024-06-04 16:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197387) · `si`
 
-අත්තනගලු ඔය ආශ්‍රිත පහත් බිම්වල ගංවතුර සඳහා නිකුත් කර තිබූ රතු අනතුරු ඇඟවීමේ නිවේදනය ඉදිරි පැය 48 සඳහා දීර්ඝ කර තිබේ.
+Flood warnings for Attanagalu Oya have been extended for 48 hours due to worsening conditions. The Irrigation Department urges residents and drivers in Gampaha, Kanala, Katana, Wattala, and Minuwangoda to be cautious.
 
-වාරිමාර්ග දෙපාර්තමේන්තුව විසින් අද පස්වරු 4ට නිවේදනයක් නිකුත් කරමින් මේ බව සඳහන් කර සිටී.
+🟩
 
-එම නිවේදනයේ වැඩිදුරටත් දැක්වෙන්නේ දැනට අත්තනගලු ඔය ද්‍රෝණිය තුළ පවතින ගංවතුර තත්ත්වය පහළ ප්‍රදේශවලදී තවදුරටත් ක්‍රමයෙන් වර්ධනය වෙමින් පවතින බවය.
+The Red Alarm announcement issued for floods in Attanagalu Oya has extended for the next 48 hours.
 
-ඒ අනුව ගම්පහ, ජාඇල, කටාන, වත්තල සහ මිනුවන්ගොඩ යන ප්‍රාදේශීය ලේකම් කොට්ඨාශවලට අයත් පහත් බිම් ප්‍රදේශවල ජනතාව මේ සම්බන්ධයෙන් දැඩි සැළකිල්ලකින් කටයුතු කරන ලෙසට වාරිමාර්ග දෙපාර්තමේන්තුව ඉල්ලා සිටී.
+The Irrigation Department issued a statement at 4 pm this afternoon.
 
-එසේම එම ප්‍රදේශ ආශ්‍රිත මාර්ගවල රථවාහන ධාවනය කරන රියදුරන්ගෙන්ද මේ සම්බන්ධයෙන් විමසිලිමත් ලෙස කටයුතු කරන ලෙසට ඉල්ලා සිටී.
+The statement further states that the Attanagalu Oya Basin is further developed in the floods.
+
+Accordingly, the Department of Irrigation requests the Department of Irrigation to take place in this regard to the Gampaha, Gampaha, Kanala, Katana, Wattala and Minuwangoda.
+
+The drivers who drive traffic drivers are also asking for this regard.
 
 ◼️
 
 [Data](articles/dac544f5.json)
+
+[Extended Data](ext_articles/dac544f5.ext.json)
+
+---
+
+### TIK TOK இல் களமிறங்கிய டொனால்ட் ட்ரம்ப்
+
+*2024-06-04 16:47:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/TIK-TOK-இல்-களமிறங்கிய-டொனால்ட்-ட்ரம்ப்/50-338430) · `ta`
+
+அமெரிக்காவின் குடியரசு கட்சி தலைவரான முன்னாள் ஜனாதிபதி டொனால்ட் ட்ரம்ப் இந்த ஆண்டு நடைபெறும் தேர்தலிலும் ஜனாதிபதி வேட்பாளராக களமிறங்கி உள்ளார். இதனை முன்னிட்டு நாடு முழுவதும் தீவிர தேர்தல் பிரசாரத்தில் அவர் ஈடுபட்டு வருகிறார்.
+
+இதற்கிடையே கடந்த வாரம் ஆபாச நடிகை ஸ்டார்மி டேனியல்சுக்கு பணம் கொடுத்த விவகாரத்தில் அவர் குற்றவாளி என நீதிமன்றம் தீர்ப்பளித்துள்ளது. இந்த நிலையில் சீன செயலியான TIK TOK இல் ட்ரம்ப் புதிய கணக்கு துவங்கினார். அவரை TIK TOK இல் 4 மில்லியனுக்கும் அதிகமானோர் பின்தொடர்கின்றனர். இவர் ஜனாதிபதியாக இருந்தபோது தேசிய பாதுகாப்புக்கு அச்சுறுத்தலாக உள்ளது என கூறி TIK TOK செயலிக்கு தடை விதிக்க பல்வேறு முயற்சிகளை எடுத்தார்.
+
+இந்தநிலையில் தற்போது அவரே TIK TOK இல் இணைந்துள்ளது விமர்சனத்தை ஏற்படுத்தி உள்ளது. அவர் தேர்தல் பிரசார உத்திக்காக TIK TOK இல் இணைந்து இருப்பதாக அரசியல் விமர்சகர்கள் கூறுகின்றனர்.
+
+◼️
+
+[Data](articles/d2e9eb7d.json)
 
 ---
 
@@ -65,6 +137,24 @@ Accordingly, all the liquor shops in Nuwaragam Palatha Central, Nuwaragam Palath
 [Data](articles/1a2f7646.json)
 
 [Extended Data](ext_articles/1a2f7646.ext.json)
+
+---
+
+### Public assistance sought to trace missing mother, daughter
+
+*2024-06-04 16:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Public-assistance-sought-to-trace-missing-mother-daughter/108-284078) · `en`
+
+June 04, Daily Mirror - Police seek the assistance of the public to locate a mother and her daughter who had gone missing since May 29.
+
+A person claimed to be the father and the husband of the missing persons had lodged a complaint with the Katunayake Police and investigations are underway.
+
+The missing woman aged 26 is Yashoda Hansani Kahathuduwa Arachchi while the daughter aged 04 is Chathurya Toshni Liyanage Fernando.
+
+Information regarding the duo can be conveyed to Katunayake OIC - 071-8591639 and Katunayake Police station -  011-2252222
+
+◼️
+
+[Data](articles/7696dc34.json)
 
 ---
 
@@ -2211,117 +2301,5 @@ The Ministry of Education has informed the Zonal Directors of the Provincial Aut
 [Data](articles/bb8260d6.json)
 
 [Extended Data](ext_articles/bb8260d6.ext.json)
-
----
-
-### Sri Lanka leads South Asia in recruiting women for banking industry: IFC
-
-*2024-06-04 08:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-leads-South-Asia-in-recruiting-women-for-banking-industry-IFC/108-284032) · `en`
-
-Women comprise 46% of new recruits and 27% of board positions
-
-However, progression of women in sector does not match their career aspirations or progression compared to men
-
-Women representation drops from 40% at entry level to 27% in middle management and further to 20% in senior management roles
-
-Sri Lanka surpasses all its South Asian counterparts in recruiting women at entry level in the banking sector, a recent report by the International Finance Corporation (IFC) highlighted.
-
-Women comprised 46 percent of new recruits and 27 percent of board positions, making Sri Lanka the leader in board level gender diversity, according to the report.
-
-Titled ‘Women’s Advancement in Banking in Emerging South Asian Countries’, the IFC, in collaboration with the Australian government, had assessed the private sector commercial banks in Bangladesh, Nepal and Sri Lanka.
-
-...
-
-[Data](articles/1c6ef846.json)
-
-[Extended Data](ext_articles/1c6ef846.ext.json)
-
----
-
-### President's proposal approves cabinet
-
-*2024-06-04 08:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197363) · `si`
-
-President Ranil Wickremesinghe's proposal to approve the cabinet aims to provide immediate relief to those affected by bad weather, rebuild resources, and ensure the welfare of citizens. This decision comes as the government and armed forces assist in recovery efforts. Additionally, due to the adverse weather conditions, the National Celebration for World Environment Day has been canceled.
-
-🟩
-
-Cabinet approval has been approved by the proposal to provide relief to the people affected by the inclement weather and rebuilding resources with the assistance of the government expenditure and the armed forces.
-
-President Ranil Wickremesinghe has presented the proposal to the Cabinet yesterday (03) and has been approved.
-
-It has been proposed to provide immediate relief to the affected people without dependence on circulars.
-
-Meanwhile, President Ranil Wickremesinghe has instructed the welfare of the people who were affected by the inclement weather for the welfare of the people of the global environmental celebrations.
-
-Provincial Councils and Environment, Provincial Councils Janaka Wakkumbura has decided to cancel the National Celebration organized by the World Environment Day (05).
-
-◼️
-
-[Data](articles/ba662e39.json)
-
-[Extended Data](ext_articles/ba662e39.ext.json)
-
----
-
-### Youth killed in electrocution
-
-*2024-06-04 07:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197362) · `si`
-
-A 23-year-old from Hinddugoda died due to electrocution near the Playginenator in Badulla. The incident occurred last night when he touched an unauthorized power cord meant to protect a vegetable cellar.
-
-🟩
-
-A youth has been bowled out at the station near the Playginenator in Badulla, Badulla.
-
-The incident was reported yesterday (03) at night, police said.
-
-The deceased has been identified as a 23 year old resident of Hinddugoda.
-
-Police say that the death has been caused by the death of an unauthorized power cord to protect a vegetable cell.
-
-◼️
-
-[Data](articles/adf658a2.json)
-
-[Extended Data](ext_articles/adf658a2.ext.json)
-
----
-
-### Proposed Enactment Of The Economic Transformation Bill
-
-*2024-06-04 07:30:34* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/proposed-enactment-of-the-economic-transformation-bill/) · `en`
-
-An Open Letter Submission to the President, Minister of Finance, Chief of Staff of the President, Minister of Justice, Chairman Public Finance Committee, Secretary to the Treasury, Governor Central Bank, Auditor General, Attorney General, Legal Draftsman, Secretary General Parliament, Diagnostics Team- International Monetary Fund
-
-This submission is made in the long-term sustainable interests of Sri Lanka and all its people; and sets out some critical aspects to be considered by you, prior to proceeding with the enactment of the proposed Economic Transformation Bill.
-
-...
-
-[Data](articles/a4680ad0.json)
-
-[Extended Data](ext_articles/a4680ad0.ext.json)
-
----
-
-### University non-academic employees today
-
-*2024-06-04 07:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197361) · `si`
-
-Union action planned by non-academic staff at a university due to professional issues discussed with the State Minister of Higher Education. Today's meeting aims to inform trade union representatives about future steps.
-
-🟩
-
-According to university, union action will be taken regarding the future activities of the trade union action today (04).
-
-Dhammika Priyantha stated that the Samika Priyantha said that a special discussion held with the State Minister of Higher Education regarding its professional issues.
-
-Dhammika Priyantha said that today's trade union representatives will be informed of their trade union representatives today.
-
-◼️
-
-[Data](articles/cc5f3518.json)
-
-[Extended Data](ext_articles/cc5f3518.ext.json)
 
 ---

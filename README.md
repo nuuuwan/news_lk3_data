@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-04 20:04:26**
+As of **2024-06-04 20:20:46**
 
 ## Newspaper Stats
 
-*Scraped **28,400** Articles*
+*Scraped **28,403** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,58 +19,108 @@ adalk | 2,422
 adaderanalk | 3,231
 tamilmirrorlk | 3,335
 virakesarilk | 4,373
-dailymirrorlk | 4,494
-adaderanasinhalalk | 4,564
+dailymirrorlk | 4,495
+adaderanasinhalalk | 4,566
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,397 (100.0%) of 28,400 articles have been extended.
+28,400 (100.0%) of 28,403 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-04 (Tuesday)
 
-### மேலும் சில பாடசாலைகளுக்கு விடுமுறை
+### And some more school holidays
 
 *2024-06-04 19:38:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மேலும்-சில-பாடசாலைகளுக்கு-விடுமுறை/175-338434) · `ta`
 
-சீரற்ற காலநிலை காரணமாக காலி மற்றும் மாத்தறை மாவட்டங்களில் உள்ள அனைத்து பாடசாலைகளும் நாளை (5) மூடப்படும் என மாகாண கல்வி அமைச்சு அறிவித்துள்ளது. R
+Due to bad weather, schools in Galle and Matara districts will close tomorrow.
+
+🟩
+
+The Ministry of Education has announced that all schools in Galle and Matara districts will be closed tomorrow (5) due to inclement weather. Remble
 
 ◼️
 
 [Data](articles/00ffb004.json)
 
+[Extended Data](ext_articles/00ffb004.ext.json)
+
 ---
 
-### ගාල්ල හා මාතර පාසල්වලට හෙටත් නිවාඩු
+### කාසියේ වාසිය ස්කොට්ලන්තය ට
+
+*2024-06-04 19:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197394) · `si`
+
+ලෝක කුසලාන 20යි 20 තරගාවලියේ එංගලන්තය සහ ස්කොට්ලන්තය අතර තරගය තව සුළු මොහොතකින් ආරම්භ වෙයි.
+
+එහි කාසියේ වාසිය දිනාගත් ස්කොට්ලන්ත කණ්ඩායම පළමුව පන්දුවට පහරදීමට තීරණය කළේය.
+
+◼️
+
+[Data](articles/6f7cd895.json)
+
+---
+
+### ඉඩම් කොමසාරිස් ට එරෙහි චෝදනා සම්බන්ධයෙන් ශ්‍රේෂ්ඨාධිකරණයෙන් නියෝගයක්
+
+*2024-06-04 19:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197393) · `si`
+
+ඉඩම් කොමසාරිස් බන්දුල ජයසිංහ මහතාට එරෙහිව අල්ලස් කොමිසම විසින් කොළඹ මහාධිකරණය හමුවේ ගොනුකර ඇති අධිචෝදනා පත්‍රය විභාග කිරීම වළක්වාලමින් ශ්‍රේෂ්ඨාධිකරණය විසින් තහනම් නියෝගයක් නිකුත් කළේය.
+
+ඉඩම් කොමසාරිස්වරයා විසින් ඉදිරිපත් කළ පෙත්සමක් විභාගයට ගැනීමට අවසර දෙමින් යසන්ත කෝදාගොඩ,  ඒ. එච්. එම්. ඩී. නවාස් සහ අචල වෙංගප්පූලි යන මහත්වරුන්ගෙන් සමන්විත ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ලක් විසින් මෙම නියෝගය නිකුත් කරනු ලැබීය.
+
+එමෙන්ම අදාළ පෙත්සම සම්බන්ධයෙන් අගෝස්තු 8 වනදා අධිකරණ හමුවේ කරුණු දක්වන ලෙස දන්වා අල්ලස් කොමිසමේ සාමාජිකයන් වෙත නොතීසි යැවීමට පියවර ගන්නා ලෙසත් ත්‍රිපුද්ගල විනිසුරු මඩුල්ල විසින් නියෝග කළ අතර අදාළ අතුරු තහනම් නියෝගය  පෙත්සම් විභාගය  අවසන් වනතෙක් බලපැවැත්වෙන බවත් නියෝග කෙරිණි.
+
+...
+
+[Data](articles/3000d498.json)
+
+---
+
+### Galle and Matara schools tomorrow
 
 *2024-06-04 19:24:50* · [`adalk`](https://www.ada.lk/breaking_news/ගාල්ල-හා-මාතර-පාසල්වලට-හෙටත්-නිවාඩු/11-410008) · `si`
 
-පවතින අයහපත් කාළගුණික තත්වය මත හෙට  (5) දිනද  දකුණු පළාතේ ගාල්ල සහ මාතර දිස්ත්‍රික්කවල සියලු පාසල් සඳහා නිවාඩු ලබා දුන් බව දකුණු පළාත් අධ්‍යාපන අමාත්‍යාංශය පවසයි.
+Tomorrow, schools in Galle and Matara districts will be closed due to a holiday announcement by the Ministry of Southern Province. The decision was communicated to all educational authorities by the Southern Provincial Education Secretary, Ranjith Yapa.
 
-දකුණු පළාත් ආන්ඩුකාරවර ලක්ෂ්මන් යාපා අබේවර්ධන මහතාගේ තීරණය පරිදි මෙම නිවාඩුව ලබාදුන් බවත් ඒ අනුව කටයුතු කරන ලෙසත් දකුණු පළාත් අධ්‍යාපන ලේකම් රංජිත් යාපා මහතා දිස්ත්‍රික්ක දෙකෙහි සියලු අධ්‍යාපන බලධාරින් වෙත දන්වා ඇත.
+🟩
+
+The Ministry of Southern Province says that tomorrow (5) in the Galle and Matara districts of the Southern Province (5) has been granted leave tomorrow.
+
+Southern Provincial Education Secretary Ranjith Yapa has been informed to all the educational authorities of the two districts to be given the vacation.
 
 ◼️
 
 [Data](articles/b3765445.json)
 
+[Extended Data](ext_articles/b3765445.ext.json)
+
 ---
 
-### මැදපෙරදිග රැකියා සඳහා තත්වයෙන් ඉහළ වෛද්‍ය සහතික දෙන්න වැඩපිළිවෙළක්
+### It is a program to meet the quality of medical certificates for employment in the Middle East
 
 *2024-06-04 19:20:25* · [`adalk`](https://www.ada.lk/breaking_news/මැදපෙරදිග-රැකියා-සඳහා-තත්වයෙන්-ඉහළ-වෛද්‍ය-සහතික-දෙන්න-වැඩපිළිවෙළක්/11-410007) · `si`
 
-මැදපෙරදිග කලාපයේ රටවල රැකියා සඳහා ශ්‍රමිකයින් පිටත් කර යැවීමේදී ලබා ගන්නා වෛද්‍ය සහතිකවල තත්ත්වය වඩා විධිමත් කිරීම පිණිස ශ්‍රි ලංකා විදේශ සේවා නියුක්ති කාර්යාංශය, පාරිභෝගික කටයුතු අධිකාරිය, ශ්‍රි ලංකා ප්‍රතීතන මණ්ඩලය සහ සෞඛ්‍ය අමාත්‍යාංශයේ පාර්ශ්වයන්ගෙන් සමන්විත විශේෂ කමිටුවක් පත් කිරීමට ඊයේ දිනයේදී (06/03) කම්කරු හා විදේශ රැකියා අමාත්‍ය මනුෂ නානායක්කාර මහතා විසින් පියවර ගනු ලැබිණි.
+A special committee was appointed by the Sri Lanka Bureau of Foreign Employment, Consumer Affairs, Sri Lanka Acquisition Board, and Health Ministry to address quality issues with medical certificates required for employment in the Middle East. The committee will meet within two weeks to establish standards for these certificates, ensuring the welfare of overseas workers.
 
-මැදපෙරදිග රටවලට ශ්‍රමිකයින් පිටත් කර යැවීමේදී ගන්නා වෛද්‍ය සහතිකවල ප්‍රමිතිය සහ ඒ සඳහා ශ්‍රමිකයින්ගෙන් අය කරන ගාස්තු සම්බන්ධයෙන් පැන නගින ගැටලුකාරී තත්ත්වයන් පිළිබඳවද විශේෂ අවධානය යොමු කරමින් අමාත්‍යවරයා විසින් මෙම කමිටුව පත් කිරීමට පියවර ගනු ලැබ තිබේ.
+🟩
 
-කම්කරු හා විදේශ රැකියා අමාත්‍යාංශයේදී අදාළ පාර්ශව සමග පැවති සාකච්ඡාවක් අනුව මෙම පත් කිරීම සිදු කළ අතර නිශ්චිත සති දෙකක කාලයක් තුළ කමිටුව රැස් කර වාර්තාවක් ලබා ගන්නා ලෙස අමාත්‍යවරයා එහිදී උපදෙස් ලබාදුන්නේය.
+Labor yesterday to appoint a special committee of the Sri Lanka Bureau of Foreign Employment, Consumer Affairs, Sri Lanka Acquisition Board, Sri Lanka Acquisition Board and Health Ministry in the Middle East.Minister Manusha Nanayakkara took action.
 
-...
+The committee has taken steps to appoint the standard of the issues that arise in the charges arising from the medical certificates who are deposited into the Middle East.
+
+The Minister instructed to meet the committee in a specific two weeks of the Ministry of Labor and Foreign Employment.
+
+The minister also assured that if the need would be a need to proceed to the Cabinet and take necessary steps to take the future and take necessary steps to take the future of overseas workers.
+
+◼️
 
 [Data](articles/69fa5dbd.json)
+
+[Extended Data](ext_articles/69fa5dbd.ext.json)
 
 ---
 
@@ -2044,6 +2094,30 @@ Despite the lower-than-expected numbers for the BJP, the party is still confiden
 
 ---
 
+### Modi-led BJP loses majority in big setback
+
+*2024-06-04 11:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Modi-led-BJP-loses-majority-in-big-setback/155-284059) · `en`
+
+Actor-turned-politician Suresh Gopi has given the right-wing Hindu nationalist party its first ever victory in the southern state of Kerala.
+
+Gopi, 65, defeated Communist Party candidate VS Sunilkumar in the Thrissur constituency by more than 74,000 votes.
+
+Kerala, one of India’s most developed states, has traditionally swung between the left and the Congress.
+
+The alliance helmed by Prime Minister Modi’s BJP party is on track to win a majority in the Lok Sabha, although likely with less seats than five years ago.
+
+That means US-India relations are unlikely to substantially change, at least in the short term.
+
+India has increasingly emerged as a major lynch pin in the administration of president Joe Biden’s policy in Asia, particularly as part of efforts to counter China’s influence.
+
+That was on display last year when Biden hosted Modi for a state visit – the highest form of US diplomacy. Biden hailed the two countries as one of the “defining relationships of the 21st century”.
+
+...
+
+[Data](articles/5cba51f7.json)
+
+---
+
 ### Modi’s BJP may fall short of majority
 
 *2024-06-04 11:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Modis-BJP-may-fall-short-of-majority/155-284059) · `en`
@@ -2265,63 +2339,5 @@ Nearly 970 million people, more than 10% of the world’s population, were eligi
 [Data](articles/9cde077a.json)
 
 [Extended Data](ext_articles/9cde077a.ext.json)
-
----
-
-### A big targate was in his head - Newhini
-
-*2024-06-04 10:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197372) · `si`
-
-Sri Lanka's victory in the World Cup match was attributed to their strategy and execution. Leader Fani Hasaranga highlighted the importance of setting a high target, which they aimed to achieve by informing their bowlers about the opposition's weaknesses. They also discussed among themselves to adjust their tactics based on the game's progress, especially after noticing the opposition's struggle against spin. This strategic planning and adaptability led to a successful outcome, showcasing the team's ability to overcome challenges and set a formidable target.
-
-🟩
-
-Leader Fani Hasaranga explained why the Sri Lankan team defeated the first match participated in the World Cup.
-
-The media said to the Fanu Telgu, joining the press conference, and over 160 runs the target of the group, was the cause of the team.
-
-...
-
-[Data](articles/fb0bca58.json)
-
-[Extended Data](ext_articles/fb0bca58.ext.json)
-
----
-
-### Cabinet approval to provide immediate relief for flood victims
-
-*2024-06-04 10:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/99647/cabinet-approval-to-provide-immediate-relief-for-flood-victims) · `en`
-
-Cabinet approval has been granted for the proposal to provide relief to the victims of adverse weather and to rebuild the houses that were completely destroyed at the government’s expense and with the assistance of Tri-Forces personnel.
-
-It is reported that President Ranil Wickremesinghe had submitted the relevant proposal to the Cabinet of Ministers yesterday (03) which was then approved.
-
-It was further proposed to provide immediate aid to the victims without relying on any circulars and to increase the amount of money provided to the victims.
-
-President Ranil Wickremesinghe has further instructed to use the financial allocations made for the World Environmental Day celebrations to provide relief to those affected by the recent inclement weather.
-
-State Minister of Provincial Councils and Local Government of Sri Lanka, Janaka Wakkumbura also stated that it has been decided to cancel the national celebration for World Environment Day slated for tomorrow.
-
-◼️
-
-[Data](articles/4f321ddf.json)
-
-[Extended Data](ext_articles/4f321ddf.ext.json)
-
----
-
-### Electricity Amendment Bill inconsistant with the Constitution
-
-*2024-06-04 10:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Electricity-Amendment-Bill-inconsistant-with-the-Constitution/108-284057) · `en`
-
-Parliament, June 4 (Daily Mirror) - The Supreme Court has determined that the Electricity Amendment Bill is inconsistant with the Constitution as a whole and can be passed by a special mejority in Parliament, Speaker Mahinda Yapa Abeywardena announced today.
-
-He said  the Supreme Court has also determined that inconsistancy could be done away with if the Bill is amended as per the proposals made by the summary of its determination.
-
-◼️
-
-[Data](articles/86c295bb.json)
-
-[Extended Data](ext_articles/86c295bb.ext.json)
 
 ---

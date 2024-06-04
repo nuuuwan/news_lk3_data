@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-04 13:53:32**
+As of **2024-06-04 14:06:03**
 
 ## Newspaper Stats
 
-*Scraped **28,339** Articles*
+*Scraped **28,340** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,35 +20,57 @@ adaderanalk | 3,221
 tamilmirrorlk | 3,329
 virakesarilk | 4,358
 dailymirrorlk | 4,483
-adaderanasinhalalk | 4,553
+adaderanasinhalalk | 4,554
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,338 (100.0%) of 28,339 articles have been extended.
+28,339 (100.0%) of 28,340 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-04 (Tuesday)
 
-### කැලඹුණු කාලගුණයෙන් සිදුවූ මරණ සංඛ්‍යාව ඉහළට
+### රාජ්‍ය රහස් හෙළිකිරීමේ චෝදනාවෙන් ඉම්රාන් ඛාන් නිදහස්
+
+*2024-06-04 13:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197382) · `si`
+
+රාජ්‍ය රහස් හෙළිදරව් කිරීම සම්බන්ධව එල්ල වී තිබූ චෝදනාවලින් හිටපු පාකිස්තාන අගමැති ඉම්රාන් ඛාන් නිදහස් කර තිබේ.
+
+අමෙරිකාවේ පාකිස්තාන තානාපතිවරයා එවූ රහසිගත කේබල් පණිවුඩයක් සම්බන්ධව ප්‍රසිද්ධ ප්‍රකාශයක් කරමින් රාජ්‍ය රහස් හෙළිදරව් කළ බවට චෝදනාවට ලක්වූ ඛාන් ට පහළ අධිකරණයක් මඟින් වසර 10ක සිරදඬුවම් නියම කර තිබුණි.
+
+ඒ ඔහු මෙම චෝදනාවෙන් නිදහස ලැබූවත්, ඉස්ලාමීය නීති කඩකරමින් තෙවැනි බිරිඳක් ආවාහ කරගැනීමේ චෝදනාවට වරදකරු වී වසර 7ක සිරදඬුවම් විඳිමින් සිටීම හේතුවෙනි.
+
+◼️
+
+[Data](articles/bd872990.json)
+
+---
+
+### Top termination of turbulent weather
 
 *2024-06-04 13:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197381) · `si`
 
-අයහපත් කාලගුණික තත්ත්වය හේතුවෙන් මේ වනවිට පුද්ගල මරණ 26ක් වාර්තා වී තිබේ.
+Turbulent weather has caused significant damage, resulting in 26 deaths and 41 injuries. It has affected over 130,000 individuals across 23 districts, with 9,248 people detained in security centers.
 
-ආරක්ෂක රාජ්‍ය අමාත්‍ය ප්‍රමිත බණ්ඩාර තෙන්නකෝන් මහතා අද (04) පාර්ලිමේන්තුවේදී ප්‍රකාශයක් සිදුකරමින් මේ බව සඳහන් කළේය.
+🟩
 
-එහිදී රාජ්‍ය අමාත්‍යවරයා වැඩිදුරටත් සඳහන් කළේ අයහපත් කාලගුණික තත්ත්වය හේතුවෙන් පුද්ගලයින් 41 ක් මේ වනවිට තුවාල ලබා ඇති බවය.
+26 persons have been reported due to inclement weather conditions.
 
-එසේම දිස්ත්‍රික්ක 23ක ප්‍රාදේශීය ලේකම් කොට්ඨාශ 262ක පවුල් 33,422ක පුද්ගලයින් 130,021ක් ආපදාවට ලක්ව ඇත.
+Defense Minister Pipaina Bandara Tennakoon said this in Parliament today (04).
 
-රජය විසින් එම ප්‍රදේශ ආශ්‍රිතව පවත්වාගෙන යනු ලබන සුරක්ෂා මධ්‍යස්ථාන 116ක පවුල් 2,368කට අයත් පුද්ගලයින් 9,248ක් රඳවා ඇති බවද එහිදී රාජ්‍ය අමාත්‍යවරයා වැඩිදුරටත් සඳහන් කර තිබේ.
+The State Minister further stated that 41 persons were injured due to inclement weather conditions.
+
+130,022 persons from 33,422 families have been affected by 262 divisional secretariats in 23 districts.
+
+The government has stated that 9,248 persons belonging to 26 families in 116 security centers in the area have been detained.
 
 ◼️
 
 [Data](articles/82d71d95.json)
+
+[Extended Data](ext_articles/82d71d95.ext.json)
 
 ---
 
@@ -662,19 +684,15 @@ Additional Solicitor General Viveka Siriwardena, representing the Attorney Gener
 
 *2024-06-04 11:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/India-election-results-2024-Modis-BJP-may-fall-short-of-majority/155-284059) · `en`
 
+Despite the lower-than-expected numbers for the BJP, the party is still confident of forming the next government — and under Prime Minister Narendra Modi, who has ruled for the past decade, and under whom the party fought this campaign.
+
+“Whatever the results eventually show, here are some facts: We will form the next government, and Narendra Modi will be sworn in as prime minister for a third time,” BJP spokesperson Jaiveer Shergill told India Today channel. “And the opposition will be in tears.”
+
 01.05 PM -The Congress party and its ally, the Samajwadi Party, are leading on half the seats in the northern state, which has the most Lok Sabha seats in the country.
 
 The SP is leading in 37 seats, with the BJP in second place, ahead in 32 seats. The Congress is the lead in 7 seats.
 
 In the 2014 election, the Modi-led BJP won 62 seats in UP, and 71 in the election before that in 2014.
-
-In area, it is nearly as big as the United Kingdom and its 241 million residents are more than the total population of neighbouring Pakistan or Brazil.
-
-Winning UP is a key determinant of who rules nationally in New Delhi.
-
-12.05 PM - Veteran actor Raj Babbar is leading in Gurgaon seat on Congress ticket by over 30,000 seats
-
-11.58 AM -Indian Prime Minister Narendra Modi's alliance raced to a majority in early vote counting trends in the general election, but the numbers were well short of the landslide predicted in exit polls. Opposition gains are higher than expected.
 
 ...
 
@@ -2297,23 +2315,5 @@ Organised by the Intern-ational Labour Organisation (ILO) in partnership with EF
 [Data](articles/c6150100.json)
 
 [Extended Data](ext_articles/c6150100.ext.json)
-
----
-
-### BOI unions rebuffs Mangala Yapa on Economic Transformation Act
-
-*2024-06-04 02:22:29* · [`dailyftlk`](https://www.ft.lk/business/BOI-unions-rebuffs-Mangala-Yapa-on-Economic-Transformation-Act/34-762582) · `en`
-
-The All Union Alliance of the Board of Investment of Sri Lanka (BOI) yesterday expressed its strong displeasure with the points mentioned in the online webinar on the proposed Economic Transformation Act, by Mangala Yapa on 31 May and firmly rejects those statements.
-
-In a statement the All Union Alliance of BOI said the following.
-
-1. We disdainfully reject the highly inaccurate claim made by Mangala Yapa at the said Webinar that the Unions of the Board of Investment of Sri Lanka have expressed agreement with the contents of this Act. The submission of such false statements by an individual disrespects all parties who contributed to the creation of this Act.
-
-...
-
-[Data](articles/ad3cf294.json)
-
-[Extended Data](ext_articles/ad3cf294.ext.json)
 
 ---

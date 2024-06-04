@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-04 07:22:11**
+As of **2024-06-04 08:00:02**
 
 ## Newspaper Stats
 
-*Scraped **28,236** Articles*
+*Scraped **28,250** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,13 +12,13 @@ colombotelegraphcom | 256
 dbsjeyarajcom | 270
 bbccomsinhala | 277
 newsfirstlk | 363
-islandlk | 1,521
+islandlk | 1,533
 economynextcom | 1,604
 dailyftlk | 1,666
 adalk | 2,408
 adaderanalk | 3,209
-tamilmirrorlk | 3,314
-virakesarilk | 4,349
+tamilmirrorlk | 3,315
+virakesarilk | 4,350
 dailymirrorlk | 4,468
 adaderanasinhalalk | 4,531
 
@@ -26,27 +26,49 @@ adaderanasinhalalk | 4,531
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,235 (100.0%) of 28,236 articles have been extended.
+28,240 (100.0%) of 28,250 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-04 (Tuesday)
 
-### කාලගුණයේ අලුත්ම තත්ත්වය
+### மதிப்புமிகு ஸொன்டா சர்வதேச விருதை வென்றெடுத்தார் தெஹிவளை கேட்வே மாணவத் தலைவி வைஷாலினி
+
+*2024-06-04 06:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/185184) · `ta`
+
+இலங்கை, இந்தியா, பங்களாதேஷ், நேபாளம் ஆகிய நாடுகளைச் சேர்ந்த மாணவிகளுடன் மாவட்டம் 25இல் போட்டியிட்டு  பொது விடயங்களுக்கான  மதிப்புமிகு ஸொன்டா சர்வதேச இளம் பெண் விருதை தெஹிவளை கேட்வே கல்லூரியின் அதிசிறந்த மாணவி வைஷாலினி ராஜேந்திரன் வென்று பெருமை சேர்த்துக் கொண்டுள்ளார்.
+
+அவரது தலைமைத்துவ திறன்கள், கல்வித்துறையில் அதி உயரிய திறமை மற்றும் பொது சேவைக்கான அர்ப்பணிப்பு ஆகியவற்றை இந்த விருது அங்கீகரிப்பதுடன் இலங்கையிலுள்ள இளம் பெண்களுக்கு குறிப்பிடத்தக்க ஒரு முன்மாதிரியாகவும் அமைகிறது.
+
+பொதுக் கொள்கை, அரச மற்றும் தொண்டு நிறுவனங்களில் தலைமைத்துவத்தில் உறுதியான அர்ப்பணிப்பை வெளிப்படுத்தும் 16 வயதுக்கும் 19 வயதுக்கும் இடைப்பட்ட இளம் பெண்களுக்கு பொது விடயங்களில் இளம் பெண்கள் விருதை ( YWPA Award  ),சேவை மற்றும் ஆதரவு ஆகியவற்றினூடாக பெண்களுக்கு அதிகாரம் அளிப்பதில் அர்ப்பணிப்புடன் இயங்கிவரும் உலக நிறுவனமான ஸொன்டா இன்டர்நெஷனல் வழங்குகிறது.
+
+...
+
+[Data](articles/3ab02422.json)
+
+---
+
+### The latest condition of the weather
 
 *2024-06-04 06:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197357) · `si`
 
-දිවයිනේ නිරිත දිග කොටසේ පවතින තද වැසි තත්ත්වයේ තාවකාලික අඩුවීමක් අද (04) දින සිට බලාපොරොත්තු විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Expect a temporary reduction in heavy rain across the island today, with showers or thundershowers forecasted for the Western, Sabaragamuwa, Central, Southern, and Northwestern provinces. The Met Department advises caution against wind and lightning risks during thunderstorms.
 
-එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, බස්නාහිර, සබරගමුව, මධ්‍යම, දකුණු සහ වයඹ පළාත්වල විටින් විට වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බවය.
+🟩
 
-එමෙන්ම දිවයිනේ සෙසු ප්‍රදේශවල සවස් කාලයේ හෝ රාත්‍රී කාලයේ තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+The Meteorological Department says that a temporary decrease in heavy rainy section of the island is expected today (04).
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+Showers or thundershowers will occur at times in the Western, Sabaragamuwa, Central, Southern and Northwestern provinces.
+
+The Met Department forecasts showers at several places in the evening or evening in the rest of the island.
+
+The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
 
 ◼️
 
 [Data](articles/1b8a3d65.json)
+
+[Extended Data](ext_articles/1b8a3d65.ext.json)
 
 ---
 
@@ -67,6 +89,30 @@ Accordingly, they decided to give the Afghanistan team to bat first.
 [Data](articles/dcf30152.json)
 
 [Extended Data](ext_articles/dcf30152.ext.json)
+
+---
+
+### Plan to construct new bridges 250 new bridges
+
+*2024-06-04 03:49:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/250-புதிய-பாலங்கள்-நிர்மாணிப்பதற்கு-திட்டம்/175-338399) · `ta`
+
+Sri Lanka plans to build 250 new bridges nationwide to enhance rural connectivity and support national development projects. This initiative follows the successful completion of 750 bridges by the Netherlands Jenson Brijing Company, aimed at improving transportation and quality of life in disadvantaged areas. The project is crucial for facilitating efficient goods transport to major cities like Colombo.
+
+🟩
+
+President Ranil Wickremesinghe said that it is planning to build 250 new bridges across the country to improve the road structure to provide the benefit of national level development projects to the rural people.
+
+The President said this while addressing a function held at the Shankrila Hotel in Colombo yesterday morning after the Netherlands Jenson Brijing Company had successfully completed the construction of 750 rural bridges in Sri Lanka by the Netherlands Jenson Brijing Company yesterday morning.. As he further stated,
+
+Today, we are celebrating the completion of the work of 750 bridges built by Jensen Brijing in Sri Lanka. It must be said that the company has successfully accomplished. I know about these rural bridges constructed. They are constructed in most disadvantaged areas.
+
+The government is also committed to improve the quality of life of the people in the areas attached by these bridges.
+
+...
+
+[Data](articles/ed17987c.json)
+
+[Extended Data](ext_articles/ed17987c.ext.json)
 
 ---
 
@@ -834,6 +880,54 @@ The Sri Lankan team, who was unable to face the South African bowlers properly, 
 
 ---
 
+### Hot Chocolate …heating up the scene
+
+*2024-06-03 23:29:00* · [`islandlk`](http://island.lk/hot-chocolate-heating-up-the-scene/) · `en`
+
+Whenever I think of Hot Chocolate, I’m reminded of the British soul band Hot Chocolate who had several hits, including ‘Everyone’s a Winner,’ ‘You Sexy Thing’ and ‘It Started With a Kiss.’
+
+Well, guess what! We, too, have in our midst Hot Chocolate…yes, of course, the drink, and a music group, as well.
+
+In fact, Hot Chocolate has been around, in our scene, for over five years.
+
+They describe themselves as a driving force in Sri Lanka’s music scene…with a string of hit songs and electrifying live performances, that has captivated audiences with a unique blend of multiple genres of music.
+
+The name Hot Chocolate, they say, originated from their lead vocalist, Tehan Perera’s unyielding love for the warm, comforting beverage.
+
+Their journey began in 2016, when they started jamming together, crafting original songs that captured the Sri Lankan spirit.
+
+...
+
+[Data](articles/dd3a7e24.json)
+
+[Extended Data](ext_articles/dd3a7e24.ext.json)
+
+---
+
+### On top of the world
+
+*2024-06-03 23:27:00* · [`islandlk`](http://island.lk/on-top-of-the-world/) · `en`
+
+Sampath Siriwardena, General Manager, Galadari Hotel, Colombo, is on top of the world at the moment!
+
+The hotel has been certified as a Great Place To Work and Sampath had this to say: “I take this opportunity to thank our employees for their powerful voiced opinions that enabled us to be certified as a Great Place To Work.
+
+“It’s with great pride that I announce that Galadari Hotel has won the trust of our employees.”
+
+Sampath also came in for special praise, on social media, from many, including musicians.
+
+My best wishes to Sampath who always reaches out to us musicians!
+
+It is a great pleasure working there. Congratulations and best wishes Mr Sampath Siriwardena.
+
+A great GM, friend and a humble person. I call him ‘The Singing GM.’ He started the Magarita Blue…at the Galadari Hotel, and it was the place for all bands, with good entertainment, food and drink. Thank you Sir! You are Simply the Best.
+
+...
+
+[Data](articles/09df0189.json)
+
+---
+
 ### Full details of schools that will be closed tomorrow
 
 *2024-06-03 23:23:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாளை-மூடப்படும்-பாடசாலைகளின்-முழு-விபரங்கள்-வெளியானது/175-338389) · `ta`
@@ -918,6 +1012,36 @@ Chasing a target of 78, South Africa wins 4 wickets in 16 overs and 4 overs.
 
 ---
 
+### First Capital Holdings reports robust financial performance for FY 2023/24
+
+*2024-06-03 22:56:00* · [`islandlk`](http://island.lk/first-capital-holdings-reports-robust-financial-performance-for-fy-2023-24/) · `en`
+
+First Capital Holdings PLC (the Group), a leading investment institution, and a member of the Janashakthi Group, announces an outstanding financial performance for the fiscal year ended 31 March 2024, recording a Total Comprehensive Income of Rs. 10.1Bn, a significant increase from Rs. 2.7Bn in the previous year. This substantial growth underscores the Group’s strategic positioning and robust operational execution across its business divisions.
+
+The Primary Dealer division was the major contributor to the Group’s impressive financial results, reporting a Profit after Tax of Rs. 11.1Bn, a remarkable surge from Rs. 2.9Bn in the previous year. This performance was primarily driven by substantial trading gains on the government securities portfolio amounting to Rs. 15.8Bn and net interest income of Rs. 3.2Bn, compared to trading gains of Rs. 2.4Mn and net interest income of Rs. 3.6Bn in the prior year.
+
+Full’r Burgers’ Epic Gojira x Kong Burger Challenge Finale at Crescat Boulevard
+
+...
+
+[Data](articles/fc42fc1b.json)
+
+---
+
+### A growing global footprint: Sierra Cables expands to Maldives
+
+*2024-06-03 22:54:00* · [`islandlk`](http://island.lk/a-growing-global-footprint-sierra-cables-expands-to-maldives/) · `en`
+
+Sierra Cables PLC, one of Sri Lanka’s pioneering cable manufacturers, recently entered into a strategic partnership with ASK Holdings, a key supplier of hardware, construction and electrical engineering products and services in the Maldives. The new collaboration between the two will further enhance the distribution, availability of high-quality products and market presence of Sierra Cables in Maldives while contributing to the ongoing development and growth of the region’s infrastructure in keeping with the company’s growing global footprint.
+
+Sierra Cables currently fulfils orders from Sri Lanka for client projects and retail stockists in the Maldives. With this, the company has recognised the need for an improved and structured approach in order to maximise its sales presence in the Maldivian market and the collaboration with ASK Holdings is a significant step in strengthening Sierra Cables’ overseas marketing strategy.
+
+...
+
+[Data](articles/e8cf1141.json)
+
+---
+
 ### Gunatilleke Rajapaksa hospitalized
 
 *2024-06-03 22:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197354) · `si`
@@ -947,6 +1071,58 @@ Doctors have revealed that a fracture of MP Gunatilleke Rajapaksa had taken plac
 [Data](articles/75bebd59.json)
 
 [Extended Data](ext_articles/75bebd59.ext.json)
+
+---
+
+### Expolanka Holdings’ Exit Offer on until June 10; delisting challenged in court
+
+*2024-06-03 22:49:00* · [`islandlk`](http://island.lk/expolanka-holdings-exit-offer-on-until-june-10-delisting-challenged-in-court/) · `en`
+
+Expolanka Holdings PLC, a company that at one time enjoyed one of the highest market capitalizations in the CSE, has exited the market and is extending its Exit Offer until 4.30 PM on June 10, 2024.
+
+SG Holdings, the parent company of Expolanka Holdings, announced on March 1 it was delisting the company from the CSE.
+
+Some minority shareholders have filed a case challenging the delisting of Expolanka Holdings, before the Court of Appeal of Sri Lanka. The court is scheduled to hold a further hearing on June 6.
+
+“By reason of the aforesaid and by reason of the many requests received by Foreign shareholders and representatives of deceased shareholders requesting additional time, the company has taken the decision to extend the Exit Offer until 4.30 PM on Monday, 10th June 2024, Expolanka said in a CSE filing.
+
+Both indices moved downwards. The All Share Price Index went down by 44.46 points, while the S and P SL20 declined by 7.14 points. Turnover stood at Rs 686 million without a crossing.
+
+...
+
+[Data](articles/b4c38d8c.json)
+
+---
+
+### Stakeholders urge SLPA to ensure minimum safety standards at Colombo Port
+
+*2024-06-03 22:44:00* · [`islandlk`](http://island.lk/stakeholders-urge-slpa-to-ensure-minimum-safety-standards-at-colombo-port/) · `en`
+
+Pointing at safety standards recommended by Singapore’s Transport Safety Investigation Bureau (TSIB), Sri Lanka’s shipping industry stakeholders urge the Sri Lanka Port Authority (SLPA) to ensure minimum safety standards at the Port of Colombo, in order to avoid future catastrophe similar to X-Press Pearl (XP).
+
+The TSIB, which is the air, marine and rail accidents and incidents investigation authority in Singapore, has made several safety recommendations to the SLPA in its final report ‘FIRE ONBOARD X-PRESS PEARL AT COLOMBO ANCHORAGE’, released late last year.
+
+X-Press Pearl, which was carrying several containers of epoxy resin plastics, caused an overwhelming economic, social and environmental impact to Sri Lanka in 2021, as the ship caught on fire and subsequent sinking. The report highlighted the rather limited support of Sri Lankan authorities in diffusing the situation, partially due to the limited firefighting capabilities of the SLPA.
+
+...
+
+[Data](articles/1ffa4f3b.json)
+
+---
+
+### Full’r Burgers’ Epic Gojira x Kong Burger Challenge Finale at Crescat Boulevard
+
+*2024-06-03 22:44:00* · [`islandlk`](http://island.lk/fullr-burgers-epic-gojira-x-kong-burger-challenge-finale-at-crescat-boulevard/) · `en`
+
+Full’r Burgers, renowned to be the number one growing burger chain in Sri Lanka, hosted the grand finale of its Gojira x Kong Burger Challenge at its Crescat Boulevard outlet, which is now fully open for dine-in, on Saturday, May 18, 2024. The event, drawing an enthusiastic crowd, featured participants racing to finish a colossal 1kg burger within 150 seconds. Somiru Dasun emerged victorious, completing the challenge in an impressive 2 minutes and 3 seconds.
+
+The atmosphere crackled with excitement as contenders battled against the clock and each other, showcasing both their appetites and determination. Spectators cheered on the competitors, adding to the adrenaline-fueled thrill of the challenge.
+
+With seven thriving outlets across the western province, Full’r Burgers remains a pioneer in burger innovation. Each burger crafted by Full’r tells a story of passion and meticulous craftsmanship, catering to diverse and adventurous palates.
+
+...
+
+[Data](articles/b8af536e.json)
 
 ---
 
@@ -1726,6 +1902,22 @@ The official said that the body of a foreigner was recovered near the 19th railw
 
 ---
 
+### 250 new bridges will be built to boost rural connectivity – President
+
+*2024-06-03 18:01:00* · [`islandlk`](http://island.lk/250-new-bridges-will-be-built-to-boost-rural-connectivity-president/) · `en`
+
+President Ranil Wickremesinghe announced plans to construct 250 new bridges across Sri Lanka to enhance road connectivity and maximize the benefits of national development projects for rural communities.
+
+The President made this announcement while addressing a celebration at the Shangri-La Hotel in Colombo today (03), marking the successful completion of 750 rural bridges by Janson Bridging International from the Netherlands over the period 2014-2024.
+
+During his address, the  President emphasized the government’s commitment to improving the living conditions of people in areas connected by these bridges. He underscored the importance of ensuring that the benefits of economic development reach the poorest segments of society.
+
+...
+
+[Data](articles/406f5307.json)
+
+---
+
 ### Sri Lanka to plant a tree to replace a tree: state minister
 
 *2024-06-03 18:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-plant-a-tree-to-replace-a-tree-state-minister-166002/) · `en`
@@ -2007,229 +2199,5 @@ Powers Picture The opposition leader Sajith Pasathalawa Padiyathala College, Amp
 [Data](articles/15fd1615.json)
 
 [Extended Data](ext_articles/15fd1615.ext.json)
-
----
-
-### Sri Lanka Government awaits Supreme Court ruling to cancel LG polls: State Minister
-
-*2024-06-03 16:55:00* · [`economynextcom`](https://economynext.com/sri-lanka-government-awaits-supreme-court-ruling-to-cancel-lg-polls-state-minister-165984/) · `en`
-
-ECONOMYNEXT – The Sri Lankan government will not enact the necessary legislation to cancel already declared Local Government (LG) polls, a State Minister said, amid growing concerns over potential violations of election laws through various development projects and a poverty alleviation program.
-
-The island’s Election Commission initially scheduled the LG polls for March 9, 2023, later postponing them to April 25, 2023. However, the elections were not held after President Ranil Wickremesinghe’s administration cited a lack of funds due to the country’s recovery from an unprecedented economic crisis.
-
-Despite the postponement, the LG polls have not been officially canceled, meaning that standard election laws, including restrictions on political parties engaging in development projects or distributing funds, remain in effect.
-
-...
-
-[Data](articles/1e7593ec.json)
-
-[Extended Data](ext_articles/1e7593ec.ext.json)
-
----
-
-### Sri Lanka rupee closes flat at 301.90/302.00 to US dollar
-
-*2024-06-03 16:54:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-flat-at-301-90-302-00-to-us-dollar-165992/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed flat at 301.90/302.00 to the US dollar on Monday, dealers said. Bond yields were broadly steady.
-
-A bond maturing on 15.12.2026 closed at 9.70/80 percent down from 9.80/95 percent.
-
-A bond maturing on 15.09.2027 closed at 10.30/45 percent down from 10.40/55 percent.
-
-A bond maturing on 01.07.2028 closed stable at 10.80/90 percent.
-
-◼️
-
-[Data](articles/a077f319.json)
-
-[Extended Data](ext_articles/a077f319.ext.json)
-
----
-
-### 'Indian 2' in the alliance of magnitude
-
-*2024-06-03 16:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/185196) · `ta`
-
-"Indian 2," a highly anticipated Tamil film, reunites Kamal Haasan with director Shankar, six years after "Enthiran 2.0." Featuring a star-studded cast including Siddharth, Kajal Agarwal, Rakul Preet Singh, Surya, and more, it's set for release in five languages on July 12. The film's music launch at Chennai's Nehru Indoor Stadium saw participation from actors like Silambarasan and directors Lokesh Kanakaraj and Nelson Dileep Kumar. Despite a setback during filming due to an accident, the team persevered, completing the project with support from Red Giant Movies.
-
-🟩
-
-"Indian 2 'has been formed in the alliance of Tamil cinema," said GKM Thamilkumaran, CEO of Leica Productions.
-
-Kamal Haasan, Siddharth, Kajal Agarwal, Rakul Preet Singh, Shankar, directed by director Shankar. J.. Surya, Bobby Simha, Priya Bhavani Shankar, Brahmanandam, Samudrakani, Gulshan Grover and many others have played. Anirudh has composed the film, which is being recorded by Ravi Varman. The film was co -produced by Laika Productions and Red Giant Movies.
-
-The film will be released in Tamil, Telugu, Malayalam, Kannada and Hindi on the 12th of July.. The music release of the film was held at the Nehru Indoor Stadium in Chennai on the first day of June. Actor Silambarasan, directors Lokesh Kanakaraj and Nelson Dileep Kumar participated as special guests.
-
-...
-
-[Data](articles/6f6c4eac.json)
-
-[Extended Data](ext_articles/6f6c4eac.ext.json)
-
----
-
-### Artist Karunanidhi: Rahul Gandhi
-
-*2024-06-03 16:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/185223) · `ta`
-
-Rahul Gandhi, a former Congress leader, praised the late Tamil Nadu Chief Minister Karunanidhi for his significant contributions to Indian politics, focusing on social justice, economic equality, and Tamil culture. On Karunanidhi's 101st birthday, tributes were held in New Delhi, attended by several political leaders, including Senia Gandhi, Sitaram Yechury, and D Raja. Rahul Gandhi also shared photos and expressed his admiration for Karunanidhi's impact on countless people across India.
-
-🟩
-
-Former Congress leader and leading leader Rahul Gandhi has praised the "former Tamil Nadu Chief Minister Karunanidhi, the one who made a change in Indian politics."
-
-The 101st birthday of the late former Chief Minister Karunanidhi is celebrated all over Tamil Nadu today.
-
-As part of this, the DMK office in New Delhi held a tribute to artist Karunanidhi.
-
-Senia Gandhi, senior leader of the Congress party, Rahul Gandhi, Sitaram Yechury, General Secretary of the Marxist Communist Party, D Raja, General Secretary of the Communist Party of India, the leading and senior executives of the DMK party, Trichy Siva. R. Many people, including Balu, participated.
-
-Rahul Gandhi has posted photos of artist Karunanidhi's photo on his X site. There with
-
-“He has a heartfelt tributes on the birthday of former Chief Minister of Tamil Nadu Mu Karunanidhi.
-
-...
-
-[Data](articles/3ca7e04a.json)
-
-[Extended Data](ext_articles/3ca7e04a.ext.json)
-
----
-
-### Bodies found in the Harmal
-
-*2024-06-03 16:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197341) · `si`
-
-Two missing individuals, aged 23 and 53, were discovered in the Thawalama region.
-
-🟩
-
-The bodies of the two persons who were disappeared have been found in the Thawalama area.
-
-The victim was a 23 year old and 53 year old.
-
-◼️
-
-[Data](articles/5521ac25.json)
-
-[Extended Data](ext_articles/5521ac25.ext.json)
-
----
-
-### Upcountry train derails
-
-*2024-06-03 16:44:50* · [`adalk`](https://www.ada.lk/breaking_news/උඩරට-දුම්රියක්-පීලි-පනියි/11-409989) · `si`
-
-A train derailment occurred on the Colombo Fort to Badulla route, stopping services between Kotagala and Colombo Fort. Railway employees are handling the situation.
-
-🟩
-
-The Railway Control Room states that the delegation of number seven runs from the Colombo Fort to Badulla has been derailed since the evening.
-
-As a result, the tracks have been stopped at the Kotagala station to the Colombo Fort to the Colombo Fort to Colombo Fort.The Railway Control Room added that the railway carriages have been carried out by the Railway Employees.
-
-◼️
-
-[Data](articles/82ba6ca0.json)
-
-[Extended Data](ext_articles/82ba6ca0.ext.json)
-
----
-
-### Sri Lanka stocks close down, turnover low
-
-*2024-06-03 16:44:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-turnover-low-165988/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed down on Monday, data on its site showed.
-
-The broader All Share Index closed down 0.46 percent, or 56.05 points, at 12,050; while the S&P SL20 Index closed down 0.42 percent, or 15.08 points, at 3,553.
-
-Turnover was 686 million. Most of this came from the food, beverage and tobacco stocks (Rs144mn).
-
-Browns Investments Plc saw the most active volumes (Rs73mn) traded in the day. The share closed down at 5.90.
-
-United Motors Lanka Plc, which announced a cash dividend, closed down at 70.90.
-
-R I L Property Plc, which announced a cash dividend on Friday, closed up at 7.60.
-
-Banks saw mixed sentiments: Sampath Bank Plc closed down at 77.80, Commercial Bank of Ceylon Plc closed up at 106.25, DFCC Bank Plc closed up at 77.50, Hatton National Bank Plc closed flat at 195.25, and National Development Bank Plc closed down at 78.00.
-
-...
-
-[Data](articles/ad7e64ba.json)
-
-[Extended Data](ext_articles/ad7e64ba.ext.json)
-
----
-
-### A train jumps derails
-
-*2024-06-03 16:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197340) · `si`
-
-A train derailment near Hatton and Kotagala stations disrupts the upcountry railway line, affecting a semi-rapid service from Colombo Fort to Badulla.
-
-🟩
-
-The upcountry railway line has been interrupted by a train derailment.
-
-Speaking further the train has been derailed among Hatton and Kotagala railway stations.
-
-A semi-rapid train traveling from Colombo Fort to Badulla has been detected.
-
-◼️
-
-[Data](articles/14791c52.json)
-
-[Extended Data](ext_articles/14791c52.ext.json)
-
----
-
-### Multiple disasters reported around the country
-
-*2024-06-03 16:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Multiple-disasters-reported-around-the-country/108-283998) · `en`
-
-June 3 (Daily Mirror) - Provincial Disaster Management Centers (DMC) have reported multiple disasters across various regions, with heavy rains over the past few days causing widespread flooding and inundating numerous roads throughout the country.
-
-Accordingly, traffic on the Badulla-Spring Valley road came to a standstill due to the fall of trees obstructing the road. The Badulla Disaster Management Unit has taken steps to clear the obstructions.
-
-In Galle seveal roads in Neluwa, Thawalama, Udugama and Mapalagama areas went under water causing obstructions to transport due to the flooding of the Gin Ganga.
-
-Traffic on the Neluwa-Lankagama road too came to a standstill due to a massive eathslip in the Ratnadola area on the borders of the Sinharaja forest.
-
-All access roads to Neluwa hospital had gone under water bringing transport of patients and the hospital staff to a standstill. The expectant mothes and patients liable in need of emergency treatments were flown to the Udugama Base Hospital.
-
-...
-
-[Data](articles/5fbea57c.json)
-
-[Extended Data](ext_articles/5fbea57c.ext.json)
-
----
-
-### Court of Appeal rejects the sension of estate companies demanding the increase in plantation employees
-
-*2024-06-03 16:37:31* · [`adalk`](https://www.ada.lk/breaking_news/වතු-සේවක-වැටුප්-වැඩි-කිරීම-වලක්වමින්--වතු-සමාගම්-ඉල්ලූ-වාරණය-අභියාචනාධිකරණ-ප්‍රතික්ෂේප-කරයි/11-409988) · `si`
-
-The Court of Appeal denied estate companies' request to challenge a labor ministry gazette notification aimed at increasing plantation workers' salaries. The decision was made without issuing an interim order, as the court found no legal basis for the companies' petition.
-
-🟩
-
-The Court of Appeal today refused to issue 21 estimated order to issue 21 estate companies to issue the gazette notification issued by the Ministry of Labor and the Ministry of Labor.
-
-The panel of judges chaired by the Court of Appeal Judge Sobhitha Rajakarana today, the Court of Appeal refused the invisory order.
-
-President's Counsel Faizer Mustafa appeared for the Minister on behalf of the Minister of Labor and Foreign Employment and Additional Solicitor General Secretary General for the Commissioner of Labor and the Secretary General of the Board of Staff.
-
-The State Counselore said that the legal action was taken to increase the salary by the Labor of Labor, according to the Labor Commissioner of Labor on the powers of the Labor.
-
-The President's Counsel Faizzer Mustafa filed the Court of Parliament that the petition filed by estate companies had not signed a legal power.
-
-◼️
-
-[Data](articles/975023f7.json)
-
-[Extended Data](ext_articles/975023f7.ext.json)
 
 ---

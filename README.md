@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-04 15:34:13**
+As of **2024-06-04 15:53:18**
 
 ## Newspaper Stats
 
-*Scraped **28,349** Articles*
+*Scraped **28,350** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,533
 economynextcom | 1,611
 dailyftlk | 1,669
-adalk | 2,415
+adalk | 2,416
 adaderanalk | 3,225
 tamilmirrorlk | 3,330
 virakesarilk | 4,358
@@ -26,25 +26,31 @@ adaderanasinhalalk | 4,555
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,348 (100.0%) of 28,349 articles have been extended.
+28,349 (100.0%) of 28,350 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-04 (Tuesday)
 
-### 7 நாட்கள் பூட்டப்படும் மதுபான நிலையங்கள்
+### 7 days locked liquor stations
 
 *2024-06-04 15:04:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/7-நாட்கள்-பூட்டப்படும்-மதுபான-நிலையங்கள்/175-338425) · `ta`
 
-எதிர்வரும் ஜூன் மாதம் 18ஆம் திகதி முதல் 24ஆம் திகதி வரை  இவ்வாறு மதுபான நிலையங்கள் மூடப்படவுள்ளன.
+Liquor stations in Sri Lanka will close from June 18th to 24th due to the National Poson Festival, affecting stores in Central Nuwarakam, East Nuwarakam, and Mihintale Section 03.
 
-தேசிய பொசன் பண்டிகையை முன்னிட்டு இந்த நாட்களில் மதுபான நிலையங்கள் மூடப்படும் என இலங்கை கலால் திணைக்களம் விடுத்துள்ள அறிக்கையில் தெரிவிக்கப்பட்டுள்ளது.
+🟩
 
-இதன்படி, மத்திய நுவரகம், கிழக்கு நுவரகம்  மற்றும் மிஹிந்தலை பிரிவு 03 ஆகிய பகுதிகளில் உள்ள அனைத்து மதுபானசாலைகளும் அக்காலப்பகுதியில் மூடப்படவுள்ளன.
+The liquor stations will be closed from the 18th to the 24th of June.
+
+The Sri Lanka Excise Department said in a statement that liquor stations will be closed these days ahead of the National Poson festival.
+
+Accordingly, all liquor stores in Central Nuwarakam, East Nuwarakam and Mihintale Section 03 will be closed at that time.
 
 ◼️
 
 [Data](articles/61ec1009.json)
+
+[Extended Data](ext_articles/61ec1009.ext.json)
 
 ---
 
@@ -505,6 +511,24 @@ He also states that children who have asthma should receive respective treatment
 [Data](articles/135075d7.json)
 
 [Extended Data](ext_articles/135075d7.ext.json)
+
+---
+
+### කුඩා දරුවෙකුට අමානුෂිකව පහරදෙන පුද්ගලයෙකු පොලීසියෙන් සොයයි
+
+*2024-06-04 12:08:44* · [`adalk`](https://www.ada.lk/breaking_news/කුඩා-දරුවෙකුට-අමානුෂිකව-පහරදෙන-පුද්ගලයෙකු-පොලීසියෙන්-සොයයි/11-410002) · `si`
+
+පදවිය, වැලිඔය සම්පත් නුවර පොලිස් වසමේ පදිංචි පුද්ගලයෙකු විසින් අවුරුදු 4 ක් පමණ වයසැති කුඩා දරුවෙකුට අමනුෂිකව පහරදෙන වීඩියෝවක් පසුගිය දිනවල සමාජ මාධ්‍ය ඔස්සේ ප්‍රචාරය වීමෙන් පසුව ඒ පිළිබඳව පොලීසිය විසින් පරික්ෂණයක් අරඹා ඇත.
+
+සම්පත්නුවර ප්‍රදේශයේ පදිංචි අදාල සැකකරු විසින් ඔහුගේ නිවසේදී කුඩ දරුවෙකු කෑම කමින් සිටින අතරතුරදී අමානුෂිකව පහරදෙන අයුරු දැක්වෙන වීඩියෝවක් අසල්වැසියෙකු විසින් වීඩියෝ කොට සමාජ මාධ්‍ය වෙත මුදාහැර තිබුණි.
+
+එම අවස්ථාවේම ක්‍රියාත්මක වූ වැලිඔය සම්පත්නුවර පොලීස් ස්ථානධිපති වරුය ඇතුලු නිලධාරීන් පිරිසක් විසින් සැකකරුගේ නිවස වැටලීමක් කොට ඇතත් ඒ වන විටත් සැකකරු ප්‍රදේශයෙන් පලාගොස් සැඟව සිටින බවට පොලීසිය පැවසීය.
+
+සැකකරු ප්‍රදේශයේ කුකුල් චමින්ද නොහොත් බිබිලේ චමින්ද නමින් ප්‍රදේශයේ ප්‍රසිද්ධියට පත්ව ඇති බවටත් මොහු මීට පෙර අවස්ථ කිහිපයකදීම මෙම දරුවාට අමානුෂිකව පහරදෙන අතරම ඔහුට ඇති බිය නිසා කිසිවෙකු පොලීසියට මේ පිළිබඳව දැනුම් දී නොමැති බවටද අසල්වාසීන් පොලීසියට පවසා ඇත.
+
+...
+
+[Data](articles/fef701db.json)
 
 ---
 
@@ -2307,29 +2331,5 @@ There were 4.5 lakh complaints across India over the election. Of these, 98 perc
 [Data](articles/70e5f3ba.json)
 
 [Extended Data](ext_articles/70e5f3ba.ext.json)
-
----
-
-### We will transform the system of employers to exploit the labor of workers - the Minister of Labor
-
-*2024-06-04 02:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/185251) · `ta`
-
-Minister Manusha Nanayakkara announced plans to reform the plantation worker exploitation issue in Sri Lanka, emphasizing the importance of protecting plantations and improving worker wages. He highlighted the need for a daily minimum wage increase from 1000 to 1700 rupees and the adoption of modern technologies to boost productivity. The government is also considering providing land rights to plantation communities and implementing programs to support them, especially in the Badulla district.
-
-🟩
-
-If the employers cannot maintain and improve the gardens, we will take steps to provide the government back and provide them with proper maintenance of the gardens.. Minister of Labor Manusha Nanayakkara said that we will change the way the plantation workers exploit the labor of the plantation workers.
-
-He was speaking at an event held on Sunday, the 2nd of Badulla.
-
-Plantations contribute massively to Sri Lanka's economy. We need to protect plantations and gardens found under the government. Traditionally, our workers who are engaged in this industry are exploiting and working. Plantation workers are only paid 1000 rupees with the old tea plant. We have to change the way the employers are the only rich.
-
-The daily minimum salary of plantation workers should be paid 1700 rupees. Gardens that produce more tea fat using new techniques should be created.Programs to increase the production of modern technology have been launched.
-
-...
-
-[Data](articles/a37d4585.json)
-
-[Extended Data](ext_articles/a37d4585.ext.json)
 
 ---

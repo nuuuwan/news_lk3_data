@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-04 19:03:48**
+As of **2024-06-04 19:18:54**
 
 ## Newspaper Stats
 
-*Scraped **28,384** Articles*
+*Scraped **28,385** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,533
 economynextcom | 1,611
 dailyftlk | 1,669
 adalk | 2,419
-adaderanalk | 3,230
+adaderanalk | 3,231
 tamilmirrorlk | 3,334
 virakesarilk | 4,364
 dailymirrorlk | 4,492
@@ -26,23 +26,47 @@ adaderanasinhalalk | 4,564
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,383 (100.0%) of 28,384 articles have been extended.
+28,384 (100.0%) of 28,385 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-04 (Tuesday)
 
-### බස්නාහිර පාසල් විවෘත කිරීම ගැන ආණ්ඩුකාරවරයාගෙන් උපදෙස්
+### Train delays expected on main line
+
+*2024-06-04 19:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/99663/train-delays-expected-on-main-line) · `en`
+
+The Railway Department says that several office trains operating on the main line this evening could be delayed.
+
+Speaking to the media, Deputy General Manager of Railways Mr. N.J. Indipolage stated that certain trains could experience delays owing to railway tracks being inundated in certain areas between Gampaha and Weyangoda.
+
+He further said that the train delays are caused due to the presence of water on the railway track, causing hindrances to the railway signals.
+
+Accordingly, the Deputy General Manager of Railways further mentioned that trains playing towards areas such as Rambukkana, Polgahawela, Kandy, Kurunegala and Mahawa could also be delayed.
+
+◼️
+
+[Data](articles/ac2364e4.json)
+
+---
+
+### Governor instructs the opening of Western schools
 
 *2024-06-04 18:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197392) · `si`
 
-ගංවතුර තත්ත්වය පහවගොස් ඇති ප්‍රදේශවල පාසල් විවෘත කරන ලෙසට බස්නාහිර පළාතේ සියලුම පාසල්වල විදුහල්පතිවරුන් වෙත උපදෙස් දී තිබේ.
+The Governor of the Western Province, Roshan Gunatilleke, has directed all school principals to reopen schools amidst flood conditions.
 
-බස්නාහිර පළාත් ආණ්ඩුකාර රොෂාන් ගුණතිලක මහතා විසින් මෙම උපදෙස් ලබා දී තිබේ.
+🟩
+
+The floods have instructed principals in all schools in the Western Province to open the floods.
+
+The Governor of the Western Province Roshan Gunatilleke has been given instructions.
 
 ◼️
 
 [Data](articles/691b98b7.json)
+
+[Extended Data](ext_articles/691b98b7.ext.json)
 
 ---
 
@@ -2287,27 +2311,5 @@ According to the Disaster Management Center, 84,749 people from 21,353 families 
 [Data](articles/93b1d8c5.json)
 
 [Extended Data](ext_articles/93b1d8c5.ext.json)
-
----
-
-### Random weather: The number of victims of victims
-
-*2024-06-04 09:28:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சீரற்ற-வானிலை-பலியானோர்-எண்ணிக்கை-உயர்வு/175-338405) · `ta`
-
-In the past two days, severe weather caused 17 deaths across five districts in Sri Lanka, including Matara (6), Ratnapura (5), Colombo (3), Galle (2), and Gampaha (1). Additionally, 84,749 individuals from 21,353 families in eight districts were impacted.
-
-🟩
-
-Seven people have been killed in various disasters due to inclement weather conditions in the country from the first day to the afternoon.
-
-The Disaster Management Center said that there were 06 people in Matara district, 05 in Ratnapura district, 03 in Colombo district, 02 in Galle district and one death in Gampaha district.
-
-According to the Disaster Management Center, 84,749 people from 21,353 families in 08 districts have been affected by bad weather.
-
-◼️
-
-[Data](articles/c26e3015.json)
-
-[Extended Data](ext_articles/c26e3015.ext.json)
 
 ---

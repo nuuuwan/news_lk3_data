@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-04 12:34:05**
+As of **2024-06-04 12:52:31**
 
 ## Newspaper Stats
 
-*Scraped **28,327** Articles*
+*Scraped **28,330** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,74 @@ economynextcom | 1,611
 dailyftlk | 1,669
 adalk | 2,414
 adaderanalk | 3,220
-tamilmirrorlk | 3,327
+tamilmirrorlk | 3,328
 virakesarilk | 4,358
-dailymirrorlk | 4,480
-adaderanasinhalalk | 4,549
+dailymirrorlk | 4,481
+adaderanasinhalalk | 4,550
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,324 (100.0%) of 28,327 articles have been extended.
+28,327 (100.0%) of 28,330 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-04 (Tuesday)
+
+### පළාත් පාලන ආයතනවල රැකියා ලැබෙන හැටි
+
+*2024-06-04 12:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197378) · `si`
+
+පළාත් පාලන ආයතනවල ස්ථිර නොකළ සියලු සේවකයින් ඉක්මණින් රජයේ ස්ථිර සේවකයින් බවට පත්කරන බව රාජ්‍ය අමාත්‍ය ජානක වක්කුඹුර මහතා පවසයි.
+
+අද (04) පාර්ලිමනේතුවේදී ඇසූ ප්‍රශ්නයක පිළිතුර දෙමින් රාජ්‍ය අමාත්‍යවරයා ඒ බව සඳහන් කළේය.
+
+"ඊයේ සියලුම පළාත්පාලන කොමසාරිස්වරුවන්ට දැනුම්දුන්නා අද දවසේ සිට 15 වනදා වෙනකොට මෙම 8,400ක් වෙච්ච ස්ථිර නොකරපු අනියම්, ආදේශ සහ කොන්ත්‍රාත් පදනමේ ඉන්න අය සම්මුඛ පරීක්ෂණයකට භාජනය කරලා අපිට ඒ අයව ස්ථිර කිරීම සඳහා 15 වෙනිදාට කලින් ඒ ලේඛනය හදලා දැනුම්දෙන්න ඒ අයගේ ජ්‍යේෂ්ඨත්වය අනුව. එතකොට අපි ඉක්මන් දිනයක් දීලා ඒ අයගේ ස්ථිර පත්වීම ලබලා දෙනවා."
+
+◼️
+
+[Data](articles/dace40ea.json)
+
+---
+
+### Environmental organizations, certain politicians preventing permanent solutions to floods
+
+*2024-06-04 12:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Environmental-organizations-certain-politicians-preventing-permanent-solutions-to-floods/108-284068) · `en`
+
+Whilst highlighting that the government had come up with permanent solutions to prevent floods, State Minister Pramitha Bandara Tennekoon told Parliament that it has become impossible to implement them because of environmental organizations and certain politicians.
+
+The State Minister came out with this remark in response to requests by both ruling party and opposition MPs for a permanent solution to the floods which hit the South, Kalutara and the Gampaha district.
+
+He also said that 26 persons have died due to the inclement weather conditions while 130,021 persons from 33,422 families have been affected as of today.
+
+◼️
+
+[Data](articles/20ed85db.json)
+
+---
+
+### தமிழகத்தில் நட்சத்திர வேட்பாளர்களின் நிலை
+
+*2024-06-04 12:24:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழகத்தில்-நட்சத்திர-வேட்பாளர்களின்-நிலை/175-338418) · `ta`
+
+2024 மக்களவைத் தேர்தலில் பதிவான வாக்குகளை எண்ணும் பணி இன்று (04.06.2024) காலை சரியாக 8 மணிக்கு தொடங்கி நடைபெற்று வருகிறது. முதலில் தபால் வாக்குகள் எண்ணப்பட்டு, பின்னர் 8.30 மணிக்கு இவிஎம் வாக்குகளை எண்ணும் பணி தொடங்கியது.
+
+கோயம்புத்தூர் மக்களவைத் தொகுதியில் போட்டியிடும் தமிழ்நாடு பாஜக தலைவர் கே. அண்ணாமலை 3,335 வாக்குகள் வித்தியாசத்தில் பின்னடைவைச் சந்தித்துள்ளார். அங்கு திமுக வேட்பாளர் கணபதி ராஜ்குமார் 5127 வாக்குகள் பெற்று முன்னிலையில் உள்ளார்.
+
+தென்சென்னை தொகுதியில் போட்டியிடும் பாஜக வேட்பாளர் தமிழிசை சௌந்தரராஜன் 7,103 வாக்குகள் வித்தியாசத்தில் இரண்டாம் இடத்தில் உள்ளார். அங்கு திமுக வேட்பாளர் தமிழச்சி தங்கபாண்டியன் 18,569 வாக்குகள் பெற்று முன்னிலையில் உள்ளார்.
+
+மத்திய சென்னை திமுக வேட்பாளர் தயாநிதி மாறன் 40,037 வாக்குகள் பெற்று முன்னிலையில் உள்ளார்.
+
+தருமபுரி தொகுதியில் பாஜக கூட்டணியில் போட்டியிடும் பாமக வேட்பாளர் சௌமியா அன்புமணி 1,00,174 வாக்குகள் பெற்று முன்னிலையில் உள்ளார்.
+
+திமுக வேட்பாளர் கனிமொழி, தூத்துக்குடி தொகுதியில் 1,05,856 வாக்குகள் பெற்று முன்னிலையில் உள்ளார்.
+
+...
+
+[Data](articles/be53accd.json)
+
+---
 
 ### Education Directors authorized to decide on school closures due to bad weather
 
@@ -50,23 +104,31 @@ Taking into account the prevailing weather conditions, the Ministry of Education
 
 [Data](articles/23c38288.json)
 
+[Extended Data](ext_articles/23c38288.ext.json)
+
 ---
 
-### මෙහෙමත් අත්අඩංගුවට ගැනිල්ලක්
+### Arrests such
 
 *2024-06-04 12:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197377) · `si`
 
-ව්‍යාපාරිකයින් කිහිප දෙනෙකුට අඟරු චෙක්පත් දුන් කාන්තාවක් අම්පාර පොලිසියේ අපරාධ විමර්ශන අංශයේ නිලධාරිනියන් විසින් අත්අඩංගුවට ගැනීමට ගිය අවස්ථාවේ දී එම කාන්තාවගේ මව පොලීසියට බාධා කරන අයුරු ජංගම දුරකථනයක සටහන් වී තිබිණි.
+A woman accused of threatening several businessmen was arrested by the Ampara Police's Criminal Investigation Unit. Her mother, also a police officer, was later arrested on charges related to her position and uniform. Both were released on bail pending further investigation into the incident.
 
-අදාළ මවව සාපරාධී බලහත්කාරය පෑම, සැකකරුවෙකුට පැනයෑමට උදව් කිරීම හා කාන්තා පොලිස් නිලධාරිනියන්ගේ නිල ඇඳුමට හානි කිරීම යන චෝදනා මත අදාළ සැකකාරියගේ මවව අත්අඩංගුවට ගෙන අම්පාර මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කර තිබේ.
+🟩
 
-පසුව අම්පාර මහෙස්ත්‍රාත් නයෝමි වික්‍රමරත්න මහත්මිය විසින් ලක්ෂයක ශරීර ඇප දෙකක් මත ඇයව නිදහස් කර තිබේ.
+A woman who gave a borm of the businessmen to several businessmen was arrested by the Criminal Investigation Unit of the Ampara Police, the mother of the police in the Ampara Police.
 
-කෙසේවෙතත් මෙම සිදුවීම වූ අවස්ථාවේදී සැකකාර දියණිය එම ස්ථානයෙන් පළා ගොස් ඇති අතර ඇයව සොයා විමර්ශන ක්‍රියාත්මකයි.
+The mother of the suspect has been arrested and produced before the Ampara Magistrate's Court on allegations of criminalized mother and the uniforms of women's police.
+
+Later, he was released on two bail of Rs.
+
+However, the incident was fled by the place and investigations into the matter.
 
 ◼️
 
 [Data](articles/d13c6e69.json)
+
+[Extended Data](ext_articles/d13c6e69.ext.json)
 
 ---
 
@@ -87,6 +149,8 @@ He also states that children who have asthma should receive respective treatment
 ...
 
 [Data](articles/135075d7.json)
+
+[Extended Data](ext_articles/135075d7.ext.json)
 
 ---
 
@@ -2213,65 +2277,5 @@ High Commissioner of Sri Lanka to the United Kingdom Rohitha Bogollagama present
 [Data](articles/353b84ab.json)
 
 [Extended Data](ext_articles/353b84ab.ext.json)
-
----
-
-### Ambassador to Saudi Arabia Ameer Ajwad presents open copies of Credentials
-
-*2024-06-04 02:05:04* · [`dailyftlk`](https://www.ft.lk/news/Ambassador-to-Saudi-Arabia-Ameer-Ajwad-presents-open-copies-of-Credentials/56-762573) · `en`
-
-Ambassador of Sri Lanka to the Kingdom of Saudi Arabia Omar Lebbe Ameer Ajwad presented open copies of his Credentials to the Deputy Minister of Protocol of the Ministry of Foreign Affairs of the Kingdom of Saudi Arabia Abdul Majeed bin Rashed Al Samary, at the Saudi Foreign Ministry headquarters in Riyadh on 2 June.
-
-Deputy Minister Abdul Majeed extended a warm welcome to Ambassador Ameer Ajwad and wished him a fruitful assignment in the Kingdom. In response, while expressing his greetings Ambassador Ameer Ajwad underlined the growing momentum in the bilateral relations between Sri Lanka and Saudi Arabia and highlighted the achievement of 50 years of diplomatic relations between the two countries that falls this year.
-
-...
-
-[Data](articles/682252ea.json)
-
-[Extended Data](ext_articles/682252ea.ext.json)
-
----
-
-### 250 new bridges across the country -President
-
-*2024-06-04 01:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/185249) · `ta`
-
-President Ranil Wickremesinghe announced plans to construct 250 new bridges nationwide to enhance rural connectivity and support national development projects. This initiative follows the successful completion of 750 rural bridges by the Netherlands' Jensen Brijing Company from 2014-2024, aimed at improving the quality of life in rural areas. The government aims to reduce poverty by focusing on rural infrastructure development, expecting a 10% reduction in multidimensional poverty by 2032. The projects, including bridge construction and hospital expansions, are part of efforts to bolster Sri Lanka's rural communities and ensure economic growth benefits low-income individuals.
-
-🟩
-
-President Ranil Wickremesinghe said that it is planning to build 250 new bridges across the country to improve the road structure to provide the benefit of national level development projects to the rural people.
-
-President Ranil Wickremesinghe said this while addressing a function held at the Shankrila Hotel in Colombo on Monday, the 03rd of Monday, ahead of the success of 750 rural bridges in various parts of Sri Lanka by the Netherlands Jenson Brijing Company during the period 2014-2024.
-
-The president said the government was dedicated to improve the quality of life of the people who were linked to these bridges and urged the lower income people to benefit from the country's economy.
-
-The President pointed out that the government's expectation is that the government's expectation is to reduce multi -dimensional poverty by focusing on the people in the countryside, and that such plans to improve the infrastructure in rural areas are very important to achieve that goal.
-
-...
-
-[Data](articles/942b9dc2.json)
-
-[Extended Data](ext_articles/942b9dc2.ext.json)
-
----
-
-### Sinopec opens first renovated filling station with new image, facilities
-
-*2024-06-04 00:51:45* · [`dailyftlk`](https://www.ft.lk/business/Sinopec-opens-first-renovated-filling-station-with-new-image-facilities/34-762566) · `en`
-
-Plans to renovate remaining 149 filling stations over the next three years and explore opportunities for 50 brand new stations
-
-Sinopec Lanka Energy Ltd., yesterday inaugurated its first renovated filling station at a grand re-opening ceremony in Trans Lanka Filling Station, Nawagamuwa, witnessing a major milestone on the company’s first anniversary since entering into Sri Lanka.
-
-After seven months of smooth operation of all 150 stations, this new completion highlights Sinopec’s long-term commitment in revitalising the country’s energy sector. With continuous investments in renovation projects, facilities upgrading, and health, safety and environmental improvements, Sinopec empowers the sustained growth of dealers and partners.
-
-Sinopec’s renovation principles encompass the exterior image and facilities upgrade, the unseen safety measurements that significantly improve safety and environmental protection standards and the training and development of the human resources.
-
-...
-
-[Data](articles/e93d7470.json)
-
-[Extended Data](ext_articles/e93d7470.ext.json)
 
 ---

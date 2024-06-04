@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-04 16:06:09**
+As of **2024-06-04 16:18:55**
 
 ## Newspaper Stats
 
-*Scraped **28,355** Articles*
+*Scraped **28,356** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,40 +19,66 @@ adalk | 2,416
 adaderanalk | 3,226
 tamilmirrorlk | 3,331
 virakesarilk | 4,358
-dailymirrorlk | 4,487
+dailymirrorlk | 4,488
 adaderanasinhalalk | 4,557
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,350 (100.0%) of 28,355 articles have been extended.
+28,355 (100.0%) of 28,356 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-04 (Tuesday)
 
-### ගංවතුර ගැන සෞඛ්‍ය අංශ වෙතින් අනතුරු ඇඟවීමක්
+### Floods alert from Health Sector
 
 *2024-06-04 15:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197385) · `si`
 
-ගංවතුර තත්ත්වයන් පවතින ප්‍රදේශවල ජනතාව සඳහා සෞඛ්‍ය ප්‍රවර්ධන කාර්යාංශයෙන් මාර්ගෝපදේශ මාලාවක් නිකුත් කර තිබේ.
+The Health Promotion Bureau advises avoiding floodwaters due to potential harm and infection risks like leptospirosis. Wear rubber boots and gloves when necessary. Avoid eating contaminated food and ensure children and pets don't come into contact with floodwater. Stay hydrated with safe water, monitor local news, destroy mosquito breeding sites, and practice proper hygiene. Seek medical advice promptly if ill.
 
-එහිද දැක්වෙන්නේ හානිකර බැක්ටීරියා සහ තුවාල ඇති කළ හැකි සුන්බුන් අඩංගු විය හැකි බවින් හැකිතාක් ගංවතුර ජලයේ ඇවිදීම හෝ පිහිනීම නොකළ යුතු බවය.
+🟩
 
-එසේම ගංවතුර හරහා ගමන් කරනවිට ලෙප්ටෝස්පයිරෝසිස් හෙවත් මී උණ වැනි ආසාදන වැලැක්වීම සඳහා හැකි සෑම අවස්ථාවකදීම රබර් බූට් සහ අත්වැසුම් පැළඳීමට හැකිතාක් උත්සාහ කරන ලෙසට ද සෞඛ්‍ය ප්‍රවර්ධන කාර්යාංශය දැනුම්දී තිබේ.
+The Health Promotion Bureau has issued a series of guidelines for the people of flooding areas.
 
-1. ගංවතුර ජලයෙන් හැකිතාක් වළකින්න: ගංවතුර ජලයේ ඇවිදීම හෝ පිහිනීම නොකළ යුතුය. එහි හානිකර බැක්ටීරියා සහ තුවාල ඇති කළ හැකි සුන්බුන් අඩංගු විය හැක.
+It shows that there should be no longer walking or swimming in flood waterings as possible.
 
-2. ගංවතුරෙන් හානියට පත් ආහාර අනුභව නොකරන්න: ගංවතුරෙන් යටවුණු ්‍රදේශවල ඇති පලා වර්ග අනුභවය සහ ගංවතුරෙන් යටවූ ආහාර ඉවත දමන්න.
+The Health Promotion Bureau has also informed the wears of rubber boots and gloves whenever possible to prevent infections such as leptoespirosis or fever as possible.
 
-3. දරුවන් ගංවතුරට නිරාවරණය වීම හැකිතාක් වලක්වන්න: රෝග වැළැක්වීම සඳහා දරුවන් සහ සුරතල් සතුන් දූෂිත ජලයෙන් ඈත් කරන්න.
+1. Avoid floods as possible: The floods should not be walking or swimming in the water. It may contain harmful bacteria and wounds.
 
-4. රෝග ලක්ෂණ නොසලකා හරින්න එපා: ඔබට අසනීප බවක් දැනේ නම්, වෛද්‍ය ප්‍රතිකාර ලබා ගැනීම ප්‍රමාද නොකරන්න.
+2. Do not eat the floods damaged: Destroy the diet of the fleet and the floods in the floods.
+
+3. Prevent as much as possible: Children and pets from corrupt water to prevent disease.
+
+4. Do not ignore the symptoms: If you feel sick, do not delay the medical treatment.
+
+5. Avoid using dirty water: Don't use flooding water to drink, cook, or bathing.
+
+1. Drink only safe water: Use the boiled water or bottled water to prevent water-infectious diseases. Reduce the use of water from flooding wells as possible.
 
 ...
 
 [Data](articles/a4380b59.json)
+
+[Extended Data](ext_articles/a4380b59.ext.json)
+
+---
+
+### Sri Lanka unhappy with T20 World Cup schedule
+
+*2024-06-04 15:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-unhappy-with-T20-World-Cup-schedule/108-284076) · `en`
+
+June 04 - Sri Lanka captain Wanindu Hasaranga and spinner Maheesh Theekshana expressed their dissatisfaction over their scheduling in the T20 World Cup.
+
+After suffering a 6-wicket defeat in their campaign opener against South Africa in a low-scoring affair, Sri Lanka had to quickly wrap up their media commitments.
+
+According to ESPNcricinfo, Sri Lanka had to rush back to their hotel in Brooklyn, pack, check out and then reach at the airport for their 6 pm flight to Dallas for their next game against Bangladesh on Friday (local time). Even before their match against South Africa, Sri Lanka were not able to train. They were held at the Miami airport for seven hours to board their delayed flight to New York.
+
+...
+
+[Data](articles/977a088a.json)
 
 ---
 
@@ -72,31 +98,43 @@ The 15 designated entities include the Liberation Tigers of Tamil Eelam (LTTE), 
 
 [Data](articles/2f7caf93.json)
 
+[Extended Data](ext_articles/2f7caf93.ext.json)
+
 ---
 
-### ලොවම බලා සිටින ඉන්දීය මැතිවරණයෙන් නොසිතූ ප්‍රතිඵලයක්
+### An unexpected result of the Indian election waiting for the world
 
 *2024-06-04 15:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197384) · `si`
 
-මිලියන 969 ක පිරිසක් ඡන්දය භාවිත කිරීමට සුදුසුකම් ලැබූ ලොව විශාලතම ප්‍රජාතන්ත්‍රවාදී මැතිවරණය ලෙස ද සැලකෙන ඉන්දීය මහ මැතිවරණය ආරම්භ වුණේ පසුගිය අප්‍රේල් මස 19 වැනිදාය.
+India's 2024 general election, held over seven phases starting April 19, saw the National Democratic Alliance, led by the Bharatiya Janata Party (BJP), securing 291 seats, short of the 272 needed for majority rule. Despite BJP's 2019 victory with 303 seats, this year's outcome indicates a closer race than expected. The opposition, including the Indian National Congress (INC), showed strength but fell short. Prime Minister Narendra Modi is set for his third term, joining Jawaharlal Nehru as the only PMs to serve three terms. The election also witnessed significant performances from regional parties and notable defeats for key figures like Rahul Gandhi.
 
-දින 44ක් පුරා අදියර 7ක් යටතේ පැවති ඉන්දීය මහ මැතිවරණය පසුගිය සෙනසුරාදා අවසන් වුණි.
+🟩
 
-මිලියන 642 දෙනෙක් ඡන්දය භාවිත කළ මහ මැතිවරණය පැවැත්වුණේ පාර්ලිමේන්තුවේ පහළ මන්ත්‍රී මණ්ඩලය එනම් ලෝක් සභාව ආසන 543කට මන්ත්‍රිවරුන් පත්කරගැනීම සඳහාය.
+The General Election of the Indian general election was held on 19th April.
 
-ඡන්දය ගණනය කිරීම මේ වනවිටත් ක්‍රියාත්මක වන අතර එහි ප්‍රතිඵල ද නිකුත් වෙමින් පවතියි.
+The Indian general election held in 7 phases last Saturday last Saturday.
 
-බොහෝදෙනා අපේක්ෂා කළ ආකාරයෙන්ම මෙවර මැතිවරණයෙන් ද පෙරමුණ ගෙන ඇත්තේ අගමැති නරේන්ද්‍ර මෝදිගේ භාරතීය ජනතා පක්ෂය ප්‍රමුඛ ජාතික ප්‍රජාතන්ත්‍රවාදී සන්ධානයයි.
+The general election of the vote was held to appoint 543 seats for 543 seats.
 
-කෙසේ නමුත් මැතිවරණ කොමිසම නිකුත් කළ නිල නොවන ප්‍රතිඵලවලට අනුව මෝදිගේ සන්ධානය දිනාගෙන ඇත්තේ ආසන 291ක සුළු බහුතරයක් පමණයි.
+The number of votes is already in operation and the results are being released.
 
-දැනට වාර්තා වන නොනිල ප්‍රතිඵලවලට අනුව මෙවර මැතිවරණයෙන් මෝදිගේ සන්ධානයට තුනෙන් දෙකක අහිමිවනු ඇති බවට මේ වනවිටත් පුරෝකථනය කර තිබේ.
+The same way in this year's election, the National Democratic Alliance led by the Bharatiya People's Party has been led by the Bharatiya People's Party.
 
-භාරතීය ජනතා පක්ෂය 2019 මැතිවරණයේදී තනිව ආසන 303ක් ලබාගත් අතර සන්ධානය යටතේ ආසන 400ක් දිනාගැනීම මෝදිගේ සැලසුම වුණි.
+However, according to the unofficial results issued by the Election Commission, Modi's alliance has won only 291 seats.
+
+According to unread constructions, the UPFA has already lost two-thirds.
+
+The Bharatiya Janata Party (People's Party obtained 303 seats alone in the 2019 elections and Mugi's plan was won by 400 seats under the UPFA.
+
+The Inland of India, which is the strong opponent of the government, is in a strong position with 233 world session.
+
+To win the power of the world, any party is compulsory to obtain 272 seats.
 
 ...
 
 [Data](articles/3419cd16.json)
+
+[Extended Data](ext_articles/3419cd16.ext.json)
 
 ---
 
@@ -113,6 +151,8 @@ Speaker Mahinda Yapa Abeywardhane clarified the matter saying that two questions
 ...
 
 [Data](articles/d40cb3bd.json)
+
+[Extended Data](ext_articles/d40cb3bd.ext.json)
 
 ---
 
@@ -178,17 +218,25 @@ The Department of Animal Production and Health comes under the purview of the Mi
 
 ---
 
-### 5 பன்னீர்செல்வங்களின் நிலை என்ன?
+### 5 What is the status of the Pannirselvam?
 
 *2024-06-04 14:40:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/5-பன்னீர்செல்வங்களின்-நிலை-என்ன/175-338424) · `ta`
 
-இராமநாதபுரம் லோக்சபா தொகுதியில் முன்னாள் முதல்வர் பன்னீர்செல்வம் உட்பட அதே பெயரில் மொத்தம் 5 பேர் களமிறங்கினர். அவர்களின் ஓட்டு நிலவரம் வெளியாகியதில், இவர்கள் ஐவரின் ஓட்டுகளை சேர்த்தாலும் ஓபிஎஸ் வெற்றிக்கு உதவாது என்பது கவனிக்கத்தது.
+O. Pannirselvam, a former Chief Minister, is contesting independently in the Ramanathapuram Lok Sabha constituency under the BJP coalition. Despite facing competition from four other candidates with the same name, he remains in second place with 53,167 votes as of June 4th. The presence of these "dummy" candidates does not seem to affect his position significantly.
 
-இராமநாதபுரம் லோக்சபா தொகுதியில் பா.ஜ., கூட்டணி சார்பில் முன்னாள் முதல்வர் ஓ.பன்னீர்செல்வம் 'பலாப்பழம்' சின்னத்தில் சுயேட்சையாக போட்டியிட்டார். இதில் தனது பலத்தை நிரூபித்து அதிமுக.,வினரை ஒன்றிணைத்து கட்சியை கைப்பற்றிவிடலாம் என எண்ணி இருந்தார். ஆனால், அவருக்கு போட்டியாக அதே பன்னீர்செல்வம் பெயரில் மேலும் 4 பேர் சுயேட்சையாக மனுத்தாக்கல் செய்தனர். இதனால் அதிர்ச்சியடைந்த ஓ.பன்னீர்செல்வம், இடைஞ்சல்கள் வந்தாலும் வெற்றி பெறுவோம் என களப்பணியாற்றினார்.
+🟩
+
+A total of 5 people were fielded by the same name, including former chief minister Pannirselvam in the Ramanathapuram Lok Sabha constituency. In the wake of their voting situation, it was noted that the OPS would not help success even if they added five votes.
+
+Former Chief Minister O. Pannirselvam contested independently in the 'Palappalam' symbol on behalf of BJP coalition in Ramanathapuram Lok Sabha constituency. In this, he thought that the AIADMK could unite and capture the party. But, in the name of the same Pannirselvam, four others filed an independent petition for him. Shocked by this, O. Pannirselvam said that even if the interruptions come, we will win.
+
+In this case, as of 12:30 pm today (June 4), former Chief Minister O. Pannirselvam is in 2nd place with 53,167 votes (41,260 votes).. Ochappan's son Pannir Selvam received 573 votes, Pannirselvam, son of Malayandi, 433 votes, Pannirselvam, son of Oyadevar, 314 votes and Pannirselvam, son of Ochadevar.
 
 ...
 
 [Data](articles/d9af24c4.json)
+
+[Extended Data](ext_articles/d9af24c4.ext.json)
 
 ---
 
@@ -2287,27 +2335,5 @@ At the meeting held at Chavakachcheri and Kondavil, the representatives of these
 [Data](articles/ef1302c5.json)
 
 [Extended Data](ext_articles/ef1302c5.ext.json)
-
----
-
-### 1,700 rupees salary: Senthil thanked the judgment
-
-*2024-06-04 03:35:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/1-700-ரூபாய்-சம்பள-விடயம்-தீர்ப்புக்கு-நன்றி-சொன்னார்-செந்தில்/175-338396) · `ta`
-
-Senthil Thondaman, president of Sri Lanka's Workers Congress, expressed gratitude towards the judiciary for its decision regarding plantation worker salaries. This follows the efforts of his predecessors, Chaumiyamoorthy and Arumugan Thondaman, who persisted in advocating for wage increases despite criticism. The judgment has reportedly boosted public confidence.
-
-🟩
-
-Sri Lanka Workers Congress President Senthil Thondaman has thanked the judiciary's verdict on the issue of Rs.
-
-On the salary of plantation workers, the CWC's late leaders Chaumiyamoorthy Thondaman and Arumugan Thondaman have continued to pay a pay rise through the continuing struggles.
-
-The CWC has made criticism and allegations made against the CWC over the wage of plantation workers.. He said that the judiciary's action has created great confidence among the people.
-
-◼️
-
-[Data](articles/35ccd0f7.json)
-
-[Extended Data](ext_articles/35ccd0f7.ext.json)
 
 ---

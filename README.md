@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-04 10:53:30**
+As of **2024-06-04 11:06:31**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,545
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,276 (100.0%) of 28,287 articles have been extended.
+28,287 (100.0%) of 28,287 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,19 +50,27 @@ Nearly 970 million people, more than 10% of the world’s population, were eligi
 
 [Data](articles/9cde077a.json)
 
+[Extended Data](ext_articles/9cde077a.ext.json)
+
 ---
 
-### ලොකු ටාගට් එකක් ඔළුවේ තිබුණා අන්තිම වෙනකල් -වනිඳු
+### A big targate was in his head - Newhini
 
 *2024-06-04 10:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197372) · `si`
 
-20යි 20 ලොක කුසලාන තරගාවලියේ ශ්‍රී ලංකා කණ්ඩායම සහභාගී වූ පළමු තරගය පරාජ වීමට හේතුව නායක වනිඳු හසරංග පැහැදිලි කළේය.
+Sri Lanka's victory in the World Cup match was attributed to their strategy and execution. Leader Fani Hasaranga highlighted the importance of setting a high target, which they aimed to achieve by informing their bowlers about the opposition's weaknesses. They also discussed among themselves to adjust their tactics based on the game's progress, especially after noticing the opposition's struggle against spin. This strategic planning and adaptability led to a successful outcome, showcasing the team's ability to overcome challenges and set a formidable target.
 
-තරගයෙන් අනතුරුව පැවති මාධ්‍ය හමුවට එක්වමින් වනිඳු මාධ්‍යයට පවසා සිටියේ, ලකුණු 160ට වැඩි ලකුණු සංඛ්‍යාවක් තම කණ්ඩායමේ ඉලක්කය වී තිබූ බවත් එය හඹා යෑම පරාජයට හේතු වූ බවත්ය.
+🟩
+
+Leader Fani Hasaranga explained why the Sri Lankan team defeated the first match participated in the World Cup.
+
+The media said to the Fanu Telgu, joining the press conference, and over 160 runs the target of the group, was the cause of the team.
 
 ...
 
 [Data](articles/fb0bca58.json)
+
+[Extended Data](ext_articles/fb0bca58.ext.json)
 
 ---
 
@@ -84,6 +92,8 @@ State Minister of Provincial Councils and Local Government of Sri Lanka, Janaka 
 
 [Data](articles/4f321ddf.json)
 
+[Extended Data](ext_articles/4f321ddf.ext.json)
+
 ---
 
 ### Price of Litro LP gas reduced
@@ -100,35 +110,49 @@ Meanwhile, the price of the 2.3 kg cylinder has been reduced by Rs. 28, bringing
 
 [Data](articles/f0971da9.json)
 
+[Extended Data](ext_articles/f0971da9.ext.json)
+
 ---
 
-### විදුලිබල පනත ගැන ශ්‍රේෂ්ඨාධිකරණ තීන්දුව පාර්ලිමේන්තුවට
+### Supreme Court verdict on the Electricity Act
 
 *2024-06-04 10:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197371) · `si`
 
-රජය විසින් පාර්ලිමේන්තුවට ඉදිරිපත්කර තිබෙන විදුලිබල පනත් කෙටුම්පතට එරෙහි පෙත්සම් විභාගයේ ශ්‍රේෂ්ඨාධිකරණ තීන්දුව අද (04) කථානායකවරයා විසින් පාර්ලිමේන්තුවට ඉදිරිපත් කළේය.
+The Supreme Court delivered its verdict on the Electricity Act to Parliament, addressing concerns raised against the government's Power and Power Project petition.
+
+🟩
+
+The Supreme Court verdict was presented to parliament today (04) at the Petition Examination against the Power and Power Project presented by the government.
 
 ◼️
 
 [Data](articles/9a39a132.json)
 
+[Extended Data](ext_articles/9a39a132.ext.json)
+
 ---
 
-### ලිට්‍රෝ ගෑස් මිල පහළට
+### Litro gas prices down
 
 *2024-06-04 09:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197370) · `si`
 
-ගෑස් මිල ගණන් අද (04) මධ්‍යම රාත්‍රියේ සිට අඩු කිරීමට පියවර ගත් බව ලිට්‍රෝ ගෑස් සමාගම පවසයි.
+Litro Gas Company reduced prices from midnight: a 12.5 kg cylinder dropped, 5kg by Rs. 1,525 million, and a 2.3 kg cylinder also saw a decrease.
 
-ඒ අනුව කිලෝග්‍රෑම් 12.5ක ගෑස් සිලින්ඩරයක් රුපියල් 150කින් අඩු කර ඇති අතර එහි නව මිල රුපියල් 3,790කි.
+🟩
 
-කිලෝග්‍රෑම් 5ක ගෑස් සිලින්ඩරයක මිල රුපියල් 60කින් අඩු කර ඇති අතර එහි නව මිල රුපියල් 1,525කි.
+Litro Gas Company says that the prices taken to reduce gas prices from midnight (04).
 
-කිලෝග්‍රෑම් 2.3ක ගෑස් සිලින්ඩරයක් මිල රුපියල් 28කින් අඩු කර ඇති අතර එහි නව මිල රුපියල් 712කි.
+Accordingly, a 12.5 kilogram gas cylinder has been reduced by Rs.
+
+The price of a 5kg gas cylinder has been reduced by Rs. 1,525 million.
+
+A 2.3 kilogram gas cylinder has been reduced by Rs.
 
 ◼️
 
 [Data](articles/3de9b390.json)
+
+[Extended Data](ext_articles/3de9b390.ext.json)
 
 ---
 
@@ -150,17 +174,27 @@ He mentioned that they will discuss with the trade union representatives regardi
 
 ---
 
-### ගංවතුර තත්ත්වය සමග රෝග කිහිපයක් හිස ඔසවයි
+### A few diseases with floods
 
 *2024-06-04 09:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197369) · `si`
 
-පවතින වැසි සහිත කාලගුණ තත්ත්වය සහ ගංවතුර තත්ත්වයත් සමඟ රෝග කිහිපයක ව්‍යාප්තිය වැඩිවනු ඇති බව සෞඛ්‍ය අංශ අනතුරු අඟවයි.
+Floods increase risks of diseases like diarrhea, dysentery, fever, and influenza due to contamination of water and food. Pediatrician Dr. Deepal Perera highlights the importance of hygiene and disinfection to prevent these illnesses. Additionally, the spread of rat fever is a concern, emphasizing the need for vigilance and cleanliness in affected areas.
 
-ළමා රෝග විශේෂඥ වෛද්‍ය දීපාල් පෙරේරා මහතා සඳහන් කළේ පාචනය, අතීසාරය, උණසන්නිපාතය සහ ඉන්ෆ්ලුවෙන්සා වැනි රෝග තත්ත්වයන් ව්‍යාප්ත වීමේ වැඩි අවධානමක් පවතින බවය.
+🟩
+
+The health sector warns that several diseases will increase in several diseases with the flooding and floods.
+
+Pediatrician Dr. Deepal Perera said that the risk of diarrhea, dysentery, fever and influenza.
+
+"Diarrhea, diarrhea, fever, and influenza is the widespread disease, especially in diarrhea, is contaminated by diaries and dirty food. Often this is a virus. The symptoms are symptoms like vomiting, pride, rice hurts with fever. Secondly, if the toilets are bleeding in addition to the blew. In addition, the influenza disease is still spreading these days. Therefore, this can be the influenza if the coughing spreads from a fever family. In addition, the cold time has room for childness to rise. If you have difficulty breathing in breathing, find out if a child will be childhood. If there are children who have children for a long time, use the inhalyles. "
+
+Meanwhile, the prevalence of rat fever can also increase the prevalence of rat fever.
 
 ...
 
 [Data](articles/3a03b276.json)
+
+[Extended Data](ext_articles/3a03b276.ext.json)
 
 ---
 
@@ -188,23 +222,29 @@ The Ministry of Education has announced to the Zonal Education Officers to hold 
 
 ---
 
-### පාර්ලිමේන්තු සභාවාරය ඇරඹේ
+### Parliamentary Council begins
 
 *2024-06-04 09:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197368) · `si`
 
-කථානායක මහින්ද යාපා අබේවර්ධන මහතාගේ ප්‍රධානත්වයෙන් පාර්ලිමේන්තු කටයුතු මේ වනවිට ආරම්භ වී තිබේ.
+The Parliamentary Council started under Mahinda Yapa Abeywardena, focusing on the Women's Empowerment Bill's second reading. President Ranil Wickremesinghe urged government MPs for support, aiming for economic stability through new bills.
 
-අද දිනයේ දී කාන්තා සවිබල ගැන්වීමේ පනත් කෙටුම්පත දෙවන වර කියවීමේ විවාදය පැවැත්වීමට නියමිත බව පාර්ලිමේන්තුවේ සන්නිවේදන දෙපාර්තමේන්තුව සඳහන් කළේය.
+🟩
 
-ජුනි මස 06 වන දින ශ්‍රී ලංකා විදුලිබල පනත් කෙටුම්පත දෙවන වර කියවීමේ විවාදය පැවැත්වීමට නියමිත අතර රාජ්‍ය ණය කළමනාකරණ පනත් කෙටුම්පත දෙවන වර කියවීමේ විවාදය ජුනි මස 07 වන දින පැවැත්වීමට නියමිතය.
+Parliamentarian Mahinda Yapa Abeywardena has begun.
 
-මෙම සතිය තුළ ඉතා වැදගත් පනත් කිහිපයක් සම්මත කර ගැනීමට නියමිත බැවින් ඒ ස﻿ඳහා ආණ්ඩු පක්ෂයේ සියලු මන්ත්‍රීවරුන්ගේ සහයෝගය ලබාදෙන ලෙස ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ආණ්ඩු පක්ෂ මන්ත්‍රී කණ්ඩායම් රැස්වීමේදී ඉල්ලීමක් කර තිබේ.
+The second reading of the Women's Empowerment Bill will be held today, said the Department of Parliament.
 
-මෙම නව පනත් කෙටුම්පත් තුළින් රටේ ආර්ථික ස්ථාවරත්වය ඇතිකිරීමට හැකිවනු ඇති බව මුදල් රාජ්‍ය අමාත්‍ය ෂෙහාන් සේමසිංහ මහතා සඳහන් කළේය.
+The Second Reading Debate on the 6th of June will be held on the 7th Reading Debate on the 7th of June.
+
+President Ranil Wickremesinghe has requested the Government Member of Parliament to extend the support of all the ruling party members to be adopted this week.
+
+The new bills will be able to create economic stability of the country.
 
 ◼️
 
 [Data](articles/ce378e30.json)
+
+[Extended Data](ext_articles/ce378e30.ext.json)
 
 ---
 
@@ -272,43 +312,55 @@ Police say that the boatmen were electrocuted and fell into the boat, but they h
 
 ---
 
-### ඇෆ්ගනිස්තානයට සුපිරි ජයක්
+### Superfected for Afghanistan
 
 *2024-06-04 09:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197367) · `si`
 
-20යි 20 ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ ඇෆ්ගනිස්තානය සහ උගන්ඩාව අතර පැවති තරගයෙන් ලකුණු 125ක විශිෂ්ට ජයක් ලබාගැනීමට ඇෆ්ගනිස්තානය සමත්වුණි.
+In a cricket match, Afghanistan defeated Uganda with Rahamanullah Gurbaz scoring 76 and Ibrahim Zadran 70. Cosmas Kyewuta and Brian Masaba took two wickets each. Uganda fell short with 58 runs in 16 overs chasing 184.
 
-එහිදී පළමුව පන්දුවට පහරදුන් ඇෆ්ගනිස්තාන කණ්ඩායම නියමිත පන්දු ඕවර 20 අවසානයේ කඩුලු 5ක් දැවී ලකුණු 183ක් රැස්කළේය.
+🟩
 
-එහිදී Rahmanullah Gurbaz ලකුණු 76ක් රැස්කළ අතර Ibrahim Zadran ලකුණු 70ක් රැස්කළේය.
+Afghanistan was won by Afghanistan and Uganda won the match between Afghanistan and Uganda.
 
-පන්දු යැවීමෙන් Cosmas Kyewuta සහ Brian Masaba කඩුලු 2 බැගින් දවාගත්හ.
+The Afghan group scored 183 runs for the loss of 5 wickets in the end of 20 overs.
 
-ලකුණු 184ක ඉලක්කයක් හඹාගිය උගන්ඩා කණ්ඩායම පන්දුවාර 16දී රැස්කරගත හැකි වූයේ ලකුණු 58ක් පමණි.
+Rahamanullah Gurbaz scored 76 runs and the IBrahim Zadran scored 70 runs.
+
+Bowling cosmas kyewuta and brian masaba took 2 wickets each.
+
+Chasing a target of 184, the Uganda team scored only 58 runs in 16 overs.
 
 ◼️
 
 [Data](articles/0e5efeeb.json)
 
+[Extended Data](ext_articles/0e5efeeb.ext.json)
+
 ---
 
-### ඉන්දීය මහ මැතිවරණයේ ඡන්ද ගණන් කිරීම ඇරඹේ
+### Counting of votes in the Indian general election begins
 
 *2024-06-04 09:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197366) · `si`
 
-සති 6ක් පුරා පැවති ලොව විශාලතම මැතිවරණය ලෙස සැලකෙන ඉන්දීය මහ මැතිවරණය, අදියර 7ක් යටතේ පැවැත්වුණි.
+The Indian General Election, the world's largest, spanned seven stages with billions of registered voters aiming to fill 543 parliamentary seats. Critics predict a third term for incumbent Prime Minister Narendra Modi, whose alliance reportedly secured 209 seats.
 
-ඡන්ද දායකයින් බිලියනක් පමණ ප්‍රමාණයක් ඡන්දය ප්‍රකාශ කිරීම සඳහා ලියාපදිංචි වී තිබිණි.
+🟩
 
-ඉන්දීය පාර්ලිමේන්තුවේ ආසන 543ක් තිබෙන අතර, ඉන් ආසන 272ක් හෝ ඊට වැඩි ප්‍රමාණයක් ජයගන්නා පක්ෂය හෝ සන්ධානය මැතිවරණයේ ජයග්‍රාහකයින් ලෙස සැලකේ.
+The General Election of the Indian General Election was held under seven stages, considered the largest election in the world.
 
-විචාරකයින් පවසන්නේ, වර්තමාන අග්‍රාමාත්‍ය නරේන්ද්‍ර මෝදි සිය තෙවැනි ධුර කාලය සඳහා මෙම මැතිවරණය ජය ගනු ඇති බවය.
+About billions of voters were registered to vote.
 
-මේ අතර, මෙතෙක් නිකුත් කර ඇතැයි පැවසෙන නිල නොවන ප්‍රතිඵල අනුව අග්‍රාමාත්‍යවරයාගේ සන්ධානය ආසන 209ක් හිමිකර ගෙන ඇති අතර, රාහුල් ගාන්ධිගේ සන්ධානය 144ක් හිමිකර ගෙන තිබේ.
+There are 543 seats in the Indian parliament, the party or all over the winning or more seats, are considered as winners.
+
+Critics say that the present Prime Minister Narendra Modi will win this election for his third term.
+
+Meanwhile, the Prime Minister's Alliance (UPFA) has won 209 seats, according to the uniforms that have been issued.
 
 ◼️
 
 [Data](articles/bbc3d76d.json)
+
+[Extended Data](ext_articles/bbc3d76d.ext.json)
 
 ---
 

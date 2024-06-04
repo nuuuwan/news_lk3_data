@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-04 09:53:20**
+As of **2024-06-04 10:04:36**
 
 ## Newspaper Stats
 
-*Scraped **28,267** Articles*
+*Scraped **28,274** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,10 +14,10 @@ bbccomsinhala | 277
 newsfirstlk | 363
 islandlk | 1,533
 economynextcom | 1,606
-dailyftlk | 1,666
+dailyftlk | 1,669
 adalk | 2,410
 adaderanalk | 3,211
-tamilmirrorlk | 3,316
+tamilmirrorlk | 3,320
 virakesarilk | 4,350
 dailymirrorlk | 4,471
 adaderanasinhalalk | 4,538
@@ -26,11 +26,81 @@ adaderanasinhalalk | 4,538
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,265 (100.0%) of 28,267 articles have been extended.
+28,267 (100.0%) of 28,274 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-04 (Tuesday)
+
+### பாடசாலை விடுமுறை குறித்து மீண்டும் விஷேட அறிவிப்பு
+
+*2024-06-04 09:37:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாடசாலை-விடுமுறை-குறித்து-மீண்டும்-விஷேட-அறிவிப்பு/175-338406) · `ta`
+
+நாட்டில் நிலவும் மழையுடனான சீரற்ற வானிலையை அடுத்து, இன்று பல பாடசாலைகளுக்கு விடுமுறை வழங்கப்பட்டுள்ளது.
+
+தென் பகுதியில் நிலவும் அதிக மழையுடனான வானிலையை அடுத்து, காலி மற்றும் மாத்தறை ஆகிய மாவட்டங்களிலுள்ள அனைத்து  பாடசாலைகளுக்கு நாளையும் (05) விடுமுறை வழங்கப்பட்டுள்ளது.
+
+வானிலை நிலைமையை கருத்தில் கொண்டு, எதிர்வரும் நாட்களில் பாடசாலைகளை நடத்துவது தொடர்பான தீர்மானத்தை எடுக்கும் பொறுப்பு, வலய கல்வி அதிகாரிகளுக்கு வழங்கப்பட்டுள்ளது.
+
+மாகாண கல்வி அதிகாரிகளுடன் கலந்துரையாடல்களை நடாத்தி, தீர்மானத்தை எடுக்குமாறு வலய கல்வி அதிகாரிகளுக்கு கல்வி அமைச்சு அறிவித்துள்ளது. R
+
+◼️
+
+[Data](articles/0e267ace.json)
+
+---
+
+### சீரற்ற வானிலையால் பலி எண்ணிக்கை 17ஆக உயர்வு
+
+*2024-06-04 09:28:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சீரற்ற-வானிலையால்-பலி-எண்ணிக்கை-17ஆக-உயர்வு/175-338405) · `ta`
+
+கடந்த முதலாம் திகதி தொடக்கம் நேற்று (03) பிற்பகல் வரையான காலப்பகுதியில் நாட்டில் நிலவிய சீரற்ற காலநிலை காரணமாக ஏற்பட்ட பல்வேறு அனர்த்தங்களில் 17 பேர் உயிரிழந்துள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
+
+மாத்தறை மாவட்டத்தில் 06 பேரும், இரத்தினபுரி மாவட்டத்தில் 05 பேரும், கொழும்பு மாவட்டத்தில் 03 பேரும், காலி மாவட்டத்தில் 02 பேரும், கம்பஹா மாவட்டத்தில் ஒரு மரணமும் பதிவாகியுள்ளதாக அனர்த்த முகாமைத்துவ நிலையம் தெரிவித்துள்ளது.
+
+நேற்றைய நிலவரப்படி 08 மாவட்டங்களில் 21,353 குடும்பங்களைச் சேர்ந்த 84,749 பேர் மோசமான காலநிலையால் பாதிக்கப்பட்டுள்ளதாக அனர்த்த முகாமைத்துவ நிலையம் கூறியுள்ளது.
+
+◼️
+
+[Data](articles/93b1d8c5.json)
+
+---
+
+### வெள்ளம் பார்க்க படகில் சென்றவர் மரணம்
+
+*2024-06-04 09:25:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெள்ளம்-பார்க்க-படகில்-சென்றவர்-மரணம்/175-338404) · `ta`
+
+புலத்சிங்கள பகுதியில் ஏற்பட்ட வெள்ளத்தைப் பார்ப்பதற்காக நேற்று (03) மாலை படகில் சென்றவர் மின்சாரம் தாக்கி உயிரிழந்துள்ளார்.
+
+படகு ஒன்றில் 20 பேர் கொண்ட குழு ஒன்று சென்ற போது, குறித்த படகு உயர் மின்கம்பியில் மோதியதில் மின்சாரம் தாக்கியதில் புலத்சிங்கள திவலகட பிரதேசத்தைச் சேர்ந்த லொகு சின்ஹாரச்சிகே தமித் குமார என்ற இளைஞன் உயிரிழந்துள்ளார்.
+
+குறித்த குழுவினர் பயணித்த படகை உயிரிழந்த இளைஞன் ஓட்டிச் சென்றதுடன், துடுப்பை ஏந்திய போது, உயர்நிலை மின்கம்பியில் மோதி வெள்ளத்தில் விழுந்துள்ளார்.
+
+படகில் இருந்தவர்களும் மின்சாரம் தாக்கி படகிற்குள் விழுந்ததாகவும், ஆனால் அவர்களுக்கு எந்த பாதிப்பும் ஏற்படவில்லையென்றும் பொலிஸார் கூறுகின்றனர். R
+
+◼️
+
+[Data](articles/3109218b.json)
+
+---
+
+### இன்று முதல் காலநிலையில் மாற்றம்
+
+*2024-06-04 09:09:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-முதல்-காலநிலையில்-மாற்றம்/175-338403) · `ta`
+
+நாட்டின் தென்மேற்குப் பகுதியில் தற்போது நிலவும் பலத்த மழை நிலைமை இன்று தொடக்கம் தற்காலிகமாக குறைவடையும் என எதிர்பார்க்கப்படுவதாக வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது.
+
+மேல், சப்ரகமுவ, மத்திய, தென் மற்றும் வடமேல் மாகாணங்களில் அவ்வப்போது மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடிய சாத்தியம் காணப்படுகின்றது.
+
+நாட்டின் ஏனைய பிரதேசங்களில் பல இடங்களில் மாலையில் அல்லது இரவில் மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடிய சாத்தியம் காணப்படுகின்றது.
+
+நாட்டைச் சூழவுள்ள கடற்பரப்புகளில் காற்றானது தென்மேற்கு திசையிலிருந்து வீசக் கூடுவதுடன் காற்றின் வேகமானது மணித்தியாலத்துக்கு 30-40 கிலோ மீற்றர் வரை காணப்படும் என எதிர்பார்க்கப்படுகின்றது. R
+
+◼️
+
+[Data](articles/eb87538a.json)
+
+---
 
 ### Person stabbed to death with a sharp weapon in Madampe
 
@@ -87,6 +157,8 @@ Sri Lanka’s central bank has maintained monetary stability by not printing mon
 ◼️
 
 [Data](articles/f17a3347.json)
+
+[Extended Data](ext_articles/f17a3347.ext.json)
 
 ---
 
@@ -281,6 +353,8 @@ Sri Lanka has raised state worker salaries in 2024 by 10,000 rupees, effective A
 ...
 
 [Data](articles/578b88c4.json)
+
+[Extended Data](ext_articles/578b88c4.ext.json)
 
 ---
 
@@ -937,6 +1011,24 @@ World No Tobacco Day was celebrated in many parts of the world over the weekend,
 [Data](articles/e8927ca9.json)
 
 [Extended Data](ext_articles/e8927ca9.ext.json)
+
+---
+
+### Switch in policy needed: Tobacco control in Sri Lanka a failed experiment
+
+*2024-06-04 02:18:28* · [`dailyftlk`](https://www.ft.lk/columns/Switch-in-policy-needed-Tobacco-control-in-Sri-Lanka-a-failed-experiment/4-762579) · `en`
+
+Authorities and lobbyists continue to focus solely on the legitimate cigarette market, completely overlooking the illicit segment
+
+Need arising to protect public and children from regressive policy and inaction
+
+Sri Lanka cannot prosper in the backdrop of vested policies and exhibitionism
+
+World No Tobacco Day was celebrated in many parts of the world over the weekend, and despite some lip service to the cause here in Sri Lanka, the actualities have it all up in smoke. On paper, the country espouses to have its tobacco control policy right, but it is its practice that ultimately determines success and here it has failed.
+
+...
+
+[Data](articles/ffda686d.json)
 
 ---
 
@@ -1640,6 +1732,20 @@ My previous article titled “Parate execution: The last option and ‘not’ th
 
 ### Inflation on what horizon?
 
+*2024-06-03 21:06:56* · [`dailyftlk`](https://www.ft.lk/columns/Inflation-on-what-horizon/4-762544) · `en`
+
+The Central Bank should be urged to unwind its large Treasury bill holdings, depreciate the currency aggressively, and cut the statutory reserve ratio to encourage risk-taking by banks
+
+Many of us were puzzled by the recent monetary policy announcement where the monetary board chose not to lower interest rates, despite inflation being below 5%. When a journalist questioned the Governor about this, asking if they expected inflation to exceed 5% in the latter half of the year, it was like asking if the emperor had any clothes on. The governor’s response was unclear, referencing a dynamic model before deferring to Dr. S. Jegajeevan, head of the Economic Research Department. Dr. Jegajeevan clarified that they do not foresee inflation approaching 5% later this year.
+
+...
+
+[Data](articles/28c64c56.json)
+
+---
+
+### Inflation on what horizon?
+
 *2024-06-03 21:06:56* · [`dailyftlk`](https://www.ft.lk/opinion/Inflation-on-what-horizon/14-762544) · `en`
 
 The Central Bank should be urged to unwind its large Treasury bill holdings, depreciate the currency aggressively, and cut the statutory reserve ratio to encourage risk-taking by banks
@@ -1651,6 +1757,20 @@ Many of us were puzzled by the recent monetary policy announcement where the mon
 [Data](articles/81c601b4.json)
 
 [Extended Data](ext_articles/81c601b4.ext.json)
+
+---
+
+### Postponing elections: Are there limits to popular sovereignty?
+
+*2024-06-03 21:00:28* · [`dailyftlk`](https://www.ft.lk/columns/Postponing-elections-Are-there-limits-to-popular-sovereignty/4-762543) · `en`
+
+As long as a two-thirds majority in Parliament passes a constitutional amendment or a new constitution and a majority of the People approves the same, are there no limitations to what can be done?
+
+United National Party Secretary Range Bandara’s statement at a media briefing at UNP Headquarters that the terms of the current President and current Parliament should be extended by two years ‘to save the Nation’ has drawn the ire of the people at large, with even the UNP’s ally (for the moment?), the Sri Lanka Podujana Peramuna distancing itself from the proposal. The essence of the people’s response is that the present Parliament has lost its legitimacy, and President Wickremesinghe has been elected not by the People directly but by that very Parliament for the remainder of the term of President Gotabaya Rajapaksa, who was forced to resign.
+
+...
+
+[Data](articles/0a660bae.json)
 
 ---
 
@@ -2093,165 +2213,5 @@ This is the highest prize money allocated for a Twenty20 World Cup.
 [Data](articles/948676e8.json)
 
 [Extended Data](ext_articles/948676e8.ext.json)
-
----
-
-### Record prize money declared for T20 World Cup 2024
-
-*2024-06-03 18:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/99638/record-prize-money-declared-for-t20-world-cup-2024) · `en`
-
-The ICC Men’s T20 World Cup 2024 winners will receive the highest amount in the tournament’s history.
-
-This ninth edition will see 20 teams competing over 28 days across nine venues in the West Indies and USA, making it the largest event of its kind.
-
-The runners-up will earn at least $1.28 million, while the losing semi-finalists will take home $787,500 each. Teams that do not advance past the second round will receive $382,500 each, and those finishing between ninth and 12th place will get $247,500 each.
-
-Teams ranking from 13th to 20th place will each earn $225,000. Additionally, every team will receive an extra $31,154 for each match won, excluding the semi-finals and finals.
-
-The tournament will start with 40 matches in the first round, leading to the Super 8s, followed by the semi-finals in Trinidad and Tobago and Guyana. The final match will take place at the Kensington Oval in Barbados, where the 2024 men’s champions will be crowned.
-
-...
-
-[Data](articles/2645a614.json)
-
-[Extended Data](ext_articles/2645a614.ext.json)
-
----
-
-### The person who lied to 119 was the punishment
-
-*2024-06-03 18:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197346) · `si`
-
-A man sentenced to 5 years' suspended jail time for lying about the 119 emergency number was brought before the Hatton Magistrate's Court. The case unfolded when he falsely claimed to have contacted the police through this number. Following an investigation, he was found guilty and sentenced to death, later commuted to suspension due to his false accusation against a police officer.
-
-🟩
-
-119 The Police Emergency Calling Circulars sentenced to 5 years suspended.
-
-The suspect was produced before the Hatton Magistrate's Court today, Mr. District Judge M. Fearine has issued the order.
-
-On November 6, the suspect was referring to the 119 Police Emergency Calling Number of Police.
-
-Hatton Assistant Superintendent Mr Faroook has gone to the Ginigathena police station and the relevant information had been revealed to be false information.
-
-Accordingly, a investigation was conducted by the suspect and was sentenced to death after the suspect was accepted by the suspect.
-
-The suspect had further ordered the suspect, the police officer who investigated 10,000 rupees.
-
-◼️
-
-[Data](articles/394d6469.json)
-
-[Extended Data](ext_articles/394d6469.ext.json)
-
----
-
-### Multiple charges against bus driver arrested for driving along railway track
-
-*2024-06-03 18:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/99637/multiple-charges-against-bus-driver-arrested-for-driving-along-railway-track) · `en`
-
-The Avissawella Magistrate’s Court has ordered for the driver of the private bus that was driven along the railway track in the Puwakpitiya area, to be remanded in custody until June 14.
-
-The bus driver, who was arrested in the Embilipitiya area yesterday (02), was produced before the court today (03).
-
-Police have filed several charges against the driver including attempted murder, driving while his driving license has been suspended, driving under the influence of intoxicating drugs and causing damage to government property.
-
-Meanwhile, the bus in question has also been taken into police custody.
-
-A video of a private passenger bus being driven along the railway tracks parallel to a congested main road had sparked controversy across social media on Sunday (02).
-
-◼️
-
-[Data](articles/f051cfce.json)
-
-[Extended Data](ext_articles/f051cfce.ext.json)
-
----
-
-### The unhappy fate of a foreigner traveled on the train
-
-*2024-06-03 18:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197345) · `si`
-
-A foreigner died in a train crash between Nanu Oya and Idalgasinnna stations while traveling from Colombo Fort to Badulla. The body was taken to Haputale Railway Station.
-
-🟩
-
-A foreigner traveling on the train was dies after collision with the train tunnel.
-
-The deceased has been identified as a train traveling from Colombo Fort to Badulla.
-
-Our correspondent stated that the foreigner was killed when the number 19 trains collided between Nanu Oya and Idalgagasinna railway stations.
-
-The body of the foreigner was brought to the Haputale Railway Station.
-
-◼️
-
-[Data](articles/91a9f4cb.json)
-
-[Extended Data](ext_articles/91a9f4cb.ext.json)
-
----
-
-### More than 84,000 persons affected, death toll rises to 16
-
-*2024-06-03 18:27:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/More-than-84-000-persons-affected-death-toll-rises-to-16/108-284004) · `en`
-
-Colombo, June 3 (Daily Mirror) - More than 84,000 people from 21,353 families have been affected by the ongoing adverse weather conditions, bringing the total number of deaths to 16, Disaster Management Centre (DMC) Director Pradeep Kodippili said.
-
-He said only six people were reported to have been injured during the situation and five persons had gone missing.
-
-The deaths were reported from Ratnapura (5), Colombo (3), Matara (6) and Galle (2) districts from June 1.
-
-Accordingly, people within eight districts have been affected and among them 77 have been sent to 77 safe locations.
-
-A total of six houses were damaged completely and 1,214 houses were partially damaged.
-
-◼️
-
-[Data](articles/ff551434.json)
-
-[Extended Data](ext_articles/ff551434.ext.json)
-
----
-
-### People affected by floods
-
-*2024-06-03 18:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/People-affected-by-floods/110-284003) · `en`
-
-People in the Biyagama and Gampaha areas were affected due to the ongoing adverse weather conditions. Those in the Gampaha area were affected due to the overflow of the Attanagalu Oya. Pix by Kushan Pathiraja and Nimalsiri Edirisinghe
-
-◼️
-
-[Data](articles/f789ab3f.json)
-
-[Extended Data](ext_articles/f789ab3f.ext.json)
-
----
-
-### Bus swing driver accused of railroad
-
-*2024-06-03 18:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197344) · `si`
-
-A bus swing driver was arrested by Embilipitiya police for damaging railway lines and government property during bad weather. The driver was remanded until June 14th after appearing before the Avissawella Magistrate's Court.
-
-🟩
-
-The driver of the railway line was remanded until June 14 on June 14.
-
-The injunction has been issued after the suspect was produced before the Avissawella Magistrate's Court.
-
-The suspect driver was arrested by Embilipitiya police and handed over to Avissawella police.
-
-The police have filed a number of accusations against the suspect.
-
-The attempted attempt to kill the driver's license, driving, driving drives and drivers have been severely damaged by the loss of government property.
-
-With the adverse weather conditions that were running along the railway line with the inclement weather, the suspect was conducted in the railway line, the suspect was arrested by the police.
-
-◼️
-
-[Data](articles/9709890a.json)
-
-[Extended Data](ext_articles/9709890a.ext.json)
 
 ---

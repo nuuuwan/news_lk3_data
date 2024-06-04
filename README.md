@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-04 10:04:36**
+As of **2024-06-04 10:19:02**
 
 ## Newspaper Stats
 
-*Scraped **28,274** Articles*
+*Scraped **28,276** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,533
 economynextcom | 1,606
 dailyftlk | 1,669
 adalk | 2,410
-adaderanalk | 3,211
+adaderanalk | 3,213
 tamilmirrorlk | 3,320
 virakesarilk | 4,350
 dailymirrorlk | 4,471
@@ -26,79 +26,135 @@ adaderanasinhalalk | 4,538
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,267 (100.0%) of 28,274 articles have been extended.
+28,274 (100.0%) of 28,276 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-04 (Tuesday)
 
-### பாடசாலை விடுமுறை குறித்து மீண்டும் விஷேட அறிவிப்பு
+### University non-academic staff to reach final decision on strike today
+
+*2024-06-04 09:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/99645/university-non-academic-staff-to-reach-final-decision-on-strike-today) · `en`
+
+The University Trade Union Joint Committee (UTUJC) says that a final decision regarding the trade union action of the university non-academic staff will be taken today (04).
+
+UTUJC Co-Chairman Dhammika S. Priyantha emphasized that they held a special discussion with the Minister of State for Higher Education regarding their demands and other professional issues, yesterday (03).
+
+He mentioned that they will discuss with the trade union representatives regarding the matters agreed in that discussion and would inform about the future course of measures within today (4).
+
+◼️
+
+[Data](articles/e195dde2.json)
+
+---
+
+### Special announcement on school holidays again
 
 *2024-06-04 09:37:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாடசாலை-விடுமுறை-குறித்து-மீண்டும்-விஷேட-அறிவிப்பு/175-338406) · `ta`
 
-நாட்டில் நிலவும் மழையுடனான சீரற்ற வானிலையை அடுத்து, இன்று பல பாடசாலைகளுக்கு விடுமுறை வழங்கப்பட்டுள்ளது.
+Due to unpredictable weather, schools in Galle and Matara districts are closed today. Future school closures will be decided by Zonal Education Officers after consulting with Provincial Education Officers.
 
-தென் பகுதியில் நிலவும் அதிக மழையுடனான வானிலையை அடுத்து, காலி மற்றும் மாத்தறை ஆகிய மாவட்டங்களிலுள்ள அனைத்து  பாடசாலைகளுக்கு நாளையும் (05) விடுமுறை வழங்கப்பட்டுள்ளது.
+🟩
 
-வானிலை நிலைமையை கருத்தில் கொண்டு, எதிர்வரும் நாட்களில் பாடசாலைகளை நடத்துவது தொடர்பான தீர்மானத்தை எடுக்கும் பொறுப்பு, வலய கல்வி அதிகாரிகளுக்கு வழங்கப்பட்டுள்ளது.
+In the wake of the random weather in the country, many schools have been given holidays today.
 
-மாகாண கல்வி அதிகாரிகளுடன் கலந்துரையாடல்களை நடாத்தி, தீர்மானத்தை எடுக்குமாறு வலய கல்வி அதிகாரிகளுக்கு கல்வி அமைச்சு அறிவித்துள்ளது. R
+All schools in Galle and Matara districts have been granted holidays (05) in the wake of heavy rainfall in the south.
+
+Considering the weather conditions, the responsibility of taking a decision on conducting schools in the coming days has been given to the Zonal Education Officers.
+
+The Ministry of Education has announced to the Zonal Education Officers to hold discussions with Provincial Education Officers. Remble
 
 ◼️
 
 [Data](articles/0e267ace.json)
 
+[Extended Data](ext_articles/0e267ace.ext.json)
+
 ---
 
-### சீரற்ற வானிலையால் பலி எண்ணிக்கை 17ஆக உயர்வு
+### The number of casualties increases by random weather
 
 *2024-06-04 09:28:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சீரற்ற-வானிலையால்-பலி-எண்ணிக்கை-17ஆக-உயர்வு/175-338405) · `ta`
 
-கடந்த முதலாம் திகதி தொடக்கம் நேற்று (03) பிற்பகல் வரையான காலப்பகுதியில் நாட்டில் நிலவிய சீரற்ற காலநிலை காரணமாக ஏற்பட்ட பல்வேறு அனர்த்தங்களில் 17 பேர் உயிரிழந்துள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
+In the past two days, severe weather caused 17 deaths across five districts: Matara (6), Ratnapura (5), Colombo (3), Galle (2), and Gampaha (1). Additionally, 84,749 individuals from 21,353 families in eight districts have been impacted.
 
-மாத்தறை மாவட்டத்தில் 06 பேரும், இரத்தினபுரி மாவட்டத்தில் 05 பேரும், கொழும்பு மாவட்டத்தில் 03 பேரும், காலி மாவட்டத்தில் 02 பேரும், கம்பஹா மாவட்டத்தில் ஒரு மரணமும் பதிவாகியுள்ளதாக அனர்த்த முகாமைத்துவ நிலையம் தெரிவித்துள்ளது.
+🟩
 
-நேற்றைய நிலவரப்படி 08 மாவட்டங்களில் 21,353 குடும்பங்களைச் சேர்ந்த 84,749 பேர் மோசமான காலநிலையால் பாதிக்கப்பட்டுள்ளதாக அனர்த்த முகாமைத்துவ நிலையம் கூறியுள்ளது.
+Seven people have been killed in various disasters due to inclement weather conditions in the country from the first day to the afternoon.
+
+The Disaster Management Center said that there were 06 people in Matara district, 05 in Ratnapura district, 03 in Colombo district, 02 in Galle district and one death in Gampaha district.
+
+According to the Disaster Management Center, 84,749 people from 21,353 families in 08 districts have been affected by bad weather.
 
 ◼️
 
 [Data](articles/93b1d8c5.json)
 
+[Extended Data](ext_articles/93b1d8c5.ext.json)
+
 ---
 
-### வெள்ளம் பார்க்க படகில் சென்றவர் மரணம்
+### CEB to submit electricity tariff revision proposal to PUCSL this week
+
+*2024-06-04 09:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/99644/ceb-to-submit-electricity-tariff-revision-proposal-to-pucsl-this-week-) · `en`
+
+Minister of Power and Energy Kanchana Wijesekera says that a discussion was held with the Ceylon Electricity Board’s (CEB) tariff division yesterday to finalize the electricity consumer tariff revision proposal.
+
+In a post on ‘X’ (formerly Twitter), he pointed out that the Government made a policy decision last year to implement a cost-reflective tariff mechanism, with tariffs to be revised quarterly each year.
+
+Accordingly, the July tariff proposal will be submitted to the Public Utilities Commission of Sri Lanka (PUCSL) this week, the minister said.
+
+◼️
+
+[Data](articles/6588c250.json)
+
+---
+
+### The man who sailed in the boat to see the flood
 
 *2024-06-04 09:25:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெள்ளம்-பார்க்க-படகில்-சென்றவர்-மரணம்/175-338404) · `ta`
 
-புலத்சிங்கள பகுதியில் ஏற்பட்ட வெள்ளத்தைப் பார்ப்பதற்காக நேற்று (03) மாலை படகில் சென்றவர் மின்சாரம் தாக்கி உயிரிழந்துள்ளார்.
+A man named Lok Sinharachike Thamid Kumara died after his boat collided with power lines during a flood viewing trip near Bulathsingha. He was part of a group of 20; while he drowned, others survived without injury.
 
-படகு ஒன்றில் 20 பேர் கொண்ட குழு ஒன்று சென்ற போது, குறித்த படகு உயர் மின்கம்பியில் மோதியதில் மின்சாரம் தாக்கியதில் புலத்சிங்கள திவலகட பிரதேசத்தைச் சேர்ந்த லொகு சின்ஹாரச்சிகே தமித் குமார என்ற இளைஞன் உயிரிழந்துள்ளார்.
+🟩
 
-குறித்த குழுவினர் பயணித்த படகை உயிரிழந்த இளைஞன் ஓட்டிச் சென்றதுடன், துடுப்பை ஏந்திய போது, உயர்நிலை மின்கம்பியில் மோதி வெள்ளத்தில் விழுந்துள்ளார்.
+A man who was traveling in a boat yesterday evening (03) was killed by electricity to see the floods in the Bulathsingha area.
 
-படகில் இருந்தவர்களும் மின்சாரம் தாக்கி படகிற்குள் விழுந்ததாகவும், ஆனால் அவர்களுக்கு எந்த பாதிப்பும் ஏற்படவில்லையென்றும் பொலிஸார் கூறுகின்றனர். R
+Lok Sinharachike Thamid Kumara, a young man from Pulathsingha Divalakada, died when a group of 20 people went on a boat when the boat crashed into a high wiring.
+
+The young man who was killed by the group was driving the boat and fell into a flood when he was carrying a paddle.
+
+Police say that the boatmen were electrocuted and fell into the boat, but they had no harm. Remble
 
 ◼️
 
 [Data](articles/3109218b.json)
 
+[Extended Data](ext_articles/3109218b.ext.json)
+
 ---
 
-### இன்று முதல் காலநிலையில் மாற்றம்
+### Change in the first climate today
 
 *2024-06-04 09:09:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-முதல்-காலநிலையில்-மாற்றம்/175-338403) · `ta`
 
-நாட்டின் தென்மேற்குப் பகுதியில் தற்போது நிலவும் பலத்த மழை நிலைமை இன்று தொடக்கம் தற்காலிகமாக குறைவடையும் என எதிர்பார்க்கப்படுவதாக வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது.
+The Department of Meteorology forecasts a decrease in heavy rainfall in the southwest from today, with potential for periodic rainfall or thunderstorms in several provinces. Evening or night showers are expected elsewhere, along with southwest winds of 30-40 km/h around the country.
 
-மேல், சப்ரகமுவ, மத்திய, தென் மற்றும் வடமேல் மாகாணங்களில் அவ்வப்போது மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடிய சாத்தியம் காணப்படுகின்றது.
+🟩
 
-நாட்டின் ஏனைய பிரதேசங்களில் பல இடங்களில் மாலையில் அல்லது இரவில் மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடிய சாத்தியம் காணப்படுகின்றது.
+The Department of Meteorology has predicted that the current heavy rainfall in the southwest of the country is expected to be temporarily decreased from today.
 
-நாட்டைச் சூழவுள்ள கடற்பரப்புகளில் காற்றானது தென்மேற்கு திசையிலிருந்து வீசக் கூடுவதுடன் காற்றின் வேகமானது மணித்தியாலத்துக்கு 30-40 கிலோ மீற்றர் வரை காணப்படும் என எதிர்பார்க்கப்படுகின்றது. R
+There is a possibility of periodic rainfall or thunderstorms in the upper, Sabaragamuwa, Central, Southern and North Western provinces.
+
+In the rest of the country, there is a possibility of rainfall or thundershowers in the evening or at night.
+
+The wind is expected to blow from the southwest direction in the seas around the country and the wind is expected to be up to 30-40 km per hour.. Remble
 
 ◼️
 
 [Data](articles/eb87538a.json)
+
+[Extended Data](ext_articles/eb87538a.ext.json)
 
 ---
 
@@ -1030,6 +1086,8 @@ World No Tobacco Day was celebrated in many parts of the world over the weekend,
 
 [Data](articles/ffda686d.json)
 
+[Extended Data](ext_articles/ffda686d.ext.json)
+
 ---
 
 ### Stringent laws to mitigate impacts from natural disasters
@@ -1742,6 +1800,8 @@ Many of us were puzzled by the recent monetary policy announcement where the mon
 
 [Data](articles/28c64c56.json)
 
+[Extended Data](ext_articles/28c64c56.ext.json)
+
 ---
 
 ### Inflation on what horizon?
@@ -1771,6 +1831,8 @@ United National Party Secretary Range Bandara’s statement at a media briefing 
 ...
 
 [Data](articles/0a660bae.json)
+
+[Extended Data](ext_articles/0a660bae.ext.json)
 
 ---
 
@@ -2161,57 +2223,5 @@ The schools belonging to the Homagama in the Colombo District have also been gra
 [Data](articles/e7b3ab03.json)
 
 [Extended Data](ext_articles/e7b3ab03.ext.json)
-
----
-
-### Schools closed in several zones in Western Province
-
-*2024-06-03 19:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/99639/schools-closed-in-several-zones-in-western-province) · `en`
-
-It has been decided to close all schools in the Gampaha and Kelaniya Educational Zones and Kaduwela Education Division tomorrow (04).
-
-The decision has been reached by the Provincial Education Director of Western Province, in view of the current adverse weather conditions.
-
-Earlier, the Ministry of Education announced that schools in several districts in the Western, Southern and Sabaragamuwa provinces will remain closed on Tuesday (04) due to the prevailing disaster situation.
-
-Accordingly, the schools in the following districts and one education zone will be closed tomorrow;
-
-Meanwhile, all the schools in the Galle and Matara districts on Tuesday (June 04) and Wednesday (June 05) due to the prevailing adverse weather conditions, Governor of the Southern Province Lakshman Yapa Abeywardena said.
-
-Furthermore, the Ministry of Education also highlighted that all schools across the island other than the schools in the aforementioned areas will be held as usual tomorrow (04).
-
-...
-
-[Data](articles/0e1ff5f4.json)
-
-[Extended Data](ext_articles/0e1ff5f4.ext.json)
-
----
-
-### Here is the incredible amount for the ICC winning team
-
-*2024-06-03 19:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197347) · `si`
-
-The ICC announced a record-breaking total prize pool of US $11.25 million for the World Twenty20 Cup, including $2.45 million for the winners, $1.28 million for runners-up, and $787,500 for semi-final losers.
-
-🟩
-
-The International Cricket Council has published the cash prize to the World Twenty20 World Cup.
-
-Accordingly, the winning team has decided to provide US $ 2.45 million.
-
-It has also been decided to provide US $ 1.28 million to provide the proceedings for runners.
-
-Meanwhile, it has been decided to provide US $ 787,500 for the semi-semi-ending defeated groups.
-
-Accordingly, the rewards for teams in the entire tournament is US $ 11.25 million.
-
-This is the highest prize money allocated for a Twenty20 World Cup.
-
-◼️
-
-[Data](articles/948676e8.json)
-
-[Extended Data](ext_articles/948676e8.ext.json)
 
 ---

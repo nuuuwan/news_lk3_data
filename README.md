@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-04 21:53:45**
+As of **2024-06-04 22:07:23**
 
 ## Newspaper Stats
 
-*Scraped **28,410** Articles*
+*Scraped **28,414** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 1,533
 economynextcom | 1,611
 dailyftlk | 1,669
 adalk | 2,423
-adaderanalk | 3,232
-tamilmirrorlk | 3,335
+adaderanalk | 3,233
+tamilmirrorlk | 3,338
 virakesarilk | 4,373
 dailymirrorlk | 4,498
 adaderanasinhalalk | 4,568
@@ -26,11 +26,59 @@ adaderanasinhalalk | 4,568
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,409 (100.0%) of 28,410 articles have been extended.
+28,410 (100.0%) of 28,414 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-04 (Tuesday)
+
+### மோடி வெற்றி ; ரணில் அனுப்பிய செய்தி
+
+*2024-06-04 22:00:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மோடி-வெற்றி-ரணில்-அனுப்பிய-செய்தி/175-338437) · `ta`
+
+இந்தியாவின் பாராளுமன்றத் தேர்தலில் நரேந்திர மோடி தலைமையிலான தேசிய ஜனநாயகக் கூட்டணி வெற்றி பெற்றுள்ளது.
+
+இதன்படி நரேந்திர மோடி, மூன்றாவது முறையாகவும் ஆட்சி அமைக்க போவதாக இந்திய ஊடக தகவல்கள் தெரிவிக்கின்றன.
+
+இந்த நிலையில், மூன்றாவது முறையாகவும் வெற்றியை தன்வசப்படுத்திய பிரதமர் நரேந்திர மோடிக்கு, ஜனாதிபதி ரணில் விக்ரமசிங்க வாழ்த்து தெரிவித்துள்ளார்.
+
+“நரேந்திர மோடியின் தலைமையின் கீழ் முன்னேற்றம் மற்றும் செழிப்பு ஆகியவற்றில் இந்திய மக்கள் வெளிப்படுத்திய நம்பிக்கையை ஜனாதிபதி அங்கீகரித்ததோடு, இலங்கைக்கும் இந்தியாவுக்கும் இடையிலான உறவுகளில் தொடர்ச்சியான வளர்ச்சியில் நம்பிக்கை வைக்கின்றேன்,”  என ரணில் விக்ரமசிங்க தெரிவித்துள்ளார். R
+
+◼️
+
+[Data](articles/61824cdf.json)
+
+---
+
+### Committee appointed to inquire into possible root causes of floods in Kolonnawa
+
+*2024-06-04 21:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/99665/committee-appointed-to-inquire-into-possible-root-causes-of-floods-in-kolonnawa) · `en`
+
+The Cabinet has approved the memorandum presented by President Ranil Wickremesinghe to provide food and essential services to residents in Kolonnawa and other areas in the country affected by recent floods as a result of adverse weather conditions.
+
+This decision was made during the Cabinet meeting held yesterday (03), the President’s Media Division said.
+
+Following the President’s observation tour to assess the situation and discussions on the needs of flood-affected residents with local officials in Colombo’s suburbs, including Kolonnawa, the memorandum was presented to address immediate relief and long-term solutions to direct relevant authorities to implement several urgent actions.
+
+...
+
+[Data](articles/2a3e7818.json)
+
+---
+
+### உயிரிழப்பு எண்ணிக்கை அதிகரித்தது
+
+*2024-06-04 21:16:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உயிரிழப்பு-எண்ணிக்கை-அதிகரித்தது/175-338436) · `ta`
+
+இலங்கையில் சீரற்ற காலநிலை காரணமாக உயிரிழந்தோர் எண்ணிக்கை 17ஆக அதிகரித்துள்ளதாக அனர்த்த முகாமைத்துவ மத்திய நிலையம் விடுத்துள்ள அறிக்கையில் குறிப்பிடப்பட்டுள்ளது.
+
+மேலும், சீரற்ற காலநிலையினால் ஏற்பட்டுள்ள அனர்த்தங்கள் காரணமாக, நாடளாவிய ரீதியில் 23,422 குடும்பங்களைச் சேர்ந்த 120,000ற்கும் அதிகமானோர் பாதிக்கப்பட்டுள்ளதாகவும் குறிப்பிடப்படுகின்றது. R
+
+◼️
+
+[Data](articles/c751b64f.json)
+
+---
 
 ### Modi claims victory for his alliance in India’s general election
 
@@ -47,6 +95,24 @@ Still, for the first time since Modi’s Bharatiya Janata Party swept to power i
 ...
 
 [Data](articles/eaf347d2.json)
+
+[Extended Data](ext_articles/eaf347d2.ext.json)
+
+---
+
+### மண் மேடு சரிந்ததில் 3 வயது குழந்தை பரிதாபமாக மரணம்
+
+*2024-06-04 21:01:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மண்-மேடு-சரிந்ததில்-3-வயது-குழந்தை-பரிதாபமாக-மரணம்/175-338435) · `ta`
+
+கேகாலை பிரதேசத்தில் மண் மேடு சரிந்து விழுந்ததில் 3 வயது குழந்தை ஒன்று உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+தோண்டப்பட்ட பள்ளத்தில் குழந்தை இருந்தபோது, ​​அதற்கு மேல் இருந்த மண் மேடு குழந்தை மீது சரிந்து விழுந்ததாக அப்பகுதி மக்கள் தெரிவிக்கின்றனர்.
+
+பின்னர், அங்கு வந்த பிரதேசவாசிகள் குழந்தையின் மீது விழுந்த மண்ணை அகற்றி உடனடியாக கேகாலை போதனா வைத்தியசாலைக்கு கொண்டு சென்ற நிலையில் குழந்தை உயிரிழந்துள்ளது.
+
+◼️
+
+[Data](articles/5ad74840.json)
 
 ---
 
@@ -2251,105 +2317,5 @@ Despite the lower-than-expected numbers for the BJP, the party is still confiden
 [Data](articles/54af9f34.json)
 
 [Extended Data](ext_articles/54af9f34.ext.json)
-
----
-
-### Modi-led BJP loses majority in big setback
-
-*2024-06-04 11:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Modi-led-BJP-loses-majority-in-big-setback/155-284059) · `en`
-
-09.00 PM - Modi hails third term of NDA majority, despite under performance
-
-Speaking to supporters, Modi made little reference to his party’s under performance in the poll.
-
-Instead, he said the election was a ringing endorsement for the BJP-led NDA coalition.
-
-“Since 1962 this is the first time that any government, after serving two terms, returns for third term,” he said.
-
-“To every voter of the country on this moment of victory, I want to bow down and salute them,” he said.
-
-Modi has begun his address at the BJP headquarters in New Delhi.
-
-“Our citizens in India have full faith in the party, and today’s victory is a victory of the people,” he said.
-
-He hailed the country’s administration of the “world’s largest election”
-
-His party may have under performed, but Modi was greeted by a celebratory atmosphere at the BJP headquarters in New Delhi.
-
-He waved to cheering supporters under confetti as he entered the building ahead of his expected address.
-
-...
-
-[Data](articles/5cba51f7.json)
-
-[Extended Data](ext_articles/5cba51f7.ext.json)
-
----
-
-### Modi’s BJP may fall short of majority
-
-*2024-06-04 11:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Modis-BJP-may-fall-short-of-majority/155-284059) · `en`
-
-The alliance helmed by Prime Minister Modi’s BJP party is on track to win a majority in the Lok Sabha, although likely with less seats than five years ago.
-
-That means US-India relations are unlikely to substantially change, at least in the short term.
-
-India has increasingly emerged as a major lynch pin in the administration of president Joe Biden’s policy in Asia, particularly as part of efforts to counter China’s influence.
-
-That was on display last year when Biden hosted Modi for a state visit – the highest form of US diplomacy. Biden hailed the two countries as one of the “defining relationships of the 21st century”.
-
-It was a move that again put the US president on a tight-rope walk, with critics accusing Biden of normalising alleged rights abuses and discriminatory practices under Modi’s government.
-
-06.57 PM -  ‘Modi broke many parties, people broke his morale’
-
-...
-
-[Data](articles/e4375df4.json)
-
-[Extended Data](ext_articles/e4375df4.ext.json)
-
----
-
-### India election results 2024: BJP alliance leads, opposition fights on
-
-*2024-06-04 11:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/India-election-results-2024-BJP-alliance-leads-opposition-fights-on/155-284059) · `en`
-
-12.05 PM - Veteran actor Raj Babbar is leading in Gurgaon seat on Congress ticket by over 30,000 seats
-
-11.58 AM -Indian Prime Minister Narendra Modi's alliance raced to a majority in early vote counting trends in the general election, but the numbers were well short of the landslide predicted in exit polls. Opposition gains are higher than expected.
-
-11.48 AM - When Narendra Modi launched his campaign with the slogan “Ab ki baar, 400 paar,” he aimed for more than 400 seats for his BJP-led NDA alliance. The most optimistic exit polls even predicted a clear 400 seats for them.
-
-However, early trends indicate a much tighter contest with the Congress-led INDIA alliance, a centre-left coalition. Speculation is already rife about whether the BJP alone will reach the 272 seats needed for a majority in the 543-seat parliament.
-
-The lead between the two coalitions appears narrower than expected, with early trends showing a difference of only 60 to 70 seats.
-
-...
-
-[Data](articles/e55888a8.json)
-
-[Extended Data](ext_articles/e55888a8.ext.json)
-
----
-
-### Sri Lanka faces barriers in reclaiming priceless artifacts from Britain
-
-*2024-06-04 11:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-faces-barriers-in-reclaiming-priceless-artifacts-from-britain-166040/) · `en`
-
-ECONOMYNEXT – Sri Lanka is facing legal barriers in its efforts to reclaim priceless artifacts from Britain, as many of these items are held by private individuals rather than the state, Buddhasasana, Religious and Cultural Affairs Minister Vidura Wickremenayake said.
-
-Sri Lanka has been actively requesting the return of invaluable artifacts taken during colonial rule prior to the country’s independence in 1948.
-
-Last year, the Netherlands returned six Kandyan artifacts, including gold and silver ceremonial swords, two wall guns, and Lewke Disave’s cannon, after a formal request.
-
-“We have made similar requests to the British government. However, the challenge is that many of these artifacts are in the possession of individuals, not the state,” Wickremenayake told EconomyNext.
-
-“We cannot ask private British citizens to return these items in the same way we request from the British government. We have a substantial list of artifacts taken during the British period.”
-
-...
-
-[Data](articles/34f7f2a3.json)
-
-[Extended Data](ext_articles/34f7f2a3.ext.json)
 
 ---

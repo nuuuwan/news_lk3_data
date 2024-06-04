@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-05 02:18:51**
+As of **2024-06-05 02:34:14**
 
 ## Newspaper Stats
 
@@ -26,43 +26,59 @@ adaderanasinhalalk | 4,570
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,442 (100.0%) of 28,444 articles have been extended.
+28,444 (100.0%) of 28,444 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-05 (Wednesday)
 
-### திருகோணமலை ஸாஹிரா கல்லூரி மாணவிகளின் பரீட்சை பெறுபேறுகளை உடனடியாக வெளியிட நடவடிக்கை எடுக்க வேண்டும் - ரிஷாத் பதியுதீன்
+### Rishad Bathiudeen should take immediate steps to release the exam results of Zahira College students in Trincomalee -
 
 *2024-06-05 02:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/185334) · `ta`
 
-பர்தா அணிந்து பரீட்சை எழுதியமைக்காக திருகோணமலை மாவட்ட ஸாஹிரா கல்லூரி மாணவிகளின் பரீட்சை பெறுபேறு நிறுத்திவைக்கப்பட்டுள்ளமை தொடர்பில் உடனடியாக நடவடிக்கை எடுத்து பெறுபேறுகளை வெளியிட நடவடிக்கை எடுக்கப்பட வேண்டும். அத்துடன் இதற்கு காரணமான அதிகாரிகள் தொடர்பாகவும் விசாரணை நடத்த வேண்டும் என அகில இலங்கை மக்கள் காங்கிரஸ் தலைவர் ரிஷாத் பதியுதீன் தெரிவித்தார்.
+Rishad Bathiudeen urges immediate release of Zahira College, Trincomalee students' exam results, citing unfair treatment due to religious practices during exams. He calls for investigation into the incident and demands transparency from education officials.
 
-பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (04) இடம்பெற்ற பெண்களின் வலுவூட்டல் சட்டமூலம் மீதான விவாதத்தில் கலந்துகொண்டு உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்தார்.
+🟩
+
+Steps should be taken to take immediate steps to address the examination of the students of Zahira College, Trincomalee District. All Ceylon People's Congress leader Rishad Bathiudeen said that the authorities should also investigate the cause.
+
+He said this while addressing the debate on the women's reinforcement bill held in Parliament on Tuesday (04).
+
+We have been talking about the incident with the school principal and a victim of a student from Zahira College, Trincomalee, this year, with the suspension of the 70 students who wrote the GCE Advanced Level Examination from Trincomalee.. 70 students have written the exam at the school called Zenjosab, Trincomalee. The allegation against them is that they wrote the exams in the Islamic manner when they were writing the exam.
 
 ...
 
 [Data](articles/9400a586.json)
 
+[Extended Data](ext_articles/9400a586.ext.json)
+
 ---
 
-### மற்றைய தலைவர்கள் ஓடுவதற்கு சப்பாத்து தேடிக்கொண்டிருந்தபோது, நான் செருப்புக் காலோடு சென்று ஆட்சியைப் பொறுப்பேற்றுக்கொண்டேன் - ஜனாதிபதி
+### While the other leaders were looking for Sabbath to run, I went with the sandals and took charge of the regime -the President
 
 *2024-06-05 01:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/185333) · `ta`
 
-மற்றைய தலைவர்கள் ஓடுவதற்கு சப்பாத்து தேடிக்கொண்டிருந்த வேளையில் நான் செருப்புக் காலோடு சென்று ஆட்சியைப் பொறுப்பேற்றுக்கொண்டேன் என ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+Addressing a public meeting, President Ranil Wickremesinghe emphasized taking charge during challenging times, implementing economic policies, and uniting for national development. He highlighted the government's efforts to address the economic crisis, including salary hikes and subsidies, despite criticism over financial management. Stressing the importance of unity and talent-based governance, he called for support in rebuilding the country's economy and moving beyond partisan politics.
 
-அரசியலை ஒதுக்கிவிட்டு நாட்டின் பொருளாதாரத்தைக் கட்டியெழுப்பும் வேலைத் திட்டத்திற்கு ஆதரவளிப்பது அனைவரினதும் பொறுப்பாகும் என்பதையும் ஜனாதிபதி வலியுறுத்தினார்.
+🟩
 
-நிதி இராஜாங்க அமைச்சர் ரஞ்சித் சியம்பலாபிட்டியவின் ருவன்வெல்ல இல்லத்தில் 04ஆம் திகதி செவ்வாய்க்கிழமை பிற்பகல் நடைபெற்ற மக்கள் சந்திப்பில் கலந்து கொண்டிருந்த போதே ஜனாதிபதி ரணில் விக்ரமசிங்க இதனைக் கூறினார்.
+President Ranil Wickremesinghe said that while the other leaders were looking for Sabbath to run, I went with the sandals and took charge of the regime.
 
-நாட்டில் ஏற்பட்ட பொருளாதார வீழ்ச்சியுடன், நாட்டின் அரசியலும் வீழ்ச்சியடைந்துள்ளதை நினைவு கூர்ந்த ஜனாதிபதி, முதன்முறையாக அரசியலில்லாத அரசாங்கம் உருவாக்கப்பட்டது என்றும் குறிப்பிட்டார்.
+The President also stressed that it was the responsibility of everyone to support the program of politics and support the program of building the country's economy.
 
-தற்போது மக்களின் அன்றாட தேவைகளைப் பூர்த்தி செய்ய முடிந்தாலும் நாடு இன்னும் பொருளாதார நெருக்கடியில் இருந்து விடுபடவில்லை என தெரிவித்த ஜனாதிபதி, எனவே அரசியலுக்கு அப்பாற்பட்டு நாட்டைக் கட்டியெழுப்ப அனைவரும் ஒன்றிணைய வேண்டுமெனவும் வலியுறுத்தினார்.
+President Ranil Wickremesinghe made this statement while attending a public meeting held at the Ruwanwella residence of Finance Minister Ranjith Siyambalapitiya on Tuesday afternoon.
+
+Recalling that the country's politics has fallen with the economic downturn in the country, the president said that for the first time, the government was formed.
+
+The president said the country is not still free of economic crisis, but it is now possible to meet the daily needs of the people, so that everyone should unite to build the country beyond politics.
+
+After attending several events in Ruwanwella, the President attended the meeting and the people of the area participated in the meeting.
 
 ...
 
 [Data](articles/2a29f315.json)
+
+[Extended Data](ext_articles/2a29f315.ext.json)
 
 ---
 

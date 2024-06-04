@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-04 16:34:29**
+As of **2024-06-04 16:51:20**
 
 ## Newspaper Stats
 
-*Scraped **28,362** Articles*
+*Scraped **28,364** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,58 @@ economynextcom | 1,611
 dailyftlk | 1,669
 adalk | 2,416
 adaderanalk | 3,226
-tamilmirrorlk | 3,331
+tamilmirrorlk | 3,332
 virakesarilk | 4,364
 dailymirrorlk | 4,488
-adaderanasinhalalk | 4,557
+adaderanasinhalalk | 4,558
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,356 (100.0%) of 28,362 articles have been extended.
+28,362 (100.0%) of 28,364 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-04 (Tuesday)
+
+### පොලීසිය ජනතාවගෙන් කළ ඉල්ලීම
+
+*2024-06-04 16:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197386) · `si`
+
+අතුරුදන් වූ කාන්තාවක් සහ ඇයගේ දියණිය සොයාගැනීම සඳහා මහජන සහාය ඉල්ලා සිටිමින් පොලීසිය විසින් නිවේදනයක් නිකුත් කර තිබේ.
+
+එම නිවේදනය සමග ඡායාරූපයක් නිකුත් කර ඇති පොලීසිය පවසන්නේ එම කාන්තාව සහ දියණිය පිළිබඳව තොරතුරක් වෙතොත් කඩිනමින් දැනුම්දෙන ලෙසටය.
+
+යසෝධා හංසනී කහතුඩුවආරච්චි නමැති 26 හැවිරිදි කාන්තාවක් සහ වයස අවුරුදු 04ක ඇයගේ කුඩා දියණිය මෙලෙස අතුරුදන්ව ඇති බව පොලීසිය පවසයි.
+
+පොලීසිය වැඩිදුරටත් සඳහන් කර ඇත්තේ පසුගිය මැයි මස 29 වනදා සිට තම බිරිඳ සහ දියණිය අතුරුදන් බවට ඇයගේ සැමියා විසින් කටුනායක පොලිස් ස්ථානය වෙත පැමිණිල්ලක් ද සිදුකර ඇති බවය.
+
+ඒ අනුව එම කාන්තාව සහ දියණිය පිළිබඳව තොරතුරක් වෙතොත් 071-859 1639 (ස්ථානාධිපති කටුනායක) හෝ 011-225 2222 (කටුනායක පොලිස් ස්ථානය) යන අංක වෙත දැනුම්දීමක් සිදුකරන ලෙසටය.
+
+◼️
+
+[Data](articles/5a233192.json)
+
+---
+
+### இந்திய தேர்தல் முடிவுக்குப் பின் ரணில் முக்கிய அறிவிப்பு
+
+*2024-06-04 16:19:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்திய-தேர்தல்-முடிவுக்குப்-பின்-ரணில்-முக்கிய-அறிவிப்பு/175-338428) · `ta`
+
+இந்திய தேர்தலின் வாக்கெண்ணும் நடவடிக்கைகள் நிறைவடையும் நிலையில், யார்? வெற்றிப்பெற்றுள்ளனர். எந்த கூட்டணி ஆட்சியமைக்க போகிறது என்பது தொடர்பிலான விபரங்கள் இன்னும் சில மணிநேரங்களில் வெளியாகும் என இந்திய தகவல்கள் தெரிவிக்கின்றன.
+
+இந்திய தேர்தல் முடிவு ​உத்தியோகபூர்வமாக வெளியானதன் பின்னரே, ஜனாதிபதி ரணில் விக்கிரமசிங்க முக்கிய அறிவிப்பொன்றை விடுக்க உள்ளார்.
+
+அடுத்த ஜனாதிபதித் தேர்தல் தொடர்பிலேயே ஜனாதிபதி ரணில் விக்கிரமசிங்க முக்கிய அறிவிப்பொன்றை விடுக்கவுள்ளார் என அறியமுடிகின்றது.
+
+அந்த அறிவிப்பை பெரும்பாலும், இன்று (04) விடுக்கவுள்ளார் என அவருக்கு நெருக்கமான வட்டாரங்களில் இருந்து அறிய கிடைத்துள்ளது. பெரும்பாலும் ​பொது வேட்பாளராகவே களமிறங்குவார் என்றும் அறியமுடிகின்றது.
+
+◼️
+
+[Data](articles/d63631f4.json)
+
+---
 
 ### Floods alert from Health Sector
 
@@ -158,15 +196,21 @@ Speaker Mahinda Yapa Abeywardhane clarified the matter saying that two questions
 
 ---
 
-### தான் தடைசெய்ய முயன்ற டிக்டொக்கில் இணைந்தார் ட்ரம்ப்!
+### Trump joined the Dictocket he tried to ban!
 
 *2024-06-04 15:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/185299) · `ta`
 
-அமெ­ரிக்க முன்னாள் ஜனா­தி­பதி டொனால்ட் ட்ரம்ப், டிக்டொக் செயலில் இணைந்­துள்ளார். 2017 முதல் 2021 ஜன­வரி 20 வரை ஜனா­தி­ப­தி­யாக டொனால்ட் ட்ரம்ப் பதவி வகித்­த­போது, தேசிய பாது­காப்­புக்கு அச்­சு­றுத்தல் எனக் கூறி, அமெ­ரிக்­காவில் டிக்­டொக்கை தடை செய்­வ­தற்கு அவர் முன்­றமை குறிப்­பி­டத்­தக்­கது.
+Donald Trump, who once sought to ban Dictok citing national security concerns during his presidency, has now joined the platform.
+
+🟩
+
+Former US President Donald Trump has joined Dictok active. When Donald Trump held office from January 20, 2017 to January 20, 2017, he was aimed at banning dicto in the United States, claiming to be a threat to national security.
 
 ◼️
 
 [Data](articles/d78d10f8.json)
+
+[Extended Data](ext_articles/d78d10f8.ext.json)
 
 ---
 
@@ -232,31 +276,49 @@ The Department of Animal Production and Health comes under the purview of the Mi
 
 ---
 
-### பா. ரஞ்சித் வெளியிட்ட 'பயமறியா பிரம்மை'  பட ஃபர்ஸ்ட் லுக்
+### Pa. Ranjith's 'Payamaria Prama' film First Look
 
 *2024-06-04 14:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/185297) · `ta`
 
-அறிமுக நடிகர் ஜேடி கதையின் நாயகனாக முன்னணி வேடத்தில் நடித்திருக்கும் 'பயமறியா பிரம்மை' எனும் திரைப்படத்தின் ஃபர்ஸ்ட் லுக் வெளியிடப்பட்டிருக்கிறது. இதனை தமிழ் திரையுலகின் முத்திரை பதித்த படைப்பாளி பா. ரஞ்சித் வெளியிட்டு, படக் குழுவினருக்கு வாழ்த்து தெரிவித்திருக்கிறார்.
+The first look of Pa. Ranjith's "Piyamaria Prama," featuring debut actor Jedi in the lead, has sparked excitement due to its unique approach. The film, also starring Guru Somasundaram, John Vijay, and others, has completed shooting and is now in post-production. It premiered at the Cannes Film Festival, receiving positive reviews from audiences and critics alike.
 
-அறிமுக இயக்குநர் ராகுல் கபாலி இயக்கத்தில் உருவாகி இருக்கும் 'பயமறியா பிரம்மை' எனும் திரைப்படத்தில் ஜேடி, குரு சோமசுந்தரம், ஜான் விஜய், ஹரிஷ் உத்தமன், வினோத் சாகர், விஸ்வாந்த், சாய் பிரியங்கா ரூத், திவ்யா கணேஷ் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். நந்தா மற்றும் வி. பிரவீண் ஆகியோர் இணைந்து ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு இசையமைப்பாளர் கே இசையமைத்திருக்கிறார். இந்தத் திரைப்படத்தை 69 எம்எம் ஃபிலிம் பட நிறுவனம் சார்பில் தயாரிப்பாளர்கள் ஜெகதீஷ் மற்றும் இயக்குநர் ராகுல் கபாலி ஆகியோர் இணைந்து தயாரித்திருக்கிறார்கள்.
+🟩
 
-...
+The first look of the film 'Piyamaria Prama', which plays the lead role as the hero of the debut actor Jedi, has been released.. This is the creator of the Tamil film industry. Ranjith has released and congratulated the film crew.
+
+Jedi, Guru Somasundaram, John Vijay, Harish Uthaman, Vinod Sagar, Viswant, Sai Priyanka Ruth, Divya Ganesh. Nanda and v. The film has been composed by composer K.. The film was co -produced by producers Jagadish and director Rahul Kapali on behalf of 69 MM Film Film Company.
+
+The shooting of the film is completely completed and the final phase is currently underway.. In this case, the first look of the film has been released. The appearance of artists who starred in the first look at the first look has caused great anticipation among fans as it is different.
+
+Meanwhile, the film was recently screened at the Cannes International Film Festival and was very acclaimed by fans, critics and film enthusiasts.
+
+◼️
 
 [Data](articles/246b6157.json)
 
+[Extended Data](ext_articles/246b6157.ext.json)
+
 ---
 
-### ஜூலையில் வெளியாகும் ஸன்னி லியோனின் 'கொட்டேஷன் கேங்'
+### Sunny Leone's 'Cothesion Gang' will be released in July
 
 *2024-06-04 14:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/185295) · `ta`
 
-இந்திய திரையுலகின் முன்னணி கவர்ச்சி நடிகையான ஸன்னி லியோன் முதன்மையான கதாபாத்திரத்தில் நடித்திருக்கும் 'கொட்டேஷன் கேங்' எனும் திரைப்படம் ஜூலை மாதம் படமாளிகையில் வெளியாகும் என பட குழுவினர் பிரத்யேக புகைப்படத்தை வெளியிட்டு மகிழ்ச்சியுடன் தெரிவித்திருக்கிறார்கள்.
+"Sunny Leone stars in 'Koteshan Gang,' set for release in July. Directed by Vivek Kumar Kannan, it features Jackie Shroff, Priya Mani, Sarah Arjun, and Jayaprakash. The film, co-produced by Vi Studios, Filiminati Entertainment, and Sri Gurujothi Films, has garnered over a million views for its teaser and trailer, sparking fan excitement."
 
-இயக்குநர் விவேக் குமார் கண்ணன் இயக்கத்தில் உருவாகி இருக்கும் 'கொட்டேஷன் கேங்' எனும் திரைப்படத்தில் ஸன்னி லியோன் பொலிவுட் நடிகர் ஜாக்கி ஷெரப், பிரியா மணி, சாரா அர்ஜுன், ஜெயபிரகாஷ் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். அருண் பத்மநாபன் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு ட்ரம்ஸ் சிவமணி இசையமைத்திருக்கிறார். கிரைம் திரில்லர் வகையிலான இந்த திரைப்படத்தை வை ஸ்டுடியோஸ் ஃபிலிமினாட்டி என்டர்டெய்ன்மென்ட் மற்றும் ஸ்ரீ குருஜோதி பிலிம்ஸ் ஆகிய நிறுவனங்கள் இணைந்து தயாரித்திருக்கிறது.
+🟩
 
-...
+The film crew has released a special photo of the film 'Koteshan Gang', which is playing the lead role in the film 'Koteshan Gang', which will be released in July.
+
+Directed by director Vivek Kumar Kannan, Sunny Leone Bollywood actor Jackie Sharap, Priya Mani, Sarah Arjun, Jayaprakash has starred in the film 'Koteshan Gang' directed by Kannan.. Arun Padmanabhan has composed the film and has composed the film for the film.. The film is co -produced by the Crime Thriller Companies of the Vi Studios Filiminati Entertainment and Sri Gurujothi Films.
+
+The teaser and trailer of the film has been released by more than a million spectators.. Fans are excited by the announcement that the film will be released in July.
+
+◼️
 
 [Data](articles/abe64ae8.json)
+
+[Extended Data](ext_articles/abe64ae8.ext.json)
 
 ---
 
@@ -348,21 +410,27 @@ U.S. Ambassador Linda Thomas-Greenfield said the United States circulated a draf
 
 ---
 
-### இரத்தினபுரியில் நாளை நடைபெறவிருந்த உலக சுற்றாடல் தினம் நிகழ்வு இரத்து
+### World Environment Day Event canceled tomorrow in Ratnapura
 
 *2024-06-04 14:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/185285) · `ta`
 
-ஜனாதிபதி ரணில் விக்ரமசிங்க தலைமையில் இரத்தினபுரியில் நாளை (5) நடைபெறவிருந்த உலக சுற்றாடல்  தினத்தை முன்னிட்டு ஏற்பாடு செய்யப்பட்டிருந்த தேசிய நிகழ்வு அனர்த்த நிலைமை காரணமாக இரத்து செய்யப்பட்டுள்ளது.
+Due to unfavorable weather, World Environment Day celebrations scheduled for tomorrow in Ratnapura have been moved to the Presidential Secretariat. The decision was made by President Ranil Wickremesinghe. Funds originally allocated for the event will now support disaster management and relief efforts.
 
-சிங்கராஜ வனப்பகுதியின் நுழைவாயில் அமைந்துள்ள இரத்தினபுரி குடாவ பகுதியில் ஜனாதிபதியின் தலைமையில் நடைபெறவிருந்த நிகழ்வு சீரற்ற காலநிலை காரணமாக அங்கிருந்து ஜனாதிபதி செயலகத்திற்கு மாற்ற தீர்மானிக்கப்பட்டுள்ளது.
+🟩
 
-இதேவேளை, குறித்த நிகழ்விற்கு செலவிடப்படும் பணத்தை அனர்த்த முகாமைத்துவ செயற்பாடுகளுக்கும் இயற்கை அனர்த்தத்தினால் பாதிக்கப்பட்டவர்களுக்கும் நட்டஈடு வழங்குவதற்கும் பயன்படுத்துமாறு ஜனாதிபதி பணிப்புரை விடுத்துள்ளதாக சுற்றாடல் இராஜாங்க அமைச்சர் ஜானக வக்கும்புர தெரிவித்துள்ளார்.
+President Ranil Wickremesinghe, led by President Ranil Wickremesinghe, has been canceled due to the disaster conditions organized by the National Environment Day to be held tomorrow (5) in Ratnapura.
 
-இரத்தினபுரியில் தற்போது நிலவும் வெள்ளம் மற்றும் கடும் மழை காரணமாக நாளை ஜனாதிபதி செயலகத்தின் புதிய மைதானத்தில் விழாவைக் கொண்டாடுவதற்கு சுற்றாடல் அமைச்சு ஏற்பாடுகளைச் செய்து வருவதாக தெரிவிக்கப்படுகிறது.
+The event, which is headed by the President in the Ratnapura area, which is located in the Gateway of the Singaraja Forest, has been decided to transfer to the Presidential Secretariat due to inclement weather.
+
+Meanwhile, Minister of State for Environment, Janaka Wakumbura said that the President has issued a directive to use the money spent on the event to be used for disaster management activities and compensation for victims of natural disasters.
+
+It is reported that the Ministry of Environment is making arrangements to celebrate the ceremony at the new stadium of the Presidential Secretariat tomorrow due to floods and heavy rains in Ratnapura.
 
 ◼️
 
 [Data](articles/6edf1eee.json)
+
+[Extended Data](ext_articles/6edf1eee.ext.json)
 
 ---
 
@@ -384,15 +452,21 @@ To foster a robust capital market ecosystem, in 2023, the SEC introduced a compr
 
 ---
 
-### ஐ.நாவின் நிரந்திர வதிவிட பிரதிநிதிக்கு மலையகம் 200 முத்திரையை வழங்கிய செந்தில் தொண்டமான் !
+### Senthil Thondaman who gave the UN's permanent resident representative
 
 *2024-06-04 14:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/185287) · `ta`
 
-ஜெனிவாவிற்கு உத்தியோகபூர்வ விஜயம் ஒன்றை மேற்கொண்டுள்ள கிழக்கு மாகாண ஆளுநர் செந்தில் தொண்டமான், பெருந்தோட்ட சமூகத்தின் 200வது வருடத்தின் முதல்  நினைவு முத்திரையை தொழில் அமைச்சின் செயலாளருடன் இணைந்து ஜெனிவாவில் உள்ள ஐக்கிய நாடுகள் சபைக்கான இலங்கையின் நிரந்தரப் பிரதிநிதி ஹிமாலி அருணதிலகவிற்கு வழங்கி வைத்துள்ளார்.
+Senthil Thondaman, Eastern Province Governor of Sri Lanka, presented the first commemoration of the plantation community's 200th anniversary to Himali Arunathilaka, the country's UN envoy in Geneva during his official visit.
+
+🟩
+
+Eastern Province Governor Senthil Thondaman, who has made an official visit to Geneva, has handed over the first commemoration of the 200th anniversary of the Plantation Community to Himali Arunathilaka, Sri Lanka's permanent representative of the United Nations in Geneva.
 
 ◼️
 
 [Data](articles/55921f59.json)
+
+[Extended Data](ext_articles/55921f59.ext.json)
 
 ---
 
@@ -420,21 +494,27 @@ Apart from these, all the money and assets of 113 persons who are accused of ter
 
 ---
 
-### லாப் எரிவாயு விலையும் குறைப்பு
+### Lap gas prices reduction
 
 *2024-06-04 13:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/185290) · `ta`
 
-லாப் சமையல் எரிவாயு விலையும் இன்று செவ்வாய்க்கிழமை (04) நள்ளிரவு முதல் குறைக்கப்படவுள்ளது.
+From midnight on April 4th, Lap and Litro cooking gas prices will decrease. Lap reduces the 12.5kg cylinder price by 160 rupees to 3,680 and the 5kg cylinder by 65 rupees to 1,477. Litro also cuts its gas price, effective immediately.
 
-12.5 கிலோகிராம் எரிவாயு சிலிண்டரின் விலை 160 ரூபாவினால் குறைக்கப்படவுள்ளது.  இதற்கிணங்க, 12.5 கிலோகிராம் எரிவாயு சிலிண்டரின் புதிய விலை 3,680 ரூபாவாகும்.
+🟩
 
-5 கிலோகிராம் சிலிண்டரின் விலை 65 ரூபாவினால் குறைக்கப்படவுள்ளதுடன்,   அதன் புதிய விலை 1,477  ரூபாய் என லாப் நிறுவனம் தெரிவித்துள்ளது.
+Lap cooking gas prices will also be reduced from midnight on Tuesday (04).
 
-இதேவேளை, இன்று (04) நள்ளிரவு முதல் அமுலுக்கு வரும் வகையில் லிட்ரோ சமையல் எரிவாயு  விலை குறைக்கப்படவுள்ளதாக  லிட்ரோ நிறுவனம் அறிவித்துள்ளமை குறிப்பிடத்தக்கது.
+The price of 12.5 kilograms of gas cylinder will be reduced by 160 rupees.Accordingly, the new price of 12.5 kilograms of gas cylinder is 3,680 rupees.
+
+The price of 5 kilograms of cylinder will be reduced by 65 rupees and its new price is Rs 1,477.
+
+Meanwhile, Litro has announced that the price of Litro cooking gas will be reduced with effect from midnight today (04).
 
 ◼️
 
 [Data](articles/69acf6e3.json)
+
+[Extended Data](ext_articles/69acf6e3.ext.json)
 
 ---
 
@@ -1148,19 +1228,17 @@ Despite the lower-than-expected numbers for the BJP, the party is still confiden
 
 *2024-06-04 11:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Modis-BJP-may-fall-short-of-majority/155-284059) · `en`
 
+04.03 PM - The ruling National Democratic Alliance (NDA), led by the Bharatiya Janata Party (BJP), has crossed the halfway mark in the Lok Sabha elections, but the lead is narrower than what exit polls had predicted.
+
+The narrow margin prompted talks that the Opposition may reach out to some of the BJP's allies, a charge Nationalist Congress Party patriarch Sharad Pawar denied.
+
+During a press conference, Mr Pawar denied reports that he has reached out to Janata Dal (United) chief Nitish Kumar and Telugu Desam Party (TDP) head Chandrababu Naidu.
+
 Home Minister Amit Shah is leading in the Gandhinagar constituency in Gujarat with a huge margin of over 6.15 lakh votes.
 
 03.24 PM - Rahul Gandhi currently in large lead in Kerela seat.
 
 Aside from running in Rae Bareli in Uttar Pradesh, Congress’ Rahul Gandhi is also seeking re-election from southern Kerala state’s Wayanad.
-
-So far, Gandhi is leading by a whopping 350,000, with his current vote tally at 623,539. Annie Raja of the Communist Party of India, a fellow member of the Congress-led INDIA bloc, is in a distant second with 273,509 votes casted for her so far.
-
-India allows candidates to contest multiple constituencies but they can represent only one.
-
-3.12 PM-  The BJP-led NDA alliance is currently ahead in 280 seats while the Congress coalition defies exit polls by leading in 222.
-
-So far, official results have been declared on three of 543 seats, with the NDA winning two of them.
 
 ...
 
@@ -2233,57 +2311,5 @@ Sri Lanka has raised state worker salaries in 2024 by 10,000 rupees, effective A
 [Data](articles/578b88c4.json)
 
 [Extended Data](ext_articles/578b88c4.ext.json)
-
----
-
-### Private firms under scrutiny for negligence in mosquito control
-
-*2024-06-04 06:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Private-firms-under-scrutiny-for-negligence-in-mosquito-control/108-284039) · `en`
-
-Colombo, June 4 (Daily Mirror) - Private institutions are facing the heat as over 1,200 premises are flagged for mosquito breeding, sparking legal action and raising concerns over public health negligence.
-
-This was revealed during the National Mosquito Control Week conducted by the Epidemiology unit of the Health Ministry from May 26 to June 1.
-
-Out of 4,599 private companies inspected, a staggering 1,220 were identified as breeding grounds for mosquitoes.
-
-This negligence has sparked outrage, prompting legal action against 981 of these establishments and 3,121 notices.
-
-Meanwhile, out of 93,874 premises inspected nationwide, nearly 5,000 were found with mosquito larvae. Over 25,000 houses were flagged as potential breeding sites.
-
-The week covered 15 districts in Sri Lanka including Colombo, Kalutara, Kandy, Gampaha, Jaffna and Ratnapura.
-
-According to the Epidemiology unit, 25,095 dengue cases have been reported from all over the island as of June 3.
-
-◼️
-
-[Data](articles/0036e58b.json)
-
-[Extended Data](ext_articles/0036e58b.ext.json)
-
----
-
-### Private firms under scrutiny for negligence in mosquito control
-
-*2024-06-04 06:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Private-firms-under-scrutiny-for-negligence-in-mosquito-control/155-284039) · `en`
-
-Colombo, June 4 (Daily Mirror) - Private institutions are facing the heat as over 1,200 premises are flagged for mosquito breeding, sparking legal action and raising concerns over public health negligence.
-
-This was revealed during the National Mosquito Control Week conducted by the Epidemiology unit of the Health Ministry from May 26 to June 1.
-
-Out of 4,599 private companies inspected, a staggering 1,220 were identified as breeding grounds for mosquitoes.
-
-This negligence has sparked outrage, prompting legal action against 981 of these establishments and 3,121 notices.
-
-Meanwhile, out of 93,874 premises inspected nationwide, nearly 5,000 were found with mosquito larvae. Over 25,000 houses were flagged as potential breeding sites.
-
-The week covered 15 districts in Sri Lanka including Colombo, Kalutara, Kandy, Gampaha, Jaffna and Ratnapura.
-
-According to the Epidemiology unit, 25,095 dengue cases have been reported from all over the island as of June 3.
-
-◼️
-
-[Data](articles/814063a4.json)
-
-[Extended Data](ext_articles/814063a4.ext.json)
 
 ---

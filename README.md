@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-04 18:35:49**
+As of **2024-06-04 18:53:08**
 
 ## Newspaper Stats
 
-*Scraped **28,382** Articles*
+*Scraped **28,383** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,533
 economynextcom | 1,611
 dailyftlk | 1,669
-adalk | 2,418
+adalk | 2,419
 adaderanalk | 3,230
 tamilmirrorlk | 3,334
 virakesarilk | 4,364
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,563
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,382 (100.0%) of 28,382 articles have been extended.
+28,382 (100.0%) of 28,383 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -37,6 +37,10 @@ Extensions include translations and NER (Named Entity Recognition).
 *2024-06-04 18:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/99662/schools-closed-in-several-education-zones-and-divisions) · `en`
 
 The Secretary of Education of Sabaragamuwa Province stated that all schools in Ratnapura Educational Zone and in Elapatha, Ayagama, Kalawana Educational divisions in Nivithigala Educational Zone will be closed tomorrow (04) due to adverse weather conditions.
+
+The decision was taken due to the adverse weather conditions prevailing in those areas.
+
+The Educational Secretary of the Sabaragamuwa Province further stated that based on the weather conditions from tomorrow onwards, a decision regarding the closure of schools will be taken after informing the Zonal Education Directors.
 
 ◼️
 
@@ -211,6 +215,20 @@ Firefighters, rescuers and police were working at the site, according to images 
 [Data](articles/3c01e415.json)
 
 [Extended Data](ext_articles/3c01e415.ext.json)
+
+---
+
+### ගංවතුර නැරඹීමට ගිය බෝට්ටුවක් අධි බල විදුලි රැහැනක ගැටී තරුණයෙක් මරුට
+
+*2024-06-04 17:15:18* · [`adalk`](https://www.ada.lk/breaking_news/ගංවතුර-නැරඹීමට-ගිය-බෝට්ටුවක්-අධි-බල-විදුලි-රැහැනක-ගැටී-තරුණයෙක්-මරුට/11-410005) · `si`
+
+ගංවතුර නැරඹීමට ගිය බෝට්ටුවක් ඊයේ (03දා) සවස 4.30ට පමණ බුලත්සිංහල දී අධි බලැති  විදුලි රැහැනක ගැටීමෙන් තරුණයකු ජීවිතක්ෂයට පත්ව ඇති අතර 19 දෙනෙකුගේ ජීවිත බේරි  ඇතැයි බුලත්සිංහල පොලීසිය කියයි.
+
+මෙසේ මියගොස් ඇත්තේ බුලත්සිංහල දිවලකඩ ප්‍රදේශයේ පදිංචි ලොකු සිංහාරච්චිගේ දමිත් කුමාර නමැති තරුණයාය. ඔහු ඊයේ(03දා) සවස විසි දෙනෙකුගෙන් පමණ  යුත් කණ්ඩායමක් සමග  ගංවතුර  නැරඹීමට බෝට්ටුවක ගමන් කර තිබේ.කණ්ඩායම ගමන් කළ බෝට්ටුව විපතට පත් තරුණයා විසින්  පදවා ඇති අතර ඔහු රැගෙන ගිය ආධාරක කෝටුවක් ඉහළට ඔසවාගෙන ගමන් කිරීමේදී ඉහළින් තිබූ අධිසැර විදුලි කම්බියක ගැටීමෙන් එම තරුණයා ගංවතුරට ඇද වැටි තිබේ.බෝට්ටුව තුළ සිටි පිරිසටද විදුලි සැර වැදී බෝට්ටුව තුළම වැටී ඇතත් ඔවුන්ට කිසිදු අනතුරක් සිදුවී  නොමැත.
+
+...
+
+[Data](articles/9484a5fc.json)
 
 ---
 
@@ -1644,19 +1662,19 @@ Despite the lower-than-expected numbers for the BJP, the party is still confiden
 
 *2024-06-04 11:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Modis-BJP-may-fall-short-of-majority/155-284059) · `en`
 
+06.01 PM - ‘It was a fight to save the constitution’: Rahul Gandhi
+
+Holding a copy of the Indian constitution during a news conference in New Delhi, the Congress leader says the workers of the party have taken the first step to save the constitution.
+
+“The Congress party has given a new vision, a pro-poor vision, a pro-production vision,” he said.
+
+“The people of the country have said that they do not want Narendra Modi and Amit Shah to run this country anymore,” Gandhi said, referring to Modi’s chief aide and federal home minister.
+
 As the counting of votes continues, the early trends still hold.
 
 The BJP, which was the favourite to win the elections, is now struggling to get past the simple majority mark of 272. The party will now have to rely on allies to form a government.
 
 The Hindu nationalist party won 303 seats in 2019 and 282 in 2014. The opposition Congress, which won 52 seats in 2019 and 44 in 2014, has made major gains, though it is still in a distant second place.
-
-Incumbent Prime Minister Narendra Modi has won his Lok Sabha seat in Varanasi, according to the election commission.
-
-He received 612,970 votes in the polls, 152,513 ahead of his Congress rival Ajay Rai.
-
-Kangana Ranaut is set to enter parliament from Mandi in the northern Himachal Pradesh state after her opponent, Vikramaditya Singh of the Congress, conceded defeat.
-
-“I congratulate BJP candidate Kangana Ranaut for winning Mandi Lok Sabha seat,” Singh told the ANI news agency.
 
 ...
 
@@ -2285,29 +2303,5 @@ Accordingly, the July tariff proposal will be submitted to the Public Utilities 
 [Data](articles/6588c250.json)
 
 [Extended Data](ext_articles/6588c250.ext.json)
-
----
-
-### The man who sailed in the boat to see the flood
-
-*2024-06-04 09:25:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெள்ளம்-பார்க்க-படகில்-சென்றவர்-மரணம்/175-338404) · `ta`
-
-A man named Lok Sinharachike Thamid Kumara died after his boat collided with power lines during a flood viewing trip near Bulathsingha. He was part of a group of 20; while he drowned, others survived without injury.
-
-🟩
-
-A man who was traveling in a boat yesterday evening (03) was killed by electricity to see the floods in the Bulathsingha area.
-
-Lok Sinharachike Thamid Kumara, a young man from Pulathsingha Divalakada, died when a group of 20 people went on a boat when the boat crashed into a high wiring.
-
-The young man who was killed by the group was driving the boat and fell into a flood when he was carrying a paddle.
-
-Police say that the boatmen were electrocuted and fell into the boat, but they had no harm. Remble
-
-◼️
-
-[Data](articles/3109218b.json)
-
-[Extended Data](ext_articles/3109218b.ext.json)
 
 ---

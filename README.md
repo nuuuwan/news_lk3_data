@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-04 21:34:26**
+As of **2024-06-04 21:53:45**
 
 ## Newspaper Stats
 
-*Scraped **28,409** Articles*
+*Scraped **28,410** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,533
 economynextcom | 1,611
 dailyftlk | 1,669
 adalk | 2,423
-adaderanalk | 3,231
+adaderanalk | 3,232
 tamilmirrorlk | 3,335
 virakesarilk | 4,373
 dailymirrorlk | 4,498
@@ -26,11 +26,29 @@ adaderanasinhalalk | 4,568
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,409 (100.0%) of 28,409 articles have been extended.
+28,409 (100.0%) of 28,410 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-04 (Tuesday)
+
+### Modi claims victory for his alliance in India’s general election
+
+*2024-06-04 21:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/99664/modi-claims-victory-for-his-alliance-in-indias-general-election) · `en`
+
+(AP) — Prime Minister Narendra Modi claimed victory for his alliance on Tuesday in India’s general election, despite a lackluster performance from his own party as it faced a stronger than expected challenge from the opposition, which pushed back against his mixed economic record and polarizing politics.
+
+Modi told a crowd at his party’s headquarters that his National Democratic Alliance will form the government for the third consecutive time, saying Indian voters had “shown immense faith” both in his party and the coalition alliance.
+
+“Today’s victory is the victory of the world’s largest democracy” he said.
+
+Still, for the first time since Modi’s Bharatiya Janata Party swept to power in 2014, it appeared unlikely it would secure a majority on its own, and the prime minister would instead need the support of the other parties in his coalition for his third five-year term in the world’s largest democratic exercise.
+
+...
+
+[Data](articles/eaf347d2.json)
+
+---
 
 ### Mugs win
 
@@ -2333,27 +2351,5 @@ Last year, the Netherlands returned six Kandyan artifacts, including gold and si
 [Data](articles/34f7f2a3.json)
 
 [Extended Data](ext_articles/34f7f2a3.ext.json)
-
----
-
-### Youth killed in electricity
-
-*2024-06-04 11:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/185255) · `ta`
-
-A youth died near a playground in Badulla due to electrocution from illegally installed power lines meant to guard vegetables from wildlife. The Badulla police are investigating this tragic incident.
-
-🟩
-
-Badulla police said that a man was killed in a land near the playground in Nikke junction in Badulla, Badulla.
-
-Police said the death was caught in the illegal power wires that were illegally fitted to protect the vegetables from wildlife.
-
-Further investigations into the incident are being carried out by the Badulla police.
-
-◼️
-
-[Data](articles/aa96fd1f.json)
-
-[Extended Data](ext_articles/aa96fd1f.ext.json)
 
 ---

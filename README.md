@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-04 08:12:07**
+As of **2024-06-04 08:19:52**
 
 ## Newspaper Stats
 
-*Scraped **28,250** Articles*
+*Scraped **28,259** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,138 @@ newsfirstlk | 363
 islandlk | 1,533
 economynextcom | 1,604
 dailyftlk | 1,666
-adalk | 2,408
+adalk | 2,409
 adaderanalk | 3,209
-tamilmirrorlk | 3,315
+tamilmirrorlk | 3,316
 virakesarilk | 4,350
-dailymirrorlk | 4,468
-adaderanasinhalalk | 4,531
+dailymirrorlk | 4,470
+adaderanasinhalalk | 4,536
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,247 (100.0%) of 28,250 articles have been extended.
+28,250 (100.0%) of 28,259 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-04 (Tuesday)
+
+### ජනපතිගේ යෝජනාවට කැබිනට් අනුමැතිය
+
+*2024-06-04 08:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197363) · `si`
+
+අයහපත් කාලගුණ තත්ත්වයෙන් පීඩාවට පත් ජනතාවට සහන සැලසීම සහ පූර්ණ වශයෙන් හානි වූ නිවාස රජයේ වියදමෙන් සහ ත්‍රිවිධ හමුදා සහාය ඇතිව යළි ඉදිකර දීම සඳහා ඉදිරිපත් වූ යෝජනාවට අමාත්‍ය මණ්ඩල අනුමැතිය හිමිව තිබේ.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් අදාළ යෝජනාව ඊයේ (03) කැබිනට් මණ්ඩලයට ඉදිරිපත් කර ඇති අතර එහිදී ඊට අනුමැතිය හිමිව ඇති බව වාර්තා වේ.
+
+චක්‍රලේඛ මත පදනම්ව නොසිට විපතට පත් ජනතාව සඳහා කඩිනමින් සහන සැලසීමට සහ විපතට පත් ජනතාවට ලබාදෙන ආධාර මුදල් වැඩි කිරීමට ද මෙහිදී යෝජනා වී තිබේ.
+
+මේ අතර ජගත් පරිසර දින සැමරුම් උළෙල වෙනුවෙන් වෙන්කළ මූල්‍ය ප්‍රතිපාදන අයහපත් කාලගුණ තත්ත්වයෙන් විපතට පත්වූ ජනතාවගේ සුබසාධනය වෙනුවෙන් යොදවන ලෙස ජනාධිපති රනිල් වික්‍රමසිංහ මහතා උපදෙස් ලබාදී ඇති බව වාර්තා වේ.
+
+හෙටට (05) යෙදී ඇති ජගත් පරිසර දිනය නිමිත්තෙන් සංවිධානය කර තිබූ ජාතික සැමරුම් උත්සවය අවලංගු කිරීමට ද තීරණය කළ බව පළාත් සභා පළාත් පාලන හා පරිසර රාජ්‍ය අමාත්‍ය ජානක වක්කුඹුර මහතා සඳහන් කළේය.
+
+◼️
+
+[Data](articles/ba662e39.json)
+
+---
+
+### විදුලිසැර වැදී තරුණයෙක් මරුට
+
+*2024-06-04 07:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197362) · `si`
+
+බදුල්ල, නුගේ හන්දිය ප්‍රදේශයේ ක්‍රීඩාපිටිය අසල වෙල්යායේදී තරුණයෙකුට විදුලිසැර වැදී මියගොස් තිබේ.
+
+ඊයේ (03) රාත්‍රී කාලයේදී එම සිදුවීම වාර්තා වූ බව පොලීසිය පවසයි.
+
+එලෙස මියගොස් ඇත්තේ, හම්බාවෙල,  හිඳගොඩ ප්‍රදේශයේ පදිංචිව සිටි 23 හැවිරිදි තරුණයෙකි.
+
+එළවළු කොටුවක් වන සතුන්ගෙන් ආරක්ෂා කිරීම සඳහා අනවසරෙන් ඇද තිබූ විදුලි රැහැනක පැටලීමෙන් මෙම මරණය සිදුව ඇති බවට පොලීසිය පවසයි.
+
+◼️
+
+[Data](articles/adf658a2.json)
+
+---
+
+### විශ්වවිද්‍යාල අනධ්‍යයන සේවකයින්ගේ අවසන් තීරණය අද
+
+*2024-06-04 07:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197361) · `si`
+
+සිය වෘත්තීය සමිති ක්‍රියාමාර්ගයේ ඉදිරි කටයුතු සම්බන්ධයෙන් අද (04) දිනයේ අවසන් තීරණයක් ගන්නා බව විශ්වවිද්‍යාල අනධ්‍යන සේවකයින් පවසයි.
+
+විශ්වවිද්‍යාල වෘත්තීය සමිති ඒකාබද්ධ කමිටුවේ සම සභාපති ධම්මික ප්‍රියන්ත මහතා සඳහන් කළේ, සිය වෘත්තීය ගැටලු සම්බන්ධයෙන් උසස් අධ්‍යාපන රාජ්‍ය අමාත්‍යවරයා සමග ඊයේ (03) විශේෂ සාකච්ඡාවක් පැවැත්වූ බවය.
+
+එම සාකච්ඡාවේ දී එකඟ වූ කරුණු සම්බන්ධයෙන් අද දිනයේ සිය වෘත්තීය සමිති නියෝජිතයින් සමග සාකච්ඡා කර ඉදිරි ක්‍රියාමාර්ග පිළිබද දැනුම්දෙන බව ධම්මික ප්‍රියන්ත මහතා සඳහන් කළේය.
+
+◼️
+
+[Data](articles/cc5f3518.json)
+
+---
+
+### ගංවතුරේ විනෝද වූ සිව්දෙනෙක් සැඩ පහරේ ගසාගෙන යයි
+
+*2024-06-04 07:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197360) · `si`
+
+ගංවතුරේ විනෝද වෙමින් ජලයේ රැඳී සිටි පුද්ගලයින් සිව්දෙනෙකු ජල පහරකට හසුවී ගසාගෙන ගොස් තිබේ.
+
+ඉන් පුද්ගලයින් තිදෙනෙකු ප්‍රදේශවාසීන් විසින් බේරාගෙන එක් අයෙකු අතුරදන්ව ඇති බව පොලීසිය පවසයි.
+
+ඊයේ (03) සවස් කාලයේදී එම සිදුවීම වාර්තා වී තිබුණේ ඇඟුරුවාතොට, උඩුවර කරඳවතුගොඩ ප්‍රදේශයේදීය.
+
+එලෙස අතුරුදන්ව ඇත්තේ, නිවිවැටල් වත්ත, නෑබඩ ප්‍රදේශයේ පදිංචිව සිටි 17 හැවිරිදි තරුණයෙකි.
+
+අතුරුදන් වූ අය සොයා ප්‍රදේශවාසීන් හා ඇඟුරුවාතොට පොලීසිය සෝදිසි මෙහෙයුමක් දියත් කර ඇත.
+
+◼️
+
+[Data](articles/8d21c468.json)
+
+---
+
+### තවත් පුද්ගල ඝාතනයක්
+
+*2024-06-04 07:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197359) · `si`
+
+පැරණි ආරවුලක් දුරදිග යාමෙන් ඇතිවූ බහින් බස්වීමක් හේතුවෙන් තියුණු ආයුධයකින් පහරදී පුද්ගලයෙකු ඝාතනය කර තිබේ.
+
+ඊයේ (03) අලුයම් කාලයේදී එම ඝාතනය සිදුව තිබුණේ, මාදම්පේ පොලිස් වසමේ හේන්යාය ප්‍රදේශයේදී බව පොලීසිය පවසයි.
+
+එලෙස මියගොස් ඇත්තේ, හේන්යාය, සෙම්බුකට්ටිය ප්‍රදේශයේ පදිංචිව සිටි 57 හැවිරිදි පුද්ගලයෙකි.
+
+ඝාතනයට සම්බන්ධ 36 හැවිරිදි සැකකරු පොලිස් ස්ථානයට ඉදිරිපත් වීමෙන් පසු අත්අඩංගුවට ගෙන ඇති අතර මාදම්පේ පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+
+◼️
+
+[Data](articles/e0e44472.json)
+
+---
+
+### Private firms under scrutiny for negligence in mosquito control
+
+*2024-06-04 06:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Private-firms-under-scrutiny-for-negligence-in-mosquito-control/108-284039) · `en`
+
+Colombo, June 4 (Daily Mirror) - Private institutions are facing the heat as over 1,200 premises are flagged for mosquito breeding, sparking legal action and raising concerns over public health negligence.
+
+This was revealed during the National Mosquito Control Week conducted by the Epidemiology unit of the Health Ministry from May 26 to June 1.
+
+Out of 4,599 private companies inspected, a staggering 1,220 were identified as breeding grounds for mosquitoes.
+
+This negligence has sparked outrage, prompting legal action against 981 of these establishments and 3,121 notices.
+
+Meanwhile, out of 93,874 premises inspected nationwide, nearly 5,000 were found with mosquito larvae. Over 25,000 houses were flagged as potential breeding sites.
+
+The week covered 15 districts in Sri Lanka including Colombo, Kalutara, Kandy, Gampaha, Jaffna and Ratnapura.
+
+According to the Epidemiology unit, 25,095 dengue cases have been reported from all over the island as of June 3.
+
+◼️
+
+[Data](articles/0036e58b.json)
+
+---
 
 ### Dehiwala Gateway student Vaishalini won the International Award
 
@@ -99,6 +215,46 @@ Accordingly, they decided to give the Afghanistan team to bat first.
 [Data](articles/dcf30152.json)
 
 [Extended Data](ext_articles/dcf30152.ext.json)
+
+---
+
+### Sri Lanka leads South Asia in recruiting women for banking industry: IFC
+
+*2024-06-04 04:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-leads-South-Asia-in-recruiting-women-for-banking-industry-IFC/108-284032) · `en`
+
+Women comprise 46% of new recruits and 27% of board positions
+
+However, progression of women in sector does not match their career aspirations or progression compared to men
+
+Women representation drops from 40% at entry level to 27% in middle management and further to 20% in senior management roles
+
+Sri Lanka surpasses all its South Asian counterparts in recruiting women at entry level in the banking sector, a recent report by the International Finance Corporation (IFC) highlighted.
+
+Women comprised 46 percent of new recruits and 27 percent of board positions, making Sri Lanka the leader in board level gender diversity, according to the report.
+
+Titled ‘Women’s Advancement in Banking in Emerging South Asian Countries’, the IFC, in collaboration with the Australian government, had assessed the private sector commercial banks in Bangladesh, Nepal and Sri Lanka.
+
+...
+
+[Data](articles/1c6ef846.json)
+
+---
+
+### சுற்றாடல் தின பணத்தை பயன்படுத்தப் பணிப்புரை
+
+*2024-06-04 03:54:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுற்றாடல்-தின-பணத்தை-பயன்படுத்தப்-பணிப்புரை/175-338400) · `ta`
+
+எதிர்வரும் ஜூன் மாதம் 05 ஆம் திகதி நடைபெறவிருந்த உலக சுற்றாடல் தினத்தின் தேசிய கொண்டாட்டத்திற்காக ஒதுக்கப்பட்ட நிதி ஒதுக்கீட்டை சீரற்ற காலநிலையினால் பாதிக்கப்பட்ட மக்களின் நலனுக்காக பயன்படுத்துமாறு ஜனாதிபதி ரணில் விக்ரமசிங்க பணிப்புரை விடுத்துள்ளார் என்று மாகாண சபைகள், உள்ளூராட்சி மற்றும் சுற்றாடல் இராஜாங்க அமைச்சர் ஜனக வக்கும்புர தெரிவித்தார்.
+
+ஜனாதிபதி ஊடக மையத்தில் நேற்று நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே இராஜாங்க அமைச்சர் ஜானக வக்கும்புர மேற்கண்டவாறு தெரிவித்தார்.  அவர் மேலும் தெரிவிக்கையில்,
+
+உலக சுற்றாடல் தினத்தின் தேசிய விழாவை ஜூன் 05 ஆம் தேதி நடத்த திட்டமிடப்பட்டிருந்தது.
+
+ஆனால், ஜனாதிபதி ரணில் விக்கிரமசிங்க, இந்த விழாவை இரத்து செய்து, அந்த நிதி ஒதுக்கீட்டை மோசமான காலநிலையால் பாதிக்கப்பட்ட மக்களின் நலனுக்காக பயன்படுத்துமாறு பணிப்புரை விடுத்துள்ளார்.
+
+...
+
+[Data](articles/2b0a608e.json)
 
 ---
 
@@ -1938,6 +2094,8 @@ During his address, the  President emphasized the government’s commitment to 
 
 [Data](articles/406f5307.json)
 
+[Extended Data](ext_articles/406f5307.ext.json)
+
 ---
 
 ### Sri Lanka to plant a tree to replace a tree: state minister
@@ -1959,6 +2117,24 @@ Strong winds and heavy rains have brought down trees across power lines and tran
 [Data](articles/3eaa4d59.json)
 
 [Extended Data](ext_articles/3eaa4d59.ext.json)
+
+---
+
+### ජගත් පරිසර දින සැමරුම් සඳහා වෙන්කළ මුදල් විපතට පත් ජනතාවට
+
+*2024-06-03 17:59:37* · [`adalk`](https://www.ada.lk/breaking_news/ජගත්-පරිසර-දින-සැමරුම්-සඳහා-වෙන්කළ-මුදල්-විපතට-පත්-ජනතාවට/11-409997) · `si`
+
+ජගත් පරිසර දින සැමරුම සඳහා වෙන්කළ මුදල් විපතට පත් ජනතාව වෙනුවෙන් යොදවන ලෙස ජනපතිගෙන් උපදෙස් – පළාත් සභා, පළාත් පාලන සහ පරිසර රාජ්‍ය අමාත්‍ය ජානක වක්කුඹුර
+
+එළඹෙන ජූනි මස 05 වනදා පැවැත්වීමට නියමිතව තිබූ ජගත් පරිසර දින ජාතික සැමරුම් උළෙල වෙනුවෙන් වෙන්කළ මූල්‍ය ප්‍රතිපාදන අයහපත් කාලගුණ තත්ත්වය හේතුවෙන් විපතට පත් වූ ජනතාවගේ සුබසාධනය වෙනුවෙන් යොදවන ලෙස ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් උපදෙස් ලබාදුන් බව පළාත් සභා, පළාත් පාලන සහ පරිසර රාජ්‍ය අමාත්‍ය ජානක වක්කුඹුර මහතා පැවසීය.
+
+ජනතාව දුෂ්කරතාවට මුහුණ දී සිටින මේ අවස්ථාවේ ඇතැමුන් විවේචනයට පමණක් සීමාවෙමින් දේශපාලන වාසි ලබාගැනීමට උත්සහ ගන්නා බව පෙන්වා දුන් ඒ මහතා මේ මොහොතේ අවශ්‍ය වන්නේ සියලු දෙනා එක්ව විපතට පත් ජනතාව එම තත්ත්වයෙන් මුදවා ගැනීම බව ද සඳහන් කළේය.
+
+පළාත් සභා, පළාත් පාලන සහ පරිසර රාජ්‍ය අමාත්‍ය ජානක වක්කුඹුර මහතා මේ බව සඳහන් කර සිටියේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන් අද (03) ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමිනි.
+
+...
+
+[Data](articles/347fb799.json)
 
 ---
 
@@ -2029,197 +2205,5 @@ The DMC has identified the two deceased as males, aged 53 and 23 years.
 [Data](articles/0bb05997.json)
 
 [Extended Data](ext_articles/0bb05997.ext.json)
-
----
-
-### Two more missing persons found; total deaths increase to 14
-
-*2024-06-03 17:37:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Two-more-missing-persons-found-total-deaths-increase-to-14/108-284002) · `en`
-
-Colombo, June 3 (Daily Mirror) - The recovery of two bodies of persons reported missing from the Tawalama area in Galle yesterday (03) due to floods, brings the total casualties from the ongoing adverse weather conditions across the island to 14, the Disaster Management Centre (DMC) said.
-
-The DMC has identified the two deceased as males, aged 53 and 23 years.
-
-◼️
-
-[Data](articles/8eafa50d.json)
-
-[Extended Data](ext_articles/8eafa50d.ext.json)
-
----
-
-### Adverse weather reduces water pressure in several areas in Colombo
-
-*2024-06-03 17:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Adverse-weather-reduces-water-pressure-in-several-areas-in-Colombo/108-284001) · `en`
-
-Colombo, June 3 (Daily Mirror) - Due to adverse weather conditions, the water pressure will decrease during peak hours due to the disconnection of the main water supply line near the Thummodara bridge, the National Water Supply and Drainage Board (NWSDB) said.
-
-They said the main water line from the Kalatuwawa water purification plant has been disconnected and the pressure of the water supply will be low between 6 a.m. and 9 a.m. and 5 p.m. and 9 p.m.
-
-Accordingly, the Galagedara, Padukka, Godagama, Homagama, Pannipitiya, Rukmalgama, Pelenwatta, Mattegoda, Maharagama, Borelesgamuwa and Pepiliyana areas will be affected by the low-pressure water supply.
-
-Therefore, a decision has been taken to provide drinking water from the Kalatuwawa water purification plant till further notice.
-
-◼️
-
-[Data](articles/6025e316.json)
-
-[Extended Data](ext_articles/6025e316.ext.json)
-
----
-
-### The government is making plans to postpone the elections
-
-*2024-06-03 17:30:38* · [`adalk`](https://www.ada.lk/breaking_news/මැතිවරණ-කල්-දැමීමට-රජය-පිඹුරුපත්-හදනවා/11-409994) · `si`
-
-Sri Lanka's government, led by Professor G.L., is planning to delay elections amidst opposition resistance. Mr. Peiris highlighted the illegitimacy of the current presidency for holding a referendum, asserting the electoral commission's constitutional authority over such matters.
-
-🟩
-
-The Government of Sri Lanka, Professor G.L, is being prepared to postpone the election using various tactics and that the opposition is fighting like one.. Mr. Peiris emphasized.
-
-Speaking at a media briefing held at a media briefing held in Colombo today (03), he said that the election of the elections would be a key element in due time.
-
-He also said that the president was not legitimate and ethical to preside a referendum on the party's referendum and that the President would not have the power to hold the presidential election and the electoral commission will receive the basic role of the constitution.
-
-◼️
-
-[Data](articles/1a6ab712.json)
-
-[Extended Data](ext_articles/1a6ab712.ext.json)
-
----
-
-### World Athletics announces new global competition with record prize fund
-
-*2024-06-03 17:28:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/World-Athletics-announces-new-global-competition-with-record-prize-fund/108-284000) · `en`
-
-June 3 (BBC) - World Athletics has announced a new global championship to start in 2026 which will feature the biggest prize fund in the sport’s history.
-
-The World Athletics Ultimate Championship will see world champions, Olympic champions, Diamond League winners and the year’s leading athletes go up against each other while representing their national teams.
-
-The event will have a $10m (£7.87m) kitty with gold medallists receiving $150,000 (£118,000).
-
-Competition will take place over three evening sessions and will include sprints, middle and long-distance races, relays, jumps and throws.
-
-World Athletics says it will be "the ultimate season finale" and will be a "thrilling and fast-moving new format for athletics".
-
-Budapest, which staged last year’s World Championship, will host the inaugural event from 11-13 September 2026 - and it will be held every two years after that with host cities to be decided.
-
-...
-
-[Data](articles/5eff0c1e.json)
-
-[Extended Data](ext_articles/5eff0c1e.ext.json)
-
----
-
-### Outstanding the latest announcement of the rise
-
-*2024-06-03 17:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197343) · `si`
-
-The Department of Irrigation announced significant flooding in the Kalu Ganga Puwatha, Ellagawa, and Milkanda areas, with further growth expected. The Nilawa River also experienced increased flooding in Talgahagoda. However, there was a slight decrease in the Attanagalu Oya levels.
-
-🟩
-
-The Department of Irrigation has issued the latest statement on flooding.
-
-It states that the Kalu Ganga Puwatha and Ellagawa is a large flood further in the Milkanda area.
-
-The announcement also states that this flood grow will be further.
-
-Meanwhile, the Nilawa River has further floods in Talgahagoda and it is also growing.
-
-The Department of Irrigation says that the Attanagalu Oya continues to show a small decrease.
-
-The Department of Irrigation, Kalu, Gin, Nilwala, Mahaoya, released at 3.30 this pm. The latest announcement is the latest announcement of the floods in the Attanagalu Oya.
-
-◼️
-
-[Data](articles/7bd74e09.json)
-
-[Extended Data](ext_articles/7bd74e09.ext.json)
-
----
-
-### Bodies of two persons reported missing in Tawalama floods recovered
-
-*2024-06-03 17:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/99636/bodies-of-two-persons-reported-missing-in-tawalama-floods-recovered) · `en`
-
-The bodies of the two persons reported missing yesterday (03) due to floods in the Tawalama area in Galle have been recovered, the Disaster Management Centre (DMC) said.
-
-The two deceased persons have been identified to be males aged 53 and 23 years, according to the DMC.
-
-This brings the tally of casualties reported due to the prevailing adverse weather conditions across the island to 14.
-
-◼️
-
-[Data](articles/7a6d284f.json)
-
-[Extended Data](ext_articles/7a6d284f.ext.json)
-
----
-
-### Latest news on Maha rains
-
-*2024-06-03 17:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197342) · `si`
-
-Expect a temporary reduction in heavy rains in the southwest of Sri Lanka tomorrow, with showers forecasted for several provinces. The Department of Meteorology advises caution against wind and lightning risks during thunderstorms.
-
-🟩
-
-The Department of Meteorology says that a temporary decrease in the heavy rains of the island's southwestern part of the island is expected tomorrow (04).
-
-Several spells of showers in the Western, Sabaragamuwa, Central, Southern and Northwestern provinces.
-
-Showers or thundershowers will occur at the evening or night in the rest of the island.
-
-The Department of Meteorology has informed the people to take necessary steps to reduce temporary winds and lightning accidents due to thunderstorms.
-
-◼️
-
-[Data](articles/10f30483.json)
-
-[Extended Data](ext_articles/10f30483.ext.json)
-
----
-
-### Evaluation of 2023 O/L answer sheets postponed
-
-*2024-06-03 17:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/99635/-evaluation-of-2023-ol-answer-sheets-postponed) · `en`
-
-The Department of Examinations announced that the commencement of the evaluation activities of 2023 (2024) G.C.E. Ordinary Level Examination’s answer sheets has been postponed until June 08, 2024.
-
-Issuing a statement, Commissioner General of Exams Amith Jayasundara stated that this decision was reached taking into account the difficulties that examiners might experience in reaching the evaluation centres amid adverse weather conditions.
-
-Originally scheduled to begin on June 06, evaluation activities of G.C.E. Ordinary Level Examination’s answer sheets will now take place from June 08 to June 17 at 101 centers established across the island.
-
-◼️
-
-[Data](articles/e14c792b.json)
-
-[Extended Data](ext_articles/e14c792b.ext.json)
-
----
-
-### Thilak Rajapakse's stage on Pohon
-
-*2024-06-03 16:58:10* · [`adalk`](https://www.ada.lk/breaking_news/පොහොට්ටුවේ-තිලක්-රාජපක්ෂ-සජිත්ගේ-වේදිකාවට/11-409991) · `si`
-
-Thilak Rajapakse, an opposition leader from Sri Lanka, spoke about the importance of reconciliation and unity during his visit to Padiyathala College in the Ampara District. He emphasized the need for understanding and healing among different communities, highlighting the significance of education in fostering this process.
-
-🟩
-
-Sri Lanka Knowledge of the Sri Lanka Pubaitu Sarage of Maha Bopola
-
-He had not said that he had to board and talked to the platform and joined the reconciliation of unhealth.
-
-Powers Picture The opposition leader Sajith Pasathalawa Padiyathala College, Ampara District MP Thilak Rajapakse was published in Padiyatuge, Padiyathala College.
-
-◼️
-
-[Data](articles/15fd1615.json)
-
-[Extended Data](ext_articles/15fd1615.ext.json)
 
 ---

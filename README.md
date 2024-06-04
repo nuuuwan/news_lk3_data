@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-04 23:03:55**
+As of **2024-06-04 23:18:42**
 
 ## Newspaper Stats
 
-*Scraped **28,418** Articles*
+*Scraped **28,420** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,38 +17,60 @@ economynextcom | 1,611
 dailyftlk | 1,669
 adalk | 2,423
 adaderanalk | 3,234
-tamilmirrorlk | 3,338
+tamilmirrorlk | 3,339
 virakesarilk | 4,373
 dailymirrorlk | 4,500
-adaderanasinhalalk | 4,569
+adaderanasinhalalk | 4,570
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,417 (100.0%) of 28,418 articles have been extended.
+28,418 (100.0%) of 28,420 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-04 (Tuesday)
 
-### හංවැල්ල පාලම යට සිරවූ මිලියන 30ක වස්තුව ගොඩගනී
+### ජනපතිගෙන් මෝදිට සුබපැතුම්
+
+*2024-06-04 23:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197398) · `si`
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් භාරතීය ජනතා පක්ෂය ප්‍රමුඛ සන්ධානයේ ජයග්‍රහණයට සුබපැතුම් එක්කර තිබේ.
+
+එහිදී ජනාධිපතිවරයා සඳහන් කර ඇත්තේ ඉන්දීය අග්‍රාමාත්‍ය නරේන්ද්‍ර මෝදි මහතාගේ නායකත්වය පිළිබඳව එරට ජනතාව තුළ ඇති විශ්වාසය පිළිබඳව මෙමගින් මනාව තහවුරු වන බවය.
+
+එසේම ශ්‍රී ලංකාව සහ ඉන්දියාව අතර ඇති සබඳතාවයන් ශක්තිමත් ලෙස අඛණ්ඩව පවත්වාගෙන යන බවද එමගින් ජනාධිපතිවරයා සඳහන් කර තිබේ.
+
+◼️
+
+[Data](articles/82be7c59.json)
+
+---
+
+### 30 million objects found under Hanwella Bridge
 
 *2024-06-04 22:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197397) · `si`
 
-හංවැල්ල පාලම යට සිරවී තිබූ වාරිමාර්ග දෙපාර්තමේන්තුවට අයත් මිල අධික ජල මාපකයක් සොයාගැනීමට නාවික හමුදා කිමිදුම් කණ්ඩායමක් සමත්ව තිබේ.
+Sri Lanka's Irrigation Department recovered a crucial water gauge from under Hanwella Bridge, used for monitoring the Kelani River. The device, valued for its GPS capabilities, was located thanks to a swift response from the Navy, who sent a specialized dive team to assist on June 4, 2024. This recovery is significant as it helps in managing the river's conditions effectively.
 
-එය වාරිමාර්ග දෙපාර්තමේන්තුව මඟින් කැළණි ගඟේ ජලයේ මට්ටම, වේගය සහ දිශාව වැනි දත්ත රැස්කිරීම සඳහා හංවැල්ල පාලම යට ජලයේ මතුපිට තබනු ලබන ජල මාපකයෙහි GPS යන්ත්‍රයකි.
+🟩
 
-ජලය සමඟ ගසාගෙන පැමිණි එය උණ පඳුරු සහ කැලිකසල තුළ පැටලී, ප්‍රධාන යන්ත්‍රයෙන් ගැලවී ගොස් ඇති බවත්, එම GPS යන්ත්‍රය සොයාගැනීම සඳහා නාවික හමුදා කිමිදුම් සහාය ලබාදෙන ලෙසත් වාරිමාර්ග දෙපාර්තමේන්තුව මඟින් නාවික හමුදා මූලස්ථානයෙන් ඉල්ලීමක් සිදුකර තිබුණි.
+A team of Sri Lanka has been able to find an expensive water gauge belonging to the Irrigation Department under Hanwella Bridge.
 
-එම ඉල්ලීමට වහාම ප්‍රතිචාර දැක්වූ නාවික හමුදාව, බටහිර නාවික විධානයට අයත් විශේෂ කිමිදුම් කණ්ඩායමක් 2024 ජුනි මස 04 වන දින අළුයම කිමිදුම් සහය ලබාදීම සඳහා හංවැල්ල ප්‍රදේශයට යොමු කර තිබුණි.
+It is a GPS machine in the water portfolio, which is placed under the Hanwella Bridge to collect data in the Kelani River.
 
-ඒ අනුව පවත්නා අධික වාර්ෂාපතනය හමුවේ කැලණි ග‍ඟේ ජලය පිටාර මට්ටමට පැමිණ ඇති අවදානම් තත්වය මත වුවද, නාවික හමුදා කිමිදුම් කණ්ඩායම මහත් පරිශ්‍රමයක් දරා දිය යට කැලි කසළ තුළ සිරවී තිබූ GPS යන්ත්‍රය සොයා ගැනීමෙන් අනතුරුව, වාරිමාර්ග දෙපාර්තමේන්තුව වෙත මෙලෙස භාරදීමට කටයුතු කර තිබුණි.
+The Irrigation Department had requested the Navy Headquarters to provide the main machine to the GPS to deduct the GPS.
+
+The Navy, which responded immediately to the request, a team of special digestion was directed to the Hanwella area to provide diving support on June 4, 2024.
+
+Accordingly, the Navy diving group had taken action to the Irrigation Department after the increase in the rational condition of the Kelani River into the face of overly excessive project.
 
 ◼️
 
 [Data](articles/5d80b8e7.json)
+
+[Extended Data](ext_articles/5d80b8e7.ext.json)
 
 ---
 
@@ -95,6 +117,24 @@ President Ranil Wickremesinghe congratulates Prime Minister Narendra Modi, who h
 [Data](articles/61824cdf.json)
 
 [Extended Data](ext_articles/61824cdf.ext.json)
+
+---
+
+### மோடி வெற்றி ; ரணில் அனுப்பிய செய்தி
+
+*2024-06-04 22:00:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/மோடி-வெற்றி-ரணில்-அனுப்பிய-செய்தி/150-338437) · `ta`
+
+இந்தியாவின் பாராளுமன்றத் தேர்தலில் நரேந்திர மோடி தலைமையிலான தேசிய ஜனநாயகக் கூட்டணி வெற்றி பெற்றுள்ளது.
+
+இதன்படி நரேந்திர மோடி, மூன்றாவது முறையாகவும் ஆட்சி அமைக்க போவதாக இந்திய ஊடக தகவல்கள் தெரிவிக்கின்றன.
+
+இந்த நிலையில், மூன்றாவது முறையாகவும் வெற்றியை தன்வசப்படுத்திய பிரதமர் நரேந்திர மோடிக்கு, ஜனாதிபதி ரணில் விக்ரமசிங்க வாழ்த்து தெரிவித்துள்ளார்.
+
+“நரேந்திர மோடியின் தலைமையின் கீழ் முன்னேற்றம் மற்றும் செழிப்பு ஆகியவற்றில் இந்திய மக்கள் வெளிப்படுத்திய நம்பிக்கையை ஜனாதிபதி அங்கீகரித்ததோடு, இலங்கைக்கும் இந்தியாவுக்கும் இடையிலான உறவுகளில் தொடர்ச்சியான வளர்ச்சியில் நம்பிக்கை வைக்கின்றேன்,”  என ரணில் விக்ரமசிங்க தெரிவித்துள்ளார். R
+
+◼️
+
+[Data](articles/7e5a852a.json)
 
 ---
 
@@ -2261,59 +2301,5 @@ Minister of Power and Energy Kanchana Wijesekera who responded, assured that the
 [Data](articles/9cd298f0.json)
 
 [Extended Data](ext_articles/9cd298f0.ext.json)
-
----
-
-### Sri Lanka’s new Electricity Bill ruled unconstitutional by top Court
-
-*2024-06-04 11:15:00* · [`economynextcom`](https://economynext.com/sri-lankas-new-electricity-bill-ruled-unconstitutional-by-top-court-166124/) · `en`
-
-ECONOMYNEXT – A bill to reform Sri Lanka’s Electricity law was ruled inconsistent “as a whole” with article 12 (1) of the Constitution by the Supreme Court, Speaker Mahinda Abeywardana said.
-
-Several other articles of the bill were also ruled inconsistent with the constitution, he said.
-
-However, the Supreme Court has suggested several amendments to enable the bill to be passed with a simple majority.
-
-Opposition Chief Whip, Lakshman Kiriella requested that the bill be referred to the relevant committee and debate delayed to make sure the appropriate changes are made.
-
-Sri Lanka’s opposition has charged that the government has amended bills in the past in ways which were not in line with the Supreme Court’s suggestion, and unconstitutional bills are in force.
-
-Power Minister Kanchana Wijesekera said the bill can be debated on June 06 as scheduled, with the appropriate changes.
-
-Other legislators also asked for more time to study the changes.
-
-...
-
-[Data](articles/0326a30e.json)
-
-[Extended Data](ext_articles/0326a30e.ext.json)
-
----
-
-### Ukraine has reportedly destroyed the target within Russia using the weapons provided by the West
-
-*2024-06-04 11:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/185274) · `ta`
-
-Ukraine, with Western-supplied weapons, reportedly targeted and destroyed a site within Russia, specifically mentioning the use of S300 missiles. This action follows the US President's approval for such operations near Gargivi, with the West easing restrictions on weapon usage. The move aims to support Ukraine in defending the Karkiv region.
-
-🟩
-
-Ukraine said it used the weapons provided by the West and attacked a target inside Russia.
-
-The Ukrainian minister has said that the S300 missile has been burnt inside Russia.
-
-He said the attack was followed by the West's permission to carry out the attack inside Russia.
-
-It is noteworthy that the US president had allowed Ukraine to attack the Russian territories near Gargivi.
-
-The West has relaxed the restrictions on how Ukraine can use the weapons they provided.
-
-This will help his soldiers to save the Karkiv region, he said.
-
-◼️
-
-[Data](articles/9714bd34.json)
-
-[Extended Data](ext_articles/9714bd34.ext.json)
 
 ---

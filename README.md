@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-04 09:34:22**
+As of **2024-06-04 09:53:20**
 
 ## Newspaper Stats
 
-*Scraped **28,265** Articles*
+*Scraped **28,267** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 270
 bbccomsinhala | 277
 newsfirstlk | 363
 islandlk | 1,533
-economynextcom | 1,604
+economynextcom | 1,606
 dailyftlk | 1,666
 adalk | 2,410
 adaderanalk | 3,211
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,538
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,265 (100.0%) of 28,265 articles have been extended.
+28,265 (100.0%) of 28,267 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -67,6 +67,26 @@ General public is kindly requested to take adequate precautions to minimize dama
 [Data](articles/ffe8a9b7.json)
 
 [Extended Data](ext_articles/ffe8a9b7.ext.json)
+
+---
+
+### Sri Lanka electricity tariff revision proposal to regulator this week: Minister
+
+*2024-06-04 08:37:00* · [`economynextcom`](https://economynext.com/sri-lanka-electricity-tariff-revision-proposal-to-regulator-this-week-minister-166105/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Ceylon Electricity Board will make the proposal to revise tariffs to the regulator this week, Energy Minister Kanchana Wijesekera said.
+
+“A discussion was held with the CEB tariff division yesterday to finalize the electricity consumer tariff revision proposal,” Minister Wijesekera said in an x.com post.
+
+“The Government made a policy decision last year to implement a cost reflective tariff mechanism and that the tariffs will be revised quarterly every year.
+
+“Accordingly the July tariff proposal will be submitted to the PUCSL this week.
+
+Sri Lanka’s central bank has maintained monetary stability by not printing money and running deflationary policy, allowing the currency to remain strong, while global coal prices are also muted amid better Fed policy.
+
+◼️
+
+[Data](articles/f17a3347.json)
 
 ---
 
@@ -243,6 +263,24 @@ The 36-year-old suspect was seized after he was produced before the police stati
 [Data](articles/e0e44472.json)
 
 [Extended Data](ext_articles/e0e44472.ext.json)
+
+---
+
+### Sri Lanka budget deficit down, tax revenues up 41-pct to Feb 2024
+
+*2024-06-04 07:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-budget-deficit-down-tax-revenues-up-41-pct-to-feb-2024-166045/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s budget deficit fell to 129.3 billion rupees in the first two months of 2024 down from 322.9 billion rupees last year, with tax revenues climbing 41 percent and interest costs also showed a downward trend.
+
+Total revenues were up 41 percent to 647 billion rupees in the first two months of 2024, on top of a 35 percent rise achieved in 2023 with a rise in tax rate also helped by recovering economic activities and currency appreciation made possible by deflationary policy.
+
+Currency appreciation brings prices down, boosts disposable income, bringing more value added tax, even as income taxes (direct taxes) kill productive spending of the people and transfers money for bureaucratic and political spending.
+
+Sri Lanka has raised state worker salaries in 2024 by 10,000 rupees, effective April after the worst currency collapse in the history of the central, coming from the central bank’s mis-targeted policy rate and a surrender rule.
+
+...
+
+[Data](articles/578b88c4.json)
 
 ---
 
@@ -2215,45 +2253,5 @@ With the adverse weather conditions that were running along the railway line wit
 [Data](articles/9709890a.json)
 
 [Extended Data](ext_articles/9709890a.ext.json)
-
----
-
-### Death
-
-*2024-06-03 18:04:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/சுரங்கத்தில்-மோதுண்டவர்-மரணம்/76-338372) · `ta`
-
-A foreign tourist traveling from Colombo Fort to Badulla died after colliding with a mine near the 19th railway tunnel between Nanuoya and I Italkashinna stations. The body was found and transported to Haputtala railway station by railway security officers.
-
-🟩
-
-A Nanuoya Railway Station official said that a foreigner who was traveling from the Fort to Badulla to Badulla was killed when a foreigner collided with a mine.
-
-A foreigner who was traveling to Ella Railway Station on a train from Colombo Fort to Badulla died at 4 pm on Monday (03).
-
-The official said that the body of a foreigner was recovered near the 19th railway tunnel between Nanuoya and I Italkashinna railway stations, and the body of the deceased was taken to the Haputtala railway station by railway security officers.
-
-◼️
-
-[Data](articles/a7d74fe5.json)
-
-[Extended Data](ext_articles/a7d74fe5.ext.json)
-
----
-
-### 250 new bridges will be built to boost rural connectivity – President
-
-*2024-06-03 18:01:00* · [`islandlk`](http://island.lk/250-new-bridges-will-be-built-to-boost-rural-connectivity-president/) · `en`
-
-President Ranil Wickremesinghe announced plans to construct 250 new bridges across Sri Lanka to enhance road connectivity and maximize the benefits of national development projects for rural communities.
-
-The President made this announcement while addressing a celebration at the Shangri-La Hotel in Colombo today (03), marking the successful completion of 750 rural bridges by Janson Bridging International from the Netherlands over the period 2014-2024.
-
-During his address, the  President emphasized the government’s commitment to improving the living conditions of people in areas connected by these bridges. He underscored the importance of ensuring that the benefits of economic development reach the poorest segments of society.
-
-...
-
-[Data](articles/406f5307.json)
-
-[Extended Data](ext_articles/406f5307.ext.json)
 
 ---

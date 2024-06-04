@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-04 11:53:50**
+As of **2024-06-04 12:06:17**
 
 ## Newspaper Stats
 
-*Scraped **28,307** Articles*
+*Scraped **28,318** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,36 +17,100 @@ economynextcom | 1,609
 dailyftlk | 1,669
 adalk | 2,414
 adaderanalk | 3,217
-tamilmirrorlk | 3,325
-virakesarilk | 4,350
-dailymirrorlk | 4,478
+tamilmirrorlk | 3,326
+virakesarilk | 4,358
+dailymirrorlk | 4,480
 adaderanasinhalalk | 4,546
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,302 (100.0%) of 28,307 articles have been extended.
+28,307 (100.0%) of 28,318 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-04 (Tuesday)
 
-### පොහොට්ටු රුස්වීමක මන්ත්‍රී  මහින්දානන්ද අතර ඇතිවූ ගැටුමකදී මන්ත්‍රී රාජපක්ෂට තුවාල
+### யாழ். மாநகர ஆணையாளருக்கு எதிரான நீதிமன்ற அவமதிப்பு வழக்கு தள்ளுபடி !
+
+*2024-06-04 11:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/185276) · `ta`
+
+யாழ்ப்பாணம் மாநகர ஆணையாளருக்கு எதிராக சட்டத்தரணி வி.மணிவண்ணன் தொடுத்த நீதிமன்ற அவமதிப்பு வழக்கு யாழ். மாவட்ட நீதிமன்றால் தள்ளுபடி செய்யப்பட்டது.
+
+இந்த ஆண்டு அறிமுகமான நீதிமன்றங்கள், நியாய சபைகள் மற்றும் நிறுவனங்களை அவமதிக்கும் சட்ட ஏற்பாட்டின் கீழ் நீதிமன்றை அவமதித்தார் என்ற அடிப்படையில் யாழ்ப்பாணம் மாநகர ஆணையாளருக்கு எதிராக சட்டத்தரணி  வி.மணிவண்ணன் தொடுத்த வழக்கே தள்ளுபடி செய்யப்பட்டுள்ளது.
+
+நீதிமன்ற அவமதிப்பு வழக்கில், மாநகர ஆணையாளர் சார்பில் கடந்த மாதம் 22ஆம் திகதி முன்னிலையான ஜனாதிபதி சட்டத்தரணி எம்.ஏ.சுமந்திரன், சிறுகோரிக்கை நீதிமன்ற அவமதிப்பு வழக்கை சிறுகோரிக்கை நீதிமன்றத்திலேயே தாக்கல் செய்ய வேண்டும் என்ற வாதத்தை முன் வைத்திருந்தார்.
+
+அந்நிலையில் குறித்த வழக்கு நேற்று (03) கட்டளைக்காக எடுத்து கொள்ளப்பட்ட போது, வழக்கு உரிய மன்றில் தாக்கல் செய்யப்படவில்லை என்ற ஜனாதிபதி சட்டத்தரணியின் வாதத்தை மன்று ஏற்றுக்கொண்டு, வழக்கினை தள்ளுபடி செய்வதாக மாவட்ட  நீதிபதி சி.சதீஸ்தரன் கூறி வழக்கை தள்ளுபடி செய்தார்.
+
+◼️
+
+[Data](articles/dccf64c2.json)
+
+---
+
+### இன்று நள்ளிரவு முதல் சமையல் எரிவாயு விலை குறைப்பு
+
+*2024-06-04 11:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/185272) · `ta`
+
+லிட்ரோ சமையல் எரிவாயு விலை இன்று செவ்வாய்க்கிழமை (04) நள்ளிரவு முதல் குறைக்கப்படவுள்ளது.
+
+12.5 கிலோகிராம் எரிவாயு சிலிண்டரின் விலை 150 ரூபாவினால் குறைக்கப்படவுள்ளது. இதற்கிணங்க,  3940 ரூபாவாக விற்பனை செய்யப்படும் 12.5 கிலோகிராம் எரிவாயு சிலிண்டரின் புதிய விலை 3,790 ரூபாவாகும்.
+
+5 கிலோகிராம் சிலிண்டரின் விலை 60 ரூபாவினால் குறைக்கப்படவுள்ளதுடன்,  அதன் புதிய விலை 1,522  ரூபா என லிட்ரோ நிறுவனம் தெரிவித்துள்ளது.
+
+2.3 கிலோகிராம் சமையல் எரிவாயு சிலிண்டரின் விலை  28 ரூபாவினால் குறைக்கப்படவுள்ளது. இதற்கிணங்க, அதன் புதிய விலை  712  ரூபாவாகும்.
+
+◼️
+
+[Data](articles/46ce32f6.json)
+
+---
+
+### Police search for suspect who assaulted a 4-year-old child
+
+*2024-06-04 11:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Police-search-for-suspect-who-assaulted-a-4-year-old-child/108-284064) · `en`
+
+June 4 (Daily Mirror) - A police investigation was launched over a video circulating on social media of a man brutally assaulting a 4-year-old child while he was eating at home.
+
+The suspect, identified as Kukul Chaminda alias Bibile Chaminda, is a resident of Sampathanuwara in Padaviya.
+
+A neighbour had recorded a video which was released on social media, of the particular suspect brutally assaulting the child while he was eating at his home.
+
+According to information the suspect had assaulted this child on several previous occasions as well, but nobody had informed the police in fear of him.
+
+Meanwhile, a group of officers, including the Sampathanuwara police station OIC, had raided the house. The suspect had fled the house, and police are conducting a search operation to locate him.
+
+◼️
+
+[Data](articles/4668fe68.json)
+
+---
+
+### MP Rajapakse injured in a clash between MP Mahindansalaka
 
 *2024-06-04 11:27:10* · [`adalk`](https://www.ada.lk/breaking_news/පොහොට්ටු-රුස්වීමක-මන්ත්‍රී--මහින්දානන්ද-අතර-ඇතිවූ-ගැටුමකදී-මන්ත්‍රී-රාජපක්ෂට-තුවාල/11-410001) · `si`
 
-ශ්‍රී ලංකා පොදු ජන පෙරමුණ ආණ්ඩු පක්ෂ මන්ත්‍රී කණ්ඩායම් රැස්වීමේදී  ඇතිවූ බහින්බස්වීමක් දුරදිග යාමෙන් මහනුවර දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී මහින්දානන්ද අලුත්ගමගේ මහතා සහ එම දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී ගුණතිලක රාජපක්ෂ මහතා  අතර ඇතිවූ ගැටුමකදී මන්ත්‍රී ගුණතිලක රාජපක්ෂ මහතගේ පාදයකට තුවාල සිදුවී කොළඹ යුද හමුදා රෝහලට ඇතුළත් කර ඇත.
+Kandy District MPs Mahindananda Aluthgamage and Gunatilleke Rajapaksa were involved in a clash during a meeting over a local issue. Aluthgamage was hospitalized after being pushed by Rajapaksa. Both deny involvement, with Aluthgamage requesting CCTV footage to clear his name. The incident also involved exchanges between Madura Withanage and Pavithra Wanniarachchi.
 
-මහනුවර ප්‍රදේශයේ ගැටලුවක් සම්බන්ධයෙන් ආණ්ඩු පක්ෂ මන්ත්‍රී කණ්ඩායම් රැස්වීමේදී සාකච්ඡා කෙරුණු අවස්ථාවේදී මෙම බහින්බස්වීම සිදුවී ඇතැයි පැවසේ.
+🟩
 
-ගුණතිලක රාජපක්ෂ මහතා ආණ්ඩු පක්ෂ කණ්ඩායම් රැස්වීමෙන් එළියට එන විට මහින්දානන්ද අලුත්ගමගේ මහතා ඔහුගේ කොළරයෙන් අල්ලාගෙන " උඹ මට කිව්වේ මොකක්ද" යැයි ඇසූ විට ජගත් සමරවික්‍රම මහතා පැමිණ "ගහන්න එපා" යැයි කියා ගුණතිලක රාජපක්ෂ මහතා පසුපසට අදින විට ඒ දෙදෙනාම  ඇද වැටුණු බව අලුත්ගමගේ මහතා පවසයි.
+The Kandy District MP Mahindananda Aluthgamage has been admitted to the Colombo Army Hospital following a confrontation between the General Filling of the Government of Sri Lanka and the District MP Gunatilleke Rajapaksa.
 
-තමා ඔහුට අතක්වත් නොතැබූ බවත් කමීස කොළරයෙන් පමණක් ඇල්ලූ බවත් තමාගේ හැසිරීම් සියල්ල CCTV දර්ශන වල ඇතැයි  පහරදීමක් සිදුවී නම් එම දර්ශනවලින්  ඔප්පු කර ගැනීමට හැකියාව ඇති බවද මහින්දානන්ද අලුත්ගමගේ මහතා සඳහන් කරයි.
+It is said that the argument was held at the meeting of a problem in Kandy area.
 
-...
+Mr. Gunatilleke Rajapaksa has fallen to the back of the Gunanthi Samarawicka, when Mr. Gunatilleke holds out of his bore by the government team meeting.
+
+Mahindananda Aluthgamage said he had not had a hand and had to assemble his behavior in CCTV footage, Mahindananda Aluthgamage said.
+
+It is learned that a heated exchange of words has been found among Madura Withanage and Pavithra Wanniarachchi.
+
+◼️
 
 [Data](articles/75761ac8.json)
+
+[Extended Data](ext_articles/75761ac8.ext.json)
 
 ---
 
@@ -65,6 +129,30 @@ Minister of Power and Energy Kanchana Wijesekera who responded, assured that the
 ...
 
 [Data](articles/9cd298f0.json)
+
+[Extended Data](ext_articles/9cd298f0.ext.json)
+
+---
+
+### மேற்குலக நாடுகள் வழங்கிய ஆயுதங்களை பயன்படுத்தி தாக்குதல் - ரஸ்யாவிற்குள் இலக்கை அழித்ததாக உக்ரைன் தெரிவிப்பு
+
+*2024-06-04 11:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/185274) · `ta`
+
+மேற்குலக நாடுகள் வழங்கிய ஆயுதங்களை பயன்படுத்தி ரஸ்யாவிற்குள் உள்ள இலக்கொன்றின் மீது தாக்குதலை மேற்கொண்டதாக உக்ரைன் தெரிவித்துள்ளது.
+
+ரஸ்யாவிற்குள் எஸ் 300 ஏவுகணை அழகா எரிந்தது என தெரிவித்துள்ள உக்ரைன் அமைச்சர் தாக்குதல் இடம்பெறுவதை காண்பிக்கும் படத்தை முகநூலில் பதிவிட்டுள்ளார்.
+
+ரஸ்யாவிற்குள் தாக்குதலை மேற்கொள்வதற்கு மேற்குலகம் அனுமதிவழங்கியதை தொடர்ந்து இந்த தாக்குதலை மேற்கொண்டுள்ளதாக அவர் தெரிவித்துள்ளார்.
+
+கார்க்கிவ்விற்கு அருகில் உள்ள ரஸ்ய பிரதேசங்கள் மீது உக்ரைன் தாக்குதலை மேற்கொள்வதற்கு அமெரிக்க ஜனாதிபதி அனுமதியளித்திருந்தமை குறிப்பிடத்தக்கது.
+
+உக்ரைன் தாங்கள் வழங்கிய ஆயுதங்களை எவ்வாறு பயன்படுத்தலாம் என்பது குறித்த கட்டுப்பாடுகளை மேற்குலக நாடுகள் தளர்த்தியுள்ளன.
+
+இது தன்னுடைய படையினர் கார்கிவ் பிராந்தியத்தை காப்பாற்றுவதற்கு உதவும் என அவர் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/9714bd34.json)
 
 ---
 
@@ -136,6 +224,8 @@ The BJP is leading is leading on 237 seats, while the Congress is ahead on 97. I
 
 [Data](articles/e55888a8.json)
 
+[Extended Data](ext_articles/e55888a8.ext.json)
+
 ---
 
 ### Sri Lanka faces barriers in reclaiming priceless artifacts from Britain
@@ -160,6 +250,22 @@ Last year, the Netherlands returned six Kandyan artifacts, including gold and si
 
 ---
 
+### பதுளையில் மின்சாரம் தாக்கி இளைஞர் பலி!
+
+*2024-06-04 11:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/185255) · `ta`
+
+பதுளை, நுகே சந்தி பகுதியில் விளையாட்டு மைதானத்திற்கு அருகில் உள்ள காணியொன்றில் மின்சாரம் தாக்கி  ஒருவர் உயிரிழந்துள்ளதாக பதுளை பொலிஸார் தெரிவித்தனர்.
+
+வன விலங்குகளிடமிருந்து மரக்கறிகளைப் பாதுகாப்பதற்காக சட்டவிரோதமாக பொருத்தப்பட்டிருந்த மின்சார கம்பிகளில் சிக்கியதில் இந்த மரணம் இடம்பெற்றுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+மேலும், சம்பவம் தொடர்பான மேலதிக விசாரணைகளை பதுளை பொலிஸார் மேற்கொண்டு வருவதாக தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/aa96fd1f.json)
+
+---
+
 ### Litrow gas prices down
 
 *2024-06-04 10:57:07* · [`adalk`](https://www.ada.lk/breaking_news/ලිට්‍රෝ-ගෑස්-මිල-බස්සයි/11-410000) · `si`
@@ -181,6 +287,36 @@ A 2.3 kilogram gas cylinder has been reduced by Rs.
 [Data](articles/91ca8da0.json)
 
 [Extended Data](ext_articles/91ca8da0.ext.json)
+
+---
+
+### லிட்ரோ எரிவாயு விலை குறைப்பு
+
+*2024-06-04 10:49:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/லிட்ரோ-எரிவாயு-விலை-குறைப்பு/150-338410) · `ta`
+
+இன்று (04) நள்ளிரவு முதல் சமையல் எரிவாயு சிலிண்டரின் விலையை குறைக்க நடவடிக்கை எடுத்துள்ளதாக லிட்ரோ எரிவாறு நிறுவனம் தெரிவித்துள்ளது.
+
+இதன்படி, 12.5 கிலோ கிராம் எரிவாயு சிலிண்டர்  150 ரூபாவினால் குறைக்கப்படவுள்ள நிலையில், அதன் புதிய விலை 3,790 ரூபாவாகும்.
+
+5 கிலோ கிராம் எடையுள்ள எரிவாயு சிலிண்டரின் விலை 60 ரூபாவால் குறைக்கப்படவுள்ளதுடன், அதன் புதிய விலை 1,525 ரூபாவாகும்.
+
+2.3 கிலோ கிராம் எடையுள்ள எரிவாயு சிலிண்டரின் விலை 28 ரூபாவால் குறைக்கப்படவுள்ளதுடன், அதன் புதிய விலை 712 ரூபாவாகும்.
+
+◼️
+
+[Data](articles/5d4c2bc0.json)
+
+---
+
+### உத்தேச மின்சார சபை மறுசீரமைப்பு சட்டமூலம் தொடர்பான தீர்ப்பு வெளியானது
+
+*2024-06-04 10:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/185270) · `ta`
+
+உத்தேச மின்சார சபை மறுசீரமைப்பு சட்டமூலத்தின் ஒரு சில ஏற்பாடுகளை நிறைவேற்ற வேண்டுமாயின் மூன்றில் இரண்டு விசேட பெரும்பான்மை ஆதரவுடன், சர்வஜன வாக்கெடுப்புக்கும் செல்ல வேண்டும் என உயர் நீதிமன்றம் தீர்ப்பு அளித்துள்ளது.
+
+◼️
+
+[Data](articles/4512599f.json)
 
 ---
 
@@ -332,6 +468,40 @@ The retail price of a 2.3 kg cylinder of gas will be reduced by Rs. 28, and its 
 
 ---
 
+### LP gas prices to be reduced by Rs.150 from tonight
+
+*2024-06-04 10:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/LP-gas-prices-to-be-reduced-by-Rs-150-from-tonight/108-284056) · `en`
+
+Colombo, June 4 (Daily Mirror) - It has been decided to reduce the retail price of a 12.5 kg cylinder of Litro domestic LP gas by Rs. 150 with effect from midnight today, Litro Gas Chairman Muditha Peiris said today.
+
+He said the decision was taken according to the monthly effective price formula.
+
+After the price reduction the new retail price of a 12.5 kg cylinder of Litro domestic LP gas will be Rs. 3,790.
+
+Accordingly, the price of a 5kg cylinder of gas has been reduced by Rs. 60, and its new price will be Rs. 1,525.
+
+The retail price of a 2.3 kg cylinder of gas will be reduced by Rs. 28, and its new price will be Rs. 712.
+
+◼️
+
+[Data](articles/49f3825d.json)
+
+---
+
+### இந்தியாவின் புதிய பிரதமருக்கு வாழ்த்து கூற ஜனாதிபதி ரணில் ஞாயிறு டெல்லி செல்கிறார்
+
+*2024-06-04 10:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/185265) · `ta`
+
+இருநாள் உத்தியோகப்பூர்வ விஜயத்தை மேற்கொண்டு ஜனாதிபதி ரணில் விக்கிரமசிங்க எதிர்வரும் ஞாயிற்றுக்கிழமை இந்தியாவுக்கு செல்கின்றார். இந்திய தேர்தல் முடிவுகள் இன்று செவ்வாய்க்கிழமை வெளிவரவுள்ள நிலையில், இந்தியாவின் புதிய பிரதமருக்கு நேரடியாக சென்று வாழ்த்து கூறும் வகையில் ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் டெல்லி விஜயம் ஏற்பாடு செய்யப்பட்டுள்ளது.
+
+ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் இந்த விஜயமானது இருநாடுகளின் உறவுகளின் வலுவான நிலையையும் இலங்கையின் பொருளாதார மீட்சியில் இந்தியாவின் ஒத்துழைப்புகள் இன்றியமையாத ஒன்று என்பதையும் எடுத்துக்;காட்டும் வகையில் அமைந்துள்ளது. எனவே தான் இந்திய தேர்தல் முடிவுகள் வெளிவரவுள்ள நிலையில் யார் ஆட்சி அமைத்தாலும் அந்த அரசாங்கத்துடன் ஒன்றித்து இருதரப்பு உறவுகளை வலுப்படுத்தல் மற்றும் புதிய பொருளாதார இணைப்புகளை துரிதப்படுத்தல் போன்றவற்றில் இலங்கையின் ஆர்வத்தை வெளிப்படுத்தும் வகையில் ஜனாதிபதி ரணில் டெல்லி செல்கின்றார்.
+
+...
+
+[Data](articles/076b11e7.json)
+
+---
+
 ### Price of Litro LP gas reduced
 
 *2024-06-04 10:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/99646/price-of-litro-lp-gas-reduced) · `en`
@@ -429,6 +599,18 @@ He mentioned that they will discuss with the trade union representatives regardi
 [Data](articles/e195dde2.json)
 
 [Extended Data](ext_articles/e195dde2.ext.json)
+
+---
+
+### வெள்ளம் ; பிரதான மார்க்கத்தில் ரயில் சேவைகள் தாமதம்
+
+*2024-06-04 09:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/185256) · `ta`
+
+கம்பஹா மற்றும் வெயாங்கொடை ரயில் நிலையங்களுக்கு இடையில் வெள்ளம் ஏற்பட்டுள்ளமையாலேயே பிரதான  மார்க்கத்தில் ரயில் சேவைகள் தாமதமடைந்துள்ளதாக ரயில் திணைக்களம் தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/a0b2cba1.json)
 
 ---
 
@@ -664,6 +846,22 @@ Chasing a target of 184, the Uganda team scored only 58 runs in 16 overs.
 
 ---
 
+### குழாய்கள் சேதம் ; பல பகுதிகளுக்கு குறைந்த அழுத்தத்தில் நீர் விநியோகம்
+
+*2024-06-04 09:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/185257) · `ta`
+
+நாட்டில் நிலவும் சீரற்ற வானிலை காரணமாக நீர் விநியோக குழாய்கள் சேதமடைந்துள்ளதால் இன்று செவ்வாய்க்கிழமை பல பகுதிகளில் குறைந்த அழுத்தத்தில் நீர் விநியோகிக்கப்படும் என தேசிய நீர் வழங்கல் மற்றும் வடிகாலமைப்பு சபை அறிவித்துள்ளது.
+
+அதன்படி, காலை 6 மணி முதல் 9 மணி வரையிலும் மாலை 5 மணி முதல் இரவு 9 மணி வரையிலும் சில பிரதேசங்களுக்கு குறைந்த அழுத்தத்தில் நீர் விநியோகம் செய்யப்படும் என அந்த சபை மேலும் தெரிவித்துள்ளது.
+
+மேலும், பாதுக்கை, கொடகம, ஹோமாகம, பன்னிபிட்டிய, மஹரகம, ருக்மல்கம, பெலன்வத்த, மத்தேகொட, பொரலஸ்கமுவ, பெபிலியான, கலகெதர ஆகிய பகுதிகளில் குறைந்த அழுத்தத்தில் நீர் விநியோகிக்கப்படவுள்ளது.
+
+◼️
+
+[Data](articles/887fcde2.json)
+
+---
+
 ### Counting of votes in the Indian general election begins
 
 *2024-06-04 09:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197366) · `si`
@@ -711,6 +909,32 @@ The wind is expected to blow from the southwest direction in the seas around the
 [Data](articles/eb87538a.json)
 
 [Extended Data](ext_articles/eb87538a.ext.json)
+
+---
+
+### Dehiwala Gateway student Vaishalini won the International Award
+
+*2024-06-04 09:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/185184) · `ta`
+
+Vaishalini Rajendran, a standout student from Dehiwala Gateway College, has been honored with the Valuable Sonta International Young Female Award for Public Issues. Recognized for her leadership, academic excellence, and commitment to public service, Vaishalini, aged 18, is a role model for young women in Sri Lanka. She excels in education, winning numerous awards, and is actively involved in various extracurricular activities showcasing her leadership and dedication to social causes.
+
+🟩
+
+Vaishalini Rajendran, the best student of Dehiwala Gateway College, has won the Valuable Sonta International Young Female Award for Public Issues in the 25th of Sri Lanka, India, Bangladesh and Nepal.
+
+The award recognizes her leadership skills, the highest talent in the field of education and the commitment to public service and is a significant role model for young women in Sri Lanka.
+
+Sonta International, a world firm, provides a dedicated dedication to women through the YWPA Award, Service and Support for young women between the age of 16 and 19 years of age, who are firmly committed to leadership in public and charities.
+
+Although about 40 percent of the world's workers are women, only 25.7 percent of all national parliamentarians were women as of September 1, 2021, according to the data of the Union of Parliament.
+
+Sonta International believes that young women play an important role in the advancement of women in the public sector.
+
+...
+
+[Data](articles/3ab02422.json)
+
+[Extended Data](ext_articles/3ab02422.ext.json)
 
 ---
 
@@ -1043,32 +1267,6 @@ According to the Epidemiology unit, 25,095 dengue cases have been reported from 
 [Data](articles/814063a4.json)
 
 [Extended Data](ext_articles/814063a4.ext.json)
-
----
-
-### Dehiwala Gateway student Vaishalini won the International Award
-
-*2024-06-04 06:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/185184) · `ta`
-
-Vaishalini Rajendran, a standout student from Dehiwala Gateway College, has been honored with the Valuable Sonta International Young Female Award for Public Issues. Recognized for her leadership, academic excellence, and commitment to public service, Vaishalini, aged 18, is a role model for young women in Sri Lanka. She excels in education, winning numerous awards, and is actively involved in various extracurricular activities showcasing her leadership and dedication to social causes.
-
-🟩
-
-Vaishalini Rajendran, the best student of Dehiwala Gateway College, has won the Valuable Sonta International Young Female Award for Public Issues in the 25th of Sri Lanka, India, Bangladesh and Nepal.
-
-The award recognizes her leadership skills, the highest talent in the field of education and the commitment to public service and is a significant role model for young women in Sri Lanka.
-
-Sonta International, a world firm, provides a dedicated dedication to women through the YWPA Award, Service and Support for young women between the age of 16 and 19 years of age, who are firmly committed to leadership in public and charities.
-
-Although about 40 percent of the world's workers are women, only 25.7 percent of all national parliamentarians were women as of September 1, 2021, according to the data of the Union of Parliament.
-
-Sonta International believes that young women play an important role in the advancement of women in the public sector.
-
-...
-
-[Data](articles/3ab02422.json)
-
-[Extended Data](ext_articles/3ab02422.ext.json)
 
 ---
 
@@ -1993,257 +2191,5 @@ Their journey began in 2016, when they started jamming together, crafting origin
 [Data](articles/dd3a7e24.json)
 
 [Extended Data](ext_articles/dd3a7e24.ext.json)
-
----
-
-### On top of the world
-
-*2024-06-03 23:27:00* · [`islandlk`](http://island.lk/on-top-of-the-world/) · `en`
-
-Sampath Siriwardena, General Manager, Galadari Hotel, Colombo, is on top of the world at the moment!
-
-The hotel has been certified as a Great Place To Work and Sampath had this to say: “I take this opportunity to thank our employees for their powerful voiced opinions that enabled us to be certified as a Great Place To Work.
-
-“It’s with great pride that I announce that Galadari Hotel has won the trust of our employees.”
-
-Sampath also came in for special praise, on social media, from many, including musicians.
-
-My best wishes to Sampath who always reaches out to us musicians!
-
-It is a great pleasure working there. Congratulations and best wishes Mr Sampath Siriwardena.
-
-A great GM, friend and a humble person. I call him ‘The Singing GM.’ He started the Magarita Blue…at the Galadari Hotel, and it was the place for all bands, with good entertainment, food and drink. Thank you Sir! You are Simply the Best.
-
-...
-
-[Data](articles/09df0189.json)
-
-[Extended Data](ext_articles/09df0189.ext.json)
-
----
-
-### Full details of schools that will be closed tomorrow
-
-*2024-06-03 23:23:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாளை-மூடப்படும்-பாடசாலைகளின்-முழு-விபரங்கள்-வெளியானது/175-338389) · `ta`
-
-Due to poor weather, state schools in Gampaha, Kelaniya, and Kaduwela zones will close tomorrow. Other areas remain open. Further closures may depend on post-weather assessments by Provincial Zone Directors.
-
-🟩
-
-Due to the current bad weather, it has been decided to grant special holidays to state schools in the following provinces, districts and regions tomorrow (06/04/2024).
-
-It has been decided that holidays will not be given to schools in other provinces and regions. The school will be held in those provinces as usual.
-
-Schools will be held on 06/04/2024 as usual in all provinces, districts and regions.
-
-The Ministry of Education has announced that decisions will be taken on the conduct of schools by the Provincial Zone Directors on the basis of the weather after 06/04/2024.
-
-All state schools in the Gampaha and Kelaniya Education Zones and Kaduwela Education Division will be closed tomorrow. Remble
-
-◼️
-
-[Data](articles/980be800.json)
-
-[Extended Data](ext_articles/980be800.ext.json)
-
----
-
-### Sri Lanka's defeat in Sri Lanka
-
-*2024-06-03 23:16:40* · [`adalk`](https://www.ada.lk/sports/පළමු-තරගයෙන්-ලංකාවට-දරුණු-පරාජයක්/9-409999) · `si`
-
-In the T20 World Cup, South Africa triumphed over Sri Lanka. Sri Lanka, batting first after winning the toss, could only manage 77 runs, with Anrnnjay taking 4 wickets. Kusal Mendis top-scored with 19 runs. South Africa reached their target in 16.2 overs, losing 4 wickets.
-
-🟩
-
-South Africa defeated the Twenty20 World Cup and defeated the South Africa.
-
-Sri Lanka won the toss and elected to bat where Sri Lanka were bowled out for 77 runs.
-
-Anrnnjay was elected to 4 wickets for 7 overs. Kusal Mendis, the highest scorer of Sri Lankan innings scored 19 runs.
-
-South Africans crossed the loss of 4 wickets in 16.2 overs.
-
-◼️
-
-[Data](articles/4233c3c3.json)
-
-[Extended Data](ext_articles/4233c3c3.ext.json)
-
----
-
-### Superssed to South Africa
-
-*2024-06-03 23:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197355) · `si`
-
-In the World Cup match against Sri Lanka, South Africa emerged victorious with a six-wicket win. The Sri Lankan captain chose to bat first but was dismissed for 77 runs, their lowest score in 20 internationals. South Africa chased down the target of 78 runs in 16 overs, losing 4 wickets. Key contributors included Wishing Nissanka with 3 runs and Angelo Mathews with 16 runs for Sri Lanka, while South Africa's bowlers restricted the opposition.
-
-🟩
-
-South Africa won the match between Sri Lanka and South Africa in the World Cup match today (03).
-
-The Sri Lankan captain, won the toss and elected to the tournament in the Nassawu Stadium in New York, decided to bat first.
-
-Accordingly, South Africa won the six-wicket six runs in 45 runs.
-
-Wishing Nissanka tied 3 runs while Kumindic Mendis scored only 11 points.
-
-South Africa bowlers were able to redirect the leader of the leader Fanu and Sardera Samarawickrema.
-
-Angelo Mathews and Views Shanated a 23rd wicket while Mathews scored 16 runs and 9 runs.
-
-The Sri Lankan team was only 77 runs for the loss of 77 due to the irresponsible batting batting of batsmen.
-
-The number of these points was also present at the lowest mark of Sri Lanka in 20 international.
-
-Chasing a target of 78, South Africa wins 4 wickets in 16 overs and 4 overs.
-
-◼️
-
-[Data](articles/0377448e.json)
-
-[Extended Data](ext_articles/0377448e.ext.json)
-
----
-
-### First Capital Holdings reports robust financial performance for FY 2023/24
-
-*2024-06-03 22:56:00* · [`islandlk`](http://island.lk/first-capital-holdings-reports-robust-financial-performance-for-fy-2023-24/) · `en`
-
-First Capital Holdings PLC (the Group), a leading investment institution, and a member of the Janashakthi Group, announces an outstanding financial performance for the fiscal year ended 31 March 2024, recording a Total Comprehensive Income of Rs. 10.1Bn, a significant increase from Rs. 2.7Bn in the previous year. This substantial growth underscores the Group’s strategic positioning and robust operational execution across its business divisions.
-
-The Primary Dealer division was the major contributor to the Group’s impressive financial results, reporting a Profit after Tax of Rs. 11.1Bn, a remarkable surge from Rs. 2.9Bn in the previous year. This performance was primarily driven by substantial trading gains on the government securities portfolio amounting to Rs. 15.8Bn and net interest income of Rs. 3.2Bn, compared to trading gains of Rs. 2.4Mn and net interest income of Rs. 3.6Bn in the prior year.
-
-Full’r Burgers’ Epic Gojira x Kong Burger Challenge Finale at Crescat Boulevard
-
-...
-
-[Data](articles/fc42fc1b.json)
-
-[Extended Data](ext_articles/fc42fc1b.ext.json)
-
----
-
-### A growing global footprint: Sierra Cables expands to Maldives
-
-*2024-06-03 22:54:00* · [`islandlk`](http://island.lk/a-growing-global-footprint-sierra-cables-expands-to-maldives/) · `en`
-
-Sierra Cables PLC, one of Sri Lanka’s pioneering cable manufacturers, recently entered into a strategic partnership with ASK Holdings, a key supplier of hardware, construction and electrical engineering products and services in the Maldives. The new collaboration between the two will further enhance the distribution, availability of high-quality products and market presence of Sierra Cables in Maldives while contributing to the ongoing development and growth of the region’s infrastructure in keeping with the company’s growing global footprint.
-
-Sierra Cables currently fulfils orders from Sri Lanka for client projects and retail stockists in the Maldives. With this, the company has recognised the need for an improved and structured approach in order to maximise its sales presence in the Maldivian market and the collaboration with ASK Holdings is a significant step in strengthening Sierra Cables’ overseas marketing strategy.
-
-...
-
-[Data](articles/e8cf1141.json)
-
-[Extended Data](ext_articles/e8cf1141.ext.json)
-
----
-
-### Gunatilleke Rajapaksa hospitalized
-
-*2024-06-03 22:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197354) · `si`
-
-In a dispute at the Presidential Secretariat, MP Gunatilleke Rajapaksa was injured and hospitalized after a fall caused by MP Mahindananda Aluthgamage during a disagreement over funds for Kandy District development programs. UNP MP Jagath Samarawickrema intervened to resolve the situation. Doctors confirmed Rajapaksa suffered a leg fracture and he was treated at the Army Hospital.
-
-🟩
-
-MP Gunatilleke Rajapaksa was injured and hospitalized due to a dispute at the Members of the Government.
-
-The Government Member of Parliament was held at the Presidential Secretariat under the patronage of Janan Bandraya Ranil Wickremesinghe this afternoon.
-
-A heated exchange of words have been made between MP and Mahindananda Aluthgamage to take up a funds for development programs in the Kandy District.
-
-UNP MP Jagath Samarawickrema has intervened and has settled the incident.
-
-However, between MP Mahindananda Aluthgamage, Member of the Mahindananda Aluthgamage, has been restored by MP Mahindananda Aluthgamage and MP Mahindananda Aluthgamage on the staff.
-
-According to sources, MP Gunatilleke Rajapaksa has fallen in the staircase when he was pushing by the Mahindananda Aluthgamage.
-
-The injured MP has been admitted to the Army Hospital for treatment.
-
-Doctors have revealed that a fracture of MP Gunatilleke Rajapaksa had taken place on the leg of MP.
-
-...
-
-[Data](articles/75bebd59.json)
-
-[Extended Data](ext_articles/75bebd59.ext.json)
-
----
-
-### Expolanka Holdings’ Exit Offer on until June 10; delisting challenged in court
-
-*2024-06-03 22:49:00* · [`islandlk`](http://island.lk/expolanka-holdings-exit-offer-on-until-june-10-delisting-challenged-in-court/) · `en`
-
-Expolanka Holdings PLC, a company that at one time enjoyed one of the highest market capitalizations in the CSE, has exited the market and is extending its Exit Offer until 4.30 PM on June 10, 2024.
-
-SG Holdings, the parent company of Expolanka Holdings, announced on March 1 it was delisting the company from the CSE.
-
-Some minority shareholders have filed a case challenging the delisting of Expolanka Holdings, before the Court of Appeal of Sri Lanka. The court is scheduled to hold a further hearing on June 6.
-
-“By reason of the aforesaid and by reason of the many requests received by Foreign shareholders and representatives of deceased shareholders requesting additional time, the company has taken the decision to extend the Exit Offer until 4.30 PM on Monday, 10th June 2024, Expolanka said in a CSE filing.
-
-Both indices moved downwards. The All Share Price Index went down by 44.46 points, while the S and P SL20 declined by 7.14 points. Turnover stood at Rs 686 million without a crossing.
-
-...
-
-[Data](articles/b4c38d8c.json)
-
-[Extended Data](ext_articles/b4c38d8c.ext.json)
-
----
-
-### Stakeholders urge SLPA to ensure minimum safety standards at Colombo Port
-
-*2024-06-03 22:44:00* · [`islandlk`](http://island.lk/stakeholders-urge-slpa-to-ensure-minimum-safety-standards-at-colombo-port/) · `en`
-
-Pointing at safety standards recommended by Singapore’s Transport Safety Investigation Bureau (TSIB), Sri Lanka’s shipping industry stakeholders urge the Sri Lanka Port Authority (SLPA) to ensure minimum safety standards at the Port of Colombo, in order to avoid future catastrophe similar to X-Press Pearl (XP).
-
-The TSIB, which is the air, marine and rail accidents and incidents investigation authority in Singapore, has made several safety recommendations to the SLPA in its final report ‘FIRE ONBOARD X-PRESS PEARL AT COLOMBO ANCHORAGE’, released late last year.
-
-X-Press Pearl, which was carrying several containers of epoxy resin plastics, caused an overwhelming economic, social and environmental impact to Sri Lanka in 2021, as the ship caught on fire and subsequent sinking. The report highlighted the rather limited support of Sri Lankan authorities in diffusing the situation, partially due to the limited firefighting capabilities of the SLPA.
-
-...
-
-[Data](articles/1ffa4f3b.json)
-
-[Extended Data](ext_articles/1ffa4f3b.ext.json)
-
----
-
-### Full’r Burgers’ Epic Gojira x Kong Burger Challenge Finale at Crescat Boulevard
-
-*2024-06-03 22:44:00* · [`islandlk`](http://island.lk/fullr-burgers-epic-gojira-x-kong-burger-challenge-finale-at-crescat-boulevard/) · `en`
-
-Full’r Burgers, renowned to be the number one growing burger chain in Sri Lanka, hosted the grand finale of its Gojira x Kong Burger Challenge at its Crescat Boulevard outlet, which is now fully open for dine-in, on Saturday, May 18, 2024. The event, drawing an enthusiastic crowd, featured participants racing to finish a colossal 1kg burger within 150 seconds. Somiru Dasun emerged victorious, completing the challenge in an impressive 2 minutes and 3 seconds.
-
-The atmosphere crackled with excitement as contenders battled against the clock and each other, showcasing both their appetites and determination. Spectators cheered on the competitors, adding to the adrenaline-fueled thrill of the challenge.
-
-With seven thriving outlets across the western province, Full’r Burgers remains a pioneer in burger innovation. Each burger crafted by Full’r tells a story of passion and meticulous craftsmanship, catering to diverse and adventurous palates.
-
-...
-
-[Data](articles/b8af536e.json)
-
-[Extended Data](ext_articles/b8af536e.ext.json)
-
----
-
-### World Environment Day celebrations in Ratnapura tomorrow cancelled due to disaster situation
-
-*2024-06-03 22:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/World-Environment-Day-celebrations-in-Ratnapura-tomorrow-cancelled-due-to-disaster-situation/108-284009) · `en`
-
-Colombo, June 3 (Daily Mirror) - The national ceremony to mark the World Environment Day, which was scheduled to take place tomorrow (5) in Ratnapura under the auspices of President Ranil Wickremesinghe, will be held in a low key due to the prevailing disaster situation, the Daily Mirror learns.
-
-The event which was to be held at the Sinharaja Forest Reserve’s Ratnapura entrance at Kudawa under the patronage of the President has been decided to be shift from there to the Presidential Secretariat owing to the adverse weather conditions.
-
-Meanwhile, the President has instructed that the money to be spent on the celebrations of the state event of the World Environment Day on June 5 be used for disaster management operations and to compensate the victims of the natural calamity, State Minister of Environment Janaka Wakkumbura told a media briefing.
-
-...
-
-[Data](articles/c4b9925b.json)
-
-[Extended Data](ext_articles/c4b9925b.ext.json)
 
 ---

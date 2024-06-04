@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-04 10:19:02**
+As of **2024-06-04 10:35:10**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,538
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,274 (100.0%) of 28,276 articles have been extended.
+28,276 (100.0%) of 28,276 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ He mentioned that they will discuss with the trade union representatives regardi
 ◼️
 
 [Data](articles/e195dde2.json)
+
+[Extended Data](ext_articles/e195dde2.ext.json)
 
 ---
 
@@ -107,6 +109,8 @@ Accordingly, the July tariff proposal will be submitted to the Public Utilities 
 ◼️
 
 [Data](articles/6588c250.json)
+
+[Extended Data](ext_articles/6588c250.ext.json)
 
 ---
 

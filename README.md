@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-04 13:34:26**
+As of **2024-06-04 13:53:32**
 
 ## Newspaper Stats
 
-*Scraped **28,338** Articles*
+*Scraped **28,339** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ adaderanalk | 3,221
 tamilmirrorlk | 3,329
 virakesarilk | 4,358
 dailymirrorlk | 4,483
-adaderanasinhalalk | 4,552
+adaderanasinhalalk | 4,553
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,334 (100.0%) of 28,338 articles have been extended.
+28,338 (100.0%) of 28,339 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-04 (Tuesday)
+
+### කැලඹුණු කාලගුණයෙන් සිදුවූ මරණ සංඛ්‍යාව ඉහළට
+
+*2024-06-04 13:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197381) · `si`
+
+අයහපත් කාලගුණික තත්ත්වය හේතුවෙන් මේ වනවිට පුද්ගල මරණ 26ක් වාර්තා වී තිබේ.
+
+ආරක්ෂක රාජ්‍ය අමාත්‍ය ප්‍රමිත බණ්ඩාර තෙන්නකෝන් මහතා අද (04) පාර්ලිමේන්තුවේදී ප්‍රකාශයක් සිදුකරමින් මේ බව සඳහන් කළේය.
+
+එහිදී රාජ්‍ය අමාත්‍යවරයා වැඩිදුරටත් සඳහන් කළේ අයහපත් කාලගුණික තත්ත්වය හේතුවෙන් පුද්ගලයින් 41 ක් මේ වනවිට තුවාල ලබා ඇති බවය.
+
+එසේම දිස්ත්‍රික්ක 23ක ප්‍රාදේශීය ලේකම් කොට්ඨාශ 262ක පවුල් 33,422ක පුද්ගලයින් 130,021ක් ආපදාවට ලක්ව ඇත.
+
+රජය විසින් එම ප්‍රදේශ ආශ්‍රිතව පවත්වාගෙන යනු ලබන සුරක්ෂා මධ්‍යස්ථාන 116ක පවුල් 2,368කට අයත් පුද්ගලයින් 9,248ක් රඳවා ඇති බවද එහිදී රාජ්‍ය අමාත්‍යවරයා වැඩිදුරටත් සඳහන් කර තිබේ.
+
+◼️
+
+[Data](articles/82d71d95.json)
+
+---
 
 ### Price of Laugfs LP gas also reduced
 
@@ -45,6 +65,8 @@ Meanwhile, the price of a 05 kg cylinder has been reduced by Rs. 65, with it now
 ◼️
 
 [Data](articles/5cc4ba42.json)
+
+[Extended Data](ext_articles/5cc4ba42.ext.json)
 
 ---
 
@@ -63,6 +85,8 @@ The prices in the other areas and pack sizes will be adjusted accordingly.
 ◼️
 
 [Data](articles/ae1613a8.json)
+
+[Extended Data](ext_articles/ae1613a8.ext.json)
 
 ---
 
@@ -655,6 +679,8 @@ Winning UP is a key determinant of who rules nationally in New Delhi.
 ...
 
 [Data](articles/54af9f34.json)
+
+[Extended Data](ext_articles/54af9f34.ext.json)
 
 ---
 
@@ -1628,6 +1654,8 @@ This submission is made in the long-term sustainable interests of Sri Lanka and 
 
 [Data](articles/a4680ad0.json)
 
+[Extended Data](ext_articles/a4680ad0.ext.json)
+
 ---
 
 ### University non-academic employees today
@@ -2287,21 +2315,5 @@ In a statement the All Union Alliance of BOI said the following.
 [Data](articles/ad3cf294.json)
 
 [Extended Data](ext_articles/ad3cf294.ext.json)
-
----
-
-### Construction, Power and Energy Expo 2024 from 5-7 July
-
-*2024-06-04 02:22:07* · [`dailyftlk`](https://www.ft.lk/business/Construction-Power-and-Energy-Expo-2024-from-5-7-July/34-762581) · `en`
-
-Lanka Exhibition and Conference Services (LECS) is proud to announce the return of Sri Lanka’s most focused construction, interior products, lighting, power and energy exhibition - Construction Power and Energy Expo 2024. Scheduled to take place from 5-7 July 2024 at the BMICH, Colombo, Sri Lanka.
-
-The Construction Power and Energy Expo is Sri Lanka’s premier exhibition in the construction, interior products, power, and energy-related sectors. With its eighth successive year, the expo provides a comprehensive platform for industry stakeholders, service providers, and exhibitors to showcase their products and services, forge valuable connections, and drive industry innovation. The power and energy industry plays a critical role in Sri Lanka’s economic well-being. The exhibition will have a strong focus on this sector, highlighting advances in renewable energy and energy efficiency.
-
-...
-
-[Data](articles/89d3c3bc.json)
-
-[Extended Data](ext_articles/89d3c3bc.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-04 22:34:51**
+As of **2024-06-04 22:51:54**
 
 ## Newspaper Stats
 
-*Scraped **28,416** Articles*
+*Scraped **28,417** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,533
 economynextcom | 1,611
 dailyftlk | 1,669
 adalk | 2,423
-adaderanalk | 3,233
+adaderanalk | 3,234
 tamilmirrorlk | 3,338
 virakesarilk | 4,373
 dailymirrorlk | 4,500
@@ -26,11 +26,31 @@ adaderanasinhalalk | 4,568
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,416 (100.0%) of 28,416 articles have been extended.
+28,416 (100.0%) of 28,417 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-04 (Tuesday)
+
+### President Ranil congratulates Modi on election win
+
+*2024-06-04 22:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/99666/president-ranil-congratulates-modi-on-election-win) · `en`
+
+Sri Lankan President Ranil Wickremesinghe joined world leaders on Tuesday in congratulating Indian Prime Minister Narendra Modi on his and Bharatiya Janata Party (BJP)-led National Democratic Alliance’s (NDA) third consecutive victory in the Lok Sabha elections.
+
+“I extend my warmest felicitations to the BJP led NDA on its victory, demonstrating the confidence of the Indian people in the progress and prosperity under the leadership of PM Narendra Modi,” he said in a post on ‘X’ (formerly Tiwtter).
+
+“As the closest neighbour, Sri Lanka looks forward to further strengthening the partnership with India,” Wickremesinghe said.
+
+Vote counting is still underway in India’s 2024 Lok Sabha election. Prime Minister Narendra Modi‘s Bharatiya Janata Party and its National Democratic Alliance has yet to secure the 272 seats needed for a parliamentary majority, but the prime minister has declared “a very big win.”
+
+Modi, 73, is only the second Indian prime minister to win a third straight term.
+
+...
+
+[Data](articles/46c307f6.json)
+
+---
 
 ### Modi victory;Message sent by Ranil
 
@@ -2301,27 +2321,5 @@ Similarly, a Scigning Degree has been obtained from the Veterinary Research Inst
 [Data](articles/99cd933c.json)
 
 [Extended Data](ext_articles/99cd933c.ext.json)
-
----
-
-### SC rules several clauses of ‘Sri Lanka Electricity Bill’ inconsistent with constitution
-
-*2024-06-04 11:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/99649/sc-rules-several-clauses-of-sri-lanka-electricity-bill-inconsistent-with-constitution) · `en`
-
-The Supreme Court has informed that several clauses of the proposed ‘Sri Lanka Electricity Bill’ are inconsistent with the Constitution of Sri Lanka.
-
-The Supreme Court determination states that these clauses shall only be passed by a special majority of Parliament, and that one clause requires approval through a referendum, the Speaker informed the House.
-
-However, the country’s apex court has stated that these clauses could be passed with a simple majority if amended as specified in the Supreme Court’s determination.
-
-The hearing of the petitions challenging the bill commenced on the 9th of May before a three-member Supreme Court bench consisting of Justices Vijith Malalgoda, Shiran Gunaratne, and Arjuna Obeysekera.
-
-Additional Solicitor General Viveka Siriwardena, representing the Attorney General, emphasized that the bill aims to improve the efficiency of electricity generation, distribution, and sale while providing a convenient service to consumers.
-
-...
-
-[Data](articles/e198df58.json)
-
-[Extended Data](ext_articles/e198df58.ext.json)
 
 ---

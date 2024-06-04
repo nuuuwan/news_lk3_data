@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-05 04:35:22**
+As of **2024-06-05 04:52:55**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,570
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,448 (100.0%) of 28,449 articles have been extended.
+28,449 (100.0%) of 28,449 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -82,19 +82,25 @@ After attending several events in Ruwanwella, the President attended the meeting
 
 ---
 
-### ’இந்திய ஆசிரியர்களுக்கு அனுமதி இல்லை’
+### Indian teachers are not allowed
 
 *2024-06-05 01:46:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்திய-ஆசிரியர்களுக்கு-அனுமதி-இல்லை/175-338456) · `ta`
 
-தோட்டப்புற பாடசாலைகளில் இந்திய ஆசிரியர்கள் பணியாற்றுவதற்காக தனது காலத்தில் எவ்வித அனுமதியும் வழங்கப்படவில்லை என்று கல்வி அமைச்சர் சுசில் பிரேமஜயந்த தெரிவித்துள்ளார்.
+Susil Premajayantha, Minister of Education, announced that Indian teachers are prohibited from teaching in plantation schools due to lack of permission. This policy affects around 2,000 teachers who had previously volunteered. The decision was made recently, despite past instances where such permissions were granted. A group of 40-50 individuals, including English, Science, and Mathematics teachers, had sought permission via the Indian High Commission, but were denied.
 
-நான் இந்த அமைச்சுப் பதவியை பொறுப்பேற்ற பின்னர். இந்தியாவில் இருந்து இரண்டாயிரம் ஆசிரியர்களுக்கு தன்னார்வ அடிப்படையில் தோட்டப்புறங்களில் சேவையில் ஈடுபட அனுமதி வழங்கப்படவில்லை. அதற்கு முன்னர் நடந்திருக்கலாம் என்றார்.
+🟩
 
-ஆனால், இரண்டு வாரங்களுக்கு முன்னர் ஆசிரியர்களை பயிற்றுவிப்பதற்காக பயிற்றுவிப்பாளர்கள் குழுவொன்று குறிப்பாக ஆங்கில மொழி, விஞ்ஞானம், கணிதம் போன்ற பாடங்கள் தொடர்பில் 40 - 50 பேர் வரையிலான மட்டுப்படுத்தப்பட்ட அளவில் பயிற்றுவிப்பாளர்கள் குழுவொன்றுக்கு அனுமதியை பெறும் வகையில் இந்திய உயர்ஸ்தானிகராலயம் ஊடாக பட்டியல் தயாரிக்கப்பட்டுள்ளது அது மட்டுமே தனக்குத் தெரியும் என்றார்.
+Minister of Education Susil Premajayantha said that the Indian teachers have not been granted any permission to work in the plantation schools.
+
+After I took over this ministry post. Two thousand teachers from India are not allowed to serve in plantation basis on a voluntary basis. He said it may have happened before.
+
+But two weeks ago, a group of instructors, especially English language, science and mathematics, said that the list was made through the Indian High Commission to obtain permission from a group of 40 to 50 people.
 
 ◼️
 
 [Data](articles/3fe734f4.json)
+
+[Extended Data](ext_articles/3fe734f4.ext.json)
 
 ---
 

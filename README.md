@@ -1,22 +1,22 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-04 16:51:20**
+As of **2024-06-04 17:04:06**
 
 ## Newspaper Stats
 
-*Scraped **28,364** Articles*
+*Scraped **28,366** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 257
 dbsjeyarajcom | 270
-bbccomsinhala | 277
+bbccomsinhala | 278
 newsfirstlk | 363
 islandlk | 1,533
 economynextcom | 1,611
 dailyftlk | 1,669
 adalk | 2,416
-adaderanalk | 3,226
+adaderanalk | 3,227
 tamilmirrorlk | 3,332
 virakesarilk | 4,364
 dailymirrorlk | 4,488
@@ -26,47 +26,73 @@ adaderanasinhalalk | 4,558
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,362 (100.0%) of 28,364 articles have been extended.
+28,364 (100.0%) of 28,366 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-04 (Tuesday)
 
-### පොලීසිය ජනතාවගෙන් කළ ඉල්ලීම
+### Liquor shops in several DS devisions closed for 7 days
+
+*2024-06-04 16:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/99659/liquor-shops-in-several-ds-devisions-closed-for-7-days) · `en`
+
+The Department of Excise says that liquor shops in several divisional secretariat devisions will be closed from June 18 to 24 in view of the National Poson Festival.
+
+Accordingly, all the liquor shops in Nuwaragam Palatha Central, Nuwaragam Palatha East and Mihintale Divisional Secretariat divisions will be closed during the aforementioned period.
+
+◼️
+
+[Data](articles/1a2f7646.json)
+
+---
+
+### Request of the police
 
 *2024-06-04 16:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197386) · `si`
 
-අතුරුදන් වූ කාන්තාවක් සහ ඇයගේ දියණිය සොයාගැනීම සඳහා මහජන සහාය ඉල්ලා සිටිමින් පොලීසිය විසින් නිවේදනයක් නිකුත් කර තිබේ.
+A woman and her young daughter have vanished, and her husband reported them missing on May 29th. The police released their photos, promising updates through numbers 071-859 1639 and 011-225 2222.
 
-එම නිවේදනය සමග ඡායාරූපයක් නිකුත් කර ඇති පොලීසිය පවසන්නේ එම කාන්තාව සහ දියණිය පිළිබඳව තොරතුරක් වෙතොත් කඩිනමින් දැනුම්දෙන ලෙසටය.
+🟩
 
-යසෝධා හංසනී කහතුඩුවආරච්චි නමැති 26 හැවිරිදි කාන්තාවක් සහ වයස අවුරුදු 04ක ඇයගේ කුඩා දියණිය මෙලෙස අතුරුදන්ව ඇති බව පොලීසිය පවසයි.
+A disappeared woman and her daughter have issued a statement to the police.
 
-පොලීසිය වැඩිදුරටත් සඳහන් කර ඇත්තේ පසුගිය මැයි මස 29 වනදා සිට තම බිරිඳ සහ දියණිය අතුරුදන් බවට ඇයගේ සැමියා විසින් කටුනායක පොලිස් ස්ථානය වෙත පැමිණිල්ලක් ද සිදුකර ඇති බවය.
+The police have issued a photo with the announcement, the police say that the woman and daughter will be notified.
 
-ඒ අනුව එම කාන්තාව සහ දියණිය පිළිබඳව තොරතුරක් වෙතොත් 071-859 1639 (ස්ථානාධිපති කටුනායක) හෝ 011-225 2222 (කටුනායක පොලිස් ස්ථානය) යන අංක වෙත දැනුම්දීමක් සිදුකරන ලෙසටය.
+Police say that the father of 26-year-old woman named Yasedara Hansani Kahatungaarachchi and her small daughter of age have been disappeared.
+
+The police further stated that her husband had lodged a complaint with her husband to disappear from May 29.
+
+Accordingly, information about the woman and daughter will be revealed 071-859 1639 to Numbers 011-225 2222 (Katunayake Police Station).
 
 ◼️
 
 [Data](articles/5a233192.json)
 
+[Extended Data](ext_articles/5a233192.ext.json)
+
 ---
 
-### இந்திய தேர்தல் முடிவுக்குப் பின் ரணில் முக்கிய அறிவிப்பு
+### Ranil's main announcement after the Indian election
 
 *2024-06-04 16:19:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்திய-தேர்தல்-முடிவுக்குப்-பின்-ரணில்-முக்கிய-அறிவிப்பு/175-338428) · `ta`
 
-இந்திய தேர்தலின் வாக்கெண்ணும் நடவடிக்கைகள் நிறைவடையும் நிலையில், யார்? வெற்றிப்பெற்றுள்ளனர். எந்த கூட்டணி ஆட்சியமைக்க போகிறது என்பது தொடர்பிலான விபரங்கள் இன்னும் சில மணிநேரங்களில் வெளியாகும் என இந்திய தகவல்கள் தெரிவிக்கின்றன.
+After the Indian elections concluded successfully, President Ranil Wickremesinghe announced his candidacy for the upcoming presidential election, expected to be revealed soon.
 
-இந்திய தேர்தல் முடிவு ​உத்தியோகபூர்வமாக வெளியானதன் பின்னரே, ஜனாதிபதி ரணில் விக்கிரமசிங்க முக்கிய அறிவிப்பொன்றை விடுக்க உள்ளார்.
+🟩
 
-அடுத்த ஜனாதிபதித் தேர்தல் தொடர்பிலேயே ஜனாதிபதி ரணில் விக்கிரமசிங்க முக்கிய அறிவிப்பொன்றை விடுக்கவுள்ளார் என அறியமுடிகின்றது.
+When the voting of the Indian election is completed, who is the end of the election?Have been successful. Indian sources say that the details of which coalition is going to rule will be released in a few hours.
 
-அந்த அறிவிப்பை பெரும்பாலும், இன்று (04) விடுக்கவுள்ளார் என அவருக்கு நெருக்கமான வட்டாரங்களில் இருந்து அறிய கிடைத்துள்ளது. பெரும்பாலும் ​பொது வேட்பாளராகவே களமிறங்குவார் என்றும் அறியமுடிகின்றது.
+President Ranil Wickremesinghe is due to make a major announcement only after the Indian election results were officially released.
+
+It is learned that President Ranil Wickremesinghe will make a major announcement in the next presidential election.
+
+He has been known from the close circles that the announcement is mostly to be made today (04). It is also known that he will be the common candidate.
 
 ◼️
 
 [Data](articles/d63631f4.json)
+
+[Extended Data](ext_articles/d63631f4.ext.json)
 
 ---
 
@@ -1200,6 +1226,28 @@ Additional Solicitor General Viveka Siriwardena, representing the Attorney Gener
 
 ---
 
+### ගංවතුර පවතින අවස්ථාවලදී ඔබ නොකළ යුතු දෑ මොනවා ද?
+
+*2024-06-04 11:02:46* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c199zdlrky4o) · `si`
+
+පසුගිය දිනවල පැවති අධික වර්ෂාව සමඟ කළු, කැළණි, ගිං, නිල්වලා සහ අත්තනගළු ඔය පිටාර ගලමින් තිබේ.
+
+මේ හේතුවෙන් කොළඹ, කළුතර, ගාල්ල සහ මාතර ඇතුළු දිස්ත්‍රික්ක වල පහත් බිම් ආශ්‍රිතව මේ වන විටත් ගංවතුර තත්ත්වය පවතින බව වාරිමාර්ග දෙපාර්තමේන්තුව නිවේදනය කර සිටියි.
+
+ගංවතුර තත්ත්වයක් පවතින අවස්ථාවකදී මහජනතාව සිදු නොකළ යුතු දෑ මොනවාදැයි බීබීසී සිංහල සේවය ආපදා කළමනාකරණ මධ්‍යස්ථානයේ අධ්‍යක්ෂක ප්‍රදීප් කොඩිප්පිලි ගෙන විමසීමක් කළේය.
+
+ඔහු සඳහන් කළේ මේවන විටත් ගංවතුර ඇති ස්ථාන නැරඹීමට යාමෙන් සහ ඒ ආශ්‍රිත  ක්‍රියාකාරකම් හේතුවෙන් පුද්ගල මරණ 10ක් වාර්තා වී ඇති බව ය.
+
+'එල් නිනෝ' සහ 'ලා නිනා' තත්ත්වයන් කාලගුණය වෙනස් කරන්නේ කෙසේ ද?
+
+අධික වැසි සහිත කාලගුණය හේතුවෙන් ජුනි මස පළමු වෙනිදා සිට අද (ජුනි මස 04 වෙනිදා) උදෑසන 6.00වන විට පුද්ගලයින් 17 දෙනෙකු ජීවිතක්ෂයට පත්ව තවත් අයෙක් අතුරුදන්ව ඇති බව ආපදා කළමනාකරණ මධ්‍යස්ථාන සඳහන් කළේය.
+
+...
+
+[Data](articles/0678b600.json)
+
+---
+
 ### India election results 2024: Modi’s BJP may fall short of majority
 
 *2024-06-04 11:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/India-election-results-2024-Modis-BJP-may-fall-short-of-majority/155-284059) · `en`
@@ -2267,49 +2315,5 @@ Residents and Amarashtota Police have launched a search operation in search of m
 [Data](articles/8d21c468.json)
 
 [Extended Data](ext_articles/8d21c468.ext.json)
-
----
-
-### Another murder
-
-*2024-06-04 07:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197359) · `si`
-
-A 57-year-old man from Cembukatiyya was murdered in a dispute, leading to his death by a sharp weapon. The incident occurred at the Madampe Police Division. A 36-year-old suspect is in custody, and further inquiries are being conducted by the Madampe police.
-
-🟩
-
-A heated argument caused by a heated argument has been assaulted by a sharp weapon.
-
-The murder was held in the Madampe Police Division in the Madampe Police Division yesterday.
-
-The deceased has been identified as a 57 year old resident of the Cembukatiyya area.
-
-The 36-year-old suspect was seized after he was produced before the police station and Madampe police are conducting further investigations.
-
-◼️
-
-[Data](articles/e0e44472.json)
-
-[Extended Data](ext_articles/e0e44472.ext.json)
-
----
-
-### Sri Lanka budget deficit down, tax revenues up 41-pct to Feb 2024
-
-*2024-06-04 07:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-budget-deficit-down-tax-revenues-up-41-pct-to-feb-2024-166045/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s budget deficit fell to 129.3 billion rupees in the first two months of 2024 down from 322.9 billion rupees last year, with tax revenues climbing 41 percent and interest costs also showed a downward trend.
-
-Total revenues were up 41 percent to 647 billion rupees in the first two months of 2024, on top of a 35 percent rise achieved in 2023 with a rise in tax rate also helped by recovering economic activities and currency appreciation made possible by deflationary policy.
-
-Currency appreciation brings prices down, boosts disposable income, bringing more value added tax, even as income taxes (direct taxes) kill productive spending of the people and transfers money for bureaucratic and political spending.
-
-Sri Lanka has raised state worker salaries in 2024 by 10,000 rupees, effective April after the worst currency collapse in the history of the central, coming from the central bank’s mis-targeted policy rate and a surrender rule.
-
-...
-
-[Data](articles/578b88c4.json)
-
-[Extended Data](ext_articles/578b88c4.ext.json)
 
 ---

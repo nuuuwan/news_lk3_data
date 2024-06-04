@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-05 00:34:13**
+As of **2024-06-05 00:50:59**
 
 ## Newspaper Stats
 
-*Scraped **28,439** Articles*
+*Scraped **28,440** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 257
+colombotelegraphcom | 258
 dbsjeyarajcom | 270
 bbccomsinhala | 278
 newsfirstlk | 363
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,570
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,437 (100.0%) of 28,439 articles have been extended.
+28,439 (100.0%) of 28,440 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,6 +46,8 @@ Media reports show 2017 was perhaps the worst year since torrential rains soaked
 
 [Data](articles/7a109b5f.json)
 
+[Extended Data](ext_articles/7a109b5f.ext.json)
+
 ---
 
 ### JVP Guaranteed Rajapaksa’s Victory in 2005 Ranil-Mahinda:  First Presidential Debate that Never Was
@@ -59,6 +61,8 @@ The presidential election to select Sri Lanka’s fifth president occurred on No
 ...
 
 [Data](articles/e4b31104.json)
+
+[Extended Data](ext_articles/e4b31104.ext.json)
 
 ---
 
@@ -847,6 +851,18 @@ OpenAI hasn't yet commented on what exactly caused ChatGPT's biggest outage of 2
 [Data](articles/062dd282.json)
 
 [Extended Data](ext_articles/062dd282.ext.json)
+
+---
+
+### Sri Lanka’s Elusive Accountability
+
+*2024-06-04 18:49:19* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/sri-lankas-elusive-accountability/) · `en`
+
+Sri Lankans observe May 1 ‘the International Labour Day” as a holiday. Political parties hold rallies, often as a show of strength. Three decades ago, President Ranasinghe Premadasa was killed by a LTTE suicide bomber, while addressing the United National Party (UNP)’s May Day rally. This year as many as 19 rallies were held in Colombo. The presidential election poised to be held in Sept-October added interest to the rallies. Notable among them was the rally of the UNP addressed by President Ranil Wickremesinghe. The large number of people who turned up at the rally probably cheered Wickremesinghe, after the historic drubbing the UNP suffered in the last parliamentary poll. Wickremesinghe also lost the election.
+
+...
+
+[Data](articles/ff023bbf.json)
 
 ---
 
@@ -2257,35 +2273,5 @@ However, this is not the case with the law to be brutally assaulted by the law.
 [Data](articles/2274fc42.json)
 
 [Extended Data](ext_articles/2274fc42.ext.json)
-
----
-
-### Tension at the ruling party: Rajapakse hurts
-
-*2024-06-04 12:52:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆளுங்கட்சி-கூட்டத்தில்-பதற்றம்-ராஜபக்ஷவுக்கு-காயம்/175-338420) · `ta`
-
-Rajapakse was injured in a dispute among ruling party MPs in Colombo, requiring surgery. The argument escalated physically, with MPs grabbing each other. CCTV footage may prove the incident. The tension also highlighted issues like tree damage from rain affecting Kandy residents' homes.
-
-🟩
-
-Rajapakse has been injured in a heated party in Colombo during a meeting of a group of ruling party MPs Gunathilaka Rajapaksa.
-
-It has been reported that he was injured in his leg injury and is planning to undergo surgery.
-
-The ruling party MPs are said to have been arguing about the issue in Kandy.
-
-Commenting on the matter, Mahindananda Aluthgamage, a member of the PA, spoke to Gunathilaka Rajapaksa in the presence of officials and members at the ruling party committee meeting.. He said he did not answer the questions I asked. .
-
-When Gunathilaka Rajapaksa came out of the ruling party meeting, Aluthgamage said that he had grabbed the collar and asked him "What did you say" and that Polonnaruwa MP Jagath Samarawickrama came and dragged.
-
-Mahindananda Aluthgamage said that all his behaviors were in CCTV scenes and that if the attack was carried out, it could be proven from the scenes.
-
-He said he did not put his hand on him and that he only touched the collar of the shirt.
-
-...
-
-[Data](articles/711261db.json)
-
-[Extended Data](ext_articles/711261db.ext.json)
 
 ---

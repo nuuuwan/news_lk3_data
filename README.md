@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-04 08:35:10**
+As of **2024-06-04 08:53:24**
 
 ## Newspaper Stats
 
-*Scraped **28,259** Articles*
+*Scraped **28,261** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,59 @@ adaderanalk | 3,209
 tamilmirrorlk | 3,316
 virakesarilk | 4,350
 dailymirrorlk | 4,470
-adaderanasinhalalk | 4,536
+adaderanasinhalalk | 4,538
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,259 (100.0%) of 28,259 articles have been extended.
+28,259 (100.0%) of 28,261 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-04 (Tuesday)
+
+### ආපදා මරණ ගණන 17 දක්වා ඉහළට
+
+*2024-06-04 08:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197365) · `si`
+
+ජූනි මස පළමුවන දින සිට ඊයේ (03) පස්වරුව දක්වා කාලය තුළ දිවයිනට බලපෑ අයහපත් කාලගුණ තත්ත්වය හේතුවෙන් සිදුවූ විවිධ අනතුරුවලින් පුද්ගල මරණ 17ක් වාර්තා වී තිබේ.
+
+ආපදා කළමනාකරණ මධ්‍යස්ථානය සඳහන් කළේ, මාතර දිස්ත්‍රික්කයෙන් මරණ 06ක්, රත්නපුර දිස්ත්‍රික්කයෙන් මරණ 05ක්, කොළඹ දිස්ත්‍රික්කයෙන් මරණ 03ක්, ගාල්ල දිස්ත්‍රිකයෙන් මරණ 02ක් සහ ගම්පහ දිස්ත්‍රික්කයෙන් එක් මරණයක් වාර්තා වූ බවය.
+
+ඊයේ දිනය වන විට දිස්ත්‍රික්ක 08ක පවුල් 21,353කට අයත් පුද්ගලයින් 84,749 දෙනෙකු අයහපත් කාලගුණ තත්ත්වය හේතුවෙන් පීඩාවට පත්ව සිටින බව ආපදා කළමනාකරණ මධ්‍යස්ථානය සඳහන් කළේය.
+
+මේ අතර දිවයිනේ නිරිත දිග කොටසේ පැවති වැසි තත්ත්වයේ තාවකාලික අඩුවීමක් අද දිනයේ සිට බලාපොරොත්තු වන බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+ඔවුන් පෙන්වා දෙන්නේ බස්නාහිර, සබරගමුව, මධ්‍යම, දකුණු සහ වයඹ පළාත්වල වැසිවාර කිහිපයක් ඇතිවිය හැකි බවය.
+
+නිල්වලා ගඟ ද්‍රෝණියේ මාලිම්බඩ ප්‍රාදේශීය ලේකම් කොට්ඨාශය තුළ පවතින ගංවතුර ආරක්ෂණ බැම්ම උතුරා යමින් පවතින බව වාරිමාර්ග දෙපාර්තමේන්තුව පවසයි.
+
+...
+
+[Data](articles/0ded34e7.json)
+
+---
+
+### පාසල් පැවැත්වීම ගැන තීරණය කලාප අධ්‍යාපන අධ්‍යක්ෂවරුන් අතට
+
+*2024-06-04 08:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197364) · `si`
+
+පවතින අයහපත් කාලගුණ තත්ත්වය හේතුවෙන් අද (04) දිනයේ දිවයිනේ දිස්ත්‍රික්ක කිහිපයක පාසල් සඳහා නිවාඩු ලබාදීමට තීරණය කර තිබේ.
+
+දකුණු පළාතේ ගාල්ල සහ මාතර දිස්ත්‍රික්කවල සියලු පාසල්වලට අද සහ හෙට (05) යන දෙදින නිවාඩු ලබාදෙන බව අධ්‍යාපන අමාත්‍යංශය සඳහන් කළේය.
+
+කළුතර, රත්නපුර, කෑගල්ල යන දිස්ත්‍රික්කවල සියලු පාසල් සඳහා ද අද දිනයේ නිවාඩු ලබාදී තිබේ.
+
+ඊට අමතරව හෝමාගම, ගම්පහ සහ කැලණිය යන අධ්‍යාපන කලාපවල පාසල්වලට ද කඩුවෙල කොට්ඨාසයේ පාසල්වලට ද අද දිනයේ නිවාඩු ලබා දී ඇති බව වාර්තා වේ.
+
+පවතින කාලගුණ තත්ත්වය පිළිබඳ සැලකිල්ලට ගනිමින් පළාත් බලධාරීන් විසින් කලාප අධ්‍යාපන අධ්‍යක්ෂවරුන් දැනුවත් කර ඉදිරි දිනවල පාසල් පැවැත්වීමට අදාළ තීරණ ගන්නා ලෙස අධ්‍යාපන අමාත්‍යංශය දැනුම් දී තිබේ.
+
+◼️
+
+[Data](articles/bb8260d6.json)
+
+---
 
 ### President's proposal approves cabinet
 
@@ -2217,43 +2259,5 @@ Ancient Rajamaha Viharaya, Sedawatta, Sedawatta, Sedawatta, Sedawatta, is Kolonn
 [Data](articles/e1de9a36.json)
 
 [Extended Data](ext_articles/e1de9a36.ext.json)
-
----
-
-### Referendum can be done constitutional and democratic
-
-*2024-06-03 17:41:05* · [`adalk`](https://www.ada.lk/breaking_news/ජනමත-විචාරණය-ව්‍යවස්ථානුකූලව-හා-ප්‍රජාතන්ත්‍රවාදීව-කළ-හැකියි/11-409995) · `si`
-
-UNP General Secretary Palitha Range Bandara supports extending President Ranil Wickremesinghe's term through a constitutional and democratic referendum, emphasizing its alignment with the constitution and people's trust. He highlights the cost-effectiveness of referendums over general elections and urges unity among political parties to advance the nation's economic agenda.
-
-🟩
-
-UNP General Secretary Palitha Range Bandara said that the president's arrangement has been made to the Constitution and that the president is constitutional and democratically done.. He said that the constitution should be given the priority of the people to ensure the ownership of the people.
-
-Range Bandara made these comments at a special press conference held at the party headquarters by Sirikotha today (3) that President Ranil Wickremesinghe's term of office should be extended in two years.
-
-"I mean the role of Parliament in a referendum. Both of these matters are not contrary to the constitution. Not an anti-democratic. The fact that the Constitution is to mention. I was talking about a provision of the Constitution. The majority of people in the country have had the trust in the president after the struggle. That is what the people are in the people.
-
-...
-
-[Data](articles/de2c0e05.json)
-
-[Extended Data](ext_articles/de2c0e05.ext.json)
-
----
-
-### Two more missing persons found; total deaths increase to 16
-
-*2024-06-03 17:37:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Two-more-missing-persons-found-total-deaths-increase-to-16/108-284002) · `en`
-
-Colombo, June 3 (Daily Mirror) - The recovery of two bodies of persons reported missing from the Tawalama area in Galle yesterday (03) due to floods, brings the total casualties from the ongoing adverse weather conditions across the island to 16, the Disaster Management Centre (DMC) said.
-
-The DMC has identified the two deceased as males, aged 53 and 23 years.
-
-◼️
-
-[Data](articles/0bb05997.json)
-
-[Extended Data](ext_articles/0bb05997.ext.json)
 
 ---

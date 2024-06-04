@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-04 06:19:54**
+As of **2024-06-04 06:59:37**
 
 ## Newspaper Stats
 
-*Scraped **28,233** Articles*
+*Scraped **28,235** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,12 +12,12 @@ colombotelegraphcom | 256
 dbsjeyarajcom | 270
 bbccomsinhala | 277
 newsfirstlk | 363
-islandlk | 1,520
+islandlk | 1,521
 economynextcom | 1,604
 dailyftlk | 1,666
 adalk | 2,408
 adaderanalk | 3,209
-tamilmirrorlk | 3,313
+tamilmirrorlk | 3,314
 virakesarilk | 4,349
 dailymirrorlk | 4,468
 adaderanasinhalalk | 4,530
@@ -26,41 +26,69 @@ adaderanasinhalalk | 4,530
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,231 (100.0%) of 28,233 articles have been extended.
+28,233 (100.0%) of 28,235 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-04 (Tuesday)
 
-### කාසියේ වාසිය උගන්ඩාවට
+### The benefit of the coin to Uganda
 
 *2024-06-04 05:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197356) · `si`
 
-20යි 20 ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ ඇෆ්ගනිස්තානය සහ උගන්ඩාව අතර අද (04) පැවැත්වෙයි.
+Uganda benefits from hosting the World Cup match against Afghanistan, gaining international exposure and potential economic boost.
 
-ඒ අනුව ඔවුන් තීරණය කළේ පළමුවෙන් පන්දුවට පහරදීමේ අවස්ථාව ඇෆ්ගනිස්තාන කණ්ඩායමට ලබාදීමටය.
+🟩
+
+Afghanistan and Uganda will be held today (04) at the World Cup.
+
+Accordingly, they decided to give the Afghanistan team to bat first.
 
 ◼️
 
 [Data](articles/dcf30152.json)
 
+[Extended Data](ext_articles/dcf30152.ext.json)
+
 ---
 
-### பொது வேட்பாளருக்கு 3 அமைப்புகள் ஆதரவு
+### ’நீதி வென்றுள்ளது’
+
+*2024-06-04 03:41:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீதி-வென்றுள்ளது/175-338398) · `ta`
+
+பெருந்தோட்டத் தொழிலாளர்களுக்கு கிடைக்கப்பெற்ற மாபெரும் வெற்றியாகவே இலங்கை தேசிய தோட்டத் தொழிலாளர் சங்கம் இதனை காண்கின்றது எனத் தெரிவித்துள்ள பாராளுமன்ற உறுப்பினர் வடிவேல் சுரேஷ், அதிகரிக்கப்பட்ட சம்பளம், பெருந்தோட்ட தொழிலாளர்களை முறையாக சென்றடைவதற்கும் தொழிற்சங்கம் என்ற ரீதியில் தொழிலாளர்கள் பக்கம் பக்க பலமாக நின்று செயல்படுவோம் என்று தெரிவித்துள்ளார்.
+
+பெருந்தோட்டத் தொழிலாளர்களின் வேதன அதிகரிப்பு தொடர்பில் வெளியிடப்பட்ட வர்த்தமானியை இரத்து செய்யக் கூறி  பெருந்தோட்ட நிறுவனங்கள்  மேன்முறையீட்டு நீதிமன்றத்தில்  வழக்கு தாக்கல் செய்திருந்தது.
+
+அதற்கமைய, திங்கட்கிழமை (03) அவ்வழக்கு மேன்முறையீட்டு நீதிமன்றத்தில் விசாரணைக்கு எடுத்துக்கொண்ட போது கடந்த மாதம் 21 ஆம் திகதி வெளியிட்ட வர்த்தமானிக்கு எதிராக இடைக்கால தடையுத்தரவை வழங்க முடியாதென மேன்முறையீட்டு நீதிமன்றம்  தீர்ப்பளித்துள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/b043fd1e.json)
+
+---
+
+### 3 organizations support for the common candidate
 
 *2024-06-04 03:38:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொது-வேட்பாளருக்கு-3-அமைப்புகள்-ஆதரவு/175-338397) · `ta`
 
-ஜனாதிபதித் தேர்தலில் தமிழ் பொது வேட்பாளர் ஒருவரை நிறுத்தும் முடிவுக்கு மேலும் மூன்று அமைப்புகள் பூரண ஆதரவு வழங்கியுள்ளன.
+Three organizations—Chavakachcheri Industrial Merchant, Chavakachcheri Co-operative Council, and Jaffna District Personnel Association—have endorsed a Tamil general candidate for president. This support emerged from discussions during workshops led by civil society activists, emphasizing readiness to cooperate for the candidate's success.
 
-சாவகச்சேரி கைத்தொழில் வணிகர் மன்றம், சாவகச்சேரி கூட்டுறவு சபை, யாழ். மாவட்ட பாரவூர்திகள் சங்கம் ஆகிய பொதுஅமைப்புகள் தமது பூரண ஆதரவை வெளிப்படுத்தியுள்ளன.
+🟩
 
-சிவில் சமூக கூட்டிணைவு செயல்பாட்டாளர்கள் நடத்தி வரும் சந்திப்புகளின் தொடர்ச்சியாக குறித்த அமைப்புகளின் தலைவர்கள், நிர்வாக உத்தியோகத்தர்கள் மற்றும் உறுப்பினர்களுடனான நேரடி சந்திப்பும் கலந்துரையாடலும் அமைப்புகளின் பணிமனைகளில் நடைபெற்றன.
+Three more organizations have fully supported the decision to field a Tamil general candidate in the presidential election.
 
-சாவகச்சேரியிலும், கோண்டாவிலிலும் நடைபெற்ற சந்திப்புகளில் தமிழ் பொது வேட்பாளருக்கு தமது பூரண ஆதரவை வழங்கியுள்ள இந்த அமைப்புகளின் பிரதிநிதிகள் குறித்த விடயம் வெற்றிபெறுவதற்கு தாம் பூரண ஒத்துழைப்புகளை வழங்க தயாராக உள்ளனர் என்றும் சந்திப்பில் கலந்து கொண்ட சிவில் சமூக பிரதிநிதிகள் மற்றும் பல்கலைக்கழக மாணவர்களிடம் தெரிவித்தனர்.
+Chavakachcheri Industrial Merchant, Chavakachcheri Co -operative Council, Jaffna. The District Personnel Association has expressed its full support.
+
+A series of meetings with the leaders, administrative officers and members of the organizations were held at the workshops of the organizations as a series of meetings by civil society activists.
+
+At the meeting held at Chavakachcheri and Kondavil, the representatives of these organizations, who have given their full support to the Tamil general candidate, said they were ready to give full cooperation to the success of the issue.
 
 ◼️
 
 [Data](articles/ef1302c5.json)
+
+[Extended Data](ext_articles/ef1302c5.ext.json)
 
 ---
 
@@ -2197,31 +2225,5 @@ Who is the headline of the tomorrow of many leading media in the world, who is t
 [Data](articles/94809f5b.json)
 
 [Extended Data](ext_articles/94809f5b.ext.json)
-
----
-
-### Department of Immigration and Emigration changes the seal
-
-*2024-06-03 16:25:36* · [`adalk`](https://www.ada.lk/breaking_news/ආගමන-හා-විගමන-දෙපාර්තමේන්තුව-මුද්‍රාව-වෙනස්-කරයි/11-409986) · `si`
-
-The Department of Immigration and Emigration introduces a new seal at the Bandaranaike International Airport, aiming to enhance security against fraud. Designed with input from immigration officials, it features three categories for airports, ports, and passenger vessels. This modernization replaces an old seal that had been vulnerable to misuse.
-
-🟩
-
-Immigration of Immigration and Emigration General Harsha is introduced to the Bandaranaike International Airport in the Bandaranaike International Airport, which is incorporated by the Department of Immigration and Travel attracting to international standards.Said Mr. Ilukpitiya.
-
-He added that the ancient seal since 1948, he had reportedly reportedly on the occasional sealing of fake sealing, using many fraudulent people.
-
-The new seal is designed as three seals as three categories for the Sri Lankan international airport, port and passenger vessels.
-
-The new seal designed with the concepts of immigration officials, the new seal was delayed since the guidance of immigrationary general Harsha Iluupitiya.
-
-The new seal has also been used at the other international airport in Sri Lanka with the use of this new seal on June 01 on June 01 on June 01 on June on June 01 at the Bandaranaike International Airport. The immigration seal is used in blue and the immediate seal.
-
-◼️
-
-[Data](articles/c012ff32.json)
-
-[Extended Data](ext_articles/c012ff32.ext.json)
 
 ---

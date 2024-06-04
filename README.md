@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-04 21:03:53**
+As of **2024-06-04 21:18:49**
 
 ## Newspaper Stats
 
-*Scraped **28,406** Articles*
+*Scraped **28,409** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,30 +19,56 @@ adalk | 2,423
 adaderanalk | 3,231
 tamilmirrorlk | 3,335
 virakesarilk | 4,373
-dailymirrorlk | 4,495
+dailymirrorlk | 4,498
 adaderanasinhalalk | 4,568
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,405 (100.0%) of 28,406 articles have been extended.
+28,406 (100.0%) of 28,409 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-04 (Tuesday)
 
-### මෝදි දිනයි
+### Mugs win
 
 *2024-06-04 20:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197396) · `si`
 
-එහෙත් අවසන් ප්‍රතිඵලය පිළිබඳව මෙතෙක් නිල වශයෙන් තොරතුරු වාර්තා වී නොමැත.
+"Mugs" seems to have won, but the final outcome hasn't been officially announced. The Indian PM expressed gratitude to his supporters for his victory.
 
-මේ අතර භාරතීය ජනතා පක්ෂයේ මූලස්ථානයේ සිට ජනතාව ඇමතූ ඉන්දීය අග්‍රාමාත්‍යවරයා සිය ජයග්‍රහණය වෙනුවෙන් පාක්ෂිකයින්ට ස්තූතිය පුදකළේය.
+🟩
+
+But the end result is yet to be officially reported.
+
+Meanwhile, the Indian Prime Minister thanked the supporters for his victory.
 
 ◼️
 
 [Data](articles/a71c2dae.json)
+
+[Extended Data](ext_articles/a71c2dae.ext.json)
+
+---
+
+### Flood warning issued for downstream areas of Attanagalu Oya basin
+
+*2024-06-04 20:28:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Flood-warning-issued-for-downstream-areas-of-Attanagalu-Oya-basin/108-284091) · `en`
+
+Colombo, June 4 (Daily Mirror) - A flood warning was issued for the lower valley of the downstream areas of the Attanagalu Oya basin for the next 48 hours, the Irrigation Department said.
+
+While issuing the warning, those living in low-lying areas of the Gampaha, Ja-ela, Katana, Wattala and Minuwangoda D/S divisions and motorists who use the roads adjacent to the areas are requested to be vigilant over sudden floods.
+
+Disaster management authorities are requested to take adequate precautions in this regard.
+
+Due to the worsening of the prevailing adverse weather, the total number of fatalities habe increased to 26 across the island while increasing the total number of affected people to 159,991, the Disaster Management Centre (DMC) said.
+
+According to the report issued by the DMC, 13 districts have been affected, and one person was reported missing.
+
+...
+
+[Data](articles/69ca6d9f.json)
 
 ---
 
@@ -67,6 +93,32 @@ Thereafter, the number of those who had come to the child had been taken to the 
 [Data](articles/e366a54f.json)
 
 [Extended Data](ext_articles/e366a54f.ext.json)
+
+---
+
+### Same-sex couple resists husbands’ efforts to take them home
+
+*2024-06-04 20:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Same-sex-couple-resists-husbands-efforts-to-take-them-home/108-284087) · `en`
+
+Pandemonium broke out at the Kandy Police Station when the husbands of two women who were in a same-sex relationship attempted to take them home from the hotel where the two were staying at in Kandy.
+
+Police investigations revealed that a 34-year-old married woman from Wattala had been taking her child to school in Kandana, where she formed a clandestine relationship with a 29-year-old female teacher. According to the police, the same-sex couple had disappeared from their homes around a month ago. Their husbands reported their disappearance to both Kandana and Wattala Police, providing photos of the two women to all police stations. Meanwhile, a vigilant police officer at Sri Dalada Maligawa in Kandy spotted two women fitting the description of the missing individuals during a visit today. Subsequently, Kandy Police took them into custody and interrogated them, discovering that they had been residing at a guest house in the Suduhumpola area of Kandy.
+
+...
+
+[Data](articles/47f47a15.json)
+
+---
+
+### Hope in every package...
+
+*2024-06-04 20:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Hope-in-every-package/110-284086) · `en`
+
+As floodwaters engulf the streets in Gampha, a dedicated man wades through the dirty water, ensuring essential supplies reach his house. Balancing a box and a bag of provisions on his head, he exemplifies the resilience and caring towards his loved ones. Pix by Kushan Pathiraja
+
+◼️
+
+[Data](articles/e4a85ce7.json)
 
 ---
 
@@ -2182,19 +2234,25 @@ Despite the lower-than-expected numbers for the BJP, the party is still confiden
 
 *2024-06-04 11:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Modi-led-BJP-loses-majority-in-big-setback/155-284059) · `en`
 
-Actor-turned-politician Suresh Gopi has given the right-wing Hindu nationalist party its first ever victory in the southern state of Kerala.
+09.00 PM - Modi hails third term of NDA majority, despite under performance
 
-Gopi, 65, defeated Communist Party candidate VS Sunilkumar in the Thrissur constituency by more than 74,000 votes.
+Speaking to supporters, Modi made little reference to his party’s under performance in the poll.
 
-Kerala, one of India’s most developed states, has traditionally swung between the left and the Congress.
+Instead, he said the election was a ringing endorsement for the BJP-led NDA coalition.
 
-The alliance helmed by Prime Minister Modi’s BJP party is on track to win a majority in the Lok Sabha, although likely with less seats than five years ago.
+“Since 1962 this is the first time that any government, after serving two terms, returns for third term,” he said.
 
-That means US-India relations are unlikely to substantially change, at least in the short term.
+“To every voter of the country on this moment of victory, I want to bow down and salute them,” he said.
 
-India has increasingly emerged as a major lynch pin in the administration of president Joe Biden’s policy in Asia, particularly as part of efforts to counter China’s influence.
+Modi has begun his address at the BJP headquarters in New Delhi.
 
-That was on display last year when Biden hosted Modi for a state visit – the highest form of US diplomacy. Biden hailed the two countries as one of the “defining relationships of the 21st century”.
+“Our citizens in India have full faith in the party, and today’s victory is a victory of the people,” he said.
+
+He hailed the country’s administration of the “world’s largest election”
+
+His party may have under performed, but Modi was greeted by a celebratory atmosphere at the BJP headquarters in New Delhi.
+
+He waved to cheering supporters under confetti as he entered the building ahead of his expected address.
 
 ...
 
@@ -2291,71 +2349,5 @@ Further investigations into the incident are being carried out by the Badulla po
 [Data](articles/aa96fd1f.json)
 
 [Extended Data](ext_articles/aa96fd1f.ext.json)
-
----
-
-### Litrow gas prices down
-
-*2024-06-04 10:57:07* · [`adalk`](https://www.ada.lk/breaking_news/ලිට්‍රෝ-ගෑස්-මිල-බස්සයි/11-410000) · `si`
-
-Litro Gas Lanka announced a reduction in gas prices effective from midnight. A 12.5 kg cylinder now costs less, as do 5kg and 2.3 kg cylinders.
-
-🟩
-
-Chairman of Litro Gas Chairman (04) to reduce gas prices from midnight, Litro Gas Chairman said this morning.
-
-Accordingly, a 12.5 kilogram gas cylinder has been reduced by Rs.
-
-The price of a 5kg gas cylinder has been reduced by Rs. 1,525 million.
-
-A 2.3 kilogram gas cylinder has been reduced by Rs.
-
-◼️
-
-[Data](articles/91ca8da0.json)
-
-[Extended Data](ext_articles/91ca8da0.ext.json)
-
----
-
-### Litro gas prices cut
-
-*2024-06-04 10:49:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/லிட்ரோ-எரிவாயு-விலை-குறைப்பு/150-338410) · `ta`
-
-Litro gas has reduced prices: 12.5 kg cylinder now Rs. 3,790 (down from Rs. 3,940), 5 kg cylinder Rs. 1,525 (from Rs. 1,585), and 2.3 kg cylinder Rs. 712 (from Rs. 740).
-
-🟩
-
-Litro gas has said that steps have been taken to reduce the price of cooking gas cylinder from midnight today.
-
-Accordingly, the new price of 12.5 kg of gas cylinder will be reduced by 150 rupees, and its new price is 3,790 rupees.
-
-The price of a gas cylinder weighing 5 kg will be reduced by 60 rupees and its new price is 1,525 rupees.
-
-The price of a gas cylinder weighing 2.3 kg will be reduced by 28 rupees and its new price is 712 rupees.
-
-◼️
-
-[Data](articles/5d4c2bc0.json)
-
-[Extended Data](ext_articles/5d4c2bc0.ext.json)
-
----
-
-### The verdict on the proposed Electricity Board Reorganization Bill
-
-*2024-06-04 10:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/185270) · `ta`
-
-The Supreme Court mandates that for the proposed Electricity Board Reorganization Bill to proceed, it must receive a two-thirds special majority support, which will then be subject to a public referendum.
-
-🟩
-
-The Supreme Court has ruled that if the proposed Electricity Board is to pass a few arrangements, two -thirds of the special majority support should go to the referendum.
-
-◼️
-
-[Data](articles/4512599f.json)
-
-[Extended Data](ext_articles/4512599f.ext.json)
 
 ---

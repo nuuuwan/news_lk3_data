@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-04 14:53:45**
+As of **2024-06-04 15:04:04**
 
 ## Newspaper Stats
 
-*Scraped **28,344** Articles*
+*Scraped **28,345** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ adaderanalk | 3,223
 tamilmirrorlk | 3,329
 virakesarilk | 4,358
 dailymirrorlk | 4,485
-adaderanasinhalalk | 4,554
+adaderanasinhalalk | 4,555
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,343 (100.0%) of 28,344 articles have been extended.
+28,344 (100.0%) of 28,345 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-04 (Tuesday)
+
+### දවස් 07ක් සුරාසැල් වැසෙන තැන් මෙන්න
+
+*2024-06-04 14:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197383) · `si`
+
+ජුනි මස 18 වනදා සිට 24 වනදා දක්වා කාලය තුළ ප්‍රාදේශීය ලේකම් කොට්ඨාශ කිහිපයක සුරාසැල් වසා තැබීමට තීරණය කර තිබේ.
+
+නිවේදනයක් නිකුත් කරමින් ශ්‍රී ලංකා සුරාබදු දෙපාර්තමේන්තුව සඳහන් කරන්නේ ජාතික පොසොන් උත්සවය නිමිතිකරගනිමින් මෙම දිනවල සුරාසැල් වසා තැබෙන බවය.
+
+ඒ අනුව මධ්‍යම නුවරගම් පළාත, නැගෙනහිර නුවරගම් පළාත සහ මිහින්තලේ යන ප්‍රාදේශීය ලේකම් කොට්ඨාශ 03හි එම කාලසීමාව තුළ සියලුම සුරාසැල් වසා තැබෙනු ඇත.
+
+◼️
+
+[Data](articles/c144df6c.json)
+
+---
 
 ### Imran Khan acquitted in state secrets case
 
@@ -89,6 +105,8 @@ To foster a robust capital market ecosystem, in 2023, the SEC introduced a compr
 ...
 
 [Data](articles/732bd9c7.json)
+
+[Extended Data](ext_articles/732bd9c7.ext.json)
 
 ---
 
@@ -2323,23 +2341,5 @@ The Commissioner General of Examinations Amit Jayasundera said that the number o
 [Data](articles/b5a94dcd.json)
 
 [Extended Data](ext_articles/b5a94dcd.ext.json)
-
----
-
-### Harin, Ravi, Ronald to spearhead UNP’s election campaign
-
-*2024-06-04 02:30:34* · [`dailyftlk`](https://www.ft.lk/news/Harin-Ravi-Ronald-to-spearhead-UNP-s-election-campaign/56-762586) · `en`
-
-The United National Party (UNP) made key appointments for its upcoming election campaign at a meeting held at Sirikotha on Sunday.
-
-At the meeting chaired by Party Leader Ranil Wickremesinghe, several key positions were filled to strengthen the party’s election strategy.
-
-Harin Fernando was appointed as the National Election organiser while Ravi Karunanayake was named the National Secretary, and Ronald Perera will serve as the Deputy General Secretary of elections. In other notable appointments, Firdouse Farook was made the party’s Treasurer Misbah Sattar was appointed Deputy Chairman, and Krishan Theodore was named Deputy General Secretary. The working committee also confirmed that several senior members will continue in their current roles. Deputy Leader Ruwan Wijayawardena, General Secretary Palitha Range Bandara, Chairman Wajira Abeywardena, National Organiser Sagala Ratnayaka, and Deputy Leader Akila Viraj Kariyawasam will maintain their existing positions within the party.
-
-...
-
-[Data](articles/3e899eed.json)
-
-[Extended Data](ext_articles/3e899eed.ext.json)
 
 ---

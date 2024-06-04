@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-04 23:53:43**
+As of **2024-06-05 00:05:54**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 4,570
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,422 (99.9%) of 28,437 articles have been extended.
+28,435 (100.0%) of 28,437 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-04 (Tuesday)
 
-### தேசிய ஜனநாயகக் கூட்டணியின் தேர்தல் வெற்றிக்கு ஜனாதிபதி ரணில் வாழ்த்து
+### President Ranil congratulates the election victory of the National Democratic Alliance
 
 *2024-06-04 23:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/185332) · `ta`
 
-பாரதிய சனதா கட்சி தலைமையிலான தேசிய ஜனநாயகக் கூட்டணியின் தேர்தல் வெற்றிக்கு ஜனாதிபதி ரணில் விக்கிரமசிங்க வாழ்த்து தெரிவித்துள்ளார்.
+President Ranil Wickremesinghe congratulates the National Democratic Alliance (NDA) led by the Bharatiya Janata Party (BJP), expressing confidence in Prime Minister Narendra Modi's leadership. He highlights the importance of strengthening ties between Sri Lanka and India, its neighbor.
 
-"பிரதமர் நரேந்திர மோடியின் தலைமையின் கீழ் முன்னேற்றம் மற்றும் செழிப்பு ஆகியவற்றில் இந்திய மக்களின் நம்பிக்கையை வெளிப்படுத்தும் வகையில், பாஜக தலைமையிலான என்டிஏ வெற்றி பெற்றதற்கு எனது அன்பான வாழ்த்துகளைத் தெரிவித்துக் கொள்கிறேன்" என்று தனது டுவிட்டரில் பதிவிட்டுள்ளார்.
+🟩
 
-"நெருங்கிய அண்டை நாடாக, இந்தியாவுடனான கூட்டுறவை மேலும் வலுப்படுத்த இலங்கை எதிர்நோக்குகிறது" என்று விக்கிரமசிங்க மேலும் கூறினார்.
+President Ranil Wickremesinghe congratulates the election victory of the National Democratic Alliance led by the Bharatiya Sanada Party.
+
+"I congratulate the BJP -led NTA to express the confidence of the Indian people under the leadership of Prime Minister Narendra Modi," he posted on his Twitter.
+
+Wickremesinghe added that "Sri Lanka is facing further strengthening the cooperation with India as a close neighboring country," Wickremesinghe added.
 
 ◼️
 
 [Data](articles/d4d644aa.json)
+
+[Extended Data](ext_articles/d4d644aa.ext.json)
 
 ---
 
@@ -136,27 +142,33 @@ Modi, 73, is only the second Indian prime minister to win a third straight term.
 
 ---
 
-### 3-வது முறையாக தேசிய ஜனநாயக கூட்டணி ஆட்சி அமைக்க மக்கள் வாய்ப்பு கொடுத்துள்ளனர் - பிரதமர் மோடி
+### People have given the opportunity to form the National Democratic Alliance for the 3rd time - Prime Minister Modi
 
 *2024-06-04 22:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/185331) · `ta`
 
-இந்திய நாடாளுமன்ற தேர்தலில் பதிவான வாக்குகள் இன்று 04ஆம் திகதி செவ்வாய்க்கிழமை எண்ணப்பட்டு வருகிறது. தற்போதைய நிலவரப்படி,  290-க்கும் அதிகமான இடங்களில் பாரதிய சனதா கட்சி தலைமையிலான தேசிய ஜனநாயக கூட்டணி முன்னிலை வருகிறது.
+In the Indian parliamentary elections, the Bharatiya Janata Party (BJP)-led National Democratic Alliance (NDA) is leading with over 290 seats, including more than 160 seats won by the BJP itself. Prime Minister Narendra Modi, contesting from Varanasi, Uttar Pradesh, secured victory with 612,970 votes, expressing gratitude towards the voters for granting the NDA a chance to form government for the third consecutive term. The Election Commission of India is commended for its conduct of this massive electoral process, highlighting India's pride in its democratic system's credibility.
 
-தற்போதைய நிலவரப்படி பாரதிய சனதா கட்சி 160க்கும் அதிகமான தொகுதிகளில் வெற்றி பெற்றுள்ளது.
+🟩
 
-உத்தர பிரதேச மாநிலம் வாரணாசி தொகுதியில் போட்டியிட்ட பா.ஜ.க. வேட்பாளர் பிரதமர் மோடி வெற்றி பெற்றார்.
+The votes cast in the Indian parliamentary elections are being counted on Tuesday 04th. As of now, the Bharatiya Sanada-led National Democratic Alliance is leading in more than 290 seats.
 
-இவர் 6,12,970 வாக்குகள் பெற்றார். 3-வது முறையாக தேசிய ஜனநாயக கூட்டணி ஆட்சி அமைக்க மக்கள் வாய்ப்பு கொடுத்துள்ளனர் என பிரதமர் மோடி தெரிவித்துள்ளார்.
+As of now, the Bharatiya Sanada Party has won over 160 seats.
 
-தேசிய ஜனநாயக கூட்டணிக்கு தொடர்ந்து 3வது முறையாக வெற்றி பெற வைத்த மக்களுக்கு நன்றி.
+The BJP contested the Varanasi constituency of Uttar Pradesh. PM Modi won the candidate.
 
-இவ்வளவு பெரிய அளவிலான தேர்தல் பயிற்சியை நடத்திய இந்திய தேர்தல் ஆணையத்திற்கு நன்றி.
+He received 6,12,970 votes. Prime Minister Modi has said that the people have given the opportunity to form the National Democratic Alliance for the third time.
 
-இந்தியாவின் தேர்தல் செயல்முறை மற்றும் முறையின் நம்பகத்தன்மை குறித்து ஒவ்வொரு இந்தியரும் பெருமிதம் கொள்கிறார்கள் என்றார்.
+Thanks to the people who for the 3rd consecutive time for the National Democratic Alliance.
+
+Thanks to the Election Commission of India for conducting such a large election exercise.
+
+He said every Indian is proud of India's election process and the credibility of the system.
 
 ◼️
 
 [Data](articles/483d0aeb.json)
+
+[Extended Data](ext_articles/483d0aeb.ext.json)
 
 ---
 
@@ -308,19 +320,27 @@ Therefore, the CPC assured the public that there is no need to worry about their
 
 ---
 
-### பொருளாதாரப் பிரச்சினைகளை நிறைவு செய்து, நாட்டை சரியான பாதையில் வழிநடத்தக் கூடிய ஒரே தலைவர் ஜனாதிபதி ரணிலே - சிவநேசதுரை சந்திரகாந்தன்
+### President Ranil - Sivanesathurai Chandrakanthan
 
 *2024-06-04 21:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/185329) · `ta`
 
-பொருளாதாரப் பிரச்சினைகளை நிறைவு செய்து, நாட்டை சரியான பாதையில் வழிநடத்தக் கூடிய ஒரே தலைவர் ஜனாதிபதி ரணில் விக்ரமசிங்க மாத்திரமே எனவும் எனவே, மக்கள் ஆதரவுடன் மீண்டும் ஜனாதிபதியாக அவர் தெரிவு செய்யப்பட்டு எதிர்காலத்தில் வலுவான பொருளாதாரத்தை உருவாக்குவார் என்ற நம்பிக்கை உள்ளதாகவும் கிராமிய வீதிகள் அபிவிருத்தி இராஜாங்க அமைச்சர் சிவநேசதுரை சந்திரகாந்தன் தெரிவித்தார்.
+Sivanesathurai Chandrakanthan, the Rural Roads Development Minister, praised President Ranil Wickremesinghe for his leadership and economic strategies, highlighting the allocation of funds for road repairs post-floods and the initiation of rural infrastructure projects aimed at boosting the economy. He emphasized the importance of President Wickremesinghe's role in stabilizing the country's economy and improving living conditions, especially in rural areas.
 
-அத்துடன், சீரற்ற காலநிலையினால் ஏற்பட்ட வெள்ளத்தினால் சேதமடைந்த வீதிகளை உடனடியாக புனரமைப்பதற்கு சுமார் 03 பில்லியன் ரூபாவை ஒதுக்குமாறு ஜனாதிபதி பணிப்புரை விடுத்துள்ளதாகவும் அவர் குறிப்பிட்டார்.
+🟩
 
-ஜனாதிபதி ஊடக மையத்தில் 04 ஆம் திகதி செவ்வாய்க்கிழமை நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே இராஜாங்க அமைச்சர் சிவநேசதுரை சந்திரகாந்தன் இதனைத் தெரிவித்தார்.
+Rural Roads Development Minister Sivanesathurai Chandrakanthan said that President Ranil Wickremesinghe is the only leader who can complete economic issues and lead the country on the right path.
+
+He also said that the President has issued a directive to allocate about 3 billion rupees for the immediate rehabilitation of the roads damaged by the floods caused by the inclement weather.
+
+State Minister Sivanesathurai Chandrakanthan made this statement at a media briefing held at the Presidential Media Center on Tuesday.
+
+“We have launched a program of constructing rural streets and bridges using about 12 billion rupees from the funds allocated by President Ranil Wickremesinghe -led government to improve the rural economy.. Through our ministry, about 65 percent of the tasks have been started. In the coming days, we are fully completing these tasks and implementing the necessary things to add to the villages.
 
 ...
 
 [Data](articles/7812c4b6.json)
+
+[Extended Data](ext_articles/7812c4b6.ext.json)
 
 ---
 
@@ -366,17 +386,23 @@ Later, the child died as the residents who came there were removed and taken to 
 
 ---
 
-### மோடியின் வெற்றியை யாழில் கொண்டாடிய சிவசேனை அமைப்பு
+### Shiv Sena System celebrating Modi's victory in Jaffna
 
 *2024-06-04 20:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/185328) · `ta`
 
-நரேந்திர மோடி தலைமையிலான பா.ஜ.க வெற்றிபெற்றதன் மகிழ்ச்சியை வெளிப்படுத்துமுகமாக இலங்கை சிவசேனை அமைப்பு மற்றும் இலங்கை உருத்திரசேனை அமைப்புகளின் ஏற்பாட்டில் வெற்றி கொண்டாட்ட நிகழ்வு யாழ்.நகரிலுள்ள வைரவர் ஆலய முன்றலில் இடம்பெற்றது.
+The Sri Lanka Shiv Sena and Rutrasena organizations celebrated Narendra Modi's victory in Jaffna at the Vairavar Temple. They worshipped with camphor, broke coconuts, served food, and displayed fireworks, expressing joy over the win.
 
-கற்பூரம் கொழுத்தப்பட்டு வழிபாடுகள் இடம்பெற்று சிதறுதேங்காய்கள் உடைக்கப்பட்டன. பின்னர் பொதுமக்களுக்கு மோதகம், லட்டு பரிமாறப்பட்டு மகிழ்ச்சியை வெளிப்படுத்தினர். பட்டாசு கொழுத்தியும் வெற்றியினை கொண்டாடினர்.
+🟩
+
+The celebration of the Sri Lanka Shiv Sena Organization and the Sri Lankan Rutrasena organizations was held at the Vairavar Temple in Jaffna, Jaffna.
+
+The camphor was fat and worshiped and the scattered beings were broken. Then the conflict to the public, the latte was served and expressed happiness. Fireworks fat also celebrated the success.
 
 ◼️
 
 [Data](articles/574eb18a.json)
+
+[Extended Data](ext_articles/574eb18a.ext.json)
 
 ---
 
@@ -461,6 +487,8 @@ However, market players say people who do not have proper qualification have bee
 ...
 
 [Data](articles/6bb25c4a.json)
+
+[Extended Data](ext_articles/6bb25c4a.ext.json)
 
 ---
 
@@ -608,25 +636,35 @@ Southern Provincial Education Secretary Ranjith Yapa has been informed to all th
 
 ---
 
-### இங்கிலாந்து - ஸ்கொட்லாந்து மோதும் ரி20 உலகக் கிண்ணப் போட்டி
+### England - Scotland clash
 
 *2024-06-04 19:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/185327) · `ta`
 
-ப்றிஜ்டவுனில் இலங்கை நேரப்படி இன்று செவ்வாய்க்கிழமை (4) இரவு 8.00 மணிக்கு ஆரம்பமாகவுள்ள பி குழுவுக்கான ரி20 உலகக் கிண்ண கிரிக்கெட் போட்டியில் நடப்பு சம்பியன் இங்கிலாந்தை ஸ்கொட்லாந்து சந்திக்கவுள்ளது.
+In the R20 World Cup, England faces Scotland in its group stage, marking their first encounter in an international T20 match. This rivalry dates back to an unofficial football tournament in 1847 and includes notable moments like the first international rugby competition in 1871 and a controversial ODI match in 2008 that was abandoned due to rain. England leads the head-to-head record from previous ODIs, but Scotland brings experience from the last R20 World Cup. The match promises to be competitive, with both teams showcasing their strengths.
 
-இந்த இரண்டு அணிகளும் சர்வதேச ரி20 கிரிக்கெட் போட்டியில் சந்திப்பது இதுவே முதல் தடவையாகும்.
+🟩
 
-இற்றைக்கு 154 வருடங்களுக்கு முன்னர் கெனிங்டல் ஓவல் விளையாட்டரங்கில் இங்கிலாந்தும் ஸ்கொட்லாந்தும் உத்தியோகப்பற்றற்ற கால்ப்தாட்டப் போட்டித் தொடரில் முதன் முதலாக ஒன்றையொன்று எதர்த்தாடி இருந்தன.
+Sri Lanka's time in Brijdown will meet the current champion England in the R20 World Cup for the B Group, which begins at 8.00 pm on Tuesday (4) at 8.00 pm.
 
-ஒரு வருடம் கழித்து இரண்டு நாடுகளும் எடின்பேர்க், ரேபேர்ன் ப்ளேஸ் மைதானத்தில் முதலாவது சர்வதேச றக்பி போட்டியில் சந்தித்தன.
+This is the first time that the two teams have met in the international T20 cricket match.
 
-அதனைத் தொடர்ந்து 1872இல் இரண்டு நாடுகளும் க்ளாஸ்கோ, ஹெமில்டன் க்ரசென்ட் விளையாட்டரங்கில் முதல் தடவையாக சர்வதேச கால்பந்தாட்டப் போட்டியில் மோதின.
+The England and Scotland were the first to be one of the first in the unofficial football tournament at the Kenningtal Oval Stadium 154 years ago.
 
-எனினும், பெரிய பிரித்தானியாவில் மூன்றாவது பெரும் விளையாட்டுப் போட்டியான கிரிக்கெட்டில் இரண்டு நாடுகளும் ஒரு நூற்றாண்டுப் பின்னரே ஒன்றையொன்று எதிர்த்தாடின.
+A year later, the two countries met at the first international rugby competition at the Edinburg, Rape Place Ground.
+
+In 1872, the two countries clashed for the first time at the Clausco and Hamilton Crescent Stadium.
+
+However, in the third biggest game of the major Britain, the two countries opposed one century after a century.
+
+The game was abandoned due to rain when Ingaland scored 144 runs in the first international ODI match between the two countries in the Edinburgh and the Rape Blaze Stadium in 2008.
+
+Six years later, the two countries will clash in the T20 World Cup today.
 
 ...
 
 [Data](articles/d8eb084e.json)
+
+[Extended Data](ext_articles/d8eb084e.ext.json)
 
 ---
 
@@ -735,6 +773,8 @@ According to the New York Times, traders in Mumbai had also anticipated a comfor
 ...
 
 [Data](articles/4bed0a32.json)
+
+[Extended Data](ext_articles/4bed0a32.ext.json)
 
 ---
 
@@ -1006,6 +1046,8 @@ It is also expected to provide opportunities for talented athletes to participat
 
 [Data](articles/6ac36f22.json)
 
+[Extended Data](ext_articles/6ac36f22.ext.json)
+
 ---
 
 ### Iranamadu irrigation should be established - Kilinochchi District Response Government Agent S. Muralitharan!
@@ -1088,17 +1130,25 @@ The Sabaragamuwa Provincial Education Secretary further stated that the decision
 
 ---
 
-### வெள்ளத்தால் பாதிக்கப்படும் மல்வானை பிரதேசத்துக்கு படகு வசதிகளை பெற்றுக்கொடுக்க உடனடியாக நடவடிக்கை எடுக்க வேண்டும் -   ஹர்ஷண ராஜகருணா சபையில் கோரிக்கை
+### Immediate steps should be taken to provide boat facilities to the Malwana area affected by the flood - Harshana Rajakaruna
 
 *2024-06-04 17:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/185316) · `ta`
 
-கம்பஹா மாவட்டத்தில் மல்வானை பிரதேசம் அடிக்கடி வெள்ள அனர்த்தத்தில் பாதிக்கப்படும் பிரதேசமாகும். இந்த அனர்த்தங்களின்போது உடனடி நிவாரண நடவடிக்கைகளை முன்னெடுக்க அவர்களுக்கு தேவையான படகு வசதிகளை விரைவாக மேற்கொள்ள வேண்டும் என எதிர்க்கட்சி உறுப்பினர் ஹர்ஷண ராஜகருணா தெரிவித்தார்.
+Harshana Rajakaruna urges immediate action to provide boat services in flood-prone Malwana, Gampaha, highlighting the need for efficient relief distribution due to frequent flooding. He criticizes the current system for its inefficiency and calls for direct aid to victims, including cleaning contaminated water sources.
 
-கம்பஹா மாவட்டத்தில் 13 பிரதேச செயலக பிரிவுகளும் வெள்ளத்தால் பாதிக்கப்பட்டிருக்கின்றன. வெள்ள அனர்த்தத்தினால் பாதிக்கப்பட்டுள்ளவர்கள் முகாம்களில் இருந்தால்தான் அவர்களுக்கு நிவாரண  உதவிகளை வழங்க முடியும் சுற்று நிருபத்தில் தெரிவிக்கப்பட்டுள்ளதால், பாதிக்கப்பட்டுள்ளவர்களுக்கு நிவாரணங்களை வழங்க கிராம சேவகர்கள் பின்வாங்குகின்றனர். கம்பஹா மாவட்டத்தில் வெள்ள அனர்த்தம் என்பது எந்த காலத்திலும் ஏற்படக்கூடியது. அனர்த்தம் ஏற்படும்போது பாதிக்கப்பட்டவர்களுக்கு நிவாரணம் வழங்க அரச அதிகாரிகள் கூடி ஆராய்கின்றனர். பின்னர் சுற்று நிருபத்தின் பிரகாரம் செயற்படும்போது பாதிக்கப்பட்டுள்ளவர்களுக்கு நிவாரணம் கிடைப்பதில்லை.
+🟩
+
+Malwana area is a frequent area of ​​flood disaster in Gampaha district. Opposition member Harshana Rajakaruna said that the ferry facilities they needed to carry out immediate relief measures during these disasters.
+
+13 Divisional Secretariats in Gampaha District have been affected by floods. Grama Niladhari retreats to provide relief to the victims as the flood disaster is reported in the circuit.. Flood disaster in Gampaha district can occur at any time. State officials gather to provide relief to victims in the event of a disaster. Then the victims do not get relief when they work according to the roundabout.
+
+Because all those affected by the flood disaster do not go to the camps. There are no disaster camps everywhere. So the revision of the roundabout should be made to provide relief to all the victims. At the same time, state authorities should take steps to provide basic assistance to the affected people who are not looking at the round of the roundabout.
 
 ...
 
 [Data](articles/72733e8a.json)
+
+[Extended Data](ext_articles/72733e8a.ext.json)
 
 ---
 
@@ -1199,6 +1249,8 @@ A bond maturing on 01.10.2032 closed at 11.80/90 percent down from 11.80/95 perc
 ◼️
 
 [Data](articles/85ee80cd.json)
+
+[Extended Data](ext_articles/85ee80cd.ext.json)
 
 ---
 
@@ -1510,6 +1562,8 @@ Conglomerates Melstacorp Plc (up at 87.50), Aitken Spence Plc (up at 131.25), LO
 
 [Data](articles/37a89807.json)
 
+[Extended Data](ext_articles/37a89807.ext.json)
+
 ---
 
 ### Floods alert from Health Sector
@@ -1718,6 +1772,8 @@ Sri Lankans travel to Pakistan’s capital via Dubai or Doha Qatar, with transit
 
 [Data](articles/552a8727.json)
 
+[Extended Data](ext_articles/552a8727.ext.json)
+
 ---
 
 ### Death toll from adverse weather rises to 26 in Sri Lanka
@@ -1847,6 +1903,8 @@ The removal of the import restrictions were aimed at eliminating black markets a
 ...
 
 [Data](articles/13ac6e64.json)
+
+[Extended Data](ext_articles/13ac6e64.ext.json)
 
 ---
 

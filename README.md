@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-04 14:19:38**
+As of **2024-06-04 14:34:21**
 
 ## Newspaper Stats
 
-*Scraped **28,341** Articles*
+*Scraped **28,343** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,533
 economynextcom | 1,611
 dailyftlk | 1,669
 adalk | 2,415
-adaderanalk | 3,221
+adaderanalk | 3,223
 tamilmirrorlk | 3,329
 virakesarilk | 4,358
 dailymirrorlk | 4,484
@@ -26,11 +26,51 @@ adaderanasinhalalk | 4,554
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,340 (100.0%) of 28,341 articles have been extended.
+28,341 (100.0%) of 28,343 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-04 (Tuesday)
+
+### Imran Khan acquitted in state secrets case
+
+*2024-06-04 14:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/99655/imran-khan-acquitted-in-state-secrets-case) · `en`
+
+Former Pakistani Prime Minister Imran Khan has been acquitted of leaking state secrets but will remain in jail because of a conviction in another case.
+
+In the run-up to elections in February, the 71-year-old - who was ousted as prime minister in 2022 - was hit with three prison sentences for cases he insists were politically motivated.
+
+Khan was sentenced to 10 years in prison in January on charges of making public a diplomatic cable in 2022.
+
+The Islamabad High Court upheld his appeal and cleared him in that case on Monday, but he is not expected to leave prison for now.
+
+The former cricket star and his third wife Bushra are both serving prison sentences after a court ruled that their 2018 marriage had been un-Islamic and illegal as it came too soon after her divorce.
+
+The couple were also found guilty of corruption over gifts received during his term as prime minister.
+
+Even behind bars, the former cricket star remains a powerful force in Pakistani politics.
+
+...
+
+[Data](articles/4d7a88a6.json)
+
+---
+
+### US urges UN Security Council to support cease-fire plan in Gaza announced by President Biden
+
+*2024-06-04 14:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/99654/us-urges-un-security-council-to-support-cease-fire-plan-in-gaza-announced-by-president-biden) · `en`
+
+The United States urged the U.N. Security Council on Monday to support the three-phase plan announced by President Joe Biden aimed at ending the nearly eight-month war in Gaza, freeing all hostages and sending massive aid into the devastated territory.
+
+U.S. Ambassador Linda Thomas-Greenfield said the United States circulated a draft resolution to the 14 other council members to back the proposal for ending the conflict that began with Hamas’ surprise attack in southern Israel on Oct. 7 that killed some 1,200 people, mostly Israeli civilians.
+
+“Numerous leaders and governments, including in the region, have endorsed this plan and we call on the Security Council to join them in calling for implementation of this deal without delay and without further conditions,” she said in a statement.
+
+...
+
+[Data](articles/ed833915.json)
+
+---
 
 ### Assets of 15 extremist organizations frozen
 
@@ -51,6 +91,8 @@ Apart from these, all the money and assets of 113 persons who are accused of ter
 ◼️
 
 [Data](articles/156deddd.json)
+
+[Extended Data](ext_articles/156deddd.ext.json)
 
 ---
 
@@ -2297,37 +2339,5 @@ SJB leader and Opposition leader Sajith Premadasa appointed Karalliyadde as the 
 [Data](articles/ecacebd9.json)
 
 [Extended Data](ext_articles/ecacebd9.ext.json)
-
----
-
-### Stop being source of political jokes – Madduma Bandara tells UNP
-
-*2024-06-04 02:27:17* · [`dailyftlk`](https://www.ft.lk/news/Stop-being-source-of-political-jokes-Madduma-Bandara-tells-UNP/56-762584) · `en`
-
-...
-
-[Data](articles/2817a742.json)
-
-[Extended Data](ext_articles/2817a742.ext.json)
-
----
-
-### Ignore election election
-
-*2024-06-04 02:25:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தலை-புறக்கணியுங்கள்/175-338391) · `ta`
-
-The Tamil National People's Front, led by Gajendrakumar Ponnambalam MP, called for a boycott of Sri Lanka's presidential election on January 1st. They distributed pamphlets urging citizens to abstain from voting until the unilateral constitution is repealed and a federal system is established.
-
-🟩
-
-The Tamil National People's Front led by Gajendrakumar Ponnambalam MP demanded a boycott of the presidential election on Saturday (01).
-
-The pamphlets they distributed should be boycotted the presidential election until the unilateral constitution was abolished and the federal constitutional system was guaranteed.
-
-◼️
-
-[Data](articles/6bead92b.json)
-
-[Extended Data](ext_articles/6bead92b.ext.json)
 
 ---

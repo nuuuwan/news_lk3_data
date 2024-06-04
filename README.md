@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-04 16:18:55**
+As of **2024-06-04 16:34:29**
 
 ## Newspaper Stats
 
-*Scraped **28,356** Articles*
+*Scraped **28,362** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 1,669
 adalk | 2,416
 adaderanalk | 3,226
 tamilmirrorlk | 3,331
-virakesarilk | 4,358
+virakesarilk | 4,364
 dailymirrorlk | 4,488
 adaderanasinhalalk | 4,557
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,557
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,355 (100.0%) of 28,356 articles have been extended.
+28,356 (100.0%) of 28,362 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -79,6 +79,8 @@ According to ESPNcricinfo, Sri Lanka had to rush back to their hotel in Brooklyn
 ...
 
 [Data](articles/977a088a.json)
+
+[Extended Data](ext_articles/977a088a.ext.json)
 
 ---
 
@@ -156,6 +158,18 @@ Speaker Mahinda Yapa Abeywardhane clarified the matter saying that two questions
 
 ---
 
+### தான் தடைசெய்ய முயன்ற டிக்டொக்கில் இணைந்தார் ட்ரம்ப்!
+
+*2024-06-04 15:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/185299) · `ta`
+
+அமெ­ரிக்க முன்னாள் ஜனா­தி­பதி டொனால்ட் ட்ரம்ப், டிக்டொக் செயலில் இணைந்­துள்ளார். 2017 முதல் 2021 ஜன­வரி 20 வரை ஜனா­தி­ப­தி­யாக டொனால்ட் ட்ரம்ப் பதவி வகித்­த­போது, தேசிய பாது­காப்­புக்கு அச்­சு­றுத்தல் எனக் கூறி, அமெ­ரிக்­காவில் டிக்­டொக்கை தடை செய்­வ­தற்கு அவர் முன்­றமை குறிப்­பி­டத்­தக்­கது.
+
+◼️
+
+[Data](articles/d78d10f8.json)
+
+---
+
 ### 7 days locked liquor stations
 
 *2024-06-04 15:04:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/7-நாட்கள்-பூட்டப்படும்-மதுபான-நிலையங்கள்/175-338425) · `ta`
@@ -215,6 +229,34 @@ The Department of Animal Production and Health comes under the purview of the Mi
 [Data](articles/e3ecf5ca.json)
 
 [Extended Data](ext_articles/e3ecf5ca.ext.json)
+
+---
+
+### பா. ரஞ்சித் வெளியிட்ட 'பயமறியா பிரம்மை'  பட ஃபர்ஸ்ட் லுக்
+
+*2024-06-04 14:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/185297) · `ta`
+
+அறிமுக நடிகர் ஜேடி கதையின் நாயகனாக முன்னணி வேடத்தில் நடித்திருக்கும் 'பயமறியா பிரம்மை' எனும் திரைப்படத்தின் ஃபர்ஸ்ட் லுக் வெளியிடப்பட்டிருக்கிறது. இதனை தமிழ் திரையுலகின் முத்திரை பதித்த படைப்பாளி பா. ரஞ்சித் வெளியிட்டு, படக் குழுவினருக்கு வாழ்த்து தெரிவித்திருக்கிறார்.
+
+அறிமுக இயக்குநர் ராகுல் கபாலி இயக்கத்தில் உருவாகி இருக்கும் 'பயமறியா பிரம்மை' எனும் திரைப்படத்தில் ஜேடி, குரு சோமசுந்தரம், ஜான் விஜய், ஹரிஷ் உத்தமன், வினோத் சாகர், விஸ்வாந்த், சாய் பிரியங்கா ரூத், திவ்யா கணேஷ் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். நந்தா மற்றும் வி. பிரவீண் ஆகியோர் இணைந்து ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு இசையமைப்பாளர் கே இசையமைத்திருக்கிறார். இந்தத் திரைப்படத்தை 69 எம்எம் ஃபிலிம் பட நிறுவனம் சார்பில் தயாரிப்பாளர்கள் ஜெகதீஷ் மற்றும் இயக்குநர் ராகுல் கபாலி ஆகியோர் இணைந்து தயாரித்திருக்கிறார்கள்.
+
+...
+
+[Data](articles/246b6157.json)
+
+---
+
+### ஜூலையில் வெளியாகும் ஸன்னி லியோனின் 'கொட்டேஷன் கேங்'
+
+*2024-06-04 14:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/185295) · `ta`
+
+இந்திய திரையுலகின் முன்னணி கவர்ச்சி நடிகையான ஸன்னி லியோன் முதன்மையான கதாபாத்திரத்தில் நடித்திருக்கும் 'கொட்டேஷன் கேங்' எனும் திரைப்படம் ஜூலை மாதம் படமாளிகையில் வெளியாகும் என பட குழுவினர் பிரத்யேக புகைப்படத்தை வெளியிட்டு மகிழ்ச்சியுடன் தெரிவித்திருக்கிறார்கள்.
+
+இயக்குநர் விவேக் குமார் கண்ணன் இயக்கத்தில் உருவாகி இருக்கும் 'கொட்டேஷன் கேங்' எனும் திரைப்படத்தில் ஸன்னி லியோன் பொலிவுட் நடிகர் ஜாக்கி ஷெரப், பிரியா மணி, சாரா அர்ஜுன், ஜெயபிரகாஷ் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். அருண் பத்மநாபன் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு ட்ரம்ஸ் சிவமணி இசையமைத்திருக்கிறார். கிரைம் திரில்லர் வகையிலான இந்த திரைப்படத்தை வை ஸ்டுடியோஸ் ஃபிலிமினாட்டி என்டர்டெய்ன்மென்ட் மற்றும் ஸ்ரீ குருஜோதி பிலிம்ஸ் ஆகிய நிறுவனங்கள் இணைந்து தயாரித்திருக்கிறது.
+
+...
+
+[Data](articles/abe64ae8.json)
 
 ---
 
@@ -306,6 +348,24 @@ U.S. Ambassador Linda Thomas-Greenfield said the United States circulated a draf
 
 ---
 
+### இரத்தினபுரியில் நாளை நடைபெறவிருந்த உலக சுற்றாடல் தினம் நிகழ்வு இரத்து
+
+*2024-06-04 14:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/185285) · `ta`
+
+ஜனாதிபதி ரணில் விக்ரமசிங்க தலைமையில் இரத்தினபுரியில் நாளை (5) நடைபெறவிருந்த உலக சுற்றாடல்  தினத்தை முன்னிட்டு ஏற்பாடு செய்யப்பட்டிருந்த தேசிய நிகழ்வு அனர்த்த நிலைமை காரணமாக இரத்து செய்யப்பட்டுள்ளது.
+
+சிங்கராஜ வனப்பகுதியின் நுழைவாயில் அமைந்துள்ள இரத்தினபுரி குடாவ பகுதியில் ஜனாதிபதியின் தலைமையில் நடைபெறவிருந்த நிகழ்வு சீரற்ற காலநிலை காரணமாக அங்கிருந்து ஜனாதிபதி செயலகத்திற்கு மாற்ற தீர்மானிக்கப்பட்டுள்ளது.
+
+இதேவேளை, குறித்த நிகழ்விற்கு செலவிடப்படும் பணத்தை அனர்த்த முகாமைத்துவ செயற்பாடுகளுக்கும் இயற்கை அனர்த்தத்தினால் பாதிக்கப்பட்டவர்களுக்கும் நட்டஈடு வழங்குவதற்கும் பயன்படுத்துமாறு ஜனாதிபதி பணிப்புரை விடுத்துள்ளதாக சுற்றாடல் இராஜாங்க அமைச்சர் ஜானக வக்கும்புர தெரிவித்துள்ளார்.
+
+இரத்தினபுரியில் தற்போது நிலவும் வெள்ளம் மற்றும் கடும் மழை காரணமாக நாளை ஜனாதிபதி செயலகத்தின் புதிய மைதானத்தில் விழாவைக் கொண்டாடுவதற்கு சுற்றாடல் அமைச்சு ஏற்பாடுகளைச் செய்து வருவதாக தெரிவிக்கப்படுகிறது.
+
+◼️
+
+[Data](articles/6edf1eee.json)
+
+---
+
 ### SEC says 2024 a challenging year but hope remains for economic growth
 
 *2024-06-04 14:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SEC-says-2024-a-challenging-year-but-hope-remains-for-economic-growth/108-284028) · `en`
@@ -321,6 +381,18 @@ To foster a robust capital market ecosystem, in 2023, the SEC introduced a compr
 [Data](articles/732bd9c7.json)
 
 [Extended Data](ext_articles/732bd9c7.ext.json)
+
+---
+
+### ஐ.நாவின் நிரந்திர வதிவிட பிரதிநிதிக்கு மலையகம் 200 முத்திரையை வழங்கிய செந்தில் தொண்டமான் !
+
+*2024-06-04 14:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/185287) · `ta`
+
+ஜெனிவாவிற்கு உத்தியோகபூர்வ விஜயம் ஒன்றை மேற்கொண்டுள்ள கிழக்கு மாகாண ஆளுநர் செந்தில் தொண்டமான், பெருந்தோட்ட சமூகத்தின் 200வது வருடத்தின் முதல்  நினைவு முத்திரையை தொழில் அமைச்சின் செயலாளருடன் இணைந்து ஜெனிவாவில் உள்ள ஐக்கிய நாடுகள் சபைக்கான இலங்கையின் நிரந்தரப் பிரதிநிதி ஹிமாலி அருணதிலகவிற்கு வழங்கி வைத்துள்ளார்.
+
+◼️
+
+[Data](articles/55921f59.json)
 
 ---
 
@@ -345,6 +417,24 @@ Apart from these, all the money and assets of 113 persons who are accused of ter
 [Data](articles/156deddd.json)
 
 [Extended Data](ext_articles/156deddd.ext.json)
+
+---
+
+### லாப் எரிவாயு விலையும் குறைப்பு
+
+*2024-06-04 13:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/185290) · `ta`
+
+லாப் சமையல் எரிவாயு விலையும் இன்று செவ்வாய்க்கிழமை (04) நள்ளிரவு முதல் குறைக்கப்படவுள்ளது.
+
+12.5 கிலோகிராம் எரிவாயு சிலிண்டரின் விலை 160 ரூபாவினால் குறைக்கப்படவுள்ளது.  இதற்கிணங்க, 12.5 கிலோகிராம் எரிவாயு சிலிண்டரின் புதிய விலை 3,680 ரூபாவாகும்.
+
+5 கிலோகிராம் சிலிண்டரின் விலை 65 ரூபாவினால் குறைக்கப்படவுள்ளதுடன்,   அதன் புதிய விலை 1,477  ரூபாய் என லாப் நிறுவனம் தெரிவித்துள்ளது.
+
+இதேவேளை, இன்று (04) நள்ளிரவு முதல் அமுலுக்கு வரும் வகையில் லிட்ரோ சமையல் எரிவாயு  விலை குறைக்கப்படவுள்ளதாக  லிட்ரோ நிறுவனம் அறிவித்துள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/69acf6e3.json)
 
 ---
 
@@ -2195,145 +2285,5 @@ According to the Epidemiology unit, 25,095 dengue cases have been reported from 
 [Data](articles/814063a4.json)
 
 [Extended Data](ext_articles/814063a4.ext.json)
-
----
-
-### The latest condition of the weather
-
-*2024-06-04 06:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197357) · `si`
-
-Expect a temporary reduction in heavy rain across the island today, with showers or thundershowers forecasted for the Western, Sabaragamuwa, Central, Southern, and Northwestern provinces. The Met Department advises caution against wind and lightning risks during thunderstorms.
-
-🟩
-
-The Meteorological Department says that a temporary decrease in heavy rainy section of the island is expected today (04).
-
-Showers or thundershowers will occur at times in the Western, Sabaragamuwa, Central, Southern and Northwestern provinces.
-
-The Met Department forecasts showers at several places in the evening or evening in the rest of the island.
-
-The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/1b8a3d65.json)
-
-[Extended Data](ext_articles/1b8a3d65.ext.json)
-
----
-
-### The benefit of the coin to Uganda
-
-*2024-06-04 05:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197356) · `si`
-
-Uganda benefits from hosting the World Cup match against Afghanistan, gaining international exposure and potential economic boost.
-
-🟩
-
-Afghanistan and Uganda will be held today (04) at the World Cup.
-
-Accordingly, they decided to give the Afghanistan team to bat first.
-
-◼️
-
-[Data](articles/dcf30152.json)
-
-[Extended Data](ext_articles/dcf30152.ext.json)
-
----
-
-### Workshop to use environmental day money
-
-*2024-06-04 03:54:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுற்றாடல்-தின-பணத்தை-பயன்படுத்தப்-பணிப்புரை/175-338400) · `ta`
-
-President Wickremesinghe redirected World Environment Day funds to aid weather-hit communities, cancelling the traditional celebration but encouraging nationwide tree planting.
-
-🟩
-
-Provincial Councils, Local Government and Environment Minister Janaka Wakumbura said that President Ranil Wickremesinghe has issued a directive to use the allocation of funds allocated for the National Celebration of World Environment Day, which is scheduled for June 5, for the benefit of the people affected by the inclement weather.
-
-State Minister Janaka Wakumbura said this at a media briefing held at the Presidential Media Center yesterday.As he further stated,
-
-The National Festival of World Environment Day was scheduled for June 05.
-
-However, President Ranil Wickremesinghe has issued a directive to cancel the ceremony and use the funds for the benefit of the people affected by the worst weather.
-
-However, we will carry out the task of planting ten million plants nationwide for the World Environmental Day National Festival.. We urge you to plant a plant in every house on World Environment Day. (A)
-
-◼️
-
-[Data](articles/2b0a608e.json)
-
-[Extended Data](ext_articles/2b0a608e.ext.json)
-
----
-
-### Plan to construct new bridges 250 new bridges
-
-*2024-06-04 03:49:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/250-புதிய-பாலங்கள்-நிர்மாணிப்பதற்கு-திட்டம்/175-338399) · `ta`
-
-Sri Lanka plans to build 250 new bridges nationwide to enhance rural connectivity and support national development projects. This initiative follows the successful completion of 750 bridges by the Netherlands Jenson Brijing Company, aimed at improving transportation and quality of life in disadvantaged areas. The project is crucial for facilitating efficient goods transport to major cities like Colombo.
-
-🟩
-
-President Ranil Wickremesinghe said that it is planning to build 250 new bridges across the country to improve the road structure to provide the benefit of national level development projects to the rural people.
-
-The President said this while addressing a function held at the Shankrila Hotel in Colombo yesterday morning after the Netherlands Jenson Brijing Company had successfully completed the construction of 750 rural bridges in Sri Lanka by the Netherlands Jenson Brijing Company yesterday morning.. As he further stated,
-
-Today, we are celebrating the completion of the work of 750 bridges built by Jensen Brijing in Sri Lanka. It must be said that the company has successfully accomplished. I know about these rural bridges constructed. They are constructed in most disadvantaged areas.
-
-The government is also committed to improve the quality of life of the people in the areas attached by these bridges.
-
-...
-
-[Data](articles/ed17987c.json)
-
-[Extended Data](ext_articles/ed17987c.ext.json)
-
----
-
-### Model justice has won
-
-*2024-06-04 03:41:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீதி-வென்றுள்ளது/175-338398) · `ta`
-
-In a significant win for plantation workers in Sri Lanka, the Court of Appeal rejected a case by plantation companies seeking to cancel a gazette addressing worker grievances. This decision supports the rights of plantation workers, marking a pivotal moment in labor relations.
-
-🟩
-
-Parliamentarian Vadivel Suresh said that the Sri Lanka National Plantation Workers Union is a huge victory for plantation workers.
-
-Plantation companies have filed a case in the Court of Appeal, demanding the cancellation of the gazette released on the grievance of plantation workers.
-
-Accordingly, the Court of Appeal has ruled that an interim injunction was not issued against the gazette issued on the 21st of last month when he was taken up for hearing at the Court of Appeal on Monday (03).
-
-◼️
-
-[Data](articles/b043fd1e.json)
-
-[Extended Data](ext_articles/b043fd1e.ext.json)
-
----
-
-### 3 organizations support for the common candidate
-
-*2024-06-04 03:38:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொது-வேட்பாளருக்கு-3-அமைப்புகள்-ஆதரவு/175-338397) · `ta`
-
-Three organizations—Chavakachcheri Industrial Merchant, Chavakachcheri Co-operative Council, and Jaffna District Personnel Association—have endorsed a Tamil general candidate for president. This support emerged from discussions during workshops led by civil society activists, emphasizing readiness to cooperate for the candidate's success.
-
-🟩
-
-Three more organizations have fully supported the decision to field a Tamil general candidate in the presidential election.
-
-Chavakachcheri Industrial Merchant, Chavakachcheri Co -operative Council, Jaffna. The District Personnel Association has expressed its full support.
-
-A series of meetings with the leaders, administrative officers and members of the organizations were held at the workshops of the organizations as a series of meetings by civil society activists.
-
-At the meeting held at Chavakachcheri and Kondavil, the representatives of these organizations, who have given their full support to the Tamil general candidate, said they were ready to give full cooperation to the success of the issue.
-
-◼️
-
-[Data](articles/ef1302c5.json)
-
-[Extended Data](ext_articles/ef1302c5.ext.json)
 
 ---

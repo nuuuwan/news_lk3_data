@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-04 18:53:08**
+As of **2024-06-04 19:03:48**
 
 ## Newspaper Stats
 
-*Scraped **28,383** Articles*
+*Scraped **28,384** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,31 @@ adaderanalk | 3,230
 tamilmirrorlk | 3,334
 virakesarilk | 4,364
 dailymirrorlk | 4,492
-adaderanasinhalalk | 4,563
+adaderanasinhalalk | 4,564
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,382 (100.0%) of 28,383 articles have been extended.
+28,383 (100.0%) of 28,384 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-04 (Tuesday)
+
+### බස්නාහිර පාසල් විවෘත කිරීම ගැන ආණ්ඩුකාරවරයාගෙන් උපදෙස්
+
+*2024-06-04 18:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197392) · `si`
+
+ගංවතුර තත්ත්වය පහවගොස් ඇති ප්‍රදේශවල පාසල් විවෘත කරන ලෙසට බස්නාහිර පළාතේ සියලුම පාසල්වල විදුහල්පතිවරුන් වෙත උපදෙස් දී තිබේ.
+
+බස්නාහිර පළාත් ආණ්ඩුකාර රොෂාන් ගුණතිලක මහතා විසින් මෙම උපදෙස් ලබා දී තිබේ.
+
+◼️
+
+[Data](articles/691b98b7.json)
+
+---
 
 ### Schools closed in several education zones and divisions
 
@@ -41,6 +55,8 @@ The Secretary of Education of Sabaragamuwa Province stated that all schools in R
 The decision was taken due to the adverse weather conditions prevailing in those areas.
 
 The Educational Secretary of the Sabaragamuwa Province further stated that based on the weather conditions from tomorrow onwards, a decision regarding the closure of schools will be taken after informing the Zonal Education Directors.
+
+Meanwhile, the Western Province Governor, Marshal of the Air Force Roshan Gunathilake has directed the principals of all schools within the province, where flood waters have receded, to reopen the school tomorrow (04).
 
 ◼️
 
@@ -218,17 +234,25 @@ Firefighters, rescuers and police were working at the site, according to images 
 
 ---
 
-### ගංවතුර නැරඹීමට ගිය බෝට්ටුවක් අධි බල විදුලි රැහැනක ගැටී තරුණයෙක් මරුට
+### Youth dies after a boat to visit floods
 
 *2024-06-04 17:15:18* · [`adalk`](https://www.ada.lk/breaking_news/ගංවතුර-නැරඹීමට-ගිය-බෝට්ටුවක්-අධි-බල-විදුලි-රැහැනක-ගැටී-තරුණයෙක්-මරුට/11-410005) · `si`
 
-ගංවතුර නැරඹීමට ගිය බෝට්ටුවක් ඊයේ (03දා) සවස 4.30ට පමණ බුලත්සිංහල දී අධි බලැති  විදුලි රැහැනක ගැටීමෙන් තරුණයකු ජීවිතක්ෂයට පත්ව ඇති අතර 19 දෙනෙකුගේ ජීවිත බේරි  ඇතැයි බුලත්සිංහල පොලීසිය කියයි.
+A young man, Maha Surath Kumara, died after falling from a boat during a flood viewing trip near Bulathsinhala. Despite the boat capsizing due to strong currents, no accidents occurred among the group of twenty-two. The victim was later identified and his body was handed over to the Bulathsinhala Police Station.
 
-මෙසේ මියගොස් ඇත්තේ බුලත්සිංහල දිවලකඩ ප්‍රදේශයේ පදිංචි ලොකු සිංහාරච්චිගේ දමිත් කුමාර නමැති තරුණයාය. ඔහු ඊයේ(03දා) සවස විසි දෙනෙකුගෙන් පමණ  යුත් කණ්ඩායමක් සමග  ගංවතුර  නැරඹීමට බෝට්ටුවක ගමන් කර තිබේ.කණ්ඩායම ගමන් කළ බෝට්ටුව විපතට පත් තරුණයා විසින්  පදවා ඇති අතර ඔහු රැගෙන ගිය ආධාරක කෝටුවක් ඉහළට ඔසවාගෙන ගමන් කිරීමේදී ඉහළින් තිබූ අධිසැර විදුලි කම්බියක ගැටීමෙන් එම තරුණයා ගංවතුරට ඇද වැටි තිබේ.බෝට්ටුව තුළ සිටි පිරිසටද විදුලි සැර වැදී බෝට්ටුව තුළම වැටී ඇතත් ඔවුන්ට කිසිදු අනතුරක් සිදුවී  නොමැත.
+🟩
 
-...
+A boat to visit the floods was killed by a young man while a young man was killed by a high-powered power stake at Bulathsinhala.
+
+The deceased has been identified as Maha Surath Kumara, a resident of the Production of Divaradula, Bulathsinhala. He has traveled by a boat to watch the flood with a group of about twenty-two pm yesterday.There are available. The electricity waiting and the electricity fell in the boat, but they had not caused any accident.
+
+The young man who had fallen into the Bulathsinhala Regional Hospital with the assistance of the local delegrator of the Bulathsinhala Death Title Bulathhetha Inspector Chira Ratath Bharatha, the Maharana District of Horana DistrictBulathsinhala police say that the hospital has been sent to the Court of Hospital.
+
+◼️
 
 [Data](articles/9484a5fc.json)
+
+[Extended Data](ext_articles/9484a5fc.ext.json)
 
 ---
 
@@ -2285,23 +2309,5 @@ According to the Disaster Management Center, 84,749 people from 21,353 families 
 [Data](articles/c26e3015.json)
 
 [Extended Data](ext_articles/c26e3015.ext.json)
-
----
-
-### CEB to submit electricity tariff revision proposal to PUCSL this week
-
-*2024-06-04 09:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/99644/ceb-to-submit-electricity-tariff-revision-proposal-to-pucsl-this-week-) · `en`
-
-Minister of Power and Energy Kanchana Wijesekera says that a discussion was held with the Ceylon Electricity Board’s (CEB) tariff division yesterday to finalize the electricity consumer tariff revision proposal.
-
-In a post on ‘X’ (formerly Twitter), he pointed out that the Government made a policy decision last year to implement a cost-reflective tariff mechanism, with tariffs to be revised quarterly each year.
-
-Accordingly, the July tariff proposal will be submitted to the Public Utilities Commission of Sri Lanka (PUCSL) this week, the minister said.
-
-◼️
-
-[Data](articles/6588c250.json)
-
-[Extended Data](ext_articles/6588c250.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-04 10:35:10**
+As of **2024-06-04 10:53:30**
 
 ## Newspaper Stats
 
-*Scraped **28,276** Articles*
+*Scraped **28,287** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,122 @@ newsfirstlk | 363
 islandlk | 1,533
 economynextcom | 1,606
 dailyftlk | 1,669
-adalk | 2,410
-adaderanalk | 3,213
+adalk | 2,411
+adaderanalk | 3,216
 tamilmirrorlk | 3,320
 virakesarilk | 4,350
 dailymirrorlk | 4,471
-adaderanasinhalalk | 4,538
+adaderanasinhalalk | 4,545
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,276 (100.0%) of 28,276 articles have been extended.
+28,276 (100.0%) of 28,287 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-04 (Tuesday)
+
+### India begins counting votes in marathon election expected to bring Prime Minister Modi a third term
+
+*2024-06-04 10:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/99648/india-begins-counting-votes-in-marathon-election-expected-to-bring-prime-minister-modi-a-third-term) · `en`
+
+India began counting more than 640 million votes Tuesday in the world’s largest democratic exercise, which was widely expected to return Prime Minister Narendra Modi to a third term after a decade in power.
+
+The six-week election was seen as a referendum on Modi. If the 73-year-old wins, it will only be the second time an Indian leader has retained power for a third term after Jawaharlal Nehru, the country’s first prime minister.
+
+Exit polls on Saturday by major television channels projected a comfortable win for Modi’s Hindu nationalist Bharatiya Janata Party and its allies over a broad opposition alliance led by the Congress party and its main campaign leader, Rahul Gandhi.
+
+Indian television channels have had a mixed record in the past in predicting election results.
+
+Nearly 970 million people, more than 10% of the world’s population, were eligible to vote. Turnout was around 66% on average across the seven phases, according to official data.
+
+...
+
+[Data](articles/9cde077a.json)
+
+---
+
+### ලොකු ටාගට් එකක් ඔළුවේ තිබුණා අන්තිම වෙනකල් -වනිඳු
+
+*2024-06-04 10:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197372) · `si`
+
+20යි 20 ලොක කුසලාන තරගාවලියේ ශ්‍රී ලංකා කණ්ඩායම සහභාගී වූ පළමු තරගය පරාජ වීමට හේතුව නායක වනිඳු හසරංග පැහැදිලි කළේය.
+
+තරගයෙන් අනතුරුව පැවති මාධ්‍ය හමුවට එක්වමින් වනිඳු මාධ්‍යයට පවසා සිටියේ, ලකුණු 160ට වැඩි ලකුණු සංඛ්‍යාවක් තම කණ්ඩායමේ ඉලක්කය වී තිබූ බවත් එය හඹා යෑම පරාජයට හේතු වූ බවත්ය.
+
+...
+
+[Data](articles/fb0bca58.json)
+
+---
+
+### Cabinet approval to provide immediate relief for flood victims
+
+*2024-06-04 10:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/99647/cabinet-approval-to-provide-immediate-relief-for-flood-victims) · `en`
+
+Cabinet approval has been granted for the proposal to provide relief to the victims of adverse weather and to rebuild the houses that were completely destroyed at the government’s expense and with the assistance of Tri-Forces personnel.
+
+It is reported that President Ranil Wickremesinghe had submitted the relevant proposal to the Cabinet of Ministers yesterday (03) which was then approved.
+
+It was further proposed to provide immediate aid to the victims without relying on any circulars and to increase the amount of money provided to the victims.
+
+President Ranil Wickremesinghe has further instructed to use the financial allocations made for the World Environmental Day celebrations to provide relief to those affected by the recent inclement weather.
+
+State Minister of Provincial Councils and Local Government of Sri Lanka, Janaka Wakkumbura also stated that it has been decided to cancel the national celebration for World Environment Day slated for tomorrow.
+
+◼️
+
+[Data](articles/4f321ddf.json)
+
+---
+
+### Price of Litro LP gas reduced
+
+*2024-06-04 10:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/99646/price-of-litro-lp-gas-reduced) · `en`
+
+The price of Litro domestic LP gas cylinders has been reduced with effect from midnight today (04), according to the Chairman of Litro Gas Muditha Peiris.
+
+Accordingly, the price of the 12.5 kg cylinder has been reduced by Rs. 150 to Rs. 3,790.
+
+Meanwhile, the price of the 2.3 kg cylinder has been reduced by Rs. 28, bringing the new price to Rs. 712.
+
+◼️
+
+[Data](articles/f0971da9.json)
+
+---
+
+### විදුලිබල පනත ගැන ශ්‍රේෂ්ඨාධිකරණ තීන්දුව පාර්ලිමේන්තුවට
+
+*2024-06-04 10:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197371) · `si`
+
+රජය විසින් පාර්ලිමේන්තුවට ඉදිරිපත්කර තිබෙන විදුලිබල පනත් කෙටුම්පතට එරෙහි පෙත්සම් විභාගයේ ශ්‍රේෂ්ඨාධිකරණ තීන්දුව අද (04) කථානායකවරයා විසින් පාර්ලිමේන්තුවට ඉදිරිපත් කළේය.
+
+◼️
+
+[Data](articles/9a39a132.json)
+
+---
+
+### ලිට්‍රෝ ගෑස් මිල පහළට
+
+*2024-06-04 09:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197370) · `si`
+
+ගෑස් මිල ගණන් අද (04) මධ්‍යම රාත්‍රියේ සිට අඩු කිරීමට පියවර ගත් බව ලිට්‍රෝ ගෑස් සමාගම පවසයි.
+
+ඒ අනුව කිලෝග්‍රෑම් 12.5ක ගෑස් සිලින්ඩරයක් රුපියල් 150කින් අඩු කර ඇති අතර එහි නව මිල රුපියල් 3,790කි.
+
+කිලෝග්‍රෑම් 5ක ගෑස් සිලින්ඩරයක මිල රුපියල් 60කින් අඩු කර ඇති අතර එහි නව මිල රුපියල් 1,525කි.
+
+කිලෝග්‍රෑම් 2.3ක ගෑස් සිලින්ඩරයක් මිල රුපියල් 28කින් අඩු කර ඇති අතර එහි නව මිල රුපියල් 712කි.
+
+◼️
+
+[Data](articles/3de9b390.json)
+
+---
 
 ### University non-academic staff to reach final decision on strike today
 
@@ -47,6 +147,20 @@ He mentioned that they will discuss with the trade union representatives regardi
 [Data](articles/e195dde2.json)
 
 [Extended Data](ext_articles/e195dde2.ext.json)
+
+---
+
+### ගංවතුර තත්ත්වය සමග රෝග කිහිපයක් හිස ඔසවයි
+
+*2024-06-04 09:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197369) · `si`
+
+පවතින වැසි සහිත කාලගුණ තත්ත්වය සහ ගංවතුර තත්ත්වයත් සමඟ රෝග කිහිපයක ව්‍යාප්තිය වැඩිවනු ඇති බව සෞඛ්‍ය අංශ අනතුරු අඟවයි.
+
+ළමා රෝග විශේෂඥ වෛද්‍ය දීපාල් පෙරේරා මහතා සඳහන් කළේ පාචනය, අතීසාරය, උණසන්නිපාතය සහ ඉන්ෆ්ලුවෙන්සා වැනි රෝග තත්ත්වයන් ව්‍යාප්ත වීමේ වැඩි අවධානමක් පවතින බවය.
+
+...
+
+[Data](articles/3a03b276.json)
 
 ---
 
@@ -71,6 +185,26 @@ The Ministry of Education has announced to the Zonal Education Officers to hold 
 [Data](articles/0e267ace.json)
 
 [Extended Data](ext_articles/0e267ace.ext.json)
+
+---
+
+### පාර්ලිමේන්තු සභාවාරය ඇරඹේ
+
+*2024-06-04 09:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197368) · `si`
+
+කථානායක මහින්ද යාපා අබේවර්ධන මහතාගේ ප්‍රධානත්වයෙන් පාර්ලිමේන්තු කටයුතු මේ වනවිට ආරම්භ වී තිබේ.
+
+අද දිනයේ දී කාන්තා සවිබල ගැන්වීමේ පනත් කෙටුම්පත දෙවන වර කියවීමේ විවාදය පැවැත්වීමට නියමිත බව පාර්ලිමේන්තුවේ සන්නිවේදන දෙපාර්තමේන්තුව සඳහන් කළේය.
+
+ජුනි මස 06 වන දින ශ්‍රී ලංකා විදුලිබල පනත් කෙටුම්පත දෙවන වර කියවීමේ විවාදය පැවැත්වීමට නියමිත අතර රාජ්‍ය ණය කළමනාකරණ පනත් කෙටුම්පත දෙවන වර කියවීමේ විවාදය ජුනි මස 07 වන දින පැවැත්වීමට නියමිතය.
+
+මෙම සතිය තුළ ඉතා වැදගත් පනත් කිහිපයක් සම්මත කර ගැනීමට නියමිත බැවින් ඒ ස﻿ඳහා ආණ්ඩු පක්ෂයේ සියලු මන්ත්‍රීවරුන්ගේ සහයෝගය ලබාදෙන ලෙස ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ආණ්ඩු පක්ෂ මන්ත්‍රී කණ්ඩායම් රැස්වීමේදී ඉල්ලීමක් කර තිබේ.
+
+මෙම නව පනත් කෙටුම්පත් තුළින් රටේ ආර්ථික ස්ථාවරත්වය ඇතිකිරීමට හැකිවනු ඇති බව මුදල් රාජ්‍ය අමාත්‍ය ෂෙහාන් සේමසිංහ මහතා සඳහන් කළේය.
+
+◼️
+
+[Data](articles/ce378e30.json)
 
 ---
 
@@ -135,6 +269,46 @@ Police say that the boatmen were electrocuted and fell into the boat, but they h
 [Data](articles/3109218b.json)
 
 [Extended Data](ext_articles/3109218b.ext.json)
+
+---
+
+### ඇෆ්ගනිස්තානයට සුපිරි ජයක්
+
+*2024-06-04 09:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197367) · `si`
+
+20යි 20 ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ ඇෆ්ගනිස්තානය සහ උගන්ඩාව අතර පැවති තරගයෙන් ලකුණු 125ක විශිෂ්ට ජයක් ලබාගැනීමට ඇෆ්ගනිස්තානය සමත්වුණි.
+
+එහිදී පළමුව පන්දුවට පහරදුන් ඇෆ්ගනිස්තාන කණ්ඩායම නියමිත පන්දු ඕවර 20 අවසානයේ කඩුලු 5ක් දැවී ලකුණු 183ක් රැස්කළේය.
+
+එහිදී Rahmanullah Gurbaz ලකුණු 76ක් රැස්කළ අතර Ibrahim Zadran ලකුණු 70ක් රැස්කළේය.
+
+පන්දු යැවීමෙන් Cosmas Kyewuta සහ Brian Masaba කඩුලු 2 බැගින් දවාගත්හ.
+
+ලකුණු 184ක ඉලක්කයක් හඹාගිය උගන්ඩා කණ්ඩායම පන්දුවාර 16දී රැස්කරගත හැකි වූයේ ලකුණු 58ක් පමණි.
+
+◼️
+
+[Data](articles/0e5efeeb.json)
+
+---
+
+### ඉන්දීය මහ මැතිවරණයේ ඡන්ද ගණන් කිරීම ඇරඹේ
+
+*2024-06-04 09:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197366) · `si`
+
+සති 6ක් පුරා පැවති ලොව විශාලතම මැතිවරණය ලෙස සැලකෙන ඉන්දීය මහ මැතිවරණය, අදියර 7ක් යටතේ පැවැත්වුණි.
+
+ඡන්ද දායකයින් බිලියනක් පමණ ප්‍රමාණයක් ඡන්දය ප්‍රකාශ කිරීම සඳහා ලියාපදිංචි වී තිබිණි.
+
+ඉන්දීය පාර්ලිමේන්තුවේ ආසන 543ක් තිබෙන අතර, ඉන් ආසන 272ක් හෝ ඊට වැඩි ප්‍රමාණයක් ජයගන්නා පක්ෂය හෝ සන්ධානය මැතිවරණයේ ජයග්‍රාහකයින් ලෙස සැලකේ.
+
+විචාරකයින් පවසන්නේ, වර්තමාන අග්‍රාමාත්‍ය නරේන්ද්‍ර මෝදි සිය තෙවැනි ධුර කාලය සඳහා මෙම මැතිවරණය ජය ගනු ඇති බවය.
+
+මේ අතර, මෙතෙක් නිකුත් කර ඇතැයි පැවසෙන නිල නොවන ප්‍රතිඵල අනුව අග්‍රාමාත්‍යවරයාගේ සන්ධානය ආසන 209ක් හිමිකර ගෙන ඇති අතර, රාහුල් ගාන්ධිගේ සන්ධානය 144ක් හිමිකර ගෙන තිබේ.
+
+◼️
+
+[Data](articles/bbc3d76d.json)
 
 ---
 
@@ -1997,235 +2171,5 @@ The Disaster Management Centre (DMC) confirmed that 16 deaths have been reported
 [Data](articles/e504a689.json)
 
 [Extended Data](ext_articles/e504a689.ext.json)
-
----
-
-### The Prime Minister visited the victims
-
-*2024-06-03 20:06:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாதிக்கப்பட்டோரை-நேரில்-சென்று-பார்வையிட்டார்-பிரதமர்/175-338374) · `ta`
-
-Prime Minister Dinesh Gunawardena toured flood-hit regions like Avissawella and Bhuvakpitiya, meeting victims of the heavy rains.
-
-🟩
-
-Prime Minister Dinesh Gunawardena visited many areas affected by heavy rains and floods today.
-
-He met people affected by rain in areas including Avissawella and Bhuvakpitiya. Remble
-
-◼️
-
-[Data](articles/bb6f8883.json)
-
-[Extended Data](ext_articles/bb6f8883.ext.json)
-
----
-
-### Sri Lanka is the first to bat first against South Africa
-
-*2024-06-03 20:00:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/தென்னாபிரிக்காவுக்கெதிராக-முதலில்-துடுப்பெடுத்தாடும்-இலங்கை/44-338373) · `ta`
-
-In the ICC T20 World Cup, Sri Lanka, led by Wanindu Hasaranga, chose to bat first against South Africa. The lineup includes notable players like Nissanka, Gunathilaka, and Chamika Mendis among others. South Africa's team features Quinton de Kock, Rassie van der Dussen, and Kagiso Rabada.
-
-🟩
-
-In the Twenty20 World Cup series of the International Cricket Board, Sri Lanka's leader Vanidu Hasaranga, who won the Currency cycle of the South Africa team in New York, announced that Damathani would bat first.
-
-Sri Lanka: 1. Nisanga, 2. Gusal Mendis (wicketkeeper), 3. Camundu Mendis, 4. Sadeera Samarawickrama, 5. Sarit Asalanga, 6. Angelo Madus, 7. Vanidu Hasaranga (Team Leader), 8. Dasun Shanaka, 9. Mahesh Deekshana, 10. Madisha Pathrana, 11. Nuwan Dushara.
-
-South Africa: 1. Quinton de Kock (wicketkeeper), 2. Risa Hendrix, 3. Aiden Markram (Team Leader), 4. Henrych Clausen, 5. David Miller, 6. Triston Stubs, 7. Marco Janon, 8. Kahav Maharaj, 9. Kagiso Rabada, 10. Norgia, 11. Ottail Partman.
-
-◼️
-
-[Data](articles/3c1be61a.json)
-
-[Extended Data](ext_articles/3c1be61a.ext.json)
-
----
-
-### Kelaniya, Kaduwela, Gampaha Educational Zone Schools
-
-*2024-06-03 19:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/185245) · `ta`
-
-All schools in Gampaha, Kelaniya, Kaduwela, and Homagama educational zones will be closed on April 4th due to a zonal education workshop announcement.
-
-🟩
-
-The Zonal Education Workshop has announced that all schools under the Gampaha Education Zone of Gampaha District will be closed on Tuesday, 04.
-
-In addition, the Kelaniya and Kaduwela Educational Zone schools have decided to grant holidays tomorrow.
-
-The Ministry of Education has announced that all schools belonging to the Homagama Education Zone have been granted holidays on the 04th.
-
-◼️
-
-[Data](articles/1f7bbc6b.json)
-
-[Extended Data](ext_articles/1f7bbc6b.ext.json)
-
----
-
-### Sri Lanka to benefit the coin
-
-*2024-06-03 19:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197350) · `si`
-
-In the World Cup, Sri Lanka faces South Africa in its first match, gaining an early advantage.
-
-🟩
-
-The first match faced by the Sri Lankan team in the World Cup will be with South African group today.
-
-Sri Lanka team won the advantage of the match.
-
-◼️
-
-[Data](articles/c6e51374.json)
-
-[Extended Data](ext_articles/c6e51374.ext.json)
-
----
-
-### Record prize money declared for T20 World Cup 2024
-
-*2024-06-03 19:33:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Record-prize-money-declared-for-T20-World-Cup-2024/108-284006) · `en`
-
-(ICC) - ICC have announced a record-breaking prize fund of $11.25 million USD for the Men’s T20 World Cup 2024, with the winners set to receive at least $2.45 million.
-
-The ICC Men's T20 World Cup 2024 winners will receive the highest amount in the tournament's history.
-
-This ninth edition will see 20 teams competing over 28 days across nine venues in the West Indies and USA, making it the largest event of its kind.
-
-The runners-up will earn at least $1.28 million, while the losing semi-finalists will take home $787,500 each. Teams that do not advance past the second round will receive $382,500 each, and those finishing between ninth and 12th place will get $247,500 each.
-
-...
-
-[Data](articles/6a15c895.json)
-
-[Extended Data](ext_articles/6a15c895.ext.json)
-
----
-
-### President's oversight visit to Kolonnawa, Kelaniya and Ambattala areas to find the condition of the people affected by the disaster
-
-*2024-06-03 19:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/185244) · `ta`
-
-President Ranil Wickremesinghe visited Kolonnawa, Kelaniya, and Ambattala to assess flood damage, directing against new constructions in flood-prone areas and illegal land filling. He urged relocation of hospitals and immediate aid for victims, emphasizing health and safety. Wickremesinghe called for a comprehensive flood control plan involving Urban Development, Disaster Management, and Irrigation Departments. Sagala Ratnayake highlighted the need for a special program to protect properties and suggested military involvement in providing relief, including setting up temporary centers and combating diseases like dengue and flu.
-
-🟩
-
-President Ranil Wickremesinghe has directed the authorities not to allow new constructions to be flooded in the Kelani River Valley and to prevent rain water from flowing.
-
-The President has directed the authorities to take immediate steps to stop the illegal filling of land in these areas and to relocate the Mulleria and IDH hospitals elsewhere.
-
-President Ranil Wickremesinghe made a visit to Kolonnawa, Kelaniya and Ambattale on Monday, 3rd, to detect the conditions of the people affected by the floods and disasters due to inclement weather conditions.. The President gave these instructions during a discussion held at the Rajamaha Viharaya in Kolonnawa.
-
-The victims are staying in Ambattalai. The President went to the Silva Vidyalaya and the Wellampitiya Gamini Vidyalaya Security Center, heard the welfare of the people and instructed the authorities to carry out their needs and carry out continuous work.
-
-...
-
-[Data](articles/d665b5f1.json)
-
-[Extended Data](ext_articles/d665b5f1.ext.json)
-
----
-
-### UNP appoints a new staff to target election
-
-*2024-06-03 19:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197349) · `si`
-
-The UNP Working Committee appointed a new office committee for its election campaign, including Minister Harin Fernando as the National Electoral Organizer, former Minister Ravi Karunanayake as the National Secretary, and President's Counsel Ronal Perera as the Deputy Secretary General of the Elections. Additionally, changes were made in the UNP Treasurer position, with Mr. Firos Shabbadean appointed as the Vice President and Krishan Theodore as Deputy Secretary General.
-
-🟩
-
-The UNP Working Committee appointed a new office committee targeting the election campaign.
-
-The Working Committee met yesterday at Pitakotte Sirikotha Sirikotha Sirikotha Sirikotha Sirikotha Sirikotha Sirikotha Sirikotha.
-
-Minister Harin Fernando was appointed by Minister Harin Fernando as the National Electoral Organizer and former Minister Ravi Karunanayake was appointed as the National Secretary.
-
-President's Counsel Ronal Perera was appointed as the Deputy Secretary General of the Elections.
-
-In addition, the UNP office staff also made a slight change in the UNP Treasurer and Mr. Firos Shabbadean was also appointed as the Vice President and Krishan Theodore as Deputy Secretary General.
-
-Meanwhile Deputy Leader Ruwan Wijewardena, Chairman Vajira Ratmana Bandara, Chairman Vajira Ratnayake, Wajela Ratnayake, Ven.
-
-◼️
-
-[Data](articles/0d5a8707.json)
-
-[Extended Data](ext_articles/0d5a8707.ext.json)
-
----
-
-### Jaime Ravi's 'Love Time'
-
-*2024-06-03 19:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/185202) · `ta`
-
-"Jayam Ravi stars in 'Kadikaikkam,' directed by Krithika Udayanidhi, featuring Nithya Menon, Yogi Babu, and others. Music by R. Rahman. The film's shooting is complete, and its songs are anticipated. A special video promoting the release has excited fans."
-
-🟩
-
-The songs of the film 'Kadikaikkam', which plays the hero and hero of the Tamil film industry, Jayam Ravi, will be released soon.. In this case, the film crew has released a special video for this and has been expecting the songs of the film.
-
-Directed by director Krithika Udayanidhi, Jaime Ravi, Nithya Menon, Yogi Babu, Vinay Roy, D Jan Kokan, Lakshmi Ramakrishnan, singer Mano, Vinodhini Vaidyanathan. The film, which has recorded the cinematography by Cavemik Arya. R. Rahman has composed the music.The film is being produced by Red Giant Movies Private Limited.
-
-The shooting of the film is completed and the post -shooting is going on. The single track featured in the film is expected to be released soon. In this case, the film crew has posted a special video on the Internet to increase the expectations of the film's song. It has impressed the fans.
-
-◼️
-
-[Data](articles/48a4b103.json)
-
-[Extended Data](ext_articles/48a4b103.ext.json)
-
----
-
-### 24 deaths in two weeks due to random weather - Disaster Management Center
-
-*2024-06-03 19:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/185240) · `ta`
-
-In the past two weeks, severe weather caused 24 deaths across several districts, with the highest tolls in Ratnapura and Matara. The Disaster Management Center reports 16 fatalities occurred within the first two days alone, including five in Ratnapura, three in Colombo, six in Matara, and two in Galle. This period saw a significant increase from the previous two weeks, which had only eight fatalities.
-
-🟩
-
-Many districts have been severely affected by the inclement weather in the country for the past few days. Most of the deaths have been reported in the districts of Ratnapura and Matara, especially in the districts.
-
-The number of deaths on the first and second day of the deaths have risen to 16 am on Monday (3), the Disaster Management Center said.
-
-According to the Disaster Management Center, 5 deaths in Ratnapura district, 3 deaths in Colombo, 6 deaths in Matara and two deaths in Galle.
-
-In the two weeks from May 15 to the first day, only eight people have died in the Galle, Ratnapura, Puttalam, Nuwara Eliya and Badulla districts due to the fall.
-
-A 40 -year -old man on May 21 in Galle, Galle, a 40 -year -old in Balangoda on the 22nd and a 50 -year -old man in Kodagawala area on the 28th of May.
-
-Similarly, a 39 -year -old woman in Nathantia area, a 36 -year -old woman in Nathantia area on May 22, and a 22 -year -old woman in Arachikattuwa area on the 23rd, died.
-
-...
-
-[Data](articles/913e6313.json)
-
-[Extended Data](ext_articles/913e6313.ext.json)
-
----
-
-### Tom Tom Tom Tomorrow for several other regions
-
-*2024-06-03 19:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197348) · `si`
-
-Due to adverse weather conditions, schools across various regions including Gampaha, Kelaniya, Kaduwela, Ratnapura, Kagalla, Galle, Matara, Kalutara, and Homagama in the Colombo District have been closed tomorrow. The Provincial Director of Education made this decision.
-
-🟩
-
-All schools in the Gampaha, Kelaniya Education Zone and Kaduwela Education Division have been granted leave tomorrow.
-
-The decision was taken by the Provincial Director of Education with adverse weather conditions.
-
-Meanwhile, the Ministry of Education said all schools will be closed tomorrow morning in Ratnapura, Kagalla, Galle, Matara and Kalutara districts.
-
-The schools belonging to the Homagama in the Colombo District have also been granted leave tomorrow.
-
-◼️
-
-[Data](articles/e7b3ab03.json)
-
-[Extended Data](ext_articles/e7b3ab03.ext.json)
 
 ---

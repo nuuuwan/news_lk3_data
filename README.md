@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-04 20:34:29**
+As of **2024-06-04 20:53:11**
 
 ## Newspaper Stats
 
-*Scraped **28,404** Articles*
+*Scraped **28,405** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,533
 economynextcom | 1,611
 dailyftlk | 1,669
-adalk | 2,422
+adalk | 2,423
 adaderanalk | 3,231
 tamilmirrorlk | 3,335
 virakesarilk | 4,373
@@ -26,27 +26,57 @@ adaderanasinhalalk | 4,567
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,403 (100.0%) of 28,404 articles have been extended.
+28,404 (100.0%) of 28,405 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-04 (Tuesday)
 
-### පස් කන්දකට යටවූ පුංචි පැටියා
+### Small chick that submerged on a mountain
 
 *2024-06-04 20:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197395) · `si`
 
-කෑගල්ල ප්‍රදේශයේදී පස් කන්දකට යටවී කුඩා දරුවෙකු අවාසනාවන්ත ලෙස මියගොස් තිබේ.
+In the Kegalle area, a child tragically died when a soil layer collapsed during drainage work near their home. The incident occurred early this morning, and the child was rushed to the Kegalle Teaching Hospital but could not be saved.
 
-එම දරුවාගේ නිවසේ පසුපස ආරක්‍ෂිත පැතිබැම්මක් ඉදිකිරීම සඳහා අද උදෑසන කාණුවක් කපා තිබී ඇත.
+🟩
 
-කුඩා දරුවා එම කාණුව තුළ සිටි අවස්ථාවේ ඊට ඉහළින් පිහිටි පස් තට්ටුවක් කුඩා දරුවා මතට කඩා වැටී ඇති බව ප්‍රදේශවාසීන් පවසයි.
+A child has been subjected to a mound and died in the Kegalle area.
 
-අනතුරුව එහි පැමිණි පිරිස දරුවා මතට වැටී තිබූ පස් ඉවත්කර කඩිනමින් කෑගල්ල ශික්ෂණ රෝහල වෙත ගෙනගොස් තිබුණි.
+The child was cut off this morning this morning to build a safe crying behind the child's home.
+
+Residents say that a layer of soil has collapsed on the child at the time of the drain.
+
+Thereafter, the number of those who had come to the child had been taken to the Kegalle Teaching Hospital withdrawn.
 
 ◼️
 
 [Data](articles/e366a54f.json)
+
+[Extended Data](ext_articles/e366a54f.ext.json)
+
+---
+
+### මෝදිට වාරණාසියේ ඇති කැමැත්ත අඩුවෙයි
+
+*2024-06-04 19:43:27* · [`adalk`](https://www.ada.lk/breaking_news/මෝදිට-වාරණාසියේ-ඇති-කැමැත්ත-අඩුවෙයි/11-410009) · `si`
+
+2014 වසරේ පටන් ඉන්දීය අගමැතිධුරයේ කටයුතු කරන නරේන්ද්‍ර මෝදි මහතා මෙවර ඉන්දීය මහ මැතිවරණය ජය ගනිමින් තෙවැනි වරටත් ඉන්ද‍ිය අග්‍රමාත්‍ය ධුරයට ‍‍ෙත ්රී පත්ව තිබේ.
+
+ඔහු ඉන්දියාවේ වාරණාසි ආසනය නියෝජනය කරමින් මැතිවරණයට තරග කරනු ලබන අතර 2014ට හා 2019 සාපේක්ෂව 2024දී  වාරණාසියෙන් ඔහු ජයග්‍රහණය කරනු ලබන වැඩි ඡන්ද ප්‍රමාණය අඩුවී තිබීම පිළිබඳව බොහෝ දෙනෙකුගේ අවධානය යොමුව තිබේ.
+
+2019ට සාපේක්ෂව 2024දී ඔහු ලබාගත් වැඩි ඡන්ද ප්‍රමාණය 327000කින් පමණ අඩුවි තිබේ.
+
+මේ වාරණාසියේ ඔහු 2014, 2019 හා 2024 වසරවලදි ලබාගත් වැඩි ඡන්ද ප්‍රමාණයන්ය...
+
+2014 දී ඔහු වාරණාසිය වැඩි ඡන්ද 371784 ලබා ගනිමින් ජයග්‍රහණය කළේය.
+
+2019 දී ඔහු වාරණාසිය වැඩි ඡන්ද 479505 ලබා ගනිමින් ජයග්‍රහණය කළේය.
+
+2014 දී ඔහු වාරණාසිය වැඩි ඡන්ද 152513 ලබා ගනිමින් ජයග්‍රහණය කළේය.
+
+◼️
+
+[Data](articles/3f5aeed2.json)
 
 ---
 
@@ -2329,29 +2359,5 @@ However, the voter turnout this year was 66.3 percent, about one percentage poin
 [Data](articles/ea37a9f7.json)
 
 [Extended Data](ext_articles/ea37a9f7.ext.json)
-
----
-
-### Sri Lanka explores including pharmaceuticals, machinery in Pakistan FTA: Envoy
-
-*2024-06-04 10:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-explores-including-pharmaceuticals-machinery-in-pakistan-fta-envoy-166037/) · `en`
-
-ECONOMYNEXT – Sri Lanka is exploring the inclusion of pharmaceuticals and machinery in the Free Trade Agreement (FTA) with Pakistan, Sri Lankan High Commissioner to Pakistan, Admiral Ravindra Wijegunaratne said.
-
-Experts view the move as a potential step for Sri Lanka to reduce the prices of the both goods.
-
-Both South Asian nations began implementing the FTA in 2005, allowing each side to export up to $1 billion worth of goods to the other.
-
-“The trade volume should be increased,” Wijegunaratne told EconomyNext from Islamabad.
-
-“During the last 20 years, Pakistan has improved tremendously, specially in the pharmaceutical and machinery sectors. We have to include these through negotiations,” he said when asked if Sri Lanka considers expanding the FTA list with Pakistan.
-
-The aims of the FTA were to strengthen economic relations between the two nations, increase trade in goods and services, and reduce or eliminate tariffs on a wide range of products.
-
-...
-
-[Data](articles/1d917cf5.json)
-
-[Extended Data](ext_articles/1d917cf5.ext.json)
 
 ---

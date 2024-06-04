@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-04 22:18:57**
+As of **2024-06-04 22:34:51**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,568
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,414 (100.0%) of 28,416 articles have been extended.
+28,416 (100.0%) of 28,416 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -112,6 +112,8 @@ Meanwhile, the passenger bus with registration number NC-4908 (8586), operating 
 
 [Data](articles/e7010c5e.json)
 
+[Extended Data](ext_articles/e7010c5e.ext.json)
+
 ---
 
 ### Major shutdown of Sapugaskanda refinery to begin on July 8
@@ -131,6 +133,8 @@ Therefore, the CPC assured the public that there is no need to worry about their
 ◼️
 
 [Data](articles/47e24d3f.json)
+
+[Extended Data](ext_articles/47e24d3f.ext.json)
 
 ---
 

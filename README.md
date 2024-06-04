@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-05 00:05:54**
+As of **2024-06-05 00:18:48**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,570
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,435 (100.0%) of 28,437 articles have been extended.
+28,437 (100.0%) of 28,437 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -2099,6 +2099,8 @@ This was after cement companies announced they would be reducing prices by 150 r
 ...
 
 [Data](articles/e6869edf.json)
+
+[Extended Data](ext_articles/e6869edf.ext.json)
 
 ---
 

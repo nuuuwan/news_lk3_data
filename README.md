@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-04 05:36:42**
+As of **2024-06-04 05:59:34**
 
 ## Newspaper Stats
 
-*Scraped **28,231** Articles*
+*Scraped **28,233** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,34 +17,72 @@ economynextcom | 1,604
 dailyftlk | 1,666
 adalk | 2,408
 adaderanalk | 3,209
-tamilmirrorlk | 3,312
+tamilmirrorlk | 3,313
 virakesarilk | 4,349
 dailymirrorlk | 4,468
-adaderanasinhalalk | 4,529
+adaderanasinhalalk | 4,530
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,230 (100.0%) of 28,231 articles have been extended.
+28,231 (100.0%) of 28,233 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-04 (Tuesday)
 
-### தீர்ப்புக்கு நன்றி
+### කාසියේ වාසිය උගන්ඩාවට
+
+*2024-06-04 05:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197356) · `si`
+
+20යි 20 ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ ඇෆ්ගනිස්තානය සහ උගන්ඩාව අතර අද (04) පැවැත්වෙයි.
+
+ඒ අනුව ඔවුන් තීරණය කළේ පළමුවෙන් පන්දුවට පහරදීමේ අවස්ථාව ඇෆ්ගනිස්තාන කණ්ඩායමට ලබාදීමටය.
+
+◼️
+
+[Data](articles/dcf30152.json)
+
+---
+
+### பொது வேட்பாளருக்கு 3 அமைப்புகள் ஆதரவு
+
+*2024-06-04 03:38:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொது-வேட்பாளருக்கு-3-அமைப்புகள்-ஆதரவு/175-338397) · `ta`
+
+ஜனாதிபதித் தேர்தலில் தமிழ் பொது வேட்பாளர் ஒருவரை நிறுத்தும் முடிவுக்கு மேலும் மூன்று அமைப்புகள் பூரண ஆதரவு வழங்கியுள்ளன.
+
+சாவகச்சேரி கைத்தொழில் வணிகர் மன்றம், சாவகச்சேரி கூட்டுறவு சபை, யாழ். மாவட்ட பாரவூர்திகள் சங்கம் ஆகிய பொதுஅமைப்புகள் தமது பூரண ஆதரவை வெளிப்படுத்தியுள்ளன.
+
+சிவில் சமூக கூட்டிணைவு செயல்பாட்டாளர்கள் நடத்தி வரும் சந்திப்புகளின் தொடர்ச்சியாக குறித்த அமைப்புகளின் தலைவர்கள், நிர்வாக உத்தியோகத்தர்கள் மற்றும் உறுப்பினர்களுடனான நேரடி சந்திப்பும் கலந்துரையாடலும் அமைப்புகளின் பணிமனைகளில் நடைபெற்றன.
+
+சாவகச்சேரியிலும், கோண்டாவிலிலும் நடைபெற்ற சந்திப்புகளில் தமிழ் பொது வேட்பாளருக்கு தமது பூரண ஆதரவை வழங்கியுள்ள இந்த அமைப்புகளின் பிரதிநிதிகள் குறித்த விடயம் வெற்றிபெறுவதற்கு தாம் பூரண ஒத்துழைப்புகளை வழங்க தயாராக உள்ளனர் என்றும் சந்திப்பில் கலந்து கொண்ட சிவில் சமூக பிரதிநிதிகள் மற்றும் பல்கலைக்கழக மாணவர்களிடம் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/ef1302c5.json)
+
+---
+
+### Thank you for the judgment
 
 *2024-06-04 03:35:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தீர்ப்புக்கு-நன்றி/175-338396) · `ta`
 
-தோட்ட தொழிலாளர்களின் 1,700 ரூபாய் சம்பள விடயத்தில் நீதித்துறை வழங்கிய தீர்ப்புக்கு, இலங்கை தொழிலாளர் காங்கிரஸின் தலைவர் செந்தில் தொண்டமான் நன்றி தெரிவித்துள்ளார்.
+Sri Lanka's Workers Congress President Senthil Thondaman expressed gratitude towards the judiciary for its decision on plantation workers' wages, highlighting the ongoing efforts of his predecessors to secure a pay raise despite challenges. The move has reportedly boosted public confidence.
 
-தோட்ட தொழிலாளர்களின் சம்பள விடயத்தில் இ.தொ.காவின்,மறைந்த தலைவர்களான சௌமியமூர்த்தி தொண்டமான், ஆறுமுகன் தொண்டமான் காலம் முதல் இன்றுவரை தொடர்ந்தும் போராட்டங்கள் ஊடாகவே சம்பள உயர்வை பெற்றுக் கொடுத்துள்ளது.
+🟩
 
-தோட்ட தொழிலாளர்களின் சம்பள விடயத்தில் இ.தொ.கா மீது முன்வைக்கப்பட்ட விமர்சனங்கள், குற்றச்சாட்டுக்களை  இ.தொ.கா  தவிடுபொடியாக்கியுள்ளது. நீதி துறையின் இச்செயற்பாடானது மக்கள் மத்தியில் பெரும் நம்பிக்கையை ஏற்படுத்தியுள்ளது என்றும் தெரிவித்துள்ளார்.
+Sri Lanka Workers Congress President Senthil Thondaman has thanked the judiciary's verdict on the salary of 1,700 rupees of plantation workers.
+
+On the salary of plantation workers, the CWC's late leaders Chaumiyamoorthy Thondaman and Arumugan Thondaman have continued to pay a pay rise through the continuing struggles.
+
+The CWC has made criticism and allegations made against the CWC over the wage of plantation workers.. He said that the judiciary's action has created great confidence among the people.
 
 ◼️
 
 [Data](articles/99aa7cc2.json)
+
+[Extended Data](ext_articles/99aa7cc2.ext.json)
 
 ---
 
@@ -2185,49 +2223,5 @@ The new seal has also been used at the other international airport in Sri Lanka 
 [Data](articles/c012ff32.json)
 
 [Extended Data](ext_articles/c012ff32.ext.json)
-
----
-
-### What happened to Ranwala Devalaya after the violence was over
-
-*2024-06-03 16:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197339) · `si`
-
-After the violence, Ranwala Devalaya was discovered submerged in floodwaters due to heavy rains on June 1st. The temple suffered severe damage, and its condition remains unknown as locals could not reach the site.
-
-🟩
-
-On June 1, a three-wheeler with the floods that were hit with the heavy rain fell to the Puwakpitiya area, Ranwala Temple was found.
-
-The residents so far have not yet arrived in the area, two youths told them that their three-wheeler was crashed when two youths occurred.
-
-The flooded three-wheeler has been severely damaged, and if the owners have owners, calls for the Avissawella Devalaya.
-
-◼️
-
-[Data](articles/6faf493a.json)
-
-[Extended Data](ext_articles/6faf493a.ext.json)
-
----
-
-### Rain falls from tomorrow
-
-*2024-06-03 16:13:17* · [`adalk`](https://www.ada.lk/breaking_news/හෙට-සිට-වැස්ස-අඩුවෙයි/11-409985) · `si`
-
-Tomorrow, expect a drop in heavy showers in the southwest but increased activity in the west, central, south, and northwest regions. The rest of the island may see showers or thunderstorms in the evening or night.
-
-🟩
-
-The Department of Meteorology states that a temporary decrease in heavy showers in the southwest part of the island will be held tomorrow (04).
-
-However, the Meteorological Department says that several showers will occur in the Western, Sabaragamuwa, Central, Southern and Northwestern provinces.
-
-Showers or thundershowers will occur at the evening or night in the rest of the island.
-
-◼️
-
-[Data](articles/6201661a.json)
-
-[Extended Data](ext_articles/6201661a.ext.json)
 
 ---

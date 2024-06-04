@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-04 23:18:42**
+As of **2024-06-04 23:34:51**
 
 ## Newspaper Stats
 
-*Scraped **28,420** Articles*
+*Scraped **28,422** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,32 +19,54 @@ adalk | 2,423
 adaderanalk | 3,234
 tamilmirrorlk | 3,339
 virakesarilk | 4,373
-dailymirrorlk | 4,500
+dailymirrorlk | 4,502
 adaderanasinhalalk | 4,570
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,418 (100.0%) of 28,420 articles have been extended.
+28,420 (100.0%) of 28,422 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-04 (Tuesday)
 
-### ජනපතිගෙන් මෝදිට සුබපැතුම්
+### Modi congratulates President
 
 *2024-06-04 23:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197398) · `si`
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් භාරතීය ජනතා පක්ෂය ප්‍රමුඛ සන්ධානයේ ජයග්‍රහණයට සුබපැතුම් එක්කර තිබේ.
+President Ranil Wickremesinghe joins BJP, affirming PM Modi's leadership and strengthening Sri Lanka-India ties.
 
-එහිදී ජනාධිපතිවරයා සඳහන් කර ඇත්තේ ඉන්දීය අග්‍රාමාත්‍ය නරේන්ද්‍ර මෝදි මහතාගේ නායකත්වය පිළිබඳව එරට ජනතාව තුළ ඇති විශ්වාසය පිළිබඳව මෙමගින් මනාව තහවුරු වන බවය.
+🟩
 
-එසේම ශ්‍රී ලංකාව සහ ඉන්දියාව අතර ඇති සබඳතාවයන් ශක්තිමත් ලෙස අඛණ්ඩව පවත්වාගෙන යන බවද එමගින් ජනාධිපතිවරයා සඳහන් කර තිබේ.
+President Ranil Wickremesinghe has joined the Bharatiya Janata Party to achieve the victory of the party.
+
+The President has said that this is confirming the leadership of the leaders of Prime Minister Narendra Modi.
+
+The President has also stated that the relations between Sri Lanka and India are strongly maintained strong.
 
 ◼️
 
 [Data](articles/82be7c59.json)
+
+[Extended Data](ext_articles/82be7c59.ext.json)
+
+---
+
+### Environmental organizations, certain politicians preventing permanent solutions to floods
+
+*2024-06-04 23:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Environmental-organizations-certain-politicians-preventing-permanent-solutions-to-floods/108-284084) · `en`
+
+Whilst highlighting that the government had come up with permanent solutions to prevent floods, State Minister Pramitha Bandara Tennekoon told Parliament today that it has become impossible to implement them because of environmental organizations and certain politicians.
+
+The State Minister came out with this remark in response to requests by both ruling party and opposition MPs for a permanent solution to the floods which hit the South, Kalutara and the Gampaha district.
+
+He also said that 26 persons have died due to inclement weather conditions while 130,021 persons from 33,422 families have been affected as of today.
+
+◼️
+
+[Data](articles/b1684a83.json)
 
 ---
 
@@ -96,6 +118,22 @@ Modi, 73, is only the second Indian prime minister to win a third straight term.
 
 ---
 
+### Do not share examination results papers on social media: Prof. Amaratunge
+
+*2024-06-04 22:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Do-not-share-examination-results-papers-on-social-media-Prof-Amaratunge/108-284090) · `en`
+
+Colombo, June 4 (Daily Mirror) - University Grants Commission (UGC) Chairman, Prof. Sampath Amaratunge, has urged students and parents not to share their 2023 (2024) GCE Advanced Level (A/L) examination results on social media.
+
+He informed the Daily Mirror that there have been several reports of incidents involving the misuse of examination result details by unknown individuals.
+
+"Examination result sheets are unique documents that serve as a means of individual identification for students by the ministry. Sharing copies of these documents, including the index number, can compromise the identity of the genuine owner of the result sheet," he explained," he said.
+
+...
+
+[Data](articles/b2a84163.json)
+
+---
+
 ### Modi victory;Message sent by Ranil
 
 *2024-06-04 22:00:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மோடி-வெற்றி-ரணில்-அனுப்பிய-செய்தி/175-338437) · `ta`
@@ -120,21 +158,27 @@ President Ranil Wickremesinghe congratulates Prime Minister Narendra Modi, who h
 
 ---
 
-### மோடி வெற்றி ; ரணில் அனுப்பிய செய்தி
+### Modi victory;Message sent by Ranil
 
 *2024-06-04 22:00:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/மோடி-வெற்றி-ரணில்-அனுப்பிய-செய்தி/150-338437) · `ta`
 
-இந்தியாவின் பாராளுமன்றத் தேர்தலில் நரேந்திர மோடி தலைமையிலான தேசிய ஜனநாயகக் கூட்டணி வெற்றி பெற்றுள்ளது.
+Narendra Modi's National Democratic Alliance wins India's parliamentary election, securing his third term as PM. President Ranil Wickremesinghe congratulates Modi, expressing hope for stronger ties between Sri Lanka and India.
 
-இதன்படி நரேந்திர மோடி, மூன்றாவது முறையாகவும் ஆட்சி அமைக்க போவதாக இந்திய ஊடக தகவல்கள் தெரிவிக்கின்றன.
+🟩
 
-இந்த நிலையில், மூன்றாவது முறையாகவும் வெற்றியை தன்வசப்படுத்திய பிரதமர் நரேந்திர மோடிக்கு, ஜனாதிபதி ரணில் விக்ரமசிங்க வாழ்த்து தெரிவித்துள்ளார்.
+Narendra Modi -led National Democratic Alliance has won India's parliamentary election.
 
-“நரேந்திர மோடியின் தலைமையின் கீழ் முன்னேற்றம் மற்றும் செழிப்பு ஆகியவற்றில் இந்திய மக்கள் வெளிப்படுத்திய நம்பிக்கையை ஜனாதிபதி அங்கீகரித்ததோடு, இலங்கைக்கும் இந்தியாவுக்கும் இடையிலான உறவுகளில் தொடர்ச்சியான வளர்ச்சியில் நம்பிக்கை வைக்கின்றேன்,”  என ரணில் விக்ரமசிங்க தெரிவித்துள்ளார். R
+According to Indian media reports, Narendra Modi will rule for the third time.
+
+President Ranil Wickremesinghe congratulates Prime Minister Narendra Modi, who has been successful for the third time.
+
+"The President recognizes the confidence expressed by the Indian people in the leadership of Narendra Modi and I believe in the continuous development of relations between Sri Lanka and India," Ranil Wickremesinghe said.. Remble
 
 ◼️
 
 [Data](articles/7e5a852a.json)
+
+[Extended Data](ext_articles/7e5a852a.ext.json)
 
 ---
 
@@ -2255,51 +2299,5 @@ The cricket team from Dubai to Emirates from Dubai to Emirates Airlines was reac
 [Data](articles/3699a07f.json)
 
 [Extended Data](ext_articles/3699a07f.ext.json)
-
----
-
-### MP Rajapakse injured in a clash between MP Mahindansalaka
-
-*2024-06-04 11:27:10* · [`adalk`](https://www.ada.lk/breaking_news/පොහොට්ටු-රුස්වීමක-මන්ත්‍රී--මහින්දානන්ද-අතර-ඇතිවූ-ගැටුමකදී-මන්ත්‍රී-රාජපක්ෂට-තුවාල/11-410001) · `si`
-
-Kandy District MPs Mahindananda Aluthgamage and Gunatilleke Rajapaksa were involved in a clash during a meeting over a local issue. Aluthgamage was hospitalized after being pushed by Rajapaksa. Both deny involvement, with Aluthgamage requesting CCTV footage to clear his name. The incident also involved exchanges between Madura Withanage and Pavithra Wanniarachchi.
-
-🟩
-
-The Kandy District MP Mahindananda Aluthgamage has been admitted to the Colombo Army Hospital following a confrontation between the General Filling of the Government of Sri Lanka and the District MP Gunatilleke Rajapaksa.
-
-It is said that the argument was held at the meeting of a problem in Kandy area.
-
-Mr. Gunatilleke Rajapaksa has fallen to the back of the Gunanthi Samarawicka, when Mr. Gunatilleke holds out of his bore by the government team meeting.
-
-Mahindananda Aluthgamage said he had not had a hand and had to assemble his behavior in CCTV footage, Mahindananda Aluthgamage said.
-
-It is learned that a heated exchange of words has been found among Madura Withanage and Pavithra Wanniarachchi.
-
-◼️
-
-[Data](articles/75761ac8.json)
-
-[Extended Data](ext_articles/75761ac8.ext.json)
-
----
-
-### Supreme Court determination on Electricity Amendment Bill causes uproar in Parliament
-
-*2024-06-04 11:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Supreme-Court-determination-on-Electricity-Amendment-Bill-causes-uproar-in-Parliament/108-284063) · `en`
-
-The Supreme Court's determination that the Electricity Amendment Bill is inconsistent with the Constitution as a whole, caused a showdown in Parliament with the Opposition calling for the postponement of the debate while the ruling party insisted that it should go ahead as scheduled on Thursday with the necessary amendments.
-
-Leader of the Opposition Sajith Premadasa called for a postponement of the debate while Chief Opposition Whip Lakshman Kiriella called for a delay in submitting the Bill to the Sectoral Oversight Committee.
-
-“We need to conduct a broad study on the Bill and the Supreme Court determination and therefore we call for a postponement of the debate set for Thursday,” Premadasa said.
-
-Minister of Power and Energy Kanchana Wijesekera who responded, assured that the Bill would be amended as per the Supreme Court determination.
-
-...
-
-[Data](articles/9cd298f0.json)
-
-[Extended Data](ext_articles/9cd298f0.ext.json)
 
 ---

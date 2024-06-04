@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-04 08:19:52**
+As of **2024-06-04 08:35:10**
 
 ## Newspaper Stats
 
@@ -26,101 +26,131 @@ adaderanasinhalalk | 4,536
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,250 (100.0%) of 28,259 articles have been extended.
+28,259 (100.0%) of 28,259 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-04 (Tuesday)
 
-### ජනපතිගේ යෝජනාවට කැබිනට් අනුමැතිය
+### President's proposal approves cabinet
 
 *2024-06-04 08:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197363) · `si`
 
-අයහපත් කාලගුණ තත්ත්වයෙන් පීඩාවට පත් ජනතාවට සහන සැලසීම සහ පූර්ණ වශයෙන් හානි වූ නිවාස රජයේ වියදමෙන් සහ ත්‍රිවිධ හමුදා සහාය ඇතිව යළි ඉදිකර දීම සඳහා ඉදිරිපත් වූ යෝජනාවට අමාත්‍ය මණ්ඩල අනුමැතිය හිමිව තිබේ.
+President Ranil Wickremesinghe's proposal to approve the cabinet aims to provide immediate relief to those affected by bad weather, rebuild resources, and ensure the welfare of citizens. This decision comes as the government and armed forces assist in recovery efforts. Additionally, due to the adverse weather conditions, the National Celebration for World Environment Day has been canceled.
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් අදාළ යෝජනාව ඊයේ (03) කැබිනට් මණ්ඩලයට ඉදිරිපත් කර ඇති අතර එහිදී ඊට අනුමැතිය හිමිව ඇති බව වාර්තා වේ.
+🟩
 
-චක්‍රලේඛ මත පදනම්ව නොසිට විපතට පත් ජනතාව සඳහා කඩිනමින් සහන සැලසීමට සහ විපතට පත් ජනතාවට ලබාදෙන ආධාර මුදල් වැඩි කිරීමට ද මෙහිදී යෝජනා වී තිබේ.
+Cabinet approval has been approved by the proposal to provide relief to the people affected by the inclement weather and rebuilding resources with the assistance of the government expenditure and the armed forces.
 
-මේ අතර ජගත් පරිසර දින සැමරුම් උළෙල වෙනුවෙන් වෙන්කළ මූල්‍ය ප්‍රතිපාදන අයහපත් කාලගුණ තත්ත්වයෙන් විපතට පත්වූ ජනතාවගේ සුබසාධනය වෙනුවෙන් යොදවන ලෙස ජනාධිපති රනිල් වික්‍රමසිංහ මහතා උපදෙස් ලබාදී ඇති බව වාර්තා වේ.
+President Ranil Wickremesinghe has presented the proposal to the Cabinet yesterday (03) and has been approved.
 
-හෙටට (05) යෙදී ඇති ජගත් පරිසර දිනය නිමිත්තෙන් සංවිධානය කර තිබූ ජාතික සැමරුම් උත්සවය අවලංගු කිරීමට ද තීරණය කළ බව පළාත් සභා පළාත් පාලන හා පරිසර රාජ්‍ය අමාත්‍ය ජානක වක්කුඹුර මහතා සඳහන් කළේය.
+It has been proposed to provide immediate relief to the affected people without dependence on circulars.
+
+Meanwhile, President Ranil Wickremesinghe has instructed the welfare of the people who were affected by the inclement weather for the welfare of the people of the global environmental celebrations.
+
+Provincial Councils and Environment, Provincial Councils Janaka Wakkumbura has decided to cancel the National Celebration organized by the World Environment Day (05).
 
 ◼️
 
 [Data](articles/ba662e39.json)
 
+[Extended Data](ext_articles/ba662e39.ext.json)
+
 ---
 
-### විදුලිසැර වැදී තරුණයෙක් මරුට
+### Youth killed in electrocution
 
 *2024-06-04 07:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197362) · `si`
 
-බදුල්ල, නුගේ හන්දිය ප්‍රදේශයේ ක්‍රීඩාපිටිය අසල වෙල්යායේදී තරුණයෙකුට විදුලිසැර වැදී මියගොස් තිබේ.
+A 23-year-old from Hinddugoda died due to electrocution near the Playginenator in Badulla. The incident occurred last night when he touched an unauthorized power cord meant to protect a vegetable cellar.
 
-ඊයේ (03) රාත්‍රී කාලයේදී එම සිදුවීම වාර්තා වූ බව පොලීසිය පවසයි.
+🟩
 
-එලෙස මියගොස් ඇත්තේ, හම්බාවෙල,  හිඳගොඩ ප්‍රදේශයේ පදිංචිව සිටි 23 හැවිරිදි තරුණයෙකි.
+A youth has been bowled out at the station near the Playginenator in Badulla, Badulla.
 
-එළවළු කොටුවක් වන සතුන්ගෙන් ආරක්ෂා කිරීම සඳහා අනවසරෙන් ඇද තිබූ විදුලි රැහැනක පැටලීමෙන් මෙම මරණය සිදුව ඇති බවට පොලීසිය පවසයි.
+The incident was reported yesterday (03) at night, police said.
+
+The deceased has been identified as a 23 year old resident of Hinddugoda.
+
+Police say that the death has been caused by the death of an unauthorized power cord to protect a vegetable cell.
 
 ◼️
 
 [Data](articles/adf658a2.json)
 
+[Extended Data](ext_articles/adf658a2.ext.json)
+
 ---
 
-### විශ්වවිද්‍යාල අනධ්‍යයන සේවකයින්ගේ අවසන් තීරණය අද
+### University non-academic employees today
 
 *2024-06-04 07:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197361) · `si`
 
-සිය වෘත්තීය සමිති ක්‍රියාමාර්ගයේ ඉදිරි කටයුතු සම්බන්ධයෙන් අද (04) දිනයේ අවසන් තීරණයක් ගන්නා බව විශ්වවිද්‍යාල අනධ්‍යන සේවකයින් පවසයි.
+Union action planned by non-academic staff at a university due to professional issues discussed with the State Minister of Higher Education. Today's meeting aims to inform trade union representatives about future steps.
 
-විශ්වවිද්‍යාල වෘත්තීය සමිති ඒකාබද්ධ කමිටුවේ සම සභාපති ධම්මික ප්‍රියන්ත මහතා සඳහන් කළේ, සිය වෘත්තීය ගැටලු සම්බන්ධයෙන් උසස් අධ්‍යාපන රාජ්‍ය අමාත්‍යවරයා සමග ඊයේ (03) විශේෂ සාකච්ඡාවක් පැවැත්වූ බවය.
+🟩
 
-එම සාකච්ඡාවේ දී එකඟ වූ කරුණු සම්බන්ධයෙන් අද දිනයේ සිය වෘත්තීය සමිති නියෝජිතයින් සමග සාකච්ඡා කර ඉදිරි ක්‍රියාමාර්ග පිළිබද දැනුම්දෙන බව ධම්මික ප්‍රියන්ත මහතා සඳහන් කළේය.
+According to university, union action will be taken regarding the future activities of the trade union action today (04).
+
+Dhammika Priyantha stated that the Samika Priyantha said that a special discussion held with the State Minister of Higher Education regarding its professional issues.
+
+Dhammika Priyantha said that today's trade union representatives will be informed of their trade union representatives today.
 
 ◼️
 
 [Data](articles/cc5f3518.json)
 
+[Extended Data](ext_articles/cc5f3518.ext.json)
+
 ---
 
-### ගංවතුරේ විනෝද වූ සිව්දෙනෙක් සැඩ පහරේ ගසාගෙන යයි
+### Four entertainment of floods swim in the sudden
 
 *2024-06-04 07:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197360) · `si`
 
-ගංවතුරේ විනෝද වෙමින් ජලයේ රැඳී සිටි පුද්ගලයින් සිව්දෙනෙකු ජල පහරකට හසුවී ගසාගෙන ගොස් තිබේ.
+In Udaravila, four people were swept away by floods. Three were rescued by locals, but a 17-year-old from Newittle Estate remains missing. Residents and police are searching for the missing person.
 
-ඉන් පුද්ගලයින් තිදෙනෙකු ප්‍රදේශවාසීන් විසින් බේරාගෙන එක් අයෙකු අතුරදන්ව ඇති බව පොලීසිය පවසයි.
+🟩
 
-ඊයේ (03) සවස් කාලයේදී එම සිදුවීම වාර්තා වී තිබුණේ ඇඟුරුවාතොට, උඩුවර කරඳවතුගොඩ ප්‍රදේශයේදීය.
+Four people who have been in flooding have been caught up into a blown blow.
 
-එලෙස අතුරුදන්ව ඇත්තේ, නිවිවැටල් වත්ත, නෑබඩ ප්‍රදේශයේ පදිංචිව සිටි 17 හැවිරිදි තරුණයෙකි.
+Police say that three of them have been rescued by the residents and have been found.
 
-අතුරුදන් වූ අය සොයා ප්‍රදේශවාසීන් හා ඇඟුරුවාතොට පොලීසිය සෝදිසි මෙහෙයුමක් දියත් කර ඇත.
+At the evening yesterday, the incident reported yesterday in Udaravila, Udurala, Uduwara, Uduwara, Uduwara.
+
+The disappeared is a 17 year old resident of the Newittle Estate, Nobada, Nobada.
+
+Residents and Amarashtota Police have launched a search operation in search of missing persons.
 
 ◼️
 
 [Data](articles/8d21c468.json)
 
+[Extended Data](ext_articles/8d21c468.ext.json)
+
 ---
 
-### තවත් පුද්ගල ඝාතනයක්
+### Another murder
 
 *2024-06-04 07:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197359) · `si`
 
-පැරණි ආරවුලක් දුරදිග යාමෙන් ඇතිවූ බහින් බස්වීමක් හේතුවෙන් තියුණු ආයුධයකින් පහරදී පුද්ගලයෙකු ඝාතනය කර තිබේ.
+A 57-year-old man from Cembukatiyya was murdered in a dispute, leading to his death by a sharp weapon. The incident occurred at the Madampe Police Division. A 36-year-old suspect is in custody, and further inquiries are being conducted by the Madampe police.
 
-ඊයේ (03) අලුයම් කාලයේදී එම ඝාතනය සිදුව තිබුණේ, මාදම්පේ පොලිස් වසමේ හේන්යාය ප්‍රදේශයේදී බව පොලීසිය පවසයි.
+🟩
 
-එලෙස මියගොස් ඇත්තේ, හේන්යාය, සෙම්බුකට්ටිය ප්‍රදේශයේ පදිංචිව සිටි 57 හැවිරිදි පුද්ගලයෙකි.
+A heated argument caused by a heated argument has been assaulted by a sharp weapon.
 
-ඝාතනයට සම්බන්ධ 36 හැවිරිදි සැකකරු පොලිස් ස්ථානයට ඉදිරිපත් වීමෙන් පසු අත්අඩංගුවට ගෙන ඇති අතර මාදම්පේ පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+The murder was held in the Madampe Police Division in the Madampe Police Division yesterday.
+
+The deceased has been identified as a 57 year old resident of the Cembukatiyya area.
+
+The 36-year-old suspect was seized after he was produced before the police station and Madampe police are conducting further investigations.
 
 ◼️
 
 [Data](articles/e0e44472.json)
+
+[Extended Data](ext_articles/e0e44472.ext.json)
 
 ---
 
@@ -145,6 +175,8 @@ According to the Epidemiology unit, 25,095 dengue cases have been reported from 
 ◼️
 
 [Data](articles/0036e58b.json)
+
+[Extended Data](ext_articles/0036e58b.ext.json)
 
 ---
 
@@ -238,23 +270,33 @@ Titled ‘Women’s Advancement in Banking in Emerging South Asian Countries’,
 
 [Data](articles/1c6ef846.json)
 
+[Extended Data](ext_articles/1c6ef846.ext.json)
+
 ---
 
-### சுற்றாடல் தின பணத்தை பயன்படுத்தப் பணிப்புரை
+### Workshop to use environmental day money
 
 *2024-06-04 03:54:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுற்றாடல்-தின-பணத்தை-பயன்படுத்தப்-பணிப்புரை/175-338400) · `ta`
 
-எதிர்வரும் ஜூன் மாதம் 05 ஆம் திகதி நடைபெறவிருந்த உலக சுற்றாடல் தினத்தின் தேசிய கொண்டாட்டத்திற்காக ஒதுக்கப்பட்ட நிதி ஒதுக்கீட்டை சீரற்ற காலநிலையினால் பாதிக்கப்பட்ட மக்களின் நலனுக்காக பயன்படுத்துமாறு ஜனாதிபதி ரணில் விக்ரமசிங்க பணிப்புரை விடுத்துள்ளார் என்று மாகாண சபைகள், உள்ளூராட்சி மற்றும் சுற்றாடல் இராஜாங்க அமைச்சர் ஜனக வக்கும்புர தெரிவித்தார்.
+President Wickremesinghe redirected World Environment Day funds to aid weather-hit communities, cancelling the traditional celebration but encouraging nationwide tree planting.
 
-ஜனாதிபதி ஊடக மையத்தில் நேற்று நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே இராஜாங்க அமைச்சர் ஜானக வக்கும்புர மேற்கண்டவாறு தெரிவித்தார்.  அவர் மேலும் தெரிவிக்கையில்,
+🟩
 
-உலக சுற்றாடல் தினத்தின் தேசிய விழாவை ஜூன் 05 ஆம் தேதி நடத்த திட்டமிடப்பட்டிருந்தது.
+Provincial Councils, Local Government and Environment Minister Janaka Wakumbura said that President Ranil Wickremesinghe has issued a directive to use the allocation of funds allocated for the National Celebration of World Environment Day, which is scheduled for June 5, for the benefit of the people affected by the inclement weather.
 
-ஆனால், ஜனாதிபதி ரணில் விக்கிரமசிங்க, இந்த விழாவை இரத்து செய்து, அந்த நிதி ஒதுக்கீட்டை மோசமான காலநிலையால் பாதிக்கப்பட்ட மக்களின் நலனுக்காக பயன்படுத்துமாறு பணிப்புரை விடுத்துள்ளார்.
+State Minister Janaka Wakumbura said this at a media briefing held at the Presidential Media Center yesterday.As he further stated,
 
-...
+The National Festival of World Environment Day was scheduled for June 05.
+
+However, President Ranil Wickremesinghe has issued a directive to cancel the ceremony and use the funds for the benefit of the people affected by the worst weather.
+
+However, we will carry out the task of planting ten million plants nationwide for the World Environmental Day National Festival.. We urge you to plant a plant in every house on World Environment Day. (A)
+
+◼️
 
 [Data](articles/2b0a608e.json)
+
+[Extended Data](ext_articles/2b0a608e.ext.json)
 
 ---
 
@@ -2120,21 +2162,29 @@ Strong winds and heavy rains have brought down trees across power lines and tran
 
 ---
 
-### ජගත් පරිසර දින සැමරුම් සඳහා වෙන්කළ මුදල් විපතට පත් ජනතාවට
+### People affected for the celebration of global environmental celebrations
 
 *2024-06-03 17:59:37* · [`adalk`](https://www.ada.lk/breaking_news/ජගත්-පරිසර-දින-සැමරුම්-සඳහා-වෙන්කළ-මුදල්-විපතට-පත්-ජනතාවට/11-409997) · `si`
 
-ජගත් පරිසර දින සැමරුම සඳහා වෙන්කළ මුදල් විපතට පත් ජනතාව වෙනුවෙන් යොදවන ලෙස ජනපතිගෙන් උපදෙස් – පළාත් සභා, පළාත් පාලන සහ පරිසර රාජ්‍ය අමාත්‍ය ජානක වක්කුඹුර
+In response to adverse weather conditions affecting many, the President has directed officials to prioritize disaster relief over global environmental celebrations. State Minister Johnson highlights the government's efforts to assist displaced individuals, clean flood-hit areas, and prevent disease outbreaks. He urges cooperation instead of criticism during this critical period, emphasizing the importance of supporting those affected. Additionally, interviews for permanent local government positions will proceed despite attempts to disrupt them. The World Environment Day festival has been canceled to focus on aiding victims, with ongoing commitments to national celebrations.
 
-එළඹෙන ජූනි මස 05 වනදා පැවැත්වීමට නියමිතව තිබූ ජගත් පරිසර දින ජාතික සැමරුම් උළෙල වෙනුවෙන් වෙන්කළ මූල්‍ය ප්‍රතිපාදන අයහපත් කාලගුණ තත්ත්වය හේතුවෙන් විපතට පත් වූ ජනතාවගේ සුබසාධනය වෙනුවෙන් යොදවන ලෙස ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් උපදෙස් ලබාදුන් බව පළාත් සභා, පළාත් පාලන සහ පරිසර රාජ්‍ය අමාත්‍ය ජානක වක්කුඹුර මහතා පැවසීය.
+🟩
 
-ජනතාව දුෂ්කරතාවට මුහුණ දී සිටින මේ අවස්ථාවේ ඇතැමුන් විවේචනයට පමණක් සීමාවෙමින් දේශපාලන වාසි ලබාගැනීමට උත්සහ ගන්නා බව පෙන්වා දුන් ඒ මහතා මේ මොහොතේ අවශ්‍ය වන්නේ සියලු දෙනා එක්ව විපතට පත් ජනතාව එම තත්ත්වයෙන් මුදවා ගැනීම බව ද සඳහන් කළේය.
+President instructs to deployed persons for the censorship of the global environmental celebrations - Provincial Councils, Local Government and Environment Janaka Wakkumbura
 
-පළාත් සභා, පළාත් පාලන සහ පරිසර රාජ්‍ය අමාත්‍ය ජානක වක්කුඹුර මහතා මේ බව සඳහන් කර සිටියේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන් අද (03) ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමිනි.
+State Minister of Provincial Councils, Local Government and Environment, Johnson, Hon.said.
+
+He said that the people are trying to get political gains at the time of difficulty at the time of their difficulties.
+
+He was speaking at a press conference held at the press conference held at the Presidential Media Center today (03) at the Presidential Media Center for PC, Local Government and Environment.
+
+"A large number of people are displaced due to the inclement weather. We have begun to provide relief to them as a government. The program of displaced persons in all parts of the island has also been implemented.
 
 ...
 
 [Data](articles/347fb799.json)
+
+[Extended Data](ext_articles/347fb799.ext.json)
 
 ---
 

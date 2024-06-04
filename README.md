@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-04 12:52:31**
+As of **2024-06-04 13:03:47**
 
 ## Newspaper Stats
 
-*Scraped **28,330** Articles*
+*Scraped **28,332** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,34 +17,72 @@ economynextcom | 1,611
 dailyftlk | 1,669
 adalk | 2,414
 adaderanalk | 3,220
-tamilmirrorlk | 3,328
+tamilmirrorlk | 3,329
 virakesarilk | 4,358
 dailymirrorlk | 4,481
-adaderanasinhalalk | 4,550
+adaderanasinhalalk | 4,551
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,327 (100.0%) of 28,330 articles have been extended.
+28,330 (100.0%) of 28,332 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-04 (Tuesday)
 
-### පළාත් පාලන ආයතනවල රැකියා ලැබෙන හැටි
+### ஆளுங்கட்சி கூட்டத்தில் பதற்றம்:  ராஜபக்ஷவுக்கு  காயம்
+
+*2024-06-04 12:52:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆளுங்கட்சி-கூட்டத்தில்-பதற்றம்-ராஜபக்ஷவுக்கு-காயம்/175-338420) · `ta`
+
+ஸ்ரீலங்கா பொதுஜன பெரமுனவின் கண்டி மாவட்ட பாராளுமன்ற உறுப்பினர் மஹிந்தானந்த அளுத்கமகே மற்றும் அதே மாவட்ட நாடாளுமன்ற உறுப்பினர் குணதிலக்க ராஜபக்ஷ ஆகியோருக்கிடையில் ஆளும் கட்சி எம்.பி.க்கள் குழு கூட்டத்தின் போது ஏற்பட்ட வாக்குவாதத்தில் ராஜபக்ச காயமடைந்து கொழும்பில் உள்ள இராணுவ மருத்துவமனையில் அனுமதிக்கப்பட்டுள்ளார்.
+
+மோதியதில் அவரது காலில் காயம் ஏற்பட்டுள்ளதாகவும், அதற்கு சத்திரசிகிச்சை மேற்கொள்ளவும் திட்டமிடப்பட்டுள்ளதாகவும் தெரிவிக்கப்பட்டுள்ளது.
+
+ஆளும் கட்சி எம்.பி.க்கள் கூட்டத்தில் கண்டி பிரதேசத்தில் ஏற்பட்டுள்ள பிரச்சினை குறித்து பேசப்பட்ட போதே இந்த வாக்குவாதம் ஏற்பட்டதாக கூறப்படுகிறது.
+
+இவ்விடயம் தொடர்பில்   கருத்து தெரிவித்த பொதுஜன பெரமுனவின் கண்டி மாவட்ட உறுப்பினர்  மஹிந்தானந்த அளுத்கமகே, ஆளும் கட்சிக் குழுக் கூட்டத்தில் அதிகாரிகள் மற்றும் உறுப்பினர்கள் முன்னிலையில் குணதிலக ராஜபக்ஷ தம்மிடம் ஆவேசமாகப் பேசினார். நான் கேட்ட கேள்விகளுக்கு பதிலளிக்காது வெளியே வரச் சொன்னார் என்றார். .
+
+...
+
+[Data](articles/711261db.json)
+
+---
+
+### ලාෆ්ස් ගෑස් මිලත් පහළට
+
+*2024-06-04 12:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197379) · `si`
+
+ඒ අනුව කිලෝග්‍රෑම් 12.5 ලාෆ්ස් ගෘහස්ථ ගෑස් සිලින්ඩරයක මිල රුපියල් 160කින් පහළ දැමුණු අතර එහි නව මිල වන්නේ රුපියල් 3,680කි.
+
+කිලෝග්‍රෑම් 5 ගෑස් සිලින්ඩරයක මිල රුපියල් 65කින් පහළ දැමුණු අතර එහි නව මිල රුපියල් 1,477ක් වේ.
+
+◼️
+
+[Data](articles/b75b3e9e.json)
+
+---
+
+### How to get employment in Local Authorities
 
 *2024-06-04 12:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197378) · `si`
 
-පළාත් පාලන ආයතනවල ස්ථිර නොකළ සියලු සේවකයින් ඉක්මණින් රජයේ ස්ථිර සේවකයින් බවට පත්කරන බව රාජ්‍ය අමාත්‍ය ජානක වක්කුඹුර මහතා පවසයි.
+State Minister Janaka Wakkumbura announced in Parliament that all non-permanent employees, including casual, substitution, and contract workers, will be made permanent. He urged local authorities to confirm these employees by the 15th, promising swift processing for their permanent appointments.
 
-අද (04) පාර්ලිමනේතුවේදී ඇසූ ප්‍රශ්නයක පිළිතුර දෙමින් රාජ්‍ය අමාත්‍යවරයා ඒ බව සඳහන් කළේය.
+🟩
 
-"ඊයේ සියලුම පළාත්පාලන කොමසාරිස්වරුවන්ට දැනුම්දුන්නා අද දවසේ සිට 15 වනදා වෙනකොට මෙම 8,400ක් වෙච්ච ස්ථිර නොකරපු අනියම්, ආදේශ සහ කොන්ත්‍රාත් පදනමේ ඉන්න අය සම්මුඛ පරීක්ෂණයකට භාජනය කරලා අපිට ඒ අයව ස්ථිර කිරීම සඳහා 15 වෙනිදාට කලින් ඒ ලේඛනය හදලා දැනුම්දෙන්න ඒ අයගේ ජ්‍යේෂ්ඨත්වය අනුව. එතකොට අපි ඉක්මන් දිනයක් දීලා ඒ අයගේ ස්ථිර පත්වීම ලබලා දෙනවා."
+State Minister Janaka Wakkumbura says that all the employees who have not confirmed all non-permanent employees have been permanent employees.
+
+The State Minister made this statement in response to a question raised by a question in the parliament today (04).
+
+"The casual, substitution and contract Foundation that did not confirm the 8,400 people informed by all the local commissioners of yesterday to the 15th to confirm them before the 15th.. Then we give a quick day and gives their permanent appointment. "
 
 ◼️
 
 [Data](articles/dace40ea.json)
+
+[Extended Data](ext_articles/dace40ea.ext.json)
 
 ---
 
@@ -62,27 +100,37 @@ He also said that 26 persons have died due to the inclement weather conditions w
 
 [Data](articles/20ed85db.json)
 
+[Extended Data](ext_articles/20ed85db.ext.json)
+
 ---
 
-### தமிழகத்தில் நட்சத்திர வேட்பாளர்களின் நிலை
+### Status candidates in Tamil Nadu
 
 *2024-06-04 12:24:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழகத்தில்-நட்சத்திர-வேட்பாளர்களின்-நிலை/175-338418) · `ta`
 
-2024 மக்களவைத் தேர்தலில் பதிவான வாக்குகளை எண்ணும் பணி இன்று (04.06.2024) காலை சரியாக 8 மணிக்கு தொடங்கி நடைபெற்று வருகிறது. முதலில் தபால் வாக்குகள் எண்ணப்பட்டு, பின்னர் 8.30 மணிக்கு இவிஎம் வாக்குகளை எண்ணும் பணி தொடங்கியது.
+In the 2024 Lok Sabha elections, initial results show DMK leading in several constituencies: Ganapathi Rajkumar with 5,127 votes, Thamizhachi Thangapandian with 18,569 votes, Dayanidhi Maran with 40,037 votes, Kanimozhi with 1,05,856 votes, and Vijayaprabhakaran with 73,622 votes. BJP's Tamil Nadu leader K. Annamalai trails behind by 3,335 votes, and Tamil Nadu Soundararajan is second by 7,103 votes. Independent candidate Padmarajan, dubbed 'Election King,' has garnered only 141 votes so far.
 
-கோயம்புத்தூர் மக்களவைத் தொகுதியில் போட்டியிடும் தமிழ்நாடு பாஜக தலைவர் கே. அண்ணாமலை 3,335 வாக்குகள் வித்தியாசத்தில் பின்னடைவைச் சந்தித்துள்ளார். அங்கு திமுக வேட்பாளர் கணபதி ராஜ்குமார் 5127 வாக்குகள் பெற்று முன்னிலையில் உள்ளார்.
+🟩
 
-தென்சென்னை தொகுதியில் போட்டியிடும் பாஜக வேட்பாளர் தமிழிசை சௌந்தரராஜன் 7,103 வாக்குகள் வித்தியாசத்தில் இரண்டாம் இடத்தில் உள்ளார். அங்கு திமுக வேட்பாளர் தமிழச்சி தங்கபாண்டியன் 18,569 வாக்குகள் பெற்று முன்னிலையில் உள்ளார்.
+The number of votes cast in the 2024 Lok Sabha elections is being held today (04.06.2024) at 8 am. At first the postal votes were counted, and then at 8.30 am, the process of counting IVM votes began.
 
-மத்திய சென்னை திமுக வேட்பாளர் தயாநிதி மாறன் 40,037 வாக்குகள் பெற்று முன்னிலையில் உள்ளார்.
+Tamil Nadu BJP leader K.. Annamalai has suffered a setback by 3,335 votes. There, DMK candidate Ganapathi Rajkumar has 5127 votes.
 
-தருமபுரி தொகுதியில் பாஜக கூட்டணியில் போட்டியிடும் பாமக வேட்பாளர் சௌமியா அன்புமணி 1,00,174 வாக்குகள் பெற்று முன்னிலையில் உள்ளார்.
+BJP candidate in South Senna's constituency, Tamil Nadu Soundararajan is second by 7,103 votes. There, the DMK candidate Thamizhachi Thangapandian is in the forefront of 18,569 votes.
 
-திமுக வேட்பாளர் கனிமொழி, தூத்துக்குடி தொகுதியில் 1,05,856 வாக்குகள் பெற்று முன்னிலையில் உள்ளார்.
+Central Chennai DMK candidate Dayanidhi Maran is in the forefront of 40,037 votes.
+
+Soumya Anbumani, the BJP candidate contesting the BJP coalition in the Dharmapuri constituency, is in the forefront with 1,00,174 votes.
+
+The DMK candidate Kanimozhi is in the Tuticorin constituency with 1,05,856 votes.
+
+Vijayaprabhakaran, who is contesting in the AIADMK alliance in Virudhunagar constituency, is in the forefront of 73,622 votes.
 
 ...
 
 [Data](articles/be53accd.json)
+
+[Extended Data](ext_articles/be53accd.ext.json)
 
 ---
 
@@ -2241,41 +2289,5 @@ The decision follows a special holiday declared for all schools yesterday (3) in
 [Data](articles/fb338feb.json)
 
 [Extended Data](ext_articles/fb338feb.ext.json)
-
----
-
-### NBRO warns landslide threats may persist despite reduced rainfall
-
-*2024-06-04 02:10:24* · [`dailyftlk`](https://www.ft.lk/news/NBRO-warns-landslide-threats-may-persist-despite-reduced-rainfall/56-762575) · `en`
-
-NBRO Director-General Eng. (Dr.) Asiri Karunawardena says 10 districts still under threat, 14,500 families identified as living in high-risk areas
-
-Urges public to remain vigilant, not to return to homes till NBRO officially changes warnings
-
-Says early public awareness helped to reduce number of deaths, casualties
-
-National Building Research Organisation (NBRO) Director-General Engineer (Dr.) Asiri Karunawardena yesterday said that the “red alert” warning for landslide-prone areas might be extended, even if rainfall decreases today (4).
-
-Addressing a special media briefing organised by the Government Information Department, he said 10 districts are still under threat with around 14,500 families having been identified as living in high-risk areas. Karunawardena requested residents in these areas to remain vigilant and heed landslide warnings.
-
-...
-
-[Data](articles/7284e333.json)
-
-[Extended Data](ext_articles/7284e333.ext.json)
-
----
-
-### High Commissioner Rohitha Bogollagama presents credentials to King Charles III
-
-*2024-06-04 02:07:13* · [`dailyftlk`](https://www.ft.lk/news/High-Commissioner-Rohitha-Bogollagama-presents-credentials-to-King-Charles-III/56-762574) · `en`
-
-High Commissioner of Sri Lanka to the United Kingdom Rohitha Bogollagama presented his Letter of Credence to King Charles III on 30 May at a ceremonial event held at the Buckingham Palace. High Commissioner Bogollagama and his spouse Deepthi Bogollagama, were escorted to the Buckingham Palace by traditional horse carriages of the Royal Mews.
-
-...
-
-[Data](articles/353b84ab.json)
-
-[Extended Data](ext_articles/353b84ab.ext.json)
 
 ---

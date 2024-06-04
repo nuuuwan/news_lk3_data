@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-04 23:34:51**
+As of **2024-06-04 23:53:43**
 
 ## Newspaper Stats
 
-*Scraped **28,422** Articles*
+*Scraped **28,437** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,12 +13,12 @@ dbsjeyarajcom | 270
 bbccomsinhala | 278
 newsfirstlk | 363
 islandlk | 1,533
-economynextcom | 1,611
+economynextcom | 1,620
 dailyftlk | 1,669
 adalk | 2,423
 adaderanalk | 3,234
 tamilmirrorlk | 3,339
-virakesarilk | 4,373
+virakesarilk | 4,379
 dailymirrorlk | 4,502
 adaderanasinhalalk | 4,570
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 4,570
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,420 (100.0%) of 28,422 articles have been extended.
+28,422 (99.9%) of 28,437 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-04 (Tuesday)
+
+### தேசிய ஜனநாயகக் கூட்டணியின் தேர்தல் வெற்றிக்கு ஜனாதிபதி ரணில் வாழ்த்து
+
+*2024-06-04 23:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/185332) · `ta`
+
+பாரதிய சனதா கட்சி தலைமையிலான தேசிய ஜனநாயகக் கூட்டணியின் தேர்தல் வெற்றிக்கு ஜனாதிபதி ரணில் விக்கிரமசிங்க வாழ்த்து தெரிவித்துள்ளார்.
+
+"பிரதமர் நரேந்திர மோடியின் தலைமையின் கீழ் முன்னேற்றம் மற்றும் செழிப்பு ஆகியவற்றில் இந்திய மக்களின் நம்பிக்கையை வெளிப்படுத்தும் வகையில், பாஜக தலைமையிலான என்டிஏ வெற்றி பெற்றதற்கு எனது அன்பான வாழ்த்துகளைத் தெரிவித்துக் கொள்கிறேன்" என்று தனது டுவிட்டரில் பதிவிட்டுள்ளார்.
+
+"நெருங்கிய அண்டை நாடாக, இந்தியாவுடனான கூட்டுறவை மேலும் வலுப்படுத்த இலங்கை எதிர்நோக்குகிறது" என்று விக்கிரமசிங்க மேலும் கூறினார்.
+
+◼️
+
+[Data](articles/d4d644aa.json)
+
+---
 
 ### Modi congratulates President
 
@@ -67,6 +83,8 @@ He also said that 26 persons have died due to inclement weather conditions while
 ◼️
 
 [Data](articles/b1684a83.json)
+
+[Extended Data](ext_articles/b1684a83.ext.json)
 
 ---
 
@@ -118,6 +136,30 @@ Modi, 73, is only the second Indian prime minister to win a third straight term.
 
 ---
 
+### 3-வது முறையாக தேசிய ஜனநாயக கூட்டணி ஆட்சி அமைக்க மக்கள் வாய்ப்பு கொடுத்துள்ளனர் - பிரதமர் மோடி
+
+*2024-06-04 22:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/185331) · `ta`
+
+இந்திய நாடாளுமன்ற தேர்தலில் பதிவான வாக்குகள் இன்று 04ஆம் திகதி செவ்வாய்க்கிழமை எண்ணப்பட்டு வருகிறது. தற்போதைய நிலவரப்படி,  290-க்கும் அதிகமான இடங்களில் பாரதிய சனதா கட்சி தலைமையிலான தேசிய ஜனநாயக கூட்டணி முன்னிலை வருகிறது.
+
+தற்போதைய நிலவரப்படி பாரதிய சனதா கட்சி 160க்கும் அதிகமான தொகுதிகளில் வெற்றி பெற்றுள்ளது.
+
+உத்தர பிரதேச மாநிலம் வாரணாசி தொகுதியில் போட்டியிட்ட பா.ஜ.க. வேட்பாளர் பிரதமர் மோடி வெற்றி பெற்றார்.
+
+இவர் 6,12,970 வாக்குகள் பெற்றார். 3-வது முறையாக தேசிய ஜனநாயக கூட்டணி ஆட்சி அமைக்க மக்கள் வாய்ப்பு கொடுத்துள்ளனர் என பிரதமர் மோடி தெரிவித்துள்ளார்.
+
+தேசிய ஜனநாயக கூட்டணிக்கு தொடர்ந்து 3வது முறையாக வெற்றி பெற வைத்த மக்களுக்கு நன்றி.
+
+இவ்வளவு பெரிய அளவிலான தேர்தல் பயிற்சியை நடத்திய இந்திய தேர்தல் ஆணையத்திற்கு நன்றி.
+
+இந்தியாவின் தேர்தல் செயல்முறை மற்றும் முறையின் நம்பகத்தன்மை குறித்து ஒவ்வொரு இந்தியரும் பெருமிதம் கொள்கிறார்கள் என்றார்.
+
+◼️
+
+[Data](articles/483d0aeb.json)
+
+---
+
 ### Do not share examination results papers on social media: Prof. Amaratunge
 
 *2024-06-04 22:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Do-not-share-examination-results-papers-on-social-media-Prof-Amaratunge/108-284090) · `en`
@@ -131,6 +173,8 @@ He informed the Daily Mirror that there have been several reports of incidents i
 ...
 
 [Data](articles/b2a84163.json)
+
+[Extended Data](ext_articles/b2a84163.ext.json)
 
 ---
 
@@ -264,6 +308,22 @@ Therefore, the CPC assured the public that there is no need to worry about their
 
 ---
 
+### பொருளாதாரப் பிரச்சினைகளை நிறைவு செய்து, நாட்டை சரியான பாதையில் வழிநடத்தக் கூடிய ஒரே தலைவர் ஜனாதிபதி ரணிலே - சிவநேசதுரை சந்திரகாந்தன்
+
+*2024-06-04 21:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/185329) · `ta`
+
+பொருளாதாரப் பிரச்சினைகளை நிறைவு செய்து, நாட்டை சரியான பாதையில் வழிநடத்தக் கூடிய ஒரே தலைவர் ஜனாதிபதி ரணில் விக்ரமசிங்க மாத்திரமே எனவும் எனவே, மக்கள் ஆதரவுடன் மீண்டும் ஜனாதிபதியாக அவர் தெரிவு செய்யப்பட்டு எதிர்காலத்தில் வலுவான பொருளாதாரத்தை உருவாக்குவார் என்ற நம்பிக்கை உள்ளதாகவும் கிராமிய வீதிகள் அபிவிருத்தி இராஜாங்க அமைச்சர் சிவநேசதுரை சந்திரகாந்தன் தெரிவித்தார்.
+
+அத்துடன், சீரற்ற காலநிலையினால் ஏற்பட்ட வெள்ளத்தினால் சேதமடைந்த வீதிகளை உடனடியாக புனரமைப்பதற்கு சுமார் 03 பில்லியன் ரூபாவை ஒதுக்குமாறு ஜனாதிபதி பணிப்புரை விடுத்துள்ளதாகவும் அவர் குறிப்பிட்டார்.
+
+ஜனாதிபதி ஊடக மையத்தில் 04 ஆம் திகதி செவ்வாய்க்கிழமை நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே இராஜாங்க அமைச்சர் சிவநேசதுரை சந்திரகாந்தன் இதனைத் தெரிவித்தார்.
+
+...
+
+[Data](articles/7812c4b6.json)
+
+---
+
 ### Modi claims victory for his alliance in India’s general election
 
 *2024-06-04 21:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/99664/modi-claims-victory-for-his-alliance-in-indias-general-election) · `en`
@@ -303,6 +363,20 @@ Later, the child died as the residents who came there were removed and taken to 
 [Data](articles/5ad74840.json)
 
 [Extended Data](ext_articles/5ad74840.ext.json)
+
+---
+
+### மோடியின் வெற்றியை யாழில் கொண்டாடிய சிவசேனை அமைப்பு
+
+*2024-06-04 20:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/185328) · `ta`
+
+நரேந்திர மோடி தலைமையிலான பா.ஜ.க வெற்றிபெற்றதன் மகிழ்ச்சியை வெளிப்படுத்துமுகமாக இலங்கை சிவசேனை அமைப்பு மற்றும் இலங்கை உருத்திரசேனை அமைப்புகளின் ஏற்பாட்டில் வெற்றி கொண்டாட்ட நிகழ்வு யாழ்.நகரிலுள்ள வைரவர் ஆலய முன்றலில் இடம்பெற்றது.
+
+கற்பூரம் கொழுத்தப்பட்டு வழிபாடுகள் இடம்பெற்று சிதறுதேங்காய்கள் உடைக்கப்பட்டன. பின்னர் பொதுமக்களுக்கு மோதகம், லட்டு பரிமாறப்பட்டு மகிழ்ச்சியை வெளிப்படுத்தினர். பட்டாசு கொழுத்தியும் வெற்றியினை கொண்டாடினர்.
+
+◼️
+
+[Data](articles/574eb18a.json)
 
 ---
 
@@ -369,6 +443,24 @@ Thereafter, the number of those who had come to the child had been taken to the 
 [Data](articles/e366a54f.json)
 
 [Extended Data](ext_articles/e366a54f.ext.json)
+
+---
+
+### Sri Lanka SEC says took measures against unlicensed investment advisor
+
+*2024-06-04 20:20:00* · [`economynextcom`](https://economynext.com/sri-lanka-sec-says-took-measures-against-unlicensed-investment-advisor-166257/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s stock market regulator Securities and Exchange Commission (SEC) said it took measures last year to protect the general public from unscrupulous investment advisors who are using social media to provide investment advice.
+
+The SEC has imposed fines on investment advisors to settle offence of manipulating the share market in the past.
+
+However, market players say people who do not have proper qualification have been advising the general public via social media, pretending like professional and licensed investment advisors.
+
+“One notable area of focus during the year has been the proliferation of unlicensed individuals providing investment advice, particularly through social media channels,” the SEC Chairman Faizal Salieh said in the regulator’s 2023 annual report.
+
+...
+
+[Data](articles/6bb25c4a.json)
 
 ---
 
@@ -516,6 +608,28 @@ Southern Provincial Education Secretary Ranjith Yapa has been informed to all th
 
 ---
 
+### இங்கிலாந்து - ஸ்கொட்லாந்து மோதும் ரி20 உலகக் கிண்ணப் போட்டி
+
+*2024-06-04 19:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/185327) · `ta`
+
+ப்றிஜ்டவுனில் இலங்கை நேரப்படி இன்று செவ்வாய்க்கிழமை (4) இரவு 8.00 மணிக்கு ஆரம்பமாகவுள்ள பி குழுவுக்கான ரி20 உலகக் கிண்ண கிரிக்கெட் போட்டியில் நடப்பு சம்பியன் இங்கிலாந்தை ஸ்கொட்லாந்து சந்திக்கவுள்ளது.
+
+இந்த இரண்டு அணிகளும் சர்வதேச ரி20 கிரிக்கெட் போட்டியில் சந்திப்பது இதுவே முதல் தடவையாகும்.
+
+இற்றைக்கு 154 வருடங்களுக்கு முன்னர் கெனிங்டல் ஓவல் விளையாட்டரங்கில் இங்கிலாந்தும் ஸ்கொட்லாந்தும் உத்தியோகப்பற்றற்ற கால்ப்தாட்டப் போட்டித் தொடரில் முதன் முதலாக ஒன்றையொன்று எதர்த்தாடி இருந்தன.
+
+ஒரு வருடம் கழித்து இரண்டு நாடுகளும் எடின்பேர்க், ரேபேர்ன் ப்ளேஸ் மைதானத்தில் முதலாவது சர்வதேச றக்பி போட்டியில் சந்தித்தன.
+
+அதனைத் தொடர்ந்து 1872இல் இரண்டு நாடுகளும் க்ளாஸ்கோ, ஹெமில்டன் க்ரசென்ட் விளையாட்டரங்கில் முதல் தடவையாக சர்வதேச கால்பந்தாட்டப் போட்டியில் மோதின.
+
+எனினும், பெரிய பிரித்தானியாவில் மூன்றாவது பெரும் விளையாட்டுப் போட்டியான கிரிக்கெட்டில் இரண்டு நாடுகளும் ஒரு நூற்றாண்டுப் பின்னரே ஒன்றையொன்று எதிர்த்தாடின.
+
+...
+
+[Data](articles/d8eb084e.json)
+
+---
+
 ### It is a program to meet the quality of medical certificates for employment in the Middle East
 
 *2024-06-04 19:20:25* · [`adalk`](https://www.ada.lk/breaking_news/මැදපෙරදිග-රැකියා-සඳහා-තත්වයෙන්-ඉහළ-වෛද්‍ය-සහතික-දෙන්න-වැඩපිළිවෙළක්/11-410007) · `si`
@@ -603,6 +717,24 @@ It is noteworthy that the decision was made due to the worst weather in those ar
 [Data](articles/97d8b3cd.json)
 
 [Extended Data](ext_articles/97d8b3cd.ext.json)
+
+---
+
+### Modi’s BJP-led alliance projected to lose significant number of seats in India elections
+
+*2024-06-04 19:05:00* · [`economynextcom`](https://economynext.com/modis-bjp-led-alliance-projected-to-lose-significant-number-of-seats-in-india-elections-166246/) · `en`
+
+ECONOMYNEXT — The National Democratic Alliance (NDA) led by Prime Minister Narendra Modi’s Bharatiya Janatha Party (BJP) is projected to lose a significant number of seats and early results on Tuesday June 04 indicated that the alliance will likely not secure an absolute majority.
+
+The BJP is widely expected to reach out to smaller parties to form a coalition government.
+
+Indian media had reported on Saturday June 01, citing exit polls, projected a comfortable win for the Hindu nationalist BJP and its allies over an opposition alliance led by Rahul Gandhi’s Congress party and the INDIA alliance it leads.
+
+According to the New York Times, traders in Mumbai had also anticipated a comfortable win for Modi but, by the end of trading on Tuesday, the markets were down 6 percent, nearly wiping out the year’s gains.
+
+...
+
+[Data](articles/4bed0a32.json)
 
 ---
 
@@ -856,6 +988,26 @@ The police have stated that the two men should be informed of the Katunayake OIC
 
 ---
 
+### Sri Lanka seeks public-private partnership to train Olympic contenders: minister
+
+*2024-06-04 17:52:00* · [`economynextcom`](https://economynext.com/sri-lanka-seeks-public-private-partnership-to-train-olympic-contenders-minister-166228/) · `en`
+
+ECONOMYNEXT – Sri Lanka is considering a public private partnership to develop the skills of school level athletes for the 2032 Brisbane Olympics, cabinet spokesman minister Bandula Gunawardena said.
+
+“The Ministry of Education and the Ministry of Sports and Youth Affairs have planned to implement a joint program with the support of the private sector and civil society to make Sri Lanka a medal winning country in the 2032 Brisbane Olympics,” Gunawardena told reporters on Tuesday.
+
+“We need to have technologically-developed private businesses and entrepreneurs investing in this,” Gunawardena said.
+
+Sri Lanka’s cabinet of ministers approved the proposal to seek a public-private partnership this week.
+
+It is also expected to provide opportunities for talented athletes to participate in the 2028 Olympics in Los Angeles. (Colombo/Jun4/2024)
+
+◼️
+
+[Data](articles/6ac36f22.json)
+
+---
+
 ### Iranamadu irrigation should be established - Kilinochchi District Response Government Agent S. Muralitharan!
 
 *2024-06-04 17:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/185309) · `ta`
@@ -936,6 +1088,20 @@ The Sabaragamuwa Provincial Education Secretary further stated that the decision
 
 ---
 
+### வெள்ளத்தால் பாதிக்கப்படும் மல்வானை பிரதேசத்துக்கு படகு வசதிகளை பெற்றுக்கொடுக்க உடனடியாக நடவடிக்கை எடுக்க வேண்டும் -   ஹர்ஷண ராஜகருணா சபையில் கோரிக்கை
+
+*2024-06-04 17:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/185316) · `ta`
+
+கம்பஹா மாவட்டத்தில் மல்வானை பிரதேசம் அடிக்கடி வெள்ள அனர்த்தத்தில் பாதிக்கப்படும் பிரதேசமாகும். இந்த அனர்த்தங்களின்போது உடனடி நிவாரண நடவடிக்கைகளை முன்னெடுக்க அவர்களுக்கு தேவையான படகு வசதிகளை விரைவாக மேற்கொள்ள வேண்டும் என எதிர்க்கட்சி உறுப்பினர் ஹர்ஷண ராஜகருணா தெரிவித்தார்.
+
+கம்பஹா மாவட்டத்தில் 13 பிரதேச செயலக பிரிவுகளும் வெள்ளத்தால் பாதிக்கப்பட்டிருக்கின்றன. வெள்ள அனர்த்தத்தினால் பாதிக்கப்பட்டுள்ளவர்கள் முகாம்களில் இருந்தால்தான் அவர்களுக்கு நிவாரண  உதவிகளை வழங்க முடியும் சுற்று நிருபத்தில் தெரிவிக்கப்பட்டுள்ளதால், பாதிக்கப்பட்டுள்ளவர்களுக்கு நிவாரணங்களை வழங்க கிராம சேவகர்கள் பின்வாங்குகின்றனர். கம்பஹா மாவட்டத்தில் வெள்ள அனர்த்தம் என்பது எந்த காலத்திலும் ஏற்படக்கூடியது. அனர்த்தம் ஏற்படும்போது பாதிக்கப்பட்டவர்களுக்கு நிவாரணம் வழங்க அரச அதிகாரிகள் கூடி ஆராய்கின்றனர். பின்னர் சுற்று நிருபத்தின் பிரகாரம் செயற்படும்போது பாதிக்கப்பட்டுள்ளவர்களுக்கு நிவாரணம் கிடைப்பதில்லை.
+
+...
+
+[Data](articles/72733e8a.json)
+
+---
+
 ### The Surgeons Petroleum Against Economic Translation Act
 
 *2024-06-04 17:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197389) · `si`
@@ -1011,6 +1177,28 @@ India's Dia Chris Kumar finished 2nd with 148 moves. Anandi Vivek from the same 
 [Data](articles/e0a4f68b.json)
 
 [Extended Data](ext_articles/e0a4f68b.ext.json)
+
+---
+
+### Sri Lanka rupee closes weaker at 302.10/20 to US dollar
+
+*2024-06-04 17:20:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-weaker-at-302-10-20-to-us-dollar-166222/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed weaker at 302.10/20 to the US dollar on Tuesday, from 301.90/302.00 to the dollar the previous day, dealers said. Bond yields were broadly steady.
+
+A bond maturing on 15.12.2026 closed at 9.70/85 percent up from 9.70/80 percent.
+
+A bond maturing on 15.09.2027 closed at 10.35/45 percent up from 10.30/45 percent.
+
+A bond maturing on 01.07.2028 closed stable at 10.80/90 percent.
+
+A bond maturing on 15.05.2030 closed at 11.60/75 percent up from 11.60/70 percent.
+
+A bond maturing on 01.10.2032 closed at 11.80/90 percent down from 11.80/95 percent.
+
+◼️
+
+[Data](articles/85ee80cd.json)
 
 ---
 
@@ -1302,6 +1490,28 @@ He has been known from the close circles that the announcement is mostly to be m
 
 ---
 
+### Sri Lanka stocks close up, conglomerates pick up
+
+*2024-06-04 16:01:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-conglomerates-pick-up-166216/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Tuesday, data on its site showed.
+
+The broader All Share Index closed up 0.45 percent, or 53.96 points, at 12,104; while the S&P SL20 Index closed up 0.45 percent, or 15.96 points, at 3,569.
+
+Turnover was 899 million. Most of this came from the food, beverage and tobacco (Rs177mn) and capital goods (Rs175mn) stocks.
+
+Dipped Products Plc saw the most active volumes (Rs67mn) traded in the day. The share closed up at 34.90.
+
+Amana Bank Plc said trading of its shares will be suspended from July 8 to 12 during a share consolidation. The Bank announced in April its decision to consolidate its shares in the proportion of consolidating 10 existing ordinary shares to 1 ordinary share subject to shareholder and regulatory approval.
+
+Conglomerates Melstacorp Plc (up at 87.50), Aitken Spence Plc (up at 131.25), LOLC Holdings Plc (up at 456.50) contributed the most the index in the day.
+
+...
+
+[Data](articles/37a89807.json)
+
+---
+
 ### Floods alert from Health Sector
 
 *2024-06-04 15:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197385) · `si`
@@ -1488,6 +1698,28 @@ Accordingly, all liquor stores in Central Nuwarakam, East Nuwarakam and Mihintal
 
 ---
 
+### Pakistan Air Sial flights to Sri Lanka likely to lower ticket prices: Envoy
+
+*2024-06-04 15:00:00* · [`economynextcom`](https://economynext.com/pakistan-air-sial-flights-to-sri-lanka-likely-to-lower-ticket-prices-envoy-166193/) · `en`
+
+ECONOMYNEXT – Direct flight by Pakistan’s private airline operator Air Sial between Colombo and Islamabad is likely to reduce the air ticket cost, Sri Lankan High Commissioner for Pakistan Admiral Ravindra Wijegunaratne said.
+
+No direct flight is operating between Colombo and Islamabad now.
+
+Sri Lankans travel to Pakistan’s capital via Dubai or Doha Qatar, with transit flights at a higher cost and long duration. The alternative with land route from Lahore or Karachi also takes much time.
+
+“This connectivity has to increase. We are unable to do it with Sri Lankan Airlines,” Wijegunaratne told EconomyNext from Islamabad.
+
+“So we need to get private airlines. This is a very profitable route. SriLankan (Airline) does not have aircraft and the tickets are expensive because of monopoly,” he said.
+
+“A direct flight from Colombo to Islamabad will be only 3.5 hours. The Pakistan government has realized this and now Air Sial is given approval and it is already operating mostly for Buddhist countries.”
+
+...
+
+[Data](articles/552a8727.json)
+
+---
+
 ### Death toll from adverse weather rises to 26 in Sri Lanka
 
 *2024-06-04 15:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/99657/death-toll-from-adverse-weather-rises-to-26-in-sri-lanka) · `en`
@@ -1593,6 +1825,28 @@ In this case, as of 12:30 pm today (June 4), former Chief Minister O. Pannirselv
 [Data](articles/d9af24c4.json)
 
 [Extended Data](ext_articles/d9af24c4.ext.json)
+
+---
+
+### Sri Lanka relaxes food imports controls that were kept as poor skipped meals
+
+*2024-06-04 14:36:00* · [`economynextcom`](https://economynext.com/sri-lanka-relaxes-food-imports-controls-that-were-kept-as-poor-skipped-meals-166183/) · `en`
+
+ECONOMYNEXT  – Sri Lanka’s cabinet has relaxed nationalist import controls on some pulses which were maintained to keep food prices above the rest of the world, even as people skipped meals after a currency collapse.
+
+Sri Lanka had removed import licenses on 53 HS codes out of 126, related to grains.
+
+A committee chaired by the Presidential Secretary, which includes the central bank governor, the Treasury Secretary and senior economic advisor to the President had recommended the removal of import licensing requirements for several pulses.
+
+The import licensing requirements for ulundu, mung beans (green bean), cowpea, kurakkan, peanuts and soyabean flour, cabinet spokesman Bandula Gunawardana said.
+
+Due to the import licenses, there was a thriving black market and smuggling in the grains, Gunawardana said.
+
+The removal of the import restrictions were aimed at eliminating black markets and illegal activities, he said.
+
+...
+
+[Data](articles/13ac6e64.json)
 
 ---
 
@@ -1767,6 +2021,26 @@ Meanwhile, Litro has announced that the price of Litro cooking gas will be reduc
 [Data](articles/69acf6e3.json)
 
 [Extended Data](ext_articles/69acf6e3.ext.json)
+
+---
+
+### Sri Lanka considering price controls for cement: Minister
+
+*2024-06-04 13:57:00* · [`economynextcom`](https://economynext.com/sri-lanka-considering-price-controls-for-cement-minister-166157/) · `en`
+
+ECONOMYNEXT – Sri Lanka is considering price controls on cement Trade Minister Nalin Fernando said, while government imposed imposed protectionist taxes keep the prices of most building materials including steel and tiles artificially high.
+
+“We will announce a maximum retail price once the companies discuss this,” Fernando told reporters on Tuesday.
+
+Sri Lanka has in the past imposed price controls on cement when global clinker and energy prices went up creating shortages and disrupting construction activity, while keeping high import taxes on steel and tiles to give profits to domestic producers.
+
+This was after cement companies announced they would be reducing prices by 150 rupees to 2,250 rupees for a 50 kilo bag.
+
+“I don’t accept this reducing the price by 150, I want the maximum retail price to be 2,000-2,500,” Fernando said.
+
+...
+
+[Data](articles/e6869edf.json)
 
 ---
 
@@ -1963,341 +2237,5 @@ The State Minister made this statement in response to a question raised by a que
 [Data](articles/dace40ea.json)
 
 [Extended Data](ext_articles/dace40ea.ext.json)
-
----
-
-### Environmental organizations, certain politicians preventing permanent solutions to floods
-
-*2024-06-04 12:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Environmental-organizations-certain-politicians-preventing-permanent-solutions-to-floods/108-284068) · `en`
-
-Whilst highlighting that the government had come up with permanent solutions to prevent floods, State Minister Pramitha Bandara Tennekoon told Parliament that it has become impossible to implement them because of environmental organizations and certain politicians.
-
-The State Minister came out with this remark in response to requests by both ruling party and opposition MPs for a permanent solution to the floods which hit the South, Kalutara and the Gampaha district.
-
-He also said that 26 persons have died due to the inclement weather conditions while 130,021 persons from 33,422 families have been affected as of today.
-
-◼️
-
-[Data](articles/20ed85db.json)
-
-[Extended Data](ext_articles/20ed85db.ext.json)
-
----
-
-### Status candidates in Tamil Nadu
-
-*2024-06-04 12:24:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழகத்தில்-நட்சத்திர-வேட்பாளர்களின்-நிலை/175-338418) · `ta`
-
-In the 2024 Lok Sabha elections, initial results show DMK leading in several constituencies: Ganapathi Rajkumar with 5,127 votes, Thamizhachi Thangapandian with 18,569 votes, Dayanidhi Maran with 40,037 votes, Kanimozhi with 1,05,856 votes, and Vijayaprabhakaran with 73,622 votes. BJP's Tamil Nadu leader K. Annamalai trails behind by 3,335 votes, and Tamil Nadu Soundararajan is second by 7,103 votes. Independent candidate Padmarajan, dubbed 'Election King,' has garnered only 141 votes so far.
-
-🟩
-
-The number of votes cast in the 2024 Lok Sabha elections is being held today (04.06.2024) at 8 am. At first the postal votes were counted, and then at 8.30 am, the process of counting IVM votes began.
-
-Tamil Nadu BJP leader K.. Annamalai has suffered a setback by 3,335 votes. There, DMK candidate Ganapathi Rajkumar has 5127 votes.
-
-BJP candidate in South Senna's constituency, Tamil Nadu Soundararajan is second by 7,103 votes. There, the DMK candidate Thamizhachi Thangapandian is in the forefront of 18,569 votes.
-
-Central Chennai DMK candidate Dayanidhi Maran is in the forefront of 40,037 votes.
-
-Soumya Anbumani, the BJP candidate contesting the BJP coalition in the Dharmapuri constituency, is in the forefront with 1,00,174 votes.
-
-The DMK candidate Kanimozhi is in the Tuticorin constituency with 1,05,856 votes.
-
-Vijayaprabhakaran, who is contesting in the AIADMK alliance in Virudhunagar constituency, is in the forefront of 73,622 votes.
-
-...
-
-[Data](articles/be53accd.json)
-
-[Extended Data](ext_articles/be53accd.ext.json)
-
----
-
-### Education Directors authorized to decide on school closures due to bad weather
-
-*2024-06-04 12:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/99652/education-directors-authorized-to-decide-on-school-closures-due-to-bad-weather) · `en`
-
-Due to the prevailing adverse weather conditions, it has been decided to close schools in several districts of the island today (04).
-
-The Ministry of Education stated that all schools in the Galle and Matara districts of the Southern Province will be given a two-day holiday today (4) and tomorrow (05).
-
-All schools in Kalutara, Ratnapura and Kegalle districts have been given a holiday today (4).
-
-In addition, it is reported that school holiday has also been given to schools in Homagama, Gampaha and Kelaniya education zones and schools in Kaduwela division today (4).
-
-Taking into account the prevailing weather conditions, the Ministry of Education (MoE) has informed that the authority to make decisions based on the existing situation lies with the Provincial Education Secretaries and Provincial Education Directors.
-
-◼️
-
-[Data](articles/23c38288.json)
-
-[Extended Data](ext_articles/23c38288.ext.json)
-
----
-
-### Arrests such
-
-*2024-06-04 12:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197377) · `si`
-
-A woman accused of threatening several businessmen was arrested by the Ampara Police's Criminal Investigation Unit. Her mother, also a police officer, was later arrested on charges related to her position and uniform. Both were released on bail pending further investigation into the incident.
-
-🟩
-
-A woman who gave a borm of the businessmen to several businessmen was arrested by the Criminal Investigation Unit of the Ampara Police, the mother of the police in the Ampara Police.
-
-The mother of the suspect has been arrested and produced before the Ampara Magistrate's Court on allegations of criminalized mother and the uniforms of women's police.
-
-Later, he was released on two bail of Rs.
-
-However, the incident was fled by the place and investigations into the matter.
-
-◼️
-
-[Data](articles/d13c6e69.json)
-
-[Extended Data](ext_articles/d13c6e69.ext.json)
-
----
-
-### Public warned over spread of diseases in flood-affected areas
-
-*2024-06-04 12:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/99651/public-warned-over-spread-of-diseases-in-flood-affected-areas) · `en`
-
-The general public has been cautioned over the increased spread of infectious diseases across the island due to prevailing inclement weather conditions.
-
-Consultant Paediatrician Dr. Deepal Perera warns that there is a greater risk of diseases such as diarrhea, dysentery, Typhoid fever and influenza spreading during such periods.
-
-Speaking further in this regard, Dr. Perera emphasized that diarrhea, dysentery, influenza and Typhoid fever have a greater chance of spreading mainly due to contaminated water and food.
-
-“Most likely this is a viral flu. The symptoms here are fever along with vomiting, indigestion, stomach ache. Secondly, if there is blood stool in addition to diarrhea, this can be dysentery. In addition, influenza is still spreading these days. Therefore, if a cough, cold, or flu spreads quickly in a family, it can also be influenza,” he warned.
-
-He also states that children who have asthma should receive respective treatments properly and as immediately as possible.
-
-...
-
-[Data](articles/135075d7.json)
-
-[Extended Data](ext_articles/135075d7.ext.json)
-
----
-
-### A person who brushes a child inhumane child is looking for police
-
-*2024-06-04 12:08:44* · [`adalk`](https://www.ada.lk/breaking_news/කුඩා-දරුවෙකුට-අමානුෂිකව-පහරදෙන-පුද්ගලයෙකු-පොලීසියෙන්-සොයයි/11-410002) · `si`
-
-An investigation has started into a 2018 video showing abuse against a child in Sri Lanka's Vidaviya Sampath Kandy police division. The incident was recorded by a neighbor and shared on social media. Following a raid on the suspect's home in the Welioya Sampath area, which was then abandoned, authorities are searching for the suspect, known for past incidents unreported to the police. Neighbors had previously warned the police about the suspect's behavior, leading to a wider search for him.
-
-🟩
-
-The police have commenced an investigation into a 4-year-old video of a small child who was residing in the Vidaviya Sampath Kandy police division of the Padaviya.
-
-A video of the resident of Sampathnuwara area has been videoed by a neighbor to the Social Media.
-
-The suspect's house, including the Welioya Sampath Sampath Sampantu, has been raided and has fled the area but the suspect has already fled the area.
-
-Neighbors have also told the police that the suspect was famous in the area, the suspect was famous in the area, and in several previous occasions, the neighbors had told the police that he had not told the police.
-
-Sampath Campaign added that the suspect has begun a broader searched in search of the fugitive search and inform the police or immediate police officer.
-
-◼️
-
-[Data](articles/fef701db.json)
-
-[Extended Data](ext_articles/fef701db.ext.json)
-
----
-
-### Web to the suspect who assaulted the child
-
-*2024-06-04 12:05:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குழந்தையை-தாக்கிய-சந்தேகநபருக்கு-வலை/175-338415) · `ta`
-
-Police investigate assault on 4-year-old boy; suspect Kukul Saminda flees after brutal attack caught on video.
-
-🟩
-
-Police have launched an investigation into the spread of a 4 -year -old child who was eating at home.
-
-The suspect, who was identified as Kukul Saminda (Bibil Saminda), belongs to the post of Sambadanura.
-
-The neighbor recorded a video of a brutal attack on a child who was eating at his home, which was posted on social media.
-
-Although the suspect had been assaulted several times before, no one was afraid of him, reports say.
-
-Meanwhile, a team of officers, including the Superintendent of Police, searched the house.. The suspect has fled the house and the police are searching for him to find him.
-
-◼️
-
-[Data](articles/c7862d3b.json)
-
-[Extended Data](ext_articles/c7862d3b.ext.json)
-
----
-
-### Sri Lanka to halt illegal landfills, relocate hospitals in flood-prone areas: President
-
-*2024-06-04 12:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-halt-illegal-landfills-relocate-hospitals-in-flood-prone-areas-president-166135/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s President Ranil Wickremesinghe has instructed officials to halt illegal landfills in flood-prone areas and to relocate the Mulleriyawa and IDH hospitals to alternative locations.
-
-“Officials have been directed to be vigilant about illegal landfills and any new construction in the Kelani River valley that could contribute to increased flooding risks,” Wickremesinghe said on X platform (twitter).
-
-“I ordered the relocation of the Mulleriyawa and IDH hospitals to alternative locations.”
-
-Wickremesinghe visited Kolonnawa, Kelaniya, and Ambatale to assess the welfare of those affected by the floods.
-
-He recommended swift relocation from flood-prone areas and the use of aqueducts to divert floodwaters.
-
-Funding will be allocated for relief efforts, cleaning operations, epidemic prevention measures (such as dengue, rat fever, and diarrhea), and the repair of damaged infrastructure including bridges, bays, and roads, the president said.
-
-...
-
-[Data](articles/84251e2e.json)
-
-[Extended Data](ext_articles/84251e2e.ext.json)
-
----
-
-### Yall. Municipal commissioner dismissed court contempt
-
-*2024-06-04 11:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/185276) · `ta`
-
-A case against the Jaffna Municipal Commissioner by attorney V. Manivannan was dismissed by the district court due to it being filed in the wrong court. The attorney argued for filing in the Small Court, which the judge accepted, leading to the dismissal of the contempt of court case.
-
-🟩
-
-Attorney -at -Law V. Manivannan against Jaffna Municipal Commissioner. Dismissed by the district court.
-
-Attorney V. Manivannan's case against the Jaffna Municipal Commissioner has been dismissed on the basis of contempt of court under the law of contempt of courts, judicial councils and institutions this year.
-
-In a contempt of court case, President's Attorney MA Sumanthiran, who appeared on behalf of the Municipal Commissioner on behalf of the Municipal Commissioner, had argued that the case should be filed in the Small Court.
-
-When the case was taken up for an order yesterday (03), District Judge C. Sadeesharan dismissed the case by accepting the lawyer's argument that the case was not filed in the court.
-
-◼️
-
-[Data](articles/dccf64c2.json)
-
-[Extended Data](ext_articles/dccf64c2.ext.json)
-
----
-
-### All 210 assets of terrorists and extremist organizations suspended
-
-*2024-06-04 11:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197376) · `si`
-
-The government has suspended 15 terrorist and extremist organizations and 210 individuals' assets as per UN regulation No. 01 of 2012. This includes disabling funds and assets linked to groups like the Tamil Rehabilitation Organization and individuals involved in terrorism financing.
-
-🟩
-
-The government has taken steps to suspend all 15 organizations related to terrorists and extremist measures and 210 persons.
-
-Defense Ministry Secretary Retired Major General Kamal Gunaratne has issued the gazette notification yesterday (03).
-
-Steps have been taken to disable 15 terrorists and 15 extremist organizations and all 210 funds have to be disabled accordingly.
-
-It is reported that the steps have been taken in accordance with the United Nations regulations No. 01 of 2012.
-
-All of 15 organizations including the Tamil Rehabilitation Organization, Tamil Rehabilitation Organization, or TRO organization, National Rehabilitation Organization (TRO), or JMI, or JMI of JMIFunds and assets are disabled.
-
-In addition, all 113 persons and assets have been disabled in addition to terrorism and providing money for terrorism.
-
-◼️
-
-[Data](articles/b0e2dbe1.json)
-
-[Extended Data](ext_articles/b0e2dbe1.ext.json)
-
----
-
-### Cooking gas price reduction from midnight today
-
-*2024-06-04 11:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/185272) · `ta`
-
-From midnight, Litro gas prices drop: 12.5kg cylinder now Rs. 3,790 (-150), 5kg Rs. 1,522 (-60), 2.3kg Rs. 712 (-28).
-
-🟩
-
-Litro cooking gas prices will be reduced from midnight on Tuesday (04).
-
-The price of a 12.5 kilogram gas cylinder will be reduced by 150 rupees. Accordingly, the new price of 12.5 kilograms of gas cylinder, which is sold at 3940 rupees, is 3,790 rupees.
-
-The price of 5 kilograms of cylinder will be reduced by 60 rupees and its new price is 1,522 rupees, Litro said.
-
-The price of 2.3 kilograms of cooking gas will be reduced by 28 rupees. Accordingly, its new price is 712 rupees.
-
-◼️
-
-[Data](articles/46ce32f6.json)
-
-[Extended Data](ext_articles/46ce32f6.ext.json)
-
----
-
-### Police search for suspect who assaulted a 4-year-old child
-
-*2024-06-04 11:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Police-search-for-suspect-who-assaulted-a-4-year-old-child/108-284064) · `en`
-
-June 4 (Daily Mirror) - A police investigation was launched over a video circulating on social media of a man brutally assaulting a 4-year-old child while he was eating at home.
-
-The suspect, identified as Kukul Chaminda alias Bibile Chaminda, is a resident of Sampathanuwara in Padaviya.
-
-A neighbour had recorded a video which was released on social media, of the particular suspect brutally assaulting the child while he was eating at his home.
-
-According to information the suspect had assaulted this child on several previous occasions as well, but nobody had informed the police in fear of him.
-
-Meanwhile, a group of officers, including the Sampathanuwara police station OIC, had raided the house. The suspect had fled the house, and police are conducting a search operation to locate him.
-
-◼️
-
-[Data](articles/4668fe68.json)
-
-[Extended Data](ext_articles/4668fe68.ext.json)
-
----
-
-### Youth electrocuted by illegal electric fence in Badulla
-
-*2024-06-04 11:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/99650/youth-electrocuted-by-illegal-electric-fence-in-badulla) · `en`
-
-A person has reportedly died by electrocution after coming into contact with an unauthorized electric fence erected in a field near the playground at Nuge Junction area in Badulla.
-
-Police stated that the relevant incident was reported last night (03) and that the deceased was identified to be a 23-year-old youth from the Hindagoda area in Hambawela.
-
-Police further reported that the cause of death was due to entanglement with an electricity wire that was illegally utilized to keep away wild animals from damaging crops.
-
-Further investigations related to the incident are carried out by Badulla Police.
-
-◼️
-
-[Data](articles/b9e3a025.json)
-
-[Extended Data](ext_articles/b9e3a025.ext.json)
-
----
-
-### West Indian women's cricket team to arrive
-
-*2024-06-04 11:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197375) · `si`
-
-The West Indies women's cricket team landed in Sri Lanka today for a tournament, including matches at the Galle and Hambantota International Cricket Stadiums. The squad consists of 15 players and 7 coaches, set to compete over several days.
-
-🟩
-
-The West Indies women's cricket team has arrived at the Katunayake Airport this morning for a tournament tour of Sri Lanka today (04).
-
-The group includes 15 athletes and seven coaches.
-
-They will attend three days of 15th and 21 and 21 days, which will be held at the Galle International Stadium.
-
-In addition, the West Indies women's cricket team will be held on 24th and 28th of the Hambantota International Cricket Stadium.
-
-The cricket team from Dubai to Emirates from Dubai to Emirates Airlines was reached at Katunayake Airport and a group of SLC officials were also present at the airport.
-
-◼️
-
-[Data](articles/3699a07f.json)
-
-[Extended Data](ext_articles/3699a07f.ext.json)
 
 ---

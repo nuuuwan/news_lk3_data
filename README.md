@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-04 14:34:21**
+As of **2024-06-04 14:53:45**
 
 ## Newspaper Stats
 
-*Scraped **28,343** Articles*
+*Scraped **28,344** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 2,415
 adaderanalk | 3,223
 tamilmirrorlk | 3,329
 virakesarilk | 4,358
-dailymirrorlk | 4,484
+dailymirrorlk | 4,485
 adaderanasinhalalk | 4,554
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,341 (100.0%) of 28,343 articles have been extended.
+28,343 (100.0%) of 28,344 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -54,6 +54,8 @@ Even behind bars, the former cricket star remains a powerful force in Pakistani 
 
 [Data](articles/4d7a88a6.json)
 
+[Extended Data](ext_articles/4d7a88a6.ext.json)
+
 ---
 
 ### US urges UN Security Council to support cease-fire plan in Gaza announced by President Biden
@@ -69,6 +71,24 @@ U.S. Ambassador Linda Thomas-Greenfield said the United States circulated a draf
 ...
 
 [Data](articles/ed833915.json)
+
+[Extended Data](ext_articles/ed833915.ext.json)
+
+---
+
+### SEC says 2024 a challenging year but hope remains for economic growth
+
+*2024-06-04 14:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SEC-says-2024-a-challenging-year-but-hope-remains-for-economic-growth/108-284028) · `en`
+
+The capital market regulator, the Securities and Exchange Commission (SEC), highlighted 2024 would be a challenging year in terms of economic recovery and path to growth but there is hope, as the economy is on the right track.
+
+“Positivity and a positive mindset are crucial factors to pull ourselves out of the crisis. The present crisis gives us a chance to come out of it with our right side up and that we must do. Now is the time to do the right things towards long-term stability,” said SEC Chairman Faizal Salieh in the entity’s annual report (2023) released yesterday.
+
+To foster a robust capital market ecosystem, in 2023, the SEC introduced a comprehensive Capital Market Reforms Agenda for the period 2023-2025, comprising of 12 key initiatives aimed at promoting growth, innovation and sustainability in the securities market.
+
+...
+
+[Data](articles/732bd9c7.json)
 
 ---
 
@@ -756,15 +776,17 @@ Additional Solicitor General Viveka Siriwardena, representing the Attorney Gener
 
 *2024-06-04 11:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/India-election-results-2024-Modis-BJP-may-fall-short-of-majority/155-284059) · `en`
 
+One of the BJP’s strongest hopes, K Annamalai, is trailing in Tamil Nadu's Coimbatore seat by more than 23,000 votes.
+
+The party had high hopes that the former police officer would help them gain in a state that has traditionally rejected it.
+
+PM Narendra Modi has a comfortable lead of over 98,000 votes in Uttar Pradesh's Varanasi seat, where he is the incumbent MP.
+
+Prominent regional Samajwadi Party and the Congress have fielded Ajay Rai as their joint candidate.
+
+Mr Modi won with a vote share of more than 63% here in 2019.
+
 Despite the lower-than-expected numbers for the BJP, the party is still confident of forming the next government — and under Prime Minister Narendra Modi, who has ruled for the past decade, and under whom the party fought this campaign.
-
-“Whatever the results eventually show, here are some facts: We will form the next government, and Narendra Modi will be sworn in as prime minister for a third time,” BJP spokesperson Jaiveer Shergill told India Today channel. “And the opposition will be in tears.”
-
-01.05 PM -The Congress party and its ally, the Samajwadi Party, are leading on half the seats in the northern state, which has the most Lok Sabha seats in the country.
-
-The SP is leading in 37 seats, with the BJP in second place, ahead in 32 seats. The Congress is the lead in 7 seats.
-
-In the 2014 election, the Modi-led BJP won 62 seats in UP, and 71 in the election before that in 2014.
 
 ...
 
@@ -2319,25 +2341,5 @@ Harin Fernando was appointed as the National Election organiser while Ravi Karun
 [Data](articles/3e899eed.json)
 
 [Extended Data](ext_articles/3e899eed.ext.json)
-
----
-
-### SLPP MP crosses over to SJB
-
-*2024-06-04 02:29:20* · [`dailyftlk`](https://www.ft.lk/news/SLPP-MP-crosses-over-to-SJB/56-762585) · `en`
-
-Sri Lanka Podujana Peramuna (SLPP) MP Dr. Thilak Rajapakshe extended his support to the Samagi Jana Balawegaya (SJB) yesterday.
-
-The MP representing the Padiyathalawa electorate officially joined the SJB during the party’s latest Sakwala program held at a school in Ampara. The event was also attended by SJB leader Sajith Premadasa.
-
-Veteran politician and former Sri Lanka Freedom Party (SLFP) Anuradhapura district MP Tissa Karaliyadda also officially joined the SJB recently.
-
-SJB leader and Opposition leader Sajith Premadasa appointed Karalliyadde as the co-organiser for the SJB’s Medawachchiya electorate.
-
-...
-
-[Data](articles/ecacebd9.json)
-
-[Extended Data](ext_articles/ecacebd9.ext.json)
 
 ---

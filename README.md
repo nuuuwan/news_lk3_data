@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-05 00:50:59**
+As of **2024-06-05 01:04:03**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,570
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,439 (100.0%) of 28,440 articles have been extended.
+28,440 (100.0%) of 28,440 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -863,6 +863,8 @@ Sri Lankans observe May 1 ‘the International Labour Day” as a holiday. Polit
 ...
 
 [Data](articles/ff023bbf.json)
+
+[Extended Data](ext_articles/ff023bbf.ext.json)
 
 ---
 

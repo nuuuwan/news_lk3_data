@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-04 11:18:42**
+As of **2024-06-04 11:34:21**
 
 ## Newspaper Stats
 
-*Scraped **28,287** Articles*
+*Scraped **28,302** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,150 @@ dbsjeyarajcom | 270
 bbccomsinhala | 277
 newsfirstlk | 363
 islandlk | 1,533
-economynextcom | 1,606
+economynextcom | 1,609
 dailyftlk | 1,669
-adalk | 2,411
-adaderanalk | 3,216
-tamilmirrorlk | 3,320
+adalk | 2,413
+adaderanalk | 3,217
+tamilmirrorlk | 3,324
 virakesarilk | 4,350
-dailymirrorlk | 4,471
-adaderanasinhalalk | 4,545
+dailymirrorlk | 4,475
+adaderanasinhalalk | 4,546
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,287 (100.0%) of 28,287 articles have been extended.
+28,297 (100.0%) of 28,302 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-04 (Tuesday)
+
+### ආචාර්ය හේමාලි කොතලාවලට ජාත්‍යන්තර තනතුරක්
+
+*2024-06-04 11:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197373) · `si`
+
+සත්ත්ව නිෂ්පාදන හා සෞඛ්‍ය දෙපාර්තමේන්තුවේ අධ්‍යක්ෂ ජනරාල් ආචාර්ය හේමාලි කොතලාවල මහත්මිය ලෝක සත්ව සෞඛ්‍ය සංවිධානයේ (World Organization for Animal Health)ආසියා පැසිෆික් කලාපීය කාර්යාංශයේ උප සභාපති ධුරයට පත් කර තිබේ.
+
+පසුගියදා ප්‍රංශයේ පැරිස් නුවර දී පැවැති ලෝක සත්ත්ව සෞඛ්‍ය සංවිධානයේ  වාර්ෂික මහා සමුළුවේ දී ශ්‍රී ලංකාව නියෝජනය කරමින් එම මහත්මිය සහභාගී වුවාය.
+
+කෘෂිකර්ම හා වැවිලි කර්මාන්ත අමාත්‍ය මහින්ද අමරවීර මහතා ප්‍රමුඛ නියෝජිත පිරිසක් මෙම සමුළුවට සහභාගි වූ අතර ශ්‍රී ලංකාවේ සත්ත්ව නිෂ්පාදන හා සෞඛ්‍ය ප්‍රවර්ධනය සම්බන්ධව ගෙන ඇති වැඩ පිළිවෙළ පිළිබඳව එම සමුළුවේ දී අමාත්‍යවරයා දේශනයක් ද ඉදිරිපත් කළේය.
+
+සත්ත්ව නිෂ්පාදන හා සෞඛ්‍ය දෙපාර්තමේන්තුව කෘෂිකර්ම හා වැවිලි කර්මාන්ත අමාත්‍යාංශය යටතේ ඇති දෙපාර්තමේන්තුවකි.
+
+ආචාර්ය හේමාලි කොතලාවල මහත්මිය පේරාදෙණිය විශ්වවිද්‍යාලයේ පශු වෛද්‍ය විද්‍යාව පිළිබඳ උපාධිධාරිනියකි.
+
+එමෙන්ම විද්‍යාපති උපාධිය ඉන්දියාවේ පශු වෛද්‍ය පර්යේෂණ ආයතනයෙන් ද, ආචාර්ය උපාධිය ජපානයේ ඔබිහිරෝ විශ්වවිද්‍යාලයෙන් ද ලබා ගෙන ඇත.
+
+◼️
+
+[Data](articles/99cd933c.json)
+
+---
+
+### SC rules several clauses of ‘Sri Lanka Electricity Bill’ inconsistent with constitution
+
+*2024-06-04 11:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/99649/sc-rules-several-clauses-of-sri-lanka-electricity-bill-inconsistent-with-constitution) · `en`
+
+The Supreme Court has informed that several clauses of the proposed ‘Sri Lanka Electricity Bill’ are inconsistent with the Constitution of Sri Lanka.
+
+The Supreme Court determination states that these clauses shall only be passed by a special majority of Parliament, and that one clause requires approval through a referendum, the Speaker informed the House.
+
+However, the country’s apex court has stated that these clauses could be passed with a simple majority if amended as specified in the Supreme Court’s determination.
+
+◼️
+
+[Data](articles/e198df58.json)
+
+[Extended Data](ext_articles/e198df58.ext.json)
+
+---
+
+### Sri Lanka faces barriers in reclaiming priceless artifacts from Britain
+
+*2024-06-04 11:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-faces-barriers-in-reclaiming-priceless-artifacts-from-britain-166040/) · `en`
+
+ECONOMYNEXT – Sri Lanka is facing legal barriers in its efforts to reclaim priceless artifacts from Britain, as many of these items are held by private individuals rather than the state, Buddhasasana, Religious and Cultural Affairs Minister Vidura Wickremenayake said.
+
+Sri Lanka has been actively requesting the return of invaluable artifacts taken during colonial rule prior to the country’s independence in 1948.
+
+Last year, the Netherlands returned six Kandyan artifacts, including gold and silver ceremonial swords, two wall guns, and Lewke Disave’s cannon, after a formal request.
+
+“We have made similar requests to the British government. However, the challenge is that many of these artifacts are in the possession of individuals, not the state,” Wickremenayake told EconomyNext.
+
+“We cannot ask private British citizens to return these items in the same way we request from the British government. We have a substantial list of artifacts taken during the British period.”
+
+...
+
+[Data](articles/34f7f2a3.json)
+
+[Extended Data](ext_articles/34f7f2a3.ext.json)
+
+---
+
+### ලිට්‍රෝ ගෑස් මිල බස්සයි
+
+*2024-06-04 10:57:07* · [`adalk`](https://www.ada.lk/breaking_news/ලිට්‍රෝ-ගෑස්-මිල-බස්සයි/11-410000) · `si`
+
+අද (04) මධ්‍යම රාත්‍රියේ සිට ගෑස් මිල ගණන්  අඩු කිරීමට පියවර ගත් බව ලිට්‍රෝ ගෑස් සමාගමේ සභාපති මුදිත පීරිස් මහතා අද  පෙරවරුවේ පැවසීය.
+
+ඒ අනුව කිලෝග්‍රෑම් 12.5ක ගෑස් සිලින්ඩරයක් රුපියල් 150කින් අඩු කර ඇති අතර එහි නව මිල රුපියල් 3,790කි.
+
+කිලෝග්‍රෑම් 5ක ගෑස් සිලින්ඩරයක මිල රුපියල් 60කින් අඩු කර ඇති අතර එහි නව මිල රුපියල් 1,525කි.
+
+කිලෝග්‍රෑම් 2.3ක ගෑස් සිලින්ඩරයක් මිල රුපියල් 28කින් අඩු කර ඇති අතර එහි නව මිල රුපියල් 712කි.
+
+◼️
+
+[Data](articles/91ca8da0.json)
+
+---
+
+### India election results 2024: BJP-led alliance ahead as Modi eyes win
+
+*2024-06-04 10:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/India-election-results-2024-BJP-led-alliance-ahead-as-Modi-eyes-win/108-284059) · `en`
+
+India, June 4 ( Al Jazeera) - Prime Minister Narendra Modi’s Bharatiya Janata Party (BJP)-led alliance is leading as India counts votes after a mammoth seven-phase election – the world’s largest democratic exercise – that began on April 19 and ended on Saturday.
+
+A party or coalition needs 272 seats to cross the majority mark in the 543-member Lok Sabha, the lower house of India’s parliament.
+
+Exit polls show Modi is well on track to return to power for a third consecutive term, while the Indian National Congress party-led opposition bloc hopes to upstage him.
+
+The Election Commission says a record-breaking 642 million voters cast their ballots in the staggered election as it dismissed opposition concerns over how the votes would be counted.
+
+However, the voter turnout this year was 66.3 percent, about one percentage point lower than 2019.
+
+◼️
+
+[Data](articles/ea37a9f7.json)
+
+[Extended Data](ext_articles/ea37a9f7.ext.json)
+
+---
+
+### Sri Lanka explores including pharmaceuticals, machinery in Pakistan FTA: Envoy
+
+*2024-06-04 10:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-explores-including-pharmaceuticals-machinery-in-pakistan-fta-envoy-166037/) · `en`
+
+ECONOMYNEXT – Sri Lanka is exploring the inclusion of pharmaceuticals and machinery in the Free Trade Agreement (FTA) with Pakistan, Sri Lankan High Commissioner to Pakistan, Admiral Ravindra Wijegunaratne said.
+
+Experts view the move as a potential step for Sri Lanka to reduce the prices of the both goods.
+
+Both South Asian nations began implementing the FTA in 2005, allowing each side to export up to $1 billion worth of goods to the other.
+
+“The trade volume should be increased,” Wijegunaratne told EconomyNext from Islamabad.
+
+“During the last 20 years, Pakistan has improved tremendously, specially in the pharmaceutical and machinery sectors. We have to include these through negotiations,” he said when asked if Sri Lanka considers expanding the FTA list with Pakistan.
+
+The aims of the FTA were to strengthen economic relations between the two nations, increase trade in goods and services, and reduce or eliminate tariffs on a wide range of products.
+
+...
+
+[Data](articles/1d917cf5.json)
+
+[Extended Data](ext_articles/1d917cf5.ext.json)
+
+---
 
 ### India begins counting votes in marathon election expected to bring Prime Minister Modi a third term
 
@@ -96,6 +222,44 @@ State Minister of Provincial Councils and Local Government of Sri Lanka, Janaka 
 
 ---
 
+### Electricity Amendment Bill inconsistant with the Constitution
+
+*2024-06-04 10:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Electricity-Amendment-Bill-inconsistant-with-the-Constitution/108-284057) · `en`
+
+Parliament, June 4 (Daily Mirror) - The Supreme Court has determined that the Electricity Amendment Bill is inconsistant with the Constitution as a whole and can be passed by a special mejority in Parliament, Speaker Mahinda Yapa Abeywardena announced today.
+
+He said  the Supreme Court has also determined that inconsistancy could be done away with if the Bill is amended as per the proposals made by the summary of its determination.
+
+◼️
+
+[Data](articles/86c295bb.json)
+
+[Extended Data](ext_articles/86c295bb.ext.json)
+
+---
+
+### LP gas prices to be reduce by Rs.150 from tonight
+
+*2024-06-04 10:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/LP-gas-prices-to-be-reduce-by-Rs-150-from-tonight/108-284056) · `en`
+
+Colombo, June 4 (Daily Mirror) - It has been decided to reduce the retail price of a 12.5 kg cylinder of Litro domestic LP gas by Rs. 150 with effect from midnight today, Litro Gas Chairman Muditha Peiris said today.
+
+He said the decision was taken according to the monthly effective price formula.
+
+After the price reduction the new retail price of a 12.5 kg cylinder of Litro domestic LP gas will be Rs. 3,790.
+
+Accordingly, the price of a 5kg cylinder of gas has been reduced by Rs. 60, and its new price will be Rs. 1,525.
+
+The retail price of a 2.3 kg cylinder of gas will be reduced by Rs. 28, and its new price will be Rs. 712.
+
+◼️
+
+[Data](articles/2265823f.json)
+
+[Extended Data](ext_articles/2265823f.ext.json)
+
+---
+
 ### Price of Litro LP gas reduced
 
 *2024-06-04 10:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/99646/price-of-litro-lp-gas-reduced) · `en`
@@ -129,6 +293,28 @@ The Supreme Court verdict was presented to parliament today (04) at the Petition
 [Data](articles/9a39a132.json)
 
 [Extended Data](ext_articles/9a39a132.ext.json)
+
+---
+
+### T20 World Cup:  Afghanistan beat Uganda by 125 runs
+
+*2024-06-04 10:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/T20-World-Cup-Afghanistan-beat-Uganda-by-125-runs/108-284055) · `en`
+
+Afghanistan recorded the fourth largest win in T20 World Cup history after beating Uganda by 125 runs at Providence on Monday. In the Group C fixture, T20 World Cup debutants Uganda were bundled out for 58 runs in reply to Afghanistan’s 183/5.
+
+The three biggest wins in T20 World Cup history have come courtesy Sri Lanka (beat Kenya by 172 runs), South Africa and Afghanistan (beat Scotland by 130 runs).
+
+In a one-sided contest in the Caribbean, only two of Uganda’s batters reached double digits - Robinson Obuya (14) and Riazat Ali Shah (11) - with extras the third highest scorer.
+
+Fazalhaq Farooqi registered figures of 5/9 from his four overs and found support from Naveen-ul-Haq (2/4) and Rashid Khan (2/12).
+
+Uganda never really got going in the chase, losing five wickets in the powerplay overs. Rashid got into the act to help in wiping out the tail but the evening belonged to Farooqi for his maiden fifer in T20Is.
+
+...
+
+[Data](articles/61d3311f.json)
+
+[Extended Data](ext_articles/61d3311f.ext.json)
 
 ---
 
@@ -171,6 +357,28 @@ He mentioned that they will discuss with the trade union representatives regardi
 [Data](articles/e195dde2.json)
 
 [Extended Data](ext_articles/e195dde2.ext.json)
+
+---
+
+### Sri Lanka rupee opens at 301.95/302.05 to US dollar
+
+*2024-06-04 09:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-at-301-95-302-05-to-us-dollar-166120/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened flat at 301.95/302.05 to the US dollar on Tuesday, from 301.90/302.00 the previous day, dealers said. Bond yields were broadly steady.
+
+A bond maturing on 15.12.2026 was quoted stable at 9.70/80 percent.
+
+A bond maturing on 15.09.2027 was quoted at 10.35/45 percent from 10.30/45 percent.
+
+A bond maturing on 01.07.2028 was quoted at 10.80/85 percent from 10.80/90 percent.
+
+The Colombo Stock Exchange opened down. The All Share Price Index was down 0.05 percent at 12,043, the S&P SL20 was down 0.19 percent at 3,547. (Colombo/June4/2024)
+
+◼️
+
+[Data](articles/6dbd1884.json)
+
+[Extended Data](ext_articles/6dbd1884.ext.json)
 
 ---
 
@@ -222,6 +430,24 @@ The Ministry of Education has announced to the Zonal Education Officers to hold 
 
 ---
 
+### பாடசாலை விடுமுறை: மீண்டும் விஷேட அறிவிப்பு
+
+*2024-06-04 09:37:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாடசாலை-விடுமுறை-மீண்டும்-விஷேட-அறிவிப்பு/175-338406) · `ta`
+
+நாட்டில் நிலவும் மழையுடனான சீரற்ற வானிலையை அடுத்து, இன்று பல பாடசாலைகளுக்கு விடுமுறை வழங்கப்பட்டுள்ளது.
+
+தென் பகுதியில் நிலவும் அதிக மழையுடனான வானிலையை அடுத்து, காலி மற்றும் மாத்தறை ஆகிய மாவட்டங்களிலுள்ள அனைத்து  பாடசாலைகளுக்கு நாளையும் (05) விடுமுறை வழங்கப்பட்டுள்ளது.
+
+வானிலை நிலைமையை கருத்தில் கொண்டு, எதிர்வரும் நாட்களில் பாடசாலைகளை நடத்துவது தொடர்பான தீர்மானத்தை எடுக்கும் பொறுப்பு, வலய கல்வி அதிகாரிகளுக்கு வழங்கப்பட்டுள்ளது.
+
+மாகாண கல்வி அதிகாரிகளுடன் கலந்துரையாடல்களை நடாத்தி, தீர்மானத்தை எடுக்குமாறு வலய கல்வி அதிகாரிகளுக்கு கல்வி அமைச்சு அறிவித்துள்ளது. R
+
+◼️
+
+[Data](articles/fd73f570.json)
+
+---
+
 ### Parliamentary Council begins
 
 *2024-06-04 09:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197368) · `si`
@@ -267,6 +493,22 @@ According to the Disaster Management Center, 84,749 people from 21,353 families 
 [Data](articles/93b1d8c5.json)
 
 [Extended Data](ext_articles/93b1d8c5.ext.json)
+
+---
+
+### சீரற்ற வானிலை:  பலியானோர் எண்ணிக்கை   உயர்வு
+
+*2024-06-04 09:28:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சீரற்ற-வானிலை-பலியானோர்-எண்ணிக்கை-உயர்வு/175-338405) · `ta`
+
+கடந்த முதலாம் திகதி தொடக்கம் நேற்று (03) பிற்பகல் வரையான காலப்பகுதியில் நாட்டில் நிலவிய சீரற்ற காலநிலை காரணமாக ஏற்பட்ட பல்வேறு அனர்த்தங்களில் 17 பேர் உயிரிழந்துள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
+
+மாத்தறை மாவட்டத்தில் 06 பேரும், இரத்தினபுரி மாவட்டத்தில் 05 பேரும், கொழும்பு மாவட்டத்தில் 03 பேரும், காலி மாவட்டத்தில் 02 பேரும், கம்பஹா மாவட்டத்தில் ஒரு மரணமும் பதிவாகியுள்ளதாக அனர்த்த முகாமைத்துவ நிலையம் தெரிவித்துள்ளது.
+
+நேற்றைய நிலவரப்படி 08 மாவட்டங்களில் 21,353 குடும்பங்களைச் சேர்ந்த 84,749 பேர் மோசமான காலநிலையால் பாதிக்கப்பட்டுள்ளதாக அனர்த்த முகாமைத்துவ நிலையம் கூறியுள்ளது.
+
+◼️
+
+[Data](articles/c26e3015.json)
 
 ---
 
@@ -883,6 +1125,22 @@ At the meeting held at Chavakachcheri and Kondavil, the representatives of these
 [Data](articles/ef1302c5.json)
 
 [Extended Data](ext_articles/ef1302c5.ext.json)
+
+---
+
+### 1,700 ரூபாய் சம்பள விடயம்: தீர்ப்புக்கு நன்றி சொன்னார் செந்தில்
+
+*2024-06-04 03:35:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/1-700-ரூபாய்-சம்பள-விடயம்-தீர்ப்புக்கு-நன்றி-சொன்னார்-செந்தில்/175-338396) · `ta`
+
+தோட்ட தொழிலாளர்களின் 1,700 ரூபாய் சம்பள விடயத்தில் நீதித்துறை வழங்கிய தீர்ப்புக்கு, இலங்கை தொழிலாளர் காங்கிரஸின் தலைவர் செந்தில் தொண்டமான் நன்றி தெரிவித்துள்ளார்.
+
+தோட்ட தொழிலாளர்களின் சம்பள விடயத்தில் இ.தொ.காவின்,மறைந்த தலைவர்களான சௌமியமூர்த்தி தொண்டமான், ஆறுமுகன் தொண்டமான் காலம் முதல் இன்றுவரை தொடர்ந்தும் போராட்டங்கள் ஊடாகவே சம்பள உயர்வை பெற்றுக் கொடுத்துள்ளது.
+
+தோட்ட தொழிலாளர்களின் சம்பள விடயத்தில் இ.தொ.கா மீது முன்வைக்கப்பட்ட விமர்சனங்கள், குற்றச்சாட்டுக்களை  இ.தொ.கா  தவிடுபொடியாக்கியுள்ளது. நீதி துறையின் இச்செயற்பாடானது மக்கள் மத்தியில் பெரும் நம்பிக்கையை ஏற்படுத்தியுள்ளது என்றும் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/35ccd0f7.json)
 
 ---
 
@@ -1977,251 +2235,5 @@ Accordingly, South African team has 77 runs for winning the competition.
 [Data](articles/046e2512.json)
 
 [Extended Data](ext_articles/046e2512.ext.json)
-
----
-
-### Is the future Palestinian government possible?
-
-*2024-06-03 21:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/185247) · `ta`
-
-The possibility of a future Palestinian government hinges on resolving longstanding conflicts, including border disputes, the status of Jerusalem, and the right of return for refugees. Recent international support, exemplified by European countries recognizing the Palestinian state, underscores the global desire for a peaceful resolution. However, challenges such as Israel's expansion beyond UN-defined borders, the presence of Jewish settlements, and the political implications of evacuating settlers complicate the path to a two-state solution.
-
-🟩
-
-The Hamas Movement on Israel on October 7, 2023 and the war on Israel's continuing war on Gaza has brought back the Palestinian issue in West Asia.. The world sees more countries to give a firm support for a future Palestinian state, with the destruction of a large part of the war Gaza and killed more than 36 thousand of its people.
-
-Recently, three European countries, Spain, Norway and Ireland have recognized the Palestinian state. Arab countries, including Saudi Arabia and Jordan, say that if the Palestinian issue is not resolved, there will never be strict peace in the region. If the crisis is a solution with international recognition, it is a two -state solution.
-
-The brief answer to this question is easy. The two state solution is to divide the land between the historical Balasatinam, the Jordan River to the east and the Mediterranean Sea to the West of the Mediterranean.. But the long answer is complicated.
-
-...
-
-[Data](articles/5abbe2fc.json)
-
-[Extended Data](ext_articles/5abbe2fc.ext.json)
-
----
-
-### Suspension of parate action: An overview
-
-*2024-06-03 21:14:42* · [`dailyftlk`](https://www.ft.lk/columns/Suspension-of-parate-action-An-overview/4-762545) · `en`
-
-The suspension of the parate action which is currently in force will have serious implications to the banks apart from the liquidity crisis which will affect and restrict their ability to lend
-
-My previous article titled “Parate execution: The last option and ‘not’ the first option” was published in the “Daily FT” on 1 January 2024 (https://www.ft.lk/columns/Parate-execution-The-last-option-and-not-the-first-option/4-756888). Considerable interest was expressed by many especially the banking community on this article since I have shared my personal experience for the benefit of all stakeholders.
-
-...
-
-[Data](articles/4e709599.json)
-
-[Extended Data](ext_articles/4e709599.ext.json)
-
----
-
-### Inflation on what horizon?
-
-*2024-06-03 21:06:56* · [`dailyftlk`](https://www.ft.lk/columns/Inflation-on-what-horizon/4-762544) · `en`
-
-The Central Bank should be urged to unwind its large Treasury bill holdings, depreciate the currency aggressively, and cut the statutory reserve ratio to encourage risk-taking by banks
-
-Many of us were puzzled by the recent monetary policy announcement where the monetary board chose not to lower interest rates, despite inflation being below 5%. When a journalist questioned the Governor about this, asking if they expected inflation to exceed 5% in the latter half of the year, it was like asking if the emperor had any clothes on. The governor’s response was unclear, referencing a dynamic model before deferring to Dr. S. Jegajeevan, head of the Economic Research Department. Dr. Jegajeevan clarified that they do not foresee inflation approaching 5% later this year.
-
-...
-
-[Data](articles/28c64c56.json)
-
-[Extended Data](ext_articles/28c64c56.ext.json)
-
----
-
-### Inflation on what horizon?
-
-*2024-06-03 21:06:56* · [`dailyftlk`](https://www.ft.lk/opinion/Inflation-on-what-horizon/14-762544) · `en`
-
-The Central Bank should be urged to unwind its large Treasury bill holdings, depreciate the currency aggressively, and cut the statutory reserve ratio to encourage risk-taking by banks
-
-Many of us were puzzled by the recent monetary policy announcement where the monetary board chose not to lower interest rates, despite inflation being below 5%. When a journalist questioned the Governor about this, asking if they expected inflation to exceed 5% in the latter half of the year, it was like asking if the emperor had any clothes on. The governor’s response was unclear, referencing a dynamic model before deferring to Dr. S. Jegajeevan, head of the Economic Research Department. Dr. Jegajeevan clarified that they do not foresee inflation approaching 5% later this year.
-
-...
-
-[Data](articles/81c601b4.json)
-
-[Extended Data](ext_articles/81c601b4.ext.json)
-
----
-
-### Postponing elections: Are there limits to popular sovereignty?
-
-*2024-06-03 21:00:28* · [`dailyftlk`](https://www.ft.lk/columns/Postponing-elections-Are-there-limits-to-popular-sovereignty/4-762543) · `en`
-
-As long as a two-thirds majority in Parliament passes a constitutional amendment or a new constitution and a majority of the People approves the same, are there no limitations to what can be done?
-
-United National Party Secretary Range Bandara’s statement at a media briefing at UNP Headquarters that the terms of the current President and current Parliament should be extended by two years ‘to save the Nation’ has drawn the ire of the people at large, with even the UNP’s ally (for the moment?), the Sri Lanka Podujana Peramuna distancing itself from the proposal. The essence of the people’s response is that the present Parliament has lost its legitimacy, and President Wickremesinghe has been elected not by the People directly but by that very Parliament for the remainder of the term of President Gotabaya Rajapaksa, who was forced to resign.
-
-...
-
-[Data](articles/0a660bae.json)
-
-[Extended Data](ext_articles/0a660bae.ext.json)
-
----
-
-### Postponing elections: Are there limits to popular sovereignty?
-
-*2024-06-03 21:00:28* · [`dailyftlk`](https://www.ft.lk/opinion/Postponing-elections-Are-there-limits-to-popular-sovereignty/14-762543) · `en`
-
-As long as a two-thirds majority in Parliament passes a constitutional amendment or a new constitution and a majority of the People approves the same, are there no limitations to what can be done?
-
-United National Party Secretary Range Bandara’s statement at a media briefing at UNP Headquarters that the terms of the current President and current Parliament should be extended by two years ‘to save the Nation’ has drawn the ire of the people at large, with even the UNP’s ally (for the moment?), the Sri Lanka Podujana Peramuna distancing itself from the proposal. The essence of the people’s response is that the present Parliament has lost its legitimacy, and President Wickremesinghe has been elected not by the People directly but by that very Parliament for the remainder of the term of President Gotabaya Rajapaksa, who was forced to resign.
-
-...
-
-[Data](articles/1cdab102.json)
-
-[Extended Data](ext_articles/1cdab102.ext.json)
-
----
-
-### Sajith Premadasa’s leadership qualities: A critique
-
-*2024-06-03 20:55:57* · [`dailyftlk`](https://www.ft.lk/columns/Sajith-Premadasa-s-leadership-qualities-A-critique/4-762542) · `en`
-
-In the realm of politics, leadership is not just about holding a title; it’s about inspiring, unifying, and driving a collective vision forward. Sajith Premadasa, the leader of the Samagi Jana Balawegaya (SJB), has been a prominent figure in Sri Lankan politics. However, his leadership style raises significant concerns, particularly his consistent use of the pronoun “I.” This individual-centric approach starkly contrasts with the essential qualities of effective leadership, highlighting a critical shortfall in his ability to lead.
-
-...
-
-[Data](articles/1b2b0dcc.json)
-
-[Extended Data](ext_articles/1b2b0dcc.ext.json)
-
----
-
-### Disaster statusIncrease
-
-*2024-06-03 20:54:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அனர்த்த-நிலை-உயிரிழந்தவர்களின்-எண்ணிக்கை-அதிகரிப்பு/175-338376) · `ta`
-
-Due to severe weather, 16 deaths and displacement of 84,749 individuals from 21,353 families have been reported.
-
-🟩
-
-The number of casualties in the country has increased due to inclement weather.
-
-According to the Disaster Management Center, 16 people have died so far.
-
-In addition, 84,749 persons belonging to 21,353 families have been affected, the Disaster Management Center further states that. Remble
-
-◼️
-
-[Data](articles/6d93ba9f.json)
-
-[Extended Data](ext_articles/6d93ba9f.ext.json)
-
----
-
-### R-20 World Cup Competition
-
-*2024-06-03 20:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/185246) · `ta`
-
-The ICC announced a record-breaking $2.45 million prize for the 2024 Men's T20 World Cup winners, hosted in the U.S. and West Indies, doubling from the previous $5.6 million. This surpasses the 2022 Australia tournament's $1.6 million top prize, marking a significant increase in overall prize money to $11.25 million across 20 teams.
-
-🟩
-
-The ICC is a prize for the T-20 World Cup (2024) in the United States and the West Indies. Has been announced.
-
-The winners of the men's T20 World Cup (2024) will receive a trophy and a total prize of $ 2.45 million in total.
-
-This is the highest in the history of the competition. It was $ 850,000 more than the T20 World Cup in Australia in 2022, and England won $ 1.6 million.
-
-Total prize money for the competition has doubled. In 2022, the $ 5.6 million prize has increased by $ 11.25 million in a 20 teams this year.. It is worth noting that the prize money will increase for other teams.
-
-◼️
-
-[Data](articles/09ede0c6.json)
-
-[Extended Data](ext_articles/09ede0c6.ext.json)
-
----
-
-### The President landed;Action order to the authorities
-
-*2024-06-03 20:29:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/களம்-இறங்கினார்-ஜனாதிபதி-அதிகாரிகளுக்கு-அதிரடி-உத்தரவு/175-338375) · `ta`
-
-President Ranil Wickremesinghe visited flood-hit areas, directing authorities to halt new constructions prone to flooding, prevent rainwater overflow, and relocate hospitals. He emphasized immediate action against illegal land filling and urged for the preparation of a comprehensive flood control program involving relevant departments. Highlighting the need for addressing victims' needs, especially regarding food, health, and safety, he also stressed the importance of clean drinking water and disease prevention measures.
-
-🟩
-
-President Ranil Wickremesinghe has directed the authorities not to allow new constructions to be flooded in the Kelani River Valley and to prevent rain water from flowing.
-
-The President has directed the authorities to take immediate steps to stop the illegal filling of land in these areas and to relocate the Mulleria and IDH hospitals elsewhere.
-
-President Ranil Wickremesinghe made a visit to Kolonnawa, Kelaniya and Ambattale on Monday, 3rd, to detect the conditions of the people affected by the floods and disasters due to inclement weather conditions.. The President gave these instructions during a discussion held at the Rajamaha Viharaya in Kolonnawa.
-
-The victims are staying in Ambattalai. The President went to the Silva Vidyalaya and the Wellampitiya Gamini Vidyalaya Security Center and asked the authorities to listen to the interests of the people and carry out their needs and carry out continuous work.
-
-...
-
-[Data](articles/b275dc4d.json)
-
-[Extended Data](ext_articles/b275dc4d.ext.json)
-
----
-
-### Foreign train passenger dies after being hit by a tunnel wall
-
-*2024-06-03 20:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Foreign-train-passenger-dies-after-being-hit-by-a-tunnel-wall/108-284007) · `en`
-
-Colombo, June 1 (Daily Mirror) - A foreign train passenger died this evening after being hit by a tunnel wall while hanging out of the open doorway of a compartment, Sri Lanka Railways General Manager N.J. Indipolage said.
-
-He said the foreign passenger was travelling to Ella by train from Colombo Fort to Badulla.
-
-The accident happened at around 4 p.m. today, Indipolage said.
-
-He said the foreigner died after being hit by tunnel No. 19 between the Nanuoya and Idalgashinna railway stations.
-
-The Railway Department has requested a report regarding the accident.
-
-According to the Railways Act., commuters are advised to stay within the train carriage while the train is moving.
-
-He said that there have been fatal accidents reported earlier when visitors have hung out of the open doorways or windows of trains.
-
-◼️
-
-[Data](articles/0893b4da.json)
-
-[Extended Data](ext_articles/0893b4da.ext.json)
-
----
-
-### 16 disaster deaths
-
-*2024-06-03 20:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197351) · `si`
-
-Adverse weather conditions caused 16 deaths and affected 84,749 individuals from 21,353 families, according to the Disaster Management Center.
-
-🟩
-
-The Disaster Management Center (DMC) says that 16 deaths have been reported due to adverse weather conditions that have affected the island.
-
-The center further reports that 84,749 persons were affected by 21,353 families.
-
-◼️
-
-[Data](articles/407ab352.json)
-
-[Extended Data](ext_articles/407ab352.ext.json)
-
----
-
-### Extreme weather: Death toll rises to 16, nearly 85,000 affected
-
-*2024-06-03 20:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/99640/extreme-weather-death-toll-rises-to-16-nearly-85000-affected) · `en`
-
-The Disaster Management Centre (DMC) confirmed that 16 deaths have been reported so far from across the island with a total of 84,749 persons from 21,353 families affected due to the prevailing adverse weather conditions.
-
-◼️
-
-[Data](articles/e504a689.json)
-
-[Extended Data](ext_articles/e504a689.ext.json)
 
 ---

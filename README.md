@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-04 22:07:23**
+As of **2024-06-04 22:18:57**
 
 ## Newspaper Stats
 
-*Scraped **28,414** Articles*
+*Scraped **28,416** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,34 +19,40 @@ adalk | 2,423
 adaderanalk | 3,233
 tamilmirrorlk | 3,338
 virakesarilk | 4,373
-dailymirrorlk | 4,498
+dailymirrorlk | 4,500
 adaderanasinhalalk | 4,568
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,410 (100.0%) of 28,414 articles have been extended.
+28,414 (100.0%) of 28,416 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-04 (Tuesday)
 
-### மோடி வெற்றி ; ரணில் அனுப்பிய செய்தி
+### Modi victory;Message sent by Ranil
 
 *2024-06-04 22:00:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மோடி-வெற்றி-ரணில்-அனுப்பிய-செய்தி/175-338437) · `ta`
 
-இந்தியாவின் பாராளுமன்றத் தேர்தலில் நரேந்திர மோடி தலைமையிலான தேசிய ஜனநாயகக் கூட்டணி வெற்றி பெற்றுள்ளது.
+Narendra Modi's National Democratic Alliance wins India's parliamentary election, securing his third term as PM. President Ranil Wickremesinghe congratulates Modi, expressing hope for stronger ties between Sri Lanka and India.
 
-இதன்படி நரேந்திர மோடி, மூன்றாவது முறையாகவும் ஆட்சி அமைக்க போவதாக இந்திய ஊடக தகவல்கள் தெரிவிக்கின்றன.
+🟩
 
-இந்த நிலையில், மூன்றாவது முறையாகவும் வெற்றியை தன்வசப்படுத்திய பிரதமர் நரேந்திர மோடிக்கு, ஜனாதிபதி ரணில் விக்ரமசிங்க வாழ்த்து தெரிவித்துள்ளார்.
+Narendra Modi -led National Democratic Alliance has won India's parliamentary election.
 
-“நரேந்திர மோடியின் தலைமையின் கீழ் முன்னேற்றம் மற்றும் செழிப்பு ஆகியவற்றில் இந்திய மக்கள் வெளிப்படுத்திய நம்பிக்கையை ஜனாதிபதி அங்கீகரித்ததோடு, இலங்கைக்கும் இந்தியாவுக்கும் இடையிலான உறவுகளில் தொடர்ச்சியான வளர்ச்சியில் நம்பிக்கை வைக்கின்றேன்,”  என ரணில் விக்ரமசிங்க தெரிவித்துள்ளார். R
+According to Indian media reports, Narendra Modi will rule for the third time.
+
+President Ranil Wickremesinghe congratulates Prime Minister Narendra Modi, who has been successful for the third time.
+
+"The President recognizes the confidence expressed by the Indian people in the leadership of Narendra Modi and I believe in the continuous development of relations between Sri Lanka and India," Ranil Wickremesinghe said.. Remble
 
 ◼️
 
 [Data](articles/61824cdf.json)
+
+[Extended Data](ext_articles/61824cdf.ext.json)
 
 ---
 
@@ -64,19 +70,67 @@ Following the President’s observation tour to assess the situation and discuss
 
 [Data](articles/2a3e7818.json)
 
+[Extended Data](ext_articles/2a3e7818.ext.json)
+
 ---
 
-### உயிரிழப்பு எண்ணிக்கை அதிகரித்தது
+### The death toll has increased
 
 *2024-06-04 21:16:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உயிரிழப்பு-எண்ணிக்கை-அதிகரித்தது/175-338436) · `ta`
 
-இலங்கையில் சீரற்ற காலநிலை காரணமாக உயிரிழந்தோர் எண்ணிக்கை 17ஆக அதிகரித்துள்ளதாக அனர்த்த முகாமைத்துவ மத்திய நிலையம் விடுத்துள்ள அறிக்கையில் குறிப்பிடப்பட்டுள்ளது.
+Inclement weather in Sri Lanka has caused 17 deaths and affected over 120,000 people from 23,422 families.
 
-மேலும், சீரற்ற காலநிலையினால் ஏற்பட்டுள்ள அனர்த்தங்கள் காரணமாக, நாடளாவிய ரீதியில் 23,422 குடும்பங்களைச் சேர்ந்த 120,000ற்கும் அதிகமானோர் பாதிக்கப்பட்டுள்ளதாகவும் குறிப்பிடப்படுகின்றது. R
+🟩
+
+The Center for Disaster Management Center said that the number of casualties in Sri Lanka has increased to 17 due to inclement weather.
+
+In addition, over 120,000 people from 23,422 families have been affected by disasters due to inclement weather conditions.. Remble
 
 ◼️
 
 [Data](articles/c751b64f.json)
+
+[Extended Data](ext_articles/c751b64f.ext.json)
+
+---
+
+### NTC suspends three buses for unsafe driving on flooded roads
+
+*2024-06-04 21:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/NTC-suspends-three-buses-for-unsafe-driving-on-flooded-roads/108-284083) · `en`
+
+Colombo, June 4 (Daily Mirror) - The National Transport Commission (NTC) suspended the services of three passenger transport buses that were driven unsafely on flooded roads, NTC Director General Nayomi Jayawardana said.
+
+She said that certain areas experienced flooding, and there were several reports of buses being driven unsafely during the adverse weather.
+
+As a result, the services of three buses have been suspended, and investigations have been launched against them.
+
+The bus operating from Sooriyawewa to Colombo, under the registration number NE-0629 (NTC F13873), had its services suspended.
+
+Meanwhile, the passenger bus with registration number NC-4908 (8586), operating on the Colombo-Vavuniya route, and the bus with registration number NB-9392 (13795), operating on the Kandy-Panadura route, were suspended for unsafe driving.
+
+...
+
+[Data](articles/e7010c5e.json)
+
+---
+
+### Major shutdown of Sapugaskanda refinery to begin on July 8
+
+*2024-06-04 21:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Major-shutdown-of-Sapugaskanda-refinery-to-begin-on-July-8/108-284093) · `en`
+
+Colombo, June 4 (Daily Mirror) - The Ceylon Petroleum Corporation (CPC) has scheduled a major shutdown of the refinery at Sapugaskanda from July 8, its media spokesman S.M.C.P. Samarakoon said.
+
+He said the refinery crude unit was shut down on May 29, followed by a complete shutdown of the production processes on May 30 morning due to a failure in the water demineralization plant, which is crucial for refinery power generation facilities.
+
+After painstaking efforts, the repair work on the boiler water system has been successful, and the restoration of the power system will be completed shortly, Samarakoon said.
+
+The resumption of the crude unit operation will commence effective tomorrow, and other processors will be started subsequently, he said.
+
+Therefore, the CPC assured the public that there is no need to worry about their fuel requirements, as Ceypetco has sufficient stocks in storage tanks.
+
+◼️
+
+[Data](articles/47e24d3f.json)
 
 ---
 
@@ -100,19 +154,25 @@ Still, for the first time since Modi’s Bharatiya Janata Party swept to power i
 
 ---
 
-### மண் மேடு சரிந்ததில் 3 வயது குழந்தை பரிதாபமாக மரணம்
+### 3 -year -old child miserably death
 
 *2024-06-04 21:01:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மண்-மேடு-சரிந்ததில்-3-வயது-குழந்தை-பரிதாபமாக-மரணம்/175-338435) · `ta`
 
-கேகாலை பிரதேசத்தில் மண் மேடு சரிந்து விழுந்ததில் 3 வயது குழந்தை ஒன்று உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+In the Kegalle region, a tragic incident occurred where a 3-year-old child perished due to a mudslide. The child was buried under mud while playing in a ditch. Despite immediate rescue efforts and transport to the Kegalle Teaching Hospital, the child succumbed to their injuries.
 
-தோண்டப்பட்ட பள்ளத்தில் குழந்தை இருந்தபோது, ​​அதற்கு மேல் இருந்த மண் மேடு குழந்தை மீது சரிந்து விழுந்ததாக அப்பகுதி மக்கள் தெரிவிக்கின்றனர்.
+🟩
 
-பின்னர், அங்கு வந்த பிரதேசவாசிகள் குழந்தையின் மீது விழுந்த மண்ணை அகற்றி உடனடியாக கேகாலை போதனா வைத்தியசாலைக்கு கொண்டு சென்ற நிலையில் குழந்தை உயிரிழந்துள்ளது.
+A 3 -year -old child has died in the collapse of a mud in the Kegalle area, police said.
+
+Residents in the area reported that when the child was in a ditch, the mud toppled over the child.
+
+Later, the child died as the residents who came there were removed and taken to the Kegalle Teaching Hospital immediately after removing the soil that fell on the child.
 
 ◼️
 
 [Data](articles/5ad74840.json)
+
+[Extended Data](ext_articles/5ad74840.ext.json)
 
 ---
 
@@ -2259,63 +2319,5 @@ Additional Solicitor General Viveka Siriwardena, representing the Attorney Gener
 [Data](articles/e198df58.json)
 
 [Extended Data](ext_articles/e198df58.ext.json)
-
----
-
-### What should you not do when floods?
-
-*2024-06-04 11:02:46* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c199zdlrky4o) · `si`
-
-During floods, avoid ignoring disaster warnings, watching floods from unsafe locations, swimming in floodwaters, touching electrical equipment, driving through flooded roads without knowing water levels, and using contaminated water. Stay informed and safe.
-
-🟩
-
-Black, Kelani, Ginny, Nilwala and Attnangali are flowing with heavy rains.
-
-The Department of Irrigation has announced that floods are already flooded in Colombo, Kalutara, Galle and Matara.
-
-The BBC Sinhala service was an inquired of the Director of the Disaster Management Center (DMC).
-
-He said that 10 deaths due to the activities of floods and related activities have been reported.
-
-How to change the weather in 'El Ni'o' and 'La Nina'
-
-Due to heavy rains, 17 persons have died on the first rainy weather this morning (June 4).
-
-The Disaster Management Center has reported that five deaths in the Ratnapura district, two deaths in the Colombo district and one death in the Gampaha District and one death in the Gampaha District.
-
-The Disaster Management Center announced that 159,728 persons belonging to 40,728 families have been affected due to heavy rains.
-
-1. Avoid ignoring announcements about disasters
-
-...
-
-[Data](articles/0678b600.json)
-
-[Extended Data](ext_articles/0678b600.ext.json)
-
----
-
-### India election results 2024: Modi’s BJP may fall short of majority
-
-*2024-06-04 11:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/India-election-results-2024-Modis-BJP-may-fall-short-of-majority/155-284059) · `en`
-
-One of the BJP’s strongest hopes, K Annamalai, is trailing in Tamil Nadu's Coimbatore seat by more than 23,000 votes.
-
-The party had high hopes that the former police officer would help them gain in a state that has traditionally rejected it.
-
-PM Narendra Modi has a comfortable lead of over 98,000 votes in Uttar Pradesh's Varanasi seat, where he is the incumbent MP.
-
-Prominent regional Samajwadi Party and the Congress have fielded Ajay Rai as their joint candidate.
-
-Mr Modi won with a vote share of more than 63% here in 2019.
-
-Despite the lower-than-expected numbers for the BJP, the party is still confident of forming the next government — and under Prime Minister Narendra Modi, who has ruled for the past decade, and under whom the party fought this campaign.
-
-...
-
-[Data](articles/54af9f34.json)
-
-[Extended Data](ext_articles/54af9f34.ext.json)
 
 ---

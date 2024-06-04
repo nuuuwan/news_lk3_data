@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-04 14:06:03**
+As of **2024-06-04 14:19:38**
 
 ## Newspaper Stats
 
-*Scraped **28,340** Articles*
+*Scraped **28,341** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,32 +19,60 @@ adalk | 2,415
 adaderanalk | 3,221
 tamilmirrorlk | 3,329
 virakesarilk | 4,358
-dailymirrorlk | 4,483
+dailymirrorlk | 4,484
 adaderanasinhalalk | 4,554
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,339 (100.0%) of 28,340 articles have been extended.
+28,340 (100.0%) of 28,341 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-04 (Tuesday)
 
-### රාජ්‍ය රහස් හෙළිකිරීමේ චෝදනාවෙන් ඉම්රාන් ඛාන් නිදහස්
+### Assets of 15 extremist organizations frozen
+
+*2024-06-04 14:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Assets-of-15-extremist-organizations-frozen/108-284070) · `en`
+
+Colombo, June 4 (Daily Mirror) - A gazette notification has been issued announcing the freezing of all funds and assets of 15 organizations and 210 individuals in the country involved in terrorist and extremist activities.
+
+The related gazette notification has been issued by Defense Ministry Secretary Major General (Retired) Kamal Gunaratne.
+
+Action has been taken to disable all funds, other financial assets and economic resources of 15 terrorist and extremist organizations and 210 persons associated with them.
+
+It is reported that this step has been taken according to the UN directives No. 01 of 2012.
+
+All funds and assets of 15 organizations including the LTTE, the Tamil Rehabilitation Organization or TRO, National Thowheed Jamaat or NTJ, Jamaate Milate Ibrahim or JMI have been disabled.
+
+Apart from these, all the money and assets of 113 persons who are accused of terrorist activities and financing of terrorism have also been disabled.
+
+◼️
+
+[Data](articles/156deddd.json)
+
+---
+
+### Imran Khan released from accusation of claiming state secrets
 
 *2024-06-04 13:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197382) · `si`
 
-රාජ්‍ය රහස් හෙළිදරව් කිරීම සම්බන්ධව එල්ල වී තිබූ චෝදනාවලින් හිටපු පාකිස්තාන අගමැති ඉම්රාන් ඛාන් නිදහස් කර තිබේ.
+Imran Khan, former Pakistani PM, was acquitted of revealing state secrets, a charge that could have led to a 10-year prison sentence. The case involved allegations about a secret cable from Pakistan's ambassador in the US. Despite being cleared of this charge, he remains under a separate conviction for a seven-year jail term, which also involves breaching Islamic laws.
 
-අමෙරිකාවේ පාකිස්තාන තානාපතිවරයා එවූ රහසිගත කේබල් පණිවුඩයක් සම්බන්ධව ප්‍රසිද්ධ ප්‍රකාශයක් කරමින් රාජ්‍ය රහස් හෙළිදරව් කළ බවට චෝදනාවට ලක්වූ ඛාන් ට පහළ අධිකරණයක් මඟින් වසර 10ක සිරදඬුවම් නියම කර තිබුණි.
+🟩
 
-ඒ ඔහු මෙම චෝදනාවෙන් නිදහස ලැබූවත්, ඉස්ලාමීය නීති කඩකරමින් තෙවැනි බිරිඳක් ආවාහ කරගැනීමේ චෝදනාවට වරදකරු වී වසර 7ක සිරදඬුවම් විඳිමින් සිටීම හේතුවෙනි.
+Pakistani Imran Khan has been released from accusations on charges of state secrets.
+
+The court had been sentenced to 10 years in prison, allegedly accused of revelation that the state secrets had been revealed in connection with a secret cable sent by the Pakistan Ambassador in the United States.
+
+It was due to the conviction of the seven years of imprisonment, even when he was released from this accusation, while breaching Islamic rules.
 
 ◼️
 
 [Data](articles/bd872990.json)
+
+[Extended Data](ext_articles/bd872990.ext.json)
 
 ---
 
@@ -83,6 +111,8 @@ Laugfs Gas has also decided to reduce the price of it’s LP gas cylinders with 
 Accordingly, the price of a 12.5 kg cylinder has been reduced by Rs. 160, bringing the new price to Rs. 3,680.
 
 Meanwhile, the price of a 05 kg cylinder has been reduced by Rs. 65, with it now priced at Rs. 1,477.
+
+Meanwhile, Litro Gas has also announced a revision in prices of domestic LP gas cylinders with effect from midnight today (04).
 
 ◼️
 
@@ -2299,21 +2329,5 @@ The pamphlets they distributed should be boycotted the presidential election unt
 [Data](articles/6bead92b.json)
 
 [Extended Data](ext_articles/6bead92b.ext.json)
-
----
-
-### EFC delegation meets Northern Province Chief Secretary
-
-*2024-06-04 02:23:56* · [`dailyftlk`](https://www.ft.lk/business/EFC-delegation-meets-Northern-Province-Chief-Secretary/34-762583) · `en`
-
-A delegation representing 14 leading private sector companies together with Employers’ Federation of Ceylon (EFC) engaged in a high-level visit to explore strategic investment, trade, and growth opportunities in key sectors in the Northern Province.
-
-Organised by the Intern-ational Labour Organisation (ILO) in partnership with EFC, among the key objectives of the visit were to showcase the investment potential of northern province, foster dialogue, and collaboration among key stakeholders, and facilitate partnerships that benefit both businesses and communities.
-
-...
-
-[Data](articles/c6150100.json)
-
-[Extended Data](ext_articles/c6150100.ext.json)
 
 ---

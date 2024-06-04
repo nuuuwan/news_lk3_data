@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-04 18:12:47**
+As of **2024-06-04 18:24:18**
 
 ## Newspaper Stats
 
-*Scraped **28,377** Articles*
+*Scraped **28,382** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,59 +16,161 @@ islandlk | 1,533
 economynextcom | 1,611
 dailyftlk | 1,669
 adalk | 2,418
-adaderanalk | 3,229
-tamilmirrorlk | 3,333
+adaderanalk | 3,230
+tamilmirrorlk | 3,334
 virakesarilk | 4,364
-dailymirrorlk | 4,490
-adaderanasinhalalk | 4,562
+dailymirrorlk | 4,492
+adaderanasinhalalk | 4,563
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,375 (100.0%) of 28,377 articles have been extended.
+28,377 (100.0%) of 28,382 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-04 (Tuesday)
 
-### හෙට වැසෙන පාසල් ගැන දැනුම්දීමක්
+### Schools closed in several education zones and divisions
+
+*2024-06-04 18:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/99662/schools-closed-in-several-education-zones-and-divisions) · `en`
+
+The Secretary of Education of Sabaragamuwa Province stated that all schools in Ratnapura Educational Zone and in Elapatha, Ayagama, Kalawana Educational divisions in Nivithigala Educational Zone will be closed tomorrow (04) due to adverse weather conditions.
+
+◼️
+
+[Data](articles/907732f4.json)
+
+---
+
+### ප්‍රධාන මාර්ගයේ දුම්රිය ප්‍රමාදයක්
+
+*2024-06-04 18:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197391) · `si`
+
+අද පස්වරුවේ ප්‍රධාන මාර්ගයේ ධාවනය වන කාර්යාල දුම්රිය කිහිපයක් ප්‍රමාදවිය හැකි බව දුම්රිය නියෝජ්‍ය සාමාන්‍යාධිකාරී ජේ. එන්. ඉඳිපොලගේ මහතා පවසයි.
+
+ප්‍රධාන මාර්ගයේ ගම්පහ සහ වේයන්ගොඩ අතර දුම්රිය මාර්ගය ජලයෙන් යටවී පැවතීම හේතුවෙන් දුම්රිය ප්‍රමාද වී ධාවනය කිරීමට සිදුවූ බව ඒ මහතා වැඩිදුරටත් සඳහන් කළේය.
+
+මෙලෙස ජලය දුම්රිය මාර්ගයේ රැඳී පැවතීම හේතුවෙන් දුම්රිය සංඥා නිකුත් කිරීමට බාධා එල්ලවීම එළෙස දුම්රිය ප්‍රමාදයන්ට හේතුවී තිබේ.
+
+ඒ අනුව රඹුක්කන, පොල්ගහවෙල, මහනුවර, කුරුණෑගල සහ මහව වැනි ප්‍රදේශ දක්වා ධාවනය වන දුම්රිය ද ප්‍රමාද විය හැකි බව ඒ මහතා එහිදී වැඩිදුරටත් සඳහන් කළේය.
+
+◼️
+
+[Data](articles/3a853846.json)
+
+---
+
+### SC stays indictment signed by DG Bribery Commission
+
+*2024-06-04 18:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SC-stays-indictment-signed-by-DG-Bribery-Commission/108-284081) · `en`
+
+Colombo, June 04, (Daily Mirror) - The Supreme Court today issued an interim order suspending the operation of an indictment signed by the Director General of the Bribery Commission against Land Commissioner General Bandula Jayasinghe in 2023.
+
+Land Commissioner General Bandula Jayasinghe was indicted with seven others in December 2023 by the Director General of the Bribery Commission on a corruption charge relating to the change of a registration of a car whilst in the Department of Motor Traffic.
+
+The Supreme Court bench comprising justices Yasantha Kodagoda, A.H.M.D. Nawaz and Achala Wengappulli issued formal notice and an interim order suspending the proceedings on the indictment signed by the Director General of Bribery Commission. The Supreme Court also made order that the Bribery Commission reconsiders its position on the indictment signed by the Director General during the interim period.
+
+...
+
+[Data](articles/f973741f.json)
+
+---
+
+### India coach Dravid to step down after T20 World Cup
+
+*2024-06-04 18:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/India-coach-Dravid-to-step-down-after-T20-World-Cup/108-284080) · `en`
+
+(BBC) - India coach Rahul Dravid is to stand down when his contract expires after the T20 World Cup.
+
+Former batter Dravid says he will not reapply for the position after it was advertised by governing body the BCCI last month.
+
+The 51-year-old succeeded Ravi Shastri in 2021 and led India to the World Test Championship and 50-over World Cup finals last year, losing to Australia on both occasions.
+
+"Unfortunately, the kind of schedules and where I find myself at this stage in my life, I don't think I'll be able to reapply," Dravid said.
+
+"I love doing the job. I've really enjoyed coaching India and I think it's a truly special job to do."
+
+As well as those two defeats by Australia Dravid oversaw a run to the semi-finals of the 2022 T20 World Cup, where India were beaten by eventual winners England.
+
+They have not won any global tournament since the 2013 Champions Trophy.
+
+...
+
+[Data](articles/f11197a7.json)
+
+---
+
+### பொதுமக்களின் உதவியை  நாடும் பொலிஸார்
+
+*2024-06-04 17:59:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொதுமக்களின்-உதவியை-நாடும்-பொலிஸார்/175-338433) · `ta`
+
+கடந்த மே மாதம் 29 ஆம்  திகதியிலிருந்து காணாமல் போயுள்ள பெண்ணொருவர் மற்றும் அவரது மகளை கண்டுபிடிக்க, பொலிஸார் பொதுமக்களின் உதவியை நாடியுள்ளனர்.
+
+காணாமல் போயுள்ள பெண்ணின் கணவரால் கட்டுநாயக்க பொலிஸில் பதிவு செய்யப்பட்ட முறைபாட்டிற்கமையவே பொலிஸார் விசாரணைகளை மேற்கொண்டுள்ளனர் .
+
+26 வயதுடைய  யசோதா ஹன்சனி கஹதுடுவ ஆராச்சி மற்றும்  04 வயதுடைய மகள், சாதுர்யா தோஷ்னி லியனகே பெர்ணாண்டோ ஆகிய இருவருமே இவ்வாறு காணாமல் போயுள்ளனர் .
+
+குறித்த இருவர் தொடர்பில் தகவல் அறிந்தோர் கட்டுநாயக்க OIC - 071-8591639 மற்றும் கட்டுநாயக்க பொலிஸ் நிலையம் - 011-2252222 க்கு தெரிவிக்குமாறு பொலிஸார் குறிப்பிட்டுள்ளனர் .
+
+◼️
+
+[Data](articles/323711fb.json)
+
+---
+
+### Notice of schools closing tomorrow
 
 *2024-06-04 17:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197390) · `si`
 
-හෙට (05) දිනයේ රත්නපුර අධ්‍යාපන කළාපයේ සියලුම පාසල් වසා තැබෙන බව සබරගමු පළාත් අධ්‍යාපන ලේකම්වරයා පවසයි.
+Due to adverse weather conditions, all schools in the Ratnapura education zone, including those in the Nivitigala Education Zone, will close tomorrow. The decision was made by the Sabaragamuwa Provincial Education Secretary, who plans to consult with the Department of Meteorology afterward.
 
-නිවේදනයක් නිකුත් කරමින් සබරගමු පළාත් අධ්‍යාපන ලේකම්වරයා මෙම තීරණය දැනුම්දී තිබේ.
+🟩
 
-එසේම නිවිතිගල අධ්‍යාපන කළාපයේ ඇළපාත, අයගම සහ කලවාන අධ්‍යාපන කොට්ඨාශවලට අයත් සියලුම පාසල් ද හෙට දිනයේ වසා තැබීමට තීරණය කර ඇත.
+The Sabaragamuwa Provincial Education Secretary says that all schools in the Ratnapura education zone will be closed tomorrow (05).
 
-එම ප්‍රදේශවලට බලපා ඇති අයහපත් කාලගුණික තත්ත්වය හේතුවෙන් මෙම තීරණය ගෙන තිබේ.
+The decision of the Sabaragamuwa Provincial Education has been informed of a statement.
 
-එසේම හෙට දිනයෙන් පසුව ඇතිවන කාලගුණ තාත්තය මත කළාප අධ්‍යක්ෂවරුන් දැනුවත් කර පාසල් පැවැත්වීමට අදාළ තීරණ ගනු ලබන බවද සබරගමු පළාත් අධ්‍යාපන ලේකම්වරයා එම නිවේදනයෙන් වැඩිදුරටත් පවසා සිටී.
+All schools belonging to the Nivitigala Education Zone and all schools belonging to the Nivitigala Education Zone have decided to close the day.
+
+This decision has been taken due to adverse weather conditions affected.
+
+The Sabaragamuwa Provincial Education Secretary further stated that the decision will be taken to hold the directors of the Department of Meteorological Dad after tomorrow.
 
 ◼️
 
 [Data](articles/c9275395.json)
 
+[Extended Data](ext_articles/c9275395.ext.json)
+
 ---
 
-### ආර්ථික පරිවර්තන පනතට එරෙහිව සර්වජන බලයෙන් ශ්‍රේෂ්ඨාධිකරණයට පෙත්සමක්
+### The Surgeons Petroleum Against Economic Translation Act
 
 *2024-06-04 17:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197389) · `si`
 
-රජය විසින් පාර්ලිමේන්තුවට ඉදිරිපත් කර ඇති ආර්ථික පරිවර්තන පනත් කෙටුම්පත සහ රාජ්‍ය මූල්‍ය කළමනාකරණ පනත් කෙටුම්පතේ ඇතැම් වගන්ති ආණ්ඩුක්‍රම ව්‍යවස්ථාවට පටහැනි බවට තීන්දුවක් ලබාදෙන ලෙස ඉල්ලා  සර්වජන බලය සංවිධානය ශ්‍රේෂ්ඨාධිකරණයට පෙත්සමක් ඉදිරිපත් කර තිබේ.
+A petition against two economic bills has been filed with the Supreme Court, accusing them of violating democratic rights and constitutional fundamentals. The Attorney General is named as a respondent. Petitioners, including members of the Unmangerage Organization, argue the bills were improperly passed under presidential authority. They request the court to invalidate these bills due to alleged violations of fundamental rights.
 
-එහි වග උත්තරකරු ලෙස නීතිපතිවරයා නම් කර ඇති බව අද දෙරණ අධිකරණ වාර්තාකරු පැවසීය.
+🟩
 
-සර්වජන බලය සංවිධානයේ පාර්ලිමේන්තු මන්ත්‍රීවරුන් වන විමල් වීරවංශ, උදය ගම්මන්පිල, ගෙවිඳු කුමාරතුංග, මහාචාර්ය චන්න ජයසුමන සහ ව්‍යවසායක දිලිත් ජයවීර, වෛද්‍ය ජීවීරසිංහ සහ නිමල් රණවක ඇතුළු පිරිසක් විසින් පෙත්සම ඉදිරිපත් කර තිබේ.
+The authentic power organization has filed a petition to the Supreme Court asking for the government's economic translation bill and the Constitution of the Constitution of the State Financial Management Bill.
 
-පෙත්සම්කරුවන් පවසන්නේ යෝජිත පනත් කෙටුම්පත් තුළින් පාර්ලිමේන්තුව සතු රාජ්‍ය මූල්‍ය බලය ජනාධිපතිවරයා යටතට පත් කිරීමට කටයුතු කර ඇති බවය.
+The Attorney General has said that the Attorney General has been named as respondents, Ada Derana reporter said.
 
-මේ තුළින් පාර්ලිමේන්තුව සතු බලය කප්පාදු කිරීමට කටයුතු කර තිබෙන බවත් ඒ තුළින් ප්‍රජාතන්ත්‍රවාදී අයිතිවාසිකම් උල්ලංඝනය කෙරෙන බවත් පෙත්සමෙන් චෝදනා කර තිබේ.
+Members of the Unmangerage Organization (Udaya Gammanpila, Geneya Gammanpila, Genee Gammanpila, Prof. Channa Jayarawana, Entrepreneurship Dilith Jayarawana and Entrepreneral Dilith Jayarawana and Entrepreneurs Dr. Gavarasinghe and Nimal Ranawaka have been present.
+
+The petitioners say that the proposed bills have been taken under the President under the president.
+
+The petition has accused the power of Parliament and that it violates democratic rights.
+
+It is said that the petition has been accused of a violation of fundamental rights certified by the Constitution of the proposed bills.
 
 ...
 
 [Data](articles/5b847218.json)
+
+[Extended Data](ext_articles/5b847218.ext.json)
 
 ---
 
@@ -1524,17 +1626,19 @@ Despite the lower-than-expected numbers for the BJP, the party is still confiden
 
 *2024-06-04 11:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Modis-BJP-may-fall-short-of-majority/155-284059) · `en`
 
-04.03 PM - The ruling National Democratic Alliance (NDA), led by the Bharatiya Janata Party (BJP), has crossed the halfway mark in the Lok Sabha elections, but the lead is narrower than what exit polls had predicted.
+As the counting of votes continues, the early trends still hold.
 
-The narrow margin prompted talks that the Opposition may reach out to some of the BJP's allies, a charge Nationalist Congress Party patriarch Sharad Pawar denied.
+The BJP, which was the favourite to win the elections, is now struggling to get past the simple majority mark of 272. The party will now have to rely on allies to form a government.
 
-During a press conference, Mr Pawar denied reports that he has reached out to Janata Dal (United) chief Nitish Kumar and Telugu Desam Party (TDP) head Chandrababu Naidu.
+The Hindu nationalist party won 303 seats in 2019 and 282 in 2014. The opposition Congress, which won 52 seats in 2019 and 44 in 2014, has made major gains, though it is still in a distant second place.
 
-Home Minister Amit Shah is leading in the Gandhinagar constituency in Gujarat with a huge margin of over 6.15 lakh votes.
+Incumbent Prime Minister Narendra Modi has won his Lok Sabha seat in Varanasi, according to the election commission.
 
-03.24 PM - Rahul Gandhi currently in large lead in Kerela seat.
+He received 612,970 votes in the polls, 152,513 ahead of his Congress rival Ajay Rai.
 
-Aside from running in Rae Bareli in Uttar Pradesh, Congress’ Rahul Gandhi is also seeking re-election from southern Kerala state’s Wayanad.
+Kangana Ranaut is set to enter parliament from Mandi in the northern Himachal Pradesh state after her opponent, Vikramaditya Singh of the Congress, conceded defeat.
+
+“I congratulate BJP candidate Kangana Ranaut for winning Mandi Lok Sabha seat,” Singh told the ANI news agency.
 
 ...
 
@@ -2187,129 +2291,5 @@ Police say that the boatmen were electrocuted and fell into the boat, but they h
 [Data](articles/3109218b.json)
 
 [Extended Data](ext_articles/3109218b.ext.json)
-
----
-
-### Superfected for Afghanistan
-
-*2024-06-04 09:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197367) · `si`
-
-In a cricket match, Afghanistan defeated Uganda with Rahamanullah Gurbaz scoring 76 and Ibrahim Zadran 70. Cosmas Kyewuta and Brian Masaba took two wickets each. Uganda fell short with 58 runs in 16 overs chasing 184.
-
-🟩
-
-Afghanistan was won by Afghanistan and Uganda won the match between Afghanistan and Uganda.
-
-The Afghan group scored 183 runs for the loss of 5 wickets in the end of 20 overs.
-
-Rahamanullah Gurbaz scored 76 runs and the IBrahim Zadran scored 70 runs.
-
-Bowling cosmas kyewuta and brian masaba took 2 wickets each.
-
-Chasing a target of 184, the Uganda team scored only 58 runs in 16 overs.
-
-◼️
-
-[Data](articles/0e5efeeb.json)
-
-[Extended Data](ext_articles/0e5efeeb.ext.json)
-
----
-
-### Damage to pipes;Water supply at low pressure to several areas
-
-*2024-06-04 09:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/185257) · `ta`
-
-Due to bad weather, the National Water Supply and Drainage Board will provide water at low pressure to several regions including Padukkai, Kodagama, Homagama, etc., from specific times today.
-
-🟩
-
-The National Water Supply and Drainage Board has announced that water supply pipes will be supplied at several areas today due to the inclement weather in the country.
-
-Accordingly, the water will be supplied to some areas under low pressure from 6 am to 9 pm and from 5 pm to 9 pm.
-
-In addition, water will be supplied at low pressure areas in Padukkai, Kodagama, Homagama, Pannipitiya, Maharagama, Rukmalgama, Belanwatta, Mattegoda, Boraleskamuwa, Pepiliya and Galagadera.
-
-◼️
-
-[Data](articles/887fcde2.json)
-
-[Extended Data](ext_articles/887fcde2.ext.json)
-
----
-
-### Counting of votes in the Indian general election begins
-
-*2024-06-04 09:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197366) · `si`
-
-The Indian General Election, the world's largest, spanned seven stages with billions of registered voters aiming to fill 543 parliamentary seats. Critics predict a third term for incumbent Prime Minister Narendra Modi, whose alliance reportedly secured 209 seats.
-
-🟩
-
-The General Election of the Indian General Election was held under seven stages, considered the largest election in the world.
-
-About billions of voters were registered to vote.
-
-There are 543 seats in the Indian parliament, the party or all over the winning or more seats, are considered as winners.
-
-Critics say that the present Prime Minister Narendra Modi will win this election for his third term.
-
-Meanwhile, the Prime Minister's Alliance (UPFA) has won 209 seats, according to the uniforms that have been issued.
-
-◼️
-
-[Data](articles/bbc3d76d.json)
-
-[Extended Data](ext_articles/bbc3d76d.ext.json)
-
----
-
-### Change in the first climate today
-
-*2024-06-04 09:09:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-முதல்-காலநிலையில்-மாற்றம்/175-338403) · `ta`
-
-The Department of Meteorology forecasts a decrease in heavy rainfall in the southwest from today, with potential for periodic rainfall or thunderstorms in several provinces. Evening or night showers are expected elsewhere, along with southwest winds of 30-40 km/h around the country.
-
-🟩
-
-The Department of Meteorology has predicted that the current heavy rainfall in the southwest of the country is expected to be temporarily decreased from today.
-
-There is a possibility of periodic rainfall or thunderstorms in the upper, Sabaragamuwa, Central, Southern and North Western provinces.
-
-In the rest of the country, there is a possibility of rainfall or thundershowers in the evening or at night.
-
-The wind is expected to blow from the southwest direction in the seas around the country and the wind is expected to be up to 30-40 km per hour.. Remble
-
-◼️
-
-[Data](articles/eb87538a.json)
-
-[Extended Data](ext_articles/eb87538a.ext.json)
-
----
-
-### Dehiwala Gateway student Vaishalini won the International Award
-
-*2024-06-04 09:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/185184) · `ta`
-
-Vaishalini Rajendran, a standout student from Dehiwala Gateway College, has been honored with the Valuable Sonta International Young Female Award for Public Issues. Recognized for her leadership, academic excellence, and commitment to public service, Vaishalini, aged 18, is a role model for young women in Sri Lanka. She excels in education, winning numerous awards, and is actively involved in various extracurricular activities showcasing her leadership and dedication to social causes.
-
-🟩
-
-Vaishalini Rajendran, the best student of Dehiwala Gateway College, has won the Valuable Sonta International Young Female Award for Public Issues in the 25th of Sri Lanka, India, Bangladesh and Nepal.
-
-The award recognizes her leadership skills, the highest talent in the field of education and the commitment to public service and is a significant role model for young women in Sri Lanka.
-
-Sonta International, a world firm, provides a dedicated dedication to women through the YWPA Award, Service and Support for young women between the age of 16 and 19 years of age, who are firmly committed to leadership in public and charities.
-
-Although about 40 percent of the world's workers are women, only 25.7 percent of all national parliamentarians were women as of September 1, 2021, according to the data of the Union of Parliament.
-
-Sonta International believes that young women play an important role in the advancement of women in the public sector.
-
-...
-
-[Data](articles/3ab02422.json)
-
-[Extended Data](ext_articles/3ab02422.ext.json)
 
 ---

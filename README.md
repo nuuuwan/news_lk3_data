@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-04 19:52:34**
+As of **2024-06-04 20:04:26**
 
 ## Newspaper Stats
 
-*Scraped **28,397** Articles*
+*Scraped **28,400** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 islandlk | 1,533
 economynextcom | 1,611
 dailyftlk | 1,669
-adalk | 2,420
+adalk | 2,422
 adaderanalk | 3,231
-tamilmirrorlk | 3,334
+tamilmirrorlk | 3,335
 virakesarilk | 4,373
 dailymirrorlk | 4,494
 adaderanasinhalalk | 4,564
@@ -26,11 +26,53 @@ adaderanasinhalalk | 4,564
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,396 (100.0%) of 28,397 articles have been extended.
+28,397 (100.0%) of 28,400 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-04 (Tuesday)
+
+### மேலும் சில பாடசாலைகளுக்கு விடுமுறை
+
+*2024-06-04 19:38:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மேலும்-சில-பாடசாலைகளுக்கு-விடுமுறை/175-338434) · `ta`
+
+சீரற்ற காலநிலை காரணமாக காலி மற்றும் மாத்தறை மாவட்டங்களில் உள்ள அனைத்து பாடசாலைகளும் நாளை (5) மூடப்படும் என மாகாண கல்வி அமைச்சு அறிவித்துள்ளது. R
+
+◼️
+
+[Data](articles/00ffb004.json)
+
+---
+
+### ගාල්ල හා මාතර පාසල්වලට හෙටත් නිවාඩු
+
+*2024-06-04 19:24:50* · [`adalk`](https://www.ada.lk/breaking_news/ගාල්ල-හා-මාතර-පාසල්වලට-හෙටත්-නිවාඩු/11-410008) · `si`
+
+පවතින අයහපත් කාළගුණික තත්වය මත හෙට  (5) දිනද  දකුණු පළාතේ ගාල්ල සහ මාතර දිස්ත්‍රික්කවල සියලු පාසල් සඳහා නිවාඩු ලබා දුන් බව දකුණු පළාත් අධ්‍යාපන අමාත්‍යාංශය පවසයි.
+
+දකුණු පළාත් ආන්ඩුකාරවර ලක්ෂ්මන් යාපා අබේවර්ධන මහතාගේ තීරණය පරිදි මෙම නිවාඩුව ලබාදුන් බවත් ඒ අනුව කටයුතු කරන ලෙසත් දකුණු පළාත් අධ්‍යාපන ලේකම් රංජිත් යාපා මහතා දිස්ත්‍රික්ක දෙකෙහි සියලු අධ්‍යාපන බලධාරින් වෙත දන්වා ඇත.
+
+◼️
+
+[Data](articles/b3765445.json)
+
+---
+
+### මැදපෙරදිග රැකියා සඳහා තත්වයෙන් ඉහළ වෛද්‍ය සහතික දෙන්න වැඩපිළිවෙළක්
+
+*2024-06-04 19:20:25* · [`adalk`](https://www.ada.lk/breaking_news/මැදපෙරදිග-රැකියා-සඳහා-තත්වයෙන්-ඉහළ-වෛද්‍ය-සහතික-දෙන්න-වැඩපිළිවෙළක්/11-410007) · `si`
+
+මැදපෙරදිග කලාපයේ රටවල රැකියා සඳහා ශ්‍රමිකයින් පිටත් කර යැවීමේදී ලබා ගන්නා වෛද්‍ය සහතිකවල තත්ත්වය වඩා විධිමත් කිරීම පිණිස ශ්‍රි ලංකා විදේශ සේවා නියුක්ති කාර්යාංශය, පාරිභෝගික කටයුතු අධිකාරිය, ශ්‍රි ලංකා ප්‍රතීතන මණ්ඩලය සහ සෞඛ්‍ය අමාත්‍යාංශයේ පාර්ශ්වයන්ගෙන් සමන්විත විශේෂ කමිටුවක් පත් කිරීමට ඊයේ දිනයේදී (06/03) කම්කරු හා විදේශ රැකියා අමාත්‍ය මනුෂ නානායක්කාර මහතා විසින් පියවර ගනු ලැබිණි.
+
+මැදපෙරදිග රටවලට ශ්‍රමිකයින් පිටත් කර යැවීමේදී ගන්නා වෛද්‍ය සහතිකවල ප්‍රමිතිය සහ ඒ සඳහා ශ්‍රමිකයින්ගෙන් අය කරන ගාස්තු සම්බන්ධයෙන් පැන නගින ගැටලුකාරී තත්ත්වයන් පිළිබඳවද විශේෂ අවධානය යොමු කරමින් අමාත්‍යවරයා විසින් මෙම කමිටුව පත් කිරීමට පියවර ගනු ලැබ තිබේ.
+
+කම්කරු හා විදේශ රැකියා අමාත්‍යාංශයේදී අදාළ පාර්ශව සමග පැවති සාකච්ඡාවක් අනුව මෙම පත් කිරීම සිදු කළ අතර නිශ්චිත සති දෙකක කාලයක් තුළ කමිටුව රැස් කර වාර්තාවක් ලබා ගන්නා ලෙස අමාත්‍යවරයා එහිදී උපදෙස් ලබාදුන්නේය.
+
+...
+
+[Data](articles/69fa5dbd.json)
+
+---
 
 ### Western Provincial Schools to open tomorrow
 
@@ -720,21 +762,27 @@ Information regarding the duo can be conveyed to Katunayake OIC - 071-8591639 an
 
 ---
 
-### சீரற்ற காலநிலையால் 26 பேர் உயிரிழப்பு ; 130,021 பேர் பாதிப்பு
+### 26 people die due to inclement weather;130,021 victims
 
 *2024-06-04 16:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/185311) · `ta`
 
-சீரற்ற காலநிலையால்  26 பேர் உயிரிழந்துள்ளதுடன், 1,30021 பேர் பாதிக்கப்பட்டுள்ளனர். பாதிக்கப்பட்டுள்ளவர்களுக்கு நிவாரணம் வழங்குவதற்கும், மீள் புனரமைப்பு பணிகளை முன்னெடுக்கவும் ஜனாதிபதி நிதி ஒதுக்கியுள்ளார் என பாதுகாப்பு இராஜாங்க அமைச்சர்  பிரமித்த பண்டார தென்னக்கோன் தெரிவித்தார்.
+Inclement weather caused 26 deaths and affected 130,021 individuals across 23 districts. The government has allocated funds for relief and renovations, housing 9,248 people in temporary shelters. Disaster management efforts, including a special hotline, are underway, with development projects planned for the future.
 
-பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (04) இடம்பெற்ற அமர்வின் போது விசேட கூற்றை முன்வைத்து உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+🟩
 
-நாட்டில் கடந்த தினங்களில் நிலவிய சீரற்ற காலநிலையால் இதுவரை (நேற்று திங்கட்கிழமை )  23 மாவட்டங்களில்  உள்ள  33 ஆயிரத்து 622 குடும்பங்களை சேர்ந்த 130,021 பேர் பாதிக்கப்பட்டுள்ளனர். காலநிலை மாற்றத்தால் ஏற்பட்ட திடீர் விபத்துக்களினால் 26 பேர் உயிரிழந்துள்ளதுடன், 41 பேர் காயமடைந்துள்ளனர்.
+26 people died due to inclement weather and 1,30021 affected. Defense Minister of State for Defense Bandara Tennakoon said that the President has allocated funds to provide relief to the victims and to carry out renovation work.
 
-மண்சரிவு மற்றும் வெள்ள அபாயத்தை கருத்திற் கொண்டு  116 தற்காலிக பாதுகாப்பு மத்திய முகாம்களில் 2,369 குடும்பங்களைச் சேர்ந்த 9248 பேர் தங்கவைக்கப்பட்டுள்ளனர். இவர்களுக்கு தேவையான வசதிகள் பிரதேச செயலக பிரிவுகள் ஊடாக ஏற்படுத்திக் கொடுக்கப்பட்டுள்ளன.
+He was speaking at a special statement during a session held in Parliament on Tuesday (04).
+
+130,021 families from 33 thousand 622 families in 23 districts have been affected by inclement weather in the country in the past.. At least 26 people have been killed and 41 injured due to sudden accidents.
+
+9248 people from 2,369 families have been housed in 116 temporary security central camps in view of landslide and flood hazards. They have been provided with the necessary facilities through the Divisional Secretariat Divisions.
 
 ...
 
 [Data](articles/164f70ad.json)
+
+[Extended Data](ext_articles/164f70ad.ext.json)
 
 ---
 
@@ -2275,69 +2323,5 @@ He said  the Supreme Court has also determined that inconsistancy could be done
 [Data](articles/86c295bb.json)
 
 [Extended Data](ext_articles/86c295bb.ext.json)
-
----
-
-### LP gas prices to be reduce by Rs.150 from tonight
-
-*2024-06-04 10:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/LP-gas-prices-to-be-reduce-by-Rs-150-from-tonight/108-284056) · `en`
-
-Colombo, June 4 (Daily Mirror) - It has been decided to reduce the retail price of a 12.5 kg cylinder of Litro domestic LP gas by Rs. 150 with effect from midnight today, Litro Gas Chairman Muditha Peiris said today.
-
-He said the decision was taken according to the monthly effective price formula.
-
-After the price reduction the new retail price of a 12.5 kg cylinder of Litro domestic LP gas will be Rs. 3,790.
-
-Accordingly, the price of a 5kg cylinder of gas has been reduced by Rs. 60, and its new price will be Rs. 1,525.
-
-The retail price of a 2.3 kg cylinder of gas will be reduced by Rs. 28, and its new price will be Rs. 712.
-
-◼️
-
-[Data](articles/2265823f.json)
-
-[Extended Data](ext_articles/2265823f.ext.json)
-
----
-
-### LP gas prices to be reduced by Rs.150 from tonight
-
-*2024-06-04 10:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/LP-gas-prices-to-be-reduced-by-Rs-150-from-tonight/108-284056) · `en`
-
-Colombo, June 4 (Daily Mirror) - It has been decided to reduce the retail price of a 12.5 kg cylinder of Litro domestic LP gas by Rs. 150 with effect from midnight today, Litro Gas Chairman Muditha Peiris said today.
-
-He said the decision was taken according to the monthly effective price formula.
-
-After the price reduction the new retail price of a 12.5 kg cylinder of Litro domestic LP gas will be Rs. 3,790.
-
-Accordingly, the price of a 5kg cylinder of gas has been reduced by Rs. 60, and its new price will be Rs. 1,525.
-
-The retail price of a 2.3 kg cylinder of gas will be reduced by Rs. 28, and its new price will be Rs. 712.
-
-◼️
-
-[Data](articles/49f3825d.json)
-
-[Extended Data](ext_articles/49f3825d.ext.json)
-
----
-
-### President Ranil goes to Delhi on Sunday to congratulate India's new Prime Minister
-
-*2024-06-04 10:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/185265) · `ta`
-
-President Ranil Wickremesinghe visits India to congratulate its new PM and strengthen bilateral ties, highlighting India's crucial support during Sri Lanka's economic crisis. The trip underscores the importance of India-Sri Lanka relations for mutual economic growth and cooperation.
-
-🟩
-
-President Ranil Wickremesinghe is on a two -day official visit to India on Sunday. President Ranil Wickremesinghe's Delhi visit to Delhi has been organized to congratulate India's new Prime Minister, as the results of the Indian election are coming out on Tuesday.
-
-This visit by President Ranil Wickremesinghe shows that India's cooperation in Sri Lanka's economic recovery is essential for the relatives of the two countries.. That is why President Ranil is going to Delhi to express Sri Lanka's interest in strengthening bilateral relations and expedition with new economic connections, no matter who ruled the Indian election results.
-
-...
-
-[Data](articles/076b11e7.json)
-
-[Extended Data](ext_articles/076b11e7.ext.json)
 
 ---

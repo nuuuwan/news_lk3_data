@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-04 20:53:11**
+As of **2024-06-04 21:03:53**
 
 ## Newspaper Stats
 
-*Scraped **28,405** Articles*
+*Scraped **28,406** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,31 @@ adaderanalk | 3,231
 tamilmirrorlk | 3,335
 virakesarilk | 4,373
 dailymirrorlk | 4,495
-adaderanasinhalalk | 4,567
+adaderanasinhalalk | 4,568
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,404 (100.0%) of 28,405 articles have been extended.
+28,405 (100.0%) of 28,406 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-04 (Tuesday)
+
+### මෝදි දිනයි
+
+*2024-06-04 20:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197396) · `si`
+
+එහෙත් අවසන් ප්‍රතිඵලය පිළිබඳව මෙතෙක් නිල වශයෙන් තොරතුරු වාර්තා වී නොමැත.
+
+මේ අතර භාරතීය ජනතා පක්ෂයේ මූලස්ථානයේ සිට ජනතාව ඇමතූ ඉන්දීය අග්‍රාමාත්‍යවරයා සිය ජයග්‍රහණය වෙනුවෙන් පාක්ෂිකයින්ට ස්තූතිය පුදකළේය.
+
+◼️
+
+[Data](articles/a71c2dae.json)
+
+---
 
 ### Small chick that submerged on a mountain
 
@@ -56,27 +70,33 @@ Thereafter, the number of those who had come to the child had been taken to the 
 
 ---
 
-### මෝදිට වාරණාසියේ ඇති කැමැත්ත අඩුවෙයි
+### Modi falls in Borking
 
 *2024-06-04 19:43:27* · [`adalk`](https://www.ada.lk/breaking_news/මෝදිට-වාරණාසියේ-ඇති-කැමැත්ත-අඩුවෙයි/11-410009) · `si`
 
-2014 වසරේ පටන් ඉන්දීය අගමැතිධුරයේ කටයුතු කරන නරේන්ද්‍ර මෝදි මහතා මෙවර ඉන්දීය මහ මැතිවරණය ජය ගනිමින් තෙවැනි වරටත් ඉන්ද‍ිය අග්‍රමාත්‍ය ධුරයට ‍‍ෙත ්රී පත්ව තිබේ.
+Narendra Modi, India's PM since 2014, won his third consecutive term but faced a significant drop in votes from 2019, losing around 327,000 votes. Despite this, he maintained a strong lead, securing victories in each election cycle with increasing majorities.
 
-ඔහු ඉන්දියාවේ වාරණාසි ආසනය නියෝජනය කරමින් මැතිවරණයට තරග කරනු ලබන අතර 2014ට හා 2019 සාපේක්ෂව 2024දී  වාරණාසියෙන් ඔහු ජයග්‍රහණය කරනු ලබන වැඩි ඡන්ද ප්‍රමාණය අඩුවී තිබීම පිළිබඳව බොහෝ දෙනෙකුගේ අවධානය යොමුව තිබේ.
+🟩
 
-2019ට සාපේක්ෂව 2024දී ඔහු ලබාගත් වැඩි ඡන්ද ප්‍රමාණය 327000කින් පමණ අඩුවි තිබේ.
+Narendra Modi, who is the Prime Minister of India since 2014, has won the Indian Prime Minister for the third consecutive year.
 
-මේ වාරණාසියේ ඔහු 2014, 2019 හා 2024 වසරවලදි ලබාගත් වැඩි ඡන්ද ප්‍රමාණයන්ය...
+He is contesting the election representing India's vehicle seat and in 2024 in 2024 in 2024, he is concerned about the short vote.
 
-2014 දී ඔහු වාරණාසිය වැඩි ඡන්ද 371784 ලබා ගනිමින් ජයග්‍රහණය කළේය.
+He has fell about 327,000 votes in 2024 compared to 2019.
 
-2019 දී ඔහු වාරණාසිය වැඩි ඡන්ද 479505 ලබා ගනිමින් ජයග්‍රහණය කළේය.
+In this borm, he has polished in 2019, 2019 and 2024 ...
 
-2014 දී ඔහු වාරණාසිය වැඩි ඡන්ද 152513 ලබා ගනිමින් ජයග්‍රහණය කළේය.
+In 2014, he won the ballot and win over 371784 votes.
+
+In 2019, he won the barton with a majority of 479505.
+
+In 2014, he won the bake of the injuries with a majority of 152513 votes.
 
 ◼️
 
 [Data](articles/3f5aeed2.json)
+
+[Extended Data](ext_articles/3f5aeed2.ext.json)
 
 ---
 
@@ -2337,27 +2357,5 @@ The Supreme Court has ruled that if the proposed Electricity Board is to pass a 
 [Data](articles/4512599f.json)
 
 [Extended Data](ext_articles/4512599f.ext.json)
-
----
-
-### India election results 2024: BJP-led alliance ahead as Modi eyes win
-
-*2024-06-04 10:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/India-election-results-2024-BJP-led-alliance-ahead-as-Modi-eyes-win/108-284059) · `en`
-
-India, June 4 ( Al Jazeera) - Prime Minister Narendra Modi’s Bharatiya Janata Party (BJP)-led alliance is leading as India counts votes after a mammoth seven-phase election – the world’s largest democratic exercise – that began on April 19 and ended on Saturday.
-
-A party or coalition needs 272 seats to cross the majority mark in the 543-member Lok Sabha, the lower house of India’s parliament.
-
-Exit polls show Modi is well on track to return to power for a third consecutive term, while the Indian National Congress party-led opposition bloc hopes to upstage him.
-
-The Election Commission says a record-breaking 642 million voters cast their ballots in the staggered election as it dismissed opposition concerns over how the votes would be counted.
-
-However, the voter turnout this year was 66.3 percent, about one percentage point lower than 2019.
-
-◼️
-
-[Data](articles/ea37a9f7.json)
-
-[Extended Data](ext_articles/ea37a9f7.ext.json)
 
 ---

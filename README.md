@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-05 00:18:48**
+As of **2024-06-05 00:34:13**
 
 ## Newspaper Stats
 
-*Scraped **28,437** Articles*
+*Scraped **28,439** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,16 +19,48 @@ adalk | 2,423
 adaderanalk | 3,234
 tamilmirrorlk | 3,339
 virakesarilk | 4,379
-dailymirrorlk | 4,502
+dailymirrorlk | 4,504
 adaderanasinhalalk | 4,570
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,437 (100.0%) of 28,437 articles have been extended.
+28,437 (100.0%) of 28,439 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-06-05 (Wednesday)
+
+### Flooding and rainwater running unutilised to sea
+
+*2024-06-05 00:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Flooding-and-rainwater-running-unutilised-to-sea/172-284112) · `en`
+
+As has been usual in our country, at every monsoon season especially during the South-West monsoon flooding, landslides and displacement of citizens have become normal. Every year this newspaper has highlighted this fact and called on authorities to draw up plans to prevent these disasters.
+
+To date, 16 people have died, 5 remain missing and 84,749 persons have been displaced. Sadly, nothing has changed. Have our engineers run out of ideas as to how such disasters could be prevented?
+
+Media reports show 2017 was perhaps the worst year since torrential rains soaked the country in May 2003. The Disaster Management Center reported more than 150 deaths, over 1,800 damaged homes and almost half a million people becoming homeless. The worst-affected area was Bulathsinhala in the Kalutara District.
+
+...
+
+[Data](articles/7a109b5f.json)
+
+---
+
+### JVP Guaranteed Rajapaksa’s Victory in 2005 Ranil-Mahinda:  First Presidential Debate that Never Was
+
+*2024-06-05 00:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/JVP-Guaranteed-Rajapaksas-Victory-in-2005-Ranil-Mahinda-First-Presidential-Debate-that-Never-Was/172-284113) · `en`
+
+It was reported that Chief Justice Sarath N. Silva secretly administered the oath of office to President Kumaratunga for a second time in August 2000. CBK initially took oaths on December 22, 1999. The statement unsettled the UNP, prompting strategic discussions. They challenged the claim that the President could remain in office until 2006.
+
+The presidential election to select Sri Lanka’s fifth president occurred on November 17, 2005. There was a debate when President Kumaratunga argued that her term ended in 2006 because she was sworn in for a second time in 2000. It was brought before the Supreme Court. On August 26, 2005, the Supreme Court decided that it should take place in 2005.
+
+...
+
+[Data](articles/e4b31104.json)
+
+---
 
 ### 2024-06-04 (Tuesday)
 
@@ -2255,47 +2287,5 @@ He said he did not put his hand on him and that he only touched the collar of th
 [Data](articles/711261db.json)
 
 [Extended Data](ext_articles/711261db.ext.json)
-
----
-
-### LAUGFS GAS PEOPLE
-
-*2024-06-04 12:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197379) · `si`
-
-LAUGFS reduced prices: 12.5kg gas cylinder by Rs., 5kg by Rs. 1,477.
-
-🟩
-
-Accordingly, the price of a 12.5kg laughs household gas cylinder was reduced by Rs.
-
-The price of a 5kg gas cylinder was reduced by Rs. 1,477.
-
-◼️
-
-[Data](articles/b75b3e9e.json)
-
-[Extended Data](ext_articles/b75b3e9e.ext.json)
-
----
-
-### How to get employment in Local Authorities
-
-*2024-06-04 12:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197378) · `si`
-
-State Minister Janaka Wakkumbura announced in Parliament that all non-permanent employees, including casual, substitution, and contract workers, will be made permanent. He urged local authorities to confirm these employees by the 15th, promising swift processing for their permanent appointments.
-
-🟩
-
-State Minister Janaka Wakkumbura says that all the employees who have not confirmed all non-permanent employees have been permanent employees.
-
-The State Minister made this statement in response to a question raised by a question in the parliament today (04).
-
-"The casual, substitution and contract Foundation that did not confirm the 8,400 people informed by all the local commissioners of yesterday to the 15th to confirm them before the 15th.. Then we give a quick day and gives their permanent appointment. "
-
-◼️
-
-[Data](articles/dace40ea.json)
-
-[Extended Data](ext_articles/dace40ea.ext.json)
 
 ---

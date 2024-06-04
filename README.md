@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-04 21:18:49**
+As of **2024-06-04 21:34:26**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,568
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,406 (100.0%) of 28,409 articles have been extended.
+28,409 (100.0%) of 28,409 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -70,6 +70,8 @@ According to the report issued by the DMC, 13 districts have been affected, and 
 
 [Data](articles/69ca6d9f.json)
 
+[Extended Data](ext_articles/69ca6d9f.ext.json)
+
 ---
 
 ### Small chick that submerged on a mountain
@@ -108,6 +110,8 @@ Police investigations revealed that a 34-year-old married woman from Wattala had
 
 [Data](articles/47f47a15.json)
 
+[Extended Data](ext_articles/47f47a15.ext.json)
+
 ---
 
 ### Hope in every package...
@@ -119,6 +123,8 @@ As floodwaters engulf the streets in Gampha, a dedicated man wades through the d
 ◼️
 
 [Data](articles/e4a85ce7.json)
+
+[Extended Data](ext_articles/e4a85ce7.ext.json)
 
 ---
 

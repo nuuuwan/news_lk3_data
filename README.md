@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-04 13:18:53**
+As of **2024-06-04 13:34:26**
 
 ## Newspaper Stats
 
-*Scraped **28,334** Articles*
+*Scraped **28,338** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 256
+colombotelegraphcom | 257
 dbsjeyarajcom | 270
 bbccomsinhala | 277
 newsfirstlk | 363
@@ -16,49 +16,89 @@ islandlk | 1,533
 economynextcom | 1,611
 dailyftlk | 1,669
 adalk | 2,415
-adaderanalk | 3,220
+adaderanalk | 3,221
 tamilmirrorlk | 3,329
 virakesarilk | 4,358
-dailymirrorlk | 4,481
+dailymirrorlk | 4,483
 adaderanasinhalalk | 4,552
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,332 (100.0%) of 28,334 articles have been extended.
+28,334 (100.0%) of 28,338 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-04 (Tuesday)
 
-### හිත්පිත් නැති අමානුෂිකයෙක් නොදරුවාට දුන් දඬුවම
+### Price of Laugfs LP gas also reduced
+
+*2024-06-04 13:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/99653/price-of-laugfs-lp-gas-also-reduced) · `en`
+
+Laugfs Gas has also decided to reduce the price of it’s LP gas cylinders with effect from midnight today (4).
+
+Accordingly, the price of a 12.5 kg cylinder has been reduced by Rs. 160, bringing the new price to Rs. 3,680.
+
+Meanwhile, the price of a 05 kg cylinder has been reduced by Rs. 65, with it now priced at Rs. 1,477.
+
+◼️
+
+[Data](articles/5cc4ba42.json)
+
+---
+
+### Laugfs gas prices reduced
+
+*2024-06-04 13:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Laugfs-gas-prices-reduced/108-284069) · `en`
+
+Colombo, June 4 (Daily Mirror) - Laugfs Gas PLC today announced a substantial reduction in the prices of its Laugfs-branded domestic liquefied petroleum gas (LPG), effective midnight.
+
+As of today, the price of a 12.5kg domestic cylinder, under the Laugfs brand, will be reduced by Rs.160 to an MRP of Rs.3,680, within the Colombo district.
+
+The 5kg cylinder will be reduced by Rs.65 and the new retail price will be Rs. 1,477
+
+The prices in the other areas and pack sizes will be adjusted accordingly.
+
+◼️
+
+[Data](articles/ae1613a8.json)
+
+---
+
+### The punishment that the inhumane man who was not inhibited was not in the gathering
 
 *2024-06-04 12:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197380) · `si`
 
-දරුවන් මල් වගේ නම් එවන් මලක් හිත්පිත් නැතිව තලා දමන්නට පුළුවන්ද?
+In a society where even animals are protected from harm, a young child faces brutal attacks, sparking outrage on social media. The child, around four to five years old, is likened to a fragile flower, vulnerable and innocent. Despite the severity of the abuse, the child's father remains unidentified, and the family involved has disappeared from the area after being contacted by the Child Protection Authority. This incident highlights the shocking disregard for human life, especially the most vulnerable, within our communities.
 
-නරුම වැඩිහිටියෙකු අතින් තැලෙන පුංචි මලක් ගැන අපිට වාර්තාවන්නේ වැලිඔය ප්‍රදේශයෙනි.
+🟩
 
-පෙනුමෙන්, මේ පුංචි දරුවාගේ වයස අවුරුදු හතරක් හෝ පහක් පමණ වෙනවා ඇත.
+If the children are like flowers, can such a flower crushed without Such a flower?
 
-මේ අමානුෂික ප්‍රහාරයේ දර්ශන පෙළක් සමාජ මාධ්‍ය ඔස්සේ මේ දිනවල සංසරණය වේ.
+We have recorded a small flower of a cynical an adult.
 
-කුසට අහරක් ගන්නා විට සතෙකුටවත් පහර නොදෙන සමාජයක, බත්පිඬක් මුව තුළ රුවාගත් මේ පුංචි දරුපැටියාට අමානුෂික ලෙස පහරදෙන්නේ කෙසේ ද යන්න මවිතයකට කරුණකි.
+As a look, this little child is about four to five years old.
 
-වැරෙන් එල්ල කළ පහරින් දරුවා ඉවතට විසිවන අතර, පුංචි පැටියා අඬ අඬාම නිවසේ කොණකට ගොස් බත් කටක් අහුලා කන ආකාරය සංවේදී දසුනකි.
+A series of inhuman attack is circulated these days through social media.
 
-කුසගින්නට වඩා හිතේ ගින්න දැඩි වුණත් මේ දරුවාට පිහිටවන්නේ කවුද?
+It is amazing how to brutally attack this little work that was used in a society that would not attack an animal when he was taken away.
 
-මෙම පහරදීම සිදුකරන පුද්ගලයා දරුවාගේ පියාද යන්න පිළිබඳ තවදුරටත් තහවුරු කරගෙන නොමැති බව පොලීසිය පවසයි.
+The child throws away the child with the attack, and how a little chick will go to a shell to go to the house and pays a bowl.
 
-මේ සම්බන්ධයෙන් ළමා ආරක්ෂක අධිකාරියෙන් අප කළ විමසීමකදී ඔවුන් සඳහන් කළේ, සිද්ධියට සම්බන්ධ පවුල මේවන විට ප්‍රදේශයෙන් පළා ගොස් ඇති බවය.
+Despite the hunger, who will be established for this child?
 
-කෙසේ වෙතත් හයක් හතරක් නොතේරෙන මෙවන් පුංචි දරුවෙකුට අමානුෂිකව පහරදුන් මේ නොමිනිසාට නීතිය ක්‍රියාත්මක වන තෙක් අපි අවධානයෙනි.
+The victim has not yet been proved to be the child's father.
+
+When contacted by the Child Protection Authority, the family associated with the incident has fled the area.
+
+However, this is not the case with the law to be brutally assaulted by the law.
 
 ◼️
 
 [Data](articles/2274fc42.json)
+
+[Extended Data](ext_articles/2274fc42.ext.json)
 
 ---
 
@@ -591,6 +631,30 @@ Additional Solicitor General Viveka Siriwardena, representing the Attorney Gener
 [Data](articles/e198df58.json)
 
 [Extended Data](ext_articles/e198df58.ext.json)
+
+---
+
+### India election results 2024: Modi’s BJP may fall short of majority
+
+*2024-06-04 11:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/India-election-results-2024-Modis-BJP-may-fall-short-of-majority/155-284059) · `en`
+
+01.05 PM -The Congress party and its ally, the Samajwadi Party, are leading on half the seats in the northern state, which has the most Lok Sabha seats in the country.
+
+The SP is leading in 37 seats, with the BJP in second place, ahead in 32 seats. The Congress is the lead in 7 seats.
+
+In the 2014 election, the Modi-led BJP won 62 seats in UP, and 71 in the election before that in 2014.
+
+In area, it is nearly as big as the United Kingdom and its 241 million residents are more than the total population of neighbouring Pakistan or Brazil.
+
+Winning UP is a key determinant of who rules nationally in New Delhi.
+
+12.05 PM - Veteran actor Raj Babbar is leading in Gurgaon seat on Congress ticket by over 30,000 seats
+
+11.58 AM -Indian Prime Minister Narendra Modi's alliance raced to a majority in early vote counting trends in the general election, but the numbers were well short of the landslide predicted in exit polls. Opposition gains are higher than expected.
+
+...
+
+[Data](articles/54af9f34.json)
 
 ---
 
@@ -1552,6 +1616,20 @@ Police say that the death has been caused by the death of an unauthorized power 
 
 ---
 
+### Proposed Enactment Of The Economic Transformation Bill
+
+*2024-06-04 07:30:34* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/proposed-enactment-of-the-economic-transformation-bill/) · `en`
+
+An Open Letter Submission to the President, Minister of Finance, Chief of Staff of the President, Minister of Justice, Chairman Public Finance Committee, Secretary to the Treasury, Governor Central Bank, Auditor General, Attorney General, Legal Draftsman, Secretary General Parliament, Diagnostics Team- International Monetary Fund
+
+This submission is made in the long-term sustainable interests of Sri Lanka and all its people; and sets out some critical aspects to be considered by you, prior to proceeding with the enactment of the proposed Economic Transformation Bill.
+
+...
+
+[Data](articles/a4680ad0.json)
+
+---
+
 ### University non-academic employees today
 
 *2024-06-04 07:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197361) · `si`
@@ -2225,97 +2303,5 @@ The Construction Power and Energy Expo is Sri Lanka’s premier exhibition in th
 [Data](articles/89d3c3bc.json)
 
 [Extended Data](ext_articles/89d3c3bc.ext.json)
-
----
-
-### Opposition to efforts
-
-*2024-06-04 02:18:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்களை-பிற்போடு-முயற்சிகளுக்கு-எதிர்ப்பு/175-338390) · `ta`
-
-Civil society groups, including the United National Party (UNP), have protested the Sri Lankan government's election regulation efforts, calling them anti-democratic. The UNP's general secretary criticized the postponement of elections. A letter was submitted to the United Nations Office in Colombo, urging international intervention to safeguard democracy and prevent future crises.
-
-🟩
-
-Civil community members have handed over a letter to the United Nations Office in Colombo to protest the government's efforts to regulate the elections.
-
-In their letter, the United National Party (UNP) general secretary Palitha Ranga Bandara has stated that the general secretary of the United National Party, Palitha Ranga Bandara has stated on the postponement of the general and presidential election as an anti -democratic view.
-
-The letter has been handed over to the United Nations Office for Sri Lanka, including the National Citizens Organization of the National Civil Organization, including the National Civil Organization's Association.
-
-In their letter, the UNP general secretary's general secretary said in their letter to the people of the Sri Lankan people that the civil society representatives have said that this is the most contradictory in the community.
-
-...
-
-[Data](articles/73c5a15c.json)
-
-[Extended Data](ext_articles/73c5a15c.ext.json)
-
----
-
-### Switch in policy needed: Tobacco control in Sri Lanka a failed experiment
-
-*2024-06-04 02:18:28* · [`dailyftlk`](https://www.ft.lk/opinion/Switch-in-policy-needed-Tobacco-control-in-Sri-Lanka-a-failed-experiment/14-762579) · `en`
-
-Authorities and lobbyists continue to focus solely on the legitimate cigarette market, completely overlooking the illicit segment
-
-Need arising to protect public and children from regressive policy and inaction
-
-Sri Lanka cannot prosper in the backdrop of vested policies and exhibitionism
-
-World No Tobacco Day was celebrated in many parts of the world over the weekend, and despite some lip service to the cause here in Sri Lanka, the actualities have it all up in smoke. On paper, the country espouses to have its tobacco control policy right, but it is its practice that ultimately determines success and here it has failed.
-
-...
-
-[Data](articles/e8927ca9.json)
-
-[Extended Data](ext_articles/e8927ca9.ext.json)
-
----
-
-### Switch in policy needed: Tobacco control in Sri Lanka a failed experiment
-
-*2024-06-04 02:18:28* · [`dailyftlk`](https://www.ft.lk/columns/Switch-in-policy-needed-Tobacco-control-in-Sri-Lanka-a-failed-experiment/4-762579) · `en`
-
-Authorities and lobbyists continue to focus solely on the legitimate cigarette market, completely overlooking the illicit segment
-
-Need arising to protect public and children from regressive policy and inaction
-
-Sri Lanka cannot prosper in the backdrop of vested policies and exhibitionism
-
-World No Tobacco Day was celebrated in many parts of the world over the weekend, and despite some lip service to the cause here in Sri Lanka, the actualities have it all up in smoke. On paper, the country espouses to have its tobacco control policy right, but it is its practice that ultimately determines success and here it has failed.
-
-...
-
-[Data](articles/ffda686d.json)
-
-[Extended Data](ext_articles/ffda686d.ext.json)
-
----
-
-### Stringent laws to mitigate impacts from natural disasters
-
-*2024-06-04 02:15:45* · [`dailyftlk`](https://www.ft.lk/news/Stringent-laws-to-mitigate-impacts-from-natural-disasters/56-762577) · `en`
-
-State Minister of Defence Premitha Bandara Tennakoon outlines plans to introduce dry dam solution, new building code, policy for tree planting along roadsides
-
-Highlights rules and regulations in place for public safety, mitigate adverse impacts on economy
-
-Stresses on importance of necessary permits from National Building Research Organisation for hill country housing and buildings to ensure safety
-
-Asserts neglect of safety regulations lead to rising costs in relief efforts during natural disasters
-
-Insists on introducing Building Code to ensure quality, safety of high-rise housing
-
-Proposes policy for planting trees along roadsides to mitigate risks from severe weather
-
-Announces modernisation of Meteorology Department is on with funds by World Bank and technical support by JICA
-
-Meteorology Department Director-General Athula Karunanayake says JICA to gift Doppler weather radar soon
-
-...
-
-[Data](articles/f28afc28.json)
-
-[Extended Data](ext_articles/f28afc28.ext.json)
 
 ---

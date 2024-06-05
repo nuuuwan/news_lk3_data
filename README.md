@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-05 11:53:55**
+As of **2024-06-05 12:06:42**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,584
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,542 (100.0%) of 28,549 articles have been extended.
+28,549 (100.0%) of 28,549 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,6 +50,8 @@ However, he said that by the end of May there was a slight increase in patients 
 
 [Data](articles/20a9ed64.json)
 
+[Extended Data](ext_articles/20a9ed64.ext.json)
+
 ---
 
 ### Deadline to submit applications for re-scrutiny of A/L results announced
@@ -64,19 +66,27 @@ Candidates are requested to submit their applications online through the departm
 
 [Data](articles/cdf89a3c.json)
 
+[Extended Data](ext_articles/cdf89a3c.ext.json)
+
 ---
 
-### කාන්තාවන් රාජ්‍ය නායකයින් ලෙස කටයුතු කරන රටවල්
+### Countries of women as heads of state
 
 *2024-06-05 11:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197414) · `si`
 
-මෙක්සිකෝවේ පසුගියදා පැවති ජනාධිපතිවරණයෙන් ජයලැබූ Claudia Sheinbaum එරට පළමු ජනාධිපතිවරිය ලෙස ඉතිහාසගත වූවාය.
+Claudia Sheinbaum became Mexico's first female president, bringing the total number of countries led by women to 26 worldwide.
 
-මේ වනවිට ලොව රටවල් 26 ක රාජ්‍ය නායකයා ලෙස කටයුතු කරන්නේ කාන්තාවන් ය.
+🟩
+
+The first president was the first president of the Claudia Sheinbaum in Mexico recently.
+
+Women are the leader of 26 countries in the world.
 
 ◼️
 
 [Data](articles/33917415.json)
+
+[Extended Data](ext_articles/33917415.ext.json)
 
 ---
 
@@ -96,41 +106,59 @@ The Minister said steps have been taken to estimate the damages caused to the ho
 
 [Data](articles/ea192ae1.json)
 
+[Extended Data](ext_articles/ea192ae1.ext.json)
+
 ---
 
-### හෙළ සිනමාව කළ එළිකළ රවින්ද්‍රය
+### Hela City Ravadder
 
 *2024-06-05 11:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197413) · `si`
 
-සිංහල සිනමාවේ අද්වතීය රංග පෞරුෂය වන රවින්ද්‍ර රන්දෙණිය මහතාගේ 79 වන ජන්ම දිනය අදට යෙදී තිබේ.
+Ravindra Randeniya celebrated his 79th birthday and 50 years in film, honored by figures like Bandula Gunawardena and Sajith Premadasa. Known for roles in films like "Susanna" and "Sathuta", he won Best Actor awards in 1984, 1985, and 1989. Born in Dalugama, Kelaniya, he studied at St. Francis College and acted in plays before joining Hela Cinema, where he played beloved and heroic characters.
 
-එමෙන්ම ඔහුගේ සිනමා දිවියට ද අදට වසර 50ක් සපිරීම නිමිත්තෙන් රජය වෙනුවෙන් බන්දුල ගුණවර්ධන මහතා සහ විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා ද පාර්ලිමේන්තුවේ දී සුබ පැතුම් එක්කළහ.
+🟩
 
-මෙහිදී විශේෂ යෝජනාවක් කරමින් සජිත් ප්‍රේමදාස මහතා පවසා සිටියේ, කලා කේෂ්ත්‍රයට රවින්ද්‍ර රන්දෙණිය මහතා සිදුකළ අමරණීය සේවය පිළිබඳ සියලුදෙනාගේ සුභාෂිංශනය පිරිනැමිය යුතු බවය.
+The 79th birthday of Ravindra Randeniya, Ravindra Ravindra, has been played today.
 
-අඩසිය වසරක රංග කාර්යය අගයමින් "රවී - සිනමා අඩ සියවසක ආත්ම භාෂණය" නමින් විශේෂ උත්සවයක් අද (5) පස්වරුවේ කොළඹ බණ්ඩාරනායක අනුස්මරණ ජාත්‍යන්තර සම්මන්ත්‍රණ ශාලාවේ දී පැවැත්වීමට නියමිතය.
+Mr. Bandula Gunawardena and Opposition Leader Sajith Premadasa also joined the government to mark the 50 years of his film.
 
-1970 සහ 1980 දශකවලදී සිනමා කේෂ්ත්‍රයේ ඉතා ජනප්‍රිය තලයක සිටි රවින්ද්‍ර රන්දෙණිය මහතා 1972 වසරේ දී ලෙස්ටර් ජේම්ස් පීරිස් මහතාගේ දෑස නිසා චිත්‍රපටයෙන් වඩාත් ජනාදරයට පාත්‍ර විය.
+Special Suspect Small
 
-වසර කිහිපයකදීම ඔහු සරසවිය සම්මාන උළෙලේදී හොඳම නළුවා ලෙස සම්මානයට පාත්‍ර වුයේය, 1984 (දඩයම), 1985(මායා), 1989 (සඳකඩ පහණ), 1990 (සිරි මැඳුර) යන සිනමා පට සඳහාය.
+Party is a special event named 'Ravi - film' Ravi - film 'Ravi and a half century self-language "at the Bandaranaike Memorial International Conference Hall today (5).
+
+In 1972, Mr. Ravindra Randeniya, a very popular layer of the film, was more populated in 1972 due to the eyes of Lester James Peiris in 1972.
+
+He was awarded the best actor in the University awards for several years, 1984 (hunt), 1985 (Maya), 1989.
+
+Born in the Dalugama area in Kelaniya, Ravindra Randeniya educated at St. Francis College, Dalugama.
+
+The favorite hobby of Bonipus Perera, which was played in the platform of St. Benedict's Vidyalaya, found the manulle in the platform of St. Benedict's College.
 
 ...
 
 [Data](articles/24ae4cd5.json)
 
+[Extended Data](ext_articles/24ae4cd5.ext.json)
+
 ---
 
-### මැයි 15 සිට ආපදා මරණ 30ක්
+### 30 deaths for disaster from May 15
 
 *2024-06-05 11:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197412) · `si`
 
-අයහපත් කාලගුණික තත්ත්වය මයි මස 15 වනදා සිට මේදක්වා පුද්ගල මරණ 30ක් වාර්තා වී තිබේ.
+Inclement weather caused 30 fatalities starting May 15, as announced by Defense Minister Pipaina Bandara Tennakoon in Parliament on May 5.
 
-ආරක්ෂක රාජ්‍ය අමාත්‍ය ප්‍රමිත බණ්ඩාර තෙන්නකෝන් මහතා අද (05) පාර්ලිමේන්තුවේදී ප්‍රකාශයක් සිදුකරමින් මේ බව සඳහන් කළේය.
+🟩
+
+Inclement weather conditions, 30 deaths have been reported from the 15th of this month.
+
+Defense Minister Pipaina Bandara Tennakoon said this in Parliament today (05).
 
 ◼️
 
 [Data](articles/e62c2e39.json)
+
+[Extended Data](ext_articles/e62c2e39.ext.json)
 
 ---
 
@@ -266,21 +294,29 @@ They said due to the derailment, the train services will operate with a consider
 
 ---
 
-### මූල්‍ය අරමුදල සමඟ වන එකඟතාවන් කඩළොත් රට ආපස්සට යනවා
+### The country is going back to the agreement with the Monetary Fund
 
 *2024-06-05 10:32:29* · [`adalk`](https://www.ada.lk/breaking_news/මූල්‍ය-අරමුදල-සමඟ-වන-එකඟතාවන්-කඩළොත්-රට-ආපස්සට-යනවා/11-410014) · `si`
 
-එම එකඟතාවන් නීතිගත කරමින් ඉදිරිපත් කර ඇති ආර්ථික පරිවර්තන කෙටුම්පතට සහාය ලබාදීම සියලුදෙනාගේ වගකීමක්.නිකරුනේ ප්‍රකාශ සිදු නොකර, රටේ ආර්ථිකය පිළිබඳ අවබෝධයකින් කථා කිරීම විපක්ෂයේ වගකීමයි.
+The government, led by President Ranil Wickremesinghe, is returning to its agreement with the International Monetary Fund (IMF) and has introduced an economic stabilization bill. The opposition, criticized for avoiding economic challenges, is urged to engage constructively. The president highlights the government's efforts to revive the economy, including distributing rice to low-income families and implementing agricultural programs. The IMF supports Sri Lanka's economic recovery plan, aiming for economic growth and unemployment reduction. The government stresses the importance of meeting these targets to maintain IMF backing.
 
-විපක්ෂය, විපක්ෂයේ සිටින්නේ අභියෝග භාර නොගෙන සම්ප්‍රදායික දේශපාලනයේ නිරත වූ නිසයි.
+🟩
 
-ජාත්‍යන්තර මූල්‍ය අරමුදල සමඟ වන එකඟතාවන් කඩකළහොත් නැවත රට ආපස්සට යන බවත් එබැවින් එම සියලු එකඟතාවන් නීති ගත කරමින් පාර්ලිමේන්තුවට ඉදිරිපත් කර ඇති ආර්ථික පරිවර්තන පනත් කෙටුම්පතට සහාය ලබාදීම සියලුදෙනාගේ වගකීම බවත් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අවධාරණය කළේය.
+It is the responsibility of the opposition without making statements of the economy of the country, without making statements to the economic translation bill, which is being taken legalization.
 
-ජාත්‍යන්තර මූල්‍ය අරමුදල සමඟ වන එකඟතා අනුව රටේ ආර්ථිකය ස්ථාවරව පවත්වාගෙන යාම වෙනුවෙන් සපුරාගත යුතු ආර්ථික ඉලක්ක ගණනාවක් පවතින බවද පෙන්වාදුන් ජනාධිපතිවරයා එම ඉලක්ක කඩ කිරීම යනු රටේ ආර්ථිකය විනාශ කිරීමක් වන බැවින් දේශපාලන අරමුණු වෙනුවෙන් වේදිකාවල ප්‍රකාශ සිදු නොකර පවතින රාමුව තුළ පමණක් කතා කිරීම විපක්ෂයේ වගකීම වන බවද සඳහන් කළේය.
+The opposition is in traditional politics without taking the challenges.
+
+President Ranil Wickremesinghe stressed that if the in agreements with the International Monetary Fund would return to the country, so the economic translation bill, which is being taken, legalizing, will be submitted to Parliament.
+
+The Opposition is a number of economic goals that the economy of the country is a result of the economic goals of the country, as the country's economy is a destruction of the country as the country's economy is a destruction of the country.Mentioned.
+
+The President said that the government had accepted the challenge of not having the responsibilities of the country, that the government has assumed the challenge and asks everyone that the government has shown the effective results today.
 
 ...
 
 [Data](articles/d9d2adb8.json)
+
+[Extended Data](ext_articles/d9d2adb8.ext.json)
 
 ---
 

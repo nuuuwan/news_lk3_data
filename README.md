@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-05 22:34:28**
+As of **2024-06-05 22:52:04**
 
 ## Newspaper Stats
 
-*Scraped **28,653** Articles*
+*Scraped **28,658** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,55 @@ islandlk | 1,542
 economynextcom | 1,631
 dailyftlk | 1,687
 adalk | 2,448
-adaderanalk | 3,254
+adaderanalk | 3,255
 tamilmirrorlk | 3,366
 virakesarilk | 4,406
-dailymirrorlk | 4,542
+dailymirrorlk | 4,546
 adaderanasinhalalk | 4,604
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,652 (100.0%) of 28,653 articles have been extended.
+28,653 (100.0%) of 28,658 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-05 (Wednesday)
+
+### President Ranil reiterates commitment towards net zero on World Environment Day
+
+*2024-06-05 22:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/99689/president-ranil-reiterates-commitment-towards-net-zero-on-world-environment-day) · `en`
+
+President Ranil Wickremesinghe announced that Sri Lanka is committed to achieving net zero carbon emissions by 2040 while pursuing its economic goals. He noted that Sri Lanka is the first country in Asia to incorporate the global objective of zero carbon emissions into its national policy.
+
+He made these remarks during the World Environment Day celebrations held at the Presidential Secretariat on Wednesday (05).
+
+The President emphasized that Sri Lanka’s approach to climate change and environmental issues goes beyond traditional programs and is now integrated into the country’s economic and foreign policies.
+
+He also highlighted that the upcoming Climate Change Act and the establishment of the Climate Change Centre will create a comprehensive legal framework for addressing environmental and climate change issues, a framework that is unique compared to other countries.
+
+...
+
+[Data](articles/47b8540c.json)
+
+---
+
+### Modi Invites President Wickremesinghe to swearing-in ceremony
+
+*2024-06-05 21:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Modi-Invites-President-Wickremesinghe-to-swearing-in-ceremony/108-284198) · `en`
+
+June 05- Indian Prime Minister Narendra Modi has invited Sri Lankan President Ranil Wickremesinghe to his swearing-in ceremony, which the President has accepted, according to the President’s Media Division.
+
+During their phone conversation, President Wickremesinghe congratulated Modi on the BJP-led NDA's electoral victory.
+
+President Wickremesinghe is expected to visit India for the ceremony, scheduled for June 8, 2024.
+
+◼️
+
+[Data](articles/c8697d6d.json)
+
+---
 
 ### UN agencies, INGOs pledge to further assist flood victims in Sri Lanka
 
@@ -129,6 +163,26 @@ Seven tropical tea varieties from various regions in the country were launched t
 [Data](articles/c856ad01.json)
 
 [Extended Data](ext_articles/c856ad01.ext.json)
+
+---
+
+### Two underworld gangsters arrested
+
+*2024-06-05 20:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Two-underworld-gangsters-arrested/108-284194) · `en`
+
+Two underworld gangsters operating the drug trafficking network in the country on the directions of their leaders known named 'Alagoram Jothi Ruban' and 'Sedawatte Kasun' currently in hiding in Dubai, were arrested today.
+
+The arrest was made by the Organized Crime Investigation Unit of the CID during raids in Kotuwila in Wellampitiya and Meegahawatta in Avissawella.
+
+Police said the two suspects were close confidantes of the underworld leaders hiding in Dubai and responsible for a series of crimes and drug trafficking in Sri Lanka.
+
+Under interrogation, one of the suspects provided information leading to the recovery of a foreign made revolver and 54 rounds of live ammunition that had been buried behind a house belonging to his brother in the Kotuwila area.
+
+A stock of 13.680 grams of heroin was recovered from a house in Kumbukgetewatta in Weliweriya on information provided by the suspect arrested from Migathawatta in Avissawella.
+
+◼️
+
+[Data](articles/9d981eed.json)
 
 ---
 
@@ -486,19 +540,27 @@ Accordingly, the price of a bunch, rice and rice parcel has been reduced, the pr
 
 ---
 
-### නවීන රේඩාර් පද්ධති ලංකාවට නෑ
+### Sri Lanka does not have modern radar systems
 
 *2024-06-05 18:07:14* · [`adalk`](https://www.ada.lk/breaking_news/නවීන-රේඩාර්-පද්ධති-ලංකාවට-නෑ/11-410032) · `si`
 
-වර්ෂාව සම්බන්ධයෙන් නිවැරදිම පුරෝකතන ලබා දීමට ඉතා නවීන රේඩාර් පද්ධති තිබුණානම් පසුගිය දිනවලදි මිලි මීටර් 400 ක් තරම් වර්ෂාවක් ඇද වැටෙන බව ප්‍රකාශ කරන්නට ඉඩ තිබූනු බවත්  තමන් දන්නා තරමින් නවීන රේඩාර් පද්ධති මෙරට නොමැති බවත් භූ ගර්භ විද්‍යාව පිළිබඳ සම්මානිත මහාචාර්ය අතුල සේනාරත්න මහතා පවසයි. අද මහනුවරදි පැවති මාධ්‍ය හමුවකදි ඔහු මේ බව පැවැසීය.
+Sri Lanka lacks advanced radar systems, affecting its ability to accurately predict heavy rainfall like the expected 400mm. Despite this, officials use current equipment to make the best predictions possible. Prof. Athula Senaratne highlights the importance of data for accurate forecasting but notes the challenge of predicting such significant rainfall without modern technology.
 
-කෙසේ වෙතත් දැනට පවතින උපකරණ අනුව බොහෝ දුරට නිවැරදි පුරෝකතන ලබා දීමට නිලධාරීන් සමත්ව තිබෙන බවත් මෙතරම් විශාල වර්ෂාවක් මීට කලින් ලැබි නොතිබුණ බවත් ඔහු පැවැසීය.
+🟩
 
-කලින් විශාල වර්ෂාපතන ඇති වි තිබුනත් වර්ෂාපතනය මනින නිවැරදි උපකරණ ඒ සමයේ තිබුණා ද කියන ප්‍රශ්නය තිබෙන බවද මහාචාර්‍යවරයා සෙඳහන් කෙල්ය.
+Antily Professor Athula Senaratne says that there were no sophisticated radar systems that he would have stated that he would fall as much as 400 millions of rain in the rainfall.. He was speaking at a media briefing in a murder held today.
+
+However, he said that the officials were able to provide the most accurate predictions, according to the present equipment, that many of the rain had not received.
+
+The professor states that the question of the corresponding equipment that measures the rainfall, despite the previous rainfall, there was the correct equipment that measured rainfall.
+
+"Data should be obtained to predict rainfall. There is a lack of. 400 millilic meters is a large rainfall. If the area was entitled to the reservoirs, all reservoirs would have been exhausted if the amount of water is received per square meter. It is not surprising that the water flows along the black river through the black river in the southwest region.
 
 ...
 
 [Data](articles/14c54339.json)
+
+[Extended Data](ext_articles/14c54339.ext.json)
 
 ---
 
@@ -1077,6 +1139,18 @@ A brief ceremony was organized at the Colombo Fort Presidential Palace to offici
 [Data](articles/a2ee0316.json)
 
 [Extended Data](ext_articles/a2ee0316.ext.json)
+
+---
+
+### Opportunities for women...
+
+*2024-06-05 16:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Opportunities-for-women/110-284201) · `en`
+
+A special session of the Ceylon Women's Organization was held at the Radisson Hotel, Colombo recently. The digitalization of the organization took place, opening opportunities for all women scattered all over Sri Lanka to join this organization.
+
+◼️
+
+[Data](articles/625197a4.json)
 
 ---
 
@@ -2197,83 +2271,5 @@ It is noteworthy that Marine Police are conducting an investigation at the Marin
 [Data](articles/23765e39.json)
 
 [Extended Data](ext_articles/23765e39.ext.json)
-
----
-
-### 30 deaths for disaster from May 15
-
-*2024-06-05 11:28:13* · [`adalk`](https://www.ada.lk/breaking_news/මැයි-15-දා-සිට-ආපදා-මරණ-30ක්/11-410018) · `si`
-
-On May 15, adverse weather caused 30 fatalities. Minister Pinhase Bandara Tennakoon announced this in Parliament on May 5.
-
-🟩
-
-Official Minister Pinhase Bandara Tennakoon said that 30 deaths have been reported from the 15th of the adverse weather conditions.. He was speaking at a statement in Parliament today (05).
-
-◼️
-
-[Data](articles/0f6c0c54.json)
-
-[Extended Data](ext_articles/0f6c0c54.ext.json)
-
----
-
-### Over 25,000 dengue cases reported so far in 2024
-
-*2024-06-05 11:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/99674/over-25000-dengue-cases-reported-so-far-in-2024) · `en`
-
-Over 25,000 cases of dengue infections have been recorded within the five months so far this year, according to the National Dengue Control Unit (NDCU).
-
-The Director of the National Dengue Control Unit, Dr. Sudath Samaraweera stated that dengue breeding sites being detected in most of the schools is a dangerous situation.
-
-Dr. Samaraweera also stated that there had been a significant surge in dengue cases last year, with nearly 90,000 reported by the end of 2023.
-
-“Similarly, a large number of dengue cases were reported in January this year exceeding 10,000. In total, over 25,000 cases have been reported in the first five months of this year. After January, the number of patients gradually declined in February, March and April.”
-
-However, he said that by the end of May there was a slight increase in patients once again while there is a risk of an increase in patients in the future with the prevailing monsoon rains.
-
-...
-
-[Data](articles/20a9ed64.json)
-
-[Extended Data](ext_articles/20a9ed64.ext.json)
-
----
-
-### Deadline to submit applications for re-scrutiny of A/L results announced
-
-*2024-06-05 11:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/99673/deadline-to-submit-applications-for-re-scrutiny-of-al-results-announced-) · `en`
-
-Applications for the re-scrutiny of 2023 (2024) G.C.E. Advanced Level Examination results will be accepted from 05 June to 19 June and will only be accepted online, the Department of Examinations announced.
-
-Candidates are requested to submit their applications online through the department’s websites: www.doenets.lk or www.onlineexams.gov.lk
-
-Guidelines for application of re-scrutiny of A/L results by Adaderana Online on Scribd
-
-◼️
-
-[Data](articles/cdf89a3c.json)
-
-[Extended Data](ext_articles/cdf89a3c.ext.json)
-
----
-
-### Countries of women as heads of state
-
-*2024-06-05 11:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197414) · `si`
-
-Claudia Sheinbaum became Mexico's first female president, bringing the total number of countries led by women to 26 worldwide.
-
-🟩
-
-The first president was the first president of the Claudia Sheinbaum in Mexico recently.
-
-Women are the leader of 26 countries in the world.
-
-◼️
-
-[Data](articles/33917415.json)
-
-[Extended Data](ext_articles/33917415.ext.json)
 
 ---

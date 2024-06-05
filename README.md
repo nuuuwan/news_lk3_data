@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-06 03:19:04**
+As of **2024-06-06 03:34:34**
 
 ## Newspaper Stats
 
-*Scraped **28,686** Articles*
+*Scraped **28,687** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,635
 dailyftlk | 1,687
 adalk | 2,448
 adaderanalk | 3,255
-tamilmirrorlk | 3,372
+tamilmirrorlk | 3,373
 virakesarilk | 4,414
 dailymirrorlk | 4,553
 adaderanasinhalalk | 4,606
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,606
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,686 (100.0%) of 28,686 articles have been extended.
+28,686 (100.0%) of 28,687 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -103,6 +103,22 @@ The 50th anniversary of the first supremacist of the Tamil nation who fought as 
 [Data](articles/4c540f00.json)
 
 [Extended Data](ext_articles/4c540f00.ext.json)
+
+---
+
+### சாஹிரா மாணவிகளுக்கு பாரபட்சம் இடம்பெற்றுள்ளதா?
+
+*2024-06-06 01:03:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சாஹிரா-மாணவிகளுக்கு-பாரபட்சம்-இடம்பெற்றுள்ளதா/175-338514) · `ta`
+
+திருகோணமாலை சாஹிரா கல்லூரியின் 70 மாணவிகளினதும் உயர்தரப் பரீட்சை பெறுபேறுகளை வெளியிட்டு அந்த மாணவிகளுக்கு நீதியை பெற்றுக்கொடுக்க நடவடிக்கை எடுக்கப்பட வேண்டும் என்று தமிழ்த் தேசிய மக்கள் முன்னணி பாராளுமன்ற உறுப்பினர் செல்வராசா கஜேந்திரன் தெரிவித்தார்.
+
+பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (04) நடைபெற்ற மகளிர் வலுவூட்டல் தொடர்பான விவாதத்தில் உரையாற்றும் போதே அவர் இதனை தெரிவித்தார்.
+
+திருகோணமலை மாவட்டத்தில் பாடசாலையொன்றின் உயர்தரப் பரீட்சை பெறுபேறுகள் வெளிவரவில்லை என்ற ஆதங்கம் முஸ்லிம் மக்களிடமிருந்து வெளிவருகின்றது. முஸ்லிம் பாராளுமன்ற உறுப்பினர்களும் தங்களின் கவலைகளை இங்கே வெளிப்படுத்தியுள்ளனர். திருகோணமலை சாஹிரா கல்லூரியில் இருந்து பரீட்சைக்கு தோற்றிய 70 மாணவிகளின் பெறுபேறுகள் நிறுத்தி வைக்கப்பட்டுள்ளது. இந்த விடயம் மிகவும் கவலைக்குரியது. அந்த பிள்ளைகள் பல கனவுகளுடன் பரீட்சைக்கு தோற்றியுள்ளனர். இந்நிலையயில் பெறுபேறுகள் நிறுத்தி வைக்கப்பட்டுள்ளமை அவர்களுக்கு ஏமாற்றத்தையும் விரக்தியையும் ஏற்படுத்தும்.
+
+...
+
+[Data](articles/310d980b.json)
 
 ---
 
@@ -2241,29 +2257,5 @@ Special categories are required at least one hundred doctors. There is a shortag
 [Data](articles/beae98e5.json)
 
 [Extended Data](ext_articles/beae98e5.ext.json)
-
----
-
-### Man attempts to flee to Canada with forged passport arrested
-
-*2024-06-05 13:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Man-attempts-to-flee-to-Canada-with-forged-passport-arrested/108-284170) · `en`
-
-Katunayaka, June 5 (Daily Mirror) - A 34-year-old youth from Jaffan was arrested this morning at the Bandaranike International Airport (BIA) while attempting to flee to Canada using a forged passport.
-
-The Immigration and Emmigration officers attached to the airport arrested the suspect and revealed that the suspect had attempted to flee to Canada on the promise of getting Rs. 13 million from a broker in Anuradhapura.
-
-The suspect had completed his flight clearance and presented his passport to the immigration officer. The officer who was suspicious of the photograph in the passport entered the information into the computer system. Later, he revealed that the passport belonged to some other person.
-
-The actual owner of the passport was a person who was banned from leaving the country by the Trincomalee courts.
-
-Accordingly, the suspect was taken to the Immigration Department's Border Enforcement Unit.
-
-Following a search the real passport of the suspect was found in the suspect's bag.
-
-...
-
-[Data](articles/58e99793.json)
-
-[Extended Data](ext_articles/58e99793.ext.json)
 
 ---

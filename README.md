@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-05 10:06:28**
+As of **2024-06-05 10:18:57**
 
 ## Newspaper Stats
 
-*Scraped **28,525** Articles*
+*Scraped **28,526** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,542
 economynextcom | 1,620
 dailyftlk | 1,687
 adalk | 2,425
-adaderanalk | 3,238
+adaderanalk | 3,239
 tamilmirrorlk | 3,355
 virakesarilk | 4,389
 dailymirrorlk | 4,518
@@ -26,11 +26,31 @@ adaderanasinhalalk | 4,579
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,521 (100.0%) of 28,525 articles have been extended.
+28,525 (100.0%) of 28,526 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-05 (Wednesday)
+
+### High risk of communicable diseases spreading in country
+
+*2024-06-05 10:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/99671/high-risk-of-communicable-diseases-spreading-in-country) · `en`
+
+The Colombo Municipal Council (CMC) says that there is a high risk for communicable diseases to spread in the country due to the recent floods in various parts of the island.
+
+The contamination of water sources has been cited as the main cause of this.
+
+Chief Medical Officer of Health in the Public Health Department of Colombo Municipal Council, Dr M.A.S.G. Rathnawardhana requested to make sure to always drink water that has been boiled and left to cool, whenever possible.
+
+She stated that due to the current contamination of water sources, there is an increased risk of communicable diseases like diarrhea and Leptospirosis (rat fever) spreading. Therefore, drinking boiled or bottled water whenever possible is highly advisable.
+
+The Chief Medical Officer further stated to “ensure that fruits and vegetables are washed before consumption. It is also recommended to avoid eating raw vegetables and fruits during this period. The cleaning process should involve guidance from public health inspectors.”
+
+◼️
+
+[Data](articles/711f125d.json)
+
+---
 
 ### India gives NDA third term, Modi a message
 
@@ -45,6 +65,8 @@ Prime Minister Narendra Modi, addressing party workers at the BJP headquarters i
 ...
 
 [Data](articles/b675360b.json)
+
+[Extended Data](ext_articles/b675360b.ext.json)
 
 ---
 
@@ -116,6 +138,8 @@ Those affected by floods in Gampaha were moved to the Wijayarama temple in Ihala
 
 [Data](articles/22b284b7.json)
 
+[Extended Data](ext_articles/22b284b7.ext.json)
+
 ---
 
 ### Increased deaths;Will continue in the country
@@ -163,6 +187,8 @@ The total investment for this project will be around 300 million USD. To start, 
 ...
 
 [Data](articles/060b046d.json)
+
+[Extended Data](ext_articles/060b046d.ext.json)
 
 ---
 
@@ -235,6 +261,8 @@ Police said the 45-year-old suspect was arrested by the STF and Welioya Police e
 ◼️
 
 [Data](articles/6e2d751d.json)
+
+[Extended Data](ext_articles/6e2d751d.ext.json)
 
 ---
 
@@ -2155,35 +2183,5 @@ As floodwaters engulf the streets in Gampha, a dedicated man wades through the d
 [Data](articles/e4a85ce7.json)
 
 [Extended Data](ext_articles/e4a85ce7.ext.json)
-
----
-
-### Modi falls in Borking
-
-*2024-06-04 19:43:27* · [`adalk`](https://www.ada.lk/breaking_news/මෝදිට-වාරණාසියේ-ඇති-කැමැත්ත-අඩුවෙයි/11-410009) · `si`
-
-Narendra Modi, India's PM since 2014, won his third consecutive term but faced a significant drop in votes from 2019, losing around 327,000 votes. Despite this, he maintained a strong lead, securing victories in each election cycle with increasing majorities.
-
-🟩
-
-Narendra Modi, who is the Prime Minister of India since 2014, has won the Indian Prime Minister for the third consecutive year.
-
-He is contesting the election representing India's vehicle seat and in 2024 in 2024 in 2024, he is concerned about the short vote.
-
-He has fell about 327,000 votes in 2024 compared to 2019.
-
-In this borm, he has polished in 2019, 2019 and 2024 ...
-
-In 2014, he won the ballot and win over 371784 votes.
-
-In 2019, he won the barton with a majority of 479505.
-
-In 2014, he won the bake of the injuries with a majority of 152513 votes.
-
-◼️
-
-[Data](articles/3f5aeed2.json)
-
-[Extended Data](ext_articles/3f5aeed2.ext.json)
 
 ---

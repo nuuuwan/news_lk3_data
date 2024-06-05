@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-05 09:54:07**
+As of **2024-06-05 10:06:28**
 
 ## Newspaper Stats
 
-*Scraped **28,521** Articles*
+*Scraped **28,525** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,40 +19,68 @@ adalk | 2,425
 adaderanalk | 3,238
 tamilmirrorlk | 3,355
 virakesarilk | 4,389
-dailymirrorlk | 4,514
+dailymirrorlk | 4,518
 adaderanasinhalalk | 4,579
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,517 (100.0%) of 28,521 articles have been extended.
+28,521 (100.0%) of 28,525 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-05 (Wednesday)
 
-### පාර්ලිමේන්තු සභාවාරය ඇරඹේ
+### India gives NDA third term, Modi a message
+
+*2024-06-05 09:42:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/India-gives-NDA-third-term-Modi-a-message/107-284147) · `en`
+
+India, June 5 (Indian Express) - The people have spoken and the NDA which claimed 294 Lok Sabha seats is set to return for a third term but the mandate is not exactly what Prime Minister Narendra Modi, who spearheaded the BJP campaign, may have hoped for.
+
+Contrary to exit polls that predicted a landslide for the ruling alliance, the BJP Tuesday fell short of a majority on its own – with 272 as the halfway in the House of 543, it won 240 seats – and appeared heavily dependent on alliance partners especially the TDP and JD(U), ending a decade of single-party dominance and heralding the return of a coalition government at the Centre.
+
+Prime Minister Narendra Modi, addressing party workers at the BJP headquarters in New Delhi in the evening, hailed the mandate for the NDA and a successive third term: “For the first time since 1962, a government has returned for the third time after completing its two terms.”
+
+...
+
+[Data](articles/b675360b.json)
+
+---
+
+### Parliamentary Council begins
 
 *2024-06-05 09:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197408) · `si`
 
-නියෝජ්‍ය කථානායකවරයාගේ ප්‍රධානත්වයෙන් පාර්ලිමේන්තු කටයුතු මේ වනවිට ආරම්භ වී තිබේ.
+The Parliamentary Council has started its session, with the Deputy Speaker presiding over the proceedings.
+
+🟩
+
+Parliamentary Business has commenced under the patronage of the Deputy Speaker.
 
 ◼️
 
 [Data](articles/3bceba13.json)
 
+[Extended Data](ext_articles/3bceba13.ext.json)
+
 ---
 
-### காலை அலுவலக ரயில்கள் அனைத்தும் தடை
+### Morning office trains are all banned
 
 *2024-06-05 09:29:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காலை-அலுவலக-ரயில்கள்-அனைத்தும்-தடை/175-338466) · `ta`
 
-கோட்டை புகையிரத நிலையத்தில் புகையிரதம் ஒன்று தடம் புரண்டதால் கரையோரப் புகையிரதஎசேவைகள் தடைப்பட்டுள்ளன.
+Morning office trains are banned due to a derailment at the Fort Railway Station, blocking coastal railway services.
+
+🟩
+
+Coastal railway services have been blocked as a train derails at the Fort Railway Station.
 
 ◼️
 
 [Data](articles/16f9dc49.json)
+
+[Extended Data](ext_articles/16f9dc49.ext.json)
 
 ---
 
@@ -74,27 +102,67 @@ It is reported that the child taken into police custody has been produced before
 
 [Data](articles/bb5a8bef.json)
 
+[Extended Data](ext_articles/bb5a8bef.ext.json)
+
 ---
 
-### அதிகரித்த உயிரிழப்புக்கள் ; நாட்டில் தொடரும்
+### Relief for the flood affected..
+
+*2024-06-05 09:18:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Relief-for-the-flood-affected/110-284146) · `en`
+
+Those affected by floods in Gampaha were moved to the Wijayarama temple in Ihalagama, a designated safe location. Gampaha town and several low-lying areas were flooded yesterday. The Navy used boats to supply food and other necessities to the affected. Pix by Kushan Pathiraja
+
+◼️
+
+[Data](articles/22b284b7.json)
+
+---
+
+### Increased deaths;Will continue in the country
 
 *2024-06-05 09:16:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிகரித்த-உயிரிழப்புக்கள்-நாட்டில்-தொடரும்/175-338465) · `ta`
 
-நாட்டை பாதித்துள்ள சீரற்ற வானிலையினால் பாதிக்கப்பட்டவர்களின் எண்ணிக்கை 161,000ஐ தாண்டியுள்ளதாக அனர்த்த முகாமைத்துவ மத்திய நிலையம் தெரிவித்துள்ளது.
+The disaster management center reports over 161,000 victims from severe weather, with 21 fatalities. Conditions in rivers like Kelaniya Ganga and Kaluganga are improving, reducing flood risks in areas like Gampaha and Wattala. However, landslide risks persist, according to a geologist.
 
-உயிரிழந்தவர்களின் எண்ணிக்கை 21 ஆக அதிகரித்துள்ளதாக அதன் பணிப்பாளர் பிரதீப் கொடிப்பிலி குறிப்பிட்டுள்ளார்.
+🟩
 
-இதேவேளை, களனி கங்கை, களுகங்கை மற்றும் அத்தனகலு ஓயா ஆகிய பகுதிகளில் ஏற்கனவே இருந்த அபாய நிலை படிப்படியாக குறைந்து வருவதாக நீர்ப்பாசனத் திணைக்களத்தின் பொறியியலாளர் சகுரா தில்தாரா தெரிவித்தார்.
+The Disaster Management Center said that the number of victims of the inclement weather affected by the country has exceeded 161,000.
 
-இதன் காரணமாக வெள்ளத்தால் பாதிக்கப்பட்ட கம்பஹா, ஜாஎல, வத்தளை, மினுவாங்கொட, கட்டான ஆகிய பகுதிகளில் இன்று படிப்படியாக நீர்மட்டம் குறையும் என எதிர்பார்க்கப்படுகிறது.
+The number of casualties has risen to 21, its Director Pradeep Kodippili said.
 
-இதேவேளை, களனி கங்கைப் படுகையின் தாழ்வான பகுதிகளான கடுவெல, பியகம, கொலன்னாவை, வத்தளை மற்றும் கொழும்பு ஆகிய பகுதிகளில் நீர் மட்டம் படிப்படியாகக் குறைந்து வருவதாகவும் அவர் மேலும் குறிப்பிட்டார்.
+Meanwhile, Sakura Dildara, engineer of the Irrigation Department, said that the existing risk of the existing conditions in Kelaniya Ganga, Kaluganga and Attanagalu Oya is gradually decreasing.
 
-மண்சரிவு அபாயம் தொடர்வதாக தேசிய கட்டிட ஆராய்ச்சி அமைப்பின் சிரேஷ்ட புவியியலாளர்​ வசந்த சேனாதீர தெரிவித்துள்ளார். R
+Due to this, the flood -affected Gampaha, JL, Wattala, Minuwangoda and Katana are expected to gradually decrease.
+
+Meanwhile, he added that water levels are gradually decreasing in the low -lying areas of the Kelaniya Ganga Bask, Kaduwela, Biyagama, Kolonnawa, Wattala and Colombo.
+
+Vasantha Senadheera, senior geologist of the National Building Research Organization, says that the risk of landslides continues. Remble
 
 ◼️
 
 [Data](articles/80ab8e94.json)
+
+[Extended Data](ext_articles/80ab8e94.ext.json)
+
+---
+
+### United Petroleum Australia to begin Sri Lanka operations by August
+
+*2024-06-05 09:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/United-Petroleum-Australia-to-begin-Sri-Lanka-operations-by-August/108-284145) · `en`
+
+Colombo, June 6 (Daily Mirror) - United Petroleum Australia, which has entered Sri Lanka's petroleum retail market, will start their operations by the end of July or beginning of August this year, taking over 150 existing fuel stations and building over 50 new stations, Director of United Petroleum Lanka Private Limited in Sri Lanka Dr. Prabhat Samarasinghe said.
+
+He said that United Petroleum Lanka Pvt Ltd made a deal with Sri Lanka's Board of Investments (BoI). This deal is part of an agreement with the Power and Energy Ministry to supply petroleum products in Sri Lanka.
+
+United Petroleum Australia has created a company in Sri Lanka called United Petroleum Lanka Private Limited.
+
+This company will take over 150 existing gas stations and has permission to build 50 new ones under United's name.
+
+The total investment for this project will be around 300 million USD. To start, they will invest 12 million USD, with plans to invest the rest within a year.
+
+...
+
+[Data](articles/060b046d.json)
 
 ---
 
@@ -149,6 +217,24 @@ During the thunderstorm, the sea is temporarily blowing and the sea is very turb
 [Data](articles/2ab2ef6b.json)
 
 [Extended Data](ext_articles/2ab2ef6b.ext.json)
+
+---
+
+### ’Kukul Chaminda’ arrested over assault on 4-year-old child
+
+*2024-06-05 09:07:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Kukul-Chaminda-arrested-over-assault-on-4-year-old-child/108-284144) · `en`
+
+Trincomalee, June 5 (Daily Mirror) - The suspect identified as Kukul Chaminda alias Bibile Chaminda, who was wanted for the brutal assault on a 4-year-old child, has been arrested by the Police, along with his wife and another woman.
+
+Police initiated investigations following the circulation of a video on social media which went viral, depicting the suspect's ruthless assault on the 4-year-old child.
+
+A neighbour had recorded the video which was released on social media, of the particular suspect brutally assaulting the child while he was eating at his home.
+
+Police said the 45-year-old suspect was arrested by the STF and Welioya Police early this morning in the Pulmoddai area. The two women were arrested on charges of aiding the suspect.
+
+◼️
+
+[Data](articles/6e2d751d.json)
 
 ---
 
@@ -2099,89 +2185,5 @@ In 2014, he won the bake of the injuries with a majority of 152513 votes.
 [Data](articles/3f5aeed2.json)
 
 [Extended Data](ext_articles/3f5aeed2.ext.json)
-
----
-
-### And some more school holidays
-
-*2024-06-04 19:38:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மேலும்-சில-பாடசாலைகளுக்கு-விடுமுறை/175-338434) · `ta`
-
-Due to bad weather, schools in Galle and Matara districts will close tomorrow.
-
-🟩
-
-The Ministry of Education has announced that all schools in Galle and Matara districts will be closed tomorrow (5) due to inclement weather. Remble
-
-◼️
-
-[Data](articles/00ffb004.json)
-
-[Extended Data](ext_articles/00ffb004.ext.json)
-
----
-
-### To the toss of the coin Scotland
-
-*2024-06-04 19:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197394) · `si`
-
-Scotland won the toss and chose to bat first against England in their upcoming match.
-
-🟩
-
-The match between England and Scotland will begin at a moment.
-
-The Scottish team won the toss and decided to bat first.
-
-◼️
-
-[Data](articles/6f7cd895.json)
-
-[Extended Data](ext_articles/6f7cd895.ext.json)
-
----
-
-### Supreme Court orders allegations against Lands Commissioner
-
-*2024-06-04 19:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197393) · `si`
-
-The Supreme Court temporarily halted bribery allegations against Land Commissioner Bandula Jayasinghe, allowing him to challenge the case. A three-judge panel directed the Bribery Commission to respond to his petition by August 8th. This decision came after the appointment of a new Director General under the Anti-Corruption Act, leading to a request for a stay order due to potential discrepancies in charging procedures.
-
-🟩
-
-The Supreme Court issued a prohibition to prevent the Exhibition filed by the Bribery Commission against Land Commissioner Bandula Jayasinghe.
-
-Yasantha Kodagoda, permission to take on a petition filed by the Land Commissioner. H. M. D. The order was issued by a three-member Supreme Court judge with Nawaz and Achala VingPholi.
-
-The three-judge panel was ordered to send notice to the Bribery Commission of Bribery Commission regarding the petition in the petition on August 8.
-
-The petitioner appeared before the Petitioner had filed a loss to the Petitioner by the Petitioner as the Commissioner of the Petitioner as the Commissioner of the Petitioner as the Commissioner of the Petitioner as the Commissioner of the Petitioner was accused of acting as the Commissioner of Motor Traffic.Attorney-at-Law Hafal Faris said.
-
-The new Director General was appointed to the Bribery Commission under the Anti-Corruption Act last April.
-
-...
-
-[Data](articles/3000d498.json)
-
-[Extended Data](ext_articles/3000d498.ext.json)
-
----
-
-### Galle and Matara schools tomorrow
-
-*2024-06-04 19:24:50* · [`adalk`](https://www.ada.lk/breaking_news/ගාල්ල-හා-මාතර-පාසල්වලට-හෙටත්-නිවාඩු/11-410008) · `si`
-
-Tomorrow, schools in Galle and Matara districts will be closed due to a holiday announcement by the Ministry of Southern Province. The decision was communicated to all educational authorities by the Southern Provincial Education Secretary, Ranjith Yapa.
-
-🟩
-
-The Ministry of Southern Province says that tomorrow (5) in the Galle and Matara districts of the Southern Province (5) has been granted leave tomorrow.
-
-Southern Provincial Education Secretary Ranjith Yapa has been informed to all the educational authorities of the two districts to be given the vacation.
-
-◼️
-
-[Data](articles/b3765445.json)
-
-[Extended Data](ext_articles/b3765445.ext.json)
 
 ---

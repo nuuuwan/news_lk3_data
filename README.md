@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-05 08:34:14**
+As of **2024-06-05 08:53:32**
 
 ## Newspaper Stats
 
-*Scraped **28,499** Articles*
+*Scraped **28,508** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,40 +17,62 @@ economynextcom | 1,620
 dailyftlk | 1,686
 adalk | 2,425
 adaderanalk | 3,236
-tamilmirrorlk | 3,351
+tamilmirrorlk | 3,352
 virakesarilk | 4,387
-dailymirrorlk | 4,505
+dailymirrorlk | 4,513
 adaderanasinhalalk | 4,575
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,497 (100.0%) of 28,499 articles have been extended.
+28,499 (100.0%) of 28,508 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-05 (Wednesday)
 
-### කැලණි, කළු සහ අත්තනගලු ඔයේ ජල මට්ටම පහළට
+### Sri Lankans fighting in Russia-Ukraine war face lies, hardships
+
+*2024-06-05 08:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Sri-Lankans-fighting-in-Russia-Ukraine-war-face-lies-hardships/155-284125) · `en`
+
+Colombo, June 5 (Daily Mirror) - In the midst of the increased number of calls from ex-Sri Lankan soldiers who joined the Russian military to fight against Ukraine, a Sri Lankan delegation headed by State Minister of Foreign Affairs Tharaka Balasuriya will head to Russia later this month to seek repatriation of them under a plan to be implemented in stages, the Daily Mirror learns.
+
+The delegation comprising former Sri Lankan ambassador to Russia Dr.Saman Weerasinghe, Defence Secretary Kamal Gunaratne, MPs Dayasiri Jayasekara and Gamini Waleboda will meet with the Russian defence authorities in Moscow on June 25, 26 and 27.
+
+A top source told Daily Mirror that the Sri Lankan authorities receive numerous telephone calls from those soldiers in the war front seeking to return to the country. It is learnt that these soldiers have been duped into believing that they will get attractive salaries and other perks.
+
+...
+
+[Data](articles/e7bf683c.json)
+
+---
+
+### Water level down the Kelani, Kalu and Attanagalu Oya
 
 *2024-06-05 08:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197405) · `si`
 
-කැලණි ගඟ, කළු ගඟ සහ අත්තනගලුඔය මේ වන විටත් අවදානම් තත්ත්වය ක්‍රමයෙන් පහව යමින් පවතින බව වාරිමාර්ග දෙපාර්තමේන්තුවේ ඉංජිනේරු සකුරා දිල්තාරා මහත්මිය සඳහන් කළාය.
+Water levels in Kelani, Kalu, and Attanagalu Oyas are decreasing. Lower areas of Kelaniya River Basin, including Kaduwela, Biyagama, Watiga, Wattala, and Colombo, also see reduced levels. Despite this, landslide risks persist. The Disaster Management Center reports 161,000 affected due to adverse weather, with the disaster situation at level 21.
 
-මේ නිසා ගංවතුරේ බලපෑම් එල්ල වූ ගම්පහ, ජාඇළ, වත්තල, මිනුවන්ගොඩ, කටාන යන ප්‍රදේශවල ජල මට්ටම අද දිනයේ ක්‍රමයෙන් පහළ යනු ඇතැයි ද අපේක්ෂා කෙරේ.
+🟩
 
-මේ අතර කැලණි ගංගා ද්‍රෝණියේ පහළ ප්‍රදේශ වන කඩුවෙල, බියගම, කොළොන්නාව, වත්තල හා කොළඹ යන ප්‍රදේශවල ජල මට්ටමට මේ වනවිට ක්‍රමයෙන් පහළ බසින බව ඇය වැඩිදුරටත් සඳහන් කළාය.
+The event is already underway at the Kelani River, Kalu Ganga and Attanagaluoya.
 
-නායයෑම් අවදානම් තත්ත්වය තවදුරටත් පවතින බව ජාතික ගොඩනැගිලි පර්යේෂණ සංවිධානයේ ජ්‍යෙෂ්ඨ භූ විද්‍යාඥ වසන්ත සේනාධීර මහතා පවසයි.
+Due to this, the water level of the area is expected to be gradually declining today.
 
-මේ අතර, දිවයිනට බලපා ඇති අයහපත් කාලගුණික තත්ත්වය හේතුවෙන් පීඩාවට ලක් වූ පුද්ගලයින් සංඛ්‍යාව 161,000 ඉක්මවා ගොස් ඇති බව ආපදා කළමණාකරණ මධ්‍යස්ථානය පවසයි.
+Meanwhile, she added that the water levels of Kaduwela, Biyagama, Watiga, Wattala and Colombo areas have been reduced to the lower areas of Kelaniya River Basin.
 
-එහි අධ්‍යක්ෂ ප්‍රදීප් කොඩිප්පිලි මහතා සඳහන් කළේ, ආපදා තත්ත්වය මියගිය සංඛ්‍යාව 21 දක්වා ඉහළ ගොස් ඇති බවය.
+Senior Geologist Wasantha Senadheera says that landslide risk is still available.
+
+Meanwhile, the Disaster Management Center (DMC) stated that 161,000 people affected due to adverse weather conditions have affected the island.
+
+Its director Pradeep Kodippili stated that the disaster situation has risen to 21.
 
 ◼️
 
 [Data](articles/03a358c9.json)
+
+[Extended Data](ext_articles/03a358c9.ext.json)
 
 ---
 
@@ -92,25 +114,31 @@ The general public is kindly requested to take adequate precautions to minimize 
 
 ---
 
-### දරුවෙකුට අමානුෂිකව පහරදුන් කුකුල් චමින්ද අල්ලයි
+### Cukuda Chaminda arrested over brutal assault
 
 *2024-06-05 07:36:51* · [`adalk`](https://www.ada.lk/breaking_news/දරුවෙකුට-අමානුෂිකව-පහරදුන්-කුකුල්-චමින්ද-අල්ලයි/11-410011) · `si`
 
-පසුගිය දිනවල   සමාජ මාධ්‍ය ජාලාවල සංසරණය වූ පුද්ගලයෙකු  විසින්  කුඩා ළමයෙකුට පහරදෙන විඩියෝවේ ළමයාට පහර දෙන  පුද්ගලයා    සහ පහර කෑ ළමයාද  එම සිද්ධියට අනුබල දුන්  කාන්තාවන් දෙදෙනෙකුද  අද (5)අලුයම සැකපිට   අත් අඩංගුවට ගත් බව වැලිඔය පොලීසිය පවසයි.
+Cukuda Chaminda, suspected of assaulting a child and sharing the incident online, was arrested in Sri Lanka. The victim is safe in police custody, and further investigations are ongoing.
 
-මෙසේ අත් අඩංගුවට ගත් ප්‍රධාන  සැකකරු  කුකුල් චමින්ද නමින් හඳුන්වන පුද්ගලයෙක් බව පොලීසිය කියයි.
+🟩
 
-අදාල වීඩියෝව සමාජ මාධ්‍ය ජාලාවල සංසරණය වීමත් සමග සැකකරු දරුවා ඇතුළු පිරිස සමග  නිවසද වසා දමා ප්‍රදේශයෙන් පැන ගොස් සැඟවී සිටියදී පුල්මුඩේ අරසිමලේ ප්‍රදේශයේදී අත් අඩංගුවට ගැනීමට හැකිවූ බව පොලීසිය පැවසීය.
+Welioya Police say two women who attacked a child and the assaulted child in social media networks recently have been arrested on suspicion of the child.
 
-අත්අඩංගුවට ගත් පිරිස සමග සිටි  වයස අවුරුදු 4 ක් හා මාස 06 ක් පමණ වන වීඩියෝවේ සඳහන් පරිදි   පහරකෑමට ලක්වූ වින්දිත පිරිමි දරුවා මේ  වන විට  පොලිස් භාරයේ ආරක්ෂිතව සිටින බව පොලීසිය කියයි
+The main suspect, who was arrested is a person known as Cukuda Chaminda, Police said.
 
-වැලිඔය පොලිස් ස්ථානයේ නිලධාරීන් විසින්   පුල්මුඩේ විශේෂ කාර්‍ය බලකා නිලධාරීන් සහ මුලතිව් කොට්ඨාස අපරාධ විමර්ශන ඒකකයේ නිලධාරීන්ගේ සහාය ඇතිව මෙම මෙහෙයුම සිදු කළහ.
+The suspect had circulated the video and closed the house with his child and the suspect and was arrested in the Pulmudai Arasimatiyaya area while he was hidden from the area.
 
-මෙම සිද්ධිය සම්බන්ධව වැලිඔය පොලිසිය මගින් වැඩිදුර විමර්ශන පවත්වනු ලබයි.
+Police say that the victim child is currently safe in the police custody as stated along with the arrested persons.
+
+The operation conducted the operation with the assistance of the Pulgodi Police Station Special Task Force and the Criminal Investigation Unit of the Mullaitivu Division.
+
+Welioya Police are conducting further investigations.
 
 ◼️
 
 [Data](articles/55cc6202.json)
+
+[Extended Data](ext_articles/55cc6202.ext.json)
 
 ---
 
@@ -552,6 +580,26 @@ Sri Lanka Army personnel seen navigating through floodwaters in a WMZ 551B to re
 
 ---
 
+### SL’s financial market woes defy Colombo Dockyard growth targets
+
+*2024-06-05 04:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SLs-financial-market-woes-defy-Colombo-Dockyard-growth-targets/108-284111) · `en`
+
+Colombo Dockyard says it remains cautiously optimistic that the country’s financial market will continue to stabilise
+
+Points out external pressure from global challenges as well as the lingering effects of Sri Lanka’s financial crisis negatively impacted its financial performance
+
+The global market demand for ship building and ship repairs looks promising in the near future. However, financial market problems in Sri Lanka will continue to pose a challenge to the growth targets of Colombo Dockyard PLC.
+
+The entity, which operates as Sri Lanka’s largest engineering facility leading in the business of ship repairs, shipbuilding, heavy engineering and offshore engineering with a Japanese collaboration said it remains cautiously optimistic that the country’s financial market will continue to stabilise.
+
+In the meantime, Colombo Dockyard will continue to build on the market recognition gained in 2023 to pursue future prospects.
+
+...
+
+[Data](articles/51e63b24.json)
+
+---
+
 ### Netherlands won Nepal by 6 wickets
 
 *2024-06-05 02:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/185340) · `ta`
@@ -637,6 +685,24 @@ Sivakanandan Sindhu, aged 27, from the eighth region of Punguduthivu, Punguduthi
 [Data](articles/60c62c25.json)
 
 [Extended Data](ext_articles/60c62c25.ext.json)
+
+---
+
+### ’ஜனாதிபதி பொருளாதாரத்தை பலப்படுத்துவார்’
+
+*2024-06-05 02:35:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-பொருளாதாரத்தை-பலப்படுத்துவார்/175-338462) · `ta`
+
+பொருளாதாரப் பிரச்சினைகளை நிறைவு செய்து, நாட்டை சரியான பாதையில் வழிநடத்தக் கூடிய ஒரே தலைவர் ஜனாதிபதி ரணில் விக்கிரமசிங்க மாத்திரமே என கிராமிய வீதிகள் அபிவிருத்தி இராஜாங்க அமைச்சர் சிவநேசதுரை சந்திரகாந்தன் தெரிவித்தார்.
+
+ஜனாதிபதி ஊடக மையத்தில் நேற்று நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே அவர் மேற்கண்டவாறு தெரிவித்தார்.  அவர் மேலும் தெரிவிக்கையில்,
+
+தற்போது நாட்டின் நல்ல நிலைமை குறித்து மக்கள் நம்பிக்கை கொண்டுள்ளனர். நாட்டை முன்னோக்கிக்கொண்டு செல்ல வேண்டுமென்றால், தனிப்பட்ட விருப்பு வெறுப்புகளைத் தாண்டி உறுதியாக எல்லோரையும் அரவணைத்து செயற்பட வேண்டும். அதேபோன்று இப்போது இருக்கின்ற உலகளாவிய பிரச்சினைகளோடு சரியான இடத்திற்கு நாட்டைக் கொண்டு செல்லக் கூடிய ஒரு தலைவராக நாங்கள் ஜனாதிபதி ரணில் விக்ரமசிங்கவைப் பார்க்கிறோம். எனவே அவர் மக்கள் ஆதரவுடன் மீண்டும் ஜனாதிபதியாக தெரிவு செய்யப்பட்டால் பலமான பொருளாதாரக் கட்டமைப்பை உருவாக்குவார்.
+
+முக்கியமாக, நான் ஒரு சிறுபான்மை மக்களின் பிரதிநிதி என்ற வகையில் நானும் நம்புகிறேன்.
+
+...
+
+[Data](articles/e2b68d94.json)
 
 ---
 
@@ -805,6 +871,26 @@ We have been talking about the incident with the school principal and a victim o
 [Data](articles/9400a586.json)
 
 [Extended Data](ext_articles/9400a586.ext.json)
+
+---
+
+### Sri Lanka fails to cross 900,000 milestone in tourist arrivals end May
+
+*2024-06-05 02:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-fails-to-cross-900-000-milestone-in-tourist-arrivals-end-May/108-284110) · `en`
+
+A group of tourists viewing paintings displayed by local artists down Greenpath in Colombo - Pic by Kushan Pathiraja
+
+Sri Lanka failed to cross the 900,000 milestone in tourist arrivals in the five month period ended in May, as the country trailed the arrival target by 13 percent or 133,983 arrivals at the end of the month.
+
+In May, tourist arrivals to island nation jumped by 34 percent Year-on-Year (YoY) to 112,128 tourists.  However, Sri Lanka missed the target set by Sri Lanka Tourism Development Authority (SLTDA) for the month by 14.4 percent or 18,984 arrivals in the month.
+
+Accordingly, the country failed to cross the 900,000 arrival milestone as predicted by the authorities. In the five-month period, Sri Lanka welcomed 896,779 tourists falling behind the target of 1.03 million tourists in the period.
+
+Sri Lanka Tourism Development Authority (SLTDA) Chairman Priantha Fernando earlier expressed confidence on crossing 900,000 tourist arrivals at end of May.
+
+...
+
+[Data](articles/2b8ba78f.json)
 
 ---
 
@@ -1079,6 +1165,24 @@ The presidential election to select Sri Lanka’s fifth president occurred on No
 [Data](articles/e4b31104.json)
 
 [Extended Data](ext_articles/e4b31104.ext.json)
+
+---
+
+### ‘Enterprise Sri Lanka’ to be established as dedicated agency for SME support
+
+*2024-06-05 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Enterprise-Sri-Lanka-to-be-established-as-dedicated-agency-for-SME-support/108-284106) · `en`
+
+The Government has decided to establish a brand new consolidated and dedicated agency named ‘Enterprise Sri Lanka’ for the monitoring and development of Sri Lanka’s struggling small and medium (SME) sector efficiently.
+
+President Ranil Wickrememsinghe in his capacity as Minister of Investment Promotion joined with the Minister of Industries Ramesh Pathirana and sought the approval of the Cabinet of Ministers to establish the a proposed institution ‘Enterprise Sri Lanka’ as one entity.
+
+It will be dedicated for small and medium scale enterprises through redesigning institutional and legal framework of the Export Development Board, National Entrepreneurship Development Authority, Industrial Development Board, Sri Lanka Export Credit Insurance Corporation and the Small Enterprises Development Division of the Ministry of Sports and Youth Affairs.
+
+Accordingly, it was decided to direct the Legal Draftsmen to formulate a draft bill for the establishment of the proposed agency.
+
+...
+
+[Data](articles/59df6e15.json)
 
 ---
 
@@ -2093,103 +2197,5 @@ Representatives of Mannar Human Rights and Development Center, Mannar District A
 [Data](articles/0f3e6c35.json)
 
 [Extended Data](ext_articles/0f3e6c35.ext.json)
-
----
-
-### Range Bandara’s  “Loud Thinking” about Election Postponement Damages   Ranil’s Election Campaign in the Short Term.
-
-*2024-06-04 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84130) · `en`
-
-Sri Lanka’s political stage was enlivened last week by the solo performance of  United National Party (UNP) general -secretary Palitha Range Bandara. Addressing a media briefing on 28 May, the policeman turned politician came out with a suggestion that the presidential election due this year and the Parliamentary election scheduled for next year should be postponed while the terms of office for both should be extended by two more years. The former Puttalam district and ex-state minister wanted a resolution passed by Parliament to that effect and ratified by the people at a referendum.
-
-The essence of what Palitha Range Bandara proposed was this -. Ranil Wickremesinghe took over the country’s leadership at a time of a great economic crisis. Considerable progress  has been achieved by the  Wickremesinghe Govt to remedy the situation. A degree of economic stability has been established but more time is needed to ensure greater economic stability.
-
-...
-
-[Data](articles/3cbabeda.json)
-
-[Extended Data](ext_articles/3cbabeda.ext.json)
-
----
-
-### Defying  Doomsday Predictions of Exit polls  the Congress -led INDIA -Bloc of Opposition Parties  Shock  the Ruling  BJP in vital states, thereby resetting India’s political landscape.
-
-*2024-06-04 18:09:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84140) · `en`
-
-Indian Prime Minister Narendra Modi’s Bharatiya Janata Party (BJP) lost its national majority after suffering major losses in key states, marking a dramatic shift in a political landscape it has dominated for the past decade.
-
-The BJP emerged, comfortably, as the country’s single-largest party in the Lok Sabha, the lower house of India’s parliament. But with most votes counted after India’s six-week-long election on Tuesday, the BJP was well short of its performances from 2014 and 2019.
-
-Unlike both those elections, when the BJP won clear majorities on its own in a house of 543 seats, it was poised to end up with 240 seats this time around. The halfway mark is 272 seats.
-
-By contrast, the opposition INDIA alliance, led by the Congress party, was projected to win more than 200 seats, significantly higher than exit polls had predicted. Released on June 1 after the final phase of India’s election cycle, the exit polls had suggested that the BJP would outdo its 2019 tally of 303 seats.
-
-...
-
-[Data](articles/284b2cad.json)
-
-[Extended Data](ext_articles/284b2cad.ext.json)
-
----
-
-### Schools closed in several education zones and divisions
-
-*2024-06-04 18:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/99662/schools-closed-in-several-education-zones-and-divisions) · `en`
-
-The Secretary of Education of Sabaragamuwa Province stated that all schools in Ratnapura Educational Zone and in Elapatha, Ayagama, Kalawana Educational divisions in Nivithigala Educational Zone will be closed tomorrow (04) due to adverse weather conditions.
-
-The decision was taken due to the adverse weather conditions prevailing in those areas.
-
-The Educational Secretary of the Sabaragamuwa Province further stated that based on the weather conditions from tomorrow onwards, a decision regarding the closure of schools will be taken after informing the Zonal Education Directors.
-
-Meanwhile, the Western Province Governor, Marshal of the Air Force Roshan Gunathilake has directed the principals of all schools within the province, where flood waters have receded, to reopen the school tomorrow (04).
-
-◼️
-
-[Data](articles/907732f4.json)
-
-[Extended Data](ext_articles/907732f4.ext.json)
-
----
-
-### Railway delay on the main road
-
-*2024-06-04 18:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197391) · `si`
-
-Due to flooding between Gampaha and Veyangoda, several trains including those from Rambukkana, Polgahawela, Kandy, Kurunegala, and Mahawa are delayed today. The Deputy General Manager, Jayaratne, attributes the issue to inundated railway lines and signal delays.
-
-🟩
-
-Deputy General Manager of Railways Jayaratne said several office trains will be delayed this afternoon.. N. Says Mr. Yadapola.
-
-The railway line between Gampaha and Veyangoda were inundated, he added.
-
-The delays of the train signals have been caused by the delays of the railway signal.
-
-He added that the train traveling from Rambukkana, Polgahawela, Kandy, Kurunegala and Mahawa said he could delay.
-
-◼️
-
-[Data](articles/3a853846.json)
-
-[Extended Data](ext_articles/3a853846.ext.json)
-
----
-
-### SC stays indictment signed by DG Bribery Commission
-
-*2024-06-04 18:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SC-stays-indictment-signed-by-DG-Bribery-Commission/108-284081) · `en`
-
-Colombo, June 04, (Daily Mirror) - The Supreme Court today issued an interim order suspending the operation of an indictment signed by the Director General of the Bribery Commission against Land Commissioner General Bandula Jayasinghe in 2023.
-
-Land Commissioner General Bandula Jayasinghe was indicted with seven others in December 2023 by the Director General of the Bribery Commission on a corruption charge relating to the change of a registration of a car whilst in the Department of Motor Traffic.
-
-The Supreme Court bench comprising justices Yasantha Kodagoda, A.H.M.D. Nawaz and Achala Wengappulli issued formal notice and an interim order suspending the proceedings on the indictment signed by the Director General of Bribery Commission. The Supreme Court also made order that the Bribery Commission reconsiders its position on the indictment signed by the Director General during the interim period.
-
-...
-
-[Data](articles/f973741f.json)
-
-[Extended Data](ext_articles/f973741f.ext.json)
 
 ---

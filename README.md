@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-06 02:34:20**
+As of **2024-06-06 02:53:00**
 
 ## Newspaper Stats
 
-*Scraped **28,682** Articles*
+*Scraped **28,683** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 258
+colombotelegraphcom | 259
 dbsjeyarajcom | 273
 bbccomsinhala | 279
 newsfirstlk | 363
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,606
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,681 (100.0%) of 28,682 articles have been extended.
+28,682 (100.0%) of 28,683 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,21 +50,27 @@ The 50th anniversary of the first supremacist of the Tamil nation who fought as 
 
 ---
 
-### ’கல்வி முறைமை பிரயோசனமற்றது’
+### The educational system is useless
 
 *2024-06-06 00:55:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கல்வி-முறைமை-பிரயோசனமற்றது/175-338512) · `ta`
 
-இலங்கையின் தற்போதைய கல்வி முறைமை நாட்டுக்கோ, பிள்ளைகளுக்கோ பிரயோசனமற்றதாகவே இருக்கின்றது என்று எதிர்க்கட்சி பாராளுமன்ற உறுப்பினர் ரோஹினி குமாரி கவிரட்ன தெரிவித்தார்.
+Sri Lanka's opposition parliamentarian Rohini Kumari Gavaratne criticized the country's educational system as ineffective for both the nation and its children. She highlighted ongoing issues within the Education Department, including delayed public exams and unresolved teacher salaries, affecting student well-being and performance. Gavaratne called for urgent government intervention to address these problems, emphasizing the need for a more relevant and effective education system to benefit future generations.
 
-பாராளுமன்றத்தில் புதன்கிழமை (05) நடைபெற்ற கல்வித்துறையில் நிலவும் பிரச்சினைகள் தொடர்பான சபை ஒத்திவைப்பு வேளை விவாதத்தை ஆரம்பித்து வைத்து உரையாற்றும் போதே ரோஹினி குமாரி கவிரட்ன எம்.பி இவ்வாறு கூறினார்.
+🟩
 
-கொவிட் தொற்றுப் பரவல் மற்றும் பொருளாதார நெருக்கடி நிலைமையால் பாதிக்கப்பட்ட கல்வித்துறை இன்னும் வழமைக்கு திரும்பவில்லை. குறித்த காலப்பகுதியில் பொதுப் பரீட்சைகளை நடத்த முடியாதிருந்தது. கற்றல் நடவடிக்கைகளை சரியான காலத்தில் நிறைவு செய்ய முடியாமையே இதற்கு காரணமாக அமைந்துள்ளது.
+Opposition parliamentarian Rohini Kumari Gavaratne said that the current educational system of Sri Lanka is useless to the country or children.
 
-இதனால் கஷ்டப் பிரதேச பாடசாலை மாணவர்கள் பெரிதும் பாதிக்கப்பட்டுள்ளனர். இதேவேளை கல்வித் துறையில் ஆசிரியர்கள் உள்ளிட்டோரின் சம்பளம் தொடர்பான முரன்பாடுகள் உள்ளிட்ட பல்வேறு பிரச்சினைகள் உள்ளன. அவற்றை தீர்ப்பதற்கு அரசாங்கம் நடவடிக்கை எடுக்க வேண்டும் என்று கோருகின்றோம்.
+Rohini Kumari Kavaratne MP said this while addressing the inauguration of the post -adjournment debate on the issues of the Education Department in Parliament on Wednesday (05).
+
+The Department of Education has not yet returned to normal. Public exams could not be conducted during the period. This is due to the inability of learning measures to be completed in a timely manner.
+
+As a result of this, the students of the school have been greatly affected. At the same time, there are various issues, including the salary of teachers, including teachers in the field of education.. We demand the government to take action to solve them.
 
 ...
 
 [Data](articles/f9fdaebd.json)
+
+[Extended Data](ext_articles/f9fdaebd.ext.json)
 
 ---
 
@@ -573,6 +579,20 @@ We express our gratitude to the Tamil people on behalf of the company for this.
 [Data](articles/0ecb1864.json)
 
 [Extended Data](ext_articles/0ecb1864.ext.json)
+
+---
+
+### “More Digital-Readers” Is A Consequence Of “Less Thinkers”
+
+*2024-06-05 20:54:46* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/more-digital-readers-is-a-consequence-of-less-thinkers/) · `en`
+
+The article aims to clarify the relationship between reading and critical thinking. While reading is undoubtedly a valuable habit, globalization has provided us with countless reading options, leading to a decline in critical thinking. Here are my arguments to support this claim.
+
+Digitalization has created a convenient space for people in the 21st century. As a result, many people are choosing to read online, which is especially beneficial for distance learning courses and online public lectures. Importantly, readers can access materials from the comfort of their homes without the need to travel or have massive bookshelves. In my academic career, both as a student and a lecturer, I have always relied on books and the basic support of digital resources. However, I have consistently preferred printed books over online reading because I believe that having a physical library with printed books offers unique advantages that online reading cannot fully satisfy.
+
+...
+
+[Data](articles/4879f0b0.json)
 
 ---
 
@@ -2239,27 +2259,5 @@ Due to this, all the office trains have been interrupted, the Railway Department
 [Data](articles/1a8badcf.json)
 
 [Extended Data](ext_articles/1a8badcf.ext.json)
-
----
-
-### Plot support for common candidate - TC Siddharthan
-
-*2024-06-05 13:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/185349) · `ta`
-
-The Democratic People's Liberation Front, led by TC Sitharthan, has endorsed a unified Tamil candidate for the upcoming presidential election, aligning with the Democratic Liberation Front and the Democratic Tamil National Alliance (TNA). This move aims to voice the political desires and societal expectations of the Tamil community, criticizing the deception from the Southern Sri Lanka political establishment. The decision emphasizes unity among Tamil nationalist parties and highlights the growing consensus among various factions for a common candidate, signaling a significant step towards addressing the aspirations of the Tamil people.
-
-🟩
-
-The Democratic People's Liberation Front has said that we have accepted the decision to field a common candidate in the presidential election.
-
-At the party's central committee meeting held on Tuesday (04) under the leadership of Democratic People's Liberation Front leader TC Sitharthan, the media has announced that a decision has been taken on the Tamil general candidate.
-
-The Democratic People's Liberation Front, we have joined the Democratic Liberation Front and other members of the Democratic Tamil National Alliance (TNA), a decision to field a common candidate in the presidential election, to firmly express the political aspirations of the Tamil people, the expectations of social life, and the continuous deceit of the South Sri Lanka political community.We also expressed support.
-
-...
-
-[Data](articles/a37ef19f.json)
-
-[Extended Data](ext_articles/a37ef19f.ext.json)
 
 ---

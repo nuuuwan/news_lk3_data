@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-06 00:05:54**
+As of **2024-06-06 00:18:58**
 
 ## Newspaper Stats
 
-*Scraped **28,671** Articles*
+*Scraped **28,676** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,38 +19,138 @@ adalk | 2,448
 adaderanalk | 3,255
 tamilmirrorlk | 3,367
 virakesarilk | 4,410
-dailymirrorlk | 4,548
+dailymirrorlk | 4,553
 adaderanasinhalalk | 4,606
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,663 (100.0%) of 28,671 articles have been extended.
+28,671 (100.0%) of 28,676 articles have been extended.
 
 ## Latest 100 Articles 
 
+### 2024-06-06 (Thursday)
+
+### An assessment of China growing ties with the Arab world
+
+*2024-06-06 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/An-assessment-of-China-growing-ties-with-the-Arab-world/172-284189) · `en`
+
+Against the backdrop of the 10th Ministerial Conference of the China-Arab States Cooperation Forum in Beijing on May 30, significant meetings took place between Chinese President and a number of top Arab leaders
+
+China’s real aim was to further strengthen its economic ties with the Arab world, which are already strong
+
+Another advantage that the Chinese have in the Arab world is that they do not point to human rights violations in the Arab countries; and the Arab countries in turn remain silent about the persecution of Muslims in Xinjiang
+
+China’s strengths in the Arab world are its economic heft, willingness to take up expensive infrastructure projects, non-interference in internal affairs, and the declining political credibility of the US in the Middle East. But the impediments in China’s way are the West’s technological superiority, the unassailable position of the dollar, and transparency characteristic of Western systems.
+
+...
+
+[Data](articles/679b1443.json)
+
+---
+
+### Lifestyles of politicians and the life of an artist
+
+*2024-06-06 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Lifestyles-of-politicians-and-the-life-of-an-artist/172-284193) · `en`
+
+Sri Lankans are easily attracted to the lifestyle of successful individuals, but rarely do they wish to put in long hours to emulate those feats. Here some fishermen are seen engaging in the perplexing task of checking their nets; an activity which is a must to ensure a large catch at sea
+
+Few common factors are found when analysing careers of politicians and artistes; the present generation engaged in these two professions are all out to earn maximum money during their careers
+
+There are so many performing artistes who took to politics; some of them were in parliament till very recently, but most of them failed to make any impact in the field of politics
+
+A politician’s ‘life’ is often hectic. It has to be; because he has to serve the people who elected him to office. But we also see the ‘lifestyles’ they live and often envy them. Talk about our lawmakers having hectic lives, there are some who are the opposite, are lazy and not worth the salaries they earn.
+
+...
+
+[Data](articles/82be0299.json)
+
+---
+
+### Sports for peace and development
+
+*2024-06-06 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Sports-for-peace-and-development/172-284192) · `en`
+
+Devastating cricket fans across the country, South Africa beat Sri Lanka by six wickets at the T20 World Cup, on Monday (3).
+
+It may be a cliche in the scorebook, but a famous saying lasts a lifetime. It goes like this: “For when the One Great Scorer comes to mark against your name, He writes, not that you won or lost, but how you played the Game.” Though often quoted, Rudyard Kipling’s poem ‘If’ also applies to what we learn and what we should become through sports. Kipling’s poem goes like this:
+
+In Sri Lanka, cricket is not only popular but an obsession among the people especially after the versatile Arjuna Ranatunga led us to victory in the world cup of 1996.
+
+...
+
+[Data](articles/8ad800e2.json)
+
+---
+
 ### 2024-06-05 (Wednesday)
 
-### அயர்லாந்தை 8 விக்கெட்களால் வெற்றிகொண்டது முன்னாள் சம்பியன் இந்தியா
+### A/L classes to commence tomorrow before release of O/L results
+
+*2024-06-05 23:50:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/AL-classes-to-commence-tomorrow-before-release-of-OL-results/108-284197) · `en`
+
+Colombo, June 5 (Daily Mirror) - Following Cabinet approval, the General Certificate of Education (GCE) Advanced Level (A/L) classes will commence tomorrow, prior to the release of the GCE Ordinary Level (O/L) examination results.
+
+Cabinet approval was granted on May 14 to commence A/L classes soon after the completion of the O/L examinations.
+
+Accordingly, the pilot programme will be launched at Ananda College, Colombo tomorrow at 7.45 a.m.
+
+The event will be held with the patronage of Education Minister Susil Premajayantha and Ministry Secretary Thileka Jayasundara.
+
+The period before commencing A/L classes often leads to a decrease in students' inclination to pursue GCE (A/L) education and contributes to various social issues.
+
+...
+
+[Data](articles/d17713dc.json)
+
+---
+
+### Ali Sabry discusses remittance limits for Sri Lankan workers in Maldives
+
+*2024-06-05 23:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ali-Sabry-discusses-remittance-limits-for-Sri-Lankan-workers-in-Maldives/108-284200) · `en`
+
+June 05 - While reaffirming the strong bilateral ties between the two countries, Foreign Minister Ali Sabry on Wednesday said he held discussions with his Maldivian counterpart Moosa Zameer, to revisit the limits imposed on foreign currency remittances of Sri Lankan migrant workers in the Maldives.
+
+The discussions were part of the four-day official visit undertaken by Zameer who was scheduled to meet President Ranil Wickremesinghe today before concluding his visit tomorrow.
+
+“I welcome the Maldives commitment in providing employment opportunities for Sri Lanka and express hope that the two countries will work on a government-to-government recruitment process. I also requested the Maldivian side to consider revisiting the current limit imposed on outward foreign currency remittances, for the benefit of the Sri Lankan migrant workers, in the Maldives,” Sabry said following bilateral talks with the Maldivian Foreign Minister.
+
+...
+
+[Data](articles/6f764312.json)
+
+---
+
+### Former Champion India won Ireland by 8 wickets
 
 *2024-06-05 23:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/185407) · `ta`
 
-நியூயோர்க் நசவ் விளையாட்டரங்கில் சற்று நேரத்திற்கு முன்னர் நிறைவடைந்த 9ஆவது ரி20 உலகக் கிண்ண அத்தியாயத்தின் ஏ குழுவுக்கான போட்டியில் அயர்லாந்தை 8 விக்கெட்களால் முன்னாள் சம்பியன் இந்தியா  வெற்றிகொண்டது.
+India won against Ireland by 8 wickets in the 9th T20 World Cup, scoring 97 runs in 12.2 overs after Ireland managed 97 runs. Key performances included Rohit Sharma reaching 1000 runs in the tournament, sharing a 54-run partnership with Rishabh Pant, and Hardik Pandya taking 3 wickets.
 
-அயர்லாந்தினால் நிர்ணயிக்கப்பட்ட 97 ஓட்டங்களை வெற்றி இலக்காகக் கொண்டு பதிலுக்கு துடுப்பெடுத்தாடிய இந்தியா 12.2 ஓவர்களில் 2 விக்கெட்களை இழந்து 97 ஓட்டங்களைப் பெற்று வெற்றியீட்டியது.
+🟩
 
-அயர்லாந்தின் வேகப்பந்துவீச்சாளர்கள் சமயோசிதமாக பந்துவீசியதால் அணித் தலைவர் ரோஹித் ஷர்மாவும் விராத் கோஹ்லியம் அவ்வப்போது தடுமாற்றத்திற்குள்ளாகினர்.
+Former Champion India won Ireland by 8 wickets in the A group of the 9th T20 World Cup chapter A group that ended shortly before the New York Nasav Stadium.
 
-மூன்றாவது ஓவரில் மார்க் அடயாரின் பந்தை விசுக்கி அடித்த விராத் கோஹ்லி, தேர்ட் மேன் நிலையில் இலகுவான பிடிகொடுத்து ஒரு ஓட்டத்துடன் வெளியேறினார்.
+In response to 97 runs for Ireland, India won by 2 wickets in 12.2 overs and scored 97 runs.
 
-அதன் பின்னர் ஜோடி சேர்ந்த ரோஹித் ஷர்மாவும் ரிஷாப் பான்டும் முதலில் நிதானமாகவும் பின்னர் அதிரடியாகவும் துடுப்பெடுத்தாடி 2ஆவது விக்கெட்டில் 54 ஓட்டங்களைப் பகிர்ந்திருந்தபோது ரோஹித் ஷர்மா உபாதை காரணமாக  ஓய்வு    பெற்றார்.
+Team captain Rohit Sharma and Virat Kohlium were occasionally stumbled as Ireland's fast bowlers bowled.
 
-ரோஹித் ஷர்மா 4 பவுண்டறிகள், 3 சிக்ஸ்களுடன் 52 ஓட்டங்களைப் பெற்று  ஓய்வு  பெற்றார்.
+In the third over, Virat Kohli hit the ball of Mark Adyar, with a running out of Thirt Man with a run.
+
+Rohit Sharma and Rishabh Band were then relaxed and then stunned by Rohit Sharma when they shared 54 runs in the 2nd wicket.
+
+Rohit Sharma retired with 4 pounds and 3 sixes.
+
+Josh Litle bowled in the 9th over and hit the muscular part of Rohit Sharma's right elbow. Rohit Sharma then returned to the rest of the ball in the last ball of the 10th over.
+
+Meanwhile, Rohit Sharma completes 1,000 runs (1,015) in his 37th innings in the R20 World Cup.
 
 ...
 
 [Data](articles/8df68855.json)
+
+[Extended Data](ext_articles/8df68855.ext.json)
 
 ---
 
@@ -180,6 +280,8 @@ A large number of Sri Lankans work in the Maldives in high executive jobs in the
 
 [Data](articles/a9416a0f.json)
 
+[Extended Data](ext_articles/a9416a0f.ext.json)
+
 ---
 
 ### President Ranil reiterates commitment towards net zero on World Environment Day
@@ -202,19 +304,27 @@ He also highlighted that the upcoming Climate Change Act and the establishment o
 
 ---
 
-### பேருவலை கல்வித் தொகுதியில் நீண்டகாலமாக இடம்பெற்றுவரும் ஆசிரியர் பற்றாக்குறையை போக்க நடவடிக்கை எடுக்கவும் - இம்தியாஸ் பாக்கிர் மாக்கார்
+### Take steps to alleviate the long -standing teacher shortage in the Beruwala Education constituency - Imtiaz Pakir Makar
 
 *2024-06-05 21:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/185406) · `ta`
 
-களுத்துறை கல்வி வலயத்தில் உயர் தர வகுப்புகளுக்கு நீண்ட காலமாக இருந்துவரும் ஆசிரியர் வெற்றிடங்கள் இன்னும் நிரப்பப்படாமல் இருந்து வருகின்றன. இது தொடர்பாக தேடிப்பார்த்து நிலவி வரும் ஆசிரியர் வெற்றிடங்களைப் பூர்த்தி செய்ய விரைவாக நடவடிக்கை எடுக்க வேண்டும் என எதிர்க்கட்சி உறுப்பினர் இம்தியாஸ் பாக்கிர் மாக்கார் தெரிவித்தார்.
+Imtiaz Pakir Makar urges immediate action to address the longstanding teacher shortages in the Beruwala Education constituency, highlighting critical vacancies in mathematics, science, and English teaching positions that have persisted for over a decade. The situation impacts student exam readiness and reflects broader issues within the Kalutara Education Zone, affecting both the quality of education and teacher morale.
 
-பாராளுமன்றத்தில் புதன்கிழமை (5) இடம்பெற்ற  நாட்டின் கல்வி நடவடிக்கைகள் தொடர்பான பிரச்சினை தொடர்பில் சபை ஒத்திவைப்பு வேளை விவாதத்தில் கலந்துகொண்டு உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்தார்.
+🟩
 
-களுத்துறை கல்வி வலயத்திலிருந்து வரும் பாரிய ஆசியர் பற்றாக்குறை தொடர்பாகப் பல தடவைகள் அமைச்சருக்கு எடுத்துறைக்கும்போது அதற்கு சிறந்த முறையில் பதில் வழங்கப்பட்டபோதும் செயற்பாட்டில்  திருப்தியளிக்கும் வகையில் எந்த பதிலும் இதுவரை கிடைக்கப்பெறவில்லை. களுத்துறை கல்வி வலயத்தில் பேருவலை தொகுதியில் மாத்திரம் நூற்றுக்கு 36வீத ஆசிரியர் பற்றாக்குறை இருந்து வருகிறது. அதாவது, நூறுபேர் இருக்கவேண்டிய இடத்தில் 36பேர் இல்லை.
+The long -standing teacher vacancies for high -quality classes in the Kalutara Educational Zone are still not filled. Opposition member Imtiaz Pakir Makar said that the teacher should take immediate steps to fill the vacancies in this regard.
+
+He said this while addressing the debate on the issue of the country's educational activities in Parliament on Wednesday (5).
+
+When the Minister has repeatedly responded to the lack of a massive Asian Zone from the Kalutara Education Zone, there is no response to the function.. There is a shortage of teachers in the Beruwalai constituency in the Kalutara Education Zone alone. That is, there are no 36 people where there should be a hundred.
+
+Mathematics and Science Graduate Teacher Vacancies are found in the Beruwalai constituency. This teacher has been in shortage for 10, 12 years. If so, how can these students face exams?I urge the Minister to search for this.
 
 ...
 
 [Data](articles/41b87500.json)
+
+[Extended Data](ext_articles/41b87500.ext.json)
 
 ---
 
@@ -358,19 +468,27 @@ A stock of 13.680 grams of heroin was recovered from a house in Kumbukgetewatta 
 
 ---
 
-### தமிழ் பொதுவேட்பாளர் பயனற்ற மூலோபயம் - ஐரோப்பிய தூதுக்குழுவிடம் சம்பந்தன் தெரிவிப்பு
+### Tamil General Candidate Functionable Strategy
 
 *2024-06-05 20:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/185405) · `ta`
 
-ஜனாதிபதி தேர்தலில் தமிழ் பொதுவேட்பாளர் என்ற மூலோபாயம் பயனற்றது. தென்னிலங்கையில் உள்ள தலைவர்களுடன் பேச்சுக்களை முன்னெடுத்தே இறுதியான தீர்மானம் எடுக்கப்பட வேண்டும் என்று இலங்கைத் தமிழரசுக்கட்சியின் சிரேஷ்ட தலைவரும், திருகோணமலை மாவட்ட பாராளுமன்ற உறுப்பினருமான இரா.சம்பந்தன் தெரிவித்தார்.
+The Tamil general candidate's strategy in the Sri Lankan presidential election is deemed ineffective due to a lack of consideration for the Tamil people's long-term aspirations. Despite continuous mandates issued by the Tamil community during elections, their needs are overlooked post-elections. The Sri Lankan government's failure to implement agreements, including constitutional amendments, and the denial of the Tamil people's right to self-determination, have led to frustration. The EU delegation expressed concerns about the Tamil general candidate's relevance and the postponement of elections, highlighting the importance of holding elections to uphold democratic rights.
 
-அதேநேரம், தமிழ் மக்கள் தொடர்ச்சியாக வழங்கி வருகின்ற ஆணையைத் தென்னிலங்கையின் ஆட்சியாளர்கள் நிராகரித்து வருகின்ற நிலையில் தேர்தல்களைத் தொடர்ச்சியாக நடத்தப்படுவதற்கு அப்பால் தமிழ் மக்களின் ஆணையை ஏற்றுக்கொள்வதற்கான அழுத்தங்களையும் பிரயோகிக்க வேண்டும் என்றும் வலியுறுத்தியுள்ளார்.
+🟩
 
-இலங்கைக்கு விஜயம் செய்துள்ள ஐரோப்பிய ஒன்றியத் தூதுக்குழுவானது, நேற்றையதினம் கொழும்பில் உள்ள இரா.சம்பந்தனின் இல்லத்தில் அவரைச் சந்தித்தது. குறித்த சந்திப்பில் யாழ்.மாவட்ட பாராளுமன்ற உறுப்பினர் ஜனாதிபதி சட்டத்தரணி எம்.ஏ.சுமந்திரனும் பங்கேற்றிருந்தார்.
+The strategy of Tamil general candidate in the presidential election is ineffective. Senior Leader of the Sri Lanka Tamil National Party and Trincomalee District Parliamentarian R. Sampanthan said that a final decision should be taken with the leaders of the South.
+
+At the same time, the rulers of the South are rejected by the Tamil people's continuing mandate, he urged the appointment of the Tamil people to accept the mandate of the Tamil people beyond the election.
+
+The EU delegation, which visited Sri Lanka, met him at the residence of Sampanthan in Colombo yesterday.. Jaffna MP MA Sumanthiran was also present at the meeting.
+
+The Tamil people are constantly issuing mandate on each election based on the need to fulfill their long -term aspirations. However, the actions that are being carried out are carried out without considering the mandate they are offering.
 
 ...
 
 [Data](articles/996980f5.json)
+
+[Extended Data](ext_articles/996980f5.ext.json)
 
 ---
 
@@ -413,6 +531,8 @@ ECONOMYNEXT – Sri Lanka will set up a unit within the government that will fun
 ...
 
 [Data](articles/3c512442.json)
+
+[Extended Data](ext_articles/3c512442.ext.json)
 
 ---
 
@@ -812,6 +932,8 @@ The Convention on the Elimination of All Forms of Discrimination against Women w
 
 [Data](articles/e7c20602.json)
 
+[Extended Data](ext_articles/e7c20602.ext.json)
+
 ---
 
 ### 14 new diplomats handed over the credentials to the president
@@ -1168,21 +1290,27 @@ Amana Bank Plc, which has announced a share consolidation, closed up at 2.40.
 
 ---
 
-### ஐக்கிய நாடுகள் பாதுகாப்பு சபையில் இந்தியாவுக்கு  நிரந்தர உறுப்புரிமையை வழங்க வேண்டும்  -  எதிர்க்கட்சித் தலைவர் பிரேரணை முன்வைப்பு
+### To grant permanent membership to India in the United Nations Security Council - Opposition Leader
 
 *2024-06-05 17:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/185372) · `ta`
 
-உலகில் அதிக எண்ணிக்கையிலான மக்கள் தொகை இருக்கும்  இந்தியாவுக்கு ஐக்கிய நாடுகள் பாதுகாப்பு சபையில் நிரந்தர உறுப்புரிமையை வழங்க வேண்டும். அது தொடர்பில் இந்த சபையில் பிரேரணை ஒன்றை முன்வைக்கிறேன் என எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+Opposition leader Sajith Premadasa advocates for India's permanent UN Security Council membership, highlighting its large population and global influence. He plans to propose this in Parliament, expressing confidence in its approval.
 
-பாராளுமன்றத்தில் புதன் கிழமை (05) விசேட கூற்றொன்றை முன்வைத்து, இந்திய தேர்தலில் வெற்றிபெற்ற பிரதமர் மோடிக்கு வாழ்த்து தெரிவிக்கும் போதே இவ்வாறு தெரிவித்தார்.
+🟩
 
-உலகில் அதிக எண்ணிக்கையிலான மக்கள் தொகை இருக்கும்  இந்தியாவுக்கு ஐக்கிய நாடுகள் பாதுகாப்பு சபையில் நிரந்தர உறுப்புரிமையை வழங்குவது தற்போது மிகவும் யோக்கியமானதாகும்.
+India, which has the largest population in the world, should be given permanent membership in the United Nations Security Council. Opposition leader Sajith Premadasa said that I will present a motion in this House.
 
-விசேடமாக உலகளாவிய அதிகார கேந்திர நிலையங்களை பார்க்கும் போது உண்மையாகவே இந்தியாவுக்கு ஐக்கிய நாடுகள் பாதுகாப்பு சபையில் நிரந்தர உறுப்புரிமையை வழங்குவது நிச்சயமாக செயற்படுத்தக்கூடியதாகும். அதனால் இந்தியாவுக்கு ஐக்கிய நாடுகள் பாதுகாப்பு சபையில் நிர்ந்தர உறுப்புரிமையை வழங்கவேண்டும் என்ற பிரேரணை இந்த சபைக்கு முன்வைக்கிறேன். பாராளுமன்றத்தில் இருக்கும் 225பேரும் இதனை அனுமதிக்கும் என்ற நம்பிக்கை எமக்கு இருக்கிறது என்றார்.
+He made this statement on Wednesday (05) in Parliament and congratulated Prime Minister Modi, who won the Indian election.
+
+It is now very good that India has the largest number of populations in the United Nations Security Council.
+
+In particular, when you look at global power centers, it is true that the United Nations Security Council is sure to provide permanent membership to India. So I put forward a proposal to give India a member of the United Nations Security Council. We are confident that the 225 people in Parliament will allow it.
 
 ◼️
 
 [Data](articles/1041b60c.json)
+
+[Extended Data](ext_articles/1041b60c.ext.json)
 
 ---
 
@@ -2115,119 +2243,5 @@ Since its inception, PLC Al-Safa has been committed to innovation within the fra
 [Data](articles/75f127fa.json)
 
 [Extended Data](ext_articles/75f127fa.ext.json)
-
----
-
-### Donating Prohibited Fisheries: Laws and Legislatives Silent
-
-*2024-06-05 13:17:49* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cjrry1dyldlo) · `si`
-
-Despite environmental concerns, Sri Lanka continues to issue licenses for destructive fishing practices, impacting marine life and local economies.
-
-🟩
-
-Donating Prohibited Fisheries: Laws and Legislatives Silent
-
-Today is the international day for the fight against the fight against world environment today (June 5).
-
-"The fish is less good, the fish, the parrot, and the fishermen who are in the fishermen.. And the government has allowed the government to allow some of the prohibition. This is a good thing as it gives you a license to film Kasippu well. A lot of people know how to filter Kasippu (illegal alcohol) today. "
-
-Antony Fonseka is the Chairman of the Liteatnawanni Whakaksinni Wildlife Wildlife.
-
-Antennien from a fishing generation has a good understanding of the sea. It is also a talent to the sea of ​​antony fish by their experience. There was no difference in Antony's creators and the valley ten years ago.
-
-...
-
-[Data](articles/133d8ce9.json)
-
-[Extended Data](ext_articles/133d8ce9.ext.json)
-
----
-
-### Firing on US embassy in Beirut
-
-*2024-06-05 13:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/185356) · `ta`
-
-Reports indicate an attack on the US embassy in Beirut, confirmed by the embassy itself. The assailants used small arms, and a Syrian man was identified among them. Security personnel responded with gunfire.
-
-🟩
-
-According to reports, the US embassy in the Lebanese capital has been fired.
-
-The US embassy, ​​which confirmed the incident, targeted the embassy and launched an attack using small weapons.
-
-Meanwhile, Lebanon's security sources said that a Syrian man was fired.
-
-Soldiers who were involved in security duties in the area immediately fired a firearm.
-
-◼️
-
-[Data](articles/1c569efb.json)
-
-[Extended Data](ext_articles/1c569efb.ext.json)
-
----
-
-### Poson Salles close for the week
-
-*2024-06-05 13:08:11* · [`adalk`](https://www.ada.lk/breaking_news/පොසොන්-සතියට-සුරා-සැල්-වැසෙයි/11-410023) · `si`
-
-The Excise Department of Sri Lanka will close from June 18th to 24th, affecting liquor shop closures in Central Nuwaragam, East Nuwaragam, and Mihintale areas.
-
-🟩
-
-The Excise Department of Sri Lanka has decided to be closed down to the June 18 to the 24th to the 24th of June to 24th.
-
-Accordingly, all the liquor shops in the Central Nuwaragam province, East Nuwaragam Province, and Mihintale Divisional Secretariat areas will be closed.
-
-◼️
-
-[Data](articles/dbe3eeb5.json)
-
-[Extended Data](ext_articles/dbe3eeb5.ext.json)
-
----
-
-### 10 botanical gardens by climate zones
-
-*2024-06-05 13:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197418) · `si`
-
-Prime Minister Dinesh Gunawardena announced plans to create 10 botanical gardens across various climate zones in Sri Lanka, including locations like Galle, Vavuniya, Ampara, Polonnaruwa, and Deniyaya. These gardens aim to benefit both locals and tourists, promoting environmental education and conservation.
-
-🟩
-
-Prime Minister Dinesh Gunawardena says that it is planned to establish 10 botanical gardens under climate zones.
-
-The Prime Minister said in parliament today (05) that the botanical gardens were planned in Galle, Vavuniya, Ampara, Polonnaruwa, Polonnaruwa, Deniyaya.
-
-"It is planned to establish 10 botanical gardens. How the Botanical Gardens Expansion Plans - Akmeemana Women Gardens Vavuniya Botanic Gardens We have also gone to the Vavuniya Botanic Gardens in Ampara, Polonnaruwa and Deniyaya. Those who were doing well in the field of that subject. Therefore, we work not only to the residents but also to the people of the country but also to the goals of school children. "
-
-◼️
-
-[Data](articles/07157962.json)
-
-[Extended Data](ext_articles/07157962.ext.json)
-
----
-
-### Step-motherly treatment for Sri Lankan team in US: Sajith tells Parliament
-
-*2024-06-05 13:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Step-motherly-treatment-for-Sri-Lankan-team-in-US-Sajith-tells-Parliament/108-284167) · `en`
-
-Parliament, June 5 (Daily Mirror)- The Sri Lankan cricket team touring the USA for the World Cup T20 series has faced step-motherly treatment by the International Cricket Council (ICC), Opposition Leader Sajith Premadasa said today.
-
-He told Parliament that the Sri Lankan team has had to face serious issues with regard to logistics and scheduling of the matches.
-
-He said according to ICC regulations, the team must be located in a hotel within a maximum of 45 minutes distance from the stadium where the match is to be played and that the Sri Lankan team had been located in a hotel with a distance of one and a half hours.
-
-The Opposition Leader said the team has missed practice matches due to these issues and said that only the Sri Lankan team has faced these issues.
-
-"Why this step-motherly treatment only for our team? We cannot expect victory unless they are provide with the necessary facilities. This will affect their outcome," he said.
-
-...
-
-[Data](articles/d55d967d.json)
-
-[Extended Data](ext_articles/d55d967d.ext.json)
 
 ---

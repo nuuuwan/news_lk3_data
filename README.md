@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-06 02:04:14**
+As of **2024-06-06 02:19:00**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,606
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,680 (100.0%) of 28,681 articles have been extended.
+28,681 (100.0%) of 28,681 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,21 +50,31 @@ The 50th anniversary of the first supremacist of the Tamil nation who fought as 
 
 ---
 
-### ’ஹிஜாப்பால் பெறுபேறு இரத்தாகாது’
+### Hijab does not get rid of blood
 
 *2024-06-06 00:50:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹிஜாப்பால்-பெறுபேறு-இரத்தாகாது/175-338511) · `ta`
 
-ஹிஜாப் அணிந்து பரீட்சைக்கு தோற்றியதால் பெறுபேறு இரத்து செய்யப்படமாட்டாது என தெரிவித்த கல்வி அமைச்சர் சுசில் பிரேமஜயந்த, தற்காலிகமாக இடை நிறுத்தப்பட்டு விசாரணைகள் முன்னெடுக்கப்படும் என்றார்.
+In response to concerns about exams being affected by candidates wearing hijabs, Sri Lanka's Education Minister Susil Premajayantha clarified that exam results won't be canceled due to this. He also noted that while wearing a hijab, candidates can keep their ears covered. This statement was made after 13 individuals had their exam results suspended for wearing hijabs during the Chancellor Service Examination in the Western Province. The Department of Examinations has allowed the use of hijabs in national exams, emphasizing that examiners must respect this decision.
 
-காதுகளை மறைத்த வண்ணம் ஹிஜாப் அணிந்திருக்கும் போது சூட்சமான முறையில் காதுக்குள் கருவிகளை வைத்திருக்க முடியும்.இவ்வாறான நிலையில் தான் காதுகள் தென்படும் வகையில் அணியுமாறு குறிப்பிடப்படுகிறது என்றார்.
+🟩
 
-பாராளுமன்றத்தில்   ஐக்கிய மக்கள் சக்தி எம்.பி. யான முஜிபுர் ரஹ்மானினால் புதன்கிழமை (05)  எழுப்பப்பட்ட கேள்விக்கு பதிலளிக்கையிலேயே கல்வி அமைச்சர் இவ்வாறு தெரிவித்தார்.
+Education Minister Susil Premajayantha said that the results of the hijab would not be canceled due to the appearance of the exam.
 
-அதிபர் சேவை பரீட்சைக்கு மேல் மாகாணத்தில் தோற்றிய 13 பேர் ஹிஜாப் அணிந்த வகையில்  பரீட்சைக்கு தோற்றியதற்காக அவர்களின் பெறுபேறு இடைநிறுத்தப்பட்டுள்ளது.
+When wearing a hijab, the ears can be kept in the ear when wearing the hijab.
+
+United People's Power MP in Parliament. In response to a question raised by Mujibur Rahman on Wednesday (05), the Minister of Education said this.
+
+Their results have been suspended for the examination of 13 people who have appeared in the province of the Chancellor Service Examination.
+
+The Department of Examinations has granted permission for the National Examinations worn by hijab. If the examiner is in charge of the examination, he should be obliged to obey the examiner's ears.
+
+Officials of the Examination Center have notified the Department of Examinations that 13 people who appeared for the Chancellor Examination in the Western Province have been wearing a hijab. Their exam results have been suspended.
 
 ...
 
 [Data](articles/69ed98de.json)
+
+[Extended Data](ext_articles/69ed98de.ext.json)
 
 ---
 

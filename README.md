@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-05 23:34:24**
+As of **2024-06-05 23:53:47**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,606
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,661 (100.0%) of 28,663 articles have been extended.
+28,663 (100.0%) of 28,663 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,6 +46,8 @@ They then chased down a target of 97 with more than seven overs to spare, captai
 
 [Data](articles/8f4ce1fd.json)
 
+[Extended Data](ext_articles/8f4ce1fd.ext.json)
+
 ---
 
 ### Ravindra Randeniya celebrates 50 years in cinema
@@ -57,6 +59,8 @@ Renowned artist Ravindra Randeniya, celebrating 50 years in cinema and his 79th 
 ◼️
 
 [Data](articles/0df5cc8d.json)
+
+[Extended Data](ext_articles/0df5cc8d.ext.json)
 
 ---
 

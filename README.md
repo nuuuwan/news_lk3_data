@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-05 08:53:32**
+As of **2024-06-05 09:05:30**
 
 ## Newspaper Stats
 
-*Scraped **28,508** Articles*
+*Scraped **28,513** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,88 @@ economynextcom | 1,620
 dailyftlk | 1,686
 adalk | 2,425
 adaderanalk | 3,236
-tamilmirrorlk | 3,352
+tamilmirrorlk | 3,353
 virakesarilk | 4,387
-dailymirrorlk | 4,513
-adaderanasinhalalk | 4,575
+dailymirrorlk | 4,514
+adaderanasinhalalk | 4,578
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,499 (100.0%) of 28,508 articles have been extended.
+28,499 (100.0%) of 28,513 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-05 (Wednesday)
+
+### ඩෙංගු හිස ඔසවයි
+
+*2024-06-05 08:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197407) · `si`
+
+මේ වසරේ ගත වූ මාස 5 ක කාලසීමාව තුළ ඩෙංගු රෝගීන් විසිපන් දහසකට අධික සංඛ්‍යාවන් වාර්තා වී ඇති බව ඩෙංගු මර්දන ඒකකය පවසයි.
+
+එහි අධ්‍යක්ෂ, විශේෂඥ වෛද්‍ය සුදත් සමරවීර මහතා සඳහන් කළේ, පාසල් බොහොමයක මඳුරුවන් බෝවන ස්ථාන හඳුනා ගැනීම දැඩි අවදානම් තත්ත්වයක් බවය.
+
+දිවයිනට බලපා ඇති අයහපත් කාලගුණ තත්ත්වය හේතුවෙන් සංවිධානය කර තිබූ ඩෙංගු මර්දන වැඩසටහන් සියල්ල කල් දැමීමට සිදුව ඇති බවද සෞඛ්‍ය කීට විද්‍යා නිලධාරීන්ගේ සංගමයේ සභාපති නජිත් සුමණසේන මහතා පවසයි.
+
+◼️
+
+[Data](articles/3d93bd88.json)
+
+---
+
+### ජල මුලාශ්‍ර රැසක් අපිරිසිදු තත්ත්වයේ
+
+*2024-06-05 08:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197406) · `si`
+
+පවතින ගංවතුර තත්ත්වය සමඟ ජල මූලාශ්‍ර අපිසිදු වීම හේතුවෙන් බෝවන රෝග පැතිරීමේ අවදාමක් මතුව ඇති බව කොළඹ මහ නගර සභාව පවසයි.
+
+එහි ප්‍රධාන සෞඛ්‍ය වෛද්‍ය නිලධාරී වෛද්‍ය ගීතිකා රත්නවර්ධන මහත්මිය සඳහන් කළේ, හැකි සෑම අවස්ථාවකම උණුකර නිවාගත් ජලය පානය කිරීමට පියවර ගන්නා ලෙසය.
+
+"මේ දවස්වල ජල මුලාශ්‍ර අපවිත්‍ර වීම හේතුවෙන් පාචනය හා මී උණ වැනි බෝවන රෝග පැතිර යෑමේ අවධානමක් තියෙනවා. ඒ නිසා හැකි සෑම අවස්ථාවකම උණුකර නිවාගත් ජලය හෝ බෝතල් කළ ජලය පානය කරන්න. පලතුරු, එළවළු සහ පළාවර්ග භාවිතයට පෙර ඉතා හොඳින් පිරිසිදු ගත යුතුයි. මේ දිනවල පමණක් හැකිතාක් දුරට අමු එළවළු හා පළා වර්ග ආහාරයට ගැනීමෙන් වළකින්න. හො﻿ඳින් පිසගත් ආහාර පමණක් ලබාගන්න. පිටතින් ලබාදෙන ආහාර කල් නොයවා ඉක්මනින් ආහාරයට ගත යුතුයි. ආහාර පිළියෙල කරගත් පසු මැස්සන්ගෙන් ආරක්ෂා කරගන්න. ගංවතුර පැවති ප්‍රදේශවල ළිං නැවත භාවිතයට පෙර ඉස පිරිසිදු කර ක්ලෝරීන් යොදා පිරිසිදු කළ යුතු නිසා මහජන සෞඛ්‍ය පරීක්ෂකවරුන්ගෙන් මේ පිළිබඳ උපදෙස් ලබාගත යුතුයි."
+
+◼️
+
+[Data](articles/4c9e92bb.json)
+
+---
+
+### குழந்தைய மோசமாக தாக்கிய நபரும் பெண்களும் கைது
+
+*2024-06-05 08:50:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குழந்தைய-மோசமாக-தாக்கிய-நபரும்-பெண்களும்-கைது/175-338464) · `ta`
+
+நேற்று பெரும் அதிர்வலையை ஏற்படுத்திய 4 வயதுச் சிறுவன் மீது தாக்குதல் நடத்திய சம்பவத்தில் தேடப்பட்டு வந்த நபர், புல்மோடை – ஆசிரிமலை பகுதியில் வைத்து இன்று (05) அதிகாலை கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவிக்கின்றனர்.
+
+இந்த தாக்குதலை நடத்துவதற்கு ஒத்துழைப்பு வழங்கிய குற்றச்சாட்டின் கீழ், 37 மற்றும் 46 வயதான இரண்டு பெண்களும் கைது செய்யப்பட்டுள்ளனர்.
+
+கைது செய்யப்பட்டவர் மணலாறு (வெலிஓயா) – கல்யாணிபுரம் பகுதியைச் சேர்ந்த 45 வயதானவர் என தெரிவிக்கப்படுகின்றது.
+
+தாக்குதலுக்கு இலக்கான நான்கரை வயதுச் சிறுவனை பொலிஸார் தமது பொறுப்பிற்கு எடுத்து, சட்ட வைத்திய அதிகாரிக்கு முன்னிலைப்படுத்தியுள்ளதாக பொலிஸார் குறிப்பிடுகின்றனர்.
+
+சந்தேகநபர்களை இன்றைய தினம் (05) நீதிமன்றத்தில் முன்னிலைப்படுத்த நடவடிக்கை எடுக்கப்பட்டுள்ளதுடன், புல்மோடை பொலிஸார் மேலதிக விசாரணைகளை ஆரம்பித்துள்ளனர். R
+
+◼️
+
+[Data](articles/9c7fbf6d.json)
+
+---
+
+### President raises concerns with NATA over ‘Happy Hour’
+
+*2024-06-05 08:37:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/President-raises-concerns-with-NATA-over-Happy-Hour/108-284136) · `en`
+
+Colombo, June 6 (Daily Mirror) - President Ranil Wickremesinghe has raised concerns with the National Authority on Tobacco and Alcohol (NATA) yesterday about the latter’s moves to enforce law against scrapping hotels’ ‘Happy Hour’, which in turn could result in the country’s growing tourism industry, the Daily Mirror learns.
+
+A controversial communiqué issued by the NATA last week raised eyebrows of many in the tourism and hospitality industry including its stakeholders like the hoteliers and restaurateurs, tourism authorities as well as the law enforcement agencies like the Excise Department, who spoke not in favour of the move.
+
+The Daily Mirror with its headlines, ‘Industry stakeholders up in arms against moves to scrap ‘Happy Hour’ reported on Saturday how the sudden and abrupt decision of the NATA to enforce its Section 37(2) of the NATA Act No.27 of 2006 (Amended) would discourage tourism sector and consumers.
+
+...
+
+[Data](articles/66a19d7b.json)
+
+---
 
 ### Sri Lankans fighting in Russia-Ukraine war face lies, hardships
 
@@ -111,6 +179,24 @@ The general public is kindly requested to take adequate precautions to minimize 
 [Data](articles/c129d124.json)
 
 [Extended Data](ext_articles/c129d124.ext.json)
+
+---
+
+### දරුවාට පහරදුන් පුද්ගලයා සැඟව සිටිය දී අත්අඩංගුවට පත්වූ හැටි
+
+*2024-06-05 08:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197404) · `si`
+
+සමාජ මාධ්‍ය ඔස්සේ සංසරණය වූ දරුවෙකුට පහරදීමේ සිද්ධියට සම්බන්ධ පුද්ගලයා සැඟව සිටිය දී අත්අඩංගුවට පත්වූ අවස්ථාවේ දර්ශන පෙළක් "අද දෙරණ"ට ලැබී තිබේ.
+
+අද (05) අලුයම පුල්මුඩේ අරිසිමලේ ප්‍රදේශයේ දී අදාළ පුද්ගලයා සහ පහරදීමට ආධාර අනුබල දීමේ චෝදනා මත තවත් කාන්තාවන් දෙදෙනෙකු ද අදාළ සැකකරු සමග අත්අඩංගුවට ගත් බව පොලීසිය පැවසුවේය.
+
+අත්අඩංගුවට ගෙන ඇත්තේ 45 හැවිරිදි පුද්ගලයෙක් සහ 37 සහ 46 හැවිරිදි කාන්තාවන් දෙදෙනෙකි.
+
+පහරකෑමට ලක් වූ අවුරුදු 4 1/2 ක දරුවා ද පොලිස් භාරයට ගෙන මේ වනවිට අධිකරණ වෛද්‍යවරයා හමුවට ඉදිරිපත් කර තිබේ.
+
+◼️
+
+[Data](articles/09be8ecc.json)
 
 ---
 
@@ -2085,117 +2171,5 @@ OpenAI hasn't yet commented on what exactly caused ChatGPT's biggest outage of 2
 [Data](articles/062dd282.json)
 
 [Extended Data](ext_articles/062dd282.ext.json)
-
----
-
-### Sri Lanka’s Elusive Accountability
-
-*2024-06-04 18:49:19* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/sri-lankas-elusive-accountability/) · `en`
-
-Sri Lankans observe May 1 ‘the International Labour Day” as a holiday. Political parties hold rallies, often as a show of strength. Three decades ago, President Ranasinghe Premadasa was killed by a LTTE suicide bomber, while addressing the United National Party (UNP)’s May Day rally. This year as many as 19 rallies were held in Colombo. The presidential election poised to be held in Sept-October added interest to the rallies. Notable among them was the rally of the UNP addressed by President Ranil Wickremesinghe. The large number of people who turned up at the rally probably cheered Wickremesinghe, after the historic drubbing the UNP suffered in the last parliamentary poll. Wickremesinghe also lost the election.
-
-...
-
-[Data](articles/ff023bbf.json)
-
-[Extended Data](ext_articles/ff023bbf.ext.json)
-
----
-
-### Governor instructs the opening of Western schools
-
-*2024-06-04 18:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197392) · `si`
-
-The Governor of the Western Province, Roshan Gunatilleke, has directed all school principals to reopen schools amidst flood conditions.
-
-🟩
-
-The floods have instructed principals in all schools in the Western Province to open the floods.
-
-The Governor of the Western Province Roshan Gunatilleke has been given instructions.
-
-◼️
-
-[Data](articles/691b98b7.json)
-
-[Extended Data](ext_articles/691b98b7.ext.json)
-
----
-
-### The country will settle if contracts with the International Monetary Fund are violated again!- President Ranil Wickremesinghe
-
-*2024-06-04 18:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/185323) · `ta`
-
-President Ranil Wickremesinghe emphasized the importance of adhering to IMF contracts to avoid economic ruin and urged support for the Economic Transfer Bill. He highlighted the government's efforts to improve the economy, including land guarantees and rice subsidies for low-income families, and called for unity to tackle challenges.
-
-🟩
-
-The country will go backwards if contracts with the International Monetary Fund are violated. President Ranil Wickremesinghe stressed that it is the responsibility of all to support the Economic Transfer Bill presented in Parliament to implement all those agreements.
-
-The President said that according to agreements with the International Monetary Fund, the country's economy has to meet a number of economic goals to maintain the country's economy and that violation of those goals will lead to destruction of the country's economy.
-
-The President said that it is the responsibility of the opposition to speak only within the existing structure, not in vain for political gain.
-
-The president said that the opposition parties continued to take on traditional politics and that the opposition was still in the opposition, saying that the government had expressed its successful decisions today and therefore invited everyone to travel on the same path for the benefit of the country.
-
-...
-
-[Data](articles/c1ac2c27.json)
-
-[Extended Data](ext_articles/c1ac2c27.ext.json)
-
----
-
-### Universalic power to court prevent a boova
-
-*2024-06-04 18:22:22* · [`adalk`](https://www.ada.lk/breaking_news/බූවල්ලෙක්-ජනපති-වීම-වැළැක්වීමට-සර්වජන-බලය-අධිකරණයට/11-410006) · `si`
-
-Ranil Wickremesinghe aims to abolish the executive presidency to centralize power, affecting ministries like Commerce, Investment, and Finance. His proposed bills create eight new institutions reporting directly to the President, likened to an octopus with economic influence everywhere. Critics argue against granting excessive presidential powers, advocating for judicial oversight and parliamentary checks.
-
-🟩
-
-Ranil Wickremesinghe said that he had to be abolished until he was appointed to the Executive Presidency, he said.
-
-He was speaking at the "Universal Authority UPFA to challenge the Economic Translation Act and the Fiscal Management Act to the Supreme Court.
-
-"Ranil Wickremesinghe is now trying to abolish the executive presidency to be abolished to the executive presidency.
-
-This will bring about all ministries of ministries such as the Ministry of Commerce, the Ministry of Investment and Minister of Finance and Finance to the Minister of Ministries such as the Ministry of Investment.
-
-These bill produces eight new institutions through the Bill. These institutions are responsible for the ministries of each ministries directly to the President.
-
-The President of Sri Lanka is like an octopus if these bills passed. There are archea's roots in every area where the economy is. The President is the head of the octopus.
-
-...
-
-[Data](articles/065c95e3.json)
-
-[Extended Data](ext_articles/065c95e3.ext.json)
-
----
-
-### United Nations Resident Coordinator for Sri Lanka
-
-*2024-06-04 18:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/185322) · `ta`
-
-Mark-André Franche, UN Resident Coordinator for Sri Lanka, visited Mannar, holding discussions at the Mannar Human Rights and Development Center about human rights issues. He met with local leaders and activists, including Attorney VS Iinjan and Ranitha Gnanaraj, and toured the Sathosa human burial site.
-
-🟩
-
-The United Nations Resident Coordinator for Sri Lanka, Mark-André Franche, held a visit to Mannar on Tuesday afternoon.
-
-A special meeting was held at Mannar Human Rights and Development Center on Tuesday, 4th. During this time, the association head of the families of the Mannar district, Manuel Udayachandra and the disappearance of the disappeared, also discussed.
-
-They also met with human rights activists, Attorney VS Iinjan and Ranitha Gnanaraj and discussed various issues, including the human rights positions in the Mannar district.
-
-He then visited the Sathosa human burial in the Mannar city area.
-
-Representatives of Mannar Human Rights and Development Center, Mannar District Association's Association, Manuel Udayachandra, Human Rights activists, Attorney -at -Law VS Stainsan and Ranitha Gnanaraj accompanied the United Nations Resident Deputy Fund for Sri Lanka.
-
-◼️
-
-[Data](articles/0f3e6c35.json)
-
-[Extended Data](ext_articles/0f3e6c35.ext.json)
 
 ---

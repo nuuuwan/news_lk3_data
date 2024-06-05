@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-05 05:18:50**
+As of **2024-06-05 05:37:04**
 
 ## Newspaper Stats
 
-*Scraped **28,449** Articles*
+*Scraped **28,469** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 258
-dbsjeyarajcom | 270
+dbsjeyarajcom | 273
 bbccomsinhala | 278
 newsfirstlk | 363
 islandlk | 1,533
 economynextcom | 1,620
-dailyftlk | 1,669
+dailyftlk | 1,678
 adalk | 2,423
 adaderanalk | 3,234
-tamilmirrorlk | 3,346
-virakesarilk | 4,381
+tamilmirrorlk | 3,348
+virakesarilk | 4,387
 dailymirrorlk | 4,504
 adaderanasinhalalk | 4,570
 
@@ -26,11 +26,283 @@ adaderanasinhalalk | 4,570
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,449 (100.0%) of 28,449 articles have been extended.
+28,453 (99.9%) of 28,469 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-05 (Wednesday)
+
+### Star Garments Group expands with acquisition of Bernard Boteju Kolonna plant
+
+*2024-06-05 05:16:30* · [`dailyftlk`](https://www.ft.lk/business/Star-Garments-Group-expands-with-acquisition-of-Bernard-Boteju-Kolonna-plant/34-762623) · `en`
+
+From left: Bernard Botejue Industries Managing Director Bernard Botejue, Chairman Janaka Botejue,  Star Garments Group Managing Director A. Sukumaran and Director of Operations Jeevith Senaratne
+
+Star Garments Group has completed its latest expansion venture with the acquisition of the assets of Kolonna Manufacturing Ltd.
+
+This acquisition marks the group’s twelfth factory and will create over 1,000 job opportunities in Kolonna in the Ratnapura district. The acquisition cements Star’s belief in the potential for Sri Lankan apparel exports to grow as global sourcing bases look to diversify regional risks in other parts of the globe.
+
+On the acquisition, Komar President and CEO Charlie Komar said: “This investment reaffirms our long-term commitment to Sri Lanka and our belief that the country remains an untapped resource in apparel manufacturing. Star continues to remain a priority for Komar and we look forward to this division’s growth in the coming years.”
+
+...
+
+[Data](articles/df51c1f4.json)
+
+---
+
+### ‘Enterprise Sri Lanka’ to boost SME sector
+
+*2024-06-05 05:15:17* · [`dailyftlk`](https://www.ft.lk/business/Enterprise-Sri-Lanka-to-boost-SME-sector/34-762622) · `en`
+
+The Cabinet of Ministers on Monday approved the establishment of a new entity named ‘Enterprise Sri Lanka’ aimed at supporting small and medium-scale enterprises (SMEs).
+
+The initiative is designed to restructure the institutional and legal frameworks of several existing organisations to provide more effective development and monitoring of SMEs.
+
+The organisations under the restructuring include the Export Development Board (EDB), National Entrepreneurship Development Authority (NEDA), Industrial Development Board (IDB), Sri Lanka Export Credit Insurance Corporation (SLECIC), and the Small Enterprises Development Division of the Ministry of Sports and Youth Affairs.
+
+In addition to creating ‘Enterprise Sri Lanka,’ the Cabinet decided to direct the Legal Draftsman to formulate a draft bill to facilitate the process.
+
+...
+
+[Data](articles/2be36a96.json)
+
+---
+
+### High-level delegation of Swedish companies in town marking 75 years of bilateral ties
+
+*2024-06-05 05:14:34* · [`dailyftlk`](https://www.ft.lk/business/High-level-delegation-of-Swedish-companies-in-town-marking-75-years-of-bilateral-ties/34-762621) · `en`
+
+Sweden-Sri Lanka collaboration program from 5 to 7 June in Colombo
+
+Team Sweden celebrates 75 years of Sri Lanka-Sweden diplomatic relations by bringing a high-level delegation of Swedish companies to Sri Lanka from 5-7 June, in connection with Sweden’s National Day celebrations on 6 June and an Energy Seminar on 7 June.
+
+With the Sri Lankan economy set to rebound this year, Team Sweden in Sri Lanka including the Embassy of Sweden, Honorary Consulate of Sweden in Sri Lanka and Business Sweden, in collaboration with Sweden-Sri Lanka Business Council (SSLBC) have set an ambition to define and launch Sweden-Sri Lanka Collaboration Program, which includes various initiatives and activities to promote economic and trade collaboration between the two countries.
+
+...
+
+[Data](articles/b1bb91de.json)
+
+---
+
+### Sri Lanka woos UK Dover Port Marina to Colombo Port City
+
+*2024-06-05 05:12:48* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-woos-UK-Dover-Port-Marina-to-Colombo-Port-City/34-762620) · `en`
+
+High Commissioner of Sri Lanka to the UK Rohitha Bogollagama, and Colombo Port City Economic Commission (CPCEC ) Chairman and Board of Investment (BOI) Chairman Dinesh Weerakkody, together with Minister (Commercial) of the High Commission Somasena Mahadiulwewa and the representatives from private sector of Sri Lanka, paid a visit to Dover Port Marina in the UK on 31 May.
+
+Port of Dover Chief Executive Doug Bannister, led a guided tour of the Dover Port Marina facility, coordinated by British-Sri Lankan entrepreneur and Marina Hotel Dover President K. Rajaseelan.
+
+The Port of Dover boasts facilities for ferries, handling cruises and cargo, and the Dover Marina. This marina opened in 2021, provides a large new outdoor space for the public to enjoy in Dover, transforming the waterfront with entertainment and world-class food stalls for everyone.
+
+...
+
+[Data](articles/38366593.json)
+
+---
+
+### Cabinet approves relief to families affected by floods
+
+*2024-06-05 05:10:49* · [`dailyftlk`](https://www.ft.lk/news/Cabinet-approves-relief-to-families-affected-by-floods/56-762619) · `en`
+
+President Wickremesinghe yesterday undertook an observation tour by air to assess the flood situation
+
+Appoints committee under leadership of District Secretary of Colombo to prepare detailed development plan to redesign Kolonnawa town
+
+The Cabinet of Ministers on Monday approved a proposal furnished by Prime Minister Dinesh Gunawardena to provide relief to families affected by the floods and to immediately implement a hasty program to restore public infrastructure facilities with the services of the tri-forces and the
+
+Civil Defence force along with the contribution of other Ministries.
+
+Thousands of families have been temporarily affected due to landslides, falling of trees, floods as well as extreme damage to public infrastructure facilities due to extreme rain in a number of districts in the country as a result of weather changes developing unexpectedly with the activation of the South Western monsoonal conditions.
+
+...
+
+[Data](articles/c6198dab.json)
+
+---
+
+### LPG prices reduced; LAUGFS remains cheapest
+
+*2024-06-05 05:09:10* · [`dailyftlk`](https://www.ft.lk/news/LPG-prices-reduced-LAUGFS-remains-cheapest/56-762618) · `en`
+
+LPG prices were reduced with immediate effect by Litro Gas and LAUGFS with the latter reiterating it remains the cheapest.
+
+Litro Gas Chairman Muditha Peiris yesterday announced that the company had decided to reduce domestic LP gas prices across the board with effect from midnight last night.
+
+Accordingly the price of the 12.5 kg cylinder has been reduced by Rs. 150 to Rs. 3,790, whilst the price of a 5 kg canister of gas has been reduced by Rs. 60 to Rs. 1,525 and the 2.3 kg cylinder of gas will be reduced by Rs. 28 to Rs. 712.
+
+He said the decision was taken according to the monthly effective price formula.
+
+LAUGFS Gas PLC, yesterday announced a significant customer benefit through a massive price reduction of its LAUGFS Branded domestic LPG with immediate effect.
+
+The price of a 12.5kg domestic cylinder under the LAUGFS brand will be reduced by Rs. 160 to an MRP of Rs. 3,680 within the Colombo district. Prices in other areas and pack sizes will be adjusted accordingly.
+
+...
+
+[Data](articles/dfdd27b1.json)
+
+---
+
+### Mujibur warns against Govt. tactics to postpone polls
+
+*2024-06-05 05:07:49* · [`dailyftlk`](https://www.ft.lk/news/Mujibur-warns-against-Govt-tactics-to-postpone-polls/56-762617) · `en`
+
+Raises concern over discussions to postpone elections and change country’s constitution
+
+Calls for unity to oppose attempts to manipulate electoral process and protect democratic rights
+
+Mujibur Rahman issued a warning yesterday to both political parties and the public in Sri Lanka to stay alert for potential Government tactics aimed at postponing elections.
+
+During a press conference in Colombo, Rahman urged all groups to unite in order to safeguard the people’s democratic rights and their right to vote.
+
+The MP accused President Ranil Wickremesinghe of collaborating with a corrupt group and emphasised that the SJB has no intention of working with them.
+
+“President Wickremesinghe’s agenda is inconsistent with that of the SJB,” he said. “The SJB has no desire to engage in discussions with those who violated the constitution, attempted to prevent elections, and betrayed the people’s struggle,” he noted.
+
+...
+
+[Data](articles/abf038a3.json)
+
+---
+
+### Govt. freezes assets of 15 entities and 210 persons linked to terrorism
+
+*2024-06-05 05:06:12* · [`dailyftlk`](https://www.ft.lk/news/Govt-freezes-assets-of-15-entities-and-210-persons-linked-to-terrorism/56-762616) · `en`
+
+The Government has initiated measures to freeze all financial assets and economic resources belonging to 15 organisations and 210 individuals suspected of involvement in terrorist and extremist activities.
+
+The announcement was made via a gazette notification issued on 3 June by the Secretary to the Ministry of Defence General (Retd.) Kamal Gunaratne under the authority granted by the United Nations Regulations No. 1 of 2012.
+
+The order mandates the freezing of all funds, financial assets, and economic resources owned, held, or controlled by any natural or legal person, group, or entity designated under regulation 4 of these regulations.
+
+...
+
+[Data](articles/6c445137.json)
+
+[Extended Data](ext_articles/6c445137.ext.json)
+
+---
+
+### Sri Lanka Army personnel seen navigating through floodwaters in a WMZ 551B to rescue stranded residents in the Kukuleganga area
+
+*2024-06-05 05:05:49* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-Army-personnel-seen-navigating-through-floodwaters-in-a-WMZ-551B-to-rescue-stranded-residents-in-the-Kukuleganga-area/56-762615) · `en`
+
+Sri Lanka Army personnel seen navigating through floodwaters in a WMZ 551B to rescue stranded residents in the Kukuleganga area. Both military and police forces are currently engaged in island-wide rescue operations following heavy rains and severe weather conditions.
+
+◼️
+
+[Data](articles/7e1bd086.json)
+
+[Extended Data](ext_articles/7e1bd086.ext.json)
+
+---
+
+### நேபாளத்தை 6 விக்கெட்களால் வென்றது நெதர்லாந்து
+
+*2024-06-05 02:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/185340) · `ta`
+
+டெக்சாஸ் டலாஸ் க்ராண்ட் ப்ரெய்ரீ விளையாட்டரங்கில் செவ்வாய்க்கிழமை (04) மிகவும் இறுக்கமாக நடைபெற்ற டி குழுவுக்கான ரி20 உலகக் கிண்ண கிரிக்கெட் போட்டியில் நெதர்லாந்து 6 விக்கெட்களால் வெற்றிபெற்றது.
+
+நேபாளத்தினால் நிர்ணயிக்கப்பட்ட 107 ஓட்டங்களை வெற்றி இலக்காகக் கொண்டு பதிலுக்கு துடுப்பெடுத்தாடிய நெதர்லாந்து 18.5 ஓவர்களில் 4 விக்கெட்களை இழந்து 109 ஓட்டங்களைப் பெற்று வெற்றியீட்டியது.
+
+அனுபவசாலியான மெக்ஸ் ஓ'தௌத் திறமையாகத் துடுப்பெடுத்தாடி ஆட்டம் இழக்காமல் 54 ஓட்டங்களைப் பெற்று அணியை வெற்றி அடையச் செய்தார்.
+
+அவரைவிட விக்ரம்ஜித் சிங் 22 ஓட்டங்களையும் சைப்ராண்ட் எங்க்ள்ப்ரெச் 14 ஓட்டங்களையும் பாஸ் டி லீட் ஆட்டம் இழக்காமல் 11 ஓட்டங்களையும் பெற்றனர்.
+
+18ஆவது ஓவரில் மொத்த எண்ணிக்கை 89 ஓட்டங்களாக இருந்தபோது ஓ'தௌத் கொடுத்த இலகுவான பிடியை நேபாள அணித் தலைவர் பவ்டெல் தவறவிட்டார்.
+
+அடுத்த ஓவரில் அதிரடியாகக் துடுப்பெடுத்தாடிய ஓ'தௌத், பாஸ் டி லீட் ஆகிய இருவரும் வெற்றியை உறுதிசெய்தனர்.
+
+...
+
+[Data](articles/0d0e3884.json)
+
+---
+
+### இங்கிலாந்து - ஸ்கொட்லாந்து போட்டி மழையால் கைவிடப்பட்டது
+
+*2024-06-05 02:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/185339) · `ta`
+
+இங்கிலாந்துக்கும் ஸ்கொட்லாந்துக்கும் இடையில் பார்படோஸ், ப்றிஜ்டவுன் கென்சிங்டன் ஓவல் விளையாட்டரங்கில் செவ்வாய்க்கிழமை (04) நடைபெற்ற 9ஆவது ரி20 உலகக் கிண்ண அத்தியாயத்தின் பி குழு போட்டி மழையால் கைவிடப்பட்டது.
+
+இந்த இரண்டு அணிகளுக்கும் இடையில் 2008இல் நடைபெற்ற முதலாவது சர்வதேச ஒருநாள் கிரிக்கெட் போட்டியும் மழையால் கைவிடப்பட்டிருந்தது.
+
+மழையினால் தாமதித்து ஆரம்பமானதும் இடையில் தடைப்பட்டு 10 ஓவர்களாக மட்டுப்படுத்தப்பட்டதுமான  போட்டியில்  ஸ்கொட்லாந்து விக்கெட் இழப்பின்றி 90 ஓட்டங்களைக் குவித்தது.
+
+மழை காரணமாக 52 நிமிடங்கள் தாமதித்து ஆரம்பித்த போட்டியில் முதலில் துடுப்பெடுத்தாடத் தீர்மானித்த ஸ்கொட்லாந்து 6.2 ஓவர்களில் விக்கெட் இழப்பின்றி 51 ஓட்டங்களைப் பெற்றிருந்தபோது மீண்டும் மழை பெய்ததால் ஆட்டம் தடைப்பட்டது.
+
+ஆட்டம் இடைநிறுத்தப்பட்டபோது மைக்கல் ஜோன்ஸ் 30 ஓட்டங்களுடனும் ஜோர்ஜ் மன்சே 18 ஓட்டங்களுடனும் ஆட்டம் இழக்காதிருந்தனர்.
+
+சுமார் 2 மணித்தியாலங்களின் பின்னர் ஆட்டம் மீண்டும் தொடர்ந்தபோது அணிக்கு 10 ஓவர்கள் என மத்தியஸ்தர்களால் அறிவிக்கப்பட்டது.
+
+...
+
+[Data](articles/c61ac6dd.json)
+
+---
+
+### புங்குடுதீவில் கிணற்றிலிருந்து பெண்ணின் சடலம் மீட்பு
+
+*2024-06-05 02:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/185338) · `ta`
+
+யாழ்ப்பாணம் ஊர்காவற்றுறை பொலிஸ் பிரிவுக்குட்பட்ட புங்குடுதீவு மடத்துவெளி வயலூர் முருகன் ஆலய கிணற்றிலிருந்து இளம் பெண் ஒருவரின் சடலம் 4 ஆம் திகதி செவ்வாய்க்கிழமை கண்டெடுக்கப்பட்டுள்ளது.
+
+உயிழந்தவர் புங்குடுதீவு மடத்துவெளி எட்டாம் வட்டாரத்தை சேர்ந்த 27 வயதுடைய சிவகுகானந்தன் சிந்துயா என்பவராவார்.
+
+◼️
+
+[Data](articles/60c62c25.json)
+
+---
+
+### வவுனியாவில் 5 கிராம் ஹெரோயின் போதைப் பொருளுடன் 24 வயது யுவதி கைது
+
+*2024-06-05 02:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/185337) · `ta`
+
+வவுனியாவில் 5 கிராம் ஹெரோயின் போதைப் பொருளுடன் 24 வயது யுவதி ஒருவர் 04 ஆம் திகதி செவ்வாய்க்கிழமை கைது செய்யப்பட்டுள்ளதாக பொலிசார் தெரிவித்தனர்.
+
+வவுனியா தலைமைப் பொலிஸ் நிலைய போதை ஒழிப்பு பிரிவு பொறுப்பதிகாரி றிஸ்வி தலைமையிலான பொலிசார் வவுனியா, தோணிக்கல் பகுதியில் மேற்கொண்ட விசேட நடவடிக்கையின் போது விற்பனைக்காக தயார்ப்படுத்தி வைக்கப்பட்டிருந்த 5 கிராம் ஹெரோயின் போதைப் பொருளை மீட்டனர்.
+
+இதன்போது குறித்த ஹெரோயின் போதைப் பொருளை உடமையில் வைத்திருந்த வவுனியா, தோணிக்கல் பகுதியைச் சேர்ந்த யுவதியும் கைது செய்யப்பட்டுள்ளார். மேலதிக விசாரணைகளின் பின் கைது செய்யப்பட்ட யுவதியை நீதிமன்றில் முற்படுத்தவுள்ளதாக பொலிசார் மேலும் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/1d9c7092.json)
+
+---
+
+### யாழில் கைதான போலி வைத்தியர் பல பெண்களிடமும் பண மோசடி: விளக்கமறியலில் வைக்குமாறு, யாழ்,நீதவான் நீதிமன்று உத்தரவு
+
+*2024-06-05 02:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/185336) · `ta`
+
+வெளிநாடுகளில் வசிப்போர்களை இலக்கு வைத்துப் பல இலட்ச ரூபாய் மோசடிகளில் ஈடுபட்ட குற்றச்சாட்டில் யாழ்ப்பாணத்தில் கைதான போலி வைத்தியரை  விளக்கமறியலில் வைக்குமாறு, யாழ்,நீதவான் நீதிமன்று உத்தரவிட்டுள்ளது.
+
+குறித்த நபர், பாடசாலை மாணவிகள் பலருடன் காதல் தொடர்புகளை பேணி வந்துள்ளமையுடன்.  வெளிநாடுகளில் வசிக்கும் தன்னை விட வயது அதிகமான பெண்களுடனும் காதல் தொடர்புகளைப் பேணி அவர்களை மிரட்டி , பல இலட்ச ரூபாய்களைப் பெற்று வந்துள்ளான். அத்துடன் இளைஞனிடம் இருந்து மீட்கப்பட்ட தொலைப்பேசிகளில் பல பெண்களின் அந்தரங்க புகைப்படங்கள் காணொளிகள் உள்ளதாகவும் பொலிஸ் விசாரணைகளில் தெரியவந்துள்ளது.
+
+யாழ்ப்பாணம் சுன்னாகம் பகுதியைச் சேர்ந்த இளைஞன் தன்னை வைத்தியர் என அறிமுகப்படுத்தி , அதற்கான போலியான ஆவணங்களையும் தயாரித்து வெளிநாடுகளில் வசிக்கும் நபர்களை இலக்கு வைத்துப் பல இலட்ச ரூபாய் மோசடியில் ஈடுபட்டு வந்துள்ளார்.
+
+இந்நிலையில் குறித்த இளைஞனை நேற்றைய தினம் திங்கட்கிழமை யாழ்.நகர்ப் பகுதியில் அதிசொகுசு காரில் இளைஞன் பயணித்துக்கொண்டிருந்த வேளை பொலிஸாரினால் இடைமறிக்கப்பட்டு கைது செய்யப்பட்டார்.
+
+...
+
+[Data](articles/58bacfec.json)
+
+---
+
+### ஜனநாயகத்தில் தேர்தல்களுக்கு ஏற்புடைய மாற்று எதுவுமில்லை
+
+*2024-06-05 02:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/185335) · `ta`
+
+ஜனாதிபதிக்கும் பாராளுமன்றத்துக்கும் அரசியலமைப்பு ரீதியான ஆணையின் பிரகாரம  உள்ள ஐந்து வருட பதவிக்காலத்துக்கும் அப்பால் பதவியில் இருப்பதற்கான சகல தெரிவுகளையும் அரசாங்கத் தலைவர்கள் பரிசீலிக்கின்றார்கள் போன்று தெரிகிறது.  ஜனாதிபதி தேர்தலையும் பாராளுமன்ற தேர்தலையும் இரு வருடங்களுக்கு ஒத்திவைப்பது குறித்த யோசனை ஒன்றை ஐக்கிய தேசிய கட்சியின் பொதுச் செயலாளர் பாலித ரங்கே பண்டார கடந்த வாரம் அறிவித்தார். தேர்தல்கள் ஒத்திவைக்கப்படக்கூடிய சாத்தியங்கள் குறித்து கணிசமான ஊகங்கள் தெரிவிக்கப்பட்டே வந்திருக்கிறது.  உண்மையில் இது ஒரு வருடத்துக்கும் அதிகமான காலமாக அரசியல் கலந்துரையாடல்களின் ஒரு அங்கமாக இருந்துவருகிறது.
+
+பொருளாதார மீட்சியின் பயன்கள் மறுதலையாவதை தடுத்து அவற்றை  வலுப்படுத்தவேண்டியது அவசியம் என்பதே பொருளாதார மீட்சி உறுதிப்படுத்தப்படும் வரை அரசியலை
+
+முடக்கவேண்டும் என்ற வாதத்துக்கு கற்பிக்கப்படும் நியாயமாகும். பொருளாதார மீட்சியை உறுதிப்படுத்துவதற்கு தற்போதைய அரசாங்கமே உகந்தது என்பதும் அதன் இரு வருடகால செயற்பாடுகள் அதற்கு சான்று பகர்கின்றன என்பதுமே இந்த வாதத்தின் அடிப்படையாக இருக்கும் எண்ணமாகும்.
+
+...
+
+[Data](articles/4254667b.json)
+
+---
 
 ### Rishad Bathiudeen should take immediate steps to release the exam results of Zahira College students in Trincomalee -
 
@@ -51,6 +323,22 @@ We have been talking about the incident with the school principal and a victim o
 [Data](articles/9400a586.json)
 
 [Extended Data](ext_articles/9400a586.ext.json)
+
+---
+
+### ’பாதித்த குடும்பங்களுக்கு ஒதுக்கும் தொகை போதாது’
+
+*2024-06-05 01:59:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாதித்த-குடும்பங்களுக்கு-ஒதுக்கும்-தொகை-போதாது/175-338458) · `ta`
+
+இயற்கை அனர்த்தங்களால் பாதிக்கப்படும் குடும்பங்களுக்கு ஒதுக்கப்படும் தொகை, தற்போதைய வாழ்க்கைச் செலவுக்கு ஏற்ப, போதாது என சுட்டிக்காட்டி எதிர்க்கட்சித்தலைவர் சஜித் பிரேமதாஸ, இந்த நிவாரண சுற்றறிக்கையை மாற்றியமைக்க வேண்டுமெனக் கேட்டக்கொண்டார்.
+
+பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (04) விசேட கூற்றொன்றை விடுத்து உரையாற்றும் போதே மேற்கண்டவாறு தெரிவித்தார்.
+
+தென்மேற்கு பருவமழை தொடங்கியுள்ள நிலையில், எதிர்பாராத காலநிலையினால் ஏற்பட்ட வெள்ளப்பெருக்கு காரணமாக இலட்சக்கணக்கான மக்கள் சிக்கிக்கொண்டுள்ளனர்.  இந்த அனர்த்தத்தினால் பாதிக்கப்பட்ட மக்களுக்கு வழங்கப்படும் நிவாரணம் குறுகிய காலத்தில் விரைவாக வழங்கப்பட வேண்டும். பலர் உணவு, உடைகளை கூட இழந்துள்ளனர். எனவே? முறையான வேலைத்திட்டத்தை உடனடியாக முன்னெடுக்க வேண்டும். மாவட்ட செயலகங்களுக்கு மேலதிகமாக 10 இலட்சம் ரூபாய் ஒதுக்கப்பட்டாலும் அது போதுமானதாக இல்லை என்றார்.
+
+...
+
+[Data](articles/5f97b276.json)
 
 ---
 
@@ -79,6 +367,22 @@ After attending several events in Ruwanwella, the President attended the meeting
 [Data](articles/2a29f315.json)
 
 [Extended Data](ext_articles/2a29f315.ext.json)
+
+---
+
+### ’இந்திய ஆசிரியர்களின் கதை முற்றிலும் பொய்’
+
+*2024-06-05 01:50:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்திய-ஆசிரியர்களின்-கதை-முற்றிலும்-பொய்/175-338457) · `ta`
+
+இந்தியாவில் இருந்து வந்த இரண்டாயிரம் ஆசிரியர்கள் மலையக பாடசாலைகளில் சேவையில் ஈடுபடுவதாக வெளியாகியுள்ள தகவல்கள் முற்றிலும் பொய்யானது என்று தமிழ் முற்போக்குக் கூட்டணி பாராளுமன்ற உறுப்பினர் எம்.வேலுக்குமார் தெரிவித்தார்.
+
+விமல் வீரவன்சவினால் தெரிவிக்கப்பட்ட கருத்து தொடர்பில் கருத்துரைத்த போதே வேலுகுமார் எம்.பி மேற்கண்டவாறு தெரிவித்தார்.
+
+குறித்த கருத்து முற்றிலும் பொய்யாகும். அவ்வாறு இந்தியாவில் இருந்து ஆசிரியர்களுக்கு எந்தவித அனுமதியும் வழங்கப்படவும் இல்லை, இரண்டாயிரம் இந்திய ஆசிரியர்கள் பாடசாலைகளில் கற்பித்தல் நடவடிக்கைகளில் ஈடுபடுத்தப்படவும் இல்லை.அது முற்றிலும் பொய்யான தகவலே என்று பொறுப்புடன் கூறுகின்றேன் என்றார்.
+
+◼️
+
+[Data](articles/a0fb7181.json)
 
 ---
 
@@ -1184,6 +1488,26 @@ Representatives of Mannar Human Rights and Development Center, Mannar District A
 
 ---
 
+### Defying  Doomsday Predictions of Exit polls  the Congress -led INDIA -Bloc of Opposition Parties  Shock  the Ruling  BJP in vital states, thereby resetting India’s political landscape.
+
+*2024-06-04 18:09:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84140) · `en`
+
+Indian Prime Minister Narendra Modi’s Bharatiya Janata Party (BJP) lost its national majority after suffering major losses in key states, marking a dramatic shift in a political landscape it has dominated for the past decade.
+
+The BJP emerged, comfortably, as the country’s single-largest party in the Lok Sabha, the lower house of India’s parliament. But with most votes counted after India’s six-week-long election on Tuesday, the BJP was well short of its performances from 2014 and 2019.
+
+Unlike both those elections, when the BJP won clear majorities on its own in a house of 543 seats, it was poised to end up with 240 seats this time around. The halfway mark is 272 seats.
+
+By contrast, the opposition INDIA alliance, led by the Congress party, was projected to win more than 200 seats, significantly higher than exit polls had predicted. Released on June 1 after the final phase of India’s election cycle, the exit polls had suggested that the BJP would outdo its 2019 tally of 303 seats.
+
+...
+
+[Data](articles/284b2cad.json)
+
+[Extended Data](ext_articles/284b2cad.ext.json)
+
+---
+
 ### Schools closed in several education zones and divisions
 
 *2024-06-04 18:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/99662/schools-closed-in-several-education-zones-and-divisions) · `en`
@@ -1243,6 +1567,36 @@ The Supreme Court bench comprising justices Yasantha Kodagoda, A.H.M.D. Nawaz an
 [Data](articles/f973741f.json)
 
 [Extended Data](ext_articles/f973741f.ext.json)
+
+---
+
+### Stunning   Election Results  Humble  India’s Strongman  Prime Minister Narendra Modi who is  Forced to Form Coaition Govt with Alliance Partners – “The Economist”
+
+*2024-06-04 18:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84145) · `en`
+
+Ahead of the general election that concluded on June 1st Narendra Modi, India’s prime minister, was expected to romp home. His charisma, combined with an emphasis on infrastructure development, welfare payments to the poorest and a polarising Hindu nationalism, looked unbeatable. Mr Modi exuded a confidence that matched those predictions. He claimed that his Bharatiya Janata Party (bjp) and its allies would win upwards of 400 seats in the 543-seat parliament.
+
+Early results from the vote count on June 4th appeared to put that target out of reach. After more than 50% of the votes had been counted, Mr Modi’s alliance still looked headed for victory, with the bjp and its allies ahead in 290 seats, compared with the opposition’s 235. Yet the bjp itself appeared to be on course to lose more than 60 seats compared with the last election in 2019, with results mid-afternoon putting its tally at 238, down from 303 in 2019.
+
+...
+
+[Data](articles/28c5a37c.json)
+
+---
+
+### Indian Prime Minister Narendra Modi wins third term in Elections; BJP led NDA gets 291 seats while the Congress -led INDIA Bloc wins 234 seats
+
+*2024-06-04 18:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84135) · `en`
+
+Prime Minister Narendra Modi won a third term in power on June 4, but he will be dependent on allies as the BJP fell almost 32 short of the halfway mark of 272 seats in the Lok Sabha. The BJP-led National Democratic Alliance (NDA) won 291 seats against the Congress-led INDIA bloc’s 234 seats. The Congress won 99 seats compared to 52 in 2019.
+
+The BJP faced setbacks in strongholds and ended up with lower tallies in Uttar Pradesh and Rajasthan, while its southern foray yielded only marginal returns. Its hopes of expanding in West Bengal were dashed. However, Odisha went according to the BJP’s script where it rose to power for the first time and posted wins in 19 out of 21 Lok Sabha seats.
+
+...
+
+[Data](articles/42c00e28.json)
+
+[Extended Data](ext_articles/42c00e28.ext.json)
 
 ---
 
@@ -1831,455 +2185,5 @@ Conglomerates Melstacorp Plc (up at 87.50), Aitken Spence Plc (up at 131.25), LO
 [Data](articles/37a89807.json)
 
 [Extended Data](ext_articles/37a89807.ext.json)
-
----
-
-### Floods alert from Health Sector
-
-*2024-06-04 15:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197385) · `si`
-
-The Health Promotion Bureau advises avoiding floodwaters due to potential harm and infection risks like leptospirosis. Wear rubber boots and gloves when necessary. Avoid eating contaminated food and ensure children and pets don't come into contact with floodwater. Stay hydrated with safe water, monitor local news, destroy mosquito breeding sites, and practice proper hygiene. Seek medical advice promptly if ill.
-
-🟩
-
-The Health Promotion Bureau has issued a series of guidelines for the people of flooding areas.
-
-It shows that there should be no longer walking or swimming in flood waterings as possible.
-
-The Health Promotion Bureau has also informed the wears of rubber boots and gloves whenever possible to prevent infections such as leptoespirosis or fever as possible.
-
-1. Avoid floods as possible: The floods should not be walking or swimming in the water. It may contain harmful bacteria and wounds.
-
-2. Do not eat the floods damaged: Destroy the diet of the fleet and the floods in the floods.
-
-3. Prevent as much as possible: Children and pets from corrupt water to prevent disease.
-
-4. Do not ignore the symptoms: If you feel sick, do not delay the medical treatment.
-
-5. Avoid using dirty water: Don't use flooding water to drink, cook, or bathing.
-
-1. Drink only safe water: Use the boiled water or bottled water to prevent water-infectious diseases. Reduce the use of water from flooding wells as possible.
-
-...
-
-[Data](articles/a4380b59.json)
-
-[Extended Data](ext_articles/a4380b59.ext.json)
-
----
-
-### Sri Lanka unhappy with T20 World Cup schedule
-
-*2024-06-04 15:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-unhappy-with-T20-World-Cup-schedule/108-284076) · `en`
-
-June 04 - Sri Lanka captain Wanindu Hasaranga and spinner Maheesh Theekshana expressed their dissatisfaction over their scheduling in the T20 World Cup.
-
-After suffering a 6-wicket defeat in their campaign opener against South Africa in a low-scoring affair, Sri Lanka had to quickly wrap up their media commitments.
-
-According to ESPNcricinfo, Sri Lanka had to rush back to their hotel in Brooklyn, pack, check out and then reach at the airport for their 6 pm flight to Dallas for their next game against Bangladesh on Friday (local time). Even before their match against South Africa, Sri Lanka were not able to train. They were held at the Miami airport for seven hours to board their delayed flight to New York.
-
-...
-
-[Data](articles/977a088a.json)
-
-[Extended Data](ext_articles/977a088a.ext.json)
-
----
-
-### Sri Lanka freezes assets of 15 groups, 210 individuals over terrorist and extremist activities
-
-*2024-06-04 15:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/99658/sri-lanka-freezes-assets-of-15-groups-210-individuals-over-terrorist-and-extremist-activities) · `en`
-
-The Sri Lankan government has taken steps to freeze all funds, other financial assets and economic resources belonging to 15 entities and 210 individuals allegedly involved in terrorist and extremist activities.
-
-It is reported that the relevant gazette notification was issued yesterday (03) by Sri Lanka’s Secretary of Defence General (Retd.) Kamal Gunaratne, acting in terms of the powers vested in him by the United Nations Regulations No. 1 of 2012.
-
-Accordingly, the order has been issued to freeze all funds, other financial assets and economic resources belonging to or owned or held by any natural or legal person, group or entity designated and listed under regulation 4 of the above Regulations.
-
-The 15 designated entities include the Liberation Tigers of Tamil Eelam (LTTE), the National Thowheeth Jama’ath (NTJ) and the Jamathei Millathu Ibraheem (JMI).
-
-...
-
-[Data](articles/2f7caf93.json)
-
-[Extended Data](ext_articles/2f7caf93.ext.json)
-
----
-
-### An unexpected result of the Indian election waiting for the world
-
-*2024-06-04 15:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197384) · `si`
-
-India's 2024 general election, held over seven phases starting April 19, saw the National Democratic Alliance, led by the Bharatiya Janata Party (BJP), securing 291 seats, short of the 272 needed for majority rule. Despite BJP's 2019 victory with 303 seats, this year's outcome indicates a closer race than expected. The opposition, including the Indian National Congress (INC), showed strength but fell short. Prime Minister Narendra Modi is set for his third term, joining Jawaharlal Nehru as the only PMs to serve three terms. The election also witnessed significant performances from regional parties and notable defeats for key figures like Rahul Gandhi.
-
-🟩
-
-The General Election of the Indian general election was held on 19th April.
-
-The Indian general election held in 7 phases last Saturday last Saturday.
-
-The general election of the vote was held to appoint 543 seats for 543 seats.
-
-The number of votes is already in operation and the results are being released.
-
-The same way in this year's election, the National Democratic Alliance led by the Bharatiya People's Party has been led by the Bharatiya People's Party.
-
-However, according to the unofficial results issued by the Election Commission, Modi's alliance has won only 291 seats.
-
-According to unread constructions, the UPFA has already lost two-thirds.
-
-The Bharatiya Janata Party (People's Party obtained 303 seats alone in the 2019 elections and Mugi's plan was won by 400 seats under the UPFA.
-
-The Inland of India, which is the strong opponent of the government, is in a strong position with 233 world session.
-
-To win the power of the world, any party is compulsory to obtain 272 seats.
-
-...
-
-[Data](articles/3419cd16.json)
-
-[Extended Data](ext_articles/3419cd16.ext.json)
-
----
-
-### ’Sajith playing childish game’: Anura says in Parliament
-
-*2024-06-04 15:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sajith-playing-childish-game-Anura-says-in-Parliament/108-284074) · `en`
-
-Parliament, June 4 (Daily Mirror)- NPP leader Anura Kumara Dissanayake raised concerns in Parliament saying that Opposition Leader Sajith Premadasa had raised the same question he was to raise in Parliament over the University non-academic staff, calling it a childish act by the Opposition Leader.
-
-MP Dissanayake inquired from the Speaker as to how the same question he had submitted to the Opposition Leader's Office to be raised in parliament under Standing Order 27/2 was raised before him by the Opposition Leader.
-
-Speaker Mahinda Yapa Abeywardhane clarified the matter saying that two questions had been submitted to the Secretary General's Office by the Opposition Leader's Office, one question was handed over at 11.40 am to be raised by the Opposition Leader and another question was handed over at 12.10 pm to be raised by NPP MP Anura Kumara Dissanayake.
-
-...
-
-[Data](articles/d40cb3bd.json)
-
-[Extended Data](ext_articles/d40cb3bd.ext.json)
-
----
-
-### Trump joined the Dictocket he tried to ban!
-
-*2024-06-04 15:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/185299) · `ta`
-
-Donald Trump, who once sought to ban Dictok citing national security concerns during his presidency, has now joined the platform.
-
-🟩
-
-Former US President Donald Trump has joined Dictok active. When Donald Trump held office from January 20, 2017 to January 20, 2017, he was aimed at banning dicto in the United States, claiming to be a threat to national security.
-
-◼️
-
-[Data](articles/d78d10f8.json)
-
-[Extended Data](ext_articles/d78d10f8.ext.json)
-
----
-
-### Laugfs Gas Company gets busy
-
-*2024-06-04 15:16:33* · [`adalk`](https://www.ada.lk/breaking_news/ලාෆ්-ගෑස්-සමාගමත්-මිල-බස්සයි/11-410003) · `si`
-
-Laugfs Gas Company reduced the price of a 12.5 kg cylinder to Rs. 360, effective from last night.
-
-🟩
-
-The media has decided to reduce the price of 12.5 kilograms of a household gas today (4 night).
-
-Accordingly, the new price of a 12.5 kilogram cylinder is Rs. 3,60 kilograms and Rs.
-
-◼️
-
-[Data](articles/925cc719.json)
-
-[Extended Data](ext_articles/925cc719.ext.json)
-
----
-
-### 7 days locked liquor stations
-
-*2024-06-04 15:04:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/7-நாட்கள்-பூட்டப்படும்-மதுபான-நிலையங்கள்/175-338425) · `ta`
-
-Liquor stations in Sri Lanka will close from June 18th to 24th due to the National Poson Festival, affecting stores in Central Nuwarakam, East Nuwarakam, and Mihintale Section 03.
-
-🟩
-
-The liquor stations will be closed from the 18th to the 24th of June.
-
-The Sri Lanka Excise Department said in a statement that liquor stations will be closed these days ahead of the National Poson festival.
-
-Accordingly, all liquor stores in Central Nuwarakam, East Nuwarakam and Mihintale Section 03 will be closed at that time.
-
-◼️
-
-[Data](articles/61ec1009.json)
-
-[Extended Data](ext_articles/61ec1009.ext.json)
-
----
-
-### Pakistan Air Sial flights to Sri Lanka likely to lower ticket prices: Envoy
-
-*2024-06-04 15:00:00* · [`economynextcom`](https://economynext.com/pakistan-air-sial-flights-to-sri-lanka-likely-to-lower-ticket-prices-envoy-166193/) · `en`
-
-ECONOMYNEXT – Direct flight by Pakistan’s private airline operator Air Sial between Colombo and Islamabad is likely to reduce the air ticket cost, Sri Lankan High Commissioner for Pakistan Admiral Ravindra Wijegunaratne said.
-
-No direct flight is operating between Colombo and Islamabad now.
-
-Sri Lankans travel to Pakistan’s capital via Dubai or Doha Qatar, with transit flights at a higher cost and long duration. The alternative with land route from Lahore or Karachi also takes much time.
-
-“This connectivity has to increase. We are unable to do it with Sri Lankan Airlines,” Wijegunaratne told EconomyNext from Islamabad.
-
-“So we need to get private airlines. This is a very profitable route. SriLankan (Airline) does not have aircraft and the tickets are expensive because of monopoly,” he said.
-
-“A direct flight from Colombo to Islamabad will be only 3.5 hours. The Pakistan government has realized this and now Air Sial is given approval and it is already operating mostly for Buddhist countries.”
-
-...
-
-[Data](articles/552a8727.json)
-
-[Extended Data](ext_articles/552a8727.ext.json)
-
----
-
-### Death toll from adverse weather rises to 26 in Sri Lanka
-
-*2024-06-04 15:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/99657/death-toll-from-adverse-weather-rises-to-26-in-sri-lanka) · `en`
-
-The total number of fatalities reported due to the prevailing adverse weather conditions across the island has increased to 26, according to State Minister of Defence, Pramitha Bandara Tennakoon.
-
-Meanwhile, 41 persons have been injured due to various incidents caused by the extreme weather, the minister told the Parliament on Tuesday (4).
-
-Additionally, the State Minister revealed that total of 130,021 persons from 33,422 families within 262 Divisional Secretariat divisions of 23 districts in the island have been affected by the prevailing disaster situation.
-
-The State Minister has further stated that 9,248 people belonging to 2,368 families have been moved to 116 regional relief centres established across the island.
-
-◼️
-
-[Data](articles/d6bfa71f.json)
-
-[Extended Data](ext_articles/d6bfa71f.ext.json)
-
----
-
-### Dr. Hemali Kothalawala appointed Vice President of WOAH Asia-Pacific Regional Commission
-
-*2024-06-04 14:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/99656/dr-hemali-kothalawala-appointed-vice-president-of-woah-asia-pacific-regional-commission) · `en`
-
-Sri Lanka’s Director General of the Department of Animal Production and Health, Dr. Hemali Kothalawala, has been appointed as the Vice President of the World Organisation for Animal Health (WOAH) Regional Commission for Asia and the Pacific.
-
-She recently represented Sri Lanka in the 90th Annual General Session of the World Assembly of Delegates of the WOAH which recently took place in Paris, France.
-
-A delegation led by Sri Lanka’s Minister of Agriculture and Plantation Industries, Mahinda Amaraweera participated in the conference, during which the minister also delivered a speech at the general session on the work implemented related to animal products and health promotion in Sri Lanka.
-
-The Department of Animal Production and Health comes under the purview of the Ministry of Agriculture and Plantation Industries.
-
-...
-
-[Data](articles/e3ecf5ca.json)
-
-[Extended Data](ext_articles/e3ecf5ca.ext.json)
-
----
-
-### Pa. Ranjith's 'Payamaria Prama' film First Look
-
-*2024-06-04 14:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/185297) · `ta`
-
-The first look of Pa. Ranjith's "Piyamaria Prama," featuring debut actor Jedi in the lead, has sparked excitement due to its unique approach. The film, also starring Guru Somasundaram, John Vijay, and others, has completed shooting and is now in post-production. It premiered at the Cannes Film Festival, receiving positive reviews from audiences and critics alike.
-
-🟩
-
-The first look of the film 'Piyamaria Prama', which plays the lead role as the hero of the debut actor Jedi, has been released.. This is the creator of the Tamil film industry. Ranjith has released and congratulated the film crew.
-
-Jedi, Guru Somasundaram, John Vijay, Harish Uthaman, Vinod Sagar, Viswant, Sai Priyanka Ruth, Divya Ganesh. Nanda and v. The film has been composed by composer K.. The film was co -produced by producers Jagadish and director Rahul Kapali on behalf of 69 MM Film Film Company.
-
-The shooting of the film is completely completed and the final phase is currently underway.. In this case, the first look of the film has been released. The appearance of artists who starred in the first look at the first look has caused great anticipation among fans as it is different.
-
-Meanwhile, the film was recently screened at the Cannes International Film Festival and was very acclaimed by fans, critics and film enthusiasts.
-
-◼️
-
-[Data](articles/246b6157.json)
-
-[Extended Data](ext_articles/246b6157.ext.json)
-
----
-
-### Sunny Leone's 'Cothesion Gang' will be released in July
-
-*2024-06-04 14:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/185295) · `ta`
-
-"Sunny Leone stars in 'Koteshan Gang,' set for release in July. Directed by Vivek Kumar Kannan, it features Jackie Shroff, Priya Mani, Sarah Arjun, and Jayaprakash. The film, co-produced by Vi Studios, Filiminati Entertainment, and Sri Gurujothi Films, has garnered over a million views for its teaser and trailer, sparking fan excitement."
-
-🟩
-
-The film crew has released a special photo of the film 'Koteshan Gang', which is playing the lead role in the film 'Koteshan Gang', which will be released in July.
-
-Directed by director Vivek Kumar Kannan, Sunny Leone Bollywood actor Jackie Sharap, Priya Mani, Sarah Arjun, Jayaprakash has starred in the film 'Koteshan Gang' directed by Kannan.. Arun Padmanabhan has composed the film and has composed the film for the film.. The film is co -produced by the Crime Thriller Companies of the Vi Studios Filiminati Entertainment and Sri Gurujothi Films.
-
-The teaser and trailer of the film has been released by more than a million spectators.. Fans are excited by the announcement that the film will be released in July.
-
-◼️
-
-[Data](articles/abe64ae8.json)
-
-[Extended Data](ext_articles/abe64ae8.ext.json)
-
----
-
-### 5 What is the status of the Pannirselvam?
-
-*2024-06-04 14:40:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/5-பன்னீர்செல்வங்களின்-நிலை-என்ன/175-338424) · `ta`
-
-O. Pannirselvam, a former Chief Minister, is contesting independently in the Ramanathapuram Lok Sabha constituency under the BJP coalition. Despite facing competition from four other candidates with the same name, he remains in second place with 53,167 votes as of June 4th. The presence of these "dummy" candidates does not seem to affect his position significantly.
-
-🟩
-
-A total of 5 people were fielded by the same name, including former chief minister Pannirselvam in the Ramanathapuram Lok Sabha constituency. In the wake of their voting situation, it was noted that the OPS would not help success even if they added five votes.
-
-Former Chief Minister O. Pannirselvam contested independently in the 'Palappalam' symbol on behalf of BJP coalition in Ramanathapuram Lok Sabha constituency. In this, he thought that the AIADMK could unite and capture the party. But, in the name of the same Pannirselvam, four others filed an independent petition for him. Shocked by this, O. Pannirselvam said that even if the interruptions come, we will win.
-
-In this case, as of 12:30 pm today (June 4), former Chief Minister O. Pannirselvam is in 2nd place with 53,167 votes (41,260 votes).. Ochappan's son Pannir Selvam received 573 votes, Pannirselvam, son of Malayandi, 433 votes, Pannirselvam, son of Oyadevar, 314 votes and Pannirselvam, son of Ochadevar.
-
-...
-
-[Data](articles/d9af24c4.json)
-
-[Extended Data](ext_articles/d9af24c4.ext.json)
-
----
-
-### Sri Lanka relaxes food imports controls that were kept as poor skipped meals
-
-*2024-06-04 14:36:00* · [`economynextcom`](https://economynext.com/sri-lanka-relaxes-food-imports-controls-that-were-kept-as-poor-skipped-meals-166183/) · `en`
-
-ECONOMYNEXT  – Sri Lanka’s cabinet has relaxed nationalist import controls on some pulses which were maintained to keep food prices above the rest of the world, even as people skipped meals after a currency collapse.
-
-Sri Lanka had removed import licenses on 53 HS codes out of 126, related to grains.
-
-A committee chaired by the Presidential Secretary, which includes the central bank governor, the Treasury Secretary and senior economic advisor to the President had recommended the removal of import licensing requirements for several pulses.
-
-The import licensing requirements for ulundu, mung beans (green bean), cowpea, kurakkan, peanuts and soyabean flour, cabinet spokesman Bandula Gunawardana said.
-
-Due to the import licenses, there was a thriving black market and smuggling in the grains, Gunawardana said.
-
-The removal of the import restrictions were aimed at eliminating black markets and illegal activities, he said.
-
-...
-
-[Data](articles/13ac6e64.json)
-
-[Extended Data](ext_articles/13ac6e64.ext.json)
-
----
-
-### Here are seven days closed places
-
-*2024-06-04 14:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197383) · `si`
-
-Liquor shops across several divisions including Central Nuwaragam, East Nuwaragam, and Mihintale Divisional Secretariat areas will be closed from the 18th to the 24th due to the National Poson Festival celebrations as per the Department of Excise's announcement.
-
-🟩
-
-Several liquor shops in several Divisional Secretariats have been closed from the 18th to the 24th.
-
-Issuing an announcement, the Department of Excise is said to have been closed down by celebrating the National Poson Festival.
-
-Accordingly, all liquor shops will be closed during that period of the Central Nuwaragam province, East Number of Nuwaragam province and Mihintale Divisional Secretariat Divisions.
-
-◼️
-
-[Data](articles/c144df6c.json)
-
-[Extended Data](ext_articles/c144df6c.ext.json)
-
----
-
-### Imran Khan acquitted in state secrets case
-
-*2024-06-04 14:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/99655/imran-khan-acquitted-in-state-secrets-case) · `en`
-
-Former Pakistani Prime Minister Imran Khan has been acquitted of leaking state secrets but will remain in jail because of a conviction in another case.
-
-In the run-up to elections in February, the 71-year-old - who was ousted as prime minister in 2022 - was hit with three prison sentences for cases he insists were politically motivated.
-
-Khan was sentenced to 10 years in prison in January on charges of making public a diplomatic cable in 2022.
-
-The Islamabad High Court upheld his appeal and cleared him in that case on Monday, but he is not expected to leave prison for now.
-
-The former cricket star and his third wife Bushra are both serving prison sentences after a court ruled that their 2018 marriage had been un-Islamic and illegal as it came too soon after her divorce.
-
-The couple were also found guilty of corruption over gifts received during his term as prime minister.
-
-Even behind bars, the former cricket star remains a powerful force in Pakistani politics.
-
-...
-
-[Data](articles/4d7a88a6.json)
-
-[Extended Data](ext_articles/4d7a88a6.ext.json)
-
----
-
-### US urges UN Security Council to support cease-fire plan in Gaza announced by President Biden
-
-*2024-06-04 14:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/99654/us-urges-un-security-council-to-support-cease-fire-plan-in-gaza-announced-by-president-biden) · `en`
-
-The United States urged the U.N. Security Council on Monday to support the three-phase plan announced by President Joe Biden aimed at ending the nearly eight-month war in Gaza, freeing all hostages and sending massive aid into the devastated territory.
-
-U.S. Ambassador Linda Thomas-Greenfield said the United States circulated a draft resolution to the 14 other council members to back the proposal for ending the conflict that began with Hamas’ surprise attack in southern Israel on Oct. 7 that killed some 1,200 people, mostly Israeli civilians.
-
-“Numerous leaders and governments, including in the region, have endorsed this plan and we call on the Security Council to join them in calling for implementation of this deal without delay and without further conditions,” she said in a statement.
-
-...
-
-[Data](articles/ed833915.json)
-
-[Extended Data](ext_articles/ed833915.ext.json)
-
----
-
-### World Environment Day Event canceled tomorrow in Ratnapura
-
-*2024-06-04 14:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/185285) · `ta`
-
-Due to unfavorable weather, World Environment Day celebrations scheduled for tomorrow in Ratnapura have been moved to the Presidential Secretariat. The decision was made by President Ranil Wickremesinghe. Funds originally allocated for the event will now support disaster management and relief efforts.
-
-🟩
-
-President Ranil Wickremesinghe, led by President Ranil Wickremesinghe, has been canceled due to the disaster conditions organized by the National Environment Day to be held tomorrow (5) in Ratnapura.
-
-The event, which is headed by the President in the Ratnapura area, which is located in the Gateway of the Singaraja Forest, has been decided to transfer to the Presidential Secretariat due to inclement weather.
-
-Meanwhile, Minister of State for Environment, Janaka Wakumbura said that the President has issued a directive to use the money spent on the event to be used for disaster management activities and compensation for victims of natural disasters.
-
-It is reported that the Ministry of Environment is making arrangements to celebrate the ceremony at the new stadium of the Presidential Secretariat tomorrow due to floods and heavy rains in Ratnapura.
-
-◼️
-
-[Data](articles/6edf1eee.json)
-
-[Extended Data](ext_articles/6edf1eee.ext.json)
-
----
-
-### SEC says 2024 a challenging year but hope remains for economic growth
-
-*2024-06-04 14:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SEC-says-2024-a-challenging-year-but-hope-remains-for-economic-growth/108-284028) · `en`
-
-The capital market regulator, the Securities and Exchange Commission (SEC), highlighted 2024 would be a challenging year in terms of economic recovery and path to growth but there is hope, as the economy is on the right track.
-
-“Positivity and a positive mindset are crucial factors to pull ourselves out of the crisis. The present crisis gives us a chance to come out of it with our right side up and that we must do. Now is the time to do the right things towards long-term stability,” said SEC Chairman Faizal Salieh in the entity’s annual report (2023) released yesterday.
-
-To foster a robust capital market ecosystem, in 2023, the SEC introduced a comprehensive Capital Market Reforms Agenda for the period 2023-2025, comprising of 12 key initiatives aimed at promoting growth, innovation and sustainability in the securities market.
-
-...
-
-[Data](articles/732bd9c7.json)
-
-[Extended Data](ext_articles/732bd9c7.ext.json)
 
 ---

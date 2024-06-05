@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-05 12:18:49**
+As of **2024-06-05 12:34:08**
 
 ## Newspaper Stats
 
-*Scraped **28,561** Articles*
+*Scraped **28,562** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,31 +20,55 @@ adaderanalk | 3,243
 tamilmirrorlk | 3,360
 virakesarilk | 4,391
 dailymirrorlk | 4,528
-adaderanasinhalalk | 4,585
+adaderanasinhalalk | 4,586
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,549 (100.0%) of 28,561 articles have been extended.
+28,561 (100.0%) of 28,562 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-05 (Wednesday)
 
-### மண்மேடு விழுந்ததில் குழந்தை பலி
+### මෛත්‍රී ඇතුළු පිරිසට ශ්‍රේෂ්ඨාධිකරණය කල්දෙයි
+
+*2024-06-05 12:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197416) · `si`
+
+ශ්‍රී ලංකා නිදහස් පක්ෂයේ මහලේකම්වරයා වශයෙන් කටයුතු කළ පාර්ලිමේන්තු මන්ත්‍රී දයාසිරි ජයසේකර මහතාගේ පක්ෂ සාමාජිකත්වය අහිමි කරමින්  නිකුත් කළ ලිපිය ඉල්ලා අස්කර ගන්නේද? නැද්ද? යන තීරණය දැනුම්දීම සඳහා ශ්‍රේෂ්ඨාධිකරණය විසින් වගඋත්තරකාර මෛත්‍රිපාල සිරිසේන ඇතුළු පිරිසකට කල් ලබාදුන්නේය.
+
+තමන්ව තනතුරින් ඉවත් කිරීමට එරෙහිව දයාසිරි ජයසේකර මහතා විසින් ඉදිරිපත්කළ අභියාචනා පෙත්සමක් අද (05) ශ්‍රේෂ්ඨාධිකරණය හමුවේ කැඳවනු ලැබීය.
+
+එහිදී අදාළ පෙත්සමේ වගඋත්තරකරුවන් ලෙස නම්කර සිටි ශ්‍රී ලංකා නිදහස් පක්ෂයේ සභාපති මෛත්‍රිපාල සිරිසේන සහ වැඩ බලන මහලේකම් සරත් ඒකනායක යන මහත්වරු වෙනුවෙන් පෙනී සිටි නීතිඥවරිය සඳහන් කළේ පෙත්සම්කරුට එරෙහිව නිකුත් ලිපිය ඉවත් කර ගන්නේද? නැත්ද? යන තීරණය දැනුම් දීම සඳහා කල් ලබාදෙන ලෙසට ය.
+
+ඒ අනුව පෙත්සම යලි ජූනි 25 වනදා කැඳවීමට නියමකළ අධිකරණය එදින මෙම තීරණය දැනුම් දෙන ලෙස අදාළ පෙත්සමේ වගඋත්තරකරුවන් ලෙස නම් කර සිටි  ශ්‍රී ලංකා නිදහස් පක්ෂයේ සභාපති මෛත්‍රීපාල සිරිසේන සහ නියෝජ්‍ය මහලේකම් සරත් ඒකනායක යන මහත්වරුන්ට නියෝග කළේය.
+
+...
+
+[Data](articles/4167cd64.json)
+
+---
+
+### Child killed
 
 *2024-06-05 11:53:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மண்மேடு-விழுந்ததில்-குழந்தை-பலி/76-338477) · `ta`
 
-கேகாலை, மங்களகம, குருந்திய வராஹேன கிராமத்தில் வீடொன்றுக்கு அருகாமையில் மூன்றரை வயதுக் குழந்தையின் மீது மண்மேடு விழுந்ததில் அக்குழந்தை உயிரிழந்துள்ளது. கவிந்து ஷெஹந்தா என்ற குழந்தையே உயிரிழந்துள்ளது.
+In Varahahena, Kurundiya, a three-and-a-half-year-old boy, Kavindu Shehanta, tragically fell into a newly dug hole meant for a sidewalk behind his home and passed away. Despite neighborly efforts to rescue him and subsequent hospitalization, he succumbed to his injuries.
 
-வீட்டின் பின்புறத்தில் பாதுகாப்பான பக்கச்சுவர் அமைப்பதற்காக காலை முதல் கரை வெட்டப்பட்டிருந்ததாகவும், அங்கு விளையாடிக் கொண்டிருந்த போது குழந்தையின் மீது மண்மேடு விழுந்துள்ளதாகவும் பொலிஸார் தெரிவித்தனர்.
+🟩
 
-அயலவர்களின் உதவியுடன் குழந்தையை மீட்டு கேகாலை போதனா வைத்தியசாலையில் அனுமதித்த போதிலும் குழந்தை உயிரிழந்துள்ளதாக தகவல்கள் தெரிவிக்கின்றன.
+A three -and -a -half -year -old child dies near a house in Varahahena village in Kurundiya, Kegalle, Mangalagama,. A child named Kavindu Shehanta has died.
+
+Police said that the shore had been cut from the morning to set up a safe sidewalk on the back of the house and the child had fallen on the child while playing there.
+
+The baby was rescued with the help of neighbors and admitted to the Kegalle Teaching Hospital, but the baby died.
 
 ◼️
 
 [Data](articles/31649366.json)
+
+[Extended Data](ext_articles/31649366.ext.json)
 
 ---
 
@@ -66,45 +90,59 @@ The bodies of the victims have been placed at Debarawewa Hospital, and Kirinda P
 
 [Data](articles/3886e031.json)
 
+[Extended Data](ext_articles/3886e031.ext.json)
+
 ---
 
-### ශ්‍රේෂ්ඨාධිකරණයේ සංශෝධන ආණ්ඩුව පිළිගත්තා - කංචන
+### The government acknowledges the Supreme Court amendments - Kanchanan
 
 *2024-06-05 11:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197415) · `si`
 
-විදුලිබල පනත් කෙටුම්පතට ශ්‍රේෂ්ඨාධිකරණය ඉදිරිපත් කර ඇති සංශෝධන සියල්ල පිළිගැනීමට ආණ්ඩුව එකඟ වී ඇති බව විදුලිබල හා බලශක්ති අමාත්‍ය කංචන විජේසේකර මහතා පවසයි.
+The government accepts all Supreme Court amendments to the Power and Energy Bill, as announced by Minister Kanchana Wijesekara. The Supreme Court advised against certain clauses in the bill, suggesting they conflict with the constitution. These amendments will be passed through a simple parliamentary majority.
 
-ඒ සම්බන්ධයෙන් ඊයේ (04) අංශික අධීක්ෂණ කාරක සභාවට දැනුම්දී අනුමැතිය ලබාගත් බවත් අමාත්‍යවරයා පැවසීය.
+🟩
 
-එබැවින් එම පනත් කෙටුම්පතට වෙනත් සංශෝධන ඉදිරිපත් කිරීමට ආණ්ඩුව කටයුතු නොකරන බවද ඔහු පාර්ලිමේන්තුවට දැනුම් දුන්නේය.
+The government has agreed to accept all the amendments submitted by the Supreme Court to the Power and Energy Bill, says Power and Energy Minister Kanchana Wijesekara.
 
-රජය විසින් පාර්ලිමේන්තුවට ඉදිරිපත්කර තිබෙන විදුලිබල පනත් කෙටුම්පතට එරෙහි පෙත්සම් විභාගයේ ශ්‍රේෂ්ඨාධිකරණ තීන්දුව ඊයේ (04) කථානායකවරයා විසින් පාර්ලිමේන්තුවට ඉදිරිපත් කළේය.
+The Minister said that the House was informed of the PSC yesterday (04).
 
-ඒ අනුව විදුලිබල පනත් කෙටුම්පතේ වගන්ති කිහිපයක් ආණ්ඩුක්‍රම ව්‍යවස්ථාවට අනුකූල නොවන බවත්, එම වගන්ති පාර්ලිමේන්තුවේ විශේෂ බහුතරයකින් සහ එක් වගන්තියක් ජනමත විචාරණයකින් ද අනුමත කළ යුතු බවත් ශ්‍රේෂ්ඨාධිකරණය පාර්ලිමේන්තුවට දැනුම් දී තිබේ.
+He also informed parliament that the government would not take action to submit other amendments to the Bill.
 
-පනත් කෙටුම්පත පිළිබද ‍‍ශ්‍රේෂ්ඨාධිකරණ මතය ඉදිරිපත් කරමින් කථානායකවරයා පැවසුවේ, අදාළ වගන්ති සංශෝධනය කළහොත් පාර්ලිමේන්තුවේ සරල බහුතරයකින් එය සම්මත කළ හැකි බවය.
+The Speaker presented the Supreme Court verdict against the Power and Petition against the Power and Power Power and Power and Power.
+
+The Supreme Court has informed Parliament that several clauses in the Power and Energy Bill should not be acquired by the constitution.
+
+The Speaker said that it would be passed in a simple majority of parliament if the following clauses were amended.
 
 ◼️
 
 [Data](articles/b9876043.json)
 
+[Extended Data](ext_articles/b9876043.ext.json)
+
 ---
 
-### 6 பேர் ராமேஸ்வரத்தில் அகதிகளாக தஞ்சம்
+### 6 people as refugees in Rameswaram as refugees
 
 *2024-06-05 11:31:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/6-பேர்-ராமேஸ்வரத்தில்-அகதிகளாக-தஞ்சம்/175-338474) · `ta`
 
-முல்லைத்தீவில் இருந்து  ஒரே குடும்பத்தை சேர்ந்த   ஆறு பேர் புதன்கிழமை(5) அதிகாலை இராமேஸ்வரத்தில் தஞ்சமடைந்துள்ளனர்.
+Six members of a family fled from Mullaitivu to Rameswaram via Mannar by boat, reaching Serang Fort early Wednesday. The group includes their mother and four children. Authorities are investigating their arrival.
 
-செவ்வாய்க்கிழமை(4) முல்லைத்தீவில் இருந்து மன்னாருக்கு சென்று  மன்னாரில் இருந்து சட்டவிரோதமாக கடல் வழியாக படகில் புறப்பட்டு புதன்கிழமை(5) அதிகாலை இராமேஸ்வரம் அடுத்த சேராங் கோட்டையை சென்றடைந்துள்ளனர்.
+🟩
 
-தாய் தந்தை மற்றும் நான்கு பிள்ளைகள் உள்ளடங்களாக 6 பேர் இவ்வாறு தஞ்சமடைந்துள்ளனர்.
+Six people from the same family from Mullaitivu have taken refuge in Rameswaram early Wednesday morning.
 
-இலங்கை தமிழர்கள் ஆறு பேரையும் மீட்ட மரைன் பொலிஸார் மண்டபம் மரைன் காவல் நிலையத்தில் வைத்து விசாரணை மேற்கொண்டு வருகின்றமை குறிப்பிடத்தக்கது.
+On Tuesday (4), they went from Mullaitivu to Mannar and illegally departed from Mannar by boat and reached the Serang Fort next to Rameswaram on Wednesday morning.
+
+Six people, including their mother and four children, have taken refuge.
+
+It is noteworthy that Marine Police are conducting an investigation at the Marine Police Station.
 
 ◼️
 
 [Data](articles/23765e39.json)
+
+[Extended Data](ext_articles/23765e39.ext.json)
 
 ---
 
@@ -218,21 +256,27 @@ The favorite hobby of Bonipus Perera, which was played in the platform of St. Be
 
 ---
 
-### மீள் திருத்த விண்ணப்பம் தொடர்பில் அறிவித்தல்
+### Notification in connection with the elasticity application
 
 *2024-06-05 11:22:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீள்-திருத்த-விண்ணப்பம்-தொடர்பில்-அறிவித்தல்/175-338473) · `ta`
 
-2023 (2024) உயர்தர பரீட்சை விடைத்தாள்களை மறு பரிசீலனைக்கு செய்வதற்கு விண்ணப்பிக்க முடியும் என, பரீட்சைகள் திணைக்களம் அறிவித்துள்ளது.
+Applicants for GCE A/L re-examination must submit their applications online via the Department of Examinations' website (doenets.lk or onlineExams.gov.lk/eic) by June 19. This applies to both school and private candidates.
 
-இணைய அடிப்படை முறையின் மூலம் மட்டுமே விண்ணப்பங்களை அனுப்புமாறு திணைக்களம் கேட்டுக் கொண்டுள்ளது.
+🟩
 
-பாடசாலை மற்றும் தனியார் விண்ணப்பதாரர்கள் தங்கள் விண்ணப்பங்களை தாங்களாகவே பூர்த்தி செய்து அனுப்ப வேண்டும், விண்ணப்பங்களை ஏற்றுக்கொள்வதற்கான கடைசி திகதி ஜூன் 19 ஆகும்.
+The Department of Examinations has announced that it can apply for re -examination of the GCE Advanced Level Examination.
 
-பரீட்சார்த்திகள் பரீட்சைகள் திணைக்களத்தின் உத்தியோகபூர்வ இணையத்தளமான www.doenets.lk அல்லது www.onlineexams.gov.lk/eic இன் ஊடாக விண்ணப்பிக்க முடியும்.
+The department has asked for applications only through the Internet basic system.
+
+School and private applicants must fill in their applications by themselves, and the last date for accepting applications is June 19.
+
+Examiners can apply through the official website of the Department of Examinations, www.doenets.lk or www.onlineExams.gov.lk/eic.
 
 ◼️
 
 [Data](articles/87cc8850.json)
+
+[Extended Data](ext_articles/87cc8850.ext.json)
 
 ---
 
@@ -255,6 +299,8 @@ Following protests by Tourism Minister Harin Fernando, a 50 dollar visa has been
 ◼️
 
 [Data](articles/6755725a.json)
+
+[Extended Data](ext_articles/6755725a.ext.json)
 
 ---
 
@@ -370,19 +416,27 @@ Some of the advantages extended to Sri Lankan students include the provision to 
 
 ---
 
-### ආදීවාසී ජනතාවගේ අයිතිවාසිකම් ආරක්ෂා කිරීමට නව පනතක්
+### New bill to protect the rights of the persons of the persons
 
 *2024-06-05 10:54:44* · [`adalk`](https://www.ada.lk/breaking_news/ආදීවාසී-ජනතාවගේ-අයිතිවාසිකම්-ආරක්ෂා-කිරීමට-නව-පනතක්/11-410016) · `si`
 
-මෙරට ආදීවාසී ජනතාවට පවතින ගැටළුවලට විසදුම් ලබාදීම සදහා  නව පනතක් සකස් කිරීමට හා ඔවුන්ගේ අයිතිවාසිකම් සුරක්ෂිත කිරිම සදහා රෙගුලාසි පද්ධතියක් සකස් කිරීමට අධිකරණ, බන්ධනාගාර කටයුතු ආණ්ඩුක්‍රම ව්‍යවස්ථා ප්‍රතිසංස්කරණ අමාත්‍ය ජනාධිපති නීතිඥ ආචාර්ය විජයදාස රාජපක්ෂ මහතාගේ උපදෙස් පරිදි කටයුතු කර ඇති අතර, එම රෙගුලාසි පද්ධතිය පිළිබදව අදාළ පාර්ශ්ව සමග විශේෂ සාකච්ඡාවක් පාර්ලිමේන්තු සංකීර්ණයේදී ඊයේ ( 04) පස්වරුවේ පැවැත්විණි.
+A new bill aimed at protecting the rights of indigenous peoples, formulated by Judicial and Prison Constitutional Reforms, was discussed at the Parliamentary Complex. It addresses issues faced by locals and aims to secure their rights systematically. The Minister of Justice and Prison Affairs, along with the Minister of Wildlife and Forest Conservation, participated in the discussion, emphasizing the importance of the bill in solving problems of indigenous communities. A regulatory system to protect wildlife in forests is also being established, focusing on the needs of these communities. The bill, aligned with the United Nations Charter, seeks to legalize these protections and improve the livelihoods of indigenous peoples in various provinces.
 
-අධිකරණ, බන්ධනාගාර කටයුතු ආණ්ඩුක්‍රම ව්‍යවස්ථා ප්‍රතිසංස්කරණ අමාත්‍ය, ජනාධිපති නීතිඥ, ආචාර්ය විජයදාස රාජපක්ෂ මහතාගේ සහ වනජීවි හා වන සංරක්ෂණ හා වාරිමාර්ග අමාත්‍ය, නීතිඥ පවිත්‍රාදේවී වන්නිආරච්චි මහත්මියගේ ප්‍රධානත්වයෙන්, ආදිවාසී නායක ඌරුවරිගේ වන්නිලා ඇත්තන්ගේ සහභාගිත්වයෙන් සාකච්ඡාව සිදු විය.
+🟩
 
-ආදිවාසී ජනතාවට පවතින ගැටළු විසදීම සදහා සකස් කළ  නව පනත් කෙටුම්පත අධිකරණ අමාත්‍යතුමා විසින්  මේ වන විට අමාත්‍ය මණ්ඩලය වෙත ඉදිරිපත් කර ඇති අතර, පනත සදහා ඇතුළත් කිරීමට නොහැකි කරුණු රෙගුලාසි යටතේ නීතිගත කිරීමට පියවර ගෙන තිබේ.
+Judicial and Prison Constitutional Reforms have taken measures to formulate a new bill to provide the problems of the persons to the problems of the local people and securing their rights system.A special discussion was held at the Parliamentary Complex yesterday afternoon.
+
+Minister of Justice and Prison Affairs Minister, Dr. Wijayadasa Rajapakse and Wildlife and Forest Conservation and Wildlife and Forest Conservation and Wildlife and Wildlife and Wildlife and Forest Pavithradevi Wanniarachchi were held with the participation of Aboriginal Leader Uruwariage Vanilla.
+
+The Minister of Justice has already been produced before the Cabinet of Justice, which has been prepared to solve the problems of the indigenous people.
+
+The Wildlife Department has set up a regulatory system to protect the drugs to protect the drugs in the forests to promote the drugs in the forests.
 
 ...
 
 [Data](articles/7103ba40.json)
+
+[Extended Data](ext_articles/7103ba40.ext.json)
 
 ---
 
@@ -490,27 +544,33 @@ The Examinations Department informs the candidates to obey the lower tips.
 
 ---
 
-### இஸ்ரேலிய பிரதமருக்கு எதிராக பிடியாணையா? சர்வதேச நீதிமன்றத்திற்கு எதிராக தடைகளை விதிக்கும்சட்டமூலத்தை நிறைவேற்றியது அமெரிக்க சனப்பிரதிநிதிகள் சபை
+### Israeli Prime Minister against the Prime Minister?US House
 
 *2024-06-05 10:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/185350) · `ta`
 
-இஸ்ரேலிய பிரதமர் பெஞ்சமின் நெட்டன்யாகுவிற்கு எதிரான பிடியாணை தொடர்பில் சர்வதேச குற்றவியல் நீதிமன்றத்திற்கு எதிராக தடைகளை விதிக்கும் சட்டமூலம்  அமெரிக்க சனப்பிரதிநிதிகள் சபையில் நிறைவேற்றப்பட்டுள்ளது.
+The US House of Representatives passed a bill imposing sanctions on the International Criminal Court (ICC) related to Israel's Prime Minister, Benjamin Netanyahu. The measure, supported by 247 Republicans and opposed by 155 Democrats, aligns with the Israeli Republican Party's stance but faces opposition from President Joe Biden and potential rejection in the Senate due to Democratic majority.
 
-அமெரிக்க சனப்பிரதிநிதிகள் சபையில் உள்ள இஸ்ரேல் சார்பு  குடியரசுகட்சி உறுப்பினர்கள் முன்மொழிந்த சட்டமூலத்தை சனப்பிரதிநிதிகள் சபை ஏற்றுக்கொண்டுள்ளது.
+🟩
 
-அமெரிக்க குடியரசுகட்சி பெரும்பான்மை பெற்றுள்ள  சனப்பிரதிநிதிகள் சபையில் 247 பேர் இந்த தீர்மானத்திற்கு ஆதரவாக வாக்களித்துள்ளனர்,155 பேர் எதிராக வாக்களித்துள்ளனர்.
+The US House of Representatives has passed a bill to impose sanctions against the International Criminal Court over the issue of Israeli Prime Minister Benjamin Nettanyaku.
 
-இஸ்ரேலை ஆதரிக்கும் ஜனநாயக கட்சியின் பிரதிநிதிகளும் சர்வதேச குற்றவியல் நீதிமன்றத்திற்கு எதிரான தீர்மானத்திற்கு ஆதரவாக வாக்களித்துள்ளனர்.
+The House of Representatives has accepted the proposed Bill of the Israeli Republican Party in the US House of Representatives.
 
-இந்த சட்டமூலம் நிறைவேற்றப்பட்டுள்ள போதிலும் அது சட்டமாக மாற்றப்படாது என தகவல்கள் வெளியாகியுள்ளன.
+247 people in the House of Representatives have voted in favor of the resolution and 155 voted against the US Republican Party.
 
-செனெட்டில் பெரும்பான்மையை கொண்டுள்ள ஜனநாயக கட்சியினர் இந்த சட்டமூலத்தை நிராகரிப்பார்கள் என பிபிசி தெரிவித்துள்ளது.
+Representatives of the Democratic Party supporting Israel have voted in favor of the International Criminal Court.
 
-அமெரிக்க ஜனாதிபதி ஜோபைடன் இந்த சட்டமூலத்தை கடுமையாக எதிர்க்கின்றார் என பிபிசி தெரிவித்துள்ளது.
+Although the bill has been passed, it has been reported that it will not be transformed into law.
+
+The BBC said that the Democrats who have a majority in the Senate will reject the bill.
+
+US President Jobitin is vehemently opposed to the Bill, the BBC said.
 
 ◼️
 
 [Data](articles/07c83297.json)
+
+[Extended Data](ext_articles/07c83297.ext.json)
 
 ---
 
@@ -666,6 +726,8 @@ The Colombo Stock Exchange opened up. The All Share Price Index was up 0.11 perc
 
 [Data](articles/b0c18ae6.json)
 
+[Extended Data](ext_articles/b0c18ae6.ext.json)
+
 ---
 
 ### Parliamentary Council begins
@@ -704,15 +766,21 @@ Coastal railway services have been blocked as a train derails at the Fort Railwa
 
 ---
 
-### அலுவலக ரயில்கள் தாமதம்
+### Office trains delayed
 
 *2024-06-05 09:29:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அலுவலக-ரயில்கள்-தாமதம்/175-338466) · `ta`
 
-கோட்டை புகையிரத நிலையத்தில் புகையிரதம் ஒன்று தடம் புரண்டதால் கரையோரப் புகையிரத சேவைகள் தடைப்பட்டுள்ளன.
+Coastal train services halted due to derailment at Fort Railway Station, causing delays.
+
+🟩
+
+Coastal train services have been blocked as a train derails at the Fort Railway Station.
 
 ◼️
 
 [Data](articles/c6f75ac1.json)
+
+[Extended Data](ext_articles/c6f75ac1.ext.json)
 
 ---
 
@@ -769,6 +837,8 @@ Modi has lost ground amid inflation, and his authoritarian nationalist policies 
 ...
 
 [Data](articles/37c7defd.json)
+
+[Extended Data](ext_articles/37c7defd.ext.json)
 
 ---
 
@@ -1287,6 +1357,8 @@ In the year 22/23 the government had injected 102.5 billion rupees as equity to 
 ...
 
 [Data](articles/aa90f32b.json)
+
+[Extended Data](ext_articles/aa90f32b.ext.json)
 
 ---
 
@@ -2169,27 +2241,5 @@ However, we accept that there are some flaws in these activities. We have taken 
 [Data](articles/e2ac54d4.json)
 
 [Extended Data](ext_articles/e2ac54d4.ext.json)
-
----
-
-### If the government tries to defeat
-
-*2024-06-05 01:26:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசு-முயன்றால்-தோற்கடிப்போம்/175-338453) · `ta`
-
-Opposition leader Sajith Premadasa warns that passing the Electricity Amendment Bill against High Court recommendations could lead to its defeat due to lack of a 2/3 majority. The Supreme Court's ruling on the act has raised legal concerns, necessitating a review process before any legislative action.
-
-🟩
-
-Opposition leader Sajith Premadasa has warned that if the government tries to pass the Electricity Amendment Bill contrary to the recommendations of the High Court, it will defeat it.
-
-Speaker Mahinda Yapa Abeywardena issued a statement on Tuesday (04) after the Supreme Court's verdict on the Electricity Amendment Act.
-
-The entire legal source seems to have serious problems in the Supreme Court's rulings and observations on the Electricity Amendment Act put forward by the Speaker in Parliament.. So it requires 2/3 majority to accomplish this. The current government does not have a 2/3 majority. He said that the bill should not be brought on Thursday, but steps should be taken to review the observations and recommendations presented by the court in a manner that is acceptable.
-
-...
-
-[Data](articles/1ff0905e.json)
-
-[Extended Data](ext_articles/1ff0905e.ext.json)
 
 ---

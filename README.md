@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-05 18:35:42**
+As of **2024-06-05 18:53:33**
 
 ## Newspaper Stats
 
-*Scraped **28,623** Articles*
+*Scraped **28,625** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 1,542
 economynextcom | 1,631
 dailyftlk | 1,687
 adalk | 2,442
-adaderanalk | 3,251
-tamilmirrorlk | 3,362
+adaderanalk | 3,252
+tamilmirrorlk | 3,363
 virakesarilk | 4,400
 dailymirrorlk | 4,537
 adaderanasinhalalk | 4,599
@@ -26,25 +26,67 @@ adaderanasinhalalk | 4,599
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,621 (100.0%) of 28,623 articles have been extended.
+28,623 (100.0%) of 28,625 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-05 (Wednesday)
 
-### කෙහෙළිය නීත්‍යානුකූලව කටයුතු කර ඇති බව කෙහෙළියගේ නීතිඥයා කියයි
+### Suspects arrested over brutal assault on child in Pulmudai remanded
+
+*2024-06-05 18:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/99686/suspects-arrested-over-brutal-assault-on-child-in-pulmudai-remanded-) · `en`
+
+Five persons including the 45-year-old main suspect and two women who were arrested for inhumanely assaulting a four-and-a-half-year-old child, after a video of the incident went viral on social media, have been ordered remanded.
+
+The Padaviya Magistrate’s Court has ordered the suspects to remanded in custody until June 19 after they were produced before the court.
+
+Meanwhile, the assaulted child has been placed under probationary care.
+
+Police said suspects were arrested on the charges of aiding and abetting the assault in the Arisimale area of Pulmudai, early this morning (05).
+
+Police said that they are residents of Welioya Kalyanapura area.
+
+◼️
+
+[Data](articles/49d70ac6.json)
+
+---
+
+### Keheliya's lawyer says the Keheliya has been legally legal
 
 *2024-06-05 18:18:20* · [`adalk`](https://www.ada.lk/breaking_news/කෙහෙළිය-නීත්‍යානුකූලව-කටයුතු-කර-ඇති-බව-කෙහෙළියගේ-නීතිඥයා-කියයි/11-410033) · `si`
 
-මිනිස් භාවිතයට නුසුදුසු ‘හියුමන් ඉමියුනොග්ලොබින්’ නමැති ස්නායු රෝගීන් සඳහා ලබාදෙන ප්‍රතිදේහ එන්නත මෙරටට ආනයනය කර ඇත්තේ ඖෂධ නියාමන අධිකාරියේ අනුමැතිය යටත්ව යැයි අභියාචනාධිකරණයට දැනුම් දුන් බාල බෙහෙත් ජාවාරම සම්බන්ධයෙන් සැකපිට රිමාන්ඩ් බාරයට පත් කර සිටින හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙලිය රඹුක්වැල්ල මහතාගේ නීතීඥවරයා නීතියානුකූලව සියළු කටයුතු සිදු කර ඇති තම සේවාදායකයා මෙම සිද්ධිය සම්බන්ධයෙන් රිමාන්ඞ් භාරයට පත් කිරීම නීති විරෝධී යැයිද අද (05) පැවසීය.
+Keheliya Rambukwella's lawyer argues that the former Health Minister should not be remanded, citing legal grounds related to the 'Drug Regulatory Authority'. The case involves allegations against him, but the lawyer seeks his release pending further investigation.
 
-බාල බෙහෙත් ජාවාරම සම්බන්ධයෙන් මාලිගකන්ද මහෙස්ත්‍රාත්වරිය විසින් සැකපිට රිමාන්ඩ් බාරයට පත් කර සිටින හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙලිය රඹුක්වැල්ල මහතා ඇප මත මුදා හරින්නැයි ඉල්ලමින් අභියාචනාධිකරණයට ඉදිරිපත් කර ඇති ප්‍රතිශෝධන පෙත්සම සළකා බැලූ අවස්ථාවේදී කෙහෙළිය රඹුක්වැල්ල මහතා වෙනුවෙන් පෙනී සිටි ජනාධිපති නීතිඥ ෆයිස් මුස්තාපා මහතා එසේ දැනුම් දුන්නේය.
+🟩
 
-අභියාචනාධිකරණයේ සභාපති විනිසුරු නිශ්ශංක බන්දුල කරුණාරත්න සහ ශෂි මහේන්ද්‍රන් මහත්වරුන්ගෙන් සැදුම්ලත් විනිසුරු මඩුල්ල හමුවේ මෙම ප්‍රතිශෝධන පෙත්සම සලකා බැලු අවස්ථාවේදී එලෙස දැනුම් දුන්නේය.
+The lawyer of former Health Minister Keheliya Rambukwella, who has been remanded to the Court of Appeal, has been imported to the Sri Lanka, has been imported into the suspect in question over the 'Drug Regulatory Authority' as the approval of the Drug Regulatory Authority.The client is illegal to remand in connection with the incident.
+
+The President's Counsel Faiz Mustapha appeared for the relief of the Appeal of the Court of Health, Mr. Keheliya Rambukwella, who has been subjected to the Court of Appeal, demanding the release of subordinated drug delegation, was asked to relieve the suspect.
+
+The judge of the Court of Appeal, Judge Nissanka Bandula Karunaratne and Shashi Mahendran, the judge was considered when he considered the judge.
+
+Importing of RsThat was informed.
 
 ...
 
 [Data](articles/36c35844.json)
+
+[Extended Data](ext_articles/36c35844.ext.json)
+
+---
+
+### உணவு வகைகளின் விலை குறைப்பு
+
+*2024-06-05 18:16:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உணவு-வகைகளின்-விலை-குறைப்பு/175-338489) · `ta`
+
+எரிவாயு விலை குறைப்புடன் பல உணவுப் பொருட்களின் விலைகளும் குறைக்கப்பட்டுள்ளதாக   சிற்றுண்டிச்சாலை உரிமையாளர்கள் சங்கம் தெரிவித்துள்ளது.
+
+இதன்படி, கொத்து, ரைஸ் மற்றும் சோறு பார்சல் ஒன்றின் விலை குறைக்கப்பட்டுள்ளது, சோற்று பார்சல் ஒன்றின் விலை 25 ரூபாவினால் குறைக்கப்பட்டுள்ளது, சிற்றுண்டியின் விலை 10 ரூபாவினால் குறைக்கப்பட்டுள்ளது
+
+◼️
+
+[Data](articles/eaeca79e.json)
 
 ---
 
@@ -1856,25 +1898,31 @@ The Wildlife Department has set up a regulatory system to protect the drugs to p
 
 ---
 
-### අනෙක් නායකයන් ධාවන සපත්තු සොයද්දි මම සෙරෙප්පු දමාගෙන ගොස් ආණ්ඩුව භාරගත්තා
+### When other leaders were looking for running shoes, I was thrown into slippers and accepted the government
 
 *2024-06-05 10:43:18* · [`adalk`](https://www.ada.lk/breaking_news/අනෙක්-නායකයන්-ධාවන-සපත්තු-සොයද්දි-මම-සෙරෙප්පු-දමාගෙන-ගොස්-ආණ්ඩුව-භාරගත්තා/11-410015) · `si`
 
-අනෙක් නායකයන් ධාවන සපත්තු සොයද්දි මම සෙරෙප්පු දමාගෙන ගොස් ආණ්ඩුව භාරගත්තා
+In a unique approach, President Ranil Wickremesinghe highlighted his government's efforts amidst economic challenges, contrasting their situation with other leaders seeking "running shoes" while he was thrust into "slippers." He emphasized the importance of ability and trust over politics, aiming to stabilize the country's economy. Despite facing skepticism about resource allocation during economic downturns, the government increased salaries for public servants, indicating a commitment to supporting the populace. The President urged unity and cooperation to navigate through the crisis, advocating for a non-partisan approach focused on economic recovery and transformation.
 
-දේශපාලනය අනුව නොව හැකියාව සහ විශ්වාසය මත කටයුතු කිරීම නිසා රටේ ආර්ථිකය ගොඩගැනීමට හැකි වුණා – ජනපති.
+🟩
 
-අනෙක් නායකයන් ධාවන සපත්තු සොයන විට තමන් පාවහන් දමාගෙන ගොස් ආණ්ඩුව භාරගත් බවත් දේශපාලනය අනුව නොව හැකියාව සහ විශ්වාසය මත කටයුතු කිරීම නිසා පසුගිය දෙවසර තුළ මෙරට ආර්ථිකය ඉදිරියට ගෙන ඒමට හැකි වු බවත් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+When other leaders were looking for running shoes, I was thrown into slippers and accepted the government
 
-මෙම අවස්ථාවේ ද සියලුදෙනාගේ වගකීම වන්නේ දේශපාලනය පසෙක තබා රටේ ආර්ථිකය ගොඩනැඟීමේ වැඩපිළිවෙළට සහාය වීම බවද ජනාධිපතිවරයා සඳහන් කළේය.
+Dealing with the ability and trust, not the politics and trust was able to overcome the economy of the country - President.
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ මුදල් රාජ්‍ය අමාත්‍ය රංජිත් සියඹලාපිටිය මහතාගේ රුවන්වැල්ල නිවසේදී අද (04) දහවල් පැවති ජන හමුවකට එක්වෙමිනි.
+President Ranil Wickremesinghe said that when other leaders were looking for their shoes, the government was able to bring the economy to the country and the power and trust in the past.
 
-රට තුළ සිදු වූ ආර්ථික කඩා වැටීමත් සමඟ, මෙරට දේශපාලනය ද කඩා වැටුණු බව සිහිපත් කළ ජනාධිපතිවරයා ඒ අනුව පළමු වතාවට දේශපාලනය නොමැති ආණ්ඩුවක් නිර්මාණය වු බව ද සඳහන් කළේය.
+The President also said that the responsibility of everyone is to support the program to soil politics and to assist the economy of the country.
+
+President Ranil Wickremesinghe made this statement participating at a public briefing at the Ruwanwella home at the Ruwanwella home of Minister Ranvil Siyambalapitiya today (04).
+
+The President who recalled that the politics of the country had collapsed with the economic collapse of the country, the President of Sri Lanka's politics also created a government without politics for the first time.
 
 ...
 
 [Data](articles/868f21a9.json)
+
+[Extended Data](ext_articles/868f21a9.ext.json)
 
 ---
 
@@ -2221,41 +2269,5 @@ It is reported that the child taken into police custody has been produced before
 [Data](articles/bb5a8bef.json)
 
 [Extended Data](ext_articles/bb5a8bef.ext.json)
-
----
-
-### Relief for the flood affected..
-
-*2024-06-05 09:18:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Relief-for-the-flood-affected/110-284146) · `en`
-
-Those affected by floods in Gampaha were moved to the Wijayarama temple in Ihalagama, a designated safe location. Gampaha town and several low-lying areas were flooded yesterday. The Navy used boats to supply food and other necessities to the affected. Pix by Kushan Pathiraja
-
-◼️
-
-[Data](articles/22b284b7.json)
-
-[Extended Data](ext_articles/22b284b7.ext.json)
-
----
-
-### India’s Modi tells Sri Lanka President he looks to economic partnership, amid poll setback
-
-*2024-06-05 09:17:00* · [`economynextcom`](https://economynext.com/indias-modi-tells-sri-lanka-president-he-looks-to-economic-partnership-amid-poll-setback-166304/) · `en`
-
-ECONOMYNEXT – India’s Prime Minister Narenda Modi has exchanged tweets with Sri Lanka’s political leadership after mammoth elections that saw his Bharathiya Janatha Party losing its earlier absolute majority.
-
-The BJP is expected to win only 240 seats, short of a required 272 majority in the 543 assembly, and will have to govern with his broader NDA coalition which is expected to get 295.
-
-The opposition India block, led by Rahul Ghadhi has 232 seats with the Congress itself getting 99 seats almost doubling its tally.
-
-Modi has lost ground amid inflation, and his authoritarian nationalist policies which also saw the election commissions independence undermined with the removal of the Chief Justice and pending removal of personal laws, the opposition has said.
-
-“I look forward to our continued cooperation on the India-Sri Lanka Economic Partnership,” Modi replied to President Ranil Wickremesinghe’s congratulatory x.com message.
-
-...
-
-[Data](articles/37c7defd.json)
-
-[Extended Data](ext_articles/37c7defd.ext.json)
 
 ---

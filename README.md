@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-05 20:34:12**
+As of **2024-06-05 20:53:00**
 
 ## Newspaper Stats
 
-*Scraped **28,644** Articles*
+*Scraped **28,645** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ adaderanalk | 3,253
 tamilmirrorlk | 3,364
 virakesarilk | 4,406
 dailymirrorlk | 4,541
-adaderanasinhalalk | 4,602
+adaderanasinhalalk | 4,603
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,643 (100.0%) of 28,644 articles have been extended.
+28,644 (100.0%) of 28,645 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-05 (Wednesday)
+
+### හොරෙන් රට පනින්න හැදූ අයෙකු කටුනායකදී අත්අඩංගුවට
+
+*2024-06-05 20:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197434) · `si`
+
+වෙනත් අයෙකුගේ වීසා බලපත්‍රයක් භාවිත කර කැනඩාවට පළායාම සඳහා පැමිණි පුද්ගලයෙකු කටුනායක ගුවන්තොටුපොළ ආගමන විගමන නිලධාරීන් විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+සැකකරු සිය ගුවන් ගමන් නිශ්කාශන කටයුතු නිමාකර ආගමන විගමන කවුළුව වෙත පැමිණ සිය ගමන් බලපත්‍රය ඉදිරිපත් කර ඇති බව සඳහන් වෙයි.
+
+එහිදී අදාළ ගමන් බලපත්‍රයේ ඇති ජායාරූපය සහ ඔහුගේ ජායාරූපය එකිනෙකට වෙනස් බවක් පෙන්නුම් කිරීම හේතුවෙන් මෙම ගමන් බලපත්‍රය පිළිබඳ වැඩිදුර තොරතුරු අනාවරණය කරගැනීම සඳහා එහි තොරතුරු ආගමන විගමන දෙපාර්තමේන්තු පරිගණක පද්ධතිය වෙත ඇතුළත් කර තිබේ.
+
+ඒ අනුව මෙම ගමන් බලපත්‍රය හිමි තැනැත්තාට එරෙහිව ත්‍රිකුණාමලය අධිකරණය විසින් රටින් පිටවීම තහනම් කරමින් ගුවන් ගමන් තහනමක් පනවා ඇති බවට ද කරුණු අනාවරණය වි ඇති බව සඳහන් වෙයි.
+
+අත්අඩංගුවට ගත් 34 හැවිරිදි යාපනය ප්‍රදේශයේ පදිංචි සැකකරු වැඩිදුර විමර්ශන සඳහා ගුවන්තොටුපොළ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තු නිලධාරීන් වෙත භාරදීමට පියවර ගෙන තිබේ.
+
+◼️
+
+[Data](articles/02a85516.json)
+
+---
 
 ### Extreme weather leaves over 250,000 persons affected
 
@@ -47,6 +67,8 @@ Meanwhile, the death toll due to the inclement weather stands at 30 as of today 
 ◼️
 
 [Data](articles/1a167eed.json)
+
+[Extended Data](ext_articles/1a167eed.ext.json)
 
 ---
 
@@ -2273,27 +2295,5 @@ TikTok said the account of reality TV star Paris Hilton was also targeted, but i
 [Data](articles/bf399215.json)
 
 [Extended Data](ext_articles/bf399215.ext.json)
-
----
-
-### Sri Lankan Parliament congratulates Modi
-
-*2024-06-05 10:58:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankan-Parliament-congratulates-Modi/108-284153) · `en`
-
-Parliament, June 5 (Daily Mirror)- The Sri Lankan Parliament congratulated Indian Prime Minister Narendra Modi for his party’s victory at the South Asian nation’s elections which concluded on Tuesday while both the government and the opposition expressed Sri Lanka’s commitment to work closely with its neighbour.
-
-“Sri Lanka looks forward to continuing its long standing bilateral ties on shared beliefs and principles,” Prime Minister Dinesh Gunawadene said, making a special statement in Parliament.
-
-“As a close South Asian neighbour Sri Lanka will work with India to overcome challenges and explore opportunities that come to light in the present international situation,” he added.
-
-Leader of the Opposition Sajith Premadasa who also assured Sri Lanka’s support to India suggested that the House call for granting India a permanent membership of the UN Security Council.
-
-“We are confident that all 225 members of the Sri Lankan Parliament will back this move,” he said.
-
-...
-
-[Data](articles/865484e8.json)
-
-[Extended Data](ext_articles/865484e8.ext.json)
 
 ---

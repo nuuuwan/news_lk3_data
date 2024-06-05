@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-05 22:52:04**
+As of **2024-06-05 23:04:01**
 
 ## Newspaper Stats
 
-*Scraped **28,658** Articles*
+*Scraped **28,659** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,631
 dailyftlk | 1,687
 adalk | 2,448
 adaderanalk | 3,255
-tamilmirrorlk | 3,366
+tamilmirrorlk | 3,367
 virakesarilk | 4,406
 dailymirrorlk | 4,546
 adaderanasinhalalk | 4,604
@@ -26,11 +26,29 @@ adaderanasinhalalk | 4,604
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,653 (100.0%) of 28,658 articles have been extended.
+28,658 (100.0%) of 28,659 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-05 (Wednesday)
+
+### மோடியின் பதவிப் பிரமாண நிகழ்வில் ரணில்
+
+*2024-06-05 22:37:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மோடியின்-பதவிப்-பிரமாண-நிகழ்வில்-ரணில்/175-338495) · `ta`
+
+நரேந்திர மோடியின் பதவி பிரமாண நிகழ்வில் ஜனாதிபதி ரணில் விக்ரமசிங்க பங்கேற்க இணக்கம் தெரிவித்துள்ளார்.
+
+நடைபெற்று முடிவடைந்த தேர்தலில் வெற்றியீட்டி மூன்றாவது தடவையாக இந்திய பிரதமராக பதவி பிரமாணம் செய்துக்கொள்ளவுள்ள நரேந்திர மோடிக்கு, ஜனாதிபதி ரணில் விக்ரமசிங்க தொலைபேசி ஊடாக வாழ்த்து தெரிவித்துள்ளார்.
+
+இதன்போது, தனது பதவி பிரமாண நிகழ்விற்கு வருமாறு, ஜனாதிபதி ரணில் விக்ரமசிங்கவிற்கு அழைப்பு விடுத்துள்ளார்.
+
+இதையடுத்து இந்திய பிரதமர் நரேந்திர மோடியின் அழைப்பை, ஜனாதிபதி ரணில் விக்ரமசிங்க ஏற்றுக் கொண்டதாக ஜனாதிபதி ஊடகப் பிரிவு தெரிவிக்கின்றது. R
+
+◼️
+
+[Data](articles/1defc763.json)
+
+---
 
 ### President Ranil reiterates commitment towards net zero on World Environment Day
 
@@ -48,6 +66,8 @@ He also highlighted that the upcoming Climate Change Act and the establishment o
 
 [Data](articles/47b8540c.json)
 
+[Extended Data](ext_articles/47b8540c.ext.json)
+
 ---
 
 ### Modi Invites President Wickremesinghe to swearing-in ceremony
@@ -63,6 +83,8 @@ President Wickremesinghe is expected to visit India for the ceremony, scheduled 
 ◼️
 
 [Data](articles/c8697d6d.json)
+
+[Extended Data](ext_articles/c8697d6d.ext.json)
 
 ---
 
@@ -183,6 +205,8 @@ A stock of 13.680 grams of heroin was recovered from a house in Kumbukgetewatta 
 ◼️
 
 [Data](articles/9d981eed.json)
+
+[Extended Data](ext_articles/9d981eed.ext.json)
 
 ---
 
@@ -1151,6 +1175,8 @@ A special session of the Ceylon Women's Organization was held at the Radisson Ho
 ◼️
 
 [Data](articles/625197a4.json)
+
+[Extended Data](ext_articles/625197a4.ext.json)
 
 ---
 
@@ -2247,29 +2273,5 @@ The Speaker said that it would be passed in a simple majority of parliament if t
 [Data](articles/b9876043.json)
 
 [Extended Data](ext_articles/b9876043.ext.json)
-
----
-
-### 6 people as refugees in Rameswaram as refugees
-
-*2024-06-05 11:31:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/6-பேர்-ராமேஸ்வரத்தில்-அகதிகளாக-தஞ்சம்/175-338474) · `ta`
-
-Six members of a family fled from Mullaitivu to Rameswaram via Mannar by boat, reaching Serang Fort early Wednesday. The group includes their mother and four children. Authorities are investigating their arrival.
-
-🟩
-
-Six people from the same family from Mullaitivu have taken refuge in Rameswaram early Wednesday morning.
-
-On Tuesday (4), they went from Mullaitivu to Mannar and illegally departed from Mannar by boat and reached the Serang Fort next to Rameswaram on Wednesday morning.
-
-Six people, including their mother and four children, have taken refuge.
-
-It is noteworthy that Marine Police are conducting an investigation at the Marine Police Station.
-
-◼️
-
-[Data](articles/23765e39.json)
-
-[Extended Data](ext_articles/23765e39.ext.json)
 
 ---

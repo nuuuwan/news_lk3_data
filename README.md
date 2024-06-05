@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-05 20:53:00**
+As of **2024-06-05 21:05:14**
 
 ## Newspaper Stats
 
@@ -26,29 +26,35 @@ adaderanasinhalalk | 4,603
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,644 (100.0%) of 28,645 articles have been extended.
+28,645 (100.0%) of 28,645 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-05 (Wednesday)
 
-### හොරෙන් රට පනින්න හැදූ අයෙකු කටුනායකදී අත්අඩංගුවට
+### One person arrested in Katunayake
 
 *2024-06-05 20:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197434) · `si`
 
-වෙනත් අයෙකුගේ වීසා බලපත්‍රයක් භාවිත කර කැනඩාවට පළායාම සඳහා පැමිණි පුද්ගලයෙකු කටුනායක ගුවන්තොටුපොළ ආගමන විගමන නිලධාරීන් විසින් අත්අඩංගුවට ගෙන තිබේ.
+In Katunayake, a person attempting to flee to Canada was arrested by immigration officers. The suspect had completed flight clearance but returned to submit his passport, which included his photo. This incident led to the inclusion of his passport photos in the Department of Immigration records. The arrest occurred after the suspect was identified as being from Jaffna, where he resides. Further investigations are ongoing.
 
-සැකකරු සිය ගුවන් ගමන් නිශ්කාශන කටයුතු නිමාකර ආගමන විගමන කවුළුව වෙත පැමිණ සිය ගමන් බලපත්‍රය ඉදිරිපත් කර ඇති බව සඳහන් වෙයි.
+🟩
 
-එහිදී අදාළ ගමන් බලපත්‍රයේ ඇති ජායාරූපය සහ ඔහුගේ ජායාරූපය එකිනෙකට වෙනස් බවක් පෙන්නුම් කිරීම හේතුවෙන් මෙම ගමන් බලපත්‍රය පිළිබඳ වැඩිදුර තොරතුරු අනාවරණය කරගැනීම සඳහා එහි තොරතුරු ආගමන විගමන දෙපාර්තමේන්තු පරිගණක පද්ධතිය වෙත ඇතුළත් කර තිබේ.
+A person who had come to flee to Canada has been arrested by the Immigration and Emigration Officers who have come to flee to Canada using another visit.
 
-ඒ අනුව මෙම ගමන් බලපත්‍රය හිමි තැනැත්තාට එරෙහිව ත්‍රිකුණාමලය අධිකරණය විසින් රටින් පිටවීම තහනම් කරමින් ගුවන් ගමන් තහනමක් පනවා ඇති බවට ද කරුණු අනාවරණය වි ඇති බව සඳහන් වෙයි.
+It is said that the suspect had completed his flights clearance work and returned to the immigration window and submitted his passport.
 
-අත්අඩංගුවට ගත් 34 හැවිරිදි යාපනය ප්‍රදේශයේ පදිංචි සැකකරු වැඩිදුර විමර්ශන සඳහා ගුවන්තොටුපොළ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තු නිලධාරීන් වෙත භාරදීමට පියවර ගෙන තිබේ.
+The photograph of the passport and his photograph of the passport have been included in this passport to the Department of Immigration and the Department of Immigration.
+
+According to the Trincomalee Courts, the Trincomalee Courts have been banned by the Trincomalee Courts with banning the country.
+
+Residence residents of Jaffna, who was arrested, was residing in Jaffna for further investigations.
 
 ◼️
 
 [Data](articles/02a85516.json)
+
+[Extended Data](ext_articles/02a85516.ext.json)
 
 ---
 

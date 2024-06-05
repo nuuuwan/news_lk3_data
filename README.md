@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-06 01:53:17**
+As of **2024-06-06 02:04:14**
 
 ## Newspaper Stats
 
-*Scraped **28,680** Articles*
+*Scraped **28,681** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,635
 dailyftlk | 1,687
 adalk | 2,448
 adaderanalk | 3,255
-tamilmirrorlk | 3,369
+tamilmirrorlk | 3,370
 virakesarilk | 4,412
 dailymirrorlk | 4,553
 adaderanasinhalalk | 4,606
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,606
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,680 (100.0%) of 28,680 articles have been extended.
+28,680 (100.0%) of 28,681 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,24 @@ The 50th anniversary of the first supremacist of the Tamil nation who fought as 
 [Data](articles/4c540f00.json)
 
 [Extended Data](ext_articles/4c540f00.ext.json)
+
+---
+
+### ’ஹிஜாப்பால் பெறுபேறு இரத்தாகாது’
+
+*2024-06-06 00:50:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹிஜாப்பால்-பெறுபேறு-இரத்தாகாது/175-338511) · `ta`
+
+ஹிஜாப் அணிந்து பரீட்சைக்கு தோற்றியதால் பெறுபேறு இரத்து செய்யப்படமாட்டாது என தெரிவித்த கல்வி அமைச்சர் சுசில் பிரேமஜயந்த, தற்காலிகமாக இடை நிறுத்தப்பட்டு விசாரணைகள் முன்னெடுக்கப்படும் என்றார்.
+
+காதுகளை மறைத்த வண்ணம் ஹிஜாப் அணிந்திருக்கும் போது சூட்சமான முறையில் காதுக்குள் கருவிகளை வைத்திருக்க முடியும்.இவ்வாறான நிலையில் தான் காதுகள் தென்படும் வகையில் அணியுமாறு குறிப்பிடப்படுகிறது என்றார்.
+
+பாராளுமன்றத்தில்   ஐக்கிய மக்கள் சக்தி எம்.பி. யான முஜிபுர் ரஹ்மானினால் புதன்கிழமை (05)  எழுப்பப்பட்ட கேள்விக்கு பதிலளிக்கையிலேயே கல்வி அமைச்சர் இவ்வாறு தெரிவித்தார்.
+
+அதிபர் சேவை பரீட்சைக்கு மேல் மாகாணத்தில் தோற்றிய 13 பேர் ஹிஜாப் அணிந்த வகையில்  பரீட்சைக்கு தோற்றியதற்காக அவர்களின் பெறுபேறு இடைநிறுத்தப்பட்டுள்ளது.
+
+...
+
+[Data](articles/69ed98de.json)
 
 ---
 
@@ -2239,29 +2257,5 @@ There are two schools, Vannerikkulam and Annivundan Iyenarpuram. There are 254 s
 [Data](articles/a70fb389.json)
 
 [Extended Data](ext_articles/a70fb389.ext.json)
-
----
-
-### When others shoes the shoes, I was sandals - President
-
-*2024-06-05 13:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197419) · `si`
-
-In a speech, President Ranil Wickremesinghe humorously compared his leadership style to wearing sandals while others wore formal shoes, highlighting his approach to governance during challenging times. He addressed criticisms and discussed his government's efforts to stabilize the economy, including receiving international support and implementing policies that restored confidence. Despite facing opposition and calls for his resignation, he emphasized his commitment to serving the country and working across political lines.
-
-🟩
-
-President Ranil Wickremesinghe says that when other leaders seek shoe shoes, President Ranil Wickremesinghe said.
-
-He was speaking at a public rally held at the Ruwanwella of the Ruwanwella, police said that the economy was held in the Ruwanwella of the country.
-
-"How do some people ask me? Given the fact that it is like prosperity. How can a bankrupt government do these things?Allowance of Rs. 10,000 Rs.. Lanka gave Sri Lanka on two occasions. Ask me that this is a magic?
-
-When other leaders put their racing shoes in difficult times, we took the government with sandals. All my shoes were on fire. Since we worked by policies, IMF gained trust. We had faith to be landed in 6 months. The first time in Sri Lanka had a government without politics. There was an all-party opposition. We divided according to the talents.
-
-...
-
-[Data](articles/74e0e8c3.json)
-
-[Extended Data](ext_articles/74e0e8c3.ext.json)
 
 ---

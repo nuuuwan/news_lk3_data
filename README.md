@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-05 09:18:46**
+As of **2024-06-05 09:34:23**
 
 ## Newspaper Stats
 
-*Scraped **28,515** Articles*
+*Scraped **28,517** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 1,687
 adalk | 2,425
 adaderanalk | 3,237
 tamilmirrorlk | 3,353
-virakesarilk | 4,387
+virakesarilk | 4,389
 dailymirrorlk | 4,514
 adaderanasinhalalk | 4,578
 
@@ -26,11 +26,47 @@ adaderanasinhalalk | 4,578
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,513 (100.0%) of 28,515 articles have been extended.
+28,515 (100.0%) of 28,517 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-05 (Wednesday)
+
+### பல பிரதேச செயலக பிரிவுகளில் 7 நாட்களுக்கு மதுபானசாலைகளுக்கு பூட்டு
+
+*2024-06-05 09:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/185343) · `ta`
+
+நாட்டில் பல பிரதேச செயலக பிரிவுகளிலுள்ள மதுபானசாலைகளை 7 நாட்களுக்கு மூடுவதற்கு தீர்மானிக்கப்பட்டுள்ளது.
+
+தேசிய பொசன் பண்டிகையை முன்னிட்டு எதிர்வரும் ஜூன் மாதம் 18ஆம் திகதி முதல் 24ஆம் திகதி வரை  மதுபானசாலைங்கள் மூடப்படவுள்ளதாக கலால் திணைக்களம் தெரிவித்துள்ளது.
+
+அதன்படி, மத்திய நுவரகம், கிழக்கு நுவரகம்  மற்றும் மிஹிந்தலை பிரிவு 03 ஆகிய பகுதிகளில் உள்ள அனைத்து மதுபானசாலைகளும் அக்காலப்பகுதியில் மூடப்படவுள்ளன.
+
+◼️
+
+[Data](articles/f109639f.json)
+
+---
+
+### பல மாகாணங்களில் மழை பெய்யும்
+
+*2024-06-05 09:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/185341) · `ta`
+
+மேல், சப்ரகமுவ, மத்திய, தென் மற்றும் வடமேல் மாகாணங்களில் பல தடவைகள் மழை பெய்யும் என வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+
+இதேவேளை, சில பகுதிகளில் மாலை அல்லது இரவில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும் எனவும் திணைக்களம் தெரிவித்துள்ளது.
+
+இடியுடன் கூடிய மழையின் போது தற்காலிகமாக பலத்த காற்று மற்றும் மின்னல் தாக்கங்களினால் ஏற்படக்கூடிய பாதிப்புகளை குறைத்துக்கொள்ள போதுமான முன்னெச்சரிக்கை நடவடிக்கைகளை எடுக்குமாறு பொதுமக்கள் கேட்டுக் கொள்ளப்படுகிறார்கள்.
+
+காங்கேசன்துறையிலிருந்து புத்தளம், கொழும்பு மற்றும் காலி ஊடாக அம்பாந்தோட்டை வரையான கடற்பரப்புகளில் பல பகுதிகளில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யும். நாட்டைச் சூழவுள்ள ஏனைய கடற்பரப்புகளில் சில பகுதிகளில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக் கூடிய சாத்தியம் காணப்படுகின்றது.
+
+முல்லைத்தீவில் இருந்து காங்கேசன்துறை, மன்னார் ஊடாக புத்தளம் மற்றும் அம்பாந்தோட்டையில் இருந்து பொத்துவில் வரையான கடற்பரப்புகளில் காற்றின் வேகமானது அவ்வப்போது மணித்தியாலத்துக்கு 50-60 கிலோ மீற்றர் வரை அதிகரித்து வீசக்கூடும்.
+
+...
+
+[Data](articles/2ab2ef6b.json)
+
+---
 
 ### University non-academic staff to continue strike action
 
@@ -45,6 +81,8 @@ K.L.D.G. Richmond, the co-secretary of the Inter-University Trade Union Federati
 ◼️
 
 [Data](articles/730e1a96.json)
+
+[Extended Data](ext_articles/730e1a96.ext.json)
 
 ---
 
@@ -477,6 +515,8 @@ A report in an English daily recently stated that the UN human rights office has
 ...
 
 [Data](articles/32a99473.json)
+
+[Extended Data](ext_articles/32a99473.ext.json)
 
 ---
 
@@ -2159,47 +2199,5 @@ As floodwaters recede, there could be a noticeable uptick in leptospirosis cases
 [Data](articles/7c3de976.json)
 
 [Extended Data](ext_articles/7c3de976.ext.json)
-
----
-
-### Notice of closing schools tomorrow
-
-*2024-06-04 19:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/185325) · `ta`
-
-Due to severe weather conditions, all schools in the Ratnapura, Nivithigala, Alapadha, Ayagama, and Kalana education zones will be closed on Wednesday, 05th.
-
-🟩
-
-Sabaragamuwa Provincial Education Secretary said that all schools in the Ratnapura Education Zone will be closed on Wednesday, 05th.
-
-It is decided to close all schools in the Nivithigala Education Zone on Wednesday, 05, including the Alapadha, Ayagama and Kalana.
-
-It is noteworthy that the decision was made due to the worst weather in those areas.
-
-◼️
-
-[Data](articles/97d8b3cd.json)
-
-[Extended Data](ext_articles/97d8b3cd.ext.json)
-
----
-
-### Modi’s BJP-led alliance projected to lose significant number of seats in India elections
-
-*2024-06-04 19:05:00* · [`economynextcom`](https://economynext.com/modis-bjp-led-alliance-projected-to-lose-significant-number-of-seats-in-india-elections-166246/) · `en`
-
-ECONOMYNEXT — The National Democratic Alliance (NDA) led by Prime Minister Narendra Modi’s Bharatiya Janatha Party (BJP) is projected to lose a significant number of seats and early results on Tuesday June 04 indicated that the alliance will likely not secure an absolute majority.
-
-The BJP is widely expected to reach out to smaller parties to form a coalition government.
-
-Indian media had reported on Saturday June 01, citing exit polls, projected a comfortable win for the Hindu nationalist BJP and its allies over an opposition alliance led by Rahul Gandhi’s Congress party and the INDIA alliance it leads.
-
-According to the New York Times, traders in Mumbai had also anticipated a comfortable win for Modi but, by the end of trading on Tuesday, the markets were down 6 percent, nearly wiping out the year’s gains.
-
-...
-
-[Data](articles/4bed0a32.json)
-
-[Extended Data](ext_articles/4bed0a32.ext.json)
 
 ---

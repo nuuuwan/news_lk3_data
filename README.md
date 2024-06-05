@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-06 01:34:19**
+As of **2024-06-06 01:53:17**
 
 ## Newspaper Stats
 
@@ -26,37 +26,51 @@ adaderanasinhalalk | 4,606
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,677 (100.0%) of 28,680 articles have been extended.
+28,680 (100.0%) of 28,680 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-06 (Thursday)
 
-### யாழ் பல்கலையில் தற்கொடையாளன் தியாகி பொன்.சிவகுமாரனின் 50ஆவது ஆண்டு நினைவேந்தல்
+### The 50th anniversary of the martyr Poni Sivakumaran
 
 *2024-06-06 01:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/185409) · `ta`
 
-தமிழ் தேசத்தின் வரலாற்றில் மாணவப் போராளியாகப் போராடி தன்னுயிர் நீத்த முதல் தற்கொடையாளன் தியாகி பொன்.சிவகுமாரனின் 50ஆவது ஆண்டு நினைவேந்தல் 05ஆம் திகதி  புதன்கிழமை யாழ்ப்பாணப் பல்கலைக்கழக பொதுநினைவுத் தூபியில் பல்கலைக்கழக விரிவுரையாளர்கள், மாணவர்கள், கல்விசாரா ஊழியர்கள் உள்ளிட்டவர்களின் பங்கேற்புடன் உணர்வுபூர்வமாக முன்னெடுக்கப்பட்டது.
+The 50th anniversary of Poni Sivakumaran, a pivotal figure in Tamil history known for his student activism, was celebrated on May 5th. The event, attended by university faculty, students, and staff at the University of Jaffna, commemorated his legacy as a symbol of resistance and leadership.
+
+🟩
+
+The 50th anniversary of the first supremacist of the Tamil nation who fought as a student fighter in the history of the Tamil nation was carried out on Wednesday, 05, with the participation of university lecturers, students and non -academic staff at the University of Jaffna.
 
 ◼️
 
 [Data](articles/4c540f00.json)
 
+[Extended Data](ext_articles/4c540f00.ext.json)
+
 ---
 
-### பொது வேட்பாளருக்கு புளொட் ஆதரவு
+### Plot support for common candidate
 
 *2024-06-06 00:37:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொது-வேட்பாளருக்கு-புளொட்-ஆதரவு/175-338510) · `ta`
 
-ஜனாதிபதி தேர்தலில் பொது வேட்பாளர் ஒருவரை நிறுத்துவதற்கான தீர்மானத்தை தாம் ஏற்றுக்கொண்டுள்ளோம் என ஜனநாயக மக்கள் விடுதலை முன்னணியினர் தெரிவித்துள்ளனர்.
+The Democratic People's Liberation Front, along with the Democratic Liberation Front and the Democratic Tamil National Alliance, has decided to support a common candidate in the upcoming presidential election. This move aims to represent the Tamil community's political aspirations and address their concerns. The decision was made after a central committee meeting, emphasizing the importance of addressing the Tamil people's needs through collective action rather than individual party decisions.
 
-ஜனநாயக மக்கள் விடுதலை முன்னணியின் தலைவர் த.சித்தார்த்தன் தலைமையில்   நடைபெற்ற கட்சியின் மத்திய குழு கூட்டத்தில் தமிழ்ப் பொது வேட்பாளர் சம்பந்தமாக தீர்மானம் எடுக்கப்பட்டுள்ளது.
+🟩
 
-தமிழ் மக்களின் அரசியல் அபிலாசைகளையும், சமூக வாழ்வின் எதிர்பார்ப்புகளையும், நாளாந்தம் முகம் கொடுத்துவரும் நெருக்கடிகளையும், தென்னிலங்கை அரசியல் சமூகத்தின்  தொடர்ச்சியான ஏமாற்றுத்தனங்களையும் உறுதியாக வெளிப்படுத்தக் கூடிய வகையில்,  ஜனாதிபதி தேர்தலில் பொது வேட்பாளர் ஒருவரை நிறுத்துவதற்கான தீர்மானத்தை ஜனநாயக மக்கள் விடுதலை முன்னணியினராகிய நாம் ஜனநாயக தமிழ் தேசிய கூட்டணியின் ஏனைய அங்கத்துவக் கட்சிகளுடன் இணைந்து ஏற்றுக் கொண்டதோடு அதனை முன்கொண்டு செல்வதற்கான முழு ஆதரவினையும் வெளிப்படுத்தியிருந்தோம்.
+The Democratic People's Liberation Front has said that we have accepted the decision to field a common candidate in the presidential election.
+
+A decision on the Tamil general candidate has been taken at the party's central committee meeting chaired by Democratic People's Liberation Front leader TC Sitharthan.
+
+The Democratic People's Liberation Front, we have joined the Democratic Liberation Front and other members of the Democratic Tamil National Alliance (TNA), a decision to field a common candidate in the presidential election, to firmly express the political aspirations of the Tamil people, the expectations of social life, and the continuous deceit of the South Sri Lanka political community.We also expressed support.
+
+At the same time, we continue to emphasize that the resolution can be made so that the aspirations of the Tamil people can be very strong, not the decision of a few political parties and a few social activities groups.
 
 ...
 
 [Data](articles/1b0d0bc0.json)
+
+[Extended Data](ext_articles/1b0d0bc0.ext.json)
 
 ---
 
@@ -82,21 +96,27 @@ Due to the inclement weather conditions in the country, 71 houses have been comp
 
 ---
 
-### யாழில் 28 மில்லியன் பெறுமதியான கேரள கஞ்சாவுடன் இருவர் கைது
+### Two persons arrested with Kerala ganja worth 28 million in Jaffna
 
 *2024-06-06 00:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/185408) · `ta`
 
-வட கடலில் வைத்து சுமார் 28 மில்லியன் ரூபா பெறுமதியான கேரள கஞ்சாவுடன் இரண்டு சந்தேகநபர்களை கடற்படையினர் கைது செய்துள்ளனர்.
+In Jaffna, two men aged 34 and 40 were arrested by the Navy for possessing Kerala ganja worth 28 million rupees. The suspects were caught transporting the drugs on a boat, which along with the ganja, was confiscated. They are now under investigation by the Maruthankeni police.
 
-யாழ்ப்பாணம் பகுதியைச் சேர்ந்த 34 மற்றும் 40 வயதுடைய இருவரே இவ்வாறு கைது செய்யப்பட்டுள்ளனர்.
+🟩
 
-கேரள கஞ்சாவை படகில் ஏற்றிச் சென்ற போது கடற்படையினர் அவர்களை கைது செய்தனர்.
+The Navy has arrested two suspects with Kerala ganja worth about 28 million rupees in the North Sea.
 
-மேலதிக விசாரணைகளுக்காக கைது செய்யப்பட்ட சந்தேக நபர்களும் கடற்படையினரால் கைப்பற்றப்பட்ட கேரள கஞ்சா மற்றும் படகும் மருதங்கேணி பொலிஸாரிடம் ஒப்படைக்கப்பட்டுள்ளது.
+The two men, aged 34 and 40, from Jaffna have been arrested.
+
+The Marines arrested them when they took the Kerala ganja on the boat.
+
+The suspects arrested for further investigations and the Kerala cannabis and boat seized by the Navy have been handed over to the Maruthankeni police.
 
 ◼️
 
 [Data](articles/b55d8710.json)
+
+[Extended Data](ext_articles/b55d8710.ext.json)
 
 ---
 

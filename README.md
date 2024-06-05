@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-05 10:18:57**
+As of **2024-06-05 10:34:07**
 
 ## Newspaper Stats
 
-*Scraped **28,526** Articles*
+*Scraped **28,531** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,42 @@ newsfirstlk | 363
 islandlk | 1,542
 economynextcom | 1,620
 dailyftlk | 1,687
-adalk | 2,425
+adalk | 2,426
 adaderanalk | 3,239
 tamilmirrorlk | 3,355
-virakesarilk | 4,389
-dailymirrorlk | 4,518
-adaderanasinhalalk | 4,579
+virakesarilk | 4,390
+dailymirrorlk | 4,520
+adaderanasinhalalk | 4,580
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,525 (100.0%) of 28,526 articles have been extended.
+28,526 (100.0%) of 28,531 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-05 (Wednesday)
+
+### වෙරළ තීරයේ දිය නාමින් සිටි විදෙස් යුවළක් දියේ ගිලී මරුට
+
+*2024-06-05 10:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197410) · `si`
+
+කිරින්ද වෙරළ තීරයේ දියනාමින් සිටි විදේශීය ජාතික කාන්තාවක් සහ පිරිමි පුද්ගලයෙකු දියේ ගිලී මියගොස් තිබේ.
+
+පොලීසිය පැවසුවේ, අදාළ කාන්තාව සහ පුද්ගලයා දියේ ගිලෙමින් සිටියදී බේරාගෙන රෝහල් ගත කරන අවස්ථාවේදී මියගොස් ඇති බවය.
+
+මියගොස් ඇත්තේ 35 හැවිරිදි පුද්ගලයෙකු සහ 33 හැවිරිදි ඉන්දීය ජාතිකයින් දෙදෙනෙකු බව පොලීසිය පැවසුවේය.
+
+මූලික විමර්ශනවලදී අනාවරණය වී ඇත්තේ මියගිය දෙදෙනා අඹුසැමියන් වන අතර පවුලේ සාමාජිකයින් සමඟ සංචාරයක් සඳහා මෙරටට පැමිණි දියනාමින් සිටි අවස්ථාවේදී මෙම අනතුර සිදුව ඇති බවය.
+
+මෘත ශරීර දෙබරවැව රෝහලේ තැම්පත් කර ඇති අතර කිරින්ද පොලීසිය වැඩිදුර විමර්ශන ආරම්භ කර තිබේ.
+
+◼️
+
+[Data](articles/2e226414.json)
+
+---
 
 ### High risk of communicable diseases spreading in country
 
@@ -49,6 +69,22 @@ The Chief Medical Officer further stated to “ensure that fruits and vegetables
 ◼️
 
 [Data](articles/711f125d.json)
+
+[Extended Data](ext_articles/711f125d.ext.json)
+
+---
+
+### ரயில் தடம் புரள்வு ; கரையோரப் ரயில் சேவைகள் பாதிப்பு
+
+*2024-06-05 10:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/185346) · `ta`
+
+கோட்டை ரயில் நிலையத்தில் ரயில் தடம் புரண்டதால் கரையோர ரயில் சேவை தடைப்பட்டுள்ளது.
+
+இதன் காரணமாக காலை அலுவலக ரயில்கள் அனைத்தும் தடைபட்டுள்ளதாக ரயில்வே திணைக்களம் தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/1a8badcf.json)
 
 ---
 
@@ -354,6 +390,26 @@ Steps have been taken to present the suspects in court today (05) and Pulmodi po
 
 ---
 
+### The body of the woman from the well in Punguduthivu
+
+*2024-06-05 08:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/185338) · `ta`
+
+A young woman, Sivakanandan Sindhu, 27, was discovered on April 4th in a well near the Madathuveli Vayalur Murugan Temple in Punguduthivu, Jaffna Kayts.
+
+🟩
+
+The body of a young woman has been found on Tuesday, 4th from the well of Madathuveli Vayalur Murugan Temple, Punguduthivu, Jaffna Kayts.
+
+Sivakanandan Sindhu, aged 27, from the eighth region of Punguduthivu, Punguduthivu.
+
+◼️
+
+[Data](articles/60c62c25.json)
+
+[Extended Data](ext_articles/60c62c25.ext.json)
+
+---
+
 ### President raises concerns with NATA over ‘Happy Hour’
 
 *2024-06-05 08:37:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/President-raises-concerns-with-NATA-over-Happy-Hour/108-284136) · `en`
@@ -369,6 +425,36 @@ The Daily Mirror with its headlines, ‘Industry stakeholders up in arms against
 [Data](articles/66a19d7b.json)
 
 [Extended Data](ext_articles/66a19d7b.ext.json)
+
+---
+
+### නිදහස් පක්ෂයේ කොළඹ සංවිධායක සජබයට යයි
+
+*2024-06-05 08:17:30* · [`adalk`](https://www.ada.lk/breaking_news/නිදහස්-පක්ෂයේ-කොළඹ-සංවිධායක-සජබයට-යයි/11-410012) · `si`
+
+ශ්‍රී ලංකා නිදහස් පක්ෂයේ කොළඹ දිස්ත්‍රික් සංවිධායක දෙහිවල ගල්කිස්ස  මහා නගර සභාවේ හිටපු ජ්‍යෙෂ්ඨ නාගරික  මන්ත්‍රීවරයෙකු වූ සමන්ත පෙරේරා මහතා ඉකුත් හතරවන දින (04) සමගි ජන බලවේගයේ සාමාජිකත්වය ලබා ගත්තේය.
+
+පාර්ලිමේන්තුවේ විපක්ෂ නායක කාර්යාලයේ පැවති රැස්වීමේදී සමගි ජන බලවේගයේ නායක හා විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා අතින් ඔහු මෙසේ පක්ෂයේ සාමාජිකත්වය ලබා ගැන‍ිමත් සමගම ඔ‍  සමගි ජනබලවේගයේ  කොළඹ දිස්ත්‍රික්  සංවිධායක වරයෙකු ලෙස පත්කරනු ලැබීය.
+
+◼️
+
+[Data](articles/1668310d.json)
+
+---
+
+### Sri Lankans fighting in Russia-Ukraine war face lies, hardships
+
+*2024-06-05 08:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankans-fighting-in-Russia-Ukraine-war-face-lies-hardships/108-284125) · `en`
+
+Colombo, June 5 (Daily Mirror) - In the midst of the increased number of calls from ex-Sri Lankan soldiers who joined the Russian military to fight against Ukraine, a Sri Lankan delegation headed by State Minister of Foreign Affairs Tharaka Balasuriya will head to Russia later this month to seek repatriation of them under a plan to be implemented in stages, the Daily Mirror learns.
+
+The delegation comprising former Sri Lankan ambassador to Russia Dr.Saman Weerasinghe, Defence Secretary Kamal Gunaratne, MPs Dayasiri Jayasekara and Gamini Waleboda will meet with the Russian defence authorities in Moscow on June 25, 26 and 27.
+
+A top source told Daily Mirror that the Sri Lankan authorities receive numerous telephone calls from those soldiers in the war front seeking to return to the country. It is learnt that these soldiers have been duped into believing that they will get attractive salaries and other perks.
+
+...
+
+[Data](articles/e693e751.json)
 
 ---
 
@@ -984,6 +1070,26 @@ In the meantime, Colombo Dockyard will continue to build on the market recogniti
 
 ---
 
+### SL’s financial market woes defy Colombo Dockyard growth targets
+
+*2024-06-05 04:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/SLs-financial-market-woes-defy-Colombo-Dockyard-growth-targets/155-284111) · `en`
+
+Colombo Dockyard says it remains cautiously optimistic that the country’s financial market will continue to stabilise
+
+Points out external pressure from global challenges as well as the lingering effects of Sri Lanka’s financial crisis negatively impacted its financial performance
+
+The global market demand for ship building and ship repairs looks promising in the near future. However, financial market problems in Sri Lanka will continue to pose a challenge to the growth targets of Colombo Dockyard PLC.
+
+The entity, which operates as Sri Lanka’s largest engineering facility leading in the business of ship repairs, shipbuilding, heavy engineering and offshore engineering with a Japanese collaboration said it remains cautiously optimistic that the country’s financial market will continue to stabilise.
+
+In the meantime, Colombo Dockyard will continue to build on the market recognition gained in 2023 to pursue future prospects.
+
+...
+
+[Data](articles/ec932a32.json)
+
+---
+
 ### Netherlands won Nepal by 6 wickets
 
 *2024-06-05 02:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/185340) · `ta`
@@ -1049,26 +1155,6 @@ Following this, the UK's success target was set to be 109 runs according to the 
 [Data](articles/c61ac6dd.json)
 
 [Extended Data](ext_articles/c61ac6dd.ext.json)
-
----
-
-### The body of the woman from the well in Punguduthivu
-
-*2024-06-05 02:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/185338) · `ta`
-
-A young woman, Sivakanandan Sindhu, 27, was discovered on April 4th in a well near the Madathuveli Vayalur Murugan Temple in Punguduthivu, Jaffna Kayts.
-
-🟩
-
-The body of a young woman has been found on Tuesday, 4th from the well of Madathuveli Vayalur Murugan Temple, Punguduthivu, Jaffna Kayts.
-
-Sivakanandan Sindhu, aged 27, from the eighth region of Punguduthivu, Punguduthivu.
-
-◼️
-
-[Data](articles/60c62c25.json)
-
-[Extended Data](ext_articles/60c62c25.ext.json)
 
 ---
 
@@ -2097,91 +2183,5 @@ Thereafter, the number of those who had come to the child had been taken to the 
 [Data](articles/e366a54f.json)
 
 [Extended Data](ext_articles/e366a54f.ext.json)
-
----
-
-### Sri Lanka SEC says took measures against unlicensed investment advisor
-
-*2024-06-04 20:20:00* · [`economynextcom`](https://economynext.com/sri-lanka-sec-says-took-measures-against-unlicensed-investment-advisor-166257/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s stock market regulator Securities and Exchange Commission (SEC) said it took measures last year to protect the general public from unscrupulous investment advisors who are using social media to provide investment advice.
-
-The SEC has imposed fines on investment advisors to settle offence of manipulating the share market in the past.
-
-However, market players say people who do not have proper qualification have been advising the general public via social media, pretending like professional and licensed investment advisors.
-
-“One notable area of focus during the year has been the proliferation of unlicensed individuals providing investment advice, particularly through social media channels,” the SEC Chairman Faizal Salieh said in the regulator’s 2023 annual report.
-
-...
-
-[Data](articles/6bb25c4a.json)
-
-[Extended Data](ext_articles/6bb25c4a.ext.json)
-
----
-
-### Stuart Chapman appointed chairman of HNB Assurance and HNB General Insurance
-
-*2024-06-04 20:19:00* · [`islandlk`](http://island.lk/stuart-chapman-appointed-chairman-of-hnb-assurance-and-hnb-general-insurance/) · `en`
-
-HNB Assurance PLC (HNBA) and HNB General Insurance Limited (HNBGI) are pleased to announce the appointment of Mr. Stuart Chapman as the new Chairman, succeeding Mrs. Rose Cooray. With an exemplary career spanning four decades in multinational and local companies across diverse industries and particularly Insurance, Chapman brings a wealth of expertise to the organization.
-
-Dialog named Sri Lanka’s Most Loved Service and Telco Brand by LMD Brands Annual
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
-
-[Data](articles/1b80ad56.json)
-
-[Extended Data](ext_articles/1b80ad56.ext.json)
-
----
-
-### IMF third tranche hopes inject buoyancy to bourse
-
-*2024-06-04 20:16:00* · [`islandlk`](http://island.lk/imf-third-tranche-hopes-inject-buoyancy-to-bourse/) · `en`
-
-The stock market bounced back yesterday expecting that the IMF second review meeting, scheduled for June 12, will approve the third tranche of the IMF’s EFF for Sri Lanka. Investors look forward to the continued support of all countries for a successful review to unlock the third tranche, which is expected to further enhance economic stability, growth, and reform efforts, market analysts said.
-
-Amid those developments stock market activities were more positive and bullish and both indices moved upwards. The All Share Price Index went up by 61.95 points, while S and P SL20 rose by 16.96 points. Turnover stood at Rs 901 million with one crossing. The crossing took place in NTB, which crossed 250,000 shares to the tune of Rs 30.1 million; its shares traded at Rs 120.50.
-
-...
-
-[Data](articles/a698b6de.json)
-
-[Extended Data](ext_articles/a698b6de.ext.json)
-
----
-
-### Same-sex couple resists husbands’ efforts to take them home
-
-*2024-06-04 20:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Same-sex-couple-resists-husbands-efforts-to-take-them-home/108-284087) · `en`
-
-Pandemonium broke out at the Kandy Police Station when the husbands of two women who were in a same-sex relationship attempted to take them home from the hotel where the two were staying at in Kandy.
-
-Police investigations revealed that a 34-year-old married woman from Wattala had been taking her child to school in Kandana, where she formed a clandestine relationship with a 29-year-old female teacher. According to the police, the same-sex couple had disappeared from their homes around a month ago. Their husbands reported their disappearance to both Kandana and Wattala Police, providing photos of the two women to all police stations. Meanwhile, a vigilant police officer at Sri Dalada Maligawa in Kandy spotted two women fitting the description of the missing individuals during a visit today. Subsequently, Kandy Police took them into custody and interrogated them, discovering that they had been residing at a guest house in the Suduhumpola area of Kandy.
-
-...
-
-[Data](articles/47f47a15.json)
-
-[Extended Data](ext_articles/47f47a15.ext.json)
-
----
-
-### Hope in every package...
-
-*2024-06-04 20:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Hope-in-every-package/110-284086) · `en`
-
-As floodwaters engulf the streets in Gampha, a dedicated man wades through the dirty water, ensuring essential supplies reach his house. Balancing a box and a bag of provisions on his head, he exemplifies the resilience and caring towards his loved ones. Pix by Kushan Pathiraja
-
-◼️
-
-[Data](articles/e4a85ce7.json)
-
-[Extended Data](ext_articles/e4a85ce7.ext.json)
 
 ---

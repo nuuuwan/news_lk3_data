@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-05 09:34:23**
+As of **2024-06-05 09:54:07**
 
 ## Newspaper Stats
 
-*Scraped **28,517** Articles*
+*Scraped **28,521** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,55 +16,139 @@ islandlk | 1,542
 economynextcom | 1,620
 dailyftlk | 1,687
 adalk | 2,425
-adaderanalk | 3,237
-tamilmirrorlk | 3,353
+adaderanalk | 3,238
+tamilmirrorlk | 3,355
 virakesarilk | 4,389
 dailymirrorlk | 4,514
-adaderanasinhalalk | 4,578
+adaderanasinhalalk | 4,579
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,515 (100.0%) of 28,517 articles have been extended.
+28,517 (100.0%) of 28,521 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-05 (Wednesday)
 
-### பல பிரதேச செயலக பிரிவுகளில் 7 நாட்களுக்கு மதுபானசாலைகளுக்கு பூட்டு
+### පාර්ලිමේන්තු සභාවාරය ඇරඹේ
+
+*2024-06-05 09:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197408) · `si`
+
+නියෝජ්‍ය කථානායකවරයාගේ ප්‍රධානත්වයෙන් පාර්ලිමේන්තු කටයුතු මේ වනවිට ආරම්භ වී තිබේ.
+
+◼️
+
+[Data](articles/3bceba13.json)
+
+---
+
+### காலை அலுவலக ரயில்கள் அனைத்தும் தடை
+
+*2024-06-05 09:29:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காலை-அலுவலக-ரயில்கள்-அனைத்தும்-தடை/175-338466) · `ta`
+
+கோட்டை புகையிரத நிலையத்தில் புகையிரதம் ஒன்று தடம் புரண்டதால் கரையோரப் புகையிரதஎசேவைகள் தடைப்பட்டுள்ளன.
+
+◼️
+
+[Data](articles/16f9dc49.json)
+
+---
+
+### Man, two women arrested for brutal assault on child in Pulmudai
+
+*2024-06-05 09:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/99670/man-two-women-arrested-for-brutal-assault-on-child-in-pulmudai) · `en`
+
+A 45-year-old man and two women have been arrested in Pulmudai for inhumanely assaulting a four-and-a-half-year-old child, after a video of the incident went viral on social media.
+
+Police said that the two other women were also arrested on the charges of aiding and abetting the assault in the Arisimale area of  Pulmudai, early this morning (05).
+
+Police said that they are residents of Welioya Kalyanapura area.
+
+Police further said that the 4-and-half-year-old-child who was brutally beaten was also taken into their custody.
+
+It is reported that the child taken into police custody has been produced before the judicial medical officer (JMO).
+
+◼️
+
+[Data](articles/bb5a8bef.json)
+
+---
+
+### அதிகரித்த உயிரிழப்புக்கள் ; நாட்டில் தொடரும்
+
+*2024-06-05 09:16:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிகரித்த-உயிரிழப்புக்கள்-நாட்டில்-தொடரும்/175-338465) · `ta`
+
+நாட்டை பாதித்துள்ள சீரற்ற வானிலையினால் பாதிக்கப்பட்டவர்களின் எண்ணிக்கை 161,000ஐ தாண்டியுள்ளதாக அனர்த்த முகாமைத்துவ மத்திய நிலையம் தெரிவித்துள்ளது.
+
+உயிரிழந்தவர்களின் எண்ணிக்கை 21 ஆக அதிகரித்துள்ளதாக அதன் பணிப்பாளர் பிரதீப் கொடிப்பிலி குறிப்பிட்டுள்ளார்.
+
+இதேவேளை, களனி கங்கை, களுகங்கை மற்றும் அத்தனகலு ஓயா ஆகிய பகுதிகளில் ஏற்கனவே இருந்த அபாய நிலை படிப்படியாக குறைந்து வருவதாக நீர்ப்பாசனத் திணைக்களத்தின் பொறியியலாளர் சகுரா தில்தாரா தெரிவித்தார்.
+
+இதன் காரணமாக வெள்ளத்தால் பாதிக்கப்பட்ட கம்பஹா, ஜாஎல, வத்தளை, மினுவாங்கொட, கட்டான ஆகிய பகுதிகளில் இன்று படிப்படியாக நீர்மட்டம் குறையும் என எதிர்பார்க்கப்படுகிறது.
+
+இதேவேளை, களனி கங்கைப் படுகையின் தாழ்வான பகுதிகளான கடுவெல, பியகம, கொலன்னாவை, வத்தளை மற்றும் கொழும்பு ஆகிய பகுதிகளில் நீர் மட்டம் படிப்படியாகக் குறைந்து வருவதாகவும் அவர் மேலும் குறிப்பிட்டார்.
+
+மண்சரிவு அபாயம் தொடர்வதாக தேசிய கட்டிட ஆராய்ச்சி அமைப்பின் சிரேஷ்ட புவியியலாளர்​ வசந்த சேனாதீர தெரிவித்துள்ளார். R
+
+◼️
+
+[Data](articles/80ab8e94.json)
+
+---
+
+### Lock for liquor schools for 7 days in several Divisional Secretariat Divisions
 
 *2024-06-05 09:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/185343) · `ta`
 
-நாட்டில் பல பிரதேச செயலக பிரிவுகளிலுள்ள மதுபானசாலைகளை 7 நாட்களுக்கு மூடுவதற்கு தீர்மானிக்கப்பட்டுள்ளது.
+Liquor schools across several Divisional Secretariat Divisions will be closed for 7 days starting from the 18th to the 24th of June due to the National Poson Festival. This includes closures in Central Nuwarakam, East Nuwarakam, and Mihintale Section 03 as per the Department of Excise.
 
-தேசிய பொசன் பண்டிகையை முன்னிட்டு எதிர்வரும் ஜூன் மாதம் 18ஆம் திகதி முதல் 24ஆம் திகதி வரை  மதுபானசாலைங்கள் மூடப்படவுள்ளதாக கலால் திணைக்களம் தெரிவித்துள்ளது.
+🟩
 
-அதன்படி, மத்திய நுவரகம், கிழக்கு நுவரகம்  மற்றும் மிஹிந்தலை பிரிவு 03 ஆகிய பகுதிகளில் உள்ள அனைத்து மதுபானசாலைகளும் அக்காலப்பகுதியில் மூடப்படவுள்ளன.
+It has been decided to close the liquor schools in several Divisional Secretariat Divisions in the country for 7 days.
+
+The Department of Excise said that the liquor hospitals will be closed from the 18th to the 24th of June to the National Poson festival.
+
+Accordingly, all liquor stores in Central Nuwarakam, East Nuwarakam and Mihintale Section 03 will be closed at that time.
 
 ◼️
 
 [Data](articles/f109639f.json)
 
+[Extended Data](ext_articles/f109639f.ext.json)
+
 ---
 
-### பல மாகாணங்களில் மழை பெய்யும்
+### Rainfall in many provinces
 
 *2024-06-05 09:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/185341) · `ta`
 
-மேல், சப்ரகமுவ, மத்திய, தென் மற்றும் வடமேல் மாகாணங்களில் பல தடவைகள் மழை பெய்யும் என வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+Heavy rainfall and thunderstorms are predicted for several provinces including Western, Sabaragamuwa, Central, Southern, and North Western regions. The Department of Meteorology warns of potential impacts during thunderstorms, advising caution. Seas from Kankesanthurai to Puttalam, Colombo, and Galle may experience rough conditions due to increased wind speeds and occasional turbulence. Fishermen and the navy are urged to exercise vigilance.
 
-இதேவேளை, சில பகுதிகளில் மாலை அல்லது இரவில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும் எனவும் திணைக்களம் தெரிவித்துள்ளது.
+🟩
 
-இடியுடன் கூடிய மழையின் போது தற்காலிகமாக பலத்த காற்று மற்றும் மின்னல் தாக்கங்களினால் ஏற்படக்கூடிய பாதிப்புகளை குறைத்துக்கொள்ள போதுமான முன்னெச்சரிக்கை நடவடிக்கைகளை எடுக்குமாறு பொதுமக்கள் கேட்டுக் கொள்ளப்படுகிறார்கள்.
+The Department of Meteorology has said that rainfall is expected in the Western, Sabaragamuwa, Central, Southern and North Western provinces.
 
-காங்கேசன்துறையிலிருந்து புத்தளம், கொழும்பு மற்றும் காலி ஊடாக அம்பாந்தோட்டை வரையான கடற்பரப்புகளில் பல பகுதிகளில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யும். நாட்டைச் சூழவுள்ள ஏனைய கடற்பரப்புகளில் சில பகுதிகளில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக் கூடிய சாத்தியம் காணப்படுகின்றது.
+Meanwhile, rain or thunderstorms are likely to occur in some areas in the evening or night, the department said.
 
-முல்லைத்தீவில் இருந்து காங்கேசன்துறை, மன்னார் ஊடாக புத்தளம் மற்றும் அம்பாந்தோட்டையில் இருந்து பொத்துவில் வரையான கடற்பரப்புகளில் காற்றின் வேகமானது அவ்வப்போது மணித்தியாலத்துக்கு 50-60 கிலோ மீற்றர் வரை அதிகரித்து வீசக்கூடும்.
+The public is asked to take adequate precautions to reduce the impact of temporarily during thunderstorms during thunderstorms.
 
-...
+Rainfall or thunderstorms will occur in many parts of the seas from Kankesanthurai to Puttalam, Colombo and Galle.. Rain or thunderstorms are likely to occur in some parts of other seas around the country.
+
+The wind speed in the seas from Mullaithivu to Kankesanthurai, Mannar via Puttalam and Pottuvil Pottuvil can be increased by 50-60 km per hour.
+
+The seas from Mullaithivu to Kankesanthurai, Mannar via Mannar and Pottuvil are occasionally turbulent.
+
+The navy and fishermen are also asked to be careful in this regard.
+
+During the thunderstorm, the sea is temporarily blowing and the sea is very turbulent.
+
+◼️
 
 [Data](articles/2ab2ef6b.json)
+
+[Extended Data](ext_articles/2ab2ef6b.ext.json)
 
 ---
 
@@ -2099,105 +2183,5 @@ Southern Provincial Education Secretary Ranjith Yapa has been informed to all th
 [Data](articles/b3765445.json)
 
 [Extended Data](ext_articles/b3765445.ext.json)
-
----
-
-### England - Scotland clash
-
-*2024-06-04 19:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/185327) · `ta`
-
-In the R20 World Cup, England faces Scotland in its group stage, marking their first encounter in an international T20 match. This rivalry dates back to an unofficial football tournament in 1847 and includes notable moments like the first international rugby competition in 1871 and a controversial ODI match in 2008 that was abandoned due to rain. England leads the head-to-head record from previous ODIs, but Scotland brings experience from the last R20 World Cup. The match promises to be competitive, with both teams showcasing their strengths.
-
-🟩
-
-Sri Lanka's time in Brijdown will meet the current champion England in the R20 World Cup for the B Group, which begins at 8.00 pm on Tuesday (4) at 8.00 pm.
-
-This is the first time that the two teams have met in the international T20 cricket match.
-
-The England and Scotland were the first to be one of the first in the unofficial football tournament at the Kenningtal Oval Stadium 154 years ago.
-
-A year later, the two countries met at the first international rugby competition at the Edinburg, Rape Place Ground.
-
-In 1872, the two countries clashed for the first time at the Clausco and Hamilton Crescent Stadium.
-
-However, in the third biggest game of the major Britain, the two countries opposed one century after a century.
-
-The game was abandoned due to rain when Ingaland scored 144 runs in the first international ODI match between the two countries in the Edinburgh and the Rape Blaze Stadium in 2008.
-
-Six years later, the two countries will clash in the T20 World Cup today.
-
-...
-
-[Data](articles/d8eb084e.json)
-
-[Extended Data](ext_articles/d8eb084e.ext.json)
-
----
-
-### It is a program to meet the quality of medical certificates for employment in the Middle East
-
-*2024-06-04 19:20:25* · [`adalk`](https://www.ada.lk/breaking_news/මැදපෙරදිග-රැකියා-සඳහා-තත්වයෙන්-ඉහළ-වෛද්‍ය-සහතික-දෙන්න-වැඩපිළිවෙළක්/11-410007) · `si`
-
-A special committee was appointed by the Sri Lanka Bureau of Foreign Employment, Consumer Affairs, Sri Lanka Acquisition Board, and Health Ministry to address quality issues with medical certificates required for employment in the Middle East. The committee will meet within two weeks to establish standards for these certificates, ensuring the welfare of overseas workers.
-
-🟩
-
-Labor yesterday to appoint a special committee of the Sri Lanka Bureau of Foreign Employment, Consumer Affairs, Sri Lanka Acquisition Board, Sri Lanka Acquisition Board and Health Ministry in the Middle East.Minister Manusha Nanayakkara took action.
-
-The committee has taken steps to appoint the standard of the issues that arise in the charges arising from the medical certificates who are deposited into the Middle East.
-
-The Minister instructed to meet the committee in a specific two weeks of the Ministry of Labor and Foreign Employment.
-
-The minister also assured that if the need would be a need to proceed to the Cabinet and take necessary steps to take the future and take necessary steps to take the future of overseas workers.
-
-◼️
-
-[Data](articles/69fa5dbd.json)
-
-[Extended Data](ext_articles/69fa5dbd.ext.json)
-
----
-
-### Western Provincial Schools to open tomorrow
-
-*2024-06-04 19:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/185326) · `ta`
-
-All flooded schools in the Western Province will reopen on Tuesday under orders from the Governor Roshan Gunathilaka.
-
-🟩
-
-All schools that have been flooded in the Western Province have been ordered to open on Tuesday, 05, the principals.
-
-It is noteworthy that the Governor of the Western Province Roshan Gunathilaka has issued this work to the school principals.
-
-◼️
-
-[Data](articles/9a94f513.json)
-
-[Extended Data](ext_articles/9a94f513.ext.json)
-
----
-
-### Avoid walking or swimming in floodwaters - Health experts
-
-*2024-06-04 19:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Avoid-walking-or-swimming-in-floodwaters-Health-experts/108-284088) · `en`
-
-Colombo, June 04, (Daily Mirror) - In the aftermath of severe flooding across Sri Lanka, health authorities urge people to avoid walking or swimming in floodwaters, as they may contain hazardous bacteria and debris causing complications.
-
-The Health Ministry also advised people not to consume food that has been damaged by flooding; it should be discarded.
-
-Further, it requests adults to keep children and pets away from contaminated water to prevent illness while to seek immediate medical attention if any symptoms of illness are experienced.
-
-Meanwhile, health authorities are urging the public to remain vigilant against the spread of leptospirosis, commonly known as 'rat fever.'
-
-As floodwaters recede, there could be a noticeable uptick in leptospirosis cases, particularly in regions where the disease was previously uncommon, an official from the Health Ministry said.
-
-"We have instructed provincial health authorities to be extra vigilant during the post-flood period," the official stated.
-
-...
-
-[Data](articles/7c3de976.json)
-
-[Extended Data](ext_articles/7c3de976.ext.json)
 
 ---

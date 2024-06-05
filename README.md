@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-05 07:21:57**
+As of **2024-06-05 07:49:35**
 
 ## Newspaper Stats
 
-*Scraped **28,480** Articles*
+*Scraped **28,483** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,69 @@ adaderanalk | 3,234
 tamilmirrorlk | 3,349
 virakesarilk | 4,387
 dailymirrorlk | 4,504
-adaderanasinhalalk | 4,570
+adaderanasinhalalk | 4,573
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,477 (100.0%) of 28,480 articles have been extended.
+28,480 (100.0%) of 28,483 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-05 (Wednesday)
+
+### නෙදර්ලන්තය ට ජය
+
+*2024-06-05 07:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197402) · `si`
+
+20යි විස්ස ක්‍රිකට් ලෝක කුසලාන තරගාවලියේ  D කාණ්ඩය යටතේ අද (05) නිමාවූ තරගයෙන් ජය ගැනීමට නෙදර්ලන්තය සමත්විය.
+
+මෙම තරගයේ පළමුව පන්දුවට පහරදුන් නේපාල කණ්ඩායම සියලුදෙනා දැවී ලකුණු 106ක් රැස්කළේය.
+
+ඊට පිළිතුරු ලෙස නෙදර්ලන්ත කණ්ඩායම පන්දු ඕවර 18.4 කදී කඩුලු 4ක් දැවී ලකුණු 109ක් ලබාගනිමින් තරගය ජයගත්තේය.
+
+◼️
+
+[Data](articles/88033949.json)
+
+---
+
+### පුංචි පුතාට පහරදුන් පුද්ගලයා ඇතුළු තිදෙනෙක් අත්අඩංගුවට
+
+*2024-06-05 06:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197401) · `si`
+
+සමාජ මාධ්‍ය ඔස්සේ සංසරණය වූ දරුවෙකුට පහරදීමේ සිද්ධියට සම්බන්ධ පුද්ගලයා අත්අඩංගුවට ගෙන තිබේ.
+
+අද (05) අලුයම පුල්මුඩේ අරිසිමලේ ප්‍රදේශයේ දී අදාළ පුද්ගලයා සහ පහරදීමට ආධාර අනුබල දීමේ චෝදනා මත තවත් කාන්තාවන් දෙදෙනෙකු ද අත්අඩංගුවට ගත් බව පොලීසිය පැවසුවේය.
+
+අත්අඩංගුවට ගෙන ඇත්තේ 45 හැවිරිදි පුද්ගලයෙක් සහ 37 සහ 46 හැවිරිදි කාන්තාවන් දෙදෙනෙකි.
+
+පහරකෑමට ලක් වූ අවුරුදු 4 1/2 ක දරුවා ද පොලිස් භාරයට ගත් බව පොලීසිය තවදුරටත් පැවසුවේය.
+
+පොලිස් භාරයට ගත් දරුවා ව මේ වනවිට අධිකරණ වෛද්‍යවරයා හමුවට ඉදිරිපත් කර ඇති බව වාර්තා වේ.
+
+◼️
+
+[Data](articles/749136aa.json)
+
+---
+
+### ප්‍රදේශ කිහිපයකට වැසි
+
+*2024-06-05 06:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197399) · `si`
+
+බස්නාහිර, සබරගමුව, මධ්‍යම, දකුණු සහ වයඹ පළාත්වල වැසි වාර කිහිපයක් ඇති විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+
+දිවයිනේ සෙසු ප්‍රදේශවල සවස් කාලයේ හෝ රාත්‍රී කාලයේ ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකිය.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/9bad2ae6.json)
+
+---
 
 ### President says SL faces retrogression if IMF agreements breached
 
@@ -160,6 +212,8 @@ The theologian and Marxist scholar Roland Boer identifies the “freelance intel
 
 [Data](articles/77183a3c.json)
 
+[Extended Data](ext_articles/77183a3c.ext.json)
+
 ---
 
 ### Are we ready to accept our migrants again?
@@ -173,6 +227,8 @@ It is necessary to identify the silver lining of the current migration wave and 
 ...
 
 [Data](articles/a2447c08.json)
+
+[Extended Data](ext_articles/a2447c08.ext.json)
 
 ---
 
@@ -2169,65 +2225,5 @@ The young man who had fallen into the Bulathsinhala Regional Hospital with the a
 [Data](articles/9484a5fc.json)
 
 [Extended Data](ext_articles/9484a5fc.ext.json)
-
----
-
-### Turkey is a terrible air accident
-
-*2024-06-04 17:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197388) · `si`
-
-In central Turkey, two died in a light plane crash, possibly a military training aircraft. The cause remains unknown.
-
-🟩
-
-Two persons were killed in a crash of a light flight of a light plane in the Central Turkey.
-
-According to foreign media reports, a military training aircraft has been reported.
-
-However, the cause of the aircraft breakdown has not yet been established, foreign media reports say.
-
-Foreign media reports that the plane was crashed.
-
-◼️
-
-[Data](articles/fc2990fe.json)
-
-[Extended Data](ext_articles/fc2990fe.ext.json)
-
----
-
-### Sri Lanka’s lack of preparation exposed in T20 World Cup
-
-*2024-06-04 17:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankas-lack-of-preparation-exposed-in-T20-World-Cup/108-284079) · `en`
-
-(Daily Mirror) - Sri Lanka's embarrassing defeat to South Africa in their opening match of the T20 World Cup 2024 in USA and West Indies exposed their lack of preparation ahead of the tournament.
-
-Most of the players had left to the USA weeks before the tournament in an attempt to get used to the conditions, but their batting display on Monday (3) against South Africa clearly shows that they are well short of proper preparation.
-
-In a high profile tournament such as the World Cup, in addition to getting used to the conditions, it is very important to study the opponent. However, the Sri Lanka batsmen looked absolutely clueless against the South African pace attack.
-
-...
-
-[Data](articles/95b0e145.json)
-
-[Extended Data](ext_articles/95b0e145.ext.json)
-
----
-
-### Flood warning extended for low-lying areas of Attanagalu Oya
-
-*2024-06-04 17:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/99660/flood-warning-extended-for-low-lying-areas-of-attanagalu-oya) · `en`
-
-The Irrigation Department has extended the early flood warning issued for the lower valley of the downstream areas of Attanagalu Oya basin, for the next 48 hours.
-
-Accordingly, the low-lying regions in the Gampaha, Ja-ela, Katana, Wattala, and Minuwangoda Divisional Secretariat divisions are particularly impacted, the department warned.
-
-Residents and vehicle drivers in these areas are requested to pay high attention in this regard while Disaster Management Authorities are requested to take adequate precautions.
-
-◼️
-
-[Data](articles/74c857cb.json)
-
-[Extended Data](ext_articles/74c857cb.ext.json)
 
 ---

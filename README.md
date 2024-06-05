@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-05 15:53:02**
+As of **2024-06-05 16:05:52**
 
 ## Newspaper Stats
 
-*Scraped **28,591** Articles*
+*Scraped **28,600** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,124 @@ dbsjeyarajcom | 273
 bbccomsinhala | 278
 newsfirstlk | 363
 islandlk | 1,542
-economynextcom | 1,624
+economynextcom | 1,627
 dailyftlk | 1,687
-adalk | 2,436
-adaderanalk | 3,246
-tamilmirrorlk | 3,361
+adalk | 2,437
+adaderanalk | 3,247
+tamilmirrorlk | 3,362
 virakesarilk | 4,397
-dailymirrorlk | 4,534
-adaderanasinhalalk | 4,592
+dailymirrorlk | 4,535
+adaderanasinhalalk | 4,594
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,591 (100.0%) of 28,591 articles have been extended.
+28,591 (100.0%) of 28,600 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-05 (Wednesday)
+
+### Govt accepts Supreme Court’s amendments to ‘Sri Lanka Electricity Bill’
+
+*2024-06-05 15:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/99680/govt-accepts-supreme-courts-amendments-to-sri-lanka-electricity-bill) · `en`
+
+Power and Energy Minister Kanchana Wijesekara says that the government has agreed to accept all the amendments proposed by the Supreme Court to the ‘Sri Lanka Electricity Bill’.
+
+Responding to a question from SJB MP Lakshman Kiriella in Parliament today, the Minister stated that the Sectoral Oversight Committee was notified, and approval was obtained yesterday (04).
+
+He added that the government will not propose any other amendments to the bill.
+
+“As the government, we agreed to accept all amendments proposed by the Supreme Court. Accordingly, the government will not present any other amendments. In addition to this, the Sectoral Oversight Committee presented on more amendment, to bring down the limit from 50% to 15%, to which we agreed.”
+
+He said that the government intends to present the amendment to the Parliament tomorrow and that the debate on the bill is expected to go ahead as scheduled.
+
+...
+
+[Data](articles/67051d16.json)
+
+---
+
+### හිත ලොකු වග පුංචි චරිත්මාගේ වීර ක්‍රියාව
+
+*2024-06-05 15:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197425) · `si`
+
+පාදුක්ක වග ඉරිදාපොළ ප්‍රදේශයේදී මහා ගංවතුරේ පිහිනා ගොස් ජීවිත දෙකක් බේරාගත් පාසල් සිසුවියක් ගැන අපවෙත තොරතුරු වාර්තාවිය.
+
+17 හැවිරිදි වියේ පසුවන චරිත්මා ජිනේන්ද්‍රි මාඉටිපේ නමැති ඇය පාදුක්ක සිරි පියරතන විදුහලේ ඉගෙනුම ලබයි.
+
+පසුගියදා ඇදහැළුණු මහා වර්ෂාව සමග එම වග ඉරිදාපොළ ආසන්නයෙන් ගලා බසිනා වක් ඔයේ ප්‍රචණ්ඩ සැඩ පහර එක්වරම ඉහළගොස් තිබුණි.
+
+මධ්‍යම රාත්‍රියේ එක්වරම ඇතිවූ මෙම ගංවතුර තත්ත්වය සමග බොහෝ පිරිස් සියල්ල අත්හැර දමා දිවගොස් උස් ස්ථානවල රැඳී සිටිමින් දිවි බේරාගෙන තිබුණි.
+
+ඒ සුළු මොහොතකින් අඩි 10ක පමණ උසකින් ගංවතුර තත්ත්වය වර්ධනය වීම හේතුවෙනි.
+
+චරිත්මාගේ මිත්තණිය සහ මුත්තණුවන් ද නිවස පසුපස පිහිටි කන්දකට දිවගොස් දිවි බේරාගෙන තිබුණි.
+
+එම අවස්ථාවේ චරිත්මා නිවසේ ජනේලයකින් පිටතට පැමිණෙමින් සිටින විටදී තමන්ව බේරාගන්න ලෙසට කෑ ගසන ශබ්දයක් ඇසී තිබුණි.
+
+එහිදී ඈතින් ඇසුණු කෑ ගැසීමට අනුව වහාම ක්‍රියාත්මක වූ චරිත්මා ආසන්නයේ පිහිටි ගොඩනැගිල්ලක් වෙත ගොස් ප්ලාස්ටික් රැහැනක් ගෙනවිත් ඔවුන් සිටි දෙසට පිහිනා ගොස් තිබුණි.
+
+...
+
+[Data](articles/3ab8ff91.json)
+
+---
+
+### பிரதமர் மோடி இராஜினாமா
+
+*2024-06-05 15:33:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரதமர்-மோடி-இராஜினாமா/175-338483) · `ta`
+
+நரேந்திர மோடி பிரதமர் பதவியை இராஜினாமா செய்தார். ஜனாதிபதி திரவுபதி முர்முவை சந்தித்து மோடி இராஜினாமா கடிதத்தை அளித்தார். மோடி அமைச்சரவையின் இராஜினாமா கடிதத்தை ஜனாதிபதியிடம் அளித்துவிட்டு, ஆட்சி அமைக்க உரிமை கோர உள்ளதாக தகவல் வெளியாகியுள்ளது. பிரதமர் மோடியுடன் ராஜ்நாத் சிங், அமித் ஷா உள்ளிட்டோரும் குடியரசுத் தலைவர் மாளிகைக்கு சென்றுள்ளனர்.
+
+பிரதமர் மோடி தலைமையிலான ஒன்றிய அமைச்சரவையின் இராஜினாமாவை குடியரசுத் தலைவர் திரவுபதி முர்மு ஏற்றார். 17-வது மக்களவையை கலைக்கும் பரிந்துரைகளையும் குடியரசுத் தலைவர் திரவுபதி முர்மு ஏற்றுக்கொண்டமை குறிப்பிடத்தக்கது.
+
+இதற்கமைய, ஜூன் 8-ம் திகதி மீண்டும் பிரதமராக மோடி பதவியேற்க உள்ளதாக தகவல் வெளியாகியுள்ளது. கூட்டணி கட்சிகள் ஆதரவுடன் மீண்டும் பிரதமராக மோடி பதவியேற்கிறார்.
+
+◼️
+
+[Data](articles/190e08a6.json)
+
+---
+
+### Sri Lanka Treasuries yields slightly higher, Rs235bn sold
+
+*2024-06-05 15:33:00* · [`economynextcom`](https://economynext.com/sri-lanka-treasuries-yields-slightly-higher-rs235bn-sold-166396/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Treasuries yields edged slightly higher at Wednesdays auction with 235 billion rupees of bills sold but with lower volumes of 12 month bills, data from the state debt office showed.
+
+The 3-month yield went up 08 basis points to 8.70 percent with 40 billion rupees of bills offered at 51.3 billion sold.
+
+The 6-month bill yield was flat at 9.04 percent, with 75 billion rupees offered and 112.6 billion sold.
+
+The 12-month bill yield went up 09 bias points to 9.27 percent with 120 billion rupees offered, and 71.06 billion in bills sold.
+
+The debt office offered 235 billion rupees of bills and raised a similar amount in different maturities. (Colombo/June05/2024)
+
+◼️
+
+[Data](articles/45d49211.json)
+
+---
+
+### TISL raises concerns over Adani’s Sri Lanka power deal; demands transparency
+
+*2024-06-05 15:17:00* · [`economynextcom`](https://economynext.com/tisl-raises-concerns-over-adanis-sri-lanka-power-deal-demands-transparency-166391/) · `en`
+
+ECONOMYNEXT – Transparency International Sri Lanka (TISL) has raised concerns over proposed wind power projects by India’s Adani Group in the island nation’s north after the project was given on an unsolicited basis any competitive bidding.
+
+The TISL also has demanded more information on the projects from the government via Right to Information (RTI) after some local experts and state-owned Ceylon Electricity Board (CEB) officials said Adani’s unit price is “highly expensive”.
+
+“TISL is deeply concerned about the lack of transparency surrounding this project, which has raised significant economic and ecological concerns,” the TISL said in a statement.
+
+The TISL has also filed a series RTI requests with public authorities seeking crucial information regarding the transparency, legality, evaluation process, pricing, government involvement, and the Environmental Impact Assessment (EIA) related to the wind power project in the country’s northern Mannar and Pooneryn, it said.
+
+...
+
+[Data](articles/649b3913.json)
+
+---
 
 ### Sri Lanka to establish 10 new botanical gardens across the country
 
@@ -49,6 +149,20 @@ He stated that they have currently planned a Mangrove Botanic Garden at Akmeeman
 [Data](articles/9bcf42b1.json)
 
 [Extended Data](ext_articles/9bcf42b1.ext.json)
+
+---
+
+### මෝදී සෙනසුරාදා දිවුරුම් දෙයි
+
+*2024-06-05 15:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197424) · `si`
+
+ඉන්දීය මහ මැතිවරණයෙන් ජය ලැබූ නරේන්ද්‍ර මෝදී සිය තුන්වැනි ධුරකාලය සඳහා සෙනසුරාදා (08) දිවුරුම් දීමට නියමිත බව ඉන්දීය මාධ්‍ය වාර්තා සඳහන් කරයි.
+
+මෝදී ගේ නායකත්වයෙන් යුතු සන්ධානය ආසන 543ක් සහිත පාර්ලිමේන්තුවේ ආසන 293ක් දිනාගෙන තිබුණි. ඉන් ආසන 240ක් ම දිනාගෙන ඇත්තේ මෝදී ගේ භාරතීය ජනතා පක්ෂය යි.
+
+◼️
+
+[Data](articles/8a7f6209.json)
 
 ---
 
@@ -91,6 +205,22 @@ Top leaders of the BJP-led National Democratic Alliance (NDA) are scheduled to m
 [Data](articles/1a716106.json)
 
 [Extended Data](ext_articles/1a716106.ext.json)
+
+---
+
+### PM Modi resigns
+
+*2024-06-05 14:37:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/PM-Modi-resigns/107-284175) · `en`
+
+India, June 5 - Prime Minister Narendra Modi on Wednesday tendered his resignation along with the Council of Ministers to President Droupadi Murmu. "The President has accepted the resignation and requested Shri Narendra Modi and the Council of Ministers to continue till the new government assumes office," a press communique said.
+
+PM Modi is likely to be sworn in as the Prime Minister for a third consecutive term on June 8 evening, sources told India Today. The NDA scraped past the majority mark to win 292 seats, but the BJP fell short of the majority on its own. If the NDA forms the government, Modi will be the second leader to retain power for a third term after former Prime Minister Jawaharlal Nehru.
+
+Top leaders of the BJP-led National Democratic Alliance (NDA) are scheduled to meet this evening to take stock of the Lok Sabha election results and deliberate on the details of government formation.
+
+...
+
+[Data](articles/4817ae33.json)
 
 ---
 
@@ -472,6 +602,24 @@ When other leaders put their racing shoes in difficult times, we took the govern
 
 ---
 
+### Sri Lanka printers at Drupa fair with German support
+
+*2024-06-05 13:27:00* · [`economynextcom`](https://economynext.com/sri-lanka-printers-at-drupa-fair-with-german-support-166386/) · `en`
+
+ECONOMYNEXT – A delegation from Sri Lanka that participated in Drupa 2024, said to be the largest printing industry fair, has built up links for technology transfer and possible investments, the The Delegation of German Industry and Commerce in Sri Lanka (AHK Sri Lanka), said.
+
+“The delegation organised by AHK Sri Lanka to Drupa 2024 significantly benefitted the printing industry in Sri Lanka,” Anil Kariyawasam, President of Sri Lanka Association for Printers (SLAP) said in statement.
+
+“It equipped our industry professionals with crucial insights into current and upcoming EU regulations, helping them remain compliant and competitive in the global market, which in turn will bolster the Sri Lankan economy.”
+
+AHK Sri Lanka supported the delegation comprising 17 SLAP members representing 8 companies from the commercial, newspaper, stationery printing, and packaging industries, which showcased the capabilities of Sri Lanka’s printing sector.
+
+...
+
+[Data](articles/784dc810.json)
+
+---
+
 ### Modi and allies to meet after India election verdict, key ally pledges support
 
 *2024-06-05 13:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/99676/modi-and-allies-to-meet-after-india-election-verdict-key-ally-pledges-support) · `en`
@@ -599,6 +747,26 @@ The suspects were revealed that if the suspects were sent by the Jethavanarama D
 [Data](articles/af4b811e.json)
 
 [Extended Data](ext_articles/af4b811e.ext.json)
+
+---
+
+### ජිප් රිය නිවසකට යයි - තිදෙනෙකුට තුවාල
+
+*2024-06-05 12:40:37* · [`adalk`](https://www.ada.lk/breaking_news/ජිප්-රිය-නිවසකට-යයි---තිදෙනෙකුට-තුවාල/11-410021) · `si`
+
+පුලියන්කුලම් පොලිස් ස්ථානයට අයත් ජිප් රථය ඊයේ සවස නෙඩුන්කේනි ප්‍රදේශයේදී ඊයේ (04) සවස ධාවනය වෙමින් තිබියදී මාර්ගයෙන් ඉවතට පැන අසල නිවසකට කඩා වැදීම හේතුවෙන් ජිප් රථයේ ගමන්කල තිදෙනෙකුට තුවාල සිදුව ඇතැය නෙඩුන්කේනි පොලීසිය පැවසීය.
+
+අනතුර සිදුවන අවස්ථාවේදී ජීප් රථය පදවාගෙන ගොස් ඇත්තේ පුලියන්කුලම පොලිස් ස්ථානාධිපති වරයා බවට මූලික පොලිස් පරික්සණ වලදී හෙලි වී ඇති අතරම අනතුර සිදුවීමට හේතුව මෙතෙක් අනවරනය වී නෙමැත.
+
+මාර්ගයෙන් ඉවතට පැන්න ජීප්රථය නිවසක් තුලට කඩ වැදී එහි නවතා තිබූ යතුරුපැදියක සහ විදුලි කණුවකද ගැටීමෙන් නැවතී ඇති අතර නිවැසියන් කිසිවෙකුටත් හානියක් සිදුව නොමැත.
+
+අනතුරින් තුවාල ලැබූ නිලධාරීන් පළමුව නෙඩුන්කේනි රෝහලට රැගෙන යාමෙන් අනතුරුව ඉන් දෙදෙනෙකු ප්‍රතිකාර ලබා රේහලෙන් පිටව ගොස් ඇති අතරම එක් පොලිස් නිලධාරියෙකු වැඩිදුර ප්‍රතිකාර සඳහා වවුනියාව මහ රෝහල වෙත මාරුකර යවනු ලැබීය.
+
+අනතුරින් ජීප් රථයට සැලකිය යුතු අලාභහානි සිදුවී ඇතිපුලියන්කුලම් ස්ථානාධිපතිවරයා නෙඩුන්කේනි අධිකරණ වෛද්‍ය නිලධාරී  වෙතට ඉදිරිපත් කිරීමටද නෙඩුන්කේනි පොලීසිය පියවර ගෙන තිබුණි.
+
+...
+
+[Data](articles/bc3dcc61.json)
 
 ---
 
@@ -2077,187 +2245,5 @@ In the year 22/23 the government had injected 102.5 billion rupees as equity to 
 [Data](articles/aa90f32b.json)
 
 [Extended Data](ext_articles/aa90f32b.ext.json)
-
----
-
-### Three arrested including the person who assaulted the little son
-
-*2024-06-05 06:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197401) · `si`
-
-Four individuals, including the assailant of a young boy whose attack was widely shared on social media, have been arrested. Additionally, two women accused of aiding the assault were detained in the Pulmudai Arsimal area. The child victim, aged 4 1/2, has been examined by a judicial doctor.
-
-🟩
-
-The person involved in the attack on a child circulating on social media has been arrested.
-
-Two other women were arrested on charges of assaulting the person and assistance to assault at the Pulmudai Arsimal area in the Pulmudai Arsimaliya.
-
-Two persons have been arrested two 45-year-old man and 37 and 46 women.
-
-The 4 1/2 year old child was also taken into custody.
-
-The child who was taken into custody has been produced before the Judicial Doctor.
-
-◼️
-
-[Data](articles/749136aa.json)
-
-[Extended Data](ext_articles/749136aa.ext.json)
-
----
-
-### Constitutionality of Economic Transformation Bill challenged in SC
-
-*2024-06-05 06:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Constitutionality-of-Economic-Transformation-Bill-challenged-in-SC/108-284116) · `en`
-
-Colombo, June 5 (Daily Mirror) - A Special Determination petition has been filed in the Supreme Court challenging the constitutionality of the Economic Transformation Bill, which was recently published in the Government Gazette.
-
-The petitioners, the office bearers of Trade Unions representing formal and informal workers from the private and State Sector filed this petition seeking a declaration that the bill requires the approval by the people at a Referendum in addition to the 2/3 approval of the Parliament.
-
-The petitioners alleged that the provisions of the Economic Transformation Bill will have a serious impact on workers and particularly young workers. They further alleged that the government did not consult with Trade Unions, Workers and specifically young workers who will face the direct consequences of this Bill.
-
-In their petition, the petitioners stated that the proposed bill attempts to change the fundamental nature of the state from a socialist state to a neoliberal state.
-
-...
-
-[Data](articles/3cd8ee56.json)
-
-[Extended Data](ext_articles/3cd8ee56.ext.json)
-
----
-
-### Showers in several areas
-
-*2024-06-05 06:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197399) · `si`
-
-The Department of Meteorology warns of showers across Western, Sabaragamuwa, Central, Southern, and North-Wayamba regions, with potential thundershowers in the evening or night elsewhere. It advises the public to prepare for possible wind and lightning hazards due to thunderstorms.
-
-🟩
-
-The Department of Meteorology announces that several showers in the Western, Sabaragamuwa, Central, Southern and North-Wayamba areas.
-
-Showers or thundershowers will occur at several places in the evening or even night in the rest of the island.
-
-The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/9bad2ae6.json)
-
-[Extended Data](ext_articles/9bad2ae6.ext.json)
-
----
-
-### President says SL faces retrogression if IMF agreements breached
-
-*2024-06-05 05:44:26* · [`dailyftlk`](https://www.ft.lk/news/President-says-SL-faces-retrogression-if-IMF-agreements-breached/56-762632) · `en`
-
-Stresses all citizens should support the proposed Economic Transformation Bill by legalising agreements
-
-Opines Opposition must discuss country’s economy knowledgeably and avoid making baseless statements
-
-Alleges Opposition is in this current predicament due to their involvement in traditional politics and refusal to accept challenges
-
-Says Govt. which fearlessly embraced challenges, is now demonstrating positive results
-
-President Ranil Wickremesinghe yesterday stressed that failing to adhere to the International Monetary Fund (IMF) agreements would set the country back, and he urged support for the Economic Transformation Bill presented to Parliament, emphasising that it is everyone’s responsibility to implement the agreements.
-
-...
-
-[Data](articles/721a70ae.json)
-
-[Extended Data](ext_articles/721a70ae.ext.json)
-
----
-
-### Cabinet wants 58 key development projects fast tracked
-
-*2024-06-05 05:43:09* · [`dailyftlk`](https://www.ft.lk/news/Cabinet-wants-58-key-development-projectsfast-tracked/56-762631) · `en`
-
-Move underscores urgency of completing ongoing projects to free up financial resources for new capital initiatives
-
-Cabinet Co-Spokesman and Minister Bandula Gunawardena says 162 projects will be completed by 2026
-
-Assures ADB-funded Colombo Port access elevated highway project work will be completed by end 2024
-
-The Cabinet of Ministers on Monday approved completion of 58 key development projects, each with over 80% physical progress by the end of 2024, whilst directing projects that are currently suspended due to insufficient funds to be referred to the National Operations Room Committee for further study before any additional investments are made.
-
-...
-
-[Data](articles/42ea7c4b.json)
-
-[Extended Data](ext_articles/42ea7c4b.ext.json)
-
----
-
-### Govt. lifts import control requirement for select pulses
-
-*2024-06-05 05:41:29* · [`dailyftlk`](https://www.ft.lk/news/Govt-lifts-import-control-requirement-for-select-pulses/56-762630) · `en`
-
-Cabinet Co-Spokesman and Minister Bandula Gunawardena says move aims to eradicate profiteering, illegal importation of grains, protect domestic producers by imposing appropriate tax rates, quarantine methods
-
-The Cabinet of Ministers at its meeting on Monday approved removing the requirement of obtaining an import control licence for the import of selected grains including mung bean, black gram, cowpea, finger millet, soy flour and peanuts.
-
-The move is subject to the submission of a National Phytosanitary Licence issued by the National Plant Quarantine Service and taking necessary measures to protect local producers based on the recommendation of the Agriculture and Plantation Industries Ministry.
-
-On 1 May, selected food grains and commodities classified under 126 Combined Classification Codes were subject to import control permit requirements. Issuance of import control license related to 53 combined classification codes has also been suspended.
-
-...
-
-[Data](articles/9610f5fa.json)
-
-[Extended Data](ext_articles/9610f5fa.ext.json)
-
----
-
-### Economic Transformation Bill implementation is critical for economic recovery: Bandula
-
-*2024-06-05 05:41:00* · [`dailyftlk`](https://www.ft.lk/news/Economic-Transformation-Bill-implementation-is-critical-for-economic-recovery-Bandula/56-762629) · `en`
-
-Confirms several Cabinet papers were submitted and received approval related to external debt restructuring
-
-Cabinet Co-Spokesman and Minister Bandula Gunawardena yesterday said Sri Lanka can only overcome the economic challenges if the proposed Economic Transformation Bill is implemented as per the targets outlined in it.
-
-Speaking at the weekly post-Cabinet meeting media briefing, he confirmed that several Cabinet papers were submitted related to the external debt restructuring and received approval to make necessary changes related to the program. “External debt restructuring is the most decisive step involved,” he stressed.
-
-He claimed that the Economic Transformation Bill proposed by President Ranil Wickremesinghe in his capacity as the Finance, Economic Stability and National Policies therefore is of utmost importance. “The survival of the economy depends wholly on the implementation of the targets outlined in the Bill,” he asserted.
-
-...
-
-[Data](articles/8fdfa0ad.json)
-
-[Extended Data](ext_articles/8fdfa0ad.ext.json)
-
----
-
-### ‘Prosecutorial’ vs. ‘victim based’ approaches to accountability
-
-*2024-06-05 05:39:54* · [`dailyftlk`](https://www.ft.lk/columns/Prosecutorial-vs-victim-based-approaches-to-accountability/4-762628) · `en`
-
-Why is all the attention to address accountability only fixated on the Sri Lankan State and none on the LTTE?
-
-Although violations by the Government forces and LTTE would be judged by Common Article 3, the fact remains that the leadership of the LTTE who ordered the taking of 300,000 plus civilians, hostage is not among the living or has disappeared, and cannot be subjected to a trial despite the fact that the act of taking civilians hostage amount to a war crime and a crime against humanity. Thus, the exercise of gathering evidence against Government perpetrators pales in significance compared with endangering the security of 300,000 plus civilians that were taken hostage. Despite this, a prosecutorial process would mean a skewed outcome of any trial because of the strong possibility that violations perpetrated by the Sri Lankan Government would dominate the trial
-
-...
-
-[Data](articles/32a99473.json)
-
-[Extended Data](ext_articles/32a99473.ext.json)
-
----
-
-### ‘Prosecutorial’ vs. ‘victim based’ approaches to accountability
-
-*2024-06-05 05:39:54* · [`dailyftlk`](https://www.ft.lk/opinion/Prosecutorial-vs-victim-based-approaches-to-accountability/14-762628) · `en`
-
-Why is all the attention to address accountability only fixated on the Sri Lankan State and none on the LTTE?
-
-A report in an English daily recently stated that the UN human rights office has “criticised the Sri Lankan Government’s failure to acknowledge and hold accountable the perpetrators of tens of thousands of enforced disappearances… Authors of the report also accuse the Liberation Tigers of Tamil Eelam of “engaging in abductions” which were described as “tantamount” to enforced disappearances.” Continuing, the report adds that the UN High Commissioner for Human Rights had stated: “Accountability must be addressed. We need to see institutional reform for reconciliation to succeed”.
-
-...
-
-[Data](articles/5f3d2f08.json)
-
-[Extended Data](ext_articles/5f3d2f08.ext.json)
 
 ---

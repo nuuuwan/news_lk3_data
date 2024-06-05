@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-05 12:06:42**
+As of **2024-06-05 12:18:49**
 
 ## Newspaper Stats
 
-*Scraped **28,549** Articles*
+*Scraped **28,561** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,100 @@ dbsjeyarajcom | 273
 bbccomsinhala | 278
 newsfirstlk | 363
 islandlk | 1,542
-economynextcom | 1,620
+economynextcom | 1,624
 dailyftlk | 1,687
-adalk | 2,428
-adaderanalk | 3,242
-tamilmirrorlk | 3,356
-virakesarilk | 4,390
+adalk | 2,429
+adaderanalk | 3,243
+tamilmirrorlk | 3,360
+virakesarilk | 4,391
 dailymirrorlk | 4,528
-adaderanasinhalalk | 4,584
+adaderanasinhalalk | 4,585
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,549 (100.0%) of 28,549 articles have been extended.
+28,549 (100.0%) of 28,561 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-05 (Wednesday)
+
+### மண்மேடு விழுந்ததில் குழந்தை பலி
+
+*2024-06-05 11:53:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மண்மேடு-விழுந்ததில்-குழந்தை-பலி/76-338477) · `ta`
+
+கேகாலை, மங்களகம, குருந்திய வராஹேன கிராமத்தில் வீடொன்றுக்கு அருகாமையில் மூன்றரை வயதுக் குழந்தையின் மீது மண்மேடு விழுந்ததில் அக்குழந்தை உயிரிழந்துள்ளது. கவிந்து ஷெஹந்தா என்ற குழந்தையே உயிரிழந்துள்ளது.
+
+வீட்டின் பின்புறத்தில் பாதுகாப்பான பக்கச்சுவர் அமைப்பதற்காக காலை முதல் கரை வெட்டப்பட்டிருந்ததாகவும், அங்கு விளையாடிக் கொண்டிருந்த போது குழந்தையின் மீது மண்மேடு விழுந்துள்ளதாகவும் பொலிஸார் தெரிவித்தனர்.
+
+அயலவர்களின் உதவியுடன் குழந்தையை மீட்டு கேகாலை போதனா வைத்தியசாலையில் அனுமதித்த போதிலும் குழந்தை உயிரிழந்துள்ளதாக தகவல்கள் தெரிவிக்கின்றன.
+
+◼️
+
+[Data](articles/31649366.json)
+
+---
+
+### Indian couple drown at Kirinda Beach
+
+*2024-06-05 11:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/99675/indian-couple-drown-at-kirinda-beach) · `en`
+
+A foreign national couple have reportedly drowned while sea bathing at the Kirinda Beach.
+
+Police reported that the two individuals were rescued while drowning but passed away upon admission to the hospital.
+
+The deceased are identified as a 35-year-old male and a 33-year-old female who are Indian nationals.
+
+Preliminary investigations revealed that the victims were a married couple, and the incident had occurred during a visit to Sri Lanka with their family.
+
+The bodies of the victims have been placed at Debarawewa Hospital, and Kirinda Police have launched further investigations into the incident.
+
+◼️
+
+[Data](articles/3886e031.json)
+
+---
+
+### ශ්‍රේෂ්ඨාධිකරණයේ සංශෝධන ආණ්ඩුව පිළිගත්තා - කංචන
+
+*2024-06-05 11:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197415) · `si`
+
+විදුලිබල පනත් කෙටුම්පතට ශ්‍රේෂ්ඨාධිකරණය ඉදිරිපත් කර ඇති සංශෝධන සියල්ල පිළිගැනීමට ආණ්ඩුව එකඟ වී ඇති බව විදුලිබල හා බලශක්ති අමාත්‍ය කංචන විජේසේකර මහතා පවසයි.
+
+ඒ සම්බන්ධයෙන් ඊයේ (04) අංශික අධීක්ෂණ කාරක සභාවට දැනුම්දී අනුමැතිය ලබාගත් බවත් අමාත්‍යවරයා පැවසීය.
+
+එබැවින් එම පනත් කෙටුම්පතට වෙනත් සංශෝධන ඉදිරිපත් කිරීමට ආණ්ඩුව කටයුතු නොකරන බවද ඔහු පාර්ලිමේන්තුවට දැනුම් දුන්නේය.
+
+රජය විසින් පාර්ලිමේන්තුවට ඉදිරිපත්කර තිබෙන විදුලිබල පනත් කෙටුම්පතට එරෙහි පෙත්සම් විභාගයේ ශ්‍රේෂ්ඨාධිකරණ තීන්දුව ඊයේ (04) කථානායකවරයා විසින් පාර්ලිමේන්තුවට ඉදිරිපත් කළේය.
+
+ඒ අනුව විදුලිබල පනත් කෙටුම්පතේ වගන්ති කිහිපයක් ආණ්ඩුක්‍රම ව්‍යවස්ථාවට අනුකූල නොවන බවත්, එම වගන්ති පාර්ලිමේන්තුවේ විශේෂ බහුතරයකින් සහ එක් වගන්තියක් ජනමත විචාරණයකින් ද අනුමත කළ යුතු බවත් ශ්‍රේෂ්ඨාධිකරණය පාර්ලිමේන්තුවට දැනුම් දී තිබේ.
+
+පනත් කෙටුම්පත පිළිබද ‍‍ශ්‍රේෂ්ඨාධිකරණ මතය ඉදිරිපත් කරමින් කථානායකවරයා පැවසුවේ, අදාළ වගන්ති සංශෝධනය කළහොත් පාර්ලිමේන්තුවේ සරල බහුතරයකින් එය සම්මත කළ හැකි බවය.
+
+◼️
+
+[Data](articles/b9876043.json)
+
+---
+
+### 6 பேர் ராமேஸ்வரத்தில் அகதிகளாக தஞ்சம்
+
+*2024-06-05 11:31:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/6-பேர்-ராமேஸ்வரத்தில்-அகதிகளாக-தஞ்சம்/175-338474) · `ta`
+
+முல்லைத்தீவில் இருந்து  ஒரே குடும்பத்தை சேர்ந்த   ஆறு பேர் புதன்கிழமை(5) அதிகாலை இராமேஸ்வரத்தில் தஞ்சமடைந்துள்ளனர்.
+
+செவ்வாய்க்கிழமை(4) முல்லைத்தீவில் இருந்து மன்னாருக்கு சென்று  மன்னாரில் இருந்து சட்டவிரோதமாக கடல் வழியாக படகில் புறப்பட்டு புதன்கிழமை(5) அதிகாலை இராமேஸ்வரம் அடுத்த சேராங் கோட்டையை சென்றடைந்துள்ளனர்.
+
+தாய் தந்தை மற்றும் நான்கு பிள்ளைகள் உள்ளடங்களாக 6 பேர் இவ்வாறு தஞ்சமடைந்துள்ளனர்.
+
+இலங்கை தமிழர்கள் ஆறு பேரையும் மீட்ட மரைன் பொலிஸார் மண்டபம் மரைன் காவல் நிலையத்தில் வைத்து விசாரணை மேற்கொண்டு வருகின்றமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/23765e39.json)
+
+---
 
 ### Over 25,000 dengue cases reported so far in 2024
 
@@ -139,6 +215,46 @@ The favorite hobby of Bonipus Perera, which was played in the platform of St. Be
 [Data](articles/24ae4cd5.json)
 
 [Extended Data](ext_articles/24ae4cd5.ext.json)
+
+---
+
+### மீள் திருத்த விண்ணப்பம் தொடர்பில் அறிவித்தல்
+
+*2024-06-05 11:22:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீள்-திருத்த-விண்ணப்பம்-தொடர்பில்-அறிவித்தல்/175-338473) · `ta`
+
+2023 (2024) உயர்தர பரீட்சை விடைத்தாள்களை மறு பரிசீலனைக்கு செய்வதற்கு விண்ணப்பிக்க முடியும் என, பரீட்சைகள் திணைக்களம் அறிவித்துள்ளது.
+
+இணைய அடிப்படை முறையின் மூலம் மட்டுமே விண்ணப்பங்களை அனுப்புமாறு திணைக்களம் கேட்டுக் கொண்டுள்ளது.
+
+பாடசாலை மற்றும் தனியார் விண்ணப்பதாரர்கள் தங்கள் விண்ணப்பங்களை தாங்களாகவே பூர்த்தி செய்து அனுப்ப வேண்டும், விண்ணப்பங்களை ஏற்றுக்கொள்வதற்கான கடைசி திகதி ஜூன் 19 ஆகும்.
+
+பரீட்சார்த்திகள் பரீட்சைகள் திணைக்களத்தின் உத்தியோகபூர்வ இணையத்தளமான www.doenets.lk அல்லது www.onlineexams.gov.lk/eic இன் ஊடாக விண்ணப்பிக்க முடியும்.
+
+◼️
+
+[Data](articles/87cc8850.json)
+
+---
+
+### Sri Lanka’s COPF ends probe into controversial IVS-VFS Global visa deal
+
+*2024-06-05 11:17:00* · [`economynextcom`](https://economynext.com/sri-lankas-copf-ends-probe-into-controversial-ivs-vfs-global-visa-deal-166348/) · `en`
+
+ECONOMYNEXT – Sri Lanka parliament’s Committee on Public Finance has concluded its examination of a visa deal with IVS-GBS-VFS Global, a private company, its chairman Harsha de Silva said.
+
+Officials of the Public Security Ministry who had not come to an earlier meeting was present on June 04, he said.
+
+“IVS-GBS VFS visa matter was concluded,” de Silva said in an x.com message. “Our report will be presented at the earliest. As I have maintained throughout, I shall not discuss substantive issues until then.
+
+The VFS Deal led to hikes if visa fees and additional charges, including undisclosed fees being charged from tourists.
+
+The website is also complex and puts off some visitors, compared to the user-friendly website operated by the Department of Immigration earlier, the tourist industry has said.
+
+Following protests by Tourism Minister Harin Fernando, a 50 dollar visa has been re-introduced. (Colombo/June05/2024)
+
+◼️
+
+[Data](articles/6755725a.json)
 
 ---
 
@@ -254,6 +370,22 @@ Some of the advantages extended to Sri Lankan students include the provision to 
 
 ---
 
+### ආදීවාසී ජනතාවගේ අයිතිවාසිකම් ආරක්ෂා කිරීමට නව පනතක්
+
+*2024-06-05 10:54:44* · [`adalk`](https://www.ada.lk/breaking_news/ආදීවාසී-ජනතාවගේ-අයිතිවාසිකම්-ආරක්ෂා-කිරීමට-නව-පනතක්/11-410016) · `si`
+
+මෙරට ආදීවාසී ජනතාවට පවතින ගැටළුවලට විසදුම් ලබාදීම සදහා  නව පනතක් සකස් කිරීමට හා ඔවුන්ගේ අයිතිවාසිකම් සුරක්ෂිත කිරිම සදහා රෙගුලාසි පද්ධතියක් සකස් කිරීමට අධිකරණ, බන්ධනාගාර කටයුතු ආණ්ඩුක්‍රම ව්‍යවස්ථා ප්‍රතිසංස්කරණ අමාත්‍ය ජනාධිපති නීතිඥ ආචාර්ය විජයදාස රාජපක්ෂ මහතාගේ උපදෙස් පරිදි කටයුතු කර ඇති අතර, එම රෙගුලාසි පද්ධතිය පිළිබදව අදාළ පාර්ශ්ව සමග විශේෂ සාකච්ඡාවක් පාර්ලිමේන්තු සංකීර්ණයේදී ඊයේ ( 04) පස්වරුවේ පැවැත්විණි.
+
+අධිකරණ, බන්ධනාගාර කටයුතු ආණ්ඩුක්‍රම ව්‍යවස්ථා ප්‍රතිසංස්කරණ අමාත්‍ය, ජනාධිපති නීතිඥ, ආචාර්ය විජයදාස රාජපක්ෂ මහතාගේ සහ වනජීවි හා වන සංරක්ෂණ හා වාරිමාර්ග අමාත්‍ය, නීතිඥ පවිත්‍රාදේවී වන්නිආරච්චි මහත්මියගේ ප්‍රධානත්වයෙන්, ආදිවාසී නායක ඌරුවරිගේ වන්නිලා ඇත්තන්ගේ සහභාගිත්වයෙන් සාකච්ඡාව සිදු විය.
+
+ආදිවාසී ජනතාවට පවතින ගැටළු විසදීම සදහා සකස් කළ  නව පනත් කෙටුම්පත අධිකරණ අමාත්‍යතුමා විසින්  මේ වන විට අමාත්‍ය මණ්ඩලය වෙත ඉදිරිපත් කර ඇති අතර, පනත සදහා ඇතුළත් කිරීමට නොහැකි කරුණු රෙගුලාසි යටතේ නීතිගත කිරීමට පියවර ගෙන තිබේ.
+
+...
+
+[Data](articles/7103ba40.json)
+
+---
+
 ### Police officers injured as jeep driven by OIC crashes into house
 
 *2024-06-05 10:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Police-officers-injured-as-jeep-driven-by-OIC-crashes-into-house/108-284151) · `en`
@@ -355,6 +487,30 @@ The Examinations Department informs the candidates to obey the lower tips.
 [Data](articles/d9fded78.json)
 
 [Extended Data](ext_articles/d9fded78.ext.json)
+
+---
+
+### இஸ்ரேலிய பிரதமருக்கு எதிராக பிடியாணையா? சர்வதேச நீதிமன்றத்திற்கு எதிராக தடைகளை விதிக்கும்சட்டமூலத்தை நிறைவேற்றியது அமெரிக்க சனப்பிரதிநிதிகள் சபை
+
+*2024-06-05 10:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/185350) · `ta`
+
+இஸ்ரேலிய பிரதமர் பெஞ்சமின் நெட்டன்யாகுவிற்கு எதிரான பிடியாணை தொடர்பில் சர்வதேச குற்றவியல் நீதிமன்றத்திற்கு எதிராக தடைகளை விதிக்கும் சட்டமூலம்  அமெரிக்க சனப்பிரதிநிதிகள் சபையில் நிறைவேற்றப்பட்டுள்ளது.
+
+அமெரிக்க சனப்பிரதிநிதிகள் சபையில் உள்ள இஸ்ரேல் சார்பு  குடியரசுகட்சி உறுப்பினர்கள் முன்மொழிந்த சட்டமூலத்தை சனப்பிரதிநிதிகள் சபை ஏற்றுக்கொண்டுள்ளது.
+
+அமெரிக்க குடியரசுகட்சி பெரும்பான்மை பெற்றுள்ள  சனப்பிரதிநிதிகள் சபையில் 247 பேர் இந்த தீர்மானத்திற்கு ஆதரவாக வாக்களித்துள்ளனர்,155 பேர் எதிராக வாக்களித்துள்ளனர்.
+
+இஸ்ரேலை ஆதரிக்கும் ஜனநாயக கட்சியின் பிரதிநிதிகளும் சர்வதேச குற்றவியல் நீதிமன்றத்திற்கு எதிரான தீர்மானத்திற்கு ஆதரவாக வாக்களித்துள்ளனர்.
+
+இந்த சட்டமூலம் நிறைவேற்றப்பட்டுள்ள போதிலும் அது சட்டமாக மாற்றப்படாது என தகவல்கள் வெளியாகியுள்ளன.
+
+செனெட்டில் பெரும்பான்மையை கொண்டுள்ள ஜனநாயக கட்சியினர் இந்த சட்டமூலத்தை நிராகரிப்பார்கள் என பிபிசி தெரிவித்துள்ளது.
+
+அமெரிக்க ஜனாதிபதி ஜோபைடன் இந்த சட்டமூலத்தை கடுமையாக எதிர்க்கின்றார் என பிபிசி தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/07c83297.json)
 
 ---
 
@@ -490,6 +646,28 @@ Prime Minister Narendra Modi, addressing party workers at the BJP headquarters i
 
 ---
 
+### Sri Lanka rupee opens weaker at 302.20/35 to US dollar
+
+*2024-06-05 09:36:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-weaker-at-302-20-35-to-us-dollar-166321/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened weaker at 302.20/35 to the US dollar on Wednesday, from 302.10/20 to the dollar the previous day, dealers said. Bond yields were broadly steady.
+
+A bond maturing on 15.12.2026 was quoted at 9.70/80 percent down from 9.70/85 percent.
+
+A bond maturing on 15.09.2027 was quoted stable at 10.35/45 percent.
+
+A bond maturing on 01.07.2028 was quoted stable at 10.80/90 percent.
+
+A bond maturing on 15.05.2030 was quoted at 11.65/75 percent up from 11.60/75 percent.
+
+The Colombo Stock Exchange opened up. The All Share Price Index was up 0.11 percent at 12,117, the S&P SL20 was up 0.21 percent at 3,576.
+
+◼️
+
+[Data](articles/b0c18ae6.json)
+
+---
+
 ### Parliamentary Council begins
 
 *2024-06-05 09:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197408) · `si`
@@ -526,6 +704,18 @@ Coastal railway services have been blocked as a train derails at the Fort Railwa
 
 ---
 
+### அலுவலக ரயில்கள் தாமதம்
+
+*2024-06-05 09:29:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அலுவலக-ரயில்கள்-தாமதம்/175-338466) · `ta`
+
+கோட்டை புகையிரத நிலையத்தில் புகையிரதம் ஒன்று தடம் புரண்டதால் கரையோரப் புகையிரத சேவைகள் தடைப்பட்டுள்ளன.
+
+◼️
+
+[Data](articles/c6f75ac1.json)
+
+---
+
 ### Man, two women arrested for brutal assault on child in Pulmudai
 
 *2024-06-05 09:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/99670/man-two-women-arrested-for-brutal-assault-on-child-in-pulmudai) · `en`
@@ -559,6 +749,26 @@ Those affected by floods in Gampaha were moved to the Wijayarama temple in Ihala
 [Data](articles/22b284b7.json)
 
 [Extended Data](ext_articles/22b284b7.ext.json)
+
+---
+
+### India’s Modi tells Sri Lanka President he looks to economic partnership, amid poll setback
+
+*2024-06-05 09:17:00* · [`economynextcom`](https://economynext.com/indias-modi-tells-sri-lanka-president-he-looks-to-economic-partnership-amid-poll-setback-166304/) · `en`
+
+ECONOMYNEXT – India’s Prime Minister Narenda Modi has exchanged tweets with Sri Lanka’s political leadership after mammoth elections that saw his Bharathiya Janatha Party losing its earlier absolute majority.
+
+The BJP is expected to win only 240 seats, short of a required 272 majority in the 543 assembly, and will have to govern with his broader NDA coalition which is expected to get 295.
+
+The opposition India block, led by Rahul Ghadhi has 232 seats with the Congress itself getting 99 seats almost doubling its tally.
+
+Modi has lost ground amid inflation, and his authoritarian nationalist policies which also saw the election commissions independence undermined with the removal of the Chief Justice and pending removal of personal laws, the opposition has said.
+
+“I look forward to our continued cooperation on the India-Sri Lanka Economic Partnership,” Modi replied to President Ranil Wickremesinghe’s congratulatory x.com message.
+
+...
+
+[Data](articles/37c7defd.json)
 
 ---
 
@@ -1058,6 +1268,28 @@ In response, the Netherlands won the match with 10 wickets for the loss of 4 wic
 
 ---
 
+### SriLankan Airlines makes profits in 2024 as currency depreciation stops
+
+*2024-06-05 07:02:00* · [`economynextcom`](https://economynext.com/srilankan-airlines-makes-profits-in-2024-as-currency-depreciation-stops-166259/) · `en`
+
+ECONOMYNEXT – State-run SriLankan Airlines has reported a net profit of 1,124 million rupees in the nine months to December 2023 turning around from a loss of 73.26 billion rupees for the full year ending March 2023, official data shows.
+
+SriLankan had earned revenues of 248 billion rupees in the nine months to December, with 205.6 billion in passenger income and 22.6 billion rupees in freight and 18.7 billion in unspecified other incomes.
+
+Operating costs were 223.8 billion rupees with 86.3 billion rupees spent on fuel, 22.09 billion on employees and another 6.7 billion listed as crew costs.
+
+Earnings before interest and tax was 24.5 billion rupees for the nine months compared to 41.9 billion rupees last year.
+
+Interest costs for the 9 months was 26.0 billion rupees against 51 billion rupees for the full last year.
+
+In the year 22/23 the government had injected 102.5 billion rupees as equity to settle due to the Ceylon Petroleum Corporation dating from prior years.
+
+...
+
+[Data](articles/aa90f32b.json)
+
+---
+
 ### Three arrested including the person who assaulted the little son
 
 *2024-06-05 06:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197401) · `si`
@@ -1214,7 +1446,7 @@ He claimed that the Economic Transformation Bill proposed by President Ranil Wic
 
 Why is all the attention to address accountability only fixated on the Sri Lankan State and none on the LTTE?
 
-A report in an English daily recently stated that the UN human rights office has “criticised the Sri Lankan Government’s failure to acknowledge and hold accountable the perpetrators of tens of thousands of enforced disappearances… Authors of the report also accuse the Liberation Tigers of Tamil Eelam of “engaging in abductions” which were described as “tantamount” to enforced disappearances.” Continuing, the report adds that the UN High Commissioner for Human Rights had stated: “Accountability must be addressed. We need to see institutional reform for reconciliation to succeed”.
+Although violations by the Government forces and LTTE would be judged by Common Article 3, the fact remains that the leadership of the LTTE who ordered the taking of 300,000 plus civilians, hostage is not among the living or has disappeared, and cannot be subjected to a trial despite the fact that the act of taking civilians hostage amount to a war crime and a crime against humanity. Thus, the exercise of gathering evidence against Government perpetrators pales in significance compared with endangering the security of 300,000 plus civilians that were taken hostage. Despite this, a prosecutorial process would mean a skewed outcome of any trial because of the strong possibility that violations perpetrated by the Sri Lankan Government would dominate the trial
 
 ...
 
@@ -1278,7 +1510,9 @@ The theologian and Marxist scholar Roland Boer identifies the “freelance intel
 
 *2024-06-05 05:22:46* · [`dailyftlk`](https://www.ft.lk/columns/Are-we-ready-to-accept-our-migrants-again/4-762625) · `en`
 
-It is necessary to identify the silver lining of the current migration wave and harness the maximum benefit from
+It is necessary to identify the silver lining of the current migration wave and harness the maximum benefit from Sri Lankan migrants for the country’s future prosperity
+
+While accepting migration trends and waves, Sri Lanka must implement policies that encourage migrants to contribute back to the country. This could strengthen Sri Lankan society in two ways: demotivating unnecessary migration while embracing those who have migrated with the same fraternity. Given the global and historical trends, it is high time to establish state migration and diasporic policies to address these issues and turn brain drain into an opportunity
 
 “Migration” is a prevalent topic in Sri Lanka today, affecting all social and age groups. It brings both positive and negative consequences for individuals who could be felt both short-term and long-term. While migration has recently come under the spotlight in Sri Lankan society, it is an age-old phenomenon with a vast global history.
 
@@ -1957,279 +2191,5 @@ The entire legal source seems to have serious problems in the Supreme Court's ru
 [Data](articles/1ff0905e.json)
 
 [Extended Data](ext_articles/1ff0905e.ext.json)
-
----
-
-### Action to hire teacher assistants
-
-*2024-06-05 01:22:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆசிரியர்-உதவியாளர்களை-நியமிக்க-நடவடிக்கை/175-338452) · `ta`
-
-This week, Sri Lanka's Minister of Education announced plans to release a Gazette Notification for hiring teacher assistants in plantation schools, aiming to address the lack of teachers in these areas. The process involves selecting eligible graduates, conducting interviews within two weeks, and then appointing them to fill 2,535 vacancies across various schools.
-
-🟩
-
-Minister of Education Susil Premajayantha said that the Gazette Notification for the Appointment of Teacher Assistant for Plantation Schools will be released this week.
-
-Teachers are not selected in the estate in the plantation. Graduates are at a specific amount. He said the appointments would be made for plantation schools.
-
-Meanwhile, steps will be taken to select the basic eligible persons to become a teacher assistant and appoint them. Accordingly, the Gazette notification for the granting of appointments to Tamil schools and plantations in Tamil schools and plantations in the plantation will be issued this week.. In two weeks, interviews will be interviewed and appointed as teacher assistants.
-
-Thereafter, a list of appointments will be sent to the Provincial Councils and will be appointed to fill 2,535 teacher vacancies.
-
-◼️
-
-[Data](articles/d7edf15f.json)
-
-[Extended Data](ext_articles/d7edf15f.ext.json)
-
----
-
-### Focus on the telephone Aswesum
-
-*2024-06-05 00:52:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அஸ்வெசும-குறித்து-கவனம்-செலுத்தவும்/175-338451) · `ta`
-
-In a parliamentary address, Jagadkumara highlighted the issue of millions receiving unqualified payments under the Assembly Payments scheme aimed at aiding the poor. He emphasized the need for the government to address this inefficiency, stating that the project's effectiveness hinges on accurate targeting. Despite spending billions, the scheme fails to reach those genuinely in need due to inadequate data collection and enforcement issues. Jagadkumara proposed temporary suspension of certain laws and closer collaboration with local officials to ensure benefits reach the intended recipients effectively.
-
-🟩
-
-The PA MP has called for the government to pay attention to the fact that millions of unqualified millions are being paid. Jagadkumara stressed
-
-He said this while addressing a special statement in Parliament on Tuesday (04).
-
-During the commencement of a program of providing Assembly Payments to the Poverty -Served people. The scheme will be ineffective if the government does not get the problem, no matter how many billion it has spent on it
-
-Hundreds of thousands of people in the country are eligible to receive that allowance despite the lack of allowance, but they are unable to live life.. But it is being paid to millions of people who are not eligible for the allowance of Aswezum.
-
-There are massive shortcomings in the projects that provide Ashemu Payment Project. Since this is a plan for the grassroots people in the poverty -stricken people, it is necessary to obtain the data with the cooperation of the departmental authorities.
-
-...
-
-[Data](articles/62a9db3b.json)
-
-[Extended Data](ext_articles/62a9db3b.ext.json)
-
----
-
-### 26 deaths: 130,021 victims
-
-*2024-06-05 00:24:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/26-பேர்-மரணம்-130-021-பேர்-பாதிப்பு/175-338450) · `ta`
-
-In a parliamentary address, Defense Minister Bandara Tennakoon reported 26 fatalities and 130,021 affected individuals due to severe weather conditions. This includes 41 injuries and temporary housing for 9,248 people in 116 camps. The government is actively managing the situation, with opposition criticism dismissed as routine. A dedicated hotline, 117, has been set up for disaster inquiries.
-
-🟩
-
-26 people have died due to inclement weather in the country. Defense Minister Bandara Tennakoon said 130,021 people were affected.
-
-He said this while addressing a special statement in Parliament on Tuesday (06).
-
-Over the past few days, 130,021 people from 33 thousand 622 families have been affected by the inclement weather in the country last Monday.. 26 people have died. 41 people were injured.
-
-9,248 people from 2,369 families have been housed in 116 temporary security central camps in view of landslides and flood hazards.. The facilities for them have been provided through the Divisional Secretariat Divisions.
-
-Armed forces are working to protect people from disasters. Opposition parties cannot accept the accusation that appropriate measures have not been taken to manage the natural disaster. He said that it is customary to oppose anything.
-
-The Disaster Management Center has introduced a special telephone number 117 to learn about disasters.
-
-◼️
-
-[Data](articles/b8a4dee9.json)
-
-[Extended Data](ext_articles/b8a4dee9.ext.json)
-
----
-
-### Flooding and rainwater running unutilised to sea
-
-*2024-06-05 00:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Flooding-and-rainwater-running-unutilised-to-sea/172-284112) · `en`
-
-As has been usual in our country, at every monsoon season especially during the South-West monsoon flooding, landslides and displacement of citizens have become normal. Every year this newspaper has highlighted this fact and called on authorities to draw up plans to prevent these disasters.
-
-To date, 16 people have died, 5 remain missing and 84,749 persons have been displaced. Sadly, nothing has changed. Have our engineers run out of ideas as to how such disasters could be prevented?
-
-Media reports show 2017 was perhaps the worst year since torrential rains soaked the country in May 2003. The Disaster Management Center reported more than 150 deaths, over 1,800 damaged homes and almost half a million people becoming homeless. The worst-affected area was Bulathsinhala in the Kalutara District.
-
-...
-
-[Data](articles/7a109b5f.json)
-
-[Extended Data](ext_articles/7a109b5f.ext.json)
-
----
-
-### JVP Guaranteed Rajapaksa’s Victory in 2005 Ranil-Mahinda:  First Presidential Debate that Never Was
-
-*2024-06-05 00:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/JVP-Guaranteed-Rajapaksas-Victory-in-2005-Ranil-Mahinda-First-Presidential-Debate-that-Never-Was/172-284113) · `en`
-
-It was reported that Chief Justice Sarath N. Silva secretly administered the oath of office to President Kumaratunga for a second time in August 2000. CBK initially took oaths on December 22, 1999. The statement unsettled the UNP, prompting strategic discussions. They challenged the claim that the President could remain in office until 2006.
-
-The presidential election to select Sri Lanka’s fifth president occurred on November 17, 2005. There was a debate when President Kumaratunga argued that her term ended in 2006 because she was sworn in for a second time in 2000. It was brought before the Supreme Court. On August 26, 2005, the Supreme Court decided that it should take place in 2005.
-
-...
-
-[Data](articles/e4b31104.json)
-
-[Extended Data](ext_articles/e4b31104.ext.json)
-
----
-
-### ‘Enterprise Sri Lanka’ to be established as dedicated agency for SME support
-
-*2024-06-05 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Enterprise-Sri-Lanka-to-be-established-as-dedicated-agency-for-SME-support/108-284106) · `en`
-
-The Government has decided to establish a brand new consolidated and dedicated agency named ‘Enterprise Sri Lanka’ for the monitoring and development of Sri Lanka’s struggling small and medium (SME) sector efficiently.
-
-President Ranil Wickrememsinghe in his capacity as Minister of Investment Promotion joined with the Minister of Industries Ramesh Pathirana and sought the approval of the Cabinet of Ministers to establish the a proposed institution ‘Enterprise Sri Lanka’ as one entity.
-
-It will be dedicated for small and medium scale enterprises through redesigning institutional and legal framework of the Export Development Board, National Entrepreneurship Development Authority, Industrial Development Board, Sri Lanka Export Credit Insurance Corporation and the Small Enterprises Development Division of the Ministry of Sports and Youth Affairs.
-
-Accordingly, it was decided to direct the Legal Draftsmen to formulate a draft bill for the establishment of the proposed agency.
-
-...
-
-[Data](articles/59df6e15.json)
-
-[Extended Data](ext_articles/59df6e15.ext.json)
-
----
-
-### 2024-06-04 (Tuesday)
-
-### President Ranil congratulates the election victory of the National Democratic Alliance
-
-*2024-06-04 23:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/185332) · `ta`
-
-President Ranil Wickremesinghe congratulates the National Democratic Alliance (NDA) led by the Bharatiya Janata Party (BJP), expressing confidence in Prime Minister Narendra Modi's leadership. He highlights the importance of strengthening ties between Sri Lanka and India, its neighbor.
-
-🟩
-
-President Ranil Wickremesinghe congratulates the election victory of the National Democratic Alliance led by the Bharatiya Sanada Party.
-
-"I congratulate the BJP -led NTA to express the confidence of the Indian people under the leadership of Prime Minister Narendra Modi," he posted on his Twitter.
-
-Wickremesinghe added that "Sri Lanka is facing further strengthening the cooperation with India as a close neighboring country," Wickremesinghe added.
-
-◼️
-
-[Data](articles/d4d644aa.json)
-
-[Extended Data](ext_articles/d4d644aa.ext.json)
-
----
-
-### Modi congratulates President
-
-*2024-06-04 23:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197398) · `si`
-
-President Ranil Wickremesinghe joins BJP, affirming PM Modi's leadership and strengthening Sri Lanka-India ties.
-
-🟩
-
-President Ranil Wickremesinghe has joined the Bharatiya Janata Party to achieve the victory of the party.
-
-The President has said that this is confirming the leadership of the leaders of Prime Minister Narendra Modi.
-
-The President has also stated that the relations between Sri Lanka and India are strongly maintained strong.
-
-◼️
-
-[Data](articles/82be7c59.json)
-
-[Extended Data](ext_articles/82be7c59.ext.json)
-
----
-
-### Environmental organizations, certain politicians preventing permanent solutions to floods
-
-*2024-06-04 23:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Environmental-organizations-certain-politicians-preventing-permanent-solutions-to-floods/108-284084) · `en`
-
-Whilst highlighting that the government had come up with permanent solutions to prevent floods, State Minister Pramitha Bandara Tennekoon told Parliament today that it has become impossible to implement them because of environmental organizations and certain politicians.
-
-The State Minister came out with this remark in response to requests by both ruling party and opposition MPs for a permanent solution to the floods which hit the South, Kalutara and the Gampaha district.
-
-He also said that 26 persons have died due to inclement weather conditions while 130,021 persons from 33,422 families have been affected as of today.
-
-◼️
-
-[Data](articles/b1684a83.json)
-
-[Extended Data](ext_articles/b1684a83.ext.json)
-
----
-
-### 30 million objects found under Hanwella Bridge
-
-*2024-06-04 22:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197397) · `si`
-
-Sri Lanka's Irrigation Department recovered a crucial water gauge from under Hanwella Bridge, used for monitoring the Kelani River. The device, valued for its GPS capabilities, was located thanks to a swift response from the Navy, who sent a specialized dive team to assist on June 4, 2024. This recovery is significant as it helps in managing the river's conditions effectively.
-
-🟩
-
-A team of Sri Lanka has been able to find an expensive water gauge belonging to the Irrigation Department under Hanwella Bridge.
-
-It is a GPS machine in the water portfolio, which is placed under the Hanwella Bridge to collect data in the Kelani River.
-
-The Irrigation Department had requested the Navy Headquarters to provide the main machine to the GPS to deduct the GPS.
-
-The Navy, which responded immediately to the request, a team of special digestion was directed to the Hanwella area to provide diving support on June 4, 2024.
-
-Accordingly, the Navy diving group had taken action to the Irrigation Department after the increase in the rational condition of the Kelani River into the face of overly excessive project.
-
-◼️
-
-[Data](articles/5d80b8e7.json)
-
-[Extended Data](ext_articles/5d80b8e7.ext.json)
-
----
-
-### President Ranil congratulates Modi on election win
-
-*2024-06-04 22:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/99666/president-ranil-congratulates-modi-on-election-win) · `en`
-
-Sri Lankan President Ranil Wickremesinghe joined world leaders on Tuesday in congratulating Indian Prime Minister Narendra Modi on his and Bharatiya Janata Party (BJP)-led National Democratic Alliance’s (NDA) third consecutive victory in the Lok Sabha elections.
-
-“I extend my warmest felicitations to the BJP led NDA on its victory, demonstrating the confidence of the Indian people in the progress and prosperity under the leadership of PM Narendra Modi,” he said in a post on ‘X’ (formerly Tiwtter).
-
-“As the closest neighbour, Sri Lanka looks forward to further strengthening the partnership with India,” Wickremesinghe said.
-
-Vote counting is still underway in India’s 2024 Lok Sabha election. Prime Minister Narendra Modi‘s Bharatiya Janata Party and its National Democratic Alliance has yet to secure the 272 seats needed for a parliamentary majority, but the prime minister has declared “a very big win.”
-
-Modi, 73, is only the second Indian prime minister to win a third straight term.
-
-...
-
-[Data](articles/46c307f6.json)
-
-[Extended Data](ext_articles/46c307f6.ext.json)
-
----
-
-### People have given the opportunity to form the National Democratic Alliance for the 3rd time - Prime Minister Modi
-
-*2024-06-04 22:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/185331) · `ta`
-
-In the Indian parliamentary elections, the Bharatiya Janata Party (BJP)-led National Democratic Alliance (NDA) is leading with over 290 seats, including more than 160 seats won by the BJP itself. Prime Minister Narendra Modi, contesting from Varanasi, Uttar Pradesh, secured victory with 612,970 votes, expressing gratitude towards the voters for granting the NDA a chance to form government for the third consecutive term. The Election Commission of India is commended for its conduct of this massive electoral process, highlighting India's pride in its democratic system's credibility.
-
-🟩
-
-The votes cast in the Indian parliamentary elections are being counted on Tuesday 04th. As of now, the Bharatiya Sanada-led National Democratic Alliance is leading in more than 290 seats.
-
-As of now, the Bharatiya Sanada Party has won over 160 seats.
-
-The BJP contested the Varanasi constituency of Uttar Pradesh. PM Modi won the candidate.
-
-He received 6,12,970 votes. Prime Minister Modi has said that the people have given the opportunity to form the National Democratic Alliance for the third time.
-
-Thanks to the people who for the 3rd consecutive time for the National Democratic Alliance.
-
-Thanks to the Election Commission of India for conducting such a large election exercise.
-
-He said every Indian is proud of India's election process and the credibility of the system.
-
-◼️
-
-[Data](articles/483d0aeb.json)
-
-[Extended Data](ext_articles/483d0aeb.ext.json)
 
 ---

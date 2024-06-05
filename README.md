@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-06 04:19:16**
+As of **2024-06-06 04:34:14**
 
 ## Newspaper Stats
 
-*Scraped **28,687** Articles*
+*Scraped **28,692** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,10 +14,10 @@ bbccomsinhala | 279
 newsfirstlk | 363
 islandlk | 1,542
 economynextcom | 1,635
-dailyftlk | 1,687
+dailyftlk | 1,690
 adalk | 2,448
 adaderanalk | 3,255
-tamilmirrorlk | 3,373
+tamilmirrorlk | 3,375
 virakesarilk | 4,414
 dailymirrorlk | 4,553
 adaderanasinhalalk | 4,606
@@ -26,11 +26,65 @@ adaderanasinhalalk | 4,606
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,687 (100.0%) of 28,687 articles have been extended.
+28,687 (100.0%) of 28,692 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-06 (Thursday)
+
+### Suspect arrested in less than 24 hours after viral child abuse video
+
+*2024-06-06 04:21:11* · [`dailyftlk`](https://www.ft.lk/news/Suspect-arrested-in-less-than-24-hours-after-viral-child-abuse-video/56-762675) · `en`
+
+Several police teams on the hunt for a man seen brutally assaulting a child in a viral video was arrested early yesterday while hiding in Arasimalai, Pulmoddai.
+
+Munasinghe Kodikarage Chaminda, a 45-year-old resident of Hansawila, Kalyanipura in Welioya, was arrested on charges of child cruelty. The two women accompanying him, along with a neighbour and another who helped the main suspect secure a hiding place, were also arrested for aiding and abetting him. The five suspects were ordered to be remanded until 19 June by the Padaviya Magistrates Court yesterday.
+
+The child was taken into police protection and admitted to Mullaitivu Hospital for treatment. The 4-year-old is currently under the care of the North Western Province Department of Probation and Child Care Services.
+
+The arrests were carried out by officers of the Welioya Police, Mullaitivu Crimes Investigation Division and the Special Task Force Camp in Pulmoddai.
+
+...
+
+[Data](articles/bf9abb91.json)
+
+---
+
+### AKD agrees to debate on ITN as Sajith remains mum
+
+*2024-06-06 04:20:56* · [`dailyftlk`](https://www.ft.lk/news/AKD-agrees-to-debate-on-ITN-as-Sajith-remains-mum/56-762674) · `en`
+
+The National People’s Power (NPP) party, in a letter to the Independent Television Network (ITN), accepted its invitation for its leader Anura Kumara Dissanayake to engage in a televised debate with Opposition Leader Sajith Premadasa today.
+
+NPP Executive Council member Dr. Nalinda Jayatissa, in response to ITN’s offer to host the long-delayed economic debate between the two party leaders, stated that NPP leader Anura Kumara Dissanayake is prepared to participate in the debate.
+
+While thanking the channel for its offer, Dr. Jayatissa also requested ITN to inform the NPP of Premadasa’s confirmation of attendance, as it is not a usual political dialogue but an already scheduled debate. He asked ITN to notify the NPP if Premadasa will attend the event on the designated date and time.
+
+However, at the time of writing, neither the SJB nor Premadasa had responded to ITN’s offer.
+
+...
+
+[Data](articles/186c7897.json)
+
+---
+
+### Setback for BJP in Faizabad seat despite Ram Temple momentum
+
+*2024-06-06 04:18:51* · [`dailyftlk`](https://www.ft.lk/news/Setback-for-BJP-in-Faizabad-seat-despite-Ram-Temple-momentum/56-762673) · `en`
+
+BJP’s two-time sitting MP, Lallu Singh, suffered a defeat at hands of Samajwadi Party’s Awadhesh Prasad in Faizabad
+
+The construction of the Ram Mandir in Ayodhya, seen by many as one of the defining emotive issues of this year’s Lok Sabha polls, did not yield electoral dividends for the Bharatiya Janata Party (BJP) locally as the party lost the Faizabad constituency that houses the temple town.
+
+The BJP’s two-time sitting MP, Lallu Singh, suffered a defeat at the hands of the Samajwadi Party’s Awadhesh Prasad in Faizabad. The defeat highlighted the success of the Samajwadi Party’s new caste calculus as the party’s strategy to field its prominent Dalit leader, Awadhesh Prasad, from a non-reserved constituency dealt a decisive blow.
+
+Prasad bagged 554,289 votes as against Singh’s 499,722 and won the seat by a margin of 54,567. With this victory, memories of the 1989 polls came back, when Mitrasen Yadav of the CPI had won the seat in the middle of the temple movement.
+
+...
+
+[Data](articles/ffd00122.json)
+
+---
 
 ### An elephant killed in KinniyaThree people died in a week
 
@@ -103,6 +157,38 @@ The 50th anniversary of the first supremacist of the Tamil nation who fought as 
 [Data](articles/4c540f00.json)
 
 [Extended Data](ext_articles/4c540f00.ext.json)
+
+---
+
+### நரேந்திர மோடிக்கு சபையில் வாழ்த்து
+
+*2024-06-06 01:15:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நரேந்திர-மோடிக்கு-சபையில்-வாழ்த்து/175-338516) · `ta`
+
+இந்தியாவில் மீண்டும் ஆட்சியமைக்கும் இந்திய பிரதமர் நரேந்திர மோடிக்கு இலங்கை பாராளுமன்றத்தில் வாழ்த்துகள் தெரிவிக்கப்பட்டன.
+
+பாராளுமன்றம் புதன்கிழமை (05) கூடிய போது, விசேட அறிவித்தலை வெளியிட்டு பிரதமர் தினேஸ் குணவர்தன மற்றும் எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச ஆகியோர் இந்திய பிரதமருக்கு வாழ்த்துகளை தெரிவித்தனர்.
+
+எமது அண்டை மற்றும் நட்பு நாடான இந்தியாவின் ஜனநாயக தேர்தலில் மூன்றாவது முறையாகவும் பிரதமராகும் பாரதிய ஜனதா கட்சியின் தலைவரான நரேந்திர மோடிக்கு எமது வாழ்த்துக்களை தெரிவித்துக்கொள்கின்றோம். பாராளுமன்ற ஜனநாயக முறையில் பெரும் சனத்தொகையை கொண்ட நாடாக இந்தியா இருக்கின்றது. அந்த நாட்டின் பிரதமராக மோடி செயற்படுகின்றார். ஆசியா நாடுகளுடனான நட்பு மற்றும் ஒத்துழைப்புடனும் இலங்கையுடனான ஒத்துழைப்புகளுக்கும் மோடி அரசாங்கத்திற்கு வாழ்த்துக்களை தெரிவிக்கின்றோம்.
+
+...
+
+[Data](articles/61ac8ae9.json)
+
+---
+
+### ’விசாரணைகளுக்குப் பின் பெறுபேறு வெளியிடப்படும்’
+
+*2024-06-06 01:08:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விசாரணைகளுக்குப்-பின்-பெறுபேறு-வெளியிடப்படும்/175-338515) · `ta`
+
+பரீட்சை ஒழுங்கு விதிகளை மீறுவது பரீட்சை சட்டங்களை மீறுவதாகவே கருதப்படும். இதனை இன,மொழி அடிப்படையில் பார்க்க முடியாது எனத் தெரிவித்த கல்வி அமைச்சர் சுசில் பிரேமஜயந்த, திருகோணமலை சாஹிரா கல்லூரி மாணவிகளின் பரீட்சை பெறுபேறு இடைநிறுத்தப்பட்டமை தொடர்பில் விசாரணைகள் முன்னெடுக்கப்பட்டுள்ளன.வெகுவிரைவில் பெறுபேறுகள் வெளியிடப்படும் என்றார்.
+
+பாராளுமன்றத்தில் புதன்கிழமை (05) இடம்பெற்ற அமர்வின் போது  ஐக்கிய மக்கள் சக்தி எம்.பி. யான முஜிபுர் ரஹ்மானினால் எழுப்பப்பட்ட  அதிபர் சேவை பரீட்சைக்கு மேல் மாகாணத்தில் தோற்றிய 13 பேர் ஹிஜாப் அணிந்த வகையில்  பரீட்சைக்கு தோற்றியதற்காக அவர்களின் பெறுபேறு இடைநிறுத்தப்பட்டுள்ளது.
+
+ஹிஜாப் அணிந்த வகையில் தேசிய பரீட்சைகளுக்கு தோற்றுவதற்கு பரீட்சைகள் திணைக்களம் அனுமதி வழங்கியுள்ளது. பரீட்சார்த்தியின் காதுகள் தென்படும் வகையில் அவர் இருத்தல் வேண்டும் என பரீட்சை மத்திய  நிலைய பொறுப்பதிகாரி குறிப்பிட்டால் அதற்கு பரீட்சார்த்தி கட்டுப்பட வேண்டும்.அவ்வாறு இல்லாவிடின் அவரை பரீட்சை மண்டபத்தில் இருந்து வெளியேற்ற முடியும்.
+
+...
+
+[Data](articles/b536a056.json)
 
 ---
 
@@ -2145,125 +2231,5 @@ They further pointed out that even the legal provisions of the law to protect th
 [Data](articles/206a753c.json)
 
 [Extended Data](ext_articles/206a753c.ext.json)
-
----
-
-### Indian couple drowns while bathing at Kirinda beach
-
-*2024-06-05 14:29:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Indian-couple-drowns-while-bathing-at-Kirinda-beach/108-284172) · `en`
-
-Kirinda, June 5 (Daily Mirror) - A foreign national couple has drowned while bathing in the sea off the Kirinda beach, police said.
-
-They said the victims were identified as a 35-year-old male and a 33-year-old female who are Indian nationals.
-
-They were rescued while drowning after being dragged away by strong waves, but died upon admission to the Debarawewa Hospital.
-
-Investigations revealed that the victims were a married couple, and the incident had occurred during a visit to Sri Lanka with their family.
-
-◼️
-
-[Data](articles/348b46fd.json)
-
-[Extended Data](ext_articles/348b46fd.ext.json)
-
----
-
-### Three youth arrested with drugs in Jaffna
-
-*2024-06-05 14:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/185359) · `ta`
-
-In Jaffna, a police STF raid in Kaliyangadu found three youths with 490mg of cannabis. They were detained and transferred to Kopay police station for further investigation.
-
-🟩
-
-During a raid conducted by police Special Task Force (STF) in the Kaliyangadu area, which belongs to the Kopay police division, 190 milligrams, 120 milligrams and 80 milligrams of cannabis were recovered from their possession.
-
-The three were arrested and handed over to the Kopay police station.. Police are conducting further investigations.
-
-◼️
-
-[Data](articles/ab56fc6e.json)
-
-[Extended Data](ext_articles/ab56fc6e.ext.json)
-
----
-
-### Suspect released on fire in Kandy
-
-*2024-06-05 14:17:36* · [`adalk`](https://www.ada.lk/breaking_news/මහනුවර-දී-සිසුවෙකුට-ගිනි-තැබූ-සැකකරු-බන්ධනාගාරයෙන්-පලායයි/11-410025) · `si`
-
-A suspect accused of burning a schoolgirl in Kandy escaped from a prison hospital in Pallekele. He was being treated there but managed to flee around 5 pm. The suspect, a resident of Kalaniya, Kandy, was the main suspect under the oppressive act. The victim was a student from a prominent Kandy school preparing for her GCE Ordinary Level exams. Police have launched operations to recapture him.
-
-🟩
-
-Prison officials have lodged a complaint with the Pallekele police that he had fled the prison officials while receiving treatment at the Prison Officers in the Pallekara Prison reserved.
-
-The complaint he had fled the prison officials at around 5pm yesterday (04) at 5.00 pm yesterday.
-
-The suspect is the main suspect in the burning of a schoolgirl in Kandy, a resident of Kalaniya, Kandy.
-
-At that time, he had been remanded under the oppressive act against the main suspect in the event.
-
-The student who studied at a leading school in Kandy and suffered from the GCE Ordinary Level examination at the O / L examination.
-
-All police have commenced operations in the arrest of the suspect again.
-
-◼️
-
-[Data](articles/31561b3d.json)
-
-[Extended Data](ext_articles/31561b3d.ext.json)
-
----
-
-### Dambulla LPL franchise gets new owner, to be named ‘Dambulla Sixers’
-
-*2024-06-05 14:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/99678/dambulla-lpl-franchise-gets-new-owner-to-be-named-dambulla-sixers) · `en`
-
-Sri Lanka Cricket (SLC) today announced that Sequoia Consultants, Inc., a leading civil engineering consulting firm based in Los Angeles, California, has come forward to take over the future of the LPL team, Dambulla.
-
-The team will be operated under DeSilva Holdings, specifically setup for this purpose.
-
-The majority stake in Sequoia Consultants is owned by Mr. Priyanga De Silva, a Chartered Civil Engineer, who is the CEO and President of Sequoia Consultants, Inc, said SLC in a statement.
-
-De Silva, a former first-class cricketer, played for Sri Lanka U19 in 1983 and currently represents the United States Masters Over 60 Cricket Team.
-
-He also volunteers his time as head coach of the not-for-profit Southern California Youth Cricket Association and owns several other businesses in the USA and Sri Lanka.
-
-“My desire to get engaged in cricket, especially cricket in Sri Lanka, prompted me to purchase the Dambulla Sixers team,” said De Silva.
-
-...
-
-[Data](articles/c771b032.json)
-
-[Extended Data](ext_articles/c771b032.ext.json)
-
----
-
-### The vacancies can be converted into a National Hospital - Director of Jaffna Hospital
-
-*2024-06-05 13:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/185353) · `ta`
-
-Jaffna Teaching Hospital aims to become Sri Lanka's fourth National Hospital, requiring additional staff including over 200 nurses and 100 doctors to meet national standards. Currently, it employs 2,150 staff with 1350 beds, 325 doctors, and 680 nurses. Despite filling most vacancies, shortages exist in specialized areas like cardiology, necessitating the Ministry of Health's support to enhance personnel.
-
-🟩
-
-Yall. Director of the Jaffna Teaching Hospital, T. Sathiyamoorthy said that the teaching hospital is needed to be transformed into a National Hospital.
-
-Although the Jaffna Teaching Hospital is being upgraded as the Fourth National Hospital in Sri Lanka, we have informed the Ministry of Health about its requirements.
-
-A total of 2,150 persons are on duty with 1350 beds, 325 doctors and 680 nurses. There is a need for more than 200 more nurses and 100 doctors to make the national hospital.
-
-When the increase is done, there is an opportunity to make it the National Hospital.
-
-As well as Jaffna. 320 medical experts are serving at the Teaching Hospital. Most of the medical vacuums are filled. There is also a shortage of some experts.
-
-Special categories are required at least one hundred doctors. There is a shortage of medical sector such as cardiovascular treatment and cardiovascular treatment. The Ministry of Health should make a full contribution to address the shortage of personnel.
-
-◼️
-
-[Data](articles/beae98e5.json)
-
-[Extended Data](ext_articles/beae98e5.ext.json)
 
 ---

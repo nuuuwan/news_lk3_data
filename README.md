@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-05 17:04:09**
+As of **2024-06-05 17:18:47**
 
 ## Newspaper Stats
 
-*Scraped **28,607** Articles*
+*Scraped **28,612** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,78 @@ newsfirstlk | 363
 islandlk | 1,542
 economynextcom | 1,627
 dailyftlk | 1,687
-adalk | 2,437
-adaderanalk | 3,249
+adalk | 2,439
+adaderanalk | 3,250
 tamilmirrorlk | 3,362
 virakesarilk | 4,400
 dailymirrorlk | 4,536
-adaderanasinhalalk | 4,595
+adaderanasinhalalk | 4,597
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,607 (100.0%) of 28,607 articles have been extended.
+28,607 (100.0%) of 28,612 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-05 (Wednesday)
+
+### ‘Sarvajana Balaya’ stage protest against proposed ‘Sri Lanka Electricity Bill’
+
+*2024-06-05 16:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/99683/sarvajana-balaya-stage-protest-against-proposed-sri-lanka-electricity-bill) · `en`
+
+The seven political parties representing the “Sarvajana Balaya” alliance, including the National Freedom Front (NFF), Mawbima Janatha Party (MJP), Pivithuru Hela Urumaya (PHU), the Communist Party of Sri Lanka, ‘Yuthukama’ organisation and the Independent MP’s Forum engaged in a peaceful protest today (05) near the Parliament Roundabout against the proposed ‘Sri Lanka Electricity Bill’.
+
+National Organizer of National Freedom Front (NFF) Jayantha Samaraweera, leader of the Mawbima Janatha Party (MJP) entrepreneur Dilith Jayaweera, leader of the Pivithuru Hela Urumaya (PHU) MP Udaya Gammanpila, the General Secretary of the Communist Party, Dr G. Weerasinghe, President of the ‘Yuthukama’ national organization, Gevindu Kumaratunga and Prof. Channa Jayasumana from the Independent MP’s Forum joined this protest.
+
+...
+
+[Data](articles/9095e0d4.json)
+
+---
+
+### කෙහෙළිය ගේ පෙත්සම ගැන අධිකරණය දුන් නියෝගය
+
+*2024-06-05 16:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197428) · `si`
+
+ප්‍රමිතියෙන් තොර ප්‍රතිදේශ එන්නත් මිලදීගැනීමේ සිද්ධිය සම්බන්ධයෙන් තමන්ව නඩු විභාගය අවසන් වනතුරු රක්ෂිත බන්ධනාගාරගත කිරීමට මාළිගාකන්ද මහෙස්ත්‍රාත් අධිකරණය ගෙන තිබෙන තීරණය බලරහිත කිරීමේ නියෝගයක් නිකුත් කරන මෙන් ඉල්ලා හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතා ඉදිරිපත් කළ රිට් පෙත්සම අද (05) අභියාචනාධිකරණය හමුවේ යළි සලකා බැලීය.
+
+අභියාචනාධිකරණයේ සභාපති විනිසුරු නිශ්ශංක බන්දුල කරුණාරත්න සහ ශෂී මහේන්ද්‍රන් යන මහත්වරුන්ගෙන් සමන්විත අභියාචනාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ මෙම පෙත්සම් විභාගය පැවැත්වෙයි.
+
+මෙහිදී පෙත්සම්කාර කෙහෙළිය රඹුක්වැල්ල මහතා වෙනුවෙන් පෙනී සිටි ජනාධිපති නීතිඥ ෆයිස් මුස්තාපා මහතා අධිකරණය හමුවේ කරුණු දක්වමින් තම සේවාදායකයාට එරෙහිව පොදු දේපොළ පනත යටතේ චෝදනා ඉදිරිපත් කිරීමට හැකියාවක් නොමැති බව පෙන්වා දුන්නේය.
+
+එසේ තිබියදී පෙත්සම්කරු දිගින් දිගටම පොදු දේපොළ පනත යටතේ රක්ෂිත බන්ධනාගාරයේ තබා ගැනීමට අධිකරණය විසින් නිකුත් කර තිබෙන නියෝගය සම්පූර්ණයෙන්ම නීතියට පටහැනි බවත් ජනාධිපති නීතිඥවරයා පැවසීය.
+
+...
+
+[Data](articles/e9bad797.json)
+
+---
+
+### පොහොට්ටුවෙන්, ශ්‍රීලනිපෙන් තවත් 3ක් සජිත් සමග එක්වෙති
+
+*2024-06-05 16:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197427) · `si`
+
+ශ්‍රී ලංකා පොදුජන පෙරමුණේ සහ ශ්‍රී ලංකා නිදහස් පක්ෂයේ සංවිධායකවරු කිහිපදෙනෙකු සමගි ජන බලවේගය හා එක්විය.
+
+ඒ අතර වයඹ පළාත් සභාවේ හිටපු ප්‍රධාන අමාත්‍ය ධර්මසිරි දසනායක මහතා සිටින අතර ඔහු වයඹ පළාත් මහඇමතිවරයා ලෙස හිටපු ජනාධිපති මෛත්‍රිපාල සිරිසේන මහතා විසින් පත් කරන ලදී.
+
+එසේම බිංගිරිය ආසනයේ ශ්‍රී ලංකා නිදහස් පක්‍ෂ සංවිධායක ධුරයේ ද ඒ මහතා කටයුතු කර තිබේ.
+
+එමෙන්ම ශ්‍රී ලංකා නිදහස් පක්ෂයේ කොළඹ දිස්ත්‍රික් සංවිධායක සමන්ත ප්‍රදීප් කුමාර මහතා ද විපක්ෂ නායක සජිත් ප්‍රේමදාස හමුවී සමගි ජන බලවේගය හා එක්විය.
+
+ඒ මහතා සමගි ජන බලවේගයට එක්වෙමින් අනතුරුව සමගි ජන බලවේගයේ කොළඹ දිස්ත්‍රික් සංවිධායක ධුරයට පත් කිරීමට විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා කටයුතු කරන ලදී.
+
+ඊට අමතරව ශ්‍රී ලංකා පොදුජන පෙරමුණේ පොතුවිල් ආසනයේ කැඳවුම්කරු, ශ්‍රී ලංකා නිදහස් පක්ෂයේ පොතුවිල් ආසනයේ හිටපු ප්‍රධාන සංවිධායක, පොතුවිල් ප්‍රාදේශීය සභාවේ හිටපු විපක්ෂ නායක අබ්දුල් මජීඩ් මහතා ද සමගි ජන බලවේගය හා එක්විය.
+
+ඒ මහතා සමගි ජන බලවේගයට එක්වෙමින් අනතුරුව පොතුවිල් ආසනයේ සම සංවිධායක ධුරයට පත් කිරීමට විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා කටයුතු කරන ලදී.
+
+◼️
+
+[Data](articles/70f94761.json)
+
+---
 
 ### Gunman attacks U.S. Embassy in  Lebanon
 
@@ -778,6 +834,20 @@ When other leaders put their racing shoes in difficult times, we took the govern
 
 ---
 
+### ශ්‍රී ලංකාවේ ණය බර තවත් වැඩිවෙයි
+
+*2024-06-05 13:27:54* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රී-ලංකාවේ-ණය-බර-තවත්-වැඩිවෙයි/11-410024) · `si`
+
+මුදල් අමාත්‍යාංශය කාර්තුමය වශයෙන් නිකුත් කරන ශ්‍රී ලංකාවේ ණය සම්බන්ධයෙන් වූ වාර්තාවට අදාලව 2023 දෙසැම්බර් 31 සිට 2024 මාරතු 31 දක්වා වූ කාලය තුළ ශ්‍රී ලංකාවේ ණය බර ඩොලර් බිලියන 4කට ආසන්න ප්‍රමාණයකින් වර්ධනය වි .තිබේ.
+
+එසේම මේ වන විට ශ්‍රී ලංකාවේ සමස්ත නය බර ඩොලර් බිලියන 100ද  ඉක්මවා ගොස් තිබේ. ශ්‍රි ලංකාවේ සමස්ත ණය ප්‍රමාණයෙන් වැඩි අගයක් දේශිය ණය වන අතර එම අගය ඩොලර් බිලියන 57.2කි. විදේශිය ණය ප්‍රමාණය ඩොලර් බිලියන 37.0කි. සහතික කරන ලද ණය ප්‍රමාණය ඩොලර් බිලියන 5.8කි.
+
+◼️
+
+[Data](articles/498b507f.json)
+
+---
+
 ### Sri Lanka printers at Drupa fair with German support
 
 *2024-06-05 13:27:00* · [`economynextcom`](https://economynext.com/sri-lanka-printers-at-drupa-fair-with-german-support-166386/) · `en`
@@ -857,6 +927,20 @@ Soldiers who were involved in security duties in the area immediately fired a fi
 [Data](articles/1c569efb.json)
 
 [Extended Data](ext_articles/1c569efb.ext.json)
+
+---
+
+### පොසොන් සතියට සුරා සැල් වැසෙයි
+
+*2024-06-05 13:08:11* · [`adalk`](https://www.ada.lk/breaking_news/පොසොන්-සතියට-සුරා-සැල්-වැසෙයි/11-410023) · `si`
+
+එළැඹෙන පොසොන් පොහොය නිමිත්තෙන් ජූනි මස 18 වනදා සිට 24 වනදා දක්වා කාලය තුළ ප්‍රාදේශීය ලේකම් කොට්ඨාශ කිහිපයක සුරාසැල් වසා තැබීමට තීරණය කර ඇති බව ශ්‍රී ලංකා සුරාබදු දෙපාර්තමේන්තුව නිවේදනයක් නිකුත් කරමින් සඳහන් කරයි.
+
+ඒ අනුව මධ්‍යම නුවරගම් පළාත, නැගෙනහිර නුවරගම් පළාත, සහ මිහින්තලේ යන ප්‍රාදේශීය ලේකම් කොට්ඨාශ තුනේ එම කාලසීමාව තුළ සියලුම සුරාසැල් වසා තබයි.
+
+◼️
+
+[Data](articles/dbe3eeb5.json)
 
 ---
 
@@ -2171,107 +2255,5 @@ Sivakanandan Sindhu, aged 27, from the eighth region of Punguduthivu, Punguduthi
 [Data](articles/60c62c25.json)
 
 [Extended Data](ext_articles/60c62c25.ext.json)
-
----
-
-### President raises concerns with NATA over ‘Happy Hour’
-
-*2024-06-05 08:37:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/President-raises-concerns-with-NATA-over-Happy-Hour/108-284136) · `en`
-
-Colombo, June 6 (Daily Mirror) - President Ranil Wickremesinghe has raised concerns with the National Authority on Tobacco and Alcohol (NATA) yesterday about the latter’s moves to enforce law against scrapping hotels’ ‘Happy Hour’, which in turn could result in the country’s growing tourism industry, the Daily Mirror learns.
-
-A controversial communiqué issued by the NATA last week raised eyebrows of many in the tourism and hospitality industry including its stakeholders like the hoteliers and restaurateurs, tourism authorities as well as the law enforcement agencies like the Excise Department, who spoke not in favour of the move.
-
-The Daily Mirror with its headlines, ‘Industry stakeholders up in arms against moves to scrap ‘Happy Hour’ reported on Saturday how the sudden and abrupt decision of the NATA to enforce its Section 37(2) of the NATA Act No.27 of 2006 (Amended) would discourage tourism sector and consumers.
-
-...
-
-[Data](articles/66a19d7b.json)
-
-[Extended Data](ext_articles/66a19d7b.ext.json)
-
----
-
-### Independence party organizer to go to rich
-
-*2024-06-05 08:17:30* · [`adalk`](https://www.ada.lk/breaking_news/නිදහස්-පක්ෂයේ-කොළඹ-සංවිධායක-සජබයට-යයි/11-410012) · `si`
-
-A former senior municipal councilor from the Sri Lanka Freedom Party was appointed as the Colombo District Organizer of the Independence Party during a meeting at the Opposition Leader's Office.
-
-🟩
-
-The former senior Municipal Councilor, a former senior municipal member of the Sri Lanka Freedom Party (4th of Sri Lanka Fruit) was held on the fourth forest.
-
-At the meeting held at the Opposition Leader's Office, he was appointed as the Colombo District Organizer of the United States.
-
-◼️
-
-[Data](articles/1668310d.json)
-
-[Extended Data](ext_articles/1668310d.ext.json)
-
----
-
-### Sri Lankans fighting in Russia-Ukraine war face lies, hardships
-
-*2024-06-05 08:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankans-fighting-in-Russia-Ukraine-war-face-lies-hardships/108-284125) · `en`
-
-Colombo, June 5 (Daily Mirror) - In the midst of the increased number of calls from ex-Sri Lankan soldiers who joined the Russian military to fight against Ukraine, a Sri Lankan delegation headed by State Minister of Foreign Affairs Tharaka Balasuriya will head to Russia later this month to seek repatriation of them under a plan to be implemented in stages, the Daily Mirror learns.
-
-The delegation comprising former Sri Lankan ambassador to Russia Dr.Saman Weerasinghe, Defence Secretary Kamal Gunaratne, MPs Dayasiri Jayasekara and Gamini Waleboda will meet with the Russian defence authorities in Moscow on June 25, 26 and 27.
-
-A top source told Daily Mirror that the Sri Lankan authorities receive numerous telephone calls from those soldiers in the war front seeking to return to the country. It is learnt that these soldiers have been duped into believing that they will get attractive salaries and other perks.
-
-...
-
-[Data](articles/e693e751.json)
-
-[Extended Data](ext_articles/e693e751.ext.json)
-
----
-
-### Sri Lankans fighting in Russia-Ukraine war face lies, hardships
-
-*2024-06-05 08:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Sri-Lankans-fighting-in-Russia-Ukraine-war-face-lies-hardships/155-284125) · `en`
-
-Colombo, June 5 (Daily Mirror) - In the midst of the increased number of calls from ex-Sri Lankan soldiers who joined the Russian military to fight against Ukraine, a Sri Lankan delegation headed by State Minister of Foreign Affairs Tharaka Balasuriya will head to Russia later this month to seek repatriation of them under a plan to be implemented in stages, the Daily Mirror learns.
-
-The delegation comprising former Sri Lankan ambassador to Russia Dr.Saman Weerasinghe, Defence Secretary Kamal Gunaratne, MPs Dayasiri Jayasekara and Gamini Waleboda will meet with the Russian defence authorities in Moscow on June 25, 26 and 27.
-
-A top source told Daily Mirror that the Sri Lankan authorities receive numerous telephone calls from those soldiers in the war front seeking to return to the country. It is learnt that these soldiers have been duped into believing that they will get attractive salaries and other perks.
-
-...
-
-[Data](articles/e7bf683c.json)
-
-[Extended Data](ext_articles/e7bf683c.ext.json)
-
----
-
-### Water level down the Kelani, Kalu and Attanagalu Oya
-
-*2024-06-05 08:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197405) · `si`
-
-Water levels in Kelani, Kalu, and Attanagalu Oyas are decreasing. Lower areas of Kelaniya River Basin, including Kaduwela, Biyagama, Watiga, Wattala, and Colombo, also see reduced levels. Despite this, landslide risks persist. The Disaster Management Center reports 161,000 affected due to adverse weather, with the disaster situation at level 21.
-
-🟩
-
-The event is already underway at the Kelani River, Kalu Ganga and Attanagaluoya.
-
-Due to this, the water level of the area is expected to be gradually declining today.
-
-Meanwhile, she added that the water levels of Kaduwela, Biyagama, Watiga, Wattala and Colombo areas have been reduced to the lower areas of Kelaniya River Basin.
-
-Senior Geologist Wasantha Senadheera says that landslide risk is still available.
-
-Meanwhile, the Disaster Management Center (DMC) stated that 161,000 people affected due to adverse weather conditions have affected the island.
-
-Its director Pradeep Kodippili stated that the disaster situation has risen to 21.
-
-◼️
-
-[Data](articles/03a358c9.json)
-
-[Extended Data](ext_articles/03a358c9.ext.json)
 
 ---

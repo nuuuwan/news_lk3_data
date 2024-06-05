@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-05 23:04:01**
+As of **2024-06-05 23:18:56**
 
 ## Newspaper Stats
 
-*Scraped **28,659** Articles*
+*Scraped **28,661** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,33 +20,81 @@ adaderanalk | 3,255
 tamilmirrorlk | 3,367
 virakesarilk | 4,406
 dailymirrorlk | 4,546
-adaderanasinhalalk | 4,604
+adaderanasinhalalk | 4,606
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,658 (100.0%) of 28,659 articles have been extended.
+28,659 (100.0%) of 28,661 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-05 (Wednesday)
 
-### மோடியின் பதவிப் பிரமாண நிகழ்வில் ரணில்
+### ඉන්දියාවට සුපිරි ජයක්
+
+*2024-06-05 22:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197437) · `si`
+
+අයර්ලන්ත කණ්ඩායමට එරෙහිව අද පැවති තරගය කඩුලු කින් ජයගැනීමට ප්‍රබල ඉන්දීය කණ්ඩායම සමත්විය.
+
+එහිදී අගනා ඉනිමක් ක්‍රීඩා කළ නායක රෝහිත් ශර්මා ඉන්දියාව වෙනුවෙන් ලකුණු 52ක් රැස්කරගත්තේය.
+
+පන්දු 37කදී ගොඩනැගූ ඔහුගේ ඉනිමට හයේ පහර 3ක් සහ හතරේ පහර 4ක් ඇතුළත් විය.
+
+පන්දු 26 කදී හයේ පහර 2ක් සහ හතරේ පහර 3ක් සමග ඔහු සිය ඉනිම ගොඩනැගුවේය.
+
+ප්‍රථමයෙන් පන්දුවට පහරදුන් අයර්ලන්ත කණ්ඩායම පන්දුවාර 16කදී සියලුදෙනා දැවී රැස්කරගත්තේ ලකුණු 96ක් පමණි.
+
+◼️
+
+[Data](articles/d7264ecd.json)
+
+---
+
+### මිලියන 28ක කේරළ ගංජා සමග දෙදෙනෙක් අත්අඩංගුවට
+
+*2024-06-05 22:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197436) · `si`
+
+කේරළ ගංජා තොගයක් සමග සැකකරුවන් දෙදෙනෙකු නාවික හමුදාව විසින් උතුරු මුහුදේදී අත්අඩංගුවට ගෙන තිබේ.
+
+මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ වයස අවුරුදු 34 සහ 40 හැවිරිදි වියේ පසුවන යාපනය ප්‍රදේශයේ පදිංචිකරුවන් දෙදෙනෙකි.
+
+එහිදී ඔවුන් සන්තකයේ තිබී කේරළ ගංජා කිලෝග්‍රෑම් 70කට අධිකාර ප්‍රමාණයක් සොයාගෙන ඇත.
+
+එහි වටිනාකම රුපියල් මිලියන 28කට ආසන්න බව නාවික හමුදාව පවසයි.
+
+ඩිංගි යාත්‍රාවකින් එම කේරළ ගංජා ප්‍රවාහනය කරමින් තිබියදී මෙලෙස නාවික හමුදාව ඔවුන් අත්අඩංගුවට ගෙන ඇත.
+
+අත්අඩංගුවට ගත් සැකකරුවන් සහ නාවික හමුදාව සිය භාරයට ගෙන තිබූ කේරළ ගංජා සහ ඩිංගි යාත්‍රාව වැඩිදුර පරීක්ෂණ කටයුතු සඳහා මරදන්කේනි පොලිස් ස්ථානය වෙත භාරදී ඇත.
+
+◼️
+
+[Data](articles/77fa8628.json)
+
+---
+
+### Ranil at Modi's swearing -in
 
 *2024-06-05 22:37:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மோடியின்-பதவிப்-பிரமாண-நிகழ்வில்-ரணில்/175-338495) · `ta`
 
-நரேந்திர மோடியின் பதவி பிரமாண நிகழ்வில் ஜனாதிபதி ரணில் விக்ரமசிங்க பங்கேற்க இணக்கம் தெரிவித்துள்ளார்.
+President Ranil Wickremesinghe will attend Narendra Modi's third term swearing-in ceremony, accepting India's invitation.
 
-நடைபெற்று முடிவடைந்த தேர்தலில் வெற்றியீட்டி மூன்றாவது தடவையாக இந்திய பிரதமராக பதவி பிரமாணம் செய்துக்கொள்ளவுள்ள நரேந்திர மோடிக்கு, ஜனாதிபதி ரணில் விக்ரமசிங்க தொலைபேசி ஊடாக வாழ்த்து தெரிவித்துள்ளார்.
+🟩
 
-இதன்போது, தனது பதவி பிரமாண நிகழ்விற்கு வருமாறு, ஜனாதிபதி ரணில் விக்ரமசிங்கவிற்கு அழைப்பு விடுத்துள்ளார்.
+President Ranil Wickremesinghe has agreed to participate in Narendra Modi's swearing -in ceremony.
 
-இதையடுத்து இந்திய பிரதமர் நரேந்திர மோடியின் அழைப்பை, ஜனாதிபதி ரணில் விக்ரமசிங்க ஏற்றுக் கொண்டதாக ஜனாதிபதி ஊடகப் பிரிவு தெரிவிக்கின்றது. R
+President Ranil Wickremesinghe congratulates Narendra Modi, who will be sworn in as Prime Minister for the third time after winning the election.
+
+At this time, President Ranil Wickremesinghe has called on his office to attend the event.
+
+President Ranil Wickremesinghe has accepted the invitation of Indian Prime Minister Narendra Modi, according to the Presidential Media Unit. Remble
 
 ◼️
 
 [Data](articles/1defc763.json)
+
+[Extended Data](ext_articles/1defc763.ext.json)
 
 ---
 
@@ -2223,55 +2271,5 @@ The baby was rescued with the help of neighbors and admitted to the Kegalle Teac
 [Data](articles/31649366.json)
 
 [Extended Data](ext_articles/31649366.ext.json)
-
----
-
-### Indian couple drown at Kirinda Beach
-
-*2024-06-05 11:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/99675/indian-couple-drown-at-kirinda-beach) · `en`
-
-A foreign national couple reportedly drowned while sea bathing at the Kirinda Beach.
-
-Police reported that the two individuals were rescued while drowning after being dragged away by strong waves, but passed away upon admission to the hospital.
-
-The deceased are identified as a 35-year-old male and a 33-year-old female who are Indian nationals.
-
-Preliminary investigations revealed that the victims were a married couple, and the incident had occurred during a visit to Sri Lanka with their family.
-
-The bodies of the victims have been placed at Debarawewa Hospital, and Kirinda Police have launched further investigations into the incident.
-
-◼️
-
-[Data](articles/3886e031.json)
-
-[Extended Data](ext_articles/3886e031.ext.json)
-
----
-
-### The government acknowledges the Supreme Court amendments - Kanchanan
-
-*2024-06-05 11:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197415) · `si`
-
-The government accepts all Supreme Court amendments to the Power and Energy Bill, as announced by Minister Kanchana Wijesekara. The Supreme Court advised against certain clauses in the bill, suggesting they conflict with the constitution. These amendments will be passed through a simple parliamentary majority.
-
-🟩
-
-The government has agreed to accept all the amendments submitted by the Supreme Court to the Power and Energy Bill, says Power and Energy Minister Kanchana Wijesekara.
-
-The Minister said that the House was informed of the PSC yesterday (04).
-
-He also informed parliament that the government would not take action to submit other amendments to the Bill.
-
-The Speaker presented the Supreme Court verdict against the Power and Petition against the Power and Power Power and Power and Power.
-
-The Supreme Court has informed Parliament that several clauses in the Power and Energy Bill should not be acquired by the constitution.
-
-The Speaker said that it would be passed in a simple majority of parliament if the following clauses were amended.
-
-◼️
-
-[Data](articles/b9876043.json)
-
-[Extended Data](ext_articles/b9876043.ext.json)
 
 ---

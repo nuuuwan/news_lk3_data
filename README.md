@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-05 22:07:06**
+As of **2024-06-05 22:18:58**
 
 ## Newspaper Stats
 
-*Scraped **28,649** Articles*
+*Scraped **28,652** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,52 @@ newsfirstlk | 363
 islandlk | 1,542
 economynextcom | 1,631
 dailyftlk | 1,687
-adalk | 2,446
-adaderanalk | 3,253
+adalk | 2,447
+adaderanalk | 3,254
 tamilmirrorlk | 3,366
 virakesarilk | 4,406
 dailymirrorlk | 4,542
-adaderanasinhalalk | 4,603
+adaderanasinhalalk | 4,604
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,649 (100.0%) of 28,649 articles have been extended.
+28,649 (100.0%) of 28,652 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-05 (Wednesday)
+
+### UN agencies, INGOs pledge to further assist flood victims in Sri Lanka
+
+*2024-06-05 21:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/99688/un-agencies-ingos-pledge-to-further-assist-flood-victims-in-sri-lanka) · `en`
+
+State Minister of Defence Premitha Bandara Tennakoon chaired a meeting today (05) with representatives of UN agencies, international non-governmental organizations (INGOs) and NGOs to brief them on the ongoing rescue and relief operations to assist adverse weather-affected communities.
+
+The state minister presented the UN, INGO and NGO officials with the latest development in weather and progress of the ongoing relief operations carried out by disaster management authorities through District and Divisional Secretariats in coordination with tri-forces, Sri Lanka Police, Civil Security Department and other state officials.
+
+He highly appreciated the assistance and cooperation that was readily facilitated by the UN agencies, INGOs and NGOs for providing relief to flood victims and he said that more was needed to be done in post-disaster repair and rebuilding stages to restore civilian life affected by this disaster.
+
+...
+
+[Data](articles/db1f6337.json)
+
+---
+
+### ඉන්දියාවට 97ක ඉලක්කයක්
+
+*2024-06-05 21:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197435) · `si`
+
+විස්සයි විස්ස ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ දැන් පැවැත්වෙන තරගයේ ඉන්දීය කණ්ඩායමට එරෙහිව ප්‍රථමයෙන් පන්දුවට පහරදුන් අයර්ලන්ත කණ්ඩායම සියලුදෙනා දැවී රැස්කරගත්තේ ලකුණු 96ක් පමණි.
+
+පන්දු යැවීමේදී හර්දික් පාන්ඩ්‍යා ලකුණු 27කා කඩුලු 3ක් දවාගැනීමට සමත්විය.
+
+◼️
+
+[Data](articles/5ddc5daa.json)
+
+---
 
 ### Explanatory
 
@@ -489,6 +519,24 @@ For New Zealand, Cyprus Republic, the Maldives, the Maldives, the Republic of Si
 [Data](articles/68bd89e2.json)
 
 [Extended Data](ext_articles/68bd89e2.ext.json)
+
+---
+
+### කටුනායක සිටි අලුත් ජාවාරම්කරු
+
+*2024-06-05 17:53:21* · [`adalk`](https://www.ada.lk/breaking_news/කටුනායක-සිටි-අලුත්-ජාවාරම්කරු/11-410031) · `si`
+
+කටුනායක ගුවන් තොටුපොළ තුළ ඇති රථ ගාල් තුළ රැදී සිටිමින් , ගුවන් තොටුපොළ වෙත පැමිණෙන ගුවන් මගීන් රැගෙන එන විදේශීය මත්පැන් බෝතල් අඩු මිළට ලබා  ගනිමින් සිටි ජාවාරම්කරුවෙකු , ඔහු විසින් මිළට ගත් රුපියල් ලක්ෂ 15 ක් පමණ වටිනා , මත්පැන් බෝතල් 107 ක් ද සමග 05/05 දින උදෑසන අපරාධ පරීක්ෂණ දෙපාර්තමේන්තු නිලධාරීන් පිරිසක් විසින් අත් අඩංගුවට ගෙන තිබේ.
+
+මොහු 40 හැවිරිදි කටුනායක ප්‍රදේශයේ පදිංචිකරුවෙකි .මෙම ජාවාරම්කරු මෙම විදේශීය මත්පැන් බෝතල් මෙසේ ලබා ගෙන වෙනත් පිට පළාත් වල හෝටල් , රෙස්ටුරන්ට් වැනි ආයතන වෙත වැඩි මිළකට අලෙවි කිරීම සිදු කර ගෙන ගොස් තිබේ .
+
+මෙසේ අත් අඩංගුවට ගත් විදේශීය නිෂ්පාදිත මත්පැන් බෝතල්  අතර ලේබල් - 5 , රෙඩ් ලේබල් , ජැක් ඩැනියෙල් සහ ටීචර්ස් යන වර්ග වලට අයත් විස්කි බෝතල් වැඩි වශයෙන් තිබුණි .
+
+මෙම  ජාවාරම්කරු සහ ඔහු සන්තකයේ තිබූ විදේශීය මත්පැන් බෝතල් තොගය 05/05 දින මීගමුව මහේස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමට නියමිතය .
+
+◼️
+
+[Data](articles/4569dbc6.json)
 
 ---
 
@@ -2217,85 +2265,5 @@ The Minister said steps have been taken to estimate the damages caused to the ho
 [Data](articles/ea192ae1.json)
 
 [Extended Data](ext_articles/ea192ae1.ext.json)
-
----
-
-### Hela City Ravadder
-
-*2024-06-05 11:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197413) · `si`
-
-Ravindra Randeniya celebrated his 79th birthday and 50 years in film, honored by figures like Bandula Gunawardena and Sajith Premadasa. Known for roles in films like "Susanna" and "Sathuta", he won Best Actor awards in 1984, 1985, and 1989. Born in Dalugama, Kelaniya, he studied at St. Francis College and acted in plays before joining Hela Cinema, where he played beloved and heroic characters.
-
-🟩
-
-The 79th birthday of Ravindra Randeniya, Ravindra Ravindra, has been played today.
-
-Mr. Bandula Gunawardena and Opposition Leader Sajith Premadasa also joined the government to mark the 50 years of his film.
-
-Special Suspect Small
-
-Party is a special event named 'Ravi - film' Ravi - film 'Ravi and a half century self-language "at the Bandaranaike Memorial International Conference Hall today (5).
-
-In 1972, Mr. Ravindra Randeniya, a very popular layer of the film, was more populated in 1972 due to the eyes of Lester James Peiris in 1972.
-
-He was awarded the best actor in the University awards for several years, 1984 (hunt), 1985 (Maya), 1989.
-
-Born in the Dalugama area in Kelaniya, Ravindra Randeniya educated at St. Francis College, Dalugama.
-
-The favorite hobby of Bonipus Perera, which was played in the platform of St. Benedict's Vidyalaya, found the manulle in the platform of St. Benedict's College.
-
-...
-
-[Data](articles/24ae4cd5.json)
-
-[Extended Data](ext_articles/24ae4cd5.ext.json)
-
----
-
-### Notification in connection with the elasticity application
-
-*2024-06-05 11:22:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீள்-திருத்த-விண்ணப்பம்-தொடர்பில்-அறிவித்தல்/175-338473) · `ta`
-
-Applicants for GCE A/L re-examination must submit their applications online via the Department of Examinations' website (doenets.lk or onlineExams.gov.lk/eic) by June 19. This applies to both school and private candidates.
-
-🟩
-
-The Department of Examinations has announced that it can apply for re -examination of the GCE Advanced Level Examination.
-
-The department has asked for applications only through the Internet basic system.
-
-School and private applicants must fill in their applications by themselves, and the last date for accepting applications is June 19.
-
-Examiners can apply through the official website of the Department of Examinations, www.doenets.lk or www.onlineExams.gov.lk/eic.
-
-◼️
-
-[Data](articles/87cc8850.json)
-
-[Extended Data](ext_articles/87cc8850.ext.json)
-
----
-
-### Sri Lanka’s COPF ends probe into controversial IVS-VFS Global visa deal
-
-*2024-06-05 11:17:00* · [`economynextcom`](https://economynext.com/sri-lankas-copf-ends-probe-into-controversial-ivs-vfs-global-visa-deal-166348/) · `en`
-
-ECONOMYNEXT – Sri Lanka parliament’s Committee on Public Finance has concluded its examination of a visa deal with IVS-GBS-VFS Global, a private company, its chairman Harsha de Silva said.
-
-Officials of the Public Security Ministry who had not come to an earlier meeting was present on June 04, he said.
-
-“IVS-GBS VFS visa matter was concluded,” de Silva said in an x.com message. “Our report will be presented at the earliest. As I have maintained throughout, I shall not discuss substantive issues until then.
-
-The VFS Deal led to hikes if visa fees and additional charges, including undisclosed fees being charged from tourists.
-
-The website is also complex and puts off some visitors, compared to the user-friendly website operated by the Department of Immigration earlier, the tourist industry has said.
-
-Following protests by Tourism Minister Harin Fernando, a 50 dollar visa has been re-introduced. (Colombo/June05/2024)
-
-◼️
-
-[Data](articles/6755725a.json)
-
-[Extended Data](ext_articles/6755725a.ext.json)
 
 ---

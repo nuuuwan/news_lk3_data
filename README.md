@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-05 15:19:06**
+As of **2024-06-05 15:34:22**
 
 ## Newspaper Stats
 
-*Scraped **28,590** Articles*
+*Scraped **28,591** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,542
 economynextcom | 1,624
 dailyftlk | 1,687
 adalk | 2,436
-adaderanalk | 3,245
+adaderanalk | 3,246
 tamilmirrorlk | 3,361
 virakesarilk | 4,397
 dailymirrorlk | 4,534
@@ -26,27 +26,51 @@ adaderanasinhalalk | 4,592
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,589 (100.0%) of 28,590 articles have been extended.
+28,590 (100.0%) of 28,591 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-05 (Wednesday)
 
-### යුවලක් ගැරඩි ඇල්ලෙන් පනී
+### Sri Lanka to establish 10 new botanical gardens across the country
+
+*2024-06-05 15:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/99679/sri-lanka-to-establish-10-new-botanical-gardens-across-the-country) · `en`
+
+Prime Minister Dinesh Gunawardena says that the government has planned to establish ten botanical gardens based on the climate zones in the country.
+
+Delivering a statement in Parliament today (05), the Prime Minister revealed plans to establish the projects in areas including Galle, Vavuniya, Ampara, Polonnaruwa, and Deniyaya.
+
+He stated that they have currently planned a Mangrove Botanic Garden at Akmeemana, Galle as well as botanic gardens in Vavuniya, Ampara, Polonnaruwa and Deniyaya.
+
+“We are working with experienced professionals in this field who possess sound knowledge on the subject. We are working on a way to enhance the benefits of this initiative not only for the residents of the areas, but also people across the country, including school children,” the PM said.
+
+◼️
+
+[Data](articles/9bcf42b1.json)
+
+---
+
+### A couple jumps out of Garrand Falls
 
 *2024-06-05 14:53:11* · [`adalk`](https://www.ada.lk/breaking_news/යුවලක්-ගැරඩි-ඇල්ලෙන්-පනී/11-410026) · `si`
 
-කොත්මලේ ගැරඩි ඇල්ලෙන් පහලට පැන සිය දිවි හානි කර ගැනිමට තැත් කරන ලද තරුණ යුවලක් බේරා ගැනිමට එම ප්‍රදේශයේ පිරිසක් පියවර ගෙන ඇත.
+A young couple fell from Kotmale Garmalai Falls, sparking a rescue effort by locals. An 18-year-old girl also attempted suicide at Kotmale Garmalagiri but was saved. Both couples were involved in disputes. The injured are receiving treatment at local hospitals.
 
-මෙම තත්වයන් පිලිබදව කරන ලද විමසිමකදි අදහස් දැක්වු කොත්මලේ පොලිසියේ නිලධාරියකු පවසන ලද්දේ 05වන දින පුස්සැල්ලාව ප්‍රොටෙක් වතුයායේ වයස අවුරුදු 18ක තරුණ යුවලක් සිය දිවි හානි කර ගැනිම සදහා කොත්මලේ ගැරඩි ඇල්ලෙන් පහලට පැන ඇති බවත්ය.
+🟩
 
-එම අවස්ථාවේදි එය දුටු ප්‍රදේශවාසින් පිරිසක් විසින් මෙම තරුණ යුවල බේරා ගෙන ඇති බවත් මෙම දෙදෙනා අතර පෙම් සබදතාවයක් මත හට ගෙන ඇති ආරවුලක් මත මෙම දෙදෙනා මෙසේ සිය දිවි හානි කර ගැනිමට තැත් කර ඇති බවට මුලීක පරික්ෂවලින් හෙලිව ඇති බවත්ය.
+A group of people in the area had taken steps to rescue a young couple at Kotmale Garmalai Falls.
 
-මෙසේ බේරා ගත් තරුණ යුවල ප්‍රථිකාර සදහා පුස්සල්ලාව ප්‍රාදේශීය රෝහලට ඇතුලත් කිරිමෙන් පසු වැඩි දුර ප්‍රථිකාර සදහා ගම්පල මහ රෝහල වෙත මාරු කර යැවිමට පියවර ගෙන ඇති බවත් මේ පිලිබදව කොත්මලේ පොලිසිය වැඩි දුර පරික්ෂන මෙහෙයවන බවද එම නිලධාරියා වැඩි දුරටත් පැවසිය.
+A Kotmale police officer commented on the 5th on 05rd, a 18-year-old girl in the 5 year old girl in Kotmale has fallen to the Kotmale Garmalagiri Fire to commit suicide.
+
+At that time, a group of people had rescued the young couple and that the two had been devoted to a dispute over the two of the two.
+
+The official added that steps have been taken to the Pusslewa Regional Hospital for the treatment of the Young couple and the patriar should be transferred to the Gampola General Hospital.
 
 ◼️
 
 [Data](articles/7e78a85d.json)
+
+[Extended Data](ext_articles/7e78a85d.ext.json)
 
 ---
 
@@ -2233,23 +2257,5 @@ A report in an English daily recently stated that the UN human rights office has
 [Data](articles/5f3d2f08.json)
 
 [Extended Data](ext_articles/5f3d2f08.ext.json)
-
----
-
-### Economic Transformation Bill: Finally, an opportunity to do things differently
-
-*2024-06-05 05:32:21* · [`dailyftlk`](https://www.ft.lk/columns/Economic-Transformation-Bill-Finally-an-opportunity-to-do-things-differently/4-762627) · `en`
-
-The challenge for the major political parties is to accept the concept and then work out any areas of contention, and areas of improvements
-
-The concept of a legislated economic plan that incorporates economic parameters (or targets) is an opportunity to end 76 years of insanity. The challenge for the major political parties is to accept the concept and then work out any areas of contention, and areas of improvements. Opposing the concept is insanity and a disservice to future generations.
-
-The Economic Transformation Bill is expected to provide for the National Policy on Economic Transformation and for the establishment of the Economic Commission of Sri Lanka, Investment Zones, Office for International Trade, National Productivity Commission, and Sri Lanka Institute of Economics and International Trade, and for the repeal of the Board of Investment of Sri Lanka Law No.4 of 1978 and other matters connected.
-
-...
-
-[Data](articles/93b9b910.json)
-
-[Extended Data](ext_articles/93b9b910.ext.json)
 
 ---

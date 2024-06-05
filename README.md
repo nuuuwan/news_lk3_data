@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-06 00:18:58**
+As of **2024-06-06 00:34:09**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,606
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,671 (100.0%) of 28,676 articles have been extended.
+28,676 (100.0%) of 28,676 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,6 +48,8 @@ China’s strengths in the Arab world are its economic heft, willingness to take
 
 [Data](articles/679b1443.json)
 
+[Extended Data](ext_articles/679b1443.ext.json)
+
 ---
 
 ### Lifestyles of politicians and the life of an artist
@@ -66,6 +68,8 @@ A politician’s ‘life’ is often hectic. It has to be; because he has to ser
 
 [Data](articles/82be0299.json)
 
+[Extended Data](ext_articles/82be0299.ext.json)
+
 ---
 
 ### Sports for peace and development
@@ -81,6 +85,8 @@ In Sri Lanka, cricket is not only popular but an obsession among the people espe
 ...
 
 [Data](articles/8ad800e2.json)
+
+[Extended Data](ext_articles/8ad800e2.ext.json)
 
 ---
 
@@ -104,6 +110,8 @@ The period before commencing A/L classes often leads to a decrease in students' 
 
 [Data](articles/d17713dc.json)
 
+[Extended Data](ext_articles/d17713dc.ext.json)
+
 ---
 
 ### Ali Sabry discusses remittance limits for Sri Lankan workers in Maldives
@@ -119,6 +127,8 @@ The discussions were part of the four-day official visit undertaken by Zameer wh
 ...
 
 [Data](articles/6f764312.json)
+
+[Extended Data](ext_articles/6f764312.ext.json)
 
 ---
 

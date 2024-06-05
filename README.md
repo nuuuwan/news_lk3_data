@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-05 16:05:52**
+As of **2024-06-05 16:18:53**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,594
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,591 (100.0%) of 28,600 articles have been extended.
+28,600 (100.0%) of 28,600 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,47 +50,63 @@ He said that the government intends to present the amendment to the Parliament t
 
 [Data](articles/67051d16.json)
 
+[Extended Data](ext_articles/67051d16.ext.json)
+
 ---
 
-### හිත ලොකු වග පුංචි චරිත්මාගේ වීර ක්‍රියාව
+### The heroic action of the great responsibility of the Low Little Charithma
 
 *2024-06-05 15:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197425) · `si`
 
-පාදුක්ක වග ඉරිදාපොළ ප්‍රදේශයේදී මහා ගංවතුරේ පිහිනා ගොස් ජීවිත දෙකක් බේරාගත් පාසල් සිසුවියක් ගැන අපවෙත තොරතුරු වාර්තාවිය.
+In the face of disaster, Charithma Jandipi Maetippe, a brave 17-year-old from Padukka Siri Piyarathana College, demonstrated true heroism. Amidst the chaos of flooding in the IriKapalla area, Charithma risked her own safety to rescue two individuals trapped in their home. Using a rope, she helped them ascend to safety, showcasing selflessness and courage in the face of adversity. Her actions not only saved lives but also highlighted the spirit of resilience and humanity amidst natural disasters.
 
-17 හැවිරිදි වියේ පසුවන චරිත්මා ජිනේන්ද්‍රි මාඉටිපේ නමැති ඇය පාදුක්ක සිරි පියරතන විදුහලේ ඉගෙනුම ලබයි.
+🟩
 
-පසුගියදා ඇදහැළුණු මහා වර්ෂාව සමග එම වග ඉරිදාපොළ ආසන්නයෙන් ගලා බසිනා වක් ඔයේ ප්‍රචණ්ඩ සැඩ පහර එක්වරම ඉහළගොස් තිබුණි.
+The Padukka is a schoolgirl in the IriKapalla area in Iriydapalla and two lives have been reported to be taken over.
 
-මධ්‍යම රාත්‍රියේ එක්වරම ඇතිවූ මෙම ගංවතුර තත්ත්වය සමග බොහෝ පිරිස් සියල්ල අත්හැර දමා දිවගොස් උස් ස්ථානවල රැඳී සිටිමින් දිවි බේරාගෙන තිබුණි.
+The 17-year-old Charithma Jandipi Maetippe, who is 17, is studying at Padukka Siri Piyarathana College.
 
-ඒ සුළු මොහොතකින් අඩි 10ක පමණ උසකින් ගංවතුර තත්ත්වය වර්ධනය වීම හේතුවෙනි.
+The violent shot of the Basina flows near Siripola has increased near Siripola.
 
-චරිත්මාගේ මිත්තණිය සහ මුත්තණුවන් ද නිවස පසුපස පිහිටි කන්දකට දිවගොස් දිවි බේරාගෙන තිබුණි.
+With the flooding in midnight, many people abandoned everything and stayed in high places.
 
-එම අවස්ථාවේ චරිත්මා නිවසේ ජනේලයකින් පිටතට පැමිණෙමින් සිටින විටදී තමන්ව බේරාගන්න ලෙසට කෑ ගසන ශබ්දයක් ඇසී තිබුණි.
+It is due to the growth of 10 feet high in a minor moment.
 
-එහිදී ඈතින් ඇසුණු කෑ ගැසීමට අනුව වහාම ක්‍රියාත්මක වූ චරිත්මා ආසන්නයේ පිහිටි ගොඩනැගිල්ලක් වෙත ගොස් ප්ලාස්ටික් රැහැනක් ගෙනවිත් ඔවුන් සිටි දෙසට පිහිනා ගොස් තිබුණි.
+Charithma's grandmother and the top were also survived to a mountain of the house.
+
+When the charmith was coming out of the house of the House, he had heard a sound sound to save them.
+
+The immediate charic, which immediately opened, and brought a plastic rank and was swimming towards the City.
+
+The couple who shouted for help were then taken to the upper necklace of a three storied building with the help of the rope.
 
 ...
 
 [Data](articles/3ab8ff91.json)
 
+[Extended Data](ext_articles/3ab8ff91.ext.json)
+
 ---
 
-### பிரதமர் மோடி இராஜினாமா
+### Prime Minister Modi resigns
 
 *2024-06-05 15:33:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரதமர்-மோடி-இராஜினாமா/175-338483) · `ta`
 
-நரேந்திர மோடி பிரதமர் பதவியை இராஜினாமா செய்தார். ஜனாதிபதி திரவுபதி முர்முவை சந்தித்து மோடி இராஜினாமா கடிதத்தை அளித்தார். மோடி அமைச்சரவையின் இராஜினாமா கடிதத்தை ஜனாதிபதியிடம் அளித்துவிட்டு, ஆட்சி அமைக்க உரிமை கோர உள்ளதாக தகவல் வெளியாகியுள்ளது. பிரதமர் மோடியுடன் ராஜ்நாத் சிங், அமித் ஷா உள்ளிட்டோரும் குடியரசுத் தலைவர் மாளிகைக்கு சென்றுள்ளனர்.
+Narendra Modi resigned as Prime Minister but was reappointed after meeting with President Draupadi Murmu. His resignation was accepted, and he will serve another term with the backing of coalition parties, set to be sworn in on June 8.
 
-பிரதமர் மோடி தலைமையிலான ஒன்றிய அமைச்சரவையின் இராஜினாமாவை குடியரசுத் தலைவர் திரவுபதி முர்மு ஏற்றார். 17-வது மக்களவையை கலைக்கும் பரிந்துரைகளையும் குடியரசுத் தலைவர் திரவுபதி முர்மு ஏற்றுக்கொண்டமை குறிப்பிடத்தக்கது.
+🟩
 
-இதற்கமைய, ஜூன் 8-ம் திகதி மீண்டும் பிரதமராக மோடி பதவியேற்க உள்ளதாக தகவல் வெளியாகியுள்ளது. கூட்டணி கட்சிகள் ஆதரவுடன் மீண்டும் பிரதமராக மோடி பதவியேற்கிறார்.
+Narendra Modi resigns as Prime Minister. Modi meets President Draupadi Murmu. Modi has issued a letter of resignation to the president and claims to be the right to rule. Rajnath Singh and Amit Shah along with Prime Minister Modi have also visited the President's House.
+
+President Draupadi Murmu accepted the resignation of the Union Cabinet led by Prime Minister Modi. It is noteworthy that President Draupadi Murmu accepted the recommendations of the 17th Lok Sabha.
+
+According to reports, Modi will be sworn in as Prime Minister again on June 8. Modi is again prime minister with the support of the coalition parties.
 
 ◼️
 
 [Data](articles/190e08a6.json)
+
+[Extended Data](ext_articles/190e08a6.ext.json)
 
 ---
 
@@ -112,6 +128,8 @@ The debt office offered 235 billion rupees of bills and raised a similar amount 
 
 [Data](articles/45d49211.json)
 
+[Extended Data](ext_articles/45d49211.ext.json)
+
 ---
 
 ### TISL raises concerns over Adani’s Sri Lanka power deal; demands transparency
@@ -129,6 +147,8 @@ The TISL has also filed a series RTI requests with public authorities seeking cr
 ...
 
 [Data](articles/649b3913.json)
+
+[Extended Data](ext_articles/649b3913.ext.json)
 
 ---
 
@@ -152,17 +172,23 @@ He stated that they have currently planned a Mangrove Botanic Garden at Akmeeman
 
 ---
 
-### මෝදී සෙනසුරාදා දිවුරුම් දෙයි
+### Moody sworn in Saturday
 
 *2024-06-05 15:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197424) · `si`
 
-ඉන්දීය මහ මැතිවරණයෙන් ජය ලැබූ නරේන්ද්‍ර මෝදී සිය තුන්වැනි ධුරකාලය සඳහා සෙනසුරාදා (08) දිවුරුම් දීමට නියමිත බව ඉන්දීය මාධ්‍ය වාර්තා සඳහන් කරයි.
+Narendra Modi was sworn in for his third term as India's Prime Minister on Saturday, May 8th, after winning 293 parliamentary seats out of 543 in the general elections. His Bharatiya Janata Party secured 240 seats.
 
-මෝදී ගේ නායකත්වයෙන් යුතු සන්ධානය ආසන 543ක් සහිත පාර්ලිමේන්තුවේ ආසන 293ක් දිනාගෙන තිබුණි. ඉන් ආසන 240ක් ම දිනාගෙන ඇත්තේ මෝදී ගේ භාරතීය ජනතා පක්ෂය යි.
+🟩
+
+Narendra Moodi, won the Indian general election, is to be sworn in Saturdays 08 (08) for his third term.
+
+Mogi's leadership won 293 seats in Parliament with 543 seats. Mogi's Bharatiya Janata Party has won 240 seats.
 
 ◼️
 
 [Data](articles/8a7f6209.json)
+
+[Extended Data](ext_articles/8a7f6209.ext.json)
 
 ---
 
@@ -221,6 +247,8 @@ Top leaders of the BJP-led National Democratic Alliance (NDA) are scheduled to m
 ...
 
 [Data](articles/4817ae33.json)
+
+[Extended Data](ext_articles/4817ae33.ext.json)
 
 ---
 
@@ -618,6 +646,8 @@ AHK Sri Lanka supported the delegation comprising 17 SLAP members representing 8
 
 [Data](articles/784dc810.json)
 
+[Extended Data](ext_articles/784dc810.ext.json)
+
 ---
 
 ### Modi and allies to meet after India election verdict, key ally pledges support
@@ -750,23 +780,31 @@ The suspects were revealed that if the suspects were sent by the Jethavanarama D
 
 ---
 
-### ජිප් රිය නිවසකට යයි - තිදෙනෙකුට තුවාල
+### Jay is going to a car house - three injured
 
 *2024-06-05 12:40:37* · [`adalk`](https://www.ada.lk/breaking_news/ජිප්-රිය-නිවසකට-යයි---තිදෙනෙකුට-තුවාල/11-410021) · `si`
 
-පුලියන්කුලම් පොලිස් ස්ථානයට අයත් ජිප් රථය ඊයේ සවස නෙඩුන්කේනි ප්‍රදේශයේදී ඊයේ (04) සවස ධාවනය වෙමින් තිබියදී මාර්ගයෙන් ඉවතට පැන අසල නිවසකට කඩා වැදීම හේතුවෙන් ජිප් රථයේ ගමන්කල තිදෙනෙකුට තුවාල සිදුව ඇතැය නෙඩුන්කේනි පොලීසිය පැවසීය.
+A police jeep ran off the road in Nedunkeni, injuring three officers. The incident is under investigation, with no immediate cause identified. Two officers received initial treatment at a local hospital, while one was transferred for further care. The situation sparked protests, leading to increased police presence and ongoing inquiries.
 
-අනතුර සිදුවන අවස්ථාවේදී ජීප් රථය පදවාගෙන ගොස් ඇත්තේ පුලියන්කුලම පොලිස් ස්ථානාධිපති වරයා බවට මූලික පොලිස් පරික්සණ වලදී හෙලි වී ඇති අතරම අනතුර සිදුවීමට හේතුව මෙතෙක් අනවරනය වී නෙමැත.
+🟩
 
-මාර්ගයෙන් ඉවතට පැන්න ජීප්රථය නිවසක් තුලට කඩ වැදී එහි නවතා තිබූ යතුරුපැදියක සහ විදුලි කණුවකද ගැටීමෙන් නැවතී ඇති අතර නිවැසියන් කිසිවෙකුටත් හානියක් සිදුව නොමැත.
+The Nedunkenti police said that the gyph belonging to the Puliyankulam Police was running out of the road in Nedunkeni yesterday evening.
 
-අනතුරින් තුවාල ලැබූ නිලධාරීන් පළමුව නෙඩුන්කේනි රෝහලට රැගෙන යාමෙන් අනතුරුව ඉන් දෙදෙනෙකු ප්‍රතිකාර ලබා රේහලෙන් පිටව ගොස් ඇති අතරම එක් පොලිස් නිලධාරියෙකු වැඩිදුර ප්‍රතිකාර සඳහා වවුනියාව මහ රෝහල වෙත මාරුකර යවනු ලැබීය.
+The jeep was dropped in basic police tests as the Puliyankulam Police Station at the time of the accident and the cause of the accident is yet to be released.
 
-අනතුරින් ජීප් රථයට සැලකිය යුතු අලාභහානි සිදුවී ඇතිපුලියන්කුලම් ස්ථානාධිපතිවරයා නෙඩුන්කේනි අධිකරණ වෛද්‍ය නිලධාරී  වෙතට ඉදිරිපත් කිරීමටද නෙඩුන්කේනි පොලීසිය පියවර ගෙන තිබුණි.
+The riminy rid of the way was stopped in a motorbike and stopped a motorcycle and electric pillar and none of the residents were harmed.
 
-...
+The injured officers were first taken to the Neduncnii hospital and two of them were resigned from receiving treatment, and one police officer was transferred to the Vavuniya General Hospital for further treatment.
+
+The OIC of the Nedunkeni Police had also taken steps to submit the Nedunkendi forensic officer.
+
+The area was protesting against the police and the Nedunkeni Police and the Police Special Task Force raised the situation and the Nedunkeni police are conducting further investigations.
+
+◼️
 
 [Data](articles/bc3dcc61.json)
+
+[Extended Data](ext_articles/bc3dcc61.ext.json)
 
 ---
 

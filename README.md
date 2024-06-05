@@ -1,20 +1,20 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-06 04:34:14**
+As of **2024-06-06 04:53:15**
 
 ## Newspaper Stats
 
-*Scraped **28,692** Articles*
+*Scraped **28,699** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 259
+colombotelegraphcom | 260
 dbsjeyarajcom | 273
 bbccomsinhala | 279
 newsfirstlk | 363
 islandlk | 1,542
 economynextcom | 1,635
-dailyftlk | 1,690
+dailyftlk | 1,696
 adalk | 2,448
 adaderanalk | 3,255
 tamilmirrorlk | 3,375
@@ -26,11 +26,121 @@ adaderanasinhalalk | 4,606
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,687 (100.0%) of 28,692 articles have been extended.
+28,692 (100.0%) of 28,699 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-06 (Thursday)
+
+### E. B. Creasy Solar energises 9th Annual Construction Power and Energy Expo 2024
+
+*2024-06-06 04:30:16* · [`dailyftlk`](https://www.ft.lk/business/E-B-Creasy-Solar-energises-9th-Annual-Construction-Power-and-Energy-Expo-2024/34-762681) · `en`
+
+E.B. Creasy Solar Sales Manager Eksath De Alwis hands over the Platinum Sponsorship cheque to Lanka Exhibition and Conference Services Managing Director Arjun Dharmadasa. LECS CEO Aasim Mukthar (right) and Project Manager Chamara Sooriyaarachchi are also present
+
+E. B. Creasy Solar, has announced its Platinum Sponsorship of the Construction Power and Energy Expo 2024, Sri Lanka’s premier event dedicated to interior products, construction, power, and energy.
+
+As a long-standing advocate of sustainable development, E. B. Creasy Solar said it is delighted to power this prestigious expo making its return for the 9th consecutive year. Scheduled to take place from 5 to 7 July at the Bandaranaike Memorial International Conference Hall (BMICH), Colombo, the exhibition will serve as a vital platform for industry professionals to showcase cutting-edge trends, technologies, and solutions.
+
+...
+
+[Data](articles/2d4e1472.json)
+
+---
+
+### Tea prices soar in May over declining volumes
+
+*2024-06-06 04:28:12* · [`dailyftlk`](https://www.ft.lk/business/Tea-prices-soar-in-May-over-declining-volumes/34-762680) · `en`
+
+All elevations register gains month-on-month, both in rupee and dollar terms
+
+In the backdrop of declining volumes, tea prices are on the rise sharply with May establishing record National Sales Averages both in rupee and dollar terms.
+
+Forbes and Walker Tea Brokers said in May, as well as year to date, have seen significant gains except for High and Medium grown.
+
+In May, the total auction average of Rs. 1,266.80 per kilo, the High grown average of Rs. 1,162.31 per kilo, Medium grown average of Rs. 1,074.79 per kilo and Low grown average of Rs. 1,608.57 were the highest ever.
+
+Sri Lanka’s tea crop in April 2024 has dropped to a four year low of 21.46 million kilos, which is also the lowest since the COVID-19 lockdown year of 2020.
+
+...
+
+[Data](articles/ab191420.json)
+
+---
+
+### Cabinet clears to draft Value Added Act revision
+
+*2024-06-06 04:27:00* · [`dailyftlk`](https://www.ft.lk/business/Cabinet-clears-to-draft-Value-Added-Act-revision/34-762679) · `en`
+
+The Cabinet of Ministers on Monday approved to direct the Legal Draftsman to draft the Bill to revise the Value Added Tax Act No. 14 of 2002 including amendments recognised as per the recommendations furnished by the temporary VAT committee appointed.
+
+This includes the revisions acknowledged in accordance with the recommendations made by the temporary VAT committee, which was appointed in accordance with the directives of the joint committee chaired by the Government accounting committee.
+
+This committee included the State Finance Committee, the Committee on Ways and Methods, the Sector Supervision Committee on National Economy and Physical Planning, the sector supervision committee on redressing the economic crisis, and the committee on ways and methods to implement tax restorations on Value Added Tax introduced by the Value Added Tax (Amended) Act No. 32 2023.
+
+...
+
+[Data](articles/bdd2e036.json)
+
+---
+
+### CameraLK appointed as official Sony distributor for Maldives
+
+*2024-06-06 04:26:43* · [`dailyftlk`](https://www.ft.lk/business/CameraLK-appointed-as-official-Sony-distributor-for-Maldives/34-762678) · `en`
+
+CameraLK Managing Director Anushka Gunasinghe with RMDC, Sony South East Asia Head Jeremy Heng
+
+CameraLK, the leading camera retail giant in Sri Lanka, has been appointed by Sony Electronics as the official distributor for the Maldives. This partnership marks a significant milestone in CameraLK’s expansion and reinforces its position as a premier provider of photographic and imaging products in South Asia.
+
+With this appointment, CameraLK is all set to open a new branch in Maldives by the end of this month. This expansion will ensure that the latest Sony products, including cameras, lenses, and accessories, are readily available to photography enthusiasts and professionals in the Maldives. The new branch aims to provide the same exceptional customer service and expert advice that CameraLK is known for in Sri Lanka.
+
+...
+
+[Data](articles/b614de5c.json)
+
+---
+
+### TNA to evaluate candidates before endorsing Presidential contender
+
+*2024-06-06 04:23:51* · [`dailyftlk`](https://www.ft.lk/news/TNA-to-evaluate-candidates-before-endorsing-Presidential-contender/56-762677) · `en`
+
+TNA MP M.A. Sumanthiran announces party will decide which candidate to support at Presidential elections after discussions with all contenders
+
+Denies reports suggesting TNA might back SJB leader Sajith Premadasa
+
+TNPF leader Gajendrakumar Ponnambalam calls for Tamil community to boycott SL’s Presidential election
+
+Emphasises boycotting elections would send a strong message to Govt. reflecting community’s rejection of participation under current conditions
+
+Tamil National Alliance (TNA) MP M.A. Sumanthiran announced yesterday that the party will decide which candidate to support in the upcoming presidential election after holding discussions with all the main contenders.
+
+Speaking to the media, Sumanthiran said the party will evaluate the proposed programs of the candidates and engage in discussions with them. “The final decision will be made following these meetings,” he said.
+
+...
+
+[Data](articles/7462cf0b.json)
+
+---
+
+### Marikkar urges Govt. to increase disaster compensation due to economic crisis
+
+*2024-06-06 04:22:42* · [`dailyftlk`](https://www.ft.lk/news/Marikkar-urges-Govt-to-increase-disaster-compensation-due-to-economic-crisis/56-762676) · `en`
+
+SJB MP S.M. Marikkar points out that current compensation amounts has led to substandard or spoiled food for affected families
+
+Expresses concern that Colombo’s flood mitigation project remains incomplete due to a change in Govt. and lack of funds
+
+Emphasises need for concrete actions, not just discussions, and stressed there is already a master plan for flood mitigation
+
+Urges Govt. to allocate funds and begin work on remaining steps to control floods in Kolonnawa
+
+Samagi Jana Balawegaya (SJB) MP S.M. Marikkar urged the Government yesterday to increase the compensation provided to those affected by disaster situations to reflect current market prices.
+
+...
+
+[Data](articles/6b6a1ab2.json)
+
+---
 
 ### Suspect arrested in less than 24 hours after viral child abuse video
 
@@ -47,6 +157,8 @@ The arrests were carried out by officers of the Welioya Police, Mullaitivu Crime
 ...
 
 [Data](articles/bf9abb91.json)
+
+[Extended Data](ext_articles/bf9abb91.ext.json)
 
 ---
 
@@ -66,6 +178,8 @@ However, at the time of writing, neither the SJB nor Premadasa had responded to 
 
 [Data](articles/186c7897.json)
 
+[Extended Data](ext_articles/186c7897.ext.json)
+
 ---
 
 ### Setback for BJP in Faizabad seat despite Ram Temple momentum
@@ -83,6 +197,8 @@ Prasad bagged 554,289 votes as against Singh’s 499,722 and won the seat by a m
 ...
 
 [Data](articles/ffd00122.json)
+
+[Extended Data](ext_articles/ffd00122.ext.json)
 
 ---
 
@@ -160,35 +276,55 @@ The 50th anniversary of the first supremacist of the Tamil nation who fought as 
 
 ---
 
-### நரேந்திர மோடிக்கு சபையில் வாழ்த்து
+### Congratulations to Narendra Modi
 
 *2024-06-06 01:15:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நரேந்திர-மோடிக்கு-சபையில்-வாழ்த்து/175-338516) · `ta`
 
-இந்தியாவில் மீண்டும் ஆட்சியமைக்கும் இந்திய பிரதமர் நரேந்திர மோடிக்கு இலங்கை பாராளுமன்றத்தில் வாழ்த்துகள் தெரிவிக்கப்பட்டன.
+Narendra Modi, India's PM, received congratulations from Sri Lanka's Parliament, including PM Dinesh Gunawardena and Opposition Leader Sajith Premadasa. This marks Modi's third term leading the BJP, highlighting his continued popularity and leadership in India. The Sri Lankan government appreciates India's support and looks forward to strengthening ties between the two countries.
 
-பாராளுமன்றம் புதன்கிழமை (05) கூடிய போது, விசேட அறிவித்தலை வெளியிட்டு பிரதமர் தினேஸ் குணவர்தன மற்றும் எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச ஆகியோர் இந்திய பிரதமருக்கு வாழ்த்துகளை தெரிவித்தனர்.
+🟩
 
-எமது அண்டை மற்றும் நட்பு நாடான இந்தியாவின் ஜனநாயக தேர்தலில் மூன்றாவது முறையாகவும் பிரதமராகும் பாரதிய ஜனதா கட்சியின் தலைவரான நரேந்திர மோடிக்கு எமது வாழ்த்துக்களை தெரிவித்துக்கொள்கின்றோம். பாராளுமன்ற ஜனநாயக முறையில் பெரும் சனத்தொகையை கொண்ட நாடாக இந்தியா இருக்கின்றது. அந்த நாட்டின் பிரதமராக மோடி செயற்படுகின்றார். ஆசியா நாடுகளுடனான நட்பு மற்றும் ஒத்துழைப்புடனும் இலங்கையுடனான ஒத்துழைப்புகளுக்கும் மோடி அரசாங்கத்திற்கு வாழ்த்துக்களை தெரிவிக்கின்றோம்.
+Indian Prime Minister Narendra Modi congratulated the Sri Lankan parliament.
 
-...
+Prime Minister Dinesh Gunawardena and Opposition Leader Sajith Premadasa congratulated the Indian Prime Minister on Wednesday (05) when Parliament convened.
+
+We congratulate Narendra Modi, the leader of the Bharatiya Janata Party (BJP) for the third time in our neighboring and ally, India's democratic election.. India is a country with a major population in parliament. Modi acts as prime minister of that country. We congratulate the Modi government for allies and cooperation with Sri Lanka and cooperation with Asia.
+
+We congratulate Narendra Modi for the third time and the Bharatiya Janata Party -led coalition to re -rule.. We express our happiness to the programs that continue to overcome people's beliefs. We hope to have a close friendship between Sri Lanka India.
+
+◼️
 
 [Data](articles/61ac8ae9.json)
 
+[Extended Data](ext_articles/61ac8ae9.ext.json)
+
 ---
 
-### ’விசாரணைகளுக்குப் பின் பெறுபேறு வெளியிடப்படும்’
+### The results will be released after the investigation.
 
 *2024-06-06 01:08:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விசாரணைகளுக்குப்-பின்-பெறுபேறு-வெளியிடப்படும்/175-338515) · `ta`
 
-பரீட்சை ஒழுங்கு விதிகளை மீறுவது பரீட்சை சட்டங்களை மீறுவதாகவே கருதப்படும். இதனை இன,மொழி அடிப்படையில் பார்க்க முடியாது எனத் தெரிவித்த கல்வி அமைச்சர் சுசில் பிரேமஜயந்த, திருகோணமலை சாஹிரா கல்லூரி மாணவிகளின் பரீட்சை பெறுபேறு இடைநிறுத்தப்பட்டமை தொடர்பில் விசாரணைகள் முன்னெடுக்கப்பட்டுள்ளன.வெகுவிரைவில் பெறுபேறுகள் வெளியிடப்படும் என்றார்.
+Investigation ongoing; 13 students' exam results suspended for wearing hijabs in the Western Province. Education Minister and officials from Trincomalee Zahira College involved. Hijab-wearing allowed in national exams, but violations lead to suspensions.
 
-பாராளுமன்றத்தில் புதன்கிழமை (05) இடம்பெற்ற அமர்வின் போது  ஐக்கிய மக்கள் சக்தி எம்.பி. யான முஜிபுர் ரஹ்மானினால் எழுப்பப்பட்ட  அதிபர் சேவை பரீட்சைக்கு மேல் மாகாணத்தில் தோற்றிய 13 பேர் ஹிஜாப் அணிந்த வகையில்  பரீட்சைக்கு தோற்றியதற்காக அவர்களின் பெறுபேறு இடைநிறுத்தப்பட்டுள்ளது.
+🟩
 
-ஹிஜாப் அணிந்த வகையில் தேசிய பரீட்சைகளுக்கு தோற்றுவதற்கு பரீட்சைகள் திணைக்களம் அனுமதி வழங்கியுள்ளது. பரீட்சார்த்தியின் காதுகள் தென்படும் வகையில் அவர் இருத்தல் வேண்டும் என பரீட்சை மத்திய  நிலைய பொறுப்பதிகாரி குறிப்பிட்டால் அதற்கு பரீட்சார்த்தி கட்டுப்பட வேண்டும்.அவ்வாறு இல்லாவிடின் அவரை பரீட்சை மண்டபத்தில் இருந்து வெளியேற்ற முடியும்.
+Violation of Examination Regulations may be considered a violation of exam laws. Education Minister Susil Premajayantha and Trincomalee Zahira College students have been investigated.
+
+United People's Power MP during the session held in Parliament on Wednesday (05). Their results have been suspended for the appearance of 13 people who have appeared in the province of the Chancellor Service Examination raised by Mujibur Rahman, wearing a hijab.
+
+The Department of Examinations has granted permission for the National Examinations worn by hijab. If the examiner is in charge of the examination, he should be obliged to obey the examiner's ears.
+
+Officials of the Examination Center have notified the Examinations Department that 13 persons who appeared in the Western Province have been wearing a hijab. Their exam results have been suspended.
+
+Muslim women and school children are resistant to many problems when they look for exams.
+
+Mujibur Rahman MP. He pointed out an incident in the upper house.
 
 ...
 
 [Data](articles/b536a056.json)
+
+[Extended Data](ext_articles/b536a056.ext.json)
 
 ---
 
@@ -509,6 +645,18 @@ They then chased down a target of 97 with more than seven overs to spare, captai
 [Data](articles/8f4ce1fd.json)
 
 [Extended Data](ext_articles/8f4ce1fd.ext.json)
+
+---
+
+### Should The Economic Transformation Bill Proceed?
+
+*2024-06-05 22:56:24* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/should-the-economic-transformation-bill-proceed/) · `en`
+
+Given the pivotal role of debt restructuring in the Economic Transformation Bill (ETB), the debt-to-GDP ratio may not remain below 95% by 2032 and reach an optimal level of 60% by 2048. This uncertainty also extends to the gross financing needs, which may not stay below 13%. While a 5% increase by 2027 seems feasible regarding GDP growth, it is uncertain if it will continue to exceed 5% after 2027. The ETB does not clearly outline the necessary economic growth to achieve Advanced Economic Status by 2048. This is a crucial factor in determining investment and welfare and, ultimately, improving the well-being of the people. A clear and comprehensive economic policy framework is necessary, rather than relying on arbitrary targets or a legal framework.  Based on the current US$ 4000 per capita income in Sri Lanka, achieving Advanced Economic Status by 2048 without such a framework seems highly improbable.
+
+...
+
+[Data](articles/80e9ba7f.json)
 
 ---
 
@@ -2083,153 +2231,5 @@ The US $ 297.2930 is Rs.
 [Data](articles/e9d00ed1.json)
 
 [Extended Data](ext_articles/e9d00ed1.ext.json)
-
----
-
-### A couple jumps out of Garrand Falls
-
-*2024-06-05 14:53:11* · [`adalk`](https://www.ada.lk/breaking_news/යුවලක්-ගැරඩි-ඇල්ලෙන්-පනී/11-410026) · `si`
-
-A young couple fell from Kotmale Garmalai Falls, sparking a rescue effort by locals. An 18-year-old girl also attempted suicide at Kotmale Garmalagiri but was saved. Both couples were involved in disputes. The injured are receiving treatment at local hospitals.
-
-🟩
-
-A group of people in the area had taken steps to rescue a young couple at Kotmale Garmalai Falls.
-
-A Kotmale police officer commented on the 5th on 05rd, a 18-year-old girl in the 5 year old girl in Kotmale has fallen to the Kotmale Garmalagiri Fire to commit suicide.
-
-At that time, a group of people had rescued the young couple and that the two had been devoted to a dispute over the two of the two.
-
-The official added that steps have been taken to the Pusslewa Regional Hospital for the treatment of the Young couple and the patriar should be transferred to the Gampola General Hospital.
-
-◼️
-
-[Data](articles/7e78a85d.json)
-
-[Extended Data](ext_articles/7e78a85d.ext.json)
-
----
-
-### PM Modi tenders his resignation to President
-
-*2024-06-05 14:37:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/PM-Modi-tenders-his-resignation-to-President/107-284175) · `en`
-
-India, June 5 - Prime Minister Narendra Modi on Wednesday tendered his resignation along with the Council of Ministers to President Droupadi Murmu. "The President has accepted the resignation and requested Shri Narendra Modi and the Council of Ministers to continue till the new government assumes office," a press communique said.
-
-PM Modi is likely to be sworn in as the Prime Minister for a third consecutive term on June 8 evening, sources told India Today. The NDA scraped past the majority mark to win 292 seats, but the BJP fell short of the majority on its own. If the NDA forms the government, Modi will be the second leader to retain power for a third term after former Prime Minister Jawaharlal Nehru.
-
-Top leaders of the BJP-led National Democratic Alliance (NDA) are scheduled to meet this evening to take stock of the Lok Sabha election results and deliberate on the details of government formation.
-
-...
-
-[Data](articles/1a716106.json)
-
-[Extended Data](ext_articles/1a716106.ext.json)
-
----
-
-### PM Modi resigns
-
-*2024-06-05 14:37:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/PM-Modi-resigns/107-284175) · `en`
-
-India, June 5 - Prime Minister Narendra Modi on Wednesday tendered his resignation along with the Council of Ministers to President Droupadi Murmu. "The President has accepted the resignation and requested Shri Narendra Modi and the Council of Ministers to continue till the new government assumes office," a press communique said.
-
-PM Modi is likely to be sworn in as the Prime Minister for a third consecutive term on June 8 evening, sources told India Today. The NDA scraped past the majority mark to win 292 seats, but the BJP fell short of the majority on its own. If the NDA forms the government, Modi will be the second leader to retain power for a third term after former Prime Minister Jawaharlal Nehru.
-
-Top leaders of the BJP-led National Democratic Alliance (NDA) are scheduled to meet this evening to take stock of the Lok Sabha election results and deliberate on the details of government formation.
-
-...
-
-[Data](articles/4817ae33.json)
-
-[Extended Data](ext_articles/4817ae33.ext.json)
-
----
-
-### Indian couple killed in sea
-
-*2024-06-05 14:35:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடலில்-குளித்த-இந்திய-தம்பதியினர்-பலி/175-338480) · `ta`
-
-Foreign Indian couple, aged 35 and 33, drown in Sri Lanka's Kirinda sea while bathing, later die in hospital despite rescue efforts. Incident occurred during family visit.
-
-🟩
-
-A foreign couple who bathed in the sea in Kirinda died after being drowned, police said.
-
-The victims have been identified as 35 -year -olds and 33 -year -old Indian citizens.
-
-They were rescued after being dragged by heavy waves and drowned and died after being admitted to the Thebaraweva Hospital.
-
-Investigations have revealed that the incident took place when the victims visited Sri Lanka with their families.
-
-◼️
-
-[Data](articles/9db175a1.json)
-
-[Extended Data](ext_articles/9db175a1.ext.json)
-
----
-
-### Grade One admissions on the decline: Minister
-
-*2024-06-05 14:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Grade-One-admissions-on-the-decline-Minister/108-284174) · `en`
-
-Parliament, June 5 (Daily Mirror)- Admissions to the Grade One are on the decline as a result of the falling birth rate, Minister of Education Susil Premajayantha told Parliament today.
-
-“Sri Lanka’s annual birth rate which was  330,000 a few years ago has reduced to 300,000 as of now. This will result in a decline in Grade One admissions in the near future,” he said.
-
-He said children in Sri Lanka are moving away from schools and are drawn towards tuition classes because children have lost trust in the country's education system.
-
-◼️
-
-[Data](articles/f0ab104d.json)
-
-[Extended Data](ext_articles/f0ab104d.ext.json)
-
----
-
-### Dambulla gets new owner following former owner’s arrest
-
-*2024-06-05 14:33:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Dambulla-gets-new-owner-following-former-owners-arrest/108-284173) · `en`
-
-(Daily Mirror) - Sequoia Consultants, Inc., a leading civil engineering consulting firm headquartered in Los Angeles, California, has stepped in to take over the Lanka Premier League (LPL) franchise of the Dambulla Thunders, in light of the arrest of its previous owner.
-
-Sri Lanka Cricket said the team will be operated under DeSilva Holdings, specifically set up for this purpose.
-
-The previoues owner of the Dambulla team, British national of Bangladesh origin Tamim Rahman, was arrested on suspicion of corruption last month, a day after a highly publicised player auction. Tamim Rahman was remanded till June 07 by Colombo Chief Magistrate Thilina Gamage.
-
-The SLC said that with the new buyer, the team will be known as “Dambulla Sixers’.
-
-The majority stake in Sequoia Consultants is owned by Mr. Priyanga De Silva, a Chartered Civil Engineer, who is the CEO and President of Sequoia Consultants, Inc.
-
-...
-
-[Data](articles/786af76d.json)
-
-[Extended Data](ext_articles/786af76d.ext.json)
-
----
-
-### The exangeration power against the proposed television bill
-
-*2024-06-05 14:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197422) · `si`
-
-Opponents of a proposed TV bill, including the National Freedom Front, Majority Party, and others, protested. They criticized plans to abolish the Electricity Board and suggested India might control Sri Lanka's power system. The group emphasized the need for legal protections for the country's energy safety.
-
-🟩
-
-National Freedom Front, Majority Party, Culinary Front, Democratic Left Front and Independent MPs, "Parliamentary PartyStronged in a protest.
-
-National Water Supply, Member of the National Freedom Front, Jayantha Samaraweera, Leader of Mawbima Janabe Gammanpila, Pure Gammanpila, Leader of the Mawathagama Gammanpila, Sri Lanka, Sri Lanka's General Secretary, Sri Lanka. Weerasinghe, the Chairman of the National Organization of the National Organization of the National Organization National Organization, Parliamentarian Channa Jayatunga and the Independential Forum Channa Jayatunga were also present at the peaceful demonstration.
-
-The Electricity Board will be abolished by the Electricity Board and the power system will be provided with the pity of India with the power system in India.The leaders of the security of the security of the power to the media were then pointed out.
-
-They further pointed out that even the legal provisions of the law to protect the country's energy safety.
-
-◼️
-
-[Data](articles/206a753c.json)
-
-[Extended Data](ext_articles/206a753c.ext.json)
 
 ---

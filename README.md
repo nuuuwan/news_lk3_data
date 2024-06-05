@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-05 23:53:47**
+As of **2024-06-06 00:05:54**
 
 ## Newspaper Stats
 
-*Scraped **28,663** Articles*
+*Scraped **28,671** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,12 +13,12 @@ dbsjeyarajcom | 273
 bbccomsinhala | 279
 newsfirstlk | 363
 islandlk | 1,542
-economynextcom | 1,631
+economynextcom | 1,635
 dailyftlk | 1,687
 adalk | 2,448
 adaderanalk | 3,255
 tamilmirrorlk | 3,367
-virakesarilk | 4,406
+virakesarilk | 4,410
 dailymirrorlk | 4,548
 adaderanasinhalalk | 4,606
 
@@ -26,11 +26,33 @@ adaderanasinhalalk | 4,606
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,663 (100.0%) of 28,663 articles have been extended.
+28,663 (100.0%) of 28,671 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-05 (Wednesday)
+
+### அயர்லாந்தை 8 விக்கெட்களால் வெற்றிகொண்டது முன்னாள் சம்பியன் இந்தியா
+
+*2024-06-05 23:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/185407) · `ta`
+
+நியூயோர்க் நசவ் விளையாட்டரங்கில் சற்று நேரத்திற்கு முன்னர் நிறைவடைந்த 9ஆவது ரி20 உலகக் கிண்ண அத்தியாயத்தின் ஏ குழுவுக்கான போட்டியில் அயர்லாந்தை 8 விக்கெட்களால் முன்னாள் சம்பியன் இந்தியா  வெற்றிகொண்டது.
+
+அயர்லாந்தினால் நிர்ணயிக்கப்பட்ட 97 ஓட்டங்களை வெற்றி இலக்காகக் கொண்டு பதிலுக்கு துடுப்பெடுத்தாடிய இந்தியா 12.2 ஓவர்களில் 2 விக்கெட்களை இழந்து 97 ஓட்டங்களைப் பெற்று வெற்றியீட்டியது.
+
+அயர்லாந்தின் வேகப்பந்துவீச்சாளர்கள் சமயோசிதமாக பந்துவீசியதால் அணித் தலைவர் ரோஹித் ஷர்மாவும் விராத் கோஹ்லியம் அவ்வப்போது தடுமாற்றத்திற்குள்ளாகினர்.
+
+மூன்றாவது ஓவரில் மார்க் அடயாரின் பந்தை விசுக்கி அடித்த விராத் கோஹ்லி, தேர்ட் மேன் நிலையில் இலகுவான பிடிகொடுத்து ஒரு ஓட்டத்துடன் வெளியேறினார்.
+
+அதன் பின்னர் ஜோடி சேர்ந்த ரோஹித் ஷர்மாவும் ரிஷாப் பான்டும் முதலில் நிதானமாகவும் பின்னர் அதிரடியாகவும் துடுப்பெடுத்தாடி 2ஆவது விக்கெட்டில் 54 ஓட்டங்களைப் பகிர்ந்திருந்தபோது ரோஹித் ஷர்மா உபாதை காரணமாக  ஓய்வு    பெற்றார்.
+
+ரோஹித் ஷர்மா 4 பவுண்டறிகள், 3 சிக்ஸ்களுடன் 52 ஓட்டங்களைப் பெற்று  ஓய்வு  பெற்றார்.
+
+...
+
+[Data](articles/8df68855.json)
+
+---
 
 ### India beat Ireland by eight wickets in T20 World Cup
 
@@ -142,6 +164,24 @@ President Ranil Wickremesinghe has accepted the invitation of Indian Prime Minis
 
 ---
 
+### Sri Lanka requests Maldives to revisit migrant worker remittances limit
+
+*2024-06-05 22:29:00* · [`economynextcom`](https://economynext.com/sri-lanka-requests-maldives-to-revisit-migrant-worker-remittances-limit-166512/) · `en`
+
+ECONOMYNEXT – Sri Lanka has requested Maldives to revisit the limit imposed in foreign remittances sent by the island nation’s migrant workers in a move to ease the restriction and increase the inflow into the country.
+
+The Bank of Maldives (BML) has announced a new limit for foreign transactions which has been between $250-$300 monthly to prevent large dollar outflow from the country with an aim to prevent a forex shortage.
+
+A large number of Sri Lankans work in the Maldives in high executive jobs in the hospitality sector in other categories including and labourers and housemaids. Some of them earn around $3,000 worth salary monthly, paid in Maldivian rufiyaa.
+
+“I also requested the Maldives side to consider to revisit the current limit imposed on outward foreign currency remittances for the benefit of Sri Lankan migrant workers in Maldives,” Sri Lanka’s Foreign Minister Ali Sabry told a joint media briefing with Maldives Foreign Minister, following a bilateral meeting.
+
+...
+
+[Data](articles/a9416a0f.json)
+
+---
+
 ### President Ranil reiterates commitment towards net zero on World Environment Day
 
 *2024-06-05 22:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/99689/president-ranil-reiterates-commitment-towards-net-zero-on-world-environment-day) · `en`
@@ -159,6 +199,22 @@ He also highlighted that the upcoming Climate Change Act and the establishment o
 [Data](articles/47b8540c.json)
 
 [Extended Data](ext_articles/47b8540c.ext.json)
+
+---
+
+### பேருவலை கல்வித் தொகுதியில் நீண்டகாலமாக இடம்பெற்றுவரும் ஆசிரியர் பற்றாக்குறையை போக்க நடவடிக்கை எடுக்கவும் - இம்தியாஸ் பாக்கிர் மாக்கார்
+
+*2024-06-05 21:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/185406) · `ta`
+
+களுத்துறை கல்வி வலயத்தில் உயர் தர வகுப்புகளுக்கு நீண்ட காலமாக இருந்துவரும் ஆசிரியர் வெற்றிடங்கள் இன்னும் நிரப்பப்படாமல் இருந்து வருகின்றன. இது தொடர்பாக தேடிப்பார்த்து நிலவி வரும் ஆசிரியர் வெற்றிடங்களைப் பூர்த்தி செய்ய விரைவாக நடவடிக்கை எடுக்க வேண்டும் என எதிர்க்கட்சி உறுப்பினர் இம்தியாஸ் பாக்கிர் மாக்கார் தெரிவித்தார்.
+
+பாராளுமன்றத்தில் புதன்கிழமை (5) இடம்பெற்ற  நாட்டின் கல்வி நடவடிக்கைகள் தொடர்பான பிரச்சினை தொடர்பில் சபை ஒத்திவைப்பு வேளை விவாதத்தில் கலந்துகொண்டு உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்தார்.
+
+களுத்துறை கல்வி வலயத்திலிருந்து வரும் பாரிய ஆசியர் பற்றாக்குறை தொடர்பாகப் பல தடவைகள் அமைச்சருக்கு எடுத்துறைக்கும்போது அதற்கு சிறந்த முறையில் பதில் வழங்கப்பட்டபோதும் செயற்பாட்டில்  திருப்தியளிக்கும் வகையில் எந்த பதிலும் இதுவரை கிடைக்கப்பெறவில்லை. களுத்துறை கல்வி வலயத்தில் பேருவலை தொகுதியில் மாத்திரம் நூற்றுக்கு 36வீத ஆசிரியர் பற்றாக்குறை இருந்து வருகிறது. அதாவது, நூறுபேர் இருக்கவேண்டிய இடத்தில் 36பேர் இல்லை.
+
+...
+
+[Data](articles/41b87500.json)
 
 ---
 
@@ -302,6 +358,22 @@ A stock of 13.680 grams of heroin was recovered from a house in Kumbukgetewatta 
 
 ---
 
+### தமிழ் பொதுவேட்பாளர் பயனற்ற மூலோபயம் - ஐரோப்பிய தூதுக்குழுவிடம் சம்பந்தன் தெரிவிப்பு
+
+*2024-06-05 20:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/185405) · `ta`
+
+ஜனாதிபதி தேர்தலில் தமிழ் பொதுவேட்பாளர் என்ற மூலோபாயம் பயனற்றது. தென்னிலங்கையில் உள்ள தலைவர்களுடன் பேச்சுக்களை முன்னெடுத்தே இறுதியான தீர்மானம் எடுக்கப்பட வேண்டும் என்று இலங்கைத் தமிழரசுக்கட்சியின் சிரேஷ்ட தலைவரும், திருகோணமலை மாவட்ட பாராளுமன்ற உறுப்பினருமான இரா.சம்பந்தன் தெரிவித்தார்.
+
+அதேநேரம், தமிழ் மக்கள் தொடர்ச்சியாக வழங்கி வருகின்ற ஆணையைத் தென்னிலங்கையின் ஆட்சியாளர்கள் நிராகரித்து வருகின்ற நிலையில் தேர்தல்களைத் தொடர்ச்சியாக நடத்தப்படுவதற்கு அப்பால் தமிழ் மக்களின் ஆணையை ஏற்றுக்கொள்வதற்கான அழுத்தங்களையும் பிரயோகிக்க வேண்டும் என்றும் வலியுறுத்தியுள்ளார்.
+
+இலங்கைக்கு விஜயம் செய்துள்ள ஐரோப்பிய ஒன்றியத் தூதுக்குழுவானது, நேற்றையதினம் கொழும்பில் உள்ள இரா.சம்பந்தனின் இல்லத்தில் அவரைச் சந்தித்தது. குறித்த சந்திப்பில் யாழ்.மாவட்ட பாராளுமன்ற உறுப்பினர் ஜனாதிபதி சட்டத்தரணி எம்.ஏ.சுமந்திரனும் பங்கேற்றிருந்தார்.
+
+...
+
+[Data](articles/996980f5.json)
+
+---
+
 ### One person arrested in Katunayake
 
 *2024-06-05 20:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197434) · `si`
@@ -325,6 +397,22 @@ Residence residents of Jaffna, who was arrested, was residing in Jaffna for furt
 [Data](articles/02a85516.json)
 
 [Extended Data](ext_articles/02a85516.ext.json)
+
+---
+
+### Sri Lanka to have dedicated green economy unit in finance ministry: President
+
+*2024-06-05 20:17:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-have-dedicated-green-economy-unit-in-finance-ministry-president-166477/) · `en`
+
+ECONOMYNEXT – Sri Lanka will set up a unit within the government that will fund programs aimed at promoting a green economy, President Ranil Wickremesinghe has said.
+
+“We have planned to establish a dedicated unit within the Ministry of Finance focused on creating a green economy. This unit will be responsible for funding programs aimed at promoting a green economy, and we expect to have the entire system in place by the end of this year.”
+
+“Global temperatures have already risen beyond our expectations,” Wickremesinghe said during World Environment Day celebrations held at the Presidential Secretariat on Wednesday. “Amidst these challenges, small countries like Sri Lanka are struggling to address climate change. We must now take new measures to combat this issue. Limiting ourselves to the initiatives undertaken during the establishment of the Ministry of Environment is no longer sufficient.”
+
+...
+
+[Data](articles/3c512442.json)
 
 ---
 
@@ -704,6 +792,28 @@ The Convention on the Elimination of All Forms of Discrimination against Women w
 
 ---
 
+### Law students in Sri Lanka mostly female, but President’s Counsel male: Eran
+
+*2024-06-05 18:00:00* · [`economynextcom`](https://economynext.com/law-students-in-sri-lanka-mostly-female-but-presidents-counsel-male-eran-166374/) · `en`
+
+ECONOMYNEXT – About 75 percent of students at the law faculty are female but there are hardly any female Presidents Counsel, opposition legislator Eran Wickremaratne said.
+
+“Seventy five percent of students at law faculty are female but there are only two or three presidential counsel lawyers in the entire country,” Wickremaratne told parliament during the debate of the Women’s Empowerment Bill.
+
+“So what is this problem? There seems to be an attitude problem. We have to accept this. We cannot run away from this.
+
+“We did not choose to be a woman or man at birth. So we cannot be made to pay for things which are not of our choice.”
+
+The Women’s Empowerment Bill was an admirable effort by the government and the Women’s Caucus in parliament he said.
+
+The Convention on the Elimination of All Forms of Discrimination against Women was adopted by the United Nations in 1979 but it has still not been made into law in Sri Lanka he said.
+
+...
+
+[Data](articles/e7c20602.json)
+
+---
+
 ### 14 new diplomats handed over the credentials to the president
 
 *2024-06-05 17:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/185399) · `ta`
@@ -1055,6 +1165,24 @@ Amana Bank Plc, which has announced a share consolidation, closed up at 2.40.
 [Data](articles/1015df35.json)
 
 [Extended Data](ext_articles/1015df35.ext.json)
+
+---
+
+### ஐக்கிய நாடுகள் பாதுகாப்பு சபையில் இந்தியாவுக்கு  நிரந்தர உறுப்புரிமையை வழங்க வேண்டும்  -  எதிர்க்கட்சித் தலைவர் பிரேரணை முன்வைப்பு
+
+*2024-06-05 17:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/185372) · `ta`
+
+உலகில் அதிக எண்ணிக்கையிலான மக்கள் தொகை இருக்கும்  இந்தியாவுக்கு ஐக்கிய நாடுகள் பாதுகாப்பு சபையில் நிரந்தர உறுப்புரிமையை வழங்க வேண்டும். அது தொடர்பில் இந்த சபையில் பிரேரணை ஒன்றை முன்வைக்கிறேன் என எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+
+பாராளுமன்றத்தில் புதன் கிழமை (05) விசேட கூற்றொன்றை முன்வைத்து, இந்திய தேர்தலில் வெற்றிபெற்ற பிரதமர் மோடிக்கு வாழ்த்து தெரிவிக்கும் போதே இவ்வாறு தெரிவித்தார்.
+
+உலகில் அதிக எண்ணிக்கையிலான மக்கள் தொகை இருக்கும்  இந்தியாவுக்கு ஐக்கிய நாடுகள் பாதுகாப்பு சபையில் நிரந்தர உறுப்புரிமையை வழங்குவது தற்போது மிகவும் யோக்கியமானதாகும்.
+
+விசேடமாக உலகளாவிய அதிகார கேந்திர நிலையங்களை பார்க்கும் போது உண்மையாகவே இந்தியாவுக்கு ஐக்கிய நாடுகள் பாதுகாப்பு சபையில் நிரந்தர உறுப்புரிமையை வழங்குவது நிச்சயமாக செயற்படுத்தக்கூடியதாகும். அதனால் இந்தியாவுக்கு ஐக்கிய நாடுகள் பாதுகாப்பு சபையில் நிர்ந்தர உறுப்புரிமையை வழங்கவேண்டும் என்ற பிரேரணை இந்த சபைக்கு முன்வைக்கிறேன். பாராளுமன்றத்தில் இருக்கும் 225பேரும் இதனை அனுமதிக்கும் என்ற நம்பிக்கை எமக்கு இருக்கிறது என்றார்.
+
+◼️
+
+[Data](articles/1041b60c.json)
 
 ---
 
@@ -2101,171 +2229,5 @@ The Opposition Leader said the team has missed practice matches due to these iss
 [Data](articles/d55d967d.json)
 
 [Extended Data](ext_articles/d55d967d.ext.json)
-
----
-
-### Jethavanara comradic conducts 5 persons and arrested
-
-*2024-06-05 12:46:26* · [`adalk`](https://www.ada.lk/breaking_news/ජේතවනාරායේ--අකුණු-සන්නායකය-සොරකමට--සිද්ධිය-ප්‍රසිද්ධ-ගායකයෙක්-ඇතුළු-5ක්-අත්අඩංගුවට/11-410022) · `si`
-
-A group led by Jethavanara Comradic arrested 5 individuals, including a well-known singer, for stealing metal from the lightning conductors of the Jetavanaramaya Dagoba in Anuradhapura. The stolen items included a device, a modern car, and 5 smartphones. The suspects, aged between 40 and residing in various locations, were found with tools like glasses and white newspapers. Three other arrests were made in related cases across different regions. All suspects were later released on bail after being presented before the Anuradhapura Magistrate's Court.
-
-🟩
-
-Suspects including a famous singer of the island, who has been arrested and machinery, who has been arrested and engaged in the limestone of the Lightning conductor in Anuradhapura to the safety of the Atamasthana Dagoba safety.A total of the Lightning Conduct, a device, a modern car and 5 smartphones, was arrested yesterday (04), Udamaluwa Police.
-
-The 40 year old residents of the Polonnaruwa, Karin Puttalam, Kandy, Makuliya, Puttalam, Kandy, Mirigahagala, Badalgama, Colombo, Badalgama, Kandy.
-
-The arrested singer participates in a television channel of a television channel in Sri Lanka, police said.
-
-The suspects were revealed that if the suspects were sent by the Jethavanarama Dagaba from the Jethavanarama Dagaba, that the charge had the power to draw the same charge to the lightning conductor, which had no charge to the lightning conductor.Police said.
-
-...
-
-[Data](articles/af4b811e.json)
-
-[Extended Data](ext_articles/af4b811e.ext.json)
-
----
-
-### Jay is going to a car house - three injured
-
-*2024-06-05 12:40:37* · [`adalk`](https://www.ada.lk/breaking_news/ජිප්-රිය-නිවසකට-යයි---තිදෙනෙකුට-තුවාල/11-410021) · `si`
-
-A police jeep ran off the road in Nedunkeni, injuring three officers. The incident is under investigation, with no immediate cause identified. Two officers received initial treatment at a local hospital, while one was transferred for further care. The situation sparked protests, leading to increased police presence and ongoing inquiries.
-
-🟩
-
-The Nedunkenti police said that the gyph belonging to the Puliyankulam Police was running out of the road in Nedunkeni yesterday evening.
-
-The jeep was dropped in basic police tests as the Puliyankulam Police Station at the time of the accident and the cause of the accident is yet to be released.
-
-The riminy rid of the way was stopped in a motorbike and stopped a motorcycle and electric pillar and none of the residents were harmed.
-
-The injured officers were first taken to the Neduncnii hospital and two of them were resigned from receiving treatment, and one police officer was transferred to the Vavuniya General Hospital for further treatment.
-
-The OIC of the Nedunkeni Police had also taken steps to submit the Nedunkendi forensic officer.
-
-The area was protesting against the police and the Nedunkeni Police and the Police Special Task Force raised the situation and the Nedunkeni police are conducting further investigations.
-
-◼️
-
-[Data](articles/bc3dcc61.json)
-
-[Extended Data](ext_articles/bc3dcc61.ext.json)
-
----
-
-### Indian national couple was billy in Kirinda
-
-*2024-06-05 12:32:57* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්දියන්-ජාතික-යුවලක්-කිරින්දෙදී-මුහුදට-බිලී/11-410020) · `si`
-
-An Indian couple drowned at Kirinda Beach; the man, 35, and woman, 33, died while visiting Sri Lanka. The incident occurred during their tour, and their bodies were taken to Debarawewa hospital for examination. Further inquiries are ongoing by the Kirinda Police.
-
-🟩
-
-A large national woman and a male died on the Kirinda Beach.
-
-Police said that the woman and the individual had died when they were drowning and hospitalized.
-
-The deceased has been identified as a 35 year old man and 33-year-old Indian nationals.
-
-Preliminary investigations have revealed that the accident had occurred when the daughter had been reported to visit Sri Lanka to a tour of the country.
-
-The bodies were deposited in Debarawewa hospital and Kirinda Police are conducting further investigations.
-
-◼️
-
-[Data](articles/f6a43c55.json)
-
-[Extended Data](ext_articles/f6a43c55.ext.json)
-
----
-
-### 896,000 tourists arrive in Sri Lanka until May
-
-*2024-06-05 12:32:34* · [`adalk`](https://www.ada.lk/breaking_news/මැයි-දක්වා-සංචාරකයන්-896000ක්-ලංකාවට-ඇවත්/11-410019) · `si`
-
-In the first five months of 2024, Sri Lanka welcomed 896,779 tourists, including 112,128 in May, with Indians making up the largest group at 32,254.
-
-🟩
-
-The latest statistics of the Sri Lanka Tourism Development Authority indicate that 896779 tourists arrived in Sri Lanka in the five months from January to May 2024.
-
-112,128 foreign tourists have arrived in Sri Lanka in May. The Indians are the Indians from foreign tourists who have arrived in Sri Lanka in May, which is 32,254.
-
-◼️
-
-[Data](articles/1369f7aa.json)
-
-[Extended Data](ext_articles/1369f7aa.ext.json)
-
----
-
-### Tiktok cyber attack falls
-
-*2024-06-05 12:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197417) · `si`
-
-TikTok is recovering from a cyber attack involving Cyberton, which targeted numerous accounts including those of CNN, Hilton, and Vanquis. The company is taking measures to restore affected accounts.
-
-🟩
-
-The TiktoK Social Media Network says it is taking steps to restore tiktok accounts with cyber attack.
-
-Cyberton had been involved in the cyber attack, especially in a number of tiktok accounts and families of a brand.
-
-Meanwhile, the accounts of families, such as CNN news service, were accounts of Hilton and the Vanques.
-
-◼️
-
-[Data](articles/4e862ebd.json)
-
-[Extended Data](ext_articles/4e862ebd.ext.json)
-
----
-
-### Supreme Court postponed to Maithri
-
-*2024-06-05 12:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197416) · `si`
-
-The Supreme Court postponed its decision regarding Dayasiri Jayasekera, former Secretary-General of the SLFP, until it could be informed by a group of justices. Jayasekera was summoned but not yet withdrawn from the party's membership. The court also included SLFP Chairman Maithripala Sirisena and Deputy Secretary General in the decision-making process.
-
-🟩
-
-Do he withdrawn the letter from the party's membership Dayasiri Jayasekera who was the Secretary-General of the SLFP Dayasiri Jayasekera.Not?The Supreme Court paid a group of the Supreme Court to inform the decision.
-
-Dayasiri Jayasekera was summoned before the Supreme Court today (05).
-
-Attorney-at-Law Chairman of the SLFP, the Chairman of Sri Lanka Freedom Party (SLFP) and acting Secretary General Sarath Ekanayake, who was named as respondents in the petition.Or aren't there?It is up to the decision of the decision.
-
-Accordingly, the Court of Sri Lanka Freedom Party (SLFP) Chairman Maithripala Sirisena and Deputy Secretary General of Sri Lanka Freedom of Sri Lanka (SLFP) were named as respondents to inform the petition on June 25.
-
-Dayasiri Jayasekera had filed a case before the Colombo District Court last year.
-
-However, Colombo District Court rejected an injunction to prevent Dayasiri Jayasekara.
-
-Dayasiri Jayasekera filed a petition before the Western Province civil Appeal High Court.
-
-...
-
-[Data](articles/4167cd64.json)
-
-[Extended Data](ext_articles/4167cd64.ext.json)
-
----
-
-### LOLC Finance paves the way for real-time deposits through mCash collaboration
-
-*2024-06-05 12:05:00* · [`islandlk`](http://island.lk/lolc-finance-paves-the-way-for-real-time-deposits-through-mcash-collaboration/) · `en`
-
-LOLC Finance PLC, the largest non-banking financial institution in the country, has announced an innovative collaboration with mCash, Sri Lanka’s largest mobile money platform, enabling customers to make savings deposits through the extensive network of mCash retailers. The Memorandum of Understanding (MOU) signed recently marks a significant step towards enhancing the accessibility and convenience of LOLC Finance savings accounts.
-
-This shared initiative empowers customers to conveniently deposit cash into their LOLC Finance savings accounts securely and efficiently. Once customers provide their Savings Account Number, Mobile Number, and the desired Deposit Amount to a mCash retailer, the retailer, using the mCash platform, can facilitate the payment process. The savings account is then credited in real-time. Both the customer and the retailer receive timely notifications confirming the success or failure of the transaction.
-
-...
-
-[Data](articles/6b498855.json)
-
-[Extended Data](ext_articles/6b498855.ext.json)
 
 ---

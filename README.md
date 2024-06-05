@@ -1,20 +1,20 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-06 04:53:15**
+As of **2024-06-06 05:03:50**
 
 ## Newspaper Stats
 
-*Scraped **28,699** Articles*
+*Scraped **28,704** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 260
+colombotelegraphcom | 261
 dbsjeyarajcom | 273
 bbccomsinhala | 279
 newsfirstlk | 363
 islandlk | 1,542
 economynextcom | 1,635
-dailyftlk | 1,696
+dailyftlk | 1,700
 adalk | 2,448
 adaderanalk | 3,255
 tamilmirrorlk | 3,375
@@ -26,11 +26,73 @@ adaderanasinhalalk | 4,606
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,692 (100.0%) of 28,699 articles have been extended.
+28,692 (100.0%) of 28,704 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-06 (Thursday)
+
+### AHK champions first-ever Sri Lankan delegation at Drupa 2024
+
+*2024-06-06 04:43:01* · [`dailyftlk`](https://www.ft.lk/business/AHK-champions-first-ever-Sri-Lankan-delegation-at-Drupa-2024/34-762685) · `en`
+
+The Delegation of German Industry and Commerce in Sri Lanka (AHK Sri Lanka) proudly facilitated the first-ever Sri Lankan delegation’s participation at Drupa 2024, the world’s largest trade fair for the printing industry and technology.
+
+Held after an eight-year hiatus, Drupa 2024 was a landmark event, marking significant advancements and opportunities in the global printing industry.
+
+AHK Sri Lanka played a pivotal role in organising and supporting the delegation, which comprised 17 members from the Sri Lanka Association for Printers (SLAP), representing eight companies from the commercial, newspaper, stationery printing, and packaging industries. This pioneering effort by AHK Sri Lanka not only showcased the diverse capabilities of Sri Lanka’s printing sector but also facilitated vital bilateral discussions with key stakeholders from the German printing industry.
+
+...
+
+[Data](articles/a3ad36c1.json)
+
+---
+
+### United Petroleum inks BOI deal to start operations with $ 27.5 m investment
+
+*2024-06-06 04:41:58* · [`dailyftlk`](https://www.ft.lk/business/United-Petroleum-inks-BOI-deal-to-start-operations-with-27-5-m-investment/34-762684) · `en`
+
+United Petroleum Lanka Ltd., on Tuesday signed an agreement with the Board of Investment (BOI) for an investment of $ 27.5 million to import, storage and sale of petroleum.
+
+As part of this endeavour, United Petroleum will have a total of 200 fuel stations countrywide to operate for 20 years to import, store, distribute and sell petroleum products in Sri Lanka. The company has allocated the control of 150 privately-owned fuel outlets currently operated by the Ceylon Petroleum Corporation (CEYPETCO) and by establishing additional 50 new filling stations under its management.
+
+BOI Chairman Dinesh Weerakkody and United Petroleum Lanka Ltd., Director and CEO Dr. Prabath Samarasinghe signed the contract. The agreement grants United Petroleum Lanka Ltd., 20 years to operate the project, governed by the regulations outlined in the Sri Lanka Board of Investment Act No. 17.
+
+...
+
+[Data](articles/b91683fa.json)
+
+---
+
+### Ambeon Group appoints Jacky Tsoi as Independent Non-Executive Director
+
+*2024-06-06 04:39:39* · [`dailyftlk`](https://www.ft.lk/business/Ambeon-Group-appoints-Jacky-Tsoi-as-Independent-Non-Executive-Director/34-762683) · `en`
+
+Ambeon Capital PLC and Ambeon Holdings PLC together have announced the appointment of Jacky Tsoi as an Independent Non-Executive Director of both entities.
+
+Tsoi is the Managing Partner of Syndicate Capital, an international investment conglomerate that focuses on co-investments in mid-market companies alongside core and specialist sponsors, especially in the technology, financial services, green energy, education, healthcare, and industrial sectors.
+
+A qualified accountant with over 20 years of diverse experience in the financial technology and financial services industries, Tsoi has a proven track record of driving strategic initiatives, leading high-performing teams, and delivering innovative solutions that improve operational efficiency and enhance customer experience. He is adept at navigating complex regulatory environments, managing risk, and leveraging emerging technologies to achieve business objectives.
+
+...
+
+[Data](articles/385fdee4.json)
+
+---
+
+### High-level Thai delegation explores renewable energy collaboration with Hayleys
+
+*2024-06-06 04:38:03* · [`dailyftlk`](https://www.ft.lk/business/High-level-Thai-delegation-explores-renewable-energy-collaboration-with-Hayleys/34-762682) · `en`
+
+During the course of their visit to Sri Lanka, a high-level Thai delegation led by Deputy Permanent Secretary for Foreign Affairs Busadee Santipitaks together with the Ambassador Paitoon Mahapannaporn, visited Hayleys Fabric PLC in conjunction with Hayleys Solar, the renewable energy arm of Hayleys Fentons, to explore renewable energy solutions incorporated into the operations of the factory.
+
+The delegation consisted of officials from various Thai agencies and private sector representatives, including the Ministry of Foreign Affairs, Ministry of Energy, Royal Thai Embassy of Sri Lanka, Electricity Generating Authority of Thailand (EGAT), PTT Public Company Ltd., and Global Power Synergy Public Company Ltd. Guided by the directives of the Prime Minister of Thailand, the delegation’s visit aimed to explore the potential for future cooperation in renewable energy, with a particular focus on electricity generation in Sri Lanka.
+
+...
+
+[Data](articles/7e17fb5c.json)
+
+---
 
 ### E. B. Creasy Solar energises 9th Annual Construction Power and Energy Expo 2024
 
@@ -789,6 +851,18 @@ He also highlighted that the upcoming Climate Change Act and the establishment o
 [Data](articles/47b8540c.json)
 
 [Extended Data](ext_articles/47b8540c.ext.json)
+
+---
+
+### Historic Crimes Of The Chauvinistic Left: Struggle For Far Sighted Marxist Position
+
+*2024-06-05 21:58:38* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/historic-crimes-of-the-chauvinistic-left-struggle-for-far-sighted-marxist-position/) · `en`
+
+I was one of the boys in the car that made its way to the Palali airport in the middle of the night. The other is my brother. It’s unimaginable now what must have been going through my aunt’s mind as she sat in the car with us, making our way to Palali airport in the dead of night. My brother and I, just fourteen at the time, couldn’t comprehend the gravity of the situation. We never had the chance to discuss it further with her, as our time together was cut short. Soon after we left the country, despite her illness, Akila threw herself fully into the local administrative work under the control of the LTTE. At times, she worked with Thamilselvan, the leader of LTTE’s political wing, who was killed by the Sri Lankan army in 2007 in a targeted airstrike. Akila also succumbed to her illness, which deteriorated mainly due to the demands of her work, requiring extensive travel across the North.
+
+...
+
+[Data](articles/16b3d30c.json)
 
 ---
 
@@ -2129,107 +2203,5 @@ The debt office offered 235 billion rupees of bills and raised a similar amount 
 [Data](articles/45d49211.json)
 
 [Extended Data](ext_articles/45d49211.ext.json)
-
----
-
-### Planting Plant in Mannar
-
-*2024-06-05 15:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/185377) · `ta`
-
-On Wednesday, Mannar saw the renovation of its large bridge area with 300 continental plants, marking an environmental initiative led by the Mannar District Secretary, supported by various local authorities and organizations.
-
-🟩
-
-Continental plants were renovated on Wednesday morning (5) this morning in the middle of the Mannar Large Bridge and in the middle of the Mannar.
-
-Mannar District Secretary K. Kanakeswaran inaugurated the event with the help of the Mannar District Disaster Management Center and the Mannar City Divisional Secretariat.
-
-The Dinosha Mangrove Nursery was provided with 300 continental plants for the event.
-
-The event was attended by Mannar City Divisional Secretary M. Pradeep, Mannar District Disaster Management Assistant Director Kanakaratnam Dileepan, Mannar Mesito Company Director Jatsan Pigrato Environmental Coastal Protection Officers, Mannar District Secretariat and Divisional Secretariat Officers.
-
-◼️
-
-[Data](articles/4fc39a6e.json)
-
-[Extended Data](ext_articles/4fc39a6e.ext.json)
-
----
-
-### TISL raises concerns over Adani’s Sri Lanka power deal; demands transparency
-
-*2024-06-05 15:17:00* · [`economynextcom`](https://economynext.com/tisl-raises-concerns-over-adanis-sri-lanka-power-deal-demands-transparency-166391/) · `en`
-
-ECONOMYNEXT – Transparency International Sri Lanka (TISL) has raised concerns over proposed wind power projects by India’s Adani Group in the island nation’s north after the project was given on an unsolicited basis any competitive bidding.
-
-The TISL also has demanded more information on the projects from the government via Right to Information (RTI) after some local experts and state-owned Ceylon Electricity Board (CEB) officials said Adani’s unit price is “highly expensive”.
-
-“TISL is deeply concerned about the lack of transparency surrounding this project, which has raised significant economic and ecological concerns,” the TISL said in a statement.
-
-The TISL has also filed a series RTI requests with public authorities seeking crucial information regarding the transparency, legality, evaluation process, pricing, government involvement, and the Environmental Impact Assessment (EIA) related to the wind power project in the country’s northern Mannar and Pooneryn, it said.
-
-...
-
-[Data](articles/649b3913.json)
-
-[Extended Data](ext_articles/649b3913.ext.json)
-
----
-
-### Sri Lanka to establish 10 new botanical gardens across the country
-
-*2024-06-05 15:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/99679/sri-lanka-to-establish-10-new-botanical-gardens-across-the-country) · `en`
-
-Prime Minister Dinesh Gunawardena says that the government has planned to establish ten botanical gardens based on the climate zones in the country.
-
-Delivering a statement in Parliament today (05), the Prime Minister revealed plans to establish the projects in areas including Galle, Vavuniya, Ampara, Polonnaruwa, and Deniyaya.
-
-He stated that they have currently planned a Mangrove Botanic Garden at Akmeemana, Galle as well as botanic gardens in Vavuniya, Ampara, Polonnaruwa and Deniyaya.
-
-“We are working with experienced professionals in this field who possess sound knowledge on the subject. We are working on a way to enhance the benefits of this initiative not only for the residents of the areas, but also people across the country, including school children,” the PM said.
-
-◼️
-
-[Data](articles/9bcf42b1.json)
-
-[Extended Data](ext_articles/9bcf42b1.ext.json)
-
----
-
-### Moody sworn in Saturday
-
-*2024-06-05 15:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197424) · `si`
-
-Narendra Modi was sworn in for his third term as India's Prime Minister on Saturday, May 8th, after winning 293 parliamentary seats out of 543 in the general elections. His Bharatiya Janata Party secured 240 seats.
-
-🟩
-
-Narendra Moodi, won the Indian general election, is to be sworn in Saturdays 08 (08) for his third term.
-
-Mogi's leadership won 293 seats in Parliament with 543 seats. Mogi's Bharatiya Janata Party has won 240 seats.
-
-◼️
-
-[Data](articles/8a7f6209.json)
-
-[Extended Data](ext_articles/8a7f6209.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-06-05 15:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/185374) · `ta`
-
-The current exchange rate is approximately 1 USD = 297.2930 INR.
-
-🟩
-
-The US $ 297.2930 is Rs.
-
-◼️
-
-[Data](articles/e9d00ed1.json)
-
-[Extended Data](ext_articles/e9d00ed1.ext.json)
 
 ---

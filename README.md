@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-05 11:34:20**
+As of **2024-06-05 11:53:55**
 
 ## Newspaper Stats
 
-*Scraped **28,542** Articles*
+*Scraped **28,549** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,124 @@ newsfirstlk | 363
 islandlk | 1,542
 economynextcom | 1,620
 dailyftlk | 1,687
-adalk | 2,427
-adaderanalk | 3,240
+adalk | 2,428
+adaderanalk | 3,242
 tamilmirrorlk | 3,356
 virakesarilk | 4,390
-dailymirrorlk | 4,527
-adaderanasinhalalk | 4,581
+dailymirrorlk | 4,528
+adaderanasinhalalk | 4,584
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,537 (100.0%) of 28,542 articles have been extended.
+28,542 (100.0%) of 28,549 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-05 (Wednesday)
+
+### Over 25,000 dengue cases reported so far in 2024
+
+*2024-06-05 11:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/99674/over-25000-dengue-cases-reported-so-far-in-2024) · `en`
+
+Over 25,000 cases of dengue infections have been recorded within the five months so far this year, according to the National Dengue Control Unit (NDCU).
+
+The Director of the National Dengue Control Unit, Dr. Sudath Samaraweera stated that dengue breeding sites being detected in most of the schools is a dangerous situation.
+
+Dr. Samaraweera also stated that there had been a significant surge in dengue cases last year, with nearly 90,000 reported by the end of 2023.
+
+“Similarly, a large number of dengue cases were reported in January this year exceeding 10,000. In total, over 25,000 cases have been reported in the first five months of this year. After January, the number of patients gradually declined in February, March and April.”
+
+However, he said that by the end of May there was a slight increase in patients once again while there is a risk of an increase in patients in the future with the prevailing monsoon rains.
+
+...
+
+[Data](articles/20a9ed64.json)
+
+---
+
+### Deadline to submit applications for re-scrutiny of A/L results announced
+
+*2024-06-05 11:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/99673/deadline-to-submit-applications-for-re-scrutiny-of-al-results-announced-) · `en`
+
+Applications for the re-scrutiny of 2023 (2024) G.C.E. Advanced Level Examination results will be accepted from 05 June to 19 June and will only be accepted online, the Department of Examinations announced.
+
+Candidates are requested to submit their applications online through the department’s websites: www.doenets.lk or www.onlineexams.gov.lk
+
+◼️
+
+[Data](articles/cdf89a3c.json)
+
+---
+
+### කාන්තාවන් රාජ්‍ය නායකයින් ලෙස කටයුතු කරන රටවල්
+
+*2024-06-05 11:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197414) · `si`
+
+මෙක්සිකෝවේ පසුගියදා පැවති ජනාධිපතිවරණයෙන් ජයලැබූ Claudia Sheinbaum එරට පළමු ජනාධිපතිවරිය ලෙස ඉතිහාසගත වූවාය.
+
+මේ වනවිට ලොව රටවල් 26 ක රාජ්‍ය නායකයා ලෙස කටයුතු කරන්නේ කාන්තාවන් ය.
+
+◼️
+
+[Data](articles/33917415.json)
+
+---
+
+### Death toll due to inclement weather rises to 30: State Minister
+
+*2024-06-05 11:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Death-toll-due-to-inclement-weather-rises-to-30-State-Minister/108-284158) · `en`
+
+Parliament, June 5 (Daily Mirror)- The death toll due to the inclement weather has gone up to 30 as of today with one death being reported this morning, State Minister of Defence Pramitha Bandara Tennakoon said.
+
+He told Parliament that Rs. 25,000 has been granted to the families of the deceased for the funerals while discussions are in progress to grant another payment of compensation to the families of the deceased.
+
+Responding to a question by SLPP MP Akila Ellawala, he said 71 houses have been completely damaged while some 93,770 houses have been partially damaged.
+
+The Minister said steps have been taken to estimate the damages caused to the houses and that compensation will be paid to the affected after completing the estimating process.
+
+◼️
+
+[Data](articles/ea192ae1.json)
+
+---
+
+### හෙළ සිනමාව කළ එළිකළ රවින්ද්‍රය
+
+*2024-06-05 11:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197413) · `si`
+
+සිංහල සිනමාවේ අද්වතීය රංග පෞරුෂය වන රවින්ද්‍ර රන්දෙණිය මහතාගේ 79 වන ජන්ම දිනය අදට යෙදී තිබේ.
+
+එමෙන්ම ඔහුගේ සිනමා දිවියට ද අදට වසර 50ක් සපිරීම නිමිත්තෙන් රජය වෙනුවෙන් බන්දුල ගුණවර්ධන මහතා සහ විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා ද පාර්ලිමේන්තුවේ දී සුබ පැතුම් එක්කළහ.
+
+මෙහිදී විශේෂ යෝජනාවක් කරමින් සජිත් ප්‍රේමදාස මහතා පවසා සිටියේ, කලා කේෂ්ත්‍රයට රවින්ද්‍ර රන්දෙණිය මහතා සිදුකළ අමරණීය සේවය පිළිබඳ සියලුදෙනාගේ සුභාෂිංශනය පිරිනැමිය යුතු බවය.
+
+අඩසිය වසරක රංග කාර්යය අගයමින් "රවී - සිනමා අඩ සියවසක ආත්ම භාෂණය" නමින් විශේෂ උත්සවයක් අද (5) පස්වරුවේ කොළඹ බණ්ඩාරනායක අනුස්මරණ ජාත්‍යන්තර සම්මන්ත්‍රණ ශාලාවේ දී පැවැත්වීමට නියමිතය.
+
+1970 සහ 1980 දශකවලදී සිනමා කේෂ්ත්‍රයේ ඉතා ජනප්‍රිය තලයක සිටි රවින්ද්‍ර රන්දෙණිය මහතා 1972 වසරේ දී ලෙස්ටර් ජේම්ස් පීරිස් මහතාගේ දෑස නිසා චිත්‍රපටයෙන් වඩාත් ජනාදරයට පාත්‍ර විය.
+
+වසර කිහිපයකදීම ඔහු සරසවිය සම්මාන උළෙලේදී හොඳම නළුවා ලෙස සම්මානයට පාත්‍ර වුයේය, 1984 (දඩයම), 1985(මායා), 1989 (සඳකඩ පහණ), 1990 (සිරි මැඳුර) යන සිනමා පට සඳහාය.
+
+...
+
+[Data](articles/24ae4cd5.json)
+
+---
+
+### මැයි 15 සිට ආපදා මරණ 30ක්
+
+*2024-06-05 11:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197412) · `si`
+
+අයහපත් කාලගුණික තත්ත්වය මයි මස 15 වනදා සිට මේදක්වා පුද්ගල මරණ 30ක් වාර්තා වී තිබේ.
+
+ආරක්ෂක රාජ්‍ය අමාත්‍ය ප්‍රමිත බණ්ඩාර තෙන්නකෝන් මහතා අද (05) පාර්ලිමේන්තුවේදී ප්‍රකාශයක් සිදුකරමින් මේ බව සඳහන් කළේය.
+
+◼️
+
+[Data](articles/e62c2e39.json)
+
+---
 
 ### Dates announced calling for rescrutiny of 2023 (2024) A/L exam answer scripts
 
@@ -47,6 +149,8 @@ Candidates are requested to log on to the Examinations Department’s official w
 ◼️
 
 [Data](articles/4432871c.json)
+
+[Extended Data](ext_articles/4432871c.ext.json)
 
 ---
 
@@ -76,6 +180,8 @@ TikTok said the account of reality TV star Paris Hilton was also targeted, but i
 
 [Data](articles/bf399215.json)
 
+[Extended Data](ext_articles/bf399215.ext.json)
+
 ---
 
 ### Sri Lankan Parliament congratulates Modi
@@ -96,6 +202,8 @@ Leader of the Opposition Sajith Premadasa who also assured Sri Lanka’s support
 
 [Data](articles/865484e8.json)
 
+[Extended Data](ext_articles/865484e8.ext.json)
+
 ---
 
 ### ICFS hosts multi-destination university admission day for higher education
@@ -113,6 +221,8 @@ Some of the advantages extended to Sri Lankan students include the provision to 
 ...
 
 [Data](articles/c00fae87.json)
+
+[Extended Data](ext_articles/c00fae87.ext.json)
 
 ---
 
@@ -136,6 +246,8 @@ Police said that no evidence of intoxication was found and statements regarding 
 
 [Data](articles/29f71466.json)
 
+[Extended Data](ext_articles/29f71466.ext.json)
+
 ---
 
 ### Derailment delays train services between Maradana, Fort
@@ -151,6 +263,24 @@ They said due to the derailment, the train services will operate with a consider
 [Data](articles/185c9f4d.json)
 
 [Extended Data](ext_articles/185c9f4d.ext.json)
+
+---
+
+### මූල්‍ය අරමුදල සමඟ වන එකඟතාවන් කඩළොත් රට ආපස්සට යනවා
+
+*2024-06-05 10:32:29* · [`adalk`](https://www.ada.lk/breaking_news/මූල්‍ය-අරමුදල-සමඟ-වන-එකඟතාවන්-කඩළොත්-රට-ආපස්සට-යනවා/11-410014) · `si`
+
+එම එකඟතාවන් නීතිගත කරමින් ඉදිරිපත් කර ඇති ආර්ථික පරිවර්තන කෙටුම්පතට සහාය ලබාදීම සියලුදෙනාගේ වගකීමක්.නිකරුනේ ප්‍රකාශ සිදු නොකර, රටේ ආර්ථිකය පිළිබඳ අවබෝධයකින් කථා කිරීම විපක්ෂයේ වගකීමයි.
+
+විපක්ෂය, විපක්ෂයේ සිටින්නේ අභියෝග භාර නොගෙන සම්ප්‍රදායික දේශපාලනයේ නිරත වූ නිසයි.
+
+ජාත්‍යන්තර මූල්‍ය අරමුදල සමඟ වන එකඟතාවන් කඩකළහොත් නැවත රට ආපස්සට යන බවත් එබැවින් එම සියලු එකඟතාවන් නීති ගත කරමින් පාර්ලිමේන්තුවට ඉදිරිපත් කර ඇති ආර්ථික පරිවර්තන පනත් කෙටුම්පතට සහාය ලබාදීම සියලුදෙනාගේ වගකීම බවත් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අවධාරණය කළේය.
+
+ජාත්‍යන්තර මූල්‍ය අරමුදල සමඟ වන එකඟතා අනුව රටේ ආර්ථිකය ස්ථාවරව පවත්වාගෙන යාම වෙනුවෙන් සපුරාගත යුතු ආර්ථික ඉලක්ක ගණනාවක් පවතින බවද පෙන්වාදුන් ජනාධිපතිවරයා එම ඉලක්ක කඩ කිරීම යනු රටේ ආර්ථිකය විනාශ කිරීමක් වන බැවින් දේශපාලන අරමුණු වෙනුවෙන් වේදිකාවල ප්‍රකාශ සිදු නොකර පවතින රාමුව තුළ පමණක් කතා කිරීම විපක්ෂයේ වගකීම වන බවද සඳහන් කළේය.
+
+...
+
+[Data](articles/d9d2adb8.json)
 
 ---
 
@@ -2065,153 +2195,5 @@ He said every Indian is proud of India's election process and the credibility of
 [Data](articles/483d0aeb.json)
 
 [Extended Data](ext_articles/483d0aeb.ext.json)
-
----
-
-### Do not share examination results papers on social media: Prof. Amaratunge
-
-*2024-06-04 22:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Do-not-share-examination-results-papers-on-social-media-Prof-Amaratunge/108-284090) · `en`
-
-Colombo, June 4 (Daily Mirror) - University Grants Commission (UGC) Chairman, Prof. Sampath Amaratunge, has urged students and parents not to share their 2023 (2024) GCE Advanced Level (A/L) examination results on social media.
-
-He informed the Daily Mirror that there have been several reports of incidents involving the misuse of examination result details by unknown individuals.
-
-"Examination result sheets are unique documents that serve as a means of individual identification for students by the ministry. Sharing copies of these documents, including the index number, can compromise the identity of the genuine owner of the result sheet," he explained," he said.
-
-...
-
-[Data](articles/b2a84163.json)
-
-[Extended Data](ext_articles/b2a84163.ext.json)
-
----
-
-### Modi victory;Message sent by Ranil
-
-*2024-06-04 22:00:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மோடி-வெற்றி-ரணில்-அனுப்பிய-செய்தி/175-338437) · `ta`
-
-Narendra Modi's National Democratic Alliance wins India's parliamentary election, securing his third term as PM. President Ranil Wickremesinghe congratulates Modi, expressing hope for stronger ties between Sri Lanka and India.
-
-🟩
-
-Narendra Modi -led National Democratic Alliance has won India's parliamentary election.
-
-According to Indian media reports, Narendra Modi will rule for the third time.
-
-President Ranil Wickremesinghe congratulates Prime Minister Narendra Modi, who has been successful for the third time.
-
-"The President recognizes the confidence expressed by the Indian people in the leadership of Narendra Modi and I believe in the continuous development of relations between Sri Lanka and India," Ranil Wickremesinghe said.. Remble
-
-◼️
-
-[Data](articles/61824cdf.json)
-
-[Extended Data](ext_articles/61824cdf.ext.json)
-
----
-
-### Modi victory;Message sent by Ranil
-
-*2024-06-04 22:00:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/மோடி-வெற்றி-ரணில்-அனுப்பிய-செய்தி/150-338437) · `ta`
-
-Narendra Modi's National Democratic Alliance wins India's parliamentary election, securing his third term as PM. President Ranil Wickremesinghe congratulates Modi, expressing hope for stronger ties between Sri Lanka and India.
-
-🟩
-
-Narendra Modi -led National Democratic Alliance has won India's parliamentary election.
-
-According to Indian media reports, Narendra Modi will rule for the third time.
-
-President Ranil Wickremesinghe congratulates Prime Minister Narendra Modi, who has been successful for the third time.
-
-"The President recognizes the confidence expressed by the Indian people in the leadership of Narendra Modi and I believe in the continuous development of relations between Sri Lanka and India," Ranil Wickremesinghe said.. Remble
-
-◼️
-
-[Data](articles/7e5a852a.json)
-
-[Extended Data](ext_articles/7e5a852a.ext.json)
-
----
-
-### Committee appointed to inquire into possible root causes of floods in Kolonnawa
-
-*2024-06-04 21:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/99665/committee-appointed-to-inquire-into-possible-root-causes-of-floods-in-kolonnawa) · `en`
-
-The Cabinet has approved the memorandum presented by President Ranil Wickremesinghe to provide food and essential services to residents in Kolonnawa and other areas in the country affected by recent floods as a result of adverse weather conditions.
-
-This decision was made during the Cabinet meeting held yesterday (03), the President’s Media Division said.
-
-Following the President’s observation tour to assess the situation and discussions on the needs of flood-affected residents with local officials in Colombo’s suburbs, including Kolonnawa, the memorandum was presented to address immediate relief and long-term solutions to direct relevant authorities to implement several urgent actions.
-
-...
-
-[Data](articles/2a3e7818.json)
-
-[Extended Data](ext_articles/2a3e7818.ext.json)
-
----
-
-### The death toll has increased
-
-*2024-06-04 21:16:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உயிரிழப்பு-எண்ணிக்கை-அதிகரித்தது/175-338436) · `ta`
-
-Inclement weather in Sri Lanka has caused 17 deaths and affected over 120,000 people from 23,422 families.
-
-🟩
-
-The Center for Disaster Management Center said that the number of casualties in Sri Lanka has increased to 17 due to inclement weather.
-
-In addition, over 120,000 people from 23,422 families have been affected by disasters due to inclement weather conditions.. Remble
-
-◼️
-
-[Data](articles/c751b64f.json)
-
-[Extended Data](ext_articles/c751b64f.ext.json)
-
----
-
-### NTC suspends three buses for unsafe driving on flooded roads
-
-*2024-06-04 21:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/NTC-suspends-three-buses-for-unsafe-driving-on-flooded-roads/108-284083) · `en`
-
-Colombo, June 4 (Daily Mirror) - The National Transport Commission (NTC) suspended the services of three passenger transport buses that were driven unsafely on flooded roads, NTC Director General Nayomi Jayawardana said.
-
-She said that certain areas experienced flooding, and there were several reports of buses being driven unsafely during the adverse weather.
-
-As a result, the services of three buses have been suspended, and investigations have been launched against them.
-
-The bus operating from Sooriyawewa to Colombo, under the registration number NE-0629 (NTC F13873), had its services suspended.
-
-Meanwhile, the passenger bus with registration number NC-4908 (8586), operating on the Colombo-Vavuniya route, and the bus with registration number NB-9392 (13795), operating on the Kandy-Panadura route, were suspended for unsafe driving.
-
-...
-
-[Data](articles/e7010c5e.json)
-
-[Extended Data](ext_articles/e7010c5e.ext.json)
-
----
-
-### Major shutdown of Sapugaskanda refinery to begin on July 8
-
-*2024-06-04 21:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Major-shutdown-of-Sapugaskanda-refinery-to-begin-on-July-8/108-284093) · `en`
-
-Colombo, June 4 (Daily Mirror) - The Ceylon Petroleum Corporation (CPC) has scheduled a major shutdown of the refinery at Sapugaskanda from July 8, its media spokesman S.M.C.P. Samarakoon said.
-
-He said the refinery crude unit was shut down on May 29, followed by a complete shutdown of the production processes on May 30 morning due to a failure in the water demineralization plant, which is crucial for refinery power generation facilities.
-
-After painstaking efforts, the repair work on the boiler water system has been successful, and the restoration of the power system will be completed shortly, Samarakoon said.
-
-The resumption of the crude unit operation will commence effective tomorrow, and other processors will be started subsequently, he said.
-
-Therefore, the CPC assured the public that there is no need to worry about their fuel requirements, as Ceypetco has sufficient stocks in storage tanks.
-
-◼️
-
-[Data](articles/47e24d3f.json)
-
-[Extended Data](ext_articles/47e24d3f.ext.json)
 
 ---

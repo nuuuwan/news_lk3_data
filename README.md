@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-05 12:34:08**
+As of **2024-06-05 12:52:08**
 
 ## Newspaper Stats
 
-*Scraped **28,562** Articles*
+*Scraped **28,563** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,33 +20,61 @@ adaderanalk | 3,243
 tamilmirrorlk | 3,360
 virakesarilk | 4,391
 dailymirrorlk | 4,528
-adaderanasinhalalk | 4,586
+adaderanasinhalalk | 4,587
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,561 (100.0%) of 28,562 articles have been extended.
+28,562 (100.0%) of 28,563 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-05 (Wednesday)
 
-### මෛත්‍රී ඇතුළු පිරිසට ශ්‍රේෂ්ඨාධිකරණය කල්දෙයි
+### TikTok සයිබර් ප්‍රහාරයකට ලක්වෙයි
+
+*2024-06-05 12:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197417) · `si`
+
+සයිබර් ප්‍රහාරයකට ලක්වූ TikTok ගිණුම් යථා තත්ත්වයට පත්කිරීමට අවශ්‍ය පියවර ගනිමින් සිටින බව TikTok සමාජ මාධ්‍ය ජාලය හිමි බයිට්ඩාන්ස් සමාගම පවසයි.
+
+විශේෂයෙන් ම සන්නාම කිහිපයකට අයත් TikTok ගිණුම් සහ ප්‍රකට පුද්ගලයින් කිහිපදෙනෙක් ට අයත් TikTok ගිණුම් එසේ සයිබර් ප්‍රහාරයට ලක්ව තිබුණි.
+
+ඒ අතර CNN පුවත් සේවය වැනි ප්‍රකට සන්නාම සහ පැරිස් හිල්ටන් වැන්නවුන්ගේ ගිණුම් විය.
+
+◼️
+
+[Data](articles/4e862ebd.json)
+
+---
+
+### Supreme Court postponed to Maithri
 
 *2024-06-05 12:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197416) · `si`
 
-ශ්‍රී ලංකා නිදහස් පක්ෂයේ මහලේකම්වරයා වශයෙන් කටයුතු කළ පාර්ලිමේන්තු මන්ත්‍රී දයාසිරි ජයසේකර මහතාගේ පක්ෂ සාමාජිකත්වය අහිමි කරමින්  නිකුත් කළ ලිපිය ඉල්ලා අස්කර ගන්නේද? නැද්ද? යන තීරණය දැනුම්දීම සඳහා ශ්‍රේෂ්ඨාධිකරණය විසින් වගඋත්තරකාර මෛත්‍රිපාල සිරිසේන ඇතුළු පිරිසකට කල් ලබාදුන්නේය.
+The Supreme Court postponed its decision regarding Dayasiri Jayasekera, former Secretary-General of the SLFP, until it could be informed by a group of justices. Jayasekera was summoned but not yet withdrawn from the party's membership. The court also included SLFP Chairman Maithripala Sirisena and Deputy Secretary General in the decision-making process.
 
-තමන්ව තනතුරින් ඉවත් කිරීමට එරෙහිව දයාසිරි ජයසේකර මහතා විසින් ඉදිරිපත්කළ අභියාචනා පෙත්සමක් අද (05) ශ්‍රේෂ්ඨාධිකරණය හමුවේ කැඳවනු ලැබීය.
+🟩
 
-එහිදී අදාළ පෙත්සමේ වගඋත්තරකරුවන් ලෙස නම්කර සිටි ශ්‍රී ලංකා නිදහස් පක්ෂයේ සභාපති මෛත්‍රිපාල සිරිසේන සහ වැඩ බලන මහලේකම් සරත් ඒකනායක යන මහත්වරු වෙනුවෙන් පෙනී සිටි නීතිඥවරිය සඳහන් කළේ පෙත්සම්කරුට එරෙහිව නිකුත් ලිපිය ඉවත් කර ගන්නේද? නැත්ද? යන තීරණය දැනුම් දීම සඳහා කල් ලබාදෙන ලෙසට ය.
+Do he withdrawn the letter from the party's membership Dayasiri Jayasekera who was the Secretary-General of the SLFP Dayasiri Jayasekera.Not?The Supreme Court paid a group of the Supreme Court to inform the decision.
 
-ඒ අනුව පෙත්සම යලි ජූනි 25 වනදා කැඳවීමට නියමකළ අධිකරණය එදින මෙම තීරණය දැනුම් දෙන ලෙස අදාළ පෙත්සමේ වගඋත්තරකරුවන් ලෙස නම් කර සිටි  ශ්‍රී ලංකා නිදහස් පක්ෂයේ සභාපති මෛත්‍රීපාල සිරිසේන සහ නියෝජ්‍ය මහලේකම් සරත් ඒකනායක යන මහත්වරුන්ට නියෝග කළේය.
+Dayasiri Jayasekera was summoned before the Supreme Court today (05).
+
+Attorney-at-Law Chairman of the SLFP, the Chairman of Sri Lanka Freedom Party (SLFP) and acting Secretary General Sarath Ekanayake, who was named as respondents in the petition.Or aren't there?It is up to the decision of the decision.
+
+Accordingly, the Court of Sri Lanka Freedom Party (SLFP) Chairman Maithripala Sirisena and Deputy Secretary General of Sri Lanka Freedom of Sri Lanka (SLFP) were named as respondents to inform the petition on June 25.
+
+Dayasiri Jayasekera had filed a case before the Colombo District Court last year.
+
+However, Colombo District Court rejected an injunction to prevent Dayasiri Jayasekara.
+
+Dayasiri Jayasekera filed a petition before the Western Province civil Appeal High Court.
 
 ...
 
 [Data](articles/4167cd64.json)
+
+[Extended Data](ext_articles/4167cd64.ext.json)
 
 ---
 
@@ -2213,33 +2241,5 @@ Senthil Thondaman, the Governor of the Eastern Province and the President of the
 [Data](articles/0e959749.json)
 
 [Extended Data](ext_articles/0e959749.ext.json)
-
----
-
-### We have changed the telephone
-
-*2024-06-05 01:29:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அஸ்வெசுமவை-மாற்றியுள்ளோம்/175-338454) · `ta`
-
-The Ashemu Payment Act system has undergone changes after being practiced for three decades, but the Minister of Finance noted its partial persistence due to complexities. Opposition MP Harsha de Silva highlighted the importance of confirming the second phase by the 15th of the current month. The transition has faced resistance, with some preferring the outdated system despite acknowledging its flaws. Steps have been taken to improve the system through negotiations with all stakeholders. Beneficiaries awaiting refunds since December 31st are expected to receive updates soon, with plans to present details to the Government Finance Committee this week for parliamentary approval and implementation.
-
-🟩
-
-We have changed the system that was practiced in the Ashemu Payment Act.. However, the Minister of Finance Sehan Semasinghe said the system could not be completely eliminated.
-
-Opposition MP on Tuesday (04) in Parliament. Harsha de Silva said this while responding to a question raised.
-
-It is very important to confirm the second phase of Aswesuma. These second phases are important, which will be confirmed by the 15th of this month.
-
-We have now changed the practice that has been practiced for three decades. There are also parties who do not accept this change or like it.
-
-There are also parties who think that the old system should continue to travel with the mistakes and the accusations.
-
-However, we accept that there are some flaws in these activities. We have taken steps to bring about changes in the system that we have negotiated with all parties and all parties involved in this regard.
-
-...
-
-[Data](articles/e2ac54d4.json)
-
-[Extended Data](ext_articles/e2ac54d4.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-05 05:37:04**
+As of **2024-06-05 06:19:32**
 
 ## Newspaper Stats
 
-*Scraped **28,469** Articles*
+*Scraped **28,471** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,12 +12,12 @@ colombotelegraphcom | 258
 dbsjeyarajcom | 273
 bbccomsinhala | 278
 newsfirstlk | 363
-islandlk | 1,533
+islandlk | 1,534
 economynextcom | 1,620
 dailyftlk | 1,678
 adalk | 2,423
 adaderanalk | 3,234
-tamilmirrorlk | 3,348
+tamilmirrorlk | 3,349
 virakesarilk | 4,387
 dailymirrorlk | 4,504
 adaderanasinhalalk | 4,570
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,570
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,453 (99.9%) of 28,469 articles have been extended.
+28,465 (100.0%) of 28,471 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,6 +48,8 @@ On the acquisition, Komar President and CEO Charlie Komar said: “This investme
 
 [Data](articles/df51c1f4.json)
 
+[Extended Data](ext_articles/df51c1f4.ext.json)
+
 ---
 
 ### ‘Enterprise Sri Lanka’ to boost SME sector
@@ -66,6 +68,8 @@ In addition to creating ‘Enterprise Sri Lanka,’ the Cabinet decided to direc
 
 [Data](articles/2be36a96.json)
 
+[Extended Data](ext_articles/2be36a96.ext.json)
+
 ---
 
 ### High-level delegation of Swedish companies in town marking 75 years of bilateral ties
@@ -82,6 +86,8 @@ With the Sri Lankan economy set to rebound this year, Team Sweden in Sri Lanka i
 
 [Data](articles/b1bb91de.json)
 
+[Extended Data](ext_articles/b1bb91de.ext.json)
+
 ---
 
 ### Sri Lanka woos UK Dover Port Marina to Colombo Port City
@@ -97,6 +103,8 @@ The Port of Dover boasts facilities for ferries, handling cruises and cargo, and
 ...
 
 [Data](articles/38366593.json)
+
+[Extended Data](ext_articles/38366593.ext.json)
 
 ---
 
@@ -117,6 +125,8 @@ Thousands of families have been temporarily affected due to landslides, falling 
 ...
 
 [Data](articles/c6198dab.json)
+
+[Extended Data](ext_articles/c6198dab.ext.json)
 
 ---
 
@@ -140,6 +150,8 @@ The price of a 12.5kg domestic cylinder under the LAUGFS brand will be reduced b
 
 [Data](articles/dfdd27b1.json)
 
+[Extended Data](ext_articles/dfdd27b1.ext.json)
+
 ---
 
 ### Mujibur warns against Govt. tactics to postpone polls
@@ -161,6 +173,8 @@ The MP accused President Ranil Wickremesinghe of collaborating with a corrupt gr
 ...
 
 [Data](articles/abf038a3.json)
+
+[Extended Data](ext_articles/abf038a3.ext.json)
 
 ---
 
@@ -196,95 +210,139 @@ Sri Lanka Army personnel seen navigating through floodwaters in a WMZ 551B to re
 
 ---
 
-### நேபாளத்தை 6 விக்கெட்களால் வென்றது நெதர்லாந்து
+### Netherlands won Nepal by 6 wickets
 
 *2024-06-05 02:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/185340) · `ta`
 
-டெக்சாஸ் டலாஸ் க்ராண்ட் ப்ரெய்ரீ விளையாட்டரங்கில் செவ்வாய்க்கிழமை (04) மிகவும் இறுக்கமாக நடைபெற்ற டி குழுவுக்கான ரி20 உலகக் கிண்ண கிரிக்கெட் போட்டியில் நெதர்லாந்து 6 விக்கெட்களால் வெற்றிபெற்றது.
+In the T20 World Cup match, the Netherlands beat Nepal by 6 wickets. The Netherlands made 109/4 in 18.5 overs chasing Nepal's 106 all out in 19.2 overs. Key performers included Mex O'Dut with 54 runs for Netherlands and Rohit Powdell with 35 runs for Nepal.
 
-நேபாளத்தினால் நிர்ணயிக்கப்பட்ட 107 ஓட்டங்களை வெற்றி இலக்காகக் கொண்டு பதிலுக்கு துடுப்பெடுத்தாடிய நெதர்லாந்து 18.5 ஓவர்களில் 4 விக்கெட்களை இழந்து 109 ஓட்டங்களைப் பெற்று வெற்றியீட்டியது.
+🟩
 
-அனுபவசாலியான மெக்ஸ் ஓ'தௌத் திறமையாகத் துடுப்பெடுத்தாடி ஆட்டம் இழக்காமல் 54 ஓட்டங்களைப் பெற்று அணியை வெற்றி அடையச் செய்தார்.
+The Netherlands won by 6 wickets in the T20 World Cup for the T -Committee on Tuesday (04) at the Texas Talus Grand Private Stadium.
 
-அவரைவிட விக்ரம்ஜித் சிங் 22 ஓட்டங்களையும் சைப்ராண்ட் எங்க்ள்ப்ரெச் 14 ஓட்டங்களையும் பாஸ் டி லீட் ஆட்டம் இழக்காமல் 11 ஓட்டங்களையும் பெற்றனர்.
+Netherlands scored 109 runs for the loss of 4 wickets in 18.5 overs, targeting 107 runs for Nepal.
 
-18ஆவது ஓவரில் மொத்த எண்ணிக்கை 89 ஓட்டங்களாக இருந்தபோது ஓ'தௌத் கொடுத்த இலகுவான பிடியை நேபாள அணித் தலைவர் பவ்டெல் தவறவிட்டார்.
+The experienced Mex O'Dut was efficiently bowled out and scored 54 runs without losing the game.
 
-அடுத்த ஓவரில் அதிரடியாகக் துடுப்பெடுத்தாடிய ஓ'தௌத், பாஸ் டி லீட் ஆகிய இருவரும் வெற்றியை உறுதிசெய்தனர்.
+Vikramjit Singh scored 22 runs, Cyprint Englpres 14 runs and 11 runs without losing Bass de Lead.
+
+Nepal captain Powdell missed the easiest grip of O'Dud when the total number was 89 runs in the 18th over.
+
+O'Dadout and Bass de Lead, who won the next over in the next over, confirmed the victory.
+
+Tipendra Singh Ayree took one wicket for 6 runs, Lazal Kami took one wicket for 18 runs and Abinash Phara took one wicket for 29 runs.
+
+Nepal scored 106 runs for the loss of all wickets in 19.2 overs.
+
+Team captain Rohit Powdell scored 35 runs. Karan KC is better than him. Gulzan Ja scored 14 runs and Anil Sah 11 runs.
 
 ...
 
 [Data](articles/0d0e3884.json)
 
+[Extended Data](ext_articles/0d0e3884.ext.json)
+
 ---
 
-### இங்கிலாந்து - ஸ்கொட்லாந்து போட்டி மழையால் கைவிடப்பட்டது
+### UK - Scotland Competition is abandoned by rain
 
 *2024-06-05 02:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/185339) · `ta`
 
-இங்கிலாந்துக்கும் ஸ்கொட்லாந்துக்கும் இடையில் பார்படோஸ், ப்றிஜ்டவுன் கென்சிங்டன் ஓவல் விளையாட்டரங்கில் செவ்வாய்க்கிழமை (04) நடைபெற்ற 9ஆவது ரி20 உலகக் கிண்ண அத்தியாயத்தின் பி குழு போட்டி மழையால் கைவிடப்பட்டது.
+The 9th T20 World Cup match between the UK and Scotland in Barbados was abandoned due to rain. This marks the second time in history that a match between these teams has been affected by weather, following a similar incident in 2008. Scotland's batting performance was impressive, scoring 90 runs in just 10 overs without losing a wicket, despite a rain-delayed start. Key contributors were Michael Jones with 45 runs off 30 balls and George Manse with 41 runs off 31 balls. The Duckworth-Lewis method set the UK's revised target to 109 runs.
 
-இந்த இரண்டு அணிகளுக்கும் இடையில் 2008இல் நடைபெற்ற முதலாவது சர்வதேச ஒருநாள் கிரிக்கெட் போட்டியும் மழையால் கைவிடப்பட்டிருந்தது.
+🟩
 
-மழையினால் தாமதித்து ஆரம்பமானதும் இடையில் தடைப்பட்டு 10 ஓவர்களாக மட்டுப்படுத்தப்பட்டதுமான  போட்டியில்  ஸ்கொட்லாந்து விக்கெட் இழப்பின்றி 90 ஓட்டங்களைக் குவித்தது.
+The B Group of the 9th T20 World Cup chapter of the Barbados, Brijdown Kensington Oval between the UK and Scotland was abandoned by the rains on Tuesday (04).
 
-மழை காரணமாக 52 நிமிடங்கள் தாமதித்து ஆரம்பித்த போட்டியில் முதலில் துடுப்பெடுத்தாடத் தீர்மானித்த ஸ்கொட்லாந்து 6.2 ஓவர்களில் விக்கெட் இழப்பின்றி 51 ஓட்டங்களைப் பெற்றிருந்தபோது மீண்டும் மழை பெய்ததால் ஆட்டம் தடைப்பட்டது.
+The first international ODI match between the two teams in 2008 was abandoned by rain.
 
-ஆட்டம் இடைநிறுத்தப்பட்டபோது மைக்கல் ஜோன்ஸ் 30 ஓட்டங்களுடனும் ஜோர்ஜ் மன்சே 18 ஓட்டங்களுடனும் ஆட்டம் இழக்காதிருந்தனர்.
+Scottish scored 90 runs without the loss of wicket in a match, which was delayed by rain and restricted to 10 overs.
 
-சுமார் 2 மணித்தியாலங்களின் பின்னர் ஆட்டம் மீண்டும் தொடர்ந்தபோது அணிக்கு 10 ஓவர்கள் என மத்தியஸ்தர்களால் அறிவிக்கப்பட்டது.
+Scottish, who decided to bat first in a 52 -minute delay in the rain due to rain, was disrupted by the rains when it rained 51 runs in 6.2 overs.
 
-...
+When the game was suspended, Michael Jones did not lose 30 runs and George Manse 18.
+
+When the game resumed after about 2 hours, the team was reported to be 10 overs.
+
+In the remaining 3.4 overs, Scottish, who scored a further 39 runs, increased the total number to 90 runs.
+
+Michael Jones did not play 45 off 30 balls and George Manse 41 off 31 balls.
+
+Following this, the UK's success target was set to be 109 runs according to the Duckworth Louis system.
+
+◼️
 
 [Data](articles/c61ac6dd.json)
 
+[Extended Data](ext_articles/c61ac6dd.ext.json)
+
 ---
 
-### புங்குடுதீவில் கிணற்றிலிருந்து பெண்ணின் சடலம் மீட்பு
+### The body of the woman from the well in Punguduthivu
 
 *2024-06-05 02:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/185338) · `ta`
 
-யாழ்ப்பாணம் ஊர்காவற்றுறை பொலிஸ் பிரிவுக்குட்பட்ட புங்குடுதீவு மடத்துவெளி வயலூர் முருகன் ஆலய கிணற்றிலிருந்து இளம் பெண் ஒருவரின் சடலம் 4 ஆம் திகதி செவ்வாய்க்கிழமை கண்டெடுக்கப்பட்டுள்ளது.
+A young woman, Sivakanandan Sindhu, 27, was discovered on April 4th in a well near the Madathuveli Vayalur Murugan Temple in Punguduthivu, Jaffna Kayts.
 
-உயிழந்தவர் புங்குடுதீவு மடத்துவெளி எட்டாம் வட்டாரத்தை சேர்ந்த 27 வயதுடைய சிவகுகானந்தன் சிந்துயா என்பவராவார்.
+🟩
+
+The body of a young woman has been found on Tuesday, 4th from the well of Madathuveli Vayalur Murugan Temple, Punguduthivu, Jaffna Kayts.
+
+Sivakanandan Sindhu, aged 27, from the eighth region of Punguduthivu, Punguduthivu.
 
 ◼️
 
 [Data](articles/60c62c25.json)
 
+[Extended Data](ext_articles/60c62c25.ext.json)
+
 ---
 
-### வவுனியாவில் 5 கிராம் ஹெரோயின் போதைப் பொருளுடன் 24 வயது யுவதி கைது
+### A 24 -year -old woman arrested with 5 grams of heroin in Vavuniya
 
 *2024-06-05 02:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/185337) · `ta`
 
-வவுனியாவில் 5 கிராம் ஹெரோயின் போதைப் பொருளுடன் 24 வயது யுவதி ஒருவர் 04 ஆம் திகதி செவ்வாய்க்கிழமை கைது செய்யப்பட்டுள்ளதாக பொலிசார் தெரிவித்தனர்.
+A 24-year-old woman was arrested in Vavuniya for possession of 5 grams of heroin, which she intended to sell. Led by Inspector Rizvi, police conducted a special operation resulting in her arrest. She will be charged and taken to court following further investigation.
 
-வவுனியா தலைமைப் பொலிஸ் நிலைய போதை ஒழிப்பு பிரிவு பொறுப்பதிகாரி றிஸ்வி தலைமையிலான பொலிசார் வவுனியா, தோணிக்கல் பகுதியில் மேற்கொண்ட விசேட நடவடிக்கையின் போது விற்பனைக்காக தயார்ப்படுத்தி வைக்கப்பட்டிருந்த 5 கிராம் ஹெரோயின் போதைப் பொருளை மீட்டனர்.
+🟩
 
-இதன்போது குறித்த ஹெரோயின் போதைப் பொருளை உடமையில் வைத்திருந்த வவுனியா, தோணிக்கல் பகுதியைச் சேர்ந்த யுவதியும் கைது செய்யப்பட்டுள்ளார். மேலதிக விசாரணைகளின் பின் கைது செய்யப்பட்ட யுவதியை நீதிமன்றில் முற்படுத்தவுள்ளதாக பொலிசார் மேலும் தெரிவித்தனர்.
+A 24 -year -old woman was arrested on Tuesday, 04, with a 5 gram heroin in Vavuniya, police said.
+
+Police, led by Rizvi, in charge of the Vavuniya Chief Police Station, Rizvi, recovered 5 grams of heroin prepared for sale during a special operation in the Vavuniya area.
+
+The woman from the Vavuniya and Thonikkal area has been arrested for possessing heroin.. Police said the woman who was arrested after further investigations would be brought to court.
 
 ◼️
 
 [Data](articles/1d9c7092.json)
 
+[Extended Data](ext_articles/1d9c7092.ext.json)
+
 ---
 
-### யாழில் கைதான போலி வைத்தியர் பல பெண்களிடமும் பண மோசடி: விளக்கமறியலில் வைக்குமாறு, யாழ்,நீதவான் நீதிமன்று உத்தரவு
+### False doctors arrested in Jaffna
 
 *2024-06-05 02:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/185336) · `ta`
 
-வெளிநாடுகளில் வசிப்போர்களை இலக்கு வைத்துப் பல இலட்ச ரூபாய் மோசடிகளில் ஈடுபட்ட குற்றச்சாட்டில் யாழ்ப்பாணத்தில் கைதான போலி வைத்தியரை  விளக்கமறியலில் வைக்குமாறு, யாழ்,நீதவான் நீதிமன்று உத்தரவிட்டுள்ளது.
+A fake doctor in Jaffna, accused of defrauding foreign residents, has been arrested. The suspect, known for his relationships with school girls and receiving funds from overseas women, was caught with expensive jewelry and several high-end phones. Investigations reveal he used fake documents to commit fraud, involving land scams and impersonation. A larger gang is suspected to be behind him. Authorities are now probing his financial dealings.
 
-குறித்த நபர், பாடசாலை மாணவிகள் பலருடன் காதல் தொடர்புகளை பேணி வந்துள்ளமையுடன்.  வெளிநாடுகளில் வசிக்கும் தன்னை விட வயது அதிகமான பெண்களுடனும் காதல் தொடர்புகளைப் பேணி அவர்களை மிரட்டி , பல இலட்ச ரூபாய்களைப் பெற்று வந்துள்ளான். அத்துடன் இளைஞனிடம் இருந்து மீட்கப்பட்ட தொலைப்பேசிகளில் பல பெண்களின் அந்தரங்க புகைப்படங்கள் காணொளிகள் உள்ளதாகவும் பொலிஸ் விசாரணைகளில் தெரியவந்துள்ளது.
+🟩
 
-யாழ்ப்பாணம் சுன்னாகம் பகுதியைச் சேர்ந்த இளைஞன் தன்னை வைத்தியர் என அறிமுகப்படுத்தி , அதற்கான போலியான ஆவணங்களையும் தயாரித்து வெளிநாடுகளில் வசிக்கும் நபர்களை இலக்கு வைத்துப் பல இலட்ச ரூபாய் மோசடியில் ஈடுபட்டு வந்துள்ளார்.
+The Jaffna and Magistrate's Magistrate has ordered the detention of a fake doctor in Jaffna on charges of fraudulently targeted by foreign residents.
 
-இந்நிலையில் குறித்த இளைஞனை நேற்றைய தினம் திங்கட்கிழமை யாழ்.நகர்ப் பகுதியில் அதிசொகுசு காரில் இளைஞன் பயணித்துக்கொண்டிருந்த வேளை பொலிஸாரினால் இடைமறிக்கப்பட்டு கைது செய்யப்பட்டார்.
+The person, with many school children, have maintained love affairs.He has been intimidated by women who live abroad and have received many lakhs of rupees.. Police investigations have also revealed that many women's private photos of the telephones rescued from the youth have been video.
+
+The young man from the Chunnakam area in Jaffna has introduced himself as a doctor and has been involved in several lakhs of rupees fraud by producing fake documents and targeting people living abroad.
+
+The youth was interrupted and arrested by the police while traveling in a miracle car in Jaffna on Monday.
+
+The young man was wearing a 15 -pound jewelry and had a cost of Rs.. Police also recovered 05 sophisticated phones and several bank cards.
 
 ...
 
 [Data](articles/58bacfec.json)
+
+[Extended Data](ext_articles/58bacfec.ext.json)
 
 ---
 
@@ -301,6 +359,22 @@ Sri Lanka Army personnel seen navigating through floodwaters in a WMZ 551B to re
 ...
 
 [Data](articles/4254667b.json)
+
+---
+
+### ’இந்திய ஆசிரியர்கள் நஞ்சை விதைக்கின்றனர்’
+
+*2024-06-05 02:04:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்திய-ஆசிரியர்கள்-நஞ்சை-விதைக்கின்றனர்/175-338459) · `ta`
+
+இந்தியாவில் இருந்து வந்து இரண்டாயிரம் ஆசிரியர்கள் தோட்டப்புற பாடசாலைகளில் தன்னார்வ அடிப்படையில் கற்பித்தல் செயற்பாடுகளில் ஈடுபடுவதாகவும், இவர்கள் மாணவர்களிடையே கல்விக்கு பதிலாக நச்சுக் கருத்துக்களை பரப்பும் செயற்பாடுகளில் ஈடுபடுவதாகவும் புலனாய்வு தகவல்கள் வெளியாகியுள்ளதாக எதிரணி சுயாதீன பாராளுமன்ற உறுப்பினரான விமல் வீரவன்ச தெரிவித்தார்.
+
+பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (04) கல்வி அமைச்சரிடம் கேள்வியெழுப்பி உரையாற்றும் போதே அவர் இவ்வாறு கூறியுள்ளார்.
+
+தோட்டப்புற பாடசாலைகளில் ஆசிரியர் பற்றாக்குறை நிலவுகின்றது. இதன்காரணமாக கடந்த காலத்தில் இந்தியாவில் இருந்து இரண்டாயிரத்திற்கும் அதிகமானவர்கள் தோட்டப்புற பாடசாலைகளில் தன்னார்வ அடிப்படையில் கற்பித்தல் நடவடிக்கைகளில் ஈடுபடுகின்றதாக அண்மையில் ஊடகங்கள் மூலம் தகவலொன்று வெளியாகியிருந்தது. எமது நாட்டு புலானாய்வு பிரிவும் அறிக்கையிட்டுள்ளது.
+
+...
+
+[Data](articles/e1ef9500.json)
 
 ---
 
@@ -2161,29 +2235,5 @@ He has been known from the close circles that the announcement is mostly to be m
 [Data](articles/d63631f4.json)
 
 [Extended Data](ext_articles/d63631f4.ext.json)
-
----
-
-### Sri Lanka stocks close up, conglomerates pick up
-
-*2024-06-04 16:01:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-conglomerates-pick-up-166216/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up on Tuesday, data on its site showed.
-
-The broader All Share Index closed up 0.45 percent, or 53.96 points, at 12,104; while the S&P SL20 Index closed up 0.45 percent, or 15.96 points, at 3,569.
-
-Turnover was 899 million. Most of this came from the food, beverage and tobacco (Rs177mn) and capital goods (Rs175mn) stocks.
-
-Dipped Products Plc saw the most active volumes (Rs67mn) traded in the day. The share closed up at 34.90.
-
-Amana Bank Plc said trading of its shares will be suspended from July 8 to 12 during a share consolidation. The Bank announced in April its decision to consolidate its shares in the proportion of consolidating 10 existing ordinary shares to 1 ordinary share subject to shareholder and regulatory approval.
-
-Conglomerates Melstacorp Plc (up at 87.50), Aitken Spence Plc (up at 131.25), LOLC Holdings Plc (up at 456.50) contributed the most the index in the day.
-
-...
-
-[Data](articles/37a89807.json)
-
-[Extended Data](ext_articles/37a89807.ext.json)
 
 ---

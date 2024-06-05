@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-05 20:18:59**
+As of **2024-06-05 20:34:12**
 
 ## Newspaper Stats
 
-*Scraped **28,643** Articles*
+*Scraped **28,644** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,34 +19,58 @@ adalk | 2,445
 adaderanalk | 3,253
 tamilmirrorlk | 3,364
 virakesarilk | 4,406
-dailymirrorlk | 4,540
+dailymirrorlk | 4,541
 adaderanasinhalalk | 4,602
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,641 (100.0%) of 28,643 articles have been extended.
+28,643 (100.0%) of 28,644 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-05 (Wednesday)
 
-### சில பாடசாலைகளுக்கு நாளையும் விடுமுறை
+### Extreme weather leaves over 250,000 persons affected
+
+*2024-06-05 20:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Extreme-weather-leaves-over-250-000-persons-affected/108-284184) · `en`
+
+Colombo, June 05 (Daily Mirror) - Some 253,581 persons from 66,906 families across thirteen districts have been affected by the adverse weather conditions, according to the Disaster Management Centre (DMC).
+
+Accordingly, people in Ratnapura, Colombo, Kegalle, Kandy, Galle, Kalutara, Matara, Puttalam, Kurunegala, Hambantota, Nuwara Eliya, Kilinochchi and Gampaha have been affected.
+
+Further, a total of 4,303 houses have been partially damaged while 42 houses have been completely damaged owing to the bad weather.
+
+Meanwhile, the death toll due to the inclement weather stands at 30 as of today (05).
+
+◼️
+
+[Data](articles/1a167eed.json)
+
+---
+
+### Some schools and holidays
 
 *2024-06-05 19:55:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சில-பாடசாலைகளுக்கு-நாளையும்-விடுமுறை/175-338492) · `ta`
 
-இரத்தினபுரி மற்றும் நிவித்திகல கல்வி வலயத்திற்குட்பட்ட சில பாடசாலைகளை நாளையும் மூடுவதற்கு சப்ரகமுவ மாகாண சபை தீர்மானித்துள்ளது.
+The Sabaragamuwa Provincial Council has ordered closures for schools in Ratnapura, Kuruwita, and Eheliyagoda due to unspecified reasons. Conversely, schools in Galle and Matara are set to reopen. The Southern Provincial Education Secretary holds discretion over flood-damaged and displacement-related schools.
 
-இதன்படி, இரத்தினபுரி கல்வி வலயத்தின் இரத்தினபுரி, குருவிட்ட மற்றும் எஹெலியாகொட பிரிவுகளுக்கு உட்பட்ட அனைத்து பாடசாலைகளும் நிவித்திகல கல்வி வலயத்தின் எலபாத மற்றும் அயகம பிரிவுகளுக்கு உட்பட்ட அனைத்து பாடசாலைகளும் மூடப்படவுள்ளன.
+🟩
 
-இதேவேளை, காலி மற்றும் மாத்தறை மாவட்டங்களில் உள்ள அனைத்து பாடசாலைகளும் நாளைய தினம் திறக்க தீர்மானிக்கப்பட்டுள்ளது.
+The Sabaragamuwa Provincial Council has decided to close down some schools in the Ratnapura and Nivithigala Education Zone.
 
-எனினும் வெள்ளத்தினால் சேதமடைந்த பாடசாலைகள் மற்றும் இடம்பெயர்ந்தவர்களுக்கான நிலையங்களாகப் பயன்படுத்தப்படும் பாடசாலைகள் தொடர்பில் தீர்மானிக்கும் அதிகாரம் பிராந்தியக் கல்விப் பணிப்பாளர்களுக்கு வழங்கப்பட்டுள்ளதாகவும் தென் மாகாண கல்விச் செயலாளர் குறிப்பிட்டுள்ளார்.  R
+Accordingly, all schools in the Ratnapura Education Zone, Ratnapura, Kuruwita and Eheliyagoda will be closed.
+
+Meanwhile, all schools in the Galle and Matara districts are scheduled to open tomorrow.
+
+However, the Education Secretary of the Southern Provincial Education has been given the authority to decide on flood damaged schools and schools used for displaced persons.R
 
 ◼️
 
 [Data](articles/39f04179.json)
+
+[Extended Data](ext_articles/39f04179.ext.json)
 
 ---
 
@@ -378,21 +402,27 @@ For New Zealand, Cyprus Republic, the Maldives, the Maldives, the Republic of Si
 
 ---
 
-### ගැරඩි ඇල්ලෙන් පහළට පැන්න තරුණ යුවළක් බේරා ගනියි
+### Save a young couple to drove the garund
 
 *2024-06-05 17:34:11* · [`adalk`](https://www.ada.lk/breaking_news/ගැරඩි-ඇල්ලෙන්-පහළට-පැන්න-තරුණ-යුවළක්-බේරා-ගනියි/11-410029) · `si`
 
-කොත්මලේ ගැරඩි ඇල්ලෙන් පහලට පැන සිය දිවි හානි කර ගැනිමට තැත් කරන ලද තරුණ යුවලක් බේරා ගැනිමට එම ප්‍රදේශයේ පිරිසක් පියවර ගෙන ඇත.
+A group of locals rescued a young couple from Kotmale Garmalai Falls after they fell due to a dispute. The 18-year-old girl and her 5-year-old companion were rushed to Thandhale General Hospital for treatment.
 
-මෙම තත්වයන් පිලිබදව කරන ලද විමසිමකදි අදහස් දැක්වු කොත්මලේ පොලිසියේ නිලධාරියකු පවසන ලද්දේ 05වන දින පුස්සැල්ලාව ප්‍රොටෙක් වතුයායේ වයස අවුරුදු 18ක තරුණ යුවලක් සිය දිවි හානි කර ගැනිම සදහා කොත්මලේ ගැරඩි ඇල්ලෙන් පහලට පැන ඇති බවත්ය.
+🟩
 
-එම අවස්ථාවේදි එය දුටු ප්‍රදේශවාසින් පිරිසක් විසින් මෙම තරුණ යුවල බේරා ගෙන ඇති බවත් මෙම දෙදෙනා අතර පෙම් සබදතාවයක් මත හට ගෙන ඇති ආරවුලක් මත මෙම දෙදෙනා මෙසේ සිය දිවි හානි කර ගැනිමට තැත් කර ඇති බවට මුලීක පරික්ෂවලින් හෙලිව ඇති බවත්ය.
+A group of people in the area had taken steps to rescue a young couple at Kotmale Garmalai Falls.
 
-මෙසේ බේරා ගත් තරුණ යුවල ප්‍රථිකාර සදහා පුස්සල්ලාව ප්‍රාදේශීය රෝහලට ඇතුලත් කිරිමෙන් පසු වැඩි දුර ප්‍රථිකාර සදහා ගම්පල මහ රෝහල වෙත මාරු කර යැවිමට පියවර ගෙන ඇති බවත් මේ පිලිබදව කොත්මලේ පොලිසිය වැඩි දුර පරික්ෂන මෙහෙයවන බවද එම නිලධාරියා වැඩි දුරටත් පැවසිය
+A Kotmale police officer commented on the 5th on 05rd, a 18-year-old girl in the 5 year old girl in Kotmale has fallen to the Kotmale Garmalagiri Fire to commit suicide.
+
+At that time, a group of people had rescued the young couple and that the two had been devoted to a dispute over the two of the two.
+
+The officer added that steps will be taken to transfer the Thandhale General Hospital for the treatment of the Young couple patriarch for the trees.
 
 ◼️
 
 [Data](articles/864992e8.json)
+
+[Extended Data](ext_articles/864992e8.ext.json)
 
 ---
 
@@ -2265,25 +2295,5 @@ Leader of the Opposition Sajith Premadasa who also assured Sri Lanka’s support
 [Data](articles/865484e8.json)
 
 [Extended Data](ext_articles/865484e8.ext.json)
-
----
-
-### ICFS hosts multi-destination university admission day for higher education
-
-*2024-06-05 10:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/ICFS-hosts-multi-destination-university-admission-day-for-higher-education/108-284154) · `en`
-
-Colombo, June 5 (Daily Mirror) - The International Centre for Foreign Studies (ICFS) has organized a multi destination university admission day, aiming to provide Sri Lankan students with valuable opportunities for higher education across various destinations such as Australia, New Zealand, UK, Canada, Germany, and Malta.
-
-The admission is set to take place on June 8th from 10 am to 4 pm at the ICFS Education Centre in Nugegoda.
-
-The ICFS said they focused to offer students who aspire to study abroad a comprehensive understanding of the benefits and opportunities available in these countries.
-
-Some of the advantages extended to Sri Lankan students include the provision to arrive nine months before the course commencement to work, opportunities for part-time employment, post-study work visas that can be extended up to 2-3 years, English waivers, and scholarships.
-
-...
-
-[Data](articles/c00fae87.json)
-
-[Extended Data](ext_articles/c00fae87.ext.json)
 
 ---

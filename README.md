@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-05 05:59:19**
+As of **2024-06-05 05:37:04**
 
 ## Newspaper Stats
 
-*Scraped **28,471** Articles*
+*Scraped **28,469** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,12 +12,12 @@ colombotelegraphcom | 258
 dbsjeyarajcom | 273
 bbccomsinhala | 278
 newsfirstlk | 363
-islandlk | 1,534
+islandlk | 1,533
 economynextcom | 1,620
 dailyftlk | 1,678
 adalk | 2,423
 adaderanalk | 3,234
-tamilmirrorlk | 3,349
+tamilmirrorlk | 3,348
 virakesarilk | 4,387
 dailymirrorlk | 4,504
 adaderanasinhalalk | 4,570
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,570
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,453 (99.9%) of 28,471 articles have been extended.
+28,453 (99.9%) of 28,469 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -301,22 +301,6 @@ Sri Lanka Army personnel seen navigating through floodwaters in a WMZ 551B to re
 ...
 
 [Data](articles/4254667b.json)
-
----
-
-### ’இந்திய ஆசிரியர்கள் நஞ்சை விதைக்கின்றனர்’
-
-*2024-06-05 02:04:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்திய-ஆசிரியர்கள்-நஞ்சை-விதைக்கின்றனர்/175-338459) · `ta`
-
-இந்தியாவில் இருந்து வந்து இரண்டாயிரம் ஆசிரியர்கள் தோட்டப்புற பாடசாலைகளில் தன்னார்வ அடிப்படையில் கற்பித்தல் செயற்பாடுகளில் ஈடுபடுவதாகவும், இவர்கள் மாணவர்களிடையே கல்விக்கு பதிலாக நச்சுக் கருத்துக்களை பரப்பும் செயற்பாடுகளில் ஈடுபடுவதாகவும் புலனாய்வு தகவல்கள் வெளியாகியுள்ளதாக எதிரணி சுயாதீன பாராளுமன்ற உறுப்பினரான விமல் வீரவன்ச தெரிவித்தார்.
-
-பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (04) கல்வி அமைச்சரிடம் கேள்வியெழுப்பி உரையாற்றும் போதே அவர் இவ்வாறு கூறியுள்ளார்.
-
-தோட்டப்புற பாடசாலைகளில் ஆசிரியர் பற்றாக்குறை நிலவுகின்றது. இதன்காரணமாக கடந்த காலத்தில் இந்தியாவில் இருந்து இரண்டாயிரத்திற்கும் அதிகமானவர்கள் தோட்டப்புற பாடசாலைகளில் தன்னார்வ அடிப்படையில் கற்பித்தல் நடவடிக்கைகளில் ஈடுபடுகின்றதாக அண்மையில் ஊடகங்கள் மூலம் தகவலொன்று வெளியாகியிருந்தது. எமது நாட்டு புலானாய்வு பிரிவும் அறிக்கையிட்டுள்ளது.
-
-...
-
-[Data](articles/e1ef9500.json)
 
 ---
 
@@ -2177,5 +2161,29 @@ He has been known from the close circles that the announcement is mostly to be m
 [Data](articles/d63631f4.json)
 
 [Extended Data](ext_articles/d63631f4.ext.json)
+
+---
+
+### Sri Lanka stocks close up, conglomerates pick up
+
+*2024-06-04 16:01:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-conglomerates-pick-up-166216/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Tuesday, data on its site showed.
+
+The broader All Share Index closed up 0.45 percent, or 53.96 points, at 12,104; while the S&P SL20 Index closed up 0.45 percent, or 15.96 points, at 3,569.
+
+Turnover was 899 million. Most of this came from the food, beverage and tobacco (Rs177mn) and capital goods (Rs175mn) stocks.
+
+Dipped Products Plc saw the most active volumes (Rs67mn) traded in the day. The share closed up at 34.90.
+
+Amana Bank Plc said trading of its shares will be suspended from July 8 to 12 during a share consolidation. The Bank announced in April its decision to consolidate its shares in the proportion of consolidating 10 existing ordinary shares to 1 ordinary share subject to shareholder and regulatory approval.
+
+Conglomerates Melstacorp Plc (up at 87.50), Aitken Spence Plc (up at 131.25), LOLC Holdings Plc (up at 456.50) contributed the most the index in the day.
+
+...
+
+[Data](articles/37a89807.json)
+
+[Extended Data](ext_articles/37a89807.ext.json)
 
 ---

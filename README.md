@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-05 21:05:14**
+As of **2024-06-05 21:18:59**
 
 ## Newspaper Stats
 
-*Scraped **28,645** Articles*
+*Scraped **28,646** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,30 @@ adalk | 2,445
 adaderanalk | 3,253
 tamilmirrorlk | 3,364
 virakesarilk | 4,406
-dailymirrorlk | 4,541
+dailymirrorlk | 4,542
 adaderanasinhalalk | 4,603
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,645 (100.0%) of 28,645 articles have been extended.
+28,645 (100.0%) of 28,646 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-05 (Wednesday)
+
+### Fine tea tasting...
+
+*2024-06-05 20:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Fine-tea-tasting/110-284190) · `en`
+
+Seven tropical tea varieties from various regions in the country were launched today in Colombo to celebrate International Tea Day 2024, under the patronage of Agriculture Minister Mahinda Amaraweera. Attendees at the event had the chance to savour the tea presented in an impressive manner. Pix by Kithsiri de Mel
+
+◼️
+
+[Data](articles/c856ad01.json)
+
+---
 
 ### One person arrested in Katunayake
 
@@ -2271,35 +2283,5 @@ Candidates are requested to log on to the Examinations Department’s official w
 [Data](articles/4432871c.json)
 
 [Extended Data](ext_articles/4432871c.ext.json)
-
----
-
-### Brands and celebrities hit by TikTok cyber-attack
-
-*2024-06-05 11:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Brands-and-celebrities-hit-by-TikTok-cyber-attack/107-284155) · `en`
-
-June 5 (BBC) - TikTok says it is addressing a cyber-attack that targeted several brands and celebrities.
-
-The video-sharing app, which is owned by Chinese company ByteDance, told the BBC that a "very limited" number of accounts had been compromised.
-
-It added that it was working with users to restore access to their accounts.
-
-TikTok did not share further details on the perpetrators of the cyber-attack, or how it was carried out.
-
-One of the compromised accounts belonged to news outlet CNN.
-
-"We have been collaborating closely with CNN to restore account access and implement enhanced security measures to safeguard their account moving forward," a TikTok spokesperson said.
-
-"We are dedicated to maintaining the integrity of the platform and will continue to monitor for any further inauthentic activity."
-
-CNN did not immediately respond to a BBC request for comment.
-
-TikTok said the account of reality TV star Paris Hilton was also targeted, but it was not compromised.
-
-...
-
-[Data](articles/bf399215.json)
-
-[Extended Data](ext_articles/bf399215.ext.json)
 
 ---

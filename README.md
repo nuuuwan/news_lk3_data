@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-05 17:18:47**
+As of **2024-06-05 17:34:30**
 
 ## Newspaper Stats
 
-*Scraped **28,612** Articles*
+*Scraped **28,615** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,67 @@ islandlk | 1,542
 economynextcom | 1,627
 dailyftlk | 1,687
 adalk | 2,439
-adaderanalk | 3,250
+adaderanalk | 3,251
 tamilmirrorlk | 3,362
 virakesarilk | 4,400
 dailymirrorlk | 4,536
-adaderanasinhalalk | 4,597
+adaderanasinhalalk | 4,599
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,607 (100.0%) of 28,612 articles have been extended.
+28,612 (100.0%) of 28,615 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-05 (Wednesday)
+
+### දරුවාට පහරදුන් සැකකරුට ලැබුණු නියෝගය
+
+*2024-06-05 17:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197430) · `si`
+
+සමාජ මාධ්‍ය ඔස්සේ සංසරණය වූ කුඩා දරුවෙකුට පහරදීමේ සිද්ධියේ ප්‍රධාන සැකකරු සහ සැකකාරියන් දෙදෙනාව ඇතුළු සියලු සැකකරුවන් රිමාන්ඩ් බන්ධනාගාරගතකර තිබේ.
+
+එම සැකකරුවන් පදවිය මහෙස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමෙන් අනතුරුව ඔවුන්ව ජුනි මස 19 වනදා දක්වා රිමාන්ඩ් බන්ධනාගාරගතකර ඇත.
+
+දරුවාට පහරදීමේ සිදුවීමේ සැකකරුවන් අද (05) අලුයම පුල්මුඩේ අරිසිමලේ ප්‍රදේශයේ දී අත්අඩංගුවට ගනු ලැබීය.
+
+මෙලෙස රිමාන්ඩ් බන්ධනාගාරගතකර ඇත්තේ 45 හැවිරිදි පුද්ගලයෙක් සහ 37 සහ 46 හැවිරිදි කාන්තාවන් දෙදෙනෙකි.
+
+◼️
+
+[Data](articles/27e75a23.json)
+
+---
+
+### Schools in Galle and Matara districts to reopen tomorrow
+
+*2024-06-05 17:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/99684/schools-in-galle-and-matara-districts-to-reopen-tomorrow) · `en`
+
+The Southern Province Secretary of Education has stated that all schools in the Galle and Matara districts will reopen for academic activities tomorrow (06).
+
+The secretary added that Zonal Education Directors are empowered to decide on reopening flood-affected schools and those being used as shelters for the displaced.
+
+◼️
+
+[Data](articles/006df479.json)
+
+---
+
+### හෙට පාසල් විවෘත කිරීම ගැන අලුත් තීරණයක්
+
+*2024-06-05 17:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197429) · `si`
+
+ගාල්ල සහ මාතර දිස්ත්‍රික්කවල සියලුම පාසල් හෙට (06) සිට යළි විවෘත කරන බව පළාත් අධ්‍යාපන ලේකම්වරයා පවසයි.
+
+එසේම තවදුරටත් ගංවතුර බලපෑම එල්ලවී ඇති පාසල් සහ අවතැන් මධ්‍යස්ථාන ලෙස භාවිත කරන පාසල් සම්බන්ධයෙන් තීරණය කිරීමේ බලය කළාප අධ්‍යාපන අධ්‍යක්ෂවරුන්ට පවරා ඇති බව පළාත් අධ්‍යාපන ලේකම්වරයා වැඩිදුරටත් පවසයි.
+
+◼️
+
+[Data](articles/b2782fa4.json)
+
+---
 
 ### ‘Sarvajana Balaya’ stage protest against proposed ‘Sri Lanka Electricity Bill’
 
@@ -44,47 +90,63 @@ National Organizer of National Freedom Front (NFF) Jayantha Samaraweera, leader 
 
 [Data](articles/9095e0d4.json)
 
+[Extended Data](ext_articles/9095e0d4.ext.json)
+
 ---
 
-### කෙහෙළිය ගේ පෙත්සම ගැන අධිකරණය දුන් නියෝගය
+### Court of Keheliya's petition regarding the court of Keheliya
 
 *2024-06-05 16:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197428) · `si`
 
-ප්‍රමිතියෙන් තොර ප්‍රතිදේශ එන්නත් මිලදීගැනීමේ සිද්ධිය සම්බන්ධයෙන් තමන්ව නඩු විභාගය අවසන් වනතුරු රක්ෂිත බන්ධනාගාරගත කිරීමට මාළිගාකන්ද මහෙස්ත්‍රාත් අධිකරණය ගෙන තිබෙන තීරණය බලරහිත කිරීමේ නියෝගයක් නිකුත් කරන මෙන් ඉල්ලා හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතා ඉදිරිපත් කළ රිට් පෙත්සම අද (05) අභියාචනාධිකරණය හමුවේ යළි සලකා බැලීය.
+Keheliya Rambukwella, former Health Minister, filed a petition at the Maligakanda Magistrate's Court against the representatives of the Pigankanda Magistrate's Court. The case was heard by the Court of Appeal, presided over by Justices Nissanka Bandula Karunaratne and Shashi Mahendran. President's Counsel Faiz Mustapha argued that the law allows suspects to be remanded until trial completion under the Public Property Act. The petition was adjourned until October 10th.
 
-අභියාචනාධිකරණයේ සභාපති විනිසුරු නිශ්ශංක බන්දුල කරුණාරත්න සහ ශෂී මහේන්ද්‍රන් යන මහත්වරුන්ගෙන් සමන්විත අභියාචනාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ මෙම පෙත්සම් විභාගය පැවැත්වෙයි.
+🟩
 
-මෙහිදී පෙත්සම්කාර කෙහෙළිය රඹුක්වැල්ල මහතා වෙනුවෙන් පෙනී සිටි ජනාධිපති නීතිඥ ෆයිස් මුස්තාපා මහතා අධිකරණය හමුවේ කරුණු දක්වමින් තම සේවාදායකයාට එරෙහිව පොදු දේපොළ පනත යටතේ චෝදනා ඉදිරිපත් කිරීමට හැකියාවක් නොමැති බව පෙන්වා දුන්නේය.
+Former Health Minister Keheliya Rambukwella, who was presented to the President of Health, the Maligakanda Magistrate's Court regarding the redepetives of the Pigankanda Magistrate's Court today (05) has been reconsidered from the Court of Appeal.
 
-එසේ තිබියදී පෙත්සම්කරු දිගින් දිගටම පොදු දේපොළ පනත යටතේ රක්ෂිත බන්ධනාගාරයේ තබා ගැනීමට අධිකරණය විසින් නිකුත් කර තිබෙන නියෝගය සම්පූර්ණයෙන්ම නීතියට පටහැනි බවත් ජනාධිපති නීතිඥවරයා පැවසීය.
+The petition examination will be held in front of the Court of Appeal of the Court of Appeal Mr. Nissanka Bandula Karunaratne and Shashi Mahendran.
 
-...
+President's Counsel Faiz Mustapha, who appeared in the court, appeared before the court to appear before the client.
 
-[Data](articles/e9bad797.json)
+However, the President's Counsel said that the order issued by the Court continues to keep the law under the general possessors under the Public Departure Under the Public Departure Act.
 
----
+The President's Counsel pointed out that a suspect is able to be remanded until the case is completed under the end of the trial.
 
-### පොහොට්ටුවෙන්, ශ්‍රීලනිපෙන් තවත් 3ක් සජිත් සමග එක්වෙති
-
-*2024-06-05 16:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197427) · `si`
-
-ශ්‍රී ලංකා පොදුජන පෙරමුණේ සහ ශ්‍රී ලංකා නිදහස් පක්ෂයේ සංවිධායකවරු කිහිපදෙනෙකු සමගි ජන බලවේගය හා එක්විය.
-
-ඒ අතර වයඹ පළාත් සභාවේ හිටපු ප්‍රධාන අමාත්‍ය ධර්මසිරි දසනායක මහතා සිටින අතර ඔහු වයඹ පළාත් මහඇමතිවරයා ලෙස හිටපු ජනාධිපති මෛත්‍රිපාල සිරිසේන මහතා විසින් පත් කරන ලදී.
-
-එසේම බිංගිරිය ආසනයේ ශ්‍රී ලංකා නිදහස් පක්‍ෂ සංවිධායක ධුරයේ ද ඒ මහතා කටයුතු කර තිබේ.
-
-එමෙන්ම ශ්‍රී ලංකා නිදහස් පක්ෂයේ කොළඹ දිස්ත්‍රික් සංවිධායක සමන්ත ප්‍රදීප් කුමාර මහතා ද විපක්ෂ නායක සජිත් ප්‍රේමදාස හමුවී සමගි ජන බලවේගය හා එක්විය.
-
-ඒ මහතා සමගි ජන බලවේගයට එක්වෙමින් අනතුරුව සමගි ජන බලවේගයේ කොළඹ දිස්ත්‍රික් සංවිධායක ධුරයට පත් කිරීමට විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා කටයුතු කරන ලදී.
-
-ඊට අමතරව ශ්‍රී ලංකා පොදුජන පෙරමුණේ පොතුවිල් ආසනයේ කැඳවුම්කරු, ශ්‍රී ලංකා නිදහස් පක්ෂයේ පොතුවිල් ආසනයේ හිටපු ප්‍රධාන සංවිධායක, පොතුවිල් ප්‍රාදේශීය සභාවේ හිටපු විපක්ෂ නායක අබ්දුල් මජීඩ් මහතා ද සමගි ජන බලවේගය හා එක්විය.
-
-ඒ මහතා සමගි ජන බලවේගයට එක්වෙමින් අනතුරුව පොතුවිල් ආසනයේ සම සංවිධායක ධුරයට පත් කිරීමට විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා කටයුතු කරන ලදී.
+The petition then deferred until the 10th of this month.
 
 ◼️
 
+[Data](articles/e9bad797.json)
+
+[Extended Data](ext_articles/e9bad797.ext.json)
+
+---
+
+### SLFP alias SLFP get along with Sajith
+
+*2024-06-05 16:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197427) · `si`
+
+Members of the Sri Lanka General Front and SLFP have engaged in reconciliation efforts, appointing key figures like Dharmasiri Dasanayake as the Chief Minister of the North Western Provincial Council and Maithripala Sirisena as the Chief Minister of the North Western Province. Sajith Premadasa, the Opposition Leader, has been appointed as the Colombo District Organizer of the Sri Lanka Force, indicating a significant move towards unity within the party ranks.
+
+🟩
+
+Several members of the Sri Lanka General Front and SLFP organizers joined the reconciliation.
+
+Meanwhile, former Chief Minister Dharmasiri Dasanayake has been appointed as the Chief Minister of the North Western Provincial Council and former President Maithripala Sirisena was appointed as the Chief Minister of the North Western Province.
+
+He was also appointed as the SLFP organizer of the Bingiriya electorate.
+
+SLFP Colombo District Colombo District Organizer Samantha Pradeep Kumara met with the opposition leader Sajith Premadasa and the reconciliation.
+
+Opposition Leader Sajith Premadasa was appointed to the Colombo District Organizer of the Sri Lanka Force after considering the consecutive year.
+
+In addition, the former Chief Opposition Leader of the Sri Lanka Freedom Party (Pothtuvil Pradeshiya Sabha) of the Sri Lanka Freedom Party (Pothtuvil Pradeshiya Sabha) is also present.
+
+...
+
 [Data](articles/70f94761.json)
+
+[Extended Data](ext_articles/70f94761.ext.json)
 
 ---
 
@@ -834,17 +896,23 @@ When other leaders put their racing shoes in difficult times, we took the govern
 
 ---
 
-### ශ්‍රී ලංකාවේ ණය බර තවත් වැඩිවෙයි
+### Sri Lanka's debt burden will be increased
 
 *2024-06-05 13:27:54* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රී-ලංකාවේ-ණය-බර-තවත්-වැඩිවෙයි/11-410024) · `si`
 
-මුදල් අමාත්‍යාංශය කාර්තුමය වශයෙන් නිකුත් කරන ශ්‍රී ලංකාවේ ණය සම්බන්ධයෙන් වූ වාර්තාවට අදාලව 2023 දෙසැම්බර් 31 සිට 2024 මාරතු 31 දක්වා වූ කාලය තුළ ශ්‍රී ලංකාවේ ණය බර ඩොලර් බිලියන 4කට ආසන්න ප්‍රමාණයකින් වර්ධනය වි .තිබේ.
+Sri Lanka's debt has surged past $100 billion as of December 2023, with local debt at $57.2 billion and foreign debt at $37 billion. This includes certified loans worth $5.8 billion, highlighting a significant increase in the country's financial obligations.
 
-එසේම මේ වන විට ශ්‍රී ලංකාවේ සමස්ත නය බර ඩොලර් බිලියන 100ද  ඉක්මවා ගොස් තිබේ. ශ්‍රි ලංකාවේ සමස්ත ණය ප්‍රමාණයෙන් වැඩි අගයක් දේශිය ණය වන අතර එම අගය ඩොලර් බිලියන 57.2කි. විදේශිය ණය ප්‍රමාණය ඩොලර් බිලියන 37.0කි. සහතික කරන ලද ණය ප්‍රමාණය ඩොලර් බිලියන 5.8කි.
+🟩
+
+The Government's debt is quarterly released in Sri Lanka's debt from 31 December 2023 to 2023, reaching nearly 31 billion in Sri Lanka.
+
+Also, the total debt in Sri Lanka has exceeded $ 100 billion. The total loan amount of Sri Lanka is local debt and that value is $ 57.2 billion. Foreign debt is $ 37 billion. Certified loans is $ 5.8 billion.
 
 ◼️
 
 [Data](articles/498b507f.json)
+
+[Extended Data](ext_articles/498b507f.ext.json)
 
 ---
 
@@ -930,17 +998,23 @@ Soldiers who were involved in security duties in the area immediately fired a fi
 
 ---
 
-### පොසොන් සතියට සුරා සැල් වැසෙයි
+### Poson Salles close for the week
 
 *2024-06-05 13:08:11* · [`adalk`](https://www.ada.lk/breaking_news/පොසොන්-සතියට-සුරා-සැල්-වැසෙයි/11-410023) · `si`
 
-එළැඹෙන පොසොන් පොහොය නිමිත්තෙන් ජූනි මස 18 වනදා සිට 24 වනදා දක්වා කාලය තුළ ප්‍රාදේශීය ලේකම් කොට්ඨාශ කිහිපයක සුරාසැල් වසා තැබීමට තීරණය කර ඇති බව ශ්‍රී ලංකා සුරාබදු දෙපාර්තමේන්තුව නිවේදනයක් නිකුත් කරමින් සඳහන් කරයි.
+The Excise Department of Sri Lanka will close from June 18th to 24th, affecting liquor shop closures in Central Nuwaragam, East Nuwaragam, and Mihintale areas.
 
-ඒ අනුව මධ්‍යම නුවරගම් පළාත, නැගෙනහිර නුවරගම් පළාත, සහ මිහින්තලේ යන ප්‍රාදේශීය ලේකම් කොට්ඨාශ තුනේ එම කාලසීමාව තුළ සියලුම සුරාසැල් වසා තබයි.
+🟩
+
+The Excise Department of Sri Lanka has decided to be closed down to the June 18 to the 24th to the 24th of June to 24th.
+
+Accordingly, all the liquor shops in the Central Nuwaragam province, East Nuwaragam Province, and Mihintale Divisional Secretariat areas will be closed.
 
 ◼️
 
 [Data](articles/dbe3eeb5.json)
+
+[Extended Data](ext_articles/dbe3eeb5.ext.json)
 
 ---
 
@@ -2187,73 +2261,5 @@ The President of the Health Entomology Officers' Association Nagith Sumanasena s
 [Data](articles/3d93bd88.json)
 
 [Extended Data](ext_articles/3d93bd88.ext.json)
-
----
-
-### A large number of water limes in dirty condition
-
-*2024-06-05 08:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197406) · `si`
-
-Due to floods, the Colombo Municipal Council advises drinking hot boiled water or bottled water to prevent diseases like diarrhea and rat fever. Clean fruits, vegetables thoroughly, avoid raw foods, and cook all meals. Also, consult Public Health Inspectors about cleaning flooded areas before reuse.
-
-🟩
-
-The Colombo Municipal Council says that due to the prevailing floods with existing floods, the Colombo Municipal Council has decided.
-
-Its Chief Medical Officer of Health Medical Officer of Medical Officer Dr. Songs Ratnawewa said that whenever possible, measures to drink the hot boiling water.
-
-"Differently of water sources these days have a risk of contagious diseases such as diarrhea and rat fever. So drink the hot boiled water or bottled water whenever possible. Fruit, vegetables and vegetable use should be very well cleaned. Avoid eating raw vegetables and fleet as much as possible these days. Betze only cook food. The outside food should not be eaten soon. Protect the flies after meals are prepared. The Public Health Inspectors should also seek advice on the public health inspectors because they should be cleaned by cleansing before reuse of flooded areas.
-
-◼️
-
-[Data](articles/4c9e92bb.json)
-
-[Extended Data](ext_articles/4c9e92bb.ext.json)
-
----
-
-### Arrest of a man and women who were badly assaulted
-
-*2024-06-05 08:50:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குழந்தைய-மோசமாக-தாக்கிய-நபரும்-பெண்களும்-கைது/175-338464) · `ta`
-
-A man and two women were arrested early this morning for allegedly attacking a 4-year-old boy, causing widespread shock. The victims, aged 37 and 46, along with a 45-year-old male suspect from Manalaru-Kalyanipuram, are set to face charges. The child survivor is now under the care of legal authorities. Further investigations are ongoing, with the suspects expected to appear in court today.
-
-🟩
-
-Police say they have been arrested in the early hours of this morning (05), a man who was searching for an attack on a 4 -year -old boy who caused great shock yesterday.
-
-Two women, 37 and 46, have been arrested on charges of cooperating with the attack.
-
-The arrested person is said to be a 45 -year -old from Manalaru (Welioya) - Kalyanipuram.
-
-Police say that the four -and -a -half -year -old boy who was attacked has taken over to the legal officer.
-
-Steps have been taken to present the suspects in court today (05) and Pulmodi police are conducting further investigations.. Remble
-
-◼️
-
-[Data](articles/9c7fbf6d.json)
-
-[Extended Data](ext_articles/9c7fbf6d.ext.json)
-
----
-
-### The body of the woman from the well in Punguduthivu
-
-*2024-06-05 08:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/185338) · `ta`
-
-A young woman, Sivakanandan Sindhu, 27, was discovered on April 4th in a well near the Madathuveli Vayalur Murugan Temple in Punguduthivu, Jaffna Kayts.
-
-🟩
-
-The body of a young woman has been found on Tuesday, 4th from the well of Madathuveli Vayalur Murugan Temple, Punguduthivu, Jaffna Kayts.
-
-Sivakanandan Sindhu, aged 27, from the eighth region of Punguduthivu, Punguduthivu.
-
-◼️
-
-[Data](articles/60c62c25.json)
-
-[Extended Data](ext_articles/60c62c25.ext.json)
 
 ---

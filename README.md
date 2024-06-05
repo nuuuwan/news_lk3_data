@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-05 13:04:15**
+As of **2024-06-05 13:19:04**
 
 ## Newspaper Stats
 
@@ -26,45 +26,59 @@ adaderanasinhalalk | 4,587
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,563 (100.0%) of 28,566 articles have been extended.
+28,566 (100.0%) of 28,566 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-05 (Wednesday)
 
-### ජේතවනාරායේ  අකුණු සන්නායකය සොරකමට  සිද්ධිය ප්‍රසිද්ධ ගායකයෙක් ඇතුළු 5ක් අත්අඩංගුවට
+### Jethavanara comradic conducts 5 persons and arrested
 
 *2024-06-05 12:46:26* · [`adalk`](https://www.ada.lk/breaking_news/ජේතවනාරායේ--අකුණු-සන්නායකය-සොරකමට--සිද්ධිය-ප්‍රසිද්ධ-ගායකයෙක්-ඇතුළු-5ක්-අත්අඩංගුවට/11-410022) · `si`
 
-අනුරාධපුර අටමස්ථානයට අයත් ඓතිහාසික ජේතවනාරාම දාගැබේ ආරක්ෂාවට ඇති අකුණු සන්නායකය, සොරකම් කර රැගෙන යාමට පැමිණි පුද්ගලයන් තිදෙනෙකු අත්අඩංගුවට ගෙන දීර්ඝ ප්‍රශ්න කිරීම්වලදී මෙම අකුණු සන්නායකයේ ඇති යම් ආරෝපණයක්, යන්ත්‍රානුසාරයෙන් ලබා ගෙන එය රුපියල් කෝටි ගණනකට විකිණීමට සූදානම්ව සිටි එම ජාවාරමේ මහ මොළකරු වන දිවයිනේ ප්‍රසිද්ධ ගායකයෙකු ඇතුළු සැකකරුවන් 5ක් අකුණු සන්නායකයේ ආරෝපණය පරීක්ෂා කරන උපාංගයක්, නවීන මෝටර් රථයක් සහ ස්මාර්ට් ජංගම දුරකථන 5ක් සමග ඊයේ (04දා) අත්අඩංගුවට ගත් බව උඩමළුව පොලීසිය පවසයි.
+A group led by Jethavanara Comradic arrested 5 individuals, including a well-known singer, for stealing metal from the lightning conductors of the Jetavanaramaya Dagoba in Anuradhapura. The stolen items included a device, a modern car, and 5 smartphones. The suspects, aged between 40 and residing in various locations, were found with tools like glasses and white newspapers. Three other arrests were made in related cases across different regions. All suspects were later released on bail after being presented before the Anuradhapura Magistrate's Court.
 
-මෙලෙස අත්අඩංගුවට පත්ව ඇත්තේ, පොළොන්නරුව කාලිංග ඇළ ප්‍රදේශයේ පදිංචි 40 හැවිරිදි එම ගායකයා, කල්අඩිය පුත්තලම, මකුල් වැව, වැල්ලව, බඩල්ගම මීරිගම,  යටිගහගල මහනුවර යන ප්‍රදේශවල පදිංචි වයස අවුරුදු 23, 32, 35 සහ 56 වියේ පසු වන පුද්ගලයන් තිදෙනෙකි.
+🟩
 
-අත්අඩංගුවට ගත් ගායකයා මෙරට රූපවාහිනී නාලිකාවක රියැලිටි තරගයකට සහභාගී වී අවසාන කිහිපදෙනා අතරට තේරී පත්වී දැනට ප්‍රසිද්ධ ගායකයෙකුව කටයුතු කරන අයෙකු බව පොලීසිය කියයි.
+Suspects including a famous singer of the island, who has been arrested and machinery, who has been arrested and engaged in the limestone of the Lightning conductor in Anuradhapura to the safety of the Atamasthana Dagoba safety.A total of the Lightning Conduct, a device, a modern car and 5 smartphones, was arrested yesterday (04), Udamaluwa Police.
+
+The 40 year old residents of the Polonnaruwa, Karin Puttalam, Kandy, Makuliya, Puttalam, Kandy, Mirigahagala, Badalgama, Colombo, Badalgama, Kandy.
+
+The arrested singer participates in a television channel of a television channel in Sri Lanka, police said.
+
+The suspects were revealed that if the suspects were sent by the Jethavanarama Dagaba from the Jethavanarama Dagaba, that the charge had the power to draw the same charge to the lightning conductor, which had no charge to the lightning conductor.Police said.
 
 ...
 
 [Data](articles/af4b811e.json)
 
+[Extended Data](ext_articles/af4b811e.ext.json)
+
 ---
 
-### ඉන්දියන් ජාතික යුවලක් කිරින්දෙදී මුහුදට බිලී
+### Indian national couple was billy in Kirinda
 
 *2024-06-05 12:32:57* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්දියන්-ජාතික-යුවලක්-කිරින්දෙදී-මුහුදට-බිලී/11-410020) · `si`
 
-කිරින්ද වෙරළ තීරයේ දියනාමින් සිටි විදේශීය ජාතික කාන්තාවක් සහ පිරිමි පුද්ගලයෙකු 4දා දියේ ගිලී මියගොස් තිබේ.
+An Indian couple drowned at Kirinda Beach; the man, 35, and woman, 33, died while visiting Sri Lanka. The incident occurred during their tour, and their bodies were taken to Debarawewa hospital for examination. Further inquiries are ongoing by the Kirinda Police.
 
-පොලීසිය පැවසුවේ, අදාළ කාන්තාව සහ පුද්ගලයා දියේ ගිලෙමින් සිටියදී බේරාගෙන රෝහල් ගත කරන අවස්ථාවේදී මියගොස් ඇති බවය.
+🟩
 
-මියගොස් ඇත්තේ 35 හැවිරිදි පුද්ගලයෙකු සහ 33 හැවිරිදි ඉන්දීය ජාතිකයින් දෙදෙනෙකු බව පොලීසිය පැවසුවේය.
+A large national woman and a male died on the Kirinda Beach.
 
-මූලික විමර්ශනවලදී අනාවරණය වී ඇත්තේ මියගිය දෙදෙනා අඹුසැමියන් වන අතර පවුලේ සාමාජිකයින් සමඟ සංචාරයක් සඳහා මෙරටට පැමිණි දියනාමින් සිටි අවස්ථාවේදී මෙම අනතුර සිදුව ඇති බවය.
+Police said that the woman and the individual had died when they were drowning and hospitalized.
 
-මෘත ශරීර දෙබරවැව රෝහලේ තැම්පත් කර ඇති අතර කිරින්ද පොලීසිය වැඩිදුර විමර්ශන ආරම්භ කර තිබේ.
+The deceased has been identified as a 35 year old man and 33-year-old Indian nationals.
+
+Preliminary investigations have revealed that the accident had occurred when the daughter had been reported to visit Sri Lanka to a tour of the country.
+
+The bodies were deposited in Debarawewa hospital and Kirinda Police are conducting further investigations.
 
 ◼️
 
 [Data](articles/f6a43c55.json)
+
+[Extended Data](ext_articles/f6a43c55.ext.json)
 
 ---
 
@@ -374,21 +388,29 @@ Following protests by Tourism Minister Harin Fernando, a 50 dollar visa has been
 
 ---
 
-### ජනපතිවරණයේදී මනාප දෙන්න සිදුවේවි
+### The preferential votes will be taken
 
 *2024-06-05 11:16:13* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිවරණයේදී-මනාප-දෙන්න-සිදුවේවි/11-410017) · `si`
 
-දේශපාලන පක්ෂය කුමක් වුවත් සෑම දේශපාලන පක්‍ෂයකින්ම ඉදිරිපත් කරන පිරිසෙන් හොඳ පුද්ගලයන් පිරිසක් මහජන සේවය සඳහා පත්කර ගැනීමට ඉදිරියේදී මැතිවරණ හතරක් පැවැත්වීමට බොහෝ දුරට ඉඩකඩ පවතින බව පැෆරල් සංවිධානයේ ජාතික සංවිධායක සුජීව ගයනාත් මහතා සඳහන් කළේය.
+Preferential voting is scheduled, with each political party selecting election officials. The upcoming presidential election is expected to feature three main candidates. In Polonnaruwa District, civil activists and representatives emphasized the importance of unity among youth organizations, civilians, journalists, professionals, and government institutions for the success of the March 12 businesses and the presidential election, which is set for October 16.
 
-මේ වසරේ ඔක්තෝබර් මාසයට පෙර පැවැත්වීමට නියමිත ජනාධිපතිවරණයේදී අපේක්ෂකයින් තිදෙනකු සඳහා එක දෙක තුන වශයෙන් මනාපය ලබාදීමට හැකි ජනාධිපතිවරණයක් බවට පත්වීමට බොහෝ දුරට ඉඩකඩ ඇති බවද ගයනත් මහතා කීය.
+🟩
 
-පැෆරල් සංවිධානයේ, මාර්තු 12 ව්‍යාපාර යටතේ පොළොන්නරු දිස්ත්‍රික්කයේ, සිවිල් ක්‍රියාකාරීන්, මහජන නියෝජිතයින්,
+Whatever the political party, the National Organizer of the PAFFREL said that there is a large number of elections in every political party to appoint a group of elections in the future to appoint a group of elections in the future.
 
-මාධ්‍යවේදීන් මෙන්ම ආයතන ප්‍රධානීන් දැනුවත් කිරීමේ අවස්ථාවට, 05 වෙනිදා පෙරවරුවේ එක්වෙමින් සුජීව ගයනාත් මහතා ඒ බව හෙළිදරව් කළේය.
+"The three-wheepers of the presidential election in the presidential election of this year is most likely to be a presidential election for three candidates.
+
+In Polonnaruwa District, Civil activists, People's Representatives, People's Representatives under the March 12 Business
+
+Mr. Sujeewa Gyanath revealed this at the 5th of this month participating in the event of journalists and institutions heads.
+
+Under the March 12 businesses, the youth organizations, civilian activists, as well as journalists, professionals, professionals, and government institutions in publicity have to be held in the country.Mr. Suwi Parkath added that Sujiva Parkharth added.
 
 ...
 
 [Data](articles/584a6247.json)
+
+[Extended Data](ext_articles/584a6247.ext.json)
 
 ---
 

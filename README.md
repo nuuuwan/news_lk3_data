@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-06 05:03:50**
+As of **2024-06-06 05:18:49**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,606
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,692 (100.0%) of 28,704 articles have been extended.
+28,699 (100.0%) of 28,704 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -108,6 +108,8 @@ As a long-standing advocate of sustainable development, E. B. Creasy Solar said 
 
 [Data](articles/2d4e1472.json)
 
+[Extended Data](ext_articles/2d4e1472.ext.json)
+
 ---
 
 ### Tea prices soar in May over declining volumes
@@ -128,6 +130,8 @@ Sri Lanka’s tea crop in April 2024 has dropped to a four year low of 21.46 mil
 
 [Data](articles/ab191420.json)
 
+[Extended Data](ext_articles/ab191420.ext.json)
+
 ---
 
 ### Cabinet clears to draft Value Added Act revision
@@ -144,6 +148,8 @@ This committee included the State Finance Committee, the Committee on Ways and M
 
 [Data](articles/bdd2e036.json)
 
+[Extended Data](ext_articles/bdd2e036.ext.json)
+
 ---
 
 ### CameraLK appointed as official Sony distributor for Maldives
@@ -159,6 +165,8 @@ With this appointment, CameraLK is all set to open a new branch in Maldives by t
 ...
 
 [Data](articles/b614de5c.json)
+
+[Extended Data](ext_articles/b614de5c.ext.json)
 
 ---
 
@@ -182,6 +190,8 @@ Speaking to the media, Sumanthiran said the party will evaluate the proposed pro
 
 [Data](articles/7462cf0b.json)
 
+[Extended Data](ext_articles/7462cf0b.ext.json)
+
 ---
 
 ### Marikkar urges Govt. to increase disaster compensation due to economic crisis
@@ -201,6 +211,8 @@ Samagi Jana Balawegaya (SJB) MP S.M. Marikkar urged the Government yesterday to 
 ...
 
 [Data](articles/6b6a1ab2.json)
+
+[Extended Data](ext_articles/6b6a1ab2.ext.json)
 
 ---
 
@@ -719,6 +731,8 @@ Given the pivotal role of debt restructuring in the Economic Transformation Bill
 ...
 
 [Data](articles/80e9ba7f.json)
+
+[Extended Data](ext_articles/80e9ba7f.ext.json)
 
 ---
 

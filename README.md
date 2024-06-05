@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-05 13:34:19**
+As of **2024-06-05 13:53:24**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,587
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,566 (100.0%) of 28,567 articles have been extended.
+28,567 (100.0%) of 28,567 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,8 @@ The Opposition Leader said the team has missed practice matches due to these iss
 ...
 
 [Data](articles/d55d967d.json)
+
+[Extended Data](ext_articles/d55d967d.ext.json)
 
 ---
 

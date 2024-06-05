@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-05 19:18:55**
+As of **2024-06-05 19:34:21**
 
 ## Newspaper Stats
 
-*Scraped **28,635** Articles*
+*Scraped **28,637** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 258
 dbsjeyarajcom | 273
-bbccomsinhala | 278
+bbccomsinhala | 279
 newsfirstlk | 363
 islandlk | 1,542
 economynextcom | 1,631
@@ -18,7 +18,7 @@ dailyftlk | 1,687
 adalk | 2,444
 adaderanalk | 3,252
 tamilmirrorlk | 3,363
-virakesarilk | 4,405
+virakesarilk | 4,406
 dailymirrorlk | 4,538
 adaderanasinhalalk | 4,601
 
@@ -26,27 +26,47 @@ adaderanasinhalalk | 4,601
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,632 (100.0%) of 28,635 articles have been extended.
+28,635 (100.0%) of 28,637 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-05 (Wednesday)
 
-### රත්නපුර පාසල් කිහිපයක් හෙටත් වැසේ
+### நாளை பாடசாலைகள் திறப்பது குறித்த அறிவிப்பு
+
+*2024-06-05 19:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/185404) · `ta`
+
+காலி மற்றும் மாத்தறை மாவட்டங்களில் உள்ள அனைத்து பாடசாலைகளும் நாளை 06 ஆம் திகதி வியாழக்கிழமை முதல் திறக்கப்படும் என மாகாண கல்வி செயலாளர் தெரிவித்துள்ளார்.
+
+அத்துடன், வெள்ளத்தினால் பாதிக்கப்பட்ட பாடசாலைகள் மற்றும் இடப்பெயர்வு நிலையங்களாகப் பயன்படுத்தப்படும் பாடசாலைகள் தொடர்பில் தீர்மானிக்கும் அதிகாரம் பிராந்தியக் கல்விப் பணிப்பாளர்களுக்கு வழங்கப்பட்டுள்ளதாக மாகாண கல்விச் செயலாளர் மேலும் தெரிவித்திருந்தமை இங்கு குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/8d62ca60.json)
+
+---
+
+### Severty schools closed tomorrow
 
 *2024-06-05 18:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197432) · `si`
 
-හෙට දිනයේදීත් රත්නපුර සහ නිවිතිගල අධ්‍යාපන කලාපයේ පාසල් කිහිපයක් වසාතැබීමට සබරගමුව පළාත් සභාව තීරණය කර තිබේ.
+In response to severe weather conditions, several schools in the Ratnapura and Nivitigala Education Zone will close tomorrow, while schools in the Galle and Matara districts will reopen. The decision was made by the Sabaragamuwa Provincial Council, and Zonal Education Directors will identify specific flood-affected schools.
 
-ඒ අනුව රත්නපුර අධ්‍යාපන කලාපයේ රත්නපුර, කුරුවිට හා ඇහැළියගොඩ කොට්ඨාස වලට අයත් සියලු පාසල් සහ නිවිතිගල අධ්‍යාපන කලාපයේ ඇලපාත හා අයගම කොට්ඨාසවලට අයත් සියලු පාසල් වසා තැබෙනු ඇත.
+🟩
 
-මේ අතර ගාල්ල සහ මාතර දිස්ත්‍රික්ක වල සියලු පාසල් හෙට දිනයේ යළි විවෘත කිරිමට තීරණය කර තිබේ.
+The Sabaragamuwa Provincial Council has decided to close several schools in the Ratnapura and Nivitigala Education Zone tomorrow.
 
-ගංවතුරෙන් හානියට පත්වූ පාසල් සහ අවතැන්වූවන්ගේ මධ්‍යස්ථාන ලෙස භාවිත කරන පාසල් පිළිබඳව තීරණය කිරිමට කලාප අධ්‍යාපන අධ්‍යක්ෂවරුන්ට බලය පැවරූ බවද දකුණු පළාත් අධ්‍යාපන ලේකම්වරයා සඳහන් කළේය.
+Accordingly, all schools belonging to all schools and the Nivatiigala Division of Ratnapura, Kuruwita and Eheliyagoda Division, will be closed.
+
+Meanwhile, all schools in the Galle and Matara districts have decided to reopen tomorrow.
+
+Zonal Education Directors were authorized to determine the schools affected by floods and the centers of the displaced.
 
 ◼️
 
 [Data](articles/1d835b6c.json)
+
+[Extended Data](ext_articles/1d835b6c.ext.json)
 
 ---
 
@@ -90,21 +110,33 @@ Police initiated investigations following the circulation of a viral video on so
 
 [Data](articles/8e42793f.json)
 
+[Extended Data](ext_articles/8e42793f.ext.json)
+
 ---
 
-### කුකුල් චමින්ද ඇතුලු 5 ක් බන්ධනාගාරයට දැරිය පරිවාසයට
+### Attached at probation of five, including cukubhmsa
 
 *2024-06-05 18:41:44* · [`adalk`](https://www.ada.lk/breaking_news/කුකුල්-චමින්ද-ඇතුලු-5-ක්-බන්ධනාගාරයට-දැරිය-පරිවාසයට/11-410034) · `si`
 
-වැලිඔය කල්‍යාණපුර ප්‍රදේශයේ පදිංචි කුඩා දැරියකට අමානුෂිකව පහරදුන් කුකුල් චමින්ද නැමති ප්‍රධාන සැකකරු ඇතුලු 05 දෙනෙකු ජුනි මස 19 වනදා දක්වා රක්ෂිත බන්ධනාගාරගත කරන ලෙසට පදවිය මහෙස්ත්‍රාත් කසුන් කාංචන දසනයක මහතා අද (05) දින නියෝග කරනු ලැබීය.
+A magistrate ordered several individuals, including a minor, to be remanded until June 19. A young girl was sent to Mullaittivu General Hospital, while four others were brought before the court. Two women, possibly the girl's relatives, were also remanded. Additionally, orders were issued for the transfer of a person named Padaviya Magistrate to correspondents in Mullaittivu and Welioya.
 
-වැලිඔය පොලිස් නිලධාරීන් විසින් අද දින පහරකෑමට ලක්වූ කුඩා දැරිය මුලතිව් මහරෝහලේ අධිකරණ වෛද්‍ය නිලධාරීවරයාට යොමු කිරීමෙන් අනතුරුව කුඩා දැරිය සමගින් ප්‍රධාන සැකකරු වූ කුකුල් චමින්ද ඇතුලු තවත් සැකකරුවන් සිව් දෙනෙකු පදවිය සංචාරක මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කරනු ලැබීය.
+🟩
 
-මෙහිදී කුකුල් චමින්ද සමගින් ඔහුගේ බිරින්ඳෑවරු බව පැවසෙන කාන්තාවන් දෙදෙනෙක්, සැකකරුවනට පුල්මුඩේ ප්‍රදේශයේදී සැඟව සිටීමට ඉඳුම් හිටුම් ලබාදුන් නිවසේ හිමිකරු සහ සැකකරුවන්ට ආහාරපාන ලබාදුන් වෙළඳසැලක හිමිකරුවෙකු මෙලෙස ජුනිමස 19 වනදා දක්වා බන්ධනාගාරගත කරන ලෙසට පදවිය මහෙස්ත්‍රාත් කසුන් කාංචන දසනයක මහතා නියෝග කරනු ලැබීය.
+Tandaviya Magistrate Kanchana Buddhism was ordered to be remanded until June 19 (05) to be remanded until June 19 (05).
 
-...
+After the small girl to the jurisdiction of Mullaittivu General Hospital today, four other suspects, the small suspect, was produced before the Tourist Magistrate.
+
+Two women, who are said to be his wife, who were housed in Palmudai area, was ordered to be remanded until the 19th of this month.
+
+Meanwhile, Padavath Kasun Kanchana Kanchana Buddhist monastery was ordered to be taken to transfer the Kudu girl in Anuradhapura.
+
+Padaviya Magistrate was ordered to be presented to the correspondent of Mullaitivu and the Chief Inspector of Welioya OIC.
+
+◼️
 
 [Data](articles/707cb734.json)
+
+[Extended Data](ext_articles/707cb734.ext.json)
 
 ---
 
@@ -198,7 +230,7 @@ Accordingly, the price of a bunch, rice and rice parcel has been reduced, the pr
 
 ---
 
-### Most law students female, but lady President’s Counsels not to be seen: Eran
+### Most law students female, but lady President’s Counsel not to be seen: Eran
 
 *2024-06-05 18:00:00* · [`economynextcom`](https://economynext.com/most-law-students-female-but-lady-presidents-counsels-not-to-be-seen-eran-166374/) · `en`
 
@@ -1416,6 +1448,26 @@ Since its inception, PLC Al-Safa has been committed to innovation within the fra
 
 ---
 
+### තහනම් ධීවර පන්න ක්‍රම:  නීති හදන්නන් හා  නීති රකින්නන් නිහඬ ද ?
+
+*2024-06-05 13:17:49* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cjrry1dyldlo) · `si`
+
+තහනම් ධීවර පන්න ක්‍රම:  නීති හදන්නන් හා  නීති රකින්නන් නිහඬ ද ?
+
+අද (ජුනි  5 වැනිදා )  ලෝක පරිසර දිනය මෙන්ම නීති විරෝධී, වාර්තා නොකළ සහ නියාමනය නොකළ මසුන් ඇල්ලීමට එරෙහි සටන සඳහා වන ජාත්‍යන්තර දිනයයි.
+
+"මාළු හොඳටම අඩුයි , ඒ කාලේ හිටපු ගිරවා , තඹුවා , කොස්සා , බොරළුවා කියන මාළු ආසාවට දකින්නත් නැහැ.මේ හැම දේම වෙන්නේ  තහනම් පන්න වලට ඉඩ දීලා ආණ්ඩුව හා  නිලධාරීන්  බලා ගෙන ඉන්න  නිසයි. ඒ වගේම තමයි සමහර තහනම් පන්නවලට  ආණ්ඩුව  අවසර දීලා  තියනවා කොන්දේසි දාලා. මේක හරියට හොඳට කසිප්පු  පෙරන්න කියලා  බලපත්‍රයක්  දෙනවා  වගේ වැඩක්.  ගොඩක් දෙනෙක් දන්නවා  අද කසිප්පු (නීති විරෝධී මත්පැන් ) පෙරන්නේ  කොහොමද  කියලා".
+
+බත්තලංගුණ්ඩුව වේලක්කන්නි මතා  ධීවර සමිතියේ සභාපතිවරයා වන්නේ ඇන්ටනි ෆොන්සේකා ය.
+
+ධීවර පරම්පරාවකින් එන  ඇන්ටනීට  මුහුද පිළිබද හොඳ අවබෝධයක්  තිබේ. තමන්ගේ  අත්දැකීමෙන්  මුහුදු යන  ඇන්ටනී මසුන් ඇල්ලීමටද දක්ෂයෙකි. මීට වසර දහයකට පෙර ඇන්ටනිට  වාරකන් හා  වලාල  යැයි  වෙනසක්  තිබුණේ නැත.
+
+...
+
+[Data](articles/133d8ce9.json)
+
+---
+
 ### Firing on US embassy in Beirut
 
 *2024-06-05 13:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/185356) · `ta`
@@ -2239,57 +2291,5 @@ The Netherlands have kicked off their ICC Men's T20 World Cup campaign with a 4-
 [Data](articles/f2a8c7bd.json)
 
 [Extended Data](ext_articles/f2a8c7bd.ext.json)
-
----
-
-### Notice of the A / L results again
-
-*2024-06-05 10:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197411) · `si`
-
-Applications for re-examining GCE A/L results open today, June 19th. Candidates are advised to follow the instructions provided by the Examinations Department.
-
-🟩
-
-The Examinations Department announces that applications for the re-examination of the GCE A / L examination results of the GCE A / L results will commence today.
-
-Accordingly, applicants can apply for the applicants on the 19th of June 19th.
-
-The Examinations Department informs the candidates to obey the lower tips.
-
-◼️
-
-[Data](articles/d9fded78.json)
-
-[Extended Data](ext_articles/d9fded78.ext.json)
-
----
-
-### Israeli Prime Minister against the Prime Minister?US House
-
-*2024-06-05 10:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/185350) · `ta`
-
-The US House of Representatives passed a bill imposing sanctions on the International Criminal Court (ICC) related to Israel's Prime Minister, Benjamin Netanyahu. The measure, supported by 247 Republicans and opposed by 155 Democrats, aligns with the Israeli Republican Party's stance but faces opposition from President Joe Biden and potential rejection in the Senate due to Democratic majority.
-
-🟩
-
-The US House of Representatives has passed a bill to impose sanctions against the International Criminal Court over the issue of Israeli Prime Minister Benjamin Nettanyaku.
-
-The House of Representatives has accepted the proposed Bill of the Israeli Republican Party in the US House of Representatives.
-
-247 people in the House of Representatives have voted in favor of the resolution and 155 voted against the US Republican Party.
-
-Representatives of the Democratic Party supporting Israel have voted in favor of the International Criminal Court.
-
-Although the bill has been passed, it has been reported that it will not be transformed into law.
-
-The BBC said that the Democrats who have a majority in the Senate will reject the bill.
-
-US President Jobitin is vehemently opposed to the Bill, the BBC said.
-
-◼️
-
-[Data](articles/07c83297.json)
-
-[Extended Data](ext_articles/07c83297.ext.json)
 
 ---

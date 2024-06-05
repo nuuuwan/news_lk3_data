@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-06 00:50:44**
+As of **2024-06-06 01:04:00**
 
 ## Newspaper Stats
 
-*Scraped **28,676** Articles*
+*Scraped **28,677** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,635
 dailyftlk | 1,687
 adalk | 2,448
 adaderanalk | 3,255
-tamilmirrorlk | 3,367
+tamilmirrorlk | 3,368
 virakesarilk | 4,410
 dailymirrorlk | 4,553
 adaderanasinhalalk | 4,606
@@ -26,11 +26,25 @@ adaderanasinhalalk | 4,606
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,676 (100.0%) of 28,676 articles have been extended.
+28,676 (100.0%) of 28,677 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-06 (Thursday)
+
+### 1,5025 வீடுகளை அகற்ற  நடவடிக்கை
+
+*2024-06-06 00:34:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/1-5025-வீடுகளை-அகற்ற-நடவடிக்கை/175-338509) · `ta`
+
+மண்சரிவு  அவதானம் எச்சரிக்கை விடுக்கப்பட்டுள்ள  பகுதிகளில் உள்ள 1,5025 வீடுகளை அகற்றுவதற்கு  நடவடிக்கை எடுக்கப்படும். இவ்வாறான இடங்களில் உள்ளவர்களுக்கு அரசாங்கத்தால் வீடுகள் வழங்கப்பட்டுள்ள போதும் அவதானத்துக்குரிய இடங்களிலுள்ள வீடுகளில் இருந்து வெளியேறாதவர்களுக்கு எதிராக சட்ட நடவடிக்கைகள் எடுக்கப்படும்  என பாதுகாப்பு இராஜாங்க அமைச்சர் பிரமித்த பண்டார தென்னக்கோன் தெரிவித்தார்.
+
+நாட்டில் நிலவும் சீரற்ற காலநிலை மற்றும் பாதிப்பு தொடர்பில்  அரச தரப்பு எம்பி. அகில சாலிய எல்லாவெல பாராளுமன்றத்தில் புதன்கிழமை (05)  முன்வைத்த கேள்விகளுக்கு பதிலளிக்கும்போதே இதனைத்தெரிவித்த  அவர் மேலும் கூறுகையில்,
+
+...
+
+[Data](articles/f83cf5e5.json)
+
+---
 
 ### An assessment of China growing ties with the Arab world
 
@@ -2237,21 +2251,5 @@ The NDA won 293 seats in 543-member lower house of parliament, more than the 272
 [Data](articles/3e10d436.json)
 
 [Extended Data](ext_articles/3e10d436.ext.json)
-
----
-
-### PLC AL-SAFA:PIONEERING SHARIAH-COMPLIANT FINANCE IN SRI LANKA FOR TWO DECADES, NOW EXPANDING NATIONWIDE WITH CUTTING-EDGE DIGITAL SOLUTIONS
-
-*2024-06-05 13:19:00* · [`islandlk`](http://island.lk/plc-al-safa-pioneering-shariah-compliant-finance-in-sri-lanka-for-two-decades-now-expanding-nationwide-with-cutting-edge-digital-solutions/) · `en`
-
-As the first full-service non-banking Islamic finance provider in Sri Lanka, People’s Leasing & Finance PLC (PLC) Al-Safa Unit has been offering reliable and trustworthy Shariah-compliant products and services since 2005. Over the past two decades, it has built a reputation for high-quality, customer-centric services. Al-Safa serves Sri Lankans seeking comprehensive Shariah-compliant alternative financial solutions.
-
-Since its inception, PLC Al-Safa has been committed to innovation within the framework of Shariah-compliant finance. The company enhanced its dedication to compliance and innovation by strengthening the Shariah Supervisory Board. This allows PLC Al-Safa to regularly and continuously review all its products, services, and processes, ensuring they not only comply with Shariah principles but also offer maximum value, flexibility, and innovation.
-
-...
-
-[Data](articles/75f127fa.json)
-
-[Extended Data](ext_articles/75f127fa.ext.json)
 
 ---

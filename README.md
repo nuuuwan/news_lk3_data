@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-05 08:20:04**
+As of **2024-06-05 08:34:14**
 
 ## Newspaper Stats
 
-*Scraped **28,497** Articles*
+*Scraped **28,499** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,44 @@ newsfirstlk | 363
 islandlk | 1,542
 economynextcom | 1,620
 dailyftlk | 1,686
-adalk | 2,424
+adalk | 2,425
 adaderanalk | 3,236
 tamilmirrorlk | 3,351
 virakesarilk | 4,387
 dailymirrorlk | 4,505
-adaderanasinhalalk | 4,574
+adaderanasinhalalk | 4,575
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,489 (100.0%) of 28,497 articles have been extended.
+28,497 (100.0%) of 28,499 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-05 (Wednesday)
+
+### කැලණි, කළු සහ අත්තනගලු ඔයේ ජල මට්ටම පහළට
+
+*2024-06-05 08:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197405) · `si`
+
+කැලණි ගඟ, කළු ගඟ සහ අත්තනගලුඔය මේ වන විටත් අවදානම් තත්ත්වය ක්‍රමයෙන් පහව යමින් පවතින බව වාරිමාර්ග දෙපාර්තමේන්තුවේ ඉංජිනේරු සකුරා දිල්තාරා මහත්මිය සඳහන් කළාය.
+
+මේ නිසා ගංවතුරේ බලපෑම් එල්ල වූ ගම්පහ, ජාඇළ, වත්තල, මිනුවන්ගොඩ, කටාන යන ප්‍රදේශවල ජල මට්ටම අද දිනයේ ක්‍රමයෙන් පහළ යනු ඇතැයි ද අපේක්ෂා කෙරේ.
+
+මේ අතර කැලණි ගංගා ද්‍රෝණියේ පහළ ප්‍රදේශ වන කඩුවෙල, බියගම, කොළොන්නාව, වත්තල හා කොළඹ යන ප්‍රදේශවල ජල මට්ටමට මේ වනවිට ක්‍රමයෙන් පහළ බසින බව ඇය වැඩිදුරටත් සඳහන් කළාය.
+
+නායයෑම් අවදානම් තත්ත්වය තවදුරටත් පවතින බව ජාතික ගොඩනැගිලි පර්යේෂණ සංවිධානයේ ජ්‍යෙෂ්ඨ භූ විද්‍යාඥ වසන්ත සේනාධීර මහතා පවසයි.
+
+මේ අතර, දිවයිනට බලපා ඇති අයහපත් කාලගුණික තත්ත්වය හේතුවෙන් පීඩාවට ලක් වූ පුද්ගලයින් සංඛ්‍යාව 161,000 ඉක්මවා ගොස් ඇති බව ආපදා කළමණාකරණ මධ්‍යස්ථානය පවසයි.
+
+එහි අධ්‍යක්ෂ ප්‍රදීප් කොඩිප්පිලි මහතා සඳහන් කළේ, ආපදා තත්ත්වය මියගිය සංඛ්‍යාව 21 දක්වා ඉහළ ගොස් ඇති බවය.
+
+◼️
+
+[Data](articles/03a358c9.json)
+
+---
 
 ### Funds set aside for repairing flood-damaged roads – State Minister
 
@@ -48,6 +70,8 @@ The Ministry has made significant progress, with about 65% of the work completed
 
 [Data](articles/e7e8a7c2.json)
 
+[Extended Data](ext_articles/e7e8a7c2.ext.json)
+
 ---
 
 ### Spells of showers expected in several provinces
@@ -63,6 +87,30 @@ The general public is kindly requested to take adequate precautions to minimize 
 ◼️
 
 [Data](articles/c129d124.json)
+
+[Extended Data](ext_articles/c129d124.ext.json)
+
+---
+
+### දරුවෙකුට අමානුෂිකව පහරදුන් කුකුල් චමින්ද අල්ලයි
+
+*2024-06-05 07:36:51* · [`adalk`](https://www.ada.lk/breaking_news/දරුවෙකුට-අමානුෂිකව-පහරදුන්-කුකුල්-චමින්ද-අල්ලයි/11-410011) · `si`
+
+පසුගිය දිනවල   සමාජ මාධ්‍ය ජාලාවල සංසරණය වූ පුද්ගලයෙකු  විසින්  කුඩා ළමයෙකුට පහරදෙන විඩියෝවේ ළමයාට පහර දෙන  පුද්ගලයා    සහ පහර කෑ ළමයාද  එම සිද්ධියට අනුබල දුන්  කාන්තාවන් දෙදෙනෙකුද  අද (5)අලුයම සැකපිට   අත් අඩංගුවට ගත් බව වැලිඔය පොලීසිය පවසයි.
+
+මෙසේ අත් අඩංගුවට ගත් ප්‍රධාන  සැකකරු  කුකුල් චමින්ද නමින් හඳුන්වන පුද්ගලයෙක් බව පොලීසිය කියයි.
+
+අදාල වීඩියෝව සමාජ මාධ්‍ය ජාලාවල සංසරණය වීමත් සමග සැකකරු දරුවා ඇතුළු පිරිස සමග  නිවසද වසා දමා ප්‍රදේශයෙන් පැන ගොස් සැඟවී සිටියදී පුල්මුඩේ අරසිමලේ ප්‍රදේශයේදී අත් අඩංගුවට ගැනීමට හැකිවූ බව පොලීසිය පැවසීය.
+
+අත්අඩංගුවට ගත් පිරිස සමග සිටි  වයස අවුරුදු 4 ක් හා මාස 06 ක් පමණ වන වීඩියෝවේ සඳහන් පරිදි   පහරකෑමට ලක්වූ වින්දිත පිරිමි දරුවා මේ  වන විට  පොලිස් භාරයේ ආරක්ෂිතව සිටින බව පොලීසිය කියයි
+
+වැලිඔය පොලිස් ස්ථානයේ නිලධාරීන් විසින්   පුල්මුඩේ විශේෂ කාර්‍ය බලකා නිලධාරීන් සහ මුලතිව් කොට්ඨාස අපරාධ විමර්ශන ඒකකයේ නිලධාරීන්ගේ සහාය ඇතිව මෙම මෙහෙයුම සිදු කළහ.
+
+මෙම සිද්ධිය සම්බන්ධව වැලිඔය පොලිසිය මගින් වැඩිදුර විමර්ශන පවත්වනු ලබයි.
+
+◼️
+
+[Data](articles/55cc6202.json)
 
 ---
 
@@ -1488,6 +1536,8 @@ Since its inception, PLC Al-Safa has been committed to innovation within the fra
 
 [Data](articles/75f127fa.json)
 
+[Extended Data](ext_articles/75f127fa.ext.json)
+
 ---
 
 ### lolc Finance paves the way for real-time deposits through mCash collaboration
@@ -1501,6 +1551,8 @@ This shared initiative empowers customers to conveniently deposit cash into thei
 ...
 
 [Data](articles/6b498855.json)
+
+[Extended Data](ext_articles/6b498855.ext.json)
 
 ---
 
@@ -1521,6 +1573,8 @@ Havelock City Mall built at a cost of USD 130 million opens for business
 ...
 
 [Data](articles/a47ae893.json)
+
+[Extended Data](ext_articles/a47ae893.ext.json)
 
 ---
 
@@ -1584,6 +1638,8 @@ Save my name, email, and website in this browser for the next time I comment.
 
 [Data](articles/1b80ad56.json)
 
+[Extended Data](ext_articles/1b80ad56.ext.json)
+
 ---
 
 ### IMF third tranche hopes inject buoyancy to bourse
@@ -1597,6 +1653,8 @@ Amid those developments stock market activities were more positive and bullish a
 ...
 
 [Data](articles/a698b6de.json)
+
+[Extended Data](ext_articles/a698b6de.ext.json)
 
 ---
 
@@ -2133,37 +2191,5 @@ The Supreme Court bench comprising justices Yasantha Kodagoda, A.H.M.D. Nawaz an
 [Data](articles/f973741f.json)
 
 [Extended Data](ext_articles/f973741f.ext.json)
-
----
-
-### Stunning   Election Results  Humble  India’s Strongman  Prime Minister Narendra Modi who is  Forced to Form Coaition Govt with Alliance Partners – “The Economist”
-
-*2024-06-04 18:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84145) · `en`
-
-Ahead of the general election that concluded on June 1st Narendra Modi, India’s prime minister, was expected to romp home. His charisma, combined with an emphasis on infrastructure development, welfare payments to the poorest and a polarising Hindu nationalism, looked unbeatable. Mr Modi exuded a confidence that matched those predictions. He claimed that his Bharatiya Janata Party (bjp) and its allies would win upwards of 400 seats in the 543-seat parliament.
-
-Early results from the vote count on June 4th appeared to put that target out of reach. After more than 50% of the votes had been counted, Mr Modi’s alliance still looked headed for victory, with the bjp and its allies ahead in 290 seats, compared with the opposition’s 235. Yet the bjp itself appeared to be on course to lose more than 60 seats compared with the last election in 2019, with results mid-afternoon putting its tally at 238, down from 303 in 2019.
-
-...
-
-[Data](articles/28c5a37c.json)
-
-[Extended Data](ext_articles/28c5a37c.ext.json)
-
----
-
-### Indian Prime Minister Narendra Modi wins third term in Elections; BJP led NDA gets 291 seats while the Congress -led INDIA Bloc wins 234 seats
-
-*2024-06-04 18:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84135) · `en`
-
-Prime Minister Narendra Modi won a third term in power on June 4, but he will be dependent on allies as the BJP fell almost 32 short of the halfway mark of 272 seats in the Lok Sabha. The BJP-led National Democratic Alliance (NDA) won 291 seats against the Congress-led INDIA bloc’s 234 seats. The Congress won 99 seats compared to 52 in 2019.
-
-The BJP faced setbacks in strongholds and ended up with lower tallies in Uttar Pradesh and Rajasthan, while its southern foray yielded only marginal returns. Its hopes of expanding in West Bengal were dashed. However, Odisha went according to the BJP’s script where it rose to power for the first time and posted wins in 19 out of 21 Lok Sabha seats.
-
-...
-
-[Data](articles/42c00e28.json)
-
-[Extended Data](ext_articles/42c00e28.ext.json)
 
 ---

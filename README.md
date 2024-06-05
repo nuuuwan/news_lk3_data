@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-05 23:18:56**
+As of **2024-06-05 23:34:24**
 
 ## Newspaper Stats
 
-*Scraped **28,661** Articles*
+*Scraped **28,663** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,58 +19,98 @@ adalk | 2,448
 adaderanalk | 3,255
 tamilmirrorlk | 3,367
 virakesarilk | 4,406
-dailymirrorlk | 4,546
+dailymirrorlk | 4,548
 adaderanasinhalalk | 4,606
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,659 (100.0%) of 28,661 articles have been extended.
+28,661 (100.0%) of 28,663 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-05 (Wednesday)
 
-### ඉන්දියාවට සුපිරි ජයක්
+### India beat Ireland by eight wickets in T20 World Cup
+
+*2024-06-05 23:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/India-beat-Ireland-by-eight-wickets-in-T20-World-Cup/108-284216) · `en`
+
+(New York) - India hammered Ireland by eight wickets in the teams' Group A T20 World Cup opener in New York on Wednesday. #betss
+
+India bowled out Ireland for just 96 after winning the toss, with Hardik Pandya taking three wickets and fellow pacemen Jasprit Bumrah and Arshdeep Singh two apiece.
+
+They then chased down a target of 97 with more than seven overs to spare, captain Rohit Sharma making 52 before retiring hurt and Rishabh Pant 36 not out.
+
+◼️
+
+[Data](articles/8f4ce1fd.json)
+
+---
+
+### Ravindra Randeniya celebrates 50 years in cinema
+
+*2024-06-05 22:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Ravindra-Randeniya-celebrates-50-years-in-cinema/110-284215) · `en`
+
+Renowned artist Ravindra Randeniya, celebrating 50 years in cinema and his 79th birthday, was honored at a ceremony held at the Bandaranaike Memorial International Conference Hall (BMICH) this evening, with President Ranil Wickremesinghe and Prime Minister Dinesh Gunawardena in attendance. Pix by Nimalsiri Edirisinghe
+
+◼️
+
+[Data](articles/0df5cc8d.json)
+
+---
+
+### India beat India
 
 *2024-06-05 22:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197437) · `si`
 
-අයර්ලන්ත කණ්ඩායමට එරෙහිව අද පැවති තරගය කඩුලු කින් ජයගැනීමට ප්‍රබල ඉන්දීය කණ්ඩායම සමත්විය.
+In a cricket match, India triumphed over Ireland. Rohit Sharma shone with 52 runs, including six sixes and four fours off 26 balls. The Irish team managed 96 runs in 16 overs while batting first.
 
-එහිදී අගනා ඉනිමක් ක්‍රීඩා කළ නායක රෝහිත් ශර්මා ඉන්දියාව වෙනුවෙන් ලකුණු 52ක් රැස්කරගත්තේය.
+🟩
 
-පන්දු 37කදී ගොඩනැගූ ඔහුගේ ඉනිමට හයේ පහර 3ක් සහ හතරේ පහර 4ක් ඇතුළත් විය.
+India won the match against the Irish team.
 
-පන්දු 26 කදී හයේ පහර 2ක් සහ හතරේ පහර 3ක් සමග ඔහු සිය ඉනිම ගොඩනැගුවේය.
+Rohith Sharma scored 52 runs for India.
 
-ප්‍රථමයෙන් පන්දුවට පහරදුන් අයර්ලන්ත කණ්ඩායම පන්දුවාර 16කදී සියලුදෙනා දැවී රැස්කරගත්තේ ලකුණු 96ක් පමණි.
+His innings took three sixes and four fours in his innings.
+
+He was built in 26 balls with six sixes and 3 fours.
+
+Batting first, Irish group scored 96 runs in 16 overs.
 
 ◼️
 
 [Data](articles/d7264ecd.json)
 
+[Extended Data](ext_articles/d7264ecd.ext.json)
+
 ---
 
-### මිලියන 28ක කේරළ ගංජා සමග දෙදෙනෙක් අත්අඩංගුවට
+### Two arrested with Kerala Cannabis
 
 *2024-06-05 22:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197436) · `si`
 
-කේරළ ගංජා තොගයක් සමග සැකකරුවන් දෙදෙනෙකු නාවික හමුදාව විසින් උතුරු මුහුදේදී අත්අඩංගුවට ගෙන තිබේ.
+Two men, aged 34 and 40 from Jaffna, were arrested by the Navy for possessing 70 kg of Kerala cannabis worth around Rs. 28 million. The arrest occurred during transportation, and both suspects' devices and calendars have been handed over for investigation.
 
-මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ වයස අවුරුදු 34 සහ 40 හැවිරිදි වියේ පසුවන යාපනය ප්‍රදේශයේ පදිංචිකරුවන් දෙදෙනෙකි.
+🟩
 
-එහිදී ඔවුන් සන්තකයේ තිබී කේරළ ගංජා කිලෝග්‍රෑම් 70කට අධිකාර ප්‍රමාණයක් සොයාගෙන ඇත.
+Two suspects have been arrested by the Navy with a stock of Kerala cannabis at the North.
 
-එහි වටිනාකම රුපියල් මිලියන 28කට ආසන්න බව නාවික හමුදාව පවසයි.
+The arrested were residents of Jaffna, aged 34 and 40 years old.
 
-ඩිංගි යාත්‍රාවකින් එම කේරළ ගංජා ප්‍රවාහනය කරමින් තිබියදී මෙලෙස නාවික හමුදාව ඔවුන් අත්අඩංගුවට ගෙන ඇත.
+There is a property for 70 kilograms of Kerala cannabis in their possession.
 
-අත්අඩංගුවට ගත් සැකකරුවන් සහ නාවික හමුදාව සිය භාරයට ගෙන තිබූ කේරළ ගංජා සහ ඩිංගි යාත්‍රාව වැඩිදුර පරීක්ෂණ කටයුතු සඳහා මරදන්කේනි පොලිස් ස්ථානය වෙත භාරදී ඇත.
+The value of its value is nearly Rs. 28 million.
+
+The Navy has arrested them while the Kerala cannabis was transporting the Kerala cannabis.
+
+The arrested suspects and the navy calendar and the digie were handed over to the Maradken Kankenda Police for further investigations.
 
 ◼️
 
 [Data](articles/77fa8628.json)
+
+[Extended Data](ext_articles/77fa8628.ext.json)
 
 ---
 
@@ -2223,53 +2263,5 @@ This shared initiative empowers customers to conveniently deposit cash into thei
 [Data](articles/6b498855.json)
 
 [Extended Data](ext_articles/6b498855.ext.json)
-
----
-
-### Sri Lanka has been allowed to boycott international law for more than 15 years - who have been atrocited international crimes against Eelam Tamils
-
-*2024-06-05 12:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/185354) · `ta`
-
-Sri Lanka has evaded international law for over 15 years, committing atrocities against the Eelam Tamils. The Tamil Eelam government calls for recognition to ensure accountability. ICC lawyer Karim Khan is commended for seeking the arrest of Israeli and Hamas leaders for war crimes. International legal experts affirm that no conflict can evade legal repercussions. Despite evidence of mass killings, no military personnel have faced charges. The UN highlights the failure of domestic efforts for justice, suggesting international mechanisms are necessary. The Eelam Tamils urge the ICC to indict Israeli and Hamas leaders, citing the court's recognition of Palestine's right to justice. They reject Sri Lanka's constitution based on sovereignty principles and assert their right to self-governance and prosecution of war crimes under the Rome Statute.
-
-🟩
-
-The recognition of legal Tamil Eelam will lead to accountability on the island of Sri Lanka, the Tamil Eelam government said.
-
-The Transnational Tamil Eelam government praises the International Criminal Court (ICC) lawyer Karim Khan for a bold action for the arrest of Hamas and Israeli leaders, including Israeli Prime Minister, for crimes and war crimes against humanity.
-
-We again underlined that international law and armed struggle laws apply to all, as the prosecutor Karim Khan said.. No army nor any commander can act without any punishment for crimes.
-
-International legal experts, including former International International Criminal Court Judge Theodore Meron and Amal Clooney, have said in their statement, "No war can escape the hands of the law."
-
-It is a painful fact that Sri Lanka has been allowed to boycott international law for more than 15 years, which has committed atrocities against the Eelam Tamils.
-
-...
-
-[Data](articles/b642f12b.json)
-
-[Extended Data](ext_articles/b642f12b.ext.json)
-
----
-
-### Child killed
-
-*2024-06-05 11:53:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மண்மேடு-விழுந்ததில்-குழந்தை-பலி/76-338477) · `ta`
-
-In Varahahena, Kurundiya, a three-and-a-half-year-old boy, Kavindu Shehanta, tragically fell into a newly dug hole meant for a sidewalk behind his home and passed away. Despite neighborly efforts to rescue him and subsequent hospitalization, he succumbed to his injuries.
-
-🟩
-
-A three -and -a -half -year -old child dies near a house in Varahahena village in Kurundiya, Kegalle, Mangalagama,. A child named Kavindu Shehanta has died.
-
-Police said that the shore had been cut from the morning to set up a safe sidewalk on the back of the house and the child had fallen on the child while playing there.
-
-The baby was rescued with the help of neighbors and admitted to the Kegalle Teaching Hospital, but the baby died.
-
-◼️
-
-[Data](articles/31649366.json)
-
-[Extended Data](ext_articles/31649366.ext.json)
 
 ---

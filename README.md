@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-05 17:34:30**
+As of **2024-06-05 17:54:52**
 
 ## Newspaper Stats
 
-*Scraped **28,615** Articles*
+*Scraped **28,616** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,34 +19,56 @@ adalk | 2,439
 adaderanalk | 3,251
 tamilmirrorlk | 3,362
 virakesarilk | 4,400
-dailymirrorlk | 4,536
+dailymirrorlk | 4,537
 adaderanasinhalalk | 4,599
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,612 (100.0%) of 28,615 articles have been extended.
+28,615 (100.0%) of 28,616 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-05 (Wednesday)
 
-### දරුවාට පහරදුන් සැකකරුට ලැබුණු නියෝගය
+### SJB files petition against Economic Transformation Bill
+
+*2024-06-05 17:28:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SJB-files-petition-against-Economic-Transformation-Bill/108-284179) · `en`
+
+Colombo, June 05 (Daily Mirror) -  Samagi Jana Balawegaya (SJB) General Secretary Ranjith Madduma Bandara today filed a Special Determination petition before the Supreme Court challenging the constitutionality of the Economic Transformation Bill, which was tabled recently in Parliament.
+
+Madduma Bandara filed this petition seeking a declaration that the Bill requires the approval by the people at a Referendum in addition to the 2/3 approval of Parliament.
+
+The petitioner states that several Clauses of the Bill have been included so as to codify into domestic legislation the conditions contained in the present IMF-EFF arrangement and other representations made to the International Monetary Fund by representatives of the Government of Sri Lanka.
+
+...
+
+[Data](articles/41fa080f.json)
+
+---
+
+### Order received the suspect who assaulted the child
 
 *2024-06-05 17:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197430) · `si`
 
-සමාජ මාධ්‍ය ඔස්සේ සංසරණය වූ කුඩා දරුවෙකුට පහරදීමේ සිද්ධියේ ප්‍රධාන සැකකරු සහ සැකකාරියන් දෙදෙනාව ඇතුළු සියලු සැකකරුවන් රිමාන්ඩ් බන්ධනාගාරගතකර තිබේ.
+Four individuals, including a main suspect and two others, were arrested for assaulting a child. They were all remanded and appeared before the Padaviya Magistrate's Court, where they were held until June 19th. The arrests took place early in the morning, involving a 27-year-old man and two women aged 37 and 46.
 
-එම සැකකරුවන් පදවිය මහෙස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමෙන් අනතුරුව ඔවුන්ව ජුනි මස 19 වනදා දක්වා රිමාන්ඩ් බන්ධනාගාරගතකර ඇත.
+🟩
 
-දරුවාට පහරදීමේ සිදුවීමේ සැකකරුවන් අද (05) අලුයම පුල්මුඩේ අරිසිමලේ ප්‍රදේශයේ දී අත්අඩංගුවට ගනු ලැබීය.
+All suspects including the main suspect and the two suspects were remanded in the assault of a small child, and two suspects.
 
-මෙලෙස රිමාන්ඩ් බන්ධනාගාරගතකර ඇත්තේ 45 හැවිරිදි පුද්ගලයෙක් සහ 37 සහ 46 හැවිරිදි කාන්තාවන් දෙදෙනෙකි.
+The suspects were submitted to the Padaviya Magistrate's Court and remanded until June 19.
+
+The suspects were arrested in the early hours of assaulting the child this morning.
+
+There were two-year-old man and 37 and 46-year-old women were remanded.
 
 ◼️
 
 [Data](articles/27e75a23.json)
+
+[Extended Data](ext_articles/27e75a23.ext.json)
 
 ---
 
@@ -62,19 +84,27 @@ The secretary added that Zonal Education Directors are empowered to decide on re
 
 [Data](articles/006df479.json)
 
+[Extended Data](ext_articles/006df479.ext.json)
+
 ---
 
-### හෙට පාසල් විවෘත කිරීම ගැන අලුත් තීරණයක්
+### New decision on opening schools tomorrow
 
 *2024-06-05 17:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197429) · `si`
 
-ගාල්ල සහ මාතර දිස්ත්‍රික්කවල සියලුම පාසල් හෙට (06) සිට යළි විවෘත කරන බව පළාත් අධ්‍යාපන ලේකම්වරයා පවසයි.
+Schools in Galle and Matara districts will reopen tomorrow after being converted from flood shelters.
 
-එසේම තවදුරටත් ගංවතුර බලපෑම එල්ලවී ඇති පාසල් සහ අවතැන් මධ්‍යස්ථාන ලෙස භාවිත කරන පාසල් සම්බන්ධයෙන් තීරණය කිරීමේ බලය කළාප අධ්‍යාපන අධ්‍යක්ෂවරුන්ට පවරා ඇති බව පළාත් අධ්‍යාපන ලේකම්වරයා වැඩිදුරටත් පවසයි.
+🟩
+
+All schools in the Galle and Matara districts will be reopened tomorrow (06) to reopen.
+
+The provincial directors have been handed over to schools that have been used as the schools and displaced centers used by the floods.
 
 ◼️
 
 [Data](articles/b2782fa4.json)
+
+[Extended Data](ext_articles/b2782fa4.ext.json)
 
 ---
 
@@ -2239,27 +2269,5 @@ K.L.D.G. Richmond, the co-secretary of the Inter-University Trade Union Federati
 [Data](articles/730e1a96.json)
 
 [Extended Data](ext_articles/730e1a96.ext.json)
-
----
-
-### Dengue raise dengue
-
-*2024-06-05 08:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197407) · `si`
-
-In the past five months, over a thousand cases of dengue have been reported, posing a significant risk, especially in schools. The director of the dengue eradication unit highlights this concern. Due to unfavorable weather conditions, all dengue eradication programs have been postponed across the island.
-
-🟩
-
-More than a thousand dengue patients have been reported during the period of 5 months of this year, dengue eradication unit said.
-
-Its director, Specialist Dr. Sudath Samaraweera said that many schools in many schools is a serious risk.
-
-The President of the Health Entomology Officers' Association Nagith Sumanasena says that all dengue eradication programs have been deferred to the island due to the inclement weather.
-
-◼️
-
-[Data](articles/3d93bd88.json)
-
-[Extended Data](ext_articles/3d93bd88.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-05 11:04:48**
+As of **2024-06-05 11:18:36**
 
 ## Newspaper Stats
 
-*Scraped **28,536** Articles*
+*Scraped **28,537** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,542
 economynextcom | 1,620
 dailyftlk | 1,687
 adalk | 2,427
-adaderanalk | 3,239
+adaderanalk | 3,240
 tamilmirrorlk | 3,356
 virakesarilk | 4,390
 dailymirrorlk | 4,522
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,581
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,534 (100.0%) of 28,536 articles have been extended.
+28,536 (100.0%) of 28,537 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -86,6 +86,26 @@ The Examinations Department informs the candidates to obey the lower tips.
 
 ---
 
+### Flood waters recede in some areas, but landslide risks persist
+
+*2024-06-05 10:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/99672/flood-waters-recede-in-some-areas-but-landslide-risks-persist) · `en`
+
+The Irrigation Department reported that the dangerous situation in the Kelani River, Kalu River, and Attanagalu Oya is gradually dissipating as the water levels are dropping.
+
+As a result, it is expected that the water levels in the flood-affected areas of Gampaha, Ja-Ela, Wattala, Minuwangoda, and Katana will gradually decrease today (5), Sakura Dilthara, an engineer for the department said.
+
+Additionally, she mentioned that the water levels in the low-lying areas of the Kelani River Basin, such as Kaduwela, Biyagama, Kolonnawa, Wattala, and Colombo, are also gradually decreasing.
+
+Meanwhile, Dr. Wasantha Senadeera, a senior geologist at the National Building Research Organization (NBRO), stated that the risk of landslides still persists.
+
+The Disaster Management Center reported that the number of people affected by the adverse weather conditions across the island has exceeded 161,000. Its director, Mr. Pradeep Kodippili, mentioned that the death toll has risen to 21.
+
+◼️
+
+[Data](articles/450177e0.json)
+
+---
+
 ### Foreign couple drowned in beach
 
 *2024-06-05 10:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197410) · `si`
@@ -112,21 +132,27 @@ The bodies were deposited in Debarawewa hospital and Kirinda Police are conducti
 
 ---
 
-### පොලිස් නිලධාරීන් දෙදෙනෙකු අත්අඩංගුවට
+### Two police officers arrested
 
 *2024-06-05 10:08:42* · [`adalk`](https://www.ada.lk/breaking_news/පොලිස්-නිලධාරීන්-දෙදෙනෙකු-අත්අඩංගුවට/11-410013) · `si`
 
-සැකකරුවකු නිත්‍යානුකූල නොවන අයුරුන් අයුරින් අත්අඩංගුවට ගෙන අතුරුදන් කිරීම සම්බන්ධයෙන්  පොලිස් නිලධාරීන් දෙදෙනකු  අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ සමූහ මංකොල්ල විමර්ශන අංශය මගින් අත්අඩංගුවට ගෙන ඇතැයි පොලිස් මූලස්ථානය කියයි.
+Two police officers, including a sergeant and a constable from the Alawwa Police, were arrested by the Criminal Investigation Department (CID). They are suspected of criminal activities and will be presented before the Polgahawela Magistrate's Court for further proceedings.
 
-මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ අලව්ව පොලිසියට අනුයුක්ත පොලිස් සැරයන්වරයෙකු සහ කොස්තාපල්වරයෙකි.
+🟩
 
-2010 ජූලි මස 25 වැනි දින අලව්ව පොලිසියේ අපරාද අංශයේ ස්ථානාධිපතිවරයා ඇතුළු නිලධාරී කණ්ඩායමක් සමග කටු පොත  පොලිස් වසමේ වජිරවත්ත ප්‍රදේශයේදී ගනේ රාළලාගේ ශාන්ත සමරවිර යන සැකකරුව නිත්‍යනුකූල නොවන අයුරින් අත්අඩංගුවට ගෙන අයුතු සිරකර තැබීමෙන් පසුව සැකකරු අතුරුදන් කිරීම සම්බන්ධයෙන් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ සමූහ මංකොල්ල විමර්ශනා අංශයේදී මෙම නිලධාරීන් දෙදෙනා අත්අඩංගුවට ගත් බව පොලිස් මූලස්ථානය කියයි.
+Two police officers have been arrested by the Criminal Investigation Department (CID) in the CID.
 
-සැකකරුවන් පොල්ගහවෙල මහේස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමට නියමිතය. අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ සමූහ මංකොල්ල විමර්ශන අංශය මගින් වැඩිදුර විමර්ශන පැවැත්වේ.
+The policeman is a police sergeant and a constable attached to the Alawwa Police.
+
+The two officers of the Criminal Investigation Department of the Alawwa Police Station, the OIC of the Alawwa Police Division, was arrested by the Alawwa Police Station, the OIC of the Alawwa Police Division.The police headquarters said.
+
+The suspects are to be produced before the Polgahawela Magistrate's Court. The Criminal Investigations Department's Group Investigation Division conducts further investigations.
 
 ◼️
 
 [Data](articles/64ad7fbd.json)
+
+[Extended Data](ext_articles/64ad7fbd.ext.json)
 
 ---
 
@@ -290,25 +316,31 @@ Vasantha Senadheera, senior geologist of the National Building Research Organiza
 
 ---
 
-### உயிரிழப்புகள் அதிகரிப்பு
+### Cascade
 
 *2024-06-05 09:16:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உயிரிழப்புகள்-அதிகரிப்பு/175-338465) · `ta`
 
-நாட்டை பாதித்துள்ள சீரற்ற வானிலையினால் பாதிக்கப்பட்டவர்களின் எண்ணிக்கை 161,000ஐ தாண்டியுள்ளதாக அனர்த்த முகாமைத்துவ மத்திய நிலையம் தெரிவித்துள்ளது.
+The Disaster Management Center reports over 161,000 victims from severe weather, with 21 casualties. Conditions in rivers like Kelaniya Ganga and Kaluganga are improving, reducing flood risks in areas like Gampaha and Wattala. However, landslide risks persist, according to a senior geologist.
 
-உயிரிழந்தவர்களின் எண்ணிக்கை 21 ஆக அதிகரித்துள்ளதாக அதன் பணிப்பாளர் பிரதீப் கொடிப்பிலி குறிப்பிட்டுள்ளார்.
+🟩
 
-இதேவேளை, களனி கங்கை, களுகங்கை மற்றும் அத்தனகலு ஓயா ஆகிய பகுதிகளில் ஏற்கனவே இருந்த அபாய நிலை படிப்படியாக குறைந்து வருவதாக நீர்ப்பாசனத் திணைக்களத்தின் பொறியியலாளர் சகுரா தில்தாரா தெரிவித்தார்.
+The Disaster Management Center said that the number of victims of the inclement weather affected by the country has exceeded 161,000.
 
-இதன் காரணமாக வெள்ளத்தால் பாதிக்கப்பட்ட கம்பஹா, ஜாஎல, வத்தளை, மினுவாங்கொட, கட்டான ஆகிய பகுதிகளில் இன்று படிப்படியாக நீர்மட்டம் குறையும் என எதிர்பார்க்கப்படுகிறது.
+The number of casualties has risen to 21, its Director Pradeep Kodippili said.
 
-இதேவேளை, களனி கங்கைப் படுகையின் தாழ்வான பகுதிகளான கடுவெல, பியகம, கொலன்னாவை, வத்தளை மற்றும் கொழும்பு ஆகிய பகுதிகளில் நீர் மட்டம் படிப்படியாகக் குறைந்து வருவதாகவும் அவர் மேலும் குறிப்பிட்டார்.
+Meanwhile, Sakura Dildara, engineer of the Irrigation Department, said that the existing risk of the existing conditions in Kelaniya Ganga, Kaluganga and Attanagalu Oya is gradually decreasing.
 
-மண்சரிவு அபாயம் தொடர்வதாக தேசிய கட்டிட ஆராய்ச்சி அமைப்பின் சிரேஷ்ட புவியியலாளர்​ வசந்த சேனாதீர தெரிவித்துள்ளார். R
+Due to this, the flood -affected Gampaha, JL, Wattala, Minuwangoda and Katana are expected to gradually decrease.
+
+Meanwhile, he added that water levels are gradually decreasing in the low -lying areas of the Kelaniya Ganga Bask, Kaduwela, Biyagama, Kolonnawa, Wattala and Colombo.
+
+Vasantha Senadheera, senior geologist of the National Building Research Organization, says that the risk of landslides continues. Remble
 
 ◼️
 
 [Data](articles/d1c536c5.json)
+
+[Extended Data](ext_articles/d1c536c5.ext.json)
 
 ---
 
@@ -2175,29 +2207,5 @@ Meanwhile, the Indian Prime Minister thanked the supporters for his victory.
 [Data](articles/a71c2dae.json)
 
 [Extended Data](ext_articles/a71c2dae.ext.json)
-
----
-
-### Amendments to the Supreme Court for the Electricity Act
-
-*2024-06-04 20:32:11* · [`adalk`](https://www.ada.lk/breaking_news/විදුලි-බල-පනතට-ශ්‍රේෂ්ඨාධිකරණය-දුන්-සංශෝධන-පිළිගන්නවා/11-410010) · `si`
-
-The Ministry of Power and Energy announced that the Supreme Court has made amendments to the Electricity Act. These changes were discussed in court three weeks ago and will continue to be reviewed by committees.
-
-🟩
-
-The Ministry of Power and Energy Kanchana Wijesekara says that all amendments issued by the Supreme Court to the New Tower Act.
-
-The Minister said that the forest agreed to the debate in the Supreme Court about three weeks ago, the Minister said.
-
-The remaining amendments will also be carried out at the Committees.
-
-Accorrecting Amendments as the Mostndments AS Sugreme Court Will Beve Durging The Committe Stage for APPPITTETE STAVEE.
-
-◼️
-
-[Data](articles/a693f98f.json)
-
-[Extended Data](ext_articles/a693f98f.ext.json)
 
 ---

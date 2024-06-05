@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-05 18:24:23**
+As of **2024-06-05 18:35:42**
 
 ## Newspaper Stats
 
-*Scraped **28,621** Articles*
+*Scraped **28,623** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,542
 economynextcom | 1,631
 dailyftlk | 1,687
-adalk | 2,440
+adalk | 2,442
 adaderanalk | 3,251
 tamilmirrorlk | 3,362
 virakesarilk | 4,400
@@ -26,11 +26,27 @@ adaderanasinhalalk | 4,599
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,619 (100.0%) of 28,621 articles have been extended.
+28,621 (100.0%) of 28,623 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-05 (Wednesday)
+
+### කෙහෙළිය නීත්‍යානුකූලව කටයුතු කර ඇති බව කෙහෙළියගේ නීතිඥයා කියයි
+
+*2024-06-05 18:18:20* · [`adalk`](https://www.ada.lk/breaking_news/කෙහෙළිය-නීත්‍යානුකූලව-කටයුතු-කර-ඇති-බව-කෙහෙළියගේ-නීතිඥයා-කියයි/11-410033) · `si`
+
+මිනිස් භාවිතයට නුසුදුසු ‘හියුමන් ඉමියුනොග්ලොබින්’ නමැති ස්නායු රෝගීන් සඳහා ලබාදෙන ප්‍රතිදේහ එන්නත මෙරටට ආනයනය කර ඇත්තේ ඖෂධ නියාමන අධිකාරියේ අනුමැතිය යටත්ව යැයි අභියාචනාධිකරණයට දැනුම් දුන් බාල බෙහෙත් ජාවාරම සම්බන්ධයෙන් සැකපිට රිමාන්ඩ් බාරයට පත් කර සිටින හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙලිය රඹුක්වැල්ල මහතාගේ නීතීඥවරයා නීතියානුකූලව සියළු කටයුතු සිදු කර ඇති තම සේවාදායකයා මෙම සිද්ධිය සම්බන්ධයෙන් රිමාන්ඞ් භාරයට පත් කිරීම නීති විරෝධී යැයිද අද (05) පැවසීය.
+
+බාල බෙහෙත් ජාවාරම සම්බන්ධයෙන් මාලිගකන්ද මහෙස්ත්‍රාත්වරිය විසින් සැකපිට රිමාන්ඩ් බාරයට පත් කර සිටින හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙලිය රඹුක්වැල්ල මහතා ඇප මත මුදා හරින්නැයි ඉල්ලමින් අභියාචනාධිකරණයට ඉදිරිපත් කර ඇති ප්‍රතිශෝධන පෙත්සම සළකා බැලූ අවස්ථාවේදී කෙහෙළිය රඹුක්වැල්ල මහතා වෙනුවෙන් පෙනී සිටි ජනාධිපති නීතිඥ ෆයිස් මුස්තාපා මහතා එසේ දැනුම් දුන්නේය.
+
+අභියාචනාධිකරණයේ සභාපති විනිසුරු නිශ්ශංක බන්දුල කරුණාරත්න සහ ශෂි මහේන්ද්‍රන් මහත්වරුන්ගෙන් සැදුම්ලත් විනිසුරු මඩුල්ල හමුවේ මෙම ප්‍රතිශෝධන පෙත්සම සලකා බැලු අවස්ථාවේදී එලෙස දැනුම් දුන්නේය.
+
+...
+
+[Data](articles/36c35844.json)
+
+---
 
 ### Most law students female, but lady President’s Counsels not to be seen: Eran
 
@@ -51,6 +67,8 @@ The Convention on the Elimination of All Forms of Discrimination against Women w
 ...
 
 [Data](articles/3242b40d.json)
+
+[Extended Data](ext_articles/3242b40d.ext.json)
 
 ---
 
@@ -139,6 +157,8 @@ A bond maturing on 01.10.2032 closed at 11.90/12.00 percent up from 11.80/90 per
 ◼️
 
 [Data](articles/7caa3854.json)
+
+[Extended Data](ext_articles/7caa3854.ext.json)
 
 ---
 
@@ -1836,6 +1856,28 @@ The Wildlife Department has set up a regulatory system to protect the drugs to p
 
 ---
 
+### අනෙක් නායකයන් ධාවන සපත්තු සොයද්දි මම සෙරෙප්පු දමාගෙන ගොස් ආණ්ඩුව භාරගත්තා
+
+*2024-06-05 10:43:18* · [`adalk`](https://www.ada.lk/breaking_news/අනෙක්-නායකයන්-ධාවන-සපත්තු-සොයද්දි-මම-සෙරෙප්පු-දමාගෙන-ගොස්-ආණ්ඩුව-භාරගත්තා/11-410015) · `si`
+
+අනෙක් නායකයන් ධාවන සපත්තු සොයද්දි මම සෙරෙප්පු දමාගෙන ගොස් ආණ්ඩුව භාරගත්තා
+
+දේශපාලනය අනුව නොව හැකියාව සහ විශ්වාසය මත කටයුතු කිරීම නිසා රටේ ආර්ථිකය ගොඩගැනීමට හැකි වුණා – ජනපති.
+
+අනෙක් නායකයන් ධාවන සපත්තු සොයන විට තමන් පාවහන් දමාගෙන ගොස් ආණ්ඩුව භාරගත් බවත් දේශපාලනය අනුව නොව හැකියාව සහ විශ්වාසය මත කටයුතු කිරීම නිසා පසුගිය දෙවසර තුළ මෙරට ආර්ථිකය ඉදිරියට ගෙන ඒමට හැකි වු බවත් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+
+මෙම අවස්ථාවේ ද සියලුදෙනාගේ වගකීම වන්නේ දේශපාලනය පසෙක තබා රටේ ආර්ථිකය ගොඩනැඟීමේ වැඩපිළිවෙළට සහාය වීම බවද ජනාධිපතිවරයා සඳහන් කළේය.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ මුදල් රාජ්‍ය අමාත්‍ය රංජිත් සියඹලාපිටිය මහතාගේ රුවන්වැල්ල නිවසේදී අද (04) දහවල් පැවති ජන හමුවකට එක්වෙමිනි.
+
+රට තුළ සිදු වූ ආර්ථික කඩා වැටීමත් සමඟ, මෙරට දේශපාලනය ද කඩා වැටුණු බව සිහිපත් කළ ජනාධිපතිවරයා ඒ අනුව පළමු වතාවට දේශපාලනය නොමැති ආණ්ඩුවක් නිර්මාණය වු බව ද සඳහන් කළේය.
+
+...
+
+[Data](articles/868f21a9.json)
+
+---
+
 ### Police officers injured as jeep driven by OIC crashes into house
 
 *2024-06-05 10:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Police-officers-injured-as-jeep-driven-by-OIC-crashes-into-house/108-284151) · `en`
@@ -2215,61 +2257,5 @@ Modi has lost ground amid inflation, and his authoritarian nationalist policies 
 [Data](articles/37c7defd.json)
 
 [Extended Data](ext_articles/37c7defd.ext.json)
-
----
-
-### Increased deaths;Will continue in the country
-
-*2024-06-05 09:16:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிகரித்த-உயிரிழப்புக்கள்-நாட்டில்-தொடரும்/175-338465) · `ta`
-
-The disaster management center reports over 161,000 victims from severe weather, with 21 fatalities. Conditions in rivers like Kelaniya Ganga and Kaluganga are improving, reducing flood risks in areas like Gampaha and Wattala. However, landslide risks persist, according to a geologist.
-
-🟩
-
-The Disaster Management Center said that the number of victims of the inclement weather affected by the country has exceeded 161,000.
-
-The number of casualties has risen to 21, its Director Pradeep Kodippili said.
-
-Meanwhile, Sakura Dildara, engineer of the Irrigation Department, said that the existing risk of the existing conditions in Kelaniya Ganga, Kaluganga and Attanagalu Oya is gradually decreasing.
-
-Due to this, the flood -affected Gampaha, JL, Wattala, Minuwangoda and Katana are expected to gradually decrease.
-
-Meanwhile, he added that water levels are gradually decreasing in the low -lying areas of the Kelaniya Ganga Bask, Kaduwela, Biyagama, Kolonnawa, Wattala and Colombo.
-
-Vasantha Senadheera, senior geologist of the National Building Research Organization, says that the risk of landslides continues. Remble
-
-◼️
-
-[Data](articles/80ab8e94.json)
-
-[Extended Data](ext_articles/80ab8e94.ext.json)
-
----
-
-### Cascade
-
-*2024-06-05 09:16:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உயிரிழப்புகள்-அதிகரிப்பு/175-338465) · `ta`
-
-The Disaster Management Center reports over 161,000 victims from severe weather, with 21 casualties. Conditions in rivers like Kelaniya Ganga and Kaluganga are improving, reducing flood risks in areas like Gampaha and Wattala. However, landslide risks persist, according to a senior geologist.
-
-🟩
-
-The Disaster Management Center said that the number of victims of the inclement weather affected by the country has exceeded 161,000.
-
-The number of casualties has risen to 21, its Director Pradeep Kodippili said.
-
-Meanwhile, Sakura Dildara, engineer of the Irrigation Department, said that the existing risk of the existing conditions in Kelaniya Ganga, Kaluganga and Attanagalu Oya is gradually decreasing.
-
-Due to this, the flood -affected Gampaha, JL, Wattala, Minuwangoda and Katana are expected to gradually decrease.
-
-Meanwhile, he added that water levels are gradually decreasing in the low -lying areas of the Kelaniya Ganga Bask, Kaduwela, Biyagama, Kolonnawa, Wattala and Colombo.
-
-Vasantha Senadheera, senior geologist of the National Building Research Organization, says that the risk of landslides continues. Remble
-
-◼️
-
-[Data](articles/d1c536c5.json)
-
-[Extended Data](ext_articles/d1c536c5.ext.json)
 
 ---

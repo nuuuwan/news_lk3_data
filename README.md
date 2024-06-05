@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-05 10:34:07**
+As of **2024-06-05 10:52:42**
 
 ## Newspaper Stats
 
-*Scraped **28,531** Articles*
+*Scraped **28,534** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,36 +19,86 @@ adalk | 2,426
 adaderanalk | 3,239
 tamilmirrorlk | 3,355
 virakesarilk | 4,390
-dailymirrorlk | 4,520
-adaderanasinhalalk | 4,580
+dailymirrorlk | 4,522
+adaderanasinhalalk | 4,581
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,526 (100.0%) of 28,531 articles have been extended.
+28,531 (100.0%) of 28,534 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-05 (Wednesday)
 
-### වෙරළ තීරයේ දිය නාමින් සිටි විදෙස් යුවළක් දියේ ගිලී මරුට
+### Derailment delays train services between Maradana, Fort
+
+*2024-06-05 10:33:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Derailment-delays-train-services-between-Maradana-Fort/108-284150) · `en`
+
+Colombo, June 5 (Daily Mirror) - Train services between Colombo Fort and Maradana were delayed due to a derailment this mornign, the Railways Department said.
+
+They said due to the derailment, the train services will operate with a considerable delay.
+
+◼️
+
+[Data](articles/185c9f4d.json)
+
+---
+
+### Netherlands register nervy win against Nepal; Rain abandons England-Scotland clash
+
+*2024-06-05 10:28:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Netherlands-register-nervy-win-against-Nepal-Rain-abandons-England-Scotland-clash/108-284148) · `en`
+
+(IND) - The Netherlands kicked off their ICC Men's T20 World Cup campaign with a win against Nepal which they would feel should have come a bit earlier but nevertheless, two points while rain relented in Barbados to deny a result between England and Scotland in the second game on the day.
+
+The Netherlands have kicked off their ICC Men's T20 World Cup campaign with a 4-wicket win against Nepal amid a full house at the Grand Prairie Stadium in Dallas, Texas on Tuesday, June 4. It got a bit close than the Dutch would have hoped for, as skipper Scott Edwards admitted, but they would take those two points after a splendid show from the bowlers in the first innings. Edwards opted to bowl first on a wicket that was doing just enough and the likes of Tim Pringle and Logan van Beek feasted on a bit tentative Nepal line-up, bowling them out for 106.
+
+...
+
+[Data](articles/f2a8c7bd.json)
+
+---
+
+### උසස් පෙළ ප්‍රතිඵල නැවත සමීක්ෂණය ගැන දැනුම්දීමක්
+
+*2024-06-05 10:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197411) · `si`
+
+2023 / 2024 අපොස උසස් පෙළ විභාගයේ ප්‍රතිඵල නැවත සමීක්ෂණය සඳහා අයදුම්පත් කැඳවීම අදින් ආරම්භ වන බව විභාග දෙපාර්තමේන්තුව නිවේදනය කරයි.
+
+ඒ අනුව මාර්ගගත ක්‍රමවේදය ඔස්සේ අයදුම්කරුවන්ට ජූනි මස 19 වනදා දක්වා මේ සඳහා අයදුම් කළ හැකිය.
+
+ඒ සඳහා පහළ උපදෙස් පිළිපඳින ලෙස ද විභාග දෙපාර්තමේන්තුව අපේක්ෂකයින්ට දැනුම්දෙයි.
+
+◼️
+
+[Data](articles/d9fded78.json)
+
+---
+
+### Foreign couple drowned in beach
 
 *2024-06-05 10:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197410) · `si`
 
-කිරින්ද වෙරළ තීරයේ දියනාමින් සිටි විදේශීය ජාතික කාන්තාවක් සහ පිරිමි පුද්ගලයෙකු දියේ ගිලී මියගොස් තිබේ.
+A foreign couple, aged 35 and 33, drowned at Kirinda coast while visiting Sri Lanka. The police confirmed their deaths upon arrival at the hospital. Further details suggest the incident happened during their sightseeing trip.
 
-පොලීසිය පැවසුවේ, අදාළ කාන්තාව සහ පුද්ගලයා දියේ ගිලෙමින් සිටියදී බේරාගෙන රෝහල් ගත කරන අවස්ථාවේදී මියගොස් ඇති බවය.
+🟩
 
-මියගොස් ඇත්තේ 35 හැවිරිදි පුද්ගලයෙකු සහ 33 හැවිරිදි ඉන්දීය ජාතිකයින් දෙදෙනෙකු බව පොලීසිය පැවසුවේය.
+A man drowned in Kirinda coast and died of a man drowned.
 
-මූලික විමර්ශනවලදී අනාවරණය වී ඇත්තේ මියගිය දෙදෙනා අඹුසැමියන් වන අතර පවුලේ සාමාජිකයින් සමඟ සංචාරයක් සඳහා මෙරටට පැමිණි දියනාමින් සිටි අවස්ථාවේදී මෙම අනතුර සිදුව ඇති බවය.
+Police said that the woman and the individual had died when they were drowning and hospitalized.
 
-මෘත ශරීර දෙබරවැව රෝහලේ තැම්පත් කර ඇති අතර කිරින්ද පොලීසිය වැඩිදුර විමර්ශන ආරම්භ කර තිබේ.
+The deceased has been identified as a 35 year old man and 33-year-old Indian nationals.
+
+Preliminary investigations have revealed that the accident had occurred when the daughter had been reported to visit Sri Lanka to a tour of the country.
+
+The bodies were deposited in Debarawewa hospital and Kirinda Police are conducting further investigations.
 
 ◼️
 
 [Data](articles/2e226414.json)
+
+[Extended Data](ext_articles/2e226414.ext.json)
 
 ---
 
@@ -74,17 +124,23 @@ The Chief Medical Officer further stated to “ensure that fruits and vegetables
 
 ---
 
-### ரயில் தடம் புரள்வு ; கரையோரப் ரயில் சேவைகள் பாதிப்பு
+### Train derailment;Impact of coastal train services
 
 *2024-06-05 10:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/185346) · `ta`
 
-கோட்டை ரயில் நிலையத்தில் ரயில் தடம் புரண்டதால் கரையோர ரயில் சேவை தடைப்பட்டுள்ளது.
+A train derailment at Fort Railway Station has halted coastal train services, disrupting all office trains according to the Railway Department.
 
-இதன் காரணமாக காலை அலுவலக ரயில்கள் அனைத்தும் தடைபட்டுள்ளதாக ரயில்வே திணைக்களம் தெரிவித்துள்ளது.
+🟩
+
+Coastal train service has been blocked due to the derailment of the train at the Fort Railway Station.
+
+Due to this, all the office trains have been interrupted, the Railway Department said.
 
 ◼️
 
 [Data](articles/1a8badcf.json)
+
+[Extended Data](ext_articles/1a8badcf.ext.json)
 
 ---
 
@@ -428,17 +484,23 @@ The Daily Mirror with its headlines, ‘Industry stakeholders up in arms against
 
 ---
 
-### නිදහස් පක්ෂයේ කොළඹ සංවිධායක සජබයට යයි
+### Independence party organizer to go to rich
 
 *2024-06-05 08:17:30* · [`adalk`](https://www.ada.lk/breaking_news/නිදහස්-පක්ෂයේ-කොළඹ-සංවිධායක-සජබයට-යයි/11-410012) · `si`
 
-ශ්‍රී ලංකා නිදහස් පක්ෂයේ කොළඹ දිස්ත්‍රික් සංවිධායක දෙහිවල ගල්කිස්ස  මහා නගර සභාවේ හිටපු ජ්‍යෙෂ්ඨ නාගරික  මන්ත්‍රීවරයෙකු වූ සමන්ත පෙරේරා මහතා ඉකුත් හතරවන දින (04) සමගි ජන බලවේගයේ සාමාජිකත්වය ලබා ගත්තේය.
+A former senior municipal councilor from the Sri Lanka Freedom Party was appointed as the Colombo District Organizer of the Independence Party during a meeting at the Opposition Leader's Office.
 
-පාර්ලිමේන්තුවේ විපක්ෂ නායක කාර්යාලයේ පැවති රැස්වීමේදී සමගි ජන බලවේගයේ නායක හා විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා අතින් ඔහු මෙසේ පක්ෂයේ සාමාජිකත්වය ලබා ගැන‍ිමත් සමගම ඔ‍  සමගි ජනබලවේගයේ  කොළඹ දිස්ත්‍රික්  සංවිධායක වරයෙකු ලෙස පත්කරනු ලැබීය.
+🟩
+
+The former senior Municipal Councilor, a former senior municipal member of the Sri Lanka Freedom Party (4th of Sri Lanka Fruit) was held on the fourth forest.
+
+At the meeting held at the Opposition Leader's Office, he was appointed as the Colombo District Organizer of the United States.
 
 ◼️
 
 [Data](articles/1668310d.json)
+
+[Extended Data](ext_articles/1668310d.ext.json)
 
 ---
 
@@ -455,6 +517,8 @@ A top source told Daily Mirror that the Sri Lankan authorities receive numerous 
 ...
 
 [Data](articles/e693e751.json)
+
+[Extended Data](ext_articles/e693e751.ext.json)
 
 ---
 
@@ -1087,6 +1151,8 @@ In the meantime, Colombo Dockyard will continue to build on the market recogniti
 ...
 
 [Data](articles/ec932a32.json)
+
+[Extended Data](ext_articles/ec932a32.ext.json)
 
 ---
 
@@ -2121,67 +2187,5 @@ Since its inception, PLC Al-Safa has been committed to innovation within the fra
 [Data](articles/75f127fa.json)
 
 [Extended Data](ext_articles/75f127fa.ext.json)
-
----
-
-### lolc Finance paves the way for real-time deposits through mCash collaboration
-
-*2024-06-04 20:24:00* · [`islandlk`](http://island.lk/lolc-finance-paves-the-way-for-real-time-deposits-through-mcash-collaboration/) · `en`
-
-LOLC Finance PLC, the largest non-banking financial institution in the country, has announced an innovative collaboration with mCash, Sri Lanka’s largest mobile money platform, enabling customers to make savings deposits through the extensive network of mCash retailers. The Memorandum of Understanding (MOU) signed recently marks a significant step towards enhancing the accessibility and convenience of LOLC Finance savings accounts.
-
-This shared initiative empowers customers to conveniently deposit cash into their LOLC Finance savings accounts securely and efficiently. Once customers provide their Savings Account Number, Mobile Number, and the desired Deposit Amount to a mCash retailer, the retailer, using the mCash platform, can facilitate the payment process. The savings account is then credited in real-time. Both the customer and the retailer receive timely notifications confirming the success or failure of the transaction.
-
-...
-
-[Data](articles/6b498855.json)
-
-[Extended Data](ext_articles/6b498855.ext.json)
-
----
-
-### Cargills unveils redesigned ‘Go Green’ bag
-
-*2024-06-04 20:21:00* · [`islandlk`](http://island.lk/cargills-unveils-redesigned-go-green-bag/) · `en`
-
-Cargills announced the launch of its newly redesigned ‘Go Green’ bag, now available at all Cargills Retail stores. Cargills, the market leader in the modern trade/supermarket industry, was the first to introduce reusable bags in the sector with the original Go Green bag in 2007.
-
-The redesigned Cargills Go Green bag reflects the company’s ongoing commitment to phasing out polythene bags, which pose significant environmental hazards. Polythene bags also contribute to the drain on foreign currency from the country as it is imported. This initiative is part of the company’s broader strategy to encourage eco-friendly consumer habits and reduce the reliance on single-use plastic bags.
-
-Stuart Chapman appointed chairman of HNB Assurance and HNB General Insurance
-
-Cargills steps forward to purchase bumper tomato harvest, ensures farmer sustainability
-
-Havelock City Mall built at a cost of USD 130 million opens for business
-
-...
-
-[Data](articles/a47ae893.json)
-
-[Extended Data](ext_articles/a47ae893.ext.json)
-
----
-
-### Small chick that submerged on a mountain
-
-*2024-06-04 20:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197395) · `si`
-
-In the Kegalle area, a child tragically died when a soil layer collapsed during drainage work near their home. The incident occurred early this morning, and the child was rushed to the Kegalle Teaching Hospital but could not be saved.
-
-🟩
-
-A child has been subjected to a mound and died in the Kegalle area.
-
-The child was cut off this morning this morning to build a safe crying behind the child's home.
-
-Residents say that a layer of soil has collapsed on the child at the time of the drain.
-
-Thereafter, the number of those who had come to the child had been taken to the Kegalle Teaching Hospital withdrawn.
-
-◼️
-
-[Data](articles/e366a54f.json)
-
-[Extended Data](ext_articles/e366a54f.ext.json)
 
 ---

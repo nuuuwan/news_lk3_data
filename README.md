@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-05 13:19:04**
+As of **2024-06-05 13:34:19**
 
 ## Newspaper Stats
 
-*Scraped **28,566** Articles*
+*Scraped **28,567** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,38 @@ adalk | 2,432
 adaderanalk | 3,243
 tamilmirrorlk | 3,360
 virakesarilk | 4,391
-dailymirrorlk | 4,528
+dailymirrorlk | 4,529
 adaderanasinhalalk | 4,587
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,566 (100.0%) of 28,566 articles have been extended.
+28,566 (100.0%) of 28,567 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-05 (Wednesday)
+
+### Step-motherly treatment for Sri Lankan team in US: Sajith tells Parliament
+
+*2024-06-05 13:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Step-motherly-treatment-for-Sri-Lankan-team-in-US-Sajith-tells-Parliament/108-284167) · `en`
+
+Parliament, June 5 (Daily Mirror)- The Sri Lankan cricket team touring the USA for the World Cup T20 series has faced step-motherly treatment by the International Cricket Council (ICC), Opposition Leader Sajith Premadasa said today.
+
+He told Parliament that the Sri Lankan team has had to face serious issues with regard to logistics and scheduling of the matches.
+
+He said according to ICC regulations, the team must be located in a hotel within a maximum of 45 minutes distance from the stadium where the match is to be played and that the Sri Lankan team had been located in a hotel with a distance of one and a half hours.
+
+The Opposition Leader said the team has missed practice matches due to these issues and said that only the Sri Lankan team has faced these issues.
+
+"Why this step-motherly treatment only for our team? We cannot expect victory unless they are provide with the necessary facilities. This will affect their outcome," he said.
+
+...
+
+[Data](articles/d55d967d.json)
+
+---
 
 ### Jethavanara comradic conducts 5 persons and arrested
 
@@ -2233,33 +2253,5 @@ As the southwest monsoon has begun, millions of people are trapped due to the fl
 [Data](articles/5f97b276.json)
 
 [Extended Data](ext_articles/5f97b276.ext.json)
-
----
-
-### While the other leaders were looking for Sabbath to run, I went with the sandals and took charge of the regime -the President
-
-*2024-06-05 01:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/185333) · `ta`
-
-Addressing a public meeting, President Ranil Wickremesinghe emphasized taking charge during challenging times, implementing economic policies, and uniting for national development. He highlighted the government's efforts to address the economic crisis, including salary hikes and subsidies, despite criticism over financial management. Stressing the importance of unity and talent-based governance, he called for support in rebuilding the country's economy and moving beyond partisan politics.
-
-🟩
-
-President Ranil Wickremesinghe said that while the other leaders were looking for Sabbath to run, I went with the sandals and took charge of the regime.
-
-The President also stressed that it was the responsibility of everyone to support the program of politics and support the program of building the country's economy.
-
-President Ranil Wickremesinghe made this statement while attending a public meeting held at the Ruwanwella residence of Finance Minister Ranjith Siyambalapitiya on Tuesday afternoon.
-
-Recalling that the country's politics has fallen with the economic downturn in the country, the president said that for the first time, the government was formed.
-
-The president said the country is not still free of economic crisis, but it is now possible to meet the daily needs of the people, so that everyone should unite to build the country beyond politics.
-
-After attending several events in Ruwanwella, the President attended the meeting and the people of the area participated in the meeting.
-
-...
-
-[Data](articles/2a29f315.json)
-
-[Extended Data](ext_articles/2a29f315.ext.json)
 
 ---

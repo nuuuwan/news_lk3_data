@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-05 06:19:32**
+As of **2024-06-05 06:59:31**
 
 ## Newspaper Stats
 
-*Scraped **28,471** Articles*
+*Scraped **28,479** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 278
 newsfirstlk | 363
 islandlk | 1,534
 economynextcom | 1,620
-dailyftlk | 1,678
+dailyftlk | 1,686
 adalk | 2,423
 adaderanalk | 3,234
 tamilmirrorlk | 3,349
@@ -26,11 +26,143 @@ adaderanasinhalalk | 4,570
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,465 (100.0%) of 28,471 articles have been extended.
+28,471 (100.0%) of 28,479 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-05 (Wednesday)
+
+### President says SL faces retrogression if IMF agreements breached
+
+*2024-06-05 05:44:26* · [`dailyftlk`](https://www.ft.lk/news/President-says-SL-faces-retrogression-if-IMF-agreements-breached/56-762632) · `en`
+
+Stresses all citizens should support the proposed Economic Transformation Bill by legalising agreements
+
+Opines Opposition must discuss country’s economy knowledgeably and avoid making baseless statements
+
+Alleges Opposition is in this current predicament due to their involvement in traditional politics and refusal to accept challenges
+
+Says Govt. which fearlessly embraced challenges, is now demonstrating positive results
+
+President Ranil Wickremesinghe yesterday stressed that failing to adhere to the International Monetary Fund (IMF) agreements would set the country back, and he urged support for the Economic Transformation Bill presented to Parliament, emphasising that it is everyone’s responsibility to implement the agreements.
+
+...
+
+[Data](articles/721a70ae.json)
+
+---
+
+### Cabinet wants 58 key development projects fast tracked
+
+*2024-06-05 05:43:09* · [`dailyftlk`](https://www.ft.lk/news/Cabinet-wants-58-key-development-projectsfast-tracked/56-762631) · `en`
+
+Move underscores urgency of completing ongoing projects to free up financial resources for new capital initiatives
+
+Cabinet Co-Spokesman and Minister Bandula Gunawardena says 162 projects will be completed by 2026
+
+Assures ADB-funded Colombo Port access elevated highway project work will be completed by end 2024
+
+The Cabinet of Ministers on Monday approved completion of 58 key development projects, each with over 80% physical progress by the end of 2024, whilst directing projects that are currently suspended due to insufficient funds to be referred to the National Operations Room Committee for further study before any additional investments are made.
+
+...
+
+[Data](articles/42ea7c4b.json)
+
+---
+
+### Govt. lifts import control requirement for select pulses
+
+*2024-06-05 05:41:29* · [`dailyftlk`](https://www.ft.lk/news/Govt-lifts-import-control-requirement-for-select-pulses/56-762630) · `en`
+
+Cabinet Co-Spokesman and Minister Bandula Gunawardena says move aims to eradicate profiteering, illegal importation of grains, protect domestic producers by imposing appropriate tax rates, quarantine methods
+
+The Cabinet of Ministers at its meeting on Monday approved removing the requirement of obtaining an import control licence for the import of selected grains including mung bean, black gram, cowpea, finger millet, soy flour and peanuts.
+
+The move is subject to the submission of a National Phytosanitary Licence issued by the National Plant Quarantine Service and taking necessary measures to protect local producers based on the recommendation of the Agriculture and Plantation Industries Ministry.
+
+On 1 May, selected food grains and commodities classified under 126 Combined Classification Codes were subject to import control permit requirements. Issuance of import control license related to 53 combined classification codes has also been suspended.
+
+...
+
+[Data](articles/9610f5fa.json)
+
+---
+
+### Economic Transformation Bill implementation is critical for economic recovery: Bandula
+
+*2024-06-05 05:41:00* · [`dailyftlk`](https://www.ft.lk/news/Economic-Transformation-Bill-implementation-is-critical-for-economic-recovery-Bandula/56-762629) · `en`
+
+Confirms several Cabinet papers were submitted and received approval related to external debt restructuring
+
+Cabinet Co-Spokesman and Minister Bandula Gunawardena yesterday said Sri Lanka can only overcome the economic challenges if the proposed Economic Transformation Bill is implemented as per the targets outlined in it.
+
+Speaking at the weekly post-Cabinet meeting media briefing, he confirmed that several Cabinet papers were submitted related to the external debt restructuring and received approval to make necessary changes related to the program. “External debt restructuring is the most decisive step involved,” he stressed.
+
+He claimed that the Economic Transformation Bill proposed by President Ranil Wickremesinghe in his capacity as the Finance, Economic Stability and National Policies therefore is of utmost importance. “The survival of the economy depends wholly on the implementation of the targets outlined in the Bill,” he asserted.
+
+...
+
+[Data](articles/8fdfa0ad.json)
+
+---
+
+### ‘Prosecutorial’ vs. ‘victim based’ approaches to accountability
+
+*2024-06-05 05:39:54* · [`dailyftlk`](https://www.ft.lk/opinion/Prosecutorial-vs-victim-based-approaches-to-accountability/14-762628) · `en`
+
+Why is all the attention to address accountability only fixated on the Sri Lankan State and none on the LTTE?
+
+A report in an English daily recently stated that the UN human rights office has “criticised the Sri Lankan Government’s failure to acknowledge and hold accountable the perpetrators of tens of thousands of enforced disappearances… Authors of the report also accuse the Liberation Tigers of Tamil Eelam of “engaging in abductions” which were described as “tantamount” to enforced disappearances.” Continuing, the report adds that the UN High Commissioner for Human Rights had stated: “Accountability must be addressed. We need to see institutional reform for reconciliation to succeed”.
+
+...
+
+[Data](articles/5f3d2f08.json)
+
+---
+
+### Economic Transformation Bill: Finally, an opportunity to do things differently
+
+*2024-06-05 05:32:21* · [`dailyftlk`](https://www.ft.lk/columns/Economic-Transformation-Bill-Finally-an-opportunity-to-do-things-differently/4-762627) · `en`
+
+The challenge for the major political parties is to accept the concept and then work out any areas of contention, and areas of improvements
+
+The concept of a legislated economic plan that incorporates economic parameters (or targets) is an opportunity to end 76 years of insanity. The challenge for the major political parties is to accept the concept and then work out any areas of contention, and areas of improvements. Opposing the concept is insanity and a disservice to future generations.
+
+The Economic Transformation Bill is expected to provide for the National Policy on Economic Transformation and for the establishment of the Economic Commission of Sri Lanka, Investment Zones, Office for International Trade, National Productivity Commission, and Sri Lanka Institute of Economics and International Trade, and for the repeal of the Board of Investment of Sri Lanka Law No.4 of 1978 and other matters connected.
+
+...
+
+[Data](articles/93b9b910.json)
+
+---
+
+### Interventions of a freelance intellectual: A review of Dayan Jayatilleka’s selected writings
+
+*2024-06-05 05:27:35* · [`dailyftlk`](https://www.ft.lk/columns/Interventions-of-a-freelance-intellectual-A-review-of-Dayan-Jayatilleka-s-selected-writings/4-762626) · `en`
+
+British philosopher and historian Perry Anderson defines Western Marxism as the product of defeat. Unlike in the Soviet Union and China, there were no successful Marxist revolutions in the West. The Western Marxist is then a vanquished and disenchanted figure. Never having known the taste and trials of success, the Western Marxist reduces socialism to an abstract ideal and an impotent exercise in scholasticism.
+
+The theologian and Marxist scholar Roland Boer identifies the “freelance intellectual” as the chief proponent of Western Marxism. In short, the freelance intellectual is the academic, journalist, cultural critic, etc. who purveys a form of Marxist analysis but is, for the most part, independent of the discipline and accountability enforced by membership in a Communist Party or trade union. In China, to be a Communist means to be a Community Party member. In the West, one is free to adopt any label one pleases.
+
+...
+
+[Data](articles/77183a3c.json)
+
+---
+
+### Are we ready to accept our migrants again?
+
+*2024-06-05 05:22:46* · [`dailyftlk`](https://www.ft.lk/columns/Are-we-ready-to-accept-our-migrants-again/4-762625) · `en`
+
+It is necessary to identify the silver lining of the current migration wave and harness the maximum benefit from
+
+“Migration” is a prevalent topic in Sri Lanka today, affecting all social and age groups. It brings both positive and negative consequences for individuals who could be felt both short-term and long-term. While migration has recently come under the spotlight in Sri Lankan society, it is an age-old phenomenon with a vast global history.
+
+...
+
+[Data](articles/a2447c08.json)
+
+---
 
 ### Star Garments Group expands with acquisition of Bernard Boteju Kolonna plant
 
@@ -346,35 +478,53 @@ The young man was wearing a 15 -pound jewelry and had a cost of Rs.. Police also
 
 ---
 
-### ஜனநாயகத்தில் தேர்தல்களுக்கு ஏற்புடைய மாற்று எதுவுமில்லை
+### There is no alternative to elections in democracy
 
 *2024-06-05 02:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/185335) · `ta`
 
-ஜனாதிபதிக்கும் பாராளுமன்றத்துக்கும் அரசியலமைப்பு ரீதியான ஆணையின் பிரகாரம  உள்ள ஐந்து வருட பதவிக்காலத்துக்கும் அப்பால் பதவியில் இருப்பதற்கான சகல தெரிவுகளையும் அரசாங்கத் தலைவர்கள் பரிசீலிக்கின்றார்கள் போன்று தெரிகிறது.  ஜனாதிபதி தேர்தலையும் பாராளுமன்ற தேர்தலையும் இரு வருடங்களுக்கு ஒத்திவைப்பது குறித்த யோசனை ஒன்றை ஐக்கிய தேசிய கட்சியின் பொதுச் செயலாளர் பாலித ரங்கே பண்டார கடந்த வாரம் அறிவித்தார். தேர்தல்கள் ஒத்திவைக்கப்படக்கூடிய சாத்தியங்கள் குறித்து கணிசமான ஊகங்கள் தெரிவிக்கப்பட்டே வந்திருக்கிறது.  உண்மையில் இது ஒரு வருடத்துக்கும் அதிகமான காலமாக அரசியல் கலந்துரையாடல்களின் ஒரு அங்கமாக இருந்துவருகிறது.
+Elections are crucial in democracy, allowing citizens to choose their leaders and hold them accountable. However, the proposal to postpone Sri Lanka's presidential and parliamentary elections for two years faces significant backlash. Critics argue that extending the government's term undermines democracy and could suppress opposition. Economic recovery and international support are cited as reasons, but opponents warn that delaying elections could harm democratic gains and public trust.
 
-பொருளாதார மீட்சியின் பயன்கள் மறுதலையாவதை தடுத்து அவற்றை  வலுப்படுத்தவேண்டியது அவசியம் என்பதே பொருளாதார மீட்சி உறுதிப்படுத்தப்படும் வரை அரசியலை
+🟩
 
-முடக்கவேண்டும் என்ற வாதத்துக்கு கற்பிக்கப்படும் நியாயமாகும். பொருளாதார மீட்சியை உறுதிப்படுத்துவதற்கு தற்போதைய அரசாங்கமே உகந்தது என்பதும் அதன் இரு வருடகால செயற்பாடுகள் அதற்கு சான்று பகர்கின்றன என்பதுமே இந்த வாதத்தின் அடிப்படையாக இருக்கும் எண்ணமாகும்.
+It seems that government leaders are considering all the choices for being in office beyond the five -year term in accordance with the President and Parliament.United National Party General Secretary Palitha Range Bandara announced last week's idea of ​​postponing the presidential and parliamentary election for two years.. Significant assumptions have been made about the possibilities of postponing elections.In fact, it has been a part of political discussions for more than a year.
+
+The politics of politics until the economic recovery is confirmed that it is necessary to prevent and strengthen the benefits of the economic recovery
+
+Is the reasoning for the argument to be disabled. The basis of this argument is that the current government is suitable for ensuring the economic recovery and that its two -year operations are testifying.
+
+The International Monetary Fund and the International Community accepted that Sri Lanka's economic status is improvement
 
 ...
 
 [Data](articles/4254667b.json)
 
+[Extended Data](ext_articles/4254667b.ext.json)
+
 ---
 
-### ’இந்திய ஆசிரியர்கள் நஞ்சை விதைக்கின்றனர்’
+### Indian teachers sow poison
 
 *2024-06-05 02:04:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்திய-ஆசிரியர்கள்-நஞ்சை-விதைக்கின்றனர்/175-338459) · `ta`
 
-இந்தியாவில் இருந்து வந்து இரண்டாயிரம் ஆசிரியர்கள் தோட்டப்புற பாடசாலைகளில் தன்னார்வ அடிப்படையில் கற்பித்தல் செயற்பாடுகளில் ஈடுபடுவதாகவும், இவர்கள் மாணவர்களிடையே கல்விக்கு பதிலாக நச்சுக் கருத்துக்களை பரப்பும் செயற்பாடுகளில் ஈடுபடுவதாகவும் புலனாய்வு தகவல்கள் வெளியாகியுள்ளதாக எதிரணி சுயாதீன பாராளுமன்ற உறுப்பினரான விமல் வீரவன்ச தெரிவித்தார்.
+Independent MP Wimal Weerawansa criticized Indian volunteer teachers in Sri Lanka's plantation schools, accusing them of spreading "toxic ideas" rather than education. He questioned whether the Ministry of Education had acted on intelligence reports about these issues and urged immediate action to address potential harm to students.
 
-பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (04) கல்வி அமைச்சரிடம் கேள்வியெழுப்பி உரையாற்றும் போதே அவர் இவ்வாறு கூறியுள்ளார்.
+🟩
 
-தோட்டப்புற பாடசாலைகளில் ஆசிரியர் பற்றாக்குறை நிலவுகின்றது. இதன்காரணமாக கடந்த காலத்தில் இந்தியாவில் இருந்து இரண்டாயிரத்திற்கும் அதிகமானவர்கள் தோட்டப்புற பாடசாலைகளில் தன்னார்வ அடிப்படையில் கற்பித்தல் நடவடிக்கைகளில் ஈடுபடுகின்றதாக அண்மையில் ஊடகங்கள் மூலம் தகவலொன்று வெளியாகியிருந்தது. எமது நாட்டு புலானாய்வு பிரிவும் அறிக்கையிட்டுள்ளது.
+Opposition Independent MP Wimal Weerawansa said that two thousand teachers from India are engaged in voluntary teaching activities in plantation schools and are engaged in toxic ideas instead of education among students.
+
+He was speaking to the Minister of Education on Tuesday (04) in Parliament.
+
+There is a shortage of teachers in plantation schools. This is why more than two thousand people from India have been engaged in voluntary teaching activities in plantation schools in the past.. Our country's intelligence unit has also reported.
+
+The Ministry of Education may have done this as a solution to the shortage of teachers in schools. But according to intelligence reports, Indian teachers have pointed out that the plantation students are poisoning in some way.. It has been expressed by the media.
+
+He said that when we get the other outsiders' assistance on a voluntary basis, we are not in affection for the teacher.
 
 ...
 
 [Data](articles/e1ef9500.json)
+
+[Extended Data](ext_articles/e1ef9500.ext.json)
 
 ---
 
@@ -400,19 +550,25 @@ We have been talking about the incident with the school principal and a victim o
 
 ---
 
-### ’பாதித்த குடும்பங்களுக்கு ஒதுக்கும் தொகை போதாது’
+### The amount of money is not enough for families affected
 
 *2024-06-05 01:59:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாதித்த-குடும்பங்களுக்கு-ஒதுக்கும்-தொகை-போதாது/175-338458) · `ta`
 
-இயற்கை அனர்த்தங்களால் பாதிக்கப்படும் குடும்பங்களுக்கு ஒதுக்கப்படும் தொகை, தற்போதைய வாழ்க்கைச் செலவுக்கு ஏற்ப, போதாது என சுட்டிக்காட்டி எதிர்க்கட்சித்தலைவர் சஜித் பிரேமதாஸ, இந்த நிவாரண சுற்றறிக்கையை மாற்றியமைக்க வேண்டுமெனக் கேட்டக்கொண்டார்.
+Opposition Leader Sajith Premadasa criticized the government's relief fund allocation for families hit by natural disasters, stating it's insufficient for today's living costs. He urged for immediate changes to the relief circular, especially as the southwest monsoon causes widespread flooding. Premadasa emphasized the need for quick aid distribution and a review of relief amounts to match the rising cost of goods. He also suggested leveraging AI for better disaster management, including predictive models for future floods.
 
-பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (04) விசேட கூற்றொன்றை விடுத்து உரையாற்றும் போதே மேற்கண்டவாறு தெரிவித்தார்.
+🟩
 
-தென்மேற்கு பருவமழை தொடங்கியுள்ள நிலையில், எதிர்பாராத காலநிலையினால் ஏற்பட்ட வெள்ளப்பெருக்கு காரணமாக இலட்சக்கணக்கான மக்கள் சிக்கிக்கொண்டுள்ளனர்.  இந்த அனர்த்தத்தினால் பாதிக்கப்பட்ட மக்களுக்கு வழங்கப்படும் நிவாரணம் குறுகிய காலத்தில் விரைவாக வழங்கப்பட வேண்டும். பலர் உணவு, உடைகளை கூட இழந்துள்ளனர். எனவே? முறையான வேலைத்திட்டத்தை உடனடியாக முன்னெடுக்க வேண்டும். மாவட்ட செயலகங்களுக்கு மேலதிகமாக 10 இலட்சம் ரூபாய் ஒதுக்கப்பட்டாலும் அது போதுமானதாக இல்லை என்றார்.
+Opposition Leader Sajith Premadasa, pointing out that the amount allocated to the families affected by natural disasters is not enough for the current cost of living, asked to change this relief circular.
+
+He said this while addressing a special statement in Parliament on Tuesday (04).
+
+As the southwest monsoon has begun, millions of people are trapped due to the floods caused by an unexpected weather.The relief provided to people affected by this disaster must be given quickly in the short term. Many people have lost food and even clothes. So?To immediately carry out a formal program. He said it was not enough to allocate Rs 10 lakh in addition to the district secretariats.
 
 ...
 
 [Data](articles/5f97b276.json)
+
+[Extended Data](ext_articles/5f97b276.ext.json)
 
 ---
 
@@ -444,19 +600,25 @@ After attending several events in Ruwanwella, the President attended the meeting
 
 ---
 
-### ’இந்திய ஆசிரியர்களின் கதை முற்றிலும் பொய்’
+### The story of Indian authors is completely false
 
 *2024-06-05 01:50:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்திய-ஆசிரியர்களின்-கதை-முற்றிலும்-பொய்/175-338457) · `ta`
 
-இந்தியாவில் இருந்து வந்த இரண்டாயிரம் ஆசிரியர்கள் மலையக பாடசாலைகளில் சேவையில் ஈடுபடுவதாக வெளியாகியுள்ள தகவல்கள் முற்றிலும் பொய்யானது என்று தமிழ் முற்போக்குக் கூட்டணி பாராளுமன்ற உறுப்பினர் எம்.வேலுக்குமார் தெரிவித்தார்.
+Tamil Progressive Alliance MP M Velukumar debunked claims about 2,000 Indian teachers working in hill schools, stating it's untrue and there's no permission for such.
 
-விமல் வீரவன்சவினால் தெரிவிக்கப்பட்ட கருத்து தொடர்பில் கருத்துரைத்த போதே வேலுகுமார் எம்.பி மேற்கண்டவாறு தெரிவித்தார்.
+🟩
 
-குறித்த கருத்து முற்றிலும் பொய்யாகும். அவ்வாறு இந்தியாவில் இருந்து ஆசிரியர்களுக்கு எந்தவித அனுமதியும் வழங்கப்படவும் இல்லை, இரண்டாயிரம் இந்திய ஆசிரியர்கள் பாடசாலைகளில் கற்பித்தல் நடவடிக்கைகளில் ஈடுபடுத்தப்படவும் இல்லை.அது முற்றிலும் பொய்யான தகவலே என்று பொறுப்புடன் கூறுகின்றேன் என்றார்.
+Tamil Progressive Alliance parliamentarian M Velukumar said that two thousand teachers from India are working in the hill schools.
+
+Velukumar MP said this while commenting on the comments made by Wimal Weerawansa.
+
+The concept is completely false. There are no permission to teachers from India, and two thousand Indian teachers are not engaged in teaching activities in schools.
 
 ◼️
 
 [Data](articles/a0fb7181.json)
+
+[Extended Data](ext_articles/a0fb7181.ext.json)
 
 ---
 
@@ -1656,6 +1818,8 @@ Early results from the vote count on June 4th appeared to put that target out of
 
 [Data](articles/28c5a37c.json)
 
+[Extended Data](ext_articles/28c5a37c.ext.json)
+
 ---
 
 ### Indian Prime Minister Narendra Modi wins third term in Elections; BJP led NDA gets 291 seats while the Congress -led INDIA Bloc wins 234 seats
@@ -2053,187 +2217,5 @@ Residents and vehicle drivers in these areas are requested to pay high attention
 [Data](articles/74c857cb.json)
 
 [Extended Data](ext_articles/74c857cb.ext.json)
-
----
-
-### The dog saved four lives that were subjected to the mound
-
-*2024-06-04 17:01:58* · [`adalk`](https://www.ada.lk/breaking_news/පස්-කන්දට-යට-වෙන්නට-ගිය-ජීවිත-හතරක්-බේරාගත්-සුනඛයා/11-410004) · `si`
-
-A dog alerted a family to danger just before a landslide struck their home, saving four lives, including a man and his children from the Agalawatta area. The family, including a paralyzed grandfather, managed to escape despite the chaos. They are now seeking temporary shelter and assistance to rebuild their lost home, highlighting the need for support from local authorities and compassionate individuals.
-
-🟩
-
-A mound of a mound behind a house in the groom in the groom in the groom, 15 minutes before the landslide, the house was produced in the house, 15 minutes before the landslide, and four lives.
-
-The life of the fell of the lives of the Agalawatta necklace is the man and his children named Bellana Vidanadanala.
-
-After learning that this child is staying in their cousin, we went to the neck of aurana. Mr. Shantha Kumara (33) of Bellana Vidanadanala, son of Somasiri, said:
-
-I and my wife Harvesthi Schushkar with Hethi Schushuka, Shith Somasiri and I LIVE in this house, including BV Somasiri and I Living Asha,
-
-...
-
-[Data](articles/06cd6145.json)
-
-[Extended Data](ext_articles/06cd6145.ext.json)
-
----
-
-### Attanagalu Oya extends red warning
-
-*2024-06-04 16:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197387) · `si`
-
-Flood warnings for Attanagalu Oya have been extended for 48 hours due to worsening conditions. The Irrigation Department urges residents and drivers in Gampaha, Kanala, Katana, Wattala, and Minuwangoda to be cautious.
-
-🟩
-
-The Red Alarm announcement issued for floods in Attanagalu Oya has extended for the next 48 hours.
-
-The Irrigation Department issued a statement at 4 pm this afternoon.
-
-The statement further states that the Attanagalu Oya Basin is further developed in the floods.
-
-Accordingly, the Department of Irrigation requests the Department of Irrigation to take place in this regard to the Gampaha, Gampaha, Kanala, Katana, Wattala and Minuwangoda.
-
-The drivers who drive traffic drivers are also asking for this regard.
-
-◼️
-
-[Data](articles/dac544f5.json)
-
-[Extended Data](ext_articles/dac544f5.ext.json)
-
----
-
-### Donald Trump on the field at Tik Tok
-
-*2024-06-04 16:47:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/TIK-TOK-இல்-களமிறங்கிய-டொனால்ட்-ட்ரம்ப்/50-338430) · `ta`
-
-Donald Trump, a former U.S. president and current presidential candidate, recently opened a TikTok account, despite previously attempting to ban the platform due to national security concerns. His move comes amid controversy over a court ruling related to payments to adult film star Stormy Daniels. Critics suggest his TikTok engagement is part of his election strategy, leveraging his large following of over 4 million users.
-
-🟩
-
-Former President Donald Trump, the president of the United States, is also the presidential candidate in this year's election. He is engaged in a vigorous election campaign across the country.
-
-Meanwhile, the court ruled that she was guilty of paying for Porn actress Stormy Daniels last week.. Trump opened a new account at Chinese processor Tik Tok. He has over 4 million people in Tik tok. When he was president, he made various attempts to ban the TIK tok processor claiming that it was a threat to national security.
-
-At this juncture, he is currently joining Tik Tok. Political critics say that he joined Tik Tok for the election campaign.
-
-◼️
-
-[Data](articles/d2e9eb7d.json)
-
-[Extended Data](ext_articles/d2e9eb7d.ext.json)
-
----
-
-### Liquor shops in several DS devisions closed for 7 days
-
-*2024-06-04 16:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/99659/liquor-shops-in-several-ds-devisions-closed-for-7-days) · `en`
-
-The Department of Excise says that liquor shops in several divisional secretariat devisions will be closed from June 18 to 24 in view of the National Poson Festival.
-
-Accordingly, all the liquor shops in Nuwaragam Palatha Central, Nuwaragam Palatha East and Mihintale Divisional Secretariat divisions will be closed during the aforementioned period.
-
-◼️
-
-[Data](articles/1a2f7646.json)
-
-[Extended Data](ext_articles/1a2f7646.ext.json)
-
----
-
-### Public assistance sought to trace missing mother, daughter
-
-*2024-06-04 16:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Public-assistance-sought-to-trace-missing-mother-daughter/108-284078) · `en`
-
-June 04, Daily Mirror - Police seek the assistance of the public to locate a mother and her daughter who had gone missing since May 29.
-
-A person claimed to be the father and the husband of the missing persons had lodged a complaint with the Katunayake Police and investigations are underway.
-
-The missing woman aged 26 is Yashoda Hansani Kahathuduwa Arachchi while the daughter aged 04 is Chathurya Toshni Liyanage Fernando.
-
-Information regarding the duo can be conveyed to Katunayake OIC - 071-8591639 and Katunayake Police station -  011-2252222
-
-◼️
-
-[Data](articles/7696dc34.json)
-
-[Extended Data](ext_articles/7696dc34.ext.json)
-
----
-
-### 26 people die due to inclement weather;130,021 victims
-
-*2024-06-04 16:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/185311) · `ta`
-
-Inclement weather caused 26 deaths and affected 130,021 individuals across 23 districts. The government has allocated funds for relief and renovations, housing 9,248 people in temporary shelters. Disaster management efforts, including a special hotline, are underway, with development projects planned for the future.
-
-🟩
-
-26 people died due to inclement weather and 1,30021 affected. Defense Minister of State for Defense Bandara Tennakoon said that the President has allocated funds to provide relief to the victims and to carry out renovation work.
-
-He was speaking at a special statement during a session held in Parliament on Tuesday (04).
-
-130,021 families from 33 thousand 622 families in 23 districts have been affected by inclement weather in the country in the past.. At least 26 people have been killed and 41 injured due to sudden accidents.
-
-9248 people from 2,369 families have been housed in 116 temporary security central camps in view of landslide and flood hazards. They have been provided with the necessary facilities through the Divisional Secretariat Divisions.
-
-...
-
-[Data](articles/164f70ad.json)
-
-[Extended Data](ext_articles/164f70ad.ext.json)
-
----
-
-### Request of the police
-
-*2024-06-04 16:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197386) · `si`
-
-A woman and her young daughter have vanished, and her husband reported them missing on May 29th. The police released their photos, promising updates through numbers 071-859 1639 and 011-225 2222.
-
-🟩
-
-A disappeared woman and her daughter have issued a statement to the police.
-
-The police have issued a photo with the announcement, the police say that the woman and daughter will be notified.
-
-Police say that the father of 26-year-old woman named Yasedara Hansani Kahatungaarachchi and her small daughter of age have been disappeared.
-
-The police further stated that her husband had lodged a complaint with her husband to disappear from May 29.
-
-Accordingly, information about the woman and daughter will be revealed 071-859 1639 to Numbers 011-225 2222 (Katunayake Police Station).
-
-◼️
-
-[Data](articles/5a233192.json)
-
-[Extended Data](ext_articles/5a233192.ext.json)
-
----
-
-### Ranil's main announcement after the Indian election
-
-*2024-06-04 16:19:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்திய-தேர்தல்-முடிவுக்குப்-பின்-ரணில்-முக்கிய-அறிவிப்பு/175-338428) · `ta`
-
-After the Indian elections concluded successfully, President Ranil Wickremesinghe announced his candidacy for the upcoming presidential election, expected to be revealed soon.
-
-🟩
-
-When the voting of the Indian election is completed, who is the end of the election?Have been successful. Indian sources say that the details of which coalition is going to rule will be released in a few hours.
-
-President Ranil Wickremesinghe is due to make a major announcement only after the Indian election results were officially released.
-
-It is learned that President Ranil Wickremesinghe will make a major announcement in the next presidential election.
-
-He has been known from the close circles that the announcement is mostly to be made today (04). It is also known that he will be the common candidate.
-
-◼️
-
-[Data](articles/d63631f4.json)
-
-[Extended Data](ext_articles/d63631f4.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-05 19:34:21**
+As of **2024-06-05 19:52:59**
 
 ## Newspaper Stats
 
-*Scraped **28,637** Articles*
+*Scraped **28,639** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,33 +16,67 @@ islandlk | 1,542
 economynextcom | 1,631
 dailyftlk | 1,687
 adalk | 2,444
-adaderanalk | 3,252
+adaderanalk | 3,253
 tamilmirrorlk | 3,363
 virakesarilk | 4,406
 dailymirrorlk | 4,538
-adaderanasinhalalk | 4,601
+adaderanasinhalalk | 4,602
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,635 (100.0%) of 28,637 articles have been extended.
+28,637 (100.0%) of 28,639 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-05 (Wednesday)
 
-### நாளை பாடசாலைகள் திறப்பது குறித்த அறிவிப்பு
+### පළමු වාසිය ඉන්දීය කණ්ඩායමට
+
+*2024-06-05 19:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197433) · `si`
+
+විස්සයි විස්ස ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ අයර්ලන්තයට එරෙහිව පැවැත්වෙන තරගයේ කාසියේ වාසිය දිනූ ඉන්දීය කණ්ඩායම ප්‍රථමයෙන් පන්දු රැකීමට තීරණය කළේය.
+
+◼️
+
+[Data](articles/75a84c3d.json)
+
+---
+
+### Sajith hails Modi’s re-election, backs India’s permanent seat at UNSC
+
+*2024-06-05 19:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/99687/sajith-hails-modis-re-election-backs-indias-permanent-seat-at-unsc) · `en`
+
+Congratulating Prime Minister Narendra Modi for the BJP-led NDA’s “historic” achievement of securing three consecutive victories in the Lok Sabha elections, Sri Lanka’s Opposition Leader, Sajith Premadasa on Wednesday reaffirmed support for India’s permanent membership in the United Nations Security Council (UNSC).
+
+Making a special speech in the Sri Lankan Parliament on Wednesday, Premadasa emphasised that India, with its status as the world’s most populous country and a significant global economic and military power, deserves this recognition.
+
+“This is of utmost importance as India has the largest population in the whole world. Also, when you examine the world’s economic, security power configuration, I feel that this representation of India in the UNSC must be achieved and must be promoted,” said Premadasa.
+
+...
+
+[Data](articles/d1f4a094.json)
+
+---
+
+### Notice of opening schools tomorrow
 
 *2024-06-05 19:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/185404) · `ta`
 
-காலி மற்றும் மாத்தறை மாவட்டங்களில் உள்ள அனைத்து பாடசாலைகளும் நாளை 06 ஆம் திகதி வியாழக்கிழமை முதல் திறக்கப்படும் என மாகாண கல்வி செயலாளர் தெரிவித்துள்ளார்.
+Schools in Galle and Matara districts will reopen on Thursday, 06th, according to the Provincial Education Secretary. The Director of Education will determine which schools serve as flood recovery centers and displacement sites.
 
-அத்துடன், வெள்ளத்தினால் பாதிக்கப்பட்ட பாடசாலைகள் மற்றும் இடப்பெயர்வு நிலையங்களாகப் பயன்படுத்தப்படும் பாடசாலைகள் தொடர்பில் தீர்மானிக்கும் அதிகாரம் பிராந்தியக் கல்விப் பணிப்பாளர்களுக்கு வழங்கப்பட்டுள்ளதாக மாகாண கல்விச் செயலாளர் மேலும் தெரிவித்திருந்தமை இங்கு குறிப்பிடத்தக்கது.
+🟩
+
+All schools in the Galle and Matara districts will be opened from Thursday, the 06th, the Provincial Education Secretary said.
+
+The Provincial Education Secretary further stated that the Director of Education has been given the authority to decide on schools used as flood -affected schools and displacement centers.
 
 ◼️
 
 [Data](articles/8d62ca60.json)
+
+[Extended Data](ext_articles/8d62ca60.ext.json)
 
 ---
 
@@ -1448,23 +1482,25 @@ Since its inception, PLC Al-Safa has been committed to innovation within the fra
 
 ---
 
-### තහනම් ධීවර පන්න ක්‍රම:  නීති හදන්නන් හා  නීති රකින්නන් නිහඬ ද ?
+### Donating Prohibited Fisheries: Laws and Legislatives Silent
 
 *2024-06-05 13:17:49* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cjrry1dyldlo) · `si`
 
-තහනම් ධීවර පන්න ක්‍රම:  නීති හදන්නන් හා  නීති රකින්නන් නිහඬ ද ?
+Donating Prohibited Fisheries: Laws and Legislatives Silent
 
-අද (ජුනි  5 වැනිදා )  ලෝක පරිසර දිනය මෙන්ම නීති විරෝධී, වාර්තා නොකළ සහ නියාමනය නොකළ මසුන් ඇල්ලීමට එරෙහි සටන සඳහා වන ජාත්‍යන්තර දිනයයි.
+Today is the international day for the fight against the fight against world environment today (June 5).
 
-"මාළු හොඳටම අඩුයි , ඒ කාලේ හිටපු ගිරවා , තඹුවා , කොස්සා , බොරළුවා කියන මාළු ආසාවට දකින්නත් නැහැ.මේ හැම දේම වෙන්නේ  තහනම් පන්න වලට ඉඩ දීලා ආණ්ඩුව හා  නිලධාරීන්  බලා ගෙන ඉන්න  නිසයි. ඒ වගේම තමයි සමහර තහනම් පන්නවලට  ආණ්ඩුව  අවසර දීලා  තියනවා කොන්දේසි දාලා. මේක හරියට හොඳට කසිප්පු  පෙරන්න කියලා  බලපත්‍රයක්  දෙනවා  වගේ වැඩක්.  ගොඩක් දෙනෙක් දන්නවා  අද කසිප්පු (නීති විරෝධී මත්පැන් ) පෙරන්නේ  කොහොමද  කියලා".
+"The fish is less good, the fish, the parrot, and the fishermen who are in the fishermen.. And the government has allowed the government to allow some of the prohibition. This is a good thing as it gives you a license to film Kasippu well. A lot of people know how to filter Kasippu (illegal alcohol) today. "
 
-බත්තලංගුණ්ඩුව වේලක්කන්නි මතා  ධීවර සමිතියේ සභාපතිවරයා වන්නේ ඇන්ටනි ෆොන්සේකා ය.
+Antony Fonseka is the Chairman of the Liteatnawanni Whakaksinni Wildlife Wildlife.
 
-ධීවර පරම්පරාවකින් එන  ඇන්ටනීට  මුහුද පිළිබද හොඳ අවබෝධයක්  තිබේ. තමන්ගේ  අත්දැකීමෙන්  මුහුදු යන  ඇන්ටනී මසුන් ඇල්ලීමටද දක්ෂයෙකි. මීට වසර දහයකට පෙර ඇන්ටනිට  වාරකන් හා  වලාල  යැයි  වෙනසක්  තිබුණේ නැත.
+Antennien from a fishing generation has a good understanding of the sea. It is also a talent to the sea of ​​antony fish by their experience. There was no difference in Antony's creators and the valley ten years ago.
 
 ...
 
 [Data](articles/133d8ce9.json)
+
+[Extended Data](ext_articles/133d8ce9.ext.json)
 
 ---
 
@@ -2249,47 +2285,5 @@ They said due to the derailment, the train services will operate with a consider
 [Data](articles/185c9f4d.json)
 
 [Extended Data](ext_articles/185c9f4d.ext.json)
-
----
-
-### The country is going back to the agreement with the Monetary Fund
-
-*2024-06-05 10:32:29* · [`adalk`](https://www.ada.lk/breaking_news/මූල්‍ය-අරමුදල-සමඟ-වන-එකඟතාවන්-කඩළොත්-රට-ආපස්සට-යනවා/11-410014) · `si`
-
-The government, led by President Ranil Wickremesinghe, is returning to its agreement with the International Monetary Fund (IMF) and has introduced an economic stabilization bill. The opposition, criticized for avoiding economic challenges, is urged to engage constructively. The president highlights the government's efforts to revive the economy, including distributing rice to low-income families and implementing agricultural programs. The IMF supports Sri Lanka's economic recovery plan, aiming for economic growth and unemployment reduction. The government stresses the importance of meeting these targets to maintain IMF backing.
-
-🟩
-
-It is the responsibility of the opposition without making statements of the economy of the country, without making statements to the economic translation bill, which is being taken legalization.
-
-The opposition is in traditional politics without taking the challenges.
-
-President Ranil Wickremesinghe stressed that if the in agreements with the International Monetary Fund would return to the country, so the economic translation bill, which is being taken, legalizing, will be submitted to Parliament.
-
-The Opposition is a number of economic goals that the economy of the country is a result of the economic goals of the country, as the country's economy is a destruction of the country as the country's economy is a destruction of the country.Mentioned.
-
-The President said that the government had accepted the challenge of not having the responsibilities of the country, that the government has assumed the challenge and asks everyone that the government has shown the effective results today.
-
-...
-
-[Data](articles/d9d2adb8.json)
-
-[Extended Data](ext_articles/d9d2adb8.ext.json)
-
----
-
-### Netherlands register nervy win against Nepal; Rain abandons England-Scotland clash
-
-*2024-06-05 10:28:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Netherlands-register-nervy-win-against-Nepal-Rain-abandons-England-Scotland-clash/108-284148) · `en`
-
-(IND) - The Netherlands kicked off their ICC Men's T20 World Cup campaign with a win against Nepal which they would feel should have come a bit earlier but nevertheless, two points while rain relented in Barbados to deny a result between England and Scotland in the second game on the day.
-
-The Netherlands have kicked off their ICC Men's T20 World Cup campaign with a 4-wicket win against Nepal amid a full house at the Grand Prairie Stadium in Dallas, Texas on Tuesday, June 4. It got a bit close than the Dutch would have hoped for, as skipper Scott Edwards admitted, but they would take those two points after a splendid show from the bowlers in the first innings. Edwards opted to bowl first on a wicket that was doing just enough and the likes of Tim Pringle and Logan van Beek feasted on a bit tentative Nepal line-up, bowling them out for 106.
-
-...
-
-[Data](articles/f2a8c7bd.json)
-
-[Extended Data](ext_articles/f2a8c7bd.ext.json)
 
 ---

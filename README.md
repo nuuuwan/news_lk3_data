@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-05 19:52:59**
+As of **2024-06-05 20:05:04**
 
 ## Newspaper Stats
 
-*Scraped **28,639** Articles*
+*Scraped **28,641** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,28 +19,74 @@ adalk | 2,444
 adaderanalk | 3,253
 tamilmirrorlk | 3,363
 virakesarilk | 4,406
-dailymirrorlk | 4,538
+dailymirrorlk | 4,540
 adaderanasinhalalk | 4,602
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,637 (100.0%) of 28,639 articles have been extended.
+28,639 (100.0%) of 28,641 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-05 (Wednesday)
 
-### පළමු වාසිය ඉන්දීය කණ්ඩායමට
+### TNA will talk to all candidates before making final decision
+
+*2024-06-05 19:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/TNA-will-talk-to-all-candidates-before-making-final-decision/108-284183) · `en`
+
+Colombo, June 5 (Daily Mirror) - The Tamil National Alliance (TNA) will decide on whom to support at the next Presidential election only after discussions with all candidates, MP M.A. Sumanthiran said.
+
+"We will have to look at what the candidates come up with, and then we will hold discussions with them. Our final decision will be made only after this exercise," Sumanthiran told the media.
+
+Asked about the claim by the Samagi Jana Balawegaya (SJB) that the TNA will support its leader Sajith Premadasa at the Presidential election, Sumanthiran said the SJB should be dreaming if it thinks his party would support Premadasa.
+
+Also, he welcomed the land distribution programme carried out by the government. "The government's land distribution programme is good," he said.
+
+Further, he said the TNA is against fielding a Tamil candidate at the Presidential election.
+
+◼️
+
+[Data](articles/dfee1f66.json)
+
+---
+
+### Island-wide canteens, restaurants to lower food prices tonight
+
+*2024-06-05 19:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Island-wide-canteens-restaurants-to-lower-food-prices-tonight/108-284182) · `en`
+
+Colombo, June 5 (Daily Mirror) - The All Island Canteen and Restaurant Owners' Association (AICROA) has decided to lower the prices of food items from tonight due to the reduction in the prices of domestic LP gas, vegetables and eggs.
+
+Addressing the media, the Association's President Harshana Rukshan announced that the prices of fried rice, rice and curry, and kottu will be reduced by Rs. 25 from tonight.
+
+The prices of short eats, including paratha and egg rotti, will be reduced by Rs. 10. In line with these reductions, the price of a cup of plain tea will be reduced by Rs. 5.
+
+However, there will be no price reduction on a cup of milk tea since the cost of imported milk powder has not decreased significantly.
+
+The association president has urged all canteen and restaurant owners to pass on the benefits of reduced prices for domestic LP gas, vegetables and eggs to the consumers.
+
+◼️
+
+[Data](articles/5e2def0b.json)
+
+---
+
+### The first benefit to the Indian team
 
 *2024-06-05 19:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197433) · `si`
 
-විස්සයි විස්ස ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ අයර්ලන්තයට එරෙහිව පැවැත්වෙන තරගයේ කාසියේ වාසිය දිනූ ඉන්දීය කණ්ඩායම ප්‍රථමයෙන් පන්දු රැකීමට තීරණය කළේය.
+The Indian cricket team won the toss and chose to bat in the 2020 T20 World Cup, gaining the advantage of setting the opponent's target.
+
+🟩
+
+The Indian team won the toss and elected to the Twenty Twenty World Cup.
 
 ◼️
 
 [Data](articles/75a84c3d.json)
+
+[Extended Data](ext_articles/75a84c3d.ext.json)
 
 ---
 
@@ -57,6 +103,8 @@ Making a special speech in the Sri Lankan Parliament on Wednesday, Premadasa emp
 ...
 
 [Data](articles/d1f4a094.json)
+
+[Extended Data](ext_articles/d1f4a094.ext.json)
 
 ---
 
@@ -264,7 +312,7 @@ Accordingly, the price of a bunch, rice and rice parcel has been reduced, the pr
 
 ---
 
-### Most law students female, but lady President’s Counsel not to be seen: Eran
+### Law students in Sri Lanka mostly female, but President’s Counsel male: Eran
 
 *2024-06-05 18:00:00* · [`economynextcom`](https://economynext.com/most-law-students-female-but-lady-presidents-counsels-not-to-be-seen-eran-166374/) · `en`
 
@@ -1486,6 +1534,10 @@ Since its inception, PLC Al-Safa has been committed to innovation within the fra
 
 *2024-06-05 13:17:49* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cjrry1dyldlo) · `si`
 
+Despite environmental concerns, Sri Lanka continues to issue licenses for destructive fishing practices, impacting marine life and local economies.
+
+🟩
+
 Donating Prohibited Fisheries: Laws and Legislatives Silent
 
 Today is the international day for the fight against the fight against world environment today (June 5).
@@ -2245,45 +2297,5 @@ The President who recalled that the politics of the country had collapsed with t
 [Data](articles/868f21a9.json)
 
 [Extended Data](ext_articles/868f21a9.ext.json)
-
----
-
-### Police officers injured as jeep driven by OIC crashes into house
-
-*2024-06-05 10:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Police-officers-injured-as-jeep-driven-by-OIC-crashes-into-house/108-284151) · `en`
-
-Puliyankulam, June 5 (Daily Mirror) - Three police officers, including the Officer-in-Charge (OIC) of the Puliyankulam Police Station, sustained injuries yesterday after a police jeep veered off the road and crashed into a house in Puliyankulam.
-
-Chief Inspector Nalaka Idunil Gunasekara, the Puliyankulam OIC, was reportedly driving the jeep at the time of the incident.
-
-The jeep collided with an electric pole and a motorcycle parked near the house before crashing into it.
-
-The injured officers were initially taken to the Nedunkerny Hospital, where two were discharged later, while one was transferred to the Vavuniya General Hospital for further treatment.
-
-The jeep incurred significant damage in the accident. Following a breathalyzer test, the OIC was produced before the Nedunkerny Judicial Medical Officer (JMO) to ascertain whether he was under the influence of alcohol while driving.
-
-Police said that no evidence of intoxication was found and statements regarding the accident have been recorded.
-
-...
-
-[Data](articles/29f71466.json)
-
-[Extended Data](ext_articles/29f71466.ext.json)
-
----
-
-### Derailment delays train services between Maradana, Fort
-
-*2024-06-05 10:33:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Derailment-delays-train-services-between-Maradana-Fort/108-284150) · `en`
-
-Colombo, June 5 (Daily Mirror) - Train services between Colombo Fort and Maradana were delayed due to a derailment this mornign, the Railways Department said.
-
-They said due to the derailment, the train services will operate with a considerable delay.
-
-◼️
-
-[Data](articles/185c9f4d.json)
-
-[Extended Data](ext_articles/185c9f4d.ext.json)
 
 ---

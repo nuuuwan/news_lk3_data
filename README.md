@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-05 15:34:22**
+As of **2024-06-05 15:53:02**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,592
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,590 (100.0%) of 28,591 articles have been extended.
+28,591 (100.0%) of 28,591 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ He stated that they have currently planned a Mangrove Botanic Garden at Akmeeman
 ◼️
 
 [Data](articles/9bcf42b1.json)
+
+[Extended Data](ext_articles/9bcf42b1.ext.json)
 
 ---
 

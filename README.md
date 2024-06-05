@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-05 09:05:30**
+As of **2024-06-05 09:18:46**
 
 ## Newspaper Stats
 
-*Scraped **28,513** Articles*
+*Scraped **28,515** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,9 +14,9 @@ bbccomsinhala | 278
 newsfirstlk | 363
 islandlk | 1,542
 economynextcom | 1,620
-dailyftlk | 1,686
+dailyftlk | 1,687
 adalk | 2,425
-adaderanalk | 3,236
+adaderanalk | 3,237
 tamilmirrorlk | 3,353
 virakesarilk | 4,387
 dailymirrorlk | 4,514
@@ -26,61 +26,95 @@ adaderanasinhalalk | 4,578
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,499 (100.0%) of 28,513 articles have been extended.
+28,513 (100.0%) of 28,515 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-05 (Wednesday)
 
-### ඩෙංගු හිස ඔසවයි
+### University non-academic staff to continue strike action
+
+*2024-06-05 08:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/99669/university-non-academic-staff-to-continue-strike-action-) · `en`
+
+The University Trade Union Joint Committee (UTUJC) has announced that university non-academic employees will continue their trade union action.
+
+K.L.D.G. Richmond, the co-secretary of the Inter-University Trade Union Federation, stated that the discussion with the State Minister of Higher Education, Dr Suren Raghavan regarding their demands and other professional issues ended without a solution.
+
+“Proposals were presented to provide solutions from the side of the government. But hopefully, as a last resort, we need something in writing for this. We hope to end the strike as soon as that circular is given. Until this is granted, the strike will continue. The strike has been going on for 34 days now,” said Richmond.
+
+◼️
+
+[Data](articles/730e1a96.json)
+
+---
+
+### Dengue raise dengue
 
 *2024-06-05 08:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197407) · `si`
 
-මේ වසරේ ගත වූ මාස 5 ක කාලසීමාව තුළ ඩෙංගු රෝගීන් විසිපන් දහසකට අධික සංඛ්‍යාවන් වාර්තා වී ඇති බව ඩෙංගු මර්දන ඒකකය පවසයි.
+In the past five months, over a thousand cases of dengue have been reported, posing a significant risk, especially in schools. The director of the dengue eradication unit highlights this concern. Due to unfavorable weather conditions, all dengue eradication programs have been postponed across the island.
 
-එහි අධ්‍යක්ෂ, විශේෂඥ වෛද්‍ය සුදත් සමරවීර මහතා සඳහන් කළේ, පාසල් බොහොමයක මඳුරුවන් බෝවන ස්ථාන හඳුනා ගැනීම දැඩි අවදානම් තත්ත්වයක් බවය.
+🟩
 
-දිවයිනට බලපා ඇති අයහපත් කාලගුණ තත්ත්වය හේතුවෙන් සංවිධානය කර තිබූ ඩෙංගු මර්දන වැඩසටහන් සියල්ල කල් දැමීමට සිදුව ඇති බවද සෞඛ්‍ය කීට විද්‍යා නිලධාරීන්ගේ සංගමයේ සභාපති නජිත් සුමණසේන මහතා පවසයි.
+More than a thousand dengue patients have been reported during the period of 5 months of this year, dengue eradication unit said.
+
+Its director, Specialist Dr. Sudath Samaraweera said that many schools in many schools is a serious risk.
+
+The President of the Health Entomology Officers' Association Nagith Sumanasena says that all dengue eradication programs have been deferred to the island due to the inclement weather.
 
 ◼️
 
 [Data](articles/3d93bd88.json)
 
+[Extended Data](ext_articles/3d93bd88.ext.json)
+
 ---
 
-### ජල මුලාශ්‍ර රැසක් අපිරිසිදු තත්ත්වයේ
+### A large number of water limes in dirty condition
 
 *2024-06-05 08:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197406) · `si`
 
-පවතින ගංවතුර තත්ත්වය සමඟ ජල මූලාශ්‍ර අපිසිදු වීම හේතුවෙන් බෝවන රෝග පැතිරීමේ අවදාමක් මතුව ඇති බව කොළඹ මහ නගර සභාව පවසයි.
+Due to floods, the Colombo Municipal Council advises drinking hot boiled water or bottled water to prevent diseases like diarrhea and rat fever. Clean fruits, vegetables thoroughly, avoid raw foods, and cook all meals. Also, consult Public Health Inspectors about cleaning flooded areas before reuse.
 
-එහි ප්‍රධාන සෞඛ්‍ය වෛද්‍ය නිලධාරී වෛද්‍ය ගීතිකා රත්නවර්ධන මහත්මිය සඳහන් කළේ, හැකි සෑම අවස්ථාවකම උණුකර නිවාගත් ජලය පානය කිරීමට පියවර ගන්නා ලෙසය.
+🟩
 
-"මේ දවස්වල ජල මුලාශ්‍ර අපවිත්‍ර වීම හේතුවෙන් පාචනය හා මී උණ වැනි බෝවන රෝග පැතිර යෑමේ අවධානමක් තියෙනවා. ඒ නිසා හැකි සෑම අවස්ථාවකම උණුකර නිවාගත් ජලය හෝ බෝතල් කළ ජලය පානය කරන්න. පලතුරු, එළවළු සහ පළාවර්ග භාවිතයට පෙර ඉතා හොඳින් පිරිසිදු ගත යුතුයි. මේ දිනවල පමණක් හැකිතාක් දුරට අමු එළවළු හා පළා වර්ග ආහාරයට ගැනීමෙන් වළකින්න. හො﻿ඳින් පිසගත් ආහාර පමණක් ලබාගන්න. පිටතින් ලබාදෙන ආහාර කල් නොයවා ඉක්මනින් ආහාරයට ගත යුතුයි. ආහාර පිළියෙල කරගත් පසු මැස්සන්ගෙන් ආරක්ෂා කරගන්න. ගංවතුර පැවති ප්‍රදේශවල ළිං නැවත භාවිතයට පෙර ඉස පිරිසිදු කර ක්ලෝරීන් යොදා පිරිසිදු කළ යුතු නිසා මහජන සෞඛ්‍ය පරීක්ෂකවරුන්ගෙන් මේ පිළිබඳ උපදෙස් ලබාගත යුතුයි."
+The Colombo Municipal Council says that due to the prevailing floods with existing floods, the Colombo Municipal Council has decided.
+
+Its Chief Medical Officer of Health Medical Officer of Medical Officer Dr. Songs Ratnawewa said that whenever possible, measures to drink the hot boiling water.
+
+"Differently of water sources these days have a risk of contagious diseases such as diarrhea and rat fever. So drink the hot boiled water or bottled water whenever possible. Fruit, vegetables and vegetable use should be very well cleaned. Avoid eating raw vegetables and fleet as much as possible these days. Betze only cook food. The outside food should not be eaten soon. Protect the flies after meals are prepared. The Public Health Inspectors should also seek advice on the public health inspectors because they should be cleaned by cleansing before reuse of flooded areas.
 
 ◼️
 
 [Data](articles/4c9e92bb.json)
 
+[Extended Data](ext_articles/4c9e92bb.ext.json)
+
 ---
 
-### குழந்தைய மோசமாக தாக்கிய நபரும் பெண்களும் கைது
+### Arrest of a man and women who were badly assaulted
 
 *2024-06-05 08:50:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குழந்தைய-மோசமாக-தாக்கிய-நபரும்-பெண்களும்-கைது/175-338464) · `ta`
 
-நேற்று பெரும் அதிர்வலையை ஏற்படுத்திய 4 வயதுச் சிறுவன் மீது தாக்குதல் நடத்திய சம்பவத்தில் தேடப்பட்டு வந்த நபர், புல்மோடை – ஆசிரிமலை பகுதியில் வைத்து இன்று (05) அதிகாலை கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவிக்கின்றனர்.
+A man and two women were arrested early this morning for allegedly attacking a 4-year-old boy, causing widespread shock. The victims, aged 37 and 46, along with a 45-year-old male suspect from Manalaru-Kalyanipuram, are set to face charges. The child survivor is now under the care of legal authorities. Further investigations are ongoing, with the suspects expected to appear in court today.
 
-இந்த தாக்குதலை நடத்துவதற்கு ஒத்துழைப்பு வழங்கிய குற்றச்சாட்டின் கீழ், 37 மற்றும் 46 வயதான இரண்டு பெண்களும் கைது செய்யப்பட்டுள்ளனர்.
+🟩
 
-கைது செய்யப்பட்டவர் மணலாறு (வெலிஓயா) – கல்யாணிபுரம் பகுதியைச் சேர்ந்த 45 வயதானவர் என தெரிவிக்கப்படுகின்றது.
+Police say they have been arrested in the early hours of this morning (05), a man who was searching for an attack on a 4 -year -old boy who caused great shock yesterday.
 
-தாக்குதலுக்கு இலக்கான நான்கரை வயதுச் சிறுவனை பொலிஸார் தமது பொறுப்பிற்கு எடுத்து, சட்ட வைத்திய அதிகாரிக்கு முன்னிலைப்படுத்தியுள்ளதாக பொலிஸார் குறிப்பிடுகின்றனர்.
+Two women, 37 and 46, have been arrested on charges of cooperating with the attack.
 
-சந்தேகநபர்களை இன்றைய தினம் (05) நீதிமன்றத்தில் முன்னிலைப்படுத்த நடவடிக்கை எடுக்கப்பட்டுள்ளதுடன், புல்மோடை பொலிஸார் மேலதிக விசாரணைகளை ஆரம்பித்துள்ளனர். R
+The arrested person is said to be a 45 -year -old from Manalaru (Welioya) - Kalyanipuram.
+
+Police say that the four -and -a -half -year -old boy who was attacked has taken over to the legal officer.
+
+Steps have been taken to present the suspects in court today (05) and Pulmodi police are conducting further investigations.. Remble
 
 ◼️
 
 [Data](articles/9c7fbf6d.json)
+
+[Extended Data](ext_articles/9c7fbf6d.ext.json)
 
 ---
 
@@ -98,6 +132,8 @@ The Daily Mirror with its headlines, ‘Industry stakeholders up in arms against
 
 [Data](articles/66a19d7b.json)
 
+[Extended Data](ext_articles/66a19d7b.ext.json)
+
 ---
 
 ### Sri Lankans fighting in Russia-Ukraine war face lies, hardships
@@ -113,6 +149,8 @@ A top source told Daily Mirror that the Sri Lankan authorities receive numerous 
 ...
 
 [Data](articles/e7bf683c.json)
+
+[Extended Data](ext_articles/e7bf683c.ext.json)
 
 ---
 
@@ -182,21 +220,27 @@ The general public is kindly requested to take adequate precautions to minimize 
 
 ---
 
-### දරුවාට පහරදුන් පුද්ගලයා සැඟව සිටිය දී අත්අඩංගුවට පත්වූ හැටි
+### How the man assaulted the child was arrested while he was hiding
 
 *2024-06-05 08:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197404) · `si`
 
-සමාජ මාධ්‍ය ඔස්සේ සංසරණය වූ දරුවෙකුට පහරදීමේ සිද්ධියට සම්බන්ධ පුද්ගලයා සැඟව සිටිය දී අත්අඩංගුවට පත්වූ අවස්ථාවේ දර්ශන පෙළක් "අද දෙරණ"ට ලැබී තිබේ.
+A man accused of assaulting a child was arrested while hiding. Two women and another man were also detained in connection with the case in Pulmudai Arsimal. The victim, a 4 1/2-year-old, was taken to court.
 
-අද (05) අලුයම පුල්මුඩේ අරිසිමලේ ප්‍රදේශයේ දී අදාළ පුද්ගලයා සහ පහරදීමට ආධාර අනුබල දීමේ චෝදනා මත තවත් කාන්තාවන් දෙදෙනෙකු ද අදාළ සැකකරු සමග අත්අඩංගුවට ගත් බව පොලීසිය පැවසුවේය.
+🟩
 
-අත්අඩංගුවට ගෙන ඇත්තේ 45 හැවිරිදි පුද්ගලයෙක් සහ 37 සහ 46 හැවිරිදි කාන්තාවන් දෙදෙනෙකි.
+A series of display was a series of display while he was arrested while he was hiding when the person involved in the assault on social media.
 
-පහරකෑමට ලක් වූ අවුරුදු 4 1/2 ක දරුවා ද පොලිස් භාරයට ගෙන මේ වනවිට අධිකරණ වෛද්‍යවරයා හමුවට ඉදිරිපත් කර තිබේ.
+Two other women have been arrested along with the suspect in the area of ​​Pulmudai Arsimal, this morning (05).
+
+Two persons have been arrested two 45-year-old man and 37 and 46 women.
+
+The 4 1/2 year old child has also seized and produced before the Judiciary.
 
 ◼️
 
 [Data](articles/09be8ecc.json)
+
+[Extended Data](ext_articles/09be8ecc.ext.json)
 
 ---
 
@@ -419,6 +463,20 @@ He claimed that the Economic Transformation Bill proposed by President Ranil Wic
 [Data](articles/8fdfa0ad.json)
 
 [Extended Data](ext_articles/8fdfa0ad.ext.json)
+
+---
+
+### ‘Prosecutorial’ vs. ‘victim based’ approaches to accountability
+
+*2024-06-05 05:39:54* · [`dailyftlk`](https://www.ft.lk/columns/Prosecutorial-vs-victim-based-approaches-to-accountability/4-762628) · `en`
+
+Why is all the attention to address accountability only fixated on the Sri Lankan State and none on the LTTE?
+
+A report in an English daily recently stated that the UN human rights office has “criticised the Sri Lankan Government’s failure to acknowledge and hold accountable the perpetrators of tens of thousands of enforced disappearances… Authors of the report also accuse the Liberation Tigers of Tamil Eelam of “engaging in abductions” which were described as “tantamount” to enforced disappearances.” Continuing, the report adds that the UN High Commissioner for Human Rights had stated: “Accountability must be addressed. We need to see institutional reform for reconciliation to succeed”.
+
+...
+
+[Data](articles/32a99473.json)
 
 ---
 
@@ -684,6 +742,8 @@ In the meantime, Colombo Dockyard will continue to build on the market recogniti
 
 [Data](articles/51e63b24.json)
 
+[Extended Data](ext_articles/51e63b24.ext.json)
+
 ---
 
 ### Netherlands won Nepal by 6 wickets
@@ -774,21 +834,27 @@ Sivakanandan Sindhu, aged 27, from the eighth region of Punguduthivu, Punguduthi
 
 ---
 
-### ’ஜனாதிபதி பொருளாதாரத்தை பலப்படுத்துவார்’
+### The President will strengthen the economy
 
 *2024-06-05 02:35:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-பொருளாதாரத்தை-பலப்படுத்துவார்/175-338462) · `ta`
 
-பொருளாதாரப் பிரச்சினைகளை நிறைவு செய்து, நாட்டை சரியான பாதையில் வழிநடத்தக் கூடிய ஒரே தலைவர் ஜனாதிபதி ரணில் விக்கிரமசிங்க மாத்திரமே என கிராமிய வீதிகள் அபிவிருத்தி இராஜாங்க அமைச்சர் சிவநேசதுரை சந்திரகாந்தன் தெரிவித்தார்.
+Rural roads development Minister Sivanesathurai Chandrakanthan supports President Ranil Wickremesinghe, stating his leadership is crucial for solving economic challenges and guiding the nation through current global issues. He emphasizes the need for unity and President Wickremesinghe's ability to build a robust economic framework if re-elected. The minister also highlights the President's efforts towards addressing minority concerns and plans for constitutional reforms, expressing optimism for progress in the coming year.
 
-ஜனாதிபதி ஊடக மையத்தில் நேற்று நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே அவர் மேற்கண்டவாறு தெரிவித்தார்.  அவர் மேலும் தெரிவிக்கையில்,
+🟩
 
-தற்போது நாட்டின் நல்ல நிலைமை குறித்து மக்கள் நம்பிக்கை கொண்டுள்ளனர். நாட்டை முன்னோக்கிக்கொண்டு செல்ல வேண்டுமென்றால், தனிப்பட்ட விருப்பு வெறுப்புகளைத் தாண்டி உறுதியாக எல்லோரையும் அரவணைத்து செயற்பட வேண்டும். அதேபோன்று இப்போது இருக்கின்ற உலகளாவிய பிரச்சினைகளோடு சரியான இடத்திற்கு நாட்டைக் கொண்டு செல்லக் கூடிய ஒரு தலைவராக நாங்கள் ஜனாதிபதி ரணில் விக்ரமசிங்கவைப் பார்க்கிறோம். எனவே அவர் மக்கள் ஆதரவுடன் மீண்டும் ஜனாதிபதியாக தெரிவு செய்யப்பட்டால் பலமான பொருளாதாரக் கட்டமைப்பை உருவாக்குவார்.
+President Ranil Wickremesinghe is the only leader who can complete the economic problems and lead the country on the right path, said rural roads development Minister Sivanesathurai Chandrakanthan.
 
-முக்கியமாக, நான் ஒரு சிறுபான்மை மக்களின் பிரதிநிதி என்ற வகையில் நானும் நம்புகிறேன்.
+He said this at a media briefing held at the Presidential Media Center yesterday.As he further stated,
+
+Currently people believe in the good situation of the country. If the country is to move forward, you must firmly embrace everyone beyond personal preferences. Similarly, we see President Ranil Wickremesinghe as a leader who can take the country to the right place with the existing global problems.. So if he is re -elected president with the support of the people, he will create a strong economic structure.
+
+Importantly, I believe as a representative of a minority.
 
 ...
 
 [Data](articles/e2b68d94.json)
+
+[Extended Data](ext_articles/e2b68d94.ext.json)
 
 ---
 
@@ -977,6 +1043,8 @@ Sri Lanka Tourism Development Authority (SLTDA) Chairman Priantha Fernando earli
 ...
 
 [Data](articles/2b8ba78f.json)
+
+[Extended Data](ext_articles/2b8ba78f.ext.json)
 
 ---
 
@@ -1269,6 +1337,8 @@ Accordingly, it was decided to direct the Legal Draftsmen to formulate a draft b
 ...
 
 [Data](articles/59df6e15.json)
+
+[Extended Data](ext_articles/59df6e15.ext.json)
 
 ---
 
@@ -2131,45 +2201,5 @@ According to the New York Times, traders in Mumbai had also anticipated a comfor
 [Data](articles/4bed0a32.json)
 
 [Extended Data](ext_articles/4bed0a32.ext.json)
-
----
-
-### Train delays expected on main line
-
-*2024-06-04 19:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/99663/train-delays-expected-on-main-line) · `en`
-
-The Railway Department says that several office trains operating on the main line this evening could be delayed.
-
-Speaking to the media, Deputy General Manager of Railways Mr. N.J. Indipolage stated that certain trains could experience delays owing to railway tracks being inundated in certain areas between Gampaha and Weyangoda.
-
-He further said that the train delays are caused due to the presence of water on the railway track, causing hindrances to the railway signals.
-
-Accordingly, the Deputy General Manager of Railways further mentioned that trains playing towards areas such as Rambukkana, Polgahawela, Kandy, Kurunegala and Mahawa could also be delayed.
-
-◼️
-
-[Data](articles/ac2364e4.json)
-
-[Extended Data](ext_articles/ac2364e4.ext.json)
-
----
-
-### ChatGPT was down for hours, now recovered
-
-*2024-06-04 18:50:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/ChatGPT-was-down-for-hours-now-recovered/108-284085) · `en`
-
-ChatGPT has now recovered from what OpenAI described as a "major outage" earlier today, which hit millions of users of worldwide.
-
-Reports of the ChatGPT issues first started at around 2.30am ET / 7.30am BDT / 4.30pm AEST on June 4. OpenAI acknowledged that there was a big issue, with the company's status page reporting for several hours that "ChatGPT is unavailable for some users".
-
-Fortunately, OpenAI pushed out a fix at around 7.30am ET / 12.30pm BST / 4.30pm AEST, and the service's status is now a healthier green color with "all systems operational". The problems were pretty widespread, both geographically and across platforms, hitting the web version, mobile app and new Mac app – although they mostly appeared to affect logged in users.
-
-OpenAI hasn't yet commented on what exactly caused ChatGPT's biggest outage of 2024, but we've asked it for comment and will update this page when we hear back.
-
-◼️
-
-[Data](articles/062dd282.json)
-
-[Extended Data](ext_articles/062dd282.ext.json)
 
 ---

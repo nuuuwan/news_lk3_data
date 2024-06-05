@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-06 01:04:00**
+As of **2024-06-06 01:18:59**
 
 ## Newspaper Stats
 
@@ -26,23 +26,31 @@ adaderanasinhalalk | 4,606
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,676 (100.0%) of 28,677 articles have been extended.
+28,677 (100.0%) of 28,677 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-06 (Thursday)
 
-### 1,5025 வீடுகளை அகற்ற  நடவடிக்கை
+### Action to remove 1,5025 homes
 
 *2024-06-06 00:34:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/1-5025-வீடுகளை-அகற்ற-நடவடிக்கை/175-338509) · `ta`
 
-மண்சரிவு  அவதானம் எச்சரிக்கை விடுக்கப்பட்டுள்ள  பகுதிகளில் உள்ள 1,5025 வீடுகளை அகற்றுவதற்கு  நடவடிக்கை எடுக்கப்படும். இவ்வாறான இடங்களில் உள்ளவர்களுக்கு அரசாங்கத்தால் வீடுகள் வழங்கப்பட்டுள்ள போதும் அவதானத்துக்குரிய இடங்களிலுள்ள வீடுகளில் இருந்து வெளியேறாதவர்களுக்கு எதிராக சட்ட நடவடிக்கைகள் எடுக்கப்படும்  என பாதுகாப்பு இராஜாங்க அமைச்சர் பிரமித்த பண்டார தென்னக்கோன் தெரிவித்தார்.
+In response to landslides, the government plans to remove 15,025 houses in affected areas. Legal action will be taken against those refusing to leave. Inclement weather has caused significant damage: 71 houses are destroyed, 9,378 are partially damaged, and 825 SMEs are affected. Temporary shelters and dry food are provided to those safe in flood-prone areas.
 
-நாட்டில் நிலவும் சீரற்ற காலநிலை மற்றும் பாதிப்பு தொடர்பில்  அரச தரப்பு எம்பி. அகில சாலிய எல்லாவெல பாராளுமன்றத்தில் புதன்கிழமை (05)  முன்வைத்த கேள்விகளுக்கு பதிலளிக்கும்போதே இதனைத்தெரிவித்த  அவர் மேலும் கூறுகையில்,
+🟩
 
-...
+Steps will be taken to remove 1,5025 houses in areas where landslides are alerted. Defense Minister of State for Defense Bandara Thennakoon said that even though the government has been provided with houses in such places, legal action will be taken against those who do not leave the houses.
+
+State MP on inclement weather and impact in the country. Responding to the questions posed by the All India on Wednesday (05) in Parliament, he added that he said.
+
+Due to the inclement weather conditions in the country, 71 houses have been completely complete, 9378 houses are partially and 825 small and medium enterprises have been damaged.Have been housed. He said dry foods are provided through temporary camps to those who are safe on the top floors of houses in flooding areas.
+
+◼️
 
 [Data](articles/f83cf5e5.json)
+
+[Extended Data](ext_articles/f83cf5e5.ext.json)
 
 ---
 

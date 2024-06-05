@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-05 18:12:44**
+As of **2024-06-05 18:24:23**
 
 ## Newspaper Stats
 
-*Scraped **28,619** Articles*
+*Scraped **28,621** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 273
 bbccomsinhala | 278
 newsfirstlk | 363
 islandlk | 1,542
-economynextcom | 1,629
+economynextcom | 1,631
 dailyftlk | 1,687
 adalk | 2,440
 adaderanalk | 3,251
@@ -26,11 +26,33 @@ adaderanasinhalalk | 4,599
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,616 (100.0%) of 28,619 articles have been extended.
+28,619 (100.0%) of 28,621 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-05 (Wednesday)
+
+### Most law students female, but lady President’s Counsels not to be seen: Eran
+
+*2024-06-05 18:00:00* · [`economynextcom`](https://economynext.com/most-law-students-female-but-lady-presidents-counsels-not-to-be-seen-eran-166374/) · `en`
+
+ECONOMYNEXT – About 75 percent of students at the law faculty are female but there are hardly any female Presidents Counsel, opposition legislator Eran Wickremaratne said.
+
+“Seventy five percent of students at law faculty are female but there are only two or three presidential counsel lawyers in the entire country,” Wickremaratne told parliament during the debate of the Women’s Empowerment Bill.
+
+“So what is this problem? There seems to be an attitude problem. We have to accept this. We cannot run away from this.
+
+“We did not choose to be a woman or man at birth. So we cannot be made to pay for things which are not of our choice.”
+
+The Women’s Empowerment Bill was an admirable effort by the government and the Women’s Caucus in parliament he said.
+
+The Convention on the Elimination of All Forms of Discrimination against Women was adopted by the United Nations in 1979 but it has still not been made into law in Sri Lanka he said.
+
+...
+
+[Data](articles/3242b40d.json)
+
+---
 
 ### SJB files petition against Economic Transformation Bill
 
@@ -94,6 +116,30 @@ While state agencies set equal pay, women in decision making roles were still lo
 
 [Data](articles/0f0ef787.json)
 
+[Extended Data](ext_articles/0f0ef787.ext.json)
+
+---
+
+### Sri Lanka rupee closes weaker at 302.35/45 to US dollar
+
+*2024-06-05 17:12:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-weaker-at-302-35-45-to-us-dollar-166422/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed weaker at 302.35/45 to the US dollar on Wednesday, from 302.10/20 to the dollar the previous day, dealers said. Bond yields were up.
+
+A bond maturing on 15.12.2026 closed at 9.85/90 percent up from 9.70/85 percent.
+
+A bond maturing on 15.09.2027 closed at 10.40/55 percent up from 10.35/45 percent.
+
+A bond maturing on 01.07.2028 closed at 10.90/11.00 percent up from 10.80/90 percent.
+
+A bond maturing on 15.05.2030 closed at 11.75/90 percent up from 11.60/75 percent.
+
+A bond maturing on 01.10.2032 closed at 11.90/12.00 percent up from 11.80/90 percent.
+
+◼️
+
+[Data](articles/7caa3854.json)
+
 ---
 
 ### Schools in Galle and Matara districts to reopen tomorrow
@@ -152,19 +198,29 @@ Amana Bank Plc, which has announced a share consolidation, closed up at 2.40.
 
 [Data](articles/1015df35.json)
 
+[Extended Data](ext_articles/1015df35.ext.json)
+
 ---
 
-### අපරාධකාරයෝ දෙදෙනෙක් අත්අඩංගුවට
+### Two criminals arrested
 
 *2024-06-05 16:58:23* · [`adalk`](https://www.ada.lk/breaking_news/අපරාධකාරයෝ-දෙදෙනෙක්-අත්අඩංගුවට/11-410027) · `si`
 
-ඩුබායි හි සැගව සිටින සංවිධානාත්මක අපරාධකරුවන් සහ මෙරට මත්ද්‍රව්‍ය ජාලය මෙහෙයවන ජෝති රූබන් සහ සේදවත්තේ කසුන් නමැත්තන්ගේ සමීපතමයන් දෙදෙනකු විදේශීය රටක නිශ්පාදිත පිස්තෝල ගිනි අවියක් උණ්ඩ 54 ක් සහ හොරොයින් සමග වැල්ලම්පිටිය කොටුවිල සහ අවිස්සාවේල්ල මීගහවත්ත ප්‍රදේශයේ දී අත්අඩංගුවට ගත් බව අපරාධ පරීක්ෂණ දෙපාර්තුමේන්තුවේ මනුෂ්‍ය ඝාතන සහ සංවිධානාත්මක අපරාධ විමර්ශනය ඒකකය පවසයි.
+Criminal Investigations and Organizational CID units arrested two suspects linked to a murder case investigated by SSP Lucky Randeniya. The arrests took place in Wellampitiya and Boxila areas, where firearms were also found. Further investigations are ongoing.
 
-අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ මනුෂ්‍ය ඝාතන සහ සංවිධානාත්මක අපරාධ විමර්ශන ඒකකයේ අධ්‍යක්ෂ ජ්‍යෙෂ්ඨ පොලිස් අධිකාරි ලකී රන්දෙණිය මහතාගේ උපදෙස් මත විදෙස්ගතව සිටිමින් මෙරට අපරාධ ජාලය සහ මත්ද්‍රව්‍ය ජාවාරම්වල නිරත වෙමින් මනුෂ්‍ය ඝාතන සිදු කරනු ලබන අපරාධකරුවන් පිළිබඳ සිදුකළ විශේෂ විමර්ශනයකදී අලගෝරම් ජෝති රූබන් සහ සේදවත්තේ කසුන් යන අය සම්බන්ධයෙන් සිදුකල විමර්ශණයේදී මෙම සැකකරුවන් දෙදෙනා අත් අඩංගුවට ගැනීමට හැකිව ඇත.
+🟩
 
-...
+Members of the Criminal Investigations and Organizational Criminal Investigation of the Criminal Investigation Department (CID)The unit says.
+
+Investigation of the Criminal Investigation Department and the Director of the Criminal Investigation Department (SSP Lucky Randeniya, Senior Superintendent of the Criminal Investigation Unit), in the investigation of the Sri Lanka Superintendent Lucky Randeniya during a special investigation of murder.The two suspects have been arrested.
+
+In the Wellampitiya arrested the suspect, a brother of the suspect, who was residing in the Boxila area where the suspect was residing in the area, and 54 millimeters of live bullets were used for the suspect's support for some murderThe further investigations are being carried out.
+
+◼️
 
 [Data](articles/e10e60e6.json)
+
+[Extended Data](ext_articles/e10e60e6.ext.json)
 
 ---
 
@@ -2215,49 +2271,5 @@ Vasantha Senadheera, senior geologist of the National Building Research Organiza
 [Data](articles/d1c536c5.json)
 
 [Extended Data](ext_articles/d1c536c5.ext.json)
-
----
-
-### United Petroleum Australia to begin Sri Lanka operations by August
-
-*2024-06-05 09:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/United-Petroleum-Australia-to-begin-Sri-Lanka-operations-by-August/108-284145) · `en`
-
-Colombo, June 6 (Daily Mirror) - United Petroleum Australia, which has entered Sri Lanka's petroleum retail market, will start their operations by the end of July or beginning of August this year, taking over 150 existing fuel stations and building over 50 new stations, Director of United Petroleum Lanka Private Limited in Sri Lanka Dr. Prabhat Samarasinghe said.
-
-He said that United Petroleum Lanka Pvt Ltd made a deal with Sri Lanka's Board of Investments (BoI). This deal is part of an agreement with the Power and Energy Ministry to supply petroleum products in Sri Lanka.
-
-United Petroleum Australia has created a company in Sri Lanka called United Petroleum Lanka Private Limited.
-
-This company will take over 150 existing gas stations and has permission to build 50 new ones under United's name.
-
-The total investment for this project will be around 300 million USD. To start, they will invest 12 million USD, with plans to invest the rest within a year.
-
-...
-
-[Data](articles/060b046d.json)
-
-[Extended Data](ext_articles/060b046d.ext.json)
-
----
-
-### Lock for liquor schools for 7 days in several Divisional Secretariat Divisions
-
-*2024-06-05 09:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/185343) · `ta`
-
-Liquor schools across several Divisional Secretariat Divisions will be closed for 7 days starting from the 18th to the 24th of June due to the National Poson Festival. This includes closures in Central Nuwarakam, East Nuwarakam, and Mihintale Section 03 as per the Department of Excise.
-
-🟩
-
-It has been decided to close the liquor schools in several Divisional Secretariat Divisions in the country for 7 days.
-
-The Department of Excise said that the liquor hospitals will be closed from the 18th to the 24th of June to the National Poson festival.
-
-Accordingly, all liquor stores in Central Nuwarakam, East Nuwarakam and Mihintale Section 03 will be closed at that time.
-
-◼️
-
-[Data](articles/f109639f.json)
-
-[Extended Data](ext_articles/f109639f.ext.json)
 
 ---

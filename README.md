@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-06 03:03:52**
+As of **2024-06-06 03:19:04**
 
 ## Newspaper Stats
 
@@ -26,51 +26,65 @@ adaderanasinhalalk | 4,606
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,683 (100.0%) of 28,686 articles have been extended.
+28,686 (100.0%) of 28,686 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-06 (Thursday)
 
-### கிண்ணியாவில் யானை தாக்கி ஒருவர் பலி; ஒரு வாரத்தில் மூவர் உயிரிழந்துள்ளார்கள்
+### An elephant killed in KinniyaThree people died in a week
 
 *2024-06-06 01:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/185411) · `ta`
 
-கிண்ணியா  பொலிஸ் பிரிவுக்குட்பட்ட மஜீத் நகர் பகுதியில் வேளாண்மை காவல் பணியில் ஈடுபட்டுக்  கொண்டிருந்த ஒருவர் காட்டு யானை தாக்கியதில் 04ஆம் திகதி செவ்வாய்க்கிழமை இரவு உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+In Kinniya, a 61-year-old man named Muhaideen Bichi Mohammed Aniba died after being attacked by a wild elephant. This incident occurred within a week where three farmers were targeted by elephants. The attacks have caused concern among the local population, especially since the elephants have been entering residential areas, damaging houses, and destroying crops like coconut, banana, and sugarcane. Despite efforts to deter them with electric fences, the situation remains critical, leading locals to call for effective measures to control the elephant population.
 
-கிண்ணியா பூவரசந்தீவை சேர்ந்த  வெல்லாங்குளத்தில் வசித்து வந்த முஹைதீன் பிச்சை முகம்மது அனிபா (வயது 61) என்பவரே இவ்வாறு உயிரிழந்துள்ளார்.
+🟩
 
-இதேவேளை  வேளாண்மை காவலில் ஈடுபட்ட ஏனைய மூன்று விவசாயிகளும் யானையின் பிடியிலிருந்து தப்பித்துள்ளனர்.
+A man who was involved in a wild elephant in the Majeed Nagar area of ​​the Kinniya Police Division died on Tuesday night when a wild elephant was attacked, police said.
 
-இவ்வாறு மரணமடைந்தவர் 5 பிள்ளைகளின் தந்தை எனவும், அவரது வீட்டிலிருந்து யானையினை துரத்திச் சென்றபோது இரவு 9.00 மணியளவில் யானைத் தாக்குதலுக்கு இலக்கானதாகக் குறிப்பிடப்படுகின்றது.
+The deceased is Muhaideen Bichi Mohammed Aniba (age 61), who lived in Wellangulam from Kinniya Poovarasandi.
 
-குறித்த பகுதியில் சிறு போக நெற்பயிர்ச் செய்கை இடம் பெற்று வருவதனால் அங்கு வருகை தரும் யானைகள் அங்குள்ள குடியிருப்புப் பகுதிகளுக்கும் நுழைந்து அச்சுறுத்துவதாக பொதுமக்கள் தெரிவிக்கின்றனர்.
+Meanwhile, the other three farmers who were involved in agricultural custody have escaped the clutches of the elephant.
 
-குறித்த நபரைத் தாக்கிய யானை அங்குள்ள வீடு ஒன்றினையும் சேதப்படுத்திச் சென்றுள்ளது.  வீட்டினை யானை தாக்க வருவதை முன்கூட்டியே அறிந்து கொண்ட அவர் பக்கத்து வீட்டில் தஞ்சமடைந்ததாக குறிப்பிடுகின்றனர்.
+It is said that the deceased was the father of 5 children and that the elephant was attacked at around 9.00 pm when he chased the elephant from his house.
+
+The public reports that the elephants coming to the residential areas are threatening to enter the area.
+
+The elephant that attacked the man has also damaged a house.Knowing that the elephant was attacking the house, he mentioned that she had reflected in the neighboring house.
+
+After the elephant was completely attacked by the tile house, a building that had been set up there had broken and ate the paddy that was placed inside it.
 
 ...
 
 [Data](articles/2b1194ad.json)
 
+[Extended Data](ext_articles/2b1194ad.ext.json)
+
 ---
 
-### மன்னார் மாவட்ட பொது வைத்தியசாலைக்கான அபிவிருத்தி குழுத் தெரிவு
+### Development Committee for Mannar District General Hospital
 
 *2024-06-06 01:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/185410) · `ta`
 
-மன்னார் மாவட்ட பொது வைத்தியசாலைக்கான அபிவிருத்தி குழு கடந்த பல வருடங்களாகச் செயற்படாதிருந்த நிலையில் தற்பொழுது புதிய நிர்வாகக் குழு தெரிவு செய்யப்பட்டுள்ளது.
+After several years of inactivity, the Mannar District General Hospital's development team has been revived. A new executive committee, including Dr. MH Muhammed Haniba as Director, was elected to address longstanding needs and shortages within the hospital. The committee's first meeting took place under the leadership of Dr. Haniba, aiming to resume development efforts and improve hospital services.
 
-மன்னார் மாவட்ட பொது வைத்தியசாலையில் இருக்கின்ற ஆளணிகளைக் கொண்டு அதிகாரிகள் தங்கள் கடமைகளை முன்னெடுத்து வருகின்றபோதும் இவ்வைத்தியசாலையில் பல தேவைகளும் , ஆளணி பற்றாக்குறைகளும் காணப்பட்டு வருகின்றது என பலராலும் சுட்டிக்காட்டப்பட்டு வந்தன.
+🟩
 
-இருந்தபோதும் கடந்த பல வருடங்களாக மன்னார் மாவட்டத்தில் மிகவும் முக்கியம் வாய்ந்த இவ்வைத்தியசாலைக்கு என அபிவிருத்திக்குழு ஒன்று இயங்காதிருந்து வந்ததும் பலரால் நீண்டகாலமாகச் சுட்டிக்காட்டப்பட்டு வந்ததும் இங்குக் குறிப்பிடத்தக்கது.
+The new executive committee has been elected as the development team for the Mannar District General Hospital has not been functioning for the past several years.
 
-இந்த நிலையில் தற்பொழுது இந்த வைத்தியசாலை அபிவிருத்தி குழுவின் செயற்பாடுகள் மீண்டும் ஆரம்பமாகியுள்ளது.
+Although the authorities are carrying out their duties with the personnel at the Mannar District General Hospital, many have been pointed out that there are many needs and shortages in the hospital.
 
-இதற்கான புதிய நிர்வாகிகள் தெரிவுக்கான கூட்டம் செவ்வாய்க்கிழமை (04) மாலை 2.30 மணியளவில் மன்னார் பிராந்திய சுகாதாரப் பணிப்பாளர் அலுவலகதத்pன் கேட்போர் கூடத்தில் மாவட்ட பொது வைத்தியசாலை பணிப்பாளர் வைத்திய கலாநிதி எம்.எச்.முஹமட் ஹனிபா அவர்களின் தலைமையில் நடைபெற்றது.
+However, it is noteworthy that the development team has not been functioning for the hospital for the past several years in the Mannar district and has long been pointed out by many.
+
+At this juncture, the activities of the Hospital Development Committee have resumed.
+
+The meeting of the new executives was held on Tuesday (04) at 2.30 pm at the Mannar Regional Health Director's Office Auditorium under the patronage of District General Hospital Dr. MH Muhammed Haniba.
 
 ...
 
 [Data](articles/a10ae020.json)
+
+[Extended Data](ext_articles/a10ae020.ext.json)
 
 ---
 
@@ -92,19 +106,27 @@ The 50th anniversary of the first supremacist of the Tamil nation who fought as 
 
 ---
 
-### ’இந்தியாவுக்கு நிரந்தர உறுப்புரிமை வேண்டும்’
+### Model India has a permanent membership
 
 *2024-06-06 00:59:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்தியாவுக்கு-நிரந்தர-உறுப்புரிமை-வேண்டும்/175-338513) · `ta`
 
-ஐக்கிய நாடுகள் சபையின் பாதுகாப்பு சபையில் இந்தியாவுக்கு நிரந்தர உறுப்புரிமையை வழங்க நடவடிக்கை எடுக்கப்பட வேண்டும் என்றும், இதற்கு இலங்கை பாராளுமன்றத்தின் 225 பேரின் ஒத்துழைப்பும் கிடைக்கும் என்றும் எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+Sajith Premadasa advocates for India's permanent UNSC seat, highlighting its global influence and population size. He praises PM Modi's victory, emphasizing India's potential as a global power center. Cooperation from Sri Lanka's parliament is offered, underscoring the importance of India's economic growth under Modi's leadership.
 
-பாராளுமன்றத்தில் புதன்கிழமை (05) இந்தியத் தேர்தலில் வெற்றிப்பெற்ற பிரதமர் நரேந்திர மோடி தலைமையிலான அரசாங்கத்திற்கு வாழ்த்துக்களை தெரிவித்து உரையாற்றும் போதே எதிரக்கட்சித் தலைவர் இவ்வாறு கூறினார்.
+🟩
 
-அடுத்தடுத்து மூன்றாவது முறையாகவும் பிரதமராக பதவியேற்கும் நரேந்திர மோடிக்கும், மீண்டும் ஆட்சியமைக்கும் பாரதிய ஜனதா கட்சி தலைமையிலான கூட்டணிக்கும் வாழ்த்துக்களை கூறிக்கொள்கின்றோம். இலங்கை இந்தியா இடையே நெருக்கமான நட்பு இருக்க வேண்டும் என்று நாங்கள் எதிர்பார்க்கின்றோம்.
+Opposition Leader Sajith Premadasa said that steps should be taken to provide permanent membership to India in the United Nations Security Council and the cooperation of 225 persons of the Sri Lanka Parliament.
+
+The Opposition Leader said this while addressing the government headed by Prime Minister Narendra Modi, who won the Indian election on Wednesday (05) in Parliament.
+
+We congratulate Narendra Modi for the third time and the Bharatiya Janata Party -led coalition for re -rule.. We expect to have a close friendship between Sri Lanka India.
+
+It is important that India has the highest population in the world to grant permanent membership in the United Nations Security Council. The cooperation of the 225 persons of the Parliament will be available to the UN Security Council, especially the Global Power Center.. Thus I present this idea.
 
 ...
 
 [Data](articles/f0c2dca1.json)
+
+[Extended Data](ext_articles/f0c2dca1.ext.json)
 
 ---
 

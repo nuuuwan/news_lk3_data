@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-05 19:03:48**
+As of **2024-06-05 19:18:55**
 
 ## Newspaper Stats
 
-*Scraped **28,632** Articles*
+*Scraped **28,635** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,42 +15,96 @@ newsfirstlk | 363
 islandlk | 1,542
 economynextcom | 1,631
 dailyftlk | 1,687
-adalk | 2,443
+adalk | 2,444
 adaderanalk | 3,252
 tamilmirrorlk | 3,363
 virakesarilk | 4,405
-dailymirrorlk | 4,537
-adaderanasinhalalk | 4,600
+dailymirrorlk | 4,538
+adaderanasinhalalk | 4,601
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,625 (100.0%) of 28,632 articles have been extended.
+28,632 (100.0%) of 28,635 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-05 (Wednesday)
 
-### රනිල්, මහින්ද, සජිත් සහ ෆොන්සේකාට ස්තූති කරමින් මෝදි කී කතාව
+### රත්නපුර පාසල් කිහිපයක් හෙටත් වැසේ
+
+*2024-06-05 18:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197432) · `si`
+
+හෙට දිනයේදීත් රත්නපුර සහ නිවිතිගල අධ්‍යාපන කලාපයේ පාසල් කිහිපයක් වසාතැබීමට සබරගමුව පළාත් සභාව තීරණය කර තිබේ.
+
+ඒ අනුව රත්නපුර අධ්‍යාපන කලාපයේ රත්නපුර, කුරුවිට හා ඇහැළියගොඩ කොට්ඨාස වලට අයත් සියලු පාසල් සහ නිවිතිගල අධ්‍යාපන කලාපයේ ඇලපාත හා අයගම කොට්ඨාසවලට අයත් සියලු පාසල් වසා තැබෙනු ඇත.
+
+මේ අතර ගාල්ල සහ මාතර දිස්ත්‍රික්ක වල සියලු පාසල් හෙට දිනයේ යළි විවෘත කිරිමට තීරණය කර තිබේ.
+
+ගංවතුරෙන් හානියට පත්වූ පාසල් සහ අවතැන්වූවන්ගේ මධ්‍යස්ථාන ලෙස භාවිත කරන පාසල් පිළිබඳව තීරණය කිරිමට කලාප අධ්‍යාපන අධ්‍යක්ෂවරුන්ට බලය පැවරූ බවද දකුණු පළාත් අධ්‍යාපන ලේකම්වරයා සඳහන් කළේය.
+
+◼️
+
+[Data](articles/1d835b6c.json)
+
+---
+
+### Modi's speech thanked Ranil, Mahinda and Sajith and Fonseka
 
 *2024-06-05 18:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197431) · `si`
 
-ශ්‍රි ලංකාව සමග එක්ව කටයුතු කිරීමට බලාපොරොත්තු වන බව, තෙවනවරටත් ඉන්දීය අග්‍රාමාත්‍ය ධුරයට පත්වූ නරේන්ද්‍ර මෝදි ප්‍රකාශ කර තිබේ.
+Narendra Modi, newly appointed as Thiwara Prime Minister, expressed gratitude towards Sri Lankan leaders including Ranil Wickremesinghe, Mahinda Rajapakse, Sajith Premadasa, and Sarath Fonseka post his victory. He also discussed strengthening ties between Sri Lanka and India during his meeting. Modi is set to be sworn in for his next term and has submitted his resignation to the Indian President, which has been accepted.
 
-සිය එක්ස් ගිණුමෙහි සටහනක් තබමින් තමාගේ ජයග්‍රහණයෙන් පසු සුභ පැතුම් එක්කළ ජනාධිපති රනිල් වික්‍රමසිංහ, හිටපු ජනාධිපති මහින්ද රාජපක්ෂ, විපක්ෂනායක සජිත් ප්‍රේමදාස සහ පාර්ලිමේන්තු මන්ත්‍රී සරත් ෆොන්සේකා යන මහත්වරුන්ට ස්තූතිය පළකරමින් ඔහු මේ බව ප්‍රකාශ කර ඇති බව වාර්තා වෙයි.
+🟩
 
-සමීපතම අසල්වැසියා ලෙස ශ්‍රි ලංකාව ඉන්දියාව සමඟ හවුල්කාරීත්වය තවදුරටත් ශක්තිමත් කිරිමට අපේක්ෂා කරන බවද ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සිය ප්‍රතිචාර දක්වා තිබේ.
+Narendra Modi, who was appointed as the Thiwara Prime Minister, has been appointed as the Thiwara Prime Minister that he expects to work with Sri Lanka.
 
-මේ අතර තෙවනවරටත් ඉන්දීය අග්‍රාමාත්‍ය ධුරයට පත්වූ නරේන්ද්‍ර මෝදි මහතා එළැඹෙන සෙනසුරාදා මීළඟ ධුර කාලයේ දිවුරුම්දීමට නියමිතව තිබේ.
+President Ranil Wickremesinghe, former President Mahinda Rajapakse, Sajith Premadasa and MP Sarath Fonseka has thanked President Rajapaksa's meeting after his victory.
 
-ඒ අනුව නරේන්ද්‍ර මෝදි මහතා ඉන්දීය ජනාධිපතිවරයා මුණගැසී සිය ඉල්ලා අස්වීමේ ලිපිය භාරදී ඇති බව සඳහන් වෙයි.
+President Ranil Wickremesinghe has responded to Sri Lanka to further strengthen the partnership with India as the closest neighbor.
 
-එහිදී ජනාධිපතිවරයා විසින් එම ඉල්ලා අස්වීමේ ලිපිය භාරගෙන ඇති බවද ඉන්දීය ජනාධිපති කාර්යාලය සදහන් කළේය.
+Meanwhile, Narendra Modi, who was appointed as the Prime Minister of the Thief, is due to be sworn in at the next term of Saturday.
+
+Narendra Modi met the President of India and handed over the letter of resignation.
+
+The President said that the letter of resignation has been accepted by the President.
 
 ◼️
 
 [Data](articles/b71c0995.json)
+
+[Extended Data](ext_articles/b71c0995.ext.json)
+
+---
+
+### Assault on 4-year-old child: ’Kukul Chaminda’ remanded
+
+*2024-06-05 18:43:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Assault-on-4-year-old-child-Kukul-Chaminda-remanded/108-284181) · `en`
+
+June 05 - The suspect identified as Kukul Chaminda alias Bibile Chaminda, who was arrested for the assault on a 4-year-old child, was remanded until June 19.
+
+Police initiated investigations following the circulation of a viral video on social media, depicting the suspect's ruthless assault on the child.
+
+◼️
+
+[Data](articles/8e42793f.json)
+
+---
+
+### කුකුල් චමින්ද ඇතුලු 5 ක් බන්ධනාගාරයට දැරිය පරිවාසයට
+
+*2024-06-05 18:41:44* · [`adalk`](https://www.ada.lk/breaking_news/කුකුල්-චමින්ද-ඇතුලු-5-ක්-බන්ධනාගාරයට-දැරිය-පරිවාසයට/11-410034) · `si`
+
+වැලිඔය කල්‍යාණපුර ප්‍රදේශයේ පදිංචි කුඩා දැරියකට අමානුෂිකව පහරදුන් කුකුල් චමින්ද නැමති ප්‍රධාන සැකකරු ඇතුලු 05 දෙනෙකු ජුනි මස 19 වනදා දක්වා රක්ෂිත බන්ධනාගාරගත කරන ලෙසට පදවිය මහෙස්ත්‍රාත් කසුන් කාංචන දසනයක මහතා අද (05) දින නියෝග කරනු ලැබීය.
+
+වැලිඔය පොලිස් නිලධාරීන් විසින් අද දින පහරකෑමට ලක්වූ කුඩා දැරිය මුලතිව් මහරෝහලේ අධිකරණ වෛද්‍ය නිලධාරීවරයාට යොමු කිරීමෙන් අනතුරුව කුඩා දැරිය සමගින් ප්‍රධාන සැකකරු වූ කුකුල් චමින්ද ඇතුලු තවත් සැකකරුවන් සිව් දෙනෙකු පදවිය සංචාරක මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කරනු ලැබීය.
+
+මෙහිදී කුකුල් චමින්ද සමගින් ඔහුගේ බිරින්ඳෑවරු බව පැවසෙන කාන්තාවන් දෙදෙනෙක්, සැකකරුවනට පුල්මුඩේ ප්‍රදේශයේදී සැඟව සිටීමට ඉඳුම් හිටුම් ලබාදුන් නිවසේ හිමිකරු සහ සැකකරුවන්ට ආහාරපාන ලබාදුන් වෙළඳසැලක හිමිකරුවෙකු මෙලෙස ජුනිමස 19 වනදා දක්වා බන්ධනාගාරගත කරන ලෙසට පදවිය මහෙස්ත්‍රාත් කසුන් කාංචන දසනයක මහතා නියෝග කරනු ලැබීය.
+
+...
+
+[Data](articles/707cb734.json)
 
 ---
 
@@ -76,21 +130,27 @@ Police said that they are residents of Welioya Kalyanapura area.
 
 ---
 
-### நடைமுறை கல்வி முறைமை நாட்டுக்கும் பிள்ளைகளுக்கும் பயனற்றது - ரோஹிணி கவிரத்ன
+### Practical Education System is useless for the country and children - Rohini Gavaratne
 
 *2024-06-05 18:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/185395) · `ta`
 
-இலங்கையின் தற்போதைய கல்வி முறைமை நாட்டுக்கோ பிள்ளைகளுக்கோ பயனற்றது. பொருத்தமற்ற கல்வி முறைமையினால் மாணவர்கள் உளவியல் ரீதியில் பாரிய நெருக்கடிகளுக்கு முகங்கொடுத்துள்ளார்கள் என எதிர்க்கட்சி பாராளுமன்ற உறுப்பினர் ரோஹிணி குமாரி கவிரத்ன தெரிவித்தார்.
+Rohini Gavaratne criticizes Sri Lanka's education system, stating it's ineffective for both the nation and its students, leading to psychological crises among learners. She highlights issues like incomplete learning activities, lack of public exams, and inadequate facilities in rural areas, urging the government to address these problems.
 
-பாராளுமன்றத்தில் புதன்கிழமை (05) இடம்பெற்ற கல்வித்துறையில் நிலவும் பிரச்சினைகள் தொடர்பான சபை ஒத்திவைப்புவேளை விவாதத்தை ஆரம்பித்துவைத்து உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+🟩
 
-கொவிட் தொற்று பரவல் மற்றும் பொருளாதார நெருக்கடி நிலைமையால் பாதிக்கப்பட்ட கல்வித்துறை இன்று வரை  வழமைக்கு திரும்பவில்லை. இந்த காலப்பகுதியில் பொதுப் பரீட்சைகளை நடத்த முடியாமல் போனது. கற்றல் நடவடிக்கைகளை உரிய காலத்தில் நிறைவு செய்ய முடியாமையே இதற்கு பிரதான காரணமாக அமைந்தது. இதனால் கஷ்டப் பிரதேச பாடசாலை மாணவர்கள் பெரிதும் பாதிக்கப்பட்டுள்ளனர்.
+The current educational system of Sri Lanka is useless for the country or the children. Opposition parliamentarian Rohini Kumari Gavaratne said that students have faced psychological crises due to inappropriate education system.
 
-இதேவேளை கல்வித்துறையில் ஆசிரியர்கள் முதலானோரின் சம்பளம் தொடர்பான முரண்பாடுகள் உள்ளிட்ட பல்வேறு பிரச்சினைகள் உள்ளன. அவற்றை தீர்ப்பதற்கு அரசாங்கம் நடவடிக்கை எடுக்க வேண்டும் என்று கோருகின்றோம்.
+He was speaking at the launching of the postponement of the House of Education on Wednesday (05) in Parliament.
+
+The Department of Education has not returned to us to date. It was unable to conduct public exams during this period. The main reason for this was the inability to complete the learning activities in a timely manner. As a result, the students of the difficulty area have been greatly affected.
+
+Meanwhile. We demand the government to take action to solve them.
 
 ...
 
 [Data](articles/cbe1e068.json)
+
+[Extended Data](ext_articles/cbe1e068.ext.json)
 
 ---
 
@@ -162,17 +222,23 @@ The Convention on the Elimination of All Forms of Discrimination against Women w
 
 ---
 
-### 14 புதிய இராஜதந்திரிகள் நற்சான்றுப் பத்திரங்களை ஜனாதிபதியிடம் கையளித்தனர்
+### 14 new diplomats handed over the credentials to the president
 
 *2024-06-05 17:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/185399) · `ta`
 
-இலங்கைக்கான புதிதாக நியமிக்கப்பட்ட 05 உயர்ஸ்தானிகர்கள் மற்றும் 09 தூதுவர்கள் இன்று புதன்கிழமை (05) முற்பகல் கொழும்பு கோட்டை ஜனாதிபதி மாளிகையில் ஜனாதிபதி ரணில் விக்ரமசிங்கவிடம் தமது நற்சான்றுப் பத்திரங்களைக் கையளித்தனர்.
+Fourteen new ambassadors from countries including New Zealand, Cyprus, the Maldives, Sierra Leone, Guatemala, Algeria, Estonia, Laos, Colombia, and Turkey presented their credentials to Sri Lanka's President Ranil Wickremesinghe in Colombo.
 
-நியூசிலாந்து, சைப்ரஸ் குடியரசு, மாலைதீவுகள், சியரா லியோன் குடியரசு மற்றும் மொரீஷியஸ் குடியரசு என்பவற்றுக்கானஉயர்ஸ்தானிகர்களும் குவாத்தமாலா குடியரசு, அல்ஜீரியா மக்கள் ஜனநாயகக் குடியரசு, எஸ்டோனியா குடியரசு, லாவோஸ் மக்கள் ஜனநாயக குடியரசு, கொலம்பியா குடியரசு, துருக்கி குடியரசு, அயர்லாந்து, ஹெலனிக் குடியரசு (கிரீஸ்) மற்றும் பல்கேரியா குடியரசு ஆகிய நாடுகளின் புதிய தூதுவர்களும் நியமிக்கப்பட்டுள்ளனர்.
+🟩
+
+Five newly appointed five newly appointed Sri Lanka and 09 Ambassadors handed over their credentials to President Ranil Wickremesinghe at the President's House in Colombo on Wednesday (05).
+
+For New Zealand, Cyprus Republic, the Maldives, the Maldives, the Republic of Sierra Leone and the Republic of Sierra Leone, the Republic of Guatemala, Algeria People's Democratic Republic, Estonia Republic, Laos People's Republic, Columbia Republic, Turkey, IronicsHas been appointed.
 
 ◼️
 
 [Data](articles/68bd89e2.json)
+
+[Extended Data](ext_articles/68bd89e2.ext.json)
 
 ---
 
@@ -194,55 +260,85 @@ The petitioner states that several Clauses of the Bill have been included so as 
 
 ---
 
-### அனைத்து தமிழ் தலைவர்களுக்கும் சிலை அமைக்கப்படும்! - தியாகி சிவகுமாரன் நினைவேந்தலில் அமைச்சர் டக்ளஸ்
+### A statue will be erected for all Tamil leaders!- Minister Douglas in the martyr Sivakumaran
 
 *2024-06-05 17:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/185387) · `ta`
 
-தேசிய நல்லிணக்கமும் அணுகுமுறைகளும் மட்டுமல்லாது, எமது தற்துணிவுமே இன்று சிவகுமாரன் சிலை கம்பீரமாக நிமிர்ந்திருக்க காரணம் என சுட்டிக்காட்டிய அமைச்சர் டக்ளஸ் தேவானந்தா, எதிர்காலத்தில் கட்சி மற்றும் இயக்க வேறுபாடுகளின்றி, ஈழப் போராட்டத்தினை முன்னெடுத்த அனைத்து தலைவர்களுக்கும் சிலைகளை அமைத்து, அவர்கள் அனைவரையும் வரலாற்றில் நிலைநிறுத்த எதிர்பார்ப்பதாகவும் தெரிவித்தார்.
+Minister Douglas Devananda announced the erection of a statue for Tamil leader Sivakumaran, highlighting its significance for national reconciliation and unity. This decision came during the 50th anniversary of Sivakumaran, the first militant in the Eelam struggle, emphasizing the importance of remembering Tamil fighters and their contributions. The statue's construction is seen as a step towards preserving the memory of Tamil leaders and their sacrifices, fostering unity among all parties without any differences.
 
-ஈழப் போராட்ட வரலாற்றில் உயிர்த் தியாகம் செய்த முதல் போராளி பொன் சிவகுமாரனின் 50ஆவது ஆண்டு நினைவுதினத்தில் உரையாற்றும்போதே அமைச்சர் டக்ளஸ் தேவானந்தா மேற்கண்டவாறு தெரிவித்தார்.
+🟩
 
-உரும்பிராயிலுள்ள பொன் சிவகுமாரனின் திருவுருவச்சிலை அமைவிடத்தில் இன்று நடைபெற்ற அஞ்சலி நிகழ்வில் அமைச்சர் டக்ளஸ் தேவானந்தா தொடர்ந்து கூறுகையில்,
+Minister Douglas Devananda pointed out that the statue of Sivakumaran is due to the fact that the statue of Sivakumaran today is due to the national reconciliation and approaches.
+
+Minister Douglas Devananda said this while addressing the 50th anniversary of Pon Sivakumaran, the first militant who sacrificed his life in the history of Eelam struggle.
+
+Minister Douglas Devananda continued at a tribute to Ponn Sivakumaran's image in Urumpirai today.
+
+"The Tamil leaders, militants and people who fought for the rights of the Tamil people continued to be remembered at the commemoration of the wore garland of the Eagle Sudareti Mallarmalai.. It is also necessary to establish their memories, especially their monuments. There will be no party or differences.
+
+The image of the golden Sivakumaran was broken three times before the existing image was established. I think this is the reason for this.
 
 ...
 
 [Data](articles/db1af1f1.json)
 
+[Extended Data](ext_articles/db1af1f1.ext.json)
+
 ---
 
-### කැළණිය සිසුන්ගේ ලැප්ටොප් සොරාගත් සබරේ සිසුවෙක් අල්ලයි
+### Sabary student who stolen lapse of Kelaniya students arrested
 
 *2024-06-05 17:22:08* · [`adalk`](https://www.ada.lk/breaking_news/කැළණිය-සිසුන්ගේ-ලැප්ටොප්-සොරාගත්-සබරේ-සිසුවෙක්-අල්ලයි/11-410028) · `si`
 
-කැලණිය විශ්ව විද්‍යාලයේ පුස්තකාලයේ හා සරුංගල් ගොඩනැගිල්ලේ තිබී   ලැප්ටොප් පරිගණක තුනක්  , ටැබ් එකක් හා ජංගම දුරකතන තුනක් සොරකම් කිරීම සම්බන්ධව අත් අඩංගුවට ගත්  සබරගමුව විශ්ව විද්‍යාලයේ සිසුවෙකු මේ මස 11 වැනිදා දක්වා රක්ෂිත බන්ධනාගාර ගත කර තැබීමට මහර වැඩ බලන මහේස්ත්‍රාත් විරේන්දා කනංකෙගේ මහත්මිය ඊයේ ( 04 වැනිදා ) නියම කරනු ලැබුවාය.
+Ashen Madushan Bandara, a Sabaragamuwa University student, was arrested for stealing items including laptops and tabs from Kelaniya University students. He was remanded until November 11th. The stolen goods were found in Kiribathgoda and Kadawatha. The arrest followed suspicions raised by another student who noticed the missing items.
 
-සබරගමුව විශ්ව විද්‍යාලයේ අධ්‍යාපනය ලබන යක්කල ප්‍රදේශයේ පදිංචි අශේන් මධුශංක බණ්ඩාර නමැති සරසවි සිසුවෙකු මෙසේ රක්ෂිත බන්ධනාගාර ගත කෙරිණි.
+🟩
 
-එම සරසවි සිසුවා විසින් සොරකම් කළ එම භාණ්ඩ කිරිබත්ගොඩ හා කඩවත උකස් භාණ්ඩ මිලයට ගන්නා ආයතනවලට උකස් කර තිබි සොයා ගත් බවට පොලිසිය විසින්  අධිකරණයට කරුණු දක්වමින් කියා සිටියේය.
+Maha Maha Mahara Acting Magistrate Wirinda Kanankada has been remanded until the 11th of this month.Was specified.
 
-තවද මේ ලැප්ටොප් පරිගණක  , ටැබ් එක හා ජංගම දුරකතන කැලණිය විශ්ව විද්‍යාලයේම අධ්‍යාපනය ලබන  සිසුන් තිදෙනෙකුගේ හා සිසුවියෙකුගේ වන බවටත් අධිකරණයේදී වැඩිදුරටත් අනාවරණය විය.
+A University student named Ashen Madushan Bandara, a resident of the University of Sabaragamuwa University, was remanded.
 
-...
+The police said that the university student had found the stolen items into Kiribathgoda and Kadawatha mortgage items.
+
+It was also revealed that the laptops, tab and the University of Kelaniya were present at the courts.
+
+The suspects have come to the court to meet their friendship students from time to time, and the police said.
+
+It was also said that theft was able to uncover the suspect when questioned by the student who came to the university regularly after the loss of these items.
+
+◼️
 
 [Data](articles/9b844460.json)
 
+[Extended Data](ext_articles/9b844460.ext.json)
+
 ---
 
-### யாழ்ப்பாணத்தில் 2001ம் ஆண்டு அரசியல் பேரணியில் இடம்பெற்ற வன்முறை தொடர்பில் லண்டனில் ஒருவர் கைது- தமிழ் மக்களிடமிருந்து மேலதிக தகவல்களை கோருகின்றனர் மெட்ரோபொலிட்டன் பொலிஸார்
+### Metropolitan police are demanding further information from Tamil people in London in connection with violence in a 2001 political rally in Jaffna
 
 *2024-06-05 17:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/185396) · `ta`
 
-2001 இன் பிற்பகுதியில் யாழ்ப்பாணத்தில் அரசியல் பேரணியில் இடம்பெற்ற வன்முறை சம்பவம்தொடர்பில் ஒருவரை கைதுசெய்யதுள்ளதாக லண்டன் மெட்ரோபொலிட்டன் பொலிஸார் தெரிவித்துள்ளனர்.
+London Metropolitan Police are seeking more information from Tamil individuals regarding violent incidents at a 2001 political rally in Jaffna, connected to Sri Lanka's civil war. Two arrests have been made in the UK, and the Anti-Terrorism Detective Division is offering assistance to those willing to aid their investigation. The police emphasize the seriousness of these crimes for victims and witnesses, urging anyone with relevant information to come forward.
 
-2000ம் ஆண்டின் ஆரம்பத்தில் இலங்கையின் உள்நாட்டு யுத்தத்துடன் தொடர்புடைய யுத்த குற்றச்சாட்டுகள் குறித்து விசாரணைகளை மேற்கொண்டுவரும் பயங்கரவாத எதிர்ப்பு துப்பறியும் பிரிவினர் தங்களின் விசாரணைகளிற்கு உதவக்கூடிய தகவல்கள் உள்ளவர்களை விசாரணைக்கு உதவுமாறு லண்டன் மெட்ரோபொலிட்டன்பொலிஸார்வேண்டுகோள் விடுத்துள்ளனர்.
+🟩
 
-இந்த விவகாரம்தொடர்பில் விசாரணைகளை மேற்கொண்டுள்ள பயங்கரவாத எதிர்ப்பு பொலிஸார் ஐக்கிய இராச்சியத்தை சேர்ந்த இரண்டாவது நபரை கைதுசெய்துள்ள நிலையிலேயே இந்த வேண்டுகோள் வெளியாகின்றது.
+London Metropolitan police have said that a man has been arrested in connection with the incident of violence at a political rally in Jaffna in late 2001.
 
-இந்த குற்றங்கள் பாதிக்கப்பட்டவர்களிற்கும் சாட்சிகளிற்கும் நிரந்தரபாதிப்பை ஏற்படுத்தியுள்ளன என தெரிவித்துள்ள லண்டன் மெட்ரோபொலிஸ் தளபதி டொமினிக் மேர்பி இது குறித்த விசாரணைகளின் ஒரு பகுதியாக இருவரை இதுவரை கைதுசெய்துள்ளோம் என தெரிவித்துள்ளார்.
+The Anti -Terrorism Detective Division, which is investigating Sri Lanka's civil war allegations in the early 2000s, has issued a London Metropolitanolisarwind to help those who are helping their investigations.
+
+The request is made when the anti -terrorist police have arrested a second person in the United Kingdom, which is investigating the matter.
+
+London Metropolis Commander Dominic Merbi has said that these crimes have been permanent for the victims and witnesses.
+
+He said that the authorities who are investigating these serious crimes have made improvements in their activities.
+
+He said that the evidence found to further investigate the incident, such as other serious incidents, said that we know that there are information about the incident during the Sri Lankan civil war.
 
 ...
 
 [Data](articles/c39331f8.json)
+
+[Extended Data](ext_articles/c39331f8.ext.json)
 
 ---
 
@@ -270,19 +366,27 @@ There were two-year-old man and 37 and 46-year-old women were remanded.
 
 ---
 
-### பொருளாதார மீட்சிக்காக எதிர்காலங்களிலும் சட்டங்கள் இயற்றப்படும் - நிதி இராஜாங்க அமைச்சர்
+### Laws will be enacted in the future for economic recovery - Minister of Finance
 
 *2024-06-05 17:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/185371) · `ta`
 
-பொருளாதார மீட்சிக்காக எதிர்வரும் காலங்களில் கொண்டுவரும் சட்டமூலங்களுக்கு எதிர்க்கட்சியினர் ஒத்துழைப்பு வழங்குவார்கள் என்று எதிர்பார்க்கிறேன். தற்போதைய பொருளாதார நெருக்கடி எதிர்காலத்தில் தோற்றம் பெறக்கூடாது என்ற நிலைப்பாட்டில் இருந்துகொண்டு மறுசீரமைப்புக்கள் முன்னெடுக்கப்படுகின்றன என நிதி இராஜாங்க அமைச்சர் செஹான் சேமசிங்க தெரிவித்தார்.
+Minister Sehan Semasinghe expects opposition cooperation for upcoming economic recovery laws amidst the ongoing crisis, emphasizing the government's commitment to restructuring and enacting necessary legislation.
 
-பாராளுமன்றத்தில் புதன்கிழமை (05) இடம்பெற்ற அமர்வின்போது எதிர்க்கட்சியின் உறுப்பினர் புத்திக பதிரன முன்வைத்த கேள்விகளுக்கு மேற்கண்டவாறு பதிலளித்தார்.
+🟩
 
-பொருளாதார மீட்சிக்காக முன்னெடுக்கப்பட்டுள்ள மறுசீரமைப்புக்கள்  தொடர்பில் எதிர்க்கட்சியின் உறுப்பினர் புத்திக பதிரன அவதானம் செலுத்தியுள்ளமை வரவேற்கத்தக்கது. மறுசீரமைப்புக்கள் தொடர்பில் அரசாங்கம் கொள்கை ரீதியில் தீர்மானம் எடுத்துள்ளது. இவ்விடயத்தை ஜனாதிபதி ரணில் விக்கிரமசிங்க தனது கொள்கை உரையில் தெளிவாக குறிப்பிட்டுள்ளார்.
+I expect the opposition parties to cooperate with the bills that will bring in the future for economic recovery. Minister of Finance Sehan Semasinghe said that the current economic crisis is not in the position of not appearing in the future.
+
+During the session of Parliament on Wednesday (05), the opposition member Buddhika Padirana responded to the above questions.
+
+It is welcome that the Opposition Member Buddhika Patirana has paid attention to the restructuring launched for economic recovery. The government has taken a policy decision on reorganization. President Ranil Wickremesinghe made this clear clear in his policy speech.
+
+Many laws have been enacted in the past, considering restructuring. Opposition parties protested. The government is rapidly bringing laws against the country. It is improper to say that the opposition parties do not bring in laws for the country.
 
 ...
 
 [Data](articles/02dfa5c1.json)
+
+[Extended Data](ext_articles/02dfa5c1.ext.json)
 
 ---
 
@@ -2187,77 +2291,5 @@ US President Jobitin is vehemently opposed to the Bill, the BBC said.
 [Data](articles/07c83297.json)
 
 [Extended Data](ext_articles/07c83297.ext.json)
-
----
-
-### Flood waters recede in some areas, but landslide risks persist
-
-*2024-06-05 10:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/99672/flood-waters-recede-in-some-areas-but-landslide-risks-persist) · `en`
-
-The Irrigation Department reported that the dangerous situation in the Kelani River, Kalu River, and Attanagalu Oya is gradually dissipating as the water levels are dropping.
-
-As a result, it is expected that the water levels in the flood-affected areas of Gampaha, Ja-Ela, Wattala, Minuwangoda, and Katana will gradually decrease today (5), Sakura Dilthara, an engineer for the department said.
-
-Additionally, she mentioned that the water levels in the low-lying areas of the Kelani River Basin, such as Kaduwela, Biyagama, Kolonnawa, Wattala, and Colombo, are also gradually decreasing.
-
-Meanwhile, Dr. Wasantha Senadeera, a senior geologist at the National Building Research Organization (NBRO), stated that the risk of landslides still persists.
-
-The Disaster Management Center reported that the number of people affected by the adverse weather conditions across the island has exceeded 161,000. Its director, Mr. Pradeep Kodippili, mentioned that the death toll has risen to 21.
-
-◼️
-
-[Data](articles/450177e0.json)
-
-[Extended Data](ext_articles/450177e0.ext.json)
-
----
-
-### Foreign couple drowned in beach
-
-*2024-06-05 10:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197410) · `si`
-
-A foreign couple, aged 35 and 33, drowned at Kirinda coast while visiting Sri Lanka. The police confirmed their deaths upon arrival at the hospital. Further details suggest the incident happened during their sightseeing trip.
-
-🟩
-
-A man drowned in Kirinda coast and died of a man drowned.
-
-Police said that the woman and the individual had died when they were drowning and hospitalized.
-
-The deceased has been identified as a 35 year old man and 33-year-old Indian nationals.
-
-Preliminary investigations have revealed that the accident had occurred when the daughter had been reported to visit Sri Lanka to a tour of the country.
-
-The bodies were deposited in Debarawewa hospital and Kirinda Police are conducting further investigations.
-
-◼️
-
-[Data](articles/2e226414.json)
-
-[Extended Data](ext_articles/2e226414.ext.json)
-
----
-
-### Two police officers arrested
-
-*2024-06-05 10:08:42* · [`adalk`](https://www.ada.lk/breaking_news/පොලිස්-නිලධාරීන්-දෙදෙනෙකු-අත්අඩංගුවට/11-410013) · `si`
-
-Two police officers, including a sergeant and a constable from the Alawwa Police, were arrested by the Criminal Investigation Department (CID). They are suspected of criminal activities and will be presented before the Polgahawela Magistrate's Court for further proceedings.
-
-🟩
-
-Two police officers have been arrested by the Criminal Investigation Department (CID) in the CID.
-
-The policeman is a police sergeant and a constable attached to the Alawwa Police.
-
-The two officers of the Criminal Investigation Department of the Alawwa Police Station, the OIC of the Alawwa Police Division, was arrested by the Alawwa Police Station, the OIC of the Alawwa Police Division.The police headquarters said.
-
-The suspects are to be produced before the Polgahawela Magistrate's Court. The Criminal Investigations Department's Group Investigation Division conducts further investigations.
-
-◼️
-
-[Data](articles/64ad7fbd.json)
-
-[Extended Data](ext_articles/64ad7fbd.ext.json)
 
 ---

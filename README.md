@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-05 06:59:31**
+As of **2024-06-05 07:21:57**
 
 ## Newspaper Stats
 
-*Scraped **28,479** Articles*
+*Scraped **28,480** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 258
 dbsjeyarajcom | 273
 bbccomsinhala | 278
 newsfirstlk | 363
-islandlk | 1,534
+islandlk | 1,535
 economynextcom | 1,620
 dailyftlk | 1,686
 adalk | 2,423
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,570
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,471 (100.0%) of 28,479 articles have been extended.
+28,477 (100.0%) of 28,480 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,6 +50,8 @@ President Ranil Wickremesinghe yesterday stressed that failing to adhere to the 
 
 [Data](articles/721a70ae.json)
 
+[Extended Data](ext_articles/721a70ae.ext.json)
+
 ---
 
 ### Cabinet wants 58 key development projects fast tracked
@@ -67,6 +69,8 @@ The Cabinet of Ministers on Monday approved completion of 58 key development pro
 ...
 
 [Data](articles/42ea7c4b.json)
+
+[Extended Data](ext_articles/42ea7c4b.ext.json)
 
 ---
 
@@ -86,6 +90,8 @@ On 1 May, selected food grains and commodities classified under 126 Combined Cla
 
 [Data](articles/9610f5fa.json)
 
+[Extended Data](ext_articles/9610f5fa.ext.json)
+
 ---
 
 ### Economic Transformation Bill implementation is critical for economic recovery: Bandula
@@ -104,6 +110,8 @@ He claimed that the Economic Transformation Bill proposed by President Ranil Wic
 
 [Data](articles/8fdfa0ad.json)
 
+[Extended Data](ext_articles/8fdfa0ad.ext.json)
+
 ---
 
 ### ‘Prosecutorial’ vs. ‘victim based’ approaches to accountability
@@ -117,6 +125,8 @@ A report in an English daily recently stated that the UN human rights office has
 ...
 
 [Data](articles/5f3d2f08.json)
+
+[Extended Data](ext_articles/5f3d2f08.ext.json)
 
 ---
 
@@ -133,6 +143,8 @@ The Economic Transformation Bill is expected to provide for the National Policy 
 ...
 
 [Data](articles/93b9b910.json)
+
+[Extended Data](ext_articles/93b9b910.ext.json)
 
 ---
 

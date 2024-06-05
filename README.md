@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-05 14:19:14**
+As of **2024-06-05 14:34:24**
 
 ## Newspaper Stats
 
-*Scraped **28,569** Articles*
+*Scraped **28,580** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,195 @@ islandlk | 1,542
 economynextcom | 1,624
 dailyftlk | 1,687
 adalk | 2,433
-adaderanalk | 3,244
+adaderanalk | 3,245
 tamilmirrorlk | 3,360
-virakesarilk | 4,391
-dailymirrorlk | 4,529
-adaderanasinhalalk | 4,587
+virakesarilk | 4,396
+dailymirrorlk | 4,530
+adaderanasinhalalk | 4,591
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,567 (100.0%) of 28,569 articles have been extended.
+28,569 (100.0%) of 28,580 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-05 (Wednesday)
+
+### Dambulla LPL franchise gets new owner, to be named ‘Dambulla Sixers’
+
+*2024-06-05 14:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/99678/dambulla-lpl-franchise-gets-new-owner-to-be-named-dambulla-sixers) · `en`
+
+Sri Lanka Cricket (SLC) today announced that Sequoia Consultants, Inc., a leading civil engineering consulting firm based in Los Angeles, California, has come forward to take over the future of the LPL team, Dambulla.
+
+The team will be operated under DeSilva Holdings, specifically setup for this purpose.
+
+The majority stake in Sequoia Consultants is owned by Mr. Priyanga De Silva, a Chartered Civil Engineer, who is the CEO and President of Sequoia Consultants, Inc, said SLC in a statement.
+
+De Silva, a former first-class cricketer, played for Sri Lanka U19 in 1983 and currently represents the United States Masters Over 60 Cricket Team.
+
+He also volunteers his time as head coach of the not-for-profit Southern California Youth Cricket Association and owns several other businesses in the USA and Sri Lanka.
+
+“My desire to get engaged in cricket, especially cricket in Sri Lanka, prompted me to purchase the Dambulla Sixers team,” said De Silva.
+
+...
+
+[Data](articles/c771b032.json)
+
+---
+
+### வெற்றிடங்களை நிரப்பினாலே தேசிய வைத்தியசாலையாக மாற்றலாம் - யாழ்.போதனா வைத்தியசாலை பணிப்பாளர்
+
+*2024-06-05 13:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/185353) · `ta`
+
+யாழ். போதனா வைத்தியசாலையினை தேசிய வைத்தியசாலையாக மாற்றுவதற்கு ஆளனிகள் தேவையாகயுள்ளதாக யாழ்ப்பாணம் போதனா வைத்தியசாலை பணிப்பாளர் த.சத்தியமூர்த்தி தெரிவித்தார்.
+
+இலங்கையின் 04 வது தேசிய வைத்தியசாலையாக யாழ்ப்பாணம் போதனா வைத்தியசாலை தரமுயர்த்தப்படுவதாக தெரிவிக்கபட்டிருந்தபோதிலும்  அதன் தேவைகள் நிலைப்பாடு பற்றி சுகாதார அமைச்சிடம் அறிவித்திருக்கின்றோம்.
+
+1350 படுக்கைகளுடனான விடுதியும், 325 வைத்தியர்களும், 680 தாதியர்களுமாக மொத்தமாக  2,150 நபர்கள் கடமைபுரிந்து வருகின்றனர். தேசிய வைத்தியசாலையாக்குவதற்கு 200 மேலதிக தாதியர்கள் ஆளணியும், 100 வைத்தியர்கள் ஆளணியும் தேவையாகயுள்ளது.
+
+இவ்வாறு அதிகரிப்பு செய்யப்படும் போது தேசிய வைத்தியசாலையாக மாற்ற சந்தர்ப்பம் காணப்படுகின்றது என தெரிவித்துள்ளார்.
+
+அத்துடன் யாழ். போதனா வைத்தியசாலையில் 320 வைத்திய நிபுணர்கள் சேவையாற்றி வருகின்றனர். வைத்திய வெற்றிடங்கள் அனேகமான நிரப்பட்டுள்ளது. மேலும் சில நிபுணர்களும் பற்றாக்குறையாக காணப்படுகின்றது.
+
+...
+
+[Data](articles/beae98e5.json)
+
+---
+
+### Man attempts to flee to Canada with forged passport arrested
+
+*2024-06-05 13:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Man-attempts-to-flee-to-Canada-with-forged-passport-arrested/108-284170) · `en`
+
+Katunayaka, June 5 (Daily Mirror) - A 34-year-old youth from Jaffan was arrested this morning at the Bandaranike International Airport (BIA) while attempting to flee to Canada using a forged passport.
+
+The Immigration and Emmigration officers attached to the airport arrested the suspect and revealed that the suspect had attempted to flee to Canada on the promise of getting Rs. 13 million from a broker in Anuradhapura.
+
+The suspect had completed his flight clearance and presented his passport to the immigration officer. The officer who was suspicious of the photograph in the passport entered the information into the computer system. Later, he revealed that the passport belonged to some other person.
+
+The actual owner of the passport was a person who was banned from leaving the country by the Trincomalee courts.
+
+Accordingly, the suspect was taken to the Immigration Department's Border Enforcement Unit.
+
+Following a search the real passport of the suspect was found in the suspect's bag.
+
+...
+
+[Data](articles/58e99793.json)
+
+---
+
+### දඹුල්ලට අලුත් හිමිකරුවෙක්
+
+*2024-06-05 13:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197421) · `si`
+
+LPL තරගාවලියට සහභාගී වෙන දඹුල්ල කණ්ඩායමේ හිමිකරුවන් ලෙස අමෙරිකානු සමාගමක් තෝරාගත් බව ශ්‍රී ලංකා ක්‍රිකට් ආයතනය නිවේදනය කළේය.
+
+එම කණ්ඩායමේ නව හිමිකරු වන්නේ, ලොස් ඇන්ජලිස් හි පිහිටි ප්‍රධාන පෙළේ සිවිල් ඉංජිනේරු උපදේශන සමාගමක් වන Sequoia Consultants ආයතනයයි.
+
+ඒ අනුව එළැඹෙන LPL තරගාවලිය සඳහා දඹුල්ල සික්සර් නමින් දඹුල්ල කණ්ඩායම තරග වැදීමට නියමිතය.
+
+◼️
+
+[Data](articles/d70a6b49.json)
+
+---
+
+### අනපේක්ෂිත පසුබෑමක් හමුවේ ඉදිරියට ආ මෝදි
+
+*2024-06-05 13:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197420) · `si`
+
+ඉන්දීය මහ මැතිවරණය ජයගෙන තුන් වැනිවරටත් ඉන්දීය අග්‍රාමාත්‍යවරයා ලෙස තේරීපත් වීමට අගමැති නරේන්ද්‍ර මෝදි සමත්ව තිබේ.
+
+කෙසේ නමුත් ඔහුගේ සන්ධානයට මෙවර මැතිවරණයේදී අනපේක්ෂිත පසුබෑමකට මුහුණපෑමට සිදුව තිබීම විශේෂත්වයකි.
+
+දින 44ක් පුරා අදියර 7ක් යටතේ පැවැති ඉන්දීය මහා මැතිවරණයේ අවසන් ප්‍රතිඵල ඊයේ නිකුත් වුණි.
+
+ඒ අගමැති නරේන්ද්‍ර මෝදිගේ භාරතීය ජනතා පක්ෂයට ජයග්‍රහණය අත්කර දෙමිනි.
+
+කෙසේ නමුත් පෙර මැතිවරණ දෙකට සාපේක්ෂව පක්ෂය මෙවර දැඩි පසුබෑමක් ලබා සිටින අතර, තනි පක්ෂයක් ලෙස දිනා ඇත්තේ ආසන 240ක් පමණයි.
+
+පාර්ලිමේන්තුවේ පහළ මන්ත්‍රී මණ්ඩලයේ එනම් ලෝක් සභාවේ බහුතරය තහවුරු කරගැනීමට එක් පක්ෂයක් අවම වශයෙන් ආසන 272ක් දිනාගත යුතු වන අතර ඊට භාරතීය ජනතා පක්ෂයේ සන්ධාන පක්ෂවල සහාය ලබාගැනීමට මෝදි ට සිදුව තිබේ.
+
+විපක්ෂයේ කිසිදු තනි පක්ෂයක් ආසන 100 ඉක්මවා ජයගෙන නැතත් මැතිවරණය සඳහා ඉදිරිපත් වූ විපක්ෂයේ ඉන්ඩියා සන්ධානය දැඩි තරගකාරිත්වයක් ලබාදී තිබීම විශේෂත්වයකි.
+
+...
+
+[Data](articles/fc2c36f3.json)
+
+---
+
+### Train derailment;Impact of coastal train services
+
+*2024-06-05 13:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/185346) · `ta`
+
+A train derailment at Fort Railway Station has halted coastal train services, disrupting all office trains according to the Railway Department.
+
+🟩
+
+Coastal train service has been blocked due to the derailment of the train at the Fort Railway Station.
+
+Due to this, all the office trains have been interrupted, the Railway Department said.
+
+◼️
+
+[Data](articles/1a8badcf.json)
+
+[Extended Data](ext_articles/1a8badcf.ext.json)
+
+---
+
+### பொது வேட்பாளருக்கு புளொட் ஆதரவு - த.சித்தார்த்தன்
+
+*2024-06-05 13:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/185349) · `ta`
+
+ஜனாதிபதி தேர்தலில் பொது வேட்பாளர் ஒருவரை நிறுத்துவதற்கான தீர்மானத்தை தாம் ஏற்றுக்கொண்டுள்ளோம் என ஜனநாயக மக்கள் விடுதலை முன்னணியினர் தெரிவித்துள்ளனர்.
+
+ஜனநாயக மக்கள் விடுதலை முன்னணியின் தலைவர் த.சித்தார்த்தன் தலைமையில் செவ்வாய்க்கிழமை (04) நடைபெற்ற கட்சியின் மத்திய குழு கூட்டத்தில் தமிழ்ப் பொது வேட்பாளர் சம்பந்தமாக தீர்மானம் எடுக்கப்பட்டுள்ளதாக ஊடகங்களுக்கு அறிக்கை ஊடாக அறிவித்துள்ளனர்.
+
+தமிழ் மக்களின் அரசியல் அபிலாசைகளையும், சமூக வாழ்வின் எதிர்பார்ப்புகளையும், நாளாந்தம் முகம் கொடுத்துவரும் நெருக்கடிகளையும், தென்னிலங்கை அரசியல் சமூகத்தின்  தொடர்ச்சியான ஏமாற்றுத்தனங்களையும் உறுதியாக வெளிப்படுத்தக் கூடிய வகையில்,  ஜனாதிபதி தேர்தலில் பொது வேட்பாளர் ஒருவரை நிறுத்துவதற்கான தீர்மானத்தை ஜனநாயக மக்கள் விடுதலை முன்னணியினராகிய நாம் ஜனநாயக தமிழ் தேசிய கூட்டணியின் ஏனைய அங்கத்துவக் கட்சிகளுடன் இணைந்து ஏற்றுக் கொண்டதோடு அதனை முன்கொண்டு செல்வதற்கான முழு ஆதரவினையும் வெளிப்படுத்தியிருந்தோம்.
+
+...
+
+[Data](articles/a37ef19f.json)
+
+---
+
+### வன்னேரி, ஆனைவிழுந்தான் கிராமங்களுக்கு குழாய் வழி குடிநீரை கோரும் மக்கள்
+
+*2024-06-05 13:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/185357) · `ta`
+
+கிளிநொச்சி கரைச்சி பிரதேச செயலாளர் பிரிவைச் சேர்ந்த வன்னேரிக்குளம், ஆனைவிழுந்தான் கிராம மக்கள் தங்களது கிராமங்களுக்கு குழாய் வழி குடிநீர் விநியோகத்தை வழங்குமாறு பொது மக்கள் கோரிக்கை விடுத்துள்ளனர்.
+
+மேற்படி கிராமங்களின் நிலத்தடி நீர் பாதிக்கப்பட்டுள்ளதோடு,பெருமளவில் உவராகவும் மாற்றமடைந்துள்ளது எனவும், உவராகும் நிலைமை நாளுக்கு நாள் அதிகரித்து வருகின்றமையாலும் பொதுமக்கள் குடி நீர் உள்ளிட்ட நீர்த் தேவையினை பூர்த்தி செய்துகொள்ள கடும் நெருக்கடிகளை எதிர்கொண்டு வருவதாகவும் குறிப்பிட்டுள்ள மக்கள்  தங்கள் கிராமங்களின் பல பகுதிகளின் நிலமும், நீரும ்உவராகி வருகிறது என்றும் சுட்டிக்காட்டியுள்ளனர்.
+
+இந் நெருக்கடி காரணமாக பொது மக்கள் நீண்ட தூரம் பயணித்து இராணுவ முகாம் மற்றும் ஆலயங்களில் குடிநீரை பெற்று வருகின்றனர்.  வன்னேரிக்குளம் கிராமத்தில் சுமார் 480 குடும்பங்களைச் சேர்ந்த 1,650 பேரும் ஆனைவிழுந்தான் கிராமத்தில் 439 குடும்பங்களைச் சேர்ந்த 1,365  பேரும் வசிக்கின்றனர்.
+
+...
+
+[Data](articles/a70fb389.json)
+
+---
+
+### අනිත් අය සපත්තු දානකොට මම සෙරෙප්පු දැම්මා -ජනපති
+
+*2024-06-05 13:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197419) · `si`
+
+අනෙක් නායකයන් ධාවන සපත්තු සොයන විට තමන් පාවහන් දමාගෙන ගොස් දුෂ්කර ගමනක් මැද ආණ්ඩුව භාරගත් බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+
+දේශපාලන උවමනාවලින් තොරව රට ගැන සිතූ පිරිසක් එක්කර ගනිමින් දෙවසරක් තුළ මෙරට ආර්ථිකය නැංවූ බව මුදල් රාජ්‍ය අමාත්‍ය රංජිත් සියඹලාපිටිය මහතාගේ රුවන්වැල්ල නිවසේදී පැවැති ජන හමුවකට එක්වෙමින් ජනාධිපතිවරයා සඳහන් කළේය.
+
+"සමහරු මගෙන් අහනවා කොහොමද මේක කරන්නේ? සමෘද්ධිය වගේ තුන්ගුණයක් දෙනවා. බංකොලොත් ආණ්ඩුවක් මේ දේවල් කරන්නේ කොහොමද? රජයේ සේවකයින්ට රු.10,000ක දීමනාවක් දුන්නා. ලංකා ඉතිහාසයටම අවස්ථා දෙකකදී දුන්නේ. මේක විජ්ජාවක්ද කියලා මගෙන් අහනවා?
+
+අමාරු කාලයේ අනෙක් නායකයින් ධාවන සපත්තු දමද්දී අපි සෙරෙප්පු දාගෙන ආණ්ඩුව ගත්තා. මගේ සපත්තු සියල්ලම ගිනි තිබ්බා. අපි ප්‍රතිපත්ති අනුව වැඩකළ නිසා IMF විශ්වාසය දිනාගත්තා. අපිට විශ්වාසයක් තිබුණා මාස 6කින් ගොඩදානවා කියලා. ලංකාවේ පළමුවරට දේශපාලනය නැති ආණ්ඩුවක් තිබුණා. සර්ව පාක්ෂික විපක්ෂයක් තිබුණා. අපි පක්ෂ අනුව බෙදුණේ නැහැ දක්ෂතා අනුව බෙදුණේ.
+
+...
+
+[Data](articles/74e0e8c3.json)
+
+---
 
 ### Modi and allies to meet after India election verdict, key ally pledges support
 
@@ -49,6 +223,42 @@ The NDA won 293 seats in 543-member lower house of parliament, more than the 272
 ...
 
 [Data](articles/3e10d436.json)
+
+[Extended Data](ext_articles/3e10d436.ext.json)
+
+---
+
+### பெய்ரூட்டில் அமெரிக்க தூதரகத்தின் மீது துப்பாக்கி பிரயோகம்
+
+*2024-06-05 13:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/185356) · `ta`
+
+லெபனான் தலைநகரில் உள்ள அமெரிக்க தூதரகத்தின் மீது துப்பாக்கிபிரயோகம் மேற்கொள்ளப்பட்டுள்ளதாக தகவல்கள் வெளியாகின்றன.
+
+இந்த சம்பவத்தினை உறுதி செய்துள்ள அமெரிக்க தூதரகம் தூதரக வாசலை இலக்குவைத்து சிறிய ஆயுதங்களை பயன்படுத்தி தாக்குதலை மேற்கொண்டனர் லெபானின் பாதுகாப்பு தரப்பினர் உட்பட பாதுகாப்பு கடமையில் ஈடுபட்டிருந்த அனைவரும் விரைந்து செயற்பட்டதால் தூதரகமும் எங்கள் குழுவினரும் பணியாளர்களும் பாதுகாப்பாக உள்ளனர் என தெரிவித்துள்ளது.
+
+இதேவேளை சிரியாவை சேர்ந்த ஒருவரே துப்பாக்கி பிரயோகத்தில் ஈடுபட்டார் என லெபனானின் பாதுகாப்பு தரப்பினர் தெரிவித்துள்ளனர்.
+
+அந்த பகுதியில் பாதுகாப்பு கடமைகளில் ஈடுபட்டிருந்த இராணுவத்தினர் உடனடியாக பதில் துப்பாக்கி பிரயோகத்தை மேற்கொண்டனர்  இதன்போது தாக்குதலை மேற்கொண்ட ஒருவர் காயமடைந்தார் அவர் கைதுசெய்யப்பட்டுள்ளார் என லெபனானின் பாதுகாப்பு அதிகாரிகள் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/1c569efb.json)
+
+---
+
+### දේශගුණික කලාප අනුව උද්භිද උද්‍යාන 10ක්
+
+*2024-06-05 13:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197418) · `si`
+
+දේශගුණික කලාප අනුව උද්භිද උද්‍යාන 10ක් පිහිටවීමට සැලසුම් කර ඇති බව අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන මහතා පවසයි.
+
+අග්‍රාමත්‍යවරයා අද (05) පාර්ලිමේන්තුවේදී පවසා සිටියේ, ගාල්ල, වව්නියාව, අම්පාර, පොළොන්නරුව, දෙණියාය යන ප්‍රදේශවල එම උද්භිද උද්‍යාන ව්‍යාප්ති ඇති කිරීමට සැලසුම් කර ඇති බවය.
+
+"උද්භිද උද්‍යාන 10ක් පිහිටවීමට සැලසුම් කරලා තියෙනවා. මේ වන විට උද්භිද උද්‍යාන ව්‍යාප්ති සැලසුම් කර ඇති ආකාරය, ගාල්ල - අක්මීමන කඩොලාන උද්භිද උද්‍යාන වව්නියාව උද්භිද උද්‍යානය අම්පාර, පොළොන්නරුව සහ දෙණියාය වැනි ප්‍රදේශවල සැලසුම් ගතව අපි අද ඉලක්ක ගත කරලා තිබෙනවා. ඒ විෂය පිළිබඳ මනා දැනුමක් ඇති ඒ කේෂ්ත්‍රයේ කාලයක් යෙදී කටයුතු කළ අය. ඒ නිසා එහි ප්‍රයෝජනය ප්‍රදේශවාසීන්ට පමණක් නොව රට පුරා විහිඳී සිටින ජනතාවටත් ඒ වගේම පාසල් යන දරුවන්ටත් ප්‍රයෝජනයට පරිවර්ථනය කරගන්න පුළුවන් වූ ඉලක්කයන් කරා අපි වැඩකරනවා."
+
+◼️
+
+[Data](articles/07157962.json)
 
 ---
 
@@ -176,6 +386,24 @@ Dayasiri Jayasekera filed a petition before the Western Province civil Appeal Hi
 
 ---
 
+### ஈழத் தமிழர்களுக்கு எதிராக அட்டூழிய சர்வதேசக் குற்றங்களை புரிந்த இலங்கைக்கு  15 ஆண்டுகளுக்கும் மேலாக சர்வதேச சட்டங்களை புறக்கணிக்க அனுமதி வழங்கப்பட்டுள்ளது - நாடுகடந்த தமிழீழ அரசாங்கம்
+
+*2024-06-05 12:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/185354) · `ta`
+
+சட்டபூர்வ தமிழீழத்திற்கான  அங்கீகாரம் சிறிலங்காத் தீவில் பொறுப்புக்கூறலுக்கு வழிவகுக்கும் என நாடு கடந்த தமிழீழ அரசாங்கம் தெரிவித்துள்ளது.
+
+மானிடத்திற்கு எதிரான குற்றங்கள் மற்றும் போர்க்குற்றங்களுக்காக ஹமாஸ் மற்றும் இஸ்ரேல் தலைவர்கள் இஸ்ரேலிய பிரதமர் உட்பட ஆகியோரை கைது செய்யக்கோரும் துணிச்சலான நடவடிக்கைக்காக சர்வதேச குற்றவியல் நீதிமன்ற(ICC )வழக்குத்தொடுநர் கரீம் கானை  நாடுகடந்த தமிழீழ அரசாங்கம் பாராட்டுகிறது.
+
+வழக்குத்தொடுநர் கரீம் கான் கூறியது போல் சர்வதேச சட்டம் மற்றும் ஆயுதப்போராட்ட சட்டங்கள் அனைவருக்கும் பொருந்தும் என்பதை நாங்கள் மீண்டும் கோடிட்டுக் காட்டுகிறோம்... எந்த ஒரு இராணுவமோ எந்த ஒரு தளபதியோ எந்த ஒரு அரச தலைவரோ குற்றங்களுக்கு தண்டனையின்றி செயல்பட முடியாது.
+
+அமெரிக்கவைச் சேர்ந்த முன்னாள் சர்வதேச குற்றவியல் நீதிமன்ற நீதிபதி தியோடர் மெரோன் மற்றும் அமல் குளூனிஉட்பட கலாச்சார மொழியியல் மற்றும் கலாச்சார பன்முகத்தன்மை கொண்ட 17 சிறந்த நிபுணர்களை உள்ளடக்கிய சர்வதேச சட்ட வல்லுநர்கள் குழு தங்கள் அறிக்கையில் “எந்த ஒரு போரும் சட்டத்தின் கைகளில் இருந்து தப்பமுடியாது என்று கூறியுள்ளார்கள்.
+
+...
+
+[Data](articles/b642f12b.json)
+
+---
+
 ### Child killed
 
 *2024-06-05 11:53:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மண்மேடு-விழுந்ததில்-குழந்தை-பலி/76-338477) · `ta`
@@ -272,15 +500,21 @@ It is noteworthy that Marine Police are conducting an investigation at the Marin
 
 ---
 
-### මැයි 15 දා සිට ආපදා මරණ 30ක්
+### 30 deaths for disaster from May 15
 
 *2024-06-05 11:28:13* · [`adalk`](https://www.ada.lk/breaking_news/මැයි-15-දා-සිට-ආපදා-මරණ-30ක්/11-410018) · `si`
 
-අයහපත් කාලගුණික තත්ත්වය හේතුවෙන් පසුගිය මස 15 වනදා සිට මේ දක්වා පුද්ගල මරණ 30ක් වාර්තා වී ඇතැයි ආරක්ෂක රාජ්‍ය අමාත්‍ය ප්‍රමිත බණ්ඩාර තෙන්නකෝන් මහතා පැවැසීය. ඔහු මේ බව සඳහන් කළේ අද (05) පාර්ලිමේන්තුවේදී ප්‍රකාශයක් කරමිනි.
+On May 15, adverse weather caused 30 fatalities. Minister Pinhase Bandara Tennakoon announced this in Parliament on May 5.
+
+🟩
+
+Official Minister Pinhase Bandara Tennakoon said that 30 deaths have been reported from the 15th of the adverse weather conditions.. He was speaking at a statement in Parliament today (05).
 
 ◼️
 
 [Data](articles/0f6c0c54.json)
+
+[Extended Data](ext_articles/0f6c0c54.ext.json)
 
 ---
 
@@ -831,26 +1065,6 @@ The Chief Medical Officer further stated to “ensure that fruits and vegetables
 [Data](articles/711f125d.json)
 
 [Extended Data](ext_articles/711f125d.ext.json)
-
----
-
-### Train derailment;Impact of coastal train services
-
-*2024-06-05 10:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/185346) · `ta`
-
-A train derailment at Fort Railway Station has halted coastal train services, disrupting all office trains according to the Railway Department.
-
-🟩
-
-Coastal train service has been blocked due to the derailment of the train at the Fort Railway Station.
-
-Due to this, all the office trains have been interrupted, the Railway Department said.
-
-◼️
-
-[Data](articles/1a8badcf.json)
-
-[Extended Data](ext_articles/1a8badcf.ext.json)
 
 ---
 
@@ -1963,287 +2177,5 @@ In the meantime, Colombo Dockyard will continue to build on the market recogniti
 [Data](articles/51e63b24.json)
 
 [Extended Data](ext_articles/51e63b24.ext.json)
-
----
-
-### SL’s financial market woes defy Colombo Dockyard growth targets
-
-*2024-06-05 04:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/SLs-financial-market-woes-defy-Colombo-Dockyard-growth-targets/155-284111) · `en`
-
-Colombo Dockyard says it remains cautiously optimistic that the country’s financial market will continue to stabilise
-
-Points out external pressure from global challenges as well as the lingering effects of Sri Lanka’s financial crisis negatively impacted its financial performance
-
-The global market demand for ship building and ship repairs looks promising in the near future. However, financial market problems in Sri Lanka will continue to pose a challenge to the growth targets of Colombo Dockyard PLC.
-
-The entity, which operates as Sri Lanka’s largest engineering facility leading in the business of ship repairs, shipbuilding, heavy engineering and offshore engineering with a Japanese collaboration said it remains cautiously optimistic that the country’s financial market will continue to stabilise.
-
-In the meantime, Colombo Dockyard will continue to build on the market recognition gained in 2023 to pursue future prospects.
-
-...
-
-[Data](articles/ec932a32.json)
-
-[Extended Data](ext_articles/ec932a32.ext.json)
-
----
-
-### Netherlands won Nepal by 6 wickets
-
-*2024-06-05 02:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/185340) · `ta`
-
-In the T20 World Cup match, the Netherlands beat Nepal by 6 wickets. The Netherlands made 109/4 in 18.5 overs chasing Nepal's 106 all out in 19.2 overs. Key performers included Mex O'Dut with 54 runs for Netherlands and Rohit Powdell with 35 runs for Nepal.
-
-🟩
-
-The Netherlands won by 6 wickets in the T20 World Cup for the T -Committee on Tuesday (04) at the Texas Talus Grand Private Stadium.
-
-Netherlands scored 109 runs for the loss of 4 wickets in 18.5 overs, targeting 107 runs for Nepal.
-
-The experienced Mex O'Dut was efficiently bowled out and scored 54 runs without losing the game.
-
-Vikramjit Singh scored 22 runs, Cyprint Englpres 14 runs and 11 runs without losing Bass de Lead.
-
-Nepal captain Powdell missed the easiest grip of O'Dud when the total number was 89 runs in the 18th over.
-
-O'Dadout and Bass de Lead, who won the next over in the next over, confirmed the victory.
-
-Tipendra Singh Ayree took one wicket for 6 runs, Lazal Kami took one wicket for 18 runs and Abinash Phara took one wicket for 29 runs.
-
-Nepal scored 106 runs for the loss of all wickets in 19.2 overs.
-
-Team captain Rohit Powdell scored 35 runs. Karan KC is better than him. Gulzan Ja scored 14 runs and Anil Sah 11 runs.
-
-...
-
-[Data](articles/0d0e3884.json)
-
-[Extended Data](ext_articles/0d0e3884.ext.json)
-
----
-
-### UK - Scotland Competition is abandoned by rain
-
-*2024-06-05 02:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/185339) · `ta`
-
-The 9th T20 World Cup match between the UK and Scotland in Barbados was abandoned due to rain. This marks the second time in history that a match between these teams has been affected by weather, following a similar incident in 2008. Scotland's batting performance was impressive, scoring 90 runs in just 10 overs without losing a wicket, despite a rain-delayed start. Key contributors were Michael Jones with 45 runs off 30 balls and George Manse with 41 runs off 31 balls. The Duckworth-Lewis method set the UK's revised target to 109 runs.
-
-🟩
-
-The B Group of the 9th T20 World Cup chapter of the Barbados, Brijdown Kensington Oval between the UK and Scotland was abandoned by the rains on Tuesday (04).
-
-The first international ODI match between the two teams in 2008 was abandoned by rain.
-
-Scottish scored 90 runs without the loss of wicket in a match, which was delayed by rain and restricted to 10 overs.
-
-Scottish, who decided to bat first in a 52 -minute delay in the rain due to rain, was disrupted by the rains when it rained 51 runs in 6.2 overs.
-
-When the game was suspended, Michael Jones did not lose 30 runs and George Manse 18.
-
-When the game resumed after about 2 hours, the team was reported to be 10 overs.
-
-In the remaining 3.4 overs, Scottish, who scored a further 39 runs, increased the total number to 90 runs.
-
-Michael Jones did not play 45 off 30 balls and George Manse 41 off 31 balls.
-
-Following this, the UK's success target was set to be 109 runs according to the Duckworth Louis system.
-
-◼️
-
-[Data](articles/c61ac6dd.json)
-
-[Extended Data](ext_articles/c61ac6dd.ext.json)
-
----
-
-### The President will strengthen the economy
-
-*2024-06-05 02:35:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-பொருளாதாரத்தை-பலப்படுத்துவார்/175-338462) · `ta`
-
-Rural roads development Minister Sivanesathurai Chandrakanthan supports President Ranil Wickremesinghe, stating his leadership is crucial for solving economic challenges and guiding the nation through current global issues. He emphasizes the need for unity and President Wickremesinghe's ability to build a robust economic framework if re-elected. The minister also highlights the President's efforts towards addressing minority concerns and plans for constitutional reforms, expressing optimism for progress in the coming year.
-
-🟩
-
-President Ranil Wickremesinghe is the only leader who can complete the economic problems and lead the country on the right path, said rural roads development Minister Sivanesathurai Chandrakanthan.
-
-He said this at a media briefing held at the Presidential Media Center yesterday.As he further stated,
-
-Currently people believe in the good situation of the country. If the country is to move forward, you must firmly embrace everyone beyond personal preferences. Similarly, we see President Ranil Wickremesinghe as a leader who can take the country to the right place with the existing global problems.. So if he is re -elected president with the support of the people, he will create a strong economic structure.
-
-Importantly, I believe as a representative of a minority.
-
-...
-
-[Data](articles/e2b68d94.json)
-
-[Extended Data](ext_articles/e2b68d94.ext.json)
-
----
-
-### I went to the rule of the telephone and took charge of the regime
-
-*2024-06-05 02:28:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செருப்புக்-காலோடு-சென்று-ஆட்சியைப்-பொறுப்பேற்றேன்/175-338461) · `ta`
-
-President Ranil Wickremesinghe addressed a public meeting in Ruwanwella, highlighting his leadership during challenging times. He mentioned taking charge of the regime while others sought easy paths, emphasizing tough economic decisions and victories like IMF support.
-
-🟩
-
-President Ranil Wickremesinghe said that while the other leaders were looking for Sabbath to run, I went with the sandals and took charge of the regime.
-
-The President said this while attending a public meeting held at the Ruwanwella residence of Finance Minister Ranjith Siyambalapitiya.
-
-After attending several events in Ruwanwella area, the President attended the meeting. The people of the area also participated.
-
-President Ranil Wickremesinghe attended the public meeting and gathered on both the road and held a friendly discussion with the people.
-
-Meanwhile, President Ranil Wickremesinghe went to the prosperity of his gift in Ruwanwella and spent some time there.
-
-...
-
-[Data](articles/e706fbf5.json)
-
-[Extended Data](ext_articles/e706fbf5.ext.json)
-
----
-
-### A 24 -year -old woman arrested with 5 grams of heroin in Vavuniya
-
-*2024-06-05 02:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/185337) · `ta`
-
-A 24-year-old woman was arrested in Vavuniya for possession of 5 grams of heroin, which she intended to sell. Led by Inspector Rizvi, police conducted a special operation resulting in her arrest. She will be charged and taken to court following further investigation.
-
-🟩
-
-A 24 -year -old woman was arrested on Tuesday, 04, with a 5 gram heroin in Vavuniya, police said.
-
-Police, led by Rizvi, in charge of the Vavuniya Chief Police Station, Rizvi, recovered 5 grams of heroin prepared for sale during a special operation in the Vavuniya area.
-
-The woman from the Vavuniya and Thonikkal area has been arrested for possessing heroin.. Police said the woman who was arrested after further investigations would be brought to court.
-
-◼️
-
-[Data](articles/1d9c7092.json)
-
-[Extended Data](ext_articles/1d9c7092.ext.json)
-
----
-
-### False doctors arrested in Jaffna
-
-*2024-06-05 02:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/185336) · `ta`
-
-A fake doctor in Jaffna, accused of defrauding foreign residents, has been arrested. The suspect, known for his relationships with school girls and receiving funds from overseas women, was caught with expensive jewelry and several high-end phones. Investigations reveal he used fake documents to commit fraud, involving land scams and impersonation. A larger gang is suspected to be behind him. Authorities are now probing his financial dealings.
-
-🟩
-
-The Jaffna and Magistrate's Magistrate has ordered the detention of a fake doctor in Jaffna on charges of fraudulently targeted by foreign residents.
-
-The person, with many school children, have maintained love affairs.He has been intimidated by women who live abroad and have received many lakhs of rupees.. Police investigations have also revealed that many women's private photos of the telephones rescued from the youth have been video.
-
-The young man from the Chunnakam area in Jaffna has introduced himself as a doctor and has been involved in several lakhs of rupees fraud by producing fake documents and targeting people living abroad.
-
-The youth was interrupted and arrested by the police while traveling in a miracle car in Jaffna on Monday.
-
-The young man was wearing a 15 -pound jewelry and had a cost of Rs.. Police also recovered 05 sophisticated phones and several bank cards.
-
-...
-
-[Data](articles/58bacfec.json)
-
-[Extended Data](ext_articles/58bacfec.ext.json)
-
----
-
-### Immediate relief;Cabinet authorization
-
-*2024-06-05 02:19:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உடனடி-நிவாரணம்-அமைச்சரவை-அங்கீகாரம்/175-338460) · `ta`
-
-The government has authorized immediate aid for disaster victims through an emergency cabinet paper, including house repairs and support from security forces, funded by the state.
-
-🟩
-
-The Emergency Cabinet paper has been approved for immediate relief to the people affected by heavy rains.
-
-The President and the Prime Minister decided to submit an emergency cabinet paper for immediate relief to the people affected by the disasters.
-
-The deed has been submitted to provide immediate relief to the affected people and the rehabilitation of the damaged houses with the help of the security forces at the expense of state expenses. (A)
-
-◼️
-
-[Data](articles/3fbff57c.json)
-
-[Extended Data](ext_articles/3fbff57c.ext.json)
-
----
-
-### There is no alternative to elections in democracy
-
-*2024-06-05 02:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/185335) · `ta`
-
-Elections are crucial in democracy, allowing citizens to choose their leaders and hold them accountable. However, the proposal to postpone Sri Lanka's presidential and parliamentary elections for two years faces significant backlash. Critics argue that extending the government's term undermines democracy and could suppress opposition. Economic recovery and international support are cited as reasons, but opponents warn that delaying elections could harm democratic gains and public trust.
-
-🟩
-
-It seems that government leaders are considering all the choices for being in office beyond the five -year term in accordance with the President and Parliament.United National Party General Secretary Palitha Range Bandara announced last week's idea of ​​postponing the presidential and parliamentary election for two years.. Significant assumptions have been made about the possibilities of postponing elections.In fact, it has been a part of political discussions for more than a year.
-
-The politics of politics until the economic recovery is confirmed that it is necessary to prevent and strengthen the benefits of the economic recovery
-
-Is the reasoning for the argument to be disabled. The basis of this argument is that the current government is suitable for ensuring the economic recovery and that its two -year operations are testifying.
-
-The International Monetary Fund and the International Community accepted that Sri Lanka's economic status is improvement
-
-...
-
-[Data](articles/4254667b.json)
-
-[Extended Data](ext_articles/4254667b.ext.json)
-
----
-
-### Indian teachers sow poison
-
-*2024-06-05 02:04:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்திய-ஆசிரியர்கள்-நஞ்சை-விதைக்கின்றனர்/175-338459) · `ta`
-
-Independent MP Wimal Weerawansa criticized Indian volunteer teachers in Sri Lanka's plantation schools, accusing them of spreading "toxic ideas" rather than education. He questioned whether the Ministry of Education had acted on intelligence reports about these issues and urged immediate action to address potential harm to students.
-
-🟩
-
-Opposition Independent MP Wimal Weerawansa said that two thousand teachers from India are engaged in voluntary teaching activities in plantation schools and are engaged in toxic ideas instead of education among students.
-
-He was speaking to the Minister of Education on Tuesday (04) in Parliament.
-
-There is a shortage of teachers in plantation schools. This is why more than two thousand people from India have been engaged in voluntary teaching activities in plantation schools in the past.. Our country's intelligence unit has also reported.
-
-The Ministry of Education may have done this as a solution to the shortage of teachers in schools. But according to intelligence reports, Indian teachers have pointed out that the plantation students are poisoning in some way.. It has been expressed by the media.
-
-He said that when we get the other outsiders' assistance on a voluntary basis, we are not in affection for the teacher.
-
-...
-
-[Data](articles/e1ef9500.json)
-
-[Extended Data](ext_articles/e1ef9500.ext.json)
-
----
-
-### Rishad Bathiudeen should take immediate steps to release the exam results of Zahira College students in Trincomalee -
-
-*2024-06-05 02:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/185334) · `ta`
-
-Rishad Bathiudeen urges immediate release of Zahira College, Trincomalee students' exam results, citing unfair treatment due to religious practices during exams. He calls for investigation into the incident and demands transparency from education officials.
-
-🟩
-
-Steps should be taken to take immediate steps to address the examination of the students of Zahira College, Trincomalee District. All Ceylon People's Congress leader Rishad Bathiudeen said that the authorities should also investigate the cause.
-
-He said this while addressing the debate on the women's reinforcement bill held in Parliament on Tuesday (04).
-
-We have been talking about the incident with the school principal and a victim of a student from Zahira College, Trincomalee, this year, with the suspension of the 70 students who wrote the GCE Advanced Level Examination from Trincomalee.. 70 students have written the exam at the school called Zenjosab, Trincomalee. The allegation against them is that they wrote the exams in the Islamic manner when they were writing the exam.
-
-...
-
-[Data](articles/9400a586.json)
-
-[Extended Data](ext_articles/9400a586.ext.json)
 
 ---

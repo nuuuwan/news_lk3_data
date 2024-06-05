@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-05 17:54:52**
+As of **2024-06-05 18:12:44**
 
 ## Newspaper Stats
 
-*Scraped **28,616** Articles*
+*Scraped **28,619** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,9 +13,9 @@ dbsjeyarajcom | 273
 bbccomsinhala | 278
 newsfirstlk | 363
 islandlk | 1,542
-economynextcom | 1,627
+economynextcom | 1,629
 dailyftlk | 1,687
-adalk | 2,439
+adalk | 2,440
 adaderanalk | 3,251
 tamilmirrorlk | 3,362
 virakesarilk | 4,400
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,599
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,615 (100.0%) of 28,616 articles have been extended.
+28,616 (100.0%) of 28,619 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ The petitioner states that several Clauses of the Bill have been included so as 
 ...
 
 [Data](articles/41fa080f.json)
+
+[Extended Data](ext_articles/41fa080f.ext.json)
 
 ---
 
@@ -69,6 +71,28 @@ There were two-year-old man and 37 and 46-year-old women were remanded.
 [Data](articles/27e75a23.json)
 
 [Extended Data](ext_articles/27e75a23.ext.json)
+
+---
+
+### Sri Lanka women legislators in gender pay gap survey
+
+*2024-06-05 17:13:00* · [`economynextcom`](https://economynext.com/sri-lanka-women-legislators-in-gender-pay-gap-survey-166395/) · `en`
+
+ECONOMYNEXT – A Women’s Caucus in Sri Lanka’s parliament has commissioned a survey on gender pay gaps with the intention of bringing legislation to narrow the gap, the group’s Chairperson Dr Sudarshani Fernandopulle said.
+
+“We are conducting a survey to identify the places that have a gender pay gap, so we can bring in necessary legislation to minimise it,” Fernandopulle said during a debate to pass a bill on Womens’ Empowerment.
+
+Though salary scales in the government sector are equal regardless of gender, it is not so in the private sector.
+
+“Women are paid less than men for doing the same job.” Equality has not been achieved by appeals alone and legislation was necessary, she said.
+
+“No matter how advanced our women are thanks to free education and free healthcare, their participation in formal employment is still at 35 percent.”
+
+While state agencies set equal pay, women in decision making roles were still low within them, Fernandopulle said.
+
+...
+
+[Data](articles/0f0ef787.json)
 
 ---
 
@@ -105,6 +129,42 @@ The provincial directors have been handed over to schools that have been used as
 [Data](articles/b2782fa4.json)
 
 [Extended Data](ext_articles/b2782fa4.ext.json)
+
+---
+
+### Sri Lanka stocks close up, John Keells sees foreign selling
+
+*2024-06-05 17:05:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-john-keells-sees-foreign-selling-166418/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Wednesday, data on its site showed.
+
+The broader All Share Index closed up 0.71 percent, or 85.45 points, at 12,189; while the more liquid S&P SL20 Index closed up 0.69 percent, or 24.49 points, at 3,593.
+
+Turnover was 1.2 billion. Most of this came from the banks (Rs372mn), capital goods (Rs273mn), and materials (Rs201mn) stocks.
+
+John Keells Holdings Plc saw the most active volumes (Rs222mn) traded in the day. Around 165 of this was foreign selling, market participants said. The share closed down at 203.00.
+
+“The positive momentum continued today, with conglomerates and banks the biggest contributors to the index. But turnover is still about 26 percent lower than the monthly average of 1.7 billion,” market participants said.
+
+Amana Bank Plc, which has announced a share consolidation, closed up at 2.40.
+
+...
+
+[Data](articles/1015df35.json)
+
+---
+
+### අපරාධකාරයෝ දෙදෙනෙක් අත්අඩංගුවට
+
+*2024-06-05 16:58:23* · [`adalk`](https://www.ada.lk/breaking_news/අපරාධකාරයෝ-දෙදෙනෙක්-අත්අඩංගුවට/11-410027) · `si`
+
+ඩුබායි හි සැගව සිටින සංවිධානාත්මක අපරාධකරුවන් සහ මෙරට මත්ද්‍රව්‍ය ජාලය මෙහෙයවන ජෝති රූබන් සහ සේදවත්තේ කසුන් නමැත්තන්ගේ සමීපතමයන් දෙදෙනකු විදේශීය රටක නිශ්පාදිත පිස්තෝල ගිනි අවියක් උණ්ඩ 54 ක් සහ හොරොයින් සමග වැල්ලම්පිටිය කොටුවිල සහ අවිස්සාවේල්ල මීගහවත්ත ප්‍රදේශයේ දී අත්අඩංගුවට ගත් බව අපරාධ පරීක්ෂණ දෙපාර්තුමේන්තුවේ මනුෂ්‍ය ඝාතන සහ සංවිධානාත්මක අපරාධ විමර්ශනය ඒකකය පවසයි.
+
+අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ මනුෂ්‍ය ඝාතන සහ සංවිධානාත්මක අපරාධ විමර්ශන ඒකකයේ අධ්‍යක්ෂ ජ්‍යෙෂ්ඨ පොලිස් අධිකාරි ලකී රන්දෙණිය මහතාගේ උපදෙස් මත විදෙස්ගතව සිටිමින් මෙරට අපරාධ ජාලය සහ මත්ද්‍රව්‍ය ජාවාරම්වල නිරත වෙමින් මනුෂ්‍ය ඝාතන සිදු කරනු ලබන අපරාධකරුවන් පිළිබඳ සිදුකළ විශේෂ විමර්ශනයකදී අලගෝරම් ජෝති රූබන් සහ සේදවත්තේ කසුන් යන අය සම්බන්ධයෙන් සිදුකල විමර්ශණයේදී මෙම සැකකරුවන් දෙදෙනා අත් අඩංගුවට ගැනීමට හැකිව ඇත.
+
+...
+
+[Data](articles/e10e60e6.json)
 
 ---
 
@@ -2199,75 +2259,5 @@ Accordingly, all liquor stores in Central Nuwarakam, East Nuwarakam and Mihintal
 [Data](articles/f109639f.json)
 
 [Extended Data](ext_articles/f109639f.ext.json)
-
----
-
-### Rainfall in many provinces
-
-*2024-06-05 09:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/185341) · `ta`
-
-Heavy rainfall and thunderstorms are predicted for several provinces including Western, Sabaragamuwa, Central, Southern, and North Western regions. The Department of Meteorology warns of potential impacts during thunderstorms, advising caution. Seas from Kankesanthurai to Puttalam, Colombo, and Galle may experience rough conditions due to increased wind speeds and occasional turbulence. Fishermen and the navy are urged to exercise vigilance.
-
-🟩
-
-The Department of Meteorology has said that rainfall is expected in the Western, Sabaragamuwa, Central, Southern and North Western provinces.
-
-Meanwhile, rain or thunderstorms are likely to occur in some areas in the evening or night, the department said.
-
-The public is asked to take adequate precautions to reduce the impact of temporarily during thunderstorms during thunderstorms.
-
-Rainfall or thunderstorms will occur in many parts of the seas from Kankesanthurai to Puttalam, Colombo and Galle.. Rain or thunderstorms are likely to occur in some parts of other seas around the country.
-
-The wind speed in the seas from Mullaithivu to Kankesanthurai, Mannar via Puttalam and Pottuvil Pottuvil can be increased by 50-60 km per hour.
-
-The seas from Mullaithivu to Kankesanthurai, Mannar via Mannar and Pottuvil are occasionally turbulent.
-
-The navy and fishermen are also asked to be careful in this regard.
-
-During the thunderstorm, the sea is temporarily blowing and the sea is very turbulent.
-
-◼️
-
-[Data](articles/2ab2ef6b.json)
-
-[Extended Data](ext_articles/2ab2ef6b.ext.json)
-
----
-
-### ’Kukul Chaminda’ arrested over assault on 4-year-old child
-
-*2024-06-05 09:07:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Kukul-Chaminda-arrested-over-assault-on-4-year-old-child/108-284144) · `en`
-
-Trincomalee, June 5 (Daily Mirror) - The suspect identified as Kukul Chaminda alias Bibile Chaminda, who was wanted for the brutal assault on a 4-year-old child, has been arrested by the Police, along with his wife and another woman.
-
-Police initiated investigations following the circulation of a video on social media which went viral, depicting the suspect's ruthless assault on the 4-year-old child.
-
-A neighbour had recorded the video which was released on social media, of the particular suspect brutally assaulting the child while he was eating at his home.
-
-Police said the 45-year-old suspect was arrested by the STF and Welioya Police early this morning in the Pulmoddai area. The two women were arrested on charges of aiding the suspect.
-
-◼️
-
-[Data](articles/6e2d751d.json)
-
-[Extended Data](ext_articles/6e2d751d.ext.json)
-
----
-
-### University non-academic staff to continue strike action
-
-*2024-06-05 08:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/99669/university-non-academic-staff-to-continue-strike-action-) · `en`
-
-The University Trade Union Joint Committee (UTUJC) has announced that university non-academic employees will continue their trade union action.
-
-K.L.D.G. Richmond, the co-secretary of the Inter-University Trade Union Federation, stated that the discussion with the State Minister of Higher Education, Dr Suren Raghavan regarding their demands and other professional issues ended without a solution.
-
-“Proposals were presented to provide solutions from the side of the government. But hopefully, as a last resort, we need something in writing for this. We hope to end the strike as soon as that circular is given. Until this is granted, the strike will continue. The strike has been going on for 34 days now,” said Richmond.
-
-◼️
-
-[Data](articles/730e1a96.json)
-
-[Extended Data](ext_articles/730e1a96.ext.json)
 
 ---

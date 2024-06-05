@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-06 02:19:00**
+As of **2024-06-06 02:34:20**
 
 ## Newspaper Stats
 
-*Scraped **28,681** Articles*
+*Scraped **28,682** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,635
 dailyftlk | 1,687
 adalk | 2,448
 adaderanalk | 3,255
-tamilmirrorlk | 3,370
+tamilmirrorlk | 3,371
 virakesarilk | 4,412
 dailymirrorlk | 4,553
 adaderanasinhalalk | 4,606
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,606
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,681 (100.0%) of 28,681 articles have been extended.
+28,681 (100.0%) of 28,682 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,24 @@ The 50th anniversary of the first supremacist of the Tamil nation who fought as 
 [Data](articles/4c540f00.json)
 
 [Extended Data](ext_articles/4c540f00.ext.json)
+
+---
+
+### ’கல்வி முறைமை பிரயோசனமற்றது’
+
+*2024-06-06 00:55:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கல்வி-முறைமை-பிரயோசனமற்றது/175-338512) · `ta`
+
+இலங்கையின் தற்போதைய கல்வி முறைமை நாட்டுக்கோ, பிள்ளைகளுக்கோ பிரயோசனமற்றதாகவே இருக்கின்றது என்று எதிர்க்கட்சி பாராளுமன்ற உறுப்பினர் ரோஹினி குமாரி கவிரட்ன தெரிவித்தார்.
+
+பாராளுமன்றத்தில் புதன்கிழமை (05) நடைபெற்ற கல்வித்துறையில் நிலவும் பிரச்சினைகள் தொடர்பான சபை ஒத்திவைப்பு வேளை விவாதத்தை ஆரம்பித்து வைத்து உரையாற்றும் போதே ரோஹினி குமாரி கவிரட்ன எம்.பி இவ்வாறு கூறினார்.
+
+கொவிட் தொற்றுப் பரவல் மற்றும் பொருளாதார நெருக்கடி நிலைமையால் பாதிக்கப்பட்ட கல்வித்துறை இன்னும் வழமைக்கு திரும்பவில்லை. குறித்த காலப்பகுதியில் பொதுப் பரீட்சைகளை நடத்த முடியாதிருந்தது. கற்றல் நடவடிக்கைகளை சரியான காலத்தில் நிறைவு செய்ய முடியாமையே இதற்கு காரணமாக அமைந்துள்ளது.
+
+இதனால் கஷ்டப் பிரதேச பாடசாலை மாணவர்கள் பெரிதும் பாதிக்கப்பட்டுள்ளனர். இதேவேளை கல்வித் துறையில் ஆசிரியர்கள் உள்ளிட்டோரின் சம்பளம் தொடர்பான முரன்பாடுகள் உள்ளிட்ட பல்வேறு பிரச்சினைகள் உள்ளன. அவற்றை தீர்ப்பதற்கு அரசாங்கம் நடவடிக்கை எடுக்க வேண்டும் என்று கோருகின்றோம்.
+
+...
+
+[Data](articles/f9fdaebd.json)
 
 ---
 
@@ -2243,29 +2261,5 @@ The Democratic People's Liberation Front, we have joined the Democratic Liberati
 [Data](articles/a37ef19f.json)
 
 [Extended Data](ext_articles/a37ef19f.ext.json)
-
----
-
-### People who seek pipe water to the villages of Wanneri and
-
-*2024-06-05 13:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/185357) · `ta`
-
-Villagers in Wanneri, Vannerikkulam, and Anaivundan face worsening water issues, affecting their daily lives and schooling. The community requests a pipeline solution to address the crisis, impacting over 2,000 families and disrupting education for nearly 500 students. They urge the National Water Supply and Drainage Board to intervene.
-
-🟩
-
-The villagers of Vannerikkulam and Anaivundan from the Karachi Divisional Secretariat Division of Kilinochchi have requested the public to provide pipeline supply to their villages.
-
-The land and water of the villages have been affected and that the situation is increasing and the situation is increasing day by day.
-
-Due to this crisis, the general public has been traveling long distances and receiving drinking water in military camps and temples.There are 1,650 families from about 480 families and 1,365 families from 439 families in the village of Vannerikkulam.
-
-There are two schools, Vannerikkulam and Annivundan Iyenarpuram. There are 254 students in the school and 169 students at the Vannerikulam school.It has also been pointed out that their school budget and learning activities are also affected due to the water problem in these villages.
-
-...
-
-[Data](articles/a70fb389.json)
-
-[Extended Data](ext_articles/a70fb389.ext.json)
 
 ---

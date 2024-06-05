@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-05 14:05:00**
+As of **2024-06-05 14:19:14**
 
 ## Newspaper Stats
 
-*Scraped **28,567** Articles*
+*Scraped **28,569** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 363
 islandlk | 1,542
 economynextcom | 1,624
 dailyftlk | 1,687
-adalk | 2,432
-adaderanalk | 3,243
+adalk | 2,433
+adaderanalk | 3,244
 tamilmirrorlk | 3,360
 virakesarilk | 4,391
 dailymirrorlk | 4,529
@@ -26,11 +26,31 @@ adaderanasinhalalk | 4,587
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,567 (100.0%) of 28,567 articles have been extended.
+28,567 (100.0%) of 28,569 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-05 (Wednesday)
+
+### Modi and allies to meet after India election verdict, key ally pledges support
+
+*2024-06-05 13:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/99676/modi-and-allies-to-meet-after-india-election-verdict-key-ally-pledges-support) · `en`
+
+A key ally of Indian Prime Minister Narendra Modi pledged support to him on Wednesday and was set to attend a meeting to discuss forming a coalition government, boosting Modi’s chances of a record-equalling third term in office.
+
+Modi’s Hindu nationalist party lost its outright majority in parliament in a surprise election verdict on Tuesday, and he will need support from partners in the National Democratic Alliance (NDA) to form the government.
+
+On Wednesday, the Telugu Desam Party (TDP), a key regional player in the southern state of Andhra Pradesh which is in the alliance, said it stood firmly with Modi and his party.
+
+“We are with the NDA, I will be attending the meeting in Delhi today,” Chandrababu Naidu, the leader of the TDP, told reporters.
+
+The NDA won 293 seats in 543-member lower house of parliament, more than the 272 needed to form a government.
+
+...
+
+[Data](articles/3e10d436.json)
+
+---
 
 ### Step-motherly treatment for Sri Lankan team in US: Sajith tells Parliament
 
@@ -182,9 +202,9 @@ The baby was rescued with the help of neighbors and admitted to the Kegalle Teac
 
 *2024-06-05 11:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/99675/indian-couple-drown-at-kirinda-beach) · `en`
 
-A foreign national couple have reportedly drowned while sea bathing at the Kirinda Beach.
+A foreign national couple reportedly drowned while sea bathing at the Kirinda Beach.
 
-Police reported that the two individuals were rescued while drowning but passed away upon admission to the hospital.
+Police reported that the two individuals were rescued while drowning after being dragged away by strong waves, but passed away upon admission to the hospital.
 
 The deceased are identified as a 35-year-old male and a 33-year-old female who are Indian nationals.
 
@@ -252,6 +272,18 @@ It is noteworthy that Marine Police are conducting an investigation at the Marin
 
 ---
 
+### මැයි 15 දා සිට ආපදා මරණ 30ක්
+
+*2024-06-05 11:28:13* · [`adalk`](https://www.ada.lk/breaking_news/මැයි-15-දා-සිට-ආපදා-මරණ-30ක්/11-410018) · `si`
+
+අයහපත් කාලගුණික තත්ත්වය හේතුවෙන් පසුගිය මස 15 වනදා සිට මේ දක්වා පුද්ගල මරණ 30ක් වාර්තා වී ඇතැයි ආරක්ෂක රාජ්‍ය අමාත්‍ය ප්‍රමිත බණ්ඩාර තෙන්නකෝන් මහතා පැවැසීය. ඔහු මේ බව සඳහන් කළේ අද (05) පාර්ලිමේන්තුවේදී ප්‍රකාශයක් කරමිනි.
+
+◼️
+
+[Data](articles/0f6c0c54.json)
+
+---
+
 ### Over 25,000 dengue cases reported so far in 2024
 
 *2024-06-05 11:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/99674/over-25000-dengue-cases-reported-so-far-in-2024) · `en`
@@ -281,6 +313,8 @@ However, he said that by the end of May there was a slight increase in patients 
 Applications for the re-scrutiny of 2023 (2024) G.C.E. Advanced Level Examination results will be accepted from 05 June to 19 June and will only be accepted online, the Department of Examinations announced.
 
 Candidates are requested to submit their applications online through the department’s websites: www.doenets.lk or www.onlineexams.gov.lk
+
+Guidelines for application of re-scrutiny of A/L results by Adaderana Online on Scribd
 
 ◼️
 
@@ -2211,49 +2245,5 @@ We have been talking about the incident with the school principal and a victim o
 [Data](articles/9400a586.json)
 
 [Extended Data](ext_articles/9400a586.ext.json)
-
----
-
-### Sri Lanka fails to cross 900,000 milestone in tourist arrivals end May
-
-*2024-06-05 02:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-fails-to-cross-900-000-milestone-in-tourist-arrivals-end-May/108-284110) · `en`
-
-A group of tourists viewing paintings displayed by local artists down Greenpath in Colombo - Pic by Kushan Pathiraja
-
-Sri Lanka failed to cross the 900,000 milestone in tourist arrivals in the five month period ended in May, as the country trailed the arrival target by 13 percent or 133,983 arrivals at the end of the month.
-
-In May, tourist arrivals to island nation jumped by 34 percent Year-on-Year (YoY) to 112,128 tourists.  However, Sri Lanka missed the target set by Sri Lanka Tourism Development Authority (SLTDA) for the month by 14.4 percent or 18,984 arrivals in the month.
-
-Accordingly, the country failed to cross the 900,000 arrival milestone as predicted by the authorities. In the five-month period, Sri Lanka welcomed 896,779 tourists falling behind the target of 1.03 million tourists in the period.
-
-Sri Lanka Tourism Development Authority (SLTDA) Chairman Priantha Fernando earlier expressed confidence on crossing 900,000 tourist arrivals at end of May.
-
-...
-
-[Data](articles/2b8ba78f.json)
-
-[Extended Data](ext_articles/2b8ba78f.ext.json)
-
----
-
-### The amount of money is not enough for families affected
-
-*2024-06-05 01:59:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாதித்த-குடும்பங்களுக்கு-ஒதுக்கும்-தொகை-போதாது/175-338458) · `ta`
-
-Opposition Leader Sajith Premadasa criticized the government's relief fund allocation for families hit by natural disasters, stating it's insufficient for today's living costs. He urged for immediate changes to the relief circular, especially as the southwest monsoon causes widespread flooding. Premadasa emphasized the need for quick aid distribution and a review of relief amounts to match the rising cost of goods. He also suggested leveraging AI for better disaster management, including predictive models for future floods.
-
-🟩
-
-Opposition Leader Sajith Premadasa, pointing out that the amount allocated to the families affected by natural disasters is not enough for the current cost of living, asked to change this relief circular.
-
-He said this while addressing a special statement in Parliament on Tuesday (04).
-
-As the southwest monsoon has begun, millions of people are trapped due to the floods caused by an unexpected weather.The relief provided to people affected by this disaster must be given quickly in the short term. Many people have lost food and even clothes. So?To immediately carry out a formal program. He said it was not enough to allocate Rs 10 lakh in addition to the district secretariats.
-
-...
-
-[Data](articles/5f97b276.json)
-
-[Extended Data](ext_articles/5f97b276.ext.json)
 
 ---

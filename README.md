@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-05 20:05:04**
+As of **2024-06-05 20:18:59**
 
 ## Newspaper Stats
 
-*Scraped **28,641** Articles*
+*Scraped **28,643** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 islandlk | 1,542
 economynextcom | 1,631
 dailyftlk | 1,687
-adalk | 2,444
+adalk | 2,445
 adaderanalk | 3,253
-tamilmirrorlk | 3,363
+tamilmirrorlk | 3,364
 virakesarilk | 4,406
 dailymirrorlk | 4,540
 adaderanasinhalalk | 4,602
@@ -26,11 +26,29 @@ adaderanasinhalalk | 4,602
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,639 (100.0%) of 28,641 articles have been extended.
+28,641 (100.0%) of 28,643 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-05 (Wednesday)
+
+### சில பாடசாலைகளுக்கு நாளையும் விடுமுறை
+
+*2024-06-05 19:55:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சில-பாடசாலைகளுக்கு-நாளையும்-விடுமுறை/175-338492) · `ta`
+
+இரத்தினபுரி மற்றும் நிவித்திகல கல்வி வலயத்திற்குட்பட்ட சில பாடசாலைகளை நாளையும் மூடுவதற்கு சப்ரகமுவ மாகாண சபை தீர்மானித்துள்ளது.
+
+இதன்படி, இரத்தினபுரி கல்வி வலயத்தின் இரத்தினபுரி, குருவிட்ட மற்றும் எஹெலியாகொட பிரிவுகளுக்கு உட்பட்ட அனைத்து பாடசாலைகளும் நிவித்திகல கல்வி வலயத்தின் எலபாத மற்றும் அயகம பிரிவுகளுக்கு உட்பட்ட அனைத்து பாடசாலைகளும் மூடப்படவுள்ளன.
+
+இதேவேளை, காலி மற்றும் மாத்தறை மாவட்டங்களில் உள்ள அனைத்து பாடசாலைகளும் நாளைய தினம் திறக்க தீர்மானிக்கப்பட்டுள்ளது.
+
+எனினும் வெள்ளத்தினால் சேதமடைந்த பாடசாலைகள் மற்றும் இடம்பெயர்ந்தவர்களுக்கான நிலையங்களாகப் பயன்படுத்தப்படும் பாடசாலைகள் தொடர்பில் தீர்மானிக்கும் அதிகாரம் பிராந்தியக் கல்விப் பணிப்பாளர்களுக்கு வழங்கப்பட்டுள்ளதாகவும் தென் மாகாண கல்விச் செயலாளர் குறிப்பிட்டுள்ளார்.  R
+
+◼️
+
+[Data](articles/39f04179.json)
+
+---
 
 ### TNA will talk to all candidates before making final decision
 
@@ -49,6 +67,8 @@ Further, he said the TNA is against fielding a Tamil candidate at the Presidenti
 ◼️
 
 [Data](articles/dfee1f66.json)
+
+[Extended Data](ext_articles/dfee1f66.ext.json)
 
 ---
 
@@ -69,6 +89,8 @@ The association president has urged all canteen and restaurant owners to pass on
 ◼️
 
 [Data](articles/5e2def0b.json)
+
+[Extended Data](ext_articles/5e2def0b.ext.json)
 
 ---
 
@@ -353,6 +375,24 @@ For New Zealand, Cyprus Republic, the Maldives, the Maldives, the Republic of Si
 [Data](articles/68bd89e2.json)
 
 [Extended Data](ext_articles/68bd89e2.ext.json)
+
+---
+
+### ගැරඩි ඇල්ලෙන් පහළට පැන්න තරුණ යුවළක් බේරා ගනියි
+
+*2024-06-05 17:34:11* · [`adalk`](https://www.ada.lk/breaking_news/ගැරඩි-ඇල්ලෙන්-පහළට-පැන්න-තරුණ-යුවළක්-බේරා-ගනියි/11-410029) · `si`
+
+කොත්මලේ ගැරඩි ඇල්ලෙන් පහලට පැන සිය දිවි හානි කර ගැනිමට තැත් කරන ලද තරුණ යුවලක් බේරා ගැනිමට එම ප්‍රදේශයේ පිරිසක් පියවර ගෙන ඇත.
+
+මෙම තත්වයන් පිලිබදව කරන ලද විමසිමකදි අදහස් දැක්වු කොත්මලේ පොලිසියේ නිලධාරියකු පවසන ලද්දේ 05වන දින පුස්සැල්ලාව ප්‍රොටෙක් වතුයායේ වයස අවුරුදු 18ක තරුණ යුවලක් සිය දිවි හානි කර ගැනිම සදහා කොත්මලේ ගැරඩි ඇල්ලෙන් පහලට පැන ඇති බවත්ය.
+
+එම අවස්ථාවේදි එය දුටු ප්‍රදේශවාසින් පිරිසක් විසින් මෙම තරුණ යුවල බේරා ගෙන ඇති බවත් මෙම දෙදෙනා අතර පෙම් සබදතාවයක් මත හට ගෙන ඇති ආරවුලක් මත මෙම දෙදෙනා මෙසේ සිය දිවි හානි කර ගැනිමට තැත් කර ඇති බවට මුලීක පරික්ෂවලින් හෙලිව ඇති බවත්ය.
+
+මෙසේ බේරා ගත් තරුණ යුවල ප්‍රථිකාර සදහා පුස්සල්ලාව ප්‍රාදේශීය රෝහලට ඇතුලත් කිරිමෙන් පසු වැඩි දුර ප්‍රථිකාර සදහා ගම්පල මහ රෝහල වෙත මාරු කර යැවිමට පියවර ගෙන ඇති බවත් මේ පිලිබදව කොත්මලේ පොලිසිය වැඩි දුර පරික්ෂන මෙහෙයවන බවද එම නිලධාරියා වැඩි දුරටත් පැවසිය
+
+◼️
+
+[Data](articles/864992e8.json)
 
 ---
 
@@ -2245,57 +2285,5 @@ Some of the advantages extended to Sri Lankan students include the provision to 
 [Data](articles/c00fae87.json)
 
 [Extended Data](ext_articles/c00fae87.ext.json)
-
----
-
-### New bill to protect the rights of the persons of the persons
-
-*2024-06-05 10:54:44* · [`adalk`](https://www.ada.lk/breaking_news/ආදීවාසී-ජනතාවගේ-අයිතිවාසිකම්-ආරක්ෂා-කිරීමට-නව-පනතක්/11-410016) · `si`
-
-A new bill aimed at protecting the rights of indigenous peoples, formulated by Judicial and Prison Constitutional Reforms, was discussed at the Parliamentary Complex. It addresses issues faced by locals and aims to secure their rights systematically. The Minister of Justice and Prison Affairs, along with the Minister of Wildlife and Forest Conservation, participated in the discussion, emphasizing the importance of the bill in solving problems of indigenous communities. A regulatory system to protect wildlife in forests is also being established, focusing on the needs of these communities. The bill, aligned with the United Nations Charter, seeks to legalize these protections and improve the livelihoods of indigenous peoples in various provinces.
-
-🟩
-
-Judicial and Prison Constitutional Reforms have taken measures to formulate a new bill to provide the problems of the persons to the problems of the local people and securing their rights system.A special discussion was held at the Parliamentary Complex yesterday afternoon.
-
-Minister of Justice and Prison Affairs Minister, Dr. Wijayadasa Rajapakse and Wildlife and Forest Conservation and Wildlife and Forest Conservation and Wildlife and Wildlife and Wildlife and Forest Pavithradevi Wanniarachchi were held with the participation of Aboriginal Leader Uruwariage Vanilla.
-
-The Minister of Justice has already been produced before the Cabinet of Justice, which has been prepared to solve the problems of the indigenous people.
-
-The Wildlife Department has set up a regulatory system to protect the drugs to protect the drugs in the forests to promote the drugs in the forests.
-
-...
-
-[Data](articles/7103ba40.json)
-
-[Extended Data](ext_articles/7103ba40.ext.json)
-
----
-
-### When other leaders were looking for running shoes, I was thrown into slippers and accepted the government
-
-*2024-06-05 10:43:18* · [`adalk`](https://www.ada.lk/breaking_news/අනෙක්-නායකයන්-ධාවන-සපත්තු-සොයද්දි-මම-සෙරෙප්පු-දමාගෙන-ගොස්-ආණ්ඩුව-භාරගත්තා/11-410015) · `si`
-
-In a unique approach, President Ranil Wickremesinghe highlighted his government's efforts amidst economic challenges, contrasting their situation with other leaders seeking "running shoes" while he was thrust into "slippers." He emphasized the importance of ability and trust over politics, aiming to stabilize the country's economy. Despite facing skepticism about resource allocation during economic downturns, the government increased salaries for public servants, indicating a commitment to supporting the populace. The President urged unity and cooperation to navigate through the crisis, advocating for a non-partisan approach focused on economic recovery and transformation.
-
-🟩
-
-When other leaders were looking for running shoes, I was thrown into slippers and accepted the government
-
-Dealing with the ability and trust, not the politics and trust was able to overcome the economy of the country - President.
-
-President Ranil Wickremesinghe said that when other leaders were looking for their shoes, the government was able to bring the economy to the country and the power and trust in the past.
-
-The President also said that the responsibility of everyone is to support the program to soil politics and to assist the economy of the country.
-
-President Ranil Wickremesinghe made this statement participating at a public briefing at the Ruwanwella home at the Ruwanwella home of Minister Ranvil Siyambalapitiya today (04).
-
-The President who recalled that the politics of the country had collapsed with the economic collapse of the country, the President of Sri Lanka's politics also created a government without politics for the first time.
-
-...
-
-[Data](articles/868f21a9.json)
-
-[Extended Data](ext_articles/868f21a9.ext.json)
 
 ---

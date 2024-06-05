@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-05 07:59:56**
+As of **2024-06-05 08:20:04**
 
 ## Newspaper Stats
 
-*Scraped **28,489** Articles*
+*Scraped **28,497** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,11 +12,11 @@ colombotelegraphcom | 258
 dbsjeyarajcom | 273
 bbccomsinhala | 278
 newsfirstlk | 363
-islandlk | 1,536
+islandlk | 1,542
 economynextcom | 1,620
 dailyftlk | 1,686
 adalk | 2,424
-adaderanalk | 3,234
+adaderanalk | 3,236
 tamilmirrorlk | 3,351
 virakesarilk | 4,387
 dailymirrorlk | 4,505
@@ -26,25 +26,65 @@ adaderanasinhalalk | 4,574
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,483 (100.0%) of 28,489 articles have been extended.
+28,489 (100.0%) of 28,497 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-05 (Wednesday)
 
-### විශ්වවිද්‍යාල අනධ්‍යයන සේවක වර්ජනය තවදුරටත්
+### Funds set aside for repairing flood-damaged roads – State Minister
+
+*2024-06-05 08:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/99668/funds-set-aside-for-repairing-flood-damaged-roads-state-minister) · `en`
+
+State Minister for Rural Roads Development, Sivanesathurai Chandrakanthan says that the President has directed the allocation of around Rs. 03 billion for the immediate repair of roads damaged by the recent flood due to adverse weather conditions.
+
+The state minister made these remarks while addressing the press briefing themed “Collective Path to a Stable Country” held at the Presidential Media Centre on Tuesday (04).
+
+He said the government has allocated approximately Rs. 12 billion to enhance the rural economy, initiating a program to construct rural roads and bridges.
+
+The Ministry has made significant progress, with about 65% of the work completed, and the remaining portion set to be completed in the coming days, bringing substantial benefits to the village, he said.
+
+...
+
+[Data](articles/e7e8a7c2.json)
+
+---
+
+### Spells of showers expected in several provinces
+
+*2024-06-05 08:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/99667/spells-of-showers-expected-in-several-provinces) · `en`
+
+The Meteorology Department says several spells of showers will occur in Western, Sabaragamuwa, Central, Southern and North-western provinces.
+
+Showers or thundershowers may occur at a few places elsewhere of the island in the evening or night, it said.
+
+The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/c129d124.json)
+
+---
+
+### University of Academic Work in progress
 
 *2024-06-05 07:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197403) · `si`
 
-සිය වෘත්තීය සමිති ක්‍රියාමාර්ගය අඛණ්ඩව තවදුරටත් ක්‍රියාත්මක කරන බව අන්තර් විශ්වවිද්‍යාල වෘත්තීය සමිති මහා සම්මේලනය පවසයි.
+Inter University Trade Unions' strike continues despite two rounds of talks with the government, which have not yielded a written agreement. Attorney General Mr. Richman confirms no resolution from discussions with Minister Suren Sanghavan. The strike began May 2 and remains active, awaiting a final written proposal from the government to conclude.
 
-එහි සමලේකම් කේ.එල්.ඩී රිච්මන් මහතා සඳහන් කළේ, සිය වෘත්තීය ගැටලු සම්බන්ධයෙන් උසස් අධ්‍යාපන රාජ්‍ය අමාත්‍ය සුරේන් රාඝවන් මහතා සමග කළ සාකච්ඡාව විසඳුමකින් තොරව අවසන් වූ බවය.
+🟩
 
-"මැයි 2 ආරම්භ කළ අඛණ්ඩ වැඩවර්ජනය තවමත් ක්‍රියාත්මකයි. ඊයේ දිනයේ රාජ්‍ය අමාත්‍ය රාඝවන් මහතා සමග සාකච්ඡා වට දෙකක් පැවත්වුවා. රජය පැත්තෙන් විසඳුම් ලබා දෙන යෝජනා ඉදිරිපත් වුණා. නමුත් අපි බලාපොරොත්තු වෙනවා අවසාන විසඳුම ලෙස අපිට මේකට ලිඛිතව දෙයක් අවශ්‍යයි. ඒ චක්‍රලේඛය ලබාදුන් වහාම අපි වැඩවර්ජනය අවසන් කිරීමට බලාපොරොත්තු වෙනවා. මෙය ලබාදෙන කල් වැඩවර්ජනය තවදුරටත් ක්‍රියාත්මකයි. මේ වනවිට දින 34ක් ක්‍රියාත්මකයි වැඩවර්ජනය."
+The Inter University Trade Unions states that their trade union action will continue further.
+
+Attorney General Mr. Richman said that the discussion with Minister of Higher Education Suren Sanghavan has ended without a solution.
+
+"The continuous strike started May 2 is still in place. Two rounds of discussions with State Minister Special Meeting held yesterday. The proposals provided by the government came forward. But we hope we need something in writing as the last solution. As soon as you have given that circular, we hope to end the strike. The strike is still in progress. The strike is currently in operation. "
 
 ◼️
 
 [Data](articles/5f34a7e4.json)
+
+[Extended Data](ext_articles/5f34a7e4.ext.json)
 
 ---
 
@@ -111,6 +151,8 @@ In their petition, the petitioners stated that the proposed bill attempts to cha
 ...
 
 [Data](articles/3cd8ee56.json)
+
+[Extended Data](ext_articles/3cd8ee56.ext.json)
 
 ---
 
@@ -550,23 +592,29 @@ Sivakanandan Sindhu, aged 27, from the eighth region of Punguduthivu, Punguduthi
 
 ---
 
-### ’செருப்புக் காலோடு சென்று ஆட்சியைப் பொறுப்பேற்றேன்’
+### I went to the rule of the telephone and took charge of the regime
 
 *2024-06-05 02:28:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செருப்புக்-காலோடு-சென்று-ஆட்சியைப்-பொறுப்பேற்றேன்/175-338461) · `ta`
 
-மற்றைய தலைவர்கள் ஓடுவதற்கு சப்பாத்து தேடிக்கொண்டிருந்த வேளையில் நான் செருப்புக் காலோடு சென்று ஆட்சியைப் பொறுப்பேற்றுக்கொண்டேன் என்று ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+President Ranil Wickremesinghe addressed a public meeting in Ruwanwella, highlighting his leadership during challenging times. He mentioned taking charge of the regime while others sought easy paths, emphasizing tough economic decisions and victories like IMF support.
 
-நிதி இராஜாங்க அமைச்சர் ரஞ்சித் சியம்பலாபிட்டியவின் ருவன்வெல்ல இல்லத்தில் நேற்று நடைபெற்ற மக்கள் சந்திப்பில் கலந்து கொண்டிருந்த போதே ஜனாதிபதி மேற்கண்டவாறு தெரிவித்தார்.
+🟩
 
-ருவன்வெல்ல பிரதேசத்தில் இடம்பெற்ற பல நிகழ்ச்சிகளில் கலந்து கொண்ட பின்னர் ஜனாதிபதி இந்த பொதுக்கூட்டத்தில் கலந்துகொண்டனர். பெருந்திரளான பிரதேச மக்களும் இதில் கலந்துகொண்டனர்.
+President Ranil Wickremesinghe said that while the other leaders were looking for Sabbath to run, I went with the sandals and took charge of the regime.
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்க பொதுக் கூட்டத்தில் பங்கேற்றுவிட்டு திரும்பும் வழியில் பாதையின் இருமருங்கிலும் கூடியிருந்ததோடு மக்களுடன் சிநேகபூர்வமாக கலந்துரையாடினார்.
+The President said this while attending a public meeting held at the Ruwanwella residence of Finance Minister Ranjith Siyambalapitiya.
 
-இதேவேளை, ருவன்வெல்லவிலுள்ள தனது கொள்ளுப்பாட்டியின் வளவுக்கும் ஜனாதிபதி ரணில் விக்கிரமசிங்க சென்றிருந்ததோடு அங்கு சிறிது நேரத்தை களித்தார்.
+After attending several events in Ruwanwella area, the President attended the meeting. The people of the area also participated.
+
+President Ranil Wickremesinghe attended the public meeting and gathered on both the road and held a friendly discussion with the people.
+
+Meanwhile, President Ranil Wickremesinghe went to the prosperity of his gift in Ruwanwella and spent some time there.
 
 ...
 
 [Data](articles/e706fbf5.json)
+
+[Extended Data](ext_articles/e706fbf5.ext.json)
 
 ---
 
@@ -618,19 +666,25 @@ The young man was wearing a 15 -pound jewelry and had a cost of Rs.. Police also
 
 ---
 
-### உடனடி நிவாரணம்; அமைச்சரவை அங்கீகாரம்
+### Immediate relief;Cabinet authorization
 
 *2024-06-05 02:19:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உடனடி-நிவாரணம்-அமைச்சரவை-அங்கீகாரம்/175-338460) · `ta`
 
-பலத்த மழை காரணமாக பாதிக்கப்பட்ட மக்களுக்கு உடனடி நிவாரணம் வழங்குவதற்காக சமர்ப்பிக்கப்பட்ட அவசர அமைச்சரவை பத்திரத்திற்கு அங்கீகாரம் வழங்கப்பட்டுள்ளது.
+The government has authorized immediate aid for disaster victims through an emergency cabinet paper, including house repairs and support from security forces, funded by the state.
 
-அனர்த்தங்களால் பாதிக்கப்பட்ட மக்களுக்கு உடனடி நிவாரணம் வழங்குவதற்கான அவசர அமைச்சரவை பத்திரத்தை சமர்ப்பிக்க ஜனாதிபதி, பிரதமர் ஆகியோர் தீர்மானித்தனர்.
+🟩
 
-பாதிக்கப்பட்ட மக்களுக்கு உடனடி நிவாரணம் வழங்குவதற்கும் முற்றாக சேதமடைந்த வீடுகளை அரச செலவில் பாதுகாப்பு படையினரின் உதவியுடன் புனரமைப்பதற்கும் உரிய பத்திரம் சமர்ப்பிக்கப்பட்டுள்ளது. (a)
+The Emergency Cabinet paper has been approved for immediate relief to the people affected by heavy rains.
+
+The President and the Prime Minister decided to submit an emergency cabinet paper for immediate relief to the people affected by the disasters.
+
+The deed has been submitted to provide immediate relief to the affected people and the rehabilitation of the damaged houses with the help of the security forces at the expense of state expenses. (A)
 
 ◼️
 
 [Data](articles/3fbff57c.json)
+
+[Extended Data](ext_articles/3fbff57c.ext.json)
 
 ---
 
@@ -1376,21 +1430,27 @@ Meanwhile, the Indian Prime Minister thanked the supporters for his victory.
 
 ---
 
-### විදුලි බල පනතට ශ්‍රේෂ්ඨාධිකරණය දුන් සංශෝධන පිළිගන්නවා
+### Amendments to the Supreme Court for the Electricity Act
 
 *2024-06-04 20:32:11* · [`adalk`](https://www.ada.lk/breaking_news/විදුලි-බල-පනතට-ශ්‍රේෂ්ඨාධිකරණය-දුන්-සංශෝධන-පිළිගන්නවා/11-410010) · `si`
 
-නව විදුලි බල පනතට ශ්‍රේෂ්ඨාධිකරණය විසින් ලබාදුන් සියලු සංශෝධන විදුලි බල හා බලශක්ති අමාත්‍යාංශය විසින් පිළිගන්නා බව විදුලි බල හා බලශක්ති අමාත්‍ය කංචන විජේසේකර මහතා පවසයි.
+The Ministry of Power and Energy announced that the Supreme Court has made amendments to the Electricity Act. These changes were discussed in court three weeks ago and will continue to be reviewed by committees.
 
-මේ සම්බන්ධයෙන් වනසංශෝධන මිට සති තුනකට පමණ ඉහතදි ශ්‍රේෂ්ඨාධිකරණය තුළ පනත විවාදයට ගත් අවස්ථාවේදි සිදුකිරීමට එකග වූ බවද අමාත්‍යවරයා සඳහන් කරයි.
+🟩
 
-එසේම ඉතිරි සංශෝධනද කාරක සභා අවස්ථාවේදී සිදුකරන බවද අමාත්‍යවරයා සඳහන් කරයි.
+The Ministry of Power and Energy Kanchana Wijesekara says that all amendments issued by the Supreme Court to the New Tower Act.
 
-Accordingly the amendments as it is suggested by the Supreme Court will be moved during the committee stage for approval.
+The Minister said that the forest agreed to the debate in the Supreme Court about three weeks ago, the Minister said.
+
+The remaining amendments will also be carried out at the Committees.
+
+Accorrecting Amendments as the Mostndments AS Sugreme Court Will Beve Durging The Committe Stage for APPPITTETE STAVEE.
 
 ◼️
 
 [Data](articles/a693f98f.json)
+
+[Extended Data](ext_articles/a693f98f.ext.json)
 
 ---
 
@@ -1413,6 +1473,54 @@ According to the report issued by the DMC, 13 districts have been affected, and 
 [Data](articles/69ca6d9f.json)
 
 [Extended Data](ext_articles/69ca6d9f.ext.json)
+
+---
+
+### plc al-safa: pioneering shariah-compliant finance in sri lanka for two decades, now expanding nationwide with cutting-edge digital solutions
+
+*2024-06-04 20:25:00* · [`islandlk`](http://island.lk/plc-al-safa-pioneering-shariah-compliant-finance-in-sri-lanka-for-two-decades-now-expanding-nationwide-with-cutting-edge-digital-solutions/) · `en`
+
+As the first full-service non-banking Islamic finance provider in Sri Lanka, People’s Leasing & Finance PLC (PLC) Al-Safa Unit has been offering reliable and trustworthy Shariah-compliant products and services since 2005. Over the past two decades, it has built a reputation for high-quality, customer-centric services. Al-Safa serves Sri Lankans seeking comprehensive Shariah-compliant alternative financial solutions.
+
+Since its inception, PLC Al-Safa has been committed to innovation within the framework of Shariah-compliant finance. The company enhanced its dedication to compliance and innovation by strengthening the Shariah Supervisory Board. This allows PLC Al-Safa to regularly and continuously review all its products, services, and processes, ensuring they not only comply with Shariah principles but also offer maximum value, flexibility, and innovation.
+
+...
+
+[Data](articles/75f127fa.json)
+
+---
+
+### lolc Finance paves the way for real-time deposits through mCash collaboration
+
+*2024-06-04 20:24:00* · [`islandlk`](http://island.lk/lolc-finance-paves-the-way-for-real-time-deposits-through-mcash-collaboration/) · `en`
+
+LOLC Finance PLC, the largest non-banking financial institution in the country, has announced an innovative collaboration with mCash, Sri Lanka’s largest mobile money platform, enabling customers to make savings deposits through the extensive network of mCash retailers. The Memorandum of Understanding (MOU) signed recently marks a significant step towards enhancing the accessibility and convenience of LOLC Finance savings accounts.
+
+This shared initiative empowers customers to conveniently deposit cash into their LOLC Finance savings accounts securely and efficiently. Once customers provide their Savings Account Number, Mobile Number, and the desired Deposit Amount to a mCash retailer, the retailer, using the mCash platform, can facilitate the payment process. The savings account is then credited in real-time. Both the customer and the retailer receive timely notifications confirming the success or failure of the transaction.
+
+...
+
+[Data](articles/6b498855.json)
+
+---
+
+### Cargills unveils redesigned ‘Go Green’ bag
+
+*2024-06-04 20:21:00* · [`islandlk`](http://island.lk/cargills-unveils-redesigned-go-green-bag/) · `en`
+
+Cargills announced the launch of its newly redesigned ‘Go Green’ bag, now available at all Cargills Retail stores. Cargills, the market leader in the modern trade/supermarket industry, was the first to introduce reusable bags in the sector with the original Go Green bag in 2007.
+
+The redesigned Cargills Go Green bag reflects the company’s ongoing commitment to phasing out polythene bags, which pose significant environmental hazards. Polythene bags also contribute to the drain on foreign currency from the country as it is imported. This initiative is part of the company’s broader strategy to encourage eco-friendly consumer habits and reduce the reliance on single-use plastic bags.
+
+Stuart Chapman appointed chairman of HNB Assurance and HNB General Insurance
+
+Cargills steps forward to purchase bumper tomato harvest, ensures farmer sustainability
+
+Havelock City Mall built at a cost of USD 130 million opens for business
+
+...
+
+[Data](articles/a47ae893.json)
 
 ---
 
@@ -1457,6 +1565,38 @@ However, market players say people who do not have proper qualification have bee
 [Data](articles/6bb25c4a.json)
 
 [Extended Data](ext_articles/6bb25c4a.ext.json)
+
+---
+
+### Stuart Chapman appointed chairman of HNB Assurance and HNB General Insurance
+
+*2024-06-04 20:19:00* · [`islandlk`](http://island.lk/stuart-chapman-appointed-chairman-of-hnb-assurance-and-hnb-general-insurance/) · `en`
+
+HNB Assurance PLC (HNBA) and HNB General Insurance Limited (HNBGI) are pleased to announce the appointment of Mr. Stuart Chapman as the new Chairman, succeeding Mrs. Rose Cooray. With an exemplary career spanning four decades in multinational and local companies across diverse industries and particularly Insurance, Chapman brings a wealth of expertise to the organization.
+
+Dialog named Sri Lanka’s Most Loved Service and Telco Brand by LMD Brands Annual
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
+
+[Data](articles/1b80ad56.json)
+
+---
+
+### IMF third tranche hopes inject buoyancy to bourse
+
+*2024-06-04 20:16:00* · [`islandlk`](http://island.lk/imf-third-tranche-hopes-inject-buoyancy-to-bourse/) · `en`
+
+The stock market bounced back yesterday expecting that the IMF second review meeting, scheduled for June 12, will approve the third tranche of the IMF’s EFF for Sri Lanka. Investors look forward to the continued support of all countries for a successful review to unlock the third tranche, which is expected to further enhance economic stability, growth, and reform efforts, market analysts said.
+
+Amid those developments stock market activities were more positive and bullish and both indices moved upwards. The All Share Price Index went up by 61.95 points, while S and P SL20 rose by 16.96 points. Turnover stood at Rs 901 million with one crossing. The crossing took place in NTB, which crossed 250,000 shares to the tune of Rs 30.1 million; its shares traded at Rs 120.50.
+
+...
+
+[Data](articles/a698b6de.json)
 
 ---
 
@@ -2025,179 +2165,5 @@ The BJP faced setbacks in strongholds and ended up with lower tallies in Uttar P
 [Data](articles/42c00e28.json)
 
 [Extended Data](ext_articles/42c00e28.ext.json)
-
----
-
-### India coach Dravid to step down after T20 World Cup
-
-*2024-06-04 18:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/India-coach-Dravid-to-step-down-after-T20-World-Cup/108-284080) · `en`
-
-(BBC) - India coach Rahul Dravid is to stand down when his contract expires after the T20 World Cup.
-
-Former batter Dravid says he will not reapply for the position after it was advertised by governing body the BCCI last month.
-
-The 51-year-old succeeded Ravi Shastri in 2021 and led India to the World Test Championship and 50-over World Cup finals last year, losing to Australia on both occasions.
-
-"Unfortunately, the kind of schedules and where I find myself at this stage in my life, I don't think I'll be able to reapply," Dravid said.
-
-"I love doing the job. I've really enjoyed coaching India and I think it's a truly special job to do."
-
-As well as those two defeats by Australia Dravid oversaw a run to the semi-finals of the 2022 T20 World Cup, where India were beaten by eventual winners England.
-
-They have not won any global tournament since the 2013 Champions Trophy.
-
-...
-
-[Data](articles/f11197a7.json)
-
-[Extended Data](ext_articles/f11197a7.ext.json)
-
----
-
-### Police seeking public assistance
-
-*2024-06-04 17:59:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொதுமக்களின்-உதவியை-நாடும்-பொலிஸார்/175-338433) · `ta`
-
-Since May 29, police have been seeking public help to locate Yasoda Hansani Kahaduduwa Arachchi, 26, and her 44-year-old daughter, Sadurya Doshni Liyanage Fernando, who went missing. The case was reported by the husband to the Katunayake police, who are now investigating. Anyone with information is urged to contact the Katunayake OIC at 071-8591639 or the Katunayake Police Station at 011-22522222.
-
-🟩
-
-The police have sought the help of the public to find the missing woman and her daughter since May 29.
-
-Police are investigating the complaint lodged by the Katunayake police by the husband of the missing woman.
-
-26 -year -old Yasoda Hansani Kahaduduwa Arachchi and 44 -year -old daughter and Sadurya Doshni Liyanage Fernando have disappeared.
-
-The police have stated that the two men should be informed of the Katunayake OIC - 071-8591639 and the Katunayake Police Station - 011-22522222.
-
-◼️
-
-[Data](articles/323711fb.json)
-
-[Extended Data](ext_articles/323711fb.ext.json)
-
----
-
-### Sri Lanka seeks public-private partnership to train Olympic contenders: minister
-
-*2024-06-04 17:52:00* · [`economynextcom`](https://economynext.com/sri-lanka-seeks-public-private-partnership-to-train-olympic-contenders-minister-166228/) · `en`
-
-ECONOMYNEXT – Sri Lanka is considering a public private partnership to develop the skills of school level athletes for the 2032 Brisbane Olympics, cabinet spokesman minister Bandula Gunawardena said.
-
-“The Ministry of Education and the Ministry of Sports and Youth Affairs have planned to implement a joint program with the support of the private sector and civil society to make Sri Lanka a medal winning country in the 2032 Brisbane Olympics,” Gunawardena told reporters on Tuesday.
-
-“We need to have technologically-developed private businesses and entrepreneurs investing in this,” Gunawardena said.
-
-Sri Lanka’s cabinet of ministers approved the proposal to seek a public-private partnership this week.
-
-It is also expected to provide opportunities for talented athletes to participate in the 2028 Olympics in Los Angeles. (Colombo/Jun4/2024)
-
-◼️
-
-[Data](articles/6ac36f22.json)
-
-[Extended Data](ext_articles/6ac36f22.ext.json)
-
----
-
-### Iranamadu irrigation should be established - Kilinochchi District Response Government Agent S. Muralitharan!
-
-*2024-06-04 17:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/185309) · `ta`
-
-Kilinochchi District Government Agent S. Muralitharan advocates for a permanent irrigation system for the Iranamadu Pond, crucial for local farming. Highlighting annual issues due to lack of a sustainable mechanism, he calls for collaboration between the Departments of Irrigation and Agrarian Services to address farmer concerns effectively, ensuring equitable access to water resources.
-
-🟩
-
-Kilinochchi District Government Agent S. Muralitharan said that a sustainable mechanism should be established for irrigation.
-
-He said this while addressing a special discussion on solving the conflict in the outskirts.
-
-The Iranamadu Pond for Kilinochchi District. Farming from the pond is the main place in the district.
-
-But there is no permanent mechanism for minoring under the pond. Every problem arises year after year.
-
-The permanent mechanism for this irrigation project is to be created. As the Department of Irrigation refers to, when the air doors are opened, the mood of the people should be embodied.
-
-The water of the Iranamadu pond should not only reach a certain number of people, but the mechanism should be created for the widespread people.
-
-New problems arise annually. The Department of Irrigation should create a permanent mechanism with the advice of the Department of Agrarian Services.
-
-After this minority, the problem should be made through a proper mechanism.
-
-...
-
-[Data](articles/7a003c4b.json)
-
-[Extended Data](ext_articles/7a003c4b.ext.json)
-
----
-
-### Workers work in protest against the activities of the plantation officer in Nanuoya!
-
-*2024-06-04 17:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/185307) · `ta`
-
-Workers at Nanuoya estate protested against the plantation officer's actions, including forcing a retired worker back to labor, reducing workdays, and not addressing minor errors.
-
-🟩
-
-Nanuoya Divisional Estate workers belonging to the Talawakelle Police Division have been assigned to work on Tuesday (04).
-
-A retired worker at the Nanuoya estate division of the Talawakelle Nanuoya estate, which is under the Kelaniweli Plantation Management Agency, has to return to work on Monday (03). The worker who denied it had tried to attack the worker inappropriately and tried to attack him.
-
-The workers have been involved in protesting against this contradiction, and the fact that the garden's retired worker is being worked out, and the lack of time has been given any time, and the reducing the workdays to reduce work days, and the minor mistakes.
-
-◼️
-
-[Data](articles/6f906f3d.json)
-
-[Extended Data](ext_articles/6f906f3d.ext.json)
-
----
-
-### Notice of schools closing tomorrow
-
-*2024-06-04 17:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197390) · `si`
-
-Due to adverse weather conditions, all schools in the Ratnapura education zone, including those in the Nivitigala Education Zone, will close tomorrow. The decision was made by the Sabaragamuwa Provincial Education Secretary, who plans to consult with the Department of Meteorology afterward.
-
-🟩
-
-The Sabaragamuwa Provincial Education Secretary says that all schools in the Ratnapura education zone will be closed tomorrow (05).
-
-The decision of the Sabaragamuwa Provincial Education has been informed of a statement.
-
-All schools belonging to the Nivitigala Education Zone and all schools belonging to the Nivitigala Education Zone have decided to close the day.
-
-This decision has been taken due to adverse weather conditions affected.
-
-The Sabaragamuwa Provincial Education Secretary further stated that the decision will be taken to hold the directors of the Department of Meteorological Dad after tomorrow.
-
-◼️
-
-[Data](articles/c9275395.json)
-
-[Extended Data](ext_articles/c9275395.ext.json)
-
----
-
-### Immediate steps should be taken to provide boat facilities to the Malwana area affected by the flood - Harshana Rajakaruna
-
-*2024-06-04 17:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/185316) · `ta`
-
-Harshana Rajakaruna urges immediate action to provide boat services in flood-prone Malwana, Gampaha, highlighting the need for efficient relief distribution due to frequent flooding. He criticizes the current system for its inefficiency and calls for direct aid to victims, including cleaning contaminated water sources.
-
-🟩
-
-Malwana area is a frequent area of ​​flood disaster in Gampaha district. Opposition member Harshana Rajakaruna said that the ferry facilities they needed to carry out immediate relief measures during these disasters.
-
-13 Divisional Secretariats in Gampaha District have been affected by floods. Grama Niladhari retreats to provide relief to the victims as the flood disaster is reported in the circuit.. Flood disaster in Gampaha district can occur at any time. State officials gather to provide relief to victims in the event of a disaster. Then the victims do not get relief when they work according to the roundabout.
-
-Because all those affected by the flood disaster do not go to the camps. There are no disaster camps everywhere. So the revision of the roundabout should be made to provide relief to all the victims. At the same time, state authorities should take steps to provide basic assistance to the affected people who are not looking at the round of the roundabout.
-
-...
-
-[Data](articles/72733e8a.json)
-
-[Extended Data](ext_articles/72733e8a.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-05 22:18:58**
+As of **2024-06-05 22:34:28**
 
 ## Newspaper Stats
 
-*Scraped **28,652** Articles*
+*Scraped **28,653** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,542
 economynextcom | 1,631
 dailyftlk | 1,687
-adalk | 2,447
+adalk | 2,448
 adaderanalk | 3,254
 tamilmirrorlk | 3,366
 virakesarilk | 4,406
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,604
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,649 (100.0%) of 28,652 articles have been extended.
+28,652 (100.0%) of 28,653 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,19 +46,27 @@ He highly appreciated the assistance and cooperation that was readily facilitate
 
 [Data](articles/db1f6337.json)
 
+[Extended Data](ext_articles/db1f6337.ext.json)
+
 ---
 
-### ඉන්දියාවට 97ක ඉලක්කයක්
+### A target of 97 to India
 
 *2024-06-05 21:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197435) · `si`
 
-විස්සයි විස්ස ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ දැන් පැවැත්වෙන තරගයේ ඉන්දීය කණ්ඩායමට එරෙහිව ප්‍රථමයෙන් පන්දුවට පහරදුන් අයර්ලන්ත කණ්ඩායම සියලුදෙනා දැවී රැස්කරගත්තේ ලකුණු 96ක් පමණි.
+India narrowly missed winning the T20 World Cup, scoring 97 runs while Ireland made 96. Hardik Pandya contributed significantly with 27 runs and 3 crucial wickets.
 
-පන්දු යැවීමේදී හර්දික් පාන්ඩ්‍යා ලකුණු 27කා කඩුලු 3ක් දවාගැනීමට සමත්විය.
+🟩
+
+The Irish group scored 96 runs for the loss of the Twenty Twenty World Cup.
+
+Hardick Pandya scored 27 runs and 3 wickets.
 
 ◼️
 
 [Data](articles/5ddc5daa.json)
+
+[Extended Data](ext_articles/5ddc5daa.ext.json)
 
 ---
 
@@ -478,6 +486,22 @@ Accordingly, the price of a bunch, rice and rice parcel has been reduced, the pr
 
 ---
 
+### නවීන රේඩාර් පද්ධති ලංකාවට නෑ
+
+*2024-06-05 18:07:14* · [`adalk`](https://www.ada.lk/breaking_news/නවීන-රේඩාර්-පද්ධති-ලංකාවට-නෑ/11-410032) · `si`
+
+වර්ෂාව සම්බන්ධයෙන් නිවැරදිම පුරෝකතන ලබා දීමට ඉතා නවීන රේඩාර් පද්ධති තිබුණානම් පසුගිය දිනවලදි මිලි මීටර් 400 ක් තරම් වර්ෂාවක් ඇද වැටෙන බව ප්‍රකාශ කරන්නට ඉඩ තිබූනු බවත්  තමන් දන්නා තරමින් නවීන රේඩාර් පද්ධති මෙරට නොමැති බවත් භූ ගර්භ විද්‍යාව පිළිබඳ සම්මානිත මහාචාර්ය අතුල සේනාරත්න මහතා පවසයි. අද මහනුවරදි පැවති මාධ්‍ය හමුවකදි ඔහු මේ බව පැවැසීය.
+
+කෙසේ වෙතත් දැනට පවතින උපකරණ අනුව බොහෝ දුරට නිවැරදි පුරෝකතන ලබා දීමට නිලධාරීන් සමත්ව තිබෙන බවත් මෙතරම් විශාල වර්ෂාවක් මීට කලින් ලැබි නොතිබුණ බවත් ඔහු පැවැසීය.
+
+කලින් විශාල වර්ෂාපතන ඇති වි තිබුනත් වර්ෂාපතනය මනින නිවැරදි උපකරණ ඒ සමයේ තිබුණා ද කියන ප්‍රශ්නය තිබෙන බවද මහාචාර්‍යවරයා සෙඳහන් කෙල්ය.
+
+...
+
+[Data](articles/14c54339.json)
+
+---
+
 ### Law students in Sri Lanka mostly female, but President’s Counsel male: Eran
 
 *2024-06-05 18:00:00* · [`economynextcom`](https://economynext.com/most-law-students-female-but-lady-presidents-counsels-not-to-be-seen-eran-166374/) · `en`
@@ -522,21 +546,27 @@ For New Zealand, Cyprus Republic, the Maldives, the Maldives, the Republic of Si
 
 ---
 
-### කටුනායක සිටි අලුත් ජාවාරම්කරු
+### New racketeer of Katunayake
 
 *2024-06-05 17:53:21* · [`adalk`](https://www.ada.lk/breaking_news/කටුනායක-සිටි-අලුත්-ජාවාරම්කරු/11-410031) · `si`
 
-කටුනායක ගුවන් තොටුපොළ තුළ ඇති රථ ගාල් තුළ රැදී සිටිමින් , ගුවන් තොටුපොළ වෙත පැමිණෙන ගුවන් මගීන් රැගෙන එන විදේශීය මත්පැන් බෝතල් අඩු මිළට ලබා  ගනිමින් සිටි ජාවාරම්කරුවෙකු , ඔහු විසින් මිළට ගත් රුපියල් ලක්ෂ 15 ක් පමණ වටිනා , මත්පැන් බෝතල් 107 ක් ද සමග 05/05 දින උදෑසන අපරාධ පරීක්ෂණ දෙපාර්තමේන්තු නිලධාරීන් පිරිසක් විසින් අත් අඩංගුවට ගෙන තිබේ.
+A racketeer nabbed at Katunayake airport, aged 40, faces charges related to smuggling foreign liquor and phones. Arrested by CI agents, he will appear in Negombo Magistrate's Court on 05/05.
 
-මොහු 40 හැවිරිදි කටුනායක ප්‍රදේශයේ පදිංචිකරුවෙකි .මෙම ජාවාරම්කරු මෙම විදේශීය මත්පැන් බෝතල් මෙසේ ලබා ගෙන වෙනත් පිට පළාත් වල හෝටල් , රෙස්ටුරන්ට් වැනි ආයතන වෙත වැඩි මිළකට අලෙවි කිරීම සිදු කර ගෙන ගොස් තිබේ .
+🟩
 
-මෙසේ අත් අඩංගුවට ගත් විදේශීය නිෂ්පාදිත මත්පැන් බෝතල්  අතර ලේබල් - 5 , රෙඩ් ලේබල් , ජැක් ඩැනියෙල් සහ ටීචර්ස් යන වර්ග වලට අයත් විස්කි බෝතල් වැඩි වශයෙන් තිබුණි .
+A racketeer who has been purchased at the Katunayake airport, a racketeer who purchased a racketeer of Rs.A group of people arrested by a group of criminal investigations.
 
-මෙම  ජාවාරම්කරු සහ ඔහු සන්තකයේ තිබූ විදේශීය මත්පැන් බෝතල් තොගය 05/05 දින මීගමුව මහේස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමට නියමිතය .
+He was a 40-year-old resident of the Katunayake.
+
+Labels between foreign manufactured liquor bottles - 5, Red Labels, Jack Daniel and Telephones were more.
+
+The racketeer and his possession is to be produced before the Negombo Magistrate's Court on 05/05.
 
 ◼️
 
 [Data](articles/4569dbc6.json)
+
+[Extended Data](ext_articles/4569dbc6.ext.json)
 
 ---
 
@@ -2245,25 +2275,5 @@ Women are the leader of 26 countries in the world.
 [Data](articles/33917415.json)
 
 [Extended Data](ext_articles/33917415.ext.json)
-
----
-
-### Death toll due to inclement weather rises to 30: State Minister
-
-*2024-06-05 11:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Death-toll-due-to-inclement-weather-rises-to-30-State-Minister/108-284158) · `en`
-
-Parliament, June 5 (Daily Mirror)- The death toll due to the inclement weather has gone up to 30 as of today with one death being reported this morning, State Minister of Defence Pramitha Bandara Tennakoon said.
-
-He told Parliament that Rs. 25,000 has been granted to the families of the deceased for the funerals while discussions are in progress to grant another payment of compensation to the families of the deceased.
-
-Responding to a question by SLPP MP Akila Ellawala, he said 71 houses have been completely damaged while some 93,770 houses have been partially damaged.
-
-The Minister said steps have been taken to estimate the damages caused to the houses and that compensation will be paid to the affected after completing the estimating process.
-
-◼️
-
-[Data](articles/ea192ae1.json)
-
-[Extended Data](ext_articles/ea192ae1.ext.json)
 
 ---

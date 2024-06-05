@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-05 10:52:42**
+As of **2024-06-05 11:04:48**
 
 ## Newspaper Stats
 
-*Scraped **28,534** Articles*
+*Scraped **28,536** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 islandlk | 1,542
 economynextcom | 1,620
 dailyftlk | 1,687
-adalk | 2,426
+adalk | 2,427
 adaderanalk | 3,239
-tamilmirrorlk | 3,355
+tamilmirrorlk | 3,356
 virakesarilk | 4,390
 dailymirrorlk | 4,522
 adaderanasinhalalk | 4,581
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,581
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,531 (100.0%) of 28,534 articles have been extended.
+28,534 (100.0%) of 28,536 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -44,6 +44,8 @@ They said due to the derailment, the train services will operate with a consider
 
 [Data](articles/185c9f4d.json)
 
+[Extended Data](ext_articles/185c9f4d.ext.json)
+
 ---
 
 ### Netherlands register nervy win against Nepal; Rain abandons England-Scotland clash
@@ -58,21 +60,29 @@ The Netherlands have kicked off their ICC Men's T20 World Cup campaign with a 4-
 
 [Data](articles/f2a8c7bd.json)
 
+[Extended Data](ext_articles/f2a8c7bd.ext.json)
+
 ---
 
-### උසස් පෙළ ප්‍රතිඵල නැවත සමීක්ෂණය ගැන දැනුම්දීමක්
+### Notice of the A / L results again
 
 *2024-06-05 10:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197411) · `si`
 
-2023 / 2024 අපොස උසස් පෙළ විභාගයේ ප්‍රතිඵල නැවත සමීක්ෂණය සඳහා අයදුම්පත් කැඳවීම අදින් ආරම්භ වන බව විභාග දෙපාර්තමේන්තුව නිවේදනය කරයි.
+Applications for re-examining GCE A/L results open today, June 19th. Candidates are advised to follow the instructions provided by the Examinations Department.
 
-ඒ අනුව මාර්ගගත ක්‍රමවේදය ඔස්සේ අයදුම්කරුවන්ට ජූනි මස 19 වනදා දක්වා මේ සඳහා අයදුම් කළ හැකිය.
+🟩
 
-ඒ සඳහා පහළ උපදෙස් පිළිපඳින ලෙස ද විභාග දෙපාර්තමේන්තුව අපේක්ෂකයින්ට දැනුම්දෙයි.
+The Examinations Department announces that applications for the re-examination of the GCE A / L examination results of the GCE A / L results will commence today.
+
+Accordingly, applicants can apply for the applicants on the 19th of June 19th.
+
+The Examinations Department informs the candidates to obey the lower tips.
 
 ◼️
 
 [Data](articles/d9fded78.json)
+
+[Extended Data](ext_articles/d9fded78.ext.json)
 
 ---
 
@@ -99,6 +109,24 @@ The bodies were deposited in Debarawewa hospital and Kirinda Police are conducti
 [Data](articles/2e226414.json)
 
 [Extended Data](ext_articles/2e226414.ext.json)
+
+---
+
+### පොලිස් නිලධාරීන් දෙදෙනෙකු අත්අඩංගුවට
+
+*2024-06-05 10:08:42* · [`adalk`](https://www.ada.lk/breaking_news/පොලිස්-නිලධාරීන්-දෙදෙනෙකු-අත්අඩංගුවට/11-410013) · `si`
+
+සැකකරුවකු නිත්‍යානුකූල නොවන අයුරුන් අයුරින් අත්අඩංගුවට ගෙන අතුරුදන් කිරීම සම්බන්ධයෙන්  පොලිස් නිලධාරීන් දෙදෙනකු  අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ සමූහ මංකොල්ල විමර්ශන අංශය මගින් අත්අඩංගුවට ගෙන ඇතැයි පොලිස් මූලස්ථානය කියයි.
+
+මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ අලව්ව පොලිසියට අනුයුක්ත පොලිස් සැරයන්වරයෙකු සහ කොස්තාපල්වරයෙකි.
+
+2010 ජූලි මස 25 වැනි දින අලව්ව පොලිසියේ අපරාද අංශයේ ස්ථානාධිපතිවරයා ඇතුළු නිලධාරී කණ්ඩායමක් සමග කටු පොත  පොලිස් වසමේ වජිරවත්ත ප්‍රදේශයේදී ගනේ රාළලාගේ ශාන්ත සමරවිර යන සැකකරුව නිත්‍යනුකූල නොවන අයුරින් අත්අඩංගුවට ගෙන අයුතු සිරකර තැබීමෙන් පසුව සැකකරු අතුරුදන් කිරීම සම්බන්ධයෙන් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ සමූහ මංකොල්ල විමර්ශනා අංශයේදී මෙම නිලධාරීන් දෙදෙනා අත්අඩංගුවට ගත් බව පොලිස් මූලස්ථානය කියයි.
+
+සැකකරුවන් පොල්ගහවෙල මහේස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමට නියමිතය. අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ සමූහ මංකොල්ල විමර්ශන අංශය මගින් වැඩිදුර විමර්ශන පැවැත්වේ.
+
+◼️
+
+[Data](articles/64ad7fbd.json)
 
 ---
 
@@ -259,6 +287,28 @@ Vasantha Senadheera, senior geologist of the National Building Research Organiza
 [Data](articles/80ab8e94.json)
 
 [Extended Data](ext_articles/80ab8e94.ext.json)
+
+---
+
+### உயிரிழப்புகள் அதிகரிப்பு
+
+*2024-06-05 09:16:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உயிரிழப்புகள்-அதிகரிப்பு/175-338465) · `ta`
+
+நாட்டை பாதித்துள்ள சீரற்ற வானிலையினால் பாதிக்கப்பட்டவர்களின் எண்ணிக்கை 161,000ஐ தாண்டியுள்ளதாக அனர்த்த முகாமைத்துவ மத்திய நிலையம் தெரிவித்துள்ளது.
+
+உயிரிழந்தவர்களின் எண்ணிக்கை 21 ஆக அதிகரித்துள்ளதாக அதன் பணிப்பாளர் பிரதீப் கொடிப்பிலி குறிப்பிட்டுள்ளார்.
+
+இதேவேளை, களனி கங்கை, களுகங்கை மற்றும் அத்தனகலு ஓயா ஆகிய பகுதிகளில் ஏற்கனவே இருந்த அபாய நிலை படிப்படியாக குறைந்து வருவதாக நீர்ப்பாசனத் திணைக்களத்தின் பொறியியலாளர் சகுரா தில்தாரா தெரிவித்தார்.
+
+இதன் காரணமாக வெள்ளத்தால் பாதிக்கப்பட்ட கம்பஹா, ஜாஎல, வத்தளை, மினுவாங்கொட, கட்டான ஆகிய பகுதிகளில் இன்று படிப்படியாக நீர்மட்டம் குறையும் என எதிர்பார்க்கப்படுகிறது.
+
+இதேவேளை, களனி கங்கைப் படுகையின் தாழ்வான பகுதிகளான கடுவெல, பியகம, கொலன்னாவை, வத்தளை மற்றும் கொழும்பு ஆகிய பகுதிகளில் நீர் மட்டம் படிப்படியாகக் குறைந்து வருவதாகவும் அவர் மேலும் குறிப்பிட்டார்.
+
+மண்சரிவு அபாயம் தொடர்வதாக தேசிய கட்டிட ஆராய்ச்சி அமைப்பின் சிரேஷ்ட புவியியலாளர்​ வசந்த சேனாதீர தெரிவித்துள்ளார். R
+
+◼️
+
+[Data](articles/d1c536c5.json)
 
 ---
 
@@ -2149,43 +2199,5 @@ Accorrecting Amendments as the Mostndments AS Sugreme Court Will Beve Durging Th
 [Data](articles/a693f98f.json)
 
 [Extended Data](ext_articles/a693f98f.ext.json)
-
----
-
-### Flood warning issued for downstream areas of Attanagalu Oya basin
-
-*2024-06-04 20:28:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Flood-warning-issued-for-downstream-areas-of-Attanagalu-Oya-basin/108-284091) · `en`
-
-Colombo, June 4 (Daily Mirror) - A flood warning was issued for the lower valley of the downstream areas of the Attanagalu Oya basin for the next 48 hours, the Irrigation Department said.
-
-While issuing the warning, those living in low-lying areas of the Gampaha, Ja-ela, Katana, Wattala and Minuwangoda D/S divisions and motorists who use the roads adjacent to the areas are requested to be vigilant over sudden floods.
-
-Disaster management authorities are requested to take adequate precautions in this regard.
-
-Due to the worsening of the prevailing adverse weather, the total number of fatalities habe increased to 26 across the island while increasing the total number of affected people to 159,991, the Disaster Management Centre (DMC) said.
-
-According to the report issued by the DMC, 13 districts have been affected, and one person was reported missing.
-
-...
-
-[Data](articles/69ca6d9f.json)
-
-[Extended Data](ext_articles/69ca6d9f.ext.json)
-
----
-
-### plc al-safa: pioneering shariah-compliant finance in sri lanka for two decades, now expanding nationwide with cutting-edge digital solutions
-
-*2024-06-04 20:25:00* · [`islandlk`](http://island.lk/plc-al-safa-pioneering-shariah-compliant-finance-in-sri-lanka-for-two-decades-now-expanding-nationwide-with-cutting-edge-digital-solutions/) · `en`
-
-As the first full-service non-banking Islamic finance provider in Sri Lanka, People’s Leasing & Finance PLC (PLC) Al-Safa Unit has been offering reliable and trustworthy Shariah-compliant products and services since 2005. Over the past two decades, it has built a reputation for high-quality, customer-centric services. Al-Safa serves Sri Lankans seeking comprehensive Shariah-compliant alternative financial solutions.
-
-Since its inception, PLC Al-Safa has been committed to innovation within the framework of Shariah-compliant finance. The company enhanced its dedication to compliance and innovation by strengthening the Shariah Supervisory Board. This allows PLC Al-Safa to regularly and continuously review all its products, services, and processes, ensuring they not only comply with Shariah principles but also offer maximum value, flexibility, and innovation.
-
-...
-
-[Data](articles/75f127fa.json)
-
-[Extended Data](ext_articles/75f127fa.ext.json)
 
 ---

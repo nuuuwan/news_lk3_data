@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-05 15:04:53**
+As of **2024-06-05 15:19:06**
 
 ## Newspaper Stats
 
-*Scraped **28,589** Articles*
+*Scraped **28,590** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,542
 economynextcom | 1,624
 dailyftlk | 1,687
-adalk | 2,435
+adalk | 2,436
 adaderanalk | 3,245
 tamilmirrorlk | 3,361
 virakesarilk | 4,397
@@ -26,11 +26,29 @@ adaderanasinhalalk | 4,592
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,585 (100.0%) of 28,589 articles have been extended.
+28,589 (100.0%) of 28,590 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-05 (Wednesday)
+
+### යුවලක් ගැරඩි ඇල්ලෙන් පනී
+
+*2024-06-05 14:53:11* · [`adalk`](https://www.ada.lk/breaking_news/යුවලක්-ගැරඩි-ඇල්ලෙන්-පනී/11-410026) · `si`
+
+කොත්මලේ ගැරඩි ඇල්ලෙන් පහලට පැන සිය දිවි හානි කර ගැනිමට තැත් කරන ලද තරුණ යුවලක් බේරා ගැනිමට එම ප්‍රදේශයේ පිරිසක් පියවර ගෙන ඇත.
+
+මෙම තත්වයන් පිලිබදව කරන ලද විමසිමකදි අදහස් දැක්වු කොත්මලේ පොලිසියේ නිලධාරියකු පවසන ලද්දේ 05වන දින පුස්සැල්ලාව ප්‍රොටෙක් වතුයායේ වයස අවුරුදු 18ක තරුණ යුවලක් සිය දිවි හානි කර ගැනිම සදහා කොත්මලේ ගැරඩි ඇල්ලෙන් පහලට පැන ඇති බවත්ය.
+
+එම අවස්ථාවේදි එය දුටු ප්‍රදේශවාසින් පිරිසක් විසින් මෙම තරුණ යුවල බේරා ගෙන ඇති බවත් මෙම දෙදෙනා අතර පෙම් සබදතාවයක් මත හට ගෙන ඇති ආරවුලක් මත මෙම දෙදෙනා මෙසේ සිය දිවි හානි කර ගැනිමට තැත් කර ඇති බවට මුලීක පරික්ෂවලින් හෙලිව ඇති බවත්ය.
+
+මෙසේ බේරා ගත් තරුණ යුවල ප්‍රථිකාර සදහා පුස්සල්ලාව ප්‍රාදේශීය රෝහලට ඇතුලත් කිරිමෙන් පසු වැඩි දුර ප්‍රථිකාර සදහා ගම්පල මහ රෝහල වෙත මාරු කර යැවිමට පියවර ගෙන ඇති බවත් මේ පිලිබදව කොත්මලේ පොලිසිය වැඩි දුර පරික්ෂන මෙහෙයවන බවද එම නිලධාරියා වැඩි දුරටත් පැවසිය.
+
+◼️
+
+[Data](articles/7e78a85d.json)
+
+---
 
 ### PM Modi tenders his resignation to President
 
@@ -46,23 +64,31 @@ Top leaders of the BJP-led National Democratic Alliance (NDA) are scheduled to m
 
 [Data](articles/1a716106.json)
 
+[Extended Data](ext_articles/1a716106.ext.json)
+
 ---
 
-### கடலில் குளித்த இந்திய தம்பதியினர்  பலி
+### Indian couple killed in sea
 
 *2024-06-05 14:35:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடலில்-குளித்த-இந்திய-தம்பதியினர்-பலி/175-338480) · `ta`
 
-கிரிந்த பகுதியில் கடலில் குளித்த வெளிநாட்டு தம்பதியொன்று நீரில் மூழ்கி உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+Foreign Indian couple, aged 35 and 33, drown in Sri Lanka's Kirinda sea while bathing, later die in hospital despite rescue efforts. Incident occurred during family visit.
 
-உயிரிழந்தவர்கள் 35 வயதுடைய ஆண் மற்றும் 33 வயதுடைய இந்தியப் பிரஜைகள் என அடையாளம் காணப்பட்டுள்ளதாக அவர்கள் தெரிவித்தனர்.
+🟩
 
-பலத்த அலைகளால் இழுத்துச் செல்லப்பட்டு நீரில் மூழ்கிய நிலையில் மீட்கப்பட்ட இவர்கள், தெபரவெவ வைத்தியசாலையில் அனுமதிக்கப்பட்ட பின்னர் உயிரிழந்துள்ளனர்.
+A foreign couple who bathed in the sea in Kirinda died after being drowned, police said.
 
-உயிரிழந்தவர்கள் அவர்களது குடும்பத்தினருடன் இலங்கைக்கு விஜயம் செய்திருந்த போது இந்த சம்பவம் இடம்பெற்றுள்ளதாகவும் விசாரணைகளில் தெரியவந்துள்ளது.
+The victims have been identified as 35 -year -olds and 33 -year -old Indian citizens.
+
+They were rescued after being dragged by heavy waves and drowned and died after being admitted to the Thebaraweva Hospital.
+
+Investigations have revealed that the incident took place when the victims visited Sri Lanka with their families.
 
 ◼️
 
 [Data](articles/9db175a1.json)
+
+[Extended Data](ext_articles/9db175a1.ext.json)
 
 ---
 
@@ -79,6 +105,8 @@ He said children in Sri Lanka are moving away from schools and are drawn towards
 ◼️
 
 [Data](articles/f0ab104d.json)
+
+[Extended Data](ext_articles/f0ab104d.ext.json)
 
 ---
 
@@ -148,17 +176,23 @@ Investigations revealed that the victims were a married couple, and the incident
 
 ---
 
-### யாழில் போதைப்பொருட்களுடன் மூன்று இளைஞர்கள் கைது!
+### Three youth arrested with drugs in Jaffna
 
 *2024-06-05 14:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/185359) · `ta`
 
-கோப்பாய் பொலிஸ் பிரிவுக்கு உட்பட்ட கல்வியங்காடு பகுதியில் பொலிஸ் விசேட அதிரடி படையினர் மேற்கொண்ட சோதனை நடவடிக்கையின் போது, மூன்று இளைஞர்களை சோதனையிட்ட போது, அவர்களின் உடைமையில் இருந்து 190 மில்லிகிராம், 120 மில்லிகிராம் மற்றும் 80 மில்லி கிராம் கஞ்சா மீட்கப்பட்டுள்ளது.
+In Jaffna, a police STF raid in Kaliyangadu found three youths with 490mg of cannabis. They were detained and transferred to Kopay police station for further investigation.
 
-அதனை அடுத்து மூவரையும் கைது செய்து கோப்பாய் பொலிஸார் நிலையத்தில் ஒப்படைத்துள்ளனர். பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டுள்ளனர்.
+🟩
+
+During a raid conducted by police Special Task Force (STF) in the Kaliyangadu area, which belongs to the Kopay police division, 190 milligrams, 120 milligrams and 80 milligrams of cannabis were recovered from their possession.
+
+The three were arrested and handed over to the Kopay police station.. Police are conducting further investigations.
 
 ◼️
 
 [Data](articles/ab56fc6e.json)
+
+[Extended Data](ext_articles/ab56fc6e.ext.json)
 
 ---
 
@@ -2217,21 +2251,5 @@ The Economic Transformation Bill is expected to provide for the National Policy 
 [Data](articles/93b9b910.json)
 
 [Extended Data](ext_articles/93b9b910.ext.json)
-
----
-
-### Interventions of a freelance intellectual: A review of Dayan Jayatilleka’s selected writings
-
-*2024-06-05 05:27:35* · [`dailyftlk`](https://www.ft.lk/columns/Interventions-of-a-freelance-intellectual-A-review-of-Dayan-Jayatilleka-s-selected-writings/4-762626) · `en`
-
-British philosopher and historian Perry Anderson defines Western Marxism as the product of defeat. Unlike in the Soviet Union and China, there were no successful Marxist revolutions in the West. The Western Marxist is then a vanquished and disenchanted figure. Never having known the taste and trials of success, the Western Marxist reduces socialism to an abstract ideal and an impotent exercise in scholasticism.
-
-The theologian and Marxist scholar Roland Boer identifies the “freelance intellectual” as the chief proponent of Western Marxism. In short, the freelance intellectual is the academic, journalist, cultural critic, etc. who purveys a form of Marxist analysis but is, for the most part, independent of the discipline and accountability enforced by membership in a Communist Party or trade union. In China, to be a Communist means to be a Community Party member. In the West, one is free to adopt any label one pleases.
-
-...
-
-[Data](articles/77183a3c.json)
-
-[Extended Data](ext_articles/77183a3c.ext.json)
 
 ---

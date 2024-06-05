@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-06 01:18:59**
+As of **2024-06-06 01:34:19**
 
 ## Newspaper Stats
 
-*Scraped **28,677** Articles*
+*Scraped **28,680** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 1,635
 dailyftlk | 1,687
 adalk | 2,448
 adaderanalk | 3,255
-tamilmirrorlk | 3,368
-virakesarilk | 4,410
+tamilmirrorlk | 3,369
+virakesarilk | 4,412
 dailymirrorlk | 4,553
 adaderanasinhalalk | 4,606
 
@@ -26,11 +26,39 @@ adaderanasinhalalk | 4,606
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,677 (100.0%) of 28,677 articles have been extended.
+28,677 (100.0%) of 28,680 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-06 (Thursday)
+
+### யாழ் பல்கலையில் தற்கொடையாளன் தியாகி பொன்.சிவகுமாரனின் 50ஆவது ஆண்டு நினைவேந்தல்
+
+*2024-06-06 01:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/185409) · `ta`
+
+தமிழ் தேசத்தின் வரலாற்றில் மாணவப் போராளியாகப் போராடி தன்னுயிர் நீத்த முதல் தற்கொடையாளன் தியாகி பொன்.சிவகுமாரனின் 50ஆவது ஆண்டு நினைவேந்தல் 05ஆம் திகதி  புதன்கிழமை யாழ்ப்பாணப் பல்கலைக்கழக பொதுநினைவுத் தூபியில் பல்கலைக்கழக விரிவுரையாளர்கள், மாணவர்கள், கல்விசாரா ஊழியர்கள் உள்ளிட்டவர்களின் பங்கேற்புடன் உணர்வுபூர்வமாக முன்னெடுக்கப்பட்டது.
+
+◼️
+
+[Data](articles/4c540f00.json)
+
+---
+
+### பொது வேட்பாளருக்கு புளொட் ஆதரவு
+
+*2024-06-06 00:37:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொது-வேட்பாளருக்கு-புளொட்-ஆதரவு/175-338510) · `ta`
+
+ஜனாதிபதி தேர்தலில் பொது வேட்பாளர் ஒருவரை நிறுத்துவதற்கான தீர்மானத்தை தாம் ஏற்றுக்கொண்டுள்ளோம் என ஜனநாயக மக்கள் விடுதலை முன்னணியினர் தெரிவித்துள்ளனர்.
+
+ஜனநாயக மக்கள் விடுதலை முன்னணியின் தலைவர் த.சித்தார்த்தன் தலைமையில்   நடைபெற்ற கட்சியின் மத்திய குழு கூட்டத்தில் தமிழ்ப் பொது வேட்பாளர் சம்பந்தமாக தீர்மானம் எடுக்கப்பட்டுள்ளது.
+
+தமிழ் மக்களின் அரசியல் அபிலாசைகளையும், சமூக வாழ்வின் எதிர்பார்ப்புகளையும், நாளாந்தம் முகம் கொடுத்துவரும் நெருக்கடிகளையும், தென்னிலங்கை அரசியல் சமூகத்தின்  தொடர்ச்சியான ஏமாற்றுத்தனங்களையும் உறுதியாக வெளிப்படுத்தக் கூடிய வகையில்,  ஜனாதிபதி தேர்தலில் பொது வேட்பாளர் ஒருவரை நிறுத்துவதற்கான தீர்மானத்தை ஜனநாயக மக்கள் விடுதலை முன்னணியினராகிய நாம் ஜனநாயக தமிழ் தேசிய கூட்டணியின் ஏனைய அங்கத்துவக் கட்சிகளுடன் இணைந்து ஏற்றுக் கொண்டதோடு அதனை முன்கொண்டு செல்வதற்கான முழு ஆதரவினையும் வெளிப்படுத்தியிருந்தோம்.
+
+...
+
+[Data](articles/1b0d0bc0.json)
+
+---
 
 ### Action to remove 1,5025 homes
 
@@ -51,6 +79,24 @@ Due to the inclement weather conditions in the country, 71 houses have been comp
 [Data](articles/f83cf5e5.json)
 
 [Extended Data](ext_articles/f83cf5e5.ext.json)
+
+---
+
+### யாழில் 28 மில்லியன் பெறுமதியான கேரள கஞ்சாவுடன் இருவர் கைது
+
+*2024-06-06 00:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/185408) · `ta`
+
+வட கடலில் வைத்து சுமார் 28 மில்லியன் ரூபா பெறுமதியான கேரள கஞ்சாவுடன் இரண்டு சந்தேகநபர்களை கடற்படையினர் கைது செய்துள்ளனர்.
+
+யாழ்ப்பாணம் பகுதியைச் சேர்ந்த 34 மற்றும் 40 வயதுடைய இருவரே இவ்வாறு கைது செய்யப்பட்டுள்ளனர்.
+
+கேரள கஞ்சாவை படகில் ஏற்றிச் சென்ற போது கடற்படையினர் அவர்களை கைது செய்தனர்.
+
+மேலதிக விசாரணைகளுக்காக கைது செய்யப்பட்ட சந்தேக நபர்களும் கடற்படையினரால் கைப்பற்றப்பட்ட கேரள கஞ்சா மற்றும் படகும் மருதங்கேணி பொலிஸாரிடம் ஒப்படைக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/b55d8710.json)
 
 ---
 
@@ -2197,67 +2243,5 @@ When other leaders put their racing shoes in difficult times, we took the govern
 [Data](articles/74e0e8c3.json)
 
 [Extended Data](ext_articles/74e0e8c3.ext.json)
-
----
-
-### Sri Lanka's debt burden will be increased
-
-*2024-06-05 13:27:54* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රී-ලංකාවේ-ණය-බර-තවත්-වැඩිවෙයි/11-410024) · `si`
-
-Sri Lanka's debt has surged past $100 billion as of December 2023, with local debt at $57.2 billion and foreign debt at $37 billion. This includes certified loans worth $5.8 billion, highlighting a significant increase in the country's financial obligations.
-
-🟩
-
-The Government's debt is quarterly released in Sri Lanka's debt from 31 December 2023 to 2023, reaching nearly 31 billion in Sri Lanka.
-
-Also, the total debt in Sri Lanka has exceeded $ 100 billion. The total loan amount of Sri Lanka is local debt and that value is $ 57.2 billion. Foreign debt is $ 37 billion. Certified loans is $ 5.8 billion.
-
-◼️
-
-[Data](articles/498b507f.json)
-
-[Extended Data](ext_articles/498b507f.ext.json)
-
----
-
-### Sri Lanka printers at Drupa fair with German support
-
-*2024-06-05 13:27:00* · [`economynextcom`](https://economynext.com/sri-lanka-printers-at-drupa-fair-with-german-support-166386/) · `en`
-
-ECONOMYNEXT – A delegation from Sri Lanka that participated in Drupa 2024, said to be the largest printing industry fair, has built up links for technology transfer and possible investments, the The Delegation of German Industry and Commerce in Sri Lanka (AHK Sri Lanka), said.
-
-“The delegation organised by AHK Sri Lanka to Drupa 2024 significantly benefitted the printing industry in Sri Lanka,” Anil Kariyawasam, President of Sri Lanka Association for Printers (SLAP) said in statement.
-
-“It equipped our industry professionals with crucial insights into current and upcoming EU regulations, helping them remain compliant and competitive in the global market, which in turn will bolster the Sri Lankan economy.”
-
-AHK Sri Lanka supported the delegation comprising 17 SLAP members representing 8 companies from the commercial, newspaper, stationery printing, and packaging industries, which showcased the capabilities of Sri Lanka’s printing sector.
-
-...
-
-[Data](articles/784dc810.json)
-
-[Extended Data](ext_articles/784dc810.ext.json)
-
----
-
-### Modi and allies to meet after India election verdict, key ally pledges support
-
-*2024-06-05 13:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/99676/modi-and-allies-to-meet-after-india-election-verdict-key-ally-pledges-support) · `en`
-
-A key ally of Indian Prime Minister Narendra Modi pledged support to him on Wednesday and was set to attend a meeting to discuss forming a coalition government, boosting Modi’s chances of a record-equalling third term in office.
-
-Modi’s Hindu nationalist party lost its outright majority in parliament in a surprise election verdict on Tuesday, and he will need support from partners in the National Democratic Alliance (NDA) to form the government.
-
-On Wednesday, the Telugu Desam Party (TDP), a key regional player in the southern state of Andhra Pradesh which is in the alliance, said it stood firmly with Modi and his party.
-
-“We are with the NDA, I will be attending the meeting in Delhi today,” Chandrababu Naidu, the leader of the TDP, told reporters.
-
-The NDA won 293 seats in 543-member lower house of parliament, more than the 272 needed to form a government.
-
-...
-
-[Data](articles/3e10d436.json)
-
-[Extended Data](ext_articles/3e10d436.ext.json)
 
 ---

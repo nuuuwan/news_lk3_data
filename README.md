@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-05 16:51:30**
+As of **2024-06-05 17:04:09**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,595
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,605 (100.0%) of 28,607 articles have been extended.
+28,607 (100.0%) of 28,607 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,23 +46,31 @@ The escalation has piled pressure on Netanyahu from right-wing members of his go
 
 [Data](articles/6e2a4bcd.json)
 
+[Extended Data](ext_articles/6e2a4bcd.ext.json)
+
 ---
 
-### ඊශ්‍රායලය ප්‍රහාර දැඩි කරයි
+### Israel strengthens attacks
 
 *2024-06-05 16:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197426) · `si`
 
-මධ්‍යම ගාසා කලාපය කේන්ද්‍ර කොටගෙන නව හමුදා ක්‍රියාන්විතයක් ආරම්භ කළ බව ඊශ්‍රායලය පවසයි.
+Israel launches military operation against Hamas in Gaza, causing significant casualties. Efforts to establish a ceasefire are underway amidst criticism.
 
-හමාස් සටන්කාමීන් ඉලක්කකර මෙම ක්‍රියාන්විතය ආරම්භ කළ බව ඊශ්‍රායල බලධාරීන් පවසයි.
+🟩
 
-මේ අතර පලස්තීන වෛද්‍ය අංශ පැවසුවේ ගුවන් ප්‍රහාර හේතුවෙන් විශාල පිරිසක් මියගොස් ඇති බවයි.
+Israel says it has launched a new military operation with central Gaza region.
 
-මේ හේතුවෙන් සටන් විරාමයක් ඇතිකිරීම සඳහා විවිධ පාර්ශ්වයන් ගන්නා උත්සාහය ප්‍රතිඵල රහිත වෙතැයි විචාරකයෝ පවසති.
+The Israeli authorities states that this operation was established targeting Hamas militants.
+
+Meanwhile, Palestinian medical sector said that a large number of people were killed due to air strikes.
+
+Critics say that the efforts of various parties to create a ceasefire to create a ceasefire.
 
 ◼️
 
 [Data](articles/d762c8d7.json)
+
+[Extended Data](ext_articles/d762c8d7.ext.json)
 
 ---
 

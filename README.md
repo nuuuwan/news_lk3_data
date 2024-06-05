@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-05 14:54:20**
+As of **2024-06-05 15:04:53**
 
 ## Newspaper Stats
 
-*Scraped **28,585** Articles*
+*Scraped **28,589** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,70 @@ economynextcom | 1,624
 dailyftlk | 1,687
 adalk | 2,435
 adaderanalk | 3,245
-tamilmirrorlk | 3,360
-virakesarilk | 4,396
-dailymirrorlk | 4,532
+tamilmirrorlk | 3,361
+virakesarilk | 4,397
+dailymirrorlk | 4,534
 adaderanasinhalalk | 4,592
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,580 (100.0%) of 28,585 articles have been extended.
+28,585 (100.0%) of 28,589 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-05 (Wednesday)
+
+### PM Modi tenders his resignation to President
+
+*2024-06-05 14:37:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/PM-Modi-tenders-his-resignation-to-President/107-284175) · `en`
+
+India, June 5 - Prime Minister Narendra Modi on Wednesday tendered his resignation along with the Council of Ministers to President Droupadi Murmu. "The President has accepted the resignation and requested Shri Narendra Modi and the Council of Ministers to continue till the new government assumes office," a press communique said.
+
+PM Modi is likely to be sworn in as the Prime Minister for a third consecutive term on June 8 evening, sources told India Today. The NDA scraped past the majority mark to win 292 seats, but the BJP fell short of the majority on its own. If the NDA forms the government, Modi will be the second leader to retain power for a third term after former Prime Minister Jawaharlal Nehru.
+
+Top leaders of the BJP-led National Democratic Alliance (NDA) are scheduled to meet this evening to take stock of the Lok Sabha election results and deliberate on the details of government formation.
+
+...
+
+[Data](articles/1a716106.json)
+
+---
+
+### கடலில் குளித்த இந்திய தம்பதியினர்  பலி
+
+*2024-06-05 14:35:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடலில்-குளித்த-இந்திய-தம்பதியினர்-பலி/175-338480) · `ta`
+
+கிரிந்த பகுதியில் கடலில் குளித்த வெளிநாட்டு தம்பதியொன்று நீரில் மூழ்கி உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+உயிரிழந்தவர்கள் 35 வயதுடைய ஆண் மற்றும் 33 வயதுடைய இந்தியப் பிரஜைகள் என அடையாளம் காணப்பட்டுள்ளதாக அவர்கள் தெரிவித்தனர்.
+
+பலத்த அலைகளால் இழுத்துச் செல்லப்பட்டு நீரில் மூழ்கிய நிலையில் மீட்கப்பட்ட இவர்கள், தெபரவெவ வைத்தியசாலையில் அனுமதிக்கப்பட்ட பின்னர் உயிரிழந்துள்ளனர்.
+
+உயிரிழந்தவர்கள் அவர்களது குடும்பத்தினருடன் இலங்கைக்கு விஜயம் செய்திருந்த போது இந்த சம்பவம் இடம்பெற்றுள்ளதாகவும் விசாரணைகளில் தெரியவந்துள்ளது.
+
+◼️
+
+[Data](articles/9db175a1.json)
+
+---
+
+### Grade One admissions on the decline: Minister
+
+*2024-06-05 14:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Grade-One-admissions-on-the-decline-Minister/108-284174) · `en`
+
+Parliament, June 5 (Daily Mirror)- Admissions to the Grade One are on the decline as a result of the falling birth rate, Minister of Education Susil Premajayantha told Parliament today.
+
+“Sri Lanka’s annual birth rate which was  330,000 a few years ago has reduced to 33,0000 as of now. This will result in a decline in Grade One admissions in the near future,” he said.
+
+He said children in Sri Lanka are moving away from schools and are drawn towards tuition classes because children have lost trust in the country's education system.
+
+◼️
+
+[Data](articles/f0ab104d.json)
+
+---
 
 ### Dambulla gets new owner following former owner’s arrest
 
@@ -50,19 +100,31 @@ The majority stake in Sequoia Consultants is owned by Mr. Priyanga De Silva, a C
 
 [Data](articles/786af76d.json)
 
+[Extended Data](ext_articles/786af76d.ext.json)
+
 ---
 
-### යෝජිත විදුලි පනතට එරෙහිව සර්වජන බලය පාරට බසියි
+### The exangeration power against the proposed television bill
 
 *2024-06-05 14:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197422) · `si`
 
-ජාතික නිදහස් පෙරමුණ, මව්බිම ජනතා පක්ෂය, පිවිතුරු හෙළ උරුමය, ශ්‍රී ලංකාවේ කොමියුනිස්ට් පක්ෂය, ප්‍රජාතන්ත්‍රවාදී වාමාංශික පෙරමුණ, යුතුකම ජාතික සංවිධානය හා ස්වාධීන මන්ත්‍රී සංසදය යන "සර්වජන බලය"  එකමුතුවට අයත් දේශපාලන පාර්ශ්ව 07 යෝජිත විදුලි පනතට එරෙහිව අද (05) පාර්ලිමේන්තුව වටරවුම අසල  සාමකාමී උද්ඝෝෂණයක නිරත වූහ.
+Opponents of a proposed TV bill, including the National Freedom Front, Majority Party, and others, protested. They criticized plans to abolish the Electricity Board and suggested India might control Sri Lanka's power system. The group emphasized the need for legal protections for the country's energy safety.
 
-"සර්වජන බලය" එකමුතුවේ නායකත්ව මණ්ඩලය වෙනුවෙන් ජාතික නිදහස් පෙරමුණේ ජාතික සංවිධායක, පාර්ලිමේන්තු මන්ත්‍රී ජයන්ත සමරවීර, මව්බිම ජනතා පක්ෂයේ නායක, ව්‍යවසායක දිලිත් ජයවීර, පිවිතුරු හෙළ උරුමයේ නායක, පාර්ලිමේන්තු මන්ත්‍රී උදය ගම්මන්පිල, ශ්‍රී ලංකාවේ කොමියුනිස්ට් පක්ෂයේ ප්‍රධාන ලේකම්, වෛද්‍ය ජී. වීරසිංහ,  'යුතුකම' ජාතික සංවිධානයේ සභාපති, පාර්ලිමේන්තු මන්ත්‍රී ගෙවිඳු කුමාරතුංග, ස්වාධීන මන්ත්‍රී සංසදය වෙනුවෙන් පාර්ලිමේන්තු මන්ත්‍රී චන්න ජයසුමන යන මහත්වරු මෙම සාමකාමී  උද්ඝෝෂණයට එක්ව සිටියහ.
+🟩
 
-...
+National Freedom Front, Majority Party, Culinary Front, Democratic Left Front and Independent MPs, "Parliamentary PartyStronged in a protest.
+
+National Water Supply, Member of the National Freedom Front, Jayantha Samaraweera, Leader of Mawbima Janabe Gammanpila, Pure Gammanpila, Leader of the Mawathagama Gammanpila, Sri Lanka, Sri Lanka's General Secretary, Sri Lanka. Weerasinghe, the Chairman of the National Organization of the National Organization of the National Organization National Organization, Parliamentarian Channa Jayatunga and the Independential Forum Channa Jayatunga were also present at the peaceful demonstration.
+
+The Electricity Board will be abolished by the Electricity Board and the power system will be provided with the pity of India with the power system in India.The leaders of the security of the security of the power to the media were then pointed out.
+
+They further pointed out that even the legal provisions of the law to protect the country's energy safety.
+
+◼️
 
 [Data](articles/206a753c.json)
+
+[Extended Data](ext_articles/206a753c.ext.json)
 
 ---
 
@@ -82,25 +144,49 @@ Investigations revealed that the victims were a married couple, and the incident
 
 [Data](articles/348b46fd.json)
 
+[Extended Data](ext_articles/348b46fd.ext.json)
+
 ---
 
-### මහනුවර දී සිසුවෙකුට ගිනි තැබූ සැකකරු බන්ධනාගාරයෙන් පලායයි
+### யாழில் போதைப்பொருட்களுடன் மூன்று இளைஞர்கள் கைது!
+
+*2024-06-05 14:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/185359) · `ta`
+
+கோப்பாய் பொலிஸ் பிரிவுக்கு உட்பட்ட கல்வியங்காடு பகுதியில் பொலிஸ் விசேட அதிரடி படையினர் மேற்கொண்ட சோதனை நடவடிக்கையின் போது, மூன்று இளைஞர்களை சோதனையிட்ட போது, அவர்களின் உடைமையில் இருந்து 190 மில்லிகிராம், 120 மில்லிகிராம் மற்றும் 80 மில்லி கிராம் கஞ்சா மீட்கப்பட்டுள்ளது.
+
+அதனை அடுத்து மூவரையும் கைது செய்து கோப்பாய் பொலிஸார் நிலையத்தில் ஒப்படைத்துள்ளனர். பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டுள்ளனர்.
+
+◼️
+
+[Data](articles/ab56fc6e.json)
+
+---
+
+### Suspect released on fire in Kandy
 
 *2024-06-05 14:17:36* · [`adalk`](https://www.ada.lk/breaking_news/මහනුවර-දී-සිසුවෙකුට-ගිනි-තැබූ-සැකකරු-බන්ධනාගාරයෙන්-පලායයි/11-410025) · `si`
 
-පල්ලෙ කැලේ දුම්බර බන්ධනාගාරයේ රක්ෂිත බන්ධනාගාරව සිටි රැඳවියෙකුට ඇති වූ රෝගී තත්ත්වයක් හේතුවෙන් මහනුවර ජාතික රෝහලට ඇතුළත් කර බන්ධනාගාර නිලධාරීන්ගේ ආරක්ෂාව යටතේ වෛද්‍ය ප්‍රතිකාර ලබමින් සිටියදී ඔහු බන්ධනාගාර නිලධාරීන්ගෙන් මිදී පලා ගොස් ඇති බවට බන්ධනාගාර නිලධාරීන් විසින් පල්ලෙකැලේ පොලිසියට පැමිණිල්ලක් සිදුකොට තිබේ.
+A suspect accused of burning a schoolgirl in Kandy escaped from a prison hospital in Pallekele. He was being treated there but managed to flee around 5 pm. The suspect, a resident of Kalaniya, Kandy, was the main suspect under the oppressive act. The victim was a student from a prominent Kandy school preparing for her GCE Ordinary Level exams. Police have launched operations to recapture him.
 
-ඊයේ (04)දින සවස 5.00 ට පමණ ඔහු එසේ බන්ධනාගාර නිලධාරීන්ගෙන් මිදී පලා ගොස් ඇති බවට පැමිණිල්ලේ සඳහන්ය .
+🟩
 
-මහනුවර තැන්නේ කුඹුර ප්‍රදේශයේ පදිංචිකරුවකු වන මලිත් නිසංසල සංජීව නමැති මෙම සැකකරු 2022 වසරේ නොවැම්බර් මස 26 වැනි දින දී පාසල් සිසුවෙකුට ගිනි තැබීමේ සිද්ධියට සම්බන්ධ ප්‍රධාන සැකකරු බව පොලිසිය කියයි .
+Prison officials have lodged a complaint with the Pallekele police that he had fled the prison officials while receiving treatment at the Prison Officers in the Pallekara Prison reserved.
 
-එම අවධියේදී මෙරට මහත් ආන්දෝලනයකට තුඩු දුන් ප්‍රවෘත්තියක් වූ එම සිදුවීමට සම්බන්ධ ප්‍රධාන සැකකරුට එරෙහිව පීඩාකාරී පනත  යටතේ චෝදනා රැසක් ගොනුකොට රක්ෂිත බන්ධනාගාර ගත කොට තිබුණි .
+The complaint he had fled the prison officials at around 5pm yesterday (04) at 5.00 pm yesterday.
 
-මහනුවර ප්‍රධාන පෙළේ පාසලක අධ්‍යාපනය හැදෑරූ එම සිසුවා එවකට අපොස සාමාන්‍ය පෙළ විභාගයෙන් ඒ සමර්ථ 09 ක් ලබමින් උසස් පෙළ අධ්‍යාපනය සඳහා සුදුසුකම් ලබා සිටියදී එම ඛේදවාචකයට මුහුණ දුනි .
+The suspect is the main suspect in the burning of a schoolgirl in Kandy, a resident of Kalaniya, Kandy.
 
-...
+At that time, he had been remanded under the oppressive act against the main suspect in the event.
+
+The student who studied at a leading school in Kandy and suffered from the GCE Ordinary Level examination at the O / L examination.
+
+All police have commenced operations in the arrest of the suspect again.
+
+◼️
 
 [Data](articles/31561b3d.json)
+
+[Extended Data](ext_articles/31561b3d.ext.json)
 
 ---
 
@@ -348,6 +434,22 @@ The NDA won 293 seats in 543-member lower house of parliament, more than the 272
 
 ---
 
+### PLC AL-SAFA:PIONEERING SHARIAH-COMPLIANT FINANCE IN SRI LANKA FOR TWO DECADES, NOW EXPANDING NATIONWIDE WITH CUTTING-EDGE DIGITAL SOLUTIONS
+
+*2024-06-05 13:19:00* · [`islandlk`](http://island.lk/plc-al-safa-pioneering-shariah-compliant-finance-in-sri-lanka-for-two-decades-now-expanding-nationwide-with-cutting-edge-digital-solutions/) · `en`
+
+As the first full-service non-banking Islamic finance provider in Sri Lanka, People’s Leasing & Finance PLC (PLC) Al-Safa Unit has been offering reliable and trustworthy Shariah-compliant products and services since 2005. Over the past two decades, it has built a reputation for high-quality, customer-centric services. Al-Safa serves Sri Lankans seeking comprehensive Shariah-compliant alternative financial solutions.
+
+Since its inception, PLC Al-Safa has been committed to innovation within the framework of Shariah-compliant finance. The company enhanced its dedication to compliance and innovation by strengthening the Shariah Supervisory Board. This allows PLC Al-Safa to regularly and continuously review all its products, services, and processes, ensuring they not only comply with Shariah principles but also offer maximum value, flexibility, and innovation.
+
+...
+
+[Data](articles/75f127fa.json)
+
+[Extended Data](ext_articles/75f127fa.ext.json)
+
+---
+
 ### Firing on US embassy in Beirut
 
 *2024-06-05 13:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/185356) · `ta`
@@ -466,17 +568,23 @@ The bodies were deposited in Debarawewa hospital and Kirinda Police are conducti
 
 ---
 
-### මැයි දක්වා සංචාරකයන් 896000ක් ලංකාවට ඇවත්
+### 896,000 tourists arrive in Sri Lanka until May
 
 *2024-06-05 12:32:34* · [`adalk`](https://www.ada.lk/breaking_news/මැයි-දක්වා-සංචාරකයන්-896000ක්-ලංකාවට-ඇවත්/11-410019) · `si`
 
-2024 ජනවාරි සිට මැයි දක්වා වූ මාස පහක කාලය තුළ ශ්‍රි ලංකාවට සංචාරකයන් 896779ක් පැමිණ ඇති බව ශ්‍රී ලංකා සංචාරක සංවර්ධන අධිකාරියේ නවතම සංඛ්‍යාලේඛන වල දැක්වෙයි.
+In the first five months of 2024, Sri Lanka welcomed 896,779 tourists, including 112,128 in May, with Indians making up the largest group at 32,254.
 
-එසේම මැයි මාසයේි මැයි මාසයේ දී විදෙස් සංචාරකයින් 112,128 ක් ශ්‍රී ලංකාවට පැමිණ තිබේ. මැයි මාසයේදි ලංකාවට පැමිණ ඇති විදෙස් සංචාරකයන්ගෙන් වැඩම සංඛ්‍යාවක් ඉන්දියානුවන් වන අතර එම අගය 32,254 කි.
+🟩
+
+The latest statistics of the Sri Lanka Tourism Development Authority indicate that 896779 tourists arrived in Sri Lanka in the five months from January to May 2024.
+
+112,128 foreign tourists have arrived in Sri Lanka in May. The Indians are the Indians from foreign tourists who have arrived in Sri Lanka in May, which is 32,254.
 
 ◼️
 
 [Data](articles/1369f7aa.json)
+
+[Extended Data](ext_articles/1369f7aa.ext.json)
 
 ---
 
@@ -529,6 +637,22 @@ Dayasiri Jayasekera filed a petition before the Western Province civil Appeal Hi
 [Data](articles/4167cd64.json)
 
 [Extended Data](ext_articles/4167cd64.ext.json)
+
+---
+
+### LOLC Finance paves the way for real-time deposits through mCash collaboration
+
+*2024-06-05 12:05:00* · [`islandlk`](http://island.lk/lolc-finance-paves-the-way-for-real-time-deposits-through-mcash-collaboration/) · `en`
+
+LOLC Finance PLC, the largest non-banking financial institution in the country, has announced an innovative collaboration with mCash, Sri Lanka’s largest mobile money platform, enabling customers to make savings deposits through the extensive network of mCash retailers. The Memorandum of Understanding (MOU) signed recently marks a significant step towards enhancing the accessibility and convenience of LOLC Finance savings accounts.
+
+This shared initiative empowers customers to conveniently deposit cash into their LOLC Finance savings accounts securely and efficiently. Once customers provide their Savings Account Number, Mobile Number, and the desired Deposit Amount to a mCash retailer, the retailer, using the mCash platform, can facilitate the payment process. The savings account is then credited in real-time. Both the customer and the retailer receive timely notifications confirming the success or failure of the transaction.
+
+...
+
+[Data](articles/6b498855.json)
+
+[Extended Data](ext_articles/6b498855.ext.json)
 
 ---
 
@@ -2109,125 +2233,5 @@ The theologian and Marxist scholar Roland Boer identifies the “freelance intel
 [Data](articles/77183a3c.json)
 
 [Extended Data](ext_articles/77183a3c.ext.json)
-
----
-
-### Are we ready to accept our migrants again?
-
-*2024-06-05 05:22:46* · [`dailyftlk`](https://www.ft.lk/columns/Are-we-ready-to-accept-our-migrants-again/4-762625) · `en`
-
-It is necessary to identify the silver lining of the current migration wave and harness the maximum benefit from Sri Lankan migrants for the country’s future prosperity
-
-While accepting migration trends and waves, Sri Lanka must implement policies that encourage migrants to contribute back to the country. This could strengthen Sri Lankan society in two ways: demotivating unnecessary migration while embracing those who have migrated with the same fraternity. Given the global and historical trends, it is high time to establish state migration and diasporic policies to address these issues and turn brain drain into an opportunity
-
-“Migration” is a prevalent topic in Sri Lanka today, affecting all social and age groups. It brings both positive and negative consequences for individuals who could be felt both short-term and long-term. While migration has recently come under the spotlight in Sri Lankan society, it is an age-old phenomenon with a vast global history.
-
-...
-
-[Data](articles/a2447c08.json)
-
-[Extended Data](ext_articles/a2447c08.ext.json)
-
----
-
-### Star Garments Group expands with acquisition of Bernard Boteju Kolonna plant
-
-*2024-06-05 05:16:30* · [`dailyftlk`](https://www.ft.lk/business/Star-Garments-Group-expands-with-acquisition-of-Bernard-Boteju-Kolonna-plant/34-762623) · `en`
-
-From left: Bernard Botejue Industries Managing Director Bernard Botejue, Chairman Janaka Botejue,  Star Garments Group Managing Director A. Sukumaran and Director of Operations Jeevith Senaratne
-
-Star Garments Group has completed its latest expansion venture with the acquisition of the assets of Kolonna Manufacturing Ltd.
-
-This acquisition marks the group’s twelfth factory and will create over 1,000 job opportunities in Kolonna in the Ratnapura district. The acquisition cements Star’s belief in the potential for Sri Lankan apparel exports to grow as global sourcing bases look to diversify regional risks in other parts of the globe.
-
-On the acquisition, Komar President and CEO Charlie Komar said: “This investment reaffirms our long-term commitment to Sri Lanka and our belief that the country remains an untapped resource in apparel manufacturing. Star continues to remain a priority for Komar and we look forward to this division’s growth in the coming years.”
-
-...
-
-[Data](articles/df51c1f4.json)
-
-[Extended Data](ext_articles/df51c1f4.ext.json)
-
----
-
-### ‘Enterprise Sri Lanka’ to boost SME sector
-
-*2024-06-05 05:15:17* · [`dailyftlk`](https://www.ft.lk/business/Enterprise-Sri-Lanka-to-boost-SME-sector/34-762622) · `en`
-
-The Cabinet of Ministers on Monday approved the establishment of a new entity named ‘Enterprise Sri Lanka’ aimed at supporting small and medium-scale enterprises (SMEs).
-
-The initiative is designed to restructure the institutional and legal frameworks of several existing organisations to provide more effective development and monitoring of SMEs.
-
-The organisations under the restructuring include the Export Development Board (EDB), National Entrepreneurship Development Authority (NEDA), Industrial Development Board (IDB), Sri Lanka Export Credit Insurance Corporation (SLECIC), and the Small Enterprises Development Division of the Ministry of Sports and Youth Affairs.
-
-In addition to creating ‘Enterprise Sri Lanka,’ the Cabinet decided to direct the Legal Draftsman to formulate a draft bill to facilitate the process.
-
-...
-
-[Data](articles/2be36a96.json)
-
-[Extended Data](ext_articles/2be36a96.ext.json)
-
----
-
-### High-level delegation of Swedish companies in town marking 75 years of bilateral ties
-
-*2024-06-05 05:14:34* · [`dailyftlk`](https://www.ft.lk/business/High-level-delegation-of-Swedish-companies-in-town-marking-75-years-of-bilateral-ties/34-762621) · `en`
-
-Sweden-Sri Lanka collaboration program from 5 to 7 June in Colombo
-
-Trade and Invest Commissioner of Sweden to India and Head – Business Sweden, South Asia Cecilia Oskarsson
-
-Swedish Honorary Consul- General in Colombo, Sri Lanka Sanjay Kulatunga
-
-Team Sweden celebrates 75 years of Sri Lanka-Sweden diplomatic relations by bringing a high-level delegation of Swedish companies to Sri Lanka from 5-7 June, in connection with Sweden’s National Day celebrations on 6 June and an Energy Seminar on 7 June.
-
-With the Sri Lankan economy set to rebound this year, Team Sweden in Sri Lanka including the Embassy of Sweden, Honorary Consulate of Sweden in Sri Lanka and Business Sweden, in collaboration with Sweden-Sri Lanka Business Council (SSLBC) have set an ambition to define and launch Sweden-Sri Lanka Collaboration Program, which includes various initiatives and activities to promote economic and trade collaboration between the two countries.
-
-...
-
-[Data](articles/b1bb91de.json)
-
-[Extended Data](ext_articles/b1bb91de.ext.json)
-
----
-
-### Sri Lanka woos UK Dover Port Marina to Colombo Port City
-
-*2024-06-05 05:12:48* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-woos-UK-Dover-Port-Marina-to-Colombo-Port-City/34-762620) · `en`
-
-High Commissioner of Sri Lanka to the UK Rohitha Bogollagama, and Colombo Port City Economic Commission (CPCEC ) Chairman and Board of Investment (BOI) Chairman Dinesh Weerakkody, together with Minister (Commercial) of the High Commission Somasena Mahadiulwewa and the representatives from private sector of Sri Lanka, paid a visit to Dover Port Marina in the UK on 31 May.
-
-Port of Dover Chief Executive Doug Bannister, led a guided tour of the Dover Port Marina facility, coordinated by British-Sri Lankan entrepreneur and Marina Hotel Dover President K. Rajaseelan.
-
-The Port of Dover boasts facilities for ferries, handling cruises and cargo, and the Dover Marina. This marina opened in 2021, provides a large new outdoor space for the public to enjoy in Dover, transforming the waterfront with entertainment and world-class food stalls for everyone.
-
-...
-
-[Data](articles/38366593.json)
-
-[Extended Data](ext_articles/38366593.ext.json)
-
----
-
-### Cabinet approves relief to families affected by floods
-
-*2024-06-05 05:10:49* · [`dailyftlk`](https://www.ft.lk/news/Cabinet-approves-relief-to-families-affected-by-floods/56-762619) · `en`
-
-President Wickremesinghe yesterday undertook an observation tour by air to assess the flood situation
-
-Appoints committee under leadership of District Secretary of Colombo to prepare detailed development plan to redesign Kolonnawa town
-
-The Cabinet of Ministers on Monday approved a proposal furnished by Prime Minister Dinesh Gunawardena to provide relief to families affected by the floods and to immediately implement a hasty program to restore public infrastructure facilities with the services of the tri-forces and the
-
-Civil Defence force along with the contribution of other Ministries.
-
-Thousands of families have been temporarily affected due to landslides, falling of trees, floods as well as extreme damage to public infrastructure facilities due to extreme rain in a number of districts in the country as a result of weather changes developing unexpectedly with the activation of the South Western monsoonal conditions.
-
-...
-
-[Data](articles/c6198dab.json)
-
-[Extended Data](ext_articles/c6198dab.ext.json)
 
 ---

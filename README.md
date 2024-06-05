@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-05 07:49:35**
+As of **2024-06-05 07:59:56**
 
 ## Newspaper Stats
 
-*Scraped **28,483** Articles*
+*Scraped **28,489** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,75 +12,127 @@ colombotelegraphcom | 258
 dbsjeyarajcom | 273
 bbccomsinhala | 278
 newsfirstlk | 363
-islandlk | 1,535
+islandlk | 1,536
 economynextcom | 1,620
 dailyftlk | 1,686
-adalk | 2,423
+adalk | 2,424
 adaderanalk | 3,234
-tamilmirrorlk | 3,349
+tamilmirrorlk | 3,351
 virakesarilk | 4,387
-dailymirrorlk | 4,504
-adaderanasinhalalk | 4,573
+dailymirrorlk | 4,505
+adaderanasinhalalk | 4,574
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,480 (100.0%) of 28,483 articles have been extended.
+28,483 (100.0%) of 28,489 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-05 (Wednesday)
 
-### නෙදර්ලන්තය ට ජය
+### විශ්වවිද්‍යාල අනධ්‍යයන සේවක වර්ජනය තවදුරටත්
+
+*2024-06-05 07:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197403) · `si`
+
+සිය වෘත්තීය සමිති ක්‍රියාමාර්ගය අඛණ්ඩව තවදුරටත් ක්‍රියාත්මක කරන බව අන්තර් විශ්වවිද්‍යාල වෘත්තීය සමිති මහා සම්මේලනය පවසයි.
+
+එහි සමලේකම් කේ.එල්.ඩී රිච්මන් මහතා සඳහන් කළේ, සිය වෘත්තීය ගැටලු සම්බන්ධයෙන් උසස් අධ්‍යාපන රාජ්‍ය අමාත්‍ය සුරේන් රාඝවන් මහතා සමග කළ සාකච්ඡාව විසඳුමකින් තොරව අවසන් වූ බවය.
+
+"මැයි 2 ආරම්භ කළ අඛණ්ඩ වැඩවර්ජනය තවමත් ක්‍රියාත්මකයි. ඊයේ දිනයේ රාජ්‍ය අමාත්‍ය රාඝවන් මහතා සමග සාකච්ඡා වට දෙකක් පැවත්වුවා. රජය පැත්තෙන් විසඳුම් ලබා දෙන යෝජනා ඉදිරිපත් වුණා. නමුත් අපි බලාපොරොත්තු වෙනවා අවසාන විසඳුම ලෙස අපිට මේකට ලිඛිතව දෙයක් අවශ්‍යයි. ඒ චක්‍රලේඛය ලබාදුන් වහාම අපි වැඩවර්ජනය අවසන් කිරීමට බලාපොරොත්තු වෙනවා. මෙය ලබාදෙන කල් වැඩවර්ජනය තවදුරටත් ක්‍රියාත්මකයි. මේ වනවිට දින 34ක් ක්‍රියාත්මකයි වැඩවර්ජනය."
+
+◼️
+
+[Data](articles/5f34a7e4.json)
+
+---
+
+### Netherlands win
 
 *2024-06-05 07:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197402) · `si`
 
-20යි විස්ස ක්‍රිකට් ලෝක කුසලාන තරගාවලියේ  D කාණ්ඩය යටතේ අද (05) නිමාවූ තරගයෙන් ජය ගැනීමට නෙදර්ලන්තය සමත්විය.
+Netherlands clinched the Twenty Twenty Twenty World Cup for the 21st time, defeating Nepal. Batting first, Nepal made 106 runs but lost all their wickets. In reply, Netherlands secured victory with 10 wickets remaining, losing 4 batsmen in 18.4 overs.
 
-මෙම තරගයේ පළමුව පන්දුවට පහරදුන් නේපාල කණ්ඩායම සියලුදෙනා දැවී ලකුණු 106ක් රැස්කළේය.
+🟩
 
-ඊට පිළිතුරු ලෙස නෙදර්ලන්ත කණ්ඩායම පන්දු ඕවර 18.4 කදී කඩුලු 4ක් දැවී ලකුණු 109ක් ලබාගනිමින් තරගය ජයගත්තේය.
+Netherlands beat the Netherlands today to win the 21 (05) consecutive year of Twenty Twenty Twenty World Cup.
+
+Batting first, the Nepal team scored 106 runs for the loss of all of the people.
+
+In response, the Netherlands won the match with 10 wickets for the loss of 4 wickets in 18.4 overs.
 
 ◼️
 
 [Data](articles/88033949.json)
 
+[Extended Data](ext_articles/88033949.ext.json)
+
 ---
 
-### පුංචි පුතාට පහරදුන් පුද්ගලයා ඇතුළු තිදෙනෙක් අත්අඩංගුවට
+### Three arrested including the person who assaulted the little son
 
 *2024-06-05 06:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197401) · `si`
 
-සමාජ මාධ්‍ය ඔස්සේ සංසරණය වූ දරුවෙකුට පහරදීමේ සිද්ධියට සම්බන්ධ පුද්ගලයා අත්අඩංගුවට ගෙන තිබේ.
+Four individuals, including the assailant of a young boy whose attack was widely shared on social media, have been arrested. Additionally, two women accused of aiding the assault were detained in the Pulmudai Arsimal area. The child victim, aged 4 1/2, has been examined by a judicial doctor.
 
-අද (05) අලුයම පුල්මුඩේ අරිසිමලේ ප්‍රදේශයේ දී අදාළ පුද්ගලයා සහ පහරදීමට ආධාර අනුබල දීමේ චෝදනා මත තවත් කාන්තාවන් දෙදෙනෙකු ද අත්අඩංගුවට ගත් බව පොලීසිය පැවසුවේය.
+🟩
 
-අත්අඩංගුවට ගෙන ඇත්තේ 45 හැවිරිදි පුද්ගලයෙක් සහ 37 සහ 46 හැවිරිදි කාන්තාවන් දෙදෙනෙකි.
+The person involved in the attack on a child circulating on social media has been arrested.
 
-පහරකෑමට ලක් වූ අවුරුදු 4 1/2 ක දරුවා ද පොලිස් භාරයට ගත් බව පොලීසිය තවදුරටත් පැවසුවේය.
+Two other women were arrested on charges of assaulting the person and assistance to assault at the Pulmudai Arsimal area in the Pulmudai Arsimaliya.
 
-පොලිස් භාරයට ගත් දරුවා ව මේ වනවිට අධිකරණ වෛද්‍යවරයා හමුවට ඉදිරිපත් කර ඇති බව වාර්තා වේ.
+Two persons have been arrested two 45-year-old man and 37 and 46 women.
+
+The 4 1/2 year old child was also taken into custody.
+
+The child who was taken into custody has been produced before the Judicial Doctor.
 
 ◼️
 
 [Data](articles/749136aa.json)
 
+[Extended Data](ext_articles/749136aa.ext.json)
+
 ---
 
-### ප්‍රදේශ කිහිපයකට වැසි
+### Constitutionality of Economic Transformation Bill challenged in SC
+
+*2024-06-05 06:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Constitutionality-of-Economic-Transformation-Bill-challenged-in-SC/108-284116) · `en`
+
+Colombo, June 5 (Daily Mirror) - A Special Determination petition has been filed in the Supreme Court challenging the constitutionality of the Economic Transformation Bill, which was recently published in the Government Gazette.
+
+The petitioners, the office bearers of Trade Unions representing formal and informal workers from the private and State Sector filed this petition seeking a declaration that the bill requires the approval by the people at a Referendum in addition to the 2/3 approval of the Parliament.
+
+The petitioners alleged that the provisions of the Economic Transformation Bill will have a serious impact on workers and particularly young workers. They further alleged that the government did not consult with Trade Unions, Workers and specifically young workers who will face the direct consequences of this Bill.
+
+In their petition, the petitioners stated that the proposed bill attempts to change the fundamental nature of the state from a socialist state to a neoliberal state.
+
+...
+
+[Data](articles/3cd8ee56.json)
+
+---
+
+### Showers in several areas
 
 *2024-06-05 06:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197399) · `si`
 
-බස්නාහිර, සබරගමුව, මධ්‍යම, දකුණු සහ වයඹ පළාත්වල වැසි වාර කිහිපයක් ඇති විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+The Department of Meteorology warns of showers across Western, Sabaragamuwa, Central, Southern, and North-Wayamba regions, with potential thundershowers in the evening or night elsewhere. It advises the public to prepare for possible wind and lightning hazards due to thunderstorms.
 
-දිවයිනේ සෙසු ප්‍රදේශවල සවස් කාලයේ හෝ රාත්‍රී කාලයේ ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකිය.
+🟩
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+The Department of Meteorology announces that several showers in the Western, Sabaragamuwa, Central, Southern and North-Wayamba areas.
+
+Showers or thundershowers will occur at several places in the evening or even night in the rest of the island.
+
+The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
 
 ◼️
 
 [Data](articles/9bad2ae6.json)
+
+[Extended Data](ext_articles/9bad2ae6.ext.json)
 
 ---
 
@@ -498,6 +550,26 @@ Sivakanandan Sindhu, aged 27, from the eighth region of Punguduthivu, Punguduthi
 
 ---
 
+### ’செருப்புக் காலோடு சென்று ஆட்சியைப் பொறுப்பேற்றேன்’
+
+*2024-06-05 02:28:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செருப்புக்-காலோடு-சென்று-ஆட்சியைப்-பொறுப்பேற்றேன்/175-338461) · `ta`
+
+மற்றைய தலைவர்கள் ஓடுவதற்கு சப்பாத்து தேடிக்கொண்டிருந்த வேளையில் நான் செருப்புக் காலோடு சென்று ஆட்சியைப் பொறுப்பேற்றுக்கொண்டேன் என்று ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+
+நிதி இராஜாங்க அமைச்சர் ரஞ்சித் சியம்பலாபிட்டியவின் ருவன்வெல்ல இல்லத்தில் நேற்று நடைபெற்ற மக்கள் சந்திப்பில் கலந்து கொண்டிருந்த போதே ஜனாதிபதி மேற்கண்டவாறு தெரிவித்தார்.
+
+ருவன்வெல்ல பிரதேசத்தில் இடம்பெற்ற பல நிகழ்ச்சிகளில் கலந்து கொண்ட பின்னர் ஜனாதிபதி இந்த பொதுக்கூட்டத்தில் கலந்துகொண்டனர். பெருந்திரளான பிரதேச மக்களும் இதில் கலந்துகொண்டனர்.
+
+ஜனாதிபதி ரணில் விக்கிரமசிங்க பொதுக் கூட்டத்தில் பங்கேற்றுவிட்டு திரும்பும் வழியில் பாதையின் இருமருங்கிலும் கூடியிருந்ததோடு மக்களுடன் சிநேகபூர்வமாக கலந்துரையாடினார்.
+
+இதேவேளை, ருவன்வெல்லவிலுள்ள தனது கொள்ளுப்பாட்டியின் வளவுக்கும் ஜனாதிபதி ரணில் விக்கிரமசிங்க சென்றிருந்ததோடு அங்கு சிறிது நேரத்தை களித்தார்.
+
+...
+
+[Data](articles/e706fbf5.json)
+
+---
+
 ### A 24 -year -old woman arrested with 5 grams of heroin in Vavuniya
 
 *2024-06-05 02:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/185337) · `ta`
@@ -543,6 +615,22 @@ The young man was wearing a 15 -pound jewelry and had a cost of Rs.. Police also
 [Data](articles/58bacfec.json)
 
 [Extended Data](ext_articles/58bacfec.ext.json)
+
+---
+
+### உடனடி நிவாரணம்; அமைச்சரவை அங்கீகாரம்
+
+*2024-06-05 02:19:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உடனடி-நிவாரணம்-அமைச்சரவை-அங்கீகாரம்/175-338460) · `ta`
+
+பலத்த மழை காரணமாக பாதிக்கப்பட்ட மக்களுக்கு உடனடி நிவாரணம் வழங்குவதற்காக சமர்ப்பிக்கப்பட்ட அவசர அமைச்சரவை பத்திரத்திற்கு அங்கீகாரம் வழங்கப்பட்டுள்ளது.
+
+அனர்த்தங்களால் பாதிக்கப்பட்ட மக்களுக்கு உடனடி நிவாரணம் வழங்குவதற்கான அவசர அமைச்சரவை பத்திரத்தை சமர்ப்பிக்க ஜனாதிபதி, பிரதமர் ஆகியோர் தீர்மானித்தனர்.
+
+பாதிக்கப்பட்ட மக்களுக்கு உடனடி நிவாரணம் வழங்குவதற்கும் முற்றாக சேதமடைந்த வீடுகளை அரச செலவில் பாதுகாப்பு படையினரின் உதவியுடன் புனரமைப்பதற்கும் உரிய பத்திரம் சமர்ப்பிக்கப்பட்டுள்ளது. (a)
+
+◼️
+
+[Data](articles/3fbff57c.json)
 
 ---
 
@@ -1288,6 +1376,24 @@ Meanwhile, the Indian Prime Minister thanked the supporters for his victory.
 
 ---
 
+### විදුලි බල පනතට ශ්‍රේෂ්ඨාධිකරණය දුන් සංශෝධන පිළිගන්නවා
+
+*2024-06-04 20:32:11* · [`adalk`](https://www.ada.lk/breaking_news/විදුලි-බල-පනතට-ශ්‍රේෂ්ඨාධිකරණය-දුන්-සංශෝධන-පිළිගන්නවා/11-410010) · `si`
+
+නව විදුලි බල පනතට ශ්‍රේෂ්ඨාධිකරණය විසින් ලබාදුන් සියලු සංශෝධන විදුලි බල හා බලශක්ති අමාත්‍යාංශය විසින් පිළිගන්නා බව විදුලි බල හා බලශක්ති අමාත්‍ය කංචන විජේසේකර මහතා පවසයි.
+
+මේ සම්බන්ධයෙන් වනසංශෝධන මිට සති තුනකට පමණ ඉහතදි ශ්‍රේෂ්ඨාධිකරණය තුළ පනත විවාදයට ගත් අවස්ථාවේදි සිදුකිරීමට එකග වූ බවද අමාත්‍යවරයා සඳහන් කරයි.
+
+එසේම ඉතිරි සංශෝධනද කාරක සභා අවස්ථාවේදී සිදුකරන බවද අමාත්‍යවරයා සඳහන් කරයි.
+
+Accordingly the amendments as it is suggested by the Supreme Court will be moved during the committee stage for approval.
+
+◼️
+
+[Data](articles/a693f98f.json)
+
+---
+
 ### Flood warning issued for downstream areas of Attanagalu Oya basin
 
 *2024-06-04 20:28:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Flood-warning-issued-for-downstream-areas-of-Attanagalu-Oya-basin/108-284091) · `en`
@@ -1792,6 +1898,22 @@ Representatives of Mannar Human Rights and Development Center, Mannar District A
 
 ---
 
+### Range Bandara’s  “Loud Thinking” about Election Postponement Damages   Ranil’s Election Campaign in the Short Term.
+
+*2024-06-04 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84130) · `en`
+
+Sri Lanka’s political stage was enlivened last week by the solo performance of  United National Party (UNP) general -secretary Palitha Range Bandara. Addressing a media briefing on 28 May, the policeman turned politician came out with a suggestion that the presidential election due this year and the Parliamentary election scheduled for next year should be postponed while the terms of office for both should be extended by two more years. The former Puttalam district and ex-state minister wanted a resolution passed by Parliament to that effect and ratified by the people at a referendum.
+
+The essence of what Palitha Range Bandara proposed was this -. Ranil Wickremesinghe took over the country’s leadership at a time of a great economic crisis. Considerable progress  has been achieved by the  Wickremesinghe Govt to remedy the situation. A degree of economic stability has been established but more time is needed to ensure greater economic stability.
+
+...
+
+[Data](articles/3cbabeda.json)
+
+[Extended Data](ext_articles/3cbabeda.ext.json)
+
+---
+
 ### Defying  Doomsday Predictions of Exit polls  the Congress -led INDIA -Bloc of Opposition Parties  Shock  the Ruling  BJP in vital states, thereby resetting India’s political landscape.
 
 *2024-06-04 18:09:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84140) · `en`
@@ -2077,153 +2199,5 @@ Because all those affected by the flood disaster do not go to the camps. There a
 [Data](articles/72733e8a.json)
 
 [Extended Data](ext_articles/72733e8a.ext.json)
-
----
-
-### The Surgeons Petroleum Against Economic Translation Act
-
-*2024-06-04 17:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197389) · `si`
-
-A petition against two economic bills has been filed with the Supreme Court, accusing them of violating democratic rights and constitutional fundamentals. The Attorney General is named as a respondent. Petitioners, including members of the Unmangerage Organization, argue the bills were improperly passed under presidential authority. They request the court to invalidate these bills due to alleged violations of fundamental rights.
-
-🟩
-
-The authentic power organization has filed a petition to the Supreme Court asking for the government's economic translation bill and the Constitution of the Constitution of the State Financial Management Bill.
-
-The Attorney General has said that the Attorney General has been named as respondents, Ada Derana reporter said.
-
-Members of the Unmangerage Organization (Udaya Gammanpila, Geneya Gammanpila, Genee Gammanpila, Prof. Channa Jayarawana, Entrepreneurship Dilith Jayarawana and Entrepreneral Dilith Jayarawana and Entrepreneurs Dr. Gavarasinghe and Nimal Ranawaka have been present.
-
-The petitioners say that the proposed bills have been taken under the President under the president.
-
-The petition has accused the power of Parliament and that it violates democratic rights.
-
-It is said that the petition has been accused of a violation of fundamental rights certified by the Constitution of the proposed bills.
-
-...
-
-[Data](articles/5b847218.json)
-
-[Extended Data](ext_articles/5b847218.ext.json)
-
----
-
-### Two pilots killed in Turkey military training plane crash
-
-*2024-06-04 17:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/99661/two-pilots-killed-in-turkey-military-training-plane-crash) · `en`
-
-A military training plane has crashed in central Turkey, killing the two pilots aboard, the defence ministry said on Tuesday.
-
-The plane took off from a military base in Kayseri on a training flight and later crashed for as yet unknown reasons, the ministry said.
-
-Images on Turkish media showed black smoke billowing from a charred, half destroyed carcass of a plane in an agricultural field.
-
-Firefighters, rescuers and police were working at the site, according to images by the state Anadalu agency.
-
-“I express my condolences to our martyrs’ families, to our heroic army and to our nation,” Interior Minister Ali Yerlikaya wrote on X, formerly Twitter.
-
-◼️
-
-[Data](articles/3c01e415.json)
-
-[Extended Data](ext_articles/3c01e415.ext.json)
-
----
-
-### Gaya Talawatta became a champion in Nepal Golow
-
-*2024-06-04 17:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/185317) · `ta`
-
-Gaya Talawatta won the inaugural Nepal Golow Championship, completing all rounds in just 71 moves, including finishing pits in fewer than 72 moves four times. He outperformed India's Dia Chris Kumar (148 moves) and Anandi Vivek (151 moves), with 65 participants from five countries.
-
-🟩
-
-Gaya Taluwatte Championship in Nepal's 101st Nepal Inaugural Golow Championship Competition held at the Gokarna Golow Paddy, located in the capital of Nepal.
-
-Gaya Talawatta Sampiyan, taking 2 moves less than the 144 total moves.
-
-He had completed each round in 71 moves in a two -round -up match.
-
-Gaya Talawatta, who completed the pits with a low move 4 times during each pit move, was taking less than 2 moves on another occasion.
-
-India's Dia Chris Kumar finished 2nd with 148 moves. Anandi Vivek from the same country shared 3rd place with 151 moves.
-
-65 Golvers from India, Nepal, Sri Lanka, Bangladesh and Bhutan participated in the competition.
-
-◼️
-
-[Data](articles/e0a4f68b.json)
-
-[Extended Data](ext_articles/e0a4f68b.ext.json)
-
----
-
-### Sri Lanka rupee closes weaker at 302.10/20 to US dollar
-
-*2024-06-04 17:20:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-weaker-at-302-10-20-to-us-dollar-166222/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed weaker at 302.10/20 to the US dollar on Tuesday, from 301.90/302.00 to the dollar the previous day, dealers said. Bond yields were broadly steady.
-
-A bond maturing on 15.12.2026 closed at 9.70/85 percent up from 9.70/80 percent.
-
-A bond maturing on 15.09.2027 closed at 10.35/45 percent up from 10.30/45 percent.
-
-A bond maturing on 01.07.2028 closed stable at 10.80/90 percent.
-
-A bond maturing on 15.05.2030 closed at 11.60/75 percent up from 11.60/70 percent.
-
-A bond maturing on 01.10.2032 closed at 11.80/90 percent down from 11.80/95 percent.
-
-◼️
-
-[Data](articles/85ee80cd.json)
-
-[Extended Data](ext_articles/85ee80cd.ext.json)
-
----
-
-### Mujibur Rahman appointed as a member of the Ministry Advisory Committee on Defense Affairs
-
-*2024-06-04 17:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/185315) · `ta`
-
-MP Mujibur Rahman has been appointed to the Ministry Advisory Committee on Defense Affairs and the Economic Confirmation Committee by the Select Committee. This appointment was announced in Parliament on April 4th, following the acceptance of proposals by the Parliament on February 9th, 2024.
-
-🟩
-
-The Speaker has announced that MP Mujibur Rahman has been appointed to work with the Ministry Advisory Committee on Defense Affairs.
-
-He made this statement at the Speaker's announcement on Tuesday (04) in Parliament. When the Speaker is in his announcement,
-
-Member of Parliament Mujibur Rahuman has been appointed by the Select Committee to work with the Ministry of Defense Advisory Committee on the Standing Organization of the Standing Ordinance of 112 and the proposal accepted by the Parliament on February 9, 2024.
-
-The Speaker also announced that the Ministry of Commerce, Commerce and Food Security has been appointed by the Mujibur Rahuman Select Committee to work with the Committee on Economic Confirmation Committee.
-
-◼️
-
-[Data](articles/e632f946.json)
-
-[Extended Data](ext_articles/e632f946.ext.json)
-
----
-
-### Youth dies after a boat to visit floods
-
-*2024-06-04 17:15:18* · [`adalk`](https://www.ada.lk/breaking_news/ගංවතුර-නැරඹීමට-ගිය-බෝට්ටුවක්-අධි-බල-විදුලි-රැහැනක-ගැටී-තරුණයෙක්-මරුට/11-410005) · `si`
-
-A young man, Maha Surath Kumara, died after falling from a boat during a flood viewing trip near Bulathsinhala. Despite the boat capsizing due to strong currents, no accidents occurred among the group of twenty-two. The victim was later identified and his body was handed over to the Bulathsinhala Police Station.
-
-🟩
-
-A boat to visit the floods was killed by a young man while a young man was killed by a high-powered power stake at Bulathsinhala.
-
-The deceased has been identified as Maha Surath Kumara, a resident of the Production of Divaradula, Bulathsinhala. He has traveled by a boat to watch the flood with a group of about twenty-two pm yesterday.There are available. The electricity waiting and the electricity fell in the boat, but they had not caused any accident.
-
-The young man who had fallen into the Bulathsinhala Regional Hospital with the assistance of the local delegrator of the Bulathsinhala Death Title Bulathhetha Inspector Chira Ratath Bharatha, the Maharana District of Horana DistrictBulathsinhala police say that the hospital has been sent to the Court of Hospital.
-
-◼️
-
-[Data](articles/9484a5fc.json)
-
-[Extended Data](ext_articles/9484a5fc.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-05 16:34:15**
+As of **2024-06-05 16:51:30**
 
 ## Newspaper Stats
 
-*Scraped **28,605** Articles*
+*Scraped **28,607** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,52 @@ adalk | 2,437
 adaderanalk | 3,249
 tamilmirrorlk | 3,362
 virakesarilk | 4,400
-dailymirrorlk | 4,535
-adaderanasinhalalk | 4,594
+dailymirrorlk | 4,536
+adaderanasinhalalk | 4,595
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,604 (100.0%) of 28,605 articles have been extended.
+28,605 (100.0%) of 28,607 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-05 (Wednesday)
+
+### Gunman attacks U.S. Embassy in  Lebanon
+
+*2024-06-05 16:28:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Gunman-attacks-U-S-Embassy-in-Lebanon/108-284178) · `en`
+
+June 05 - A gunman was captured after opening fire at the U.S. Embassy in Lebanon's capital, Beirut, on Wednesday — an attack that took place as U.S. ally Israel signaled it could soon launch an offensive in the country against Iran-backed militant group Hezbollah.
+
+Prime Minister Benjamin Netanyahu warned early Wednesday that Israel was "prepared for very intense action in the north," as he visited a border city hit by wildfires sparked by Hezbollah rockets.
+
+The escalation has piled pressure on Netanyahu from right-wing members of his government, who have also threatened to quit if he agrees to the U.S.-backed cease-fire proposal. President Joe Biden criticized Netanyahu in an interview published Tuesday, but also dispatched top aides to the region for new talks with mediators as Washington pushes for a deal that would end eight months of fighting in Gaza and secure the release of hostages held by Hamas.
+
+◼️
+
+[Data](articles/6e2a4bcd.json)
+
+---
+
+### ඊශ්‍රායලය ප්‍රහාර දැඩි කරයි
+
+*2024-06-05 16:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197426) · `si`
+
+මධ්‍යම ගාසා කලාපය කේන්ද්‍ර කොටගෙන නව හමුදා ක්‍රියාන්විතයක් ආරම්භ කළ බව ඊශ්‍රායලය පවසයි.
+
+හමාස් සටන්කාමීන් ඉලක්කකර මෙම ක්‍රියාන්විතය ආරම්භ කළ බව ඊශ්‍රායල බලධාරීන් පවසයි.
+
+මේ අතර පලස්තීන වෛද්‍ය අංශ පැවසුවේ ගුවන් ප්‍රහාර හේතුවෙන් විශාල පිරිසක් මියගොස් ඇති බවයි.
+
+මේ හේතුවෙන් සටන් විරාමයක් ඇතිකිරීම සඳහා විවිධ පාර්ශ්වයන් ගන්නා උත්සාහය ප්‍රතිඵල රහිත වෙතැයි විචාරකයෝ පවසති.
+
+◼️
+
+[Data](articles/d762c8d7.json)
+
+---
 
 ### Indian PM Modi to be sworn in for third time on June 8
 
@@ -49,6 +83,8 @@ Modi and his new cabinet were scheduled to be sworn-in on Saturday, local media 
 ...
 
 [Data](articles/e2cb2c6e.json)
+
+[Extended Data](ext_articles/e2cb2c6e.ext.json)
 
 ---
 
@@ -386,7 +422,7 @@ Investigations have revealed that the incident took place when the victims visit
 
 Parliament, June 5 (Daily Mirror)- Admissions to the Grade One are on the decline as a result of the falling birth rate, Minister of Education Susil Premajayantha told Parliament today.
 
-“Sri Lanka’s annual birth rate which was  330,000 a few years ago has reduced to 33,0000 as of now. This will result in a decline in Grade One admissions in the near future,” he said.
+“Sri Lanka’s annual birth rate which was  330,000 a few years ago has reduced to 300,000 as of now. This will result in a decline in Grade One admissions in the near future,” he said.
 
 He said children in Sri Lanka are moving away from schools and are drawn towards tuition classes because children have lost trust in the country's education system.
 
@@ -2229,43 +2265,5 @@ Its director Pradeep Kodippili stated that the disaster situation has risen to 2
 [Data](articles/03a358c9.json)
 
 [Extended Data](ext_articles/03a358c9.ext.json)
-
----
-
-### Funds set aside for repairing flood-damaged roads – State Minister
-
-*2024-06-05 08:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/99668/funds-set-aside-for-repairing-flood-damaged-roads-state-minister) · `en`
-
-State Minister for Rural Roads Development, Sivanesathurai Chandrakanthan says that the President has directed the allocation of around Rs. 03 billion for the immediate repair of roads damaged by the recent flood due to adverse weather conditions.
-
-The state minister made these remarks while addressing the press briefing themed “Collective Path to a Stable Country” held at the Presidential Media Centre on Tuesday (04).
-
-He said the government has allocated approximately Rs. 12 billion to enhance the rural economy, initiating a program to construct rural roads and bridges.
-
-The Ministry has made significant progress, with about 65% of the work completed, and the remaining portion set to be completed in the coming days, bringing substantial benefits to the village, he said.
-
-...
-
-[Data](articles/e7e8a7c2.json)
-
-[Extended Data](ext_articles/e7e8a7c2.ext.json)
-
----
-
-### Spells of showers expected in several provinces
-
-*2024-06-05 08:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/99667/spells-of-showers-expected-in-several-provinces) · `en`
-
-The Meteorology Department says several spells of showers will occur in Western, Sabaragamuwa, Central, Southern and North-western provinces.
-
-Showers or thundershowers may occur at a few places elsewhere of the island in the evening or night, it said.
-
-The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/c129d124.json)
-
-[Extended Data](ext_articles/c129d124.ext.json)
 
 ---

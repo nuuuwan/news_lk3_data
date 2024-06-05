@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-05 11:18:36**
+As of **2024-06-05 11:34:20**
 
 ## Newspaper Stats
 
-*Scraped **28,537** Articles*
+*Scraped **28,542** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,124 @@ adalk | 2,427
 adaderanalk | 3,240
 tamilmirrorlk | 3,356
 virakesarilk | 4,390
-dailymirrorlk | 4,522
+dailymirrorlk | 4,527
 adaderanasinhalalk | 4,581
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,536 (100.0%) of 28,537 articles have been extended.
+28,537 (100.0%) of 28,542 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-05 (Wednesday)
+
+### Dates announced calling for rescrutiny of 2023 (2024) A/L exam answer scripts
+
+*2024-06-05 11:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Dates-announced-calling-for-rescrutiny-of-2023-2024-AL-exam-answer-scripts/108-284156) · `en`
+
+Colombo, June 5 (Daily Mirror) - The Examinations Department announced the dates for applying for rescrutiny of the 2023 (2024) Advanced Level (A/L) answer scripts from today.
+
+The department requested that the applications be sent only through the online base system.
+
+Schools and private applicants should send their applications filled out on their own, and the closing date for accepting applications will be June 19.
+
+Candidates are requested to log on to the Examinations Department’s official website, www.doenets.lk, and click on the 'Exam Information Centre' tab or DoE mobile application, or login directly to www.onlineexams.gov.lk/eic.
+
+◼️
+
+[Data](articles/4432871c.json)
+
+---
+
+### Brands and celebrities hit by TikTok cyber-attack
+
+*2024-06-05 11:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Brands-and-celebrities-hit-by-TikTok-cyber-attack/107-284155) · `en`
+
+June 5 (BBC) - TikTok says it is addressing a cyber-attack that targeted several brands and celebrities.
+
+The video-sharing app, which is owned by Chinese company ByteDance, told the BBC that a "very limited" number of accounts had been compromised.
+
+It added that it was working with users to restore access to their accounts.
+
+TikTok did not share further details on the perpetrators of the cyber-attack, or how it was carried out.
+
+One of the compromised accounts belonged to news outlet CNN.
+
+"We have been collaborating closely with CNN to restore account access and implement enhanced security measures to safeguard their account moving forward," a TikTok spokesperson said.
+
+"We are dedicated to maintaining the integrity of the platform and will continue to monitor for any further inauthentic activity."
+
+CNN did not immediately respond to a BBC request for comment.
+
+TikTok said the account of reality TV star Paris Hilton was also targeted, but it was not compromised.
+
+...
+
+[Data](articles/bf399215.json)
+
+---
+
+### Sri Lankan Parliament congratulates Modi
+
+*2024-06-05 10:58:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankan-Parliament-congratulates-Modi/108-284153) · `en`
+
+Parliament, June 5 (Daily Mirror)- The Sri Lankan Parliament congratulated Indian Prime Minister Narendra Modi for his party’s victory at the South Asian nation’s elections which concluded on Tuesday while both the government and the opposition expressed Sri Lanka’s commitment to work closely with its neighbour.
+
+“Sri Lanka looks forward to continuing its long standing bilateral ties on shared beliefs and principles,” Prime Minister Dinesh Gunawadene said, making a special statement in Parliament.
+
+“As a close South Asian neighbour Sri Lanka will work with India to overcome challenges and explore opportunities that come to light in the present international situation,” he added.
+
+Leader of the Opposition Sajith Premadasa who also assured Sri Lanka’s support to India suggested that the House call for granting India a permanent membership of the UN Security Council.
+
+“We are confident that all 225 members of the Sri Lankan Parliament will back this move,” he said.
+
+...
+
+[Data](articles/865484e8.json)
+
+---
+
+### ICFS hosts multi-destination university admission day for higher education
+
+*2024-06-05 10:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/ICFS-hosts-multi-destination-university-admission-day-for-higher-education/108-284154) · `en`
+
+Colombo, June 5 (Daily Mirror) - The International Centre for Foreign Studies (ICFS) has organized a multi destination university admission day, aiming to provide Sri Lankan students with valuable opportunities for higher education across various destinations such as Australia, New Zealand, UK, Canada, Germany, and Malta.
+
+The admission is set to take place on June 8th from 10 am to 4 pm at the ICFS Education Centre in Nugegoda.
+
+The ICFS said they focused to offer students who aspire to study abroad a comprehensive understanding of the benefits and opportunities available in these countries.
+
+Some of the advantages extended to Sri Lankan students include the provision to arrive nine months before the course commencement to work, opportunities for part-time employment, post-study work visas that can be extended up to 2-3 years, English waivers, and scholarships.
+
+...
+
+[Data](articles/c00fae87.json)
+
+---
+
+### Police officers injured as jeep driven by OIC crashes into house
+
+*2024-06-05 10:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Police-officers-injured-as-jeep-driven-by-OIC-crashes-into-house/108-284151) · `en`
+
+Puliyankulam, June 5 (Daily Mirror) - Three police officers, including the Officer-in-Charge (OIC) of the Puliyankulam Police Station, sustained injuries yesterday after a police jeep veered off the road and crashed into a house in Puliyankulam.
+
+Chief Inspector Nalaka Idunil Gunasekara, the Puliyankulam OIC, was reportedly driving the jeep at the time of the incident.
+
+The jeep collided with an electric pole and a motorcycle parked near the house before crashing into it.
+
+The injured officers were initially taken to the Nedunkerny Hospital, where two were discharged later, while one was transferred to the Vavuniya General Hospital for further treatment.
+
+The jeep incurred significant damage in the accident. Following a breathalyzer test, the OIC was produced before the Nedunkerny Judicial Medical Officer (JMO) to ascertain whether he was under the influence of alcohol while driving.
+
+Police said that no evidence of intoxication was found and statements regarding the accident have been recorded.
+
+...
+
+[Data](articles/29f71466.json)
+
+---
 
 ### Derailment delays train services between Maradana, Fort
 
@@ -103,6 +209,8 @@ The Disaster Management Center reported that the number of people affected by th
 ◼️
 
 [Data](articles/450177e0.json)
+
+[Extended Data](ext_articles/450177e0.ext.json)
 
 ---
 
@@ -1061,6 +1169,10 @@ In addition to creating ‘Enterprise Sri Lanka,’ the Cabinet decided to direc
 *2024-06-05 05:14:34* · [`dailyftlk`](https://www.ft.lk/business/High-level-delegation-of-Swedish-companies-in-town-marking-75-years-of-bilateral-ties/34-762621) · `en`
 
 Sweden-Sri Lanka collaboration program from 5 to 7 June in Colombo
+
+Trade and Invest Commissioner of Sweden to India and Head – Business Sweden, South Asia Cecilia Oskarsson
+
+Swedish Honorary Consul- General in Colombo, Sri Lanka Sanjay Kulatunga
 
 Team Sweden celebrates 75 years of Sri Lanka-Sweden diplomatic relations by bringing a high-level delegation of Swedish companies to Sri Lanka from 5-7 June, in connection with Sweden’s National Day celebrations on 6 June and an Energy Seminar on 7 June.
 
@@ -2101,111 +2213,5 @@ Therefore, the CPC assured the public that there is no need to worry about their
 [Data](articles/47e24d3f.json)
 
 [Extended Data](ext_articles/47e24d3f.ext.json)
-
----
-
-### President Ranil - Sivanesathurai Chandrakanthan
-
-*2024-06-04 21:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/185329) · `ta`
-
-Sivanesathurai Chandrakanthan, the Rural Roads Development Minister, praised President Ranil Wickremesinghe for his leadership and economic strategies, highlighting the allocation of funds for road repairs post-floods and the initiation of rural infrastructure projects aimed at boosting the economy. He emphasized the importance of President Wickremesinghe's role in stabilizing the country's economy and improving living conditions, especially in rural areas.
-
-🟩
-
-Rural Roads Development Minister Sivanesathurai Chandrakanthan said that President Ranil Wickremesinghe is the only leader who can complete economic issues and lead the country on the right path.
-
-He also said that the President has issued a directive to allocate about 3 billion rupees for the immediate rehabilitation of the roads damaged by the floods caused by the inclement weather.
-
-State Minister Sivanesathurai Chandrakanthan made this statement at a media briefing held at the Presidential Media Center on Tuesday.
-
-“We have launched a program of constructing rural streets and bridges using about 12 billion rupees from the funds allocated by President Ranil Wickremesinghe -led government to improve the rural economy.. Through our ministry, about 65 percent of the tasks have been started. In the coming days, we are fully completing these tasks and implementing the necessary things to add to the villages.
-
-...
-
-[Data](articles/7812c4b6.json)
-
-[Extended Data](ext_articles/7812c4b6.ext.json)
-
----
-
-### Modi claims victory for his alliance in India’s general election
-
-*2024-06-04 21:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/99664/modi-claims-victory-for-his-alliance-in-indias-general-election) · `en`
-
-(AP) — Prime Minister Narendra Modi claimed victory for his alliance on Tuesday in India’s general election, despite a lackluster performance from his own party as it faced a stronger than expected challenge from the opposition, which pushed back against his mixed economic record and polarizing politics.
-
-Modi told a crowd at his party’s headquarters that his National Democratic Alliance will form the government for the third consecutive time, saying Indian voters had “shown immense faith” both in his party and the coalition alliance.
-
-“Today’s victory is the victory of the world’s largest democracy” he said.
-
-Still, for the first time since Modi’s Bharatiya Janata Party swept to power in 2014, it appeared unlikely it would secure a majority on its own, and the prime minister would instead need the support of the other parties in his coalition for his third five-year term in the world’s largest democratic exercise.
-
-...
-
-[Data](articles/eaf347d2.json)
-
-[Extended Data](ext_articles/eaf347d2.ext.json)
-
----
-
-### 3 -year -old child miserably death
-
-*2024-06-04 21:01:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மண்-மேடு-சரிந்ததில்-3-வயது-குழந்தை-பரிதாபமாக-மரணம்/175-338435) · `ta`
-
-In the Kegalle region, a tragic incident occurred where a 3-year-old child perished due to a mudslide. The child was buried under mud while playing in a ditch. Despite immediate rescue efforts and transport to the Kegalle Teaching Hospital, the child succumbed to their injuries.
-
-🟩
-
-A 3 -year -old child has died in the collapse of a mud in the Kegalle area, police said.
-
-Residents in the area reported that when the child was in a ditch, the mud toppled over the child.
-
-Later, the child died as the residents who came there were removed and taken to the Kegalle Teaching Hospital immediately after removing the soil that fell on the child.
-
-◼️
-
-[Data](articles/5ad74840.json)
-
-[Extended Data](ext_articles/5ad74840.ext.json)
-
----
-
-### Shiv Sena System celebrating Modi's victory in Jaffna
-
-*2024-06-04 20:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/185328) · `ta`
-
-The Sri Lanka Shiv Sena and Rutrasena organizations celebrated Narendra Modi's victory in Jaffna at the Vairavar Temple. They worshipped with camphor, broke coconuts, served food, and displayed fireworks, expressing joy over the win.
-
-🟩
-
-The celebration of the Sri Lanka Shiv Sena Organization and the Sri Lankan Rutrasena organizations was held at the Vairavar Temple in Jaffna, Jaffna.
-
-The camphor was fat and worshiped and the scattered beings were broken. Then the conflict to the public, the latte was served and expressed happiness. Fireworks fat also celebrated the success.
-
-◼️
-
-[Data](articles/574eb18a.json)
-
-[Extended Data](ext_articles/574eb18a.ext.json)
-
----
-
-### Mugs win
-
-*2024-06-04 20:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197396) · `si`
-
-"Mugs" seems to have won, but the final outcome hasn't been officially announced. The Indian PM expressed gratitude to his supporters for his victory.
-
-🟩
-
-But the end result is yet to be officially reported.
-
-Meanwhile, the Indian Prime Minister thanked the supporters for his victory.
-
-◼️
-
-[Data](articles/a71c2dae.json)
-
-[Extended Data](ext_articles/a71c2dae.ext.json)
 
 ---

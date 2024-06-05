@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-05 16:18:53**
+As of **2024-06-05 16:34:15**
 
 ## Newspaper Stats
 
-*Scraped **28,600** Articles*
+*Scraped **28,605** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 1,542
 economynextcom | 1,627
 dailyftlk | 1,687
 adalk | 2,437
-adaderanalk | 3,247
+adaderanalk | 3,249
 tamilmirrorlk | 3,362
-virakesarilk | 4,397
+virakesarilk | 4,400
 dailymirrorlk | 4,535
 adaderanasinhalalk | 4,594
 
@@ -26,11 +26,73 @@ adaderanasinhalalk | 4,594
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,600 (100.0%) of 28,600 articles have been extended.
+28,604 (100.0%) of 28,605 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-05 (Wednesday)
+
+### Indian PM Modi to be sworn in for third time on June 8
+
+*2024-06-05 16:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/99682/indian-pm-modi-to-be-sworn-in-for-third-time-on-june-8) · `en`
+
+Indian Prime Minister Narendra Modi is expected to be sworn-in for a record-equalling third term on June 8, after key allies pledged their continued support a day after a humbling election result that saw his party lose its majority in parliament.
+
+Modi, a populist who has dominated Indian politics since coming to power in 2014, will for the first time need the support of regional allies whose loyalties have wavered over the years, which could complicate the government’s reform agenda.
+
+On Wednesday, two allies in his National Democratic Alliance coalition, the Telugu Desam Party, a key regional player in the southern state of Andhra Pradesh, and the Janata Dal (United) which rules the northern state of Bihar, pledged their support.
+
+The federal cabinet met on Wednesday morning and recommended the dissolution of parliament, a constitutional formality before Modi can form a new government.
+
+Modi and his new cabinet were scheduled to be sworn-in on Saturday, local media reported.
+
+...
+
+[Data](articles/e2cb2c6e.json)
+
+---
+
+### Prisoner who was receiving treatment at the Kandy National Hospital
+
+*2024-06-05 16:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/185375) · `ta`
+
+A 36-year-old suspect connected to a schoolgirl's case in Ampitiya escaped from Kandy National Hospital on November 26, 2022, while being treated under police custody.
+
+🟩
+
+The prisoner escaped from a prison officer after receiving treatment at the Kandy National Hospital.
+
+On November 26, 2022, a suspect in connection with the incident of a schoolgirl in Ampitiya has escaped.
+
+The 36 -year -old suspect, who was receiving treatment at the Kandy National Hospital under the protection of prison officials, fled at around 5.00 pm on Tuesday (04).
+
+◼️
+
+[Data](articles/79a0b2bc.json)
+
+[Extended Data](ext_articles/79a0b2bc.ext.json)
+
+---
+
+### Nine new Ambassadors and 05 High Commissioners present credentials to President
+
+*2024-06-05 16:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/99681/-nine-new-ambassadors-and-05-high-commissioners-present-credentials-to-president) · `en`
+
+President Ranil Wickremesinghe has received the credentials of five newly appointed High Commissioners and nine Ambassadors to Sri Lanka at the Colombo Fort President’s House this morning (05), the President’s Media Division reported.
+
+The High Commissioners representing New Zealand, the Republic of Cyprus, the Maldives, the Republic of Sierra Leone, and the Republic of Mauritius were present there, the statement said.
+
+Additionally, Ambassadors from the Republic of Guatemala, the People’s Democratic Republic of Algeria, the Republic of Estonia, the Lao People’s Democratic Republic, the Republic of Colombia, the Republic of Turkey, Ireland, the Hellenic Republic (Greece), and the Republic of Bulgaria also handed over their credentials.
+
+A brief ceremony was organized at the Colombo Fort Presidential Palace to officially welcome the new High Commissioners and Ambassadors, the PMD said.
+
+...
+
+[Data](articles/a2ee0316.json)
+
+[Extended Data](ext_articles/a2ee0316.ext.json)
+
+---
 
 ### Govt accepts Supreme Court’s amendments to ‘Sri Lanka Electricity Bill’
 
@@ -132,6 +194,30 @@ The debt office offered 235 billion rupees of bills and raised a similar amount 
 
 ---
 
+### Planting Plant in Mannar
+
+*2024-06-05 15:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/185377) · `ta`
+
+On Wednesday, Mannar saw the renovation of its large bridge area with 300 continental plants, marking an environmental initiative led by the Mannar District Secretary, supported by various local authorities and organizations.
+
+🟩
+
+Continental plants were renovated on Wednesday morning (5) this morning in the middle of the Mannar Large Bridge and in the middle of the Mannar.
+
+Mannar District Secretary K. Kanakeswaran inaugurated the event with the help of the Mannar District Disaster Management Center and the Mannar City Divisional Secretariat.
+
+The Dinosha Mangrove Nursery was provided with 300 continental plants for the event.
+
+The event was attended by Mannar City Divisional Secretary M. Pradeep, Mannar District Disaster Management Assistant Director Kanakaratnam Dileepan, Mannar Mesito Company Director Jatsan Pigrato Environmental Coastal Protection Officers, Mannar District Secretariat and Divisional Secretariat Officers.
+
+◼️
+
+[Data](articles/4fc39a6e.json)
+
+[Extended Data](ext_articles/4fc39a6e.ext.json)
+
+---
+
 ### TISL raises concerns over Adani’s Sri Lanka power deal; demands transparency
 
 *2024-06-05 15:17:00* · [`economynextcom`](https://economynext.com/tisl-raises-concerns-over-adanis-sri-lanka-power-deal-demands-transparency-166391/) · `en`
@@ -189,6 +275,24 @@ Mogi's leadership won 293 seats in Parliament with 543 seats. Mogi's Bharatiya J
 [Data](articles/8a7f6209.json)
 
 [Extended Data](ext_articles/8a7f6209.ext.json)
+
+---
+
+### Today's currency exchange rate
+
+*2024-06-05 15:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/185374) · `ta`
+
+The current exchange rate is approximately 1 USD = 297.2930 INR.
+
+🟩
+
+The US $ 297.2930 is Rs.
+
+◼️
+
+[Data](articles/e9d00ed1.json)
+
+[Extended Data](ext_articles/e9d00ed1.ext.json)
 
 ---
 
@@ -2163,125 +2267,5 @@ The general public is kindly requested to take adequate precautions to minimize 
 [Data](articles/c129d124.json)
 
 [Extended Data](ext_articles/c129d124.ext.json)
-
----
-
-### How the man assaulted the child was arrested while he was hiding
-
-*2024-06-05 08:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197404) · `si`
-
-A man accused of assaulting a child was arrested while hiding. Two women and another man were also detained in connection with the case in Pulmudai Arsimal. The victim, a 4 1/2-year-old, was taken to court.
-
-🟩
-
-A series of display was a series of display while he was arrested while he was hiding when the person involved in the assault on social media.
-
-Two other women have been arrested along with the suspect in the area of ​​Pulmudai Arsimal, this morning (05).
-
-Two persons have been arrested two 45-year-old man and 37 and 46 women.
-
-The 4 1/2 year old child has also seized and produced before the Judiciary.
-
-◼️
-
-[Data](articles/09be8ecc.json)
-
-[Extended Data](ext_articles/09be8ecc.ext.json)
-
----
-
-### Cukuda Chaminda arrested over brutal assault
-
-*2024-06-05 07:36:51* · [`adalk`](https://www.ada.lk/breaking_news/දරුවෙකුට-අමානුෂිකව-පහරදුන්-කුකුල්-චමින්ද-අල්ලයි/11-410011) · `si`
-
-Cukuda Chaminda, suspected of assaulting a child and sharing the incident online, was arrested in Sri Lanka. The victim is safe in police custody, and further investigations are ongoing.
-
-🟩
-
-Welioya Police say two women who attacked a child and the assaulted child in social media networks recently have been arrested on suspicion of the child.
-
-The main suspect, who was arrested is a person known as Cukuda Chaminda, Police said.
-
-The suspect had circulated the video and closed the house with his child and the suspect and was arrested in the Pulmudai Arasimatiyaya area while he was hidden from the area.
-
-Police say that the victim child is currently safe in the police custody as stated along with the arrested persons.
-
-The operation conducted the operation with the assistance of the Pulgodi Police Station Special Task Force and the Criminal Investigation Unit of the Mullaitivu Division.
-
-Welioya Police are conducting further investigations.
-
-◼️
-
-[Data](articles/55cc6202.json)
-
-[Extended Data](ext_articles/55cc6202.ext.json)
-
----
-
-### University of Academic Work in progress
-
-*2024-06-05 07:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197403) · `si`
-
-Inter University Trade Unions' strike continues despite two rounds of talks with the government, which have not yielded a written agreement. Attorney General Mr. Richman confirms no resolution from discussions with Minister Suren Sanghavan. The strike began May 2 and remains active, awaiting a final written proposal from the government to conclude.
-
-🟩
-
-The Inter University Trade Unions states that their trade union action will continue further.
-
-Attorney General Mr. Richman said that the discussion with Minister of Higher Education Suren Sanghavan has ended without a solution.
-
-"The continuous strike started May 2 is still in place. Two rounds of discussions with State Minister Special Meeting held yesterday. The proposals provided by the government came forward. But we hope we need something in writing as the last solution. As soon as you have given that circular, we hope to end the strike. The strike is still in progress. The strike is currently in operation. "
-
-◼️
-
-[Data](articles/5f34a7e4.json)
-
-[Extended Data](ext_articles/5f34a7e4.ext.json)
-
----
-
-### Netherlands win
-
-*2024-06-05 07:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197402) · `si`
-
-Netherlands clinched the Twenty Twenty Twenty World Cup for the 21st time, defeating Nepal. Batting first, Nepal made 106 runs but lost all their wickets. In reply, Netherlands secured victory with 10 wickets remaining, losing 4 batsmen in 18.4 overs.
-
-🟩
-
-Netherlands beat the Netherlands today to win the 21 (05) consecutive year of Twenty Twenty Twenty World Cup.
-
-Batting first, the Nepal team scored 106 runs for the loss of all of the people.
-
-In response, the Netherlands won the match with 10 wickets for the loss of 4 wickets in 18.4 overs.
-
-◼️
-
-[Data](articles/88033949.json)
-
-[Extended Data](ext_articles/88033949.ext.json)
-
----
-
-### SriLankan Airlines makes profits in 2024 as currency depreciation stops
-
-*2024-06-05 07:02:00* · [`economynextcom`](https://economynext.com/srilankan-airlines-makes-profits-in-2024-as-currency-depreciation-stops-166259/) · `en`
-
-ECONOMYNEXT – State-run SriLankan Airlines has reported a net profit of 1,124 million rupees in the nine months to December 2023 turning around from a loss of 73.26 billion rupees for the full year ending March 2023, official data shows.
-
-SriLankan had earned revenues of 248 billion rupees in the nine months to December, with 205.6 billion in passenger income and 22.6 billion rupees in freight and 18.7 billion in unspecified other incomes.
-
-Operating costs were 223.8 billion rupees with 86.3 billion rupees spent on fuel, 22.09 billion on employees and another 6.7 billion listed as crew costs.
-
-Earnings before interest and tax was 24.5 billion rupees for the nine months compared to 41.9 billion rupees last year.
-
-Interest costs for the 9 months was 26.0 billion rupees against 51 billion rupees for the full last year.
-
-In the year 22/23 the government had injected 102.5 billion rupees as equity to settle due to the Ceylon Petroleum Corporation dating from prior years.
-
-...
-
-[Data](articles/aa90f32b.json)
-
-[Extended Data](ext_articles/aa90f32b.ext.json)
 
 ---

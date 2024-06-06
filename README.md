@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-06 22:52:50**
+As of **2024-06-06 23:04:35**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,641
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,912 (100.0%) of 28,914 articles have been extended.
+28,914 (100.0%) of 28,914 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,21 +48,29 @@ He also emphasized the critical importance of effectively managing the spread of
 
 [Data](articles/47ccc319.json)
 
+[Extended Data](ext_articles/47ccc319.ext.json)
+
 ---
 
-### පොලීසියේදී මුදල් පසුම්බියක් සොරාගත් අඹු-සැමි යුවළ කොටුවෙයි
+### Madignage-samie couple arrested in police station
 
 *2024-06-06 22:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197476) · `si`
 
-පවුල් ආරවුලක් සම්බන්ධයෙන් පැමිණිලි කිරීමට පොලීසියට පැමිණි අඹු-සැමි යුවළක් පොලිස් කොස්තාපල්වරියකගේ මුදල් පසුම්බියක් සොරාගෙන ගොස් ඇති බව වාද්දුව පොලීසිය පවසයි.
+A police constable couple was arrested for stealing from another officer's wallet. They turned themselves in at Wadduwa police station.
 
-සිද්ධිය සම්බන්ධයෙන් අත්අඩංගුවට ගෙන ඇත්තේ වාද්දුව කුරේ මාවතේ පදිංචි අඹු-සැමි යුවළකි.
+🟩
 
-ඔවුන් දෙදෙනා අද (06) පස්වරුවේ වාද්දුව පොලීසියේ විවිධ පැමිණිලි අංශයට පැමිණ සිට ඇති අතර, ඊට යාබදව පිහිටි ළමා හා කාන්තා කාර්යාංශයේ මේස ලාච්චුවක තිබූ මුදල් පසුම්බිය සොරාගෙන ගොස් ඇති බව පොලීසිය පැවසීය.
+The police say that a police constable couple had stolen a waller of a police constable for a family constable.
+
+The victim has been arrested in Wadduwa Kuru Mawatha.
+
+The two of them had come into the Wadduwa police station this afternoon, police said.
 
 ◼️
 
 [Data](articles/23394ea7.json)
+
+[Extended Data](ext_articles/23394ea7.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-06 14:53:16**
+As of **2024-06-06 15:03:44**
 
 ## Newspaper Stats
 
-*Scraped **28,816** Articles*
+*Scraped **28,830** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,78 @@ dbsjeyarajcom | 275
 bbccomsinhala | 281
 newsfirstlk | 363
 islandlk | 1,553
-economynextcom | 1,636
+economynextcom | 1,642
 dailyftlk | 1,711
-adalk | 2,459
-adaderanalk | 3,270
-tamilmirrorlk | 3,386
+adalk | 2,460
+adaderanalk | 3,271
+tamilmirrorlk | 3,391
 virakesarilk | 4,414
-dailymirrorlk | 4,578
+dailymirrorlk | 4,579
 adaderanasinhalalk | 4,629
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,814 (100.0%) of 28,816 articles have been extended.
+28,816 (100.0%) of 28,830 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-06 (Thursday)
+
+### Health authorities caution over infectious diseases as flood waters recede
+
+*2024-06-06 14:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/99705/health-authorities-caution-over-infectious-diseases-as-flood-waters-recede) · `en`
+
+The Department of Irrigation has announced that while flood waters are gradually receding, certain areas may continue to experience the aftermath of the recent flooding and adverse weather.
+
+Meanwhile, the Irrigation Department has extended the early flood warning issued for areas along the Gin River and Nilwala River, for the next 48 hours.
+
+Furthermore, the department has reported that the water level of the Kelani River has normalized, and the water level of the Kalu River is gradually decreasing.
+
+The Secretary of the Ministry of Health, Dr Palitha Mahipala, emphasized the need for public vigilance regarding the heightened risk of infectious diseases spreading following the recent floods across the island.
+
+While addressing a press conference at the Health Promotion Bureau, he urged the people to avoid unnecessary visits to flood-affected areas.
+
+...
+
+[Data](articles/e6e660b3.json)
+
+---
+
+### Parliamentary Committee advocates toddy export
+
+*2024-06-06 14:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Parliamentary-Committee-advocates-toddy-export/108-284261) · `en`
+
+Parliament, June 06 (Daily Mirror)- A Parliamentary Committee has instructed the relevant officials to take immediate steps to remove the obstacles in the local production and export of toddy, kithul, palm and coconut related products.
+
+The instructions were given during a meeting of the Sectoral Oversight Committee on National Economic and Physical Plans chaired by MP Mahindananda Aluthgamage.
+
+Relevant government institutions including the Excise Department and the Customs Department were called before the Committee to discuss and resolve the issues in the local production, distribution and export of toddy, kithul, palm and coconut related products
+
+It was also agreed to remove the barriers to the wholesale distribution of toddy palm produced in the Northern Province locally and abroad. The Committee instructed the exporters to prepare a necessary system to easily and systematically export toddy, kithul, palm and coconut related products.
+
+...
+
+[Data](articles/d2ae9a43.json)
+
+---
+
+### அத்தியாவசிய பொருட்களின் விலை குறைப்பு
+
+*2024-06-06 14:42:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அத்தியாவசிய-பொருட்களின்-விலை-குறைப்பு/175-338542) · `ta`
+
+அதன்படி, உருளைக்கிழங்கு 75 ரூபாவால் குறைக்கப்பட்டு 350 ரூபாவுக்கும், கோதுமை மா 5 ரூபாவால் குறைப்பட்டு 190 ரூபாவுக்கும் வெள்ளை கௌபீ 110 ரூபாவால் குறைப்பட்டு 990 ரூபாவுக்கும் சிவப்பு கௌபீ 45 ரூபாவால் குறைக்கப்பட்டு 950 ரூபாவுக்கும் விற்பனை செய்ய தீர்மானிக்கப்பட்டுள்ளது.
+
+இதேவேளை, காய்ந்த மிளகாய் 20 ரூபாவால் குறைக்கப்பட்டு 780 ரூபாவுக்கும், நெத்தலி 20 ரூபாவால் குறைக்கப்பட்டு 930 ரூபாவுக்கும், கடலைப் பருப்பு 15 ரூபாவால் குறைக்கப்பட்டு 185 ரூபாவுக்கும் விற்பனை செய்யப்படவுள்ளன.
+
+இந்த அத்தியாவசியப் பொருட்களின் குறைக்கப்பட்ட விலையை நாடளாவிய ரீதியில் உள்ள அனைத்து லங்கா சதொச விற்பனை நிலையங்களிலும் இன்று (06) முதல் பெற்றுக்கொள்ள முடியுமென அந்த நிறுவனம் அறிக்கை ஒன்றை வெளியிட்டுள்ளது.
+
+◼️
+
+[Data](articles/4fecd1d3.json)
+
+---
 
 ### 10,000 from the government to clean the flood affected houses
 
@@ -62,6 +116,8 @@ The government has decided to provide Rs. 10,000 each for the families affected 
 
 [Data](articles/a3e1cc87.json)
 
+[Extended Data](ext_articles/a3e1cc87.ext.json)
+
 ---
 
 ### Israeli strike on Gaza school kills 30 people; Military claims it was being used by Hamas
@@ -79,6 +135,46 @@ Witnesses and hospital officials said the predawn strike hit the al-Sardi School
 [Data](articles/49e8e422.json)
 
 [Extended Data](ext_articles/49e8e422.ext.json)
+
+---
+
+### Sri Lanka TRCSL grants preliminary approval for Starlink: State minister
+
+*2024-06-06 13:48:00* · [`economynextcom`](https://economynext.com/sri-lanka-trcsl-grants-preliminary-approval-for-starlink-state-minister-166566/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Telecommunications Regulatory Commission (TRCSL) has granted preliminary approval for Starlink to provide satellite-based internet services  in the island, following a formal public consultation process.
+
+“It’s my pleasure to announce that TRCSL has granted preliminary approval for Starlink to provide satellite-based internet services following a formal public consultation process,” State Technology Minister Kanaka Herath said on social media platform X (twitter).
+
+The details of the public consultation will be published tomorrow, Herath said.
+
+President Ranil Wickremesinghe discussed connecting the island to the Starlink satellite system with its founder Elon Musk, when the two met on the sidelines of the World Water Forum in Indonesia.
+
+Starlink is a low earth orbit satellite network, connected to Musk’s SpaceX group.
+
+The network connects around 3 million people with high-speed internet across nearly 100 countries, territories and other markets. (Colombo/Jun6/2024)
+
+◼️
+
+[Data](articles/858b9b75.json)
+
+---
+
+### காணி பிரச்சினை நீண்டு செல்கிறது
+
+*2024-06-06 13:47:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காணி-பிரச்சினை-நீண்டு-செல்கிறது/175-338539) · `ta`
+
+வடக்கு, கிழக்கு மாகாணங்களில் யுத்தம் நிறைவடைந்த பின்னரும் அந்தப் பிரதேசங்களில் வாழும் மக்களின் வாழ்வாதாரத்தைப் பேணுவதற்கான காணி பயன்பாட்டுப் பிரச்சினை இன்னமும் தீர்க்கப்படாத பிரச்சினையாகவே உள்ளது.
+
+குடியிருப்புகளைச் சுற்றியுள்ள பெரும்பாலான இடங்கள் பாதுகாக்கப்பட்ட வனப்பகுதியாக வர்த்தமானி வெளியிடப்பட்டிருத்தல் இதற்கு காரணமாகும். அவ்வாறே மக்களுக்கான காணிகளை விடுவிப்பதில் அரசாங்கத்தின் நடவடிக்கைகளிலும் பல பிரச்சினைகள் காணப்படுவதும் இதற்கு காரணமாக அமைவதாக எதிர்க்கட்சித் தலைவர் தெரிவித்தார்.
+
+நிலையியற் கட்டளை 27(2) இன் கீழ் பாராளுமன்றத்தில் வியாழக்கிழமை (06) வடக்கு கிழக்கு காணி விவகாரம் தொடர்பில் கேள்வி எழுப்பும் போதே எதிர்க்கட்சித் தலைவர் மேற்கண்டவாறு தெரிவித்தார்.
+
+1985 ஆம் ஆண்டு நில அளவீட்டு வரைபடத்தின் படி, பாதுகாக்கப்பட்ட வனப்பகுதி மற்றும் எஞ்சிய காடுகள் விடுவிக்கப்படும் என்று கூறப்பட்டுள்ளது. இதன் பிரகாரம், விடுவிப்பதற்காக அடையாளம் காணப்பட்டுள்ள அல்லது பிரதேச செயலாளர்களினால் விடுவிக்கக் கோரப்பட்டுள்ள காணியின் அளவு என்ன?
+
+...
+
+[Data](articles/5bca8086.json)
 
 ---
 
@@ -121,6 +217,28 @@ The decision has been taken following a proper public affiliation process and fu
 [Data](articles/54eb31dc.json)
 
 [Extended Data](ext_articles/54eb31dc.ext.json)
+
+---
+
+### Sri Lanka proposes sharp price reduction for lower electricity users from July 1
+
+*2024-06-06 13:42:00* · [`economynextcom`](https://economynext.com/sri-lanka-proposes-sharp-price-reduction-for-lower-electricity-users-from-july-1-166564/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Power and Energy Minister Kanchana Wijesekera has proposed sharp reduction in electricity bills for lower users from July 1.
+
+Wijesekera told the parliament that the proposal needs to be approved by the regulator, Public Utilities Commission of Sri Lanka (PUCSL).
+
+According to the new proposal, unit cost of households using 0-30 will be reduced by 2 rupees to 6 from the current 8 rupees.
+
+The unit cost of those using 30-60 will be reduced by 11 rupees to 9 and 60-90 will be reduced by 12 rupees to 18, Wijesekera said.
+
+The next category of households using 90-120 units are proposed to be charged 30 rupees from the current 50 rupees.
+
+“We will be subimtiing our new proposal to reduce the electricity bill to the Public Utilities Commission. The government, as a policy, decided to provide maximum concession to lower electricity users, lower income people and those consumers who fall under these categories,” the Minister told the Parliament.
+
+...
+
+[Data](articles/a6b21f86.json)
 
 ---
 
@@ -206,6 +324,26 @@ Stressing the importance of conveying this information to the government, he hig
 
 ---
 
+### විදුලි ගාස්තු අඩු වෙන්නේ මෙහෙමයි
+
+*2024-06-06 13:29:04* · [`adalk`](https://www.ada.lk/breaking_news/විදුලි-ගාස්තු-අඩු-වෙන්නේ-මෙහෙමයි/11-410052) · `si`
+
+ජූලි මාසයේ 1 වනදා සිට විදුලි බිල අඩු කිරීමට යෝජනා කර ඇති බව විදුලිබල හා බලශක්ති අමාත්‍ය කංචන විජේසේකර මහතා අද (06) පාර්ලිමේන්තුවේ දී පැවසීය.
+
+නව විදුලි බිල අඩුකිර‍ිමේ යෝජනා අනුව ග‍ාහස්ත විදුලි පාරිභෝගිකයන් වෙනුවෙන් වැඩි සහනයක් හිමිවීමට නියමිතය.
+
+මෙහිදී ඒ් ඒ් ඒකක පරාසයන්වලිදී විදුලි ගාස්තු අඩුවන ආකාරය අමාත්‍යවරයා විසින් පාර්ලිමේන්තුවට පැහැදිලි කළේය.
+
+ඒකක 90 - 120 අතර ඒකකයක මිල රුපියල් 50 සිට 30 දක්වා අඩු වෙයි.
+
+ආගමික ස්ථාන සහ කුඩා කර්මාන්ත සඳහා ද මෙම සහනය ලබාදීමට නියමිත බවත් එම යෝජනාව හෙට (07) හෝ සඳුදා දිනයේ දී මහජන උපයෝගීතා කොමිසම වෙත භාරදීමට නියමිත බවත් අමාත්‍යවරයා වැඩිදුරටත් පැවැසීය.
+
+◼️
+
+[Data](articles/27973552.json)
+
+---
+
 ### Senior Maldivians seek to settle in Sri Lanka: FM asks for permission
 
 *2024-06-06 13:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Senior-Maldivians-seek-to-settle-in-Sri-Lanka-FM-asks-for-permission/108-284260) · `en`
@@ -221,6 +359,8 @@ The two Ministers also exchanged views on the current political situation.
 ◼️
 
 [Data](articles/d347309d.json)
+
+[Extended Data](ext_articles/d347309d.ext.json)
 
 ---
 
@@ -628,6 +768,20 @@ Accordingly, the apology issued by the former president has been ruled out.. Rem
 
 ---
 
+### மைத்திரியின் பொது மன்னிப்பு செல்லாது
+
+*2024-06-06 11:21:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மைத்திரியின்-பொது-மன்னிப்பு-செல்லாது/175-338528) · `ta`
+
+இராஜகிரிய, ரோயல் பார்க் கொலைச் சம்பவம் தொடர்பில் மரண தண்டனை விதிக்கப்பட்டிருந்த ஜூட் ஷமந்த ஜயமஹா என்பவருக்கு முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன மன்னிப்பு வழங்கி விடுதலை செய்த தீர்மானம் அரசியலமைப்புக்கு எதிரானது என உயர் நீதிமன்றம் தீர்ப்பளித்துள்ளது.
+
+இதன்படி, குறித்த பிரதிவாதியை விடுவித்து முன்னாள் ஜனாதிபதி வழங்கிய மன்னிப்பு செல்லுபடியற்றது என தீர்ப்பளிக்கப்பட்டுள்ளது. R
+
+◼️
+
+[Data](articles/696c680e.json)
+
+---
+
 ### Maithri's public apology is invalid
 
 *2024-06-06 11:21:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மைத்திரியின்-பொது-மன்னிப்பு-செல்லுபடியற்றது/175-338528) · `ta`
@@ -665,6 +819,28 @@ Addressing the media, he said Sumathipala is not the UPFA General Secretary.
 [Data](articles/11ef2a29.json)
 
 [Extended Data](ext_articles/11ef2a29.ext.json)
+
+---
+
+### Sri Lanka to send 10,000 workers to South Korea: Labor Ministry
+
+*2024-06-06 11:17:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-send-10000-workers-to-south-korea-labor-ministry-166433/) · `en`
+
+ECONOMYNEXT – Sri Lanka will send 10,000 workers to South Korea in 2024, an official of the Ministry of Labor and Foreign Employment said.
+
+“We sent 6,500 to 7,000 workers last year and this year we plan to send 10,000,” the ministry’s media secretary, Sanjaya Nallaperuma told EconomyNext.
+
+“We are sending workers in production, fishing and construction industries.”
+
+South Korean workers prefer not to work in jobs that are considered ‘dirty, dangerous, or difficult’ (3Ds). These jobs, typically in the above fields, are filled by migrant workers.
+
+In order to be employed in Korea, Sri Lankan workers must take a Korean language test.
+
+Korean Foreign Minister Lee Jung-Sik assured more employment opportunities for Sri Lankans in South Korea, especially in the apparel and caregiving sector, when he visited the island late last year.
+
+...
+
+[Data](articles/7ba1e896.json)
 
 ---
 
@@ -972,6 +1148,34 @@ Hambantota Police are currently conducting further inquiries into the incident.
 
 ---
 
+### Sri Lanka rupee opens weaker at 302.48/55 to US dollar
+
+*2024-06-06 10:14:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-weaker-at-302-48-55-to-us-dollar-166544/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee edged up to 302.48/55 to the US dollar on Thursday in the first half-hour of trading, while bond yields were down and stocks opened 0.56 percent higher, dealers said.
+
+Sri Lanka rupee closed at 302.35/45 to the greenback on Wednesday.
+
+In the secondary market, yields were slightly down, dealers said.
+
+A bond maturing on 15.12.2026 was quoted at 9.80/90 percent up from 9.85/90 percent.
+
+A bond maturing on 15.09.2027 was quoted at 10.45/50 percent up from 10.40/55 percent.
+
+A bond maturing on 01.07.2028 was quoted at 10.80/90 percent down from 10.90/11.00 percent.
+
+A bond maturing on 15.05.2030 closed at 11.70/80 percent down from 11.75/90 percent.
+
+A bond maturing on 01.10.2032 closed at 11.85/95 percent down from 11.90/12.00 percent.
+
+In equities, Colombo’s All Share Price Index gained 93.74 points to 12,283 and the S&P SL20 of more liquid stocks up 1.09 percent or 39.18 points to 3,632, in the first hour of trade. (Colombo/Jun6/2024)
+
+◼️
+
+[Data](articles/d271c62b.json)
+
+---
+
 ### Student killed in clashes between students
 
 *2024-06-06 10:12:16* · [`adalk`](https://www.ada.lk/breaking_news/සිසුන්-දෙපිරිසක්-අතර-ඇතිවූ-ගැටුමකින්-සිසුවෙකු-මරුට/11-410042) · `si`
@@ -991,6 +1195,24 @@ The suspect is a 17 year old in Hambantota a resident of Hambantota. It has been
 [Data](articles/be61eb83.json)
 
 [Extended Data](ext_articles/be61eb83.ext.json)
+
+---
+
+### வெள்ளத்தில் மாயமான மாணவன் சடலமாக மீட்பு
+
+*2024-06-06 10:11:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெள்ளத்தில்-மாயமான-மாணவன்-சடலமாக-மீட்பு/175-338522) · `ta`
+
+அங்குருவத்தோட்ட பொலிஸ் பிரிவிற்குட்பட்ட நேபட நியூச்செட்டல் தோட்டத்தில் வெள்ளத்தில் சிக்கி காணாமல் போயிருந்த மாணவனின் சடலம் கண்டுபிடிக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+குறித்த பகுதியில் உள்ள பாடசாலை மாணவர் ஒருவர் வெள்ளத்தில் சிக்கியதாக நேற்று தெரியவந்தது.
+
+பின்னர் அங்குருவத்தோட்ட பொலிஸ் பிரதேசத்தில் உடுவர கிராமசேவர் பிரிவில் 17 வயதுடைய பாடசாலை மாணவனின் சடலம் நேற்று மீட்கப்பட்டிருந்தது.
+
+சடலம், ஹொரணை வைத்தியசாலையில் வைக்கப்பட்டுள்ளதுடன், அங்குருவத்தோட்ட பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர். R
+
+◼️
+
+[Data](articles/7d90ad1a.json)
 
 ---
 
@@ -1170,6 +1392,30 @@ He told the Daily Mirror that the UTUJC recently had a discussion with the Finan
 
 ---
 
+### Sri Lanka Insurance Corporation profits up on investment income
+
+*2024-06-06 09:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-insurance-corporation-profits-up-on-investment-income-166536/) · `en`
+
+ECONOMYNEXT – State-run Sri Lanka Insurance Corporation Ltd has made profits of 29.2 billon rupees in 2024, helped by higher investment income and lower claims, a Finance Ministry report said.
+
+Gross written premium which fell to 41.2 billion rupees in 2021 from 43.2 billion in 2022 had recovered to 44.2 billion rupees, the report said.
+
+Benefits, losses and claims fell to 29.2 billion rupees in 2023 from 34.2 billion rupees in 2022.
+
+Investment income rose to 28.7 billion rupees from 13.7 billion rupees in 2022.
+
+Sri Lanka’s interest rates spiked in 2022 as efforts were made to stabilize the balance of payments.
+
+Unspecified other income which was 13.1 billion rupees in 2022 was a negative 880 million in 2023.
+
+Pretax profits rose to 29.2 billion from 23.4 billon last year. Net profit was 26.3 billion rupees up from 21.5 billion last year and 10.4 billion two year ago.
+
+...
+
+[Data](articles/1fac407a.json)
+
+---
+
 ### Parliamentary Council begins
 
 *2024-06-06 09:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197446) · `si`
@@ -1247,6 +1493,28 @@ In this case, police have arrested a 17 -year -old schoolgirl in connection with
 [Data](articles/ab5f2530.json)
 
 [Extended Data](ext_articles/ab5f2530.ext.json)
+
+---
+
+### Sri Lanka cabinet approval sought for debt restructuring process
+
+*2024-06-06 09:16:00* · [`economynextcom`](https://economynext.com/sri-lanka-cabinet-approval-sought-for-debt-restructuring-process-166532/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s President Ranil Wickremesinghe has sought cabinet approval for a matter relating to debt restructuring, Minister Bandula Gunwardana said.
+
+“There were cabinet papers submitted to get approval for changes required for debt restructuring,” Minister Gunawardana told reporters this week.
+
+“Restructuring external debt is the most decisive requirement of the country. Without restructuring debt it is not possible to take the country even one tenth of an inch (dasher-mer-yuk-wuth)”
+
+Sri Lanka has reached in principle agreements with official creditors but has to sign final agreements (MOUs).
+
+A deal with bond holders and other debt classified as commercial also has to be reached.
+
+The International Monetary Fund has scheduled a meeting on June 12, to consider the review of Sri Lanka’s program. (Colombo/June06/2024)
+
+◼️
+
+[Data](articles/eac1a158.json)
 
 ---
 
@@ -1903,269 +2171,5 @@ It is not a fight between two equal states but between an occupier and those tha
 [Data](articles/c5367ced.json)
 
 [Extended Data](ext_articles/c5367ced.ext.json)
-
----
-
-### SL unit trust industry crosses key milestones, gains traction
-
-*2024-06-06 05:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SL-unit-trust-industry-crosses-key-milestones-gains-traction/108-284222) · `en`
-
-Amidst the declining interest rates and entrance of new funds, Sri Lanka’s unit trust industry has continued to gain traction this year. The number of unit trust holders surpassed 100,000 and the total net asset value (NAV) crossed Rs.500 billion at end-April this year.
-
-According to the Unit Trust Association of Sri Lanka, the number of unit trust holders rose to 103,107 at end-April this year, compared to 74,686 unit trust holders a year ago. Simultaneously, the NAV of unit trusts rose by 178.41 percent year-on-year to Rs.505.98 billion in the period.
-
-At end-April, the open-ended NDB Wealth Money Fund was by far the largest unit trust, with 21,418 unit trust holders and an NAV of Rs.217.27 billion.
-
-In terms of NAV, CAL Investment Grade Fund was the second largest unit trust, with Rs.51 billion assets under its management. In terms of number of holders, Softlogic Money Market Fund was the second largest unit trust, with 15,640 unit trust holders.
-
-...
-
-[Data](articles/9264d8df.json)
-
-[Extended Data](ext_articles/9264d8df.ext.json)
-
----
-
-### AHK champions first-ever Sri Lankan delegation at Drupa 2024
-
-*2024-06-06 04:43:01* · [`dailyftlk`](https://www.ft.lk/business/AHK-champions-first-ever-Sri-Lankan-delegation-at-Drupa-2024/34-762685) · `en`
-
-The Delegation of German Industry and Commerce in Sri Lanka (AHK Sri Lanka) proudly facilitated the first-ever Sri Lankan delegation’s participation at Drupa 2024, the world’s largest trade fair for the printing industry and technology.
-
-Held after an eight-year hiatus, Drupa 2024 was a landmark event, marking significant advancements and opportunities in the global printing industry.
-
-AHK Sri Lanka played a pivotal role in organising and supporting the delegation, which comprised 17 members from the Sri Lanka Association for Printers (SLAP), representing eight companies from the commercial, newspaper, stationery printing, and packaging industries. This pioneering effort by AHK Sri Lanka not only showcased the diverse capabilities of Sri Lanka’s printing sector but also facilitated vital bilateral discussions with key stakeholders from the German printing industry.
-
-...
-
-[Data](articles/a3ad36c1.json)
-
-[Extended Data](ext_articles/a3ad36c1.ext.json)
-
----
-
-### Approval to make physical punishment a crime: experience Ranjan Ramanayake's experience
-
-*2024-06-06 04:42:30* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c033kdw092go) · `si`
-
-In Sri Lanka, a move to criminalize physical punishment gained momentum, highlighted by the experiences shared by former MP Ranjan Ramanayake. Despite societal norms favoring corporal punishment, initiatives like Ranjan's art exhibition, which replaced physical punishment with creative tasks, showed positive outcomes. The proposal aims to amend laws to prohibit physical punishment, reflecting a shift towards more humane educational practices.
-
-🟩
-
-Approval to make physical punishment a crime: experience Ranjan Ramanayake's experience
-
-In the past few days, many social media users were concerned in the past few days.
-
-Accordingly, the police and two other women have been arrested in connection with the suspect in the attack and two other women.
-
-The suspect is a 45 year old man, and the two women are residents of Welioya, Kalheyanura, a 37 year old age and 46 years old.
-
-Meanwhile, a person has also been arrested by the family with circulation of the social media.
-
-The suspects and women were produced before the Padaviya Magistrate's Court and remanded until June 19.
-
-The girl was attacked by the 4 1/2 year old boy in charge of the Child Probation Department.
-
-The Penal Code and Criminal Procedure Code of Criminal Code and the Criminal Code of Criminal Code of Sri Lanka were interpreted as a crime.
-
-...
-
-[Data](articles/52e90bb0.json)
-
-[Extended Data](ext_articles/52e90bb0.ext.json)
-
----
-
-### United Petroleum inks BOI deal to start operations with $ 27.5 m investment
-
-*2024-06-06 04:41:58* · [`dailyftlk`](https://www.ft.lk/business/United-Petroleum-inks-BOI-deal-to-start-operations-with-27-5-m-investment/34-762684) · `en`
-
-United Petroleum Lanka Ltd., on Tuesday signed an agreement with the Board of Investment (BOI) for an investment of $ 27.5 million to import, storage and sale of petroleum.
-
-As part of this endeavour, United Petroleum will have a total of 200 fuel stations countrywide to operate for 20 years to import, store, distribute and sell petroleum products in Sri Lanka. The company has allocated the control of 150 privately-owned fuel outlets currently operated by the Ceylon Petroleum Corporation (CEYPETCO) and by establishing additional 50 new filling stations under its management.
-
-BOI Chairman Dinesh Weerakkody and United Petroleum Lanka Ltd., Director and CEO Dr. Prabath Samarasinghe signed the contract. The agreement grants United Petroleum Lanka Ltd., 20 years to operate the project, governed by the regulations outlined in the Sri Lanka Board of Investment Act No. 17.
-
-...
-
-[Data](articles/b91683fa.json)
-
-[Extended Data](ext_articles/b91683fa.ext.json)
-
----
-
-### Ambeon Group appoints Jacky Tsoi as Independent Non-Executive Director
-
-*2024-06-06 04:39:39* · [`dailyftlk`](https://www.ft.lk/business/Ambeon-Group-appoints-Jacky-Tsoi-as-Independent-Non-Executive-Director/34-762683) · `en`
-
-Ambeon Capital PLC and Ambeon Holdings PLC together have announced the appointment of Jacky Tsoi as an Independent Non-Executive Director of both entities.
-
-Tsoi is the Managing Partner of Syndicate Capital, an international investment conglomerate that focuses on co-investments in mid-market companies alongside core and specialist sponsors, especially in the technology, financial services, green energy, education, healthcare, and industrial sectors.
-
-A qualified accountant with over 20 years of diverse experience in the financial technology and financial services industries, Tsoi has a proven track record of driving strategic initiatives, leading high-performing teams, and delivering innovative solutions that improve operational efficiency and enhance customer experience. He is adept at navigating complex regulatory environments, managing risk, and leveraging emerging technologies to achieve business objectives.
-
-...
-
-[Data](articles/385fdee4.json)
-
-[Extended Data](ext_articles/385fdee4.ext.json)
-
----
-
-### High-level Thai delegation explores renewable energy collaboration with Hayleys
-
-*2024-06-06 04:38:03* · [`dailyftlk`](https://www.ft.lk/business/High-level-Thai-delegation-explores-renewable-energy-collaboration-with-Hayleys/34-762682) · `en`
-
-During the course of their visit to Sri Lanka, a high-level Thai delegation led by Deputy Permanent Secretary for Foreign Affairs Busadee Santipitaks together with the Ambassador Paitoon Mahapannaporn, visited Hayleys Fabric PLC in conjunction with Hayleys Solar, the renewable energy arm of Hayleys Fentons, to explore renewable energy solutions incorporated into the operations of the factory.
-
-The delegation consisted of officials from various Thai agencies and private sector representatives, including the Ministry of Foreign Affairs, Ministry of Energy, Royal Thai Embassy of Sri Lanka, Electricity Generating Authority of Thailand (EGAT), PTT Public Company Ltd., and Global Power Synergy Public Company Ltd. Guided by the directives of the Prime Minister of Thailand, the delegation’s visit aimed to explore the potential for future cooperation in renewable energy, with a particular focus on electricity generation in Sri Lanka.
-
-...
-
-[Data](articles/7e17fb5c.json)
-
-[Extended Data](ext_articles/7e17fb5c.ext.json)
-
----
-
-### E. B. Creasy Solar energises 9th Annual Construction Power and Energy Expo 2024
-
-*2024-06-06 04:30:16* · [`dailyftlk`](https://www.ft.lk/business/E-B-Creasy-Solar-energises-9th-Annual-Construction-Power-and-Energy-Expo-2024/34-762681) · `en`
-
-E.B. Creasy Solar Sales Manager Eksath De Alwis hands over the Platinum Sponsorship cheque to Lanka Exhibition and Conference Services Managing Director Arjun Dharmadasa. LECS CEO Aasim Mukthar (right) and Project Manager Chamara Sooriyaarachchi are also present
-
-E. B. Creasy Solar, has announced its Platinum Sponsorship of the Construction Power and Energy Expo 2024, Sri Lanka’s premier event dedicated to interior products, construction, power, and energy.
-
-As a long-standing advocate of sustainable development, E. B. Creasy Solar said it is delighted to power this prestigious expo making its return for the 9th consecutive year. Scheduled to take place from 5 to 7 July at the Bandaranaike Memorial International Conference Hall (BMICH), Colombo, the exhibition will serve as a vital platform for industry professionals to showcase cutting-edge trends, technologies, and solutions.
-
-...
-
-[Data](articles/2d4e1472.json)
-
-[Extended Data](ext_articles/2d4e1472.ext.json)
-
----
-
-### Tea prices soar in May over declining volumes
-
-*2024-06-06 04:28:12* · [`dailyftlk`](https://www.ft.lk/business/Tea-prices-soar-in-May-over-declining-volumes/34-762680) · `en`
-
-All elevations register gains month-on-month, both in rupee and dollar terms
-
-In the backdrop of declining volumes, tea prices are on the rise sharply with May establishing record National Sales Averages both in rupee and dollar terms.
-
-Forbes and Walker Tea Brokers said in May, as well as year to date, have seen significant gains except for High and Medium grown.
-
-In May, the total auction average of Rs. 1,266.80 per kilo, the High grown average of Rs. 1,162.31 per kilo, Medium grown average of Rs. 1,074.79 per kilo and Low grown average of Rs. 1,608.57 were the highest ever.
-
-Sri Lanka’s tea crop in April 2024 has dropped to a four year low of 21.46 million kilos, which is also the lowest since the COVID-19 lockdown year of 2020.
-
-...
-
-[Data](articles/ab191420.json)
-
-[Extended Data](ext_articles/ab191420.ext.json)
-
----
-
-### Cabinet clears to draft Value Added Act revision
-
-*2024-06-06 04:27:00* · [`dailyftlk`](https://www.ft.lk/business/Cabinet-clears-to-draft-Value-Added-Act-revision/34-762679) · `en`
-
-The Cabinet of Ministers on Monday approved to direct the Legal Draftsman to draft the Bill to revise the Value Added Tax Act No. 14 of 2002 including amendments recognised as per the recommendations furnished by the temporary VAT committee appointed.
-
-This includes the revisions acknowledged in accordance with the recommendations made by the temporary VAT committee, which was appointed in accordance with the directives of the joint committee chaired by the Government accounting committee.
-
-This committee included the State Finance Committee, the Committee on Ways and Methods, the Sector Supervision Committee on National Economy and Physical Planning, the sector supervision committee on redressing the economic crisis, and the committee on ways and methods to implement tax restorations on Value Added Tax introduced by the Value Added Tax (Amended) Act No. 32 2023.
-
-...
-
-[Data](articles/bdd2e036.json)
-
-[Extended Data](ext_articles/bdd2e036.ext.json)
-
----
-
-### CameraLK appointed as official Sony distributor for Maldives
-
-*2024-06-06 04:26:43* · [`dailyftlk`](https://www.ft.lk/business/CameraLK-appointed-as-official-Sony-distributor-for-Maldives/34-762678) · `en`
-
-CameraLK Managing Director Anushka Gunasinghe with RMDC, Sony South East Asia Head Jeremy Heng
-
-CameraLK, the leading camera retail giant in Sri Lanka, has been appointed by Sony Electronics as the official distributor for the Maldives. This partnership marks a significant milestone in CameraLK’s expansion and reinforces its position as a premier provider of photographic and imaging products in South Asia.
-
-With this appointment, CameraLK is all set to open a new branch in Maldives by the end of this month. This expansion will ensure that the latest Sony products, including cameras, lenses, and accessories, are readily available to photography enthusiasts and professionals in the Maldives. The new branch aims to provide the same exceptional customer service and expert advice that CameraLK is known for in Sri Lanka.
-
-...
-
-[Data](articles/b614de5c.json)
-
-[Extended Data](ext_articles/b614de5c.ext.json)
-
----
-
-### TNA to evaluate candidates before endorsing Presidential contender
-
-*2024-06-06 04:23:51* · [`dailyftlk`](https://www.ft.lk/news/TNA-to-evaluate-candidates-before-endorsing-Presidential-contender/56-762677) · `en`
-
-TNA MP M.A. Sumanthiran announces party will decide which candidate to support at Presidential elections after discussions with all contenders
-
-Denies reports suggesting TNA might back SJB leader Sajith Premadasa
-
-TNPF leader Gajendrakumar Ponnambalam calls for Tamil community to boycott SL’s Presidential election
-
-Emphasises boycotting elections would send a strong message to Govt. reflecting community’s rejection of participation under current conditions
-
-Tamil National Alliance (TNA) MP M.A. Sumanthiran announced yesterday that the party will decide which candidate to support in the upcoming presidential election after holding discussions with all the main contenders.
-
-Speaking to the media, Sumanthiran said the party will evaluate the proposed programs of the candidates and engage in discussions with them. “The final decision will be made following these meetings,” he said.
-
-...
-
-[Data](articles/7462cf0b.json)
-
-[Extended Data](ext_articles/7462cf0b.ext.json)
-
----
-
-### Marikkar urges Govt. to increase disaster compensation due to economic crisis
-
-*2024-06-06 04:22:42* · [`dailyftlk`](https://www.ft.lk/news/Marikkar-urges-Govt-to-increase-disaster-compensation-due-to-economic-crisis/56-762676) · `en`
-
-SJB MP S.M. Marikkar points out that current compensation amounts has led to substandard or spoiled food for affected families
-
-Expresses concern that Colombo’s flood mitigation project remains incomplete due to a change in Govt. and lack of funds
-
-Emphasises need for concrete actions, not just discussions, and stressed there is already a master plan for flood mitigation
-
-Urges Govt. to allocate funds and begin work on remaining steps to control floods in Kolonnawa
-
-Samagi Jana Balawegaya (SJB) MP S.M. Marikkar urged the Government yesterday to increase the compensation provided to those affected by disaster situations to reflect current market prices.
-
-...
-
-[Data](articles/6b6a1ab2.json)
-
-[Extended Data](ext_articles/6b6a1ab2.ext.json)
-
----
-
-### Suspect arrested in less than 24 hours after viral child abuse video
-
-*2024-06-06 04:21:11* · [`dailyftlk`](https://www.ft.lk/news/Suspect-arrested-in-less-than-24-hours-after-viral-child-abuse-video/56-762675) · `en`
-
-Several police teams on the hunt for a man seen brutally assaulting a child in a viral video was arrested early yesterday while hiding in Arasimalai, Pulmoddai.
-
-Munasinghe Kodikarage Chaminda, a 45-year-old resident of Hansawila, Kalyanipura in Welioya, was arrested on charges of child cruelty. The two women accompanying him, along with a neighbour and another who helped the main suspect secure a hiding place, were also arrested for aiding and abetting him. The five suspects were ordered to be remanded until 19 June by the Padaviya Magistrates Court yesterday.
-
-The child was taken into police protection and admitted to Mullaitivu Hospital for treatment. The 4-year-old is currently under the care of the North Western Province Department of Probation and Child Care Services.
-
-The arrests were carried out by officers of the Welioya Police, Mullaitivu Crimes Investigation Division and the Special Task Force Camp in Pulmoddai.
-
-...
-
-[Data](articles/bf9abb91.json)
-
-[Extended Data](ext_articles/bf9abb91.ext.json)
 
 ---

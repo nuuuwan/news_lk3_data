@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-06 15:18:54**
+As of **2024-06-06 15:34:09**
 
 ## Newspaper Stats
 
-*Scraped **28,830** Articles*
+*Scraped **28,843** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 1,711
 adalk | 2,460
 adaderanalk | 3,271
 tamilmirrorlk | 3,391
-virakesarilk | 4,414
+virakesarilk | 4,427
 dailymirrorlk | 4,579
 adaderanasinhalalk | 4,629
 
@@ -26,11 +26,23 @@ adaderanasinhalalk | 4,629
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,830 (100.0%) of 28,830 articles have been extended.
+28,830 (100.0%) of 28,843 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-06 (Thursday)
+
+### மாலைத்தீவு வெளிவிவகார அமைச்சர் - பொதுமக்கள் பாதுகாப்பு அமைச்சர் சந்திப்பு
+
+*2024-06-06 15:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/185449) · `ta`
+
+இலங்கைக்கு உத்தியோகபூர்வ விஜயம் மேற்கொண்டுள்ள மாலைத்தீவு வெளிவிவகார அமைச்சர் மூசா ஸமீர் உள்ளிட்ட குழுவினருக்கும் பொதுமக்கள் பாதுகாப்பு அமைச்சர் டிரான் அலஸுக்கும் இடையிலான சந்திப்பு ஒன்று இடம்பெற்றது.
+
+◼️
+
+[Data](articles/585deaa5.json)
+
+---
 
 ### Health authorities caution over infectious diseases as flood waters recede
 
@@ -51,6 +63,18 @@ While addressing a press conference at the Health Promotion Bureau, he urged the
 [Data](articles/e6e660b3.json)
 
 [Extended Data](ext_articles/e6e660b3.ext.json)
+
+---
+
+### இன்றைய நாணய மாற்று விகிதம்
+
+*2024-06-06 14:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/185448) · `ta`
+
+இன்று வியாழக்கிழமை (ஜூன் 06) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் விற்பனை விலை ரூபா 297.5664 ஆகவும் கொள்வனவு விலை ரூபா 307.0499 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/3e9c6500.json)
 
 ---
 
@@ -96,6 +120,36 @@ The company has issued a statement that the reduced prices of these essential co
 
 ---
 
+### ஜூலை 1 முதல் மின் கட்டணம் குறைக்கப்படும் ; அமைச்சர் காஞ்சன
+
+*2024-06-06 14:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/185445) · `ta`
+
+எதிர்வரும் ஜூலை மாதம் 1 ஆம் திகதி முதல் மின்சாரம் கட்டணம் குறைக்கப்படும் என  மின்சக்தி மற்றும் வலுசக்தி அமைச்சர் காஞ்சன விஜேசேகர தெரிவித்துள்ளார்.
+
+இது தொடர்பான முன்மொழிவு விரைவில் இலங்கை பொதுப்பயன்பாடுகள் ஆணைக்குழுவுக்கு அனுப்பப்படும் எனவும் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/0abb8d68.json)
+
+---
+
+### ஸ்டார்லிங்க் இணையச் சேவைக்கு இலங்கை தொலைத்தொடர்புகள்  ஒழுங்குப்படுத்தல் ஆணைக்குழு அனுமதி
+
+*2024-06-06 14:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/185437) · `ta`
+
+இலங்கையில் செயற்கைக்கோள் அடிப்படையிலான இணைய சேவைகளை வழங்குவதற்கு  ஸ்டார்லிங்க்  நிறுவனத்திற்கு இலங்கை தொலைத்தொடர்புகள்  ஒழுங்குப்படுத்தல் ஆணைக்குழு  அனுமதி வழங்கியுள்ளதாக தொழில்நுட்ப இராஜாங்க அமைச்சர் கனக ஹேரத் அறிவித்தார்.
+
+உரிய வகையில் பொதுமக்கள் கருத்தறியப்பட்டதன் பின்னரே இந்த அனுமதி வழங்கபட்டிருப்பதாகவும், இது தொடர்பான மேலதிக தகவல்கள் நாளை (07) வெளியிடப்படும் என்றும் அவர் மேலும் தெரிவித்தார்.
+
+செய்மதிகளின் கூட்டமைப்பு மூலம் பூமிக்கு மிக அதிவேகமான இணைய சேவையை ஸ்டார்லிங்க் வழங்குகிறது. அதிவேக இணைய வசதி கிடைக்காத தொலைதூரப் பகுதிகளுக்கு இந்த சேவை வழங்குவதே இதன் குறிக்கோள் ஆகும்.
+
+◼️
+
+[Data](articles/113dd0ad.json)
+
+---
+
 ### 10,000 from the government to clean the flood affected houses
 
 *2024-06-06 14:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197461) · `si`
@@ -122,7 +176,13 @@ Defense State Pipaina Bandara Tennakoon said he was.
 
 The government has decided to provide Rs. 10,000 each for the families affected by floods in order to clean up their houses, State Minister of Defence Premitha Bandara Tennakoon said.
 
-◼️
+The government has primarily allocated an amount of around Rs. 150 million for this purpose, and the relevant funds will be provided to the district secretaries, the State Minister expressed.
+
+Furthermore, he requested the officials to responsibly distribute the relevant funds among the affected families, and to instruct the people to utilize this money only for the purpose of cleaning up their houses.
+
+Meanwhile, the State Minister stated that 284,505 individuals from 77,313 families across 23 districts in the island have been affected by the prevailing adverse weather conditions, and that 12,638 individuals of 3,147 families, who are displaced, have been placed in 204 relief centres.
+
+...
 
 [Data](articles/a3e1cc87.json)
 
@@ -390,6 +450,22 @@ The two Ministers also exchanged views on the current political situation.
 
 ---
 
+### ஐ.நா.வின் வதிவிட பிரதிநிதி கொக்குத்தொடுவாய் மனித புதைகுழி பகுதிக்கு கண்காணிப்பு விஜயம்
+
+*2024-06-06 13:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/185434) · `ta`
+
+இலங்கைக்காக ஐநாவின் நிரந்தர வதிவிடப் பிரதிநிதி மார்க் ஆண்ட்ரே பிராஞ் (Marc-André Franche) கொக்குத்தொடுவாய் மனித புதைகுழி அமைந்துள்ள பகுதிக்கு கண்காணிப்பு விஜயம் ஒன்றினை இன்று மேற்கொண்டுள்ளார்.
+
+வடக்குக்கு விசேட பயணம் ஒன்றினை மேற்கொண்டுள்ள ஐநா வதிவிடப் பிரதிநிதி இன்றையதினம் முல்லைத்தீவு மாவட்டத்தில் பல்வேறு தரப்பினரை சந்தித்து கலந்துரையாடல்களை மேற்கொண்டு வருகிறார்.
+
+அந்த வகையில் அகழ்வு பணிகள் இடம்பெற்று வரும் கொக்குத்தொடுவாய் மனித புதைகுழி அமைந்துள்ள பகுதிக்கும் சென்று பார்வையிட்டுள்ளார். இதன்போது முல்லைத்தீவு வலிந்து காணாமல் ஆக்கப்பட்டவர்களின் உறவினர்களின் சங்க இணைப்பாளர் மரியசுரேஷ் ஈஸ்வரி மற்றும் இந்த புதைகுழி வழக்கை முன்னெடுத்து வரும் சட்டத்தரணிகளில் ஒருவரான கணேஸ்வரன் ஆகியோர் புதைகுழி அமைந்துள்ள பகுதியில் ஐநாவின் வதிவிடப் பிரதிநிதிக்கு நிலைமைகளை தெளிவுபடுத்தினர்.
+
+◼️
+
+[Data](articles/d4cdddf8.json)
+
+---
+
 ### Joint Steering Committee to prevent future flooding in Gampaha District
 
 *2024-06-06 13:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/99700/joint-steering-committee-to-prevent-future-flooding-in-gampaha-district) · `en`
@@ -448,6 +524,24 @@ The Board of Ceylon Electricity Board (CEB) has been canceled until the Leave of
 
 ---
 
+### எதிர்காலத்தில் கம்பஹா வெள்ளத்தை தடுப்பதற்கு அனைத்து அரச நிறுவனங்களையும் உள்ளடக்கிய கூட்டுக் குழு  மும்முனை திட்டத்தை செயல்படுத்த  முடிவு
+
+*2024-06-06 13:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/185436) · `ta`
+
+எதிர்காலத்தில் கம்பஹா மாவட்டத்தை வெள்ளத்தில் மூழ்கடிப்பதைத் தடுப்பதற்காக அனைத்து அரச நிறுவனங்களையும் உள்ளடக்கிய கூட்டு வழிநடத்தல் குழுவொன்று நியமிக்கப்படும்.
+
+நகர அபிவிருத்தி மற்றும் வீடமைப்பு அமைச்சர் பிரசன்ன ரணதுங்கவின் அறிவுறுத்தலின் பிரகாரம், நகர அபிவிருத்தி மற்றும் வீடமைப்பு அமைச்சின் செயலாளர் டபிள்யூ. எஸ் சத்தியானந்த மற்றும் கம்பஹா மாவட்ட செயலாளர் லலிந்த கமகே ஆகியோர் தலைமையில் இடம்பெற்ற கலந்துரையாடலின் போதே இந்த தீர்மானம் எட்டப்பட்டுள்ளது.
+
+கம்பஹா மாவட்டமும் கம்பஹா நகரமும் எதிர்காலத்தில் வெள்ளத்தில் மூழ்காமல் இருக்க என்ன நடவடிக்கைகள் எடுக்கப்பட வேண்டும் என்பது குறித்து நேற்று புதன்கிழமை (05) கலந்துரையாடல் ஒன்று இடம்பெற்றது. இது கம்பஹா மாவட்ட செயலக கேட்போர் கூடத்தில் நடைபெற்றது.
+
+இலங்கை காணி அபிவிருத்திக் கூட்டுத்தாபனத்தின் பிரதிப் பொது முகாமையாளர் (ஆராய்ச்சி மற்றும் திட்டமிடல்) பொறியியலாளர் கே.எச்.  கீர்த்திரத்ன இங்கு மூன்று அம்ச நிகழ்ச்சிகளை வழங்கினார்.
+
+...
+
+[Data](articles/49b9b91f.json)
+
+---
+
 ### Israel attack on a school in Gaza
 
 *2024-06-06 13:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197457) · `si`
@@ -467,6 +561,26 @@ The Israeli army also confirms another operation to attacking terrorists and ter
 [Data](articles/bf84a145.json)
 
 [Extended Data](ext_articles/bf84a145.ext.json)
+
+---
+
+### 2024 முதல் காலாண்டில் எச்.ஐ.வியால் பாதிக்கப்பட்டவர்களின் எண்ணிக்கை அதிகரிப்பு
+
+*2024-06-06 13:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/185430) · `ta`
+
+இவ் ஆண்டின் முதலாவது  காலாண்டில் 207 பேர்  எச்.ஐ.வி நோயினால் பாதிக்கப்பட்டுள்ளதோடு, 13 பேர் உயிரிழந்துள்ளதாக தேசிய பால்வினை நோய்கள் மற்றும் எய்ட்ஸ்  கட்டுப்பாட்டுத் திட்டம் தெரிவித்துள்ளது.
+
+இது 165 பேர் எச்.ஐ.வி நோயினால் பாதிக்கப்பட்டிருந்த கடந்த ஆண்டுடன் ஒப்பீடும் போது  25 சதவீத அதிகரிப்பை காட்டுக்கிறது.
+
+அதன்படி, இவ் ஆண்டின் முதலாவது  காலாண்டில் பதிவான நோயாளர்களில் 23  ஆண்களும், ஐந்து பெண்களும் 15-24 வயதுக்கு உட்பட்டவர்களாவர். எஞ்சியவர்கள் 25 வயதுக்கு மேற்பட்டவர்களாவர்.
+
+இது குறித்து தேசிய பால்வினை நோய்கள் மற்றும் எய்ட்ஸ்  கட்டுப்பாட்டுத் திட்டத்தின் பணிப்பாளர்  வைத்தியர் வினோ தர்மகுலசிங்க தெரிவித்துள்ளதாவது,
+
+பரிசோதனை திறன் விரிவாக்கம், பாலியல் கல்வி மற்றும் ஆபத்தான பாலுறவு நடத்தை குறித்து மக்களிடையே கல்வி அறிவு இன்மை அறிவு மற்றும் உரிய முன்னெச்சரிக்கை நடவடிக்கைகளை எடுக்காதது தொற்றாளர்கள் அதிகரிப்பிற்கு காரணம் என குறிப்பிட்டுள்ளார்.
+
+◼️
+
+[Data](articles/f020db4d.json)
 
 ---
 
@@ -491,6 +605,18 @@ Sanitary Towels can be purchased by a registered market of the Ministry of Educa
 [Data](articles/31bfe7aa.json)
 
 [Extended Data](ext_articles/31bfe7aa.ext.json)
+
+---
+
+### ஜனாதிபதி ரணில் விக்ரமசிங்கவின் அரசியல் அலுவலகம் திறப்பு
+
+*2024-06-06 12:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/185435) · `ta`
+
+ஜனாதிபதி ரணில் விக்ரமசிங்க கொழும்பில் தனது அரசியல் அலுவலகத்தை இன்று (06) வியாழக்கிழமை திறந்து வைத்துள்ளார்.
+
+◼️
+
+[Data](articles/2d3a6d70.json)
 
 ---
 
@@ -538,6 +664,36 @@ Accordingly, one student is Rs. The Ministry of Education has already organized 
 
 ---
 
+### யாழில் பொது வேட்பாளர் தொடர்பில் கருத்து பரிமாற்ற நிகழ்வு - சிவில் சமூகம் புறக்கணிப்பு
+
+*2024-06-06 12:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/185432) · `ta`
+
+"பொது நிலைப்படும் - பொது வாக்கெடுப்பும்" நிகழ்வு எதிர்வரும் 09ஆம் திகதி ஞாயிற்றுக்கிழமை யாழ்ப்பாணத்தில் தந்தை செல்வா கேட்போர் கூடத்தில் மாலை 02.59 மணிக்கு நடைபெறவுள்ளதாக ஏற்பாட்டாளர்கள் அறிவித்துள்ளனர்.
+
+பொது வேட்பாளர் தொடர்பில் கருத்து பரிமாற்ற நிகழ்வொன்றினை யாழில் நடாத்தவுள்ளதாக , நாடாளுமன்ற உறுப்பினர் ஜனாதிபதி சட்டத்தரணி எம்.ஏ சுமந்திரன் அறிவித்து இருந்த நிலையில் இந்நிகழ்வு ஏற்பாடு செய்யப்பட்டுள்ளது.
+
+அதேவேளை பொது வேட்பாளர் விடயத்தை முன்னெடுப்பவர்களில் சிவில் சமூகத்தினர், தாம் இந்நிகழ்வுக்கு செல்ல போவதில்லை என அறிவித்துள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/ee187769.json)
+
+---
+
+### மீன்களின் விலை அதிகரிப்பு !
+
+*2024-06-06 12:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/185428) · `ta`
+
+நிலவும் சீரற்ற காலநிலை காரணமாக மீனவர்கள் கடலுக்கு செல்வதை தவிர்க்குமாறு வளிமண்டளவியல் திணைக்களம் விடுத்துள்ள அறிவித்தலையடுத்து மீன்பிடி தொழிலில் ஈடுபடுவது குறைவடைந்துள்ளது.
+
+அதன்படி, காலி மீன்பிடி துறைமுகத்தில் 1 கிலோ கிராம் பலயா மீனினது விலை 1,300 ரூபாவாகவும், 1 கிலோ கிராம்  கெலவல்லா மீனினது விலை 1,400 ரூபாவாகவும், 1 கிலோ கிராம் தெலியா மீனினது விலை 1,300 ரூபாவாகவும் உயர்வடைந்துள்ளதாக மீனவர்கள் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/c28f6431.json)
+
+---
+
 ### Decrease
 
 *2024-06-06 12:24:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்-கட்டணம்-குறைவடையும்/175-338535) · `ta`
@@ -555,6 +711,24 @@ Accordingly, the price of a unit of Rs.
 [Data](articles/ad334ee6.json)
 
 [Extended Data](ext_articles/ad334ee6.ext.json)
+
+---
+
+### வரலாற்றில் இன்று : 1968
+
+*2024-06-06 12:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/185431) · `ta`
+
+அமெரிக்க முன்னாள் ஜனாதிபதி ஜோன் கென்னடியின் தம்பியும் அரசியல்வாதியுமான செனட்டர் ரொபர்ட் கென்னடி துப்பாக்கிச் சூட்டுக்கு இலக்காகி, உயிரிழந்த தினம் இன்றாகும்.
+
+1963இல் ஜோன் கென்னடி அமெரிக்க ஜனாதிபதியாக பதவி வகித்தபோது சுட்டுக் கொல்லப்பட்டார். அந்த சம்பவம் நடந்து நான்கரை வருடங்களில், 1968 ஜூன் 5ஆம் திகதி அவரது தம்பி ரொபர்ட் கென்னடியும் அதே போன்று துப்பாக்கியால் சுடப்பட்டு, பெரும் மரணப் போராட்டங்களை எதிர்கொண்டு சிகிச்சை பெற்றுவந்த நிலையில், மறுநாள், இதே திகதியான ஜூன் 6இல் உயிரிழந்தார்.
+
+ரொபர்ட் கென்னடி குண்டு துளைக்கப்பட்டு தரையில் விழுந்தபோது, அருகில் நின்றுகொண்டிருந்த கென்னடியின் மனைவி எதல் கென்னடி, கணவருக்கு பக்கத்தில் நிலை தடுமாறி முழந்தாழிட்டு அமர்ந்து கணவனை தாங்கிப் பிடித்துள்ளார். அப்போது கர்ப்பிணியான அவர் தனது 11வது குழந்தையை வயிற்றில் சுமந்திருந்தாராம்.
+
+ரொபர்ட் கென்னடியின் பூதவுடல் வொஷிங்டன், ஆர்லிங்டன் தேசிய சேமக்காலையில் அண்ணனின் சமாதிக்கு பக்கத்திலேயே அடக்கம் செய்யப்பட்டது.
+
+...
+
+[Data](articles/e5c4b6ae.json)
 
 ---
 
@@ -665,6 +839,28 @@ In addition, the police have also seized three fishing machine boats, three engi
 [Data](articles/200e1279.json)
 
 [Extended Data](ext_articles/200e1279.ext.json)
+
+---
+
+### ரஸ்யாவை தாக்குவதற்கு மேற்குலகம் ஆயுதங்களை வழங்கினால் மேற்குலக நாடுகளை தாக்குவதற்கு நாங்கள் ஆயுதங்களை வழங்குவோம் - புட்டின்
+
+*2024-06-06 11:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/185429) · `ta`
+
+மேற்குலக   நாடுகளை  தாக்குவதற்காக ரஸ்யா நாடுகளிற்கு ஆயுதங்களை வழங்ககூடும் என ரஸ்ய ஜனாதிபதி விளாடிமிர் புட்டின் எச்சரித்துள்ளார்.
+
+உக்ரைனிற்கு ரஸ்யாவை தாக்ககூடிய நீண்ட தூர ஆயுதங்களை  மேற்குலகம் வழங்கியுள்ளதை கண்டித்து கருத்து தெரிவித்துள்ள புட்டின் மேற்குலகை தாக்குவதற்கு தனது நாடு ஆயுதங்களை வழங்கும்  என எச்சரித்துள்ளார்.
+
+ரஸ்யாவிற்குள் உள்ள இலக்குகளை தாக்குவதற்கு அமெரிக்கா உட்பட பல நாடுகள் உக்ரைனிற்கு ஆயுதங்களை வழங்கியுள்ளன.
+
+இதன் காரணமாக பாரதூரமான பிரச்சினைகள் உருவாகலாம் என புட்டின் வெளிநாட்டு செய்தியாளர்களிற்கு  தெரிவித்துள்ளார்.
+
+எங்கள் பகுதிமீது தாக்குதலை மேற்கொண்டு எங்களிற்கு பிரச்சினைகளை ஏற்படுத்துவதற்காக ஆயுதங்களை விநியோகிக்கலாம் என எவராவது நினைத்தால் அந்த நாடுகளின் மீது தாக்குதலை மேற்கொள்வதற்கு குறிப்பிட்ட பிராந்தியத்தில் உள்ள நாடுகளிற்கு ஆயுதங்களை வழங்கும் உரிமை  எங்களிற்கும் உள்ளது என புட்டின் தெரிவித்துள்ளார்.
+
+மொஸ்கோ எந்த நாட்டிற்கு ஆயுதங்களை வழங்ககூடும் என்பது குறித்து புட்டின் எதனையும் தெரிவிக்கவில்லை.
+
+◼️
+
+[Data](articles/bf40e9c6.json)
 
 ---
 
@@ -1117,6 +1313,24 @@ The Supreme Court declared that former President Maithripala Sirisena violated t
 [Data](articles/e184257f.json)
 
 [Extended Data](ext_articles/e184257f.ext.json)
+
+---
+
+### மத்திய காசாவில் ஐநா பாடசாலை மீது இஸ்ரேல் தாக்குதல்- 27 பாலஸ்தீனியர்கள் பலி
+
+*2024-06-06 10:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/185419) · `ta`
+
+நூற்றுக்கும் மேற்பட்ட இடம்பெயர்ந்தவர்கள் தஞ்சமடைந்திருந்த ஐநா பாடசாலை மீது இஸ்ரேல் மேற்கொண்ட தாக்குதலில் 27 பேர் கொல்லப்பட்டுள்ளனர்.
+
+நுசெய்ரட் அகதிமுகாமில் உள்ள பாடசாலையின் மேல்தளத்தில் காணப்பட்ட இரண்டு வகுப்பறைகள் மீது இஸ்ரேலிய விமானங்கள் ஏவுகணை தாக்குதலை மேற்கொண்டன என நேரில் பார்த்த ஊடகவியலாளர்கள் தெரிவித்துள்ளனர்.
+
+போதும் நாங்கள் பல தடவை இடம்பெயர்ந்துள்ளோம் உறக்கத்திலிருந்த நான்கு பிள்ளைகளை அவர்கள் கொன்றுவிட்டனர் என காயமடைந்த பெண்ணொருவர் கதறுவதை வீடியோ காண்பித்துள்ளது.
+
+ஆக்கிரமிப்பு படையினர் இடம்பெயர்ந்த மக்களிற்கு எதிராக தாங்கள் மேற்கொள்ளும் ஈவிரக்கமற்ற போரை நியாயப்படுத்த கட்டுக்கதைகளை வெளியிடுகின்றனர் என ஹமாஸ் தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/8597fd85.json)
 
 ---
 
@@ -1977,245 +2191,5 @@ Accordingly, the Power and Energy Bill (6th June) is due to be submitted to the 
 [Data](articles/6c31dcfe.json)
 
 [Extended Data](ext_articles/6c31dcfe.ext.json)
-
----
-
-### Rain to several areas
-
-*2024-06-06 06:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197438) · `si`
-
-Heavy rainfall expected across Western, Sabaragamuwa, Southern, North-Western provinces, Kandy, and Nuwara Eliya districts. Showers also predicted for North and North Central provinces, East, and Uva provinces. Strong winds of 40-50 km/h in Hambantota district. Public advised to prepare for potential wind and lightning hazards.
-
-🟩
-
-Several spells of showers in the Western, Sabaragamuwa, Southern and North-Western provinces and several showers in the Kandy and Nuwara Eliya districts.
-
-The Department of Meteorological Department announced that showers could occur in the North and North Central provinces.
-
-Showers or thundershowers will occur at several places in the East and Uva provinces or at night.
-
-From the Hambantota district and time in the Hambantota district and time in the Hambantota district.. There are about 40-50 strong winds.
-
-The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/5a6800b8.json)
-
-[Extended Data](ext_articles/5a6800b8.ext.json)
-
----
-
-### Prabhakaran’s brother slams section of Tamil diaspora for cheating Tamils
-
-*2024-06-06 06:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Prabhakarans-brother-slams-section-of-Tamil-diaspora-for-cheating-Tamils/108-284224) · `en`
-
-Velupillai Manoharan, the elder brother of LTTE founder leader Velupillai Prabhakaran, has come forward to denounce a scam targeting the Tamil diaspora and revealed that a group within the diaspora has been deceiving unsuspecting individuals by falsely claiming that Prabhakaran and some family members are still alive.
-
-"My brother Prabhakaran and his entire family have passed away, achieving martyrdom. It is crucial to acknowledge this truth. I urge you not to be deceived by these fraudsters posing as my brother's family. They are manipulating your sentiments and exploiting my brother's legacy for their own benefit," stated Manoharan, cautioning against falling victim to such fraudulent schemes.
-
-Manoharan told the Jaffna Monitor magazine’s latest issue that he was stating this to end what he said was a huge scam perpetrated by a section of the Tamil diaspora to cheat money from unsuspecting Tamils by insisting that Prabhakaran and some of his family members were still alive.
-
-...
-
-[Data](articles/ac91571c.json)
-
-[Extended Data](ext_articles/ac91571c.ext.json)
-
----
-
-### Historic reforms for poor: Siyambalapitiya
-
-*2024-06-06 05:42:35* · [`dailyftlk`](https://www.ft.lk/news/Historic-reforms-for-poor-Siyambalapitiya/56-762698) · `en`
-
-Highlights commitment to increase welfare expenditure from Rs. 65 b in 2022 to Rs. 205 b, marking a 150% increase
-
-Says Rs. 6.5 b allocated for rice distribution program targeting 3.4 m poor families
-
-Praises President Wickremesinghe for decisive actions to support plantation workers, including raising daily wages to Rs. 1,700
-
-Stresses readiness to hold accountable any estates that fail to meet wage compliance with potential repossession of non-compliant estates
-
-State Minister of Finance Ranjith Siyambalapitiya stated yesterday that the Government is enacting historic reforms to benefit the poor, with significant programs including inheritance deeds, insurance and daily wage increases for plantation workers.
-
-He made these remarks during a ceremony held under the patronage of President Ranil Wickremesinghe for the awarding of inheritance deeds.
-
-...
-
-[Data](articles/1a053f30.json)
-
-[Extended Data](ext_articles/1a053f30.ext.json)
-
----
-
-### SL collaborates with World Meteorological Organisation for Climate Resilience Program
-
-*2024-06-06 05:40:35* · [`dailyftlk`](https://www.ft.lk/news/SL-collaborates-with-World-Meteorological-Organisation-for-Climate-Resilience-Program/56-762697) · `en`
-
-Move aims to quickly and accurately predict high-risk weather and climate conditions
-
-Expect to reduce $ 313 m annually spent by Govt. on post-disaster management activities
-
-The Cabinet of Ministers on Monday approved collaboration with the World Meteorological Organisation (WMO) to enhance Sri Lanka’s emergency warning systems under the Climate Resilience Multi-Phase Programmatic Approach (CRMPA).
-
-Funded by the International Bank for Reconstruction and Development and the World Bank, the CRMPA is designed to be implemented over nine years in three phases. The program comprises five components, with the first component focused on improving the skills, technology and infrastructure of relevant institutions to enable accurate forecasting and pre-assessment of weather conditions.
-
-...
-
-[Data](articles/ee0591a5.json)
-
-[Extended Data](ext_articles/ee0591a5.ext.json)
-
----
-
-### Muslim Youth urges Govt. to protect interests of four Lankans in Indian custody
-
-*2024-06-06 05:38:52* · [`dailyftlk`](https://www.ft.lk/news/Muslim-Youth-urges-Govt-to-protect-interests-of-four-Lankans-in-Indian-custody/56-762696) · `en`
-
-Cites Vienna Convention under which Govt. obliged to protect the interests of not only the State but also its nationals
-
-All Ceylon Union of Muslim League Youth Fronts (ACUMLYF) said it has been assured by the Government that measures as required under the Vienna Convention on Consular Relations, will be taken to protect the interests of the four suspects detained in Gujarat allegedly having ISIS connections.
-
-Last week a four member delegation led by ACUMLYF President Sham Nawaz met State Minister of Foreign Affairs Dr. Tharaka Palansooriya and raised concerns of conflicting allegations in the media surrounding the arrest and the need for the Consulate in Mumbai to have prompt access to the suspects, without prejudice to the ongoing investigations.
-
-...
-
-[Data](articles/8dd6c08c.json)
-
-[Extended Data](ext_articles/8dd6c08c.ext.json)
-
----
-
-### Committee to evaluate carbon reduction project proposals
-
-*2024-06-06 05:37:10* · [`dailyftlk`](https://www.ft.lk/news/Committee-to-evaluate-carbon-reduction-project-proposals/56-762695) · `en`
-
-The Cabinet of Ministers on Monday approved the appointment of a committee led by the Environment Ministry Secretary to evaluate project proposals and make decisions till Sri Lanka’s carbon market strategy and guiding principles are implemented.
-
-“The committee will oversee the assessment of project proposals and facilitate the implementation of effective carbon reduction strategies till the comprehensive carbon market framework is in place,” Cabinet Co-Spokesman and Minister Bandula Gunawardena said at the weekly post-Cabinet meeting media briefing on Tuesday.
-
-...
-
-[Data](articles/4916c452.json)
-
-[Extended Data](ext_articles/4916c452.ext.json)
-
----
-
-### CA Sri Lanka’s public sector wing, APFASL, explores proposed Public Financial Management Act of 2024
-
-*2024-06-06 05:36:53* · [`dailyftlk`](https://www.ft.lk/news/CA-Sri-Lanka-s-public-sector-wing-APFASL-explores-proposed-Public-Financial-Management-Act-of-2024/56-762694) · `en`
-
-The panel comprising V. Kanagasabapathy, Tishan Subasinghe, Committee on Public Accounts Consultant Lalith R. De Silva, and Ministry of Finance, Retired Additional Director General of Public Finance S.U. Chandrakumaran, while the session was moderated by APFASL Secretary Dr. Asela Athapathu
-
-The Institute of Chartered Accountants of Sri Lanka (CA Sri Lanka), together with its public sector wing, the Association of Public Finance Accountants of Sri Lanka (APFASL), organised an insightful session on the proposed Public Financial Management Act of 2024 last week.
-
-The session attracted a large number of public sector accountants, chartered accountants, and senior public officials. The session provided a comprehensive overview of the proposed Public Financial Management Act of 2024, highlighting its potential impact on fiscal discipline and public sector accountability in Sri Lanka.
-
-...
-
-[Data](articles/ea182580.json)
-
-[Extended Data](ext_articles/ea182580.ext.json)
-
----
-
-### Ceylon Workers Red Flag Union – Workers’ Tribunal from 7 to 8 June
-
-*2024-06-06 05:35:11* · [`dailyftlk`](https://www.ft.lk/news/Ceylon-Workers-Red-Flag-Union-Workers-Tribunal-from-7-to-8-June/56-762693) · `en`
-
-The Ceylon Workers Red Flag Union has brought together workers from the plantation sector to organise the first ever Workers’ Tribunal from 7 to 8 June, at the BMICH, Colombo. In this Tribunal several other unions will also be giving their testimonies.
-
-Organisers said it has been 200 years since workers in the plantations have been enabling Sri Lanka’s growth with their sweat and blood. The situation of the workers remain dire and unchanged. The long-standing mobilisation by workers demanding an increase in the basic wages to Rs. 1,000/- began in 2010 and gained momentum in 2018. In this context, the Wages Board increased the workers’ wages to Rs. 1,000/- per day in 2019. The intervention of the Wages Board in this matter has been unacceptable to the companies and the legal battle is still ongoing. Therefore, since 2018, the conditions of workers’ rights have only become worse.
-
-...
-
-[Data](articles/06c8ea23.json)
-
-[Extended Data](ext_articles/06c8ea23.ext.json)
-
----
-
-### BIMSTEC poised to transform itself into a successful regional organisation
-
-*2024-06-06 05:34:37* · [`dailyftlk`](https://www.ft.lk/news/BIMSTEC-poised-to-transform-itself-into-a-successful-regional-organisation/56-762692) · `en`
-
-In a historic development, the BIMSTEC Charter entered into force on 20 May 2024. It was signed on 30 March 2022 by the Leaders of BIMSTEC member States in Colombo, Sri Lanka. The Charter articulates the long-term vision and commitment of the BIMSTEC member States to cooperate through the BIMSTEC framework to realise a peaceful, prosperous and secure Bay of Bengal Region. The Charter establishes the legal and institutional framework for cooperation in the region; confers legal personality on the Organisation; enables admission of new members and observers; and empowers conclusion of agreements with other countries and organisations. It enables the BIMSTEC to engage with the UN and other International Organisations as well as Regional Organisations to pursue development partnerships to enhance cooperation in the Bay of Bengal region to deal with the shared developmental and security-related challenges.
-
-...
-
-[Data](articles/40650fed.json)
-
-[Extended Data](ext_articles/40650fed.ext.json)
-
----
-
-### Sri Lanka urgently needs green power on ground and not paper
-
-*2024-06-06 05:32:58* · [`dailyftlk`](https://www.ft.lk/opinion/Sri-Lanka-urgently-needs-green-power-on-ground-and-not-paper/14-762691) · `en`
-
-Sri Lanka has set an ambitious goal of achieving 70% renewable energy generation by 2030 and becoming carbon neutral by 2050. To put this in perspective, for FY24, fossil fuel-based power plants met 54% of total power generated in the country, and under 8% came from solar or wind, with hydro contributing 31%. In terms of installed capacity, as on 31 March 2024, of SL’s generation capacity of 5,012 MW, ex of hydro, REs contributed barely 1093 MW, which is about a fifth of the total installed capacity. With limited scope of adding large-scale hydro projects in the future, it is the wind and solar projects which will have to do the heavy lifting for SL to meet its RE generation goals.
-
-...
-
-[Data](articles/784222fa.json)
-
-[Extended Data](ext_articles/784222fa.ext.json)
-
----
-
-### Ministry of Finance: Closing the stable door after the horse has bolted
-
-*2024-06-06 05:31:59* · [`dailyftlk`](https://www.ft.lk/columns/Ministry-of-Finance-Closing-the-stable-door-after-the-horse-has-bolted/4-762690) · `en`
-
-A recent press statement issued by the Ministry of Finance dated 27/05/2024, appears to be a belated focus possibly due to an intervention initiated by an external authority. It pronounces a scheme designed for the implementation of reforms for State Owned Banks.
-
-The diagnosed defects to be addressed are in summary form as follows;
-
-SOBs have faced significant stress during the recent economic crisis,
-
-SOB lending practices have deteriorated due to inadequate risk mitigation and weak governance
-
-SOB balance sheets have absorbed losses of SOEs and help large fiscal deficits of those SOEs
-
-These have led to delays in reforms which contributed to the economic crisis
-
-...
-
-[Data](articles/050e2574.json)
-
-[Extended Data](ext_articles/050e2574.ext.json)
-
----
-
-### Tied-race: Anura or Sajith could win by surge to progressive-centre
-
-*2024-06-06 05:26:33* · [`dailyftlk`](https://www.ft.lk/columns/Tied-race-Anura-or-Sajith-could-win-by-surge-to-progressive-centre/4-762689) · `en`
-
-“…She [Dr. Claudia Sheinbaum] aims to maintain Mexico’s state-owned Petroleum and Electricity companies that have been favored by López Obrador despite their immense debts…” (https://www.politico.com/news/magazine/2024/06/01/claudia-sheinbaum-mexico-presidential-election-00161081)
-
-Another booster for Left presidential candidates everywhere. On the heels of the election of a leftwing President in Senegal, Mexico, one of the most important countries of the global South, has elected Dr Claudia Sheinbaum by a landslide as its first-ever woman President. AP News called her “a lifelong leftist” while The Guardian (UK) announced that “Sheinbaum, a leftwing climate scientist and former mayor of Mexico City, won the presidency with between 58.3% and 60.7% of the vote”.
-
-...
-
-[Data](articles/783b6505.json)
-
-[Extended Data](ext_articles/783b6505.ext.json)
-
----
-
-### Understanding how Zionist Israel has been fooling the world
-
-*2024-06-06 05:19:54* · [`dailyftlk`](https://www.ft.lk/columns/Understanding-how-Zionist-Israel-has-been-fooling-the-world/4-762688) · `en`
-
-It is not a fight between two equal states but between an occupier and those that they have occupied
-
-“When IRA was bombing people in England, we did not drop 2000 lbs bombs on Belfast” was a chilling note with utter disgust from the ardent pro-Israeli Broadcaster/Journalist Piers Morgan. This was following the attack on the Rafah refugee tents killing 45 and injuring 250 already displaced civilians on 26 May. The silly claim of Netanyahu’s was, “there were two Hamas operatives.”
-
-...
-
-[Data](articles/c5367ced.json)
-
-[Extended Data](ext_articles/c5367ced.ext.json)
 
 ---

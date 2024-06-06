@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-06 08:19:39**
+As of **2024-06-06 08:34:17**
 
 ## Newspaper Stats
 
@@ -26,33 +26,39 @@ adaderanasinhalalk | 4,609
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,725 (100.0%) of 28,738 articles have been extended.
+28,736 (100.0%) of 28,738 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-06 (Thursday)
 
-### 17 හැවිරිදි පාසල් සිසුවාගේ පහරදීමෙන් 15 හැවිරිදි සිසුවා ජීවිතක්ෂයට‍
+### 15 year old student dies after the 17-year-old schoolgirl
 
 *2024-06-06 07:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197441) · `si`
 
-ඊයේ (05) සවස හම්බන්තොට පොලිස් වසමේ සිප්පිකුලම ප්‍රදේශයේ දී පාසල් සිසුවෙක් තවත් පාසල් සිසුවෙකුට සිදුකළ පහරදීමෙන් ඝාතනයක් සිදුව තිබේ.
+In Hambantota, a 15-year-old student died from injuries sustained during an assault by a 17-year-old girl. The incident occurred in the Sippikulam area, and the victim was a grade 10 student from Hambantota. The suspect, also a student, was arrested following investigations into the dispute that led to the fatal attack.
 
-පොලීසිය පැවසුවේ පහරදීම හේතුවෙන් හම්බන්තොට රෝහලට ඇතුළත් කර හදිසි ප්‍රතිකාර ඒකකයේ ප්‍රතිකාර ලබමින් සිටි සිසුවා මියයෑම සම්බන්ධයෙන් ලද පණිවුඩයක් මත විමර්ශන ආරම්භ කළ බවය.
+🟩
 
-එලෙස ජීවිතක්ෂයට පත්ව ඇත්තේ 15 හැවිරිදි බැද්දෙවෙල පාර, හම්බන්තොට ප්‍රදේශයේ පදිංචිව සිටි පාසල් සිසුවෙකි.
+The murder was assassinated by a schoolgirl at the Sippikulam area in Hambantota yesterday evening.
 
-ඔහු හම්බන්තොට නගරයේ පාසලක 10 වන ශ්‍රේණියේ ඉගෙනුම ලබන අතර ඊයේ උපකාරක පන්තියකට සහභාගී වීම සඳහා සිප්පිකුලම ප්‍රදේශයට ගොස් තිබිණි.
+The police said that the student who was admitted to the Hambantota hospital due to assault, the student who started investigating a message on her death.
 
-එහිදී හම්බන්තොට වෙනත් පාසලක සිසුවෙකු විසින් අදාළ උපකාරක පන්තිය අසලට ගොස් 10 වන ශ්‍රේණියේ සිසුවාට පහරදී තිබේ.
+The victim was a 15 year old resident of Baddaveli Road, Hambantota.
 
-මෙම සිසුන් දෙදෙනා අතර පැවති ආරවුලක් ගැටුමට හේතුවී ඇති බව විමර්ශනවලදී අනාවරණය වී ඇත.
+He has been in a school-grade 10 student in Hambantota and attended the Sippikulam area to attend a tuition.
 
-කෙසේවෙතත් සිසුවාගේ මරණය සම්බන්ධයෙන් 17 හැවිරිදි පාසල් සිසුවා ව මේ වනවිට පොලීසිය අත්අඩංගුවට ගෙන ඇත.
+A student of another school in Hambantota has been assaulted by the 10th Grade Student.
+
+Investigations have revealed that a dispute between these two students had caused the conflict.
+
+However, the police have arrested 17-year-old schoolgirls about the death of the student.
 
 ◼️
 
 [Data](articles/07abc0e8.json)
+
+[Extended Data](ext_articles/07abc0e8.ext.json)
 
 ---
 
@@ -160,6 +166,8 @@ He made these remarks during a ceremony held under the patronage of President Ra
 
 [Data](articles/1a053f30.json)
 
+[Extended Data](ext_articles/1a053f30.ext.json)
+
 ---
 
 ### SL collaborates with World Meteorological Organisation for Climate Resilience Program
@@ -178,6 +186,8 @@ Funded by the International Bank for Reconstruction and Development and the Worl
 
 [Data](articles/ee0591a5.json)
 
+[Extended Data](ext_articles/ee0591a5.ext.json)
+
 ---
 
 ### Muslim Youth urges Govt. to protect interests of four Lankans in Indian custody
@@ -194,6 +204,8 @@ Last week a four member delegation led by ACUMLYF President Sham Nawaz met State
 
 [Data](articles/8dd6c08c.json)
 
+[Extended Data](ext_articles/8dd6c08c.ext.json)
+
 ---
 
 ### Committee to evaluate carbon reduction project proposals
@@ -207,6 +219,8 @@ The Cabinet of Ministers on Monday approved the appointment of a committee led b
 ...
 
 [Data](articles/4916c452.json)
+
+[Extended Data](ext_articles/4916c452.ext.json)
 
 ---
 
@@ -224,6 +238,8 @@ The session attracted a large number of public sector accountants, chartered acc
 
 [Data](articles/ea182580.json)
 
+[Extended Data](ext_articles/ea182580.ext.json)
+
 ---
 
 ### Ceylon Workers Red Flag Union – Workers’ Tribunal from 7 to 8 June
@@ -238,6 +254,8 @@ Organisers said it has been 200 years since workers in the plantations have been
 
 [Data](articles/06c8ea23.json)
 
+[Extended Data](ext_articles/06c8ea23.ext.json)
+
 ---
 
 ### BIMSTEC poised to transform itself into a successful regional organisation
@@ -250,6 +268,8 @@ In a historic development, the BIMSTEC Charter entered into force on 20 May 2024
 
 [Data](articles/40650fed.json)
 
+[Extended Data](ext_articles/40650fed.ext.json)
+
 ---
 
 ### Sri Lanka urgently needs green power on ground and not paper
@@ -261,6 +281,8 @@ Sri Lanka has set an ambitious goal of achieving 70% renewable energy generation
 ...
 
 [Data](articles/784222fa.json)
+
+[Extended Data](ext_articles/784222fa.ext.json)
 
 ---
 
@@ -284,6 +306,8 @@ These have led to delays in reforms which contributed to the economic crisis
 
 [Data](articles/050e2574.json)
 
+[Extended Data](ext_articles/050e2574.ext.json)
+
 ---
 
 ### Tied-race: Anura or Sajith could win by surge to progressive-centre
@@ -297,6 +321,8 @@ Another booster for Left presidential candidates everywhere. On the heels of the
 ...
 
 [Data](articles/783b6505.json)
+
+[Extended Data](ext_articles/783b6505.ext.json)
 
 ---
 

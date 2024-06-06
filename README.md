@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-06 05:18:49**
+As of **2024-06-06 05:36:55**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,606
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,699 (100.0%) of 28,704 articles have been extended.
+28,704 (100.0%) of 28,704 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,6 +46,8 @@ AHK Sri Lanka played a pivotal role in organising and supporting the delegation,
 
 [Data](articles/a3ad36c1.json)
 
+[Extended Data](ext_articles/a3ad36c1.ext.json)
+
 ---
 
 ### United Petroleum inks BOI deal to start operations with $ 27.5 m investment
@@ -61,6 +63,8 @@ BOI Chairman Dinesh Weerakkody and United Petroleum Lanka Ltd., Director and CEO
 ...
 
 [Data](articles/b91683fa.json)
+
+[Extended Data](ext_articles/b91683fa.ext.json)
 
 ---
 
@@ -78,6 +82,8 @@ A qualified accountant with over 20 years of diverse experience in the financial
 
 [Data](articles/385fdee4.json)
 
+[Extended Data](ext_articles/385fdee4.ext.json)
+
 ---
 
 ### High-level Thai delegation explores renewable energy collaboration with Hayleys
@@ -91,6 +97,8 @@ The delegation consisted of officials from various Thai agencies and private sec
 ...
 
 [Data](articles/7e17fb5c.json)
+
+[Extended Data](ext_articles/7e17fb5c.ext.json)
 
 ---
 
@@ -877,6 +885,8 @@ I was one of the boys in the car that made its way to the Palali airport in the 
 ...
 
 [Data](articles/16b3d30c.json)
+
+[Extended Data](ext_articles/16b3d30c.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-06 09:53:25**
+As of **2024-06-06 10:05:12**
 
 ## Newspaper Stats
 
-*Scraped **28,752** Articles*
+*Scraped **28,755** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,102 +13,156 @@ dbsjeyarajcom | 273
 bbccomsinhala | 279
 newsfirstlk | 363
 islandlk | 1,553
-economynextcom | 1,635
+economynextcom | 1,636
 dailyftlk | 1,711
 adalk | 2,450
 adaderanalk | 3,258
 tamilmirrorlk | 3,379
 virakesarilk | 4,414
-dailymirrorlk | 4,561
-adaderanasinhalalk | 4,615
+dailymirrorlk | 4,562
+adaderanasinhalalk | 4,616
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,746 (100.0%) of 28,752 articles have been extended.
+28,752 (100.0%) of 28,755 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-06 (Thursday)
 
-### උගන්ඩාව ට ජය
+### ජනපතිගේ දේශපාලන කාර්යාලය විවෘත කෙරේ
+
+*2024-06-06 09:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197448) · `si`
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ දේශපාලන කාර්යාලය මීට සුළු මොහොතකට පෙර කොළඹ දී විවෘත කර තිබේ.
+
+◼️
+
+[Data](articles/c87fe682.json)
+
+---
+
+### Win to Uganda
 
 *2024-06-06 09:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197447) · `si`
 
-උගන්ඩාව සහ පැපුවා නිව්ගීනියාව අතර පැවති විස්සයි විස්ස ලෝක කුසලාන තරගාවලියේ 'C' කාණ්ඩයේ තරගයෙන් විශිෂ්ට ජයක් වාර්තා කිරීමට උගන්ඩා කණ්ඩායම සමත් විය.
+Uganda and Papua New Guinea secured Uganda's first T20 World Cup win, defeating Uva Uva with 78 runs (7 wickets lost) while Papua New Guinea managed only 77 runs.
 
-එම ජයග්‍රහණය වාර්තාගත වන්නේ විස්සයි විස්ස ලෝක කුසලාන තරගාවලියකදී උගන්ඩාව ලබාගත් පළමු ජයග්‍රහණය ලෙසට යි.
+🟩
 
-ප්‍රොවිඩන්ස් හි පැවති මෙම තරගයේ පළමුව පන්දුවට පහරදුන් පැපුවා නිව්ගිනියා කණ්ඩායම රැස්කළේ ලකුණු 77ක් පමණි.
+Uganda and Papua New Guinea won the Ugandan team to win the T20 World Cup.
 
-ජයග්‍රහණය සඳහා අවශ්‍යව තිබූ ලකුණු 78 කඩුලු 7ක් දැවී ලබාගැනීමට උගන්ඩාව සමත් විය.
+The victory is recorded as the first victory obtained from Uganda at the Twenty20 World Cup.
+
+The Papua New Guinea team scored only 77 runs in the match.
+
+Uva Uva was won the 78 runs for the loss of 7 wickets.
 
 ◼️
 
 [Data](articles/b14b5b10.json)
 
+[Extended Data](ext_articles/b14b5b10.ext.json)
+
 ---
 
-### පාර්ලිමේන්තු සභාවාරය ඇරඹේ
+### 35 days of trade union action cripples university system
+
+*2024-06-06 09:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/35-days-of-trade-union-action-cripples-university-system/108-284227) · `en`
+
+Colombo, June 6 (Daily Mirror) -Thirty-five days have passed since the University Trade Union Joint Committee (UTUJC) launched their trade union action, crippling the entire university system, UTUJC Co-Chairman Dhammika S. Priyantha said.
+
+He told the Daily Mirror that the UTUJC recently had a discussion with the Finance State Minister and reached a certain agreement over their issues, including salary anomalies.
+
+"We have submitted our proposal to the government, outlining how this issue should be resolved. We have received minimal agreement for our demands so far. If we receive approval for our demands through the Finance Ministry or the Cabinet, we may call off the ongoing strike," Priyantha said.
+
+...
+
+[Data](articles/bc4411c4.json)
+
+---
+
+### Parliamentary Council begins
 
 *2024-06-06 09:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197446) · `si`
 
-ශ්‍රී ලංකා විදුලිබල පනත් කෙටුම්පත දෙවන වර කියවීමේ විවාදය අද (06) පැවැත්වීමට නියමිතය.
+Today, the Parliamentary Council starts its session with the Second Reading Debate from 10:30 am to 5:00 pm, expected to pass. The proposed telecommunication act and Supreme Court amendments, approved by the Energy Oversight Committee, will be debated, with Minister Kanchana Wijesekara presenting the bill.
 
-අද පෙරවරුවේ 10.30 සිට පස්වරු 5.00 දක්වා විදුලිබල පනත් කෙටුම්පත දෙවන වර කියවීමේ විවාදය පැවැත්වීමටට නියමිත අතර අනතුරුව එය සම්මත ගැනීමට නියමිතය.
+🟩
 
-යෝජිත නව විදුලනිබල පනත සහ ශ්‍රේෂ්ඨාධිකරණය විසින් නිගමනය කරන ලද සංශෝධන පාර්ලිමේන්තුවේ බලශක්ති අධීක්ෂණ කාරක සභාව විසින් අනුමත කරනු ලැබීය.
+The Second Reading Debate will be held today (06).
 
-ඒ අනුව එම පනත අද දිනයේ පාර්ලිමේන්තුවේ විවාදයට ගෙන සම්මත කිරීමට බලාපොරොත්තු වන බව විදුලිබල හා බලශක්ති අමාත්‍ය කංචන විජේසේකර මහතා ස﻿ඳහන් කළේය.
+The Second Reading Debate will be held from 10.30 am to 5.00 pm and will be passed.
+
+The proposed new telecommunication act and the Supreme Court's amendments were approved by the Energy Oversight Committee.
+
+Accordingly, the Act, Minister of Power and Energy Kanchana Wijesekara presented the bill to be passed to the debate in Parliament today.
 
 ◼️
 
 [Data](articles/676db10a.json)
 
+[Extended Data](ext_articles/676db10a.ext.json)
+
 ---
 
-### மாணவன் தாக்கியதில் 15 வயது மாணவன் மரணம்
+### 15 -year -old student death
 
 *2024-06-06 09:22:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவன்-தாக்கியதில்-15-வயது-மாணவன்-மரணம்/175-338520) · `ta`
 
-ஹம்பாந்தோட்டை பொலிஸ் பிரிவுக்குட்பட்ட சிப்பிக்குளம பகுதியில் நேற்று மாலை (05) பாடசாலை மாணவர்கள் இருவருக்கு இடையில் ஏற்பட்ட மோதலில் ஒருவர் உயிரிழந்துள்ளார்.
+A 15-year-old student died after a fight with another student from a different school in the Chipikulama area. The incident occurred when the victim, also a grade 10 student, went for extra classes. The suspect, a 17-year-old girl, has been arrested.
 
-இதில் படுகாயமடைந்த மாணவன் ஹம்பாந்தோட்டை வைத்தியசாலையில் அனுமதிக்கப்பட்டு அவசர சிகிச்சைப் பிரிவில் சிகிச்சை பெற்று வந்த நிலையில் அவர் உயிரிழந்துள்ளார்.
+🟩
 
-ஹம்பாந்தோட்டை நகரிலுள்ள பாடசாலையொன்றில் 10ஆம் தரத்தில் கல்வி கற்கும் இவர், நேற்று மேலதிக வகுப்பில் கலந்துகொள்வதற்காக சிப்பிக்குளம பகுதிக்கு சென்றுள்ளார்.
+One person was killed in a clash between two schoolchildren in the Chipikulama area of ​​the Hambantota police division last evening.
 
-இதன்போது ஹம்பாந்தோட்டையில் உள்ள மற்றுமொரு பாடசாலையைச் சேர்ந்த மாணவர் ஒருவர் குறித்த மேலதிக வகுப்புக்கு அருகில் சென்று 10ஆம் தரத்தில் கல்வி கற்கும் மாணவனை தாக்கியுள்ளார்.
+The injured student was admitted to the Hambantota Hospital and died after being treated in the emergency department.
 
-இரு மாணவர்களுக்கும் இடையில் ஏற்பட்ட தகராறே மோதலுக்குக் காரணம் என விசாரணையில் தெரியவந்துள்ளது.
+He was studying in grade 10 at a school in Hambantota and went to the Chipikkulam area yesterday to attend the further class.
 
-இந்நிலையில், மாணவனின் மரணம் தொடர்பில் 17 வயதுடைய பாடசாலை மாணவனை பொலிஸார் கைது செய்துள்ளனர். R
+A student from another school in Hambantota has gone near the upper class and attacked the student in grade 10.
+
+The investigation revealed that the clash between the two students was the cause of the clash.
+
+In this case, police have arrested a 17 -year -old schoolgirl in connection with the death of the student.. Remble
 
 ◼️
 
 [Data](articles/ab5f2530.json)
 
+[Extended Data](ext_articles/ab5f2530.ext.json)
+
 ---
 
-### ගංවතුර බැස ගියත් අවදානම තවදුරටත්
+### The flood goes down, the risk further
 
 *2024-06-06 09:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197445) · `si`
 
-ගංවතුර තත්ත්වයන් ක්‍රමයෙන් අඩුවෙමින් පැවතිය ද ගංවතුරේ බලපෑම ඇතැම් ස්ථානවල තවදුරටත් පවතිනු ඇති බව වාරිමාර්ග දෙපාර්තමේන්තුව පවසයි.
+Floods are receding but remain in some areas, especially along the Gin and Nilwala Rivers over the next 48 hours. Water levels in the Kelani and Kalu Rivers are decreasing. However, health officials warn of disease outbreaks and advise avoiding flood-hit regions.
 
-එම දෙපාර්තමේන්තුව පෙන්වාදෙන්නේ ගිං ගඟ සහ නිල්වලා ගඟ ආශ්‍රිත ගංවතුර අනතුරු ඇඟවීම ඉදිරි පැය 48 සඳහා ද දීර්ඝ කර ඇති බවය.
+🟩
 
-කැලණි ගඟේ ජලමට්ටම මේ වන විට සාමාන්‍ය තත්ත්වයට පත්ව ඇති අතර කළු ගඟේ ජල මට්ටම ද ක්‍රමානුකූලව අඩුවෙමින් පවතින බව වාර්මාර්ග දෙපාර්තමේන්තුව පවසයි.
+The Department of Irrigation says that floods are gradually decreasing and floods will continue in some places.
 
-මේ අතර ජල ගැලීම් තත්ත්වයත් සමග විවිධ ලෙඩ රෝග පැතිර යාමේ අවදානමක් පවතින බැවින් ජනතාව ඒ පිළිබඳ විමසිලිමත් විය යුතු බව සෞඛ්‍ය අමාත්‍යාංශ ලේකම් විශේෂඥ වෛද්‍ය පාලිත මහීපාල මහතා පවසයි.
+The Department shows that the flood warning of the Gin River and the Nilwala River is extended for the next 48 hours.
 
-අනවශ්‍ය පරිදි ගංවතුර පවතින ප්‍රදේශ වෙත යෑමෙන් වළකින ලෙස සෞඛ්‍ය අමාත්‍යාංශ ලේකම්වරයා ජනතාවගෙන් ඉල්ලීමක් කරයි.
+The watermen of the Kelani River has been normalized and the water level of the Kalu River is also systematically decreasing.
 
-සෞඛ්‍ය ප්‍රවර්ධන කාර්යාංශයේ පැවති මාධ්‍ය හමුවකට එක්වෙමින් සෞඛ්‍ය අමාත්‍යාංශ ලේකම් විශේෂඥ වෛද්‍ය පාලිත මහීපාල මහතා මෙම අදහස් පළ කළේය.
+Meanwhile, medical Palitha Mahipala said that the people should be vigilant as the flow of various diseases with the spread of various diseases.
 
-...
+The Secretary of the Ministry of Health requests the public to avoid going to the flood areas.
+
+Speaking at a media brief held at the Health Promotion Bureau, Medical Palitha Mahipala made these comments.
+
+Meanwhile, state minister Hon
+
+◼️
 
 [Data](articles/11d6449f.json)
+
+[Extended Data](ext_articles/11d6449f.ext.json)
 
 ---
 
@@ -131,6 +185,8 @@ The accused, along with Kerala cannabis and the dinghy were handed over to the M
 ◼️
 
 [Data](articles/2987f05e.json)
+
+[Extended Data](ext_articles/2987f05e.ext.json)
 
 ---
 
@@ -158,21 +214,27 @@ Police have arrested a 17-year-old student in connection with the death.
 
 ---
 
-### සජිත් - අනුර විවාදයට කුමක් වෙයි ද?
+### What will happen to Sajith - Anuradess?
 
 *2024-06-06 09:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197444) · `si`
 
-විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා සමග විවාදයට අද (06) දිනයේත් ඕනෑම අවස්ථාවක අනුර කුමාර දිසානායක මහතා සූදානමින් පසුවන බව ජාතික ජනබලවේගයේ විධායක කමිටු සාමාජික වෛද්‍ය නලින්ද ජයතිස්ස මහතා පවසයි.
+Dr. Nalinda Jayatissa announced that UNP leader Anura Kumara Dissanayake is willing to debate with Opposition Leader Sajith Premadasa. He expects a party leadership debate soon. However, MP Nalin Bandara clarified the party's readiness to debate only after a presidential declaration.
 
-ඔහු පවසන්නේ ඒ සම්බන්ධයෙන් සමගි ජනබලවේගය පක්ෂයෙන් මේ දක්වාත් කිසිදු ප්‍රතිචාරයක් ලැබී නොමැති බවය.
+🟩
 
-අද දිනයෙන් පසුව පක්ෂයේ නායකයින් අතර විවාදයක් පැවැත්වීමට බලාපොරොත්තු නොවන බව නලින්ද ජයතිස්ස මහතා සඳහන් කළේය.
+UNP National Population Dr. Nalinda Jayatissa says that Anura Kumara Dissanayake is ready to debate with Opposition Leader Sajith Premadasa.
 
-කෙසේවෙතත් අදාළ විවාදය සම්බන්ධයෙන් සමගි ජන බලවේගයේ පාර්ලිමේන්තු මන්ත්‍රී නලීන් බණ්ඩාර මහතා පවසා සිටියේ, ජනාධිපතිවරයක් ප්‍රකාශයට පත්කරන තෙක් තම පක්ෂය මෙම විවාදයන්ට සුදානමින් සිටින බවය.
+He says that there have been no response to the party since the party.
+
+Nalinda Jayatissa said that it is expected to hold a debate between the leaders of the party after this day.
+
+However, MP Nalin Bandara said the party was prepared to debate until a president was declaring a President on the debate.
 
 ◼️
 
 [Data](articles/53b6b9cd.json)
+
+[Extended Data](ext_articles/53b6b9cd.ext.json)
 
 ---
 
@@ -1636,6 +1698,24 @@ A large number of Sri Lankans work in the Maldives in high executive jobs in the
 
 ---
 
+### Sri Lanka requests Maldives to relax migrant worker remittances limit
+
+*2024-06-05 22:29:00* · [`economynextcom`](https://economynext.com/sri-lanka-requests-maldives-to-relax-migrant-worker-remittances-limit-166512/) · `en`
+
+ECONOMYNEXT – Sri Lanka has requested Maldives to revisit the limit imposed in foreign remittances sent by the island nation’s migrant workers in a move to ease the restriction and increase the inflow into the country.
+
+The Bank of Maldives (BML) has announced a new limit for foreign transactions which has been between $250-$300 monthly to prevent large dollar outflow from the country with an aim to prevent a forex shortage.
+
+A large number of Sri Lankans work in the Maldives in high executive jobs in the hospitality sector in other categories including and labourers and housemaids. Some of them earn around $3,000 worth salary monthly, paid in Maldivian rufiyaa.
+
+“I also requested the Maldives side to consider to revisit the current limit imposed on outward foreign currency remittances for the benefit of Sri Lankan migrant workers in Maldives,” Sri Lanka’s Foreign Minister Ali Sabry told a joint media briefing with Maldives Foreign Minister, following a bilateral meeting.
+
+...
+
+[Data](articles/d8687d54.json)
+
+---
+
 ### President Ranil reiterates commitment towards net zero on World Environment Day
 
 *2024-06-05 22:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/99689/president-ranil-reiterates-commitment-towards-net-zero-on-world-environment-day) · `en`
@@ -2061,75 +2141,5 @@ The new power bill contains reforms in the power sector, the new power bill, the
 [Data](articles/a504d947.json)
 
 [Extended Data](ext_articles/a504d947.ext.json)
-
----
-
-### Notice of opening schools tomorrow
-
-*2024-06-05 19:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/185404) · `ta`
-
-Schools in Galle and Matara districts will reopen on Thursday, 06th, according to the Provincial Education Secretary. The Director of Education will determine which schools serve as flood recovery centers and displacement sites.
-
-🟩
-
-All schools in the Galle and Matara districts will be opened from Thursday, the 06th, the Provincial Education Secretary said.
-
-The Provincial Education Secretary further stated that the Director of Education has been given the authority to decide on schools used as flood -affected schools and displacement centers.
-
-◼️
-
-[Data](articles/8d62ca60.json)
-
-[Extended Data](ext_articles/8d62ca60.ext.json)
-
----
-
-### The defeat of the Electricity Act is the responsibility of MPs who love the country
-
-*2024-06-05 18:58:28* · [`adalk`](https://www.ada.lk/breaking_news/විදුලි-බල-පනත-පරාජය-කිරීම-රටට-ආදරය-කරන-මන්ත්‍රීවරුන්ගේ-වගකීමක්/11-410035) · `si`
-
-MPs opposing the Electricity Act are blamed for its defeat, with claims it could lead to judicial takeover. The Ceylon Electricity Board Engineer highlights the importance of lawmakers' actions for national interests.
-
-🟩
-
-The Ceylon Electricity Board Engineer (CEB) states that defeating the power to debate in parliament today (06) is the responsibility of people who love the country.
-
-The President of the Association Dhanushka Parakrasinghe said that all MPs representing the Sri Lanka Civil Front as the Opposition MPs and have taken the necessary measures to change the country as a union.
-
-He said that the country was requested to change the subject to the country to change the country in the Bill, but there was no constitutional.
-
-The Chairman of the Chairman said that if the bill was passed yesterday (05), the Bill would take action to take over judicial process.
-
-He said that the Opposition MPs and the Sri Lanka Civil Front have asked all MPs to defeat the Bill, which has been presented to the Parliament.
-
-◼️
-
-[Data](articles/d43df451.json)
-
-[Extended Data](ext_articles/d43df451.ext.json)
-
----
-
-### Severty schools closed tomorrow
-
-*2024-06-05 18:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197432) · `si`
-
-In response to severe weather conditions, several schools in the Ratnapura and Nivitigala Education Zone will close tomorrow, while schools in the Galle and Matara districts will reopen. The decision was made by the Sabaragamuwa Provincial Council, and Zonal Education Directors will identify specific flood-affected schools.
-
-🟩
-
-The Sabaragamuwa Provincial Council has decided to close several schools in the Ratnapura and Nivitigala Education Zone tomorrow.
-
-Accordingly, all schools belonging to all schools and the Nivatiigala Division of Ratnapura, Kuruwita and Eheliyagoda Division, will be closed.
-
-Meanwhile, all schools in the Galle and Matara districts have decided to reopen tomorrow.
-
-Zonal Education Directors were authorized to determine the schools affected by floods and the centers of the displaced.
-
-◼️
-
-[Data](articles/1d835b6c.json)
-
-[Extended Data](ext_articles/1d835b6c.ext.json)
 
 ---

@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-06 11:53:55**
+As of **2024-06-06 12:06:32**
 
 ## Newspaper Stats
 
-*Scraped **28,776** Articles*
+*Scraped **28,781** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 261
 dbsjeyarajcom | 273
-bbccomsinhala | 279
+bbccomsinhala | 280
 newsfirstlk | 363
 islandlk | 1,553
 economynextcom | 1,636
@@ -20,17 +20,77 @@ adaderanalk | 3,264
 tamilmirrorlk | 3,382
 virakesarilk | 4,414
 dailymirrorlk | 4,567
-adaderanasinhalalk | 4,619
+adaderanasinhalalk | 4,623
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,769 (100.0%) of 28,776 articles have been extended.
+28,776 (100.0%) of 28,781 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-06 (Thursday)
+
+### විදුලි බිලේ අලුත් මිල ගණන් ඇමති හෙළිකරයි
+
+*2024-06-06 11:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197455) · `si`
+
+ජූලි මාසයේ 1 වනදා සිට විදුලි බිල අඩු කිරීමට යෝජනා කර ඇති බව විදුලිබල හා බලශක්ති අමාත්‍ය කංචන විජේසේකර මහතා අද (06) පාර්ලිමේන්තුවේ දී පැවසීය.
+
+ඒ අනුව ගෘහස්ත කාණ්ඩයේ පාරිභෝගිකයින්ට වැඩි සහනයක් ලබාදීමට නියමිත බවත් එම යෝජනාවට මහජන උපයෝගීතා කොමිසමේ අනුමැතිය හිමිවනු ඇතැයි අපේක්ෂා කරන බව ද අමාත්‍යවරයා මෙහිදී කියා සිටියේය.
+
+ඒ අනුව ඒකක 0 - 30 අතර ඒකකයක මිල රුපියල් 8 සිට 6 දක්වා අඩු කිරීමට ද, ඒකක 30 - 60 අතර රුපියල් 20 සිට  9 දක්වා අඩු කිරීමටත්, ඒකක 60 - 90 රුපියල් 30 සිට 18 දක්වා අඩු කිරීමට ද, ඒකක 90- 180 රුපියල් 50 සිට 30 දක්වා අඩුකිරීමටත් යෝජනා කර ඇති බව අමාත්‍යවරයා පැවසීය.
+
+◼️
+
+[Data](articles/9845664f.json)
+
+---
+
+### ශ්‍රී ලාංකිකයන් බේරාගන්න මේ මාර්ගයේ යන්න  - වසන්ත යාපා බණ්ඩාර
+
+*2024-06-06 11:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197454) · `si`
+
+මියන්මාරයේ ත්‍රස්ත ග්‍රහණයේ පසුවන ශ්‍රී ලාංකිකයන් බේරාගැනීමට මාර්ගයක් සොයාගත් බව පාර්ලිමේන්තු මන්ත්‍රී නීතිඥ වසන්ත යාපා බණ්ඩාර මහතා අද (06) පාර්ලිමේන්තුවේදී පැවසීය.
+
+ඒ අනුව මන්ත්‍රීවරයා  කථානායකවරයාගෙන් ඉල්ලා සිටියේ මේ සම්බන්ධයෙන් රජය දැනුවත් කරන ලෙසය.
+
+"මියන්මාරයම සහ රුසියාවට ගොස් සිරවී සිටින ශ්‍රී ලාංකිකයන් සම්බන්ධයෙන් අප තොරතුරු එක්රැස් කළා. දැන් අපිට ප්‍රවේශයක් තිබෙනවා මේ ප්‍රශ්නය විසඳන්න."
+
+"අපි විදේශගතවෙලා මියන්මාරය සහ තායිලන්තය කියන ප්‍රවේශ දෙකෙන්ම මේ ගැන සාකච්ඡා කළා."
+
+"තායිලන්තයේ අධිකරණ අමාත්‍යාංශය යටතේ DSI කියලා විශේෂ ආයතනයක් තිබෙනවා. මේ ආයතනය සම්බන්ධ කරගෙන සාකච්ඡා ආරම්භ කළොත් මියන්මාරයේ රඳවාගෙන ඉන්න 49දෙනා අපට බේරගන්න පුළුවන්. ඒ ගැන රජයට දැනුම්දෙන්න."
+
+"ඒ් වගේම රුසියාවේ 1000කට අධික පිරිසක් ඉන්නවා කියලා අපි විශ්වාස කරනවා. 220 දෙනෙකුගේ වාර්තාවක් අපි සෙන්ට් පීටස්බර්ග් කොන්සල්වරයාටත් තානාපතිවරයාටත් භාරදීලා... අපි ඉල්ලීමක් කළා ශ්‍රී ලාංකිකයන් බේරගන්න සහාය වෙන්න කියලා."
+
+"මේක විදිමත් කළොත් රෝහල්ගත වෙලා ඉන්න පිරිස, අතුරුදන්වූ අය ගැන ඔවුන්ගේ පවුල්වල අයට තොරතුරු ලබාදෙන්න පුළුවන්."
+
+...
+
+[Data](articles/8ee13da0.json)
+
+---
+
+### පූජ්‍ය බානගල උපතිස්ස නාහිමිගෙන් මෝදි ට ආශිර්වාද
+
+*2024-06-06 11:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197453) · `si`
+
+ශ්‍රී ලංකා මහාබෝධි සංගමයේ සභාපති, ජපානයේ ලංකාජී විහාරස්ථානයේ විහාරාධිපති පූජ්‍ය බානගල උපතිස්ස නාහිමියන් ඉන්දීය අග්‍රාමාත්‍ය නරේන්ද්‍ර මෝදී මහතාට ආශිර්වාද එක්කර තිබේ.
+
+නිවේදනයක් නිකුත් කරමින් උන්වහන්සේ සඳහන් කර ඇත්තේ, මෙම සුවිශේෂී ජයග්‍රහණය නරේන්ද්‍ර මෝදිගේ සුවිශේෂී නායකත්වය, දැක්ම සහ රටේ අභිවෘද්ධිය සඳහා වූ නොසැලෙන කැපවීම පිළිබඳ සාක්ෂියක් බවය.
+
+නරේන්ද්‍ර මෝදි මහතාගේ කැපී පෙනෙන දායකත්වය ඉන්දියාව තුළ සැලකිය යුතු ප්‍රගතියක් සහ සංවර්ධනයක් ඇති කිරීමට පමණක් නොව ගෝලීය වේදිකාවට ධනාත්මක ලෙස බලපා ඇති බව ද නාහිමියන් වැඩිදුරටත් සඳහන් කර තිබේ.
+
+මෝදි මහතාගේ මඟ පෙන්වීම යටතේ, ඉන්දියාව නොනැසී පවතින අතර, ඔරොත්තු දීමේ හැකියාව, නවෝත්පාදනය සහ රටේ සියලු අංශවල වර්ධනය පෙන්නුම් කරන බව ද බානගල උපතිස්ස හිමි සඳහන් කරයි.
+
+නරේන්ද්‍ර මෝදි මහතාගේ අඛණ්ඩ නායකත්වය ඉන්දියාවට තවත් දියුණුවක් සහ සෞභාග්‍යයක් ගෙන එනු ඇතැයි තම විශ්වාසය බව ද සඳහන් කර ඇති උන්වහන්සේ ජාතියට සේවය කිරීමට සහ ලෝකයේ වෙනසක් කිරීමට මෝදි මහතා දක්වන කැපවීම ඇත්තෙන්ම ප්‍රශංසනීය බව ද සඳහන් කර තිබේ.
+
+◼️
+
+[Data](articles/825fc16c.json)
+
+---
 
 ### Teenager drowns in flood waters while floating on tube
 
@@ -50,19 +110,47 @@ Meanwhile, the authorities have issued stern warnings to the public, advising ag
 
 [Data](articles/5efab1ef.json)
 
+[Extended Data](ext_articles/5efab1ef.ext.json)
+
 ---
 
-### மைத்திரி வழங்கிய பொது மன்னிப்பு செல்லுபடியற்றது
+### ගම්පහ ජලයෙන් යටවීම වැළැක්වීමට මෙහෙයුම් කමිටුවක්
+
+*2024-06-06 11:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197452) · `si`
+
+ඉදිරියේදී ගම්පහ දිස්ත්‍රික්කය ජලයෙන් යටවීම වැළැක්වීම සඳහා සියලු රාජ්‍ය ආයතවලින් සමන්විත ඒකාබද්ධ මෙහෙයුම් කමිටුවක් පත් කිරීමට තීරණය කර තිබේ.
+
+නාගරික සංවර්ධන හා නිවාස අමාත්‍ය ප්‍රසන්න රණතුංග මහතාගේ උපදෙස් පරිදි නාගරික සංවර්ධන හා නිවාස අමාත්‍යාංශ ලේකම් ඩබ්ලිව්. එස්. සත්‍යානන්ද හා ගම්පහ දිස්ත්‍රික් ලේකම් ලලින්ද ගමගේ යන මහත්වරුන්ගේ ප්‍රධානත්වයෙන් පැවැති සාකච්ඡාවේදී මෙම තීරණයට එළඹුණි.
+
+ඉදිරියේදී ගම්පහ දිස්ත්‍රික්කය හා ගම්පහ නගරය ජලයෙන් යටවීම වැලැක්වීමට ගත යුතු ක්‍රියාමාර්ග මොනවද යන්න පිළිබඳව සාකච්ඡාවක් ඊයේ (05) දින කැඳවා තිබුණි. එය පැවැත්වුණේ ගම්පහ දිස්ත්‍රික් ලේකම් කාර්යාල ශ්‍රවණාගාරයේදීය.
+
+ගම්පහ දිස්ත්‍රික්කය ජලයෙන් යටවීම වැලැක්වීම සඳහා ශ්‍රී ලංකා ඉඩම් සංවර්ධනය කිරීමේ සංස්ථාවේ නියෝජ්‍ය සාමාන්‍යාධිකාරී (පර්යේෂණ සහ සැලසුම්) ඉංජිනේරු කේ.එච්. කීර්තිරත්න මහතා විසින් තෙවැදෑරුම් වැඩපිළිවෙලක් මෙහිදී ඉදිරිපත් කළේය.
+
+මෙම තෙවැදෑරුම් වැඩපිළිවෙල ක්‍රියාත්මක කිරීමේ වගකීම පත්කර ගත් ඒකාබද්ධ මෙහෙයුම් කමිටුවට පැවරීමට මෙහිදී තීරණය කෙරුණි.
+
+...
+
+[Data](articles/e8bc242e.json)
+
+---
+
+### Public apology provided by Maithri is invalid
 
 *2024-06-06 11:21:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மைத்திரி-வழங்கிய-பொது-மன்னிப்பு-செல்லுபடியற்றது/175-338528) · `ta`
 
-இராஜகிரிய, ரோயல் பார்க் கொலைச் சம்பவம் தொடர்பில் மரண தண்டனை விதிக்கப்பட்டிருந்த ஜூட் ஷமந்த ஜயமஹா என்பவருக்கு முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன மன்னிப்பு வழங்கி விடுதலை செய்த தீர்மானம் அரசியலமைப்புக்கு எதிரானது என உயர் நீதிமன்றம் தீர்ப்பளித்துள்ளது.
+The Supreme Court declared Maithripala Sirisena's pardon for Jude Shamanta Jayamaha unconstitutional, rendering his apology invalid.
 
-இதன்படி, குறித்த பிரதிவாதியை விடுவித்து முன்னாள் ஜனாதிபதி வழங்கிய மன்னிப்பு செல்லுபடியற்றது என தீர்ப்பளிக்கப்பட்டுள்ளது. R
+🟩
+
+The Supreme Court has ruled that the resolution of former President Maithripala Sirisena's pardon for Jude Shamanta Jayamaha, who was sentenced to death in the Rajagiriya and Royal Park murder, was against the constitution.
+
+Accordingly, the apology issued by the former president has been ruled out.. Remble
 
 ◼️
 
 [Data](articles/60bffd6c.json)
+
+[Extended Data](ext_articles/60bffd6c.ext.json)
 
 ---
 
@@ -81,6 +169,8 @@ The Supreme Court, which ruled that former President Sirisena had intentionally 
 ...
 
 [Data](articles/91ec1c6e.json)
+
+[Extended Data](ext_articles/91ec1c6e.ext.json)
 
 ---
 
@@ -121,6 +211,8 @@ Both parties had previously agreed to hold the debate between their leaders on J
 ◼️
 
 [Data](articles/b1fef159.json)
+
+[Extended Data](ext_articles/b1fef159.ext.json)
 
 ---
 
@@ -228,15 +320,21 @@ The Supreme Court declared that former President Maithripala Sirisena violated t
 
 ---
 
-### රනිල් වික්‍රමසිංහ මහතාගේ දේශපාලන කාර්යාලය විවෘත කෙරේ
+### Ranil Wickremesinghe's political office opened
 
 *2024-06-06 10:24:09* · [`adalk`](https://www.ada.lk/breaking_news/රනිල්-වික්‍රමසිංහ-මහතාගේ-දේශපාලන-කාර්යාලය-විවෘත-කෙරේ/11-410044) · `si`
 
-ඉදිරි ජනාධිපතිවරණ දේශපාලන මෙහෙයුම් කටයුතු සිදුකිරීම් සඳහා ජනාධිපති රනිල් වික්‍රමසිංහ මහතා  සිය දේශපාලන කාර්යාලය අද කොළඹදී  විවෘත කළේය.
+President Ranil Wickremesinghe launched his political office in Colombo, preparing for the upcoming presidential election campaigns.
+
+🟩
+
+President Ranil Wickremesinghe opened his political office in Colombo today for the next presidential election political operations.
 
 ◼️
 
 [Data](articles/b299e8bf.json)
+
+[Extended Data](ext_articles/b299e8bf.ext.json)
 
 ---
 
@@ -550,21 +648,27 @@ The accused, along with Kerala cannabis and the dinghy were handed over to the M
 
 ---
 
-### ගංවතුරේ විනෝද වෙන්න ගිය සිසුවා ජිවිතක්ෂයට
+### The student who had fun in floods to the human
 
 *2024-06-06 09:04:52* · [`adalk`](https://www.ada.lk/breaking_news/ගංවතුරේ-විනෝද-වෙන්න-ගිය-සිසුවා-ජිවිතක්ෂයට/11-410039) · `si`
 
-බද්දේගම ගනේගම බටහිර ප්‍රදේශයේ ගංවතුරේ ටියුබ් එකක නැගී විනෝදවූ තරුණ කණ්ඩායමක සිටි පාසැල් සිසුවෙක්  ජලයේ  ගසාගෙන ගොස් ඊයේ (‍05) ජීවිතක්ෂයට පත්වී ඇතැයි බද්දේගම පොලීසිය පවසයි.
+A schoolgirl, Nayana Preethi (17), from Ganegama West, Vihara, West, drowned while playing in floodwaters near her school. She was part of a youth group enjoying the floods and accidentally fell into a tube well. Despite being rushed to the Baddegama District Hospital, she succumbed to her injuries. Nayana was a student at the GEN College of the Christian Male College and had recently taken her O/L exams. She was also a member of the school's dance sector's eastern music drum group.
 
-මෙසේ අවාසනාවන්ත ලෙස මියගොස් ඇත්තේ ගනේගම බටහිර, වගාහේන ප්‍රදේශයේ පදිංචි  ජී. එල්. නයන තත්සර (17)  නමැති පාසැල්  සිසුවෙකි.
+🟩
 
-මෙම සිසුවා ඇතුලු ප්‍රදේශයේ තරුණ කණ්ඩායමක් එදින  ගංවතුරේ විනෝද වෙමින් සිට ඇති අතර,  මොහු පදිමින් සිටි ටියුබය  අතහැරී ඔහු ජලයේ ගසාගෙන ගොස් ඇත. පසුව ප්‍රදේශවාසියෙක  විසින් ඔහු  ගොඩගෙන බද්දේගම දිසා රෝහලේ මූලික ප්‍රතිකාර ඒකකයට  ඇතුලත් කිරීමේදී මියගොස් ඇත.
+A schoolgirl who was in a young group tube in the West area in Baddegama has died yesterday (05), police said.
 
-මියගිය සිසුවා  බද්දේගම ක්‍රිස්තු දේව පිරිමි විද්‍යාලයේ ඉගෙනුම ලබමින් සිට ඇති අතර පසුගියදා නිමාවු  අ.පො.ස. ( සාමාන්‍ය පෙළ ) විභාගයටද  පෙනී සිට ඇත. ඔහු විද්‍යාලයේ නර්ථන අංශයේ පෙරදිග සංගීත බෙර වාදන  කණ්ඩායමේද සාමාජිකයෙකි.
+The deceased has been identified as Ganegama West, Vihara, West. L. A schoolgirl named Nayana Prepares (17).
+
+A youth group in the area has been enjoying floods that day, and he left the tube of the riding tuby and washed in water. Later, a resident of the area died on admission to the Leader Medicine at the Baddegama District Hospital.
+
+The deceased has been studying at the GEN college of the Christian male college and the recent complex. (O / L) Exam has also appeared. He is a member of the east music drum group of the school's dance sector.
 
 ◼️
 
 [Data](articles/a1785d90.json)
+
+[Extended Data](ext_articles/a1785d90.ext.json)
 
 ---
 
@@ -1103,6 +1207,30 @@ AHK Sri Lanka played a pivotal role in organising and supporting the delegation,
 [Data](articles/a3ad36c1.json)
 
 [Extended Data](ext_articles/a3ad36c1.ext.json)
+
+---
+
+### ශාරීරික දඬුවම් අපරාධයක් බවට පත් කිරීමට අනුමැතිය: රන්ජන් රාමනායකගේ අත්දැකීම
+
+*2024-06-06 04:42:30* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c033kdw092go) · `si`
+
+ශාරීරික දඬුවම් අපරාධයක් බවට පත් කිරීමට අනුමැතිය: රන්ජන් රාමනායකගේ අත්දැකීම
+
+ආහාර ගනිමින් සිටින කුඩා දරුවෙකුට පහර දෙන වීඩියෝවක් කෙරෙහි පසුගිය දින කිහිපය තුළ සමාජ මාධ්‍ය භාවිත කරන්නන් බොහෝ පිරිසකගේ අවධානයට ලක් විය.
+
+ඒ අනුව, ඒ සම්බන්ධයෙන් ක්‍රියාත්මක වූ පොලිසිය, අදාළ දරුවාට පහර දීමේ සිද්ධියට සම්බන්ධ සැකකරු සහ තවත් කාන්තාවන් දෙදෙනෙකු බදාදා (ජූනි 5) අත්අඩංගුවට ගත් බව පොලිස් මාධ්‍ය කොට්ඨාසය නිවේදනය කළේ ය.
+
+අත්අඩංගුවට ගත් සැකකරු 45 හැවිරිදි පුද්ගලයෙකු වන අතර, කාන්තාවන් දෙදෙනා 37 හැවිරිදි හා 46 හැවිරිදි වයස්වල පසු වන වැලිඔය, කල්‍යායාණපුර ප්‍රදේශයේ පදිංචිකරුවෝ වෙති.
+
+මේ අතර, අදාළ වීඩියෝව සමාජ මාධ්‍ය ඔස්සේ සංසරණය වීමත් සමග නිවසින් පළාගොස් සැඟවී සිටි සැකකරුට නවාතැන් දුන් පුද්ගලයෙකු ද අත්අඩංගුවට ගෙන ති‌බේ.
+
+සැකකරු සහ කාන්තාවන් දෙදෙනා පදවිය මහේස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමෙන් පසු ජූනි 19 වන දා තෙක් රක්ෂිත බන්ධනාගාරගත කිරීමට නියෝග කෙරිණි.
+
+ප්‍රහාරයට ලක්වූ වයස අවුරුදු 4 1/2ක ගැහැණු දරුවා ළමා පරිවාස දෙපාර්තමේන්තුව භාරයට පත්කර තිබේ.
+
+...
+
+[Data](articles/52e90bb0.json)
 
 ---
 
@@ -2029,103 +2157,5 @@ The arrested suspects and the navy calendar and the digie were handed over to th
 [Data](articles/77fa8628.json)
 
 [Extended Data](ext_articles/77fa8628.ext.json)
-
----
-
-### Ranil at Modi's swearing -in
-
-*2024-06-05 22:37:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மோடியின்-பதவிப்-பிரமாண-நிகழ்வில்-ரணில்/175-338495) · `ta`
-
-President Ranil Wickremesinghe will attend Narendra Modi's third term swearing-in ceremony, accepting India's invitation.
-
-🟩
-
-President Ranil Wickremesinghe has agreed to participate in Narendra Modi's swearing -in ceremony.
-
-President Ranil Wickremesinghe congratulates Narendra Modi, who will be sworn in as Prime Minister for the third time after winning the election.
-
-At this time, President Ranil Wickremesinghe has called on his office to attend the event.
-
-President Ranil Wickremesinghe has accepted the invitation of Indian Prime Minister Narendra Modi, according to the Presidential Media Unit. Remble
-
-◼️
-
-[Data](articles/1defc763.json)
-
-[Extended Data](ext_articles/1defc763.ext.json)
-
----
-
-### Sri Lanka requests Maldives to revisit migrant worker remittances limit
-
-*2024-06-05 22:29:00* · [`economynextcom`](https://economynext.com/sri-lanka-requests-maldives-to-revisit-migrant-worker-remittances-limit-166512/) · `en`
-
-ECONOMYNEXT – Sri Lanka has requested Maldives to revisit the limit imposed in foreign remittances sent by the island nation’s migrant workers in a move to ease the restriction and increase the inflow into the country.
-
-The Bank of Maldives (BML) has announced a new limit for foreign transactions which has been between $250-$300 monthly to prevent large dollar outflow from the country with an aim to prevent a forex shortage.
-
-A large number of Sri Lankans work in the Maldives in high executive jobs in the hospitality sector in other categories including and labourers and housemaids. Some of them earn around $3,000 worth salary monthly, paid in Maldivian rufiyaa.
-
-“I also requested the Maldives side to consider to revisit the current limit imposed on outward foreign currency remittances for the benefit of Sri Lankan migrant workers in Maldives,” Sri Lanka’s Foreign Minister Ali Sabry told a joint media briefing with Maldives Foreign Minister, following a bilateral meeting.
-
-...
-
-[Data](articles/a9416a0f.json)
-
-[Extended Data](ext_articles/a9416a0f.ext.json)
-
----
-
-### Sri Lanka requests Maldives to relax migrant worker remittances limit
-
-*2024-06-05 22:29:00* · [`economynextcom`](https://economynext.com/sri-lanka-requests-maldives-to-relax-migrant-worker-remittances-limit-166512/) · `en`
-
-ECONOMYNEXT – Sri Lanka has requested Maldives to revisit the limit imposed in foreign remittances sent by the island nation’s migrant workers in a move to ease the restriction and increase the inflow into the country.
-
-The Bank of Maldives (BML) has announced a new limit for foreign transactions which has been between $250-$300 monthly to prevent large dollar outflow from the country with an aim to prevent a forex shortage.
-
-A large number of Sri Lankans work in the Maldives in high executive jobs in the hospitality sector in other categories including and labourers and housemaids. Some of them earn around $3,000 worth salary monthly, paid in Maldivian rufiyaa.
-
-“I also requested the Maldives side to consider to revisit the current limit imposed on outward foreign currency remittances for the benefit of Sri Lankan migrant workers in Maldives,” Sri Lanka’s Foreign Minister Ali Sabry told a joint media briefing with Maldives Foreign Minister, following a bilateral meeting.
-
-...
-
-[Data](articles/d8687d54.json)
-
-[Extended Data](ext_articles/d8687d54.ext.json)
-
----
-
-### President Ranil reiterates commitment towards net zero on World Environment Day
-
-*2024-06-05 22:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/99689/president-ranil-reiterates-commitment-towards-net-zero-on-world-environment-day) · `en`
-
-President Ranil Wickremesinghe announced that Sri Lanka is committed to achieving net zero carbon emissions by 2040 while pursuing its economic goals. He noted that Sri Lanka is the first country in Asia to incorporate the global objective of zero carbon emissions into its national policy.
-
-He made these remarks during the World Environment Day celebrations held at the Presidential Secretariat on Wednesday (05).
-
-The President emphasized that Sri Lanka’s approach to climate change and environmental issues goes beyond traditional programs and is now integrated into the country’s economic and foreign policies.
-
-He also highlighted that the upcoming Climate Change Act and the establishment of the Climate Change Centre will create a comprehensive legal framework for addressing environmental and climate change issues, a framework that is unique compared to other countries.
-
-...
-
-[Data](articles/47b8540c.json)
-
-[Extended Data](ext_articles/47b8540c.ext.json)
-
----
-
-### Historic Crimes Of The Chauvinistic Left: Struggle For Far Sighted Marxist Position
-
-*2024-06-05 21:58:38* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/historic-crimes-of-the-chauvinistic-left-struggle-for-far-sighted-marxist-position/) · `en`
-
-I was one of the boys in the car that made its way to the Palali airport in the middle of the night. The other is my brother. It’s unimaginable now what must have been going through my aunt’s mind as she sat in the car with us, making our way to Palali airport in the dead of night. My brother and I, just fourteen at the time, couldn’t comprehend the gravity of the situation. We never had the chance to discuss it further with her, as our time together was cut short. Soon after we left the country, despite her illness, Akila threw herself fully into the local administrative work under the control of the LTTE. At times, she worked with Thamilselvan, the leader of LTTE’s political wing, who was killed by the Sri Lankan army in 2007 in a targeted airstrike. Akila also succumbed to her illness, which deteriorated mainly due to the demands of her work, requiring extensive travel across the North.
-
-...
-
-[Data](articles/16b3d30c.json)
-
-[Extended Data](ext_articles/16b3d30c.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-06 09:18:49**
+As of **2024-06-06 09:34:13**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,611
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,743 (100.0%) of 28,746 articles have been extended.
+28,746 (100.0%) of 28,746 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -51,6 +51,8 @@ Police have arrested a 17-year-old student in connection with the death.
 ◼️
 
 [Data](articles/5fd4712f.json)
+
+[Extended Data](ext_articles/5fd4712f.ext.json)
 
 ---
 
@@ -90,6 +92,8 @@ Sri Lanka Department of Immigration and Emigration retains the sole authority to
 
 [Data](articles/6c68a8e4.json)
 
+[Extended Data](ext_articles/6c68a8e4.ext.json)
+
 ---
 
 ### Rain expected today in most districts
@@ -111,6 +115,8 @@ Showers will occur at several places in the sea areas off the coast, extending f
 ...
 
 [Data](articles/bb8b0e4d.json)
+
+[Extended Data](ext_articles/bb8b0e4d.ext.json)
 
 ---
 

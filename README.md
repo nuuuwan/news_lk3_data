@@ -1,36 +1,154 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-06 13:18:47**
+As of **2024-06-06 13:34:21**
 
 ## Newspaper Stats
 
-*Scraped **28,790** Articles*
+*Scraped **28,804** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 261
-dbsjeyarajcom | 274
+dbsjeyarajcom | 275
 bbccomsinhala | 281
 newsfirstlk | 363
 islandlk | 1,553
 economynextcom | 1,636
 dailyftlk | 1,711
-adalk | 2,455
-adaderanalk | 3,264
-tamilmirrorlk | 3,382
+adalk | 2,458
+adaderanalk | 3,265
+tamilmirrorlk | 3,386
 virakesarilk | 4,414
-dailymirrorlk | 4,573
-adaderanasinhalalk | 4,623
+dailymirrorlk | 4,576
+adaderanasinhalalk | 4,625
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,789 (100.0%) of 28,790 articles have been extended.
+28,790 (100.0%) of 28,804 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-06 (Thursday)
+
+### ගාසා තීරයේ පාසලකට ඊශ්‍රායල ප්‍රහාරයක්
+
+*2024-06-06 13:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197457) · `si`
+
+අවතැන් පිරිස් රැඳී සිටින මධ්‍යම ගාසා හි නුසෙයිරාත් සරණාගත කඳවුර වෙත එල්ල වූ ඊශ්‍රායල ප්‍රහාරයකින් පුද්ගලයින් 32දෙනෙක් මියගොස් තිබේ.
+
+එක්සත් ජාතීන්ගේ අනර්වා ආයතනය විසින් පවත්වාගෙන ගිය පාසලක් ප්‍රහාරයේ ඉලක්ක වූ බව ඊශ්‍රායලයද තහවුරු කළේය.
+
+තමන් ඩේර් අල් බෙලාහි නගරයේ ත්‍රස්තවාදීන් සහ ත්‍රස්ත ඉලක්ක රැසක් වෙත ප්‍රහාර එල්ල කරමින් තව මෙහෙයුමක් ක්‍රියාත්මක කරන බව ඊශ්‍රායල හමුදාවද තහවුරු කරයි.
+
+◼️
+
+[Data](articles/bf84a145.json)
+
+---
+
+### සන‍ිපාරක්‍ෂක තුවා මිලදී ගැනීමට අධ්‍යාපන අමාත්‍යාංශයෙන් රු. බිලියනයක්
+
+*2024-06-06 12:54:40* · [`adalk`](https://www.ada.lk/breaking_news/සන‍ිපාරක්‍ෂක-තුවා-මිලදී-ගැනීමට-අධ්‍යාපන-අමාත්‍යාංශයෙන්-රු--බිලියනයක්/11-410049) · `si`
+
+වැඩිවියටපත් පාසල් සිසුවියන් සදහා සනීපාරක්ෂක තුවා මිල දී ගැනීම සඳහා නොමිලේ තිළිණපත් ලබා දීම 2024 වර්ෂයේ සිට ක්‍රියාත්මක වේ. ඒ සඳහා රුපියල් බිලියනක මුදලක් ආයෝජනය කර ඇත. එම තිළිණපත් ලබා දීමේ සමාරම්භක වැඩසටහන අද (06) දින නාවල ජනාධිපති බාලිකා විද්‍යාලයේ දී ආරම්භ විය.
+
+සිසුවියන්ගේ පාසල් පැමිණීම දිරිගැන්වීමත් ආර්ථව සමය තුළ ඔවුන් මුහුණ දෙන ගැටලු‍ හා සෞඛ්‍යමය නොදැනුම්වත්භාවය හේතුවෙන් අධ්‍යාපනය සඳහා නිසි අවධානයක් යොමු නොවීම වැනි අහිතකර තත්වයන් වලක්වාගැනීමත් මෙමගින් අපේක්ෂිත ය.
+
+ශ්‍රී ලංකාවේ සමස්ත ශිෂ්‍ය ජනගහනයෙන් වැඩිවියට පත් ශිෂ්‍යාවන් සමස්තය අතරින් වතු පාසල් කාණ්ඩයට අයත් ජාතික පාසල් 07 සහ සියලු‍ පළාත් පාසල්වලට අයත් වැඩිවියට පත් ශිෂ්‍යාවන් සඳහා 2024 වර්ෂයේ ජුනි මාසයෙන් ආරම්භ කර මාස 06ක් සඳහා සනීපාරක්ෂක තුවා මිල දී ගැනීමට තිළිණපතක් නොමිලේ ලබා දීමට අධ්‍යාපන අමාත්‍යාශය පියවර ගෙන ඇත. ඒ අනුව එක් සිසුවියකට රු.1200.00ක් වටිනා තිළිණපතක් ලබා දෙනු ලබන අතර එම තිළිණපත පාසල් හරහා සිසුවියන් වෙත ලබා දීමට අවශ්‍ය කටයුතු මේ වන විටත් අධ්‍යාපන අමාත්‍යාංශය විසින් සංවිධානය කර ඇත.
+
+...
+
+[Data](articles/31bfe7aa.json)
+
+---
+
+### TRCSL grants preliminary approval for Starlink internet in Sri Lanka
+
+*2024-06-06 12:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/TRCSL-grants-preliminary-approval-for-Starlink-internet-in-Sri-Lanka/108-284255) · `en`
+
+Colombo, June 6 (Daily Mirror) - The Telecommunications Regulatory Commission of Sri Lanka (TRCSL) has granted preliminary approval for Starlink to provide satellite-based internet services in Sri Lanka, Technology State Minister Kanaka Herath announced.
+
+He said the approval will be given following a formal public consultation process.
+
+Meanwhile, the President's Media Division (PMD) said the details of the public consultation will be published tomorrow.
+
+◼️
+
+[Data](articles/45a1ed91.json)
+
+---
+
+### පාසල් සිසුවියන්ට සුබ පණිවුඩයක්
+
+*2024-06-06 12:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197456) · `si`
+
+පාසල් සිසුවියන්ට සනීපාරක්ෂක තුවා මිල දී ගැනීමේ තිළිණපත් ලබාදීමේ සමාරම්භක වැඩසටහන අද (06) නාවල ජනාධිපති බාලිකා විද්‍යාලයෙන් ආරම්භ වුණි.
+
+පාසල් තුළ ඉගෙනුම්-ඉගැන්වීම් ක්‍රියාවලිය සාර්ථක ව පවත්වාගැනීම සඳහා අත්‍යවශ්‍ය  සාධකයක් වන දරුවන්ගේ පෞරුෂ වර්ධනයට හා සෞඛ්‍යවත් යහ පැවැත්මට ඉහවහල් වන පහසුකම් ලබා දීමේ අරමුණින් අධ්‍යාපන අමාත්‍යාංශය මෙම සනීපාරක්ෂක වැඩසටහන ක්‍රියාවට නංවා තිබේ.
+
+සිසුවියන්ගේ පාසල් පැමිණීම දිරිගැන්වීමත් ආර්ථව සමය තුළ ඔවුන් මුහුණදෙන ගැටලු‍ හා සෞඛ්‍යමය නොදැනුම්වත්භාවය හේතුවෙන් අධ්‍යාපනය සඳහා නිසි අවධානයක් යොමු නොවීම වැනි අහිතකර තත්ත්වයන් වළක්වා ගැනීමත් මෙමඟින් අපේක්ෂිත ය.
+
+ශ්‍රී ලංකාවේ සමස්ත ශිෂ්‍ය ජනගහනයෙන් වැඩිවියට පත් ශිෂ්‍යාවන් සමස්තය අතරින් වතු පාසල් කාණ්ඩයට අයත් ජාතික පාසල් 07 සහ සියලු‍ පළාත් පාසල්වලට අයත් වැඩිවියට පත් ශිෂ්‍යාවන් සඳහා 2024 වර්ෂයේ ජුනි මාසයෙන් ආරම්භ කර මාස 06ක් සඳහා සනීපාරක්ෂක තුවා මිල දී ගැනීමට තිළිණපතක් නොමිලේ ලබා දීමට අධ්‍යාපන අමාත්‍යාශය පියවර ගෙන ඇත.
+
+...
+
+[Data](articles/78a9d781.json)
+
+---
+
+### மின் கட்டணம் குறைவடையும்
+
+*2024-06-06 12:24:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்-கட்டணம்-குறைவடையும்/175-338535) · `ta`
+
+மின்சாரக் கட்டணம் குறைக்கப்படும் போது ஒரு யூனிட் மின்சாரத்தின் விலை எவ்வாறு குறைக்கப்படும் என்பதை மின்சாரம் மற்றும் எரிசக்தி அமைச்சர் கஞ்சன விஜேசேகர வியாழக்கிழமை (06) முன்வைத்தார்.
+
+இதன்படி, 0 முதல் 30 வரையான மின்சார அலகு ஒன்றின் விலை ரூபா 180 வரையான அலகு ஒன்றின் விலை 50 ரூபாவிலிருந்து 30 ரூபாவாக குறைக்கப்படும் என அமைச்சர் காஞ்சன விஜேசேகர மேலும் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/ad334ee6.json)
+
+---
+
+### Govt. to allocate foreign jobs to retired military, war hero families
+
+*2024-06-06 12:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Govt-to-allocate-foreign-jobs-to-retired-military-war-hero-families/108-284249) · `en`
+
+Colombo, June 6 (Daily Mirror) - The Ministry of Labour and Foreign Employment has expressed willingness to allocate a portion of the foreign job opportunities to retired military personnel and war hero families, the Ministry of Defence said.
+
+This was revealed during a  meeting held to educate tri forces personnel on the programme of providing foreign employment to retired tri forces personnel and members of war hero families under the patronage of State Minister of Defence Premitha Bandara Tennakoon. Senior tri forces officers and representatives of the Ministry of Labour and Foreign Employment attended the discussion.
+
+The decision was taken following discussions between the State Minister Tennakoon and Minister of Labour and Foreign Employment Manusha Nanayakkara.
+
+The Ministry said that loan facilities at concessional rates will be facilitated through state banks for expatriates, and 67 personnel from the Army have been identified to be sent for these jobs
+
+...
+
+[Data](articles/b0904f06.json)
+
+---
+
+### Electricity tariffs to be reduced by July; proposed rates announced
+
+*2024-06-06 12:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/99699/electricity-tariffs-to-be-reduced-by-july-proposed-rates-announced) · `en`
+
+Minister of Power and Energy Kanchana Wijesekara revealed that it has been proposed that the electricity tariffs be reduced by 01 July 2024.
+
+Speaking during today’s Parliamentary session, Wijesekara stated that accordingly, it is expected that more relief will be given to the consumers of the domestic category and that the relevant proposal will be approved by the Public Utilities Commission of Sri Lanka (PUCSL).
+
+The Minister also explained that it has been proposed to reduce the rate charged per one unit of electricity for the first 30 units in the domestic category by Rs.02. Accordingly, the new rate per one electricity unit in that category will be Rs. 06.
+
+The tariff charged per unit for the units consumed between 31-60 is expected to be reduced by Rs. 11, bringing down the rate charged per unit to Rs. 09.
+
+Meanwhile, for 60-90 units the charge is to be reduced to Rs. 18. The current rate charged per unit in this category is Rs. 30, according to the minister.
+
+...
+
+[Data](articles/4fd6052a.json)
+
+---
 
 ### Electricity tariff to be reduced from July 1: Kanchana
 
@@ -69,6 +187,26 @@ Accordingly, the price of Rs. 8 to Rs.The Minister said that the government has 
 [Data](articles/9845664f.json)
 
 [Extended Data](ext_articles/9845664f.ext.json)
+
+---
+
+### ஒரு கோடி பெறுமதியான இஞ்சி மீட்பு
+
+*2024-06-06 11:40:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒரு-கோடி-பெறுமதியான-இஞ்சி-மீட்பு/175-338530) · `ta`
+
+இந்தியாவில் இருந்து கடல் மார்க்கமாக நாட்டிற்கு சட்டவிரோதமாக கொண்டு வரப்பட்டதாக சந்தேகிக்கப்படும் ஒரு தொகை இஞ்சி, நுரைச்சோலை - இலந்தையடி கடற்பிரதேசத்தில் வைத்து கைப்பற்றப்பட்டுள்ளதாக நுரைச்சோலை பொலிஸார் தெரிவித்தனர்.
+
+அத்துடன், இந்த இஞ்சி கடத்தலுடன் தொடர்புடையவர்கள் என சந்தேகிக்கப்படும் இருவர் பொலிஸாரினால்  கைது செய்யப்பட்டுள்ளனர்.
+
+இவ்வாறு கைது செய்யப்பட்ட சந்தேக நபர்கள் கற்பிட்டி - உச்சிமுனை பகுதியைச் சேர்ந்த 30 மற்றும் 40 வயதுடையவர்கள் எனவும் நுரைச்சோலை பொலிஸார் குறிப்பிட்டனர்.
+
+மேலும், மூன்று மீன்பிடி இயந்திர படகுகள், மூன்று என்ஜின்கள் மற்றும் இருப்பிடத்தின் திசையைக் கண்டறியும் ஜி.பி.எஸ் கருவியும் பொலிஸாரால் கைப்பற்றப்பட்டுள்ளன.
+
+இதன்போது 29 மூடைகளில் அடைக்கப்பட்ட 1,456 கிலோ கிராம் இஞ்சி கைப்பற்றப்பட்டுள்ளதுடன், அவை ஒரு கோடி ரூபாவுக்கும் அதிக பெறுமதி கொண்டது எனவும் பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/200e1279.json)
 
 ---
 
@@ -195,6 +333,20 @@ Accordingly, the apology issued by the former president has been ruled out.. Rem
 [Data](articles/60bffd6c.json)
 
 [Extended Data](ext_articles/60bffd6c.ext.json)
+
+---
+
+### மைத்திரியின் பொது மன்னிப்பு செல்லுபடியற்றது
+
+*2024-06-06 11:21:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மைத்திரியின்-பொது-மன்னிப்பு-செல்லுபடியற்றது/175-338528) · `ta`
+
+இராஜகிரிய, ரோயல் பார்க் கொலைச் சம்பவம் தொடர்பில் மரண தண்டனை விதிக்கப்பட்டிருந்த ஜூட் ஷமந்த ஜயமஹா என்பவருக்கு முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன மன்னிப்பு வழங்கி விடுதலை செய்த தீர்மானம் அரசியலமைப்புக்கு எதிரானது என உயர் நீதிமன்றம் தீர்ப்பளித்துள்ளது.
+
+இதன்படி, குறித்த பிரதிவாதியை விடுவித்து முன்னாள் ஜனாதிபதி வழங்கிய மன்னிப்பு செல்லுபடியற்றது என தீர்ப்பளிக்கப்பட்டுள்ளது. R
+
+◼️
+
+[Data](articles/e143b2ab.json)
 
 ---
 
@@ -406,6 +558,18 @@ President Ranil Wickremesinghe inaugurated his political office in Colombo this 
 
 ---
 
+### ஜனாதிபதியின் அரசியல் அலுவலகம் திறப்பு
+
+*2024-06-06 10:34:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியின்-அரசியல்-அலுவலகம்-திறப்பு/175-338524) · `ta`
+
+ஜனாதிபதி ரணில் விக்ரமசிங்க இன்று காலை சுபநேரத்தில் கொழும்பில் தனது அரசியல் அலுவலகத்தை திறந்து வைத்தார்.
+
+◼️
+
+[Data](articles/c5715c3d.json)
+
+---
+
 ### SC quashes Presidential Pardon granted to Jude Jayamaha in Royal Park case
 
 *2024-06-06 10:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/SC-quashes-Presidential-Pardon-granted-to-Jude-Jayamaha-in-Royal-Park-case/155-284236) · `en`
@@ -504,6 +668,22 @@ Hambantota Police are currently conducting further inquiries into the incident.
 
 ---
 
+### සිසුන් දෙපිරිසක් අතර ඇතිවූ ගැටුමකින් සිසුවෙකු මරුට
+
+*2024-06-06 10:12:16* · [`adalk`](https://www.ada.lk/breaking_news/සිසුන්-දෙපිරිසක්-අතර-ඇතිවූ-ගැටුමකින්-සිසුවෙකු-මරුට/11-410042) · `si`
+
+හම්බන්තොට සාමෝදාගම ක්‍රීඩාංගනය අසලදී පාසල් සිසුන් දෙපිරිසක් අතර වූ ගැටුමකින් පහළොස් හැවිරිදි පාසල් ශිෂ්‍යයකු ඊයේ (5 දින) ජීවිතක්ෂයට පත්ව ඇතැයි හම්බන්තොට මූලස්ථාන පොලිසිය කියයි.
+
+මෙලෙස ජීවිතක්ෂයට පත්ව ඇත්තේ හම්බන්තොට බැද්දේවෙල පාරේ පදිංචිව සිටි මොහොමඩ් ෆයිරූස් අශීස් අහමඩ් නමැති හම්බන්තොට පාසලක ඉගෙනුම ලබන පහළොස් හැවිරිදි පාසල් ශිෂ්‍යයකු වේ. මෙම ශිෂ්‍යයා ඊයේ උපකාරක පන්තියකට සහභාගී වී නැවත එමින් සිටියදී මග රැක සිටි තවත් පාසල් ශිෂ්‍යයකු අතර ගැටුමක් ඇති වී තිබේ. ගැටුමින් තුවාල ලැබූ පාසල් ශිෂ්‍යයා හම්බන්තොට රෝහලට රැගෙන යන අතරතුරදී ජීවිතක්ෂයට පත්ව ඇති බව හම්බන්තොට මූලස්ථාන  පොලීසිය කියයි.
+
+සැකකාර ශිෂ්‍යයා හම්බන්තොට පාසලක උසස් පෙළ හදාරන 17 හැවිරිදි අයෙකු   වන අතර    ඔහුද හම්බන්තොට පදිංචිකරුවෙකි. ඔහු තම පියාට අයත් ත්‍රීරෝද රථයකින් පැමිණ ඇති බවට අනාවරණය වී ඇත. එම සිසුවා පැමිණි ත්‍රී රෝද රථය ඊයේ රාත්‍රී හම්බන්තොට මූලස්ථාන පොලිසියෙන් අත්අඩංගුවට ගෙන තිබිණි. තංගල්ල කොට්ඨාස භාර ජ්‍යෙෂ්ඨ පොලිස් අධිකාරී කේ.බී කීර්තිරත්නගේ උපදෙස් පරිදි හම්බන්තොට මූලස්ථාන පොලිසිය සිද්ධිය සම්බන්ධයෙන් වැඩිදුර විමර්ශන සිදුකරයි.
+
+◼️
+
+[Data](articles/be61eb83.json)
+
+---
+
 ### Missing student's body recovered
 
 *2024-06-06 10:11:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெள்ளத்தில்-சிக்கி-காணாமல்-போன-மாணவன்-சடலமாக-மீட்பு/175-338522) · `ta`
@@ -525,6 +705,20 @@ The body is being kept at the Horana Hospital and the Angruvatti police are cond
 [Data](articles/88b54c0a.json)
 
 [Extended Data](ext_articles/88b54c0a.ext.json)
+
+---
+
+### President opens political office
+
+*2024-06-06 10:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/President-opens-political-office/108-284247) · `en`
+
+Colombo, June 6 (Daily Mirror) - President Ranil Wickremesinghe auspiciously opened his political office in Colombo.
+
+According to the Presidential Media Division (PMD) this office will conduct political operations for the upcoming Presidential election.
+
+◼️
+
+[Data](articles/a6455818.json)
 
 ---
 
@@ -685,6 +879,24 @@ Accordingly, the Act, Minister of Power and Energy Kanchana Wijesekara presented
 [Data](articles/676db10a.json)
 
 [Extended Data](ext_articles/676db10a.ext.json)
+
+---
+
+### ලක්ෂ 3689ක් රජයට පාඩුකළ තවත් එන්නත් මගඩියක් හෙළිවෙයි
+
+*2024-06-06 09:24:45* · [`adalk`](https://www.ada.lk/breaking_news/ලක්ෂ-3689ක්-රජයට-පාඩුකළ-තවත්-එන්නත්-මගඩියක්-හෙළිවෙයි/11-410041) · `si`
+
+Meropenem injection එන්නත් කුප්පි 488,590ක් තිබියදී  එන්නත් කුප්පි 450,000ක් හදිසි මිලදී ගැනීමක් ලෙස වැඩිමිලට මිලදී ගැනීමෙන් රු.368,955,000ක පාඩුවක්
+
+බැක්ටීරියා මගින් ඇති වන ආසාදනවලට භාවිත කරනු ලබන Meropeneminjecion නමැති ඖෂධය ප්‍රමාණවත් පරිදි රෝහල් පද්ධතියේ හෝ වෛද්‍ය සැපයුම් අංශයේ තිබියදී එම ඖෂධයෙන් එන්නත් කුප්පි 450,000ක් හදිසි මිලදී ගැනීම් යටතේ වැඩි මිලට මිලදී ගැනීම නිසා රජයට රුපියල් තිස්හය කෝටි අසූ නවලක්ෂ පනස් පන්දහසක (368,955,000) පාඩුවක් සිදු වී ඇති බව ජාතික විගණන කාර්යාලය මගින් නිකුත් කරන ලද නවතම විගණන වාර්තාවක සඳහන් වේ.
+
+මෙම එන්නත් කුප්පියක් සාමාන්‍ය ඇණවුම් යටතේ රුපියල් 1,075.60ක මිලකට මිලදී ගත හැකිව තිබියදී මෙරටට බෙහෙත් සැපයුම් කරන කොන්ත්‍රාත්කරුවන්ගේ හදිසි මිලදී ගැනීම් යටතේ එන්නත් කුප්පියක් රුපියල් 1895.50ක මුදලකට මිලදී ගෙන තිබුණි.
+
+මෙම එන්නත් තොගය හදිසි  මිලදී ගැනීම් යටතේ ඇණවුම් කිරීමේදී සෞඛ්‍ය අංශයේ හදිසි ප්‍රසම්පාදන කමිටුව මගින් 2022 වර්ෂයේ නොවැම්බර් මස 21වනදා වන විට කිසිදු තොගයක් නොමැති බව සඳහන් කර තිබුණි.
+
+...
+
+[Data](articles/04f03033.json)
 
 ---
 
@@ -1100,25 +1312,35 @@ A memorandum of understanding is currently underway, which has made several roun
 
 ---
 
-### විදුලිබල පනත් කෙටුම්පත: ‘පළවෙනි පිටු ලස්සන වුණාට ඇතුළට යද්දී ඒක ලස්සන නැහැ’
+### Electricity Bill: The first bill: 'It is not nice when it comes to
 
 *2024-06-06 06:43:35* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cw44w4zzjz3o) · `si`
 
-විදුලිබල පනත් කෙටුම්පත: ‘පළවෙනි පිටු ලස්සන වුණාට ඇතුළට යද්දී ඒක ලස්සන නැහැ’
+It seems like you've shared a detailed summary of legislative developments related to the Sri Lanka Electricity Bill and its implications. How can I assist you further with this information? Are you looking for analysis, additional details, or perhaps guidance on how to proceed with certain aspects of this topic?
 
-ආන්දෝලනාත්මක විදුලි බල පනත් කෙටුම්පත අද (ජුනි 6 වැනිදා) දිනයේ පාර්ලිමේන්තුවේ විවාදයට ගෙන සම්මත කර ගැනීමට නියමිතය.
+🟩
 
-ඒ, විදුලිබල පනත් කෙටුම්පතේ වගන්ති කිහිපයක් ආණ්ඩුක්‍රම ව්‍යවස්ථාවට අනුකූල නොවන බවත්, එම වගන්ති පාර්ලිමේන්තුවේ විශේෂ බහුතරයකින් සහ එක් වගන්තියක් ජනමත විචාරණයකින් ද අනුමත කළ යුතු බවට ශ්‍රේෂ්ඨාධිකරණය පාර්ලිමේන්තුවට දැනුම් දී ඇති පසුබිම තුළයි.
+Electricity Bill: The first bill: 'It is not nice when it comes to
 
-අදාළ වගන්ති සංශෝධනය කළහොත් පාර්ලිමේන්තුවේ සරල බහුතරයකින් එය සම්මත කළ හැකි බව, පනත් කෙටුම්පත පිළිබඳ ‍‍ශ්‍රේෂ්ඨාධිකරණ මතය සභාවට ඉදිරිපත් කරමින් කතානායකවරයා (ජුනි මස 04වැනිදා) පැවසුවේය.
+The controversial bill will be passed to the debate today (June 6).
 
-පනත් කෙටුම්පත පිළිබඳ ඡන්ද විමසීම අද (ජුනි 6 වැනිදා) පස්වරුවේ පැවැත්වෙනු ඇත.
+It is in the background that the Supreme Court has informed parliament that several clauses of the Power Bill is not in accordance with the Constitution.
 
-පාර්ලිමේන්තුව හමුවට ඉදිරිපත්කර ඇති විදුලිබල පනත් කෙටුම්පතට අදාළව මේ දක්වා සිදුවුයේ කුමක්ද ?
+The Speaker (June 4) stated that it is a simple majority of the parliament, said the Supreme Court opinion on the Bill (June 4).
+
+The vote on the bill will be held today (June 6).
+
+What happened to the Electricity Bill presented before Parliament?
+
+Power and Energy Minister Kanchana Wijese, a letter stating that the Power and Energy and the Supreme Court has been approved by the Power and Supreme Court's amendments (June 4).
+
+Accordingly, the Power and Energy Bill (6th June) is due to be submitted to the debate and approval of Parliament.
 
 ...
 
 [Data](articles/6c31dcfe.json)
+
+[Extended Data](ext_articles/6c31dcfe.ext.json)
 
 ---
 
@@ -1899,287 +2121,5 @@ So, is there discrimination regarding race and religion on this issue?To be expl
 [Data](articles/310d980b.json)
 
 [Extended Data](ext_articles/310d980b.ext.json)
-
----
-
-### Model India has a permanent membership
-
-*2024-06-06 00:59:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்தியாவுக்கு-நிரந்தர-உறுப்புரிமை-வேண்டும்/175-338513) · `ta`
-
-Sajith Premadasa advocates for India's permanent UNSC seat, highlighting its global influence and population size. He praises PM Modi's victory, emphasizing India's potential as a global power center. Cooperation from Sri Lanka's parliament is offered, underscoring the importance of India's economic growth under Modi's leadership.
-
-🟩
-
-Opposition Leader Sajith Premadasa said that steps should be taken to provide permanent membership to India in the United Nations Security Council and the cooperation of 225 persons of the Sri Lanka Parliament.
-
-The Opposition Leader said this while addressing the government headed by Prime Minister Narendra Modi, who won the Indian election on Wednesday (05) in Parliament.
-
-We congratulate Narendra Modi for the third time and the Bharatiya Janata Party -led coalition for re -rule.. We expect to have a close friendship between Sri Lanka India.
-
-It is important that India has the highest population in the world to grant permanent membership in the United Nations Security Council. The cooperation of the 225 persons of the Parliament will be available to the UN Security Council, especially the Global Power Center.. Thus I present this idea.
-
-...
-
-[Data](articles/f0c2dca1.json)
-
-[Extended Data](ext_articles/f0c2dca1.ext.json)
-
----
-
-### The educational system is useless
-
-*2024-06-06 00:55:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கல்வி-முறைமை-பிரயோசனமற்றது/175-338512) · `ta`
-
-Sri Lanka's opposition parliamentarian Rohini Kumari Gavaratne criticized the country's educational system as ineffective for both the nation and its children. She highlighted ongoing issues within the Education Department, including delayed public exams and unresolved teacher salaries, affecting student well-being and performance. Gavaratne called for urgent government intervention to address these problems, emphasizing the need for a more relevant and effective education system to benefit future generations.
-
-🟩
-
-Opposition parliamentarian Rohini Kumari Gavaratne said that the current educational system of Sri Lanka is useless to the country or children.
-
-Rohini Kumari Kavaratne MP said this while addressing the inauguration of the post -adjournment debate on the issues of the Education Department in Parliament on Wednesday (05).
-
-The Department of Education has not yet returned to normal. Public exams could not be conducted during the period. This is due to the inability of learning measures to be completed in a timely manner.
-
-As a result of this, the students of the school have been greatly affected. At the same time, there are various issues, including the salary of teachers, including teachers in the field of education.. We demand the government to take action to solve them.
-
-...
-
-[Data](articles/f9fdaebd.json)
-
-[Extended Data](ext_articles/f9fdaebd.ext.json)
-
----
-
-### Hijab does not get rid of blood
-
-*2024-06-06 00:50:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹிஜாப்பால்-பெறுபேறு-இரத்தாகாது/175-338511) · `ta`
-
-In response to concerns about exams being affected by candidates wearing hijabs, Sri Lanka's Education Minister Susil Premajayantha clarified that exam results won't be canceled due to this. He also noted that while wearing a hijab, candidates can keep their ears covered. This statement was made after 13 individuals had their exam results suspended for wearing hijabs during the Chancellor Service Examination in the Western Province. The Department of Examinations has allowed the use of hijabs in national exams, emphasizing that examiners must respect this decision.
-
-🟩
-
-Education Minister Susil Premajayantha said that the results of the hijab would not be canceled due to the appearance of the exam.
-
-When wearing a hijab, the ears can be kept in the ear when wearing the hijab.
-
-United People's Power MP in Parliament. In response to a question raised by Mujibur Rahman on Wednesday (05), the Minister of Education said this.
-
-Their results have been suspended for the examination of 13 people who have appeared in the province of the Chancellor Service Examination.
-
-The Department of Examinations has granted permission for the National Examinations worn by hijab. If the examiner is in charge of the examination, he should be obliged to obey the examiner's ears.
-
-Officials of the Examination Center have notified the Department of Examinations that 13 people who appeared for the Chancellor Examination in the Western Province have been wearing a hijab. Their exam results have been suspended.
-
-...
-
-[Data](articles/69ed98de.json)
-
-[Extended Data](ext_articles/69ed98de.ext.json)
-
----
-
-### Hijab does not get rid of blood
-
-*2024-06-06 00:50:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/ஹிஜாப்பால்-பெறுபேறு-இரத்தாகாது/150-338511) · `ta`
-
-In response to concerns about exams being affected by candidates wearing hijabs, Sri Lanka's Education Minister Susil Premajayantha clarified that exam results will not be canceled due to this. He also noted that while wearing a hijab, candidates can keep their ears covered. This statement was made after 13 individuals had their exam results suspended for wearing hijabs during the Chancellor Service Examination in the Western Province. The Department of Examinations has allowed candidates to wear hijabs during national exams, and examiners are expected to accommodate this.
-
-🟩
-
-Education Minister Susil Premajayantha said that the results of the hijab would not be canceled due to the appearance of the exam.
-
-When wearing a hijab, the ears can be kept in the ear when wearing the hijab.
-
-United People's Power MP in Parliament. In response to a question raised by Mujibur Rahman on Wednesday (05), the Minister of Education said this.
-
-Their results have been suspended for the examination of 13 people who have appeared in the province of the Chancellor Service Examination.
-
-The Department of Examinations has granted permission for the National Examinations worn by hijab. If the examiner is in charge of the examination, he should be obliged to obey the examiner's ears.
-
-Officials of the Examination Center have notified the Department of Examinations that 13 persons who appeared for the Chancellor Examination in the Western Province have been wearing a hijab. Their exam results have been suspended.
-
-...
-
-[Data](articles/771e7eef.json)
-
-[Extended Data](ext_articles/771e7eef.ext.json)
-
----
-
-### Plot support for common candidate
-
-*2024-06-06 00:37:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொது-வேட்பாளருக்கு-புளொட்-ஆதரவு/175-338510) · `ta`
-
-The Democratic People's Liberation Front, along with the Democratic Liberation Front and the Democratic Tamil National Alliance, has decided to support a common candidate in the upcoming presidential election. This move aims to represent the Tamil community's political aspirations and address their concerns. The decision was made after a central committee meeting, emphasizing the importance of addressing the Tamil people's needs through collective action rather than individual party decisions.
-
-🟩
-
-The Democratic People's Liberation Front has said that we have accepted the decision to field a common candidate in the presidential election.
-
-A decision on the Tamil general candidate has been taken at the party's central committee meeting chaired by Democratic People's Liberation Front leader TC Sitharthan.
-
-The Democratic People's Liberation Front, we have joined the Democratic Liberation Front and other members of the Democratic Tamil National Alliance (TNA), a decision to field a common candidate in the presidential election, to firmly express the political aspirations of the Tamil people, the expectations of social life, and the continuous deceit of the South Sri Lanka political community.We also expressed support.
-
-At the same time, we continue to emphasize that the resolution can be made so that the aspirations of the Tamil people can be very strong, not the decision of a few political parties and a few social activities groups.
-
-...
-
-[Data](articles/1b0d0bc0.json)
-
-[Extended Data](ext_articles/1b0d0bc0.ext.json)
-
----
-
-### UNP Re-structures Party  Leadership to Face Elections. Harin Fernando appointed  National Elections Organizer ; Ravi Karunanayake and Ronald Perera  to Serve as Secretary and Deputy   Secretary of Elections
-
-*2024-06-06 00:36:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84151) · `en`
-
-The United National Party (UNP) made key appointments for its upcoming election campaign at a meeting held at Sirikotha on Sunday June 2nd.
-
-At the meeting chaired by Party Leader Ranil Wickremesinghe, several key positions were filled to strengthen the party’s election strategy.
-
-Harin Fernando was appointed as the National Election organiser while Ravi Karunanayake was named the National Secretary, and Ronald Perera will serve as the Deputy General Secretary of elections.
-
-In other notable appointments, Firdouse Farook was made the party’s Treasurer Misbah Sattar was appointed Deputy Chairman, and Krishan Theodore was named Deputy General Secretary.
-
-The working committee also confirmed that several senior members will continue in their current roles. Deputy Leader Ruwan Wijayawardena, General Secretary Palitha Range Bandara, Chairman Wajira Abeywardena, National Organiser Sagala Ratnayaka, and Deputy Leader Akila Viraj Kariyawasam will maintain their existing positions within the party.
-
-...
-
-[Data](articles/90cd9bce.json)
-
-[Extended Data](ext_articles/90cd9bce.ext.json)
-
----
-
-### Action to remove 1,5025 homes
-
-*2024-06-06 00:34:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/1-5025-வீடுகளை-அகற்ற-நடவடிக்கை/175-338509) · `ta`
-
-In response to landslides, the government plans to remove 15,025 houses in affected areas. Legal action will be taken against those refusing to leave. Inclement weather has caused significant damage: 71 houses are destroyed, 9,378 are partially damaged, and 825 SMEs are affected. Temporary shelters and dry food are provided to those safe in flood-prone areas.
-
-🟩
-
-Steps will be taken to remove 1,5025 houses in areas where landslides are alerted. Defense Minister of State for Defense Bandara Thennakoon said that even though the government has been provided with houses in such places, legal action will be taken against those who do not leave the houses.
-
-State MP on inclement weather and impact in the country. Responding to the questions posed by the All India on Wednesday (05) in Parliament, he added that he said.
-
-Due to the inclement weather conditions in the country, 71 houses have been completely complete, 9378 houses are partially and 825 small and medium enterprises have been damaged.Have been housed. He said dry foods are provided through temporary camps to those who are safe on the top floors of houses in flooding areas.
-
-◼️
-
-[Data](articles/f83cf5e5.json)
-
-[Extended Data](ext_articles/f83cf5e5.ext.json)
-
----
-
-### Two persons arrested with Kerala ganja worth 28 million in Jaffna
-
-*2024-06-06 00:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/185408) · `ta`
-
-In Jaffna, two men aged 34 and 40 were arrested by the Navy for possessing Kerala ganja worth 28 million rupees. The suspects were caught transporting the drugs on a boat, which along with the ganja, was confiscated. They are now under investigation by the Maruthankeni police.
-
-🟩
-
-The Navy has arrested two suspects with Kerala ganja worth about 28 million rupees in the North Sea.
-
-The two men, aged 34 and 40, from Jaffna have been arrested.
-
-The Marines arrested them when they took the Kerala ganja on the boat.
-
-The suspects arrested for further investigations and the Kerala cannabis and boat seized by the Navy have been handed over to the Maruthankeni police.
-
-◼️
-
-[Data](articles/b55d8710.json)
-
-[Extended Data](ext_articles/b55d8710.ext.json)
-
----
-
-### Bridging Excellence: A union of innovation and expertise in the transformer industry
-
-*2024-06-06 00:09:00* · [`islandlk`](http://island.lk/bridging-excellence-a-union-of-innovation-and-expertise-in-the-transformer-industry/) · `en`
-
-In the dynamic landscape of the transformer industry, where innovation meets expertise, two industry giants, Lanka Transformers Ltd and APAR Industries Ltd, have forged an alliance that promises to redefine standards and elevate benchmarks.
-
-This alliance comes as a culmination of rigorous evaluation and meticulous selection, with APAR clinching the bid to supply bulk volumes of Transformer Oils to Lanka Transformers Ltd.Established in 1980 as a joint venture between the Ceylon Electricity Board and Bonar Long of Scotland, Lanka Transformers Ltd has emerged as a beacon of excellence in transformer manufacturing.
-
-...
-
-[Data](articles/aa97421b.json)
-
-[Extended Data](ext_articles/aa97421b.ext.json)
-
----
-
-### Suneth Silva of WIS recognized at Global CEO ‘45 Under 45 Leadership Excellence Awards’
-
-*2024-06-06 00:09:00* · [`islandlk`](http://island.lk/suneth-silva-of-wis-recognized-at-global-ceo-45-under-45-leadership-excellence-awards/) · `en`
-
-WIS Director Suneth Silva has been recognized as one of the winners in the “45 Under 45 Leadership Excellence and Emerging Leaders Awards 2024” organized by the Global CEO Forum in Sri Lanka. Suneth Silva’s award underscores his outstanding leadership qualities, commitment to excellence, and innovative approach to work, all of which have helped to elevate WIS’ performance at every level.
-
-The Under 45 Leadership Excellence Platinum Awards is an esteemed programme that recognizes and honours the country’s brightest talents and forward-thinking individuals across various domains. The event is dedicated to celebrating the outstanding achievements of CEOs, entrepreneurs, exporters, SMEs, and other promising professionals who are under 45 years old.
-
-...
-
-[Data](articles/e9835eeb.json)
-
-[Extended Data](ext_articles/e9835eeb.ext.json)
-
----
-
-### SLT-MOBITEL Enterprise strengthens collaboration with MBSL to deliver cutting-edge connectivity solutions
-
-*2024-06-06 00:05:00* · [`islandlk`](http://island.lk/slt-mobitel-enterprise-strengthens-collaboration-with-mbsl-to-deliver-cutting-edge-connectivity-solutions/) · `en`
-
-Committed to supporting customers’ evolving connectivity needs, SLT-MOBITEL Enterprise signed a bilateral agreement with the Merchant Bank of Sri Lanka & Finance PLC (MBSL), recently solidifying a new era of collaboration between the two organizations.
-
-The agreement was signed by Janaka Abeysinghe, CEO of SLT and Dammika Hapuhinna, CEO of MBSL at the MBSL Board Room, Colombo 03, in the presence of Lakmal Jayasinghe, Chief Business Officer – Enterprise Business of SLT-MOBITEL, and Thishan Gonagala, Asst. General Manager- IT of MBSL alongside officials representing SLT-MOBITEL and MBSL
-
-MBLS is a leading financial services provider in Sri Lanka with a rich history in the country and is recognized as a pioneer in trade finance and investment banking. The institution is one of Sri Lanka’s pioneering financial institutions, with an illustrious history spanning over 41 years.
-
-...
-
-[Data](articles/37233da1.json)
-
-[Extended Data](ext_articles/37233da1.ext.json)
-
----
-
-### Share price appreciations in banking sector counters as indices rise
-
-*2024-06-06 00:03:00* · [`islandlk`](http://island.lk/share-price-appreciations-in-banking-sector-counters-as-indices-rise/) · `en`
-
-Price appreciations were noted yesterday in selected stocks, especially banking sector counters. Both indices moved upwards. The All Share Price Index went up by 85.45 points while S and P SL20 rose by 37.13 points. Turnover stood at Rs 1.2 billion with two crossings.
-
-Those crossings were reported in JKH, which crossed 811,000 shares to the tune of Rs 164 million and its shares traded at Rs 202.50 and NDB 261,000 shares crossed for Rs 20.3 million; its shares traded at Rs 38.
-
-...
-
-[Data](articles/1ab5acc4.json)
-
-[Extended Data](ext_articles/1ab5acc4.ext.json)
-
----
-
-### An assessment of China growing ties with the Arab world
-
-*2024-06-06 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/An-assessment-of-China-growing-ties-with-the-Arab-world/172-284189) · `en`
-
-Against the backdrop of the 10th Ministerial Conference of the China-Arab States Cooperation Forum in Beijing on May 30, significant meetings took place between Chinese President and a number of top Arab leaders
-
-China’s real aim was to further strengthen its economic ties with the Arab world, which are already strong
-
-Another advantage that the Chinese have in the Arab world is that they do not point to human rights violations in the Arab countries; and the Arab countries in turn remain silent about the persecution of Muslims in Xinjiang
-
-China’s strengths in the Arab world are its economic heft, willingness to take up expensive infrastructure projects, non-interference in internal affairs, and the declining political credibility of the US in the Middle East. But the impediments in China’s way are the West’s technological superiority, the unassailable position of the dollar, and transparency characteristic of Western systems.
-
-...
-
-[Data](articles/679b1443.json)
-
-[Extended Data](ext_articles/679b1443.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-07 02:04:34**
+As of **2024-06-07 02:18:55**
 
 ## Newspaper Stats
 
-*Scraped **28,946** Articles*
+*Scraped **28,947** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 1,715
 adalk | 2,474
 adaderanalk | 3,281
 tamilmirrorlk | 3,400
-virakesarilk | 4,443
+virakesarilk | 4,444
 dailymirrorlk | 4,603
 adaderanasinhalalk | 4,641
 
@@ -26,11 +26,35 @@ adaderanasinhalalk | 4,641
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,941 (100.0%) of 28,946 articles have been extended.
+28,946 (100.0%) of 28,947 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-07 (Friday)
+
+### சமநிலையில் முடிவடைந்த ஆட்டத்தில் பாகிஸ்தானை சுப்பர் ஓவரில் வெற்றிகொண்டது ஐக்கிய அமெரிக்கா
+
+*2024-06-07 02:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/185488) · `ta`
+
+டெக்சாஸ், டலாஸ் க்ராண்ட் ப்ரெய்ரீ விளையாட்டரங்கில் சற்று நேரத்திற்கு முன்னர் நிறைவடைந்த ஏ குழுவுக்கான ரி20 உலகக் கிண்ணப் போட்டியில் சுப்பர் ஓவரில் பாகிஸ்தானை வீழ்த்திய ஐக்கிய அமெரிக்கா மேலும் 2 புள்ளிகளை சம்பாதித்துக்கொண்டது.
+
+ஏற்கனவே கனடாவை வெற்றிகொண்டிருந்த ஐக்கிய அமெரிக்கா 2 வெற்றிகளுடன் 4 புள்ளிகளைப் பெற்று ஏ குழுவில் முதலிடத்தை வகிக்கிறது.
+
+பாகிஸ்தானினால் நிர்ணயிக்கப்பட்ட 159 ஓட்டங்களை நோக்கி பதிலுக்கு துடுப்பெடுத்தாடிய ஐக்கிய அமெரிக்காவும் 159 ஓட்டங்களைப் பெற ஆட்டம் சமநிலையில் முடிவடைந்தது.
+
+இதனை அடுத்து வெற்றி அணியைத் தீர்மானிக்க வழங்கப்பட்ட சுப்பர் ஓவரில் ஐக்கிய அமெரிக்கா 5 ஓட்டங்களால் வெற்றிபெற்றது.
+
+மொஹமத் ஆமிர் வீசிய சுப்பர் ஓவரில் ஐக்கிய அமெரிக்கா ஒரு விக்கெட்டை இழந்து 18 ஓட்டங்களைப் பெற்றது. இதில் 3 வைட்களில் 7 ஓட்டங்கள் கிடைத்தது.
+
+பதிலுக்கு நேத்ரவால்கர் வீசிய சுப்பர் ஓவரில் பாகிஸ்தான் ஒரு விக்கெட்டை இழந்து 13 ஓட்டங்களைப் பெற்று தோல்வி அடைந்தது.
+
+அப் போட்டியில் முதலில் துடுப்பெடுத்தாடிய முன்னாள் ரி20 உலக சம்பியன் பாகிஸ்தான் 20 ஓவர்களில் 7 விக்கெட்களை இழந்து 159 ஓட்டங்களைப் பெற்றது.
+
+...
+
+[Data](articles/d351c337.json)
+
+---
 
 ### Shane and Shehan appointed to driving seat at Triad
 
@@ -46,53 +70,75 @@ Giving younger people opportunities to lead and shine is a noted hallmark of Tri
 
 [Data](articles/4f634e85.json)
 
+[Extended Data](ext_articles/4f634e85.ext.json)
+
 ---
 
-### டெங்கு நோயைக் கட்டுப்படுத்த பொதுமக்களின் ஆதரவு அவசியம் - வைத்தியர் சுதத் சமரவீர
+### Public support is essential to control dengue- doctor Sudath Samaraweera
 
 *2024-06-07 01:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/185487) · `ta`
 
-டெங்கு நோய் சுகாதாரப் பிரச்சினை மட்டுமன்றி, அது ஒரு பொருளாதார, சமூகப் பிரச்சினையாக உள்ளதாகவும், பொதுமக்களின் பூரண ஆதரவின்றி சுகாதார அமைச்சினால் மட்டும் டெங்கு பரவுவதைக் கட்டுப்படுத்த முடியாது எனவும் தேசிய டெங்கு கட்டுப்பாட்டுப் பிரிவின் பணிப்பாளர் வைத்தியர் சுதத் சமரவீர தெரிவித்தார்.
+Dr. Sudath Samaraweera emphasizes the importance of public support in controlling dengue, highlighting its impact beyond health to economics and society. With over 25,000 cases reported in five months, he stresses the need for collective action, especially amid favorable conditions for mosquito breeding due to floods. Prevention efforts must involve all sectors, including government departments and the private sector, to effectively combat the disease.
 
-இந்த வருடத்தின் கடந்த ஐந்து மாதங்களில் 25,000 க்கும் அதிகமான டெங்கு நோயாளர்கள் பதிவாகியுள்ளதோடு  ஒன்பது  பேர் டெங்கு நோயினால்  உயிரிழந்துள்ளதாகவும் அவர் மேலும் தெரிவித்தார்.
+🟩
 
-ஜனாதிபதி ஊடக மையத்தில் இன்று (06) இடம்பெற்ற விசேட செய்தியாளர் மாநாட்டில் கலந்து கொண்ட விசேட வைத்தியர் கலாநிதி சுதத் சமரவீர இதனைக் குறிப்பிட்டார்.
+The Director of the National Dengue Control Division, Dr. Sudath Samaraweera, said that the dengue is not only a health problem, but it is an economic and social issue and that the health ministry cannot control the spread of dengue alone without the full support of the public.
 
-தற்போது ஏற்பட்டுள்ள வெள்ளப்பெருக்கு நிலைமையுடன் டெங்கு, தொற்றுநோய் மட்டத்திற்கு அதிகரிக்கக் கூடும் என்பதால் நோய்ப் பரவலை கட்டுப்படுத்த நடவடிக்கை எடுப்பது மிக முக்கியமானது எனவும் அவர் சுட்டிக்காட்டினார்.
+He added that over 25,000 dengue patients have been reported in the last five months of this year and nine people have died of dengue.
+
+Special Dr. Sudath Samaraweera, speaking at a special press conference held at the Presidential Media Center today (06).
+
+He pointed out that it is important to take steps to curb the spread of the disease as dengue can increase to the level of dengue and infection with the current flooding conditions.
 
 ...
 
 [Data](articles/b93eb8c5.json)
 
+[Extended Data](ext_articles/b93eb8c5.ext.json)
+
 ---
 
-### இலங்கை மக்களின் இனப்பிரச்சினையைத் தீர்த்து தமிழர்கள் சுயகொளரவத்துடன் வாழ பாரத பிரதமர் வழிசெய்ய வேண்டும் - கலாநிதி ஆறு திருமுருகன்
+### The Prime Minister of India should resolve the ethnic problem of the Sri Lankan people and live with the self -esteem - Dr. River Thirumurugan
 
 *2024-06-07 01:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/185486) · `ta`
 
-இந்தியாவின் அயல்நாடான  இலங்கையில் தமிழ்பேசும் மக்களின் நீண்டகால பிரச்சினையாக இருக்கும் இனப்பிரச்சினையை தீர்த்துவைத்து சுயகொளரவத்துடன் வாழ பாரத பிரதமர் வழிசெய்யவேண்டும் என அகில இலங்கை இந்து மாமன்ற உப தலைவர் கலாநிதி ஆறுதிரு முருகன் பாரத பிரதமருக்கான  வாழ்த்துரையில் தெரிவித்தார்.
+Dr. River Thirumurugan urges India's PM to address Sri Lanka's Tamil ethnic issue, emphasizing the need for a permanent solution to alleviate Tamil suffering. The All Ceylon Hindu VP, Dr. Saridiru Murugan, commends India's PM for their efforts, highlighting the importance of resolving this longstanding issue.
 
-பாரத தேசத்தின் பிரதமராக மூன்றாவது தடவையாக  மக்களால் தெரிவுசெய்யப்பட்டுள்ள  இச் சந்தர்ப்பத்தில் தங்களை வாழ்த்துவதில் ஆனந்தம் அடைகின்றேன். தாங்கள் ஆற்றுகின்ற உன்னதமான சேவைக்கு மக்கள் தந்த பரிசாகக் கருதுங்கள் இதேவேளை இந்தியாவின் அயல் நாடாகிய இலங்கையில் தமிழ் பேசும் மக்களின் நீண்டகால பிரச்சினையாக இருக்கின்ற இனப்பிரச்சினையே தீர்த்து வைத்து சுய கௌரவத்தோடு தமிழினம் வாழ தாங்கள் வழிசெய்யவேண்டும்.
+🟩
 
-பல லட்சம் மக்களின் உயிரை இழந்த நிலையில் செல்லெண்ணா துயருடன் வாழும் தமிழர்களின் அவலத்தை நிரந்தரமாகப் போக்குவதற்கு தாங்கள் வழி செய்யவேண்டும்.
+All Ceylon Hindu Vice President Dr. Saridiru Murugan congratulated the Prime Minister of India that the Prime Minister of India should resolve the ethnic problem that is a long -standing problem of the Tamil people in Sri Lanka in India.
 
-...
+For the third time, I am happy to congratulate themselves on this occasion. Consider the gift of the people to serve the classic service they are doing.
+
+They have to make the way to permanently overcome the plight of Tamils ​​living in a state of distress as they have lost their lives.
+
+You are responsible for bringing the Bharat nation to the world stage.
+
+◼️
 
 [Data](articles/81dedc54.json)
 
+[Extended Data](ext_articles/81dedc54.ext.json)
+
 ---
 
-### தேசிய ஜனநாயக கூட்டணியின் தலைவராக நரேந்திர மோடி மீண்டும் தேர்வு
+### Narendra Modi re -elected as the leader of the National Democratic Alliance
 
 *2024-06-07 01:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/185485) · `ta`
 
-மக்களவைத் தேர்தல் முடிவுகள் வெளியான பிறகு தேசிய ஜனநாயக கூட்டணி கட்சியின் ஆலோசனைக் கூட்டம் புதுதில்லியில் நடைபெற்றது. இந்தக் கூட்டத்தில் தேசிய ஜனநாயக கூட்டணியில் அங்கம் வகிக்கும் அரசியல் கட்சிகளின் தலைவர்களான பிரதமர் நரேந்திர மோடி, ஜே.பி. நட்டா, அமித்ஷா, ராஜ்நாத் சிங், தெலுங்கு தேச கட்சியின் தலைவரான சந்திரபாபு நாயுடு, ஐக்கிய ஜனதாதள கட்சியின் தலைவரான நிதிஷ்குமார், ஜன சேனா கட்சியின்  தலைவரான பவன் கல்யாண், மதசார்பற்ற ஜனதா தள கட்சியின் தலைவரான குமாரசாமி, சிவசேனா (ஷிண்டே பிரிவு) தலைவரான ஏக்நாத் ஷிண்டே, லோக் ஜனசக்தி கட்சியின் தலைவரான சிராக் பஸ்வான் உள்ளிட்ட பலர் பங்கு பற்றினர்.
+Narendra Modi was re-elected as the leader of the National Democratic Alliance during a meeting in New Delhi post-Lok Sabha elections. Leaders from various parties reaffirmed their commitment to national progress and regional aspirations, emphasizing service to India's vast population.
 
-இது தொடர்பாக பிரதமர் நரேந்திர மோடி தன்னுடைய எக்ஸ் தளத்தில், '' தேசிய ஜனநாயக கூட்டணியில் கட்சித் தலைவர்களை சந்தித்தோம். தேசிய அளவிலான முன்னேற்றத்தையும், பிராந்திய அபிலாசைகளை நிறைவேற்றுவதற்கும் இந்த கூட்டணி பாடுபடும். இந்தியாவில் உள்ள 140 கோடி மக்களுக்கும் தொடர்ந்து சேவை செய்வோம் மற்றும் விரிந்த பாரதத்தை உருவாக்க பாடுபடுவோம்'' என்றும் பதிவிட்டிருக்கிறார்.
+🟩
+
+The National Democratic Alliance Party's advisory meeting was held in New Delhi after the release of the Lok Sabha elections. At this meeting, Prime Minister Narendra Modi, the leaders of political parties that are part of the National Democratic Alliance. Chandrababu Naidu, leader of Natta, Amit Shah, Rajnath Singh, Telugu Desam Party leader Nitish Kumar, Jana Sena leader Pawan Kalyan, Kumaraswamy, leader of the secular Janata Dal Party, Shiv Sena (Shinde) leader, Sirak Paswan, leader of the Lok Janakti PartyMany participated.
+
+Prime Minister Narendra Modi said on his X -X -X -lane party, “We met party leaders in the National Democratic Alliance.. The coalition will strive for national progress and regional aspirations. We will continue to serve 140 crore people in India and strive to create an expansive Bharat. ”
 
 ...
 
 [Data](articles/f8d4e4e1.json)
+
+[Extended Data](ext_articles/f8d4e4e1.ext.json)
 
 ---
 
@@ -152,21 +198,29 @@ There was little or no attempt by most Israeli-friendly nations to make use of t
 
 ---
 
-### ’மஹிந்த எதிர்க்கிறார் மொட்டு ஆதரிக்கிறது’
+### Model Mahinda opposes bud
 
 *2024-06-07 00:32:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மஹிந்த-எதிர்க்கிறார்-மொட்டு-ஆதரிக்கிறது/175-338573) · `ta`
 
-ராஜபக்‌ஷ தெரிவித்திருக்கையில், இலங்கை மின்சார சபை மறுசீரமைப்பு சட்டமூலத்திற்கு பொதுஜன பெரமுனவினர் ஆதரவளிப்பது வேடிக்கையானது என்று ஐக்கிய மக்கள் சக்தி பாராளுமன்ற உறுப்பினர் கபீர் ஹாசீம் தெரிவித்தார்.
+Kabir Haseem supports the PA in the CEB Reforms Bill, criticizing its rushed introduction and lack of consultation with unions and engineers. The bill, aimed at reorganizing the Ceylon Electricity Board, faces opposition due to its potential impact on low-income households affected by recent electricity tariff hikes. Mahinda Rajapaksa, opposing privatization, suggests support if amendments addressing concerns are accepted.
 
-பாராளுமன்றத்தில் வியாழக்கிழமை (06)  நடைபெற்ற இலங்கை மின்சார சபை மறுசீரமைப்பு சட்டமூலம் மீதான விவாதத்தில் உரையாற்றும் போதே அவர் இதனை தெரிவித்தார்.
+🟩
 
-இந்த சட்டமூலம் தொடர்பில் மின்சார சபை துறையினர் பல்வேறு குற்றச்சாட்டுகளை முன்வைக்கின்றனர். இது தொடர்பில் ஆராய தங்களுக்கு போதுமான காலம் வழங்கப்படவில்லை என்று மின்சார சபை தொழிற்சங்கங்களும், பொறியியலாளர்களும் கூறுகின்றனர். தங்களுடன் முறையாக கலந்துரையாடவில்லை என்றும் கூறுகின்றனர்.
+United People's Power Parliamentarian Kabir Haseem said that it was fun to support the PA in the Ceylon Electricity Board Reforms Bill.
 
-இதனை பாராளுமன்ற மேற்பார்வை குழுவுக்கும் இரண்டு நாட்களுக்கு முன்னரே கொண்டுவரப்பட்டுள்ளது. அத்துடன் நீதிமன்றமும் இது தொடர்பில் அறிவித்துள்ளது. இவ்வாறான நிலையையில் அவசரமாக இந்த சட்டமூலத்தை கொண்டு வருவது முறையற்றதே.
+He was speaking at a debate on the Ceylon Electricity Board Reorganization Bill held in Parliament on Thursday (06).
+
+The Electricity Board (CEB) has made various allegations regarding the bill. The Electricity Board Trade Unions and Engineers say they have not been given enough time to investigate this. They also say that they did not discuss with them properly.
+
+It has been brought to the Parliamentary Supervisory Committee two days ago. The court has also announced this. In this case, it is improper to bring the bill in a hurry.
+
+Meanwhile, in August 2020, the electricity tariff was increased by 66 per cent. Then increased by 88 percent in October 2023. This was followed by an increase of cost by 18 percent. So that 5 lakhs of low incomes were cut off. This is what happened.
 
 ...
 
 [Data](articles/e8195d18.json)
+
+[Extended Data](ext_articles/e8195d18.ext.json)
 
 ---
 
@@ -2179,25 +2233,5 @@ The US dollar sales price was Rs 297.5664 and the purchase price was Rs 307.0499
 [Data](articles/3e9c6500.json)
 
 [Extended Data](ext_articles/3e9c6500.ext.json)
-
----
-
-### Parliamentary Committee advocates toddy export
-
-*2024-06-06 14:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Parliamentary-Committee-advocates-toddy-export/108-284261) · `en`
-
-Parliament, June 06 (Daily Mirror)- A Parliamentary Committee has instructed the relevant officials to take immediate steps to remove the obstacles in the local production and export of toddy, kithul, palm and coconut related products.
-
-The instructions were given during a meeting of the Sectoral Oversight Committee on National Economic and Physical Plans chaired by MP Mahindananda Aluthgamage.
-
-Relevant government institutions including the Excise Department and the Customs Department were called before the Committee to discuss and resolve the issues in the local production, distribution and export of toddy, kithul, palm and coconut related products
-
-It was also agreed to remove the barriers to the wholesale distribution of toddy palm produced in the Northern Province locally and abroad. The Committee instructed the exporters to prepare a necessary system to easily and systematically export toddy, kithul, palm and coconut related products.
-
-...
-
-[Data](articles/d2ae9a43.json)
-
-[Extended Data](ext_articles/d2ae9a43.ext.json)
 
 ---

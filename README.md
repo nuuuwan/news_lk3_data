@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-07 03:18:48**
+As of **2024-06-07 03:34:10**
 
 ## Newspaper Stats
 
-*Scraped **28,951** Articles*
+*Scraped **28,968** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,11 +14,11 @@ bbccomsinhala | 281
 newsfirstlk | 363
 islandlk | 1,554
 economynextcom | 1,655
-dailyftlk | 1,715
+dailyftlk | 1,730
 adalk | 2,474
 adaderanalk | 3,281
-tamilmirrorlk | 3,402
-virakesarilk | 4,444
+tamilmirrorlk | 3,403
+virakesarilk | 4,445
 dailymirrorlk | 4,603
 adaderanasinhalalk | 4,641
 
@@ -26,11 +26,291 @@ adaderanasinhalalk | 4,641
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,949 (100.0%) of 28,951 articles have been extended.
+28,951 (99.9%) of 28,968 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-07 (Friday)
+
+### Pramitha and Marikkar clash over Govt’s flood compensation strategy
+
+*2024-06-07 02:45:33* · [`dailyftlk`](https://www.ft.lk/news/Pramitha-and-Marikkar-clash-over-Govt-s-flood-compensation-strategy/56-762764) · `en`
+
+State Minister of Defence Premitha Bandara Tennakoon and Samagi Jana Balawegaya (SJB) MP S.M. Marikkar engaged in a contentious debate yesterday concerning the provision of compensation to those affected by recent floods.
+
+During a parliamentary session, MP S.M. Marikkar urged the Government to deploy Grama Seva Officers and Disaster Management Centre officials to conduct damage assessments instead of utilising university students for this purpose.
+
+...
+
+[Data](articles/e8377046.json)
+
+---
+
+### Govt. to provide Rs. 10,000 per family to clean flood-affected homes
+
+*2024-06-07 02:42:35* · [`dailyftlk`](https://www.ft.lk/news/Govt-to-provide-Rs-10-000-per-family-to-clean-flood-affected-homes/56-762763) · `en`
+
+The Government has decided to provide Rs. 10,000 each for the families affected by floods in order to clean up their houses, State Minister of Defence Premitha Bandara Tennakoon said.
+
+The Government has primarily allocated an amount of around Rs. 150 million for this purpose, and the relevant funds will be provided to the district secretaries, the State Minister expressed.
+
+Furthermore, he requested the officials to responsibly distribute the relevant funds among the affected families, and to instruct the people to utilise this money only for the purpose of cleaning up their houses.
+
+The State Minister stated that 284,505 individuals from 77,313 families across 23 districts in the island have been affected by the prevailing adverse weather conditions, and that 12,638 individuals of 3,147 families, who are displaced, have been placed in 204 relief centres.
+
+...
+
+[Data](articles/4ab47271.json)
+
+---
+
+### Sajith no-show at ITN hosted debate with AKD
+
+*2024-06-07 02:39:11* · [`dailyftlk`](https://www.ft.lk/news/Sajith-no-show-at-ITN-hosted-debate-with-AKD/56-762762) · `en`
+
+Samagi Jana Balawegaya (SJB) leader Sajith Premadasa did not attend the scheduled televised debate with National People’s Power (NPP) leader Anura Kumara Dissanayake on the Independent Television Network (ITN) last night.
+
+While Premadasa was absent, Dissanayake participated in the Thulawa political program, which was hosted by veteran broadcaster Sudarman Radaliyagoda.
+
+Earlier in the day SJB MP Nalin Bandara voiced the party’s dissatisfaction with the ITN regarding its organisation of the debate between the SJB and the rival NPP. MP Bandara conveyed the party’s concerns in a letter to the state broadcaster, highlighting discrepancies in the planning process.
+
+...
+
+[Data](articles/0129fa34.json)
+
+---
+
+### President inaugurates his political office
+
+*2024-06-07 02:38:33* · [`dailyftlk`](https://www.ft.lk/news/President-inaugurates-his-political-office/56-762761) · `en`
+
+President Ranil Wickremesinghe yesterday inaugurated his new political office in Colombo at an auspicious moment.
+
+The office, located on Sir Ernest de Silva Mawatha, will serve as the centre for future political operations.
+
+The ceremony included religious rites and blessings performed by prominent religious leaders, including the Chief Sanghanayake of the Western Province, Venerable Dr. Murutthettuwe Ananda Nayaka Thero, the Chancellor of the University of Colombo, Chief Sanghanayake of the Uva Province with Colombo District, Venerable Maharagama Nanda Nayaka Thero, and the head of five major temples including the Kollupitiya Valukarama Maha Viharaya.
+
+The establishment of the office was initiated by United National Party Chairman and Member of Parliament Wajira Abeywardena.
+
+...
+
+[Data](articles/e720b163.json)
+
+---
+
+### Govt. begins to provide free sanitary napkin vouchers for schoolgirls
+
+*2024-06-07 02:36:11* · [`dailyftlk`](https://www.ft.lk/news/Govt-begins-to-provide-free-sanitary-napkin-vouchers-for-schoolgirls/56-762760) · `en`
+
+Aims to create more inclusive and supportive educational environment for all students
+
+Each schoolgirl to receive Rs. 1,200 worth of vouchers over six months, starting this month
+
+Vouchers, usable at Education Ministry-registered retailers, allow purchase of SLSI-approved sanitary napkins
+
+Education Ministry to distribute vouchers to all provincial schools, seven national schools in estate school category
+
+In a significant move to end period poverty, the Government yesterday launched providing free gift vouchers for the purchase of sanitary napkins for schoolgirls, starting this month.
+
+Education Minister Susil Premajayantha spearheaded the initiative, with Rs. 1 billion allocated for the program. The initiative was officially launched at Nawala President Girls’ College yesterday.
+
+By addressing period poverty, the Government aims to create a more inclusive and supportive educational environment for all students.
+
+...
+
+[Data](articles/c8a63615.json)
+
+---
+
+### Modi’s inauguration ‘postponed’ as cracks emerge among allies
+
+*2024-06-07 02:33:36* · [`dailyftlk`](https://www.ft.lk/news/Modi-s-inauguration-postponed-as-cracks-emerge-among-allies/56-762759) · `en`
+
+Cracks may be starting to emerge already in Narendra Modi’s attempts to form a coalition Government, with reports that the BJP’s minor allies are making big demands regarding policy changes.
+
+Modi is being forced to negotiate terms with alliance members after his BJP unexpectedly failed to win a majority in the country’s election.
+
+Indian media are quoting sources as saying Modi plans to push back his inauguration for a third term as PM until Sunday while the talks continue.
+
+The Janata Dal (United) has reportedly asked the BJP to modify its controversial Agniveer scheme – a flagship military recruitment reform passed in 2022 that created short-term, US-style “tours of duty” for new soldiers. JD(U) leader Nitish Kumar is also expected to negotiate for key portfolios in Modi’s cabinet.
+
+...
+
+[Data](articles/4c0dc7f3.json)
+
+---
+
+### President Ranil’s handling of the crisis and what’s next for Sri Lanka
+
+*2024-06-07 02:32:05* · [`dailyftlk`](https://www.ft.lk/columns/President-Ranil-s-handling-of-the-crisis-and-what-s-next-for-Sri-Lanka/4-762758) · `en`
+
+Several people on social media now comment negatively about how the current President handled the 2022 political and economic crisis. None of them can deny that we were in a dire economic and political crisis, and we desperately looked to the world for relief to meet even our basic needs. Without India’s and others help, Sri Lanka would have certainly become another Lebanon.
+
+...
+
+[Data](articles/66b50914.json)
+
+---
+
+### CFOs: Stay nimble and informed to steer your organisation forward
+
+*2024-06-07 02:27:29* · [`dailyftlk`](https://www.ft.lk/columns/CFOs-Stay-nimble-and-informed-to-steer-your-organisation-forward/4-762757) · `en`
+
+Knowledge is power, and staying informed of trends will help you make relevant decisions to steer your team and organisation forward
+
+Technology-led disruptions over the last four years have brought the future directly to us. Whether we are working in the private or public sector, we are now navigating rapid changes — sometimes daily.
+
+As finance leaders, we are managing diverse, hybrid teams that span time zones and continents, keeping a pulse on record-high inflation that affects business costs, and ensuring that our finance teams remain relevant in this complex and rapidly changing business environment.
+
+Adaption and being nimble have become second nature to us, but we cannot be complacent. During ongoing transformations, our work is not done. Staying proactive and informed are two strategies to be successful in the face of change; but, more importantly, they prepare us for leading diverse teams in a competitive global market.
+
+...
+
+[Data](articles/36250e2c.json)
+
+---
+
+### ADB loan scheme: What about the construction industry?
+
+*2024-06-07 02:23:06* · [`dailyftlk`](https://www.ft.lk/columns/ADB-loan-scheme-What-about-the-construction-industry/4-762756) · `en`
+
+If they are given this loan, they can restart work, people can regain their employment and return to their normal lives
+
+The construction industry asks the Government: Why are the Asian Development Bank’s (ADB’s) loan concessions for small and medium enterprises that have suffered setbacks due to COVID-19, economic and other crises, not given to the construction industry?
+
+The Government of Sri Lanka has recently requested international financial institutions to provide financial assistance under subsidised interest to revive the small and medium scale businesses that have suffered setbacks due to the COVID pandemic and the subsequent economic crisis. As a result, Asian Development Bank Rs. 20 billion has been agreed to be provided through commercial banks in Sri Lanka at concessional interest rates.
+
+...
+
+[Data](articles/2bf87e9b.json)
+
+---
+
+### Continuity of reforms key to SL getting back to its own feet breaking away from IMF cycle: WB Chief Economist
+
+*2024-06-07 02:19:19* · [`dailyftlk`](https://www.ft.lk/business/Continuity-of-reforms-key-to-SL-getting-back-to-its-own-feet-breaking-away-from-IMF-cycle-WB-Chief-Economist/34-762755) · `en`
+
+Tells group of foreign and local investors at CT CLSA South Asia Forum any deviations from reforms path will be detrimental to Sri Lanka in future
+
+External debt restructuring will give pocket of air or breathing space but won’t result in substantial reduction
+
+Sri Lanka needs to move from 2-4% “passenger growth” mode to 4-6% creative growth
+
+Moots reforms, right sizing of public sector and armed forces, restructuring of State Owned Enterprises, allowing greater private sector participation, improving ease of doing business thereby incentivising entrepreneurship, and plugging into India’s boom as well as being part of the global value chain, robust and active public debt management and higher FDIs
+
+Optimism on Sri Lanka and reforms path clouded by elections this year though democracy as one of Sri Lanka’s “incredible strengths”
+
+Sri Lanka lost about $ 4 b between 2020 and 2022 due to what was then referred to as ‘home grown’ solutions
+
+...
+
+[Data](articles/0fbb66cb.json)
+
+---
+
+### செய்மதி தொழில்நுட்பம் மூலம் இணைய சேவையை வழங்க "Starlink" நிறுவனத்திற்கு அங்கீகாரம் - இராஜாங்க அமைச்சர் கனக ஹேரத்
+
+*2024-06-07 02:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/185489) · `ta`
+
+இலங்கையில் செய்மதி தொழில்நுட்பத்தின் ஊடாக இணைய வசதி சேவையை வழங்க "Starlink" நிறுவனத்திற்கு இலங்கை தொலைத்தொடர்பு ஒழுங்குபடுத்தல் ஆணைக்குழு ஆரம்ப அங்கீகாரம் வழங்கியுள்ளதாக தொழில்நுட்ப இராஜாங்க அமைச்சர் கனக ஹேரத் தெரிவித்தார்.
+
+இந்த இணைய சேவை வசதிக்கான அனுமதியை வழங்குவதற்கு முன்னர்  பொதுமக்களின் கருத்துக்களைப் பெறுவதற்கு 14 நாட்கள் கால அவகாசம் வழங்கப்பட்டுள்ளதாகவும் அதன் பின்னரே தொலைத்தொடர்பு ஒழுங்குபடுத்தல் ஆணைக்குழுவினால் இந்த இணைய சேவையை இலங்கையில் நடைமுறைப்படுத்த முடியும் எனவும் இராஜாங்க அமைச்சர் குறிப்பிட்டார்.
+
+ஜனாதிபதி ஊடக மையத்தில் 07ஆம் திகதி வெள்ளிக்கிழமை நடைபெற்ற ஊடகவியலாளர் சந்திப்பில் தொழில்நுட்ப இராஜாங்க அமைச்சர் கனக ஹேரத் மேற்கண்டவாறு தெரிவித்தார்.
+
+கல்வி, ஆராய்ச்சி மற்றும் மீன்பிடித் துறைகளுக்கு வேகமான இணையச் சேவையை  இதன் ஊடாக வழங்க முடியும் என்றும், உலகில் எங்கிருந்தும் இந்த இணைய வசதியைப் பெறுவதற்கான வாய்ப்பு இருப்பதாகவும் இராஜாங்க அமைச்சர் குறிப்பிட்டார்.
+
+...
+
+[Data](articles/9841c451.json)
+
+---
+
+### Hemas and Hatch to launch second iteration of Slingshot Accelerator to propel Sri Lankan start-ups
+
+*2024-06-07 02:12:44* · [`dailyftlk`](https://www.ft.lk/business/Hemas-and-Hatch-to-launch-second-iteration-of-Slingshot-Accelerator-to-propel-Sri-Lankan-start-ups/34-762754) · `en`
+
+Hatch Works CEO Mevan Peiris, Moderator: Hatch Works Senior Program Manager Ruvanara Tillekeratne, and Hemas Holdings Chief Strategy and Growth Officer Rizny Faisal – Pic by Upul Abayasekara
+
+Hemas, in collaboration with Hatch, this week announced the second iteration of the Hemas x Hatch Slingshot program.
+
+Following on from the success of this Accelerator Program in 2023 where Hemas supported 25 startups and accelerated 8 startups through an intense, high-quality program delivered by Hatch, Slingshot 2.0, aims to support a further 25 startups in the sectors of EdTech, FMCG, Healthcare, and Logistics, fostering innovation and contributing to the growth of the Sri Lankan economy.
+
+...
+
+[Data](articles/8352dee0.json)
+
+---
+
+### Nawaloka Hospitals Group ups after-tax profit by 114% to Rs. 347.8 m in FY24
+
+*2024-06-07 02:10:53* · [`dailyftlk`](https://www.ft.lk/business/Nawaloka-Hospitals-Group-ups-after-tax-profit-by-114-to-Rs-347-8-m-in-FY24/34-762753) · `en`
+
+Nawaloka Hospitals Group, yesterday announced it has posted a profit after tax of Rs. 347.8 million for the FY24 reflecting a 114.26% increase from the previous year.
+
+The Company said the result reaffirms its resilience and commitment to operational excellence.
+
+“The positive swing in profitability is a testament to the company’s steadfast dedication to enhancing efficiency and patient care,” the company added.
+
+Revenue for the year increased to Rs. 10,648 million, representing a 14.43% year-over-year growth, demonstrating the strength and adaptability of Nawaloka Hospitals’ business model despite the challenging economic environment.
+
+Nawaloka Hospitals PLC Chairman Dr. Jayantha Dharmadasa said: “This significant profit growth reflects the unwavering commitment and hard work of our entire team, who have prioritised operational excellence and strategic initiatives focused on efficiency and exceptional patient care.”
+
+...
+
+[Data](articles/56b35774.json)
+
+---
+
+### Spa Ceylon clinches double win at Pure Beauty Global Awards 2024, dominating Global Beauty Awards season
+
+*2024-06-07 02:09:12* · [`dailyftlk`](https://www.ft.lk/business/Spa-Ceylon-clinches-double-win-at-Pure-Beauty-Global-Awards-2024-dominating-Global-Beauty-Awards-season/34-762752) · `en`
+
+Spa Ceylon, the world’s largest Luxury Ayurveda chain, added another accolade to its trailblazer legacy by clinching a double-win at the prestigious Pure Beauty Global Awards 2024, held recently in London, following a winning streak of 17 international awards in the global beauty circuit.
+
+The Pure Beauty Global Awards celebrates the world’s best in beauty from the past year. More than 400 entries from 40 countries competed in the awards this year, where the Pure Beauty team and an expert panel of judges chose the brightest products of 2024.
+
+Spa Ceylon was amongst the handful of multiple-award winners of the night, sweeping the board in the Natural & Organic category, by winning the Best Natural & Organic Icon, for the Sleep Intense Dream Balm, and the Best Natural Beauty Product for the True Turmeric Vitamin C Glow Renewing Treatment Serum. In addition, the brand was a finalist in the Best Wellness Icon category for the De-stress Harmonising Balm.
+
+...
+
+[Data](articles/21848774.json)
+
+---
+
+### OSL Global and Middle East Liaoning Province General Chamber of Commerce sign MOU
+
+*2024-06-07 02:06:19* · [`dailyftlk`](https://www.ft.lk/business/OSL-Global-and-Middle-East-Liaoning-Province-General-Chamber-of-Commerce-sign-MOU/34-762751) · `en`
+
+Middle East Liaoning Province General Chamber of Commerce Chairman/President Jinsong Wang (left) exchange the MOU with OSL Global Director Aravinda Weerasekara and Director Prasanna Vithanage looks on
+
+OSL Global Ltd., has signed a significant Memorandum of Understanding (MOU) with the Middle East Liaoning Province General Chamber of Commerce.
+
+This strategic agreement aims to enhance cooperation and explore mutual business opportunities between the two entities. The signing ceremony took place in Colombo and marked a pivotal step in strengthening international business relations.
+
+...
+
+[Data](articles/16e08dd3.json)
+
+---
+
+### Revamped www.singhagiri.lk online store goes live with discounts
+
+*2024-06-07 02:04:51* · [`dailyftlk`](https://www.ft.lk/business/Revamped-www-singhagiri-lk-online-store-goes-live-with-discounts/34-762750) · `en`
+
+Singhagiri CEO Lasantha Alwis relaunching its online shopping website yesterday at Singhagiri Showroom T.B. Jayah Mawatha Colombo
+
+Singhagiri Ltd., the country’s premier consumer electronics specialist, has re-launched its online shopping site to provide an optimal user experience for its valuable customers through www.singhagiri.lk.
+
+The re-launch at Singhagiri Showroom, T.B Jayah Mawatha, Colombo 10 was attended by Directors Nasser Majeed, Chathurika De Silva and Anusha Marasinghe as well as CEO Lasantha Alwis.
+
+Singhagiri always strives to build lifelong relationships with its customers by providing an unmatched user experience and the best after-sales services. With over 10 years of experience in the consumer electronics industry and e-commerce, Singhagiri is at the forefront of offering its consumers a wide range of top-quality international brands alongside SGL local brands through retail, plaza showrooms, and island-wide dealers.
+
+...
+
+[Data](articles/42d5fc38.json)
+
+---
 
 ### Pakistan won the Super Over the United States of America
 
@@ -187,6 +467,22 @@ There was a recent meme (an image, video or piece of text) on Facebook which por
 [Data](articles/a9ef6fd4.json)
 
 [Extended Data](ext_articles/a9ef6fd4.ext.json)
+
+---
+
+### ’புலிகளைப் போலவே யானைகள் வருகின்றன’
+
+*2024-06-07 00:43:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புலிகளைப்-போலவே-யானைகள்-வருகின்றன/175-338576) · `ta`
+
+காட்டு யானைகள் விடுதலைப் புலிகள் போன்று நடந்து கொள்வதனால்  இரவில் நிம்மதியாக உறங்க முடியவில்லை,வெளியில் சுதந்திரமாக நடமாட முடியவில்லை  என  முன்னாள் வனஜீவராசிகள் பாதுகாப்பு அமைச்சரும் அரச தரப்பு எம்.பி.யுமான விமலவீர திஸாநாயக்க தெரிவித்தார்.
+
+பாராளுமன்றத்தில் வியாழக்கிழமை  (06) இடம்பெற்ற வாய்மூல விடைக்கான வினாநேரத்தில் எழுப்பப்பட்ட கேள்வியொன்றுக்கு    வனஜீவராசிகள் அமைச்சர் பவித்ரா வன்னியராட்சி பதிலளித்துக் கொண்டிருக்கும் போது குறுக்கிட்டே  இவ்வாறு தெரிவித்த
+
+நாட்டின் அனைத்து பகுதிகளிலும் காட்டு யானைகளினால்  பிரச்சினைகள் ஏற்பட்டுள்ளன.காட்டு யானைகளினால்  வருடாந்தம் கோடிக்கணக்கான ரூபாய் பெறுமதியான சொத்துக்கள் சேதமாக்கப்படுகின்றன. மனித உயிர்கள் பல இழக்கப்படுகின்றன யானை பிரச்சினைகளுக்கு தீர்வு காண்பதற்கு நடவடிக்கை எடுக்கும் போது டொலர்களில் நிவாரணம் பெறும் தரப்பினர்  நீதிமன்றத்தை நாடி  முன்னெடுக்கவிருக்கும் செயற்பாடுகளுக்கு தடையுத்தரவை பெற்றுக் கொள்கிறார்கள்.
+
+...
+
+[Data](articles/5476a7ae.json)
 
 ---
 
@@ -696,6 +992,8 @@ Part – I examined Sections 3 and 4 of the Economic Transformation Bill (ETB), 
 
 [Data](articles/38c596bb.json)
 
+[Extended Data](ext_articles/38c596bb.ext.json)
+
 ---
 
 ### Strict Laws Against Those Distorting Buddha’s Teachings: A Point Of View
@@ -709,6 +1007,8 @@ As a Hindu, having an interest in religion and spirituality, I wish to express m
 ...
 
 [Data](articles/2cca318d.json)
+
+[Extended Data](ext_articles/2cca318d.ext.json)
 
 ---
 
@@ -1869,375 +2169,5 @@ The Sabaragamuwa Provincial Council is notified to hold schools in all other zon
 [Data](articles/15f21d1b.json)
 
 [Extended Data](ext_articles/15f21d1b.ext.json)
-
----
-
-### Sri Lanka stocks close up, bank shares fare well
-
-*2024-06-06 16:20:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-bank-shares-fare-well-166628/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up on Thursday, data on its site showed.
-
-The broader All Share Index closed up 0.99 percent, or 120.93 points, at 12,310; while the more liquid S&P SL20 Index closed up 1.60 percent, or 57.58 points, at 3,650.
-
-Turnover was 1.5 billion. A large part of this came from the bank (Rs662mn) stocks.
-
-Pan Asia Banking Corporation Plc saw the most active volumes (Rs104mn) traded in the day. The share closed down at 23.30.
-
-Bank stocks were some of the largest contributors to the index and closed up; Sampath Bank Plc was up at 80.00, Commercial Bank of Ceylon Plc was up at 108.00, and Hatton National Bank Plc was up at 204.25.
-
-Amana Bank Plc, which has announced a share consolidation, was the outlier in that it closed down at 2.30.
-
-Other top contributors to the index included Ceylon Beverage Holdings Plc, which closed flat at 1,989.75), and LOLC Holdings Plc which closed up at 475.00.
-
-...
-
-[Data](articles/99ebf931.json)
-
-[Extended Data](ext_articles/99ebf931.ext.json)
-
----
-
-### Electricity Bill brought in to sell off power sector to Adani group: Vijitha
-
-*2024-06-06 16:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Electricity-Bill-brought-in-to-sell-off-power-sector-to-Adani-group-Vijitha/108-284272) · `en`
-
-Parliament, June 06 (Daily Mirror)- The government is trying to sell off the country's power sector to India's Adani group by creating a private sector monopoly over the electricity sector through the Sri Lanka Electricity Bill, National People’s Power (NPP) MP Vijitha Herath said today.
-
-Speaking during the debate on the Electricity Bill, he said Clauses 20.6 and 30.4 of the Bill clearly show that the motive behind the Bill is to create a private sector monopoly over the electricity sector.
-
-He said while criticizing the state monopoly in the power sector, the government is now trying to create a private sector monopoly.
-
-The MP said the government is planning to approve Adani's proposals as unsolicited proposals through the Cabinet and obtain the legal framework for the proposals by enacting the Electricity Bill.
-
-He said it is a serious matter to hand over the power sector monopoly to the private sector, claiming that it poses a threat to country's national security and sovereignty.
-
-...
-
-[Data](articles/489cc5dd.json)
-
-[Extended Data](ext_articles/489cc5dd.ext.json)
-
----
-
-### Maldives and Sri Lanka to ink new deals to enhance economic cooperation
-
-*2024-06-06 16:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/99708/maldives-and-sri-lanka-to-ink-new-deals-to-enhance-economic-cooperation) · `en`
-
-Minister of Foreign Affairs of the Maldives, Moosa Zameer has called on Sri Lankan Prime Minister Dinesh Gunawardena at Temple Trees in Colombo today (June 6).
-
-During the meeting, they exchanged views on strengthening existing areas of cooperation, and exploring new avenues, particularly on trade, investment, education and culture, the Prime Minister’s Media Division said.
-
-Minister Zameer expressed that his country is very keen to expand relations with Sri Lanka and the proposed bilateral treaties and Memorandums of Understanding (MoUs) would help to further strengthen economic cooperation between Maldives and Sri Lanka.
-
-It is proposed to sign an Investment Protection Treaty, Double Tax Avoidance Agreement and to facilitate remittances by Sri Lankans employed in the Maldives who receive payment in Maldivian currency and to facilitate Maldivian students and medical tourists to make payments in Sri Lanka, it added.
-
-...
-
-[Data](articles/70dbae4f.json)
-
-[Extended Data](ext_articles/70dbae4f.ext.json)
-
----
-
-### Educators must unite to the educational development of the North, East and Upcountry Students;The results of the GCE Advanced Level Examination are relieved - Dr. Six Thirumurugan
-
-*2024-06-06 16:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/185451) · `ta`
-
-Dr. Six Thirumurugan commends the educational progress of North, East, and Upcountry students, highlighting the commendable results of the GCE Advanced Level Examination. He urges educators to unite for improved education, emphasizing the importance of discipline, timely preparation, and collaboration among scholars.
-
-🟩
-
-Educational development academics of the North, East and Upcountry Students. The results of the GCE Advanced Level Examination of the North are relieved, said Dr. Durga Amman Devasthanam leader Dr. A six Thirumurugan.
-
-He made this statement when he was asked about the results of the Education General Level Examination and the conditions of education.
-
-Increasing education outcomes in the North is commendable.. Congratulations to the school principal teachers who made these efforts.
-
-Despite various allegations regarding the education of the North, it is commendable that the school principal, teachers, and interested in interest are commendable.
-
-...
-
-[Data](articles/2c428ec0.json)
-
-[Extended Data](ext_articles/2c428ec0.ext.json)
-
----
-
-### ICC stands firm on New York despite India pitch fears
-
-*2024-06-06 16:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/ICC-stands-firm-on-New-York-despite-India-pitch-fears/108-284269) · `en`
-
-(BBC) - There are no plans in place to move any T20 World Cup fixtures out of New York despite growing fears over substandard pitches.
-
-Serious concerns are mounting over the unpredictable nature of the drop-in surfaces at the Nassau County International Cricket Stadium after the first two fixtures played at the venue.
-
-On Monday, Sri Lanka were bowled out by South Africa for 77 – their lowest score in T20s - while India dismissed Ireland for 96 on Wednesday.
-
-BBC Sport understands India have privately voiced their unhappiness with the unpredictable bounce and two-paced nature of the strips amid worries over the safety of their batters.
-
-India play Pakistan on Sunday at the venue in Eisenhower Park in one of the most eagerly-anticipated fixtures of the tournament with a capacity crowd of 32,000 expected.
-
-The International Cricket Council (ICC) is believed to be analysing data from previously abandoned games to establish how to react should it need to act.
-
-...
-
-[Data](articles/3dff4a04.json)
-
-[Extended Data](ext_articles/3dff4a04.ext.json)
-
----
-
-### Vouchers from Education Ministry to buy sanitary pads for schoolgirls
-
-*2024-06-06 16:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Vouchers-from-Education-Ministry-to-buy-sanitary-pads-for-schoolgirls/108-284270) · `en`
-
-Colombo, June 6 (Daily Mirror) - The Education Ministry has launched a new initiative this month to provide free vouchers for schoolgirls to purchase sanitary pads, announced Education Minister Susil Premajayantha.
-
-The inauguration of this programme took place this morning at the President's Girls School in Nawala. During the event, the Minister revealed that Rs. 1 billion had been allocated for this project.
-
-The Ministry has introduced various student welfare programmes aimed at ensuring uninterrupted education, with the goal of fostering a well-rounded generation of children.
-
-By providing these vouchers, the Ministry aims to improve school attendance among female students and address issues related to educational neglect and health problems that arise during economic hardships.
-
-...
-
-[Data](articles/564675bb.json)
-
-[Extended Data](ext_articles/564675bb.ext.json)
-
----
-
-### Vouchers from Education Ministry to buy sanitary pads for adult schoolgirls
-
-*2024-06-06 16:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Vouchers-from-Education-Ministry-to-buy-sanitary-pads-for-adult-schoolgirls/108-284270) · `en`
-
-Colombo, June 6 (Daily Mirror) - The Education Ministry has launched a new initiative this month to provide free vouchers for adult schoolgirls to purchase sanitary pads, announced Education Minister Susil Premajayantha.
-
-The inauguration of this programme took place this morning at the President's Girls School in Nawala. During the event, the Minister revealed that Rs. 1 billion had been allocated for this project.
-
-The Ministry has introduced various student welfare programmes aimed at ensuring uninterrupted education, with the goal of fostering a well-rounded generation of children.
-
-By providing these vouchers, the Ministry aims to improve school attendance among female students and address issues related to educational neglect and health problems that arise during economic hardships.
-
-...
-
-[Data](articles/cda698b2.json)
-
-[Extended Data](ext_articles/cda698b2.ext.json)
-
----
-
-### Ven. Balangoda Kassapa Thera arrested for protesting near Parliament
-
-*2024-06-06 16:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ven-Balangoda-Kassapa-Thera-arrested-for-protesting-near-Parliament/108-284268) · `en`
-
-Colombo, June 6 (Daily Mirror) - Venerable Balangoda Kassapa Thera, who was preparing to launch a fast near Parliament with a protest sign board against the proposed Electricity Act, was arrested this afternoon by the Thalangama Police.
-
-They said the Thera was arrested by some police officers who came to the place less than ten minutes after he began the fast.
-
-◼️
-
-[Data](articles/24e47ef1.json)
-
-[Extended Data](ext_articles/24e47ef1.ext.json)
-
----
-
-### Postponing of 2023 LG polls: SC concludes hearing of petitions, verdict deferred
-
-*2024-06-06 15:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/99707/postponing-of-2023-lg-polls-sc-concludes-hearing-of-petitions-verdict-deferred) · `en`
-
-The Supreme Court, which concluded the hearing of the Fundamental Rights (FR) petitions filed against the postponement of the 2023 Local Government elections, has deferred delivering its verdict.
-
-The relevant FR petitions filed against the postponement of the 2023 Local Government elections, which was initially scheduled to be held on March 09, 2023, were taken up before a five-member Supreme Court judge bench led by Chief Justice Jayantha Jayasuriya today (06).
-
-The judge bench, which concluded the hearing of the petitions following the completion of the submission of oral submissions, deferred the delivering of the verdict, Ada Derana reporter said.
-
-...
-
-[Data](articles/2f970bf3.json)
-
-[Extended Data](ext_articles/2f970bf3.ext.json)
-
----
-
-### UN Resident Representative meets Mullaitivu District Secretary
-
-*2024-06-06 15:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/185450) · `ta`
-
-Mark André Franche, UN Resident Representative, met with Mullaitivu District officials including Secretary A. Uma Maheshwaran to discuss development needs and challenges. Present were also S. Gunapalan, Va Kripasudhan, Rajinikan, and UN Adivasi Program officials.
-
-🟩
-
-United Nations Resident Representative to Sri Lanka Mark André Franche visited the Mullaitivu District on Thursday (06).
-
-Meanwhile, he went to the Mullaitivu District Secretariat and discussed the development needs of the Mullaitivu district and the challenges faced by the District Secretary, A. Uma Maheshwaran.
-
-District Additional Government Agent S. Gunapalan, District Reply Planning Director. Va Kripasudhan Development Officer Rajinikan and officials of the United Nations Adivasi Program were also present.
-
-◼️
-
-[Data](articles/605c8a24.json)
-
-[Extended Data](ext_articles/605c8a24.ext.json)
-
----
-
-### Petition Examination completed
-
-*2024-06-06 15:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197464) · `si`
-
-The Supreme Court delayed a petition filed by various organizations, including the UN Force, National People's Society, CPA, and PAFFREL, seeking a decision on the cancellation of a local government election scheduled for March 9 last year. The petition was heard by Chief Justice Jayantha Jayasuriya and concluded with the submission of oral arguments.
-
-🟩
-
-The Supreme Court postponed that the Petition (Introduction to the Petition) by the non-local government ballot, which was not held on March 9 last year.
-
-The petition was held in the face of a five-member Supreme Court judge who is the Chief Justice Jayantha Jayasuriya.
-
-The submission of oral lectures relating to petitions today (06) was completed.
-
-These petitions were presented by the United Nations Force, National People's Society, CPA and PAFFREL.
-
-These petitions were demanding a decision that the local government banding was not held on March 9 last year.
-
-◼️
-
-[Data](articles/d04fc399.json)
-
-[Extended Data](ext_articles/d04fc399.ext.json)
-
----
-
-### Police Strae's organizational gang arrested
-
-*2024-06-06 15:48:24* · [`adalk`](https://www.ada.lk/breaking_news/පොලිස්--සැරයන්ගේ-සංවිධානාත්මක-කල්ලිය-අත්අඩංගුවට/11-410053) · `si`
-
-Two police sergeants, including one set to retire soon, were arrested for allegedly stealing rice and retail goods intended for distribution among the needy. The sergeants reportedly conspired with a businessman to sell these items instead. The scheme unraveled when the businessman complained about being robbed, leading to the arrest of the suspects.
-
-🟩
-
-Two police sergeants, who were arrested as a subsequent police officer who was launched a number of businessmen in Colombo said that the rice and retail goods received by police bodies could be given to lower.
-
-The arrested police sergeant is an official who is officially assigned to the Fort Police and a person who is due to retire in two years.
-
-Police said that the two eggs were brought to the business of the Dematagala police band in Rajagiriya, claiming that he would be able to provide a large number of eggs in Rajagiriya..
-
-The businessman prepares a lorry to carry a lorry to carry the stock of eggs and stops the lorry to bring the eggs in Dematagoda to the lorry.The money had been fled and had fled.
-
-A few days after the businessman lodged a complaint with the businessman to arrest the office, he returned to Dematagoda to provide the telephone number to Dematagoda Police.Police said the suspects were informed as
-
-...
-
-[Data](articles/71329a4c.json)
-
-[Extended Data](ext_articles/71329a4c.ext.json)
-
----
-
-### Female student sentenced to one month compulsory imprisonment over false complaint
-
-*2024-06-06 15:43:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Female-student-sentenced-to-one-month-compulsory-imprisonment-over-false-complaint/108-284266) · `en`
-
-A 22-year-old female student following a degree course at a private university was sentenced to one month compulsory imprisonment by Kuliyapitiya Magistrate Randika Lakmal Jayalath for making a false complaint that she was raped by an individual that led to legal action against the individual concerned.
-
-During the case proceedings, it transpired that the suspect taken into custody on her complaint had been in remand custody for 14 days.
-
-Police had charged her for making a false complaint and thereby misusing the authority of state officers to aggrieve an individual.
-
-Police told court that she had made a complaint to SI Dhanajani Basnayake and WPC 11963 Sugandhika of the Women and Children’s Bureau of the Kuliyapitiya Police on April 24, 2024, that she was raped by an individual. This resulted in the arrest of the suspect, who was remanded when produced before court.
-
-...
-
-[Data](articles/37af0a43.json)
-
-[Extended Data](ext_articles/37af0a43.ext.json)
-
----
-
-### Ven. Balangoda Kassapa Thero arrested during protest
-
-*2024-06-06 15:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/99706/ven-balangoda-kassapa-thero-arrested-during-protest) · `en`
-
-Ven. Balangoda Kassapa Thero has been arrested by police this afternoon (06), while engaging in a protest against the proposed ‘Sri Lanka Electricity Bill’.
-
-A group of activists including Ven. Balangoda Kassapa Thero were engaging in a protest and a ‘Satyagraha’ campaign near the Parliament complex today (06).
-
-The Second Reading debate on the Sri Lanka Electricity Bill is currently underway in the Parliament.
-
-◼️
-
-[Data](articles/758669a0.json)
-
-[Extended Data](ext_articles/758669a0.ext.json)
-
----
-
-### Nine of 14 year old children attack 9
-
-*2024-06-06 15:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197463) · `si`
-
-In Hambantota, a 9-year-old boy was attacked by a 14-year-old friend, resulting in his admission to Embilipitiya hospital due to alcohol consumption. The incident happened in Aurantakolapelessa, where the boys, who lived nearby, used knives without adult supervision. The 9-year-old was injured in several places, and the older boy has been linked to violent video games.
-
-🟩
-
-A nine-year-old boy was admitted to the Hambantota General Hospital with a 14-year-old child.
-
-After the incident, he was admitted to the Embilipitiya hospital due to drinking.
-
-The incident had occurred at a house in Aurantakolapelessa area in Hambantota yesterday evening.
-
-The two children are friends in neighboring holes have committed the knives when there was no residents at the 9-year-old boy.
-
-Our correspondent stated that the 9-year-old boy had been reported to six or seven places in the body.
-
-The 14-year-old boy has been accused of violent video games.
-
-It was also reported that the incident occurred after the 14-year-old child warning of a role in the house of the 9-year-old child.
-
-◼️
-
-[Data](articles/ed37e08b.json)
-
-[Extended Data](ext_articles/ed37e08b.ext.json)
-
----
-
-### Sri Lanka president starts political office as polls near
-
-*2024-06-06 15:23:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-starts-political-office-as-polls-near-166595/) · `en`
-
-ECONOMYNEXT – Sri Lanka President Ranil Wickremesinghe has set up a political office, his media division said, with presidential elections expected in the fourth quarter of the year,
-
-“The office, located on Sir Ernest de Silva Mawatha, will serve as the center for future political operations.”
-
-Sri Lanka’s next presidential election is due to be held between September 17 and October 17 this year.
-
-Wickremesinghe represents the United National Party which won one seat in the last general elections after a majority of its members broke away to form the Samagi Jana Balavegaya under Sajith Premadasa.
-
-Wickremesinghe, who now heads a government led by the formerly rival SLPP, has said that the presidential election will be held before a parliamentary election.
-
-But he hasn’t yet said definitively that he intends to contest the election, and has yet to officially announce his candidacy.
-
-...
-
-[Data](articles/b6d5ee77.json)
-
-[Extended Data](ext_articles/b6d5ee77.ext.json)
-
----
-
-### Repeal electricity act
-
-*2024-06-06 15:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Repeal-electricity-act/110-284265) · `en`
-
-A protest in front of the Ceylon Electricity Board (CEB) head office today demanding the authorities to repeal the Electricity Act, which is harmful to consumers. Pix by Nimalsiri Edirsinghe
-
-◼️
-
-[Data](articles/ea734ce1.json)
-
-[Extended Data](ext_articles/ea734ce1.ext.json)
 
 ---

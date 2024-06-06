@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-06 14:05:29**
+As of **2024-06-06 14:18:52**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,626
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,807 (100.0%) of 28,811 articles have been extended.
+28,811 (100.0%) of 28,811 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ Witnesses and hospital officials said the predawn strike hit the al-Sardi School
 ...
 
 [Data](articles/49e8e422.json)
+
+[Extended Data](ext_articles/49e8e422.ext.json)
 
 ---
 
@@ -65,6 +67,8 @@ Musk and Wickremesinghe had discussed ways to expand internet connectivity in ru
 ...
 
 [Data](articles/451d17f3.json)
+
+[Extended Data](ext_articles/451d17f3.ext.json)
 
 ---
 
@@ -120,6 +124,8 @@ Stressing the importance of conveying this information to the government, he hig
 
 [Data](articles/bf05454e.json)
 
+[Extended Data](ext_articles/bf05454e.ext.json)
+
 ---
 
 ### Joint Steering Committee to prevent future flooding in Gampaha District
@@ -139,6 +145,8 @@ It was decided that the appointed Joint Steering Committee will oversee the impl
 ...
 
 [Data](articles/5542ace4.json)
+
+[Extended Data](ext_articles/5542ace4.ext.json)
 
 ---
 

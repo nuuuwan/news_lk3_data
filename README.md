@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-06 08:53:17**
+As of **2024-06-06 09:04:33**
 
 ## Newspaper Stats
 
-*Scraped **28,740** Articles*
+*Scraped **28,743** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,41 @@ islandlk | 1,553
 economynextcom | 1,635
 dailyftlk | 1,711
 adalk | 2,450
-adaderanalk | 3,255
+adaderanalk | 3,256
 tamilmirrorlk | 3,378
 virakesarilk | 4,414
 dailymirrorlk | 4,559
-adaderanasinhalalk | 4,609
+adaderanasinhalalk | 4,611
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,738 (100.0%) of 28,740 articles have been extended.
+28,740 (100.0%) of 28,743 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-06 (Thursday)
+
+### Spells of showers expected in several provinces, districts
+
+*2024-06-06 08:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/99690/spells-of-showers-expected-in-several-provinces-districts) · `en`
+
+The Meteorology Department says several spells of showers will occur in Western, Sabaragamuwa, Southern and North-western provinces and in Kandy and Nuwara-Eliya districts.
+
+A few showers will occur in Northern and North-central provinces.
+
+Showers or thundershowers may occur at a few places in Eastern and Uva provinces in the evening or night, it said.
+
+Strong winds of about 40-50 kmph can be expected at times over Northern, North-central, North-western provinces and in Hambantota district.
+
+The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/a5722d08.json)
+
+---
 
 ### HIV/AIDS on the rise; 200+ cases, 13 deaths in first quarter
 
@@ -53,6 +73,46 @@ The fourth quarter in 2023 (October-December) marked the highest number of cases
 ...
 
 [Data](articles/398736d0.json)
+
+[Extended Data](ext_articles/398736d0.ext.json)
+
+---
+
+### අතුරුදන් වූ පිරිමි දරුවාගේ මෘත ශරීරය හමුවෙයි
+
+*2024-06-06 08:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197443) · `si`
+
+අතුරුදන් වූ පිරිමි දරුවාගේ මෘත ශරීරය හමුවූ බව පොලීසිය පවසයි.
+
+අඟුරුවාතොට පොලිස් වසමේ නිව්වැටල් වත්ත, නෑබඩ ලිපිනයේ පදිංචිව සිටි පාසල් සිසුවෙක් ගංවතුර හසුව ඇතැයි ඊයේ අනාවරණය වුණි.
+
+පසුව 17 හැවිරිදි එම පාසල් සිසුවාගේ මෘත ශරීරය අඟුරුවාතොට පොලිස් වනසමේ උඩුවර ග්‍රාමසේවා වසමේ කටුපොල් වගා
+
+මෘත ශරීරය හොරණ රෝහලේ තැන්පත් කර ඇති අතර, අඟුරුවාතොට පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+
+◼️
+
+[Data](articles/13353391.json)
+
+---
+
+### ගුණතිලක රාජපක්ෂ මන්ත්‍රීවරයාට පහරදීමේ සිද්ධිය ගැන ප්‍රකාශ ලබාගැනීම ඇරඹේ
+
+*2024-06-06 07:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197442) · `si`
+
+ආණ්ඩු පක්ෂ මන්ත්‍රී කණ්ඩායම් රැස්වීමෙන් අනතුරුව පාර්ලිමේන්තු මන්ත්‍රී මහින්දානන්ද අලුත්ගමගේ මහතා සහ ගුණතිලක රාජපක්ෂ මන්ත්‍රීවරුන් දෙදෙනා අතර ඇති වු ආරවුල සම්බන්ධයෙන් එම ස්ථානයේ සිටි අනෙක් පාර්ලිමේන්තු මන්ත්‍රීවරුන්ගෙන් ප්‍රකාශ සටහන් කරගැනීමට කොටුව පොලීසිය තීරණය කර තිබේ.
+
+ඒ අනුව අදාළ මන්ත්‍රීවරුන්ගෙන් ප්‍රකාශයක් ලබාගැනීමට අවශ්‍ය බව ලිඛිතව පාර්ලිමේන්තුවට දැනුම්දීමට ඊයේ (05)පස්වරුවේ කොටුව පොලිස් ස්ථානාධිපතිවරයා විසින් කටයුතු කර ඇති බව වාර්තා වේ.
+
+පසුගිය සඳුදා පස්වරුවේ ආණ්ඩු පක්ෂ මන්ත්‍රී කණ්ඩායම් රැස්වීමෙන් අනතුරුව මහින්දානන්ද අලුත්ගමගේ මන්ත්‍රීවරයා සිය පියාට පහරදීමක් සිදුකළ බවට ගුණතිලක රාජපක්ෂ මන්ත්‍රීවරයාගේ පුත්‍රයා විසින් කොටුව පොලීසියට පැමිණිල්ලක් සිදුකර තිබිණි.
+
+අදාළ පැමිණිල්ලට අනුව කොටුව පොලිස් ස්ථානයේ නිලධාරීන් විසින් ඊයේ දිනයේ යුද හමුදා රෝහලේ ප්‍රතිකාර ලබමින් සිටින  ගුණතිලක රාජපක්ෂ මන්ත්‍රීවරයාගෙන් ප්‍රකාශයක් ලබාගෙන ඇති බව වාර්තා වේ.
+
+අදාළ ප්‍රකාශයෙන් අනතුරුව එම සිදුවීම සිදුවු ස්ථානයේ සිටි අනෙක් පාර්ලිමේන්තු මන්ත්‍රීවරුන්ගෙන් ද ප්‍රකාශ ලබාගැනීමට පොලීසිය තීරණය කර තිබේ.
+
+...
+
+[Data](articles/dfbd895b.json)
 
 ---
 
@@ -1822,21 +1882,29 @@ The Provincial Education Secretary further stated that the Director of Education
 
 ---
 
-### විදුලි බල පනත පරාජය කිරීම රටට ආදරය කරන මන්ත්‍රීවරුන්ගේ වගකීමක්
+### The defeat of the Electricity Act is the responsibility of MPs who love the country
 
 *2024-06-05 18:58:28* · [`adalk`](https://www.ada.lk/breaking_news/විදුලි-බල-පනත-පරාජය-කිරීම-රටට-ආදරය-කරන-මන්ත්‍රීවරුන්ගේ-වගකීමක්/11-410035) · `si`
 
-අද (06දා) පාර්ලිමේන්තුවේදී විවාදයට ගැනිමට නියමිත විදුලිබල පනත් කෙටුම්පත පරාජයට පත් කිරීම රටට ආදරය කරන මහජන නියෝජිතයන්ගේ වගකීමක් බව ලංකා විදුලිබල මණ්ඩල ඉංජිනේරු සංගමය සඳහන් කරයි.
+MPs opposing the Electricity Act are blamed for its defeat, with claims it could lead to judicial takeover. The Ceylon Electricity Board Engineer highlights the importance of lawmakers' actions for national interests.
 
-විපක්ෂයේ මන්ත්‍රීවරුන් සේම ශ්‍රී ලංකා  පොදුජන පෙරමුණ නියෝජනය කරන සියලුම  මන්ත්‍රීවරුන් මෙම යුතුකම ඉටුකරනු ඇතැයි සිතන බවත්, සංගමයක් ලෙස මෙම පනත් කෙටුම්පතේ සඳහන් රටට අහිතකර වගන්ති වෙනස් කර ගැනීමට ගත හැකි සියලුම් ක්‍රියා මාර්ග ගත් බවත් එම සංගමයේ සභාපති ධනුෂ්ක පරාක්‍රමසිංහ මහතා සඳහන් කළේය.
+🟩
 
-මෙම පනත් කෙටුම්පතේ සඳහන් රටට අහිතකර වගන්ති වෙනස් කරන ලෙස විෂය භාර අමාත්‍යවරයාගෙන් ඉල්ලා සිටියද එයට නිසි ප්‍රතිචාර නොලැබුණ බවත්,එහි සඳහන් සමහර කරුණු ව්‍යවස්ථානුකුල නොවන බවත් හෙතෙම පවසා සිටියේය.
+The Ceylon Electricity Board Engineer (CEB) states that defeating the power to debate in parliament today (06) is the responsibility of people who love the country.
 
-ඊයේ (05දා) කොළඹ පැවැති මාධ්‍ය සාකච්ඡාවකදී මේ බව සඳහන් කළ සභාපතිවරයා වැඩිදුරටත් සඳහන් කළේ යම් ලෙසකින් මෙම පනත් කෙටුම්පත අද සම්මත කළ හොත් එම පනතට අනුව හුවමාරු සැලැස්ම සකස් කිරීමට කටයුතු කරන අවස්ථාවෙහිදී අධිකරණ ක්‍රියා මාර්ග ගැනීමට කටයුතු කරන බවය.
+The President of the Association Dhanushka Parakrasinghe said that all MPs representing the Sri Lanka Civil Front as the Opposition MPs and have taken the necessary measures to change the country as a union.
 
-...
+He said that the country was requested to change the subject to the country to change the country in the Bill, but there was no constitutional.
+
+The Chairman of the Chairman said that if the bill was passed yesterday (05), the Bill would take action to take over judicial process.
+
+He said that the Opposition MPs and the Sri Lanka Civil Front have asked all MPs to defeat the Bill, which has been presented to the Parliament.
+
+◼️
 
 [Data](articles/d43df451.json)
+
+[Extended Data](ext_articles/d43df451.ext.json)
 
 ---
 
@@ -2057,73 +2125,5 @@ The professor states that the question of the corresponding equipment that measu
 [Data](articles/14c54339.json)
 
 [Extended Data](ext_articles/14c54339.ext.json)
-
----
-
-### Law students in Sri Lanka mostly female, but President’s Counsel male: Eran
-
-*2024-06-05 18:00:00* · [`economynextcom`](https://economynext.com/most-law-students-female-but-lady-presidents-counsels-not-to-be-seen-eran-166374/) · `en`
-
-ECONOMYNEXT – About 75 percent of students at the law faculty are female but there are hardly any female Presidents Counsel, opposition legislator Eran Wickremaratne said.
-
-“Seventy five percent of students at law faculty are female but there are only two or three presidential counsel lawyers in the entire country,” Wickremaratne told parliament during the debate of the Women’s Empowerment Bill.
-
-“So what is this problem? There seems to be an attitude problem. We have to accept this. We cannot run away from this.
-
-“We did not choose to be a woman or man at birth. So we cannot be made to pay for things which are not of our choice.”
-
-The Women’s Empowerment Bill was an admirable effort by the government and the Women’s Caucus in parliament he said.
-
-The Convention on the Elimination of All Forms of Discrimination against Women was adopted by the United Nations in 1979 but it has still not been made into law in Sri Lanka he said.
-
-...
-
-[Data](articles/3242b40d.json)
-
-[Extended Data](ext_articles/3242b40d.ext.json)
-
----
-
-### Law students in Sri Lanka mostly female, but President’s Counsel male: Eran
-
-*2024-06-05 18:00:00* · [`economynextcom`](https://economynext.com/law-students-in-sri-lanka-mostly-female-but-presidents-counsel-male-eran-166374/) · `en`
-
-ECONOMYNEXT – About 75 percent of students at the law faculty are female but there are hardly any female Presidents Counsel, opposition legislator Eran Wickremaratne said.
-
-“Seventy five percent of students at law faculty are female but there are only two or three presidential counsel lawyers in the entire country,” Wickremaratne told parliament during the debate of the Women’s Empowerment Bill.
-
-“So what is this problem? There seems to be an attitude problem. We have to accept this. We cannot run away from this.
-
-“We did not choose to be a woman or man at birth. So we cannot be made to pay for things which are not of our choice.”
-
-The Women’s Empowerment Bill was an admirable effort by the government and the Women’s Caucus in parliament he said.
-
-The Convention on the Elimination of All Forms of Discrimination against Women was adopted by the United Nations in 1979 but it has still not been made into law in Sri Lanka he said.
-
-...
-
-[Data](articles/e7c20602.json)
-
-[Extended Data](ext_articles/e7c20602.ext.json)
-
----
-
-### 14 new diplomats handed over the credentials to the president
-
-*2024-06-05 17:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/185399) · `ta`
-
-Fourteen new ambassadors from countries including New Zealand, Cyprus, the Maldives, Sierra Leone, Guatemala, Algeria, Estonia, Laos, Colombia, and Turkey presented their credentials to Sri Lanka's President Ranil Wickremesinghe in Colombo.
-
-🟩
-
-Five newly appointed five newly appointed Sri Lanka and 09 Ambassadors handed over their credentials to President Ranil Wickremesinghe at the President's House in Colombo on Wednesday (05).
-
-For New Zealand, Cyprus Republic, the Maldives, the Maldives, the Republic of Sierra Leone and the Republic of Sierra Leone, the Republic of Guatemala, Algeria People's Democratic Republic, Estonia Republic, Laos People's Republic, Columbia Republic, Turkey, IronicsHas been appointed.
-
-◼️
-
-[Data](articles/68bd89e2.json)
-
-[Extended Data](ext_articles/68bd89e2.ext.json)
 
 ---

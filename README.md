@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-07 01:04:09**
+As of **2024-06-07 01:19:12**
 
 ## Newspaper Stats
 
-*Scraped **28,938** Articles*
+*Scraped **28,940** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,36 +19,74 @@ adalk | 2,474
 adaderanalk | 3,281
 tamilmirrorlk | 3,398
 virakesarilk | 4,440
-dailymirrorlk | 4,601
+dailymirrorlk | 4,603
 adaderanasinhalalk | 4,641
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,937 (100.0%) of 28,938 articles have been extended.
+28,938 (100.0%) of 28,940 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-07 (Friday)
 
-### மின்கட்டணம் குறையும் முறை
+### Why people shouldn’t fear  ‘Mr. Talent’ - EDITORIAL
+
+*2024-06-07 00:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Why-people-shouldnt-fear-Mr-Talent-EDITORIAL/172-284317) · `en`
+
+These are days when people are working hard to make ends meet; even when the spouse is employed too. With regard to those frequenting the corridors of power, they too are working immensely hard to be in power when the next government is formed.
+
+There was a recent meme (an image, video or piece of text) on Facebook which portrayed two candidates who are likely to bid for the presidency at the next big election. The one with a love for nature photography was saying ‘It would be my way only and there is no asking questions’. The other was saying the total opposite. He states in the meme, “Ask any question and I’ll give the answer again and again till you understand”. Great talent is needed to remain as a politician who wields power in the future because this is an era of discourse; not one of orders.
+
+...
+
+[Data](articles/a9ef6fd4.json)
+
+---
+
+### Slaughter of the Gaza lamb: Israeli Pharaoh’s crimes against children
+
+*2024-06-07 00:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Slaughter-of-the-Gaza-lamb-Israeli-Pharaohs-crimes-against-children/172-284316) · `en`
+
+Palestinian children carry water containers in the Jabalia refugee camp, in the northern Gaza Strip.
+
+On Tuesday, June 4, the day the world was supposed to mark the International Day of Innocent Children Victims of Aggression, the silence of the pro-Israeli world powers was deafening. In Gaza, the day had little meaning as there was no let-up in the slaughter of Palestinian children.
+
+The day is marked as a poignant reminder to all nations that they should not cause physical, mental, or emotional harm to children. The day calls on UN member states to recommit themselves to ending all forms of violence against children.
+
+There was little or no attempt by most Israeli-friendly nations to make use of the day to issue a powerful statement calling the Zionist aggressor to stop its slaughter of the lambs in Gaza. They probably feared that if they did so, they would only expose Israel as the post-World War II world’s most gruesome child killer.
+
+...
+
+[Data](articles/8089052d.json)
+
+---
+
+### Electrode system
 
 *2024-06-07 00:09:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்கட்டணம்-குறையும்-முறை/175-338571) · `ta`
 
-மின்கட்டணம் ஜூலை  மாதம் முதலாம் திகதியில் இருந்து குறைக்கப்படும் என  மின்சக்தி  மற்றும் வலுசக்தி அமைச்சர் காஞ்சன விஜேசேகர தெரிவித்துள்ளார்.
+Kanjana Wijesekera announced in Parliament that electricity prices will decrease from July 1st. The cost per unit for usage between 0-30 will drop from 8 to 6 rupees, and there will also be a reduction in the 20 rupee fixed charge. These changes were approved by the Cabinet and aim to ease financial burdens on consumers.
 
-0-30 வரையான அலகுகளை கொண்ட மின்பாவனைகளில் ஓர் அலகுக்கு அறவிடப்படும் 8 ரூபாவை 6 ரூபாவாக குறைப்பதற்கும், 30 -60 மின்பாவனையில் ஓர் அலகுக்காக அறவிடப்படும்  20 ரூபாவை  9 ரூபாவாக குறைப்பதற்கும் நடவடிக்கை எடுக்கப்படும் என்றார்.
+🟩
 
-பாராளுமன்றத்தில்  வியாழக்கிழமை (06)  மின்சார சபை மறுசீரமைப்பு சட்டமூலத்தின் மீதான விவாதத்தை ஆரம்பித்து வைத்து உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்த  அவர் மேலும்  பேசுகையில்,
+Minister of Power and Power and Power, Kanjana Wijesekera said that the electricity will be reduced from the first day of July.
 
-நான்கு மாதங்களுக்கு ஒருமுறை மின்கட்டணம் திருத்தம் தொடர்பான கொள்கை காணப்படுகிறது. இதற்கு அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளது.  இதற்கமைய மின்கட்டணம் திருத்தம் தொடர்பான யோசனையை கடந்த வாரம் நிறைவு செய்தோம்.
+He said steps would be taken to reduce the 8 rupees of 8 rupees per unit of units from 0-30 to 6 rupees and reduce the 20 rupees of Rs.
 
-அதனடிப்படையில்,  60-90 வரையான அலகுகளில் ஓர் அலகுக்குஅறவிடப்படும் 30 ரூபாவை 18 ரூபாவாக குறைப்பதற்கும், 120 மின்பாவனையில் ஓர் அலகுக்கு  அறவிடப்படும் 50 ரூபாவை 30 ரூபாவாக குறைப்பதற்கும்  திருத்தங்கள் முன்வைக்கப்படும் என்றார்.
+Speaking on Thursday (06) in Parliament, he said this while addressing the debate on the Electricity Board Reforms Bill.
+
+The policy relating to the electricity correction once every four months. This has been approved by the Cabinet.We completed the idea of ​​the electricity correction last week.
+
+Accordingly, amendments will be made to reduce the 30 rupees of Rs.
 
 ◼️
 
 [Data](articles/a2714099.json)
+
+[Extended Data](ext_articles/a2714099.ext.json)
 
 ---
 
@@ -2167,45 +2205,5 @@ Witnesses and hospital officials said the predawn strike hit the al-Sardi School
 [Data](articles/49e8e422.json)
 
 [Extended Data](ext_articles/49e8e422.ext.json)
-
----
-
-### Sri Lanka grants preliminary approval for Starlink: State Minister
-
-*2024-06-06 13:48:00* · [`economynextcom`](https://economynext.com/sri-lanka-trcsl-grants-preliminary-approval-for-starlink-state-minister-166566/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Telecommunications Regulatory Commission (TRCSL) has granted preliminary approval for Starlink to provide satellite-based internet services  in the island, following a formal public consultation process.
-
-“It’s my pleasure to announce that TRCSL has granted preliminary approval for Starlink to provide satellite-based internet services following a formal public consultation process,” State Technology Minister Kanaka Herath said on social media platform X (twitter).
-
-The details of the public consultation will be published tomorrow, Herath said.
-
-“Starting today, we are collaborating with Starlink to provide internet facilities via satellite technology, marking a significant transformation in the technology sector. Unlike the limited internet facilities provided by towers, this satellite-based technology allows for internet connectivity from virtually anywhere.”
-
-...
-
-[Data](articles/858b9b75.json)
-
-[Extended Data](ext_articles/858b9b75.ext.json)
-
----
-
-### Sri Lanka grants preliminary approval for Starlink: State Minister
-
-*2024-06-06 13:48:00* · [`economynextcom`](https://economynext.com/sri-lanka-grants-preliminary-approval-for-starlink-state-minister-166566/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Telecommunications Regulatory Commission (TRCSL) has granted preliminary approval for Starlink to provide satellite-based internet services  in the island, following a formal public consultation process.
-
-“It’s my pleasure to announce that TRCSL has granted preliminary approval for Starlink to provide satellite-based internet services following a formal public consultation process,” State Technology Minister Kanaka Herath said on social media platform X (twitter).
-
-The details of the public consultation will be published tomorrow, Herath said.
-
-“Starting today, we are collaborating with Starlink to provide internet facilities via satellite technology, marking a significant transformation in the technology sector. Unlike the limited internet facilities provided by towers, this satellite-based technology allows for internet connectivity from virtually anywhere.”
-
-...
-
-[Data](articles/fa9a9b84.json)
-
-[Extended Data](ext_articles/fa9a9b84.ext.json)
 
 ---

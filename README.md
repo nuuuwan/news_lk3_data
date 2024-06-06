@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-06 20:19:02**
+As of **2024-06-06 20:34:38**
 
 ## Newspaper Stats
 
-*Scraped **28,897** Articles*
+*Scraped **28,898** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,42 +19,48 @@ adalk | 2,472
 adaderanalk | 3,279
 tamilmirrorlk | 3,395
 virakesarilk | 4,436
-dailymirrorlk | 4,591
+dailymirrorlk | 4,592
 adaderanasinhalalk | 4,637
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,896 (100.0%) of 28,897 articles have been extended.
+28,897 (100.0%) of 28,898 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-06 (Thursday)
 
-### මීළඟ තරගය ගැන මැතිව්ස් ගෙන් ඉඟියක්
+### Mathews hint of the next match
 
 *2024-06-06 20:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197471) · `si`
 
-T20 ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ ශ්‍රී ලංකාව සහභාගී වන දෙවැනි තරගය අනිද්දා බංග්ලාදේශයට එරෙහිව අමෙරිකාවේ ඩලස්හිදී පැවැත්වීමට නියමිතය.
+Angelo Mathews criticized the pitch conditions at Dullas ahead of the T20 World Cup match between Sri Lanka and Bangladesh. He highlighted the poor state of the pitches, affecting both batting and bowling sessions during training. Despite these challenges, the Sri Lankan team remains focused on performing well in their upcoming matches.
 
-ශ්‍රී ලංකා පිල අද සිය පළමු පුහුණු සැසියට සහභාගී වූ අතර ඇන්ජලෝ මැතිව්ස් පැවසුවේ, ක්‍රීඩාංගණයේ තණතීරු ඉතා දුර්වල මට්ටමක පවතින බවය.
+🟩
 
-2008 දී බේස්බෝල් ක්‍රීඩාංගණයක් ලෙස ඉදිකර පසුව 2023 ක්‍රිකට් ක්‍රීඩාංගණයක් ලෙස සංවර්ධනය කෙරුණු ඩලස් හි ග්‍රෑන්ඩ් ප්‍රෝරි ක්‍රීඩාංගණයේ පැවැත්වෙන තුන්වන ජාත්‍යන්තර ක්‍රිකට් තරගය ශ්‍රී ලංකා - බංග්ලාදේශ තරගයයි.
+The second match of the T20 World Cup will be held in Dullas against Bangladesh against Bangladesh yesterday.
 
-එම තරගය සඳහා ශ්‍රී ලංකා කණ්ඩායම අද සිය පළමු පුහුණු සැසියට සහභාගී වූ අතර එය පැය හතරහමාරක පමණ කාලයක් පැවැත්වුණි.
+Sri Lanka participated in his first training session and Angelo Mathews said the pitches at the stadium are very poor.
 
-එහිදී ශ්‍රී ලංකා ක්‍රීඩකයින් පන්දු රැකීමේ සැසියකට මෙන්ම පිතිකරණ සැසියකයට ද එක්වුණි.
+In 2008, the third international cricket match held at the Grand Pristing Stadium, which was developed as a Baseball Stadium in 2008, was the third international cricket match at Dullas at Dullas at a 2023 cricket stadium.
 
-ශ්‍රී ලංකා කණ්ඩායම පිතිකරණ පුහුණු සැසියකට සහභාගී වූයේ දින 10කට පමණ පසුවය.
+The Sri Lankan team participated in the first training session for the match and was held for about four and a half hours.
 
-ඒ මැයි 27 වනදාට පසු පිතිකරණ සැසියක් පැවැත්වීමට ශ්‍රී ලංකා කණ්ඩායමට පහසුකම් හිමි නොවීම හේතුවෙනි.
+The Sri Lankan players joined the bowling session as well as the batricle.
 
-එවන් පසුබිමක දින 10කට පසු ලැබුණු තණතීරුද නිසි ප්‍රමිතියකින් යුක්ත නොවීම නිසා එය පිතිකරුවන්ට අනතුරුදායක වන අයුරු අපට දැකගැනීමට හැකිවුණි.
+About 10 days later attending the Sri Lankan team for a batting training session.
+
+The Sri Lankan team did not facilitate a batting session after May 27th.
+
+The pitches received after a 10-day background have not been able to see how it is dangerous to the bats.
 
 ...
 
 [Data](articles/cad12b96.json)
+
+[Extended Data](ext_articles/cad12b96.ext.json)
 
 ---
 
@@ -135,6 +141,22 @@ Due to not receiving any favorable response, the union has decided to engage wit
 [Data](articles/8e1d7079.json)
 
 [Extended Data](ext_articles/8e1d7079.ext.json)
+
+---
+
+### Train strike to begin tomorrow
+
+*2024-06-06 19:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Train-strike-to-begin-tomorrow/108-284286) · `en`
+
+Colombo, June 6 (Daily Mirror) - The Locomotive Operating Engineers Union has decided to launch a train strike at midnight tomorrow due to further delays in the second-class promotions of locomotive drivers, continuous delays in recruitment due to a lack of a salary code, and other issues.
+
+While sending a letter to the Railways General Manager (GMR), the union secretary claimed that the decision was taken after having informed the GMR several times.
+
+Due to not receiving any favorable response, the union has decided to engage with the trade union action starting at midnight tomorrow.
+
+◼️
+
+[Data](articles/d5e36146.json)
 
 ---
 
@@ -2235,29 +2257,5 @@ Addressing the media, he said Sumathipala is not the UPFA General Secretary.
 [Data](articles/11ef2a29.json)
 
 [Extended Data](ext_articles/11ef2a29.ext.json)
-
----
-
-### Sri Lanka to send 10,000 workers to South Korea: Labor Ministry
-
-*2024-06-06 11:17:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-send-10000-workers-to-south-korea-labor-ministry-166433/) · `en`
-
-ECONOMYNEXT – Sri Lanka will send 10,000 workers to South Korea in 2024, an official of the Ministry of Labor and Foreign Employment said.
-
-“We sent 6,500 to 7,000 workers last year and this year we plan to send 10,000,” the ministry’s media secretary, Sanjaya Nallaperuma told EconomyNext.
-
-“We are sending workers in production, fishing and construction industries.”
-
-South Korean workers prefer not to work in jobs that are considered ‘dirty, dangerous, or difficult’ (3Ds). These jobs, typically in the above fields, are filled by migrant workers.
-
-In order to be employed in Korea, Sri Lankan workers must take a Korean language test.
-
-Korean Foreign Minister Lee Jung-Sik assured more employment opportunities for Sri Lankans in South Korea, especially in the apparel and caregiving sector, when he visited the island late last year.
-
-...
-
-[Data](articles/7ba1e896.json)
-
-[Extended Data](ext_articles/7ba1e896.ext.json)
 
 ---

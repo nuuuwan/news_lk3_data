@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-06 18:53:31**
+As of **2024-06-06 19:04:12**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,636
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,885 (100.0%) of 28,886 articles have been extended.
+28,886 (100.0%) of 28,886 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -122,19 +122,27 @@ However, the opposition parties urged the government to hold a debate at least t
 
 ---
 
-### අවුරුදු 21 දී ප්‍රථම උපාධිය සම්පූර්ණ කිරීමට අවස්ථාව
+### The opportunity to complete the first degree in 21 years
 
 *2024-06-06 17:51:38* · [`adalk`](https://www.ada.lk/breaking_news/අවුරුදු-21-දී-ප්‍රථම-උපාධිය-සම්පූර්ණ-කිරීමට-අවස්ථාව/11-410057) · `si`
 
-අපොස සාමාන්‍ය පෙළ විභාගය අවසන් වූ වහා ම උසස් පෙළ පන්ති ආරම්භ කිරීමේ අභියෝගාත්මක කටයුත්තට ප්‍රවේශ වූයේ විභාග කල් පසු වෙමින් පැවතීම නිසා අධ්‍යයන කටයුතු අතපසු වෙමින් යාමේ ගැටලුවලට මුහුණ දෙන වින්දිතයන් බවට පත් ව ඇති පාසල් දරු දැරියන් වෙනුවෙන් බව අධ්‍යාපන අමාත්‍ය ආචාර්ය සුසිල් ප්‍රේමජයන්ත මහතා පැවසී ය.
+Susil Premajayantha, the Minister of Education, highlighted the challenges faced by students during the O/L exams, emphasizing the importance of completing their education. He discussed the impact of the pandemic on schooling and the need for innovative teaching methods, including STEM education and the integration of technology in classrooms. The minister also addressed the issue of teacher training and the adaptation of education systems to modern needs, ensuring that education remains accessible and effective for all students.
 
-අමාත්‍යවරයා මේ බව පැවසුවේ පසුගියදා අවසන් වූ සාමාන්‍ය පෙළ විභාගයට මුහුණ දුන් දරුවන් සඳහා උසස් පෙළ අධ්‍යයන කටයුතු ආරම්භ කිරීම වෙනුවෙන් කොළඹ නාලන්ද විද්‍යාලයේ අද පැවති වැඩසටහනකට ප්‍රධාන ආරාධිතයා ලෙස එක් වෙමිනි.
+🟩
 
-මෙවර පැවති අපොස සාමාන්‍ය පෙළ විභාගයට පෙනී සිටි පිරිස පෞද්ගලික අයදුම්කරුවන් ද සමග තුන්ලක්ෂ තිස්හත්දහක පමණ දරුවන් සංඛ්‍යාවක් බවත් ඉන් දෙලක්ෂ අසූදහසක පමණ පිරිසක් පාසල් සිසුන් බවත් අමාත්‍යවරයා සඳහන් කළේ ය.
+Minister of Education Susil Premajayantha said that the challenging of the students who had been adopted as the victims due to the time of the O / L examination were the time when the O / L examination was completed.
+
+The Minister made this observation as the Chief Guest at a program held today to commence Advanced Level Studies.
+
+The Minister said that the people who sat for the GCE Ordinary Level examination this year have been identified as school children.
+
+The Ministry of Education has taken steps to sit for the O / L examination as soon as the average range of results are usually taken to release their continued education opportunities.The Minister further stated that it is directly related to the exam timetable and school term notes that have missed the last covard season.. He said that the ideas of various scholars, including educators, were reviewed.
 
 ...
 
 [Data](articles/0dc8a8c4.json)
+
+[Extended Data](ext_articles/0dc8a8c4.ext.json)
 
 ---
 

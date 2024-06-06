@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-06 13:03:59**
+As of **2024-06-06 13:18:47**
 
 ## Newspaper Stats
 
-*Scraped **28,789** Articles*
+*Scraped **28,790** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 261
 dbsjeyarajcom | 274
-bbccomsinhala | 280
+bbccomsinhala | 281
 newsfirstlk | 363
 islandlk | 1,553
 economynextcom | 1,636
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,623
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,789 (100.0%) of 28,789 articles have been extended.
+28,789 (100.0%) of 28,790 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1100,6 +1100,28 @@ A memorandum of understanding is currently underway, which has made several roun
 
 ---
 
+### විදුලිබල පනත් කෙටුම්පත: ‘පළවෙනි පිටු ලස්සන වුණාට ඇතුළට යද්දී ඒක ලස්සන නැහැ’
+
+*2024-06-06 06:43:35* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cw44w4zzjz3o) · `si`
+
+විදුලිබල පනත් කෙටුම්පත: ‘පළවෙනි පිටු ලස්සන වුණාට ඇතුළට යද්දී ඒක ලස්සන නැහැ’
+
+ආන්දෝලනාත්මක විදුලි බල පනත් කෙටුම්පත අද (ජුනි 6 වැනිදා) දිනයේ පාර්ලිමේන්තුවේ විවාදයට ගෙන සම්මත කර ගැනීමට නියමිතය.
+
+ඒ, විදුලිබල පනත් කෙටුම්පතේ වගන්ති කිහිපයක් ආණ්ඩුක්‍රම ව්‍යවස්ථාවට අනුකූල නොවන බවත්, එම වගන්ති පාර්ලිමේන්තුවේ විශේෂ බහුතරයකින් සහ එක් වගන්තියක් ජනමත විචාරණයකින් ද අනුමත කළ යුතු බවට ශ්‍රේෂ්ඨාධිකරණය පාර්ලිමේන්තුවට දැනුම් දී ඇති පසුබිම තුළයි.
+
+අදාළ වගන්ති සංශෝධනය කළහොත් පාර්ලිමේන්තුවේ සරල බහුතරයකින් එය සම්මත කළ හැකි බව, පනත් කෙටුම්පත පිළිබඳ ‍‍ශ්‍රේෂ්ඨාධිකරණ මතය සභාවට ඉදිරිපත් කරමින් කතානායකවරයා (ජුනි මස 04වැනිදා) පැවසුවේය.
+
+පනත් කෙටුම්පත පිළිබඳ ඡන්ද විමසීම අද (ජුනි 6 වැනිදා) පස්වරුවේ පැවැත්වෙනු ඇත.
+
+පාර්ලිමේන්තුව හමුවට ඉදිරිපත්කර ඇති විදුලිබල පනත් කෙටුම්පතට අදාළව මේ දක්වා සිදුවුයේ කුමක්ද ?
+
+...
+
+[Data](articles/6c31dcfe.json)
+
+---
+
 ### Rain to several areas
 
 *2024-06-06 06:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197438) · `si`
@@ -2159,25 +2181,5 @@ China’s strengths in the Arab world are its economic heft, willingness to take
 [Data](articles/679b1443.json)
 
 [Extended Data](ext_articles/679b1443.ext.json)
-
----
-
-### Lifestyles of politicians and the life of an artist
-
-*2024-06-06 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Lifestyles-of-politicians-and-the-life-of-an-artist/172-284193) · `en`
-
-Sri Lankans are easily attracted to the lifestyle of successful individuals, but rarely do they wish to put in long hours to emulate those feats. Here some fishermen are seen engaging in the perplexing task of checking their nets; an activity which is a must to ensure a large catch at sea
-
-Few common factors are found when analysing careers of politicians and artistes; the present generation engaged in these two professions are all out to earn maximum money during their careers
-
-There are so many performing artistes who took to politics; some of them were in parliament till very recently, but most of them failed to make any impact in the field of politics
-
-A politician’s ‘life’ is often hectic. It has to be; because he has to serve the people who elected him to office. But we also see the ‘lifestyles’ they live and often envy them. Talk about our lawmakers having hectic lives, there are some who are the opposite, are lazy and not worth the salaries they earn.
-
-...
-
-[Data](articles/82be0299.json)
-
-[Extended Data](ext_articles/82be0299.ext.json)
 
 ---

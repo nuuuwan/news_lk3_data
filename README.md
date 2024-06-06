@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-06 23:19:08**
+As of **2024-06-06 23:35:52**
 
 ## Newspaper Stats
 
@@ -26,31 +26,37 @@ adaderanasinhalalk | 4,641
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,914 (100.0%) of 28,919 articles have been extended.
+28,919 (100.0%) of 28,919 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-06 (Thursday)
 
-### 9 வயது சிறுவனை பல முறை கத்தியால் குத்திய 14 வயது சிறுவன்
+### A 14 -year -old boy who stabbed a 9 -year -old boy several times
 
 *2024-06-06 23:06:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/9-வயது-சிறுவனை-பல-முறை-கத்தியால்-குத்திய-14-வயது-சிறுவன்/175-338570) · `ta`
 
-ஹம்பாந்தோட்டை, அங்குனகொலபெலஸ்ஸ பிரதேசத்தில் நேற்று (5) கத்திக் குத்துக்கு இலக்காகி 9 வயது சிறுவன் காயமடைந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+In Hambantota, a 14-year-old boy attacked a 9-year-old, leaving him with multiple stab wounds. The attacker, also 14, was hospitalized after poisoning himself. Investigations continue.
 
-இவர் தனது வீட்டில் தனிமையில் இருக்கும் போது அயல் வீட்டில் வசிக்கும் 14 வயது சிறுவனால் இந்த தாக்குதல் இடம்பெற்றுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+🟩
 
-இந்த சம்பவத்தையடுத்து, சந்தேக நபரான 14 வயது சிறுவன் விஷம் அருந்தியுள்ள நிலையில் எம்பிலிப்பிட்டிய வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+A 9 -year -old boy was injured yesterday (5) in Angunagolabeelesa area, Hambantota, police said.
 
-9 வயதான சிறுவனின் உடலில் சுமார் 6 முதல் 7 கத்தி குத்து காயங்கள் காணப்படுவதாக வைத்தியசாலை தகவல்கள் தெரிவிக்கின்றன.
+Police said the attack was carried out by a 14 -year -old boy living in a neighboring house while he was alone in his home.
 
-கத்தி குத்தை நடாத்திய 14 வயதான சிறுவன், வீடியோ விளையாட்டுக்களுக்கு அடிமையானவர் என தெரிய வருகிறது.
+Following the incident, a 14 -year -old boy has been admitted to the Embilipitiya Hospital after being poisoned, police said.
 
-இந்த சம்பவம் தொடர்பான மேலதிக விசாரணைகளை அங்குணுகொலபெலஸ்ஸ பொலிஸார் மேற்கொண்டு வருகின்றனர். R
+A 9 -year -old boy's body has about 6 to 7 stabbing wounds, hospital sources said.
+
+A 14 -year -old boy who was a knife stab is reported to be addicted to video games.
+
+Further investigations into the incident are being carried out by Angunukolapelsa police. Remble
 
 ◼️
 
 [Data](articles/e3d1ff39.json)
+
+[Extended Data](ext_articles/e3d1ff39.ext.json)
 
 ---
 
@@ -87,6 +93,8 @@ In another landmark judgement pertaining to the scope of the pardon granted by t
 ...
 
 [Data](articles/d812880a.json)
+
+[Extended Data](ext_articles/d812880a.ext.json)
 
 ---
 
@@ -134,17 +142,23 @@ It is further requested that the people in the areas bring the animals to the cl
 
 ---
 
-### ஜனாதிபதித் தேர்தலில் சுயேட்சை வேட்பாளராக ரணில் விக்கிரமசிங்க - ஆஷு மாரசிங்க
+### Ranil Wickremesinghe as Independent candidate in presidential election
 
 *2024-06-06 21:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/185484) · `ta`
 
-ஜனாதிபதித் தேர்தலில் இம்முறை ரணில் விக்கிரமசிங்க சுயேச்சை வேட்பாளராக போட்டியிடுவார் என ஜனாதிபதியின் ஆலோசகர் பேராசிரியர் ஆஷு மாரசிங்க தெரிவித்துள்ளார்.
+Ranil Wickremesinghe, an independent candidate, announced his participation in the upcoming presidential election. This news was shared by President's advisor Professor Ashu Marasinghe during a press conference held at the President's new political office in Colombo on Thursday, 06th.
 
-ஜனாதிபதியின் புதிய அரசியல் அலுவலகத்தை கொழும்பில் 06ஆம் திகதி வியாழக்கிழமை திறந்து வைக்கும் நிகழ்வில் கலந்து கொண்டு கருத்து தெரிவிக்கும் போதே அவர் மேற்கண்டவாறு தெரிவித்துள்ளார்.
+🟩
+
+Ranil Wickremesinghe will contest the presidential election this time, said President's advisor Professor Ashu Marasinghe.
+
+He said this while addressing the President's new political office in Colombo on Thursday, 06th.
 
 ◼️
 
 [Data](articles/c7226e38.json)
+
+[Extended Data](ext_articles/c7226e38.ext.json)
 
 ---
 
@@ -244,23 +258,33 @@ Further he disclosed that within the last five months of this year, over 25,000 
 
 ---
 
-### பலசாலிகள் பாகிஸ்தானை ஐக்கிய அமெரிக்கா எதிர்கொள்கிறது
+### The United States face Pakistan
 
 *2024-06-06 20:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/185483) · `ta`
 
-பலவான்களான பாகிஸ்தானுக்கும் பலவான்கள் என கூறமுடியாவிட்டாலும் பலவீனர்கள் என குறிப்பிடமுடியாத ஐக்கிய அமெரிக்காவுக்கும் இடையிலான ரி20 உலகக் கிண்ண ஏ குழு கிரிக்கெட் போட்டி இலங்கை நேரப்படி 06ஆம் திகதி வியாழக்கிழமை இரவு 9.00 மணிக்கு ஆரம்பமாகவுள்ளது.
+In the T20 World Cup, both the United States and Pakistan are strong contenders. Despite Pakistan's history of advancing to the Super 8 round, the absence of key player Imad Wasim may affect their performance. The US team, inspired by their recent win against Bangladesh, enters the match against Pakistan with confidence and without pressure, led by players like Monank Patel and Steven Taylor.
 
-இரண்டாவது ரி20 உலகக் கிண்ண அத்தியாயத்தில் 2009இல் சம்பியனான பாகிஸ்தான் இம்முறை சுப்பர் 8 சுற்றுக்கு இலகுவாக முன்னேறக்கூடிய அணிகளில் ஒன்றாக அனுமாணிக்கப்பட்டுள்ளது.
+🟩
 
-சகலதுறை வீரர் இமாத் வசிம் உபாதைக்குள்ளாகி இருப்பதால் இன்றைய போட்டியில் விளையாடமாட்டார் என அறிவிக்கப்படுகிறது.
+The T20 World Cup A Group Cricket between the United States, which cannot be said to be weak, but weakens, though it is not known as Pakistan and Pakistan.
 
-இது பாகிஸ்தான் அணிக்கு பெரும் தாக்கத்தைக் கொடுக்காதபோதிலும் அவர் இல்லாதது ஒரு குறையாக இருக்கும்.
+Pakistan, the second R20 World Cup chapter in 2009, has been permitted as one of the teams that can be easily advanced to the Super 8 round.
 
-அணித் தலைவர் பாபர் அஸாம், மொஹம்மத் ரிஸ்வான், உஸ்மான் கான், பக்கார் ஸமான், அஸாம் கான், இப்திகார் அஹ்மத், ஷதாப் கான் ஆகியோர் துடுப்பாட்டத்தில் பிரகாசிக்கக்கூடியவர்கள். எனினும் முன்வரிசை வீரர்கள் துடுப்பாட்டத்தில் அசாத்திய திறமையை வெளிப்படுத்தினால் மத்திய வரிசை வீரர்கள் துடுப்பெடுத்தாட வேண்டிய அவசியம் ஏற்படாது.
+It is reported that all the player Imad Wasim has been subjected to the uproar.
+
+Although this does not have a major impact on the Pakistan team, his absence will be a flaw.
+
+Team Leader Babar Azam, Mohammed Rizwan, Usman Khan, Bakar Saman, Assam Khan, Iftikar Ahmed and Shadab Khan. However, if the leading players showcase the unbearable skills in the field, the middle -class players will not need to bat.
+
+Shaheen Shah Abridi, Haris Rauf, Mohammed Aamir and Abar Ahmad are expected to be Asadhavar.
+
+Meanwhile, the United States will face the competition with great enthusiasm and confidence in the World Cup against Canada.
 
 ...
 
 [Data](articles/7748dadd.json)
+
+[Extended Data](ext_articles/7748dadd.ext.json)
 
 ---
 
@@ -960,21 +984,29 @@ Opposition Leader of the Point Pedro and Udupitti constituencies will present sm
 
 ---
 
-### மின்சார சபை மறுசீரமைப்பு சட்டமூலம் : நீதிமன்றத்தின் வியாக்கியானத்துக்கும், துறைசார்மேற்பார்வை குழுவின் அறிக்கைக்குமிடையில் பரஸ்பர வேறுபாடு - தயாசிறி ஜயசேகர குற்றச்சாட்டு
+### Electricity Reorganization Bill: Mutual difference between court and reporting of the Department
 
 *2024-06-06 17:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/185462) · `ta`
 
-மின்சார சபை மறுசீரமைப்பு சட்டமூலம் தொடர்பில் உயர்நீதிமன்றம் வழங்கியுள்ள வியாக்கியானத்துக்கும்,துறைசார் மேற்பார்வை குழு முன்வைத்துள்ள அறிக்கைக்கும் இடையில் பரஸ்பர வேறுபாடுகள் காணப்படுகின்றன.
+The Supreme Court and the Department of Supervisory Committee have differing views on the Electricity Board Reorganization Bill. The Department emphasizes thorough investigation, citing past misuse of power by ministers. The bill aims to establish independence, monitoring, and service distribution for companies, with the minister having authority over appointments. Concerns about potential misuse of this power exist, especially in light of the current financial situation affecting the Electricity Board's operations.
 
-நீதிமன்றம் குறிப்பிடாத விடயங்களையும் துறைசார் மேற்பார்வைக் குழு குறிப்பிட்டுள்ளது.ஆகவே இச்சட்டமூலம் விரிவாக ஆராய வேண்டும் என்பதை வலியுறுத்தினோம்.இருப்பினும் விவாதம் செய்வதற்கு போதுமான காலவகாசம் வழங்கப்படவில்லை என பாராளுமன்ற உறுப்பினர் தயாசிறி ஜயசேகர தெரிவித்தார்.
+🟩
 
-பாராளுமன்றத்தில் வியாழக்கிழமை (06) இடம்பெற்ற மின்சார சபை மறுசீரமைப்பு சட்டமூலம் மீதான விவாதத்தில் உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+There are mutual differences between the Supreme Court on the Electricity Board Reorganization Bill and the report presented by the Department of Department of Department of Department of Supervisory Committee.
 
-மின்சார சபை மறுசீரமைப்பு சட்டமூலம் தொடர்பில்  கடந்த இரண்டு ஆண்டுகளாக பேச்சுவார்த்தையில் ஈடுபட்டதாக மின்சாரத்துறை அமைச்சர் குறிப்பிடுகிறார். பேச்சுவார்த்தையில் ஈடுபட்டிருக்கலாம், ஆனால் துறைசார் நிபுணர்களுடன் விரிவாக பேச்சுவார்த்தையில் ஈடுபடவில்லை என்பது பிரதான குற்றச்சாட்டாக காணப்படுகிறது.
+The Department of Department of Supervisor, the Department of Supervisor, said that the law should be investigated in detail.
+
+He was speaking at a debate on the Electricity Board Reorganization Bill held in Parliament on Thursday (06).
+
+The Minister of Power and Electricity notes that the Electricity Board has been in talks for the past two years. The main allegation is that it may be in talks, but not in detail with industry experts.
+
+The Electricity Board Reorganization Bill is mentioned that arrangements for independence, monitoring and service distribution of companies include.. After the bill was enacted, the authority to appoint leaders and directors to 12 companies established has been given to the Minister in charge of the matter.
 
 ...
 
 [Data](articles/a821bb73.json)
+
+[Extended Data](ext_articles/a821bb73.ext.json)
 
 ---
 

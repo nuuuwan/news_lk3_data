@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-06 23:04:35**
+As of **2024-06-06 23:19:08**
 
 ## Newspaper Stats
 
-*Scraped **28,914** Articles*
+*Scraped **28,919** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,42 @@ economynextcom | 1,642
 dailyftlk | 1,711
 adalk | 2,474
 adaderanalk | 3,281
-tamilmirrorlk | 3,396
-virakesarilk | 4,437
-dailymirrorlk | 4,598
+tamilmirrorlk | 3,397
+virakesarilk | 4,440
+dailymirrorlk | 4,599
 adaderanasinhalalk | 4,641
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,914 (100.0%) of 28,914 articles have been extended.
+28,914 (100.0%) of 28,919 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-06 (Thursday)
+
+### 9 வயது சிறுவனை பல முறை கத்தியால் குத்திய 14 வயது சிறுவன்
+
+*2024-06-06 23:06:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/9-வயது-சிறுவனை-பல-முறை-கத்தியால்-குத்திய-14-வயது-சிறுவன்/175-338570) · `ta`
+
+ஹம்பாந்தோட்டை, அங்குனகொலபெலஸ்ஸ பிரதேசத்தில் நேற்று (5) கத்திக் குத்துக்கு இலக்காகி 9 வயது சிறுவன் காயமடைந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+இவர் தனது வீட்டில் தனிமையில் இருக்கும் போது அயல் வீட்டில் வசிக்கும் 14 வயது சிறுவனால் இந்த தாக்குதல் இடம்பெற்றுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+இந்த சம்பவத்தையடுத்து, சந்தேக நபரான 14 வயது சிறுவன் விஷம் அருந்தியுள்ள நிலையில் எம்பிலிப்பிட்டிய வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+9 வயதான சிறுவனின் உடலில் சுமார் 6 முதல் 7 கத்தி குத்து காயங்கள் காணப்படுவதாக வைத்தியசாலை தகவல்கள் தெரிவிக்கின்றன.
+
+கத்தி குத்தை நடாத்திய 14 வயதான சிறுவன், வீடியோ விளையாட்டுக்களுக்கு அடிமையானவர் என தெரிய வருகிறது.
+
+இந்த சம்பவம் தொடர்பான மேலதிக விசாரணைகளை அங்குணுகொலபெலஸ்ஸ பொலிஸார் மேற்கொண்டு வருகின்றனர். R
+
+◼️
+
+[Data](articles/e3d1ff39.json)
+
+---
 
 ### Health officials emphasize need for additional measures to combat spread of dengue
 
@@ -49,6 +71,22 @@ He also emphasized the critical importance of effectively managing the spread of
 [Data](articles/47ccc319.json)
 
 [Extended Data](ext_articles/47ccc319.ext.json)
+
+---
+
+### SC orders Maithripala to pay Rs.1 M to petitioner
+
+*2024-06-06 22:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SC-orders-Maithripala-to-pay-Rs-1-M-to-petitioner/108-284294) · `en`
+
+June 06 (Daily Mirror) - The Supreme Court today ordered former President Maithripala Sirisena to pay Rs. 1 million to the petitioner in the Fundamental Rights petition filed challenging former President Sirisena's decision to grant a Presidential pardon to Royal Park murder convict Don Shamantha Jude Anthony Jayamaha.
+
+The Court held that the petitioner, Women & Media Collective organization should hold such money in trust and spend it for the purposes that are in the best interests of female victims of crime and this sum of money should be paid within one month of this judgement.
+
+In another landmark judgement pertaining to the scope of the pardon granted by the executive President, the Supreme Court yesterday ruled that former President Maithripala Sirisena's decision to grant a Presidential pardon to Royal Park murder convict Don Shamantha Jude Anthony Jayamaha is arbitrary and not valid in law.
+
+...
+
+[Data](articles/d812880a.json)
 
 ---
 
@@ -93,6 +131,20 @@ It is further requested that the people in the areas bring the animals to the cl
 [Data](articles/4b702dcf.json)
 
 [Extended Data](ext_articles/4b702dcf.ext.json)
+
+---
+
+### ஜனாதிபதித் தேர்தலில் சுயேட்சை வேட்பாளராக ரணில் விக்கிரமசிங்க - ஆஷு மாரசிங்க
+
+*2024-06-06 21:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/185484) · `ta`
+
+ஜனாதிபதித் தேர்தலில் இம்முறை ரணில் விக்கிரமசிங்க சுயேச்சை வேட்பாளராக போட்டியிடுவார் என ஜனாதிபதியின் ஆலோசகர் பேராசிரியர் ஆஷு மாரசிங்க தெரிவித்துள்ளார்.
+
+ஜனாதிபதியின் புதிய அரசியல் அலுவலகத்தை கொழும்பில் 06ஆம் திகதி வியாழக்கிழமை திறந்து வைக்கும் நிகழ்வில் கலந்து கொண்டு கருத்து தெரிவிக்கும் போதே அவர் மேற்கண்டவாறு தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/c7226e38.json)
 
 ---
 
@@ -189,6 +241,26 @@ Further he disclosed that within the last five months of this year, over 25,000 
 [Data](articles/6c9066f0.json)
 
 [Extended Data](ext_articles/6c9066f0.ext.json)
+
+---
+
+### பலசாலிகள் பாகிஸ்தானை ஐக்கிய அமெரிக்கா எதிர்கொள்கிறது
+
+*2024-06-06 20:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/185483) · `ta`
+
+பலவான்களான பாகிஸ்தானுக்கும் பலவான்கள் என கூறமுடியாவிட்டாலும் பலவீனர்கள் என குறிப்பிடமுடியாத ஐக்கிய அமெரிக்காவுக்கும் இடையிலான ரி20 உலகக் கிண்ண ஏ குழு கிரிக்கெட் போட்டி இலங்கை நேரப்படி 06ஆம் திகதி வியாழக்கிழமை இரவு 9.00 மணிக்கு ஆரம்பமாகவுள்ளது.
+
+இரண்டாவது ரி20 உலகக் கிண்ண அத்தியாயத்தில் 2009இல் சம்பியனான பாகிஸ்தான் இம்முறை சுப்பர் 8 சுற்றுக்கு இலகுவாக முன்னேறக்கூடிய அணிகளில் ஒன்றாக அனுமாணிக்கப்பட்டுள்ளது.
+
+சகலதுறை வீரர் இமாத் வசிம் உபாதைக்குள்ளாகி இருப்பதால் இன்றைய போட்டியில் விளையாடமாட்டார் என அறிவிக்கப்படுகிறது.
+
+இது பாகிஸ்தான் அணிக்கு பெரும் தாக்கத்தைக் கொடுக்காதபோதிலும் அவர் இல்லாதது ஒரு குறையாக இருக்கும்.
+
+அணித் தலைவர் பாபர் அஸாம், மொஹம்மத் ரிஸ்வான், உஸ்மான் கான், பக்கார் ஸமான், அஸாம் கான், இப்திகார் அஹ்மத், ஷதாப் கான் ஆகியோர் துடுப்பாட்டத்தில் பிரகாசிக்கக்கூடியவர்கள். எனினும் முன்வரிசை வீரர்கள் துடுப்பாட்டத்தில் அசாத்திய திறமையை வெளிப்படுத்தினால் மத்திய வரிசை வீரர்கள் துடுப்பெடுத்தாட வேண்டிய அவசியம் ஏற்படாது.
+
+...
+
+[Data](articles/7748dadd.json)
 
 ---
 
@@ -885,6 +957,24 @@ Opposition Leader of the Point Pedro and Udupitti constituencies will present sm
 [Data](articles/8fdbebfa.json)
 
 [Extended Data](ext_articles/8fdbebfa.ext.json)
+
+---
+
+### மின்சார சபை மறுசீரமைப்பு சட்டமூலம் : நீதிமன்றத்தின் வியாக்கியானத்துக்கும், துறைசார்மேற்பார்வை குழுவின் அறிக்கைக்குமிடையில் பரஸ்பர வேறுபாடு - தயாசிறி ஜயசேகர குற்றச்சாட்டு
+
+*2024-06-06 17:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/185462) · `ta`
+
+மின்சார சபை மறுசீரமைப்பு சட்டமூலம் தொடர்பில் உயர்நீதிமன்றம் வழங்கியுள்ள வியாக்கியானத்துக்கும்,துறைசார் மேற்பார்வை குழு முன்வைத்துள்ள அறிக்கைக்கும் இடையில் பரஸ்பர வேறுபாடுகள் காணப்படுகின்றன.
+
+நீதிமன்றம் குறிப்பிடாத விடயங்களையும் துறைசார் மேற்பார்வைக் குழு குறிப்பிட்டுள்ளது.ஆகவே இச்சட்டமூலம் விரிவாக ஆராய வேண்டும் என்பதை வலியுறுத்தினோம்.இருப்பினும் விவாதம் செய்வதற்கு போதுமான காலவகாசம் வழங்கப்படவில்லை என பாராளுமன்ற உறுப்பினர் தயாசிறி ஜயசேகர தெரிவித்தார்.
+
+பாராளுமன்றத்தில் வியாழக்கிழமை (06) இடம்பெற்ற மின்சார சபை மறுசீரமைப்பு சட்டமூலம் மீதான விவாதத்தில் உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+மின்சார சபை மறுசீரமைப்பு சட்டமூலம் தொடர்பில்  கடந்த இரண்டு ஆண்டுகளாக பேச்சுவார்த்தையில் ஈடுபட்டதாக மின்சாரத்துறை அமைச்சர் குறிப்பிடுகிறார். பேச்சுவார்த்தையில் ஈடுபட்டிருக்கலாம், ஆனால் துறைசார் நிபுணர்களுடன் விரிவாக பேச்சுவார்த்தையில் ஈடுபடவில்லை என்பது பிரதான குற்றச்சாட்டாக காணப்படுகிறது.
+
+...
+
+[Data](articles/a821bb73.json)
 
 ---
 
@@ -2105,113 +2195,5 @@ President Ranil Wickremesinghe inaugurated his political office in Colombo today
 [Data](articles/2d3a6d70.json)
 
 [Extended Data](ext_articles/2d3a6d70.ext.json)
-
----
-
-### TRCSL grants preliminary approval for Starlink internet in Sri Lanka
-
-*2024-06-06 12:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/TRCSL-grants-preliminary-approval-for-Starlink-internet-in-Sri-Lanka/108-284255) · `en`
-
-Colombo, June 6 (Daily Mirror) - The Telecommunications Regulatory Commission of Sri Lanka (TRCSL) has granted preliminary approval for Starlink to provide satellite-based internet services in Sri Lanka, Technology State Minister Kanaka Herath announced.
-
-He said the approval will be given following a formal public consultation process.
-
-Meanwhile, the President's Media Division (PMD) said the details of the public consultation will be published tomorrow.
-
-◼️
-
-[Data](articles/45a1ed91.json)
-
-[Extended Data](ext_articles/45a1ed91.ext.json)
-
----
-
-### A congratulator for schoolchildren
-
-*2024-06-06 12:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197456) · `si`
-
-The Ministry of Education launched a scheme for schoolchildren to purchase sanitary towels, aiming to support their health and well-being. This initiative, starting at the President's Girls' School, offers free sanitary products to all students across Sri Lanka, promoting their personal growth and addressing economic and health challenges. Each student receives a certificate from the Sri Lanka Standards Institution, valid until October 2024, allowing them to buy sanitary items at a discounted price from registered shops.
-
-🟩
-
-The inauguration program for schoolchildren to buy a supportive profit scheme for the sanitary towel today (06) began at the President's Girls' school.
-
-The Ministry of Education has implemented the Ministry of Education with the objective of providing the necessary facilities to the personality growth and healthy development of the learning and healthy development in school.
-
-It is also expected to prevent adverse conditions, such as notice of the students' attendance and the problems of the students during the economic and health universality of the people.
-
-The Ministry of Education has provided awards for free of a consecutive year of the National Schools in the Total Total population of the entire student population of Sri Lanka and Rs.
-
-Accordingly, one student is Rs. The Ministry of Education has already organized the proceedings of a total of 1,200 persons.
-
-...
-
-[Data](articles/78a9d781.json)
-
-[Extended Data](ext_articles/78a9d781.ext.json)
-
----
-
-### Event with Common Candidate in Jaffna - Civil community boycott
-
-*2024-06-06 12:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/185432) · `ta`
-
-An event titled "Public Sustainable - Public Referendum," featuring parliamentarian MA Sumanthiran, is scheduled for April 9th at the Father Selva Auditorium in Jaffna. However, civil society has boycotted it.
-
-🟩
-
-The organizers have announced that the "Public Sustainable - Public Referendum" event will be held at the Father Selva Auditorium in Jaffna on Sunday, the 9th of this month.
-
-The event has been organized as a parliamentarian MA Sumanthiran has announced that an event will be held in Jaffna on the common candidate.
-
-At the same time, the civil society has announced that he will not go to the event.
-
-◼️
-
-[Data](articles/ee187769.json)
-
-[Extended Data](ext_articles/ee187769.ext.json)
-
----
-
-### Increase in prices of fish!
-
-*2024-06-06 12:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/185428) · `ta`
-
-Inclement weather leads to a decline in the fishing industry, causing fish prices to rise significantly: 1 kg of fish costs 1,300 rupees, Kelavalla 1,400 rupees, and Telia also 1,300 rupees.
-
-🟩
-
-Due to the inclement weather, the Department of Meteorology has issued a decline in the fishing industry after the Department of Meteorology has announced that fishermen will avoid going to sea.
-
-According to the fishermen, the price of 1 kg of fish in the Galle fishing harbor has risen to 1,300 rupees, 1 kg of Kelavalla fish has risen to 1,400 rupees and 1 kg of Telia to 1,300 rupees.
-
-◼️
-
-[Data](articles/c28f6431.json)
-
-[Extended Data](ext_articles/c28f6431.ext.json)
-
----
-
-### Latest discussions in respect to restructuring of debt
-
-*2024-06-06 12:25:17* · [`adalk`](https://www.ada.lk/breaking_news/ණය-ප්‍රතිව්‍යුහගත-කිරීමට-අදාළව-උසස්-සාකච්ඡා-අරඹයි/11-410048) · `si`
-
-Sri Lanka is in talks with bilateral creditors, including India and members of the Paris Club, to restructure its debt. These discussions aim to secure a $3 billion loan facility, requiring agreement from lenders and bondholders.
-
-🟩
-
-Bloomberg - Citing partnership with Sri Lanka and bilateral creditors have already launched high levels of discussions between Sri Lanka and bilateral creditors.
-
-According to the website of the Government and the members of the government and the official lenders of the committee, including India, Hungary and Paris Club, is being exchanging the drafts.
-
-In order to obtain the forward premium of $ 3 billion comprehensive loan facility, Sri Lanka is inevitable to agree on borrowing lenders and bond owners.
-
-◼️
-
-[Data](articles/b2f67bb5.json)
-
-[Extended Data](ext_articles/b2f67bb5.ext.json)
 
 ---

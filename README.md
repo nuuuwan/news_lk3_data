@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-06 05:36:55**
+As of **2024-06-06 06:01:05**
 
 ## Newspaper Stats
 
-*Scraped **28,704** Articles*
+*Scraped **28,715** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 261
 dbsjeyarajcom | 273
 bbccomsinhala | 279
 newsfirstlk | 363
-islandlk | 1,542
+islandlk | 1,553
 economynextcom | 1,635
 dailyftlk | 1,700
 adalk | 2,448
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,606
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,704 (100.0%) of 28,704 articles have been extended.
+28,704 (100.0%) of 28,715 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -577,6 +577,64 @@ The suspects arrested for further investigations and the Kerala cannabis and boa
 [Data](articles/b55d8710.json)
 
 [Extended Data](ext_articles/b55d8710.ext.json)
+
+---
+
+### Bridging Excellence: A union of innovation and expertise in the transformer industry
+
+*2024-06-06 00:09:00* · [`islandlk`](http://island.lk/bridging-excellence-a-union-of-innovation-and-expertise-in-the-transformer-industry/) · `en`
+
+In the dynamic landscape of the transformer industry, where innovation meets expertise, two industry giants, Lanka Transformers Ltd and APAR Industries Ltd, have forged an alliance that promises to redefine standards and elevate benchmarks.
+
+This alliance comes as a culmination of rigorous evaluation and meticulous selection, with APAR clinching the bid to supply bulk volumes of Transformer Oils to Lanka Transformers Ltd.Established in 1980 as a joint venture between the Ceylon Electricity Board and Bonar Long of Scotland, Lanka Transformers Ltd has emerged as a beacon of excellence in transformer manufacturing.
+
+...
+
+[Data](articles/aa97421b.json)
+
+---
+
+### Suneth Silva of WIS recognized at Global CEO ‘45 Under 45 Leadership Excellence Awards’
+
+*2024-06-06 00:09:00* · [`islandlk`](http://island.lk/suneth-silva-of-wis-recognized-at-global-ceo-45-under-45-leadership-excellence-awards/) · `en`
+
+WIS Director Suneth Silva has been recognized as one of the winners in the “45 Under 45 Leadership Excellence and Emerging Leaders Awards 2024” organized by the Global CEO Forum in Sri Lanka. Suneth Silva’s award underscores his outstanding leadership qualities, commitment to excellence, and innovative approach to work, all of which have helped to elevate WIS’ performance at every level.
+
+The Under 45 Leadership Excellence Platinum Awards is an esteemed programme that recognizes and honours the country’s brightest talents and forward-thinking individuals across various domains. The event is dedicated to celebrating the outstanding achievements of CEOs, entrepreneurs, exporters, SMEs, and other promising professionals who are under 45 years old.
+
+...
+
+[Data](articles/e9835eeb.json)
+
+---
+
+### SLT-MOBITEL Enterprise strengthens collaboration with MBSL to deliver cutting-edge connectivity solutions
+
+*2024-06-06 00:05:00* · [`islandlk`](http://island.lk/slt-mobitel-enterprise-strengthens-collaboration-with-mbsl-to-deliver-cutting-edge-connectivity-solutions/) · `en`
+
+Committed to supporting customers’ evolving connectivity needs, SLT-MOBITEL Enterprise signed a bilateral agreement with the Merchant Bank of Sri Lanka & Finance PLC (MBSL), recently solidifying a new era of collaboration between the two organizations.
+
+The agreement was signed by Janaka Abeysinghe, CEO of SLT and Dammika Hapuhinna, CEO of MBSL at the MBSL Board Room, Colombo 03, in the presence of Lakmal Jayasinghe, Chief Business Officer – Enterprise Business of SLT-MOBITEL, and Thishan Gonagala, Asst. General Manager- IT of MBSL alongside officials representing SLT-MOBITEL and MBSL
+
+MBLS is a leading financial services provider in Sri Lanka with a rich history in the country and is recognized as a pioneer in trade finance and investment banking. The institution is one of Sri Lanka’s pioneering financial institutions, with an illustrious history spanning over 41 years.
+
+...
+
+[Data](articles/37233da1.json)
+
+---
+
+### Share price appreciations in banking sector counters as indices rise
+
+*2024-06-06 00:03:00* · [`islandlk`](http://island.lk/share-price-appreciations-in-banking-sector-counters-as-indices-rise/) · `en`
+
+Price appreciations were noted yesterday in selected stocks, especially banking sector counters. Both indices moved upwards. The All Share Price Index went up by 85.45 points while S and P SL20 rose by 37.13 points. Turnover stood at Rs 1.2 billion with two crossings.
+
+Those crossings were reported in JKH, which crossed 811,000 shares to the tune of Rs 164 million and its shares traded at Rs 202.50 and NDB 261,000 shares crossed for Rs 20.3 million; its shares traded at Rs 38.
+
+...
+
+[Data](articles/1ab5acc4.json)
 
 ---
 
@@ -2127,105 +2185,5 @@ A special session of the Ceylon Women's Organization was held at the Radisson Ho
 [Data](articles/625197a4.json)
 
 [Extended Data](ext_articles/625197a4.ext.json)
-
----
-
-### Govt accepts Supreme Court’s amendments to ‘Sri Lanka Electricity Bill’
-
-*2024-06-05 15:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/99680/govt-accepts-supreme-courts-amendments-to-sri-lanka-electricity-bill) · `en`
-
-Power and Energy Minister Kanchana Wijesekara says that the government has agreed to accept all the amendments proposed by the Supreme Court to the ‘Sri Lanka Electricity Bill’.
-
-Responding to a question from SJB MP Lakshman Kiriella in Parliament today, the Minister stated that the Sectoral Oversight Committee was notified, and approval was obtained yesterday (04).
-
-He added that the government will not propose any other amendments to the bill.
-
-“As the government, we agreed to accept all amendments proposed by the Supreme Court. Accordingly, the government will not present any other amendments. In addition to this, the Sectoral Oversight Committee presented on more amendment, to bring down the limit from 50% to 15%, to which we agreed.”
-
-He said that the government intends to present the amendment to the Parliament tomorrow and that the debate on the bill is expected to go ahead as scheduled.
-
-...
-
-[Data](articles/67051d16.json)
-
-[Extended Data](ext_articles/67051d16.ext.json)
-
----
-
-### The heroic action of the great responsibility of the Low Little Charithma
-
-*2024-06-05 15:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197425) · `si`
-
-In the face of disaster, Charithma Jandipi Maetippe, a brave 17-year-old from Padukka Siri Piyarathana College, demonstrated true heroism. Amidst the chaos of flooding in the IriKapalla area, Charithma risked her own safety to rescue two individuals trapped in their home. Using a rope, she helped them ascend to safety, showcasing selflessness and courage in the face of adversity. Her actions not only saved lives but also highlighted the spirit of resilience and humanity amidst natural disasters.
-
-🟩
-
-The Padukka is a schoolgirl in the IriKapalla area in Iriydapalla and two lives have been reported to be taken over.
-
-The 17-year-old Charithma Jandipi Maetippe, who is 17, is studying at Padukka Siri Piyarathana College.
-
-The violent shot of the Basina flows near Siripola has increased near Siripola.
-
-With the flooding in midnight, many people abandoned everything and stayed in high places.
-
-It is due to the growth of 10 feet high in a minor moment.
-
-Charithma's grandmother and the top were also survived to a mountain of the house.
-
-When the charmith was coming out of the house of the House, he had heard a sound sound to save them.
-
-The immediate charic, which immediately opened, and brought a plastic rank and was swimming towards the City.
-
-The couple who shouted for help were then taken to the upper necklace of a three storied building with the help of the rope.
-
-...
-
-[Data](articles/3ab8ff91.json)
-
-[Extended Data](ext_articles/3ab8ff91.ext.json)
-
----
-
-### Prime Minister Modi resigns
-
-*2024-06-05 15:33:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரதமர்-மோடி-இராஜினாமா/175-338483) · `ta`
-
-Narendra Modi resigned as Prime Minister but was reappointed after meeting with President Draupadi Murmu. His resignation was accepted, and he will serve another term with the backing of coalition parties, set to be sworn in on June 8.
-
-🟩
-
-Narendra Modi resigns as Prime Minister. Modi meets President Draupadi Murmu. Modi has issued a letter of resignation to the president and claims to be the right to rule. Rajnath Singh and Amit Shah along with Prime Minister Modi have also visited the President's House.
-
-President Draupadi Murmu accepted the resignation of the Union Cabinet led by Prime Minister Modi. It is noteworthy that President Draupadi Murmu accepted the recommendations of the 17th Lok Sabha.
-
-According to reports, Modi will be sworn in as Prime Minister again on June 8. Modi is again prime minister with the support of the coalition parties.
-
-◼️
-
-[Data](articles/190e08a6.json)
-
-[Extended Data](ext_articles/190e08a6.ext.json)
-
----
-
-### Sri Lanka Treasuries yields slightly higher, Rs235bn sold
-
-*2024-06-05 15:33:00* · [`economynextcom`](https://economynext.com/sri-lanka-treasuries-yields-slightly-higher-rs235bn-sold-166396/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Treasuries yields edged slightly higher at Wednesdays auction with 235 billion rupees of bills sold but with lower volumes of 12 month bills, data from the state debt office showed.
-
-The 3-month yield went up 08 basis points to 8.70 percent with 40 billion rupees of bills offered at 51.3 billion sold.
-
-The 6-month bill yield was flat at 9.04 percent, with 75 billion rupees offered and 112.6 billion sold.
-
-The 12-month bill yield went up 09 bias points to 9.27 percent with 120 billion rupees offered, and 71.06 billion in bills sold.
-
-The debt office offered 235 billion rupees of bills and raised a similar amount in different maturities. (Colombo/June05/2024)
-
-◼️
-
-[Data](articles/45d49211.json)
-
-[Extended Data](ext_articles/45d49211.ext.json)
 
 ---

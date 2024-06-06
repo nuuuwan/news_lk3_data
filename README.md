@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-07 03:34:10**
+As of **2024-06-07 03:52:21**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,641
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,951 (99.9%) of 28,968 articles have been extended.
+28,959 (100.0%) of 28,968 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -43,6 +43,8 @@ During a parliamentary session, MP S.M. Marikkar urged the Government to deploy 
 ...
 
 [Data](articles/e8377046.json)
+
+[Extended Data](ext_articles/e8377046.ext.json)
 
 ---
 
@@ -62,6 +64,8 @@ The State Minister stated that 284,505 individuals from 77,313 families across 2
 
 [Data](articles/4ab47271.json)
 
+[Extended Data](ext_articles/4ab47271.ext.json)
+
 ---
 
 ### Sajith no-show at ITN hosted debate with AKD
@@ -77,6 +81,8 @@ Earlier in the day SJB MP Nalin Bandara voiced the party’s dissatisfaction wit
 ...
 
 [Data](articles/0129fa34.json)
+
+[Extended Data](ext_articles/0129fa34.ext.json)
 
 ---
 
@@ -95,6 +101,8 @@ The establishment of the office was initiated by United National Party Chairman 
 ...
 
 [Data](articles/e720b163.json)
+
+[Extended Data](ext_articles/e720b163.ext.json)
 
 ---
 
@@ -120,6 +128,8 @@ By addressing period poverty, the Government aims to create a more inclusive and
 
 [Data](articles/c8a63615.json)
 
+[Extended Data](ext_articles/c8a63615.ext.json)
+
 ---
 
 ### Modi’s inauguration ‘postponed’ as cracks emerge among allies
@@ -138,6 +148,8 @@ The Janata Dal (United) has reportedly asked the BJP to modify its controversial
 
 [Data](articles/4c0dc7f3.json)
 
+[Extended Data](ext_articles/4c0dc7f3.ext.json)
+
 ---
 
 ### President Ranil’s handling of the crisis and what’s next for Sri Lanka
@@ -149,6 +161,8 @@ Several people on social media now comment negatively about how the current Pres
 ...
 
 [Data](articles/66b50914.json)
+
+[Extended Data](ext_articles/66b50914.ext.json)
 
 ---
 
@@ -167,6 +181,8 @@ Adaption and being nimble have become second nature to us, but we cannot be comp
 ...
 
 [Data](articles/36250e2c.json)
+
+[Extended Data](ext_articles/36250e2c.ext.json)
 
 ---
 

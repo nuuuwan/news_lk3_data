@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-06 19:52:46**
+As of **2024-06-06 20:04:58**
 
 ## Newspaper Stats
 
-*Scraped **28,895** Articles*
+*Scraped **28,896** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,554
 economynextcom | 1,642
 dailyftlk | 1,711
-adalk | 2,471
+adalk | 2,472
 adaderanalk | 3,279
 tamilmirrorlk | 3,395
 virakesarilk | 4,436
@@ -26,11 +26,27 @@ adaderanasinhalalk | 4,636
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,894 (100.0%) of 28,895 articles have been extended.
+28,895 (100.0%) of 28,896 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-06 (Thursday)
+
+### අද මධ්‍යම රාත්‍රියේ දුම්රිය වර්ජනයක්
+
+*2024-06-06 19:36:22* · [`adalk`](https://www.ada.lk/breaking_news/අද-මධ්‍යම-රාත්‍රියේ-දුම්රිය-වර්ජනයක්/11-410067) · `si`
+
+දුමිරිය එංජින් රියදුරන්ගේ දෙවැනි පෙළ උසස් වීම ලබා දීම ප්‍රමාද කිරීමට හා වැටුප් කේතයක් නොමැති කමින් බඳවා ගැනීම් ප්‍රමාද වීමට එරෙහිව අද (06දා) මධ්‍යම රාත්‍රී 12.00 සිට දුම්රිය එංජින් රියදුරන්ගෙන් කොටසක් සේවයෙන් ඉවත්වන බව ලෙකොමොට්වි ඔපරේටිං ඉන්ජිනියර්ස් යුනියන් සඳහන් කරයි.
+
+එම ගැටලු විසඳීමට මීට මාස 10 ක සිට වැඩපිළිවෙළක් සකස් කළත් එය නිසි  ලෙස ක්‍රියාත්මක නොකිරීම නිසා මෙම තත්වය ඇති වී තිබෙන බවද සංගමය පෙන්වා දෙයි.
+
+අදාළ ගැටලු කඩිනමින් විසඳන ලෙසට බලධාරීන්ගෙන් අවස්ථා ගණනාවකදී ඉල්ලා සිටියත් එම ගැටලු විසඳීම දිගින් දිගටම ප්‍රමාද කිරීම නිසා මේ ආකාරයට වෘත්තීය ක්‍රියා මාර්ග ගැනීමට සිදුවූ බව එම සංගමය සඳහන් කරයි.
+
+◼️
+
+[Data](articles/2929d1ef.json)
+
+---
 
 ### The railway strike from midnight
 
@@ -242,21 +258,29 @@ The Bill seeks to provide for the establishment of the National Electricity Advi
 
 ---
 
-### බදුල්ල ගම්මන සුමනසාර හිමියන් සංඝනායක ධුරයෙන් ඉවත් කෙරෙති
+### Badulla Sumanasara Thera removed from the post of Sanganayake
 
 *2024-06-06 18:07:57* · [`adalk`](https://www.ada.lk/breaking_news/බදුල්ල-ගම්මන-සුමනසාර-හිමියන්-සංඝනායක-ධුරයෙන්-ඉවත්-කෙරෙති/11-410059) · `si`
 
-මල්වතු මහා විහාර පාර්ශ්වයේ බදුල්ල බින්තන නැගෙනහිර තෙපළාතේ ප්‍රධාන සංඝනායක ධුරය දැරූ පූජ්‍ය බදුල්ල ගම්මන සුමනසාර හිමියන් එම පදවියෙන් ඉවත් කොට ඇති බව මල්වතු පාර්ශ්වයේ මහා ලේඛකාධිකාරී ආචාර්ය පූජ්‍ය මහමුනේ ශ්‍රී සුමංගල හිමියන් නිවේදනයක් නිකුත් කරමින් දන්වා සිටි .
+Badulla Sumanasara Thera was removed from his position due to allegations of promoting false doctrines and damaging the reputation of the Malwathu Maha Vihara. This decision was made by the Malwathu Maha Vihara Sangha, highlighting concerns over the conduct and teachings of certain monks.
 
-අප්‍රියකාරී ශාසන විරෝධී ක්‍රියාවන්හි බදුලුගම්මන සුමනසාර හිමියන් නිරතව සිටීම හේතුවෙන් මල්වතු මහා විහාරීය ගරුතර සානුස්නායක කාරක මහා සංඝ සභාව විසින්එම හිමියන් එසේ එම පදවියෙන් ඉවත් කොට ඇති බවඑහි ලිපියේ සඳහන්ය .
+🟩
 
-බුද්ධ චරිතය හා සම්බුද්ධ දේශනාවන් විකෘති කරන මීවන පලානේ සිරි ධම්මාලංකාර නම් භික්ෂු ප්‍රතිරූපකයාගේ සාවද්‍ය විකෘති දේශනාවන් ප්‍රවර්ධනය කිරීම .
+The Malwathu East Dr. Maha Sumangala Thero, the Chief Sanganayake, the Chief Sanganayake of the Malwathu Maha Vihara, has been removed from the priority.
 
-මහා විහාර වංශික ස්‍යාමෝපාලි මහානිකායේ මල්වතු විහාරපාර්ශවයේ භික්ෂුවක් ලෙස මහා විහාර ධර්ම සම්ප්‍රදායන්ට හා ත්‍රිපිටක දේශනාවන්ට පටහැනිව බුදුන් වහන්සේ ලක්දිව ඉපදීම සහ සාවද්‍ය මත මතවාද ප්‍රචාරය කිරීම .
+The monks of the Malwathu Maha Viharaya Viharaya Sangha has been removed by the same passage by the Malwathu Maha Vihara Sangha from the Malwathu Maha Viharaya.
+
+To promote the false malicious preferences of the Bhikkhu, the Bhikkhu image of Siri Dhammalan, the ferment of Buddha and the Sambuddha pretens.
+
+Propagating Buddhist monk as a monk to the Maha Vihara Dhamma Traditions and the Tripitaka Viharaya in Maha Vihara Temple Shields.
+
+The General Managing Personnel Commerce Sahanayake, the main categories of the Sanctiva of Dharma Sabhas, is a Declaration of Samanera Pakhalani Drugs as a Viharaya, a Declaration of Dissanayake. 4-03-27 The Commissioner of Buddhist AffairsTo insult the Vihara Committener General of Vihara Committees by submitting to the General.
 
 ...
 
 [Data](articles/fa973f47.json)
+
+[Extended Data](ext_articles/fa973f47.ext.json)
 
 ---
 
@@ -2223,31 +2247,5 @@ He requested the ITN to immediately inform the NPP if Premadasa was participatin
 [Data](articles/ba607062.json)
 
 [Extended Data](ext_articles/ba607062.ext.json)
-
----
-
-### Foreign Employment for Retired Armed Forces and War Heroes
-
-*2024-06-06 11:02:09* · [`adalk`](https://www.ada.lk/breaking_news/විශ්‍රාමික-ත්‍රිවිධ-හමුදා-සාමාජිකයින්ට-හා-රණවිරු-පවුල්වල-අයට-විදේශ-රැකියා/11-410047) · `si`
-
-The Ministry of Labor and Foreign Employment in Sri Lanka has partnered with the government to offer foreign employment opportunities to retired armed forces personnel and their families. A total of 67 individuals from the Navy and Air Force have been nominated for this program. Participants must be aged 44 or above and undergo a short training course before taking a test. This initiative aims to support war heroes and their families post-retirement.
-
-🟩
-
-Head of the HonA meeting was held.
-
-The Ministry of Labor and Foreign Employment has agreed to provide some part of foreign employment to the Government of Sri Lanka from foreign states to the retired armed forces and members of their families.According to the representatives of the Ministry of Labor and Foreign Employment (
-
-Also, 67 people have been prepared to send 67 persons to the jobs and provides nominations from the Navy and the Air Force.Instructions were instructed to army officers.
-
-Also, the retired armed forces are selected for the age of 44 and have been asked to provide short training through the Ministry of Labor and Foreign Employment and to face a test.
-
-A delegation from the three armed forces and the Ministry of Labor and Foreign Employment participated in the discussion.
-
-◼️
-
-[Data](articles/3e1f5073.json)
-
-[Extended Data](ext_articles/3e1f5073.ext.json)
 
 ---

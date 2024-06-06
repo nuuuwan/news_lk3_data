@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-06 11:18:58**
+As of **2024-06-06 11:34:25**
 
 ## Newspaper Stats
 
-*Scraped **28,769** Articles*
+*Scraped **28,772** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,553
 economynextcom | 1,636
 dailyftlk | 1,711
-adalk | 2,451
+adalk | 2,454
 adaderanalk | 3,261
 tamilmirrorlk | 3,381
 virakesarilk | 4,414
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,619
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,767 (100.0%) of 28,769 articles have been extended.
+28,769 (100.0%) of 28,772 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -76,23 +76,31 @@ Stoinis hammered six sixes and two fours during a swashbuckling batting performa
 
 ---
 
-### මෛත්‍රී දුන් ජනාධිපති සමාවක් ශ්‍රේෂ්ඨාධිකරණය බලරහිත කරයි
+### Court issues the Supreme Court for Maithri
 
 *2024-06-06 10:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197451) · `si`
 
-මහත් ආන්දෝලනයකට තුඩු දුන් රාජගිරිය, රෝයල් පාක් මිනීමැරුම් සිද්ධිය සම්බන්ධයෙන් මරණීය දණ්ඩනය නියම වී සිටි ජූඩ් ශමන්ත ජයමහ නැමැති විත්තිකරුට සමාව ප්‍රදානය කර නිදහස් කිරීමට හිටපු ජනාධිපති මෛත්‍රිපාල සිරිසේන මහතා ගත් තීරණය ආණ්ඩුක්‍රම ව්‍යවස්ථාවට පටහැනි බව ශ්‍රේෂ්ඨාධිකරණය තීන්දු කළේය.
+The Supreme Court upheld Maithripala Sirisena's decision to release the murderer of Royal Park, overturning his pardon. It also ordered compensation for the victim's family and legal action against constitutional violations.
 
-ඒ අනුව හිටපු ජනාධිපතිවරයා විසින් අදාළ විත්තිකරු නිදහස් කරමින් දුන් ජනාධිපති සමාව බලරහිත බවත් තීන්දුවේ සඳහන් වුණි.
+🟩
 
-ඊට අමතරව මෛත්‍රිපාල සිරිසේන මහතා විසින් රුපියල් ලක්ෂ 10 වන්දියක් පෙත්සම්කරුට ගෙවිය යුතු බවත් නියෝග කෙරුණි.
+The Supreme Court ruled that former President Maithripala Sirisena's decision was to be released to the Defend of the Defend of the Defendance of the Royal Park Murder of the Royal Park Murder of Royal Park Murder.
 
-මේ අතර, අගතියට පත් තරුණියගේ මවට සහ පියාට රුපියල් මිලියනය බැගින් වන්දි ගෙවන ලෙසත් මෛත්‍රිපාල සිරිසේන මහතාට තවත් නියෝගයක් නිකුත් කළේය.
+Accordingly, the president's pardon was forgiven by the former President and said.
 
-මෙම ක්‍රියාව තුළින් ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා ආණ්ඩුක්‍රම ව්‍යවස්ථාව චේතනාවිතව උල්ලංඝනය කර ඇතැයි තීන්දු කළ ශ්‍රේෂ්ඨාධිකරණය මේ වන විට විදේශගතව සිටින අදාළ විත්තිකරු දේශීය හා ජාත්‍යන්තර සම්මුතින් උපයෝගී කරගෙන මෙරටට ගෙන්වීමට අවශ්‍ය නීතිමය පියවර ගන්නා ලෙසත් නීතිපතිවරයා නියම කළේය.
+In addition, Maithripala Sirisena was ordered that the petitioner had to pay Rs.
 
-...
+Meanwhile, Maithripala Sirisena released another order to compensate the demonstrators and father of the aggrieved girl.
+
+The Attorney General decided to take legal action that the Constitution had violated the constitution that the Constitution was inaugurated by this action.
+
+The decision of the Civil Apostice to the Defendant is contrary to the constitution and to judge the constitution and to judge the lack of power and judgmental. The magic was announced by a three-member judiciary of the three-member judges who are not present at Turai Raja and Yasantha Kodagoda and Janakath De Silva.
+
+◼️
 
 [Data](articles/4c3491ea.json)
+
+[Extended Data](ext_articles/4c3491ea.ext.json)
 
 ---
 
@@ -150,21 +158,39 @@ The Supreme Court declared that former President Maithripala Sirisena violated t
 
 ---
 
-### ඔස්ට්‍රේලියාවට පහසු ජයක්
+### රනිල් වික්‍රමසිංහ මහතාගේ දේශපාලන කාර්යාලය විවෘත කෙරේ
+
+*2024-06-06 10:24:09* · [`adalk`](https://www.ada.lk/breaking_news/රනිල්-වික්‍රමසිංහ-මහතාගේ-දේශපාලන-කාර්යාලය-විවෘත-කෙරේ/11-410044) · `si`
+
+ඉදිරි ජනාධිපතිවරණ දේශපාලන මෙහෙයුම් කටයුතු සිදුකිරීම් සඳහා ජනාධිපති රනිල් වික්‍රමසිංහ මහතා  සිය දේශපාලන කාර්යාලය අද කොළඹදී  විවෘත කළේය.
+
+◼️
+
+[Data](articles/b299e8bf.json)
+
+---
+
+### Easy win to Australia
 
 *2024-06-06 10:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197450) · `si`
 
-විස්සයි විස්ස ලෝක කුසලාන තරගාවලියේ අද (06) නිමාවට පත්වූ ඕමානය සහ ඔස්ට්‍රේලියාව අතර පැවති තරගය ලකුණු 39කින් ජය ලැබීමට ඔස්ට්‍රේලියාව සමත් විය.
+Australia triumphed over Oman in the T20 World Cup, scoring 164/5 with Marcus Stoinis not out on 66 and David Warner contributing 56. Oman replied with 125/9, securing Australia's victory.
 
-තරගයේ පළමුව පන්දුවට පහරදුන් ඔස්ට්‍රේලියානු කණ්ඩායම සිය ඉනිම සඳහා කඩුලු 5ක් දැවී ලකුණු 164ක් රැස් කළේය.
+🟩
 
-මාකස් ස්ටෝයිනිස් පන්දු 36කදී නොදැවී ලකුණු 67යි. ඩේවිඩ් වෝනර් ලකුණු 56යි.
+Australia won the match between Oman and Australia in the Twenty20 World Cup.
 
-පිළිතුරු ලෙස ඕමාන කණ්ඩායම සිය පන්දු ඕවර 20දී කඩුලු 9 දැවී රැස්කළේ ලකුණු 125ක් පමණි.
+Batting first, Australian team scored 164 runs for the loss of 5 wickets for their innings.
+
+Marcus Stoyinis was unbeaten on 66 balls. David Warner is 56 runs.
+
+In reply, the oubi group scored 125 runs in the loss of 9 wickets in 20 overs.
 
 ◼️
 
 [Data](articles/37efabfd.json)
+
+[Extended Data](ext_articles/37efabfd.ext.json)
 
 ---
 
@@ -451,6 +477,24 @@ The accused, along with Kerala cannabis and the dinghy were handed over to the M
 [Data](articles/2987f05e.json)
 
 [Extended Data](ext_articles/2987f05e.ext.json)
+
+---
+
+### ගංවතුරේ විනෝද වෙන්න ගිය සිසුවා ජිවිතක්ෂයට
+
+*2024-06-06 09:04:52* · [`adalk`](https://www.ada.lk/breaking_news/ගංවතුරේ-විනෝද-වෙන්න-ගිය-සිසුවා-ජිවිතක්ෂයට/11-410039) · `si`
+
+බද්දේගම ගනේගම බටහිර ප්‍රදේශයේ ගංවතුරේ ටියුබ් එකක නැගී විනෝදවූ තරුණ කණ්ඩායමක සිටි පාසැල් සිසුවෙක්  ජලයේ  ගසාගෙන ගොස් ඊයේ (‍05) ජීවිතක්ෂයට පත්වී ඇතැයි බද්දේගම පොලීසිය පවසයි.
+
+මෙසේ අවාසනාවන්ත ලෙස මියගොස් ඇත්තේ ගනේගම බටහිර, වගාහේන ප්‍රදේශයේ පදිංචි  ජී. එල්. නයන තත්සර (17)  නමැති පාසැල්  සිසුවෙකි.
+
+මෙම සිසුවා ඇතුලු ප්‍රදේශයේ තරුණ කණ්ඩායමක් එදින  ගංවතුරේ විනෝද වෙමින් සිට ඇති අතර,  මොහු පදිමින් සිටි ටියුබය  අතහැරී ඔහු ජලයේ ගසාගෙන ගොස් ඇත. පසුව ප්‍රදේශවාසියෙක  විසින් ඔහු  ගොඩගෙන බද්දේගම දිසා රෝහලේ මූලික ප්‍රතිකාර ඒකකයට  ඇතුලත් කිරීමේදී මියගොස් ඇත.
+
+මියගිය සිසුවා  බද්දේගම ක්‍රිස්තු දේව පිරිමි විද්‍යාලයේ ඉගෙනුම ලබමින් සිට ඇති අතර පසුගියදා නිමාවු  අ.පො.ස. ( සාමාන්‍ය පෙළ ) විභාගයටද  පෙනී සිට ඇත. ඔහු විද්‍යාලයේ නර්ථන අංශයේ පෙරදිග සංගීත බෙර වාදන  කණ්ඩායමේද සාමාජිකයෙකි.
+
+◼️
+
+[Data](articles/a1785d90.json)
 
 ---
 
@@ -2093,53 +2137,5 @@ Hardick Pandya scored 27 runs and 3 wickets.
 [Data](articles/5ddc5daa.json)
 
 [Extended Data](ext_articles/5ddc5daa.ext.json)
-
----
-
-### Explanatory
-
-*2024-06-05 21:13:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குழந்தையை-மிருகத்தனமாக-தாக்கியவருக்கு-விளக்கமறியல்/175-338494) · `ta`
-
-Five suspects, including two women, arrested for aiding an attack on a young child in the Arisimalai area, Pulmottai, have been remanded until June 19. The victim, a boy, is hospitalized.
-
-🟩
-
-Five suspects arrested in connection with the attack on a four -and -a -half -year -old child have been remanded until June 19.
-
-Police said that five women, including two women, were arrested on charges of aid in the Arisimalai area in Pulmottai early this morning.
-
-The arrested boy has been admitted to the hospital as the five men have been detained until the 19th of this month.. Remble
-
-◼️
-
-[Data](articles/45ac7044.json)
-
-[Extended Data](ext_articles/45ac7044.ext.json)
-
----
-
-### Karthik Flower Affairs DSI. Thanks to the company
-
-*2024-06-05 21:13:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கார்த்திகை-பூ-விவகாரம்-டி-எஸ்-ஐ-நிறுவனத்துக்கு-நன்றி-தெரிவிப்பு/175-338493) · `ta`
-
-Selvarajah Gajendran, a Tamil National People's Front MP, honored Sinhalese hero Sivakumaran in Parliament, highlighting the importance of education. He also expressed gratitude towards a footwear production company for addressing the concerns raised by the Tamil community regarding their products.
-
-🟩
-
-Martyr golden. Tamil National People's Front MP Selvarajah Gajendran DSI recalls Sivakumaran. He also thanked the footwear production company.
-
-Speaking at a discussion on the issue of the country's educational activities in Parliament on Wednesday (5), he said.
-
-I recall our tribute to the Sinhalese Pon Sivakumaran, the hero of the Sinhalese.
-
-Meanwhile. They have accepted the expectation showed by the Tamil people to the footwear company and have taken steps to recover from the inscribed footwear.
-
-We express our gratitude to the Tamil people on behalf of the company for this.
-
-◼️
-
-[Data](articles/0ecb1864.json)
-
-[Extended Data](ext_articles/0ecb1864.ext.json)
 
 ---

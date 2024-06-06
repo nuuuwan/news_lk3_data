@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-06 15:03:44**
+As of **2024-06-06 15:18:54**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,629
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,816 (100.0%) of 28,830 articles have been extended.
+28,830 (100.0%) of 28,830 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,6 +50,8 @@ While addressing a press conference at the Health Promotion Bureau, he urged the
 
 [Data](articles/e6e660b3.json)
 
+[Extended Data](ext_articles/e6e660b3.ext.json)
+
 ---
 
 ### Parliamentary Committee advocates toddy export
@@ -68,21 +70,29 @@ It was also agreed to remove the barriers to the wholesale distribution of toddy
 
 [Data](articles/d2ae9a43.json)
 
+[Extended Data](ext_articles/d2ae9a43.ext.json)
+
 ---
 
-### அத்தியாவசிய பொருட்களின் விலை குறைப்பு
+### A reduction in the price of essential commodities
 
 *2024-06-06 14:42:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அத்தியாவசிய-பொருட்களின்-விலை-குறைப்பு/175-338542) · `ta`
 
-அதன்படி, உருளைக்கிழங்கு 75 ரூபாவால் குறைக்கப்பட்டு 350 ரூபாவுக்கும், கோதுமை மா 5 ரூபாவால் குறைப்பட்டு 190 ரூபாவுக்கும் வெள்ளை கௌபீ 110 ரூபாவால் குறைப்பட்டு 990 ரூபாவுக்கும் சிவப்பு கௌபீ 45 ரூபாவால் குறைக்கப்பட்டு 950 ரூபாவுக்கும் விற்பனை செய்ய தீர்மானிக்கப்பட்டுள்ளது.
+Essential commodity prices dropped significantly: potatoes by 75 rupees, wheat flour by 5 rupees, white rice by 110 rupees, red rice by 45 rupees, and dried chili by 20 rupees. These reductions apply to all Lanka Sathosa outlets starting today (06).
 
-இதேவேளை, காய்ந்த மிளகாய் 20 ரூபாவால் குறைக்கப்பட்டு 780 ரூபாவுக்கும், நெத்தலி 20 ரூபாவால் குறைக்கப்பட்டு 930 ரூபாவுக்கும், கடலைப் பருப்பு 15 ரூபாவால் குறைக்கப்பட்டு 185 ரூபாவுக்கும் விற்பனை செய்யப்படவுள்ளன.
+🟩
 
-இந்த அத்தியாவசியப் பொருட்களின் குறைக்கப்பட்ட விலையை நாடளாவிய ரீதியில் உள்ள அனைத்து லங்கா சதொச விற்பனை நிலையங்களிலும் இன்று (06) முதல் பெற்றுக்கொள்ள முடியுமென அந்த நிறுவனம் அறிக்கை ஒன்றை வெளியிட்டுள்ளது.
+Accordingly, the potatoes have been reduced by 75 rupees and reduced by 350 rupees, the wheat maw 5 rupees and the white Gaubi 110 rupees and the Red Caubi 45 rupees to 45 rupees and Rs 950 rupees.
+
+Meanwhile, dried chilli will be reduced by 20 rupees and reduced by Rs.
+
+The company has issued a statement that the reduced prices of these essential commodities will be available at all Lanka Sathosa outlets from today (06).
 
 ◼️
 
 [Data](articles/4fecd1d3.json)
+
+[Extended Data](ext_articles/4fecd1d3.ext.json)
 
 ---
 
@@ -158,23 +168,31 @@ The network connects around 3 million people with high-speed internet across nea
 
 [Data](articles/858b9b75.json)
 
+[Extended Data](ext_articles/858b9b75.ext.json)
+
 ---
 
-### காணி பிரச்சினை நீண்டு செல்கிறது
+### Land issue stretches
 
 *2024-06-06 13:47:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காணி-பிரச்சினை-நீண்டு-செல்கிறது/175-338539) · `ta`
 
-வடக்கு, கிழக்கு மாகாணங்களில் யுத்தம் நிறைவடைந்த பின்னரும் அந்தப் பிரதேசங்களில் வாழும் மக்களின் வாழ்வாதாரத்தைப் பேணுவதற்கான காணி பயன்பாட்டுப் பிரச்சினை இன்னமும் தீர்க்கப்படாத பிரச்சினையாகவே உள்ளது.
+Despite post-war efforts, land issues persist in Northern and Eastern provinces due to protected forest boundaries and government land releases causing disputes. Traditional agricultural lands lost in areas like Ampara, Moneragala, and Trincomalee remain unrecovered despite government promises. Environmental activists argue for protecting both wildlife and agriculture, highlighting the need for balanced land use policies.
 
-குடியிருப்புகளைச் சுற்றியுள்ள பெரும்பாலான இடங்கள் பாதுகாக்கப்பட்ட வனப்பகுதியாக வர்த்தமானி வெளியிடப்பட்டிருத்தல் இதற்கு காரணமாகும். அவ்வாறே மக்களுக்கான காணிகளை விடுவிப்பதில் அரசாங்கத்தின் நடவடிக்கைகளிலும் பல பிரச்சினைகள் காணப்படுவதும் இதற்கு காரணமாக அமைவதாக எதிர்க்கட்சித் தலைவர் தெரிவித்தார்.
+🟩
 
-நிலையியற் கட்டளை 27(2) இன் கீழ் பாராளுமன்றத்தில் வியாழக்கிழமை (06) வடக்கு கிழக்கு காணி விவகாரம் தொடர்பில் கேள்வி எழுப்பும் போதே எதிர்க்கட்சித் தலைவர் மேற்கண்டவாறு தெரிவித்தார்.
+Even after the war in the Northern and Eastern Provinces, the land use issue to maintain the livelihood of the people living in those areas is still an unresolved issue.
 
-1985 ஆம் ஆண்டு நில அளவீட்டு வரைபடத்தின் படி, பாதுகாக்கப்பட்ட வனப்பகுதி மற்றும் எஞ்சிய காடுகள் விடுவிக்கப்படும் என்று கூறப்பட்டுள்ளது. இதன் பிரகாரம், விடுவிப்பதற்காக அடையாளம் காணப்பட்டுள்ள அல்லது பிரதேச செயலாளர்களினால் விடுவிக்கக் கோரப்பட்டுள்ள காணியின் அளவு என்ன?
+This is due to the fact that most of the areas around the settlements are a protected forest. Similarly, the opposition leader said that the government's actions in the release of land for the people would also cause many problems.
+
+The Opposition Leader said this while questioning the North -East Land issue in Parliament on Thursday (06) under the Standing Orders (2).
+
+According to the 1985 Land Scale Map, the protected forest and the rest of the forests will be released. Accordingly, what is the amount of land that has been identified or released by Divisional Secretaries to release?
 
 ...
 
 [Data](articles/5bca8086.json)
+
+[Extended Data](ext_articles/5bca8086.ext.json)
 
 ---
 
@@ -239,6 +257,8 @@ The next category of households using 90-120 units are proposed to be charged 30
 ...
 
 [Data](articles/a6b21f86.json)
+
+[Extended Data](ext_articles/a6b21f86.ext.json)
 
 ---
 
@@ -324,23 +344,29 @@ Stressing the importance of conveying this information to the government, he hig
 
 ---
 
-### විදුලි ගාස්තු අඩු වෙන්නේ මෙහෙමයි
+### This is how electricity tariffs down
 
 *2024-06-06 13:29:04* · [`adalk`](https://www.ada.lk/breaking_news/විදුලි-ගාස්තු-අඩු-වෙන්නේ-මෙහෙමයි/11-410052) · `si`
 
-ජූලි මාසයේ 1 වනදා සිට විදුලි බිල අඩු කිරීමට යෝජනා කර ඇති බව විදුලිබල හා බලශක්ති අමාත්‍ය කංචන විජේසේකර මහතා අද (06) පාර්ලිමේන්තුවේ දී පැවසීය.
+From July 1st, Sri Lanka's electricity tariffs will decrease, offering more relief to consumers. The Minister of Power and Energy announced a reduction in the unit price from Rs. 50 to Rs. 30 for usage between 90 to 120 units. This adjustment aims to benefit religious institutions and small businesses, with the proposal set to be reviewed by the Public Utilities Commission soon.
 
-නව විදුලි බිල අඩුකිර‍ිමේ යෝජනා අනුව ග‍ාහස්ත විදුලි පාරිභෝගිකයන් වෙනුවෙන් වැඩි සහනයක් හිමිවීමට නියමිතය.
+🟩
 
-මෙහිදී ඒ් ඒ් ඒකක පරාසයන්වලිදී විදුලි ගාස්තු අඩුවන ආකාරය අමාත්‍යවරයා විසින් පාර්ලිමේන්තුවට පැහැදිලි කළේය.
+Minister of Power and Energy Kanchana Wijesekara said that the electricity and energy bill was proposed to reduce the electricity bill from 1st July.
 
-ඒකක 90 - 120 අතර ඒකකයක මිල රුපියල් 50 සිට 30 දක්වා අඩු වෙයි.
+The new electricity tariff proposals will be able to provide more relief to the electricity consumers.
 
-ආගමික ස්ථාන සහ කුඩා කර්මාන්ත සඳහා ද මෙම සහනය ලබාදීමට නියමිත බවත් එම යෝජනාව හෙට (07) හෝ සඳුදා දිනයේ දී මහජන උපයෝගීතා කොමිසම වෙත භාරදීමට නියමිත බවත් අමාත්‍යවරයා වැඩිදුරටත් පැවැසීය.
+The Minister explained to parliament how to reduce electricity tariffs during the list.
+
+The price of the unit between 90 to 120 units reduce from Rs. 50 to 30.
+
+The relief is due to be given to religious places and small industries and that the proposal is to be handed over to the Public Utilities Commission tomorrow (07) or on Monday.
 
 ◼️
 
 [Data](articles/27973552.json)
+
+[Extended Data](ext_articles/27973552.ext.json)
 
 ---
 
@@ -768,17 +794,23 @@ Accordingly, the apology issued by the former president has been ruled out.. Rem
 
 ---
 
-### மைத்திரியின் பொது மன்னிப்பு செல்லாது
+### Maithri's general apology will not go away
 
 *2024-06-06 11:21:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மைத்திரியின்-பொது-மன்னிப்பு-செல்லாது/175-338528) · `ta`
 
-இராஜகிரிய, ரோயல் பார்க் கொலைச் சம்பவம் தொடர்பில் மரண தண்டனை விதிக்கப்பட்டிருந்த ஜூட் ஷமந்த ஜயமஹா என்பவருக்கு முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன மன்னிப்பு வழங்கி விடுதலை செய்த தீர்மானம் அரசியலமைப்புக்கு எதிரானது என உயர் நீதிமன்றம் தீர்ப்பளித்துள்ளது.
+The Supreme Court found Maithripala Sirisena's pardon unconstitutional, invalidating his apology over the pardon granted to Jude Shamanta Jayamaha, convicted in the Rajagiriya and Royal Park murders.
 
-இதன்படி, குறித்த பிரதிவாதியை விடுவித்து முன்னாள் ஜனாதிபதி வழங்கிய மன்னிப்பு செல்லுபடியற்றது என தீர்ப்பளிக்கப்பட்டுள்ளது. R
+🟩
+
+The Supreme Court has ruled that the resolution of former President Maithripala Sirisena's pardon for Jude Shamanta Jayamaha, who was sentenced to death in the Rajagiriya and Royal Park murder, was against the constitution.
+
+Accordingly, the apology issued by the former president has been ruled out.. Remble
 
 ◼️
 
 [Data](articles/696c680e.json)
+
+[Extended Data](ext_articles/696c680e.ext.json)
 
 ---
 
@@ -841,6 +873,8 @@ Korean Foreign Minister Lee Jung-Sik assured more employment opportunities for S
 ...
 
 [Data](articles/7ba1e896.json)
+
+[Extended Data](ext_articles/7ba1e896.ext.json)
 
 ---
 
@@ -1174,6 +1208,8 @@ In equities, Colombo’s All Share Price Index gained 93.74 points to 12,283 and
 
 [Data](articles/d271c62b.json)
 
+[Extended Data](ext_articles/d271c62b.ext.json)
+
 ---
 
 ### Student killed in clashes between students
@@ -1198,21 +1234,27 @@ The suspect is a 17 year old in Hambantota a resident of Hambantota. It has been
 
 ---
 
-### வெள்ளத்தில் மாயமான மாணவன் சடலமாக மீட்பு
+### Recovery of a mysterious student in flood
 
 *2024-06-06 10:11:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெள்ளத்தில்-மாயமான-மாணவன்-சடலமாக-மீட்பு/175-338522) · `ta`
 
-அங்குருவத்தோட்ட பொலிஸ் பிரிவிற்குட்பட்ட நேபட நியூச்செட்டல் தோட்டத்தில் வெள்ளத்தில் சிக்கி காணாமல் போயிருந்த மாணவனின் சடலம் கண்டுபிடிக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+A 17-year-old schoolgirl's body was found in a flood in the Nappa Newchel estate, under the Angruvathota police division. The discovery was made in the Udura Gramasevar section, and her remains are now at Horana Hospital while the Angruvatti police continue their investigation.
 
-குறித்த பகுதியில் உள்ள பாடசாலை மாணவர் ஒருவர் வெள்ளத்தில் சிக்கியதாக நேற்று தெரியவந்தது.
+🟩
 
-பின்னர் அங்குருவத்தோட்ட பொலிஸ் பிரதேசத்தில் உடுவர கிராமசேவர் பிரிவில் 17 வயதுடைய பாடசாலை மாணவனின் சடலம் நேற்று மீட்கப்பட்டிருந்தது.
+The body of a student who was missing in a flood in the Nappa Newchel estate, which belongs to the Angruvathota police division, has been found, police said.
 
-சடலம், ஹொரணை வைத்தியசாலையில் வைக்கப்பட்டுள்ளதுடன், அங்குருவத்தோட்ட பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர். R
+It was revealed yesterday that a schoolgirl in the area was flooded.
+
+The body of a 17 -year -old schoolgirl was recovered yesterday in the Udura Gramasevar section of the Angruvathota police area.
+
+The body is being kept at the Horana Hospital and the Angruvatti police are conducting further investigations.. Remble
 
 ◼️
 
 [Data](articles/7d90ad1a.json)
+
+[Extended Data](ext_articles/7d90ad1a.ext.json)
 
 ---
 
@@ -1414,6 +1456,8 @@ Pretax profits rose to 29.2 billion from 23.4 billon last year. Net profit was 2
 
 [Data](articles/1fac407a.json)
 
+[Extended Data](ext_articles/1fac407a.ext.json)
+
 ---
 
 ### Parliamentary Council begins
@@ -1515,6 +1559,8 @@ The International Monetary Fund has scheduled a meeting on June 12, to consider 
 ◼️
 
 [Data](articles/eac1a158.json)
+
+[Extended Data](ext_articles/eac1a158.ext.json)
 
 ---
 

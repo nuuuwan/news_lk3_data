@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-07 03:03:56**
+As of **2024-06-07 03:18:48**
 
 ## Newspaper Stats
 
-*Scraped **28,949** Articles*
+*Scraped **28,951** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 261
+colombotelegraphcom | 263
 dbsjeyarajcom | 275
 bbccomsinhala | 281
 newsfirstlk | 363
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,641
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,948 (100.0%) of 28,949 articles have been extended.
+28,949 (100.0%) of 28,951 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -190,17 +190,27 @@ There was a recent meme (an image, video or piece of text) on Facebook which por
 
 ---
 
-### ’வடக்கு, கிழக்கில் காணி பிரச்சினை தீர்க்கப்படாத பிரச்சினை’
+### Land issue in the North and East
 
 *2024-06-07 00:39:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வடக்கு-கிழக்கில்-காணி-பிரச்சினை-தீர்க்கப்படாத-பிரச்சினை/175-338575) · `ta`
 
-பாரம்பரிய விவசாய நிலங்கள் விடுவிக்கப்படும் என ஜனாதிபதி பல்வேறு மாவட்டங்களுக்கான தனது விஜயத்தின் போது உறுதியளித்துள்ள போதிலும் அது பேச்சளவில் மட்டுமே இருந்து வருகிறது.வடக்கு, கிழக்கு மாகாணங்களில் யுத்தம் நிறைவடைந்த பின்னரும் அந்தப் பிரதேசங்களில் வாழும் மக்களின் வாழ்வாதாரத்தைப் பேணுவதற்கான காணி பயன்பாட்டுப் பிரச்சினை இன்னமும் தீர்க்கப்படாத பிரச்சினையாகவே உள்ளது என எதிர்க்கட்சித்தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+Despite post-war promises, land issues persist in Sri Lanka's Northern and Eastern provinces, affecting traditional agriculture and livelihoods. Protected forests hinder land releases, and government actions fall short. Environmental laws complicate matters further, impacting farmers' rights and the future of agriculture.
 
-நிலையியற் கட்டளை 27(2) இன் கீழ் பாராளுமன்றத்தில் வியாழக்கிழமை (06)  வடக்கு கிழக்கு காணி விவகாரம் தொடர்பிலேயே  இவ்வாறு தெரிவித்த எதிர்க்கட்சித் தலைவர்  மேலும் பேசுகையில்,
+🟩
+
+Opposition Leader Sajith Premadasa said that the issue of land use to maintain the livelihood of the people living in those areas after the end of the war in the Northern and Eastern Provinces, despite his visit to various districts.
+
+The Leader of the Opposition in the North -East Land issue on Thursday (06) in Parliament under the Standing Orders (2) (2)
+
+Even after the end of the war in the Northern and Eastern Provinces, the land use issue to maintain the livelihood of the people living in those areas is still an unresolved issue.. This is due to the fact that most of the areas around the settlements are a protected forest. Similarly, there are many problems in the government's actions in the release of land for the people.
+
+According to the 1985 Land Scale Map, the protected forest and the rest of the forests will be released. Accordingly, what is the amount of land that has been identified or released by Divisional Secretaries to release?
 
 ...
 
 [Data](articles/7dea156f.json)
+
+[Extended Data](ext_articles/7dea156f.ext.json)
 
 ---
 
@@ -673,6 +683,32 @@ Further he disclosed that within the last five months of this year, over 25,000 
 [Data](articles/6c9066f0.json)
 
 [Extended Data](ext_articles/6c9066f0.ext.json)
+
+---
+
+### Should The Economic Transformation Bill Proceed? – Part II
+
+*2024-06-06 20:54:15* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/should-the-economic-transformation-bill-proceed-part-ii/) · `en`
+
+Part – I examined Sections 3 and 4 of the Economic Transformation Bill (ETB), which set targets for debt to GDP, debt financing needs, GDP growth rates, exports to GDP, employment expectations, and foreign direct investment from 2024 to 2032 and up to 2048, the year of Advanced Economic Status as envisaged by ETB. It also discussed inclusive growth and social progress. A proposed new institutional setup to spearhead investment in ETB was also indicated. A critical view of the content of PARTI is presented below.
+
+...
+
+[Data](articles/38c596bb.json)
+
+---
+
+### Strict Laws Against Those Distorting Buddha’s Teachings: A Point Of View
+
+*2024-06-06 20:53:47* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/strict-laws-against-those-distorting-buddhas-teachings-a-point-of-view/) · `en`
+
+I refer to the front page headlined news report in the Daily News paper dated 23 May 2024, where the Buddha Sasana, Religious and cultural Affairs Ministry Secretary, Somaratne Vidanapathirana, is reported to have said that the Government would bring strict Laws against those who distort Buddha’s teachings, in response to a complaint made by the Heads of Buddhist Nickayas.,
+
+As a Hindu, having an interest in religion and spirituality, I wish to express my views, as an independent observer, on this matter as follows:
+
+...
+
+[Data](articles/2cca318d.json)
 
 ---
 
@@ -2203,45 +2239,5 @@ A protest in front of the Ceylon Electricity Board (CEB) head office today deman
 [Data](articles/ea734ce1.json)
 
 [Extended Data](ext_articles/ea734ce1.ext.json)
-
----
-
-### Balangoda Kassapa arrested
-
-*2024-06-06 15:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197462) · `si`
-
-Balangoda Kassapa, leading a hunger strike against a proposed TV bill, was arrested by Talangama Police within 10 minutes.
-
-🟩
-
-The Balangoda Kastewe holders have been arrested by Talangama Police today (06).
-
-While engaging in a hunger strike against the proposed television bill.
-
-He was arrested by the Talangama police officers who arrived in about 10 minutes after the fast.
-
-◼️
-
-[Data](articles/b34bd1c2.json)
-
-[Extended Data](ext_articles/b34bd1c2.ext.json)
-
----
-
-### Maldives Foreign Minister - Public Security Minister meets
-
-*2024-06-06 15:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/185449) · `ta`
-
-In Sri Lanka, Maldives' Foreign Minister Musa Zamir met with Public Security Minister Tran Ales during their official visit.
-
-🟩
-
-A meeting was held between Maldives Foreign Minister Musa Zamir and Public Security Minister Tran Ales, who are on an official visit to Sri Lanka.
-
-◼️
-
-[Data](articles/585deaa5.json)
-
-[Extended Data](ext_articles/585deaa5.ext.json)
 
 ---

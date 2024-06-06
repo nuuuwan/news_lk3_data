@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-06 18:35:43**
+As of **2024-06-06 18:53:31**
 
 ## Newspaper Stats
 
-*Scraped **28,885** Articles*
+*Scraped **28,886** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,553
 economynextcom | 1,642
 dailyftlk | 1,711
-adalk | 2,468
+adalk | 2,469
 adaderanalk | 3,278
 tamilmirrorlk | 3,394
 virakesarilk | 4,433
@@ -26,29 +26,35 @@ adaderanasinhalalk | 4,636
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,874 (100.0%) of 28,885 articles have been extended.
+28,885 (100.0%) of 28,886 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-06 (Thursday)
 
-### පනත් කෙටුම්පත් 2කට එරෙහි පෙත්සම් විභාග කෙරේ
+### Petitions against 2 bills are examined
 
 *2024-06-06 18:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197470) · `si`
 
-රජය විසින් පාර්ලිමේන්තුවට ඉදිරිපත් කර තිබෙන ආර්ථික පරිවර්තන පනත් කෙටුම්පත සහ රාජ්‍ය මූල්‍ය කළමනාකරණ පනත් කෙටුම්පතේ ඇතැම් වගන්ති ආණ්ඩුක්‍රම ව්‍යවස්ථාවට පටහැනි බවට තීන්දුවක් ලබා දෙන ලෙස ඉල්ලා ගොනුකර තිබෙන පෙත්සම් අද (06) ශ්‍රේෂ්ඨාධිකරණය හමුවේ විභාග කිරීම ආරම්භ වුණි.
+Today, several petitions against two government economic bills were filed with the Supreme Court. Petitioners include members of the Unmangerage Organization, Wimal Weerawansa, and others, as well as 17 other parties. They argue the bills were improperly brought under presidential authority.
 
-මෙම පෙත්සම් අද එස්. තුරෙයි රාජා, ඒ. එච්. එම්. ඩී. නවාස් සහ ශිරාන් ගුණරත්න යන ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ සලකා බැලීම සිදු කෙරෙයි.
+🟩
 
-සර්වජන බලය සංවිධානයේ පාර්ලිමේන්තු මන්ත්‍රීවරුන් වන විමල් වීරවංශ, උදය ගම්මන්පිල, ගෙවිඳු කුමාරතුංග, මහාචාර්ය චන්න ජයසුමන සහ ව්‍යවසායක දිලිත් ජයවීර, වෛද්‍ය ජී. වීරසිංහ සහ නිමල් රණවක ඇතුළු පිරිසක් විසින් එක්ව පෙත්සම ඉදිරිපත් කර තිබේ.
+The petitions were begun today (06) the Supreme Court today (06) asking the Economic Bill of the Government to a decision.
 
-ඊට අමතරව සමගි ජන බලවේගය, පෙරටුගාමී සමාජවාදී පක්‍ෂය, ජාතික ජන බලවේගය, ඇතුළු පාර්ශ්ව 17 ක් විසින් පෙත්සම් ඉදිරිපත් කර ඇත.
+These petitions are today. Thura Raja, A. H. M. D. The remains of Nawaz and Shiran Gunaratne will consider before the Supreme Court Bench.
 
-පෙත්සම්කරුවන් කියා සිටින්නේ යෝජිත පනත් කෙටුම්පත් තුළින් පාර්ලිමේන්තුව සතු රාජ්‍ය මූල්‍ය බලය ජනාධිපතිවරයා යටතට පත් කිරීමට කටයුතු කර ඇති බවය.
+Members of the Unmangerage Organization, Wimal Weerawansa, Udaya Gammanpila, Geneya Gammanpila, Genee Gammanpila, Prof. Channa Jayarawana and Entreprenevive Dilith Jayaweera, Dr. G. Weerasinghe and Nimal Ranawaka have joined the petition.
+
+In addition, petitions have been submitted by 17 parties including the Frontline Socialist Party, the Frontline Socialist Party, the National Folk Force.
+
+The petitioners claim that the proposed bills have been brought under the President under the President under the President.
 
 ◼️
 
 [Data](articles/b080d185.json)
+
+[Extended Data](ext_articles/b080d185.ext.json)
 
 ---
 
@@ -68,6 +74,8 @@ The Bill seeks to provide for the establishment of the National Electricity Advi
 
 [Data](articles/e7ab91a4.json)
 
+[Extended Data](ext_articles/e7ab91a4.ext.json)
+
 ---
 
 ### Schools to be networked and digitized by July
@@ -85,6 +93,8 @@ He said the teachers should also be equipped to handle challenges such as managi
 ...
 
 [Data](articles/86e67a35.json)
+
+[Extended Data](ext_articles/86e67a35.ext.json)
 
 ---
 
@@ -112,41 +122,69 @@ However, the opposition parties urged the government to hold a debate at least t
 
 ---
 
-### காசாவில்  ஐநா பாடசாலை மீது இஸ்ரேல் மேற்கொண்ட தாக்குதலில் கொல்லப்பட்டவர்களில் 14 பேர் சிறுவர்கள் - காசா சுகாதார அமைச்சு
+### අවුරුදු 21 දී ප්‍රථම උපාධිය සම්පූර්ණ කිරීමට අවස්ථාව
+
+*2024-06-06 17:51:38* · [`adalk`](https://www.ada.lk/breaking_news/අවුරුදු-21-දී-ප්‍රථම-උපාධිය-සම්පූර්ණ-කිරීමට-අවස්ථාව/11-410057) · `si`
+
+අපොස සාමාන්‍ය පෙළ විභාගය අවසන් වූ වහා ම උසස් පෙළ පන්ති ආරම්භ කිරීමේ අභියෝගාත්මක කටයුත්තට ප්‍රවේශ වූයේ විභාග කල් පසු වෙමින් පැවතීම නිසා අධ්‍යයන කටයුතු අතපසු වෙමින් යාමේ ගැටලුවලට මුහුණ දෙන වින්දිතයන් බවට පත් ව ඇති පාසල් දරු දැරියන් වෙනුවෙන් බව අධ්‍යාපන අමාත්‍ය ආචාර්ය සුසිල් ප්‍රේමජයන්ත මහතා පැවසී ය.
+
+අමාත්‍යවරයා මේ බව පැවසුවේ පසුගියදා අවසන් වූ සාමාන්‍ය පෙළ විභාගයට මුහුණ දුන් දරුවන් සඳහා උසස් පෙළ අධ්‍යයන කටයුතු ආරම්භ කිරීම වෙනුවෙන් කොළඹ නාලන්ද විද්‍යාලයේ අද පැවති වැඩසටහනකට ප්‍රධාන ආරාධිතයා ලෙස එක් වෙමිනි.
+
+මෙවර පැවති අපොස සාමාන්‍ය පෙළ විභාගයට පෙනී සිටි පිරිස පෞද්ගලික අයදුම්කරුවන් ද සමග තුන්ලක්ෂ තිස්හත්දහක පමණ දරුවන් සංඛ්‍යාවක් බවත් ඉන් දෙලක්ෂ අසූදහසක පමණ පිරිසක් පාසල් සිසුන් බවත් අමාත්‍යවරයා සඳහන් කළේ ය.
+
+...
+
+[Data](articles/0dc8a8c4.json)
+
+---
+
+### 14 of those killed in Israel's attack on UN school in Gaza - Gaza Health Ministry
 
 *2024-06-06 17:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/185471) · `ta`
 
-காசாவின் மத்தியில் உள்ள ஐநாவின் பாடசாலைமீது இஸ்ரேல் மேற்கொண்ட தாக்குதலில் 14 சிறுவர்கள் உட்பட 40 பேர் கொல்லப்பட்டுள்ளதாக காசாவின் சுகாதார அமைச்சின் அதிகாரிகள் தெரிவித்துள்ளனர்.
+Israel's attack on a UN school in Gaza resulted in 40 deaths, including 14 children, with two boys and nine girls among them. The incident occurred amidst reports of displacement and accusations from Hamas about false justifications for the conflict.
 
-40 பேரில் 14 பேர் சிறுவர்கள் 9 பேர் பெண்கள் என காசாவின் சுகாதார அமைச்சின் அதிகாரிகள் இருவர் ரொய்ட்டருக்கு தெரிவித்துள்ளனர்.
+🟩
 
-நுசெய்ரட் அகதிமுகாமில் உள்ள பாடசாலையின் மேல்தளத்தில் காணப்பட்ட இரண்டு வகுப்பறைகள் மீது இஸ்ரேலிய விமானங்கள் ஏவுகணை தாக்குதலை மேற்கொண்டன என நேரில் பார்த்த ஊடகவியலாளர்கள் தெரிவித்துள்ளனர்.
+Officials of Gaza's Health Ministry said that Israel's attack on the UN school in the middle of Gaza was killed by 40 people, including 14 children.
 
-போதும் நாங்கள் பல தடவை இடம்பெயர்ந்துள்ளோம் உறக்கத்திலிருந்த நான்கு பிள்ளைகளை அவர்கள் கொன்றுவிட்டனர் என காயமடைந்த பெண்ணொருவர் கதறுவதை வீடியோ காண்பித்துள்ளது.
+Two of the 40s of the 40 are boys, nine girls, two of Gaza's Health Ministry officials have reported to Reuters.
 
-ஆக்கிரமிப்பு படையினர் இடம்பெயர்ந்த மக்களிற்கு எதிராக தாங்கள் மேற்கொள்ளும் ஈவிரக்கமற்ற போரை நியாயப்படுத்த கட்டுக்கதைகளை வெளியிடுகின்றனர் என ஹமாஸ் தெரிவித்துள்ளது.
+According to journalists who witnessed the Israeli airplane attack on two classrooms found on the top of the school in Nusair
+
+We have been displaced many times.
+
+Hamas has reported that the occupation forces are publishing myths to justify their ruthless war against displaced people.
 
 ◼️
 
 [Data](articles/3f82cc2b.json)
 
+[Extended Data](ext_articles/3f82cc2b.ext.json)
+
 ---
 
-### பயங்கரவாத எதிர்ப்பு பொலிஸாரை களமிறக்கி 'தமிழ் மக்களின் வாழ்வை சிதைக்கும் திட்டம்'
+### 'Plan to disrupt the lives of Tamil people'
 
 *2024-06-06 17:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/185467) · `ta`
 
-வடக்கு, கிழக்கில் அரசியல் செயற்பாட்டாளர்களை தொடர்ச்சியாக விசாரணை செய்து அச்சுறுத்தி தமிழ் மக்களின் இயல்பு வாழ்க்கையை சிதைக்கும் திட்டத்தை பயங்கரவாத தடுப்பு பொலிஸார் முன்னெடுத்து வருவதாக தமிழ் அரசியல் தலைவர் ஒருவர் குற்றஞ்சாட்டியுள்ளார்.
+A Tamil political leader accuses the police of disrupting Tamil life through continuous investigations and threats against activists in the North and East of Sri Lanka. The leader, Sivagnanam Sreedharan, calls on the president to halt this oppression, highlighting cases of individuals summoned by the CTID and one arrested, Selvanayagam Anandavarnan, who was previously associated with the LTTE but now works for the education of its former members' children. The letter urges the president to address public discontent and release detainees.
 
-கடந்த மூன்று மாதங்களில் மாத்திரம் பயங்கரவாத தடுப்பு மற்றும் புலனாய்வுப் பிரிவினரால் (CTID) அழைக்கப்பட்ட ஏழு தமிழர்களின் விபரங்களைத் தெரிவித்த, இலங்கை தமிழ் அரசு கட்சியின் நாடாளுமன்ற உறுப்பினர் சிவஞானம் சிறீதரன், இந்த அடக்குமுறையை நிறுத்துமாறு ஜனாதிபதியிடம்  கேட்டுக் கொண்டுள்ளார்.
+🟩
 
-ஜூன் 4ஆம் திகதி ஜனாதிபதி ரணில் விக்ரமசிங்கவிற்கு அனுப்பிய கடிதத்தின் பிரதி அன்றைய தினமே நாடாளுமன்றத்திலும் அவரால் சமர்ப்பிக்கப்பட்டது.
+A Tamil political leader has alleged that the terrorist police are carrying out a plan to shatter the Tamil people's normal life by continuously investigating and threatening political activists in the North and East.
 
-கடிதம் அனுப்பப்பட்ட தினமான ஜுன் 4ஆம் திகதி தமிழ் அரசு கட்சியின் மத்திய செயற்குழு உறுப்பினர் கருப்பையா ஜெயக்குமார் பயங்கரவாத தடுப்பு மற்றும் புலனாய்வுப் பிரிவின் கிளிநொச்சி அலுவலகத்திற்கு அழைக்கப்பட்டு விசாரிக்கப்பட்டுள்ளார்.
+Sivagnanam Sreedharan, a member of the Sri Lanka Tamil State Party, has asked the president to stop the oppression in the last three months, reporting the details of the seven Tamils ​​called by the Prevention of Terrorism and Investigation Division (CTID).
+
+The copy of the letter sent to President Ranil Wickremesinghe on June 4 was presented by Parliament on the same day.
+
+On the day of the letter sent by the Central Executive Committee member of the Tamil State Party, Karupaya Jayakumar, has been summoned to the Kilinochchi office of the Terrorism and Investigation Unit.
 
 ...
 
 [Data](articles/1d561d91.json)
+
+[Extended Data](ext_articles/1d561d91.ext.json)
 
 ---
 
@@ -187,6 +225,8 @@ A total of 103 MPs voted in favour of the Bill while 59 MPs voted against.
 ◼️
 
 [Data](articles/c299c363.json)
+
+[Extended Data](ext_articles/c299c363.ext.json)
 
 ---
 
@@ -230,19 +270,27 @@ Opposition parliamentarians including those from the ‘Samagi Jana Balawegaya�
 
 ---
 
-### எதிர்க்கட்சித் தலைவர் சஜித் யாழ் விஜயம்!
+### Opposition Leader Sajith visits Jaffna
 
 *2024-06-06 17:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/185465) · `ta`
 
-ஐக்கிய மக்கள் சக்தியின் தலைவரும் எதிர்க்கட்சித் தலைவருமான சஜித் பிரேமதாச எதிர்வரும் ஞாயிற்றுக்கிழமை (09) தொடக்கம் வியாழக்கிழமை வரை (13) யாழ்ப்பாண தேர்தல் மாவட்டத்திற்கு விஜயம் செய்யவுள்ளார்.
+Sajith Premadasa, the United People's Power Leader and Opposition Leader, will visit Jaffna from September 9th to 13th, focusing on educational development by donating smart classrooms worth Rs 11 lakh each to several schools across the region. Additionally, he plans to donate a bus to Victoria College in Chiripuram and engage in various social and political activities, meeting with local leaders and intellectuals.
 
-குறித்த விடயத்தை ஐக்கிய மக்கள் சக்தியின் ஊடகப் பேச்சாளரும் பிரதிச் செயலாளருமான உமாச்சந்திரா பிரகாஷ் தெரிவித்தார்.
+🟩
 
-எதிர்வரும் ஞாயிற்றுக்கிழமை (9) கிளிநொச்சி தொகுதி பிரதம அமைப்பாளர் மரியதாஸ் மரியசீலன் தலைமையில் கிளிநொச்சி பாரதி வித்தியாலயம், யாழ்ப்பாண தொகுதி பிரதம அமைப்பாளர் வெற்றிவேலு யஜேந்திரன் தலைமையில் வைத்தீஸ்வரா கல்லூரி, நல்லூர் தொகுதி பிரதம அமைப்பாளர் அ. கிருபாகரன் தலைமையில் சென். பெனடிக்ற் வித்தியாலயம் ஆகிய பாடசாலைகளுக்கு தலா 11 லட்சம் பெறுமதியான ஸ்மார்ட் வகுப்பறைகளை வழங்கி வைப்பார்.
+United People's Power Leader and Opposition Leader Sajith Premadasa will visit the Jaffna election district from Sunday (09) to Thursday (13).
+
+Umachandra Prakash, United People's Power Media Spokesperson and Deputy Secretary, said the matter.
+
+Kilinochchi Bharathi Vidyalayam led by Kilinochchi constituency chief organizer Mariyadas Mariaseelan on Sunday (9) under the patronage of Vattiswara College, Nallur Vol.. Sen led by Kripakaran. He will provide smart classrooms worth Rs 11 lakh each to schools and schools.
+
+Opposition Leader of the Point Pedro and Udupitti constituencies will present smart classrooms worth Rs 11 lakh each to the US Mission Tamil Kalavan School and Udupiti Women's College, Kotawattai. On that day, Kankesanthurai constituency chief organizer Wanniyasingham Prabhakaran will donate a smart classroom worth Rs 11 lakh to Alavetti Arunodaya College.
 
 ...
 
 [Data](articles/8fdbebfa.json)
+
+[Extended Data](ext_articles/8fdbebfa.ext.json)
 
 ---
 
@@ -352,21 +400,29 @@ On Wednesday evening (05), the 13-year-old boy visited the neighboring house whe
 
 ---
 
-### யாழ்.அச்சுவேலி உலவிக்குளம் ஆலய உப தலைவர் மீது கோடாரியினால் தாக்குதல்
+### Jaffna Achuveli Ulavikkulam Temple Vice President Attack by ax attack
 
 *2024-06-06 16:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/185461) · `ta`
 
-யாழ்ப்பாணம் அச்சுவேலி உலவிக்குளம் ஆலய உப தலைவர் மீது கோடாரியினால் தாக்குதல் நடத்தப்பட்டுள்ளது.  அச்சுவேலி பகுதியை சேர்ந்த 38 வயதுடைய நபர் மீதே தாக்குதல் நடத்தப்பட்டுள்ளது.
+In Jaffna, a 38-year-old man was attacked with an axe by a masked gang while riding his motorcycle. The incident occurred near the Achuveli Uruvikkulam Temple, where tensions have been rising due to disputes over land ownership. The victim is receiving treatment at Achuveli Hospital, and the case is under investigation by local authorities.
 
-குறித்த நபர் வேலைக்கு செல்வதற்காக இன்று வியாழக்கிழமை (06) காலை , தனது மோட்டார் சைக்கிளில் பயணித்துக்கொண்டிருந்த வேளை , உலவிக்குளம் பிள்ளையார் கோவிலுக்கு முன்பாக இரண்டு மோட்டார் சைக்கிளில் வந்த ஐவர் அடங்கிய வன்முறை கும்பல் நபரை வழிமறித்து தாக்குதல் மேற்கொண்டு , கோடரியினால் தாக்கி படுகாயம் ஏற்படுத்தி விட்டு தப்பி சென்றுள்ளனர்.
+🟩
 
-தாக்குதலாளிகள் தங்கள் முகங்களை கறுத்த துணியினால் மூடிக்கட்டி இருந்தனர் என தாக்குதலுக்கு இலக்கான நபர் பொலிசாரிடம் தெரிவித்துள்ளார் .
+The ax has been attacked by an ax at the Jaffna Achuveli Uruvikkulam Temple Deputy Chairman.A 38 -year -old man from Achuveli has been attacked.
 
-காயமடைந்த நபர் அச்சுவேலி வைத்தியசாலையில் சிகிச்சை பெற்று வரும் நிலையில் அச்சுவேலி பொலிஸார் விசாரணைகளை முன்னெடுத்துள்ளனர்.
+While traveling on his motorcycle on Thursday morning (06), a five -man -of -a -two motorcycle violent gang was attacked by an ax and escaped.
 
-...
+The attackers told the police that the attackers had covered their faces with a black cloth.
+
+Achuveli police are conducting investigations as the injured person is being treated at the Achuveli Hospital.
+
+Meanwhile, when the temple administrators were set up by the temple administration, the temple's land and the nearby land were opposed by the youths protested by the temple administration, which was taken up by unidentified persons who had been placed around the land last April.. It is noteworthy that a complaint is lodged at the Achuveli Police Station and is being investigated.
+
+◼️
 
 [Data](articles/2127a292.json)
+
+[Extended Data](ext_articles/2127a292.ext.json)
 
 ---
 
@@ -526,21 +582,27 @@ It is proposed to sign an Investment Protection Treaty, Double Tax Avoidance Agr
 
 ---
 
-### வடக்கு,கிழக்கு, மலையக மாணவர்களின் கல்வி வளர்ச்சிக்கு கல்வியலாளர்கள் ஒன்றிணைய வேண்டும்  ; உயர்தர பரீட்சை முடிவுகள் மனதிற்கு நிம்மதி தருகிறது - கலாநிதி ஆறு திருமுருகன்
+### Educators must unite to the educational development of the North, East and Upcountry Students;The results of the GCE Advanced Level Examination are relieved - Dr. Six Thirumurugan
 
 *2024-06-06 16:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/185451) · `ta`
 
-வடக்கு ,கிழக்கு மற்றும் மலையக மாணவர்களின் கல்வி வளர்ச்சிக் கல்வியலாளர்கள் ஒன்றிணைய வேண்டும். வடக்கின்  க.பொ.த உயர்தர பரீட்சை முடிவுகள் மனதிற்கு நிம்மதி தருகிறது என  தொல்லிப்பளை துர்கை அம்மன் தேவஸ்தான தலைவர் கலாநிதி ஆறு திருமுருகன் தெரிவித்தார்.
+Dr. Six Thirumurugan commends the educational progress of North, East, and Upcountry students, highlighting the commendable results of the GCE Advanced Level Examination. He urges educators to unite for improved education, emphasizing the importance of discipline, timely preparation, and collaboration among scholars.
 
-கல்வி பொதுதராதர உயர்தர பரீட்சை முடிவுகள் மற்றும் கல்வி நிலமைகள் தொடர்பில் கேட்டபோதே அவர் இதனை தெரிவித்தார்.
+🟩
 
-வடக்கில் கல்விப் பெறுபேறுகள் அதிகரித்துள்ளமை பாராட்டத்தக்கது அண்மையில் வெளியான  உயர் தரப் பரீட்சைகளின் பெறுபேறுகள் வடக்கு மாகாணத்தை பொறுத்த வரையில்  மனதிற்கு திருப்தி தருகின்றது. இந்த முயற்சிகளை எடுத்த பாடசாலை அதிபர் ஆசிரியர்களுக்கு  பாராட்டுக்கள்.
+Educational development academics of the North, East and Upcountry Students. The results of the GCE Advanced Level Examination of the North are relieved, said Dr. Durga Amman Devasthanam leader Dr. A six Thirumurugan.
 
-வடக்கின் கல்வி தொடர்பாக பல்வேறு குற்றச்சாட்டுக்கள் இருந்தபோதிலும் இவற்றைப் பொருட்படுத்தாது பாடசாலை அதிபர், ஆசிரியர்கள், கூடிய கவனம் எடுத்து ஆர்வம் காட்டியமை பாராட்டத்தக்கது.இவ்வாறானவர்களுக்கு எமது நன்றியுடையவர்களாக இருப்பதுடன் இவர்களுக்கு உதவிகளையும் செய்யவேண்டும்.
+He made this statement when he was asked about the results of the Education General Level Examination and the conditions of education.
+
+Increasing education outcomes in the North is commendable.. Congratulations to the school principal teachers who made these efforts.
+
+Despite various allegations regarding the education of the North, it is commendable that the school principal, teachers, and interested in interest are commendable.
 
 ...
 
 [Data](articles/2c428ec0.json)
+
+[Extended Data](ext_articles/2c428ec0.ext.json)
 
 ---
 
@@ -642,19 +704,25 @@ The judge bench, which concluded the hearing of the petitions following the comp
 
 ---
 
-### ஐ.நா.வின் வதிவிட பிரதிநிதி முல்லைத்தீவு மாவட்ட செயலாளருடன் சந்திப்பு
+### UN Resident Representative meets Mullaitivu District Secretary
 
 *2024-06-06 15:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/185450) · `ta`
 
-இலங்கைக்கான ஐக்கிய நாடுகள் சபையின் வதிவிட  பிரதிநிதி மார்க் ஆண்ட்ரே பிராஞ் (Marc-André Franche) இன்று வியாழக்கிழமை (06)  முல்லைத்தீவு மாவட்டத்திற்கு விஜயம் மேற்கொண்டுள்ளார்.
+Mark André Franche, UN Resident Representative, met with Mullaitivu District officials including Secretary A. Uma Maheshwaran to discuss development needs and challenges. Present were also S. Gunapalan, Va Kripasudhan, Rajinikan, and UN Adivasi Program officials.
 
-இதன்போது, முல்லைத்தீவு மாவட்ட செயலகத்திற்கும் சென்று மாவட்டச் செயலாளர் அ.உமா மகேஸ்வரனுடன் முல்லைத்தீவு மாவட்டத்தின் அபிவிருத்தித் தேவைகள், மக்கள் எதிர்நோக்கும் பல்வேறு சவால்கள் குறித்து கலந்துரையாடலை மேற்கொண்டார்.
+🟩
 
-இக்கலந்துரையாலில் மாவட்ட மேலதிக அரசாங்க அதிபர் எஸ்.குணபாலன்,  மாவட்ட பதில் திட்டமிடல் பணிப்பாளர். வா.கிருபாசுதன் அபிவிருத்தி உத்தியோகத்தர் ரஜனிக்காந் மற்றும் ஐக்கிய நாடுகள் அபிவித்தித் திட்டத்தின் அதிகாரிகளும் கலந்து கொண்டனர்.
+United Nations Resident Representative to Sri Lanka Mark André Franche visited the Mullaitivu District on Thursday (06).
+
+Meanwhile, he went to the Mullaitivu District Secretariat and discussed the development needs of the Mullaitivu district and the challenges faced by the District Secretary, A. Uma Maheshwaran.
+
+District Additional Government Agent S. Gunapalan, District Reply Planning Director. Va Kripasudhan Development Officer Rajinikan and officials of the United Nations Adivasi Program were also present.
 
 ◼️
 
 [Data](articles/605c8a24.json)
+
+[Extended Data](ext_articles/605c8a24.ext.json)
 
 ---
 
@@ -787,6 +855,8 @@ A protest in front of the Ceylon Electricity Board (CEB) head office today deman
 ◼️
 
 [Data](articles/ea734ce1.json)
+
+[Extended Data](ext_articles/ea734ce1.ext.json)
 
 ---
 
@@ -2157,23 +2227,5 @@ President Ranil Wickremesinghe inaugurated his political office in Colombo this 
 [Data](articles/2084b1ee.json)
 
 [Extended Data](ext_articles/2084b1ee.ext.json)
-
----
-
-### President's Political Office Opening
-
-*2024-06-06 10:34:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியின்-அரசியல்-அலுவலகம்-திறப்பு/175-338524) · `ta`
-
-President Ranil Wickremesinghe opened his political office in Colombo today, marking a significant step in his leadership.
-
-🟩
-
-President Ranil Wickremesinghe inaugurated his political office in Colombo this morning.
-
-◼️
-
-[Data](articles/c5715c3d.json)
-
-[Extended Data](ext_articles/c5715c3d.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-06 10:18:53**
+As of **2024-06-06 10:34:28**
 
 ## Newspaper Stats
 
-*Scraped **28,756** Articles*
+*Scraped **28,760** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 363
 islandlk | 1,553
 economynextcom | 1,636
 dailyftlk | 1,711
-adalk | 2,450
-adaderanalk | 3,258
+adalk | 2,451
+adaderanalk | 3,261
 tamilmirrorlk | 3,379
 virakesarilk | 4,414
 dailymirrorlk | 4,562
@@ -26,27 +26,61 @@ adaderanasinhalalk | 4,617
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,755 (100.0%) of 28,756 articles have been extended.
+28,756 (100.0%) of 28,760 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-06 (Thursday)
 
-### ගංවතුරේ ගිලී පාසල් සිසුවෙක් මරුට
+### As congratulations pour in, Modi invites Sri Lankan President to swearing-in
+
+*2024-06-06 10:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/99695/as-congratulations-pour-in-modi-invites-sri-lankan-president-to-swearing-in) · `en`
+
+U.S. President Joseph Biden and his Russian counterpart Vladimir Putin joined leaders of more than 50 countries in congratulating Prime Minister Narendra Modi and the National Democratic Alliance (NDA) that won the highest number of seats in the Lok Sabha election.
+
+During a telephone call, Mr. Modi also invited Sri Lankan President Ranil Wickremesinghe to his swearing-in due to be held this weekend, which he has accepted, the Sri Lankan Presidential Media Division said in a statement.
+
+All eyes are now on which other leaders the government would invite to the ceremony as Mr. Modi did in 2014 and 2019, when he invited SAARC leaders and BIMSTEC leaders, respectively. As a member of both groupings, Sri Lanka’s leaders were invited on both occasions.
+
+...
+
+[Data](articles/4deb7e55.json)
+
+---
+
+### Schoolgirl drowned in flooding
 
 *2024-06-06 09:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197449) · `si`
 
-බද්දේගම පොලිස් වසමේ ඇටවරමුල්ල ප්‍රදේශයේ දී පිරිමි දරුවෙකු දියේ ගිලී මියගොස් තිබේ.
+In Baddegama, a schoolgirl and a boy drowned during floods near the Gin River. Rescue teams including police, lifeguards, and naval personnel recovered the bodies and took them to Baddegama hospital. The victims were identified as a 17-year-old from West, West, Baddegama, who were enjoying on a tube when tragedy struck.
 
-පොලීසිය සඳහන් කළේ, දරුවෙක් දියේ ගිලී ඇති බවට බද්දේගම පොලීසියට ලද පණිවුඩයක් මත පොලිස් නිලධාරීන්, ජීවිතාරක්ෂක නිලධාරීන් හා නාවික හමුදා භට පිරිස් එක්ව අනතුරට පත් දරුවා ගොඩට ගෙන බද්දේගම රෝහලට ඇතුළත් කිරීමේ දී මියගොස් තිබේ.
+🟩
 
-එලෙස මියගොස් ඇත්තේ, අවුරුදු 17ක් වූ ගනේගම බටහිර, බද්දේගම ප්‍රදේශයේ පදිංචිකරුවෙකි.
+A boy drowned in the Baddegama Police Division in Baddemulla area.
 
-ගිං ගඟ පිටාර ගැලීමෙන් ඇති වූ ගංවතුර මත ටියුබයක ආධාරයෙන් මිතුරන් සමග විනෝද වෙමින් සිටිය දී ටියුබය පෙරළීමෙන් මෙම අනතුර සිදුව ඇතැයි පසුව අනාවරණය වුණි.
+Police said the police officers, lifeguards and naval troops acted in a bodied child to the Baddegama hospital with a child.
+
+The victim is 17 year old resident of West, West, Baddegama.
+
+The accident had occurred after the use of tuber was having fun with the tuber on the flooding of the Gin River.
 
 ◼️
 
 [Data](articles/8e877eaa.json)
+
+[Extended Data](ext_articles/8e877eaa.ext.json)
+
+---
+
+### President Ranil inaugurates political office in Colombo
+
+*2024-06-06 09:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/99694/president-ranil-inaugurates-political-office-in-colombo) · `en`
+
+President Ranil Wickremesinghe auspiciously inaugurated his political office in Colombo a short while ago, according to the President’s Media Division (PMD).
+
+◼️
+
+[Data](articles/19bc0834.json)
 
 ---
 
@@ -89,6 +123,24 @@ Uva Uva was won the 78 runs for the loss of 7 wickets.
 [Data](articles/b14b5b10.json)
 
 [Extended Data](ext_articles/b14b5b10.ext.json)
+
+---
+
+### Body of teen reported missing during floods recovered
+
+*2024-06-06 09:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/99693/body-of-teen-reported-missing-during-floods-recovered-) · `en`
+
+Police said that the body of a 17-year-old boy who was reported missing after being swept away by flood waters yesterday has been discovered.
+
+The teenager, who was a resident of Nabada in the Anguruwathota Police division was caught in the floods in the area yesterday.
+
+Later, the body of the 17-year-old schoolboy was found yesterday near a palm cultivation land in the Udunuwara Grama Niladhari Division.
+
+The body of the deceased has been placed in the Horana Hospital, and Anguruwathota Police are conducting further investigations regarding the incident.
+
+◼️
+
+[Data](articles/e336fd0c.json)
 
 ---
 
@@ -2089,63 +2141,5 @@ Further, he said the TNA is against fielding a Tamil candidate at the Presidenti
 [Data](articles/dfee1f66.json)
 
 [Extended Data](ext_articles/dfee1f66.ext.json)
-
----
-
-### Island-wide canteens, restaurants to lower food prices tonight
-
-*2024-06-05 19:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Island-wide-canteens-restaurants-to-lower-food-prices-tonight/108-284182) · `en`
-
-Colombo, June 5 (Daily Mirror) - The All Island Canteen and Restaurant Owners' Association (AICROA) has decided to lower the prices of food items from tonight due to the reduction in the prices of domestic LP gas, vegetables and eggs.
-
-Addressing the media, the Association's President Harshana Rukshan announced that the prices of fried rice, rice and curry, and kottu will be reduced by Rs. 25 from tonight.
-
-The prices of short eats, including paratha and egg rotti, will be reduced by Rs. 10. In line with these reductions, the price of a cup of plain tea will be reduced by Rs. 5.
-
-However, there will be no price reduction on a cup of milk tea since the cost of imported milk powder has not decreased significantly.
-
-The association president has urged all canteen and restaurant owners to pass on the benefits of reduced prices for domestic LP gas, vegetables and eggs to the consumers.
-
-◼️
-
-[Data](articles/5e2def0b.json)
-
-[Extended Data](ext_articles/5e2def0b.ext.json)
-
----
-
-### The first benefit to the Indian team
-
-*2024-06-05 19:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197433) · `si`
-
-The Indian cricket team won the toss and chose to bat in the 2020 T20 World Cup, gaining the advantage of setting the opponent's target.
-
-🟩
-
-The Indian team won the toss and elected to the Twenty Twenty World Cup.
-
-◼️
-
-[Data](articles/75a84c3d.json)
-
-[Extended Data](ext_articles/75a84c3d.ext.json)
-
----
-
-### Sajith hails Modi’s re-election, backs India’s permanent seat at UNSC
-
-*2024-06-05 19:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/99687/sajith-hails-modis-re-election-backs-indias-permanent-seat-at-unsc) · `en`
-
-Congratulating Prime Minister Narendra Modi for the BJP-led NDA’s “historic” achievement of securing three consecutive victories in the Lok Sabha elections, Sri Lanka’s Opposition Leader, Sajith Premadasa on Wednesday reaffirmed support for India’s permanent membership in the United Nations Security Council (UNSC).
-
-Making a special speech in the Sri Lankan Parliament on Wednesday, Premadasa emphasised that India, with its status as the world’s most populous country and a significant global economic and military power, deserves this recognition.
-
-“This is of utmost importance as India has the largest population in the whole world. Also, when you examine the world’s economic, security power configuration, I feel that this representation of India in the UNSC must be achieved and must be promoted,” said Premadasa.
-
-...
-
-[Data](articles/d1f4a094.json)
-
-[Extended Data](ext_articles/d1f4a094.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-06 07:46:08**
+As of **2024-06-06 07:59:46**
 
 ## Newspaper Stats
 
-*Scraped **28,725** Articles*
+*Scraped **28,738** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,33 +14,63 @@ bbccomsinhala | 279
 newsfirstlk | 363
 islandlk | 1,553
 economynextcom | 1,635
-dailyftlk | 1,700
+dailyftlk | 1,711
 adalk | 2,449
 adaderanalk | 3,255
-tamilmirrorlk | 3,377
+tamilmirrorlk | 3,378
 virakesarilk | 4,414
 dailymirrorlk | 4,558
-adaderanasinhalalk | 4,608
+adaderanasinhalalk | 4,609
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,717 (100.0%) of 28,725 articles have been extended.
+28,725 (100.0%) of 28,738 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-06 (Thursday)
 
-### ඉන්දීය අගමැතිගේ දිවුරුම්දීමේ උත්සවයට ජනපතිටත් ආරාධනයක්
+### 17 හැවිරිදි පාසල් සිසුවාගේ පහරදීමෙන් 15 හැවිරිදි සිසුවා ජීවිතක්ෂයට‍
+
+*2024-06-06 07:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197441) · `si`
+
+ඊයේ (05) සවස හම්බන්තොට පොලිස් වසමේ සිප්පිකුලම ප්‍රදේශයේ දී පාසල් සිසුවෙක් තවත් පාසල් සිසුවෙකුට සිදුකළ පහරදීමෙන් ඝාතනයක් සිදුව තිබේ.
+
+පොලීසිය පැවසුවේ පහරදීම හේතුවෙන් හම්බන්තොට රෝහලට ඇතුළත් කර හදිසි ප්‍රතිකාර ඒකකයේ ප්‍රතිකාර ලබමින් සිටි සිසුවා මියයෑම සම්බන්ධයෙන් ලද පණිවුඩයක් මත විමර්ශන ආරම්භ කළ බවය.
+
+එලෙස ජීවිතක්ෂයට පත්ව ඇත්තේ 15 හැවිරිදි බැද්දෙවෙල පාර, හම්බන්තොට ප්‍රදේශයේ පදිංචිව සිටි පාසල් සිසුවෙකි.
+
+ඔහු හම්බන්තොට නගරයේ පාසලක 10 වන ශ්‍රේණියේ ඉගෙනුම ලබන අතර ඊයේ උපකාරක පන්තියකට සහභාගී වීම සඳහා සිප්පිකුලම ප්‍රදේශයට ගොස් තිබිණි.
+
+එහිදී හම්බන්තොට වෙනත් පාසලක සිසුවෙකු විසින් අදාළ උපකාරක පන්තිය අසලට ගොස් 10 වන ශ්‍රේණියේ සිසුවාට පහරදී තිබේ.
+
+මෙම සිසුන් දෙදෙනා අතර පැවති ආරවුලක් ගැටුමට හේතුවී ඇති බව විමර්ශනවලදී අනාවරණය වී ඇත.
+
+කෙසේවෙතත් සිසුවාගේ මරණය සම්බන්ධයෙන් 17 හැවිරිදි පාසල් සිසුවා ව මේ වනවිට පොලීසිය අත්අඩංගුවට ගෙන ඇත.
+
+◼️
+
+[Data](articles/07abc0e8.json)
+
+---
+
+### President invites the swearing in Indian Prime Minister
 
 *2024-06-06 07:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197440) · `si`
 
-ඉන්දීය අග්‍රාමාත්‍ය නරේන්ද්‍ර මෝදී මහතාගේ දිවුරුම්දීමේ උත්සවය සඳහා ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සහභාගි වීමට නියමිතව තිබේ.
+President Ranil Wickremesinghe will attend PM Narendra Modi's swearing-in ceremony, marking a significant event in India-Sri Lanka relations.
+
+🟩
+
+President Ranil Wickremesinghe is due to attend the swearing in ceremony of Prime Minister Narendra Moodi.
 
 ◼️
 
 [Data](articles/cb163968.json)
+
+[Extended Data](ext_articles/cb163968.ext.json)
 
 ---
 
@@ -61,6 +91,8 @@ A memorandum of understanding is currently underway, which has made several roun
 ...
 
 [Data](articles/201c585a.json)
+
+[Extended Data](ext_articles/201c585a.ext.json)
 
 ---
 
@@ -104,6 +136,182 @@ Manoharan told the Jaffna Monitor magazine’s latest issue that he was stating 
 
 [Data](articles/ac91571c.json)
 
+[Extended Data](ext_articles/ac91571c.ext.json)
+
+---
+
+### Historic reforms for poor: Siyambalapitiya
+
+*2024-06-06 05:42:35* · [`dailyftlk`](https://www.ft.lk/news/Historic-reforms-for-poor-Siyambalapitiya/56-762698) · `en`
+
+Highlights commitment to increase welfare expenditure from Rs. 65 b in 2022 to Rs. 205 b, marking a 150% increase
+
+Says Rs. 6.5 b allocated for rice distribution program targeting 3.4 m poor families
+
+Praises President Wickremesinghe for decisive actions to support plantation workers, including raising daily wages to Rs. 1,700
+
+Stresses readiness to hold accountable any estates that fail to meet wage compliance with potential repossession of non-compliant estates
+
+State Minister of Finance Ranjith Siyambalapitiya stated yesterday that the Government is enacting historic reforms to benefit the poor, with significant programs including inheritance deeds, insurance and daily wage increases for plantation workers.
+
+He made these remarks during a ceremony held under the patronage of President Ranil Wickremesinghe for the awarding of inheritance deeds.
+
+...
+
+[Data](articles/1a053f30.json)
+
+---
+
+### SL collaborates with World Meteorological Organisation for Climate Resilience Program
+
+*2024-06-06 05:40:35* · [`dailyftlk`](https://www.ft.lk/news/SL-collaborates-with-World-Meteorological-Organisation-for-Climate-Resilience-Program/56-762697) · `en`
+
+Move aims to quickly and accurately predict high-risk weather and climate conditions
+
+Expect to reduce $ 313 m annually spent by Govt. on post-disaster management activities
+
+The Cabinet of Ministers on Monday approved collaboration with the World Meteorological Organisation (WMO) to enhance Sri Lanka’s emergency warning systems under the Climate Resilience Multi-Phase Programmatic Approach (CRMPA).
+
+Funded by the International Bank for Reconstruction and Development and the World Bank, the CRMPA is designed to be implemented over nine years in three phases. The program comprises five components, with the first component focused on improving the skills, technology and infrastructure of relevant institutions to enable accurate forecasting and pre-assessment of weather conditions.
+
+...
+
+[Data](articles/ee0591a5.json)
+
+---
+
+### Muslim Youth urges Govt. to protect interests of four Lankans in Indian custody
+
+*2024-06-06 05:38:52* · [`dailyftlk`](https://www.ft.lk/news/Muslim-Youth-urges-Govt-to-protect-interests-of-four-Lankans-in-Indian-custody/56-762696) · `en`
+
+Cites Vienna Convention under which Govt. obliged to protect the interests of not only the State but also its nationals
+
+All Ceylon Union of Muslim League Youth Fronts (ACUMLYF) said it has been assured by the Government that measures as required under the Vienna Convention on Consular Relations, will be taken to protect the interests of the four suspects detained in Gujarat allegedly having ISIS connections.
+
+Last week a four member delegation led by ACUMLYF President Sham Nawaz met State Minister of Foreign Affairs Dr. Tharaka Palansooriya and raised concerns of conflicting allegations in the media surrounding the arrest and the need for the Consulate in Mumbai to have prompt access to the suspects, without prejudice to the ongoing investigations.
+
+...
+
+[Data](articles/8dd6c08c.json)
+
+---
+
+### Committee to evaluate carbon reduction project proposals
+
+*2024-06-06 05:37:10* · [`dailyftlk`](https://www.ft.lk/news/Committee-to-evaluate-carbon-reduction-project-proposals/56-762695) · `en`
+
+The Cabinet of Ministers on Monday approved the appointment of a committee led by the Environment Ministry Secretary to evaluate project proposals and make decisions till Sri Lanka’s carbon market strategy and guiding principles are implemented.
+
+“The committee will oversee the assessment of project proposals and facilitate the implementation of effective carbon reduction strategies till the comprehensive carbon market framework is in place,” Cabinet Co-Spokesman and Minister Bandula Gunawardena said at the weekly post-Cabinet meeting media briefing on Tuesday.
+
+...
+
+[Data](articles/4916c452.json)
+
+---
+
+### CA Sri Lanka’s public sector wing, APFASL, explores proposed Public Financial Management Act of 2024
+
+*2024-06-06 05:36:53* · [`dailyftlk`](https://www.ft.lk/news/CA-Sri-Lanka-s-public-sector-wing-APFASL-explores-proposed-Public-Financial-Management-Act-of-2024/56-762694) · `en`
+
+The panel comprising V. Kanagasabapathy, Tishan Subasinghe, Committee on Public Accounts Consultant Lalith R. De Silva, and Ministry of Finance, Retired Additional Director General of Public Finance S.U. Chandrakumaran, while the session was moderated by APFASL Secretary Dr. Asela Athapathu
+
+The Institute of Chartered Accountants of Sri Lanka (CA Sri Lanka), together with its public sector wing, the Association of Public Finance Accountants of Sri Lanka (APFASL), organised an insightful session on the proposed Public Financial Management Act of 2024 last week.
+
+The session attracted a large number of public sector accountants, chartered accountants, and senior public officials. The session provided a comprehensive overview of the proposed Public Financial Management Act of 2024, highlighting its potential impact on fiscal discipline and public sector accountability in Sri Lanka.
+
+...
+
+[Data](articles/ea182580.json)
+
+---
+
+### Ceylon Workers Red Flag Union – Workers’ Tribunal from 7 to 8 June
+
+*2024-06-06 05:35:11* · [`dailyftlk`](https://www.ft.lk/news/Ceylon-Workers-Red-Flag-Union-Workers-Tribunal-from-7-to-8-June/56-762693) · `en`
+
+The Ceylon Workers Red Flag Union has brought together workers from the plantation sector to organise the first ever Workers’ Tribunal from 7 to 8 June, at the BMICH, Colombo. In this Tribunal several other unions will also be giving their testimonies.
+
+Organisers said it has been 200 years since workers in the plantations have been enabling Sri Lanka’s growth with their sweat and blood. The situation of the workers remain dire and unchanged. The long-standing mobilisation by workers demanding an increase in the basic wages to Rs. 1,000/- began in 2010 and gained momentum in 2018. In this context, the Wages Board increased the workers’ wages to Rs. 1,000/- per day in 2019. The intervention of the Wages Board in this matter has been unacceptable to the companies and the legal battle is still ongoing. Therefore, since 2018, the conditions of workers’ rights have only become worse.
+
+...
+
+[Data](articles/06c8ea23.json)
+
+---
+
+### BIMSTEC poised to transform itself into a successful regional organisation
+
+*2024-06-06 05:34:37* · [`dailyftlk`](https://www.ft.lk/news/BIMSTEC-poised-to-transform-itself-into-a-successful-regional-organisation/56-762692) · `en`
+
+In a historic development, the BIMSTEC Charter entered into force on 20 May 2024. It was signed on 30 March 2022 by the Leaders of BIMSTEC member States in Colombo, Sri Lanka. The Charter articulates the long-term vision and commitment of the BIMSTEC member States to cooperate through the BIMSTEC framework to realise a peaceful, prosperous and secure Bay of Bengal Region. The Charter establishes the legal and institutional framework for cooperation in the region; confers legal personality on the Organisation; enables admission of new members and observers; and empowers conclusion of agreements with other countries and organisations. It enables the BIMSTEC to engage with the UN and other International Organisations as well as Regional Organisations to pursue development partnerships to enhance cooperation in the Bay of Bengal region to deal with the shared developmental and security-related challenges.
+
+...
+
+[Data](articles/40650fed.json)
+
+---
+
+### Sri Lanka urgently needs green power on ground and not paper
+
+*2024-06-06 05:32:58* · [`dailyftlk`](https://www.ft.lk/opinion/Sri-Lanka-urgently-needs-green-power-on-ground-and-not-paper/14-762691) · `en`
+
+Sri Lanka has set an ambitious goal of achieving 70% renewable energy generation by 2030 and becoming carbon neutral by 2050. To put this in perspective, for FY24, fossil fuel-based power plants met 54% of total power generated in the country, and under 8% came from solar or wind, with hydro contributing 31%. In terms of installed capacity, as on 31 March 2024, of SL’s generation capacity of 5,012 MW, ex of hydro, REs contributed barely 1093 MW, which is about a fifth of the total installed capacity. With limited scope of adding large-scale hydro projects in the future, it is the wind and solar projects which will have to do the heavy lifting for SL to meet its RE generation goals.
+
+...
+
+[Data](articles/784222fa.json)
+
+---
+
+### Ministry of Finance: Closing the stable door after the horse has bolted
+
+*2024-06-06 05:31:59* · [`dailyftlk`](https://www.ft.lk/columns/Ministry-of-Finance-Closing-the-stable-door-after-the-horse-has-bolted/4-762690) · `en`
+
+A recent press statement issued by the Ministry of Finance dated 27/05/2024, appears to be a belated focus possibly due to an intervention initiated by an external authority. It pronounces a scheme designed for the implementation of reforms for State Owned Banks.
+
+The diagnosed defects to be addressed are in summary form as follows;
+
+SOBs have faced significant stress during the recent economic crisis,
+
+SOB lending practices have deteriorated due to inadequate risk mitigation and weak governance
+
+SOB balance sheets have absorbed losses of SOEs and help large fiscal deficits of those SOEs
+
+These have led to delays in reforms which contributed to the economic crisis
+
+...
+
+[Data](articles/050e2574.json)
+
+---
+
+### Tied-race: Anura or Sajith could win by surge to progressive-centre
+
+*2024-06-06 05:26:33* · [`dailyftlk`](https://www.ft.lk/columns/Tied-race-Anura-or-Sajith-could-win-by-surge-to-progressive-centre/4-762689) · `en`
+
+“…She [Dr. Claudia Sheinbaum] aims to maintain Mexico’s state-owned Petroleum and Electricity companies that have been favored by López Obrador despite their immense debts…” (https://www.politico.com/news/magazine/2024/06/01/claudia-sheinbaum-mexico-presidential-election-00161081)
+
+Another booster for Left presidential candidates everywhere. On the heels of the election of a leftwing President in Senegal, Mexico, one of the most important countries of the global South, has elected Dr Claudia Sheinbaum by a landslide as its first-ever woman President. AP News called her “a lifelong leftist” while The Guardian (UK) announced that “Sheinbaum, a leftwing climate scientist and former mayor of Mexico City, won the presidency with between 58.3% and 60.7% of the vote”.
+
+...
+
+[Data](articles/783b6505.json)
+
+---
+
+### Understanding how Zionist Israel has been fooling the world
+
+*2024-06-06 05:19:54* · [`dailyftlk`](https://www.ft.lk/columns/Understanding-how-Zionist-Israel-has-been-fooling-the-world/4-762688) · `en`
+
+It is not a fight between two equal states but between an occupier and those that they have occupied
+
+“When IRA was bombing people in England, we did not drop 2000 lbs bombs on Belfast” was a chilling note with utter disgust from the ardent pro-Israeli Broadcaster/Journalist Piers Morgan. This was following the attack on the Rafah refugee tents killing 45 and injuring 250 already displaced civilians on 26 May. The silly claim of Netanyahu’s was, “there were two Hamas operatives.”
+
+...
+
+[Data](articles/c5367ced.json)
+
 ---
 
 ### SL unit trust industry crosses key milestones, gains traction
@@ -121,6 +329,8 @@ In terms of NAV, CAL Investment Grade Fund was the second largest unit trust, wi
 ...
 
 [Data](articles/9264d8df.json)
+
+[Extended Data](ext_articles/9264d8df.ext.json)
 
 ---
 
@@ -392,25 +602,33 @@ The official data showed that SriLankan Airlines recorded a revenue of Rs.248 bi
 
 [Data](articles/12e31a2e.json)
 
+[Extended Data](ext_articles/12e31a2e.ext.json)
+
 ---
 
-### ’2040 ஆம் ஆண்டில் பசுமை இலக்குகளை அடைவோம்’
+### We will achieve green goals in 2040
 
 *2024-06-06 02:11:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/2040-ஆம்-ஆண்டில்-பசுமை-இலக்குகளை-அடைவோம்/175-338518) · `ta`
 
-பொருளாதார இலக்குகளை அடைந்துகொள்ளும் அதேவேளை 2040 களில் பசுமை இலக்குகளையும் அடைந்துகொள்ள இலங்கை அர்ப்பணிக்கும் என்று ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்துள்ளார்.
+Sri Lanka aims to achieve green goals by 2040 alongside its economic objectives, as announced by President Ranil Wickremesinghe during World Environment Day. This commitment involves amending the outdated Environmental Act and introducing the Climate Change Act, along with establishing a division within the Ministry of Finance to manage Green Economy Projects. The government also plans to implement an agricultural modernization program aligned with environmental policies, aiming for nationwide rollout.
 
-ஜனாதிபதி அலுவலகத்தில் நேற்று நடைபெற்ற உலக சுற்றாடல் தின நிகழ்விலேயே ஜனாதிபதி இவ்வாறு தெரிவித்தார். அவர் மேலும் தெரிவிக்கையில்,
+🟩
 
-நாட்டின் பொருளாதார இலக்குகளை அடையும் போது இந்த இலக்கை அடைய வேண்டும். 2050 வரை காத்திருக்காமல் 2040க்குள் இந்த இலக்கை அடைவதில் கவனம் செலுத்தியுள்ளோம். அதற்கேற்ப நாம் செயற்பட்டு வருகின்றோம்.
+President Ranil Wickremesinghe has said that Sri Lanka will be dedicated to achieving green goals in the 2040s while reaching economic goals.
 
-இந்த சட்டமூலம் நிறைவேற்றப்பட்ட பிறகு, அது தேசிய கொள்கையாக மாறும். அன்றிலிருந்து ஒவ்வொரு நிறுவனமும் அதற்கேற்ப செயல்பட வேண்டும், அரசு சாரா பிரிவுகளும் அதன்படி செயல்பட வேண்டும்.
+The President said this at the World Environment Day held at the Presidential Office yesterday. As he further stated,
 
-அத்துடன், மத்திய சுற்றாடல் அதிகார சபையினால் தயாரிக்கப்பட்ட சுற்றுச்சூழல் சட்டத்தில் திருத்தம் செய்யப்பட வேண்டியது அவசியமாகும். சுற்றுச்சூழல் சட்டம் 80 களில் தயாரிக்கப்பட்டது. இப்போது நிலைமை அதனை விட மாறிவிட்டது. எதிர்காலத்தில் அந்தத் திருத்தங்களைச் முன்னெடுக்க நாம் எதிர்பார்க்கிறோம்.
+This goal is to reach when reaching the country's economic goals. We have focused on reaching this goal by 2040 without waiting until 2050. We are acting accordingly.
+
+After this Bill is passed, it will become a national policy. Each company must act accordingly, and the NGOs must act accordingly.
+
+In addition, it is necessary to amend the Environmental Act prepared by the Central Environmental Authority. Environmental Act was made in the 80s. Now the situation has changed than that. We expect to carry out those amendments in the future.
 
 ...
 
 [Data](articles/1dd4a546.json)
+
+[Extended Data](ext_articles/1dd4a546.ext.json)
 
 ---
 
@@ -661,6 +879,24 @@ Officials of the Examination Center have notified the Department of Examinations
 [Data](articles/69ed98de.json)
 
 [Extended Data](ext_articles/69ed98de.ext.json)
+
+---
+
+### ’ஹிஜாப்பால் பெறுபேறு இரத்தாகாது’
+
+*2024-06-06 00:50:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/ஹிஜாப்பால்-பெறுபேறு-இரத்தாகாது/150-338511) · `ta`
+
+ஹிஜாப் அணிந்து பரீட்சைக்கு தோற்றியதால் பெறுபேறு இரத்து செய்யப்படமாட்டாது என தெரிவித்த கல்வி அமைச்சர் சுசில் பிரேமஜயந்த, தற்காலிகமாக இடை நிறுத்தப்பட்டு விசாரணைகள் முன்னெடுக்கப்படும் என்றார்.
+
+காதுகளை மறைத்த வண்ணம் ஹிஜாப் அணிந்திருக்கும் போது சூட்சமான முறையில் காதுக்குள் கருவிகளை வைத்திருக்க முடியும்.இவ்வாறான நிலையில் தான் காதுகள் தென்படும் வகையில் அணியுமாறு குறிப்பிடப்படுகிறது என்றார்.
+
+பாராளுமன்றத்தில்   ஐக்கிய மக்கள் சக்தி எம்.பி. யான முஜிபுர் ரஹ்மானினால் புதன்கிழமை (05)  எழுப்பப்பட்ட கேள்விக்கு பதிலளிக்கையிலேயே கல்வி அமைச்சர் இவ்வாறு தெரிவித்தார்.
+
+அதிபர் சேவை பரீட்சைக்கு மேல் மாகாணத்தில் தோற்றிய 13 பேர் ஹிஜாப் அணிந்த வகையில்  பரீட்சைக்கு தோற்றியதற்காக அவர்களின் பெறுபேறு இடைநிறுத்தப்பட்டுள்ளது.
+
+...
+
+[Data](articles/771e7eef.json)
 
 ---
 
@@ -1482,19 +1718,25 @@ Making a special speech in the Sri Lankan Parliament on Wednesday, Premadasa emp
 
 ---
 
-### විදුලිබල පනත සරල බහුතරයකින් සම්මත කළ හැකියි
+### The Electricity Act can be passed with a simple majority
 
 *2024-06-05 19:08:14* · [`adalk`](https://www.ada.lk/breaking_news/විදුලිබල-පනත-සරල-බහුතරයකින්-සම්මත-කළ හැකියි/11-410036) · `si`
 
-යෝජිත නව විදුලිබල පනත සහ ශ්‍රේෂ්ඨාධිකරණය විසින් නිගමනය කරන ලද සංශෝධන, පාර්ලිමේන්තුවේ බලශක්ති ආංශික අධීක්ෂණ කාරක සභාව විසින් අනුමත කළ බව විදුලිබල හා බලශක්ති අමාත්‍ය කංචන විජේසේකර මහතා පැවසීය.
+The Electricity Act can pass with a simple majority after being endorsed by the Select Committee of Parliament and the Supreme Court's amendments. The bill, containing sector reforms, will be debated and approved by Parliament tomorrow.
 
-ඒ අනුව එම පනත හෙට (06දා) පාර්ලිමේන්තුවේ විවාදයට සහ අනුමත කිරීමට ඉදිරිපත් කිරීමට නියමිතය.
+🟩
 
-විදුලිබල ක්ෂේත්‍රයේ ප්‍රතිසංස්කරණ අඩංගු එම නව විදුලිබල පනත, ශ්‍රේෂ්ඨාධිකරණයේ නිගමනය අනුව ඉදිරිපත් කළ සංශෝධන අනුගත කරමින් පාර්ලිමේන්තුවේ සරල බහුතරයකින් සම්මත කළ හැකි බව අමාත්‍යවරයා සඳහන් කරයි.
+Power and Energy Minister Kanchana Wijesekera said that the proposed new electricity bill and the Supreme Court's amendments were endorsed by the Select Committee of Parliament.
+
+Accordingly, the bill will be presented to the debate and approval of Parliament tomorrow (06).
+
+The new power bill contains reforms in the power sector, the new power bill, the Minister said that the simplest majority of Parliament can be passed in the Supreme Court.
 
 ◼️
 
 [Data](articles/a504d947.json)
+
+[Extended Data](ext_articles/a504d947.ext.json)
 
 ---
 
@@ -1641,6 +1883,8 @@ Police said that they are residents of Welioya Kalyanapura area.
 ◼️
 
 [Data](articles/dcd78355.json)
+
+[Extended Data](ext_articles/dcd78355.ext.json)
 
 ---
 
@@ -1855,309 +2099,5 @@ The President added that the current role of climate change and the current role
 [Data](articles/ec7c3fbf.json)
 
 [Extended Data](ext_articles/ec7c3fbf.ext.json)
-
----
-
-### Save a young couple to drove the garund
-
-*2024-06-05 17:34:11* · [`adalk`](https://www.ada.lk/breaking_news/ගැරඩි-ඇල්ලෙන්-පහළට-පැන්න-තරුණ-යුවළක්-බේරා-ගනියි/11-410029) · `si`
-
-A group of locals rescued a young couple from Kotmale Garmalai Falls after they fell due to a dispute. The 18-year-old girl and her 5-year-old companion were rushed to Thandhale General Hospital for treatment.
-
-🟩
-
-A group of people in the area had taken steps to rescue a young couple at Kotmale Garmalai Falls.
-
-A Kotmale police officer commented on the 5th on 05rd, a 18-year-old girl in the 5 year old girl in Kotmale has fallen to the Kotmale Garmalagiri Fire to commit suicide.
-
-At that time, a group of people had rescued the young couple and that the two had been devoted to a dispute over the two of the two.
-
-The officer added that steps will be taken to transfer the Thandhale General Hospital for the treatment of the Young couple patriarch for the trees.
-
-◼️
-
-[Data](articles/864992e8.json)
-
-[Extended Data](ext_articles/864992e8.ext.json)
-
----
-
-### SJB files petition against Economic Transformation Bill
-
-*2024-06-05 17:28:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SJB-files-petition-against-Economic-Transformation-Bill/108-284179) · `en`
-
-Colombo, June 05 (Daily Mirror) -  Samagi Jana Balawegaya (SJB) General Secretary Ranjith Madduma Bandara today filed a Special Determination petition before the Supreme Court challenging the constitutionality of the Economic Transformation Bill, which was tabled recently in Parliament.
-
-Madduma Bandara filed this petition seeking a declaration that the Bill requires the approval by the people at a Referendum in addition to the 2/3 approval of Parliament.
-
-The petitioner states that several Clauses of the Bill have been included so as to codify into domestic legislation the conditions contained in the present IMF-EFF arrangement and other representations made to the International Monetary Fund by representatives of the Government of Sri Lanka.
-
-...
-
-[Data](articles/41fa080f.json)
-
-[Extended Data](ext_articles/41fa080f.ext.json)
-
----
-
-### A statue will be erected for all Tamil leaders!- Minister Douglas in the martyr Sivakumaran
-
-*2024-06-05 17:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/185387) · `ta`
-
-Minister Douglas Devananda announced the erection of a statue for Tamil leader Sivakumaran, highlighting its significance for national reconciliation and unity. This decision came during the 50th anniversary of Sivakumaran, the first militant in the Eelam struggle, emphasizing the importance of remembering Tamil fighters and their contributions. The statue's construction is seen as a step towards preserving the memory of Tamil leaders and their sacrifices, fostering unity among all parties without any differences.
-
-🟩
-
-Minister Douglas Devananda pointed out that the statue of Sivakumaran is due to the fact that the statue of Sivakumaran today is due to the national reconciliation and approaches.
-
-Minister Douglas Devananda said this while addressing the 50th anniversary of Pon Sivakumaran, the first militant who sacrificed his life in the history of Eelam struggle.
-
-Minister Douglas Devananda continued at a tribute to Ponn Sivakumaran's image in Urumpirai today.
-
-"The Tamil leaders, militants and people who fought for the rights of the Tamil people continued to be remembered at the commemoration of the wore garland of the Eagle Sudareti Mallarmalai.. It is also necessary to establish their memories, especially their monuments. There will be no party or differences.
-
-The image of the golden Sivakumaran was broken three times before the existing image was established. I think this is the reason for this.
-
-...
-
-[Data](articles/db1af1f1.json)
-
-[Extended Data](ext_articles/db1af1f1.ext.json)
-
----
-
-### Sabary student who stolen lapse of Kelaniya students arrested
-
-*2024-06-05 17:22:08* · [`adalk`](https://www.ada.lk/breaking_news/කැළණිය-සිසුන්ගේ-ලැප්ටොප්-සොරාගත්-සබරේ-සිසුවෙක්-අල්ලයි/11-410028) · `si`
-
-Ashen Madushan Bandara, a Sabaragamuwa University student, was arrested for stealing items including laptops and tabs from Kelaniya University students. He was remanded until November 11th. The stolen goods were found in Kiribathgoda and Kadawatha. The arrest followed suspicions raised by another student who noticed the missing items.
-
-🟩
-
-Maha Maha Mahara Acting Magistrate Wirinda Kanankada has been remanded until the 11th of this month.Was specified.
-
-A University student named Ashen Madushan Bandara, a resident of the University of Sabaragamuwa University, was remanded.
-
-The police said that the university student had found the stolen items into Kiribathgoda and Kadawatha mortgage items.
-
-It was also revealed that the laptops, tab and the University of Kelaniya were present at the courts.
-
-The suspects have come to the court to meet their friendship students from time to time, and the police said.
-
-It was also said that theft was able to uncover the suspect when questioned by the student who came to the university regularly after the loss of these items.
-
-◼️
-
-[Data](articles/9b844460.json)
-
-[Extended Data](ext_articles/9b844460.ext.json)
-
----
-
-### Metropolitan police are demanding further information from Tamil people in London in connection with violence in a 2001 political rally in Jaffna
-
-*2024-06-05 17:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/185396) · `ta`
-
-London Metropolitan Police are seeking more information from Tamil individuals regarding violent incidents at a 2001 political rally in Jaffna, connected to Sri Lanka's civil war. Two arrests have been made in the UK, and the Anti-Terrorism Detective Division is offering assistance to those willing to aid their investigation. The police emphasize the seriousness of these crimes for victims and witnesses, urging anyone with relevant information to come forward.
-
-🟩
-
-London Metropolitan police have said that a man has been arrested in connection with the incident of violence at a political rally in Jaffna in late 2001.
-
-The Anti -Terrorism Detective Division, which is investigating Sri Lanka's civil war allegations in the early 2000s, has issued a London Metropolitanolisarwind to help those who are helping their investigations.
-
-The request is made when the anti -terrorist police have arrested a second person in the United Kingdom, which is investigating the matter.
-
-London Metropolis Commander Dominic Merbi has said that these crimes have been permanent for the victims and witnesses.
-
-He said that the authorities who are investigating these serious crimes have made improvements in their activities.
-
-He said that the evidence found to further investigate the incident, such as other serious incidents, said that we know that there are information about the incident during the Sri Lankan civil war.
-
-...
-
-[Data](articles/c39331f8.json)
-
-[Extended Data](ext_articles/c39331f8.ext.json)
-
----
-
-### Order received the suspect who assaulted the child
-
-*2024-06-05 17:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197430) · `si`
-
-Four individuals, including a main suspect and two others, were arrested for assaulting a child. They were all remanded and appeared before the Padaviya Magistrate's Court, where they were held until June 19th. The arrests took place early in the morning, involving a 27-year-old man and two women aged 37 and 46.
-
-🟩
-
-All suspects including the main suspect and the two suspects were remanded in the assault of a small child, and two suspects.
-
-The suspects were submitted to the Padaviya Magistrate's Court and remanded until June 19.
-
-The suspects were arrested in the early hours of assaulting the child this morning.
-
-There were two-year-old man and 37 and 46-year-old women were remanded.
-
-◼️
-
-[Data](articles/27e75a23.json)
-
-[Extended Data](ext_articles/27e75a23.ext.json)
-
----
-
-### Laws will be enacted in the future for economic recovery - Minister of Finance
-
-*2024-06-05 17:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/185371) · `ta`
-
-Minister Sehan Semasinghe expects opposition cooperation for upcoming economic recovery laws amidst the ongoing crisis, emphasizing the government's commitment to restructuring and enacting necessary legislation.
-
-🟩
-
-I expect the opposition parties to cooperate with the bills that will bring in the future for economic recovery. Minister of Finance Sehan Semasinghe said that the current economic crisis is not in the position of not appearing in the future.
-
-During the session of Parliament on Wednesday (05), the opposition member Buddhika Padirana responded to the above questions.
-
-It is welcome that the Opposition Member Buddhika Patirana has paid attention to the restructuring launched for economic recovery. The government has taken a policy decision on reorganization. President Ranil Wickremesinghe made this clear clear in his policy speech.
-
-Many laws have been enacted in the past, considering restructuring. Opposition parties protested. The government is rapidly bringing laws against the country. It is improper to say that the opposition parties do not bring in laws for the country.
-
-...
-
-[Data](articles/02dfa5c1.json)
-
-[Extended Data](ext_articles/02dfa5c1.ext.json)
-
----
-
-### Sri Lanka women legislators in gender pay gap survey
-
-*2024-06-05 17:13:00* · [`economynextcom`](https://economynext.com/sri-lanka-women-legislators-in-gender-pay-gap-survey-166395/) · `en`
-
-ECONOMYNEXT – A Women’s Caucus in Sri Lanka’s parliament has commissioned a survey on gender pay gaps with the intention of bringing legislation to narrow the gap, the group’s Chairperson Dr Sudarshani Fernandopulle said.
-
-“We are conducting a survey to identify the places that have a gender pay gap, so we can bring in necessary legislation to minimise it,” Fernandopulle said during a debate to pass a bill on Womens’ Empowerment.
-
-Though salary scales in the government sector are equal regardless of gender, it is not so in the private sector.
-
-“Women are paid less than men for doing the same job.” Equality has not been achieved by appeals alone and legislation was necessary, she said.
-
-“No matter how advanced our women are thanks to free education and free healthcare, their participation in formal employment is still at 35 percent.”
-
-While state agencies set equal pay, women in decision making roles were still low within them, Fernandopulle said.
-
-...
-
-[Data](articles/0f0ef787.json)
-
-[Extended Data](ext_articles/0f0ef787.ext.json)
-
----
-
-### Sri Lanka rupee closes weaker at 302.35/45 to US dollar
-
-*2024-06-05 17:12:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-weaker-at-302-35-45-to-us-dollar-166422/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed weaker at 302.35/45 to the US dollar on Wednesday, from 302.10/20 to the dollar the previous day, dealers said. Bond yields were up.
-
-A bond maturing on 15.12.2026 closed at 9.85/90 percent up from 9.70/85 percent.
-
-A bond maturing on 15.09.2027 closed at 10.40/55 percent up from 10.35/45 percent.
-
-A bond maturing on 01.07.2028 closed at 10.90/11.00 percent up from 10.80/90 percent.
-
-A bond maturing on 15.05.2030 closed at 11.75/90 percent up from 11.60/75 percent.
-
-A bond maturing on 01.10.2032 closed at 11.90/12.00 percent up from 11.80/90 percent.
-
-◼️
-
-[Data](articles/7caa3854.json)
-
-[Extended Data](ext_articles/7caa3854.ext.json)
-
----
-
-### Schools in Galle and Matara districts to reopen tomorrow
-
-*2024-06-05 17:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/99684/schools-in-galle-and-matara-districts-to-reopen-tomorrow) · `en`
-
-The Southern Province Secretary of Education has stated that all schools in the Galle and Matara districts will reopen for academic activities tomorrow (06).
-
-The secretary added that Zonal Education Directors are empowered to decide on reopening flood-affected schools and those being used as shelters for the displaced.
-
-◼️
-
-[Data](articles/006df479.json)
-
-[Extended Data](ext_articles/006df479.ext.json)
-
----
-
-### New decision on opening schools tomorrow
-
-*2024-06-05 17:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197429) · `si`
-
-Schools in Galle and Matara districts will reopen tomorrow after being converted from flood shelters.
-
-🟩
-
-All schools in the Galle and Matara districts will be reopened tomorrow (06) to reopen.
-
-The provincial directors have been handed over to schools that have been used as the schools and displaced centers used by the floods.
-
-◼️
-
-[Data](articles/b2782fa4.json)
-
-[Extended Data](ext_articles/b2782fa4.ext.json)
-
----
-
-### Sri Lanka stocks close up, John Keells sees foreign selling
-
-*2024-06-05 17:05:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-john-keells-sees-foreign-selling-166418/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up on Wednesday, data on its site showed.
-
-The broader All Share Index closed up 0.71 percent, or 85.45 points, at 12,189; while the more liquid S&P SL20 Index closed up 0.69 percent, or 24.49 points, at 3,593.
-
-Turnover was 1.2 billion. Most of this came from the banks (Rs372mn), capital goods (Rs273mn), and materials (Rs201mn) stocks.
-
-John Keells Holdings Plc saw the most active volumes (Rs222mn) traded in the day. Around 165 of this was foreign selling, market participants said. The share closed down at 203.00.
-
-“The positive momentum continued today, with conglomerates and banks the biggest contributors to the index. But turnover is still about 26 percent lower than the monthly average of 1.7 billion,” market participants said.
-
-Amana Bank Plc, which has announced a share consolidation, closed up at 2.40.
-
-...
-
-[Data](articles/1015df35.json)
-
-[Extended Data](ext_articles/1015df35.ext.json)
-
----
-
-### To grant permanent membership to India in the United Nations Security Council - Opposition Leader
-
-*2024-06-05 17:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/185372) · `ta`
-
-Opposition leader Sajith Premadasa advocates for India's permanent UN Security Council membership, highlighting its large population and global influence. He plans to propose this in Parliament, expressing confidence in its approval.
-
-🟩
-
-India, which has the largest population in the world, should be given permanent membership in the United Nations Security Council. Opposition leader Sajith Premadasa said that I will present a motion in this House.
-
-He made this statement on Wednesday (05) in Parliament and congratulated Prime Minister Modi, who won the Indian election.
-
-It is now very good that India has the largest number of populations in the United Nations Security Council.
-
-In particular, when you look at global power centers, it is true that the United Nations Security Council is sure to provide permanent membership to India. So I put forward a proposal to give India a member of the United Nations Security Council. We are confident that the 225 people in Parliament will allow it.
-
-◼️
-
-[Data](articles/1041b60c.json)
-
-[Extended Data](ext_articles/1041b60c.ext.json)
 
 ---

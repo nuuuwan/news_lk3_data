@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-06 21:19:12**
+As of **2024-06-06 21:34:34**
 
 ## Newspaper Stats
 
@@ -26,23 +26,29 @@ adaderanasinhalalk | 4,639
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,902 (100.0%) of 28,904 articles have been extended.
+28,904 (100.0%) of 28,904 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-06 (Thursday)
 
-### කාසියේ වාසිය අමෙරිකාවට
+### America to advantage of the coin
 
 *2024-06-06 20:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197473) · `si`
 
-T20 ලෝක කුසලාන ක්‍රිකට් තරගාවලිය යටතේ අමෙරිකාව සහ පාකිස්තානය අතර තරගය අද (06) පැවැත්වෙයි.
+In the T20 World Cup match between the US and Pakistan, the US won the toss and chose to field first.
 
-එහි කාසියේ වාසිය දිනා ගැනීමට අමෙරිකාව සමත්වූ අතර ඔවුන් තීරණය කළේ පළමුවෙන් පන්දුවට පහරදීමේ අවස්ථාව පාකිස්තානයට ලබාදීමටය.
+🟩
+
+US and Pakistan match between US and Pakistan under the T20 World Cup
+
+The United States won the toss and decided to give Pakistani to bat first.
 
 ◼️
 
 [Data](articles/e9e98e40.json)
+
+[Extended Data](ext_articles/e9e98e40.ext.json)
 
 ---
 
@@ -63,6 +69,8 @@ Further he disclosed that within the last five months of this year, over 25,000 
 ◼️
 
 [Data](articles/6c9066f0.json)
+
+[Extended Data](ext_articles/6c9066f0.ext.json)
 
 ---
 

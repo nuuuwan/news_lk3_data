@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-06 21:34:34**
+As of **2024-06-06 21:53:45**
 
 ## Newspaper Stats
 
-*Scraped **28,904** Articles*
+*Scraped **28,909** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,50 @@ newsfirstlk | 363
 islandlk | 1,554
 economynextcom | 1,642
 dailyftlk | 1,711
-adalk | 2,473
-adaderanalk | 3,279
+adalk | 2,474
+adaderanalk | 3,280
 tamilmirrorlk | 3,396
 virakesarilk | 4,437
-dailymirrorlk | 4,593
-adaderanasinhalalk | 4,639
+dailymirrorlk | 4,595
+adaderanasinhalalk | 4,640
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,904 (100.0%) of 28,904 articles have been extended.
+28,904 (100.0%) of 28,909 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-06 (Thursday)
+
+### ස්වාධින අපේක්ෂකයා ජනපති රනිල් - ‍ආශු
+
+*2024-06-06 21:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197475) · `si`
+
+මෙවර ජනාධිපතිවරණයට රනිල් වික්‍රමසිංහ මහතා නිසැක වශයෙන්ම ස්වාධින අපේක්ෂකයෙකු ලෙස ඉදිරිපත් වන බව ජනාධිපති උපදේශක මහාචාර්ය ආශු මාරසිංහ මහතා පවසයි.
+
+ජනාධිපතිවරයාගේ නව දේශපාලන කාර්යාලය අද (06) කොළඹදී විවෘත කිරීම සම්බන්ධයෙන් අදහස් දක්වමින් ඔහු මේ බව සඳහන් කළේය.
+
+◼️
+
+[Data](articles/cf8cc7e1.json)
+
+---
+
+### Railway strike from midnight today
+
+*2024-06-06 21:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/99716/railway-strike-from-midnight-today-) · `en`
+
+The Locomotive Operating Engineers’ Union of Sri Lanka Railways says they have decided to launch a strike from midnight today (06).
+
+The trade union action is being initiated over delays in second-class promotions of locomotive drivers and several other issues, according to the Locomotive Operating Engineers’ Union.
+
+◼️
+
+[Data](articles/31928e76.json)
+
+---
 
 ### America to advantage of the coin
 
@@ -111,6 +139,24 @@ Accordingly, 36 schools in the Homagama, Sri Jayawardenapura, Kalutara, Horana a
 [Data](articles/8157e22e.json)
 
 [Extended Data](ext_articles/8157e22e.ext.json)
+
+---
+
+### President raises concerns over assault on 4-year-old child
+
+*2024-06-06 20:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/President-raises-concerns-over-assault-on-4-year-old-child/108-284291) · `en`
+
+June 06, (Daily Mirror) -  In response to the beating of a 4-year-old girl that has shocked the nation, President Ranil Wickremesinghe issued a statement on X, underscoring the urgent need for action to ensure the safety and well-being of children.
+
+The President emphasized that while the judicial system will address the perpetrators of this brutal act, the immediate priority must be the protection and support of the child involved.
+
+“The brutal beating of a 4-year-old girl has rightly horrified the country. While the judicial process will address the perpetrators, we must prioritise the child’s well-being, which will require swift and decisive action from state officials,” the President wrote.
+
+He highlighted the lasting impact of such trauma, stressing the importance of understanding and raising awareness about the severe, long-term effects of abuse on children’s mental and physical health.
+
+...
+
+[Data](articles/d29f7c29.json)
 
 ---
 
@@ -317,6 +363,24 @@ Nepal and Uganda have negotiated with the Special Investigation Department and s
 [Data](articles/696e222e.json)
 
 [Extended Data](ext_articles/696e222e.ext.json)
+
+---
+
+### “Starlink”ආයතනයට ලංකාවේ අනුමැතිය
+
+*2024-06-06 18:55:13* · [`adalk`](https://www.ada.lk/technology/“Starlink”ආයතනයට-ලංකාවේ-අනුමැතිය/5-410062) · `si`
+
+ශ්‍රී ලංකාව තුළ චන්ද්‍රිකා තාක්ෂණය ඔස්සේ අන්තර්ජාල පහසුකම් සේවාව සැපයීම සඳහා “Starlink” ස්ටර්ලින්ක් ආයතනය වෙත ශ්‍රී ලංකා විදුලි සංදේශ නියාමන කොමිෂන් සභාවේ මූලික අනුමැතිය හිමිව ඇති බව තාක්ෂණ රාජ්‍ය අමාත්‍ය කනක හේරත් මහතා පැවසීය.
+
+මෙම අන්තර්ජාල සේවා පහසුකමට අනුමැතිය ලබාදීම සඳහා මහජන අදහස් ලබා ගැනීමට දින 14ක කාලයක් වෙන් කර ඇති බවත් ඉන්පසුව විදුලි සංදේශ නියාමන කොමිෂන් සභාව මඟින් මෙම අන්තර්ජාල සේවාව ශ්‍රී ලංකාව තුළ ක්‍රියාත්මක කිරීමට හැකිවන බවද රාජ්‍ය අමාත්‍යවරයා සඳහන් කළේය.
+
+තාක්ෂණ රාජ්‍ය අමාත්‍ය කනක හේරත් මහතා මෙම අදහස් පළ කළේ, ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ අද (06) පැවති මාධ්‍ය සාකච්ඡාවකට එක්වෙමිනි.
+
+අධ්‍යාපන, පර්යේෂණ හා ධීවර ක්ෂේත්‍ර සඳහා වේගවත් අන්තර්ජාල සේවාවක් මෙමඟින් සැපයීය හැකි බවත් ලෝකයේ ඕනෑම තැනක සිට මෙම අන්තර්ජාල පහසුකම ලබා ගැනීමට ඇති හැකියාව ද තිබෙන බවද රාජ්‍ය අමාත්‍යවරයා සඳහන් කළේය.
+
+...
+
+[Data](articles/dfca9c59.json)
 
 ---
 
@@ -607,6 +671,22 @@ After the incident, he fled the area and drank poison in a secret place. A perso
 [Data](articles/1fe463f7.json)
 
 [Extended Data](ext_articles/1fe463f7.ext.json)
+
+---
+
+### Update:  Parliament approves Electricity Bill
+
+*2024-06-06 17:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Update-Parliament-approves-Electricity-Bill/155-284281) · `en`
+
+Parliament, June 06 (Daily Mirror)- The Sri Lanka Electricity Bill was passed in Parliament with amendments.
+
+A vote was taken for the second reading of the Sri Lanka Electricity Bill and it was passed with a majority of 44 votes.
+
+A total of 103 MPs voted in favour of the Bill while 59 MPs voted against.
+
+◼️
+
+[Data](articles/4178cd33.json)
 
 ---
 
@@ -2125,139 +2205,5 @@ The Minister said if the PUCSL proposed that electricity consumers must be given
 [Data](articles/340d0938.json)
 
 [Extended Data](ext_articles/340d0938.ext.json)
-
----
-
-### Minister of electricity is revealed
-
-*2024-06-06 11:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197455) · `si`
-
-Kanchana Wijesekara announced a proposed reduction in electricity bills from July 1st, aiming to offer more relief to household consumers. The Public Utilities Commission is expected to approve this proposal, which includes lowering prices from Rs. 8 to Rs. 30.
-
-🟩
-
-Minister of Power and Energy Kanchana Wijesekara said that the electricity and energy bill was proposed to reduce the electricity bill from 1st July.
-
-Accordingly, the household category consumers will be able to provide more relief to the consumers and the proposal is expected to be approved by the Public Utilities Commission.
-
-Accordingly, the price of Rs. 8 to Rs.The Minister said that the government has also been proposed to reduce to 30.
-
-◼️
-
-[Data](articles/9845664f.json)
-
-[Extended Data](ext_articles/9845664f.ext.json)
-
----
-
-### 1 crores of ginger recovery
-
-*2024-06-06 11:40:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒரு-கோடி-பெறுமதியான-இஞ்சி-மீட்பு/175-338530) · `ta`
-
-Indian authorities seized over 1,456 kg of ginger, valued at over one crore rupees, from two suspects aged 30 and 40 in Kalpitiya-Uchimunai. Three fishing boats and engines were also confiscated.
-
-🟩
-
-A large amount of ginger, foam, fossilized - Landyadyadyadyadyadyadyadyadyadyadyadyadyadyadyadyadyadyadyadyadyadyadyadyadyadyadyadyadyadyadyadyadyadyadyadyadyadyadyadyadyi, a large number of suspected ginger has been seized from India.
-
-In addition, two suspects suspected of being involved in the ginger trafficking have been arrested by the police.
-
-The arrested suspects were 30 and 40 years old from Kalpitiya - Uchimunai area, police said.
-
-In addition, the police have also seized three fishing machine boats, three engines and the direction of the location.
-
-1,456 kilograms of ginger in 29 cover was seized and they were worth more than one crore rupees, police said.
-
-◼️
-
-[Data](articles/200e1279.json)
-
-[Extended Data](ext_articles/200e1279.ext.json)
-
----
-
-### If the West provides weapons to attack Russia, we will provide weapons to attack the West - Putin
-
-*2024-06-06 11:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/185429) · `ta`
-
-In response to Western arms supplies to Ukraine, Putin warns Russia may arm allies to target the West, without specifying any country. This escalates tensions as both sides accuse each other of aggression.
-
-🟩
-
-Russian President Vladimir Putin has warned that Russia will provide weapons to attack the West.
-
-Putin has condemned the provision of long -range weapons that attack Ukraine and warned that his country would provide arms to attack the West.
-
-Many countries, including the United States, have provided arms to Ukraine to hit the targets within Russia.
-
-Putin told foreign reporters that this could cause serious problems.
-
-Putin said that if anyone thinks that we can attack us and distribute weapons to cause problems, we have the right to provide weapons to the particular region to attack those countries.
-
-Putin did not report anything about which country Moscow would provide weapons.
-
-◼️
-
-[Data](articles/bf40e9c6.json)
-
-[Extended Data](ext_articles/bf40e9c6.ext.json)
-
----
-
-### Save Sri Lankans to rescue Sri Lanka - Wasantha Yapa Bandara
-
-*2024-06-06 11:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197454) · `si`
-
-Sri Lankan lawyer Wasantha Yapa Bandara announced efforts to rescue compatriots stranded in Myanmar and Russia through diplomatic channels, including discussions with Thai officials and handing over records of 220 individuals to St. Petersburg's consul. He urged the government to act swiftly, highlighting potential leads from family members of missing persons.
-
-🟩
-
-Attorney-at-Law Wasantha Yapa Bandara said that Sri Lankans in Myanmar had found a road to save Sri Lankans.
-
-Accordingly, the MP requested the Speaker to inform the government in this regard.
-
-"We have assembled the Sri Lankans trapped in Myanmar and Russia. Now we have access to solve this problem. "
-
-"We overseas and discussed this with Myanmar and Thailand."
-
-"There is a special company that DSI is under the Ministry of Justice in Thailand. We can save 49 people in Myanmar, connecting this institute. Inform the government about it. "
-
-"We believe that there are over 1000 people in Russia. The record of 220 people we handed over to Saint Petezburg Consul to the ambassador.. We requested to help save Sri Lankans. "
-
-"If you leave, their families may provide information about the missing people."
-
-Three opposition members have left for Thailand on the 27th.
-
-...
-
-[Data](articles/8ee13da0.json)
-
-[Extended Data](ext_articles/8ee13da0.ext.json)
-
----
-
-### Barnagala Upatissa Nehambimi
-
-*2024-06-06 11:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197453) · `si`
-
-Ven Barnagala Upatissa Nehambimi, Chief Incumbent of the Sri Lanka Mahabodhi Union, praised Narendra Modi's leadership for India's development and global impact. Modi's vision and dedication have not only advanced India but also contributed positively to the world stage. Under his guidance, India is showcasing resilience, innovation, and overall growth. His ongoing leadership promises further progress and prosperity, highlighting his commitment to serving the nation and making a global difference.
-
-🟩
-
-The Chief Incumbent of the Sri Lanka Mahabodhi Union, Sri Lanka Viharaya, Ven
-
-The Thero has issued an announcement, the significant achievement is a testimony of Narendra Modi's unique leadership, vision and unwavering commitment to the development of the country.
-
-The outstanding contribution of Narendra Modi has made significant progress in India but also positively to the global platform.
-
-Under the guidance of Mr. Modi, India is surviving, and India will show that the development of resilience, innovation and all aspects of the country are demonstrating.
-
-It is said that Narendra Modi's continuous leadership will bring a further advancement and prosperity to India and the commitment of Mr. Modi to serve the nation and make a difference in the world is indeed commendable.
-
-◼️
-
-[Data](articles/825fc16c.json)
-
-[Extended Data](ext_articles/825fc16c.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-06 14:18:52**
+As of **2024-06-06 14:34:55**
 
 ## Newspaper Stats
 
-*Scraped **28,811** Articles*
+*Scraped **28,814** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,31 @@ adaderanalk | 3,269
 tamilmirrorlk | 3,386
 virakesarilk | 4,414
 dailymirrorlk | 4,577
-adaderanasinhalalk | 4,626
+adaderanasinhalalk | 4,629
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,811 (100.0%) of 28,811 articles have been extended.
+28,811 (100.0%) of 28,814 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-06 (Thursday)
+
+### ගංවතුරෙන් බලපෑම් වූ නිවාස පිරිසිඳු කරගැනීමට රජයෙන් රු 10,000ක්
+
+*2024-06-06 14:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197461) · `si`
+
+ගංවතුරෙන් පීඩාවට පත් පවුල්වලට නිවාස පිරිසිදු කරගැනීම සඳහා රුපියල් 10,000 බැගින් ලබාදීමට රජය තීරණය කර තිබේ.
+
+ආරක්ෂක රාජ්‍ය අමාත්‍ය ප්‍රමිත බණ්ඩාර තෙන්නකෝන් මහතා ඒ් බව පැවසීය.
+
+◼️
+
+[Data](articles/440d2bf9.json)
+
+---
 
 ### Israeli strike on Gaza school kills 30 people; Military claims it was being used by Hamas
 
@@ -69,6 +83,40 @@ Musk and Wickremesinghe had discussed ways to expand internet connectivity in ru
 [Data](articles/451d17f3.json)
 
 [Extended Data](ext_articles/451d17f3.ext.json)
+
+---
+
+### Starlink සඳහා මූලික අනුමැතිය
+
+*2024-06-06 13:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197460) · `si`
+
+ශ්‍රී ලංකාව තුළ චන්ද්‍රිකා තාක්ෂණය පදනම් කරගත් අන්තර්ජාල සේවා සැපයීම සඳහා “Starlink” වෙත ශ්‍රී ලංකා විදුලි සංදේශ නියාමන කොමිෂන් සභාවේ මූලික අනුමැතිය ලබාදී තිබේ.
+
+විධිමත් මහජන අදහස් විමසීමේ ක්‍රියාවලියකින් අනතුරුව මෙම තීරණය ගෙන ඇති අතර ඒ පිළිබඳ වැඩිදුර තොරතුරු හෙට (07) දිනයේ ප්‍රකාශයට පත් කිරීමට නියමිත බව ජනාධිපති මාධ්‍ය අංශය පවසයි.
+
+◼️
+
+[Data](articles/54eb31dc.json)
+
+---
+
+### කුරුළු උණ හේතුවෙන් ලොව පළමු මරණය වාර්තා වෙයි
+
+*2024-06-06 13:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197459) · `si`
+
+සෞඛ්‍ය ගැටලුවලට මුහුණදෙමින් සිටි මෙක්සිකෝවේ පුද්ගලයෙක් කුරුළු උණ හේතුවෙන් මියගොස් ඇති බව ජාත්‍යන්තර මාධ්‍ය පවසයි.
+
+එම පුද්ගලයා පසුගිය අප්‍රේල් මාසයේදී මියගොස් ඇති බවත් ඔහුට වැළඳී ඇත්තේ කුරුළු උණ බවත් ලෝක සෞඛ්‍ය සංවිධානය පැවසුවේය.
+
+ඒ අනුව කුරුළු උණ හේතුවෙන් ලොව වාර්තා වූ පළමු පුද්ගල මරණය මෙය වෙයි.
+
+59 හැවිරිදි එම පුද්ගලයා වෛරසයට නිරාවරණය වූයේ කෙසේද යන්න මෙතෙක් හෙළිවී නොමැත.
+
+නමුත් ලෝක සෞඛ්‍ය සංවිධානය පැවසුවේ කුරුළු උණ වෛරසය මිනිසාට වැළඳීමේ හැකියාව ඉතා අඩු බවයි.
+
+◼️
+
+[Data](articles/bb66ed69.json)
 
 ---
 
@@ -2109,81 +2157,5 @@ Prasad bagged 554,289 votes as against Singh’s 499,722 and won the seat by a m
 [Data](articles/ffd00122.json)
 
 [Extended Data](ext_articles/ffd00122.ext.json)
-
----
-
-### SriLankan Airlines notches Rs.1.12bn profit in nine months ended Dec. 2023
-
-*2024-06-06 03:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SriLankan-Airlines-notches-Rs-1-12bn-profit-in-nine-months-ended-Dec-2023/108-284219) · `en`
-
-National carrier SriLankan Airlines has managed to move towards the positive territory, as it recorded a profit for the nine months ended December 31, 2023.
-
-The airline, which is in the process of being privatised, reported a profit of Rs.1.124 billion for the nine months ended December 31, 2023, the 2023 budget position report showed.
-
-For the full financial year ended March 31, 2023, 2022, 2021 and 2020, the carrier recorded a loss of Rs.73.26 billion, Rs.165.89 billion, Rs.45.23 billion and Rs.47.19 billion.
-
-The official data showed that SriLankan Airlines recorded a revenue of Rs.248 billion for the nine months through December 31, 2023. Expenditure for the period recorded Rs.223 billion, leading to an earning before tax of Rs.24.5 billion.
-
-...
-
-[Data](articles/12e31a2e.json)
-
-[Extended Data](ext_articles/12e31a2e.ext.json)
-
----
-
-### We will achieve green goals in 2040
-
-*2024-06-06 02:11:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/2040-ஆம்-ஆண்டில்-பசுமை-இலக்குகளை-அடைவோம்/175-338518) · `ta`
-
-Sri Lanka aims to achieve green goals by 2040 alongside its economic objectives, as announced by President Ranil Wickremesinghe during World Environment Day. This commitment involves amending the outdated Environmental Act and introducing the Climate Change Act, along with establishing a division within the Ministry of Finance to manage Green Economy Projects. The government also plans to implement an agricultural modernization program aligned with environmental policies, aiming for nationwide rollout.
-
-🟩
-
-President Ranil Wickremesinghe has said that Sri Lanka will be dedicated to achieving green goals in the 2040s while reaching economic goals.
-
-The President said this at the World Environment Day held at the Presidential Office yesterday. As he further stated,
-
-This goal is to reach when reaching the country's economic goals. We have focused on reaching this goal by 2040 without waiting until 2050. We are acting accordingly.
-
-After this Bill is passed, it will become a national policy. Each company must act accordingly, and the NGOs must act accordingly.
-
-In addition, it is necessary to amend the Environmental Act prepared by the Central Environmental Authority. Environmental Act was made in the 80s. Now the situation has changed than that. We expect to carry out those amendments in the future.
-
-...
-
-[Data](articles/1dd4a546.json)
-
-[Extended Data](ext_articles/1dd4a546.ext.json)
-
----
-
-### An elephant killed in KinniyaThree people died in a week
-
-*2024-06-06 01:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/185411) · `ta`
-
-In Kinniya, a 61-year-old man named Muhaideen Bichi Mohammed Aniba died after being attacked by a wild elephant. This incident occurred within a week where three farmers were targeted by elephants. The attacks have caused concern among the local population, especially since the elephants have been entering residential areas, damaging houses, and destroying crops like coconut, banana, and sugarcane. Despite efforts to deter them with electric fences, the situation remains critical, leading locals to call for effective measures to control the elephant population.
-
-🟩
-
-A man who was involved in a wild elephant in the Majeed Nagar area of ​​the Kinniya Police Division died on Tuesday night when a wild elephant was attacked, police said.
-
-The deceased is Muhaideen Bichi Mohammed Aniba (age 61), who lived in Wellangulam from Kinniya Poovarasandi.
-
-Meanwhile, the other three farmers who were involved in agricultural custody have escaped the clutches of the elephant.
-
-It is said that the deceased was the father of 5 children and that the elephant was attacked at around 9.00 pm when he chased the elephant from his house.
-
-The public reports that the elephants coming to the residential areas are threatening to enter the area.
-
-The elephant that attacked the man has also damaged a house.Knowing that the elephant was attacking the house, he mentioned that she had reflected in the neighboring house.
-
-After the elephant was completely attacked by the tile house, a building that had been set up there had broken and ate the paddy that was placed inside it.
-
-...
-
-[Data](articles/2b1194ad.json)
-
-[Extended Data](ext_articles/2b1194ad.ext.json)
 
 ---

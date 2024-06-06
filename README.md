@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-07 01:34:52**
+As of **2024-06-07 01:53:21**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,641
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,940 (100.0%) of 28,941 articles have been extended.
+28,941 (100.0%) of 28,941 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -68,23 +68,33 @@ There was little or no attempt by most Israeli-friendly nations to make use of t
 
 ---
 
-### 1,700 ரூபாய் சம்பளம் இம்மாதம் கிடைக்காது
+### 1,700 rupees won't get this month
 
 *2024-06-07 00:29:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/1-700-ரூபாய்-சம்பளம்-இம்மாதம்-கிடைக்காது/175-338572) · `ta`
 
-பெருந்தோட்ட தொழிலாளர்களுக்காக 1,700 ரூபாய் சம்பள உயர்வு இம்மாதம் (10)ஆம் திகதி தொழிலாளர்கள் கிடைப்பதில் சந்தேகம் ஏற்பட்டுள்ளது.
+A proposed 1,700 rupee salary hike for plantation workers, announced via a May 21st gazette notification, faces opposition from employers who claim financial strain. Despite a court appeal hearing on June 3rd, no interim injunction was issued against the wage increase. Workers await confirmation of the new rate, but plantation administrators insist the old salaries will apply due to the completion of this month's payroll before the announcement.
 
-பெருந்தோட்ட தொழிலாளர்களுக்கு 1,700 ரூபாய் நாளாந்த சம்பளம் வழங்கப்பட வேண்டுமென  தொழில் அமைச்சின் செயலாளர் மே 21 ஆம் திகதி வர்த்தமானி அறிவித்தல் ஒன்றை வெளியிட்டிருந்தார்.
+🟩
 
-அந்தத் தொகையை, தம்மால் தொழிலாளர்களுக்கு வழங்க முடியாதென பெருந்தோட்ட முதலாளிமார் சம்மேளனம் எதிர்ப்பு காட்டி வந்திருந்தது. சம்பள அதிகரிப்பு வர்த்தமானியை சவாலுக்கு உட்படுத்தி  21 பெருந்தோட்ட நிறுவனங்கள் மேன் முறையீட்டு நீதிமன்றத்தில் வழக்கு தாக்கல் செய்திருந்தனர்.
+The 1,700 rupee salary hike for plantation workers is suspected of getting workers on the 10th of this month.
 
-வழக்கை கடந்த (03) ஆம் திகதி விசாரணைக்கு எடுத்து கொண்ட மேன் முறையீட்டு நீதிமன்றம், வர்த்தமானிக்கு எதிராக இடைக்கால தடையுத்தரவை பிறப்பிக்க முடியாதென தீர்ப்பளித்தது.
+The Secretary of the Ministry of Labor issued a gazette notification on May 21 to pay a daily salary of Rs 1,700 for plantation workers.
 
-இது இவ்வாறிருக்க,  இம்மாதம் (10) தாம் திகதி வழங்கப்படவுள்ள மாத சம்பளம் 1,700 ரூபாய் படியே தயாரிக்கப்படுமென  தொழிலாளர்கள் நினைத்துக்கொண்டுள்ளனர்.
+The Plantation Employers Federation was opposed to the fact that it could not afford the workers. The 21 plantation companies have filed a case in the Court of Appeal, challenging the salary increase gazette.
 
-...
+The Court of Appeal, which was heard by the case on the 03rd, ruled that an interim injunction was not issued against the Gazette.
+
+In the meantime, workers are hoping that the monthly salary will be made at Rs 1,700.
+
+However, the final account of this month's salary was completed by the plantation administrations on Wednesday 05th. Therefore, plantation union leaders say the old salary will be available.
+
+Plantation administrations have told union leaders and union leaders that they have not been able to get any round of salary increases.
+
+◼️
 
 [Data](articles/13e3bc1f.json)
+
+[Extended Data](ext_articles/13e3bc1f.ext.json)
 
 ---
 

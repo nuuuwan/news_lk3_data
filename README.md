@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-06 09:34:13**
+As of **2024-06-06 09:53:25**
 
 ## Newspaper Stats
 
-*Scraped **28,746** Articles*
+*Scraped **28,752** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,123 @@ islandlk | 1,553
 economynextcom | 1,635
 dailyftlk | 1,711
 adalk | 2,450
-adaderanalk | 3,257
-tamilmirrorlk | 3,378
+adaderanalk | 3,258
+tamilmirrorlk | 3,379
 virakesarilk | 4,414
 dailymirrorlk | 4,561
-adaderanasinhalalk | 4,611
+adaderanasinhalalk | 4,615
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,746 (100.0%) of 28,746 articles have been extended.
+28,746 (100.0%) of 28,752 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-06 (Thursday)
+
+### උගන්ඩාව ට ජය
+
+*2024-06-06 09:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197447) · `si`
+
+උගන්ඩාව සහ පැපුවා නිව්ගීනියාව අතර පැවති විස්සයි විස්ස ලෝක කුසලාන තරගාවලියේ 'C' කාණ්ඩයේ තරගයෙන් විශිෂ්ට ජයක් වාර්තා කිරීමට උගන්ඩා කණ්ඩායම සමත් විය.
+
+එම ජයග්‍රහණය වාර්තාගත වන්නේ විස්සයි විස්ස ලෝක කුසලාන තරගාවලියකදී උගන්ඩාව ලබාගත් පළමු ජයග්‍රහණය ලෙසට යි.
+
+ප්‍රොවිඩන්ස් හි පැවති මෙම තරගයේ පළමුව පන්දුවට පහරදුන් පැපුවා නිව්ගිනියා කණ්ඩායම රැස්කළේ ලකුණු 77ක් පමණි.
+
+ජයග්‍රහණය සඳහා අවශ්‍යව තිබූ ලකුණු 78 කඩුලු 7ක් දැවී ලබාගැනීමට උගන්ඩාව සමත් විය.
+
+◼️
+
+[Data](articles/b14b5b10.json)
+
+---
+
+### පාර්ලිමේන්තු සභාවාරය ඇරඹේ
+
+*2024-06-06 09:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197446) · `si`
+
+ශ්‍රී ලංකා විදුලිබල පනත් කෙටුම්පත දෙවන වර කියවීමේ විවාදය අද (06) පැවැත්වීමට නියමිතය.
+
+අද පෙරවරුවේ 10.30 සිට පස්වරු 5.00 දක්වා විදුලිබල පනත් කෙටුම්පත දෙවන වර කියවීමේ විවාදය පැවැත්වීමටට නියමිත අතර අනතුරුව එය සම්මත ගැනීමට නියමිතය.
+
+යෝජිත නව විදුලනිබල පනත සහ ශ්‍රේෂ්ඨාධිකරණය විසින් නිගමනය කරන ලද සංශෝධන පාර්ලිමේන්තුවේ බලශක්ති අධීක්ෂණ කාරක සභාව විසින් අනුමත කරනු ලැබීය.
+
+ඒ අනුව එම පනත අද දිනයේ පාර්ලිමේන්තුවේ විවාදයට ගෙන සම්මත කිරීමට බලාපොරොත්තු වන බව විදුලිබල හා බලශක්ති අමාත්‍ය කංචන විජේසේකර මහතා ස﻿ඳහන් කළේය.
+
+◼️
+
+[Data](articles/676db10a.json)
+
+---
+
+### மாணவன் தாக்கியதில் 15 வயது மாணவன் மரணம்
+
+*2024-06-06 09:22:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவன்-தாக்கியதில்-15-வயது-மாணவன்-மரணம்/175-338520) · `ta`
+
+ஹம்பாந்தோட்டை பொலிஸ் பிரிவுக்குட்பட்ட சிப்பிக்குளம பகுதியில் நேற்று மாலை (05) பாடசாலை மாணவர்கள் இருவருக்கு இடையில் ஏற்பட்ட மோதலில் ஒருவர் உயிரிழந்துள்ளார்.
+
+இதில் படுகாயமடைந்த மாணவன் ஹம்பாந்தோட்டை வைத்தியசாலையில் அனுமதிக்கப்பட்டு அவசர சிகிச்சைப் பிரிவில் சிகிச்சை பெற்று வந்த நிலையில் அவர் உயிரிழந்துள்ளார்.
+
+ஹம்பாந்தோட்டை நகரிலுள்ள பாடசாலையொன்றில் 10ஆம் தரத்தில் கல்வி கற்கும் இவர், நேற்று மேலதிக வகுப்பில் கலந்துகொள்வதற்காக சிப்பிக்குளம பகுதிக்கு சென்றுள்ளார்.
+
+இதன்போது ஹம்பாந்தோட்டையில் உள்ள மற்றுமொரு பாடசாலையைச் சேர்ந்த மாணவர் ஒருவர் குறித்த மேலதிக வகுப்புக்கு அருகில் சென்று 10ஆம் தரத்தில் கல்வி கற்கும் மாணவனை தாக்கியுள்ளார்.
+
+இரு மாணவர்களுக்கும் இடையில் ஏற்பட்ட தகராறே மோதலுக்குக் காரணம் என விசாரணையில் தெரியவந்துள்ளது.
+
+இந்நிலையில், மாணவனின் மரணம் தொடர்பில் 17 வயதுடைய பாடசாலை மாணவனை பொலிஸார் கைது செய்துள்ளனர். R
+
+◼️
+
+[Data](articles/ab5f2530.json)
+
+---
+
+### ගංවතුර බැස ගියත් අවදානම තවදුරටත්
+
+*2024-06-06 09:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197445) · `si`
+
+ගංවතුර තත්ත්වයන් ක්‍රමයෙන් අඩුවෙමින් පැවතිය ද ගංවතුරේ බලපෑම ඇතැම් ස්ථානවල තවදුරටත් පවතිනු ඇති බව වාරිමාර්ග දෙපාර්තමේන්තුව පවසයි.
+
+එම දෙපාර්තමේන්තුව පෙන්වාදෙන්නේ ගිං ගඟ සහ නිල්වලා ගඟ ආශ්‍රිත ගංවතුර අනතුරු ඇඟවීම ඉදිරි පැය 48 සඳහා ද දීර්ඝ කර ඇති බවය.
+
+කැලණි ගඟේ ජලමට්ටම මේ වන විට සාමාන්‍ය තත්ත්වයට පත්ව ඇති අතර කළු ගඟේ ජල මට්ටම ද ක්‍රමානුකූලව අඩුවෙමින් පවතින බව වාර්මාර්ග දෙපාර්තමේන්තුව පවසයි.
+
+මේ අතර ජල ගැලීම් තත්ත්වයත් සමග විවිධ ලෙඩ රෝග පැතිර යාමේ අවදානමක් පවතින බැවින් ජනතාව ඒ පිළිබඳ විමසිලිමත් විය යුතු බව සෞඛ්‍ය අමාත්‍යාංශ ලේකම් විශේෂඥ වෛද්‍ය පාලිත මහීපාල මහතා පවසයි.
+
+අනවශ්‍ය පරිදි ගංවතුර පවතින ප්‍රදේශ වෙත යෑමෙන් වළකින ලෙස සෞඛ්‍ය අමාත්‍යාංශ ලේකම්වරයා ජනතාවගෙන් ඉල්ලීමක් කරයි.
+
+සෞඛ්‍ය ප්‍රවර්ධන කාර්යාංශයේ පැවති මාධ්‍ය හමුවකට එක්වෙමින් සෞඛ්‍ය අමාත්‍යාංශ ලේකම් විශේෂඥ වෛද්‍ය පාලිත මහීපාල මහතා මෙම අදහස් පළ කළේය.
+
+...
+
+[Data](articles/11d6449f.json)
+
+---
+
+### Two suspects arrested with Kerala cannabis worth over Rs. 28 million
+
+*2024-06-06 09:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/99692/two-suspects-arrested-with-kerala-cannabis-worth-over-rs-28-million-) · `en`
+
+A search operation conducted by the Sri Lanka Navy in the Ampan sea area of Nagar Kovil, Jaffna has led to the apprehension of 02 suspects and a dinghy loaded with over 70kg (wet weight) of Kerala cannabis.
+
+The search operation was carried out by the Naval Detachment Mamunai belonging to the Naval Establishment Veththalakerni in the Northern Naval Command.
+
+During this operation, naval personnel intercepted a suspicious dinghy in the Ampan sea area and seized about 70kg and 100g (wet weight) of Kerala cannabis stuffed in 31 parcels. The operation also led to the apprehension of 02 suspects onboard the boat.
+
+The gross street value of Kerala cannabis seized in this operation is estimated to be over Rs. 28 million.
+
+The suspects held in this operation were identified as residents of Mulliyan Jaffna, aged 34 and 40.
+
+The accused, along with Kerala cannabis and the dinghy were handed over to the Maruthankerny Police for onward legal action, the navy said.
+
+◼️
+
+[Data](articles/2987f05e.json)
+
+---
 
 ### Teenage schoolboy dies after fatal assault by another student
 
@@ -53,6 +155,24 @@ Police have arrested a 17-year-old student in connection with the death.
 [Data](articles/5fd4712f.json)
 
 [Extended Data](ext_articles/5fd4712f.ext.json)
+
+---
+
+### සජිත් - අනුර විවාදයට කුමක් වෙයි ද?
+
+*2024-06-06 09:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197444) · `si`
+
+විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා සමග විවාදයට අද (06) දිනයේත් ඕනෑම අවස්ථාවක අනුර කුමාර දිසානායක මහතා සූදානමින් පසුවන බව ජාතික ජනබලවේගයේ විධායක කමිටු සාමාජික වෛද්‍ය නලින්ද ජයතිස්ස මහතා පවසයි.
+
+ඔහු පවසන්නේ ඒ සම්බන්ධයෙන් සමගි ජනබලවේගය පක්ෂයෙන් මේ දක්වාත් කිසිදු ප්‍රතිචාරයක් ලැබී නොමැති බවය.
+
+අද දිනයෙන් පසුව පක්ෂයේ නායකයින් අතර විවාදයක් පැවැත්වීමට බලාපොරොත්තු නොවන බව නලින්ද ජයතිස්ස මහතා සඳහන් කළේය.
+
+කෙසේවෙතත් අදාළ විවාදය සම්බන්ධයෙන් සමගි ජන බලවේගයේ පාර්ලිමේන්තු මන්ත්‍රී නලීන් බණ්ඩාර මහතා පවසා සිටියේ, ජනාධිපතිවරයක් ප්‍රකාශයට පත්කරන තෙක් තම පක්ෂය මෙම විවාදයන්ට සුදානමින් සිටින බවය.
+
+◼️
+
+[Data](articles/53b6b9cd.json)
 
 ---
 
@@ -2011,133 +2131,5 @@ Zonal Education Directors were authorized to determine the schools affected by f
 [Data](articles/1d835b6c.json)
 
 [Extended Data](ext_articles/1d835b6c.ext.json)
-
----
-
-### Modi's speech thanked Ranil, Mahinda and Sajith and Fonseka
-
-*2024-06-05 18:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197431) · `si`
-
-Narendra Modi, newly appointed as Thiwara Prime Minister, expressed gratitude towards Sri Lankan leaders including Ranil Wickremesinghe, Mahinda Rajapakse, Sajith Premadasa, and Sarath Fonseka post his victory. He also discussed strengthening ties between Sri Lanka and India during his meeting. Modi is set to be sworn in for his next term and has submitted his resignation to the Indian President, which has been accepted.
-
-🟩
-
-Narendra Modi, who was appointed as the Thiwara Prime Minister, has been appointed as the Thiwara Prime Minister that he expects to work with Sri Lanka.
-
-President Ranil Wickremesinghe, former President Mahinda Rajapakse, Sajith Premadasa and MP Sarath Fonseka has thanked President Rajapaksa's meeting after his victory.
-
-President Ranil Wickremesinghe has responded to Sri Lanka to further strengthen the partnership with India as the closest neighbor.
-
-Meanwhile, Narendra Modi, who was appointed as the Prime Minister of the Thief, is due to be sworn in at the next term of Saturday.
-
-Narendra Modi met the President of India and handed over the letter of resignation.
-
-The President said that the letter of resignation has been accepted by the President.
-
-◼️
-
-[Data](articles/b71c0995.json)
-
-[Extended Data](ext_articles/b71c0995.ext.json)
-
----
-
-### Assault on 4-year-old child: ’Kukul Chaminda’ remanded
-
-*2024-06-05 18:43:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Assault-on-4-year-old-child-Kukul-Chaminda-remanded/108-284181) · `en`
-
-June 05 - The suspect identified as Kukul Chaminda alias Bibile Chaminda, who was arrested for the assault on a 4-year-old child, was remanded until June 19.
-
-Police initiated investigations following the circulation of a viral video on social media, depicting the suspect's ruthless assault on the child.
-
-◼️
-
-[Data](articles/8e42793f.json)
-
-[Extended Data](ext_articles/8e42793f.ext.json)
-
----
-
-### Attached at probation of five, including cukubhmsa
-
-*2024-06-05 18:41:44* · [`adalk`](https://www.ada.lk/breaking_news/කුකුල්-චමින්ද-ඇතුලු-5-ක්-බන්ධනාගාරයට-දැරිය-පරිවාසයට/11-410034) · `si`
-
-A magistrate ordered several individuals, including a minor, to be remanded until June 19. A young girl was sent to Mullaittivu General Hospital, while four others were brought before the court. Two women, possibly the girl's relatives, were also remanded. Additionally, orders were issued for the transfer of a person named Padaviya Magistrate to correspondents in Mullaittivu and Welioya.
-
-🟩
-
-Tandaviya Magistrate Kanchana Buddhism was ordered to be remanded until June 19 (05) to be remanded until June 19 (05).
-
-After the small girl to the jurisdiction of Mullaittivu General Hospital today, four other suspects, the small suspect, was produced before the Tourist Magistrate.
-
-Two women, who are said to be his wife, who were housed in Palmudai area, was ordered to be remanded until the 19th of this month.
-
-Meanwhile, Padavath Kasun Kanchana Kanchana Buddhist monastery was ordered to be taken to transfer the Kudu girl in Anuradhapura.
-
-Padaviya Magistrate was ordered to be presented to the correspondent of Mullaitivu and the Chief Inspector of Welioya OIC.
-
-◼️
-
-[Data](articles/707cb734.json)
-
-[Extended Data](ext_articles/707cb734.ext.json)
-
----
-
-### Suspects arrested over brutal assault on child in Pulmudai remanded
-
-*2024-06-05 18:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/99686/suspects-arrested-over-brutal-assault-on-child-in-pulmudai-remanded-) · `en`
-
-Five persons including the 45-year-old main suspect and two women who were arrested for inhumanely assaulting a four-and-a-half-year-old child, after a video of the incident went viral on social media, have been ordered remanded.
-
-The Padaviya Magistrate’s Court has ordered the suspects to remanded in custody until June 19 after they were produced before the court.
-
-Meanwhile, the assaulted child has been placed under probationary care.
-
-Police said suspects were arrested on the charges of aiding and abetting the assault in the Arisimale area of Pulmudai, early this morning (05).
-
-Police said that they are residents of Welioya Kalyanapura area.
-
-◼️
-
-[Data](articles/49d70ac6.json)
-
-[Extended Data](ext_articles/49d70ac6.ext.json)
-
----
-
-### Today’s exchange rate - 05 June 2024
-
-*2024-06-05 18:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Todays-exchange-rate-05-June-2024/108-284171) · `en`
-
-◼️
-
-[Data](articles/dcd78355.json)
-
-[Extended Data](ext_articles/dcd78355.ext.json)
-
----
-
-### Practical Education System is useless for the country and children - Rohini Gavaratne
-
-*2024-06-05 18:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/185395) · `ta`
-
-Rohini Gavaratne criticizes Sri Lanka's education system, stating it's ineffective for both the nation and its students, leading to psychological crises among learners. She highlights issues like incomplete learning activities, lack of public exams, and inadequate facilities in rural areas, urging the government to address these problems.
-
-🟩
-
-The current educational system of Sri Lanka is useless for the country or the children. Opposition parliamentarian Rohini Kumari Gavaratne said that students have faced psychological crises due to inappropriate education system.
-
-He was speaking at the launching of the postponement of the House of Education on Wednesday (05) in Parliament.
-
-The Department of Education has not returned to us to date. It was unable to conduct public exams during this period. The main reason for this was the inability to complete the learning activities in a timely manner. As a result, the students of the difficulty area have been greatly affected.
-
-Meanwhile. We demand the government to take action to solve them.
-
-...
-
-[Data](articles/cbe1e068.json)
-
-[Extended Data](ext_articles/cbe1e068.ext.json)
 
 ---

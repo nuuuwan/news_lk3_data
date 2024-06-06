@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-06 10:52:45**
+As of **2024-06-06 11:04:38**
 
 ## Newspaper Stats
 
-*Scraped **28,764** Articles*
+*Scraped **28,767** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,28 +19,90 @@ adalk | 2,451
 adaderanalk | 3,261
 tamilmirrorlk | 3,381
 virakesarilk | 4,414
-dailymirrorlk | 4,564
+dailymirrorlk | 4,567
 adaderanasinhalalk | 4,617
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,760 (100.0%) of 28,764 articles have been extended.
+28,764 (100.0%) of 28,767 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-06 (Thursday)
 
-### ஜனாதிபதியின் அரசியல் அலுவலகம்
+### Time allocated for debate on Electricity Amendment Bill to be extended
+
+*2024-06-06 10:49:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Time-allocated-for-debate-on-Electricity-Amendment-Bill-to-be-extended/108-284238) · `en`
+
+Parliament, June 6 (Daily Mirror)- The time allocated for the Parliamentary debate on the Electricity Amendment Bill is to be extended following the requests by Opposition MPs.
+
+The final decision on the extension will be made at the party leaders' meeting to be held at 1pm today.
+
+An uproar was seen earlier in Parliament today when the Opposition wanted more time for  the debate on the Electricity Amendment Bill in order to study the amendments and the Supreme Court determination.
+
+The uproar began when MP Nalaka Bandara Kottegoda said the Sectoral Oversight Committee on Power and Energy had given the green light for the legislation subject to amendments.
+
+MP Charitha Herath who responded said a decent space of time should be given to MPs to study the legislation as per Standing Orders 50(2). He said this situation should be taken into consideration.
+
+...
+
+[Data](articles/ff84df6e.json)
+
+---
+
+### Stoinis shines as Australia cruise past Oman in T20 opener
+
+*2024-06-06 10:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Stoinis-shines-as-Australia-cruise-past-Oman-in-T20-opener/108-284237) · `en`
+
+(Bridgetown) - Marcus Stoinis shone with bat and ball as Australia launched their bid for a grand slam of major cricket titles with a 39-run victory over Oman at the T20 World Cup in Barbados on Wednesday.
+
+Stoinis smashed a game-changing 67 not out off just 36 balls to power Australia to 164-5 and then took three wickets for 19 runs as Oman were restricted to 125-9 in reply at Kensington Oval.
+
+"It was a nice start," player of the match Stoinis said afterwards. "Maybe a few cobwebs for us but we're better for it, and nice that we got the win.
+
+"And nice that I got to spend some time in the middle and have a bit of a bowl."
+
+Stoinis hammered six sixes and two fours during a swashbuckling batting performance that led Australia's recovery after they had slumped to 50-3 earlier in the innings.
+
+...
+
+[Data](articles/c2e7df66.json)
+
+---
+
+### Lack of modern equipment prevented accurate forecast of inclement weather
+
+*2024-06-06 10:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Lack-of-modern-equipment-prevented-accurate-forecast-of-inclement-weather/108-284228) · `en`
+
+Lack of proper equipment prevented accurate forecast of the recent inclement weather conditions, geologist Professor Athula Senaratne said yesterday.
+
+“It would have been possible to issue prior warning of 400mm rains which some parts of the nation experienced during the past few days if the necessary equipment was available,” Professor Senaratne told journalists in Kandy.
+
+He also said Sri Lanka does not have proper equipment to measure rainfall.
+
+◼️
+
+[Data](articles/b2abe038.json)
+
+---
+
+### President's political office
 
 *2024-06-06 10:34:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியின்-அரசியல்-அலுவலகம்/175-338524) · `ta`
 
-ஜனாதிபதி ரணில் விக்ரமசிங்க இன்று காலை சுபநேரத்தில் கொழும்பில் தனது அரசியல் அலுவலகத்தை திறந்து வைத்தார்.
+President Ranil Wickremesinghe opened his political office in Colombo today.
+
+🟩
+
+President Ranil Wickremesinghe inaugurated his political office in Colombo this morning.
 
 ◼️
 
 [Data](articles/2084b1ee.json)
+
+[Extended Data](ext_articles/2084b1ee.ext.json)
 
 ---
 
@@ -57,6 +119,8 @@ The Supreme Court declared that former President Maithripala Sirisena violated t
 ...
 
 [Data](articles/e184257f.json)
+
+[Extended Data](ext_articles/e184257f.ext.json)
 
 ---
 
@@ -76,23 +140,31 @@ Hambantota Police are currently conducting further inquiries into the incident.
 
 [Data](articles/7f24ee1f.json)
 
+[Extended Data](ext_articles/7f24ee1f.ext.json)
+
 ---
 
-### வெள்ளத்தில் சிக்கி காணாமல் போன மாணவன் சடலமாக மீட்பு
+### Missing student's body recovered
 
 *2024-06-06 10:11:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெள்ளத்தில்-சிக்கி-காணாமல்-போன-மாணவன்-சடலமாக-மீட்பு/175-338522) · `ta`
 
-அங்குருவத்தோட்ட பொலிஸ் பிரிவிற்குட்பட்ட நேபட நியூச்செட்டல் தோட்டத்தில் வெள்ளத்தில் சிக்கி காணாமல் போயிருந்த மாணவனின் சடலம் கண்டுபிடிக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+A 17-year-old student's body, missing after floods in the Nappa Newchel estate under Angruvathota police, was found in the Udura Gramaseva section. The body is at Horana Hospital as Angruvatti police continue investigating.
 
-குறித்த பகுதியில் உள்ள பாடசாலை மாணவர் ஒருவர் வெள்ளத்தில் சிக்கியதாக நேற்று தெரியவந்தது.
+🟩
 
-பின்னர் அங்குருவத்தோட்ட பொலிஸ் பிரதேசத்தில் உடுவர கிராமசேவர் பிரிவில் 17 வயதுடைய பாடசாலை மாணவனின் சடலம் நேற்று மீட்கப்பட்டிருந்தது.
+The body of a student who was missing in a flood in the Nappa Newchel estate, which belongs to the Angruvathota police division, has been found, police said.
 
-சடலம், ஹொரணை வைத்தியசாலையில் வைக்கப்பட்டுள்ளதுடன், அங்குருவத்தோட்ட பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர். R
+It was revealed yesterday that a schoolgirl in the area was flooded.
+
+The body of a 17 -year -old schoolgirl was recovered yesterday in the Udura Gramasevar section of the Angruvathota police area.
+
+The body is being kept at the Horana Hospital and the Angruvatti police are conducting further investigations.. Remble
 
 ◼️
 
 [Data](articles/88b54c0a.json)
+
+[Extended Data](ext_articles/88b54c0a.ext.json)
 
 ---
 
@@ -2055,77 +2127,5 @@ Seven tropical tea varieties from various regions in the country were launched t
 [Data](articles/c856ad01.json)
 
 [Extended Data](ext_articles/c856ad01.ext.json)
-
----
-
-### Two underworld gangsters arrested
-
-*2024-06-05 20:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Two-underworld-gangsters-arrested/108-284194) · `en`
-
-Two underworld gangsters operating the drug trafficking network in the country on the directions of their leaders known named 'Alagoram Jothi Ruban' and 'Sedawatte Kasun' currently in hiding in Dubai, were arrested today.
-
-The arrest was made by the Organized Crime Investigation Unit of the CID during raids in Kotuwila in Wellampitiya and Meegahawatta in Avissawella.
-
-Police said the two suspects were close confidantes of the underworld leaders hiding in Dubai and responsible for a series of crimes and drug trafficking in Sri Lanka.
-
-Under interrogation, one of the suspects provided information leading to the recovery of a foreign made revolver and 54 rounds of live ammunition that had been buried behind a house belonging to his brother in the Kotuwila area.
-
-A stock of 13.680 grams of heroin was recovered from a house in Kumbukgetewatta in Weliweriya on information provided by the suspect arrested from Migathawatta in Avissawella.
-
-◼️
-
-[Data](articles/9d981eed.json)
-
-[Extended Data](ext_articles/9d981eed.ext.json)
-
----
-
-### Tamil General Candidate Functionable Strategy
-
-*2024-06-05 20:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/185405) · `ta`
-
-The Tamil general candidate's strategy in the Sri Lankan presidential election is deemed ineffective due to a lack of consideration for the Tamil people's long-term aspirations. Despite continuous mandates issued by the Tamil community during elections, their needs are overlooked post-elections. The Sri Lankan government's failure to implement agreements, including constitutional amendments, and the denial of the Tamil people's right to self-determination, have led to frustration. The EU delegation expressed concerns about the Tamil general candidate's relevance and the postponement of elections, highlighting the importance of holding elections to uphold democratic rights.
-
-🟩
-
-The strategy of Tamil general candidate in the presidential election is ineffective. Senior Leader of the Sri Lanka Tamil National Party and Trincomalee District Parliamentarian R. Sampanthan said that a final decision should be taken with the leaders of the South.
-
-At the same time, the rulers of the South are rejected by the Tamil people's continuing mandate, he urged the appointment of the Tamil people to accept the mandate of the Tamil people beyond the election.
-
-The EU delegation, which visited Sri Lanka, met him at the residence of Sampanthan in Colombo yesterday.. Jaffna MP MA Sumanthiran was also present at the meeting.
-
-The Tamil people are constantly issuing mandate on each election based on the need to fulfill their long -term aspirations. However, the actions that are being carried out are carried out without considering the mandate they are offering.
-
-...
-
-[Data](articles/996980f5.json)
-
-[Extended Data](ext_articles/996980f5.ext.json)
-
----
-
-### One person arrested in Katunayake
-
-*2024-06-05 20:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197434) · `si`
-
-In Katunayake, a person attempting to flee to Canada was arrested by immigration officers. The suspect had completed flight clearance but returned to submit his passport, which included his photo. This incident led to the inclusion of his passport photos in the Department of Immigration records. The arrest occurred after the suspect was identified as being from Jaffna, where he resides. Further investigations are ongoing.
-
-🟩
-
-A person who had come to flee to Canada has been arrested by the Immigration and Emigration Officers who have come to flee to Canada using another visit.
-
-It is said that the suspect had completed his flights clearance work and returned to the immigration window and submitted his passport.
-
-The photograph of the passport and his photograph of the passport have been included in this passport to the Department of Immigration and the Department of Immigration.
-
-According to the Trincomalee Courts, the Trincomalee Courts have been banned by the Trincomalee Courts with banning the country.
-
-Residence residents of Jaffna, who was arrested, was residing in Jaffna for further investigations.
-
-◼️
-
-[Data](articles/02a85516.json)
-
-[Extended Data](ext_articles/02a85516.ext.json)
 
 ---

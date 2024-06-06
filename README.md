@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-06 11:04:38**
+As of **2024-06-06 11:18:58**
 
 ## Newspaper Stats
 
-*Scraped **28,767** Articles*
+*Scraped **28,769** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,13 +20,13 @@ adaderanalk | 3,261
 tamilmirrorlk | 3,381
 virakesarilk | 4,414
 dailymirrorlk | 4,567
-adaderanasinhalalk | 4,617
+adaderanasinhalalk | 4,619
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,764 (100.0%) of 28,767 articles have been extended.
+28,767 (100.0%) of 28,769 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,6 +50,8 @@ MP Charitha Herath who responded said a decent space of time should be given to 
 
 [Data](articles/ff84df6e.json)
 
+[Extended Data](ext_articles/ff84df6e.ext.json)
+
 ---
 
 ### Stoinis shines as Australia cruise past Oman in T20 opener
@@ -70,6 +72,28 @@ Stoinis hammered six sixes and two fours during a swashbuckling batting performa
 
 [Data](articles/c2e7df66.json)
 
+[Extended Data](ext_articles/c2e7df66.ext.json)
+
+---
+
+### මෛත්‍රී දුන් ජනාධිපති සමාවක් ශ්‍රේෂ්ඨාධිකරණය බලරහිත කරයි
+
+*2024-06-06 10:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197451) · `si`
+
+මහත් ආන්දෝලනයකට තුඩු දුන් රාජගිරිය, රෝයල් පාක් මිනීමැරුම් සිද්ධිය සම්බන්ධයෙන් මරණීය දණ්ඩනය නියම වී සිටි ජූඩ් ශමන්ත ජයමහ නැමැති විත්තිකරුට සමාව ප්‍රදානය කර නිදහස් කිරීමට හිටපු ජනාධිපති මෛත්‍රිපාල සිරිසේන මහතා ගත් තීරණය ආණ්ඩුක්‍රම ව්‍යවස්ථාවට පටහැනි බව ශ්‍රේෂ්ඨාධිකරණය තීන්දු කළේය.
+
+ඒ අනුව හිටපු ජනාධිපතිවරයා විසින් අදාළ විත්තිකරු නිදහස් කරමින් දුන් ජනාධිපති සමාව බලරහිත බවත් තීන්දුවේ සඳහන් වුණි.
+
+ඊට අමතරව මෛත්‍රිපාල සිරිසේන මහතා විසින් රුපියල් ලක්ෂ 10 වන්දියක් පෙත්සම්කරුට ගෙවිය යුතු බවත් නියෝග කෙරුණි.
+
+මේ අතර, අගතියට පත් තරුණියගේ මවට සහ පියාට රුපියල් මිලියනය බැගින් වන්දි ගෙවන ලෙසත් මෛත්‍රිපාල සිරිසේන මහතාට තවත් නියෝගයක් නිකුත් කළේය.
+
+මෙම ක්‍රියාව තුළින් ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා ආණ්ඩුක්‍රම ව්‍යවස්ථාව චේතනාවිතව උල්ලංඝනය කර ඇතැයි තීන්දු කළ ශ්‍රේෂ්ඨාධිකරණය මේ වන විට විදේශගතව සිටින අදාළ විත්තිකරු දේශීය හා ජාත්‍යන්තර සම්මුතින් උපයෝගී කරගෙන මෙරටට ගෙන්වීමට අවශ්‍ය නීතිමය පියවර ගන්නා ලෙසත් නීතිපතිවරයා නියම කළේය.
+
+...
+
+[Data](articles/4c3491ea.json)
+
 ---
 
 ### Lack of modern equipment prevented accurate forecast of inclement weather
@@ -85,6 +109,8 @@ He also said Sri Lanka does not have proper equipment to measure rainfall.
 ◼️
 
 [Data](articles/b2abe038.json)
+
+[Extended Data](ext_articles/b2abe038.ext.json)
 
 ---
 
@@ -121,6 +147,24 @@ The Supreme Court declared that former President Maithripala Sirisena violated t
 [Data](articles/e184257f.json)
 
 [Extended Data](ext_articles/e184257f.ext.json)
+
+---
+
+### ඔස්ට්‍රේලියාවට පහසු ජයක්
+
+*2024-06-06 10:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197450) · `si`
+
+විස්සයි විස්ස ලෝක කුසලාන තරගාවලියේ අද (06) නිමාවට පත්වූ ඕමානය සහ ඔස්ට්‍රේලියාව අතර පැවති තරගය ලකුණු 39කින් ජය ලැබීමට ඔස්ට්‍රේලියාව සමත් විය.
+
+තරගයේ පළමුව පන්දුවට පහරදුන් ඔස්ට්‍රේලියානු කණ්ඩායම සිය ඉනිම සඳහා කඩුලු 5ක් දැවී ලකුණු 164ක් රැස් කළේය.
+
+මාකස් ස්ටෝයිනිස් පන්දු 36කදී නොදැවී ලකුණු 67යි. ඩේවිඩ් වෝනර් ලකුණු 56යි.
+
+පිළිතුරු ලෙස ඕමාන කණ්ඩායම සිය පන්දු ඕවර 20දී කඩුලු 9 දැවී රැස්කළේ ලකුණු 125ක් පමණි.
+
+◼️
+
+[Data](articles/37efabfd.json)
 
 ---
 
@@ -2097,35 +2141,5 @@ We express our gratitude to the Tamil people on behalf of the company for this.
 [Data](articles/0ecb1864.json)
 
 [Extended Data](ext_articles/0ecb1864.ext.json)
-
----
-
-### “More Digital-Readers” Is A Consequence Of “Less Thinkers”
-
-*2024-06-05 20:54:46* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/more-digital-readers-is-a-consequence-of-less-thinkers/) · `en`
-
-The article aims to clarify the relationship between reading and critical thinking. While reading is undoubtedly a valuable habit, globalization has provided us with countless reading options, leading to a decline in critical thinking. Here are my arguments to support this claim.
-
-Digitalization has created a convenient space for people in the 21st century. As a result, many people are choosing to read online, which is especially beneficial for distance learning courses and online public lectures. Importantly, readers can access materials from the comfort of their homes without the need to travel or have massive bookshelves. In my academic career, both as a student and a lecturer, I have always relied on books and the basic support of digital resources. However, I have consistently preferred printed books over online reading because I believe that having a physical library with printed books offers unique advantages that online reading cannot fully satisfy.
-
-...
-
-[Data](articles/4879f0b0.json)
-
-[Extended Data](ext_articles/4879f0b0.ext.json)
-
----
-
-### Fine tea tasting...
-
-*2024-06-05 20:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Fine-tea-tasting/110-284190) · `en`
-
-Seven tropical tea varieties from various regions in the country were launched today in Colombo to celebrate International Tea Day 2024, under the patronage of Agriculture Minister Mahinda Amaraweera. Attendees at the event had the chance to savour the tea presented in an impressive manner. Pix by Kithsiri de Mel
-
-◼️
-
-[Data](articles/c856ad01.json)
-
-[Extended Data](ext_articles/c856ad01.ext.json)
 
 ---

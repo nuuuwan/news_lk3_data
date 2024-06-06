@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-06 17:18:45**
+As of **2024-06-06 17:36:10**
 
 ## Newspaper Stats
 
-*Scraped **28,862** Articles*
+*Scraped **28,870** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,104 @@ newsfirstlk | 363
 islandlk | 1,553
 economynextcom | 1,642
 dailyftlk | 1,711
-adalk | 2,462
+adalk | 2,467
 adaderanalk | 3,276
-tamilmirrorlk | 3,391
+tamilmirrorlk | 3,393
 virakesarilk | 4,427
-dailymirrorlk | 4,586
+dailymirrorlk | 4,587
 adaderanasinhalalk | 4,634
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,859 (100.0%) of 28,862 articles have been extended.
+28,862 (100.0%) of 28,870 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-06 (Thursday)
+
+### வீடியோ கேம் வினையானது: சிறுவன் மீது கத்திக்குத்து
+
+*2024-06-06 17:22:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வீடியோ-கேம்-வினையானது-சிறுவன்-மீது-கத்திக்குத்து/175-338549) · `ta`
+
+அலைபேசியில் வீடியோ கேம் விளையாட அனுமதிக்காத 8 வயது சிறுவனை கத்தியால் குத்திய 13 வயது சிறுவன் விஷம் அருந்தியுள்ளான்.
+
+படுகாயமடைந்த சிறுவன் குட்டிகல பிரதேச வைத்தியசாலையில் அனுமதிக்கப்பட்டு பின்னர் ஹம்பாந்தோட்டை பொது வைத்தியசாலைக்கு மாற்றப்பட்டதுடன் விஷம் அருந்திய சிறுவன்  எம்பிலிபிட்டிய ஆதார வைத்தியசாலையில் அனுமதிக்கப்பட்டது.
+
+புதன்கிழமை மாலை (05), எட்டு வயது சிறுவன் வீடியோ கேம் விளையாடிக் கொண்டிருந்த போது 13 வயது சிறுவன் பக்கத்து வீட்டுக்குச் சென்றான். முன்னவர் வித்தியாசமான விளையாட்டை விளையாட விரும்பினார், ஆனால் பின்னவர் அதை அனுமதிக்கவில்லை. இதன் விளைவாக எட்டு வயது சிறுவன் கத்தியால் குத்தப்பட்டான்.
+
+சம்பவத்திற்குப் பிறகு, அவர் அப்பகுதியில் இருந்து தப்பிச் சென்று ரகசிய இடத்தில் விஷம் குடித்தார். இதனை அவதானித்த நபர் ஒருவர் சிறுவனை குட்டிகல பிரதேச வைத்தியசாலையில் அனுமதித்துள்ளதுடன், பின்னர் அவர் எம்பிலிபிட்டிய ஆதார வைத்தியசாலைக்கு மாற்றப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/1fe463f7.json)
+
+---
+
+### බලංගොඩ කස්සප හිමියන් අත්අඩංගුවට
+
+*2024-06-06 17:10:00* · [`adalk`](https://www.ada.lk/breaking_news/බලංගොඩ-කස්සප-හිමියන්-අත්අඩංගුවට/11-410056) · `si`
+
+යෝජිත විදුලි පනතට එරෙහිව විරෝධතා පුවරුවක් රැගෙන පාර්ලිමේන්තුව අසල උපවාසයක නිරතවෙමින් සිටි පූජ්‍ය බලංගොඩ කස්සප හිමියන් අද (06) දහවල් තලංගම පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+උපවාසය ආරම්භ කර සුළු වෙ පසුව තලංගම පොලිස් නිලධාරීන් පැමිණි උන් වහන්සේ මෙලෙස අත්අඩංගුවට ගෙන තිබේ.
+
+◼️
+
+[Data](articles/c6ad7f18.json)
+
+---
+
+### அரசியல் அலுவலகம் திறப்பு…
+
+*2024-06-06 17:04:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசியல்-அலுவலகம்-திறப்பு/175-338548) · `ta`
+
+ஜனாதிபதி ரணில் விக்ரமசிங்க கொழும்பில் தனது அரசியல் அலுவலகத்தை வியாழக்கிழமை (06) சுப நேரத்தில் திறந்து வைத்தார்.
+
+புதிய அலுவலகம், கொழும்பு சேர் எர்னஸ்ட் டி சில்வா மாவத்தையில் அமைக்கப்பட்டுள்ளதுடன் எதிர்கால அரசியல் நடவடிக்கைகள் இந்த அலுவலகத்தின் ஊடாக மேற்கொள்ளப்படும்.
+
+◼️
+
+[Data](articles/b0e130f0.json)
+
+---
+
+### Special programme to provide text and exercise books to flood affected students: Minister
+
+*2024-06-06 17:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Special-programme-to-provide-text-and-exercise-books-to-flood-affected-students-Minister/108-284275) · `en`
+
+Parliament, June 06 (Daily Mirror)- A special programme is being implemented to provide school text books and exercise books for the students whose books were destroyed due to the floods, Education Minister Susil Premajayantha said today.
+
+He told Parliament that the affected students will be provided with text books and exercise books within the next two weeks.
+
+Responding to a question raised by SJB MP S.M. Marikkar, he said students in areas such as Kolonnawa, Kelanimulla and Wellampitiya have lost their books due to the floods.
+
+The Minister said instructions have been given to prepare a programme at Ministry level to provide the required books.
+
+◼️
+
+[Data](articles/b9086f72.json)
+
+---
+
+### 14 හැවිරිදි දරුවෙක් 09 හැවිරිදි  දරුවෙකුට පිහින් ඇන බරපතළ තුවාල
+
+*2024-06-06 16:59:51* · [`adalk`](https://www.ada.lk/breaking_news/14-හැවිරිදි-දරුවෙක්-09-හැවිරිදි--දරුවෙකුට-පිහින්-ඇන-බරපතළ-තුවාල/11-410055) · `si`
+
+14 හැවිරිදි දරුවෙකු සිදුකළ පිහි ඇනුමකින් බරපතළ තුවාල ලැබූ 09 හැවිරිදි දරුවෙක් හම්බන්තොට මහ රෝහලට ඇතුළත් කර ඇති බව පොලීසිය කියයි.
+
+සිද්ධියෙන් පසු 14 හැවිරිදි දරුවා වස පානය කිරීම හේතුවෙන් ඔහුව ද ඇඹිලිපිටිය රෝහලට ඇතුළත් කර ඇති අතර මෙම සිද්ධිය ඊයේ (05) සවස හම්බන්තොට අගුණකොළපැලැස්ස වැටිය ප්‍රදේශයේ නිවසකදී සිදුවී තිබුණි. 09 හැවිරිදි දරුවාගේ නිවසේදී නිවැසියන් කිසිවෙක් නොමැති අවස්ථාවකදී මෙම පිහි ඇනුම සිදුකර ඇත. එම දරුවන් අසල්වැසි නිවෙස් දෙකක මිතුරන් වන අතර 09 හැවිරිදි දරුවාගේ ශරීරයේ ස්ථාන 6කට හෝ 7කට පිහි ඇනුම් සිදුකර ඇති බවට වාර්තා වූ බවය.
+
+පිහි ඇනුම සිදුකළ බවට චෝදනා එල්ලවී ඇති 14 හැවිරිදි දරුවා දරුණු ලෙස වීඩියෝ ක්‍රීඩා සඳහා ඇබ්බැහිවූ දරුවෙකු බවත් වාර්තා වෙයි.
+
+09 හැවිරිදි දරුවාගේ නිවසේ සිදුවූ මුදල් සොරකමක් සම්බන්ධයෙන් 14 හැවිරිදි දරුවාට අවවාද කිරීමේ සිද්ධියකින් පසු මෙම සිදුවීම ඇතිවී තිබෙන බවද තවදුරටත් වාර්තා විය.
+
+◼️
+
+[Data](articles/0b36c7bf.json)
+
+---
 
 ### Video game leads to stabbing of an eight-year-old
 
@@ -49,6 +131,22 @@ On Wednesday evening (05), the 13-year-old boy visited the neighboring house whe
 ...
 
 [Data](articles/0167611d.json)
+
+[Extended Data](ext_articles/0167611d.ext.json)
+
+---
+
+### ’’කුඩු ජයනී’’ ඇතුලු ප්‍රධාන ගෝලයෙකු අයිස් මත්ද්‍රව්‍ය  සමග අත්අඩංගුවට
+
+*2024-06-06 16:49:18* · [`adalk`](https://www.ada.lk/breaking_news/’’කුඩු-ජයනී’’-ඇතුලු-ප්‍රධාන-ගෝලයෙකු-අයිස්-මත්ද්‍රව්‍ය--සමග-අත්අඩංගුවට/11-410054) · `si`
+
+මොරටුව ,කොරලවැල්ල ප්‍රාදේශයේ මහා පරිමාණයේ මත්ද්‍රව්‍ය ජාවාරම් කාරියක වන " කොරලවැල්ල කුඩු ජයනී" සහ ඇයගේ ප්‍රධාන ගෝලයෙකු අලෙවියට සන්තකයේ තබාගෙන සිටි අයිස් මත්ද්‍රව්‍ය මිලිග්‍රෑම් 54200 ක් සමග අද (06) දින අලුයම වලාන මධ්‍යම දූෂණ මර්දන බලකාය මගින් අත්අඩංගුවට ගෙන ඇතැයි පොලීසිය පැවසීය.
+
+යුක්තිය මෙහෙයුමට සමගාමීව වලාන මධ්‍යම දූෂණ මර්දන බලකාය ස්ථානාධිපති ප්‍රධාන පොලිස්‌ පරීක්ෂක ඉන්දික වීරසිංහ, උප පොලිස්‌ පරීක්ෂක ජයවීර යන මහතුන් ඇතුල නිලධාරී කණ්ඩායමක් විසින් අද අලුයම සිදුකරන ලද වැටලීමේදී ප්‍රධාන ජාවාරම් කාරිය වන ".කොරලවල්ල  ජයනි" යන  ඇයගේ   සන්තකයේ තිබී අයිස් මිලිග්‍ම්   50620 ක්ද  ඇයගේ ප්‍රධාන  ගෝලයෙකු සමග  අයිස්   මත්ද්‍රව්‍ය මිලිග්‍රෑම් 3520 ක්ද සමග පොලිස් භාරයට ගනු ලැබ ඇත .
+
+...
+
+[Data](articles/306bf93e.json)
 
 ---
 
@@ -71,6 +169,8 @@ Scientists said the case is unrelated to the outbreak of H5N1 bird flu in the Un
 ...
 
 [Data](articles/8ae6ab0f.json)
+
+[Extended Data](ext_articles/8ae6ab0f.ext.json)
 
 ---
 
@@ -222,6 +322,8 @@ By providing these vouchers, the Ministry aims to improve school attendance amon
 
 [Data](articles/564675bb.json)
 
+[Extended Data](ext_articles/564675bb.ext.json)
+
 ---
 
 ### Vouchers from Education Ministry to buy sanitary pads for adult schoolgirls
@@ -301,6 +403,22 @@ These petitions were demanding a decision that the local government banding was 
 [Data](articles/d04fc399.json)
 
 [Extended Data](ext_articles/d04fc399.ext.json)
+
+---
+
+### පොලිස්  සැරයන්ගේ සංවිධානාත්මක කල්ලිය අත්අඩංගුවට
+
+*2024-06-06 15:48:24* · [`adalk`](https://www.ada.lk/breaking_news/පොලිස්--සැරයන්ගේ-සංවිධානාත්මක-කල්ලිය-අත්අඩංගුවට/11-410053) · `si`
+
+පොලිස් භෝජනාගාරවලට ලැබෙන සහල් සහ සිල්ලර භාණ්ඩ අඩු මුදලට ලබාදිය හැකි බව පවසා කොළඹ ප්‍රදේශයේ ව්‍යාපාරිකයන් රැසක් මුලා කරමින් සංවිධානාත්මක කල්ලියක් මෙහෙය වූ උප පොලිස් පරීක්ෂකවරයකු ලෙස පෙනී සිටි පොලිස් සැරයන් වරයෙකු ඇතුළු තිදෙනකු අත් අඩංගුවට ගත් බව දෙමටගොඩ පොලිසිය කියයි.
+
+අත්අඩංගුවට ගත් පොලිස් සැරයන්වරයා කොටුව පොලිසියට අනුයුක්ත මුදල් අමාත්‍යාංශ මුරපොළේ රාජකාරී කරන නිලධාරියෙකු බවත් තවත් වසර දෙකකින් විශ්‍රාම යාමට නියමිත අයෙක් බව පොලිසිය සඳහන් කරයි.
+
+රාජගිරියේ ප්‍රදේශයේ ව්‍යාපාරිකයකුට දුරකථන ඇමතුමක් ලබාදී  තමන් දෙමට ගොඩ පොලිසියේ උප පොලිස් පරීක්ෂක හේරත් නිලධාරියා බව පවසමින් ව්‍යාජ  හිතවත්කමක් ඇතිකරගෙන දෙමටගොඩ පොලිසියේ භෝජනාගාරයට ලැබෙන බිත්තර තොගයක් ඉතා අඩු මුදලට ලබා දිය හැකි බව පවසා එම ව්‍යාපාරිකයාව  කැමති කරවාගෙන  බිත්තර  තොගය ලබා දීමට දෙමට ගොඩට ගෙන්වාගෙන තිබූ බව පොලිසිය සඳහන් කරයි.
+
+...
+
+[Data](articles/71329a4c.json)
 
 ---
 
@@ -594,7 +712,7 @@ Witnesses and hospital officials said the predawn strike hit the al-Sardi School
 
 ---
 
-### Sri Lanka TRCSL grants preliminary approval for Starlink: State minister
+### Sri Lanka grants preliminary approval for Starlink: State minister
 
 *2024-06-06 13:48:00* · [`economynextcom`](https://economynext.com/sri-lanka-trcsl-grants-preliminary-approval-for-starlink-state-minister-166566/) · `en`
 
@@ -1796,6 +1914,22 @@ The Supreme Court declared that former President Maithripala Sirisena violated t
 
 ---
 
+### ගම්පහ ජලයෙන් යටවීම වැලැක්වීමට ඒකාබද්ධ මෙහෙයුම් කමිටුවක්
+
+*2024-06-06 10:30:31* · [`adalk`](https://www.ada.lk/breaking_news/ගම්පහ-ජලයෙන්-යටවීම-වැලැක්වීමට-ඒකාබද්ධ-මෙහෙයුම්-කමිටුවක්/11-410045) · `si`
+
+නාගරික සංවර්ධන හා නිවාස අමාත්‍ය ප්‍රසන්න රණතුංග මහතාගේ උපදෙස් පරිදි නාගරික සංවර්ධන හා නිවාස අමාත්‍යාංශ ලේකම් ඩබ්ලිව්.එස්. සත්‍යානන්ද හා ගම්පහ දිස්ත්‍රික් ලේකම් ලලින්ද ගමගේ යන මහත්වරුන්ගේ ප්‍රධානත්වයෙන් පැවැති සාකච්ඡාවේදී මෙම තීරණයට එලඹුණි.
+
+ඉදිරියේදී ගම්පහ දිස්ත්‍රික්කය හා ගම්පහ නගරය ජලයෙන් යටවීම වැලැක්වීමට ගත යුතු ක්‍රියාමාර්ග මොනවද යන්න පිළිබඳව සාකච්ඡාවක් ඊයේ (05) දින කැඳවා තිබුණි. එය පැවැත්වුණේ ගම්පහ දිස්ත්‍රික් ලේකම් කාර්යාල ශ්‍රවණාගාරයේදීය.
+
+ගම්පහ දිස්ත්‍රික්කය ජලයෙන් යටවීම වැලැක්වීම සඳහා ශ්‍රී ලංකා ඉඩම් සංවර්ධනය කිරීමේ සංස්ථාවේ නියෝජ්‍ය සාමාන්‍යාධිකාරී (පර්යේෂණ සහ සැලසුම්) ඉංජිනේරු කේ.එච්. කීර්තිරත්න මහතා විසින් තෙවැදෑරුම් වැඩපිළිවෙලක් මෙහිදී ඉදිරිපත් කළේය.
+
+...
+
+[Data](articles/ae4f41b4.json)
+
+---
+
 ### Israel attack on UN school in central Gaza- 27 Palestinians killed
 
 *2024-06-06 10:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/185419) · `ta`
@@ -2037,181 +2171,5 @@ The accident had occurred after the use of tuber was having fun with the tuber o
 [Data](articles/8e877eaa.json)
 
 [Extended Data](ext_articles/8e877eaa.ext.json)
-
----
-
-### President Ranil inaugurates political office in Colombo
-
-*2024-06-06 09:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/99694/president-ranil-inaugurates-political-office-in-colombo) · `en`
-
-President Ranil Wickremesinghe inaugurated his new political office in Colombo today (06) at an auspicious moment. The office, located on Sir Ernest de Silva Mawatha, will serve as the center for future political operations.
-
-The ceremony included religious rites and blessings performed by prominent religious leaders, including the Chief Sanghanayake of the Western Province, Venerable Dr. Murutthettuwe Ananda Nayaka Thero, the Chancellor of the University of Colombo, Chief Sanghanayake of the Uva Province with Colombo District, Venerable Maharagama Nanda Nayaka Thero, and the head of five major temples including the Kollupitiya Valukarama Maha Viharaya.
-
-The establishment of the office was initiated by United National Party Chairman and Member of Parliament, Wajira Abeywardena.
-
-...
-
-[Data](articles/19bc0834.json)
-
-[Extended Data](ext_articles/19bc0834.ext.json)
-
----
-
-### President declares open the political office
-
-*2024-06-06 09:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197448) · `si`
-
-President Ranil Wickremesinghe inaugurated his political office in Colombo, marking a significant moment in Sri Lanka's political landscape.
-
-🟩
-
-President Ranil Wickremesinghe's political office was opened in Colombo a short while ago.
-
-◼️
-
-[Data](articles/c87fe682.json)
-
-[Extended Data](ext_articles/c87fe682.ext.json)
-
----
-
-### Win to Uganda
-
-*2024-06-06 09:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197447) · `si`
-
-Uganda and Papua New Guinea secured Uganda's first T20 World Cup win, defeating Uva Uva with 78 runs (7 wickets lost) while Papua New Guinea managed only 77 runs.
-
-🟩
-
-Uganda and Papua New Guinea won the Ugandan team to win the T20 World Cup.
-
-The victory is recorded as the first victory obtained from Uganda at the Twenty20 World Cup.
-
-The Papua New Guinea team scored only 77 runs in the match.
-
-Uva Uva was won the 78 runs for the loss of 7 wickets.
-
-◼️
-
-[Data](articles/b14b5b10.json)
-
-[Extended Data](ext_articles/b14b5b10.ext.json)
-
----
-
-### Body of teen reported missing during floods recovered
-
-*2024-06-06 09:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/99693/body-of-teen-reported-missing-during-floods-recovered-) · `en`
-
-Police said that the body of a 17-year-old boy who was reported missing after being swept away by flood waters yesterday has been discovered.
-
-The teenager, who was a resident of Nabada in the Anguruwathota Police division was caught in the floods in the area yesterday.
-
-Later, the body of the 17-year-old schoolboy was found yesterday near a palm cultivation land in the Udunuwara Grama Niladhari Division.
-
-The body of the deceased has been placed in the Horana Hospital, and Anguruwathota Police are conducting further investigations regarding the incident.
-
-◼️
-
-[Data](articles/e336fd0c.json)
-
-[Extended Data](ext_articles/e336fd0c.ext.json)
-
----
-
-### 35 days of trade union action cripples university system
-
-*2024-06-06 09:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/35-days-of-trade-union-action-cripples-university-system/108-284227) · `en`
-
-Colombo, June 6 (Daily Mirror) -Thirty-five days have passed since the University Trade Union Joint Committee (UTUJC) launched their trade union action, crippling the entire university system, UTUJC Co-Chairman Dhammika S. Priyantha said.
-
-He told the Daily Mirror that the UTUJC recently had a discussion with the Finance State Minister and reached a certain agreement over their issues, including salary anomalies.
-
-"We have submitted our proposal to the government, outlining how this issue should be resolved. We have received minimal agreement for our demands so far. If we receive approval for our demands through the Finance Ministry or the Cabinet, we may call off the ongoing strike," Priyantha said.
-
-...
-
-[Data](articles/bc4411c4.json)
-
-[Extended Data](ext_articles/bc4411c4.ext.json)
-
----
-
-### Sri Lanka Insurance Corporation profits up on investment income
-
-*2024-06-06 09:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-insurance-corporation-profits-up-on-investment-income-166536/) · `en`
-
-ECONOMYNEXT – State-run Sri Lanka Insurance Corporation Ltd has made profits of 29.2 billon rupees in 2024, helped by higher investment income and lower claims, a Finance Ministry report said.
-
-Gross written premium which fell to 41.2 billion rupees in 2021 from 43.2 billion in 2022 had recovered to 44.2 billion rupees, the report said.
-
-Benefits, losses and claims fell to 29.2 billion rupees in 2023 from 34.2 billion rupees in 2022.
-
-Investment income rose to 28.7 billion rupees from 13.7 billion rupees in 2022.
-
-Sri Lanka’s interest rates spiked in 2022 as efforts were made to stabilize the balance of payments.
-
-Unspecified other income which was 13.1 billion rupees in 2022 was a negative 880 million in 2023.
-
-Pretax profits rose to 29.2 billion from 23.4 billon last year. Net profit was 26.3 billion rupees up from 21.5 billion last year and 10.4 billion two year ago.
-
-...
-
-[Data](articles/1fac407a.json)
-
-[Extended Data](ext_articles/1fac407a.ext.json)
-
----
-
-### Parliamentary Council begins
-
-*2024-06-06 09:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197446) · `si`
-
-Today, the Parliamentary Council starts its session with the Second Reading Debate from 10:30 am to 5:00 pm, expected to pass. The proposed telecommunication act and Supreme Court amendments, approved by the Energy Oversight Committee, will be debated, with Minister Kanchana Wijesekara presenting the bill.
-
-🟩
-
-The Second Reading Debate will be held today (06).
-
-The Second Reading Debate will be held from 10.30 am to 5.00 pm and will be passed.
-
-The proposed new telecommunication act and the Supreme Court's amendments were approved by the Energy Oversight Committee.
-
-Accordingly, the Act, Minister of Power and Energy Kanchana Wijesekara presented the bill to be passed to the debate in Parliament today.
-
-◼️
-
-[Data](articles/676db10a.json)
-
-[Extended Data](ext_articles/676db10a.ext.json)
-
----
-
-### Another vaccine scrip to the government losses
-
-*2024-06-06 09:24:45* · [`adalk`](https://www.ada.lk/breaking_news/ලක්ෂ-3689ක්-රජයට-පාඩුකළ-තවත්-එන්නත්-මගඩියක්-හෙළිවෙයි/11-410041) · `si`
-
-A government audit revealed a significant loss due to unnecessary purchases of vaccine vials worth Rs. 35,05,000. Despite having enough supplies, 488,590 vials were procured, leading to a financial setback. The audit also highlighted that the vaccine was not needed urgently as it was already available in hospitals.
-
-🟩
-
-Merependence injection vials 488,590 vials of 488,590 vials a loss of Rs. 35,0005,000
-
-The government has sufficiently reduced the injection vials in the hospital or medicine, with the purchase of 450,000 crores (355,000).According to a latest audit report issued by the National Audit Office.
-
-This vaccine vial has purchased the vaccine vial in the vaccine vial at an emergency purchase of Rs.
-
-The injection of this vaccine was stated that there was no stock by November 21, 2022.
-
-But on November 21, 2022, nearly 488,50 via vials were released in the Medical Supply Division or hospital system.
-
-As a result, the audit report states that this drug was not necessary to buy emergency. The supplier has agreed to provide medication within a period of two weeks after receiving the registration certificate of the Drug Regulatory Authority.
-
-◼️
-
-[Data](articles/04f03033.json)
-
-[Extended Data](ext_articles/04f03033.ext.json)
 
 ---

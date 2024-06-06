@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-07 01:19:12**
+As of **2024-06-07 01:34:52**
 
 ## Newspaper Stats
 
-*Scraped **28,940** Articles*
+*Scraped **28,941** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,655
 dailyftlk | 1,714
 adalk | 2,474
 adaderanalk | 3,281
-tamilmirrorlk | 3,398
+tamilmirrorlk | 3,399
 virakesarilk | 4,440
 dailymirrorlk | 4,603
 adaderanasinhalalk | 4,641
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,641
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,938 (100.0%) of 28,940 articles have been extended.
+28,940 (100.0%) of 28,941 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -43,6 +43,8 @@ There was a recent meme (an image, video or piece of text) on Facebook which por
 ...
 
 [Data](articles/a9ef6fd4.json)
+
+[Extended Data](ext_articles/a9ef6fd4.ext.json)
 
 ---
 
@@ -61,6 +63,28 @@ There was little or no attempt by most Israeli-friendly nations to make use of t
 ...
 
 [Data](articles/8089052d.json)
+
+[Extended Data](ext_articles/8089052d.ext.json)
+
+---
+
+### 1,700 ரூபாய் சம்பளம் இம்மாதம் கிடைக்காது
+
+*2024-06-07 00:29:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/1-700-ரூபாய்-சம்பளம்-இம்மாதம்-கிடைக்காது/175-338572) · `ta`
+
+பெருந்தோட்ட தொழிலாளர்களுக்காக 1,700 ரூபாய் சம்பள உயர்வு இம்மாதம் (10)ஆம் திகதி தொழிலாளர்கள் கிடைப்பதில் சந்தேகம் ஏற்பட்டுள்ளது.
+
+பெருந்தோட்ட தொழிலாளர்களுக்கு 1,700 ரூபாய் நாளாந்த சம்பளம் வழங்கப்பட வேண்டுமென  தொழில் அமைச்சின் செயலாளர் மே 21 ஆம் திகதி வர்த்தமானி அறிவித்தல் ஒன்றை வெளியிட்டிருந்தார்.
+
+அந்தத் தொகையை, தம்மால் தொழிலாளர்களுக்கு வழங்க முடியாதென பெருந்தோட்ட முதலாளிமார் சம்மேளனம் எதிர்ப்பு காட்டி வந்திருந்தது. சம்பள அதிகரிப்பு வர்த்தமானியை சவாலுக்கு உட்படுத்தி  21 பெருந்தோட்ட நிறுவனங்கள் மேன் முறையீட்டு நீதிமன்றத்தில் வழக்கு தாக்கல் செய்திருந்தனர்.
+
+வழக்கை கடந்த (03) ஆம் திகதி விசாரணைக்கு எடுத்து கொண்ட மேன் முறையீட்டு நீதிமன்றம், வர்த்தமானிக்கு எதிராக இடைக்கால தடையுத்தரவை பிறப்பிக்க முடியாதென தீர்ப்பளித்தது.
+
+இது இவ்வாறிருக்க,  இம்மாதம் (10) தாம் திகதி வழங்கப்படவுள்ள மாத சம்பளம் 1,700 ரூபாய் படியே தயாரிக்கப்படுமென  தொழிலாளர்கள் நினைத்துக்கொண்டுள்ளனர்.
+
+...
+
+[Data](articles/13e3bc1f.json)
 
 ---
 
@@ -2187,23 +2211,5 @@ Meanwhile, the State Minister stated that 284,505 individuals from 77,313 famili
 [Data](articles/a3e1cc87.json)
 
 [Extended Data](ext_articles/a3e1cc87.ext.json)
-
----
-
-### Israeli strike on Gaza school kills 30 people; Military claims it was being used by Hamas
-
-*2024-06-06 13:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/99703/israeli-strike-on-gaza-school-kills-30-people-military-claims-it-was-being-used-by-hamas) · `en`
-
-An Israeli strike early Thursday on a school sheltering displaced Palestinians in central Gaza killed more than 30 people, including 23 women and children, according to local health officials. The Israeli military said Hamas militants were operating from within the school.
-
-The strike came after the military announced a new ground and air assault in several refugee camps in central Gaza, pursuing Hamas militants it says have regrouped there. It’s the latest instance of troops sweeping back into sections of the Gaza Strip they have previously invaded, underscoring the resilience of the militant group despite Israel’s nearly eight-month onslaught in the territory.
-
-Witnesses and hospital officials said the predawn strike hit the al-Sardi School, run by the United Nations agency for Palestinian refugees known by the acronym UNRWA. The school was filled with Palestinians who had fled Israeli offensives and bombardment in northern Gaza, they said.
-
-...
-
-[Data](articles/49e8e422.json)
-
-[Extended Data](ext_articles/49e8e422.ext.json)
 
 ---

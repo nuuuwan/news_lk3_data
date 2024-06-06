@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-06 16:19:03**
+As of **2024-06-06 16:34:12**
 
 ## Newspaper Stats
 
-*Scraped **28,853** Articles*
+*Scraped **28,857** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,79 @@ islandlk | 1,553
 economynextcom | 1,642
 dailyftlk | 1,711
 adalk | 2,462
-adaderanalk | 3,273
+adaderanalk | 3,274
 tamilmirrorlk | 3,391
 virakesarilk | 4,427
-dailymirrorlk | 4,582
-adaderanasinhalalk | 4,632
+dailymirrorlk | 4,584
+adaderanasinhalalk | 4,633
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,851 (100.0%) of 28,853 articles have been extended.
+28,853 (100.0%) of 28,857 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-06 (Thursday)
+
+### හෙට වසා තැබෙන පාසල් ගැන දැනුම්දීමක්
+
+*2024-06-06 16:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197466) · `si`
+
+රජයේ පාසල්වලට දෙනු ලබන විශේෂ නිවාඩුවක් ලෙස සලකා හෙට (07) නිවිතිගල කලාපයේ පහත සඳහන් කොට්ඨාසලවල රජයේ පාසල් සඳහා නිවාඩු ලබාදී තිබේ.
+
+එම ප්‍රදේශවල තවදුරටත් පවතින අයහපත් කාලගුණ තත්ත්වය හේතුවෙන් මෙම තීරණය ගෙන ඇත.
+
+ඒ අනුව නිවිතිගල අධ්‍යාපන කලාපයේ ඇලපාත හා අයගම කොට්ඨාසවලට අයත් සියලුම පාසල් හෙට දිනයේ නොපැවැත්වෙනු ඇති.
+
+ඉදිරියේදී ඇතිවන කාලගුණ තත්ත්වය මත පාසල් පැවැත්වීම සම්බන්ධයෙන් තීරණ ලබාදීම සඳහා කලාප අධ්‍යාපන අධ්‍යක්ෂවරුන් වෙත බලය පවරනු ලබන බවද දැනුම්දී තිබේ.
+
+සෙසු සියලුම කලාප සහ කොට්ඨාසවල සාමාන්‍ය පරිදි පාසල් පැවැත්වීමට තීරණය කර ඇති බවද සබරගමුව පළාත් සභාව දැනුම්දෙයි.
+
+◼️
+
+[Data](articles/15f21d1b.json)
+
+---
+
+### Electricity Bill brought in to sell off power sector to Adani group: Vijitha
+
+*2024-06-06 16:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Electricity-Bill-brought-in-to-sell-off-power-sector-to-Adani-group-Vijitha/108-284272) · `en`
+
+Parliament, June 06 (Daily Mirror)- The government is trying to sell off the country's power sector to India's Adani group by creating a private sector monopoly over the electricity sector through the Sri Lanka Electricity Bill, National People’s Power (NPP) MP Vijitha Herath said today.
+
+Speaking during the debate on the Electricity Bill, he said Clauses 20.6 and 30.4 of the Bill clearly show that the motive behind the Bill is to create a private sector monopoly over the electricity sector.
+
+He said while criticizing the state monopoly in the power sector, the government is now trying to create a private sector monopoly.
+
+The MP said the government is planning to approve Adani's proposals as unsolicited proposals through the Cabinet and obtain the legal framework for the proposals by enacting the Electricity Bill.
+
+He said it is a serious matter to hand over the power sector monopoly to the private sector, claiming that it poses a threat to country's national security and sovereignty.
+
+...
+
+[Data](articles/489cc5dd.json)
+
+---
+
+### Maldives and Sri Lanka to ink new deals to enhance economic cooperation
+
+*2024-06-06 16:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/99708/maldives-and-sri-lanka-to-ink-new-deals-to-enhance-economic-cooperation) · `en`
+
+Minister of Foreign Affairs of the Maldives, Moosa Zameer has called on Sri Lankan Prime Minister Dinesh Gunawardena at Temple Trees in Colombo today (June 6).
+
+During the meeting, they exchanged views on strengthening existing areas of cooperation, and exploring new avenues, particularly on trade, investment, education and culture, the Prime Minister’s Media Division said.
+
+Minister Zameer expressed that his country is very keen to expand relations with Sri Lanka and the proposed bilateral treaties and Memorandums of Understanding (MoUs) would help to further strengthen economic cooperation between Maldives and Sri Lanka.
+
+It is proposed to sign an Investment Protection Treaty, Double Tax Avoidance Agreement and to facilitate remittances by Sri Lankans employed in the Maldives who receive payment in Maldivian currency and to facilitate Maldivian students and medical tourists to make payments in Sri Lanka, it added.
+
+...
+
+[Data](articles/70dbae4f.json)
+
+---
 
 ### ICC stands firm on New York despite India pitch fears
 
@@ -52,6 +110,26 @@ The International Cricket Council (ICC) is believed to be analysing data from pr
 
 [Data](articles/3dff4a04.json)
 
+[Extended Data](ext_articles/3dff4a04.ext.json)
+
+---
+
+### Vouchers from Education Ministry to buy sanitary pads for adult schoolgirls
+
+*2024-06-06 16:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Vouchers-from-Education-Ministry-to-buy-sanitary-pads-for-adult-schoolgirls/108-284270) · `en`
+
+Colombo, June 6 (Daily Mirror) - The Education Ministry has launched a new initiative this month to provide free vouchers for adult schoolgirls to purchase sanitary pads, announced Education Minister Susil Premajayantha.
+
+The inauguration of this programme took place this morning at the President's Girls School in Nawala. During the event, the Minister revealed that Rs. 1 billion had been allocated for this project.
+
+The Ministry has introduced various student welfare programmes aimed at ensuring uninterrupted education, with the goal of fostering a well-rounded generation of children.
+
+By providing these vouchers, the Ministry aims to improve school attendance among female students and address issues related to educational neglect and health problems that arise during economic hardships.
+
+...
+
+[Data](articles/cda698b2.json)
+
 ---
 
 ### Ven. Balangoda Kassapa Thera arrested for protesting near Parliament
@@ -65,6 +143,8 @@ They said the Thera was arrested by some police officers who came to the place l
 ◼️
 
 [Data](articles/24e47ef1.json)
+
+[Extended Data](ext_articles/24e47ef1.ext.json)
 
 ---
 
@@ -2149,99 +2229,5 @@ Spinner Frank Nsubuga, 43, bowled the most economical four overs in T20 World Cu
 [Data](articles/6fd6c5d4.json)
 
 [Extended Data](ext_articles/6fd6c5d4.ext.json)
-
----
-
-### The student who had fun in floods to the human
-
-*2024-06-06 09:04:52* · [`adalk`](https://www.ada.lk/breaking_news/ගංවතුරේ-විනෝද-වෙන්න-ගිය-සිසුවා-ජිවිතක්ෂයට/11-410039) · `si`
-
-A schoolgirl, Nayana Preethi (17), from Ganegama West, Vihara, West, drowned while playing in floodwaters near her school. She was part of a youth group enjoying the floods and accidentally fell into a tube well. Despite being rushed to the Baddegama District Hospital, she succumbed to her injuries. Nayana was a student at the GEN College of the Christian Male College and had recently taken her O/L exams. She was also a member of the school's dance sector's eastern music drum group.
-
-🟩
-
-A schoolgirl who was in a young group tube in the West area in Baddegama has died yesterday (05), police said.
-
-The deceased has been identified as Ganegama West, Vihara, West. L. A schoolgirl named Nayana Prepares (17).
-
-A youth group in the area has been enjoying floods that day, and he left the tube of the riding tuby and washed in water. Later, a resident of the area died on admission to the Leader Medicine at the Baddegama District Hospital.
-
-The deceased has been studying at the GEN college of the Christian male college and the recent complex. (O / L) Exam has also appeared. He is a member of the east music drum group of the school's dance sector.
-
-◼️
-
-[Data](articles/a1785d90.json)
-
-[Extended Data](ext_articles/a1785d90.ext.json)
-
----
-
-### Teenage schoolboy dies after fatal assault by another student
-
-*2024-06-06 09:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/99691/teenage-schoolboy-dies-after-fatal-assault-by-another-student) · `en`
-
-A teenage schoolboy has reportedly died after being assaulted by another student at Sippikulam in the Hambantota police division last evening (05).
-
-Police initiated investigations following a report regarding the death of the student, who had been admitted to Hambantota Hospital and was receiving treatment in the intensive care unit due to the assault.
-
-The deceased, a 15-year-old student residing on Beddewela Road in Hambantota, was a Grade 10 students of a school in the Hambantota town.
-
-He had travelled to Sippikulama yesterday to attend a tuition class. There, a student from another school in Hambantota had arrived at the tuition class and assaulted the Grade 10 student in question.
-
-Investigations revealed that a dispute between the two students had led to the assault incident.
-
-Police have arrested a 17-year-old student in connection with the death.
-
-◼️
-
-[Data](articles/5fd4712f.json)
-
-[Extended Data](ext_articles/5fd4712f.ext.json)
-
----
-
-### What will happen to Sajith - Anuradess?
-
-*2024-06-06 09:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197444) · `si`
-
-Dr. Nalinda Jayatissa announced that UNP leader Anura Kumara Dissanayake is willing to debate with Opposition Leader Sajith Premadasa. He expects a party leadership debate soon. However, MP Nalin Bandara clarified the party's readiness to debate only after a presidential declaration.
-
-🟩
-
-UNP National Population Dr. Nalinda Jayatissa says that Anura Kumara Dissanayake is ready to debate with Opposition Leader Sajith Premadasa.
-
-He says that there have been no response to the party since the party.
-
-Nalinda Jayatissa said that it is expected to hold a debate between the leaders of the party after this day.
-
-However, MP Nalin Bandara said the party was prepared to debate until a president was declaring a President on the debate.
-
-◼️
-
-[Data](articles/53b6b9cd.json)
-
-[Extended Data](ext_articles/53b6b9cd.ext.json)
-
----
-
-### Spells of showers expected in several provinces, districts
-
-*2024-06-06 08:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/99690/spells-of-showers-expected-in-several-provinces-districts) · `en`
-
-The Meteorology Department says several spells of showers will occur in Western, Sabaragamuwa, Southern and North-western provinces and in Kandy and Nuwara-Eliya districts.
-
-A few showers will occur in Northern and North-central provinces.
-
-Showers or thundershowers may occur at a few places in Eastern and Uva provinces in the evening or night, it said.
-
-Strong winds of about 40-50 kmph can be expected at times over Northern, North-central, North-western provinces and in Hambantota district.
-
-The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/a5722d08.json)
-
-[Extended Data](ext_articles/a5722d08.ext.json)
 
 ---

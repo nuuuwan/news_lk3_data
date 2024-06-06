@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-06 08:34:17**
+As of **2024-06-06 08:53:17**
 
 ## Newspaper Stats
 
-*Scraped **28,738** Articles*
+*Scraped **28,740** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,46 @@ newsfirstlk | 363
 islandlk | 1,553
 economynextcom | 1,635
 dailyftlk | 1,711
-adalk | 2,449
+adalk | 2,450
 adaderanalk | 3,255
 tamilmirrorlk | 3,378
 virakesarilk | 4,414
-dailymirrorlk | 4,558
+dailymirrorlk | 4,559
 adaderanasinhalalk | 4,609
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,736 (100.0%) of 28,738 articles have been extended.
+28,738 (100.0%) of 28,740 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-06 (Thursday)
+
+### HIV/AIDS on the rise; 200+ cases, 13 deaths in first quarter
+
+*2024-06-06 08:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/HIVAIDS-on-the-rise-200-cases-13-deaths-in-first-quarter/108-284191) · `en`
+
+Colombo, June 05 (Daily Mirror) -  Sri Lanka faces a worrying upswing in HIV/AIDS cases, with over 200 new infections and 13 deaths reported in the first quarter alone in 2024.
+
+According to the National STD/AIDS Control Programme, Sri Lanka has logged 207 HIV/AIDS cases in the first quarter in 2024 (January to March).
+
+This reflects 25 per cent increase compared to the corresponding period in 2023, which saw 165 cases.
+
+Out of the cases reported in the first quarter 2024, 23 males and five females fall within the age range of 15-24, while the remaining cases are individuals above 25 years old.
+
+The male-to-female ratio of reported HIV cases in 2024 stands at 7:1.
+
+Further, a total of 13 HIV/AIDS related deaths were reported during the said period.
+
+The fourth quarter in 2023 (October-December) marked the highest number of cases (209) reported in a single quarter since 2009.
+
+...
+
+[Data](articles/398736d0.json)
+
+---
 
 ### 15 year old student dies after the 17-year-old schoolgirl
 
@@ -337,6 +361,8 @@ It is not a fight between two equal states but between an occupier and those tha
 ...
 
 [Data](articles/c5367ced.json)
+
+[Extended Data](ext_articles/c5367ced.ext.json)
 
 ---
 
@@ -908,21 +934,31 @@ Officials of the Examination Center have notified the Department of Examinations
 
 ---
 
-### ’ஹிஜாப்பால் பெறுபேறு இரத்தாகாது’
+### Hijab does not get rid of blood
 
 *2024-06-06 00:50:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/ஹிஜாப்பால்-பெறுபேறு-இரத்தாகாது/150-338511) · `ta`
 
-ஹிஜாப் அணிந்து பரீட்சைக்கு தோற்றியதால் பெறுபேறு இரத்து செய்யப்படமாட்டாது என தெரிவித்த கல்வி அமைச்சர் சுசில் பிரேமஜயந்த, தற்காலிகமாக இடை நிறுத்தப்பட்டு விசாரணைகள் முன்னெடுக்கப்படும் என்றார்.
+In response to concerns about exams being affected by candidates wearing hijabs, Sri Lanka's Education Minister Susil Premajayantha clarified that exam results will not be canceled due to this. He also noted that while wearing a hijab, candidates can keep their ears covered. This statement was made after 13 individuals had their exam results suspended for wearing hijabs during the Chancellor Service Examination in the Western Province. The Department of Examinations has allowed candidates to wear hijabs during national exams, and examiners are expected to accommodate this.
 
-காதுகளை மறைத்த வண்ணம் ஹிஜாப் அணிந்திருக்கும் போது சூட்சமான முறையில் காதுக்குள் கருவிகளை வைத்திருக்க முடியும்.இவ்வாறான நிலையில் தான் காதுகள் தென்படும் வகையில் அணியுமாறு குறிப்பிடப்படுகிறது என்றார்.
+🟩
 
-பாராளுமன்றத்தில்   ஐக்கிய மக்கள் சக்தி எம்.பி. யான முஜிபுர் ரஹ்மானினால் புதன்கிழமை (05)  எழுப்பப்பட்ட கேள்விக்கு பதிலளிக்கையிலேயே கல்வி அமைச்சர் இவ்வாறு தெரிவித்தார்.
+Education Minister Susil Premajayantha said that the results of the hijab would not be canceled due to the appearance of the exam.
 
-அதிபர் சேவை பரீட்சைக்கு மேல் மாகாணத்தில் தோற்றிய 13 பேர் ஹிஜாப் அணிந்த வகையில்  பரீட்சைக்கு தோற்றியதற்காக அவர்களின் பெறுபேறு இடைநிறுத்தப்பட்டுள்ளது.
+When wearing a hijab, the ears can be kept in the ear when wearing the hijab.
+
+United People's Power MP in Parliament. In response to a question raised by Mujibur Rahman on Wednesday (05), the Minister of Education said this.
+
+Their results have been suspended for the examination of 13 people who have appeared in the province of the Chancellor Service Examination.
+
+The Department of Examinations has granted permission for the National Examinations worn by hijab. If the examiner is in charge of the examination, he should be obliged to obey the examiner's ears.
+
+Officials of the Examination Center have notified the Department of Examinations that 13 persons who appeared for the Chancellor Examination in the Western Province have been wearing a hijab. Their exam results have been suspended.
 
 ...
 
 [Data](articles/771e7eef.json)
+
+[Extended Data](ext_articles/771e7eef.ext.json)
 
 ---
 
@@ -1786,6 +1822,24 @@ The Provincial Education Secretary further stated that the Director of Education
 
 ---
 
+### විදුලි බල පනත පරාජය කිරීම රටට ආදරය කරන මන්ත්‍රීවරුන්ගේ වගකීමක්
+
+*2024-06-05 18:58:28* · [`adalk`](https://www.ada.lk/breaking_news/විදුලි-බල-පනත-පරාජය-කිරීම-රටට-ආදරය-කරන-මන්ත්‍රීවරුන්ගේ-වගකීමක්/11-410035) · `si`
+
+අද (06දා) පාර්ලිමේන්තුවේදී විවාදයට ගැනිමට නියමිත විදුලිබල පනත් කෙටුම්පත පරාජයට පත් කිරීම රටට ආදරය කරන මහජන නියෝජිතයන්ගේ වගකීමක් බව ලංකා විදුලිබල මණ්ඩල ඉංජිනේරු සංගමය සඳහන් කරයි.
+
+විපක්ෂයේ මන්ත්‍රීවරුන් සේම ශ්‍රී ලංකා  පොදුජන පෙරමුණ නියෝජනය කරන සියලුම  මන්ත්‍රීවරුන් මෙම යුතුකම ඉටුකරනු ඇතැයි සිතන බවත්, සංගමයක් ලෙස මෙම පනත් කෙටුම්පතේ සඳහන් රටට අහිතකර වගන්ති වෙනස් කර ගැනීමට ගත හැකි සියලුම් ක්‍රියා මාර්ග ගත් බවත් එම සංගමයේ සභාපති ධනුෂ්ක පරාක්‍රමසිංහ මහතා සඳහන් කළේය.
+
+මෙම පනත් කෙටුම්පතේ සඳහන් රටට අහිතකර වගන්ති වෙනස් කරන ලෙස විෂය භාර අමාත්‍යවරයාගෙන් ඉල්ලා සිටියද එයට නිසි ප්‍රතිචාර නොලැබුණ බවත්,එහි සඳහන් සමහර කරුණු ව්‍යවස්ථානුකුල නොවන බවත් හෙතෙම පවසා සිටියේය.
+
+ඊයේ (05දා) කොළඹ පැවැති මාධ්‍ය සාකච්ඡාවකදී මේ බව සඳහන් කළ සභාපතිවරයා වැඩිදුරටත් සඳහන් කළේ යම් ලෙසකින් මෙම පනත් කෙටුම්පත අද සම්මත කළ හොත් එම පනතට අනුව හුවමාරු සැලැස්ම සකස් කිරීමට කටයුතු කරන අවස්ථාවෙහිදී අධිකරණ ක්‍රියා මාර්ග ගැනීමට කටයුතු කරන බවය.
+
+...
+
+[Data](articles/d43df451.json)
+
+---
+
 ### Severty schools closed tomorrow
 
 *2024-06-05 18:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197432) · `si`
@@ -2071,59 +2125,5 @@ For New Zealand, Cyprus Republic, the Maldives, the Maldives, the Republic of Si
 [Data](articles/68bd89e2.json)
 
 [Extended Data](ext_articles/68bd89e2.ext.json)
-
----
-
-### New racketeer of Katunayake
-
-*2024-06-05 17:53:21* · [`adalk`](https://www.ada.lk/breaking_news/කටුනායක-සිටි-අලුත්-ජාවාරම්කරු/11-410031) · `si`
-
-A racketeer nabbed at Katunayake airport, aged 40, faces charges related to smuggling foreign liquor and phones. Arrested by CI agents, he will appear in Negombo Magistrate's Court on 05/05.
-
-🟩
-
-A racketeer who has been purchased at the Katunayake airport, a racketeer who purchased a racketeer of Rs.A group of people arrested by a group of criminal investigations.
-
-He was a 40-year-old resident of the Katunayake.
-
-Labels between foreign manufactured liquor bottles - 5, Red Labels, Jack Daniel and Telephones were more.
-
-The racketeer and his possession is to be produced before the Negombo Magistrate's Court on 05/05.
-
-◼️
-
-[Data](articles/4569dbc6.json)
-
-[Extended Data](ext_articles/4569dbc6.ext.json)
-
----
-
-### Sri Lanka is committed to achieve the target of holy zero carbon emissions by 2040
-
-*2024-06-05 17:41:45* · [`adalk`](https://www.ada.lk/breaking_news/2040-වන-විට-ශුද්ධ-ශුන්‍ය-කාබන්-විමෝචන-ඉලක්කය-සපුරා-ගැනීමට-ලංකාව-කැපවී-සිටිනවා/11-410030) · `si`
-
-Sri Lanka aims to be the first Asian nation to reach net-zero carbon emissions by 2040, balancing economic growth. This commitment was highlighted during the World Environment Day celebrations, where President Ranil Wickremesinghe emphasized the importance of addressing climate change beyond traditional programs. He mentioned the creation of a legal framework through the Climate Change Act and the establishment of a Climate Change Center. The President also expressed concern over the delayed financial assistance from developed countries like the US and Europe, crucial for combating climate change effects in developing nations.
-
-🟩
-
-Sri Lanka is committed to achieving the net zero carbon emissions goal by 2040 while achieving economic goals
-
-Sri Lanka is the first country in Asia, including the global goal of zeroing carbon emissions.
-
-In the face of climate change, the world advanced countries should force the world to get relief.
-
-US and Europe have been adequate for two years to face climatic change this year, the President Mahinda Rajapaksa at the Presidential World Environment Day.
-
-President Ranil Wickremesinghe said Sri Lanka is the first country in Asia to achieve the global target of 2040 until the economic goals of the country.
-
-President Ranil Wickremesinghe addressing the World Environment Day celebration held at the Presidential Secretariat this morning (05).
-
-The President added that the current role of climate change and the current role in the environment cannot be restricted to the traditional program.
-
-...
-
-[Data](articles/ec7c3fbf.json)
-
-[Extended Data](ext_articles/ec7c3fbf.ext.json)
 
 ---

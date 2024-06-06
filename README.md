@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-07 02:52:48**
+As of **2024-06-07 03:03:56**
 
 ## Newspaper Stats
 
-*Scraped **28,948** Articles*
+*Scraped **28,949** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,655
 dailyftlk | 1,715
 adalk | 2,474
 adaderanalk | 3,281
-tamilmirrorlk | 3,401
+tamilmirrorlk | 3,402
 virakesarilk | 4,444
 dailymirrorlk | 4,603
 adaderanasinhalalk | 4,641
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,641
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,948 (100.0%) of 28,948 articles have been extended.
+28,948 (100.0%) of 28,949 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -187,6 +187,20 @@ There was a recent meme (an image, video or piece of text) on Facebook which por
 [Data](articles/a9ef6fd4.json)
 
 [Extended Data](ext_articles/a9ef6fd4.ext.json)
+
+---
+
+### ’வடக்கு, கிழக்கில் காணி பிரச்சினை தீர்க்கப்படாத பிரச்சினை’
+
+*2024-06-07 00:39:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வடக்கு-கிழக்கில்-காணி-பிரச்சினை-தீர்க்கப்படாத-பிரச்சினை/175-338575) · `ta`
+
+பாரம்பரிய விவசாய நிலங்கள் விடுவிக்கப்படும் என ஜனாதிபதி பல்வேறு மாவட்டங்களுக்கான தனது விஜயத்தின் போது உறுதியளித்துள்ள போதிலும் அது பேச்சளவில் மட்டுமே இருந்து வருகிறது.வடக்கு, கிழக்கு மாகாணங்களில் யுத்தம் நிறைவடைந்த பின்னரும் அந்தப் பிரதேசங்களில் வாழும் மக்களின் வாழ்வாதாரத்தைப் பேணுவதற்கான காணி பயன்பாட்டுப் பிரச்சினை இன்னமும் தீர்க்கப்படாத பிரச்சினையாகவே உள்ளது என எதிர்க்கட்சித்தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+
+நிலையியற் கட்டளை 27(2) இன் கீழ் பாராளுமன்றத்தில் வியாழக்கிழமை (06)  வடக்கு கிழக்கு காணி விவகாரம் தொடர்பிலேயே  இவ்வாறு தெரிவித்த எதிர்க்கட்சித் தலைவர்  மேலும் பேசுகையில்,
+
+...
+
+[Data](articles/7dea156f.json)
 
 ---
 
@@ -2229,27 +2243,5 @@ A meeting was held between Maldives Foreign Minister Musa Zamir and Public Secur
 [Data](articles/585deaa5.json)
 
 [Extended Data](ext_articles/585deaa5.ext.json)
-
----
-
-### Health authorities caution over infectious diseases as flood waters recede
-
-*2024-06-06 14:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/99705/health-authorities-caution-over-infectious-diseases-as-flood-waters-recede) · `en`
-
-The Department of Irrigation has announced that while flood waters are gradually receding, certain areas may continue to experience the aftermath of the recent flooding and adverse weather.
-
-Meanwhile, the Irrigation Department has extended the early flood warning issued for areas along the Gin River and Nilwala River, for the next 48 hours.
-
-Furthermore, the department has reported that the water level of the Kelani River has normalized, and the water level of the Kalu River is gradually decreasing.
-
-The Secretary of the Ministry of Health, Dr Palitha Mahipala, emphasized the need for public vigilance regarding the heightened risk of infectious diseases spreading following the recent floods across the island.
-
-While addressing a press conference at the Health Promotion Bureau, he urged the people to avoid unnecessary visits to flood-affected areas.
-
-...
-
-[Data](articles/e6e660b3.json)
-
-[Extended Data](ext_articles/e6e660b3.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-07 00:19:06**
+As of **2024-06-07 00:35:07**
 
 ## Newspaper Stats
 
-*Scraped **28,932** Articles*
+*Scraped **28,937** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,65 @@ bbccomsinhala | 281
 newsfirstlk | 363
 islandlk | 1,554
 economynextcom | 1,655
-dailyftlk | 1,711
+dailyftlk | 1,714
 adalk | 2,474
 adaderanalk | 3,281
 tamilmirrorlk | 3,397
 virakesarilk | 4,440
-dailymirrorlk | 4,599
+dailymirrorlk | 4,601
 adaderanasinhalalk | 4,641
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,932 (100.0%) of 28,932 articles have been extended.
+28,932 (100.0%) of 28,937 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-06 (Thursday)
+
+### Sri Lanka’s premier quality event, NCQP 2024 set for June 25
+
+*2024-06-06 23:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankas-premier-quality-event-NCQP-2024-set-for-June-25/108-284285) · `en`
+
+June 06 - The Sri Lanka Association for the Advancement of Quality and Productivity (SLAAQP) recently announced the upcoming National Convention on Quality and Productivity (NCQP) 2024, which will take place on June 25, 2024, at the Mount Lavinia Hotel, under the theme "A Quest for Quality, Productivity, and Innovation."
+
+As the leading organization dedicated to the advancement of quality and productivity concepts in Sri Lanka, SLAAQP has consistently played a pivotal role in fostering a culture of excellence. The annual NCQP event serves as a significant platform for employees across various sectors to present their success stories and achievements in quality control circles, cross-functional teams, lean six sigma, kaizen, and other team-based improvement initiatives.
+
+The convention will feature competitions across several key categories, including quality control circles, cross-functional teams, quality improvement projects, lean six sigma teams, and kaizen suggestions.
+
+...
+
+[Data](articles/7964dfde.json)
+
+---
+
+### Says Sri Lanka is an unsinkable aircraft carrier “The country manufactures  poverty  as politics is more profitable  than its industries”  - Major Gen. Dr. Boniface Perera
+
+*2024-06-06 23:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Says-Sri-Lanka-is-an-unsinkable-aircraft-carrier-The-country-manufactures-poverty-as-politics-is-more-profitable-than-its-industries-Major-Gen-Dr-Boniface-Perera/231-284314) · `en`
+
+A tearful goodbye to Major Gen. Perera as he was leaving Wanni region
+
+If political business is earning more profit than country’s industries, that country will never prosper but will manufacture menace
+
+After the war when I was appointed as the Competent Authority in Wanni, I treated all the communities equally. In fact I gave preference to Tamil community
+
+Military intelligence should not be there to find out the details of politicians, opponent parties, but to hunt for economic opportunities even outside the country
+
+Our defence policy or national security policy should be ‘Active Defence’
+
+Poverty is the worst enemy and it is a breeding ground for terrorism
+
+National Security is very wide spectrum. Before we go further we must understand national survival
+
+If there is no national economy there cannot be national security
+
+...
+
+[Data](articles/4dce4efd.json)
+
+---
 
 ### A 14 -year -old boy who stabbed a 9 -year -old boy several times
 
@@ -60,6 +102,20 @@ Further investigations into the incident are being carried out by Angunukolapels
 
 ---
 
+### Once bitten, twice shy; but it takes two to tango
+
+*2024-06-06 22:43:03* · [`dailyftlk`](https://www.ft.lk/columns/Once-bitten-twice-shy-but-it-takes-two-to-tango/4-762722) · `en`
+
+Once again, this community finds itself entangled in domestic and regional political intrigue
+
+The age-old adage “Once Bitten, Twice Shy” is a well-known and frequently used phrase of admonition that many Sri Lankans, especially those from the middle and upper strata of society, have grown up hearing during their school years. This often-repeated saying typically forms the lower rungs of a ”disciplinary ladder” that, for many of us, ended with corporal punishment in the principal’s or headmaster’s office, depending on the title of the chief administrative officer at our respective schools.
+
+...
+
+[Data](articles/75c5044f.json)
+
+---
+
 ### Health officials emphasize need for additional measures to combat spread of dengue
 
 *2024-06-06 22:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/99717/health-officials-emphasize-need-for-additional-measures-to-combat-spread-of-dengue) · `en`
@@ -80,6 +136,20 @@ He also emphasized the critical importance of effectively managing the spread of
 
 ---
 
+### Politics of paranoia
+
+*2024-06-06 22:31:19* · [`dailyftlk`](https://www.ft.lk/columns/Politics-of-paranoia/4-762720) · `en`
+
+The rise of NPP from the ashes of Aragalaya and led by a new generation of JVP leadership, which has distanced itself from that party’s insurrectionary past, and NPP’s tireless campaign to convince the voting public that Sri Lanka’s economic malaise is not an isolated phenomenon, but part of an overall systemic paralysis that had been sapping for decades the vitality of a once peaceful and prosperous nation, and that it cannot be rectified unless there is a radical transformation of its political culture, economic management and socio-cultural ethnonationalism has created an atmosphere of political paranoia amongst the old guards who are now driven to a state of panic looking for a way out to avoid confronting the NPP at the ballot box.
+
+It is that paranoia and panic which has provoked the General Secretary of UNP to call for the postponement of elections for two years. Although that call has drawn criticisms from several corners it did not come out of a vacuum.
+
+...
+
+[Data](articles/a802d819.json)
+
+---
+
 ### SC orders Maithripala to pay Rs.1 M to petitioner
 
 *2024-06-06 22:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SC-orders-Maithripala-to-pay-Rs-1-M-to-petitioner/108-284294) · `en`
@@ -95,6 +165,22 @@ In another landmark judgement pertaining to the scope of the pardon granted by t
 [Data](articles/d812880a.json)
 
 [Extended Data](ext_articles/d812880a.ext.json)
+
+---
+
+### Benevolent and compassionate leadership – need of the hour for Sri Lanka: Reply to Dr. Shantha Jayaratne
+
+*2024-06-06 22:19:44* · [`dailyftlk`](https://www.ft.lk/columns/Benevolent-and-compassionate-leadership-need-of-the-hour-for-Sri-Lanka-Reply-to-Dr-Shantha-Jayaratne/4-762719) · `en`
+
+‘Benevolent leaders’ are those who create visible benefits, actions or outcomes for the common good (Karakas, 2013), whereas Compassionate Leadership is the practice of using your head and heart to inspire and influence people to positively impact themselves, others, and the planet (Laurel Donnellan, 2024)
+
+I am responding to Dr. Shantha Jayarathne’s (hereafter referred to as Dr. SJ) article titled, “Sajith Premadasa’s leadership qualities: A critique”, dated 4 June 2024, in the Daily FT (https://www.ft.lk/opinion/Sajith-Premadasa-s-leadership-qualities-A-critique/14-762542#:~:text=Sajith%20Premadasa’s%20leadership%20is%20further,that%20border%20on%20vote%2Dbuying.).
+
+I have personally known Sajith Premadasa as an inspiring leader for more than a decade. He has demonstrated to the entire country as a benevolent and compassionate leader, for more than two decades, setting a high standard of public service.
+
+...
+
+[Data](articles/cc504215.json)
 
 ---
 
@@ -2113,123 +2199,5 @@ According to the 1985 Land Scale Map, the protected forest and the rest of the f
 [Data](articles/5bca8086.json)
 
 [Extended Data](ext_articles/5bca8086.ext.json)
-
----
-
-### Sri Lanka gives preliminary approval to Musk’s Starlink
-
-*2024-06-06 13:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/99702/sri-lanka-gives-preliminary-approval-to-musks-starlink) · `en`
-
-State Minister of Technology, Kanaka Herath, announced that the Telecommunications Regulatory Commission of Sri Lanka (TRCSL) has granted preliminary approval for ‘Starlink’ to provide satellite-based internet services in Sri Lanka.
-
-The State Minister emphasized that a two-week period has been allocated for a formal public consultation process regarding the approval of this internet service. Following this period, the Telecommunications Regulatory Commission will take steps to implement the service in Sri Lanka.
-
-State Minister Kanaka Herath shared these remarks during a special media briefing held today (06) at the Presidential Media Centre (PMC).
-
-The minister emphasized that this initiative will deliver a fast internet service as well as to the education, research, tourism, fisheries, and agriculture sectors, while also providing global access via this internet facility.
-
-...
-
-[Data](articles/451d17f3.json)
-
-[Extended Data](ext_articles/451d17f3.ext.json)
-
----
-
-### Sri Lanka’s CEB eyes sharply lower tariffs for smaller domestic users: Minister
-
-*2024-06-06 13:42:00* · [`economynextcom`](https://economynext.com/sri-lankas-ceb-eyes-sharply-lower-tariffs-for-smaller-domestic-users-minister-166564/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Power and Energy Minister Kanchana Wijesekera has proposed sharp reduction in electricity bills for lower users from July 1.
-
-Wijesekera told the parliament that the proposal needs to be approved by the regulator, Public Utilities Commission of Sri Lanka (PUCSL).
-
-According to the new proposal, unit cost of households using 0-30 will be reduced by 2 rupees to 6 from the current 8 rupees.
-
-The unit cost of those using 30-60 will be reduced by 11 rupees to 9 and 60-90 will be reduced by 12 rupees to 18, Wijesekera said.
-
-The next category of households using 90-120 units are proposed to be charged 30 rupees from the current 50 rupees.
-
-“We will be submitting our new proposal to reduce the electricity bill to the Public Utilities Commission, ” the Minister told the Parliament.
-
-“The government, as a policy, decided to provide maximum concession to lower electricity users, lower income people and those consumers who fall under these categories,”
-
-...
-
-[Data](articles/3fc870d4.json)
-
-[Extended Data](ext_articles/3fc870d4.ext.json)
-
----
-
-### Preliminary approval for Starlink
-
-*2024-06-06 13:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197460) · `si`
-
-The Telecommunications Regulatory Commission of Sri Lanka has approved Starlink to offer satellite-based online services in the country, following a public consultation process. Further details will be released tomorrow.
-
-🟩
-
-The Telecommunications Regulatory Commission of Sri Lanka has approved the "Starlink" to provide satellite technology based online services in Sri Lanka.
-
-The decision has been taken following a proper public affiliation process and further information will be published tomorrow (07).
-
-◼️
-
-[Data](articles/54eb31dc.json)
-
-[Extended Data](ext_articles/54eb31dc.ext.json)
-
----
-
-### Sri Lanka’s CEB eyes sharply lower tariffs for smaller domestic users: Minister
-
-*2024-06-06 13:42:00* · [`economynextcom`](https://economynext.com/sri-lanka-proposes-sharp-price-reduction-for-lower-electricity-users-from-july-1-166564/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Power and Energy Minister Kanchana Wijesekera has proposed sharp reduction in electricity bills for lower users from July 1.
-
-Wijesekera told the parliament that the proposal needs to be approved by the regulator, Public Utilities Commission of Sri Lanka (PUCSL).
-
-According to the new proposal, unit cost of households using 0-30 will be reduced by 2 rupees to 6 from the current 8 rupees.
-
-The unit cost of those using 30-60 will be reduced by 11 rupees to 9 and 60-90 will be reduced by 12 rupees to 18, Wijesekera said.
-
-The next category of households using 90-120 units are proposed to be charged 30 rupees from the current 50 rupees.
-
-“We will be submitting our new proposal to reduce the electricity bill to the Public Utilities Commission, ” the Minister told the Parliament.
-
-“The government, as a policy, decided to provide maximum concession to lower electricity users, lower income people and those consumers who fall under these categories,”
-
-...
-
-[Data](articles/a6b21f86.json)
-
-[Extended Data](ext_articles/a6b21f86.ext.json)
-
----
-
-### The first death in the world has been reported due to the bird fever
-
-*2024-06-06 13:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197459) · `si`
-
-The first death attributed to bird fever occurred in Mexico, where a 59-year-old man succumbed to the disease in April. The World Health Organization confirmed this as the first such case globally, noting the man hadn't been exposed to the bird flu virus, suggesting a low risk of infection from birds.
-
-🟩
-
-Mexico, who was facing health problems, died due to the bird fever.
-
-The World Health Organization said that the man had died last April and he had embraced bird fever.
-
-This is the first death in the world due to the bird fever.
-
-The 59-year-old man has not been revealed yet to be exposed to the virus.
-
-But the World Health Organization said that the possibility of hugging the bird flu virus is very low.
-
-◼️
-
-[Data](articles/bb66ed69.json)
-
-[Extended Data](ext_articles/bb66ed69.ext.json)
 
 ---

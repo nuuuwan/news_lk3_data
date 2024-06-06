@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-06 23:35:52**
+As of **2024-06-06 23:54:00**
 
 ## Newspaper Stats
 
-*Scraped **28,919** Articles*
+*Scraped **28,932** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 275
 bbccomsinhala | 281
 newsfirstlk | 363
 islandlk | 1,554
-economynextcom | 1,642
+economynextcom | 1,655
 dailyftlk | 1,711
 adalk | 2,474
 adaderanalk | 3,281
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,641
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,919 (100.0%) of 28,919 articles have been extended.
+28,919 (100.0%) of 28,932 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -216,6 +216,26 @@ The trade union action is being initiated over delays in second-class promotions
 
 ---
 
+### Sri Lanka’s Hatton National Bank ‘A(lka)’ rating confirmed, ISB assets 10-pct
+
+*2024-06-06 21:13:00* · [`economynextcom`](https://economynext.com/sri-lankas-hatton-national-bank-alka-rating-confirmed-isb-assets-10-pct-166699/) · `en`
+
+ECONOMYNEXT – Fitch Ratings has confirmed Sri Lanka-based Hatton National Bank PLC’s National Long-Term Rating at ‘A(lka)’ with a stable outlook, saying the economy was stabilizing but it also had the highest exposure to defaulted sovereign bonds.
+
+HNB’s high risk profile, similar to peers, stems from its large exposure to sovereign risk, via the defaulted foreign-currency denominated sovereign bonds which at 10 percent of assets by end 2023, was the highest among local banks.
+
+Another 33 percent of assets iwere rupee-denominated treasury securities, all of which make the bank vulnerable to the sovereign’s repayment capacity and liquidity position.
+
+“Fitch expects HNB’s impaired (stage 3) loans to decrease in the near to medium term, buttressed by the improvement in borrower repayment capacity alongside the economic recovery and Fitch’s anticipated expansion in the bank’s loan book,” Fitch said.
+
+“This is despite the parate suspension that is in effect until 15 December 2024.”
+
+...
+
+[Data](articles/0187e280.json)
+
+---
+
 ### America to advantage of the coin
 
 *2024-06-06 20:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197473) · `si`
@@ -325,6 +345,28 @@ Accordingly, 36 schools in the Homagama, Sri Jayawardenapura, Kalutara, Horana a
 [Data](articles/8157e22e.json)
 
 [Extended Data](ext_articles/8157e22e.ext.json)
+
+---
+
+### Sri Lanka’s Commercial Bank ‘A(lka)’ rating confirmed: ISB assets 7-pct
+
+*2024-06-06 20:41:00* · [`economynextcom`](https://economynext.com/sri-lankas-commercial-bank-alka-rating-confirmed-isb-assets-7-pct-166701/) · `en`
+
+ECONOMYNEXT – Fitch Ratings has confirmed an ‘A(lka)’ rating of Sri Lanka’s Commercial Bank of Ceylon saying the operating environment is stabilizing, but it also had the second highest exposure to defaulted sovereign bonds.
+
+“Our assessment of COMB’s risk profile factors in its exposure to defaulted foreign-currency government securities, to which COMB has the second-highest exposure among domestic banks, at 7 percent of total assets at end-2023,” Fitch said.
+
+“A further 30 percent exposure stems from its local-currency denominated treasury securities, making the bank vulnerable to the sovereign’s repayment capacity and liquidity position.”
+
+The bank had provided 52 percent on its sovereign bond exposure by end 2023, where negotiations are still ongoing.
+
+“We expect COMB’s impaired (stage 3) loan ratio to fall as the repayment capacity of borrowers gradually improves,” Fitch said.
+
+“This follows the notable decline in interest rates, but a slow pick-up in economic activity and loan growth.
+
+...
+
+[Data](articles/8c2f393b.json)
 
 ---
 
@@ -540,6 +582,26 @@ Reorganizations should be excellently carried out with transparency.
 
 ---
 
+### Sri Lanka to allocate foreign job quota for retired soldiers after deaths in Russia-Ukraine war
+
+*2024-06-06 18:59:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-allocate-foreign-job-quota-for-retired-soldiers-after-deaths-in-russia-ukraine-war-166702/) · `en`
+
+ECONOMYNEXT – Sri Lanka government has decided to allocate a quota of foreign employments for retired military personnel after reports of over 15 deaths of former servicemen who had gone to Ukraine and Russia to take part in the ongoing war for money.
+
+At least 16 Sri Lankans are reported to have been killed and over 600 likely to have joined as combatants mainly to Russian side, taking risk for higher salary, official sources say.
+
+However, an escapee has said over 200 Sri Lanka ex-soldiers have died in the Russia-Ukraine frontline amid drone attacks.
+
+The Foreign Employment Ministry has expressed willingness to provide a quota from foreign employment opportunities received by the government to retired military personnel and their family members, the Ministry of Defence said in a statement after a discussion on Tuesday (04).
+
+It said Foreign Employment Ministry had already said that “a certain amount of construction sector job opportunities will be provided in Israel”.
+
+...
+
+[Data](articles/4445ebda.json)
+
+---
+
 ### Russia - Ukraine Conflict Intensive: 1000 Sri Lankans may have gone to Russia - Vasantha Yapa Bandara
 
 *2024-06-06 18:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/185477) · `ta`
@@ -742,6 +804,28 @@ The General Managing Personnel Commerce Sahanayake, the main categories of the S
 
 ---
 
+### Sri Lanka Bank of Ceylon ‘A(lka)’ rating confirmed
+
+*2024-06-06 18:01:00* · [`economynextcom`](https://economynext.com/sri-lanka-bank-of-ceylon-alka-rating-confirmed-166696/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Fitch Ratings has confirmed an ‘A(lka)’ rating of Bank of Ceylon saying the operating environment was improving but the exposure to state was high.
+
+“BOC’s asset-quality metrics remain highly influenced by the sovereign’s credit profile due to the bank’s large sovereign exposure via its loans, off-balance-sheet liabilities and securities holdings,” Fitch said.
+
+About 60 percent of bank assets were exposed to the sovereign risk profile.
+
+The bank had provided 55 percent for defaulted sovereign bonds which were 2 percent of its assets.
+
+The bank’s core asset-quality metric – impaired (stage 3) loan ratio – increased to 13.5 percent by end-1Q24 (end-2023: 12.6 percent, 2021: 10.2 percent) primarily due to a contraction in gross loans.
+
+“We estimate this ratio to be significantly higher if BOC’s foreign-currency loan exposure to the state and state-owned entities is included,” Fitch said.
+
+...
+
+[Data](articles/0b3fb6db.json)
+
+---
+
 ### Schools to be networked and digitized by July
 
 *2024-06-06 18:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Schools-to-be-networked-and-digitized-by-July/108-284276) · `en`
@@ -860,6 +944,30 @@ On the day of the letter sent by the Central Executive Committee member of the T
 
 ---
 
+### Sri Lanka parliament passes new electricity law
+
+*2024-06-06 17:23:00* · [`economynextcom`](https://economynext.com/sri-lanka-parliament-passes-new-electricity-law-166663/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s parliament has passed a new electricity law, speaker Mahinda Abeywardena said, with 103 legislators out of the 225 member assembly voting in favour.
+
+Energy Minister Kanchana Wijesekera said the bill will unbundle the sector and help take the grid to a 70 percent renewable energy target.
+
+The target requires 12 billion dollars of investments which the government cannot provide, he said.
+
+Sri Lanka’s main opposition Samagi Jana Balawegaya said the renewable plants are being awarded without competitive tenders.
+
+There were also criticisms that the Minister gets too much powers and the regulator’s independence is undermined.
+
+However, Minister Wijesekera said the the Minister needed powers to implement policy.
+
+Opposition legislator Kabir Hashim said a minister was only a caretaker of a public asset and cannot behave like the head of a private company. (Colombo/June06/2024)
+
+◼️
+
+[Data](articles/40c9a84a.json)
+
+---
+
 ### Video game verb: knife on the boy
 
 *2024-06-06 17:22:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வீடியோ-கேம்-வினையானது-சிறுவன்-மீது-கத்திக்குத்து/175-338549) · `ta`
@@ -917,6 +1025,24 @@ A total of 103 MPs voted in favour of the Bill while 59 MPs voted against.
 [Data](articles/c299c363.json)
 
 [Extended Data](ext_articles/c299c363.ext.json)
+
+---
+
+### Minister calls out opposition hypocrisy on Sri Lanka electricity reforms
+
+*2024-06-06 17:21:00* · [`economynextcom`](https://economynext.com/minister-calls-out-opposition-hypocrisy-on-sri-lanka-electricity-reforms-166576/) · `en`
+
+ECONOMYNEXT — The two major parties in the opposition have proposed similar amendments to energy laws, Power & Energy Minister Kanchana Wijesekara said, adding that the new electricity reform bill will result in the disappearance of utilities unions.
+
+Wijesekara told parliament on Thursday June 06 that both the main opposition Samagi Jana Balawegaya (SJB) and the leftist National People’s Power (NPP) have formally proposed similar revisions to the laws governing the electricity sector despite their loud protests against the government’s bill.
+
+Insisting that Sri Lanka’s power & energy sector needs the new law to move into the future, the minister said that if that were possible with the existing law, CEB restructuring would’ve been done already.
+
+The CEB enjoys a monopoly in electricity in a way no other state-owned enterprise does on anything, he said.
+
+...
+
+[Data](articles/f756d436.json)
 
 ---
 
@@ -1010,6 +1136,26 @@ The Electricity Board Reorganization Bill is mentioned that arrangements for ind
 
 ---
 
+### Sri Lanka’s People’s Bank ‘A’ (lka) rating confirmed, bad loans reduce: Fitch
+
+*2024-06-06 17:10:00* · [`economynextcom`](https://economynext.com/sri-lankas-peoples-bank-a-lka-rating-confirmed-bad-loans-reduce-fitch-166651/) · `en`
+
+ECONOMYNEXT – Fitch Ratings has confirmed an ‘A(lka)’ rating of state-run People’s Bank, saying the economic environment has stabilized, bad loans has reduced, but it has large exposures to the government and a public utility.
+
+However, Peoples’ Bank only had a small exposure to defaulted sovereign dollar bonds.
+
+“PB’s large exposure – estimated at around 60 percent of assets – to the sovereign’s fragile credit profile continues to weigh on the bank’s risk profile assessment,” Fitch said.
+
+“This includes credit extended to a state-owned entity that has been transferred to the government since end-2022 and its modest holding of defaulted sovereign bonds (1 percent of assets), which are presently under restructuring negotiations.
+
+“These exposures have made the bank vulnerable to the sovereign’s repayment capacity and liquidity position.”
+
+...
+
+[Data](articles/32074598.json)
+
+---
+
 ### Balangoda Kassapa Olders arrested
 
 *2024-06-06 17:10:00* · [`adalk`](https://www.ada.lk/breaking_news/බලංගොඩ-කස්සප-හිමියන්-අත්අඩංගුවට/11-410056) · `si`
@@ -1047,6 +1193,28 @@ The new office, Colombo Ser Ernest de Silva Mawatha, will be set up and future p
 [Data](articles/b0e130f0.json)
 
 [Extended Data](ext_articles/b0e130f0.ext.json)
+
+---
+
+### Sri Lanka rupee closes weaker at 302.80/303.10 to US dollar
+
+*2024-06-06 17:04:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-weaker-at-302-80-303-10-to-us-dollar-166653/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed weaker at 302.80/303.10 to the US dollar on Thursday, from 302.35/45 to the dollar the previous day, dealers said. Bond yields were up.
+
+A bond maturing on 15.12.2026 closed at 9.95/10.05 percent up from 9.85/90 percent.
+
+A bond maturing on 15.09.2027 closed at 10.50/65 percent up from 10.40/55 percent.
+
+A bond maturing on 01.07.2028 closed at 10.95/11.05 percent up from 10.90/11.00 percent.
+
+A bond maturing on 15.05.2030 closed stable at 11.75/90 percent.
+
+A bond maturing on 01.10.2032 closed stable at 11.90/12.00 percent. (Colombo/Jun6/2024)
+
+◼️
+
+[Data](articles/71f0276e.json)
 
 ---
 
@@ -1166,6 +1334,24 @@ This raid was directed by Sub Inspector General Inspector Indika Weerasinghe, Ch
 
 ---
 
+### Sri Lanka seeks employment for seamen on Greek ships
+
+*2024-06-06 16:48:00* · [`economynextcom`](https://economynext.com/sri-lanka-seeks-employment-for-seamen-on-greek-ships-166640/) · `en`
+
+ECONOMYNEXT – Sri Lanka has asked Greece if it could increase employment opportunities for Sri Lankan sailors on Greek ships, the prime minister’s office said after Prime Minister Dinesh Gunawardena met Greek ambassador Aliki Koutsomitopoulou.
+
+“Bilateral relations, trade and investment promotion, maritime issues and commercial marine employment opportunities were discussed here,” a statement by the PMO said.
+
+The ambassador is said to have expressed her willingness to discuss employment opportunities for Sri Lankans with shipping companies.
+
+Greece and Sri Lanka have both faced economic crises, which saw them both declare sovereign debt default. “The reform measures taken to recover from the crisis were also discussed,” the PMO statement said.
+
+...
+
+[Data](articles/b790bd72.json)
+
+---
+
 ### WHO confirms first fatal human case of H5N2 bird flu
 
 *2024-06-06 16:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/99710/who-confirms-first-fatal-human-case-of-h5n2-bird-flu) · `en`
@@ -1253,6 +1439,30 @@ The Sabaragamuwa Provincial Council is notified to hold schools in all other zon
 [Data](articles/15f21d1b.json)
 
 [Extended Data](ext_articles/15f21d1b.ext.json)
+
+---
+
+### Sri Lanka stocks close up, bank shares fare well
+
+*2024-06-06 16:20:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-bank-shares-fare-well-166628/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Thursday, data on its site showed.
+
+The broader All Share Index closed up 0.99 percent, or 120.93 points, at 12,310; while the more liquid S&P SL20 Index closed up 1.60 percent, or 57.58 points, at 3,650.
+
+Turnover was 1.5 billion. A large part of this came from the bank (Rs662mn) stocks.
+
+Pan Asia Banking Corporation Plc saw the most active volumes (Rs104mn) traded in the day. The share closed down at 23.30.
+
+Bank stocks were some of the largest contributors to the index and closed up; Sampath Bank Plc was up at 80.00, Commercial Bank of Ceylon Plc was up at 108.00, and Hatton National Bank Plc was up at 204.25.
+
+Amana Bank Plc, which has announced a share consolidation, was the outlier in that it closed down at 2.30.
+
+Other top contributors to the index included Ceylon Beverage Holdings Plc, which closed flat at 1,989.75), and LOLC Holdings Plc which closed up at 475.00.
+
+...
+
+[Data](articles/99ebf931.json)
 
 ---
 
@@ -1562,6 +1772,28 @@ It was also reported that the incident occurred after the 14-year-old child warn
 
 ---
 
+### Sri Lanka president starts political office as polls near
+
+*2024-06-06 15:23:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-starts-political-office-as-polls-near-166595/) · `en`
+
+ECONOMYNEXT – Sri Lanka President Ranil Wickremesinghe has set up a political office, his media division said, with presidential elections expected in the fourth quarter of the year,
+
+“The office, located on Sir Ernest de Silva Mawatha, will serve as the center for future political operations.”
+
+Sri Lanka’s next presidential election is due to be held between September 17 and October 17 this year.
+
+Wickremesinghe represents the United National Party which won one seat in the last general elections after a majority of its members broke away to form the Samagi Jana Balavegaya under Sajith Premadasa.
+
+Wickremesinghe, who now heads a government led by the formerly rival SLPP, has said that the presidential election will be held before a parliamentary election.
+
+But he hasn’t yet said definitively that he intends to contest the election, and has yet to officially announce his candidacy.
+
+...
+
+[Data](articles/b6d5ee77.json)
+
+---
+
 ### Repeal electricity act
 
 *2024-06-06 15:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Repeal-electricity-act/110-284265) · `en`
@@ -1818,6 +2050,24 @@ The details of the public consultation will be published tomorrow, Herath said.
 
 ---
 
+### Sri Lanka grants preliminary approval for Starlink: State Minister
+
+*2024-06-06 13:48:00* · [`economynextcom`](https://economynext.com/sri-lanka-grants-preliminary-approval-for-starlink-state-minister-166566/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Telecommunications Regulatory Commission (TRCSL) has granted preliminary approval for Starlink to provide satellite-based internet services  in the island, following a formal public consultation process.
+
+“It’s my pleasure to announce that TRCSL has granted preliminary approval for Starlink to provide satellite-based internet services following a formal public consultation process,” State Technology Minister Kanaka Herath said on social media platform X (twitter).
+
+The details of the public consultation will be published tomorrow, Herath said.
+
+“Starting today, we are collaborating with Starlink to provide internet facilities via satellite technology, marking a significant transformation in the technology sector. Unlike the limited internet facilities provided by towers, this satellite-based technology allows for internet connectivity from virtually anywhere.”
+
+...
+
+[Data](articles/fa9a9b84.json)
+
+---
+
 ### Land issue stretches
 
 *2024-06-06 13:47:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காணி-பிரச்சினை-நீண்டு-செல்கிறது/175-338539) · `ta`
@@ -1859,6 +2109,30 @@ The minister emphasized that this initiative will deliver a fast internet servic
 [Data](articles/451d17f3.json)
 
 [Extended Data](ext_articles/451d17f3.ext.json)
+
+---
+
+### Sri Lanka’s CEB eyes sharply lower tariffs for smaller domestic users: Minister
+
+*2024-06-06 13:42:00* · [`economynextcom`](https://economynext.com/sri-lankas-ceb-eyes-sharply-lower-tariffs-for-smaller-domestic-users-minister-166564/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Power and Energy Minister Kanchana Wijesekera has proposed sharp reduction in electricity bills for lower users from July 1.
+
+Wijesekera told the parliament that the proposal needs to be approved by the regulator, Public Utilities Commission of Sri Lanka (PUCSL).
+
+According to the new proposal, unit cost of households using 0-30 will be reduced by 2 rupees to 6 from the current 8 rupees.
+
+The unit cost of those using 30-60 will be reduced by 11 rupees to 9 and 60-90 will be reduced by 12 rupees to 18, Wijesekera said.
+
+The next category of households using 90-120 units are proposed to be charged 30 rupees from the current 50 rupees.
+
+“We will be submitting our new proposal to reduce the electricity bill to the Public Utilities Commission, ” the Minister told the Parliament.
+
+“The government, as a policy, decided to provide maximum concession to lower electricity users, lower income people and those consumers who fall under these categories,”
+
+...
+
+[Data](articles/3fc870d4.json)
 
 ---
 
@@ -1931,301 +2205,5 @@ But the World Health Organization said that the possibility of hugging the bird 
 [Data](articles/bb66ed69.json)
 
 [Extended Data](ext_articles/bb66ed69.ext.json)
-
----
-
-### Dear woman on the bus was plundered
-
-*2024-06-06 13:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197458) · `si`
-
-A woman on a bus from Kataragama to Colombo was robbed by another passenger, who later returned to her home in Malagama. The thief, after consuming food offered by the victim, became ill but managed to steal around Rs. 6 lakh before fleeing. The victim regained consciousness on Friday morning without remembering the incident. A complaint has been filed with the police, who are investigating the case.
-
-🟩
-
-Another woman has fled by another woman's golden couple's golden couple who was in a house in Malagama, Wadduwa.
-
-The couple stated that the robbery had been carried out by a woman who was randomly found in a bus.
-
-A couple of Kataragama - Colombo bus had recently met a woman.
-
-Dear Woman had then returned home in Malagama, claiming that their son would provide a job.
-
-After arriving at home, the boycott has asked for something to eat.
-
-"He drank it here and walked there. When I got it a little bit of heating, I suddenly drank. At the same time I came like a bit of curb. Then I don't care. "
-
-The stolen of around Rs. 6 lakhs were stored.
-
-"From Thursday, I was unconscious at 1 am on Friday. It did not remember what happened at that time. "
-
-The robbery have lodged a complaint with the police and the police investigation into the arrest of the suspect.
-
-◼️
-
-[Data](articles/0441c76c.json)
-
-[Extended Data](ext_articles/0441c76c.ext.json)
-
----
-
-### Opposition MPs on how to rescue Sri Lankans from Myanmar cybercrime camps, Ukraine warfront
-
-*2024-06-06 13:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/99701/opposition-mps-on-how-to-rescue-sri-lankans-from-myanmar-cybercrime-camps-ukraine-warfront) · `en`
-
-MP Wasantha Yapa Bandara stated during today’s parliamentary session (June 06) that a potential solution for the rescue of Sri Lankans held captive by Myanmar terrorists has been identified.
-
-Accordingly, he urged the Speaker of Parliament to communicate this development to the government.
-
-MP Bandara disclosed that after gathering information on Sri Lankans stranded in Myanmar and Russia, a viable course of action has been identified, following the discussions held with the authorities of Myanmar and Thailand regarding the matter.
-
-He revealed that talks with a specialized organization named the Department of Special Investigation (DSI), which is under Thailand’s Ministry of Justice, could lead to the rescue of the 49 Sri Lankans detained in Myanmar.
-
-Stressing the importance of conveying this information to the government, he highlighted ongoing efforts to rescue Sri Lankans in Russia as well.
-
-...
-
-[Data](articles/bf05454e.json)
-
-[Extended Data](ext_articles/bf05454e.ext.json)
-
----
-
-### This is how electricity tariffs down
-
-*2024-06-06 13:29:04* · [`adalk`](https://www.ada.lk/breaking_news/විදුලි-ගාස්තු-අඩු-වෙන්නේ-මෙහෙමයි/11-410052) · `si`
-
-From July 1st, Sri Lanka's electricity tariffs will decrease, offering more relief to consumers. The Minister of Power and Energy announced a reduction in the unit price from Rs. 50 to Rs. 30 for usage between 90 to 120 units. This adjustment aims to benefit religious institutions and small businesses, with the proposal set to be reviewed by the Public Utilities Commission soon.
-
-🟩
-
-Minister of Power and Energy Kanchana Wijesekara said that the electricity and energy bill was proposed to reduce the electricity bill from 1st July.
-
-The new electricity tariff proposals will be able to provide more relief to the electricity consumers.
-
-The Minister explained to parliament how to reduce electricity tariffs during the list.
-
-The price of the unit between 90 to 120 units reduce from Rs. 50 to 30.
-
-The relief is due to be given to religious places and small industries and that the proposal is to be handed over to the Public Utilities Commission tomorrow (07) or on Monday.
-
-◼️
-
-[Data](articles/27973552.json)
-
-[Extended Data](ext_articles/27973552.ext.json)
-
----
-
-### Senior Maldivians seek to settle in Sri Lanka: FM asks for permission
-
-*2024-06-06 13:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Senior-Maldivians-seek-to-settle-in-Sri-Lanka-FM-asks-for-permission/108-284260) · `en`
-
-Colombo, June 6 (Daily Mirror) - Maldivian Minister of Foreign Affairs Moosa Zameer during his visit to Sri Lanka, requested Public Security Minister Tiran Alles to facilitate arrangements for Maldivian senior citizens to come to Sri Lanka for permanent residence.
-
-This request was made during their meeting at the Ministry of Public Security, attended by a delegation led by Ms. Sheryna Abdul, Maldivian Minister of State for Foreign Affairs.
-
-The discussions primarily revolved around immigration matters, including visa issuance procedures. Minister Zameer commended Sri Lanka's Immigration Department for introducing new visa categories.
-
-The two Ministers also exchanged views on the current political situation.
-
-◼️
-
-[Data](articles/d347309d.json)
-
-[Extended Data](ext_articles/d347309d.ext.json)
-
----
-
-### UN Resident Representative
-
-*2024-06-06 13:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/185434) · `ta`
-
-Mark-André Franche, UN Resident Representative for Sri Lanka, visited the site of the Kokkuttuvai human burial ground during his trip to the North. He discussed the situation with local officials and relatives' coordinators, focusing on the ongoing excavation work.
-
-🟩
-
-UN Permanent Resident Representative for Sri Lanka Mark-André Franche made a surveillance visit to the area where the human burial ground is located.
-
-The UN Resident Representative, who is on a special trip to the North, is conducting discussions with various parties in the Mullaitivu district today.
-
-He visited the area where the excavation work is being carried out by the Kokkuttuvai human burial ground.. Meanwhile, Marisuresh Ishwari, Coordinator of Relatives of the Mullaitivu and Mullaitivu, and Ganeswaran, one of the lawyers who are carrying out the burial case, clarified the conditions to the UN resident representative in the area where the burden is located.
-
-◼️
-
-[Data](articles/d4cdddf8.json)
-
-[Extended Data](ext_articles/d4cdddf8.ext.json)
-
----
-
-### Joint Steering Committee to prevent future flooding in Gampaha District
-
-*2024-06-06 13:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/99700/joint-steering-committee-to-prevent-future-flooding-in-gampaha-district) · `en`
-
-A joint steering committee comprising all relevant government agencies has been established to provide solutions to prevent future flooding in the Gampaha district.
-
-This decision was made under the instruction of Urban Development and Housing Minister, Prasanna Ranatunga, during a discussion chaired by the Secretary to the Ministry of Urban Development and Housing, W. S. Sathyananda, along with Gampaha District Secretary Lalinda Gamage.
-
-The discussion was held yesterday (05) at the Gampaha District Secretariat’s Auditorium to discuss measures that should be taken to prevent Gampaha District and Gampaha town from being flooded in the future.
-
-During the meeting, Deputy General Manager (Research and Planning) of the Sri Lanka Land Development Corporation, Engineer K. H. Keerthiratne presented a comprehensive three-pronged programme to prevent floods in the Gampaha District.
-
-It was decided that the appointed Joint Steering Committee will oversee the implementation of this programme.
-
-...
-
-[Data](articles/5542ace4.json)
-
-[Extended Data](ext_articles/5542ace4.ext.json)
-
----
-
-### SLFP’s first rally set for June 8 in Ambalantota
-
-*2024-06-06 13:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SLFPs-first-rally-set-for-June-8-in-Ambalantota/108-284250) · `en`
-
-Colombo, June 6 (Daily Mireror) - The first rally of the new alliance led by the Sri Lanka Freedom Party (SLFP) will be held on June 8 in Ambalantota town, Sri Lanka Freedom Party Senior Vice President and Minister Mahinda Amaraweera said.
-
-He said all arrangements have been made to hold this public rally under the theme 'Victory for the Country: Together for the Future'.
-
-"The new alliance will cover every district in the future, and only party members of those districts will participate in the rallies held in the respective districts. However, it has been decided to hold the public rally of this new alliance in a very strong and successful manner, Amaraweera said, adding that the strength of the new alliance led by the SLFP will be understood through this series of rallies.
-
-◼️
-
-[Data](articles/1913bf3d.json)
-
-[Extended Data](ext_articles/1913bf3d.ext.json)
-
----
-
-### The CEB employees leave canceled
-
-*2024-06-06 13:17:26* · [`adalk`](https://www.ada.lk/breaking_news/ලංවිම-සේවකයින්ගේ--නිවාඩු-අවලංගුයි/11-410051) · `si`
-
-The Ceylon Electricity Board (CEB) has suspended all leaves effective June 5, as decided by its Board.
-
-🟩
-
-The Board of Ceylon Electricity Board (CEB) has been canceled until the Leave of the Ceylon Electricity Board (CEB) from yesterday (June 5).
-
-◼️
-
-[Data](articles/f9aecbc4.json)
-
-[Extended Data](ext_articles/f9aecbc4.ext.json)
-
----
-
-### The Joint Committee, which includes all state institutions to prevent the floods in the future
-
-*2024-06-06 13:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/185436) · `ta`
-
-A joint committee, including various state institutions, will tackle future flooding in Gampaha district, guided by the Ministry of Urban Development and Housing. Measures discussed include short-term, medium, and long-term projects, with immediate actions like cleaning identified areas and renovating canals underway. The focus is on preventing overflow from the Attanagalu Oya river, addressing issues like illegal constructions blocking drainage systems, and preparing for potential rainfall amounts. Relief efforts are ongoing for current flood victims, with plans to enhance infrastructure to manage future floods more effectively.
-
-🟩
-
-A joint guidance committee comprising all state institutions will be appointed to prevent flooding of Gampaha district in the future.
-
-Urban Development and Housing Minister Prasanna Ranatunga on the instructions of the Ministry of Urban Development and Housing. The resolution was reached during a discussion chaired by S Satyananda and Gampaha District Secretary Lalinda Kamage.
-
-A discussion was held on Wednesday (05) on what measures should be taken to prevent flooding in the future of Gampaha district and Gampaha.. It was held at the Gampaha District Secretariat auditorium.
-
-Deputy General Manager of the Sri Lanka Land Development Corporation (Research and Planning) Engineer K.H.Keerthi Ratna presented three features here.
-
-...
-
-[Data](articles/49b9b91f.json)
-
-[Extended Data](ext_articles/49b9b91f.ext.json)
-
----
-
-### Israel attack on a school in Gaza
-
-*2024-06-06 13:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197457) · `si`
-
-In a tragic incident, Israel's attack on the Nushirath refugee camp in Gaza resulted in at least 32 deaths. The target included a UN-operated school, confirming the severity of the strike. Additionally, Israel conducted operations against suspected terrorists in Daer Al Bha.
-
-🟩
-
-At least 32 people were killed in a Israeli attack on the Nushirath refugee camp in Central Gaza, who states.
-
-Israel also confirmed that a school operated by the United Nations Corporate Institute was targeted.
-
-The Israeli army also confirms another operation to attacking terrorists and terrorists in Daer Al Bha.
-
-◼️
-
-[Data](articles/bf84a145.json)
-
-[Extended Data](ext_articles/bf84a145.ext.json)
-
----
-
-### Increase in the number of victims of HIV in the quarter of 2024
-
-*2024-06-06 13:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/185430) · `ta`
-
-In Q1 2024, 207 people contracted HIV, a 25% rise from 165 cases in the same period last year, leading to 13 deaths. Most affected (23 males and 5 females) were aged 15-24, highlighting a concerning trend. Dr. Vino Dharmakulasinghe attributes the surge to insufficient knowledge, inadequate precautions, and risky sexual behaviors, emphasizing the need for expanded testing, sex education, and safer practices.
-
-🟩
-
-207 people suffered from HIV in the first quarter of this year and 13 died, according to the National Milk Diseases and AIDS Control Scheme.
-
-It shows an increase of 25 percent when compared to last year of 165 people with HIV.
-
-Accordingly, 23 men and five females were between the ages of 15-24 in the first quarter of this year.. The rest are over 25 years of age.
-
-Dr. Vino Dharmakulasinghe, Director of the National Milky Way Diseases and AIDS Control Program, said,
-
-He noted that the increase in the lack of knowledge and appropriate precautions among the people on the expansion of testing, sex education and dangerous sexual behavior.
-
-◼️
-
-[Data](articles/f020db4d.json)
-
-[Extended Data](ext_articles/f020db4d.ext.json)
-
----
-
-### Ministry of Education to purchase strength towels. One billion
-
-*2024-06-06 12:54:40* · [`adalk`](https://www.ada.lk/breaking_news/සන‍ිපාරක්‍ෂක-තුවා-මිලදී-ගැනීමට-අධ්‍යාපන-අමාත්‍යාංශයෙන්-රු--බිලියනයක්/11-410049) · `si`
-
-The Ministry of Education in Sri Lanka plans to distribute one billion free sanitary towels to all national school students nationwide. This initiative aims to address issues related to student attendance, economic challenges, and health concerns. The towels will be available through a registered market under the supervision of the Ministry, ensuring compliance with Sri Lanka Standards. Two types of vouchers worth Rs. 600 each will be issued, valid for specific periods starting from June 10, 2024, to April 30, 2025, to facilitate the purchase of these essential items.
-
-🟩
-
-Providing free gift cards to buy a hygiene towel for increased projects for more than 2024. Rs.. The inauguration program for providing gifts was held at Nawala President Girls' School today (06).
-
-It is expected to prevent adverse conditions, such as not paying proper attention to the students' attendance and the problems they face in the economy and their problems and health.
-
-Ministry of Education has taken steps to provide a gift to provide a gift to buy a gift for six months of national schools in the entire student population of Sri Lanka and Rs.. Accordingly, a gift of Rs.
-
-Sanitary Towels can be purchased by a registered market of the Ministry of Education using this gift. The students are responsible for the purchase of the Sri Lanka Standards Certificate of Sri Lanka Standards Certificate confirmed by the Sri Lanka Standards Institution.
-
-...
-
-[Data](articles/31bfe7aa.json)
-
-[Extended Data](ext_articles/31bfe7aa.ext.json)
-
----
-
-### President Ranil Wickremesinghe's Political Office
-
-*2024-06-06 12:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/185435) · `ta`
-
-President Ranil Wickremesinghe opened his political office in Colombo on June 6th.
-
-🟩
-
-President Ranil Wickremesinghe inaugurated his political office in Colombo today (06).
-
-◼️
-
-[Data](articles/2d3a6d70.json)
-
-[Extended Data](ext_articles/2d3a6d70.ext.json)
 
 ---

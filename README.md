@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-06 11:34:25**
+As of **2024-06-06 11:53:55**
 
 ## Newspaper Stats
 
-*Scraped **28,772** Articles*
+*Scraped **28,776** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 1,553
 economynextcom | 1,636
 dailyftlk | 1,711
 adalk | 2,454
-adaderanalk | 3,261
-tamilmirrorlk | 3,381
+adaderanalk | 3,264
+tamilmirrorlk | 3,382
 virakesarilk | 4,414
 dailymirrorlk | 4,567
 adaderanasinhalalk | 4,619
@@ -26,11 +26,63 @@ adaderanasinhalalk | 4,619
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,769 (100.0%) of 28,772 articles have been extended.
+28,769 (100.0%) of 28,776 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-06 (Thursday)
+
+### Teenager drowns in flood waters while floating on tube
+
+*2024-06-06 11:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/99698/teenager-drowns-in-flood-waters-while-floating-on-tube) · `en`
+
+A 17-year-old boy has drowned in the flood waters in Atavaramulla area of Baddegama.
+
+The incident occurred while the teenager was riding a tube to stay afloat in flood waters caused by the overflow of the Ging River, along with his friends. The tube had reportedly overturned, causing the teenager to be swept away by the flood waters.
+
+After receiving information about the drowning, police officers, lifeguards, and navy personnel had responded and brought the boy ashore. However, he was pronounced dead upon admission to the Baddegama Hospital, Ada Derana reporter said.
+
+The deceased 17-year-old is a resident of Ganegama West, Baddegama, the police said.
+
+Meanwhile, the authorities have issued stern warnings to the public, advising against playing, observing, or venturing into floodwaters due to the high risk of accidents. They emphasize that floodwaters can be extremely dangerous, unpredictable, and capable of causing severe injuries or fatalities.
+
+◼️
+
+[Data](articles/5efab1ef.json)
+
+---
+
+### மைத்திரி வழங்கிய பொது மன்னிப்பு செல்லுபடியற்றது
+
+*2024-06-06 11:21:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மைத்திரி-வழங்கிய-பொது-மன்னிப்பு-செல்லுபடியற்றது/175-338528) · `ta`
+
+இராஜகிரிய, ரோயல் பார்க் கொலைச் சம்பவம் தொடர்பில் மரண தண்டனை விதிக்கப்பட்டிருந்த ஜூட் ஷமந்த ஜயமஹா என்பவருக்கு முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன மன்னிப்பு வழங்கி விடுதலை செய்த தீர்மானம் அரசியலமைப்புக்கு எதிரானது என உயர் நீதிமன்றம் தீர்ப்பளித்துள்ளது.
+
+இதன்படி, குறித்த பிரதிவாதியை விடுவித்து முன்னாள் ஜனாதிபதி வழங்கிய மன்னிப்பு செல்லுபடியற்றது என தீர்ப்பளிக்கப்பட்டுள்ளது. R
+
+◼️
+
+[Data](articles/60bffd6c.json)
+
+---
+
+### SC invalidates Maithripala’s presidential pardon to Royal Park murder convict
+
+*2024-06-06 10:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/99697/sc-invalidates-maithripalas-presidential-pardon-to-royal-park-murder-convict) · `en`
+
+The Supreme Court has quashed the order to grant a Presidential pardon by former President Maithripala Sirisena to Royal Park murder convict Jude Jayamaha, stating that it contravenes provisions under the Constitution, Ada Derana reporter said.
+
+Delivering the verdict, the Supreme Court also invalidated the pardon granted to Jude Shramantha Jayamaha.
+
+Meanwhile, it was also ordered that former President Maithripala Sirisena should pay a compensation of Rs. 01 million to the petitioner, and Rs. 01 million each to the mother and father of the aggrieved young woman, who was the victim of the Royal Park murder.
+
+The Supreme Court, which ruled that former President Sirisena had intentionally violated the Constitution through this act, ordered the Attorney General to take the necessary legal measures for the extradition of the defendant, who is currently overseas, according to local and international conventions.
+
+...
+
+[Data](articles/91ec1c6e.json)
+
+---
 
 ### Time allocated for debate on Electricity Amendment Bill to be extended
 
@@ -51,6 +103,24 @@ MP Charitha Herath who responded said a decent space of time should be given to 
 [Data](articles/ff84df6e.json)
 
 [Extended Data](ext_articles/ff84df6e.ext.json)
+
+---
+
+### Uncertainty looms over proposed Anura–Sajith economic debate
+
+*2024-06-06 10:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/99696/uncertainty-looms-over-proposed-anurasajith-economic-debate) · `en`
+
+Leader of National People’s Power Anura Kumara Dissanayake is ready for the proposed debate on economic policies, with the Opposition Leader Sajith Premadasa, at any time today (06), the NPP executive committee member Dr. Nalinda Jayatissa said.
+
+Dr. Jayatissa noted that the Samagi Jana Balawegaya (SJB) is yet to respond regarding the debate. He also stated that the NPP does not intend to hold the debate between party leaders after today.
+
+Commenting regarding the matter, SJB MP Nalin Bandara stated that their party is prepared for the debate until a Presidential Election is declared.
+
+Both parties had previously agreed to hold the debate between their leaders on June 6, from the dates proposed by the SJB.
+
+◼️
+
+[Data](articles/b1fef159.json)
 
 ---
 
@@ -2057,85 +2127,5 @@ I was one of the boys in the car that made its way to the Palali airport in the 
 [Data](articles/16b3d30c.json)
 
 [Extended Data](ext_articles/16b3d30c.ext.json)
-
----
-
-### Take steps to alleviate the long -standing teacher shortage in the Beruwala Education constituency - Imtiaz Pakir Makar
-
-*2024-06-05 21:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/185406) · `ta`
-
-Imtiaz Pakir Makar urges immediate action to address the longstanding teacher shortages in the Beruwala Education constituency, highlighting critical vacancies in mathematics, science, and English teaching positions that have persisted for over a decade. The situation impacts student exam readiness and reflects broader issues within the Kalutara Education Zone, affecting both the quality of education and teacher morale.
-
-🟩
-
-The long -standing teacher vacancies for high -quality classes in the Kalutara Educational Zone are still not filled. Opposition member Imtiaz Pakir Makar said that the teacher should take immediate steps to fill the vacancies in this regard.
-
-He said this while addressing the debate on the issue of the country's educational activities in Parliament on Wednesday (5).
-
-When the Minister has repeatedly responded to the lack of a massive Asian Zone from the Kalutara Education Zone, there is no response to the function.. There is a shortage of teachers in the Beruwalai constituency in the Kalutara Education Zone alone. That is, there are no 36 people where there should be a hundred.
-
-Mathematics and Science Graduate Teacher Vacancies are found in the Beruwalai constituency. This teacher has been in shortage for 10, 12 years. If so, how can these students face exams?I urge the Minister to search for this.
-
-...
-
-[Data](articles/41b87500.json)
-
-[Extended Data](ext_articles/41b87500.ext.json)
-
----
-
-### Modi Invites President Wickremesinghe to swearing-in ceremony
-
-*2024-06-05 21:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Modi-Invites-President-Wickremesinghe-to-swearing-in-ceremony/108-284198) · `en`
-
-June 05- Indian Prime Minister Narendra Modi has invited Sri Lankan President Ranil Wickremesinghe to his swearing-in ceremony, which the President has accepted, according to the President’s Media Division.
-
-During their phone conversation, President Wickremesinghe congratulated Modi on the BJP-led NDA's electoral victory.
-
-President Wickremesinghe is expected to visit India for the ceremony, scheduled for June 8, 2024.
-
-◼️
-
-[Data](articles/c8697d6d.json)
-
-[Extended Data](ext_articles/c8697d6d.ext.json)
-
----
-
-### UN agencies, INGOs pledge to further assist flood victims in Sri Lanka
-
-*2024-06-05 21:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/99688/un-agencies-ingos-pledge-to-further-assist-flood-victims-in-sri-lanka) · `en`
-
-State Minister of Defence Premitha Bandara Tennakoon chaired a meeting today (05) with representatives of UN agencies, international non-governmental organizations (INGOs) and NGOs to brief them on the ongoing rescue and relief operations to assist adverse weather-affected communities.
-
-The state minister presented the UN, INGO and NGO officials with the latest development in weather and progress of the ongoing relief operations carried out by disaster management authorities through District and Divisional Secretariats in coordination with tri-forces, Sri Lanka Police, Civil Security Department and other state officials.
-
-He highly appreciated the assistance and cooperation that was readily facilitated by the UN agencies, INGOs and NGOs for providing relief to flood victims and he said that more was needed to be done in post-disaster repair and rebuilding stages to restore civilian life affected by this disaster.
-
-...
-
-[Data](articles/db1f6337.json)
-
-[Extended Data](ext_articles/db1f6337.ext.json)
-
----
-
-### A target of 97 to India
-
-*2024-06-05 21:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197435) · `si`
-
-India narrowly missed winning the T20 World Cup, scoring 97 runs while Ireland made 96. Hardik Pandya contributed significantly with 27 runs and 3 crucial wickets.
-
-🟩
-
-The Irish group scored 96 runs for the loss of the Twenty Twenty World Cup.
-
-Hardick Pandya scored 27 runs and 3 wickets.
-
-◼️
-
-[Data](articles/5ddc5daa.json)
-
-[Extended Data](ext_articles/5ddc5daa.ext.json)
 
 ---

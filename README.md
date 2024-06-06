@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-06 13:53:55**
+As of **2024-06-06 14:05:29**
 
 ## Newspaper Stats
 
-*Scraped **28,807** Articles*
+*Scraped **28,811** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,553
 economynextcom | 1,636
 dailyftlk | 1,711
 adalk | 2,459
-adaderanalk | 3,265
+adaderanalk | 3,269
 tamilmirrorlk | 3,386
 virakesarilk | 4,414
 dailymirrorlk | 4,577
@@ -26,37 +26,119 @@ adaderanasinhalalk | 4,626
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,804 (100.0%) of 28,807 articles have been extended.
+28,807 (100.0%) of 28,811 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-06 (Thursday)
 
-### බස් රථයේදී හිතවත් වූ කාන්තාව නිවස කොල්ලකයි
+### Israeli strike on Gaza school kills 30 people; Military claims it was being used by Hamas
+
+*2024-06-06 13:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/99703/israeli-strike-on-gaza-school-kills-30-people-military-claims-it-was-being-used-by-hamas) · `en`
+
+An Israeli strike early Thursday on a school sheltering displaced Palestinians in central Gaza killed more than 30 people, including 23 women and children, according to local health officials. The Israeli military said Hamas militants were operating from within the school.
+
+The strike came after the military announced a new ground and air assault in several refugee camps in central Gaza, pursuing Hamas militants it says have regrouped there. It’s the latest instance of troops sweeping back into sections of the Gaza Strip they have previously invaded, underscoring the resilience of the militant group despite Israel’s nearly eight-month onslaught in the territory.
+
+Witnesses and hospital officials said the predawn strike hit the al-Sardi School, run by the United Nations agency for Palestinian refugees known by the acronym UNRWA. The school was filled with Palestinians who had fled Israeli offensives and bombardment in northern Gaza, they said.
+
+...
+
+[Data](articles/49e8e422.json)
+
+---
+
+### Sri Lanka gives preliminary approval to Musk’s Starlink
+
+*2024-06-06 13:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/99702/sri-lanka-gives-preliminary-approval-to-musks-starlink) · `en`
+
+State Minister of Technology Kanaka Herath announced that the Telecommunication Regulatory Commission of Sri Lanka (TRCSL) has granted preliminary approval for the implementation of the “Starlink”, the satellite unit of Elon Musk’s SpaceX, to provide internet services in Sri Lanka.
+
+Accordingly, the approval is to be granted for “Starlink” to provide satellite-based internet services in Sri Lanka, following a formal public consultation process, the President’s Media Division (PMD) said.
+
+The details of the public consultation will be published tomorrow (07), according to the PMD.
+
+Sri Lanka fast-tracked the approval process after Musk met with President Ranil Wickremesinghe last month in Indonesia on the sidelines of the 10th World Water Forum.
+
+Musk and Wickremesinghe had discussed ways to expand internet connectivity in rural Sri Lanka and potential collaboration on renewable energy.
+
+...
+
+[Data](articles/451d17f3.json)
+
+---
+
+### Dear woman on the bus was plundered
 
 *2024-06-06 13:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197458) · `si`
 
-වාද්දූව, මැලෑගම ප්‍රදේශයේ නිවසක සිටි අඹු-සැමි යුවළකගේ රන් භාණ්ඩ තවත් කාන්තාවක් විසින් කොල්ලකා පළාගොස් තිබේ.
+A woman on a bus from Kataragama to Colombo was robbed by another passenger, who later returned to her home in Malagama. The thief, after consuming food offered by the victim, became ill but managed to steal around Rs. 6 lakh before fleeing. The victim regained consciousness on Friday morning without remembering the incident. A complaint has been filed with the police, who are investigating the case.
 
-බස් රථයකදී අහඹු ලෙස හමුවූ කාන්තාවක් විසින් මෙම කොල්ලය සිදුකර ඇති බව අදාළ යුවළ සඳහන් කර ඇත.
+🟩
 
-කතරගම - කොළඹ බස් රථයකදී අඹු-සැමි යුවළකට පසුගියදා අහඹු ලෙස අදාළ කාන්තාව හමුවී තිබුණි.
+Another woman has fled by another woman's golden couple's golden couple who was in a house in Malagama, Wadduwa.
 
-එහිදී හිතවත් වූ කාන්තාව අනතුරුව වාද්දූව, මැලෑගම ප්‍රදේශයේ පිහිටි අදාළ යුවළගේ නිවසට පැමිණ ඇත්තේ, ඔවුන්ගේ පුත්‍රයාට රැකියාවක් ලබාදෙන බව පවසමිනි.
+The couple stated that the robbery had been carried out by a woman who was randomly found in a bus.
 
-නිවසට පැමිණීමෙන් පසු කොල්ලකාරිය විසින් තමන්ට කෑමට යමක් ඉල්ලා තිබේ.
+A couple of Kataragama - Colombo bus had recently met a woman.
 
-"එයා තේ ඒක බිව්වේ එහෙට මෙහෙට ඇවිද ඇවිද. මගේ තේ ඒක ටිකක් රස්නය අඩු වුණාම මම එකපාරටම බිව්වා. ඒ්ත් එක්කම මට ටිකක් කැරකිල්ලක් වගේ ආවා. ඊට පස්සේ මට කල්පනාව නැහැ."
+Dear Woman had then returned home in Malagama, claiming that their son would provide a job.
 
-ඒ එම යුවළ සතුව තිබූ රුපියල් ලක්ෂ 6ක පමණ රණ් භාණ්ඩ සොරාගැනීමෙන් අනතුරුවය.
+After arriving at home, the boycott has asked for something to eat.
 
-"බ්‍රහස්පතින්දා වෙච්ච දෙයින් මට සිහිය ආවේ සිකුරාදා පාන්දර 1ට විතර. ඒ වෙලාවෙත් මට වෙච්ච දේ මතක තිබුණේ නැහැ."
+"He drank it here and walked there. When I got it a little bit of heating, I suddenly drank. At the same time I came like a bit of curb. Then I don't care. "
 
-අනතුරුව කොල්ලකෑමට ලක්වූ අඹුසැමි යුවළ සිද්ධිය පිළිබඳව පොලිසියට පැමිණිලි කර ඇති අතර සැකකාරිය අත්අඩංගුවට ගැනීම සඳහා පොලිස් විමර්ශන ක්‍රියාත්මකය.
+The stolen of around Rs. 6 lakhs were stored.
+
+"From Thursday, I was unconscious at 1 am on Friday. It did not remember what happened at that time. "
+
+The robbery have lodged a complaint with the police and the police investigation into the arrest of the suspect.
 
 ◼️
 
 [Data](articles/0441c76c.json)
+
+[Extended Data](ext_articles/0441c76c.ext.json)
+
+---
+
+### Opposition MPs on how to rescue Sri Lankans from Myanmar cybercrime camps, Ukraine warfront
+
+*2024-06-06 13:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/99701/opposition-mps-on-how-to-rescue-sri-lankans-from-myanmar-cybercrime-camps-ukraine-warfront) · `en`
+
+MP Wasantha Yapa Bandara stated during today’s parliamentary session (June 06) that a potential solution for the rescue of Sri Lankans held captive by Myanmar terrorists has been identified.
+
+Accordingly, he urged the Speaker of Parliament to communicate this development to the government.
+
+MP Bandara disclosed that after gathering information on Sri Lankans stranded in Myanmar and Russia, a viable course of action has been identified, following the discussions held with the authorities of Myanmar and Thailand regarding the matter.
+
+He revealed that talks with a specialized organization named the Department of Special Investigation (DSI), which is under Thailand’s Ministry of Justice, could lead to the rescue of the 49 Sri Lankans detained in Myanmar.
+
+Stressing the importance of conveying this information to the government, he highlighted ongoing efforts to rescue Sri Lankans in Russia as well.
+
+...
+
+[Data](articles/bf05454e.json)
+
+---
+
+### Joint Steering Committee to prevent future flooding in Gampaha District
+
+*2024-06-06 13:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/99700/joint-steering-committee-to-prevent-future-flooding-in-gampaha-district) · `en`
+
+A joint steering committee comprising all relevant government agencies has been established to provide solutions to prevent future flooding in the Gampaha district.
+
+This decision was made under the instruction of Urban Development and Housing Minister, Prasanna Ranatunga, during a discussion chaired by the Secretary to the Ministry of Urban Development and Housing, W. S. Sathyananda, along with Gampaha District Secretary Lalinda Gamage.
+
+The discussion was held yesterday (05) at the Gampaha District Secretariat’s Auditorium to discuss measures that should be taken to prevent Gampaha District and Gampaha town from being flooded in the future.
+
+During the meeting, Deputy General Manager (Research and Planning) of the Sri Lanka Land Development Corporation, Engineer K. H. Keerthiratne presented a comprehensive three-pronged programme to prevent floods in the Gampaha District.
+
+It was decided that the appointed Joint Steering Committee will oversee the implementation of this programme.
+
+...
+
+[Data](articles/5542ace4.json)
 
 ---
 
@@ -74,17 +156,25 @@ He said all arrangements have been made to hold this public rally under the them
 
 [Data](articles/1913bf3d.json)
 
+[Extended Data](ext_articles/1913bf3d.ext.json)
+
 ---
 
-### ලංවිම සේවකයින්ගේ  නිවාඩු අවලංගුයි
+### The CEB employees leave canceled
 
 *2024-06-06 13:17:26* · [`adalk`](https://www.ada.lk/breaking_news/ලංවිම-සේවකයින්ගේ--නිවාඩු-අවලංගුයි/11-410051) · `si`
 
-ඊයේ (ජුනි 05දා) සිට ක්‍රියාත්මක වන පරිදි ලංකා විදුලිබල මණ්ඩලයේ සියලුම සේවකයන්ගේ නිවාඩු නැවත දැනුම් දෙන තෙක් අවලංගු කළ බව එම මණ්ඩලය පවසයි.
+The Ceylon Electricity Board (CEB) has suspended all leaves effective June 5, as decided by its Board.
+
+🟩
+
+The Board of Ceylon Electricity Board (CEB) has been canceled until the Leave of the Ceylon Electricity Board (CEB) from yesterday (June 5).
 
 ◼️
 
 [Data](articles/f9aecbc4.json)
+
+[Extended Data](ext_articles/f9aecbc4.ext.json)
 
 ---
 
@@ -2087,97 +2177,5 @@ After the elephant was completely attacked by the tile house, a building that ha
 [Data](articles/2b1194ad.json)
 
 [Extended Data](ext_articles/2b1194ad.ext.json)
-
----
-
-### New diplomats handed over credentials
-
-*2024-06-06 01:36:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-இராஜதந்திரிகள்-நற்சான்றுகளைக்-கையளித்தனர்/175-338517) · `ta`
-
-Sri Lanka's new ministers and ambassadors, including those from New Zealand, Cyprus, Maldives, Sierra Leone, Mauritius, Guatemala, Algeria, Estonia, Laos, and Colombia, handed over their credentials to President Ranil Wickremesinghe. A ceremony welcomed them, followed by a speech from the president.
-
-🟩
-
-Five newly appointed Sri Lanka's newly appointed ministers and nine ambassadors handed over their credentials to President Ranil Wickremesinghe at the President's House in Colombo yesterday.
-
-New Zealand, Cyprus Republic, Maldives, Maldives, Sierra Leone Republican and Mauritius Republic of Guatemala Republic, Algeria People's Democratic Republic, Estonia Republic, Laos People's Democratic Republic, Columbia RepublicanAmbassadors have also been appointed.
-
-A small ceremony was organized at the Fort President's House to welcome these new high -rankings and ambassadors.
-
-President Ranil Wickremesinghe engaged in a speech with new high -ranking and ambassadors after receiving certificates.. (A)
-
-◼️
-
-[Data](articles/0b45ab9a.json)
-
-[Extended Data](ext_articles/0b45ab9a.ext.json)
-
----
-
-### Development Committee for Mannar District General Hospital
-
-*2024-06-06 01:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/185410) · `ta`
-
-After several years of inactivity, the Mannar District General Hospital's development team has been revived. A new executive committee, including Dr. MH Muhammed Haniba as Director, was elected to address longstanding needs and shortages within the hospital. The committee's first meeting took place under the leadership of Dr. Haniba, aiming to resume development efforts and improve hospital services.
-
-🟩
-
-The new executive committee has been elected as the development team for the Mannar District General Hospital has not been functioning for the past several years.
-
-Although the authorities are carrying out their duties with the personnel at the Mannar District General Hospital, many have been pointed out that there are many needs and shortages in the hospital.
-
-However, it is noteworthy that the development team has not been functioning for the hospital for the past several years in the Mannar district and has long been pointed out by many.
-
-At this juncture, the activities of the Hospital Development Committee have resumed.
-
-The meeting of the new executives was held on Tuesday (04) at 2.30 pm at the Mannar Regional Health Director's Office Auditorium under the patronage of District General Hospital Dr. MH Muhammed Haniba.
-
-...
-
-[Data](articles/a10ae020.json)
-
-[Extended Data](ext_articles/a10ae020.ext.json)
-
----
-
-### The 50th anniversary of the martyr Poni Sivakumaran
-
-*2024-06-06 01:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/185409) · `ta`
-
-The 50th anniversary of Poni Sivakumaran, a pivotal figure in Tamil history known for his student activism, was celebrated on May 5th. The event, attended by university faculty, students, and staff at the University of Jaffna, commemorated his legacy as a symbol of resistance and leadership.
-
-🟩
-
-The 50th anniversary of the first supremacist of the Tamil nation who fought as a student fighter in the history of the Tamil nation was carried out on Wednesday, 05, with the participation of university lecturers, students and non -academic staff at the University of Jaffna.
-
-◼️
-
-[Data](articles/4c540f00.json)
-
-[Extended Data](ext_articles/4c540f00.ext.json)
-
----
-
-### Congratulations to Narendra Modi
-
-*2024-06-06 01:15:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நரேந்திர-மோடிக்கு-சபையில்-வாழ்த்து/175-338516) · `ta`
-
-Narendra Modi, India's PM, received congratulations from Sri Lanka's Parliament, including PM Dinesh Gunawardena and Opposition Leader Sajith Premadasa. This marks Modi's third term leading the BJP, highlighting his continued popularity and leadership in India. The Sri Lankan government appreciates India's support and looks forward to strengthening ties between the two countries.
-
-🟩
-
-Indian Prime Minister Narendra Modi congratulated the Sri Lankan parliament.
-
-Prime Minister Dinesh Gunawardena and Opposition Leader Sajith Premadasa congratulated the Indian Prime Minister on Wednesday (05) when Parliament convened.
-
-We congratulate Narendra Modi, the leader of the Bharatiya Janata Party (BJP) for the third time in our neighboring and ally, India's democratic election.. India is a country with a major population in parliament. Modi acts as prime minister of that country. We congratulate the Modi government for allies and cooperation with Sri Lanka and cooperation with Asia.
-
-We congratulate Narendra Modi for the third time and the Bharatiya Janata Party -led coalition to re -rule.. We express our happiness to the programs that continue to overcome people's beliefs. We hope to have a close friendship between Sri Lanka India.
-
-◼️
-
-[Data](articles/61ac8ae9.json)
-
-[Extended Data](ext_articles/61ac8ae9.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-06 17:56:09**
+As of **2024-06-06 18:12:50**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,635
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,870 (100.0%) of 28,872 articles have been extended.
+28,872 (100.0%) of 28,872 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -56,19 +56,25 @@ After the incident, he fled the area and drank poison in a secret place. A perso
 
 ---
 
-### විදුලිබල පනත් කෙටුම්පත දෙවන වර කියවීම ට ඡන්දයක්
+### Power and Bill a vote for second reading
 
 *2024-06-06 17:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197468) · `si`
 
-ශ්‍රී ලංකා විදුලිබල පනත් කෙටුම්පත දෙවන වර කියවීම සඳහා අද (06) පාර්ලිමේන්තුවේදී ඡන්ද විමසීමක් සිදුකෙරුණි.
+The Sri Lanka Electricity Bill passed its second reading in parliament with 103 votes in favor and 59 against, resulting in a majority of 44 votes.
 
-එහිදී පනත් කෙටුම්පතට පක්ෂව ඡන්ද 103ක් සහ විරුද්ධව ඡන්ද 59ක් හිමිවිය.
+🟩
 
-ඒ අනුව කථානායකවරයා පාර්ලිමේන්තුවට දැනුම්දුන්නේ ශ්‍රී ලංකා විදුලිබල පනත් කෙටුම්පත දෙවන වර කියවීම වැඩි ඡන්ද 44කින් සම්මත වූ බවය.
+The Sri Lanka Electricity Bill was held today (6th) parliament today.
+
+There were 103 votes in favor of the Bill and 59 votes.
+
+Accordingly, the Speaker informed Parliament the second reading of the Sri Lanka Electricity Bill was passed by a majority of 44 votes.
 
 ◼️
 
 [Data](articles/2a312ce0.json)
+
+[Extended Data](ext_articles/2a312ce0.ext.json)
 
 ---
 
@@ -85,6 +91,8 @@ Opposition parliamentarians including those from the ‘Samagi Jana Balawegaya�
 ◼️
 
 [Data](articles/4577fb0d.json)
+
+[Extended Data](ext_articles/4577fb0d.ext.json)
 
 ---
 

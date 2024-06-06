@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-07 01:53:21**
+As of **2024-06-07 02:04:34**
 
 ## Newspaper Stats
 
-*Scraped **28,941** Articles*
+*Scraped **28,946** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,11 +14,11 @@ bbccomsinhala | 281
 newsfirstlk | 363
 islandlk | 1,554
 economynextcom | 1,655
-dailyftlk | 1,714
+dailyftlk | 1,715
 adalk | 2,474
 adaderanalk | 3,281
-tamilmirrorlk | 3,399
-virakesarilk | 4,440
+tamilmirrorlk | 3,400
+virakesarilk | 4,443
 dailymirrorlk | 4,603
 adaderanasinhalalk | 4,641
 
@@ -26,11 +26,95 @@ adaderanasinhalalk | 4,641
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,941 (100.0%) of 28,941 articles have been extended.
+28,941 (100.0%) of 28,946 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-07 (Friday)
+
+### Shane and Shehan appointed to driving seat at Triad
+
+*2024-06-07 01:56:49* · [`dailyftlk`](https://www.ft.lk/business/Shane-and-Shehan-appointed-to-driving-seat-at-Triad/34-762749) · `en`
+
+Triad Ltd. has appointed Shane Wilson as Chief Executive Officer (CEO) and Shehan Samarasinha as Chief Operating Officer (COO).
+
+The appointments mark a significant milestone in Triad’s journey as a leader in creative communications solutions in Sri Lanka. Shane and Shehan infuse new blood, and a blend of youth and international experience to Triad, further elevating its strategic and creative capabilities, in the new age of integrated communications.
+
+Giving younger people opportunities to lead and shine is a noted hallmark of Triad’s “API” – we are all one family – culture, and its corporate ethic of ‘purpose beyond profit’. In an industry that sees frequent changes in ownership, form and success, Triad’s ability to thrive for three decades and more is attributed to its ability to revolutionise the traditional, to creatively adapt to challenges and to identify, groom and empower the right talent at the right time for the right purpose.
+
+...
+
+[Data](articles/4f634e85.json)
+
+---
+
+### டெங்கு நோயைக் கட்டுப்படுத்த பொதுமக்களின் ஆதரவு அவசியம் - வைத்தியர் சுதத் சமரவீர
+
+*2024-06-07 01:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/185487) · `ta`
+
+டெங்கு நோய் சுகாதாரப் பிரச்சினை மட்டுமன்றி, அது ஒரு பொருளாதார, சமூகப் பிரச்சினையாக உள்ளதாகவும், பொதுமக்களின் பூரண ஆதரவின்றி சுகாதார அமைச்சினால் மட்டும் டெங்கு பரவுவதைக் கட்டுப்படுத்த முடியாது எனவும் தேசிய டெங்கு கட்டுப்பாட்டுப் பிரிவின் பணிப்பாளர் வைத்தியர் சுதத் சமரவீர தெரிவித்தார்.
+
+இந்த வருடத்தின் கடந்த ஐந்து மாதங்களில் 25,000 க்கும் அதிகமான டெங்கு நோயாளர்கள் பதிவாகியுள்ளதோடு  ஒன்பது  பேர் டெங்கு நோயினால்  உயிரிழந்துள்ளதாகவும் அவர் மேலும் தெரிவித்தார்.
+
+ஜனாதிபதி ஊடக மையத்தில் இன்று (06) இடம்பெற்ற விசேட செய்தியாளர் மாநாட்டில் கலந்து கொண்ட விசேட வைத்தியர் கலாநிதி சுதத் சமரவீர இதனைக் குறிப்பிட்டார்.
+
+தற்போது ஏற்பட்டுள்ள வெள்ளப்பெருக்கு நிலைமையுடன் டெங்கு, தொற்றுநோய் மட்டத்திற்கு அதிகரிக்கக் கூடும் என்பதால் நோய்ப் பரவலை கட்டுப்படுத்த நடவடிக்கை எடுப்பது மிக முக்கியமானது எனவும் அவர் சுட்டிக்காட்டினார்.
+
+...
+
+[Data](articles/b93eb8c5.json)
+
+---
+
+### இலங்கை மக்களின் இனப்பிரச்சினையைத் தீர்த்து தமிழர்கள் சுயகொளரவத்துடன் வாழ பாரத பிரதமர் வழிசெய்ய வேண்டும் - கலாநிதி ஆறு திருமுருகன்
+
+*2024-06-07 01:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/185486) · `ta`
+
+இந்தியாவின் அயல்நாடான  இலங்கையில் தமிழ்பேசும் மக்களின் நீண்டகால பிரச்சினையாக இருக்கும் இனப்பிரச்சினையை தீர்த்துவைத்து சுயகொளரவத்துடன் வாழ பாரத பிரதமர் வழிசெய்யவேண்டும் என அகில இலங்கை இந்து மாமன்ற உப தலைவர் கலாநிதி ஆறுதிரு முருகன் பாரத பிரதமருக்கான  வாழ்த்துரையில் தெரிவித்தார்.
+
+பாரத தேசத்தின் பிரதமராக மூன்றாவது தடவையாக  மக்களால் தெரிவுசெய்யப்பட்டுள்ள  இச் சந்தர்ப்பத்தில் தங்களை வாழ்த்துவதில் ஆனந்தம் அடைகின்றேன். தாங்கள் ஆற்றுகின்ற உன்னதமான சேவைக்கு மக்கள் தந்த பரிசாகக் கருதுங்கள் இதேவேளை இந்தியாவின் அயல் நாடாகிய இலங்கையில் தமிழ் பேசும் மக்களின் நீண்டகால பிரச்சினையாக இருக்கின்ற இனப்பிரச்சினையே தீர்த்து வைத்து சுய கௌரவத்தோடு தமிழினம் வாழ தாங்கள் வழிசெய்யவேண்டும்.
+
+பல லட்சம் மக்களின் உயிரை இழந்த நிலையில் செல்லெண்ணா துயருடன் வாழும் தமிழர்களின் அவலத்தை நிரந்தரமாகப் போக்குவதற்கு தாங்கள் வழி செய்யவேண்டும்.
+
+...
+
+[Data](articles/81dedc54.json)
+
+---
+
+### தேசிய ஜனநாயக கூட்டணியின் தலைவராக நரேந்திர மோடி மீண்டும் தேர்வு
+
+*2024-06-07 01:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/185485) · `ta`
+
+மக்களவைத் தேர்தல் முடிவுகள் வெளியான பிறகு தேசிய ஜனநாயக கூட்டணி கட்சியின் ஆலோசனைக் கூட்டம் புதுதில்லியில் நடைபெற்றது. இந்தக் கூட்டத்தில் தேசிய ஜனநாயக கூட்டணியில் அங்கம் வகிக்கும் அரசியல் கட்சிகளின் தலைவர்களான பிரதமர் நரேந்திர மோடி, ஜே.பி. நட்டா, அமித்ஷா, ராஜ்நாத் சிங், தெலுங்கு தேச கட்சியின் தலைவரான சந்திரபாபு நாயுடு, ஐக்கிய ஜனதாதள கட்சியின் தலைவரான நிதிஷ்குமார், ஜன சேனா கட்சியின்  தலைவரான பவன் கல்யாண், மதசார்பற்ற ஜனதா தள கட்சியின் தலைவரான குமாரசாமி, சிவசேனா (ஷிண்டே பிரிவு) தலைவரான ஏக்நாத் ஷிண்டே, லோக் ஜனசக்தி கட்சியின் தலைவரான சிராக் பஸ்வான் உள்ளிட்ட பலர் பங்கு பற்றினர்.
+
+இது தொடர்பாக பிரதமர் நரேந்திர மோடி தன்னுடைய எக்ஸ் தளத்தில், '' தேசிய ஜனநாயக கூட்டணியில் கட்சித் தலைவர்களை சந்தித்தோம். தேசிய அளவிலான முன்னேற்றத்தையும், பிராந்திய அபிலாசைகளை நிறைவேற்றுவதற்கும் இந்த கூட்டணி பாடுபடும். இந்தியாவில் உள்ள 140 கோடி மக்களுக்கும் தொடர்ந்து சேவை செய்வோம் மற்றும் விரிந்த பாரதத்தை உருவாக்க பாடுபடுவோம்'' என்றும் பதிவிட்டிருக்கிறார்.
+
+...
+
+[Data](articles/f8d4e4e1.json)
+
+---
+
+### Indian Lok Sabha election - a view
+
+*2024-06-07 01:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/185482) · `ta`
+
+In the recently concluded Indian Lok Sabha elections, the Bharatiya Janata Party (BJP) and its leader, Prime Minister Narendra Modi, did not secure the expected 400 seats but still achieved a significant majority. This result limits the BJP's ability to unilaterally implement reforms. Despite this, Modi was re-elected for a third term. The election saw several surprises, including independent candidates winning against major parties. For instance, Amrit Pal Singh, despite being imprisoned, won in the Katur Sahib constituency, and Mohammed Haneefa triumphed in Ladakh over both Congress and BJP candidates. These outcomes highlight the dynamic nature of Indian politics and the potential for independent voices to impact electoral results positively.
+
+🟩
+
+The completed Indian Lok Sabha election has many interesting features. The Bharatiya Janata Party (BJP), which has been ruling in India for the past ten years, and the Prime Minister of the party, Narendra Modi, have not received 400 seats in the NDA's campaign.. Instead, only a large -scale majority to rule is to the people.
+
+This has created an environment where the BJP is no longer able to decide for reforms in the country.. Although Indian voters have been given the opportunity to Prime Minister Narendra Modi for the third time.This time the BJP and the party's Prime Minister Narendra Modi have made the position that Telugu Desam Party leader Chandrababu Naidu and Nitish Kumar, the leader of the United Janata Party, can be operated only after consultation.. Political observers have said that this is healthy for democracy.
+
+...
+
+[Data](articles/0b0ca966.json)
+
+[Extended Data](ext_articles/0b0ca966.ext.json)
+
+---
 
 ### Why people shouldn’t fear  ‘Mr. Talent’ - EDITORIAL
 
@@ -65,6 +149,24 @@ There was little or no attempt by most Israeli-friendly nations to make use of t
 [Data](articles/8089052d.json)
 
 [Extended Data](ext_articles/8089052d.ext.json)
+
+---
+
+### ’மஹிந்த எதிர்க்கிறார் மொட்டு ஆதரிக்கிறது’
+
+*2024-06-07 00:32:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மஹிந்த-எதிர்க்கிறார்-மொட்டு-ஆதரிக்கிறது/175-338573) · `ta`
+
+ராஜபக்‌ஷ தெரிவித்திருக்கையில், இலங்கை மின்சார சபை மறுசீரமைப்பு சட்டமூலத்திற்கு பொதுஜன பெரமுனவினர் ஆதரவளிப்பது வேடிக்கையானது என்று ஐக்கிய மக்கள் சக்தி பாராளுமன்ற உறுப்பினர் கபீர் ஹாசீம் தெரிவித்தார்.
+
+பாராளுமன்றத்தில் வியாழக்கிழமை (06)  நடைபெற்ற இலங்கை மின்சார சபை மறுசீரமைப்பு சட்டமூலம் மீதான விவாதத்தில் உரையாற்றும் போதே அவர் இதனை தெரிவித்தார்.
+
+இந்த சட்டமூலம் தொடர்பில் மின்சார சபை துறையினர் பல்வேறு குற்றச்சாட்டுகளை முன்வைக்கின்றனர். இது தொடர்பில் ஆராய தங்களுக்கு போதுமான காலம் வழங்கப்படவில்லை என்று மின்சார சபை தொழிற்சங்கங்களும், பொறியியலாளர்களும் கூறுகின்றனர். தங்களுடன் முறையாக கலந்துரையாடவில்லை என்றும் கூறுகின்றனர்.
+
+இதனை பாராளுமன்ற மேற்பார்வை குழுவுக்கும் இரண்டு நாட்களுக்கு முன்னரே கொண்டுவரப்பட்டுள்ளது. அத்துடன் நீதிமன்றமும் இது தொடர்பில் அறிவித்துள்ளது. இவ்வாறான நிலையையில் அவசரமாக இந்த சட்டமூலத்தை கொண்டு வருவது முறையற்றதே.
+
+...
+
+[Data](articles/e8195d18.json)
 
 ---
 
@@ -595,26 +697,6 @@ He highlighted the lasting impact of such trauma, stressing the importance of un
 [Data](articles/d29f7c29.json)
 
 [Extended Data](ext_articles/d29f7c29.ext.json)
-
----
-
-### Indian Lok Sabha election - a view
-
-*2024-06-06 20:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/185482) · `ta`
-
-In the recently concluded Indian Lok Sabha elections, the Bharatiya Janata Party (BJP) and its leader, Prime Minister Narendra Modi, did not secure the expected 400 seats but still achieved a significant majority. This result limits the BJP's ability to unilaterally implement reforms. Despite this, Modi was re-elected for a third term. The election saw several surprises, including independent candidates winning against major parties. For instance, Amrit Pal Singh, despite being imprisoned, won in the Katur Sahib constituency, and Mohammed Haneefa triumphed in Ladakh over both Congress and BJP candidates. These outcomes highlight the dynamic nature of Indian politics and the potential for independent voices to impact electoral results positively.
-
-🟩
-
-The completed Indian Lok Sabha election has many interesting features. The Bharatiya Janata Party (BJP), which has been ruling in India for the past ten years, and the Prime Minister of the party, Narendra Modi, have not received 400 seats in the NDA's campaign.. Instead, only a large -scale majority to rule is to the people.
-
-This has created an environment where the BJP is no longer able to decide for reforms in the country.. Although Indian voters have been given the opportunity to Prime Minister Narendra Modi for the third time.This time the BJP and the party's Prime Minister Narendra Modi have made the position that Telugu Desam Party leader Chandrababu Naidu and Nitish Kumar, the leader of the United Janata Party, can be operated only after consultation.. Political observers have said that this is healthy for democracy.
-
-...
-
-[Data](articles/0b0ca966.json)
-
-[Extended Data](ext_articles/0b0ca966.ext.json)
 
 ---
 
@@ -2117,109 +2199,5 @@ It was also agreed to remove the barriers to the wholesale distribution of toddy
 [Data](articles/d2ae9a43.json)
 
 [Extended Data](ext_articles/d2ae9a43.ext.json)
-
----
-
-### A reduction in the price of essential commodities
-
-*2024-06-06 14:42:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அத்தியாவசிய-பொருட்களின்-விலை-குறைப்பு/175-338542) · `ta`
-
-Essential commodity prices dropped significantly: potatoes by 75 rupees, wheat flour by 5 rupees, white rice by 110 rupees, red rice by 45 rupees, and dried chili by 20 rupees. These reductions apply to all Lanka Sathosa outlets starting today (06).
-
-🟩
-
-Accordingly, the potatoes have been reduced by 75 rupees and reduced by 350 rupees, the wheat maw 5 rupees and the white Gaubi 110 rupees and the Red Caubi 45 rupees to 45 rupees and Rs 950 rupees.
-
-Meanwhile, dried chilli will be reduced by 20 rupees and reduced by Rs.
-
-The company has issued a statement that the reduced prices of these essential commodities will be available at all Lanka Sathosa outlets from today (06).
-
-◼️
-
-[Data](articles/4fecd1d3.json)
-
-[Extended Data](ext_articles/4fecd1d3.ext.json)
-
----
-
-### The electricity bill will be reduced from July 1;Minister Kanjana
-
-*2024-06-06 14:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/185445) · `ta`
-
-From July 1, Electricity and Power Minister Kanjana Wijesekera announced a reduction in electricity bills. The proposal is set to be submitted to the Sri Lanka Public Utilities Commission shortly.
-
-🟩
-
-Electricity and Power Minister Kanjana Wijesekera said the electricity bill would be reduced from 1st July.
-
-The proposal will be sent to the Sri Lanka Public Use of Commission soon.
-
-◼️
-
-[Data](articles/0abb8d68.json)
-
-[Extended Data](ext_articles/0abb8d68.ext.json)
-
----
-
-### Sri Lanka Telecommunication Regulatory Commission permits Starling Internet Service
-
-*2024-06-06 14:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/185437) · `ta`
-
-The Sri Lanka Telecommunications Commission has approved Starlink to offer satellite-based internet services nationwide. This decision follows public consultation, aiming to enhance connectivity, especially in remote areas.
-
-🟩
-
-The Minister of Technology Kanaka Herath has announced that the Sri Lanka Telecommunications Commission has granted permission to Starlink to provide satellite -based internet services in Sri Lanka.
-
-He added that the permit was granted only after the public was appropriate and further information will be released tomorrow (07).
-
-Starling offers the most fastest internet service to Earth by the Federation of Ceremony. The goal is to provide this service to distant areas where high -speed internet is available.
-
-◼️
-
-[Data](articles/113dd0ad.json)
-
-[Extended Data](ext_articles/113dd0ad.ext.json)
-
----
-
-### 10,000 from the government to clean the flood affected houses
-
-*2024-06-06 14:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197461) · `si`
-
-The government will allocate Rs. 10,000 per house to aid flood-hit families in cleaning their homes. Defense State Minister Pipaina Bandara Tennakoon confirmed this decision.
-
-🟩
-
-The government has decided to provide Rs. 10,000 each to clean housing to flood-affected families.
-
-Defense State Pipaina Bandara Tennakoon said he was.
-
-◼️
-
-[Data](articles/440d2bf9.json)
-
-[Extended Data](ext_articles/440d2bf9.ext.json)
-
----
-
-### Govt. to provide Rs. 10,000 per family to clean flood-affected homes
-
-*2024-06-06 14:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/99704/govt-to-provide-rs-10000-per-family-to-clean-flood-affected-homes) · `en`
-
-The government has decided to provide Rs. 10,000 each for the families affected by floods in order to clean up their houses, State Minister of Defence Premitha Bandara Tennakoon said.
-
-The government has primarily allocated an amount of around Rs. 150 million for this purpose, and the relevant funds will be provided to the district secretaries, the State Minister expressed.
-
-Furthermore, he requested the officials to responsibly distribute the relevant funds among the affected families, and to instruct the people to utilize this money only for the purpose of cleaning up their houses.
-
-Meanwhile, the State Minister stated that 284,505 individuals from 77,313 families across 23 districts in the island have been affected by the prevailing adverse weather conditions, and that 12,638 individuals of 3,147 families, who are displaced, have been placed in 204 relief centres.
-
-...
-
-[Data](articles/a3e1cc87.json)
-
-[Extended Data](ext_articles/a3e1cc87.ext.json)
 
 ---

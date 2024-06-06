@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-07 00:51:43**
+As of **2024-06-07 01:04:09**
 
 ## Newspaper Stats
 
-*Scraped **28,937** Articles*
+*Scraped **28,938** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,655
 dailyftlk | 1,714
 adalk | 2,474
 adaderanalk | 3,281
-tamilmirrorlk | 3,397
+tamilmirrorlk | 3,398
 virakesarilk | 4,440
 dailymirrorlk | 4,601
 adaderanasinhalalk | 4,641
@@ -26,9 +26,31 @@ adaderanasinhalalk | 4,641
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,934 (100.0%) of 28,937 articles have been extended.
+28,937 (100.0%) of 28,938 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-06-07 (Friday)
+
+### மின்கட்டணம் குறையும் முறை
+
+*2024-06-07 00:09:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்கட்டணம்-குறையும்-முறை/175-338571) · `ta`
+
+மின்கட்டணம் ஜூலை  மாதம் முதலாம் திகதியில் இருந்து குறைக்கப்படும் என  மின்சக்தி  மற்றும் வலுசக்தி அமைச்சர் காஞ்சன விஜேசேகர தெரிவித்துள்ளார்.
+
+0-30 வரையான அலகுகளை கொண்ட மின்பாவனைகளில் ஓர் அலகுக்கு அறவிடப்படும் 8 ரூபாவை 6 ரூபாவாக குறைப்பதற்கும், 30 -60 மின்பாவனையில் ஓர் அலகுக்காக அறவிடப்படும்  20 ரூபாவை  9 ரூபாவாக குறைப்பதற்கும் நடவடிக்கை எடுக்கப்படும் என்றார்.
+
+பாராளுமன்றத்தில்  வியாழக்கிழமை (06)  மின்சார சபை மறுசீரமைப்பு சட்டமூலத்தின் மீதான விவாதத்தை ஆரம்பித்து வைத்து உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்த  அவர் மேலும்  பேசுகையில்,
+
+நான்கு மாதங்களுக்கு ஒருமுறை மின்கட்டணம் திருத்தம் தொடர்பான கொள்கை காணப்படுகிறது. இதற்கு அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளது.  இதற்கமைய மின்கட்டணம் திருத்தம் தொடர்பான யோசனையை கடந்த வாரம் நிறைவு செய்தோம்.
+
+அதனடிப்படையில்,  60-90 வரையான அலகுகளில் ஓர் அலகுக்குஅறவிடப்படும் 30 ரூபாவை 18 ரூபாவாக குறைப்பதற்கும், 120 மின்பாவனையில் ஓர் அலகுக்கு  அறவிடப்படும் 50 ரூபாவை 30 ரூபாவாக குறைப்பதற்கும்  திருத்தங்கள் முன்வைக்கப்படும் என்றார்.
+
+◼️
+
+[Data](articles/a2714099.json)
+
+---
 
 ### 2024-06-06 (Thursday)
 
@@ -118,6 +140,8 @@ The age-old adage “Once Bitten, Twice Shy” is a well-known and frequently us
 
 [Data](articles/75c5044f.json)
 
+[Extended Data](ext_articles/75c5044f.ext.json)
+
 ---
 
 ### Health officials emphasize need for additional measures to combat spread of dengue
@@ -152,6 +176,8 @@ It is that paranoia and panic which has provoked the General Secretary of UNP to
 
 [Data](articles/a802d819.json)
 
+[Extended Data](ext_articles/a802d819.ext.json)
+
 ---
 
 ### SC orders Maithripala to pay Rs.1 M to petitioner
@@ -185,6 +211,8 @@ I have personally known Sajith Premadasa as an inspiring leader for more than a 
 ...
 
 [Data](articles/cc504215.json)
+
+[Extended Data](ext_articles/cc504215.ext.json)
 
 ---
 
@@ -2179,29 +2207,5 @@ The details of the public consultation will be published tomorrow, Herath said.
 [Data](articles/fa9a9b84.json)
 
 [Extended Data](ext_articles/fa9a9b84.ext.json)
-
----
-
-### Land issue stretches
-
-*2024-06-06 13:47:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காணி-பிரச்சினை-நீண்டு-செல்கிறது/175-338539) · `ta`
-
-Despite post-war efforts, land issues persist in Northern and Eastern provinces due to protected forest boundaries and government land releases causing disputes. Traditional agricultural lands lost in areas like Ampara, Moneragala, and Trincomalee remain unrecovered despite government promises. Environmental activists argue for protecting both wildlife and agriculture, highlighting the need for balanced land use policies.
-
-🟩
-
-Even after the war in the Northern and Eastern Provinces, the land use issue to maintain the livelihood of the people living in those areas is still an unresolved issue.
-
-This is due to the fact that most of the areas around the settlements are a protected forest. Similarly, the opposition leader said that the government's actions in the release of land for the people would also cause many problems.
-
-The Opposition Leader said this while questioning the North -East Land issue in Parliament on Thursday (06) under the Standing Orders (2).
-
-According to the 1985 Land Scale Map, the protected forest and the rest of the forests will be released. Accordingly, what is the amount of land that has been identified or released by Divisional Secretaries to release?
-
-...
-
-[Data](articles/5bca8086.json)
-
-[Extended Data](ext_articles/5bca8086.ext.json)
 
 ---

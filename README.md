@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-06 12:18:53**
+As of **2024-06-06 12:34:19**
 
 ## Newspaper Stats
 
-*Scraped **28,788** Articles*
+*Scraped **28,789** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 261
-dbsjeyarajcom | 273
+dbsjeyarajcom | 274
 bbccomsinhala | 280
 newsfirstlk | 363
 islandlk | 1,553
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,623
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,781 (100.0%) of 28,788 articles have been extended.
+28,788 (100.0%) of 28,789 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ He said the category between 60 and 90 units will be reduced from Rs. 30 to Rs. 
 ◼️
 
 [Data](articles/340d0938.json)
+
+[Extended Data](ext_articles/340d0938.ext.json)
 
 ---
 
@@ -212,6 +214,8 @@ Addressing the media, he said Sumathipala is not the UPFA General Secretary.
 
 [Data](articles/11ef2a29.json)
 
+[Extended Data](ext_articles/11ef2a29.ext.json)
+
 ---
 
 ### Anura accepts ITN invitation for public debate with Sajith
@@ -229,6 +233,8 @@ He requested the ITN to immediately inform the NPP if Premadasa was participatin
 ◼️
 
 [Data](articles/ba607062.json)
+
+[Extended Data](ext_articles/ba607062.ext.json)
 
 ---
 
@@ -252,17 +258,23 @@ The Supreme Court, which ruled that former President Sirisena had intentionally 
 
 ---
 
-### රෝයල් පාක් ඝාතකයාට මෛත්‍රී ජනපති සමාව දීම ආණ්ඩුක්‍රම ව්‍යවස්ථාවට පටහැනියි
+### Royal Park killer is contrary to the apology for the president
 
 *2024-06-06 10:54:04* · [`adalk`](https://www.ada.lk/breaking_news/රෝයල්-පාක්-ඝාතකයාට-මෛත්‍රී-ජනපති-සමාව-දීම-ආණ්ඩුක්‍රම-ව්‍යවස්ථාවට-පටහැනියි/11-410046) · `si`
 
-රාජගිරිය, රෝයල් පාක් මිනීමැරුම් සිද්ධිය සම්බන්ධයෙන් මරණීය දණ්ඩනය නියම වී සිටි ජූඩ් ශමන්ත ජයමහ නැමැති විත්තිකරුට ජනපති සමාව ලබාද‍මට හිටපු ජනපති ‍ මෛත්‍රිපාල සිරිසේන මහතා ගත් තීරණය ආණ්ඩුක්‍රම ව්‍යවස්වස්ථාවටපටහැනි බව ශ්‍රේෂ්ඨාධිකරණය තීන්දු කළේය.
+The Supreme Court overturned former President Maithripala Sirisena's pardon for a defendant, highlighting a contradiction between the court's ruling and the president's apology.
 
-ඒ අනුව හිටපු ජනාධිපතිවරයා විසින් අදාළ විත්තිකරු නිදහස් කරමින් දුන් ජනාධිපති සමාව බලරහිත බව ශ්‍රේෂ්ඨාධිකරණය තීන්දු කළේය.
+🟩
+
+The Supreme Court ruled that former President Maithripala Sirisena's decision to pardon the Defend of the Defend of the Defend of the Defend of the Defend of the Defend of the Defend of the Defend of the Defend of the Defend of Defenders in Rajagiriya.
+
+The Supreme Court ruled that the former President was releasing the defendant.
 
 ◼️
 
 [Data](articles/3fb6c16c.json)
+
+[Extended Data](ext_articles/3fb6c16c.ext.json)
 
 ---
 
@@ -407,6 +419,8 @@ The Supreme Court declared that former President Maithripala Sirisena violated t
 ...
 
 [Data](articles/11129e55.json)
+
+[Extended Data](ext_articles/11129e55.ext.json)
 
 ---
 
@@ -780,6 +794,8 @@ Spinner Frank Nsubuga, 43, bowled the most economical four overs in T20 World Cu
 
 [Data](articles/6fd6c5d4.json)
 
+[Extended Data](ext_articles/6fd6c5d4.ext.json)
+
 ---
 
 ### The student who had fun in floods to the human
@@ -907,6 +923,8 @@ Sri Lanka Department of Immigration and Emigration retains the sole authority to
 ...
 
 [Data](articles/d7dd3a34.json)
+
+[Extended Data](ext_articles/d7dd3a34.ext.json)
 
 ---
 
@@ -1794,6 +1812,22 @@ We congratulate Narendra Modi for the third time and the Bharatiya Janata Party 
 
 ---
 
+### Range Bandara’s  “Loud Thinking” about Election Postponement Damages   Ranil’s Election Campaign in the Short Term.
+
+*2024-06-06 01:11:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84130) · `en`
+
+Sri Lanka’s political stage was enlivened last week by the solo performance of  United National Party (UNP) general -secretary Palitha Range Bandara. Addressing a media briefing on 28 May, the policeman turned politician came out with a suggestion that the presidential election due this year and the Parliamentary election scheduled for next year should be postponed while the terms of office for both should be extended by two more years. The former Puttalam district and ex-state minister wanted a resolution passed by Parliament to that effect and ratified by the people at a referendum.
+
+The essence of what Palitha Range Bandara proposed was this -. Ranil Wickremesinghe took over the country’s leadership at a time of a great economic crisis. Considerable progress  has been achieved by the  Wickremesinghe Govt to remedy the situation. A degree of economic stability has been established but more time is needed to ensure greater economic stability.
+
+...
+
+[Data](articles/3cbabeda.json)
+
+[Extended Data](ext_articles/3cbabeda.ext.json)
+
+---
+
 ### The results will be released after the investigation.
 
 *2024-06-06 01:08:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விசாரணைகளுக்குப்-பின்-பெறுபேறு-வெளியிடப்படும்/175-338515) · `ta`
@@ -1974,6 +2008,26 @@ At the same time, we continue to emphasize that the resolution can be made so th
 
 ---
 
+### UNP Re-structures Party  Leadership to Face Elections. Harin Fernando appointed  National Elections Organizer ; Ravi Karunanayake and Ronald Perera  to Serve as Secretary and Deputy   Secretary of Elections
+
+*2024-06-06 00:36:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84151) · `en`
+
+The United National Party (UNP) made key appointments for its upcoming election campaign at a meeting held at Sirikotha on Sunday June 2nd.
+
+At the meeting chaired by Party Leader Ranil Wickremesinghe, several key positions were filled to strengthen the party’s election strategy.
+
+Harin Fernando was appointed as the National Election organiser while Ravi Karunanayake was named the National Secretary, and Ronald Perera will serve as the Deputy General Secretary of elections.
+
+In other notable appointments, Firdouse Farook was made the party’s Treasurer Misbah Sattar was appointed Deputy Chairman, and Krishan Theodore was named Deputy General Secretary.
+
+The working committee also confirmed that several senior members will continue in their current roles. Deputy Leader Ruwan Wijayawardena, General Secretary Palitha Range Bandara, Chairman Wajira Abeywardena, National Organiser Sagala Ratnayaka, and Deputy Leader Akila Viraj Kariyawasam will maintain their existing positions within the party.
+
+...
+
+[Data](articles/90cd9bce.json)
+
+---
+
 ### Action to remove 1,5025 homes
 
 *2024-06-06 00:34:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/1-5025-வீடுகளை-அகற்ற-நடவடிக்கை/175-338509) · `ta`
@@ -2123,47 +2177,5 @@ A politician’s ‘life’ is often hectic. It has to be; because he has to ser
 [Data](articles/82be0299.json)
 
 [Extended Data](ext_articles/82be0299.ext.json)
-
----
-
-### Sports for peace and development
-
-*2024-06-06 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Sports-for-peace-and-development/172-284192) · `en`
-
-Devastating cricket fans across the country, South Africa beat Sri Lanka by six wickets at the T20 World Cup, on Monday (3).
-
-It may be a cliche in the scorebook, but a famous saying lasts a lifetime. It goes like this: “For when the One Great Scorer comes to mark against your name, He writes, not that you won or lost, but how you played the Game.” Though often quoted, Rudyard Kipling’s poem ‘If’ also applies to what we learn and what we should become through sports. Kipling’s poem goes like this:
-
-In Sri Lanka, cricket is not only popular but an obsession among the people especially after the versatile Arjuna Ranatunga led us to victory in the world cup of 1996.
-
-...
-
-[Data](articles/8ad800e2.json)
-
-[Extended Data](ext_articles/8ad800e2.ext.json)
-
----
-
-### 2024-06-05 (Wednesday)
-
-### A/L classes to commence tomorrow before release of O/L results
-
-*2024-06-05 23:50:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/AL-classes-to-commence-tomorrow-before-release-of-OL-results/108-284197) · `en`
-
-Colombo, June 5 (Daily Mirror) - Following Cabinet approval, the General Certificate of Education (GCE) Advanced Level (A/L) classes will commence tomorrow, prior to the release of the GCE Ordinary Level (O/L) examination results.
-
-Cabinet approval was granted on May 14 to commence A/L classes soon after the completion of the O/L examinations.
-
-Accordingly, the pilot programme will be launched at Ananda College, Colombo tomorrow at 7.45 a.m.
-
-The event will be held with the patronage of Education Minister Susil Premajayantha and Ministry Secretary Thileka Jayasundara.
-
-The period before commencing A/L classes often leads to a decrease in students' inclination to pursue GCE (A/L) education and contributes to various social issues.
-
-...
-
-[Data](articles/d17713dc.json)
-
-[Extended Data](ext_articles/d17713dc.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-06 17:36:10**
+As of **2024-06-06 17:56:09**
 
 ## Newspaper Stats
 
-*Scraped **28,870** Articles*
+*Scraped **28,872** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,65 +16,115 @@ islandlk | 1,553
 economynextcom | 1,642
 dailyftlk | 1,711
 adalk | 2,467
-adaderanalk | 3,276
+adaderanalk | 3,277
 tamilmirrorlk | 3,393
 virakesarilk | 4,427
 dailymirrorlk | 4,587
-adaderanasinhalalk | 4,634
+adaderanasinhalalk | 4,635
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,862 (100.0%) of 28,870 articles have been extended.
+28,870 (100.0%) of 28,872 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-06 (Thursday)
 
-### வீடியோ கேம் வினையானது: சிறுவன் மீது கத்திக்குத்து
+### Video game verb: knife on the boy
 
 *2024-06-06 17:22:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வீடியோ-கேம்-வினையானது-சிறுவன்-மீது-கத்திக்குத்து/175-338549) · `ta`
 
-அலைபேசியில் வீடியோ கேம் விளையாட அனுமதிக்காத 8 வயது சிறுவனை கத்தியால் குத்திய 13 வயது சிறுவன் விஷம் அருந்தியுள்ளான்.
+In a tragic incident, a 13-year-old boy stabbed an 8-year-old over a video game dispute, then poisoned himself. The younger boy was hospitalized, while the older one was treated for poisoning after fleeing the scene.
 
-படுகாயமடைந்த சிறுவன் குட்டிகல பிரதேச வைத்தியசாலையில் அனுமதிக்கப்பட்டு பின்னர் ஹம்பாந்தோட்டை பொது வைத்தியசாலைக்கு மாற்றப்பட்டதுடன் விஷம் அருந்திய சிறுவன்  எம்பிலிபிட்டிய ஆதார வைத்தியசாலையில் அனுமதிக்கப்பட்டது.
+🟩
 
-புதன்கிழமை மாலை (05), எட்டு வயது சிறுவன் வீடியோ கேம் விளையாடிக் கொண்டிருந்த போது 13 வயது சிறுவன் பக்கத்து வீட்டுக்குச் சென்றான். முன்னவர் வித்தியாசமான விளையாட்டை விளையாட விரும்பினார், ஆனால் பின்னவர் அதை அனுமதிக்கவில்லை. இதன் விளைவாக எட்டு வயது சிறுவன் கத்தியால் குத்தப்பட்டான்.
+A 13 -year -old boy who stabbed an 8 -year -old boy who was not allowed to play video games on the phone has been poisoned.
 
-சம்பவத்திற்குப் பிறகு, அவர் அப்பகுதியில் இருந்து தப்பிச் சென்று ரகசிய இடத்தில் விஷம் குடித்தார். இதனை அவதானித்த நபர் ஒருவர் சிறுவனை குட்டிகல பிரதேச வைத்தியசாலையில் அனுமதித்துள்ளதுடன், பின்னர் அவர் எம்பிலிபிட்டிய ஆதார வைத்தியசாலைக்கு மாற்றப்பட்டுள்ளார்.
+The injured boy was admitted to the Kuttikala Divisional Hospital and later transferred to the Hambantota General Hospital and the boy who was poisoned was admitted to the Embilipitiya Resource Hospital.
+
+On Wednesday evening (05), an eight -year -old boy went to the neighboring house while playing video games. Previously wanted to play a different game, but the latter did not allow it. As a result, an eight -year -old boy was stabbed with a knife.
+
+After the incident, he fled the area and drank poison in a secret place. A person who observed this has been admitted to the Kuttigala Divisional Hospital and later transferred to the Embilipitiya Resource Hospital.
 
 ◼️
 
 [Data](articles/1fe463f7.json)
 
+[Extended Data](ext_articles/1fe463f7.ext.json)
+
 ---
 
-### බලංගොඩ කස්සප හිමියන් අත්අඩංගුවට
+### විදුලිබල පනත් කෙටුම්පත දෙවන වර කියවීම ට ඡන්දයක්
+
+*2024-06-06 17:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197468) · `si`
+
+ශ්‍රී ලංකා විදුලිබල පනත් කෙටුම්පත දෙවන වර කියවීම සඳහා අද (06) පාර්ලිමේන්තුවේදී ඡන්ද විමසීමක් සිදුකෙරුණි.
+
+එහිදී පනත් කෙටුම්පතට පක්ෂව ඡන්ද 103ක් සහ විරුද්ධව ඡන්ද 59ක් හිමිවිය.
+
+ඒ අනුව කථානායකවරයා පාර්ලිමේන්තුවට දැනුම්දුන්නේ ශ්‍රී ලංකා විදුලිබල පනත් කෙටුම්පත දෙවන වර කියවීම වැඩි ඡන්ද 44කින් සම්මත වූ බවය.
+
+◼️
+
+[Data](articles/2a312ce0.json)
+
+---
+
+### Second reading of ‘Sri Lanka Electricity Bill’ passed in Parliament
+
+*2024-06-06 17:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/99712/second-reading-of-sri-lanka-electricity-bill-passed-in-parliament) · `en`
+
+The second reading of the draft ‘Sri Lanka Electricity Bill’ was passed in the Parliament this evening (06) with a majority of 44 votes.
+
+The number of votes received in favor of the bill was 103, while 59 MPs had voted against the bill.
+
+Opposition parliamentarians including those from the ‘Samagi Jana Balawegaya’ (SJB), National People’s Power (NPP) and the independent MPs voted against the bill.
+
+◼️
+
+[Data](articles/4577fb0d.json)
+
+---
+
+### Balangoda Kassapa Olders arrested
 
 *2024-06-06 17:10:00* · [`adalk`](https://www.ada.lk/breaking_news/බලංගොඩ-කස්සප-හිමියන්-අත්අඩංගුවට/11-410056) · `si`
 
-යෝජිත විදුලි පනතට එරෙහිව විරෝධතා පුවරුවක් රැගෙන පාර්ලිමේන්තුව අසල උපවාසයක නිරතවෙමින් සිටි පූජ්‍ය බලංගොඩ කස්සප හිමියන් අද (06) දහවල් තලංගම පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+Talangama Kassapa Thero, leading a hunger strike against protestors, was arrested by the Talangama Police.
 
-උපවාසය ආරම්භ කර සුළු වෙ පසුව තලංගම පොලිස් නිලධාරීන් පැමිණි උන් වහන්සේ මෙලෙස අත්අඩංගුවට ගෙන තිබේ.
+🟩
+
+The Talangama Kassapa Thero, who was engaged in a hunger strike against the protestor against the protestor against the protestor, was arrested by the Talangama Police today (06).
+
+He was arrested by the Talangama Police and the Talangama Police received the fast.
 
 ◼️
 
 [Data](articles/c6ad7f18.json)
 
+[Extended Data](ext_articles/c6ad7f18.ext.json)
+
 ---
 
-### அரசியல் அலுவலகம் திறப்பு…
+### Political Office Opening…
 
 *2024-06-06 17:04:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசியல்-அலுவலகம்-திறப்பு/175-338548) · `ta`
 
-ஜனாதிபதி ரணில் விக்ரமசிங்க கொழும்பில் தனது அரசியல் அலுவலகத்தை வியாழக்கிழமை (06) சுப நேரத்தில் திறந்து வைத்தார்.
+President Ranil Wickremesinghe inaugurated his political office in Colombo on April 6th. Located at Colombo Ser Ernest de Silva Mawatha, it will serve as the hub for his future political endeavors.
 
-புதிய அலுவலகம், கொழும்பு சேர் எர்னஸ்ட் டி சில்வா மாவத்தையில் அமைக்கப்பட்டுள்ளதுடன் எதிர்கால அரசியல் நடவடிக்கைகள் இந்த அலுவலகத்தின் ஊடாக மேற்கொள்ளப்படும்.
+🟩
+
+President Ranil Wickremesinghe opened his political office in Colombo on Thursday (06).
+
+The new office, Colombo Ser Ernest de Silva Mawatha, will be set up and future political activities will be carried out through this office.
 
 ◼️
 
 [Data](articles/b0e130f0.json)
+
+[Extended Data](ext_articles/b0e130f0.ext.json)
 
 ---
 
@@ -94,23 +144,31 @@ The Minister said instructions have been given to prepare a programme at Ministr
 
 [Data](articles/b9086f72.json)
 
+[Extended Data](ext_articles/b9086f72.ext.json)
+
 ---
 
-### 14 හැවිරිදි දරුවෙක් 09 හැවිරිදි  දරුවෙකුට පිහින් ඇන බරපතළ තුවාල
+### A 14-year-old child was seriously injured in a 9-year-old child
 
 *2024-06-06 16:59:51* · [`adalk`](https://www.ada.lk/breaking_news/14-හැවිරිදි-දරුවෙක්-09-හැවිරිදි--දරුවෙකුට-පිහින්-ඇන-බරපතළ-තුවාල/11-410055) · `si`
 
-14 හැවිරිදි දරුවෙකු සිදුකළ පිහි ඇනුමකින් බරපතළ තුවාල ලැබූ 09 හැවිරිදි දරුවෙක් හම්බන්තොට මහ රෝහලට ඇතුළත් කර ඇති බව පොලීසිය කියයි.
+A 14-year-old was hospitalized after poisoning a 9-year-old friend with knives while alone in the latter's home. The incident, involving two neighbors, led to the older child being blamed for playing violent video games.
 
-සිද්ධියෙන් පසු 14 හැවිරිදි දරුවා වස පානය කිරීම හේතුවෙන් ඔහුව ද ඇඹිලිපිටිය රෝහලට ඇතුළත් කර ඇති අතර මෙම සිද්ධිය ඊයේ (05) සවස හම්බන්තොට අගුණකොළපැලැස්ස වැටිය ප්‍රදේශයේ නිවසකදී සිදුවී තිබුණි. 09 හැවිරිදි දරුවාගේ නිවසේදී නිවැසියන් කිසිවෙක් නොමැති අවස්ථාවකදී මෙම පිහි ඇනුම සිදුකර ඇත. එම දරුවන් අසල්වැසි නිවෙස් දෙකක මිතුරන් වන අතර 09 හැවිරිදි දරුවාගේ ශරීරයේ ස්ථාන 6කට හෝ 7කට පිහි ඇනුම් සිදුකර ඇති බවට වාර්තා වූ බවය.
+🟩
 
-පිහි ඇනුම සිදුකළ බවට චෝදනා එල්ලවී ඇති 14 හැවිරිදි දරුවා දරුණු ලෙස වීඩියෝ ක්‍රීඩා සඳහා ඇබ්බැහිවූ දරුවෙකු බවත් වාර්තා වෙයි.
+A nine-year-old boy was admitted to the Hambantota General Hospital with a 14-year-old child.
 
-09 හැවිරිදි දරුවාගේ නිවසේ සිදුවූ මුදල් සොරකමක් සම්බන්ධයෙන් 14 හැවිරිදි දරුවාට අවවාද කිරීමේ සිද්ධියකින් පසු මෙම සිදුවීම ඇතිවී තිබෙන බවද තවදුරටත් වාර්තා විය.
+The 14-year-old child was rushed to the Embilipitiya hospital due to the poison.. 09-year-old child's house had committed the knives when there was no residents. These children are friends in neighboring houses and have reported that the 9-year-old child had been reported to 6 or seven places.
+
+The 14-year-old boy has been accused of violent video games.
+
+It was also reported that the incident occurred after the 14-year-old child warning of a role in the house of the 9-year-old child.
 
 ◼️
 
 [Data](articles/0b36c7bf.json)
+
+[Extended Data](ext_articles/0b36c7bf.ext.json)
 
 ---
 
@@ -136,17 +194,27 @@ On Wednesday evening (05), the 13-year-old boy visited the neighboring house whe
 
 ---
 
-### ’’කුඩු ජයනී’’ ඇතුලු ප්‍රධාන ගෝලයෙකු අයිස් මත්ද්‍රව්‍ය  සමග අත්අඩංගුවට
+### One of the disciple, including 'Kudu Jayani', arrested with ice drugs
 
 *2024-06-06 16:49:18* · [`adalk`](https://www.ada.lk/breaking_news/’’කුඩු-ජයනී’’-ඇතුලු-ප්‍රධාන-ගෝලයෙකු-අයිස්-මත්ද්‍රව්‍ය--සමග-අත්අඩංගුවට/11-410054) · `si`
 
-මොරටුව ,කොරලවැල්ල ප්‍රාදේශයේ මහා පරිමාණයේ මත්ද්‍රව්‍ය ජාවාරම් කාරියක වන " කොරලවැල්ල කුඩු ජයනී" සහ ඇයගේ ප්‍රධාන ගෝලයෙකු අලෙවියට සන්තකයේ තබාගෙන සිටි අයිස් මත්ද්‍රව්‍ය මිලිග්‍රෑම් 54200 ක් සමග අද (06) දින අලුයම වලාන මධ්‍යම දූෂණ මර්දන බලකාය මගින් අත්අඩංගුවට ගෙන ඇතැයි පොලීසිය පැවසීය.
+In a major crackdown on drug trafficking in Colombo and Moratuwa, authorities arrested several individuals, including 'Kudu Jayani,' who were found in possession of 3,520 milligrams of ice drugs. The operation, led by Chief Inspector Indika Weerasinghe and others from the Walana Central Corruption Brigade, resulted in the arrest of a network involved in distributing drugs across various areas.
 
-යුක්තිය මෙහෙයුමට සමගාමීව වලාන මධ්‍යම දූෂණ මර්දන බලකාය ස්ථානාධිපති ප්‍රධාන පොලිස්‌ පරීක්ෂක ඉන්දික වීරසිංහ, උප පොලිස්‌ පරීක්ෂක ජයවීර යන මහතුන් ඇතුල නිලධාරී කණ්ඩායමක් විසින් අද අලුයම සිදුකරන ලද වැටලීමේදී ප්‍රධාන ජාවාරම් කාරිය වන ".කොරලවල්ල  ජයනි" යන  ඇයගේ   සන්තකයේ තිබී අයිස් මිලිග්‍ම්   50620 ක්ද  ඇයගේ ප්‍රධාන  ගෝලයෙකු සමග  අයිස්   මත්ද්‍රව්‍ය මිලිග්‍රෑම් 3520 ක්ද සමග පොලිස් භාරයට ගනු ලැබ ඇත .
+🟩
 
-...
+A large number of drug trafficking in Colombo, Moratuwa, is arrested by the Walana Central Corruption Corruption Corruption Corruption Corruption Corruption Corruption Corruption Brigade today (06), Moratuwa.
+
+Walana Central Corpsant OIC Chief Inspector Indika Weerasinghe, Chief Inspector Indika Weerasinghe and Sub Inspector Jayani, a team of ice, is the main trafficking in her possession.With the 3520 milligrams of ice cadres, have been taken into custody.
+
+According to the investigation, the racketing and three brothers have been arrested for drug dealer and is in the long-range drug trafficker, Moratuwa, Modara, Koralawella, andThe police said that it is revealed to be distributed to the areas.
+
+This raid was directed by Sub Inspector General Inspector Indika Weerasinghe, Chief Inspector Indika Weerasinghe, Police Sergeant at the orders and instructions of the Director of Walana Central Corruption.104644 Tillakaratne, 105086 Kumaran, Police Sergeant Driver 6462 Bandara have been done.
+
+◼️
 
 [Data](articles/306bf93e.json)
+
+[Extended Data](ext_articles/306bf93e.ext.json)
 
 ---
 
@@ -406,19 +474,29 @@ These petitions were demanding a decision that the local government banding was 
 
 ---
 
-### පොලිස්  සැරයන්ගේ සංවිධානාත්මක කල්ලිය අත්අඩංගුවට
+### Police Strae's organizational gang arrested
 
 *2024-06-06 15:48:24* · [`adalk`](https://www.ada.lk/breaking_news/පොලිස්--සැරයන්ගේ-සංවිධානාත්මක-කල්ලිය-අත්අඩංගුවට/11-410053) · `si`
 
-පොලිස් භෝජනාගාරවලට ලැබෙන සහල් සහ සිල්ලර භාණ්ඩ අඩු මුදලට ලබාදිය හැකි බව පවසා කොළඹ ප්‍රදේශයේ ව්‍යාපාරිකයන් රැසක් මුලා කරමින් සංවිධානාත්මක කල්ලියක් මෙහෙය වූ උප පොලිස් පරීක්ෂකවරයකු ලෙස පෙනී සිටි පොලිස් සැරයන් වරයෙකු ඇතුළු තිදෙනකු අත් අඩංගුවට ගත් බව දෙමටගොඩ පොලිසිය කියයි.
+Two police sergeants, including one set to retire soon, were arrested for allegedly stealing rice and retail goods intended for distribution among the needy. The sergeants reportedly conspired with a businessman to sell these items instead. The scheme unraveled when the businessman complained about being robbed, leading to the arrest of the suspects.
 
-අත්අඩංගුවට ගත් පොලිස් සැරයන්වරයා කොටුව පොලිසියට අනුයුක්ත මුදල් අමාත්‍යාංශ මුරපොළේ රාජකාරී කරන නිලධාරියෙකු බවත් තවත් වසර දෙකකින් විශ්‍රාම යාමට නියමිත අයෙක් බව පොලිසිය සඳහන් කරයි.
+🟩
 
-රාජගිරියේ ප්‍රදේශයේ ව්‍යාපාරිකයකුට දුරකථන ඇමතුමක් ලබාදී  තමන් දෙමට ගොඩ පොලිසියේ උප පොලිස් පරීක්ෂක හේරත් නිලධාරියා බව පවසමින් ව්‍යාජ  හිතවත්කමක් ඇතිකරගෙන දෙමටගොඩ පොලිසියේ භෝජනාගාරයට ලැබෙන බිත්තර තොගයක් ඉතා අඩු මුදලට ලබා දිය හැකි බව පවසා එම ව්‍යාපාරිකයාව  කැමති කරවාගෙන  බිත්තර  තොගය ලබා දීමට දෙමට ගොඩට ගෙන්වාගෙන තිබූ බව පොලිසිය සඳහන් කරයි.
+Two police sergeants, who were arrested as a subsequent police officer who was launched a number of businessmen in Colombo said that the rice and retail goods received by police bodies could be given to lower.
+
+The arrested police sergeant is an official who is officially assigned to the Fort Police and a person who is due to retire in two years.
+
+Police said that the two eggs were brought to the business of the Dematagala police band in Rajagiriya, claiming that he would be able to provide a large number of eggs in Rajagiriya..
+
+The businessman prepares a lorry to carry a lorry to carry the stock of eggs and stops the lorry to bring the eggs in Dematagoda to the lorry.The money had been fled and had fled.
+
+A few days after the businessman lodged a complaint with the businessman to arrest the office, he returned to Dematagoda to provide the telephone number to Dematagoda Police.Police said the suspects were informed as
 
 ...
 
 [Data](articles/71329a4c.json)
+
+[Extended Data](ext_articles/71329a4c.ext.json)
 
 ---
 
@@ -1914,19 +1992,27 @@ The Supreme Court declared that former President Maithripala Sirisena violated t
 
 ---
 
-### ගම්පහ ජලයෙන් යටවීම වැලැක්වීමට ඒකාබද්ධ මෙහෙයුම් කමිටුවක්
+### Joint Steering Committee to Prevent Gampaha Water Supply
 
 *2024-06-06 10:30:31* · [`adalk`](https://www.ada.lk/breaking_news/ගම්පහ-ජලයෙන්-යටවීම-වැලැක්වීමට-ඒකාබද්ධ-මෙහෙයුම්-කමිටුවක්/11-410045) · `si`
 
-නාගරික සංවර්ධන හා නිවාස අමාත්‍ය ප්‍රසන්න රණතුංග මහතාගේ උපදෙස් පරිදි නාගරික සංවර්ධන හා නිවාස අමාත්‍යාංශ ලේකම් ඩබ්ලිව්.එස්. සත්‍යානන්ද හා ගම්පහ දිස්ත්‍රික් ලේකම් ලලින්ද ගමගේ යන මහත්වරුන්ගේ ප්‍රධානත්වයෙන් පැවැති සාකච්ඡාවේදී මෙම තීරණයට එලඹුණි.
+A Joint Steering Committee was formed to address water supply issues in Gampaha, chaired by Urban Development and Housing Minister Prasanna Ranatunga. The committee includes various departments and aims to implement a triumphant program to prevent water shortages. Short-term and long-term measures have been initiated, including cleaning identified locations and reconstructing canals. The main challenge is flooding due to heavy rains, affecting thousands of families. Plans to improve infrastructure and manage rainwater are underway to prevent future disasters.
 
-ඉදිරියේදී ගම්පහ දිස්ත්‍රික්කය හා ගම්පහ නගරය ජලයෙන් යටවීම වැලැක්වීමට ගත යුතු ක්‍රියාමාර්ග මොනවද යන්න පිළිබඳව සාකච්ඡාවක් ඊයේ (05) දින කැඳවා තිබුණි. එය පැවැත්වුණේ ගම්පහ දිස්ත්‍රික් ලේකම් කාර්යාල ශ්‍රවණාගාරයේදීය.
+🟩
 
-ගම්පහ දිස්ත්‍රික්කය ජලයෙන් යටවීම වැලැක්වීම සඳහා ශ්‍රී ලංකා ඉඩම් සංවර්ධනය කිරීමේ සංස්ථාවේ නියෝජ්‍ය සාමාන්‍යාධිකාරී (පර්යේෂණ සහ සැලසුම්) ඉංජිනේරු කේ.එච්. කීර්තිරත්න මහතා විසින් තෙවැදෑරුම් වැඩපිළිවෙලක් මෙහිදී ඉදිරිපත් කළේය.
+Urban Development and Housing Minister Prasanna Ranatunga. Mr. Vitananda and Gampaha District Secretary Lalinda Gamage was chaired by the decision.
+
+A discussion had been convened on the occasion as a discussion to prevent the Gampaha District and Gampaha to prevent water from water. It was held at the Gampaha District Secretariat auditorium.
+
+Deputy General Manager of Sri Lanka Land Development Corporation (Research & Planning Corporation) to prevent Gampaha District from Water Supply (Research & Planning) Engineering K.H. Mr. Keerthirathne offered a triumphant program.
+
+The meeting was decided to assign the joint operations committee that was responsible for implementing this triumph program.. The committee consists of the Ministry of Urban Development and Housing, Urban Development Authority, Irrigation Department, Ministry of Highways, Department of Highways, Department of Agrarian Services and Local Authorities. This program is being implemented as short-term and medieval long term.
 
 ...
 
 [Data](articles/ae4f41b4.json)
+
+[Extended Data](ext_articles/ae4f41b4.ext.json)
 
 ---
 
@@ -2129,47 +2215,5 @@ According to the Presidential Media Division (PMD) this office will conduct poli
 [Data](articles/a6455818.json)
 
 [Extended Data](ext_articles/a6455818.ext.json)
-
----
-
-### As congratulations pour in, Modi invites Sri Lankan President to swearing-in
-
-*2024-06-06 10:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/99695/as-congratulations-pour-in-modi-invites-sri-lankan-president-to-swearing-in) · `en`
-
-U.S. President Joseph Biden and his Russian counterpart Vladimir Putin joined leaders of more than 50 countries in congratulating Prime Minister Narendra Modi and the National Democratic Alliance (NDA) that won the highest number of seats in the Lok Sabha election.
-
-During a telephone call, Mr. Modi also invited Sri Lankan President Ranil Wickremesinghe to his swearing-in due to be held this weekend, which he has accepted, the Sri Lankan Presidential Media Division said in a statement.
-
-All eyes are now on which other leaders the government would invite to the ceremony as Mr. Modi did in 2014 and 2019, when he invited SAARC leaders and BIMSTEC leaders, respectively. As a member of both groupings, Sri Lanka’s leaders were invited on both occasions.
-
-...
-
-[Data](articles/4deb7e55.json)
-
-[Extended Data](ext_articles/4deb7e55.ext.json)
-
----
-
-### Schoolgirl drowned in flooding
-
-*2024-06-06 09:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197449) · `si`
-
-In Baddegama, a schoolgirl and a boy drowned during floods near the Gin River. Rescue teams including police, lifeguards, and naval personnel recovered the bodies and took them to Baddegama hospital. The victims were identified as a 17-year-old from West, West, Baddegama, who were enjoying on a tube when tragedy struck.
-
-🟩
-
-A boy drowned in the Baddegama Police Division in Baddemulla area.
-
-Police said the police officers, lifeguards and naval troops acted in a bodied child to the Baddegama hospital with a child.
-
-The victim is 17 year old resident of West, West, Baddegama.
-
-The accident had occurred after the use of tuber was having fun with the tuber on the flooding of the Gin River.
-
-◼️
-
-[Data](articles/8e877eaa.json)
-
-[Extended Data](ext_articles/8e877eaa.ext.json)
 
 ---

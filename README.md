@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-06 22:18:47**
+As of **2024-06-06 22:34:25**
 
 ## Newspaper Stats
 
-*Scraped **28,910** Articles*
+*Scraped **28,912** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,38 @@ adalk | 2,474
 adaderanalk | 3,280
 tamilmirrorlk | 3,396
 virakesarilk | 4,437
-dailymirrorlk | 4,596
+dailymirrorlk | 4,598
 adaderanasinhalalk | 4,640
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,910 (100.0%) of 28,910 articles have been extended.
+28,910 (100.0%) of 28,912 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-06 (Thursday)
+
+### Anuradhapura sacred area declared a rabies-free zone
+
+*2024-06-06 22:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Anuradhapura-sacred-area-declared-a-rabies-free-zone/108-284293) · `en`
+
+Colombo, June 6 (Daily Mirror) - The Anuradhapura Municipal Commissioner declared the Anuradhapura sacred area as a rabies-free zone, assuring devotees that there is no need for concern, the Association of Veterinarians for Humane Management of Animal Population said.
+
+Municipal Commissioner Ruwan Wijesinghe said there is no danger of rabies within the Anuradhapura Municipal Council area due to the highly organized anti-rabies programmes over the last four years.
+
+He said that rabies vaccinations had been administered to stray dogs during World Rabies Day every year for four consecutive years, and more than 90% of the stray dogs have been operated on.
+
+As bringing animals from other areas into the city is still a problem, he requests the people to take care of the animals responsibly and not leave them stranded and helpless.
+
+It is further requested that the people in the areas bring the animals to the clinics organized by the Municipal Council and get rabies vaccinations administered.
+
+...
+
+[Data](articles/4b702dcf.json)
+
+---
 
 ### Catholic Church has nothing to do with extension of AG’s term
 
@@ -165,6 +185,18 @@ Accordingly, 36 schools in the Homagama, Sri Jayawardenapura, Kalutara, Horana a
 [Data](articles/8157e22e.json)
 
 [Extended Data](ext_articles/8157e22e.ext.json)
+
+---
+
+### New electric maternity bed for De Soyza Hospital
+
+*2024-06-06 20:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/New-electric-maternity-bed-for-De-Soyza-Hospital/110-284273) · `en`
+
+A fully automatic electric maternity bed and other equipment were donated to the De Soyza Maternity Hospital in Colombo by the California Hospital Services Support and Hospital Services Council. The event was attended by Director of the Hospital Services Council, Venerable Rajawelle Subhuthi Thera, along with Director of De Soyza Hospital, Dr. Pradeep Wijesinghe. Pix by Pradeep Pathirana
+
+◼️
+
+[Data](articles/72e73a3f.json)
 
 ---
 
@@ -2181,47 +2213,5 @@ Here are the first pages of Weerakesari magazines published on June 6 and 7, 196
 [Data](articles/e5c4b6ae.json)
 
 [Extended Data](ext_articles/e5c4b6ae.ext.json)
-
----
-
-### Govt. to allocate foreign jobs to retired military, war hero families
-
-*2024-06-06 12:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Govt-to-allocate-foreign-jobs-to-retired-military-war-hero-families/108-284249) · `en`
-
-Colombo, June 6 (Daily Mirror) - The Ministry of Labour and Foreign Employment has expressed willingness to allocate a portion of the foreign job opportunities to retired military personnel and war hero families, the Ministry of Defence said.
-
-This was revealed during a  meeting held to educate tri forces personnel on the programme of providing foreign employment to retired tri forces personnel and members of war hero families under the patronage of State Minister of Defence Premitha Bandara Tennakoon. Senior tri forces officers and representatives of the Ministry of Labour and Foreign Employment attended the discussion.
-
-The decision was taken following discussions between the State Minister Tennakoon and Minister of Labour and Foreign Employment Manusha Nanayakkara.
-
-The Ministry said that loan facilities at concessional rates will be facilitated through state banks for expatriates, and 67 personnel from the Army have been identified to be sent for these jobs
-
-...
-
-[Data](articles/b0904f06.json)
-
-[Extended Data](ext_articles/b0904f06.ext.json)
-
----
-
-### Electricity tariffs to be reduced by July; proposed rates announced
-
-*2024-06-06 12:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/99699/electricity-tariffs-to-be-reduced-by-july-proposed-rates-announced) · `en`
-
-Minister of Power and Energy Kanchana Wijesekara revealed that it has been proposed that the electricity tariffs be reduced by 01 July 2024.
-
-Speaking during today’s Parliamentary session, Wijesekara stated that accordingly, it is expected that more relief will be given to the consumers of the domestic category and that the relevant proposal will be approved by the Public Utilities Commission of Sri Lanka (PUCSL).
-
-The Minister also explained that it has been proposed to reduce the rate charged per one unit of electricity for the first 30 units in the domestic category by Rs.02. Accordingly, the new rate per one electricity unit in that category will be Rs. 06.
-
-The tariff charged per unit for the units consumed between 31-60 is expected to be reduced by Rs. 11, bringing down the rate charged per unit to Rs. 09.
-
-Meanwhile, for 60-90 units the charge is to be reduced to Rs. 18. The current rate charged per unit in this category is Rs. 30, according to the minister.
-
-...
-
-[Data](articles/4fd6052a.json)
-
-[Extended Data](ext_articles/4fd6052a.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-06 19:19:07**
+As of **2024-06-06 19:35:14**
 
 ## Newspaper Stats
 
-*Scraped **28,888** Articles*
+*Scraped **28,894** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,37 +16,143 @@ islandlk | 1,554
 economynextcom | 1,642
 dailyftlk | 1,711
 adalk | 2,470
-adaderanalk | 3,278
-tamilmirrorlk | 3,394
-virakesarilk | 4,433
-dailymirrorlk | 4,590
+adaderanalk | 3,279
+tamilmirrorlk | 3,395
+virakesarilk | 4,436
+dailymirrorlk | 4,591
 adaderanasinhalalk | 4,636
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,886 (100.0%) of 28,888 articles have been extended.
+28,888 (100.0%) of 28,894 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-06 (Thursday)
 
-### විදුලිබල පනත් කෙටුම්පත පාර්ලිමේන්තුවේදී වැඩි ඡන්දයෙන් සම්මතයි
+### நள்ளிரவு முதல் ரயில்வே வேலைநிறுத்தம்
+
+*2024-06-06 19:09:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நள்ளிரவு-முதல்-ரயில்வே-வேலைநிறுத்தம்/175-338555) · `ta`
+
+புகையிரத சாரதிகளின் பதவி உயர்வு தாமதம் உள்ளிட்ட பல்வேறு பிரச்சினைகளை முன்வைத்து இன்று (6) நள்ளிரவு முதல் ரயில்வே வேலைநிறுத்தப் போராட்டமொன்றை ஆரம்பிக்கவுள்ளது.
+
+புகையிரத சாரதிகளின் பிரச்சினைகளுக்கு ரயில்வே பொது முகாமையாளர் உள்ளிட்ட அதிகாரிகள் தீர்வுகாணத் தவறியதன் காரணமாகவே அதிகாரிகள் இந்த தொழில் நடவடிக்கையில் இறங்க நேரிட்டதாக தொழிற்சங்கம் மேலும் தெரிவித்துள்ளது
+
+◼️
+
+[Data](articles/d9c50f79.json)
+
+---
+
+### Sri Lanka closes in on debt restructuring with bilateral lenders
+
+*2024-06-06 19:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/99715/sri-lanka-closes-in-on-debt-restructuring-with-bilateral-lenders) · `en`
+
+Sri Lanka and a group of creditors are in advanced talks over a deal aimed at restructuring the nation’s debt with bilateral lenders, according to people familiar with the matter.
+
+The government and members of the official creditor committee, which includes India, Hungary and the Paris Club, are exchanging draft versions of the accord, or memorandum of understanding, the people said, asking not to be identified as the talks are private.
+
+The documents are needed to finalize an agreement reached in November between the South Asian nation and the official creditor committee and hash out the few remaining issues before a deal is settled, one of the people said.
+
+The country’s notes due in November 2025 are trading at 59.6 cents on the dollar, while dollar-denominated bonds due in 2030 are trading around 58.6 cents on the dollar, continuing to recover after it failed to agree on a deal with bondholders back in April.
+
+...
+
+[Data](articles/91c6e05e.json)
+
+---
+
+### Locomotive operating engineers on strike from tomorrow
+
+*2024-06-06 19:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Locomotive-operating-engineers-on-strike-from-tomorrow/108-284286) · `en`
+
+Colombo, June 6 (Daily Mirror) - The Locomotive Operating Engineers Union has decided to launch a train strike at midnight tomorrow due to further delays in the second-class promotions of locomotive drivers, continuous delays in recruitment due to a lack of a salary code, and other issues.
+
+While sending a letter to the Railways General Manager (GMR), the union secretary claimed that the decision was taken after having informed the GMR several times.
+
+Due to not receiving any favorable response, the union has decided to engage with the trade union action starting at midnight tomorrow.
+
+◼️
+
+[Data](articles/8e1d7079.json)
+
+---
+
+### ஐந்து மாதகாலப்பகுதியில் மின்பாவனையாளர்களிடமிருந்து மேலதிகமாக 12000 ரூபா அறவீடு - பாட்டலி சம்பிக்க ரணவக்க
+
+*2024-06-06 19:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/185480) · `ta`
+
+இலங்கை மின்சார சபை கடந்த ஐந்து மாத காலப்பகுதியில் மாத்திரம் 9000 கோடி ரூபா மேலதிக வருமானத்தை ஈட்டியுள்ளது. இக்காலப்பகுதியில் மின்பாவனையாளர்களிடமிருந்து மேலதிகமாக 12000 ரூபா அறவிடப்பட்டுள்ளது. மின்கட்டண அதிகரிப்பால் ஒட்டுமொத்த மக்களும் மிக மோசமாக பாதிக்கப்பட்டுள்ளார்கள் எனப் பாராளுமன்ற உறுப்பினர் பாட்டலி சம்பிக்க ரணவக்க தெரிவித்தார்.
+
+பாராளுமன்றத்தில் வியாழக்கிழமை (6) இடம்பெற்ற மின்சார சபை மறுசீரமைப்பு சட்டமூலம் மீதான விவாதத்தில் உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+மின்சார சபையை 12  கூறுகளாகப் பிரித்து அவற்றைத் தனியார் தரப்பினருக்கு வழங்கும் இலங்கை மின்சார சபை மறுசீரமைப்பு சட்டமூலம் குறித்து விசேட கவனம் செலுத்த வேண்டும்.அரச சேவை தொடர்பில் அரசாங்கம் எவ்வாறான நிலைப்பாட்டைக் கொண்டுள்ளது என்பது  தற்போது கேள்விக்குள்ளாக்கப்பட்டுள்ளது.
+
+...
+
+[Data](articles/a3a05375.json)
+
+---
+
+### ரஷ்யா - உக்ரைன் மோதல் தீவிரம்: 1000 இலங்கையர்கள் ரஷ்யாவுக்குச் சென்றிருக்கலாம் - வசந்த யாப்பா பண்டார
+
+*2024-06-06 18:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/185477) · `ta`
+
+ரஷ்யா- உக்ரைன் மோதல் தீவிரமடைந்துள்ள சூழலில்  சுமார் 1000 இலங்கையர்கள் ரஷ்யாவுக்கு சென்றிருக்கலாம். 220 பேர் தொடர்பான தகவல்களை  ரஷ்ய தூதரகத்தில் ஒப்படைத்துள்ளோம்.இலங்கைக்கும் ரஷ்யாவுக்கும் இடையில் நல்லுறவு காணப்படுகிறது. சேவை ஒப்பந்தமில்லாமல் சென்றுள்ள இலங்கையர்கள் குறித்து பொது இணக்கப்பாட்டுக்கு வர வேண்டும் எனச் சுயாதீன எதிரணியின் உறுப்பினர் வசந்த யாப்பா பண்டார தெரிவித்தார்.
+
+பாராளுமன்றத்தில் வியாழக்கிழமை (6) இடம்பெற்ற அமர்வின் போது விசேட கூற்றை முன்வைத்து உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+மியன்மார் மற்றும் ரஷ்யா ஆகிய நாடுகளுக்குச் சென்று அங்கு  நெருக்கடிக்குள்ளாகியுள்ள இலங்கையர்கள் தொடர்பில்  விசேட கவனம் செலுத்துவதற்கும்,அவர்களின் விடயத்தில் எவ்வாறான நடவடிக்கைகளை முன்னெடுக்கலாம் என்பது தொடர்பிலும் ஆராயுமாறு எதிர்க்கட்சி தலைவர் சஜித் பிரேமதாச எமக்கு ஆலோசனை வழங்கினார்.
+
+இதற்கமைய எதிர்க்கட்சியின் உறுப்பினர்களான தேசிய அலவத்துவெல,சுஜித் சஞ்சய் பெரோ உட்பட நானும் அண்மையில் மியன்மார் மற்றும் தாய்லாந்து ஆகிய நாடுகளுக்குச் சென்று பல்வேறு தரப்பினருடன் பேச்சுவார்த்தையில் ஈடுபட்டோம்.
+
+...
+
+[Data](articles/696e222e.json)
+
+---
+
+### மின்சார சபை மறுசீரமைப்பு சட்டமூலம் 44 மேலதிக வாக்குகளினால் நிறைவேற்றம்
+
+*2024-06-06 18:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/185475) · `ta`
+
+எதிர்க்கட்சிகளின் கடும் எதிர்ப்புகளுக்கு  மத்தியில் மின்சார சபை மறுசீரமைப்பு சட்டமூலம் 44 மேலதிக வாக்குகளினால் நிறைவேற்றப்பட்டது.சட்டமூலத்திற்கு ஆதரவாக 103 வாக்குகளும் , எதிராக  59 வாக்குகளும் அளிக்கப்பட்ட நிலையில் சட்டமூலம் நிறைவேற்றப்பட்டது.
+
+அரச நிறுவனங்களை மறுசீரமைக்கும் தீர்மானத்தை அரசாங்கம் கைவிட வேண்டும்,புதிய அரசாங்கத்துக்கு அதன் பொறுப்பை வழங்க வேண்டும் என கடந்த வாரம் அறிக்கை வெளியிட்ட முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷ சட்டமூலத்துக்கு ஆதரவாக வாக்களித்தார்.அத்துடன் பொதுஜன பெரமுனவின் உறுப்பினர்கள் அனைவரும்   ஆதரவாக வாக்களித்தனர்.
+
+இந்த வாக்கெடுப்பை தமிழ் தேசியக்கூட்டமைப்பு,தமிழ் தேசிய மக்கள் முன்னணி,தமிழ் மக்கள் தேசிய கூட்டணி ஆகிய கட்சிகள் புறக்கணித்திருந்தன. அதேவேளை ஸ்ரீலங்கா முஸ்லிம் காங்கிரஸ் தலைவர் ரவூப் ஹக்கீம்,அகில இலங்கை மக்கள் காங்கிரஸ் தலைவர் ரிஷாட் பதியுதீன், தேசிய காங்கிரஸ் தலைவர் அதாவுல்லா ஆகியோரும் வாக்களிப்பில் பங்கேற்கவில்லை.
+
+மின்சார சபை மறுசீரமைப்பு சட்டமூலம் மீதான இரண்டாம் வாசிப்பு வியாழக்கிழமை (6) இடம்பெற்றது.
+
+...
+
+[Data](articles/382a419a.json)
+
+---
+
+### Electricity Bill passed by more voting in Parliament
 
 *2024-06-06 18:26:27* · [`adalk`](https://www.ada.lk/breaking_news/විදුලිබල-පනත්-කෙටුම්පත-පාර්ලිමේන්තුවේදී-වැඩි-ඡන්දයෙන්-සම්මතයි/11-410061) · `si`
 
-ශ්‍රී ලංකා විදුලිබල පනත් කෙටුම්පත අද (06) පාර්ලිමේන්තුවේදී විවාද කිරීමෙන් අනතුරුව  වැඩි ඡන්ද 44 කින් සම්මත විය.
+The Sri Lanka Electricity Bill, aimed at implementing reforms, was debated and passed in Parliament with 44 votes in favor, despite opposition demands for an election and 59 votes against certain amendments. The bill successfully completed its third reading without a poll after incorporating suggested changes.
 
-අද පැවති පනත් කෙටුම්පත දෙවනවර කියවීමේ විවාදය  අවසානයේ විපක්ෂය විසින් විසින් ඡන්ද විමසීමක් ඉල්ලා සිටි අතර ඒ අනුව පැවති ඡන්ද විමසීමේදී ඊට පක්ෂව103ක්ද  විපක්ෂව ඡන්ද 59 ක්ද  හිමිවිය.
+🟩
 
-පනත්කෙටුම්පත කාරක සභා අවස්ථාවේදී ඊට සංශෝධන එක්වූ අතර අනතුරුව තෙවනවර කියවීම ඡන්ද විමසීමකින් තොරව සම්මත විය.
+The Sri Lanka Electricity Bill was debated in parliament today (06), 44 votes were passed.
 
-විදුලිබල ක්ෂේත්‍රයට සිදුකරනු ලබන ප්‍රතිසංස්කරණ ක්‍රියාත්මක කිරීමට අවශ්‍ය විධිවිධාන සැලැස්වීම අරමුණු කරගත් මෙම පනත් කෙටුම්පත 2024  අප්‍රේල් 25 වැනි දින පාර්ලිමේන්තුවට ඉදිරිපත් කරන ලදී.
+The Opposition, the Opposition, the Opposition demanded an election at the end of the Bill of Bill, and 59 votes against it.
+
+The Bill of Pathoset joined the amendments and then passed the third reading was passed without a poll.
+
+The Bill, aimed at the implementation of the reforms to implement the reforms, was presented to Parliament on April 25, 2024.
 
 ◼️
 
 [Data](articles/5c990cad.json)
+
+[Extended Data](ext_articles/5c990cad.ext.json)
 
 ---
 
@@ -2105,135 +2211,5 @@ The Supreme Court, which ruled that former President Sirisena had intentionally 
 [Data](articles/91ec1c6e.json)
 
 [Extended Data](ext_articles/91ec1c6e.ext.json)
-
----
-
-### Royal Park killer is contrary to the apology for the president
-
-*2024-06-06 10:54:04* · [`adalk`](https://www.ada.lk/breaking_news/රෝයල්-පාක්-ඝාතකයාට-මෛත්‍රී-ජනපති-සමාව-දීම-ආණ්ඩුක්‍රම-ව්‍යවස්ථාවට-පටහැනියි/11-410046) · `si`
-
-The Supreme Court overturned former President Maithripala Sirisena's pardon for a defendant, highlighting a contradiction between the court's ruling and the president's apology.
-
-🟩
-
-The Supreme Court ruled that former President Maithripala Sirisena's decision to pardon the Defend of the Defend of the Defend of the Defend of the Defend of the Defend of the Defend of the Defend of the Defend of the Defend of Defenders in Rajagiriya.
-
-The Supreme Court ruled that the former President was releasing the defendant.
-
-◼️
-
-[Data](articles/3fb6c16c.json)
-
-[Extended Data](ext_articles/3fb6c16c.ext.json)
-
----
-
-### Time allocated for debate on Electricity Amendment Bill to be extended
-
-*2024-06-06 10:49:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Time-allocated-for-debate-on-Electricity-Amendment-Bill-to-be-extended/108-284238) · `en`
-
-Parliament, June 6 (Daily Mirror)- The time allocated for the Parliamentary debate on the Electricity Amendment Bill is to be extended following the requests by Opposition MPs.
-
-The final decision on the extension will be made at the party leaders' meeting to be held at 1pm today.
-
-An uproar was seen earlier in Parliament today when the Opposition wanted more time for  the debate on the Electricity Amendment Bill in order to study the amendments and the Supreme Court determination.
-
-The uproar began when MP Nalaka Bandara Kottegoda said the Sectoral Oversight Committee on Power and Energy had given the green light for the legislation subject to amendments.
-
-MP Charitha Herath who responded said a decent space of time should be given to MPs to study the legislation as per Standing Orders 50(2). He said this situation should be taken into consideration.
-
-...
-
-[Data](articles/ff84df6e.json)
-
-[Extended Data](ext_articles/ff84df6e.ext.json)
-
----
-
-### Uncertainty looms over proposed Anura–Sajith economic debate
-
-*2024-06-06 10:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/99696/uncertainty-looms-over-proposed-anurasajith-economic-debate) · `en`
-
-Leader of National People’s Power Anura Kumara Dissanayake is ready for the proposed debate on economic policies, with the Opposition Leader Sajith Premadasa, at any time today (06), the NPP executive committee member Dr. Nalinda Jayatissa said.
-
-Dr. Jayatissa noted that the Samagi Jana Balawegaya (SJB) is yet to respond regarding the debate. He also stated that the NPP does not intend to hold the debate between party leaders after today.
-
-Commenting regarding the matter, SJB MP Nalin Bandara stated that their party is prepared for the debate until a Presidential Election is declared.
-
-Both parties had previously agreed to hold the debate between their leaders on June 6, from the dates proposed by the SJB.
-
-◼️
-
-[Data](articles/b1fef159.json)
-
-[Extended Data](ext_articles/b1fef159.ext.json)
-
----
-
-### Stoinis shines as Australia cruise past Oman in T20 opener
-
-*2024-06-06 10:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Stoinis-shines-as-Australia-cruise-past-Oman-in-T20-opener/108-284237) · `en`
-
-(Bridgetown) - Marcus Stoinis shone with bat and ball as Australia launched their bid for a grand slam of major cricket titles with a 39-run victory over Oman at the T20 World Cup in Barbados on Wednesday.
-
-Stoinis smashed a game-changing 67 not out off just 36 balls to power Australia to 164-5 and then took three wickets for 19 runs as Oman were restricted to 125-9 in reply at Kensington Oval.
-
-"It was a nice start," player of the match Stoinis said afterwards. "Maybe a few cobwebs for us but we're better for it, and nice that we got the win.
-
-"And nice that I got to spend some time in the middle and have a bit of a bowl."
-
-Stoinis hammered six sixes and two fours during a swashbuckling batting performance that led Australia's recovery after they had slumped to 50-3 earlier in the innings.
-
-...
-
-[Data](articles/c2e7df66.json)
-
-[Extended Data](ext_articles/c2e7df66.ext.json)
-
----
-
-### Court issues the Supreme Court for Maithri
-
-*2024-06-06 10:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197451) · `si`
-
-The Supreme Court upheld Maithripala Sirisena's decision to release the murderer of Royal Park, overturning his pardon. It also ordered compensation for the victim's family and legal action against constitutional violations.
-
-🟩
-
-The Supreme Court ruled that former President Maithripala Sirisena's decision was to be released to the Defend of the Defend of the Defendance of the Royal Park Murder of the Royal Park Murder of Royal Park Murder.
-
-Accordingly, the president's pardon was forgiven by the former President and said.
-
-In addition, Maithripala Sirisena was ordered that the petitioner had to pay Rs.
-
-Meanwhile, Maithripala Sirisena released another order to compensate the demonstrators and father of the aggrieved girl.
-
-The Attorney General decided to take legal action that the Constitution had violated the constitution that the Constitution was inaugurated by this action.
-
-The decision of the Civil Apostice to the Defendant is contrary to the constitution and to judge the constitution and to judge the lack of power and judgmental. The magic was announced by a three-member judiciary of the three-member judges who are not present at Turai Raja and Yasantha Kodagoda and Janakath De Silva.
-
-◼️
-
-[Data](articles/4c3491ea.json)
-
-[Extended Data](ext_articles/4c3491ea.ext.json)
-
----
-
-### Lack of modern equipment prevented accurate forecast of inclement weather
-
-*2024-06-06 10:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Lack-of-modern-equipment-prevented-accurate-forecast-of-inclement-weather/108-284228) · `en`
-
-Lack of proper equipment prevented accurate forecast of the recent inclement weather conditions, geologist Professor Athula Senaratne said yesterday.
-
-“It would have been possible to issue prior warning of 400mm rains which some parts of the nation experienced during the past few days if the necessary equipment was available,” Professor Senaratne told journalists in Kandy.
-
-He also said Sri Lanka does not have proper equipment to measure rainfall.
-
-◼️
-
-[Data](articles/b2abe038.json)
-
-[Extended Data](ext_articles/b2abe038.ext.json)
 
 ---

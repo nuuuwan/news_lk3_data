@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-06 06:19:36**
+As of **2024-06-06 06:59:23**
 
 ## Newspaper Stats
 
-*Scraped **28,715** Articles*
+*Scraped **28,716** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,635
 dailyftlk | 1,700
 adalk | 2,448
 adaderanalk | 3,255
-tamilmirrorlk | 3,375
+tamilmirrorlk | 3,376
 virakesarilk | 4,414
 dailymirrorlk | 4,553
 adaderanasinhalalk | 4,606
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,606
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,704 (100.0%) of 28,715 articles have been extended.
+28,710 (100.0%) of 28,716 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -314,6 +314,24 @@ After the elephant was completely attacked by the tile house, a building that ha
 
 ---
 
+### புதிய இராஜதந்திரிகள் நற்சான்றுகளைக் கையளித்தனர்
+
+*2024-06-06 01:36:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-இராஜதந்திரிகள்-நற்சான்றுகளைக்-கையளித்தனர்/175-338517) · `ta`
+
+இலங்கைக்கான புதிதாக நியமிக்கப்பட்ட 05 உயர்ஸ்தானிகர்கள் மற்றும் 09 தூதுவர்கள் நேற்று கொழும்பு கோட்டை ஜனாதிபதி மாளிகையில் ஜனாதிபதி ரணில் விக்கிரமசிங்கவிடம் தமது நற்சான்றுப் பத்திரங்களைக் கையளித்தனர்.
+
+நியூசிலாந்து, சைப்ரஸ் குடியரசு, மாலைதீவுகள், சியரா லியோன் குடியரசு மற்றும் மொரீஷியஸ் குடியரசு என்பவற்றுக்கான உயர்ஸ்தானிகர்களும் குவாத்தமாலா குடியரசு, அல்ஜீரியா மக்கள் ஜனநாயகக் குடியரசு, எஸ்டோனியா குடியரசு, லாவோஸ் மக்கள் ஜனநாயக குடியரசு, கொலம்பியா குடியரசு, துருக்கி குடியரசு, அயர்லாந்து, ஹெலனிக் குடியரசு (கிரீஸ்) மற்றும் பல்கேரியா குடியரசு ஆகிய நாடுகளின் புதிய தூதுவர்களும் நியமிக்கப்பட்டுள்ளனர்.
+
+இந்த புதிய உயர்ஸ்தானிகர்கள் மற்றும் தூதுவர்களை வரவேற்பதற்காக கோட்டை ஜனாதிபதி மாளிகையில் ஒரு சிறிய விழாவொன்று ஏற்பாடு செய்யப்பட்டிருந்தது.
+
+நற்சான்றிதழ்களைப் பெற்றுக்கொண்ட பின்னர் புதிய உயர்ஸ்தானிகர்கள் மற்றும் தூதுவர்களுடன் ஜனாதிபதி ரணில் விக்ரமசிங்க சிநேகபூர்வ உரையாடலில் ஈடுபட்டார் என ஜனாதிபதி ஊடகப்பிரிவு தெரிவித்துள்ளது. (a)
+
+◼️
+
+[Data](articles/0b45ab9a.json)
+
+---
+
 ### Development Committee for Mannar District General Hospital
 
 *2024-06-06 01:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/185410) · `ta`
@@ -592,6 +610,8 @@ This alliance comes as a culmination of rigorous evaluation and meticulous selec
 
 [Data](articles/aa97421b.json)
 
+[Extended Data](ext_articles/aa97421b.ext.json)
+
 ---
 
 ### Suneth Silva of WIS recognized at Global CEO ‘45 Under 45 Leadership Excellence Awards’
@@ -605,6 +625,8 @@ The Under 45 Leadership Excellence Platinum Awards is an esteemed programme that
 ...
 
 [Data](articles/e9835eeb.json)
+
+[Extended Data](ext_articles/e9835eeb.ext.json)
 
 ---
 
@@ -622,6 +644,8 @@ MBLS is a leading financial services provider in Sri Lanka with a rich history i
 
 [Data](articles/37233da1.json)
 
+[Extended Data](ext_articles/37233da1.ext.json)
+
 ---
 
 ### Share price appreciations in banking sector counters as indices rise
@@ -635,6 +659,8 @@ Those crossings were reported in JKH, which crossed 811,000 shares to the tune o
 ...
 
 [Data](articles/1ab5acc4.json)
+
+[Extended Data](ext_articles/1ab5acc4.ext.json)
 
 ---
 
@@ -2171,19 +2197,5 @@ A brief ceremony was organized at the Colombo Fort Presidential Palace to offici
 [Data](articles/a2ee0316.json)
 
 [Extended Data](ext_articles/a2ee0316.ext.json)
-
----
-
-### Opportunities for women...
-
-*2024-06-05 16:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Opportunities-for-women/110-284201) · `en`
-
-A special session of the Ceylon Women's Organization was held at the Radisson Hotel, Colombo recently. The digitalization of the organization took place, opening opportunities for all women scattered all over Sri Lanka to join this organization.
-
-◼️
-
-[Data](articles/625197a4.json)
-
-[Extended Data](ext_articles/625197a4.ext.json)
 
 ---

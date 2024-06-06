@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-06 07:21:31**
+As of **2024-06-06 07:46:08**
 
 ## Newspaper Stats
 
-*Scraped **28,717** Articles*
+*Scraped **28,725** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,40 +15,112 @@ newsfirstlk | 363
 islandlk | 1,553
 economynextcom | 1,635
 dailyftlk | 1,700
-adalk | 2,448
+adalk | 2,449
 adaderanalk | 3,255
-tamilmirrorlk | 3,376
+tamilmirrorlk | 3,377
 virakesarilk | 4,414
-dailymirrorlk | 4,553
-adaderanasinhalalk | 4,607
+dailymirrorlk | 4,558
+adaderanasinhalalk | 4,608
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,716 (100.0%) of 28,717 articles have been extended.
+28,717 (100.0%) of 28,725 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-06 (Thursday)
 
-### ප්‍රදේශ කිහිපයකට වැස්ස
+### ඉන්දීය අගමැතිගේ දිවුරුම්දීමේ උත්සවයට ජනපතිටත් ආරාධනයක්
+
+*2024-06-06 07:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197440) · `si`
+
+ඉන්දීය අග්‍රාමාත්‍ය නරේන්ද්‍ර මෝදී මහතාගේ දිවුරුම්දීමේ උත්සවය සඳහා ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සහභාගි වීමට නියමිතව තිබේ.
+
+◼️
+
+[Data](articles/cb163968.json)
+
+---
+
+### Concluding debt restructuring sooner than later critical for SL: Katsuki
+
+*2024-06-06 07:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Concluding-debt-restructuring-sooner-than-later-critical-for-SL-Katsuki/108-284220) · `en`
+
+Japan, Sri Lanka’s biggest bilateral lender after China, yesterday stressed the island nation must speed up in its debt restructuring efforts for its own betterment.
+
+Sri Lanka’s ongoing efforts in debt restructuring is falling behind schedule and with an upcoming International Monetary Fund review, Japan’s Deputy Head of Mission Kotaro Katsuki highlighted the importance of accelerating momentum.
+
+As several sections are awaiting the final outcome of the efforts that would help the national economy, Katsuki said Sri Lanka must make sure the process concludes sooner than later.
+
+“This is absolutely crucial for the Sri Lankan economy but also for the people who are doing business and investing in this country,” said Katsuki addressing a forum hosted by the Sri Lanka-Japan Business Council.
+
+A memorandum of understanding is currently underway, which has made several rounds back and forth.
+
+...
+
+[Data](articles/201c585a.json)
+
+---
+
+### Rain to several areas
 
 *2024-06-06 06:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197438) · `si`
 
-බස්නාහිර, සබරගමුව, දකුණු සහ වයඹ පළාත්වලත් මහනුවර සහ නුවරඑලිය දිස්ත්‍රික්කවලත් වැසි වාර කිහිපයක් ඇතිවේ.
+Heavy rainfall expected across Western, Sabaragamuwa, Southern, North-Western provinces, Kandy, and Nuwara Eliya districts. Showers also predicted for North and North Central provinces, East, and Uva provinces. Strong winds of 40-50 km/h in Hambantota district. Public advised to prepare for potential wind and lightning hazards.
 
-කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කළේ, උතුරු සහ උතුරු මැද පළාත්වල වැසි ස්වල්පයක් ඇතිවිය හැකි බවය.
+🟩
 
-නැගෙනහිර සහ ඌව පලාත්වල සවස් කාලයේ හෝ රාත්‍රී කාලයේ ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකිය.
+Several spells of showers in the Western, Sabaragamuwa, Southern and North-Western provinces and several showers in the Kandy and Nuwara Eliya districts.
 
-උතුරු, උතුරු මැද සහ වයඹ පළාත්වලත් හම්බන්තොට දිස්ත්‍රික්කයේත්  විටින් විට හමන පැ.කි.මී. 40-50ක පමණ තද සුළං ඇති වේ.
+The Department of Meteorological Department announced that showers could occur in the North and North Central provinces.
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+Showers or thundershowers will occur at several places in the East and Uva provinces or at night.
+
+From the Hambantota district and time in the Hambantota district and time in the Hambantota district.. There are about 40-50 strong winds.
+
+The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
 
 ◼️
 
 [Data](articles/5a6800b8.json)
+
+[Extended Data](ext_articles/5a6800b8.ext.json)
+
+---
+
+### Prabhakaran’s brother slams section of Tamil diaspora for cheating Tamils
+
+*2024-06-06 06:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Prabhakarans-brother-slams-section-of-Tamil-diaspora-for-cheating-Tamils/108-284224) · `en`
+
+Velupillai Manoharan, the elder brother of LTTE founder leader Velupillai Prabhakaran, has come forward to denounce a scam targeting the Tamil diaspora and revealed that a group within the diaspora has been deceiving unsuspecting individuals by falsely claiming that Prabhakaran and some family members are still alive.
+
+"My brother Prabhakaran and his entire family have passed away, achieving martyrdom. It is crucial to acknowledge this truth. I urge you not to be deceived by these fraudsters posing as my brother's family. They are manipulating your sentiments and exploiting my brother's legacy for their own benefit," stated Manoharan, cautioning against falling victim to such fraudulent schemes.
+
+Manoharan told the Jaffna Monitor magazine’s latest issue that he was stating this to end what he said was a huge scam perpetrated by a section of the Tamil diaspora to cheat money from unsuspecting Tamils by insisting that Prabhakaran and some of his family members were still alive.
+
+...
+
+[Data](articles/ac91571c.json)
+
+---
+
+### SL unit trust industry crosses key milestones, gains traction
+
+*2024-06-06 05:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SL-unit-trust-industry-crosses-key-milestones-gains-traction/108-284222) · `en`
+
+Amidst the declining interest rates and entrance of new funds, Sri Lanka’s unit trust industry has continued to gain traction this year. The number of unit trust holders surpassed 100,000 and the total net asset value (NAV) crossed Rs.500 billion at end-April this year.
+
+According to the Unit Trust Association of Sri Lanka, the number of unit trust holders rose to 103,107 at end-April this year, compared to 74,686 unit trust holders a year ago. Simultaneously, the NAV of unit trusts rose by 178.41 percent year-on-year to Rs.505.98 billion in the period.
+
+At end-April, the open-ended NDB Wealth Money Fund was by far the largest unit trust, with 21,418 unit trust holders and an NAV of Rs.217.27 billion.
+
+In terms of NAV, CAL Investment Grade Fund was the second largest unit trust, with Rs.51 billion assets under its management. In terms of number of holders, Softlogic Money Market Fund was the second largest unit trust, with 15,640 unit trust holders.
+
+...
+
+[Data](articles/9264d8df.json)
 
 ---
 
@@ -301,6 +373,44 @@ Prasad bagged 554,289 votes as against Singh’s 499,722 and won the seat by a m
 [Data](articles/ffd00122.json)
 
 [Extended Data](ext_articles/ffd00122.ext.json)
+
+---
+
+### SriLankan Airlines notches Rs.1.12bn profit in nine months ended Dec. 2023
+
+*2024-06-06 03:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SriLankan-Airlines-notches-Rs-1-12bn-profit-in-nine-months-ended-Dec-2023/108-284219) · `en`
+
+National carrier SriLankan Airlines has managed to move towards the positive territory, as it recorded a profit for the nine months ended December 31, 2023.
+
+The airline, which is in the process of being privatised, reported a profit of Rs.1.124 billion for the nine months ended December 31, 2023, the 2023 budget position report showed.
+
+For the full financial year ended March 31, 2023, 2022, 2021 and 2020, the carrier recorded a loss of Rs.73.26 billion, Rs.165.89 billion, Rs.45.23 billion and Rs.47.19 billion.
+
+The official data showed that SriLankan Airlines recorded a revenue of Rs.248 billion for the nine months through December 31, 2023. Expenditure for the period recorded Rs.223 billion, leading to an earning before tax of Rs.24.5 billion.
+
+...
+
+[Data](articles/12e31a2e.json)
+
+---
+
+### ’2040 ஆம் ஆண்டில் பசுமை இலக்குகளை அடைவோம்’
+
+*2024-06-06 02:11:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/2040-ஆம்-ஆண்டில்-பசுமை-இலக்குகளை-அடைவோம்/175-338518) · `ta`
+
+பொருளாதார இலக்குகளை அடைந்துகொள்ளும் அதேவேளை 2040 களில் பசுமை இலக்குகளையும் அடைந்துகொள்ள இலங்கை அர்ப்பணிக்கும் என்று ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்துள்ளார்.
+
+ஜனாதிபதி அலுவலகத்தில் நேற்று நடைபெற்ற உலக சுற்றாடல் தின நிகழ்விலேயே ஜனாதிபதி இவ்வாறு தெரிவித்தார். அவர் மேலும் தெரிவிக்கையில்,
+
+நாட்டின் பொருளாதார இலக்குகளை அடையும் போது இந்த இலக்கை அடைய வேண்டும். 2050 வரை காத்திருக்காமல் 2040க்குள் இந்த இலக்கை அடைவதில் கவனம் செலுத்தியுள்ளோம். அதற்கேற்ப நாம் செயற்பட்டு வருகின்றோம்.
+
+இந்த சட்டமூலம் நிறைவேற்றப்பட்ட பிறகு, அது தேசிய கொள்கையாக மாறும். அன்றிலிருந்து ஒவ்வொரு நிறுவனமும் அதற்கேற்ப செயல்பட வேண்டும், அரசு சாரா பிரிவுகளும் அதன்படி செயல்பட வேண்டும்.
+
+அத்துடன், மத்திய சுற்றாடல் அதிகார சபையினால் தயாரிக்கப்பட்ட சுற்றுச்சூழல் சட்டத்தில் திருத்தம் செய்யப்பட வேண்டியது அவசியமாகும். சுற்றுச்சூழல் சட்டம் 80 களில் தயாரிக்கப்பட்டது. இப்போது நிலைமை அதனை விட மாறிவிட்டது. எதிர்காலத்தில் அந்தத் திருத்தங்களைச் முன்னெடுக்க நாம் எதிர்பார்க்கிறோம்.
+
+...
+
+[Data](articles/1dd4a546.json)
 
 ---
 
@@ -1372,6 +1482,22 @@ Making a special speech in the Sri Lankan Parliament on Wednesday, Premadasa emp
 
 ---
 
+### විදුලිබල පනත සරල බහුතරයකින් සම්මත කළ හැකියි
+
+*2024-06-05 19:08:14* · [`adalk`](https://www.ada.lk/breaking_news/විදුලිබල-පනත-සරල-බහුතරයකින්-සම්මත-කළ හැකියි/11-410036) · `si`
+
+යෝජිත නව විදුලිබල පනත සහ ශ්‍රේෂ්ඨාධිකරණය විසින් නිගමනය කරන ලද සංශෝධන, පාර්ලිමේන්තුවේ බලශක්ති ආංශික අධීක්ෂණ කාරක සභාව විසින් අනුමත කළ බව විදුලිබල හා බලශක්ති අමාත්‍ය කංචන විජේසේකර මහතා පැවසීය.
+
+ඒ අනුව එම පනත හෙට (06දා) පාර්ලිමේන්තුවේ විවාදයට සහ අනුමත කිරීමට ඉදිරිපත් කිරීමට නියමිතය.
+
+විදුලිබල ක්ෂේත්‍රයේ ප්‍රතිසංස්කරණ අඩංගු එම නව විදුලිබල පනත, ශ්‍රේෂ්ඨාධිකරණයේ නිගමනය අනුව ඉදිරිපත් කළ සංශෝධන අනුගත කරමින් පාර්ලිමේන්තුවේ සරල බහුතරයකින් සම්මත කළ හැකි බව අමාත්‍යවරයා සඳහන් කරයි.
+
+◼️
+
+[Data](articles/a504d947.json)
+
+---
+
 ### Notice of opening schools tomorrow
 
 *2024-06-05 19:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/185404) · `ta`
@@ -1505,6 +1631,16 @@ Police said that they are residents of Welioya Kalyanapura area.
 [Data](articles/49d70ac6.json)
 
 [Extended Data](ext_articles/49d70ac6.ext.json)
+
+---
+
+### Today’s exchange rate - 05 June 2024
+
+*2024-06-05 18:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Todays-exchange-rate-05-June-2024/108-284171) · `en`
+
+◼️
+
+[Data](articles/dcd78355.json)
 
 ---
 
@@ -2023,185 +2159,5 @@ In particular, when you look at global power centers, it is true that the United
 [Data](articles/1041b60c.json)
 
 [Extended Data](ext_articles/1041b60c.ext.json)
-
----
-
-### Two criminals arrested
-
-*2024-06-05 16:58:23* · [`adalk`](https://www.ada.lk/breaking_news/අපරාධකාරයෝ-දෙදෙනෙක්-අත්අඩංගුවට/11-410027) · `si`
-
-Criminal Investigations and Organizational CID units arrested two suspects linked to a murder case investigated by SSP Lucky Randeniya. The arrests took place in Wellampitiya and Boxila areas, where firearms were also found. Further investigations are ongoing.
-
-🟩
-
-Members of the Criminal Investigations and Organizational Criminal Investigation of the Criminal Investigation Department (CID)The unit says.
-
-Investigation of the Criminal Investigation Department and the Director of the Criminal Investigation Department (SSP Lucky Randeniya, Senior Superintendent of the Criminal Investigation Unit), in the investigation of the Sri Lanka Superintendent Lucky Randeniya during a special investigation of murder.The two suspects have been arrested.
-
-In the Wellampitiya arrested the suspect, a brother of the suspect, who was residing in the Boxila area where the suspect was residing in the area, and 54 millimeters of live bullets were used for the suspect's support for some murderThe further investigations are being carried out.
-
-◼️
-
-[Data](articles/e10e60e6.json)
-
-[Extended Data](ext_articles/e10e60e6.ext.json)
-
----
-
-### ‘Sarvajana Balaya’ stage protest against proposed ‘Sri Lanka Electricity Bill’
-
-*2024-06-05 16:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/99683/sarvajana-balaya-stage-protest-against-proposed-sri-lanka-electricity-bill) · `en`
-
-The seven political parties representing the “Sarvajana Balaya” alliance, including the National Freedom Front (NFF), Mawbima Janatha Party (MJP), Pivithuru Hela Urumaya (PHU), the Communist Party of Sri Lanka, ‘Yuthukama’ organisation and the Independent MP’s Forum engaged in a peaceful protest today (05) near the Parliament Roundabout against the proposed ‘Sri Lanka Electricity Bill’.
-
-National Organizer of National Freedom Front (NFF) Jayantha Samaraweera, leader of the Mawbima Janatha Party (MJP) entrepreneur Dilith Jayaweera, leader of the Pivithuru Hela Urumaya (PHU) MP Udaya Gammanpila, the General Secretary of the Communist Party, Dr G. Weerasinghe, President of the ‘Yuthukama’ national organization, Gevindu Kumaratunga and Prof. Channa Jayasumana from the Independent MP’s Forum joined this protest.
-
-...
-
-[Data](articles/9095e0d4.json)
-
-[Extended Data](ext_articles/9095e0d4.ext.json)
-
----
-
-### Court of Keheliya's petition regarding the court of Keheliya
-
-*2024-06-05 16:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197428) · `si`
-
-Keheliya Rambukwella, former Health Minister, filed a petition at the Maligakanda Magistrate's Court against the representatives of the Pigankanda Magistrate's Court. The case was heard by the Court of Appeal, presided over by Justices Nissanka Bandula Karunaratne and Shashi Mahendran. President's Counsel Faiz Mustapha argued that the law allows suspects to be remanded until trial completion under the Public Property Act. The petition was adjourned until October 10th.
-
-🟩
-
-Former Health Minister Keheliya Rambukwella, who was presented to the President of Health, the Maligakanda Magistrate's Court regarding the redepetives of the Pigankanda Magistrate's Court today (05) has been reconsidered from the Court of Appeal.
-
-The petition examination will be held in front of the Court of Appeal of the Court of Appeal Mr. Nissanka Bandula Karunaratne and Shashi Mahendran.
-
-President's Counsel Faiz Mustapha, who appeared in the court, appeared before the court to appear before the client.
-
-However, the President's Counsel said that the order issued by the Court continues to keep the law under the general possessors under the Public Departure Under the Public Departure Act.
-
-The President's Counsel pointed out that a suspect is able to be remanded until the case is completed under the end of the trial.
-
-The petition then deferred until the 10th of this month.
-
-◼️
-
-[Data](articles/e9bad797.json)
-
-[Extended Data](ext_articles/e9bad797.ext.json)
-
----
-
-### SLFP alias SLFP get along with Sajith
-
-*2024-06-05 16:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197427) · `si`
-
-Members of the Sri Lanka General Front and SLFP have engaged in reconciliation efforts, appointing key figures like Dharmasiri Dasanayake as the Chief Minister of the North Western Provincial Council and Maithripala Sirisena as the Chief Minister of the North Western Province. Sajith Premadasa, the Opposition Leader, has been appointed as the Colombo District Organizer of the Sri Lanka Force, indicating a significant move towards unity within the party ranks.
-
-🟩
-
-Several members of the Sri Lanka General Front and SLFP organizers joined the reconciliation.
-
-Meanwhile, former Chief Minister Dharmasiri Dasanayake has been appointed as the Chief Minister of the North Western Provincial Council and former President Maithripala Sirisena was appointed as the Chief Minister of the North Western Province.
-
-He was also appointed as the SLFP organizer of the Bingiriya electorate.
-
-SLFP Colombo District Colombo District Organizer Samantha Pradeep Kumara met with the opposition leader Sajith Premadasa and the reconciliation.
-
-Opposition Leader Sajith Premadasa was appointed to the Colombo District Organizer of the Sri Lanka Force after considering the consecutive year.
-
-In addition, the former Chief Opposition Leader of the Sri Lanka Freedom Party (Pothtuvil Pradeshiya Sabha) of the Sri Lanka Freedom Party (Pothtuvil Pradeshiya Sabha) is also present.
-
-...
-
-[Data](articles/70f94761.json)
-
-[Extended Data](ext_articles/70f94761.ext.json)
-
----
-
-### Gunman attacks U.S. Embassy in  Lebanon
-
-*2024-06-05 16:28:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Gunman-attacks-U-S-Embassy-in-Lebanon/108-284178) · `en`
-
-June 05 - A gunman was captured after opening fire at the U.S. Embassy in Lebanon's capital, Beirut, on Wednesday — an attack that took place as U.S. ally Israel signaled it could soon launch an offensive in the country against Iran-backed militant group Hezbollah.
-
-Prime Minister Benjamin Netanyahu warned early Wednesday that Israel was "prepared for very intense action in the north," as he visited a border city hit by wildfires sparked by Hezbollah rockets.
-
-The escalation has piled pressure on Netanyahu from right-wing members of his government, who have also threatened to quit if he agrees to the U.S.-backed cease-fire proposal. President Joe Biden criticized Netanyahu in an interview published Tuesday, but also dispatched top aides to the region for new talks with mediators as Washington pushes for a deal that would end eight months of fighting in Gaza and secure the release of hostages held by Hamas.
-
-◼️
-
-[Data](articles/6e2a4bcd.json)
-
-[Extended Data](ext_articles/6e2a4bcd.ext.json)
-
----
-
-### Israel strengthens attacks
-
-*2024-06-05 16:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197426) · `si`
-
-Israel launches military operation against Hamas in Gaza, causing significant casualties. Efforts to establish a ceasefire are underway amidst criticism.
-
-🟩
-
-Israel says it has launched a new military operation with central Gaza region.
-
-The Israeli authorities states that this operation was established targeting Hamas militants.
-
-Meanwhile, Palestinian medical sector said that a large number of people were killed due to air strikes.
-
-Critics say that the efforts of various parties to create a ceasefire to create a ceasefire.
-
-◼️
-
-[Data](articles/d762c8d7.json)
-
-[Extended Data](ext_articles/d762c8d7.ext.json)
-
----
-
-### Indian PM Modi to be sworn in for third time on June 8
-
-*2024-06-05 16:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/99682/indian-pm-modi-to-be-sworn-in-for-third-time-on-june-8) · `en`
-
-Indian Prime Minister Narendra Modi is expected to be sworn-in for a record-equalling third term on June 8, after key allies pledged their continued support a day after a humbling election result that saw his party lose its majority in parliament.
-
-Modi, a populist who has dominated Indian politics since coming to power in 2014, will for the first time need the support of regional allies whose loyalties have wavered over the years, which could complicate the government’s reform agenda.
-
-On Wednesday, two allies in his National Democratic Alliance coalition, the Telugu Desam Party, a key regional player in the southern state of Andhra Pradesh, and the Janata Dal (United) which rules the northern state of Bihar, pledged their support.
-
-The federal cabinet met on Wednesday morning and recommended the dissolution of parliament, a constitutional formality before Modi can form a new government.
-
-Modi and his new cabinet were scheduled to be sworn-in on Saturday, local media reported.
-
-...
-
-[Data](articles/e2cb2c6e.json)
-
-[Extended Data](ext_articles/e2cb2c6e.ext.json)
-
----
-
-### Prisoner who was receiving treatment at the Kandy National Hospital
-
-*2024-06-05 16:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/185375) · `ta`
-
-A 36-year-old suspect connected to a schoolgirl's case in Ampitiya escaped from Kandy National Hospital on November 26, 2022, while being treated under police custody.
-
-🟩
-
-The prisoner escaped from a prison officer after receiving treatment at the Kandy National Hospital.
-
-On November 26, 2022, a suspect in connection with the incident of a schoolgirl in Ampitiya has escaped.
-
-The 36 -year -old suspect, who was receiving treatment at the Kandy National Hospital under the protection of prison officials, fled at around 5.00 pm on Tuesday (04).
-
-◼️
-
-[Data](articles/79a0b2bc.json)
-
-[Extended Data](ext_articles/79a0b2bc.ext.json)
 
 ---

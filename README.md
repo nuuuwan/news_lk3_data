@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-06 16:51:22**
+As of **2024-06-06 17:03:58**
 
 ## Newspaper Stats
 
-*Scraped **28,858** Articles*
+*Scraped **28,859** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ adaderanalk | 3,275
 tamilmirrorlk | 3,391
 virakesarilk | 4,427
 dailymirrorlk | 4,584
-adaderanasinhalalk | 4,633
+adaderanasinhalalk | 4,634
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,857 (100.0%) of 28,858 articles have been extended.
+28,858 (100.0%) of 28,859 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-06 (Thursday)
+
+### දීගොඩ කුමාර නිදොස් කොට නිදහස්
+
+*2024-06-06 16:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197467) · `si`
+
+ආධ්‍යාත්මික නායකයෙකු බව පැවසූ දීගොඩ කුමාර අධිකරණයෙන් නිදොස් කොට නිදහස් කර තිබේ.
+
+ඔහුට එරෙහිව පවරා තිබූ නඩුවේ තීන්දුව අද (06) ප්‍රකාශයට පත් කෙරුණි.
+
+ඒ අනුව එල්ලවූ චෝදනාවලින් ඔහු නිදහස් කිරීමට කැස්බෑව මහෙස්ත්‍රාත් අධිකරණය නියෝග කළ බව වාර්තා වෙයි.
+
+◼️
+
+[Data](articles/29cc9d02.json)
+
+---
 
 ### Schools closed in two education divisions
 
@@ -45,6 +61,8 @@ Taking into account the prevailing weather conditions, the Ministry of Education
 ◼️
 
 [Data](articles/9302e4ce.json)
+
+[Extended Data](ext_articles/9302e4ce.ext.json)
 
 ---
 
@@ -2211,29 +2229,5 @@ Meanwhile, state minister Hon
 [Data](articles/11d6449f.json)
 
 [Extended Data](ext_articles/11d6449f.ext.json)
-
----
-
-### Two suspects arrested with Kerala cannabis worth over Rs. 28 million
-
-*2024-06-06 09:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/99692/two-suspects-arrested-with-kerala-cannabis-worth-over-rs-28-million-) · `en`
-
-A search operation conducted by the Sri Lanka Navy in the Ampan sea area of Nagar Kovil, Jaffna has led to the apprehension of 02 suspects and a dinghy loaded with over 70kg (wet weight) of Kerala cannabis.
-
-The search operation was carried out by the Naval Detachment Mamunai belonging to the Naval Establishment Veththalakerni in the Northern Naval Command.
-
-During this operation, naval personnel intercepted a suspicious dinghy in the Ampan sea area and seized about 70kg and 100g (wet weight) of Kerala cannabis stuffed in 31 parcels. The operation also led to the apprehension of 02 suspects onboard the boat.
-
-The gross street value of Kerala cannabis seized in this operation is estimated to be over Rs. 28 million.
-
-The suspects held in this operation were identified as residents of Mulliyan Jaffna, aged 34 and 40.
-
-The accused, along with Kerala cannabis and the dinghy were handed over to the Maruthankerny Police for onward legal action, the navy said.
-
-◼️
-
-[Data](articles/2987f05e.json)
-
-[Extended Data](ext_articles/2987f05e.ext.json)
 
 ---

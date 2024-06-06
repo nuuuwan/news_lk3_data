@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-06 10:34:28**
+As of **2024-06-06 10:52:45**
 
 ## Newspaper Stats
 
-*Scraped **28,760** Articles*
+*Scraped **28,764** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,84 @@ economynextcom | 1,636
 dailyftlk | 1,711
 adalk | 2,451
 adaderanalk | 3,261
-tamilmirrorlk | 3,379
+tamilmirrorlk | 3,381
 virakesarilk | 4,414
-dailymirrorlk | 4,562
+dailymirrorlk | 4,564
 adaderanasinhalalk | 4,617
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,756 (100.0%) of 28,760 articles have been extended.
+28,760 (100.0%) of 28,764 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-06 (Thursday)
+
+### ஜனாதிபதியின் அரசியல் அலுவலகம்
+
+*2024-06-06 10:34:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியின்-அரசியல்-அலுவலகம்/175-338524) · `ta`
+
+ஜனாதிபதி ரணில் விக்ரமசிங்க இன்று காலை சுபநேரத்தில் கொழும்பில் தனது அரசியல் அலுவலகத்தை திறந்து வைத்தார்.
+
+◼️
+
+[Data](articles/2084b1ee.json)
+
+---
+
+### SC quashes Presidential Pardon granted to Jude Jayamaha in Royal Park case
+
+*2024-06-06 10:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SC-quashes-Presidential-Pardon-granted-to-Jude-Jayamaha-in-Royal-Park-case/108-284236) · `en`
+
+Colombo, June 6 (Daily Mirror) - In another landmark judgment pertaining to the scope of the pardon granted by the executive President, the Supreme Court today ruled that former President Maithripala Sirisena's decision to grant a Presidential pardon to to Royal Park murder convict Don Shamantha Jude Anthony Jayamaha is arbitrary and not valid in law.
+
+Accordingly, the Supreme Court three-judge-bench comprising Justices S. Thurairaja, Yasantha Kodagoda and Janak de Silva ordered to set aside two Presidential pardons granted to Shamantha Jude Anthony Jayamaha for not following the Constitutional provisions.
+
+The Supreme Court declared that former President Maithripala Sirisena violated the Fundamental Rights of the petitioner and public trust doctrine while granting presidential pardon to the above mentioned respondent.
+
+...
+
+[Data](articles/e184257f.json)
+
+---
+
+### Teen dies after assault by student in tuition class
+
+*2024-06-06 10:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Teen-dies-after-assault-by-student-in-tuition-class/108-284235) · `en`
+
+Hambantota, June 6 (Daily Mirror) - A 17-year-old student was arrested for fatally assaulting a 15-year-old student in Sippikulama, Hambantota.
+
+The victim, a grade 10 student from Hambantota, succumbed to injuries sustained during the attack, while receiving treatment at the Hambantota Hospital yesterday.
+
+Investigations revealed that the deceased student had gone to the Sippikulama area to attend a tuition class and a student from another school in Hambantota city had approached the class and assaulted the victim due to a dispute.
+
+Hambantota Police are currently conducting further inquiries into the incident.
+
+◼️
+
+[Data](articles/7f24ee1f.json)
+
+---
+
+### வெள்ளத்தில் சிக்கி காணாமல் போன மாணவன் சடலமாக மீட்பு
+
+*2024-06-06 10:11:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெள்ளத்தில்-சிக்கி-காணாமல்-போன-மாணவன்-சடலமாக-மீட்பு/175-338522) · `ta`
+
+அங்குருவத்தோட்ட பொலிஸ் பிரிவிற்குட்பட்ட நேபட நியூச்செட்டல் தோட்டத்தில் வெள்ளத்தில் சிக்கி காணாமல் போயிருந்த மாணவனின் சடலம் கண்டுபிடிக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+குறித்த பகுதியில் உள்ள பாடசாலை மாணவர் ஒருவர் வெள்ளத்தில் சிக்கியதாக நேற்று தெரியவந்தது.
+
+பின்னர் அங்குருவத்தோட்ட பொலிஸ் பிரதேசத்தில் உடுவர கிராமசேவர் பிரிவில் 17 வயதுடைய பாடசாலை மாணவனின் சடலம் நேற்று மீட்கப்பட்டிருந்தது.
+
+சடலம், ஹொரணை வைத்தியசாலையில் வைக்கப்பட்டுள்ளதுடன், அங்குருவத்தோட்ட பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர். R
+
+◼️
+
+[Data](articles/88b54c0a.json)
+
+---
 
 ### As congratulations pour in, Modi invites Sri Lankan President to swearing-in
 
@@ -45,6 +109,8 @@ All eyes are now on which other leaders the government would invite to the cerem
 ...
 
 [Data](articles/4deb7e55.json)
+
+[Extended Data](ext_articles/4deb7e55.ext.json)
 
 ---
 
@@ -81,6 +147,8 @@ President Ranil Wickremesinghe auspiciously inaugurated his political office in 
 ◼️
 
 [Data](articles/19bc0834.json)
+
+[Extended Data](ext_articles/19bc0834.ext.json)
 
 ---
 
@@ -141,6 +209,8 @@ The body of the deceased has been placed in the Horana Hospital, and Anguruwatho
 ◼️
 
 [Data](articles/e336fd0c.json)
+
+[Extended Data](ext_articles/e336fd0c.ext.json)
 
 ---
 
@@ -2057,89 +2127,5 @@ Residence residents of Jaffna, who was arrested, was residing in Jaffna for furt
 [Data](articles/02a85516.json)
 
 [Extended Data](ext_articles/02a85516.ext.json)
-
----
-
-### Sri Lanka to have dedicated green economy unit in finance ministry: President
-
-*2024-06-05 20:17:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-have-dedicated-green-economy-unit-in-finance-ministry-president-166477/) · `en`
-
-ECONOMYNEXT – Sri Lanka will set up a unit within the government that will fund programs aimed at promoting a green economy, President Ranil Wickremesinghe has said.
-
-“We have planned to establish a dedicated unit within the Ministry of Finance focused on creating a green economy. This unit will be responsible for funding programs aimed at promoting a green economy, and we expect to have the entire system in place by the end of this year.”
-
-“Global temperatures have already risen beyond our expectations,” Wickremesinghe said during World Environment Day celebrations held at the Presidential Secretariat on Wednesday. “Amidst these challenges, small countries like Sri Lanka are struggling to address climate change. We must now take new measures to combat this issue. Limiting ourselves to the initiatives undertaken during the establishment of the Ministry of Environment is no longer sufficient.”
-
-...
-
-[Data](articles/3c512442.json)
-
-[Extended Data](ext_articles/3c512442.ext.json)
-
----
-
-### Extreme weather leaves over 250,000 persons affected
-
-*2024-06-05 20:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Extreme-weather-leaves-over-250-000-persons-affected/108-284184) · `en`
-
-Colombo, June 05 (Daily Mirror) - Some 253,581 persons from 66,906 families across thirteen districts have been affected by the adverse weather conditions, according to the Disaster Management Centre (DMC).
-
-Accordingly, people in Ratnapura, Colombo, Kegalle, Kandy, Galle, Kalutara, Matara, Puttalam, Kurunegala, Hambantota, Nuwara Eliya, Kilinochchi and Gampaha have been affected.
-
-Further, a total of 4,303 houses have been partially damaged while 42 houses have been completely damaged owing to the bad weather.
-
-Meanwhile, the death toll due to the inclement weather stands at 30 as of today (05).
-
-◼️
-
-[Data](articles/1a167eed.json)
-
-[Extended Data](ext_articles/1a167eed.ext.json)
-
----
-
-### Some schools and holidays
-
-*2024-06-05 19:55:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சில-பாடசாலைகளுக்கு-நாளையும்-விடுமுறை/175-338492) · `ta`
-
-The Sabaragamuwa Provincial Council has ordered closures for schools in Ratnapura, Kuruwita, and Eheliyagoda due to unspecified reasons. Conversely, schools in Galle and Matara are set to reopen. The Southern Provincial Education Secretary holds discretion over flood-damaged and displacement-related schools.
-
-🟩
-
-The Sabaragamuwa Provincial Council has decided to close down some schools in the Ratnapura and Nivithigala Education Zone.
-
-Accordingly, all schools in the Ratnapura Education Zone, Ratnapura, Kuruwita and Eheliyagoda will be closed.
-
-Meanwhile, all schools in the Galle and Matara districts are scheduled to open tomorrow.
-
-However, the Education Secretary of the Southern Provincial Education has been given the authority to decide on flood damaged schools and schools used for displaced persons.R
-
-◼️
-
-[Data](articles/39f04179.json)
-
-[Extended Data](ext_articles/39f04179.ext.json)
-
----
-
-### TNA will talk to all candidates before making final decision
-
-*2024-06-05 19:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/TNA-will-talk-to-all-candidates-before-making-final-decision/108-284183) · `en`
-
-Colombo, June 5 (Daily Mirror) - The Tamil National Alliance (TNA) will decide on whom to support at the next Presidential election only after discussions with all candidates, MP M.A. Sumanthiran said.
-
-"We will have to look at what the candidates come up with, and then we will hold discussions with them. Our final decision will be made only after this exercise," Sumanthiran told the media.
-
-Asked about the claim by the Samagi Jana Balawegaya (SJB) that the TNA will support its leader Sajith Premadasa at the Presidential election, Sumanthiran said the SJB should be dreaming if it thinks his party would support Premadasa.
-
-Also, he welcomed the land distribution programme carried out by the government. "The government's land distribution programme is good," he said.
-
-Further, he said the TNA is against fielding a Tamil candidate at the Presidential election.
-
-◼️
-
-[Data](articles/dfee1f66.json)
-
-[Extended Data](ext_articles/dfee1f66.ext.json)
 
 ---

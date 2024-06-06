@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-07 02:34:24**
+As of **2024-06-07 02:52:48**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,641
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,947 (100.0%) of 28,948 articles have been extended.
+28,948 (100.0%) of 28,948 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -210,19 +210,27 @@ There was little or no attempt by most Israeli-friendly nations to make use of t
 
 ---
 
-### ’கல்முனை வடக்கு பிரதேச செயலக விவகாரத்தை தீர்க்கவும்’
+### Solve the Kalmunai North Divisional Secretariat
 
 *2024-06-07 00:35:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கல்முனை-வடக்கு-பிரதேச-செயலக-விவகாரத்தை-தீர்க்கவும்/175-338574) · `ta`
 
-கல்முனை வடக்கு பிரதேச செயலக விவகாரம் தொடர்பில் விசாரணை குழுவொன்றை அமைத்து தீர்வுகளை முன்வைக்க நடவடிக்கை எடுக்கப்பட வேண்டும் என்று தமிழ்த் தேசியக் கூட்டமைப்பு பாராளுமன்ற உறுப்பினர் செல்வம் அடைக்கலநாதன் தெரிவித்துள்ளார்.
+Selvam Adakkalanathan urges setting up a committee to address issues at Kalmunai North Divisional Secretariat, highlighting the need for accountability and transparency. He also congratulates Narendra Modi and DMK Chairman Stalin on their electoral victories. Adakkalanathan calls for a thorough investigation into the Kalmunai matter and expresses concern over the wind farm project in Mannar district, emphasizing the importance of community consultation in resolving local grievances.
 
-பாராளுமன்றத்தில் வியாழக்கிழமை (06) நடைபெற்ற இலங்கை மின்சார சபை மறுசீரமைப்பு சட்டமூலம் மீதான விவாதத்தில் உரையாற்றும் போதே அவர் இதனை தெரிவித்தார்.
+🟩
 
-இந்திய தேர்தலில் மக்கள் ஆணையை பெற்று வெற்றிபெற்று மூன்றாவது முறையாக பிரதமராக பதவியேற்கவுள்ள நரேந்திர மோடிக்கு எமது வாழ்த்துக்களை கூறிக்கொள்கின்றோம். அத்துடன் தமிழ்நாட்டில் 40 ஆசனங்களை வெற்றிபெற்றுள்ள திராவிட முன்னேற்ற கழக ( திமுக) தலைவர் முதல்வர் ஸ்டாலினுக்கும் எமது வாழ்த்துக்களை கூறிக்கொள்கின்றேன்.
+Tamil National Alliance (TNA) parliamentarian Selvam Adakkalanathan said that steps should be taken to set up a committee on the Kalmunai North Divisional Secretariat issue.
+
+He was speaking at a debate on the Ceylon Electricity Board Reorganization Bill held in Parliament on Thursday (06).
+
+We congratulate Narendra Modi, who will win the people's mandate for the third time in the Indian election. I also congratulate the Dravida Munnetra Kazhagam (DMK) Chairman Stalin, who has won 40 seats in Tamil Nadu.
+
+Meanwhile, in 1993, the Cabinet resolution on the issue of Kalmunai has been working as a Divisional Secretariat for 30 years.. I ask that the cabinet decision be passed by Hansat. I am asking why the government will not take action to appoint an accountant on this issue and solve the issue.
 
 ...
 
 [Data](articles/b4fe65b4.json)
+
+[Extended Data](ext_articles/b4fe65b4.ext.json)
 
 ---
 

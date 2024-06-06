@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-07 00:06:02**
+As of **2024-06-07 00:19:06**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,641
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,923 (100.0%) of 28,932 articles have been extended.
+28,932 (100.0%) of 28,932 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -974,6 +974,8 @@ Opposition legislator Kabir Hashim said a minister was only a caretaker of a pub
 
 [Data](articles/40c9a84a.json)
 
+[Extended Data](ext_articles/40c9a84a.ext.json)
+
 ---
 
 ### Video game verb: knife on the boy
@@ -1051,6 +1053,8 @@ The CEB enjoys a monopoly in electricity in a way no other state-owned enterpris
 ...
 
 [Data](articles/f756d436.json)
+
+[Extended Data](ext_articles/f756d436.ext.json)
 
 ---
 
@@ -1162,6 +1166,8 @@ However, Peoples’ Bank only had a small exposure to defaulted sovereign dollar
 
 [Data](articles/32074598.json)
 
+[Extended Data](ext_articles/32074598.ext.json)
+
 ---
 
 ### Balangoda Kassapa Olders arrested
@@ -1223,6 +1229,8 @@ A bond maturing on 01.10.2032 closed stable at 11.90/12.00 percent. (Colombo/Jun
 ◼️
 
 [Data](articles/71f0276e.json)
+
+[Extended Data](ext_articles/71f0276e.ext.json)
 
 ---
 
@@ -1358,6 +1366,8 @@ Greece and Sri Lanka have both faced economic crises, which saw them both declar
 
 [Data](articles/b790bd72.json)
 
+[Extended Data](ext_articles/b790bd72.ext.json)
+
 ---
 
 ### WHO confirms first fatal human case of H5N2 bird flu
@@ -1471,6 +1481,8 @@ Other top contributors to the index included Ceylon Beverage Holdings Plc, which
 ...
 
 [Data](articles/99ebf931.json)
+
+[Extended Data](ext_articles/99ebf931.ext.json)
 
 ---
 
@@ -1800,6 +1812,8 @@ But he hasn’t yet said definitively that he intends to contest the election, a
 
 [Data](articles/b6d5ee77.json)
 
+[Extended Data](ext_articles/b6d5ee77.ext.json)
+
 ---
 
 ### Repeal electricity act
@@ -2074,6 +2088,8 @@ The details of the public consultation will be published tomorrow, Herath said.
 
 [Data](articles/fa9a9b84.json)
 
+[Extended Data](ext_articles/fa9a9b84.ext.json)
+
 ---
 
 ### Land issue stretches
@@ -2141,6 +2157,8 @@ The next category of households using 90-120 units are proposed to be charged 30
 ...
 
 [Data](articles/3fc870d4.json)
+
+[Extended Data](ext_articles/3fc870d4.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-06 10:05:12**
+As of **2024-06-06 10:18:53**
 
 ## Newspaper Stats
 
-*Scraped **28,755** Articles*
+*Scraped **28,756** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,27 +20,51 @@ adaderanalk | 3,258
 tamilmirrorlk | 3,379
 virakesarilk | 4,414
 dailymirrorlk | 4,562
-adaderanasinhalalk | 4,616
+adaderanasinhalalk | 4,617
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,752 (100.0%) of 28,755 articles have been extended.
+28,755 (100.0%) of 28,756 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-06 (Thursday)
 
-### ජනපතිගේ දේශපාලන කාර්යාලය විවෘත කෙරේ
+### ගංවතුරේ ගිලී පාසල් සිසුවෙක් මරුට
+
+*2024-06-06 09:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197449) · `si`
+
+බද්දේගම පොලිස් වසමේ ඇටවරමුල්ල ප්‍රදේශයේ දී පිරිමි දරුවෙකු දියේ ගිලී මියගොස් තිබේ.
+
+පොලීසිය සඳහන් කළේ, දරුවෙක් දියේ ගිලී ඇති බවට බද්දේගම පොලීසියට ලද පණිවුඩයක් මත පොලිස් නිලධාරීන්, ජීවිතාරක්ෂක නිලධාරීන් හා නාවික හමුදා භට පිරිස් එක්ව අනතුරට පත් දරුවා ගොඩට ගෙන බද්දේගම රෝහලට ඇතුළත් කිරීමේ දී මියගොස් තිබේ.
+
+එලෙස මියගොස් ඇත්තේ, අවුරුදු 17ක් වූ ගනේගම බටහිර, බද්දේගම ප්‍රදේශයේ පදිංචිකරුවෙකි.
+
+ගිං ගඟ පිටාර ගැලීමෙන් ඇති වූ ගංවතුර මත ටියුබයක ආධාරයෙන් මිතුරන් සමග විනෝද වෙමින් සිටිය දී ටියුබය පෙරළීමෙන් මෙම අනතුර සිදුව ඇතැයි පසුව අනාවරණය වුණි.
+
+◼️
+
+[Data](articles/8e877eaa.json)
+
+---
+
+### President declares open the political office
 
 *2024-06-06 09:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197448) · `si`
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ දේශපාලන කාර්යාලය මීට සුළු මොහොතකට පෙර කොළඹ දී විවෘත කර තිබේ.
+President Ranil Wickremesinghe inaugurated his political office in Colombo, marking a significant moment in Sri Lanka's political landscape.
+
+🟩
+
+President Ranil Wickremesinghe's political office was opened in Colombo a short while ago.
 
 ◼️
 
 [Data](articles/c87fe682.json)
+
+[Extended Data](ext_articles/c87fe682.ext.json)
 
 ---
 
@@ -81,6 +105,8 @@ He told the Daily Mirror that the UTUJC recently had a discussion with the Finan
 ...
 
 [Data](articles/bc4411c4.json)
+
+[Extended Data](ext_articles/bc4411c4.ext.json)
 
 ---
 
@@ -1714,6 +1740,8 @@ A large number of Sri Lankans work in the Maldives in high executive jobs in the
 
 [Data](articles/d8687d54.json)
 
+[Extended Data](ext_articles/d8687d54.ext.json)
+
 ---
 
 ### President Ranil reiterates commitment towards net zero on World Environment Day
@@ -2119,27 +2147,5 @@ Making a special speech in the Sri Lankan Parliament on Wednesday, Premadasa emp
 [Data](articles/d1f4a094.json)
 
 [Extended Data](ext_articles/d1f4a094.ext.json)
-
----
-
-### The Electricity Act can be passed with a simple majority
-
-*2024-06-05 19:08:14* · [`adalk`](https://www.ada.lk/breaking_news/විදුලිබල-පනත-සරල-බහුතරයකින්-සම්මත-කළ හැකියි/11-410036) · `si`
-
-The Electricity Act can pass with a simple majority after being endorsed by the Select Committee of Parliament and the Supreme Court's amendments. The bill, containing sector reforms, will be debated and approved by Parliament tomorrow.
-
-🟩
-
-Power and Energy Minister Kanchana Wijesekera said that the proposed new electricity bill and the Supreme Court's amendments were endorsed by the Select Committee of Parliament.
-
-Accordingly, the bill will be presented to the debate and approval of Parliament tomorrow (06).
-
-The new power bill contains reforms in the power sector, the new power bill, the Minister said that the simplest majority of Parliament can be passed in the Supreme Court.
-
-◼️
-
-[Data](articles/a504d947.json)
-
-[Extended Data](ext_articles/a504d947.ext.json)
 
 ---

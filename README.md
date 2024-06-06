@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-06 21:04:11**
+As of **2024-06-06 21:19:12**
 
 ## Newspaper Stats
 
-*Scraped **28,902** Articles*
+*Scraped **28,904** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,58 +19,110 @@ adalk | 2,473
 adaderanalk | 3,279
 tamilmirrorlk | 3,396
 virakesarilk | 4,437
-dailymirrorlk | 4,592
-adaderanasinhalalk | 4,638
+dailymirrorlk | 4,593
+adaderanasinhalalk | 4,639
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,898 (100.0%) of 28,902 articles have been extended.
+28,902 (100.0%) of 28,904 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-06 (Thursday)
 
-### දුම්රිය රියදුරන් හෙට වැඩ වර්ජනයක
+### කාසියේ වාසිය අමෙරිකාවට
+
+*2024-06-06 20:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197473) · `si`
+
+T20 ලෝක කුසලාන ක්‍රිකට් තරගාවලිය යටතේ අමෙරිකාව සහ පාකිස්තානය අතර තරගය අද (06) පැවැත්වෙයි.
+
+එහි කාසියේ වාසිය දිනා ගැනීමට අමෙරිකාව සමත්වූ අතර ඔවුන් තීරණය කළේ පළමුවෙන් පන්දුවට පහරදීමේ අවස්ථාව පාකිස්තානයට ලබාදීමටය.
+
+◼️
+
+[Data](articles/e9e98e40.json)
+
+---
+
+### Floods may trigger dengue epidemic, warns health expert
+
+*2024-06-06 20:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Floods-may-trigger-dengue-epidemic-warns-health-expert/108-284290) · `en`
+
+June 06 - While emphasizing the critical importance of effectively managing the spread of the dengue, Director of the National Dengue Control Unit Dr. Sudath Samaraweera noted that the current flood situation could potentially escalate the dengue outbreak to an epidemic level.
+
+Dr. Sudath Samaraweera, a specialist, made this revelation while participating in a special news conference held at the Presidential Media Centre today (06).
+
+He emphasized that dengue disease extends beyond mere health implications, presenting significant economic and social challenges.
+
+Dr. Samaraweera underscored that the Ministry of Health alone cannot effectively control the spread of dengue and requires full public support.
+
+Further he disclosed that within the last five months of this year, over 25,000 dengue cases and nine dengue-related deaths have been reported.
+
+◼️
+
+[Data](articles/6c9066f0.json)
+
+---
+
+### Railway drivers on strike tomorrow
 
 *2024-06-06 20:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197472) · `si`
 
-හෙට (07) දිනයේ සිට වෘත්තීය ක්‍රියාමාර්ගයකට අවතීර්ණ වෙන බව ලොකොමොටිව් ඔපරේටිං ඉංජිනේරු සංගමය පවසයි.
+Locomotive engineers will go on strike starting tomorrow due to disputes over pay raises and promotions.
 
-ඒ දුම්රිය එන්ජින් රියදුරන්ගේ දෙවන පෙළ උසස්වීම්, වැටුප් ගැටලු ඇතුළු තවත් කරුණු කිහිපයක් මුල්කර ගනිමිනි.
+🟩
+
+The Locometive Ocketan Association says that the trade union action will be taken to a trade union action from tomorrow (07).
+
+The location engine drivers are taking second-level promotions, salary issues.
 
 ◼️
 
 [Data](articles/55b4d66b.json)
 
+[Extended Data](ext_articles/55b4d66b.ext.json)
+
 ---
 
-### மேலும் 36 பாடசாலைகளுக்கு நாளை விடுமுறை
+### Tomorrow's holiday for 36 schools
 
 *2024-06-06 20:42:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மேலும்-36-பாடசாலைகளுக்கு-நாளை-விடுமுறை/175-338556) · `ta`
 
-மேல் மாகாணத்தின் 36 பாடசாலைகளுக்கு நாளையும் விடுமுறை வழங்கப்படவுள்ளதாக மேல் மாகாண கல்வி அமைச்சு  தெரிவித்துள்ளது.
+The Western Provincial Ministry of Education announced that 36 schools across Homagama, Sri Jayawardenapura, Kalutara, Horana, and Negombo Education Zones will have a holiday tomorrow.
 
-இதன்படி, ஹோமாகமை, ஸ்ரீ ஜயவர்தனபுர, களுத்துறை,ஹொரனை மற்றும் நீர்கொழும்பு கல்வி வலயத்திற்குட்பட்ட 36 பாடசாலைகளுக்கே நாளை விடுமுறை அறிவிக்கப்பட்டுள்ளது. R
+🟩
+
+The Western Provincial Ministry of Education has announced that 36 schools in the Western Province will be given holidays tomorrow.
+
+Accordingly, 36 schools in the Homagama, Sri Jayawardenapura, Kalutara, Horana and Negombo Education Zone. Remble
 
 ◼️
 
 [Data](articles/8157e22e.json)
 
+[Extended Data](ext_articles/8157e22e.ext.json)
+
 ---
 
-### இந்திய மக்களவைத் தேர்தல் - ஒரு பார்வை
+### Indian Lok Sabha election - a view
 
 *2024-06-06 20:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/185482) · `ta`
 
-நிறைவடைந்த இந்திய மக்களவைத் தேர்தல் பல சுவாரசியமான அம்சங்களை கொண்டிருக்கிறது. கடந்த பத்து ஆண்டுகளாக இந்தியாவில் ஆட்சி செய்து வரும் பாரதிய ஜனதா கட்சியும், அக்கட்சியின் பிரதமரான நரேந்திர மோடியும் பிரச்சாரத்தில் தெரிவித்தபடி 400 இடங்களை தேசிய ஜனநாயக கூட்டணி பெறவில்லை. அதற்கு மாறாக ஆட்சி நடத்துவதற்கு போதிய அளவிலான பெரும்பான்மையை மட்டுமே மக்கள் அக்கூட்டணிக்கு வழங்கி இருக்கிறார்கள்.
+In the recently concluded Indian Lok Sabha elections, the Bharatiya Janata Party (BJP) and its leader, Prime Minister Narendra Modi, did not secure the expected 400 seats but still achieved a significant majority. This result limits the BJP's ability to unilaterally implement reforms. Despite this, Modi was re-elected for a third term. The election saw several surprises, including independent candidates winning against major parties. For instance, Amrit Pal Singh, despite being imprisoned, won in the Katur Sahib constituency, and Mohammed Haneefa triumphed in Ladakh over both Congress and BJP candidates. These outcomes highlight the dynamic nature of Indian politics and the potential for independent voices to impact electoral results positively.
 
-இதன் மூலம் நாட்டில் சீர்திருத்தங்களை மேற்கொள்வதற்கு பாஜகவால் இனி தன்னிச்சையாக முடிவெடுக்க இயலாத சூழல் வாக்காளர்களால் உருவாக்கப்பட்டிருக்கிறது. மூன்றாவது முறையாக பிரதமர் நரேந்திர மோடிக்கு இந்திய வாக்காளர்கள் வாய்ப்பு வழங்கினாலும். இந்த முறை பாஜக கட்சி, அக்கட்சியின் பிரதமர் நரேந்திர மோடி ஆகியோர் தெலுங்கு தேச கட்சியின் தலைவரான சந்திரபாபு நாயுடு மற்றும் ஐக்கிய ஜனதா தள கட்சியின் தலைவரான நிதிஷ்குமார் ஆகியோரை கலந்து ஆலோசித்த பிறகே செயல்பட முடியும் என்ற நிலையை ஏற்படுத்தியிருக்கிறார்கள். இது ஜனநாயகத்திற்கு ஆரோக்கியமானது என தேர்தல் அரசியலில் அனுபவிக்க அரசியல் பார்வையாளர்கள் தெரிவித்திருக்கிறார்கள்.
+🟩
+
+The completed Indian Lok Sabha election has many interesting features. The Bharatiya Janata Party (BJP), which has been ruling in India for the past ten years, and the Prime Minister of the party, Narendra Modi, have not received 400 seats in the NDA's campaign.. Instead, only a large -scale majority to rule is to the people.
+
+This has created an environment where the BJP is no longer able to decide for reforms in the country.. Although Indian voters have been given the opportunity to Prime Minister Narendra Modi for the third time.This time the BJP and the party's Prime Minister Narendra Modi have made the position that Telugu Desam Party leader Chandrababu Naidu and Nitish Kumar, the leader of the United Janata Party, can be operated only after consultation.. Political observers have said that this is healthy for democracy.
 
 ...
 
 [Data](articles/0b0ca966.json)
+
+[Extended Data](ext_articles/0b0ca966.ext.json)
 
 ---
 
@@ -336,21 +388,29 @@ The petitioners claim that the proposed bills have been brought under the Presid
 
 ---
 
-### පළාත් පාලන මැතිවරණය නොපැවැත්වීමෙන් මූලික අයිතිවාසිකම් කඩකිරීම ගැන පෙත්සමේ තීන්දුව ඉදිරියේදී
+### Petition's verdict on violating fundamental rights by conducting local government elections
 
 *2024-06-06 18:23:11* · [`adalk`](https://www.ada.lk/breaking_news/පළාත්-පාලන-මැතිවරණය-නොපැවැත්වීමෙන්-මූලික-අයිතිවාසිකම්-කඩකිරීම-ගැන-පෙත්සමේ-තීන්දුව-ඉදිරියේදී/11-410060) · `si`
 
-පළාත් පාලන මැතිවරණය නොපැවැත්වීමෙන් ජනතාවගේ මුලික අයිතිවාසිකම් කඩකර ඇතැයි සඳහන් කරමින් ගොනු කර ඇති පෙත්සම් විභාගය අවසන් කළ පංච පුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ල මෙහි තීන්දුව ඉදිරියේදී ප්‍රකාශයට පත්කරන බව අද (06) ප්‍රකාශයට පත් කළේය.
+A top Supreme Court Bench ruled on petitions against the Elections Commission for allegedly violating fundamental rights through local government elections. The court, including CJ Jayantha Jayasuriya and others, named the commission and its members as respondents. The verdict awaits publication after considering petitions from various groups, including the People's Power and the CPA, regarding the violation of local government election rights.
 
-අගවිනිසුරු ජයන්ත ජයසූරිය, ශ්‍රේෂ්ඨාධිකරණ විනිසුරුවරුන් වන විජිත් මලල්ගොඩ, ගාමිණි අමරසේකර, මර්දු ප්‍රනාන්දු සහ යසන්ත කෝදාගොඩ  යන මහත්ම මහත්මීන්ගෙන් සැදුම්ලත් ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ලක් හමුවේ මෙම පෙත්සම් සලකා බැලීණි.
+🟩
 
-සමග ජන බලවේගය, ජාතික ජන බලවේගය, විකල්ප ප්‍රතිපත්ති කේන්ද්‍රය විසින් ගොනු කර තිබූ පෙත්සම්වල වගඋත්තකරුවන් වශයෙන් මැතිවරණ කොමිසම සහ එහි සාමාජිකයන් ඇතුළු පිරිසක් නම් කර ඇත.
+The top five-member Supreme Court Bench, which has been completed by the people who have violated the exams that has been violated by the local government, announced the verdict today.
 
-පළාත් පාලන මැතිවරණය නොපැවැත්වීමෙන් ජනතාවගේ මූලික අයිතිවාසිකම් කඩකරන ලදැයි සඳහන් කරමින් පළාත් පාලන මැතිවරණය පැවැත්වීමට නියෝග කරන්නැයි ඉල්ලා දේශපාලන පක්ෂ විසින් ගොනු කර ඇති පෙත්සම් කැඳවූ අවස්ථාවේදී එහි විභාගය අවසන් කළ ශ්‍රේෂ්ඨාධිකරණය තීන්දුව ඉදිරියේදී ප්‍රකාශයට පත් කරන බව සඳහන් කළේය.
+CJ Jayantha Jayasuriya, Supreme Court Judge Vijith Malalgoda, Gamini Amarasekara, Miru Fernando and Yasantha Kodagoda.
 
-...
+The Elections Commission and their members have been named as the respondents in the petitions filed by the people's power, the national folk force and the CPA.
+
+The Supreme Court is published in the future when the petitions filed by the political parties have been signed by the government's fundamental rights as they have violated the local government election by ignoring the local government elections.
+
+President's Counsel Upul Jayasuriya appeared for the National JNJel Hatch and the President's Counsel on behalf of the Attorney General for the Petitioner Samaga.
+
+◼️
 
 [Data](articles/cb6ebb73.json)
+
+[Extended Data](ext_articles/cb6ebb73.ext.json)
 
 ---
 
@@ -2191,53 +2251,5 @@ It is said that Narendra Modi's continuous leadership will bring a further advan
 [Data](articles/825fc16c.json)
 
 [Extended Data](ext_articles/825fc16c.ext.json)
-
----
-
-### Teenager drowns in flood waters while floating on tube
-
-*2024-06-06 11:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/99698/teenager-drowns-in-flood-waters-while-floating-on-tube) · `en`
-
-A 17-year-old boy has drowned in the flood waters in Atavaramulla area of Baddegama.
-
-The incident occurred while the teenager was riding a tube to stay afloat in flood waters caused by the overflow of the Ging River, along with his friends. The tube had reportedly overturned, causing the teenager to be swept away by the flood waters.
-
-After receiving information about the drowning, police officers, lifeguards, and navy personnel had responded and brought the boy ashore. However, he was pronounced dead upon admission to the Baddegama Hospital, Ada Derana reporter said.
-
-The deceased 17-year-old is a resident of Ganegama West, Baddegama, the police said.
-
-Meanwhile, the authorities have issued stern warnings to the public, advising against playing, observing, or venturing into floodwaters due to the high risk of accidents. They emphasize that floodwaters can be extremely dangerous, unpredictable, and capable of causing severe injuries or fatalities.
-
-◼️
-
-[Data](articles/5efab1ef.json)
-
-[Extended Data](ext_articles/5efab1ef.ext.json)
-
----
-
-### Action committee to prevent Gampaha from water
-
-*2024-06-06 11:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197452) · `si`
-
-A joint action committee, including public institutions like the Ministry of Urban Development and Housing, Urban Development Authority, and others, has been formed to tackle water issues in Gampaha District. Led by Urban Development and Housing Minister Prasanna Ranatunga, the committee aims to implement both short-term and long-term solutions to prevent water problems in the area.
-
-🟩
-
-It has been decided to appoint a joint action committee consisting of all public institutions to prevent Gampaha District from water.
-
-Urban Development and Housing Minister Prasanna Ranatunga's instructions WD. S. The decision was made in the meeting with the patronage of Mr. Alagananda and Gampaha District Secretary Lalgal Gamage.
-
-A discussion had been convened on the occasion as a discussion to prevent the Gampaha District and Gampaha to prevent water from water. It was held at the Gampaha District Secretariat auditorium.
-
-Deputy General Manager of Sri Lanka Land Development Corporation (Research & Planning Corporation) to prevent Gampaha District from Water Supply (Research & Planning) Engineering K.H. Mr. Keerthirathne offered a triumphant program.
-
-The meeting was decided to assign the joint action committee appointed to carry out this triumph program.
-
-...
-
-[Data](articles/e8bc242e.json)
-
-[Extended Data](ext_articles/e8bc242e.ext.json)
 
 ---

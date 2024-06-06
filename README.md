@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-06 21:53:45**
+As of **2024-06-06 22:18:47**
 
 ## Newspaper Stats
 
-*Scraped **28,909** Articles*
+*Scraped **28,910** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,30 +19,54 @@ adalk | 2,474
 adaderanalk | 3,280
 tamilmirrorlk | 3,396
 virakesarilk | 4,437
-dailymirrorlk | 4,595
+dailymirrorlk | 4,596
 adaderanasinhalalk | 4,640
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,904 (100.0%) of 28,909 articles have been extended.
+28,910 (100.0%) of 28,910 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-06 (Thursday)
 
-### ස්වාධින අපේක්ෂකයා ජනපති රනිල් - ‍ආශු
+### Catholic Church has nothing to do with extension of AG’s term
+
+*2024-06-06 21:38:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Catholic-Church-has-nothing-to-do-with-extension-of-AGs-term/108-284292) · `en`
+
+June 06 -  The Catholic Bishops' Conference of Sri Lanka (CBCSL) announced today that the Catholic Church in Sri Lanka had no involvement in the extension of the Attorney General's term.
+
+Our attention has been drawn to news articles published in several newspapers and other social and electronic media during the first week of June 2024 regarding a purported statement by the President concerning an extension granted to the term of the current Attorney General.
+
+These articles refer to an unfounded incident alleging that the Chairman of the CBCSL met with the President, resulting in the appointment of a three-member committee consisting of Secretary to the President Saman Ekanayake, Sagala Rathnayake, and Attorney General Sanjay Rajaratnam to discuss the Presidential Commission of Inquiry Report into the Easter Sunday attacks.
+
+...
+
+[Data](articles/cd8222f0.json)
+
+[Extended Data](ext_articles/cd8222f0.ext.json)
+
+---
+
+### Independent candidate Ranil - Desire
 
 *2024-06-06 21:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197475) · `si`
 
-මෙවර ජනාධිපතිවරණයට රනිල් වික්‍රමසිංහ මහතා නිසැක වශයෙන්ම ස්වාධින අපේක්ෂකයෙකු ලෙස ඉදිරිපත් වන බව ජනාධිපති උපදේශක මහාචාර්ය ආශු මාරසිංහ මහතා පවසයි.
+Ranil Wickremesinghe confirmed as an independent candidate for the presidential election by Presidential Advisor Professor Sought Marasinghe during the opening of the President's new political office in Colombo.
 
-ජනාධිපතිවරයාගේ නව දේශපාලන කාර්යාලය අද (06) කොළඹදී විවෘත කිරීම සම්බන්ධයෙන් අදහස් දක්වමින් ඔහු මේ බව සඳහන් කළේය.
+🟩
+
+Presidential Advisor Professor Sought Marasinghe says that Ranil Wickremesinghe is a definitely independent candidate for the presidential election.
+
+He was speaking at the opening of the President's new political office in Colombo today (06).
 
 ◼️
 
 [Data](articles/cf8cc7e1.json)
+
+[Extended Data](ext_articles/cf8cc7e1.ext.json)
 
 ---
 
@@ -57,6 +81,8 @@ The trade union action is being initiated over delays in second-class promotions
 ◼️
 
 [Data](articles/31928e76.json)
+
+[Extended Data](ext_articles/31928e76.ext.json)
 
 ---
 
@@ -157,6 +183,8 @@ He highlighted the lasting impact of such trauma, stressing the importance of un
 ...
 
 [Data](articles/d29f7c29.json)
+
+[Extended Data](ext_articles/d29f7c29.ext.json)
 
 ---
 
@@ -366,21 +394,29 @@ Nepal and Uganda have negotiated with the Special Investigation Department and s
 
 ---
 
-### “Starlink”ආයතනයට ලංකාවේ අනුමැතිය
+### "Starlink" is approved by Sri Lanka
 
 *2024-06-06 18:55:13* · [`adalk`](https://www.ada.lk/technology/“Starlink”ආයතනයට-ලංකාවේ-අනුමැතිය/5-410062) · `si`
 
-ශ්‍රී ලංකාව තුළ චන්ද්‍රිකා තාක්ෂණය ඔස්සේ අන්තර්ජාල පහසුකම් සේවාව සැපයීම සඳහා “Starlink” ස්ටර්ලින්ක් ආයතනය වෙත ශ්‍රී ලංකා විදුලි සංදේශ නියාමන කොමිෂන් සභාවේ මූලික අනුමැතිය හිමිව ඇති බව තාක්ෂණ රාජ්‍ය අමාත්‍ය කනක හේරත් මහතා පැවසීය.
+Sri Lanka's Telecommunications Commission has preliminarily approved Starlink to offer satellite-based internet services nationwide. The process includes gathering public feedback before full implementation. Starlink aims to enhance internet access for education, research, and fisheries, potentially offering faster speeds than current fiber technology. The service, which could cost between $400-$600 setup plus $99 monthly, is expected to significantly impact the tech sector and connectivity across the country.
 
-මෙම අන්තර්ජාල සේවා පහසුකමට අනුමැතිය ලබාදීම සඳහා මහජන අදහස් ලබා ගැනීමට දින 14ක කාලයක් වෙන් කර ඇති බවත් ඉන්පසුව විදුලි සංදේශ නියාමන කොමිෂන් සභාව මඟින් මෙම අන්තර්ජාල සේවාව ශ්‍රී ලංකාව තුළ ක්‍රියාත්මක කිරීමට හැකිවන බවද රාජ්‍ය අමාත්‍යවරයා සඳහන් කළේය.
+🟩
 
-තාක්ෂණ රාජ්‍ය අමාත්‍ය කනක හේරත් මහතා මෙම අදහස් පළ කළේ, ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ අද (06) පැවති මාධ්‍ය සාකච්ඡාවකට එක්වෙමිනි.
+"Starlink", "Starlink", "Starlink", has given the basic approval of the Telecommunications Commission of Sri Lanka to provide Internet facilities online in Sri Lanka.
 
-අධ්‍යාපන, පර්යේෂණ හා ධීවර ක්ෂේත්‍ර සඳහා වේගවත් අන්තර්ජාල සේවාවක් මෙමඟින් සැපයීය හැකි බවත් ලෝකයේ ඕනෑම තැනක සිට මෙම අන්තර්ජාල පහසුකම ලබා ගැනීමට ඇති හැකියාව ද තිබෙන බවද රාජ්‍ය අමාත්‍යවරයා සඳහන් කළේය.
+The Ministry of Public Sports stated that the approval has been allocated to obtain public comments to obtain this Internet Service facility and then the Telecommunication Regulatory Commission will be implemented in Sri Lanka.
+
+Minister of Technology Kanaka Herath made these comments participating at a press conference held at the Presidential Media Center today (06).
+
+The public minister said that this can provide a fast internet service for education, research and fisheries.
+
+President Ranil Wickremesinghe recently participated in the top session of the 10th World Water Conference of the 10th World Water Conference in Indonesia and discussed the acceleration of applying for Sri Lanka with the "Starlink" network..
 
 ...
 
 [Data](articles/dfca9c59.json)
+
+[Extended Data](ext_articles/dfca9c59.ext.json)
 
 ---
 
@@ -687,6 +723,8 @@ A total of 103 MPs voted in favour of the Bill while 59 MPs voted against.
 ◼️
 
 [Data](articles/4178cd33.json)
+
+[Extended Data](ext_articles/4178cd33.ext.json)
 
 ---
 
@@ -2185,25 +2223,5 @@ Meanwhile, for 60-90 units the charge is to be reduced to Rs. 18. The current ra
 [Data](articles/4fd6052a.json)
 
 [Extended Data](ext_articles/4fd6052a.ext.json)
-
----
-
-### Electricity tariff to be reduced from July 1: Kanchana
-
-*2024-06-06 12:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Electricity-tariff-to-be-reduced-from-July-1-Kanchana/108-284245) · `en`
-
-Parliament, June 6 (Daily Mirror) - The Ceylon Electricity Board (CEB) will submit its proposal on electricity tariff revision to the Public Utility Commission of Sri Lanka (PUCSL) tomorrow or on Monday, and the tariff revision will be effective from July 1, Power and Energy Minister Kanchana Wijesekara said today.
-
-He told Parliament that the CEB has proposed to reduce the electricity tariff for the category between 0 and 30 units by Rs. 2 from Rs. 8 to Rs. 6 per unit, and for the category between 30 and 60 units by Rs. 11 from Rs. 20 to Rs. 9.
-
-He said the category between 60 and 90 units will be reduced from Rs. 30 to Rs. 18, while 90 and 120 units will be reduced from Rs. 50 to Rs. 30.
-
-The Minister said if the PUCSL proposed that electricity consumers must be given more relief on tariffs, the CEB is ready to consider it.
-
-◼️
-
-[Data](articles/340d0938.json)
-
-[Extended Data](ext_articles/340d0938.ext.json)
 
 ---

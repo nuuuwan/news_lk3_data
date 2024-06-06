@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-06 18:24:36**
+As of **2024-06-06 18:35:43**
 
 ## Newspaper Stats
 
-*Scraped **28,874** Articles*
+*Scraped **28,885** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,35 +16,137 @@ islandlk | 1,553
 economynextcom | 1,642
 dailyftlk | 1,711
 adalk | 2,468
-adaderanalk | 3,277
+adaderanalk | 3,278
 tamilmirrorlk | 3,394
-virakesarilk | 4,427
-dailymirrorlk | 4,587
-adaderanasinhalalk | 4,635
+virakesarilk | 4,433
+dailymirrorlk | 4,590
+adaderanasinhalalk | 4,636
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,872 (100.0%) of 28,874 articles have been extended.
+28,874 (100.0%) of 28,885 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-06 (Thursday)
 
-### எதிர்ப்புக்கு மத்தியில் மின்சார சட்டமூலம் நிறைவேற்றம்
+### පනත් කෙටුම්පත් 2කට එරෙහි පෙත්සම් විභාග කෙරේ
+
+*2024-06-06 18:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197470) · `si`
+
+රජය විසින් පාර්ලිමේන්තුවට ඉදිරිපත් කර තිබෙන ආර්ථික පරිවර්තන පනත් කෙටුම්පත සහ රාජ්‍ය මූල්‍ය කළමනාකරණ පනත් කෙටුම්පතේ ඇතැම් වගන්ති ආණ්ඩුක්‍රම ව්‍යවස්ථාවට පටහැනි බවට තීන්දුවක් ලබා දෙන ලෙස ඉල්ලා ගොනුකර තිබෙන පෙත්සම් අද (06) ශ්‍රේෂ්ඨාධිකරණය හමුවේ විභාග කිරීම ආරම්භ වුණි.
+
+මෙම පෙත්සම් අද එස්. තුරෙයි රාජා, ඒ. එච්. එම්. ඩී. නවාස් සහ ශිරාන් ගුණරත්න යන ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ සලකා බැලීම සිදු කෙරෙයි.
+
+සර්වජන බලය සංවිධානයේ පාර්ලිමේන්තු මන්ත්‍රීවරුන් වන විමල් වීරවංශ, උදය ගම්මන්පිල, ගෙවිඳු කුමාරතුංග, මහාචාර්ය චන්න ජයසුමන සහ ව්‍යවසායක දිලිත් ජයවීර, වෛද්‍ය ජී. වීරසිංහ සහ නිමල් රණවක ඇතුළු පිරිසක් විසින් එක්ව පෙත්සම ඉදිරිපත් කර තිබේ.
+
+ඊට අමතරව සමගි ජන බලවේගය, පෙරටුගාමී සමාජවාදී පක්‍ෂය, ජාතික ජන බලවේගය, ඇතුළු පාර්ශ්ව 17 ක් විසින් පෙත්සම් ඉදිරිපත් කර ඇත.
+
+පෙත්සම්කරුවන් කියා සිටින්නේ යෝජිත පනත් කෙටුම්පත් තුළින් පාර්ලිමේන්තුව සතු රාජ්‍ය මූල්‍ය බලය ජනාධිපතිවරයා යටතට පත් කිරීමට කටයුතු කර ඇති බවය.
+
+◼️
+
+[Data](articles/b080d185.json)
+
+---
+
+### ‘Sri Lanka Electricity Bill’ passed with amendments
+
+*2024-06-06 18:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/99714/sri-lanka-electricity-bill-passed-with-amendments) · `en`
+
+Speaker of the Parliament Mahinda Yapa Abeywardena announced to the House this evening (06) that the third reading of the ‘Sri Lanka Electricity Bill’ was passed in the Parliament with amendments.
+
+Meanwhile, the second reading of the draft bill was also passed in the Parliament with a majority of 44 votes.
+
+The ‘Sri Lanka Electricity Bill’, which incorporates the proposed reforms for the electricity sector, was presented to the parliament by Power and Energy Minister Kanchana Wijesekera on April 25. It was published in the government gazette on 17 April.
+
+The Bill seeks to provide for the establishment of the National Electricity Advisory Council and make the Public Utilities Commission of Sri Lanka (PUCSL) the regulator for the electricity industry in terms of the proposed legislation.
+
+...
+
+[Data](articles/e7ab91a4.json)
+
+---
+
+### Schools to be networked and digitized by July
+
+*2024-06-06 18:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Schools-to-be-networked-and-digitized-by-July/108-284276) · `en`
+
+Colombo, June 6 (Daily Mirror) - By the end of July, all schools offering various subject streams will be brought together, and their information will be networked and digitized, Education Minister Susil Premajayantha said.
+
+While attending a programme today at Nalanda Vidyalaya, Colombo, as the chief guest for the commencement of the Advanced Level (A/L) studies for students who recently passed the Ordinary Level (O/L) examinations, the Minister announced that approximately 1,500 leading schools will be networked. He also stated that the pilot project for teaching artificial intelligence, which has already begun, will be implemented in these schools by January 2025.
+
+Additionally, it is essential to provide the necessary training for teachers. This includes updating their knowledge and skills with the use of smart boards and internet resources, he added.
+
+He said the teachers should also be equipped to handle challenges such as managing professional responsibilities when taking sick leave.
+
+...
+
+[Data](articles/86e67a35.json)
+
+---
+
+### Amidst opposition
 
 *2024-06-06 17:55:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எதிர்ப்புக்கு-மத்தியில்-மின்சார-சட்டமூலம்-நிறைவேற்றம்/175-338551) · `ta`
 
-எதிர்க்கட்சிகளின் கடும் எதிர்ப்புக்களுக்கு  மத்தியில் மின்சார சபை மறுசீரமைப்பு சட்டமூலம் 44  மேலதிக வாக்குகளினால் நிறைவேற்றப்பட்டது.
+Despite fierce opposition and constitutional concerns highlighted by the High Court regarding 54 clauses in the Electricity Board Reorganization Bill, it was passed with 103 votes in favor and 59 against. Key opposition figures and several independent MPs supported the government, while major opposition parties boycotted the vote. The bill's passage was secured by 44 additional votes, despite the absence of 62 MPs from both sides.
 
-இந்த சட்டமூலத்திற்கு ஆதரவாக103 வாக்குகளும் எதிராக 59 வாக்குகளும் அளிக்கப்பட்ட நிலையிலேயே 44மேலதிக வாக்குகளினால் சட்டமூலம் நிறை வேற்றப்பட்டது.  அரசு மற்றும் எதிர் கட்சிகளை சேர்ந்த 62  எம்.பி.க்கள் வாக்கெடுப்பில் பங்கேற்கவில்லை.
+🟩
 
-மின்சார சபை மறுசீரமைப்பு சட்டமூலத்தில்  54 ஏற்பாடுகள் காணப்படுகின்ற நிலையில் அவற்றில் பெரும்பாலான சரத்து விதிகள் அரசியலமைப்புக்கு முரணானது என்று உயர்நீதிமன்றம் குறிப்பிட்டுள்ளது.அத்துடன் அரசியலமைப்பின் 12(1) பிரிவின் விதிகளை மீறும் வகையில் ஒருசில ஏற்பாடுகள் காணப்படுவதாகவும் நீதிமன்றம் குறிப்பிட்டுள்ளது.ஆகவே இதனை அலட்சியப்படுத்த முடியாது.சட்டமூலத்தை முழுமையாக ஆராய்ந்து  முறையான மாற்றங்களை ஏற்படுத்த வேண்டும்  .அதனால் உடனடியாக நிறைவேற்ற வேண்டாம் என எதிர்க்கட்சிகள் வலியுறுத்தின.
+Amidst the fierce opposition of the opposition parties, the Electricity Board Reorganization Bill was passed by 44 additional votes.
+
+The bill was passed by 44 additional votes, with 103 votes and 59 votes in favor of the bill..  அரசு மற்றும் எதிர் கட்சிகளை சேர்ந்த 62  எம்.பி.க்கள் வாக்கெடுப்பில் பங்கேற்கவில்லை.
+
+The High Court has stated that there are 54 arrangements in the Electricity Board Reorganization Bill and that most of them are contrary to the constitution.Opposition parties insisted on not.
+
+However, the opposition parties urged the government to hold a debate at least two days if the government stood up in the launch of the debate on the Bill on Thursday morning (06) morning.. The government, which rejected the two demands of the opposition parties, was debating the bill when there was a fierce controversy over this and the logic between the government and the opposition parties.
 
 ...
 
 [Data](articles/7e60b9c4.json)
+
+[Extended Data](ext_articles/7e60b9c4.ext.json)
+
+---
+
+### காசாவில்  ஐநா பாடசாலை மீது இஸ்ரேல் மேற்கொண்ட தாக்குதலில் கொல்லப்பட்டவர்களில் 14 பேர் சிறுவர்கள் - காசா சுகாதார அமைச்சு
+
+*2024-06-06 17:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/185471) · `ta`
+
+காசாவின் மத்தியில் உள்ள ஐநாவின் பாடசாலைமீது இஸ்ரேல் மேற்கொண்ட தாக்குதலில் 14 சிறுவர்கள் உட்பட 40 பேர் கொல்லப்பட்டுள்ளதாக காசாவின் சுகாதார அமைச்சின் அதிகாரிகள் தெரிவித்துள்ளனர்.
+
+40 பேரில் 14 பேர் சிறுவர்கள் 9 பேர் பெண்கள் என காசாவின் சுகாதார அமைச்சின் அதிகாரிகள் இருவர் ரொய்ட்டருக்கு தெரிவித்துள்ளனர்.
+
+நுசெய்ரட் அகதிமுகாமில் உள்ள பாடசாலையின் மேல்தளத்தில் காணப்பட்ட இரண்டு வகுப்பறைகள் மீது இஸ்ரேலிய விமானங்கள் ஏவுகணை தாக்குதலை மேற்கொண்டன என நேரில் பார்த்த ஊடகவியலாளர்கள் தெரிவித்துள்ளனர்.
+
+போதும் நாங்கள் பல தடவை இடம்பெயர்ந்துள்ளோம் உறக்கத்திலிருந்த நான்கு பிள்ளைகளை அவர்கள் கொன்றுவிட்டனர் என காயமடைந்த பெண்ணொருவர் கதறுவதை வீடியோ காண்பித்துள்ளது.
+
+ஆக்கிரமிப்பு படையினர் இடம்பெயர்ந்த மக்களிற்கு எதிராக தாங்கள் மேற்கொள்ளும் ஈவிரக்கமற்ற போரை நியாயப்படுத்த கட்டுக்கதைகளை வெளியிடுகின்றனர் என ஹமாஸ் தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/3f82cc2b.json)
+
+---
+
+### பயங்கரவாத எதிர்ப்பு பொலிஸாரை களமிறக்கி 'தமிழ் மக்களின் வாழ்வை சிதைக்கும் திட்டம்'
+
+*2024-06-06 17:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/185467) · `ta`
+
+வடக்கு, கிழக்கில் அரசியல் செயற்பாட்டாளர்களை தொடர்ச்சியாக விசாரணை செய்து அச்சுறுத்தி தமிழ் மக்களின் இயல்பு வாழ்க்கையை சிதைக்கும் திட்டத்தை பயங்கரவாத தடுப்பு பொலிஸார் முன்னெடுத்து வருவதாக தமிழ் அரசியல் தலைவர் ஒருவர் குற்றஞ்சாட்டியுள்ளார்.
+
+கடந்த மூன்று மாதங்களில் மாத்திரம் பயங்கரவாத தடுப்பு மற்றும் புலனாய்வுப் பிரிவினரால் (CTID) அழைக்கப்பட்ட ஏழு தமிழர்களின் விபரங்களைத் தெரிவித்த, இலங்கை தமிழ் அரசு கட்சியின் நாடாளுமன்ற உறுப்பினர் சிவஞானம் சிறீதரன், இந்த அடக்குமுறையை நிறுத்துமாறு ஜனாதிபதியிடம்  கேட்டுக் கொண்டுள்ளார்.
+
+ஜூன் 4ஆம் திகதி ஜனாதிபதி ரணில் விக்ரமசிங்கவிற்கு அனுப்பிய கடிதத்தின் பிரதி அன்றைய தினமே நாடாளுமன்றத்திலும் அவரால் சமர்ப்பிக்கப்பட்டது.
+
+கடிதம் அனுப்பப்பட்ட தினமான ஜுன் 4ஆம் திகதி தமிழ் அரசு கட்சியின் மத்திய செயற்குழு உறுப்பினர் கருப்பையா ஜெயக்குமார் பயங்கரவாத தடுப்பு மற்றும் புலனாய்வுப் பிரிவின் கிளிநொச்சி அலுவலகத்திற்கு அழைக்கப்பட்டு விசாரிக்கப்பட்டுள்ளார்.
+
+...
+
+[Data](articles/1d561d91.json)
 
 ---
 
@@ -69,6 +171,22 @@ After the incident, he fled the area and drank poison in a secret place. A perso
 [Data](articles/1fe463f7.json)
 
 [Extended Data](ext_articles/1fe463f7.ext.json)
+
+---
+
+### Update:  Parliament approves Electricity Bill
+
+*2024-06-06 17:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Update-Parliament-approves-Electricity-Bill/108-284281) · `en`
+
+Parliament, June 06 (Daily Mirror)- The Sri Lanka Electricity Bill was passed in Parliament with amendments.
+
+A vote was taken for the second reading of the Sri Lanka Electricity Bill and it was passed with a majority of 44 votes.
+
+A total of 103 MPs voted in favour of the Bill while 59 MPs voted against.
+
+◼️
+
+[Data](articles/c299c363.json)
 
 ---
 
@@ -109,6 +227,22 @@ Opposition parliamentarians including those from the ‘Samagi Jana Balawegaya�
 [Data](articles/4577fb0d.json)
 
 [Extended Data](ext_articles/4577fb0d.ext.json)
+
+---
+
+### எதிர்க்கட்சித் தலைவர் சஜித் யாழ் விஜயம்!
+
+*2024-06-06 17:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/185465) · `ta`
+
+ஐக்கிய மக்கள் சக்தியின் தலைவரும் எதிர்க்கட்சித் தலைவருமான சஜித் பிரேமதாச எதிர்வரும் ஞாயிற்றுக்கிழமை (09) தொடக்கம் வியாழக்கிழமை வரை (13) யாழ்ப்பாண தேர்தல் மாவட்டத்திற்கு விஜயம் செய்யவுள்ளார்.
+
+குறித்த விடயத்தை ஐக்கிய மக்கள் சக்தியின் ஊடகப் பேச்சாளரும் பிரதிச் செயலாளருமான உமாச்சந்திரா பிரகாஷ் தெரிவித்தார்.
+
+எதிர்வரும் ஞாயிற்றுக்கிழமை (9) கிளிநொச்சி தொகுதி பிரதம அமைப்பாளர் மரியதாஸ் மரியசீலன் தலைமையில் கிளிநொச்சி பாரதி வித்தியாலயம், யாழ்ப்பாண தொகுதி பிரதம அமைப்பாளர் வெற்றிவேலு யஜேந்திரன் தலைமையில் வைத்தீஸ்வரா கல்லூரி, நல்லூர் தொகுதி பிரதம அமைப்பாளர் அ. கிருபாகரன் தலைமையில் சென். பெனடிக்ற் வித்தியாலயம் ஆகிய பாடசாலைகளுக்கு தலா 11 லட்சம் பெறுமதியான ஸ்மார்ட் வகுப்பறைகளை வழங்கி வைப்பார்.
+
+...
+
+[Data](articles/8fdbebfa.json)
 
 ---
 
@@ -215,6 +349,24 @@ On Wednesday evening (05), the 13-year-old boy visited the neighboring house whe
 [Data](articles/0167611d.json)
 
 [Extended Data](ext_articles/0167611d.ext.json)
+
+---
+
+### யாழ்.அச்சுவேலி உலவிக்குளம் ஆலய உப தலைவர் மீது கோடாரியினால் தாக்குதல்
+
+*2024-06-06 16:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/185461) · `ta`
+
+யாழ்ப்பாணம் அச்சுவேலி உலவிக்குளம் ஆலய உப தலைவர் மீது கோடாரியினால் தாக்குதல் நடத்தப்பட்டுள்ளது.  அச்சுவேலி பகுதியை சேர்ந்த 38 வயதுடைய நபர் மீதே தாக்குதல் நடத்தப்பட்டுள்ளது.
+
+குறித்த நபர் வேலைக்கு செல்வதற்காக இன்று வியாழக்கிழமை (06) காலை , தனது மோட்டார் சைக்கிளில் பயணித்துக்கொண்டிருந்த வேளை , உலவிக்குளம் பிள்ளையார் கோவிலுக்கு முன்பாக இரண்டு மோட்டார் சைக்கிளில் வந்த ஐவர் அடங்கிய வன்முறை கும்பல் நபரை வழிமறித்து தாக்குதல் மேற்கொண்டு , கோடரியினால் தாக்கி படுகாயம் ஏற்படுத்தி விட்டு தப்பி சென்றுள்ளனர்.
+
+தாக்குதலாளிகள் தங்கள் முகங்களை கறுத்த துணியினால் மூடிக்கட்டி இருந்தனர் என தாக்குதலுக்கு இலக்கான நபர் பொலிசாரிடம் தெரிவித்துள்ளார் .
+
+காயமடைந்த நபர் அச்சுவேலி வைத்தியசாலையில் சிகிச்சை பெற்று வரும் நிலையில் அச்சுவேலி பொலிஸார் விசாரணைகளை முன்னெடுத்துள்ளனர்.
+
+...
+
+[Data](articles/2127a292.json)
 
 ---
 
@@ -374,6 +526,24 @@ It is proposed to sign an Investment Protection Treaty, Double Tax Avoidance Agr
 
 ---
 
+### வடக்கு,கிழக்கு, மலையக மாணவர்களின் கல்வி வளர்ச்சிக்கு கல்வியலாளர்கள் ஒன்றிணைய வேண்டும்  ; உயர்தர பரீட்சை முடிவுகள் மனதிற்கு நிம்மதி தருகிறது - கலாநிதி ஆறு திருமுருகன்
+
+*2024-06-06 16:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/185451) · `ta`
+
+வடக்கு ,கிழக்கு மற்றும் மலையக மாணவர்களின் கல்வி வளர்ச்சிக் கல்வியலாளர்கள் ஒன்றிணைய வேண்டும். வடக்கின்  க.பொ.த உயர்தர பரீட்சை முடிவுகள் மனதிற்கு நிம்மதி தருகிறது என  தொல்லிப்பளை துர்கை அம்மன் தேவஸ்தான தலைவர் கலாநிதி ஆறு திருமுருகன் தெரிவித்தார்.
+
+கல்வி பொதுதராதர உயர்தர பரீட்சை முடிவுகள் மற்றும் கல்வி நிலமைகள் தொடர்பில் கேட்டபோதே அவர் இதனை தெரிவித்தார்.
+
+வடக்கில் கல்விப் பெறுபேறுகள் அதிகரித்துள்ளமை பாராட்டத்தக்கது அண்மையில் வெளியான  உயர் தரப் பரீட்சைகளின் பெறுபேறுகள் வடக்கு மாகாணத்தை பொறுத்த வரையில்  மனதிற்கு திருப்தி தருகின்றது. இந்த முயற்சிகளை எடுத்த பாடசாலை அதிபர் ஆசிரியர்களுக்கு  பாராட்டுக்கள்.
+
+வடக்கின் கல்வி தொடர்பாக பல்வேறு குற்றச்சாட்டுக்கள் இருந்தபோதிலும் இவற்றைப் பொருட்படுத்தாது பாடசாலை அதிபர், ஆசிரியர்கள், கூடிய கவனம் எடுத்து ஆர்வம் காட்டியமை பாராட்டத்தக்கது.இவ்வாறானவர்களுக்கு எமது நன்றியுடையவர்களாக இருப்பதுடன் இவர்களுக்கு உதவிகளையும் செய்யவேண்டும்.
+
+...
+
+[Data](articles/2c428ec0.json)
+
+---
+
 ### ICC stands firm on New York despite India pitch fears
 
 *2024-06-06 16:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/ICC-stands-firm-on-New-York-despite-India-pitch-fears/108-284269) · `en`
@@ -469,6 +639,22 @@ The judge bench, which concluded the hearing of the petitions following the comp
 [Data](articles/2f970bf3.json)
 
 [Extended Data](ext_articles/2f970bf3.ext.json)
+
+---
+
+### ஐ.நா.வின் வதிவிட பிரதிநிதி முல்லைத்தீவு மாவட்ட செயலாளருடன் சந்திப்பு
+
+*2024-06-06 15:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/185450) · `ta`
+
+இலங்கைக்கான ஐக்கிய நாடுகள் சபையின் வதிவிட  பிரதிநிதி மார்க் ஆண்ட்ரே பிராஞ் (Marc-André Franche) இன்று வியாழக்கிழமை (06)  முல்லைத்தீவு மாவட்டத்திற்கு விஜயம் மேற்கொண்டுள்ளார்.
+
+இதன்போது, முல்லைத்தீவு மாவட்ட செயலகத்திற்கும் சென்று மாவட்டச் செயலாளர் அ.உமா மகேஸ்வரனுடன் முல்லைத்தீவு மாவட்டத்தின் அபிவிருத்தித் தேவைகள், மக்கள் எதிர்நோக்கும் பல்வேறு சவால்கள் குறித்து கலந்துரையாடலை மேற்கொண்டார்.
+
+இக்கலந்துரையாலில் மாவட்ட மேலதிக அரசாங்க அதிபர் எஸ்.குணபாலன்,  மாவட்ட பதில் திட்டமிடல் பணிப்பாளர். வா.கிருபாசுதன் அபிவிருத்தி உத்தியோகத்தர் ரஜனிக்காந் மற்றும் ஐக்கிய நாடுகள் அபிவித்தித் திட்டத்தின் அதிகாரிகளும் கலந்து கொண்டனர்.
+
+◼️
+
+[Data](articles/605c8a24.json)
 
 ---
 
@@ -589,6 +775,18 @@ It was also reported that the incident occurred after the 14-year-old child warn
 [Data](articles/ed37e08b.json)
 
 [Extended Data](ext_articles/ed37e08b.ext.json)
+
+---
+
+### Repeal electricity act
+
+*2024-06-06 15:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Repeal-electricity-act/110-284265) · `en`
+
+A protest in front of the Ceylon Electricity Board (CEB) head office today demanding the authorities to repeal the Electricity Act, which is harmful to consumers. Pix by Nimalsiri Edirsinghe
+
+◼️
+
+[Data](articles/ea734ce1.json)
 
 ---
 
@@ -1977,243 +2175,5 @@ President Ranil Wickremesinghe inaugurated his political office in Colombo this 
 [Data](articles/c5715c3d.json)
 
 [Extended Data](ext_articles/c5715c3d.ext.json)
-
----
-
-### SC quashes Presidential Pardon granted to Jude Jayamaha in Royal Park case
-
-*2024-06-06 10:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/SC-quashes-Presidential-Pardon-granted-to-Jude-Jayamaha-in-Royal-Park-case/155-284236) · `en`
-
-Colombo, June 6 (Daily Mirror) - In another landmark judgment pertaining to the scope of the pardon granted by the executive President, the Supreme Court today ruled that former President Maithripala Sirisena's decision to grant a Presidential pardon to to Royal Park murder convict Don Shamantha Jude Anthony Jayamaha is arbitrary and not valid in law.
-
-Accordingly, the Supreme Court three-judge-bench comprising Justices S. Thurairaja, Yasantha Kodagoda and Janak de Silva ordered to set aside two Presidential pardons granted to Shamantha Jude Anthony Jayamaha for not following the Constitutional provisions.
-
-The Supreme Court declared that former President Maithripala Sirisena violated the Fundamental Rights of the petitioner and public trust doctrine while granting presidential pardon to the above mentioned respondent.
-
-...
-
-[Data](articles/11129e55.json)
-
-[Extended Data](ext_articles/11129e55.ext.json)
-
----
-
-### SC quashes Presidential Pardon granted to Jude Jayamaha in Royal Park case
-
-*2024-06-06 10:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SC-quashes-Presidential-Pardon-granted-to-Jude-Jayamaha-in-Royal-Park-case/108-284236) · `en`
-
-Colombo, June 6 (Daily Mirror) - In another landmark judgment pertaining to the scope of the pardon granted by the executive President, the Supreme Court today ruled that former President Maithripala Sirisena's decision to grant a Presidential pardon to to Royal Park murder convict Don Shamantha Jude Anthony Jayamaha is arbitrary and not valid in law.
-
-Accordingly, the Supreme Court three-judge-bench comprising Justices S. Thurairaja, Yasantha Kodagoda and Janak de Silva ordered to set aside two Presidential pardons granted to Shamantha Jude Anthony Jayamaha for not following the Constitutional provisions.
-
-The Supreme Court declared that former President Maithripala Sirisena violated the Fundamental Rights of the petitioner and public trust doctrine while granting presidential pardon to the above mentioned respondent.
-
-...
-
-[Data](articles/e184257f.json)
-
-[Extended Data](ext_articles/e184257f.ext.json)
-
----
-
-### Joint Steering Committee to Prevent Gampaha Water Supply
-
-*2024-06-06 10:30:31* · [`adalk`](https://www.ada.lk/breaking_news/ගම්පහ-ජලයෙන්-යටවීම-වැලැක්වීමට-ඒකාබද්ධ-මෙහෙයුම්-කමිටුවක්/11-410045) · `si`
-
-A Joint Steering Committee was formed to address water supply issues in Gampaha, chaired by Urban Development and Housing Minister Prasanna Ranatunga. The committee includes various departments and aims to implement a triumphant program to prevent water shortages. Short-term and long-term measures have been initiated, including cleaning identified locations and reconstructing canals. The main challenge is flooding due to heavy rains, affecting thousands of families. Plans to improve infrastructure and manage rainwater are underway to prevent future disasters.
-
-🟩
-
-Urban Development and Housing Minister Prasanna Ranatunga. Mr. Vitananda and Gampaha District Secretary Lalinda Gamage was chaired by the decision.
-
-A discussion had been convened on the occasion as a discussion to prevent the Gampaha District and Gampaha to prevent water from water. It was held at the Gampaha District Secretariat auditorium.
-
-Deputy General Manager of Sri Lanka Land Development Corporation (Research & Planning Corporation) to prevent Gampaha District from Water Supply (Research & Planning) Engineering K.H. Mr. Keerthirathne offered a triumphant program.
-
-The meeting was decided to assign the joint operations committee that was responsible for implementing this triumph program.. The committee consists of the Ministry of Urban Development and Housing, Urban Development Authority, Irrigation Department, Ministry of Highways, Department of Highways, Department of Agrarian Services and Local Authorities. This program is being implemented as short-term and medieval long term.
-
-...
-
-[Data](articles/ae4f41b4.json)
-
-[Extended Data](ext_articles/ae4f41b4.ext.json)
-
----
-
-### Israel attack on UN school in central Gaza- 27 Palestinians killed
-
-*2024-06-06 10:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/185419) · `ta`
-
-In a tragic incident, an Israeli airstrike on a UN school in central Gaza resulted in the death of 27 Palestinians, including over a hundred displaced individuals seeking refuge there. The attack targeted two classrooms on the school's roof, as reported by eyewitness journalists. This event adds to the ongoing struggles of displacement faced by many, with Hamas criticizing Israel's justifications for its actions against displaced civilians.
-
-🟩
-
-An Israeli attack on a UN school where more than one hundred displaced persons have sought asylum have been killed.
-
-According to journalists who witnessed the Israeli airplane attack on two classrooms found on the top of the school in Nusair
-
-We have been displaced many times.
-
-Hamas has reported that the occupation forces are publishing myths to justify their ruthless war against displaced people.
-
-◼️
-
-[Data](articles/8597fd85.json)
-
-[Extended Data](ext_articles/8597fd85.ext.json)
-
----
-
-### Ranil Wickremesinghe's political office opened
-
-*2024-06-06 10:24:09* · [`adalk`](https://www.ada.lk/breaking_news/රනිල්-වික්‍රමසිංහ-මහතාගේ-දේශපාලන-කාර්යාලය-විවෘත-කෙරේ/11-410044) · `si`
-
-President Ranil Wickremesinghe launched his political office in Colombo, preparing for the upcoming presidential election campaigns.
-
-🟩
-
-President Ranil Wickremesinghe opened his political office in Colombo today for the next presidential election political operations.
-
-◼️
-
-[Data](articles/b299e8bf.json)
-
-[Extended Data](ext_articles/b299e8bf.ext.json)
-
----
-
-### ආපදාවට පත් පවුලකට ආහාර දෙන්න දෙන වියදම සියයට 33කින් ඉහ‍ලට
-
-*2024-06-06 10:19:02* · [`adalk`](https://www.ada.lk/breaking_news/ආපදාවට-පත්-පවුලකට-ආහාර-දෙන්න-දෙන-වියදම-සියයට-33කින්-ඉහ‍ලට/11-410043) · `si`
-
-අයහපත් කාලගුණ තත්ත්වය හේතුවෙන් පීඩාවට පත් ජනතාවට සහන සැලසීම සඳහා පිසූ ආහාර සහ වියලි ආහාර ලබා දීමට පවුලක් වෙනුවෙන් මීට පෙර ලබා දුන් මුදල 33%කින් ඉහළ නැංවීමට කටයුතු කළ බව මුදල් රාජ්‍ය අමාත්‍ය ආචාර්ය රංජිත් සියඹලාපිටිය මහතා කියයි.
-
-ආපදා කළමනාකරණ විෂය භාර ආරක්ෂක අමාත්‍යාංශයේ ලේකම්වරයා විසින් මීට අදාළ ඉල්ලීම කර තිබූ අතර ඊට ජනාධිපතිවරයා විසින් කඩිනමින් අනුමැතිය ලබා දුන් බවයි අමාත්‍යවරයා සඳහන් කළේ.
-
-මීට අමතරව පීඩාවට පත් ජනතාව වෙත තව දුරටත් සහන ලබා දිම සඳහා ඉල්ලා තිබූ අතිරේක මුදල් ද ක්ෂණිකව දිස්ත්‍රික් ලේකම්වරුන් වෙත මුදා හැරීමට කටයුතු කළ බව ද අමාත්‍යවරයා පෙන්වා දුන්නේ ය.
-
-◼️
-
-[Data](articles/bc53757e.json)
-
----
-
-### Easy win to Australia
-
-*2024-06-06 10:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197450) · `si`
-
-Australia triumphed over Oman in the T20 World Cup, scoring 164/5 with Marcus Stoinis not out on 66 and David Warner contributing 56. Oman replied with 125/9, securing Australia's victory.
-
-🟩
-
-Australia won the match between Oman and Australia in the Twenty20 World Cup.
-
-Batting first, Australian team scored 164 runs for the loss of 5 wickets for their innings.
-
-Marcus Stoyinis was unbeaten on 66 balls. David Warner is 56 runs.
-
-In reply, the oubi group scored 125 runs in the loss of 9 wickets in 20 overs.
-
-◼️
-
-[Data](articles/37efabfd.json)
-
-[Extended Data](ext_articles/37efabfd.ext.json)
-
----
-
-### Teen dies after assault by student in tuition class
-
-*2024-06-06 10:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Teen-dies-after-assault-by-student-in-tuition-class/108-284235) · `en`
-
-Hambantota, June 6 (Daily Mirror) - A 17-year-old student was arrested for fatally assaulting a 15-year-old student in Sippikulama, Hambantota.
-
-The victim, a grade 10 student from Hambantota, succumbed to injuries sustained during the attack, while receiving treatment at the Hambantota Hospital yesterday.
-
-Investigations revealed that the deceased student had gone to the Sippikulama area to attend a tuition class and a student from another school in Hambantota city had approached the class and assaulted the victim due to a dispute.
-
-Hambantota Police are currently conducting further inquiries into the incident.
-
-◼️
-
-[Data](articles/7f24ee1f.json)
-
-[Extended Data](ext_articles/7f24ee1f.ext.json)
-
----
-
-### Sri Lanka rupee opens weaker at 302.48/55 to US dollar
-
-*2024-06-06 10:14:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-weaker-at-302-48-55-to-us-dollar-166544/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee edged up to 302.48/55 to the US dollar on Thursday in the first half-hour of trading, while bond yields were down and stocks opened 0.56 percent higher, dealers said.
-
-Sri Lanka rupee closed at 302.35/45 to the greenback on Wednesday.
-
-In the secondary market, yields were slightly down, dealers said.
-
-A bond maturing on 15.12.2026 was quoted at 9.80/90 percent up from 9.85/90 percent.
-
-A bond maturing on 15.09.2027 was quoted at 10.45/50 percent up from 10.40/55 percent.
-
-A bond maturing on 01.07.2028 was quoted at 10.80/90 percent down from 10.90/11.00 percent.
-
-A bond maturing on 15.05.2030 closed at 11.70/80 percent down from 11.75/90 percent.
-
-A bond maturing on 01.10.2032 closed at 11.85/95 percent down from 11.90/12.00 percent.
-
-In equities, Colombo’s All Share Price Index gained 93.74 points to 12,283 and the S&P SL20 of more liquid stocks up 1.09 percent or 39.18 points to 3,632, in the first hour of trade. (Colombo/Jun6/2024)
-
-◼️
-
-[Data](articles/d271c62b.json)
-
-[Extended Data](ext_articles/d271c62b.ext.json)
-
----
-
-### Student killed in clashes between students
-
-*2024-06-06 10:12:16* · [`adalk`](https://www.ada.lk/breaking_news/සිසුන්-දෙපිරිසක්-අතර-ඇතිවූ-ගැටුමකින්-සිසුවෙකු-මරුට/11-410042) · `si`
-
-A 15-year-old girl was fatally wounded in a clash near Hambantota Stadium, allegedly over a dispute with a 17-year-old boy from her school. The incident occurred on a road in Hambantota, leading to the boy's arrest. Investigations are ongoing.
-
-🟩
-
-A fifteen-year-old schoolgirl has been killed in clash near the Hambantota Stadium, Hambantota yesterday (5).
-
-The deceased has been identified as a fifteen year old schoolgirl at the BedEywela Road, Hambantota is a fifteen year old school student. The student had a conflict between another school student who had been attending a tuition class yesterday.. The injured school student was taken to the Hambantota Hospital, the Hambantota Police says.
-
-The suspect is a 17 year old in Hambantota a resident of Hambantota. It has been revealed that he had come in a three-wheeler of his father. Three-wheeler had been arrested by the Hambantota Headquarters police last night last night. The Hambantota Headquarters Police are conducting further investigations on the instructions of Tangalla Divisions Senior Superintendent of Police.
-
-◼️
-
-[Data](articles/be61eb83.json)
-
-[Extended Data](ext_articles/be61eb83.ext.json)
-
----
-
-### Recovery of a mysterious student in flood
-
-*2024-06-06 10:11:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெள்ளத்தில்-மாயமான-மாணவன்-சடலமாக-மீட்பு/175-338522) · `ta`
-
-A 17-year-old schoolgirl's body was found in a flood in the Nappa Newchel estate, under the Angruvathota police division. The discovery was made in the Udura Gramasevar section, and her remains are now at Horana Hospital while the Angruvatti police continue their investigation.
-
-🟩
-
-The body of a student who was missing in a flood in the Nappa Newchel estate, which belongs to the Angruvathota police division, has been found, police said.
-
-It was revealed yesterday that a schoolgirl in the area was flooded.
-
-The body of a 17 -year -old schoolgirl was recovered yesterday in the Udura Gramasevar section of the Angruvathota police area.
-
-The body is being kept at the Horana Hospital and the Angruvatti police are conducting further investigations.. Remble
-
-◼️
-
-[Data](articles/7d90ad1a.json)
-
-[Extended Data](ext_articles/7d90ad1a.ext.json)
 
 ---

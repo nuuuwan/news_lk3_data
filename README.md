@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-06 23:54:00**
+As of **2024-06-07 00:06:02**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,641
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,919 (100.0%) of 28,932 articles have been extended.
+28,923 (100.0%) of 28,932 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -234,6 +234,8 @@ Another 33 percent of assets iwere rupee-denominated treasury securities, all of
 
 [Data](articles/0187e280.json)
 
+[Extended Data](ext_articles/0187e280.ext.json)
+
 ---
 
 ### America to advantage of the coin
@@ -367,6 +369,8 @@ The bank had provided 52 percent on its sovereign bond exposure by end 2023, whe
 ...
 
 [Data](articles/8c2f393b.json)
+
+[Extended Data](ext_articles/8c2f393b.ext.json)
 
 ---
 
@@ -600,6 +604,8 @@ It said Foreign Employment Ministry had already said that “a certain amount of
 
 [Data](articles/4445ebda.json)
 
+[Extended Data](ext_articles/4445ebda.ext.json)
+
 ---
 
 ### Russia - Ukraine Conflict Intensive: 1000 Sri Lankans may have gone to Russia - Vasantha Yapa Bandara
@@ -823,6 +829,8 @@ The bank’s core asset-quality metric – impaired (stage 3) loan ratio – inc
 ...
 
 [Data](articles/0b3fb6db.json)
+
+[Extended Data](ext_articles/0b3fb6db.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-06 13:34:21**
+As of **2024-06-06 13:53:55**
 
 ## Newspaper Stats
 
-*Scraped **28,804** Articles*
+*Scraped **28,807** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,52 +15,122 @@ newsfirstlk | 363
 islandlk | 1,553
 economynextcom | 1,636
 dailyftlk | 1,711
-adalk | 2,458
+adalk | 2,459
 adaderanalk | 3,265
 tamilmirrorlk | 3,386
 virakesarilk | 4,414
-dailymirrorlk | 4,576
-adaderanasinhalalk | 4,625
+dailymirrorlk | 4,577
+adaderanasinhalalk | 4,626
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,790 (100.0%) of 28,804 articles have been extended.
+28,804 (100.0%) of 28,807 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-06 (Thursday)
 
-### ගාසා තීරයේ පාසලකට ඊශ්‍රායල ප්‍රහාරයක්
+### බස් රථයේදී හිතවත් වූ කාන්තාව නිවස කොල්ලකයි
+
+*2024-06-06 13:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197458) · `si`
+
+වාද්දූව, මැලෑගම ප්‍රදේශයේ නිවසක සිටි අඹු-සැමි යුවළකගේ රන් භාණ්ඩ තවත් කාන්තාවක් විසින් කොල්ලකා පළාගොස් තිබේ.
+
+බස් රථයකදී අහඹු ලෙස හමුවූ කාන්තාවක් විසින් මෙම කොල්ලය සිදුකර ඇති බව අදාළ යුවළ සඳහන් කර ඇත.
+
+කතරගම - කොළඹ බස් රථයකදී අඹු-සැමි යුවළකට පසුගියදා අහඹු ලෙස අදාළ කාන්තාව හමුවී තිබුණි.
+
+එහිදී හිතවත් වූ කාන්තාව අනතුරුව වාද්දූව, මැලෑගම ප්‍රදේශයේ පිහිටි අදාළ යුවළගේ නිවසට පැමිණ ඇත්තේ, ඔවුන්ගේ පුත්‍රයාට රැකියාවක් ලබාදෙන බව පවසමිනි.
+
+නිවසට පැමිණීමෙන් පසු කොල්ලකාරිය විසින් තමන්ට කෑමට යමක් ඉල්ලා තිබේ.
+
+"එයා තේ ඒක බිව්වේ එහෙට මෙහෙට ඇවිද ඇවිද. මගේ තේ ඒක ටිකක් රස්නය අඩු වුණාම මම එකපාරටම බිව්වා. ඒ්ත් එක්කම මට ටිකක් කැරකිල්ලක් වගේ ආවා. ඊට පස්සේ මට කල්පනාව නැහැ."
+
+ඒ එම යුවළ සතුව තිබූ රුපියල් ලක්ෂ 6ක පමණ රණ් භාණ්ඩ සොරාගැනීමෙන් අනතුරුවය.
+
+"බ්‍රහස්පතින්දා වෙච්ච දෙයින් මට සිහිය ආවේ සිකුරාදා පාන්දර 1ට විතර. ඒ වෙලාවෙත් මට වෙච්ච දේ මතක තිබුණේ නැහැ."
+
+අනතුරුව කොල්ලකෑමට ලක්වූ අඹුසැමි යුවළ සිද්ධිය පිළිබඳව පොලිසියට පැමිණිලි කර ඇති අතර සැකකාරිය අත්අඩංගුවට ගැනීම සඳහා පොලිස් විමර්ශන ක්‍රියාත්මකය.
+
+◼️
+
+[Data](articles/0441c76c.json)
+
+---
+
+### SLFP’s first rally set for June 8 in Ambalantota
+
+*2024-06-06 13:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SLFPs-first-rally-set-for-June-8-in-Ambalantota/108-284250) · `en`
+
+Colombo, June 6 (Daily Mireror) - The first rally of the new alliance led by the Sri Lanka Freedom Party (SLFP) will be held on June 8 in Ambalantota town, Sri Lanka Freedom Party Senior Vice President and Minister Mahinda Amaraweera said.
+
+He said all arrangements have been made to hold this public rally under the theme 'Victory for the Country: Together for the Future'.
+
+"The new alliance will cover every district in the future, and only party members of those districts will participate in the rallies held in the respective districts. However, it has been decided to hold the public rally of this new alliance in a very strong and successful manner, Amaraweera said, adding that the strength of the new alliance led by the SLFP will be understood through this series of rallies.
+
+◼️
+
+[Data](articles/1913bf3d.json)
+
+---
+
+### ලංවිම සේවකයින්ගේ  නිවාඩු අවලංගුයි
+
+*2024-06-06 13:17:26* · [`adalk`](https://www.ada.lk/breaking_news/ලංවිම-සේවකයින්ගේ--නිවාඩු-අවලංගුයි/11-410051) · `si`
+
+ඊයේ (ජුනි 05දා) සිට ක්‍රියාත්මක වන පරිදි ලංකා විදුලිබල මණ්ඩලයේ සියලුම සේවකයන්ගේ නිවාඩු නැවත දැනුම් දෙන තෙක් අවලංගු කළ බව එම මණ්ඩලය පවසයි.
+
+◼️
+
+[Data](articles/f9aecbc4.json)
+
+---
+
+### Israel attack on a school in Gaza
 
 *2024-06-06 13:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197457) · `si`
 
-අවතැන් පිරිස් රැඳී සිටින මධ්‍යම ගාසා හි නුසෙයිරාත් සරණාගත කඳවුර වෙත එල්ල වූ ඊශ්‍රායල ප්‍රහාරයකින් පුද්ගලයින් 32දෙනෙක් මියගොස් තිබේ.
+In a tragic incident, Israel's attack on the Nushirath refugee camp in Gaza resulted in at least 32 deaths. The target included a UN-operated school, confirming the severity of the strike. Additionally, Israel conducted operations against suspected terrorists in Daer Al Bha.
 
-එක්සත් ජාතීන්ගේ අනර්වා ආයතනය විසින් පවත්වාගෙන ගිය පාසලක් ප්‍රහාරයේ ඉලක්ක වූ බව ඊශ්‍රායලයද තහවුරු කළේය.
+🟩
 
-තමන් ඩේර් අල් බෙලාහි නගරයේ ත්‍රස්තවාදීන් සහ ත්‍රස්ත ඉලක්ක රැසක් වෙත ප්‍රහාර එල්ල කරමින් තව මෙහෙයුමක් ක්‍රියාත්මක කරන බව ඊශ්‍රායල හමුදාවද තහවුරු කරයි.
+At least 32 people were killed in a Israeli attack on the Nushirath refugee camp in Central Gaza, who states.
+
+Israel also confirmed that a school operated by the United Nations Corporate Institute was targeted.
+
+The Israeli army also confirms another operation to attacking terrorists and terrorists in Daer Al Bha.
 
 ◼️
 
 [Data](articles/bf84a145.json)
 
+[Extended Data](ext_articles/bf84a145.ext.json)
+
 ---
 
-### සන‍ිපාරක්‍ෂක තුවා මිලදී ගැනීමට අධ්‍යාපන අමාත්‍යාංශයෙන් රු. බිලියනයක්
+### Ministry of Education to purchase strength towels. One billion
 
 *2024-06-06 12:54:40* · [`adalk`](https://www.ada.lk/breaking_news/සන‍ිපාරක්‍ෂක-තුවා-මිලදී-ගැනීමට-අධ්‍යාපන-අමාත්‍යාංශයෙන්-රු--බිලියනයක්/11-410049) · `si`
 
-වැඩිවියටපත් පාසල් සිසුවියන් සදහා සනීපාරක්ෂක තුවා මිල දී ගැනීම සඳහා නොමිලේ තිළිණපත් ලබා දීම 2024 වර්ෂයේ සිට ක්‍රියාත්මක වේ. ඒ සඳහා රුපියල් බිලියනක මුදලක් ආයෝජනය කර ඇත. එම තිළිණපත් ලබා දීමේ සමාරම්භක වැඩසටහන අද (06) දින නාවල ජනාධිපති බාලිකා විද්‍යාලයේ දී ආරම්භ විය.
+The Ministry of Education in Sri Lanka plans to distribute one billion free sanitary towels to all national school students nationwide. This initiative aims to address issues related to student attendance, economic challenges, and health concerns. The towels will be available through a registered market under the supervision of the Ministry, ensuring compliance with Sri Lanka Standards. Two types of vouchers worth Rs. 600 each will be issued, valid for specific periods starting from June 10, 2024, to April 30, 2025, to facilitate the purchase of these essential items.
 
-සිසුවියන්ගේ පාසල් පැමිණීම දිරිගැන්වීමත් ආර්ථව සමය තුළ ඔවුන් මුහුණ දෙන ගැටලු‍ හා සෞඛ්‍යමය නොදැනුම්වත්භාවය හේතුවෙන් අධ්‍යාපනය සඳහා නිසි අවධානයක් යොමු නොවීම වැනි අහිතකර තත්වයන් වලක්වාගැනීමත් මෙමගින් අපේක්ෂිත ය.
+🟩
 
-ශ්‍රී ලංකාවේ සමස්ත ශිෂ්‍ය ජනගහනයෙන් වැඩිවියට පත් ශිෂ්‍යාවන් සමස්තය අතරින් වතු පාසල් කාණ්ඩයට අයත් ජාතික පාසල් 07 සහ සියලු‍ පළාත් පාසල්වලට අයත් වැඩිවියට පත් ශිෂ්‍යාවන් සඳහා 2024 වර්ෂයේ ජුනි මාසයෙන් ආරම්භ කර මාස 06ක් සඳහා සනීපාරක්ෂක තුවා මිල දී ගැනීමට තිළිණපතක් නොමිලේ ලබා දීමට අධ්‍යාපන අමාත්‍යාශය පියවර ගෙන ඇත. ඒ අනුව එක් සිසුවියකට රු.1200.00ක් වටිනා තිළිණපතක් ලබා දෙනු ලබන අතර එම තිළිණපත පාසල් හරහා සිසුවියන් වෙත ලබා දීමට අවශ්‍ය කටයුතු මේ වන විටත් අධ්‍යාපන අමාත්‍යාංශය විසින් සංවිධානය කර ඇත.
+Providing free gift cards to buy a hygiene towel for increased projects for more than 2024. Rs.. The inauguration program for providing gifts was held at Nawala President Girls' School today (06).
+
+It is expected to prevent adverse conditions, such as not paying proper attention to the students' attendance and the problems they face in the economy and their problems and health.
+
+Ministry of Education has taken steps to provide a gift to provide a gift to buy a gift for six months of national schools in the entire student population of Sri Lanka and Rs.. Accordingly, a gift of Rs.
+
+Sanitary Towels can be purchased by a registered market of the Ministry of Education using this gift. The students are responsible for the purchase of the Sri Lanka Standards Certificate of Sri Lanka Standards Certificate confirmed by the Sri Lanka Standards Institution.
 
 ...
 
 [Data](articles/31bfe7aa.json)
+
+[Extended Data](ext_articles/31bfe7aa.ext.json)
 
 ---
 
@@ -78,37 +148,53 @@ Meanwhile, the President's Media Division (PMD) said the details of the public c
 
 [Data](articles/45a1ed91.json)
 
+[Extended Data](ext_articles/45a1ed91.ext.json)
+
 ---
 
-### පාසල් සිසුවියන්ට සුබ පණිවුඩයක්
+### A congratulator for schoolchildren
 
 *2024-06-06 12:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197456) · `si`
 
-පාසල් සිසුවියන්ට සනීපාරක්ෂක තුවා මිල දී ගැනීමේ තිළිණපත් ලබාදීමේ සමාරම්භක වැඩසටහන අද (06) නාවල ජනාධිපති බාලිකා විද්‍යාලයෙන් ආරම්භ වුණි.
+The Ministry of Education launched a scheme for schoolchildren to purchase sanitary towels, aiming to support their health and well-being. This initiative, starting at the President's Girls' School, offers free sanitary products to all students across Sri Lanka, promoting their personal growth and addressing economic and health challenges. Each student receives a certificate from the Sri Lanka Standards Institution, valid until October 2024, allowing them to buy sanitary items at a discounted price from registered shops.
 
-පාසල් තුළ ඉගෙනුම්-ඉගැන්වීම් ක්‍රියාවලිය සාර්ථක ව පවත්වාගැනීම සඳහා අත්‍යවශ්‍ය  සාධකයක් වන දරුවන්ගේ පෞරුෂ වර්ධනයට හා සෞඛ්‍යවත් යහ පැවැත්මට ඉහවහල් වන පහසුකම් ලබා දීමේ අරමුණින් අධ්‍යාපන අමාත්‍යාංශය මෙම සනීපාරක්ෂක වැඩසටහන ක්‍රියාවට නංවා තිබේ.
+🟩
 
-සිසුවියන්ගේ පාසල් පැමිණීම දිරිගැන්වීමත් ආර්ථව සමය තුළ ඔවුන් මුහුණදෙන ගැටලු‍ හා සෞඛ්‍යමය නොදැනුම්වත්භාවය හේතුවෙන් අධ්‍යාපනය සඳහා නිසි අවධානයක් යොමු නොවීම වැනි අහිතකර තත්ත්වයන් වළක්වා ගැනීමත් මෙමඟින් අපේක්ෂිත ය.
+The inauguration program for schoolchildren to buy a supportive profit scheme for the sanitary towel today (06) began at the President's Girls' school.
 
-ශ්‍රී ලංකාවේ සමස්ත ශිෂ්‍ය ජනගහනයෙන් වැඩිවියට පත් ශිෂ්‍යාවන් සමස්තය අතරින් වතු පාසල් කාණ්ඩයට අයත් ජාතික පාසල් 07 සහ සියලු‍ පළාත් පාසල්වලට අයත් වැඩිවියට පත් ශිෂ්‍යාවන් සඳහා 2024 වර්ෂයේ ජුනි මාසයෙන් ආරම්භ කර මාස 06ක් සඳහා සනීපාරක්ෂක තුවා මිල දී ගැනීමට තිළිණපතක් නොමිලේ ලබා දීමට අධ්‍යාපන අමාත්‍යාශය පියවර ගෙන ඇත.
+The Ministry of Education has implemented the Ministry of Education with the objective of providing the necessary facilities to the personality growth and healthy development of the learning and healthy development in school.
+
+It is also expected to prevent adverse conditions, such as notice of the students' attendance and the problems of the students during the economic and health universality of the people.
+
+The Ministry of Education has provided awards for free of a consecutive year of the National Schools in the Total Total population of the entire student population of Sri Lanka and Rs.
+
+Accordingly, one student is Rs. The Ministry of Education has already organized the proceedings of a total of 1,200 persons.
 
 ...
 
 [Data](articles/78a9d781.json)
 
+[Extended Data](ext_articles/78a9d781.ext.json)
+
 ---
 
-### மின் கட்டணம் குறைவடையும்
+### Decrease
 
 *2024-06-06 12:24:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்-கட்டணம்-குறைவடையும்/175-338535) · `ta`
 
-மின்சாரக் கட்டணம் குறைக்கப்படும் போது ஒரு யூனிட் மின்சாரத்தின் விலை எவ்வாறு குறைக்கப்படும் என்பதை மின்சாரம் மற்றும் எரிசக்தி அமைச்சர் கஞ்சன விஜேசேகர வியாழக்கிழமை (06) முன்வைத்தார்.
+Kanjana Wijesekera, Minister of Power and Energy, announced a reduction in electricity prices, explaining it directly impacts the cost per unit.
 
-இதன்படி, 0 முதல் 30 வரையான மின்சார அலகு ஒன்றின் விலை ரூபா 180 வரையான அலகு ஒன்றின் விலை 50 ரூபாவிலிருந்து 30 ரூபாவாக குறைக்கப்படும் என அமைச்சர் காஞ்சன விஜேசேகர மேலும் தெரிவித்தார்.
+🟩
+
+Minister of Power and Energy Kanjana Wijesekera on Thursday (06) presented how the price of a unit of electricity would be reduced when the electricity tariff was reduced.
+
+Accordingly, the price of a unit of Rs.
 
 ◼️
 
 [Data](articles/ad334ee6.json)
+
+[Extended Data](ext_articles/ad334ee6.ext.json)
 
 ---
 
@@ -127,6 +213,8 @@ The Ministry said that loan facilities at concessional rates will be facilitated
 ...
 
 [Data](articles/b0904f06.json)
+
+[Extended Data](ext_articles/b0904f06.ext.json)
 
 ---
 
@@ -147,6 +235,8 @@ Meanwhile, for 60-90 units the charge is to be reduced to Rs. 18. The current ra
 ...
 
 [Data](articles/4fd6052a.json)
+
+[Extended Data](ext_articles/4fd6052a.ext.json)
 
 ---
 
@@ -190,23 +280,29 @@ Accordingly, the price of Rs. 8 to Rs.The Minister said that the government has 
 
 ---
 
-### ஒரு கோடி பெறுமதியான இஞ்சி மீட்பு
+### 1 crores of ginger recovery
 
 *2024-06-06 11:40:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒரு-கோடி-பெறுமதியான-இஞ்சி-மீட்பு/175-338530) · `ta`
 
-இந்தியாவில் இருந்து கடல் மார்க்கமாக நாட்டிற்கு சட்டவிரோதமாக கொண்டு வரப்பட்டதாக சந்தேகிக்கப்படும் ஒரு தொகை இஞ்சி, நுரைச்சோலை - இலந்தையடி கடற்பிரதேசத்தில் வைத்து கைப்பற்றப்பட்டுள்ளதாக நுரைச்சோலை பொலிஸார் தெரிவித்தனர்.
+Indian authorities seized over 1,456 kg of ginger, valued at over one crore rupees, from two suspects aged 30 and 40 in Kalpitiya-Uchimunai. Three fishing boats and engines were also confiscated.
 
-அத்துடன், இந்த இஞ்சி கடத்தலுடன் தொடர்புடையவர்கள் என சந்தேகிக்கப்படும் இருவர் பொலிஸாரினால்  கைது செய்யப்பட்டுள்ளனர்.
+🟩
 
-இவ்வாறு கைது செய்யப்பட்ட சந்தேக நபர்கள் கற்பிட்டி - உச்சிமுனை பகுதியைச் சேர்ந்த 30 மற்றும் 40 வயதுடையவர்கள் எனவும் நுரைச்சோலை பொலிஸார் குறிப்பிட்டனர்.
+A large amount of ginger, foam, fossilized - Landyadyadyadyadyadyadyadyadyadyadyadyadyadyadyadyadyadyadyadyadyadyadyadyadyadyadyadyadyadyadyadyadyadyadyadyadyadyadyadyadyi, a large number of suspected ginger has been seized from India.
 
-மேலும், மூன்று மீன்பிடி இயந்திர படகுகள், மூன்று என்ஜின்கள் மற்றும் இருப்பிடத்தின் திசையைக் கண்டறியும் ஜி.பி.எஸ் கருவியும் பொலிஸாரால் கைப்பற்றப்பட்டுள்ளன.
+In addition, two suspects suspected of being involved in the ginger trafficking have been arrested by the police.
 
-இதன்போது 29 மூடைகளில் அடைக்கப்பட்ட 1,456 கிலோ கிராம் இஞ்சி கைப்பற்றப்பட்டுள்ளதுடன், அவை ஒரு கோடி ரூபாவுக்கும் அதிக பெறுமதி கொண்டது எனவும் பொலிஸார் தெரிவித்தனர்.
+The arrested suspects were 30 and 40 years old from Kalpitiya - Uchimunai area, police said.
+
+In addition, the police have also seized three fishing machine boats, three engines and the direction of the location.
+
+1,456 kilograms of ginger in 29 cover was seized and they were worth more than one crore rupees, police said.
 
 ◼️
 
 [Data](articles/200e1279.json)
+
+[Extended Data](ext_articles/200e1279.ext.json)
 
 ---
 
@@ -336,17 +432,23 @@ Accordingly, the apology issued by the former president has been ruled out.. Rem
 
 ---
 
-### மைத்திரியின் பொது மன்னிப்பு செல்லுபடியற்றது
+### Maithri's public apology is invalid
 
 *2024-06-06 11:21:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மைத்திரியின்-பொது-மன்னிப்பு-செல்லுபடியற்றது/175-338528) · `ta`
 
-இராஜகிரிய, ரோயல் பார்க் கொலைச் சம்பவம் தொடர்பில் மரண தண்டனை விதிக்கப்பட்டிருந்த ஜூட் ஷமந்த ஜயமஹா என்பவருக்கு முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன மன்னிப்பு வழங்கி விடுதலை செய்த தீர்மானம் அரசியலமைப்புக்கு எதிரானது என உயர் நீதிமன்றம் தீர்ப்பளித்துள்ளது.
+The Supreme Court deemed Maithripala Sirisena's apology to a condemned murderer unconstitutional, rendering it invalid.
 
-இதன்படி, குறித்த பிரதிவாதியை விடுவித்து முன்னாள் ஜனாதிபதி வழங்கிய மன்னிப்பு செல்லுபடியற்றது என தீர்ப்பளிக்கப்பட்டுள்ளது. R
+🟩
+
+The Supreme Court has ruled that the resolution of former President Maithripala Sirisena's apology to Jude Shamanta Jayamaha, who was sentenced to death in the Rajagiriya and Royal Park murder, was against the constitution.
+
+Accordingly, the apology issued by the former president has been ruled out.. Remble
 
 ◼️
 
 [Data](articles/e143b2ab.json)
+
+[Extended Data](ext_articles/e143b2ab.ext.json)
 
 ---
 
@@ -558,15 +660,21 @@ President Ranil Wickremesinghe inaugurated his political office in Colombo this 
 
 ---
 
-### ஜனாதிபதியின் அரசியல் அலுவலகம் திறப்பு
+### President's Political Office Opening
 
 *2024-06-06 10:34:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியின்-அரசியல்-அலுவலகம்-திறப்பு/175-338524) · `ta`
 
-ஜனாதிபதி ரணில் விக்ரமசிங்க இன்று காலை சுபநேரத்தில் கொழும்பில் தனது அரசியல் அலுவலகத்தை திறந்து வைத்தார்.
+President Ranil Wickremesinghe opened his political office in Colombo today, marking a significant step in his leadership.
+
+🟩
+
+President Ranil Wickremesinghe inaugurated his political office in Colombo this morning.
 
 ◼️
 
 [Data](articles/c5715c3d.json)
+
+[Extended Data](ext_articles/c5715c3d.ext.json)
 
 ---
 
@@ -668,19 +776,25 @@ Hambantota Police are currently conducting further inquiries into the incident.
 
 ---
 
-### සිසුන් දෙපිරිසක් අතර ඇතිවූ ගැටුමකින් සිසුවෙකු මරුට
+### Student killed in clashes between students
 
 *2024-06-06 10:12:16* · [`adalk`](https://www.ada.lk/breaking_news/සිසුන්-දෙපිරිසක්-අතර-ඇතිවූ-ගැටුමකින්-සිසුවෙකු-මරුට/11-410042) · `si`
 
-හම්බන්තොට සාමෝදාගම ක්‍රීඩාංගනය අසලදී පාසල් සිසුන් දෙපිරිසක් අතර වූ ගැටුමකින් පහළොස් හැවිරිදි පාසල් ශිෂ්‍යයකු ඊයේ (5 දින) ජීවිතක්ෂයට පත්ව ඇතැයි හම්බන්තොට මූලස්ථාන පොලිසිය කියයි.
+A 15-year-old girl was fatally wounded in a clash near Hambantota Stadium, allegedly over a dispute with a 17-year-old boy from her school. The incident occurred on a road in Hambantota, leading to the boy's arrest. Investigations are ongoing.
 
-මෙලෙස ජීවිතක්ෂයට පත්ව ඇත්තේ හම්බන්තොට බැද්දේවෙල පාරේ පදිංචිව සිටි මොහොමඩ් ෆයිරූස් අශීස් අහමඩ් නමැති හම්බන්තොට පාසලක ඉගෙනුම ලබන පහළොස් හැවිරිදි පාසල් ශිෂ්‍යයකු වේ. මෙම ශිෂ්‍යයා ඊයේ උපකාරක පන්තියකට සහභාගී වී නැවත එමින් සිටියදී මග රැක සිටි තවත් පාසල් ශිෂ්‍යයකු අතර ගැටුමක් ඇති වී තිබේ. ගැටුමින් තුවාල ලැබූ පාසල් ශිෂ්‍යයා හම්බන්තොට රෝහලට රැගෙන යන අතරතුරදී ජීවිතක්ෂයට පත්ව ඇති බව හම්බන්තොට මූලස්ථාන  පොලීසිය කියයි.
+🟩
 
-සැකකාර ශිෂ්‍යයා හම්බන්තොට පාසලක උසස් පෙළ හදාරන 17 හැවිරිදි අයෙකු   වන අතර    ඔහුද හම්බන්තොට පදිංචිකරුවෙකි. ඔහු තම පියාට අයත් ත්‍රීරෝද රථයකින් පැමිණ ඇති බවට අනාවරණය වී ඇත. එම සිසුවා පැමිණි ත්‍රී රෝද රථය ඊයේ රාත්‍රී හම්බන්තොට මූලස්ථාන පොලිසියෙන් අත්අඩංගුවට ගෙන තිබිණි. තංගල්ල කොට්ඨාස භාර ජ්‍යෙෂ්ඨ පොලිස් අධිකාරී කේ.බී කීර්තිරත්නගේ උපදෙස් පරිදි හම්බන්තොට මූලස්ථාන පොලිසිය සිද්ධිය සම්බන්ධයෙන් වැඩිදුර විමර්ශන සිදුකරයි.
+A fifteen-year-old schoolgirl has been killed in clash near the Hambantota Stadium, Hambantota yesterday (5).
+
+The deceased has been identified as a fifteen year old schoolgirl at the BedEywela Road, Hambantota is a fifteen year old school student. The student had a conflict between another school student who had been attending a tuition class yesterday.. The injured school student was taken to the Hambantota Hospital, the Hambantota Police says.
+
+The suspect is a 17 year old in Hambantota a resident of Hambantota. It has been revealed that he had come in a three-wheeler of his father. Three-wheeler had been arrested by the Hambantota Headquarters police last night last night. The Hambantota Headquarters Police are conducting further investigations on the instructions of Tangalla Divisions Senior Superintendent of Police.
 
 ◼️
 
 [Data](articles/be61eb83.json)
+
+[Extended Data](ext_articles/be61eb83.ext.json)
 
 ---
 
@@ -719,6 +833,8 @@ According to the Presidential Media Division (PMD) this office will conduct poli
 ◼️
 
 [Data](articles/a6455818.json)
+
+[Extended Data](ext_articles/a6455818.ext.json)
 
 ---
 
@@ -882,21 +998,31 @@ Accordingly, the Act, Minister of Power and Energy Kanchana Wijesekara presented
 
 ---
 
-### ලක්ෂ 3689ක් රජයට පාඩුකළ තවත් එන්නත් මගඩියක් හෙළිවෙයි
+### Another vaccine scrip to the government losses
 
 *2024-06-06 09:24:45* · [`adalk`](https://www.ada.lk/breaking_news/ලක්ෂ-3689ක්-රජයට-පාඩුකළ-තවත්-එන්නත්-මගඩියක්-හෙළිවෙයි/11-410041) · `si`
 
-Meropenem injection එන්නත් කුප්පි 488,590ක් තිබියදී  එන්නත් කුප්පි 450,000ක් හදිසි මිලදී ගැනීමක් ලෙස වැඩිමිලට මිලදී ගැනීමෙන් රු.368,955,000ක පාඩුවක්
+A government audit revealed a significant loss due to unnecessary purchases of vaccine vials worth Rs. 35,05,000. Despite having enough supplies, 488,590 vials were procured, leading to a financial setback. The audit also highlighted that the vaccine was not needed urgently as it was already available in hospitals.
 
-බැක්ටීරියා මගින් ඇති වන ආසාදනවලට භාවිත කරනු ලබන Meropeneminjecion නමැති ඖෂධය ප්‍රමාණවත් පරිදි රෝහල් පද්ධතියේ හෝ වෛද්‍ය සැපයුම් අංශයේ තිබියදී එම ඖෂධයෙන් එන්නත් කුප්පි 450,000ක් හදිසි මිලදී ගැනීම් යටතේ වැඩි මිලට මිලදී ගැනීම නිසා රජයට රුපියල් තිස්හය කෝටි අසූ නවලක්ෂ පනස් පන්දහසක (368,955,000) පාඩුවක් සිදු වී ඇති බව ජාතික විගණන කාර්යාලය මගින් නිකුත් කරන ලද නවතම විගණන වාර්තාවක සඳහන් වේ.
+🟩
 
-මෙම එන්නත් කුප්පියක් සාමාන්‍ය ඇණවුම් යටතේ රුපියල් 1,075.60ක මිලකට මිලදී ගත හැකිව තිබියදී මෙරටට බෙහෙත් සැපයුම් කරන කොන්ත්‍රාත්කරුවන්ගේ හදිසි මිලදී ගැනීම් යටතේ එන්නත් කුප්පියක් රුපියල් 1895.50ක මුදලකට මිලදී ගෙන තිබුණි.
+Merependence injection vials 488,590 vials of 488,590 vials a loss of Rs. 35,0005,000
 
-මෙම එන්නත් තොගය හදිසි  මිලදී ගැනීම් යටතේ ඇණවුම් කිරීමේදී සෞඛ්‍ය අංශයේ හදිසි ප්‍රසම්පාදන කමිටුව මගින් 2022 වර්ෂයේ නොවැම්බර් මස 21වනදා වන විට කිසිදු තොගයක් නොමැති බව සඳහන් කර තිබුණි.
+The government has sufficiently reduced the injection vials in the hospital or medicine, with the purchase of 450,000 crores (355,000).According to a latest audit report issued by the National Audit Office.
 
-...
+This vaccine vial has purchased the vaccine vial in the vaccine vial at an emergency purchase of Rs.
+
+The injection of this vaccine was stated that there was no stock by November 21, 2022.
+
+But on November 21, 2022, nearly 488,50 via vials were released in the Medical Supply Division or hospital system.
+
+As a result, the audit report states that this drug was not necessary to buy emergency. The supplier has agreed to provide medication within a period of two weeks after receiving the registration certificate of the Drug Regulatory Authority.
+
+◼️
 
 [Data](articles/04f03033.json)
+
+[Extended Data](ext_articles/04f03033.ext.json)
 
 ---
 
@@ -2053,73 +2179,5 @@ We congratulate Narendra Modi for the third time and the Bharatiya Janata Party 
 [Data](articles/61ac8ae9.json)
 
 [Extended Data](ext_articles/61ac8ae9.ext.json)
-
----
-
-### Range Bandara’s  “Loud Thinking” about Election Postponement Damages   Ranil’s Election Campaign in the Short Term.
-
-*2024-06-06 01:11:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84130) · `en`
-
-Sri Lanka’s political stage was enlivened last week by the solo performance of  United National Party (UNP) general -secretary Palitha Range Bandara. Addressing a media briefing on 28 May, the policeman turned politician came out with a suggestion that the presidential election due this year and the Parliamentary election scheduled for next year should be postponed while the terms of office for both should be extended by two more years. The former Puttalam district and ex-state minister wanted a resolution passed by Parliament to that effect and ratified by the people at a referendum.
-
-The essence of what Palitha Range Bandara proposed was this -. Ranil Wickremesinghe took over the country’s leadership at a time of a great economic crisis. Considerable progress  has been achieved by the  Wickremesinghe Govt to remedy the situation. A degree of economic stability has been established but more time is needed to ensure greater economic stability.
-
-...
-
-[Data](articles/3cbabeda.json)
-
-[Extended Data](ext_articles/3cbabeda.ext.json)
-
----
-
-### The results will be released after the investigation.
-
-*2024-06-06 01:08:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விசாரணைகளுக்குப்-பின்-பெறுபேறு-வெளியிடப்படும்/175-338515) · `ta`
-
-Investigation ongoing; 13 students' exam results suspended for wearing hijabs in the Western Province. Education Minister and officials from Trincomalee Zahira College involved. Hijab-wearing allowed in national exams, but violations lead to suspensions.
-
-🟩
-
-Violation of Examination Regulations may be considered a violation of exam laws. Education Minister Susil Premajayantha and Trincomalee Zahira College students have been investigated.
-
-United People's Power MP during the session held in Parliament on Wednesday (05). Their results have been suspended for the appearance of 13 people who have appeared in the province of the Chancellor Service Examination raised by Mujibur Rahman, wearing a hijab.
-
-The Department of Examinations has granted permission for the National Examinations worn by hijab. If the examiner is in charge of the examination, he should be obliged to obey the examiner's ears.
-
-Officials of the Examination Center have notified the Examinations Department that 13 persons who appeared in the Western Province have been wearing a hijab. Their exam results have been suspended.
-
-Muslim women and school children are resistant to many problems when they look for exams.
-
-Mujibur Rahman MP. He pointed out an incident in the upper house.
-
-...
-
-[Data](articles/b536a056.json)
-
-[Extended Data](ext_articles/b536a056.ext.json)
-
----
-
-### Is Sahira students prejudice?
-
-*2024-06-06 01:03:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சாஹிரா-மாணவிகளுக்கு-பாரபட்சம்-இடம்பெற்றுள்ளதா/175-338514) · `ta`
-
-Sahira College students' exam results were suspended, sparking concerns about racial and religious discrimination. Tamil MP Selvarasa Gajendran urged immediate justice, questioning bias in the Trincomalee district.
-
-🟩
-
-Tamil National People's Front MP Selvarasa Gajendran said that steps should be taken to issue justice to the students of the 70 students of Zahira College, Trincomalee.
-
-He was speaking at a debate on women's reinforcement held in Parliament on Tuesday (04).
-
-The results of a high -level examination of a school in Trincomalee district emerges from the Muslim people.. Muslim MPs have also expressed their concerns here. The results of 70 students who appeared for the exam from Zahira College, Trincomalee have been suspended. This issue is very concerned. Those children have appeared for the exam with many dreams. The suspension of the results can cause frustration and frustration.
-
-So, is there discrimination regarding race and religion on this issue?To be explored as. Justice should be given to students immediately. I request that the students' results be released immediately.
-
-◼️
-
-[Data](articles/310d980b.json)
-
-[Extended Data](ext_articles/310d980b.ext.json)
 
 ---

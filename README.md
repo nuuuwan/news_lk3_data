@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-07 04:18:58**
+As of **2024-06-07 04:34:33**
 
 ## Newspaper Stats
 
@@ -310,6 +310,30 @@ Spa Ceylon was amongst the handful of multiple-award winners of the night, sweep
 
 ---
 
+### The Prime Minister of India should resolve the ethnic problem of the Sri Lankan people and live with the self -esteem - Dr. River Thirumurugan
+
+*2024-06-07 02:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/185486) · `ta`
+
+Dr. River Thirumurugan urges India's PM to address Sri Lanka's Tamil ethnic issue, emphasizing the need for a permanent solution to alleviate Tamil suffering. The All Ceylon Hindu VP, Dr. Saridiru Murugan, commends India's PM for their efforts, highlighting the importance of resolving this longstanding issue.
+
+🟩
+
+All Ceylon Hindu Vice President Dr. Saridiru Murugan congratulated the Prime Minister of India that the Prime Minister of India should resolve the ethnic problem that is a long -standing problem of the Tamil people in Sri Lanka in India.
+
+For the third time, I am happy to congratulate themselves on this occasion. Consider the gift of the people to serve the classic service they are doing.
+
+They have to make the way to permanently overcome the plight of Tamils ​​living in a state of distress as they have lost their lives.
+
+You are responsible for bringing the Bharat nation to the world stage.
+
+◼️
+
+[Data](articles/81dedc54.json)
+
+[Extended Data](ext_articles/81dedc54.ext.json)
+
+---
+
 ### OSL Global and Middle East Liaoning Province General Chamber of Commerce sign MOU
 
 *2024-06-07 02:06:19* · [`dailyftlk`](https://www.ft.lk/business/OSL-Global-and-Middle-East-Liaoning-Province-General-Chamber-of-Commerce-sign-MOU/34-762751) · `en`
@@ -423,30 +447,6 @@ He pointed out that it is important to take steps to curb the spread of the dise
 [Data](articles/b93eb8c5.json)
 
 [Extended Data](ext_articles/b93eb8c5.ext.json)
-
----
-
-### The Prime Minister of India should resolve the ethnic problem of the Sri Lankan people and live with the self -esteem - Dr. River Thirumurugan
-
-*2024-06-07 01:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/185486) · `ta`
-
-Dr. River Thirumurugan urges India's PM to address Sri Lanka's Tamil ethnic issue, emphasizing the need for a permanent solution to alleviate Tamil suffering. The All Ceylon Hindu VP, Dr. Saridiru Murugan, commends India's PM for their efforts, highlighting the importance of resolving this longstanding issue.
-
-🟩
-
-All Ceylon Hindu Vice President Dr. Saridiru Murugan congratulated the Prime Minister of India that the Prime Minister of India should resolve the ethnic problem that is a long -standing problem of the Tamil people in Sri Lanka in India.
-
-For the third time, I am happy to congratulate themselves on this occasion. Consider the gift of the people to serve the classic service they are doing.
-
-They have to make the way to permanently overcome the plight of Tamils ​​living in a state of distress as they have lost their lives.
-
-You are responsible for bringing the Bharat nation to the world stage.
-
-◼️
-
-[Data](articles/81dedc54.json)
-
-[Extended Data](ext_articles/81dedc54.ext.json)
 
 ---
 

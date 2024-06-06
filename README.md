@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-06 06:59:23**
+As of **2024-06-06 07:21:31**
 
 ## Newspaper Stats
 
-*Scraped **28,716** Articles*
+*Scraped **28,717** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ adaderanalk | 3,255
 tamilmirrorlk | 3,376
 virakesarilk | 4,414
 dailymirrorlk | 4,553
-adaderanasinhalalk | 4,606
+adaderanasinhalalk | 4,607
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,710 (100.0%) of 28,716 articles have been extended.
+28,716 (100.0%) of 28,717 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-06 (Thursday)
+
+### ප්‍රදේශ කිහිපයකට වැස්ස
+
+*2024-06-06 06:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197438) · `si`
+
+බස්නාහිර, සබරගමුව, දකුණු සහ වයඹ පළාත්වලත් මහනුවර සහ නුවරඑලිය දිස්ත්‍රික්කවලත් වැසි වාර කිහිපයක් ඇතිවේ.
+
+කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කළේ, උතුරු සහ උතුරු මැද පළාත්වල වැසි ස්වල්පයක් ඇතිවිය හැකි බවය.
+
+නැගෙනහිර සහ ඌව පලාත්වල සවස් කාලයේ හෝ රාත්‍රී කාලයේ ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකිය.
+
+උතුරු, උතුරු මැද සහ වයඹ පළාත්වලත් හම්බන්තොට දිස්ත්‍රික්කයේත්  විටින් විට හමන පැ.කි.මී. 40-50ක පමණ තද සුළං ඇති වේ.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/5a6800b8.json)
+
+---
 
 ### AHK champions first-ever Sri Lankan delegation at Drupa 2024
 
@@ -314,21 +334,27 @@ After the elephant was completely attacked by the tile house, a building that ha
 
 ---
 
-### புதிய இராஜதந்திரிகள் நற்சான்றுகளைக் கையளித்தனர்
+### New diplomats handed over credentials
 
 *2024-06-06 01:36:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-இராஜதந்திரிகள்-நற்சான்றுகளைக்-கையளித்தனர்/175-338517) · `ta`
 
-இலங்கைக்கான புதிதாக நியமிக்கப்பட்ட 05 உயர்ஸ்தானிகர்கள் மற்றும் 09 தூதுவர்கள் நேற்று கொழும்பு கோட்டை ஜனாதிபதி மாளிகையில் ஜனாதிபதி ரணில் விக்கிரமசிங்கவிடம் தமது நற்சான்றுப் பத்திரங்களைக் கையளித்தனர்.
+Sri Lanka's new ministers and ambassadors, including those from New Zealand, Cyprus, Maldives, Sierra Leone, Mauritius, Guatemala, Algeria, Estonia, Laos, and Colombia, handed over their credentials to President Ranil Wickremesinghe. A ceremony welcomed them, followed by a speech from the president.
 
-நியூசிலாந்து, சைப்ரஸ் குடியரசு, மாலைதீவுகள், சியரா லியோன் குடியரசு மற்றும் மொரீஷியஸ் குடியரசு என்பவற்றுக்கான உயர்ஸ்தானிகர்களும் குவாத்தமாலா குடியரசு, அல்ஜீரியா மக்கள் ஜனநாயகக் குடியரசு, எஸ்டோனியா குடியரசு, லாவோஸ் மக்கள் ஜனநாயக குடியரசு, கொலம்பியா குடியரசு, துருக்கி குடியரசு, அயர்லாந்து, ஹெலனிக் குடியரசு (கிரீஸ்) மற்றும் பல்கேரியா குடியரசு ஆகிய நாடுகளின் புதிய தூதுவர்களும் நியமிக்கப்பட்டுள்ளனர்.
+🟩
 
-இந்த புதிய உயர்ஸ்தானிகர்கள் மற்றும் தூதுவர்களை வரவேற்பதற்காக கோட்டை ஜனாதிபதி மாளிகையில் ஒரு சிறிய விழாவொன்று ஏற்பாடு செய்யப்பட்டிருந்தது.
+Five newly appointed Sri Lanka's newly appointed ministers and nine ambassadors handed over their credentials to President Ranil Wickremesinghe at the President's House in Colombo yesterday.
 
-நற்சான்றிதழ்களைப் பெற்றுக்கொண்ட பின்னர் புதிய உயர்ஸ்தானிகர்கள் மற்றும் தூதுவர்களுடன் ஜனாதிபதி ரணில் விக்ரமசிங்க சிநேகபூர்வ உரையாடலில் ஈடுபட்டார் என ஜனாதிபதி ஊடகப்பிரிவு தெரிவித்துள்ளது. (a)
+New Zealand, Cyprus Republic, Maldives, Maldives, Sierra Leone Republican and Mauritius Republic of Guatemala Republic, Algeria People's Democratic Republic, Estonia Republic, Laos People's Democratic Republic, Columbia RepublicanAmbassadors have also been appointed.
+
+A small ceremony was organized at the Fort President's House to welcome these new high -rankings and ambassadors.
+
+President Ranil Wickremesinghe engaged in a speech with new high -ranking and ambassadors after receiving certificates.. (A)
 
 ◼️
 
 [Data](articles/0b45ab9a.json)
+
+[Extended Data](ext_articles/0b45ab9a.ext.json)
 
 ---
 
@@ -2177,25 +2203,5 @@ The 36 -year -old suspect, who was receiving treatment at the Kandy National Hos
 [Data](articles/79a0b2bc.json)
 
 [Extended Data](ext_articles/79a0b2bc.ext.json)
-
----
-
-### Nine new Ambassadors and 05 High Commissioners present credentials to President
-
-*2024-06-05 16:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/99681/-nine-new-ambassadors-and-05-high-commissioners-present-credentials-to-president) · `en`
-
-President Ranil Wickremesinghe has received the credentials of five newly appointed High Commissioners and nine Ambassadors to Sri Lanka at the Colombo Fort President’s House this morning (05), the President’s Media Division reported.
-
-The High Commissioners representing New Zealand, the Republic of Cyprus, the Maldives, the Republic of Sierra Leone, and the Republic of Mauritius were present there, the statement said.
-
-Additionally, Ambassadors from the Republic of Guatemala, the People’s Democratic Republic of Algeria, the Republic of Estonia, the Lao People’s Democratic Republic, the Republic of Colombia, the Republic of Turkey, Ireland, the Hellenic Republic (Greece), and the Republic of Bulgaria also handed over their credentials.
-
-A brief ceremony was organized at the Colombo Fort Presidential Palace to officially welcome the new High Commissioners and Ambassadors, the PMD said.
-
-...
-
-[Data](articles/a2ee0316.json)
-
-[Extended Data](ext_articles/a2ee0316.ext.json)
 
 ---

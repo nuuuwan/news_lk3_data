@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-06 17:03:58**
+As of **2024-06-06 17:18:45**
 
 ## Newspaper Stats
 
-*Scraped **28,859** Articles*
+*Scraped **28,862** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,35 +16,83 @@ islandlk | 1,553
 economynextcom | 1,642
 dailyftlk | 1,711
 adalk | 2,462
-adaderanalk | 3,275
+adaderanalk | 3,276
 tamilmirrorlk | 3,391
 virakesarilk | 4,427
-dailymirrorlk | 4,584
+dailymirrorlk | 4,586
 adaderanasinhalalk | 4,634
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,858 (100.0%) of 28,859 articles have been extended.
+28,859 (100.0%) of 28,862 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-06 (Thursday)
 
-### දීගොඩ කුමාර නිදොස් කොට නිදහස්
+### Video game leads to stabbing of an eight-year-old
+
+*2024-06-06 16:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Video-game-leads-to-stabbing-of-an-eight-year-old/108-284274) · `en`
+
+A 13-year-old boy had consumed poison after stabbing an eight-year-old boy for not allowing him to play a video game on his mobile phone.
+
+The two children are residents of Wetiya in the Angunukolapelessa police area.
+
+The child who received stab injuries was admitted to the Kuttigala Divisional Hospital and later transferred to the Hambantota General Hospital, while the child who had consumed poison was admitted to Embilipitiya Base Hospital.
+
+Investigations revealed that the two families had been living hand in glove, and the children welcomed visitors to each house. The two children had, however, become addicted to watching videos on their mobile phones.
+
+On Wednesday evening (05), the 13-year-old boy visited the neighboring house when the eight-year-old boy was playing the video game. The former wanted to play a different game, but the latter had not allowed it. This had resulted in the stabbing of the eight-year-old boy.
+
+...
+
+[Data](articles/0167611d.json)
+
+---
+
+### WHO confirms first fatal human case of H5N2 bird flu
+
+*2024-06-06 16:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/99710/who-confirms-first-fatal-human-case-of-h5n2-bird-flu) · `en`
+
+A person with prior health complications who had contracted bird flu died in Mexico in April and the source of exposure to the virus was unknown, the World Health Organization said on Wednesday.
+
+WHO said the current risk of bird flu virus to the general population is low.
+
+The 59-year-old resident of the State of Mexico had been hospitalized in Mexico City and died on April 24 after developing a fever, shortness of breath, diarrhea, nausea and general discomfort, WHO said.
+
+“Although the source of exposure to the virus in this case is currently unknown, A(H5N2) viruses have been reported in poultry in Mexico,” WHO said in a statement.
+
+It was the first laboratory-confirmed human case of infection with an influenza A(H5N2) virus globally and the first avian H5 virus reported in a person in Mexico, according to the WHO.
+
+Scientists said the case is unrelated to the outbreak of H5N1 bird flu in the United States that has so far infected three dairy farm workers.
+
+...
+
+[Data](articles/8ae6ab0f.json)
+
+---
+
+### Deagoda Kumara accused
 
 *2024-06-06 16:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197467) · `si`
 
-ආධ්‍යාත්මික නායකයෙකු බව පැවසූ දීගොඩ කුමාර අධිකරණයෙන් නිදොස් කොට නිදහස් කර තිබේ.
+Spiritual leader Deagoda Kumara, accused, acquitted by Kesbewa Magistrate's Court. Verdict announced today, June 6th.
 
-ඔහුට එරෙහිව පවරා තිබූ නඩුවේ තීන්දුව අද (06) ප්‍රකාශයට පත් කෙරුණි.
+🟩
 
-ඒ අනුව එල්ලවූ චෝදනාවලින් ඔහු නිදහස් කිරීමට කැස්බෑව මහෙස්ත්‍රාත් අධිකරණය නියෝග කළ බව වාර්තා වෙයි.
+The Developed Kumara, who was a spiritual leader, has been acquitted of the court.
+
+The verdict in the case against him was announced today (06).
+
+It is reported that the Kesbewa Magistrate's Court ordered him to release him from the accusations.
 
 ◼️
 
 [Data](articles/29cc9d02.json)
+
+[Extended Data](ext_articles/29cc9d02.ext.json)
 
 ---
 
@@ -155,6 +203,24 @@ The International Cricket Council (ICC) is believed to be analysing data from pr
 [Data](articles/3dff4a04.json)
 
 [Extended Data](ext_articles/3dff4a04.ext.json)
+
+---
+
+### Vouchers from Education Ministry to buy sanitary pads for schoolgirls
+
+*2024-06-06 16:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Vouchers-from-Education-Ministry-to-buy-sanitary-pads-for-schoolgirls/108-284270) · `en`
+
+Colombo, June 6 (Daily Mirror) - The Education Ministry has launched a new initiative this month to provide free vouchers for schoolgirls to purchase sanitary pads, announced Education Minister Susil Premajayantha.
+
+The inauguration of this programme took place this morning at the President's Girls School in Nawala. During the event, the Minister revealed that Rs. 1 billion had been allocated for this project.
+
+The Ministry has introduced various student welfare programmes aimed at ensuring uninterrupted education, with the goal of fostering a well-rounded generation of children.
+
+By providing these vouchers, the Ministry aims to improve school attendance among female students and address issues related to educational neglect and health problems that arise during economic hardships.
+
+...
+
+[Data](articles/564675bb.json)
 
 ---
 
@@ -2147,87 +2213,5 @@ As a result, the audit report states that this drug was not necessary to buy eme
 [Data](articles/04f03033.json)
 
 [Extended Data](ext_articles/04f03033.ext.json)
-
----
-
-### 15 -year -old student death
-
-*2024-06-06 09:22:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவன்-தாக்கியதில்-15-வயது-மாணவன்-மரணம்/175-338520) · `ta`
-
-A 15-year-old student died after a fight with another student from a different school in the Chipikulama area. The incident occurred when the victim, also a grade 10 student, went for extra classes. The suspect, a 17-year-old girl, has been arrested.
-
-🟩
-
-One person was killed in a clash between two schoolchildren in the Chipikulama area of ​​the Hambantota police division last evening.
-
-The injured student was admitted to the Hambantota Hospital and died after being treated in the emergency department.
-
-He was studying in grade 10 at a school in Hambantota and went to the Chipikkulam area yesterday to attend the further class.
-
-A student from another school in Hambantota has gone near the upper class and attacked the student in grade 10.
-
-The investigation revealed that the clash between the two students was the cause of the clash.
-
-In this case, police have arrested a 17 -year -old schoolgirl in connection with the death of the student.. Remble
-
-◼️
-
-[Data](articles/ab5f2530.json)
-
-[Extended Data](ext_articles/ab5f2530.ext.json)
-
----
-
-### Sri Lanka cabinet approval sought for debt restructuring process
-
-*2024-06-06 09:16:00* · [`economynextcom`](https://economynext.com/sri-lanka-cabinet-approval-sought-for-debt-restructuring-process-166532/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s President Ranil Wickremesinghe has sought cabinet approval for a matter relating to debt restructuring, Minister Bandula Gunwardana said.
-
-“There were cabinet papers submitted to get approval for changes required for debt restructuring,” Minister Gunawardana told reporters this week.
-
-“Restructuring external debt is the most decisive requirement of the country. Without restructuring debt it is not possible to take the country even one tenth of an inch (dasher-mer-yuk-wuth)”
-
-Sri Lanka has reached in principle agreements with official creditors but has to sign final agreements (MOUs).
-
-A deal with bond holders and other debt classified as commercial also has to be reached.
-
-The International Monetary Fund has scheduled a meeting on June 12, to consider the review of Sri Lanka’s program. (Colombo/June06/2024)
-
-◼️
-
-[Data](articles/eac1a158.json)
-
-[Extended Data](ext_articles/eac1a158.ext.json)
-
----
-
-### The flood goes down, the risk further
-
-*2024-06-06 09:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197445) · `si`
-
-Floods are receding but remain in some areas, especially along the Gin and Nilwala Rivers over the next 48 hours. Water levels in the Kelani and Kalu Rivers are decreasing. However, health officials warn of disease outbreaks and advise avoiding flood-hit regions.
-
-🟩
-
-The Department of Irrigation says that floods are gradually decreasing and floods will continue in some places.
-
-The Department shows that the flood warning of the Gin River and the Nilwala River is extended for the next 48 hours.
-
-The watermen of the Kelani River has been normalized and the water level of the Kalu River is also systematically decreasing.
-
-Meanwhile, medical Palitha Mahipala said that the people should be vigilant as the flow of various diseases with the spread of various diseases.
-
-The Secretary of the Ministry of Health requests the public to avoid going to the flood areas.
-
-Speaking at a media brief held at the Health Promotion Bureau, Medical Palitha Mahipala made these comments.
-
-Meanwhile, state minister Hon
-
-◼️
-
-[Data](articles/11d6449f.json)
-
-[Extended Data](ext_articles/11d6449f.ext.json)
 
 ---

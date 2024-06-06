@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-06 14:34:55**
+As of **2024-06-06 14:53:16**
 
 ## Newspaper Stats
 
-*Scraped **28,814** Articles*
+*Scraped **28,816** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,33 +16,51 @@ islandlk | 1,553
 economynextcom | 1,636
 dailyftlk | 1,711
 adalk | 2,459
-adaderanalk | 3,269
+adaderanalk | 3,270
 tamilmirrorlk | 3,386
 virakesarilk | 4,414
-dailymirrorlk | 4,577
+dailymirrorlk | 4,578
 adaderanasinhalalk | 4,629
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,811 (100.0%) of 28,814 articles have been extended.
+28,814 (100.0%) of 28,816 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-06 (Thursday)
 
-### ගංවතුරෙන් බලපෑම් වූ නිවාස පිරිසිඳු කරගැනීමට රජයෙන් රු 10,000ක්
+### 10,000 from the government to clean the flood affected houses
 
 *2024-06-06 14:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197461) · `si`
 
-ගංවතුරෙන් පීඩාවට පත් පවුල්වලට නිවාස පිරිසිදු කරගැනීම සඳහා රුපියල් 10,000 බැගින් ලබාදීමට රජය තීරණය කර තිබේ.
+The government will allocate Rs. 10,000 per house to aid flood-hit families in cleaning their homes. Defense State Minister Pipaina Bandara Tennakoon confirmed this decision.
 
-ආරක්ෂක රාජ්‍ය අමාත්‍ය ප්‍රමිත බණ්ඩාර තෙන්නකෝන් මහතා ඒ් බව පැවසීය.
+🟩
+
+The government has decided to provide Rs. 10,000 each to clean housing to flood-affected families.
+
+Defense State Pipaina Bandara Tennakoon said he was.
 
 ◼️
 
 [Data](articles/440d2bf9.json)
+
+[Extended Data](ext_articles/440d2bf9.ext.json)
+
+---
+
+### Govt. to provide Rs. 10,000 per family to clean flood-affected homes
+
+*2024-06-06 14:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/99704/govt-to-provide-rs-10000-per-family-to-clean-flood-affected-homes) · `en`
+
+The government has decided to provide Rs. 10,000 each for the families affected by floods in order to clean up their houses, State Minister of Defence Premitha Bandara Tennakoon said.
+
+◼️
+
+[Data](articles/a3e1cc87.json)
 
 ---
 
@@ -86,37 +104,49 @@ Musk and Wickremesinghe had discussed ways to expand internet connectivity in ru
 
 ---
 
-### Starlink සඳහා මූලික අනුමැතිය
+### Preliminary approval for Starlink
 
 *2024-06-06 13:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197460) · `si`
 
-ශ්‍රී ලංකාව තුළ චන්ද්‍රිකා තාක්ෂණය පදනම් කරගත් අන්තර්ජාල සේවා සැපයීම සඳහා “Starlink” වෙත ශ්‍රී ලංකා විදුලි සංදේශ නියාමන කොමිෂන් සභාවේ මූලික අනුමැතිය ලබාදී තිබේ.
+The Telecommunications Regulatory Commission of Sri Lanka has approved Starlink to offer satellite-based online services in the country, following a public consultation process. Further details will be released tomorrow.
 
-විධිමත් මහජන අදහස් විමසීමේ ක්‍රියාවලියකින් අනතුරුව මෙම තීරණය ගෙන ඇති අතර ඒ පිළිබඳ වැඩිදුර තොරතුරු හෙට (07) දිනයේ ප්‍රකාශයට පත් කිරීමට නියමිත බව ජනාධිපති මාධ්‍ය අංශය පවසයි.
+🟩
+
+The Telecommunications Regulatory Commission of Sri Lanka has approved the "Starlink" to provide satellite technology based online services in Sri Lanka.
+
+The decision has been taken following a proper public affiliation process and further information will be published tomorrow (07).
 
 ◼️
 
 [Data](articles/54eb31dc.json)
 
+[Extended Data](ext_articles/54eb31dc.ext.json)
+
 ---
 
-### කුරුළු උණ හේතුවෙන් ලොව පළමු මරණය වාර්තා වෙයි
+### The first death in the world has been reported due to the bird fever
 
 *2024-06-06 13:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197459) · `si`
 
-සෞඛ්‍ය ගැටලුවලට මුහුණදෙමින් සිටි මෙක්සිකෝවේ පුද්ගලයෙක් කුරුළු උණ හේතුවෙන් මියගොස් ඇති බව ජාත්‍යන්තර මාධ්‍ය පවසයි.
+The first death attributed to bird fever occurred in Mexico, where a 59-year-old man succumbed to the disease in April. The World Health Organization confirmed this as the first such case globally, noting the man hadn't been exposed to the bird flu virus, suggesting a low risk of infection from birds.
 
-එම පුද්ගලයා පසුගිය අප්‍රේල් මාසයේදී මියගොස් ඇති බවත් ඔහුට වැළඳී ඇත්තේ කුරුළු උණ බවත් ලෝක සෞඛ්‍ය සංවිධානය පැවසුවේය.
+🟩
 
-ඒ අනුව කුරුළු උණ හේතුවෙන් ලොව වාර්තා වූ පළමු පුද්ගල මරණය මෙය වෙයි.
+Mexico, who was facing health problems, died due to the bird fever.
 
-59 හැවිරිදි එම පුද්ගලයා වෛරසයට නිරාවරණය වූයේ කෙසේද යන්න මෙතෙක් හෙළිවී නොමැත.
+The World Health Organization said that the man had died last April and he had embraced bird fever.
 
-නමුත් ලෝක සෞඛ්‍ය සංවිධානය පැවසුවේ කුරුළු උණ වෛරසය මිනිසාට වැළඳීමේ හැකියාව ඉතා අඩු බවයි.
+This is the first death in the world due to the bird fever.
+
+The 59-year-old man has not been revealed yet to be exposed to the virus.
+
+But the World Health Organization said that the possibility of hugging the bird flu virus is very low.
 
 ◼️
 
 [Data](articles/bb66ed69.json)
+
+[Extended Data](ext_articles/bb66ed69.ext.json)
 
 ---
 
@@ -173,6 +203,24 @@ Stressing the importance of conveying this information to the government, he hig
 [Data](articles/bf05454e.json)
 
 [Extended Data](ext_articles/bf05454e.ext.json)
+
+---
+
+### Senior Maldivians seek to settle in Sri Lanka: FM asks for permission
+
+*2024-06-06 13:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Senior-Maldivians-seek-to-settle-in-Sri-Lanka-FM-asks-for-permission/108-284260) · `en`
+
+Colombo, June 6 (Daily Mirror) - Maldivian Minister of Foreign Affairs Moosa Zameer during his visit to Sri Lanka, requested Public Security Minister Tiran Alles to facilitate arrangements for Maldivian senior citizens to come to Sri Lanka for permanent residence.
+
+This request was made during their meeting at the Ministry of Public Security, attended by a delegation led by Ms. Sheryna Abdul, Maldivian Minister of State for Foreign Affairs.
+
+The discussions primarily revolved around immigration matters, including visa issuance procedures. Minister Zameer commended Sri Lanka's Immigration Department for introducing new visa categories.
+
+The two Ministers also exchanged views on the current political situation.
+
+◼️
+
+[Data](articles/d347309d.json)
 
 ---
 
@@ -390,11 +438,13 @@ Meanwhile, for 60-90 units the charge is to be reduced to Rs. 18. The current ra
 
 *2024-06-06 12:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Electricity-tariff-to-be-reduced-from-July-1-Kanchana/108-284245) · `en`
 
-Parliament, June 6 (Daily Mirror) - The Ceylon Electricity Board (CEB) will submit its proposal on electricity tariff revision to the Public Utility Commission of Sri Lanka (PUCSL) soon, and the tariff revision will be effective from July 1, Power and Energy Minister Kanchana Wijesekara said today.
+Parliament, June 6 (Daily Mirror) - The Ceylon Electricity Board (CEB) will submit its proposal on electricity tariff revision to the Public Utility Commission of Sri Lanka (PUCSL) tomorrow or on Monday, and the tariff revision will be effective from July 1, Power and Energy Minister Kanchana Wijesekara said today.
 
 He told Parliament that the CEB has proposed to reduce the electricity tariff for the category between 0 and 30 units by Rs. 2 from Rs. 8 to Rs. 6 per unit, and for the category between 30 and 60 units by Rs. 11 from Rs. 20 to Rs. 9.
 
 He said the category between 60 and 90 units will be reduced from Rs. 30 to Rs. 18, while 90 and 120 units will be reduced from Rs. 50 to Rs. 30.
+
+The Minister said if the PUCSL proposed that electricity consumers must be given more relief on tariffs, the CEB is ready to consider it.
 
 ◼️
 
@@ -1254,7 +1304,7 @@ The accused, along with Kerala cannabis and the dinghy were handed over to the M
 
 ---
 
-### ’Doesn’t get more special’ - Uganda celebrate first win
+### 'Doesn’t get more special' - Uganda celebrate first win
 
 *2024-06-06 09:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Doesnt-get-more-special-Uganda-celebrate-first-win/108-284239) · `en`
 
@@ -2117,45 +2167,5 @@ The arrests were carried out by officers of the Welioya Police, Mullaitivu Crime
 [Data](articles/bf9abb91.json)
 
 [Extended Data](ext_articles/bf9abb91.ext.json)
-
----
-
-### AKD agrees to debate on ITN as Sajith remains mum
-
-*2024-06-06 04:20:56* · [`dailyftlk`](https://www.ft.lk/news/AKD-agrees-to-debate-on-ITN-as-Sajith-remains-mum/56-762674) · `en`
-
-The National People’s Power (NPP) party, in a letter to the Independent Television Network (ITN), accepted its invitation for its leader Anura Kumara Dissanayake to engage in a televised debate with Opposition Leader Sajith Premadasa today.
-
-NPP Executive Council member Dr. Nalinda Jayatissa, in response to ITN’s offer to host the long-delayed economic debate between the two party leaders, stated that NPP leader Anura Kumara Dissanayake is prepared to participate in the debate.
-
-While thanking the channel for its offer, Dr. Jayatissa also requested ITN to inform the NPP of Premadasa’s confirmation of attendance, as it is not a usual political dialogue but an already scheduled debate. He asked ITN to notify the NPP if Premadasa will attend the event on the designated date and time.
-
-However, at the time of writing, neither the SJB nor Premadasa had responded to ITN’s offer.
-
-...
-
-[Data](articles/186c7897.json)
-
-[Extended Data](ext_articles/186c7897.ext.json)
-
----
-
-### Setback for BJP in Faizabad seat despite Ram Temple momentum
-
-*2024-06-06 04:18:51* · [`dailyftlk`](https://www.ft.lk/news/Setback-for-BJP-in-Faizabad-seat-despite-Ram-Temple-momentum/56-762673) · `en`
-
-BJP’s two-time sitting MP, Lallu Singh, suffered a defeat at hands of Samajwadi Party’s Awadhesh Prasad in Faizabad
-
-The construction of the Ram Mandir in Ayodhya, seen by many as one of the defining emotive issues of this year’s Lok Sabha polls, did not yield electoral dividends for the Bharatiya Janata Party (BJP) locally as the party lost the Faizabad constituency that houses the temple town.
-
-The BJP’s two-time sitting MP, Lallu Singh, suffered a defeat at the hands of the Samajwadi Party’s Awadhesh Prasad in Faizabad. The defeat highlighted the success of the Samajwadi Party’s new caste calculus as the party’s strategy to field its prominent Dalit leader, Awadhesh Prasad, from a non-reserved constituency dealt a decisive blow.
-
-Prasad bagged 554,289 votes as against Singh’s 499,722 and won the seat by a margin of 54,567. With this victory, memories of the 1989 polls came back, when Mitrasen Yadav of the CPI had won the seat in the middle of the temple movement.
-
-...
-
-[Data](articles/ffd00122.json)
-
-[Extended Data](ext_articles/ffd00122.ext.json)
 
 ---

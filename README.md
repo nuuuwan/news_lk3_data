@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-06 12:06:32**
+As of **2024-06-06 12:18:53**
 
 ## Newspaper Stats
 
-*Scraped **28,781** Articles*
+*Scraped **28,788** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,80 +15,116 @@ newsfirstlk | 363
 islandlk | 1,553
 economynextcom | 1,636
 dailyftlk | 1,711
-adalk | 2,454
+adalk | 2,455
 adaderanalk | 3,264
 tamilmirrorlk | 3,382
 virakesarilk | 4,414
-dailymirrorlk | 4,567
+dailymirrorlk | 4,573
 adaderanasinhalalk | 4,623
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,776 (100.0%) of 28,781 articles have been extended.
+28,781 (100.0%) of 28,788 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-06 (Thursday)
 
-### විදුලි බිලේ අලුත් මිල ගණන් ඇමති හෙළිකරයි
+### Electricity tariff to be reduced from July 1: Kanchana
+
+*2024-06-06 12:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Electricity-tariff-to-be-reduced-from-July-1-Kanchana/108-284245) · `en`
+
+Parliament, June 6 (Daily Mirror) - The Ceylon Electricity Board (CEB) will submit its proposal on electricity tariff revision to the Public Utility Commission of Sri Lanka (PUCSL) soon, and the tariff revision will be effective from July 1, Power and Energy Minister Kanchana Wijesekara said today.
+
+He told Parliament that the CEB has proposed to reduce the electricity tariff for the category between 0 and 30 units by Rs. 2 from Rs. 8 to Rs. 6 per unit, and for the category between 30 and 60 units by Rs. 11 from Rs. 20 to Rs. 9.
+
+He said the category between 60 and 90 units will be reduced from Rs. 30 to Rs. 18, while 90 and 120 units will be reduced from Rs. 50 to Rs. 30.
+
+◼️
+
+[Data](articles/340d0938.json)
+
+---
+
+### Minister of electricity is revealed
 
 *2024-06-06 11:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197455) · `si`
 
-ජූලි මාසයේ 1 වනදා සිට විදුලි බිල අඩු කිරීමට යෝජනා කර ඇති බව විදුලිබල හා බලශක්ති අමාත්‍ය කංචන විජේසේකර මහතා අද (06) පාර්ලිමේන්තුවේ දී පැවසීය.
+Kanchana Wijesekara announced a proposed reduction in electricity bills from July 1st, aiming to offer more relief to household consumers. The Public Utilities Commission is expected to approve this proposal, which includes lowering prices from Rs. 8 to Rs. 30.
 
-ඒ අනුව ගෘහස්ත කාණ්ඩයේ පාරිභෝගිකයින්ට වැඩි සහනයක් ලබාදීමට නියමිත බවත් එම යෝජනාවට මහජන උපයෝගීතා කොමිසමේ අනුමැතිය හිමිවනු ඇතැයි අපේක්ෂා කරන බව ද අමාත්‍යවරයා මෙහිදී කියා සිටියේය.
+🟩
 
-ඒ අනුව ඒකක 0 - 30 අතර ඒකකයක මිල රුපියල් 8 සිට 6 දක්වා අඩු කිරීමට ද, ඒකක 30 - 60 අතර රුපියල් 20 සිට  9 දක්වා අඩු කිරීමටත්, ඒකක 60 - 90 රුපියල් 30 සිට 18 දක්වා අඩු කිරීමට ද, ඒකක 90- 180 රුපියල් 50 සිට 30 දක්වා අඩුකිරීමටත් යෝජනා කර ඇති බව අමාත්‍යවරයා පැවසීය.
+Minister of Power and Energy Kanchana Wijesekara said that the electricity and energy bill was proposed to reduce the electricity bill from 1st July.
+
+Accordingly, the household category consumers will be able to provide more relief to the consumers and the proposal is expected to be approved by the Public Utilities Commission.
+
+Accordingly, the price of Rs. 8 to Rs.The Minister said that the government has also been proposed to reduce to 30.
 
 ◼️
 
 [Data](articles/9845664f.json)
 
+[Extended Data](ext_articles/9845664f.ext.json)
+
 ---
 
-### ශ්‍රී ලාංකිකයන් බේරාගන්න මේ මාර්ගයේ යන්න  - වසන්ත යාපා බණ්ඩාර
+### Save Sri Lankans to rescue Sri Lanka - Wasantha Yapa Bandara
 
 *2024-06-06 11:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197454) · `si`
 
-මියන්මාරයේ ත්‍රස්ත ග්‍රහණයේ පසුවන ශ්‍රී ලාංකිකයන් බේරාගැනීමට මාර්ගයක් සොයාගත් බව පාර්ලිමේන්තු මන්ත්‍රී නීතිඥ වසන්ත යාපා බණ්ඩාර මහතා අද (06) පාර්ලිමේන්තුවේදී පැවසීය.
+Sri Lankan lawyer Wasantha Yapa Bandara announced efforts to rescue compatriots stranded in Myanmar and Russia through diplomatic channels, including discussions with Thai officials and handing over records of 220 individuals to St. Petersburg's consul. He urged the government to act swiftly, highlighting potential leads from family members of missing persons.
 
-ඒ අනුව මන්ත්‍රීවරයා  කථානායකවරයාගෙන් ඉල්ලා සිටියේ මේ සම්බන්ධයෙන් රජය දැනුවත් කරන ලෙසය.
+🟩
 
-"මියන්මාරයම සහ රුසියාවට ගොස් සිරවී සිටින ශ්‍රී ලාංකිකයන් සම්බන්ධයෙන් අප තොරතුරු එක්රැස් කළා. දැන් අපිට ප්‍රවේශයක් තිබෙනවා මේ ප්‍රශ්නය විසඳන්න."
+Attorney-at-Law Wasantha Yapa Bandara said that Sri Lankans in Myanmar had found a road to save Sri Lankans.
 
-"අපි විදේශගතවෙලා මියන්මාරය සහ තායිලන්තය කියන ප්‍රවේශ දෙකෙන්ම මේ ගැන සාකච්ඡා කළා."
+Accordingly, the MP requested the Speaker to inform the government in this regard.
 
-"තායිලන්තයේ අධිකරණ අමාත්‍යාංශය යටතේ DSI කියලා විශේෂ ආයතනයක් තිබෙනවා. මේ ආයතනය සම්බන්ධ කරගෙන සාකච්ඡා ආරම්භ කළොත් මියන්මාරයේ රඳවාගෙන ඉන්න 49දෙනා අපට බේරගන්න පුළුවන්. ඒ ගැන රජයට දැනුම්දෙන්න."
+"We have assembled the Sri Lankans trapped in Myanmar and Russia. Now we have access to solve this problem. "
 
-"ඒ් වගේම රුසියාවේ 1000කට අධික පිරිසක් ඉන්නවා කියලා අපි විශ්වාස කරනවා. 220 දෙනෙකුගේ වාර්තාවක් අපි සෙන්ට් පීටස්බර්ග් කොන්සල්වරයාටත් තානාපතිවරයාටත් භාරදීලා... අපි ඉල්ලීමක් කළා ශ්‍රී ලාංකිකයන් බේරගන්න සහාය වෙන්න කියලා."
+"We overseas and discussed this with Myanmar and Thailand."
 
-"මේක විදිමත් කළොත් රෝහල්ගත වෙලා ඉන්න පිරිස, අතුරුදන්වූ අය ගැන ඔවුන්ගේ පවුල්වල අයට තොරතුරු ලබාදෙන්න පුළුවන්."
+"There is a special company that DSI is under the Ministry of Justice in Thailand. We can save 49 people in Myanmar, connecting this institute. Inform the government about it. "
+
+"We believe that there are over 1000 people in Russia. The record of 220 people we handed over to Saint Petezburg Consul to the ambassador.. We requested to help save Sri Lankans. "
+
+"If you leave, their families may provide information about the missing people."
+
+Three opposition members have left for Thailand on the 27th.
 
 ...
 
 [Data](articles/8ee13da0.json)
 
+[Extended Data](ext_articles/8ee13da0.ext.json)
+
 ---
 
-### පූජ්‍ය බානගල උපතිස්ස නාහිමිගෙන් මෝදි ට ආශිර්වාද
+### Barnagala Upatissa Nehambimi
 
 *2024-06-06 11:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197453) · `si`
 
-ශ්‍රී ලංකා මහාබෝධි සංගමයේ සභාපති, ජපානයේ ලංකාජී විහාරස්ථානයේ විහාරාධිපති පූජ්‍ය බානගල උපතිස්ස නාහිමියන් ඉන්දීය අග්‍රාමාත්‍ය නරේන්ද්‍ර මෝදී මහතාට ආශිර්වාද එක්කර තිබේ.
+Ven Barnagala Upatissa Nehambimi, Chief Incumbent of the Sri Lanka Mahabodhi Union, praised Narendra Modi's leadership for India's development and global impact. Modi's vision and dedication have not only advanced India but also contributed positively to the world stage. Under his guidance, India is showcasing resilience, innovation, and overall growth. His ongoing leadership promises further progress and prosperity, highlighting his commitment to serving the nation and making a global difference.
 
-නිවේදනයක් නිකුත් කරමින් උන්වහන්සේ සඳහන් කර ඇත්තේ, මෙම සුවිශේෂී ජයග්‍රහණය නරේන්ද්‍ර මෝදිගේ සුවිශේෂී නායකත්වය, දැක්ම සහ රටේ අභිවෘද්ධිය සඳහා වූ නොසැලෙන කැපවීම පිළිබඳ සාක්ෂියක් බවය.
+🟩
 
-නරේන්ද්‍ර මෝදි මහතාගේ කැපී පෙනෙන දායකත්වය ඉන්දියාව තුළ සැලකිය යුතු ප්‍රගතියක් සහ සංවර්ධනයක් ඇති කිරීමට පමණක් නොව ගෝලීය වේදිකාවට ධනාත්මක ලෙස බලපා ඇති බව ද නාහිමියන් වැඩිදුරටත් සඳහන් කර තිබේ.
+The Chief Incumbent of the Sri Lanka Mahabodhi Union, Sri Lanka Viharaya, Ven
 
-මෝදි මහතාගේ මඟ පෙන්වීම යටතේ, ඉන්දියාව නොනැසී පවතින අතර, ඔරොත්තු දීමේ හැකියාව, නවෝත්පාදනය සහ රටේ සියලු අංශවල වර්ධනය පෙන්නුම් කරන බව ද බානගල උපතිස්ස හිමි සඳහන් කරයි.
+The Thero has issued an announcement, the significant achievement is a testimony of Narendra Modi's unique leadership, vision and unwavering commitment to the development of the country.
 
-නරේන්ද්‍ර මෝදි මහතාගේ අඛණ්ඩ නායකත්වය ඉන්දියාවට තවත් දියුණුවක් සහ සෞභාග්‍යයක් ගෙන එනු ඇතැයි තම විශ්වාසය බව ද සඳහන් කර ඇති උන්වහන්සේ ජාතියට සේවය කිරීමට සහ ලෝකයේ වෙනසක් කිරීමට මෝදි මහතා දක්වන කැපවීම ඇත්තෙන්ම ප්‍රශංසනීය බව ද සඳහන් කර තිබේ.
+The outstanding contribution of Narendra Modi has made significant progress in India but also positively to the global platform.
+
+Under the guidance of Mr. Modi, India is surviving, and India will show that the development of resilience, innovation and all aspects of the country are demonstrating.
+
+It is said that Narendra Modi's continuous leadership will bring a further advancement and prosperity to India and the commitment of Mr. Modi to serve the nation and make a difference in the world is indeed commendable.
 
 ◼️
 
 [Data](articles/825fc16c.json)
+
+[Extended Data](ext_articles/825fc16c.ext.json)
 
 ---
 
@@ -114,23 +150,29 @@ Meanwhile, the authorities have issued stern warnings to the public, advising ag
 
 ---
 
-### ගම්පහ ජලයෙන් යටවීම වැළැක්වීමට මෙහෙයුම් කමිටුවක්
+### Action committee to prevent Gampaha from water
 
 *2024-06-06 11:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197452) · `si`
 
-ඉදිරියේදී ගම්පහ දිස්ත්‍රික්කය ජලයෙන් යටවීම වැළැක්වීම සඳහා සියලු රාජ්‍ය ආයතවලින් සමන්විත ඒකාබද්ධ මෙහෙයුම් කමිටුවක් පත් කිරීමට තීරණය කර තිබේ.
+A joint action committee, including public institutions like the Ministry of Urban Development and Housing, Urban Development Authority, and others, has been formed to tackle water issues in Gampaha District. Led by Urban Development and Housing Minister Prasanna Ranatunga, the committee aims to implement both short-term and long-term solutions to prevent water problems in the area.
 
-නාගරික සංවර්ධන හා නිවාස අමාත්‍ය ප්‍රසන්න රණතුංග මහතාගේ උපදෙස් පරිදි නාගරික සංවර්ධන හා නිවාස අමාත්‍යාංශ ලේකම් ඩබ්ලිව්. එස්. සත්‍යානන්ද හා ගම්පහ දිස්ත්‍රික් ලේකම් ලලින්ද ගමගේ යන මහත්වරුන්ගේ ප්‍රධානත්වයෙන් පැවැති සාකච්ඡාවේදී මෙම තීරණයට එළඹුණි.
+🟩
 
-ඉදිරියේදී ගම්පහ දිස්ත්‍රික්කය හා ගම්පහ නගරය ජලයෙන් යටවීම වැලැක්වීමට ගත යුතු ක්‍රියාමාර්ග මොනවද යන්න පිළිබඳව සාකච්ඡාවක් ඊයේ (05) දින කැඳවා තිබුණි. එය පැවැත්වුණේ ගම්පහ දිස්ත්‍රික් ලේකම් කාර්යාල ශ්‍රවණාගාරයේදීය.
+It has been decided to appoint a joint action committee consisting of all public institutions to prevent Gampaha District from water.
 
-ගම්පහ දිස්ත්‍රික්කය ජලයෙන් යටවීම වැලැක්වීම සඳහා ශ්‍රී ලංකා ඉඩම් සංවර්ධනය කිරීමේ සංස්ථාවේ නියෝජ්‍ය සාමාන්‍යාධිකාරී (පර්යේෂණ සහ සැලසුම්) ඉංජිනේරු කේ.එච්. කීර්තිරත්න මහතා විසින් තෙවැදෑරුම් වැඩපිළිවෙලක් මෙහිදී ඉදිරිපත් කළේය.
+Urban Development and Housing Minister Prasanna Ranatunga's instructions WD. S. The decision was made in the meeting with the patronage of Mr. Alagananda and Gampaha District Secretary Lalgal Gamage.
 
-මෙම තෙවැදෑරුම් වැඩපිළිවෙල ක්‍රියාත්මක කිරීමේ වගකීම පත්කර ගත් ඒකාබද්ධ මෙහෙයුම් කමිටුවට පැවරීමට මෙහිදී තීරණය කෙරුණි.
+A discussion had been convened on the occasion as a discussion to prevent the Gampaha District and Gampaha to prevent water from water. It was held at the Gampaha District Secretariat auditorium.
+
+Deputy General Manager of Sri Lanka Land Development Corporation (Research & Planning Corporation) to prevent Gampaha District from Water Supply (Research & Planning) Engineering K.H. Mr. Keerthirathne offered a triumphant program.
+
+The meeting was decided to assign the joint action committee appointed to carry out this triumph program.
 
 ...
 
 [Data](articles/e8bc242e.json)
+
+[Extended Data](ext_articles/e8bc242e.ext.json)
 
 ---
 
@@ -154,6 +196,42 @@ Accordingly, the apology issued by the former president has been ruled out.. Rem
 
 ---
 
+### Thilanga Sumathipala has no ethical or legal right to represent UPFA
+
+*2024-06-06 11:18:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Thilanga-Sumathipala-has-no-ethical-or-legal-right-to-represent-UPFA/108-284242) · `en`
+
+Colombo, June 6 (Daily Mirror) - Thilanga Sumathipala has no ethical right to pretend to be the United People's Freedom Alliance (UPFA) illegally, Sri Lanka Freedom Party (SLFP) Senior Vice President Mahinda Amaraweera said.
+
+Addressing the media, he said Sumathipala is not the UPFA General Secretary.
+
+"He has not been legally given such a position. I have filed a case before court regarding that appointment. The court has issued an injunction to prevent him or me from using that position until the case is over. Also, the Election Commission has sent a letter in this regard," he said.
+
+"Thilanga Sumathipala is making a mistake by claiming to be the UPFA General Secretary. It is contempt of court. So I am taking legal action in this regard.
+
+...
+
+[Data](articles/11ef2a29.json)
+
+---
+
+### Anura accepts ITN invitation for public debate with Sajith
+
+*2024-06-06 11:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Anura-accepts-ITN-invitation-for-public-debate-with-Sajith/108-284241) · `en`
+
+Colombo, June 06 (Daily Mirror)- The National People's Power (NPP) has informed the state owned Independent Television Network (ITN) channel that NPP Leader Anura Kumara Dissanayake is ready to participate in the debate with SJB leader Sajith Premadasa on the ITN channel.
+
+The NPP has acknowledged the letter sent by the ITN on June 4 expressing its willingness to facilitate the proposed debate on June 6.
+
+NPP Executive Committee member Dr. Nalinda Jayatissa, who is handling the matters related to the proposed debate said in a letter to the ITN chairman that it is important to confirm whether Premadasa is participating in the debate as it is a scheduled debate rather than a normal TV debate.
+
+He requested the ITN to immediately inform the NPP if Premadasa was participating in the debate on the scheduled date and time.
+
+◼️
+
+[Data](articles/ba607062.json)
+
+---
+
 ### SC invalidates Maithripala’s presidential pardon to Royal Park murder convict
 
 *2024-06-06 10:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/99697/sc-invalidates-maithripalas-presidential-pardon-to-royal-park-murder-convict) · `en`
@@ -171,6 +249,20 @@ The Supreme Court, which ruled that former President Sirisena had intentionally 
 [Data](articles/91ec1c6e.json)
 
 [Extended Data](ext_articles/91ec1c6e.ext.json)
+
+---
+
+### රෝයල් පාක් ඝාතකයාට මෛත්‍රී ජනපති සමාව දීම ආණ්ඩුක්‍රම ව්‍යවස්ථාවට පටහැනියි
+
+*2024-06-06 10:54:04* · [`adalk`](https://www.ada.lk/breaking_news/රෝයල්-පාක්-ඝාතකයාට-මෛත්‍රී-ජනපති-සමාව-දීම-ආණ්ඩුක්‍රම-ව්‍යවස්ථාවට-පටහැනියි/11-410046) · `si`
+
+රාජගිරිය, රෝයල් පාක් මිනීමැරුම් සිද්ධිය සම්බන්ධයෙන් මරණීය දණ්ඩනය නියම වී සිටි ජූඩ් ශමන්ත ජයමහ නැමැති විත්තිකරුට ජනපති සමාව ලබාද‍මට හිටපු ජනපති ‍ මෛත්‍රිපාල සිරිසේන මහතා ගත් තීරණය ආණ්ඩුක්‍රම ව්‍යවස්වස්ථාවටපටහැනි බව ශ්‍රේෂ්ඨාධිකරණය තීන්දු කළේය.
+
+ඒ අනුව හිටපු ජනාධිපතිවරයා විසින් අදාළ විත්තිකරු නිදහස් කරමින් දුන් ජනාධිපති සමාව බලරහිත බව ශ්‍රේෂ්ඨාධිකරණය තීන්දු කළේය.
+
+◼️
+
+[Data](articles/3fb6c16c.json)
 
 ---
 
@@ -299,6 +391,22 @@ President Ranil Wickremesinghe inaugurated his political office in Colombo this 
 [Data](articles/2084b1ee.json)
 
 [Extended Data](ext_articles/2084b1ee.ext.json)
+
+---
+
+### SC quashes Presidential Pardon granted to Jude Jayamaha in Royal Park case
+
+*2024-06-06 10:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/SC-quashes-Presidential-Pardon-granted-to-Jude-Jayamaha-in-Royal-Park-case/155-284236) · `en`
+
+Colombo, June 6 (Daily Mirror) - In another landmark judgment pertaining to the scope of the pardon granted by the executive President, the Supreme Court today ruled that former President Maithripala Sirisena's decision to grant a Presidential pardon to to Royal Park murder convict Don Shamantha Jude Anthony Jayamaha is arbitrary and not valid in law.
+
+Accordingly, the Supreme Court three-judge-bench comprising Justices S. Thurairaja, Yasantha Kodagoda and Janak de Silva ordered to set aside two Presidential pardons granted to Shamantha Jude Anthony Jayamaha for not following the Constitutional provisions.
+
+The Supreme Court declared that former President Maithripala Sirisena violated the Fundamental Rights of the petitioner and public trust doctrine while granting presidential pardon to the above mentioned respondent.
+
+...
+
+[Data](articles/11129e55.json)
 
 ---
 
@@ -648,6 +756,32 @@ The accused, along with Kerala cannabis and the dinghy were handed over to the M
 
 ---
 
+### ’Doesn’t get more special’ - Uganda celebrate first win
+
+*2024-06-06 09:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Doesnt-get-more-special-Uganda-celebrate-first-win/108-284239) · `en`
+
+(BBC) - Uganda captain Brian Masaba said it "doesn't get more special than this" after his side beat Papua New Guinea to earn their first win at a T20 World Cup.
+
+The Cricket Cranes, making their debut at a major global event in any of cricket's formats, edged to a tense victory by chasing 78 with three wickets and 10 balls remaining.
+
+"I mean, they've put in the work, they've put in such a shift. And to get a win for their country at the World Cup is very, very special."
+
+Uganda are the second-lowest ranked side in the tournament with only Canada below them and came through through African qualifying, where they stunned Zimbabwe.
+
+There are just 20 cricket clubs in Uganda. In contrast there are 800 in Yorkshire alone.
+
+"It has been quite a journey to make this happen," Masaba said.
+
+"Getting to a World Cup was very special but this is even more special."
+
+Spinner Frank Nsubuga, 43, bowled the most economical four overs in T20 World Cup history with his two wickets costing only four runs.
+
+...
+
+[Data](articles/6fd6c5d4.json)
+
+---
+
 ### The student who had fun in floods to the human
 
 *2024-06-06 09:04:52* · [`adalk`](https://www.ada.lk/breaking_news/ගංවතුරේ-විනෝද-වෙන්න-ගිය-සිසුවා-ජිවිතක්ෂයට/11-410039) · `si`
@@ -757,6 +891,22 @@ Sri Lanka Department of Immigration and Emigration retains the sole authority to
 [Data](articles/6c68a8e4.json)
 
 [Extended Data](ext_articles/6c68a8e4.ext.json)
+
+---
+
+### Sri Lankan missions getting stripped of authority in issuing visas
+
+*2024-06-06 08:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankan-missions-getting-stripped-of-authority-in-issuing-visas/108-284226) · `en`
+
+Colombo, June 6 (Daily Mirror) - Overseas Sri Lankan missions are in the process of being stripped of their authority to issue different categories of visas for foreign nationals including resident visas with the introduction of online application, an official said.
+
+Sri Lanka has now introduced acceptance of online visas from foreign nationals intending to visit Sri Lanka. As a result, the Sri Lankan missions virtually lose their authority to accept document and issue visas.
+
+Sri Lanka Department of Immigration and Emigration retains the sole authority to issue visas in partnership with VFS Global for processing applications. Asked for a comment in this regard, Controller General of Immigration and Emigration I.S.H.J. Ilukpitiya said there is no need for any foreign national to reach the nearest Sri Lankan mission to apply for visas now.
+
+...
+
+[Data](articles/d7dd3a34.json)
 
 ---
 
@@ -1210,27 +1360,35 @@ AHK Sri Lanka played a pivotal role in organising and supporting the delegation,
 
 ---
 
-### ශාරීරික දඬුවම් අපරාධයක් බවට පත් කිරීමට අනුමැතිය: රන්ජන් රාමනායකගේ අත්දැකීම
+### Approval to make physical punishment a crime: experience Ranjan Ramanayake's experience
 
 *2024-06-06 04:42:30* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c033kdw092go) · `si`
 
-ශාරීරික දඬුවම් අපරාධයක් බවට පත් කිරීමට අනුමැතිය: රන්ජන් රාමනායකගේ අත්දැකීම
+In Sri Lanka, a move to criminalize physical punishment gained momentum, highlighted by the experiences shared by former MP Ranjan Ramanayake. Despite societal norms favoring corporal punishment, initiatives like Ranjan's art exhibition, which replaced physical punishment with creative tasks, showed positive outcomes. The proposal aims to amend laws to prohibit physical punishment, reflecting a shift towards more humane educational practices.
 
-ආහාර ගනිමින් සිටින කුඩා දරුවෙකුට පහර දෙන වීඩියෝවක් කෙරෙහි පසුගිය දින කිහිපය තුළ සමාජ මාධ්‍ය භාවිත කරන්නන් බොහෝ පිරිසකගේ අවධානයට ලක් විය.
+🟩
 
-ඒ අනුව, ඒ සම්බන්ධයෙන් ක්‍රියාත්මක වූ පොලිසිය, අදාළ දරුවාට පහර දීමේ සිද්ධියට සම්බන්ධ සැකකරු සහ තවත් කාන්තාවන් දෙදෙනෙකු බදාදා (ජූනි 5) අත්අඩංගුවට ගත් බව පොලිස් මාධ්‍ය කොට්ඨාසය නිවේදනය කළේ ය.
+Approval to make physical punishment a crime: experience Ranjan Ramanayake's experience
 
-අත්අඩංගුවට ගත් සැකකරු 45 හැවිරිදි පුද්ගලයෙකු වන අතර, කාන්තාවන් දෙදෙනා 37 හැවිරිදි හා 46 හැවිරිදි වයස්වල පසු වන වැලිඔය, කල්‍යායාණපුර ප්‍රදේශයේ පදිංචිකරුවෝ වෙති.
+In the past few days, many social media users were concerned in the past few days.
 
-මේ අතර, අදාළ වීඩියෝව සමාජ මාධ්‍ය ඔස්සේ සංසරණය වීමත් සමග නිවසින් පළාගොස් සැඟවී සිටි සැකකරුට නවාතැන් දුන් පුද්ගලයෙකු ද අත්අඩංගුවට ගෙන ති‌බේ.
+Accordingly, the police and two other women have been arrested in connection with the suspect in the attack and two other women.
 
-සැකකරු සහ කාන්තාවන් දෙදෙනා පදවිය මහේස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමෙන් පසු ජූනි 19 වන දා තෙක් රක්ෂිත බන්ධනාගාරගත කිරීමට නියෝග කෙරිණි.
+The suspect is a 45 year old man, and the two women are residents of Welioya, Kalheyanura, a 37 year old age and 46 years old.
 
-ප්‍රහාරයට ලක්වූ වයස අවුරුදු 4 1/2ක ගැහැණු දරුවා ළමා පරිවාස දෙපාර්තමේන්තුව භාරයට පත්කර තිබේ.
+Meanwhile, a person has also been arrested by the family with circulation of the social media.
+
+The suspects and women were produced before the Padaviya Magistrate's Court and remanded until June 19.
+
+The girl was attacked by the 4 1/2 year old boy in charge of the Child Probation Department.
+
+The Penal Code and Criminal Procedure Code of Criminal Code and the Criminal Code of Criminal Code of Sri Lanka were interpreted as a crime.
 
 ...
 
 [Data](articles/52e90bb0.json)
+
+[Extended Data](ext_articles/52e90bb0.ext.json)
 
 ---
 
@@ -2007,155 +2165,5 @@ The period before commencing A/L classes often leads to a decrease in students' 
 [Data](articles/d17713dc.json)
 
 [Extended Data](ext_articles/d17713dc.ext.json)
-
----
-
-### Ali Sabry discusses remittance limits for Sri Lankan workers in Maldives
-
-*2024-06-05 23:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ali-Sabry-discusses-remittance-limits-for-Sri-Lankan-workers-in-Maldives/108-284200) · `en`
-
-June 05 - While reaffirming the strong bilateral ties between the two countries, Foreign Minister Ali Sabry on Wednesday said he held discussions with his Maldivian counterpart Moosa Zameer, to revisit the limits imposed on foreign currency remittances of Sri Lankan migrant workers in the Maldives.
-
-The discussions were part of the four-day official visit undertaken by Zameer who was scheduled to meet President Ranil Wickremesinghe today before concluding his visit tomorrow.
-
-“I welcome the Maldives commitment in providing employment opportunities for Sri Lanka and express hope that the two countries will work on a government-to-government recruitment process. I also requested the Maldivian side to consider revisiting the current limit imposed on outward foreign currency remittances, for the benefit of the Sri Lankan migrant workers, in the Maldives,” Sabry said following bilateral talks with the Maldivian Foreign Minister.
-
-...
-
-[Data](articles/6f764312.json)
-
-[Extended Data](ext_articles/6f764312.ext.json)
-
----
-
-### Former Champion India won Ireland by 8 wickets
-
-*2024-06-05 23:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/185407) · `ta`
-
-India won against Ireland by 8 wickets in the 9th T20 World Cup, scoring 97 runs in 12.2 overs after Ireland managed 97 runs. Key performances included Rohit Sharma reaching 1000 runs in the tournament, sharing a 54-run partnership with Rishabh Pant, and Hardik Pandya taking 3 wickets.
-
-🟩
-
-Former Champion India won Ireland by 8 wickets in the A group of the 9th T20 World Cup chapter A group that ended shortly before the New York Nasav Stadium.
-
-In response to 97 runs for Ireland, India won by 2 wickets in 12.2 overs and scored 97 runs.
-
-Team captain Rohit Sharma and Virat Kohlium were occasionally stumbled as Ireland's fast bowlers bowled.
-
-In the third over, Virat Kohli hit the ball of Mark Adyar, with a running out of Thirt Man with a run.
-
-Rohit Sharma and Rishabh Band were then relaxed and then stunned by Rohit Sharma when they shared 54 runs in the 2nd wicket.
-
-Rohit Sharma retired with 4 pounds and 3 sixes.
-
-Josh Litle bowled in the 9th over and hit the muscular part of Rohit Sharma's right elbow. Rohit Sharma then returned to the rest of the ball in the last ball of the 10th over.
-
-Meanwhile, Rohit Sharma completes 1,000 runs (1,015) in his 37th innings in the R20 World Cup.
-
-...
-
-[Data](articles/8df68855.json)
-
-[Extended Data](ext_articles/8df68855.ext.json)
-
----
-
-### India beat Ireland by eight wickets in T20 World Cup
-
-*2024-06-05 23:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/India-beat-Ireland-by-eight-wickets-in-T20-World-Cup/108-284216) · `en`
-
-(New York) - India hammered Ireland by eight wickets in the teams' Group A T20 World Cup opener in New York on Wednesday. #betss
-
-India bowled out Ireland for just 96 after winning the toss, with Hardik Pandya taking three wickets and fellow pacemen Jasprit Bumrah and Arshdeep Singh two apiece.
-
-They then chased down a target of 97 with more than seven overs to spare, captain Rohit Sharma making 52 before retiring hurt and Rishabh Pant 36 not out.
-
-◼️
-
-[Data](articles/8f4ce1fd.json)
-
-[Extended Data](ext_articles/8f4ce1fd.ext.json)
-
----
-
-### Should The Economic Transformation Bill Proceed?
-
-*2024-06-05 22:56:24* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/should-the-economic-transformation-bill-proceed/) · `en`
-
-Given the pivotal role of debt restructuring in the Economic Transformation Bill (ETB), the debt-to-GDP ratio may not remain below 95% by 2032 and reach an optimal level of 60% by 2048. This uncertainty also extends to the gross financing needs, which may not stay below 13%. While a 5% increase by 2027 seems feasible regarding GDP growth, it is uncertain if it will continue to exceed 5% after 2027. The ETB does not clearly outline the necessary economic growth to achieve Advanced Economic Status by 2048. This is a crucial factor in determining investment and welfare and, ultimately, improving the well-being of the people. A clear and comprehensive economic policy framework is necessary, rather than relying on arbitrary targets or a legal framework.  Based on the current US$ 4000 per capita income in Sri Lanka, achieving Advanced Economic Status by 2048 without such a framework seems highly improbable.
-
-...
-
-[Data](articles/80e9ba7f.json)
-
-[Extended Data](ext_articles/80e9ba7f.ext.json)
-
----
-
-### Ravindra Randeniya celebrates 50 years in cinema
-
-*2024-06-05 22:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Ravindra-Randeniya-celebrates-50-years-in-cinema/110-284215) · `en`
-
-Renowned artist Ravindra Randeniya, celebrating 50 years in cinema and his 79th birthday, was honored at a ceremony held at the Bandaranaike Memorial International Conference Hall (BMICH) this evening, with President Ranil Wickremesinghe and Prime Minister Dinesh Gunawardena in attendance. Pix by Nimalsiri Edirisinghe
-
-◼️
-
-[Data](articles/0df5cc8d.json)
-
-[Extended Data](ext_articles/0df5cc8d.ext.json)
-
----
-
-### India beat India
-
-*2024-06-05 22:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197437) · `si`
-
-In a cricket match, India triumphed over Ireland. Rohit Sharma shone with 52 runs, including six sixes and four fours off 26 balls. The Irish team managed 96 runs in 16 overs while batting first.
-
-🟩
-
-India won the match against the Irish team.
-
-Rohith Sharma scored 52 runs for India.
-
-His innings took three sixes and four fours in his innings.
-
-He was built in 26 balls with six sixes and 3 fours.
-
-Batting first, Irish group scored 96 runs in 16 overs.
-
-◼️
-
-[Data](articles/d7264ecd.json)
-
-[Extended Data](ext_articles/d7264ecd.ext.json)
-
----
-
-### Two arrested with Kerala Cannabis
-
-*2024-06-05 22:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197436) · `si`
-
-Two men, aged 34 and 40 from Jaffna, were arrested by the Navy for possessing 70 kg of Kerala cannabis worth around Rs. 28 million. The arrest occurred during transportation, and both suspects' devices and calendars have been handed over for investigation.
-
-🟩
-
-Two suspects have been arrested by the Navy with a stock of Kerala cannabis at the North.
-
-The arrested were residents of Jaffna, aged 34 and 40 years old.
-
-There is a property for 70 kilograms of Kerala cannabis in their possession.
-
-The value of its value is nearly Rs. 28 million.
-
-The Navy has arrested them while the Kerala cannabis was transporting the Kerala cannabis.
-
-The arrested suspects and the navy calendar and the digie were handed over to the Maradken Kankenda Police for further investigations.
-
-◼️
-
-[Data](articles/77fa8628.json)
-
-[Extended Data](ext_articles/77fa8628.ext.json)
 
 ---

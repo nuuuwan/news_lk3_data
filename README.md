@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-06 16:05:24**
+As of **2024-06-06 16:19:03**
 
 ## Newspaper Stats
 
-*Scraped **28,851** Articles*
+*Scraped **28,853** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,54 @@ adalk | 2,462
 adaderanalk | 3,273
 tamilmirrorlk | 3,391
 virakesarilk | 4,427
-dailymirrorlk | 4,580
+dailymirrorlk | 4,582
 adaderanasinhalalk | 4,632
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,843 (100.0%) of 28,851 articles have been extended.
+28,851 (100.0%) of 28,853 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-06 (Thursday)
+
+### ICC stands firm on New York despite India pitch fears
+
+*2024-06-06 16:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/ICC-stands-firm-on-New-York-despite-India-pitch-fears/108-284269) · `en`
+
+(BBC) - There are no plans in place to move any T20 World Cup fixtures out of New York despite growing fears over substandard pitches.
+
+Serious concerns are mounting over the unpredictable nature of the drop-in surfaces at the Nassau County International Cricket Stadium after the first two fixtures played at the venue.
+
+On Monday, Sri Lanka were bowled out by South Africa for 77 – their lowest score in T20s - while India dismissed Ireland for 96 on Wednesday.
+
+BBC Sport understands India have privately voiced their unhappiness with the unpredictable bounce and two-paced nature of the strips amid worries over the safety of their batters.
+
+India play Pakistan on Sunday at the venue in Eisenhower Park in one of the most eagerly-anticipated fixtures of the tournament with a capacity crowd of 32,000 expected.
+
+The International Cricket Council (ICC) is believed to be analysing data from previously abandoned games to establish how to react should it need to act.
+
+...
+
+[Data](articles/3dff4a04.json)
+
+---
+
+### Ven. Balangoda Kassapa Thera arrested for protesting near Parliament
+
+*2024-06-06 16:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ven-Balangoda-Kassapa-Thera-arrested-for-protesting-near-Parliament/108-284268) · `en`
+
+Colombo, June 6 (Daily Mirror) - Venerable Balangoda Kassapa Thera, who was preparing to launch a fast near Parliament with a protest sign board against the proposed Electricity Act, was arrested this afternoon by the Thalangama Police.
+
+They said the Thera was arrested by some police officers who came to the place less than ten minutes after he began the fast.
+
+◼️
+
+[Data](articles/24e47ef1.json)
+
+---
 
 ### Postponing of 2023 LG polls: SC concludes hearing of petitions, verdict deferred
 
@@ -46,25 +82,33 @@ The judge bench, which concluded the hearing of the petitions following the comp
 
 [Data](articles/2f970bf3.json)
 
+[Extended Data](ext_articles/2f970bf3.ext.json)
+
 ---
 
-### ඡන්දය ඉල්ලූ පෙත්සම් විභාගය අවසන්
+### Petition Examination completed
 
 *2024-06-06 15:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197464) · `si`
 
-ඉකුත් වසරේ මාර්තු මස 9 වනදා පැවැත්වීමට නියමිතව තිබූ පළාත් පාලන ඡන්ද විමසීම නොපැවැත්වීම තුළින් මහජනතාවගේ මූලික මිනිස් අයිතිවාසිකම් උල්ලංඝනය වී ඇති බවට තීන්දුවක් ලබා දෙන ලෙස ඉල්ලා ගොනු කර තිබෙන පෙත්සම් විභාගය අවසන් කළ ශ්‍රේෂ්ඨාධිකරණය එහි තීන්දුව ප්‍රකාශ කිරීම කල් තැබීය.
+The Supreme Court delayed a petition filed by various organizations, including the UN Force, National People's Society, CPA, and PAFFREL, seeking a decision on the cancellation of a local government election scheduled for March 9 last year. The petition was heard by Chief Justice Jayantha Jayasuriya and concluded with the submission of oral arguments.
 
-අගවිනිසුරු ජයන්ත ජයසූරිය මහතා ප්‍රමුඛ පංච පුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ලක් ඉදිරියේ පෙත්සම් විභාගය පැවතුණි.
+🟩
 
-අද (06) දිනයේ දී පෙත්සම්වලට අදාළ වාචික දේශන ඉදිරිපත් කිරීම  අවසන් කෙරුණි.
+The Supreme Court postponed that the Petition (Introduction to the Petition) by the non-local government ballot, which was not held on March 9 last year.
 
-සමගි ජන බලවේගය, ජාතික ජන බලවේගය, විකල්ප ප්‍රතිපත්ති කේන්ද්‍රය සහ පැෆ්රල් සංවිධානය විසින් මෙම පෙත්සම් ඉදිරිපත් කර තිබුණා.
+The petition was held in the face of a five-member Supreme Court judge who is the Chief Justice Jayantha Jayasuriya.
 
-ඉකුත් වසරේ මාර්තු මස 9 වනදා පැවැත්වීමට නියමිතව තිබූ පළාත් පාලන ඡන්ද විමසීම එදින නොපැවැත්වීමෙන් මහජනතාවගේ මූලික මිනිස් අයිතිවාසිකම් උල්ලංඝනය වී ඇති බවට තීන්දුවක් ලබාදෙන ලෙස ඉල්ලා මෙම පෙත්සම් ඉදිරිපත් කර තිබුණි.
+The submission of oral lectures relating to petitions today (06) was completed.
+
+These petitions were presented by the United Nations Force, National People's Society, CPA and PAFFREL.
+
+These petitions were demanding a decision that the local government banding was not held on March 9 last year.
 
 ◼️
 
 [Data](articles/d04fc399.json)
+
+[Extended Data](ext_articles/d04fc399.ext.json)
 
 ---
 
@@ -84,6 +128,8 @@ Police told court that she had made a complaint to SI Dhanajani Basnayake and WP
 
 [Data](articles/37af0a43.json)
 
+[Extended Data](ext_articles/37af0a43.ext.json)
+
 ---
 
 ### Ven. Balangoda Kassapa Thero arrested during protest
@@ -100,45 +146,59 @@ The Second Reading debate on the Sri Lanka Electricity Bill is currently underwa
 
 [Data](articles/758669a0.json)
 
+[Extended Data](ext_articles/758669a0.ext.json)
+
 ---
 
-### 14 හැවිරිදි දරුවෙකුගෙන්  09 හැවිරිදි දරුවෙකුට පිහි ප්‍රහාරයක්
+### Nine of 14 year old children attack 9
 
 *2024-06-06 15:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197463) · `si`
 
-14 හැවිරිදි දරුවෙකු සිදුකළ පිහි ඇනුමකින් බරපතළ තුවාල ලැබූ 09 හැවිරිදි දරුවෙක් හම්බන්තොට මහ රෝහලට ඇතුළත් කර තිබේ.
+In Hambantota, a 9-year-old boy was attacked by a 14-year-old friend, resulting in his admission to Embilipitiya hospital due to alcohol consumption. The incident happened in Aurantakolapelessa, where the boys, who lived nearby, used knives without adult supervision. The 9-year-old was injured in several places, and the older boy has been linked to violent video games.
 
-සිද්ධියෙන් පසු 14 හැවිරිදි දරුවා වස පානය කිරීම හේතුවෙන් ඔහුව ද ඇඹිලිපිටිය රෝහලට ඇතුළත් කර ඇත.
+🟩
 
-මෙම සිද්ධිය ඊයේ (05) සවස හම්බන්තොට අගුණකොළපැලැස්ස වැටිය ප්‍රදේශයේ නිවසකදී සිදුවී තිබුණි.
+A nine-year-old boy was admitted to the Hambantota General Hospital with a 14-year-old child.
 
-අසල්වැසි නිවෙස් දෙකක මිතුරන් වන එම දරුවන් දෙදෙනා 09 හැවිරිදි දරුවාගේ නිවසේදී නිවැසියන් කිසිවෙක් නොමැති අවස්ථාවකදී මෙම පිහි ඇනුම සිදුකර ඇත.
+After the incident, he was admitted to the Embilipitiya hospital due to drinking.
 
-අප වාර්තාකරු සඳහන් කළේ 09 හැවිරිදි දරුවාගේ ශරීරයේ ස්ථාන 6කට හෝ 7කට පිහි ඇනුම් සිදුකර ඇති බවට වාර්තා වූ බවය.
+The incident had occurred at a house in Aurantakolapelessa area in Hambantota yesterday evening.
 
-පිහි ඇනුම සිදුකළ බවට චෝදනා එල්ලවී ඇති 14 හැවිරිදි දරුවා දරුණු ලෙස වීඩියෝ ක්‍රීඩා සඳහා ඇබ්බැහිවූ දරුවෙකු බවත් වාර්තා වෙයි.
+The two children are friends in neighboring holes have committed the knives when there was no residents at the 9-year-old boy.
 
-09 හැවිරිදි දරුවාගේ නිවසේ සිදුවූ මුදල් සොරකමක් සම්බන්ධයෙන් 14 හැවිරිදි දරුවාට අවවාද කිරීමේ සිද්ධියකින් පසු මෙම සිදුවීම ඇතිවී තිබෙන බවද තවදුරටත් වාර්තා විය.
+Our correspondent stated that the 9-year-old boy had been reported to six or seven places in the body.
+
+The 14-year-old boy has been accused of violent video games.
+
+It was also reported that the incident occurred after the 14-year-old child warning of a role in the house of the 9-year-old child.
 
 ◼️
 
 [Data](articles/ed37e08b.json)
 
+[Extended Data](ext_articles/ed37e08b.ext.json)
+
 ---
 
-### බලංගොඩ කස්සප හිමි අත්අඩංගුවට
+### Balangoda Kassapa arrested
 
 *2024-06-06 15:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197462) · `si`
 
-පූජ්‍ය බලංගොඩ කස්සප හිමියන් අද (06) දහවල් තලංගම පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+Balangoda Kassapa, leading a hunger strike against a proposed TV bill, was arrested by Talangama Police within 10 minutes.
 
-ඒ යෝජිත විදුලි පනතට එරෙහිව විරෝධතා පුවරුවක් රැගෙන පාර්ලිමේන්තුව අසල උපවාසයක නිරතවෙමින් සිටියදීය.
+🟩
 
-උපවාසය ආරම්භ කර මිනිත්තු 10කට පමණ පසුව තලංගම පොලිස් නිලධාරීන් පැමිණි උන් වහන්සේ මෙලෙස අත්අඩංගුවට ගෙන තිබේ.
+The Balangoda Kastewe holders have been arrested by Talangama Police today (06).
+
+While engaging in a hunger strike against the proposed television bill.
+
+He was arrested by the Talangama police officers who arrived in about 10 minutes after the fast.
 
 ◼️
 
 [Data](articles/b34bd1c2.json)
+
+[Extended Data](ext_articles/b34bd1c2.ext.json)
 
 ---
 
@@ -858,19 +918,25 @@ According to the fishermen, the price of 1 kg of fish in the Galle fishing harbo
 
 ---
 
-### ණය ප්‍රතිව්‍යුහගත කිරීමට අදාළව උසස් සාකච්ඡා අරඹයි
+### Latest discussions in respect to restructuring of debt
 
 *2024-06-06 12:25:17* · [`adalk`](https://www.ada.lk/breaking_news/ණය-ප්‍රතිව්‍යුහගත-කිරීමට-අදාළව-උසස්-සාකච්ඡා-අරඹයි/11-410048) · `si`
 
-බ්ලූම්බර්ග් - ශ්‍රී ලංකාවේ ණය ප්‍රතිව්‍යුහගත කිරීම සම්බන්ධයෙන් ශ්‍රී ලංකාව සහ ද්විපාර්ශ්වීය ණය හිමියන් අතර මේ වන විට උසස් මට්ටමේ සාකච්ඡා ආරම්භ කර ඇති බව ඒ හා සම්බන්ධ පාර්ශ්ව උපුටා දක්වමින් බ්ලුම්බර්ග් වෙබ් අඩවිය තොරතුරු වාර්තා කරයි.
+Sri Lanka is in talks with bilateral creditors, including India and members of the Paris Club, to restructure its debt. These discussions aim to secure a $3 billion loan facility, requiring agreement from lenders and bondholders.
 
-මේ අනුව ඉන්දියාව, හංගේරියාව සහ පැරිස් සමාජය ඇතුළත් රජය සහ නිල ණය දෙන්නන්ගේ කමිටුවේ සාමාජිකයින් අතර ගිවිසුමේ කෙටුම්පත් හුවමාරු කර ගනිමින් සිටින බවද එම වෙබ් අඩවිය තොරතුරු වාර්තා කරයි.
+🟩
 
-ජාත්‍යන්තර මූල්‍ය අරමුදලෙන් ඩොලර් බිලියන 3 ක විස්තීර්ණ ණය පහසුකමේ ඉදිරි වාරික ලබා ගැනීමට නම් ශ්‍රී ලංකාව ද්විපාර්ශ්වික ණය දෙන්නන් සහ බැඳුම්කර හිමියන් සමඟ ණය ප්‍රතිව්‍යුහ ගත කිරීම සම්බන්ධයෙන් එකඟතාවයකට පැමිණීම අනිවාර්ය වෙයි.
+Bloomberg - Citing partnership with Sri Lanka and bilateral creditors have already launched high levels of discussions between Sri Lanka and bilateral creditors.
+
+According to the website of the Government and the members of the government and the official lenders of the committee, including India, Hungary and Paris Club, is being exchanging the drafts.
+
+In order to obtain the forward premium of $ 3 billion comprehensive loan facility, Sri Lanka is inevitable to agree on borrowing lenders and bond owners.
 
 ◼️
 
 [Data](articles/b2f67bb5.json)
+
+[Extended Data](ext_articles/b2f67bb5.ext.json)
 
 ---
 
@@ -1288,17 +1354,29 @@ He requested the ITN to immediately inform the NPP if Premadasa was participatin
 
 ---
 
-### විශ්‍රාමික ත්‍රිවිධ හමුදා සාමාජිකයින්ට හා රණවිරු පවුල්වල අයට විදේශ රැකියා
+### Foreign Employment for Retired Armed Forces and War Heroes
 
 *2024-06-06 11:02:09* · [`adalk`](https://www.ada.lk/breaking_news/විශ්‍රාමික-ත්‍රිවිධ-හමුදා-සාමාජිකයින්ට-හා-රණවිරු-පවුල්වල-අයට-විදේශ-රැකියා/11-410047) · `si`
 
-ආක්‍ෂක රාජ්‍ය අමාත්‍ය ගරු ප්‍රමිත බණ්ඩාර තෙන්නකෝන් කම්කරු හා විදේශ රැකියා  අමාත්‍ය මනූෂ නානායක්කාර අමාත්‍යතුමා සමග සිදුකල සාකච්ඡාවේ ප්‍රතිඵලයක් ලෙස විශ්‍රාමික ත්‍රිවිධ හමුදා හා රණවිරු පවුල්වල සාමාජිකයින් වෙත විදේශ රැකියා ප්‍රමාණයක් ලබාදීමේ වැඩසටහන පිලිබඳ ත්‍රිවිධ හමුදා නිලධාරීන් දැනුවත් කිරීමට ආරක්‍ෂක රාජ්‍ය අමාත්‍යවරයාගේ ප්‍රධානත්වයෙන් ඊයේ (ජූනි 04) එතුමාගේ කාර්යාලයේදී රැස්වීමක් පවත්වන ලදි.
+The Ministry of Labor and Foreign Employment in Sri Lanka has partnered with the government to offer foreign employment opportunities to retired armed forces personnel and their families. A total of 67 individuals from the Navy and Air Force have been nominated for this program. Participants must be aged 44 or above and undergo a short training course before taking a test. This initiative aims to support war heroes and their families post-retirement.
 
-විදේශ රාජ්‍යයන් වෙතින් ශ්‍රී ලංකා රජය වෙත ලැබෙන විදේශ රැකියා ප්‍රමාණයෙන් යම් කොටසක් විශ්‍රාමික ත්‍රිවිධ හමුදා සාමාජිකයින් වෙත හා ඔවුන්ගේ පවුල්වල සාමාජිකයින් වෙත ලබාදීමට කම්කරු හා  විදේශ රැකියා  අමාත්‍යංශය කැමැත්ත ප්‍රකාශ කර ඇත.  මෙහි පළමු අදියර ලෙස  ඊශ්‍රායල් රාජ්‍යය වෙත ඉදිකිරිම් අංශයේ වෘත්තීන් කිහිපයක් වෙත මෙම රැකියා ප්‍රමාණය ලබාදීමට කටයුතු සිදුකරන බව කම්කරු හා  විදේශ රැකියා  අමාත්‍යංශයේ නියෝජිතයින් විසින් මෙම රැස්වීමේදී  ප්‍රකාශ කරන ලදි.
+🟩
 
-...
+Head of the HonA meeting was held.
+
+The Ministry of Labor and Foreign Employment has agreed to provide some part of foreign employment to the Government of Sri Lanka from foreign states to the retired armed forces and members of their families.According to the representatives of the Ministry of Labor and Foreign Employment (
+
+Also, 67 people have been prepared to send 67 persons to the jobs and provides nominations from the Navy and the Air Force.Instructions were instructed to army officers.
+
+Also, the retired armed forces are selected for the age of 44 and have been asked to provide short training through the Ministry of Labor and Foreign Employment and to face a test.
+
+A delegation from the three armed forces and the Ministry of Labor and Foreign Employment participated in the discussion.
+
+◼️
 
 [Data](articles/3e1f5073.json)
+
+[Extended Data](ext_articles/3e1f5073.ext.json)
 
 ---
 
@@ -2165,41 +2243,5 @@ The general public is kindly requested to take adequate precautions to minimize 
 [Data](articles/a5722d08.json)
 
 [Extended Data](ext_articles/a5722d08.ext.json)
-
----
-
-### Sri Lankan missions getting stripped of authority in issuing visas
-
-*2024-06-06 08:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Sri-Lankan-missions-getting-stripped-of-authority-in-issuing-visas/155-284226) · `en`
-
-Colombo, June 6 (Daily Mirror) - Overseas Sri Lankan missions are in the process of being stripped of their authority to issue different categories of visas for foreign nationals including resident visas with the introduction of online application, an official said.
-
-Sri Lanka has now introduced acceptance of online visas from foreign nationals intending to visit Sri Lanka. As a result, the Sri Lankan missions virtually lose their authority to accept document and issue visas.
-
-Sri Lanka Department of Immigration and Emigration retains the sole authority to issue visas in partnership with VFS Global for processing applications. Asked for a comment in this regard, Controller General of Immigration and Emigration I.S.H.J. Ilukpitiya said there is no need for any foreign national to reach the nearest Sri Lankan mission to apply for visas now.
-
-...
-
-[Data](articles/6c68a8e4.json)
-
-[Extended Data](ext_articles/6c68a8e4.ext.json)
-
----
-
-### Sri Lankan missions getting stripped of authority in issuing visas
-
-*2024-06-06 08:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankan-missions-getting-stripped-of-authority-in-issuing-visas/108-284226) · `en`
-
-Colombo, June 6 (Daily Mirror) - Overseas Sri Lankan missions are in the process of being stripped of their authority to issue different categories of visas for foreign nationals including resident visas with the introduction of online application, an official said.
-
-Sri Lanka has now introduced acceptance of online visas from foreign nationals intending to visit Sri Lanka. As a result, the Sri Lankan missions virtually lose their authority to accept document and issue visas.
-
-Sri Lanka Department of Immigration and Emigration retains the sole authority to issue visas in partnership with VFS Global for processing applications. Asked for a comment in this regard, Controller General of Immigration and Emigration I.S.H.J. Ilukpitiya said there is no need for any foreign national to reach the nearest Sri Lankan mission to apply for visas now.
-
-...
-
-[Data](articles/d7dd3a34.json)
-
-[Extended Data](ext_articles/d7dd3a34.ext.json)
 
 ---

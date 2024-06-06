@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-06 19:04:12**
+As of **2024-06-06 19:19:07**
 
 ## Newspaper Stats
 
-*Scraped **28,886** Articles*
+*Scraped **28,888** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,10 +12,10 @@ colombotelegraphcom | 261
 dbsjeyarajcom | 275
 bbccomsinhala | 281
 newsfirstlk | 363
-islandlk | 1,553
+islandlk | 1,554
 economynextcom | 1,642
 dailyftlk | 1,711
-adalk | 2,469
+adalk | 2,470
 adaderanalk | 3,278
 tamilmirrorlk | 3,394
 virakesarilk | 4,433
@@ -26,11 +26,29 @@ adaderanasinhalalk | 4,636
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,886 (100.0%) of 28,886 articles have been extended.
+28,886 (100.0%) of 28,888 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-06 (Thursday)
+
+### විදුලිබල පනත් කෙටුම්පත පාර්ලිමේන්තුවේදී වැඩි ඡන්දයෙන් සම්මතයි
+
+*2024-06-06 18:26:27* · [`adalk`](https://www.ada.lk/breaking_news/විදුලිබල-පනත්-කෙටුම්පත-පාර්ලිමේන්තුවේදී-වැඩි-ඡන්දයෙන්-සම්මතයි/11-410061) · `si`
+
+ශ්‍රී ලංකා විදුලිබල පනත් කෙටුම්පත අද (06) පාර්ලිමේන්තුවේදී විවාද කිරීමෙන් අනතුරුව  වැඩි ඡන්ද 44 කින් සම්මත විය.
+
+අද පැවති පනත් කෙටුම්පත දෙවනවර කියවීමේ විවාදය  අවසානයේ විපක්ෂය විසින් විසින් ඡන්ද විමසීමක් ඉල්ලා සිටි අතර ඒ අනුව පැවති ඡන්ද විමසීමේදී ඊට පක්ෂව103ක්ද  විපක්ෂව ඡන්ද 59 ක්ද  හිමිවිය.
+
+පනත්කෙටුම්පත කාරක සභා අවස්ථාවේදී ඊට සංශෝධන එක්වූ අතර අනතුරුව තෙවනවර කියවීම ඡන්ද විමසීමකින් තොරව සම්මත විය.
+
+විදුලිබල ක්ෂේත්‍රයට සිදුකරනු ලබන ප්‍රතිසංස්කරණ ක්‍රියාත්මක කිරීමට අවශ්‍ය විධිවිධාන සැලැස්වීම අරමුණු කරගත් මෙම පනත් කෙටුම්පත 2024  අප්‍රේල් 25 වැනි දින පාර්ලිමේන්තුවට ඉදිරිපත් කරන ලදී.
+
+◼️
+
+[Data](articles/5c990cad.json)
+
+---
 
 ### Petitions against 2 bills are examined
 
@@ -62,7 +80,7 @@ The petitioners claim that the proposed bills have been brought under the Presid
 
 *2024-06-06 18:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/99714/sri-lanka-electricity-bill-passed-with-amendments) · `en`
 
-Speaker of the Parliament Mahinda Yapa Abeywardena announced to the House this evening (06) that the third reading of the ‘Sri Lanka Electricity Bill’ was passed in the Parliament with amendments.
+The Speaker of the Parliament Mahinda Yapa Abeywardena announced to the House this evening (06) that the third reading of the ‘Sri Lanka Electricity Bill’ was passed in the Parliament with amendments.
 
 Meanwhile, the second reading of the draft bill was also passed in the Parliament with a majority of 44 votes.
 
@@ -2217,23 +2235,5 @@ He also said Sri Lanka does not have proper equipment to measure rainfall.
 [Data](articles/b2abe038.json)
 
 [Extended Data](ext_articles/b2abe038.ext.json)
-
----
-
-### President's political office
-
-*2024-06-06 10:34:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியின்-அரசியல்-அலுவலகம்/175-338524) · `ta`
-
-President Ranil Wickremesinghe opened his political office in Colombo today.
-
-🟩
-
-President Ranil Wickremesinghe inaugurated his political office in Colombo this morning.
-
-◼️
-
-[Data](articles/2084b1ee.json)
-
-[Extended Data](ext_articles/2084b1ee.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-06 19:35:14**
+As of **2024-06-06 19:52:46**
 
 ## Newspaper Stats
 
-*Scraped **28,894** Articles*
+*Scraped **28,895** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,554
 economynextcom | 1,642
 dailyftlk | 1,711
-adalk | 2,470
+adalk | 2,471
 adaderanalk | 3,279
 tamilmirrorlk | 3,395
 virakesarilk | 4,436
@@ -26,23 +26,29 @@ adaderanasinhalalk | 4,636
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,888 (100.0%) of 28,894 articles have been extended.
+28,894 (100.0%) of 28,895 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-06 (Thursday)
 
-### நள்ளிரவு முதல் ரயில்வே வேலைநிறுத்தம்
+### The railway strike from midnight
 
 *2024-06-06 19:09:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நள்ளிரவு-முதல்-ரயில்வே-வேலைநிறுத்தம்/175-338555) · `ta`
 
-புகையிரத சாரதிகளின் பதவி உயர்வு தாமதம் உள்ளிட்ட பல்வேறு பிரச்சினைகளை முன்வைத்து இன்று (6) நள்ளிரவு முதல் ரயில்வே வேலைநிறுத்தப் போராட்டமொன்றை ஆரம்பிக்கவுள்ளது.
+Railway workers go on strike starting tonight due to unresolved issues like driver promotions and management failures to address concerns, leading to industrial action.
 
-புகையிரத சாரதிகளின் பிரச்சினைகளுக்கு ரயில்வே பொது முகாமையாளர் உள்ளிட்ட அதிகாரிகள் தீர்வுகாணத் தவறியதன் காரணமாகவே அதிகாரிகள் இந்த தொழில் நடவடிக்கையில் இறங்க நேரிட்டதாக தொழிற்சங்கம் மேலும் தெரிவித்துள்ளது
+🟩
+
+The railway strike will begin today (6th) to present various issues, including the delay in the promotion of railway drivers.
+
+The union further stated that the officials, including the Railway General Manager, failed to resolve the problems of the railway drivers, the union said that the industry had come to action.
 
 ◼️
 
 [Data](articles/d9c50f79.json)
+
+[Extended Data](ext_articles/d9c50f79.ext.json)
 
 ---
 
@@ -62,6 +68,8 @@ The country’s notes due in November 2025 are trading at 59.6 cents on the doll
 
 [Data](articles/91c6e05e.json)
 
+[Extended Data](ext_articles/91c6e05e.ext.json)
+
 ---
 
 ### Locomotive operating engineers on strike from tomorrow
@@ -78,57 +86,89 @@ Due to not receiving any favorable response, the union has decided to engage wit
 
 [Data](articles/8e1d7079.json)
 
+[Extended Data](ext_articles/8e1d7079.ext.json)
+
 ---
 
-### ஐந்து மாதகாலப்பகுதியில் மின்பாவனையாளர்களிடமிருந்து மேலதிகமாக 12000 ரூபா அறவீடு - பாட்டலி சம்பிக்க ரணவக்க
+### 12000 rupees from the Minorpavanists in five months - Bhatali Champika Ranawaka
 
 *2024-06-06 19:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/185480) · `ta`
 
-இலங்கை மின்சார சபை கடந்த ஐந்து மாத காலப்பகுதியில் மாத்திரம் 9000 கோடி ரூபா மேலதிக வருமானத்தை ஈட்டியுள்ளது. இக்காலப்பகுதியில் மின்பாவனையாளர்களிடமிருந்து மேலதிகமாக 12000 ரூபா அறவிடப்பட்டுள்ளது. மின்கட்டண அதிகரிப்பால் ஒட்டுமொத்த மக்களும் மிக மோசமாக பாதிக்கப்பட்டுள்ளார்கள் எனப் பாராளுமன்ற உறுப்பினர் பாட்டலி சம்பிக்க ரணவக்க தெரிவித்தார்.
+In the past five months, the Ceylon Electricity Board (CEB) generated an extra Rs 9,000 crore, partly due to a Rs 12,000 levy on Minorpavanists. This move, criticized by Parliamentarian Patali Champika Ranawaka as negatively impacting the public, coincides with debates on the Electricity Board Reorganization Bill, aiming to split the CEB into 12 parts for potential privatization. The bill addresses concerns about the decline in state institutions, now numbering 1,200, down from 10 a century ago, highlighting the need for efficient reorganization and transparent state-private partnerships to improve services.
 
-பாராளுமன்றத்தில் வியாழக்கிழமை (6) இடம்பெற்ற மின்சார சபை மறுசீரமைப்பு சட்டமூலம் மீதான விவாதத்தில் உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+🟩
 
-மின்சார சபையை 12  கூறுகளாகப் பிரித்து அவற்றைத் தனியார் தரப்பினருக்கு வழங்கும் இலங்கை மின்சார சபை மறுசீரமைப்பு சட்டமூலம் குறித்து விசேட கவனம் செலுத்த வேண்டும்.அரச சேவை தொடர்பில் அரசாங்கம் எவ்வாறான நிலைப்பாட்டைக் கொண்டுள்ளது என்பது  தற்போது கேள்விக்குள்ளாக்கப்பட்டுள்ளது.
+The Ceylon Electricity Board (CEB) has earned an additional income of Rs 9000 crore in the last five months. During this period, an additional 12000 rupees has been levied from the Minorpavanists. Parliamentarian Patali Champika Ranawaka said that the entire population has been badly affected by the increase in electricity.
+
+He was speaking at a debate on the Electricity Board Reorganization Bill held in Parliament on Thursday (6).
+
+The Ceylon Electricity Board Reforms Bill, which divides the Electricity Board into 12 components and provides them with private parties.
+
+There are currently 1200 state institutions in the country. There were only 10 state institutions over over 100 years ago.. We accept that loss of state institutions should be reorganized.
+
+The government notes that the International Monetary Fund has noted that the state institutions are reorganized.
+
+Reorganizations should be excellently carried out with transparency.
 
 ...
 
 [Data](articles/a3a05375.json)
 
+[Extended Data](ext_articles/a3a05375.ext.json)
+
 ---
 
-### ரஷ்யா - உக்ரைன் மோதல் தீவிரம்: 1000 இலங்கையர்கள் ரஷ்யாவுக்குச் சென்றிருக்கலாம் - வசந்த யாப்பா பண்டார
+### Russia - Ukraine Conflict Intensive: 1000 Sri Lankans may have gone to Russia - Vasantha Yapa Bandara
 
 *2024-06-06 18:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/185477) · `ta`
 
-ரஷ்யா- உக்ரைன் மோதல் தீவிரமடைந்துள்ள சூழலில்  சுமார் 1000 இலங்கையர்கள் ரஷ்யாவுக்கு சென்றிருக்கலாம். 220 பேர் தொடர்பான தகவல்களை  ரஷ்ய தூதரகத்தில் ஒப்படைத்துள்ளோம்.இலங்கைக்கும் ரஷ்யாவுக்கும் இடையில் நல்லுறவு காணப்படுகிறது. சேவை ஒப்பந்தமில்லாமல் சென்றுள்ள இலங்கையர்கள் குறித்து பொது இணக்கப்பாட்டுக்கு வர வேண்டும் எனச் சுயாதீன எதிரணியின் உறுப்பினர் வசந்த யாப்பா பண்டார தெரிவித்தார்.
+Approximately 1000 Sri Lankans might be in Russia due to the escalating conflict there. The Sri Lankan government has shared details of 220 individuals with the Russian Embassy. Vasantha Yapa Bandara urges those without agreements to comply publicly. Opposition Leader Sajith Premadasa suggests sending delegations to Myanmar and Russia to assist citizens in crises. The government could potentially rescue 49 Sri Lankans accused of cybercrimes in Myanmar through negotiations with the Special Investigation Department, similar to how Nepal and Uganda have rescued their nationals.
 
-பாராளுமன்றத்தில் வியாழக்கிழமை (6) இடம்பெற்ற அமர்வின் போது விசேட கூற்றை முன்வைத்து உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+🟩
 
-மியன்மார் மற்றும் ரஷ்யா ஆகிய நாடுகளுக்குச் சென்று அங்கு  நெருக்கடிக்குள்ளாகியுள்ள இலங்கையர்கள் தொடர்பில்  விசேட கவனம் செலுத்துவதற்கும்,அவர்களின் விடயத்தில் எவ்வாறான நடவடிக்கைகளை முன்னெடுக்கலாம் என்பது தொடர்பிலும் ஆராயுமாறு எதிர்க்கட்சி தலைவர் சஜித் பிரேமதாச எமக்கு ஆலோசனை வழங்கினார்.
+About 1000 Sri Lankans may have gone to Russia in the context of the intensification of Russia-Ukraine conflict. We have handed over information on 220 people to the Russian Embassy.. Vasantha Yapa Bandara, a member of the Independent Opposition, said that the Sri Lankans who have gone without a service agreement should come to a public compliance.
 
-இதற்கமைய எதிர்க்கட்சியின் உறுப்பினர்களான தேசிய அலவத்துவெல,சுஜித் சஞ்சய் பெரோ உட்பட நானும் அண்மையில் மியன்மார் மற்றும் தாய்லாந்து ஆகிய நாடுகளுக்குச் சென்று பல்வேறு தரப்பினருடன் பேச்சுவார்த்தையில் ஈடுபட்டோம்.
+He was speaking at a special statement during a session held in Parliament on Thursday (6).
+
+Opposition Leader Sajith Premadasa advised us to go to Myanmar and Russia to look into the crisis of Sri Lankans who are in crisis.
+
+Meanwhile, I recently visited Myanmar and Thailand, including the members of the Opposition, National Alawattala and Sujith Sanjay Fero.
+
+If the government is negotiating through the Special Investigation Department (DSI) in Thailand, the government can safely rescue 49 Sri Lankans involved in cyber crimes in Myanmar.
+
+Nepal and Uganda have negotiated with the Special Investigation Department and saved their nationals.
 
 ...
 
 [Data](articles/696e222e.json)
 
+[Extended Data](ext_articles/696e222e.ext.json)
+
 ---
 
-### மின்சார சபை மறுசீரமைப்பு சட்டமூலம் 44 மேலதிக வாக்குகளினால் நிறைவேற்றம்
+### The Electricity Board Reorganization Bill is passed by 44 more votes
 
 *2024-06-06 18:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/185475) · `ta`
 
-எதிர்க்கட்சிகளின் கடும் எதிர்ப்புகளுக்கு  மத்தியில் மின்சார சபை மறுசீரமைப்பு சட்டமூலம் 44 மேலதிக வாக்குகளினால் நிறைவேற்றப்பட்டது.சட்டமூலத்திற்கு ஆதரவாக 103 வாக்குகளும் , எதிராக  59 வாக்குகளும் அளிக்கப்பட்ட நிலையில் சட்டமூலம் நிறைவேற்றப்பட்டது.
+Despite fierce opposition, the Electricity Board Reorganization Bill passed with 44 extra votes. Former President Mahinda Rajapakse supported the bill, which faced boycotts from several Tamil groups. The Supreme Court flagged constitutional issues with 54 clauses. Opposition members called for a two-day debate, but the ruling party denied this request. Ultimately, the bill received 103 votes in favor and 59 against, with 162 participants.
 
-அரச நிறுவனங்களை மறுசீரமைக்கும் தீர்மானத்தை அரசாங்கம் கைவிட வேண்டும்,புதிய அரசாங்கத்துக்கு அதன் பொறுப்பை வழங்க வேண்டும் என கடந்த வாரம் அறிக்கை வெளியிட்ட முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷ சட்டமூலத்துக்கு ஆதரவாக வாக்களித்தார்.அத்துடன் பொதுஜன பெரமுனவின் உறுப்பினர்கள் அனைவரும்   ஆதரவாக வாக்களித்தனர்.
+🟩
 
-இந்த வாக்கெடுப்பை தமிழ் தேசியக்கூட்டமைப்பு,தமிழ் தேசிய மக்கள் முன்னணி,தமிழ் மக்கள் தேசிய கூட்டணி ஆகிய கட்சிகள் புறக்கணித்திருந்தன. அதேவேளை ஸ்ரீலங்கா முஸ்லிம் காங்கிரஸ் தலைவர் ரவூப் ஹக்கீம்,அகில இலங்கை மக்கள் காங்கிரஸ் தலைவர் ரிஷாட் பதியுதீன், தேசிய காங்கிரஸ் தலைவர் அதாவுல்லா ஆகியோரும் வாக்களிப்பில் பங்கேற்கவில்லை.
+Amidst the fierce opposition of the opposition parties, the Electricity Board Reorganization Bill was passed by 44 additional votes.
 
-மின்சார சபை மறுசீரமைப்பு சட்டமூலம் மீதான இரண்டாம் வாசிப்பு வியாழக்கிழமை (6) இடம்பெற்றது.
+Former President Mahinda Rajapakse voted in favor of the Bill last week that the government should abandon the resolution of state institutions and give it responsibility for the new government.
+
+The referendum was boycotted by the Tamil National Alliance, the Tamil National People's Front and the Tamil People's Alliance.. Meanwhile, Sri Lanka Muslim Congress leader Rauf Hakeem, All Ceylon People's Congress leader Rishad Bathiudeen and National Congress leader Ataullah did not participate in the vote.
+
+The second reading of the Electricity Board Reorganization Bill was held on Thursday (6).
+
+With 54 arrangements in the Electricity Board Reorganization Bill, the Supreme Court has issued a consensus that most of them are contrary to the constitution.
 
 ...
 
 [Data](articles/382a419a.json)
+
+[Extended Data](ext_articles/382a419a.ext.json)
 
 ---
 
@@ -199,6 +239,24 @@ The Bill seeks to provide for the establishment of the National Electricity Advi
 [Data](articles/e7ab91a4.json)
 
 [Extended Data](ext_articles/e7ab91a4.ext.json)
+
+---
+
+### බදුල්ල ගම්මන සුමනසාර හිමියන් සංඝනායක ධුරයෙන් ඉවත් කෙරෙති
+
+*2024-06-06 18:07:57* · [`adalk`](https://www.ada.lk/breaking_news/බදුල්ල-ගම්මන-සුමනසාර-හිමියන්-සංඝනායක-ධුරයෙන්-ඉවත්-කෙරෙති/11-410059) · `si`
+
+මල්වතු මහා විහාර පාර්ශ්වයේ බදුල්ල බින්තන නැගෙනහිර තෙපළාතේ ප්‍රධාන සංඝනායක ධුරය දැරූ පූජ්‍ය බදුල්ල ගම්මන සුමනසාර හිමියන් එම පදවියෙන් ඉවත් කොට ඇති බව මල්වතු පාර්ශ්වයේ මහා ලේඛකාධිකාරී ආචාර්ය පූජ්‍ය මහමුනේ ශ්‍රී සුමංගල හිමියන් නිවේදනයක් නිකුත් කරමින් දන්වා සිටි .
+
+අප්‍රියකාරී ශාසන විරෝධී ක්‍රියාවන්හි බදුලුගම්මන සුමනසාර හිමියන් නිරතව සිටීම හේතුවෙන් මල්වතු මහා විහාරීය ගරුතර සානුස්නායක කාරක මහා සංඝ සභාව විසින්එම හිමියන් එසේ එම පදවියෙන් ඉවත් කොට ඇති බවඑහි ලිපියේ සඳහන්ය .
+
+බුද්ධ චරිතය හා සම්බුද්ධ දේශනාවන් විකෘති කරන මීවන පලානේ සිරි ධම්මාලංකාර නම් භික්ෂු ප්‍රතිරූපකයාගේ සාවද්‍ය විකෘති දේශනාවන් ප්‍රවර්ධනය කිරීම .
+
+මහා විහාර වංශික ස්‍යාමෝපාලි මහානිකායේ මල්වතු විහාරපාර්ශවයේ භික්ෂුවක් ලෙස මහා විහාර ධර්ම සම්ප්‍රදායන්ට හා ත්‍රිපිටක දේශනාවන්ට පටහැනිව බුදුන් වහන්සේ ලක්දිව ඉපදීම සහ සාවද්‍ය මත මතවාද ප්‍රචාරය කිරීම .
+
+...
+
+[Data](articles/fa973f47.json)
 
 ---
 
@@ -2191,25 +2249,5 @@ A delegation from the three armed forces and the Ministry of Labor and Foreign E
 [Data](articles/3e1f5073.json)
 
 [Extended Data](ext_articles/3e1f5073.ext.json)
-
----
-
-### SC invalidates Maithripala’s presidential pardon to Royal Park murder convict
-
-*2024-06-06 10:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/99697/sc-invalidates-maithripalas-presidential-pardon-to-royal-park-murder-convict) · `en`
-
-The Supreme Court has quashed the order to grant a Presidential pardon by former President Maithripala Sirisena to Royal Park murder convict Jude Jayamaha, stating that it contravenes provisions under the Constitution, Ada Derana reporter said.
-
-Delivering the verdict, the Supreme Court also invalidated the pardon granted to Jude Shramantha Jayamaha.
-
-Meanwhile, it was also ordered that former President Maithripala Sirisena should pay a compensation of Rs. 01 million to the petitioner, and Rs. 01 million each to the mother and father of the aggrieved young woman, who was the victim of the Royal Park murder.
-
-The Supreme Court, which ruled that former President Sirisena had intentionally violated the Constitution through this act, ordered the Attorney General to take the necessary legal measures for the extradition of the defendant, who is currently overseas, according to local and international conventions.
-
-...
-
-[Data](articles/91ec1c6e.json)
-
-[Extended Data](ext_articles/91ec1c6e.ext.json)
 
 ---

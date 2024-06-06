@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-06 15:53:00**
+As of **2024-06-06 16:05:24**
 
 ## Newspaper Stats
 
-*Scraped **28,843** Articles*
+*Scraped **28,851** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,132 @@ newsfirstlk | 363
 islandlk | 1,553
 economynextcom | 1,642
 dailyftlk | 1,711
-adalk | 2,460
-adaderanalk | 3,271
+adalk | 2,462
+adaderanalk | 3,273
 tamilmirrorlk | 3,391
 virakesarilk | 4,427
-dailymirrorlk | 4,579
-adaderanasinhalalk | 4,629
+dailymirrorlk | 4,580
+adaderanasinhalalk | 4,632
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,843 (100.0%) of 28,843 articles have been extended.
+28,843 (100.0%) of 28,851 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-06 (Thursday)
+
+### Postponing of 2023 LG polls: SC concludes hearing of petitions, verdict deferred
+
+*2024-06-06 15:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/99707/postponing-of-2023-lg-polls-sc-concludes-hearing-of-petitions-verdict-deferred) · `en`
+
+The Supreme Court, which concluded the hearing of the Fundamental Rights (FR) petitions filed against the postponement of the 2023 Local Government elections, has deferred delivering its verdict.
+
+The relevant FR petitions filed against the postponement of the 2023 Local Government elections, which was initially scheduled to be held on March 09, 2023, were taken up before a five-member Supreme Court judge bench led by Chief Justice Jayantha Jayasuriya today (06).
+
+The judge bench, which concluded the hearing of the petitions following the completion of the submission of oral submissions, deferred the delivering of the verdict, Ada Derana reporter said.
+
+...
+
+[Data](articles/2f970bf3.json)
+
+---
+
+### ඡන්දය ඉල්ලූ පෙත්සම් විභාගය අවසන්
+
+*2024-06-06 15:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197464) · `si`
+
+ඉකුත් වසරේ මාර්තු මස 9 වනදා පැවැත්වීමට නියමිතව තිබූ පළාත් පාලන ඡන්ද විමසීම නොපැවැත්වීම තුළින් මහජනතාවගේ මූලික මිනිස් අයිතිවාසිකම් උල්ලංඝනය වී ඇති බවට තීන්දුවක් ලබා දෙන ලෙස ඉල්ලා ගොනු කර තිබෙන පෙත්සම් විභාගය අවසන් කළ ශ්‍රේෂ්ඨාධිකරණය එහි තීන්දුව ප්‍රකාශ කිරීම කල් තැබීය.
+
+අගවිනිසුරු ජයන්ත ජයසූරිය මහතා ප්‍රමුඛ පංච පුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ලක් ඉදිරියේ පෙත්සම් විභාගය පැවතුණි.
+
+අද (06) දිනයේ දී පෙත්සම්වලට අදාළ වාචික දේශන ඉදිරිපත් කිරීම  අවසන් කෙරුණි.
+
+සමගි ජන බලවේගය, ජාතික ජන බලවේගය, විකල්ප ප්‍රතිපත්ති කේන්ද්‍රය සහ පැෆ්රල් සංවිධානය විසින් මෙම පෙත්සම් ඉදිරිපත් කර තිබුණා.
+
+ඉකුත් වසරේ මාර්තු මස 9 වනදා පැවැත්වීමට නියමිතව තිබූ පළාත් පාලන ඡන්ද විමසීම එදින නොපැවැත්වීමෙන් මහජනතාවගේ මූලික මිනිස් අයිතිවාසිකම් උල්ලංඝනය වී ඇති බවට තීන්දුවක් ලබාදෙන ලෙස ඉල්ලා මෙම පෙත්සම් ඉදිරිපත් කර තිබුණි.
+
+◼️
+
+[Data](articles/d04fc399.json)
+
+---
+
+### Female student sentenced to one month compulsory imprisonment over false complaint
+
+*2024-06-06 15:43:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Female-student-sentenced-to-one-month-compulsory-imprisonment-over-false-complaint/108-284266) · `en`
+
+A 22-year-old female student following a degree course at a private university was sentenced to one month compulsory imprisonment by Kuliyapitiya Magistrate Randika Lakmal Jayalath for making a false complaint that she was raped by an individual that led to legal action against the individual concerned.
+
+During the case proceedings, it transpired that the suspect taken into custody on her complaint had been in remand custody for 14 days.
+
+Police had charged her for making a false complaint and thereby misusing the authority of state officers to aggrieve an individual.
+
+Police told court that she had made a complaint to SI Dhanajani Basnayake and WPC 11963 Sugandhika of the Women and Children’s Bureau of the Kuliyapitiya Police on April 24, 2024, that she was raped by an individual. This resulted in the arrest of the suspect, who was remanded when produced before court.
+
+...
+
+[Data](articles/37af0a43.json)
+
+---
+
+### Ven. Balangoda Kassapa Thero arrested during protest
+
+*2024-06-06 15:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/99706/ven-balangoda-kassapa-thero-arrested-during-protest) · `en`
+
+Ven. Balangoda Kassapa Thero has been arrested by police this afternoon (06), while engaging in a protest against the proposed ‘Sri Lanka Electricity Bill’.
+
+A group of activists including Ven. Balangoda Kassapa Thero were engaging in a protest and a ‘Satyagraha’ campaign near the Parliament complex today (06).
+
+The Second Reading debate on the Sri Lanka Electricity Bill is currently underway in the Parliament.
+
+◼️
+
+[Data](articles/758669a0.json)
+
+---
+
+### 14 හැවිරිදි දරුවෙකුගෙන්  09 හැවිරිදි දරුවෙකුට පිහි ප්‍රහාරයක්
+
+*2024-06-06 15:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197463) · `si`
+
+14 හැවිරිදි දරුවෙකු සිදුකළ පිහි ඇනුමකින් බරපතළ තුවාල ලැබූ 09 හැවිරිදි දරුවෙක් හම්බන්තොට මහ රෝහලට ඇතුළත් කර තිබේ.
+
+සිද්ධියෙන් පසු 14 හැවිරිදි දරුවා වස පානය කිරීම හේතුවෙන් ඔහුව ද ඇඹිලිපිටිය රෝහලට ඇතුළත් කර ඇත.
+
+මෙම සිද්ධිය ඊයේ (05) සවස හම්බන්තොට අගුණකොළපැලැස්ස වැටිය ප්‍රදේශයේ නිවසකදී සිදුවී තිබුණි.
+
+අසල්වැසි නිවෙස් දෙකක මිතුරන් වන එම දරුවන් දෙදෙනා 09 හැවිරිදි දරුවාගේ නිවසේදී නිවැසියන් කිසිවෙක් නොමැති අවස්ථාවකදී මෙම පිහි ඇනුම සිදුකර ඇත.
+
+අප වාර්තාකරු සඳහන් කළේ 09 හැවිරිදි දරුවාගේ ශරීරයේ ස්ථාන 6කට හෝ 7කට පිහි ඇනුම් සිදුකර ඇති බවට වාර්තා වූ බවය.
+
+පිහි ඇනුම සිදුකළ බවට චෝදනා එල්ලවී ඇති 14 හැවිරිදි දරුවා දරුණු ලෙස වීඩියෝ ක්‍රීඩා සඳහා ඇබ්බැහිවූ දරුවෙකු බවත් වාර්තා වෙයි.
+
+09 හැවිරිදි දරුවාගේ නිවසේ සිදුවූ මුදල් සොරකමක් සම්බන්ධයෙන් 14 හැවිරිදි දරුවාට අවවාද කිරීමේ සිද්ධියකින් පසු මෙම සිදුවීම ඇතිවී තිබෙන බවද තවදුරටත් වාර්තා විය.
+
+◼️
+
+[Data](articles/ed37e08b.json)
+
+---
+
+### බලංගොඩ කස්සප හිමි අත්අඩංගුවට
+
+*2024-06-06 15:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197462) · `si`
+
+පූජ්‍ය බලංගොඩ කස්සප හිමියන් අද (06) දහවල් තලංගම පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+ඒ යෝජිත විදුලි පනතට එරෙහිව විරෝධතා පුවරුවක් රැගෙන පාර්ලිමේන්තුව අසල උපවාසයක නිරතවෙමින් සිටියදීය.
+
+උපවාසය ආරම්භ කර මිනිත්තු 10කට පමණ පසුව තලංගම පොලිස් නිලධාරීන් පැමිණි උන් වහන්සේ මෙලෙස අත්අඩංගුවට ගෙන තිබේ.
+
+◼️
+
+[Data](articles/b34bd1c2.json)
+
+---
 
 ### Maldives Foreign Minister - Public Security Minister meets
 
@@ -242,13 +352,9 @@ ECONOMYNEXT – Sri Lanka’s Telecommunications Regulatory Commission (TRCSL) h
 
 The details of the public consultation will be published tomorrow, Herath said.
 
-President Ranil Wickremesinghe discussed connecting the island to the Starlink satellite system with its founder Elon Musk, when the two met on the sidelines of the World Water Forum in Indonesia.
+“Starting today, we are collaborating with Starlink to provide internet facilities via satellite technology, marking a significant transformation in the technology sector. Unlike the limited internet facilities provided by towers, this satellite-based technology allows for internet connectivity from virtually anywhere.”
 
-Starlink is a low earth orbit satellite network, connected to Musk’s SpaceX group.
-
-The network connects around 3 million people with high-speed internet across nearly 100 countries, territories and other markets. (Colombo/Jun6/2024)
-
-◼️
+...
 
 [Data](articles/858b9b75.json)
 
@@ -284,15 +390,13 @@ According to the 1985 Land Scale Map, the protected forest and the rest of the f
 
 *2024-06-06 13:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/99702/sri-lanka-gives-preliminary-approval-to-musks-starlink) · `en`
 
-State Minister of Technology Kanaka Herath announced that the Telecommunication Regulatory Commission of Sri Lanka (TRCSL) has granted preliminary approval for the implementation of the “Starlink”, the satellite unit of Elon Musk’s SpaceX, to provide internet services in Sri Lanka.
+State Minister of Technology, Kanaka Herath, announced that the Telecommunications Regulatory Commission of Sri Lanka (TRCSL) has granted preliminary approval for ‘Starlink’ to provide satellite-based internet services in Sri Lanka.
 
-Accordingly, the approval is to be granted for “Starlink” to provide satellite-based internet services in Sri Lanka, following a formal public consultation process, the President’s Media Division (PMD) said.
+The State Minister emphasized that a two-week period has been allocated for a formal public consultation process regarding the approval of this internet service. Following this period, the Telecommunications Regulatory Commission will take steps to implement the service in Sri Lanka.
 
-The details of the public consultation will be published tomorrow (07), according to the PMD.
+State Minister Kanaka Herath shared these remarks during a special media briefing held today (06) at the Presidential Media Centre (PMC).
 
-Sri Lanka fast-tracked the approval process after Musk met with President Ranil Wickremesinghe last month in Indonesia on the sidelines of the 10th World Water Forum.
-
-Musk and Wickremesinghe had discussed ways to expand internet connectivity in rural Sri Lanka and potential collaboration on renewable energy.
+The minister emphasized that this initiative will deliver a fast internet service as well as to the education, research, tourism, fisheries, and agriculture sectors, while also providing global access via this internet facility.
 
 ...
 
@@ -754,6 +858,22 @@ According to the fishermen, the price of 1 kg of fish in the Galle fishing harbo
 
 ---
 
+### ණය ප්‍රතිව්‍යුහගත කිරීමට අදාළව උසස් සාකච්ඡා අරඹයි
+
+*2024-06-06 12:25:17* · [`adalk`](https://www.ada.lk/breaking_news/ණය-ප්‍රතිව්‍යුහගත-කිරීමට-අදාළව-උසස්-සාකච්ඡා-අරඹයි/11-410048) · `si`
+
+බ්ලූම්බර්ග් - ශ්‍රී ලංකාවේ ණය ප්‍රතිව්‍යුහගත කිරීම සම්බන්ධයෙන් ශ්‍රී ලංකාව සහ ද්විපාර්ශ්වීය ණය හිමියන් අතර මේ වන විට උසස් මට්ටමේ සාකච්ඡා ආරම්භ කර ඇති බව ඒ හා සම්බන්ධ පාර්ශ්ව උපුටා දක්වමින් බ්ලුම්බර්ග් වෙබ් අඩවිය තොරතුරු වාර්තා කරයි.
+
+මේ අනුව ඉන්දියාව, හංගේරියාව සහ පැරිස් සමාජය ඇතුළත් රජය සහ නිල ණය දෙන්නන්ගේ කමිටුවේ සාමාජිකයින් අතර ගිවිසුමේ කෙටුම්පත් හුවමාරු කර ගනිමින් සිටින බවද එම වෙබ් අඩවිය තොරතුරු වාර්තා කරයි.
+
+ජාත්‍යන්තර මූල්‍ය අරමුදලෙන් ඩොලර් බිලියන 3 ක විස්තීර්ණ ණය පහසුකමේ ඉදිරි වාරික ලබා ගැනීමට නම් ශ්‍රී ලංකාව ද්විපාර්ශ්වික ණය දෙන්නන් සහ බැඳුම්කර හිමියන් සමඟ ණය ප්‍රතිව්‍යුහ ගත කිරීම සම්බන්ධයෙන් එකඟතාවයකට පැමිණීම අනිවාර්ය වෙයි.
+
+◼️
+
+[Data](articles/b2f67bb5.json)
+
+---
+
 ### Decrease
 
 *2024-06-06 12:24:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்-கட்டணம்-குறைவடையும்/175-338535) · `ta`
@@ -1165,6 +1285,20 @@ He requested the ITN to immediately inform the NPP if Premadasa was participatin
 [Data](articles/ba607062.json)
 
 [Extended Data](ext_articles/ba607062.ext.json)
+
+---
+
+### විශ්‍රාමික ත්‍රිවිධ හමුදා සාමාජිකයින්ට හා රණවිරු පවුල්වල අයට විදේශ රැකියා
+
+*2024-06-06 11:02:09* · [`adalk`](https://www.ada.lk/breaking_news/විශ්‍රාමික-ත්‍රිවිධ-හමුදා-සාමාජිකයින්ට-හා-රණවිරු-පවුල්වල-අයට-විදේශ-රැකියා/11-410047) · `si`
+
+ආක්‍ෂක රාජ්‍ය අමාත්‍ය ගරු ප්‍රමිත බණ්ඩාර තෙන්නකෝන් කම්කරු හා විදේශ රැකියා  අමාත්‍ය මනූෂ නානායක්කාර අමාත්‍යතුමා සමග සිදුකල සාකච්ඡාවේ ප්‍රතිඵලයක් ලෙස විශ්‍රාමික ත්‍රිවිධ හමුදා හා රණවිරු පවුල්වල සාමාජිකයින් වෙත විදේශ රැකියා ප්‍රමාණයක් ලබාදීමේ වැඩසටහන පිලිබඳ ත්‍රිවිධ හමුදා නිලධාරීන් දැනුවත් කිරීමට ආරක්‍ෂක රාජ්‍ය අමාත්‍යවරයාගේ ප්‍රධානත්වයෙන් ඊයේ (ජූනි 04) එතුමාගේ කාර්යාලයේදී රැස්වීමක් පවත්වන ලදි.
+
+විදේශ රාජ්‍යයන් වෙතින් ශ්‍රී ලංකා රජය වෙත ලැබෙන විදේශ රැකියා ප්‍රමාණයෙන් යම් කොටසක් විශ්‍රාමික ත්‍රිවිධ හමුදා සාමාජිකයින් වෙත හා ඔවුන්ගේ පවුල්වල සාමාජිකයින් වෙත ලබාදීමට කම්කරු හා  විදේශ රැකියා  අමාත්‍යංශය කැමැත්ත ප්‍රකාශ කර ඇත.  මෙහි පළමු අදියර ලෙස  ඊශ්‍රායල් රාජ්‍යය වෙත ඉදිකිරිම් අංශයේ වෘත්තීන් කිහිපයක් වෙත මෙම රැකියා ප්‍රමාණය ලබාදීමට කටයුතු සිදුකරන බව කම්කරු හා  විදේශ රැකියා  අමාත්‍යංශයේ නියෝජිතයින් විසින් මෙම රැස්වීමේදී  ප්‍රකාශ කරන ලදි.
+
+...
+
+[Data](articles/3e1f5073.json)
 
 ---
 
@@ -2067,209 +2201,5 @@ Sri Lanka Department of Immigration and Emigration retains the sole authority to
 [Data](articles/d7dd3a34.json)
 
 [Extended Data](ext_articles/d7dd3a34.ext.json)
-
----
-
-### Rain expected today in most districts
-
-*2024-06-06 08:37:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Rain-expected-today-in-most-districts/108-284225) · `en`
-
-Colombo, June 6 (Daily Mirror) - Several spells of showers are expected in the Western, Sabaragamuwa, Southern and North-Western Provinces, as well as in the Kandy and Nuwara Eliya districts today, the forecasting division of the National Meteorological Centre said.
-
-They said a few showers will occur in the Northern and North-Central Provinces.
-
-Thundershowers may occur at a few places in the Eastern and Uva Provinces in the evening or night.
-
-While issuing the weather forecast for sea areas around the island for the next 24 hours, the Meteorology Department today requested the naval and fishing communities to be attentive to the weather alerts.
-
-Accordingly, strong winds of up to 50 kmph can be expected at times over the Northern, North-Central, and North-Western Provinces and in the  Hambantota district.
-
-Showers will occur at several places in the sea areas off the coast, extending from Kankesanthurai to Hambantota via Puttalam, Colombo, and Galle.
-
-...
-
-[Data](articles/bb8b0e4d.json)
-
-[Extended Data](ext_articles/bb8b0e4d.ext.json)
-
----
-
-### HIV/AIDS on the rise; 200+ cases, 13 deaths in first quarter
-
-*2024-06-06 08:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/HIVAIDS-on-the-rise-200-cases-13-deaths-in-first-quarter/108-284191) · `en`
-
-Colombo, June 05 (Daily Mirror) -  Sri Lanka faces a worrying upswing in HIV/AIDS cases, with over 200 new infections and 13 deaths reported in the first quarter alone in 2024.
-
-According to the National STD/AIDS Control Programme, Sri Lanka has logged 207 HIV/AIDS cases in the first quarter in 2024 (January to March).
-
-This reflects 25 per cent increase compared to the corresponding period in 2023, which saw 165 cases.
-
-Out of the cases reported in the first quarter 2024, 23 males and five females fall within the age range of 15-24, while the remaining cases are individuals above 25 years old.
-
-The male-to-female ratio of reported HIV cases in 2024 stands at 7:1.
-
-Further, a total of 13 HIV/AIDS related deaths were reported during the said period.
-
-The fourth quarter in 2023 (October-December) marked the highest number of cases (209) reported in a single quarter since 2009.
-
-...
-
-[Data](articles/398736d0.json)
-
-[Extended Data](ext_articles/398736d0.ext.json)
-
----
-
-### Missing Men's body found
-
-*2024-06-06 08:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197443) · `si`
-
-The body of a missing boy was discovered, according to police. A schoolgirl from NewWettel Estate was found in floods, and another 17-year-old girl's body was found in the Uduruwara Division. The body is at Horana Hospital as Anguruwatota police continue investigating.
-
-🟩
-
-The body of the missing boy was found, police said.
-
-A schoolgirl who was a resident of NewWettel Estate, NewWetteal Estate, Agrate Police Division was found floods.
-
-Later, 17-year-old schoolgirl, the body of the 17-year-old schoolgirl, the Uduruwara Division of Udakuwara, Uduruwara Division of Uduruwara.
-
-The body was placed at the Horana Hospital while Anguruwatota police are conducting further investigations.
-
-◼️
-
-[Data](articles/13353391.json)
-
-[Extended Data](ext_articles/13353391.ext.json)
-
----
-
-### Obtaining statements on the attack on MP Gunatilleke Rajapaksa begins
-
-*2024-06-06 07:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197442) · `si`
-
-Following an assault complaint against MP Mahindananda Aluthgamage by his son, the Fort Police plan to record statements from MPs involved, including Mahindananda Aluthgamage and Gunatilleke Rajapaksa. The OIC notified Parliament about seeking these statements. MP Gunatilleke Rajapaksa, treated at the Army Hospital, has already given a statement. Further investigations are ongoing under DIG Nihal Talduwa.
-
-🟩
-
-The Fort Police have decided to record statements from other Members of Parliament Mahindananda Aluthgamage and other two MPs who have occurred between MPs Mahindananda Aluthgamage and Gunatilleke Rajapaksa.
-
-It is reported that the OIC has acted informed Parliament yesterday to inform the Parliament in writing that they wanted to get a statement from the MPs.
-
-The son of MP Mahindananda Aluthgamage had lodged a complaint with the Fort Police that the MP Mahindananda Aluthgamage had assaulted his father after the government meeting last evening.
-
-According to the complaint, the Fort police station has obtained a statement from MP Gunatilleke Rajapaksa who is receiving treatment at the Army Hospital yesterday.
-
-After the statement, the police have decided to obtain statements from other Members of Parliament at the event.
-
-Police Media Spokesperson DIG, Nihal Talduuwa, police spokesman is conducting further investigations accordingly.
-
-◼️
-
-[Data](articles/dfbd895b.json)
-
-[Extended Data](ext_articles/dfbd895b.ext.json)
-
----
-
-### 15 year old student dies after the 17-year-old schoolgirl
-
-*2024-06-06 07:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197441) · `si`
-
-In Hambantota, a 15-year-old student died from injuries sustained during an assault by a 17-year-old girl. The incident occurred in the Sippikulam area, and the victim was a grade 10 student from Hambantota. The suspect, also a student, was arrested following investigations into the dispute that led to the fatal attack.
-
-🟩
-
-The murder was assassinated by a schoolgirl at the Sippikulam area in Hambantota yesterday evening.
-
-The police said that the student who was admitted to the Hambantota hospital due to assault, the student who started investigating a message on her death.
-
-The victim was a 15 year old resident of Baddaveli Road, Hambantota.
-
-He has been in a school-grade 10 student in Hambantota and attended the Sippikulam area to attend a tuition.
-
-A student of another school in Hambantota has been assaulted by the 10th Grade Student.
-
-Investigations have revealed that a dispute between these two students had caused the conflict.
-
-However, the police have arrested 17-year-old schoolgirls about the death of the student.
-
-◼️
-
-[Data](articles/07abc0e8.json)
-
-[Extended Data](ext_articles/07abc0e8.ext.json)
-
----
-
-### President invites the swearing in Indian Prime Minister
-
-*2024-06-06 07:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197440) · `si`
-
-President Ranil Wickremesinghe will attend PM Narendra Modi's swearing-in ceremony, marking a significant event in India-Sri Lanka relations.
-
-🟩
-
-President Ranil Wickremesinghe is due to attend the swearing in ceremony of Prime Minister Narendra Moodi.
-
-◼️
-
-[Data](articles/cb163968.json)
-
-[Extended Data](ext_articles/cb163968.ext.json)
-
----
-
-### Concluding debt restructuring sooner than later critical for SL: Katsuki
-
-*2024-06-06 07:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Concluding-debt-restructuring-sooner-than-later-critical-for-SL-Katsuki/108-284220) · `en`
-
-Japan, Sri Lanka’s biggest bilateral lender after China, yesterday stressed the island nation must speed up in its debt restructuring efforts for its own betterment.
-
-Sri Lanka’s ongoing efforts in debt restructuring is falling behind schedule and with an upcoming International Monetary Fund review, Japan’s Deputy Head of Mission Kotaro Katsuki highlighted the importance of accelerating momentum.
-
-As several sections are awaiting the final outcome of the efforts that would help the national economy, Katsuki said Sri Lanka must make sure the process concludes sooner than later.
-
-“This is absolutely crucial for the Sri Lankan economy but also for the people who are doing business and investing in this country,” said Katsuki addressing a forum hosted by the Sri Lanka-Japan Business Council.
-
-A memorandum of understanding is currently underway, which has made several rounds back and forth.
-
-...
-
-[Data](articles/201c585a.json)
-
-[Extended Data](ext_articles/201c585a.ext.json)
-
----
-
-### Electricity Bill: The first bill: 'It is not nice when it comes to
-
-*2024-06-06 06:43:35* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cw44w4zzjz3o) · `si`
-
-It seems like you've shared a detailed summary of legislative developments related to the Sri Lanka Electricity Bill and its implications. How can I assist you further with this information? Are you looking for analysis, additional details, or perhaps guidance on how to proceed with certain aspects of this topic?
-
-🟩
-
-Electricity Bill: The first bill: 'It is not nice when it comes to
-
-The controversial bill will be passed to the debate today (June 6).
-
-It is in the background that the Supreme Court has informed parliament that several clauses of the Power Bill is not in accordance with the Constitution.
-
-The Speaker (June 4) stated that it is a simple majority of the parliament, said the Supreme Court opinion on the Bill (June 4).
-
-The vote on the bill will be held today (June 6).
-
-What happened to the Electricity Bill presented before Parliament?
-
-Power and Energy Minister Kanchana Wijese, a letter stating that the Power and Energy and the Supreme Court has been approved by the Power and Supreme Court's amendments (June 4).
-
-Accordingly, the Power and Energy Bill (6th June) is due to be submitted to the debate and approval of Parliament.
-
-...
-
-[Data](articles/6c31dcfe.json)
-
-[Extended Data](ext_articles/6c31dcfe.ext.json)
 
 ---

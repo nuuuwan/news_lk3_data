@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-06 22:34:25**
+As of **2024-06-06 22:52:50**
 
 ## Newspaper Stats
 
-*Scraped **28,912** Articles*
+*Scraped **28,914** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,55 @@ islandlk | 1,554
 economynextcom | 1,642
 dailyftlk | 1,711
 adalk | 2,474
-adaderanalk | 3,280
+adaderanalk | 3,281
 tamilmirrorlk | 3,396
 virakesarilk | 4,437
 dailymirrorlk | 4,598
-adaderanasinhalalk | 4,640
+adaderanasinhalalk | 4,641
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,910 (100.0%) of 28,912 articles have been extended.
+28,912 (100.0%) of 28,914 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-06 (Thursday)
+
+### Health officials emphasize need for additional measures to combat spread of dengue
+
+*2024-06-06 22:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/99717/health-officials-emphasize-need-for-additional-measures-to-combat-spread-of-dengue) · `en`
+
+Director of the National Dengue Control Unit Dr. Sudath Samaraweera, emphasized that dengue disease extends beyond mere health implications, presenting significant economic and social challenges. He underscored that the Ministry of Health alone cannot effectively control the spread of dengue and requires full public support.
+
+Dr. Sudath Samaraweera, disclosed that within the last five months of this year, over 25,000 dengue cases and nine dengue-related deaths have been reported.
+
+Director of the National Dengue Control Unit Dr. Sudath Samaraweera, a specialist, made this revelation while participating in a special news conference held at the Presidential Media Centre today (06).
+
+He also emphasized the critical importance of effectively managing the spread of the disease, noting that the current flood situation could potentially escalate the dengue outbreak to an epidemic level.
+
+...
+
+[Data](articles/47ccc319.json)
+
+---
+
+### පොලීසියේදී මුදල් පසුම්බියක් සොරාගත් අඹු-සැමි යුවළ කොටුවෙයි
+
+*2024-06-06 22:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197476) · `si`
+
+පවුල් ආරවුලක් සම්බන්ධයෙන් පැමිණිලි කිරීමට පොලීසියට පැමිණි අඹු-සැමි යුවළක් පොලිස් කොස්තාපල්වරියකගේ මුදල් පසුම්බියක් සොරාගෙන ගොස් ඇති බව වාද්දුව පොලීසිය පවසයි.
+
+සිද්ධිය සම්බන්ධයෙන් අත්අඩංගුවට ගෙන ඇත්තේ වාද්දුව කුරේ මාවතේ පදිංචි අඹු-සැමි යුවළකි.
+
+ඔවුන් දෙදෙනා අද (06) පස්වරුවේ වාද්දුව පොලීසියේ විවිධ පැමිණිලි අංශයට පැමිණ සිට ඇති අතර, ඊට යාබදව පිහිටි ළමා හා කාන්තා කාර්යාංශයේ මේස ලාච්චුවක තිබූ මුදල් පසුම්බිය සොරාගෙන ගොස් ඇති බව පොලීසිය පැවසීය.
+
+◼️
+
+[Data](articles/23394ea7.json)
+
+---
 
 ### Anuradhapura sacred area declared a rabies-free zone
 
@@ -49,6 +83,8 @@ It is further requested that the people in the areas bring the animals to the cl
 ...
 
 [Data](articles/4b702dcf.json)
+
+[Extended Data](ext_articles/4b702dcf.ext.json)
 
 ---
 
@@ -197,6 +233,8 @@ A fully automatic electric maternity bed and other equipment were donated to the
 ◼️
 
 [Data](articles/72e73a3f.json)
+
+[Extended Data](ext_articles/72e73a3f.ext.json)
 
 ---
 
@@ -2167,51 +2205,5 @@ In order to obtain the forward premium of $ 3 billion comprehensive loan facilit
 [Data](articles/b2f67bb5.json)
 
 [Extended Data](ext_articles/b2f67bb5.ext.json)
-
----
-
-### Decrease
-
-*2024-06-06 12:24:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்-கட்டணம்-குறைவடையும்/175-338535) · `ta`
-
-Kanjana Wijesekera, Minister of Power and Energy, announced a reduction in electricity prices, explaining it directly impacts the cost per unit.
-
-🟩
-
-Minister of Power and Energy Kanjana Wijesekera on Thursday (06) presented how the price of a unit of electricity would be reduced when the electricity tariff was reduced.
-
-Accordingly, the price of a unit of Rs.
-
-◼️
-
-[Data](articles/ad334ee6.json)
-
-[Extended Data](ext_articles/ad334ee6.ext.json)
-
----
-
-### Today in History: 1968
-
-*2024-06-06 12:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/185431) · `ta`
-
-On June 5, 1968, Senator Robert F. Kennedy, brother of JFK, was assassinated, sparking widespread protests. He was laid to rest beside JFK at Arlington Cemetery. His pregnant widow, Ethel, was by his side.
-
-🟩
-
-Today is the day when Senator Robert Kennedy, the brother and politician of former US President John Kennedy, was shot dead and died.
-
-John Kennedy was shot dead in 1963 when he held office as US president. Four and a half years after the incident, on June 5, 1968, his younger brother Robert Kennedy died on June 6, the next day, after he was shot dead and faced with major death protests.
-
-When Robert Kennedy fell on the ground, Kennedy's wife, Etal Kennedy, stumbled on the side of her husband and sat down.. She was pregnant at the time and was carrying his 11th baby in the stomach.
-
-Robert Kennedy's funeral was buried on the side of his brother's grave at Washington, Arlington.
-
-Here are the first pages of Weerakesari magazines published on June 6 and 7, 1968, to commemorate the mysteries that have been hiding in the deaths of the brother -in -law.
-
-◼️
-
-[Data](articles/e5c4b6ae.json)
-
-[Extended Data](ext_articles/e5c4b6ae.ext.json)
 
 ---

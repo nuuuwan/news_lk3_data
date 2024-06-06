@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-06 16:34:12**
+As of **2024-06-06 16:51:22**
 
 ## Newspaper Stats
 
-*Scraped **28,857** Articles*
+*Scraped **28,858** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,553
 economynextcom | 1,642
 dailyftlk | 1,711
 adalk | 2,462
-adaderanalk | 3,274
+adaderanalk | 3,275
 tamilmirrorlk | 3,391
 virakesarilk | 4,427
 dailymirrorlk | 4,584
@@ -26,29 +26,51 @@ adaderanasinhalalk | 4,633
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,853 (100.0%) of 28,857 articles have been extended.
+28,857 (100.0%) of 28,858 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-06 (Thursday)
 
-### හෙට වසා තැබෙන පාසල් ගැන දැනුම්දීමක්
+### Schools closed in two education divisions
+
+*2024-06-06 16:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/99709/schools-closed-in-two-education-divisions) · `en`
+
+All government schools in Elapatha and Ayagama education divisions in the Nivithigala Education Zone will remain closed tomorrow (07) due to prevailing adverse weather conditions.
+
+In a notice issued by the Sabaragamuwa Province Education Secretary, it is further informed that all other schools in other education zones and divisions will conduct academic activities as usual tomorrow.
+
+Taking into account the prevailing weather conditions, the Ministry of Education (MoE) has informed that the authority to make decisions based on the existing weather situation have been vested with the Provincial Education Secretaries and Provincial Education Directors.
+
+◼️
+
+[Data](articles/9302e4ce.json)
+
+---
+
+### Notice of schools closing tomorrow
 
 *2024-06-06 16:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197466) · `si`
 
-රජයේ පාසල්වලට දෙනු ලබන විශේෂ නිවාඩුවක් ලෙස සලකා හෙට (07) නිවිතිගල කලාපයේ පහත සඳහන් කොට්ඨාසලවල රජයේ පාසල් සඳහා නිවාඩු ලබාදී තිබේ.
+Due to bad weather, all public schools in the Nivithigala region, specifically in Alapatha, Itection, and Agets divisions, will close tomorrow. The Zonal Education Directors can decide about future school closures. Other zones remain open.
 
-එම ප්‍රදේශවල තවදුරටත් පවතින අයහපත් කාලගුණ තත්ත්වය හේතුවෙන් මෙම තීරණය ගෙන ඇත.
+🟩
 
-ඒ අනුව නිවිතිගල අධ්‍යාපන කලාපයේ ඇලපාත හා අයගම කොට්ඨාසවලට අයත් සියලුම පාසල් හෙට දිනයේ නොපැවැත්වෙනු ඇති.
+Public schools have been granted to government schools at the following divisions of the Nivithigala region tomorrow (07) as a special vacation given to public schools.
 
-ඉදිරියේදී ඇතිවන කාලගුණ තත්ත්වය මත පාසල් පැවැත්වීම සම්බන්ධයෙන් තීරණ ලබාදීම සඳහා කලාප අධ්‍යාපන අධ්‍යක්ෂවරුන් වෙත බලය පවරනු ලබන බවද දැනුම්දී තිබේ.
+The decision was taken due to the inclement weather conditions in those areas.
 
-සෙසු සියලුම කලාප සහ කොට්ඨාසවල සාමාන්‍ය පරිදි පාසල් පැවැත්වීමට තීරණය කර ඇති බවද සබරගමුව පළාත් සභාව දැනුම්දෙයි.
+Accordingly, all schools belonging to Alapatha and the Itection and Agets in the Nivitigala Education Zone will not be held tomorrow.
+
+It has been announced that the Zonal Education Directors are authorized to make decisions on conducting decisions on the future.
+
+The Sabaragamuwa Provincial Council is notified to hold schools in all other zones and divisions.
 
 ◼️
 
 [Data](articles/15f21d1b.json)
+
+[Extended Data](ext_articles/15f21d1b.ext.json)
 
 ---
 
@@ -70,6 +92,8 @@ He said it is a serious matter to hand over the power sector monopoly to the pri
 
 [Data](articles/489cc5dd.json)
 
+[Extended Data](ext_articles/489cc5dd.ext.json)
+
 ---
 
 ### Maldives and Sri Lanka to ink new deals to enhance economic cooperation
@@ -87,6 +111,8 @@ It is proposed to sign an Investment Protection Treaty, Double Tax Avoidance Agr
 ...
 
 [Data](articles/70dbae4f.json)
+
+[Extended Data](ext_articles/70dbae4f.ext.json)
 
 ---
 
@@ -129,6 +155,8 @@ By providing these vouchers, the Ministry aims to improve school attendance amon
 ...
 
 [Data](articles/cda698b2.json)
+
+[Extended Data](ext_articles/cda698b2.ext.json)
 
 ---
 
@@ -566,7 +594,7 @@ The decision has been taken following a proper public affiliation process and fu
 
 ---
 
-### Sri Lanka proposes sharp price reduction for lower electricity users from July 1
+### Sri Lanka’s CEB eyes sharply lower tariffs for smaller domestic users: Minister
 
 *2024-06-06 13:42:00* · [`economynextcom`](https://economynext.com/sri-lanka-proposes-sharp-price-reduction-for-lower-electricity-users-from-july-1-166564/) · `en`
 
@@ -580,7 +608,9 @@ The unit cost of those using 30-60 will be reduced by 11 rupees to 9 and 60-90 w
 
 The next category of households using 90-120 units are proposed to be charged 30 rupees from the current 50 rupees.
 
-“We will be subimtiing our new proposal to reduce the electricity bill to the Public Utilities Commission. The government, as a policy, decided to provide maximum concession to lower electricity users, lower income people and those consumers who fall under these categories,” the Minister told the Parliament.
+“We will be submitting our new proposal to reduce the electricity bill to the Public Utilities Commission, ” the Minister told the Parliament.
+
+“The government, as a policy, decided to provide maximum concession to lower electricity users, lower income people and those consumers who fall under these categories,”
 
 ...
 
@@ -1930,9 +1960,13 @@ The accident had occurred after the use of tuber was having fun with the tuber o
 
 *2024-06-06 09:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/99694/president-ranil-inaugurates-political-office-in-colombo) · `en`
 
-President Ranil Wickremesinghe auspiciously inaugurated his political office in Colombo a short while ago, according to the President’s Media Division (PMD).
+President Ranil Wickremesinghe inaugurated his new political office in Colombo today (06) at an auspicious moment. The office, located on Sir Ernest de Silva Mawatha, will serve as the center for future political operations.
 
-◼️
+The ceremony included religious rites and blessings performed by prominent religious leaders, including the Chief Sanghanayake of the Western Province, Venerable Dr. Murutthettuwe Ananda Nayaka Thero, the Chancellor of the University of Colombo, Chief Sanghanayake of the Uva Province with Colombo District, Venerable Maharagama Nanda Nayaka Thero, and the head of five major temples including the Kollupitiya Valukarama Maha Viharaya.
+
+The establishment of the office was initiated by United National Party Chairman and Member of Parliament, Wajira Abeywardena.
+
+...
 
 [Data](articles/19bc0834.json)
 
@@ -2201,33 +2235,5 @@ The accused, along with Kerala cannabis and the dinghy were handed over to the M
 [Data](articles/2987f05e.json)
 
 [Extended Data](ext_articles/2987f05e.ext.json)
-
----
-
-### 'Doesn’t get more special' - Uganda celebrate first win
-
-*2024-06-06 09:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Doesnt-get-more-special-Uganda-celebrate-first-win/108-284239) · `en`
-
-(BBC) - Uganda captain Brian Masaba said it "doesn't get more special than this" after his side beat Papua New Guinea to earn their first win at a T20 World Cup.
-
-The Cricket Cranes, making their debut at a major global event in any of cricket's formats, edged to a tense victory by chasing 78 with three wickets and 10 balls remaining.
-
-"I mean, they've put in the work, they've put in such a shift. And to get a win for their country at the World Cup is very, very special."
-
-Uganda are the second-lowest ranked side in the tournament with only Canada below them and came through through African qualifying, where they stunned Zimbabwe.
-
-There are just 20 cricket clubs in Uganda. In contrast there are 800 in Yorkshire alone.
-
-"It has been quite a journey to make this happen," Masaba said.
-
-"Getting to a World Cup was very special but this is even more special."
-
-Spinner Frank Nsubuga, 43, bowled the most economical four overs in T20 World Cup history with his two wickets costing only four runs.
-
-...
-
-[Data](articles/6fd6c5d4.json)
-
-[Extended Data](ext_articles/6fd6c5d4.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-07 03:52:21**
+As of **2024-06-07 04:04:14**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,641
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,959 (100.0%) of 28,968 articles have been extended.
+28,968 (100.0%) of 28,968 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -200,6 +200,8 @@ The Government of Sri Lanka has recently requested international financial insti
 
 [Data](articles/2bf87e9b.json)
 
+[Extended Data](ext_articles/2bf87e9b.ext.json)
+
 ---
 
 ### Continuity of reforms key to SL getting back to its own feet breaking away from IMF cycle: WB Chief Economist
@@ -222,23 +224,31 @@ Sri Lanka lost about $ 4 b between 2020 and 2022 due to what was then referred t
 
 [Data](articles/0fbb66cb.json)
 
+[Extended Data](ext_articles/0fbb66cb.ext.json)
+
 ---
 
-### செய்மதி தொழில்நுட்பம் மூலம் இணைய சேவையை வழங்க "Starlink" நிறுவனத்திற்கு அங்கீகாரம் - இராஜாங்க அமைச்சர் கனக ஹேரத்
+### Admission to "Starlink" to provide internet service through technology - Minister of State Kanaka Herath
 
 *2024-06-07 02:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/185489) · `ta`
 
-இலங்கையில் செய்மதி தொழில்நுட்பத்தின் ஊடாக இணைய வசதி சேவையை வழங்க "Starlink" நிறுவனத்திற்கு இலங்கை தொலைத்தொடர்பு ஒழுங்குபடுத்தல் ஆணைக்குழு ஆரம்ப அங்கீகாரம் வழங்கியுள்ளதாக தொழில்நுட்ப இராஜாங்க அமைச்சர் கனக ஹேரத் தெரிவித்தார்.
+Sri Lanka's Telecommunication Regulatory Commission has authorized "Starlink" to offer internet services, aiming to enhance connectivity for education, research, and fishing sectors. The public has until April 21st to voice their opinions. This move follows discussions between President Ranil Wickremesinghe and Elon Musk about accelerating "Starlink" applications. With over 2000 global installations across 32 countries, "Starlink" promises high-speed internet accessible from anywhere, potentially revolutionizing Sri Lanka's tech industry.
 
-இந்த இணைய சேவை வசதிக்கான அனுமதியை வழங்குவதற்கு முன்னர்  பொதுமக்களின் கருத்துக்களைப் பெறுவதற்கு 14 நாட்கள் கால அவகாசம் வழங்கப்பட்டுள்ளதாகவும் அதன் பின்னரே தொலைத்தொடர்பு ஒழுங்குபடுத்தல் ஆணைக்குழுவினால் இந்த இணைய சேவையை இலங்கையில் நடைமுறைப்படுத்த முடியும் எனவும் இராஜாங்க அமைச்சர் குறிப்பிட்டார்.
+🟩
 
-ஜனாதிபதி ஊடக மையத்தில் 07ஆம் திகதி வெள்ளிக்கிழமை நடைபெற்ற ஊடகவியலாளர் சந்திப்பில் தொழில்நுட்ப இராஜாங்க அமைச்சர் கனக ஹேரத் மேற்கண்டவாறு தெரிவித்தார்.
+Technology Minister Kanaka Herath said that the Sri Lanka Telecommunication Regulatory Commission has given the initial authorization to "Starlink" to provide internet service through the technology in Sri Lanka.
 
-கல்வி, ஆராய்ச்சி மற்றும் மீன்பிடித் துறைகளுக்கு வேகமான இணையச் சேவையை  இதன் ஊடாக வழங்க முடியும் என்றும், உலகில் எங்கிருந்தும் இந்த இணைய வசதியைப் பெறுவதற்கான வாய்ப்பு இருப்பதாகவும் இராஜாங்க அமைச்சர் குறிப்பிட்டார்.
+The Minister of State has stated that the public has been granted 14 days to obtain the opinion of the public before granting permission for this internet service and then the telecommunications regulatory commission can implement this internet service in Sri Lanka.
+
+Minister of Technology Kanaka Herath said this at a media briefing held at the Presidential Media Center on Friday the 07.
+
+The Minister of State has stated that it can provide the speedy internet service to education, research and fishing sectors and that there is a possibility of getting this Internet in the world.
 
 ...
 
 [Data](articles/9841c451.json)
+
+[Extended Data](ext_articles/9841c451.ext.json)
 
 ---
 
@@ -255,6 +265,8 @@ Following on from the success of this Accelerator Program in 2023 where Hemas su
 ...
 
 [Data](articles/8352dee0.json)
+
+[Extended Data](ext_articles/8352dee0.ext.json)
 
 ---
 
@@ -276,6 +288,8 @@ Nawaloka Hospitals PLC Chairman Dr. Jayantha Dharmadasa said: “This significan
 
 [Data](articles/56b35774.json)
 
+[Extended Data](ext_articles/56b35774.ext.json)
+
 ---
 
 ### Spa Ceylon clinches double win at Pure Beauty Global Awards 2024, dominating Global Beauty Awards season
@@ -292,6 +306,8 @@ Spa Ceylon was amongst the handful of multiple-award winners of the night, sweep
 
 [Data](articles/21848774.json)
 
+[Extended Data](ext_articles/21848774.ext.json)
+
 ---
 
 ### OSL Global and Middle East Liaoning Province General Chamber of Commerce sign MOU
@@ -307,6 +323,8 @@ This strategic agreement aims to enhance cooperation and explore mutual business
 ...
 
 [Data](articles/16e08dd3.json)
+
+[Extended Data](ext_articles/16e08dd3.ext.json)
 
 ---
 
@@ -325,6 +343,8 @@ Singhagiri always strives to build lifelong relationships with its customers by 
 ...
 
 [Data](articles/42d5fc38.json)
+
+[Extended Data](ext_articles/42d5fc38.ext.json)
 
 ---
 
@@ -486,19 +506,31 @@ There was a recent meme (an image, video or piece of text) on Facebook which por
 
 ---
 
-### ’புலிகளைப் போலவே யானைகள் வருகின்றன’
+### Elephants are coming like tigers
 
 *2024-06-07 00:43:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புலிகளைப்-போலவே-யானைகள்-வருகின்றன/175-338576) · `ta`
 
-காட்டு யானைகள் விடுதலைப் புலிகள் போன்று நடந்து கொள்வதனால்  இரவில் நிம்மதியாக உறங்க முடியவில்லை,வெளியில் சுதந்திரமாக நடமாட முடியவில்லை  என  முன்னாள் வனஜீவராசிகள் பாதுகாப்பு அமைச்சரும் அரச தரப்பு எம்.பி.யுமான விமலவீர திஸாநாயக்க தெரிவித்தார்.
+Wild elephants in Sri Lanka are causing significant issues, behaving aggressively and leading to loss of human life. They target homes, disrupting daily life and education. The situation is likened to the actions of the LTTE, forcing residents from their villages. Despite being protective of habitats beneficial to them, they attack homes, highlighting the need for effective solutions to manage this crisis, especially to boost agriculture.
 
-பாராளுமன்றத்தில் வியாழக்கிழமை  (06) இடம்பெற்ற வாய்மூல விடைக்கான வினாநேரத்தில் எழுப்பப்பட்ட கேள்வியொன்றுக்கு    வனஜீவராசிகள் அமைச்சர் பவித்ரா வன்னியராட்சி பதிலளித்துக் கொண்டிருக்கும் போது குறுக்கிட்டே  இவ்வாறு தெரிவித்த
+🟩
 
-நாட்டின் அனைத்து பகுதிகளிலும் காட்டு யானைகளினால்  பிரச்சினைகள் ஏற்பட்டுள்ளன.காட்டு யானைகளினால்  வருடாந்தம் கோடிக்கணக்கான ரூபாய் பெறுமதியான சொத்துக்கள் சேதமாக்கப்படுகின்றன. மனித உயிர்கள் பல இழக்கப்படுகின்றன யானை பிரச்சினைகளுக்கு தீர்வு காண்பதற்கு நடவடிக்கை எடுக்கும் போது டொலர்களில் நிவாரணம் பெறும் தரப்பினர்  நீதிமன்றத்தை நாடி  முன்னெடுக்கவிருக்கும் செயற்பாடுகளுக்கு தடையுத்தரவை பெற்றுக் கொள்கிறார்கள்.
+Former Wildlife Defense Minister and State MP Wimalaweera Dissanayake said that wild elephants were acting like the LTTE and could not sleep at night.
 
-...
+Wildlife Minister Pavithra Wanniyarachchi interrupted a question raised in the query in Parliament on Thursday (06) in Parliament.
+
+Wild elephants have problems in all parts of the country.. Many of the human lives are lost when they take steps to address elephant problems.
+
+Elephants do not attack the houses of the sides who are in favor of the elephants. Elephants do not attack the houses. Elephants are attacking the homes of the people.
+
+Wild elephants behave like the Liberation Tigers, so that the residents leave their villages.. Students could not even go to school. Elephants kill the public
+
+Elephant problems should be solved if they want to improve agriculture. Those who refer to as environmental experts have no better plan.
+
+◼️
 
 [Data](articles/5476a7ae.json)
+
+[Extended Data](ext_articles/5476a7ae.ext.json)
 
 ---
 

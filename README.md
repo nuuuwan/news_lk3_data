@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-06 09:04:33**
+As of **2024-06-06 09:18:49**
 
 ## Newspaper Stats
 
-*Scraped **28,743** Articles*
+*Scraped **28,746** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,43 @@ islandlk | 1,553
 economynextcom | 1,635
 dailyftlk | 1,711
 adalk | 2,450
-adaderanalk | 3,256
+adaderanalk | 3,257
 tamilmirrorlk | 3,378
 virakesarilk | 4,414
-dailymirrorlk | 4,559
+dailymirrorlk | 4,561
 adaderanasinhalalk | 4,611
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,740 (100.0%) of 28,743 articles have been extended.
+28,743 (100.0%) of 28,746 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-06 (Thursday)
+
+### Teenage schoolboy dies after fatal assault by another student
+
+*2024-06-06 09:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/99691/teenage-schoolboy-dies-after-fatal-assault-by-another-student) · `en`
+
+A teenage schoolboy has reportedly died after being assaulted by another student at Sippikulam in the Hambantota police division last evening (05).
+
+Police initiated investigations following a report regarding the death of the student, who had been admitted to Hambantota Hospital and was receiving treatment in the intensive care unit due to the assault.
+
+The deceased, a 15-year-old student residing on Beddewela Road in Hambantota, was a Grade 10 students of a school in the Hambantota town.
+
+He had travelled to Sippikulama yesterday to attend a tuition class. There, a student from another school in Hambantota had arrived at the tuition class and assaulted the Grade 10 student in question.
+
+Investigations revealed that a dispute between the two students had led to the assault incident.
+
+Police have arrested a 17-year-old student in connection with the death.
+
+◼️
+
+[Data](articles/5fd4712f.json)
+
+---
 
 ### Spells of showers expected in several provinces, districts
 
@@ -49,6 +71,46 @@ The general public is kindly requested to take adequate precautions to minimize 
 ◼️
 
 [Data](articles/a5722d08.json)
+
+[Extended Data](ext_articles/a5722d08.ext.json)
+
+---
+
+### Sri Lankan missions getting stripped of authority in issuing visas
+
+*2024-06-06 08:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Sri-Lankan-missions-getting-stripped-of-authority-in-issuing-visas/155-284226) · `en`
+
+Colombo, June 6 (Daily Mirror) - Overseas Sri Lankan missions are in the process of being stripped of their authority to issue different categories of visas for foreign nationals including resident visas with the introduction of online application, an official said.
+
+Sri Lanka has now introduced acceptance of online visas from foreign nationals intending to visit Sri Lanka. As a result, the Sri Lankan missions virtually lose their authority to accept document and issue visas.
+
+Sri Lanka Department of Immigration and Emigration retains the sole authority to issue visas in partnership with VFS Global for processing applications. Asked for a comment in this regard, Controller General of Immigration and Emigration I.S.H.J. Ilukpitiya said there is no need for any foreign national to reach the nearest Sri Lankan mission to apply for visas now.
+
+...
+
+[Data](articles/6c68a8e4.json)
+
+---
+
+### Rain expected today in most districts
+
+*2024-06-06 08:37:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Rain-expected-today-in-most-districts/108-284225) · `en`
+
+Colombo, June 6 (Daily Mirror) - Several spells of showers are expected in the Western, Sabaragamuwa, Southern and North-Western Provinces, as well as in the Kandy and Nuwara Eliya districts today, the forecasting division of the National Meteorological Centre said.
+
+They said a few showers will occur in the Northern and North-Central Provinces.
+
+Thundershowers may occur at a few places in the Eastern and Uva Provinces in the evening or night.
+
+While issuing the weather forecast for sea areas around the island for the next 24 hours, the Meteorology Department today requested the naval and fishing communities to be attentive to the weather alerts.
+
+Accordingly, strong winds of up to 50 kmph can be expected at times over the Northern, North-Central, and North-Western Provinces and in the  Hambantota district.
+
+Showers will occur at several places in the sea areas off the coast, extending from Kankesanthurai to Hambantota via Puttalam, Colombo, and Galle.
+
+...
+
+[Data](articles/bb8b0e4d.json)
 
 ---
 
@@ -78,41 +140,55 @@ The fourth quarter in 2023 (October-December) marked the highest number of cases
 
 ---
 
-### අතුරුදන් වූ පිරිමි දරුවාගේ මෘත ශරීරය හමුවෙයි
+### Missing Men's body found
 
 *2024-06-06 08:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197443) · `si`
 
-අතුරුදන් වූ පිරිමි දරුවාගේ මෘත ශරීරය හමුවූ බව පොලීසිය පවසයි.
+The body of a missing boy was discovered, according to police. A schoolgirl from NewWettel Estate was found in floods, and another 17-year-old girl's body was found in the Uduruwara Division. The body is at Horana Hospital as Anguruwatota police continue investigating.
 
-අඟුරුවාතොට පොලිස් වසමේ නිව්වැටල් වත්ත, නෑබඩ ලිපිනයේ පදිංචිව සිටි පාසල් සිසුවෙක් ගංවතුර හසුව ඇතැයි ඊයේ අනාවරණය වුණි.
+🟩
 
-පසුව 17 හැවිරිදි එම පාසල් සිසුවාගේ මෘත ශරීරය අඟුරුවාතොට පොලිස් වනසමේ උඩුවර ග්‍රාමසේවා වසමේ කටුපොල් වගා
+The body of the missing boy was found, police said.
 
-මෘත ශරීරය හොරණ රෝහලේ තැන්පත් කර ඇති අතර, අඟුරුවාතොට පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+A schoolgirl who was a resident of NewWettel Estate, NewWetteal Estate, Agrate Police Division was found floods.
+
+Later, 17-year-old schoolgirl, the body of the 17-year-old schoolgirl, the Uduruwara Division of Udakuwara, Uduruwara Division of Uduruwara.
+
+The body was placed at the Horana Hospital while Anguruwatota police are conducting further investigations.
 
 ◼️
 
 [Data](articles/13353391.json)
 
+[Extended Data](ext_articles/13353391.ext.json)
+
 ---
 
-### ගුණතිලක රාජපක්ෂ මන්ත්‍රීවරයාට පහරදීමේ සිද්ධිය ගැන ප්‍රකාශ ලබාගැනීම ඇරඹේ
+### Obtaining statements on the attack on MP Gunatilleke Rajapaksa begins
 
 *2024-06-06 07:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197442) · `si`
 
-ආණ්ඩු පක්ෂ මන්ත්‍රී කණ්ඩායම් රැස්වීමෙන් අනතුරුව පාර්ලිමේන්තු මන්ත්‍රී මහින්දානන්ද අලුත්ගමගේ මහතා සහ ගුණතිලක රාජපක්ෂ මන්ත්‍රීවරුන් දෙදෙනා අතර ඇති වු ආරවුල සම්බන්ධයෙන් එම ස්ථානයේ සිටි අනෙක් පාර්ලිමේන්තු මන්ත්‍රීවරුන්ගෙන් ප්‍රකාශ සටහන් කරගැනීමට කොටුව පොලීසිය තීරණය කර තිබේ.
+Following an assault complaint against MP Mahindananda Aluthgamage by his son, the Fort Police plan to record statements from MPs involved, including Mahindananda Aluthgamage and Gunatilleke Rajapaksa. The OIC notified Parliament about seeking these statements. MP Gunatilleke Rajapaksa, treated at the Army Hospital, has already given a statement. Further investigations are ongoing under DIG Nihal Talduwa.
 
-ඒ අනුව අදාළ මන්ත්‍රීවරුන්ගෙන් ප්‍රකාශයක් ලබාගැනීමට අවශ්‍ය බව ලිඛිතව පාර්ලිමේන්තුවට දැනුම්දීමට ඊයේ (05)පස්වරුවේ කොටුව පොලිස් ස්ථානාධිපතිවරයා විසින් කටයුතු කර ඇති බව වාර්තා වේ.
+🟩
 
-පසුගිය සඳුදා පස්වරුවේ ආණ්ඩු පක්ෂ මන්ත්‍රී කණ්ඩායම් රැස්වීමෙන් අනතුරුව මහින්දානන්ද අලුත්ගමගේ මන්ත්‍රීවරයා සිය පියාට පහරදීමක් සිදුකළ බවට ගුණතිලක රාජපක්ෂ මන්ත්‍රීවරයාගේ පුත්‍රයා විසින් කොටුව පොලීසියට පැමිණිල්ලක් සිදුකර තිබිණි.
+The Fort Police have decided to record statements from other Members of Parliament Mahindananda Aluthgamage and other two MPs who have occurred between MPs Mahindananda Aluthgamage and Gunatilleke Rajapaksa.
 
-අදාළ පැමිණිල්ලට අනුව කොටුව පොලිස් ස්ථානයේ නිලධාරීන් විසින් ඊයේ දිනයේ යුද හමුදා රෝහලේ ප්‍රතිකාර ලබමින් සිටින  ගුණතිලක රාජපක්ෂ මන්ත්‍රීවරයාගෙන් ප්‍රකාශයක් ලබාගෙන ඇති බව වාර්තා වේ.
+It is reported that the OIC has acted informed Parliament yesterday to inform the Parliament in writing that they wanted to get a statement from the MPs.
 
-අදාළ ප්‍රකාශයෙන් අනතුරුව එම සිදුවීම සිදුවු ස්ථානයේ සිටි අනෙක් පාර්ලිමේන්තු මන්ත්‍රීවරුන්ගෙන් ද ප්‍රකාශ ලබාගැනීමට පොලීසිය තීරණය කර තිබේ.
+The son of MP Mahindananda Aluthgamage had lodged a complaint with the Fort Police that the MP Mahindananda Aluthgamage had assaulted his father after the government meeting last evening.
 
-...
+According to the complaint, the Fort police station has obtained a statement from MP Gunatilleke Rajapaksa who is receiving treatment at the Army Hospital yesterday.
+
+After the statement, the police have decided to obtain statements from other Members of Parliament at the event.
+
+Police Media Spokesperson DIG, Nihal Talduuwa, police spokesman is conducting further investigations accordingly.
+
+◼️
 
 [Data](articles/dfbd895b.json)
+
+[Extended Data](ext_articles/dfbd895b.ext.json)
 
 ---
 
@@ -2057,73 +2133,5 @@ Meanwhile. We demand the government to take action to solve them.
 [Data](articles/cbe1e068.json)
 
 [Extended Data](ext_articles/cbe1e068.ext.json)
-
----
-
-### Keheliya's lawyer says the Keheliya has been legally legal
-
-*2024-06-05 18:18:20* · [`adalk`](https://www.ada.lk/breaking_news/කෙහෙළිය-නීත්‍යානුකූලව-කටයුතු-කර-ඇති-බව-කෙහෙළියගේ-නීතිඥයා-කියයි/11-410033) · `si`
-
-Keheliya Rambukwella's lawyer argues that the former Health Minister should not be remanded, citing legal grounds related to the 'Drug Regulatory Authority'. The case involves allegations against him, but the lawyer seeks his release pending further investigation.
-
-🟩
-
-The lawyer of former Health Minister Keheliya Rambukwella, who has been remanded to the Court of Appeal, has been imported to the Sri Lanka, has been imported into the suspect in question over the 'Drug Regulatory Authority' as the approval of the Drug Regulatory Authority.The client is illegal to remand in connection with the incident.
-
-The President's Counsel Faiz Mustapha appeared for the relief of the Appeal of the Court of Health, Mr. Keheliya Rambukwella, who has been subjected to the Court of Appeal, demanding the release of subordinated drug delegation, was asked to relieve the suspect.
-
-The judge of the Court of Appeal, Judge Nissanka Bandula Karunaratne and Shashi Mahendran, the judge was considered when he considered the judge.
-
-Importing of RsThat was informed.
-
-...
-
-[Data](articles/36c35844.json)
-
-[Extended Data](ext_articles/36c35844.ext.json)
-
----
-
-### A reduction in the price of foods
-
-*2024-06-05 18:16:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உணவு-வகைகளின்-விலை-குறைப்பு/175-338489) · `ta`
-
-Foods and gas prices have decreased, leading to lower costs for consumers. The snack owners' association reported reductions in prices for items like rice parcels and soot parcels.
-
-🟩
-
-The cost of gas prices has also been reduced, with the reduction of the price of gas, the snack owners' association said.
-
-Accordingly, the price of a bunch, rice and rice parcel has been reduced, the price of a soot parcel has been reduced by Rs.
-
-◼️
-
-[Data](articles/eaeca79e.json)
-
-[Extended Data](ext_articles/eaeca79e.ext.json)
-
----
-
-### Sri Lanka does not have modern radar systems
-
-*2024-06-05 18:07:14* · [`adalk`](https://www.ada.lk/breaking_news/නවීන-රේඩාර්-පද්ධති-ලංකාවට-නෑ/11-410032) · `si`
-
-Sri Lanka lacks advanced radar systems, affecting its ability to accurately predict heavy rainfall like the expected 400mm. Despite this, officials use current equipment to make the best predictions possible. Prof. Athula Senaratne highlights the importance of data for accurate forecasting but notes the challenge of predicting such significant rainfall without modern technology.
-
-🟩
-
-Antily Professor Athula Senaratne says that there were no sophisticated radar systems that he would have stated that he would fall as much as 400 millions of rain in the rainfall.. He was speaking at a media briefing in a murder held today.
-
-However, he said that the officials were able to provide the most accurate predictions, according to the present equipment, that many of the rain had not received.
-
-The professor states that the question of the corresponding equipment that measures the rainfall, despite the previous rainfall, there was the correct equipment that measured rainfall.
-
-"Data should be obtained to predict rainfall. There is a lack of. 400 millilic meters is a large rainfall. If the area was entitled to the reservoirs, all reservoirs would have been exhausted if the amount of water is received per square meter. It is not surprising that the water flows along the black river through the black river in the southwest region.
-
-...
-
-[Data](articles/14c54339.json)
-
-[Extended Data](ext_articles/14c54339.ext.json)
 
 ---

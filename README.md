@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-07 13:18:48**
+As of **2024-06-07 13:34:41**
 
 ## Newspaper Stats
 
-*Scraped **29,033** Articles*
+*Scraped **29,037** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 276
 bbccomsinhala | 282
 newsfirstlk | 363
 islandlk | 1,565
-economynextcom | 1,655
+economynextcom | 1,659
 dailyftlk | 1,730
 adalk | 2,479
 adaderanalk | 3,286
@@ -26,27 +26,33 @@ adaderanasinhalalk | 4,655
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,032 (100.0%) of 29,033 articles have been extended.
+29,033 (100.0%) of 29,037 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-07 (Friday)
 
-### පොහොට්ටුවේ නව කැඳවුම්කරු රෝහිත
+### The new convener of the pouch Rohitha
 
 *2024-06-07 13:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197492) · `si`
 
-ශ්‍රී ලංකා පොදුජන පෙරමුණේ ජාතික කැඳවුම්කරු ලෙස එහි පාර්ලිමේන්තු මන්ත්‍රි රෝහිත අබේගුණවර්ධන මහතා පත්කර  තිබේ.
+Rohitha Abeygunawardena, a Senior Member of Parliament, has been named the National Convener of the Sri Lanka General Front, following a meeting of its Executive Council. This decision was made under the patronage of Mahinda Rajapaksa, the party's leader.
 
-ඒ පක්ෂයේ විධායක සභාව සහ දේශපාලන මණ්ඩලය අද (07) පෙරවරුවේ රැස්වූ අවස්ථාවේදීය.
+🟩
 
-ශ්‍රී ලංකා පොදුජන පෙරමුණේ විධායක සභාව සහ දේශපාලන මණ්ඩලය එහි නායක හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතාගේ ප්‍රධානත්වයෙන් අද පෙරවරුවේ රැස්වුණේ ඒ මහතාගේ නිල නිවසේදීය.
+Senior Member of Parliament Rohitha Abeygunawardena has been appointed as the National Convener of the Sri Lanka General Front.
 
-මේ අතර ඇමති විජයදාස රාජපක්ෂ මහතාට එරෙහිව පැවැති චෝදනා පිළිබඳ නිර්දේශ ඉදිරිපත් කළ බවත් ඊට අනුව ඉදිරියේදී කටයුතු කිරීමට අදාළ අනුමැතිය ලබාදුන් බවත් ශ්‍රී ලංකා පොදුජන පෙරමුණේ පාර්ලිමේන්තු මන්ත්‍රි  ගාමිණී ලොකුගේ මහතා පැවසීය.
+It was when the party's Executive Council met today (07) morning.
+
+The executive council of the Sri Lanka General Front and the Political Council of the Sri Lanka President met with the patronage of the leader of the leader Mahinda Rajapaksa.
+
+Meanwhile, MP Gamini Lokuge said that Minister Wijeyadasa Rajapakse presented the recommendations of Mr. Wijeyadasa Rajapakse.
 
 ◼️
 
 [Data](articles/904f16b0.json)
+
+[Extended Data](ext_articles/904f16b0.ext.json)
 
 ---
 
@@ -199,6 +205,30 @@ The suspect is to be produced at the Moneragala Magistrate's Court on Friday (07
 [Data](articles/22936970.json)
 
 [Extended Data](ext_articles/22936970.ext.json)
+
+---
+
+### Sri Lanka eyes mammoth 4,000 workforce to man elephant fences
+
+*2024-06-07 11:17:00* · [`economynextcom`](https://economynext.com/sri-lanka-eyes-mammoth-4000-workforce-to-man-elephant-fences-166858/) · `en`
+
+ECONOMYNEXT – Sri Lanka plans to hire a 4,000 strong workforce to man electric fences built to keep elephants away from villages near forests, Minister of Wildlife and Natural Resources Conservation Pavithra Wanniarachchi said.
+
+“We admit that we did not have the sufficient number of officers to repair damaged fences,” Minister Wanniarachchi told Parliament Thursday.
+
+“That is why we are looking to recruit a new workforce of at least 4,000 multipurpose development officers to sort this out.”
+
+She was responding to a question on action taken to provide a “permanent solution” to the human elephant confusion in the Puttalam District.
+
+The entire approved cadre of the Department of Wildlife was 2,851 persons and the actual cadre was 1,941 according to its annual control report.
+
+Sri Lanka was estimated to have around 7,000 elephants around the country based on a 2022 survey.
+
+The workforce would also amount to about one man for 1.8 elephants.
+
+...
+
+[Data](articles/1deaff33.json)
 
 ---
 
@@ -650,6 +680,32 @@ Meanwhile, 239,006 people from 63,413 families have been affected due to incleme
 
 ---
 
+### Sri Lanka rupee opens stronger at 302.55/65 to US dollar
+
+*2024-06-07 09:43:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stronger-at-302-55-65-to-us-dollar-166844/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee improved slightly to open at 302.55/65 to the US dollar on Friday in the first half-hour of trading, while bond yields were steady and stocks opened 0.15 percent higher, dealers said.
+
+Sri Lanka rupee closed at 302.80/303.10 to the greenback on Thursday.
+
+In the secondary market, yields were slightly down, dealers said.
+
+A bond maturing on 15.12.2026 was quoted down at 9.95/10.00 percent from 9.95/10.05 percent.
+
+A bond maturing on 15.09.2027 was quoted at 10.45/65 percent down from 10.50/65 percent.
+
+A bond maturing on 01.07.2028 was quoted at 10.90/11.00 percent down from 10.95/11.05 percent.
+
+A bond maturing on 15.05.2030 closed at 11.70/80 percent down from 11.75/90 percent.
+
+In equities, Colombo’s All Share Price Index gained 24.13 points to 12,334 and the S&P SL20 of more liquid stocks up 0.41 percent or 14.93 points to 3,665, in the first half-hour of trade. (Colombo/Jun7/2024)
+
+◼️
+
+[Data](articles/83a442a5.json)
+
+---
+
 ### Brutal murder
 
 *2024-06-07 09:41:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெளிநாட்டிலிருந்து-வந்த-பெண்-கொடூர-கொலை/175-338580) · `ta`
@@ -956,6 +1012,28 @@ All this at the end of a riveting contest, one which fluctuated in the burning T
 
 ---
 
+### IMF says Sri Lanka has made “sufficiently strong progress” on debt for June review
+
+*2024-06-07 08:26:00* · [`economynextcom`](https://economynext.com/imf-says-sri-lanka-has-made-sufficiently-strong-progress-on-debt-for-june-review-166820/) · `en`
+
+ECONOMYNEXT  – The International Monetary Fund has assessed that there has been “sufficiently strong progress on the debt restructuring” for a review of Sri Lanka’s program by its board on June 12, an official said.
+
+“…[T]he authorities have been holding extensive discussions with external official creditors regarding an MOU with the official creditor committee and the final agreements with the Export Import Bank of China,” IMF Communication Director Julie Kozack told reporters in Washington.
+
+“Discussions with external bondholders continue with the aim of reaching agreements in principle soon. Negotiations with the China Development bank are also at an advanced stage.
+
+“There is a strong expectation that agreements with external commercial creditors consistent with program parameters will be reached soon.
+
+“So overall we assess that there has been sufficiently strong progress on the debt restructuring front.”
+
+Sri Lanka has also made progress on restoring stability and meeting IMF targets.
+
+...
+
+[Data](articles/02b5592d.json)
+
+---
+
 ### Special attention on the development of the Northern Province
 
 *2024-06-07 08:17:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வட-மாகாண-அபிவிருத்தியில்-விசேட-கவனம்/175-338578) · `ta`
@@ -1041,6 +1119,26 @@ Police said the murder had been attacked with a sharp object in a house in the M
 [Data](articles/2bcd5af4.json)
 
 [Extended Data](ext_articles/2bcd5af4.ext.json)
+
+---
+
+### Sri Lanka legislators slam 49 renewables plants without tender, Adani deal
+
+*2024-06-07 07:10:00* · [`economynextcom`](https://economynext.com/sri-lanka-legislators-slam-49-renewables-plants-without-tender-adani-deal-166770/) · `en`
+
+ECONOMYNEXT – Sri Lanka legislators have slammed 49 renewable energy deals running into hundreds of Megawatts each which are under consideration without competitive tenders and also India’s Adani deal  already procured at a high price.
+
+A cabinet paper was submitted on May 21, seeking approval for 49 plants, some as large as 700 MegaWatts which have been proposed following an Expression of Interest and no competitive bidding, opposition legislator Nalin Bandara Jayamaha said.
+
+“This paper was not on the lists of decisions released on May 22,” Jayamaha said in a debate on a new bill to reform and unbundle the electricity sector.
+
+The cabinet paper titled ‘Implementation of Renewable Energy Projects Received Through Expressions of Interest’ listed 49 projects, he said.
+
+The Supreme Court in a decision has said that earlier projects can be continued only if they were procured through competitive tender, Jayamaha said.
+
+...
+
+[Data](articles/a4f7b531.json)
 
 ---
 
@@ -2145,81 +2243,5 @@ He said this while addressing the President's new political office in Colombo on
 [Data](articles/c7226e38.json)
 
 [Extended Data](ext_articles/c7226e38.ext.json)
-
----
-
-### Catholic Church has nothing to do with extension of AG’s term
-
-*2024-06-06 21:38:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Catholic-Church-has-nothing-to-do-with-extension-of-AGs-term/108-284292) · `en`
-
-June 06 -  The Catholic Bishops' Conference of Sri Lanka (CBCSL) announced today that the Catholic Church in Sri Lanka had no involvement in the extension of the Attorney General's term.
-
-Our attention has been drawn to news articles published in several newspapers and other social and electronic media during the first week of June 2024 regarding a purported statement by the President concerning an extension granted to the term of the current Attorney General.
-
-These articles refer to an unfounded incident alleging that the Chairman of the CBCSL met with the President, resulting in the appointment of a three-member committee consisting of Secretary to the President Saman Ekanayake, Sagala Rathnayake, and Attorney General Sanjay Rajaratnam to discuss the Presidential Commission of Inquiry Report into the Easter Sunday attacks.
-
-...
-
-[Data](articles/cd8222f0.json)
-
-[Extended Data](ext_articles/cd8222f0.ext.json)
-
----
-
-### Independent candidate Ranil - Desire
-
-*2024-06-06 21:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197475) · `si`
-
-Ranil Wickremesinghe confirmed as an independent candidate for the presidential election by Presidential Advisor Professor Sought Marasinghe during the opening of the President's new political office in Colombo.
-
-🟩
-
-Presidential Advisor Professor Sought Marasinghe says that Ranil Wickremesinghe is a definitely independent candidate for the presidential election.
-
-He was speaking at the opening of the President's new political office in Colombo today (06).
-
-◼️
-
-[Data](articles/cf8cc7e1.json)
-
-[Extended Data](ext_articles/cf8cc7e1.ext.json)
-
----
-
-### Railway strike from midnight today
-
-*2024-06-06 21:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/99716/railway-strike-from-midnight-today-) · `en`
-
-The Locomotive Operating Engineers’ Union of Sri Lanka Railways says they have decided to launch a strike from midnight today (06).
-
-The trade union action is being initiated over delays in second-class promotions of locomotive drivers and several other issues, according to the Locomotive Operating Engineers’ Union.
-
-◼️
-
-[Data](articles/31928e76.json)
-
-[Extended Data](ext_articles/31928e76.ext.json)
-
----
-
-### Sri Lanka’s Hatton National Bank ‘A(lka)’ rating confirmed, ISB assets 10-pct
-
-*2024-06-06 21:13:00* · [`economynextcom`](https://economynext.com/sri-lankas-hatton-national-bank-alka-rating-confirmed-isb-assets-10-pct-166699/) · `en`
-
-ECONOMYNEXT – Fitch Ratings has confirmed Sri Lanka-based Hatton National Bank PLC’s National Long-Term Rating at ‘A(lka)’ with a stable outlook, saying the economy was stabilizing but it also had the highest exposure to defaulted sovereign bonds.
-
-HNB’s high risk profile, similar to peers, stems from its large exposure to sovereign risk, via the defaulted foreign-currency denominated sovereign bonds which at 10 percent of assets by end 2023, was the highest among local banks.
-
-Another 33 percent of assets iwere rupee-denominated treasury securities, all of which make the bank vulnerable to the sovereign’s repayment capacity and liquidity position.
-
-“Fitch expects HNB’s impaired (stage 3) loans to decrease in the near to medium term, buttressed by the improvement in borrower repayment capacity alongside the economic recovery and Fitch’s anticipated expansion in the bank’s loan book,” Fitch said.
-
-“This is despite the parate suspension that is in effect until 15 December 2024.”
-
-...
-
-[Data](articles/0187e280.json)
-
-[Extended Data](ext_articles/0187e280.ext.json)
 
 ---

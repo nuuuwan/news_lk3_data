@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-07 17:18:52**
+As of **2024-06-07 17:34:49**
 
 ## Newspaper Stats
 
-*Scraped **29,068** Articles*
+*Scraped **29,077** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,86 @@ dbsjeyarajcom | 276
 bbccomsinhala | 282
 newsfirstlk | 363
 islandlk | 1,565
-economynextcom | 1,659
+economynextcom | 1,665
 dailyftlk | 1,730
-adalk | 2,482
-adaderanalk | 3,292
+adalk | 2,483
+adaderanalk | 3,293
 tamilmirrorlk | 3,415
 virakesarilk | 4,459
-dailymirrorlk | 4,618
+dailymirrorlk | 4,619
 adaderanasinhalalk | 4,664
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,067 (100.0%) of 29,068 articles have been extended.
+29,068 (100.0%) of 29,077 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-07 (Friday)
+
+### Railway strike to continue
+
+*2024-06-07 17:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/99730/railway-strike-to-continue) · `en`
+
+The Locomotive Operating Engineers’ Union of Sri Lanka Railways says that the strike action launched from midnight yesterday (06) will continue further.
+
+The trade union action is being carried out over delays in second-class promotions of locomotive drivers and several other issues, according to the Locomotive Operating Engineers’ Union.
+
+However, only locomotive drivers from two out of the 05 running sheds have joined the strike. As a result, the power set trains will not be in operation, the trade union said.
+
+It further stated that even though the morning office trains would experience minimal impact from the strike, there is a possibility that all the trains scheduled for this evening might be cancelled.
+
+However, Ada Derana learns that only 84 locomotive drivers are engaged in this trade union action based on their own promotion issues.
+
+...
+
+[Data](articles/5ea83aec.json)
+
+---
+
+### Sri Lanka Chamber commends Electricity Law, cautions on regulator autonomy
+
+*2024-06-07 17:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-chamber-commends-electricity-law-cautions-on-regulator-autonomy-166955/) · `en`
+
+ECONOMYNEXT – The Ceylon Chamber of Commerce considers the new Electricity Bill a step towards modernizing the country’s electricity sector and fostering a more competitive market environment, a statement by the trade body said.
+
+“This move is expected to enhance efficiency, promote competition, and attract much-needed investment into the electricity sector, ultimately benefiting consumers with improved services and more competitive pricing.”
+
+While the overall reception of the bill is overwhelmingly positive, the Ceylon Chamber expressed “caution regarding the transfer of certain powers to an advisory council appointed by the minister, which can potentially undermine the role of the regulator.”
+
+The Chamber said it remains committed to working with all stakeholders to ensure the successful implementation of these reforms and to address any challenges that may arise.
+
+...
+
+[Data](articles/6c100030.json)
+
+---
+
+### Sri Lanka stocks close up, buying interest picks up
+
+*2024-06-07 16:38:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-buying-interest-picks-up-166947/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Friday, data on its site showed.
+
+The broader All Share Index closed up 0.03 percent, or 3.60 points, at 12,314; while the more liquid S&P SL20 Index closed up 0.13 percent, or 4.73 points, at 3,655.
+
+Turnover was 1.2 billion. A large part of this came from banking stocks (Rs574mn).
+
+“There was some positivity coming into the market, and there was buying interest especially in banking stocks, due to the IMF news and the [CBSL] governor’s announcements,” market participants said. “But market really didn’t take off.”
+
+Hatton National Bank Plc saw the most active volumes (Rs256mn) traded in the day. The share closed up at 205.25.
+
+Sampath Bank Plc also saw high volumes change hands. The share closed up at 80.10.
+
+Commercial Bank of Ceylon Plc contributed the top contributor to the index in the day. The share closed up at 108.75.
+
+...
+
+[Data](articles/441e7be9.json)
+
+---
 
 ### ICC admits New York pitches at T20 World Cup not up to standard
 
@@ -98,21 +160,39 @@ In addition to these areas, the North-Western, Northern and North-Central Provin
 
 ---
 
-### චීනය, ජපානය තරහා කර ගනියි
+### 'Culinary Arts Food Expo'
+
+*2024-06-07 16:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Culinary-Arts-Food-Expo/110-284345) · `en`
+
+The Culinary Arts Food Expo, Sri Lanka’s most comprehensive food and beverage exhibition, returns for its 18th consecutive year. Culinary Arts Food Expo 2023 will showcase a wide range of food products and services, from preparation to consumption, encompassing both the culinary and hospitality sectors. In short, every aspect of food from "factory to table" will be covered at the Expo. The exhibition runs from today until Sunday night. Pix by Kithsiri De Mel
+
+◼️
+
+[Data](articles/4de7f1ce.json)
+
+---
+
+### China is angry with Japan
 
 *2024-06-07 16:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197501) · `si`
 
-ජපානයට අයත් මුහුදු කලාපයක් ලෙස ජපානය හඳුන්වන ප්‍රදේශයකට සන්නද්ධ වෙරළ ආරක්ෂක යාත්‍රා 4ක් එවීම සම්බන්ධයෙන් ජපානය විසින් චීනයට සිය විරෝධය පළකර ඇති බව වාර්තා වෙයි.
+China is upset with Japan over territorial disputes involving the Senkaku/Diaoyu islands. Japan opposes China's deployment of four maritime patrol ships near its coastal waters. These uninhabited islands are claimed by both countries but are under Japanese control.
 
-නැගෙනහිර චීන මුහුදේ තිබෙන අයිතිය සම්බන්ධයෙන් ගැටලු ඇති දූපත් අවට මුහුදු තීරයට චීනය සිය යාත්‍රා යවා ඇත්තේ පළමු වරටය.
+🟩
 
-එම දූපත් Senkaku ලෙස ජපානය විසින් හඳුන්වනු ලබන අතර චීනය එම දූපත් හඳුන්වන්නේ Diaoyu නමිනි.
+It is reported that Japan has objected to China regarding 4 armed coast security boats to a region known as a sea zone of Japan.
 
-මෙම දූපත්වල කිසිවෙක් ජීවත් නොවන අතර ඒවා ජපාන පාලනය යටතේ පවතියි.
+China has sent his vessels to the coastal coastal coastal sea.
+
+The islands are called Senkaku as Senkaku and China is called Diaoyu.
+
+No one lives in these islands and is under Japanese rule.
 
 ◼️
 
 [Data](articles/20eab26b.json)
+
+[Extended Data](ext_articles/20eab26b.ext.json)
 
 ---
 
@@ -168,6 +248,20 @@ The Department of Meteorology has requested the public to take steps to reduce t
 
 ---
 
+### “මාව මරල දැම්මොත් මේකෙ පිටිපස්සෙ ඉන්න අය වගකිව යුතුයි“
+
+*2024-06-07 16:12:31* · [`adalk`](https://www.ada.lk/breaking_news/“මාව-මරල-දැම්මොත්-මේකෙ-පිටිපස්සෙ-ඉන්න-අය-වගකිව-යුතුයි“/11-410071) · `si`
+
+මුදල් කාරක සභාවේ සභාපති ආචාර්ය හර්ෂ ද සිල්වා මහතා මුදල් කාරක සභාව තුළින් VFS වීසා ගනුදෙනුවේදී සිදුව ඇත්තේ කුමක්දැයි හෙළිදරව් කරගැනීමට කටයුතු කරන විට රාජ්‍ය පාර්ශවය නියෝජනය කරන මන්ත්‍රීවරු ඔහුට තර්ජනය කරන බවත් මෙම ගනුදෙනුව මගින් මහ බැංකු ගනුදෙනුවටත් වඩා විනාශයක් සිදුව ඇති බවත් විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා අද (07) පාර්ලිමේන්තුවේදී පැවසීය.
+
+මුදල් කාරක සභාවේ සභාපති ආචාර්ය හර්ෂ ද සිල්වා මහතා පාර්ලිමේන්තුවේදී අනාවරණය කළේ මෙම වීසා ගනුදෙනුව පිළිබඳව විමර්ශනය කිරීමට මුදල් කාරක සභාව උත්සාහ කළත් කාරක සභාවේ පිරිසක් එය කඩාකප්පල් කළ බවයි. මෙම තත්ත්වය හමුවේ තමාගේ ආරක්ෂාව තර කරන මෙන් ඔහු කතානායකවරයාගෙන් ඉල්ලීමක්ද කළේය.
+
+...
+
+[Data](articles/adf39c2e.json)
+
+---
+
 ### DMC explains how to obtain govt.’s Rs. 10,000 grant to clean flood-affected homes
 
 *2024-06-07 16:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/99727/dmc-explains-how-to-obtain-govts-rs-10000-grant-to-clean-flood-affected-homes) · `en`
@@ -211,6 +305,26 @@ Rohith Sharma is in the third place in 152 runs in 152 matches.
 [Data](articles/1d0539b3.json)
 
 [Extended Data](ext_articles/1d0539b3.ext.json)
+
+---
+
+### Sri Lanka looks to remove obstacles in toddy export
+
+*2024-06-07 15:53:00* · [`economynextcom`](https://economynext.com/sri-lanka-looks-to-remove-obstacles-in-toddy-export-166923/) · `en`
+
+ECONOMYNEXT – A Sri Lanka parliament sectoral oversight committee has asked officials to ‘remove obstacles in the local production and export of toddy, kithul, palm and coconut related products’.
+
+The Excise Department and the Customs Department were called before the Committee on National Economic and Physical Plans to discuss and resolve issues pertaining to these exports.
+
+At the meeting, it was agreed “to remove the barriers to the wholesale distribution of toddy palm produced in the Northern Province locally and abroad,” a parliament statement said without specifying what the obstacles were.
+
+Committee chair Mahindananda Aluthgamage instructed exporters to prepare a necessary system to easily and systematically export toddy, kithul, palm and coconut related products.
+
+The Ministry of Agriculture and Plantation Industries has pointed out that the government is capable of generating income through the export of these products as there is a large market abroad for them.
+
+...
+
+[Data](articles/2dc71122.json)
 
 ---
 
@@ -604,6 +718,28 @@ Meanwhile, MP Gamini Lokuge said that Minister Wijeyadasa Rajapakse presented th
 
 ---
 
+### Sri Lanka COPF chief under threat over VFS Global deal probe
+
+*2024-06-07 12:59:00* · [`economynextcom`](https://economynext.com/sri-lanka-copf-chief-under-threat-over-vfs-global-deal-probe-166886/) · `en`
+
+ECONOMYNEXT – Chairman of Sri Lanka Parliament’s Committee on Public Finance, Harsha de Silva is under threat over examining a controversial visa deal involving IVS-GBS, VFS Global, opposition leader Sajith Premadasa said.
+
+De Silva said he had come under severe pressure including from members of parliament after he started examining the controversial visa deal.
+
+“This is a serious matter,” Premadasa said. “Now what is happening? Members representing the government are threatening him when he is examining the VFS deal. How can that happen?
+
+“On the other side they are using ‘slaves’ to plant stories that he is covering it up. Do you know that the damage caused by this deal is bigger than the central bank bond deal?” he asked the speaker.
+
+“Government legislators threatening the COPF Chairman has to be immediately stopped.”
+
+Speaker Mahinda Abeywardene said he had yet to receive a complaint and asked who had threatened him.
+
+...
+
+[Data](articles/5d0fd1a4.json)
+
+---
+
 ### Today's currency exchange rate
 
 *2024-06-07 12:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/185522) · `ta`
@@ -619,6 +755,26 @@ The US $ 297.8373 was reported at Rs.
 [Data](articles/0175c664.json)
 
 [Extended Data](ext_articles/0175c664.ext.json)
+
+---
+
+### Sri Lanka Police try humour to get message across social media
+
+*2024-06-07 12:38:00* · [`economynextcom`](https://economynext.com/sri-lanka-police-try-humour-to-get-message-across-social-media-166868/) · `en`
+
+ECONOMYNEXT – The Sri Lanka Police are trying humour across social media platforms to get their message across to the public.
+
+The official X (twitter) page of Sri-Lanka Police features a series of tweets with popular culture references.
+
+One such message warns about being vigilant, another cautions against riding a motorbike without a helmet, and a third on phishing scams.
+
+The island nation’s Police have come under criticism for its drastic measures in a special anti-drug operation called ‘Yukthiya’ (justice) to nab the drug distributors across the country.
+
+The UN Human Rights Commission early this year said it was “very concerned that authorities in Sri Lanka” were “adopting a heavily security-based response to the country’s drugs problem, instead of public health policies grounded in human rights”.
+
+...
+
+[Data](articles/4c60753c.json)
 
 ---
 
@@ -739,6 +895,30 @@ It also includes $ 5.5 billion worth not incurred from April 2022.
 [Data](articles/adf7a9b5.json)
 
 [Extended Data](ext_articles/adf7a9b5.ext.json)
+
+---
+
+### Sri Lanka’s Lankem to open fertilizer plant
+
+*2024-06-07 12:04:00* · [`economynextcom`](https://economynext.com/sri-lankas-lankem-to-open-fertilizer-plant-166862/) · `en`
+
+ECONOMYNEXT – Lankem Ceylon Plc said it is building a fertilizer plant in Oyamaduwa in Anuradhapura at an estimated cost of 2.5 billion rupees.
+
+“The primary objective of this operation is to cater to the agricultural requirement of the non-perennial crops,” the company said in a stock exchange filing.
+
+A new company, Lankem Minerals Limited, a fully owned subsidiary of Lankem Ceylon, has been set up to carry out the project.
+
+The sales and distribution of the fertilizer will be carried out by Lankem Ceylon and its fully-owned subsidiary SunAgro LifeScience Limited through the companies’ existing distributor network.
+
+Commercial operations are expected to commence by the end of the year.
+
+Lankem Ceylon is involved in the production, marketing, and distribution of agrochemical products including straight fertilizers, mixed fertilizers, granular fertilizers, and foliar fertilizers.
+
+Lankem shares were trading up at 71.50 during Friday mid-day trade.
+
+...
+
+[Data](articles/92d6c730.json)
 
 ---
 
@@ -2069,185 +2249,5 @@ During a parliamentary session, MP S.M. Marikkar urged the Government to deploy 
 [Data](articles/e8377046.json)
 
 [Extended Data](ext_articles/e8377046.ext.json)
-
----
-
-### Govt. to provide Rs. 10,000 per family to clean flood-affected homes
-
-*2024-06-07 02:42:35* · [`dailyftlk`](https://www.ft.lk/news/Govt-to-provide-Rs-10-000-per-family-to-clean-flood-affected-homes/56-762763) · `en`
-
-The Government has decided to provide Rs. 10,000 each for the families affected by floods in order to clean up their houses, State Minister of Defence Premitha Bandara Tennakoon said.
-
-The Government has primarily allocated an amount of around Rs. 150 million for this purpose, and the relevant funds will be provided to the district secretaries, the State Minister expressed.
-
-Furthermore, he requested the officials to responsibly distribute the relevant funds among the affected families, and to instruct the people to utilise this money only for the purpose of cleaning up their houses.
-
-The State Minister stated that 284,505 individuals from 77,313 families across 23 districts in the island have been affected by the prevailing adverse weather conditions, and that 12,638 individuals of 3,147 families, who are displaced, have been placed in 204 relief centres.
-
-...
-
-[Data](articles/4ab47271.json)
-
-[Extended Data](ext_articles/4ab47271.ext.json)
-
----
-
-### Sajith no-show at ITN hosted debate with AKD
-
-*2024-06-07 02:39:11* · [`dailyftlk`](https://www.ft.lk/news/Sajith-no-show-at-ITN-hosted-debate-with-AKD/56-762762) · `en`
-
-Samagi Jana Balawegaya (SJB) leader Sajith Premadasa did not attend the scheduled televised debate with National People’s Power (NPP) leader Anura Kumara Dissanayake on the Independent Television Network (ITN) last night.
-
-While Premadasa was absent, Dissanayake participated in the Thulawa political program, which was hosted by veteran broadcaster Sudarman Radaliyagoda.
-
-Earlier in the day SJB MP Nalin Bandara voiced the party’s dissatisfaction with the ITN regarding its organisation of the debate between the SJB and the rival NPP. MP Bandara conveyed the party’s concerns in a letter to the state broadcaster, highlighting discrepancies in the planning process.
-
-...
-
-[Data](articles/0129fa34.json)
-
-[Extended Data](ext_articles/0129fa34.ext.json)
-
----
-
-### President inaugurates his political office
-
-*2024-06-07 02:38:33* · [`dailyftlk`](https://www.ft.lk/news/President-inaugurates-his-political-office/56-762761) · `en`
-
-President Ranil Wickremesinghe yesterday inaugurated his new political office in Colombo at an auspicious moment.
-
-The office, located on Sir Ernest de Silva Mawatha, will serve as the centre for future political operations.
-
-The ceremony included religious rites and blessings performed by prominent religious leaders, including the Chief Sanghanayake of the Western Province, Venerable Dr. Murutthettuwe Ananda Nayaka Thero, the Chancellor of the University of Colombo, Chief Sanghanayake of the Uva Province with Colombo District, Venerable Maharagama Nanda Nayaka Thero, and the head of five major temples including the Kollupitiya Valukarama Maha Viharaya.
-
-The establishment of the office was initiated by United National Party Chairman and Member of Parliament Wajira Abeywardena.
-
-...
-
-[Data](articles/e720b163.json)
-
-[Extended Data](ext_articles/e720b163.ext.json)
-
----
-
-### Govt. begins to provide free sanitary napkin vouchers for schoolgirls
-
-*2024-06-07 02:36:11* · [`dailyftlk`](https://www.ft.lk/news/Govt-begins-to-provide-free-sanitary-napkin-vouchers-for-schoolgirls/56-762760) · `en`
-
-Aims to create more inclusive and supportive educational environment for all students
-
-Each schoolgirl to receive Rs. 1,200 worth of vouchers over six months, starting this month
-
-Vouchers, usable at Education Ministry-registered retailers, allow purchase of SLSI-approved sanitary napkins
-
-Education Ministry to distribute vouchers to all provincial schools, seven national schools in estate school category
-
-In a significant move to end period poverty, the Government yesterday launched providing free gift vouchers for the purchase of sanitary napkins for schoolgirls, starting this month.
-
-Education Minister Susil Premajayantha spearheaded the initiative, with Rs. 1 billion allocated for the program. The initiative was officially launched at Nawala President Girls’ College yesterday.
-
-By addressing period poverty, the Government aims to create a more inclusive and supportive educational environment for all students.
-
-...
-
-[Data](articles/c8a63615.json)
-
-[Extended Data](ext_articles/c8a63615.ext.json)
-
----
-
-### Modi’s inauguration ‘postponed’ as cracks emerge among allies
-
-*2024-06-07 02:33:36* · [`dailyftlk`](https://www.ft.lk/news/Modi-s-inauguration-postponed-as-cracks-emerge-among-allies/56-762759) · `en`
-
-Cracks may be starting to emerge already in Narendra Modi’s attempts to form a coalition Government, with reports that the BJP’s minor allies are making big demands regarding policy changes.
-
-Modi is being forced to negotiate terms with alliance members after his BJP unexpectedly failed to win a majority in the country’s election.
-
-Indian media are quoting sources as saying Modi plans to push back his inauguration for a third term as PM until Sunday while the talks continue.
-
-The Janata Dal (United) has reportedly asked the BJP to modify its controversial Agniveer scheme – a flagship military recruitment reform passed in 2022 that created short-term, US-style “tours of duty” for new soldiers. JD(U) leader Nitish Kumar is also expected to negotiate for key portfolios in Modi’s cabinet.
-
-...
-
-[Data](articles/4c0dc7f3.json)
-
-[Extended Data](ext_articles/4c0dc7f3.ext.json)
-
----
-
-### President Ranil’s handling of the crisis and what’s next for Sri Lanka
-
-*2024-06-07 02:32:05* · [`dailyftlk`](https://www.ft.lk/columns/President-Ranil-s-handling-of-the-crisis-and-what-s-next-for-Sri-Lanka/4-762758) · `en`
-
-Several people on social media now comment negatively about how the current President handled the 2022 political and economic crisis. None of them can deny that we were in a dire economic and political crisis, and we desperately looked to the world for relief to meet even our basic needs. Without India’s and others help, Sri Lanka would have certainly become another Lebanon.
-
-...
-
-[Data](articles/66b50914.json)
-
-[Extended Data](ext_articles/66b50914.ext.json)
-
----
-
-### CFOs: Stay nimble and informed to steer your organisation forward
-
-*2024-06-07 02:27:29* · [`dailyftlk`](https://www.ft.lk/columns/CFOs-Stay-nimble-and-informed-to-steer-your-organisation-forward/4-762757) · `en`
-
-Knowledge is power, and staying informed of trends will help you make relevant decisions to steer your team and organisation forward
-
-Technology-led disruptions over the last four years have brought the future directly to us. Whether we are working in the private or public sector, we are now navigating rapid changes — sometimes daily.
-
-As finance leaders, we are managing diverse, hybrid teams that span time zones and continents, keeping a pulse on record-high inflation that affects business costs, and ensuring that our finance teams remain relevant in this complex and rapidly changing business environment.
-
-Adaption and being nimble have become second nature to us, but we cannot be complacent. During ongoing transformations, our work is not done. Staying proactive and informed are two strategies to be successful in the face of change; but, more importantly, they prepare us for leading diverse teams in a competitive global market.
-
-...
-
-[Data](articles/36250e2c.json)
-
-[Extended Data](ext_articles/36250e2c.ext.json)
-
----
-
-### ADB loan scheme: What about the construction industry?
-
-*2024-06-07 02:23:06* · [`dailyftlk`](https://www.ft.lk/columns/ADB-loan-scheme-What-about-the-construction-industry/4-762756) · `en`
-
-If they are given this loan, they can restart work, people can regain their employment and return to their normal lives
-
-The construction industry asks the Government: Why are the Asian Development Bank’s (ADB’s) loan concessions for small and medium enterprises that have suffered setbacks due to COVID-19, economic and other crises, not given to the construction industry?
-
-The Government of Sri Lanka has recently requested international financial institutions to provide financial assistance under subsidised interest to revive the small and medium scale businesses that have suffered setbacks due to the COVID pandemic and the subsequent economic crisis. As a result, Asian Development Bank Rs. 20 billion has been agreed to be provided through commercial banks in Sri Lanka at concessional interest rates.
-
-...
-
-[Data](articles/2bf87e9b.json)
-
-[Extended Data](ext_articles/2bf87e9b.ext.json)
-
----
-
-### Continuity of reforms key to SL getting back to its own feet breaking away from IMF cycle: WB Chief Economist
-
-*2024-06-07 02:19:19* · [`dailyftlk`](https://www.ft.lk/business/Continuity-of-reforms-key-to-SL-getting-back-to-its-own-feet-breaking-away-from-IMF-cycle-WB-Chief-Economist/34-762755) · `en`
-
-Tells group of foreign and local investors at CT CLSA South Asia Forum any deviations from reforms path will be detrimental to Sri Lanka in future
-
-External debt restructuring will give pocket of air or breathing space but won’t result in substantial reduction
-
-Sri Lanka needs to move from 2-4% “passenger growth” mode to 4-6% creative growth
-
-Moots reforms, right sizing of public sector and armed forces, restructuring of State Owned Enterprises, allowing greater private sector participation, improving ease of doing business thereby incentivising entrepreneurship, and plugging into India’s boom as well as being part of the global value chain, robust and active public debt management and higher FDIs
-
-Optimism on Sri Lanka and reforms path clouded by elections this year though democracy as one of Sri Lanka’s “incredible strengths”
-
-Sri Lanka lost about $ 4 b between 2020 and 2022 due to what was then referred to as ‘home grown’ solutions
-
-...
-
-[Data](articles/0fbb66cb.json)
-
-[Extended Data](ext_articles/0fbb66cb.ext.json)
 
 ---

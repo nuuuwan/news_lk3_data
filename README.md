@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-07 19:52:46**
+As of **2024-06-07 20:04:44**
 
 ## Newspaper Stats
 
-*Scraped **29,097** Articles*
+*Scraped **29,100** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,12 +12,12 @@ colombotelegraphcom | 263
 dbsjeyarajcom | 276
 bbccomsinhala | 283
 newsfirstlk | 363
-islandlk | 1,565
+islandlk | 1,566
 economynextcom | 1,665
 dailyftlk | 1,730
-adalk | 2,483
+adalk | 2,484
 adaderanalk | 3,295
-tamilmirrorlk | 3,417
+tamilmirrorlk | 3,418
 virakesarilk | 4,467
 dailymirrorlk | 4,623
 adaderanasinhalalk | 4,667
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,667
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,097 (100.0%) of 29,097 articles have been extended.
+29,097 (100.0%) of 29,100 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -103,6 +103,22 @@ Forex pool, the main component of the uniform reserve assets, the forex reserve 
 [Data](articles/e7c92d97.json)
 
 [Extended Data](ext_articles/e7c92d97.ext.json)
+
+---
+
+### மொட்டு கட்சிக்கு புதிய தலைவர்?
+
+*2024-06-07 18:33:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மொட்டு-கட்சிக்கு-புதிய-தலைவர்/175-338593) · `ta`
+
+ஸ்ரீலங்கா பொதுஜன பெரமுன இன்று (07) காலை கொழும்பு, விஜேராமவில் உள்ள மஹிந்த ராஜபக்ஷவின் உத்தியோகபூர்வ இல்லத்தில் முக்கிய சந்திப்பு ஒன்றை நடத்தியிருந்தது.
+
+அரசியலமைப்பு திருத்தத்தின் மூலம் கட்சிக்கு புதிய தலைமை பதவியை ஏற்படுத்துவதே இதன் நோக்கமாக இருந்தது.
+
+இதன்படி, பொதுஜன பெரமுனவின் தேசிய அழைப்பாளராக ரோஹித அபேகுணவர்தனவை நியமிப்பதற்கான ஏற்பாடுகள் மேற்கொள்ளப்பட்டதாக தெரிவிக்கப்படுகின்றது. R
+
+◼️
+
+[Data](articles/ab34b83d.json)
 
 ---
 
@@ -531,6 +547,26 @@ Strong winds of about 40-50 kmph can be expected at times over Northern, North-c
 [Data](articles/ecedd2e1.json)
 
 [Extended Data](ext_articles/ecedd2e1.ext.json)
+
+---
+
+### හෙට සිට වැස්ස වැඩිවෙයි
+
+*2024-06-07 16:22:22* · [`adalk`](https://www.ada.lk/breaking_news/හෙට-සිට-වැස්ස-වැඩිවෙයි/11-410072) · `si`
+
+දිවයිනේ නිරිත දිග කොටසේ පවතින් වැසි තත්ත්වයේ තරමක වැඩිවීමක් හෙට (08දා) දින් සිට ඉදිරි දින් කිහිපයේදී බලාපොරොත්තුවන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+බස්නාහිර, සබරගමුව හා දකුණු පළාත්වලත් මහනුවර හා නුවරඑළිය දිස්ත්‍රික්කවලත් විටින් විට වැසි ඇතිවන බවත් එම දෙපාර්තමේන්තුව අද පස්වරුවේ නිකුත් කළ නිවේදනයේ දැක්වෙයි..
+
+බස්නාහිර හා සබරගමුව පළාත්වලත් නුවරඑළිය, ගාල්ල හා මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවලට මි.මී. 50 ට වැඩි තරමක තද වැසි ඇතිවිය හැකි බවද එම නිවේදනයේ දැක්වෙයි.
+
+වයඹ, උතුරු හා උතුරු-මැද පළාත්වල වැසි වාර කිහිපයක් ඇතිවිය හැකි බවද එම දෙපාර්තමේන්තුව පවසයි.
+
+ඌව පළාතෙත් අම්පාර හා මඩකළපුව දිස්ත්‍රික්කවලත් සවස් කාලයේ හෝ රාත්‍රී කාලයේ ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බවද එම දෙපාර්තමේන්තුව වැඩිදුරටත් පවසයි.
+
+◼️
+
+[Data](articles/588a62f7.json)
 
 ---
 
@@ -2283,47 +2319,5 @@ In another landmark judgement pertaining to the scope of the pardon granted by t
 [Data](articles/9d4e3f15.json)
 
 [Extended Data](ext_articles/9d4e3f15.ext.json)
-
----
-
-### Ruling is a significant step for all female victims in Sri Lanka: Caroline Jonsson
-
-*2024-06-07 08:49:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Ruling-is-a-significant-step-for-all-female-victims-in-Sri-Lanka-Caroline-Jonsson/155-284321) · `en`
-
-Colombo, June 7 (Daily Mirror) - In the wake of the announcement of the judgement, the family of victim Yvonne Jonsson, said this ruling is not only a victory for our family but also for all who believe in the rule of law.
-
-Her sister Caroline Jonsson who issued the statement on behalf of the family said it is also a significant step for all female victims in Sri Lanka, affirming that their lives and dignity cannot be compromised by arbitrary decisions.
-
-“The Supreme Court ruling that former President Maithripala Sirisena’s pardon of Yvonne's murderer is arbitrary and not valid in law brings us a profound sense of relief and justice.
-
-The tragic and brutal loss of Yvonne has left an unfillable void in our hearts, causing us immense and ongoing pain. The pardon felt like a deep betrayal, compounding our grief and anguish. This judgement reaffirms the importance of justice and accountability, emphasizing that decisions of such significance cannot be made on a whim.
-
-...
-
-[Data](articles/632b80b8.json)
-
-[Extended Data](ext_articles/632b80b8.ext.json)
-
----
-
-### Showers expected in parts of the island
-
-*2024-06-07 08:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/99718/showers-expected-in-parts-of-the-island) · `en`
-
-Showers will occur in Western, Sabaragamuwa and Southern provinces and Kandy and Nuwara-Eliya districts, the Department of Meteorology says.
-
-Several spells of showers may occur in North West, North and North Central Provinces.
-
-Showers or thundershowers will occur at several places in Eastern and Uva Provinces in the evening or at night, it said.
-
-Strong winds of about 40-50 kmph can be expected at times over Northern, North Central and North Western provinces and Hambantota district.
-
-The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/7940c55d.json)
-
-[Extended Data](ext_articles/7940c55d.ext.json)
 
 ---

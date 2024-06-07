@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-08 00:06:52**
+As of **2024-06-08 00:19:54**
 
 ## Newspaper Stats
 
-*Scraped **29,124** Articles*
+*Scraped **29,130** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,22 +13,58 @@ dbsjeyarajcom | 276
 bbccomsinhala | 283
 newsfirstlk | 363
 islandlk | 1,566
-economynextcom | 1,665
+economynextcom | 1,669
 dailyftlk | 1,730
 adalk | 2,484
 adaderanalk | 3,298
 tamilmirrorlk | 3,420
 virakesarilk | 4,473
-dailymirrorlk | 4,629
+dailymirrorlk | 4,631
 adaderanasinhalalk | 4,672
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,124 (100.0%) of 29,124 articles have been extended.
+29,124 (100.0%) of 29,130 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-06-08 (Saturday)
+
+### Presidential election: Good and bad foreign meddling
+
+*2024-06-08 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Presidential-election-Good-and-bad-foreign-meddling/172-284355) · `en`
+
+The US Ambassador to Sri Lanka Julie Chung meeting the officials of the Election Commission
+
+What a big fuss would have been made by the embassies of Western countries had the Chinese Ambassador to Sri Lanka Qi Zhenhong met with the members of the Election Commission (EC), as American Ambassador Julie Chung and several other Western diplomats had done recently?
+
+Also, can we at least imagine a meeting between the Sri Lankan or Indian Ambassador to the United States and the election officials of the US, including those of the Federal Election Commission (FEC), to discuss the forthcoming US Presidential election? Answers to these questions would explain the world order that had been imposed by the West on others.
+
+...
+
+[Data](articles/4a16eb06.json)
+
+---
+
+### The right to strike and motivated strikes
+
+*2024-06-08 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/The-right-to-strike-and-motivated-strikes/172-284353) · `en`
+
+For over the past 35 days, the non-academic staff of government universities in the country has been on strike. There is no doubt that the working class of this country is burdened with low salaries. In some instances, workers’ wages were reduced during the economic melt-down.
+
+On June 6 the Locomotive Operating Engineers’ Union of Sri Lanka Railways suddenly decided to go on strike. The trade union action according to the Union is being carried out over delays in second-class promotions of locomotive drivers and several other issues.
+
+With the present cost of living far beyond the reach of a majority of workers, something needs to be done to correct the situation. Yet the country too is going through unprecedentedly bad economic times.
+
+While most of the demands of the strikers are understandable, what the public find  difficult to agree with is the manner in which these strikes are called. Trade union action most always, inconveniences the public.
+
+...
+
+[Data](articles/aa71284d.json)
+
+---
 
 ### 2024-06-07 (Friday)
 
@@ -420,6 +456,24 @@ The decision was taken today, confirming the headline for the month of Dulhaj at
 
 ---
 
+### Sri Lanka’s anti-graft body challenges Public Financial Management Bill in Supreme Court
+
+*2024-06-07 19:54:00* · [`economynextcom`](https://economynext.com/sri-lankas-anti-graft-body-challenges-public-financial-management-bill-in-supreme-court-167002/) · `en`
+
+ECONOMYNEXT – Transparency International Sri Lanka (TISL), a non government organization fighting against corruption has filed legal legal action in the Supreme Court against President Ranil Wickremesinghe government’s Public Financial Management Bill, raising concerns over public procurement.
+
+It said the bill “seriously weakens the controls on public procurement, thereby enhancing the corruption risk and weakening the level playing field.”
+
+The Bill grants the Finance Minister the discretion to exempt State Owned Enterprises (SOEs) from compliance with the National Procurement Guidelines, while permitting Provincial Councils to adopt their own procurement guidelines, it said.
+
+“The National Procurement Guidelines are issued with the approval of the Cabinet of Ministers to enhance the transparency of the Government procurement process, minimize delays, and obtain the most financially advantageous and qualitatively best services and supplies for the nation,” the TISL said in its petition.
+
+...
+
+[Data](articles/715f9b81.json)
+
+---
+
 ### Sri Lanka cricket beat Sri Lanka
 
 *2024-06-07 19:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197505) · `si`
@@ -757,6 +811,70 @@ Here is the pictures of the students who are floating in the water throughout th
 [Data](articles/b3363e5c.json)
 
 [Extended Data](ext_articles/b3363e5c.ext.json)
+
+---
+
+### Sri Lanka tourist promotion officials reject VFS Global half million dollar offer: Harin
+
+*2024-06-07 17:46:00* · [`economynextcom`](https://economynext.com/sri-lanka-tourist-promotion-officials-reject-vfs-global-half-million-dollar-offer-harin-166979/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s promotional officials have rejected half a million dollars offered by VFS Global, Minister Tourism Harin Fernando said while a parliamentary panel is probing the controversial deal with the firm.
+
+Tourism sector has said the VFS website which is collecting data is a complex interface compared to a user-friendly interface which was earlier available, built by Mobitel, a Sri Lanka based telco.
+
+“VFS company recently came and said it will give us 500,000 dollars for promotional work,” Minister Fernando told parliament Friday.
+
+“We said we cannot do that. We said we will give it to the Tourism Advisory Council to discuss.
+
+“The Council’s President is Hiran Cooray from Jetwing Hotels. They said they did not want to enter into a discussion with VFS.”
+
+VFS Global started collecting 18.5 dollars and other fees, from each after striking a deal with the Department of Immigration and Emigration, which comes under the Ministry of Public Security without competitive bidding.
+
+...
+
+[Data](articles/79158c91.json)
+
+---
+
+### Sri Lanka rupee closes stronger at 302.70/80 to US dollar
+
+*2024-06-07 17:46:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-302-70-80-to-us-dollar-166949/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee appreciated slightly to close at 302.70/80 to the US dollar on Friday, from 302.80/303.10 to the dollar the previous day, dealers said. Bond yields were steady.
+
+A bond maturing on 15.12.2026 closed stable at 9.95/10.05 percent.
+
+A bond maturing on 15.09.2027 closed at 10.45/55 percent down from 10.50/65 percent.
+
+A bond maturing on 01.07.2028 closed at 11.00/10 percent up from 10.95/11.05 percent.
+
+A bond maturing on 15.05.2030 closed stable at 11.75/90 percent.
+
+A bond maturing on 01.10.2032 closed stable at 11.90/12.00 percent. (Colombo/Jun7/2024)
+
+◼️
+
+[Data](articles/a19f5a48.json)
+
+---
+
+### Vietnam envoy pays farewell call on Sri Lanka Prime Minister
+
+*2024-06-07 17:30:00* · [`economynextcom`](https://economynext.com/vietnam-envoy-pays-farewell-call-on-sri-lanka-prime-minister-166984/) · `en`
+
+ECONOMYNEXT – Vietnam ambassador to Sri Lanka Thi Thanh Truc paid a farewell call on prime minister Dinesh Gunawardena at Temple Trees in Colombo on Thursday.
+
+The prime minister thanked her for the contribution made to strengthen bilateral relations during her tenure and wished her well in her future endeavours.
+
+Sri Lanka and Vietnam have the potential for closer engagement, Truc has said earlier.
+
+Co-operation between the two countries have grown steadily over the years in bilateral trade, investment, high level visits and expanding people to people contact.
+
+Earlier this year Sri Lanka and Vietnam signed an agreement to develop the agricultural sector in the island which will include the exchange of agricultural technology, studies and research, expertise, production of advanced seeds, application of fertilizers and pesticides, and training of farmers and officials to increase harvests. (Colombo/Jun7/2024)
+
+◼️
+
+[Data](articles/e48375f1.json)
 
 ---
 
@@ -2169,159 +2287,5 @@ The cause of the conflict is also attributed to the dispute between the two stud
 [Data](articles/9398d8a1.json)
 
 [Extended Data](ext_articles/9398d8a1.ext.json)
-
----
-
-### Foreign leaders attending Modi's swearing -in
-
-*2024-06-07 11:11:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மோடியின்-பதவியேற்பில்-பங்கேற்கும்-வெளிநாட்டு-தலைவர்கள்/175-338585) · `ta`
-
-Narendra Modi, after leading the BJP to victory with 240 seats in the Lok Sabha elections, is set to be sworn in as India's Prime Minister on June 9th. His coalition, the National Democratic Alliance, holds 293 seats, ensuring his majority rule. Key ministers will also be sworn in alongside him. Foreign dignitaries from Sri Lanka, Bangladesh, Nepal, Mauritius, and Bhutan are among the attendees.
-
-🟩
-
-Modi has claimed to be the prime minister of the country by meeting with President Draupadi Murmu.
-
-A consultative meeting of the National Democratic Alliance parties will be held on Friday (07) at the Parliamentary Hall.
-
-The Lok Sabha election results were released on June 4 and no one got a majority. The majority requires 272 seats.
-
-However, the BJP won 240 seats. The Congress party won 99 seats. Samajwadi Party won 37, Trinamool Congress 29 and DMK 22 seats. The Telugu Desam 16 and the United Janata Party (BJP) won 12 seats.
-
-The parties in the National Democratic Alliance have won 293 seats together.
-
-On June 5, the coalition leaders issued letters to form a BJP coalition regime.
-
-In this context, a consultative meeting of the National Democratic Alliance parties will be held on Friday (07) at the Parliament Central Hall. Leaders of allies, including the Telugu Desam and the United Nations. Narendra Modi is to be elected as the leader of the Alliance's Lok Sabha group.
-
-...
-
-[Data](articles/bfc48f8c.json)
-
-[Extended Data](ext_articles/bfc48f8c.ext.json)
-
----
-
-### Royal Park should immediately find and imprison
-
-*2024-06-07 11:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/185511) · `ta`
-
-Ivan Johnson's family calls for immediate arrest and imprisonment of the Royal Park killer, emphasizing the importance of justice and accountability. They express gratitude towards the judiciary for their efforts and stress the need for swift action to ensure true justice is served.
-
-🟩
-
-The family of Sweden Women, who was murdered to find the Royalbark killer immediately and imprison him
-
-The family members of the Swedish Women, Ivan Johnson, have said that the court order to cancel the amnesty granted to the Royal Park killer is a significant verdict for all the victims of Sri Lanka.
-
-He said this in a statement issued by his sister Caroline Johnson on behalf of Ivanjonson's family.
-
-Noting that this is a significant judgment for all women in Sri Lanka, he said that arbitrary decisions cannot compromise their lives and dignity.
-
-He noted that the Supreme Court's ruling that the amnesty granted by former President Maithripala Sirisena to the killer of Ivan Johnson is deeper and justice.
-
-Ivan's tragic and terrible loss has caused a vacuum in our hearts, which has caused us great pain.
-
-The verdict has emphasized the importance of justice and accountability and emphasized that the amnesty is unable to make decisions such as amnesty.
-
-...
-
-[Data](articles/3c4197c8.json)
-
-[Extended Data](ext_articles/3c4197c8.ext.json)
-
----
-
-### 'BT Sir gave us a fullness'' - Hip Hope Tamil Adi
-
-*2024-06-07 11:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/185509) · `ta`
-
-"BT Sir," directed by Karthik Venugopalan, focuses on sexual exploitation in schools, featuring Hip Hop Tamil Adi among others. It aims to raise awareness and has been both commercially and critically successful, grossing over Rs. in its first twelve days. The team expresses gratitude towards the media, fans, and the production crew for their support.
-
-🟩
-
-The film's hero and composer Hip Hope Adi said, "The film has given us great satisfaction and mind than the success of the film."
-
-Directed by director Karthik Venugopalan on the 24th of last month, the movie 'PD Sir' was released at the film House worldwide on the 24th of last month.. This includes Hip Hop Tamil Adi, Kashmira Bardesi, Prabhu, K. Bhagyaraj, Pandiyarajan, Thiagarajan, Ilavarasu, Anika Surendran, Devadarshini, Patti Sabha Raja and many others were present.. The film is ready to focus on sexual exploitation and raise awareness for students on the school premises. The film has been a commercial and critically successful.. In the twelve days of the film, the film industry has reported that the film has grossed over Rs.
-
-This was followed by the success of the film 'BT Sir' in Chennai. During this time, the film crew shared the cake in the presence of journalists and shared the joy.
-
-...
-
-[Data](articles/4af2f946.json)
-
-[Extended Data](ext_articles/4af2f946.ext.json)
-
----
-
-### Couple arrested for stealing wallets of woman police constable
-
-*2024-06-07 11:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/185497) · `ta`
-
-A couple was arrested after reporting a family dispute at a police station, where they allegedly stole a wallet from a female police officer. The incident occurred at the Vaduvu Police Station, involving the duo who were lodging a complaint about another woman.
-
-🟩
-
-Police have arrested a woman who went to the police station to lodge a family dispute over a woman who had been stolen by a police constable.
-
-Police have arrested two husband and wife who live in Vaduvu Kure Mawatha.
-
-The two have gone to the Vaduvu Police Station's complaints to register a complaint.
-
-Police said the two men had stolen the wallet of a woman and a woman who had been on a disposal of the Children's and Women's Bureau's desk.
-
-◼️
-
-[Data](articles/6d184723.json)
-
-[Extended Data](ext_articles/6d184723.ext.json)
-
----
-
-### The program has begun to provide free health boots to school students
-
-*2024-06-07 10:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/185503) · `ta`
-
-A program offering free sanitary napkins to schoolchildren was launched at Nawala Presidential Women's College, funded by a Rs 100 crore allocation. The Ministry of Education will distribute vouchers for health products, starting from June 2024.
-
-🟩
-
-A program for providing free sanitary napkin for school children (Sanitary Napkin) was launched on Thursday (06) at the Nawala Presidential Women's College.
-
-Education Minister Susil Premajayantha said that Rs 100 crore has been allocated for the project.
-
-The Ministry of Education has already organized the necessary steps to provide vouchers through schools.
-
-Under the scheme, the Ministry of Education has taken steps to provide vouchers for the purchase of health bodies for the six months from June 2024.
-
-◼️
-
-[Data](articles/3e50f19d.json)
-
-[Extended Data](ext_articles/3e50f19d.ext.json)
-
----
-
-### Three people injured in Vanaraja accident
-
-*2024-06-07 10:57:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/வனராஜா-விபத்தில்-மூவர்-படுகாயம்/76-338583) · `ta`
-
-In a car crash near Hatton-Vanaraja Kalpalli, three people including a young child were hurt and taken to Dikoya Klangan District Primary Hospital. The incident occurred when the vehicle collided with a crowd at a death house in Samimalai. All victims' conditions are stable under treatment.
-
-🟩
-
-Three persons, including a three-and-a-half-year-old child, were injured when a car crashed into the Hatton-Vanaraja Kalpalli area and has been admitted to the Dikoya Klangan District Primary Hospital.
-
-When a group of people arrived at a death house in Samimalai area, the car crashed into the Kalpalliya area in Vanaraja Kalpalliya.
-
-Three persons, including a three-and-a-half-year-old child, were injured and the injured were admitted to the Dikoya-Klangan District General Hospital.
-
-A hospital official said that the condition of the injured is not worrisome and the injured are currently being treated at the hospital.
-
-◼️
-
-[Data](articles/d220d337.json)
-
-[Extended Data](ext_articles/d220d337.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-07 21:18:47**
+As of **2024-06-07 21:34:34**
 
 ## Newspaper Stats
 
-*Scraped **29,107** Articles*
+*Scraped **29,108** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ adaderanalk | 3,297
 tamilmirrorlk | 3,418
 virakesarilk | 4,467
 dailymirrorlk | 4,625
-adaderanasinhalalk | 4,670
+adaderanasinhalalk | 4,671
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,105 (100.0%) of 29,107 articles have been extended.
+29,107 (100.0%) of 29,108 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-07 (Friday)
+
+### ශවේන්ද්‍ර ට සේවා දිගුවක්
+
+*2024-06-07 21:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197508) · `si`
+
+ජෙනරාල් ශවේන්ද්‍ර සිල්වා මහතා ව ආරක්ෂක මාණ්ඩලික ප්‍රධානි ධුරයට නැවත වතාවක් පත්කර තිබේ.
+
+ජනාධිපතිවරයාගේ අනුමැතිය මත අදාළ පත්කිරීම සිදුකර ඇති අතර එයට අදාළ ගැසට් නිවේදනය මේ වනවිට නිකුත් කර ඇත.
+
+ඒ අනුව ජූනි මස 1 වන දා සිට 2024 දෙසැම්බර් 31 වනදා දක්වා එම පත්කිරීම වලංගු වේ.
+
+◼️
+
+[Data](articles/5214b26e.json)
+
+---
 
 ### New city planned for residents along Kelani River bank
 
@@ -51,6 +67,8 @@ During his visit to the Kolonnawa area on June 7, Ratnayaka inspected flood-dama
 ...
 
 [Data](articles/a9fd518f.json)
+
+[Extended Data](ext_articles/a9fd518f.ext.json)
 
 ---
 
@@ -131,6 +149,8 @@ Kodippili urged people to refrain from visiting flood-affected areas or stepping
 ◼️
 
 [Data](articles/da86ac61.json)
+
+[Extended Data](ext_articles/da86ac61.ext.json)
 
 ---
 
@@ -2315,33 +2335,5 @@ Thundershowers may be temporarily blowing in the up -and -coming areas. The publ
 [Data](articles/186b7204.json)
 
 [Extended Data](ext_articles/186b7204.ext.json)
-
----
-
-### Once the electricity tariff is reduced, 40 lakhs of ministers will benefit - Minister of Electricity and Power
-
-*2024-06-07 09:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/185496) · `ta`
-
-The Minister of Electricity and Power announced plans to reduce electricity tariffs, benefiting approximately 400,000 consumers. This change, aimed at addressing rising costs, will take effect from the 1st of July, with adjustments including a reduction in the price per unit of electricity used between 30 minutes to 60 minutes. The proposal will be presented to the Sri Lanka Public Utilities Commission soon.
-
-🟩
-
-We will present the idea of ​​the electricity tariff correction to the Sri Lanka Public Use Commission today or tomorrow. The power supply will be reduced from the first day of the next month. The Minister of Power and Power and Energy Kanjana Wijesekera said that 40 lakhs of minorpanners will benefit from 68 lakhs.
-
-He was speaking at a debate on the Electricity Board Reorganization Bill held in Parliament on Thursday (06).
-
-If the power supply was not corrected to compensate for the cost of electricity, the problems of the power supply could not have been solved today.
-
-The policy on the correction of the power supply once in four months has been approved by the Cabinet. There is no need to refer to this.
-
-Accordingly, the power supply will be reduced from the 1st of July.. To reduce the 8-rupee Rs.
-
-Amendments will be made to reduce the 20 rupees for a unit of 30 -60 minbavanna, Rs.
-
-...
-
-[Data](articles/6e662f01.json)
-
-[Extended Data](ext_articles/6e662f01.ext.json)
 
 ---

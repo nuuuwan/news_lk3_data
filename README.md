@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-07 11:54:17**
+As of **2024-06-07 12:07:24**
 
 ## Newspaper Stats
 
-*Scraped **29,024** Articles*
+*Scraped **29,030** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,147 @@ islandlk | 1,565
 economynextcom | 1,655
 dailyftlk | 1,730
 adalk | 2,479
-adaderanalk | 3,284
-tamilmirrorlk | 3,410
+adaderanalk | 3,285
+tamilmirrorlk | 3,413
 virakesarilk | 4,454
 dailymirrorlk | 4,612
-adaderanasinhalalk | 4,651
+adaderanasinhalalk | 4,653
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,023 (100.0%) of 29,024 articles have been extended.
+29,024 (100.0%) of 29,030 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-07 (Friday)
+
+### කරන්නාගොඩගේ පෙත්සම විභාගයට පංච පුද්ගල විනිසුරු මඩුල්ලක්
+
+*2024-06-07 11:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197489) · `si`
+
+හිටපු නාවික හමුදාපති වසන්ත කරන්නාගොඩ මහතා විසින් ඉදිරිපත් කර තිබෙන රිට් පෙත්සම විභාග කිරීම සඳහා පංච පුද්ගල අභියාචනාධිකරණ විනිසුරු මඩුල්ලක් නම් කර තිබේ.
+
+2008 වසරේ කොළඹ හා තදාසන්න ප්‍රදේශවල තරුණයන් 11 දෙනෙකු පැහැරගෙන ගොස් අතුරුදන් කිරීමේ සිද්ධිය සම්බන්ධයෙන් තමන්ට එරෙහිව කොළඹ ත්‍රිපුද්ගල මහාධිකරණ විනිසුරු මඩුල්ලක් ඉදිරියේ ගොනුකර තිබෙන නඩුව බලරහිත කිරීමේ ආඥාවක් නිකුත් කරන ලෙස ඉල්ලා එම රිට් පෙත්සම ගොනු කර ඇත.
+
+ඒ අනුව අදාළ ඉල්ලීම සලකාබැලීම සඳහා එම පෙත්සම අද අභියාචනාධිකරණයේදී සභාපති විනිසුරු නිශ්ශංක බන්දුල කරුණාරත්න සහ ශෂී මහේන්ද්‍රන් යන අභියාචනාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ කැඳවනු ලැබීය.
+
+එහිදී අදාළ පෙත්සම විභාග කිරීම සඳහා පංච පුද්ගල අභියාචනාධිකරණ විනිසුරු මඩුල්ලක් නම් කරන බව අභියාචනාධිකරණයේ සභාපති විනිසුරුවරයා නියෝග කළේය.
+
+එම විනිසුරු මඩුල්ල ඉදිරියේ අදාළ පෙත්සම මේ මස 25 වනදා විභාගයට ගැනීමට නියම කර තිබේ.
+
+◼️
+
+[Data](articles/f9f4b393.json)
+
+---
+
+### EU elections start with tight Dutch race - exit poll
+
+*2024-06-07 11:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/99722/eu-elections-start-with-tight-dutch-race-exit-poll) · `en`
+
+Dutch voters have begun four days of voting across the European Union, with exit polls suggesting a tight race between a left-green alliance and the party of anti-Islam populist Geert Wilders.
+
+Right-wing and far-right parties are widely expected to make big gains in many of the EU’s 27 member states, and that appears to have been borne out in the Netherlands, to an extent.
+
+Although the Green-Labour alliance is set to take more seats in the European Parliament according to the exit poll, Mr Wilders’ Freedom Party is on course for big gains.
+
+But he has not repeated the runaway victory of last November’s general election.
+
+Under European law final results are not released until every country has voted, late on Sunday evening. Some 373 million Europeans are eligible to vote in the world’s second biggest democratic election after India.
+
+...
+
+[Data](articles/d188a127.json)
+
+---
+
+### පවුලක් සමග ප්‍රපාතයට පෙරළී ගිය රථය
+
+*2024-06-07 11:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197488) · `si`
+
+එකම පවුලේ පිරිසක් ගමන් ගත් මොටර් රථයක් මාර්ගයෙන් ඉවතට පැන අඩි 200 ක පමණ ප්‍රපාතයකට පෙරළී තිබේ.
+
+අප වාර්තාකරු සඳහන් කළේ එම රථය කාසල්රී ජලාශය අසලට පෙරළී ගොස් තිබූ බවය.
+
+අනතුරෙන් මෝටර් රථයේ ගමන් ගත් එක් කාන්තාවක් තුවාල ලබා දික්ඔය මූලික රෝහලට ඇතුලත් කෙරුණි.
+
+මෙම අනතුර සිදුවී ඇත්තේ ඊයේ (06) පස්වරු 5.30 ට පමණ හැටන් මස්කෙළිය ප්‍රධාන මාර්ගයේ නොර්වුඩ් නිව්වැලිගම ප්‍රදේශයේදීය.
+
+මස්කෙළිය ප්‍රදේශයේ අවමංගල්‍ය උත්සවයකට සහභාගිවී ආපසු කොළඹ ග්‍රැන්ඩ්පාස් ප්‍රදේශය දක්වා ධාවනය කරමින් තිබු මොටර් රථයක් මෙම අනතුරට මුහුණදී තිබේ.
+
+ප්‍රතිවිරුද්ධ දිශාවෙන් ඉදිරියට පැමිණි බස් රථයකට ඉඩ ලබාදීමට යාමේදී මෝටර් රථය මාර්ගයෙන් ඉවතට පැන ප්‍රපාතයට පෙරළී මෙම අනතුර සිදුවී ඇති බව නොර්වුඩ් පොලීසිය පැවසීය.
+
+අනතුර සිදුවෙන අවස්ථාවේදී රථයේ කුඩා දරුවෙකු ඇතුළු සිව්දෙනෙකු සිට තිබේ.
+
+ඔවුන් වාහනයේ ආරක්ෂක බඳ පටි පැළඳ සිටීම නිසා එක් අයෙකු පමණක් සුළු තුවාල ලබා ඇති බවද වාර්තා වෙයි.
+
+◼️
+
+[Data](articles/21e50d6f.json)
+
+---
+
+### அங்க தொட்டவர் சிக்கினார்
+
+*2024-06-07 11:20:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அங்க-தொட்டவர்-சிக்கினார்/175-338587) · `ta`
+
+பேருந்து நிலையத்தில்  வைத்து 30 வயதுடைய அமெரிக்கப் பெண்ணை பாலியல் ரீதியில் தொட்டார் என்றக் குற்றச்சாட்டில் கைதுசெய்த சந்தேகநபர்) மொனராகலை பொலிஸாரால் புலனாய்வு அதிகாரிகளின் உதவியுடன் கடந்த 06 ஆம் திகதி கைது செய்யப்பட்டுள்ளார்.
+
+துன்புறுத்தலுக்கு உள்ளான அந்த பெண் பிபில கல்வி வலயத்தில் உள்ள பாடசாலை ஒன்றில் தன்னார்வ ஆசிரியையாக பணியாற்றுகிறார்.
+
+மொனராகலை பேருந்து நிலையத்தில் தனது பணியிடத்திற்குச் செல்வதற்காக பேருந்தில் சென்று கொண்டிருந்த போது, பஸ் நடத்துனர் அந்தப் பெண்ணின் உடலை வருடியுள்ளார்.
+
+சந்தேகநபர் 15 கன்வன்வ, கீனகொடபர, பக்கினிகஹவெல பகுதியைச் சேர்ந்த 33 வயதுடைய   நபராவார்.
+
+சந்தேக நபர் மொனராகலை நீதவான் நீதிமன்றில் வெள்ளிக்கிழமை (07)  ஆஜர்படுத்தப்பட்டதன் பின்னர் அடையாள அணிவகுப்புக்கு உட்படுத்தப்படவுள்ளார்.
+
+◼️
+
+[Data](articles/22936970.json)
+
+---
+
+### மாணவன் கொலை:  மாணவனுக்கு விளக்கமறியல்
+
+*2024-06-07 11:12:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவன்-கொலை-மாணவனுக்கு-விளக்கமறியல்/175-338586) · `ta`
+
+15 வயதுடைய மாணவனைக் கொலை செய்த குற்றச்சாட்டில் கைது செய்யப்பட்ட 17 வயதுடைய மாணவர் ஒருவர் எதிர்வரும் 20ஆம் திகதி வரை விளக்கமறியலில் வைக்கப்பட்டுள்ளார்.
+
+அத்துடன் குறித்த மாணவனை ஏனைய கைதிகளிடமிருந்து தனிமைப்படுத்தி அங்குனகொலபெலஸ்ஸ சிறைச்சாலையில் வைக்குமாறு ஹம்பாந்தோட்டை நீதவான் உத்தரவிட்டுள்ளார்.
+
+ஹம்பாந்தோட்டை - சிப்பிக்குளம் பகுதியில் உள்ள பயிற்சி வகுப்பு ஒன்றிற்கு அருகில் 17 வயதுடைய மாணவர் ஒருவர் நடத்திய தாக்குதலில் 15 வயது மாணவன் ஒருவர் உயிரிழந்துள்ளார்.
+
+இரு மாணவர்களுக்கு இடையில் ஏற்பட்ட தகராறே இந்த மோதலுக்கான காரணம் எனவும் குறிப்பிடப்படுகின்றது. R
+
+◼️
+
+[Data](articles/9398d8a1.json)
+
+---
+
+### மோடியின் பதவியேற்பில் பங்கேற்கும் வெளிநாட்டு தலைவர்கள்
+
+*2024-06-07 11:11:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மோடியின்-பதவியேற்பில்-பங்கேற்கும்-வெளிநாட்டு-தலைவர்கள்/175-338585) · `ta`
+
+குடியரசுத் தலைவர் திரௌபதி முர்முவை சந்தித்து நாட்டின் பிரதமராக பதவியேற்க மோடி உரிமை கோர உள்ளார்.
+
+தேசிய ஜனநாயக கூட்டணிக் கட்சிகளின் ஆலோசனைக் கூட்டம் நாடாளுமன்ற மைய மண்டபத்தில் வெள்ளிக்கிழமை (07) நடைபெறுகிறது.
+
+மக்களவைத் தேர்தல் முடிவுகள் ஜூன் 4ஆம் திகதி வெளியான நிலையில் யாருக்கும் பெரும்பான்மை கிடைக்கவில்லை. பெரும்பான்மைக்கு 272 இடங்கள் தேவை.
+
+எனினும், பாஜக 240 இடங்களைப் பெற்றது. காங்கிரஸ் கட்சி 99 இடங்களை பெற்றது. சமாஜ்வாதி கட்சி 37, திரினாமூல் காங்கிரஸ் 29, திமுக 22 இடங்களையும் பெற்றது. தெலுங்கு தேசம் 16, ஐக்கிய ஜனதா தளம் கட்சி 12 இடங்களையும் பெற்றன.
+
+தேசிய ஜனநாயகக் கூட்டணியில் இடம்பெற்ற கட்சிகள் இணைந்து 293 இடங்கள் வென்றிருப்பதால் மத்தியில் கூட்டணி ஆட்சி அமைய உள்ளது.
+
+பாஜக கூட்டணி ஆட்சி அமைப்பதற்கான ஆதரவு கடிதங்களை ஜூன் 5ஆம் திகதியே கூட்டணிக் கட்சித் தலைவர்கள் வழங்கினர்.
+
+...
+
+[Data](articles/bfc48f8c.json)
+
+---
 
 ### Royal Park should immediately find and imprison
 
@@ -298,21 +424,27 @@ In 2020, Kangana's comments during a one -year competition of farmers across the
 
 ---
 
-### අඩි 200 ක් ප්‍රපාතයකට වැටුනත් ඔවුන් බේරුනේ එනිසයි
+### 200 feet fell in a precipice but they were survived
 
 *2024-06-07 10:35:38* · [`adalk`](https://www.ada.lk/breaking_news/අඩි-200-ක්-ප්‍රපාතයකට-වැටුනත්-ඔවුන්-බේරුනේ-එනිසයි/11-410069) · `si`
 
-එකම පවුලේ පිරිසක් ගමන් ගත් මොටර් රථයක් මාර්ගයෙන් ඉවතට පැන අඩි 200 ක් ප්‍රපාතයෙන් පිහිටි කාසල්රි ජලාශය අසලට පෙරලිමෙන් එම මොටර් රථයේ ගමන් ගත් එක් කාන්තාවක් තුවාල ලබා දික්ඔය මුලික රෝහල වෙත ඇතුලත් කර ඇති බව නොර්වුඩ් පොලිසිය පැවසිය.
+A car accident near Norwood Newweligama resulted in one person being hospitalized after falling off a cliff. The incident involved four passengers, including a child, all sustaining minor injuries.
 
-මෙම අනතුර සිදු වි ඇත්තේ (06) දින පස්වරු 5.30 ට පමණ හැටන් මස්කෙලිය ප්‍රධාන මාර්ගයේ නොර්වුඩ් නිව්වැලිගම ප්‍රදේශයේදිය.
+🟩
 
-මස්කෙලිය ප්‍රදේශයේ අවමංගල උත්සවයකට සහභාගි වි ආපසු කොළඹ ග්‍රැන්ඩ්පාස් ප්‍රදේශය දක්වා ධාවනය කරමින් තිබු මොටර් රථය ප්‍රතිවිරුද්ධ දිශාවෙන් ඉදිරියට පැමිණි බස් රථයකට ඉඩ ලබාදිමට යාමේදි මොටර් රථය මාර්ගයෙන් ඉවතට පැන ප්‍රපාතයට පෙරලි මෙම අනතුර සිදු වි ඇති බවයි නොර්වුඩ් පොලිසිය කියා සිටියේ.
+One woman who was traveling in the motor vehicle was injured and admitted to the Dikoya Bundator hospital with a motor vehicle with a motor vehicle.
 
-මොටර් රථය අනතුරට පත් වන අවස්තාවේ මොටර් රථය තුල කුඩා ළමයෙකු ඇතුළු සිව්දෙනෙකු ගමන් කර ඇති බවත්, එම සිව්දෙනාම වාහනයේ ආරක්ෂක බද පටි පැළද සිටි නිසා අනතුරෙන් එක් අයෙකුට පමණක් සුළු තුවාල සිදු වි ඇති බවයි පොලිසිය කියා සිටියේ.
+The accident occurred in the Norwood Newweligama area on the Hatton Maskelleliya main road around 5.30 pm.
+
+The Norwood police stated that the motor vehicle had moved to the precipice of the motor vehicle to the Grandpas area in Maskeliya.
+
+The police said that the motor vehicle had been traveling and four persons including a small child in the motor vehicle and four were minor injuries due to the accident.
 
 ◼️
 
 [Data](articles/e2e7868a.json)
+
+[Extended Data](ext_articles/e2e7868a.ext.json)
 
 ---
 
@@ -2047,129 +2179,5 @@ Part – I examined Sections 3 and 4 of the Economic Transformation Bill (ETB), 
 [Data](articles/38c596bb.json)
 
 [Extended Data](ext_articles/38c596bb.ext.json)
-
----
-
-### Strict Laws Against Those Distorting Buddha’s Teachings: A Point Of View
-
-*2024-06-06 20:53:47* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/strict-laws-against-those-distorting-buddhas-teachings-a-point-of-view/) · `en`
-
-I refer to the front page headlined news report in the Daily News paper dated 23 May 2024, where the Buddha Sasana, Religious and cultural Affairs Ministry Secretary, Somaratne Vidanapathirana, is reported to have said that the Government would bring strict Laws against those who distort Buddha’s teachings, in response to a complaint made by the Heads of Buddhist Nickayas.,
-
-As a Hindu, having an interest in religion and spirituality, I wish to express my views, as an independent observer, on this matter as follows:
-
-...
-
-[Data](articles/2cca318d.json)
-
-[Extended Data](ext_articles/2cca318d.ext.json)
-
----
-
-### The United States face Pakistan
-
-*2024-06-06 20:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/185483) · `ta`
-
-In the T20 World Cup, both the United States and Pakistan are strong contenders. Despite Pakistan's history of advancing to the Super 8 round, the absence of key player Imad Wasim may affect their performance. The US team, inspired by their recent win against Bangladesh, enters the match against Pakistan with confidence and without pressure, led by players like Monank Patel and Steven Taylor.
-
-🟩
-
-The T20 World Cup A Group Cricket between the United States, which cannot be said to be weak, but weakens, though it is not known as Pakistan and Pakistan.
-
-Pakistan, the second R20 World Cup chapter in 2009, has been permitted as one of the teams that can be easily advanced to the Super 8 round.
-
-It is reported that all the player Imad Wasim has been subjected to the uproar.
-
-Although this does not have a major impact on the Pakistan team, his absence will be a flaw.
-
-Team Leader Babar Azam, Mohammed Rizwan, Usman Khan, Bakar Saman, Assam Khan, Iftikar Ahmed and Shadab Khan. However, if the leading players showcase the unbearable skills in the field, the middle -class players will not need to bat.
-
-Shaheen Shah Abridi, Haris Rauf, Mohammed Aamir and Abar Ahmad are expected to be Asadhavar.
-
-Meanwhile, the United States will face the competition with great enthusiasm and confidence in the World Cup against Canada.
-
-...
-
-[Data](articles/7748dadd.json)
-
-[Extended Data](ext_articles/7748dadd.ext.json)
-
----
-
-### Railway drivers on strike tomorrow
-
-*2024-06-06 20:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197472) · `si`
-
-Locomotive engineers will go on strike starting tomorrow due to disputes over pay raises and promotions.
-
-🟩
-
-The Locometive Ocketan Association says that the trade union action will be taken to a trade union action from tomorrow (07).
-
-The location engine drivers are taking second-level promotions, salary issues.
-
-◼️
-
-[Data](articles/55b4d66b.json)
-
-[Extended Data](ext_articles/55b4d66b.ext.json)
-
----
-
-### Tomorrow's holiday for 36 schools
-
-*2024-06-06 20:42:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மேலும்-36-பாடசாலைகளுக்கு-நாளை-விடுமுறை/175-338556) · `ta`
-
-The Western Provincial Ministry of Education announced that 36 schools across Homagama, Sri Jayawardenapura, Kalutara, Horana, and Negombo Education Zones will have a holiday tomorrow.
-
-🟩
-
-The Western Provincial Ministry of Education has announced that 36 schools in the Western Province will be given holidays tomorrow.
-
-Accordingly, 36 schools in the Homagama, Sri Jayawardenapura, Kalutara, Horana and Negombo Education Zone. Remble
-
-◼️
-
-[Data](articles/8157e22e.json)
-
-[Extended Data](ext_articles/8157e22e.ext.json)
-
----
-
-### Sri Lanka’s Commercial Bank ‘A(lka)’ rating confirmed: ISB assets 7-pct
-
-*2024-06-06 20:41:00* · [`economynextcom`](https://economynext.com/sri-lankas-commercial-bank-alka-rating-confirmed-isb-assets-7-pct-166701/) · `en`
-
-ECONOMYNEXT – Fitch Ratings has confirmed an ‘A(lka)’ rating of Sri Lanka’s Commercial Bank of Ceylon saying the operating environment is stabilizing, but it also had the second highest exposure to defaulted sovereign bonds.
-
-“Our assessment of COMB’s risk profile factors in its exposure to defaulted foreign-currency government securities, to which COMB has the second-highest exposure among domestic banks, at 7 percent of total assets at end-2023,” Fitch said.
-
-“A further 30 percent exposure stems from its local-currency denominated treasury securities, making the bank vulnerable to the sovereign’s repayment capacity and liquidity position.”
-
-The bank had provided 52 percent on its sovereign bond exposure by end 2023, where negotiations are still ongoing.
-
-“We expect COMB’s impaired (stage 3) loan ratio to fall as the repayment capacity of borrowers gradually improves,” Fitch said.
-
-“This follows the notable decline in interest rates, but a slow pick-up in economic activity and loan growth.
-
-...
-
-[Data](articles/8c2f393b.json)
-
-[Extended Data](ext_articles/8c2f393b.ext.json)
-
----
-
-### New electric maternity bed for De Soyza Hospital
-
-*2024-06-06 20:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/New-electric-maternity-bed-for-De-Soyza-Hospital/110-284273) · `en`
-
-A fully automatic electric maternity bed and other equipment were donated to the De Soyza Maternity Hospital in Colombo by the California Hospital Services Support and Hospital Services Council. The event was attended by Director of the Hospital Services Council, Venerable Rajawelle Subhuthi Thera, along with Director of De Soyza Hospital, Dr. Pradeep Wijesinghe. Pix by Pradeep Pathirana
-
-◼️
-
-[Data](articles/72e73a3f.json)
-
-[Extended Data](ext_articles/72e73a3f.ext.json)
 
 ---

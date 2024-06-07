@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-07 09:04:55**
+As of **2024-06-07 09:19:00**
 
 ## Newspaper Stats
 
-*Scraped **28,992** Articles*
+*Scraped **28,995** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,60 @@ newsfirstlk | 363
 islandlk | 1,565
 economynextcom | 1,655
 dailyftlk | 1,730
-adalk | 2,475
+adalk | 2,476
 adaderanalk | 3,281
 tamilmirrorlk | 3,405
 virakesarilk | 4,445
-dailymirrorlk | 4,607
-adaderanasinhalalk | 4,646
+dailymirrorlk | 4,608
+adaderanasinhalalk | 4,647
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,988 (100.0%) of 28,992 articles have been extended.
+28,992 (100.0%) of 28,995 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-07 (Friday)
+
+### අයහපත් කාලගුණයෙන්  නිවාස 5587කට හානි
+
+*2024-06-07 08:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197483) · `si`
+
+අයහපත් කාලගුණය හේතුවෙන් මේ වනවිට නිවාස 5,587ක් හානියට ලක්වී තිබේ.
+
+නිවාස 56ක් පුර්ණ හානියට ලක්වී ඇති අතර අර්ධ හානි සිදුවී ඇති නිවාස සංඛ්‍යාව 5,531කි.
+
+ආපදා තත්ත්වය හේතුවෙන් සිදුවු පුද්ගල මරණ සංඛ්‍යාව ද මේ වන විට 32ක් දක්වා ඉහළ ගොස් තිබේ.
+
+එක් පුද්ගලයෙකු තවදුරටත් අතුරුදන්ව ඇති අතර තුවාල ලබා ඇති සංඛ්‍යාව 16කි.
+
+පුද්ගලයින් 7,639 දෙනෙකු මේ වන විටත් සුරක්ෂිත මධ්‍යස්ථාන 1,973ක රඳවා ඇති බව ආපදා කළමනාකරණ මධ්‍යස්ථානය සඳහන් කළේය.
+
+අයහපත් කාලගුණ තත්ත්වය හේතුවෙන් පවුල් 63,413කට අයත් පුද්ගලයින් 239,006ක් බලපෑමට ලක්වී ඇති බවද සඳහන් ය.
+
+◼️
+
+[Data](articles/9c17ce80.json)
+
+---
+
+### SC orders Maithripala to pay Rs.1Mn to petitioner
+
+*2024-06-07 08:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SC-orders-Maithripala-to-pay-Rs-1Mn-to-petitioner/108-284322) · `en`
+
+Colombo, June 7 (Daily Mirror) - The Supreme Court yesterday ordered former President Maithripala Sirisena to pay Rs. 1 million to the petitioner in the Fundamental Rights petition filed challenging former President Sirisena's decision to grant a Presidential pardon to Royal Park murder convict Don Shamantha Jude Anthony Jayamaha.
+
+The Court held that the petitioner, Women & Media Collective organization should hold such money in trust and spend it for the purposes that are in the best interests of female victims of crime and this sum of money should be paid within one month of this judgement.
+
+In another landmark judgement pertaining to the scope of the pardon granted by the executive President, the Supreme Court yesterday ruled that former President Maithripala Sirisena's decision to grant a Presidential pardon to Royal Park murder convict Don Shamantha Jude Anthony Jayamaha is arbitrary and not valid in law.
+
+...
+
+[Data](articles/9d4e3f15.json)
+
+---
 
 ### Ruling is a significant step for all female victims in Sri Lanka: Caroline Jonsson
 
@@ -47,6 +85,8 @@ The tragic and brutal loss of Yvonne has left an unfillable void in our hearts, 
 ...
 
 [Data](articles/632b80b8.json)
+
+[Extended Data](ext_articles/632b80b8.ext.json)
 
 ---
 
@@ -67,6 +107,8 @@ It was revealed that Jayamaha had obtained a passport on November 13, 2019 immed
 ...
 
 [Data](articles/67085965.json)
+
+[Extended Data](ext_articles/67085965.ext.json)
 
 ---
 
@@ -89,6 +131,8 @@ All this at the end of a riveting contest, one which fluctuated in the burning T
 ...
 
 [Data](articles/34fec2a8.json)
+
+[Extended Data](ext_articles/34fec2a8.ext.json)
 
 ---
 
@@ -1592,6 +1636,24 @@ The association states that the prospect had to be taken to take place in severa
 
 ---
 
+### නිමල් පාර්ශ්වයේ පළමු රැළිය හෙට
+
+*2024-06-06 19:22:53* · [`adalk`](https://www.ada.lk/breaking_news/නිමල්-පාර්ශ්වයේ-පළමු-රැළිය-හෙට/11-410064) · `si`
+
+ශ්‍රී ලංකා නිදහස් පක්ෂය ප්‍රමුඛ නව සන්ධානයේ පළමු  ජන රැළිය 'දිනුම රටට- එක්ව පෙරට' මැයෙන් හෙට( 08දා) හම්බන්තොට දිස්ත්‍රික්කයේ අම්බලන්තොට නගර මධ්‍යයේදී පැවැත්වෙන බව ශ්‍රී ලංකා නිදහස් පක්ෂය සඳහන් කරයි.
+
+මෙම ජන රැළියට නිමල් සිරිපාල ද සිල්වා, මහින්ද අමරවීර, ලසන්ත අලගියවන්න, දුමින්ද දිසානායක,  මහතා ඇතුළු ඇමතිවරුන්, නව සන්ධානයට සහාය දක්වන පාර්ලිමේන්තු මන්ත්‍රීවරුන්,  හිටපු පළාත් සභා මන්ත්‍රීවරුන්, ප්‍රාදේශීය සභා මන්ත්‍රීවරුන්, වෘත්තීය සමිති නියෝජිතයන් හා සිවිල් ක්‍රියාරිකයන් රැසක් සහභාගි වීමට නියමිතව තිබේ.
+
+ජනරැලිය  පස්වරු 2.00 ට සැලසුම් කර තිබෙන අතර ඉදිරියේදී පැවැත්වෙන ඕනෑම මැතිවරණයකට මුහුණ දීම සඳහා  මේ ආකාරයට ඉදිරියේදි ජනරැලි පැවැත් වීමට සැලසුම් කර තිබේ. හෙට පැවැත් වෙන ජනරැළිය සඳහා පාර්ලිමේන්තු මන්ත්‍රීවරුන් 20 කට ආසන්න පිරිසක් සභාභාගි විමට නියමිතව ඇත.
+
+මෙම  ජන රැළිය කෘෂිකර්ම හා වැවිලි කර්මාන්ත අමාත්‍ය මහින්ද අමරවීර මහතා විසින් සංවිධානය කරනු ලබන අතර ඉදිරියේදී දේශපාලන  පක්ෂ, වෘත්තීය සමිති, සිවිල් සංවිධාන සම්බන්ධ කර ගනිමින් දැවැන්ත හා පුළුල් සන්ධානයක් ලෙස මෙය ගොඩ නැගීමට සැලසුම් කර තිබේ.
+
+◼️
+
+[Data](articles/fea1ec01.json)
+
+---
+
 ### Advocate was arrested for stolen the complaint with the police
 
 *2024-06-06 19:14:47* · [`adalk`](https://www.ada.lk/breaking_news/පැමිණිල්ලක්-දාන්න-ඇවිත්-පොලිසියේ-තිබූ-මුදල්-පසුම්බිය-සොරාගෙන-ගිය-අඹුසැම්-අත්අඩංගුවට/11-410063) · `si`
@@ -2018,6 +2080,8 @@ The establishment of the office was initiated by United National Party Chairman 
 
 [Data](articles/2faad05d.json)
 
+[Extended Data](ext_articles/2faad05d.ext.json)
+
 ---
 
 ### Schools to be networked and digitized by July
@@ -2111,81 +2175,5 @@ Hamas has reported that the occupation forces are publishing myths to justify th
 [Data](articles/3f82cc2b.json)
 
 [Extended Data](ext_articles/3f82cc2b.ext.json)
-
----
-
-### 'Plan to disrupt the lives of Tamil people'
-
-*2024-06-06 17:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/185467) · `ta`
-
-A Tamil political leader accuses the police of disrupting Tamil life through continuous investigations and threats against activists in the North and East of Sri Lanka. The leader, Sivagnanam Sreedharan, calls on the president to halt this oppression, highlighting cases of individuals summoned by the CTID and one arrested, Selvanayagam Anandavarnan, who was previously associated with the LTTE but now works for the education of its former members' children. The letter urges the president to address public discontent and release detainees.
-
-🟩
-
-A Tamil political leader has alleged that the terrorist police are carrying out a plan to shatter the Tamil people's normal life by continuously investigating and threatening political activists in the North and East.
-
-Sivagnanam Sreedharan, a member of the Sri Lanka Tamil State Party, has asked the president to stop the oppression in the last three months, reporting the details of the seven Tamils ​​called by the Prevention of Terrorism and Investigation Division (CTID).
-
-The copy of the letter sent to President Ranil Wickremesinghe on June 4 was presented by Parliament on the same day.
-
-On the day of the letter sent by the Central Executive Committee member of the Tamil State Party, Karupaya Jayakumar, has been summoned to the Kilinochchi office of the Terrorism and Investigation Unit.
-
-...
-
-[Data](articles/1d561d91.json)
-
-[Extended Data](ext_articles/1d561d91.ext.json)
-
----
-
-### Sri Lanka parliament passes new electricity law
-
-*2024-06-06 17:23:00* · [`economynextcom`](https://economynext.com/sri-lanka-parliament-passes-new-electricity-law-166663/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s parliament has passed a new electricity law, speaker Mahinda Abeywardena said, with 103 legislators out of the 225 member assembly voting in favour.
-
-Energy Minister Kanchana Wijesekera said the bill will unbundle the sector and help take the grid to a 70 percent renewable energy target.
-
-The target requires 12 billion dollars of investments which the government cannot provide, he said.
-
-Sri Lanka’s main opposition Samagi Jana Balawegaya said the renewable plants are being awarded without competitive tenders.
-
-RELATEDSri Lanka legislators slam 49 renewables plants without tender, Adani deal
-
-There were also criticisms that the Minister gets too much powers and the regulator’s independence is undermined.
-
-However, Wijesekera said the the Minister needed powers to implement policy.
-
-Opposition legislator Kabir Hashim said a minister was only a caretaker of a public asset and cannot behave like the head of a private company. (Colombo/June06/2024)
-
-◼️
-
-[Data](articles/40c9a84a.json)
-
-[Extended Data](ext_articles/40c9a84a.ext.json)
-
----
-
-### Video game verb: knife on the boy
-
-*2024-06-06 17:22:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வீடியோ-கேம்-வினையானது-சிறுவன்-மீது-கத்திக்குத்து/175-338549) · `ta`
-
-In a tragic incident, a 13-year-old boy stabbed an 8-year-old over a video game dispute, then poisoned himself. The younger boy was hospitalized, while the older one was treated for poisoning after fleeing the scene.
-
-🟩
-
-A 13 -year -old boy who stabbed an 8 -year -old boy who was not allowed to play video games on the phone has been poisoned.
-
-The injured boy was admitted to the Kuttikala Divisional Hospital and later transferred to the Hambantota General Hospital and the boy who was poisoned was admitted to the Embilipitiya Resource Hospital.
-
-On Wednesday evening (05), an eight -year -old boy went to the neighboring house while playing video games. Previously wanted to play a different game, but the latter did not allow it. As a result, an eight -year -old boy was stabbed with a knife.
-
-After the incident, he fled the area and drank poison in a secret place. A person who observed this has been admitted to the Kuttigala Divisional Hospital and later transferred to the Embilipitiya Resource Hospital.
-
-◼️
-
-[Data](articles/1fe463f7.json)
-
-[Extended Data](ext_articles/1fe463f7.ext.json)
 
 ---

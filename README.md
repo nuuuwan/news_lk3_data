@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-07 21:53:34**
+As of **2024-06-07 22:08:02**
 
 ## Newspaper Stats
 
-*Scraped **29,108** Articles*
+*Scraped **29,111** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,52 @@ economynextcom | 1,665
 dailyftlk | 1,730
 adalk | 2,484
 adaderanalk | 3,297
-tamilmirrorlk | 3,418
+tamilmirrorlk | 3,419
 virakesarilk | 4,467
-dailymirrorlk | 4,625
+dailymirrorlk | 4,627
 adaderanasinhalalk | 4,671
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,108 (100.0%) of 29,108 articles have been extended.
+29,108 (100.0%) of 29,111 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-07 (Friday)
+
+### President re-appoints Shavendra Silva as Chief of Defence Staff
+
+*2024-06-07 21:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/President-re-appoints-Shavendra-Silva-as-Chief-of-Defence-Staff/108-284360) · `en`
+
+June 07 (Daily Mirror) - President Ranil Wickremesinghe has re-appointed General Shavendra Silva as the Chief of Defence Staff for six months.
+
+An extraordinary gazette has been issued extending General Silva's term as CDS under Section 3 of the Chief of Defence Staff Act, No. 35 of 2009.
+
+General Silva's new term runs from June 1, 2024, to December 31, 2024.
+
+He was first appointed as Chief of Defence Staff on June 1, 2022.
+
+◼️
+
+[Data](articles/84aa4419.json)
+
+---
+
+### Tiran Alles directs CID to probe threats against Harsha de Silva
+
+*2024-06-07 21:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Tiran-Alles-directs-CID-to-probe-threats-against-Harsha-de-Silva/108-284359) · `en`
+
+Colombo, June 07 - In the wake of claims made by Samagi Jana Balawegaya (SJB) MP Dr. Harsha de Silva that he has received threats, Public Security Minister Tiran Alles has directed IGP Deshabandu Tennakoon to task the Criminal Investigation Department (CID) with investigating into the alleged threats.
+
+During the parliamentary session today (7), Dr. de Silva revealed that he has been receiving threats to his life.
+
+◼️
+
+[Data](articles/b4d15bc7.json)
+
+---
 
 ### Shavendra has a service extension
 
@@ -157,6 +189,20 @@ Kodippili urged people to refrain from visiting flood-affected areas or stepping
 [Data](articles/da86ac61.json)
 
 [Extended Data](ext_articles/da86ac61.ext.json)
+
+---
+
+### தலைபிறை தென்பட்டது ; ஹஜ் பெருநாளுக்கான திகதி அறிவிப்பு
+
+*2024-06-07 20:07:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தலைபிறை-தென்பட்டது-ஹஜ்-பெருநாளுக்கான-திகதி-அறிவிப்பு/175-338594) · `ta`
+
+துல்ஹஜ் மாதத்திற்கான தலைபிறை இன்று (07) தென்பட்டதை அடுத்து, எதிர்வரும் 17ம் திகதி  ஹஜ் பெருநாளை கொண்டாட தீர்மானிக்கப்பட்டுள்ளதாக கொழும்பு பெரியவாசல் அறிவித்துள்ளது.
+
+இன்று மஃரிப் தொழுகையோடு, கொழும்பு பெரிய பள்ளிவாசலில் ஒன்று கூடிய பிறைக்குழு, கொழும்பு பெரிய பள்ளிவாசல் நிர்வாக சபை, ஏனைய முக்கியஸ்தர்களின் மாநாட்டில் துல்ஹஜ் மாதத்திற்கான தலைபிறையை உறுதிப்படுத்தி, இந்த தீர்மானம் எடுக்கப்பட்டுள்ளது. R
+
+◼️
+
+[Data](articles/3cf2c467.json)
 
 ---
 
@@ -2265,81 +2311,5 @@ Meanwhile, 239,006 people from 63,413 families have been affected due to incleme
 [Data](articles/9a15f097.json)
 
 [Extended Data](ext_articles/9a15f097.ext.json)
-
----
-
-### Sri Lanka rupee opens stronger at 302.55/65 to US dollar
-
-*2024-06-07 09:43:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stronger-at-302-55-65-to-us-dollar-166844/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee improved slightly to open at 302.55/65 to the US dollar on Friday in the first half-hour of trading, while bond yields were steady and stocks opened 0.15 percent higher, dealers said.
-
-Sri Lanka rupee closed at 302.80/303.10 to the greenback on Thursday.
-
-In the secondary market, yields were slightly down, dealers said.
-
-A bond maturing on 15.12.2026 was quoted down at 9.95/10.00 percent from 9.95/10.05 percent.
-
-A bond maturing on 15.09.2027 was quoted at 10.45/65 percent down from 10.50/65 percent.
-
-A bond maturing on 01.07.2028 was quoted at 10.90/11.00 percent down from 10.95/11.05 percent.
-
-A bond maturing on 15.05.2030 closed at 11.70/80 percent down from 11.75/90 percent.
-
-In equities, Colombo’s All Share Price Index gained 24.13 points to 12,334 and the S&P SL20 of more liquid stocks up 0.41 percent or 14.93 points to 3,665, in the first half-hour of trade. (Colombo/Jun7/2024)
-
-◼️
-
-[Data](articles/83a442a5.json)
-
-[Extended Data](ext_articles/83a442a5.ext.json)
-
----
-
-### Brutal murder
-
-*2024-06-07 09:41:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெளிநாட்டிலிருந்து-வந்த-பெண்-கொடூர-கொலை/175-338580) · `ta`
-
-A foreign woman, aged 62, was brutally murdered in her home in Sri Lanka's Mawathagama district. The incident occurred last night, and police are conducting further investigations.
-
-🟩
-
-A woman who came to Sri Lanka from abroad has been murdered last night (06).
-
-Police said that a woman was assaulted and murdered in a house in the Pillasa area of ​​the Mawathagama police division.
-
-The deceased is a 62 -year -old woman and further investigations are being carried out by the police.. Remble
-
-◼️
-
-[Data](articles/54aa6506.json)
-
-[Extended Data](ext_articles/54aa6506.ext.json)
-
----
-
-### It is raining in many places today
-
-*2024-06-07 09:35:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்றும்-பல-இடங்களில்-மழை-பெய்யும்/175-338579) · `ta`
-
-Heavy rain and thunderstorms are forecasted across various regions including Western, Sabaragamuwa, Southern Provinces, Kandy, Nuwara Eliya, North Western, North, North Central Provinces, and possibly in the Eastern and Uva provinces later. Heavy winds up to 40-50 km/h are also expected in the Northern, North Central, North Western Provinces, and Hambantota district. The public is urged to stay alert and take safety measures against lightning strikes.
-
-🟩
-
-Rainfall is expected in the Western, Sabaragamuwa and Southern Provinces and Kandy and Nuwara Eliya districts.
-
-Rainfall is expected to occur in the North Western, North and North Central Provinces several times.
-
-In the Eastern and Uva provinces, there is a possibility of rainfall or thundershowers in the evening or at night.
-
-In the Northern, North Central and North Western Provinces and Hambantota district, there is a possibility of heavy winds at speeds of up to 40-50 km / h.
-
-Thundershowers may be temporarily blowing in the up -and -coming areas. The public is advised to take necessary precautions to reduce the impacts of lightning impacts. Remble
-
-◼️
-
-[Data](articles/186b7204.json)
-
-[Extended Data](ext_articles/186b7204.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-07 13:04:09**
+As of **2024-06-07 13:18:48**
 
 ## Newspaper Stats
 
-*Scraped **29,032** Articles*
+*Scraped **29,033** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adaderanalk | 3,286
 tamilmirrorlk | 3,413
 virakesarilk | 4,454
 dailymirrorlk | 4,612
-adaderanasinhalalk | 4,654
+adaderanasinhalalk | 4,655
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,032 (100.0%) of 29,032 articles have been extended.
+29,032 (100.0%) of 29,033 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-07 (Friday)
+
+### පොහොට්ටුවේ නව කැඳවුම්කරු රෝහිත
+
+*2024-06-07 13:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197492) · `si`
+
+ශ්‍රී ලංකා පොදුජන පෙරමුණේ ජාතික කැඳවුම්කරු ලෙස එහි පාර්ලිමේන්තු මන්ත්‍රි රෝහිත අබේගුණවර්ධන මහතා පත්කර  තිබේ.
+
+ඒ පක්ෂයේ විධායක සභාව සහ දේශපාලන මණ්ඩලය අද (07) පෙරවරුවේ රැස්වූ අවස්ථාවේදීය.
+
+ශ්‍රී ලංකා පොදුජන පෙරමුණේ විධායක සභාව සහ දේශපාලන මණ්ඩලය එහි නායක හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතාගේ ප්‍රධානත්වයෙන් අද පෙරවරුවේ රැස්වුණේ ඒ මහතාගේ නිල නිවසේදීය.
+
+මේ අතර ඇමති විජයදාස රාජපක්ෂ මහතාට එරෙහිව පැවැති චෝදනා පිළිබඳ නිර්දේශ ඉදිරිපත් කළ බවත් ඊට අනුව ඉදිරියේදී කටයුතු කිරීමට අදාළ අනුමැතිය ලබාදුන් බවත් ශ්‍රී ලංකා පොදුජන පෙරමුණේ පාර්ලිමේන්තු මන්ත්‍රි  ගාමිණී ලොකුගේ මහතා පැවසීය.
+
+◼️
+
+[Data](articles/904f16b0.json)
+
+---
 
 ### Nearly 6,000 houses damaged due to adverse weather
 
@@ -1580,7 +1598,7 @@ Singhagiri Ltd., the country’s premier consumer electronics specialist, has re
 
 The re-launch at Singhagiri Showroom, T.B Jayah Mawatha, Colombo 10 was attended by Directors Nasser Majeed, Chathurika De Silva and Anusha Marasinghe as well as CEO Lasantha Alwis.
 
-Singhagiri always strives to build lifelong relationships with its customers by providing an unmatched user experience and the best after-sales services. With over 10 years of experience in the consumer electronics industry and e-commerce, Singhagiri is at the forefront of offering its consumers a wide range of top-quality international brands alongside SGL local brands through retail, plaza showrooms, and island-wide dealers.
+Singhagiri always strives to build lifelong relationships with its customers by providing an unmatched user experience and the best after-sales services. With over 52 years of experience in the consumer durables industry and over 10 years in e-commerce, Singhagiri is at the forefront of offering its consumers a wide range of top-quality international brands alongside SGL local brands through retail, plaza showrooms, and countrywide dealers
 
 ...
 
@@ -2203,25 +2221,5 @@ Another 33 percent of assets iwere rupee-denominated treasury securities, all of
 [Data](articles/0187e280.json)
 
 [Extended Data](ext_articles/0187e280.ext.json)
-
----
-
-### America to advantage of the coin
-
-*2024-06-06 20:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197473) · `si`
-
-In the T20 World Cup match between the US and Pakistan, the US won the toss and chose to field first.
-
-🟩
-
-US and Pakistan match between US and Pakistan under the T20 World Cup
-
-The United States won the toss and decided to give Pakistani to bat first.
-
-◼️
-
-[Data](articles/e9e98e40.json)
-
-[Extended Data](ext_articles/e9e98e40.ext.json)
 
 ---

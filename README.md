@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-07 11:34:33**
+As of **2024-06-07 11:54:17**
 
 ## Newspaper Stats
 
-*Scraped **29,023** Articles*
+*Scraped **29,024** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 islandlk | 1,565
 economynextcom | 1,655
 dailyftlk | 1,730
-adalk | 2,478
+adalk | 2,479
 adaderanalk | 3,284
 tamilmirrorlk | 3,410
 virakesarilk | 4,454
@@ -26,77 +26,109 @@ adaderanasinhalalk | 4,651
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,017 (100.0%) of 29,023 articles have been extended.
+29,023 (100.0%) of 29,024 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-07 (Friday)
 
-### ரோயல் பார்க் கொலையாளியை உடனடியாக கண்டுபிடித்து சிறையில் அடைக்கவேண்டும் - கொல்லப்பட்ட சுவீடன் யுவதியின் குடும்பத்தினர் வேண்டுகோள்
+### Royal Park should immediately find and imprison
 
 *2024-06-07 11:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/185511) · `ta`
 
-ரோயல்பார்க் கொலையாளியை உடனடியாக கண்டுபிடித்து அவரை சிறையில் அடைக்கவேண்டும் என கொலை செய்யப்பட்ட சுவீடன் யுவதியின் குடும்பத்தினர் வேண்டுகோள் விடுத்துள்ளனர்
+Ivan Johnson's family calls for immediate arrest and imprisonment of the Royal Park killer, emphasizing the importance of justice and accountability. They express gratitude towards the judiciary for their efforts and stress the need for swift action to ensure true justice is served.
 
-ரோயல் பார்க் கொலையாளிக்கு வழங்கப்பட்ட பொதுமன்னிப்பை இரத்துச்செய்யும் நீதிமன்றத்தின் உத்தரவை இலங்கையில் பாதிக்கப்பட்ட அனைத்து பெண்களிற்குமான குறிப்பிடத்தக்க தீர்ப்பு என கொலை செய்யப்பட்ட சுவீடன் யுவதி இவோன் ஜோன்சனின் குடும்பத்தவர்கள் தெரிவித்துள்ளனர்.
+🟩
 
-இவான்ஜோன்சனின் குடும்பத்தவர்கள் சார்பில் அவரது சகோதரி கரோலின் ஜோன்சன் விடுத்துள்ள அறிக்கையில் இதனை தெரிவித்துள்ளார்.
+The family of Sweden Women, who was murdered to find the Royalbark killer immediately and imprison him
 
-இலங்கையில்பாதிக்கப்பட்ட அனைத்து பெண்களுக்கும் இது ஒரு குறிப்பிடத்தக்க தீர்ப்பு என குறிப்பிட்டுள்ள அவர் தன்னிச்சையான முடிவுகளால் அவர்களின் உயிரையும் கண்ணியத்தையும் சமரசம் செய்ய முடியாது என்பதை இந்த தீர்ப்பு உறுதிப்படுத்துகின்றது எனவும் தெரிவித்துள்ளார்.
+The family members of the Swedish Women, Ivan Johnson, have said that the court order to cancel the amnesty granted to the Royal Park killer is a significant verdict for all the victims of Sri Lanka.
+
+He said this in a statement issued by his sister Caroline Johnson on behalf of Ivanjonson's family.
+
+Noting that this is a significant judgment for all women in Sri Lanka, he said that arbitrary decisions cannot compromise their lives and dignity.
+
+He noted that the Supreme Court's ruling that the amnesty granted by former President Maithripala Sirisena to the killer of Ivan Johnson is deeper and justice.
+
+Ivan's tragic and terrible loss has caused a vacuum in our hearts, which has caused us great pain.
+
+The verdict has emphasized the importance of justice and accountability and emphasized that the amnesty is unable to make decisions such as amnesty.
 
 ...
 
 [Data](articles/3c4197c8.json)
 
+[Extended Data](ext_articles/3c4197c8.ext.json)
+
 ---
 
-### 'பி டி சார் எமக்கு மன நிறைவை அளித்தது'' -  ஹிப் ஹொப் தமிழா ஆதி
+### 'BT Sir gave us a fullness'' - Hip Hope Tamil Adi
 
 *2024-06-07 11:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/185509) · `ta`
 
-''பி டி சார் படத்தின் வெற்றியை விட, இந்த திரைப்படம் எமக்கு மனதளவில் மிகப்பெரிய திருப்தியையும், மன நிறைவையும் அளித்துள்ளது'' என இப்படத்தின் நாயகனும், இசையமைப்பாளருமான ஹிப் ஹொப் தமிழா ஆதி தெரிவித்திருக்கிறார்.
+"BT Sir," directed by Karthik Venugopalan, focuses on sexual exploitation in schools, featuring Hip Hop Tamil Adi among others. It aims to raise awareness and has been both commercially and critically successful, grossing over Rs. in its first twelve days. The team expresses gratitude towards the media, fans, and the production crew for their support.
 
-இயக்குநர் கார்த்திக் வேணுகோபாலன் இயக்கத்தில் உருவாகி கடந்த மாதம் 24 ஆம் திகதியன்று உலகம் முழுவதும் பட மாளிகையில் வெளியான திரைப்படம் 'பி டி சார்'. இதில் ஹிப் ஹொப் தமிழா ஆதி, கஷ்மிரா பர்தேசி, பிரபு, கே. பாக்யராஜ், பாண்டியராஜன், தியாகராஜன், ‌இளவரசு, அனிகா சுரேந்திரன், தேவதர்ஷினி, பட்டிமன்றம் ராஜா உள்ளிட்ட பலர் நடித்திருந்தனர். பாடசாலை வளாகத்தில் மாணவிகளுக்கு நிகழ்த்தப்படும் பாலியல் சுரண்டலை மையப்படுத்தியும்,  இதற்கு உரிய விழிப்புணர்வை ஏற்படுத்தும் வகையிலும் இந்தத் திரைப்படம் தயாராகி இருந்தது.‌ இந்தத் திரைப்படம் வணிக ரீதியாகவும், விமர்சன ரீதியாகவும் வெற்றியை பெற்றிருக்கிறது. படமாளிகையில் வெளியான பன்னிரண்டு நாட்களில் இந்திய மதிப்பில் பன்னிரண்டு கோடி ரூபாயை இந்த திரைப்படம் வசூலித்திருப்பதாக திரையுலக வணிகர்கள் தெரிவித்திருக்கிறார்கள்.
+🟩
+
+The film's hero and composer Hip Hope Adi said, "The film has given us great satisfaction and mind than the success of the film."
+
+Directed by director Karthik Venugopalan on the 24th of last month, the movie 'PD Sir' was released at the film House worldwide on the 24th of last month.. This includes Hip Hop Tamil Adi, Kashmira Bardesi, Prabhu, K. Bhagyaraj, Pandiyarajan, Thiagarajan, Ilavarasu, Anika Surendran, Devadarshini, Patti Sabha Raja and many others were present.. The film is ready to focus on sexual exploitation and raise awareness for students on the school premises. The film has been a commercial and critically successful.. In the twelve days of the film, the film industry has reported that the film has grossed over Rs.
+
+This was followed by the success of the film 'BT Sir' in Chennai. During this time, the film crew shared the cake in the presence of journalists and shared the joy.
 
 ...
 
 [Data](articles/4af2f946.json)
 
+[Extended Data](ext_articles/4af2f946.ext.json)
+
 ---
 
-### பெண் பொலிஸ் கான்ஸ்டபிளின் பணப்பையை திருடிய தம்பதியினர் கைது!
+### Couple arrested for stealing wallets of woman police constable
 
 *2024-06-07 11:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/185497) · `ta`
 
-குடும்ப தகராறு தொடர்பாக முறைப்பாடு செய்வதற்காக பொலிஸ் நிலையத்துக்குச் சென்ற தம்பதியினர் பெண் பொலிஸ் கான்ஸ்டபிள் ஒருவரின் பணப்பையை திருடிய சம்பவம் தொடர்பில் கைது செய்யப்பட்டுள்ளதாக  பொலிஸார் தெரிவித்துள்ளனர்.
+A couple was arrested after reporting a family dispute at a police station, where they allegedly stole a wallet from a female police officer. The incident occurred at the Vaduvu Police Station, involving the duo who were lodging a complaint about another woman.
 
-வாதுவ குரே மாவத்தையில் வசிக்கும் கணவன், மனைவி இருவரே கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+🟩
 
-இவர்கள் இருவரும் முறைப்பாடு ஒன்றை பதிவு செய்யவதற்காக வாதுவ பொலிஸ் நிலையத்தின் முறைப்பாடுகள் பிரிவிற்கு சென்றுள்ளனர்.
+Police have arrested a woman who went to the police station to lodge a family dispute over a woman who had been stolen by a police constable.
 
-இதன்போது, இவர்கள் இருவரும் சிறுவர் மற்றும் பெண்கள் பணியகத்தின் மேசையின் இழுப்பறையிலிருந்த பெண் பொலிஸ் கான்ஸ்டபிள் ஒருவரின் பணப்பையை திருடிச் சென்றுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+Police have arrested two husband and wife who live in Vaduvu Kure Mawatha.
+
+The two have gone to the Vaduvu Police Station's complaints to register a complaint.
+
+Police said the two men had stolen the wallet of a woman and a woman who had been on a disposal of the Children's and Women's Bureau's desk.
 
 ◼️
 
 [Data](articles/6d184723.json)
 
+[Extended Data](ext_articles/6d184723.ext.json)
+
 ---
 
-### பாடசாலை மாணவிகளுக்கு இலவசமாக  சுகாதார துவாய்களை வழங்கும் திட்டம் ஆரம்பமானது
+### The program has begun to provide free health boots to school students
 
 *2024-06-07 10:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/185503) · `ta`
 
-பாடசாலை மாணவிகளுக்கு இலவசமாக சுகாதார துவாய்களை (சானிட்டரி நாப்கின்) வழங்கும் வேலைத்திட்டம் நாவல ஜனாதிபதி மகளிர் கல்லூரியில் வியாழக்கிழமை (06) ஆரம்பிக்கப்பட்டது.
+A program offering free sanitary napkins to schoolchildren was launched at Nawala Presidential Women's College, funded by a Rs 100 crore allocation. The Ministry of Education will distribute vouchers for health products, starting from June 2024.
 
-இந்த திட்டத்திற்கு 100 கோடி ரூபாய் நிதி ஒதுக்கப்பட்டுள்ளதாக கல்வி அமைச்சர் சுசில் பிரேமஜயந்த தெரிவித்தார்.
+🟩
 
-வவுச்சர்களை பாடசாலைகள் ஊடாக வழங்குவதற்கு தேவையான நடவடிக்கைகளை கல்வி அமைச்சு ஏற்கனவே ஏற்பாடு செய்துள்ளது.
+A program for providing free sanitary napkin for school children (Sanitary Napkin) was launched on Thursday (06) at the Nawala Presidential Women's College.
 
-இத்திட்டத்தின் கீழ்,  2024ஆம் ஆண்டு ஜூன் மாதம் முதல் 06 மாதங்களுக்கு சுகாதார துவாய்களை வாங்குவதற்கான வவுச்சர்களை வழங்க கல்வி அமைச்சு நடவடிக்கை எடுத்துள்ளது.
+Education Minister Susil Premajayantha said that Rs 100 crore has been allocated for the project.
+
+The Ministry of Education has already organized the necessary steps to provide vouchers through schools.
+
+Under the scheme, the Ministry of Education has taken steps to provide vouchers for the purchase of health bodies for the six months from June 2024.
 
 ◼️
 
 [Data](articles/3e50f19d.json)
+
+[Extended Data](ext_articles/3e50f19d.ext.json)
 
 ---
 
@@ -178,29 +210,47 @@ Also, he said he had to use his personal funds to pay salaries to the staff invo
 
 ---
 
-### 'மக்கள் செல்வன்' விஜய் சேதுபதியை 'மகாராஜா' காப்பாற்றுவாரா...?
+### Will 'People Selvan' Vijay Sethupathi 'Maharaja' save ...?
 
 *2024-06-07 10:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/185502) · `ta`
 
-'மக்கள் செல்வன்' விஜய் சேதுபதி நடிப்பில் தயாராகி இருக்கும் 'மகாராஜா' எனும் திரைப்படம் இம்மாதம் 14 ஆம் திகதியன்று உலகம் முழுவதும் படமாளிகையில் தமிழ், தெலுங்கு, மலையாளம், கன்னடம் ஆகிய மொழிகளில் வெளியாகிறது என படக்குழுவினர் பிரத்யேக புகைப்படத்தை வெளியிட்டு உற்சாகத்துடன் தெரிவித்திருக்கிறார்கள்.
+"Maharaja," starring Vijay Sethupathi, set for release in Tamil, Telugu, Malayalam, and Kannada worldwide on April 14th, features a star-studded cast including Anurag Kashyap and Bharathiraja. Directed by Dinesh Purushothaman, it's produced by Jagadish Palanisamy and Sudan Sundaram. Despite the success of its trailer viewed by over six million, "Mary Christmas" didn't perform well commercially. Maharaja aims to break this trend, expected to be a significant hit, justifying Vijay Sethupathi's high market value."
+
+🟩
+
+The film 'Maharaja', which is starring in 'Nam Selvan' starring 'Nam Selvan', will be released in Tamil, Telugu, Malayalam and Kannada in the world on the 14th of this month.
+
+Vijay Sethupathi, Bollywood actor Anurag Kashyap, 'Virumandi' Abirami, 'Bharathiraja'Divyaparathi, Natti alias Natraj, Lion Tiger, Arul Das, Manikandan, Vinod Sagar, B. L. Many people including Thenappan. Dinesh Purushothaman has recorded the cinematography by B.. Ajanis Lokanath has composed the music. The film was co -produced by producers Jagadish Palanisamy and Sudan Sundaram on behalf of Fesan Studios and The Root.
+
+The preview of the film has been released by more than six million viewers within a short period of time.. In this case, the film will be released on the 14th of this month in the filmmaker, so that Vijay Sethupathi's fans are excited.
 
 ...
 
 [Data](articles/29a0961e.json)
 
+[Extended Data](ext_articles/29a0961e.ext.json)
+
 ---
 
-### நடிகர் ஷேன் நிகாம் நடிக்கும் 'மெட்ராஸ்காரன்' படத்தின் படப்பிடிப்பு நிறைவு
+### The shooting of 'Madraskaran' starring actor Shane Nikam
 
 *2024-06-07 10:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/185498) · `ta`
 
-மலையாளத் திரையுலகின் முன்னணி இளம் நட்சத்திர நடிகரான ஷேன் நிகாம் தமிழில் கதையின் நாயகனாக அறிமுகமாகும் 'மெட்ராஸ்காரன்' எனும் திரைப்படத்தின் படப்பிடிப்பு முழுமையாக நிறைவடைந்தது என படக் குழுவினர் பிரத்யேக காணொளியை இணையத்தில் வெளியிட்டிருக்கிறார்கள்.
+"Madraskaran" shooting wrapped; directed by Wali Mohan Das, stars Shane Nikam, Kalairasan, Niharika Konitela, Aishwarya Dutta, Karunas, Pandiyarajan. Post-production begins soon, followed by the release of the first look and teaser.
 
-'ரங்கோலி' எனும் திரைப்படத்தை இயக்கிய இயக்குநர் வாலி மோகன் தாஸ் இயக்கத்தில் உருவாகி இருக்கும் 'மெட்ராஸ்காரன்' எனும் திரைப்படத்தில் ஷேன் நிகாம், கலையரசன், நிஹாரிகா கொனிடேலா, ஐஸ்வர்யா தத்தா, கருணாஸ், பாண்டியராஜன் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். பிரசன்னா எஸ். குமார் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு சாம் சி. எஸ். இசையமைத்திருக்கிறார் இந்த திரைப்படத்தை எஸ் ஆர் புரொடக்ஷன்ஸ் பட நிறுவனம் சார்பில் தயாரிப்பாளர் பி. ஜெகதீஷ் தயாரித்திருக்கிறார்.
+🟩
 
-...
+The film crew has released a special video on the Internet that the shooting of the film 'Madraskaran' has been completed.
+
+Directed by director Wali Mohan Das, directed by director Wali Mohan Das, Shane Nikam, Kalairasan, Niharika Konitela, Aishwarya Dutta, Karunas, Pandiyarajan. Prasanna S. Sam C for this film, which has been recorded by Kumar. S.. The film has been composed by SR Productions Film Company. Produced by Jagadish.
+
+The film crew has released a special video that the shooting of the film has been completely completed.. The film crew has said that the post -shooting work will begin soon, followed by the first look and teaser of the film.
+
+◼️
 
 [Data](articles/f157f574.json)
+
+[Extended Data](ext_articles/f157f574.ext.json)
 
 ---
 
@@ -245,6 +295,24 @@ In 2020, Kangana's comments during a one -year competition of farmers across the
 [Data](articles/fbba2f50.json)
 
 [Extended Data](ext_articles/fbba2f50.ext.json)
+
+---
+
+### අඩි 200 ක් ප්‍රපාතයකට වැටුනත් ඔවුන් බේරුනේ එනිසයි
+
+*2024-06-07 10:35:38* · [`adalk`](https://www.ada.lk/breaking_news/අඩි-200-ක්-ප්‍රපාතයකට-වැටුනත්-ඔවුන්-බේරුනේ-එනිසයි/11-410069) · `si`
+
+එකම පවුලේ පිරිසක් ගමන් ගත් මොටර් රථයක් මාර්ගයෙන් ඉවතට පැන අඩි 200 ක් ප්‍රපාතයෙන් පිහිටි කාසල්රි ජලාශය අසලට පෙරලිමෙන් එම මොටර් රථයේ ගමන් ගත් එක් කාන්තාවක් තුවාල ලබා දික්ඔය මුලික රෝහල වෙත ඇතුලත් කර ඇති බව නොර්වුඩ් පොලිසිය පැවසිය.
+
+මෙම අනතුර සිදු වි ඇත්තේ (06) දින පස්වරු 5.30 ට පමණ හැටන් මස්කෙලිය ප්‍රධාන මාර්ගයේ නොර්වුඩ් නිව්වැලිගම ප්‍රදේශයේදිය.
+
+මස්කෙලිය ප්‍රදේශයේ අවමංගල උත්සවයකට සහභාගි වි ආපසු කොළඹ ග්‍රැන්ඩ්පාස් ප්‍රදේශය දක්වා ධාවනය කරමින් තිබු මොටර් රථය ප්‍රතිවිරුද්ධ දිශාවෙන් ඉදිරියට පැමිණි බස් රථයකට ඉඩ ලබාදිමට යාමේදි මොටර් රථය මාර්ගයෙන් ඉවතට පැන ප්‍රපාතයට පෙරලි මෙම අනතුර සිදු වි ඇති බවයි නොර්වුඩ් පොලිසිය කියා සිටියේ.
+
+මොටර් රථය අනතුරට පත් වන අවස්තාවේ මොටර් රථය තුල කුඩා ළමයෙකු ඇතුළු සිව්දෙනෙකු ගමන් කර ඇති බවත්, එම සිව්දෙනාම වාහනයේ ආරක්ෂක බද පටි පැළද සිටි නිසා අනතුරෙන් එක් අයෙකුට පමණක් සුළු තුවාල සිදු වි ඇති බවයි පොලිසිය කියා සිටියේ.
+
+◼️
+
+[Data](articles/e2e7868a.json)
 
 ---
 
@@ -2103,25 +2171,5 @@ A fully automatic electric maternity bed and other equipment were donated to the
 [Data](articles/72e73a3f.json)
 
 [Extended Data](ext_articles/72e73a3f.ext.json)
-
----
-
-### President raises concerns over assault on 4-year-old child
-
-*2024-06-06 20:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/President-raises-concerns-over-assault-on-4-year-old-child/108-284291) · `en`
-
-June 06, (Daily Mirror) -  In response to the beating of a 4-year-old girl that has shocked the nation, President Ranil Wickremesinghe issued a statement on X, underscoring the urgent need for action to ensure the safety and well-being of children.
-
-The President emphasized that while the judicial system will address the perpetrators of this brutal act, the immediate priority must be the protection and support of the child involved.
-
-“The brutal beating of a 4-year-old girl has rightly horrified the country. While the judicial process will address the perpetrators, we must prioritise the child’s well-being, which will require swift and decisive action from state officials,” the President wrote.
-
-He highlighted the lasting impact of such trauma, stressing the importance of understanding and raising awareness about the severe, long-term effects of abuse on children’s mental and physical health.
-
-...
-
-[Data](articles/d29f7c29.json)
-
-[Extended Data](ext_articles/d29f7c29.ext.json)
 
 ---

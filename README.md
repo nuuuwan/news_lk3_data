@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-07 08:14:17**
+As of **2024-06-07 08:01:13**
 
 ## Newspaper Stats
 
-*Scraped **28,986** Articles*
+*Scraped **28,984** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,98 +17,52 @@ economynextcom | 1,655
 dailyftlk | 1,730
 adalk | 2,474
 adaderanalk | 3,281
-tamilmirrorlk | 3,404
+tamilmirrorlk | 3,403
 virakesarilk | 4,445
 dailymirrorlk | 4,604
-adaderanasinhalalk | 4,646
+adaderanasinhalalk | 4,645
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,984 (100.0%) of 28,986 articles have been extended.
+28,982 (100.0%) of 28,984 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-07 (Friday)
 
-### පුතාගේ ආරවුලට මැදිවූ පියා මරුට
-
-*2024-06-07 07:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197482) · `si`
-
-දෙපාර්ශ්වයක් අතර ආරවුලක් දුරදිග ගොස් තියුණු ආයුධයකින් සිදුකළ පමරදීමක් හේතුවෙන් පුද්ගලයෙකු ජීවිතක්ෂයට පත්වී තිබේ.
-
-හෙට්ටිපොල පොලිස් වසමේ පිහිබිය රත්මලේ ප්‍රදේශයේ ඊයේ (06) සවස් කාලයේදී මෙම ගැටුම හටගෙන ඇත.
-
-සැකකරු මියගිය පුද්ගලයාගේ වැඩිමහල් සහෝදරයාගේ පුතා වන අතර මියගිය පුද්ගලයාගේ පුතා සහ සැකකරු අතර ඇතිවූ ආරවුලක් මත මෙම ඝාතනය සිදුකර ඇති බවට මූලික විමර්ශනවලදී අනාවරණය වී තිබේ.
-
-◼️
-
-[Data](articles/148b0f12.json)
-
----
-
-### ஜனாதிபதியின் அரசியல் அலுவலகம் திறந்து வைப்பு
-
-*2024-06-07 07:47:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியின்-அரசியல்-அலுவலகம்-திறந்து-வைப்பு/175-338577) · `ta`
-
-ஜனாதிபதி ரணில் விக்கிரமசிங்க நேற்று தனது அரசியல் அலுவலகத்தை கொழும்பில் திறந்து வைத்தார்.
-
-புதிய அலுவலகமானது, கொழும்பு சேர் எர்னஸ்ட் டி சில்வா மாவத்தையில் அமைக்கப்பட்டுள்ளதுடன், எதிர்கால அரசியல் நடவடிக்கைகள் இந்த அலுவலகத்தின் ஊடாக முன்னெடுக்கப்படவுள்ளதாக ஜனாதிபதி ஊடகப் பிரிவு தெரிவித்துள்ளது.
-
-ஜனாதிபதியின் அரசியல் அலுவலகத்தை நிறுவுவதற்கான ஆரம்ப நடவடிக்கைகள் ஐக்கிய தேசியக் கட்சியின் தவிசாளரும், பாராளுமன்ற உறுப்பினருமான வஜிர அபேவர்தனவின் தலைமையில் முன்னெடுக்கப்பட்டது. (a)
-
-◼️
-
-[Data](articles/95a399cd.json)
-
----
-
-### Woman assassinated abroad and killed a woman
+### විදෙස්ගතව සිට මෙරටට පැමිණි කාන්තාවක් ඝාතනය කරයි
 
 *2024-06-07 07:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197481) · `si`
 
-A lone woman living abroad was murdered yesterday by another lonely woman in her home in the Mawathagama police division, using a sharp object.
+විදේශ රටක සිට මෙරටට පැමිණ තනිව ජීවත්වූ කාන්තාවක් ඊයේ (06) රාත්‍රියේ ඝාතනය කර තිබේ.
 
-🟩
-
-A woman who lived alone in a foreign country was killed by a lonely woman yesterday (06).
-
-Police said the murder had been attacked with a sharp object in a house in the Mawathagama police division.
+පොලීසිය සඳහන් කළේ මාවතගම පොලිස් වසමේ පිලැස්ස ප්‍රදේශයේ නිවසක් තුළදී තියුණු ආයුධයකින් පහරදී මෙම ඝාතනය සිදුකර ඇති බවය.
 
 ◼️
 
 [Data](articles/2bcd5af4.json)
 
-[Extended Data](ext_articles/2bcd5af4.ext.json)
-
 ---
 
-### Railway strike begins
+### දුම්රිය වර්ජනය ඇරඹෙයි
 
 *2024-06-07 07:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197480) · `si`
 
-Railway engine drivers began a strike from midnight, protesting issues like recruitment. The strike, involving only two drivers initially, aims to halt power sets but won't affect other operations. Despite initial plans to cancel all trains today, the situation remains fluid, with 84 drivers potentially involved in future promotions. This action wasn't endorsed by the Executive Committee, and the Presidential Secretary will address the boycott.
+ඉල්ලීම් කිහිපයක් මුල් කරගනිමින් දුම්රිය එන්ජින් රියදුරන් ඊයේ (06) මධ්‍යම රාත්‍රියේ සිට වැඩවර්ජනයක් ආරම්භ කර තිබේ.
 
-🟩
+දෙවන පෙළ උසස් වීම් ලබාදීම ප්‍රමාද වීම, බඳවා ගැනීම් ප්‍රමාද වීම ඇතුළු ගැටලු කිහිපයක් මුල් කරගනිමින් ඔවුන් මෙම වෘත්තීය ක්‍රියාමාර්ගයට අවතීර්ණ වී ඇති බව සඳහන් ය.
 
-Railway engine drivers have launched a strike from midnight yesterday (06).
+දුම්රිය ධාවනාගාර 5න් ධාවනාගාර දෙකක රියදුරන් පමණක් මෙම වර්ජනයට එක්වී සිටින අතර මේ හේතුවෙන් බලවේග කට්ටල දුම්රිය ධාවනය සිදුනොවන බව ලොකොමොටිව් ඔපරේටින් ඉංජිනේරු සංගමයේ ලේකම් එස්.ආර්.සී.එම් සේනානායක මහතා පැවසීය.
 
-The delay in the second texts promotions states that they have entered this trade union action based on several issues including recruitment.
+වර්ජනය හේතුවෙන් උදෑසන ධාවනය වන කාර්යාල දුම්රියවලට වැඩි බලපෑමක් එල්ල නොවුන ද අද පස්වරුවේ ධාවනය වන සියලු දුම්රිය අවලංගු වීමට ඉඩ ඇති බවද එස්.ආර්.සී.එම් සේනානායක මහතා වැඩිදුරටත් සදහන් කළේය.
 
-The Lockmomottive Ordinary Association Secretary SRCM Senanayake said that the two train drivers are only working on the strike, which will not run the power sets.
+කෙසේවෙතත් දුම්රිය රියදුරන් 84 දෙනෙකුගේ උසස් වීම් ගැටලු මුල් කරගනිමින් එම රියදුරන් පමණක් මෙම වෘත්තීය ක්‍රියාමාර්ගයේ නිරත වන බව අද දෙරණ වෙත වාර්තා විය.
 
-The strike has not been affected due to the strike, the SRCM Senanayake added that although all the trains will be canceled this afternoon.
-
-However, Ada Derana reports that the drivers were involved in the promotion based on the promotions of 84 train drivers.
-
-The trade union action was not a decision by the Executive Committee of the Locom of the Association of Association and the Presidential Secretary's Secretary will take the boycott.
-
-◼️
+...
 
 [Data](articles/985f6e30.json)
-
-[Extended Data](ext_articles/985f6e30.ext.json)
 
 ---
 
@@ -1998,11 +1952,9 @@ The target requires 12 billion dollars of investments which the government canno
 
 Sri Lanka’s main opposition Samagi Jana Balawegaya said the renewable plants are being awarded without competitive tenders.
 
-RELATEDSri Lanka legislators slam 49 renewables plants without tender, Adani deal
-
 There were also criticisms that the Minister gets too much powers and the regulator’s independence is undermined.
 
-However, Wijesekera said the the Minister needed powers to implement policy.
+However, Minister Wijesekera said the the Minister needed powers to implement policy.
 
 Opposition legislator Kabir Hashim said a minister was only a caretaker of a public asset and cannot behave like the head of a private company. (Colombo/June06/2024)
 
@@ -2181,5 +2133,47 @@ The Electricity Board Reorganization Bill is mentioned that arrangements for ind
 [Data](articles/a821bb73.json)
 
 [Extended Data](ext_articles/a821bb73.ext.json)
+
+---
+
+### Sri Lanka’s People’s Bank ‘A’ (lka) rating confirmed, bad loans reduce: Fitch
+
+*2024-06-06 17:10:00* · [`economynextcom`](https://economynext.com/sri-lankas-peoples-bank-a-lka-rating-confirmed-bad-loans-reduce-fitch-166651/) · `en`
+
+ECONOMYNEXT – Fitch Ratings has confirmed an ‘A(lka)’ rating of state-run People’s Bank, saying the economic environment has stabilized, bad loans has reduced, but it has large exposures to the government and a public utility.
+
+However, Peoples’ Bank only had a small exposure to defaulted sovereign dollar bonds.
+
+“PB’s large exposure – estimated at around 60 percent of assets – to the sovereign’s fragile credit profile continues to weigh on the bank’s risk profile assessment,” Fitch said.
+
+“This includes credit extended to a state-owned entity that has been transferred to the government since end-2022 and its modest holding of defaulted sovereign bonds (1 percent of assets), which are presently under restructuring negotiations.
+
+“These exposures have made the bank vulnerable to the sovereign’s repayment capacity and liquidity position.”
+
+...
+
+[Data](articles/32074598.json)
+
+[Extended Data](ext_articles/32074598.ext.json)
+
+---
+
+### Balangoda Kassapa Olders arrested
+
+*2024-06-06 17:10:00* · [`adalk`](https://www.ada.lk/breaking_news/බලංගොඩ-කස්සප-හිමියන්-අත්අඩංගුවට/11-410056) · `si`
+
+Talangama Kassapa Thero, leading a hunger strike against protestors, was arrested by the Talangama Police.
+
+🟩
+
+The Talangama Kassapa Thero, who was engaged in a hunger strike against the protestor against the protestor against the protestor, was arrested by the Talangama Police today (06).
+
+He was arrested by the Talangama Police and the Talangama Police received the fast.
+
+◼️
+
+[Data](articles/c6ad7f18.json)
+
+[Extended Data](ext_articles/c6ad7f18.ext.json)
 
 ---

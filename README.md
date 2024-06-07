@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-07 08:01:13**
+As of **2024-06-07 08:22:03**
 
 ## Newspaper Stats
 
-*Scraped **28,984** Articles*
+*Scraped **28,987** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,54 +15,112 @@ newsfirstlk | 363
 islandlk | 1,565
 economynextcom | 1,655
 dailyftlk | 1,730
-adalk | 2,474
+adalk | 2,475
 adaderanalk | 3,281
-tamilmirrorlk | 3,403
+tamilmirrorlk | 3,404
 virakesarilk | 4,445
 dailymirrorlk | 4,604
-adaderanasinhalalk | 4,645
+adaderanasinhalalk | 4,646
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,982 (100.0%) of 28,984 articles have been extended.
+28,986 (100.0%) of 28,987 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-07 (Friday)
 
-### විදෙස්ගතව සිට මෙරටට පැමිණි කාන්තාවක් ඝාතනය කරයි
+### Father killed in son's dispute
+
+*2024-06-07 07:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197482) · `si`
+
+In a tragic incident, a man was killed in a dispute involving a sharp weapon in the Ratmalai area of Hettipola. The suspect is his own son, indicating a family conflict led to the fatal clash.
+
+🟩
+
+A person has died due to a clash with a sharp weapon with a sharp weapon.
+
+The clash broke out in the evening of the Ratmalai area in Hettipola yesterday (06).
+
+The suspect is the son of the deceased person, and preferences have revealed that the murder had been carried out on a dispute between the son of the deceased.
+
+◼️
+
+[Data](articles/148b0f12.json)
+
+[Extended Data](ext_articles/148b0f12.ext.json)
+
+---
+
+### Deposit of the President's Political Office
+
+*2024-06-07 07:47:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியின்-அரசியல்-அலுவலகம்-திறந்து-வைப்பு/175-338577) · `ta`
+
+President Ranil Wickremesinghe inaugurated his political office in Colombo, located at Sir Ernest de Silva Mawatha. The office, established under UNP leadership, will serve as the hub for his future political activities.
+
+🟩
+
+President Ranil Wickremesinghe inaugurated his political office in Colombo yesterday.
+
+The new office is set up in Sir Ernest de Silva Mawatha, Colombo and future political activities will be carried out through the office, the Presidential Media Unit said.
+
+The initial measures to establish the president's political office were carried out under the leadership of the United National Party (UNP) and Member of Parliament Vajira Abeywardena.. (A)
+
+◼️
+
+[Data](articles/95a399cd.json)
+
+[Extended Data](ext_articles/95a399cd.ext.json)
+
+---
+
+### Woman assassinated abroad and killed a woman
 
 *2024-06-07 07:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197481) · `si`
 
-විදේශ රටක සිට මෙරටට පැමිණ තනිව ජීවත්වූ කාන්තාවක් ඊයේ (06) රාත්‍රියේ ඝාතනය කර තිබේ.
+A lone woman living abroad was murdered yesterday by another lonely woman in her home in the Mawathagama police division, using a sharp object.
 
-පොලීසිය සඳහන් කළේ මාවතගම පොලිස් වසමේ පිලැස්ස ප්‍රදේශයේ නිවසක් තුළදී තියුණු ආයුධයකින් පහරදී මෙම ඝාතනය සිදුකර ඇති බවය.
+🟩
+
+A woman who lived alone in a foreign country was killed by a lonely woman yesterday (06).
+
+Police said the murder had been attacked with a sharp object in a house in the Mawathagama police division.
 
 ◼️
 
 [Data](articles/2bcd5af4.json)
 
+[Extended Data](ext_articles/2bcd5af4.ext.json)
+
 ---
 
-### දුම්රිය වර්ජනය ඇරඹෙයි
+### Railway strike begins
 
 *2024-06-07 07:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197480) · `si`
 
-ඉල්ලීම් කිහිපයක් මුල් කරගනිමින් දුම්රිය එන්ජින් රියදුරන් ඊයේ (06) මධ්‍යම රාත්‍රියේ සිට වැඩවර්ජනයක් ආරම්භ කර තිබේ.
+Railway engine drivers began a strike from midnight, protesting issues like recruitment. The strike, involving only two drivers initially, aims to halt power sets but won't affect other operations. Despite initial plans to cancel all trains today, the situation remains fluid, with 84 drivers potentially involved in future promotions. This action wasn't endorsed by the Executive Committee, and the Presidential Secretary will address the boycott.
 
-දෙවන පෙළ උසස් වීම් ලබාදීම ප්‍රමාද වීම, බඳවා ගැනීම් ප්‍රමාද වීම ඇතුළු ගැටලු කිහිපයක් මුල් කරගනිමින් ඔවුන් මෙම වෘත්තීය ක්‍රියාමාර්ගයට අවතීර්ණ වී ඇති බව සඳහන් ය.
+🟩
 
-දුම්රිය ධාවනාගාර 5න් ධාවනාගාර දෙකක රියදුරන් පමණක් මෙම වර්ජනයට එක්වී සිටින අතර මේ හේතුවෙන් බලවේග කට්ටල දුම්රිය ධාවනය සිදුනොවන බව ලොකොමොටිව් ඔපරේටින් ඉංජිනේරු සංගමයේ ලේකම් එස්.ආර්.සී.එම් සේනානායක මහතා පැවසීය.
+Railway engine drivers have launched a strike from midnight yesterday (06).
 
-වර්ජනය හේතුවෙන් උදෑසන ධාවනය වන කාර්යාල දුම්රියවලට වැඩි බලපෑමක් එල්ල නොවුන ද අද පස්වරුවේ ධාවනය වන සියලු දුම්රිය අවලංගු වීමට ඉඩ ඇති බවද එස්.ආර්.සී.එම් සේනානායක මහතා වැඩිදුරටත් සදහන් කළේය.
+The delay in the second texts promotions states that they have entered this trade union action based on several issues including recruitment.
 
-කෙසේවෙතත් දුම්රිය රියදුරන් 84 දෙනෙකුගේ උසස් වීම් ගැටලු මුල් කරගනිමින් එම රියදුරන් පමණක් මෙම වෘත්තීය ක්‍රියාමාර්ගයේ නිරත වන බව අද දෙරණ වෙත වාර්තා විය.
+The Lockmomottive Ordinary Association Secretary SRCM Senanayake said that the two train drivers are only working on the strike, which will not run the power sets.
 
-...
+The strike has not been affected due to the strike, the SRCM Senanayake added that although all the trains will be canceled this afternoon.
+
+However, Ada Derana reports that the drivers were involved in the promotion based on the promotions of 84 train drivers.
+
+The trade union action was not a decision by the Executive Committee of the Locom of the Association of Association and the Presidential Secretary's Secretary will take the boycott.
+
+◼️
 
 [Data](articles/985f6e30.json)
+
+[Extended Data](ext_articles/985f6e30.ext.json)
 
 ---
 
@@ -1450,6 +1508,22 @@ The association states that the prospect had to be taken to take place in severa
 
 ---
 
+### පැමිණිල්ලක් දාන්න ඇවිත් පොලිසියේ තිබූ මුදල් පසුම්බිය සොරාගෙන ගිය අඹුසැම් අත්අඩංගුවට
+
+*2024-06-06 19:14:47* · [`adalk`](https://www.ada.lk/breaking_news/පැමිණිල්ලක්-දාන්න-ඇවිත්-පොලිසියේ-තිබූ-මුදල්-පසුම්බිය-සොරාගෙන-ගිය-අඹුසැම්-අත්අඩංගුවට/11-410063) · `si`
+
+පවුල් ආරවුලක් සම්බන්ධයෙන්  පැමිණිල්ලක් දැමීමට පොලිසියේ ලාච්චුවක තිබූ කාන්තා කොස්තාපල් වරියකට අයත් මුදල් පසුම්බිය සොරාගෙන ගිය අඹුසැම් යුවලක් අත්අඩංගුවට ගත්බව පොලිසිය පවසයි. මෙසේ අත්අඩංගුවට ගෙන ඇත්තේ වාද්දුව කුරේ මාවතේ පදිංචි අඹුසැමි යුවලක් බව පොලිසිය කීය.
+
+අඹුසැම් යුවල අද (06) පස්වරුවේ පැමිණිල්ලක් සටහන් කිරීම සදහා වාද්දුව පොලිසියේ විවිධ පැමිණිලි අංශයට පැමිණ සිට ඇති අතර, ඊට යාබදව පිහිටි ළමා හා කාන්තා කාර්යාංශයේ මේස ලාච්චුවක තිබූ කාන්තා කොස්තාපල් දුලීකා යන නිලධාරිනියට අයත් මුදල් පසුම්බිය සොරාගෙන ගොස් ඇති බව පොලිසිය කීය.
+
+ජේෂ්ඨ පොලිස් අධිකාරී චමිල් රත්නායක, කමල් ජයනිත්ති යන මහත්වරුන්ගේ උපදෙස් පරිදි ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක චාම්න්ද්‍ර කුමාර මහතා ගේ ප්‍රධානත්වයෙන් පරීක්ෂණ පවත්වති .
+
+◼️
+
+[Data](articles/1b6cc56c.json)
+
+---
+
 ### The railway strike from midnight
 
 *2024-06-06 19:09:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நள்ளிரவு-முதல்-ரயில்வே-வேலைநிறுத்தம்/175-338555) · `ta`
@@ -1952,9 +2026,11 @@ The target requires 12 billion dollars of investments which the government canno
 
 Sri Lanka’s main opposition Samagi Jana Balawegaya said the renewable plants are being awarded without competitive tenders.
 
+RELATEDSri Lanka legislators slam 49 renewables plants without tender, Adani deal
+
 There were also criticisms that the Minister gets too much powers and the regulator’s independence is undermined.
 
-However, Minister Wijesekera said the the Minister needed powers to implement policy.
+However, Wijesekera said the the Minister needed powers to implement policy.
 
 Opposition legislator Kabir Hashim said a minister was only a caretaker of a public asset and cannot behave like the head of a private company. (Colombo/June06/2024)
 
@@ -2107,73 +2183,5 @@ Opposition Leader of the Point Pedro and Udupitti constituencies will present sm
 [Data](articles/8fdbebfa.json)
 
 [Extended Data](ext_articles/8fdbebfa.ext.json)
-
----
-
-### Electricity Reorganization Bill: Mutual difference between court and reporting of the Department
-
-*2024-06-06 17:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/185462) · `ta`
-
-The Supreme Court and the Department of Supervisory Committee have differing views on the Electricity Board Reorganization Bill. The Department emphasizes thorough investigation, citing past misuse of power by ministers. The bill aims to establish independence, monitoring, and service distribution for companies, with the minister having authority over appointments. Concerns about potential misuse of this power exist, especially in light of the current financial situation affecting the Electricity Board's operations.
-
-🟩
-
-There are mutual differences between the Supreme Court on the Electricity Board Reorganization Bill and the report presented by the Department of Department of Department of Department of Supervisory Committee.
-
-The Department of Department of Supervisor, the Department of Supervisor, said that the law should be investigated in detail.
-
-He was speaking at a debate on the Electricity Board Reorganization Bill held in Parliament on Thursday (06).
-
-The Minister of Power and Electricity notes that the Electricity Board has been in talks for the past two years. The main allegation is that it may be in talks, but not in detail with industry experts.
-
-The Electricity Board Reorganization Bill is mentioned that arrangements for independence, monitoring and service distribution of companies include.. After the bill was enacted, the authority to appoint leaders and directors to 12 companies established has been given to the Minister in charge of the matter.
-
-...
-
-[Data](articles/a821bb73.json)
-
-[Extended Data](ext_articles/a821bb73.ext.json)
-
----
-
-### Sri Lanka’s People’s Bank ‘A’ (lka) rating confirmed, bad loans reduce: Fitch
-
-*2024-06-06 17:10:00* · [`economynextcom`](https://economynext.com/sri-lankas-peoples-bank-a-lka-rating-confirmed-bad-loans-reduce-fitch-166651/) · `en`
-
-ECONOMYNEXT – Fitch Ratings has confirmed an ‘A(lka)’ rating of state-run People’s Bank, saying the economic environment has stabilized, bad loans has reduced, but it has large exposures to the government and a public utility.
-
-However, Peoples’ Bank only had a small exposure to defaulted sovereign dollar bonds.
-
-“PB’s large exposure – estimated at around 60 percent of assets – to the sovereign’s fragile credit profile continues to weigh on the bank’s risk profile assessment,” Fitch said.
-
-“This includes credit extended to a state-owned entity that has been transferred to the government since end-2022 and its modest holding of defaulted sovereign bonds (1 percent of assets), which are presently under restructuring negotiations.
-
-“These exposures have made the bank vulnerable to the sovereign’s repayment capacity and liquidity position.”
-
-...
-
-[Data](articles/32074598.json)
-
-[Extended Data](ext_articles/32074598.ext.json)
-
----
-
-### Balangoda Kassapa Olders arrested
-
-*2024-06-06 17:10:00* · [`adalk`](https://www.ada.lk/breaking_news/බලංගොඩ-කස්සප-හිමියන්-අත්අඩංගුවට/11-410056) · `si`
-
-Talangama Kassapa Thero, leading a hunger strike against protestors, was arrested by the Talangama Police.
-
-🟩
-
-The Talangama Kassapa Thero, who was engaged in a hunger strike against the protestor against the protestor against the protestor, was arrested by the Talangama Police today (06).
-
-He was arrested by the Talangama Police and the Talangama Police received the fast.
-
-◼️
-
-[Data](articles/c6ad7f18.json)
-
-[Extended Data](ext_articles/c6ad7f18.ext.json)
 
 ---

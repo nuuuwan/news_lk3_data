@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-08 01:19:40**
+As of **2024-06-08 01:34:26**
 
 ## Newspaper Stats
 
-*Scraped **29,155** Articles*
+*Scraped **29,156** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 1,669
 dailyftlk | 1,754
 adalk | 2,484
 adaderanalk | 3,298
-tamilmirrorlk | 3,420
+tamilmirrorlk | 3,421
 virakesarilk | 4,473
 dailymirrorlk | 4,632
 adaderanasinhalalk | 4,672
@@ -26,11 +26,29 @@ adaderanasinhalalk | 4,672
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,131 (99.9%) of 29,155 articles have been extended.
+29,142 (100.0%) of 29,156 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-08 (Saturday)
+
+### ’ஏற்றுமதிச் சந்தையை வெல்லக்கூடிய உற்பத்திகளில் கவனம்’
+
+*2024-06-08 01:12:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஏற்றுமதிச்-சந்தையை-வெல்லக்கூடிய-உற்பத்திகளில்-கவனம்/175-338609) · `ta`
+
+நெல் உற்பத்திக்கு முன்னுரிமை அளித்து போட்டிமிக்க ஏற்றுமதிச் சந்தையை வெற்றிகொள்ளக்கூடிய உற்பத்திப் பொருள்களில் அதிக கவனம் செலுத்தி 2030 ஆம் ஆண்டளவில் நவீன தொழில்நுட்பத்தைப் பயன்படுத்தி போட்டி விவசாயத்தை நோக்கிச் செல்ல வேண்டும் என ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+
+இல்லையெனில் எதிர்காலத்தை வெற்றிகொள்ள முடியாது என சுட்டிக்காட்டிய ஜனாதிபதி, ஏற்றுமதி சந்தையில் போட்டியை எதிர்கொள்ள முடியாத உற்பத்திகளை கைவிடுவதே சிறந்ததெனவும் சுட்டிக்காட்டினார்.
+
+ஜனாதிபதி அலுவலகத்தில் நேற்று முன்தினம் பிற்பகல் நடைபெற்ற விவசாய நவீனமயமாக்கல் வேலைத்திட்டத்தின் முன்னேற்ற மீளாய்வு கூட்டத்தின் போதே ஜனாதிபதி இவ்வாறு குறிப்பிட்டார்.
+
+நாடளாவிய ரீதியில் தெரிவு செய்யப்பட்ட 26 பிரதேச செயலகங்களில் நடைமுறைப்படுத்தப்பட்டுள்ள விவசாய நவீனமயமாக்கல் வேலைத்திட்டத்தின் கீழ், ஒவ்வொரு பிரதேச செயலகத்திற்கும் 25 மில்லியன் ரூபா ஒதுக்கீடு செய்யப்பட்டுள்ளதுடன், முன்னோடித் திட்டத்தின் தற்போதைய முன்னேற்றம் தொடர்பான அறிக்கையும் ஜனாதிபதி ரணில் விக்கிரமசிங்கவிடம் கையளிக்கப்பட்டது. (a)
+
+◼️
+
+[Data](articles/b9e9bc7f.json)
+
+---
 
 ### Prime Minister meets European Union delegation
 
@@ -45,6 +63,8 @@ When they said that there were rumours regarding the next election, the Prime Mi
 ...
 
 [Data](articles/544d9b33.json)
+
+[Extended Data](ext_articles/544d9b33.ext.json)
 
 ---
 
@@ -63,6 +83,8 @@ Semasinghe noted that the Bill also facilitates issuing guarantees, on-lending, 
 ◼️
 
 [Data](articles/43b62403.json)
+
+[Extended Data](ext_articles/43b62403.ext.json)
 
 ---
 
@@ -100,6 +122,8 @@ At the invitation of the Government of Pakistan as a State Guest, Minister of Bu
 
 [Data](articles/4958910f.json)
 
+[Extended Data](ext_articles/4958910f.ext.json)
+
 ---
 
 ### High Commissioner of New Zealand presents credentials to Sri Lanka
@@ -111,6 +135,8 @@ The Government of New Zealand with the concurrence of the Government of Sri Lank
 ◼️
 
 [Data](articles/cd32f7e5.json)
+
+[Extended Data](ext_articles/cd32f7e5.ext.json)
 
 ---
 
@@ -124,6 +150,8 @@ The Government of the Hellenic Republic (Greece) with the concurrence of the Gov
 
 [Data](articles/956e8111.json)
 
+[Extended Data](ext_articles/956e8111.ext.json)
+
 ---
 
 ### High Commissioner of Maldives presents credentials to Sri Lanka
@@ -135,6 +163,8 @@ The Government of the Republic of Maldives with the concurrence of the Governmen
 ◼️
 
 [Data](articles/d4991616.json)
+
+[Extended Data](ext_articles/d4991616.ext.json)
 
 ---
 
@@ -154,6 +184,8 @@ The guest list included over 15 MPs of the House of Representatives and the Sena
 
 [Data](articles/eab4516f.json)
 
+[Extended Data](ext_articles/eab4516f.ext.json)
+
 ---
 
 ### Ambassador-designate of Sri Lanka to Myanmar assumes duties
@@ -170,6 +202,8 @@ Ambassador-designate Ponnamperuma is a career Foreign Service Officer with more 
 
 [Data](articles/cf1beeec.json)
 
+[Extended Data](ext_articles/cf1beeec.ext.json)
+
 ---
 
 ### Sri Lanka represented at 21st IISS Shangri-La Dialogue 2024 in Singapore
@@ -183,6 +217,8 @@ The Dialogue brings together defence ministers, military chiefs, and high-rankin
 ...
 
 [Data](articles/3b961fe3.json)
+
+[Extended Data](ext_articles/3b961fe3.ext.json)
 
 ---
 
@@ -238,6 +274,8 @@ One fact remains as an acceptable analogy; which is, those who cannot cope with 
 
 [Data](articles/4fed792a.json)
 
+[Extended Data](ext_articles/4fed792a.ext.json)
+
 ---
 
 ### Understanding Sinhala Buddhism: Lessons from the recent past
@@ -251,6 +289,8 @@ Sri Lankan Buddhists are spoiled for choice these days. Depending on where your 
 ...
 
 [Data](articles/4021bf87.json)
+
+[Extended Data](ext_articles/4021bf87.ext.json)
 
 ---
 
@@ -2071,25 +2111,5 @@ More than 239,000 persons have been displaced, he said.
 [Data](articles/69fc0707.json)
 
 [Extended Data](ext_articles/69fc0707.ext.json)
-
----
-
-### Some MPs harassing us due to our stand on VFS issue: Harin, Harsha
-
-*2024-06-07 13:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Some-MPs-harassing-us-due-to-our-stand-on-VFS-issue-Harin-Harsha/108-284342) · `en`
-
-Parliament, June 07 (Daily Mirror) The issue pertaining to obtaining the services of VFS Global for the process of granting Sri Lankan visas to foreigners has taken a new turn with Minister Harin Fernando and MP Harsha de Silva complaining that some MPs have told them not to oppose the project and not to probe the scam.
-
-“An MP has said that I have become silent on the VFS Global issue after accepting a bribe. This is not true. I have not become silent. I am opposing it continuously,” Minister Fernando told Parliament.
-
-“I challenged this move in the Cabinet and was able to get some of the visa fees reduced. However, I had to carry out my duty of maintaining the collective responsibility,” he said.
-
-Leader of the Opposition Sajith Premadasa who also joined the crosstalk in the House said Dr. de Silva has been subjected to death threats by some MPs if he continues to probe the visa issue.
-
-...
-
-[Data](articles/f02d501e.json)
-
-[Extended Data](ext_articles/f02d501e.ext.json)
 
 ---

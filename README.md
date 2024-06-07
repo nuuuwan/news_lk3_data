@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-07 21:34:34**
+As of **2024-06-07 21:53:34**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 4,671
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,107 (100.0%) of 29,108 articles have been extended.
+29,108 (100.0%) of 29,108 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-07 (Friday)
 
-### ශවේන්ද්‍ර ට සේවා දිගුවක්
+### Shavendra has a service extension
 
 *2024-06-07 21:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197508) · `si`
 
-ජෙනරාල් ශවේන්ද්‍ර සිල්වා මහතා ව ආරක්ෂක මාණ්ඩලික ප්‍රධානි ධුරයට නැවත වතාවක් පත්කර තිබේ.
+General Shavendra Silva, approved by the President, becomes Chief of Staff from Dec 1, 2024, to Jun 31, 2025, after gazette notification.
 
-ජනාධිපතිවරයාගේ අනුමැතිය මත අදාළ පත්කිරීම සිදුකර ඇති අතර එයට අදාළ ගැසට් නිවේදනය මේ වනවිට නිකුත් කර ඇත.
+🟩
 
-ඒ අනුව ජූනි මස 1 වන දා සිට 2024 දෙසැම්බර් 31 වනදා දක්වා එම පත්කිරීම වලංගු වේ.
+General Shavendra Silva has been appointed as the Chief of Staff.
+
+The appointment has been made on the approval of the President and the gazette notification has been issued.
+
+Accordingly, the appointment will be valid from 1 December 2024 to 31st June.
 
 ◼️
 
 [Data](articles/5214b26e.json)
+
+[Extended Data](ext_articles/5214b26e.ext.json)
 
 ---
 

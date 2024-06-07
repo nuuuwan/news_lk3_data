@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-07 11:04:47**
+As of **2024-06-07 11:19:06**
 
 ## Newspaper Stats
 
-*Scraped **29,015** Articles*
+*Scraped **29,017** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 islandlk | 1,565
 economynextcom | 1,655
 dailyftlk | 1,730
-adalk | 2,477
+adalk | 2,478
 adaderanalk | 3,284
-tamilmirrorlk | 3,409
+tamilmirrorlk | 3,410
 virakesarilk | 4,448
 dailymirrorlk | 4,612
 adaderanasinhalalk | 4,651
@@ -26,29 +26,57 @@ adaderanasinhalalk | 4,651
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,011 (100.0%) of 29,015 articles have been extended.
+29,015 (100.0%) of 29,017 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-07 (Friday)
 
-### T20 ලෝක කුසලානයේ ශ්‍රී ලංකාවට වෙච්ච දේ ගැන කරුණු විමසයි
+### வனராஜா விபத்தில் மூவர் படுகாயம்
+
+*2024-06-07 10:57:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/வனராஜா-விபத்தில்-மூவர்-படுகாயம்/76-338583) · `ta`
+
+ஹட்டன்-  வனராஜா கல்பள்ளி பகுதியில் கார் கவிழ்ந்ததில் மூன்றரை வயது குழந்தை உட்பட ஒரே குடும்பத்தைச் சேர்ந்த மூவர் காயமடைந்து டிக்கோயா கிளங்கன் மாவட்ட ஆரம்ப வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+
+சாமிமலை பகுதியில்  மரண வீடொன்றுக்கு வந்த குழுவினர் கொழும்பு நோக்கி திரும்பிக் கொண்டிருந்த போது, ​​கார் வீதியை விட்டு விலகி வனராஜா கல்பள்ளிய பிரதேசத்தில் கவிழ்ந்து விபத்துக்கு உள்ளானது.
+
+கார் கவிழ்ந்ததில் மூன்றரை வயது குழந்தை உட்பட மூவர் காயமடைந்ததாகவும், காயமடைந்தவர்கள் டிக்கோயா- கிளங்கன் மாவட்ட பொது வைத்தியசாலையில் அனுமதிக்கப்பட்டனர்.
+
+​​காயமடைந்தவர்களின் நிலைமை கவலைக்கிடமாக இல்லை எனவும், காயமடைந்தவர்கள் தற்போது வைத்தியசாலையில்  சிகிச்சைப்பெற்று வருகின்றனர் எனவும் வைத்தியசாலை அதிகாரி ஒருவர் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/d220d337.json)
+
+---
+
+### Sri Lanka asks what happened in the World Cup
 
 *2024-06-07 10:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197487) · `si`
 
-T20 ලෝක කුසලානයේදී ශ්‍රී ලංකා කණ්ඩායම මුහුණ දුන් ගැටලු සම්බන්ධයෙන් මේ වනවිට කරුණු විමසා ඇති බව ක්‍රීඩා අමාත්‍ය හරීන් ප්‍රනාන්දු මහතා පැවසීය.
+Sri Lanka's sports minister, Harin Fernando, discussed the team's experience at the T20 World Cup, highlighting issues like delayed flights due to technology errors and complaints filed with the ICC. He also mentioned the ban on US Cricket participating in ICC tournaments. The opposition leader, Sajith Premadasa, called for standing against perceived ICC injustices.
 
-අද (07) පාර්ලිමේන්තුවේදී අදහස් දක්වමින් ඔහු වැඩිදුරටත් පැවසුවේ ශ්‍රී ලංකා ක්‍රිකට් කණ්ඩායම අපහසුතාවයට පත් නොවන අයුරින් කටයුතු සිදුකිරීම සඳහා ශ්‍රී ලංකා ක්‍රිකට් ආයතනයෙන් නියෝජිතයෙකු ද පත්කර අමෙරිකාව වෙත යවා තිබූ බවය.
+🟩
 
-"ශ්‍රී ලංකා කණ්ඩායම, අයර්ලන්ත කණ්ඩායම සහ දකුණු අප්‍රිකා කණ්ඩායම ගුවන්යානා තාක්ෂණික දෝෂයක් නිසා පැය 7ක් ගුවන්තොටුපොළේ අතරමංවීමක් සිදුවුණා. ශ්‍රී ලංකා ක්‍රිකට් ආයතනය මේ සම්බන්ධයෙන් ICCයට දැනටමත් පැමිණිල්ලක් ඉදිරිපත් කර තිබෙනවා."
+The Minister of Sports Harin Fernando said that the Sri Lankan team had faced at the T20 World Cup.
 
-"ඒකට හේතුව එක එක රටවලට එක එක විදියට තමයි සලකලා තියෙන්නේ. බංග්ලාදේශ කණ්ඩායම තමයි වැඩියෙන්ම සංචාරය කරන්නේ කිලෝමීටර් ගණන අනුව. දෙක ලංකාව."
+Speaking in Parliament today (07), he added that the Sri Lanka Cricket team had been sent to the United States to carry out the US.
 
-"අමෙරිකානු ක්‍රිකට් ආයතනයත් ICCයෙන් තහනම් වෙලා ඉන්නේ මේ වෙනකොට. එහෙම තියෙද්දි තමයි ICC මේ ක්‍රිකට් තරගාවලිය අමෙරිකාවේ පවත්වන්නේ."
+"Sri Lanka team, Irish group and South Africa's technological error occurred at the airport for seven hours. SLC has already lodged a complaint under the ICC. "
 
-...
+"Because it is only one of the countries. Bangladesh team is the most tour of the number of kilometers. Two Sri Lanka. "
+
+"US Cricket is forbidden by the ICC. That is the ICC cricket tournament in the United States. "
+
+"We told 3 more than 2 weeks ago.. Schedule a representative from SLC and make the team uncomfortable. Person has been appointed in this regard. He's gone there. But we have asked him about these problems. This will take action. "
+
+Meanwhile, Opposition Leader Sajith Premadasa said that we should stand against ICC injustices.
+
+◼️
 
 [Data](articles/49bc9a37.json)
+
+[Extended Data](ext_articles/49bc9a37.ext.json)
 
 ---
 
@@ -72,6 +100,8 @@ Also, he said he had to use his personal funds to pay salaries to the staff invo
 
 [Data](articles/27066ecb.json)
 
+[Extended Data](ext_articles/27066ecb.ext.json)
+
 ---
 
 ### Gender Equality Bill inconsistent with Constitution
@@ -84,27 +114,37 @@ Parliament, June 07 (Daily Mirror)- The Supreme Court observed that the Gender E
 
 [Data](articles/baf2e891.json)
 
+[Extended Data](ext_articles/baf2e891.ext.json)
+
 ---
 
-### கங்கனாவிக் கன்னத்தில் “பளார்’’... பெண் அதிகாரி பணி இடைநீக்கம்
+### Ganganavik cheek. The female officer's work suspended
 
 *2024-06-07 10:35:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/கங்கனாவிக்-கன்னத்தில்-பளார்-பெண்-அதிகாரி-பணி-இடைநீக்கம்/54-338582) · `ta`
 
-சண்டிகர் விமான நிலையத்தில் மண்டி மக்களவை உறுப்பினர் கங்கனா ரனாவத்தின் கன்னத்தில் அறைந்த குற்றச்சாட்டின்பேரில் மத்திய தொழில்துறை பாதுகாப்புப் படையின் பெண் காவலர் ஒருவர் பணி இடைநீக்கம் செய்யப்பட்டுள்ளார்.
+A female CISF guard was suspended for allegedly slapping actress Kangana Ranaut at Chandigarh Airport, sparking controversy. Kangana claimed the guard supported the farmer's protest and expressed concern over rising extremism in Punjab. This incident follows Kangana's previous comments on the farmers' agitation and her stance on misinformation regarding it.
 
-ஏ.என்.ஐ செய்தி முகமையின்படி, இந்த வழக்கை மேலும் விசாரிக்க சி.ஐ.எஸ்.எஃப் அதிகாரிகள் குழு அமைக்கப்பட்டுள்ளது.
+🟩
 
-தேசிய ஜனநாயகக் கூட்டணியின் கூட்டத்தில் பங்கேற்பதற்காக கங்கனா ரனாவத் டெல்லி வரவிருந்தபோது இந்தச் சம்பவம் நடந்துள்ளது.
+A female security guard of the Central Industrial Security Force has been suspended on charges of slapping Mandi Lok Sabha member Kangana Ranawan's cheek at Chandigarh Airport.
 
-“பாதுகாப்பு சோதனைக்குப் பிறகு நான் இரண்டாவது கேபின் வழியாகச் சென்றபோது சிஐஎஸ்எஃப் காவலராக இருந்த ஒரு பெண் என் முகத்தில் அறைந்தார்,” என்று அவர் குறிப்பிட்டுள்ளார்.
+According to the ANI news agency, a team of CISF officials has been set up to investigate the case.
 
-ஏன் இப்படிச் செய்தீர்கள் எனக் கேட்டதற்கு, தான் விவசாயிகள் இயக்கத்தை ஆதரிப்பதாக அந்தப் பெண் பதில் கூறியதாக கங்கனா தெரிவித்துள்ளார்.
+The incident took place when Kangana Ranawat arrived in Delhi to attend the National Democratic Alliance meeting.
 
-மேலும், “நான் பாதுகாப்பாக இருக்கிறேன். ஆனால் பஞ்சாபில் அதிகரித்து வரும் தீவிரவாதத்தை எப்படிச் சமாளிப்பது என்று கவலையாகவும் உள்ளேன்” என்றும் கங்கனா வீடியோவில் கூறியுள்ளார்.
+“When I went through the second cabin after a security test, a woman who was a CISF guard slapped my face," she said.
+
+Asked why she did this, Kangana said that the woman replied that she was supporting the peasant movement.
+
+Also, “I am safe. But I am also worried about how to deal with the growing extremism in Punjab, ”Kangana said in his video.
+
+In 2020, Kangana's comments during a one -year competition of farmers across the country against three new agricultural laws were controversial.
 
 ...
 
 [Data](articles/fbba2f50.json)
+
+[Extended Data](ext_articles/fbba2f50.ext.json)
 
 ---
 
@@ -2040,6 +2080,22 @@ The association states that the prospect had to be taken to take place in severa
 
 ---
 
+### කෙකේන් මත්ද්‍රව්‍ය කිලෝ 355ක් හෙට විනාශ කරයි
+
+*2024-06-06 19:31:25* · [`adalk`](https://www.ada.lk/breaking_news/කෙකේන්-මත්ද්‍රව්‍ය-කිලෝ-355ක්-හෙට-විනාශ-කරයි/11-410066) · `si`
+
+අධිකරණ කටයුතු අවසන් වූ  කොකේන් මත්ද්‍රව්‍ය කිලෝ 355යි ග්‍රෑම් 881ක් හෙට(08දා) විනාශ කර දැමීමට සැලසුම් කර තිබේ.  මෙම මත්ද්‍රව්‍ය තොගය 2022 මාර්තු 23දී අත්අඩංගුවට ගෙන ඇත.
+
+හෙට උදේ 10.00 මහජන ආරක්ෂක අමාත්‍ය ටිරන් අලස් මහතාගේ හා පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතාගේ සහභාගිත්වයෙන් පුත්තලම, වනාතවිල්ලුව ලැක්ටොස් වත්තේ පිහිටි අධිබලැති මත්ද්‍රව්‍ය විනාශ කිරිමේ උදුනේදී  මෙම මත් ද්‍රව්‍ය විනාශ කිරීමට සැලසුම් කර තිබේ.
+
+මෙම මත්ද්‍රව්‍ය තොගය හෙට උදෑසන 6.00ට කොළඹ මහාධිකරණයේදී මත්ද්‍රව්‍ය කාර්යාංශ  නිලධාරීන් විසින් භාර ගැනීමට නියමිතව ඇත.මත්ද්‍රව්‍යවලින් තොර සුරක්ෂිත දේශයක් නිර්මාණය කිරීම සඳහා පොලීසිය, පොලිස් මත්ද්‍රව්‍ය කාර්යාංශය, පොලිස් විශේෂකාර්ය බලකාය සහ නාවික හමුදව එක්ව වැටලීම් සිදුකරන අතර සමහර අත්අඩංගුවට ගැනීම් බුද්ධි අංශ විසින් ලබා දෙන තොරතුරු මත සිදුකරනු ලබයි
+
+◼️
+
+[Data](articles/a2071e02.json)
+
+---
+
 ### Estate workers' salaries increase. Extra cost of 48
 
 *2024-06-06 19:27:49* · [`adalk`](https://www.ada.lk/breaking_news/වතු-කම්කරු-වැටුප්-වැඩිකිරීමට-වසරකට-රු-බි--48ක-අමතර-පිරිවැයක්/11-410065) · `si`
@@ -2109,45 +2165,5 @@ SSP Chamil Ratnayake, Mr. Kamal Jayantha, Kamal Jayantha are conducting further 
 [Data](articles/1b6cc56c.json)
 
 [Extended Data](ext_articles/1b6cc56c.ext.json)
-
----
-
-### The railway strike from midnight
-
-*2024-06-06 19:09:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நள்ளிரவு-முதல்-ரயில்வே-வேலைநிறுத்தம்/175-338555) · `ta`
-
-Railway workers go on strike starting tonight due to unresolved issues like driver promotions and management failures to address concerns, leading to industrial action.
-
-🟩
-
-The railway strike will begin today (6th) to present various issues, including the delay in the promotion of railway drivers.
-
-The union further stated that the officials, including the Railway General Manager, failed to resolve the problems of the railway drivers, the union said that the industry had come to action.
-
-◼️
-
-[Data](articles/d9c50f79.json)
-
-[Extended Data](ext_articles/d9c50f79.ext.json)
-
----
-
-### Sri Lanka closes in on debt restructuring with bilateral lenders
-
-*2024-06-06 19:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/99715/sri-lanka-closes-in-on-debt-restructuring-with-bilateral-lenders) · `en`
-
-Sri Lanka and a group of creditors are in advanced talks over a deal aimed at restructuring the nation’s debt with bilateral lenders, according to people familiar with the matter.
-
-The government and members of the official creditor committee, which includes India, Hungary and the Paris Club, are exchanging draft versions of the accord, or memorandum of understanding, the people said, asking not to be identified as the talks are private.
-
-The documents are needed to finalize an agreement reached in November between the South Asian nation and the official creditor committee and hash out the few remaining issues before a deal is settled, one of the people said.
-
-The country’s notes due in November 2025 are trading at 59.6 cents on the dollar, while dollar-denominated bonds due in 2030 are trading around 58.6 cents on the dollar, continuing to recover after it failed to agree on a deal with bondholders back in April.
-
-...
-
-[Data](articles/91c6e05e.json)
-
-[Extended Data](ext_articles/91c6e05e.ext.json)
 
 ---

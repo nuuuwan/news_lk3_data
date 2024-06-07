@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-07 13:34:41**
+As of **2024-06-07 13:53:47**
 
 ## Newspaper Stats
 
-*Scraped **29,037** Articles*
+*Scraped **29,043** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 1,565
 economynextcom | 1,659
 dailyftlk | 1,730
 adalk | 2,479
-adaderanalk | 3,286
+adaderanalk | 3,287
 tamilmirrorlk | 3,413
-virakesarilk | 4,454
+virakesarilk | 4,459
 dailymirrorlk | 4,612
 adaderanasinhalalk | 4,655
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 4,655
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,033 (100.0%) of 29,037 articles have been extended.
+29,037 (100.0%) of 29,043 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-07 (Friday)
+
+### Sri Lanka lodges complaint with ICC over lengthy travel concerns during T20 World Cup
+
+*2024-06-07 13:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/99724/sri-lanka-lodges-complaint-with-icc-over-lengthy-travel-concerns-during-t20-world-cup) · `en`
+
+Minister of Sports Harin Fernando announced that a complaint has been lodged with the International Cricket Council (ICC) regarding the lengthy travel times and hardships the Sri Lankan team faced during the Group Stage matches of the 2024 T20 World Cup.
+
+Speaking in Parliament this morning (07), Fernando highlighted that a separate investigation will be conducted into the Sri Lanka Cricket (SLC) representative who traveled to the USA to address concerns about the team’s facilities.
+
+“The Sri Lanka, Ireland, and South Africa cricket teams were stranded at the airport for seven hours due to a technical error with their flight. Sri Lanka Cricket has filed a complaint with the ICC regarding the incident. Each country has been treated differently… The Bangladesh team has traveled the most in terms of kilometers, followed by Sri Lanka”, the Sports Minister expressed.
+
+...
+
+[Data](articles/ca67f5fe.json)
+
+---
 
 ### The new convener of the pouch Rohitha
 
@@ -53,6 +69,68 @@ Meanwhile, MP Gamini Lokuge said that Minister Wijeyadasa Rajapakse presented th
 [Data](articles/904f16b0.json)
 
 [Extended Data](ext_articles/904f16b0.ext.json)
+
+---
+
+### இன்றைய நாணய மாற்று விகிதம்
+
+*2024-06-07 12:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/185522) · `ta`
+
+இன்று வெள்ளிக்கிழமை (ஜூன் 07) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் விற்பனை விலை ரூபா 297.8373ஆகவும் கொள்வனவு விலை ரூபா 307.4417 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/0175c664.json)
+
+---
+
+### ரோயல் பார்க் கொலையாளி சிங்கப்பூரில் இருக்கலாம் என சந்தேகம் - நாட்டிற்கு கொண்டுவருவதற்கான நடவடிக்கைகள் ஆரம்பம்
+
+*2024-06-07 12:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/185521) · `ta`
+
+நீதிமன்றத்தின் தீர்ப்பை தொடர்ந்து ரோயல்பார்க் கொலையாளி டொன்சமந்த ஜூட் அன்டனி ஜெயமகவை வெளிநாட்டிலிருந்து  நாட்டிற்கு கொண்டுவருவதற்கான முயற்சிகளை அதிகாரிகள் ஆரம்பித்துள்ளனர்.
+
+எனினும் சிங்கப்பூருக்கும் இலங்கைக்கும் இடையில் நாடு கடத்தல் தொடர்பான உடன்படிக்கைகள் எதுவும் இல்லை என்பதால்  குற்றவாளியை இலங்கைக்கு கொண்டுவருவதற்கான நடவடிக்கைகளில் பின்னடைவு ஏற்படலாம்.
+
+இருநாடுகளுக்கும் இடையிலான இணக்கப்பாட்டின் அடிப்படையில் மாத்திரமே நாடு கடத்தல் தொடர்பான உடன்படிக்கை சாத்தியமாகும் ,இலங்கை வேறு பல நாடுகளுடன் இவ்வாறான உடன்படிக்கையில் கைச்சாத்திட்டுள்ளது.
+
+ரோயல்பார்க் கொலையாளி ஜெயமஹ 2019 நவம்பர் 15ம் திகதி இலங்கையிலிருந்து வெளியேறினார் என தெரிவித்துள்ள பொலிஸார் ஜனாதிபதி பொதுமன்னிப்பு நவம்பர் 13ம் திகதி வழங்கப்பட்டது அவர் உடனடியாக கடவுச்சீட்டை பெற்றுக்கொண்டார் எனவும் தெரிவித்துள்ளனர்.
+
+அவர் தற்போது வெளிநாட்டில் அனேகமாக சிங்கப்பூரில்  இருக்கலாம் என தெரிவித்துள்ள பொலிஸார் குற்றவாளியை   இலங்கைக்கு கொண்டுவருவதற்காக சர்வதேச உதவியை பெறமுயல்வதாக தெரிவித்துள்ளனர்.
+
+...
+
+[Data](articles/8496fa44.json)
+
+---
+
+### சாவகச்சேரி ஆதார வைத்தியசாலைக்கு இரத்த சுத்திகரிப்பு இயந்திரங்கள் கையளிப்பு!
+
+*2024-06-07 12:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/185517) · `ta`
+
+கனடா செந்தில்குமரன் நிவாரண நிறுவனத்தின் அனுசரணையில் 64 இலட்சம் ரூபாய் பெறுமதியான இரண்டு இரத்த சுத்திகரிப்பு இயந்திரங்கள் சாவகச்சேரி ஆதார வைத்தியசாலை நிர்வாகத்திடம் இன்று  வெள்ளிக்கிழமை (07) உத்தியோகபூர்வமாக கையளிக்கப்பட்டது.
+
+சாவகச்சேரி ஆதார வைத்தியசாலையின் முன்னாள் வைத்திய அத்தியட்சகர் எஸ்.குமரவேல் மற்றும் புதிய வைத்திய அத்தியட்சகர் வைத்தியர் த.காண்டீபன் ஆகியோர் தலைமையில் இடம்பெற்ற நிகழ்வில் பிரதம விருந்தினராக இலங்கைக்கான கனடா நாட்டின் உயர்ஸ்தானிகர் எரிக் வாஸ் கலந்து கொண்டு வைத்திய உதவிப் பொருட்களை கையளித்திருந்தார்.
+
+மேலும், நிகழ்வில் சிறப்பு விருந்தினர்களாக வடக்கு மாகாண சுகாதார சேவைகள் பணிப்பாளர் வைத்தியர் பத்திரன, யாழ் மாவட்ட சுகாதார சேவைகள் பணிப்பாளர் ஆ. கேதீஸ்வரன் ,செந்தில்குமரன் நிவாரண நிறுவன ஸ்தாபகர்.டி.செந்தில்குமரன், யாழ் பல்கலைக்கழக மருத்துவ பீடம் மற்றும் போதனா மருத்துவமனையின் ஆலோசகர் வைத்தியர் ஆ.தங்கராஜா ஆகியோர் கலந்து கொண்டனர்.
+
+...
+
+[Data](articles/6f4eb358.json)
+
+---
+
+### மாதவன்- சிவகார்த்திகேயன் இணைந்து வெளியிட்ட சித்தார்த்தின் 'மிஸ் யூ' பட ஃபர்ஸ்ட் லுக்
+
+*2024-06-07 12:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/185515) · `ta`
+
+நடிகை அதிதி ராவ் ஹயாத்ரியை திருமணம் செய்து கொண்ட பிறகு நடிகர் சித்தார்த் நடிப்பில் தயாராகும் புதிய திரைப்படத்திற்கு 'மிஸ் யூ' என பெயரிடப்பட்டு, அதன் ஃபர்ஸ்ட் லுக் வெளியிடப்பட்டிருக்கிறது. இதனை தமிழ் சினிமாவின் எவர்கிரீன் காதல் இளவரசர்களான மாதவன் மற்றும் சிவகார்த்திகேயன் இணைந்து அவர்களுடைய சமூக வலைதள பக்கத்தில் வெளியிட்டு, படக்குழுவினருக்கு வாழ்த்து தெரிவித்திருக்கின்றனர்.
+
+இயக்குநர் என். ராஜசேகர் இயக்கத்தில் உருவாகும் 'மிஸ் யூ' எனும் திரைப்படத்தில் சித்தார்த், ஆஷிகா ரங்கநாத், கருணாகரன், பால சரவணன், 'லொள்ளு சபா' மாறன், சஷ்டிகா ராஜேந்திரன் உள்ளிட்ட பலர் நடிக்கிறார்கள். கே. ஜி. வெங்கடேஷ் ஒளிப்பதிவு செய்யும் இந்த திரைப்படத்திற்கு ஜிப்ரான் வைபோதா இசையமைக்கிறார். காதலை மையப்படுத்தி தயாராகும் இந்த திரைப்படத்தை செவன் மைல்ஸ் பர் செகண்ட்ஸ் புரொடக்ஷன்ஸ் நிறுவனம் சார்பில் தயாரிப்பாளர் சாமுவேல் மாத்யூ தயாரிக்கிறார்.
+
+...
+
+[Data](articles/a187888c.json)
 
 ---
 
@@ -99,6 +177,20 @@ It also includes $ 5.5 billion worth not incurred from April 2022.
 [Data](articles/adf7a9b5.json)
 
 [Extended Data](ext_articles/adf7a9b5.ext.json)
+
+---
+
+### விதார்த்துடன் இணையும் ஜனனி
+
+*2024-06-07 12:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/185512) · `ta`
+
+தமிழ் சினிமாவின் நம்பிக்கையான இளம் நட்சத்திர கலைஞர்களான விதார்த் - ஜனனி ஆகியோர் முதன்மையான கதாபாத்திரங்களில் நடிக்கும் பெயரிடப்படாத திரைப்படத்தின் தொடக்க விழா சென்னையில் சிறப்பாக நடைபெற்றது.
+
+இயக்குநர் கிருஷ்ணா குமார் இயக்கத்தில் உருவாகும் பெயரிடப்படாத திரைப்படத்தில் விதார்த், ஜனனி, எம். எஸ். பாஸ்கர், 'பருத்திவீரன்' சரவணன், பப்லு பிருத்விராஜ், நமீதா கிருஷ்ணமூர்த்தி, ஷாருக் ஹாசன், விகாஸ், மகா ஆகியோர் உள்ளிட்ட பலர் நடிக்கிறார்கள். பிரபு ஈ. ராகவ் ஒளிப்பதிவு செய்யும் இந்த திரைப்படத்திற்கு லால்குடி எம். ஹரிஹரன் இசையமைக்கிறார். ஹைப்பர் லிங்க் பாணியில் மூன்று கதை- ஒரு முடிவு என்ற கோணத்தில் உருவாகி இருக்கும் இந்த திரைப்படத்தை குவியம் ஸ்டுடியோஸ் நிறுவனம் சார்பில் இசையமைப்பாளர் லால்குடி எம். ஹரிஹரன் தயாரிக்கிறார்.
+
+...
+
+[Data](articles/81a5e492.json)
 
 ---
 
@@ -229,6 +321,8 @@ The workforce would also amount to about one man for 1.8 elephants.
 ...
 
 [Data](articles/1deaff33.json)
+
+[Extended Data](ext_articles/1deaff33.ext.json)
 
 ---
 
@@ -704,6 +798,8 @@ In equities, Colombo’s All Share Price Index gained 24.13 points to 12,334 and
 
 [Data](articles/83a442a5.json)
 
+[Extended Data](ext_articles/83a442a5.ext.json)
+
 ---
 
 ### Brutal murder
@@ -1032,6 +1128,8 @@ Sri Lanka has also made progress on restoring stability and meeting IMF targets.
 
 [Data](articles/02b5592d.json)
 
+[Extended Data](ext_articles/02b5592d.ext.json)
+
 ---
 
 ### Special attention on the development of the Northern Province
@@ -1139,6 +1237,8 @@ The Supreme Court in a decision has said that earlier projects can be continued 
 ...
 
 [Data](articles/a4f7b531.json)
+
+[Extended Data](ext_articles/a4f7b531.ext.json)
 
 ---
 
@@ -2127,121 +2227,5 @@ He also emphasized the critical importance of effectively managing the spread of
 [Data](articles/47ccc319.json)
 
 [Extended Data](ext_articles/47ccc319.ext.json)
-
----
-
-### Politics of paranoia
-
-*2024-06-06 22:31:19* · [`dailyftlk`](https://www.ft.lk/columns/Politics-of-paranoia/4-762720) · `en`
-
-The rise of NPP from the ashes of Aragalaya and led by a new generation of JVP leadership, which has distanced itself from that party’s insurrectionary past, and NPP’s tireless campaign to convince the voting public that Sri Lanka’s economic malaise is not an isolated phenomenon, but part of an overall systemic paralysis that had been sapping for decades the vitality of a once peaceful and prosperous nation, and that it cannot be rectified unless there is a radical transformation of its political culture, economic management and socio-cultural ethnonationalism has created an atmosphere of political paranoia amongst the old guards who are now driven to a state of panic looking for a way out to avoid confronting the NPP at the ballot box.
-
-It is that paranoia and panic which has provoked the General Secretary of UNP to call for the postponement of elections for two years. Although that call has drawn criticisms from several corners it did not come out of a vacuum.
-
-...
-
-[Data](articles/a802d819.json)
-
-[Extended Data](ext_articles/a802d819.ext.json)
-
----
-
-### SC orders Maithripala to pay Rs.1 M to petitioner
-
-*2024-06-06 22:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SC-orders-Maithripala-to-pay-Rs-1-M-to-petitioner/108-284294) · `en`
-
-June 06 (Daily Mirror) - The Supreme Court today ordered former President Maithripala Sirisena to pay Rs. 1 million to the petitioner in the Fundamental Rights petition filed challenging former President Sirisena's decision to grant a Presidential pardon to Royal Park murder convict Don Shamantha Jude Anthony Jayamaha.
-
-The Court held that the petitioner, Women & Media Collective organization should hold such money in trust and spend it for the purposes that are in the best interests of female victims of crime and this sum of money should be paid within one month of this judgement.
-
-In another landmark judgement pertaining to the scope of the pardon granted by the executive President, the Supreme Court yesterday ruled that former President Maithripala Sirisena's decision to grant a Presidential pardon to Royal Park murder convict Don Shamantha Jude Anthony Jayamaha is arbitrary and not valid in law.
-
-...
-
-[Data](articles/d812880a.json)
-
-[Extended Data](ext_articles/d812880a.ext.json)
-
----
-
-### Benevolent and compassionate leadership – need of the hour for Sri Lanka: Reply to Dr. Shantha Jayaratne
-
-*2024-06-06 22:19:44* · [`dailyftlk`](https://www.ft.lk/columns/Benevolent-and-compassionate-leadership-need-of-the-hour-for-Sri-Lanka-Reply-to-Dr-Shantha-Jayaratne/4-762719) · `en`
-
-‘Benevolent leaders’ are those who create visible benefits, actions or outcomes for the common good (Karakas, 2013), whereas Compassionate Leadership is the practice of using your head and heart to inspire and influence people to positively impact themselves, others, and the planet (Laurel Donnellan, 2024)
-
-I am responding to Dr. Shantha Jayarathne’s (hereafter referred to as Dr. SJ) article titled, “Sajith Premadasa’s leadership qualities: A critique”, dated 4 June 2024, in the Daily FT (https://www.ft.lk/opinion/Sajith-Premadasa-s-leadership-qualities-A-critique/14-762542#:~:text=Sajith%20Premadasa’s%20leadership%20is%20further,that%20border%20on%20vote%2Dbuying.).
-
-I have personally known Sajith Premadasa as an inspiring leader for more than a decade. He has demonstrated to the entire country as a benevolent and compassionate leader, for more than two decades, setting a high standard of public service.
-
-...
-
-[Data](articles/cc504215.json)
-
-[Extended Data](ext_articles/cc504215.ext.json)
-
----
-
-### Madignage-samie couple arrested in police station
-
-*2024-06-06 22:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197476) · `si`
-
-A police constable couple was arrested for stealing from another officer's wallet. They turned themselves in at Wadduwa police station.
-
-🟩
-
-The police say that a police constable couple had stolen a waller of a police constable for a family constable.
-
-The victim has been arrested in Wadduwa Kuru Mawatha.
-
-The two of them had come into the Wadduwa police station this afternoon, police said.
-
-◼️
-
-[Data](articles/23394ea7.json)
-
-[Extended Data](ext_articles/23394ea7.ext.json)
-
----
-
-### Anuradhapura sacred area declared a rabies-free zone
-
-*2024-06-06 22:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Anuradhapura-sacred-area-declared-a-rabies-free-zone/108-284293) · `en`
-
-Colombo, June 6 (Daily Mirror) - The Anuradhapura Municipal Commissioner declared the Anuradhapura sacred area as a rabies-free zone, assuring devotees that there is no need for concern, the Association of Veterinarians for Humane Management of Animal Population said.
-
-Municipal Commissioner Ruwan Wijesinghe said there is no danger of rabies within the Anuradhapura Municipal Council area due to the highly organized anti-rabies programmes over the last four years.
-
-He said that rabies vaccinations had been administered to stray dogs during World Rabies Day every year for four consecutive years, and more than 90% of the stray dogs have been operated on.
-
-As bringing animals from other areas into the city is still a problem, he requests the people to take care of the animals responsibly and not leave them stranded and helpless.
-
-It is further requested that the people in the areas bring the animals to the clinics organized by the Municipal Council and get rabies vaccinations administered.
-
-...
-
-[Data](articles/4b702dcf.json)
-
-[Extended Data](ext_articles/4b702dcf.ext.json)
-
----
-
-### Ranil Wickremesinghe as Independent candidate in presidential election
-
-*2024-06-06 21:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/185484) · `ta`
-
-Ranil Wickremesinghe, an independent candidate, announced his participation in the upcoming presidential election. This news was shared by President's advisor Professor Ashu Marasinghe during a press conference held at the President's new political office in Colombo on Thursday, 06th.
-
-🟩
-
-Ranil Wickremesinghe will contest the presidential election this time, said President's advisor Professor Ashu Marasinghe.
-
-He said this while addressing the President's new political office in Colombo on Thursday, 06th.
-
-◼️
-
-[Data](articles/c7226e38.json)
-
-[Extended Data](ext_articles/c7226e38.ext.json)
 
 ---

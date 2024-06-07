@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-07 10:19:06**
+As of **2024-06-07 10:34:34**
 
 ## Newspaper Stats
 
-*Scraped **29,004** Articles*
+*Scraped **29,009** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,40 @@ newsfirstlk | 363
 islandlk | 1,565
 economynextcom | 1,655
 dailyftlk | 1,730
-adalk | 2,476
+adalk | 2,477
 adaderanalk | 3,284
-tamilmirrorlk | 3,405
+tamilmirrorlk | 3,408
 virakesarilk | 4,448
-dailymirrorlk | 4,608
+dailymirrorlk | 4,609
 adaderanasinhalalk | 4,650
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,999 (100.0%) of 29,004 articles have been extended.
+29,004 (100.0%) of 29,009 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-07 (Friday)
+
+### Several trains may get delayed or cancelled during strike: Engineers’ Union
+
+*2024-06-07 10:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Several-trains-may-get-delayed-or-cancelled-during-strike-Engineers-Union/108-284330) · `en`
+
+Colombo, June 7 (Daily Mirror) zto the ongoing train strike, several powerset trains running from Colombo Fort railway station will not run this morning, the Locomotive Operating Engineers Union (LOEU) said.
+
+They said several train services may be cancelled or delayed.
+
+However, the trade union action was launched by the Railway Drivers' Union based on the promotion of 84 train drivers who had joined the service in 2015 and 2017. A section of these drivers have launched the strike today.
+
+Meanwhile, the president of the union said that this is not a decision taken by the executive committee of the union but a decision taken by the union secretary.
+
+◼️
+
+[Data](articles/62a0a67c.json)
+
+---
 
 ### Railway strike expected to disrupt train services
 
@@ -50,39 +68,109 @@ However, Ada Derana learns that only 84 locomotive drivers are engaged in this t
 
 [Data](articles/52ab6c64.json)
 
+[Extended Data](ext_articles/52ab6c64.ext.json)
+
 ---
 
-### ඩෙංගු අධි වසංගතයක් වීම වළක්වමු
+### Let's prevent dengue hygiene
 
 *2024-06-07 10:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197486) · `si`
 
-මාසයක කාලයක් තුළ ඩෙංගු රෝගීන්ගේ ඉහළ යාමක් අපේක්ෂා කළ හැකි බව ජාතික ඩෙංගු මර්දන ඒකකය පවසයි.
+Dengue cases surged recently, prompting calls for preventive measures from health officials. The National Dengue Control Unit urges action to avoid an epidemic, while the Health Entomology Officers' Association reports a halt to eradication programs. Despite this, the risk of dengue remains low due to flood mitigation efforts.
 
-ජාතික ඩෙංගු මර්දන ඒකකයේ අධ්‍යක්ෂ, විශේෂඥ වෛද්‍ය සුදත් සමරවීර මහතා සඳහන් කළේ මෙම කාලය තුළ ඩෙංගු මරණ 09ක් වාර්තා වී ඇති නමුත් අධි වසංගත තත්ත්වයක් දක්වා රෝග ව්‍යාප්තිය වර්ධනය වීම පාලනය කිරීමට අවශ්‍ය පියවර ගත යුතු බවය.
+🟩
 
-කෙසේවෙතත් දිවයිනට බලපා ඇති අයහපත් කාලගුණ තත්ත්වය හේතුවෙන් සංවිධානය කර තිබූ ඩෙංගු මර්දන වැඩසටහන් සියල්ල කල් දැමීමට සිදුවී ඇති බව සෞඛ්‍ය කීට විද්‍යා නිලධාරීන්ගේ සංගමයේ සභාපති නජිත් සුමණසේන මහතා සඳහන් කළේය.
+The National Dengue Control Unit said the increase in the increase in dengue patients in a month.
 
-ගංවතුර තත්ත්වයන් පහව ගියද පාචන රෝග සහ මී උණ රෝගය ඇති වීමේ අවදානම පවතින බවද මහජන සෞඛ්‍ය පරීක්ෂකවරුන්ගේ සංගමයේ සභාපති උපුල් රෝහණ මහතා පැවසීය.
+The Director of the National Dengue Control Unit, Specialist Dr. Sudath Samaraweera said that the necessary measures should be taken to control the development of dengue epidemic.
+
+However, the Chairman of the Health Entomology Officers' Association (SEC) stated that all dengue eradication programs have been deferred to the island.
+
+The President of the Public Health Inspectors Association Upul Rohana said that the risk of flooding was reduced due to floods and fever.
 
 ◼️
 
 [Data](articles/2a5bc75c.json)
 
+[Extended Data](ext_articles/2a5bc75c.ext.json)
+
 ---
 
-### மின் கட்டணம் குறைக்கப்பட்ட பின் 40 இலட்ச மின்பாவனையாளர்கள் பயனடைவார்கள் - மின்சாரத்துறை மற்றும் வலு சக்தி அமைச்சர்
+### சீரற்ற வானிலையால் 5587 வீடுகள் சேதம்
+
+*2024-06-07 10:00:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சீரற்ற-வானிலையால்-5587-வீடுகள்-சேதம்/175-338581) · `ta`
+
+1,973 பாதுகாப்பான மையங்களில் 7,639 பேர் தங்க வைக்கப்பட்டுள்ளதாக அனர்த்த முகாமைத்துவ நிலையம் தெரிவித்துள்ளது.
+
+இதேவேளை, சீரற்ற காலநிலை காரணமாக 63,413 குடும்பங்களைச் சேர்ந்த 239,006 பேர் பாதிக்கப்பட்டுள்ளதாகவும் குறிப்பிடப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/9a15f097.json)
+
+---
+
+### வெளிநாட்டிலிருந்து வந்த பெண் கொடூர கொலை
+
+*2024-06-07 09:41:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெளிநாட்டிலிருந்து-வந்த-பெண்-கொடூர-கொலை/175-338580) · `ta`
+
+வெளிநாடு ஒன்றிலிருந்து இலங்கைக்கு வந்து தனியாக வசித்து வந்த பெண் ஒருவர் நேற்று (06) இரவு படுகொலை செய்யப்பட்டுள்ளார்.
+
+மாவத்தகம பொலிஸ் பிரிவிற்குட்பட்ட பிலஸ்ஸ பகுதியிலுள்ள வீடொன்றில் குறித்த பெண் கூரிய ஆயுதத்தினால் தாக்கப்பட்டு கொலைச் செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+உயிரிழந்தவர் 62 வயதுடைய பெண் எனவும், சம்பவம் தொடர்பான மேலதிக விசாரணைகளை மேற்கொண்டு வருவதாகவும் பொலிஸார் குறிப்பிட்டுள்ளனர். R
+
+◼️
+
+[Data](articles/54aa6506.json)
+
+---
+
+### இன்றும் பல இடங்களில் மழை பெய்யும்
+
+*2024-06-07 09:35:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்றும்-பல-இடங்களில்-மழை-பெய்யும்/175-338579) · `ta`
+
+மேல், சப்ரகமுவ மற்றும் தென் மாகாணங்களிலும் கண்டி மற்றும் நுவரெலியா மாவட்டங்களிலும் அவ்வப்போது மழை பெய்யும் என எதிர்பார்க்கப்படுகின்றது.
+
+வடமேல், வடக்கு மற்றும் வடமத்திய மாகாணங்களில் பல தடவைகள் சிறிதளவில் மழை பெய்யும் என எதிர்பார்க்கப்படுகின்றது.
+
+கிழக்கு மற்றும் ஊவா மாகாணங்களில் சில இடங்களில் மாலையில் அல்லது இரவில் மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடிய சாத்தியம் காணப்படுகின்றது.
+
+வடக்கு, வடமத்திய மற்றும் வடமேல் மாகாணங்களிலும் ஹம்பாந்தோட்டை மாவட்டத்திலும் அவ்வப்போது மணித்தியாலத்துக்கு 40-50 கிலோ மீற்றர் வரையான வேகத்தில் பலத்த காற்று வீசக் கூடிய சாத்தியம் காணப்படுகின்றது.
+
+இடியுடன் கூடிய மழை பெய்யும் வேளைகளில் அப் பிரதேசங்களில் தற்காலிகமாக பலத்த காற்றும் வீசக்கூடும். மின்னல் தாக்கங்களினால் ஏற்படக்கூடிய பாதிப்புகளை குறைத்துக்கொள்ள தேவையான முன்னெச்சரிக்கை நடவடிக்கைகளை எடுத்துக் கொள்ளுமாறு பொதுமக்கள் அறிவுறுத்தப்படுகின்றார்கள். R
+
+◼️
+
+[Data](articles/186b7204.json)
+
+---
+
+### Once the electricity tariff is reduced, 40 lakhs of ministers will benefit - Minister of Electricity and Power
 
 *2024-06-07 09:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/185496) · `ta`
 
-மின் கட்டண திருத்தம் தொடர்பான யோசனையை இன்று அல்லது நாளை இலங்கை பொதுப்பயன்பாடுகள் ஆணைக்குழுவிடம் முன்வைப்போம். எதிர்வரும்  மாதம் முதலாம் திகதியில் இருந்து அமுலுக்கு வரும் வகையில் மின்கட்டணம் குறைக்கப்படும். 68 இலட்ச மின்பாவனையாளர்களில் 40 இலட்சம் மின்பாவனையாளர்கள் பயனடைவார்கள் என மின்சாரத்துறை மற்றும் வலுசக்தி அமைச்சர் காஞ்சன விஜேசேகர தெரிவித்தார்.
+The Minister of Electricity and Power announced plans to reduce electricity tariffs, benefiting approximately 400,000 consumers. This change, aimed at addressing rising costs, will take effect from the 1st of July, with adjustments including a reduction in the price per unit of electricity used between 30 minutes to 60 minutes. The proposal will be presented to the Sri Lanka Public Utilities Commission soon.
 
-பாராளுமன்றத்தில் வியாழக்கிழமை (06) இடம்பெற்ற மின்சார சபை மறுசீரமைப்பு சட்டமூலம் மீதான விவாதத்தில் உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+🟩
 
-மின்னுற்பத்திக்கான செலவுகளை ஈடு செய்யும் வகையில் மின்கட்டணம் திருத்தம் செய்யாமல் இருந்திருந்தால் மின்விநியோக கட்டமைப்பில் எழுந்த பிரச்சினைகளுக்கு இன்றும் தீர்வு கண்டிருக்க முடியாது.மின்கட்டணம் திருத்தம் தொடர்பான யோசனையை இன்று அல்லது நாளை இலங்கை பொதுப்பயன்பாடுகள் ஆணைக்குழுவிடம் முன்வைப்போம்.
+We will present the idea of ​​the electricity tariff correction to the Sri Lanka Public Use Commission today or tomorrow. The power supply will be reduced from the first day of the next month. The Minister of Power and Power and Energy Kanjana Wijesekera said that 40 lakhs of minorpanners will benefit from 68 lakhs.
+
+He was speaking at a debate on the Electricity Board Reorganization Bill held in Parliament on Thursday (06).
+
+If the power supply was not corrected to compensate for the cost of electricity, the problems of the power supply could not have been solved today.
+
+The policy on the correction of the power supply once in four months has been approved by the Cabinet. There is no need to refer to this.
+
+Accordingly, the power supply will be reduced from the 1st of July.. To reduce the 8-rupee Rs.
+
+Amendments will be made to reduce the 20 rupees for a unit of 30 -60 minbavanna, Rs.
 
 ...
 
 [Data](articles/6e662f01.json)
+
+[Extended Data](ext_articles/6e662f01.ext.json)
 
 ---
 
@@ -102,31 +190,43 @@ Parliament meets to discuss crucial issues affecting the nation.
 
 ---
 
-### இரு தரப்பினரிடையே ஏற்பட்ட முரண்பாட்டில்  கூரிய ஆயுதத்தால் தாக்கி நபரொருவர் கொலை !
+### A man killed by a sharp weapon in the conflict between the two sides!
 
 *2024-06-07 09:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/185492) · `ta`
 
-ஹெட்டிபொல பொலிஸ் பிரிவிற்குட்பட்ட  பிஹிம்பிய ரத்மல  பகுதியில் நேற்று வியாழக்கிழமை (06) மாலை இந்த சம்பவம் இடம்பெற்றுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+A man was fatally stabbed during a dispute between him and another individual in the Ratmala area of the Bihimbiya region under the Hettipola police division on Thursday evening. The investigation indicates it was a conflict between father and son.
 
-மேலும், சந்தேக நபர் உயிரிழந்தவரின் மூத்த சகோதரரின் மகன் எனவும் , உயிரிழந்தவரின் மகனுக்கும் சந்தேக நபருக்கும் இடையில் ஏற்பட்ட  முரண்பாட்டில் இந்த கொலை இடம்பெற்றுள்ளதாக விசாரணைகளில் தெரியவந்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+🟩
+
+The incident took place on Thursday evening (06) evening in the Ratmala area of ​​the Bihimbiya area of ​​the Hettipola police division, police said.
+
+Investigations have revealed that the murder had taken place in conflict between the son of the deceased and the suspect.
 
 ◼️
 
 [Data](articles/5af81472.json)
 
+[Extended Data](ext_articles/5af81472.ext.json)
+
 ---
 
-### ரயில் இயந்திர பொறியியலாளர்கள் சங்கம் பணிப்புறக்கணிப்பு ; பல ரயில் சேவைகள் இரத்து
+### Rail Mechanical Engineers Association Workplace;Cancels many train services
 
 *2024-06-07 09:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/185493) · `ta`
 
-இயந்திர பொறியியலாளர்கள் சங்கம் பணிப்புறக்கணிப்பில் ஈடுபட்டுள்ளமையினால் இன்று வெள்ளிக்கிழமை (07) காலை பல ரயில் சேவைகள் இரத்து செய்யப்பட்டுள்ளது.
+Due to a strike by the Mechanical Engineers Association over delays and issues affecting railway drivers, numerous train services were canceled today.
 
-ரயில்  இயந்திர சாரதிகளின் இரண்டாம் தர பதவி உயர்வுகள் தாமதம் மற்றும் பல பிரச்சினைகள் காரணமாக இந்த தொழிற்சங்க நடவடிக்கை ஆரம்பிக்கப்பட்டுள்ளதாக இயந்திர பொறியியலாளர்கள் சங்கம்  தெரிவித்துள்ளது.
+🟩
+
+Many train services have been canceled this morning (07) as the Mechanical Engineers Association is in the works.
+
+The trade union action has been launched due to delay and many issues of railway drivers.
 
 ◼️
 
 [Data](articles/af0ceb52.json)
+
+[Extended Data](ext_articles/af0ceb52.ext.json)
 
 ---
 
@@ -1804,6 +1904,24 @@ The association states that the prospect had to be taken to take place in severa
 
 ---
 
+### වතු කම්කරු වැටුප් වැඩිකිරීමට වසරකට රු.බි. 48ක අමතර පිරිවැයක්
+
+*2024-06-06 19:27:49* · [`adalk`](https://www.ada.lk/breaking_news/වතු-කම්කරු-වැටුප්-වැඩිකිරීමට-වසරකට-රු-බි--48ක-අමතර-පිරිවැයක්/11-410065) · `si`
+
+වතු කම්කරුවෙකුගේ දෛනික වැටුප රු. 1700.00 දක්වා වැඩි කිරීමට කම්කරු අමාත්‍යංශය විසින් නිකුත් කළ ගැසට් පත්‍රය අනුව තේ වතු සමාගම් 22කට වාර්ෂිකව රු. බිලියන 48 ක අමතර පිරිවැයක් දැරීමට සිදුවන බවට ඇස්තුමේන්තු කර ඇති බව එම වතු සමාගම් වල උසස් නිලධාරීහු පවසති.
+
+දැනට වතු කම්කරුවෙකුට දෛනිකව ගෙවනු ලබන රු 1000 වැටුපට සේවා නියුක්තිකයන්ගේ භාරකාර අරමුදල සහිතව රු 1150 ක් ගෙවීමට සිදු වී ඇති බවත්, නව වැටුප අනුව තේ වතු සමාගම්වලට 70% ක අමතර පිරිවැයක් දැරිමට සිදු වී ඇති බවත් එම නිලධාරිහු කියා සිටිති.
+
+රජය මගින් වැඩි කළ රු 1700 දෛනික වැටුපට සියලුම දීමනා සහිතව රු. 1900 ක පමණ මුදලක් ගෙවීමට සිදු වී ඇති බවත්, එම මුදල ජූලි මස සිට ගෙවීමට කටයුතු කරමින් සිටින බවත්, එම වැටුප් වැඩි කිරීම සියලුම තේ වතු සමාගම්වලට නොහැකි බවත් එම නිලධාරිහු කියති.
+
+ජූලි මස සිට එම වැටුප ගෙවීමට නම් ඩොලරයේ වටිනාකම තවදුරටත් ස්ථාවර තත්ත්වයේ පැවතිය යුතු බවත්, පවත්නා තත්ත්වය මත වතු කම්කරුවන්ට දිනකට වැටුප් දෙකකට වැඩ කිරීම, සති අන්ත නිවාඩු දින සහ පොහෝ දිනයන්වල ලබාදෙන වැඩ දින ගණන නතර කිරිමට සිදු වන බවද ඔවුහු පවසති.
+
+...
+
+[Data](articles/fc393328.json)
+
+---
+
 ### The first rally of Nimal street tomorrow
 
 *2024-06-06 19:22:53* · [`adalk`](https://www.ada.lk/breaking_news/නිමල්-පාර්ශ්වයේ-පළමු-රැළිය-හෙට/11-410064) · `si`
@@ -2021,133 +2139,5 @@ Nepal and Uganda have negotiated with the Special Investigation Department and s
 [Data](articles/696e222e.json)
 
 [Extended Data](ext_articles/696e222e.ext.json)
-
----
-
-### "Starlink" is approved by Sri Lanka
-
-*2024-06-06 18:55:13* · [`adalk`](https://www.ada.lk/technology/“Starlink”ආයතනයට-ලංකාවේ-අනුමැතිය/5-410062) · `si`
-
-Sri Lanka's Telecommunications Commission has preliminarily approved Starlink to offer satellite-based internet services nationwide. The process includes gathering public feedback before full implementation. Starlink aims to enhance internet access for education, research, and fisheries, potentially offering faster speeds than current fiber technology. The service, which could cost between $400-$600 setup plus $99 monthly, is expected to significantly impact the tech sector and connectivity across the country.
-
-🟩
-
-"Starlink", "Starlink", "Starlink", has given the basic approval of the Telecommunications Commission of Sri Lanka to provide Internet facilities online in Sri Lanka.
-
-The Ministry of Public Sports stated that the approval has been allocated to obtain public comments to obtain this Internet Service facility and then the Telecommunication Regulatory Commission will be implemented in Sri Lanka.
-
-Minister of Technology Kanaka Herath made these comments participating at a press conference held at the Presidential Media Center today (06).
-
-The public minister said that this can provide a fast internet service for education, research and fisheries.
-
-President Ranil Wickremesinghe recently participated in the top session of the 10th World Water Conference of the 10th World Water Conference in Indonesia and discussed the acceleration of applying for Sri Lanka with the "Starlink" network..
-
-...
-
-[Data](articles/dfca9c59.json)
-
-[Extended Data](ext_articles/dfca9c59.ext.json)
-
----
-
-### The Electricity Board Reorganization Bill is passed by 44 more votes
-
-*2024-06-06 18:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/185475) · `ta`
-
-Despite fierce opposition, the Electricity Board Reorganization Bill passed with 44 extra votes. Former President Mahinda Rajapakse supported the bill, which faced boycotts from several Tamil groups. The Supreme Court flagged constitutional issues with 54 clauses. Opposition members called for a two-day debate, but the ruling party denied this request. Ultimately, the bill received 103 votes in favor and 59 against, with 162 participants.
-
-🟩
-
-Amidst the fierce opposition of the opposition parties, the Electricity Board Reorganization Bill was passed by 44 additional votes.
-
-Former President Mahinda Rajapakse voted in favor of the Bill last week that the government should abandon the resolution of state institutions and give it responsibility for the new government.
-
-The referendum was boycotted by the Tamil National Alliance, the Tamil National People's Front and the Tamil People's Alliance.. Meanwhile, Sri Lanka Muslim Congress leader Rauf Hakeem, All Ceylon People's Congress leader Rishad Bathiudeen and National Congress leader Ataullah did not participate in the vote.
-
-The second reading of the Electricity Board Reorganization Bill was held on Thursday (6).
-
-With 54 arrangements in the Electricity Board Reorganization Bill, the Supreme Court has issued a consensus that most of them are contrary to the constitution.
-
-...
-
-[Data](articles/382a419a.json)
-
-[Extended Data](ext_articles/382a419a.ext.json)
-
----
-
-### Electricity Bill passed by more voting in Parliament
-
-*2024-06-06 18:26:27* · [`adalk`](https://www.ada.lk/breaking_news/විදුලිබල-පනත්-කෙටුම්පත-පාර්ලිමේන්තුවේදී-වැඩි-ඡන්දයෙන්-සම්මතයි/11-410061) · `si`
-
-The Sri Lanka Electricity Bill, aimed at implementing reforms, was debated and passed in Parliament with 44 votes in favor, despite opposition demands for an election and 59 votes against certain amendments. The bill successfully completed its third reading without a poll after incorporating suggested changes.
-
-🟩
-
-The Sri Lanka Electricity Bill was debated in parliament today (06), 44 votes were passed.
-
-The Opposition, the Opposition, the Opposition demanded an election at the end of the Bill of Bill, and 59 votes against it.
-
-The Bill of Pathoset joined the amendments and then passed the third reading was passed without a poll.
-
-The Bill, aimed at the implementation of the reforms to implement the reforms, was presented to Parliament on April 25, 2024.
-
-◼️
-
-[Data](articles/5c990cad.json)
-
-[Extended Data](ext_articles/5c990cad.ext.json)
-
----
-
-### Petitions against 2 bills are examined
-
-*2024-06-06 18:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197470) · `si`
-
-Today, several petitions against two government economic bills were filed with the Supreme Court. Petitioners include members of the Unmangerage Organization, Wimal Weerawansa, and others, as well as 17 other parties. They argue the bills were improperly brought under presidential authority.
-
-🟩
-
-The petitions were begun today (06) the Supreme Court today (06) asking the Economic Bill of the Government to a decision.
-
-These petitions are today. Thura Raja, A. H. M. D. The remains of Nawaz and Shiran Gunaratne will consider before the Supreme Court Bench.
-
-Members of the Unmangerage Organization, Wimal Weerawansa, Udaya Gammanpila, Geneya Gammanpila, Genee Gammanpila, Prof. Channa Jayarawana and Entreprenevive Dilith Jayaweera, Dr. G. Weerasinghe and Nimal Ranawaka have joined the petition.
-
-In addition, petitions have been submitted by 17 parties including the Frontline Socialist Party, the Frontline Socialist Party, the National Folk Force.
-
-The petitioners claim that the proposed bills have been brought under the President under the President under the President.
-
-◼️
-
-[Data](articles/b080d185.json)
-
-[Extended Data](ext_articles/b080d185.ext.json)
-
----
-
-### Petition's verdict on violating fundamental rights by conducting local government elections
-
-*2024-06-06 18:23:11* · [`adalk`](https://www.ada.lk/breaking_news/පළාත්-පාලන-මැතිවරණය-නොපැවැත්වීමෙන්-මූලික-අයිතිවාසිකම්-කඩකිරීම-ගැන-පෙත්සමේ-තීන්දුව-ඉදිරියේදී/11-410060) · `si`
-
-A top Supreme Court Bench ruled on petitions against the Elections Commission for allegedly violating fundamental rights through local government elections. The court, including CJ Jayantha Jayasuriya and others, named the commission and its members as respondents. The verdict awaits publication after considering petitions from various groups, including the People's Power and the CPA, regarding the violation of local government election rights.
-
-🟩
-
-The top five-member Supreme Court Bench, which has been completed by the people who have violated the exams that has been violated by the local government, announced the verdict today.
-
-CJ Jayantha Jayasuriya, Supreme Court Judge Vijith Malalgoda, Gamini Amarasekara, Miru Fernando and Yasantha Kodagoda.
-
-The Elections Commission and their members have been named as the respondents in the petitions filed by the people's power, the national folk force and the CPA.
-
-The Supreme Court is published in the future when the petitions filed by the political parties have been signed by the government's fundamental rights as they have violated the local government election by ignoring the local government elections.
-
-President's Counsel Upul Jayasuriya appeared for the National JNJel Hatch and the President's Counsel on behalf of the Attorney General for the Petitioner Samaga.
-
-◼️
-
-[Data](articles/cb6ebb73.json)
-
-[Extended Data](ext_articles/cb6ebb73.ext.json)
 
 ---

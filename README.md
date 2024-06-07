@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-08 01:34:26**
+As of **2024-06-08 01:52:52**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 4,672
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,142 (100.0%) of 29,156 articles have been extended.
+29,151 (100.0%) of 29,156 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-08 (Saturday)
 
-### ’ஏற்றுமதிச் சந்தையை வெல்லக்கூடிய உற்பத்திகளில் கவனம்’
+### Focus on products that can win the Export Market
 
 *2024-06-08 01:12:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஏற்றுமதிச்-சந்தையை-வெல்லக்கூடிய-உற்பத்திகளில்-கவனம்/175-338609) · `ta`
 
-நெல் உற்பத்திக்கு முன்னுரிமை அளித்து போட்டிமிக்க ஏற்றுமதிச் சந்தையை வெற்றிகொள்ளக்கூடிய உற்பத்திப் பொருள்களில் அதிக கவனம் செலுத்தி 2030 ஆம் ஆண்டளவில் நவீன தொழில்நுட்பத்தைப் பயன்படுத்தி போட்டி விவசாயத்தை நோக்கிச் செல்ல வேண்டும் என ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+By 2030, President Ranil Wickremesinghe emphasizes focusing on competitive export-oriented agriculture, particularly paddy production, to ensure future success. He suggests abandoning non-competitive products in the export market. This approach was discussed during an Agricultural Modernization Program review meeting, where improvements were reported from projects funded across 26 divisional secretariats nationwide.
 
-இல்லையெனில் எதிர்காலத்தை வெற்றிகொள்ள முடியாது என சுட்டிக்காட்டிய ஜனாதிபதி, ஏற்றுமதி சந்தையில் போட்டியை எதிர்கொள்ள முடியாத உற்பத்திகளை கைவிடுவதே சிறந்ததெனவும் சுட்டிக்காட்டினார்.
+🟩
 
-ஜனாதிபதி அலுவலகத்தில் நேற்று முன்தினம் பிற்பகல் நடைபெற்ற விவசாய நவீனமயமாக்கல் வேலைத்திட்டத்தின் முன்னேற்ற மீளாய்வு கூட்டத்தின் போதே ஜனாதிபதி இவ்வாறு குறிப்பிட்டார்.
+President Ranil Wickremesinghe has said that by 2030, modern technology should move towards competitive agriculture by paying more attention to the production of the competitive export market by giving priority to paddy production.
 
-நாடளாவிய ரீதியில் தெரிவு செய்யப்பட்ட 26 பிரதேச செயலகங்களில் நடைமுறைப்படுத்தப்பட்டுள்ள விவசாய நவீனமயமாக்கல் வேலைத்திட்டத்தின் கீழ், ஒவ்வொரு பிரதேச செயலகத்திற்கும் 25 மில்லியன் ரூபா ஒதுக்கீடு செய்யப்பட்டுள்ளதுடன், முன்னோடித் திட்டத்தின் தற்போதைய முன்னேற்றம் தொடர்பான அறிக்கையும் ஜனாதிபதி ரணில் விக்கிரமசிங்கவிடம் கையளிக்கப்பட்டது. (a)
+Otherwise, the president pointed out that the future would not be a success, and that it would be better to abandon the products that could not face the competition in the export market.
+
+The President made these comments during the Advanced Review Meeting of the Agricultural Modernization Program held at the Presidential Office yesterday afternoon.
+
+Under the agricultural modernization program implemented in 26 selected divisional secretariats nationwide, 25 million rupees has been allocated to each Divisional Secretariat and a report on the current improvement of the pioneering project has been handed over to President Ranil Wickremesinghe.. (A)
 
 ◼️
 
 [Data](articles/b9e9bc7f.json)
+
+[Extended Data](ext_articles/b9e9bc7f.ext.json)
 
 ---
 
@@ -306,6 +312,8 @@ A recent meeting between the Sri Lanka-Greater Mekong Business Council (SLGMBC) 
 
 [Data](articles/254e96b9.json)
 
+[Extended Data](ext_articles/254e96b9.ext.json)
+
 ---
 
 ### Culinary Art Food Expo kicks off at BMICH
@@ -317,6 +325,8 @@ The Chefs Guild of Lanka yesterday held the Culinary Art Food Expo and the Live 
 ◼️
 
 [Data](articles/d9de81bf.json)
+
+[Extended Data](ext_articles/d9de81bf.ext.json)
 
 ---
 
@@ -331,6 +341,8 @@ Litro Gas’s comprehensive approach to leveraging LPG has spanned from supporti
 ...
 
 [Data](articles/7fb71470.json)
+
+[Extended Data](ext_articles/7fb71470.ext.json)
 
 ---
 
@@ -348,6 +360,8 @@ The interactive experience, a collaboration between NDB Bank and Gamer.LK, the p
 
 [Data](articles/71135d9b.json)
 
+[Extended Data](ext_articles/71135d9b.ext.json)
+
 ---
 
 ### SLT-Mobitel and Dept. of Pensions launch easy payment plans for smartphones for State pensioners
@@ -363,6 +377,8 @@ The special initiative includes exclusive monthly payment offers on 4G smartphon
 ...
 
 [Data](articles/43ca919f.json)
+
+[Extended Data](ext_articles/43ca919f.ext.json)
 
 ---
 
@@ -380,6 +396,8 @@ This mega sale event will offer shoppers over Rs. 10 million worth of Mega Vouch
 
 [Data](articles/a6b6df0f.json)
 
+[Extended Data](ext_articles/a6b6df0f.ext.json)
+
 ---
 
 ### How Argentina’s once great economy was destroyed? Lessons for Sri Lanka
@@ -393,6 +411,8 @@ As Argentina was the fifth largest economy in the world in the early 1900s, Sri 
 ...
 
 [Data](articles/23ab0e7d.json)
+
+[Extended Data](ext_articles/23ab0e7d.ext.json)
 
 ---
 
@@ -409,6 +429,8 @@ The organisation noted that the writ application filed by Karannagoda seeking hi
 ...
 
 [Data](articles/db5d7907.json)
+
+[Extended Data](ext_articles/db5d7907.ext.json)
 
 ---
 

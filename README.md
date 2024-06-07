@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-07 10:53:08**
+As of **2024-06-07 11:04:47**
 
 ## Newspaper Stats
 
-*Scraped **29,011** Articles*
+*Scraped **29,015** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,96 @@ economynextcom | 1,655
 dailyftlk | 1,730
 adalk | 2,477
 adaderanalk | 3,284
-tamilmirrorlk | 3,408
+tamilmirrorlk | 3,409
 virakesarilk | 4,448
-dailymirrorlk | 4,610
-adaderanasinhalalk | 4,650
+dailymirrorlk | 4,612
+adaderanasinhalalk | 4,651
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,004 (100.0%) of 29,011 articles have been extended.
+29,011 (100.0%) of 29,015 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-07 (Friday)
+
+### T20 ලෝක කුසලානයේ ශ්‍රී ලංකාවට වෙච්ච දේ ගැන කරුණු විමසයි
+
+*2024-06-07 10:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197487) · `si`
+
+T20 ලෝක කුසලානයේදී ශ්‍රී ලංකා කණ්ඩායම මුහුණ දුන් ගැටලු සම්බන්ධයෙන් මේ වනවිට කරුණු විමසා ඇති බව ක්‍රීඩා අමාත්‍ය හරීන් ප්‍රනාන්දු මහතා පැවසීය.
+
+අද (07) පාර්ලිමේන්තුවේදී අදහස් දක්වමින් ඔහු වැඩිදුරටත් පැවසුවේ ශ්‍රී ලංකා ක්‍රිකට් කණ්ඩායම අපහසුතාවයට පත් නොවන අයුරින් කටයුතු සිදුකිරීම සඳහා ශ්‍රී ලංකා ක්‍රිකට් ආයතනයෙන් නියෝජිතයෙකු ද පත්කර අමෙරිකාව වෙත යවා තිබූ බවය.
+
+"ශ්‍රී ලංකා කණ්ඩායම, අයර්ලන්ත කණ්ඩායම සහ දකුණු අප්‍රිකා කණ්ඩායම ගුවන්යානා තාක්ෂණික දෝෂයක් නිසා පැය 7ක් ගුවන්තොටුපොළේ අතරමංවීමක් සිදුවුණා. ශ්‍රී ලංකා ක්‍රිකට් ආයතනය මේ සම්බන්ධයෙන් ICCයට දැනටමත් පැමිණිල්ලක් ඉදිරිපත් කර තිබෙනවා."
+
+"ඒකට හේතුව එක එක රටවලට එක එක විදියට තමයි සලකලා තියෙන්නේ. බංග්ලාදේශ කණ්ඩායම තමයි වැඩියෙන්ම සංචාරය කරන්නේ කිලෝමීටර් ගණන අනුව. දෙක ලංකාව."
+
+"අමෙරිකානු ක්‍රිකට් ආයතනයත් ICCයෙන් තහනම් වෙලා ඉන්නේ මේ වෙනකොට. එහෙම තියෙද්දි තමයි ICC මේ ක්‍රිකට් තරගාවලිය අමෙරිකාවේ පවත්වන්නේ."
+
+...
+
+[Data](articles/49bc9a37.json)
+
+---
+
+### ’Sinister move to remove me from COPF’: Harsha
+
+*2024-06-07 10:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sinister-move-to-remove-me-from-COPF-Harsha/108-284334) · `en`
+
+Parliament, June 07 (Daily Mirror)- Chairman of the Committee on Public Finance (COPF) Dr. Harsha de Silva today alleged that there is a sinister move to remove him from his post.
+
+“I have been told that signatures are being collected from COPF members to remove me from the chairmanship. I am willing to resign if I am not wanted,” he said.
+
+“I had to face challenges when carrying out my duties as the Chairman of COPFF. I was to be removed following the stand which COPF held on the Value Added Tax (VAT),” he added.
+
+Dr. de Silva said COPF was able to mediate and reveal facts on the sugar scam, and was able to come up with a proposal to reduce the PAYE tax to 24 percent.
+
+Also, he said he had to use his personal funds to pay salaries to the staff involved with COPF.
+
+“My pressure will go up because of these issues and I might die. I am also suffering from tension,” he added.
+
+◼️
+
+[Data](articles/27066ecb.json)
+
+---
+
+### Gender Equality Bill inconsistent with Constitution
+
+*2024-06-07 10:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Gender-Equality-Bill-inconsistent-with-Constitution/108-284333) · `en`
+
+Parliament, June 07 (Daily Mirror)- The Supreme Court observed that the Gender Equality Bill is inconsistant with the Constitution as a whole and should be enacted with a two thirds majority and through a referendum, Speaker Mahinda Yapa Abeywardhane announced today.
+
+◼️
+
+[Data](articles/baf2e891.json)
+
+---
+
+### கங்கனாவிக் கன்னத்தில் “பளார்’’... பெண் அதிகாரி பணி இடைநீக்கம்
+
+*2024-06-07 10:35:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/கங்கனாவிக்-கன்னத்தில்-பளார்-பெண்-அதிகாரி-பணி-இடைநீக்கம்/54-338582) · `ta`
+
+சண்டிகர் விமான நிலையத்தில் மண்டி மக்களவை உறுப்பினர் கங்கனா ரனாவத்தின் கன்னத்தில் அறைந்த குற்றச்சாட்டின்பேரில் மத்திய தொழில்துறை பாதுகாப்புப் படையின் பெண் காவலர் ஒருவர் பணி இடைநீக்கம் செய்யப்பட்டுள்ளார்.
+
+ஏ.என்.ஐ செய்தி முகமையின்படி, இந்த வழக்கை மேலும் விசாரிக்க சி.ஐ.எஸ்.எஃப் அதிகாரிகள் குழு அமைக்கப்பட்டுள்ளது.
+
+தேசிய ஜனநாயகக் கூட்டணியின் கூட்டத்தில் பங்கேற்பதற்காக கங்கனா ரனாவத் டெல்லி வரவிருந்தபோது இந்தச் சம்பவம் நடந்துள்ளது.
+
+“பாதுகாப்பு சோதனைக்குப் பிறகு நான் இரண்டாவது கேபின் வழியாகச் சென்றபோது சிஐஎஸ்எஃப் காவலராக இருந்த ஒரு பெண் என் முகத்தில் அறைந்தார்,” என்று அவர் குறிப்பிட்டுள்ளார்.
+
+ஏன் இப்படிச் செய்தீர்கள் எனக் கேட்டதற்கு, தான் விவசாயிகள் இயக்கத்தை ஆதரிப்பதாக அந்தப் பெண் பதில் கூறியதாக கங்கனா தெரிவித்துள்ளார்.
+
+மேலும், “நான் பாதுகாப்பாக இருக்கிறேன். ஆனால் பஞ்சாபில் அதிகரித்து வரும் தீவிரவாதத்தை எப்படிச் சமாளிப்பது என்று கவலையாகவும் உள்ளேன்” என்றும் கங்கனா வீடியோவில் கூறியுள்ளார்.
+
+...
+
+[Data](articles/fbba2f50.json)
+
+---
 
 ### Anura, Sajith debate becomes a non-event
 
@@ -45,6 +121,8 @@ Commenting on the matter Samagi Jana Balawegaya (SJB) MP Nalin Bandara Jayamaha 
 ◼️
 
 [Data](articles/1faca4bb.json)
+
+[Extended Data](ext_articles/1faca4bb.ext.json)
 
 ---
 
@@ -63,6 +141,8 @@ Meanwhile, the president of the union said that this is not a decision taken by 
 ◼️
 
 [Data](articles/62a0a67c.json)
+
+[Extended Data](ext_articles/62a0a67c.ext.json)
 
 ---
 
@@ -112,53 +192,71 @@ The President of the Public Health Inspectors Association Upul Rohana said that 
 
 ---
 
-### சீரற்ற வானிலையால் 5587 வீடுகள் சேதம்
+### 5587 houses damage due to random weather
 
 *2024-06-07 10:00:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சீரற்ற-வானிலையால்-5587-வீடுகள்-சேதம்/175-338581) · `ta`
 
-1,973 பாதுகாப்பான மையங்களில் 7,639 பேர் தங்க வைக்கப்பட்டுள்ளதாக அனர்த்த முகாமைத்துவ நிலையம் தெரிவித்துள்ளது.
+Extreme weather caused significant damage to 5,587 houses and affected 239,006 individuals from 63,413 families. The Disaster Management Center reported 7,639 people sheltering in 1,973 safe centers.
 
-இதேவேளை, சீரற்ற காலநிலை காரணமாக 63,413 குடும்பங்களைச் சேர்ந்த 239,006 பேர் பாதிக்கப்பட்டுள்ளதாகவும் குறிப்பிடப்பட்டுள்ளது.
+🟩
+
+The Disaster Management Center said 7,639 people were staying in 1,973 safe centers.
+
+Meanwhile, 239,006 people from 63,413 families have been affected due to inclement weather.
 
 ◼️
 
 [Data](articles/9a15f097.json)
 
+[Extended Data](ext_articles/9a15f097.ext.json)
+
 ---
 
-### வெளிநாட்டிலிருந்து வந்த பெண் கொடூர கொலை
+### Brutal murder
 
 *2024-06-07 09:41:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெளிநாட்டிலிருந்து-வந்த-பெண்-கொடூர-கொலை/175-338580) · `ta`
 
-வெளிநாடு ஒன்றிலிருந்து இலங்கைக்கு வந்து தனியாக வசித்து வந்த பெண் ஒருவர் நேற்று (06) இரவு படுகொலை செய்யப்பட்டுள்ளார்.
+A foreign woman, aged 62, was brutally murdered in her home in Sri Lanka's Mawathagama district. The incident occurred last night, and police are conducting further investigations.
 
-மாவத்தகம பொலிஸ் பிரிவிற்குட்பட்ட பிலஸ்ஸ பகுதியிலுள்ள வீடொன்றில் குறித்த பெண் கூரிய ஆயுதத்தினால் தாக்கப்பட்டு கொலைச் செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+🟩
 
-உயிரிழந்தவர் 62 வயதுடைய பெண் எனவும், சம்பவம் தொடர்பான மேலதிக விசாரணைகளை மேற்கொண்டு வருவதாகவும் பொலிஸார் குறிப்பிட்டுள்ளனர். R
+A woman who came to Sri Lanka from abroad has been murdered last night (06).
+
+Police said that a woman was assaulted and murdered in a house in the Pillasa area of ​​the Mawathagama police division.
+
+The deceased is a 62 -year -old woman and further investigations are being carried out by the police.. Remble
 
 ◼️
 
 [Data](articles/54aa6506.json)
 
+[Extended Data](ext_articles/54aa6506.ext.json)
+
 ---
 
-### இன்றும் பல இடங்களில் மழை பெய்யும்
+### It is raining in many places today
 
 *2024-06-07 09:35:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்றும்-பல-இடங்களில்-மழை-பெய்யும்/175-338579) · `ta`
 
-மேல், சப்ரகமுவ மற்றும் தென் மாகாணங்களிலும் கண்டி மற்றும் நுவரெலியா மாவட்டங்களிலும் அவ்வப்போது மழை பெய்யும் என எதிர்பார்க்கப்படுகின்றது.
+Heavy rain and thunderstorms are forecasted across various regions including Western, Sabaragamuwa, Southern Provinces, Kandy, Nuwara Eliya, North Western, North, North Central Provinces, and possibly in the Eastern and Uva provinces later. Heavy winds up to 40-50 km/h are also expected in the Northern, North Central, North Western Provinces, and Hambantota district. The public is urged to stay alert and take safety measures against lightning strikes.
 
-வடமேல், வடக்கு மற்றும் வடமத்திய மாகாணங்களில் பல தடவைகள் சிறிதளவில் மழை பெய்யும் என எதிர்பார்க்கப்படுகின்றது.
+🟩
 
-கிழக்கு மற்றும் ஊவா மாகாணங்களில் சில இடங்களில் மாலையில் அல்லது இரவில் மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடிய சாத்தியம் காணப்படுகின்றது.
+Rainfall is expected in the Western, Sabaragamuwa and Southern Provinces and Kandy and Nuwara Eliya districts.
 
-வடக்கு, வடமத்திய மற்றும் வடமேல் மாகாணங்களிலும் ஹம்பாந்தோட்டை மாவட்டத்திலும் அவ்வப்போது மணித்தியாலத்துக்கு 40-50 கிலோ மீற்றர் வரையான வேகத்தில் பலத்த காற்று வீசக் கூடிய சாத்தியம் காணப்படுகின்றது.
+Rainfall is expected to occur in the North Western, North and North Central Provinces several times.
 
-இடியுடன் கூடிய மழை பெய்யும் வேளைகளில் அப் பிரதேசங்களில் தற்காலிகமாக பலத்த காற்றும் வீசக்கூடும். மின்னல் தாக்கங்களினால் ஏற்படக்கூடிய பாதிப்புகளை குறைத்துக்கொள்ள தேவையான முன்னெச்சரிக்கை நடவடிக்கைகளை எடுத்துக் கொள்ளுமாறு பொதுமக்கள் அறிவுறுத்தப்படுகின்றார்கள். R
+In the Eastern and Uva provinces, there is a possibility of rainfall or thundershowers in the evening or at night.
+
+In the Northern, North Central and North Western Provinces and Hambantota district, there is a possibility of heavy winds at speeds of up to 40-50 km / h.
+
+Thundershowers may be temporarily blowing in the up -and -coming areas. The public is advised to take necessary precautions to reduce the impacts of lightning impacts. Remble
 
 ◼️
 
 [Data](articles/186b7204.json)
+
+[Extended Data](ext_articles/186b7204.ext.json)
 
 ---
 
@@ -606,19 +704,25 @@ People were seen cleaning their houses after the floodwaters receded. A small bo
 
 ---
 
-### නොමිලේ දැනුම බෙදන මහියංගණයේ උපකාරක පන්ති ගුරුතුමා : 'මම කරන්නේ පිං අතේ වැඩක් නොවෙයි'
+### Teacher of the Mahiyanganaya Mahiyanganaya, who divides the knowledge.
 
 *2024-06-07 04:43:10* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c3gg45ww50ro) · `si`
 
-නොමිලේ දැනුම බෙදන මහියංගණයේ උපකාරක පන්ති ගුරුතුමා : 'මම කරන්නේ පිං අතේ වැඩක් නොවෙයි'
+Aruna Priyankara, a government development officer and former university student activist, dedicates his efforts to providing free education, particularly in commerce, to underprivileged students in the Ridimaliyadda region. Despite facing financial constraints and limited resources, he inspires students to pursue higher education, emphasizing the importance of knowledge as a societal asset rather than personal gain. His story highlights the challenges and triumphs of offering quality education to those who need it most, underscoring the power of dedication and the impact of one person's commitment to making a difference.
 
-"ඉස්සර මමත්, අම්මාත් දවසේ කුලියට අනුන්ගේ කුඹුරු කොටන්න යනවා. මම වරුවෙන් වැඩ නවත්වලා පන්ති යනවා. අම්මා හවස් වෙනකන් වැඩ කරලා සල්ලි අරන් එනවා ටියුෂන් පන්තියට ගෙවන්න. ඒ විදිහට අමාරුවෙන් තමයි මම ඉගෙන ගත්තේ," ඒ ආකාරයට බීබීසී සිංහල සමඟින් දොඩමළු වූයේ මහියංගණය, රිදීමාලියද්ද ප්‍රදේශයේ සිටින අපූරු ගුරුවරයෙකි. ශ්‍රී ලංකා රජරට විශ්වවිද්‍යාලයේ කළමනාකරණ උපාධිධාරියෙකු වන ඔහු වර්තමානයේ රජයේ සංවර්ධන නිලධාරියෙකු ලෙස සේවය කරයි.
+🟩
 
-ගොවිතැන ප්‍රධාන ජීවනෝපාය කරගත් පාරම්පරික ගොවීන් ජීවත්වන රිදීමාලියද්ද ප්‍රදේශය යනු දරිද්‍රතාවයෙන් ද පීඩා විඳින ප්‍රදේශයකි. එමෙන් ම පාසල් පද්ධතිය තුළ ද සිසුන්ට ඇත්තේ අවම පහසුකම් ය. දරුවන්ට ඉගැන්වීමට වියදම් කිරීමට මුදල් නොමැතිකම එම ප්‍රදේශයේ බොහෝ දෙමාපියන් මුහුණ දෙන ගැටළුවකි.
+Teacher of the Mahiyanganaya Mahiyanganaya, who divides the knowledge.
+
+"In the past, I am going to add the paddy field for renting the day of the day. I stopped working with the time and go classes. Mom is working for the evening and pick up money to pay for the tuition class. That is why I learned, "that way," the BBC Sinhala was a wonderful teacher in Ridimaliyadda area in Mahiyanganaya. He is a managed graduate of the Rajarata University of Sri Lanka and currently serves as a Government Development Officer.
+
+Adult Workplace Ridimaliyadda Regional Lives of Poverty also is an area of ​​poverty. The students also have minimum facilities in the school system. Lack of money to teach children is a problem that many parents face in the area.
 
 ...
 
 [Data](articles/f5f28ad3.json)
+
+[Extended Data](ext_articles/f5f28ad3.ext.json)
 
 ---
 
@@ -1936,21 +2040,29 @@ The association states that the prospect had to be taken to take place in severa
 
 ---
 
-### වතු කම්කරු වැටුප් වැඩිකිරීමට වසරකට රු.බි. 48ක අමතර පිරිවැයක්
+### Estate workers' salaries increase. Extra cost of 48
 
 *2024-06-06 19:27:49* · [`adalk`](https://www.ada.lk/breaking_news/වතු-කම්කරු-වැටුප්-වැඩිකිරීමට-වසරකට-රු-බි--48ක-අමතර-පිරිවැයක්/11-410065) · `si`
 
-වතු කම්කරුවෙකුගේ දෛනික වැටුප රු. 1700.00 දක්වා වැඩි කිරීමට කම්කරු අමාත්‍යංශය විසින් නිකුත් කළ ගැසට් පත්‍රය අනුව තේ වතු සමාගම් 22කට වාර්ෂිකව රු. බිලියන 48 ක අමතර පිරිවැයක් දැරීමට සිදුවන බවට ඇස්තුමේන්තු කර ඇති බව එම වතු සමාගම් වල උසස් නිලධාරීහු පවසති.
+The daily wage for plantation workers has risen to Rs. 1700, with an additional cost of Rs. 48 billion announced by the Ministry of Labor for 22 tea plantation companies. Estate company officials state this increase aims to improve the welfare of workers, ensuring stable wages and benefits.
 
-දැනට වතු කම්කරුවෙකුට දෛනිකව ගෙවනු ලබන රු 1000 වැටුපට සේවා නියුක්තිකයන්ගේ භාරකාර අරමුදල සහිතව රු 1150 ක් ගෙවීමට සිදු වී ඇති බවත්, නව වැටුප අනුව තේ වතු සමාගම්වලට 70% ක අමතර පිරිවැයක් දැරිමට සිදු වී ඇති බවත් එම නිලධාරිහු කියා සිටිති.
+🟩
 
-රජය මගින් වැඩි කළ රු 1700 දෛනික වැටුපට සියලුම දීමනා සහිතව රු. 1900 ක පමණ මුදලක් ගෙවීමට සිදු වී ඇති බවත්, එම මුදල ජූලි මස සිට ගෙවීමට කටයුතු කරමින් සිටින බවත්, එම වැටුප් වැඩි කිරීම සියලුම තේ වතු සමාගම්වලට නොහැකි බවත් එම නිලධාරිහු කියති.
+The daily wage of a plantation worker is Rs.. 1700.00 The Gazette issued by the Ministry of Labor to the Gazette issued by the Ministry of Labor for 22 tea plantation companies annually.. High officials of the estate companies say that the estimated cost of Rs. 48 billion has been established.
 
-ජූලි මස සිට එම වැටුප ගෙවීමට නම් ඩොලරයේ වටිනාකම තවදුරටත් ස්ථාවර තත්ත්වයේ පැවතිය යුතු බවත්, පවත්නා තත්ත්වය මත වතු කම්කරුවන්ට දිනකට වැටුප් දෙකකට වැඩ කිරීම, සති අන්ත නිවාඩු දින සහ පොහෝ දිනයන්වල ලබාදෙන වැඩ දින ගණන නතර කිරිමට සිදු වන බවද ඔවුහු පවසති.
+The officials say that the estate worker has paid Rs 1150 with Rs.
 
-...
+The government has increased Rs. 1700 with all allowances of Rs.. Officers say that the sum of Rs.
+
+They say the value of the dollar must remain in stability and work days of work on weekends and day days of working on weekends and potential workers to pay the salary from July.
+
+With the welfare of the plantation workers and the tea plantation companies cannot be able to provide the welfare of the plantation workers and the tea plantation, cleaning the tea estate workers, with the welfare of the plantation workers.The officials say that India and tea will have the benefit to India and tea.
+
+◼️
 
 [Data](articles/fc393328.json)
+
+[Extended Data](ext_articles/fc393328.ext.json)
 
 ---
 
@@ -2037,91 +2149,5 @@ The country’s notes due in November 2025 are trading at 59.6 cents on the doll
 [Data](articles/91c6e05e.json)
 
 [Extended Data](ext_articles/91c6e05e.ext.json)
-
----
-
-### Locomotive operating engineers on strike from tomorrow
-
-*2024-06-06 19:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Locomotive-operating-engineers-on-strike-from-tomorrow/108-284286) · `en`
-
-Colombo, June 6 (Daily Mirror) - The Locomotive Operating Engineers Union has decided to launch a train strike at midnight tomorrow due to further delays in the second-class promotions of locomotive drivers, continuous delays in recruitment due to a lack of a salary code, and other issues.
-
-While sending a letter to the Railways General Manager (GMR), the union secretary claimed that the decision was taken after having informed the GMR several times.
-
-Due to not receiving any favorable response, the union has decided to engage with the trade union action starting at midnight tomorrow.
-
-◼️
-
-[Data](articles/8e1d7079.json)
-
-[Extended Data](ext_articles/8e1d7079.ext.json)
-
----
-
-### Train strike to begin tomorrow
-
-*2024-06-06 19:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Train-strike-to-begin-tomorrow/108-284286) · `en`
-
-Colombo, June 6 (Daily Mirror) - The Locomotive Operating Engineers Union has decided to launch a train strike at midnight tomorrow due to further delays in the second-class promotions of locomotive drivers, continuous delays in recruitment due to a lack of a salary code, and other issues.
-
-While sending a letter to the Railways General Manager (GMR), the union secretary claimed that the decision was taken after having informed the GMR several times.
-
-Due to not receiving any favorable response, the union has decided to engage with the trade union action starting at midnight tomorrow.
-
-◼️
-
-[Data](articles/d5e36146.json)
-
-[Extended Data](ext_articles/d5e36146.ext.json)
-
----
-
-### 12000 rupees from the Minorpavanists in five months - Bhatali Champika Ranawaka
-
-*2024-06-06 19:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/185480) · `ta`
-
-In the past five months, the Ceylon Electricity Board (CEB) generated an extra Rs 9,000 crore, partly due to a Rs 12,000 levy on Minorpavanists. This move, criticized by Parliamentarian Patali Champika Ranawaka as negatively impacting the public, coincides with debates on the Electricity Board Reorganization Bill, aiming to split the CEB into 12 parts for potential privatization. The bill addresses concerns about the decline in state institutions, now numbering 1,200, down from 10 a century ago, highlighting the need for efficient reorganization and transparent state-private partnerships to improve services.
-
-🟩
-
-The Ceylon Electricity Board (CEB) has earned an additional income of Rs 9000 crore in the last five months. During this period, an additional 12000 rupees has been levied from the Minorpavanists. Parliamentarian Patali Champika Ranawaka said that the entire population has been badly affected by the increase in electricity.
-
-He was speaking at a debate on the Electricity Board Reorganization Bill held in Parliament on Thursday (6).
-
-The Ceylon Electricity Board Reforms Bill, which divides the Electricity Board into 12 components and provides them with private parties.
-
-There are currently 1200 state institutions in the country. There were only 10 state institutions over over 100 years ago.. We accept that loss of state institutions should be reorganized.
-
-The government notes that the International Monetary Fund has noted that the state institutions are reorganized.
-
-Reorganizations should be excellently carried out with transparency.
-
-...
-
-[Data](articles/a3a05375.json)
-
-[Extended Data](ext_articles/a3a05375.ext.json)
-
----
-
-### Sri Lanka to allocate foreign job quota for retired soldiers after deaths in Russia-Ukraine war
-
-*2024-06-06 18:59:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-allocate-foreign-job-quota-for-retired-soldiers-after-deaths-in-russia-ukraine-war-166702/) · `en`
-
-ECONOMYNEXT – Sri Lanka government has decided to allocate a quota of foreign employments for retired military personnel after reports of over 15 deaths of former servicemen who had gone to Ukraine and Russia to take part in the ongoing war for money.
-
-At least 16 Sri Lankans are reported to have been killed and over 600 likely to have joined as combatants mainly to Russian side, taking risk for higher salary, official sources say.
-
-However, an escapee has said over 200 Sri Lanka ex-soldiers have died in the Russia-Ukraine frontline amid drone attacks.
-
-The Foreign Employment Ministry has expressed willingness to provide a quota from foreign employment opportunities received by the government to retired military personnel and their family members, the Ministry of Defence said in a statement after a discussion on Tuesday (04).
-
-It said Foreign Employment Ministry had already said that “a certain amount of construction sector job opportunities will be provided in Israel”.
-
-...
-
-[Data](articles/4445ebda.json)
-
-[Extended Data](ext_articles/4445ebda.ext.json)
 
 ---

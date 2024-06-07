@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-07 18:24:55**
+As of **2024-06-07 18:36:02**
 
 ## Newspaper Stats
 
-*Scraped **29,088** Articles*
+*Scraped **29,089** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 1,565
 economynextcom | 1,665
 dailyftlk | 1,730
 adalk | 2,483
-adaderanalk | 3,293
+adaderanalk | 3,294
 tamilmirrorlk | 3,417
 virakesarilk | 4,466
 dailymirrorlk | 4,619
@@ -26,61 +26,97 @@ adaderanasinhalalk | 4,666
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,085 (100.0%) of 29,088 articles have been extended.
+29,088 (100.0%) of 29,089 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-07 (Friday)
 
-### நாளை முதல் மீண்டும் காலநிலையில் மாற்றம்
+### Change in the climate from tomorrow
 
 *2024-06-07 18:13:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாளை-முதல்-மீண்டும்-காலநிலையில்-மாற்றம்/175-338592) · `ta`
 
-நாட்டின் தென்மேற்கு பிரதேசத்தில் தற்போது நிலவும் மழை நிலைமை நாளையிலிருந்து (08 ஆம் திகதி) அடுத்த சில நாட்களுக்கு அதிகரிக்கும் என எதிர்பார்க்கப்படுவதாக வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது.
+The Department of Meteorology forecasts increased rainfall across the southwestern region, including the Western, Sabaragamuwa, Southern Provinces, and specific districts like Kandy, Nuwara Eliya, Galle, and Matara. Heavy rainfall is anticipated in some areas, along with potential thunderstorms and high winds in the Northern, North Central, North Western Provinces, and districts like Trincomalee and Hambantota. The public is urged to prepare for these conditions.
 
-மேல், சப்ரகமுவ மற்றும் தென் மாகாணங்களிலும் கண்டி மற்றும் நுவரெலியா மாவட்டங்களிலும் அவ்வப்போது மழை பெய்யும் என எதிர்பார்க்கப்படுகின்றது.
+🟩
 
-மேல் மற்றும் சப்ரகமுவ மாகாணங்களிலும் நுவரெலியா, காலி மற்றும் மாத்தறை மாவட்டங்களிலும் சில இடங்களில் 50 மி.மீ க்கும் அதிகமான ஓரளவு பலத்த மழைவீழ்ச்சி எதிர்பார்க்கப்படுகின்றது.
+The Department of Meteorology has predicted that the current rainfall in the southwestern region of the country is expected to increase for the next few days.
 
-வடமேல், வடக்கு மற்றும் வடமத்திய மாகாணங்களில் பல தடவைகள் மழை பெய்யும் என எதிர்பார்க்கப்படுகின்றது.
+Rainfall is expected in the Western, Sabaragamuwa and Southern Provinces and Kandy and Nuwara Eliya districts.
 
-ஊவா மாகாணத்திலும் அம்பாறை மற்றும் மட்டக்களப்பு மாவட்டங்களிலும் சில இடங்களில் மாலையில் அல்லது இரவில் மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடிய சாத்தியம் காணப்படுகின்றது.
+Heavy rainfall is expected in some places in the Western and Sabaragamuwa Provinces and Nuwara Eliya, Galle and Matara districts.
 
-வடக்கு, வடமத்திய மற்றும் வடமேல் மாகாணங்களிலும் திருகோணமலை மற்றும் ஹம்பாந்தோட்டை மாவட்டங்களிலும் அவ்வப்போது மணித்தியாலத்துக்கு 40-50 கிலோ மீற்றர் வரையான வேகத்தில் பலத்த காற்று வீசக் கூடிய சாத்தியம் காணப்படுகின்றது.
+Rainfall is expected in the North Western, North and North Central Provinces several times.
 
-...
+It is possible to experience rain or thunderstorms in the evening or in some places in the Uva Province and Ampara and Batticaloa districts.
+
+In the Northern, North Central and North Western Provinces and Trincomalee and Hambantota districts, there is a possibility of heavy winds at speeds of up to 40-50 km / h.
+
+Thundershowers may be temporarily blowing in the up -and -coming areas. The public is advised to take necessary precautions to reduce the impacts of lightning impacts. Remble
+
+◼️
 
 [Data](articles/9c269a69.json)
 
+[Extended Data](ext_articles/9c269a69.ext.json)
+
 ---
 
-### සුරාබදු කොමසාරිස් ඇතුළු 4කට එරෙහිව ශ්‍රේෂ්ඨාධිකරණයට පෙත්සමක්
+### ‘Public Debt Management Bill’ passed in Parliament
+
+*2024-06-07 18:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/99731/public-debt-management-bill-passed-in-parliament) · `en`
+
+The Parliament of Sri Lanka has passed the ‘Public Debt Management Bill’ today (June 07), State Minister of Finance Shehan Semasinghe said.
+
+Posting on ‘X’ (formerly Twitter), the Finance State Minister highlighted that the bill will provide for Public Debt Management including the authorization to borrow, issue and to service public debt for the government.
+
+Furthermore, it will enable issuing guarantees, on-lending, enter into suppliers’ credit and financial lease agreements for the establishment of the Public Debt Management Office and for matters connected therewith, Semasinghe added.
+
+◼️
+
+[Data](articles/945988ca.json)
+
+---
+
+### Petition to the Supreme Court against 4 Excise Commissioner
 
 *2024-06-07 18:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197503) · `si`
 
-ශ්‍රේෂ්ඨාධිකරණය විසින් නිකුත් කළ නියෝගයක් උල්ලංඝනය කරමින් සුපිරි වෙළෙඳසැල් හා දේශපාලන හිතවතුන්ට මත්පැන් බලපත්‍ර අලුතින් නිකුත් කිරීම තුළින් සුරා බදු කොමසාරිස් ජෙනරාල්වරයා ඇතුළු හතර දෙනෙකු අධිකරණයට අපහාස කර ඇති බවට චෝදනා කරමින් ශ්‍රේෂ්ඨාධිකරණයට පෙත්සමක් ඉදිරිපත් වුණි.
+A petition was filed against four Excise Commissioners by Gihan Shawinda Fernando from Nittambuwa, accusing them of violating a Supreme Court order along with a supermarket and political allies.
 
-නිට්ටඹුව ප්‍රදේශයේ පදිංචි ගිහාන් ශවින්ද ප්‍රනාන්දු මහතා විසින් පෙත්සම ඉදිරිපත් කළේය.
+🟩
+
+The Supreme Court also accused the supermarket and political friends to violate an order issued by the Supreme Court and accusing four persons including the Excise License.
+
+Gihan Shawinda Fernando, a resident of Nittambuwa, presented the petition.
 
 ◼️
 
 [Data](articles/bddd5d53.json)
 
+[Extended Data](ext_articles/bddd5d53.ext.json)
+
 ---
 
-### வெள்ள அனர்த்தத்திற்குப் பிறகு....
+### After flood disaster ....
 
 *2024-06-07 18:00:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெள்ள-அனர்த்தத்திற்குப்-பிறகு/175-338591) · `ta`
 
-அண்மையில் ஏற்பட்ட தொடர் மழையினால் பலரது வீடுகளுக்கும் வெள்ள நீர் புகுந்து அன்றாட வாழ்க்கையை வெகுவாக பாதித்திருந்தது.
+Recent floods displaced residents, forcing them to abandon their homes. Now, as waters recede, they return to damaged houses. Students are seen in photos, salvaging wet books while floating on debris, preparing to resume schooling amidst recovery efforts.
 
-இதனால் மக்கள் பலர் தமது வீடுகளை விட்டு வெளியேறியிருந்தனர். தற்போது கால நிலை சீரான நிலையில் மீண்டும் வீடுகளுக்கு திரும்புகின்றனர்.
+🟩
 
-அதிலும் மாணவர்களது பாடப்புத்தகங்கள் முழுவதும் நீரில் மிதப்பதுடன், புத்தகங்களை காயவைத்து மீண்டும் பாடசாலை செல்வதற்கு தயாராகும் மாணவர்களின் படங்கள் இதோ....
+The recent rains have caused flooding to many homes and affected the everyday life.
+
+Thus many people had left their homes. Currently, they are returning to their homes in a state of construction.
+
+Here is the pictures of the students who are floating in the water throughout the textbooks, drying books and ready to go back to school.
 
 ◼️
 
 [Data](articles/b3363e5c.json)
+
+[Extended Data](ext_articles/b3363e5c.ext.json)
 
 ---
 
@@ -2293,33 +2329,5 @@ The Supreme Court in a decision has said that earlier projects can be continued 
 [Data](articles/a4f7b531.json)
 
 [Extended Data](ext_articles/a4f7b531.ext.json)
-
----
-
-### Railway strike begins
-
-*2024-06-07 07:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197480) · `si`
-
-Railway engine drivers began a strike from midnight, protesting issues like recruitment. The strike, involving only two drivers initially, aims to halt power sets but won't affect other operations. Despite initial plans to cancel all trains today, the situation remains fluid, with 84 drivers potentially involved in future promotions. This action wasn't endorsed by the Executive Committee, and the Presidential Secretary will address the boycott.
-
-🟩
-
-Railway engine drivers have launched a strike from midnight yesterday (06).
-
-The delay in the second texts promotions states that they have entered this trade union action based on several issues including recruitment.
-
-The Lockmomottive Ordinary Association Secretary SRCM Senanayake said that the two train drivers are only working on the strike, which will not run the power sets.
-
-The strike has not been affected due to the strike, the SRCM Senanayake added that although all the trains will be canceled this afternoon.
-
-However, Ada Derana reports that the drivers were involved in the promotion based on the promotions of 84 train drivers.
-
-The trade union action was not a decision by the Executive Committee of the Locom of the Association of Association and the Presidential Secretary's Secretary will take the boycott.
-
-◼️
-
-[Data](articles/985f6e30.json)
-
-[Extended Data](ext_articles/985f6e30.ext.json)
 
 ---

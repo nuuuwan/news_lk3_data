@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-08 00:34:26**
+As of **2024-06-08 00:52:00**
 
 ## Newspaper Stats
 
-*Scraped **29,130** Articles*
+*Scraped **29,131** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,40 @@ adalk | 2,484
 adaderanalk | 3,298
 tamilmirrorlk | 3,420
 virakesarilk | 4,473
-dailymirrorlk | 4,631
+dailymirrorlk | 4,632
 adaderanasinhalalk | 4,672
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,130 (100.0%) of 29,130 articles have been extended.
+29,130 (100.0%) of 29,131 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-08 (Saturday)
+
+### Canada stun Ireland by 12 runs in T20 World Cup
+
+*2024-06-08 00:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Canada-stun-Ireland-by-12-runs-in-T20-World-Cup/108-284398) · `en`
+
+(New York) - Canada won their first match at any Twenty20 World Cup when they stunned Ireland by 12 runs in a Group A game in New York on Friday.
+
+Defending a target of just 138, the non-Test nation bowled and fielded expertly to hold Ireland to 125-7 from their full 20 overs.
+
+Ireland collapsed spectacularly to 59-6 and come the last five overs they still needed 64 more runs to win -- a rate of more than 12 an over
+
+George Dockrell (30 not out) and Mark Adair (34) reduced the target to 17 off the last six balls.
+
+But Canada paceman Jeremy Gordon held his nerve superbly, conceding just three runs and dismissing Adair with the second ball of the 20th over when he held a skyed caught and bowled chance.
+
+The 37-year-old Guyana-born Gordon finished with fine figures of 2-16 from his maximum four overs.
+
+...
+
+[Data](articles/83045a63.json)
+
+---
 
 ### Presidential election: Good and bad foreign meddling
 
@@ -2275,29 +2297,5 @@ The workforce would also amount to about one man for 1.8 elephants.
 [Data](articles/1deaff33.json)
 
 [Extended Data](ext_articles/1deaff33.ext.json)
-
----
-
-### Student murder: Explanation for student
-
-*2024-06-07 11:12:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவன்-கொலை-மாணவனுக்கு-விளக்கமறியல்/175-338586) · `ta`
-
-A 17-year-old student, charged with murdering a 15-year-old classmate in Hambantota, has been detained until the 20th. The magistrate ordered isolation from other inmates due to the nature of the crime. The incident occurred near a workshop, stemming from a dispute between the two students.
-
-🟩
-
-A 17 -year -old student who was arrested on charges of murdering a 15 -year -old student has been remanded until the 20th.
-
-The Hambantota Magistrate has also ordered the student to be isolated from other prisoners and put it in the Angunagolabeelaza prison.
-
-A 15 -year -old student was killed in an attack by a 17 -year -old student near a workshop in Hambantota - Chipikulam area.
-
-The cause of the conflict is also attributed to the dispute between the two students. Remble
-
-◼️
-
-[Data](articles/9398d8a1.json)
-
-[Extended Data](ext_articles/9398d8a1.ext.json)
 
 ---

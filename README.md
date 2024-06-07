@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-07 20:19:07**
+As of **2024-06-07 20:34:27**
 
 ## Newspaper Stats
 
-*Scraped **29,100** Articles*
+*Scraped **29,102** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,61 @@ islandlk | 1,566
 economynextcom | 1,665
 dailyftlk | 1,730
 adalk | 2,484
-adaderanalk | 3,295
+adaderanalk | 3,296
 tamilmirrorlk | 3,418
 virakesarilk | 4,467
 dailymirrorlk | 4,623
-adaderanasinhalalk | 4,667
+adaderanasinhalalk | 4,668
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,100 (100.0%) of 29,100 articles have been extended.
+29,100 (100.0%) of 29,102 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-07 (Friday)
+
+### ශ්‍රී ලංකා ක්‍රිකට් පිලට අමෙරිකාවේදී අමිහිරි අත්දැකීම්
+
+*2024-06-07 19:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197505) · `si`
+
+ලෝක කුසලාන 20යි 20 ක්‍රිකට් තරගාවලියට අමරිකාවට ගොස් සිටින ශ්‍රී ලංකා කණ්ඩායම ගැටලු රැසකට මුහුණ දී තිබේ.
+
+ඒ, ගුවන් යානා ප්‍රමාදවීම්, නවාතැන් ගන්නා හෝටල් සහ ක්‍රීඩාංගන අතර පවතින දුර මෙන්ම ක්‍රීඩාංගන තණතීරු සම්බන්ධයෙනි.
+
+ශ්‍රී ලංකා පිල පළමු අත්දැකීමට මුහුණදුන්නේ, අයර්ලන්තය සමග පැවැති පුහුණු තරගයෙන් පසුව ෆ්ලොරිඩා සිට නිව්යෝර්ක් දක්වා පැමිණීමේදී සිදුවූ ගුවන් ගමන් ප්‍රමාදයයි.
+
+එහිදී ශ්‍රී ලංකා, අයර්ලන්තය සහ දකුණු අප්‍රිකානු කණ්ඩායමට පැය හතක කාලයක් ෆ්ලොරිඩා ගුවන් තොටුපොළ තුළ රැඳීසිටීමට සිදුවුණි.
+
+ඒ එම කණ්ඩායම් ගමන් කිරීමට නියමිතව තිබූ ගුවන් යානය පැය හතක් ප්‍රමාදවීම හේතුවෙනි.
+
+ඒ අනුව මැයි 31 වැනි සිකුරාදා රාත්‍රී 8ට නිව්යෝර්ක් වෙත ළඟාවීමට නියමිතව සිටි ක්‍රීඩකයින් නිව්යෝර්ක් වෙත ළඟාවී තිබුණේ ජුනි 1 වැනි සෙනසුරාදා අලුයම 5ටයි.
+
+එහිදී ශ්‍රී ලංකා කණ්ඩායම දකුණු අප්‍රිකානු තරගයට පෙර නිව්යෝර්ක් හිදී සෙනසුරාදා සහ ඉරිදා පැවැත්වීමට සැලසුම් කර තිබූ පුහුණු සැසි දෙකක් අවලංගු කිරීමට ද සිදුවුණි.
+
+...
+
+[Data](articles/97a46385.json)
+
+---
+
+### Muslims in Sri Lanka to celebrate Hajj festival on June 17
+
+*2024-06-07 19:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/99733/muslims-in-sri-lanka-to-celebrate-hajj-festival-on-june-17) · `en`
+
+As the crescent moon for the month of Dhul Hijjah (Hajj) has been sighted, Muslims in Sri Lanka will celebrate the Hajj festival (Eid-Ul- Adha) on 17 June 2024, the Colombo Grand Mosque announced today.
+
+The sighting of the moon marks the beginning of the Islamic month of Dhu Al-Hijjah, during which the Hajj pilgrimage is performed, and is followed by Eid-Ul- Adha.
+
+Hajj, one of Islam’s five pillars, is the pilgrimage to Makkah in Saudi Arabia that every Muslim must make at least once in their lifetime if they are able.
+
+◼️
+
+[Data](articles/b4490e45.json)
+
+---
 
 ### Biden apologizes to Ukraine’s Zelenskyy
 
@@ -2285,51 +2325,5 @@ Kozack confirmed that on June 12th, the IMF Executive Board will meet to discuss
 [Data](articles/811cec2f.json)
 
 [Extended Data](ext_articles/811cec2f.ext.json)
-
----
-
-### 5587 houses damaged due to inclement weather
-
-*2024-06-07 08:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197483) · `si`
-
-Inclement weather caused significant damage: 5,587 houses were impacted, including 56 severely and 5,531 partially. The death toll rose to 32, with one missing person found and 16 injured. The Disaster Management Center reported 7,639 individuals in 1,973 shelters, affecting 239,006 from 63,413 families.
-
-🟩
-
-5,587 houses have been damaged due to inclement weather.
-
-56 houses have been severely damaged and 5,531 houses have been partially damaged.
-
-The death toll from the disaster has increased to 32.
-
-One person was no longer disappeared and 16 wounded.
-
-The Disaster Management Center (DMC) stated that 7,639 persons have already been held at 1,973 secular centers.
-
-239,006 persons belonging to 63,413 families have been affected due to inclement weather.
-
-◼️
-
-[Data](articles/9c17ce80.json)
-
-[Extended Data](ext_articles/9c17ce80.ext.json)
-
----
-
-### SC orders Maithripala to pay Rs.1Mn to petitioner
-
-*2024-06-07 08:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SC-orders-Maithripala-to-pay-Rs-1Mn-to-petitioner/108-284322) · `en`
-
-Colombo, June 7 (Daily Mirror) - The Supreme Court yesterday ordered former President Maithripala Sirisena to pay Rs. 1 million to the petitioner in the Fundamental Rights petition filed challenging former President Sirisena's decision to grant a Presidential pardon to Royal Park murder convict Don Shamantha Jude Anthony Jayamaha.
-
-The Court held that the petitioner, Women & Media Collective organization should hold such money in trust and spend it for the purposes that are in the best interests of female victims of crime and this sum of money should be paid within one month of this judgement.
-
-In another landmark judgement pertaining to the scope of the pardon granted by the executive President, the Supreme Court yesterday ruled that former President Maithripala Sirisena's decision to grant a Presidential pardon to Royal Park murder convict Don Shamantha Jude Anthony Jayamaha is arbitrary and not valid in law.
-
-...
-
-[Data](articles/9d4e3f15.json)
-
-[Extended Data](ext_articles/9d4e3f15.ext.json)
 
 ---

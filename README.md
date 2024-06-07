@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-07 17:04:01**
+As of **2024-06-07 17:18:52**
 
 ## Newspaper Stats
 
-*Scraped **29,067** Articles*
+*Scraped **29,068** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,13 +20,13 @@ adaderanalk | 3,292
 tamilmirrorlk | 3,415
 virakesarilk | 4,459
 dailymirrorlk | 4,618
-adaderanasinhalalk | 4,663
+adaderanasinhalalk | 4,664
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,067 (100.0%) of 29,067 articles have been extended.
+29,067 (100.0%) of 29,068 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -95,6 +95,24 @@ In addition to these areas, the North-Western, Northern and North-Central Provin
 [Data](articles/95b699b9.json)
 
 [Extended Data](ext_articles/95b699b9.ext.json)
+
+---
+
+### චීනය, ජපානය තරහා කර ගනියි
+
+*2024-06-07 16:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197501) · `si`
+
+ජපානයට අයත් මුහුදු කලාපයක් ලෙස ජපානය හඳුන්වන ප්‍රදේශයකට සන්නද්ධ වෙරළ ආරක්ෂක යාත්‍රා 4ක් එවීම සම්බන්ධයෙන් ජපානය විසින් චීනයට සිය විරෝධය පළකර ඇති බව වාර්තා වෙයි.
+
+නැගෙනහිර චීන මුහුදේ තිබෙන අයිතිය සම්බන්ධයෙන් ගැටලු ඇති දූපත් අවට මුහුදු තීරයට චීනය සිය යාත්‍රා යවා ඇත්තේ පළමු වරටය.
+
+එම දූපත් Senkaku ලෙස ජපානය විසින් හඳුන්වනු ලබන අතර චීනය එම දූපත් හඳුන්වන්නේ Diaoyu නමිනි.
+
+මෙම දූපත්වල කිසිවෙක් ජීවත් නොවන අතර ඒවා ජපාන පාලනය යටතේ පවතියි.
+
+◼️
+
+[Data](articles/20eab26b.json)
 
 ---
 
@@ -2231,29 +2249,5 @@ Sri Lanka lost about $ 4 b between 2020 and 2022 due to what was then referred t
 [Data](articles/0fbb66cb.json)
 
 [Extended Data](ext_articles/0fbb66cb.ext.json)
-
----
-
-### Admission to "Starlink" to provide internet service through technology - Minister of State Kanaka Herath
-
-*2024-06-07 02:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/185489) · `ta`
-
-Sri Lanka's Telecommunication Regulatory Commission has authorized "Starlink" to offer internet services, aiming to enhance connectivity for education, research, and fishing sectors. The public has until April 21st to voice their opinions. This move follows discussions between President Ranil Wickremesinghe and Elon Musk about accelerating "Starlink" applications. With over 2000 global installations across 32 countries, "Starlink" promises high-speed internet accessible from anywhere, potentially revolutionizing Sri Lanka's tech industry.
-
-🟩
-
-Technology Minister Kanaka Herath said that the Sri Lanka Telecommunication Regulatory Commission has given the initial authorization to "Starlink" to provide internet service through the technology in Sri Lanka.
-
-The Minister of State has stated that the public has been granted 14 days to obtain the opinion of the public before granting permission for this internet service and then the telecommunications regulatory commission can implement this internet service in Sri Lanka.
-
-Minister of Technology Kanaka Herath said this at a media briefing held at the Presidential Media Center on Friday the 07.
-
-The Minister of State has stated that it can provide the speedy internet service to education, research and fishing sectors and that there is a possibility of getting this Internet in the world.
-
-...
-
-[Data](articles/9841c451.json)
-
-[Extended Data](ext_articles/9841c451.ext.json)
 
 ---

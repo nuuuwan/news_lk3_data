@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-07 19:18:54**
+As of **2024-06-07 19:34:29**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 4,667
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,095 (100.0%) of 29,097 articles have been extended.
+29,097 (100.0%) of 29,097 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ A day earlier, the two had attended ceremonies marking the 80th anniversary of t
 ...
 
 [Data](articles/80699863.json)
+
+[Extended Data](ext_articles/80699863.ext.json)
 
 ---
 
@@ -77,6 +79,8 @@ However, this includes proceeds from the swap with People’s Bank of China (PBo
 ◼️
 
 [Data](articles/597f5245.json)
+
+[Extended Data](ext_articles/597f5245.ext.json)
 
 ---
 

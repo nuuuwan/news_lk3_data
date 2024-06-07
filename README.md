@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-07 14:34:14**
+As of **2024-06-07 14:53:17**
 
 ## Newspaper Stats
 
-*Scraped **29,052** Articles*
+*Scraped **29,054** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,48 +15,60 @@ newsfirstlk | 363
 islandlk | 1,565
 economynextcom | 1,659
 dailyftlk | 1,730
-adalk | 2,479
+adalk | 2,480
 adaderanalk | 3,288
 tamilmirrorlk | 3,414
 virakesarilk | 4,459
-dailymirrorlk | 4,615
+dailymirrorlk | 4,616
 adaderanasinhalalk | 4,659
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,050 (100.0%) of 29,052 articles have been extended.
+29,052 (100.0%) of 29,054 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-07 (Friday)
 
-### දුම්රිය වර්ජනය දිගටම
+### Railway strike continues
 
 *2024-06-07 14:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197496) · `si`
 
-ඉල්ලීම් කිහිපයක් මුල් කරගනිමින් දුම්රිය රියදුරන් පිරිසක් ඊයේ (06) මධ්‍යම රාත්‍රියේ සිට දියත් කළ දුම්රිය වර්ජනය තවදුරටත් ක්‍රියාත්මක කරන බව දුම්රිය වෘත්තීය සමිති නිවේදනය කරයි.
+Railway strike persists as drivers' union announces a group of train operators initiated the action from midnight yesterday.
+
+🟩
+
+The railway drivers have announced that a group of train operators launched from midnight yesterday (06).
 
 ◼️
 
 [Data](articles/9a7adcd6.json)
 
+[Extended Data](ext_articles/9a7adcd6.ext.json)
+
 ---
 
-### நாளை முக்கிய வீதி ஒன்று மூடப்படுகின்றது
+### Tomorrow's main road is closed
 
 *2024-06-07 14:08:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாளை-முக்கிய-வீதி-ஒன்று-மூடப்படுகின்றது/175-338588) · `ta`
 
-கொழும்பு - கண்டி பிரதான வீதியின் கீழ் கடுகன்னாவ பகுதி நாளை (08) தற்காலிகமாக மூடப்படும் என கேகாலை மாவட்ட செயலாளர் தெரிவித்துள்ளார்.
+The Kadugannawa section of the Colombo-Kandy main road will be closed tomorrow from 10:30 am to 6:30 pm due to removal of dangerous rocks and trees.
 
-குறித்த வீதியில் உள்ள ஆபத்தான பாறை கற்கள் மற்றும் மரக்கிளைகளை அகற்றுவதற்காகவே இவ்வாறு வீதி மூடப்படுவதாக  தெரிவித்துள்ளார்.
+🟩
 
-இதற்கமைய காலை 10.30 முதல் மாலை 6.30 மணி வரையான காலப்பகுதியில் அவ்வப்போது மூடப்படும் எனவும் கேகாலை மாவட்ட செயலாளர் தெரிவித்துள்ளார். R
+The Kadugannawa area will be temporarily closed under the Colombo -Kandy main road tomorrow (08), Kegalle District Secretary said.
+
+He said that the road is closed to remove the dangerous rocky stones and trees on the road.
+
+Accordingly, the Kegalle District Secretary said that it will be closed from time to time from 10.30 am to 6.30 pm.. Remble
 
 ◼️
 
 [Data](articles/0d6320f4.json)
+
+[Extended Data](ext_articles/0d6320f4.ext.json)
 
 ---
 
@@ -83,6 +95,24 @@ More than 239,000 persons have been displaced, he said.
 [Data](articles/69fc0707.json)
 
 [Extended Data](ext_articles/69fc0707.ext.json)
+
+---
+
+### Some MPs harassing us due to our stand on VFS issue: Harin, Harsha
+
+*2024-06-07 13:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Some-MPs-harassing-us-due-to-our-stand-on-VFS-issue-Harin-Harsha/108-284342) · `en`
+
+Parliament, June 07 (Daily Mirror) The issue pertaining to obtaining the services of VFS Global for the process of granting Sri Lankan visas to foreigners has taken a new turn with Minister Harin Fernando and MP Harsha de Silva complaining that some MPs have told them not to oppose the project and not to probe the scam.
+
+“An MP has said that I have become silent on the VFS Global issue after accepting a bribe. This is not true. I have not become silent. I am opposing it continuously,” Minister Fernando told Parliament.
+
+“I challenged this move in the Cabinet and was able to get some of the visa fees reduced. However, I had to carry out my duty of maintaining the collective responsibility,” he said.
+
+Leader of the Opposition Sajith Premadasa who also joined the crosstalk in the House said Dr. de Silva has been subjected to death threats by some MPs if he continues to probe the visa issue.
+
+...
+
+[Data](articles/f02d501e.json)
 
 ---
 
@@ -901,6 +931,18 @@ Commenting on the matter Samagi Jana Balawegaya (SJB) MP Nalin Bandara Jayamaha 
 [Data](articles/1faca4bb.json)
 
 [Extended Data](ext_articles/1faca4bb.ext.json)
+
+---
+
+### ටි.එන්.ඒ. සහාය දෙන අපේක්ෂකයා ගැන තිරණය මෙන්න
+
+*2024-06-07 10:15:44* · [`adalk`](https://www.ada.lk/breaking_news/ටි-එන්-ඒ--සහාය-දෙන-අපේක්ෂකයා-ගැන-තිරණය-මෙන්න/11-410068) · `si`
+
+එළැඹෙන ජනපතිවරනයේදි ද්‍රවිඩ ජාතික සන්ධානයේ සහාය දෙන අපේක්ෂකයා සම්බන්ධයෙන් වන තිරණය ජනපතිවරණයට ඉදිරිපත්වන ප්‍රධාන අපේක්ෂකයන් සමග සාකච්ඡා කිරිමෙන් පසුව තීරණය කරන බව එම සන්ධානයේ පාර්ලිමේන්තු මන්ත්‍රි එම්.ඒ. සුමන්තිරන් මහතා ප්‍රකාශ කරයි.
+
+◼️
+
+[Data](articles/9813967b.json)
 
 ---
 
@@ -2181,49 +2223,5 @@ Elephant problems should be solved if they want to improve agriculture. Those wh
 [Data](articles/5476a7ae.json)
 
 [Extended Data](ext_articles/5476a7ae.ext.json)
-
----
-
-### Land issue in the North and East
-
-*2024-06-07 00:39:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வடக்கு-கிழக்கில்-காணி-பிரச்சினை-தீர்க்கப்படாத-பிரச்சினை/175-338575) · `ta`
-
-Despite post-war promises, land issues persist in Sri Lanka's Northern and Eastern provinces, affecting traditional agriculture and livelihoods. Protected forests hinder land releases, and government actions fall short. Environmental laws complicate matters further, impacting farmers' rights and the future of agriculture.
-
-🟩
-
-Opposition Leader Sajith Premadasa said that the issue of land use to maintain the livelihood of the people living in those areas after the end of the war in the Northern and Eastern Provinces, despite his visit to various districts.
-
-The Leader of the Opposition in the North -East Land issue on Thursday (06) in Parliament under the Standing Orders (2) (2)
-
-Even after the end of the war in the Northern and Eastern Provinces, the land use issue to maintain the livelihood of the people living in those areas is still an unresolved issue.. This is due to the fact that most of the areas around the settlements are a protected forest. Similarly, there are many problems in the government's actions in the release of land for the people.
-
-According to the 1985 Land Scale Map, the protected forest and the rest of the forests will be released. Accordingly, what is the amount of land that has been identified or released by Divisional Secretaries to release?
-
-...
-
-[Data](articles/7dea156f.json)
-
-[Extended Data](ext_articles/7dea156f.ext.json)
-
----
-
-### Slaughter of the Gaza lamb: Israeli Pharaoh’s crimes against children
-
-*2024-06-07 00:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Slaughter-of-the-Gaza-lamb-Israeli-Pharaohs-crimes-against-children/172-284316) · `en`
-
-Palestinian children carry water containers in the Jabalia refugee camp, in the northern Gaza Strip.
-
-On Tuesday, June 4, the day the world was supposed to mark the International Day of Innocent Children Victims of Aggression, the silence of the pro-Israeli world powers was deafening. In Gaza, the day had little meaning as there was no let-up in the slaughter of Palestinian children.
-
-The day is marked as a poignant reminder to all nations that they should not cause physical, mental, or emotional harm to children. The day calls on UN member states to recommit themselves to ending all forms of violence against children.
-
-There was little or no attempt by most Israeli-friendly nations to make use of the day to issue a powerful statement calling the Zionist aggressor to stop its slaughter of the lambs in Gaza. They probably feared that if they did so, they would only expose Israel as the post-World War II world’s most gruesome child killer.
-
-...
-
-[Data](articles/8089052d.json)
-
-[Extended Data](ext_articles/8089052d.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-07 20:34:27**
+As of **2024-06-07 20:53:27**
 
 ## Newspaper Stats
 
@@ -26,33 +26,43 @@ adaderanasinhalalk | 4,668
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,100 (100.0%) of 29,102 articles have been extended.
+29,102 (100.0%) of 29,102 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-07 (Friday)
 
-### ශ්‍රී ලංකා ක්‍රිකට් පිලට අමෙරිකාවේදී අමිහිරි අත්දැකීම්
+### Sri Lanka cricket beat Sri Lanka
 
 *2024-06-07 19:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197505) · `si`
 
-ලෝක කුසලාන 20යි 20 ක්‍රිකට් තරගාවලියට අමරිකාවට ගොස් සිටින ශ්‍රී ලංකා කණ්ඩායම ගැටලු රැසකට මුහුණ දී තිබේ.
+Sri Lanka's cricket team faced significant challenges during their preparation for the T20 World Cup, including flight delays, accommodation issues, and stadium problems. Their journey from Florida to New York was delayed by seven hours, causing them to miss two training sessions. The team, along with Ireland and South Africa, complained to the ICC about these issues. Despite these setbacks, the ICC announced the inclusion of two pitches at the Nassau Cricket Stadium for the tournament.
 
-ඒ, ගුවන් යානා ප්‍රමාදවීම්, නවාතැන් ගන්නා හෝටල් සහ ක්‍රීඩාංගන අතර පවතින දුර මෙන්ම ක්‍රීඩාංගන තණතීරු සම්බන්ධයෙනි.
+🟩
 
-ශ්‍රී ලංකා පිල පළමු අත්දැකීමට මුහුණදුන්නේ, අයර්ලන්තය සමග පැවැති පුහුණු තරගයෙන් පසුව ෆ්ලොරිඩා සිට නිව්යෝර්ක් දක්වා පැමිණීමේදී සිදුවූ ගුවන් ගමන් ප්‍රමාදයයි.
+Sri Lanka Sri Lanka has faced many problems for the World Cups T20 cricket tournament.
 
-එහිදී ශ්‍රී ලංකා, අයර්ලන්තය සහ දකුණු අප්‍රිකානු කණ්ඩායමට පැය හතක කාලයක් ෆ්ලොරිඩා ගුවන් තොටුපොළ තුළ රැඳීසිටීමට සිදුවුණි.
+It is between aircraft delays, lodging hotels and stadiums.
 
-ඒ එම කණ්ඩායම් ගමන් කිරීමට නියමිතව තිබූ ගුවන් යානය පැය හතක් ප්‍රමාදවීම හේතුවෙනි.
+Sri Lanka's first experience was experienced after the training match with Ireland, the flight of flights to New York.
 
-ඒ අනුව මැයි 31 වැනි සිකුරාදා රාත්‍රී 8ට නිව්යෝර්ක් වෙත ළඟාවීමට නියමිතව සිටි ක්‍රීඩකයින් නිව්යෝර්ක් වෙත ළඟාවී තිබුණේ ජුනි 1 වැනි සෙනසුරාදා අලුයම 5ටයි.
+Sri Lanka, Ireland and South African team have been staying in Florida for seven hours.
 
-එහිදී ශ්‍රී ලංකා කණ්ඩායම දකුණු අප්‍රිකානු තරගයට පෙර නිව්යෝර්ක් හිදී සෙනසුරාදා සහ ඉරිදා පැවැත්වීමට සැලසුම් කර තිබූ පුහුණු සැසි දෙකක් අවලංගු කිරීමට ද සිදුවුණි.
+The plane that was to travel by the group was delayed due to delay for seven hours.
+
+Accordingly, players who were to reach New York on Friday, May 31 and arrived in New York at 5nd Saturday, June 1.
+
+The Sri Lankan team had to cancel two training sessions planned on Saturdays and Sunday before the South African match.
+
+The other problem with Sri Lankan players is the delays in the hotel to the competition.
+
+Sri Lanka, Ireland and South African groups have lodged a complaint with the International Cricket Council regarding these issues that have been faced with the US in the World Cup.
 
 ...
 
 [Data](articles/97a46385.json)
+
+[Extended Data](ext_articles/97a46385.ext.json)
 
 ---
 
@@ -69,6 +79,8 @@ Hajj, one of Islam’s five pillars, is the pilgrimage to Makkah in Saudi Arabia
 ◼️
 
 [Data](articles/b4490e45.json)
+
+[Extended Data](ext_articles/b4490e45.ext.json)
 
 ---
 

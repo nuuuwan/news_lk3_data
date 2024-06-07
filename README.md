@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-07 23:04:09**
+As of **2024-06-07 23:24:46**
 
 ## Newspaper Stats
 
-*Scraped **29,122** Articles*
+*Scraped **29,124** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,38 @@ economynextcom | 1,665
 dailyftlk | 1,730
 adalk | 2,484
 adaderanalk | 3,298
-tamilmirrorlk | 3,419
+tamilmirrorlk | 3,420
 virakesarilk | 4,473
-dailymirrorlk | 4,628
+dailymirrorlk | 4,629
 adaderanasinhalalk | 4,672
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,119 (100.0%) of 29,122 articles have been extended.
+29,122 (100.0%) of 29,124 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-07 (Friday)
+
+### Man in viral child assault video attacked in Prison
+
+*2024-06-07 22:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Man-in-viral-child-assault-video-attacked-in-Prison/108-284363) · `en`
+
+The person who was seen assaulting a small boy in a viral video has been attacked by inmates of the Anuradhapura prison following his arrest and remand.
+
+The police said he was admitted to the Anuradhapura Teaching Hospital. The person, who is said to be the paramour of the boy’s mother, was arrested by the Welioya Police and produced before the Padaviya Magistrate, who remanded him till June 19.
+
+The suspect who is a resident of the village called ‘Hansawila’ in Welioya has been assaulted by the inmates of the Anuradhapura prison. He has allegedly assaulted the child for eating sugar kept in a glass container.
+
+He was arrested while hiding. His son had videoed him assaulting the child and released it on social media platforms.
+
+◼️
+
+[Data](articles/d7aff1f6.json)
+
+---
 
 ### Céline Dion says illness has caused muscle spasms that broke her ribs
 
@@ -45,6 +63,22 @@ Dion also said that when she experiences muscle spasms in her throat, “it’s 
 ...
 
 [Data](articles/561f67f7.json)
+
+[Extended Data](ext_articles/561f67f7.ext.json)
+
+---
+
+### சிறுமியை தாக்கிய குகுல் சமிந்த மீது கடுமையாக தாக்குதல்
+
+*2024-06-07 22:28:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறுமியை-தாக்கிய-குகுல்-சமிந்த-மீது-கடுமையாக-தாக்குதல்/175-338607) · `ta`
+
+முல்லைத்தீவு  - மணலாறு பகுதியில் நான்கரை வயது சிறுமி மீது தாக்குதல் நடத்திய குற்றச்சாட்டில் விளக்கமறியலில் வைக்கப்பட்டுள்ள குகுல் சமிந்த மீது, இன்று (07) சிறைக் கைதிகள் கடுமையாக தாக்குதல் நடத்தியுள்ளனர்.
+
+தாக்குதல் சம்பவத்தில் காயமடைந்த குகுல் சமிந்த, அநுராதபுரம் போதனா வைத்தியசாலையில் அனுமதிக்கப்பட்டதாக பொலிஸார் தெரிவிக்கின்றனர்.
+
+◼️
+
+[Data](articles/8f2ca2e6.json)
 
 ---
 
@@ -730,6 +764,8 @@ On 2 June 2022 President Biden published an op-ed in the New York Times titled �
 
 [Data](articles/8cbf025c.json)
 
+[Extended Data](ext_articles/8cbf025c.ext.json)
+
 ---
 
 ### Mother and casual husband arrested for a four-year-old child
@@ -861,6 +897,8 @@ Predictably, this has stirred a “Hornet’s nest,” in the form of protests f
 ...
 
 [Data](articles/b2b8d6b4.json)
+
+[Extended Data](ext_articles/b2b8d6b4.ext.json)
 
 ---
 
@@ -2277,59 +2315,5 @@ A hospital official said that the condition of the injured is not worrisome and 
 [Data](articles/d220d337.json)
 
 [Extended Data](ext_articles/d220d337.ext.json)
-
----
-
-### Sri Lanka asks what happened in the World Cup
-
-*2024-06-07 10:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197487) · `si`
-
-Sri Lanka's sports minister, Harin Fernando, discussed the team's experience at the T20 World Cup, highlighting issues like delayed flights due to technology errors and complaints filed with the ICC. He also mentioned the ban on US Cricket participating in ICC tournaments. The opposition leader, Sajith Premadasa, called for standing against perceived ICC injustices.
-
-🟩
-
-The Minister of Sports Harin Fernando said that the Sri Lankan team had faced at the T20 World Cup.
-
-Speaking in Parliament today (07), he added that the Sri Lanka Cricket team had been sent to the United States to carry out the US.
-
-"Sri Lanka team, Irish group and South Africa's technological error occurred at the airport for seven hours. SLC has already lodged a complaint under the ICC. "
-
-"Because it is only one of the countries. Bangladesh team is the most tour of the number of kilometers. Two Sri Lanka. "
-
-"US Cricket is forbidden by the ICC. That is the ICC cricket tournament in the United States. "
-
-"We told 3 more than 2 weeks ago.. Schedule a representative from SLC and make the team uncomfortable. Person has been appointed in this regard. He's gone there. But we have asked him about these problems. This will take action. "
-
-Meanwhile, Opposition Leader Sajith Premadasa said that we should stand against ICC injustices.
-
-◼️
-
-[Data](articles/49bc9a37.json)
-
-[Extended Data](ext_articles/49bc9a37.ext.json)
-
----
-
-### ’Sinister move to remove me from COPF’: Harsha
-
-*2024-06-07 10:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sinister-move-to-remove-me-from-COPF-Harsha/108-284334) · `en`
-
-Parliament, June 07 (Daily Mirror)- Chairman of the Committee on Public Finance (COPF) Dr. Harsha de Silva today alleged that there is a sinister move to remove him from his post.
-
-“I have been told that signatures are being collected from COPF members to remove me from the chairmanship. I am willing to resign if I am not wanted,” he said.
-
-“I had to face challenges when carrying out my duties as the Chairman of COPFF. I was to be removed following the stand which COPF held on the Value Added Tax (VAT),” he added.
-
-Dr. de Silva said COPF was able to mediate and reveal facts on the sugar scam, and was able to come up with a proposal to reduce the PAYE tax to 24 percent.
-
-Also, he said he had to use his personal funds to pay salaries to the staff involved with COPF.
-
-“My pressure will go up because of these issues and I might die. I am also suffering from tension,” he added.
-
-◼️
-
-[Data](articles/27066ecb.json)
-
-[Extended Data](ext_articles/27066ecb.ext.json)
 
 ---

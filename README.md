@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-07 12:19:02**
+As of **2024-06-07 12:34:19**
 
 ## Newspaper Stats
 
-*Scraped **29,030** Articles*
+*Scraped **29,032** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,59 @@ islandlk | 1,565
 economynextcom | 1,655
 dailyftlk | 1,730
 adalk | 2,479
-adaderanalk | 3,285
+adaderanalk | 3,286
 tamilmirrorlk | 3,413
 virakesarilk | 4,454
 dailymirrorlk | 4,612
-adaderanasinhalalk | 4,653
+adaderanasinhalalk | 4,654
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,030 (100.0%) of 29,030 articles have been extended.
+29,030 (100.0%) of 29,032 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-07 (Friday)
+
+### Nearly 6,000 houses damaged due to adverse weather
+
+*2024-06-07 12:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/99723/nearly-6000-houses-damaged-due-to-adverse-weather) · `en`
+
+The Disaster Management Center (DMC) says that a total of 5,587 houses have been damaged due to the prevailing adverse weather conditions in parts of the island.
+
+Among them, 56 houses have suffered serious damages while 5,531 houses have been partially damaged, according to the DMC.
+
+Meanwhile, the number of fatalities reported due to the prevailing weather conditions has also increased to 32, while 01 person is still reported missing.
+
+The number of individuals who sustained injuries during the inclement weather is 16, as per the reports of the DMC.
+
+The Disaster Management Center further states that 7,639 displaced persons have been moved to 1,973 relief centres established across the island.
+
+It is said that a total of 239,006 individuals from 63,413 families have been affected by the prevailing adverse weather conditions across the island.
+
+◼️
+
+[Data](articles/00fb71e9.json)
+
+---
+
+### රාජ්‍ය ණය සම්බන්ධයෙන් හෙළිදරව්වක්
+
+*2024-06-07 12:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197491) · `si`
+
+ශ්‍රී ලංකා රජයේ දේශීය සහ ණය සම්බන්ධයෙන් මුදල් රාජ්‍ය අමාත්‍ය ෂෙහාන් සේමසිංහ මහතා අද (07) පාර්ලිමේන්තුවේදී හෙළිකළේය.
+
+ඒ අනුව 2023 දෙසැම්බර් 31 වනදා වනවිට දේශීය ණය රුපියල් බිලියන 17,051 වූ බවත් එය 2024 මාර්තු 31 වනදා වනටිට රුපියල් බිලියන 17,252ක් බවත් ඔහු පැවසීය.
+
+2022 අප්‍රේල් සිට නොගෙවූ බාහිර ණය වාරික වල වටිනාකම වූ ඩොලර් බිලියන 5.5ක් ද ඊට ඇතුළත් ය.
+
+◼️
+
+[Data](articles/adf7a9b5.json)
+
+---
 
 ### Graduoda's petition panel of judges
 
@@ -2177,41 +2215,5 @@ The United States won the toss and decided to give Pakistani to bat first.
 [Data](articles/e9e98e40.json)
 
 [Extended Data](ext_articles/e9e98e40.ext.json)
-
----
-
-### Floods may trigger dengue epidemic, warns health expert
-
-*2024-06-06 20:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Floods-may-trigger-dengue-epidemic-warns-health-expert/108-284290) · `en`
-
-June 06 - While emphasizing the critical importance of effectively managing the spread of the dengue, Director of the National Dengue Control Unit Dr. Sudath Samaraweera noted that the current flood situation could potentially escalate the dengue outbreak to an epidemic level.
-
-Dr. Sudath Samaraweera, a specialist, made this revelation while participating in a special news conference held at the Presidential Media Centre today (06).
-
-He emphasized that dengue disease extends beyond mere health implications, presenting significant economic and social challenges.
-
-Dr. Samaraweera underscored that the Ministry of Health alone cannot effectively control the spread of dengue and requires full public support.
-
-Further he disclosed that within the last five months of this year, over 25,000 dengue cases and nine dengue-related deaths have been reported.
-
-◼️
-
-[Data](articles/6c9066f0.json)
-
-[Extended Data](ext_articles/6c9066f0.ext.json)
-
----
-
-### Should The Economic Transformation Bill Proceed? – Part II
-
-*2024-06-06 20:54:15* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/should-the-economic-transformation-bill-proceed-part-ii/) · `en`
-
-Part – I examined Sections 3 and 4 of the Economic Transformation Bill (ETB), which set targets for debt to GDP, debt financing needs, GDP growth rates, exports to GDP, employment expectations, and foreign direct investment from 2024 to 2032 and up to 2048, the year of Advanced Economic Status as envisaged by ETB. It also discussed inclusive growth and social progress. A proposed new institutional setup to spearhead investment in ETB was also indicated. A critical view of the content of PARTI is presented below.
-
-...
-
-[Data](articles/38c596bb.json)
-
-[Extended Data](ext_articles/38c596bb.ext.json)
 
 ---

@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-07 08:53:30**
+As of **2024-06-07 09:04:55**
 
 ## Newspaper Stats
 
-*Scraped **28,988** Articles*
+*Scraped **28,992** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 263
-dbsjeyarajcom | 275
+dbsjeyarajcom | 276
 bbccomsinhala | 281
 newsfirstlk | 363
 islandlk | 1,565
@@ -19,34 +19,100 @@ adalk | 2,475
 adaderanalk | 3,281
 tamilmirrorlk | 3,405
 virakesarilk | 4,445
-dailymirrorlk | 4,604
+dailymirrorlk | 4,607
 adaderanasinhalalk | 4,646
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-28,987 (100.0%) of 28,988 articles have been extended.
+28,988 (100.0%) of 28,992 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-07 (Friday)
 
-### ’வட மாகாண அபிவிருத்தியில் விசேட கவனம்’
+### Ruling is a significant step for all female victims in Sri Lanka: Caroline Jonsson
+
+*2024-06-07 08:49:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Ruling-is-a-significant-step-for-all-female-victims-in-Sri-Lanka-Caroline-Jonsson/155-284321) · `en`
+
+Colombo, June 7 (Daily Mirror) - In the wake of the announcement of the judgement, the family of victim Yvonne Jonsson, said this ruling is not only a victory for our family but also for all who believe in the rule of law.
+
+Her sister Caroline Jonsson who issued the statement on behalf of the family said it is also a significant step for all female victims in Sri Lanka, affirming that their lives and dignity cannot be compromised by arbitrary decisions.
+
+“The Supreme Court ruling that former President Maithripala Sirisena’s pardon of Yvonne's murderer is arbitrary and not valid in law brings us a profound sense of relief and justice.
+
+The tragic and brutal loss of Yvonne has left an unfillable void in our hearts, causing us immense and ongoing pain. The pardon felt like a deep betrayal, compounding our grief and anguish. This judgement reaffirms the importance of justice and accountability, emphasizing that decisions of such significance cannot be made on a whim.
+
+...
+
+[Data](articles/632b80b8.json)
+
+---
+
+### Authorities to pursue extradition of Jayamaha
+
+*2024-06-07 08:43:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Authorities-to-pursue-extradition-of-Jayamaha/108-284320) · `en`
+
+Colombo, June 7 (Daily Mirror) Following the Supreme Court's ruling declaring former President Maithripala Sirisena's pardon of Don Shamantha Jude Anthony Jayamaha as arbitrary and invalid, Sri Lankan authorities have intensified efforts to bring the convicted murderer back to the country, suspected to be in Singapore.
+
+However, Sri Lanka’s efforts are likely to hit a snag in this regard because no extradition treaty has been signed yet with Singapore.
+
+Such an agreement can be signed only with the concurrence of the two countries. Sri Lanka has signed such agreements with numerous other countries.
+
+According to police sources, Jayamaha, who had been serving a prison sentence for the Royal Park murder case, left Sri Lanka on November 15, 2019, just days before an interim order was issued prohibiting him from leaving the country.
+
+It was revealed that Jayamaha had obtained a passport on November 13, 2019 immediately after receiving the presidential pardon.
+
+...
+
+[Data](articles/67085965.json)
+
+---
+
+### USA stun Pakistan in T20 World Cup super over
+
+*2024-06-07 08:38:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/USA-stun-Pakistan-in-T20-World-Cup-super-over/108-284319) · `en`
+
+USA, June 7 (BBC) - The United States pulled off one of the biggest shocks in cricket history by beating Pakistan in a super over in Dallas.
+
+Pakistan looked to be avoiding embarrassment at the T20 World Cup before Nitish Kumar hit the final ball of the US innings for four to tie the scores at 159.
+
+Sloppy for large parts of the game, Pakistan fell apart in the tie-breaker. Mohammad Amir bowled three wides, one of which the co-hosts also pinched two extra runs from.
+
+The US scrambled to 18-1, leaving Pakistan to chase 19 off left-arm seamer Saurabh Netravalkar. When 14 were needed off four balls, Kumar made another crucial intervention, this time holding a magnificent catch at long-off to dismiss Iftikhar Ahmed.
+
+With seven required from the last ball, Shadab Khan could only take a single, sparking joyous celebrations among the American players and supporters.
+
+All this at the end of a riveting contest, one which fluctuated in the burning Texas sunshine.
+
+...
+
+[Data](articles/34fec2a8.json)
+
+---
+
+### Special attention on the development of the Northern Province
 
 *2024-06-07 08:17:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வட-மாகாண-அபிவிருத்தியில்-விசேட-கவனம்/175-338578) · `ta`
 
-யுத்தத்தினால் பாதிக்கப்பட்ட வட மாகாணத்தின் அபிவிருத்தி நடவடிக்கைகள் தொடர்பில் ஜனாதிபதி ரணில் விக்கிரமசிங்க விசேட கவனம் செலுத்தியுள்ளார் என கிராமிய பொருளாதார இராஜாங்க அமைச்சர் காதர் மஸ்தான் தெரிவித்தார்.
+President Ranil Wickremesinghe is focusing on developing the war-affected Northern Province, with significant efforts in Vavuniya, Mullaitivu, and Mannar districts. The government is releasing lands from dense forests for resettlement and providing relief for floods, as announced by Rural Economic Minister Katar Mastan and State Minister Khadar Mastan.
 
-ஜனாதிபதி ஊடக மையத்தில் நேற்று நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே இராஜாங்க அமைச்சர் காதர் மஸ்தான் இவ்வாறு  தெரிவித்தார். அவர் மேலும் தெரிவிக்கையில்,
+🟩
 
-இன்று மக்கள் ஓரளவுக்கு அவர்களின் தேவைகளைப் பூர்த்தி செய்து வருகின்றனர். இந்த நிலையில், எமது பகுதிகளில் குறிப்பாக வவுனியா, முல்லைத்தீவு மற்றும் மன்னார் மாவட்டங்களில் அரசாங்கத்தின் பாரிய வேலைத் திட்டங்கள் நடந்து வருகின்றன.
+President Ranil Wickremesinghe has paid special attention to the development activities of the war -affected Northern Province, Rural Economic Minister Katar Mastan said.
 
-யுத்தத்தினால் பாதிக்கப்பட்ட மாகாணம் என்ற வகையில் வட மாகாணத்தின் அபிவிருத்திப் பணிகள் குறித்து ஜனாதிபதி ரணில் விக்கிரமசிங்க விசேட கவனம் செலுத்தி வருகிறார். குறிப்பாக அங்கு உள்ள பாராளுமன்ற உறுப்பினர்களுக்குத் தேவையான நிதிகளை ஒதுக்கி அனைவரையும் ஒன்றிணைத்து இப்பணிகளை ஜனாதிபதி முன்னெடுத்து வருகிறார்.
+State Minister Khadar Mastan said this at a media briefing held at the Presidential Media Center yesterday. As he further stated,
+
+Today people are somewhat meeting their needs. In this context, the government's massive programs are underway in our areas, especially in the Vavuniya, Mullaitivu and Mannar districts.
+
+President Ranil Wickremesinghe is paying special attention to the development work of the Northern Province as a war -affected province.. The President is carrying out these tasks in particular by allocating funds for the MPs.
 
 ...
 
 [Data](articles/8925e8ca.json)
+
+[Extended Data](ext_articles/8925e8ca.ext.json)
 
 ---
 
@@ -1870,6 +1936,22 @@ The Bill seeks to provide for the establishment of the National Electricity Advi
 
 ---
 
+### Range Bandara’s  “Loud Thinking” about Election Postponement Damages   Ranil’s Election Campaign in the Short Term.
+
+*2024-06-06 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84130) · `en`
+
+Sri Lanka’s political stage was enlivened last week by the solo performance of  United National Party (UNP) general -secretary Palitha Range Bandara. Addressing a media briefing on 28 May, the policeman turned politician came out with a suggestion that the presidential election due this year and the Parliamentary election scheduled for next year should be postponed while the terms of office for both should be extended by two more years. The former Puttalam district and ex-state minister wanted a resolution passed by Parliament to that effect and ratified by the people at a referendum.
+
+The essence of what Palitha Range Bandara proposed was this -. Ranil Wickremesinghe took over the country’s leadership at a time of a great economic crisis. Considerable progress  has been achieved by the  Wickremesinghe Govt to remedy the situation. A degree of economic stability has been established but more time is needed to ensure greater economic stability.
+
+...
+
+[Data](articles/3cbabeda.json)
+
+[Extended Data](ext_articles/3cbabeda.ext.json)
+
+---
+
 ### Badulla Sumanasara Thera removed from the post of Sanganayake
 
 *2024-06-06 18:07:57* · [`adalk`](https://www.ada.lk/breaking_news/බදුල්ල-ගම්මන-සුමනසාර-හිමියන්-සංඝනායක-ධුරයෙන්-ඉවත්-කෙරෙති/11-410059) · `si`
@@ -1917,6 +1999,24 @@ The bank’s core asset-quality metric – impaired (stage 3) loan ratio – inc
 [Data](articles/0b3fb6db.json)
 
 [Extended Data](ext_articles/0b3fb6db.ext.json)
+
+---
+
+### President  Ranil Wickremesinghe  Opens New Political Office  in Colombo on Sir Ernest de Silva  Mawatte to Coordinate and Direct Future Operations Regarding  Presidential Elections
+
+*2024-06-06 18:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84161) · `en`
+
+(Text of Press Release Issued by the President’s  Media  Division on 6 June 2024)
+
+President Ranil Wickremesinghe inaugurated his new political office in Colombo today (06) at an auspicious moment. The office, located on Sir Ernest de Silva Mawatha, will serve as the center for future political operations.
+
+The ceremony included religious rites and blessings performed by prominent religious leaders, including the Chief Sanghanayake of the Western Province, Venerable Dr. Murutthettuwe Ananda Nayaka Thero, the Chancellor of the University of Colombo, Chief Sanghanayake of the Uva Province with Colombo District, Venerable Maharagama Nanda Nayaka Thero, and the head of five major temples including the Kollupitiya Valukarama Maha Viharaya.
+
+The establishment of the office was initiated by United National Party Chairman and Member of Parliament, Mr. Wajira Abeywardena.
+
+...
+
+[Data](articles/2faad05d.json)
 
 ---
 
@@ -2087,101 +2187,5 @@ After the incident, he fled the area and drank poison in a secret place. A perso
 [Data](articles/1fe463f7.json)
 
 [Extended Data](ext_articles/1fe463f7.ext.json)
-
----
-
-### Update:  Parliament approves Electricity Bill
-
-*2024-06-06 17:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Update-Parliament-approves-Electricity-Bill/155-284281) · `en`
-
-Parliament, June 06 (Daily Mirror)- The Sri Lanka Electricity Bill was passed in Parliament with amendments.
-
-A vote was taken for the second reading of the Sri Lanka Electricity Bill and it was passed with a majority of 44 votes.
-
-A total of 103 MPs voted in favour of the Bill while 59 MPs voted against.
-
-◼️
-
-[Data](articles/4178cd33.json)
-
-[Extended Data](ext_articles/4178cd33.ext.json)
-
----
-
-### Update:  Parliament approves Electricity Bill
-
-*2024-06-06 17:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Update-Parliament-approves-Electricity-Bill/108-284281) · `en`
-
-Parliament, June 06 (Daily Mirror)- The Sri Lanka Electricity Bill was passed in Parliament with amendments.
-
-A vote was taken for the second reading of the Sri Lanka Electricity Bill and it was passed with a majority of 44 votes.
-
-A total of 103 MPs voted in favour of the Bill while 59 MPs voted against.
-
-◼️
-
-[Data](articles/c299c363.json)
-
-[Extended Data](ext_articles/c299c363.ext.json)
-
----
-
-### Minister calls out opposition hypocrisy on Sri Lanka electricity reforms
-
-*2024-06-06 17:21:00* · [`economynextcom`](https://economynext.com/minister-calls-out-opposition-hypocrisy-on-sri-lanka-electricity-reforms-166576/) · `en`
-
-ECONOMYNEXT — The two major parties in the opposition have proposed similar amendments to energy laws, Power & Energy Minister Kanchana Wijesekara said, adding that the new electricity reform bill will result in the disappearance of utilities unions.
-
-Wijesekara told parliament on Thursday June 06 that both the main opposition Samagi Jana Balawegaya (SJB) and the leftist National People’s Power (NPP) have formally proposed similar revisions to the laws governing the electricity sector despite their loud protests against the government’s bill.
-
-Insisting that Sri Lanka’s power & energy sector needs the new law to move into the future, the minister said that if that were possible with the existing law, CEB restructuring would’ve been done already.
-
-The CEB enjoys a monopoly in electricity in a way no other state-owned enterprise does on anything, he said.
-
-...
-
-[Data](articles/f756d436.json)
-
-[Extended Data](ext_articles/f756d436.ext.json)
-
----
-
-### Power and Bill a vote for second reading
-
-*2024-06-06 17:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197468) · `si`
-
-The Sri Lanka Electricity Bill passed its second reading in parliament with 103 votes in favor and 59 against, resulting in a majority of 44 votes.
-
-🟩
-
-The Sri Lanka Electricity Bill was held today (6th) parliament today.
-
-There were 103 votes in favor of the Bill and 59 votes.
-
-Accordingly, the Speaker informed Parliament the second reading of the Sri Lanka Electricity Bill was passed by a majority of 44 votes.
-
-◼️
-
-[Data](articles/2a312ce0.json)
-
-[Extended Data](ext_articles/2a312ce0.ext.json)
-
----
-
-### Second reading of ‘Sri Lanka Electricity Bill’ passed in Parliament
-
-*2024-06-06 17:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/99712/second-reading-of-sri-lanka-electricity-bill-passed-in-parliament) · `en`
-
-The second reading of the draft ‘Sri Lanka Electricity Bill’ was passed in the Parliament this evening (06) with a majority of 44 votes.
-
-The number of votes received in favor of the bill was 103, while 59 MPs had voted against the bill.
-
-Opposition parliamentarians including those from the ‘Samagi Jana Balawegaya’ (SJB), National People’s Power (NPP) and the independent MPs voted against the bill.
-
-◼️
-
-[Data](articles/4577fb0d.json)
-
-[Extended Data](ext_articles/4577fb0d.ext.json)
 
 ---

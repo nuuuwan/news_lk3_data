@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-07 14:05:21**
+As of **2024-06-07 14:19:01**
 
 ## Newspaper Stats
 
-*Scraped **29,047** Articles*
+*Scraped **29,050** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ adaderanalk | 3,288
 tamilmirrorlk | 3,413
 virakesarilk | 4,459
 dailymirrorlk | 4,615
-adaderanasinhalalk | 4,655
+adaderanasinhalalk | 4,658
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,043 (100.0%) of 29,047 articles have been extended.
+29,047 (100.0%) of 29,050 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-07 (Friday)
+
+### නිවාස පිරිසිඳු කරගැනීමට රු 10000 දෙන ක්‍රමවේදය මෙන්න
+
+*2024-06-07 14:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197495) · `si`
+
+ගංවතුර බලපෑමට ලක්වූ නිවාස පිරිසිඳු කරගැනීම සඳහා රජයෙන් ලබාදෙන රුපියල් 10,000ක මුදල ලබාගත හැකි ක්‍රමවේදය පිළිබඳ අද (07) ජනතාව දැනුවත් කෙරුණි.
+
+එහිදී ආපදා කළමනාකරණ මධ්‍යස්ථානයේ අධ්‍යක්ෂ ප්‍රදීප් කොඩිප්පිලි මහතා පැවසුවේ ඒ සඳහා ග්‍රැම නිලධාරී සහතිකය අවශ්‍ය බවය.
+
+"ගංවතුරෙන් හානි වූ නිවාස පිරිසිඳු කරගැනීම සඳහා රජයෙන් රුපියල් 10,000 බැගින් ලබාදීමට කටයුතු කරනවා. එය ලබාගැනීමේදී ග්‍රාම නිලධාරී සහතිකය සහ ඊට අදාළ නිර්දේශ අවශ්‍ය වෙනවා."
+
+අයහපත් කාලගුණ තත්ත්වය හේතුවෙන් ඉකුත් 01 වනදා සිට මේ දක්වා ප්‍රාදේශීය ලේකම් කොට්ඨාස 113ක එනම් දිස්ත්‍රික්ක 13ක ජනතාව පීඩාවට පත්වී ඇති බවද ඔහු පැවසීය.
+
+පුද්ගලයන් 239,000කට අධික පිරිසක් අවතැන්වී ඇති බවද ප්‍රදීප් කොඩිප්පිලි මහතා සඳහන් කළේය.
+
+◼️
+
+[Data](articles/69fc0707.json)
+
+---
 
 ### Section of Colombo–Kandy road to be closed intermittently
 
@@ -45,6 +65,28 @@ The Kegalle District Secretary also said that the closure is necessary to remove
 ◼️
 
 [Data](articles/426dda13.json)
+
+[Extended Data](ext_articles/426dda13.ext.json)
+
+---
+
+### දුම්රිය වර්ජනවලට මගීන්ගෙන් විසඳුමක්
+
+*2024-06-07 13:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197494) · `si`
+
+ඉල්ලීම් කිහිපයක් මුල් කරගනිමින් දුම්රිය රියදුරන් පිරිසක් ඊයේ (06) මධ්‍යම රාත්‍රියේ සිට දියත් කළ වර්ජනයෙන් මගීන් අද (07) දැඩි අපහසුතාවයට පත්වුණි.
+
+වර්ජනයේ නිරත ලොකොමොටිව් ඔපරේටින් ඉංජිනේරු සංගමය පවසන්නේ අද පස්වරුව වනවිට දුම්රිය ගමන්වාර 100ක් පමණ අවලංගු විය හැකි බවය.
+
+ලොකොමොටිව් ඔපරේටින් ඉංජිනේරු සංගමය දියත් කරන මෙම වර්ජනයට දුම්රිය ධාවනාගාර 5න් ධාවනාගාර දෙකක පමණක් රියදුරන් එක්වී සිටී.
+
+මේ හේතුවෙන් බලවේග කට්ටල දුම්රිය ධාවනය සිදුනොවන බවට වාර්තා වෙයි.
+
+දුම්රිය වෘත්තීය සමිති විටින් විට සිදුකරන වර්ජන හේතුවෙන් පීඩාවට පත්වන දුම්රිය මගීන් පවසන්නේ, දුම්රිය සේවය පෞද්ගලීකරණය කළහොත් තමන්ට හොඳ සේවාවක් ලබාගත හැකි බවය.
+
+◼️
+
+[Data](articles/50242c9a.json)
 
 ---
 
@@ -62,6 +104,22 @@ Responding to a question by Opposition Leader Sajith Premadasa, he said the ICC 
 
 [Data](articles/be639c92.json)
 
+[Extended Data](ext_articles/be639c92.ext.json)
+
+---
+
+### පහළ කඩුගන්නාව කොටසේ පාර හෙට විටින්විට වසා දැමේ
+
+*2024-06-07 13:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197493) · `si`
+
+කොළඹ නුවර මාර්ගයේ පහළ කඩුගන්නාව කොටස හෙට (08) විටින්විට වසා දැමෙන බව කෑගල්ල දිස්ත්‍රික් ලේකම්වරයා පවසයි.
+
+ඒ, අදාළ මාර්ගයේ අවදානම් සහිත ගල් ඉවත් කිරීමට සහ ගස්වල අතු ඉවත් කිරීමට බව ඔහු පැවසීය.
+
+◼️
+
+[Data](articles/223db29d.json)
+
 ---
 
 ### Pahala Kadugannawa Road to close tomorrow
@@ -77,6 +135,8 @@ He said that the motorists were advised to use alternative roads.
 ◼️
 
 [Data](articles/d6861085.json)
+
+[Extended Data](ext_articles/d6861085.ext.json)
 
 ---
 
@@ -95,6 +155,8 @@ However, the Railways Department announced that the services could be restored b
 ◼️
 
 [Data](articles/39653f4a.json)
+
+[Extended Data](ext_articles/39653f4a.ext.json)
 
 ---
 
@@ -2167,81 +2229,5 @@ Meanwhile, in August 2020, the electricity tariff was increased by 66 per cent. 
 [Data](articles/e8195d18.json)
 
 [Extended Data](ext_articles/e8195d18.ext.json)
-
----
-
-### 1,700 rupees won't get this month
-
-*2024-06-07 00:29:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/1-700-ரூபாய்-சம்பளம்-இம்மாதம்-கிடைக்காது/175-338572) · `ta`
-
-A proposed 1,700 rupee salary hike for plantation workers, announced via a May 21st gazette notification, faces opposition from employers who claim financial strain. Despite a court appeal hearing on June 3rd, no interim injunction was issued against the wage increase. Workers await confirmation of the new rate, but plantation administrators insist the old salaries will apply due to the completion of this month's payroll before the announcement.
-
-🟩
-
-The 1,700 rupee salary hike for plantation workers is suspected of getting workers on the 10th of this month.
-
-The Secretary of the Ministry of Labor issued a gazette notification on May 21 to pay a daily salary of Rs 1,700 for plantation workers.
-
-The Plantation Employers Federation was opposed to the fact that it could not afford the workers. The 21 plantation companies have filed a case in the Court of Appeal, challenging the salary increase gazette.
-
-The Court of Appeal, which was heard by the case on the 03rd, ruled that an interim injunction was not issued against the Gazette.
-
-In the meantime, workers are hoping that the monthly salary will be made at Rs 1,700.
-
-However, the final account of this month's salary was completed by the plantation administrations on Wednesday 05th. Therefore, plantation union leaders say the old salary will be available.
-
-Plantation administrations have told union leaders and union leaders that they have not been able to get any round of salary increases.
-
-◼️
-
-[Data](articles/13e3bc1f.json)
-
-[Extended Data](ext_articles/13e3bc1f.ext.json)
-
----
-
-### Electrode system
-
-*2024-06-07 00:09:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்கட்டணம்-குறையும்-முறை/175-338571) · `ta`
-
-Kanjana Wijesekera announced in Parliament that electricity prices will decrease from July 1st. The cost per unit for usage between 0-30 will drop from 8 to 6 rupees, and there will also be a reduction in the 20 rupee fixed charge. These changes were approved by the Cabinet and aim to ease financial burdens on consumers.
-
-🟩
-
-Minister of Power and Power and Power, Kanjana Wijesekera said that the electricity will be reduced from the first day of July.
-
-He said steps would be taken to reduce the 8 rupees of 8 rupees per unit of units from 0-30 to 6 rupees and reduce the 20 rupees of Rs.
-
-Speaking on Thursday (06) in Parliament, he said this while addressing the debate on the Electricity Board Reforms Bill.
-
-The policy relating to the electricity correction once every four months. This has been approved by the Cabinet.We completed the idea of ​​the electricity correction last week.
-
-Accordingly, amendments will be made to reduce the 30 rupees of Rs.
-
-◼️
-
-[Data](articles/a2714099.json)
-
-[Extended Data](ext_articles/a2714099.ext.json)
-
----
-
-### 2024-06-06 (Thursday)
-
-### Sri Lanka’s premier quality event, NCQP 2024 set for June 25
-
-*2024-06-06 23:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankas-premier-quality-event-NCQP-2024-set-for-June-25/108-284285) · `en`
-
-June 06 - The Sri Lanka Association for the Advancement of Quality and Productivity (SLAAQP) recently announced the upcoming National Convention on Quality and Productivity (NCQP) 2024, which will take place on June 25, 2024, at the Mount Lavinia Hotel, under the theme "A Quest for Quality, Productivity, and Innovation."
-
-As the leading organization dedicated to the advancement of quality and productivity concepts in Sri Lanka, SLAAQP has consistently played a pivotal role in fostering a culture of excellence. The annual NCQP event serves as a significant platform for employees across various sectors to present their success stories and achievements in quality control circles, cross-functional teams, lean six sigma, kaizen, and other team-based improvement initiatives.
-
-The convention will feature competitions across several key categories, including quality control circles, cross-functional teams, quality improvement projects, lean six sigma teams, and kaizen suggestions.
-
-...
-
-[Data](articles/7964dfde.json)
-
-[Extended Data](ext_articles/7964dfde.ext.json)
 
 ---

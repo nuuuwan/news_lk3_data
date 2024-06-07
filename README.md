@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-06-07 22:52:13**
+As of **2024-06-07 23:04:09**
 
 ## Newspaper Stats
 
-*Scraped **29,119** Articles*
+*Scraped **29,122** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 263
+colombotelegraphcom | 265
 dbsjeyarajcom | 276
 bbccomsinhala | 283
 newsfirstlk | 363
@@ -19,18 +19,34 @@ adalk | 2,484
 adaderanalk | 3,298
 tamilmirrorlk | 3,419
 virakesarilk | 4,473
-dailymirrorlk | 4,627
+dailymirrorlk | 4,628
 adaderanasinhalalk | 4,672
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-29,119 (100.0%) of 29,119 articles have been extended.
+29,119 (100.0%) of 29,122 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-06-07 (Friday)
+
+### Céline Dion says illness has caused muscle spasms that broke her ribs
+
+*2024-06-07 22:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Céline-Dion-says-illness-has-caused-muscle-spasms-that-broke-her-ribs/108-284384) · `en`
+
+The Guardian, June 7- Céline Dion has said she has suffered muscle spasms so strong that her ribs were broken as a result, as she lives with the condition stiff person syndrome.
+
+Speaking in her first TV interview since the diagnosis, to Hoda Kotb on NBC News, Dion said: “I had broken ribs at one point, because sometimes when it’s very severe …” Kotb asks her: “It can spasm so hard it can break a rib?”, with Dion nodding agreement.
+
+Dion also said that when she experiences muscle spasms in her throat, “it’s like somebody is strangling you, like someone is pushing your larynx”, and explained that she can only speak at a certain pitch while experiencing the spasm. “But it can also be in the abdominal [area], in the spine, in the ribs,” she added, describing cramps in her hands: “It’s cramping, but it’s like in a position of, like, you cannot unlock them”.
+
+...
+
+[Data](articles/561f67f7.json)
+
+---
 
 ### New City for residents along Kelani River Bank - Sagala
 
@@ -702,6 +718,20 @@ Here is the pictures of the students who are floating in the water throughout th
 
 ---
 
+### The World Thankfully Rising To End US-Israeli Political Exceptionalism
+
+*2024-06-07 17:23:54* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-world-thankfully-rising-to-end-us-israeli-political-exceptionalism/) · `en`
+
+“The world order and American actions in the world have deep wiring” ~ Ben Rhodes
+
+On 2 June 2022 President Biden published an op-ed in the New York Times titled ‘How the US is willing to help Ukraine’ in which he declared that Russia’s action in Ukraine ‘could mark the end of the rules-based international order and open the door to aggression elsewhere, with catastrophic consequences the world over’. Later, in a press conference at the conclusion of the June 2022 NATO Summit Meeting in Madrid, he warned both Russia and China that the democracies of the world would ‘defend the rules-based order’(RBO). There was however no mention of international law. The term RBO is so frequently used by American political leaders, that it ‘seems to have become a job requirement for a top position in the US foreign policy apparatus’ as per analysts. US’ failure to invoke international law and instead to refer on most occasions to a ‘rules-based international order’ is not an omission, but deliberate.
+
+...
+
+[Data](articles/8cbf025c.json)
+
+---
+
 ### Mother and casual husband arrested for a four-year-old child
 
 *2024-06-07 17:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/197502) · `si`
@@ -817,6 +847,20 @@ The photo of Medaku Prabhakaran in the Mohan Poster of the film has caused great
 [Data](articles/b5bbf5bc.json)
 
 [Extended Data](ext_articles/b5bbf5bc.ext.json)
+
+---
+
+### “Minimum Estate Labour Wages” & Other Related Matters
+
+*2024-06-07 17:03:51* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/minimum-estate-labour-wages-other-related-matters/) · `en`
+
+President Wickremesinghe, drew much enthusiastic applause by his magnanimous promise of an increase of the daily wages of tea (and rubber) workers, to Rs. 1,700/= from the prevailing Rs.1,000/=.
+
+Predictably, this has stirred a “Hornet’s nest,” in the form of protests from the Estate Management sector. It is not unusual for politicians to make rash promises from May Day platforms, which haven’t the faintest chance of implementation. Cheering crowds are the dream of most politicians. But an exalted position of The Presidency of a country, should dampen any craving for the fleeting applause of a mass gathering. On this score, the President has lost. Not a good omen for one aspiring to a further term of office.
+
+...
+
+[Data](articles/b2b8d6b4.json)
 
 ---
 
@@ -2287,63 +2331,5 @@ Also, he said he had to use his personal funds to pay salaries to the staff invo
 [Data](articles/27066ecb.json)
 
 [Extended Data](ext_articles/27066ecb.ext.json)
-
----
-
-### Will 'People Selvan' Vijay Sethupathi 'Maharaja' save ...?
-
-*2024-06-07 10:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/185502) · `ta`
-
-"Maharaja," starring Vijay Sethupathi, set for release in Tamil, Telugu, Malayalam, and Kannada worldwide on April 14th, features a star-studded cast including Anurag Kashyap and Bharathiraja. Directed by Dinesh Purushothaman, it's produced by Jagadish Palanisamy and Sudan Sundaram. Despite the success of its trailer viewed by over six million, "Mary Christmas" didn't perform well commercially. Maharaja aims to break this trend, expected to be a significant hit, justifying Vijay Sethupathi's high market value."
-
-🟩
-
-The film 'Maharaja', which is starring in 'Nam Selvan' starring 'Nam Selvan', will be released in Tamil, Telugu, Malayalam and Kannada in the world on the 14th of this month.
-
-Vijay Sethupathi, Bollywood actor Anurag Kashyap, 'Virumandi' Abirami, 'Bharathiraja'Divyaparathi, Natti alias Natraj, Lion Tiger, Arul Das, Manikandan, Vinod Sagar, B. L. Many people including Thenappan. Dinesh Purushothaman has recorded the cinematography by B.. Ajanis Lokanath has composed the music. The film was co -produced by producers Jagadish Palanisamy and Sudan Sundaram on behalf of Fesan Studios and The Root.
-
-The preview of the film has been released by more than six million viewers within a short period of time.. In this case, the film will be released on the 14th of this month in the filmmaker, so that Vijay Sethupathi's fans are excited.
-
-...
-
-[Data](articles/29a0961e.json)
-
-[Extended Data](ext_articles/29a0961e.ext.json)
-
----
-
-### The shooting of 'Madraskaran' starring actor Shane Nikam
-
-*2024-06-07 10:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/185498) · `ta`
-
-"Madraskaran" shooting wrapped; directed by Wali Mohan Das, stars Shane Nikam, Kalairasan, Niharika Konitela, Aishwarya Dutta, Karunas, Pandiyarajan. Post-production begins soon, followed by the release of the first look and teaser.
-
-🟩
-
-The film crew has released a special video on the Internet that the shooting of the film 'Madraskaran' has been completed.
-
-Directed by director Wali Mohan Das, directed by director Wali Mohan Das, Shane Nikam, Kalairasan, Niharika Konitela, Aishwarya Dutta, Karunas, Pandiyarajan. Prasanna S. Sam C for this film, which has been recorded by Kumar. S.. The film has been composed by SR Productions Film Company. Produced by Jagadish.
-
-The film crew has released a special video that the shooting of the film has been completely completed.. The film crew has said that the post -shooting work will begin soon, followed by the first look and teaser of the film.
-
-◼️
-
-[Data](articles/f157f574.json)
-
-[Extended Data](ext_articles/f157f574.ext.json)
-
----
-
-### Gender Equality Bill inconsistent with Constitution
-
-*2024-06-07 10:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Gender-Equality-Bill-inconsistent-with-Constitution/108-284333) · `en`
-
-Parliament, June 07 (Daily Mirror)- The Supreme Court observed that the Gender Equality Bill is inconsistant with the Constitution as a whole and should be enacted with a two thirds majority and through a referendum, Speaker Mahinda Yapa Abeywardhane announced today.
-
-◼️
-
-[Data](articles/baf2e891.json)
-
-[Extended Data](ext_articles/baf2e891.ext.json)
 
 ---
